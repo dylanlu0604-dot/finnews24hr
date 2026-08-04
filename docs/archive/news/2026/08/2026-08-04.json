@@ -1,7 +1,130 @@
 {
   "date": "2026-08-04",
-  "count": 1894,
+  "count": 1908,
   "items": [
+    {
+      "id": "mkt:019fcc43-a244-7aab-8f6b-b1c589fba8e5",
+      "time": "2026-08-04 18:13:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Sources: U.S. has expended large share of long‑range precision missiles in war with Iran】Refinitiv reported three people familiar with the data said the U.S. Army has expended a large portion of its long‑range precision missile stockpile over five months of conflict with Iran. The munitions cited are the Army Tactical Missile System (ATACMS) and the Precision Strike Missile (PrSM); two sources said the U.S. has used \"virtually all\" of those weapons. Analysts say each missile costs more than $1m; the sources did not disclose remaining inventory levels."
+    },
+    {
+      "id": "mkt:019fcc43-1953-7aab-8f6b-aecbf509370a",
+      "time": "2026-08-04 18:12:57",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【China Ministry of Finance to issue 2026 book-entry discount Treasury (47th tranche), CNY 20bn】China's Ministry of Finance plans to issue the 2026 book-entry discount Treasury (47th tranche), a 28-day discount bond with a competitive auction of CNY 20bn face value and allowance for additional bids by Class A participants. Price will be set by competitive tender and the bond will be issued at a discount to par. Interest accrues from 6 Aug 2026; repaid at par on 3 Sep 2026 (holiday-adjusted). Auction window: 5 Aug 2026, 10:35–11:35."
+    },
+    {
+      "id": "te:economy:572494",
+      "time": "2026-08-04 18:12:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "LMI Logistics Managers Index",
+        "Importance 2"
+      ],
+      "text": "US Logistics Expansion Cools as Inventory Growth Slows — The US Logistics Managers' Index eased to 68.9 in July 2026, down from 71.1 in June, which marked the fastest pace of expansion since March 2022. Although growth moderated, July's reading remains higher than any monthly reading recorded between 2023 and 2025, indicating continued strength in the logistics sector. The slowdown was driven primarily by Inventory Levels, which fell 5.5 points to 55.0 after firms pulled inventory forward ahead of July tariff increases. The decline was most pronounced among Downstream retailers, where Inventory Levels dropped from 66.0 to 46.3, suggesting that inventories built ahead of the holiday season are now concentrated Upstream at the wholesale level. Meanwhile, Inventory Costs continued to rise, increasing 1.1 points to 77.0. At 22.0 points above Inventory Levels, the gap underscores persistent cost pressures from tariffs and ongoing geopolitical conflict."
+    },
+    {
+      "id": "5024380",
+      "time": "2026-08-04 18:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西警方在養老金調查新階段執行18份逮捕令。"
+    },
+    {
+      "id": "5024379",
+      "time": "2026-08-04 18:12:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聲網聯合愛芯元智推出機器人實時互動方案】8月4日，聲網與AI系統晶片（SoC）供應商愛芯元智聯合宣佈，基於愛芯元智AX8850N SoC完成聲網面向機器人場景的實時互動方案適配。方案面向整個機器人產業設計，已適配場景涵蓋工業AGV/AMR與機器狗、服務機器人、家庭陪護與IPC、農業巡檢與植保、能源及園區IPC等。"
+    },
+    {
+      "id": "5024378",
+      "time": "2026-08-04 18:11:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【康寧美股盤前漲超5%】康寧美股盤前漲超5%，現報154.5美元。"
+    },
+    {
+      "id": "mkt:019fcc41-f305-7aab-8f6b-a1c76d09be4e",
+      "time": "2026-08-04 18:11:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "09971.HK",
+        "Impact bullish"
+      ],
+      "text": "Basic Semiconductor (09971.HK) said it has entered a strategic cooperation with Hanlei Technology, building on a prior long-term partnership to accelerate development and mass production of 8-inch silicon carbide (SiC) wafers."
+    },
+    {
+      "id": "5024377",
+      "time": "2026-08-04 18:11:26",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式貼現（四十七期）國債 招標面值總額200億元】財政部擬發行2026年記賬式貼現（四十七期）國債。本期國債為期限28天的貼現債。本期國債競爭性招標面值總額200億元，進行甲類成員追加投標。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本期國債自2026年8月6日開始計息，於2026年9月3日（節假日順延）按面值償還。招標時間為2026年8月5日上午10:35至11:35。"
+    },
+    {
+      "id": "5024376",
+      "time": "2026-08-04 18:11:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美克家居：截至7月31日累計回購股份179萬股 耗資267.48萬元】美克家居公告稱，公司於2024年7月審議透過回購股份議案，預計回購金額5000萬元 - 10000萬元，用於減少註冊資本，實施期限延至2026年12月31日。截至2026年7月31日，公司累計回購股份179萬股，佔總股本0.12%，購買最高價1.57元/股，最低價1.47元/股，已支付總金額267.48萬元。本次回購符合既定方案，公司將按規定繼續實施並披露進展。"
+    },
+    {
+      "id": "5024375",
+      "time": "2026-08-04 18:11:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Qnity Electronics美股盤前漲超10%】Qnity Electronics美股盤前漲超10%，現報147.0美元。"
+    },
+    {
+      "id": "5024374",
+      "time": "2026-08-04 18:10:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基本半導體：與漢磊科技達成戰略合作，加快8英寸碳化矽晶圓開發量產】基本半導體公告，公司於2026年8月4日與漢磊科技達成戰略合作，雙方將在此前長期合作基礎上，加快8英寸碳化矽晶圓的開發及量產，共同推進新工藝平臺開發和量產落地，提升碳化矽產品在新能源汽車、AI算力中心等領域的市場份額。"
+    },
+    {
+      "id": "5024373",
+      "time": "2026-08-04 18:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央氣象臺繼續釋出暴雨、強對流天氣雙預警】中央氣象臺8月4日18時繼續釋出暴雨黃色預警：預計，8月4日20時至5日20時，黑龍江中南部和東北部、陝西中部和東南部、山西西南部、河南西部、湖北西部、湖南中西部、重慶東南部、貴州東北部、雲南南部和西部、廣西東南部和中北部、廣東西南部沿海、海南島等地部分地區有大到暴雨，其中，陝西中部和東南部、河南西南部、雲南西南部、海南島南部和東北部等地局地有大暴雨(100-200毫米)；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。"
+    },
+    {
+      "id": "5024372",
+      "time": "2026-08-04 18:09:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎通科技：2026年上半年淨利潤1.84億元，同比增長59.24%】鼎通科技公告，2026年上半年營業收入10.29億元，同比增長31.17%。歸屬於上市公司股東的淨利潤1.84億元，同比增長59.24%。歸屬於上市公司股東的扣除非經常性損益的淨利潤1.75億元，同比增長62.73%。公司擬向全體股東每10股派發現金紅利3元（含稅）。"
+    },
+    {
+      "id": "5024371",
+      "time": "2026-08-04 18:09:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳力奇：合計持股5%以上股東減持股份觸及1%整數倍】佳力奇公告稱，公司合計持股5%以上股東華控寧波、華控湖北和霍爾果斯華控具有一致行動關係，2026年7月31日至8月3日期間，上述股東透過集中競價方式合計減持146,500股，佔公司總股本的0.1766%。本次權益變動後，其合計持股比例由17.1737%降至16.9972%，觸及1%整數倍。本次減持與此前計劃一致，且未實施完畢，不會對公司治理等產生重大影響，也不會導致控制權變更。"
+    },
     {
       "id": "5024370",
       "time": "2026-08-04 18:08:37",
