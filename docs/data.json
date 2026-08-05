@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-06 02:25:15",
-  "count": 17923,
+  "updated": "2026-08-06 02:29:08",
+  "count": 17920,
   "items": [
+    {
+      "id": "te:markets:573113",
+      "time": "2026-08-06 02:25:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Butter Surges by 5.20% — Top commodity gainers are Butter (5.20%) and Rubber (2.80%). Biggest loser is Lumber (-1.53%)."
+    },
     {
       "id": "mkt:019fd32a-c2b8-7aab-8f92-a4bb4534747b",
       "time": "2026-08-06 02:23:42",
@@ -165561,52 +165572,6 @@
         "Impact bearish"
       ],
       "text": "Ahead of Fed Chair Kevin Warsh's press conference, spot gold has retreated about $20 from its post-rate-decision peak and is trading at $4,065/oz."
-    },
-    {
-      "id": "mkt:019faf23-33bb-7aab-8ef2-a6dd0442818b",
-      "time": "2026-07-30 02:29:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "The Fed's decision to hold rates unchanged clouds the prospect of a September hike and beyond. Traders have pushed the expected 25bp hike to October, and confidence in two hikes before next March is waning."
-    },
-    {
-      "id": "te:economy:570844",
-      "time": "2026-07-30 02:26:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield Holds Gains After Fed Decision — The yield on the US 10-year Treasury note edged up to 4.64% on Wednesday, holding on to earlier gains after the Federal Reserve left the federal funds rate unchanged, broadly in line with expectations, despite markets assigning roughly a one-in-three probability to a rate hike. However, three FOMC members dissented in favor of a 25bps increase, leaving the door open to a rate hike at the September meeting. Markets currently assign roughly a 73% probability to such a move. Looking further ahead, around two additional quarter-point rate hikes remain fully priced in by the middle of next year."
-    },
-    {
-      "id": "5014977",
-      "time": "2026-07-30 02:26:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：OpenAI 執行長山姆・奧特曼將於本週與白宮官員懷爾斯會面，磋商人工智慧監管框架落地前相關事宜。奧特曼將會見特朗普政府多名高階官員、國會議員及經濟學家，探討 OpenAI 即將推出的新一代模型。"
-    },
-    {
-      "id": "5014976",
-      "time": "2026-07-30 02:25:20",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲按兵不動後，8月聯邦基金期貨飆升，交易量激增】8月聯邦基金期貨受到強勁買盤支撐，迅速對美聯儲維持3.5%-3.75%利率不變的決定作出調整，在紐約時間下午2點政策宣佈前數秒內，抹去了該合約中約7個基點的加息溢價。該合約當日仍上漲約7個跳動點。在下午2點決議公佈前後的一分鐘內，約有4萬張期貨合約達成交易。最大的單分鐘成交量出現在下午2點03分，當時在96.365價位附近成交了約6萬張合約。 芝加哥商品交易所（CME）的最終資料顯示，在週二的交易時段，8月合約的未平倉合約量（即交易員持有的新風險敞口）首次突破100萬張。過去幾周的資金流主要以拋售為主，包括今天早盤似乎又出現了一波密集的空頭拋售。此外，市場目前不再將9月政策會議上的“完整加息”計入定價，當前該會議仍保留了約18個基點的加息溢價，而7月美聯儲會議前的加息溢價為25個基點。"
     }
   ]
 }
