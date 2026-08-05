@@ -1,7 +1,28 @@
 {
   "date": "2026-08-06",
-  "count": 172,
+  "count": 174,
   "items": [
+    {
+      "id": "mkt:019fd32a-c2b8-7aab-8f92-a4bb4534747b",
+      "time": "2026-08-06 02:23:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi armed group spokesman said its forces are closely monitoring movements of all Saudi oil tankers and will not allow any vessel to pass."
+    },
+    {
+      "id": "5027423",
+      "time": "2026-08-06 02:21:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院正就埃麗卡·施瓦茨出任美國疾控中心主任一職舉行確認投票。"
+    },
     {
       "id": "te:markets:573112",
       "time": "2026-08-06 02:20:10",
