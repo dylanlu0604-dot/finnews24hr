@@ -1,7 +1,117 @@
 {
   "date": "2026-08-05",
-  "count": 713,
+  "count": 724,
   "items": [
+    {
+      "id": "mkt:019fcf53-e398-7aab-8f7b-0f6c3bfe2ad1",
+      "time": "2026-08-05 08:30:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong S&P Global Manufacturing PMI fell to 51 in July from 52 in June."
+    },
+    {
+      "id": "mkt:019fcf53-de2f-7aab-8f7b-01474043d3ec",
+      "time": "2026-08-05 08:30:07",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan July services PMI (final) 51.2, down from 51.9 previously."
+    },
+    {
+      "id": "mkt:019fcf53-dbcc-7aab-8f7a-fdebe6e526a1",
+      "time": "2026-08-05 08:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan July final composite PMI 52.7, down from 53.1 previously."
+    },
+    {
+      "id": "mkt:019fcf53-c0e6-7aab-8f7a-f39fedc33f65",
+      "time": "2026-08-05 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Services PMI (Jul) | actual 51.2 | previous 51.9"
+    },
+    {
+      "id": "mkt:019fcf53-c0d8-7aab-8f7a-ee49354e701f",
+      "time": "2026-08-05 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Composite PMI (Jul) | actual 52.7 | previous 53.1"
+    },
+    {
+      "id": "mkt:019fcf53-c0a4-7aab-8f7a-e4c3cb9011ce",
+      "time": "2026-08-05 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Manufacturing PMI (Jul) | actual 51 | previous 52"
+    },
+    {
+      "id": "te:economy:572721",
+      "time": "2026-08-05 08:29:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond Korea",
+        "Importance 1"
+      ],
+      "text": "South Korea 10Y Bond Yield Hits 4-week Low — South Korea 10 Year Government Bond Yield decreased to 4.19%, the lowest since July 2026. Over the past 4 weeks, South Korea 10Y Bond Yield gained 5.00 basis points, and in the last 12 months, it increased 148.50 basis points."
+    },
+    {
+      "id": "5025601",
+      "time": "2026-08-05 08:29:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【澳大利亞股市創歷史新高 受伊朗局勢和經濟前景提振】受美伊衝突擔憂緩解以及國內經濟利好訊號的提振，澳大利亞股市基準指數盤中創下歷史新高。標普/澳證200指數一度上漲0.7%，至9,213.00點，超過了3月初創下的前期高點。在週三交易中，材料板塊貢獻最大，必和必拓集團和力拓集團走高。澳大利亞股市的防禦性魅力重新走紅，推動其在過去兩個月反彈。儘管人工智慧AI交易的動盪導致亞太股市大幅下跌，但由於澳大利亞股市缺乏對波動性較大晶片製造商的敞口，因此成了避風港。市場對華盛頓與德黑蘭可能達成臨時協議的樂觀情緒，緩解了人們對能源供應的擔憂。週二美國股市收於歷史最高點。"
+    },
+    {
+      "id": "mkt:019fcf52-7312-7aab-8f7a-dea09b573a18",
+      "time": "2026-08-05 08:28:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated the sidecar mechanism on the KOSDAQ, pausing programmatic trading."
+    },
+    {
+      "id": "5025600",
+      "time": "2026-08-05 08:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓聯社：警方突擊搜查星巴克韓國總部。"
+    },
+    {
+      "id": "5025599",
+      "time": "2026-08-05 08:28:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：建議關注AI應用和國產模型兩條投資主線】華泰證券研報稱，GPT-5.6降價推動大模型競爭由能力排名進一步轉向“同等智慧成本”。OpenAI於7月30日將Terra和Luna價格分別下調20%和80%；次日釋出的DeepSeek V4 Flash 0731在Artificial Analysis Intelligence Index達到50分，僅比Luna低1分，混合價格和平均任務成本分別約0.06美元/百萬Token和0.03美元，較Luna分別低約65%和57%。華泰證券認為，Kimi K3以57分代表當前國產開放權重模型的強能力上限，DS V4 Flash則重新整理50分能力區間的成本底線，中國模型已形成“強能力+高價效比”兩條競爭路線，有望帶動下游應用的起量。建議關注AI應用和國產模型兩條投資主線。"
+    },
     {
       "id": "mkt:019fcf51-6037-7aab-8f7a-d14723655fa2",
       "time": "2026-08-05 08:27:24",
