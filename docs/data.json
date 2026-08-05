@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-06 04:44:23",
-  "count": 17546,
+  "updated": "2026-08-06 04:48:16",
+  "count": 17541,
   "items": [
+    {
+      "id": "te:markets:573129",
+      "time": "2026-08-06 04:45:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Occidental Petroleum earnings above expectations at 2.40 USD — Occidental Petroleum (OXY) released earnings per share at 2.40 USD, compared to market expectations of 1.84 USD."
+    },
+    {
+      "id": "mkt:019fd3ac-92d8-7aab-8f94-2cedeb6d5016",
+      "time": "2026-08-06 04:45:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sequoia Capital has closed a new $10 billion fundraising round."
+    },
+    {
+      "id": "te:markets:573128",
+      "time": "2026-08-06 04:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower Ahead of Rate Decision — The Ibovespa edged down 0.1% to close at 177,726 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Markets expect Copom to cut the Selic rate by 25 basis points to 14.0%, with attention focused on the accompanying statement for clues on whether another cut could follow in September. Financial stocks were mostly lower, with Bradesco down 0.8% and BB Seguridade losing 0.9%. In contrast, Itaú gained 0.7% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Gerdau rebounded 1.7% after posting stronger-than-expected 2Q26 results, while RD Saúde led gains, rising 5.9% following its earnings release. Petrobras fell 1.3% as oil prices declined. Bradesco, Axia (0%), Auren (-1.1%), Brava (+2.6%), and Engie (-1%) are set to report earnings after the close."
+    },
     {
       "id": "5027493",
       "time": "2026-08-06 04:39:43",
@@ -161611,87 +161643,6 @@
         "國際"
       ],
       "text": "特朗普：是時候攻佔哈爾克島，完成行動。"
-    },
-    {
-      "id": "5015235",
-      "time": "2026-07-30 04:47:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "META執行長稱，公司收到許多計算資源報價，均高於其支付價格。"
-    },
-    {
-      "id": "mkt:019fafa1-5efb-7aab-8ef9-7abffbecdeda",
-      "time": "2026-07-30 04:46:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO said the company plans to offer multiple tiers and pricing options for its Meta One subscription service."
-    },
-    {
-      "id": "mkt:019fafa1-2f36-7aab-8ef9-71f6cd8c7ac0",
-      "time": "2026-07-30 04:46:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said agency products could evolve into a business model similar to advertising."
-    },
-    {
-      "id": "5015234",
-      "time": "2026-07-30 04:46:42",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "土耳其外長與哈馬斯政治局領導人舉行會晤。"
-    },
-    {
-      "id": "mkt:019fafa0-e198-7aab-8ef9-6a28ba5892bb",
-      "time": "2026-07-30 04:46:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Meta Platforms (META.O) CEO said most of the company's compute capacity will be used for its own operations, but it expects to build a sizable business serving large customers."
-    },
-    {
-      "id": "5015233",
-      "time": "2026-07-30 04:46:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic稱正在處理影響模型執行的故障。"
-    },
-    {
-      "id": "5015232",
-      "time": "2026-07-30 04:46:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic表示，已經查明影響旗下模型執行的故障。"
-    },
-    {
-      "id": "5015231",
-      "time": "2026-07-30 04:44:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟Azure年度營收突破1000億美元。"
     }
   ]
 }

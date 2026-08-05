@@ -1,7 +1,39 @@
 {
   "date": "2026-08-06",
-  "count": 306,
+  "count": 309,
   "items": [
+    {
+      "id": "te:markets:573129",
+      "time": "2026-08-06 04:45:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Occidental Petroleum earnings above expectations at 2.40 USD — Occidental Petroleum (OXY) released earnings per share at 2.40 USD, compared to market expectations of 1.84 USD."
+    },
+    {
+      "id": "mkt:019fd3ac-92d8-7aab-8f94-2cedeb6d5016",
+      "time": "2026-08-06 04:45:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sequoia Capital has closed a new $10 billion fundraising round."
+    },
+    {
+      "id": "te:markets:573128",
+      "time": "2026-08-06 04:44:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower Ahead of Rate Decision — The Ibovespa edged down 0.1% to close at 177,726 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Markets expect Copom to cut the Selic rate by 25 basis points to 14.0%, with attention focused on the accompanying statement for clues on whether another cut could follow in September. Financial stocks were mostly lower, with Bradesco down 0.8% and BB Seguridade losing 0.9%. In contrast, Itaú gained 0.7% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Gerdau rebounded 1.7% after posting stronger-than-expected 2Q26 results, while RD Saúde led gains, rising 5.9% following its earnings release. Petrobras fell 1.3% as oil prices declined. Bradesco, Axia (0%), Auren (-1.1%), Brava (+2.6%), and Engie (-1%) are set to report earnings after the close."
+    },
     {
       "id": "5027493",
       "time": "2026-08-06 04:39:43",
