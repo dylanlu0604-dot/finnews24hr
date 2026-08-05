@@ -1,7 +1,51 @@
 {
   "date": "2026-08-06",
-  "count": 331,
+  "count": 336,
   "items": [
+    {
+      "id": "mkt:019fd3d9-d3a2-7aab-8f94-7bf4c4c10135",
+      "time": "2026-08-06 05:34:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank cuts benchmark policy rate by 25 bps, in line with market expectations."
+    },
+    {
+      "id": "5027508",
+      "time": "2026-08-06 05:34:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西下調基準利率 25 個基點至 14.00% 。"
+    },
+    {
+      "id": "mkt:019fd3d9-4598-7aab-8f94-729328956237",
+      "time": "2026-08-06 05:34:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil Selic rate at 14.00% as of Aug 5; expected 14.00%; previous 14.25%."
+    },
+    {
+      "id": "mkt:019fd3d9-1df6-7aab-8f94-695e50127d56",
+      "time": "2026-08-06 05:34:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Brazil | Selic Interest Rate (Aug.5) | actual 14% | consensus 14.00% | previous 14.25%"
+    },
+    {
+      "id": "5027507",
+      "time": "2026-08-06 05:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際足聯：國際足聯秘書長及國際足聯管理委員會成員重申全力支援國際足聯主席詹尼・因凡蒂諾。"
+    },
     {
       "id": "mkt:019fd3d5-c3e8-7aab-8f94-6770c0d7fa3d",
       "time": "2026-08-06 05:30:29",

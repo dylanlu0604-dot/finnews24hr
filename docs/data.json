@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-06 05:31:48",
-  "count": 17512,
+  "updated": "2026-08-06 05:35:38",
+  "count": 17513,
   "items": [
+    {
+      "id": "mkt:019fd3d9-d3a2-7aab-8f94-7bf4c4c10135",
+      "time": "2026-08-06 05:34:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank cuts benchmark policy rate by 25 bps, in line with market expectations."
+    },
+    {
+      "id": "5027508",
+      "time": "2026-08-06 05:34:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西下調基準利率 25 個基點至 14.00% 。"
+    },
+    {
+      "id": "mkt:019fd3d9-4598-7aab-8f94-729328956237",
+      "time": "2026-08-06 05:34:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil Selic rate at 14.00% as of Aug 5; expected 14.00%; previous 14.25%."
+    },
+    {
+      "id": "mkt:019fd3d9-1df6-7aab-8f94-695e50127d56",
+      "time": "2026-08-06 05:34:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Brazil | Selic Interest Rate (Aug.5) | actual 14% | consensus 14.00% | previous 14.25%"
+    },
+    {
+      "id": "5027507",
+      "time": "2026-08-06 05:32:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際足聯：國際足聯秘書長及國際足聯管理委員會成員重申全力支援國際足聯主席詹尼・因凡蒂諾。"
+    },
     {
       "id": "mkt:019fd3d5-c3e8-7aab-8f94-6770c0d7fa3d",
       "time": "2026-08-06 05:30:29",
@@ -161293,45 +161337,6 @@
         "Importance 1"
       ],
       "text": "South Korea Manufacturing Sentiment Improves — South Korea’s manufacturing Business Survey Index rose to 82 in July 2026 from 78 in June, signaling improved business sentiment. The production index increased to 93 from 90, while the new orders index rose to 91 from 88. Meanwhile, the inventories index edged up to 100 from 99, and the financial situation index improved to 81 from 79. The Composite Business Sentiment Index for manufacturing increased 2.0 points from the previous month to 103.2, while the outlook for the following month rose 2.3 points to 100.5."
-    },
-    {
-      "id": "5015271",
-      "time": "2026-07-30 05:35:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "META執行長：開放權重模型的成功並不會削弱API的機遇，因為擁有執行模型推理的計算能力本身就是一種商業優勢來源。"
-    },
-    {
-      "id": "mkt:019fafcd-0931-7aab-8efa-0073a71e0667",
-      "time": "2026-07-30 05:34:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said the success of open-weight models will not diminish API opportunities, because owning the compute capacity to run model inference is the source of commercial advantage."
-    },
-    {
-      "id": "5015270",
-      "time": "2026-07-30 05:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國煉油商正以新冠疫情前以來的最高水平生產燃料】美國煉油商正以新冠疫情爆發前未見的速度將原油轉化為汽油和柴油等成品油，但在歷史性的燃料短缺危機下，即便全速運轉，短期內也不太可能遏制飆升的價格。據美國能源資訊署（EIA）資料顯示，上週美國煉油廠日均加工原油1700萬桶，正全力滿足全球及國內燃料需求。這是自2019年9月以來的最高單週平均水平。在中西部地區，煉油廠單週的原油加工量更是創下了歷史新高。"
-    },
-    {
-      "id": "5015269",
-      "time": "2026-07-30 05:31:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "強生與Sail Biomedicines達成戰略協議，獲得以25.8億美元收購該公司的獨家選擇權，並同步進行股權投資；首期合計支付7.85億美元。"
     }
   ]
 }
