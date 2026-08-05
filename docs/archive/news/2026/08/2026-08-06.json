@@ -1,7 +1,41 @@
 {
   "date": "2026-08-06",
-  "count": 290,
+  "count": 293,
   "items": [
+    {
+      "id": "mkt:019fd39c-7e3d-7aab-8f94-136144b0ab95",
+      "time": "2026-08-06 04:27:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【Dollar index down 0.18% on 5th】The dollar index, which measures the dollar against six major currencies, fell 0.18% to 99.676 at the New York close on the 5th. EUR/USD 1.1553, up from 1.1533; GBP/USD 1.3469, up from 1.3452. USD/JPY 157.67, up from 157.66. USD/CHF 0.8069, down from 0.8092. USD/CAD 1.4008, down from 1.4066. USD/SEK 9.4832, down from 9.5192."
+    },
+    {
+      "id": "5027485",
+      "time": "2026-08-06 04:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Applovin2026年Q2營收19.24億美元 同比增長53%】Applovin2026年Q2營收19.24億美元，同比增長53%；稀釋後EPS3.76美元。"
+    },
+    {
+      "id": "te:markets:573124",
+      "time": "2026-08-06 04:25:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "DoorDash earnings in line with market expectations at 0.46 USD — DoorDash (DASH) released earnings per share at 0.46 USD, in line with market expectations."
+    },
     {
       "id": "te:markets:573123",
       "time": "2026-08-06 04:23:48",
