@@ -1,7 +1,36 @@
 {
   "date": "2026-08-06",
-  "count": 217,
+  "count": 220,
   "items": [
+    {
+      "id": "mkt:019fd35b-ad9b-7aab-8f93-411644e3bbad",
+      "time": "2026-08-06 03:17:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms (META.O) chief AI officer said Muse Code beta is live; it is the Meta Super Intelligence Lab’s (MSL) first coding agent, built on Muse Spark 1.2."
+    },
+    {
+      "id": "mkt:019fd35b-7475-7aab-8f93-3e7e33e754e6",
+      "time": "2026-08-06 03:16:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Refinitiv: Iran seeks 5–7% charge on cargo value for Strait of Hormuz transits under Iran-Oman proposal】Refinitiv cites a senior Iranian source and two regional officials saying a proposed Iran-Oman agreement would give Iran control over vessels transiting the Strait of Hormuz into the Gulf, one of the largest concessions Tehran has secured to date. Officials say details of what 'control' entails remain unresolved, particularly Iran's role for ships leaving the Gulf. Iran's deputy foreign minister said the route would be arranged so commercial traffic entering and exiting passes through Iranian territorial waters. A senior Iranian official said Iran seeks to levy fees of 5–7% of cargo value on ships using the strait; Oman is discussing about 3% and Washington opposes any charge. Payments would be nominally voluntary, though regional sources say shipping firms may feel compelled to pay under the threat of Iranian attacks."
+    },
+    {
+      "id": "5027447",
+      "time": "2026-08-06 03:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta推出首款AI程式設計智慧體，正面挑戰Anthropic與OpenAI。"
+    },
     {
       "id": "5027446",
       "time": "2026-08-06 03:09:22",

@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-06 03:13:43",
-  "count": 17690,
+  "updated": "2026-08-06 03:17:36",
+  "count": 17678,
   "items": [
+    {
+      "id": "mkt:019fd35b-ad9b-7aab-8f93-411644e3bbad",
+      "time": "2026-08-06 03:17:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Meta Platforms (META.O) chief AI officer said Muse Code beta is live; it is the Meta Super Intelligence Lab’s (MSL) first coding agent, built on Muse Spark 1.2."
+    },
+    {
+      "id": "mkt:019fd35b-7475-7aab-8f93-3e7e33e754e6",
+      "time": "2026-08-06 03:16:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Refinitiv: Iran seeks 5–7% charge on cargo value for Strait of Hormuz transits under Iran-Oman proposal】Refinitiv cites a senior Iranian source and two regional officials saying a proposed Iran-Oman agreement would give Iran control over vessels transiting the Strait of Hormuz into the Gulf, one of the largest concessions Tehran has secured to date. Officials say details of what 'control' entails remain unresolved, particularly Iran's role for ships leaving the Gulf. Iran's deputy foreign minister said the route would be arranged so commercial traffic entering and exiting passes through Iranian territorial waters. A senior Iranian official said Iran seeks to levy fees of 5–7% of cargo value on ships using the strait; Oman is discussing about 3% and Washington opposes any charge. Payments would be nominally voluntary, though regional sources say shipping firms may feel compelled to pay under the threat of Iranian attacks."
+    },
+    {
+      "id": "5027447",
+      "time": "2026-08-06 03:16:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta推出首款AI程式設計智慧體，正面挑戰Anthropic與OpenAI。"
+    },
     {
       "id": "5027446",
       "time": "2026-08-06 03:09:22",
@@ -163000,164 +163029,6 @@
         "UAL.O"
       ],
       "text": "U.S. President Trump said United Airlines participated in plans to renovate Dulles Airport."
-    },
-    {
-      "id": "mkt:019faf4e-d090-7aab-8ef6-bc14c75e6a4a",
-      "time": "2026-07-30 03:16:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed Chair Kevin Warsh has concluded his press conference."
-    },
-    {
-      "id": "mkt:019faf4e-9217-7aab-8ef6-b15081aeca86",
-      "time": "2026-07-30 03:16:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said tighter market conditions make us confident we can achieve our policy objectives."
-    },
-    {
-      "id": "5015119",
-      "time": "2026-07-30 03:16:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：聯合航空公司參與了杜勒斯機場的（翻新）計劃。"
-    },
-    {
-      "id": "5015118",
-      "time": "2026-07-30 03:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際足聯對阿根廷足協啟動多項調查】當地時間7月29日，國際足聯宣佈對阿根廷足協啟動多項紀律調查，同時因美加墨世界盃決賽後衝突一事，對阿根廷球員帕雷德斯、莫利納以及助理教練阿亞拉啟動紀律調查。這三人因採取“攻擊”行為，有可能將面臨長時間禁賽。"
-    },
-    {
-      "id": "5015117",
-      "time": "2026-07-30 03:15:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【沃什：密切觀察市場定價但不隨市場定價行動】美聯儲主席沃什在新聞釋出會上解釋了，為何他會提到金融市場在缺乏央行政策指引的情況下，已自行計入了更趨緊的貨幣政策預期，但這並不意味著美聯儲必須跟隨交易員和投資者的定價行動。沃什表示：“令我感到欣慰的是，在兩次會議之間的這段時間裡，市場並不是因為我們而調整定價，而是自行反映出更趨緊的金融環境。”他還說：“我認為這是一個有益的發展。”不過他補充道：“我們並不認可或支援任何特定的市場走勢，但我想說，我們會以高度關注的態度觀察市場動向。”"
-    },
-    {
-      "id": "mkt:019faf4d-59bb-7aab-8ef6-af4ebbeec175",
-      "time": "2026-07-30 03:15:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he will continue to hold press conferences through year-end."
-    },
-    {
-      "id": "5015116",
-      "time": "2026-07-30 03:15:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌於Google Flow Music上線Lyria 3.5音樂生成模型。"
-    },
-    {
-      "id": "mkt:019faf4d-3b61-7aab-8ef6-a0a959e90ede",
-      "time": "2026-07-30 03:15:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Institution: Fed to stay on hold, will mainly 'wait for data' through year-end】Integrated Partners CIO Steve Corano said the Fed’s decision to hold rates was in line with expectations but noted dissenting votes favoring a hike rose further versus the prior meeting. He flagged that remarks from Wosh at the post-meeting press conference will be key for near-term policy guidance. Wosh, a supply-side economist, argues that if inflation is primarily driven by energy prices then rate hikes would only suppress demand and would not increase oil supply. Corano said until core inflation gives clearer direction the Fed’s baseline is to wait for more data. Five working groups Wosh set up are due to publish preliminary findings in September and final reports in December, providing the Fed additional runway to remain on hold absent a major shock."
-    },
-    {
-      "id": "5015115",
-      "time": "2026-07-30 03:14:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲不會受市場價格制約。"
-    },
-    {
-      "id": "mkt:019faf4c-d64b-7aab-8ef6-998d87f4ccfa",
-      "time": "2026-07-30 03:14:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. President Trump praised NVIDIA CEO Jensen Huang and NVIDIA's chips."
-    },
-    {
-      "id": "mkt:019faf4c-c31e-7aab-8ef6-906f0def6130",
-      "time": "2026-07-30 03:14:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump says NVIDIA CEO Jensen Huang is currently in the Oval Office."
-    },
-    {
-      "id": "5015114",
-      "time": "2026-07-30 03:14:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：從現在到年底，我承諾今年將舉行新聞釋出會。"
-    },
-    {
-      "id": "mkt:019faf4c-6603-7aab-8ef6-88cbb07bd4f7",
-      "time": "2026-07-30 03:14:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Kevin Warsh: Fed will watch market pricing closely, will not act to follow market-driven tightening】At a press conference Fed chair Kevin Warsh said markets have priced a tighter policy path in the absence of central guidance, but the Fed does not have to follow traders' pricing. \"I am comforted that between meetings markets have adjusted pricing not because of us but reflecting tighter financial conditions,\" he said, adding \"I think that's a beneficial development.\" He added the Fed \"does not endorse or support any particular market move\" but will monitor market dynamics closely."
-    },
-    {
-      "id": "5015113",
-      "time": "2026-07-30 03:14:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我只是力求確保資訊來源儘可能直接、不受過濾。"
-    },
-    {
-      "id": "5015112",
-      "time": "2026-07-30 03:13:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚英偉達的黃仁勳和英偉達的晶片。"
     }
   ]
 }
