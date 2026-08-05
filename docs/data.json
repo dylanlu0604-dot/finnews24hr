@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-06 04:36:41",
-  "count": 17558,
+  "updated": "2026-08-06 04:40:31",
+  "count": 17554,
   "items": [
+    {
+      "id": "5027493",
+      "time": "2026-08-06 04:39:43",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲理事庫克警告通脹固化風險 稱必要時將支援加息】美聯儲理事麗莎·庫克重申，如果通脹不能放緩，她準備好支援加息，並警告稱，決策者可能沒有足夠時間等待通脹回落至2%的目標。儘管庫克支援美聯儲7月會議維持利率不變的決定，但她提醒稱，通脹持續高於美聯儲目標的時間越長，未來遏制通脹的難度就越大。“如果我不能很快看到通脹持續回落的跡象，我準備好採取行動，”庫克週三在阿拉斯加一場活動發表講話時表示。“通脹連續五年高於目標水平，意味著高通脹固化到企業定價和工資設定行為中的風險上升，從而導致頑固通脹，屆時我們將更難加以遏制。”庫克表示，關稅影響減弱、油價可能下跌以及人工智慧熱潮相關的壓力有所緩和，這些因素都可能有助於降低通脹，從而消除收緊政策的必要性。儘管如此，庫克強調，她的首要任務仍是推動通脹回到美聯儲的目標水平。“如果大家從今天的講話中只記住一點，我希望那就是，我堅定致力於恢復價格穩定，”庫克表示。“首先也是最重要的是讓通脹回到目標水平，這對於實現國會賦予美聯儲的雙重使命至關重要。”"
+    },
+    {
+      "id": "5027492",
+      "time": "2026-08-06 04:37:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥期權交易所（CBOE）7月期貨日均成交量（DTV）增長16.1%。7月指數期權日均成交量增長34%。7月跨交易所期權日均成交量增長28.4%。"
+    },
+    {
+      "id": "5027491",
+      "time": "2026-08-06 04:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "紅杉資本完成100億美元新一輪融資。今年已經向（除了SpaceX之外的）投資者回報50億美元。"
+    },
     {
       "id": "5027490",
       "time": "2026-08-06 04:36:08",
@@ -161757,80 +161784,6 @@
         "其他"
       ],
       "text": "市場資訊：沙特國防大臣到訪華盛頓，爭取美方批准出售F-35戰機。"
-    },
-    {
-      "id": "5015226",
-      "time": "2026-07-30 04:40:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "星巴克首席財務官：第三季度收到的關稅退款“基本抵消”了2026財年前三個季度產生的關稅成本。"
-    },
-    {
-      "id": "5015225",
-      "time": "2026-07-30 04:39:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "META執行長認為向企業出售API和代理存在巨大機遇。"
-    },
-    {
-      "id": "5015224",
-      "time": "2026-07-30 04:39:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，吉納維芙颶風向西北偏西方向移動時強度減弱。"
-    },
-    {
-      "id": "mkt:019faf9a-5183-7aab-8ef9-44db8485d34d",
-      "time": "2026-07-30 04:39:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said AI is enabling new user experiences and accelerating product delivery."
-    },
-    {
-      "id": "mkt:019faf9a-24e3-7aab-8ef9-3ee6c0129a99",
-      "time": "2026-07-30 04:39:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said AI investment is accelerating across every major part of its core business."
-    },
-    {
-      "id": "5015223",
-      "time": "2026-07-30 04:38:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "META執行長稱，得益於人工智慧，公司正在打造全新體驗，產品交付速度加快。"
-    },
-    {
-      "id": "te:markets:570880",
-      "time": "2026-07-30 04:36:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "O'Reilly Automotive earnings in line with market expectations at 0.86 USD — O'Reilly Automotive (ORLY) released earnings per share at 0.86 USD, in line with market expectations."
     }
   ]
 }
