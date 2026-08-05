@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06 06:02:52",
-  "count": 17491,
+  "updated": "2026-08-06 06:06:43",
+  "count": 17475,
   "items": [
+    {
+      "id": "5027523",
+      "time": "2026-08-06 06:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "eBay 首席財務官：第三季度合併商品交易總額（GMV）預期介於 220 億至 224 億美元之間，包含近期收購的 Depop 帶來的影響。"
+    },
     {
       "id": "5027522",
       "time": "2026-08-06 06:00:52",
@@ -19,6 +27,15 @@
         "焦點"
       ],
       "text": "紐約期金突破4310美元/盎司，日內漲0.10%。"
+    },
+    {
+      "id": "5027520",
+      "time": "2026-08-06 06:00:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲9月加息25個基點的機率為54.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為45.6%，累計加息25個基點的機率為54.4%。美聯儲到10月維持利率不變的機率為33.5%，累計加息25個基點的機率為52.1%，累計加息50個基點的機率為14.5%。"
     },
     {
       "id": "te:economy:573132",
@@ -160923,190 +160940,6 @@
         "Importance 1"
       ],
       "text": "Canada 10-Year Yield Holds at 3.60% — Canada's 10-year government bond yield held steady at about 3.60% in late July after the Federal Reserve left interest rates unchanged. While the decision was expected, three FOMC members dissented in favor of a 25-basis-point rate hike, keeping the possibility of tighter US monetary policy in September. Earlier this month, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers also warned that inflation expectations remain elevated and questioned the durability of the recovery. Investors continued to assess the potential impact of President Trump's proposed tariffs on Canadian imports and renewed tensions between the US and Iran."
-    },
-    {
-      "id": "mkt:019fafea-561e-7aab-8efa-82cf686863ba",
-      "time": "2026-07-30 06:06:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) said it expects operating expense growth in fiscal 2027 to be in the mid- to high-single-digit range."
-    },
-    {
-      "id": "5015314",
-      "time": "2026-07-30 06:06:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價盤後繼續上漲至 8%。"
-    },
-    {
-      "id": "mkt:019fafea-3169-7aab-8efa-78050f45e9a8",
-      "time": "2026-07-30 06:06:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) expects fiscal 2027 total revenue to grow in double digits."
-    },
-    {
-      "id": "mkt:019fafe9-e67c-7aab-8efa-76e40fc5e2f3",
-      "time": "2026-07-30 06:06:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "Microsoft (MSFT.O) expects capital expenditures in its first fiscal quarter to exceed $50 billion."
-    },
-    {
-      "id": "5015313",
-      "time": "2026-07-30 06:06:08",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "微軟下調2026年資本支出指引，由原先1900億美元調整至1750億美元，調整源於會計核算變更。"
-    },
-    {
-      "id": "mkt:019fafe9-a396-7aab-8efa-69579dae29aa",
-      "time": "2026-07-30 06:05:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Microsoft (MSFT.O) said it expects Azure and other cloud services revenue growth to accelerate in FY2027 H1 versus FY2026 H2."
-    },
-    {
-      "id": "5015312",
-      "time": "2026-07-30 06:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：第一財季個人計算業務收入預期為122億至127億美元。"
-    },
-    {
-      "id": "mkt:019fafe9-297d-7aab-8efa-604ebac9874e",
-      "time": "2026-07-30 06:05:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) expects first fiscal-quarter Intelligent Cloud revenue of $40.95–$41.25 billion."
-    },
-    {
-      "id": "5015311",
-      "time": "2026-07-30 06:05:13",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "微軟因會計核算規則調整，預計2026年資本支出規模達1750億美元。"
-    },
-    {
-      "id": "mkt:019fafe8-f03c-7aab-8efa-5f4589ebf418",
-      "time": "2026-07-30 06:05:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) expects first fiscal quarter revenue of $89.85–90.95 billion. FY2027 capital expenditure is forecast to rise YoY; including lease-accounting adjustments capex is expected at $175 billion. The company expects positive free cash flow in FY2027."
-    },
-    {
-      "id": "5015310",
-      "time": "2026-07-30 06:04:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟預計2027財年運營費用增長率為中到高個位數。"
-    },
-    {
-      "id": "5015309",
-      "time": "2026-07-30 06:04:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：第一財季資本支出將超過500億美元。"
-    },
-    {
-      "id": "5015308",
-      "time": "2026-07-30 06:04:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟首席財務官：預計2027財年仍將保持正自由現金流。"
-    },
-    {
-      "id": "5015307",
-      "time": "2026-07-30 06:04:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：第一財季生產力與業務流程部門收入將介於367億至370億美元之間。"
-    },
-    {
-      "id": "5015306",
-      "time": "2026-07-30 06:03:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟預計2027財年全年營收將實現兩位數增長。"
-    },
-    {
-      "id": "5015305",
-      "time": "2026-07-30 06:03:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：展望2027財年資本支出預計將同比增長。"
-    },
-    {
-      "id": "5015304",
-      "time": "2026-07-30 06:03:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：第一財季總營收預期介於898.5億至909.5億美元之間。"
-    },
-    {
-      "id": "mkt:019fafe6-e638-7aab-8efa-51c5d9339c92",
-      "time": "2026-07-30 06:02:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) CFO said that, beginning in fiscal 2027, the company will extend the estimated useful life of data centers and office buildings from 15 to 25 years. The change affects only the timing of future depreciation and is expected to have a negligible impact on fiscal 2027 operating income."
     }
   ]
 }
