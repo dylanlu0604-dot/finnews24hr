@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-06 06:33:39",
+  "updated": "2026-08-06 06:41:32",
   "count": 17461,
   "items": [
+    {
+      "id": "te:markets:573136",
+      "time": "2026-08-06 06:40:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Gains by 2.80% — Top commodity gainers are Rubber (2.80%) and Barley (2.01%). Biggest loser is Cocoa (-1.25%)."
+    },
+    {
+      "id": "5027536",
+      "time": "2026-08-06 06:38:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【專家：加快財政支出進度的核心目標或是儘快形成實物工作量】近日召開的中共中央政治局會議指出，宏觀政策要發力提效，加快財政支出和債券資金使用進度，有力推進“兩重”建設和“兩新”工作。專家認為，加快財政支出進度的核心目標或是儘快形成實物工作量。後續，擴大內需、支援服務消費和增強政策協同性，或是增量政策研究儲備的重點發力方向。（中證報）"
+    },
+    {
+      "id": "5027535",
+      "time": "2026-08-06 06:36:07",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【中證報：人民幣國債在港常態化發行，拓寬外資配置中國資產渠道】8月5日，財政部在香港特別行政區面向機構投資者招標發行2026年第四期150億元人民幣國債，受到投資者廣泛歡迎，認購倍數達4.67倍。專家認為，在香港常態化發行人民幣國債，有利於滿足國際資本配置需求，完善離岸人民幣基準利率曲線，持續推進人民幣國際化發展。"
+    },
+    {
+      "id": "te:markets:573135",
+      "time": "2026-08-06 06:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 4.41% — Top commodity gainers are Silver (4.41%), Gold (4.21%) and Copper (1.65%)."
+    },
     {
       "id": "mkt:019fd40e-f22e-7aab-8f94-d75551fd3ad5",
       "time": "2026-08-06 06:32:56",
@@ -160748,44 +160787,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4080美元/盎司，日內漲0.34%。"
-    },
-    {
-      "id": "5015333",
-      "time": "2026-07-30 06:40:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普考量重啟對伊重大軍事行動，美軍籌備為期兩週密集空中打擊】特朗普正在考量是否重啟針對伊朗的大規模作戰行動。美軍中央司令部擬定一套方案，計劃發起為期10至14天的高強度空中攻勢，目標是削弱伊朗導彈作戰能力。知情人士透露，該方案由美軍中央司令部司令布拉德・庫珀上將制定，空襲規模相比此前一輪打擊將顯著升級。特朗普同時也在考量力度更為有限的軍事報復選項，為外交斡旋保留空間。"
-    },
-    {
-      "id": "te:markets:570894",
-      "time": "2026-07-30 06:40:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Drops by 3.74% — Top commodity losers are Coffee (-3.74%), Soybeans (-2.81%) and Corn (-2.07%)."
-    },
-    {
-      "id": "mkt:019fb005-cf45-7aab-8efa-d14d2af3772a",
-      "time": "2026-07-30 06:36:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reports a magnitude 6.2 earthquake in the Kermadec Islands region."
-    },
-    {
-      "id": "te:markets:570893",
-      "time": "2026-07-30 06:35:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 1.76% — Top commodity gainers are Silver (1.76%) and Gold (1.16%). Biggest loser is Steel Rebar (-0.79%)."
     }
   ]
 }
