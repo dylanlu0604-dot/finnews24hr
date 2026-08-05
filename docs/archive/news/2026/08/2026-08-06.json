@@ -1,7 +1,40 @@
 {
   "date": "2026-08-06",
-  "count": 361,
+  "count": 364,
   "items": [
+    {
+      "id": "mkt:019fd400-5f17-7aab-8f94-c3a382658166",
+      "time": "2026-08-06 06:17:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Brazil central bank cuts benchmark rate to 14%】On Aug 5 local time, Brazil's central bank MPC cut the benchmark policy rate to 14%, its fourth consecutive cut and the lowest level in nearly a year. Despite renewed Middle East conflict lifting oil prices and adding inflationary pressure in Brazil, markets expect the easing cycle to continue and price a further cut to 13.75% by end-2026."
+    },
+    {
+      "id": "te:markets:573133",
+      "time": "2026-08-06 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.51% — Top currency gainers are South Korean Won (0.51%), Brazilian Real (0.48%), Swedish Krona (0.40%), Euro (0.19%) and British Pound (0.11%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5027525",
+      "time": "2026-08-06 06:14:42",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【巴西央行下調基準利率至14%】當地時間8月5日，巴西央行貨幣政策委員會宣佈將基準利率下調至14%。這是巴西央行連續第四次降息並下調至近一年以來的最低點。儘管中東衝突再起導致油價上漲為巴西通脹帶來壓力，市場預期降息週期將持續，並在2026年底下調至13.75%。（央視新聞）"
+    },
     {
       "id": "5027524",
       "time": "2026-08-06 06:09:26",

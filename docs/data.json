@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-06 06:14:23",
-  "count": 17462,
+  "updated": "2026-08-06 06:18:15",
+  "count": 17460,
   "items": [
+    {
+      "id": "mkt:019fd400-5f17-7aab-8f94-c3a382658166",
+      "time": "2026-08-06 06:17:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Brazil central bank cuts benchmark rate to 14%】On Aug 5 local time, Brazil's central bank MPC cut the benchmark policy rate to 14%, its fourth consecutive cut and the lowest level in nearly a year. Despite renewed Middle East conflict lifting oil prices and adding inflationary pressure in Brazil, markets expect the easing cycle to continue and price a further cut to 13.75% by end-2026."
+    },
+    {
+      "id": "te:markets:573133",
+      "time": "2026-08-06 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.51% — Top currency gainers are South Korean Won (0.51%), Brazilian Real (0.48%), Swedish Krona (0.40%), Euro (0.19%) and British Pound (0.11%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5027525",
+      "time": "2026-08-06 06:14:42",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【巴西央行下調基準利率至14%】當地時間8月5日，巴西央行貨幣政策委員會宣佈將基準利率下調至14%。這是巴西央行連續第四次降息並下調至近一年以來的最低點。儘管中東衝突再起導致油價上漲為巴西通脹帶來壓力，市場預期降息週期將持續，並在2026年底下調至13.75%。（央視新聞）"
+    },
     {
       "id": "5027524",
       "time": "2026-08-06 06:09:26",
@@ -160751,52 +160784,6 @@
         "市場"
       ],
       "text": "韓元兌美元觸及2月底以來最高水平。"
-    },
-    {
-      "id": "5015324",
-      "time": "2026-07-30 06:16:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭克里維裡赫遭導彈襲擊。"
-    },
-    {
-      "id": "5015323",
-      "time": "2026-07-30 06:15:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：有人清楚嗎？美國最高法院就出生地公民權、關稅議題作出不利裁決，讓國家蒙受多大經濟損失、喪失多少國際聲望？答案是：數萬億美元！"
-    },
-    {
-      "id": "5015322",
-      "time": "2026-07-30 06:15:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【股票型ETF7月以來“吸金”逾4100億元】資料顯示，7月以來，截至7月28日，股票型ETF資金淨流入4151.74億元。從資金流入較多的產品看，科創50 ETF華夏資金淨流入348.45億元，滬深300 ETF華泰柏瑞、創業板ETF易方達等資金淨流入均超過230億元。此外，中證1000 ETF南方、中證500 ETF南方、上證指數ETF富國等資金淨流入均超過百億元。"
-    },
-    {
-      "id": "te:markets:570891",
-      "time": "2026-07-30 06:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Norwegian Krone Rises by 1.00% — Top currency gainers are Norwegian Krone (1%), Euro (0.71%), Swiss Franc (0.68%), British Pound (0.59%) and Japanese Yen (0.26%). Biggest losers are Dollar Index (-0.72%), Indian Rupee (-0.27%) and Australian Dollar (-0.26%)."
-    },
-    {
-      "id": "mkt:019faff1-ce01-7aab-8efa-be3dd1bd02e6",
-      "time": "2026-07-30 06:14:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Trump said the Supreme Court's adverse rulings on birthright citizenship and tariffs have cost the U.S. trillions of dollars and damaged its prestige."
     }
   ]
 }
