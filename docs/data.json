@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-05 22:51:28",
-  "count": 17946,
+  "updated": "2026-08-05 22:55:25",
+  "count": 17953,
   "items": [
+    {
+      "id": "5027263",
+      "time": "2026-08-05 22:54:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國抵押貸款利率升至一年高點 貸款活動持續受挫】美國抵押貸款利率上週升至一年來最高水平，進一步抑制了本已低迷的房地產市場對住房貸款的需求。美國抵押貸款銀行家協會（MBA）週三公佈的資料顯示，截至7月31日當週，30年期抵押貸款合同利率上升5個基點，至6.81%。在伊朗戰爭爆發前的2月底，抵押貸款利率一度降至2022年以來最低水平。此後，隨著衝突推高能源價格並加劇通脹擔憂，抵押貸款利率持續走高。利率上升導致貸款需求走弱。該協會的購房抵押貸款申請指數較前一週下降3.6%，觸及五個月低點。再融資申請指數下降1.9%，降至2025年中以來最低水平。美國抵押貸款銀行家協會的這項調查自1990年以來每週開展一次，依據的是抵押貸款銀行家、商業銀行和儲蓄機構的反饋。該資料涵蓋了美國全部零售住宅抵押貸款申請的75%以上。"
+    },
+    {
+      "id": "5027262",
+      "time": "2026-08-05 22:53:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利：我並非呼籲大幅提高利率。"
+    },
+    {
+      "id": "mkt:019fd26a-200e-7aab-8f8f-aa96b1fb30ac",
+      "time": "2026-08-05 22:53:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kashkari said the Fed will see substantial data before its September meeting."
+    },
+    {
+      "id": "5027261",
+      "time": "2026-08-05 22:53:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：現在是時候開始逐步加息了。"
+    },
+    {
+      "id": "5027260",
+      "time": "2026-08-05 22:53:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利：我的目標不是減緩經濟增長，而是2%的通貨膨脹率。"
+    },
+    {
+      "id": "mkt:019fd269-f989-7aab-8f8f-a4d6854bc44e",
+      "time": "2026-08-05 22:53:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kashkari said Fed Chair Kevin Warsh told him to do what he believes is right for the economy."
+    },
+    {
+      "id": "5027259",
+      "time": "2026-08-05 22:52:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "卡什卡利：美聯儲將在9月會議前看到大量資料。"
+    },
+    {
+      "id": "mkt:019fd269-beb0-7aab-8f8f-9b13ae738f0f",
+      "time": "2026-08-05 22:52:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Russian Defence Ministry said Russia sank three merchant vessels in the Black Sea."
+    },
+    {
+      "id": "5027258",
+      "time": "2026-08-05 22:52:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利：沃什告訴我按我認為對經濟有利的方式行事。"
+    },
+    {
+      "id": "5027257",
+      "time": "2026-08-05 22:52:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍襲擊了黑海地區的三艘貨船。"
+    },
+    {
+      "id": "5027256",
+      "time": "2026-08-05 22:52:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【部分美國AI模型在測試中被發現持續實施有害行為】英國人工智慧安全研究所釋出的一份新報告顯示，在該研究所實施的網路安全評估測試中，一些人工智慧（AI）智慧體透過網際網路對現實個人和機構持續實施未經授權的潛在有害行為。報告說，這次評估測試要求智慧體完成一項網路安全挑戰。測試人員使用7種模型開展了122輪測試，在10輪測試中共發現AI智慧體實施了19項明顯超出測試設定範圍的行動。其中，17項涉及美國Anthropic公司的“克勞德-神話5”模型，另有2項由美國開放人工智慧研究中心（OpenAI）的GPT-5.6 Sol模型實施。（新華社）"
+    },
+    {
+      "id": "5027255",
+      "time": "2026-08-05 22:51:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "AlphaValue將法拉利目標股價從401歐元上調至422歐元。"
+    },
+    {
+      "id": "5027254",
+      "time": "2026-08-05 22:51:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌3%，現報5588.00元。"
+    },
     {
       "id": "5027253",
       "time": "2026-08-05 22:49:46",
@@ -166054,54 +166168,6 @@
         "Importance 1"
       ],
       "text": "Heating Oil Approaches 4-Month High — Heating oil futures in the US rose to over $4.3 per gallon in late July, testing their highest in nearly four months as the resumption of hostilities between Iran and the US prolonged the supply halt from the region. Iran launched attacks against US forces across the Middle East and Saudi oil and refining infrastructure, prompting the US and Saudi Arabia to attack Iranian forces in Iraq. The resumption of the conflict maintained expectations that Iran and Houthi Rebels will continue to attack tankers crossing the Red Sea and Persian Gulf in the near term, cutting supply from major producers. In the meantime, Russian diesel supply was also hampered by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, stocks of distillate fuel in the US rose more than expected for a third week as of July 24th amid a rebound in refinery runs. Still, wholesale fuel prices as a sharp reduction in commercial and SPR magnified the backdrop of tight supply."
-    },
-    {
-      "id": "5014841",
-      "time": "2026-07-29 22:54:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲7%，現報87.83美元/桶。"
-    },
-    {
-      "id": "5014840",
-      "time": "2026-07-29 22:54:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大外交部：對在約旦河西岸發生持續的暴力行為表示譴責，以色列在西岸的定居點擴張必須停止。"
-    },
-    {
-      "id": "mkt:019fae5e-b049-7aab-8eee-166db30a1edd",
-      "time": "2026-07-29 22:54:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada's foreign ministry condemned ongoing violence in the West Bank and said Israeli settlement expansion there must stop."
-    },
-    {
-      "id": "5014839",
-      "time": "2026-07-29 22:54:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聚焦數智教育等四大領域合作 2026中國—東盟教育交流周開幕】今天（29日），2026中國—東盟教育交流周在貴州開幕，今年的主題是“讓智慧教育更好助力友好家園建設”，參會各方聚焦推進數智教育等四大領域展開系列合作。（央視新聞）"
-    },
-    {
-      "id": "5014838",
-      "time": "2026-07-29 22:51:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：科威特外長與巴基斯坦總理及軍隊指揮官會晤。"
-    },
-    {
-      "id": "mkt:019fae5c-432f-7aab-8eee-0a9a05a03da1",
-      "time": "2026-07-29 22:51:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reports Kuwait's foreign minister met Pakistan's prime minister and military chief."
     }
   ]
 }
