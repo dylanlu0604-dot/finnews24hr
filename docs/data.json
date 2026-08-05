@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-06 01:24:53",
+  "updated": "2026-08-06 01:28:47",
   "count": 17991,
   "items": [
+    {
+      "id": "5027403",
+      "time": "2026-08-06 01:27:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：諒解備忘錄包含了指導性原則，但最終結果取決於伊朗與阿曼之間的談判。"
+    },
+    {
+      "id": "5027402",
+      "time": "2026-08-06 01:24:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國持續執行針對伊朗的封鎖行動。截至8月5日，中央司令部部隊已驅離48艘商船，使2艘船舶失去行動能力，並登船檢查2艘。"
+    },
     {
       "id": "mkt:019fd2f4-2d41-7aab-8f92-2e32e7861bdc",
       "time": "2026-08-06 01:24:05",
@@ -166380,32 +166396,6 @@
         "其他"
       ],
       "text": "加拿大央行會議紀要：部分委員擔憂中期通脹預期出現上行苗頭，但全體委員一致認為長期通脹預期仍保持穩定。"
-    },
-    {
-      "id": "mkt:019faeea-7ca8-7aab-8ef1-002f2d7dd5bb",
-      "time": "2026-07-30 01:27:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A spokesman for the commander-in-chief of the Iraqi Armed Forces said Iraq has demanded evidence that the attacks were launched from Iraqi territory."
-    },
-    {
-      "id": "mkt:019faee8-a2aa-7aab-8ef0-ffe0cd0adc5b",
-      "time": "2026-07-30 01:25:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Netanyahu discussed three Iran options with Trump】A senior Israeli official said July 28 Prime Minister Netanyahu held a roughly 90-minute White House meeting with President Trump focused on Iran. Netanyahu signaled doubt a US‑Iran deal is likely and discussed stepping up economic pressure on Iran by military and non‑military means. The official said Trump was weighing three options: pursue a deal; maintain a maritime blockade and tighten economic pressure; or resume and expand military strikes. Trump warned a war would hit energy markets and the global economy, while Netanyahu said Iran is using the Strait of Hormuz as a remaining leverage point to extract concessions from the US."
     }
   ]
 }
