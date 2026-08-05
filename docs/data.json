@@ -1,7 +1,141 @@
 {
-  "updated": "2026-08-05 08:02:12",
-  "count": 17900,
+  "updated": "2026-08-05 08:06:06",
+  "count": 17908,
   "items": [
+    {
+      "id": "5025561",
+      "time": "2026-08-05 08:05:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報78.55美元/桶。"
+    },
+    {
+      "id": "mkt:019fcf3d-09cf-7aab-8f7a-1101a92d9d73",
+      "time": "2026-08-05 08:05:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2028 FOMC voting member and Kansas City Fed President Schmidt will speak in ten minutes on the Federal Reserve, monetary policy and the outlook for the agricultural economy."
+    },
+    {
+      "id": "5025560",
+      "time": "2026-08-05 08:05:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞ASX 200指數上漲0.6%，創盤中歷史新高。"
+    },
+    {
+      "id": "5025559",
+      "time": "2026-08-05 08:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報74.95美元/桶。"
+    },
+    {
+      "id": "5025558",
+      "time": "2026-08-05 08:04:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本製鐵股價一度上漲 3.3%，此前該公司上調了全年營業利潤預期。"
+    },
+    {
+      "id": "5025557",
+      "time": "2026-08-05 08:04:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受美國股市上漲和油價下跌的提振，日經平均指數上漲超過1100點。"
+    },
+    {
+      "id": "mkt:019fcf3b-b87d-7aab-8f7a-0cc0427b2bc1",
+      "time": "2026-08-05 08:03:45",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan minutes: a Cabinet Office representative said they hope the Bank of Japan will appropriately consider government efforts to promote crisis management and growth-oriented investment when formulating policy."
+    },
+    {
+      "id": "5025556",
+      "time": "2026-08-05 08:03:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【8臺核電新機組獲核准 上海核電企業已承攬近500億元訂單】國務院常務會議7月31日決定核准浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期、山東萊陽核電一期4個核電專案，共8臺核電機組。這是“十五五”時期首批獲准的核電專案，據估算，上述新專案的總投資將超過1700億元。記者瞭解到，作為我國核電產業的重要承載地，上海核電充分發揮產業鏈集聚優勢，在新獲批的8臺機組前期專案招標中，上海已承接各類合同金額近500億元。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019fcf3b-6b66-7aab-8f7a-02f48f01ac9d",
+      "time": "2026-08-05 08:03:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean media reported the 2027 minimum hourly wage was set at 10,700 won, up 3.7% from this year."
+    },
+    {
+      "id": "5025555",
+      "time": "2026-08-05 08:03:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：內閣辦公室代表稱，希望日本央行在制定適當政策時，能夠顧及政府在推進危機管理與增長領域投資方面所做的工作。"
+    },
+    {
+      "id": "5025554",
+      "time": "2026-08-05 08:03:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.4%，報9,180.60點。"
+    },
+    {
+      "id": "5025553",
+      "time": "2026-08-05 08:02:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：內閣辦公室代表稱，日本央行必須做出適當回應以穩定市場，在其購債操作問題上，還需仔細審查資產負債表縮表可能對經濟產生何種影響。"
+    },
+    {
+      "id": "5025552",
+      "time": "2026-08-05 08:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓媒報道，韓國2027年最低工資標準將上調3.7%，至10700韓元。"
+    },
+    {
+      "id": "mkt:019fcf3a-5cb6-7aab-8f79-faf7ba20435b",
+      "time": "2026-08-05 08:02:16",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan minutes: several members said discussion of reducing bond purchases is currently focused on scale, but importance is likely to shift to the maturities of government bonds purchased."
+    },
+    {
+      "id": "5025551",
+      "time": "2026-08-05 08:02:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報6623.97點。個股方面，SK海力士、三星電子漲超6%。"
+    },
     {
       "id": "mkt:019fcf39-c8b9-7aab-8f79-f0e5702e6708",
       "time": "2026-08-05 08:01:38",
@@ -47,6 +181,15 @@
         "Japan & APAC"
       ],
       "text": "BOJ minutes: one member said the Bank of Japan must, at some point, take economic and financial conditions into account and seek an appropriate level of reserves."
+    },
+    {
+      "id": "5025547",
+      "time": "2026-08-05 08:00:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本2架飛機險些空中相撞】據日媒報道，4日，在日本東京羽田機場，一架載有197名乘客的日本全日空航空公司客機準備降落時，飛機防撞系統發出警報，飛行員立即採取爬升操作。事發時，一架剛起飛的日本國土交通省的檢查飛機正在附近飛行。據瞭解，兩架飛機均按航空管制人員認可的航線飛行，但檢查飛機橫穿了全日空客機下降著陸的航線，飛機垂直高度差僅約20米，存在極高碰撞風險。目前，日本官方正對此展開調查。"
     },
     {
       "id": "5025546",
@@ -165526,86 +165669,6 @@
         "其他"
       ],
       "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報62982.09點。"
-    },
-    {
-      "id": "mkt:019fab31-0447-7aab-8ed7-2e77c002dfac",
-      "time": "2026-07-29 08:05:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Huatai Macro: Slightly above 50% chance of Fed July rate hike】Huatai Macro says markets have shifted from pricing dovish cuts to a more hawkish near-term stance after Kevin Warsh’s appointment as Fed chair. With forward guidance abandoned, expectations are highly split and pricing is more difficult; focus will move from words to actions. Based on past chair transitions, the current macro backdrop and Warsh’s need to build credibility, Huatai assigns a slightly >50% probability of a July rate hike (versus the market’s ~40%) and sees a near-100% chance of a hike before September. From the new-chair/market interaction, the aggregate cost of hiking in July may be lower."
-    },
-    {
-      "id": "5013175",
-      "time": "2026-07-29 08:05:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6143.88點。個股方面，三星電子漲超4%，SK海力士漲超3%。"
-    },
-    {
-      "id": "5013174",
-      "time": "2026-07-29 08:05:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國融通集團與珠海市政府簽署政企合作協議】7月28日，中國融通集團與珠海市人民政府在北京簽署政企合作協議。根據協議，雙方將建立常態化工作機制，在新興產業、海島經濟、軍事文旅、酒店配套、存量資產盤活等領域開展深度合作。"
-    },
-    {
-      "id": "5013173",
-      "time": "2026-07-29 08:05:09",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【華泰證券：預計美聯儲7月加息機率略高於一半 9月前加息的機率接近100%】華泰證券指出，美聯儲新任主席凱文·沃什（Kevin Warsh）上任後，金融市場對這位新主席政策取向的定價從此前的鴿派降息，轉為更偏鷹派的短期立場。但臨近7月議息會議，市場對聯儲下一步政策的預期卻極度分化。沃什廢除前瞻指引後，市場定價更為困難，而沃什和市場博弈焦點勢必從“聽其言”轉為“觀其行”。綜合分析歷屆聯儲主席換屆經驗、當前宏觀環境以及沃什贏得公信力的目標，華泰證券將聯儲加息的預測時點提前——預計，7月加息機率略高於一半，高於市場目前預期的40%，而基準情形下，沃什9月前加息的機率接近100%。從新任主席和市場博弈的角度看，7月加息綜合成本或更低。"
-    },
-    {
-      "id": "te:markets:570524",
-      "time": "2026-07-29 08:04:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Decline as Oil Prices Rebound — Silver traded near $57 an ounce on Wednesday, holding the previous session’s decline as oil prices rebounded following renewed hostilities in the Middle East, reviving geopolitical tensions and keeping investors focused on inflationary pressures and the interest rate outlook. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Investors also awaited the Federal Reserve’s policy decision, where it is expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a rate hike, reflecting an unusually high level of uncertainty this close to a policy announcement despite repeated calls from President Donald Trump for lower interest rates. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated."
-    },
-    {
-      "id": "5013172",
-      "time": "2026-07-29 08:04:58",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：建議關注國內風電招標放量和建設提速帶來的產業鏈盈利改善和估值修復機會】中信證券研報稱，受綠電市場化交易政策影響，過去一年國內風電開發商觀望情緒濃厚，風電專案招標和開發進度多有延後；但隨著專案競價和執行經驗持續積累，以及2027年部分省份機制電價和電量大幅上漲帶動專案收益率預期回升，中信證券預計2026H2起，開發商對新專案招標和建設積極性有望迎來改善。目前風電行業預期底部已夯實，業績底有望隨著2027年中報陸續釋出而明確；隨著行回暖訊號漸強，建議關注國內風電招標放量和建設提速帶來的產業鏈盈利改善和估值修復機會，推薦具備“雙海”競爭優勢的整機和細分零部件龍頭。"
-    },
-    {
-      "id": "5013171",
-      "time": "2026-07-29 08:04:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國航空集團出現系統故障 航班一度停飛】當地時間7月28日晚間，美國聯邦航空管理局確認，因美國航空集團系統發生故障，對該集團在全美範圍的航班釋出“地面停飛”令。美國空中交通管制系統指揮中心表示，此次系統故障影響了美國航空在所有機場和相關設施的運營。根據航班追蹤資料公司FlightAware的資料，美國航空航班一度可正常降落，但暫停起飛。當天晚些時候，美國航空集團發表宣告稱，當晚公司部分系統曾因技術問題一度出現連線故障。在修復後，各項系統正陸續恢復上線，航班也已重新開始起飛。宣告同時確認在技術團隊排查並解決問題時，公司曾臨時實施地面停飛措施。（央視）"
-    },
-    {
-      "id": "5013170",
-      "time": "2026-07-29 08:03:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "力拓股價上漲2.8%，此前該公司公佈的上半年基本利潤超出預期。"
     }
   ]
 }

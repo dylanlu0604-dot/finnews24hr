@@ -1,7 +1,141 @@
 {
   "date": "2026-08-05",
-  "count": 632,
+  "count": 648,
   "items": [
+    {
+      "id": "5025561",
+      "time": "2026-08-05 08:05:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報78.55美元/桶。"
+    },
+    {
+      "id": "mkt:019fcf3d-09cf-7aab-8f7a-1101a92d9d73",
+      "time": "2026-08-05 08:05:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "2028 FOMC voting member and Kansas City Fed President Schmidt will speak in ten minutes on the Federal Reserve, monetary policy and the outlook for the agricultural economy."
+    },
+    {
+      "id": "5025560",
+      "time": "2026-08-05 08:05:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞ASX 200指數上漲0.6%，創盤中歷史新高。"
+    },
+    {
+      "id": "5025559",
+      "time": "2026-08-05 08:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報74.95美元/桶。"
+    },
+    {
+      "id": "5025558",
+      "time": "2026-08-05 08:04:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本製鐵股價一度上漲 3.3%，此前該公司上調了全年營業利潤預期。"
+    },
+    {
+      "id": "5025557",
+      "time": "2026-08-05 08:04:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受美國股市上漲和油價下跌的提振，日經平均指數上漲超過1100點。"
+    },
+    {
+      "id": "mkt:019fcf3b-b87d-7aab-8f7a-0cc0427b2bc1",
+      "time": "2026-08-05 08:03:45",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "Bank of Japan minutes: a Cabinet Office representative said they hope the Bank of Japan will appropriately consider government efforts to promote crisis management and growth-oriented investment when formulating policy."
+    },
+    {
+      "id": "5025556",
+      "time": "2026-08-05 08:03:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【8臺核電新機組獲核准 上海核電企業已承攬近500億元訂單】國務院常務會議7月31日決定核准浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期、山東萊陽核電一期4個核電專案，共8臺核電機組。這是“十五五”時期首批獲准的核電專案，據估算，上述新專案的總投資將超過1700億元。記者瞭解到，作為我國核電產業的重要承載地，上海核電充分發揮產業鏈集聚優勢，在新獲批的8臺機組前期專案招標中，上海已承接各類合同金額近500億元。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019fcf3b-6b66-7aab-8f7a-02f48f01ac9d",
+      "time": "2026-08-05 08:03:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean media reported the 2027 minimum hourly wage was set at 10,700 won, up 3.7% from this year."
+    },
+    {
+      "id": "5025555",
+      "time": "2026-08-05 08:03:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：內閣辦公室代表稱，希望日本央行在制定適當政策時，能夠顧及政府在推進危機管理與增長領域投資方面所做的工作。"
+    },
+    {
+      "id": "5025554",
+      "time": "2026-08-05 08:03:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.4%，報9,180.60點。"
+    },
+    {
+      "id": "5025553",
+      "time": "2026-08-05 08:02:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：內閣辦公室代表稱，日本央行必須做出適當回應以穩定市場，在其購債操作問題上，還需仔細審查資產負債表縮表可能對經濟產生何種影響。"
+    },
+    {
+      "id": "5025552",
+      "time": "2026-08-05 08:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓媒報道，韓國2027年最低工資標準將上調3.7%，至10700韓元。"
+    },
+    {
+      "id": "mkt:019fcf3a-5cb6-7aab-8f79-faf7ba20435b",
+      "time": "2026-08-05 08:02:16",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Bank of Japan minutes: several members said discussion of reducing bond purchases is currently focused on scale, but importance is likely to shift to the maturities of government bonds purchased."
+    },
+    {
+      "id": "5025551",
+      "time": "2026-08-05 08:02:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報6623.97點。個股方面，SK海力士、三星電子漲超6%。"
+    },
     {
       "id": "mkt:019fcf39-c8b9-7aab-8f79-f0e5702e6708",
       "time": "2026-08-05 08:01:38",
@@ -47,6 +181,15 @@
         "Japan & APAC"
       ],
       "text": "BOJ minutes: one member said the Bank of Japan must, at some point, take economic and financial conditions into account and seek an appropriate level of reserves."
+    },
+    {
+      "id": "5025547",
+      "time": "2026-08-05 08:00:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本2架飛機險些空中相撞】據日媒報道，4日，在日本東京羽田機場，一架載有197名乘客的日本全日空航空公司客機準備降落時，飛機防撞系統發出警報，飛行員立即採取爬升操作。事發時，一架剛起飛的日本國土交通省的檢查飛機正在附近飛行。據瞭解，兩架飛機均按航空管制人員認可的航線飛行，但檢查飛機橫穿了全日空客機下降著陸的航線，飛機垂直高度差僅約20米，存在極高碰撞風險。目前，日本官方正對此展開調查。"
     },
     {
       "id": "5025546",
