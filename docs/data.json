@@ -1,7 +1,139 @@
 {
-  "updated": "2026-08-05 22:59:27",
-  "count": 17949,
+  "updated": "2026-08-05 23:03:33",
+  "count": 17953,
   "items": [
+    {
+      "id": "mkt:019fd272-d3c9-7aab-8f8f-d05f3ea046a9",
+      "time": "2026-08-05 23:02:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "U.S. (WTI) and Brent crude continued to slide, trading at $73.85/bbl and $77.98/bbl, respectively. Spot gold touched $4,250/oz, up 4.24% intraday."
+    },
+    {
+      "id": "5027273",
+      "time": "2026-08-05 23:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，若“某些第三方”不干預，阿曼與伊朗的聯合宣告已進入最終階段。"
+    },
+    {
+      "id": "mkt:019fd271-e781-7aab-8f8f-cbc09aa462fb",
+      "time": "2026-08-05 23:01:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "SC crude front-month contract fell 2.00% intraday to 502.70 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fd271-bea8-7aab-8f8f-c51f22842734",
+      "time": "2026-08-05 23:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran and Oman have agreed on the geographic routing of a Strait of Hormuz shipping lane."
+    },
+    {
+      "id": "5027272",
+      "time": "2026-08-05 23:01:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4250美元/盎司，日內漲4.24%。"
+    },
+    {
+      "id": "5027271",
+      "time": "2026-08-05 23:01:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4310美元/盎司，日內漲3.79%。"
+    },
+    {
+      "id": "5027270",
+      "time": "2026-08-05 23:01:08",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外交部發言人表示，伊朗與阿曼已就霍爾木茲海峽航線的地理特徵達成一致。"
+    },
+    {
+      "id": "mkt:019fd271-2fcb-7aab-8f8f-b9a3713ca0c4",
+      "time": "2026-08-05 23:01:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "At the 23:00 close, China’s most-active futures contracts were mixed: propylene, ethylene glycol (EG), benzene, methanol and styrene (EB) fell over 3 pct; polypropylene, PTA and liquefied petroleum gas (LPG) fell nearly 3 pct; iron ore rose nearly 2 pct, cotton rose over 1 pct and coking coal rose nearly 1 pct."
+    },
+    {
+      "id": "5027269",
+      "time": "2026-08-05 23:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國教科文組織確認北京為2029年“世界建築之都”】總部位於法國巴黎的聯合國教科文組織5日宣佈，根據世界建築之都聯合委員會推薦，北京被指定為2029年聯合國教科文組織—國際建築師協會“世界建築之都”。"
+    },
+    {
+      "id": "5027268",
+      "time": "2026-08-05 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】乙二醇連續跌3.47%，甲醇連續跌3.37%，苯乙烯連續跌3.30%，聚丙烯連續跌2.99%，液化石油氣連續跌2.93%。"
+    },
+    {
+      "id": "te:markets:573088",
+      "time": "2026-08-05 23:00:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.49% — Top currency gainers are Brazilian Real (0.49%), Swedish Krona (0.44%), South Korean Won (0.42%), British Pound (0.20%), Euro (0.19%) and Japanese Yen (0.14%). Biggest loser is Dollar Index (-0.20%)."
+    },
+    {
+      "id": "5027267",
+      "time": "2026-08-05 22:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，俄羅斯希望在冬季來臨前加快彈道導彈的生產速度。"
+    },
+    {
+      "id": "te:economy:573087",
+      "time": "2026-08-05 22:58:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Albania",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Albania Keeps Key Rate Steady at 2.5% — The Bank of Albania left its key policy rate unchanged at 2.5% at its August meeting, saying the current monetary stance remains appropriate to support inflation's return to target. The overnight deposit and lending rates were also kept at 1.5% and 3.5%, respectively. Consumer inflation averaged 3% in the second quarter, accelerating from the previous quarter and in line with the central bank's expectations, driven by higher transportation and unprocessed food prices. Economic growth continued to be supported by household consumption and business investment, while fiscal policy remained on a consolidating path. Inflation is expected to stay slightly above target in the near term before gradually easing to target. However, uncertainty surrounding the Middle East conflict remains a risk, potentially pushing inflation higher and weighing on economic growth. Future policy decisions will remain focused on preserving price stability."
+    },
     {
       "id": "te:economy:573086",
       "time": "2026-08-05 22:57:02",
@@ -166028,109 +166160,6 @@
         "國際"
       ],
       "text": "美國中央司令部：一架美國空軍 F-16 戰鬥機正在中東上空執行巡邏任務。"
-    },
-    {
-      "id": "mkt:019fae66-b481-7aab-8eee-49bebc6cba1e",
-      "time": "2026-07-29 23:03:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SC crude oil front-month contract rose 6.0% intraday to 567.00 yuan/barrel."
-    },
-    {
-      "id": "mkt:019fae66-8c7c-7aab-8eee-42b6110c6497",
-      "time": "2026-07-29 23:03:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【Oil spike lifts US yields as markets await Fed rate decision】Escalation in Iran-related fighting and a sharp jump in crude pushed US Treasury yields higher on Wednesday, ending a three-day decline as markets feared higher energy costs would add to inflation ahead of the Fed's rate decision later in the day. The US and Saudi forces struck Iran-backed Iraqi militias — the first US airstrikes in the Middle East since Trump paused strikes on Iran last week — while Iran reported attacks on a US base in Jordan and on vessels in the Strait of Hormuz; Trump vowed retaliation. WTI and Brent rose more than 7% to $84.00/bbl and $87.81/bbl. The 10‑year Treasury yield rose 2.1bps to 4.625%, intraday high 4.6387%; the 30‑year rose 0.8bps to 5.104%, intraday high 5.113%. Market focus now shifts to the Fed policy meeting."
-    },
-    {
-      "id": "5014850",
-      "time": "2026-07-29 23:02:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲6%，現報567.00元。"
-    },
-    {
-      "id": "mkt:019fae66-21f0-7aab-8eee-3c45115b2ddf",
-      "time": "2026-07-29 23:02:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iraq’s Hezbollah Brigades (Kata'ib Hezbollah) said it will “inevitably” respond to US-Saudi joint strikes."
-    },
-    {
-      "id": "5014849",
-      "time": "2026-07-29 23:01:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克真主黨：必將對美沙聯軍的襲擊作出反擊。將給伊拉克政府截至 8 月 6 日的期限，要求政府拿出能夠捍衛伊拉克主權的實際行動。"
-    },
-    {
-      "id": "mkt:019fae64-bc57-7aab-8eee-32f79faee6d9",
-      "time": "2026-07-29 23:01:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "As of 23:00 Beijing close, China’s main commodity futures were mixed: ethylene glycol (EG) up nearly 5%; low-sulfur fuel oil (LU) and fuel oil up over 3%; bottle-grade PET chip up over 2%; styrene (EB), benzene and polyester short fiber up around 2%; LPG up over 1%. On the downside, soda ash fell over 2%; glass, rebar and rapeseed meal fell over 1%; cotton, caustic soda and hot-rolled coil fell about 1%."
-    },
-    {
-      "id": "5014848",
-      "time": "2026-07-29 23:00:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破88美元/桶，日內漲7.21%。"
-    },
-    {
-      "id": "te:markets:570814",
-      "time": "2026-07-29 23:00:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Australian Dollar Drops by 0.71% — Top currency losers are Australian Dollar (-0.71%), Mexican Peso (-0.52%), Swedish Krona (-0.35%) and Dollar Index (-0.07%). Gains are led by Norwegian Krone (0.32%). Meanwhile, Euro, Japanese Yen and British Pound were little changed."
-    },
-    {
-      "id": "5014847",
-      "time": "2026-07-29 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】乙二醇連續漲4.71%，低硫燃料油連續漲3.30%，燃料油連續漲3.28%，純鹼連續跌2.17%，苯乙烯連續漲2.00%。"
     }
   ]
 }
