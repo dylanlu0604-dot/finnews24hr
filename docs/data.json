@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-06 06:10:32",
-  "count": 17466,
+  "updated": "2026-08-06 06:14:23",
+  "count": 17462,
   "items": [
     {
       "id": "5027524",
@@ -160797,46 +160797,6 @@
         "US Economy"
       ],
       "text": "Trump said the Supreme Court's adverse rulings on birthright citizenship and tariffs have cost the U.S. trillions of dollars and damaged its prestige."
-    },
-    {
-      "id": "mkt:019fafef-9619-7aab-8efa-b6d75a732c93",
-      "time": "2026-07-30 06:12:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Local witnesses reported explosions heard in Kyiv, Ukraine."
-    },
-    {
-      "id": "5015321",
-      "time": "2026-07-30 06:11:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭基輔傳出爆炸聲。"
-    },
-    {
-      "id": "5015320",
-      "time": "2026-07-30 06:11:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報58.17美元/盎司。"
-    },
-    {
-      "id": "mkt:019fafee-968b-7aab-8efa-aa95e20ec9b9",
-      "time": "2026-07-30 06:11:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver is up more than 1.00% intraday at $58.17/oz."
     }
   ]
 }
