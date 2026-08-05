@@ -1,7 +1,86 @@
 {
   "date": "2026-08-05",
-  "count": 1731,
+  "count": 1739,
   "items": [
+    {
+      "id": "te:markets:572914",
+      "time": "2026-08-05 15:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Hit Fresh Record High — The CAC 40 edged up 0.1% to 8,674 on Wednesday, setting a fresh record high as investors welcomed progress in US-Iran talks that improved the global risk backdrop. Qatar said mediation efforts had reached an advanced stage, with a draft deal already prepared. The US also expressed increasing confidence that an agreement could be finalized soon, raising hopes for the reopening of the Strait of Hormuz. Domestically, industrial output rose 0.1% month-on-month in June, falling short of forecasts for a 0.3% increase but rebounding from a 0.1% decline in the previous month. Industrial and cyclical stocks led the gains, with Airbus (0.9%), Safran (1.4%), Legrand (1.2%), and Stellantis (1.3%) among the top performers. In contrast, luxury heavyweights weighed on the index, with LVMH (-1.1%), Hermès (-1.0%), and Kering (-0.4%) trading lower."
+    },
+    {
+      "id": "5026274",
+      "time": "2026-08-05 15:40:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢鍾精機：真空泵產品批次供貨多家晶片製造企業】8月5日，漢鍾精機披露的投資者關係活動記錄表顯示，日前，公司透過現場參觀、參加策略會、線上等方式，與ASHM、Dymon、Point72等76家機構投資者進行了交流，公司董事長、董事會秘書等高管參與互動。漢鍾精機表示，目前，公司真空泵產品已獲得國內多家晶片製造企業的認可，實現批次供貨，可充分滿足下游客戶新產線擴建、老舊裝置替換的雙重市場需求。"
+    },
+    {
+      "id": "mkt:019fd0dd-900f-7aab-8f84-dbe9a86653cb",
+      "time": "2026-08-05 15:40:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Final July services PMIs for France, Germany and the euro area due in about ten minutes; releases will be staggered."
+    },
+    {
+      "id": "5026273",
+      "time": "2026-08-05 15:39:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "埃及央行：7月埃及淨外匯儲備從6月的550.72億美元升至562.94億美元。"
+    },
+    {
+      "id": "5026272",
+      "time": "2026-08-05 15:39:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菜鳥釋出“全球三日達”跨境物流服務產品】8月5日，菜鳥正式釋出“全球三日達”跨境物流服務產品。菜鳥已經在中國至歐洲，泛歐國家間，中東國家間等15條跨境核心線路上實現了消費者下單後3個自然日門到門送達。"
+    },
+    {
+      "id": "mkt:019fd0dc-9bf8-7aab-8f84-d6f1fca60fd2",
+      "time": "2026-08-05 15:39:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures rose $1 intraday after Houthi militants said they attacked a Saudi vessel in the Red Sea."
+    },
+    {
+      "id": "5026271",
+      "time": "2026-08-05 15:38:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨<LCOc1>較前收盤價上漲1美元，此前胡塞武裝宣稱他們襲擊了紅海海域的一艘沙特船隻。"
+    },
+    {
+      "id": "5026270",
+      "time": "2026-08-05 15:37:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【印尼因燃油價格下跌下調國內航班燃油附加費】印尼交通部在8月1日釋出的宣告中表示，受全球航空煤油價格回落影響，該國將國內航班燃油附加費最高上限，由受管制機票最高票價的50%下調至30%。此項新規僅適用於商業國內經濟艙航班。交通部將定期複核價格上限，保障旅客能夠負擔機票開銷。本次政策調整旨在維護國家航空通達性的同時，保障航空公司長期運營穩定。"
+    },
     {
       "id": "te:economy:572908",
       "time": "2026-08-05 15:36:06",
