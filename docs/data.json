@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-05 10:03:34",
-  "count": 17844,
+  "updated": "2026-08-05 10:07:43",
+  "count": 17833,
   "items": [
+    {
+      "id": "5025768",
+      "time": "2026-08-05 10:06:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報933.00元。"
+    },
+    {
+      "id": "5025767",
+      "time": "2026-08-05 10:06:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡政府投資公司（GIC）擬出售價值10億美元的私募股權基金股份。"
+    },
+    {
+      "id": "5025766",
+      "time": "2026-08-05 10:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高檢釋出疑難複雜刑事抗訴指導性案例】最高人民檢察院近日釋出第六十三批指導性案例，均為最高檢提出抗訴的疑難複雜刑事案件，且均為刑事再審抗訴案件。此次釋出的5件指導性案例包括：陳某搶劫再審抗訴案，辛某故意殺人再審抗訴案，譚某義故意殺人、強姦再審抗訴案，許某運輸毒品再審抗訴案，馬某林搶劫再審抗訴案。這些案例多是顛覆性改判，充分體現了檢察機關客觀公正的立場和鍥而不捨維護司法公正的決心。（新華社）"
+    },
+    {
+      "id": "5025765",
+      "time": "2026-08-05 10:05:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【端側AI概念震盪反彈 博通整合漲停】端側AI概念震盪反彈，AI眼鏡方向領漲，博通整合漲停，雲天勵飛、深科達、瑞芯微、翱捷科技、歐菲光等漲幅靠前。"
+    },
+    {
+      "id": "te:markets:572766",
+      "time": "2026-08-05 10:04:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Extend Gains — The Shanghai Composite rose 0.5% to 3,842 on Wednesday, while the Shenzhen Component also gained 0.5% to 13,948, extending gains from the previous session as hopes grew for an interim agreement between Washington and Tehran. Qatar said on Tuesday that a proposal had been prepared, while both sides signaled progress in talks aimed at reopening the Strait of Hormuz. Middle East tensions and the closure of the Strait of Hormuz sparked an energy supply shock that lifted China out of a three-year deflationary spell, boosting producer and export prices before the reflationary impulse later moderated. On the economic front, a private survey showed that China's Composite PMI fell to a one-year low of 50.8 in July, with the manufacturing PMI slipping to a four-month low of 50.9 and the services PMI easing to a near two-year low of 50.4. Notable gainers included Foxconn Industrial Internet (4.7%), Zijin Mining Group (1.5%), CATL (1.4%) and NAURA Technology (2.8%)."
+    },
+    {
+      "id": "5025764",
+      "time": "2026-08-05 10:04:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【六部門發文加強聘用制書記員隊伍規範管理】近日，最高人民法院聯合中央組織部、中央政法委、中央編辦、財政部、人力資源社會保障部印發《關於進一步加強人民法院聘用制書記員管理工作的意見》。《意見》強調，聘用制書記員根據等級執行相應工資待遇，依法參加基本養老、醫療、失業、生育、工傷等社會保險和住房公積金制度並享受相應待遇。薪酬標準根據當地經濟社會發展水平、財政狀況等因素，參照當地上年度在崗職工平均工資、城鎮居民人均可支配收入等合理確定，並建立動態調整機制。中級、基層人民法院在開展法官助理招錄、事業單位人員招聘工作時，可將具備一定年限的司法輔助工作經歷作為部分相關崗位的招錄（聘）條件，進一步拓寬聘用制書記員職業發展空間。"
+    },
+    {
+      "id": "5025763",
+      "time": "2026-08-05 10:03:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼盾兌美元早盤交易中走強至17,965。"
+    },
+    {
+      "id": "mkt:019fcfa9-25cf-7aab-8f7d-294ac5def665",
+      "time": "2026-08-05 10:03:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Ministry of Finance issues CNY15 billion government bond in Hong Kong】The Ministry of Finance today (5th) issued the fourth 2026-series renminbi government bond in the Hong Kong SAR, size CNY15 billion."
+    },
+    {
+      "id": "mkt:019fcfa9-05d3-7aab-8f7d-21ef43d7cf15",
+      "time": "2026-08-05 10:03:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific index up 2%"
+    },
+    {
+      "id": "5025762",
+      "time": "2026-08-05 10:03:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "中微公司短線拉昇，現漲超7%。"
+    },
     {
       "id": "5025761",
       "time": "2026-08-05 10:02:48",
@@ -164937,211 +165031,6 @@
         "國際"
       ],
       "text": "【日本氣象廳：熊本強震後已發生餘震171次】據日本氣象廳介紹，自7月28日下午日本熊本縣發生6.8級地震以來，截至當地時間29日上午10時，震區周邊共發生震度1級以上地震171次。日本氣象廳在28日舉行的記者會上表示，從地震發生後的約一週時間內，尤其是在未來2至3天期間，要警惕可能發生最大震度達到7級左右的地震。"
-    },
-    {
-      "id": "5013437",
-      "time": "2026-07-29 10:07:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨盤中跌超1%。"
-    },
-    {
-      "id": "5013436",
-      "time": "2026-07-29 10:07:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉就相關言論召見伊朗大使。"
-    },
-    {
-      "id": "mkt:019fab9f-c47c-7aab-8edb-0667c646fce1",
-      "time": "2026-07-29 10:06:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures fell more than 1% intraday."
-    },
-    {
-      "id": "te:markets:570568",
-      "time": "2026-07-29 10:06:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Fall on Middle East Jitters — The Shanghai Composite fell 0.4% to 3,798 on Wednesday, while the Shenzhen Component dropped 1.5% to 13,313, as investors weighed escalating Middle East tensions against a rebound in battered technology stocks. Tensions in the region intensified after Iran launched ballistic missiles toward US positions following a brief period of relative calm, though US Central Command said all projectiles were intercepted. Banking shares were among the biggest drags, led by Industrial and Commercial Bank of China (-1.0%), Agricultural Bank of China (-1.0%), and Bank of China (-1.3%). In contrast, technology stocks rebounded from recent losses, with Zhongji Innolight (1.6%), Eoptolink Technology (1.3%), NAURA Technology (1.1%), and Cambricon Technologies (2.6%) advancing despite persistent concerns over elevated valuations and AI-related spending. Attention is now turning to the Politburo meeting later this week, where investors hope to gain fresh insight into China's economic policy agenda."
-    },
-    {
-      "id": "5013435",
-      "time": "2026-07-29 10:06:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股汽車板塊大幅走高 理想汽車漲超10%】港股汽車板塊大幅走高，小米集團漲超7%，理想汽車漲超10%，港股賽力斯漲超6%，蔚來漲超4%。"
-    },
-    {
-      "id": "mkt:019fab9f-405f-7aab-8eda-ffe4ddd25e39",
-      "time": "2026-07-29 10:06:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【C919 high-altitude variant completes maiden flight】The first C919 high‑altitude prototype completed its maiden flight test today from Shanghai Pudong International Airport, finishing all scheduled test items. The flight marks a step toward serial production of the C919 family. The variant incorporates a shortened fuselage and systems upgrades to meet high‑altitude operational requirements."
-    },
-    {
-      "id": "mkt:019fab9f-13e2-7aab-8eda-f481cc646fee",
-      "time": "2026-07-29 10:05:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-shares slipped intraday: ChiNext fell more than 2%, Shenzhen Composite Index dropped 1.6% and Shanghai Composite Index fell 0.7%. Lithography-equipment and semiconductor stocks led losses."
-    },
-    {
-      "id": "te:markets:570567",
-      "time": "2026-07-29 10:05:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "AIA Stock Price Hits 7-week High — AIA shares increased to 79.30 HKD, the highest since June 2026. Over the past 4 weeks, AIA Group gained 9.76%, and in the last 12 months, it increased 5.95%."
-    },
-    {
-      "id": "5013434",
-      "time": "2026-07-29 10:05:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4475.60點。"
-    },
-    {
-      "id": "5013433",
-      "time": "2026-07-29 10:05:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "OCEANBASE據悉尋求至多30億元人民幣的融資。"
-    },
-    {
-      "id": "mkt:019fab9e-5ac6-7aab-8eda-e98f9a80bb46",
-      "time": "2026-07-29 10:05:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine benchmark stock index rose 2% to 6,428.14, the highest level since July 21."
-    },
-    {
-      "id": "mkt:019fab9e-0dde-7aab-8eda-e2a6b2cd36c1",
-      "time": "2026-07-29 10:04:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share semiconductor sector extended losses; Yake Technology and GigaDevice sealed at daily limit down, while Youyan Silicon, Xi'an Yicai, Weidao Nano, Tongfu Microelectronics and Yongxi Electronics tracked lower."
-    },
-    {
-      "id": "5013432",
-      "time": "2026-07-29 10:04:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌1%至4,523.62點。"
-    },
-    {
-      "id": "5013431",
-      "time": "2026-07-29 10:04:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.02%，現報3259.947點；上證指數跌0.75%，現報3784.660點；深證成指跌1.62%，現報13291.415點。"
-    },
-    {
-      "id": "5013430",
-      "time": "2026-07-29 10:04:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力改革概念震盪反彈，桂冠電力漲停】電力改革概念震盪反彈，桂冠電力漲停，紅相股份、ST合縱、華電遼能、國電電力、華電國際等跟漲。"
-    },
-    {
-      "id": "mkt:019fab9d-a9d9-7aab-8eda-d98aa9a75a77",
-      "time": "2026-07-29 10:04:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "SSE Composite",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China A-share Sci-Tech Innovation 50 Index (STAR 50) plunged intraday, down over 4%. Shengke Communication fell nearly 10%; components including AMEC, Hua Hong Hongli, China’s CPU maker Haiguang and Zhongke Feice slid more than 7%."
-    },
-    {
-      "id": "5013429",
-      "time": "2026-07-29 10:04:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【新股N千岸漲超229% 觸發二次臨停】新股N千岸擴大漲幅至229%，觸發二次臨停，成交超5億元，換手率超56%。"
-    },
-    {
-      "id": "5013428",
-      "time": "2026-07-29 10:04:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【建築材料板塊震盪拉昇，堅朗五金漲停】建築材料板塊震盪拉昇，堅朗五金漲停，西藏天路、兔寶寶、塔牌集團、三棵樹、北新建材、國際復材等跟漲。"
-    },
-    {
-      "id": "5013427",
-      "time": "2026-07-29 10:03:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓主要股指上漲2%，至6428.14點，創下7月份新高。"
-    },
-    {
-      "id": "mkt:019fab9d-1dee-7aab-8eda-d021f088f5a5",
-      "time": "2026-07-29 10:03:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "The Indonesian rupiah slid to 18,100 per US dollar in early trade."
-    },
-    {
-      "id": "5013426",
-      "time": "2026-07-29 10:03:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盧比兌美元在早盤交易中走軟至18,100。"
     }
   ]
 }
