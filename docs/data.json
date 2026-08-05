@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-05 20:48:40",
-  "count": 17931,
+  "updated": "2026-08-05 20:52:40",
+  "count": 17929,
   "items": [
+    {
+      "id": "te:markets:573047",
+      "time": "2026-08-05 20:51:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Climb as Earnings Take Focus — Futures tracking the S&P/TSX Composite Index rose on Wednesday as investors focused on a fresh batch of corporate earnings. Shopify reported second-quarter revenue of $3.58 billion, up 34% from a year earlier, beating forecasts and guiding for third-quarter growth above Wall Street expectations. The company's US-listed shares surged in premarket trading. Thomson Reuters also reported a 9% increase in second-quarter revenue, topping estimates, and raised its full-year organic revenue growth forecast to around 8%. Manulife Financial and Nutrien are set to report earnings later today. On Tuesday, Suncor beat estimates for adjusted second-quarter profit. Meanwhile, gold prices climbed, supporting mining stocks, as investors assessed reports of an imminent deal to reopen the Strait of Hormuz, which could ease inflation concerns and reduce the likelihood of near-term Federal Reserve rate hikes."
+    },
+    {
+      "id": "5027056",
+      "time": "2026-08-05 20:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華三與海康機器人達成戰略合作】8月5日，新紫光集團旗下新華三與杭州海康機器人股份有限公司正式達成戰略合作伙伴關係，將圍繞園區網路以及工業自主移動機器人（Autonomous Mobile Robot，簡稱AMR）無線網路的方案開發與應用落地展開深度合作。"
+    },
+    {
+      "id": "mkt:019fd1f8-b58a-7aab-8f8c-6f8d606c2077",
+      "time": "2026-08-05 20:49:25",
+      "tags": [
+        "MKT News",
+        "SHOP.N",
+        "Impact bullish"
+      ],
+      "text": "Shopify (SHOP.N): international total transaction volume rose 37% in the second quarter."
+    },
+    {
+      "id": "5027055",
+      "time": "2026-08-05 20:49:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度航空任命特沃爾德·格佈雷馬里亞姆擔任執行長。"
+    },
+    {
+      "id": "5027054",
+      "time": "2026-08-05 20:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify 高管：第二季度國際商品交易總額（GMV）同比增長37%。"
+    },
+    {
+      "id": "5027053",
+      "time": "2026-08-05 20:48:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上交所：將MINIMAX、立訊精密、三環集團調入港股通標的名單】8月5日，上交所釋出通知，根據《上海證券交易所滬港通業務實施辦法》的有關規定，滬港通下港股通標的名單發生調整，調入MINIMAX-W、立訊精密、三環集團，並自下一港股通交易日起生效。"
+    },
     {
       "id": "mkt:019fd1f7-3c4a-7aab-8f8c-64c72e5031d9",
       "time": "2026-08-05 20:47:48",
@@ -165874,70 +165929,6 @@
         "國際"
       ],
       "text": "訊息人士稱，美國軍方可能要求部分駐中東部隊上交手機。"
-    },
-    {
-      "id": "5014654",
-      "time": "2026-07-29 20:51:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【花旗：上調福特汽車目標價至20美元，評級升至“買入”】花旗將福特汽車的目標價從19美元上調至20美元，評級從“中性”上調至“買入”。花旗指，F系列皮卡產量持續改善、權證成本逐步下降以及鋁材供應趨於穩定，正推動其盈利前景向好轉變。"
-    },
-    {
-      "id": "5014653",
-      "time": "2026-07-29 20:51:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "蒙特利爾特魯多國際機場：多架飛往美國的航班已被取消。"
-    },
-    {
-      "id": "5014652",
-      "time": "2026-07-29 20:50:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "蒙特利爾特魯多國際機場：美國海關及邊境保護局因建築材料散發異味暫時暫停運作。"
-    },
-    {
-      "id": "5014651",
-      "time": "2026-07-29 20:50:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "臺積電：經檢測排查後，日本熊本 JASM 廠區建設工程已於週三復工。"
-    },
-    {
-      "id": "5014650",
-      "time": "2026-07-29 20:49:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員稱，美國副總統萬斯週二與以色列總理內塔尼亞胡會面。美國國防部長赫格塞思今天將與內塔尼亞胡會面。"
-    },
-    {
-      "id": "5014649",
-      "time": "2026-07-29 20:49:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美國武器庫存持續縮減，與伊朗的衝突尚無徹底結束的跡象】三位熟悉五角大樓近期資料的人士及最新研究報告顯示，美國與伊朗近期衝突升級後，美軍武器庫存持續下降，包括關鍵防空導彈在內的彈藥儲備已大幅消耗，而伊朗戰爭短期內仍看不到永久結束的跡象。美國智庫戰略與國際問題研究中心（CSIS）週一釋出報告稱，美國現存“愛國者”攔截彈已不足827枚，“薩德”攔截彈不足278枚，訊息人士稱，該估算與美國政府內部資料基本一致。CSIS警告稱，庫存下降可能迫使美國及其盟友在導彈攔截行動中承擔更高風險。目前並沒有能夠完全替代“愛國者”和“薩德”的彈道導彈防禦系統。美國總統特朗普週一表示，希望儘快補充“更先進的武器裝備”，但強調當前庫存“狀況仍然很好”。不過，美軍參謀長聯席會議主席上週表示，如果無法獲得額外撥款，五角大樓將無法採購所需彈藥。"
-    },
-    {
-      "id": "mkt:019fadec-48f4-7aab-8eea-d1193540d46a",
-      "time": "2026-07-29 20:49:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【HSBC: Dollar could soften if Fed holds rates】HSBC analyst Daragh Maher said markets have already priced in some Fed tightening; if the Fed holds rates the dollar could weaken. He said at least three Fed voters would need to back a hike to blunt the dollar's initial decline. Conversely, an actual hike would likely provoke an initial dollar rise larger than any initial drop from a hold. \"If the pace of hikes is faster than expected, it will force markets to consider whether this is the first of a series,\" he added. He expects a pause would not materially alter expectations for a September hike."
-    },
-    {
-      "id": "5014648",
-      "time": "2026-07-29 20:48:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電：裝置檢修與校準工作預計將耗費一定時長。"
     }
   ]
 }
