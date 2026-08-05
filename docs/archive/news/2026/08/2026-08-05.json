@@ -1,7 +1,38 @@
 {
   "date": "2026-08-05",
-  "count": 997,
+  "count": 1000,
   "items": [
+    {
+      "id": "5025782",
+      "time": "2026-08-05 10:15:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國檢方因涉嫌串謀定價搜查七家石化企業】據媒體週三報道，韓國檢方以涉嫌串謀定價為由搜查了七家石化企業，但未透露這些企業的名稱。"
+    },
+    {
+      "id": "te:economy:572776",
+      "time": "2026-08-05 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Outright Reverse Repo",
+        "Importance 1"
+      ],
+      "text": "PBoC Conducts CNY 500 Billion Reverse Repo, Expands Liquidity Support — The People's Bank of China (PBoC) said it will conduct a CNY 500 billion three-month outright reverse repo operation on Wednesday to maintain ample liquidity in the banking system. The operation will be carried out through interest-rate bidding with a fixed quantity, with winning bids determined at multiple price levels. As CNY 300 billion of three-month outright reverse repos are set to mature in August, the latest operation represents a net increase in rollover, signaling continued liquidity support. Introduced in October 2024, outright reverse repos have become a key liquidity management tool, allowing the central bank to inject medium-term funds with maturities of up to one year."
+    },
+    {
+      "id": "te:markets:572775",
+      "time": "2026-08-05 10:14:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Depreciates by 0.46% — Top currency loser is New Zealand Dollar (-0.46%). Gains are led by South Korean Won (0.44%) and Japanese Yen (0.10%). Meanwhile Chinese Yuan was little changed."
+    },
     {
       "id": "te:markets:572774",
       "time": "2026-08-05 10:14:08",

@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-05 10:15:28",
-  "count": 17826,
+  "updated": "2026-08-05 10:19:18",
+  "count": 17817,
   "items": [
+    {
+      "id": "5025782",
+      "time": "2026-08-05 10:15:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國檢方因涉嫌串謀定價搜查七家石化企業】據媒體週三報道，韓國檢方以涉嫌串謀定價為由搜查了七家石化企業，但未透露這些企業的名稱。"
+    },
+    {
+      "id": "te:economy:572776",
+      "time": "2026-08-05 10:15:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Outright Reverse Repo",
+        "Importance 1"
+      ],
+      "text": "PBoC Conducts CNY 500 Billion Reverse Repo, Expands Liquidity Support — The People's Bank of China (PBoC) said it will conduct a CNY 500 billion three-month outright reverse repo operation on Wednesday to maintain ample liquidity in the banking system. The operation will be carried out through interest-rate bidding with a fixed quantity, with winning bids determined at multiple price levels. As CNY 300 billion of three-month outright reverse repos are set to mature in August, the latest operation represents a net increase in rollover, signaling continued liquidity support. Introduced in October 2024, outright reverse repos have become a key liquidity management tool, allowing the central bank to inject medium-term funds with maturities of up to one year."
+    },
+    {
+      "id": "te:markets:572775",
+      "time": "2026-08-05 10:14:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Depreciates by 0.46% — Top currency loser is New Zealand Dollar (-0.46%). Gains are led by South Korean Won (0.44%) and Japanese Yen (0.10%). Meanwhile Chinese Yuan was little changed."
+    },
     {
       "id": "te:markets:572774",
       "time": "2026-08-05 10:14:08",
@@ -164848,124 +164879,6 @@
         "其他"
       ],
       "text": "SK海力士股價暴跌11%。"
-    },
-    {
-      "id": "5013458",
-      "time": "2026-07-29 10:19:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：內部正在審議穩定國內股市的各項措施。"
-    },
-    {
-      "id": "mkt:019fabab-057d-7aab-8edb-729d793f78cf",
-      "time": "2026-07-29 10:18:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share disperse-dye stocks rose after intraday volatility; Runtu hit the limit-up, with Jinji, Zhejiang Longsheng, Jihua Group, Haixiang Pharmaceutical and Shanshui Technology also advancing."
-    },
-    {
-      "id": "mkt:019fabaa-c876-7aab-8edb-6c37530713a7",
-      "time": "2026-07-29 10:18:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Financial Times reports Meta Platforms CEO Mark Zuckerberg said a US ban on advanced Chinese AI would not be 'an effective solution'."
-    },
-    {
-      "id": "5013457",
-      "time": "2026-07-29 10:18:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌6.2%，至5653.02點。"
-    },
-    {
-      "id": "mkt:019fabaa-519e-7aab-8edb-600ff021219c",
-      "time": "2026-07-29 10:18:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "China A-share auto OEM sector rebounded counter to the broader market; BAIC BluePark approached its daily limit-up, with JAC Motors, Changan Automobile, GAC Group, Haima Automobile and SERES also higher."
-    },
-    {
-      "id": "mkt:019fabaa-509e-7aab-8edb-5e5b96833104",
-      "time": "2026-07-29 10:18:13",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI plunged 6.00% intraday to 5,653.02 points."
-    },
-    {
-      "id": "5013456",
-      "time": "2026-07-29 10:17:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "扎克伯格表示，在美國禁止尖端中國人工智慧並非“有效解決方案”。"
-    },
-    {
-      "id": "5013455",
-      "time": "2026-07-29 10:17:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦回應陸委會抹黑“臺青e家”：無腦言論、蓄意抹黑】國務院臺辦舉行例行新聞釋出會。有記者問：對於大陸推出“臺青e家”服務平臺，陸委會稱，大陸藉此拉攏臺灣年輕人，而“臺青e家”設有線上投遞履歷、線上報名等功能，有大陸藉此蒐集、掌握臺青個人資料進一步運用、施壓的極高風險。請問對此有何評論？發言人陳斌華表示，相關說法完全是無腦言論、蓄意抹黑。請問民進黨當局，臺灣地區有不需要填報姓名投遞履歷的網路求職平臺嗎？目前已有近2000家企業入駐“臺青e家”，釋出崗位近6000個。平臺堅持以最小必要原則填報資訊，依法嚴格保護求職者資料。民進黨當局越是編造謠言、謊言炒作所謂“風險”，就越證明“臺青e家”契合了臺青的需求，觸到了民進黨的痛點。臺青有選擇到哪裡發展的自由，哪裡區域多、空間大，自然就會去哪裡。"
-    },
-    {
-      "id": "mkt:019faba9-3c35-7aab-8edb-54e82c7efe28",
-      "time": "2026-07-29 10:17:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "LI.O",
-        "Impact bullish"
-      ],
-      "text": "Li Auto (LI.O) rose 4.7% in U.S. after-hours trading."
-    },
-    {
-      "id": "5013454",
-      "time": "2026-07-29 10:16:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：積極支援兩岸影視文化領域交流合作】國務院臺辦舉行例行新聞釋出會，有記者問：大陸電影《給阿嬤的情書》將於8月中旬亮相臺灣桃園電影節，受到臺灣影迷歡迎和期待。請問對此有何評論?發言人陳斌華表示，《給阿嬤的情書》以僑批為載體，用剋制內斂的鏡頭語言，講述了跨越山海、跨越歲月的親情守望故事。影片上映以來迅速“破圈”，引發海內外中華兒女的廣泛共鳴。陳斌華指出，我們積極支援兩岸影視文化領域交流合作，希望更多大陸優秀電影能在島內上映。"
-    },
-    {
-      "id": "5013453",
-      "time": "2026-07-29 10:16:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "扎克伯格：美國不應封鎖中國人工智慧。"
-    },
-    {
-      "id": "5013452",
-      "time": "2026-07-29 10:15:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【分散染料概念震盪走強 閏土股份觸及漲停】分散染料概念盤中震盪走強，閏土股份觸及漲停，錦雞股份、浙江龍盛、吉華集團、海翔藥業、善水科技漲幅靠前。"
     }
   ]
 }
