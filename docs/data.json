@@ -1,7 +1,144 @@
 {
-  "updated": "2026-08-05 09:12:37",
-  "count": 17877,
+  "updated": "2026-08-05 09:16:33",
+  "count": 17876,
   "items": [
+    {
+      "id": "mkt:019fcf7d-649d-7aab-8f7b-6bdcbecf97a8",
+      "time": "2026-08-05 09:15:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.23% at 25,893, trading 40 pts above the cash index."
+    },
+    {
+      "id": "5025667",
+      "time": "2026-08-05 09:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7889，較上日調高28點】人民幣兌美元中間價報6.7889，較上日調高28點。"
+    },
+    {
+      "id": "5025666",
+      "time": "2026-08-05 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7889元。"
+    },
+    {
+      "id": "5025665",
+      "time": "2026-08-05 09:15:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西將與阿根廷的外交關係降為代辦級】總檯記者當地時間4日獲悉，據巴西政府人士訊息，巴西將與阿根廷的外交關係降為代辦級。（央視）"
+    },
+    {
+      "id": "5025664",
+      "time": "2026-08-05 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.32%，報25916.24點，高水63.32點。"
+    },
+    {
+      "id": "5025663",
+      "time": "2026-08-05 09:14:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華秋完成數億元D輪股權融資】近日，電子產業一站式智慧基礎設施平臺——深圳華秋智聯股份有限公司（簡稱“華秋”）宣佈完成數億元D輪股權融資。本輪融資由招銀國際領投，廣新基金、成都高新、鴻石資本等多家新老股東聯合參與。本次融資將用於深化全產業鏈數字化佈局、自研工業軟體迭代、智慧製造基地升級，加速完善電子硬體創新全鏈路服務閉環。"
+    },
+    {
+      "id": "5025662",
+      "time": "2026-08-05 09:14:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX計劃最早於本月進行下一次“星艦”發射，並在陸地上回收飛船】SpaceX執行長埃隆·馬斯克週二在公司首次財報電話會議上表示，SpaceX計劃最早於本月進行下一次“星艦”飛行測試，將首批升級版“星鏈”衛星送入軌道，隨後首次讓這套巨型火箭系統的上級返回陸地著陸。“星艦”第14次試飛的目標標誌著這款可重複使用火箭自7月上次試飛以來的重大飛躍——當時“星艦”上段在印度洋上空似乎展示了更強的著陸能力。馬斯克此前曾表示，SpaceX可能在今年某個時候嘗試上段著陸回收，具體是否在第14次飛行中進行，將取決於第13次飛行是否順利。作為“星艦”核心部分的該火箭上級返回地面，對於SpaceX實現其構建全球首個完全可重複使用軌道發射系統的目標至關重要——馬斯克希望藉助該系統大幅擴充套件公司的“星鏈”寬頻網路。此次著陸測試也將受到美國宇航局的密切關注，該機構迫切希望將該火箭用作登月艙。"
+    },
+    {
+      "id": "5025661",
+      "time": "2026-08-05 09:14:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【348股獲融資買入超億元，中際旭創穫買入79.97億元居首】Wind資料顯示，A股8月4日共有3834只個股獲融資資金買入，有348股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入79.97億元、34.82億元、33.14億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中中金輻照、德爾瑪、易瑞生物融資買入額佔成交額比重排名前三，分別為36.86%、33.21%、28.72%。從融資淨買入金額來看，有32只個股獲融資淨買入超億元。其中，中際旭創、寒武紀、浪潮資訊融資淨買入金額排名前三，分別獲淨買入10.55億元、10.01億元、4.7億元。"
+    },
+    {
+      "id": "te:markets:572749",
+      "time": "2026-08-05 09:13:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Track Wall Street Higher — Asian equity markets advanced on Wednesday, tracking a rally on Wall Street overnight that lifted the Dow and S&P 500 to fresh record highs, supported by robust corporate earnings and a sharp drop in oil prices. Investors weighed reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz, a development that could ease inflation concerns and reduce expectations for near-term Federal Reserve interest rate hikes. Technology-heavy markets in Japan and South Korea led regional gains, with the Nikkei 225 and KOSPI Composite both surging more than 3%. Among individual stocks, Japanese tech-investing giant SoftBank Group soared more than 10%, while South Korean chipmaker SK Hynix climbed 6%."
+    },
+    {
+      "id": "mkt:019fcf7b-9e30-7aab-8f7b-65b96a1afed3",
+      "time": "2026-08-05 09:13:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) most-active contract fell 7.00% intraday to 1,670.0 points."
+    },
+    {
+      "id": "5025660",
+      "time": "2026-08-05 09:13:25",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "【華創證券：10年債利率1.7%關口約束力或軟化 多頭信心有望強化】華創證券投資交易部傳送的點評稱，債市利率選擇向下突破，反映出在總量寬鬆預期邊際開啟，7月採購經理人指數顯示基本面改善未能持續後，做多已成為債市阻力更小的方向。當前中國央行的態度或許說明10年期國債收益率小幅下破1.7%，尚在央行包容範圍內。在央行透過資金面敲打債市前，10年期國債收益率1.70%關口的約束力或逐漸軟化，做多資金可能繼續嘗試向下突破。相比之下超長債仍有利差收窄空間，節奏上需關注交易盤階段性止盈擾動。"
+    },
+    {
+      "id": "mkt:019fcf7b-76c6-7aab-8f7b-5b535631c65a",
+      "time": "2026-08-05 09:13:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude up more than 1.00% intraday at $75.08/bbl. Brent crude's intraday gain widened to 1.00%, trading at $79.31/bbl."
+    },
+    {
+      "id": "5025659",
+      "time": "2026-08-05 09:13:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍已消耗近80%“薩德”反導系統攔截彈】 據美國有線電視新聞網4日援引多名訊息人士的話報道，美軍已消耗“薩德”反導系統近80%的攔截彈。 報道說，自伊朗戰事開始以來，美軍已消耗了近五分之四的“薩德”反導系統導彈庫存和大約一半的“愛國者”防空系統攔截彈。用於遠端打擊的“戰斧”巡航導彈也消耗了近一半，導彈庫存處於嚴重短缺狀態。一名美軍高階指揮官警告稱，五角大樓的彈藥儲備“已降至危險的低位”。(新華社)"
+    },
+    {
+      "id": "5025658",
+      "time": "2026-08-05 09:12:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報1670.00點。"
+    },
+    {
+      "id": "5025657",
+      "time": "2026-08-05 09:12:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【納芯微NovoGenius®系列電機控制Turnkey Solution獲ASPICE CL2認證】 據納芯微訊息，近日，納芯微NovoGenius®系列電機控制Turnkey Solution軟體開發專案，依據Automotive SPICE® PAM 4.0完成專業過程能力評估並達到能力等級2（Capability Level 2，簡稱“CL2”）。此次評估結果表明，該專案已建立覆蓋軟體需求、設計、開發、驗證及專案管理的受控流程，為客戶提供更加規範、穩定、可追溯的軟體支援，助力提升方案開發與量產匯入效率。"
+    },
     {
       "id": "mkt:019fcf79-b5dd-7aab-8f7b-5166e6a61c51",
       "time": "2026-08-05 09:11:27",
@@ -165321,159 +165458,6 @@
         "Impact bullish"
       ],
       "text": "South Korea's KOSPI accelerated lower, down about 1% intraday; SK Hynix slid 4.5%, while Samsung Electronics' gains narrowed to under 1%."
-    },
-    {
-      "id": "5013307",
-      "time": "2026-07-29 09:16:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至1%】韓國綜指跌幅擴大至1%，現報5957.21點。個股方面，SK海力士跌超4%。"
-    },
-    {
-      "id": "5013306",
-      "time": "2026-07-29 09:15:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗訊息人士否認沙特境內目標受襲與伊朗有關 】伊朗國家電視臺29日援引一名軍事情報官員訊息說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。 這名軍事情報官員在接受採訪時說：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。” 沙特國防部27日發表宣告說，沙特防空部隊當天攔截並摧毀了數架來自伊拉克方向、企圖襲擊沙特境內石油設施的無人機。"
-    },
-    {
-      "id": "mkt:019fab70-d95f-7aab-8ed8-f4c6c566ffd2",
-      "time": "2026-07-29 09:15:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures rose 0.68% at the day-session open to 25,526, trading 219 points above the cash index."
-    },
-    {
-      "id": "5013305",
-      "time": "2026-07-29 09:15:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7899元。"
-    },
-    {
-      "id": "5013304",
-      "time": "2026-07-29 09:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報85.40美元/桶。"
-    },
-    {
-      "id": "mkt:019fab70-a12b-7aab-8ed8-ee5889167df2",
-      "time": "2026-07-29 09:15:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Nikkei 225",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Taiwan's TAIEX fell more than 2%."
-    },
-    {
-      "id": "5013303",
-      "time": "2026-07-29 09:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.67%，報25502.52點，高水191.67點。"
-    },
-    {
-      "id": "mkt:019fab70-6231-7aab-8ed8-e3494b2ce1a6",
-      "time": "2026-07-29 09:14:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI slipped below 6,000 points again, with the intraday decline widening to 0.5%."
-    },
-    {
-      "id": "5013302",
-      "time": "2026-07-29 09:14:49",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元持續下跌 考驗植田和男安撫市場的能力】本週日元將面臨一個關鍵的風險時刻，日本央行行長植田和男將在週五央行政策會議後發表講話。儘管普遍預期日本央行將維持利率不變，但日元交易員將密切關注植田的講話，以防任何可能引發日元進一步下跌的失誤。日元兌美元在6月份下跌至自1986年以來最弱水平，並且本月繼續走弱。日元持續受到油價上漲，對財政政策的擔憂，以及利率差異寬闊的壓力。儘管植田釋放出更清晰的訊號可能有助於穩定日元，但市場參與者提醒稱，這不會引發日元大幅上漲。“如果植田的立場不夠強硬，那麼日元兌美元匯率將繼續走弱，跌破165。”RBC Bluebay首席投資官Mark Dowding表示，“我認為植田會在9月或10月的會議上為加息敞開大門”，但他不太可能足夠鷹派，從而導致日元大幅上漲。"
-    },
-    {
-      "id": "5013301",
-      "time": "2026-07-29 09:14:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌2%至40,763.79點。"
-    },
-    {
-      "id": "5013300",
-      "time": "2026-07-29 09:13:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數(KOSPI)轉跌，回吐早盤3.4%的漲幅。"
-    },
-    {
-      "id": "5013299",
-      "time": "2026-07-29 09:13:45",
-      "tags": [],
-      "text": "韓國KOSPI指數轉跌，SK海力士跌3.2％。"
-    },
-    {
-      "id": "mkt:019fab6f-11c4-7aab-8ed8-daebc5e00a32",
-      "time": "2026-07-29 09:13:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "South Korea's KOSPI turned lower; SK Hynix fell 3.2%."
-    },
-    {
-      "id": "5013298",
-      "time": "2026-07-29 09:13:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年我國物流供給能力穩步增強 行業景氣水平回升】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。上半年，我國物流供給規模穩步提升，供給結構持續最佳化，景氣水平有所回升。從市場規模看，上半年物流業總收入7.2萬億元，同比增長4.7%。從行業景氣情況看，上半年中國物流業景氣指數平均值為49.9%，比一季度平均值回升0.3個百分點，行業景氣水平企穩回升。"
-    },
-    {
-      "id": "mkt:019fab6e-ba4b-7aab-8ed8-d46dd61c17cf",
-      "time": "2026-07-29 09:13:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Commonwealth Bank of Australia: Fed likely to hold rates; one–two dissenters possible】Commonwealth Bank of Australia economist and FX strategist Carol Kong says she expects the FOMC to leave the federal funds rate unchanged, though one or two members may dissent in favor of a hike. She sees a low probability of a majority voting to raise rates and says post-meeting commentary may tilt toward a tighter stance."
-    },
-    {
-      "id": "mkt:019fab6e-429f-7aab-8ed8-cdb4780b2de0",
-      "time": "2026-07-29 09:12:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude rose to $85/bbl, up 3.72% intraday."
     }
   ]
 }
