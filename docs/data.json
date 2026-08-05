@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-06 05:07:42",
-  "count": 17528,
+  "updated": "2026-08-06 05:11:33",
+  "count": 17526,
   "items": [
+    {
+      "id": "mkt:019fd3c3-a712-7aab-8f94-4d3244677855",
+      "time": "2026-08-06 05:10:42",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【BofA expects yen to strengthen to 149】BofA now expects the yen to appreciate roughly 6% by year-end after coordinated currency intervention. Analysts including Shusuke Yamada wrote on Wednesday that with joint US–Japan action and expectations of BOJ tightening in coming months, USD/JPY is seen falling from about 158 to 149, versus a prior year-end forecast of 152. They say intervention raises the bar for successfully defending the yen and may require macro policy follow-up—specifically faster rate hikes; moving in September rather than October would let the BOJ demonstrate it is ahead of the curve on upside inflation risk."
+    },
+    {
+      "id": "5027500",
+      "time": "2026-08-06 05:08:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）表示，其 8 月指數調整公告定於 2026 年 8 月 12 日釋出，且將在概要公告發布後即刻向客戶提供詳細的調倉資訊。"
+    },
     {
       "id": "mkt:019fd3c0-7008-7aab-8f94-46732a06db70",
       "time": "2026-08-06 05:07:11",
@@ -161457,65 +161475,6 @@
         "Impact bullish"
       ],
       "text": "Meta Platforms (META.O) CEO said consumer personal agents will become an extremely important and large market."
-    },
-    {
-      "id": "mkt:019fafb7-d4ff-7aab-8ef9-d683e97e41ba",
-      "time": "2026-07-30 05:11:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Meta Platforms (META.O) extended after-hours losses to 10%."
-    },
-    {
-      "id": "mkt:019fafb5-8c6b-7aab-8ef9-cd7bf33006b5",
-      "time": "2026-07-30 05:08:58",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Meta Platforms (META.O) CFO said the company views short-term infrastructure capability as more valuable than long-term capability."
-    },
-    {
-      "id": "mkt:019fafb5-78e1-7aab-8ef9-c592b9ebe29b",
-      "time": "2026-07-30 05:08:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "AMD.O"
-      ],
-      "text": "Meta Platforms (META.O) CFO said industry-wide compute capacity will remain tight for the foreseeable future."
-    },
-    {
-      "id": "mkt:019fafb4-fb64-7aab-8ef9-bd44ec5082f6",
-      "time": "2026-07-30 05:08:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CFO said the company’s long-term capacity strategy is intended to support sustained compute growth from 2028 onward."
     }
   ]
 }
