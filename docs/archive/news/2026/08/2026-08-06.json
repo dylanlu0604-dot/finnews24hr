@@ -1,7 +1,57 @@
 {
   "date": "2026-08-06",
-  "count": 167,
+  "count": 172,
   "items": [
+    {
+      "id": "te:markets:573112",
+      "time": "2026-08-06 02:20:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 4.43% — Top commodity gainers are Silver (4.43%), Gold (4.39%) and Copper (1.64%)."
+    },
+    {
+      "id": "mkt:019fd326-7a20-7aab-8f92-9aef7c622139",
+      "time": "2026-08-06 02:19:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "【Microsoft says OpenAI drove majority of AI revenue; OpenAI sales $24.1 bln in fiscal year】Microsoft disclosed most of its AI revenue came from OpenAI, reporting $24.1 bln in sales from OpenAI in the fiscal year ended June (MSFT.O). CEO NADELLA had said AI business revenue could reach about $37 bln on a full-year basis as of the end of the March quarter. The filing implies OpenAI accounted for more than half—and possibly roughly 70%—of Microsoft’s AI sales in the most recent fiscal year. Under the companies’ agreement OpenAI pays Microsoft for compute, AI model development costs and shares part of revenue."
+    },
+    {
+      "id": "5027422",
+      "time": "2026-08-06 02:18:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄中選委主席：全力保障國家杜馬選舉安全】俄羅斯中央選舉委員會主席帕姆菲洛娃5日在克里姆林宮向俄總統普京彙報工作時表示，俄中選委已做好準備，將全力保障今年秋季舉行的俄國家杜馬（議會下院）選舉安全。（新華社）"
+    },
+    {
+      "id": "5027421",
+      "time": "2026-08-06 02:18:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人：我方部隊正嚴密監控沙特油輪的全部動向，不會允許任何此類船隻通行。"
+    },
+    {
+      "id": "5027420",
+      "time": "2026-08-06 02:17:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "波音：美國空軍授予波音一份7500萬美元未最終定價合同，採購BSU‑111/B彈藥投放元件（遠端型聯合直接攻擊彈藥JDAM‑LR）。"
+    },
     {
       "id": "mkt:019fd323-6cba-7aab-8f92-9437bb6c0cbe",
       "time": "2026-08-06 02:15:41",
