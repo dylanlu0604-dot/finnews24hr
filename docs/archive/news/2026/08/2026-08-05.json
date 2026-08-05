@@ -1,7 +1,57 @@
 {
   "date": "2026-08-05",
-  "count": 2869,
+  "count": 2874,
   "items": [
+    {
+      "id": "5027104",
+      "time": "2026-08-05 21:22:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Netlist與三星達成五年期記憶體協議】8月5日，計算機記憶體公司Netlist表示，已與三星電子達成一項為期五年的協議。根據協議條款，三星將獲得Netlist全部專利組合的使用權，包括其伺服器DIMM和高頻寬記憶體技術。三星將向Netlist供應DRAM和NAND產品。此外，雙方同意和解並相互撤銷所有未決的法律訴訟。"
+    },
+    {
+      "id": "5027103",
+      "time": "2026-08-05 21:22:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【爆料：特朗普“親密盟友”，拖了“一箱證據”前往白宮】美國首都華盛頓地標建築林肯紀念堂倒影池改造引發的風波持續發酵。據《紐約時報》、美國哥倫比亞廣播公司（CBS）等美媒4日援引訊息人士的話稱，哥倫比亞特區聯邦檢察官珍尼娜·皮羅3日拖著“滿滿一箱證據”前往白宮，試圖向美國總統特朗普證明——美國林肯紀念堂倒影池底部塗層損毀部分並非人為蓄意破壞，而是由施工質量低劣造成的。美媒形容說，橢圓形辦公室當天展開了一場“激烈交鋒”。（環球網）"
+    },
+    {
+      "id": "te:economy:573056",
+      "time": "2026-08-05 21:21:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Private Sector Contracts in July — The S&P Global Composite PMI for Brazil fell to 48.8 in July 2026 from 50.7 in June, signaling a renewed contraction in private sector activity. Although modest, the pace of reduction was the fastest since October 2025, reflecting a sharper decline in new orders and weaker output, particularly in manufacturing. Firms continued to trim workforce in response to weak demand, marking a second consecutive monthly decrease in employment. Input cost and output price inflation both eased to their lowest levels in four months but stayed high by historical standards. Cost pressures were stronger in services, while manufacturers raised selling prices more aggressively."
+    },
+    {
+      "id": "5027102",
+      "time": "2026-08-05 21:21:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報15157.00元。"
+    },
+    {
+      "id": "mkt:019fd215-b9bc-7aab-8f8c-fc249eb4f9a8",
+      "time": "2026-08-05 21:21:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Gulf official says 50-50 chance US and Iran reach deal on Friday】A senior Gulf official told CNN the probability of a US-Iran agreement on Friday is roughly 50/50, despite US President Trump indicating a deal was imminent. The official said Iran’s delegation did not include Islamic Revolutionary Guard Corps representatives; the IRGC would need to approve any interim-agreement details. Trump said US officials were having \"very good discussions\" but warned the US would strike \"very hard\" if Iranian officials \"walk away\" again and suggested a Strait of Hormuz agreement could be reached as soon as the day. Iran denies direct talks with Washington, saying its officials are only consulting with Oman on Strait of Hormuz shipping. Diplomats say lifting a blockade of the Strait — a key bargaining chip — could reopen broader US-Iran discussions."
+    },
     {
       "id": "5027101",
       "time": "2026-08-05 21:19:00",
