@@ -1,7 +1,125 @@
 {
-  "updated": "2026-08-05 10:30:57",
-  "count": 17811,
+  "updated": "2026-08-05 10:34:49",
+  "count": 17810,
   "items": [
+    {
+      "id": "mkt:019fcfc5-37dc-7aab-8f7d-cecb057a24a3",
+      "time": "2026-08-05 10:33:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Chinese oil futures main contracts fell: SC crude -6.01% to 504.7 yuan/bbl; low-sulfur fuel oil (LU) -3.82% to 4,462 yuan/ton; fuel oil -3.99% to 3,319 yuan/ton."
+    },
+    {
+      "id": "mkt:019fcfc5-153d-7aab-8f7d-c248947edc5a",
+      "time": "2026-08-05 10:33:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver broke above $60/oz, up 0.83% intraday."
+    },
+    {
+      "id": "5025812",
+      "time": "2026-08-05 10:33:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲6%，現報322.10元。"
+    },
+    {
+      "id": "5025811",
+      "time": "2026-08-05 10:33:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌6%，現報504.70元。"
+    },
+    {
+      "id": "5025810",
+      "time": "2026-08-05 10:32:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內跌4%，現報3318.00元。"
+    },
+    {
+      "id": "5025809",
+      "time": "2026-08-05 10:32:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內跌5%，現報7018.00元。"
+    },
+    {
+      "id": "5025808",
+      "time": "2026-08-05 10:32:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲6%，現報428.30元。"
+    },
+    {
+      "id": "5025807",
+      "time": "2026-08-05 10:32:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內跌4%，現報7890.00元。"
+    },
+    {
+      "id": "5025806",
+      "time": "2026-08-05 10:31:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內跌5%，現報6876.00元。"
+    },
+    {
+      "id": "5025805",
+      "time": "2026-08-05 10:31:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國檢方調查石化企業涉嫌價格串通，LG化學等7家公司遭搜查】韓國首爾中央地方檢察廳公平貿易調查部8月5日對LG化學、韓華解決方案、愛敬化學、OCI、樂天精密化學、PKC、UNID等7家石化企業及相關人員展開扣押搜查，調查其涉嫌對多種石油化工產品進行價格串通。檢方懷疑上述企業多年間就PVC、增塑劑、燒鹼、鹽酸等8類產品的價格上漲進行事前協商。此前，韓國公平交易委員會已於今年5月發現相關涉嫌串通線索，並啟動現場調查。"
+    },
+    {
+      "id": "5025804",
+      "time": "2026-08-05 10:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內跌4%，現報5180.00元。"
+    },
+    {
+      "id": "mkt:019fcfc2-72b8-7aab-8f7d-b8746c9489f9",
+      "time": "2026-08-05 10:30:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "513310.SZ",
+        "Impact bullish"
+      ],
+      "text": "China-Korea Semiconductor ETF (513310) rose more than 5%; turnover exceeded 400 mln yuan."
+    },
     {
       "id": "5025803",
       "time": "2026-08-05 10:30:04",
@@ -164731,120 +164849,6 @@
         "其他"
       ],
       "text": "索尼稱熊本工廠地震後暫停運營。"
-    },
-    {
-      "id": "mkt:019fabb9-53e6-7aab-8edc-04a6fbcc86bb",
-      "time": "2026-07-29 10:34:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tongcheng city government reprimanded over government-led illegal sand mining】The Nanjing office of China’s National Natural Resources Inspection publicly summoned Tongcheng city officials on July 28 after finding the city government led illegal sand-and-gravel mining disguised as farmland quality-improvement projects. Inspectors issued stern criticism, set explicit rectification requirements and ordered stepped-up investigations and enforcement to halt illegal sand extraction and restore natural resource management order."
-    },
-    {
-      "id": "5013492",
-      "time": "2026-07-29 10:33:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋼鐵板塊持續走強，柳鋼股份漲停】鋼鐵板塊持續走強，柳鋼股份漲停，方大特鋼、新鋼股份、武進不鏽、華菱鋼鐵、馬鋼股份、沙鋼股份等跟漲。"
-    },
-    {
-      "id": "5013491",
-      "time": "2026-07-29 10:33:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽省桐城市政府主導違法採砂被約談】從自然資源部瞭解到，7月28日，國家自然資源督察南京局在駐地公開約談安徽省桐城市政府主要負責人，指出桐城市政府主導以農田質量改造提升為名違法開採砂石問題突出，面對面提出嚴肅批評，明確整改要求，督促加大整改查處力度，堅決遏制違法採砂行為，切實維護自然資源管理秩序。據國家自然資源督察南京局情況通報，為規避礦政監管，2022年12月，桐城市政府同意孔城鎮政府編制的《農田質量改造提升方案》（以下簡稱《方案》），採取地上棄渣與地下砂石換填方式開採地下粗礫石，開採後平整土地並改良土壤。督察發現，《方案》實施以來，施工作業以採砂為主，未實施土壤改良，農田質量改造未落實，僅2022年12月至2023年底就外運銷售砂石近40萬噸。上述行為違反《中華人民共和國礦產資源法》關於“禁止任何單位和個人以任何手段侵佔或者破壞礦產資源”和“勘查、開採礦產資源應當依法分別取得探礦權、採礦權”等規定。桐城市相關部門對違法行為未查處，履職不到位。據國家自然資源督察南京局有關負責人介紹，該局將緊盯地方後續整改情況，適時開展督導核查，充分發揮國家自然資源督察對地方政府相關履職情況的監督檢查作用，維護礦產資源開發利用秩序。"
-    },
-    {
-      "id": "mkt:019fabb7-fb84-7aab-8edb-f9b7d08c9c0c",
-      "time": "2026-07-29 10:33:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China A-share benchmarks fell to intra-day lows before turning positive; the Shenzhen Composite Index rose 0.66% and the ChiNext Index gained nearly 1% after earlier sliding more than 2.3%."
-    },
-    {
-      "id": "mkt:019fabb7-d65c-7aab-8edb-f037f56dfbbd",
-      "time": "2026-07-29 10:32:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China CSI 1000 index futures (IM) front-month contract breached 7,000, up 1.15% intraday."
-    },
-    {
-      "id": "mkt:019fabb7-a4a4-7aab-8edb-eb8871df5edf",
-      "time": "2026-07-29 10:32:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Regional governor says an industrial facility in Ryazan, Russia caught fire after a drone strike."
-    },
-    {
-      "id": "em:jjsj_zgsj:202607293824847783",
-      "time": "2026-07-29 10:32:39",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【合肥：上半年GDP同比增長6.8%】據合肥釋出，根據地區生產總值統一核算結果，上半年，全市地區生產總值（GDP）7073億元，按不變價格計算，同比增長6.8%。分產業看，第一產業增加值118.8億元，增長2.2%；第二產業增加值2552.4億元，增長10.3%；第三產業增加值4401.8億元，增長5.0%。"
-    },
-    {
-      "id": "5013490",
-      "time": "2026-07-29 10:32:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯梁贊州州長稱，當地一工業設施遭無人機襲擊後起火。"
-    },
-    {
-      "id": "mkt:019fabb6-92ee-7aab-8edb-e0857fe43428",
-      "time": "2026-07-29 10:31:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraqi Popular Mobilization Forces (PMF) said an attack killed several people and wounded many."
-    },
-    {
-      "id": "5013489",
-      "time": "2026-07-29 10:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克人民動員部隊(PMF)稱，襲擊造成數人死亡，另有多人受傷。"
-    },
-    {
-      "id": "mkt:019fabb6-249f-7aab-8edb-dfbdfc1839fb",
-      "time": "2026-07-29 10:31:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iraq's Popular Mobilization Forces (PMF) said US and Saudi forces struck its headquarters across Iraq."
-    },
-    {
-      "id": "5013488",
-      "time": "2026-07-29 10:31:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI釋出開源版Codex Security CLI】OpenAI當地時間7月28日在社交媒體平臺X發文稱，已釋出開源版Codex Security CLI。使用者現可利用該工具掃描程式碼倉庫、跨多次執行追蹤發現的問題、驗證修復結果，並將安全檢查納入持續整合和持續交付（CI/CD）流程。OpenAI表示，該產品目前仍處於早期釋出階段，未來將根據使用者反饋持續改進。"
-    },
-    {
-      "id": "5013487",
-      "time": "2026-07-29 10:30:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【三大指數全部翻紅 上漲個股近4000只】市場探底回升，三大指數全部拉昇翻紅。乳業、教育、食品飲料、零售、油氣等方向漲幅居前，滬深京三市上漲個股近4000只。"
     }
   ]
 }
