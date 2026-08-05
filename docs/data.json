@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-05 22:47:27",
-  "count": 17948,
+  "updated": "2026-08-05 22:51:28",
+  "count": 17946,
   "items": [
+    {
+      "id": "5027253",
+      "time": "2026-08-05 22:49:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州衛生部：截至8月5日，共報告12218例環孢子蟲病確診病例。"
+    },
+    {
+      "id": "5027252",
+      "time": "2026-08-05 22:48:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：將8月6日美元對盧布官方匯率設定為1美元兌換80.9293盧布（此前匯率為1美元兌換81.1291盧布）。"
+    },
+    {
+      "id": "5027251",
+      "time": "2026-08-05 22:47:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
+    },
     {
       "id": "mkt:019fd261-d9ae-7aab-8f8f-96d38f42cd2e",
       "time": "2026-08-05 22:44:15",
@@ -166077,50 +166102,6 @@
         "MKT News"
       ],
       "text": "IRNA reports Kuwait's foreign minister met Pakistan's prime minister and military chief."
-    },
-    {
-      "id": "te:markets:570812",
-      "time": "2026-07-29 22:50:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Financials and Miners Losses Weigh — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Wednesday after closing at a record high in the previous session, weighed down by financials and miners. Oil prices rose as tensions in the Middle East escalated following joint US-Saudi strikes in Iraq, fueling inflation concerns and pushing bond yields higher. Investors also awaited the Fed's policy decision. While rates are expected to remain unchanged, markets are watching for possible dissenting votes in favor of a hike. RBC and Scotiabank lost more than 1.5%, while TD Bank, BMO, Brookfield, and CIBC fell about 2% each. Mining stocks also declined after Allied Gold (-16%) abandoned a proposed sale to a Chinese company and gold prices weakened. Agnico Eagle lost over 2%, Barrick fell nearly 3%, and WPM dropped 2.5%. In contrast, Canadian Natural rose nearly 4%, while Cenovus gained 5% after reporting stronger Q2 revenue and profit."
-    },
-    {
-      "id": "5014837",
-      "time": "2026-07-29 22:48:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 伊拉克總理取消與沙特王儲的會晤。"
-    },
-    {
-      "id": "5014836",
-      "time": "2026-07-29 22:48:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）：玻利維亞當局與IMF工作人員已就一項為期36個月、規模約19億美元的擴充套件基金安排（EFF）達成工作人員層面協議。"
-    },
-    {
-      "id": "5014835",
-      "time": "2026-07-29 22:48:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數跌幅擴大至4％ 美光科技下跌5％】費城半導體指數下跌4.00％，道瓊斯指數跌1.61％，標普500指數跌0.89％，納斯達克綜合指數跌1.21％。英偉達下跌2.98％，臺積電下跌3.67％，博通下跌1.87％，SK海力士下跌1.28％，美光科技下跌5％，美國超微公司下跌5.51％，英特爾下跌3.36％，阿斯麥下跌2.73％，泛林集團下跌5.28％，Arm Holdings下跌6.73％，閃迪下跌8.04％，高通下跌2.84％，邁威爾科技下跌4.82％，西部資料下跌0.68％。"
-    },
-    {
-      "id": "5014834",
-      "time": "2026-07-29 22:47:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織（IMF）：基金組織與玻利維亞就中期貸款安排達成工作人員層面協議。"
     }
   ]
 }
