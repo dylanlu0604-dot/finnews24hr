@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-06 07:31:00",
-  "count": 17444,
+  "updated": "2026-08-06 07:34:47",
+  "count": 17442,
   "items": [
+    {
+      "id": "5027584",
+      "time": "2026-08-06 07:34:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理將斯巴魯的評級下調至“中性”，並將目標價設定為2200日元。"
+    },
+    {
+      "id": "5027583",
+      "time": "2026-08-06 07:32:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今日1只新股上市：上交所主機板津富士達】8月6日共1只新股啟動上市，為上交所主機板津富士達。津富士達IPO首發價為17.46元/股，發行市盈率為19.25倍，共發行4123萬股，網上發行2886.1萬股。公司主營腳踏車、電助力腳踏車、共享單車等產品及其關鍵零部件的研發、設計、生產與銷售。"
+    },
+    {
+      "id": "5027582",
+      "time": "2026-08-06 07:31:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌430點，報65860點。"
+    },
+    {
+      "id": "5027581",
+      "time": "2026-08-06 07:30:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓因持續暴雨暫停政府公務及學校課程】受熱帶風暴與增強西南季風帶來的持續強降雨影響，菲律賓於週四取消首都及多個省份的政府公務與課程。小費迪南德・馬科斯總統辦公室在一份備忘錄中表示，本次停工停課範圍涵蓋國家首都區以及 22 個省份。負責基礎民生、醫療服務以及災害防範處置的相關機構將維持正常運轉。私營企業是否停工，由各企業自行決定。"
+    },
     {
       "id": "5027580",
       "time": "2026-08-06 07:30:19",
@@ -160562,64 +160594,6 @@
         "其他"
       ],
       "text": "【Meta上調全年資本支出預期下限至1300億美元】當地時間7月29日，Meta預計全年資本支出為1300億美元至1450億美元，此前預估為1250億美元至1450億美元，市場預估為1358.6億美元。"
-    },
-    {
-      "id": "5015391",
-      "time": "2026-07-30 07:34:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "騰龍株式會社：已針對此提案成立特別委員會，以審查旨在提升企業價值的各項方案。"
-    },
-    {
-      "id": "5015390",
-      "time": "2026-07-30 07:34:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "騰龍株式會社：確認已收到索尼公司提出的一系列非約束性提案，旨在透過相關交易使該公司成為索尼集團公司的全資子公司。"
-    },
-    {
-      "id": "5015389",
-      "time": "2026-07-30 07:34:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【證券時報：產業鏈韌性是A股市場堅固護城河】7月以來，海外市場大幅調整，受輸入性因素疊加影響，A股市場也出現起伏。近期一則“國產光刻機研發突破”的傳聞，不僅導致阿斯麥股價走低，也引發了A股相關板塊逆勢上漲。儘管傳聞難辨真假，不過市場表現已經表明：產業鏈的自主可控使得A股受外部影響減少，助力A股形成堅固的護城河。我國擁有全球最完備的工業體系、海量的工程師隊伍與規模龐大的終端需求，部分行業的國產替代正從單點突破走向全鏈條協同。當下最重要的任務之一，就是要不斷完善我國的產業鏈。產業鏈的完善，將不斷增厚上市公司長期成長價值，構築起抵禦外部風險的護城河。當然，對於投資者而言，對市場定價“產業鏈安全”預期，也需保持一份冷靜。產業鏈自主可控的方向是確定的，但過程可能是曲折的。"
-    },
-    {
-      "id": "5015388",
-      "time": "2026-07-30 07:33:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本光學儀器公司騰龍TAMRON：收到索尼集團的非約束性收購要約。"
-    },
-    {
-      "id": "mkt:019fb039-69d6-7aab-8efb-4f7c0a77d520",
-      "time": "2026-07-30 07:33:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "ASML.AS",
-        "Impact bearish",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Securities Times: Supply-chain resilience is A-shares' defensive moat】Since July, sharp overseas market weakness and imported shocks have increased volatility in A-shares. A recent rumor of a domestic lithography-machine R&D breakthrough sent ASML shares lower and pushed related A-share sectors higher. Market moves suggest greater supply-chain autonomy is reducing A-shares' sensitivity to external shocks and helping form a defensive moat. China has a near-complete industrial system, a large engineering workforce and deep end-market demand; domestic substitution is shifting from single-point wins toward coordinated full-chain progress. Continued industrial-chain improvement should raise listed companies' long-term growth value and resilience to external risk. Investors should temper valuation assumptions for “industrial-chain security”: the direction is clear, but the process may be uneven."
-    },
-    {
-      "id": "5015387",
-      "time": "2026-07-30 07:31:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【高通預測第四財季利潤遜於華爾街預期，蘋果業務營收料加快下滑】高通公司預測第四財季利潤將低於華爾街預期，並表示受供應限制和成本上升影響，來自蘋果相關業務的營收將比預期更快下降。高通股價在盤後交易中下跌逾3%。高通執行長安蒙(Cristiano Amon)在接受媒體採訪時表示，不僅儲存晶片成本上升，整個供應鏈的成本都在上漲。他表示，高通計劃從9月1日起提價，以推動利潤率恢復到歷史水平。“我們只是將所面臨的大幅成本上漲轉嫁出去，”安蒙表示，並指出高通必須與每位客戶進行談判。“成本與定價之間暫時脫節，導致毛利率暫時出現小幅下滑。”高通還表示，隨著供應受限，其在下一代iPhone中的零部件份額將遠低於此前預計的20%，因此來自蘋果業務的營收從第四財季開始將更快下滑。對於2027財年，高通預計其晶片銷售收入的大部分將來自智慧手機以外的領域。“某種程度上，我們是用資料中心業務取代了蘋果業務，”安蒙表示。高通預計第四財季經調整後每股收益將在2.05至2.25美元之間，低於分析師平均預期的2.36美元。高通預計第四財季營收在97億至105億美元之間，分析師的預期為100.2億美元。其晶片業務部門的營收預計在84億至90億美元之間，分析師預期為84.9億美元。"
     }
   ]
 }
