@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-06 07:53:52",
-  "count": 17426,
+  "updated": "2026-08-06 07:57:42",
+  "count": 17423,
   "items": [
+    {
+      "id": "mkt:019fd459-f012-7aab-8f95-554d890bc49b",
+      "time": "2026-08-06 07:54:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance said some within the Iranian regime want the war to end, while hardliners want it to continue."
+    },
+    {
+      "id": "mkt:019fd459-edfc-7aab-8f95-4bd9b03c6ed2",
+      "time": "2026-08-06 07:54:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Israel is a great partner and, as with other allies, the U.S. sometimes holds different positions. He said his duty is to pursue U.S. interests and that Washington communicates with Israel to pursue shared objectives."
+    },
+    {
+      "id": "mkt:019fd459-e0dd-7aab-8f95-47fe064e8e17",
+      "time": "2026-08-06 07:54:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said the last meeting with Netanyahu produced no conflict and was a constructive, candid discussion."
+    },
+    {
+      "id": "5027612",
+      "time": "2026-08-06 07:54:06",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金：全球聚變產業共振，產業鏈機遇逐步顯現】中金公司研報指出，全球核聚變投資快速增長，中美多個聚變專案商業化持續推進。另外，核聚變領域企業融資活躍，產業鏈相關公司積極推進聚變業務。建議持續關注下游核聚變商業企業的專案推進與融資進展情況，以及專案招標帶來的產業鏈中上游的投資機會。"
+    },
+    {
+      "id": "5027611",
+      "time": "2026-08-06 07:53:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Meta的AI模型在測試期間入侵了另一家公司】Meta當地時間週三表示，其一款AI模型在網路安全測試期間入侵了另一家公司，此前其測試合作伙伴因操作失誤導致該模型意外獲得了網際網路訪問許可權。此前，Anthropic上週表示其部分模型曾入侵三家公司，OpenAI也披露其一個AI代理入侵了初創公司Hugging Face，此次事件使大型開發商的人工智慧代理在測試期間入侵其他公司系統的案例清單進一步延長。Meta表示，獨立測試公司Irregular的配置錯誤在評估過程中無意中允許其一個模型訪問網際網路，並補充稱正在調查該事件。Meta在宣告中表示，該模型“利用了第三方服務中的一個安全漏洞，其方式與此前報道的其他公司案例類似”。當天早些時候，媒體援引訊息人士的話報道稱，Meta的Muse Spark 1.1模型——該公司曾將其吹捧為最擅長現實世界程式設計和代理任務的模型——入侵了一家未具名公司並篡改了其內部系統。"
+    },
     {
       "id": "5027610",
       "time": "2026-08-06 07:52:08",
@@ -160351,77 +160397,6 @@
         "Importance 0"
       ],
       "text": "Silver Gains After Fed Rate Hold — Silver rose above $58 an ounce on Thursday, building on the previous session’s gains after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed conflict in the Middle East. The decision offered some support to bullion, as higher interest rates tend to weigh on demand for non-yielding assets. Still, three FOMC members dissented in favor of a rate hike, while Chairman Kevin Warsh said that if inflation remains elevated throughout the forecast period, higher interest rates could become an appropriate policy response. Elsewhere, both the BOE and the BOJ are widely expected to keep interest rates unchanged this week while maintaining a cautious approach to inflation. In the Middle East, President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, the two sides continued to struggle to reach a potential agreement as Tehran insisted on retaining control of the Strait of Hormuz."
-    },
-    {
-      "id": "5015425",
-      "time": "2026-07-30 07:57:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：因全行業零部件成本壓力上升，移動業務收益下滑。"
-    },
-    {
-      "id": "5015424",
-      "time": "2026-07-30 07:56:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達三週來透過霍爾木茲海峽運送首批液化天然氣。"
-    },
-    {
-      "id": "te:markets:570901",
-      "time": "2026-07-30 07:56:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Edges Higher After Fed Decision — Gold climbed toward $4,100 an ounce on Thursday, building on the previous session’s gains after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed conflict in the Middle East. The decision offered some support to bullion, as higher interest rates tend to weigh on demand for non-yielding assets. Still, three FOMC members dissented in favor of a rate hike, while Chairman Kevin Warsh said that if inflation remains elevated throughout the forecast period, higher interest rates could become an appropriate policy response. Elsewhere, both the BOE and the BOJ are widely expected to keep interest rates unchanged this week while maintaining a cautious approach to inflation. In the Middle East, President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, the two sides continued to struggle to reach a potential agreement as Tehran insisted on retaining control of the Strait of Hormuz."
-    },
-    {
-      "id": "5015423",
-      "time": "2026-07-30 07:55:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：系統LSI業務預計零部件成本上升和消費需求疲軟將持續。"
-    },
-    {
-      "id": "5015422",
-      "time": "2026-07-30 07:55:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：系統LSI部門已獲得下一代旗艦系統級晶片訂單。"
-    },
-    {
-      "id": "mkt:019fb04d-1e03-7aab-8efb-f94ea04abb31",
-      "time": "2026-07-30 07:54:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics said its memory business expects strong demand from continued AI infrastructure capex and broader autonomous AI applications."
-    },
-    {
-      "id": "5015421",
-      "time": "2026-07-30 07:54:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：受人工智慧基礎設施資本開支援續增加，以及智慧體人工智慧應用範圍不斷擴大推動，儲存業務預計以伺服器為核心的需求將保持強勁。"
-    },
-    {
-      "id": "5015420",
-      "time": "2026-07-30 07:53:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼：相信該提議將提升騰龍的企業價值並符合利益相關者的利益。"
     }
   ]
 }
