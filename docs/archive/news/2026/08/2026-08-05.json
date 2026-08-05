@@ -1,7 +1,169 @@
 {
   "date": "2026-08-05",
-  "count": 2752,
+  "count": 2770,
   "items": [
+    {
+      "id": "5027032",
+      "time": "2026-08-05 20:39:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍表示將打擊黎巴嫩南部城鎮內的真主黨目標。"
+    },
+    {
+      "id": "mkt:019fd1ee-f793-7aab-8f8c-266a30dcf8ff",
+      "time": "2026-08-05 20:38:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Israel orders residents of towns in southern Lebanon to evacuate."
+    },
+    {
+      "id": "5027031",
+      "time": "2026-08-05 20:38:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部將維持與上一季度相同的回購計劃速度。"
+    },
+    {
+      "id": "mkt:019fd1ee-cc40-7aab-8f8c-1d12cb29c83e",
+      "time": "2026-08-05 20:38:35",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury will maintain its buyback program at the same pace as last quarter."
+    },
+    {
+      "id": "5027030",
+      "time": "2026-08-05 20:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列要求黎巴嫩南部城鎮居民撤離。"
+    },
+    {
+      "id": "5027029",
+      "time": "2026-08-05 20:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所：七月日均總交易量同比增長25%，未平倉合約同比增長18%。"
+    },
+    {
+      "id": "5027028",
+      "time": "2026-08-05 20:38:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "迪士尼執行長在電話會議上表示：NBA總決賽與NHL賽事帶動ESPN實現2016年以來最強財季第三季度收視表現。"
+    },
+    {
+      "id": "mkt:019fd1ee-6ae6-7aab-8f8c-150d1725fa90",
+      "time": "2026-08-05 20:38:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury says its cash balance may peak at about $1.05 trillion in October."
+    },
+    {
+      "id": "5027027",
+      "time": "2026-08-05 20:38:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Meta全球事務總監：代表公司就錯誤限制莫迪總理帖子一事向印度資訊科技部長致歉。"
+    },
+    {
+      "id": "5027025",
+      "time": "2026-08-05 20:37:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "E.L.F. Beauty股價在盤前交易上漲2.5%，此前伯恩斯坦將其股票評級從“市場表現”上調至“表現優於大盤”。"
+    },
+    {
+      "id": "mkt:019fd1ed-a70c-7aab-8f8c-09cbdfcf574c",
+      "time": "2026-08-05 20:37:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "ICE.N",
+        "Impact bullish"
+      ],
+      "text": "Intercontinental Exchange: July average daily total volume rose 25% YoY; open interest rose 18% YoY."
+    },
+    {
+      "id": "5027024",
+      "time": "2026-08-05 20:37:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "菲利普斯66第二季度利潤超預期，盤前股價上漲1.1%。"
+    },
+    {
+      "id": "5027023",
+      "time": "2026-08-05 20:37:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部表示，現金餘額可能在10月份達到接近1.05萬億美元的峰值。"
+    },
+    {
+      "id": "mkt:019fd1ed-197d-7aab-8f8c-009bb9f38095",
+      "time": "2026-08-05 20:36:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "【US ADP below expectations; hiring momentum cools】US private payrolls rose 44,000 in July, below expectations and the smallest monthly gain since early this year, the ADP report showed. Hiring momentum slowed, but wage growth for employees switching jobs climbed to its strongest level in nearly a year. ADP said the labor market remains stable, supported by firm corporate and consumer demand; if Friday’s nonfarm payrolls confirm this pattern, Fed officials could continue to focus on elevated inf."
+    },
+    {
+      "id": "5027022",
+      "time": "2026-08-05 20:36:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "DDHQ預測：阿卜杜勒·埃爾‑賽義德贏得密歇根州聯邦參議員民主黨初選。"
+    },
+    {
+      "id": "mkt:019fd1ec-aa41-7aab-8f8b-fe72839c7628",
+      "time": "2026-08-05 20:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's foreign minister said Argentina will not take diplomatic action in response to Brazil's downgrade of diplomatic relations."
+    },
+    {
+      "id": "5027021",
+      "time": "2026-08-05 20:35:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮旗科技：取得不超過4500萬元回購專項貸款承諾函】8月5日，榮旗科技公告，近日取得招商銀行股份有限公司蘇州分行出具的《貸款承諾函》，貸款金額不超過4500萬元，貸款期限不超過36個月，貸款用途專項用於回購公司股票。公司於2026年7月20日召開董事會審議透過回購方案，回購資金總額不低於2500萬元且不超過5000萬元，回購價格不超過106元/股。截至2026年7月31日，公司已累計回購股份33萬股，成交金額1468.97萬元。"
+    },
     {
       "id": "mkt:019fd1ec-1b4f-7aab-8f8b-f5fbc0d5492d",
       "time": "2026-08-05 20:35:39",
@@ -9,6 +171,14 @@
         "MKT News"
       ],
       "text": "The U.S. Treasury plans to maintain the size of its quarterly TIPS auctions."
+    },
+    {
+      "id": "5027020",
+      "time": "2026-08-05 20:35:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify稱商戶第二季度交易規模達1160億美元。"
     },
     {
       "id": "5027019",
