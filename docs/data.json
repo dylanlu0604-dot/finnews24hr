@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-05 08:11:54",
-  "count": 17908,
+  "updated": "2026-08-05 08:15:58",
+  "count": 17902,
   "items": [
+    {
+      "id": "mkt:019fcf46-58a4-7aab-8f7a-6177cea0e45c",
+      "time": "2026-08-05 08:15:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed’s Schmid said tighter monetary policy is needed to restore inf to the 2% target."
+    },
+    {
+      "id": "mkt:019fcf44-eb85-7aab-8f7a-5ce6ccae92c7",
+      "time": "2026-08-05 08:13:48",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "BOJ minutes: one member said Japanese inf could feed through to wages."
+    },
+    {
+      "id": "mkt:019fcf43-735d-7aab-8f7a-5277f5edb86f",
+      "time": "2026-08-05 08:12:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Nasdaq100",
+        "Copper"
+      ],
+      "text": "【CSC Financial August sector report: pricing returns to fundamentals, seize growth-repair window】CSC Financial says July saw a broad A-share pullback and deep correction in growth: China's Shanghai Composite Index fell 6.4% and the ChiNext -23.0%, with small-cap growth notably pressured; coal, oil & petrochemicals and banks outperformed. With interim results disclosure and overseas tech shocks abating, market pricing is reverting to fundamentals, creating valuation-repair opportunities in tech growth. Cyclical beaters include tech manufacturing and industrial metals: memory prices continue to rise amid higher cloud-provider capex guidance; industrial-robot output was up 28% YoY and automation capex is being realized; industrial-metal inventories remain low alongside supply constraints, supporting prices. Recommended positioning: target rebounds in July-oversold but still uptrending tech-growth names, while keeping exposure to cyclicals and manufacturing names with clearer earnings improvement."
+    },
+    {
+      "id": "mkt:019fcf42-e860-7aab-8f7a-4f5af1efde7b",
+      "time": "2026-08-05 08:11:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: $4,000/oz area likely bottom for current gold cycle】CITIC Securities says gold remains in a bull market despite a sharp pullback this year and that the decline is likely a temporary correction. The firm cites accelerating US fiscal deficits, persistent central-bank gold buying and deglobalization-driven geopolitical fractures as structural supports. The current drawdown is approaching historical extremes and around $4,000/oz is a high-probability bottom region. Looking ahead, CITIC expects the Strait of Hormuz dynamic to shift from suppressing to supporting prices, the Fed’s monetary policy may be more optimistic than market pricing, and a surge in US defense spending will widen deficits — together likely returning gold to an upward channel within the year."
+    },
     {
       "id": "5025582",
       "time": "2026-08-05 08:11:08",
@@ -165579,100 +165627,6 @@
         "國際"
       ],
       "text": "【英矽智慧 ISM6331 獲美國 FDA 快速通道資格，用於晚期間皮瘤治療】英矽智慧早間公告，本公司董事會欣然宣佈，公司自主研發、由人工智慧技術賦能的潛在同類最優廣譜 TEAD 抑制劑 ISM6331，已獲美國食品藥品監督管理局（FDA）授予快速通道資格，適應症為成年不可切除惡性胸膜間皮瘤患者 —— 該類患者在經抗 PD-1 抗體單藥或聯合抗 CTLA-4 抗體、鉑類化療方案治療後病情仍出現進展。"
-    },
-    {
-      "id": "mkt:019fab3a-3b10-7aab-8ed7-71af69c59696",
-      "time": "2026-07-29 08:15:47",
-      "tags": [
-        "MKT News",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O) expects shareholder returns to rise significantly."
-    },
-    {
-      "id": "5013201",
-      "time": "2026-07-29 08:15:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海海峽及黃海執行軍事任務】據中國海事局網站訊息，大連海事局釋出航行警告，7月29日03時至15時，渤海海峽及黃海部分海域執行軍事任務，禁止駛入。"
-    },
-    {
-      "id": "5013200",
-      "time": "2026-07-29 08:14:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數上漲1%，至9038.50。"
-    },
-    {
-      "id": "5013199",
-      "time": "2026-07-29 08:14:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：預計股東回報將實現顯著增長。"
-    },
-    {
-      "id": "5013198",
-      "time": "2026-07-29 08:14:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：將能夠顯著提升股東回報。"
-    },
-    {
-      "id": "mkt:019fab37-ecc7-7aab-8ed7-699c2b8119dd",
-      "time": "2026-07-29 08:13:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities bullish on Tesla robots' mass production and applications】Chinese broker CITIC Securities says Tesla combines leading AI large‑model capabilities with scale manufacturing and ranks among leaders in the global embodied intelligence supply chain. The broker is bullish on the mass‑production and application prospects for Tesla robots. Optimus is set to enter a production phase and Cybercab testing is proceeding as planned. CITIC recommends monitoring core supply‑chain players."
-    },
-    {
-      "id": "5013197",
-      "time": "2026-07-29 08:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱伊朗革命衛隊試圖突襲】美軍中央司令部發布宣告稱，美國東部時間7月28日下午5點45分（伊朗時間7月29日凌晨1點15分，北京時間凌晨5點45分），伊朗伊斯蘭革命衛隊發射多枚彈道導彈，“試圖對部署在中東地區的美軍發動突然襲擊”。宣告稱，所有伊朗發射的導彈均已被成功攔截，未能擊中目標。駐中東美軍目前仍保持高度警戒，並維持高階別戰備狀態。 據美國“阿克西奧斯新聞網（Axios）”報道，伊朗伊斯蘭革命衛隊導彈的目標是約旦一處美軍基地。 對此目前伊朗方面暫無正式回應。"
-    },
-    {
-      "id": "mkt:019fab36-e742-7aab-8ed7-67545f37bbe6",
-      "time": "2026-07-29 08:12:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI extended gains to 3%, SK Hynix rose 4% and Samsung Electronics gained nearly 6%."
-    },
-    {
-      "id": "5013196",
-      "time": "2026-07-29 08:11:56",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲3%，至6205.66。SK海力士漲4%，三星電子漲近6%。"
-    },
-    {
-      "id": "mkt:019fab36-b3ae-7aab-8ed7-5b8c3f25c0a2",
-      "time": "2026-07-29 08:11:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank Indonesia said it will continue to strengthen measures to stabilize the rupiah to meet its inf target and support economic activity."
     }
   ]
 }
