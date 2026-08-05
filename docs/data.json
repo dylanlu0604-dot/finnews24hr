@@ -1,7 +1,92 @@
 {
-  "updated": "2026-08-06 04:01:23",
-  "count": 17581,
+  "updated": "2026-08-06 04:05:25",
+  "count": 17572,
   "items": [
+    {
+      "id": "5027474",
+      "time": "2026-08-06 04:04:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cirrus Logics Inc.第一財季淨銷售4.597億美元，分析師預期4.602億美元。公司預計第二財季淨收入5.10億-5.7億美元，分析師預期5.566億美元。"
+    },
+    {
+      "id": "5027473",
+      "time": "2026-08-06 04:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "SoundHound二季度營收6190萬美元，分析師預期5220萬美元。"
+    },
+    {
+      "id": "5027472",
+      "time": "2026-08-06 04:04:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Block預計三季度調整後運營利潤8.75億美元，分析師預期8.65億美元。"
+    },
+    {
+      "id": "5027471",
+      "time": "2026-08-06 04:03:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "西部資料2026財年Q4營收37.5億美元，市場預期為36.92億美元，上年同期為26.05億美元。"
+    },
+    {
+      "id": "mkt:019fd386-2188-7aab-8f93-8e89731ac2a3",
+      "time": "2026-08-06 04:03:30",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "Western Digital Corp (WDC.O) fiscal 2026 Q4 revenue $3.75 bln, consensus $3.692 bln, year-ago $2.605 bln."
+    },
+    {
+      "id": "5027470",
+      "time": "2026-08-06 04:02:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約時報（NYT）收跌13%，創2012年10月份以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:019fd384-0c14-7aab-8f93-8489c9d30aa7",
+      "time": "2026-08-06 04:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMD.O",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【U.S. close: major indexes mixed; SpaceX down 13.6%】U.S. stocks closed mixed on Wednesday. The Dow Jones Industrial Average rose 0.49%, the S&P 500 fell 0.17% and the Nasdaq Composite fell 0.80%. SpaceX dropped 13.6%. NVIDIA gained 3.4%, SK Hynix fell 2.0%, AMD slid 7.0% and SanDisk declined 5.0%. The Nasdaq Golden Dragon China Index fell 1.08%; XPeng and NIO were down about 2%."
+    },
+    {
+      "id": "5027469",
+      "time": "2026-08-06 04:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX收跌14%，市值蒸發2250億美元。"
+    },
+    {
+      "id": "5027468",
+      "time": "2026-08-06 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.49%，標普500指數跌0.17%，納指跌0.84%。Insulet Corporation跌20.20%，達維塔保健跌17.25%，湯姆遜-路透跌9.45%，CDW Corporation跌8.85%，Shopify漲16.98%，查爾斯河實驗室漲11.32%，國際香料香精漲8.81%。“七姐妹”方面：英偉達漲3.57%，蘋果漲0.57%，Meta Platforms漲0.23%，微軟跌1.07%，亞馬遜跌1.74%，特斯拉跌1.82%，谷歌跌4.03%。"
+    },
     {
       "id": "5027467",
       "time": "2026-08-06 04:00:28",
@@ -161861,192 +161946,6 @@
         "其他"
       ],
       "text": "微軟：第二季度資本支出358.0億美元，預估352.2億美元。"
-    },
-    {
-      "id": "mkt:019faf7b-2749-7aab-8ef8-9067afc64169",
-      "time": "2026-07-30 04:05:11",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks fell on Wednesday, July 29: Dow Jones Industrial Average closed down 1,152.46 points (-2.18%) at 51,594.86; S&P 500 closed down 112.40 points (-1.51%) at 7,316.38; Nasdaq Composite closed down 433.97 points (-1.74%) at 24,442.94."
-    },
-    {
-      "id": "mkt:019faf7b-25f0-7aab-8ef8-8e1c0d0afa43",
-      "time": "2026-07-30 04:05:11",
-      "tags": [
-        "MKT News",
-        "ARM.O",
-        "Impact bullish"
-      ],
-      "text": "Arm (ARM.O) reported fiscal 2027 Q1 revenue of $1.29 bln, up from $1.053 bln a year earlier and above the $1.262 bln consensus."
-    },
-    {
-      "id": "5015194",
-      "time": "2026-07-30 04:05:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數29日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.52%，在匯市尾市收於100.886。截至紐約匯市尾市，1歐元兌換1.1452美元，高於前一交易日的1.1387美元；1英鎊兌換1.3364美元，高於前一交易日的1.3289美元。1美元兌換163.32日元，低於前一交易日的163.86日元；1美元兌換0.8149瑞士法郎，低於前一交易日的0.8190瑞士法郎；1美元兌換1.4040加元，低於前一交易日的1.4105加元；1美元兌換9.6434瑞典克朗，低於前一交易日的9.6954瑞典克朗。"
-    },
-    {
-      "id": "mkt:019faf7a-c4e3-7aab-8ef8-8119c3a4487c",
-      "time": "2026-07-30 04:04:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) guided third-quarter revenue to $61–64 billion; analysts had expected $63.17 billion."
-    },
-    {
-      "id": "5015193",
-      "time": "2026-07-30 04:04:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "ARM：第二季度營收預期區間13.3億–14.3億美元，市場預期13.5億美元。"
-    },
-    {
-      "id": "5015192",
-      "time": "2026-07-30 04:04:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "高通股價盤後下跌5%，此前其盈利預期不及預期。"
-    },
-    {
-      "id": "5015191",
-      "time": "2026-07-30 04:04:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：Microsoft 365 Copilot付費席位已突破3000萬。"
-    },
-    {
-      "id": "mkt:019faf7a-1546-7aab-8ef8-7efff8a7ab7b",
-      "time": "2026-07-30 04:04:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) reported cloud revenue of $59.3 billion in the fiscal fourth quarter."
-    },
-    {
-      "id": "5015190",
-      "time": "2026-07-30 04:03:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價29日大幅上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲5.20美元，收於每桶84.46美元，漲幅為6.56%；9月交貨的倫敦布倫特原油期貨價格上漲6.65美元，收於每桶90.74美元，漲幅為7.91%。"
-    },
-    {
-      "id": "mkt:019faf79-7af1-7aab-8ef8-71ad042d845b",
-      "time": "2026-07-30 04:03:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft Corp (MSFT.O) reported fiscal fourth-quarter capital expenditures of $41.0 billion."
-    },
-    {
-      "id": "5015189",
-      "time": "2026-07-30 04:02:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Meta股價在公佈第二季度財報後下跌5.6%。"
-    },
-    {
-      "id": "5015188",
-      "time": "2026-07-30 04:02:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價盤後上漲3%。"
-    },
-    {
-      "id": "5015187",
-      "time": "2026-07-30 04:02:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟公司第二季度營收900.1億美元，預估877.2億美元。"
-    },
-    {
-      "id": "mkt:019faf78-65b1-7aab-8ef8-6f4fcb54d348",
-      "time": "2026-07-30 04:02:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Microsoft (MSFT.O) reported fiscal 2026 Q4 revenue $90.0 bln, vs $76.441 bln a year earlier; consensus $87.63 bln."
-    },
-    {
-      "id": "5015186",
-      "time": "2026-07-30 04:02:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數較6月高點下跌11%，進入回撥。"
-    },
-    {
-      "id": "5015185",
-      "time": "2026-07-30 04:01:56",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "Meta：第二季度營收608.0億美元，預估602.4億美元；第二季度經營利潤187.8億美元，同比-8.2%。"
-    },
-    {
-      "id": "mkt:019faf78-1956-7aab-8ef8-62a19d919296",
-      "time": "2026-07-30 04:01:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) reported Q2 2026 revenue of $60.801 billion, up from $47.516 billion a year earlier; consensus $60.164 billion."
-    },
-    {
-      "id": "mkt:019faf77-de6d-7aab-8ef8-5bdf56cbd820",
-      "time": "2026-07-30 04:01:36",
-      "tags": [
-        "MKT News",
-        "QCOM.O"
-      ],
-      "text": "Qualcomm (QCOM.O) expects Q4 revenue of $9.7 bln to $10.5 bln, versus $10.02 bln consensus."
     }
   ]
 }
