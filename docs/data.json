@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-05 21:05:03",
-  "count": 17918,
+  "updated": "2026-08-05 21:09:07",
+  "count": 17919,
   "items": [
+    {
+      "id": "mkt:019fd209-7b1f-7aab-8f8c-bc5a1dfcaa3f",
+      "time": "2026-08-05 21:07:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel Defense Forces says it has begun targeted strikes in southern Lebanon."
+    },
+    {
+      "id": "mkt:019fd209-1df7-7aab-8f8c-b24774195133",
+      "time": "2026-08-05 21:07:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM News reported Iran and Italy's foreign minister discussed negotiations over the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fd208-9303-7aab-8f8c-ab4f97953b39",
+      "time": "2026-08-05 21:06:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【U.S. Treasury holds debt-issuance guidance; reliance on T-bills deepens】The U.S. Treasury on Wednesday kept prior guidance on future debt issuance, saying it will not adjust the size of Treasury note and bond issuance through 2027 despite rising federal borrowing needs. Under current projections, officials expect issuance of coupon-bearing securities and floating-rate notes to remain at current levels at least over the next several quarters; similar language has appeared in each quarterly issuance statement since early 2024. The approach deepens reliance on short-term Treasury bills (maturities ≤1 year) — a funding mix traders dub T-bill and chill. T-bills now make up a record share of outstanding debt, raising the sensitivity of debt-servicing costs to market shocks, particularly as markets price a greater risk the Fed may need to tighten in coming months."
+    },
+    {
+      "id": "5027086",
+      "time": "2026-08-05 21:06:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息： 伊朗與義大利外長就霍爾木茲海峽相關會談展開磋商。"
+    },
+    {
+      "id": "5027085",
+      "time": "2026-08-05 21:06:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱已開始在黎巴嫩南部實施精準打擊。"
+    },
+    {
+      "id": "5027084",
+      "time": "2026-08-05 21:06:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼：我們針對迪士尼+的戰略是為使用者引入更多體育內容。"
+    },
+    {
+      "id": "5027083",
+      "time": "2026-08-05 21:05:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【西維斯美股盤前跌超10%】西維斯美股盤前跌超10%，現報93.5美元。"
+    },
+    {
+      "id": "5027082",
+      "time": "2026-08-05 21:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長城H10車型正式上市】8月5日，長城H10車型正式上市，建議零售價為20.98萬元起。新車上市前夕，針對網傳長城H10預售訂單超6萬臺，長城汽車董事長魏建軍發闢謠影片稱，“這個資料不太準確，還沒那麼多”。他強調，長城H10預售訂單量也是非常不錯的。"
+    },
+    {
+      "id": "5027081",
+      "time": "2026-08-05 21:04:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CVS股價在財報電話會議前盤前下跌10%。"
+    },
     {
       "id": "5027080",
       "time": "2026-08-05 21:04:19",
@@ -165782,78 +165868,6 @@
         "Europe & UK"
       ],
       "text": "Market sources: Ukrainian president has arrived in Lublin."
-    },
-    {
-      "id": "mkt:019fadfd-bb0e-7aab-8eeb-009c092fc307",
-      "time": "2026-07-29 21:08:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve says the FOMC meeting will resume as scheduled on Wednesday morning (9:00 p.m. Beijing time)."
-    },
-    {
-      "id": "mkt:019fadfd-9ed4-7aab-8eea-fdb9241d8e6d",
-      "time": "2026-07-29 21:08:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【JP Morgan expects US Treasury to avoid changing debt issuance plan ahead of midterms】JP Morgan expects the US Treasury, when publishing next week’s quarterly refunding plan, to avoid any adjustments that could signal larger future issuance and unsettle markets before the November midterm elections. JP Morgan sees a $3.7tn funding shortfall over the next four fiscal years and says officials, in principle, should drop the word \"at least\" from language that auction sizes are expected to remain stable for the next few quarters to align with prudent debt management; politically, however, the Treasury is likely to refrain from signaling increased long-term supply because that could push up long-term US Treasury yields, which are already near highs since Trump’s inauguration."
-    },
-    {
-      "id": "5014696",
-      "time": "2026-07-29 21:08:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息： 美聯儲表示，聯邦公開市場委員會（FOMC）會議已於週三上午 9 時按計劃重啟。"
-    },
-    {
-      "id": "5014695",
-      "time": "2026-07-29 21:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： Freehand 完成 7500 萬美元融資，用於擴充人工智慧團隊，為財富 500 強企業管控供應鏈開支。"
-    },
-    {
-      "id": "5014694",
-      "time": "2026-07-29 21:06:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【馬斯克反對AI公司破壞性掃描書籍】當地時間7月27日，美國企業家埃隆·馬斯克在社交平臺X發文表示，他已要求旗下的人工智慧（AI）公司SpaceXAI將處理過的珍稀書籍儲存在一個圖書館，並以不損壞書籍的方式掃描，而不是直接切斷書脊後掃描。 馬斯克的此番表態針對的是另一家美國AI公司Anthropic的“焚書”做法。據美國《華盛頓郵報》此前披露，Anthropic公司於2024年初啟動代號為“巴拿馬計劃”的專案。公司內部檔案寫道：“巴拿馬計劃是指我們破壞性掃描世界上所有書籍……我們不希望外界知道我們在做這件事。” （環球網）"
-    },
-    {
-      "id": "mkt:019fadfb-8675-7aab-8eea-f6dcbc6287a7",
-      "time": "2026-07-29 21:06:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Mehr news agency, Iran's foreign minister Araghchi briefed the Iranian government on talks with Oman and on contacts with Ukraine's foreign minister."
-    },
-    {
-      "id": "5014693",
-      "time": "2026-07-29 21:05:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【馬斯克稱Grok 4.6將於8月7日前後釋出，數週後推出Grok 4.7】當地時間7月28日，馬斯克表示，xAI下一代大模型Grok 4.6預計將於8月7日前後釋出，該模型引數規模將達到1.5萬億，並將在監督微調（SFT）和強化學習（RL）方面實現顯著改進。馬斯克稱，Grok 4.7將在Grok4.6釋出數週後推出，引數規模預計達到2.1萬億。相比Grok 4.6，Grok 4.7將在各方面進一步提升，但服務速度會略慢，同時具備更高的token使用效率。"
-    },
-    {
-      "id": "5014692",
-      "time": "2026-07-29 21:05:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團執行長：委內瑞拉胡寧5號油田的開發將非常迅速。"
     }
   ]
 }
