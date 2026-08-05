@@ -1,7 +1,31 @@
 {
   "date": "2026-08-05",
-  "count": 3024,
+  "count": 3096,
   "items": [
+    {
+      "id": "5027250",
+      "time": "2026-08-05 22:42:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "閃迪跌超4%，觸及日內低點。"
+    },
+    {
+      "id": "5027249",
+      "time": "2026-08-05 22:41:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來高管表示，7下旬Mounjaro處方量較一個月前翻倍。"
+    },
+    {
+      "id": "5027248",
+      "time": "2026-08-05 22:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普推進移民執法 美國驅逐令簽發量6月升至歷史新高】記者當地時間8月5日獲悉，隨著美國總統特朗普推進移民執法行動，美國聯邦移民法官簽發的驅逐令數量升至紀錄高位。（央視新聞）"
+    },
     {
       "id": "te:economy:573083",
       "time": "2026-08-05 22:38:44",
@@ -890,6 +914,15 @@
       "text": "紐約期金突破4290美元/盎司，日內漲3.31%。"
     },
     {
+      "id": "5027197",
+      "time": "2026-08-05 22:10:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破63美元/盎司，日內漲4.58%。"
+    },
+    {
       "id": "mkt:019fd242-f4a3-7aab-8f8e-61af22a6c741",
       "time": "2026-08-05 22:10:31",
       "tags": [
@@ -900,6 +933,22 @@
         "Impact bullish"
       ],
       "text": "DOE approved a $489.4 mln loan to Amanecer Puerto Rico, a subsidiary of Pattern Energy."
+    },
+    {
+      "id": "5027196",
+      "time": "2026-08-05 22:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "EOG 表示其阿聯酋早期測試井產量超出預期。"
+    },
+    {
+      "id": "5027195",
+      "time": "2026-08-05 22:09:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國統股份：部分銀行賬戶被凍結後完成解除凍結】國統股份公告稱，近日公司3個銀行賬戶被凍結，包括1個基本戶和2個一般戶，被申請凍結金額共2.3億元，實際凍結69.19萬元，凍結原因為金融借款合同糾紛。公司提出執行異議後，海南省第二中級人民法院同意解除凍結，撤銷本次執行，現已完成賬戶解除凍結。本次凍結未對公司業務、資金週轉及經營產生重大影響。"
     },
     {
       "id": "mkt:019fd241-52e8-7aab-8f8e-5e151918b91c",
@@ -915,12 +964,107 @@
       "text": "Precious metals futures: SHFE Au2610 extended gains, up 2.56% at 918.98 yuan/gram; SHFE Ag2610 up 4.05% at 15,313 yuan/kg."
     },
     {
+      "id": "5027194",
+      "time": "2026-08-05 22:08:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：加拿大 7 月份機動車銷量同比增長 0.6%。"
+    },
+    {
+      "id": "5027193",
+      "time": "2026-08-05 22:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "EOG：短期和中期內油價將維持在週期中期水平以上。"
+    },
+    {
+      "id": "5027192",
+      "time": "2026-08-05 22:08:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報15302.00元。"
+    },
+    {
+      "id": "5027191",
+      "time": "2026-08-05 22:07:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4220美元/盎司，日內漲3.50%。"
+    },
+    {
+      "id": "5027190",
+      "time": "2026-08-05 22:07:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【8月5日增減持彙總（表）】8月5日盤後，據不完全統計，蘭州銀行、大葉股份、中國天楹、新寶股份等4家A股上市公司披露擬增持情況，包括無錫銀行、中農立華、中研股份、利揚晶片在內的4家A股上市公司披露擬減持情況。"
+    },
+    {
       "id": "mkt:019fd240-4f8d-7aab-8f8e-50fda2163f2f",
       "time": "2026-08-05 22:07:37",
       "tags": [
         "MKT News"
       ],
       "text": "US to remove Fly Baghdad from sanctions list."
+    },
+    {
+      "id": "5027189",
+      "time": "2026-08-05 22:07:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4280美元/盎司，日內漲3.07%。"
+    },
+    {
+      "id": "5027188",
+      "time": "2026-08-05 22:07:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報7976.00元。"
+    },
+    {
+      "id": "5027187",
+      "time": "2026-08-05 22:07:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "EOG認為，由於中東衝突，石油需求結構性上升。"
+    },
+    {
+      "id": "5027186",
+      "time": "2026-08-05 22:07:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "油價下跌，布倫特原油價格跌破每桶79美元。"
+    },
+    {
+      "id": "5027185",
+      "time": "2026-08-05 22:06:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌2%，現報4577.00元。"
+    },
+    {
+      "id": "5027184",
+      "time": "2026-08-05 22:05:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國將巴格達航空公司從制裁名單中移除。"
     },
     {
       "id": "mkt:019fd23e-aeb3-7aab-8f8e-4908ae773566",
@@ -934,6 +1078,22 @@
         "Impact bullish"
       ],
       "text": "Spot silver's intraday gain widened to about 5%, trading at $62.51/oz; spot gold up roughly 3.5%."
+    },
+    {
+      "id": "5027183",
+      "time": "2026-08-05 22:05:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲3%，現報4277.34美元/盎司。"
+    },
+    {
+      "id": "5027182",
+      "time": "2026-08-05 22:05:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲5%，現報62.50美元/盎司。"
     },
     {
       "id": "mkt:019fd23d-db7f-7aab-8f8e-470f9a65d3fd",
@@ -973,6 +1133,23 @@
       "text": "US Services Growth Below Forecasts in July — The ISM Services PMI in the US edged up to 54.1 in July 2026 from 54 in June, slightly below forecasts of 54.5, while continuing to point to expansion in the services sector. Business activity (59.1 vs 55.4), new orders (57.2 vs 55.1) and inventories (51.4 vs 51.2) increased faster but employment returned to contraction territory after only one month in expansion (47.4 vs 51.2). In addition, price pressures increased (70.3 vs 67.7), with petroleum-related products and plastics again reported as commodities up in price, although the number of commodities reported as down in price increased to six, up from three the previous month. Backlog of orders (50.9 vs 54.9) and supplier deliveries (52.8 vs 54.4) slowed. “Tariff impacts and the Middle East conflict continued to be mentioned by respondents, but much less frequently than in prior reports. The World Cup was again cited in the comments regarding increased business activity and new orders”, according to Steve Miller, Chair of the ISM."
     },
     {
+      "id": "5027181",
+      "time": "2026-08-05 22:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯薩拉托夫煉油廠自8月2日遭受無人機襲擊後已停止運營。"
+    },
+    {
+      "id": "5027180",
+      "time": "2026-08-05 22:03:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌2%，現報2499.00元。"
+    },
+    {
       "id": "mkt:019fd23c-65aa-7aab-8f8e-373572fe66bc",
       "time": "2026-08-05 22:03:21",
       "tags": [
@@ -986,6 +1163,14 @@
       "text": "CGTN reported that Yemen's Houthi movement said it fired a ballistic missile at a Saudi oil tanker in the northern Red Sea. The group provided no evidence; Saudi Arabia had not immediately commented."
     },
     {
+      "id": "5027179",
+      "time": "2026-08-05 22:03:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：葉門胡塞武裝稱，在紅海北部向一艘沙特油輪發射了彈道導彈。該組織未提供證據，沙烏地阿拉伯也未立即發表評論。"
+    },
+    {
       "id": "te:economy:573073",
       "time": "2026-08-05 22:02:47",
       "tags": [
@@ -996,6 +1181,32 @@
         "Importance 1"
       ],
       "text": "US Services Activity Revised Higher — The S&P Global US Services PMI rose to 54.6 in July from 51.2 in the previous month, revised higher from the flash estimate of 53.6 to mark the sharpest expansion in activity in nine months. New business levels rose the most since November, with panelists noting a pickup in activity due to FIFA World Cup and Independence Day spending, and higher investments in sales, marketing, and product development. New work was awarded from domestic clients, as export orders fell the most since 2022 amid tariffs and the Middle East war. Consequently, firms increased their staff counts the most in eight months. Meanwhile, input cost inflation rose to a 14-month high due to tariffs and higher raw-material costs, driving companies to pass on price hikes to consumer charges when possible. Looking ahead, confidence improved on hopes of easing energy prices and business expansion plans."
+    },
+    {
+      "id": "5027178",
+      "time": "2026-08-05 22:02:45",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部：美國撤銷了涉伊朗相關制裁。"
+    },
+    {
+      "id": "5027177",
+      "time": "2026-08-05 22:02:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【秦曉倩獲批擔任重慶國際信託董事、總經理】8月5日，重慶金融監管局網站釋出批覆，核准秦曉倩重慶國際信託股份有限公司董事、總經理的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
+    },
+    {
+      "id": "5027176",
+      "time": "2026-08-05 22:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：森科能源稱對加拿大監管環境改善感到鼓舞；若市場條件允許，可靈活加速產量增長步伐。"
     },
     {
       "id": "mkt:019fd23a-b47c-7aab-8f8e-2a75fb072ad9",
@@ -1044,6 +1255,15 @@
       "text": "United States | ISM Services Inventory Index (Jul) | actual 51.4 | previous 51.2"
     },
     {
+      "id": "5027175",
+      "time": "2026-08-05 22:00:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雷諾茲美國公司遭懷登質詢，涉及電子煙業務及與特朗普方面關聯。"
+    },
+    {
       "id": "em:jjsj_mgsj:202608053832862940",
       "time": "2026-08-05 22:00:38",
       "tags": [
@@ -1051,6 +1271,15 @@
         "美國"
       ],
       "text": "美國供應管理學會7月份非製造業指數升至54.1，預期54.5。"
+    },
+    {
+      "id": "5027174",
+      "time": "2026-08-05 22:00:21",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月ISM非製造業PMI 54.1，預期54.5，前值54。美國7月ISM非製造業物價指數 70.3，前值67.7。美國7月ISM非製造業新訂單指數 57.2，前值55.1。美國7月ISM非製造業就業指數 47.4，前值51.2。"
     },
     {
       "id": "mkt:019fd239-940d-7aab-8f8e-0ec382e3c99c",
@@ -1081,6 +1310,80 @@
       "text": "US ISM non-manufacturing PMI (July) 54.1 vs. 54.5 expected; prior 54.0."
     },
     {
+      "id": "5027173",
+      "time": "2026-08-05 21:59:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：STL斬獲約2.1億美元國際光纖光纜供應合約。"
+    },
+    {
+      "id": "5027172",
+      "time": "2026-08-05 21:59:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔣寧獲批擔任馬上消費金融副董事長、總經理】8月5日，重慶金融監管局網站釋出批覆，核准蔣寧馬上消費金融股份有限公司董事、副董事長、總經理的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
+    },
+    {
+      "id": "5027170",
+      "time": "2026-08-05 21:57:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部將於週三釋出帶薪家事假新指引。"
+    },
+    {
+      "id": "5027169",
+      "time": "2026-08-05 21:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧地利國家氣象局稱，在與斯洛伐克接壤的巴特德意志-阿爾滕堡鎮，氣溫達到41.2攝氏度，創下奧地利最高氣溫新紀錄。"
+    },
+    {
+      "id": "5027168",
+      "time": "2026-08-05 21:56:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國教科文組織確認北京為2029年“世界建築之都”】聯合國教科文組織5日宣佈，正式確認北京為2029年聯合國教科文組織—國際建築師協會“世界建築之都”。（新華社）"
+    },
+    {
+      "id": "5027167",
+      "time": "2026-08-05 21:56:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲天然氣價格跌幅擴大至5.6%，至52.78歐元/兆瓦時。"
+    },
+    {
+      "id": "5027166",
+      "time": "2026-08-05 21:55:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國將對巴西進行牛肉貿易初步談判的審計。"
+    },
+    {
+      "id": "5027165",
+      "time": "2026-08-05 21:55:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "據預測，進步派人士阿卜杜勒·賽義德贏得密歇根州聯邦參議員民主黨提名，將與共和黨人邁克·羅傑斯競爭該空缺席位。"
+    },
+    {
+      "id": "5027164",
+      "time": "2026-08-05 21:55:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.02%，現報54635.699點；納指漲0.39%，現報26689.548點；標普500指數漲0.59%，現報7781.930點。"
+    },
+    {
       "id": "te:markets:573071",
       "time": "2026-08-05 21:55:04",
       "tags": [
@@ -1091,6 +1394,38 @@
         "Importance 1"
       ],
       "text": "General Electric Aerospace Stock Price Hits 25-year High — General Electric Aerospace shares increased to 383.36 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 0.84%, and in the last 12 months, it increased 40.33%."
+    },
+    {
+      "id": "5027163",
+      "time": "2026-08-05 21:54:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外交部：印度外交秘書將訪問斯里蘭卡。"
+    },
+    {
+      "id": "5027162",
+      "time": "2026-08-05 21:53:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國前總理哈西娜：希望12月回國。"
+    },
+    {
+      "id": "5027161",
+      "time": "2026-08-05 21:53:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國前總理哈西娜：時機成熟時將公佈回國日期。"
+    },
+    {
+      "id": "5027160",
+      "time": "2026-08-05 21:52:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "警方稱，倫敦市中心的持刀傷人事件“據信是一起與心理健康相關的事件”。"
     },
     {
       "id": "te:markets:573070",
@@ -1117,6 +1452,30 @@
       "text": "Iron Mountain earnings above expectations at 0.60 USD — Iron Mountain (IRM) released earnings per share at 0.60 USD, compared to market expectations of 0.53 USD."
     },
     {
+      "id": "5027159",
+      "time": "2026-08-05 21:50:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：澳大利亞的Alexa+早期體驗階段免費；該階段結束後，Prime會員可繼續免費使用，非Prime使用者每月需支付29.99澳元。"
+    },
+    {
+      "id": "5027158",
+      "time": "2026-08-05 21:50:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：Alexa+將於8月6日在澳大利亞推出，作為搶先體驗計劃的一部分。"
+    },
+    {
+      "id": "5027157",
+      "time": "2026-08-05 21:50:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國倫敦發生持刀傷人事件】總檯記者當地時間8月5日獲悉，英國倫敦市中心發生一起持刀傷人事件。目前具體傷亡情況暫不明。（央視新聞）"
+    },
+    {
       "id": "te:economy:573068",
       "time": "2026-08-05 21:50:06",
       "tags": [
@@ -1129,6 +1488,91 @@
       "text": "US Private Sector Growth Hits Nine-Month High in July — The S&P Global US Composite PMI rose to 54.5 in July 2026 from 51.9 in June, exceeding both the preliminary estimate of 53.6 and marking the strongest expansion in private sector activity since October 2025. The improvement was driven by faster growth in the services sector, while manufacturing output continued to expand at a solid pace. New business increased at the fastest rate in 19 months, business confidence climbed to its highest level since last November, and private sector employment returned to growth for the first time since April. On the price front, input cost inflation accelerated to its highest level since November 2022, pushing output price inflation to a one-year high."
     },
     {
+      "id": "5027156",
+      "time": "2026-08-05 21:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢元豐汽車零部件研發生產基地落戶武漢經開區】8月5日，武漢經開區與西上海旗下控股子公司武漢元豐汽車零部件有限公司簽約，西上海將建設武漢元豐汽車零部件研發生產基地。該專案總投資約1.56億元，將重點佈局電子駐車液壓盤式制動器（EPB）等線控制動產品，新增自動化工藝裝置、研發測試中心及相關配套設施。專案預計2027年投產，2030年達產。"
+    },
+    {
+      "id": "5027155",
+      "time": "2026-08-05 21:49:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX債券在高評級債券中跌幅居前】SpaceX債券週三早盤利差走闊。這家新近上市的航天科技公司將人工智慧相關資本支出增加一倍，蓋過了季度業績好於預期帶來的利好。該公司2046年到期、票息6.60%的債券利差擴大8個基點，至238個基點；其2033年到期、票息5.65%的債券利差擴大約9個基點，至186個基點。"
+    },
+    {
+      "id": "5027154",
+      "time": "2026-08-05 21:49:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "孟加拉國前總理哈西娜之子：印度正以國家元首規格對待哈西娜。"
+    },
+    {
+      "id": "5027153",
+      "time": "2026-08-05 21:49:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英國首相考慮調查愛潑斯坦在英活動】英國首相安迪·伯納姆正考慮是否就已故美國富商傑弗裡·愛潑斯坦在英國的活動啟動公開調查。英國司法部政務次官亞歷克斯·戴維斯-瓊斯在英國廣播公司一檔節目中說，政府正在研究啟動公開調查的可行性，伯納姆已同意會見愛潑斯坦案受害者。圍繞愛潑斯坦的醜聞持續衝擊英國政界和王室，英國國王查爾斯三世的弟弟安德魯以及英國前駐美國大使彼得·曼德爾森因相關案件一度被捕。（新華社）"
+    },
+    {
+      "id": "5027152",
+      "time": "2026-08-05 21:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統要求加速整合軍校】韓國總統李在明5日要求國防部加速推進軍事院校整合，以降低韓國軍隊干預政治的風險，防範再度發生軍事政變。李在明當天在總統府青瓦臺聽取國防部等部門工作彙報時說，韓國歷史上3次軍事政變均與陸軍和陸軍士官學校畢業生有關，但這所學校卻從未被問責，因而存在重蹈覆轍的風險。他認為，韓國各軍種不應分別設立軍校，而應將它們整合為一所軍校。（新華社）"
+    },
+    {
+      "id": "5027151",
+      "time": "2026-08-05 21:48:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "孟加拉國前總理哈西娜之子：我們目前與現任政府沒有任何溝通。"
+    },
+    {
+      "id": "5027150",
+      "time": "2026-08-05 21:48:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【綠葉製藥：創新藥LY03015在美國完成橋接臨床試驗】8月5日，綠葉製藥集團宣佈，其自主研發的新分子實體LY03015已在美國完成橋接臨床試驗，支援其即將在美國開展的療效臨床試驗。該試驗同時發現，高加索人群較中國人群具有更好的安全耐受性。"
+    },
+    {
+      "id": "5027149",
+      "time": "2026-08-05 21:47:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度儲備銀行：印度央行將於2026年8月6日在流動性調節工具（LAF）項下開展4天期可變利率逆回購（VRRR）拍賣。"
+    },
+    {
+      "id": "5027148",
+      "time": "2026-08-05 21:46:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【傳智教育：公司從事的AI人才職業培訓所處的細分市場目前尚處於發展初期階段】據傳智教育公告，公司股票連續10個交易日內日收盤價格漲幅偏離值累計達到+100%，根據《深圳證券交易所交易規則》的相關規定，屬於股票交易嚴重異常波動情形。近期，公司關注到近期有媒體將公司列為“AI應用”、“具身智慧”概念相關股，公司自成立以來所從事的主營業務均屬於傳統教育行業。公司從事的AI人才職業培訓業務除教學內容與AI相關外，教學形式、服務流程及商業邏輯與其他技能型培訓課程無實質差異，不涉及教育行業之外的業務。公司從事的AI人才職業培訓所處的細分市場目前尚處於發展初期階段，未來長期的發展前景和盈利能力存在不確定性。"
+    },
+    {
+      "id": "5027147",
+      "time": "2026-08-05 21:46:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：兩名地區官員表示，伊朗和阿曼談判代表已敲定霍爾木茲海峽協議草案，正等待伊朗最高領袖最終批准。"
+    },
+    {
       "id": "em:jjsj_mgsj:202608053832849182",
       "time": "2026-08-05 21:46:03",
       "tags": [
@@ -1136,6 +1580,63 @@
         "美國"
       ],
       "text": "【美國7月標普全球服務業PMI終值54.6 前值53.6】美國7月標普全球服務業PMI終值54.6，前值53.6；7月標普全球綜合PMI終值54.5，前值53.6。"
+    },
+    {
+      "id": "5027146",
+      "time": "2026-08-05 21:45:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國7月標普全球服務業PMI終值 54.6，前值53.6。美國7月標普全球綜合PMI終值 54.5，前值53.6。"
+    },
+    {
+      "id": "5027145",
+      "time": "2026-08-05 21:45:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "SHIPROCKET在印度的IPO將於8月12日啟動，募資額為161.7億印度盧比。"
+    },
+    {
+      "id": "5027144",
+      "time": "2026-08-05 21:44:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "原油漲幅收窄，布倫特原油價格跌破80美元/桶。"
+    },
+    {
+      "id": "5027143",
+      "time": "2026-08-05 21:44:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：海牙法院針對 Ceban 下達臨時禁令。"
+    },
+    {
+      "id": "5027142",
+      "time": "2026-08-05 21:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德贏得荷蘭法院禁令，保護患者免受未經批准的非法複方司美格魯肽鼻噴霧劑的侵害。"
+    },
+    {
+      "id": "5027141",
+      "time": "2026-08-05 21:41:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "北美科技軟體股指數ETF漲超1%，處於連續第九個交易日上漲之中，報103.50美元，逼近6月1日頂部108.03美元和2025年9月頂部117.97美元（歷史最高位）。"
+    },
+    {
+      "id": "5027140",
+      "time": "2026-08-05 21:40:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "SHAKE SHACK股價走勢逆轉，最新下跌約2%。"
     },
     {
       "id": "te:markets:573067",
@@ -1160,6 +1661,31 @@
         "Importance 1"
       ],
       "text": "The Dow Jones Index Opens 0.85% Higher — The Dow Jones Index is gaining 458 points or 0.85 percent on Wednesday. Leading the gains are Nvidia (4.21%), Walt Disney (2.84%) and Goldman Sachs (1.59%). Top losers are P&G (-1.23%), Apple (-0.60%) and Chevron (-0.54%)."
+    },
+    {
+      "id": "5027139",
+      "time": "2026-08-05 21:39:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5646.00元。"
+    },
+    {
+      "id": "5027138",
+      "time": "2026-08-05 21:39:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光：周亮辭任董秘，繼續擔任公司董事、副總經理】歐菲光8月5日公告，公司董事會近日收到董事會秘書周亮的書面辭職報告，周亮因工作調整辭去公司董事會秘書職務，辭職後繼續擔任公司董事、副總經理職務。為保證公司董事會工作的正常進行，經公司董事長蔡榮軍提名、董事會提名委員會資格審查透過，公司於2026年8月4日召開董事會，審議透過了聘任李茵為公司副總經理、董事會秘書的議案，任期自董事會審議透過之日起至公司第六屆董事會任期屆滿為止。"
+    },
+    {
+      "id": "5027137",
+      "time": "2026-08-05 21:39:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "CIRCLE INTERNET GROUP股價在第二季度業績公佈後下跌5.1%。"
     },
     {
       "id": "te:markets:573065",
@@ -1196,6 +1722,72 @@
       "text": "S&P 500 and Dow Rise to New Records — US stocks extended their recent rallies amid an improving macroeconomic backdrop and strong earnings reports. The S&P 500 rose 0.6% and the Dow added 400 points, both at record highs, and the Nasdaq gained 0.3%. Treasury yields held their pullback from the week as US officials continued to signal attempts to achieve a deal with Iran that restores trade through from the Middle East, limiting energy inflation. Credit sensitive sectors, including banks and AI hyperscalers, broadly maintained their gains from the week. Arista Networks soared 7% after posting a better revenue thane expected. Also, Eli Lilly jumped 9% to lead the Dow after beating revenue consensus and raising its guidance for this year. Meanwhile, SpaceX slumped 13%, erasing its surge from the last session as the forecast of surging AI spending offset its revenue beat. A large portion of its IPO shares are soon to be released by primary buyers. Also, AMD sank 5% despite doubling datacenter revenues."
     },
     {
+      "id": "5027136",
+      "time": "2026-08-05 21:36:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "禮來公司股價上漲9%，創4月30日以來最大盤中漲幅。"
+    },
+    {
+      "id": "5027135",
+      "time": "2026-08-05 21:36:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "萊迪思半導體公佈第二季業績與展望後，股價下跌2.6%。"
+    },
+    {
+      "id": "5027134",
+      "time": "2026-08-05 21:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽（預計智利今年 GDP 增速約 1%。"
+    },
+    {
+      "id": "5027133",
+      "time": "2026-08-05 21:35:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價上漲3%，報218.2美元/股，創6月4日以來新高，總市值報5.28萬億美元。"
+    },
+    {
+      "id": "5027132",
+      "time": "2026-08-05 21:35:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交個朋友控股：預計上半年淨利潤同比增加約52.6%至65.0%】8月5日，交個朋友控股在港交所公告，集團預期於截至2026年6月30日止六個月期間錄得淨利潤約人民幣8600萬元至人民幣9300萬元，同比增加約52.6%至65.0%。"
+    },
+    {
+      "id": "5027131",
+      "time": "2026-08-05 21:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "查爾斯河實驗室高管在電話會議上表示，第三季度調整後每股收益預期為2.90至3.00美元。"
+    },
+    {
+      "id": "5027130",
+      "time": "2026-08-05 21:34:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "GLOBALFOUNDRIES公佈第二季度業績後股價下跌3%。"
+    },
+    {
+      "id": "5027129",
+      "time": "2026-08-05 21:33:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "SpaceX披露計劃打造全面移動服務業務後，美國電信類股票下跌。"
+    },
+    {
       "id": "te:markets:573062",
       "time": "2026-08-05 21:32:52",
       "tags": [
@@ -1206,6 +1798,14 @@
         "Importance 1"
       ],
       "text": "Pfizer Stock Price Hits 7-week High — Pfizer shares increased to 25.67 USD, the highest since June 2026. Over the past 4 weeks, Pfizer gained 7.93%, and in the last 12 months, it increased 3.43%."
+    },
+    {
+      "id": "5027128",
+      "time": "2026-08-05 21:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【義大利與伊朗兩國外長通話 重點討論霍爾木茲海峽問題】當地時間8月5日，義大利副總理兼外長塔亞尼與伊朗外長阿拉格齊通電話，重點討論霍爾木茲海峽航行自由及地區危機。塔亞尼在社交媒體平臺表示，阿拉格齊介紹了伊朗正與阿曼就重新開放霍爾木茲海峽進行的談判。塔亞尼重申必須透過對話解決危機，包括與美國對話，以避免局勢升級。塔亞尼強調，為了地區穩定和全球經濟，必須保障海峽完全航行自由、不得設限或收費。（央視新聞）"
     },
     {
       "id": "5027127",
