@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-06 02:13:13",
-  "count": 17924,
+  "updated": "2026-08-06 02:17:12",
+  "count": 17925,
   "items": [
+    {
+      "id": "mkt:019fd323-6cba-7aab-8f92-9437bb6c0cbe",
+      "time": "2026-08-06 02:15:41",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Yemen's Houthi forces said they attacked a Saudi oil tanker in the Gulf of Aden; Saudi authorities have not yet confirmed the report."
+    },
+    {
+      "id": "5027419",
+      "time": "2026-08-06 02:15:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，其在亞丁灣使用彈道導彈襲擊沙特油輪“黛西號”，迫使該船返航。"
+    },
+    {
+      "id": "te:markets:573111",
+      "time": "2026-08-06 02:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Slumps by 5.86% — Top commodity losers are Germany Natural Gas THE (-5.86%), Natural Gas EU (-4.72%), Natural Gas UK (-4.19%) and Crude Oil WTI (-0.73%). Gains are led by Coking Coal (1.18%), Heating Oil (1.04%) and Brent Crude Oil (0.07%)."
+    },
+    {
+      "id": "5027418",
+      "time": "2026-08-06 02:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱其在亞丁灣襲擊了一艘沙特石油船隻，沙特方面尚未確認這一訊息。"
+    },
+    {
+      "id": "mkt:019fd321-f8a0-7aab-8f92-8acd8654772f",
+      "time": "2026-08-06 02:14:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says Strait of Hormuz won’t reopen until U.S. lifts maritime blockade, even if agreement with Oman reached】Iran said the Strait of Hormuz will only reopen to shipping after the U.S. ends its maritime blockade of Iranian ports, even if Tehran and Oman reach an agreement. The foreign ministry said Iran and Oman have agreed on shipping lanes through the strait and are finalizing arrangements for joint management. Iranian officials stressed reopening depends on the U.S. fulfilling its commitment to end the blockade, saying insecurity in the strait stems from U.S. maritime actions and other aggressive measures against Iran and its interests."
+    },
     {
       "id": "mkt:019fd320-785a-7aab-8f92-84bf6960fcd8",
       "time": "2026-08-06 02:12:28",
@@ -165589,51 +165637,6 @@
         "Emerging Markets"
       ],
       "text": "A Brazil finance ministry official said the government may revise its annual financing plan in September and could expand issuance of floating-rate bonds linked to the Selic rate."
-    },
-    {
-      "id": "mkt:019faf17-8427-7aab-8ef2-7f7604e5cc9a",
-      "time": "2026-07-30 02:16:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Dissenters' list unexpectedly published; September meeting seen as battleground】The Fed's policy statement unexpectedly named dissenters — Hammack, Kashkari and Logan — after earlier speculation the statement would omit individual names. June's statement similarly did not list voters because the vote was unanimous, though the use of “12-0” then already departed from prior practice. Market focus has shifted to the September meeting, where markets expect true rate-hike pressure to emerge; that meeting falls in the heart of midterm election season, making the political contest over further tightening a key watchpoint."
-    },
-    {
-      "id": "5014972",
-      "time": "2026-07-30 02:16:13",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲連續五次按兵不動，決議宣告稱：洛根等三人傾向於加息】美國聯邦公開市場委員會（FOMC）以9票贊成、3票反對的結果批准釋出以下宣告：\n為支援美聯儲的雙重使命，委員會決定將聯邦基金利率的目標區間維持在3.5%-3.75%不變。委員會將繼續執行在銀行體系中維持充裕準備金的政策。\n儘管中東衝突等因素導致不確定性處於高位，美國經濟活動仍以穩健的步伐擴張。生產率增長和資本投資表現強勁。新增就業與勞動力規模擴張保持同步，失業率變化不大。\n通脹水平相對於委員會設定的2%目標仍然偏高，部分原因在於供應衝擊推動了包括能源在內的某些行業價格上漲。委員會將致力於實現價格穩定。\n反對本次貨幣政策行動的委員包括：貝絲·M·哈馬克（Beth M. Hammack）、尼爾·卡什卡利（Neel Kashkari）和洛麗·K·洛根（Lorie K. Logan）。他們傾向於在本次會議上將聯邦基金利率的目標區間上調25個基點。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825509257",
-      "time": "2026-07-30 02:15:13",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "“美聯儲喉舌”NickTimiraos在社媒上表示，這是自2016年以來，美聯儲首次在同一次政策決議中出現三張“方向一致”的反對票。"
-    },
-    {
-      "id": "te:markets:570840",
-      "time": "2026-07-30 02:15:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Spikes by 7.58% — Top commodity gainers are Brent Crude Oil (7.58%), Crude Oil WTI (6.78%) and Natural Gas EU (5.10%)."
     }
   ]
 }
