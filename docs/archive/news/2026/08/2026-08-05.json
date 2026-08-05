@@ -1,7 +1,242 @@
 {
   "date": "2026-08-05",
-  "count": 759,
+  "count": 784,
   "items": [
+    {
+      "id": "5025646",
+      "time": "2026-08-05 09:02:09",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "菲律賓統計局公佈，7月通脹年率為+6.2%（調查預估：+6.3%）。"
+    },
+    {
+      "id": "mkt:019fcf70-95f6-7aab-8f7b-3e9e90bc93ce",
+      "time": "2026-08-05 09:01:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) opened up 1,389.53 points, or 3.2%, to 44,750.19 on Wednesday, Aug. 5."
+    },
+    {
+      "id": "5025645",
+      "time": "2026-08-05 09:01:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瓶片連續主力合約日內跌4%，現報7092.00元。"
+    },
+    {
+      "id": "mkt:019fcf70-2c3d-7aab-8f7b-36edc70d29e1",
+      "time": "2026-08-05 09:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.64% to 887.5 yuan/gram in early trade on Wednesday, Aug 5; silver T+D rose 2.56% to 14,528.0 yuan/kg."
+    },
+    {
+      "id": "5025644",
+      "time": "2026-08-05 09:00:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合指數回吐早盤部分漲幅；最新上漲3.6%，報6588.19點。"
+    },
+    {
+      "id": "mkt:019fcf6f-ebc4-7aab-8f7b-2c31f1a1eff9",
+      "time": "2026-08-05 09:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese HIAF produces, identifies rare isotope hafnium-153】Researchers at the Institute of Modern Physics, Chinese Academy of Sciences, with collaborators using the newly completed High Intensity Heavy Ion Accelerator Facility (HIAF) have produced and identified the rare nucleus hafnium-153. This is the facility’s first physics result during commissioning and demonstrates HIAF’s capability to explore unknown nuclides and extend the nuclide chart. The results were published in the journal Science Bulletin."
+    },
+    {
+      "id": "mkt:019fcf6f-af9c-7aab-8f7b-2197920321d8",
+      "time": "2026-08-05 09:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Early session in China futures saw mixed moves: ethylene glycol (EG), Europe-route container freight and Shanghai crude (SC) fell more than 5%; LPG, low-sulfur fuel oil (LU), fuel oil, bottle-grade PET and polypropylene dropped over 3%. On the upside, platinum and palladium rose over 4%, Shanghai silver gained more than 3%, Shanghai lead nearly 2%, urea and coking coal up over 1%, and Shanghai zinc, Shanghai gold, international copper and polysilicon up about 1%."
+    },
+    {
+      "id": "5025643",
+      "time": "2026-08-05 09:00:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲3.1%至44,722.27點。"
+    },
+    {
+      "id": "5025642",
+      "time": "2026-08-05 09:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報8089.00元。"
+    },
+    {
+      "id": "5025641",
+      "time": "2026-08-05 09:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成功產生並鑑別稀有原子核！我國大國重器取得新成果】近日，中國科學院近代物理研究所科研團隊與合作者依託最新建成的大科學裝置——強流重離子加速器裝置（HIAF），成功產生並鑑別了稀有原子核：鉿-153。這是該大裝置除錯期間取得的首個物理成果，驗證了我國新一代強流重離子研究裝置已具備探索未知核素、拓展核素版圖的能力。相關成果近日在學術期刊《科學通報》發表。"
+    },
+    {
+      "id": "5025640",
+      "time": "2026-08-05 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高1%報43,809.83。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608053831899529",
+      "time": "2026-08-05 09:00:12",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲施密德表示，貨幣政策的前瞻性指引具有價值，具體效果取決於實際情況。"
+    },
+    {
+      "id": "te:markets:572744",
+      "time": "2026-08-05 09:00:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Hold Firm at Five-Month Peak — Australian stocks advanced 44 points or 0.5% to 9,190 on Wednesday morning deals, rising for the fourth session and hovering at their highest in five months. A solid rise in U.S. equity futures lifted sentiment after an extended rally on Wall Street overnight that pushed the broad market index to a record high, helped by upbeat earnings and speculation of a U.S.–Iran deal to reopen the Strait of Hormuz. Locally, July services activity posted its strongest growth in half a year, with the index revised upward from its flash reading. Still, caution ahead of trade data from Australia and main trading partner China capped gains. Meanwhile, July industry conditions showed ongoing weakness in manufacturing and construction. Tech, non-energy minerals, healthcare, and process industries led advances, with early standouts from South32 (3.5%), Northern Star Resources (2.8%), Qantas Airways (2.6%), and Evolution Mining (2.0%). Conversely, most major banks were subdued, and energy names lagged."
+    },
+    {
+      "id": "5025639",
+      "time": "2026-08-05 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌6%，現報1684.50點。"
+    },
+    {
+      "id": "5025638",
+      "time": "2026-08-05 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2560.00元。"
+    },
+    {
+      "id": "5025637",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲4%，現報423.20元。"
+    },
+    {
+      "id": "5025636",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌2%，現報8097.00元。"
+    },
+    {
+      "id": "5025635",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲4%，現報317.90元。"
+    },
+    {
+      "id": "5025634",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌5%，現報4645.00元。"
+    },
+    {
+      "id": "5025633",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌4%，現報510.70元。"
+    },
+    {
+      "id": "5025632",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.02%。"
+    },
+    {
+      "id": "5025631",
+      "time": "2026-08-05 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】集運指數歐線期貨連續跌6.21%，乙二醇連續跌5.76%，上海原油連續跌5.03%，鉑連續漲4.88%，鈀連續漲4.67%。"
+    },
+    {
+      "id": "5025630",
+      "time": "2026-08-05 08:59:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：需要解決美聯儲資產負債表中的久期問題。美聯儲自身正在影響收益率曲線的長端。"
+    },
+    {
+      "id": "te:economy:572742",
+      "time": "2026-08-05 08:59:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Singapore Private Sector Growth Hits 5-Month High — Singapore’s S&P Global PMI climbed to 59.2 in July 2026 from 57.4 in June, marking the strongest expansion since February as output and new orders continued to grow at elevated rates. In response, firms increased workforce levels for a second consecutive month, while purchasing activity rose at the second-fastest pace on record, behind only June's peak. Hiring was partly due to persistent capacity pressures, as reflected in the continued accumulation of backlogs. Meanwhile, average supplier lead times lengthened for the first time since February due to customs-related issues and disruptions to shipping routes and port operations. On the pricing front, input costs rose sharply, driven mainly by higher purchasing and labor costs. However, output price inflation eased to its lowest level since January. Looking ahead, Singaporean firms remained optimistic about their output over the coming year."
+    },
+    {
+      "id": "5025629",
+      "time": "2026-08-05 08:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽能否兩日內重開 美伊說法不一】當地時間4日，伊朗與阿曼繼續就劃定霍爾木茲海峽新航線進行談判。伊朗方面稱，談判取得積極進展，雙方談判全部結束後將向外界公佈最終結果。與此同時，伊朗否認與美方舉行任何談判，並強調霍爾木茲海峽將繼續關閉。同日，美國國務卿魯比奧表示，美方正參與阿曼和伊朗之間的相關對話和談判，並稱與伊朗就重新開放霍爾木茲海峽進行的談判“已經取得進展”，但協議尚未最終敲定。美財長貝森特表示，美伊可能在當地時間4日或5日達成協議，重新開放霍爾木茲海峽。（央視）"
+    },
     {
       "id": "te:economy:572740",
       "time": "2026-08-05 08:58:48",
