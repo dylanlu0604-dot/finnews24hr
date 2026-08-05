@@ -1,7 +1,52 @@
 {
   "date": "2026-08-06",
-  "count": 118,
+  "count": 123,
   "items": [
+    {
+      "id": "5027396",
+      "time": "2026-08-06 01:12:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長稱近日未與美國舉行任何會談。"
+    },
+    {
+      "id": "mkt:019fd2e9-a5c9-7aab-8f92-008f79e2b785",
+      "time": "2026-08-06 01:12:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's deputy foreign minister said there have been no recent negotiations with the United States."
+    },
+    {
+      "id": "5027395",
+      "time": "2026-08-06 01:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們目前與阿曼所做的工作，涉及有關霍爾木茲海峽應遵循的路徑。"
+    },
+    {
+      "id": "mkt:019fd2e7-a8cd-7aab-8f91-fa7e45f49de1",
+      "time": "2026-08-06 01:10:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said the US signaled in communications that it is ready to return to its commitments."
+    },
+    {
+      "id": "5027394",
+      "time": "2026-08-06 01:09:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗：美國在（最新）訊息中表示願意履行自身承諾。"
+    },
     {
       "id": "5027393",
       "time": "2026-08-06 01:08:26",

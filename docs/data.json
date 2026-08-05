@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-06 01:09:26",
-  "count": 18001,
+  "updated": "2026-08-06 01:13:16",
+  "count": 17998,
   "items": [
+    {
+      "id": "5027396",
+      "time": "2026-08-06 01:12:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長稱近日未與美國舉行任何會談。"
+    },
+    {
+      "id": "mkt:019fd2e9-a5c9-7aab-8f92-008f79e2b785",
+      "time": "2026-08-06 01:12:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's deputy foreign minister said there have been no recent negotiations with the United States."
+    },
+    {
+      "id": "5027395",
+      "time": "2026-08-06 01:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：我們目前與阿曼所做的工作，涉及有關霍爾木茲海峽應遵循的路徑。"
+    },
+    {
+      "id": "mkt:019fd2e7-a8cd-7aab-8f91-fa7e45f49de1",
+      "time": "2026-08-06 01:10:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said the US signaled in communications that it is ready to return to its commitments."
+    },
+    {
+      "id": "5027394",
+      "time": "2026-08-06 01:09:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗：美國在（最新）訊息中表示願意履行自身承諾。"
+    },
     {
       "id": "5027393",
       "time": "2026-08-06 01:08:26",
@@ -166439,98 +166484,6 @@
         "Impact bullish"
       ],
       "text": "Spot gold rose about $20 to above $4,050/oz, up 0.53% intraday."
-    },
-    {
-      "id": "mkt:019faedc-85ac-7aab-8ef0-afd390df02d5",
-      "time": "2026-07-30 01:11:55",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "White House National Economic Council director Hassett said he expects downward pressure on prices."
-    },
-    {
-      "id": "mkt:019faedc-373b-7aab-8ef0-a6e76f50ed94",
-      "time": "2026-07-30 01:11:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two vessels catch fire at Egypt's Damietta port】Egypt's Ministry of Petroleum and Mineral Resources said on the 29th that an LNG carrier and a storage vessel caught fire at Damietta port on the Mediterranean coast."
-    },
-    {
-      "id": "mkt:019faedb-6cf8-7aab-8ef0-9c154266ee11",
-      "time": "2026-07-30 01:10:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "Market Regions",
-        "Wall Street (US)",
-        "WTI",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Trump hardline on Iran sends oil higher; markets await Fed signal】U.S. stocks opened lower Wednesday, increasing pressure ahead of the Federal Reserve's afternoon rate decision, after oil jumped when Trump told Fox News the U.S. would strike Iran strongly in response to recent attacks in the Middle East. The 10-year Treasury yield rose to 4.62%, near this year's high; the 2-year climbed about 3bp to 4.30%, also close to its peak. Traders broadly want the Fed to signal the Iran-driven oil shock is likely temporary and that it will not rush to hike again this year; some say one additional hike would be reasonable to demonstrate the Fed's anti-inflation resolve and help calm the long end of the curve."
-    },
-    {
-      "id": "5014923",
-      "time": "2026-07-30 01:10:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及達米埃塔港兩艘船隻起火】埃及石油和礦產資源部29日發表宣告說，一艘液化天然氣船和一艘儲存船舶在地中海沿岸的埃及達米埃塔港起火。（新華社）"
-    },
-    {
-      "id": "mkt:019faeda-d275-7aab-8ef0-93a0779b0c3d",
-      "time": "2026-07-30 01:10:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Economist says Fed statement could contain hawkish cues】Economist Claudia Sahm said the FOMC post-meeting statement is likely to signal imminent rate hikes unless inf makes more substantive progress. After the June meeting the FOMC issued a markedly shorter statement that dropped boilerplate and contained only the line \"C.BANK will achieve price stability.\" Sahm expects the next statement to say that, despite recent improvement, inf remains above C.BANK's 2% target—partly due to supply shocks from the Middle East conflict and tariffs and strong AI-driven demand—and that if the labor market stays firm while inf remains elevated, appropriate tightening may be required soon to restore price stability. She also expects employment to be described as \"broadly consistent with maximum employment.\""
-    },
-    {
-      "id": "5014922",
-      "time": "2026-07-30 01:09:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國白宮國家經濟委員會主任哈塞特：美國債務不存在被下調評級的理由，長期財政預算正向好發展。"
-    },
-    {
-      "id": "mkt:019faeda-871a-7aab-8ef0-88b2ddb31b61",
-      "time": "2026-07-30 01:09:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "White House National Economic Council Director Hassett said there is no reason to downgrade the U.S. debt rating."
-    },
-    {
-      "id": "mkt:019faeda-5d4c-7aab-8ef0-85c396124eff",
-      "time": "2026-07-30 01:09:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI says it plans to start this summer with 10,000 researchers."
     }
   ]
 }
