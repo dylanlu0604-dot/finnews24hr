@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-06 02:52:42",
-  "count": 17789,
+  "updated": "2026-08-06 02:56:37",
+  "count": 17777,
   "items": [
+    {
+      "id": "5027438",
+      "time": "2026-08-06 02:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：國家安全委員會會議遭轟炸後，我身負傷勢，我們仍前去會見最高領袖。在那次會面中，他向我們作出指示，併為我們祈福。"
+    },
+    {
+      "id": "mkt:019fd347-3e61-7aab-8f93-1b4ab3429b4f",
+      "time": "2026-08-06 02:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Blue Origin CEO said the company determined a valve on its BE-4 engine was the cause of the New Glenn explosion in May."
+    },
+    {
+      "id": "mkt:019fd347-2372-7aab-8f93-15f23319e60c",
+      "time": "2026-08-06 02:54:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian president dismissed controversy over the supreme leader's remarks on a ceasefire memorandum, saying they issued a message saying \"in principle, I do not approve,\" but ultimately allowed the process to continue and that actors seeking to create division, exploit differences and advance factional aims have exaggerated the issue."
+    },
+    {
+      "id": "5027437",
+      "time": "2026-08-06 02:54:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "藍色起源執行長戴夫·林普：五月新格倫火箭爆炸事故禍因為BE-4火箭發動機閥門故障。"
+    },
+    {
+      "id": "mkt:019fd344-f264-7aab-8f93-0b4d263936d0",
+      "time": "2026-08-06 02:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi rebels again claim missile attack on Saudi tanker】Yemeni Houthi forces said on the evening of Aug. 5 they fired missiles at a Saudi tanker in the Gulf of Aden, saying \"the missile hit the target, forcing the tanker to turn back.\" The group said the attack is part of enforcement of a \"maritime shipping ban\" and of \"a blockade in response to blockade,\" and that it will \"continue monitoring all Saudi tankers' movements\" and will not allow Saudi tankers to transit the Red Sea north-south route until the blockade is lifted. Earlier the same day the Houthis said they launched a missile strike against a Saudi tanker near the Red Sea port city of Yanbu; Saudi authorities have not confirmed either incident. A Houthi spokesman did not specify the timing of the attacks."
+    },
     {
       "id": "mkt:019fd342-aac1-7aab-8f93-06edcddfeb69",
       "time": "2026-08-06 02:49:49",
@@ -163986,192 +164026,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Federal Reserve chair Kevin Warsh said no part of the Fed's dual mandate has been neglected."
-    },
-    {
-      "id": "5015056",
-      "time": "2026-07-30 02:56:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：高通脹期會對勞動力市場造成損害。"
-    },
-    {
-      "id": "5015055",
-      "time": "2026-07-30 02:56:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：現階段就業目標推進情況尚可。"
-    },
-    {
-      "id": "mkt:019faf3c-0256-7aab-8ef5-2e923777e3a6",
-      "time": "2026-07-30 02:56:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said high inflation periods harm the labor market."
-    },
-    {
-      "id": "5015054",
-      "time": "2026-07-30 02:56:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 落實雙重政策目標，二者缺一不可。"
-    },
-    {
-      "id": "mkt:019faf3b-555a-7aab-8ef5-2139553f23f1",
-      "time": "2026-07-30 02:55:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he does not believe our missions conflict."
-    },
-    {
-      "id": "5015053",
-      "time": "2026-07-30 02:55:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我認為政策目標並非二者擇一的選擇題。"
-    },
-    {
-      "id": "mkt:019faf3b-2591-7aab-8ef5-1d9fb703337d",
-      "time": "2026-07-30 02:55:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said this may or may not inform his remarks at Jackson Hole."
-    },
-    {
-      "id": "5015052",
-      "time": "2026-07-30 02:55:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我認為兩大政策目標之間並不存在衝突。"
-    },
-    {
-      "id": "mkt:019faf3a-b176-7aab-8ef5-12aed88d1883",
-      "time": "2026-07-30 02:54:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh will conduct a review with a working group ahead of the Jackson Hole symposium."
-    },
-    {
-      "id": "te:economy:570850",
-      "time": "2026-07-30 02:54:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Non Farm Payrolls",
-        "Importance 1"
-      ],
-      "text": "Brazil Job Creation Tops Forecasts in June — Brazil created 145,161 formal jobs in June 2026, above market expectations of 115,000, up from 72,960 in May. The result reflected 2.22 million hires and 2.07 million layoffs during the month. All five major sectors posted net job gains, led by services (+74,514), followed by agriculture (+22,898), commerce (+19,177), industry (+14,438), and construction (+14,136). Regionally, 25 of Brazil's 27 states recorded positive job creation, led by São Paulo (+34,981), Minas Gerais (+20,805), and Rio de Janeiro (+16,856). Espírito Santo (-2,259) and Tocantins (-115) were the only states to post net job losses. In the first half of 2026, Brazil generated 921,645 formal jobs, lifting the total stock of formal employment to 48.03 million."
-    },
-    {
-      "id": "mkt:019faf3a-03d8-7aab-8ef5-099ea4a11443",
-      "time": "2026-07-30 02:54:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed's decision today is the beginning of the story, not the end."
-    },
-    {
-      "id": "5015051",
-      "time": "2026-07-30 02:53:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 傑克遜霍爾會議前，將與各專項工作組溝通磋商。"
-    },
-    {
-      "id": "mkt:019faf39-d82e-7aab-8ef5-058641d5c9a9",
-      "time": "2026-07-30 02:53:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "KEVIN WARSH, Federal Reserve chairman, said he hopes to frame major issues at the Jackson Hole meeting."
-    },
-    {
-      "id": "mkt:019faf39-8c46-7aab-8ef4-f92f383b3fe1",
-      "time": "2026-07-30 02:53:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair KEVIN WARSH said he has not yet begun considering the content of his Jackson Hole speech in August."
-    },
-    {
-      "id": "5015050",
-      "time": "2026-07-30 02:53:20",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：希望在傑克遜霍爾年會上丟擲核心議題。"
-    },
-    {
-      "id": "mkt:019faf39-0e86-7aab-8ef4-f6a71d7c99d7",
-      "time": "2026-07-30 02:52:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said describing today’s decision as a pause would prompt markets to take the opposite view, and he would not characterize today’s action as a pause."
-    },
-    {
-      "id": "5015049",
-      "time": "2026-07-30 02:52:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：市場價格並沒有在美聯儲兩次貨幣政策會議之間暫停。美聯儲今天的決策是故事的開始，而不是結束。"
     }
   ]
 }

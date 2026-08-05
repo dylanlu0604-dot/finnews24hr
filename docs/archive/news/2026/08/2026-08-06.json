@@ -1,7 +1,47 @@
 {
   "date": "2026-08-06",
-  "count": 201,
+  "count": 206,
   "items": [
+    {
+      "id": "5027438",
+      "time": "2026-08-06 02:55:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：國家安全委員會會議遭轟炸後，我身負傷勢，我們仍前去會見最高領袖。在那次會面中，他向我們作出指示，併為我們祈福。"
+    },
+    {
+      "id": "mkt:019fd347-3e61-7aab-8f93-1b4ab3429b4f",
+      "time": "2026-08-06 02:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Blue Origin CEO said the company determined a valve on its BE-4 engine was the cause of the New Glenn explosion in May."
+    },
+    {
+      "id": "mkt:019fd347-2372-7aab-8f93-15f23319e60c",
+      "time": "2026-08-06 02:54:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian president dismissed controversy over the supreme leader's remarks on a ceasefire memorandum, saying they issued a message saying \"in principle, I do not approve,\" but ultimately allowed the process to continue and that actors seeking to create division, exploit differences and advance factional aims have exaggerated the issue."
+    },
+    {
+      "id": "5027437",
+      "time": "2026-08-06 02:54:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "藍色起源執行長戴夫·林普：五月新格倫火箭爆炸事故禍因為BE-4火箭發動機閥門故障。"
+    },
+    {
+      "id": "mkt:019fd344-f264-7aab-8f93-0b4d263936d0",
+      "time": "2026-08-06 02:52:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi rebels again claim missile attack on Saudi tanker】Yemeni Houthi forces said on the evening of Aug. 5 they fired missiles at a Saudi tanker in the Gulf of Aden, saying \"the missile hit the target, forcing the tanker to turn back.\" The group said the attack is part of enforcement of a \"maritime shipping ban\" and of \"a blockade in response to blockade,\" and that it will \"continue monitoring all Saudi tankers' movements\" and will not allow Saudi tankers to transit the Red Sea north-south route until the blockade is lifted. Earlier the same day the Houthis said they launched a missile strike against a Saudi tanker near the Red Sea port city of Yanbu; Saudi authorities have not confirmed either incident. A Houthi spokesman did not specify the timing of the attacks."
+    },
     {
       "id": "mkt:019fd342-aac1-7aab-8f93-06edcddfeb69",
       "time": "2026-08-06 02:49:49",
