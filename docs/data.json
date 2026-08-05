@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-05 23:43:16",
-  "count": 17969,
+  "updated": "2026-08-05 23:47:20",
+  "count": 17964,
   "items": [
+    {
+      "id": "5027324",
+      "time": "2026-08-05 23:45:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖圖恩提交結束辯論的終止辯論動議，終止針對布蘭奇司法部長提名的參議院辯論。程式性表決將於週五進行。如若票數達標，按照流程，確認投票將在週六舉行。"
+    },
+    {
+      "id": "5027323",
+      "time": "2026-08-05 23:43:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國家安全與國防委員會已批准基輔韌性計劃。"
+    },
     {
       "id": "5027322",
       "time": "2026-08-05 23:42:36",
@@ -166182,69 +166198,6 @@
         "國際"
       ],
       "text": "據英奇角航運服務公司（Inchcape Shipping Services）報告，埃及達米埃塔港（Damietta Port）的液化天然氣（LNG）碼頭在卸貨期間發生爆炸。目前，發生爆炸的船隻已被轉移至遠離港口的區域，相關部門計劃夜間在其他碼頭和終端恢復港口運營。"
-    },
-    {
-      "id": "5014880",
-      "time": "2026-07-29 23:47:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿爾及利亞國民議會選出新議長】阿爾及利亞新一屆國民議會28日舉行首次會議，選舉哈莉達·布費德什為新一任議長。布費德什成為該國歷史上首位女議長。布費德什來自執政黨民族解放陣線，她在本次選舉中獲得302票。（新華社）"
-    },
-    {
-      "id": "5014879",
-      "time": "2026-07-29 23:47:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客：截至 2026 年 6 月末，商用飛機訂單儲備量達 9222 架。預計本財年交付約870架飛機，市場預測為871架。"
-    },
-    {
-      "id": "mkt:019fae8e-a03f-7aab-8eef-5152d42c0b9d",
-      "time": "2026-07-29 23:46:50",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bearish"
-      ],
-      "text": "Airbus still expects to deliver about 870 aircraft in the current fiscal year; market consensus is 871."
-    },
-    {
-      "id": "mkt:019fae8e-9549-7aab-8eef-4b8f9784cf39",
-      "time": "2026-07-29 23:46:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Israeli official: Iran still enriching uranium at \"Haoshan\"】An Israeli senior official told the Jerusalem Post that Iran continues to operate centrifuges and conduct uranium enrichment at \"Haoshan.\" The official said Israeli strikes on Iranian nuclear scientists, enrichment facilities, centrifuges and related infrastructure inflicted major but not permanent setbacks on Iran's nuclear program. He warned Israel would not hesitate to act again if Iran attempts to rebuild its nuclear or ballistic-missile capabilities."
-    },
-    {
-      "id": "mkt:019fae8e-7259-7aab-8eef-47b380c0d205",
-      "time": "2026-07-29 23:46:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Airbus reported adjusted EBIT of €2.43bln in Q2, versus an expected €2.18bln."
-    },
-    {
-      "id": "mkt:019fae8e-0d85-7aab-8eef-3fc2490c4a82",
-      "time": "2026-07-29 23:46:12",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "Airbus Q2 revenue €20.53bln, above consensus €20.31bln."
-    },
-    {
-      "id": "5014878",
-      "time": "2026-07-29 23:46:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客二季度調整後息稅前利潤 24.3 億歐元，市場預期 21.8 億歐元。"
     }
   ]
 }
