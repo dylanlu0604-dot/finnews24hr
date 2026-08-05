@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-06 01:13:16",
-  "count": 17998,
+  "updated": "2026-08-06 01:17:05",
+  "count": 17997,
   "items": [
+    {
+      "id": "mkt:019fd2ed-5c45-7aab-8f92-191dec40684a",
+      "time": "2026-08-06 01:16:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Federal Reserve accepted $1.65bn from two counterparties in fixed-rate reverse-repo operations."
+    },
+    {
+      "id": "5027397",
+      "time": "2026-08-06 01:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列的生存不容談判，無論（美伊）是否達成協議。"
+    },
+    {
+      "id": "mkt:019fd2eb-8991-7aab-8f92-11461b1fb6d6",
+      "time": "2026-08-06 01:14:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said Iran and Oman have discussed creating a joint navigation management center in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fd2ea-9f59-7aab-8f92-0aaff9c080c7",
+      "time": "2026-08-06 01:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ revised the magnitude of an earthquake on Halmahera Island, Indonesia, down from 5.8 to 5.3."
+    },
     {
       "id": "5027396",
       "time": "2026-08-06 01:12:38",
@@ -166433,57 +166465,6 @@
         "國際"
       ],
       "text": "週三（7月29日），美聯儲隔夜逆回購協議（RRP）使用規模為25.76億美元（交易對5家），上個交易日報11.26億美元。"
-    },
-    {
-      "id": "mkt:019faee0-f1fc-7aab-8ef0-c9447662e774",
-      "time": "2026-07-30 01:16:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine President Zelenskiy said he discussed defense cooperation with Polish Prime Minister Tusk."
-    },
-    {
-      "id": "mkt:019faee0-9c62-7aab-8ef0-c6733d061084",
-      "time": "2026-07-30 01:16:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $2.576 billion across five counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "mkt:019faedf-c1c8-7aab-8ef0-bf9c3e70d8f7",
-      "time": "2026-07-30 01:15:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel's chief of staff said the military will not withdraw from areas under Israeli control in Lebanon until long-term security is ensured."
-    },
-    {
-      "id": "5014924",
-      "time": "2026-07-30 01:14:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮國家經濟委員會主任哈塞特：我們預計價格將面臨下行壓力。"
-    },
-    {
-      "id": "mkt:019faede-851f-7aab-8ef0-b392674424b6",
-      "time": "2026-07-30 01:14:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose about $20 to above $4,050/oz, up 0.53% intraday."
     }
   ]
 }

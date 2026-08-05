@@ -1,7 +1,39 @@
 {
   "date": "2026-08-06",
-  "count": 123,
+  "count": 127,
   "items": [
+    {
+      "id": "mkt:019fd2ed-5c45-7aab-8f92-191dec40684a",
+      "time": "2026-08-06 01:16:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Federal Reserve accepted $1.65bn from two counterparties in fixed-rate reverse-repo operations."
+    },
+    {
+      "id": "5027397",
+      "time": "2026-08-06 01:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理內塔尼亞胡：以色列的生存不容談判，無論（美伊）是否達成協議。"
+    },
+    {
+      "id": "mkt:019fd2eb-8991-7aab-8f92-11461b1fb6d6",
+      "time": "2026-08-06 01:14:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said Iran and Oman have discussed creating a joint navigation management center in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fd2ea-9f59-7aab-8f92-0aaff9c080c7",
+      "time": "2026-08-06 01:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ revised the magnitude of an earthquake on Halmahera Island, Indonesia, down from 5.8 to 5.3."
+    },
     {
       "id": "5027396",
       "time": "2026-08-06 01:12:38",
