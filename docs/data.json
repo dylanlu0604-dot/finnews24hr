@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-06 05:47:04",
+  "updated": "2026-08-06 05:50:53",
   "count": 17514,
   "items": [
+    {
+      "id": "5027517",
+      "time": "2026-08-06 05:50:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們很欣賞埃隆。"
+    },
+    {
+      "id": "mkt:019fd3e7-df53-7aab-8f94-aa4c47e66424",
+      "time": "2026-08-06 05:50:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude 5.7 earthquake 23 km south of Sarangani, Philippines."
+    },
+    {
+      "id": "mkt:019fd3e5-8772-7aab-8f94-a465b0c6a6cb",
+      "time": "2026-08-06 05:47:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said he would prefer to reach an agreement with Iran."
+    },
+    {
+      "id": "mkt:019fd3e5-5eac-7aab-8f94-9d0aed9a18c4",
+      "time": "2026-08-06 05:47:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the US is in talks with Iran and that it remains to be seen what will happen."
+    },
+    {
+      "id": "mkt:019fd3e5-489b-7aab-8f94-95b82750c618",
+      "time": "2026-08-06 05:47:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Iran must not possess nuclear weapons."
+    },
+    {
+      "id": "5027516",
+      "time": "2026-08-06 05:46:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們正與伊朗進行談判，看看後續會如何發展。"
+    },
+    {
+      "id": "5027515",
+      "time": "2026-08-06 05:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：我寧願與伊朗達成一份協議。"
+    },
     {
       "id": "5027514",
       "time": "2026-08-06 05:45:57",
@@ -161268,76 +161331,6 @@
         "公司"
       ],
       "text": "英國BAE系統公司獲得英國政府價值59億英鎊（78億美元）合同，持續開展無畏級戰略核潛艇研發建造工作。"
-    },
-    {
-      "id": "mkt:019fafdb-7137-7aab-8efa-1d9ffe7425e3",
-      "time": "2026-07-30 05:50:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CEO said GitHub Copilot now has 50 million users."
-    },
-    {
-      "id": "5015281",
-      "time": "2026-07-30 05:49:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO表示，Copilot營收環比增長超過60%。"
-    },
-    {
-      "id": "5015280",
-      "time": "2026-07-30 05:49:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO表示，GitHub目前擁有2.25億使用者。"
-    },
-    {
-      "id": "5015279",
-      "time": "2026-07-30 05:49:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟CEO表示，GitHub Copilot目前擁有5000萬使用者。"
-    },
-    {
-      "id": "5015278",
-      "time": "2026-07-30 05:48:52",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國授予洛克希德·馬丁公司一份價值高達586億美元的7年攔截機合同。"
-    },
-    {
-      "id": "mkt:019fafd8-dbeb-7aab-8efa-14a8bb8945c4",
-      "time": "2026-07-30 05:47:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CEO said Copilot revenue rose more than 60% sequentially."
-    },
-    {
-      "id": "5015277",
-      "time": "2026-07-30 05:47:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特民航部門釋出航行通告，利雅得哈立德國王國際機場週三晚間一條跑道臨時關閉。"
     }
   ]
 }
