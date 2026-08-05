@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-06 05:27:59",
-  "count": 17515,
+  "updated": "2026-08-06 05:31:48",
+  "count": 17512,
   "items": [
+    {
+      "id": "mkt:019fd3d5-c3e8-7aab-8f94-6770c0d7fa3d",
+      "time": "2026-08-06 05:30:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said tariffs have made us rich."
+    },
+    {
+      "id": "5027506",
+      "time": "2026-08-06 05:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局：自 8 月 26 日起，通行新巴拿馬船閘的船舶最大允許吃水深度為 14.63 米。"
+    },
+    {
+      "id": "5027505",
+      "time": "2026-08-06 05:28:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普稱讚股市上漲。"
+    },
     {
       "id": "5027504",
       "time": "2026-08-06 05:24:51",
@@ -161305,60 +161332,6 @@
         "公司"
       ],
       "text": "強生與Sail Biomedicines達成戰略協議，獲得以25.8億美元收購該公司的獨家選擇權，並同步進行股權投資；首期合計支付7.85億美元。"
-    },
-    {
-      "id": "5015268",
-      "time": "2026-07-30 05:31:29",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "通用動力公司盤後股價上漲2.4%。"
-    },
-    {
-      "id": "5015267",
-      "time": "2026-07-30 05:31:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "隸屬於伊朗革命衛隊的塔斯尼姆通訊社，其X平臺英文、波斯語賬號已遭封禁。"
-    },
-    {
-      "id": "5015266",
-      "time": "2026-07-30 05:30:34",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "META執行長：目前開源模型尚未達到前沿模型的水平。"
-    },
-    {
-      "id": "te:economy:570885",
-      "time": "2026-07-30 05:30:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil Yields Rise on Labor Data — Brazil's 10-year government bond yield rose slightly to 14.81% after touching 14.79% on July 29th, as investors digested stronger-than-expected labor market data and the Federal Reserve’s policy decision. Brazil created a net 145,161 formal jobs in June, above market expectations of 115,000, reinforcing labor market resilience and supporting expectations for a more hawkish BCB. In June, the BCB lowered the Selic rate from 14.50% to 14.25% but highlighted that a resilient labor market continues to fuel services inflation. The Fed kept interest rates unchanged, as expected, though three FOMC members favored a rate hike, raising concerns that global rates may remain higher for longer. The Copom will meet on August 4-5th to decide the next Selic rate level. Meanwhile, signals of increased deficit spending by the federal government added to fiscal concerns, while government revenues faced pressure from new US tariffs."
-    },
-    {
-      "id": "5015265",
-      "time": "2026-07-30 05:28:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普再次威脅襲擊伊朗 並尋求對伊加徵關稅】當地時間7月29日，美國總統特朗普表示，因伊朗向中東地區的美軍發射導彈，美國“要給予伊朗沉重打擊”，同時計劃在相關法案中新增條款，授權美國對伊朗徵收關稅。特朗普當天在白宮對媒體稱，現在“輪到美國反擊了”“伊朗知道這一擊在所難免，並請求美國不要發動打擊”，但美國將“給他們一個教訓”。他透露，伊朗昨晚發射了五枚導彈，全部被攔截擊落。至於未來能否達成協議，他拭目以待，但美國肯定會給予其“沉重打擊”。（央視新聞）"
-    },
-    {
-      "id": "5015264",
-      "time": "2026-07-30 05:28:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "強生：預計全年調整後每股收益10.96美元至11.11美元。"
     }
   ]
 }

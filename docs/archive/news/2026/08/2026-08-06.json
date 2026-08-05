@@ -1,7 +1,34 @@
 {
   "date": "2026-08-06",
-  "count": 328,
+  "count": 331,
   "items": [
+    {
+      "id": "mkt:019fd3d5-c3e8-7aab-8f94-6770c0d7fa3d",
+      "time": "2026-08-06 05:30:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said tariffs have made us rich."
+    },
+    {
+      "id": "5027506",
+      "time": "2026-08-06 05:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬運河管理局：自 8 月 26 日起，通行新巴拿馬船閘的船舶最大允許吃水深度為 14.63 米。"
+    },
+    {
+      "id": "5027505",
+      "time": "2026-08-06 05:28:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普稱讚股市上漲。"
+    },
     {
       "id": "5027504",
       "time": "2026-08-06 05:24:51",
