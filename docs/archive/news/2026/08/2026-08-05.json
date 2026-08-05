@@ -1,7 +1,119 @@
 {
   "date": "2026-08-05",
-  "count": 1700,
+  "count": 1711,
   "items": [
+    {
+      "id": "5026254",
+      "time": "2026-08-05 15:32:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "具身智慧創業公司自變數機器人（X Square）據悉已向港交所秘密提交上市申請。"
+    },
+    {
+      "id": "te:markets:572903",
+      "time": "2026-08-05 15:32:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.34% Higher — The FTSE 100 Index is up by 37 points or 0.34 percent on Wednesday. Top gainers are NEXT (6.08%), Glencore (3.98%) and Fresnillo (3.88%). Biggest losses came from HSBC Holdings (-3.07%), Prudential (-1.46%) and Standard Chartered (-1.02%)."
+    },
+    {
+      "id": "mkt:019fd0d6-1311-7aab-8f84-a38e44bee353",
+      "time": "2026-08-05 15:31:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn reported July revenue up 54.19% YoY."
+    },
+    {
+      "id": "5026253",
+      "time": "2026-08-05 15:31:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度尼西亞財政部長：今年將向各地方政府追加撥付20.5萬億印尼盾資金。"
+    },
+    {
+      "id": "5026252",
+      "time": "2026-08-05 15:31:35",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "鴻海7月銷售額9,465.1億元新臺幣，同比增長54.2%。"
+    },
+    {
+      "id": "5026251",
+      "time": "2026-08-05 15:31:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【影石將於東京開設中國影像品牌首家直營旗艦店】8月4日，影石宣佈日本首家直營旗艦店將於8月8日在東京淺草正式開業，影石也是首個在日本開設直營旗艦店的中國影像品牌。與此同時，影石宣佈其Insta360 X6全景相機定檔8月12日釋出。據介紹，新品搭載索尼定製雙方形感測器、升級4nm AI三芯架構。"
+    },
+    {
+      "id": "te:markets:572900",
+      "time": "2026-08-05 15:31:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.64% Higher — The DAX Index is gaining 168 points or 0.64 percent on Wednesday. Leading the gains are Fresenius (5.23%), Siemens Energy (3.34%) and Bayer (3.27%). Top losers are Infineon (-4.46%), Continental (-2.72%) and Zalando (-1.90%)."
+    },
+    {
+      "id": "mkt:019fd0d4-f6e4-7aab-8f84-9d06cde87097",
+      "time": "2026-08-05 15:30:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 2.51% at 904.0 yuan/gram on Aug 5; Shanghai Gold Exchange silver T+D closed up 5.8% at 14,988 yuan/kg."
+    },
+    {
+      "id": "te:markets:572897",
+      "time": "2026-08-05 15:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.14% Higher — The CAC 40 Index is picking up 12 points or 0.14 percent on Wednesday. Gains are led by Carrefour (1.49%), Veolia (1.34%) and Safran (1.29%). Biggest losers are LVMH (-1.70%), Hermes International (-1.41%) and Orange (-0.91%)."
+    },
+    {
+      "id": "5026250",
+      "time": "2026-08-05 15:30:07",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【胡塞武裝再次襲擊沙特油輪】葉門胡塞武裝今天（8月5日）發表宣告稱，當天使用多枚彈道導彈，襲擊了一艘位於紅海海域的沙特油輪。 宣告稱，自7月22日宣佈對沙特實施海上航運禁令以來，胡塞武裝已累計襲擊8艘沙特油輪；另有29艘沙特油輪被迫改變航線或返航。宣告還稱，隨著胡塞武裝加強對曼德海峽的海上封鎖，沙特方面開始將油輪航線調整至紅海北部。宣告稱，胡塞武裝未來將繼續升級針對紅海北部沙特油輪的襲擊行動，以“關閉所有通道”，鞏固所謂“封鎖對封鎖”局面，無論將造成何種後果或影響。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5026249",
+      "time": "2026-08-05 15:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "敦豪航空貨運公司執行長表示，萊茵河低水位造成的影響有限；受運輸轉移至公路貨運影響，部分集裝箱出現延誤。"
+    },
     {
       "id": "5026247",
       "time": "2026-08-05 15:28:22",
