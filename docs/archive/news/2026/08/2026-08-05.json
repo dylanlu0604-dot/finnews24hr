@@ -1,7 +1,51 @@
 {
   "date": "2026-08-05",
-  "count": 2493,
+  "count": 2498,
   "items": [
+    {
+      "id": "5026842",
+      "time": "2026-08-05 19:14:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【毫秒之爭！靠近交易所的機房租金漲了】近日，記者採訪業內人士獲悉，今年6月以來，券商伺服器逐步撤出證券交易所機房，多家券商便在證券交易所資料中心附近準備新的伺服器地址，部分量化私募也在其附近租賃機櫃。由於需求顯著增加，相關地段的機櫃租金顯著上漲，主流4000瓦標準金融機櫃租金上漲幅度高達40%—50%。 多位私募人士透露，由於“價格優先、時間優先”的撮合原則，量化私募確實存在降低物理鏈路的需求。不過，真正依賴速度競爭的是少數“超高頻”策略，而非量化私募整體，以中低頻策略為主的頭部機構目前沒有“卷速度”，而是在超額收益來源的豐富度上持續投入。（上海證券報）"
+    },
+    {
+      "id": "5026841",
+      "time": "2026-08-05 19:13:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中電環保：控股子公司簽訂鋰電新材料一體化合同5350萬元】中電環保公告，公司控股子公司南京中電環保科技有限公司與曲靖市沾益區德方奈米科技有限公司簽署鋰電新材料一體化專案（TO爐+SCR）裝置採購合同，合同總金額為人民幣5350萬元（含稅），約佔公司2025年度經審計營業收入總額的7.47%。"
+    },
+    {
+      "id": "te:economy:573033",
+      "time": "2026-08-05 19:13:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Applications",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Applications Fall for 2nd Week — The volume of mortgage applications in the US fell by 2.9% on the final week of July, extending the 6.4% decline in the earlier period, and marking the largest back-to-back decline in two months. The drop was in line with the increase in mortgage rates, with that on a 30-year fixed contract rising to a one-year high of 6.81%, as concerns that the Federal Reserve may not combat inflation in the near term triggered a surge in term premiums, with the yield on the 30-year Treasury bond rising to its highest in 19 years. Applications to refinance a mortgage, which are sensitive to short-term changes in interest rates, fell by 2% from the previous week to the lowest level since May of last year. Meanwhile, applications for a mortgage to buy a new home fell by 4%."
+    },
+    {
+      "id": "5026840",
+      "time": "2026-08-05 19:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "保誠股價下跌13%，創2020年3月以來最大跌幅。"
+    },
+    {
+      "id": "5026839",
+      "time": "2026-08-05 19:12:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦高階官員：預計伊朗外交部長將於週五訪問巴基斯坦。"
+    },
     {
       "id": "5026838",
       "time": "2026-08-05 19:11:57",
