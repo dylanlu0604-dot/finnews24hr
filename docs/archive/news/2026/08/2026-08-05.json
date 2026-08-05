@@ -1,7 +1,123 @@
 {
   "date": "2026-08-05",
-  "count": 1790,
+  "count": 1802,
   "items": [
+    {
+      "id": "mkt:019fd0ef-fce3-7aab-8f85-8c27c3c9acaa",
+      "time": "2026-08-05 16:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German services contraction eased in July; demand rebound lifts new orders】Survey shows Germany's services sector recorded only a slight contraction in July as demand recovered and new business rose for the first time in five months. The final S&P Global services PMI increased to 49.8 in July from 48.6 in June, slightly above the preliminary 49.6. Phil Smith, associate director for economics at S&P Global Market Intelligence, said services activity has stabilised and employment trends mirrored that. Germany's composite PMI jumped to 51.3 from 49.5, returning to expansion for the first time since March, driven mainly by a sharp rebound in manufacturing output."
+    },
+    {
+      "id": "mkt:019fd0ef-e26a-7aab-8f85-8792f126760d",
+      "time": "2026-08-05 16:00:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone July final composite PMI 52.0, vs 51.9 expected and 51.9 prior."
+    },
+    {
+      "id": "mkt:019fd0ef-df2b-7aab-8f85-7f5d61fbafc6",
+      "time": "2026-08-05 16:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Euro area July services PMI (final) 51.7, vs consensus 51.6 and prior 51.6."
+    },
+    {
+      "id": "5026308",
+      "time": "2026-08-05 16:00:08",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區7月服務業PMI終值 51.7，預期51.6，前值51.6。歐元區7月綜合PMI終值 52，預期51.9，前值51.9。"
+    },
+    {
+      "id": "mkt:019fd0ef-c1f9-7aab-8f85-7681c5625d41",
+      "time": "2026-08-05 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Services PMI Final (Jul) | actual 51.7 | consensus 51.6 | previous 51.6"
+    },
+    {
+      "id": "mkt:019fd0ef-c1cd-7aab-8f85-6eea523f28eb",
+      "time": "2026-08-05 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Composite PMI Final (Jul) | actual 52 | consensus 51.9 | previous 51.9"
+    },
+    {
+      "id": "te:economy:572933",
+      "time": "2026-08-05 15:59:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Italian Services Output Growth Hits Six-Month High — The S&P Global Italy Services PMI rose to 52.5 in July 2026 from 50.2 in June, comfortably beating market expectations of 51.3 and signaling the strongest expansion in business activity since January. Growth was supported by the fastest increase in new orders this year, driven by stronger demand, new service offerings, successful client acquisition, and advertising efforts. Employment growth accelerated to a 13-month high and was among the strongest seen in more than two years, while the decline in outstanding business eased, pointing to improving capacity conditions. On the price front, input cost inflation remained elevated but slowed to its weakest pace since February, whereas output price inflation picked up. Meanwhile, business confidence softened slightly but continued to signal a positive outlook."
+    },
+    {
+      "id": "5026307",
+      "time": "2026-08-05 15:59:11",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【秘塔AI官宣接入MiniMax H3模型】8月5日，秘塔科技宣佈將通用影片模型MiniMax H3模型接入秘塔AI。價格方面，隨充隨用，不需要被年付方案繫結：768P的價格為0.19元/秒；2K的價格為0.29元/秒（採用擴散超分模型）；API介面與線上價格一致，呼叫與官方相容，同時支援接入ComfyUI。"
+    },
+    {
+      "id": "5026306",
+      "time": "2026-08-05 15:58:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Marvell釋出 PCIe Gen6 SSD主控】Marvell 公佈專為伺服器人工智慧儲存打造的 Bravera SC6 (MV-SF1410) PCIe Gen6 SSD控制器晶片，該產品預計將於今年第四季度開始送樣。"
+    },
+    {
+      "id": "5026305",
+      "time": "2026-08-05 15:58:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鎧俠與閃迪聯合釋出332層QLC：位密度突破37Gb/mm²】鎧俠與閃迪聯合宣佈，正式推出其新一代QLC 3D快閃記憶體技術。相較於上一代（第八代）產品，位密度實現高達60%的提升，突破37Gb/mm²，在位密度、效能及能效方面均樹立了全新的行業標杆。"
+    },
+    {
+      "id": "mkt:019fd0ed-810a-7aab-8f85-6704bc9da0ca",
+      "time": "2026-08-05 15:57:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【France July services PMI rises to 49.6 as domestic demand offsets export weakness】S&P Global final France services PMI rose to 49.6 in July from 46.8 in June, signalling a smaller contraction as domestic demand strengthened for the first time since November. S&P said sales to overseas clients fell markedly for a 12th consecutive month. The final July composite PMI (services plus manufacturing) climbed to 49.4 from 47.2."
+    },
+    {
+      "id": "5026304",
+      "time": "2026-08-05 15:56:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【熱威股份：募投專案結項 2.12億元節餘資金擬補流】熱威股份公告稱，“年產4,000萬件電熱元件生產線擴建專案”等3個募投專案均已達預定可使用狀態，公司擬將專案結項，並將節餘募集資金2.12億元（實際以專戶轉出當日餘額為準）永久補充流動資金，用於日常生產經營。該事項已透過公司第三屆董事會第六次會議審議，尚需提交股東會審議，保薦機構已發表無異議的核查意見。"
+    },
     {
       "id": "5026303",
       "time": "2026-08-05 15:56:15",
