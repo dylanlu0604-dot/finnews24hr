@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-05 13:24:20",
-  "count": 17877,
+  "updated": "2026-08-05 13:28:14",
+  "count": 17881,
   "items": [
+    {
+      "id": "5026050",
+      "time": "2026-08-05 13:26:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "【晶片產業鏈持續走高 多隻半導體裝置ETF觸及漲停】午後晶片產業鏈持續走高，半導體裝置ETF國泰（159516）、半導體裝置ETF廣發（560780）、半導體裝置ETF華夏（562590）、半導體裝置ETF易方達（159558）觸及漲停，此外科創半導體ETF華夏（588170）、科創半導體裝置ETF鵬華（589020）、科創半導體裝置ETF華泰柏瑞（588710）漲超10%。"
+    },
+    {
+      "id": "te:economy:572842",
+      "time": "2026-08-05 13:26:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Singapore Retail Sales Rise in June — Retail sales in Singapore rose by 4% year-on-year in June 2026, accelerating from a downwardly revised 2.9% increase in the previous month. Sales mainly increased for recreational goods (11.4% vs 25.9% in May), watches and jewelry (10.5% vs 11.7%), and computer and telecommunications (9.8% vs 7.9%). Additionally, revenues rebounded for motor vehicles, parts and accessories (3.6% vs -0.9%) and other goods (0.3% vs -4.7%), while turnover declined at a lesser extent for food and alcohol (-0.7% vs -3.5%). In contrast, department stores (-9.5% vs -3.2%) and retailers of wearing apparel and footwear (-1.7% vs 0.3%) recorded declines in sales. On a seasonally adjusted, retail activity grew by 1% in June, recovering from a slightly downwardly revised 2.2% drop in the preceding period."
+    },
+    {
+      "id": "mkt:019fd062-42c0-7aab-8f82-33934482fcce",
+      "time": "2026-08-05 13:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures traded above $4,200/oz, up 1.59% on the day."
+    },
+    {
+      "id": "5026049",
+      "time": "2026-08-05 13:25:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額超300億元，現跌3.28%。"
+    },
+    {
+      "id": "5026048",
+      "time": "2026-08-05 13:25:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【賈國龍再探新業態“天邊羊多”，8月7日全國首店將在北京開業】在“天邊砂鍋燜面”之後，西貝創始人賈國龍探索的新業態“天邊羊多”將於8月7日在北京開出全國首店。記者在天邊店小二官方公眾號釋出的預告影片看到，“天邊羊多”新店將主打內蒙古鮮羊肉到店加工，菜品包括羊肉燒麥、烤羊肉串、手把肉、涮鮮羊肉鍋等，影片中特別強調了“好肉不用醃，只撒一把鹽”“鮮羊直達”等特色。記者從接近西貝的人士處瞭解到，天邊羊多定位鮮羊料理，屬於西北菜，是西貝在西北菜基因上的品牌延伸與場景深耕。(每日經濟新聞)"
+    },
+    {
+      "id": "5026047",
+      "time": "2026-08-05 13:24:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4200美元/盎司，日內漲1.14%。"
+    },
+    {
+      "id": "5026046",
+      "time": "2026-08-05 13:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將AMD目標價從640美元上調至650美元。"
+    },
+    {
+      "id": "5026045",
+      "time": "2026-08-05 13:24:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MLCC概念板塊持續拉昇，風華高科漲停】MLCC概念板塊持續拉昇，風華高科漲停，此前潔美科技、博遷新材等股漲停，國瓷材料、斯迪克、商洛電子漲幅居前。"
+    },
     {
       "id": "mkt:019fd060-14f7-7aab-8f82-2ad2c86a5227",
       "time": "2026-08-05 13:23:05",
@@ -165420,41 +165494,6 @@
         "其他"
       ],
       "text": "人頭馬君度 ：第一財季銷售額2.232億歐元，市場預期為2.188億歐元。"
-    },
-    {
-      "id": "5013703",
-      "time": "2026-07-29 13:27:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【非銀金融板塊持續走強，華林證券漲停】非銀金融板塊持續走強，華林證券漲停，渤海租賃、海德股份、瑞達期貨、中銀證券、永安期貨、國盛證券等跟漲。"
-    },
-    {
-      "id": "5013702",
-      "time": "2026-07-29 13:27:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱其襲擊了敖德薩港附近的2艘船隻。"
-    },
-    {
-      "id": "5013701",
-      "time": "2026-07-29 13:24:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【巴斯夫集團第二季度銷售額172億歐元，同比增長16.4%】7月29日，巴斯夫集團披露，2026年第二季度銷售額為172億歐元，同比增長16.4%。這主要歸因於價格大幅上漲（上漲11.5%）和銷量增長（增長7.3%）。價格增長主要由化學品、表面處理技術、材料和工業解決方案業務領域推動。2026年第二季度EBITDA增至20億歐元，而去年同期為13億歐元。"
-    },
-    {
-      "id": "5013700",
-      "time": "2026-07-29 13:24:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【多位逆變器廠商人士回應美國市場禁令：對行業影響比較大】訊息顯示，7月28日，美國聯邦通訊委員會（FCC）更新《受限裝置清單》，根據檔案要求，境外全新高階機器人裝置、電力逆變器，原則上無法取得FCC裝置授權，不得進口、宣傳及在美國境內銷售。一家逆變器行業上市公司高管向記者表示，從現有資訊來看，禁令將不再批准新的逆變器型號在美國進行認證，因此禁令主要是對未來的產品銷售有影響，公司現有產品不受影響，已獲認證的產品型號仍可以銷往美國市場。不過，該高管也反饋，由於美國市場政策多變，公司也在跟進相關市場研究以進一步評估。另外一位逆變器廠商人士向記者介紹，其所在公司目前在美國市場業務佔比較小，但是，此次禁令的落地對行業影響會比較大。（證券時報）"
     }
   ]
 }
