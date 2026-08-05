@@ -1,7 +1,51 @@
 {
   "date": "2026-08-06",
-  "count": 207,
+  "count": 212,
   "items": [
+    {
+      "id": "5027442",
+      "time": "2026-08-06 03:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "側重於AI投資的Altimeter跌11%，資料顯示，多家基金公司已經在7月表現慘淡。"
+    },
+    {
+      "id": "5027441",
+      "time": "2026-08-06 03:02:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7495元，較週二夜盤收盤漲15點。成交量337.95億美元。"
+    },
+    {
+      "id": "mkt:019fd34d-cc01-7aab-8f93-2fae454fb00c",
+      "time": "2026-08-06 03:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin reshuffled military leadership, appointing Denis Lyamin to lead a newly formed Unmanned Systems Force and naming new commanders for front-line operations and military logistics."
+    },
+    {
+      "id": "mkt:019fd34d-83c6-7aab-8f93-231c4ca3b3fe",
+      "time": "2026-08-06 03:01:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng futures closed the night session down 0.91% at 25,674, trading 242 points below the spot index."
+    },
+    {
+      "id": "5027440",
+      "time": "2026-08-06 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.92%，報25671.47點，低水244.35點。"
+    },
     {
       "id": "5027439",
       "time": "2026-08-06 02:57:41",

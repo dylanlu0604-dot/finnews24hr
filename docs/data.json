@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-06 03:01:29",
-  "count": 17749,
+  "updated": "2026-08-06 03:05:43",
+  "count": 17733,
   "items": [
+    {
+      "id": "5027442",
+      "time": "2026-08-06 03:03:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "側重於AI投資的Altimeter跌11%，資料顯示，多家基金公司已經在7月表現慘淡。"
+    },
+    {
+      "id": "5027441",
+      "time": "2026-08-06 03:02:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7495元，較週二夜盤收盤漲15點。成交量337.95億美元。"
+    },
+    {
+      "id": "mkt:019fd34d-cc01-7aab-8f93-2fae454fb00c",
+      "time": "2026-08-06 03:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian President Putin reshuffled military leadership, appointing Denis Lyamin to lead a newly formed Unmanned Systems Force and naming new commanders for front-line operations and military logistics."
+    },
+    {
+      "id": "mkt:019fd34d-83c6-7aab-8f93-231c4ca3b3fe",
+      "time": "2026-08-06 03:01:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng futures closed the night session down 0.91% at 25,674, trading 242 points below the spot index."
+    },
+    {
+      "id": "5027440",
+      "time": "2026-08-06 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.92%，報25671.47點，低水244.35點。"
+    },
     {
       "id": "5027439",
       "time": "2026-08-06 02:57:41",
@@ -163533,223 +163577,6 @@
         "國際"
       ],
       "text": "特朗普與交通部長共同發表宣告。"
-    },
-    {
-      "id": "5015082",
-      "time": "2026-07-30 03:05:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：通脹職責本身相當狹窄，由個人消費支出（PCE）決定。"
-    },
-    {
-      "id": "mkt:019faf44-6948-7aab-8ef5-e20a471aa1e2",
-      "time": "2026-07-30 03:05:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said this is not a perfect science, but the Fed has data programs to separate signal from noise."
-    },
-    {
-      "id": "5015081",
-      "time": "2026-07-30 03:05:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：為實現2%通脹目標，我正在關注比PCE更廣泛的通脹資料集。"
-    },
-    {
-      "id": "mkt:019faf43-ffa4-7aab-8ef5-dd3019503b31",
-      "time": "2026-07-30 03:04:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said PCE data is the Fed's reference indicator and the Fed will continue to rely on it."
-    },
-    {
-      "id": "5015080",
-      "time": "2026-07-30 03:04:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：在危機狀態下提供前瞻性指引是審慎之舉，而在平穩時期則不然。"
-    },
-    {
-      "id": "5015079",
-      "time": "2026-07-30 03:04:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：這並非一門精確的科學，但我們有資料專案可將噪聲與有效訊號區分開來。"
-    },
-    {
-      "id": "mkt:019faf43-942c-7aab-8ef5-d70428922bd6",
-      "time": "2026-07-30 03:04:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Kevin Warsh, Federal Reserve chair, said he references a broader range of inf data than the PCE alone to assess progress toward the 2% target."
-    },
-    {
-      "id": "5015078",
-      "time": "2026-07-30 03:04:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：為了將通脹降至2%，相較於個人消費支出價格指數（PCE），我正在考察範圍更廣的通脹資料。"
-    },
-    {
-      "id": "5015077",
-      "time": "2026-07-30 03:04:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：前瞻指引的撤回需要過渡期。"
-    },
-    {
-      "id": "mkt:019faf43-4075-7aab-8ef5-ca80dde82b25",
-      "time": "2026-07-30 03:04:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US, Saudi airstrike in Iraq kills four IRGC members】A deputy governor in Iran’s Markazi province said US and Saudi forces carried out a joint airstrike in Diyala province, Iraq, in the early hours, killing four members of the Islamic Revolutionary Guard Corps."
-    },
-    {
-      "id": "5015076",
-      "time": "2026-07-30 03:03:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：任何央行官員若見到就業穩定、同時核心通脹上行，都會更傾向收緊貨幣政策。"
-    },
-    {
-      "id": "5015075",
-      "time": "2026-07-30 03:03:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：通脹上行時，央行官員傾向收緊政策。"
-    },
-    {
-      "id": "mkt:019faf42-6254-7aab-8ef5-c76117d195e0",
-      "time": "2026-07-30 03:03:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair KEVIN WARSH said withdrawing forward guidance would require a transition period."
-    },
-    {
-      "id": "mkt:019faf42-0e0d-7aab-8ef5-bccc53b64dd2",
-      "time": "2026-07-30 03:02:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said providing forward guidance is prudent in crisis periods, but not appropriate when conditions are stable."
-    },
-    {
-      "id": "mkt:019faf41-c567-7aab-8ef5-b04d3db58a16",
-      "time": "2026-07-30 03:02:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said that, as a reaction function, any central banker observing employment stabilize and potential inflation rise would be more inclined to tighten policy."
-    },
-    {
-      "id": "mkt:019faf41-74be-7aab-8ef5-a9d4eb4b51e0",
-      "time": "2026-07-30 03:02:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said central bank officials tend to tighten policy when inf rises."
-    },
-    {
-      "id": "5015074",
-      "time": "2026-07-30 03:02:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "WEC能源集團表示，儘管甲骨文公司與威斯康星州就新的抵押品要求產生分歧，但甲骨文在該州的大型資料中心專案仍按計劃推進。"
-    },
-    {
-      "id": "te:markets:570853",
-      "time": "2026-07-30 03:01:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Extends Rebound from 9-Month Low — Gold prices rebounded to the $4,100 per ounce mark on Wednesday from the nine-month low of $3,975 from the middle of July after the Federal Reserve maintained its interest rates steady. The decision was consistent with what only a portion of the market was positioned for, with three members of the FOMC dissenting to a rate hike. The hold brought some relief to bullion investors, as higher interest rates reduce demand for assets that bear no yield. In the meantime, demand for safe-haven assets was supported by a new wave of strikes in the Middle East. Iran attacked US forces across the Persian Gulf and energy infrastructure in Saudi Arabia. Elsewhere, the Bank of England and the Bank of Japan are also expected to keep rates unchanged this week while maintaining a cautious stance on inflation."
-    },
-    {
-      "id": "5015073",
-      "time": "2026-07-30 03:01:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4110美元/盎司，日內漲2.06%。"
-    },
-    {
-      "id": "5015072",
-      "time": "2026-07-30 03:01:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：就反應函式而言，任何央行行長在看到就業趨穩、核心通脹上行時，都會更傾向於收緊政策。"
-    },
-    {
-      "id": "mkt:019faf40-ea25-7aab-8ef5-a07f0918efb1",
-      "time": "2026-07-30 03:01:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said he is not overly concerned about losing control of the narrative."
     }
   ]
 }
