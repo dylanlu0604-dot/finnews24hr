@@ -1,7 +1,67 @@
 {
   "date": "2026-08-06",
-  "count": 67,
+  "count": 74,
   "items": [
+    {
+      "id": "5027370",
+      "time": "2026-08-06 00:48:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：不會接受外國干涉霍爾木茲海峽事務。"
+    },
+    {
+      "id": "mkt:019fd2d3-3ccb-7aab-8f91-59231fa585e5",
+      "time": "2026-08-06 00:48:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he discussed securing more interceptors with NATO Secretary General Rutte."
+    },
+    {
+      "id": "5027369",
+      "time": "2026-08-06 00:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，他已與北約秘書呂特就爭取更多防空攔截器一事進行了交談。"
+    },
+    {
+      "id": "mkt:019fd2d2-3adf-7aab-8f91-578cc12a8c9f",
+      "time": "2026-08-06 00:47:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said an agreement with Oman does not imply implementation of Article 5 of the Islamabad memorandum of understanding."
+    },
+    {
+      "id": "mkt:019fd2d1-e805-7aab-8f91-486e6db4a660",
+      "time": "2026-08-06 00:46:39",
+      "tags": [
+        "MKT News",
+        "PSX.N"
+      ],
+      "text": "Phillips 66 (PSX.N) expects large-scale maintenance turnarounds in 2027 and 2028."
+    },
+    {
+      "id": "5027368",
+      "time": "2026-08-06 00:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：伊朗與阿曼達成協議，並不代表執行《伊斯蘭堡諒解備忘錄》第5條。"
+    },
+    {
+      "id": "te:markets:573104",
+      "time": "2026-08-06 00:45:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Holds Near One-Month Low — US gasoline futures held near $2.85 per gallon on Wednesday after touching a one-month low of $2.80 earlier in the session, as growing optimism over a potential US-Iran agreement backed an outlook of improved supply. President Donald Trump said talks with Tehran were ongoing, while Iran and Oman continued discussions aimed at restoring tanker flows in the Persian Gulf. Still, prices remained about 24% above pre-war levels amid supply concerns from elsewhere. Yemen's Iran-backed Houthis claimed they had targeted a Saudi oil tanker in the Red Sea. In Russia, diesel and gasoline exports plunged 60% in July as Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027 while increasing imports from Belarus, India, Kazakhstan, and Morocco. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week to July 31st, exceeding expectations and leaving stocks 7% below the five-year seasonal average."
+    },
     {
       "id": "mkt:019fd2d0-a394-7aab-8f91-439629b44008",
       "time": "2026-08-06 00:45:16",

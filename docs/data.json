@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-06 00:45:51",
+  "updated": "2026-08-06 00:49:44",
   "count": 17981,
   "items": [
+    {
+      "id": "5027370",
+      "time": "2026-08-06 00:48:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：不會接受外國干涉霍爾木茲海峽事務。"
+    },
+    {
+      "id": "mkt:019fd2d3-3ccb-7aab-8f91-59231fa585e5",
+      "time": "2026-08-06 00:48:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he discussed securing more interceptors with NATO Secretary General Rutte."
+    },
+    {
+      "id": "5027369",
+      "time": "2026-08-06 00:47:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，他已與北約秘書呂特就爭取更多防空攔截器一事進行了交談。"
+    },
+    {
+      "id": "mkt:019fd2d2-3adf-7aab-8f91-578cc12a8c9f",
+      "time": "2026-08-06 00:47:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said an agreement with Oman does not imply implementation of Article 5 of the Islamabad memorandum of understanding."
+    },
+    {
+      "id": "mkt:019fd2d1-e805-7aab-8f91-486e6db4a660",
+      "time": "2026-08-06 00:46:39",
+      "tags": [
+        "MKT News",
+        "PSX.N"
+      ],
+      "text": "Phillips 66 (PSX.N) expects large-scale maintenance turnarounds in 2027 and 2028."
+    },
+    {
+      "id": "5027368",
+      "time": "2026-08-06 00:46:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：伊朗與阿曼達成協議，並不代表執行《伊斯蘭堡諒解備忘錄》第5條。"
+    },
+    {
+      "id": "te:markets:573104",
+      "time": "2026-08-06 00:45:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Holds Near One-Month Low — US gasoline futures held near $2.85 per gallon on Wednesday after touching a one-month low of $2.80 earlier in the session, as growing optimism over a potential US-Iran agreement backed an outlook of improved supply. President Donald Trump said talks with Tehran were ongoing, while Iran and Oman continued discussions aimed at restoring tanker flows in the Persian Gulf. Still, prices remained about 24% above pre-war levels amid supply concerns from elsewhere. Yemen's Iran-backed Houthis claimed they had targeted a Saudi oil tanker in the Red Sea. In Russia, diesel and gasoline exports plunged 60% in July as Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027 while increasing imports from Belarus, India, Kazakhstan, and Morocco. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week to July 31st, exceeding expectations and leaving stocks 7% below the five-year seasonal average."
+    },
     {
       "id": "mkt:019fd2d0-a394-7aab-8f91-439629b44008",
       "time": "2026-08-06 00:45:16",
@@ -166283,80 +166343,6 @@
         "Impact bearish"
       ],
       "text": "Politico reports Republican lawmakers, ahead of US midterm elections, are again considering raising the US debt ceiling."
-    },
-    {
-      "id": "5014909",
-      "time": "2026-07-30 00:49:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客執行長：與普惠公司的磋商事宜已不會對 2026 年飛機交付造成影響，雙方正協力解決此次糾紛。"
-    },
-    {
-      "id": "mkt:019faec6-e093-7aab-8ef0-1c580635840f",
-      "time": "2026-07-30 00:48:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "HIMS.O",
-        "Impact bearish"
-      ],
-      "text": "Hims & Hers shares fell 12.2% after reports the US Federal Trade Commission (FTC) sued the company, alleging it transmitted users' health data to Meta and Snap."
-    },
-    {
-      "id": "5014908",
-      "time": "2026-07-30 00:47:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "空客：對“婆羅摩”衛星專案非常重視，衛星合資專案正在推進。致力於“歐洲無人機”專案，具體實施方式略有不同。與普惠公司就發動機數量問題仍存在爭議，正致力於以建設性的方式解決發動機糾紛。"
-    },
-    {
-      "id": "mkt:019faec6-3465-7aab-8ef0-102b92a0e0b9",
-      "time": "2026-07-30 00:47:32",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bearish",
-        "RTX.O"
-      ],
-      "text": "Airbus CEO says dispute with Pratt & Whitney over engine quantities remains; parties are working to resolve the engine dispute constructively."
-    },
-    {
-      "id": "mkt:019faec5-ce98-7aab-8ef0-0909d67b36e3",
-      "time": "2026-07-30 00:47:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "Airbus CEO says the company is committed to the European drone project; implementation details will differ slightly."
-    },
-    {
-      "id": "mkt:019faec5-cab5-7aab-8ef0-05cd06164be6",
-      "time": "2026-07-30 00:47:05",
-      "tags": [
-        "MKT News",
-        "AIR.PA",
-        "Impact bullish"
-      ],
-      "text": "Airbus CEO said the company places high priority on the \"Poluomo\" satellite project and that a satellite joint venture is progressing."
-    },
-    {
-      "id": "5014907",
-      "time": "2026-07-30 00:45:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "Hims & Hers 股價下跌 12.2%。美國聯邦貿易委員會（FTC）起訴該公司，因其向Meta、Snap 傳輸使用者健康資訊。"
     }
   ]
 }
