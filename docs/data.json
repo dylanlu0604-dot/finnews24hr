@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06 01:32:39",
-  "count": 17982,
+  "updated": "2026-08-06 01:36:35",
+  "count": 17976,
   "items": [
+    {
+      "id": "5027406",
+      "time": "2026-08-06 01:35:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：關於美伊第二階段談判，目前還沒有決定。"
+    },
     {
       "id": "5027405",
       "time": "2026-08-06 01:29:34",
@@ -166230,87 +166238,6 @@
         "XAUUSD"
       ],
       "text": "Ambrey, a UK maritime security and risk-management firm, reported that a Bermuda-flagged LNG tanker owned and operated by a Greek company was struck by at least one drone while berthed at Egypt's Damietta port, causing a fire onboard."
-    },
-    {
-      "id": "mkt:019faef1-80f0-7aab-8ef1-5428d380d89e",
-      "time": "2026-07-30 01:34:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Fed tightening pressure rises; Trump may not single out incoming chair Warsh】Renewed Iran hostilities, a new round of global tariffs, a surge in data‑centre investment and still‑strong US consumption have increased inflation upside, reinforcing expectations of sustained policy tightness or further Fed hikes. Markets largely price the Fed to hold at Wednesday’s meeting. Kevin Warsh, who assumes the chair at end‑May, will find his ability to restrain internal hawks increasingly dependent on a sustained improvement in inflation. Public polling shows dissatisfaction with Trump’s economic performance, and higher rates would further hurt the White House’s prospects. Trump reiterated calls for rate cuts this week but said Warsh is capable and that more political committee members must agree; if the Fed hikes, he is likelier to single out other Fed officials. Trump has appointed three of the Fed’s seven governors."
-    },
-    {
-      "id": "mkt:019faef0-6497-7aab-8ef1-486b86fa4e29",
-      "time": "2026-07-30 01:33:37",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "BOC minutes: Ongoing Middle East conflict heightens upside inf risk."
-    },
-    {
-      "id": "mkt:019faef0-4c04-7aab-8ef1-43eed5e2a25e",
-      "time": "2026-07-30 01:33:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "BOC minutes said the possibility of new US tariffs remains an \"ever-present downside risk\"."
-    },
-    {
-      "id": "5014940",
-      "time": "2026-07-30 01:33:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "安佈雷海上安保公司通報：一艘希臘企業所有、希臘運營、懸掛百慕大船旗的液化天然氣運輸船，停靠在埃及達米埃塔港埃及國家天然氣公司碼頭作業期間，遭至少一架無人機襲擊。"
-    },
-    {
-      "id": "mkt:019faeef-e447-7aab-8ef1-38400d533273",
-      "time": "2026-07-30 01:33:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "BOC minutes: some members expressed concern about signs of upward pressure on medium-term inf expectations; all agreed long-term inf expectations remain well anchored."
-    },
-    {
-      "id": "5014939",
-      "time": "2026-07-30 01:32:57",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【護髮產品需求強勁，提振歐萊雅銷售額】全球最大的化妝品集團歐萊雅（L’Oreal）第二季度銷售額攀升，得益於全球各區域的增長以及髮型師對其專業造型產品需求的激增。專業產品和皮膚科學美容部門均實現兩位數增長，而奢侈品部門的增長未達分析師預期。第二季度調整後同店銷售額增長了6.3%，略高於市場預期。專業產品和皮膚科學美容部門均實現兩位數增長。僅有規模第二大的奢侈品部門增速未達分析師預期。公司在所有地理區域的銷售額均實現增長，其中北亞地區增長4.5%。財報公佈後，歐萊雅在美國發行的存託憑證（ADR）在紐約最高上漲4.7%。"
-    },
-    {
-      "id": "mkt:019faeef-8992-7aab-8ef1-35474a6fa89c",
-      "time": "2026-07-30 01:32:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "BOC minutes: members said the longer oil prices remain elevated, the greater the risk that inflationary effects will spread."
     }
   ]
 }
