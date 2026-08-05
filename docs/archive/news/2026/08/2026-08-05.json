@@ -1,7 +1,194 @@
 {
   "date": "2026-08-05",
-  "count": 1965,
+  "count": 1986,
   "items": [
+    {
+      "id": "mkt:019fd113-f71f-7aab-8f87-0aee79d86c2f",
+      "time": "2026-08-05 16:39:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU Commission President VON DER LEYEN said Russia must pay for the damage it caused and the EU will allocate an additional EUR 1.4 bln to Ukraine from returns on frozen Russian assets."
+    },
+    {
+      "id": "5026422",
+      "time": "2026-08-05 16:39:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國際AI安全榜單今日放榜：中國開源方案全球第三、開源第一】今天（8月5日），國際公認的AI安全基準CyberGym公佈最新排名。由國內頂尖人工智慧研究機構與安全團隊達酷諾威（DARKNAVY）聯合研發的DoGNAVY，以90.8%的透過率位列全球第三、開源第一。CyberGym是當前規模最大的AI智慧體網路安全測試，中國團隊為何能躋身三甲？兩條技術路線給出了答案。排在前面的微軟、谷歌，靠多個頂級閉源模型組合“作戰”，每個環節路由給表現最好的模型——前提是同時買得到、用得起全世界最強的閉源模型。DoGNAVY走的則是另一條路：只用一款開源通用模型（智譜6月開源的GLM-5.2），任何人都能下載、自由部署。值得注意的是，中國方案DoGNAVY只用了一款開源通用模型，而排名靠前的對手依靠多個閉源模型組合使用。AI安全攻防正在進入實戰化階段，開源路線正在讓頂尖安全能力被更多創新者掌握。"
+    },
+    {
+      "id": "5026421",
+      "time": "2026-08-05 16:38:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認德意志銀行保理評級為“A+”，展望穩定。"
+    },
+    {
+      "id": "te:markets:572972",
+      "time": "2026-08-05 16:38:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Itau Unibanco Holding earnings below expectations at 0.21 BRL — Itau Unibanco Holding (ITUB) released earnings per share at 0.21 BRL, compared to market expectations of 0.23 BRL."
+    },
+    {
+      "id": "te:markets:572971",
+      "time": "2026-08-05 16:38:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Suncor Energy earnings above expectations at 3.23 CAD — Suncor Energy (SU) released earnings per share at 3.23 CAD, compared to market expectations of 2.92 CAD."
+    },
+    {
+      "id": "te:markets:572970",
+      "time": "2026-08-05 16:38:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Oil & Natural Gas Corporation earnings below expectations at 9.46 INR — Oil & Natural Gas Corporation (ONGC) released earnings per share at 9.46 INR, compared to market expectations of 12.00 INR."
+    },
+    {
+      "id": "te:markets:572969",
+      "time": "2026-08-05 16:38:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Daikin earnings below expectations at 280.60 JPY — Daikin (6367) released earnings per share at 280.60 JPY, compared to market expectations of 284.02 JPY."
+    },
+    {
+      "id": "5026420",
+      "time": "2026-08-05 16:38:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哈森股份：控股子公司獲政府補助680萬元】哈森股份公告稱，公司控股子公司蘇州朗克斯精密五金有限公司近日收到與收益相關的政府補助680萬元，佔公司最近一個會計年度經審計淨利潤（絕對值）的13.50%。該補助預計增加2026年度利潤總額680萬元，具體會計處理及對當期損益的影響，以審計機構年度審計確認結果為準。"
+    },
+    {
+      "id": "5026419",
+      "time": "2026-08-05 16:38:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽皖通高速：2025年營收67.22億元 同比降12.68%】安徽皖通高速公告稱，2025年公司營收67.22億元，同比下降12.68%；淨利潤2.95億元，同比增長7.39%；歸屬於上市公司股東的淨利潤2.98億元，同比增長70.92%。2024年末和2025年末歸屬於上市公司股東的淨資產分別為190.98億元和187.74億元，同比下降1.69%。"
+    },
+    {
+      "id": "5026418",
+      "time": "2026-08-05 16:37:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為新手錶首發室內滑雪模式】8月5日下午，華為推出新手錶WATCH GT 7系列，該機首發室內滑雪模式，可在無GPS訊號的室內雪場精準記錄有效滑行時長與訓練資料。"
+    },
+    {
+      "id": "5026417",
+      "time": "2026-08-05 16:37:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠天熱電：擬投資14.05億元建設供熱工程】惠天熱電公告，公司此前披露擬投資建設瀋陽全勝2×350MW熱電專案。為將該專案熱量輸送至鐵西熱網，公司擬投資建設“全勝熱電配套長距離互聯互通供熱工程”專案，計劃總投資約14.05億元（含稅）。該事項已於2026年8月5日經公司董事會審議透過，尚需提交股東會審議。"
+    },
+    {
+      "id": "5026416",
+      "time": "2026-08-05 16:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：8月電視面板價格預估延續下調態勢 顯示器、筆電面板價格預期不變】根據TrendForce集邦諮詢顯示器研究中心《TrendForce 2026面板價格預測月度報告》最新調研資料，2026年8月，電視面板價格預估延續下調態勢，顯示器、筆電面板價格預期不變。65吋電視面板均價預估為173美元，與前月比下降1美元，下降幅度為0.6%;最低價格為166美元，最高為176美元。55吋電視面板均價預估為123美元，與前月比下降1美元，下降幅度為0.8%;最低價格為116美元，最高為126美元。（科創板日報）"
+    },
+    {
+      "id": "te:markets:572968",
+      "time": "2026-08-05 16:37:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Bharti Airtel earnings above expectations at 13.37 INR — Bharti Airtel (BHARTI) released earnings per share at 13.37 INR, compared to market expectations of 13.14 INR."
+    },
+    {
+      "id": "mkt:019fd111-69d9-7aab-8f87-006a7f1261b6",
+      "time": "2026-08-05 16:36:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "ENR.DE",
+        "Impact bullish"
+      ],
+      "text": "Siemens Energy's CEO said he expects margins in the gas-turbine business to continue improving."
+    },
+    {
+      "id": "te:economy:572967",
+      "time": "2026-08-05 16:36:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "France Services Activity Revises Slightly Lower — The S&P Global France Services PMI rose to 49.6 in July 2026, revising slightly lower from the preliminary estimate of 49.8, but improved from June's 46.8. The latest reading signaled only a marginal contraction in business activity, marking the softest decline since the contraction began in the second quarter. The downturn eased as new orders increased for the first time since November, supported by stronger domestic demand. However, export sales declined for a twelfth consecutive month, highlighting continued weakness in overseas demand. Labor market conditions weakened further, with employment falling at a faster pace due to the expiration of fixed-term contracts and the non-replacement of voluntary leavers. On the price front, input cost inflation eased to a five-month low, while output charge inflation slowed to a three-month low. Lastly, business confidence improved but remained subdued amid concerns over the political environment and higher interest rates."
+    },
+    {
+      "id": "mkt:019fd111-442e-7aab-8f86-fa7b11b81172",
+      "time": "2026-08-05 16:36:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "NEM.N",
+        "GFI.N"
+      ],
+      "text": "Gold neared a one-month high, lifting U.S. gold miners in pre-market trade: Newmont (NEM.N) +3.5%, Gold Fields (GFI.N) +5.4%, Harmony Gold (HMY.N) +4.6%. SPDR Gold Shares ETF rose 2.1%."
+    },
+    {
+      "id": "5026415",
+      "time": "2026-08-05 16:36:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞銀：維持永利澳門“買入”評級，中場贏率高推動季績勝預期】瑞銀髮表研報指，永利澳門第二季業績勝預期，經調整後物業EBITDAR同比增長17%至2.97億美元，經調整貴賓廳贏率因素後EBITDA為3.06億美元，高於市場預期約2.8億美元。業績勝預期主要受到中場賭檯贏率高於正常水平，推動中場博彩收入環比增長約6%的帶動。管理層透露，7月至今的博彩量同比輕微下跌，但趨勢由7月下旬至8月初持續改善，將持續推進非博彩擴建計劃，永利皇宮劇院及大型活動中心的建築工程將未來數週展開，預期2028年完工；432間套房的Enclave Tower則預計2029年落成。該行維持永利澳門“買入”評級，目標價7港元。"
+    },
+    {
+      "id": "5026414",
+      "time": "2026-08-05 16:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前走低 SK海力士跌幅擴大至3.5%】美股儲存板塊盤前走低，SK海力士跌幅擴大至3.5%，美光科技跌2%。"
+    },
+    {
+      "id": "5026413",
+      "time": "2026-08-05 16:35:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "由於金價觸及近一個月高位，在美上市黃金礦業股盤前上漲。"
+    },
     {
       "id": "mkt:019fd110-5b36-7aab-8f86-f0e3ae208fd5",
       "time": "2026-08-05 16:35:37",
@@ -9,6 +196,15 @@
         "MKT News"
       ],
       "text": "Spain's national oil reserve company said June crude imports rose 4.7% YoY to 4.3 mln tonnes."
+    },
+    {
+      "id": "5026412",
+      "time": "2026-08-05 16:35:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "金羅斯黃金股價上漲3.4%，西班耶斯迪爾沃特漲幅為2.2%，安格魯阿散蒂黃金股價上漲4.6%。紐蒙特股價上漲3.5%，金田集團股價上漲5.4%，和諧黃金股價上漲4.6%"
     },
     {
       "id": "5026411",
@@ -73,6 +269,15 @@
         "公司"
       ],
       "text": "【中芯國際：7月港股已發行股份增加253,518股】中芯國際公告稱，截至2026年7月31日，公司法定/註冊股本總額為4200萬美元，與上月持平。其中，港股已發行股份（不包括庫存股份）數目由上月底的6,014,061,373股增加253,518股至本月底的6,014,314,891股；科創板已發行股份數目與上月相同，為2,546,744,622股。本月內，因行使2014年購股期權計劃涉及新股253,518股。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608053832599372",
+      "time": "2026-08-05 16:32:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【乘聯分會：初步統計7月全國乘用車市場零售150.6萬輛 同比下降18%】8月5日，乘聯分會資料顯示，初步統計，7月1-31日，全國乘用車市場零售150.6萬輛，同比去年同期下降18%，較上月同期下降6%，今年以來累計零售1,020.7萬輛，同比下降20%；7月1-31日，全國乘用車廠商批發224.1萬輛，同比去年同期增長1%，較上月同期下降5%，今年以來累計批發1,478.8萬輛，同比下降5%。"
     },
     {
       "id": "em:jjsj_ygsj:202608053832598438",
