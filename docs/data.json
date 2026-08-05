@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-06 06:29:50",
-  "count": 17459,
+  "updated": "2026-08-06 06:33:39",
+  "count": 17461,
   "items": [
+    {
+      "id": "mkt:019fd40e-f22e-7aab-8f94-d75551fd3ad5",
+      "time": "2026-08-06 06:32:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An international airport near Venezuela's capital has resumed commercial cargo flights."
+    },
+    {
+      "id": "5027534",
+      "time": "2026-08-06 06:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉首都附近國際機場恢復商業貨運航班 】內瑞拉交通部長弗朗西斯科·加爾塞斯5日稱，委強震後，首架商業貨運航班當天抵達委首都加拉加斯附近的邁克蒂亞西蒙·玻利瓦爾國際機場，標誌著該機場部分恢復運營。加爾塞斯在社交媒體發文稱，邁克蒂亞西蒙·玻利瓦爾國際機場此前因強震關閉，震後首架商業貨運航班抵達這座機場對委物流活動至關重要。（新華社）"
+    },
+    {
+      "id": "5027533",
+      "time": "2026-08-06 06:31:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上證報：需求旺盛景氣度高，光模組“噪音”影響有限】受一則涉及光模組出口的傳聞影響，8月5日A股開盤後，光模組龍頭企業“易中天”（新易盛、中際旭創、天孚通訊）股價大幅低開。對此，多位業內人士表示，早在2025年，市場就傳出過光模組等產品可能被限制的訊息，行業對此已有預判並做了部分準備。短、中期看，鑑於旺盛的市場需求，中國的龐大產能、超高效率、更低成本等因素，海外嚴格禁止進口中國光模組的可能性較小，產業受到衝擊相對有限；但長期看，中國廠商部分海外市場的份額可能將會受到一定影響。"
+    },
+    {
+      "id": "te:markets:573134",
+      "time": "2026-08-06 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Slumps by 5.86% — Top commodity losers are Germany Natural Gas THE (-5.86%), Natural Gas EU (-4.26%), Natural Gas UK (-4.19%) and Crude Oil WTI (-0.86%). Gains are led by Coking Coal (1.18%) and Brent Crude Oil (0.14%)."
+    },
+    {
+      "id": "5027532",
+      "time": "2026-08-06 06:29:58",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美銅倫銅價差再走闊 套利加劇銅供應緊張態勢】近期，COMEX（紐約商品交易所）與LME（倫敦金屬交易所）銅價、庫存分化持續拉大。8月5日，美銅與倫銅的價差一度達到621.81美元/噸，背後是市場對美國精煉銅加徵關稅的預期持續發酵。價差開啟跨市套利視窗，驅動全球銅資源持續向美國市場流動。由於關稅是否落地、徵收幅度及實施時間均存在較大不確定性，這一輪銅的跨境流轉仍在持續。受訪業內人士表示，銅礦供應偏緊的供需格局並未發生改變，基本面疊加宏觀因素，仍將為銅價提供有力支撐。"
+    },
     {
       "id": "mkt:019fd405-7e6b-7aab-8f94-cffa07566307",
       "time": "2026-08-06 06:22:37",
@@ -160742,37 +160786,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 1.76% — Top commodity gainers are Silver (1.76%) and Gold (1.16%). Biggest loser is Steel Rebar (-0.79%)."
-    },
-    {
-      "id": "5015332",
-      "time": "2026-07-30 06:32:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【ChatGPT和Roblox將受歐盟最嚴格平臺規則約束】OpenAI旗下ChatGPT以及Roblox平臺在歐盟地區月活躍使用者突破4500萬門檻，將依據歐盟《數字服務法》（DSA）接受更嚴格的內容稽核監管與持續監控。歐盟委員會預計最早於8月將二者正式認定為超大型線上平臺（VLOP）。"
-    },
-    {
-      "id": "5015331",
-      "time": "2026-07-30 06:30:52",
-      "tags": [
-        "公司",
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 06:40 澳洲聯儲負責經濟事務的助理主席Sarah Hunter參加一場爐邊閒聊；\n② 09:00 三星電子二季報電話會；\n③ 13:30 法國二季度GDP初值；\n④ 16:00 德國二季度GDP初值；\n⑤ 17:00 歐元區二季度GDP初值；\n⑥ 19:00 英國央行公佈利率決議；\n⑦ 20:00 德國7月CPI初值；\n⑧ 20:30 美國二季度GDP初值，6月個人收入和個人消費支出（PCE），7月25日當週首次申請失業救濟人數；\n⑨ 美股盤後 蘋果、亞馬遜釋出業績報告。"
-    },
-    {
-      "id": "te:markets:570892",
-      "time": "2026-07-30 06:30:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Naphtha Soars by 8.04% — Top commodity gainers are Naphtha (8.04%), Brent Crude Oil (7.48%) and Crude Oil WTI (6.39%)."
     }
   ]
 }
