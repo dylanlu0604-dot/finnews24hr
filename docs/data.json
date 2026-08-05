@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-06 04:21:09",
-  "count": 17563,
+  "updated": "2026-08-06 04:25:05",
+  "count": 17555,
   "items": [
+    {
+      "id": "te:markets:573123",
+      "time": "2026-08-06 04:23:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "MetLife earnings above expectations at 2.43 USD — MetLife (MET) released earnings per share at 2.43 USD, compared to market expectations of 2.36 USD."
+    },
+    {
+      "id": "5027484",
+      "time": "2026-08-06 04:21:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲1.41%。"
+    },
     {
       "id": "mkt:019fd391-c899-7aab-8f94-099358a5c8dd",
       "time": "2026-08-06 04:16:14",
@@ -161784,111 +161805,6 @@
         "國際"
       ],
       "text": "伊朗布什爾省邊防部隊指揮官：執法人員在布什爾水域查獲四艘走私船隻。"
-    },
-    {
-      "id": "5015218",
-      "time": "2026-07-30 04:24:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：將於9月8日在秘魯利馬舉辦人工智慧峰會。"
-    },
-    {
-      "id": "mkt:019faf8b-1a8d-7aab-8ef9-23410135663f",
-      "time": "2026-07-30 04:22:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Checkpoint attack in northwest Pakistan kills 15】Pakistani police said on the evening of the 29th local time a checkpoint in Hangu district, Khyber Pakhtunkhwa province was attacked. At least seven people were killed and 22 injured; police said they shot dead eight attackers and wounded six, bringing total fatalities to 15. Clearance operations are ongoing. No group has claimed responsibility."
-    },
-    {
-      "id": "5015217",
-      "time": "2026-07-30 04:22:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦西北部檢查站遇襲 15人死亡】巴基斯坦警方當地時間29日晚稱，該國西北部開伯爾-普什圖省亨古地區一處檢查站當天遭遇恐怖襲擊，造成至少7人死亡、22人受傷，警方打死8名襲擊者。"
-    },
-    {
-      "id": "mkt:019faf8a-999b-7aab-8ef9-1cb3e0e51ac2",
-      "time": "2026-07-30 04:22:03",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O): Additional leases not yet commenced, primarily for data centres, totaled $329.1 billion as of June 30."
-    },
-    {
-      "id": "te:markets:570874",
-      "time": "2026-07-30 04:21:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Chipotle Mexican Grill earnings above expectations at 0.33 USD — Chipotle Mexican Grill (CMG) released earnings per share at 0.33 USD, compared to market expectations of 0.32 USD."
-    },
-    {
-      "id": "te:markets:570873",
-      "time": "2026-07-30 04:21:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Ventas earnings in line with market expectations at 0.14 USD — Ventas (VTR) released earnings per share at 0.14 USD, in line with market expectations."
-    },
-    {
-      "id": "te:markets:570872",
-      "time": "2026-07-30 04:21:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "L3Harris Technologies earnings above expectations at 3.13 USD — L3Harris Technologies (LHX) released earnings per share at 3.13 USD, compared to market expectations of 2.80 USD."
-    },
-    {
-      "id": "te:markets:570871",
-      "time": "2026-07-30 04:21:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Equinix earnings above expectations at 4.83 USD — Equinix (EQIX) released earnings per share at 4.83 USD, compared to market expectations of 4.62 USD."
-    },
-    {
-      "id": "te:markets:570870",
-      "time": "2026-07-30 04:21:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Fortinet earnings above expectations at 0.90 USD — Fortinet (FTNT) released earnings per share at 0.90 USD, compared to market expectations of 0.74 USD."
-    },
-    {
-      "id": "5015216",
-      "time": "2026-07-30 04:21:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟：額外租賃協議將於2027財年至2033財年期間陸續起租，租賃期限為1年至20年不等。"
     }
   ]
 }

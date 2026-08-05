@@ -1,7 +1,28 @@
 {
   "date": "2026-08-06",
-  "count": 288,
+  "count": 290,
   "items": [
+    {
+      "id": "te:markets:573123",
+      "time": "2026-08-06 04:23:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "MetLife earnings above expectations at 2.43 USD — MetLife (MET) released earnings per share at 2.43 USD, compared to market expectations of 2.36 USD."
+    },
+    {
+      "id": "5027484",
+      "time": "2026-08-06 04:21:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破65000美元，日內漲1.41%。"
+    },
     {
       "id": "mkt:019fd391-c899-7aab-8f94-099358a5c8dd",
       "time": "2026-08-06 04:16:14",
