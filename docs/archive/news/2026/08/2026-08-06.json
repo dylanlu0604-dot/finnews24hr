@@ -1,7 +1,266 @@
 {
   "date": "2026-08-06",
-  "count": 256,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:019fd38a-a4a5-7aab-8f93-ecdb50a6f99d",
+      "time": "2026-08-06 04:08:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed governor Cook said consumer confidence weakness reflects multiple factors, including elevated inflation."
+    },
+    {
+      "id": "5027482",
+      "time": "2026-08-06 04:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Doordash二季度調整後EBITDA為9.14億美元，分析師預期8.434億美元。預計三季度GOV為330億-340億美元，分析師預期334.7億美元。"
+    },
+    {
+      "id": "mkt:019fd38a-89b1-7aab-8f93-e50dd8b2e740",
+      "time": "2026-08-06 04:08:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Fed Governor Cook said the Fed may ultimately not need to raise interest rates."
+    },
+    {
+      "id": "5027481",
+      "time": "2026-08-06 04:08:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 通脹風險大於就業市場風險。堅定致力於恢復物價穩定。"
+    },
+    {
+      "id": "mkt:019fd38a-6f2e-7aab-8f93-dfe1eb547aad",
+      "time": "2026-08-06 04:08:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Governor Cook said policy has not so far resulted in significant job losses."
+    },
+    {
+      "id": "mkt:019fd38a-55ea-7aab-8f93-d55dd3b1798a",
+      "time": "2026-08-06 04:08:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Fed Governor Cook said there is reason to believe inf may ease."
+    },
+    {
+      "id": "mkt:019fd38a-474b-7aab-8f93-cbecb99162ea",
+      "time": "2026-08-06 04:08:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Fed Governor Cook said the economy remains resilient and the expansion is proceeding at a steady pace."
+    },
+    {
+      "id": "mkt:019fd38a-4398-7aab-8f93-c6ea7f88b7df",
+      "time": "2026-08-06 04:08:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor Cook said the risk of persistently high inflation is rising and could become entrenched in the economy."
+    },
+    {
+      "id": "mkt:019fd38a-01dd-7aab-8f93-b80e1bc661b2",
+      "time": "2026-08-06 04:07:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed governor Cook said inflation threat outweighs labor-market concerns."
+    },
+    {
+      "id": "mkt:019fd389-e256-7aab-8f93-b0db8807014f",
+      "time": "2026-08-06 04:07:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor COOK said she is firmly committed to restoring price stability."
+    },
+    {
+      "id": "mkt:019fd389-bb13-7aab-8f93-abe9a3cc1aa2",
+      "time": "2026-08-06 04:07:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "COOK said if the disinflation trend does not resume, the Fed is prepared to raise interest rates."
+    },
+    {
+      "id": "5027480",
+      "time": "2026-08-06 04:07:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 有理由相信通脹水平能夠回落。 經濟具備韌性，增速處於 “穩健水平”。"
+    },
+    {
+      "id": "5027479",
+      "time": "2026-08-06 04:06:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 到目前為止，人工智慧尚未造成顯著的崗位流失。"
+    },
+    {
+      "id": "5027478",
+      "time": "2026-08-06 04:06:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 若為壓低通脹確有必要，我將支援加息。"
+    },
+    {
+      "id": "5027477",
+      "time": "2026-08-06 04:06:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 部分通脹回落力量已然顯現。"
+    },
+    {
+      "id": "mkt:019fd388-a5ee-7aab-8f93-a19d2b37ce87",
+      "time": "2026-08-06 04:06:15",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "Western Digital Corp (WDC.O) expects fiscal 2027 Q1 revenue to rise 42%–49% YoY."
+    },
+    {
+      "id": "5027476",
+      "time": "2026-08-06 04:06:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：來自關稅、石油、AI的通脹壓力可能已經放鬆。長期通脹壓力高於2%。"
+    },
+    {
+      "id": "5027475",
+      "time": "2026-08-06 04:05:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "eBay 預計第三季度淨營收 30.7‑31.2 億美元，市場預期 29.7 億美元。"
+    },
+    {
+      "id": "te:markets:573117",
+      "time": "2026-08-06 04:05:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Uruguay",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "MercadoLibre earnings above expectations at 9.19 USD — MercadoLibre (MELI) released earnings per share at 9.19 USD, compared to market expectations of 8.75 USD."
+    },
+    {
+      "id": "te:markets:573116",
+      "time": "2026-08-06 04:05:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Western Digital earnings above expectations at 3.56 USD — Western Digital (WDC) released earnings per share at 3.56 USD, compared to market expectations of 3.28 USD."
+    },
+    {
+      "id": "mkt:019fd388-02be-7aab-8f93-986fbc295cc1",
+      "time": "2026-08-06 04:05:33",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks closed mixed on Wednesday, Aug. 5: Dow Jones Industrial Average +263.06 pts (+0.49%) to 54,348.94; S&P 500 -13.00 pts (-0.17%) to 7,723.52; Nasdaq Composite -221.55 pts (-0.83%) to 26,363.44."
+    },
+    {
+      "id": "mkt:019fd387-c5f5-7aab-8f93-90c9593fbaaf",
+      "time": "2026-08-06 04:05:18",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "Western Digital Corp (Nasdaq: WDC) fiscal 2026 fourth-quarter net income was $3.195 billion, compared with $282 million a year earlier."
+    },
     {
       "id": "5027474",
       "time": "2026-08-06 04:04:41",
