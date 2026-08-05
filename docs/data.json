@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-06 01:28:47",
-  "count": 17991,
+  "updated": "2026-08-06 01:32:39",
+  "count": 17982,
   "items": [
+    {
+      "id": "5027405",
+      "time": "2026-08-06 01:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：該航道（新航線）設計使得商船無論是在進入航道還是在離開航道的部分路段，都透過伊朗領海。"
+    },
+    {
+      "id": "5027404",
+      "time": "2026-08-06 01:29:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：新航線的很大一部分位於伊朗領海內，而另一部分位於阿曼領海內。"
+    },
+    {
+      "id": "mkt:019fd2f8-af43-7aab-8f92-375bafa566d0",
+      "time": "2026-08-06 01:29:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senator Mark Warner (D) said if Trump and Vance want to crack down on fraud, they should start with the $2.2 billion Trump allegedly pocketed in his first year as president."
+    },
     {
       "id": "5027403",
       "time": "2026-08-06 01:27:06",
@@ -166287,115 +166311,6 @@
         "Brent"
       ],
       "text": "BOC minutes: members said the longer oil prices remain elevated, the greater the risk that inflationary effects will spread."
-    },
-    {
-      "id": "5014938",
-      "time": "2026-07-30 01:32:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西勞工部公佈，6 月正規就業崗位淨增 145161 個；市場預期為 115000 個。"
-    },
-    {
-      "id": "mkt:019faeef-4cff-7aab-8ef1-2f929dcc0040",
-      "time": "2026-07-30 01:32:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "BOC minutes: policymakers unanimously agreed to reiterate in communications that they will not allow rising oil prices to cause inf to become persistent."
-    },
-    {
-      "id": "5014937",
-      "time": "2026-07-30 01:32:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要： 經濟增長潛在風險包括企業難以持續適應關稅政策、居民消費抗風險能力下滑、主要城市房地產市場陷入停滯。"
-    },
-    {
-      "id": "mkt:019faeee-f88c-7aab-8ef1-2159f5fe3af9",
-      "time": "2026-07-30 01:32:04",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BOC minutes: Council members said there is currently insufficient evidence that rising oil prices are spilling over into prices of other goods and services."
-    },
-    {
-      "id": "5014936",
-      "time": "2026-07-30 01:31:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "加拿大央行會議紀要： 儘管如此，委員們一致認為市場不確定性仍處於高位，部分原因在於中東衝突局勢難以預判。經濟增長復甦、通脹趨於緩和，委員們一致認為貨幣政策面臨的權衡取捨壓力有所緩解。"
-    },
-    {
-      "id": "mkt:019faeee-a819-7aab-8ef1-1dfbdddc7d6e",
-      "time": "2026-07-30 01:31:43",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "BOC minutes: members said uncertainty remains high, in part due to the unpredictability of the Middle East conflict."
-    },
-    {
-      "id": "mkt:019faeee-81bb-7aab-8ef1-165b4a1ac74a",
-      "time": "2026-07-30 01:31:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC minutes: members agreed monetary policy trade-offs have eased as growth has resumed and inf is moderating."
-    },
-    {
-      "id": "5014935",
-      "time": "2026-07-30 01:31:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要：與會委員認為，目前幾乎沒有證據表明高油價已傳導至其他商品與服務價格。"
-    },
-    {
-      "id": "mkt:019faeee-718d-7aab-8ef1-0d630e4ffb15",
-      "time": "2026-07-30 01:31:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BOC minutes: Potential downside risks to growth include firms failing to continue adapting to tariffs, a weakening in consumer spending resilience, and stalling housing markets in major cities."
-    },
-    {
-      "id": "5014934",
-      "time": "2026-07-30 01:31:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要： 委員們一致同意在對外表態中重申，不會任由油價走高催生持續性通脹。"
-    },
-    {
-      "id": "5014933",
-      "time": "2026-07-30 01:30:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要： 委員們認為，若高油價持續時間越久，其引發的通脹擴散風險就越大。"
-    },
-    {
-      "id": "5014932",
-      "time": "2026-07-30 01:30:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行會議紀要：部分委員擔憂中期通脹預期出現上行苗頭，但全體委員一致認為長期通脹預期仍保持穩定。"
     }
   ]
 }
