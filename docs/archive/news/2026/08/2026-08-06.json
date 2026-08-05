@@ -1,7 +1,15 @@
 {
   "date": "2026-08-06",
-  "count": 200,
+  "count": 201,
   "items": [
+    {
+      "id": "mkt:019fd342-aac1-7aab-8f93-06edcddfeb69",
+      "time": "2026-08-06 02:49:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said enemies are uneasy about anything that symbolizes the country's capabilities."
+    },
     {
       "id": "5027436",
       "time": "2026-08-06 02:48:01",
