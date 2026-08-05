@@ -1,7 +1,94 @@
 {
   "date": "2026-08-05",
-  "count": 874,
+  "count": 883,
   "items": [
+    {
+      "id": "5025710",
+      "time": "2026-08-05 09:39:09",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【黑石據悉籌劃新一輪鉅額融資交易 以支援Anthropic晶片交易】據知情人士透露，黑石集團與投資者已進行初步磋商，以評估對第二輪鉅額債務融資方案的興趣，用於支援Anthropic使用Alphabet旗下谷歌的晶片。知情人士表示，一項初步方案為至少360億美元的債務融資，並稱融資規模、結構以及最終是否由黑石牽頭等細節仍在討論之中，且可能發生變化。如果最終規模接近360億美元，將超過約兩個月前由阿波羅全球管理公司.和黑石安排的350億美元債務融資。此前那筆融資用於支援Anthropic租用谷歌的定製晶片，是私募信貸市場史上規模最大的交易之一。"
+    },
+    {
+      "id": "5025709",
+      "time": "2026-08-05 09:38:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7604.40點。"
+    },
+    {
+      "id": "5025708",
+      "time": "2026-08-05 09:37:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CRO概念延續強勢 百花醫藥2連板】CRO概念延續強勢，百花醫藥2連板，義翹神州漲超10%，藥明康德、凱萊英、昭衍新藥、康龍化成、益諾思跟漲。"
+    },
+    {
+      "id": "5025707",
+      "time": "2026-08-05 09:36:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田表示，熊本地震後零部件供應問題預計將得到解決，生產即將恢復。"
+    },
+    {
+      "id": "mkt:019fcf90-e8d3-7aab-8f7c-30670e165539",
+      "time": "2026-08-05 09:36:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share components sector surged; Zhongjing Electronics hit its daily upper trading limit; Nanya New Materials, Kexiang Co., Hongban Technology, Shengyi Electronics and Aihua Group also gained."
+    },
+    {
+      "id": "5025706",
+      "time": "2026-08-05 09:36:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體產業鏈早盤拉昇，金海通逼近漲停，芯朋微、上海合晶、華虹宏力、微導奈米、神工股份等多股漲超5%。"
+    },
+    {
+      "id": "5025705",
+      "time": "2026-08-05 09:36:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼北馬魯古省附近海域發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間8月5日3時16分，印尼北馬魯古省哈爾馬赫拉島西北114公里處海域發生5.6級地震，震源深度25公里。"
+    },
+    {
+      "id": "5025704",
+      "time": "2026-08-05 09:36:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊直線拉昇，中京電子漲停】元件板塊直線拉昇，中京電子漲停，南亞新材、科翔股份、紅板科技、生益電子、艾華集團等紛紛走高。"
+    },
+    {
+      "id": "mkt:019fcf8f-ffa6-7aab-8f7c-2df2b7be4ea3",
+      "time": "2026-08-05 09:35:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share gaming sector rallied intraday; Kaissa Culture and Dasheng Culture both hit the daily price limit. Giant Network, Botong Technology, Mingchen Health, Fuchun and Xunyou Technology also advanced."
+    },
     {
       "id": "5025703",
       "time": "2026-08-05 09:35:33",
