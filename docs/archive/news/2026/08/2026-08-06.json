@@ -1,7 +1,25 @@
 {
   "date": "2026-08-06",
-  "count": 351,
+  "count": 353,
   "items": [
+    {
+      "id": "mkt:019fd3e8-e4cd-7aab-8f94-b10b6b031c00",
+      "time": "2026-08-06 05:51:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said we admire Elon Musk."
+    },
+    {
+      "id": "5027518",
+      "time": "2026-08-06 05:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在談及取消電動汽車強制政策時提及馬斯克。"
+    },
     {
       "id": "5027517",
       "time": "2026-08-06 05:50:19",
