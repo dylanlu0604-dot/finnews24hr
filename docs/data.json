@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06 01:36:35",
-  "count": 17976,
+  "updated": "2026-08-06 01:40:27",
+  "count": 17975,
   "items": [
+    {
+      "id": "mkt:019fd300-43b9-7aab-8f92-39b744424856",
+      "time": "2026-08-06 01:37:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran says it has not yet decided on entering a second phase of talks with the United States."
+    },
     {
       "id": "5027406",
       "time": "2026-08-06 01:35:48",
@@ -166202,42 +166210,6 @@
         "Impact bearish"
       ],
       "text": "【Fed meeting vote preview: two hawkish dissents largely locked in; extra dissents uncertain】Major sell-side houses expect two hawkish dissenting votes at the Fed meeting—most often identified as Hamak and Logan—while the prospect of additional opposing votes remains unresolved. TD Securities, JPMorgan and others flag Hamak and Logan as likely dissenters; JPMorgan and Citi say Kashkari could also dissent. UBS and BofA expect the FOMC to hold rates, with UBS projecting 8–10 votes for a hold if no hike; Danske and several banks see 2–4 members favoring a hike but not enough to change policy. Brown Brothers Harriman and Prudential model a 10–2 split (Hamak, Logan); Cook joining would make it 9–3. Firms warn that more than two hawkish dissents would be interpreted as a stronger signal for a September hike. Recent hawkish signals: Kashkari expects one hike in 2026 and steady rates in 2027; Logan and Hamak say rates should rise to rein in elevated inflation; Cook says he’s ready to act if disinflation does not materialize. Market-implied probabilities: Kalshi shows Hamak and Logan each ~58% to dissent; Polymarket prices two dissents at 40%, one dissent at 21% and three dissents at 13%."
-    },
-    {
-      "id": "mkt:019faef5-c8ec-7aab-8ef1-636619363147",
-      "time": "2026-07-30 01:39:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US Economy",
-        "Commodities",
-        "Precious Metals",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Mitsubishi UFJ: If the Fed holds rates with a hawkish tilt, US Treasury yields and the dollar should be supported. COMMERZBANK: Cut year-end gold and silver forecasts to $4,500/oz and $67/oz, citing persistent inflation that keeps the Fed biased to tightening. TD Securities: A unanimous decision would be surprising and would imply Waller has consolidated internal consensus, risking a sharp dollar sell-off. SIA Wealth Management: No major Fed adjustment expected before September; expect gold to trade rangebound into autumn and, in an extreme scenario, into early 2027. Saxo Bank: A Fed rate hike would likely lift the forward rates curve further unless markets interpret it as a defensive move. Goldman Sachs: Even if the Fed holds rates all year, downside pressure on the dollar is limited; EUR/USD remains structurally pressured. ING: If US yields remain subdued, gold should find support around current levels, though any hawkish Fed surprise could limit near-term upside. DBS Group: Even minor tweaks to the statement or press conference wording could materially drive short-end rate volatility. HSBC: Unless the Fed delivers an unexpected hike, this week's decision is unlikely to provide a fresh catalyst for dollar gains. Sumitomo Mitsui: The Fed decision and Waller's press conference could push USD/JPY toward the 164 level."
-    },
-    {
-      "id": "mkt:019faef3-cff8-7aab-8ef1-580a11885bfd",
-      "time": "2026-07-30 01:37:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Ambrey, a UK maritime security and risk-management firm, reported that a Bermuda-flagged LNG tanker owned and operated by a Greek company was struck by at least one drone while berthed at Egypt's Damietta port, causing a fire onboard."
     }
   ]
 }

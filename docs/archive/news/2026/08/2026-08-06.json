@@ -1,7 +1,15 @@
 {
   "date": "2026-08-06",
-  "count": 139,
+  "count": 140,
   "items": [
+    {
+      "id": "mkt:019fd300-43b9-7aab-8f92-39b744424856",
+      "time": "2026-08-06 01:37:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran says it has not yet decided on entering a second phase of talks with the United States."
+    },
     {
       "id": "5027406",
       "time": "2026-08-06 01:35:48",
