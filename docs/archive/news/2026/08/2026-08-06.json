@@ -1,7 +1,26 @@
 {
   "date": "2026-08-06",
-  "count": 182,
+  "count": 184,
   "items": [
+    {
+      "id": "mkt:019fd333-fc62-7aab-8f92-c14ac6a1526a",
+      "time": "2026-08-06 02:33:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi forces say they struck Saudi tanker in Gulf of Aden】Houthi forces said they struck a Saudi tanker in the Gulf of Aden. Military spokesman Yahya Saree said the tanker, named Daisy, was hit by a ballistic missile and forced to turn back. The group said the attack was part of a maritime blockade against Saudi targets."
+    },
+    {
+      "id": "5027427",
+      "time": "2026-08-06 02:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希基揚發表全國電視講話。"
+    },
     {
       "id": "mkt:019fd331-ccf4-7aab-8f92-bebde5cb6c4e",
       "time": "2026-08-06 02:31:23",
