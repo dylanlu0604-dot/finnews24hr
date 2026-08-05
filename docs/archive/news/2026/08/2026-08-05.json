@@ -1,7 +1,116 @@
 {
   "date": "2026-08-05",
-  "count": 2853,
+  "count": 2864,
   "items": [
+    {
+      "id": "5027098",
+      "time": "2026-08-05 21:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Susquehanna將SpaceX目標股價從170美元下調至144美元。"
+    },
+    {
+      "id": "mkt:019fd210-fcad-7aab-8f8c-eacf795cd564",
+      "time": "2026-08-05 21:15:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "ANTHROPIC said it is assembling an in-house chip team to design custom chips for Claude and is hiring full-stack engineers."
+    },
+    {
+      "id": "5027097",
+      "time": "2026-08-05 21:15:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "Anthropic發言人：公司將組建內部矽晶片研發團隊，為Claude大模型設計定製晶片，目前正在招聘擁有全技術棧開發經驗的工程師。"
+    },
+    {
+      "id": "5027096",
+      "time": "2026-08-05 21:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度22名兒童感染金迪普拉病毒死亡】印度西部古吉拉特邦近期暴發金迪普拉病毒感染疫情。印度媒體5日援引該邦衛生部門的資料包道，截至3日，當地累計報告184例疑似病例，其中35例病毒檢測呈陽性，22人死亡，7人病情危重。上述患者均為15歲以下兒童。據印度《經濟時報》報道，印度衛生和家庭福利部已向古吉拉特邦派出國家聯合疫情應對小組，協助開展疫情調查、流行病學評估和臨床救治等。（新華社）"
+    },
+    {
+      "id": "mkt:019fd210-294e-7aab-8f8c-e0d0e28e7abe",
+      "time": "2026-08-05 21:15:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Anthropic spokesperson said building an in-house chip team will enable the firm to co-design hardware and models."
+    },
+    {
+      "id": "5027095",
+      "time": "2026-08-05 21:14:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西牛肉行業協會（ABIEC）主席表示，2026年巴西牛肉產量預計約為4000萬頭。"
+    },
+    {
+      "id": "te:markets:573055",
+      "time": "2026-08-05 21:14:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Index Holds at 7-Week Low — The dollar index fell to below 99.8 on Wednesday, the lowest in seven weeks, holding the sharp decline triggered by intervention on the yen and foreign selling of long-term, dollar denominated fixed-income assets last week. The recent plunge for the yen and JGBs drove the US Treasury and the Japanese counterpart to buy an estimated $88 billion in JPY, with a portion of dollar selling featured in the intervention. The developments were in tandem with pressure from the Fed's latest rate hold. During the presser, Fed Chairman Warsh signaled some reluctance to confirm that a rate hike would be his preferred reaction to higher inflation, leading foreign markets to trim holdings of dollar-denominated assets. In turn, expectations of a Fed hike next month were dimmed by a fresh pullback in key energy prices and a soft ADP employment report."
+    },
+    {
+      "id": "5027094",
+      "time": "2026-08-05 21:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic發言人：組建內部矽晶片團隊將使我們能夠聯合設計硬體與模型。"
+    },
+    {
+      "id": "te:markets:573054",
+      "time": "2026-08-05 21:14:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up to 2-Month High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for a fifth straight session on Wednesday, climbing by 4.3% to its highest since June 3 at 3,063 points, mainly supported by the larger segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, surged by 6.6% to a peak since June 3 at 5,094 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 2.2% to its highest since July 17 at 2,236 points. On the other hand, the supramax index fell by 0.1% to 1,612 points."
+    },
+    {
+      "id": "mkt:019fd20e-9a9f-7aab-8f8c-dbdd5f676686",
+      "time": "2026-08-05 21:13:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Samsung, SK Hynix to raise shareholder returns after record profits】Samsung Electronics is evaluating measures to expand shareholder returns on a sustainable basis. SK Hynix says it will announce a plan by year-end to significantly increase capital returns. Both firms posted their highest-ever quarterly operating profits last week, driven by rising AI demand and materially stronger cash generation. Analysts estimate Samsung's free cash flow could reach about 200 trillion won this year, while SK Hynix's FCF is projected in the mid-to-upper 100 trillion won range."
+    },
+    {
+      "id": "te:economy:573053",
+      "time": "2026-08-05 21:12:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Brazil Services PMI Falls into Contraction — Brazil's S&P Global Services PMI fell to 49.7 in July 2026 from 51.3 in June, signaling the first contraction in the sector in nine months. New business declined after a brief expansion in June, with the pace of contraction marking the sharpest in ten months. Employment also fell for a second consecutive month. Firms continued to report higher energy, labor, material, and transportation costs, although input cost inflation eased to a four-month low. Output price inflation also slowed to its weakest pace in four months but remained historically elevated. Business confidence improved from June's 11-month low, supported by expectations of stronger client demand after the presidential election and hopes that inflationary pressures will continue to ease."
+    },
     {
       "id": "5027093",
       "time": "2026-08-05 21:12:14",
