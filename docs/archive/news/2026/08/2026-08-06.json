@@ -1,7 +1,47 @@
 {
   "date": "2026-08-06",
-  "count": 94,
+  "count": 99,
   "items": [
+    {
+      "id": "mkt:019fd2de-a047-7aab-8f91-bcf1d3207373",
+      "time": "2026-08-06 01:00:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said talks with the United States are taking place against a backdrop of mistrust, and that mistrust remains the foundation of the current process."
+    },
+    {
+      "id": "5027382",
+      "time": "2026-08-06 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.66%，滬銅收漲0.56%，滬鋁收漲0.29%，滬鋅收漲1.60%，滬鉛收平，滬鎳收跌0.17%，滬錫收漲1.70%。氧化鋁夜盤收漲2.56%，鋁合金收漲0.13%。不鏽鋼夜盤收跌0.72%。"
+    },
+    {
+      "id": "5027381",
+      "time": "2026-08-06 00:59:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：已與阿曼就幾乎所有提出的問題達成初步共識。"
+    },
+    {
+      "id": "mkt:019fd2dc-253b-7aab-8f91-b0f21c15fded",
+      "time": "2026-08-06 00:57:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GFZ (German Research Centre for Geosciences) reported a 5.8 magnitude earthquake near Halmahera, Indonesia."
+    },
+    {
+      "id": "mkt:019fd2db-85c8-7aab-8f91-a89fcc6422ca",
+      "time": "2026-08-06 00:57:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy says he is discussing with allies how to continue supplying urgently needed air defense systems to Ukraine."
+    },
     {
       "id": "mkt:019fd2db-11ab-7aab-8f91-a25b2204f14b",
       "time": "2026-08-06 00:56:39",
