@@ -1,7 +1,94 @@
 {
-  "updated": "2026-08-05 23:11:25",
-  "count": 17961,
+  "updated": "2026-08-05 23:15:22",
+  "count": 17958,
   "items": [
+    {
+      "id": "5027291",
+      "time": "2026-08-05 23:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟將於8月底對巴西食品進口進行審計。"
+    },
+    {
+      "id": "5027290",
+      "time": "2026-08-05 23:14:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "宣告顯示：達拉斯聯邦儲備銀行與紐約聯邦儲備銀行將推出私人信貸市場試點調查。"
+    },
+    {
+      "id": "mkt:019fd27c-d2b3-7aab-8f90-2a02a7640d7f",
+      "time": "2026-08-05 23:13:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran says joint statement with Oman being drafted after agreeing coordinates for proposed Strait of Hormuz shipping corridor】Iran’s foreign ministry said two months of talks with Oman, both littoral states of the Strait of Hormuz, have produced agreement on geographic coordinates for a proposed commercial shipping corridor and that a joint declaration containing the main consensus is in final review and drafting, provided third parties do not obstruct the process. Tehran said technical, legal, security and environmental issues have been reviewed and described the negotiations as professional and forward-looking. The ministry added Iran’s foreign minister and parliamentary speaker currently have no planned visits to Pakistan or Qatar, but Iran is in contact with both as they continue efforts to ease regional tensions."
+    },
+    {
+      "id": "5027289",
+      "time": "2026-08-05 23:13:16",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場關注重開霍爾木茲海峽進展 金銀價格齊漲】隨著有關達成臨時協議、重開霍爾木茲海峽的預期升溫，市場對通脹前景的擔憂有所緩解，美聯儲加息的可能性下降，金價連續第三個交易日上漲。現貨黃金上漲逾3%，至每盎司約4,230美元。此前兩個交易日，金價均錄得小幅上漲；白銀價格也同步走高。隨著市場愈發預期各方將達成協議、重啟這條關鍵航道，美國總統特朗普表示，關於霍爾木茲海峽的協議最早可能於週三達成。與此同時，美元走弱，美國原油價格進一步下跌。"
+    },
+    {
+      "id": "mkt:019fd27c-44ca-7aab-8f90-211ff776513a",
+      "time": "2026-08-05 23:13:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SZSE set to switch market-data access after SSE; nearby data-center capacity tight】Institutions are racing to secure co‑location near the Shanghai and Shenzhen exchanges after the Shanghai Stock Exchange completed a switch of market-data access from LAN to WAN on July 31. The Shenzhen Stock Exchange has not yet completed the change but is expected to switch market-data access from LAN to WAN on August 7; some firms say the switch could occur within the week, though timing remains unconfirmed. Market participants report that surrounding data centers in both cities are facing tight supply for racks/co‑location, creating potential capacity constraints for latency‑sensitive trading and market‑data connectivity."
+    },
+    {
+      "id": "mkt:019fd27b-3584-7aab-8f90-1fd2a89cf8e4",
+      "time": "2026-08-05 23:11:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold breached $4,260/oz intraday, rising 4.48% on the day."
+    },
+    {
+      "id": "mkt:019fd27a-c594-7aab-8f90-1576f309722c",
+      "time": "2026-08-05 23:11:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iran says it agreed with Oman on coordinates for proposed Strait of Hormuz shipping lane】Iran’s foreign ministry spokesman wrote on social media on the 5th that Iran and Oman have agreed on the geographic coordinates for a proposed Strait of Hormuz shipping lane, and a joint statement is in its final review stage."
+    },
+    {
+      "id": "5027288",
+      "time": "2026-08-05 23:11:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4260美元/盎司，日內漲4.48%。"
+    },
+    {
+      "id": "5027287",
+      "time": "2026-08-05 23:10:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4320美元/盎司，日內漲4.04%。"
+    },
     {
       "id": "mkt:019fd279-1a52-7aab-8f90-088634932075",
       "time": "2026-08-05 23:09:39",
@@ -166095,143 +166182,6 @@
         "XAUUSD"
       ],
       "text": "【Goldman: If Fed holds today, FX market will focus on odds of future hikes】Before the Fed decision the dollar index was flat amid unusually high outcome uncertainty. Goldman Sachs economists expect the Fed to hold today but anticipate at least one dissenting vote for a hike, noting war-driven energy-price volatility clouds the outlook. Market pricing assigns roughly a 30% chance of a rate increase today; CME data shows investors have priced in a September hike. Goldman says if the Fed holds, FX markets will focus on how much previously priced-in tightening shifts to later meetings."
-    },
-    {
-      "id": "mkt:019fae71-304c-7aab-8eee-b37fb13fa8f3",
-      "time": "2026-07-29 23:14:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Romania will shut its second nuclear reactor on Thursday due to low Danube river levels."
-    },
-    {
-      "id": "5014860",
-      "time": "2026-07-29 23:14:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Gemini MACOS語音模式啟用智慧聽寫功能。Gemini語音功能支援螢幕上下文推理。"
-    },
-    {
-      "id": "mkt:019fae70-e460-7aab-8eee-ab22c1a894a2",
-      "time": "2026-07-29 23:14:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Google says GEMINI voice feature supports screen-context reasoning."
-    },
-    {
-      "id": "mkt:019fae70-c453-7aab-8eee-a0aa1dcaeba5",
-      "time": "2026-07-29 23:14:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Google enables smart dictation in GEMINI macOS voice mode."
-    },
-    {
-      "id": "mkt:019fae70-8e8a-7aab-8eee-9f26c867069d",
-      "time": "2026-07-29 23:13:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "Mexico's benchmark stock index fell 1.2% ahead of the Federal Reserve's interest-rate decision."
-    },
-    {
-      "id": "mkt:019fae70-2940-7aab-8eee-94ef3ea92762",
-      "time": "2026-07-29 23:13:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: US refinery crude oil net inputs rose last week to the highest level since September 2019."
-    },
-    {
-      "id": "mkt:019fae6f-f757-7aab-8eee-8ab7e23fa23c",
-      "time": "2026-07-29 23:13:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. Gulf Coast crude inventories fell last week to their lowest level since June 2025."
-    },
-    {
-      "id": "mkt:019fae6f-6bc3-7aab-8eee-872638b20b74",
-      "time": "2026-07-29 23:12:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. refinery utilization climbed last week to its highest level since December 2018."
-    },
-    {
-      "id": "5014859",
-      "time": "2026-07-29 23:12:33",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲決議出爐前，墨西哥主要股指下跌 1.2%。"
-    },
-    {
-      "id": "mkt:019fae6e-ed6a-7aab-8eee-79f0714f8f5f",
-      "time": "2026-07-29 23:12:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. Midwest refinery utilization rose last week to its highest level since December 2023."
-    },
-    {
-      "id": "mkt:019fae6e-6d91-7aab-8eee-75942effad90",
-      "time": "2026-07-29 23:11:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. four-week average jet fuel supplies rose to a record high last week."
-    },
-    {
-      "id": "te:markets:570815",
-      "time": "2026-07-29 23:11:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Geopolitical Tensions Escalate — The Ibovespa fell nearly 1% to trade below 175,500 on Wednesday amid fresh Middle East tensions, while markets eased exposure to risk ahead of a Federal Reserve decision. Oil prices rose after joint US-Saudi strikes in Iraq, fueling inflation concerns. The Fed is expected to leave rates unchanged, although hawkish statements from FOMC members supported possible dissents for a hike. Financials led the decline, with Itaú, Bradesco, and Itaúsa down about 2%, while Santander tumbled 7% after missing ROE expectations. Utilities also weakened, with Axia down more than 1% and Sabesp losing 2%. Ambev erased earlier gains to trade slightly lower after surging as much as 16% on strong profit and EBITDA. WEG (-1%) and Rede D'Or (-2.5%) also declined. In contrast, Petrobras gained nearly 2.5% on higher oil prices and after Morgan Stanley reaffirmed its Overweight rating, citing expectations of strong second-quarter results following the company's production update."
     }
   ]
 }
