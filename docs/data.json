@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-05 08:43:49",
-  "count": 17905,
+  "updated": "2026-08-05 08:47:53",
+  "count": 17897,
   "items": [
+    {
+      "id": "5025612",
+      "time": "2026-08-05 08:47:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省政府召開積體電路產業高質量發展專題推進會：加大對基礎材料、核心器件、前沿工藝、先進架構研發的支援力度，加速形成產業規模和叢集效應】8月4日下午，江蘇省政府召開“6+6”產業（積體電路）高質量發展專題推進會，加強統籌謀劃，深化協同聯動，聚力強鏈補鏈延鏈，推動積體電路產業發展取得更大突破。省長劉小濤主持會議。會議強調，要搶抓新一輪科技革命和產業變革的歷史機遇，最佳化創新要素供給配置，堅持省市縣三級聯動、財政金融協同發力、有效市場有為政府更好結合，加大對基礎材料、核心器件、前沿工藝、先進架構研發的支援力度，加速形成產業規模和叢集效應。構建協同創新生態體系，整合高校、科研院所和企業建立產業聯盟，著力打造高能級平臺，提升產業話語權和影響力。健全人才“引、育、用、留”全鏈條政策體系，靶向引進高層次人才、領軍人才，建設積體電路人才培養主陣地。分層分類培育壯大領軍企業、細分賽道標杆企業，加大精準扶持力度，牽引帶動產業能級整體躍升。"
+    },
+    {
+      "id": "5025611",
+      "time": "2026-08-05 08:44:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI與Anthropic模型再曝安全評估事件，曾嘗試植入惡意程式碼】OpenAI和Anthropic的人工智慧模型近日捲入此前未公開的網路安全事件，成為近期多起AI模型潛在安全風險事件中的最新案例。測試前沿AI模型潛在風險的英國人工智慧安全研究所（AISI）當地時間8月4日表示，在一項涉及網際網路接入的網路安全評估中，Anthropic的Mythos 5和OpenAI的GPT-5.6-Sol模型“持續針對真實個人和組織實施可能造成危害的活動”。AISI稱，該團隊在注意到“異常資料傳輸”後，於7月28日發現了這一事件。AISI表示，調查發現，在評估過程中，其中一個AI模型試圖向GitHub上的一個開源軟體專案植入有害程式碼，甚至建立虛假身份來推動程式碼獲得批准。AISI寫道：“一名人工維護者發現並拒絕批准惡意程式碼。”"
+    },
+    {
+      "id": "te:markets:572734",
+      "time": "2026-08-05 08:43:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Slips After Weak Jobs Report — The New Zealand dollar slipped to around $0.587, retreating from a two-month high after a weaker-than-expected jobs report raised doubts about how far interest rates may rise this year. New Zealand's unemployment rate climbed to 5.6% in the second quarter, the highest level since the third quarter of 2015 and above the expected 5.4%, pointing to growing slack in the labor market. Although employment increased 0.5% from the previous quarter and outpaced forecasts of a 0.1% rise, the gain was largely driven by a sharp increase in the labor force participation rate. Meanwhile, annual wage growth remained subdued at 2.0%, suggesting wage pressures are unlikely to fuel inflation and reducing the case for an aggressive tightening cycle. Still, markets continued to price in a September rate hike after the Reserve Bank of New Zealand signaled last month that further tightening would likely be needed to remove monetary stimulus and keep inflation under control."
+    },
     {
       "id": "te:markets:572732",
       "time": "2026-08-05 08:41:57",
@@ -165633,111 +165661,6 @@
         "其他"
       ],
       "text": "【兩市融資餘額減少297.59億元】截至7月28日，上交所融資餘額報13490.12億元，較前一交易日減少153.03億元；深交所融資餘額報12895.06億元，較前一交易日減少144.56億元；兩市合計26385.18億元，較前一交易日減少297.59億元。"
-    },
-    {
-      "id": "mkt:019fab57-697a-7aab-8ed8-062e7f15ed58",
-      "time": "2026-07-29 08:47:40",
-      "tags": [
-        "MKT News",
-        "SKHY.O"
-      ],
-      "text": "SK Hynix (SKHY.O) said negotiations with customers on 2027 HBM pricing are underway."
-    },
-    {
-      "id": "5013248",
-      "time": "2026-07-29 08:47:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日媒稱熊本地震已致十多人死亡 】據日本朝日電視臺今天（7月29日）報道，日本政府相關人士透露，首相官邸收到的報告稱，昨天下午的地震發生後，“熊本縣內已發現十多名死者”。"
-    },
-    {
-      "id": "5013247",
-      "time": "2026-07-29 08:46:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美股期貨在科技股拋售後反彈】美股期貨上漲，此前科技股拋售一度將市場推至技術性回撥邊緣，隨後出現反彈。標普500指數期貨漲約0.4%，納斯達克100指數期貨上漲0.6%。儘管中東地區爆發新一輪衝突推高油價，但期貨仍呈上漲態勢。亞洲股市反彈，儘管SK海力士公佈的利潤資料令人失望，但受利好AI評論提振股價上漲。"
-    },
-    {
-      "id": "5013246",
-      "time": "2026-07-29 08:46:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破85美元/桶，日內漲3.56%。"
-    },
-    {
-      "id": "mkt:019fab55-fffe-7aab-8ed7-fa3a92a5f0aa",
-      "time": "2026-07-29 08:46:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【U.S. Senate clears procedural vote on bill to sanction Russia and Iran】On July 28 local time the U.S. Senate approved a procedural vote on a sanctions bill by 86-12. The measure would impose a 100% secondary tariff on countries that continue to buy Russian oil and gas and adds provisions to extend Iran sanctions scheduled to expire at year-end."
-    },
-    {
-      "id": "5013245",
-      "time": "2026-07-29 08:46:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美參議院透過制裁俄羅斯和伊朗法案程式性投票】當地時間7月28日，美國參議院以86票贊成、12票反對的投票結果，透過了一項旨在制裁俄羅斯和伊朗的法案程式性投票。根據法案內容，美國將對繼續購買俄羅斯石油和天然氣的國家徵收100%的二級關稅。此外，法案還新增條款，延長原定於今年年底到期的對伊朗制裁措施，確保相關制裁繼續生效。"
-    },
-    {
-      "id": "5013244",
-      "time": "2026-07-29 08:45:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：與主要客戶就明年的HBM價格談判進展順利。"
-    },
-    {
-      "id": "5013243",
-      "time": "2026-07-29 08:44:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪李雲飛：投資長鑫科技5000萬元為公司行為 董事長王傳福不存在個人對外投資情形】針對比亞迪參與長鑫科技首輪融資情況，比亞迪集團品牌及公關處總經理李雲飛表示，該投資六年前（2020年12月）由比亞迪股份出資5000萬元完成，公司董事長王傳福僅持有比亞迪相關股份，未以個人名義對外投資入股其他任何企業，不存在個人對外投資情形。同時，公司所有對外投資，均統一以比亞迪股份有限公司主體名義開展，公司高管從未以個人名義參與任何對外投資專案。“近年來公司開展的各項股權投資業務，均為企業層面的市場化投資行為。”李雲飛表示。"
-    },
-    {
-      "id": "5013242",
-      "time": "2026-07-29 08:44:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞研發AI蚊子探測器 可快速精準識別致病蚊種】澳大利亞伍倫貢大學研究人員研發出一款智慧監測裝置，透過捕捉並分析蚊子振翅聲響，快速精準識別具有致病風險的蚊種。該裝置由基蘭·特里維迪博士研發，已在聯合國人工智慧向善全球峰會上展出。裝置依託人工智慧技術，可識別伊蚊、按蚊與庫蚊等全球危害最嚴重的3類致病蚊種。不同蚊種的振翅頻率存在細微差異，形成獨一無二的“聲紋”，裝置可透過精準分析振翅頻率，在數秒內快速區分不同蚊種。裝置搭載微型機器學習技術，適合在鄉村及偏遠地區推廣使用。該裝置的核心是基於Arduino平臺的一塊微型電路板，配備了麥克風與顯示屏。研發團隊利用開源的蚊子振翅音訊資料對AI模型進行訓練，目前該裝置的蚊種識別準確率已達到88%。（環球時報）"
-    },
-    {
-      "id": "te:markets:570537",
-      "time": "2026-07-29 08:43:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rebound on Bargain Hunting — The Nikkei 225 Index climbed 0.6% to above 62,700, while the broader Topix Index added 0.3% to 3,975 on Wednesday, recovering part of the previous session’s losses as investors scooped up shares of select beaten-down technology stocks. Leading the gains among major tech names were Kioxia Holdings (7.3%), Advantest (6.4%), and Keyence (14.2%). Other strong performers included Toyota Motor (1.9%), JX Advanced Metals (4.3%), and Capcom Co (11.9%). However, another overnight selloff in US chipmakers continued to weigh on market sentiment, as investors remained concerned about the sustainability of heavy spending on artificial intelligence. On the geopolitical front, the US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions and pushing oil prices higher."
-    },
-    {
-      "id": "mkt:019fab53-fd19-7aab-8ed7-f3429b3e8b68",
-      "time": "2026-07-29 08:43:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O"
-      ],
-      "text": "SK Hynix (SKHY.O) aims to begin producing HBM4E memory products by 2027."
     }
   ]
 }
