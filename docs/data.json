@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-06 00:34:05",
-  "count": 17975,
+  "updated": "2026-08-06 00:37:57",
+  "count": 17971,
   "items": [
+    {
+      "id": "5027360",
+      "time": "2026-08-06 00:35:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德國一機場暫停航班 此前發現武裝無人機 併發生貨機與不明物相撞事件】德國重要的貨運和軍事裝備運輸樞紐萊比錫-哈雷機場一度暫停航班，隔夜發現一架武裝無人機，同時一架貨機在空中與一個身份不明的小型物體相撞。當地警方週三上午釋出宣告稱，包括一架客機在內的多架飛機被迫改道，機場部分割槽域目前仍處於關閉狀態。該機場此前曾是間諜活動和破壞行動的目標。根據週三下午另外發布的公告，州總檢察長辦公室和州刑事警察部門已接手調查，正在徵集目擊者。"
+    },
+    {
+      "id": "5027359",
+      "time": "2026-08-06 00:33:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "受關稅預期影響，紐約商品交易所銅價攀升至歷史新高。"
+    },
     {
       "id": "mkt:019fd2c5-a4f4-7aab-8f91-12533824eb20",
       "time": "2026-08-06 00:33:15",
@@ -166253,62 +166270,6 @@
         "AI Revolution"
       ],
       "text": "OpenAI CEO Sam Altman told reporters after a meeting with Republican Senator Ted Cruz that they discussed new AI models and that he supports an AI safety bill, but he declined to provide details."
-    },
-    {
-      "id": "5014906",
-      "time": "2026-07-30 00:37:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "OPENAI執行長ALTMAN與美國議員討論新的人工智慧模型。"
-    },
-    {
-      "id": "mkt:019faebc-5242-7aab-8eef-eb537f49f9da",
-      "time": "2026-07-30 00:36:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOGL.O",
-        "Impact bullish"
-      ],
-      "text": "Waymo says Google's Gemini in-car assistant has entered passenger-facing testing."
-    },
-    {
-      "id": "5014905",
-      "time": "2026-07-30 00:35:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "Alphabet旗下自動駕駛公司Waymo： 谷歌 Gemini 車載助手現已面向乘客開啟測試版。"
-    },
-    {
-      "id": "mkt:019faebb-723a-7aab-8eef-e1d8ac275caa",
-      "time": "2026-07-30 00:35:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's Ministry of Petroleum said it will take necessary measures to investigate the cause of the fire at Damietta port."
-    },
-    {
-      "id": "mkt:019faeba-2f63-7aab-8eef-da63ef5768fd",
-      "time": "2026-07-30 00:34:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: hedge fund Millennium Management is targeting a record $20 billion in a new fundraising round."
-    },
-    {
-      "id": "5014904",
-      "time": "2026-07-30 00:34:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "ADP：計劃在未來 8 年內推出總額 82 億歐元的合規投資計劃，提升巴黎各機場競爭力，並樹立法國國際形象。"
     }
   ]
 }
