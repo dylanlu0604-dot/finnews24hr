@@ -1,7 +1,25 @@
 {
   "date": "2026-08-06",
-  "count": 325,
+  "count": 327,
   "items": [
+    {
+      "id": "mkt:019fd3cf-11df-7aab-8f94-5c868399d8d8",
+      "time": "2026-08-06 05:23:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump, on tariffs, called Canada 'very nasty' and said the US has 'turned the situation around'."
+    },
+    {
+      "id": "5027503",
+      "time": "2026-08-06 05:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大領導層很糟糕。"
+    },
     {
       "id": "mkt:019fd3ca-843e-7aab-8f94-53aef725daf8",
       "time": "2026-08-06 05:18:12",

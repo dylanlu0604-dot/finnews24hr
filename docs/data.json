@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-06 05:20:14",
+  "updated": "2026-08-06 05:24:09",
   "count": 17516,
   "items": [
+    {
+      "id": "mkt:019fd3cf-11df-7aab-8f94-5c868399d8d8",
+      "time": "2026-08-06 05:23:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump, on tariffs, called Canada 'very nasty' and said the US has 'turned the situation around'."
+    },
+    {
+      "id": "5027503",
+      "time": "2026-08-06 05:21:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大領導層很糟糕。"
+    },
     {
       "id": "mkt:019fd3ca-843e-7aab-8f94-53aef725daf8",
       "time": "2026-08-06 05:18:12",
@@ -161350,37 +161368,6 @@
         "國際"
       ],
       "text": "美國授予通用動力價值766億美元合同，用於潛艇建造與船廠專案。"
-    },
-    {
-      "id": "mkt:019fafc0-c655-7aab-8ef9-ffb9e260bedf",
-      "time": "2026-07-30 05:21:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish",
-        "NVDA.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO said current computing power falls far short of meeting demand."
-    },
-    {
-      "id": "mkt:019fafc0-b72d-7aab-8ef9-f25c540743e4",
-      "time": "2026-07-30 05:21:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) CEO said selling all compute capacity for short-term profit would be stupid."
     }
   ]
 }
