@@ -1,7 +1,1212 @@
 {
-  "updated": "2026-08-05 21:32:54",
-  "count": 17935,
+  "updated": "2026-08-05 22:39:24",
+  "count": 17890,
   "items": [
+    {
+      "id": "te:economy:573083",
+      "time": "2026-08-05 22:38:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 2"
+      ],
+      "text": "US Crude Oil Stocks Unexpectedly Rise: EIA — US crude inventories rose by 2.479 million barrels to 407 million barrels in the week ended July 31, compared with market expectations for a 1.5 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 2.356 million barrels in the week. Refinery crude runs fell by 183 thousand barrels per day. Gasoline stocks fell by 1.643 million barrels to 209.7 million barrels, compared with expectations for a 1.3 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, fell by 3.473 million barrels in the week to 107.1 million barrels, versus expectations for a 0.2 million-barrel rise. Net US crude imports increased by 297 thousand barrels per day."
+    },
+    {
+      "id": "5027247",
+      "time": "2026-08-05 22:38:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉跌；標普500指數漲幅收窄至0.4%。"
+    },
+    {
+      "id": "5027246",
+      "time": "2026-08-05 22:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來表示7月下旬Fundayo處方量增長出現“拐點”。"
+    },
+    {
+      "id": "5027245",
+      "time": "2026-08-05 22:36:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【本週多晶矽交易暫停 市場靜待方向】本週國內多晶矽市場整體陷入觀望態勢，市場成交處於停滯狀態。本週訂單暫無成交，主要原因是在行業加強價格自律、維護產業鏈有序競爭的背景下，當前價格已經低於行業成本，持續下探不利於產業健康發展，因此企業暫停報價，靜待市場方向進一步明朗。據矽業分會統計，7月份國內多晶矽產量10.51萬噸，同期矽片產量55.26GW，當月庫存新增0.96萬噸（含進出口）。截至7月底，多晶矽行業庫存約為52.2萬噸。從供需基本面來看，當前市場供應寬鬆格局尚未改變，企業庫存壓力依然存在，而下游矽片環節開工率維持低位，採購需求偏弱。短期內市場成交難以有效放量，整體交投氛圍持續清淡。（矽業分會）"
+    },
+    {
+      "id": "5027244",
+      "time": "2026-08-05 22:36:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國汽油期貨<RBc1>跌幅收窄，下跌1.26%。此前美國能源資訊署（EIA）的庫存報告顯示汽油庫存降幅超預期。"
+    },
+    {
+      "id": "5027243",
+      "time": "2026-08-05 22:35:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "德意志資源公司預計全年銷售額為3億至3.2億歐元。"
+    },
+    {
+      "id": "5027242",
+      "time": "2026-08-05 22:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來高管表示，替爾泊肽（Zepbound）整體處方中約55%為現金支付。"
+    },
+    {
+      "id": "5027241",
+      "time": "2026-08-05 22:34:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【均瑤健康：獨立董事就子公司賬外資金事項發表意見】均瑤健康公告稱，獨立董事對公司2025年度相關審計報告涉及事項進行核查並發表意見。2023年9月至2025年10月，泛緣供應鏈原總經理用個人卡收付經營性款項，資金流入4010.57萬元、流出4010.51萬元，未流向關聯方，無關聯方非經營性資金佔用。該行為反映子公司資金管控執行有短板，構成內控重要缺陷，公司已完成整改。2025年賬外收支補入賬依據充分，往期收支不構成重大會計差錯。除該事項外，其餘子公司無同類違規情形。"
+    },
+    {
+      "id": "mkt:019fd258-79e6-7aab-8f8f-8f2f74065f1b",
+      "time": "2026-08-05 22:34:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA data show U.S. weekly diesel exports surged to a record high."
+    },
+    {
+      "id": "5027240",
+      "time": "2026-08-05 22:33:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署稱，美國柴油周出口量飆升至歷史新高。"
+    },
+    {
+      "id": "5027239",
+      "time": "2026-08-05 22:33:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內跌3%，現報7892.00元。"
+    },
+    {
+      "id": "5027238",
+      "time": "2026-08-05 22:33:31",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【媒體：官員稱美財政部移除伊朗相關制裁措施並不代表政策轉變】有報道稱美國財政部從其網站上移除了與伊朗相關的制裁。一位財政部官員告訴我：“這並不代表美國對伊朗政府、革命衛隊聖城旅、任何被認定的恐怖組織或其支持者或代理人的政策發生了任何轉變。今天的移除是正常行政程式的一部分，是在審查了與巴格達航空相關的具體情況後進行的。”"
+    },
+    {
+      "id": "mkt:019fd257-a1b8-7aab-8f8f-849d984c015c",
+      "time": "2026-08-05 22:33:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Fox News: Treasury official says removal of Iran-related sanctions from website does not signal policy change】Fox News reported the U.S. Treasury removed Iran-related sanctions from its website. A Treasury official said this \"does not represent any change in U.S. policy toward the Iranian government, the IRGC Quds Force, any designated terrorist organization or its supporters or agents.\" The official said the removal was a routine administrative action following a review of a specific case involving Baghdad Airlines."
+    },
+    {
+      "id": "5027237",
+      "time": "2026-08-05 22:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國當週EIA庫存資料六大看點一覽】1. EIA報告：07月31日當週美國原油出口增加21.8萬桶/日至368.5萬桶/日。2. EIA報告：07月31日當週美國國內原油產量增加0.8萬桶至1380.4萬桶/日。3. EIA報告：除卻戰略儲備的商業原油庫存增加247.9萬桶至4.07億桶，增幅0.61%。4. EIA報告：美國原油產品四周平均供應量為2043.0萬桶/日，較去年同期減少0.9%。5. EIA報告：07月31日當週美國戰略石油儲備（SPR）庫存減少284.1萬桶至3.048億桶，降幅0.92%。6. EIA報告：07月31日當週美國除卻戰略儲備的商業原油進口619.8萬桶/日，較前一週增加51.5萬桶/日。"
+    },
+    {
+      "id": "5027236",
+      "time": "2026-08-05 22:31:56",
+      "tags": [
+        "宏觀",
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國財政部解除對巴格達航空相關制裁】當地時間8月5日，根據美國財政部外國資產控制辦公室訊息，美國將伊拉克巴格達航空從“特別指定國民和被封鎖人員名單”中移除，同時解除對該公司兩架波音737飛機的相關制裁。此前，巴格達航空因被指與伊朗伊斯蘭革命衛隊“聖城旅”有關聯而受到制裁。（央視新聞）"
+    },
+    {
+      "id": "5027235",
+      "time": "2026-08-05 22:31:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4240美元/盎司，日內漲4.03%。"
+    },
+    {
+      "id": "5027234",
+      "time": "2026-08-05 22:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲4%，現報4241.67美元/盎司。"
+    },
+    {
+      "id": "5027233",
+      "time": "2026-08-05 22:31:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哈薩克與韓國聯合搗毀一韓國電詐團伙】韓國警方5日說，韓方與哈薩克執法部門進行聯合行動，搗毀了一個藏身哈薩克的韓國電詐團伙，並抓獲十餘名韓籍嫌疑人。韓國警察廳當天通報，韓國一個多部門打擊跨國犯罪特別工作組7月23日在哈薩克阿拉木圖開展行動，抓獲該詐騙團伙14名成員。另外，該團伙還有5名成員在韓國被捕。在哈薩克落網的嫌疑人已於7月28日至8月5日被分批遣返回韓國。（新華社）"
+    },
+    {
+      "id": "mkt:019fd255-dc8e-7aab-8f8f-7da20b2dcfdc",
+      "time": "2026-08-05 22:31:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve fell 2.841 mln barrels in the week to July 31, compared with a 3.797 mln-barrel draw the prior week, EIA data showed."
+    },
+    {
+      "id": "mkt:019fd255-db69-7aab-8f8f-7536823ece54",
+      "time": "2026-08-05 22:31:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA implied U.S. gasoline demand for the week to July 31 was 9.8383 mln b/d, down from 9.9311 mln b/d the prior week."
+    },
+    {
+      "id": "mkt:019fd255-c518-7aab-8f8f-6ae989ff5192",
+      "time": "2026-08-05 22:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied crude oil demand for the week to July 31: 19.648 mln b/d, down from 20.503 mln b/d the prior week."
+    },
+    {
+      "id": "mkt:019fd255-c395-7aab-8f8f-673564b5f158",
+      "time": "2026-08-05 22:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA heating oil stocks for week to July 31: -144,000 barrels vs prior +308,000 barrels."
+    },
+    {
+      "id": "mkt:019fd255-c37f-7aab-8f8f-5e18b650a966",
+      "time": "2026-08-05 22:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US EIA distillate fuel oil implied demand for week to July 31: 5.8251 mln b/d, prior 5.3103 mln b/d."
+    },
+    {
+      "id": "5027232",
+      "time": "2026-08-05 22:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "EIA稱，美國上週原油庫存增加248萬桶。"
+    },
+    {
+      "id": "5027231",
+      "time": "2026-08-05 22:30:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，1藥網跌7.51%，水滴公司跌7.41%，金生遊樂跌5.76%，阿特斯跌4.76%，新氧跌4.52%。"
+    },
+    {
+      "id": "mkt:019fd255-97bc-7aab-8f8f-57f38692cf80",
+      "time": "2026-08-05 22:30:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. EIA reformulated gasoline (RFG) stocks for week to July 31: 0 barrels; prior 0 barrels."
+    },
+    {
+      "id": "mkt:019fd255-9646-7aab-8f8f-4d111e865433",
+      "time": "2026-08-05 22:30:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA finished petroleum product imports: -317,000 b/d in the week to July 31, versus +186,000 b/d the prior week."
+    },
+    {
+      "id": "mkt:019fd255-94ff-7aab-8f8f-42c2cbd02f6d",
+      "time": "2026-08-05 22:30:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories rose 2.479 mln barrels in the week to July 31; consensus expected a 1.506 mln-barrel draw, prior week showed a 7.167 mln-barrel draw."
+    },
+    {
+      "id": "mkt:019fd255-93d5-7aab-8f8f-3ec53119f4b9",
+      "time": "2026-08-05 22:30:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA gasoline inventories for the week to July 31 fell 1.643 mln barrels, versus an expected draw of 1.264 mln; prior was a 0.07 mln-barrel build."
+    },
+    {
+      "id": "5027230",
+      "time": "2026-08-05 22:30:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月31日當週EIA原油庫存 247.9萬桶，預期-150.6萬桶，前值-716.7萬桶。"
+    },
+    {
+      "id": "mkt:019fd255-9375-7aab-8f8f-3064ff97ea5a",
+      "time": "2026-08-05 22:30:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US EIA crude oil imports for the week to July 31: 297,000 barrels; prior -237,000 barrels."
+    },
+    {
+      "id": "mkt:019fd255-8f88-7aab-8f8f-28fbd632abbf",
+      "time": "2026-08-05 22:30:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. refinery utilization rate for the week to July 31 was 96.5% versus 96.9% expected and 97.2% prior, EIA."
+    },
+    {
+      "id": "mkt:019fd255-7d2b-7aab-8f8f-0c5beb6359e5",
+      "time": "2026-08-05 22:30:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Jul.31) | actual 5825100M | previous 5310300M"
+    },
+    {
+      "id": "mkt:019fd255-4a32-7aab-8f8e-fddb3bc807a2",
+      "time": "2026-08-05 22:30:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Jul.31) | actual 9838300M | previous 9931100M"
+    },
+    {
+      "id": "mkt:019fd255-8e6b-7aab-8f8f-25a6363d9ea9",
+      "time": "2026-08-05 22:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly refined petroleum product inventories fell 3.473 mln barrels in the week to July 31, versus a market-expected 0.206 mln-barrel build and a prior increase of 1.062 mln barrels."
+    },
+    {
+      "id": "mkt:019fd255-8e02-7aab-8f8f-1deae61cbe31",
+      "time": "2026-08-05 22:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly refined petroleum products production for the week to July 31 fell 134,000 b/d, versus a 15,000 b/d increase in the prior week."
+    },
+    {
+      "id": "mkt:019fd255-8b4d-7aab-8f8f-150281b48791",
+      "time": "2026-08-05 22:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US EIA gasoline production for the week to July 31 fell 309,000 b/d; prior week +178,000 b/d."
+    },
+    {
+      "id": "mkt:019fd255-6f40-7aab-8f8f-0034713fa608",
+      "time": "2026-08-05 22:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly change in crude oil production for the week ended July 31: -183,000 b/d; prior +271,000 b/d."
+    },
+    {
+      "id": "mkt:019fd255-475a-7aab-8f8e-f63233598e11",
+      "time": "2026-08-05 22:30:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "EIA Cushing, Oklahoma crude stocks for week to July 31 rose 2.356 mln barrels; prior week -0.771 mln barrels."
+    },
+    {
+      "id": "mkt:019fd255-2cc6-7aab-8f8e-ed4fc04a7ffd",
+      "time": "2026-08-05 22:30:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Implied Demand (Jul.31) | actual 19648000M | previous 20503000M"
+    },
+    {
+      "id": "mkt:019fd254-eccf-7aab-8f8e-e1bb67bd98e8",
+      "time": "2026-08-05 22:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.31) | actual -2841000M | previous -3797000M"
+    },
+    {
+      "id": "mkt:019fd254-e46f-7aab-8f8e-da661346fd8d",
+      "time": "2026-08-05 22:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Refinery Utilization Rates (Jul.31) | actual 96.5% | consensus 96.9% | previous 97.2%"
+    },
+    {
+      "id": "mkt:019fd254-d52f-7aab-8f8e-ce23a843ac74",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Imports Change (Jul.31) | actual 297000M | previous -237000M"
+    },
+    {
+      "id": "mkt:019fd254-d561-7aab-8f8e-d23c67dd10fa",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Petroleum Products Imports Change (Jul.31) | actual -317000M | previous 186000M"
+    },
+    {
+      "id": "mkt:019fd254-d3aa-7aab-8f8e-b43af64ab429",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Stocks Change (Jul.31) | actual -3473000M | consensus 206000M | previous 1062000M"
+    },
+    {
+      "id": "mkt:019fd254-d383-7aab-8f8e-a244f5ff7e7b",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Heating Oil Stocks Change (Jul.31) | actual -144000M | previous 308000M"
+    },
+    {
+      "id": "mkt:019fd254-d39b-7aab-8f8e-aa05b644f27c",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Jul.31) | actual 0M | previous 0M"
+    },
+    {
+      "id": "mkt:019fd254-d37b-7aab-8f8e-9a97f7cacfc0",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Distillate Production Change (Jul.31) | actual -134000M | previous 15000M"
+    },
+    {
+      "id": "mkt:019fd254-d517-7aab-8f8e-bf36606259bf",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Gasoline Production (Jul.31) | actual -309000M | previous 178000M"
+    },
+    {
+      "id": "mkt:019fd254-d522-7aab-8f8e-c5d182d95327",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Gasoline Stocks Change (Jul.31) | actual -1643000M | consensus -1264000M | previous 7000M"
+    },
+    {
+      "id": "mkt:019fd254-d33d-7aab-8f8e-94b8c9e1ca60",
+      "time": "2026-08-05 22:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Stocks Change (Jul.31) | actual 2479000M | consensus -1506000M | previous -7167000M"
+    },
+    {
+      "id": "mkt:019fd254-d17d-7aab-8f8e-8a70ca533b27",
+      "time": "2026-08-05 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Cushing Crude Oil Stocks Change (Jul.31) | actual 2356000M | previous -771000M"
+    },
+    {
+      "id": "mkt:019fd254-d0f7-7aab-8f8e-814b4f8d502c",
+      "time": "2026-08-05 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Input Into Refineries Change (Jul.31) | actual -183000M | previous 271000M"
+    },
+    {
+      "id": "5027229",
+      "time": "2026-08-05 22:29:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利經濟部長：我希望在離任時，義大利已退出歐盟過度赤字違規程式。"
+    },
+    {
+      "id": "5027228",
+      "time": "2026-08-05 22:29:17",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美財政部解除部分與伊朗革命衛隊相關機構的制裁】據報道，美國財政部週三在其網站上釋出詳細資訊，美國已取消對與伊朗伊斯蘭革命衛隊有關的兩架飛機和三家航空公司的反恐制裁。據悉，涉及的關聯物件包括：FLY BAGHDAD AIRLINES、伊拉克快運（IRAQ EXPRESS）、巴格達航空（Fly Baghdad）、YI-BAF號飛機以及YI-BAN號飛機，三家航空公司此前被指與伊斯蘭革命衛隊聖城旅有關聯，相關飛機的關聯物件則是FLY BAGHDAD AIRLINES公司。"
+    },
+    {
+      "id": "5027227",
+      "time": "2026-08-05 22:29:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4300美元/盎司，日內漲3.55%。"
+    },
+    {
+      "id": "5027226",
+      "time": "2026-08-05 22:28:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達股價觸及兩個多月來最高水平，最新上漲4.3%。"
+    },
+    {
+      "id": "5027225",
+      "time": "2026-08-05 22:28:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "森科能源執行長在電話會議上表示，要將油砂聯盟與阿爾伯塔省及加拿大聯邦政府達成的不具約束力諒解備忘錄落實為最終協議，“仍有大量工作要做”。"
+    },
+    {
+      "id": "5027224",
+      "time": "2026-08-05 22:27:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "AKTOR簽署收購協議，擬收購兩家機油業務子公司的部分股權。"
+    },
+    {
+      "id": "5027223",
+      "time": "2026-08-05 22:27:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風影響 廣東海事局將對經臺灣海峽南口北上船舶實施交通管制】記者從廣東海事局瞭解到，根據氣象部門預測，今年第13號颱風“白海豚”將於7日白天穿過琉球群島後移入東海，向華東沿海靠近，將影響臺灣海峽及周邊海域。經研究，廣東海事局決定於8月6日18時起，對經過臺灣海峽南口北上的船舶實施交通管制。海事部門提醒各船舶嚴格遵守交通管制要求，選擇安全水域避風，聽從現場海事管理機構指揮，保障海上安全。（央視新聞）"
+    },
+    {
+      "id": "5027222",
+      "time": "2026-08-05 22:26:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌3%，現報7956.00元。"
+    },
+    {
+      "id": "5027221",
+      "time": "2026-08-05 22:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "彭博使用者預計美國原油庫存將減少210萬桶。"
+    },
+    {
+      "id": "5027220",
+      "time": "2026-08-05 22:26:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "加斯帕爾：將與博索納羅站在一起，反對腐敗和有組織犯罪。"
+    },
+    {
+      "id": "te:markets:573082",
+      "time": "2026-08-05 22:25:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Climbs to Record High — The S&P/TSX Composite Index rose more than 1.5% to trade above 36,000 on Wednesday, reaching a fresh record as investors digested another round of corporate earnings. Shopify surged about 20% after reporting second-quarter revenue of $3.58 billion, up 34% from a year earlier, beating forecasts and guiding for stronger third-quarter growth than Wall Street expected. Thomson Reuters gained nearly 1% after posting a 9% increase in second-quarter revenue, topping estimates, and raising its full-year organic revenue growth forecast to around 8%. Manulife Financial (-1%) and Nutrien (-0.2%) are set to report earnings later today. Lower oil prices continued to weigh on energy stocks, with Suncor down 1% despite beating adjusted profit estimates. Meanwhile, higher gold prices lifted miners, with Agnico Eagle up nearly 7%, Barrick adding 5%, and WPM gaining 6%."
+    },
+    {
+      "id": "5027219",
+      "time": "2026-08-05 22:25:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "EOG 執行長稱，他認為 2027 年或需要更多石油供應。"
+    },
+    {
+      "id": "5027218",
+      "time": "2026-08-05 22:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西雷亞爾漲幅收窄，與其它貨幣走勢基本一致。"
+    },
+    {
+      "id": "te:markets:573081",
+      "time": "2026-08-05 22:24:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains as Markets Await Selic Decision — The Ibovespa rose nearly 1% to trade above 179,000 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Later today, Copom is expected to cut the Selic rate by 25 basis points from the current 14.25%. Investors will closely watch the accompanying statement for signals on whether another rate cut could follow in September. Financial stocks led gains, with Itaú rising 2% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Bradesco gained near 1% ahead of its earnings release after the close. Itaúsa gained 2% and Banco do Brasil advanced 1%. In contrast, Gerdau fell more than 5% despite posting stronger-than-expected 2Q26 results. Axia (+1%), Auren (+1.5%), Brava (-1%), and Engie (+1%) are also set to report earnings after the bell."
+    },
+    {
+      "id": "5027217",
+      "time": "2026-08-05 22:24:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌4%，現報2448.00元。"
+    },
+    {
+      "id": "mkt:019fd24f-8d37-7aab-8f8e-78d4809ea998",
+      "time": "2026-08-05 22:24:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US Treasury lifts some Iran-related sanctions】Refinitiv reported the US Treasury on Wednesday posted on its website that it has removed counterterrorism sanctions on two aircraft and three airlines tied to Iran's Islamic Revolutionary Guard Corps: Fly Baghdad Airlines Company, Iraq Express, Fly Baghdad, and aircraft registrations YI-BAF and YI-BAN."
+    },
+    {
+      "id": "5027216",
+      "time": "2026-08-05 22:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "據悉Braveheart Bio將IPO發行價指引上調至推介價格區間之上。"
+    },
+    {
+      "id": "5027215",
+      "time": "2026-08-05 22:21:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議員弗拉維奧·博索納羅提名阿爾弗雷多·加斯帕爾為10月總統大選競選搭檔。"
+    },
+    {
+      "id": "5027214",
+      "time": "2026-08-05 22:21:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌3%，現報4530.00元。"
+    },
+    {
+      "id": "mkt:019fd24b-c0fb-7aab-8f8e-7149b038b6ee",
+      "time": "2026-08-05 22:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "US EIA data for the week ending July 31 — total crude inventories, Cushing stocks and Strategic Petroleum Reserve (SPR) levels — due in 10 minutes."
+    },
+    {
+      "id": "5027213",
+      "time": "2026-08-05 22:20:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《黑神話：悟空》官宣將開啟七折優惠活動】8月5日，即將迎來發售兩週年的國產3A遊戲《黑神話：悟空》宣佈，所有數字版本（標準版、豪華版、豪華升級包）即將開啟七折優惠活動。PlayStationStore打折時間為8月12日-8月26日；微軟商店、Steam、Epic遊戲商城、WeGame打折時間為8月12日0時-8月25日24時。因平臺政策影響，PS5不同時區打折活動的具體開啟和結束時間略有不同，宏都拉斯、墨西哥和尼加拉瓜暫不參與本輪PS5促銷。"
+    },
+    {
+      "id": "5027212",
+      "time": "2026-08-05 22:19:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨金<XAU=>擴大漲幅，上漲近4%至每盎司4,238.29美元。"
+    },
+    {
+      "id": "te:markets:573079",
+      "time": "2026-08-05 22:18:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Rally to Six-Week Peak — Silver surged to $62.5 an ounce on Wednesday, its highest level since June 22, as easing geopolitical tensions and weaker-than-expected US labor market data strengthened expectations of a less aggressive Federal Reserve. Investor sentiment improved after President Donald Trump said the US and Iran had held \"very good discussions,\" fueling hopes of an agreement to end their five-month conflict. Expectations of restored Middle Eastern energy supplies have driven oil prices down about 10% this week, easing inflation concerns and reducing expectations for further Fed tightening. Meanwhile, the ADP Employment Report showed the US economy added just 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts of 70,000. Markets now assign a 57% probability to a September Fed rate hike, down from 67% a day earlier. Still, Kansas City Fed President Jeff Schmid said additional policy tightening may be needed to return inflation to the central bank's 2% target."
+    },
+    {
+      "id": "mkt:019fd249-e19a-7aab-8f8e-6c329b84dadd",
+      "time": "2026-08-05 22:18:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active iron ore futures contract was up 2.00% intraday, trading at 715.50 yuan/ton."
+    },
+    {
+      "id": "5027211",
+      "time": "2026-08-05 22:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來首席財務官表示，預計2027年在全部主要市場推出Fundayo。"
+    },
+    {
+      "id": "5027210",
+      "time": "2026-08-05 22:16:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非晶電驅技術下沉至10萬級，2027款埃安RT 9.98萬元起售】8月5日，廣汽埃安2027款埃安RT上市，售價9.98萬至12.38萬元。新車定位A級純電轎車，首次將非晶合金電驅與碳化矽電控下放至10萬元級市場，全系標配寧德時代電池，實現710km同級最長續航及百公里8.571kWh超低電耗。該車型此前已累計交付超10萬臺，本次升級意在透過核心三電技術下沉，搶佔9萬—12萬元級主流家轎市場份額。"
+    },
+    {
+      "id": "5027209",
+      "time": "2026-08-05 22:16:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "EOG：由於伊朗衝突，巴林地區的運營時斷時續。"
+    },
+    {
+      "id": "5027208",
+      "time": "2026-08-05 22:15:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來稱美國 45% 的肥胖症處方為患者現金支付。"
+    },
+    {
+      "id": "5027207",
+      "time": "2026-08-05 22:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來首席財務官在業績電話會議上表示，可注射GLP-1藥物仍是核心增長動力，每4名新啟用該類藥物的患者中就有3人選擇注射劑型。"
+    },
+    {
+      "id": "te:markets:573076",
+      "time": "2026-08-05 22:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Climbs to Seven-Week High on Hopes of US-Iran Deal — Gold extended its gains to around $4,200 an ounce on Wednesday, reaching its highest level since June 18, as easing geopolitical tensions and softer US labor market data reinforced expectations of a less aggressive Federal Reserve. President Donald Trump said the US and Iran held \"very good discussions\" on Tuesday, raising hopes of a deal to end their five-month conflict. The prospect of restored Middle Eastern energy supplies has pushed oil prices down about 10% this week, easing inflation concerns and reducing expectations for further Fed tightening. Meanwhile, the ADP Employment Report showed the US economy added just 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts of 70,000. Traders now see a 57% chance of a September Fed rate hike, down from 67% a day earlier. Still, Kansas City Fed President Jeff Schmid said some additional policy tightening may be needed to bring inflation back to the central bank's 2% target."
+    },
+    {
+      "id": "5027206",
+      "time": "2026-08-05 22:14:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "溫哥華7月份房屋銷售量同比下降9.8%。"
+    },
+    {
+      "id": "5027205",
+      "time": "2026-08-05 22:14:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "溫哥華基準房價7月份同比下跌6.2%。"
+    },
+    {
+      "id": "5027204",
+      "time": "2026-08-05 22:13:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "森科能源執行長表示，隨著森科商業城煉油廠的運營表現與安全記錄得到改善，該資產對公司的價值已大幅增長。"
+    },
+    {
+      "id": "5027203",
+      "time": "2026-08-05 22:13:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元匯率觸及157.31，創紐約交易日最高點。"
+    },
+    {
+      "id": "5027202",
+      "time": "2026-08-05 22:12:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "孟買證券交易所：鼓勵所有客戶參與收盤集合競價。"
+    },
+    {
+      "id": "5027201",
+      "time": "2026-08-05 22:12:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌3%，現報2473.00元。"
+    },
+    {
+      "id": "5027200",
+      "time": "2026-08-05 22:10:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4230美元/盎司，日內漲3.80%。"
+    },
+    {
+      "id": "5027199",
+      "time": "2026-08-05 22:10:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【未經許可擅自舉辦大型活動 上海警方通報：相關責任人均被處罰】上海警方通報一起未經許可審批線上上售票並組織千人線下聚集“應援”的案件。警方依法對三名公司責任人處以行政拘留並處罰款，並將對公司進行行政處罰。（央視新聞）"
+    },
+    {
+      "id": "5027198",
+      "time": "2026-08-05 22:10:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4290美元/盎司，日內漲3.31%。"
+    },
+    {
+      "id": "mkt:019fd242-f4a3-7aab-8f8e-61af22a6c741",
+      "time": "2026-08-05 22:10:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PEGI.O",
+        "Impact bullish"
+      ],
+      "text": "DOE approved a $489.4 mln loan to Amanecer Puerto Rico, a subsidiary of Pattern Energy."
+    },
+    {
+      "id": "mkt:019fd241-52e8-7aab-8f8e-5e151918b91c",
+      "time": "2026-08-05 22:08:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Precious metals futures: SHFE Au2610 extended gains, up 2.56% at 918.98 yuan/gram; SHFE Ag2610 up 4.05% at 15,313 yuan/kg."
+    },
+    {
+      "id": "mkt:019fd240-4f8d-7aab-8f8e-50fda2163f2f",
+      "time": "2026-08-05 22:07:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US to remove Fly Baghdad from sanctions list."
+    },
+    {
+      "id": "mkt:019fd23e-aeb3-7aab-8f8e-4908ae773566",
+      "time": "2026-08-05 22:05:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver's intraday gain widened to about 5%, trading at $62.51/oz; spot gold up roughly 3.5%."
+    },
+    {
+      "id": "mkt:019fd23d-db7f-7aab-8f8e-470f9a65d3fd",
+      "time": "2026-08-05 22:04:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Treasury website shows the U.S. has lifted sanctions related to Iran."
+    },
+    {
+      "id": "mkt:019fd23d-b13d-7aab-8f8e-3c03a57ca446",
+      "time": "2026-08-05 22:04:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's Saratov refinery halted operations after a drone strike on Aug. 2."
+    },
+    {
+      "id": "te:economy:573074",
+      "time": "2026-08-05 22:04:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Non Manufacturing PMI",
+        "Importance 3"
+      ],
+      "text": "US Services Growth Below Forecasts in July — The ISM Services PMI in the US edged up to 54.1 in July 2026 from 54 in June, slightly below forecasts of 54.5, while continuing to point to expansion in the services sector. Business activity (59.1 vs 55.4), new orders (57.2 vs 55.1) and inventories (51.4 vs 51.2) increased faster but employment returned to contraction territory after only one month in expansion (47.4 vs 51.2). In addition, price pressures increased (70.3 vs 67.7), with petroleum-related products and plastics again reported as commodities up in price, although the number of commodities reported as down in price increased to six, up from three the previous month. Backlog of orders (50.9 vs 54.9) and supplier deliveries (52.8 vs 54.4) slowed. “Tariff impacts and the Middle East conflict continued to be mentioned by respondents, but much less frequently than in prior reports. The World Cup was again cited in the comments regarding increased business activity and new orders”, according to Steve Miller, Chair of the ISM."
+    },
+    {
+      "id": "mkt:019fd23c-65aa-7aab-8f8e-373572fe66bc",
+      "time": "2026-08-05 22:03:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "CGTN reported that Yemen's Houthi movement said it fired a ballistic missile at a Saudi oil tanker in the northern Red Sea. The group provided no evidence; Saudi Arabia had not immediately commented."
+    },
+    {
+      "id": "te:economy:573073",
+      "time": "2026-08-05 22:02:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "US Services Activity Revised Higher — The S&P Global US Services PMI rose to 54.6 in July from 51.2 in the previous month, revised higher from the flash estimate of 53.6 to mark the sharpest expansion in activity in nine months. New business levels rose the most since November, with panelists noting a pickup in activity due to FIFA World Cup and Independence Day spending, and higher investments in sales, marketing, and product development. New work was awarded from domestic clients, as export orders fell the most since 2022 amid tariffs and the Middle East war. Consequently, firms increased their staff counts the most in eight months. Meanwhile, input cost inflation rose to a 14-month high due to tariffs and higher raw-material costs, driving companies to pass on price hikes to consumer charges when possible. Looking ahead, confidence improved on hopes of easing energy prices and business expansion plans."
+    },
+    {
+      "id": "mkt:019fd23a-b47c-7aab-8f8e-2a75fb072ad9",
+      "time": "2026-08-05 22:01:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "US ISM Non‑Manufacturing Suppliers' Deliveries Index 52.8 in July, down from 54.4 in June."
+    },
+    {
+      "id": "mkt:019fd23a-91dc-7aab-8f8e-22739a77811d",
+      "time": "2026-08-05 22:01:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US July ISM non-manufacturing inventories index 51.4, prior 51.2."
+    },
+    {
+      "id": "mkt:019fd23a-828b-7aab-8f8e-1fc24ec69e7c",
+      "time": "2026-08-05 22:01:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services Supplier Deliveries Index (Jul) | actual 52.8 | previous 54.4"
+    },
+    {
+      "id": "mkt:019fd23a-6798-7aab-8f8e-12b5cab54d96",
+      "time": "2026-08-05 22:01:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ISM Services Inventory Index (Jul) | actual 51.4 | previous 51.2"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608053832862940",
+      "time": "2026-08-05 22:00:38",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國供應管理學會7月份非製造業指數升至54.1，預期54.5。"
+    },
+    {
+      "id": "mkt:019fd239-940d-7aab-8f8e-0ec382e3c99c",
+      "time": "2026-08-05 22:00:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. July ISM non-manufacturing employment index 47.4, prior 51.2."
+    },
+    {
+      "id": "mkt:019fd239-7c07-7aab-8f8e-00196cd42e67",
+      "time": "2026-08-05 22:00:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US ISM non-manufacturing PMI (July) 54.1 vs. 54.5 expected; prior 54.0."
+    },
+    {
+      "id": "te:markets:573071",
+      "time": "2026-08-05 21:55:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "General Electric Aerospace Stock Price Hits 25-year High — General Electric Aerospace shares increased to 383.36 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 0.84%, and in the last 12 months, it increased 40.33%."
+    },
+    {
+      "id": "te:markets:573070",
+      "time": "2026-08-05 21:52:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Globalfoundries earnings above expectations at 0.46 USD — Globalfoundries (GFS) released earnings per share at 0.46 USD, compared to market expectations of 0.43 USD."
+    },
+    {
+      "id": "te:markets:573069",
+      "time": "2026-08-05 21:52:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Iron Mountain earnings above expectations at 0.60 USD — Iron Mountain (IRM) released earnings per share at 0.60 USD, compared to market expectations of 0.53 USD."
+    },
+    {
+      "id": "te:economy:573068",
+      "time": "2026-08-05 21:50:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "US Private Sector Growth Hits Nine-Month High in July — The S&P Global US Composite PMI rose to 54.5 in July 2026 from 51.9 in June, exceeding both the preliminary estimate of 53.6 and marking the strongest expansion in private sector activity since October 2025. The improvement was driven by faster growth in the services sector, while manufacturing output continued to expand at a solid pace. New business increased at the fastest rate in 19 months, business confidence climbed to its highest level since last November, and private sector employment returned to growth for the first time since April. On the price front, input cost inflation accelerated to its highest level since November 2022, pushing output price inflation to a one-year high."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608053832849182",
+      "time": "2026-08-05 21:46:03",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月標普全球服務業PMI終值54.6 前值53.6】美國7月標普全球服務業PMI終值54.6，前值53.6；7月標普全球綜合PMI終值54.5，前值53.6。"
+    },
+    {
+      "id": "te:markets:573067",
+      "time": "2026-08-05 21:40:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Stock Price Hits 4-week Low — ProLogis shares decreased to 138.60 USD, the lowest since July 2026. Over the past 4 weeks, ProLogis lost 1.07%, and in the last 12 months, it increased 29.58%."
+    },
+    {
+      "id": "te:markets:573066",
+      "time": "2026-08-05 21:40:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.85% Higher — The Dow Jones Index is gaining 458 points or 0.85 percent on Wednesday. Leading the gains are Nvidia (4.21%), Walt Disney (2.84%) and Goldman Sachs (1.59%). Top losers are P&G (-1.23%), Apple (-0.60%) and Chevron (-0.54%)."
+    },
+    {
+      "id": "te:markets:573065",
+      "time": "2026-08-05 21:39:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Near Lows as Markets Eye Iran Agreement — Brent crude oil fluctuated below $80 per barrel on Wednesday, after losses of around 5% in each of the previous two sessions, as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Meanwhile, Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs."
+    },
+    {
+      "id": "te:markets:573064",
+      "time": "2026-08-05 21:38:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Steadies as Markets Await Iran Deal — Crude oil fluctuated below $76 per barrel on Wednesday, after losses of more than 5% in each of the previous two sessions, as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Meanwhile, Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs"
+    },
+    {
+      "id": "te:markets:573063",
+      "time": "2026-08-05 21:37:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "S&P 500 and Dow Rise to New Records — US stocks extended their recent rallies amid an improving macroeconomic backdrop and strong earnings reports. The S&P 500 rose 0.6% and the Dow added 400 points, both at record highs, and the Nasdaq gained 0.3%. Treasury yields held their pullback from the week as US officials continued to signal attempts to achieve a deal with Iran that restores trade through from the Middle East, limiting energy inflation. Credit sensitive sectors, including banks and AI hyperscalers, broadly maintained their gains from the week. Arista Networks soared 7% after posting a better revenue thane expected. Also, Eli Lilly jumped 9% to lead the Dow after beating revenue consensus and raising its guidance for this year. Meanwhile, SpaceX slumped 13%, erasing its surge from the last session as the forecast of surging AI spending offset its revenue beat. A large portion of its IPO shares are soon to be released by primary buyers. Also, AMD sank 5% despite doubling datacenter revenues."
+    },
+    {
+      "id": "te:markets:573062",
+      "time": "2026-08-05 21:32:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Pfizer Stock Price Hits 7-week High — Pfizer shares increased to 25.67 USD, the highest since June 2026. Over the past 4 weeks, Pfizer gained 7.93%, and in the last 12 months, it increased 3.43%."
+    },
     {
       "id": "5027127",
       "time": "2026-08-05 21:32:01",
@@ -164452,1586 +165657,6 @@
         "國際"
       ],
       "text": "美國能源資訊署（EIA）：上週不含戰略石油儲備的美國商業原油庫存降至 2018 年 9 月以來最低水平。"
-    },
-    {
-      "id": "5014823",
-      "time": "2026-07-29 22:38:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上半年有色金屬價格集體上漲，核心小金屬價格飆漲】7月29日，中國有色金屬工業協會發布上半年行業執行最新資料。上半年，我國有色金屬行業多項核心指標實現增長。協會相關負責人介紹，受全球人工智慧算力基礎設施建設加速帶動，上半年銅、鋁、錫、鉭、銦等相關有色金屬品種需求集中釋放，價格出現較大幅度上漲。今年1-6月，銅、鋁金屬價格分別上漲31.4%和18.8%，錫、鉭、銦三種核心小金屬漲幅分別突破40%、158%和60%。專家認為，當前宏觀層面及地緣局勢存在不確定性，市場情緒高度敏感。產業層面，需進一步提升產品適配能力、強化上下游供需對接，並且進行多元化佈局。（央視財經）"
-    },
-    {
-      "id": "5014822",
-      "time": "2026-07-29 22:38:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）庫存報告顯示美國上週原油庫存降幅超預期後，美國原油期貨與布倫特原油期貨漲幅進一步擴大。"
-    },
-    {
-      "id": "5014821",
-      "time": "2026-07-29 22:38:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署庫存報告顯示柴油庫存增幅超出市場預期，美國柴油期貨漲幅收窄。"
-    },
-    {
-      "id": "te:markets:570808",
-      "time": "2026-07-29 22:38:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall Further — US stocks extended losses on Wednesday amid further fragility for chip producers ahead of major tech earnings and the Federal Reserve rate decision. The S&P 500 fell 0.8% and the Nasdaq 100 fell 1%, while the Dow lost 800 points. Microsoft and Meta fell 0.5% ahead of their earnings reports after the bell, the latest bellwether for AI infrastructure spending. Concerns that AI capital expenditure is being overdone recently pressured magnificent seven stocks and triggered a selloff for chip producers that trimmed their surge late last quarter. Micron, Applied Materials, and Sandisk sank between 4% and 8% amid the pessimistic results by SK Hynix. Meanwhile, the Fed is expected to hold rates unchanged, although dissents for a hike could take place amid signs of a fractured FOMC. The Dow was pressured by a flareup in oil prices following fresh strikes between Iran and the US, adding to pro-inflationary risks. Visa rebounded and gained 1% after posting growth in revenue last quarter."
-    },
-    {
-      "id": "te:markets:570807",
-      "time": "2026-07-29 22:37:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Exxon Mobil Stock Price Hits 9-week High — Exxon Mobil shares increased to 158.72 USD, the highest since May 2026. Over the past 4 weeks, Exxon Mobil gained 16.49%, and in the last 12 months, it increased 40.41%."
-    },
-    {
-      "id": "5014820",
-      "time": "2026-07-29 22:36:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創香港公開發售認購倍數為16.84倍】7月29日，中際旭創釋出最終發售價及配發結果。最終發售價定為每股980港元，全球發售5,450萬股，所得款項淨額約528.91億港元。香港公開發售認購倍數為16.84倍，國際發售認購倍數為9.73倍。"
-    },
-    {
-      "id": "mkt:019fae4d-b32f-7aab-8eed-e812c2295b08",
-      "time": "2026-07-29 22:35:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "The EIA said U.S. Midwest refinery utilization surged to a record high."
-    },
-    {
-      "id": "te:economy:570806",
-      "time": "2026-07-29 22:35:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Crude Oil Inventories Fall More than Expected — Crude inventories in the US fell by 7.167 million barrels in the week ended July 24, compared with market expectations for a 1.3 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub fell by 771 thousand barrels in the week. Distillate stockpiles, which include diesel and heating oil, rose by 1.062 million barrels, above forecasts for a 0.2 million-barrel increase. Net US crude imports decreased by 237 thousand barrels per day."
-    },
-    {
-      "id": "5014819",
-      "time": "2026-07-29 22:35:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署：美國中西部煉油廠開工率飆升至歷史新高。"
-    },
-    {
-      "id": "mkt:019fae4c-4191-7aab-8eed-e2249ffbd1c3",
-      "time": "2026-07-29 22:34:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury says sanctions target an \"extortion network\" operating in Iran's Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:570804",
-      "time": "2026-07-29 22:34:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Caterpillar Stock Price Hits 14-week Low — Caterpillar shares decreased to 801.70 USD, the lowest since April 2026. Over the past 4 weeks, Caterpillar lost 24.45%, and in the last 12 months, it increased 85.31%."
-    },
-    {
-      "id": "mkt:019fae4b-ec1d-7aab-8eed-dfe351b7117d",
-      "time": "2026-07-29 22:33:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【WTI crude up as much as 7% intraday】WTI crude futures jumped as much as 7.0% intraday to $83.7/bbl; Brent crude up 6.5% at $87.3/bbl."
-    },
-    {
-      "id": "5014818",
-      "time": "2026-07-29 22:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，福斯托颶風已減弱為殘餘低壓區，截至今日夏威夷群島仍預計會出現明顯海浪。"
-    },
-    {
-      "id": "5014817",
-      "time": "2026-07-29 22:33:36",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：制裁目標指向伊朗的霍爾木茲海峽“勒索網路”。"
-    },
-    {
-      "id": "5014816",
-      "time": "2026-07-29 22:32:34",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：今日伊朗制裁針對藉助霍爾木茲海峽牟利的行為。"
-    },
-    {
-      "id": "mkt:019fae4a-303a-7aab-8eed-d4f8ff0536b2",
-      "time": "2026-07-29 22:32:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US Treasury: Today's sanctions on Iran target Hurmuz-related monetization activities."
-    },
-    {
-      "id": "mkt:019fae49-2f26-7aab-8eed-c8eea2383cc4",
-      "time": "2026-07-29 22:30:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Strategic Petroleum Reserve stocks for the week to July 24 were at their lowest level since the week of March 4, 1983, the EIA said."
-    },
-    {
-      "id": "mkt:019fae49-1ba4-7aab-8eed-c19901a7660f",
-      "time": "2026-07-29 22:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "For the week to July 24, U.S. EIA implied demand for distillate fuel oil was 5.3103 mln b/d, down from 5.3227 mln b/d the prior week."
-    },
-    {
-      "id": "mkt:019fae49-1a12-7aab-8eed-b8f8d786caff",
-      "time": "2026-07-29 22:30:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. commercial crude oil inventories excluding the Strategic Petroleum Reserve for the week ending July 24 were the lowest since the week of Sept. 28, 2018."
-    },
-    {
-      "id": "mkt:019fae49-18d0-7aab-8eed-b36f5096106c",
-      "time": "2026-07-29 22:30:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA report: U.S. Strategic Petroleum Reserve fell 3.797 mln bbl to 307.6 mln bbl in the week to July 24, a 1.22% decline."
-    },
-    {
-      "id": "mkt:019fae49-174d-7aab-8eed-aae2e5687ebb",
-      "time": "2026-07-29 22:30:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US EIA motor gasoline implied demand for the week to July 24: 9.9311 mln b/d, up from 9.7539 mln b/d."
-    },
-    {
-      "id": "mkt:019fae49-16a6-7aab-8eed-a313d0f75701",
-      "time": "2026-07-29 22:30:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. imports of finished petroleum products for the week to July 24 were 186,000 b/d, down from 280,000 b/d the prior week, EIA data showed."
-    },
-    {
-      "id": "5014815",
-      "time": "2026-07-29 22:30:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "EIA稱美國上週原油庫存下降717萬桶。"
-    },
-    {
-      "id": "mkt:019fae49-1564-7aab-8eed-9ff229e8ec0e",
-      "time": "2026-07-29 22:30:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "US EIA distillate inventories rose 1.062 mln barrels in the week to July 24; expected +146k, prior +1.395 mln."
-    },
-    {
-      "id": "mkt:019fae49-0160-7aab-8eed-9265a347423b",
-      "time": "2026-07-29 22:30:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "EIA: U.S. refinery utilization for the week to July 24 97.2% (consensus 95.9%, prior 96.1%)."
-    },
-    {
-      "id": "mkt:019fae48-ffe7-7aab-8eed-88a08cde6cc4",
-      "time": "2026-07-29 22:30:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US EIA gasoline inventories for the week to July 24 rose 7,000 barrels, versus a market-expected draw of 715,000 barrels and a prior-week build of 765,000 barrels."
-    },
-    {
-      "id": "mkt:019fae48-fe66-7aab-8eed-7f1eed8874db",
-      "time": "2026-07-29 22:30:42",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. EIA: crude volumes brought back online in week to July 24 +271,000 b/d, prior -58,000 b/d."
-    },
-    {
-      "id": "mkt:019fae48-ef67-7aab-8eed-7072159c9c3a",
-      "time": "2026-07-29 22:30:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Strategic Petroleum Reserve inventories fell 3.797 million barrels in the week to July 24, versus a 5.057 million-barrel draw the prior week, EIA data showed."
-    },
-    {
-      "id": "mkt:019fae48-eb2f-7aab-8eed-5e86d90deb71",
-      "time": "2026-07-29 22:30:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Jul.24) | actual 5310300M | previous 5322700M"
-    },
-    {
-      "id": "mkt:019fae48-ee12-7aab-8eed-6fdd05d4f1ee",
-      "time": "2026-07-29 22:30:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. EIA implied crude oil demand for the week ended July 24: 20.503 mln b/d, up from 19.317 mln b/d the prior week."
-    },
-    {
-      "id": "mkt:019fae48-ecc9-7aab-8eed-60807fdf8da3",
-      "time": "2026-07-29 22:30:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US EIA reformulated gasoline stocks change for week to July 24: 0 (10,000-barrel units); previous 0."
-    },
-    {
-      "id": "mkt:019fae48-ff0f-7aab-8eed-815d49e18d2f",
-      "time": "2026-07-29 22:30:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. EIA heating oil stocks rose 308,000 barrels in the week to July 24; prior rise 231,000 barrels."
-    },
-    {
-      "id": "mkt:019fae48-e0f3-7aab-8eed-57b1a322a88a",
-      "time": "2026-07-29 22:30:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. gasoline production, week to July 24 (EIA): 178,000 b/d, prior 60,000 b/d."
-    },
-    {
-      "id": "mkt:019fae48-e097-7aab-8eed-48639c5c5d02",
-      "time": "2026-07-29 22:30:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. EIA Cushing, Oklahoma crude stocks fell 771,000 barrels in the week to July 24, versus a 674,000-barrel draw the prior week."
-    },
-    {
-      "id": "mkt:019fae48-df00-7aab-8eed-46667e36d56f",
-      "time": "2026-07-29 22:30:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. EIA refined-product output change for week to July 24: +15,000 b/d; prior +90,000 b/d."
-    },
-    {
-      "id": "mkt:019fae48-c49f-7aab-8eed-2fed633c2170",
-      "time": "2026-07-29 22:30:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Jul.24) | actual 9931100M | previous 9753900M"
-    },
-    {
-      "id": "5014814",
-      "time": "2026-07-29 22:30:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至7月24日當週EIA俄克拉荷馬州庫欣原油庫存 -77.1萬桶，前值-67.4萬桶。美國至7月24日當週EIA原油庫存 -716.7萬桶，預期-127.2萬桶，前值201萬桶。美國至7月24日當週EIA戰略石油儲備庫存 -379.7萬桶，前值-505.7萬桶。"
-    },
-    {
-      "id": "mkt:019fae48-dde9-7aab-8eed-3b3153e27c9a",
-      "time": "2026-07-29 22:30:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. EIA crude oil imports for the week to July 24: -237,000 barrels; prior 485,000 barrels."
-    },
-    {
-      "id": "mkt:019fae48-c8be-7aab-8eed-361fd6b8c745",
-      "time": "2026-07-29 22:30:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. EIA weekly crude inventories fell 7.167 mln bbl in the week to July 24, versus a 1.272 mln bbl draw expected and a prior build of 2.01 mln bbl."
-    },
-    {
-      "id": "mkt:019fae48-9534-7aab-8eed-21232b62653b",
-      "time": "2026-07-29 22:30:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Crude Oil Implied Demand (Jul.24) | actual 20503000M | previous 19317000M"
-    },
-    {
-      "id": "mkt:019fae48-613f-7aab-8eed-1d9160083278",
-      "time": "2026-07-29 22:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Refinery Utilization Rates (Jul.24) | actual 97.2% | consensus 95.9% | previous 96.1%"
-    },
-    {
-      "id": "mkt:019fae48-60dd-7aab-8eed-1485d56df9c6",
-      "time": "2026-07-29 22:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.24) | actual -3797000M | previous -5057000M"
-    },
-    {
-      "id": "mkt:019fae48-4ea2-7aab-8eed-08d5dc953daa",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Petroleum Products Imports Change (Jul.24) | actual 186000M | previous 280000M"
-    },
-    {
-      "id": "mkt:019fae48-4e68-7aab-8eed-03b5f33a99a9",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Crude Oil Imports Change (Jul.24) | actual -237000M | previous 485000M"
-    },
-    {
-      "id": "mkt:019fae48-4e2b-7aab-8eec-fcf51d107708",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Heating Oil Stocks Change (Jul.24) | actual 308000M | previous 231000M"
-    },
-    {
-      "id": "mkt:019fae48-4d73-7aab-8eec-f005df744233",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Distillate Stocks Change (Jul.24) | actual 1062000M | consensus 146000M | previous 1395000M"
-    },
-    {
-      "id": "mkt:019fae48-4d50-7aab-8eec-ea118fdea2f1",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Distillate Production Change (Jul.24) | actual 15000M | previous 90000M"
-    },
-    {
-      "id": "mkt:019fae48-4cfc-7aab-8eec-e71fe52b3805",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Gasoline Production (Jul.24) | actual 178000M | previous 60000M"
-    },
-    {
-      "id": "mkt:019fae48-4ceb-7aab-8eec-dfc70b9b4d9d",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Jul.24) | actual 0M | previous 0M"
-    },
-    {
-      "id": "mkt:019fae48-4ce5-7aab-8eec-d37009e696a8",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Gasoline Stocks Change (Jul.24) | actual 7000M | consensus -715000M | previous 765000M"
-    },
-    {
-      "id": "mkt:019fae48-4ca6-7aab-8eec-c83e78523373",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA Weekly Crude Oil Input Into Refineries Change (Jul.24) | actual 271000M | previous -58000M"
-    },
-    {
-      "id": "mkt:019fae48-4c4c-7aab-8eec-c4a3ef297493",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Crude Oil Stocks Change (Jul.24) | actual -7167000M | consensus -1272000M | previous 2010000M"
-    },
-    {
-      "id": "mkt:019fae48-4c29-7aab-8eec-bc52680ee03d",
-      "time": "2026-07-29 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Cushing Crude Oil Stocks Change (Jul.24) | actual -771000M | previous -674000M"
-    },
-    {
-      "id": "5014813",
-      "time": "2026-07-29 22:29:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破85美元/桶，日內漲7.24%。"
-    },
-    {
-      "id": "mkt:019fae47-8171-7aab-8eec-b084f622dfac",
-      "time": "2026-07-29 22:29:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "SC crude main contract rose more than 5% intraday, last at 561.9 yuan/bbl; open interest increased by about 1,800 contracts on the day."
-    },
-    {
-      "id": "5014812",
-      "time": "2026-07-29 22:28:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "彭博使用者預計美國原油庫存將減少150萬桶。"
-    },
-    {
-      "id": "5014811",
-      "time": "2026-07-29 22:27:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲5%，現報561.70元。"
-    },
-    {
-      "id": "5014810",
-      "time": "2026-07-29 22:27:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "密歇根州衛生部門：截至 7 月 29 日，累計報告環孢子蟲病病例 10077 例。"
-    },
-    {
-      "id": "mkt:019fae45-0e6d-7aab-8eec-ac0874e61289",
-      "time": "2026-07-29 22:26:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "NVDA.O"
-      ],
-      "text": "Nasdaq-100 falls more than 1%; S&P 500 down 0.7%. NVIDIA (NVDA.O) falls over 3%."
-    },
-    {
-      "id": "te:markets:570803",
-      "time": "2026-07-29 22:26:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Nvidia Stock Price Hits 4-week Low — Nvidia shares decreased to 191.13 USD, the lowest since June 2026. Over the past 4 weeks, Nvidia Corporation lost 4.26%, and in the last 12 months, it increased 6.86%."
-    },
-    {
-      "id": "5014807",
-      "time": "2026-07-29 22:25:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納指跌超1％】納指跌1.02％，現報24623.710點；道指跌1.41％，現報52001.551點；標普500指數跌0.70％，現報7376.650點。"
-    },
-    {
-      "id": "mkt:019fae44-6df2-7aab-8eec-a2d93e905e85",
-      "time": "2026-07-29 22:25:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UAE and Egypt agreed to gradually expand air transport services between the two countries over the next five years, strengthening bilateral aviation cooperation and connectivity."
-    },
-    {
-      "id": "mkt:019fae44-6629-7aab-8eec-99e5aa28a1c3",
-      "time": "2026-07-29 22:25:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【ING: Dollar likely to track oil lower if Fed holds rates】ING said if the Fed holds rates on Wednesday the dollar is likely to come under pressure and fall with oil. The dollar spot index was nearly flat for a fourth session after appearing insulated from recent oil swings. On Wednesday the 60-day rolling correlation between the dollar spot index and Brent futures fell to its lowest since late March. ING strategist Francesco Pesole said a Fed hold should trigger precautionary dollar position unwinds, re-linking the currency to oil’s downward signals."
-    },
-    {
-      "id": "5014806",
-      "time": "2026-07-29 22:25:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股三大指數走低】美股三大指數走低，截至目前，道瓊斯指數跌1.37%，標普500指數跌0.64%，納斯達克綜合指數跌0.86%。"
-    },
-    {
-      "id": "5014805",
-      "time": "2026-07-29 22:23:19",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "市場訊息：高盛集團擬收購萊茵集團旗下 DCE 業務板塊，交易條款暫未披露。"
-    },
-    {
-      "id": "5014804",
-      "time": "2026-07-29 22:21:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦羅布斯塔咖啡期貨<LRCC1>下跌逾3%，至每公噸3,749美元。"
-    },
-    {
-      "id": "5014803",
-      "time": "2026-07-29 22:21:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長就美國擬對俄羅斯能源買家徵收最高100%關稅的新法案表態：不對猜測性訊息置評。"
-    },
-    {
-      "id": "mkt:019fae40-8085-7aab-8eec-95c2a6de4ff0",
-      "time": "2026-07-29 22:21:30",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "India's commerce minister declined to comment on speculation about a proposed US bill to impose a tariff of up to 100% on buyers of Russian energy."
-    },
-    {
-      "id": "mkt:019fae40-7f7f-7aab-8eec-8caeec6080fe",
-      "time": "2026-07-29 22:21:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Musk's X settles long-running legal dispute with advertisers】Elon Musk's social platform X and a group of advertisers including Mars, Shell, Nestle and Lego have reached a settlement, ending a multi-year legal dispute. X Corp sued those brands and the World Federation of Advertisers in 2024, alleging they conspired to divert \"billions of dollars\" in ad spend away from X; the advertisers denied the claims, saying brands have the right to choose ad placements. The settlement closes one of Musk's most aggressive legal actions in the ad industry. X's advertising revenue has fallen sharply since Musk's $44 billion takeover of Twitter in 2022."
-    },
-    {
-      "id": "5014802",
-      "time": "2026-07-29 22:20:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：中際旭創香港發售超額認購倍數達 16.84 倍。"
-    },
-    {
-      "id": "5014801",
-      "time": "2026-07-29 22:20:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：印度4月至7月商品出口同比增長近15%。"
-    },
-    {
-      "id": "mkt:019fae3f-5d23-7aab-8eec-86054cb97a22",
-      "time": "2026-07-29 22:20:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "India's trade minister said merchandise exports rose nearly 15% in April-July."
-    },
-    {
-      "id": "5014800",
-      "time": "2026-07-29 22:20:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡期貨<KCC1>跌幅超3.5%，報每磅3.2670美元。"
-    },
-    {
-      "id": "mkt:019fae3f-3160-7aab-8eec-78cf988d6b41",
-      "time": "2026-07-29 22:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "U.S. EIA weekly crude oil inventories, Cushing crude stocks and Strategic Petroleum Reserve data for the week to July 24 are due in 10 minutes."
-    },
-    {
-      "id": "5014799",
-      "time": "2026-07-29 22:20:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數下跌0.6%，納斯達克指數下跌0.8%。"
-    },
-    {
-      "id": "mkt:019fae3e-e4b1-7aab-8eec-756e0b6bc1ee",
-      "time": "2026-07-29 22:19:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Hyundai Motor top executive says the company will manufacture and sell a battery-electric vehicle in Mexico."
-    },
-    {
-      "id": "mkt:019fae3e-7fc3-7aab-8eec-6f58bc37867f",
-      "time": "2026-07-29 22:19:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's trade minister said he is confident that, once the US secures a competitive edge over other economies, the agreement struck with the US in February will take effect immediately."
-    },
-    {
-      "id": "5014798",
-      "time": "2026-07-29 22:18:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【臺積電：熊本晶圓廠的恢復需要一定時間】臺積電表示，日本熊本地區發生7級地震後，其當地工廠的檢查和裝置校準工作預計需要一段時間。臺積電週三在宣告中稱，公司目前正在檢查裝置並開展恢復工作。廠區供水、供電和安全系統均正常執行。臺積電已調配資源支援日本業務，原材料供應也在繼續。震後檢查確認廠房建築結構安全。臺積電還表示，第二座工廠的施工現場未受影響，完成檢查後，建設工程已於週三恢復。"
-    },
-    {
-      "id": "5014797",
-      "time": "2026-07-29 22:18:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長表示：我們有信心，今年2月與美國敲定的相關協議將盡快落地實施，前提是美方能夠保障自身相較其他競爭經濟體具備競爭優勢。"
-    },
-    {
-      "id": "5014796",
-      "time": "2026-07-29 22:16:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度貿易部長：預計歐盟-印度自由貿易協定將於明年第一季度正式生效。"
-    },
-    {
-      "id": "5014795",
-      "time": "2026-07-29 22:14:34",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【7月29日增減持彙總（表）】7月29日盤後，據不完全統計，中科通達、方正閥門等2家A股公司披露擬減持情況，兆易創新披露擬增持情況。"
-    },
-    {
-      "id": "5014794",
-      "time": "2026-07-29 22:14:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈大地產：2026年上半年收入5.93億港元，股東應占虧損1.89億港元】盈大地產公告，截至2026年6月30日止六個月，綜合收入5.93億港元，同比減少7%；本公司股東應占虧損為1.89億港元，上年同期虧損2.49億港元。每股基本虧損9.28港分。董事會不宣派中期股息。"
-    },
-    {
-      "id": "5014793",
-      "time": "2026-07-29 22:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海制定測繪地理資訊條例，規範智慧網聯汽車等測繪活動】7月29日，上海市第十六屆人民代表大會常務委員會第三十二次會議表決透過《上海市測繪地理資訊條例》（以下簡稱《條例》），《條例》將自2026年10月1日起施行。上海市人大常委會法工委主任閻銳表示，測繪是支撐經濟社會發展、服務國防建設、保障國家安全的重要基礎性工作。《中華人民共和國測繪法》及相關行政法規對開展測繪活動的基本要求作了詳細規定，《條例》在上位法規定的基礎上，進一步明確相關要求。透過地方立法，上海將進一步規範測繪活動，強化地理資訊應用與安全監管，為促進測繪地理資訊事業高質量發展，更好統籌發展和安全提供有力法治保障。"
-    },
-    {
-      "id": "te:markets:570802",
-      "time": "2026-07-29 22:13:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The United States Stock Market Index (US500) Hit 4-week Low — US500 decreased to 7374.00 Index Points, the lowest since June 2026. Over the past 4 weeks, United States Stock Market Index (US500) lost 1.66%, and in the last 12 months, it increased 15.91%."
-    },
-    {
-      "id": "5014792",
-      "time": "2026-07-29 22:12:53",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "莫三比克央行維持MIMO利率不變，保持在9.25%。"
-    },
-    {
-      "id": "5014791",
-      "time": "2026-07-29 22:11:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：埃隆·馬斯克與X平臺廣告商達成和解，終結曠日持久的法律糾紛。"
-    },
-    {
-      "id": "5014790",
-      "time": "2026-07-29 22:09:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部官網：美國在涉伊朗行動中對八艘油輪、十個實體實施制裁。"
-    },
-    {
-      "id": "5014789",
-      "time": "2026-07-29 22:08:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4000美元/盎司，日內跌0.72%。"
-    },
-    {
-      "id": "5014788",
-      "time": "2026-07-29 22:08:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其銀行業主要股指<.XBANK>下跌3%。"
-    },
-    {
-      "id": "5014787",
-      "time": "2026-07-29 22:07:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國以關聯伊朗為由對多艘油輪實施制裁。"
-    },
-    {
-      "id": "5014786",
-      "time": "2026-07-29 22:06:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：美國公佈伊朗相關制裁。"
-    },
-    {
-      "id": "5014785",
-      "time": "2026-07-29 22:06:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福特汽車美股漲超7%】福特汽車美股漲超7%，公司二季度調整後每股收益達0.42美元，高於市場預期。"
-    },
-    {
-      "id": "5014784",
-      "time": "2026-07-29 22:06:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "MEEZA ：額外資金將使MEEZA能夠加速新資料中心容量的交付。"
-    },
-    {
-      "id": "te:markets:570801",
-      "time": "2026-07-29 22:05:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "TD Bank Stock Price Hits 6-week Low — TD Bank shares decreased to 166.29 CAD, the lowest since June 2026. Over the past 4 weeks, TD Bank lost 3.33%, and in the last 12 months, it increased 63.75%."
-    },
-    {
-      "id": "5014783",
-      "time": "2026-07-29 22:04:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【托爾斯滕·弗賴當選德國聯盟黨議會黨團主席】當地時間7月29日，德國聯邦議院聯盟黨議會黨團舉行特別會議，選舉基民盟政治家托爾斯滕·弗賴為新任黨團主席，接替此前辭職的延斯·施潘。現年52歲的弗賴此前擔任德國總理府部長。他自2013年起擔任聯邦議院議員，並曾任聯盟黨議會黨團議會事務幹事。隨著弗賴當選，默茨近期涉及政府、黨內和議會黨團的一系列人事調整已基本完成。（央視新聞）"
-    },
-    {
-      "id": "5014782",
-      "time": "2026-07-29 22:04:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上海釋出戶外廣告內容合規指引：住宅電梯夜間時段原則上不得播放有聲廣告】上海市市場監管局29日製定釋出《上海市戶外廣告發布內容合規指引》。針對住宅小區電梯轎廂、電梯等候區等場景，《合規指引》要求加強廣告內容和播放時段管理，減少不適宜未成年人接觸的廣告發布；同時合理控制廣告播放頻率、單次時長、內容切換節奏以及音量、亮度等，避免高頻迴圈、長時間連續播放以及噪聲擾民、光汙染等問題。住宅電梯夜間時段原則上不得播放有聲廣告。"
-    },
-    {
-      "id": "5014781",
-      "time": "2026-07-29 22:04:15",
-      "tags": [
-        "資料"
-      ],
-      "text": "哥倫比亞6月工業信心指數為-0.1。"
-    },
-    {
-      "id": "5014780",
-      "time": "2026-07-29 22:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智駕“小藍燈”相關國標已啟動制修訂】7月29日，中國汽車標準化研究院發文稱，當下多款搭載駕駛輔助“小藍燈”的車型存在燈光濫用問題，夜間藍光易造成眩光，干擾其他駕駛員判斷；同時該類車輛易遭近距離跟車、惡意加塞，提升道路通行風險。該文表示，現行GB 4785—2019未對智駕外部藍燈作出明確規定，按標準原則，車輛不可加裝法規未定義的外部光訊號裝置。國際相關工作組對該類指示燈利弊仍存爭議。全國汽車標準化技術委員會正在主管部門指導下，開展GB 4785《汽車及掛車外部照明和光訊號裝置的安裝要求》標準制修訂，同時配合開展加強“激進式”產品創新設計准入審查和測試驗證管理相關工作，進一步規範車輛燈具安裝使用，提升汽車產品安全效能。"
-    },
-    {
-      "id": "te:markets:570800",
-      "time": "2026-07-29 22:03:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Israel",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Teva Pharmaceutical Industries earnings below expectations at 0.06 USD — Teva Pharmaceutical Industries (TEVA) released earnings per share at 0.06 USD, compared to market expectations of 1.83 USD."
-    },
-    {
-      "id": "5014779",
-      "time": "2026-07-29 22:03:42",
-      "tags": [
-        "資料"
-      ],
-      "text": "哥倫比亞6月零售信心指數為28.6。"
-    },
-    {
-      "id": "5014778",
-      "time": "2026-07-29 22:03:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4060美元/盎司，日內跌0.94%。"
-    },
-    {
-      "id": "5014777",
-      "time": "2026-07-29 22:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯前主席：我絕不會考慮這種舉動；我對這個想法感到震驚。"
-    },
-    {
-      "id": "5014776",
-      "time": "2026-07-29 22:03:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "前國際足聯主席：國際足聯是世界盃的守護者，而非所有者。"
-    },
-    {
-      "id": "5014775",
-      "time": "2026-07-29 22:03:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "前國際足聯主席表示：世界盃並非屬於少數高管掌控的商業資產。"
-    },
-    {
-      "id": "te:markets:570799",
-      "time": "2026-07-29 22:03:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls to 4-Week Low — The Baltic dry index fell 1.2% to 2,632 on Wednesday, its lowest in four weeks. The capesize index, which typically transports 150,000 ton cargoes, including iron ore and coal declined 1.8% to 4,067, its lowest since July 21. Also, the supramax index decreased 1.2% to 1,628, its lowest level since June 10. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.4% to 1,995."
-    },
-    {
-      "id": "5014774",
-      "time": "2026-07-29 22:02:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：國際足聯前主批評國際足聯擬向外部投資者出售世界盃相關股權的計劃。"
-    },
-    {
-      "id": "5014773",
-      "time": "2026-07-29 22:01:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用動力預測本財年每股收益區間為 16.80 至 16.90 美元，市場預期 16.72 美元。"
-    },
-    {
-      "id": "5014772",
-      "time": "2026-07-29 22:01:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息： 美國電話電報公司無線寬頻業務使用者數突破 200 萬。"
-    },
-    {
-      "id": "5014771",
-      "time": "2026-07-29 22:00:27",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委：突出抓好企業科技創新能力提升，加強關鍵核心技術協同攻關】7月28日至29日，國務院國資委在京舉辦地方國資委負責人研討班，總結工作，交流經驗，研究部署下半年任務。會議強調，紮實做好下半年國資國企工作，要以制定實施“十五五”規劃和推進新一輪國資國企改革為總抓手，高標準謀劃推動下半年工作。要突出抓好高質量的穩增長，持續強化提質增效、擴大有效投資，帶動上下游企業協同發展，助力築牢國家經濟和產業安全屏障；突出抓好企業科技創新能力提升，加強關鍵核心技術協同攻關，抓好科技成果轉化應用，完善支援科技創新的體制機制，不斷提高產業鏈供應鏈安全水平；突出抓好國有經濟佈局最佳化和結構調整，深入研究形勢、市場、行業，推動傳統產業轉型升級，因地制宜打造新興支柱產業，高質量推進重組整合、資源盤活，加快推動國有資本“三個集中”；突出抓好新一輪國資國企改革實施，堅持先立後破、不立不破，使國有企業佈局結構、組織架構、管理體系、人才激勵等更好適應新質生產力發展需要；突出抓好國資監管效能提升，完善管理監督體制機制，推行國有企業精準分類考核評價，加快推進穿透式監管，提升監管的科學性、有效性、針對性；突出抓好重大風險防範化解，緊盯重點領域、重點環節，毫不鬆懈抓好重大風險隱患防範化解，築牢高質量發展安全屏障。"
-    },
-    {
-      "id": "5014770",
-      "time": "2026-07-29 21:59:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【費城半導體指數跌2%】費城半導體指數跌2%，報10796.47點。閃迪跌超6%，鎧俠ADR跌超7%，美光科技跌超2%，SK海力士跌近2%。"
-    },
-    {
-      "id": "5014769",
-      "time": "2026-07-29 21:59:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "VF集團股價下跌19%，創下自2025年4月以來最大單日跌幅。"
-    },
-    {
-      "id": "5014768",
-      "time": "2026-07-29 21:58:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀下調康寧目標價至196美元，此前為228美元。"
-    },
-    {
-      "id": "5014767",
-      "time": "2026-07-29 21:58:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀將貝寶控股公司目標股價從48美元上調至61美元。"
-    },
-    {
-      "id": "5014766",
-      "time": "2026-07-29 21:55:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "費城半導體指數連續第五個交易日收跌，最新跌幅 1.8%。"
-    },
-    {
-      "id": "5014765",
-      "time": "2026-07-29 21:55:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情持續傳播】剛果（金）衛生部29日釋出的疫情報告顯示，該國累計報告埃博拉確診病例超過3300例，疫情仍處於持續傳播階段。此外，剛果（金）國家生物醫學研究所日前啟動一項針對埃博拉高風險接觸者的臨床試驗，評估候選藥物用於暴露後預防的安全性和有效性。報告顯示，截至27日，該國累計報告埃博拉確診病例3360例，其中死亡1487例。累計治癒病例597例，另有733名患者處於隔離狀態。（央視新聞）"
-    },
-    {
-      "id": "5014764",
-      "time": "2026-07-29 21:55:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌2%，現報947.00元。"
-    },
-    {
-      "id": "5014763",
-      "time": "2026-07-29 21:53:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國官員：超4億非洲人仍缺乏基本飲用水】聯合國副秘書長兼非洲經濟委員會執行秘書克拉韋爾·加泰特日前表示，當前超4億非洲人仍然缺乏基本飲用水，而整個非洲大陸仍有超7億人缺乏良好的衛生設施。（央視新聞）"
-    },
-    {
-      "id": "5014762",
-      "time": "2026-07-29 21:51:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克總理辦公室表示，伊拉克敦促各方避免局勢升級，稱希望讓國家遠離地區衝突。"
-    },
-    {
-      "id": "5014761",
-      "time": "2026-07-29 21:51:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息： 美國參議員沃倫敦促美國證券交易委員會調查特朗普媒體集團出售 Truth API 資料介面的計劃。"
-    },
-    {
-      "id": "5014760",
-      "time": "2026-07-29 21:51:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：加拿大交通部將16億加元合同授予Stadler，用於採購45臺新機車。"
-    },
-    {
-      "id": "5014759",
-      "time": "2026-07-29 21:51:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊拉克安全委員會指示外交部就美國和沙特的襲擊採取法律行動。"
-    },
-    {
-      "id": "5014758",
-      "time": "2026-07-29 21:51:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指跌1.03%，現報52205.988點；納指跌0.39%，現報24780.429點；標普500指數跌0.29%，現報7407.420點。"
-    },
-    {
-      "id": "te:markets:570798",
-      "time": "2026-07-29 21:50:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Morgan Stanley Stock Price Hits 4-week Low — Morgan Stanley shares decreased to 207.14 USD, the lowest since July 2026. Over the past 4 weeks, Morgan Stanley lost 2.06%, and in the last 12 months, it increased 44.43%."
-    },
-    {
-      "id": "5014757",
-      "time": "2026-07-29 21:50:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國汽車標準化技術委員會正開展相關工作規範汽車燈光安裝使用】29日從中國汽車標準化研究院獲悉，全國汽車標準化技術委員會正在主管部門指導下，開展GB4785《汽車及掛車外部照明和光訊號裝置的安裝要求》標準制修訂，同時配合開展加強“激進式”產品創新設計准入審查和測試驗證管理相關工作，進一步規範車輛燈具安裝使用，提升汽車產品安全效能。據介紹，當前部分車輛產品安裝使用“小藍燈”，向其他道路參與者顯示本車駕駛輔助系統處於工作狀態。但當前“小藍燈”存在燈光濫用情況，易引發安全風險。夜間開啟的“小藍燈”容易讓其他道路參與者產生眩光，觀感刺眼，特別是干擾周邊駕駛員對路況的判斷；帶有該指示燈的車輛更容易被其他車主藉機加塞、近距離跟車，增加路面通行風險。（新華財經）"
-    },
-    {
-      "id": "5014756",
-      "time": "2026-07-29 21:50:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【“電報”創始人被全球通緝】俄羅斯聯邦安全域性7月29日釋出宣告，尋求逮捕社交媒體“電報”創始人、執行長帕維爾·杜羅夫，他因涉嫌協助恐怖活動受到刑事指控，被列入全球通緝名單。俄聯邦安全域性在宣告中說，烏克蘭情報部門利用“電報”平臺的頻道、聊天工具密謀在俄羅斯境內搞破壞、支援恐怖主義活動、謀殺及網路詐騙，導致重大人員傷亡及數十億美元財產損失，而“電報”管理方沒有刪除上述頻道和聊天工具。依據俄羅斯刑法，對杜羅夫提起刑事指控並把他列入全球通緝名單。暫不清楚俄方簽發了何種通緝令以及其他國家的執法機構是否會配合，國際刑事警察組織的公開資料庫裡暫時沒有杜羅夫的名字。烏克蘭也沒有就俄聯邦安全域性的宣告發聲。（新華社）"
-    },
-    {
-      "id": "5014755",
-      "time": "2026-07-29 21:49:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "FLEX有限公司股價在公佈第一季度業績後下跌5%。"
-    },
-    {
-      "id": "5014754",
-      "time": "2026-07-29 21:48:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【蘋果股價上漲0.8%】蘋果股價上漲0.8%，報342.800美元/股，總市值報5.03萬億美元。"
-    },
-    {
-      "id": "5014753",
-      "time": "2026-07-29 21:47:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國上市公司Garmin股價在業績公佈後觸及紀錄高位，最新上漲15.9%。"
-    },
-    {
-      "id": "5014752",
-      "time": "2026-07-29 21:47:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲4%，現報5083.00元。"
-    },
-    {
-      "id": "5014751",
-      "time": "2026-07-29 21:46:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基請求美緊急提供300枚“愛國者”攔截彈】據美國阿克西奧斯新聞網站29日報道，烏克蘭總統澤連斯基28日在接受該媒體採訪時稱，為抵禦俄羅斯針對烏能源基礎設施的攻擊，他已請求美國總統特朗普緊急提供包括300枚“愛國者”防空系統攔截彈在內的“冬季援助”。澤連斯基表示，他在美國出訪期間向特朗普提出上述請求，因為烏克蘭現有的防空系統攔截彈庫存幾乎耗盡，如果冬季到來前無法補充，俄羅斯的導彈襲擊可能會摧毀烏克蘭的電力設施，烏克蘭人的供暖會受到影響。（新華社）"
-    },
-    {
-      "id": "5014750",
-      "time": "2026-07-29 21:44:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士透露，阿聯酋阿布扎比國家石油公司在最新招標中向亞洲煉油商上調原油售價。"
-    },
-    {
-      "id": "te:markets:570797",
-      "time": "2026-07-29 21:44:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Goldman Sachs Stock Price Hits 4-week Low — Goldman Sachs shares decreased to 1009.00 USD, the lowest since July 2026. Over the past 4 weeks, Goldman Sachs lost 0.93%, and in the last 12 months, it increased 38.09%."
-    },
-    {
-      "id": "5014749",
-      "time": "2026-07-29 21:41:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國內政部訊息人士稱，法國已向俄羅斯媒體人士克謝尼婭·費奧多羅娃釋出驅逐令。"
-    },
-    {
-      "id": "5014748",
-      "time": "2026-07-29 21:41:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：07月29日21時19分在日本九州島附近海域（北緯32.45度，東經130.45度）發生5.3級地震，震源深度10千米。"
-    },
-    {
-      "id": "te:markets:570796",
-      "time": "2026-07-29 21:40:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.84% Lower — The Dow Jones Index is dropping 441 points. Leading the losses are P&G (-4.07%), Sherwin-Williams (-3.57%) and Caterpillar (-3.33%). Top gainers were Chevron (2.50%), Coca-Cola (1.82%) and Travelers Companies (1.55%)."
-    },
-    {
-      "id": "mkt:019fae1a-6cab-7aab-8eeb-b285da701e31",
-      "time": "2026-07-29 21:39:55",
-      "tags": [
-        "MKT News",
-        "PYPL.O",
-        "Impact bullish"
-      ],
-      "text": "Macquarie raises PayPal (PYPL.O) PT to $62 from $50."
-    },
-    {
-      "id": "5014747",
-      "time": "2026-07-29 21:39:43",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【蘇州上半年簽約億元以上專案1594個】據蘇州市發改委訊息，2026年上半年，蘇州市億元以上專案已簽約1594個，計劃總投資5405億元。其中，產業專案1589個，佔比超過99%；專案備案率、開工率、納統入庫率、投產投用率分別達到33%、50%、18%、25%。"
-    },
-    {
-      "id": "mkt:019fae1a-152d-7aab-8eeb-abf12be70b30",
-      "time": "2026-07-29 21:39:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Suzhou signs 1,594 projects ≥100 mln yuan in 1H 2026; planned investment 540.5 bln yuan】Suzhou Development and Reform Commission said Suzhou signed 1,594 projects with planned investment ≥100 mln yuan in 1H 2026, totaling 540.5 bln yuan. 1,589 projects (over 99%) are industrial. Project filing rate 33%, construction start rate 50%, statistical inclusion rate 18%, production/utilization rate 25%."
-    },
-    {
-      "id": "5014746",
-      "time": "2026-07-29 21:39:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "TESCO：透過約200名農戶簽訂新的三年合同，加強TESCO可持續牛肉集團。"
-    },
-    {
-      "id": "5014745",
-      "time": "2026-07-29 21:38:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國或將要求部分駐中東部隊交出手機。"
-    },
-    {
-      "id": "te:markets:570795",
-      "time": "2026-07-29 21:38:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Waver on Wednesday — US stock indices fell on Wednesday amid further fragility for chip producers ahead of major tech earnings and the Federal Reserve rate decision. The S&P 500 and the Dow edged lower, while the Dow lost over 400 points to halt its recent outperformance. Microsoft and Meta fell over 0.5% ahead of their earnings reports after the bell, the latest bellwether for AI infrastructure spending. Concerns that AI capital expenditure is being overdone recently pressured magnificent seven stocks and triggered a selloff for chip producers that trimmed their surge late last quarter. Still, memory producers were relatively steady despite pessimistic earnings by SK Hynix. Meanwhile, the Fed is expected to hold rates unchanged, although dissents for a hike could take place amid signs of a fractured FOMC. The Dow was pressured by a flareup in oil prices following fresh strikes between Iran and the US, adding to pro-inflationary risks. Visa traded 1% down despite posting growth in revenue last quarter."
-    },
-    {
-      "id": "mkt:019fae18-a6a5-7aab-8eeb-a2b200ddd6d5",
-      "time": "2026-07-29 21:37:58",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bullish"
-      ],
-      "text": "【Trump to unveil $22 billion Dulles Airport rebuild plan】President Trump plans to unveil a $22 billion rebuild of Washington Dulles Airport, according to people familiar with the matter. The plan will be announced at the White House alongside United Airlines (UAL.O) CEO Scott Kirby and Transportation Secretary Sean Duffy. The proposal includes construction of four new terminals and represents a federal commitment to a comprehensive overhaul of the capital region’s main international gateway. Duffy had confirmed in May that the federal government plans to spend $22 billion on a Dulles renovation. The White House and United Airlines did not immediately comment."
-    },
-    {
-      "id": "5014744",
-      "time": "2026-07-29 21:37:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明略科技－Ｗ：擬以8.59億元收購普聯軟體19.07%股份並變更募資用途】明略科技－Ｗ公告，公司間接全資附屬公司北京明略昭輝科技有限公司與16名賣方訂立股份轉讓協議，擬以總現金代價人民幣8.59億元（每股人民幣11.38元）收購普聯軟體7547.39萬股股份，佔其已發行股本約19.07%。完成後，買方將成為普聯軟體控股股東。同時，董事會決議將全球發售所得款項淨額中合計人民幣4.5億元的未動用款項，從技術研發等用途重新分配至戰略性投資與併購。"
-    },
-    {
-      "id": "5014743",
-      "time": "2026-07-29 21:37:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "IDEX股價觸及20個月高位，此前公司上調財年展望且第二季業績超預期，最新上漲5%。"
-    },
-    {
-      "id": "5014742",
-      "time": "2026-07-29 21:37:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "MASCO CORP股價下跌10%，此前第二季度營收不及預期。"
-    },
-    {
-      "id": "5014741",
-      "time": "2026-07-29 21:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將可口可樂目標價從95美元上調至100美元。"
-    },
-    {
-      "id": "mkt:019fae17-5649-7aab-8eeb-9adbc50e5dce",
-      "time": "2026-07-29 21:36:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index falls to four-week low as Capesize and Supramax rates slide】The Baltic Dry Index fell 32 points (-1.2%) to 2,632 on Wednesday, its lowest since July 1, after drops in Capesize and Supramax rates offset a Panamax rise. The Capesize index slid 73 points (1.8%) to 4,067, its weakest since July 21; Capesize daily earnings fell $664 to $33,384. The Panamax index rose 7 points (0.4%) to 1,995, its first gain since July 15; Panamax daily earnings rose $57 to $17,953. The Supramax index dropped 20 points (1.2%) to 1,628, its lowest since June 10."
-    },
-    {
-      "id": "5014740",
-      "time": "2026-07-29 21:36:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股能源股走高，西方石油(OXY.N)漲超4%，阿帕奇石油(APA.N)漲近4%，康菲石油(COP.N)漲3.5%。"
-    },
-    {
-      "id": "mkt:019fae17-0f6f-7aab-8eeb-96df8ae30f92",
-      "time": "2026-07-29 21:36:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "OXY.N",
-        "Impact bullish",
-        "APA.N",
-        "COP.N"
-      ],
-      "text": "U.S. energy stocks rose; Occidental Petroleum (OXY.N) climbed more than 4%, Apache (APA.N) rose nearly 4% and ConocoPhillips (COP.N) gained 3.5%."
-    },
-    {
-      "id": "5014739",
-      "time": "2026-07-29 21:35:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓南部連續發生兩次5級以上地震】據菲律賓火山地震研究所訊息，當地時間29日，菲律賓南部連續發生兩次5級以上地震。（央視新聞）"
-    },
-    {
-      "id": "5014738",
-      "time": "2026-07-29 21:35:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "同業金佰利、高露潔棕欖、高樂氏股價下跌約2%。"
-    },
-    {
-      "id": "5014737",
-      "time": "2026-07-29 21:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【駐日本大使館提醒中國公民注意防範地震災害】7月28日16時27分，日本熊本縣發生里氏7.1級地震，12小時內發生餘震超148次，造成重大人員傷亡。日本氣象廳呼籲一週內注意防範同等規模強震。中國駐日本大使館提醒中國公民妥善安排行程，避免前往受災地區，切實提高自我保護意識，加強自身安全防範。密切關注地震動態、氣象預警和防災資訊，遵循當地政府釋出的預防、避難指令，謹防餘震及次生災害。如遇緊急情況，請及時報警並聯系駐日本使領館求助。（中國駐日本大使館）"
-    },
-    {
-      "id": "5014736",
-      "time": "2026-07-29 21:34:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "義大利芬坎蒂尼集團股票在暫停交易後恢復交易，上漲1.4%。"
-    },
-    {
-      "id": "5014735",
-      "time": "2026-07-29 21:34:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CBIZ股價大漲16.5%，此前Grant Thornton Advisors同意以50億美元收購該公司。"
-    },
-    {
-      "id": "te:economy:570794",
-      "time": "2026-07-29 21:34:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Inflation Expectations",
-        "Importance 0"
-      ],
-      "text": "UK Inflation Expectations Fall to 5-Month Low in July — UK households' one-year-ahead inflation expectations declined to 3.4% in July 2026 from 3.8% in June, marking the lowest reading since February and extending the retreat from the March high of 5.4% following the initial US strikes on Iran. Longer-term expectations also moderated, easing to 3.7% from 3.9%. Inflation expectations have now largely retraced the Iran war-related spike, despite the recent resurgence in global oil and gas prices."
-    },
-    {
-      "id": "5014734",
-      "time": "2026-07-29 21:34:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗將遭“痛擊” 不排除繼續打擊其地區代理人】當地時間7月29日，美國總統特朗普接受採訪時表示，在伊朗向美軍發動導彈襲擊後，美國將進行報復。特朗普稱，美國將“狠狠打擊”伊朗，伊朗將遭到“痛擊”。特朗普還表示，並未排除進一步打擊伊朗在該地區代理人的可能性。伊拉克什葉派民兵武裝“人民動員組織”29日發表宣告說，該組織位於伊拉克多地的基地當天清晨遭美國和沙烏地阿拉伯軍隊襲擊，造成至少20人死亡、32人受傷。美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙特軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。（央視新聞）"
-    },
-    {
-      "id": "5014733",
-      "time": "2026-07-29 21:34:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "FORTREA HOLDINGS股價在第二季度業績公佈後下跌2.7%。"
-    },
-    {
-      "id": "5014732",
-      "time": "2026-07-29 21:33:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Garmin股價上漲3.9%，此前公司上調全年利潤與營收預測。"
-    },
-    {
-      "id": "5014731",
-      "time": "2026-07-29 21:33:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫諾克斯股價開盤下跌13%，創2008年以來最大跌幅。"
-    },
-    {
-      "id": "te:markets:570793",
-      "time": "2026-07-29 21:33:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "ADP earnings above expectations at 2.64 USD — ADP (ADP) released earnings per share at 2.64 USD, compared to market expectations of 2.59 USD."
-    },
-    {
-      "id": "mkt:019fae14-86e6-7aab-8eeb-8b0f8e81ecfd",
-      "time": "2026-07-29 21:33:28",
-      "tags": [
-        "MKT News",
-        "PG.N",
-        "Impact bearish"
-      ],
-      "text": "Procter & Gamble (PG.N) fell as much as 5.8% intraday, its largest drop since July 2024."
-    },
-    {
-      "id": "5014730",
-      "time": "2026-07-29 21:33:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "SOFI TECHNOLOGIES 公佈第二季度業績後股價下跌 9%。"
-    },
-    {
-      "id": "5014729",
-      "time": "2026-07-29 21:33:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "檸檬水保險第二季度財報釋出後股價大跌 22%；尼克・斯特德將接替蒂姆・比克斯比出任首席財務官。"
-    },
-    {
-      "id": "5014728",
-      "time": "2026-07-29 21:32:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "寶潔公司股價下跌幅度高達5.8%，創2024年7月以來最大跌幅。"
     }
   ]
 }
