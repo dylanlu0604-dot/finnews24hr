@@ -1,7 +1,51 @@
 {
   "date": "2026-08-05",
-  "count": 1444,
+  "count": 1449,
   "items": [
+    {
+      "id": "mkt:019fd072-c241-7aab-8f82-649ed8da9dea",
+      "time": "2026-08-05 13:43:29",
+      "tags": [
+        "MKT News",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "【Infineon Q4 revenue guidance beats estimates; AI data-center chip demand stays strong】Infineon said on Wednesday it expects revenue for the fiscal fourth quarter ended September of about €4.7 bln (US$5.4 bln), versus analysts' average forecast of €4.6 bln, driven by stronger demand and higher pricing for data-center chips. CEO Jochen Hanebeck said demand for power solutions serving AI data centers remains robust and will continue to be the company’s primary growth driver. The upbeat guidance could ease concerns about the sustainability of the AI spending surge and competitive pressure. Investors have recently sold off chip names despite rivals Texas Instruments, STMicroelectronics and NXP Semiconductors raising profit forecasts; Infineon shares are up 69% year-to-date."
+    },
+    {
+      "id": "mkt:019fd072-1b1a-7aab-8f82-5db9e766d3da",
+      "time": "2026-08-05 13:42:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Taihao Software, China's CPU maker Haiguang sign strategic cooperation to accelerate domestic compute–energy integration】Taihao Software and China's CPU maker Haiguang signed a strategic cooperation agreement to accelerate deployment of domestically produced compute in the energy sector. The pair will focus on technology cooperation, ecosystem coordination and implementation, aiming to integrate domestic compute with energy operations and develop independently controllable, secure digital solutions for the energy industry."
+    },
+    {
+      "id": "5026069",
+      "time": "2026-08-05 13:42:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份在江蘇成立高分子材料公司】企查查APP顯示，近日，中研拓普高分子材料（江蘇）有限公司成立，經營範圍包含工程塑膠及合成樹脂製造；工程塑膠及合成樹脂銷售；化工產品生產（不含許可類化工產品）等。企查查股權穿透顯示，該公司由中研股份(688716)全資持股。"
+    },
+    {
+      "id": "5026068",
+      "time": "2026-08-05 13:42:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【強闖我駐日使館男子稱對自己的行為深感後悔】今天，關於村田晃大的羈押理由說明程式在東京地方法院進行。村田晃大稱，對自己的行為深感後悔。此前，3月24日，日本自衛隊現役隊員村田晃大攜帶長達18釐米刀具，翻牆闖入中國駐日本大使館。使館相關人員將其控制後，警方以涉嫌非法侵入建築物將其逮捕。上月27日，村田晃大被正式起訴，其辯護律師曾申請保釋，但被駁回。（央視新聞）"
+    },
+    {
+      "id": "5026067",
+      "time": "2026-08-05 13:41:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國汽車製造商和經銷商協會（SMMT）初步資料顯示，英國7月新車銷量增長12%，達15.6萬輛。"
+    },
     {
       "id": "mkt:019fd06f-0820-7aab-8f82-51ea17025c96",
       "time": "2026-08-05 13:39:25",
