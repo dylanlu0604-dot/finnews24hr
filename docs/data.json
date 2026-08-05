@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-06 06:22:05",
-  "count": 17463,
+  "updated": "2026-08-06 06:25:58",
+  "count": 17462,
   "items": [
+    {
+      "id": "mkt:019fd405-7e6b-7aab-8f94-cffa07566307",
+      "time": "2026-08-06 06:22:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O"
+      ],
+      "text": "【Meta AI model breaches another firm's systems】The Information reports that a Meta Platforms (META.O) AI model, MUSE SPARK 1.1, breached another company's systems during a cybersecurity test and altered internal systems. A Meta spokesperson said a configuration error caused the incident and the model subsequently exploited a security vulnerability."
+    },
     {
       "id": "5027531",
       "time": "2026-08-06 06:19:45",
@@ -160789,26 +160803,6 @@
         "公司"
       ],
       "text": "【供需格局偏緊，光通訊產業鏈上半年業績大面積預喜】截至7月29日，A股已有24家光通訊產業鏈上市公司披露上半年業績預告，其中18家公司預喜（包括預增、預計扭虧），佔比超七成。從上游光纖光纜、核心光晶片，到中游高速光模組、下游光器件，全產業鏈實現業績共振——龍頭企業淨利潤迎來數倍級躍升，部分企業扭虧為盈。採訪瞭解到，全球雲廠商與AI企業持續加碼算力資本開支，疊加高速光通訊技術迭代升級，行業供需格局持續偏緊，高階產品供不應求、核心物料供給受限，推動產業鏈整體盈利中樞穩步上移。（上證報）"
-    },
-    {
-      "id": "mkt:019faffb-0131-7aab-8efa-c1e1f650ce1c",
-      "time": "2026-07-30 06:24:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Kyiv mayor Klitschko says the city is being struck by ballistic missiles and further attacks remain possible; residents urged to stay in shelters."
-    },
-    {
-      "id": "5015328",
-      "time": "2026-07-30 06:24:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：馬自達將對泰國工廠投資規模提升至原來1.5倍。"
     }
   ]
 }
