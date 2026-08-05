@@ -1,7 +1,268 @@
 {
   "date": "2026-08-05",
-  "count": 846,
+  "count": 874,
   "items": [
+    {
+      "id": "5025703",
+      "time": "2026-08-05 09:35:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.14%，成分股中，華虹宏力漲5.52%，盛科通訊漲4.99%，寒武紀漲4.71%，中微公司漲4.19%。"
+    },
+    {
+      "id": "5025702",
+      "time": "2026-08-05 09:35:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念反覆活躍 利通電子觸及漲停】算力租賃概念反覆活躍，利通電子觸及漲停，高樂股份、行雲科技、宏景科技、漢鑫科技、潤建股份跟漲。"
+    },
+    {
+      "id": "mkt:019fcf8f-b0b5-7aab-8f7c-270b89f432b1",
+      "time": "2026-08-05 09:35:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share lab-grown diamond sector rallied sharply; Benlang New Materials rose over 6%, while Guoji Jinggong, Sifangda, Liliang Diamond and Huifeng Diamond also advanced."
+    },
+    {
+      "id": "mkt:019fcf8f-afa8-7aab-8f7c-1a92c16787e4",
+      "time": "2026-08-05 09:35:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Toyota said it will resume production at three Fukuoka plants for the midday shift on Thursday."
+    },
+    {
+      "id": "mkt:019fcf8f-a05f-7aab-8f7c-141fb9681a5e",
+      "time": "2026-08-05 09:35:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "1605.T",
+        "Impact bearish"
+      ],
+      "text": "Australian Northern Territory government has launched legal action against Inpex, alleging the company underreported emissions from the Ichthys liquefied natural gas (LNG) facility."
+    },
+    {
+      "id": "mkt:019fcf8f-5380-7aab-8f7c-0fc7fe725b09",
+      "time": "2026-08-05 09:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "China's July RatingDog services PMI due in 10 minutes."
+    },
+    {
+      "id": "5025701",
+      "time": "2026-08-05 09:34:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【汽車後市場概念盤初走強，常潤股份漲停】汽車後市場概念盤初走強，常潤股份漲停，錦江線上、中機認檢、中汽股份、萬安科技、中國汽研、星光股份等跟漲。"
+    },
+    {
+      "id": "5025700",
+      "time": "2026-08-05 09:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "N森合漲近80%，成交額超2.5億元。"
+    },
+    {
+      "id": "mkt:019fcf8e-c68a-7aab-8f7c-02c2c5ef0c9c",
+      "time": "2026-08-05 09:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "N Senhe jumped nearly 80% as turnover exceeded 250 million yuan."
+    },
+    {
+      "id": "5025699",
+      "time": "2026-08-05 09:34:27",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "菲律賓統計局：CPI方面仍面臨風險。"
+    },
+    {
+      "id": "5025698",
+      "time": "2026-08-05 09:34:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7285.00點。"
+    },
+    {
+      "id": "mkt:019fcf8e-36e7-7aab-8f7b-f9ccd7ed51b1",
+      "time": "2026-08-05 09:33:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage-chip sector spiked intraday; Zhongjing Electronics hit the daily limit, Zhengfan Technology rose over 8%, and Yong'anxing, Shenkeda, Voge Optoelectronics and Huahong Hongli also advanced."
+    },
+    {
+      "id": "5025697",
+      "time": "2026-08-05 09:32:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【遊戲板塊短線拉昇，凱撒文化、大晟文化漲停】遊戲板塊短線拉昇，凱撒文化、大晟文化漲停，巨人網路、寶通科技、名臣健康、富春股份、迅遊科技等紛紛走高。"
+    },
+    {
+      "id": "mkt:019fcf8c-b5db-7aab-8f7b-f1a437ed666d",
+      "time": "2026-08-05 09:32:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share rare-earth permanent-magnet sector outperformed; Jiuling Technology rose over 10%, Benlang New Materials over 8%, Xici Technology over 7%, Zhongke Magnetic Industry over 6%, while Youyan New Materials and Beifang New Materials also gained."
+    },
+    {
+      "id": "5025696",
+      "time": "2026-08-05 09:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.15%。N江農轉、久吾轉02、科博轉債、金25轉債、中汽轉債漲幅居前，分別漲30.00%、20.00%、4.07%、2.99%、2.61%。歐通轉債、奧飛轉債、韋爾轉債、泰坦轉債、春風轉債跌幅居前，分別跌1.39%、1.12%、0.90%、0.78%、0.77%。"
+    },
+    {
+      "id": "5025695",
+      "time": "2026-08-05 09:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.22%，成分股中，盛科通訊漲5.33%，華虹宏力漲4.53%，晶合整合漲3.11%，佰維儲存漲2.91%。"
+    },
+    {
+      "id": "mkt:019fcf8b-daa7-7aab-8f7b-eb6de6b8d7d4",
+      "time": "2026-08-05 09:31:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China stock index futures open】At the morning open, front-month contracts: CSI 300 index futures (IF) -0.39%, SSE 50 index futures (IH) +0.53%, CSI 500 index futures (IC) +0.15%, CSI 1000 index futures (IM) +0.34%."
+    },
+    {
+      "id": "mkt:019fcf8b-d5bc-7aab-8f7b-e66d4c56d0b4",
+      "time": "2026-08-05 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open, morning session】At the morning open, 2-year government bond futures (TS) most-active contract rose 0.01%, 5-year (TF) rose 0.02%, 10-year (T) rose 0.03% and 30-year (TL) rose 0.07%."
+    },
+    {
+      "id": "5025694",
+      "time": "2026-08-05 09:31:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4934.700點；恒生指數現漲0.399%。"
+    },
+    {
+      "id": "5025693",
+      "time": "2026-08-05 09:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.15%，成分股中，科力股份跌6.43%，則成電子跌3.08%，戈碧迦跌2.65%，艾融軟體跌2.51%。"
+    },
+    {
+      "id": "5025692",
+      "time": "2026-08-05 09:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【小金屬板塊高開，雲南鍺業觸及漲停】小金屬板塊高開，雲南鍺業觸及漲停，浩通科技、貴研鉑業、中稀有色、盛和資源跟漲。"
+    },
+    {
+      "id": "5025691",
+      "time": "2026-08-05 09:30:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家大基金三期等入股正芯半導體】企查查APP顯示，近日，瀋陽正芯半導體科技有限公司發生工商變更，新增國家大基金三期旗下國投集新（北京）股權投資基金（有限合夥）、金石成長股權投資（杭州）合夥企業（有限合夥）等為股東，同時，註冊資本由10萬元增至約1134萬元。企查查資訊顯示，該公司成立於2025年3月，法定代表人為鄭廣文，經營範圍包括超導材料銷售、超導材料製造、電子產品銷售等。"
+    },
+    {
+      "id": "mkt:019fcf8b-4a64-7aab-8f7b-d871f019c05c",
+      "time": "2026-08-05 09:30:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share fiber-optic concept stocks opened lower. Dongshan Precision fell more than 9%; Yuanjie Technology, Changguang Huaxin and Tianfu Communication dropped over 8%; Dekeli and Guangku Technology also declined."
+    },
+    {
+      "id": "5025690",
+      "time": "2026-08-05 09:30:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田準備從週四開始重啟福岡工廠。"
+    },
+    {
+      "id": "5025689",
+      "time": "2026-08-05 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.27%， 滬深300指數期貨連續跌0.77%， 中證500指數期貨連續跌0.32%， 上證50指數期貨連續漲0.06%。"
+    },
+    {
+      "id": "5025688",
+      "time": "2026-08-05 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.07%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:019fcf89-6899-7aab-8f7b-d70e92a3266a",
+      "time": "2026-08-05 09:28:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CPO sector opened lower; Zhongji Xuchuang down nearly 14 pct, Liante Technology down over 11 pct, Xinyisheng down over 10 pct, Cambridge Technology and Dongshan Precision down over 9 pct."
+    },
+    {
+      "id": "5025687",
+      "time": "2026-08-05 09:28:21",
+      "tags": [],
+      "text": "A股中際旭創低開超13％，新易盛跌超10％，訊息面上，美國政府擬起草一項禁令，禁止進口中國製造的新型光收發器及其他資料中心裝置。"
+    },
     {
       "id": "mkt:019fcf88-42ee-7aab-8f7b-cc05f29d603e",
       "time": "2026-08-05 09:27:21",
