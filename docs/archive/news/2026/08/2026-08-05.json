@@ -1,7 +1,55 @@
 {
   "date": "2026-08-05",
-  "count": 3113,
+  "count": 3118,
   "items": [
+    {
+      "id": "te:economy:573086",
+      "time": "2026-08-05 22:57:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tunisia",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Tunisia Inflation Rate Softens to 4-Month Low of 5.1% — Tunisia's annual inflation rate moderated for the second month to 5.1% in July 2026, the lowest since March, down from 5.3% in the prior month. Softer price increases were seen for food & non-alcholic beverages (6.6% vs 7.1% in June); transportation (2% vs 2.4%) and health (2.7% vs 2.9%). On a monthly basis, the CPI rose by 0.2%, the same pace as in the preceding month."
+    },
+    {
+      "id": "5027266",
+      "time": "2026-08-05 22:56:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國財長貝森特：沃什執掌美聯儲期間的一大看點，就是看著那些偽裝成記者的速記員。比如《華爾街日報》的 Nick Timiraos（此前被成為“美聯儲傳聲筒”），淪落到只能報道美聯儲的幕後八卦，因為他們若沒人喂料，就做不出真正的經濟或貨幣政策分析。"
+    },
+    {
+      "id": "mkt:019fd26d-47eb-7aab-8f8f-b70b9c337be8",
+      "time": "2026-08-05 22:56:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said a notable feature of Walsh’s tenure at the Fed has been watching stenographers posing as reporters. He singled out the Wall Street Journal’s Nick Timiraos — previously dubbed the \"Fed mouthpiece\" — saying Timiraos has been reduced to reporting Fed backstage gossip because, without being fed material, such reporters cannot produce substantive economic or monetary policy analysis."
+    },
+    {
+      "id": "5027265",
+      "time": "2026-08-05 22:56:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪仰望U8L鼎藏版上市，售價145.8萬】8月5日，比亞迪旗下仰望汽車宣佈，仰望U8L鼎藏版2026款現已上市，售價145.8萬元。"
+    },
+    {
+      "id": "5027264",
+      "time": "2026-08-05 22:55:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天生橋二級水電站開啟2026年汛期首次洩洪】8月5日11時，天生橋二級水電站啟動2026年度汛期首次開閘洩洪，當日最大洩洪流量達250立方米每秒，總出庫流量維持在1050立方米每秒。（央視新聞）"
+    },
     {
       "id": "5027263",
       "time": "2026-08-05 22:54:28",
