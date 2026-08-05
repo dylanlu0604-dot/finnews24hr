@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-06 00:30:09",
-  "count": 17978,
+  "updated": "2026-08-06 00:34:05",
+  "count": 17975,
   "items": [
+    {
+      "id": "mkt:019fd2c5-a4f4-7aab-8f91-12533824eb20",
+      "time": "2026-08-06 00:33:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Phillips 66 (PSX.N) is boosting jet fuel production at its Washington state refinery."
+    },
+    {
+      "id": "mkt:019fd2c4-68d4-7aab-8f91-0f466e13296b",
+      "time": "2026-08-06 00:31:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it conducted targeted strikes in southern Lebanon, saying Hezbollah breached a US‑mediated security arrangement."
+    },
+    {
+      "id": "5027358",
+      "time": "2026-08-06 00:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，已在黎巴嫩南部實施定點打擊，並指責真主黨違反6月由美國斡旋達成的安全安排。"
+    },
     {
       "id": "5027357",
       "time": "2026-08-06 00:27:50",
@@ -166285,63 +166309,6 @@
         "其他"
       ],
       "text": "ADP：計劃在未來 8 年內推出總額 82 億歐元的合規投資計劃，提升巴黎各機場競爭力，並樹立法國國際形象。"
-    },
-    {
-      "id": "5014903",
-      "time": "2026-07-30 00:34:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【三菱日聯：日本央行料維持利率不變 美/日或測試165並加大幹預風險】三菱日聯信託銀行駐紐約銷售和交易負責人Takafumi Onodera表示，日本央行本週會議可能維持利率不變，推動美元/日元升至1美元兌165，並加大日本官員干預外匯市場的風險。“美元/日元可能短暫測試165，但隨著市場對干預的擔憂升溫，上行空間應會受到限制，”他在採訪中表示，日本央行“可能釋放鷹派訊號，以遏制日元進一步走弱”。他表示，如果日本央行今年完全不加息，而美聯儲加息，美元/日元可能升向1美元兌170。"
-    },
-    {
-      "id": "te:markets:570829",
-      "time": "2026-07-30 00:33:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Edge Lower — The Euro STOXX 50 closed 0.5% lower on Wednesday and STOXX Europe fell 0.2%, pressured by a surge in energy prices from reignited strikes in the Middle East and mixed corporate earnings. Among notable movers, Hermes tumbled 11% despite reporting an acceleration in sales, with investors citing the lack of a convincing recovery in the key Chinese market. CaixaBank dropped 7%, dragging other Spanish lenders lower after leaving its full-year guidance unchanged alongside its Q2 results. ASM International lost 5% despite issuing an upbeat outlook, as concerns over global AI spending persisted, while Aberdeen fell 5% after reporting larger-than-expected first-half fund outflows. Elsewhere, Kering surged 12% after stronger-than-expected Gucci sales, Sopra Steria jumped 13% on raised guidance, Glencore gained 3% on higher copper output. Among major banks, Deutsche Bank and UBS both gained after posting their results, aligned with other lenders that reported earlier."
-    },
-    {
-      "id": "5014902",
-      "time": "2026-07-30 00:32:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "千禧管理計劃新一輪募資，目標規模創紀錄達 200 億美元。"
-    },
-    {
-      "id": "mkt:019faeb7-1d44-7aab-8eef-d495cd0c7383",
-      "time": "2026-07-30 00:31:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Egypt's Ministry of Petroleum said no casualties were reported after a fire on a vessel at Damietta port."
-    },
-    {
-      "id": "mkt:019faeb6-c11b-7aab-8eef-cf68b08c0c0e",
-      "time": "2026-07-30 00:30:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Egypt's Oil Ministry said a fire broke out on a regasification and storage vessel at Damietta port."
-    },
-    {
-      "id": "mkt:019faeb6-503e-7aab-8eef-c5eeb0cd1a98",
-      "time": "2026-07-30 00:30:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Kazakhstan’s foreign ministry said the Kazakh foreign minister held a phone call with U.S. Secretary of State Rubio to discuss developments around the Caspian Pipeline Consortium."
     }
   ]
 }

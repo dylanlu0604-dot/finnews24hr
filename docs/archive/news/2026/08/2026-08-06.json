@@ -1,7 +1,31 @@
 {
   "date": "2026-08-06",
-  "count": 49,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:019fd2c5-a4f4-7aab-8f91-12533824eb20",
+      "time": "2026-08-06 00:33:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Phillips 66 (PSX.N) is boosting jet fuel production at its Washington state refinery."
+    },
+    {
+      "id": "mkt:019fd2c4-68d4-7aab-8f91-0f466e13296b",
+      "time": "2026-08-06 00:31:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it conducted targeted strikes in southern Lebanon, saying Hezbollah breached a US‑mediated security arrangement."
+    },
+    {
+      "id": "5027358",
+      "time": "2026-08-06 00:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，已在黎巴嫩南部實施定點打擊，並指責真主黨違反6月由美國斡旋達成的安全安排。"
+    },
     {
       "id": "5027357",
       "time": "2026-08-06 00:27:50",
