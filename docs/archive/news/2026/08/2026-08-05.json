@@ -1,7 +1,143 @@
 {
   "date": "2026-08-05",
-  "count": 2718,
+  "count": 2732,
   "items": [
+    {
+      "id": "mkt:019fd1e8-1eb1-7aab-8f8b-b4b07f0d60ca",
+      "time": "2026-08-05 20:31:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US quarterly refinancing volume totaled US$125bln, in line with expectations."
+    },
+    {
+      "id": "5027009",
+      "time": "2026-08-05 20:31:00",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部定於8月12日舉行10年期國債拍賣，規模為420億美元。"
+    },
+    {
+      "id": "5027008",
+      "time": "2026-08-05 20:30:56",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部定於8月13日舉行30年期國債拍賣，規模為250億美元。"
+    },
+    {
+      "id": "mkt:019fd1e7-b62b-7aab-8f8b-abf40f164ca6",
+      "time": "2026-08-05 20:30:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Sources: Strait of Hormuz deal would not impose transit fees on vessels】CBS reports sources say an Iran-Oman proposal to reopen the Strait of Hormuz would not levy transit or service fees on ships. Under the plan, inbound vessels would use the route closest to Iran, coordinated by Tehran, while outbound ships would use the route closest to Oman, coordinated by Muscat. The fee exemption addresses a key sticking point in talks among the US, Iran and mediators. If approved, the US and Iran would return to negotiations under a June memorandum of understanding that requires free passage within 60 days."
+    },
+    {
+      "id": "5027007",
+      "time": "2026-08-05 20:30:51",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國將季度再融資額設定為1250億美元，與預期相符】美國財政部定於8月11日舉行規模為580億美元的三年期國債拍賣。"
+    },
+    {
+      "id": "5027006",
+      "time": "2026-08-05 20:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“白海豚”影響 浙江海事局啟動沿海Ⅲ級防颱應急響應】根據今年第13號颱風“白海豚”的態勢及走向，浙江海事局決定於8月5日20時啟動浙江沿海Ⅲ級防颱應急響應。（央視新聞）"
+    },
+    {
+      "id": "5027005",
+      "time": "2026-08-05 20:28:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗和阿曼目前正在談判的重開霍爾木茲海峽的（臨時）方案，將對透過該水道的船隻免收通行費或服務費。"
+    },
+    {
+      "id": "mkt:019fd1e5-e14a-7aab-8f8b-a532e171a9f0",
+      "time": "2026-08-05 20:28:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said the Caspian Pipeline Consortium (CPC) has again suspended loading operations after a brief resumption, citing security concerns and oil-tanker shortages following drone attacks."
+    },
+    {
+      "id": "mkt:019fd1e5-a4ed-7aab-8f8b-9bfe25d8b612",
+      "time": "2026-08-05 20:28:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【ADP: US private payrolls +44k in July, below expectations】ADP reported US seasonally adjusted private nonfarm payrolls rose 44,000 in July, below June’s revised 95,000 and the 75,000 consensus. All net gains were in services (+47,000); goods employment fell 3,000. Education and health added 36,000 jobs; financial activities +10,000; professional and business services +9,000; other services +6,000. ADP chief economist Nela Richardson said: \"Job seekers are highly responsive to real-time economic conditions; rapid pay growth indicates supply constraints in parts of the labor market. At the same time, typical hiring patterns are shifting as employers respond to changing macro conditions.\""
+    },
+    {
+      "id": "5027004",
+      "time": "2026-08-05 20:28:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國7月“小非農”僅新增4.4萬人 低於市場預期】最新公佈的ADP資料顯示，美國私營企業的招聘在7月份大幅放緩，大部分新增職位來自醫療行業。ADP報告稱，當月經季節性調整後的非農就業崗位增長（不包括政府部門）為4.4萬個，低於6月份經下調後的9.5萬個，也低於市場預期的7.5萬個。總體而言，所有增長均來自服務業，該行業新增就業4.7萬人，而商品生產企業則減少了3,000個就業崗位。在這些就業崗位中，教育和衛生服務行業創造了36,000個崗位，延續了該行業長期以來引領就業增長的趨勢。金融活動新增10,000個崗位，專業和商業服務貢獻了9,000個崗位，其他服務類別的就業崗位增加了6,000個。ADP首席經濟學家內拉·理查森表示：“求職者對實時經濟狀況極為敏感，他們薪資的快速增長意味著勞動力市場某些部分存在供應約束。與此同時，由於僱主對不斷變化的宏觀經濟形勢作出反應，典型的招聘模式也在發生變化。”"
+    },
+    {
+      "id": "5027003",
+      "time": "2026-08-05 20:28:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST聆達：2026年8月7日起撤銷退市風險警示及其他風險警示，8月6日停牌1天】*ST聆達公告，公司此前因2024年度經審計扣除非經常性損益後的淨利潤為負、期末淨資產為負被實施退市風險警示，並因子公司停產、內部控制審計報告被出具否定意見等被實施其他風險警示。公司申請撤銷上述風險警示已獲深圳證券交易所稽核同意，股票將於2026年8月6日開市起停牌1天，2026年8月7日開市起復牌並撤銷退市風險警示及其他風險警示，股票簡稱由“*ST聆達”變更為“聆達股份”，證券程式碼300125不變，日漲跌幅限制仍為20%。"
+    },
+    {
+      "id": "5027002",
+      "time": "2026-08-05 20:28:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【康方生物：依沃西聯合輝瑞維恩妥尤單抗一線治療UC國際II/III期研究啟動】8月5日，康方生物宣佈，其自研全球首創PD-1/VEGF雙抗新藥依沃西的海外合作伙伴Summit Therapeutics將開展依沃西聯合維恩妥尤單抗（EV，Nectin-4 ADC）對比帕博利珠單抗聯合EV，一線治療區域性晚期或轉移性尿路上皮癌（LA/mUC）的II/III期國際多中心註冊性臨床研究（HARMONi-GU1/AK112-3008）。目前，HARMONi-GU1的中國研究部分由康方生物負責推進，Summit負責開展HARMONi-GU1研究包括美國、歐洲等在內的海外研究部分。"
+    },
+    {
+      "id": "5027001",
+      "time": "2026-08-05 20:27:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Circle首席財務官表示，將繼續觀察到監管、國際採用、企業用例、代理金融以及數字資產和區塊鏈技術更廣泛接受度等方面正在發生的結構性轉變。"
+    },
+    {
+      "id": "5027000",
+      "time": "2026-08-05 20:27:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "報道稱，哈馬斯敦促美國政府以及姆拉登諾夫向以色列施壓，要求其遵守相關協議。"
+    },
     {
       "id": "mkt:019fd1e4-b8ca-7aab-8f8b-960fbea3536b",
       "time": "2026-08-05 20:27:35",
