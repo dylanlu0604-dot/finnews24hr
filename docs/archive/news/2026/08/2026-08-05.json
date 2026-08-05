@@ -1,7 +1,132 @@
 {
   "date": "2026-08-05",
-  "count": 1337,
+  "count": 1351,
   "items": [
+    {
+      "id": "mkt:019fd043-9e91-7aab-8f81-60b158d755a7",
+      "time": "2026-08-05 12:52:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor proposed a regulatory framework to unify and standardize lending rates. He said stronger Indian macro fundamentals should help the economy absorb global shocks."
+    },
+    {
+      "id": "5026009",
+      "time": "2026-08-05 12:50:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【打擊走私 墨西哥查處多個非法煉油點 】墨西哥檢察部門4日宣佈，在一場緝私行動中查處4個非法煉油點，查獲近100萬升石油衍生品。據法新社報道，這些非法煉油點位於墨西哥中部地區，涉及聖路易斯波託西州、伊達爾戈州和莫雷洛斯州。檢方公佈的照片顯示，多個巨型工業用儲罐配備複雜管道網路。卡車頻繁進出這些非法煉油點，其中一些散發著燃油氣味。正是這些情況引起了執法部門注意。除查獲非法燃油外，執法部門還扣押了相關運載和機械裝置。"
+    },
+    {
+      "id": "mkt:019fd041-e160-7aab-8f81-5afdad72a26c",
+      "time": "2026-08-05 12:50:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said he will announce additional measures."
+    },
+    {
+      "id": "mkt:019fd041-d56d-7aab-8f81-5293c414e0dd",
+      "time": "2026-08-05 12:50:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said the facilities were being used for military purposes."
+    },
+    {
+      "id": "5026008",
+      "time": "2026-08-05 12:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：將繼續遏制外匯市場過度波動，打擊匯市投機行為。"
+    },
+    {
+      "id": "mkt:019fd041-a851-7aab-8f81-4dbd1fc6e736",
+      "time": "2026-08-05 12:49:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India governor said the central bank will continue to curb excessive volatility and clamp down on speculative activity in the foreign exchange market."
+    },
+    {
+      "id": "5026007",
+      "time": "2026-08-05 12:49:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：國際收支預計將錄得可觀順差。印度外匯儲備仍保持充足水平。外匯儲備可覆蓋超過10個月的進口付匯需求。"
+    },
+    {
+      "id": "mkt:019fd041-6ac0-7aab-8f81-45290618bd5a",
+      "time": "2026-08-05 12:49:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor expects the balance of payments to record a healthy surplus."
+    },
+    {
+      "id": "mkt:019fd041-55f5-7aab-8f81-3e9f4b845f66",
+      "time": "2026-08-05 12:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says foreign exchange reserves can cover more than 10 months of imports."
+    },
+    {
+      "id": "mkt:019fd041-4728-7aab-8f81-34217ecdfdbc",
+      "time": "2026-08-05 12:49:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Reserve Bank of India governor says India's foreign-exchange reserves remain adequate."
+    },
+    {
+      "id": "mkt:019fd041-3966-7aab-8f81-2abb3bee9f6a",
+      "time": "2026-08-05 12:49:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces destroyed logistics hubs in Kyiv and surrounding areas."
+    },
+    {
+      "id": "5026006",
+      "time": "2026-08-05 12:49:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部稱，俄軍襲擊損毀了基輔及周邊地區的物流樞紐。相關設施用於軍事目的。"
+    },
+    {
+      "id": "mkt:019fd040-fcf1-7aab-8f81-21fad2d13f20",
+      "time": "2026-08-05 12:49:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reserve Bank of India governor said capital flow measures introduced in June will support inflows."
+    },
+    {
+      "id": "mkt:019fd03f-f965-7aab-8f81-1d7e9ad6c0ae",
+      "time": "2026-08-05 12:48:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RESERVE BANK OF INDIA governor says core inf expected at 4.3%."
+    },
     {
       "id": "5026005",
       "time": "2026-08-05 12:46:59",
