@@ -1,7 +1,74 @@
 {
   "date": "2026-08-05",
-  "count": 2815,
+  "count": 2822,
   "items": [
+    {
+      "id": "5027071",
+      "time": "2026-08-05 20:59:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲卡什卡利：現在是開始逐步加息的時候】2026年FOMC票委、明尼阿波利斯聯儲主席卡什卡利週三接受採訪時表示，美聯儲現在應“開始逐步上調”利率，以降低通脹並避免未來需要更大幅度加息。卡什卡利是上週FOMC會議中支援加息25個基點的三名票委之一。他表示，當前企業盈利強勁、消費者和就業市場保持韌性，沒有證據表明貨幣政策已明顯具有限制性，因此是時候開始逐步加息了。他強調，這並非主張大幅加息，而是希望“小步行動”，避免未來通脹根深蒂固後被迫激進收緊政策。他補充道，不確定FOMC會在9月採取什麼行動，未來的資料將會起到關鍵作用。與此同時，卡什卡利表示，美聯儲主席沃什沒有向他施壓，曾告訴他：“做你認為對經濟正確的事情。”"
+    },
+    {
+      "id": "5027070",
+      "time": "2026-08-05 20:59:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CHIPOTLE股價在盤前交易中上漲3%，此前該公司發表了食品安全宣告。"
+    },
+    {
+      "id": "mkt:019fd200-e783-7aab-8f8c-8bf7172e922e",
+      "time": "2026-08-05 20:58:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Kashkari says time to begin gradual rate hikes】Kashkari, a 2026 FOMC voting member and president of the Minneapolis Fed, told CNBC on Wednesday the Fed should begin gradually raising rates to reduce inflation and avoid larger hikes later. He was one of three FOMC voters last week who supported a 25bp increase. Kashkari said strong corporate profits and resilient consumer and labor conditions show no evidence that policy is meaningfully restrictive, arguing for small, incremental hikes rather than aggressive tightening if inflation becomes entrenched. He said September action is uncertain and will be data-dependent. He added that Fed Chair Kevin Warsh has not pressured him, telling him to do what he thinks is right for the economy."
+    },
+    {
+      "id": "mkt:019fd200-c765-7aab-8f8c-85495bb9e371",
+      "time": "2026-08-05 20:58:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Goto survey shows 30% of US employees say they cannot do without AI."
+    },
+    {
+      "id": "5027067",
+      "time": "2026-08-05 20:57:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "執政黨蒂薩黨提議匈牙利議會於 8 月 11 日選舉新任總統。"
+    },
+    {
+      "id": "5027066",
+      "time": "2026-08-05 20:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "CHIPOTLE：從餐廳移除墨西哥辣椒，並以其他種植商的產品替代 - 美國證券交易委員會(SEC)檔案。"
+    },
+    {
+      "id": "mkt:019fd1ff-35b7-7aab-8f8c-7914605f3563",
+      "time": "2026-08-05 20:56:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's parliament website shows the ruling Tisza Party has proposed that parliament elect a new president next Monday (Aug 11)."
+    },
     {
       "id": "5027065",
       "time": "2026-08-05 20:55:45",
