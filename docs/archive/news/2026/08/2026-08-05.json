@@ -1,7 +1,15 @@
 {
   "date": "2026-08-05",
-  "count": 3096,
+  "count": 3097,
   "items": [
+    {
+      "id": "mkt:019fd261-d9ae-7aab-8f8f-96d38f42cd2e",
+      "time": "2026-08-05 22:44:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Zelenskiy said Ukraine will destroy Russia's ballistic missile launchers."
+    },
     {
       "id": "5027250",
       "time": "2026-08-05 22:42:06",

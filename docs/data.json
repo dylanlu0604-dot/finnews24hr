@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-05 22:43:23",
-  "count": 17956,
+  "updated": "2026-08-05 22:47:27",
+  "count": 17948,
   "items": [
+    {
+      "id": "mkt:019fd261-d9ae-7aab-8f8f-96d38f42cd2e",
+      "time": "2026-08-05 22:44:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Zelenskiy said Ukraine will destroy Russia's ballistic missile launchers."
+    },
     {
       "id": "5027250",
       "time": "2026-08-05 22:42:06",
@@ -166113,98 +166121,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織（IMF）：基金組織與玻利維亞就中期貸款安排達成工作人員層面協議。"
-    },
-    {
-      "id": "mkt:019fae58-23ad-7aab-8eee-02fee44785e1",
-      "time": "2026-07-29 22:47:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "ARM.O",
-        "Impact bearish",
-        "AMD.O",
-        "MU.O"
-      ],
-      "text": "【Philadelphia semiconductor index down for fifth straight session】The Philadelphia Semiconductor Index fell for a fifth straight session, with intraday losses widening to about 4%. Arm (ARM.O) slid more than 6%; AMD (AMD.O) and Micron Technology (MU.O) dropped over 5%; Marvell (MRVL.O) declined more than 4%."
-    },
-    {
-      "id": "5014833",
-      "time": "2026-07-29 22:47:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： 上海漢得資訊科技股份有限公司遞交港股上市申請。"
-    },
-    {
-      "id": "5014832",
-      "time": "2026-07-29 22:47:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲3%，現報3680.00元。"
-    },
-    {
-      "id": "te:economy:570811",
-      "time": "2026-07-29 22:46:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mozambique",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Mozambique Holds Key Policy Rate at 9.25% — The Bank of Mozambique left its MIMO policy rate unchanged at 9.25% at its July 2026 meeting, maintaining borrowing costs at their lowest level since December 2015 for a third consecutive meeting. Headline inflation accelerated to 7.5% in June from 7.2% in May and is expected to remain elevated in the near term, reflecting higher global energy prices, before easing over the medium term. Meanwhile, economic activity is projected to moderate, with growth excluding natural gas estimated at 1.1% in the first quarter, down from 4.8% in the previous quarter, while output including natural gas is expected to contract 0.1%. Policymakers highlighted heightened uncertainty surrounding the duration of the Middle East conflict and its potential impact on supply chains, as well as international and domestic fuel and food prices. Future policy decisions will depend on evolving risks and uncertainties surrounding the inflation outlook."
-    },
-    {
-      "id": "5014831",
-      "time": "2026-07-29 22:46:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯盧布兌美元匯率自4月3日以來首次跌破1盧布兌換80美元關口，跌幅達1.9%。"
-    },
-    {
-      "id": "mkt:019fae55-ed89-7aab-8eed-f89c4cd4bc21",
-      "time": "2026-07-29 22:44:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "EIA: U.S. crude inventories at Cushing, Oklahoma fell last week to their lowest level since August 2014."
-    },
-    {
-      "id": "te:markets:570810",
-      "time": "2026-07-29 22:44:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Nuclear Energy Index Hits 48-week Low — Nuclear Energy Index decreased to 37.72 USD, the lowest since August 2025. Over the past 4 weeks, Nuclear Energy Index lost 13.67%, and in the last 12 months, it decreased 6.23%."
-    },
-    {
-      "id": "5014830",
-      "time": "2026-07-29 22:43:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗訊息稱，四名革命衛隊軍事顧問在伊拉克夜間美沙聯合空襲中身亡；目前尚未獲得官方證實。"
-    },
-    {
-      "id": "5014829",
-      "time": "2026-07-29 22:43:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股IPO：常州星宇車燈股份有限公司遞表港交所】常州星宇車燈股份有限公司向港交所提交上市申請書，獨家保薦人為申萬宏源香港。"
     }
   ]
 }
