@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-06 05:03:47",
-  "count": 17530,
+  "updated": "2026-08-06 05:07:42",
+  "count": 17528,
   "items": [
+    {
+      "id": "mkt:019fd3c0-7008-7aab-8f94-46732a06db70",
+      "time": "2026-08-06 05:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI's August index review results are scheduled for release in the early hours of Aug 13, Beijing time."
+    },
+    {
+      "id": "5027499",
+      "time": "2026-08-06 05:07:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "週三（8月5日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7482元，較週二紐約尾盤跌2點，日內整體交投於6.7449-6.7501元區間。"
+    },
     {
       "id": "5027498",
       "time": "2026-08-06 05:02:37",
@@ -161500,48 +161516,6 @@
         "META.O"
       ],
       "text": "Meta Platforms (META.O) CFO said the company’s long-term capacity strategy is intended to support sustained compute growth from 2028 onward."
-    },
-    {
-      "id": "mkt:019fafb3-a01d-7aab-8ef9-b5a6be626b15",
-      "time": "2026-07-30 05:06:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israeli intelligence says US-Iran tensions may escalate further】Israeli security agencies assess that after a recent series of Iranian actions, the US is close to mounting major retaliatory measures. Israel's Channel 15 reported Washington's consensus is that current developments represent an escalation pattern requiring a broader, tougher response; a senior Israeli security source said the Americans are preparing an operation much larger than previously seen. Israeli-collected intelligence points to preparations for a large-scale military operation rather than a localized strike, based on multiple incidents: an Iranian missile attack on US forces in Jordan; Iran-backed groups striking Saudi targets from Iraq; Tehran issuing threats to Azerbaijan and Ukraine; refusal to compromise on the Strait of Hormuz; and reported recent attacks on Egyptian territory. Security sources say these events indicate Iran is intensifying multi-front confrontations and that a US response is likely to be broader and firmer than before."
-    },
-    {
-      "id": "5015252",
-      "time": "2026-07-30 05:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通首席財務官：預計第四季度非公認會計准則營業支出約為27億美元。"
-    },
-    {
-      "id": "mkt:019fafb1-f9ba-7aab-8ef9-aa0922deb331",
-      "time": "2026-07-30 05:05:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "Meta Platforms (META.O) CFO said long-term forecasting of the capacity-utilization-versus-scale curve is becoming more difficult, but the company believes it retains allocation advantages regardless of whether its models are at the frontier."
-    },
-    {
-      "id": "5015251",
-      "time": "2026-07-30 05:04:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "AWS：亞馬遜威脅情報將流行的Node包管理器庫遭入侵事件與朝鮮關聯的威脅行為者聯絡起來。"
     }
   ]
 }
