@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-05 12:44:28",
-  "count": 17833,
+  "updated": "2026-08-05 12:48:33",
+  "count": 17834,
   "items": [
+    {
+      "id": "5026005",
+      "time": "2026-08-05 12:46:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "大華銀行：出售大華銀行資產管理業務。"
+    },
+    {
+      "id": "mkt:019fd03f-0046-7aab-8f81-17a453288178",
+      "time": "2026-08-05 12:46:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said banking-system parameters are healthy."
+    },
+    {
+      "id": "5026004",
+      "time": "2026-08-05 12:46:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：印度儲備銀行將主動確保銀行體系流動性充足。印度銀行業的系統性指標執行穩健，非銀行金融公司的體系層面指標穩健。"
+    },
+    {
+      "id": "mkt:019fd03d-c641-7aab-8f81-0db46ce24628",
+      "time": "2026-08-05 12:45:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesia Q2 GDP 5.29% YoY, tops median estimate of 5.14%】Statistics Indonesia reported Q2 GDP rose 5.29% YoY, above economists’ median forecast of 5.14% but below Q1’s 5.61%. Strong household consumption and investment underpinned growth amid a challenging external backdrop. Statistics Indonesia deputy head Edi Mahmud said all sectors except mining expanded. Manufacturing, agriculture, trade, construction and mining together account for 64% of GDP. The rupiah strengthened about 0.6%, while Indonesian equities and 10-year government bonds held earlier gains."
+    },
+    {
+      "id": "mkt:019fd03d-b13b-7aab-8f81-06683c562849",
+      "time": "2026-08-05 12:45:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says the central bank will ensure adequate liquidity in the banking system."
+    },
+    {
+      "id": "5026003",
+      "time": "2026-08-05 12:45:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：5-6月信貸市場傳導效應有所減弱。"
+    },
+    {
+      "id": "5026002",
+      "time": "2026-08-05 12:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：儘管存在風險，印度本年度實際GDP增速預測仍上調至6.7%。"
+    },
+    {
+      "id": "5026001",
+      "time": "2026-08-05 12:44:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：本財年剔除貴金屬後的核心通脹預計將有所下降。"
+    },
+    {
+      "id": "5026000",
+      "time": "2026-08-05 12:43:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：2027財年核心通脹預期為4.3%（此前預期為4.7%）。"
+    },
     {
       "id": "5025999",
       "time": "2026-08-05 12:43:29",
@@ -164968,77 +165041,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數跌幅一度高達13%，兩天累計跌幅約為20%。"
-    },
-    {
-      "id": "5013669",
-      "time": "2026-07-29 12:48:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀集團：環球財富管理部門第二季度淨新增資金流入規模達360億美元。"
-    },
-    {
-      "id": "5013668",
-      "time": "2026-07-29 12:47:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度NIFTY指數上漲1%，至24224.95。"
-    },
-    {
-      "id": "mkt:019fac31-c5c0-7aab-8edf-5dff2459b645",
-      "time": "2026-07-29 12:46:10",
-      "tags": [
-        "MKT News",
-        "V.O",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan raised its price target for Visa (V.N) to $450 from $400."
-    },
-    {
-      "id": "mkt:019fac31-9f72-7aab-8edf-569ee14bdb01",
-      "time": "2026-07-29 12:46:00",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "Nasdaq futures fell as much as 1%, S&P 500 futures were down 0.3% and Dow futures fell 0.2%."
-    },
-    {
-      "id": "5013667",
-      "time": "2026-07-29 12:45:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨跌超1%】美股納斯達克100指數期貨跌超1%，標普500指數期貨跌0.35%，道瓊斯指數期貨跌0.24%。"
-    },
-    {
-      "id": "mkt:019fac31-24b2-7aab-8edf-495e160c89b1",
-      "time": "2026-07-29 12:45:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Aeon said four people were missing after an explosion at its Kumamoto shopping center."
-    },
-    {
-      "id": "5013666",
-      "time": "2026-07-29 12:45:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林汪清升級釋出暴雨紅色預警】吉林省延邊州汪清縣氣象臺7月29日11時10分升級釋出暴雨紅色預警訊號：截至目前，汪清縣東光鎮已出現90毫米以上降水，清河村已出現超過100毫米降水，其中清河村、廟溝村小時雨強達40毫米以上。預計未來3小時，上述地區降雨仍將持續。對此，汪清縣防辦、縣應急管理局、縣氣象局聯合提醒注意做好預防工作。"
-    },
-    {
-      "id": "5013665",
-      "time": "2026-07-29 12:45:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價跌幅擴大；最新下跌18%，至1,269,000韓元。"
     }
   ]
 }
