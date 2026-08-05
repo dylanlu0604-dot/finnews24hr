@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-06 02:29:08",
-  "count": 17920,
+  "updated": "2026-08-06 02:33:06",
+  "count": 17910,
   "items": [
+    {
+      "id": "mkt:019fd331-ccf4-7aab-8f92-bebde5cb6c4e",
+      "time": "2026-08-06 02:31:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran deputy foreign minister: new Strait of Hormuz arrangements will close temporary transit lanes】Iran deputy foreign minister Gharibabadi said on the 5th the United States contacted Tehran 4–5 days after a new round of conflict began, seeking to resolve the issue through negotiations. He said arrangements for the Strait of Hormuz should be negotiated only between Iran and Oman and that Iran will not accept external involvement. Under the new arrangements, existing temporary transit lanes in the strait will be closed and a substantial share of vessel transits will in future pass through Iranian territorial waters."
+    },
+    {
+      "id": "mkt:019fd331-c8aa-7aab-8f92-b12915f45268",
+      "time": "2026-08-06 02:31:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 3.58% to 928 yuan/gram; SHFE silver main contract rose 3.72% to 15,260 yuan/kg; SC crude main contract fell 0.58% to 510 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fd331-c410-7aab-8f92-ad818029cb5a",
+      "time": "2026-08-06 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange evening session Aug 5: Gold T+D closed up 3.4% at 925.64 yuan/gram; Silver T+D closed up 3.11% at 15,187 yuan/kg."
+    },
+    {
+      "id": "5027426",
+      "time": "2026-08-06 02:30:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶75.22美元，下跌55美分，跌幅0.73%。"
+    },
+    {
+      "id": "5027425",
+      "time": "2026-08-06 02:30:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗副外長：霍爾木茲海峽新安排將關閉臨時航道】伊朗外交部副部長加里布阿巴迪5日表示，美國在新一輪衝突爆發4至5天后，曾向伊朗傳遞資訊，希望透過談判解決相關問題。他強調，霍爾木茲海峽相關安排應僅由伊朗和阿曼協商決定，伊方絕不接受任何外部勢力介入。根據新的安排，目前海峽內的臨時航道將被關閉，今後相當一部分船舶的進出航線將經過伊朗領海。"
+    },
+    {
+      "id": "te:markets:573114",
+      "time": "2026-08-06 02:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.65% — Top crypto gainers are Ether (2.65%), Binance (1.24%) and Bitcoin (0.96%)."
+    },
+    {
+      "id": "5027424",
+      "time": "2026-08-06 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.58%，報510.00元人民幣/桶。滬金夜盤收漲3.58%，滬銀收漲3.72%。"
+    },
     {
       "id": "te:markets:573113",
       "time": "2026-08-06 02:25:10",
@@ -165381,197 +165457,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 長達五年的高通脹已給市場留下難以消除的固有印象，投資者認為美聯儲的隱性通脹目標高於 2%。"
-    },
-    {
-      "id": "mkt:019faf26-d1aa-7aab-8ef2-e60870f6b9a5",
-      "time": "2026-07-30 02:33:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Federal Reserve Chairman KEVIN WARSH: there is no soft inflation target."
-    },
-    {
-      "id": "5014984",
-      "time": "2026-07-30 02:32:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：不存在軟通脹目標。"
-    },
-    {
-      "id": "mkt:019faf26-a16b-7aab-8ef2-dc670160d93e",
-      "time": "2026-07-30 02:32:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the committee is firmly committed to achieving price stability."
-    },
-    {
-      "id": "mkt:019faf26-9033-7aab-8ef2-d14fc55bc139",
-      "time": "2026-07-30 02:32:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the committee avoids making forecasts."
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825510092",
-      "time": "2026-07-30 02:32:40",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【沃什：美國經濟展現出令人印象深刻的韌性】美聯儲主席沃什表示，美國經濟展現出令人印象深刻的韌性。"
-    },
-    {
-      "id": "5014983",
-      "time": "2026-07-30 02:32:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：委員會仍堅定致力於實現物價穩定。"
-    },
-    {
-      "id": "mkt:019faf26-2408-7aab-8ef2-c85780ea4c63",
-      "time": "2026-07-30 02:32:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said US forces, during blockade operations against Iran, have diverted 20 merchant vessels, rendered two inoperable and boarded two."
-    },
-    {
-      "id": "5014982",
-      "time": "2026-07-30 02:32:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 經濟展現出強勁韌性。"
-    },
-    {
-      "id": "te:markets:570845",
-      "time": "2026-07-30 02:32:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "US Dollar Index Extends Pullback — The dollar index fell to 101.2 on Wednesday, extending the pullback after testing a 15-month high of 101.6 on the prior session after the Federal Reserve held interest rates unchanged. Around one-third of the market had positioned for a hike by the central bank, as mounting pro-inflationary risks and the backdrop of a strong labor market supported the case for hawks in the FOMC. Accordingly, three members of the committee dissented in favor of a hike. The pullback in the dollar took place despite a fresh surge in oil prices as strikes between the US and Iran magnified the risk of a prolonged energy shortage from the Middle East. The implication of higher energy prices on interest rates was transmitted to other G10 currencies later in the month, with soaring natural gas prices supporting the euro and the yen. In turn, the sterling extended its outperformance this year ahead of a likely Bank of England hold."
-    },
-    {
-      "id": "5014981",
-      "time": "2026-07-30 02:31:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：中央司令部部隊持續嚴格執行美國對伊朗的封鎖行動。截至 7 月 29 日，中央司令部已勒令 20 艘民用商船改道、截停 2 艘並登船檢查。"
-    },
-    {
-      "id": "5014980",
-      "time": "2026-07-30 02:31:39",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 本次討論氛圍融洽、各方意見交流平和。"
-    },
-    {
-      "id": "mkt:019faf25-7606-7aab-8ef2-c50f370e72b6",
-      "time": "2026-07-30 02:31:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the tone of discussions was amicable."
-    },
-    {
-      "id": "mkt:019faf25-4a2d-7aab-8ef2-bf99f8b6b598",
-      "time": "2026-07-30 02:31:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【KPMG's SWONK expects Fed action in September】KPMG chief economist SWONK said she expects the Federal Reserve to raise rates in September and would have preferred a hike now. She said inflation has been elevated for five years, not all of it the Fed’s fault, but whether to act is the Fed’s choice, and price gains have been too high for too long and are shifting from abnormal toward the new normal."
-    },
-    {
-      "id": "5014979",
-      "time": "2026-07-30 02:31:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 9月原油期貨收報84.46美元/桶。NYMEX 8月天然氣期貨收報2.725美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3978美元/加侖，NYMEX 8月取暖油期貨收報4.3701美元/加侖。"
-    },
-    {
-      "id": "mkt:019faf24-9c8b-7aab-8ef2-b4ae6489bc8a",
-      "time": "2026-07-30 02:30:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【US media: 9-3 Fed vote gives Trump a reprieve】Politico reported the Fed approved its rate decision on a 9-3 vote, signaling growing support for further rate increases to combat persistent high inf. The 9-3 split gives President Trump a temporary reprieve by avoiding a higher rate move now, though how long that will last is unclear. Markets broadly expect at least one Fed rate hike this year."
-    },
-    {
-      "id": "5014978",
-      "time": "2026-07-30 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲5.44%，報564.00元人民幣/桶。滬金夜盤收漲0.90%，滬銀收漲1.84%。"
-    },
-    {
-      "id": "mkt:019faf23-678c-7aab-8ef2-afb623df21fa",
-      "time": "2026-07-30 02:29:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Ahead of Fed Chair Kevin Warsh's press conference, spot gold has retreated about $20 from its post-rate-decision peak and is trading at $4,065/oz."
     }
   ]
 }

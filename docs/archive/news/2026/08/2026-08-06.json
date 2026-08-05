@@ -1,7 +1,83 @@
 {
   "date": "2026-08-06",
-  "count": 175,
+  "count": 182,
   "items": [
+    {
+      "id": "mkt:019fd331-ccf4-7aab-8f92-bebde5cb6c4e",
+      "time": "2026-08-06 02:31:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran deputy foreign minister: new Strait of Hormuz arrangements will close temporary transit lanes】Iran deputy foreign minister Gharibabadi said on the 5th the United States contacted Tehran 4–5 days after a new round of conflict began, seeking to resolve the issue through negotiations. He said arrangements for the Strait of Hormuz should be negotiated only between Iran and Oman and that Iran will not accept external involvement. Under the new arrangements, existing temporary transit lanes in the strait will be closed and a substantial share of vessel transits will in future pass through Iranian territorial waters."
+    },
+    {
+      "id": "mkt:019fd331-c8aa-7aab-8f92-b12915f45268",
+      "time": "2026-08-06 02:31:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 3.58% to 928 yuan/gram; SHFE silver main contract rose 3.72% to 15,260 yuan/kg; SC crude main contract fell 0.58% to 510 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fd331-c410-7aab-8f92-ad818029cb5a",
+      "time": "2026-08-06 02:31:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange evening session Aug 5: Gold T+D closed up 3.4% at 925.64 yuan/gram; Silver T+D closed up 3.11% at 15,187 yuan/kg."
+    },
+    {
+      "id": "5027426",
+      "time": "2026-08-06 02:30:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶75.22美元，下跌55美分，跌幅0.73%。"
+    },
+    {
+      "id": "5027425",
+      "time": "2026-08-06 02:30:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗副外長：霍爾木茲海峽新安排將關閉臨時航道】伊朗外交部副部長加里布阿巴迪5日表示，美國在新一輪衝突爆發4至5天后，曾向伊朗傳遞資訊，希望透過談判解決相關問題。他強調，霍爾木茲海峽相關安排應僅由伊朗和阿曼協商決定，伊方絕不接受任何外部勢力介入。根據新的安排，目前海峽內的臨時航道將被關閉，今後相當一部分船舶的進出航線將經過伊朗領海。"
+    },
+    {
+      "id": "te:markets:573114",
+      "time": "2026-08-06 02:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Increases by 2.65% — Top crypto gainers are Ether (2.65%), Binance (1.24%) and Bitcoin (0.96%)."
+    },
+    {
+      "id": "5027424",
+      "time": "2026-08-06 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.58%，報510.00元人民幣/桶。滬金夜盤收漲3.58%，滬銀收漲3.72%。"
+    },
     {
       "id": "te:markets:573113",
       "time": "2026-08-06 02:25:10",
