@@ -1,7 +1,92 @@
 {
   "date": "2026-08-05",
-  "count": 1000,
+  "count": 1009,
   "items": [
+    {
+      "id": "5025787",
+      "time": "2026-08-05 10:22:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多支黃金股ETF漲超4%】貴金屬板塊漲超4%，黃金股ETF國泰（517400）、黃金股ETF華夏（159562）等多支黃金股ETF漲超4%。中國黃金國際、靈寶黃金、四川黃金漲超7%。"
+    },
+    {
+      "id": "mkt:019fcfba-4ae1-7aab-8f7d-647724c9348d",
+      "time": "2026-08-05 10:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US launches Western Hemisphere Joint Task Force to replace 'Southern Spear'】US Southern Command on the 4th announced the launch of a Western Hemisphere Joint Task Force to replace the former 'Southern Spear' joint task force that US forces used to target so‑called 'drug terrorists'."
+    },
+    {
+      "id": "mkt:019fcfba-10c0-7aab-8f7d-5d8798d55434",
+      "time": "2026-08-05 10:21:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "SSE 50 index rose more than 1%; Zhongwei Company jumped over 8%, leading index constituents."
+    },
+    {
+      "id": "te:markets:572779",
+      "time": "2026-08-05 10:21:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Pressured by Hormuz Deal Prospects — The dollar index remained below the 100 mark on Wednesday, coming under renewed pressure as reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz drove oil prices sharply lower, easing concerns over inflation and the need for additional interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to restore access through Hormuz. US Treasury Secretary Scott Bessent also said a deal could be reached as early as Tuesday or Wednesday. Markets reduced expectations for a September Federal Reserve rate hike to around 57%, down from 67% a day earlier. Investors are now awaiting a series of US labor market reports for further clues on the Fed’s policy outlook, with ADP’s July private payrolls data due later today. Meanwhile, the dollar continued to nurse losses against the yen after the US and Japan signaled they remain prepared to intervene again if necessary."
+    },
+    {
+      "id": "5025786",
+      "time": "2026-08-05 10:21:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5025785",
+      "time": "2026-08-05 10:20:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲0.18%。"
+    },
+    {
+      "id": "5025784",
+      "time": "2026-08-05 10:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍啟動“西半球聯合特遣部隊”取代“南方之矛”】美軍南方司令部4日宣佈啟動“西半球聯合特遣部隊”，以取代此前美軍打擊所謂“毒品恐怖分子”的“南方之矛”聯合特遣部隊。南方司令部當天發表宣告稱，“西半球聯合特遣部隊”將協調美軍與盟友及夥伴的行動，以應對威脅、加強地區安全，並“對整個西半球的危機做出快速反應”。南方司令部司令多諾萬稱，該部隊“是美軍南方司令部應對整個西半球威脅的行動力量”。南方司令部早些時候在社交媒體發文稱，美軍於3日午夜由“南方之矛”聯合特遣部隊過渡到“西半球聯合特遣部隊”。"
+    },
+    {
+      "id": "5025783",
+      "time": "2026-08-05 10:19:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊震盪反彈 盛達資源漲停】貴金屬板塊震盪反彈，盛達資源漲停，四川黃金、曉程科技、中金黃金、山金國際、赤峰黃金等漲幅靠前。"
+    },
+    {
+      "id": "mkt:019fcfb7-82c7-7aab-8f7d-5071058d4c31",
+      "time": "2026-08-05 10:18:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share education sector rose after choppy trading; Xingye Co. and Xinkaipu hit the daily limit, Chuanzhi Education had earlier hit the daily limit, Zhonggong Education was up over 8%, and Kede Education and Angli Education also advanced."
+    },
     {
       "id": "5025782",
       "time": "2026-08-05 10:15:54",

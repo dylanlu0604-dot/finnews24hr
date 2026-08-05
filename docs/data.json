@@ -1,7 +1,92 @@
 {
-  "updated": "2026-08-05 10:19:18",
-  "count": 17817,
+  "updated": "2026-08-05 10:23:10",
+  "count": 17813,
   "items": [
+    {
+      "id": "5025787",
+      "time": "2026-08-05 10:22:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多支黃金股ETF漲超4%】貴金屬板塊漲超4%，黃金股ETF國泰（517400）、黃金股ETF華夏（159562）等多支黃金股ETF漲超4%。中國黃金國際、靈寶黃金、四川黃金漲超7%。"
+    },
+    {
+      "id": "mkt:019fcfba-4ae1-7aab-8f7d-647724c9348d",
+      "time": "2026-08-05 10:22:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US launches Western Hemisphere Joint Task Force to replace 'Southern Spear'】US Southern Command on the 4th announced the launch of a Western Hemisphere Joint Task Force to replace the former 'Southern Spear' joint task force that US forces used to target so‑called 'drug terrorists'."
+    },
+    {
+      "id": "mkt:019fcfba-10c0-7aab-8f7d-5d8798d55434",
+      "time": "2026-08-05 10:21:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "SSE 50 index rose more than 1%; Zhongwei Company jumped over 8%, leading index constituents."
+    },
+    {
+      "id": "te:markets:572779",
+      "time": "2026-08-05 10:21:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Pressured by Hormuz Deal Prospects — The dollar index remained below the 100 mark on Wednesday, coming under renewed pressure as reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz drove oil prices sharply lower, easing concerns over inflation and the need for additional interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to restore access through Hormuz. US Treasury Secretary Scott Bessent also said a deal could be reached as early as Tuesday or Wednesday. Markets reduced expectations for a September Federal Reserve rate hike to around 57%, down from 67% a day earlier. Investors are now awaiting a series of US labor market reports for further clues on the Fed’s policy outlook, with ADP’s July private payrolls data due later today. Meanwhile, the dollar continued to nurse losses against the yen after the US and Japan signaled they remain prepared to intervene again if necessary."
+    },
+    {
+      "id": "5025786",
+      "time": "2026-08-05 10:21:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5025785",
+      "time": "2026-08-05 10:20:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲0.18%。"
+    },
+    {
+      "id": "5025784",
+      "time": "2026-08-05 10:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美軍啟動“西半球聯合特遣部隊”取代“南方之矛”】美軍南方司令部4日宣佈啟動“西半球聯合特遣部隊”，以取代此前美軍打擊所謂“毒品恐怖分子”的“南方之矛”聯合特遣部隊。南方司令部當天發表宣告稱，“西半球聯合特遣部隊”將協調美軍與盟友及夥伴的行動，以應對威脅、加強地區安全，並“對整個西半球的危機做出快速反應”。南方司令部司令多諾萬稱，該部隊“是美軍南方司令部應對整個西半球威脅的行動力量”。南方司令部早些時候在社交媒體發文稱，美軍於3日午夜由“南方之矛”聯合特遣部隊過渡到“西半球聯合特遣部隊”。"
+    },
+    {
+      "id": "5025783",
+      "time": "2026-08-05 10:19:09",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊震盪反彈 盛達資源漲停】貴金屬板塊震盪反彈，盛達資源漲停，四川黃金、曉程科技、中金黃金、山金國際、赤峰黃金等漲幅靠前。"
+    },
+    {
+      "id": "mkt:019fcfb7-82c7-7aab-8f7d-5071058d4c31",
+      "time": "2026-08-05 10:18:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share education sector rose after choppy trading; Xingye Co. and Xinkaipu hit the daily limit, Chuanzhi Education had earlier hit the daily limit, Zhonggong Education was up over 8%, and Kede Education and Angli Education also advanced."
+    },
     {
       "id": "5025782",
       "time": "2026-08-05 10:15:54",
@@ -164763,122 +164848,6 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時放量1061億元。"
-    },
-    {
-      "id": "mkt:019fabae-b8ec-7aab-8edb-88120e2a96c7",
-      "time": "2026-07-29 10:23:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Council Taiwan Affairs Office urges Taiwan to promptly lift unreasonable restrictions on cross-strait air transport】On July 29, the State Council Taiwan Affairs Office said at a regular briefing that cross-strait travel has been strong this summer and airlines have resumed four direct routes, which have been popular with passengers. Airlines are working to restore direct-route networks and upgrade transit services to meet demand. Spokesperson Chen Binhua reiterated the office's positive, explicit push to fully normalize cross-strait direct air links and urged Taiwan to acknowledge passenger demand, align with public sentiment, promptly remove unreasonable restrictions on cross-strait air transport, and allow cross-strait carriers to autonomously schedule flights based on market demand."
-    },
-    {
-      "id": "5013468",
-      "time": "2026-07-29 10:22:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蜘蛛俠嶄新之日首日票房破億】據燈塔專業版，截至目前《蜘蛛俠：嶄新之日》上映首日票房已突破1億。"
-    },
-    {
-      "id": "5013467",
-      "time": "2026-07-29 10:22:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報57.66美元/盎司。"
-    },
-    {
-      "id": "5013466",
-      "time": "2026-07-29 10:22:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦：民進黨當局企圖“以武拒統”純屬自不量力】國務院臺辦舉行例行新聞釋出會。有記者問：近日，賴清德在參加“丹江艦”成軍典禮時稱，此舉“展現海軍面對中國軍事及海上灰色地帶侵擾，捍衛國家安全與海疆的堅定決心；向國際證明臺灣的國家安全政策是以實力達到遏阻目標”。請問對此有何評論?發言人陳斌華表示，賴清德相關言論，進一步暴露其頑固“臺獨”立場和“以武謀獨”禍心。民進黨當局罔顧島內要和平、要發展、要交流、要合作的主流民意，企圖“以武拒統”，純屬自不量力，只會把臺灣推向災難。"
-    },
-    {
-      "id": "5013465",
-      "time": "2026-07-29 10:22:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4090美元/盎司，日內跌0.21%。"
-    },
-    {
-      "id": "5013464",
-      "time": "2026-07-29 10:22:17",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國臺辦：希望臺灣方面儘快取消對兩岸航空運輸的不合理限制】國務院臺辦舉行例行新聞釋出會，有記者問：暑期是兩岸民間交流的高峰期，為幫助更多臺灣青年來大陸交流、研學等，有關航空公司對兩岸航班票價進行了優惠打折，獲得廣泛好評。請介紹有關情況。發言人陳斌華表示，暑期以來兩岸往來持續熱絡，航空公司恢復4條兩岸直航航線，備受旅客歡迎。為進一步滿足兩岸旅客需求，有關航空公司努力恢復運營兩岸直航航線產品體系、升級中轉服務。陳斌華重申，我們推動全面恢復兩岸空中直航正常化的態度是積極的、明確的，希望臺灣方面正視兩岸空中客運直航的現實需求，順應民心，儘快取消對兩岸航空運輸的不合理限制，由兩岸航空公司根據市場需求自主安排航班計劃。"
-    },
-    {
-      "id": "mkt:019fabad-aa4b-7aab-8edb-84c5cbd6a71b",
-      "time": "2026-07-29 10:21:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "06618.HK",
-        "Impact bullish",
-        "06060.HK",
-        "00241.HK"
-      ],
-      "text": "Hong Kong internet healthcare stocks rose after volatile trading: JD Health (06618.HK) up over 6%, ZhongAn Online (06060.HK) up nearly 4%, Alibaba Health (00241.HK) and 02459.HK around 3% higher."
-    },
-    {
-      "id": "5013463",
-      "time": "2026-07-29 10:21:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿創微納成立智聯科技公司，含積體電路業務】企查查APP顯示，近日，睿創智聯（杭州）科技有限公司成立，經營範圍包含：虛擬現實裝置製造；雷達及配套裝置製造；電子元器件批發；積體電路銷售；光學儀器銷售等。企查查股權穿透顯示，該公司由睿創微納全資持股。"
-    },
-    {
-      "id": "5013462",
-      "time": "2026-07-29 10:19:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【固態電池概念異動拉昇 金龍羽直線漲停】固態電池概念盤中異動拉昇，金龍羽直線漲停，領湃科技漲超10%，海科新源、博力威、華盛鋰電、科恆股份跟漲。"
-    },
-    {
-      "id": "5013461",
-      "time": "2026-07-29 10:19:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【康寧2026年第二季度光通訊業務銷售額同比增長32% 光連線產能將擴大10倍】康寧公司近日公佈2026年第二季度財務業績，實現核心銷售額為47.4億美元；核心運營利潤率20.9%；每股收益同比增長30%。報告期內，光通訊業務銷售額同比增長32%，達到20.7億美元。其中，企業網路業務銷售額增長65%，生成式人工智慧相關產品的銷售額增長強勁。公司與亞馬遜、英偉達的合作協議，將為亞馬遜提供光纖、光纜及連線解決方案支援，並計劃將美國光連線產品製造產能擴大10倍，美國光纖產能提升50%以上，以滿足人工智慧工廠建設帶動的持續增長需求。公司預計今年底年化銷售額將達到200億美元，2028年底和2030年底分別達到300億美元和400億美元。"
-    },
-    {
-      "id": "5013460",
-      "time": "2026-07-29 10:19:30",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利：老鋪黃金髮盈喜惟表現遜預期 料短期股價情緒偏弱】摩根士丹利釋出研報稱，老鋪黃金(06181)發盈喜，但表現遜於市場及該行預期。該行預期市場將會下調對老鋪黃金今明兩的盈利預測，短期內股價情緒或偏弱，後續將關注中期業績中的股東回報及管理層指引。該行重申其“增持”評級，維持目標價590港元。"
-    },
-    {
-      "id": "mkt:019fabab-719b-7aab-8edb-7e38a047d9d0",
-      "time": "2026-07-29 10:19:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's finance ministry said it is conducting an internal review of measures to stabilize the South Korean stock market."
-    },
-    {
-      "id": "5013459",
-      "time": "2026-07-29 10:19:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價暴跌11%。"
     }
   ]
 }
