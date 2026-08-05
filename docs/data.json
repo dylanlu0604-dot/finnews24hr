@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-05 23:47:20",
-  "count": 17964,
+  "updated": "2026-08-05 23:51:18",
+  "count": 17961,
   "items": [
+    {
+      "id": "5027325",
+      "time": "2026-08-05 23:49:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國圍剿哈利斯科新一代販毒集團，懸賞超1億美元徵集線索。"
+    },
+    {
+      "id": "mkt:019fd29c-1a1e-7aab-8f90-867b9bbff291",
+      "time": "2026-08-05 23:47:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's royal media adviser said the kingdom's air defense forces have repelled multiple Iranian air attacks in recent hours. Bahrain earlier sounded air-raid sirens amid the threat of strikes."
+    },
     {
       "id": "5027324",
       "time": "2026-08-05 23:45:26",
@@ -166156,48 +166178,6 @@
         "國際"
       ],
       "text": "安佈雷海事風險諮詢公司訊息：一艘由美國擁有並運營、懸掛馬紹爾群島船旗的液化天然氣浮式儲存裝置，在埃及達米埃塔港停靠期間遭至少一架無人機襲擊。"
-    },
-    {
-      "id": "mkt:019fae91-ce18-7aab-8eef-6f24245ff8d1",
-      "time": "2026-07-29 23:50:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Two security sources said gas storage tanks at Egypt's Damietta port may have been struck in a drone attack."
-    },
-    {
-      "id": "5014882",
-      "time": "2026-07-29 23:49:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名安全訊息人士：埃及達米埃塔港天然氣儲存罐船疑似遭無人機襲擊。"
-    },
-    {
-      "id": "mkt:019fae90-51ee-7aab-8eef-628c8d7d9922",
-      "time": "2026-07-29 23:48:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yingzhijie Shipping Services said vessels affected by an explosion have been moved outside the port and that other berths and terminals are expected to resume operations overnight."
-    },
-    {
-      "id": "mkt:019fae8f-9d66-7aab-8eef-5892715dd699",
-      "time": "2026-07-29 23:47:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yingzhijie Shipping Services Co. said an explosion occurred at the LNG terminal at Egypt's Damietta port during cargo unloading."
-    },
-    {
-      "id": "5014881",
-      "time": "2026-07-29 23:47:32",
-      "tags": [
-        "公司",
-        "資料",
-        "國際"
-      ],
-      "text": "據英奇角航運服務公司（Inchcape Shipping Services）報告，埃及達米埃塔港（Damietta Port）的液化天然氣（LNG）碼頭在卸貨期間發生爆炸。目前，發生爆炸的船隻已被轉移至遠離港口的區域，相關部門計劃夜間在其他碼頭和終端恢復港口運營。"
     }
   ]
 }

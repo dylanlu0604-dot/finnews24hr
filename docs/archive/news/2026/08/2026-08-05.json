@@ -1,7 +1,29 @@
 {
   "date": "2026-08-05",
-  "count": 3205,
+  "count": 3207,
   "items": [
+    {
+      "id": "5027325",
+      "time": "2026-08-05 23:49:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國圍剿哈利斯科新一代販毒集團，懸賞超1億美元徵集線索。"
+    },
+    {
+      "id": "mkt:019fd29c-1a1e-7aab-8f90-867b9bbff291",
+      "time": "2026-08-05 23:47:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's royal media adviser said the kingdom's air defense forces have repelled multiple Iranian air attacks in recent hours. Bahrain earlier sounded air-raid sirens amid the threat of strikes."
+    },
     {
       "id": "5027324",
       "time": "2026-08-05 23:45:26",
