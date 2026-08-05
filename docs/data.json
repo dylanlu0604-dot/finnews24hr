@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-05 20:44:36",
-  "count": 17928,
+  "updated": "2026-08-05 20:48:40",
+  "count": 17931,
   "items": [
+    {
+      "id": "mkt:019fd1f7-3c4a-7aab-8f8c-64c72e5031d9",
+      "time": "2026-08-05 20:47:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports a fire at a research institute of Russia’s State Space Corporation (Roscosmos) in Korolyov, a suburb of Moscow."
+    },
+    {
+      "id": "mkt:019fd1f6-def7-7aab-8f8c-5bca66a946b8",
+      "time": "2026-08-05 20:47:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Kashkari: rate hikes should be gradual; remains open to policy options】Federal Reserve official Kashkari told CNBC he remains open to future policy options but does not favor large rate increases. He said most recent inflation stems from supply shocks with some demand contribution and that his aim is to lower inflation, not slow the economy. Kashkari said it is time to begin raising rates gradually but opposed aggressive hikes, and stressed the value of continuing to explain the Fed's policy reaction function to the public, warning there is no 'magic' meeting count that dictates action."
+    },
+    {
+      "id": "5027051",
+      "time": "2026-08-05 20:47:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "莫斯科近郊科羅廖夫市的俄羅斯航天國家集團科研院所發生火災。"
+    },
+    {
+      "id": "5027050",
+      "time": "2026-08-05 20:47:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify高管：第二季度中，75%由人工智慧促成的訂單來自我們前100大品類之外的品類。"
+    },
+    {
+      "id": "5027049",
+      "time": "2026-08-05 20:46:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify高管：早期跡象表明，人工智慧搜尋對部分較小品牌而言助力尤為顯著。"
+    },
+    {
+      "id": "5027048",
+      "time": "2026-08-05 20:46:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【海南出臺十條措施支援加快電力專案規劃建設】海南省自然資源和規劃廳於近日聯合海南省發展和改革委員會、海南省林業局出臺《關於加強電力專案規劃建設自然資源要素保障若干措施（試行）》的通知，提出十條具體措施推動電網工程快速落地，形成有效投資。通知有效期至2029年12月31日。通知提出，支援電力設施與新興產業同步謀劃、同步設計、同步建設，全力保障重大產業配套電網工程，依託堅強電網支撐航天試驗、人工智慧算力、氫基綠色產業規模化落地，助力全省戰略性新興產業叢集高質量發展；做好電力相關規劃與國土空間規劃的銜接，推動電力發展規劃、電力專項規劃與國土空間規劃深度融合，電網重點專案統籌納入自然資源管理和國土空間規劃“一張圖”、國土空間規劃重點建設專案清單予以保障；強化空間剛性管控，納入國土空間規劃的電網專案建設用地，未經法定程式調整規劃，不得擅自佔用或者改變用途。"
+    },
+    {
+      "id": "5027047",
+      "time": "2026-08-05 20:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月5日，全球基金淨賣出94.3億印度盧比的印度股票。"
+    },
+    {
+      "id": "5027046",
+      "time": "2026-08-05 20:45:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "富蘭克林資源集團公佈截至2026年7月31日的初步管理資產規模為1.80萬億美元。"
+    },
+    {
+      "id": "5027045",
+      "time": "2026-08-05 20:44:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄羅斯 7 月石油稅收收入攀升至 15 個月高點】受伊朗衝突推高原油價格、同時政府減少對國內煉油企業補貼的雙重因素影響，俄羅斯 7 月石油稅收收入攀升至 15 個月高點。根據俄羅斯財政部週三公佈的資料測算，上月石油生產與銷售帶來的財政淨收入增長超 16%，達到 8283 億盧布（摺合 102 億美元），為 2025 年 4 月以來最高水平。俄羅斯聯邦預算 7 月油氣行業總收入達 9340 億盧布。"
+    },
     {
       "id": "5027044",
       "time": "2026-08-05 20:43:37",
@@ -165857,54 +165938,6 @@
         "其他"
       ],
       "text": "臺積電：裝置檢修與校準工作預計將耗費一定時長。"
-    },
-    {
-      "id": "5014647",
-      "time": "2026-07-29 20:47:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界糧食計劃署：剛果（金）東部近1000萬人面臨糧食危機】當地時間29日，世界糧食計劃署釋出宣告稱，隨著埃博拉疫情加速蔓延，糧食援助和後勤保障對於控制疫情至關重要。剛果（金）東部埃博拉疫情發生在複雜的人道主義環境中，當地面臨衝突、人口流離失所、基本服務不足以及衛生工作者罷工等問題。宣告指出，埃博拉疫情目前已影響剛果（金）東部5個省的48個衛生區，其中伊圖裡省約佔確診病例的90%。剛果（金）東部已有近1000萬人面臨危機或緊急級別的飢餓，其中伊圖裡省是飢餓問題最嚴重的地區之一，有190萬人處於危機級別或更嚴重的糧食不安全狀態。（央視新聞）"
-    },
-    {
-      "id": "5014646",
-      "time": "2026-07-29 20:47:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【珠海上半年GDP同比增長5.2%】珠海市統計局今天公佈2026年上半年珠海經濟執行簡況。根據廣東省地區生產總值統一核算結果，2026年上半年全市地區生產總值2389.00億元，按不變價格計算，同比增長5.2%。其中，第一產業增加值29.77億元，增長6.7%；第二產業增加值1017.09億元，增長7.2%；第三產業增加值1342.15億元，增長3.7%。"
-    },
-    {
-      "id": "5014645",
-      "time": "2026-07-29 20:47:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "波士頓科學高管表示，預計該公司2027年每股收益將實現有限增長。"
-    },
-    {
-      "id": "5014644",
-      "time": "2026-07-29 20:47:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【日產汽車因地震暫停了九州部分地區的生產】日產汽車發言人在一份宣告中表示，由於地震導致零部件供應延遲，日產汽車九州公司和日產車體九州公司本週將部分停產。"
-    },
-    {
-      "id": "mkt:019fade8-85bb-7aab-8eea-ccb6aa9061c8",
-      "time": "2026-07-29 20:45:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US weapons inventories shrinking after Iran escalation; no sign conflict will end soon, US media reports】CNN, citing three people familiar with recent Pentagon data and a new report, said US military weapons inventories have fallen sharply after recent escalations with Iran and the conflict shows no sign of ending in the near term. The Center for Strategic and International Studies (CSIS) said on Monday US Patriot interceptors number fewer than 827 and THAAD interceptors fewer than 278; sources say CSIS’s estimates align with internal US government data. CSIS warned lower inventories could force the US and its allies to accept higher risk in missile-interception operations and noted there is currently no full replacement for Patriot and THAAD. Trump said he wants to replenish stocks with more advanced systems quickly but that current inventories are “still in good shape.” The chairman of the Joint Chiefs said last week the Pentagon cannot procure needed munitions without additional funding."
-    },
-    {
-      "id": "5014643",
-      "time": "2026-07-29 20:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特電信第二季度淨利潤 36.2 億里亞爾，市場預期 34.5 億里亞爾。"
     }
   ]
 }

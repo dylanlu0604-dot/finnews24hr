@@ -1,7 +1,88 @@
 {
   "date": "2026-08-05",
-  "count": 2789,
+  "count": 2798,
   "items": [
+    {
+      "id": "mkt:019fd1f7-3c4a-7aab-8f8c-64c72e5031d9",
+      "time": "2026-08-05 20:47:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports a fire at a research institute of Russia’s State Space Corporation (Roscosmos) in Korolyov, a suburb of Moscow."
+    },
+    {
+      "id": "mkt:019fd1f6-def7-7aab-8f8c-5bca66a946b8",
+      "time": "2026-08-05 20:47:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Kashkari: rate hikes should be gradual; remains open to policy options】Federal Reserve official Kashkari told CNBC he remains open to future policy options but does not favor large rate increases. He said most recent inflation stems from supply shocks with some demand contribution and that his aim is to lower inflation, not slow the economy. Kashkari said it is time to begin raising rates gradually but opposed aggressive hikes, and stressed the value of continuing to explain the Fed's policy reaction function to the public, warning there is no 'magic' meeting count that dictates action."
+    },
+    {
+      "id": "5027051",
+      "time": "2026-08-05 20:47:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "莫斯科近郊科羅廖夫市的俄羅斯航天國家集團科研院所發生火災。"
+    },
+    {
+      "id": "5027050",
+      "time": "2026-08-05 20:47:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify高管：第二季度中，75%由人工智慧促成的訂單來自我們前100大品類之外的品類。"
+    },
+    {
+      "id": "5027049",
+      "time": "2026-08-05 20:46:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify高管：早期跡象表明，人工智慧搜尋對部分較小品牌而言助力尤為顯著。"
+    },
+    {
+      "id": "5027048",
+      "time": "2026-08-05 20:46:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【海南出臺十條措施支援加快電力專案規劃建設】海南省自然資源和規劃廳於近日聯合海南省發展和改革委員會、海南省林業局出臺《關於加強電力專案規劃建設自然資源要素保障若干措施（試行）》的通知，提出十條具體措施推動電網工程快速落地，形成有效投資。通知有效期至2029年12月31日。通知提出，支援電力設施與新興產業同步謀劃、同步設計、同步建設，全力保障重大產業配套電網工程，依託堅強電網支撐航天試驗、人工智慧算力、氫基綠色產業規模化落地，助力全省戰略性新興產業叢集高質量發展；做好電力相關規劃與國土空間規劃的銜接，推動電力發展規劃、電力專項規劃與國土空間規劃深度融合，電網重點專案統籌納入自然資源管理和國土空間規劃“一張圖”、國土空間規劃重點建設專案清單予以保障；強化空間剛性管控，納入國土空間規劃的電網專案建設用地，未經法定程式調整規劃，不得擅自佔用或者改變用途。"
+    },
+    {
+      "id": "5027047",
+      "time": "2026-08-05 20:46:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月5日，全球基金淨賣出94.3億印度盧比的印度股票。"
+    },
+    {
+      "id": "5027046",
+      "time": "2026-08-05 20:45:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "富蘭克林資源集團公佈截至2026年7月31日的初步管理資產規模為1.80萬億美元。"
+    },
+    {
+      "id": "5027045",
+      "time": "2026-08-05 20:44:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【俄羅斯 7 月石油稅收收入攀升至 15 個月高點】受伊朗衝突推高原油價格、同時政府減少對國內煉油企業補貼的雙重因素影響，俄羅斯 7 月石油稅收收入攀升至 15 個月高點。根據俄羅斯財政部週三公佈的資料測算，上月石油生產與銷售帶來的財政淨收入增長超 16%，達到 8283 億盧布（摺合 102 億美元），為 2025 年 4 月以來最高水平。俄羅斯聯邦預算 7 月油氣行業總收入達 9340 億盧布。"
+    },
     {
       "id": "5027044",
       "time": "2026-08-05 20:43:37",
