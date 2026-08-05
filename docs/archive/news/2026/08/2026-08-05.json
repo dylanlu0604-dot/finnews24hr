@@ -1,7 +1,204 @@
 {
   "date": "2026-08-05",
-  "count": 2884,
+  "count": 2905,
   "items": [
+    {
+      "id": "5027127",
+      "time": "2026-08-05 21:32:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "優步股價下跌4.3%，因該公司公佈第三季度調整後每股收益預期低於市場預估。"
+    },
+    {
+      "id": "mkt:019fd21f-a471-7aab-8f8d-2f4036925405",
+      "time": "2026-08-05 21:31:56",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bullish"
+      ],
+      "text": "Eli Lilly (LLY.N) shares opened 5.7% higher after second-quarter results beat expectations."
+    },
+    {
+      "id": "mkt:019fd21f-9e93-7aab-8f8d-242a7e291369",
+      "time": "2026-08-05 21:31:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the open on Wednesday Aug 5, the Dow Jones Industrial Average rose 381.35 points (+0.71%) to 54,467.23, the S&P 500 gained 50.32 points (+0.65%) to 7,786.81 and the Nasdaq Composite added 112.83 points (+0.42%) to 26,697.82."
+    },
+    {
+      "id": "5027126",
+      "time": "2026-08-05 21:31:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "Shopify股價在第三季度營收前景樂觀、第二季度業績公佈後大漲24.3%。"
+    },
+    {
+      "id": "5027125",
+      "time": "2026-08-05 21:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX股價暴跌12%，市值蒸發2050億美元。"
+    },
+    {
+      "id": "5027124",
+      "time": "2026-08-05 21:31:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SHOPIFY股價開盤上漲25%，此前該公司公佈第二季度營收超出預期。"
+    },
+    {
+      "id": "5027123",
+      "time": "2026-08-05 21:31:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "MEDLINE股價暴跌13%，創下去年12月IPO以來最大跌幅。"
+    },
+    {
+      "id": "5027122",
+      "time": "2026-08-05 21:31:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMD股價在釋出第二季度業績及展望後下跌6.6%。"
+    },
+    {
+      "id": "5027121",
+      "time": "2026-08-05 21:30:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "禮來第二季度業績超出預期，股價上漲5.7%。"
+    },
+    {
+      "id": "5027120",
+      "time": "2026-08-05 21:30:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "CVS HEALTH股價下跌10%，創1月27日以來最大單日跌幅。"
+    },
+    {
+      "id": "te:markets:573061",
+      "time": "2026-08-05 21:30:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CVS Health Stock Price Hits 8-week Low — CVS Health shares decreased to 93.97 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 7.92%, and in the last 12 months, it increased 48.22%."
+    },
+    {
+      "id": "5027119",
+      "time": "2026-08-05 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.70%，標普500指數漲0.65%，納指漲0.41%。Shopify漲22.77%，Arista Networks漲11.29%，國際香料香精漲9.67%，繽客漲7.32%，永利漲7.05%，紐曼礦業漲6.70%。“七姐妹”方面：英偉達漲3.18%，亞馬遜漲1.70%，Meta Platforms漲1.29%，谷歌漲0.88%，微軟漲0.85%，蘋果跌0.43%，特斯拉跌1.36%。"
+    },
+    {
+      "id": "mkt:019fd21e-8f74-7aab-8f8d-19b18394c06f",
+      "time": "2026-08-05 21:30:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "AI Revolution",
+        "AMD.O",
+        "Impact bearish",
+        "SHOP.N",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US equities opened higher: Dow +0.33%, S&P 500 +0.56%, Nasdaq +0.39%. SpaceX (SPCX.O) fell 10.5% on concerns over a surge in AI-related spending. AMD (AMD.O) dropped about 7% after weak Q2 results and a muted outlook. Shopify (SHOP.N) jumped about 20%. Gold briefly topped $4,200 intraday; miners Harmony Gold (HMY.N) rose 7.5% and Gold Fields (GFI.N) climbed 8.3%. Storage-related stocks were slightly lower."
+    },
+    {
+      "id": "5027118",
+      "time": "2026-08-05 21:30:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "INSULET股價暴跌24%，創2015年以來最大單日跌幅。"
+    },
+    {
+      "id": "5027117",
+      "time": "2026-08-05 21:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "FISERV與STUUT達成合作，將智慧體AI應用於企業應收賬款業務。"
+    },
+    {
+      "id": "5027116",
+      "time": "2026-08-05 21:30:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多S&P/TSX綜合指數<.GSPTSE>開盤上漲425.00點，漲幅1.19%，報36226.59點。"
+    },
+    {
+      "id": "te:markets:573059",
+      "time": "2026-08-05 21:30:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walt Disney Stock Price Hits 6-week High — Walt Disney shares increased to 103.08 USD, the highest since June 2026. Over the past 4 weeks, Walt Disney gained 0.79%, and in the last 12 months, it decreased 17.02%."
+    },
+    {
+      "id": "5027115",
+      "time": "2026-08-05 21:30:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "據傳 Vusion 正在評估各類方案，包括潛在出售。"
+    },
+    {
+      "id": "5027114",
+      "time": "2026-08-05 21:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【費大廚全國小炒肉大王僅憑影片評出？中烹協回應】近日，中國烹飪協會連發公告，全面清理並撤銷此前頒發的“大師”“名師”及“美食地標城市”等各類稱號，以響應8月1日正式施行的《社會組織評比表彰活動管理辦法》。有網友發現，費大廚的“全國小炒肉大王”稱號，是在中國烹飪協會舉辦的一場線上網路投票比賽中，靠參賽照片和影片贏得的。8月5日，中國烹飪協會該賽事相關負責人表示此事時間久遠，“待檢視資料後再溝通”。對於“全國小炒肉大王”這一稱號，是否在上述清理名單中，截至發稿，未獲回應。費大廚方面對此回應稱，已關注到此事，將去核實瞭解。（中國新聞週刊）"
+    },
+    {
+      "id": "5027113",
+      "time": "2026-08-05 21:28:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國警方逮捕了一名女子，此前她在科文特花園刺傷三人。"
+    },
+    {
+      "id": "5027112",
+      "time": "2026-08-05 21:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "VIRTUIX：訓練系統將於第四季度交付給駐匡提科的美國海軍陸戰隊。"
+    },
     {
       "id": "5027111",
       "time": "2026-08-05 21:28:05",
