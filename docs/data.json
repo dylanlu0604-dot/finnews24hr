@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-06 07:42:23",
-  "count": 17443,
+  "updated": "2026-08-06 07:46:14",
+  "count": 17442,
   "items": [
+    {
+      "id": "5027599",
+      "time": "2026-08-06 07:45:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱霍爾木茲海峽現有航道將關閉 】伊朗副外長加里巴巴迪當地時間8月5日晚表示，伊朗和阿曼已接近達成關於“商業船舶通行霍爾木茲海峽”的協議。屆時伊朗一側管控的北部航道和靠近阿曼一側的南部航道均將關閉——霍爾木茲海峽將建立新通行模式。根據新設定的航道，商業船舶進入霍爾木茲海峽以及駛離海峽的部分航程經過伊朗領海。但新航道同樣為臨時航道，預計可使用2至4個月。加里巴巴迪還否認有關伊美正在談判的說法，但表示伊朗已收到美方資訊，並稱美方表示“準備恢復履行此前簽署的諒解備忘錄中的承諾”。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "te:markets:573143",
+      "time": "2026-08-06 07:44:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Tick Higher Ahead of More Earnings — US stock futures edged higher on Thursday after the major indexes finished mixed in the previous session, as investors turned their attention to another round of corporate earnings. Markets are awaiting results from major companies including ConocoPhillips, Airbnb, and Warner Bros. Discovery. Traders will also be watching SpaceX, with insider lock-up restrictions set to expire today, allowing major shareholders to sell part of their holdings in Elon Musk’s rocket company. On Wednesday, SpaceX plunged nearly 14% after reporting a sharp rise in capital expenditures, fueling concerns about heavy artificial intelligence-related spending. Meanwhile, Nvidia climbed 3.4% after Elon Musk said during SpaceX’s earnings call that the company would rely exclusively on Nvidia chips for its AI infrastructure. The gains helped lift the Dow to another record high, while the S&P 500 and Nasdaq Composite came under pressure as weakness across the broader technology sector weighed on sentiment."
+    },
+    {
+      "id": "5027598",
+      "time": "2026-08-06 07:43:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4280美元/盎司，日內漲0.80%。"
+    },
+    {
+      "id": "5027597",
+      "time": "2026-08-06 07:43:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：未來五年光通訊行業有望持續保持高增長態勢】中信建投研報指出，AI算力產業鏈已進入下游需求倒逼上游產能的深度爆發期。亞馬遜一季度AI年化營收突破150億美元，證明了雲巨頭在AI應用端已建立起較強的商業變現能力與確定性；而上游核心光學元件巨頭Lumentum產能可能很快提前售罄至2028年，則揭示了底層硬體支撐的緊缺與建設週期之長。這種從雲端軟體營收增速到硬體基礎設施長達數年的訂單鎖定，構成了當前AI行業最為堅實的景氣迴圈閉環。中信建投維持對全球光通訊行業高景氣度的判斷，未來五年有望持續保持高增長態勢，持續推薦光通訊板塊。"
+    },
+    {
+      "id": "5027596",
+      "time": "2026-08-06 07:42:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4340美元/盎司，日內漲0.81%。"
+    },
     {
       "id": "5027595",
       "time": "2026-08-06 07:41:13",
@@ -160537,63 +160584,6 @@
         "MKT News"
       ],
       "text": "Musk said Starship's cost to orbit would fall to well below $100/kg if it achieves immediate, full reusability and local production of liquid oxygen (LOX) and liquid methane."
-    },
-    {
-      "id": "5015405",
-      "time": "2026-07-30 07:45:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌0.64%。"
-    },
-    {
-      "id": "5015404",
-      "time": "2026-07-30 07:45:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞證券和投資委員會（ASIC）正與市場運營機構共同探索搭建一個供使用者提交大額持股資訊的網路平臺。"
-    },
-    {
-      "id": "5015403",
-      "time": "2026-07-30 07:44:38",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲維持利率不變後 花旗仍維持降息預測】花旗經濟學家安德魯・霍倫霍斯特（Andrew Hollenhorst ）與維羅妮卡・克拉克（Veronica Clark ）在致客戶的研報中寫道：美聯儲官員週三維持利率不變，花旗依舊堅持觀點——美聯儲將於今年晚些時候降息。策略師從沃什的新聞釋出會中提煉出兩大偏鴿訊號：其一，沃什表示將綜合廣泛資料評估美聯儲在通脹治理方面取得的進展；其二，沃什指出實際收益率上行，已經起到部分收緊金融環境的效果。花旗仍預計未來數月失業率走高，推動美聯儲分別在10月、12月以及次年1月降息。"
-    },
-    {
-      "id": "te:markets:570899",
-      "time": "2026-07-30 07:44:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rise as Investors Assess Earnings — US stock futures edged higher on Thursday as investors evaluated earnings from major technology companies and the Federal Reserve’s latest policy decision. In after-hours trading, Microsoft jumped 9% after reporting results that topped analysts’ expectations, with strength driven in part by its cloud computing and artificial intelligence businesses. Meanwhile, Meta Platforms fell more than 6% as investors remained concerned about the company's ability to monetize its AI investments. Attention now shifts to earnings from tech giants Amazon and Apple later Thursday, along with results from major companies including Mastercard, Bristol-Myers, and Coinbase. Markets also continued to assess the Fed’s decision to keep interest rates unchanged, although three FOMC members voted in favor of a rate hike. During Wednesday’s regular session, the Dow dropped 2.19%, while the S&P 500 and Nasdaq Composite declined 1.52% and 1.74%, respectively."
-    },
-    {
-      "id": "5015402",
-      "time": "2026-07-30 07:43:06",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "花旗維持對美聯儲今年將三次降息的預測，分別在10月、12月和1月。"
-    },
-    {
-      "id": "5015401",
-      "time": "2026-07-30 07:42:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【空軍運20B將首次送新飛行學員報到】7月31日、8月1日，空軍將使用多架運-20飛機，從瀋陽、石家莊、濟南、南京、長沙和成都6個登機點，集中運送2026年新錄取飛行學員到空軍航空大學報到。這是空軍連續第5年使用國產大型運輸機運送新飛行學員入學報到，今年搭載國產發動機的運-20B飛機將首次參與執行此項任務。（央視軍事）"
     }
   ]
 }
