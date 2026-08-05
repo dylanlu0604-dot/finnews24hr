@@ -1,7 +1,57 @@
 {
   "date": "2026-08-05",
-  "count": 3146,
+  "count": 3151,
   "items": [
+    {
+      "id": "mkt:019fd279-1a52-7aab-8f90-088634932075",
+      "time": "2026-08-05 23:09:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said it has studied various technical, legal, security and environmental aspects of holding talks with Oman on the Strait of Hormuz."
+    },
+    {
+      "id": "5027286",
+      "time": "2026-08-05 23:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人5日在社交媒體發文說，伊朗與阿曼已就霍爾木茲海峽擬定航道的地理座標達成一致，兩國聯合宣告已進入終審階段。（新華社）"
+    },
+    {
+      "id": "mkt:019fd277-27d1-7aab-8f90-06f443240dec",
+      "time": "2026-08-05 23:07:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【US services activity maintains steady expansion; demand resilience supports growth】US services activity remained in steady expansion in July as new orders and business activity recovered. The ISM services index rose 0.1 point to 54.1 (expansion >50); new orders accelerated and the business-activity gauge reached a five-month high. Cost pressures intensified: the ISM input-price index jumped to 70.3 in July after the collapse of a temporary US–Iran agreement pushed oil and gasoline prices higher, and services and materials costs continued to rise. The employment subindex showed the largest reduction in staff since March; with elevated costs squeezing margins and weighing on consumer spending, some firms may delay hiring."
+    },
+    {
+      "id": "5027285",
+      "time": "2026-08-05 23:07:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊阿敲定霍爾木茲海峽協議草案 待伊朗最高領袖審批】兩名中東地區官員表示，伊朗與阿曼談判代表已敲定一份重新開放霍爾木茲海峽的協議草案，正等待伊朗最高領袖穆傑塔巴的最終批准。該擬議臨時安排規定，駛入波斯灣的船舶經由伊朗管控航道通行，駛出波斯灣的船舶經由阿曼管控航道通行，同時將收取用於安保與環境保護的服務費。官員稱，這份協議或將為美伊重啟伊朗核專案相關談判鋪平道路。"
+    },
+    {
+      "id": "mkt:019fd276-d47e-7aab-8f8f-f827a233238f",
+      "time": "2026-08-05 23:07:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President LULA said he cannot accept interference in Brazil's elections."
+    },
     {
       "id": "5027284",
       "time": "2026-08-05 23:06:43",
