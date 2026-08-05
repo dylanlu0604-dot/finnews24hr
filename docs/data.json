@@ -1,7 +1,178 @@
 {
-  "updated": "2026-08-05 20:32:18",
-  "count": 17907,
+  "updated": "2026-08-05 20:36:20",
+  "count": 17918,
   "items": [
+    {
+      "id": "mkt:019fd1ec-1b4f-7aab-8f8b-f5fbc0d5492d",
+      "time": "2026-08-05 20:35:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Treasury plans to maintain the size of its quarterly TIPS auctions."
+    },
+    {
+      "id": "5027019",
+      "time": "2026-08-05 20:35:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部計劃維持季度TIPS標售規模。"
+    },
+    {
+      "id": "5027018",
+      "time": "2026-08-05 20:35:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛麗家居：停牌核查完成，8月6日起復牌，股價9日累漲135.77%】愛麗家居公告，公司股票因交易異常波動及嚴重異常波動停牌核查，將於2026年8月6日開市起復牌。公司股票自2026年7月21日至7月31日連續9個交易日漲停，累計漲幅達135.77%，截至7月31日收盤價為22.54元/股，靜態市盈率317.9倍。公司預計2026年半年度歸母淨利潤為-4050萬元到-3450萬元。控股股東擬協議轉讓3668.1萬股（佔15.1405%）給趙銘、1222.7萬股（佔5.0468%）給百年勤書，並擬現金收購歐康諾不低於77.08%股權，相關正式協議尚未簽署。"
+    },
+    {
+      "id": "5027017",
+      "time": "2026-08-05 20:34:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行：本土投資的疲軟程度超出預期。"
+    },
+    {
+      "id": "mkt:019fd1eb-166b-7aab-8f8b-ea353c470e8e",
+      "time": "2026-08-05 20:34:32",
+      "tags": [
+        "MKT News",
+        "NYT.O"
+      ],
+      "text": "New York Times CEO says video remains a relatively small share of advertising growth."
+    },
+    {
+      "id": "5027016",
+      "time": "2026-08-05 20:34:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "《紐約時報》執行長表示：迄今為止，影片在廣告業務增長中所起的作用相對較小。"
+    },
+    {
+      "id": "mkt:019fd1ea-d5c0-7aab-8f8b-e51b840ce4a9",
+      "time": "2026-08-05 20:34:15",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury expects Treasury auction sizes to remain steady over the next few weeks."
+    },
+    {
+      "id": "5027015",
+      "time": "2026-08-05 20:34:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部預計未來幾周國庫券拍賣規模將保持穩定。"
+    },
+    {
+      "id": "mkt:019fd1ea-97aa-7aab-8f8b-dfa8b04a3dac",
+      "time": "2026-08-05 20:34:00",
+      "tags": [
+        "MKT News",
+        "US10Y"
+      ],
+      "text": "US Treasury expects nominal auction sizes to remain stable from August through October."
+    },
+    {
+      "id": "mkt:019fd1ea-6da9-7aab-8f8b-d3d1e95dc4a4",
+      "time": "2026-08-05 20:33:49",
+      "tags": [
+        "MKT News",
+        "NYT.O",
+        "Impact bullish"
+      ],
+      "text": "New York Times CEO said the company is confident that, as it significantly boosts user engagement at scale, it will have multiple long-term avenues to monetize video."
+    },
+    {
+      "id": "5027014",
+      "time": "2026-08-05 20:33:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【格林生物：首次公開發行3333.33萬股，初步詢價8月14日啟動】格林生物公告，公司首次公開發行3333.33萬股人民幣普通股（A股）並在創業板上市，發行股份佔發行後公司總股本比例為25.00%，發行後總股本為1.33億股。本次發行採用戰略配售、網下發行和網上發行相結合的方式進行，初始戰略配售發行數量為1000萬股，網下初始發行1633.33萬股，網上初始發行700萬股。本次發行初步詢價時間為2026年8月14日9:30-15:00，網上網下申購日同為2026年8月20日。"
+    },
+    {
+      "id": "mkt:019fd1e9-a91f-7aab-8f8b-c91b16b6f8ef",
+      "time": "2026-08-05 20:32:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Katz, Israel's defense minister, instructed the Israel Defense Forces (IDF) not to reduce defensive troop levels near Gaza."
+    },
+    {
+      "id": "5027013",
+      "time": "2026-08-05 20:32:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約時報美股盤前跌超10%】紐約時報美股盤前跌超10%，現報68.0美元。"
+    },
+    {
+      "id": "mkt:019fd1e9-a3da-7aab-8f8b-c31723c5c4bf",
+      "time": "2026-08-05 20:32:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude each rose $0.30, trading at $76.40/bbl and $80.44/bbl respectively."
+    },
+    {
+      "id": "5027012",
+      "time": "2026-08-05 20:32:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯利康股價大漲，訊息稱目前未與百時美施貴寶進行併購談判後，該股日內漲幅現已達到3.5%。"
+    },
+    {
+      "id": "mkt:019fd1e8-eb15-7aab-8f8b-bbbb1f2ca2c9",
+      "time": "2026-08-05 20:32:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "U.S. Treasury to auction $58bln 3-year notes on Aug. 11, $42bln 10-year notes on Aug. 12 and $25bln 30-year bonds on Aug. 13."
+    },
+    {
+      "id": "5027011",
+      "time": "2026-08-05 20:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：霍爾木茲海峽協議未規定對船舶徵收過境費】據報道，知情人士稱，目前正在談判中的伊朗與阿曼關於重新開放霍爾木茲海峽的提案，將不對過境該水道的船舶徵收過路費或服務費。訊息人士表示，根據伊朗和阿曼已磋商數日的提案，進入海峽的船隻將在德黑蘭的協調下，使用最靠近伊朗的航線；而駛離時，船隻將使用最靠近阿曼的航線，由馬斯喀特進行協調。該提案還將免除穿越這條關鍵水道所需的過境費或服務費，而這正是美國、伊朗與調解方之間多次會談中的主要癥結所在。訊息人士稱，如果該提案獲得批准，美國和伊朗將根據6月份簽署的諒解備忘錄所規定的條款重返談判桌，該備忘錄要求在60天內允許船隻免費透過海峽。"
+    },
+    {
+      "id": "5027010",
+      "time": "2026-08-05 20:31:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大鵝宣佈達成協議，將Baffin品牌出售給Royer；交易細節未披露。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608053832770425",
+      "time": "2026-08-05 20:31:35",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國將季度再融資規模定為1250億美元 符合市場預期】美國將季度再融資規模定為1250億美元，符合市場預期。美國財政部定於8月12日標售420億美元10年期國債。"
+    },
     {
       "id": "mkt:019fd1e8-1eb1-7aab-8f8b-b4b07f0d60ca",
       "time": "2026-08-05 20:31:18",
@@ -186,6 +357,14 @@
         "其他"
       ],
       "text": "巴基斯坦7月份貿易逆差為39.48億美元；預計為-40.7億美元。"
+    },
+    {
+      "id": "5026994",
+      "time": "2026-08-05 20:25:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網與中國農業銀行舉行會談】據國家電網有限公司官方網站，8月5日，國家電網公司董事長、黨組書記張智剛在公司總部與中國農業銀行股份有限公司董事長、黨委書記谷澍舉行會談。雙方表示，要在過去良好合作的基礎上，加強溝通，增進交流，深化合作，促進產融協同，推動雙方合作走深走實，共同推進能源電力高質量發展。"
     },
     {
       "id": "5026993",
@@ -165622,99 +165801,6 @@
         "Impact bearish"
       ],
       "text": "Market sources say Nissan Motor Co.'s Kyushu plant will partially halt production this week."
-    },
-    {
-      "id": "mkt:019fade0-2249-7aab-8eea-831c0dc04912",
-      "time": "2026-07-29 20:36:14",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bullish"
-      ],
-      "text": "Sources say President Trump and United Airlines CEO Kirby will unveil a $22 billion plan to expand and upgrade Washington Dulles Airport."
-    },
-    {
-      "id": "5014626",
-      "time": "2026-07-29 20:36:12",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【瑞銀高管：零利率環境持續至2027年，瑞士銀行業盈利能力面臨嚴峻考驗】瑞士銀行集團（UBS）首席財務官託德·塔克納（Todd Tuckner）表示，瑞士國家銀行（SNB）長期維持零利率的政策環境，正對瑞士本土銀行業務的盈利能力產生重要影響。此前有訊息稱，基於當前的通脹預期，瑞士央行可能將基準利率維持在零水平直至2027年底。塔克納在瑞銀公佈第二季度業績後的電話會議上指出，零利率環境確實對瑞銀在瑞士的業務構成了顯著壓力。他坦言，如果利率上升或降至零下，銀行的收益狀況都會更好。在負利率環境下，銀行通常可以更容易地向客戶傳導成本，從而增加淨利息收入及該業務領域的回報。"
-    },
-    {
-      "id": "te:markets:570780",
-      "time": "2026-07-29 20:35:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rebounds as Middle East Tensions Flare — Brent crude oil surged more than 6% to above $89 a barrel on Wednesday, snapping a three-day losing streak as renewed fighting across the Middle East reinforced concerns over potential supply disruptions. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
-    },
-    {
-      "id": "te:markets:570779",
-      "time": "2026-07-29 20:35:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rebounds as Middle East Tensions Flare — Crude oil surged more than 6% to above $84 a barrel on Wednesday, snapping a three-day losing streak as renewed fighting across the Middle East reinforced concerns over potential supply disruptions. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East. Meanwhile, Iran-backed militias in Iraq launched drones at oil facilities in Saudi Arabia’s Eastern Region for a second consecutive day. Also, there were reports that Yemen's Houthi militants were considering charging fees for vessels transiting the Red Sea, adding to concerns over shipping costs and energy flows. Iran has also sought to impose similar charges on the Strait of Hormuz. In the US, API data showed crude oil inventories fell by 3.3 million barrels last week, pointing to continued tightness in global oil supplies."
-    },
-    {
-      "id": "te:markets:570778",
-      "time": "2026-07-29 20:35:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Steady Ahead of Fed Decision — Gold traded around $4,020 an ounce on Wednesday, little changed from the previous session and hovering near its lowest level since November 2025, as investors awaited the Federal Reserve's policy decision. While the Fed is widely expected to leave interest rates unchanged, markets are pricing in roughly a 35% chance of a 25-basis-point hike today and an 80% probability of an increase in September. Elsewhere, the Bank of England and the Bank of Japan are also expected to keep rates unchanged this week while maintaining a cautious stance on inflation. Meanwhile, Commerzbank lowered its year-end gold price forecast to $4,500 per ounce and expects silver to reach $67 per ounce. On the geopolitical front, Tehran reportedly rejected Oman's proposal for joint regional management of the Strait of Hormuz, dampening hopes for easing tensions. Oil prices also rose following joint US-Saudi strikes in Iraq."
-    },
-    {
-      "id": "5014625",
-      "time": "2026-07-29 20:34:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金融科技ETF廣發：7月30日在深交所上市交易】金融科技ETF廣發公告稱，本基金於2026年7月30日開始在深圳證券交易所上市交易，場內簡稱“金融科技ETF廣發”，程式碼為159086，上市首日開盤參考價為1.020元。截至7月29日，投資標的指數成份股和備選成份股的資產佔基金資產淨值的99.36%，投資組合比例合規。投資者可諮詢客服或登入網站了解情況。基金投資有風險，投資者應自負盈虧。"
-    },
-    {
-      "id": "5014624",
-      "time": "2026-07-29 20:33:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受特朗普言論提振，油價飆升，美國國債期貨跌至新低】特朗普發表講話後，約1.5萬份10年期國債期貨在一分鐘內成交，創下當日最大成交量；隨後不久，該合約觸及當日低點，而10年期國債收益率升至當日高點，較週二收盤價下跌3個基點。WTI原油期貨維持在盤中高位，日內上漲約6.7%，繼續對美國國債構成壓力。5年期和30年期國債收益率曲線也再次趨於平緩，日內收窄約1.7個基點，下跌行情持續領跌。"
-    },
-    {
-      "id": "te:markets:570777",
-      "time": "2026-07-29 20:33:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Higher on Energy Strength — Futures tracking TSX stocks edged higher to a record high on Wednesday, supported by a good outlook for the energy sector. Oil prices rose as tensions in the Middle East escalated following joint US-Saudi strikes in Iraq, supporting energy stocks. Investors also assessed a batch of earnings from mining and energy companies. Cenovus reported higher second-quarter revenue and profit, supported by stronger oil prices. Agnico Eagle, Alamos Gold, Ivanhoe Mines, and Athabasca Oil are due to report results after the closing bell. Markets are also awaiting the US Fed's policy decision later in the day. While the Fed is widely expected to leave interest rates unchanged, investors are watching for possible dissenting votes in favor of a rate hike, reflecting divisions within the FOMC. Canadian bond yields moved higher ahead of the decision, tracking the rebound in oil prices and renewed inflation concerns, pressuring financial stocks."
-    },
-    {
-      "id": "mkt:019faddc-b3e7-7aab-8eea-7f1da6a3da8b",
-      "time": "2026-07-29 20:32:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "ENI.MI"
-      ],
-      "text": "ENI CEO says development plan for Venezuela's Perla gas field will be announced soon."
     }
   ]
 }
