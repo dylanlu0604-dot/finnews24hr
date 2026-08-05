@@ -1,7 +1,45 @@
 {
   "date": "2026-08-06",
-  "count": 299,
+  "count": 303,
   "items": [
+    {
+      "id": "5027490",
+      "time": "2026-08-06 04:36:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第未來：將為現有可轉換債券設定 5 美元的最低轉換底價，並計劃在四個季度內，將截至一季度末 2.3 億美元的負債降至 1 億美元以下。"
+    },
+    {
+      "id": "te:markets:573127",
+      "time": "2026-08-06 04:35:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.63% Higher — The Dow Jones Index rose 342 points or 0.63 percent on Wednesday to close at 54428 points. Leading the gains are Amgen (5.16%), Nvidia (3.84%) and Walt Disney (3.83%). Top losers were Alphabet (-4.58%), Chevron (-2.05%) and Amazon (-1.66%)."
+    },
+    {
+      "id": "5027489",
+      "time": "2026-08-06 04:35:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "CF 工業控股：受伊朗衝突影響，中東、非洲地區貿易流通的氮素供應減少約 400‑450 萬噸尿素以及約 100 萬噸氨。"
+    },
+    {
+      "id": "mkt:019fd3a1-b577-7aab-8f94-23a592bdf04d",
+      "time": "2026-08-06 04:33:38",
+      "tags": [
+        "MKT News",
+        "FFIE.O",
+        "Impact bullish"
+      ],
+      "text": "Faraday Future (FFIE.O) plans to cut liabilities of $230m as of end‑Q1 to below $100m within four quarters."
+    },
     {
       "id": "te:markets:573126",
       "time": "2026-08-06 04:32:12",

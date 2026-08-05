@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-06 04:32:49",
+  "updated": "2026-08-06 04:36:41",
   "count": 17558,
   "items": [
+    {
+      "id": "5027490",
+      "time": "2026-08-06 04:36:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第未來：將為現有可轉換債券設定 5 美元的最低轉換底價，並計劃在四個季度內，將截至一季度末 2.3 億美元的負債降至 1 億美元以下。"
+    },
+    {
+      "id": "te:markets:573127",
+      "time": "2026-08-06 04:35:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.63% Higher — The Dow Jones Index rose 342 points or 0.63 percent on Wednesday to close at 54428 points. Leading the gains are Amgen (5.16%), Nvidia (3.84%) and Walt Disney (3.83%). Top losers were Alphabet (-4.58%), Chevron (-2.05%) and Amazon (-1.66%)."
+    },
+    {
+      "id": "5027489",
+      "time": "2026-08-06 04:35:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "CF 工業控股：受伊朗衝突影響，中東、非洲地區貿易流通的氮素供應減少約 400‑450 萬噸尿素以及約 100 萬噸氨。"
+    },
+    {
+      "id": "mkt:019fd3a1-b577-7aab-8f94-23a592bdf04d",
+      "time": "2026-08-06 04:33:38",
+      "tags": [
+        "MKT News",
+        "FFIE.O",
+        "Impact bullish"
+      ],
+      "text": "Faraday Future (FFIE.O) plans to cut liabilities of $230m as of end‑Q1 to below $100m within four quarters."
+    },
     {
       "id": "te:markets:573126",
       "time": "2026-08-06 04:32:12",
@@ -161793,53 +161831,6 @@
         "Importance 0"
       ],
       "text": "O'Reilly Automotive earnings in line with market expectations at 0.86 USD — O'Reilly Automotive (ORLY) released earnings per share at 0.86 USD, in line with market expectations."
-    },
-    {
-      "id": "5015222",
-      "time": "2026-07-30 04:36:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Meta第三財季營收展望遜於預期 上調全年資本開支預估下限】Meta Platforms Inc.給出的本季度營收展望令人失望，加劇了投資者對該公司史無前例的人工智慧支出的擔憂。這家社交媒體巨頭表示，第三季度營收預計為610億至640億美元，彭博彙編的資料顯示，該區間中值低於分析師平均預期的632億美元。Meta依靠廣告業務為其代價高昂的AI產品和基礎設施投資提供資金。投資者一直質疑Meta最終將如何收回AI投資。今年早些時候，執行長馬克·扎克伯格將支出計劃提高至至多1450億美元，令市場感到不安。週三Meta將全年資本支出預測區間收窄至1300億至1450億美元，此前1250億至1450億美元的預測區間低端被小幅上調。Meta股價週三在紐約收於585.61美元，盤後下跌約4%。"
-    },
-    {
-      "id": "te:markets:570879",
-      "time": "2026-07-30 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 2.19% Lower — The Dow Jones Index fell 1156 points or 2.19 percent on Wednesday to close at 51591 points. Leading the losses are Caterpillar (-6.99%), Goldman Sachs (-5.17%) and Nvidia (-3.47%)."
-    },
-    {
-      "id": "mkt:019faf96-0279-7aab-8ef9-36f2a8030362",
-      "time": "2026-07-30 04:34:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. will hold an artificial intelligence summit in Lima, Peru on Sept. 8."
-    },
-    {
-      "id": "mkt:019faf94-cec9-7aab-8ef9-2c1f9964abe1",
-      "time": "2026-07-30 04:33:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish",
-        "MSFT.O",
-        "Impact bullish",
-        "QCOM.O"
-      ],
-      "text": "After earnings, Meta Platforms (META.O) shares are trading down about 6%; Microsoft (MSFT.O) is up about 3%; Qualcomm (QCOM.O) is down about 4.6%."
     }
   ]
 }
