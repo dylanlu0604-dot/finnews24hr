@@ -1,7 +1,92 @@
 {
   "date": "2026-08-05",
-  "count": 1465,
+  "count": 1473,
   "items": [
+    {
+      "id": "te:markets:572849",
+      "time": "2026-08-05 13:51:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold Hits 4-week High — Gold increased to 4169.00 USD/t.oz, the highest since July 2026. Over the past 4 weeks, Gold gained 0.08%, and in the last 12 months, it increased 23.73%."
+    },
+    {
+      "id": "mkt:019fd079-a7ec-7aab-8f82-88f73e620350",
+      "time": "2026-08-05 13:51:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC Shanghai HQ to implement appropriately loose monetary policy, push banks to deepen credit supply】At an Aug 4 H2 2026 meeting, the PBOC Shanghai headquarters said it will firmly implement an appropriately loose monetary policy and press financial institutions to more actively tap effective credit demand. It will deploy structural monetary-policy tools, support a Shanghai bond market technology board, and steadily deepen financial reform and opening, including improving the FX management framework and advancing cross-border trade financing, overseas lending and overseas listing policies. The HQ urged stronger SME FX-hedging capacity, coordination of cross-border and offshore finance with accelerated pilots for offshore business reform, and faster digital renminbi adoption and ecosystem building. It also prioritized strengthening macroprudential frameworks, systemic risk prevention and cross-border risk monitoring, and cracking down on illegal financial activity."
+    },
+    {
+      "id": "5026085",
+      "time": "2026-08-05 13:49:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "喜力首席財務官：我們預計還將收到約三倍規模的關稅退款。"
+    },
+    {
+      "id": "mkt:019fd078-5a4b-7aab-8f82-862bf4ce09c5",
+      "time": "2026-08-05 13:49:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share semiconductor materials sector rallied, led by Youyan Silicon’s 20cm stock hitting the daily trading limit; Yake Technology, Kangqiang Electronics and Youyan New Materials had earlier hit limit-up while Shengong Co. and Xi'an Yicai also advanced."
+    },
+    {
+      "id": "5026084",
+      "time": "2026-08-05 13:49:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅擴大至超4%。"
+    },
+    {
+      "id": "5026083",
+      "time": "2026-08-05 13:49:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "喜力首席財務官：我們已收到1000萬歐元美國關稅退稅款。"
+    },
+    {
+      "id": "5026082",
+      "time": "2026-08-05 13:48:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體材料板塊震盪走高，有研矽20cm漲停】半導體材料板塊震盪走高，有研矽20cm漲停，此前雅克科技、康強電子、有研新材等股漲停，神工股份、歐萊新材、西安奕材漲幅居前。"
+    },
+    {
+      "id": "mkt:019fd076-9581-7aab-8f82-7f26216eb14d",
+      "time": "2026-08-05 13:47:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's Sci-Tech Innovation 50 Index rallied more than 6% in the afternoon session. Component movers: Advanced Micro‑Fabrication Equipment (AMEC) up over 14%, TuoJing Technology up about 13%, China Resources Microelectronics (CR Micro) up nearly 9%."
+    },
     {
       "id": "5026081",
       "time": "2026-08-05 13:47:21",
