@@ -1,7 +1,50 @@
 {
   "date": "2026-08-05",
-  "count": 741,
+  "count": 746,
   "items": [
+    {
+      "id": "5025616",
+      "time": "2026-08-05 08:49:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【亞洲銅業股上漲 銅價創5月以來新高】亞洲銅業股早盤上漲，銅價升至5月中旬以來的最高水平。週二，倫敦金屬交易所（LME）銅價上漲1.4%，至每噸14,066.50美元。7月份，超過20萬噸銅抵達美國港口，這是IHS Markit航運資料自2014年有記錄以來的最高月度吞吐量。儘管美國對精煉銅加徵關稅的計劃存在不確定性，但美國銅進口速度仍在加快。澳大利亞市場，Capstone Copper股價上漲高達5.7%，Sandfire Resources上漲3.4%，必和必拓上漲2.8%，力拓上漲2.3%。日本市場方面，住友金屬礦業上漲4.1%，三菱材料上漲4.7%，Dowa上漲3.7%，JX先進金屬漲5.5%。"
+    },
+    {
+      "id": "5025615",
+      "time": "2026-08-05 08:48:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加3.43噸】截至2026年08月04日，全球最大的黃金ETF SPDR Gold Trust持倉量為1009.30噸，較前一個交易日增加3.43噸。"
+    },
+    {
+      "id": "mkt:019fcf64-2fd6-7aab-8f7b-149949ef242c",
+      "time": "2026-08-05 08:47:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai, Shenzhen margin balances rise 11.97 bln yuan】As of Aug 4, Shanghai Stock Exchange margin balance was 1.3294 trln yuan, up 6.15 bln yuan from the prior trading day; Shenzhen Stock Exchange margin balance was 1.2547 trln yuan, up 5.82 bln yuan; combined margin balance 2.5841 trln yuan, up 11.97 bln yuan."
+    },
+    {
+      "id": "5025614",
+      "time": "2026-08-05 08:47:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛鋒鋰業：剛果布穀馬鉀肥專案預計2027年投產】贛鋒鋰業在互動平臺表示，剛果布穀馬鉀肥專案是一次性建成200萬噸氯化鉀產能，預計2027年投產。"
+    },
+    {
+      "id": "5025613",
+      "time": "2026-08-05 08:47:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加119.71億元】截至8月4日，上交所融資餘額報13294.07億元，較前一交易日增加61.49億元；深交所融資餘額報12547.38億元，較前一交易日增加58.22億元；兩市合計25841.45億元，較前一交易日增加119.71億元。"
+    },
     {
       "id": "5025612",
       "time": "2026-08-05 08:47:10",
