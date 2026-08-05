@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-06 01:20:56",
-  "count": 17994,
+  "updated": "2026-08-06 01:24:53",
+  "count": 17991,
   "items": [
+    {
+      "id": "mkt:019fd2f4-2d41-7aab-8f92-2e32e7861bdc",
+      "time": "2026-08-06 01:24:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "CENTCOM said as of Aug 5 US forces had altered the routes of 48 commercial vessels, rendered two vessels inoperable, and boarded and inspected two others."
+    },
+    {
+      "id": "5027401",
+      "time": "2026-08-06 01:23:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：地區國家已接受伊朗和阿曼就霍爾木茲海峽達成諒解協議。"
+    },
+    {
+      "id": "5027400",
+      "time": "2026-08-06 01:21:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：目前達成的共識是一個新的模式，它考慮了周邊安全環境以及應規範霍爾木茲海峽的安排。"
+    },
     {
       "id": "5027399",
       "time": "2026-08-06 01:19:38",
@@ -166378,65 +166406,6 @@
         "XAUUSD"
       ],
       "text": "【Netanyahu discussed three Iran options with Trump】A senior Israeli official said July 28 Prime Minister Netanyahu held a roughly 90-minute White House meeting with President Trump focused on Iran. Netanyahu signaled doubt a US‑Iran deal is likely and discussed stepping up economic pressure on Iran by military and non‑military means. The official said Trump was weighing three options: pursue a deal; maintain a maritime blockade and tighten economic pressure; or resume and expand military strikes. Trump warned a war would hit energy markets and the global economy, while Netanyahu said Iran is using the Strait of Hormuz as a remaining leverage point to extract concessions from the US."
-    },
-    {
-      "id": "5014931",
-      "time": "2026-07-30 01:24:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國能源部長賴特：戰略石油儲備規模仍遠高於運營最低儲備閾值，其存量僅為管道原油輸送量的一半。美國軍方正在護送石油和天然氣透過海峽。"
-    },
-    {
-      "id": "mkt:019faee7-7c7c-7aab-8ef0-f307d4f1078c",
-      "time": "2026-07-30 01:23:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. Energy Secretary Wright said the U.S. military is escorting oil and gas shipments through the strait."
-    },
-    {
-      "id": "mkt:019faee7-1689-7aab-8ef0-ef19ea592aaf",
-      "time": "2026-07-30 01:23:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary wright said the Strategic Petroleum Reserve (SPR) remains far from its minimum operational level."
-    },
-    {
-      "id": "5014930",
-      "time": "2026-07-30 01:23:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡被曝與特朗普討論三種對伊策略】當地時間7月29日，一名以色列高階官員透露，以色列總理內塔尼亞胡當地時間28日與美國總統特朗普在白宮舉行約90分鐘會談，伊朗問題是會談重點，兩人討論了三種方案。內塔尼亞胡對美伊達成協議的可能性表示懷疑，並與特朗普討論透過軍事和非軍事手段進一步加大對伊朗的經濟壓力。\n這名官員稱，雙方重點討論了特朗普正在考慮的三種方案：繼續推動與伊朗達成協議；維持針對伊朗的海上封鎖並加強經濟壓力；恢復並擴大軍事打擊。特朗普對戰爭衝擊能源市場和全球經濟表示擔憂，內塔尼亞胡則認為，伊朗正利用霍爾木茲海峽這一僅剩的重要籌碼迫使美國讓步。\n內塔尼亞胡表示，伊朗經濟已承受嚴重壓力，國內出現燃油供應困難、加油站排長隊和柴油短缺等問題，並出現小規模抗議。以方認為，伊朗領導層內部正就經濟崩潰風險產生分歧。內塔尼亞胡同時向特朗普明確表示，一旦伊朗襲擊以色列，以方將立即作出強力回應。\n在美國與沙特的核能合作協議問題上，特朗普表示，他將該協議與沙特同以色列實現關係正常化聯絡起來。以色列官員稱，只有在正常化取得實質進展後，以方才會進一步討論核問題。（央視新聞）"
-    },
-    {
-      "id": "mkt:019faee5-f3c5-7aab-8ef0-e7b62eff2a92",
-      "time": "2026-07-30 01:22:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Energy Secretary wright said half flows through the strait and the other half through pipelines."
-    },
-    {
-      "id": "5014929",
-      "time": "2026-07-30 01:21:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔斯尼姆通訊社援引敘利亞訊息源報道：以色列軍方對德拉省附近亞爾穆克盆地的阿卜丁鎮周邊區域實施炮火襲擊。"
     }
   ]
 }

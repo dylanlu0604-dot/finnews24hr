@@ -1,7 +1,35 @@
 {
   "date": "2026-08-06",
-  "count": 130,
+  "count": 133,
   "items": [
+    {
+      "id": "mkt:019fd2f4-2d41-7aab-8f92-2e32e7861bdc",
+      "time": "2026-08-06 01:24:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "CENTCOM said as of Aug 5 US forces had altered the routes of 48 commercial vessels, rendered two vessels inoperable, and boarded and inspected two others."
+    },
+    {
+      "id": "5027401",
+      "time": "2026-08-06 01:23:37",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長：地區國家已接受伊朗和阿曼就霍爾木茲海峽達成諒解協議。"
+    },
+    {
+      "id": "5027400",
+      "time": "2026-08-06 01:21:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：目前達成的共識是一個新的模式，它考慮了周邊安全環境以及應規範霍爾木茲海峽的安排。"
+    },
     {
       "id": "5027399",
       "time": "2026-08-06 01:19:38",
