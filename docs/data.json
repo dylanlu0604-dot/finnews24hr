@@ -1,7 +1,126 @@
 {
-  "updated": "2026-08-06 07:50:05",
-  "count": 17435,
+  "updated": "2026-08-06 07:53:52",
+  "count": 17426,
   "items": [
+    {
+      "id": "5027610",
+      "time": "2026-08-06 07:52:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【維立志博：維利信用於治療肝細胞癌的Ⅱ期研究進入擴充套件階段】8月6日早間，維立志博在港交所公告，公司自主研發的PD-L1/4-1BB雙特異性抗體奧帕替蘇米單抗（維利信™）一線治療肝細胞癌(HCC)Ⅱ期臨床研究經專家審議完成安全性匯入期評估，順利進入擴充套件階段。本研究由復旦大學附屬中山醫院院長、中國科學院院士周儉教授牽頭，初步資料研究顯示，奧帕替蘇米單抗聯合貝伐珠單抗在HCC患者中展現出明確且積極的療效訊號，整體安全性和耐受性良好。"
+    },
+    {
+      "id": "5027609",
+      "time": "2026-08-06 07:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽談判取得進展 地區危機並未徹底解決】當地時間5日晚，伊朗外交部方面宣佈，伊朗與阿曼的談判富有進展，雙方就霍爾木茲海峽通航的航線相關地理座標達成一致，並正在起草聯合宣告。分析指出，鑑於伊朗與地區國家、特別是阿曼，並無根深蒂固的敵意，因此與阿曼達成諒解備忘錄不是一項難題。該諒解備忘錄將在一定程度上緩和地區的緊張局勢，為解決中東危機提供了機遇和視窗期，但這些並不意味著地區危機的徹底解決，也不意味著伊朗與美國關係走向緩和。伊朗輿論普遍認為，在與阿曼達成諒解後，美國採取何種態度和行為非常重要。如果美國繼續對伊朗抱有敵意或威脅對伊朗發動戰爭，則地區危機將無法得到實質性緩和。但如果美國履行對伊承諾，執行在巴基斯坦斡旋下達成的諒解備忘錄條款，則伊美雙方或將就更多分歧進行分階段的接觸。（央視）"
+    },
+    {
+      "id": "5027608",
+      "time": "2026-08-06 07:50:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本至7月31日當週買進外國債券 4779億日元，前值由-8114億日元修正為-8101億日元。日本至7月31日當週外資買進日股 -3925億日元，前值由9121億日元修正為9124億日元。日本至7月31日當週買進外國股票 -2764億日元，前值3202億日元。日本至7月31日當週外資買進日債 5589億日元，前值-15139億日元。"
+    },
+    {
+      "id": "mkt:019fd456-07b8-7aab-8f95-38efa73077ca",
+      "time": "2026-08-06 07:50:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Foreign investors bought 558.9 bln yen of Japanese government bonds (JGBs) in the week to July 31, versus net sales of 1,513.9 bln yen in the prior week."
+    },
+    {
+      "id": "mkt:019fd455-feec-7aab-8f95-33eb6930d6a1",
+      "time": "2026-08-06 07:50:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's net sales of foreign equities for the week to July 31 totaled ¥276.4bn, versus net purchases of ¥320.2bn in the prior week."
+    },
+    {
+      "id": "mkt:019fd455-e0b1-7aab-8f95-29a79960a8fe",
+      "time": "2026-08-06 07:50:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jul.31) | actual 558900000000B | previous -1513900000000B"
+    },
+    {
+      "id": "mkt:019fd455-cd23-7aab-8f95-25d4b279ac1d",
+      "time": "2026-08-06 07:50:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Jul.31) | actual -276400000000B | previous 320200000000B"
+    },
+    {
+      "id": "mkt:019fd455-ade2-7aab-8f95-1cb4caf80d20",
+      "time": "2026-08-06 07:50:12",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors were net sellers of Japanese equities by 392.5 bln yen in the week through July 31; the prior week's figure was revised from 912.1 bln yen to 912.4 bln yen."
+    },
+    {
+      "id": "mkt:019fd455-a615-7aab-8f95-111f8dcc5e3a",
+      "time": "2026-08-06 07:50:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan bought 477.9 bln yen of foreign bonds in the week to July 31; the prior week's figure was revised from -811.4 bln yen to -810.1 bln yen."
+    },
+    {
+      "id": "mkt:019fd455-8073-7aab-8f95-0afbc1f9f102",
+      "time": "2026-08-06 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jul.31) | actual -392500000000B | previous 912100000000B"
+    },
+    {
+      "id": "mkt:019fd455-801e-7aab-8f95-053951df772e",
+      "time": "2026-08-06 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Jul.31) | actual 477900000000B | previous -811400000000B"
+    },
+    {
+      "id": "5027607",
+      "time": "2026-08-06 07:49:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全日空、日本航空將於9月下調燃油附加費】共同社援引未具名訊息報道，受燃油成本回落影響，全日空與日本航空計劃在9‑10月下調國際航班燃油附加費。9‑10月的附加費標準將參照6‑7月燃油價格制定；美伊達成臨時停火協議後，油價出現回落。具體下調幅度將在與日本國土交通省磋商後確定。"
+    },
     {
       "id": "5027606",
       "time": "2026-08-06 07:48:42",
@@ -160303,209 +160422,6 @@
         "其他"
       ],
       "text": "索尼：相信該提議將提升騰龍的企業價值並符合利益相關者的利益。"
-    },
-    {
-      "id": "5015419",
-      "time": "2026-07-30 07:53:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星：預計下半年整體盈利將實現增長。韓元走弱在第二季度產生了31萬億韓元的積極影響。"
-    },
-    {
-      "id": "mkt:019fb04c-4eb5-7aab-8efb-f2f0439084f3",
-      "time": "2026-07-30 07:53:38",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics said won depreciation delivered a positive impact of KRW 3.1 tln in Q2."
-    },
-    {
-      "id": "mkt:019fb04b-deff-7aab-8efb-ee47aa1ab6c2",
-      "time": "2026-07-30 07:53:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huatai Macro: July FOMC pause eroded Fed credibility; September hike still likely】Huatai Macro says the July FOMC hold has, to some extent, damaged Fed credibility—market inflation expectations rose and long-end yields moved higher. By contrast, June’s unexpectedly hawkish FOMC had tightened financial conditions, lowered inflation expectations and boosted Fed credibility. With energy prices rebounding, July’s pause may have led markets to view Waller’s zero-tolerance inflation rhetoric as bluff; post-meeting inflation expectations and long-term yields rose, signaling a partial loss of credibility. Huatai still assigns a relatively high probability of a September rate hike and keeps a baseline of 1–2 hikes this year and two more before mid-next year. Key risks: (1) Waller’s hawkish stance could be bluster; (2) an abrupt end to the AI-driven rally could tighten financial conditions and make further hikes unnecessary. Watch July–August jobs and inflation prints and Waller’s Jackson Hole speech on Aug. 27."
-    },
-    {
-      "id": "mkt:019fb04b-d76e-7aab-8efb-e05cf467e942",
-      "time": "2026-07-30 07:53:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Samsung Electronics forecasts continuing profit growth in H2."
-    },
-    {
-      "id": "mkt:019fb04b-ce8d-7aab-8efb-de9fe8f6dd31",
-      "time": "2026-07-30 07:53:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea says it is closely monitoring risk factors and their impact on the domestic economy and markets."
-    },
-    {
-      "id": "5015418",
-      "time": "2026-07-30 07:52:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：第二季度晶片業務營業利潤為89.2萬億韓元。"
-    },
-    {
-      "id": "5015417",
-      "time": "2026-07-30 07:52:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：將密切關注風險因素及其對國內經濟和市場的影響。"
-    },
-    {
-      "id": "mkt:019fb04a-8d0d-7aab-8efb-d5549e1cb335",
-      "time": "2026-07-30 07:51:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bearish"
-      ],
-      "text": "Samsung Electronics said uncertainty will persist in H2 due to memory supply issues."
-    },
-    {
-      "id": "em:jjsj_rbsj:202607303825732491",
-      "time": "2026-07-30 07:51:32",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至7月24日當週外資買進日股9121億日元，前值由-796億日元修正為-819億日元。"
-    },
-    {
-      "id": "5015416",
-      "time": "2026-07-30 07:51:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至7月24日當週買進外國債券 -8114億日元，前值由-7144億日元修正為-7237億日元。日本至7月24日當週外資買進日股 9121億日元，前值由-796億日元修正為-819億日元。日本至7月24日當週外資買進日債 -15139億日元，前值由-1851億日元修正為-1850億日元。日本至7月24日當週買進外國股票 3202億日元，前值-1213億日元。"
-    },
-    {
-      "id": "5015415",
-      "time": "2026-07-30 07:51:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：下半年受記憶體供應問題影響，不確定性將持續存在。"
-    },
-    {
-      "id": "mkt:019fb04a-15b2-7aab-8efb-ca3d10323126",
-      "time": "2026-07-30 07:51:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Foreign investors were net sellers of Japanese government bonds (JGBs) by ¥1.514 trillion in the week to July 24. The prior week's net selling was revised to ¥185.0 billion from ¥185.1 billion."
-    },
-    {
-      "id": "mkt:019fb04a-0c0b-7aab-8efb-c463020d7e8e",
-      "time": "2026-07-30 07:51:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "Japan bought foreign equities worth 320.2 bln yen in the week to July 24, versus net sales of 121.3 bln yen in the prior week."
-    },
-    {
-      "id": "5015414",
-      "time": "2026-07-30 07:51:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：預計下半年移動業務利潤有限。"
-    },
-    {
-      "id": "mkt:019fb049-e760-7aab-8efb-ba792d72b559",
-      "time": "2026-07-30 07:51:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Jul.24) | actual 320200000000B | previous -121300000000B"
-    },
-    {
-      "id": "mkt:019fb049-e4c3-7aab-8efb-b56b421bbbce",
-      "time": "2026-07-30 07:51:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jul.24) | actual -1513900000000B | previous -185100000000B"
-    },
-    {
-      "id": "5015413",
-      "time": "2026-07-30 07:50:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【張曉虎任內蒙古電力集團董事長】據內蒙古電力集團官網，近日，內蒙古電力集團黨委書記、董事長、總經理張曉虎一行受邀訪問烏茲別克，深入開展能源電力領域交流對接，簽署合作協議，推動中烏能源電力合作取得新進展。上述訊息顯示，張曉虎已任內蒙古電力集團黨委書記、董事長、總經理。"
-    },
-    {
-      "id": "mkt:019fb049-3b35-7aab-8efb-aec944cd46aa",
-      "time": "2026-07-30 07:50:16",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics says it plans to raise smartphone market share in H2."
-    },
-    {
-      "id": "mkt:019fb049-209c-7aab-8efb-a6fa4b723308",
-      "time": "2026-07-30 07:50:10",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics says its contract manufacturing business expects double-digit revenue growth this year."
-    },
-    {
-      "id": "mkt:019fb049-1d7c-7aab-8efb-9a0c8dc7a707",
-      "time": "2026-07-30 07:50:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Japan's net purchases of foreign bonds in the week to July 24 were -811.4 bln yen; the prior value was revised from -714.4 bln yen to -723.7 bln yen."
-    },
-    {
-      "id": "mkt:019fb049-17f4-7aab-8efb-9627d97f782a",
-      "time": "2026-07-30 07:50:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Foreign investors' net purchases of Japanese equities were ¥912.1 billion in the week to July 24; the prior week's net flow was revised from -¥79.6 billion to -¥81.9 billion."
     }
   ]
 }
