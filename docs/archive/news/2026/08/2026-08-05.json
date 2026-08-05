@@ -1,7 +1,1458 @@
 {
   "date": "2026-08-05",
-  "count": 2509,
+  "count": 2670,
   "items": [
+    {
+      "id": "5026971",
+      "time": "2026-08-05 20:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Beamr將英偉達影片超解析度技術應用於體育賽事直播與廣播影片。"
+    },
+    {
+      "id": "mkt:019fd1d9-81dc-7aab-8f8b-0fff672851dc",
+      "time": "2026-08-05 20:15:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,200/oz, up 3.02% on the day."
+    },
+    {
+      "id": "5026970",
+      "time": "2026-08-05 20:15:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "ADP資料顯示，美國7月份服務業就業崗位增加4.7萬個。"
+    },
+    {
+      "id": "5026969",
+      "time": "2026-08-05 20:15:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4200美元/盎司，日內漲3.02%。"
+    },
+    {
+      "id": "5026968",
+      "time": "2026-08-05 20:15:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲3%，現報4200.52美元/盎司。"
+    },
+    {
+      "id": "mkt:019fd1d9-68e9-7aab-8f8b-01cb081547ac",
+      "time": "2026-08-05 20:15:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US July ADP private payrolls +44,000 vs +70,000 expected; June +98,000."
+    },
+    {
+      "id": "5026967",
+      "time": "2026-08-05 20:15:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4260美元/盎司，日內漲2.60%。"
+    },
+    {
+      "id": "5026966",
+      "time": "2026-08-05 20:15:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月ADP就業人數 4.4萬人，預期7萬人，前值9.8萬人。"
+    },
+    {
+      "id": "mkt:019fd1d9-33c9-7aab-8f8a-f889c2219e9e",
+      "time": "2026-08-05 20:15:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | ADP Employment Change (Jul) | actual 44000K | consensus 70000K | previous 98000K"
+    },
+    {
+      "id": "mkt:019fd1d8-fdd7-7aab-8f8a-f2ee642e9f23",
+      "time": "2026-08-05 20:14:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Kashkari said he remains open-minded and has no strong personal view."
+    },
+    {
+      "id": "5026965",
+      "time": "2026-08-05 20:14:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐蒙特美股盤前漲超5%】紐蒙特美股盤前漲超5%，現報102.75美元。"
+    },
+    {
+      "id": "5026964",
+      "time": "2026-08-05 20:14:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Circle執行長表示，市場正逐漸脫離加密貨幣投機，轉向支援代幣化股票、代幣化大宗商品及其他代幣化資產交易的開放式全球數字資產市場。"
+    },
+    {
+      "id": "mkt:019fd1d8-4d8d-7aab-8f8a-e8551f7e77e7",
+      "time": "2026-08-05 20:14:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "KASHKARI said it is valuable to continue the tradition of explaining the Fed's reaction function."
+    },
+    {
+      "id": "5026963",
+      "time": "2026-08-05 20:13:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國股市熔斷頻發：槓桿堆積與半導體賽道極端擁擠風險】2026年的韓國股市，正在全球資本市場的注目下經歷一場罕見的壓力測試。截至8月5日，韓國綜合股價指數（KOSPI）年內已觸發9次全市場熔斷，而此前25年間這一數字合計僅為6次。與此同時，針對程式化交易的“側車”機制累計觸發逾70次，打破了2008年全球金融危機時創下的年度紀錄。7月28日與29日，KOSPI更是首次連續2個交易日觸發熔斷——7月單月跌幅達33.19%，重新整理1997年亞洲金融危機以來的紀錄，而7月31日又單日暴漲近18%，同樣改寫歷史。受訪人士指出，韓國股市暴漲暴跌是一場由槓桿狂熱、金融創新冒進與市場脆弱交易結構疊加催化的系統性風險釋放，其演進路徑與深層邏輯值得關注。（新華財經）"
+    },
+    {
+      "id": "mkt:019fd1d8-21d4-7aab-8f8a-e46e2a7736dd",
+      "time": "2026-08-05 20:13:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Kashkari said he does not believe there is a fixed number of meetings."
+    },
+    {
+      "id": "mkt:019fd1d7-def7-7aab-8f8a-de58e1f87f41",
+      "time": "2026-08-05 20:13:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kashkari said clarifying the Fed's reaction function benefits market participants."
+    },
+    {
+      "id": "5026962",
+      "time": "2026-08-05 20:13:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CIRCLE執行長表示，市場已從人們買賣比特幣，演變為在全球範圍內交易永續期貨。"
+    },
+    {
+      "id": "mkt:019fd1d7-74cd-7aab-8f8a-d1610fbe1f81",
+      "time": "2026-08-05 20:13:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed official Kashkari said he is not calling for large/rapid rate hikes."
+    },
+    {
+      "id": "5026961",
+      "time": "2026-08-05 20:12:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：我持開放態度，沒有強烈意見。"
+    },
+    {
+      "id": "5026960",
+      "time": "2026-08-05 20:12:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡什卡利：延續這一傳統具有價值。"
+    },
+    {
+      "id": "5026959",
+      "time": "2026-08-05 20:12:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：繼續解釋政策反應機制的傳統是有價值的。"
+    },
+    {
+      "id": "5026958",
+      "time": "2026-08-05 20:12:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CIRCLE執行長表示，永續期貨已成為全球最重要的可交易工具之一。"
+    },
+    {
+      "id": "mkt:019fd1d6-f7ef-7aab-8f8a-cd151d56c4c5",
+      "time": "2026-08-05 20:12:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari said he would rather take small steps now than wait."
+    },
+    {
+      "id": "5026957",
+      "time": "2026-08-05 20:12:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：不認為存在一個神奇的會議次數。"
+    },
+    {
+      "id": "mkt:019fd1d6-cff5-7aab-8f8a-c0d3c2e25f4e",
+      "time": "2026-08-05 20:12:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Spot gold's intraday gains widened to 3%, approaching $4,200/oz."
+    },
+    {
+      "id": "5026956",
+      "time": "2026-08-05 20:12:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛維尼亞克爾什科核電站因水位偏低將發電量降至產能的80%。"
+    },
+    {
+      "id": "5026955",
+      "time": "2026-08-05 20:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步預計到年底將自動駕駛汽車業務覆蓋城市從七個擴大至15個。"
+    },
+    {
+      "id": "5026954",
+      "time": "2026-08-05 20:12:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：我認為讓市場瞭解反應機制是件好事。"
+    },
+    {
+      "id": "5026953",
+      "time": "2026-08-05 20:12:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "卡什卡利：向市場參與者傳達美聯儲反應機制是有益的。"
+    },
+    {
+      "id": "5026952",
+      "time": "2026-08-05 20:11:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：最終仍需由委員會決定合適的溝通立場。"
+    },
+    {
+      "id": "5026951",
+      "time": "2026-08-05 20:11:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將麥當勞目標股價從310美元下調至295美元。"
+    },
+    {
+      "id": "mkt:019fd1d6-2d06-7aab-8f8a-bf6b7a64fc91",
+      "time": "2026-08-05 20:11:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix said it will share a specific shareholder-return plan with the market by year-end and expects to materially expand shareholder returns."
+    },
+    {
+      "id": "5026950",
+      "time": "2026-08-05 20:11:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團弗雷澤對英國銀行相關稅收政策表示擔憂。"
+    },
+    {
+      "id": "te:economy:573041",
+      "time": "2026-08-05 20:11:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Private Investment YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Fixed Investment Growth Slows in May — Mexico's gross fixed investment rose 1.1% year-on-year in May 2026, following a 5.9% increase in April and marking the second consecutive month of growth, while exceeding market expectations of a 0.3% gain. Construction investment increased 2.7%, supported by a 12.4% rise in non-residential building, which more than offset a 4.7% decline in residential construction. Meanwhile, investment in machinery and equipment fell 0.7%, as a sharp decline in domestic capital goods production, both transport (-8.5%) and other machinery (-11.1%), outweighed higher imports of transport equipment (5.1%) and other machinery (5.7%). Overall investment growth was driven by a 19.7% increase in public investment, offsetting a 1.3% decline in private investment. On a monthly basis, gross fixed investment fell 0.4%, reversing a 4% increase in April."
+    },
+    {
+      "id": "mkt:019fd1d5-c13f-7aab-8f8a-b680bea3a6e5",
+      "time": "2026-08-05 20:11:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's Kashkari said it is now time to begin gradual rate hikes."
+    },
+    {
+      "id": "5026949",
+      "time": "2026-08-05 20:11:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "美聯儲卡什卡利：寧可現在以小幅方式逐步推進，也不願再等待。"
+    },
+    {
+      "id": "5026948",
+      "time": "2026-08-05 20:10:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "Circle執行長傑里米·阿萊爾稱，數字資產市場持續面臨顯著下行壓力。"
+    },
+    {
+      "id": "5026947",
+      "time": "2026-08-05 20:10:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "《紐約時報》執行長：我們已著手對我們的旗艦新聞應用進行升級；我們觀察到該應用的使用者訂閱互動度表現強勁。"
+    },
+    {
+      "id": "5026946",
+      "time": "2026-08-05 20:10:38",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：並未呼籲大幅加息。"
+    },
+    {
+      "id": "mkt:019fd1d5-25b2-7aab-8f8a-adbb40711101",
+      "time": "2026-08-05 20:10:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics is exploring ways to sustainably boost shareholder returns."
+    },
+    {
+      "id": "5026945",
+      "time": "2026-08-05 20:10:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【記憶體短缺或持續至2027年 三星、SK海力士、美光產能提前售罄】據科技媒體週二報道，記憶體晶片供應緊張態勢預計將持續至2027年，業內訊息人士透露，三大記憶體原廠已基本完成明年的產能分配談判。簡言之，三星、SK海力士和美光2027年的預計記憶體供應已全部售罄，且暫無新增產能規劃。報道稱，三大供應商已分配完畢2027年全部DRAM和HBM產能。客戶最終獲得的配貨量僅為其初始請求的60%至70%。業內人士指出，2027年將進入記憶體短缺最嚴峻的階段。配貨數量目前已基本敲定，但最終發貨定價將更接近交付時確定。市場份額方面，據Counterpoint Research全球記憶體追蹤資料顯示，三星二季度DRAM市佔率達39%，位列榜首;SK海力士以26%位居第二，但較上年同期的39%出現明顯下滑;美光以25%緊隨其後。"
+    },
+    {
+      "id": "5026944",
+      "time": "2026-08-05 20:10:06",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "三星電子表示，正探索如何以可持續方式提高股東回報。"
+    },
+    {
+      "id": "mkt:019fd1d4-ab3b-7aab-8f8a-a3044411b8d3",
+      "time": "2026-08-05 20:10:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Kashkari said most recent inf has been driven mainly by supply shocks, with a smaller contribution from demand."
+    },
+    {
+      "id": "5026943",
+      "time": "2026-08-05 20:10:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "明尼阿波利斯聯儲主席卡什卡利在接受採訪時表示，他認為現在是開始逐步上調利率的時機。"
+    },
+    {
+      "id": "5026942",
+      "time": "2026-08-05 20:09:54",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "海力士表示，公司認為自身有能力「大幅提升」股東回報。"
+    },
+    {
+      "id": "5026941",
+      "time": "2026-08-05 20:09:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士表示，具體的股東回報方案將於年底前向市場公佈。"
+    },
+    {
+      "id": "5026940",
+      "time": "2026-08-05 20:09:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡里：近期通脹走高主要由供給衝擊導致，需求在此基礎上進一步推升了通脹。"
+    },
+    {
+      "id": "5026939",
+      "time": "2026-08-05 20:09:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "百時美施貴寶股價盤前交易迅速下跌2.3%。"
+    },
+    {
+      "id": "5026938",
+      "time": "2026-08-05 20:09:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲卡什卡利：我的目標不是放緩經濟，而是壓低通脹。"
+    },
+    {
+      "id": "mkt:019fd1d4-1b62-7aab-8f8a-9b587162c117",
+      "time": "2026-08-05 20:09:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Kashkari: My goal is not to slow the economy but to bring down inflation."
+    },
+    {
+      "id": "5026937",
+      "time": "2026-08-05 20:09:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "GENIUS SPORTS與KALSHI達成官方資料與營銷服務合作。"
+    },
+    {
+      "id": "5026936",
+      "time": "2026-08-05 20:08:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數下跌0.2%至當日低點。"
+    },
+    {
+      "id": "5026935",
+      "time": "2026-08-05 20:08:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度22名兒童感染金迪普拉病毒死亡】印度西部古吉拉特邦近期暴發金迪普拉病毒感染疫情。印度媒體5日援引該邦衛生部門的資料包道，截至3日，當地累計報告184例疑似病例，其中35例病毒檢測呈陽性，22人死亡，7人病情危重。上述患者均為15歲以下兒童。（新華社）"
+    },
+    {
+      "id": "5026934",
+      "time": "2026-08-05 20:08:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SOFI TECHNOLOGIES推出三隻來自CAZ INVESTMENTS和ANGELLIST ASSET MANAGEMENT的新私募市場基金。新基金提供對人工智慧、金融科技、醫療保健、國防及其他板塊的投資敞口。"
+    },
+    {
+      "id": "5026933",
+      "time": "2026-08-05 20:07:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "SHAKE SHACK股價盤前上漲約3%，此前公佈的二季度營收和利潤均超預期。"
+    },
+    {
+      "id": "5026932",
+      "time": "2026-08-05 20:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首尾差超20% 量化超額大分化】經過7月的市場考驗，量化私募分化顯著加劇。據渠道提供的最新資料，截至7月底，頭部量化私募近一個月（6月26日以來）的業績表現可謂“冰火兩重天”，部分量化選股策略回撤近30%，部分同策略產品則只有不到10%的調整。滬深300指數增強、中證500指數增強以及市場中性策略內部分化更為明顯，單一策略近一個月超額收益首尾差距甚至超過20%。（上海證券報）"
+    },
+    {
+      "id": "5026931",
+      "time": "2026-08-05 20:05:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Meta美股盤前漲超2%】Meta美股盤前漲超2%，現報599.742美元。"
+    },
+    {
+      "id": "mkt:019fd1d0-253a-7aab-8f8a-970e502f3bdc",
+      "time": "2026-08-05 20:05:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "US July ADP private payrolls due in 10 minutes."
+    },
+    {
+      "id": "5026930",
+      "time": "2026-08-05 20:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德執行長：相較於注射劑，口服版 Wegovy 的市場需求之高，讓我們愈發感到意外。"
+    },
+    {
+      "id": "5026929",
+      "time": "2026-08-05 20:04:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【五洋自控：股票交易異常波動 不存在應披露未披露重大事項】五洋自控公告稱，公司股票於2026年8月4日、5日連續兩個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經核查，除此前已披露的以6.81億元收購東莞市柯斯宇液冷技術有限公司51%股權、股東侯友夫等向時培培轉讓5.10%股份等事項外，公司、控股股東和實控人不存在應披露而未披露的重大事項，目前經營及內外部環境未變。公司2026年半年度報告預約8月22日披露。"
+    },
+    {
+      "id": "mkt:019fd1cf-5698-7aab-8f8a-8f00af4afdfe",
+      "time": "2026-08-05 20:04:13",
+      "tags": [
+        "MKT News",
+        "AZN.O",
+        "BMY.N"
+      ],
+      "text": "People familiar with the matter said AstraZeneca (AZN.O) and Bristol-Myers Squibb (BMY.N) have had no discussions about a potential deal."
+    },
+    {
+      "id": "5026928",
+      "time": "2026-08-05 20:03:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "一位知情資深訊息人士稱，阿斯利康與百時美施貴寶“從始至終從未有過交易談判”。"
+    },
+    {
+      "id": "5026927",
+      "time": "2026-08-05 20:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情高階訊息人士透露，阿斯利康與百時美施貴寶目前並未就潛在交易展開任何談判。"
+    },
+    {
+      "id": "mkt:019fd1ce-810f-7aab-8f8a-858c1180cf37",
+      "time": "2026-08-05 20:03:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. AI cloud-computing firm CoreWeave (CRWV.O) said an agreement with Solidigm will strengthen its integrated AI platform."
+    },
+    {
+      "id": "5026926",
+      "time": "2026-08-05 20:02:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普所乘直升機遭遇飛行安全事件】美國總統特朗普所乘直升機4日在華盛頓遭遇飛行安全事件。白宮表示該事件不涉及人身安全危險，不過美國聯邦航空局已經啟動調查。據《華爾街日報》、美國有線電視新聞網和路透社報道，特朗普4日下午乘坐“海軍陸戰隊一號”直升機從白宮外起飛，前往安德魯斯聯合基地，繼而換乘“空軍一號”專機前往洛杉磯。按照飛行安全規定，特朗普所乘直升機起飛前，距離白宮不遠的羅納德·里根華盛頓國家機場空管員應禁止其它飛機在附近飛行。然而，一架客機卻與特朗普座機幾乎同時起飛。（新華社）"
+    },
+    {
+      "id": "5026925",
+      "time": "2026-08-05 20:02:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "Strategy：為美國僱員名下每一名符合條件的18歲以下子女，每年向特朗普賬戶注資250美元。"
+    },
+    {
+      "id": "mkt:019fd1cc-f351-7aab-8f8a-781d38e2ab16",
+      "time": "2026-08-05 20:01:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CRWV.O"
+      ],
+      "text": "CoreWeave (CRWV.O), a US AI cloud computing firm, signed a multi-year agreement with data-storage solutions provider Solidigm."
+    },
+    {
+      "id": "mkt:019fd1cc-e373-7aab-8f8a-74e9100301e3",
+      "time": "2026-08-05 20:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DSX.O",
+        "Impact bullish",
+        "NMM.O"
+      ],
+      "text": "Baltic Dry Index (BDI) rose 4.33% to 3,063 points."
+    },
+    {
+      "id": "5026924",
+      "time": "2026-08-05 20:01:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨運價指數漲4.33%，至3063點。"
+    },
+    {
+      "id": "5026923",
+      "time": "2026-08-05 20:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave稱達成協議，強化一體化人工智慧平臺。"
+    },
+    {
+      "id": "5026922",
+      "time": "2026-08-05 20:00:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "STRATEGY加入“投資美國商業承諾”計劃，向特朗普相關賬戶注資，助力員工子女的未來財務保障。"
+    },
+    {
+      "id": "mkt:019fd1cc-1377-7aab-8f8a-6f20decab92b",
+      "time": "2026-08-05 20:00:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 2.51% to 904.0 yuan/gram at the start of the Aug. 5 evening session; silver T+D rose 2.52% to 15,100 yuan/kg."
+    },
+    {
+      "id": "5026921",
+      "time": "2026-08-05 20:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北釋出黃色山洪災害氣象預警】湖北省防汛抗旱指揮部辦公室2026年8月5日20時釋出黃色山洪災害氣象預警。預計2026年8月5日20時至8月6日20時，下列地區存在山洪災害風險：黃色預警區域（山洪災害可能性較大）：十堰市（鄖西縣、竹山縣）。藍色預警區域（山洪災害可能發生）：十堰市（竹溪縣）、宜昌市（興山縣）。"
+    },
+    {
+      "id": "5026920",
+      "time": "2026-08-05 20:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【糾治旅遊行業導遊亂象、強制消費！多個旅行社被點名】為深入推進“糾治旅遊行業導遊亂象、強制消費等問題”集中整治工作，文化和旅遊部聯合中央網信辦開展非法網路招徠專項整治，從嚴查處線上旅遊領域違法違規經營行為，全面清理非法網路招徠產品及相關資訊。為發揮典型案件示範作用，規範網路招徠行為，推進旅遊市場強迫購物問題線上線下同步治理，文化和旅遊部選取了部分地區文化和旅遊部門、文化市場綜合執法機構查處的典型案例，現予以公佈。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fd1ca-7993-7aab-8f8a-67dc11c54dd2",
+      "time": "2026-08-05 19:58:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver climbed above $62/oz for the first time since July 7, rising 4.19% intraday."
+    },
+    {
+      "id": "5026919",
+      "time": "2026-08-05 19:58:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "餘承東：鴻蒙智行首款科技豪華硬派SUV享界G9，今天正式開啟預訂！2小時預訂量5100臺。"
+    },
+    {
+      "id": "mkt:019fd1ca-6251-7aab-8f8a-5cf9d47df92e",
+      "time": "2026-08-05 19:58:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【U.S. 30-year mortgage rate rises to one-year high】Data released Wednesday showed the average U.S. 30-year fixed mortgage rate rose 5 bps in the week ended July 31 to 6.81%, a one-year high. The rate had fallen to a 2022-era low in late February before the Iran war broke out; subsequent conflict-driven energy price gains and higher inflation fears have pushed rates up. Mortgage demand weakened: MBA's purchase index fell 3.6% week-on-week to a five-month low, while the refinance index dropped 1.9% to its lowest since mid-2025."
+    },
+    {
+      "id": "5026918",
+      "time": "2026-08-05 19:58:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國30年期抵押貸款利率升至1年高位】美國抵押貸款利率上週升至一年來的最高水平，進一步抑制了本已低迷的住房市場中的購房貸款需求。週三公佈的資料顯示，截至7月31日當週，30年期固定抵押貸款利率上漲5個基點，升至6.81%。利率曾在2月底伊朗戰爭爆發前夕跌至2022年以來的最低水平。此後，隨著衝突推高能源價格並加劇通脹擔憂，利率持續上升。這一變化導致的結果是貸款需求走弱。MBA衡量貸款申請情況的購房貸款申請指數較前一週下降3.6%，降至五個月來的最低水平；再融資指數也下滑1.9%，跌至2025年年中以來最低水平。"
+    },
+    {
+      "id": "5026917",
+      "time": "2026-08-05 19:58:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破62美元/盎司，日內漲4.20%。"
+    },
+    {
+      "id": "mkt:9be9ded6-ab5d-4505-a230-6ea5a5c2aaa2",
+      "time": "2026-08-05 19:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Novo Nordisk (NVO.N): US prices and sales volumes for Wegovy injections will show quarter-to-quarter fluctuations."
+    },
+    {
+      "id": "5026916",
+      "time": "2026-08-05 19:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾和諾德表示：美國市場 Wegovy 注射劑的價量動態會出現逐季度波動。"
+    },
+    {
+      "id": "5026915",
+      "time": "2026-08-05 19:57:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鍇威特：擬發行股份及支付現金收購晶藝半導體100%股權，交易作價16.5億元】鍇威特公告，公司擬透過發行股份及支付現金方式向易坤、晶格共智等26名交易對方購買晶藝半導體有限公司100.00%股權，交易作價16.5億元。本次交易構成重大資產重組，不構成重組上市。募集配套資金總額不超過9.01億元，用於支付現金對價、中介費用及補充流動資金。標的資產採用市場法評估，評估值為16.5億元，增值率304.24%。"
+    },
+    {
+      "id": "5026914",
+      "time": "2026-08-05 19:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，訪問期間，伊朗外長計劃會見巴基斯坦陸軍參謀長、巴基斯坦總理以及副總理兼外交部長。"
+    },
+    {
+      "id": "mkt:dab1f21f-83b2-4bce-8eeb-407961f69573",
+      "time": "2026-08-05 19:57:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kenya seeks US$450 mln from the WBG to mitigate economic fallout from the Iran war."
+    },
+    {
+      "id": "5026913",
+      "time": "2026-08-05 19:57:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4190美元/盎司，日內漲2.78%。"
+    },
+    {
+      "id": "5026912",
+      "time": "2026-08-05 19:57:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "肯亞尋求世界銀行提供4.5億美元資金，以抵消伊朗戰爭帶來的衝擊。"
+    },
+    {
+      "id": "5026911",
+      "time": "2026-08-05 19:57:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4250美元/盎司，日內漲2.37%。"
+    },
+    {
+      "id": "mkt:c8671281-9d27-4177-bf11-8fc74b21b5c2",
+      "time": "2026-08-05 19:56:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI Emerging Markets Currency Index rose to a record high."
+    },
+    {
+      "id": "5026910",
+      "time": "2026-08-05 19:56:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "明晟新興市場貨幣指數升至歷史新高。"
+    },
+    {
+      "id": "mkt:93d511a4-5f53-4958-85e4-d9682dc2a519",
+      "time": "2026-08-05 19:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German state prosecutors said a drone discovered at Leipzig/Halle airport contained an explosive device and that their office has taken over the investigation."
+    },
+    {
+      "id": "mkt:b8a609f5-158c-48bc-93e1-3d97187a4869",
+      "time": "2026-08-05 19:56:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Guangdong first Chinese province to exceed 100 bln kWh in one month】Guangdong power grid reported July electricity consumption reached 100.8 bln kWh, the first Chinese province to top 100 bln kWh in a single month. Jan–Jul cumulative use was 572.3 bln kWh, up 7.67% YoY. Industrial demand was the main driver: secondary-sector consumption totaled 328.4 bln kWh, +7.84% YoY. High‑tech and equipment manufacturing power use rose 8.77% YoY; by subsector, auto manufacturing +18.32%, special equipment +14.48%, and computer/communications/other electronics +10.51%, signaling continued strength in high-end manufacturing."
+    },
+    {
+      "id": "5026909",
+      "time": "2026-08-05 19:55:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皓元醫藥：擬暫緩一專案並變更2億元募集資金用途】皓元醫藥公告稱，為提高募集資金使用效率，公司決定暫緩高階醫藥中間體及原料藥CDMO產業化專案（一期）建設，將該專案擬投入募集資金由3.73億元調減至1.73億元。調減的2億元（佔實際募集資金淨額的24.64%）將借予重慶皓元，用於“皓元醫藥抗體偶聯藥物（ADC）CDMO基地專案 - 抗體制劑擴建專案”。該事項已透過董事會審議，尚需提交股東會、可轉債持有人會議審議。"
+    },
+    {
+      "id": "5026908",
+      "time": "2026-08-05 19:55:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【折價接盤Situational Awareness持倉 助城堡旗艦基金扭轉平淡表現】城堡的旗艦基金7月上漲5.9%。此前，該公司從陷入困境的對沖基金Situational Awareness手中折價買入一批人工智慧股票。知情人士稱，在達成這筆交易前，肯·格里芬旗下城堡的Wellington基金截至7月24日當月僅上漲0.45%。因相關資訊未公開而要求匿名的知情人士稱，該交易還推動基金年初至今回報升至12%。上週，城堡以10%的折扣買下Situational Awareness公開市場股票組合的一部分。當時，這家由OpenAI前研究員Leopold Aschenbrenner創立的對沖基金正急於籌集現金，以應對其高度押注人工智慧的投資組合所面臨的追加保證金要求。"
+    },
+    {
+      "id": "5026907",
+      "time": "2026-08-05 19:55:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國警方稱機場發現的無人機搭載有爆炸裝置。"
+    },
+    {
+      "id": "5026906",
+      "time": "2026-08-05 19:54:32",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【貴金屬板塊大漲 上市公司盈利集體高增】8月5日，A股貴金屬板塊集體走高，行業指數上漲7.72%，四川黃金漲停，曉程科技上漲11.89%，中金黃金、赤峰黃金上漲超8%。訊息面上，貴金屬期貨主力合約大幅上漲，鉑上漲9.18%，鈀上漲8.51%，滬銀、滬金分別上漲7.08%、3.1%，漲幅在國內期貨中居前。海外貴金屬市場同步走高，截至發稿，倫敦金現貨再度突破4100美元/盎司，漲幅逾2%，倫敦銀現貨盤中一度上漲超4%。本輪貴金屬漲價主要受美元走弱、美聯儲加息預期降溫因素影響。美元指數近七個交易日下跌約1.6%，為以美元計價的貴金屬提供了額外支撐。中信證券研報認為，展望後市，預計霍爾木茲海峽局勢對黃金價格的影響將從壓制轉變為助推，美聯儲貨幣政策可能比市場預期更樂觀，疊加美國軍費暴漲推高赤字，預計年內黃金價格將回到上行通道。據證券時報·資料寶統計，目前A股中貴金屬板塊已有8只個股公佈半年度業績預告，按業績預告淨利潤下限計算，預計淨利潤增幅均在40%以上，行業景氣度持續向好。其中，招金黃金、西部黃金預計增幅超過200%。從資金面上來看，8月以來中金黃金、赤峰黃金、西部黃金、山東黃金4只貴金屬股獲融資淨買入，其中，中金黃金獲融資淨買入1.09億元居於首位。（證券時報）"
+    },
+    {
+      "id": "5026905",
+      "time": "2026-08-05 19:54:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為釋出首款防窺屏膝上型電腦】8月5日，華為釋出首款防窺屏膝上型電腦——華為MateBook Pro S，首次搭載柔性OLED靈盾防窺屏，配備“一區雙畫素”設計，可在一個畫素區域內，整合防窺與共享兩套獨立發光畫素。"
+    },
+    {
+      "id": "5026904",
+      "time": "2026-08-05 19:53:30",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲老牌科技股逆勢登臺 財報季“老錢”意外成AI贏家】AI浪潮起初被普遍視為模型開發商的新機遇，但近期財報顯示，一批歐洲大型成熟科技集團正逆勢崛起，成為人工智慧紅利的實際受益者。從SAP、Capgemini、Sopra Steria到OVHcloud，多家歐洲科技巨頭紛紛報告需求走強、增速加快或上調業績指引，背後的共同驅動力是：企業正從AI試驗階段邁入全面部署階段。然而，這些公司也發現，在複雜組織內部讓AI真正產出生產力，難度遠高於獲取技術本身。大型組織不太可能依賴單一AI供應商，而會因任務屬性、效能表現、安全等級及合規要求，選用不同模型。當前的挑戰已不再是“選哪個模型”，而是如何讓AI與組織已有的軟體、資料和業務流程順暢協同。"
+    },
+    {
+      "id": "te:markets:573039",
+      "time": "2026-08-05 19:53:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Extend Records — US futures maintained their recent rallies amid an improving macroeconomic backdrop and strong earnings reports. Contracts for the S&P 500 and the Dow gained 0.4% to new records, while the Nasdaq 100 was slightly higher. Treasury yields held their pullback from the week as US officials continued to signal attempts to achieve a deal with Iran that restores trade through from the Middle East, limiting energy inflation. Credit sensitive sectors, including banks and AI hyperscalers, broadly maintained their gains from the week. Arista Networks soared as much as 15% after posting a better revenue thane expected. Also, Eli Lilly added more than 5% after beating revenue consensus and raising its guidance for this year. Meanwhile, SpaceX slumped 10%, erasing its surge from the last session as the forecast of surging AI spending offset its revenue beat. A large portion of its IPO shares are soon to be released by primary buyers. Also, AMD sank 8% despite doubling datacenter revenues."
+    },
+    {
+      "id": "mkt:c3e9c8e6-ae4b-44d7-a34e-a61528430ca0",
+      "time": "2026-08-05 19:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations (UKMTO) reported the vessel's crew are safe and have been rescued by local authorities."
+    },
+    {
+      "id": "5026903",
+      "time": "2026-08-05 19:51:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【20萬元起存 值得衝嗎？業內人士解讀五年期大額存單迴歸】7月以來，曾被多數銀行“束之高閣”的五年期大額存單重回大眾視野。記者梳理發現，目前中、農、工、建四大國有銀行以及部分股份行均已上架五年期大額存單，甚至有部分產品額度已售罄。 業內人士指出，長期限大額存單迴歸市場，與銀行自身最佳化負債結構、防範存款流失以及應對市場流動性變化密切相關。 在具體利率與門檻方面，目前四大行的五年期大額存單起存金額均為20萬元，最高執行年化利率為1.6%。 相比定期存款，大額存單具有起存金額較高、利率相對較高等特點，同時部分產品支援轉讓，可以在一定程度上提升資金流動性，一度成為商業銀行的“攬儲利器”。 但近年來，銀行淨息差承壓，多數銀行主動壓降高成本負債，三年期、五年期等長期限大額存單因資金成本較高，發行規模持續收縮，五年期產品一度難覓蹤跡。 業內人士也提醒，五年期大額存單雖然能夠鎖定較長期限的收益，但投資者仍需考慮資金流動性需求。（21財經）"
+    },
+    {
+      "id": "5026902",
+      "time": "2026-08-05 19:51:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國國家檢察官接手萊比錫/哈雷機場事件調查：該事件因發現爆炸裝置而起。"
+    },
+    {
+      "id": "mkt:f1966ce6-b9a8-4c92-bb91-bfc345f15b27",
+      "time": "2026-08-05 19:51:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said on Aug 4 a vessel near Yemen was attacked, causing a fire onboard."
+    },
+    {
+      "id": "5026901",
+      "time": "2026-08-05 19:50:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【營收預期超出市場預期 Shopify股價在盤前大漲】Shopify股價在美股盤前交易中上漲了33.8%，Shopify表示，預計其營收將實現“30%出頭的增長率”。這一增速將高於華爾街此前預期的27%，並意味著公司營收增長連續第六個季度超過30%。"
+    },
+    {
+      "id": "mkt:35929782-8165-4e56-aa04-1dba7d66ce68",
+      "time": "2026-08-05 19:50:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report on Aug. 4 of an incident 9 nautical miles off Mokha, Yemen."
+    },
+    {
+      "id": "5026900",
+      "time": "2026-08-05 19:49:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室：英國海事貿易行動辦公室收到一份遲報事件，事發地點位於葉門穆哈西南 9 海里處。 船舶安保官報告，該船遭到無人水面艇襲擊，船上引發火災。船員已被當地當局營救，全員平安。"
+    },
+    {
+      "id": "5026899",
+      "time": "2026-08-05 19:49:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潛能恆信：2026年上半年扭虧為盈，淨利潤1.18億元】潛能恆信公告，2026年上半年營業收入6.93億元，同比增長200.49%。歸屬於上市公司股東的淨利潤1.18億元，上年同期虧損2780.66萬元，實現扭虧為盈。"
+    },
+    {
+      "id": "5026898",
+      "time": "2026-08-05 19:48:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海軍：收到葉門附近事件的遲到報告。"
+    },
+    {
+      "id": "mkt:39075700-77f4-409d-9b21-9cd4f1efaf4b",
+      "time": "2026-08-05 19:48:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver jumped 4% intraday to $61.91/oz; spot gold rose 2.7%."
+    },
+    {
+      "id": "5026897",
+      "time": "2026-08-05 19:48:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潛能恆信：擬定增募資不超過2億元用於補充流動資金和償還銀行貸款】潛能恆信公告，公司擬向控股股東、實際控制人周錦明先生定向發行A股股票，募集資金總額不超過2億元（含本數），扣除發行費用後全部用於補充流動資金和償還銀行貸款。本次發行價格不低於定價基準日前二十個交易日公司A股股票交易均價的80%，發行數量不超過本次發行前總股本的30%，認購股份自發行結束之日起36個月內不得轉讓。本次發行構成關聯交易，已獲公司第六屆董事會第十四次會議審議透過，尚需股東會審議、深交所稽核及中國證監會同意註冊。"
+    },
+    {
+      "id": "5026896",
+      "time": "2026-08-05 19:48:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "FLUTTER執行長：預測市場的存在可能有助於抑制體育博彩運營商面臨的潛在增稅。"
+    },
+    {
+      "id": "5026895",
+      "time": "2026-08-05 19:47:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全國首個，廣東7月用電量突破千億度】記者從廣東電網獲悉，廣東7月全社會用電量突破千億千瓦時大關，達1007.98億千瓦時（億度），成為全國首個單月用電量突破千億千瓦時的省份。今年1-7月，廣東全省全社會用電量達5722.80億千瓦時，同比增長7.67%，持續保持穩健增長態勢，支撐了廣東經濟社會的發展。工業用電是用電量增長的主力，高階製造新動能持續發力。1-7月，廣東第二產業用電量3283.51億千瓦時，同比增長7.84%。其中，高技術及裝備製造業用電量同比增長8.77%，汽車製造業（18.32%）、專用裝置製造業（14.48%）、計算機/通訊和其他電子裝置製造業（10.51%）增速位居前三，新動能持續釋放。（第一財經）"
+    },
+    {
+      "id": "mkt:0336a2e9-87f5-498f-bc4a-906f17c24eed",
+      "time": "2026-08-05 19:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shopify shares surge 33.8% premarket after revenue outlook tops estimates】Shopify (SHOP.N) shares rose 33.8% in U.S. premarket trading after the company said its Q3 revenue outlook implies just over 30% growth, above the Street’s ~27% consensus and marking a sixth consecutive quarter of >30% revenue growth. Analyst Anurag Rana said rising AI costs had been expected to compress margins entering the quarter; Shopify told investors in May that more than half its code is generated by AI."
+    },
+    {
+      "id": "5026894",
+      "time": "2026-08-05 19:46:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體稱是否開放霍爾木茲海峽取決於美方行為】伊朗伊斯蘭共和國廣播電視臺5日援引一名知情人士的話報道說，伊朗和阿曼可能就霍爾木茲海峽通航問題達成協議，但該協議與“立即開放霍爾木茲海峽”無關。 報道說，有關霍爾木茲海峽通航問題的談判僅限伊朗與安曼之間，與美國無關。若美方繼續違反此前與伊朗達成的諒解備忘錄，霍爾木茲海峽將繼續關閉。海峽開放取決於美方改變、糾正此前違規行為。 據美國阿克西奧斯新聞網站4日報道，兩名地區訊息人士和一名美國官員表示，美國、伊朗和阿曼“接近達成”一項重新開放霍爾木茲海峽的臨時協議，美方希望5日宣佈臨時協議達成的訊息。(新華社)"
+    },
+    {
+      "id": "5026893",
+      "time": "2026-08-05 19:45:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "港交所檔案顯示，高盛集團在中際旭創H股的持股比例於7月30日從5.95%提升至11.90%。"
+    },
+    {
+      "id": "5026892",
+      "time": "2026-08-05 19:44:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將應用材料目標股價從每股647美元下調至646美元。"
+    },
+    {
+      "id": "5026891",
+      "time": "2026-08-05 19:44:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Medline美股盤前跌超10%】Medline美股盤前跌超10%，現報37.74美元。"
+    },
+    {
+      "id": "5026890",
+      "time": "2026-08-05 19:43:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾和諾德股價下跌6.8%，觸及盤中低點。"
+    },
+    {
+      "id": "5026889",
+      "time": "2026-08-05 19:43:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲4%，現報61.88美元/盎司。"
+    },
+    {
+      "id": "mkt:92fb2020-7e65-4133-8ff0-061338fa7ffa",
+      "time": "2026-08-05 19:43:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Novo Nordisk (NVO.N): US pricing dynamics for Wegovy injections unchanged from the start of the year."
+    },
+    {
+      "id": "5026888",
+      "time": "2026-08-05 19:42:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾和諾德：目前美國市場索馬魯肽注射劑Wegovy的價格走勢與我們年初啟動定價時一致。"
+    },
+    {
+      "id": "5026887",
+      "time": "2026-08-05 19:42:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯邦快遞（FEDEX）：將針對印度的進口航運運輸費率平均上調8.9%至11.9%。"
+    },
+    {
+      "id": "5026886",
+      "time": "2026-08-05 19:42:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯邦快遞（FEDEX）：將對印度出口貨運運輸費率平均上調11.9%至14.9%。"
+    },
+    {
+      "id": "mkt:019fd1ba-a60d-7aab-8f8a-531160734a4f",
+      "time": "2026-08-05 19:41:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "TASNIM News reported Iran's Foreign Minister Araghchi will visit Pakistan on Friday."
+    },
+    {
+      "id": "5026885",
+      "time": "2026-08-05 19:39:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍佰集團：已研發儲備電子級鈦白粉相關技術 目前未規模化生產】龍佰集團(002601)在互動平臺表示，公司已研發儲備電子級鈦白粉相關技術，目前未規模化生產。"
+    },
+    {
+      "id": "5026884",
+      "time": "2026-08-05 19:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：預計歐元未來三個月匯率將報1.15美元，六個月後報1.16美元，一年後報1.18美元；7月調查的對應預期分別為1.16美元、1.17美元、1.18美元。"
+    },
+    {
+      "id": "5026883",
+      "time": "2026-08-05 19:39:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "路透調查：58位外匯策略師中有55位認為，僅靠日本未來單次干預匯市不太可能持續遏制日元走弱。"
+    },
+    {
+      "id": "5026882",
+      "time": "2026-08-05 19:39:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "FLUTTER CEO：預測市場對體育博彩的蠶食效應仍非常有限。"
+    },
+    {
+      "id": "5026881",
+      "time": "2026-08-05 19:38:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德執行長表示：我不會以我們完成收購的交易數量或是規模來衡量我們的野心。"
+    },
+    {
+      "id": "5026880",
+      "time": "2026-08-05 19:38:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防軍否認俄方關於已 “攻佔” 蘇梅州雷日夫卡的說法。"
+    },
+    {
+      "id": "5026879",
+      "time": "2026-08-05 19:38:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【又一男子死於美移民拘留中心 家屬要求獨立調查】一名薩爾瓦多籍男子本月初在美國移民與海關執法局(ICE)一所拘留中心關押期間死亡。其家屬4日舉行記者會，質疑ICE的說法，認為是拘留中心方面“疏忽”導致死亡，要求公開相關醫療記錄，並對事件進行獨立調查。（新華社）"
+    },
+    {
+      "id": "5026878",
+      "time": "2026-08-05 19:37:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷鋰業宣佈完成2.2億美元新增債務融資安排。"
+    },
+    {
+      "id": "5026877",
+      "time": "2026-08-05 19:37:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京會見俄國防部領導層 宣佈多項人事調整】當地時間8月5日，據克里姆林宮網站訊息，俄羅斯總統普京當天會見俄國防部領導層。普京稱，俄國防部正根據特別軍事行動的需要和經驗完善組織架構。普京還宣佈了系列人事調整。具體任命包括：原俄軍“中部”叢集司令瓦列裡·索洛德丘克統一領導俄國防部所有後勤部門，原俄軍“東部”叢集司令安德烈·伊瓦納耶夫被任命為俄軍“中部”部隊叢集司令，原俄軍“東部”叢集參謀長彼得·博爾加列夫被任命為俄軍東部軍區代理司令兼俄軍“東部”部隊叢集司令；原俄軍“中部”叢集參謀長丹尼斯·利亞明被任命為俄軍無人系統部隊司令。（央視）"
+    },
+    {
+      "id": "5026876",
+      "time": "2026-08-05 19:36:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蜘蛛俠手辦被炒至2200元】近期，《蜘蛛俠：嶄新之日》在全球熱映，票房再創新高。影片的IP商業價值也快速傳導至衍生品賽道，從高階收藏人偶到平價潮流玩具，全品類周邊產品迎來熱銷。記者發現，模擬玩具品牌Hot Toys的《蜘蛛俠：嶄新之日》1:6比例珍藏人偶為例，該產品線下門店於8月4日發售，發售前廣州陳家祠優艾斯、杭州in77 B區Hot Toys等門店大排長龍。目前，官方線上及線下門店的現貨均已售罄。在得物App上，該款人偶在平臺上有少量現貨流通，最新成交價2200元。在其他平臺上，相關產品溢價至2099元，多人點選收藏。 除高階收藏手辦外，平價周邊與品牌聯名款同樣銷售火熱。（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:019fd1b6-415e-7aab-8f8a-480f8560ec03",
+      "time": "2026-08-05 19:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MACRON reiterated the EU and its partners will continue to strengthen military support for Ukraine."
+    },
+    {
+      "id": "mkt:019fd1b5-5d42-7aab-8f8a-4777f91be381",
+      "time": "2026-08-05 19:35:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's parliamentary committee will oversee the surrender and disarmament process of Kurdistan Workers' Party (PKK) militants."
+    },
+    {
+      "id": "mkt:019fd1b4-ee58-7aab-8f8a-3eb0bfbd4456",
+      "time": "2026-08-05 19:35:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Macron said the EU and its partners will continue to increase pressure on Russia, including through sanctions."
+    },
+    {
+      "id": "5026875",
+      "time": "2026-08-05 19:34:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料：控股股東減持2.09%股份 減持計劃實施完畢】奧飛資料公告稱，公司控股股東昊盟科技於2026年8月4 - 5日，透過集中競價及大宗交易方式合計減持20,622,681股，佔總股本的2.09%。本次權益變動後，昊盟科技持股比例由27.60%降至25.51%，觸及1%整數倍，減持計劃實施完畢。此次減持符合相關規定，未違反承諾，不會導致公司控制權變更，也不影響公司治理結構和持續經營。"
+    },
+    {
+      "id": "5026874",
+      "time": "2026-08-05 19:34:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其議會委員會將監督庫爾德工人黨武裝分子的投降與解除武裝程序。"
+    },
+    {
+      "id": "5026873",
+      "time": "2026-08-05 19:34:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "據土耳其廣播公司NTV報道，根據法案草案，土耳其國家安全委員會將核實庫爾德工人黨的解散及解除武裝情況。"
+    },
+    {
+      "id": "5026872",
+      "time": "2026-08-05 19:33:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【交易回暖 華爾街投行獎金有望大漲】華爾街銀行家有望再次從市場劇烈波動中獲得豐厚回報。根據薪酬諮詢機構Johnson Associates的預測，由於業績表現優於金融業其他板塊，投資銀行和商業銀行從業人員的獎金預計將增長10%至15%，甚至更高。股票交易員以及從事併購諮詢的投資銀行家獎金增幅預計還將更大。這一預測釋出前，美國大型銀行剛剛公佈創紀錄的第二季度業績，強勁的股票交易、財務顧問和承銷業務成為主要推動力。Johnson Associates董事總經理Alan Johnson在接受採訪時表示，“銀行的整體表現一直不錯，但我們原本預計交易和併購業務會降溫，事實證明並沒有。這些業務依然保持強勁，而且持續表現良好。”"
+    },
+    {
+      "id": "5026871",
+      "time": "2026-08-05 19:33:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科華生物：淋球菌核酸檢測試劑盒獲醫療器械註冊證】科華生物公告稱，近日收到國家藥監局頒發的淋球菌核酸檢測試劑盒（PCR - 熒光法）醫療器械註冊證，註冊證有效期為2026年8月4日至2031年8月3日，該試劑盒用於體外定性檢測男性尿道拭子、女性宮頸拭子樣本中的淋球菌核酸。新產品註冊證的取得豐富了公司產品線，對業務發展有正面影響，但目前無法預測對未來營收的影響。"
+    },
+    {
+      "id": "5026870",
+      "time": "2026-08-05 19:33:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4180美元/盎司，日內漲2.55%。"
+    },
+    {
+      "id": "5026869",
+      "time": "2026-08-05 19:32:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將AMD目標股價從410.00美元上調至465.00美元。"
+    },
+    {
+      "id": "5026868",
+      "time": "2026-08-05 19:32:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4240美元/盎司，日內漲2.11%。"
+    },
+    {
+      "id": "5026867",
+      "time": "2026-08-05 19:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍：歐盟及其夥伴將繼續加強對俄羅斯的壓力，特別是透過實施新的制裁，同時加強軍事援助烏克蘭，以使其能夠自衛並保護其人民。"
+    },
+    {
+      "id": "5026866",
+      "time": "2026-08-05 19:31:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體與科技集團（TRUMP MEDIA & TECHNOLOGY，股票程式碼TAE）預計首座核聚變發電廠將於2031年投入運營，後續設施擴容後裝機容量將達到350至500兆瓦。"
+    },
+    {
+      "id": "5026865",
+      "time": "2026-08-05 19:31:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體與科技集團（TRUMP MEDIA & TECHNOLOGY）：TAE將建造達芬奇核聚變發電廠，預計發電能力為50兆瓦電能。"
+    },
+    {
+      "id": "5026864",
+      "time": "2026-08-05 19:31:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "雷蒙德·詹姆斯將AMD目標股價從455美元上調至565美元。"
+    },
+    {
+      "id": "5026863",
+      "time": "2026-08-05 19:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭前駐美國大使收到嫌疑通知書。"
+    },
+    {
+      "id": "5026862",
+      "time": "2026-08-05 19:30:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王力安防與中國電信金華分公司簽署智慧家居智慧數字化戰略合作協議】據王力安防訊息，8月5日上午，王力安防與中國電信金華分公司在王力總部正式簽署智慧家居智慧數字化戰略合作協議。雙方旨在打通算力雲端與智慧硬體壁壘，聚焦智慧家居、智慧養老場景發展，為區域民生數智化升級注入新動能。"
+    },
+    {
+      "id": "5026861",
+      "time": "2026-08-05 19:30:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄軍稱一天內擊落超1000架烏無人機】俄羅斯國防部當地時間8月5日午間釋出的戰報顯示，過去24小時，俄軍控制了2座居民點。俄軍還對153處區域內的燃料能源和交通基礎設施、攻擊型無人機生產車間和儲存場地、烏武裝部隊和外國僱傭兵臨時部署點實施了打擊。俄國防部稱，過去24小時，俄防空系統擊落10枚制導航空炸彈、2枚美製“海馬斯”火箭彈和1083架固定翼無人機。烏軍在各作戰方向共損失約1380人。對於這一說法，烏方暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5026860",
+      "time": "2026-08-05 19:30:27",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【段永平回應“減持”泡泡瑪特】今日晚間，段永平在社交平臺上對“減持”泡泡瑪特一事進行回應：“就是put expired，部分被call走了。”（新浪科技）"
+    },
+    {
+      "id": "mkt:019fd1af-4907-7aab-8f8a-3268d5fefd7a",
+      "time": "2026-08-05 19:29:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $10 to trade above $4,180/oz, up 2.53% intraday."
+    },
+    {
+      "id": "5026859",
+      "time": "2026-08-05 19:28:54",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【泡泡瑪特回應段永平減持澄清：不是主動減持】8月5日，港交所披露一則權益變動資訊：段永平透過H&H International Investment持有的泡泡瑪特多頭倉位，於7月30日從7.65%降至5.55%，下降2.1個百分點。 該資訊的微妙之處在於時間點——7月23日，段永平剛剛在平臺上回應投資者：“泡泡瑪特我才剛開始買啊！我猜10年內大機率是不會賣的。”但僅僅過了一週之後，段永平的持倉就減少了超過2個百分點。 泡泡瑪特方面對記者表示，本次持股比例下降並非二級市場直接拋售減持，而是期權合約履約，按交易約定交付對應股份。 一位資本市場分析人士進一步解釋，段永平此次持股變動與他此前賣Put、賣Call時設定的價格區間密切相關，“主要是價格區間設定比較窄，屬於短期交易行為，並非大眾理解層面的主動減持”。 這指向的是段永平標誌性的“期權收租”策略，持有正股的同時賣出期權賺取權利金，當股價觸及行權價，被動交付或接收股票。從泡泡瑪特近期的走勢看，7月16日放量大漲超過6%；7月30日（披露變動日）盤中一度衝至172.4港元，此後股價震盪回落。8月5日收於161.4港元，較337.08港元的歷史高點已腰斬，總市值約2149億港元，滾動市盈率15.2倍，市場反應相對平淡。(每日經濟新聞)"
+    },
+    {
+      "id": "5026858",
+      "time": "2026-08-05 19:28:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波港：7月集裝箱吞吐量456萬標準箱，同比增5.9%】寧波港公告，2026年7月預計完成集裝箱吞吐量456萬標準箱，同比增長5.9%；預計完成貨物吞吐量9286萬噸，同比下降2.5%。"
+    },
+    {
+      "id": "5026857",
+      "time": "2026-08-05 19:27:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【“SpaceX火箭殘骸撞擊月球” NASA稱地球沒有危險】據法新社8月5日報道，美國太空探索技術公司（SpaceX）一枚火箭的殘骸據信已經在當天撞擊了月球。 雖然目前尚未有官方訊息證實“獵鷹9”號火箭上面級撞擊了月球表面，但預計撞擊時間為格林尼治標準時間6點35分（北京時間14點35分）左右。 美國航空航天局（NASA）及其月球勘測軌道飛行器（LRO），以及韓國探路者月球軌道探測器原計劃在撞擊後拍攝現場影象，但相關資訊可能需要數天時間才能獲得。 據法新社此前報道，“獵鷹9”號火箭上面級以約5400英里/小時（8690公里/小時）的速度撞擊月球北半球的愛因斯坦環形山附近，這次碰撞不會對地球造成危險，但會留下一個月球隕石坑。 美國航天局發言人吉米·拉塞爾4日在一份宣告中說：“地球沒有危險。” （參考訊息）"
+    },
+    {
+      "id": "5026856",
+      "time": "2026-08-05 19:25:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "《紐約時報》股價續跌，盤前最新下跌7.4%。"
+    },
+    {
+      "id": "mkt:019fd1ab-88e0-7aab-8f8a-2a1d62fe252a",
+      "time": "2026-08-05 19:25:07",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "Novo Nordisk CFO said the company is ahead of schedule in delivering DKK8 billion of cost savings from a company-wide transformation."
+    },
+    {
+      "id": "5026855",
+      "time": "2026-08-05 19:24:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【魅視科技：股價異常波動 磷化銦專案存重大不確定性】魅視科技公告稱，公司股票於2026年8月3 - 5日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司目前經營正常，不存在應披露未披露事項，控股股東及實控人在異動期間未買賣公司股票。公司授權開展磷化銦半導體材料產業化專案前期準備工作，該專案第一階段研發有失敗風險，後續產業化投資不確定。此外，公司預計2026年上半年淨利潤420 - 550萬元，同比降77.17% - 77.98%。"
+    },
+    {
+      "id": "5026854",
+      "time": "2026-08-05 19:24:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京已簽署總統令，任命伊萬諾夫為中央軍區司令，索洛德丘克為國防部副部長。"
+    },
+    {
+      "id": "5026853",
+      "time": "2026-08-05 19:23:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德首席財務官表示：我們推進全公司轉型以實現80億丹麥克朗成本節約目標的進度，目前已超前於計劃。"
+    },
     {
       "id": "5026852",
       "time": "2026-08-05 19:23:39",
