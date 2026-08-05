@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-05 16:16:33",
-  "count": 17903,
+  "updated": "2026-08-05 16:20:27",
+  "count": 17896,
   "items": [
+    {
+      "id": "5026368",
+      "time": "2026-08-05 16:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財長：不會依賴新發債券彌補稅收缺口。"
+    },
+    {
+      "id": "5026367",
+      "time": "2026-08-05 16:19:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX美股盤前跌超10%】SpaceX美股盤前跌超10%，現報112.788美元。"
+    },
+    {
+      "id": "5026366",
+      "time": "2026-08-05 16:18:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "酷澎（Coupang）股價盤前下跌5.2%，此前該公司第二季度營收不及市場預期。"
+    },
+    {
+      "id": "5026365",
+      "time": "2026-08-05 16:18:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【創世紀：控股股東夏軍質押1.02億股 佔總股本6.10%】創世紀公告稱，公司控股股東、實際控制人夏軍近日質押1.02億股，佔其所持股份比例44.69%，佔公司總股本6.10%，質權人為中信證券和中國銀河證券，質押用途均為個人資金需求。截至公告披露日，夏軍及其一致行動人累計質押股份佔合計所持公司股份比例為40.39%，未達50%，質押風險可控，不會對公司產生不利影響。"
+    },
+    {
+      "id": "5026364",
+      "time": "2026-08-05 16:18:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST瑞和：股東瑞展實業1522萬股股份解除質押】*ST瑞和公告稱，公司持股5%以上股東瑞展實業所持公司部分股份解除質押，此次解除質押股份數量為1522萬股，佔其所持股份比例20.63%，佔公司總股本比例4.03%。截至公告日，瑞展實業及其一致行動人李介平累計質押股份1.35億股，佔其所持股份比例89.86%，佔公司總股本比例35.72%。"
+    },
+    {
+      "id": "5026363",
+      "time": "2026-08-05 16:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多瑙河水位降至新低 二戰軍艦殘骸露出水面】受持續高溫乾旱影響，歐洲第二大河多瑙河水位顯著降低，數十艘二戰時期納粹德國軍艦殘骸露出水面。（新華社）"
+    },
+    {
+      "id": "mkt:019fd0fe-a63e-7aab-8f86-3b012fe512cf",
+      "time": "2026-08-05 16:16:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00992.HK",
+        "02476.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng +0.24%, Hang Seng Tech +0.97%】Hong Kong stocks closed with the Hang Seng Index up 0.24% and the Hang Seng Tech Index up 0.97%; market turnover HKD 278.04 bln. PCB, gold, film and brain–computer-interface sectors led gains, while online education, oil and optical-communications stocks lagged. Notable movers: Shenghong Technology (02476.HK) +16%+, China Gold International (02099.HK) +13%+, Kingboard Laminates (01888.HK) +10%+, Lenovo Group (00992.HK) +~6%; Zhongji Xuchuang (03309.HK) -5%+, CNOOC (00883.HK) and New Oriental (09901.HK) -2%+."
+    },
     {
       "id": "5026362",
       "time": "2026-08-05 16:15:42",
@@ -165664,144 +165728,6 @@
         "公司"
       ],
       "text": "【國投資本：副總經理兼董事會秘書於曉揚因工作調動離任】國投資本公告稱，公司董事會近日收到副總經理、董事會秘書、總法律顧問（首席合規官）於曉揚的書面辭職報告，因工作調動，其於2026年7月29日辭去上述職務。在公司聘任新的董事會秘書前，由董事長崔宏琴代行職責。公司將盡快完成選聘並披露。於曉揚不存在未履行完畢的公開承諾。"
-    },
-    {
-      "id": "5014023",
-      "time": "2026-07-29 16:20:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國金融監管負責人就槓桿型ETF爭議致歉，稱將恢復市場信任】7月29日，韓國主要金融監管機構負責人就單隻股票槓桿型交易所交易基金（ETF）引發的市場爭議公開致歉。此前，部分投資者和市場人士認為，這類產品加劇了市場波動，並導致投資者財富大幅縮水。韓國金融服務委員會主席李億遠表示，對於監管機構未能在多個方面達到公眾信任要求，他感到歉意。韓國金融監督院院長李燦鎮表示，監管機構正在盡最大努力恢復市場信任。"
-    },
-    {
-      "id": "mkt:019facf5-d936-7aab-8ee3-722a458122a1",
-      "time": "2026-07-29 16:20:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Singapore's Ministry of Finance said the latest package raises total government support to about SGD 2 billion."
-    },
-    {
-      "id": "5014022",
-      "time": "2026-07-29 16:20:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆通訊管理局召開2026年上半年重點工作推進會】新疆維吾爾自治區通訊管理局召開2026年上半年重點工作推進會。會議強調，紮實推進資訊通訊網路設施提質升級，提升數實融合發展能力，持續強化電信業務監管能力，切實維護網路和資料安全，提升“三斷”極端情況下應急通訊保障能力，在攻堅克難中開創工作新局面。 (工信部)"
-    },
-    {
-      "id": "mkt:019facf5-bdda-7aab-8ee3-6ed32d758af0",
-      "time": "2026-07-29 16:20:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Zelenskiy said Ukraine also struck an export terminal and a defense plant in Russia's Rostov region."
-    },
-    {
-      "id": "5014021",
-      "time": "2026-07-29 16:20:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛馬仕首席財務官表示：美國、歐洲和日本市場的下半年需求趨勢未出現任何變化，但法國和中東市場的走勢仍存在不確定性。"
-    },
-    {
-      "id": "mkt:019facf5-9d02-7aab-8ee3-623515f3a95d",
-      "time": "2026-07-29 16:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England mortgage approvals for June due in 10 minutes."
-    },
-    {
-      "id": "5014020",
-      "time": "2026-07-29 16:19:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆興新材：子公司擬6億元投資兩生產專案】恆興新材公告稱，公司第三屆董事會相關會議審議透過子公司投資專案議案。下屬山東衡興、江蘇辰興兩家子公司擬分別啟動天然有機酯醛酸衍生物、特種精細化工新材料生產專案，預計投資額約6億元。資金源於自有或自籌資金，不涉及募集資金。專案已完成土地相關手續，正穩步推進。不過，專案存在建設進度、收益不達預期等風險。"
-    },
-    {
-      "id": "5014019",
-      "time": "2026-07-29 16:19:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基：在俄羅斯的里亞贊市打擊了一個物流中心】烏克蘭總統澤連斯基：“我方針對俄羅斯相關設施實施遠端打擊，現已取得新戰果。我方打擊了梁贊地區一座煉油廠與一處物流中心，該地距烏克蘭邊境約 360 公里。同時，我方對俄羅斯黑海艦隊部署在遭俄方臨時佔領的克里米亞的高速快艇基地發動襲擊。此外，我們還對彼爾姆邊疆區煉油廠、羅斯托夫州一處出口碼頭及軍工企業實施遠端打擊。"
-    },
-    {
-      "id": "mkt:019facf4-d905-7aab-8ee3-5b2e42988996",
-      "time": "2026-07-29 16:19:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Zelenskiy said Ukraine struck an oil refinery in Russia's Perm region."
-    },
-    {
-      "id": "te:economy:570705",
-      "time": "2026-07-29 16:19:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "National Bank of Georgia Holds Key Rate Steady — The National Bank of Georgia left its key policy rate unchanged at 8.25% at its July 2026 meeting, maintaining a cautious stance amid tensions in the Middle East. Headline inflation edged up to 5.8% in June from 5.7%, driven by higher energy prices linked to the regional conflict. Policymakers noted the increase was broadly in line with expectations for the second quarter, while emphasizing that second-round inflationary effects remain a key concern. Meanwhile, economic activity accelerated to 9.0% year-on-year in the first quarter from 6.7% in the previous quarter, supported by strong performance in service sectors, with the negative impact of the conflict remaining limited. The central bank continues to forecast economic growth of 6.5% in 2026 and revised its average inflation projection up to 5.2% from 4.9%, beginning to ease in the second half of the year and gradually converge to target over the medium term. Future decisions will depend on inflation risks and second-round effects."
-    },
-    {
-      "id": "te:economy:570704",
-      "time": "2026-07-29 16:18:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Malaysia",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Malaysia 10Y Bond Yield Hits 15-month High — Malaysia 10 Year Government Bond Yield increased to 3.72%, the highest since April 2025. Over the past 4 weeks, Malaysia 10Y Bond Yield gained 9.33 basis points, and in the last 12 months, it increased 32.50 basis points."
-    },
-    {
-      "id": "mkt:019facf4-1960-7aab-8ee3-5665413eeec6",
-      "time": "2026-07-29 16:18:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine struck a logistics hub in Ryazan, Russia."
-    },
-    {
-      "id": "5014018",
-      "time": "2026-07-29 16:18:18",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：月之暗面超額完成融資目標，估值達到350億美元。"
-    },
-    {
-      "id": "5014017",
-      "time": "2026-07-29 16:17:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拾比佰：擬以1000萬元-2000萬元回購公司股份】拾比佰公告，擬以自有資金回購公司股份，回購資金總額區間為1000萬元-2000萬元，回購價格不超過10元/股。回購股份將用於實施股權激勵或員工持股計劃，回購期限自董事會審議透過之日起不超過6個月。"
     }
   ]
 }

@@ -1,7 +1,71 @@
 {
   "date": "2026-08-05",
-  "count": 1889,
+  "count": 1896,
   "items": [
+    {
+      "id": "5026368",
+      "time": "2026-08-05 16:19:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財長：不會依賴新發債券彌補稅收缺口。"
+    },
+    {
+      "id": "5026367",
+      "time": "2026-08-05 16:19:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX美股盤前跌超10%】SpaceX美股盤前跌超10%，現報112.788美元。"
+    },
+    {
+      "id": "5026366",
+      "time": "2026-08-05 16:18:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "酷澎（Coupang）股價盤前下跌5.2%，此前該公司第二季度營收不及市場預期。"
+    },
+    {
+      "id": "5026365",
+      "time": "2026-08-05 16:18:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【創世紀：控股股東夏軍質押1.02億股 佔總股本6.10%】創世紀公告稱，公司控股股東、實際控制人夏軍近日質押1.02億股，佔其所持股份比例44.69%，佔公司總股本6.10%，質權人為中信證券和中國銀河證券，質押用途均為個人資金需求。截至公告披露日，夏軍及其一致行動人累計質押股份佔合計所持公司股份比例為40.39%，未達50%，質押風險可控，不會對公司產生不利影響。"
+    },
+    {
+      "id": "5026364",
+      "time": "2026-08-05 16:18:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST瑞和：股東瑞展實業1522萬股股份解除質押】*ST瑞和公告稱，公司持股5%以上股東瑞展實業所持公司部分股份解除質押，此次解除質押股份數量為1522萬股，佔其所持股份比例20.63%，佔公司總股本比例4.03%。截至公告日，瑞展實業及其一致行動人李介平累計質押股份1.35億股，佔其所持股份比例89.86%，佔公司總股本比例35.72%。"
+    },
+    {
+      "id": "5026363",
+      "time": "2026-08-05 16:16:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多瑙河水位降至新低 二戰軍艦殘骸露出水面】受持續高溫乾旱影響，歐洲第二大河多瑙河水位顯著降低，數十艘二戰時期納粹德國軍艦殘骸露出水面。（新華社）"
+    },
+    {
+      "id": "mkt:019fd0fe-a63e-7aab-8f86-3b012fe512cf",
+      "time": "2026-08-05 16:16:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00992.HK",
+        "02476.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng +0.24%, Hang Seng Tech +0.97%】Hong Kong stocks closed with the Hang Seng Index up 0.24% and the Hang Seng Tech Index up 0.97%; market turnover HKD 278.04 bln. PCB, gold, film and brain–computer-interface sectors led gains, while online education, oil and optical-communications stocks lagged. Notable movers: Shenghong Technology (02476.HK) +16%+, China Gold International (02099.HK) +13%+, Kingboard Laminates (01888.HK) +10%+, Lenovo Group (00992.HK) +~6%; Zhongji Xuchuang (03309.HK) -5%+, CNOOC (00883.HK) and New Oriental (09901.HK) -2%+."
+    },
     {
       "id": "5026362",
       "time": "2026-08-05 16:15:42",
