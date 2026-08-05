@@ -1,7 +1,100 @@
 {
-  "updated": "2026-08-05 13:00:25",
-  "count": 17853,
+  "updated": "2026-08-05 13:04:25",
+  "count": 17857,
   "items": [
+    {
+      "id": "mkt:019fd04d-1beb-7aab-8f81-f7e831c11909",
+      "time": "2026-08-05 13:02:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "2354.HK",
+        "Impact bullish"
+      ],
+      "text": "Foxconn Industrial hit the daily price limit as turnover exceeded 12.7 billion yuan."
+    },
+    {
+      "id": "5026018",
+      "time": "2026-08-05 13:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯稱襲擊3艘貨船以及基輔物流樞紐】俄羅斯國防部在電報平臺釋出宣告稱，俄軍夜間襲擊了基輔及基輔州內的運輸、物流與集散中心。俄軍還襲擊了敖德薩南部的三艘乾貨船。烏克蘭國家緊急服務局另發宣告表示，夜間襲擊已造成14人死亡、27人受傷。注：8月4日，俄羅斯襲擊港口後，烏克蘭鐵路部門尋求新的糧食運輸線路。"
+    },
+    {
+      "id": "mkt:019fd04b-4129-7aab-8f81-e992646bf3c7",
+      "time": "2026-08-05 13:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's July services PMI (final) 53.3, below the expected 54.5 and above the prior 53.1."
+    },
+    {
+      "id": "mkt:019fd04b-1ad6-7aab-8f81-e0dfd66c8057",
+      "time": "2026-08-05 13:00:10",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "India July composite PMI final 54.3, unchanged from the prior reading of 54.3."
+    },
+    {
+      "id": "mkt:019fd04b-19a0-7aab-8f81-db1a3634b814",
+      "time": "2026-08-05 13:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore seasonally adjusted retail sales rose 1.0% MoM in June; May's -2.30% revised to -2.2%."
+    },
+    {
+      "id": "mkt:019fd04b-1987-7aab-8f81-d656b37669cd",
+      "time": "2026-08-05 13:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore June retail sales YoY 4.0%; prior revised to 2.9% from 3.0%."
+    },
+    {
+      "id": "mkt:019fd04a-fa12-7aab-8f81-c4e92206e9ad",
+      "time": "2026-08-05 13:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "India | Services PMI (Jul) | actual 53.3 | consensus 54.5 | previous 53.1"
+    },
+    {
+      "id": "mkt:019fd04a-fa1c-7aab-8f81-cfdbde8f7152",
+      "time": "2026-08-05 13:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Retail Sales SA (MoM) (Jun) | actual 1% | previous -2.30%"
+    },
+    {
+      "id": "mkt:019fd04a-f9e3-7aab-8f81-b89e822f9264",
+      "time": "2026-08-05 13:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | Retail Sales (YoY) (Jun) | actual 4% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019fd04a-f8f7-7aab-8f81-b01be8d389ff",
+      "time": "2026-08-05 13:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "India | Composite PMI (Jul) | actual 54.3 | previous 54.3"
+    },
     {
       "id": "5026017",
       "time": "2026-08-05 12:58:02",
@@ -165161,57 +165254,6 @@
         "公司"
       ],
       "text": "【德意志銀行盈利增長後計劃新一輪5億歐元股票回購】德意志銀行表示，在錄得利潤大幅增長後，將再回購價值5億歐元（合5.693億美元）的股票。這家德國最大的銀行週三表示，在截至6月份的季度實現稅前利潤26.8億歐元，較去年同期增長11%，也高於該公司彙總的分析師平均預期的22.5億歐元。該銀行表示，將用今年的淨利潤回購5億歐元的自身股份。此前，該行近期已完成一筆10億歐元的股票回購。首席財務官拉賈·阿克拉姆(Raja Akram)表示：“我們仍然有能力投資於我們的業務，併為股東帶來可觀的回報。”"
-    },
-    {
-      "id": "5013684",
-      "time": "2026-07-29 13:04:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱電機暫停熊本縣兩家半導體工廠的運營。"
-    },
-    {
-      "id": "5013683",
-      "time": "2026-07-29 13:03:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗武裝部隊警告美總統特朗普 】針對美國總統特朗普有關“動用伊朗被凍結資產來賠償受損船隻”的說法，伊朗武裝部隊哈塔姆·安比亞中央司令部發言人易卜拉欣·佐勒法加里7月28日對特朗普發出警告，稱其“非法行徑必將面臨後果”。佐勒法加里還說，伊朗已正式告知全球所有國家與航運公司，凡是接受美方提議並以此為由動用伊朗被凍結資產者，即日起伊朗武裝部隊將一律禁止其任何船隻透過霍爾木茲海峽。"
-    },
-    {
-      "id": "5013682",
-      "time": "2026-07-29 13:01:49",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "渣打集團港股逆轉跌勢，漲逾2%，因上半年盈利超預期且宣佈新股份回購計劃。"
-    },
-    {
-      "id": "5013681",
-      "time": "2026-07-29 13:00:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量1565億元。"
-    },
-    {
-      "id": "5013680",
-      "time": "2026-07-29 13:00:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴斯夫仍然預測全年調整後EBITDA 69億歐元至77億歐元。"
-    },
-    {
-      "id": "5013679",
-      "time": "2026-07-29 13:00:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴斯夫第二季度調整後EBITDA 24.5億歐元，同比+54%。巴斯夫第二季度調整後每股收益1.28歐元，預估0.98歐元。"
     }
   ]
 }
