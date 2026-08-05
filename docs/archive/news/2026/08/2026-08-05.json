@@ -1,7 +1,101 @@
 {
   "date": "2026-08-05",
-  "count": 1047,
+  "count": 1057,
   "items": [
+    {
+      "id": "5025821",
+      "time": "2026-08-05 10:38:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "淡馬錫、摩根士丹利據悉擬參與Adtek的IPO前融資。"
+    },
+    {
+      "id": "5025820",
+      "time": "2026-08-05 10:38:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.06%。"
+    },
+    {
+      "id": "te:markets:572781",
+      "time": "2026-08-05 10:37:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Shares Rise Further Ahead of GDP Data — Indonesia’s IDX Composite rose 33 points or 0.5% to 6,351 in Wednesday morning trade, extending the prior session’s gain as U.S. stock futures firmed after a continued rally on Wall Street overnight that pushed the broad market to a record high following upbeat earnings and speculation of a U.S.–Iran accord to reopen the Strait of Hormuz. Locally, July’s softer headline inflation offered near-term relief amid volatile food costs and seasonal pressure from back-to-school spending. Clarity on the rare-earth export ban also helped, with nickel, tin, and other commodities containing trace elements allowed to resume shipments. Gains, however, were capped by caution ahead of Q2 GDP data due later today, with growth expected to ease from Q1’s 5.6% yoy pace, while July trade figures in top trading partner China loom later this week. Property, basic materials, and energy led the strength, with Timah Tbk up 3.9%, followed by Aneka Tambang (3.5%), Agung Podomoro (2.4%), and Indika Energy (1.2%)."
+    },
+    {
+      "id": "5025819",
+      "time": "2026-08-05 10:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內漲4%，現報1734.00元。"
+    },
+    {
+      "id": "5025817",
+      "time": "2026-08-05 10:36:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲0.86%。"
+    },
+    {
+      "id": "5025816",
+      "time": "2026-08-05 10:36:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報60.12美元/盎司。"
+    },
+    {
+      "id": "5025815",
+      "time": "2026-08-05 10:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4170美元/盎司，日內漲0.42%。"
+    },
+    {
+      "id": "mkt:019fcfc6-7dce-7aab-8f7d-d69460b82ed5",
+      "time": "2026-08-05 10:35:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai silver most-active contract rose 4.00% intraday to 14,672.00 yuan/kg."
+    },
+    {
+      "id": "5025814",
+      "time": "2026-08-05 10:34:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報14672.00元。"
+    },
+    {
+      "id": "5025813",
+      "time": "2026-08-05 10:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美芯晟推出多拓撲結構車規級高精度恆流驅動控制器MTQ6111】據美芯晟訊息，美芯晟推出精簡外圍的高精度恆流驅動控制器MTQ6111。該晶片採用峰值電流模式控制架構，滿足AEC-Q100車規級認證標準，工作結溫-40℃~150℃，支援Boost、Buck-Boost、SEPIC等多種拓撲結構，適配不同型別和功率等級的LED燈組，可用於日間行車燈（DRL）、前照燈、尾燈、轉向燈、霧燈等車載外照場景。"
+    },
     {
       "id": "mkt:019fcfc5-37dc-7aab-8f7d-cecb057a24a3",
       "time": "2026-08-05 10:33:56",

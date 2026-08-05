@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-05 10:34:49",
-  "count": 17810,
+  "updated": "2026-08-05 10:38:42",
+  "count": 17808,
   "items": [
+    {
+      "id": "5025821",
+      "time": "2026-08-05 10:38:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "淡馬錫、摩根士丹利據悉擬參與Adtek的IPO前融資。"
+    },
+    {
+      "id": "5025820",
+      "time": "2026-08-05 10:38:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.06%。"
+    },
+    {
+      "id": "te:markets:572781",
+      "time": "2026-08-05 10:37:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Shares Rise Further Ahead of GDP Data — Indonesia’s IDX Composite rose 33 points or 0.5% to 6,351 in Wednesday morning trade, extending the prior session’s gain as U.S. stock futures firmed after a continued rally on Wall Street overnight that pushed the broad market to a record high following upbeat earnings and speculation of a U.S.–Iran accord to reopen the Strait of Hormuz. Locally, July’s softer headline inflation offered near-term relief amid volatile food costs and seasonal pressure from back-to-school spending. Clarity on the rare-earth export ban also helped, with nickel, tin, and other commodities containing trace elements allowed to resume shipments. Gains, however, were capped by caution ahead of Q2 GDP data due later today, with growth expected to ease from Q1’s 5.6% yoy pace, while July trade figures in top trading partner China loom later this week. Property, basic materials, and energy led the strength, with Timah Tbk up 3.9%, followed by Aneka Tambang (3.5%), Agung Podomoro (2.4%), and Indika Energy (1.2%)."
+    },
+    {
+      "id": "5025819",
+      "time": "2026-08-05 10:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "尿素連續主力合約日內漲4%，現報1734.00元。"
+    },
+    {
+      "id": "5025817",
+      "time": "2026-08-05 10:36:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4110美元/盎司，日內漲0.86%。"
+    },
+    {
+      "id": "5025816",
+      "time": "2026-08-05 10:36:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報60.12美元/盎司。"
+    },
+    {
+      "id": "5025815",
+      "time": "2026-08-05 10:36:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4170美元/盎司，日內漲0.42%。"
+    },
+    {
+      "id": "mkt:019fcfc6-7dce-7aab-8f7d-d69460b82ed5",
+      "time": "2026-08-05 10:35:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Shanghai silver most-active contract rose 4.00% intraday to 14,672.00 yuan/kg."
+    },
+    {
+      "id": "5025814",
+      "time": "2026-08-05 10:34:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報14672.00元。"
+    },
+    {
+      "id": "5025813",
+      "time": "2026-08-05 10:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美芯晟推出多拓撲結構車規級高精度恆流驅動控制器MTQ6111】據美芯晟訊息，美芯晟推出精簡外圍的高精度恆流驅動控制器MTQ6111。該晶片採用峰值電流模式控制架構，滿足AEC-Q100車規級認證標準，工作結溫-40℃~150℃，支援Boost、Buck-Boost、SEPIC等多種拓撲結構，適配不同型別和功率等級的LED燈組，可用於日間行車燈（DRL）、前照燈、尾燈、轉向燈、霧燈等車載外照場景。"
+    },
     {
       "id": "mkt:019fcfc5-37dc-7aab-8f7d-cecb057a24a3",
       "time": "2026-08-05 10:33:56",
@@ -164735,120 +164829,6 @@
         "Importance 1"
       ],
       "text": "AUS 10Y Yield Retreats from Multi-Week Highs — Australia’s 10-year government bond yield fell to around 4.9%, easing from multi-week highs as softer inflation figures reduced expectations of further interest rate hikes. Headline inflation unexpectedly eased to a four-month low of 3.8% in June from both May's reading and forecasts of 4.0%, while monthly consumer prices unexpectedly fell 0.1% for a second straight month. Meanwhile, the closely watched trimmed mean inflation rate rose 3.6% annually, below expectations of 3.7%, while quarterly core inflation increased 0.8%, also undershooting forecasts. Although inflation remains above the RBA’s 2%–3% target range, markets sharply scaled back bets on another rate hike this year to around 50% from more than 90% before the release. The softer readings also reinforced the view that the central bank is unlikely to resume policy tightening at its August 11 meeting. Still, the RBA's governor recently warned that another rate hike may still be needed to bring inflation back to target."
-    },
-    {
-      "id": "mkt:019fabbc-c7a9-7aab-8edc-25946a054b12",
-      "time": "2026-07-29 10:38:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Taiwan Stock Exchange weighted index (TAIEX) fell more than 3%."
-    },
-    {
-      "id": "5013499",
-      "time": "2026-07-29 10:38:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：ChatGPT周活躍使用者數接近10億。"
-    },
-    {
-      "id": "te:markets:570582",
-      "time": "2026-07-29 10:38:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Range-Bound — The New Zealand dollar traded around $0.578, lacking clear direction as investors awaited the US Federal Reserve's policy decision while monitoring developments in the Middle East. Although the consensus is for the Fed to hold rates steady, markets continue to price in roughly a one-third probability of a 25-bp rate hike. Meanwhile, geopolitical risks resurfaced after the US said it had intercepted Iranian missile attacks at forces based in the region, ending a days-long lull in hostilities and raising the risk of a broader conflict in the region. Investors are also looking ahead to New Zealand's business confidence and consumer sentiment data later this week for fresh clues on the economic outlook. The Reserve Bank of New Zealand is widely expected to deliver another 25-bp hike in September following hot inflation data last week, with markets implying rates to reach at least 3.0% by year-end and peak at 3.5% around mid-2027."
-    },
-    {
-      "id": "5013498",
-      "time": "2026-07-29 10:38:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【希捷科技：客戶並未縮減資本開支 多家廠商將規劃拉長至2029年以後】美東時間週二盤後，美股硬碟儲存龍頭希捷科技公佈了全面跑贏預期的季度財報。公司CEO戴夫·莫斯利（Dave Mosley）在財報會上表示，本次業績印證，大容量儲存市場需求旺盛且持續增長。他還透露：“公司客戶並未縮減長期規劃週期，多家廠商主動提出將規劃週期延長至2029年及以後，足以證明客戶對自身長期基礎設施投入的信心。”"
-    },
-    {
-      "id": "5013497",
-      "time": "2026-07-29 10:37:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方電熱：預計未來幾年機器人熱管理的滲透率有望提升至50%以上】東方電熱在最新披露的投資者關係活動記錄表中表示，隨著大模型的持續迭代，本體廠商加速探索實際應用場景，機器人散熱從“可選項”逐步成為“必選項”，公司預計未來幾年，機器人熱管理的滲透率有望提升至50%以上。"
-    },
-    {
-      "id": "mkt:019fabbc-3e8a-7aab-8edc-1c6d220fbf17",
-      "time": "2026-07-29 10:37:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Singapore benchmark stock index rose 0.5% to a record high of 5,643.90."
-    },
-    {
-      "id": "5013496",
-      "time": "2026-07-29 10:37:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡基準股指上漲0.5%，至5,643.90點的紀錄高位。"
-    },
-    {
-      "id": "mkt:019fabbb-2ab5-7aab-8edc-10416eaa50e3",
-      "time": "2026-07-29 10:36:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share steel sector traded higher after choppy moves; Liugang hit the daily trading limit, while Fangda Special Steel, Xinxing Steel, Wujin Stainless, Hualing Steel, Maanshan Iron & Steel and Shagang also rose."
-    },
-    {
-      "id": "mkt:019fabba-e6b5-7aab-8edc-0f34145e5560",
-      "time": "2026-07-29 10:36:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "SNE.N",
-        "Impact bearish"
-      ],
-      "text": "Market update: Sony Semiconductor Manufacturing's Kumamoto plant remains offline after an earthquake; production is still suspended."
-    },
-    {
-      "id": "5013495",
-      "time": "2026-07-29 10:36:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼：九州其他工廠未確認發生重大損壞。"
-    },
-    {
-      "id": "5013494",
-      "time": "2026-07-29 10:35:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼半導體制造株式會社熊本技術中心的運營在地震後已暫停，目前仍處於停產狀態。"
-    },
-    {
-      "id": "5013493",
-      "time": "2026-07-29 10:34:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼稱熊本工廠地震後暫停運營。"
     }
   ]
 }
