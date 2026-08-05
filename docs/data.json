@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-06 03:09:42",
-  "count": 17711,
+  "updated": "2026-08-06 03:13:43",
+  "count": 17690,
   "items": [
+    {
+      "id": "5027446",
+      "time": "2026-08-06 03:09:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：對國際足聯主席因凡蒂諾缺乏信任。"
+    },
+    {
+      "id": "5027445",
+      "time": "2026-08-06 03:09:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥牛油果協會表示，美國發布的安全警報影響了米卻肯州的出口檢驗工作。"
+    },
     {
       "id": "mkt:019fd354-2b56-7aab-8f93-36bc23e87a6a",
       "time": "2026-08-06 03:08:56",
@@ -163142,221 +163158,6 @@
         "國際"
       ],
       "text": "特朗普稱讚英偉達的黃仁勳和英偉達的晶片。"
-    },
-    {
-      "id": "mkt:019faf4c-03bd-7aab-8ef6-84a17b6755a4",
-      "time": "2026-07-30 03:13:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said markets can be a very good source of information but are not decisive."
-    },
-    {
-      "id": "5015111",
-      "time": "2026-07-30 03:13:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：市場可以成為極佳的資訊來源。"
-    },
-    {
-      "id": "5015110",
-      "time": "2026-07-30 03:13:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：市場價格正共同發揮作用，促使我們保持警覺。"
-    },
-    {
-      "id": "mkt:019faf4b-a0a2-7aab-8ef6-784f556a4dd9",
-      "time": "2026-07-30 03:13:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said households keep us constantly vigilant."
-    },
-    {
-      "id": "5015109",
-      "time": "2026-07-30 03:13:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我聽到家庭和企業（對高通脹）的不耐煩。"
-    },
-    {
-      "id": "mkt:019faf4b-5e22-7aab-8ef6-720b4bce1455",
-      "time": "2026-07-30 03:12:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed will not be constrained by market prices."
-    },
-    {
-      "id": "mkt:019faf4b-3b2e-7aab-8ef6-6db67e3014ea",
-      "time": "2026-07-30 03:12:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed chair Kevin Warsh said market prices, viewed from a macro perspective, are not signaling \"all is well\" but instead point to tighter financial conditions."
-    },
-    {
-      "id": "5015108",
-      "time": "2026-07-30 03:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：黃仁勳在橢圓形辦公室。"
-    },
-    {
-      "id": "5015106",
-      "time": "2026-07-30 03:12:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：他們（市場）讓我們時刻保持警惕。"
-    },
-    {
-      "id": "5015105",
-      "time": "2026-07-30 03:11:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：市場定價顯然並未釋放風險解除訊號。"
-    },
-    {
-      "id": "mkt:019faf4a-65fa-7aab-8ef6-612b685d3180",
-      "time": "2026-07-30 03:11:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said he has heard that households and businesses lack patience."
-    },
-    {
-      "id": "5015104",
-      "time": "2026-07-30 03:11:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：若從整體來看市場價格，目前市場並未釋放風險解除的訊號，金融環境已經收緊。"
-    },
-    {
-      "id": "mkt:019faf49-9ee0-7aab-8ef6-5f4a7026d278",
-      "time": "2026-07-30 03:11:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said judgments will consider external working-group views but will not be dictated by them."
-    },
-    {
-      "id": "5015103",
-      "time": "2026-07-30 03:10:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌。"
-    },
-    {
-      "id": "mkt:019faf49-49ac-7aab-8ef6-56a40643ef38",
-      "time": "2026-07-30 03:10:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said he was impressed by the credentials of the working-group leaders."
-    },
-    {
-      "id": "5015102",
-      "time": "2026-07-30 03:10:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：杜勒斯機場將擁有最大的美聯航北極星貴賓休息室。"
-    },
-    {
-      "id": "5015101",
-      "time": "2026-07-30 03:10:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們的判斷將參考外部工作組意見，而非由其決定。"
-    },
-    {
-      "id": "mkt:019faf49-0c43-7aab-8ef6-4f174aec7e7c",
-      "time": "2026-07-30 03:10:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed is accountable to the Supervisory Committee and must operate within the authority granted by Congress."
-    },
-    {
-      "id": "mkt:019faf48-fc54-7aab-8ef6-44257bf940e0",
-      "time": "2026-07-30 03:10:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve chairman Kevin Warsh said he has known almost all of the working-group leaders for a long time."
-    },
-    {
-      "id": "5015100",
-      "time": "2026-07-30 03:10:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及杜勒斯機場：新增及翻新500萬平方英尺場地空間。"
-    },
-    {
-      "id": "5015099",
-      "time": "2026-07-30 03:10:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WEC能源股價觸及盤中低點，最新下跌2.4%；此前宣佈甲骨文不顧與州政府的衝突，繼續推進威斯康星州資料中心專案。"
-    },
-    {
-      "id": "mkt:019faf48-9b18-7aab-8ef6-3f7b181e8aae",
-      "time": "2026-07-30 03:09:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said this was intended to see whether new ideas could prompt deeper discussion in the conference room."
-    },
-    {
-      "id": "5015098",
-      "time": "2026-07-30 03:09:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們向監督委員會負責，並遵循國會授權。"
     }
   ]
 }
