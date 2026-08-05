@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06 06:06:43",
-  "count": 17475,
+  "updated": "2026-08-06 06:10:32",
+  "count": 17466,
   "items": [
+    {
+      "id": "5027524",
+      "time": "2026-08-06 06:09:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通：科技股交易在經歷慘烈拋售後，散戶影響力或將加大】據摩根大通對科技、媒體和電信板塊股票多空對沖基金初步資料的評估，科技股交易在經歷7月的慘烈拋售後，可能正變得更加依賴散戶投資者，波動性也將加劇。摩根大通策略師帕尼吉爾佐格盧（Nikolaos Panigirtzoglou）等人認為，Pivotal Path的資料顯示，此類對沖基金在7月虧損超過10%。這一回撤幅度尚未計入Situational Awareness基金——該基金在半導體和科技股遭遇劇烈拋售後，上週被迫出售了其大部分公開股票投資組合。帕尼吉爾佐格盧認為，這表明其他專注於科技股的股票多空對沖基金可能也遭遇了半導體和儲存晶片股的強制平倉。"
+    },
     {
       "id": "5027523",
       "time": "2026-08-06 06:04:51",
@@ -160829,117 +160837,6 @@
         "Precious Metals"
       ],
       "text": "Spot silver is up more than 1.00% intraday at $58.17/oz."
-    },
-    {
-      "id": "5015319",
-      "time": "2026-07-30 06:10:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨上漲0.3%，從早盤下跌中反彈。"
-    },
-    {
-      "id": "5015318",
-      "time": "2026-07-30 06:10:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場資訊：ChatGPT、Roblox將受歐盟最嚴格平臺規則約束。"
-    },
-    {
-      "id": "mkt:019fafed-68c9-7aab-8efa-a434b1ba0fd5",
-      "time": "2026-07-30 06:09:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) expects first fiscal quarter operating expenses of $16.8–$16.9 billion and Azure and other cloud services revenue to grow about 45% at constant currency."
-    },
-    {
-      "id": "mkt:019fafec-f229-7aab-8efa-9bbb5d07907a",
-      "time": "2026-07-30 06:09:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact mixed"
-      ],
-      "text": "Microsoft (MSFT.O) expects calendar-year 2026 capital expenditures of about $175 billion."
-    },
-    {
-      "id": "5015317",
-      "time": "2026-07-30 06:09:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔全域防空警報鳴響，烏方預警導彈逼近首都，防空系統進入應戰狀態。"
-    },
-    {
-      "id": "5015316",
-      "time": "2026-07-30 06:08:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟首席財務官：2027財年第一財季資本支出預計將超過500億美元，該規模已計入租賃重分類影響。"
-    },
-    {
-      "id": "mkt:019fafeb-c9b3-7aab-8efa-90f6d32e2231",
-      "time": "2026-07-30 06:08:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Microsoft (MSFT.O) issued a series of financial guidance updates; its US-listed shares extended after-hours gains to about 8%."
-    },
-    {
-      "id": "mkt:019fafea-c14a-7aab-8efa-8c974915e48f",
-      "time": "2026-07-30 06:07:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "Microsoft (MSFT.O) expects first-quarter Personal Computing revenue of $12.2–12.7 bln."
-    },
-    {
-      "id": "5015315",
-      "time": "2026-07-30 06:06:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "強生公司股價下跌1.8%，此前該公司斥資25.8億美元收購SAIL BIO。"
-    },
-    {
-      "id": "te:economy:570890",
-      "time": "2026-07-30 06:06:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Holds at 3.60% — Canada's 10-year government bond yield held steady at about 3.60% in late July after the Federal Reserve left interest rates unchanged. While the decision was expected, three FOMC members dissented in favor of a 25-basis-point rate hike, keeping the possibility of tighter US monetary policy in September. Earlier this month, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers also warned that inflation expectations remain elevated and questioned the durability of the recovery. Investors continued to assess the potential impact of President Trump's proposed tariffs on Canadian imports and renewed tensions between the US and Iran."
     }
   ]
 }
