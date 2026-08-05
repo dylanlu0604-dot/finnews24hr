@@ -1,7 +1,165 @@
 {
-  "updated": "2026-08-05 10:38:42",
-  "count": 17808,
+  "updated": "2026-08-05 10:42:34",
+  "count": 17816,
   "items": [
+    {
+      "id": "5025834",
+      "time": "2026-08-05 10:41:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報60.85美元/盎司。"
+    },
+    {
+      "id": "mkt:019fcfcc-4f04-7aab-8f7d-ed5d26c39bc8",
+      "time": "2026-08-05 10:41:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CSI 1000 stock index futures (contract code IM) most-active contract widened intraday gains to 2.00%, trading at 7,374.4 points."
+    },
+    {
+      "id": "5025833",
+      "time": "2026-08-05 10:41:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子特氣概念反覆活躍 和遠氣體漲停】電子特氣概念反覆活躍，和遠氣體漲停，正帆科技一度觸及20cm漲停，中巨芯、中船特氣、蜀道裝備、雅克科技、華特氣體等跟漲。"
+    },
+    {
+      "id": "5025832",
+      "time": "2026-08-05 10:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國接近達成開放霍爾木茲海峽協議，最早週三宣佈】據訊息人士稱，美國、伊朗和阿曼即將達成一項臨時協議，以重新開放霍爾木茲海峽，華盛頓希望最早在週三宣佈這項協議。據報道，這項提議的為期60天的安排將透過伊朗水域引導進港商業航運，並在與伊朗協調下透過阿曼水域引匯出港交通，同時在臨時期間禁止收取通行費或過路費。該協議旨在加強華盛頓與德黑蘭之間的停火協議，並在阿曼、卡達、巴基斯坦和沙烏地阿拉伯數週斡旋後，為重啟伊朗核計劃談判創造空間。訊息稱，伊朗外交部長阿拉格齊週末原則上同意了這一框架，伊朗領導層於週二完成了批准程式。"
+    },
+    {
+      "id": "mkt:019fcfcc-02c7-7aab-8f7d-e33aeb75c9d9",
+      "time": "2026-08-05 10:41:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai precious metals main futures contracts strengthened: gold 2610 +1.65% at 897.64 yuan/gram; silver 2610 +4.85% at 14,790 yuan/kg; platinum 2610 +7.72% at 432.25 yuan/gram; palladium 2610 +7.16% at 325.75 yuan/gram."
+    },
+    {
+      "id": "5025831",
+      "time": "2026-08-05 10:41:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1374.50美元/盎司。"
+    },
+    {
+      "id": "5025830",
+      "time": "2026-08-05 10:41:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌2%，現報74.24美元/桶。"
+    },
+    {
+      "id": "te:markets:572783",
+      "time": "2026-08-05 10:40:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Zijin Mining Stock Price Hits 11-week High — Zijin Mining shares increased to 33.69 CNY, the highest since May 2026. Over the past 4 weeks, Zijin Mining Group gained 18.74%, and in the last 12 months, it increased 66.57%."
+    },
+    {
+      "id": "5025829",
+      "time": "2026-08-05 10:40:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4180美元/盎司，日內漲0.67%。"
+    },
+    {
+      "id": "5025828",
+      "time": "2026-08-05 10:40:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內跌6%，現報4631.00元。"
+    },
+    {
+      "id": "5025827",
+      "time": "2026-08-05 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：紫金礦業淨買入超14億】截至目前，今日主力資金淨流入68.31億；淨流入有色金屬概念、滬股通、小金屬等板塊，其中有色金屬概念板塊淨流入85.12億；淨流出光通訊、CPO概念、光晶片等板塊，其中光通訊板塊淨流出78.63億。\n個股方面，紫金礦業淨買入14.09億元位居首位，工業富聯、紫光股份、兆易創新主力資金淨流入居前；新易盛淨賣出18.79億元位居首位，長鑫科技、中際旭創、立訊精密淨流出額居前。"
+    },
+    {
+      "id": "5025826",
+      "time": "2026-08-05 10:39:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲5%，現報14814.00元。"
+    },
+    {
+      "id": "5025825",
+      "time": "2026-08-05 10:39:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲7%，現報325.35元。"
+    },
+    {
+      "id": "mkt:019fcfc9-d7de-7aab-8f7d-dbc13cb0fd25",
+      "time": "2026-08-05 10:38:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,120/oz, up 1.05% intraday. New York gold futures gained over 1.0%, trading at $4,175.60/oz."
+    },
+    {
+      "id": "5025824",
+      "time": "2026-08-05 10:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅敦煌釋出高溫紅色預警 多地最高溫將超40℃】甘肅省敦煌市氣象臺今天（5日）10時04分將高溫橙色預警訊號升級為高溫紅色預警訊號：預計今天下午，敦煌市陽關鎮、肅州鎮、七里鎮、沙州鎮、月牙泉鎮、莫高鎮等大部分鄉鎮日最高氣溫將升至40℃以上，請注意防範。"
+    },
+    {
+      "id": "5025823",
+      "time": "2026-08-05 10:38:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲7%，現報432.35元。"
+    },
+    {
+      "id": "5025822",
+      "time": "2026-08-05 10:38:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌4%，現報4453.00元。"
+    },
     {
       "id": "5025821",
       "time": "2026-08-05 10:38:08",
@@ -164744,91 +164902,6 @@
         "其他"
       ],
       "text": "國臺辦：對迫害陸配者將依法終身追責、決不寬貸。"
-    },
-    {
-      "id": "5013505",
-      "time": "2026-07-29 10:41:51",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【國臺辦：大陸在臺東部海域漁業資源調查完全正當合法】7月29日，國務院臺辦舉行例行新聞釋出會。有記者問，近期，大陸“藍海201”科研船在臺灣島東部海域進行漁業資源調查，民進黨當局稱，“對岸動作是為宣稱對該海域有管轄權，惡意進行政治操作及認知作戰”，這類狀況愈來愈多，海巡和臺軍面臨很大挑戰，希望支援相關預算。請問對此有何評論？發言人陳斌華答問表示，7月17日到23日，中國水產科學研究院的科學調查船在臺灣島以東海域開展漁業資源調查，是為全面瞭解中國管轄海域漁業資源狀況，為在該海域開展海洋漁業資源的養護、促進海洋漁業可持續發展提供科學依據，完全正當合法，也是利在兩岸的正常科學調查工作。民進黨當局沒有理由對此說三道四。至於藉機鼓譟“增加海上力量預算”，更是別有用心的政治操弄，企圖挑動兩岸對立對抗。"
-    },
-    {
-      "id": "mkt:019fabbf-5110-7aab-8edc-3014eeab4b10",
-      "time": "2026-07-29 10:41:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【South Korea PM orders crackdown on hoarding as Middle East conflict raises supply concerns】South Korea Prime Minister Han Seung-sook on Wednesday ordered officials to strictly crack down on hoarding, collusion and other market-disrupting behavior, saying repeated conflict in the Middle East has heightened worries about supply tightness. Han said the regional turmoil is spreading and becoming more complex and urged sustained crisis-response efforts; she noted the economy grew 3.8% YoY in 1H. She instructed ministries to limit heatwave damage and ensure stable supplies of agricultural and fisheries products, and said violators would be punished under law."
-    },
-    {
-      "id": "5013504",
-      "time": "2026-07-29 10:40:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為將釋出798g膝上型電腦】7月29日，華為終端官宣將於8月5日釋出華為MateBook Pro S，該機僅重798g，是華為史上最輕的膝上型電腦。"
-    },
-    {
-      "id": "5013503",
-      "time": "2026-07-29 10:40:38",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【棕櫚油上漲，受出口增加和產量下降預期提振】大馬投資銀行在一份報告中表示，受馬來西亞出口增加和產量下降的預期推動，棕櫚油在亞洲早盤交易中上漲。技術分析預測，毛棕櫚油(CPO)期貨在更廣泛的上升趨勢中正經歷盤整階段，預計短期內交易將呈現看漲至橫盤整理的態勢。大馬投資銀行預計，價格將在每噸4,683林吉特面臨阻力，並在每噸4,602林吉特找到支撐。馬來西亞衍生品交易所10月交割的合約上漲19林吉特，報每噸4,661林吉特。"
-    },
-    {
-      "id": "mkt:019fabbe-c60e-7aab-8edc-2e929a67fb3e",
-      "time": "2026-07-29 10:40:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "MSFT.O",
-        "Impact bullish",
-        "NVDA.O",
-        "GOOGL.O"
-      ],
-      "text": "According to The Information, OpenAI's ChatGPT is nearing 1 billion weekly active users, roughly seven months after the company set that target."
-    },
-    {
-      "id": "5013502",
-      "time": "2026-07-29 10:40:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "國臺辦：大陸在臺東部海域漁業資源調查完全正當合法。"
-    },
-    {
-      "id": "5013501",
-      "time": "2026-07-29 10:39:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【樸樸超市入駐淘寶閃購，福州門店率先測試】7月29日訊息，樸樸超市位於福州的部分門店已開始測試入駐淘寶閃購，預計月底將擴充套件至福建全省門店。樸樸入駐淘寶閃購後，消費者可在淘寶閃購直接下單購買樸樸的生鮮、快消商品，由樸樸既有前置倉就近履約，延續30分鐘送達的即時體驗。（介面新聞）"
-    },
-    {
-      "id": "5013500",
-      "time": "2026-07-29 10:39:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報145400元/噸，較上日16:30價格上漲600元/噸。"
-    },
-    {
-      "id": "te:economy:570584",
-      "time": "2026-07-29 10:38:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "AUS 10Y Yield Retreats from Multi-Week Highs — Australia’s 10-year government bond yield fell to around 4.9%, easing from multi-week highs as softer inflation figures reduced expectations of further interest rate hikes. Headline inflation unexpectedly eased to a four-month low of 3.8% in June from both May's reading and forecasts of 4.0%, while monthly consumer prices unexpectedly fell 0.1% for a second straight month. Meanwhile, the closely watched trimmed mean inflation rate rose 3.6% annually, below expectations of 3.7%, while quarterly core inflation increased 0.8%, also undershooting forecasts. Although inflation remains above the RBA’s 2%–3% target range, markets sharply scaled back bets on another rate hike this year to around 50% from more than 90% before the release. The softer readings also reinforced the view that the central bank is unlikely to resume policy tightening at its August 11 meeting. Still, the RBA's governor recently warned that another rate hike may still be needed to bring inflation back to target."
     }
   ]
 }
