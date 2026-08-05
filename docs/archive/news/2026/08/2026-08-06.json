@@ -1,7 +1,19 @@
 {
   "date": "2026-08-06",
-  "count": 311,
+  "count": 312,
   "items": [
+    {
+      "id": "te:markets:573130",
+      "time": "2026-08-06 04:51:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Allstate earnings above expectations at 8.99 USD — Allstate (ALL) released earnings per share at 8.99 USD, compared to market expectations of 5.14 USD."
+    },
     {
       "id": "5027495",
       "time": "2026-08-06 04:51:19",

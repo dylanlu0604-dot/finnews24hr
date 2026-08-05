@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-06 04:52:10",
-  "count": 17541,
+  "updated": "2026-08-06 04:56:01",
+  "count": 17528,
   "items": [
+    {
+      "id": "te:markets:573130",
+      "time": "2026-08-06 04:51:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Allstate earnings above expectations at 8.99 USD — Allstate (ALL) released earnings per share at 8.99 USD, compared to market expectations of 5.14 USD."
+    },
     {
       "id": "5027495",
       "time": "2026-08-06 04:51:19",
@@ -161512,136 +161524,6 @@
         "公司"
       ],
       "text": "高通執行長：目前預計2026財年末，汽車業務年化銷售額將約為70億美元。"
-    },
-    {
-      "id": "5015246",
-      "time": "2026-07-30 04:55:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：內塔尼亞胡向特朗普闡述對伊“三種情景”】據《以色列時報》網站29日報道，以總理內塔尼亞胡日前在與美國總統特朗普的會晤中提出涉伊朗局勢的“三種情景”，但未提及任何“具體戰略”。內塔尼亞胡還在與美高階官員會面中提出希望逐步擺脫美方援助。報道援引以高階官員的話說，內塔尼亞胡所說的“三種情景”包括：一是與伊朗達成外交協議；二是情況較不明朗，沒有達成協議且美國繼續試圖透過經濟制裁向伊朗施壓，但不會再次發動戰爭；三是對伊朗再次發動大規模攻勢。（新華社）"
-    },
-    {
-      "id": "5015245",
-      "time": "2026-07-30 04:54:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長：預計人工智慧變現模式將演變為類似我們的廣告系統，在我們的計算資源上執行高效競價機制。"
-    },
-    {
-      "id": "mkt:019fafa8-87bd-7aab-8ef9-a36dab56b90a",
-      "time": "2026-07-30 04:54:45",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "NOC.O",
-        "RTX.O"
-      ],
-      "text": "【SpaceX awarded $1.6 bln U.S. Space Force contract】The U.S. Space Force on July 29 awarded SpaceX a $1.6 billion contract to perform 18 Falcon 9 launches by end-2027 to deploy military satellites for detecting and tracking airborne targets."
-    },
-    {
-      "id": "mkt:019fafa8-6ccb-7aab-8ef9-9d8393128d24",
-      "time": "2026-07-30 04:54:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Qualcomm (QCOM.O) CEO said tape-out of first-generation HBC has been completed."
-    },
-    {
-      "id": "5015244",
-      "time": "2026-07-30 04:54:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長：公司計劃將人工智慧產品以一站式商用服務模式變現，採用訂閱制結合按量計費的定價方案。"
-    },
-    {
-      "id": "mkt:019fafa8-1803-7aab-8ef9-95e4689ebd88",
-      "time": "2026-07-30 04:54:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) CEO said custom chips have entered wafer production."
-    },
-    {
-      "id": "mkt:019fafa7-d8e9-7aab-8ef9-8a99c5ce36f0",
-      "time": "2026-07-30 04:54:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Microsoft Q4 revenue $90 bln beats estimates; Azure annual revenue tops $100 bln】Microsoft reported Q4 EPS $4.81 vs street $4.24 and $3.65 a year earlier. Revenue was $90.0 bln vs $87.6 bln expected, up 18% YoY. Azure revenue for the quarter was $39.3 bln, up 43% YoY (expected +40%); CEO Nadella said Azure annual revenue has topped $100 bln. Microsoft said Microsoft 365 Copilot paid seats exceed 30 mln and paid AI users have grown. Investors remain focused on whether data-center spending will produce returns. Shares rose about 4% in after-hours trading; stock is down roughly 18% year-to-date."
-    },
-    {
-      "id": "mkt:019fafa7-c29b-7aab-8ef9-857f2dd398d1",
-      "time": "2026-07-30 04:53:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bullish"
-      ],
-      "text": "Qualcomm (QCOM.O) CEO said two recently won custom-chip contracts will generate revenue in the December quarter."
-    },
-    {
-      "id": "5015243",
-      "time": "2026-07-30 04:53:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通執行長：公司已啟動定製矽晶片的晶圓生產。"
-    },
-    {
-      "id": "5015242",
-      "time": "2026-07-30 04:53:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通CEO：已完成HBC第一代的流片。"
-    },
-    {
-      "id": "5015241",
-      "time": "2026-07-30 04:52:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通執行長：我們近期拿下的兩筆定製晶片訂單將在第四財季（截至12月的季度）產生收入。"
-    },
-    {
-      "id": "5015240",
-      "time": "2026-07-30 04:52:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【7月30日美股成交額前20：SK海力士利潤增長低於預期，將擴大資本開支】週三美股成交額第12名SK海力士收跌2.60%，成交83.09億美元。SK海力士7月29日釋出上市後首份財報，上半年營業利潤同比增長超5倍，但不及預期，股價下跌。第二季度營收79.32萬億韓元，淨利潤93.92萬億韓元，環比增133%。公司稱DRAM和NAND價格延續漲勢，HBM、AI伺服器DRAM及企業級SSD銷售推動實現歷史最佳盈利。儘管市場擔憂AI投資放緩，公司認為需求將持續擴大，短期內供需失衡難顯著改善。因投產提前和投資擴大，2026年資本開支預計超40萬億韓元。"
-    },
-    {
-      "id": "5015239",
-      "time": "2026-07-30 04:52:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長：人工智慧產品商業化計劃為“現成即⽤的業務”服務，將結合訂閱制與按量計價兩種模式。"
-    },
-    {
-      "id": "5015238",
-      "time": "2026-07-30 04:52:37",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛為微軟關聯的資料中心專案募集54億美元債務融資。"
     }
   ]
 }
