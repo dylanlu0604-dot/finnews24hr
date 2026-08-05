@@ -1,7 +1,65 @@
 {
   "date": "2026-08-05",
-  "count": 753,
+  "count": 759,
   "items": [
+    {
+      "id": "te:economy:572740",
+      "time": "2026-08-05 08:58:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Manufacturing PMI",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Private Sector Expansion Eases — The S&P Global Hong Kong SAR PMI fell to 51 in July 2026, from a four-month high of 52.0 in the previous month. Still, it remained in expansion territory for a third consecutive month as output growth accelerated to its fastest pace in five months. New orders also continued to expand for a third straight month, though softer overseas demand led to slower overall sales growth than in June. Meanwhile, firms continued to trim headcounts, with employment declining at the sharpest rate in three years as businesses sought to contain costs. On the pricing front, inflationary pressures softened, with input costs rising at the slowest pace since March, while output price inflation also eased at the start of the third quarter. Looking ahead, business confidence deteriorated, with companies turning more pessimistic about the year-ahead outlook amid concerns over domestic economic environment and inflationary pressures."
+    },
+    {
+      "id": "5025628",
+      "time": "2026-08-05 08:58:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：美聯儲特別工作組將向聯邦公開市場委員會提供建議，而不是做出決策。"
+    },
+    {
+      "id": "5025627",
+      "time": "2026-08-05 08:58:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：貨幣政策前瞻性指引的價值取決於具體情況。"
+    },
+    {
+      "id": "te:markets:572738",
+      "time": "2026-08-05 08:57:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Pauses Rally as Intervention Threat Remains — The Japanese yen traded around 157.5 per dollar on Wednesday, pausing its recent rally even as US Treasury Secretary Scott Bessent reaffirmed Washington’s ongoing support for Japan following a historic joint currency intervention. The yen had surged as much as 5% over three sessions after Tokyo and Washington carried out coordinated yen-buying on a scale not seen in decades, with both governments signaling they remain prepared to intervene again if necessary. Bank of Japan data showed Tokyo spent about ¥5.33 trillion during Friday’s operations, after reportedly conducting a record ¥8.45 trillion intervention the day before. The yen had weakened to four-decade lows last month amid higher energy costs, mounting fiscal concerns, and persistently wide interest rate differentials. Meanwhile, the latest data showed Japan’s real wages rose for a sixth consecutive month in June, reinforcing the case for additional BOJ interest rate hikes."
+    },
+    {
+      "id": "5025625",
+      "time": "2026-08-05 08:56:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江豐電子、芯聯整合等在上海新設私募投資基金】企查查APP顯示，近日，上海芯聯啟辰二期私募投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江豐電子(300666)、芯聯整合(688469)全資子公司芯聯股權投資（杭州）有限公司等共同出資。"
+    },
+    {
+      "id": "5025624",
+      "time": "2026-08-05 08:56:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【社交平臺X：土耳其法院下令封禁伊斯坦布林市長伊馬莫格魯的競選賬號】社交媒體平臺X週二表示，該平臺正在遵守土耳其法院的一項命令，在土耳其境內遮蔽被監禁的伊斯坦布林市長埃克雷姆·伊馬莫格魯的總統競選辦公室賬號，但正在法院對該命令提出異議。據X平臺釋出的裁決書副本顯示，伊斯坦布林一家法院為維護國家安全和公共秩序，下令X平臺限制對伊馬莫格魯該賬號的訪問，該賬號擁有約225,700名關注者。X平臺表示，根據土耳其法律，其必須執行該限制措施，但對該命令持異議，並已啟動法律程式。"
+    },
     {
       "id": "5025623",
       "time": "2026-08-05 08:54:39",
