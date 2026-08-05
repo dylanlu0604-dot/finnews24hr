@@ -1,7 +1,174 @@
 {
-  "updated": "2026-08-05 12:35:54",
-  "count": 17818,
+  "updated": "2026-08-05 12:40:23",
+  "count": 17830,
   "items": [
+    {
+      "id": "mkt:019fd038-3cbe-7aab-8f80-c67c9c50dbbf",
+      "time": "2026-08-05 12:39:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reserve Bank of India governor said core inflation remains moderate despite rising prices."
+    },
+    {
+      "id": "5025991",
+      "time": "2026-08-05 12:38:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：季風不均衡令農業前景蒙上陰影。"
+    },
+    {
+      "id": "5025990",
+      "time": "2026-08-05 12:38:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：製造業表現良好。農業前景不明朗。"
+    },
+    {
+      "id": "mkt:019fd037-42cb-7aab-8f80-bf7836ec6b4f",
+      "time": "2026-08-05 12:38:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reserve Bank of India governor said services exports growth remains sustained; the Indian economy outperformed expectations in Q1 FY2026."
+    },
+    {
+      "id": "mkt:019fd036-bb3b-7aab-8f80-b3b94ba4e23c",
+      "time": "2026-08-05 12:37:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India governor says fuel and food prices will continue to push inf."
+    },
+    {
+      "id": "mkt:019fd036-b4ad-7aab-8f80-afa7f1ee79a6",
+      "time": "2026-08-05 12:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor says investment activity remains stable."
+    },
+    {
+      "id": "mkt:019fd036-7dfe-7aab-8f80-a41cf55f0a2c",
+      "time": "2026-08-05 12:37:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said domestic economic activity has shown resilience."
+    },
+    {
+      "id": "5025989",
+      "time": "2026-08-05 12:37:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【一櫃難求 區域網交易線路關閉 “近交易所”機房租金暴漲】隨著交易所關閉機房內原有區域網交易線路，將交易行情接入方式統一變更為廣域網，一場“近交易所”機房爭奪戰正悄然進行。“目前金橋（上交所金橋資料中心）周圍，標準4000瓦機櫃每個月要1萬左右，之前大概7000一個月，今年3、4月份就已經‘限售’了。”從一位從事機房租賃業務的人士處瞭解到，目前上交所附近的機房“一櫃難求”，相較之前價格大幅上漲。這一說法也得到多家量化機構的證實。“有的租賃價格翻了幾倍。”一位量化私募機構人士告訴記者，儘管不能進交易所機房，但靠近交易所資料中心對速度提升仍有幫助。 (第一財經)"
+    },
+    {
+      "id": "mkt:019fd035-fb80-7aab-8f80-9a0c940c6772",
+      "time": "2026-08-05 12:37:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Indian rupee weakens versus the US dollar after the Reserve Bank of India left its policy rate unchanged."
+    },
+    {
+      "id": "5025988",
+      "time": "2026-08-05 12:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：西亞衝突帶來的供給側壓力已有所緩解。"
+    },
+    {
+      "id": "5025987",
+      "time": "2026-08-05 12:36:46",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部在香港成功發行2026年第四期150億元人民幣國債】8月5日，中華人民共和國財政部在香港特別行政區，面向機構投資者招標發行2026年第四期150億元人民幣國債，受到投資者廣泛歡迎，認購倍數4.67倍。其中，2年期50億元，發行利率1.27%；3年期40億元，發行利率1.30%；5年期40億元，發行利率1.43%；15年期10億元，發行利率1.99%；30年期10億元，發行利率2.24%。"
+    },
+    {
+      "id": "mkt:019fd035-4306-7aab-8f80-96590504d12f",
+      "time": "2026-08-05 12:36:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Exchanges close LAN trading circuits; colocation rents spike near SSE data center】Chinese exchanges have closed in‑machine‑room LAN trading circuits and standardized market access via wide‑area networks, triggering a scramble for colocation space adjacent to exchange data centers. Near the Shanghai Stock Exchange's Jin Qiao data center, standard 4,000‑watt racks are being quoted at about 10,000 yuan/month, up from roughly 7,000 yuan previously; availability tightened and allocations were already limited in March–April. Multiple quantitative firms report rack rates have risen severalfold. Firms say proximity to the exchange data center still yields latency benefits even without direct access to exchange machine rooms."
+    },
+    {
+      "id": "5025986",
+      "time": "2026-08-05 12:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度對該國商船在紅海遭襲事件表示強烈譴責】當地時間8月4日上午，一艘懸掛印度國旗的民用貨船在紅海航行途中遭襲，船隻隨後完全沉沒。印度外交部當晚發表宣告對相關襲擊表示強烈譴責，並表示船隻上所有印度人均已安全獲救。印度外交部感謝葉門政府在營救印度公民方面提供的支援，並表示：“所有13名印度公民均已獲救。我方駐利雅得大使館正密切關注局勢，並積極與葉門當局協調，以確保船員的安全。”宣告還補充說：“該地區商船遇襲事件不斷髮生，令人深感擔憂。”"
+    },
+    {
+      "id": "mkt:019fd034-d20b-7aab-8f80-8c382f2b4ddc",
+      "time": "2026-08-05 12:35:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reserve Bank of India governor said policymakers need a clearer read on inf before taking policy action."
+    },
+    {
+      "id": "mkt:019fd034-8572-7aab-8f80-8172e695b0cc",
+      "time": "2026-08-05 12:35:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said overall inflation is expected to rise, but the increase is mainly due to supply-side pressures."
+    },
+    {
+      "id": "5025985",
+      "time": "2026-08-05 12:35:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行行長：通脹高企主要由燃料、食品價格上漲推動，迄今幾乎沒有跡象顯示價格壓力已普遍蔓延。整體通脹預計將於今年第三季度見頂，此後將趨緩。貨幣政策委員會（MPC）指出，儘管整體通脹預計將上升，但這主要源於供給側壓力。"
+    },
+    {
+      "id": "5025984",
+      "time": "2026-08-05 12:34:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率在印度儲備銀行宣佈利率決議後變動不大，報6.7835%，前一交易日收盤為6.8152%。"
+    },
+    {
+      "id": "te:economy:572824",
+      "time": "2026-08-05 12:34:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "India Holds Rates as Expected — The Reserve Bank of India (RBI) left its key repo rate unchanged at 5.25% for the fourth consecutive meeting in September and maintained a neutral stance amid a weakening rupee. The decision was in line with market expectations, as the Middle East conflict and global uncertainty threatened GDP growth and fueled inflationary pressures. The annual inflation rate surged to 4.38% in June 2026, marking the highest level since December 2024 and rising above the RBI's 4% target for the first time in 17 months, though it remained within the central bank's 2%–6% tolerance band."
+    },
     {
       "id": "mkt:019fd033-9260-7aab-8f80-7ac1757e44a6",
       "time": "2026-08-05 12:34:28",
@@ -175,6 +342,15 @@
         "國際"
       ],
       "text": "印度儲備銀行行長：西亞衝突持續給全球經濟帶來挑戰。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608053832388213",
+      "time": "2026-08-05 12:31:02",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國汽車製造商和貿易商協會初步資料顯示，英國7月份新車註冊量同比增長約12%，達到15.6萬輛。"
     },
     {
       "id": "te:markets:572823",
@@ -164849,63 +165025,6 @@
         "XAUUSD"
       ],
       "text": "Tehran has ruled out Oman's proposal for joint regional management of the Strait of Hormuz, saying the plan has no chance of success. Iran said only Iran and Oman can determine arrangements for the strait based on their respective shares and rejected any role for other countries."
-    },
-    {
-      "id": "5013658",
-      "time": "2026-07-29 12:40:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗高階官員：伊朗堅持要求，透過霍爾木茲海峽的全部入港航道以及部分出港航道必須處於伊朗控制之下。"
-    },
-    {
-      "id": "5013657",
-      "time": "2026-07-29 12:39:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗高階官員表示：只有伊朗和阿曼能夠根據各自的權益份額決定霍爾木茲海峽的相關安排，德黑蘭拒絕任何其他國家參與其中。"
-    },
-    {
-      "id": "5013656",
-      "time": "2026-07-29 12:38:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴斯夫：目標為2025年至2028年向股東派息總額不低於120億歐元。"
-    },
-    {
-      "id": "5013655",
-      "time": "2026-07-29 12:37:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴斯夫：將於2026年8月至2027年4月啟動最高10億歐元的股票回購計劃。"
-    },
-    {
-      "id": "5013654",
-      "time": "2026-07-29 12:37:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【力拓無意為享受美國關稅優惠而投資該國鋁業】力拓執行長西蒙·特羅特(Simon Trott)表示，儘管特朗普)政府最近提出，願為在美國投資的鋁企提供部分金屬進口關稅減半的優惠，但該公司無意投資於美國的鋁冶煉產能。力拓是從其加拿大工廠向美國輸送鋁產品的主要付運商，該公司稱過去一年與關稅相關的成本總計超過10億美元。該公司目前在美國境內沒有任何鋁冶煉廠。特羅特在一次採訪中表示，力拓在美國的重點是其銅和鋰業務，而不是在該國增加任何鋁產能。他說：“我們在美國確實有重要的業務佈局“，包括亞利桑那州的Resolution Copper專案、猶他州的銅業務以及北卡羅來納州的一家鋰工廠。特羅特說，該公司“現階段真正專注於這些機會，而不是尋求在美國建冶煉廠“。"
-    },
-    {
-      "id": "5013653",
-      "time": "2026-07-29 12:36:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南網能源：相關限制消費措施已解除 未對公司生產經營活動造成影響】就“網傳廣州當地的法院對公司董事長執行限制消費令，是否意味著公司的經營遇到重大困難？”的提問，南網能源(003035)在互動平臺回覆稱，針對7月28日網路上出現的關於公司的相關資訊，公司高度重視，第一時間與廣州市黃埔區人民法院進行了積極溝通。經核實，該事項源於一起建設工程合同糾紛案件，相關事宜已得到妥善處置，7月28日當天公司已取得法院出具的解除限制消費令的執行通知書[（2026）粵0112執8213號）]，相關限制消費措施已解除。該事項未對公司日常生產經營活動造成影響，目前公司經營管理一切正常。"
-    },
-    {
-      "id": "5013652",
-      "time": "2026-07-29 12:36:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：DRAM超越SoC成為旗艦智慧手機中最昂貴單一元器件】根據Counterpoint Research記憶體價格跟蹤，智慧手機記憶體價格在2026年第二季度環比增長了80%以上。這種顯著的增長對智慧手機BOM成本造成了持續的結構性影響。根據該機構估算，與2025年推出的同級別型號相比，2026年智慧手機的BoM成本結構發生了進一步的改變。2026年第二季度，低端機型（批發價800美元）方面，旗艦級別機型的BOM成本也同比增長了接近50%。DRAM超越SoC，成為旗艦智慧手機中最昂貴的單一元器件。"
     }
   ]
 }
