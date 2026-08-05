@@ -1,7 +1,48 @@
 {
   "date": "2026-08-05",
-  "count": 812,
+  "count": 816,
   "items": [
+    {
+      "id": "5025668",
+      "time": "2026-08-05 09:19:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019fcf80-de56-7aab-8f7b-7ff355e27cc3",
+      "time": "2026-08-05 09:19:16",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Security no longer outsourced as Iranian attacks push Gulf to build autonomous defence architecture】Rashid al-Mohanadi, vice chairman of the International Policy Research Center, said Iranian strikes have exposed the limits of external security guarantees and prompted Gulf states to assemble an autonomous security architecture. Since Iran’s first strike on Gulf territory in February, ceasefires have lasted only weeks and a summer memorandum collapsed within a month; pauses have been followed by drone attacks on critical infrastructure, closures of shipping chokepoints and renewed bombardment. Gulf air-defence systems intercepted most Iranian launches in February, but Iran still inflicted significant damage on civilian facilities and exposed maritime vulnerabilities. Gulf restraint, often read as passivity, is being pursued as a strategy built on credible defence that preserves communication channels, including with Iran. Gulf countries are structuring a four-layer security ecosystem: US/EU enablement, a GCC core force, a broader regional partnership (R4 mechanism including Egypt, Turkey, Pakistan) and a domestic defence-industrial base. Recent actions include a July 28 Saudi‑US joint airstrike on militia targets in Iraq and Saudi Arabia’s July 30 announcement of a 14‑nation maritime defence coalition to secure shipping in the Red Sea and Gulf of Aden. The measures signal a shift from relying on external security to “producing” indigenous security and reducing five decades of dependence on outside security arrangements."
+    },
+    {
+      "id": "te:economy:572751",
+      "time": "2026-08-05 09:19:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Philippines Inflation Rate Slows to 6.2% — The annual inflation rate in the Philippines eased to 6.2% in July 2026, exceeding expectations of a decline to 6.3% and down from 6.4% in June. Transport inflation decelerated to 11.9% from 12.8%, as fuel price pressures eased. Price growth also moderated for education services (1.9% vs. 4.0%) and restaurants and accommodation services (6.8% vs. 7.0%), while food and non-alcoholic beverage inflation remained unchanged at 5.2%. Meanwhile, inflation accelerated for housing, water, electricity, gas and other fuels (8.2% vs. 8.1%), furnishings and household equipment (3.9% vs. 3.7%), health (4.8% vs. 4.6%), recreation and culture (5.3% vs. 5.2%), and personal care and miscellaneous goods and services (3.8% vs. 3.7%). On a monthly basis, the CPI increased 0.1%, following a 0.2% decline in June. Annual core inflation slowed to 4.2% from 4.4% in June. Average inflation stood at 5% from January to July, remaining above the government’s 2%-4% target range."
+    },
+    {
+      "id": "mkt:019fcf7e-ecfd-7aab-8f7b-741b278dbe1a",
+      "time": "2026-08-05 09:17:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Pakistani official said the country maintains public and private channels to facilitate US-Iran reconciliation."
+    },
     {
       "id": "mkt:019fcf7d-649d-7aab-8f7b-6bdcbecf97a8",
       "time": "2026-08-05 09:15:29",
