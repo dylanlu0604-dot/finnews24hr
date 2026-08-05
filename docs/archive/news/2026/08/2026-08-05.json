@@ -1,7 +1,132 @@
 {
   "date": "2026-08-05",
-  "count": 883,
+  "count": 896,
   "items": [
+    {
+      "id": "mkt:019fcf96-411e-7aab-8f7c-57dd8a38a1b8",
+      "time": "2026-08-05 09:42:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share CRO sector staged a short-term rally: Yiqiao Shenzhou +11%+, Baihua Pharma +9%+, WuXi AppTec +~6%; Kailaiying, Heyuan Biotech and Kanglong Huacheng also advanced."
+    },
+    {
+      "id": "5025718",
+      "time": "2026-08-05 09:42:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股走強 中國黃金國際漲近6%】截至發稿，中國黃金國際(02099.HK)漲5.89%，靈寶黃金(03330.HK)漲3.69%，紫金礦業(02899.HK)漲1.69%。"
+    },
+    {
+      "id": "5025717",
+      "time": "2026-08-05 09:42:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量796億元。"
+    },
+    {
+      "id": "5025716",
+      "time": "2026-08-05 09:42:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子化學品板塊震盪反彈，江化微漲停】電子化學品板塊震盪反彈，江化微漲停，興福電子、南大光電、菲沃泰、廣鋼氣體、鼎龍股份、安集科技等跟漲。"
+    },
+    {
+      "id": "5025715",
+      "time": "2026-08-05 09:41:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股三大指數震盪回升 滬指轉漲】A股三大指數震盪回升，截至發稿，滬指、深證成指轉漲，創業板指跌幅收窄。"
+    },
+    {
+      "id": "mkt:019fcf95-1fae-7aab-8f7c-4859c6362897",
+      "time": "2026-08-05 09:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Texas governor pauses grid interconnection approvals for new data centers】Texas Governor Greg Abbott ordered a halt to approvals for new data-center projects through the state grid interconnection process, citing concerns that a surge in power demand could threaten grid reliability. In a Monday letter to the Texas Public Utility Commission and ERCOT he directed an audit of all planned grid-connected data centers before any new projects may proceed. Industry forecasts project Texas could become the world’s largest data-center hub and possibly overtake Virginia by 2030; local opposition is rising over heavy electricity and water use and pollution from on-site power generation. New York last month became the first U.S. state to pause large data-center construction."
+    },
+    {
+      "id": "5025714",
+      "time": "2026-08-05 09:41:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【軟體開發板塊短線拉昇，三維天地漲超10%】軟體開發板塊短線拉昇，三維天地漲超10%，盈建科、致遠互聯、亞華電子、概倫電子、誠邁科技等跟漲。"
+    },
+    {
+      "id": "mkt:019fcf94-75ab-7aab-8f7c-460fe6799186",
+      "time": "2026-08-05 09:40:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "688256.SS",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China Sci-Tech Innovation 50 Index rose more than 3%; constituent Huahong Hongli advanced over 6% and Cambricon gained over 5%."
+    },
+    {
+      "id": "5025713",
+      "time": "2026-08-05 09:40:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達3％，成分股中，盛科通訊漲6.7％，華虹宏力漲6.4％，中微公司漲6.2％，寒武紀漲5.6％。"
+    },
+    {
+      "id": "5025712",
+      "time": "2026-08-05 09:40:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.32%。"
+    },
+    {
+      "id": "5025711",
+      "time": "2026-08-05 09:40:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念震盪走高 時空科技漲停】儲存晶片概念震盪走高，時空科技漲停，恆爍股份、普冉股份、德明利、江波龍、北京君正、佰維儲存跟漲。"
+    },
+    {
+      "id": "mkt:019fcf94-233f-7aab-8f7c-3e53853d3cc6",
+      "time": "2026-08-05 09:40:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share MLCC-related stocks rebounded. Bojie Co. hit the daily limit, Guiyan Platinum rose over 6%, Boqian New Materials gained more than 5%, and Fenghua Hi‑Tech and Shangluo Electronics also climbed."
+    },
+    {
+      "id": "te:markets:572755",
+      "time": "2026-08-05 09:39:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rally on US-Iran Deal Hopes — The benchmark KOSPI rose more than 3% to around 6,580 on Wednesday, extending gains from the previous session as hopes for a US-Iran agreement boosted risk appetite. Optimism that Washington and Tehran could reach a deal to reopen the Strait of Hormuz drove oil prices sharply lower, easing concerns over energy supply disruptions and inflation. The improvement in global sentiment lifted Wall Street to record highs overnight, with technology shares leading the advance after strong earnings from major US companies renewed confidence in AI-related spending, fueling a rebound in semiconductor stocks. Samsung Electronics gained more than 2%, while SK Hynix surged over 5%. Other notable performers included SK Square (5.3%), Hyundai Motor (3.1%), LG Energy Solution (2.3%), Kia Corporation (2.0%), and HD Hyundai Heavy Industries (2.9%)."
+    },
     {
       "id": "5025710",
       "time": "2026-08-05 09:39:09",
