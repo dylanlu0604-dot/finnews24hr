@@ -1,7 +1,142 @@
 {
-  "updated": "2026-08-05 10:46:27",
-  "count": 17816,
+  "updated": "2026-08-05 10:50:29",
+  "count": 17823,
   "items": [
+    {
+      "id": "5025851",
+      "time": "2026-08-05 10:49:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報7679.80點。"
+    },
+    {
+      "id": "5025850",
+      "time": "2026-08-05 10:49:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報60.72美元/盎司。"
+    },
+    {
+      "id": "5025849",
+      "time": "2026-08-05 10:49:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長盈精密在宜賓成立機器人公司】企查查APP顯示，近日，長盈機器人（宜賓）有限公司成立，法定代表人為吳梁，註冊資本為1000萬元，經營範圍包含智慧機器人的研發；智慧機器人銷售；工業機器人制造；機械零件、零部件加工等。企查查股權穿透顯示，該公司由長盈精密(300115)間接全資持股。"
+    },
+    {
+      "id": "mkt:019fcfd3-2764-7aab-8f7e-22ba92014568",
+      "time": "2026-08-05 10:49:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 2.00% intraday to $60.71/oz; NY silver futures gained 2.00% to $60.95/oz."
+    },
+    {
+      "id": "5025848",
+      "time": "2026-08-05 10:49:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破61美元/盎司，日內漲1.26%。"
+    },
+    {
+      "id": "mkt:019fcfd3-0d09-7aab-8f7e-1d02506fea4e",
+      "time": "2026-08-05 10:49:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【U.S. to restrict exports of tungsten waste and recycled battery materials】The U.S. will ban exports of tungsten waste and recycled battery materials later this month, the Federal Register says. Less than a week earlier President Trump authorized authorities to restrict certain potential critical materials to domestic markets. Under the rule, suppliers of tungsten waste and of “black mass” (the metal mix from shredded lithium‑ion batteries) must sell those materials within the United States; firms may apply for exemptions. The restriction will remain in place for one year."
+    },
+    {
+      "id": "5025847",
+      "time": "2026-08-05 10:48:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4130美元/盎司，日內漲1.31%。"
+    },
+    {
+      "id": "5025846",
+      "time": "2026-08-05 10:48:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年全國抽查在用充電樁超14.5萬臺】2026年1月至6月，全國監督檢查充電樁運營單位11164家，抽查在用充電樁145829臺，排查發現不合格充電樁1783臺，依法查處各類計量違法問題282個，有效整治充電計量偏差、違規作弊等亂象，規範新能源充電市場秩序，保障廣大車主公平消費權益。（央視新聞）"
+    },
+    {
+      "id": "5025845",
+      "time": "2026-08-05 10:47:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技開啟科創板IPO初步詢價 市場預估IPO市值或將超400億元】據此前公告，8月5日為宇樹科技科創板IPO初步詢價日，詢價完成後將於8月10日開啟申購，網上、網下申購日均為8月10日，繳款截止日為8月12日。8月5日初步詢價期間為 9:30—15:00，保薦人（主承銷商）開展網下投資者核查，參與戰略配售的投資者繳納認購資金。8月6日將確定發行價格、確定有效報價投資者及其可申購股數，參與戰略配售的投資者確定最終獲配數量和比例。本次宇樹科技IPO擬募資42.02億元，公開發行新股4044.64萬股，佔發行後總股本的10%，發行後總股本為4.04億股。市場預估宇樹科技IPO市值將達到400億元以上，根據科創板新股申購單位500股和發行預估市值測算，宇樹科技IPO發行價格約為104元/股，一簽新股約繳款5.2萬元，但具體IPO詢價偏離情況仍有待市場參與者確定。（央視財經）"
+    },
+    {
+      "id": "5025844",
+      "time": "2026-08-05 10:47:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創H股早盤一度下跌16%；現跌幅收窄至9.8%。"
+    },
+    {
+      "id": "5025843",
+      "time": "2026-08-05 10:47:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國2027年最低時薪敲定為50.6元】韓國僱傭勞動部8月5日表示，將2027年最低時薪敲定為1.07萬韓元（約合人民幣50.6元），較今年上漲3.7%。按最低時薪計算，明年最低月薪（按每週工作40小時、每月209小時計算）為223.63萬韓元，適用於所有行業的用人單位。"
+    },
+    {
+      "id": "te:economy:572785",
+      "time": "2026-08-05 10:47:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Philippines 10-Year Bond Yield Retreats — The Philippine’s 10-year government bond yield fell to around 7.36% in early August, further retreating from a two-month high of 7.58% touched in late July, as easing inflation strengthened expectations that the central bank could maintain a more cautious approach to monetary policy. Headline inflation slowed for a third consecutive month in July to 6.2%, below expectations of 6.4%, while core inflation eased to 4.2% after six months of gains. The softer price growth gave the Bangko Sentral ng Pilipinas more room to assess incoming data and the impact of its recent 50 bps in rate increases this year. However, inflation remained elevated at around twice the pace of other major Southeast Asian economies, driven by higher energy costs linked to the Iran conflict and peso weakness that raised import costs. Meanwhile, markets have turned their attention to Q2 GDP data due later this week, after the economy expanded just 2.8% in Q1, marking one of the weakest performances in the region."
+    },
+    {
+      "id": "5025842",
+      "time": "2026-08-05 10:46:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國人工智慧代理獨角獸企業LOVART據悉正考慮在香港上市。"
+    },
+    {
+      "id": "mkt:019fcfd0-bcae-7aab-8f7e-12abbaf4d187",
+      "time": "2026-08-05 10:46:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Russia's Tula region governor said two industrial facilities in Novomoskovsk and Uzlovaya were also damaged."
+    },
+    {
+      "id": "5025841",
+      "time": "2026-08-05 10:46:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1229.00元。"
+    },
     {
       "id": "5025840",
       "time": "2026-08-05 10:45:14",
@@ -164837,73 +164972,6 @@
         "XAUUSD"
       ],
       "text": "Al Jazeera cited Iraq's Popular Mobilization Forces (PMF) as saying eight members were killed in Saudi and US joint airstrikes in Nineveh province in northern Iraq."
-    },
-    {
-      "id": "5013517",
-      "time": "2026-07-29 10:50:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克的X平臺稱澳大利亞社交媒體禁令監管措施違反國際法。"
-    },
-    {
-      "id": "5013516",
-      "time": "2026-07-29 10:50:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【稻城亞丁景區：8月1日起至10月31日止 實施限時免門票優惠政策】7月29日，稻城亞丁景區官微訊息，結合景區運營實際，景區決定在景色最佳的黃金遊覽時段推出限時免門票政策。免票時間為2026年8月1日起至10月31日止，實行線上實名制預約，透過“稻城亞丁”景區微信小程式或各大OTA平臺進行預約，預約成功後憑身份證掃碼入園。景區最大承載量為15000人，超過最大承載量後將關閉預約渠道。"
-    },
-    {
-      "id": "5013515",
-      "time": "2026-07-29 10:49:57",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國臺辦回應臺灣反毒油集會抗議活動】7月29日，國務院臺辦舉行例行新聞釋出會。有記者問：25日，島內針對近期爆發的食用油致癌物質超標事件，舉行了“我是人、我反毒臺”的集會抗議活動。請問對此有何評論？ 國臺辦發言人陳斌華表示，民進黨當局出於一黨之私，置臺灣同胞切身利益福祉於不顧，完全站在島內民意的對立面，其施政無能、漠視民生的嘴臉暴露無遺。民進黨當局倒行逆施必然遭到島內民眾強烈反對。(中新網)"
-    },
-    {
-      "id": "5013514",
-      "time": "2026-07-29 10:49:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家智慧財產權局：預計在“十五五”時期戰略性新興產業專利比重將進一步提升】國家智慧財產權局戰略規劃司司長梁心新7月29日在國新辦新聞釋出會上表示，目前，我國高價值發明專利中，戰略性新興產業的專利佔比超過七成，預計在“十五五”時期，這一比重將進一步提升，為新興產業提質擴容和未來產業佈局落地，提供更加有力的創新支撐。"
-    },
-    {
-      "id": "5013513",
-      "time": "2026-07-29 10:48:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瀘溪河回應桃酥吃出異物：正溯源核查，堅果桃酥為山姆渠道專供】7月29日，針對有網友發帖稱在山姆APP下單購買的瀘溪河桃酥中吃出疑似金屬牙冠異物，瀘溪河天貓旗艦店客服回應稱，已注意到該網路資訊並正在溯源核查。瀘溪河全線產品均經金屬探測等多道品控，出廠合格方可上市。該店鋪客服表示，目前沒有售賣堅果桃酥，堅果桃酥為山姆渠道專供。"
-    },
-    {
-      "id": "5013512",
-      "time": "2026-07-29 10:47:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞薩電子：熊本兩家工廠因安全檢查暫停生產。"
-    },
-    {
-      "id": "5013511",
-      "time": "2026-07-29 10:47:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ChatGPT周活躍使用者數近10億】據OpenAI內部披露的資訊，該公司旗下聊天機器人周活躍使用者量即將突破10億大關。這一里程碑原本是企業計劃在去年年底達成的目標。儘管比原定預期晚了七個月才有望實現該目標，但ChatGPT上線不足四年就積累如此龐大的使用者規模，即便不算增速第一，也屬於網際網路應用中增長速度最快的產品之一。ChatGPT使用者增長放快取在多重因素：一方面是谷歌Gemini人工智慧的崛起，該模型正持續深度整合坐擁數十億使用者的谷歌網頁搜尋引擎；另一方面，去年秋季OpenAI推出GPT-5時，周活躍使用者增長便出現下滑——這款模型研發過程一波三折，上線後還遭到大量使用者詬病。此外，多家調研機構的資料顯示，自那以後，Anthropic公司的克勞德（Claude）聊天機器人也分走了一部分聊天機器人市場份額。"
-    },
-    {
-      "id": "te:markets:570594",
-      "time": "2026-07-29 10:47:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Extends Losses — Palladium futures fell to around $1,260 per ounce, remaining under pressure as the dollar hovered near a one-month high and investors awaited the Federal Reserve's policy decision. The Fed is widely expected to keep interest rates unchanged, with markets pricing a 70% chance of a pause and a 30% probability of a 25-basis-point hike, while still expecting a rate increase in September. A stronger dollar made greenback-priced metals more expensive for overseas buyers, weighing on palladium. Meanwhile, Middle East tensions offered little support as markets monitored developments in the Strait of Hormuz after Iran launched missiles at US forces and Gulf states proposed a framework to manage the key shipping route. On the fundamental side, palladium faced headwinds from weakening automotive demand, as rising electric vehicle adoption and continued substitution with platinum weighed on consumption. Over the past month, palladium has gained 4.75% and was up 3.26% from a year earlier."
     }
   ]
 }
