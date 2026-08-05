@@ -1,7 +1,632 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-06 05:50:53_
-_本檔包含 3503 則快訊，約 654571 字_
+_更新時間：2026-08-06 07:15:39_
+_本檔包含 3486 則快訊，約 653889 字_
+
+---
+
+### 2026-07-31 04:31:25  #國際
+
+【波蘭確認境內墜入一枚俄製導彈】波蘭國防部國務秘書採扎雷·託姆奇克30日表示，波方已確認當天凌晨侵入波蘭領空並墜落在該國東部盧布林省塔納瓦－科洛尼亞附近的是一枚俄製Kh-101導彈。託姆奇克在接受波蘭媒體採訪時說，該型導彈具備攜帶核彈頭能力，是一種非常危險的巡航導彈。他補充說，目前尚不清楚這枚導彈是否蓄意瞄準波蘭。（新華社）
+
+---
+
+### 2026-07-31 04:31:16  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #Nasdaq100 #S&P500
+
+Apple (AAPL.O) fell 2% in after-hours trade following its earnings release.
+
+---
+
+### 2026-07-31 04:31:14  #MKT News #US10Y #Impact bullish #DXY
+
+Foreign central banks held $33.902 bln of US Treasuries in the week to July 24, up from $24.814 bln the previous week.
+
+---
+
+### 2026-07-31 04:31:04  #MKT News #Important
+
+Apple (AAPL.O) fiscal 2026 Q3 iPhone revenue $54.25 bln, vs market expected $53.857 bln.
+
+---
+
+### 2026-07-31 04:31:03  #MKT News #Economic Calendar #Important
+
+United States | US Treasuries held by Foreign Central Banks (Jul.24) | actual 33902000000B | previous 24814000000B
+
+---
+
+### 2026-07-31 04:30:30  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bullish
+
+Apple (AAPL.O) reported fiscal 2026 Q3 revenue $109.42 bln, vs $94.036 bln a year earlier; consensus $108.58 bln.
+
+---
+
+### 2026-07-31 04:30:18  #公司 #其他 #焦點 #國際
+
+蘋果第三財季營收1094.2億美元，分析師預期1088.5億美元。
+iPhone營收542.5億美元，分析師預期536億美元。
+
+---
+
+### 2026-07-31 04:29:25  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bearish #MU.O #SOXX
+
+【Michael Burry latest position changes】Michael Burry reported increases in the following positions: increased short position in Micron Technology (MU.O) at $880.00; increased short in NVIDIA (NVDA.O); increased short in semiconductor ETF SOXX at $506.00; increased long in Lululemon Athletica (LULU.O) at $118.00; increased long in Flutter (FLUT.N); increased long in DraftKings (DKNG.O) at $23.40; increased long in Zoetis (ZTS.N) at $76.00.
+
+---
+
+### 2026-07-31 04:27:53  #公司
+
+亞馬遜：AWS年化收入執行率1690億美元。
+
+---
+
+### 2026-07-31 04:27:24  #國際
+
+白宮官員：特朗普下令對關鍵礦產廢料實施出口限制。
+
+---
+
+### 2026-07-31 04:26:55  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Stryker earnings above expectations at 3.69 USD — Stryker (SYK) released earnings per share at 3.69 USD, compared to market expectations of 3.49 USD.
+
+---
+
+### 2026-07-31 04:26:42  #MKT News #Market Themes #The Trump Trade #Copper #Impact bullish
+
+A White House official said President Trump has ordered restrictions on exports of critical-mineral waste.
+
+---
+
+### 2026-07-31 04:26:41  #國際
+
+【中國開源模型下載量全球第一】全球最大開源AI模型平臺2026年春季報告顯示，中國研發的開源模型下載量已佔全球總量的41%，超越美國位居世界第一，在全球主流大模型呼叫榜單上，排名前六位的模型全部來自中國團隊；過去12個月裡，國產模型有9個月保持著全球開源模型的規模上限，迭代節奏持續領跑全球；我國開源模型累計下載量已突破100億次，居全球首位。（央視新聞）
+
+---
+
+### 2026-07-31 04:25:52  #其他
+
+超微推出隸屬於 DCBBS 產品組合的 AI 機架系列產品，每月可交付最高 3000 臺 。
+
+---
+
+### 2026-07-31 04:24:35  #公司
+
+谷歌：Gemini Spark 現已接入 Chrome 瀏覽器。
+
+---
+
+### 2026-07-31 04:22:18  #公司
+
+市場訊息：英偉達支援的AI基礎設施公司Nscale最早可能於今年秋季進行IPO。
+
+---
+
+### 2026-07-31 04:22:01  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Microstrategy earnings below expectations at -24.45 USD — Microstrategy (MSTR) released earnings per share at -24.45 USD, compared to market expectations of 4.99 USD.
+
+---
+
+### 2026-07-31 04:22:00  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Coinbase Global earnings below expectations at -1.36 USD — Coinbase Global (COIN) released earnings per share at -1.36 USD, compared to market expectations of 0.04 USD.
+
+---
+
+### 2026-07-31 04:22:00  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Monolithic Power Systems earnings above expectations at 6.50 USD — Monolithic Power Systems (MPWR) released earnings per share at 6.50 USD, compared to market expectations of 5.85 USD.
+
+---
+
+### 2026-07-31 04:21:59  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Arthur J. Gallagher earnings above expectations at 2.84 USD — Arthur J. Gallagher (AJG) released earnings per share at 2.84 USD, compared to market expectations of 2.82 USD.
+
+---
+
+### 2026-07-31 04:18:29  #公司
+
+【對沖基金Situational Awareness資產規模降至100億美元 此前城堡介入】Leopold Aschenbrenner旗下對沖基金Situational Awareness的資產規模已降至約100億美元，此前Ken Griffin旗下城堡接手該基金持有的大部分股票頭寸。知情人士表示，這一規模較幾個月前減少逾一半。另據知情人士透露，近幾周人工智慧(AI)股票大跌令該基金蒙受損失後，Situational Awareness開始平倉部分股票頭寸。本週出售資產所得已用於償還為Situational Awareness提供槓桿融資的銀行。一名知情人士稱，Situational Awareness仍持有包括Anthropic PBC在內的非上市公司股份，其中Anthropic持倉估值約為50億美元。
+
+---
+
+### 2026-07-31 04:15:52  #宏觀
+
+墨西哥財政部：本年度經濟增長基準值為 1.5%，預計今年剩餘時段經濟增速將有所提升。
+
+---
+
+### 2026-07-31 04:13:58  #MKT News #Important #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
+
+【Amazon Q2 AWS revenue tops estimates; after-hours shares up >8%】Amazon's AWS revenue rose 37% to $42.2bn in Q2, beating consensus growth of 31.21% amid a surge in corporate AI spending. Total Q2 revenue was $200.6bn versus $196.42bn expected. Q3 revenue guidance of $197.0bn–$202.0bn missed the Street's $204.07bn estimate. Strong AWS results may ease some concerns about tech giants' heavy AI investment this year (industry spend forecast >$700bn); Amazon shares rallied over 8% in after-hours trading.
+
+---
+
+### 2026-07-31 04:12:30  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rebound as Chipmakers Rally — US stock indices closed higher on Thursday, rebounding from the previous session's losses as chipmakers rallied and investors assessed earnings. The S&P 500 gained 1.7%, the Nasdaq jumped 3.4%, and the Dow added 614 points. Microsoft surged 15.5% after reporting 43% cloud revenue growth, its strongest since 2022, while keeping capital expenditure guidance broadly in line with expectations. Chipmakers jumped after yesterday's selloff. Micron rose 18.4%, AMD gained 13%, Intel added 11.3%, and Sandisk soared 26% as investors bought the dip on expectations the AI-driven rally still has room to run. Oracle jumped 8.3% after expanding its Google Gemini AI partnership. Those gains outweighed a disappointing forecast from Meta (-7.9%). Treasury yields remained high despite soft Q2 GDP growth. After holding rates yesterday, Fed Chair Warsh's reluctance to rule out further tightening reinforced concerns that rates could stay high. Apple (-1.4%) and Amazon (+3.9%) report later.
+
+---
+
+### 2026-07-31 04:09:01  #MKT News #RIVN.O #Impact bullish
+
+Rivian (RIVN.O) raised FY2026 delivery guidance to 65,000-70,000 vehicles, up from its prior forecast of 62,000-67,000.
+
+---
+
+### 2026-07-31 04:08:26  #MKT News
+
+Al Arabiya TV reported Iran's foreign minister accused Israel of orchestrating a drone attack on Egypt's Damietta port.
+
+---
+
+### 2026-07-31 04:07:47  #其他
+
+Coinbase 第二季度總營收 12.2 億美元，市場預期 12.9 億美元。
+
+---
+
+### 2026-07-31 04:07:39  #其他
+
+Reddit二季度營收8.049億美元，分析師預期7.318億美元。
+
+---
+
+### 2026-07-31 04:06:56  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Amazon earnings above expectations at 5.75 USD — Amazon (AMZN) released earnings per share at 5.75 USD, compared to market expectations of 1.82 USD.
+
+---
+
+### 2026-07-31 04:05:32  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O): trailing 12-month free cash flow was a net outflow of $7.6 bln.
+
+---
+
+### 2026-07-31 04:05:03  #其他
+
+第一太陽能維持全年資本開支預期在8億-10億美元不變，分析師預期8.758億美元。
+
+---
+
+### 2026-07-31 04:04:12  #MKT News #RIVN.O #Impact bullish
+
+Rivian (RIVN.O) Q2 revenue $1.658 bln vs $1.507 bln consensus.
+
+---
+
+### 2026-07-31 04:04:01  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) expects Q3 revenue of $197.0–202.0 bln, below the market consensus of $204.072 bln.
+
+---
+
+### 2026-07-31 04:03:43  #公司
+
+亞馬遜過去十二個月自由現金流轉為淨流出 76 億美元。
+
+---
+
+### 2026-07-31 04:03:22  #公司
+
+亞馬遜：若剔除 2025 年與 2026 年會員日帶來的影響，2026 年第三季度同比增速將高出近 400 個基點。
+
+---
+
+### 2026-07-31 04:02:24  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) is up over 5% in after-hours trading after reporting earnings.
+
+---
+
+### 2026-07-31 04:02:24  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) Q2 2026 AWS revenue $42.2 billion vs market consensus $40.481 billion, beating estimates by about $1.72 billion.
+
+---
+
+### 2026-07-31 04:01:44  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
+
+Amazon (AMZN.O) Q2 2026 revenue $200.6 bln, up from $167.7 bln a year earlier; consensus $196.4 bln — beat by $4.2 bln (2.1%).
+
+---
+
+### 2026-07-31 04:01:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Near $89 — Brent fell nearly 1.8% to below $89 a barrel on Thursday, following a 7.9% surge in the previous session, amid signs of improving shipping activity through the Strait of Hormuz and continued diplomatic efforts to ease regional tensions, despite ongoing hostilities in the Middle East. According to Kpler, 14 commodity vessels transited the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings recorded last week. Qatar also dispatched its first LNG cargo through the waterway, while reports indicated that Saudi Arabia had proposed a naval coalition to safeguard key trade routes. Meanwhile, elevated crude inventories in China continued to weigh on import demand, further easing fears of a near-term supply squeeze. However, geopolitical risks remained elevated after US forces struck dozens of Iranian military targets in an effort to weaken Tehran's ability to threaten regional shipping and US allies.
+
+---
+
+### 2026-07-31 04:01:28  #公司 #焦點 #國際
+
+亞馬遜第二季度經營利潤274.6億美元，預估236.1億美元。亞馬遜二季度淨銷售2006億美元，預期1970.1億美元。
+
+---
+
+### 2026-07-31 04:01:24  #MKT News #Important #Market Themes #Chip Wars #Magnificent 7 #Star Stocks #NVIDIA #MU.O #Impact bullish #SKHY.O #SNDK.O
+
+【U.S. close: Nasdaq up 2.78% as memory-chip stocks surge】U.S. stocks closed higher on Thursday: Dow Jones Industrial Average +1.19%, S&P 500 +1.67%, Nasdaq Composite +2.78%. Memory-chip names led the rally—Micron Technology (MU.O) +18%, SanDisk (SNDK.O) +26%, SK Hynix (SKHY.O) +17%—while NVIDIA (NVDA.O) rose just over 2%. The Nasdaq Golden Dragon China Index gained 1.05%; iQIYI (IQ.O) +4%.
+
+---
+
+### 2026-07-31 04:00:56  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Oil slips on 30th; U.S. crude $83.59, Brent $89.03 at close】NYMEX September light sweet crude futures fell $0.87 to settle at $83.59 a barrel, down 1.03% at the close. London Brent September futures fell $1.71 to $89.03 a barrel, down 1.88% at the close.
+
+---
+
+### 2026-07-31 04:00:52  #市場
+
+微軟股價大漲 16%，創 2008 年以來最大單日漲幅。
+
+---
+
+### 2026-07-31 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收漲】道指漲1.19%，標普500指數漲1.67%，納指漲2.84%。閃迪漲25.99%，埃姆科漲19.36%，美光漲18.39%，泛林集團漲17.95%。“七姐妹”方面：微軟漲15.61%，亞馬遜漲3.92%，特斯拉漲3.46%，英偉達漲2.75%，谷歌跌0.60%，蘋果跌1.33%，Meta Platforms跌7.82%。
+
+---
+
+### 2026-07-31 04:00:37  #MKT News #DXY #Impact bearish #EURUSD #Impact bullish #USDJPY
+
+【US dollar index falls 1.01% to 99.868 at New York close】The US dollar index, measuring the dollar against six major currencies, fell 1.01% to 99.868 at the New York close on the 30th. EUR/USD rose to 1.1535 from 1.1452; GBP/USD to 1.3476 from 1.3364. USD/JPY fell to 158.93 from 163.32; USD/CHF to 0.8040 from 0.8149; USD/CAD to 1.3996 from 1.4040; USD/SEK to 9.5189 from 9.6434.
+
+---
+
+### 2026-07-31 04:00:32  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Down on Thursday — Crude oil fell nearly 1% to below $84 a barrel on Thursday, following a 6.6% surge in the previous session, amid signs of improving shipping activity through the Strait of Hormuz and continued diplomatic efforts to ease regional tensions, despite ongoing hostilities in the Middle East. According to Kpler, 14 commodity vessels transited the Strait of Hormuz in both directions on Wednesday, up from single-digit daily crossings recorded last week. Qatar also dispatched its first LNG cargo through the waterway, while reports indicated that Saudi Arabia had proposed a naval coalition to safeguard key trade routes. Meanwhile, elevated crude inventories in China continued to weigh on import demand, further easing fears of a near-term supply squeeze. However, geopolitical risks remained elevated after US forces struck dozens of Iranian military targets in an effort to weaken Tehran's ability to threaten regional shipping and US allies.
+
+---
+
+### 2026-07-31 04:00:02  #市場 #焦點
+
+【納斯達克中國金龍指數收漲1.05%】盛豐物流漲26.12%，世紀互聯漲16.14%，好未來漲13.31%，高途漲8.53%，迅雷漲8.22%。
+
+---
+
+### 2026-07-31 03:58:53  #MKT News #WTI #Impact bullish #Brent
+
+Iraq government spokesman said if the Strait of Hormuz remains closed, the government will turn to external borrowing.
+
+---
+
+### 2026-07-31 03:57:53  #市場
+
+【美元指數30日大幅下跌】衡量美元對六種主要貨幣的美元指數當天下跌1.01%，在匯市尾市收於99.868。截至紐約匯市尾市，1歐元兌換1.1535美元，高於前一交易日的1.1452美元；1英鎊兌換1.3476美元，高於前一交易日的1.3364美元。1美元兌換158.93日元，低於前一交易日的163.32日元；1美元兌換0.8040瑞士法郎，低於前一交易日的0.8149瑞士法郎；1美元兌換1.3996加元，低於前一交易日的1.4040加元；1美元兌換9.5189瑞典克朗，低於前一交易日的9.6434瑞典克朗。
+
+---
+
+### 2026-07-31 03:56:26  #市場
+
+【國際油價30日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌87美分，收於每桶83.59美元，跌幅為1.03%；9月交貨的倫敦布倫特原油期貨價格下跌1.71美元，收於每桶89.03美元，跌幅為1.88%。
+
+---
+
+### 2026-07-31 03:56:11  #國際
+
+伊朗外交部長：我們所有人必須警惕以色列的各類陰謀以及旨在破壞地區和平的偽旗行動。威脅已然明晰，各方都面臨這一威脅， 而（該勢力）懼怕穆斯林團結一致。
+
+---
+
+### 2026-07-31 03:56:09  #MKT News
+
+Iranian foreign minister Araghchi said Egypt is an important regional friend and partner and that its security is vital to Iran.
+
+---
+
+### 2026-07-31 03:54:51  #國際
+
+伊朗外交部長：埃及是地區內重要的友邦與合作伙伴，埃及的安全對我們至關重要。
+
+---
+
+### 2026-07-31 03:52:33  #其他
+
+據半島電視臺記者：與阿曼馬斯喀特方面圍繞霍爾木茲海峽開展的談判並未中斷。任何有關霍爾木茲海峽的協議，都可能成為解除海上封鎖與石油制裁的突破口。
+
+---
+
+### 2026-07-31 03:51:37  #宏觀
+
+墨西哥財政部：維持 2026 年國內生產總值（GDP）增速預期區間 1.8% 至 2.8%。
+
+---
+
+### 2026-07-31 03:50:04  #MKT News #Important #Star Stocks #Amazon #Apple #Market Themes #Magnificent 7 #AAPL.O #AMZN.O
+
+Amazon and Apple will report earnings after the U.S. market close on July 30.
+
+---
+
+### 2026-07-31 03:46:23  #宏觀
+
+墨西哥財政部：墨西哥石油收入實際條款同比增長2.1%。
+
+---
+
+### 2026-07-31 03:46:02  #MKT News
+
+US Senate confirmed David Cummins as administrator of the Transportation Security Administration (TSA).
+
+---
+
+### 2026-07-31 03:45:00  #國際
+
+美國參議院確認 David Cummins 出任運輸安全管理局新任局長。
+
+---
+
+### 2026-07-31 03:38:32  #MKT News #SHOP.N #Impact bearish
+
+Shopify (SHOP.N) shares hit an intraday low and are trading down more than 5%.
+
+---
+
+### 2026-07-31 03:38:10  #其他
+
+伊拉克政府發言人：伊拉克是受戰爭影響最嚴重的國家。政府未批准在伊拉克境內針對特定地點或團體發動任何襲擊。伊拉克過去沒有、將來也不會允許其領土被用作攻擊鄰國的跳板。
+
+---
+
+### 2026-07-31 03:37:46  #市場
+
+Shopify 美股跌幅擴大，午後觸及盤中低點，最新下跌 5.3%。
+
+---
+
+### 2026-07-31 03:37:30  #MKT News #Market Regions #Emerging Markets
+
+Mexico's finance ministry said public debt equaled 51% of GDP in Q2, up from 50.4% in Q1.
+
+---
+
+### 2026-07-31 03:37:02  #宏觀 #國際
+
+美國國務卿魯比奧：為回應民眾高漲的熱情，美國國務院將再次發行25萬本印有美國總統特朗普肖像的“愛國者護照”。
+
+---
+
+### 2026-07-31 03:35:56  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+Iraq government spokesman said the government has not authorized any attacks from Iraqi territory against specific locations or groups, and that Iraq has not and will not allow its territory to be used as a launchpad for attacks on neighboring countries.
+
+---
+
+### 2026-07-31 03:35:44  #MKT News
+
+【TS Lombard: Fed dovish tilt after Warsh comments may open window for Japanese FX intervention】TS Lombard economist Rory Green said Fed Chair Kevin Warsh’s post-decision remarks, read by markets as dovish, may have created an opening for Japan to intervene to support the yen. Markets suspect today’s roughly 2.5% intraday fall in USD/JPY may reflect Japanese official intervention. Green said the Fed’s dovish stance could give Japan’s finance ministry a favorable opportunity to act and noted past interventions were often accompanied by Bank of Japan rate hikes. He added that a BOJ hike tomorrow would still surprise markets, but the meeting is no longer a foregone conclusion.
+
+---
+
+### 2026-07-31 03:35:38  #宏觀
+
+墨西哥財政部：二季度公共債務佔國內生產總值比重為 51%，一季度為 50.4%。
+
+---
+
+### 2026-07-31 03:34:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iraq spokesman: Iraq is the country most severely affected by the war.
+
+---
+
+### 2026-07-31 03:33:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iraqi government spokesman said Baghdad had no prior knowledge of a joint US-Saudi strike.
+
+---
+
+### 2026-07-31 03:32:20  #國際
+
+伊拉克政府發言人：伊拉克政府事前未獲悉美國與沙特實施打擊行動。
+
+---
+
+### 2026-07-31 03:30:01  #宏觀 #國際
+
+【烏克蘭稱收到歐盟34.7億歐元國防援助貸款】烏克蘭總理科列茨基30日在社交媒體發文稱，烏克蘭收到歐盟撥付的又一筆國防援助貸款，額度為34.7億歐元。據烏財政部此前訊息，歐盟將在今年年底前向烏克蘭提供共計450億歐元的貸款，其中283億歐元將用於國防。科列茨基稱，目前烏方已收到116億歐元援助貸款，其中84億歐元為國防援助貸款。歐盟於4月正式批准向烏克蘭提供900億歐元貸款，為烏提供2026年至2027年的財政與軍事支援。(新華社)
+
+---
+
+### 2026-07-31 03:29:34  #市場
+
+高通成交量激增，股價最新下跌3.2%。
+
+---
+
+### 2026-07-31 03:29:20  #其他
+
+中北美及加勒比海足球協會（CONCACAF）表示，在與旗下 41 個會員協會召開會議後，該協會拒絕國際足聯出售世界盃相關權益的提案。
+
+---
+
+### 2026-07-31 03:28:23  #MKT News
+
+Daily Telegraph reported the U.S. State Department will reissue 250,000 'Patriot passports' bearing President Trump's portrait, citing 'extremely strong demand'.
+
+---
+
+### 2026-07-31 03:22:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+In Israel today, residents in the north were notified they may hear loud explosions overnight.
+
+---
+
+### 2026-07-31 03:21:11  #MKT News #Commodities #Precious Metals
+
+Spot platinum up more than 3%, at $1,660.54/oz.
+
+---
+
+### 2026-07-31 03:19:43  #其他
+
+現貨鉑金漲超 3%，報 1660.19 美元 / 盎司。
+
+---
+
+### 2026-07-31 03:19:00  #國際
+
+ICI：美國貨幣市場基金資產規模回落至 7.85 萬億美元。
+
+---
+
+### 2026-07-31 03:16:23  #MKT News #Commodities #Precious Metals
+
+Spot palladium rises more than 3% to $1,311.6/oz.
+
+---
+
+### 2026-07-31 03:15:11  #國際
+
+市場訊息：特朗普和平事務團隊認為，哈馬斯有望在未來數日簽署協議，啟動加沙地帶解除武裝與非軍事化程序。
+
+---
+
+### 2026-07-31 03:14:35  #其他
+
+現貨鈀金漲幅超 5%，報 1311.25 美元 / 盎司。
+
+---
+
+### 2026-07-31 03:10:17  #MKT News #Commodities #Precious Metals
+
+Spot silver rose to $59/oz, up 2.43% intraday.
+
+---
+
+### 2026-07-31 03:10:11  #市場 #焦點
+
+現貨白銀突破59美元/盎司，日內漲2.50%。
+
+---
+
+### 2026-07-31 03:09:54  #市場
+
+紐約期銀日內漲2%，現報59.26美元/盎司。
+
+---
+
+### 2026-07-31 03:06:13  #市場
+
+鈀金期貨日內漲5%，現報1315.00美元/盎司。
+
+---
+
+### 2026-07-31 03:03:58  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7528元，較週三夜盤收盤漲102點。成交量391.57億美元。
+
+---
+
+### 2026-07-31 03:03:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.45% at 26,021, trading 162 points above the cash index.
+
+---
+
+### 2026-07-31 03:02:55  #公司 #觀點 #央行 #國際
+
+【花旗料日元走弱 稱植田和男無法比預期更鷹】花旗集團認為日元有走弱空間，因為日本央行行長植田和男不太可能發出比市場預期更為鷹派的訊號。“我們做多1個月期美元/日元160.50/162看漲期權價差，” 分析師Daniel Tobon、Osamu Takashima和Brian Levine寫道。他們稱，美元/日元急跌“與之前干預期間出現的走勢一致”。分析師們還說：“我們認為美元/日元今晚有反彈的空間，之後還有望上行”。
+
+---
+
+### 2026-07-31 03:02:45  #MKT News #Important #META.O #Impact mixed
+
+【Meta commits nearly $700 billion to AI data centers and cloud】Meta Platforms (META.O) said in a regulatory filing it has committed nearly $700 billion for AI data centers, cloud computing and related infrastructure via long‑ and short‑term agreements. Irrevocable contract commitments total $349.3 bln, mainly for third‑party cloud service agreements, servers and network infrastructure; the company called this a conservative estimate. Meta also has $347.0 bln of leases not yet commenced that are off‑balance‑sheet; $68.0 bln of those were added in July, with payments starting in 2027 and 2028. These costs are incremental to existing leases and primarily cover data centers, colocation and certain network infrastructure.
+
+---
+
+### 2026-07-31 03:00:10  #國際
+
+美軍中央司令部：一架美國海軍 P-8 “海神” 反潛巡邏機在中東執行巡邏任務時，靠近美國空軍 KC-135 “同溫層加油機” 開展空中加油。P-8 屬於專用偵察機型，是美國對伊朗實施封鎖期間，用於監控區域海域的眾多裝備之一。截至 7 月 30 日，美軍中央司令部部隊已引導 24 艘商船變更航線、迫使 2 艘船隻停航，並登檢 2 艘船舶，確保相關航運完全遵守管控要求。
+
+---
+
+### 2026-07-31 03:00:02  #市場
+
+恒指期貨夜盤收漲0.46%，報26021.88點，高水163.00點。
+
+---
+
+### 2026-07-31 02:59:52  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+As of July 30, CENTCOM said its forces have guided 24 merchant vessels to change course, rendered two merchant vessels inoperable and boarded and inspected two others to ensure compliance with relevant regulations.
+
+---
+
+### 2026-07-31 02:58:52  #其他
+
+安聯將支付至少 14 億歐元對價，以現金收購 PIMCO 流通在外的 M 份額。
+
+---
+
+### 2026-07-31 02:58:44  #市場
+
+【芝加哥玉米期貨跌約0.7%】週四（7月30日）紐約尾盤，彭博穀物分類指數跌0.16%，報31.5723點，整體衝高回落、北京時間18:02重新整理日高至32.1357點。CBOT玉米期貨跌0.69%，CBOT小麥期貨漲0.42%。CBOT大豆期貨跌0.36%，報11.8850美元/蒲式耳，豆粕期貨跌0.25%，豆油期貨跌0.47%。ICE阿拉比卡咖啡期貨跌0.40%，咖啡“C”期貨漲0.19%。羅布斯塔咖啡期貨漲0.13%。紐約可可期貨跌1.29%，報5118美元/噸。倫敦可可期貨跌2.35%。
+
+---
+
+### 2026-07-31 02:58:27  #其他
+
+安聯啟動權利，終止 PIMCO 員工股權計劃。
+
+---
+
+### 2026-07-31 02:57:30  #MKT News #Important #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact mixed
+
+Meta Platforms (META.O) said it has committed nearly $700 bln in future spending under long- and short-term agreements for AI data centers, cloud computing and related infrastructure.
+
+---
+
+### 2026-07-31 02:57:23  #央行 #其他
+
+前聖路易斯聯儲主席詹姆斯・布拉德談及 7 月 FOMC 會議：“在央行官員看來，市場拋售、30 年期美債收益率上行著實令人擔憂。”布拉德評價沃什：“沃什本應當採取更多舉措，為 9 月議息會議預留政策選擇空間，但他在這方面做得遠遠不夠。”
+
+---
+
+### 2026-07-31 02:55:38  #其他
+
+巴西港口部長稱桑托斯港T-CON 10碼頭招標或於年內啟動，拍賣預計僅會在2027年進行。
+
+---
+
+### 2026-07-31 02:55:30  #公司
+
+標普：陶氏化學公司展望由負面調整為穩定，原因是盈利改善；評級維持不變。
+
+---
+
+### 2026-07-31 02:54:16  #其他
+
+有目擊者在休達看到西班牙軍用車輛正向摩洛哥邊境行進。
+
+---
+
+### 2026-07-31 02:52:53  #公司 #國際
+
+衣索比亞航空集團預計今年其收入增長速度將減半，這是由於伊朗戰爭引發的油價飆升。
+
+---
+
+### 2026-07-31 02:52:30  #公司
+
+【Meta報告稱未來支出承諾接近7000億美元】Meta表示，已透過長期和短期協議，承諾了近7000億美元的未來支出，涉及人工智慧資料中心、雲端計算等領域。Meta在週四的一份監管申報檔案中表示，公司擁有3493億美元的不可撤銷合同承諾，主要涉及第三方雲服務協議、伺服器和網路基礎設施。該公司還有3470億美元尚未開始的租賃承諾，尚未反映在資產負債表中。其中僅7月份就新增了680億美元，付款將從2027年和2028年開始。這些成本是在現有活躍租賃之外的，涵蓋資料中心、託管設施及“部分網路基礎設施”。
+
+---
+
+### 2026-07-31 02:50:35  #MKT News #Market Regions #Europe & UK #FTSE100
+
+【FCA to begin daily UK equity trading data releases from Friday】People familiar with the matter said the UK Financial Conduct Authority will start publishing daily aggregate UK equity trading data from Friday to boost market transparency. The FCA will provide a one‑year historical backfill; the daily updates are a transitional measure ahead of a full consolidated tape (single source of UK equity trade data). The regulator will publish the data stream’s coverage on Friday, which is expected to include pre‑ and post‑trade data.
+
+---
+
+### 2026-07-31 02:50:30  #公司
+
+市場訊息：英特爾向一家新興初創企業開放部分處理器技術授權。註冊檔案顯示，這家名為 RosaicLabs的企業於 5 月提交首次註冊資料。英特爾執行長陳立武與該初創企業負責人是長期聯合投資人。
 
 ---
 
@@ -20343,761 +20968,5 @@ OpenAI首席財務官薩拉·弗里爾告訴員工，7月經年化收入已超�
 ### 2026-07-30 07:16:27  #國際
 
 內塔尼亞胡：認為伊朗比以往任何時候都更弱。
-
----
-
-### 2026-07-30 07:14:50  #央行
-
-澳洲聯儲助理主席Hunter：必須把通貨膨脹降下來，這真的很重要。不能讓長期通脹預期脫離錨定。
-
----
-
-### 2026-07-30 07:13:20  #國際
-
-以色列總理內塔尼亞胡談伊朗問題選項：這是特朗普的決定。
-
----
-
-### 2026-07-30 07:12:57  #國際
-
-市場訊息：美軍正在伊朗境內進行空襲。
-
----
-
-### 2026-07-30 07:12:23  #其他
-
-【廣東河源東源縣：細坳水庫出現險情，各項應急搶險措施正有序推進】廣東河源東源縣人民政府防汛防旱防風指揮部7月30日通報：7月29日傍晚，黃村鎮日常巡查發現細坳水庫出現險情。市、縣、鎮、村搶險隊伍第一時間趕赴現場處置。在省有關部門指導下，轉移危險區群眾、加速降低水庫水位等各項應急搶險措施正在有序推進。
-
----
-
-### 2026-07-30 07:12:18  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Axios, citing U.S. officials, reports the U.S. military is conducting airstrikes against Iran.
-
----
-
-### 2026-07-30 07:11:55  #國際
-
-美國連鎖三明治品牌Jersey Mike's的 IPO 定價為每股 23 美元，處於預期範圍的中位數。
-
----
-
-### 2026-07-30 07:10:30  #國際
-
-特朗普：我們很快就會徹底解決伊朗。
-
----
-
-### 2026-07-30 07:09:38  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose back above $4,100/oz, up 0.83% intraday.
-
----
-
-### 2026-07-30 07:09:33  #國際
-
-特朗普：我們已對伊朗進行重創。
-
----
-
-### 2026-07-30 07:09:19  #公司 #市場 #國際
-
-【從韓國股市熔斷 讀出什麼訊號】週三，韓國股市熔斷。韓國綜合股價指數大幅收跌5.98%。儲存巨頭SK海力士重挫9.61%。就在韓國儲存巨頭大跌的同一天，上市僅三個交易日的長鑫科技上漲12.7%。單日漲跌或有偶然，但值得關注的是背後的產業訊號：它正在改寫儲存行業的定價邏輯。DRAM市場過去幾十年由三星、SK海力士、美光三家主導，價格基本由三巨頭掌握。而長鑫按出貨量已位列全球第四，這次上市有了500多億元募資投入擴產。過去市場為儲存股定價，只需看三巨頭的臉色；現在，定價體系中多了一個名為“中國供給”的新變數。這也解釋了開頭的疑問：一份創紀錄的財報，為何會被市場放大懲罰？因為參照系正在發生變化，預期正在變化。不只是長鑫。近期，中國科技企業正頻頻成為全球資本市場的變數。這個月16日， 2.8萬億引數的大模型Kimi K3正式釋出，這週一又公開了全部模型權重，給全球開發者免費使用。這期間，英偉達等股票和費城半導體指數都曾出現不同程度下跌。從儲存晶片到大模型，這波多國股市的震盪，其實折射出的產業舊格局在鬆動，新力量在生長。而對中國科技產業來說，比市場一時漲跌更重要的，是沉下心來抓住視窗期——把技術做深、把產能做實、把生態做厚。自身練就的實力，才是更長久的底氣。（央視）
-
----
-
-### 2026-07-30 07:09:03  #MKT News #Market Themes #The Trump Trade
-
-【Musk plans major backing for Republicans in US midterms, Axios says】Axios reports Elon Musk is preparing a large-scale investment to boost Republican turnout in the US midterm elections by restarting his previously paused super PAC, America PAC. The PAC, which spent more than $260m in 2024 to support Trump, will focus on door-to-door canvassing, digital advertising and direct mail to mobilise the conservative base, including voters who typically skip non-presidential elections. Musk’s representatives declined to disclose spending; given his 2024 donations the outlay is expected to be substantial. The report says the move would widen the Republican funding advantage over Democrats and notes Trump’s weak support on economic issues and the Iran war has increased the risk the GOP may struggle to retain House and Senate majorities on Nov. 3.
-
----
-
-### 2026-07-30 07:07:52  #國際
-
-【女裝零售商Reformation在美國首次公開募股中籌集了2.11億美元】女裝零售商Reformation週三表示，其在美國的首次公開募股（IPO）規模已擴大，共籌集了2.109億美元，此舉旨在測試投資者對該時尚品牌的興趣。
-
----
-
-### 2026-07-30 07:06:28  #其他
-
-【百威亞太第二季度淨利潤超過預估】百威亞太第二季度淨利潤2.47億美元，同比+41%，預估1.838億美元。第二季度業績：淨利潤2.47億美元，同比+41%，預估1.838億美元；營收16.8億美元，同比+0.2%，預估16.9億美元；調整後息稅折舊及攤銷前利潤4.63億美元，同比-7%，預估4.633億美元；經調整EBITDA利潤率27.6％，上年同期29.7％；調整後息稅前利潤3.22億美元，同比-7.5%，預估3.016億美元。上半年業績：營收31.7億美元，同比+1.1%，預估32.1億美元；淨利潤4.73億美元，同比+16%；調整後息稅折舊及攤銷前利潤9.26億美元，同比-5.8%，預估9.31億美元。
-
----
-
-### 2026-07-30 07:06:06  #市場 #央行 #國際
-
-【多重因素擾動 金價短期走勢或以震盪為主】國際金價最近有點“磨人”。自6月下旬以來，倫敦現貨黃金價格在4000美元/盎司附近反覆拉鋸。與之形成鮮明反差的是，7月以來A股黃金股率先“躁動”，部分龍頭黃金股漲幅超過30%，明顯跑贏同期金價。業內人士認為，當前金價中長期支撐邏輯並未發生根本改變，央行購金仍可能推動金價中樞逐步上移，黃金類資產依舊具備配置價值。但短期來看，市場仍面臨全球流動性、美聯儲政策預期、地緣局勢以及市場資金流向等多重因素擾動，或以震盪走勢為主。（中國證券報）
-
----
-
-### 2026-07-30 07:05:04  #市場
-
-紐約期銀日內漲1%，現報58.67美元/盎司。
-
----
-
-### 2026-07-30 07:03:37  #MKT News
-
-Hong Kong Monetary Authority left its base rate unchanged at 4%.
-
----
-
-### 2026-07-30 07:03:18  #市場 #焦點
-
-紐約期金突破4150美元/盎司，日內漲1.30%。
-
----
-
-### 2026-07-30 07:02:42  #其他
-
-香港金管局維持基準利率於4%不變。
-
----
-
-### 2026-07-30 07:01:39  #公司 #國際
-
-【蓋茨擬8月訪韓推進小型模組化反應堆合作】比爾·蓋茨將於8月14日訪問韓國，與SK集團、HD現代集團旗下企業洽談小型模組化反應堆（SMR）相關業務合作。核心議程預計探討推動韓國企業擴大在泰拉能源（TerraPower）專案中的參與規模。
-
----
-
-### 2026-07-30 07:00:06  #國際
-
-市場資訊：比爾·蓋茨將前往韓國，討論小型模組化反應堆（SMR）的合作事宜。
-
----
-
-### 2026-07-30 06:58:03  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish #NVDA.O #PLTR.O
-
-【Microsoft CEO: clients should be able to switch AI models easily】Microsoft CEO Satya Nadella said clients must be able to freely switch between closed‑source and open‑source AI models. On a Wednesday analyst call he said the number of Microsoft customers building with multiple models has quadrupled since the start of the year. Nadella urged decoupling system frameworks from models so any given model is replaceable at any time and customers can deploy frontier models or use multiple models in production. Microsoft has investments in OpenAI and Anthropic and last week joined Nvidia and Palantir in signing a public letter backing open models.
-
----
-
-### 2026-07-30 06:57:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-An adviser to Ukraine's Ministry of Internal Affairs said Russia has launched a large-scale attack on Ukraine, with multiple cities including Kyiv struck; cruise missiles are expected to arrive imminently.
-
----
-
-### 2026-07-30 06:57:43  #市場 #焦點
-
-現貨黃金突破4090美元/盎司，日內漲0.60%。
-
----
-
-### 2026-07-30 06:57:23  #國際
-
-【烏克蘭首都基輔多次傳出強烈爆炸聲】當地時間30日凌晨1時8分至11分，新華社記者在烏克蘭首都基輔多次聽到強烈爆炸聲，隨後基輔拉響防空警報。烏空軍在社交媒體發文稱，俄軍導彈正襲向基輔、第聶伯羅、克里沃伊羅格等城市。（新華社）
-
----
-
-### 2026-07-30 06:55:27  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukrainian official says Kyiv was struck by a ballistic missile.
-
----
-
-### 2026-07-30 06:55:15  #國際
-
-烏克蘭官員：基輔遭遇彈道導彈襲擊。
-
----
-
-### 2026-07-30 06:54:31  #國際
-
-美國參議院以84:12表決透過程式性動議，啟動眾議院5334號法案審議，該法案作為《2026格雷厄姆對俄製裁法案》立法載體。
-
----
-
-### 2026-07-30 06:54:18  #MKT News #Market Themes #Chip Wars #INTC.O
-
-Market sources: Intel (INTC.O) granted startup RosaicLabs access to certain technologies; RosaicLabs' CEO is a co-investor with Intel's CEO in another company.
-
----
-
-### 2026-07-30 06:54:00  #公司
-
-訊息人士透露，英特爾已向共同投資人創辦的新創企業Rosaic Labs開放了部分技術使用權。註冊檔案顯示，這家初創企業的執行長是英特爾執行長在其他企業的聯合投資人。
-
----
-
-### 2026-07-30 06:52:56  #其他
-
-訊息人士透露，英特爾已向共同投資人創辦的新創企業Rosaic Labs開放了部分技術使用權。
-
----
-
-### 2026-07-30 06:51:26  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Retreats from Record High on Profit-Taking — New Zealand's stocks dropped 39 points, or 0.3%, to 13,937 in Thursday morning deals, as traders took profit after the index posted a third consecutive record high. The broader index tracked a decline on Wall Street overnight after the Fed held interest rates, while a selloff in chipmakers persisted ahead of major tech earnings. Rising oil prices also pressured sentiment further amid concerns that inflation risk could raise expectations of an interest rate hike. Traders also anticipated the release of New Zealand's July business confidence data due later today, after the figures hit a four-month high in June, as well as China's PMI due on Friday. Financials, communication services, and utilities mainly weighed on the index, with early decliners including Infratil (-1.1%), Scales Corporation (-0.8%), and ANZ Group (-0.5%). Meanwhile, Westpac Banking Corporation, Mainfreight, and Ebos Group each fell 0.3%.
-
----
-
-### 2026-07-30 06:51:07  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、《智慧財產權保護和運用“十五五”規劃》將於近期印發實施 確保智慧財產權強國建設取得決定性進展（權威釋出·開局起步“十五五”）
-2、一批通道相繼規劃，一批專案迎來重要節點 重大水運工程建設為何駛入“快車道”（經濟新方位）
-3、截至今年6月 中歐班列重箱率連續46個月保持100%
-4、上半年十種有色金屬總產量同比增長3.3%
-5、上半年科技型中小企業獲貸率達50.8%
-6、告別“中國衝擊”舊敘事 擁抱“中國機遇”新答案（寰宇平）
-7、保險業加大新質生產力相關領域投資力度
-8、從張北的風到北京的程式碼，河北加快建設一體化算力網 算力資源，這樣互通共享（大資料觀察·“六張網”裡的新動能）
-9、海關推出高新技術貨物布控查驗新模式 惠及全國551家高新技術企業
-10、部分能源資源行業企業城鎮土地使用稅政策將調整
-11、2026年工信領域創新任務揭榜掛帥工作啟動
-12、已有140萬PFLOPS智慧算力接入全國一體化算力網試驗驗證平臺
-13、北京過半重點排放企業實現綠色提升
-14、《眼鏡制配計量監督檢查工作指南（試行）》釋出 為眼鏡制配計量監督檢查提供統一標尺
-15、斯洛伐克經濟展現較強韌性。
-
----
-
-### 2026-07-30 06:50:50  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“始終同人民同呼吸、共命運、心連心”（總書記的人民情懷）
-2、習近平致電祝賀諾瓦當選連任聖多美和普林西比總統
-3、促進海內外中華兒女團結奮鬥——習近平總書記重要指示為推動新時代僑務工作高質量發展凝聚奮進力量
-4、李強趙樂際分別會見斯洛伐克總統佩列格里尼
-5、天津市河東區理順考核機制、最佳化服務舉措 我們有了更多信心為居民辦實事（樹立和踐行正確政績觀·一線見聞）
-6、法治亮劍，嚴懲網路暴力（今日談）。
-
----
-
-### 2026-07-30 06:50:22  #MKT News #WTI #Impact mixed #Brent
-
-【Iraq says it has received no evidence that drones which struck Saudi Arabia originated in Iraq】On the evening of the 29th, Iraqi armed forces spokesman Sabah Nouman said U.S.-Saudi strikes on Iraqi militias have impeded investigation into earlier attacks inside Saudi Arabia. Nouman said Baghdad requested evidence linking the Saudi strikes to armed groups based in Iraq but that no party has provided any. Iraqi security services are drafting measures to prevent attacks on Iraqi territory and to safeguard sovereignty. The government said it rejects foreign incursions and will not allow weapons to operate outside state control.
-
----
-
-### 2026-07-30 06:49:24  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
-
-【WSJ: US military drafted up-to-two-week intensive airstrike plan on Iran; Trump weighing decision】The Wall Street Journal reports that last week on Air Force One at a Delaware tarmac President Trump held emergency talks with top war advisers — Chairman of the Joint Chiefs Gen. Dan Kane, Defense Secretary Hegseth, and CENTCOM commander Adm. Brad Cooper. Cooper drafted a punitive air campaign of up to two weeks; after Iran’s missile attack on Tuesday Trump has pledged retaliation but is weighing approval of Cooper’s 10–14 day intensive strikes aimed at crippling Iran’s missile capability — a plan the military says would reduce U.S. reliance on defensive munitions but comes amid warnings that air‑defense ammunition stocks are running low — versus narrower strikes to preserve diplomatic space. The WSJ says Cooper’s high‑intensity option is designed to sharply escalate and break the previous tit‑for‑tat airstrike stalemate.
-
----
-
-### 2026-07-30 06:46:53  #市場
-
-標普500股指期貨收復跌幅，上漲0.2%；納斯達克股指期貨上漲0.4%。
-
----
-
-### 2026-07-30 06:45:53  #國際
-
-【伊拉克稱尚未收到襲擊沙特無人機來自伊境內的實證】當地時間29日晚，伊拉克武裝部隊總司令發言人薩巴赫·努曼表示，美國與沙烏地阿拉伯聯合打擊伊拉克民兵武裝，阻礙了對沙特境內此前遭襲事件的調查工作。努曼說，伊拉克政府要求提供有關沙特此前遭到來自伊拉克境內武裝力量襲擊的證據，但“沒有任何一方向伊方提供”。伊拉克安全部門正在制訂計劃以防止本國遭襲並維護伊拉克主權。伊拉克政府拒絕任何來自伊拉克境外的侵犯行為，絕不允許武器出現在國家管理體系之外。（央視新聞）
-
----
-
-### 2026-07-30 06:45:38  #市場 #焦點
-
-紐約期金突破4140美元/盎司，日內漲1.05%。
-
----
-
-### 2026-07-30 06:44:36  #市場 #焦點
-
-現貨黃金突破4080美元/盎司，日內漲0.34%。
-
----
-
-### 2026-07-30 06:40:59  #國際
-
-【特朗普考量重啟對伊重大軍事行動，美軍籌備為期兩週密集空中打擊】特朗普正在考量是否重啟針對伊朗的大規模作戰行動。美軍中央司令部擬定一套方案，計劃發起為期10至14天的高強度空中攻勢，目標是削弱伊朗導彈作戰能力。知情人士透露，該方案由美軍中央司令部司令布拉德・庫珀上將制定，空襲規模相比此前一輪打擊將顯著升級。特朗普同時也在考量力度更為有限的軍事報復選項，為外交斡旋保留空間。
-
----
-
-### 2026-07-30 06:40:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Coffee Drops by 3.74% — Top commodity losers are Coffee (-3.74%), Soybeans (-2.81%) and Corn (-2.07%).
-
----
-
-### 2026-07-30 06:36:38  #MKT News
-
-EMSC reports a magnitude 6.2 earthquake in the Kermadec Islands region.
-
----
-
-### 2026-07-30 06:35:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 1.76% — Top commodity gainers are Silver (1.76%) and Gold (1.16%). Biggest loser is Steel Rebar (-0.79%).
-
----
-
-### 2026-07-30 06:32:48  #國際
-
-【ChatGPT和Roblox將受歐盟最嚴格平臺規則約束】OpenAI旗下ChatGPT以及Roblox平臺在歐盟地區月活躍使用者突破4500萬門檻，將依據歐盟《數字服務法》（DSA）接受更嚴格的內容稽核監管與持續監控。歐盟委員會預計最早於8月將二者正式認定為超大型線上平臺（VLOP）。
-
----
-
-### 2026-07-30 06:30:52  #公司 #資料 #市場 #央行 #國際
-
-【週四重要財經資訊提醒（以下均為北京時間）】 
-① 06:40 澳洲聯儲負責經濟事務的助理主席Sarah Hunter參加一場爐邊閒聊；
-② 09:00 三星電子二季報電話會；
-③ 13:30 法國二季度GDP初值；
-④ 16:00 德國二季度GDP初值；
-⑤ 17:00 歐元區二季度GDP初值；
-⑥ 19:00 英國央行公佈利率決議；
-⑦ 20:00 德國7月CPI初值；
-⑧ 20:30 美國二季度GDP初值，6月個人收入和個人消費支出（PCE），7月25日當週首次申請失業救濟人數；
-⑨ 美股盤後 蘋果、亞馬遜釋出業績報告。
-
----
-
-### 2026-07-30 06:30:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Naphtha Soars by 8.04% — Top commodity gainers are Naphtha (8.04%), Brent Crude Oil (7.48%) and Crude Oil WTI (6.39%).
-
----
-
-### 2026-07-30 06:29:27  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
-
-On the 30th (local time), air-raid sirens sounded in Kyiv and multiple explosions were heard.
-
----
-
-### 2026-07-30 06:28:43  #市場
-
-【韓元兌美元匯率觸及2月底以來最高水平】隨著美元下跌，韓元觸及五個月高點。美元兌韓元一度下跌0.4%，報1437.70，為2月27日以來最低。
-
----
-
-### 2026-07-30 06:28:03  #公司
-
-【供需格局偏緊，光通訊產業鏈上半年業績大面積預喜】截至7月29日，A股已有24家光通訊產業鏈上市公司披露上半年業績預告，其中18家公司預喜（包括預增、預計扭虧），佔比超七成。從上游光纖光纜、核心光晶片，到中游高速光模組、下游光器件，全產業鏈實現業績共振——龍頭企業淨利潤迎來數倍級躍升，部分企業扭虧為盈。採訪瞭解到，全球雲廠商與AI企業持續加碼算力資本開支，疊加高速光通訊技術迭代升級，行業供需格局持續偏緊，高階產品供不應求、核心物料供給受限，推動產業鏈整體盈利中樞穩步上移。（上證報）
-
----
-
-### 2026-07-30 06:24:50  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Kyiv mayor Klitschko says the city is being struck by ballistic missiles and further attacks remain possible; residents urged to stay in shelters.
-
----
-
-### 2026-07-30 06:24:35  #國際
-
-市場資訊：馬自達將對泰國工廠投資規模提升至原來1.5倍。
-
----
-
-### 2026-07-30 06:20:57  #其他
-
-【伊拉克庫區首府埃爾比勒傳出多次爆炸聲】當地時間30日凌晨，伊拉克庫爾德自治區（庫區）首府埃爾比勒傳出多次爆炸聲。
-
----
-
-### 2026-07-30 06:20:48  #國際
-
-【烏克蘭基輔傳出連續爆炸聲】當地時間30日，烏克蘭基輔拉響防空警報，同時傳出連續爆炸聲。(央視新聞)
-
----
-
-### 2026-07-30 06:19:32  #市場
-
-韓元兌美元觸及2月底以來最高水平。
-
----
-
-### 2026-07-30 06:16:32  #國際
-
-烏克蘭克里維裡赫遭導彈襲擊。
-
----
-
-### 2026-07-30 06:15:31  #焦點 #國際
-
-特朗普：有人清楚嗎？美國最高法院就出生地公民權、關稅議題作出不利裁決，讓國家蒙受多大經濟損失、喪失多少國際聲望？答案是：數萬億美元！
-
----
-
-### 2026-07-30 06:15:06  #其他
-
-【股票型ETF7月以來“吸金”逾4100億元】資料顯示，7月以來，截至7月28日，股票型ETF資金淨流入4151.74億元。從資金流入較多的產品看，科創50 ETF華夏資金淨流入348.45億元，滬深300 ETF華泰柏瑞、創業板ETF易方達等資金淨流入均超過230億元。此外，中證1000 ETF南方、中證500 ETF南方、上證指數ETF富國等資金淨流入均超過百億元。
-
----
-
-### 2026-07-30 06:15:03  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Norwegian Krone Rises by 1.00% — Top currency gainers are Norwegian Krone (1%), Euro (0.71%), Swiss Franc (0.68%), British Pound (0.59%) and Japanese Yen (0.26%). Biggest losers are Dollar Index (-0.72%), Indian Rupee (-0.27%) and Australian Dollar (-0.26%).
-
----
-
-### 2026-07-30 06:14:47  #MKT News #Macro & Rates #US Economy
-
-Trump said the Supreme Court's adverse rulings on birthright citizenship and tariffs have cost the U.S. trillions of dollars and damaged its prestige.
-
----
-
-### 2026-07-30 06:12:22  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #Brent
-
-Local witnesses reported explosions heard in Kyiv, Ukraine.
-
----
-
-### 2026-07-30 06:11:52  #國際
-
-烏克蘭基輔傳出爆炸聲。
-
----
-
-### 2026-07-30 06:11:46  #市場
-
-現貨白銀日內漲1%，現報58.17美元/盎司。
-
----
-
-### 2026-07-30 06:11:16  #MKT News #Commodities #Precious Metals
-
-Spot silver is up more than 1.00% intraday at $58.17/oz.
-
----
-
-### 2026-07-30 06:10:15  #市場
-
-納斯達克100指數期貨上漲0.3%，從早盤下跌中反彈。
-
----
-
-### 2026-07-30 06:10:02  #焦點 #國際
-
-市場資訊：ChatGPT、Roblox將受歐盟最嚴格平臺規則約束。
-
----
-
-### 2026-07-30 06:09:59  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) expects first fiscal quarter operating expenses of $16.8–$16.9 billion and Azure and other cloud services revenue to grow about 45% at constant currency.
-
----
-
-### 2026-07-30 06:09:28  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact mixed
-
-Microsoft (MSFT.O) expects calendar-year 2026 capital expenditures of about $175 billion.
-
----
-
-### 2026-07-30 06:09:20  #國際
-
-基輔全域防空警報鳴響，烏方預警導彈逼近首都，防空系統進入應戰狀態。
-
----
-
-### 2026-07-30 06:08:39  #其他
-
-微軟首席財務官：2027財年第一財季資本支出預計將超過500億美元，該規模已計入租賃重分類影響。
-
----
-
-### 2026-07-30 06:08:13  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100
-
-Microsoft (MSFT.O) issued a series of financial guidance updates; its US-listed shares extended after-hours gains to about 8%.
-
----
-
-### 2026-07-30 06:07:05  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) expects first-quarter Personal Computing revenue of $12.2–12.7 bln.
-
----
-
-### 2026-07-30 06:06:58  #公司 #市場
-
-強生公司股價下跌1.8%，此前該公司斥資25.8億美元收購SAIL BIO。
-
----
-
-### 2026-07-30 06:06:58  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
-
-Canada 10-Year Yield Holds at 3.60% — Canada's 10-year government bond yield held steady at about 3.60% in late July after the Federal Reserve left interest rates unchanged. While the decision was expected, three FOMC members dissented in favor of a 25-basis-point rate hike, keeping the possibility of tighter US monetary policy in September. Earlier this month, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and that energy-driven inflation pressures were easing. However, policymakers also warned that inflation expectations remain elevated and questioned the durability of the recovery. Investors continued to assess the potential impact of President Trump's proposed tariffs on Canadian imports and renewed tensions between the US and Iran.
-
----
-
-### 2026-07-30 06:06:37  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) said it expects operating expense growth in fiscal 2027 to be in the mid- to high-single-digit range.
-
----
-
-### 2026-07-30 06:06:36  #市場
-
-微軟股價盤後繼續上漲至 8%。
-
----
-
-### 2026-07-30 06:06:28  #MKT News #Star Stocks #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) expects fiscal 2027 total revenue to grow in double digits.
-
----
-
-### 2026-07-30 06:06:09  #MKT News #Important #Star Stocks #MSFT.O #Impact mixed
-
-Microsoft (MSFT.O) expects capital expenditures in its first fiscal quarter to exceed $50 billion.
-
----
-
-### 2026-07-30 06:06:08  #其他 #焦點
-
-微軟下調2026年資本支出指引，由原先1900億美元調整至1750億美元，調整源於會計核算變更。
-
----
-
-### 2026-07-30 06:05:52  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish #Nasdaq100 #S&P500
-
-Microsoft (MSFT.O) said it expects Azure and other cloud services revenue growth to accelerate in FY2027 H1 versus FY2026 H2.
-
----
-
-### 2026-07-30 06:05:44  #其他
-
-微軟：第一財季個人計算業務收入預期為122億至127億美元。
-
----
-
-### 2026-07-30 06:05:20  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) expects first fiscal-quarter Intelligent Cloud revenue of $40.95–$41.25 billion.
-
----
-
-### 2026-07-30 06:05:13  #其他 #焦點
-
-微軟因會計核算規則調整，預計2026年資本支出規模達1750億美元。
-
----
-
-### 2026-07-30 06:05:06  #MKT News #Important #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) expects first fiscal quarter revenue of $89.85–90.95 billion. FY2027 capital expenditure is forecast to rise YoY; including lease-accounting adjustments capex is expected at $175 billion. The company expects positive free cash flow in FY2027.
-
----
-
-### 2026-07-30 06:04:29  #其他
-
-微軟預計2027財年運營費用增長率為中到高個位數。
-
----
-
-### 2026-07-30 06:04:21  #其他
-
-微軟：第一財季資本支出將超過500億美元。
-
----
-
-### 2026-07-30 06:04:10  #其他
-
-微軟首席財務官：預計2027財年仍將保持正自由現金流。
-
----
-
-### 2026-07-30 06:04:04  #其他
-
-微軟：第一財季生產力與業務流程部門收入將介於367億至370億美元之間。
-
----
-
-### 2026-07-30 06:03:49  #其他
-
-微軟預計2027財年全年營收將實現兩位數增長。
-
----
-
-### 2026-07-30 06:03:36  #其他
-
-微軟：展望2027財年資本支出預計將同比增長。
-
----
-
-### 2026-07-30 06:03:15  #其他
-
-微軟：第一財季總營收預期介於898.5億至909.5億美元之間。
-
----
-
-### 2026-07-30 06:02:52  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O
-
-Microsoft (MSFT.O) CFO said that, beginning in fiscal 2027, the company will extend the estimated useful life of data centers and office buildings from 15 to 25 years. The change affects only the timing of future depreciation and is expected to have a negligible impact on fiscal 2027 operating income.
-
----
-
-### 2026-07-30 06:02:48  #市場 #焦點
-
-紐約期金突破4130美元/盎司，日內漲0.80%。
-
----
-
-### 2026-07-30 06:02:13  #其他
-
-微軟首席財務官：調整資產使用年限僅影響未來折舊的計提時點，預計對2027財年營業收入帶來的影響極小，僅產生小幅正向收益。
-
----
-
-### 2026-07-30 06:02:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 10-year Treasury futures fell 12 ticks; 30-year Treasury futures dropped 30 ticks after yields hit their highest level since mid-2007.
-
----
-
-### 2026-07-30 06:02:03  #其他
-
-微軟首席財務官：自2027財年年初起生效，我們將資料中心及辦公樓的預計使用年限從15年延長至25年。
-
----
-
-### 2026-07-30 06:01:53  #公司 #國際
-
-通用動力電船公司獲授14艘潛艇建造合同，該合同屬於美國海軍總額766億美元授出訂單的一部分。
-
----
-
-### 2026-07-30 06:01:47  #Trading Economics #Markets #France #Earnings #Importance 0
-
-Legrand earnings below expectations at 1.39 EUR — Legrand (LR) released earnings per share at 1.39 EUR, compared to market expectations of 1.57 EUR.
-
----
-
-### 2026-07-30 06:01:33  #市場 #焦點
-
-標普500股指期貨下跌0.2%，納斯達克股指期貨下跌0.3%：盤後交易中Meta股價暴跌，微軟股價走強。
-
----
-
-### 2026-07-30 06:01:23  #市場 #國際
-
-美國10年期國債期貨下跌12個基點，30年期國債期貨下滑30個基點，此前國債收益率觸及2007年中以來最高水平。
-
----
-
-### 2026-07-30 06:01:07  #國際
-
-【美軍稱繼續封鎖伊朗 已令20艘商船改變航行路線】當地時間29日，美軍中央司令部表示，美軍繼續執行對伊朗的封鎖行動。截至29日，美軍已改變20艘商船的航行路線，並使2艘船隻失去行動能力。此外，美軍還對2艘船隻進行登船檢查。
-
----
-
-### 2026-07-30 06:01:05  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) CFO said customer demand in its cloud business continues to exceed available capacity.
-
----
-
-### 2026-07-30 06:01:01  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft CFO: cloud revenue growth benefited from early delivery of new compute capacity; newly added capacity has been rapidly monetized.
-
----
-
-### 2026-07-30 06:00:54  #市場
-
-WTI原油開盤穩定在85美元下方。
-
----
-
-### 2026-07-30 06:00:45  #市場 #焦點
-
-現貨黃金突破4070美元/盎司，日內漲0.09%。
-
----
-
-### 2026-07-30 06:00:33  #市場 #焦點
-
-現貨白銀突破58美元/盎司，日內漲0.07%。
-
----
-
-### 2026-07-30 06:00:24  #其他 #焦點
-
-【營業收入11.2萬億元 上半年輕工業經濟執行穩中有進】中國輕工業聯合會資料顯示，今年上半年，我國輕工業生產總體平穩，國內消費市場提質擴容，輕工品出口較快增長，結構持續最佳化。資料顯示，上半年，規模以上輕工業增加值同比增長5.0%，實現營業收入11.2萬億元，91種主要輕工產品中54種產量實現增長，鋰離子電池、電冰箱等14種產品產量保持兩位數增長，輕工生產總體平穩，綠色製造產業發展動能強。
-
----
-
-### 2026-07-30 06:00:19  #市場 #焦點
-
-紐約期銀突破58美元/盎司，日內跌0.26%。
-
----
-
-### 2026-07-30 05:59:31  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) CFO said fiscal 2026 cloud revenue exceeded $214 billion, with nearly 90% coming from customers that are not frontier-model companies.
-
----
-
-### 2026-07-30 05:59:03  #其他
-
-微軟首席財務官表示，在雲業務方面，客戶需求持續超過可用產能。
-
----
-
-### 2026-07-30 05:58:53  #國際
-
-特朗普：97%的共和黨人以及71%的民主黨人支援選舉實行選民身份查驗要求。即刻透過《拯救美國法案》。
-
----
-
-### 2026-07-30 05:58:36  #Trading Economics #Markets #Mexico #Currency #Importance 1
-
-Mexican Peso Steady After Fed Decision — The Mexican peso held steady at 17.44 per USD in late July after the Federal Reserve left interest rates unchanged, a decision that weakened the US dollar as roughly one-third of investors had expected a rate hike. Mexico continued to benefit from a wide interest rate differential, with Banxico's policy rate at 6.50% versus the Fed's 3.50%-3.75% range, although further Fed tightening could narrow the peso's yield advantage. Investors also viewed Mexico's trade position favorably after the US announced new tariffs on imports from about 60 economies. Goods that comply with USMCA rules of origin will remain exempt from the new measures, preserving Mexico's preferential access to the US market. Meanwhile, Mexico's trade surplus widened to $4.09 billion in June from $0.51 billion a year earlier, well above forecasts of $2.28 billion.
-
----
-
-### 2026-07-30 05:58:21  #其他
-
-中央氣象臺7月30日06時繼續釋出暴雨黃色預警。
-
----
-
-### 2026-07-30 05:58:06  #公司 #焦點
-
-微軟首席財務官表示，全年雲業務營收突破2140億美元，其中近90%來自前沿模型公司以外的客戶。
-
----
-
-### 2026-07-30 05:57:36  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) CFO said fourth-quarter contract backlog excluding OpenAI increased 25%.
-
----
-
-### 2026-07-30 05:57:01  #其他 #焦點
-
-微軟首席財務官：剔除OpenAI影響，第四季度合同積壓增長25%。
-
----
-
-### 2026-07-30 05:54:53  #公司
-
-Meta執行長表示，未來計劃同時採用開源和閉源AI模型。
-
----
-
-### 2026-07-30 05:54:32  #國際
-
-特朗普：立即透過《拯救美國法案》。
-
----
-
-### 2026-07-30 05:53:28  #公司
-
-微軟CEO：本季度公司在五大洲新增31座資料中心，今年累計新增總數達88座；新增1吉瓦算力容量。產能擴建計劃穩步推進，有望兩年內整體算力規模近乎翻倍。
-
----
-
-### 2026-07-30 05:53:14  #國際
-
-美國醫療保險和醫療補助服務中心（CMS）：已確定2027財年專業護理機構（SNF）預期支付系統（PPS）費率調整方案，調整後，面向專業護理機構的總支付款預計將增加8.8274億美元。
-
----
-
-### 2026-07-30 05:52:51  #MKT News #ARM.O #Impact bearish
-
-Arm (ARM.O) extended losses in after-hours trading, down 8%.
-
----
-
-### 2026-07-30 05:51:06  #公司
-
-英國BAE系統公司獲得英國政府價值59億英鎊（78億美元）合同，持續開展無畏級戰略核潛艇研發建造工作。
 
 ---
