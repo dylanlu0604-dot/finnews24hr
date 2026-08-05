@@ -1,7 +1,137 @@
 {
   "date": "2026-08-06",
-  "count": 140,
+  "count": 154,
   "items": [
+    {
+      "id": "mkt:019fd318-6202-7aab-8f92-6f6822ca9034",
+      "time": "2026-08-06 02:03:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's foreign minister told Saudi Al Arabiya TV he discussed with the Saudi foreign minister a policy to bring weapons control under state authority and arrangements for the Iraqi prime minister's visit to Saudi Arabia."
+    },
+    {
+      "id": "mkt:019fd318-239c-7aab-8f92-677cf6ae18b6",
+      "time": "2026-08-06 02:03:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russia's Energy Ministry said the government has approved production, import and sale of Euro 2–4 standard gasoline until July 1, 2027. The measure is temporary and will not change long-term fuel environmental requirements."
+    },
+    {
+      "id": "5027413",
+      "time": "2026-08-06 02:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普直升機一度與客機距離過近】美國聯邦航空局當地時間8月5日證實，美國東部時間8月4日下午，搭載美國總統特朗普的軍用直升機“海軍陸戰隊一號”與從華盛頓里根國家機場起飛的一架客機曾短時間“過於接近”。該機構表示，根據其初步安全審查，“海軍陸戰隊一號”與這架客機之間一度出現“間隔喪失（指兩架航空器之間水平或垂直距離‌同時低於規定的最小安全間隔標準）”。（CCTV國際時訊）"
+    },
+    {
+      "id": "5027412",
+      "time": "2026-08-06 02:02:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯能源部訊息，俄政府已批准2027年7月1日前允許生產、進口及銷售歐2、歐3、歐4標準汽油。"
+    },
+    {
+      "id": "mkt:019fd314-db05-7aab-8f92-5c7a804a737c",
+      "time": "2026-08-06 01:59:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported the foreign ministers of Saudi Arabia, Egypt, Turkey and Pakistan discussed efforts to de-escalate tensions and address current security challenges."
+    },
+    {
+      "id": "te:economy:573109",
+      "time": "2026-08-06 01:55:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Uruguay Inflation Rises Slightly in July — Uruguay’s annual inflation rate edged up to 4.27% in July 2026 from 4.25% in June. The strongest pressures were recorded in education (6.93%), followed by restaurants and hotels (6.72%), transport (5.76%), healthcare (5.59%), personal care and social protection (5.12%), housing and utilities (5.03%), recreation, sport and culture (4.56%), and information and communication (4.29%). Food prices increased 2.95%, while clothing and footwear remained the only major category in deflation, with prices falling 5.83%. On a monthly basis, consumer prices rose 0.07%, bringing year-to-date inflation to 3.40%."
+    },
+    {
+      "id": "5027411",
+      "time": "2026-08-06 01:53:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄伊即將落地長期天然氣協議】伊朗擁有全球第二大天然氣儲量，但在需求高峰期每日存在2‑3億立方米的結構性供氣缺口。伊朗希望藉助進口天然氣彌補北部地區的供應短板，並有望擴大本國對伊拉克、土耳其、亞美尼亞、巴基斯坦以及阿曼的天然氣出口。此舉將進一步加深俄伊雙方的相互依存，儘管兩國仍在區域天然氣市場存在競爭關係。"
+    },
+    {
+      "id": "mkt:019fd30e-926d-7aab-8f92-545df23ac87a",
+      "time": "2026-08-06 01:52:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said reports that Pakistan invited Iran's foreign minister and parliament speaker are accurate, but final arrangements have not been confirmed."
+    },
+    {
+      "id": "5027410",
+      "time": "2026-08-06 01:51:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄伊即將落地長期天然氣協議 亞塞拜然獲選為首選過境國】俄羅斯與伊朗即將落實一項歷經多輪談判的天然氣協議，兩國官員證實，亞塞拜然被選定為俄羅斯向伊朗出口天然氣的首選過境通道。"
+    },
+    {
+      "id": "5027409",
+      "time": "2026-08-06 01:50:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：密歇根州的韋恩縣（底特律）就算算不上全世界最腐敗的投票地區，也是美國國內最腐敗的投票地區之一，完全就是第三世界水準！韋恩縣總上演各種匪夷所思的事情，其中就包括選票數量大幅超過登記選民人數。"
+    },
+    {
+      "id": "5027408",
+      "time": "2026-08-06 01:49:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "波蘭財政部長：波蘭將再度嘗試對石油企業徵收暴利稅。"
+    },
+    {
+      "id": "mkt:019fd30b-1456-7aab-8f92-4bae8d1a88bd",
+      "time": "2026-08-06 01:49:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran deputy foreign minister denies US talks on Strait of Hormuz】Iran’s deputy foreign minister said on Wednesday Tehran is not negotiating with the United States over the Strait of Hormuz, calling US claims that talks are underway incorrect. He said Iran has received US communications indicating Washington is prepared to resume prior commitments, but Tehran has not decided whether to enter a second phase that would implement any US‑Iran memorandum of understanding. Earlier on Wednesday President Trump said the Strait would reopen “soon” or he would launch a new round of strikes, saying “very good discussions” were underway and warning he would resume military action if Iran reneged."
+    },
+    {
+      "id": "mkt:019fd305-880a-7aab-8f92-4465b3edf354",
+      "time": "2026-08-06 01:43:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (META.O) has overtaken SpaceX (SPCX.O) in market value. SpaceX slid 10.5% to $1.48 trillion; Meta fell 0.8% to $1.49 trillion."
+    },
+    {
+      "id": "5027407",
+      "time": "2026-08-06 01:42:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐上調金風科技A股評級至買入，目標價26.30元人民幣。"
+    },
     {
       "id": "mkt:019fd300-43b9-7aab-8f92-39b744424856",
       "time": "2026-08-06 01:37:17",
