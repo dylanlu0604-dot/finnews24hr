@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-05 09:08:31",
-  "count": 17887,
+  "updated": "2026-08-05 09:12:37",
+  "count": 17877,
   "items": [
+    {
+      "id": "mkt:019fcf79-b5dd-7aab-8f7b-5166e6a61c51",
+      "time": "2026-08-05 09:11:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Retail money-market yield snapshot】Tencent Licaitong (current+) 7-day annualized yield: 0.7360%–1.1510%. WeChat Wallet Lingqiantong 7-day annualized yield: 0.9010%–1.0220%. Alipay Yu'ebao 7-day annualized yield: 0.9030%–1.0210%."
+    },
+    {
+      "id": "5025656",
+      "time": "2026-08-05 09:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新款華為MateBook Fold今日釋出】 8月5日，華為新一代鴻蒙摺疊屏電腦全新華為MateBook Fold非凡大師將正式釋出。此前官方已披露，該機首次支援原生手寫筆功能，可實現純平書寫、分屏記錄等體驗。"
+    },
+    {
+      "id": "5025655",
+      "time": "2026-08-05 09:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國疾病控制和預防中心(CDC)已將已知最大規模的環孢子蟲病疫情範圍擴大至15個州，目前已有超過400人患病。"
+    },
+    {
+      "id": "5025654",
+      "time": "2026-08-05 09:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曹操出行與大眾交通簽署戰略合作協議】8月3日，曹操出行與大眾交通簽署戰略合作協議。雙方將圍繞Robotaxi出行服務領域開展合作探索，依託各自在智慧駕駛技術、車輛運營管理與城市交通服務等方面的優勢，共同探索上海及長三角區域Robotaxi規模化運營新模式。"
+    },
+    {
+      "id": "5025653",
+      "time": "2026-08-05 09:09:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "北京市氣象臺2026年8月5日09時釋出高溫黃色預警訊號：預計8月5日至7日，每日12時至18時我市平原地區最高氣溫可達36℃左右，請注意防範。"
+    },
+    {
+      "id": "5025652",
+      "time": "2026-08-05 09:08:25",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛支援的生物科技公司Attovia在美國IPO中籌集2.89億美元】專注於高未滿足需求的免疫系統疾病領域的早期階段藥物開發商Attovia Therapeutics Inc.，在美國首次公開募股（IPO）中籌集了2.89億美元，發行價達到其定價區間的上限。 \n這家位於加利福尼亞州聖卡洛斯的生物技術公司週二早些時候擴大了融資規模，最終以每股17美元的價格出售了1700萬股股票。此前一份檔案顯示，該公司最初計劃以每股15至17美元的價格發行1250萬股股票。 \n按IPO價格計算，根據申報檔案中列出的已發行股份，Attovia的市值達到7.315億美元。Attovia 正在利用從 Alamar Biosciences Inc. 獲得許可的技術平臺和專利開發藥物。檔案顯示，截至 3 月 31 日，Attovia 已從包括高盛集團附屬公司、Deep Track Capital、Frazier Life Sciences 和 venBio 在內的投資者處籌集了 2.558 億美元資金。"
+    },
     {
       "id": "5025651",
       "time": "2026-08-05 09:07:23",
@@ -165422,151 +165474,6 @@
         "Impact bullish"
       ],
       "text": "Brent crude rose to $85/bbl, up 3.72% intraday."
-    },
-    {
-      "id": "5013297",
-      "time": "2026-07-29 09:12:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲2%，現報4909.00元。"
-    },
-    {
-      "id": "mkt:019fab6d-a3ba-7aab-8ed8-c47471759d62",
-      "time": "2026-07-29 09:11:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SK Hynix shares fell 2.9%."
-    },
-    {
-      "id": "5013296",
-      "time": "2026-07-29 09:11:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌2.9%。"
-    },
-    {
-      "id": "mkt:019fab6d-43a6-7aab-8ed8-bbe93eac7066",
-      "time": "2026-07-29 09:11:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "MS.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal reports Morgan Stanley said it has no evidence any loans were improperly issued and is not aware of any regulatory matters, inquiries or investigations."
-    },
-    {
-      "id": "mkt:019fab6c-7eb5-7aab-8ed8-b64dc9f9f7ad",
-      "time": "2026-07-29 09:10:41",
-      "tags": [
-        "MKT News",
-        "MS.O",
-        "Impact bearish"
-      ],
-      "text": "The Wall Street Journal, citing sources, reported that Morgan Stanley clients were granted owner-occupied mortgages despite multiple warning signs."
-    },
-    {
-      "id": "5013295",
-      "time": "2026-07-29 09:10:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普呼籲參議院在休會前透過預算決議。"
-    },
-    {
-      "id": "5013294",
-      "time": "2026-07-29 09:10:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌1%至41,173.67點。"
-    },
-    {
-      "id": "mkt:019fab6c-2cc1-7aab-8ed8-ae5a98720a27",
-      "time": "2026-07-29 09:10:20",
-      "tags": [
-        "MKT News",
-        "MS.N",
-        "Impact bearish"
-      ],
-      "text": "The Wall Street Journal, citing people familiar with the matter, reports a former Morgan Stanley employee filed a whistleblower complaint alleging they were pressured to approve mortgages for wealthy clients (MS.N)."
-    },
-    {
-      "id": "5013293",
-      "time": "2026-07-29 09:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年居民消費物流保持韌性增長 線上消費是核心動力】中國物流與採購聯合會今天（29日）公佈今年上半年物流執行資料。從民生消費物流需求來看，上半年，單位與居民物品物流總額保持韌性增長，呈現線上業態支撐、消費升級引領、下沉市場擴容的積極特徵。上半年，單位與居民物品物流需求同比增長3.8%。其中，線上消費是核心增長動力，上半年全國實物商品網上零售額同比增長4.8%，增速高於同期商品零售額3.7個百分點，電商快遞業務同步擴容，新業態、新模式持續為民生物流注入增長動能。消費升級推動需求結構最佳化，上半年綠色智慧、品質消費類物流需求穩步釋放，限額以上單位通訊器材類商品零售額同比增長14.4%，高能效等級家電零售額增速超30%，化妝品、潮流玩具等品類保持較快增勢，帶動末端物流提質升級。另外，下沉市場拓展增長空間，上半年鄉村消費品零售額同比增長2.5%，增速快於城鎮1.3個百分點；縣鄉物流配送體系不斷完善，持續釋放民生消費物流增量。（央視新聞）"
-    },
-    {
-      "id": "5013292",
-      "time": "2026-07-29 09:09:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌1.5個基點，至2.760%。"
-    },
-    {
-      "id": "5013291",
-      "time": "2026-07-29 09:09:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銀諾依蘇帕格魯肽α青少年肥胖Ib期臨床完成首例受試者入組】7月29日，銀諾醫藥宣佈，公司自主研發的人源超長效GLP-1受體激動劑依蘇帕格魯肽α用於青少年肥胖適應症的Ib期臨床試驗在中國完成首例受試者入組。目前，公司正在澳大利亞開展肥胖適應症Ⅱ期臨床試驗，探索每月一次（Q4W）給藥方案。目前，我國尚無用於兒童、青少年的減重藥物獲批上市。"
-    },
-    {
-      "id": "5013290",
-      "time": "2026-07-29 09:09:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【王文濤部長與英國新任商貿大臣雷諾茲舉行視訊通話】7月28日，商務部部長王文濤與英國新任商貿大臣雷諾茲舉行視訊通話，就中英經貿關係交換意見。王文濤祝賀雷諾茲履新，表示願充分發揮中英經貿聯委會機制作用，促進中英經貿關係健康發展。中方願與英方做大合作蛋糕，加強在服務貿易、綠色轉型、可再生能源等領域合作，推動雙邊貿易向上向前平衡，維護以世貿組織為核心的多邊貿易體制。中方高度關注英鋼國有化問題，敦促英方遵守相關國際規則，切實履行中英投資保護協定有關義務，審慎穩妥解決此事，為在英中資企業營造良好營商環境。（商務部）"
-    },
-    {
-      "id": "5013289",
-      "time": "2026-07-29 09:09:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：在Hugging Face安全事件期間訪問了第三方系統的OpenAI Agent，觸及了與CyberGym相關的基礎設施；而CyberGym正是該Agent當時被指定解答的ExploitGym基準測試背後的專案。"
-    },
-    {
-      "id": "mkt:019fab6a-dcec-7aab-8ed8-a16100117b16",
-      "time": "2026-07-29 09:08:54",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Earthquake in Japan's Kumamoto prefecture kills 13】Japan prime minister TAKAICHI said at the prime minister's office on July 29 that as of 08:30 local time the Kumamoto prefecture earthquake had killed 13. Earlier, Kumamoto prefectural government reported 3 dead, 5 in cardiopulmonary arrest, 7 missing and 31 injured. cenc measured the quake as magnitude 6.8 on July 28 at 16:27 local time (15:27 Beijing), depth 10 km, struck Kyushu island."
-    },
-    {
-      "id": "mkt:019fab6a-be6b-7aab-8ed8-9b8fee6dcfb1",
-      "time": "2026-07-29 09:08:47",
-      "tags": [
-        "MKT News",
-        "SKHY.O"
-      ],
-      "text": "SK Hynix (SKHY.O) said it will brief the market by year-end on the form and timing of additional shareholder returns."
-    },
-    {
-      "id": "5013288",
-      "time": "2026-07-29 09:08:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：將在今年內就額外股東回報的形式與時機與市場進行溝通。"
     }
   ]
 }
