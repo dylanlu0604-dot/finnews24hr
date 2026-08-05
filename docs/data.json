@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-06 05:35:38",
-  "count": 17513,
+  "updated": "2026-08-06 05:39:28",
+  "count": 17516,
   "items": [
+    {
+      "id": "5027511",
+      "time": "2026-08-06 05:37:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：當前環境的特點是不確定性加劇、預期脫錨，基準情景面臨的風險有所上升。將持續監控國內財政政策動向對貨幣政策及金融資產產生的影響。近期經濟活動指標仍符合 2026 全年經濟增速放緩的走勢。"
+    },
+    {
+      "id": "mkt:019fd3db-724d-7aab-8f94-8f3ec36d1229",
+      "time": "2026-08-06 05:36:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI will end the special treatment applied to Bangladesh in its equity indices at the November 2026 index review."
+    },
+    {
+      "id": "5027510",
+      "time": "2026-08-06 05:36:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：重申貨幣政策實施將保持審慎與穩健。"
+    },
+    {
+      "id": "5027509",
+      "time": "2026-08-06 05:35:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：重申將根據新的資訊確定本輪政策調整週期的總幅度，以確保通脹向目標水平收斂。"
+    },
+    {
+      "id": "mkt:019fd3da-5635-7aab-8f94-863267c547c2",
+      "time": "2026-08-06 05:35:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank: decision approved unanimously."
+    },
     {
       "id": "mkt:019fd3d9-d3a2-7aab-8f94-7bf4c4c10135",
       "time": "2026-08-06 05:34:55",
@@ -161317,26 +161360,6 @@
         "市場"
       ],
       "text": "五角大樓向通用動力與亨廷頓英格爾斯工業授予總額最高766億美元合同，用於擴產美軍主力核潛艇並開展船廠基礎設施升級。訊息公佈後，盤後交易中通用動力股價上漲2.4%，亨廷頓英格爾斯漲幅2%。"
-    },
-    {
-      "id": "5015272",
-      "time": "2026-07-30 05:38:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "微軟執行長表示，本季度在五大洲新增31個資料中心，使今年總數達到88個。"
-    },
-    {
-      "id": "te:economy:570887",
-      "time": "2026-07-30 05:37:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "South Korea Manufacturing Sentiment Improves — South Korea’s manufacturing Business Survey Index rose to 82 in July 2026 from 78 in June, signaling improved business sentiment. The production index increased to 93 from 90, while the new orders index rose to 91 from 88. Meanwhile, the inventories index edged up to 100 from 99, and the financial situation index improved to 81 from 79. The Composite Business Sentiment Index for manufacturing increased 2.0 points from the previous month to 103.2, while the outlook for the following month rose 2.3 points to 100.5."
     }
   ]
 }
