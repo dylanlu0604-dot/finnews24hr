@@ -1,7 +1,110 @@
 {
   "date": "2026-08-05",
-  "count": 3182,
+  "count": 3192,
   "items": [
+    {
+      "id": "mkt:019fd28f-abbb-7aab-8f90-6b931f897688",
+      "time": "2026-08-05 23:34:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction bid-cover ratio 3.19 on Aug. 5, versus 3.04 previously."
+    },
+    {
+      "id": "mkt:019fd28f-a8c7-7aab-8f90-62ff04933a73",
+      "time": "2026-08-05 23:34:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 4-month Treasury auction through Aug. 5 — 94.66% of accepted bids awarded at the stop-out yield, prior 22.52%."
+    },
+    {
+      "id": "mkt:019fd28f-7539-7aab-8f90-5e57c49f54fc",
+      "time": "2026-08-05 23:34:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury auction stop-out yield 3.785%, prior 3.88%."
+    },
+    {
+      "id": "mkt:019fd28f-5aec-7aab-8f90-576507e504d2",
+      "time": "2026-08-05 23:33:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.5) | actual 3.19 | previous 3.04"
+    },
+    {
+      "id": "mkt:019fd28f-4149-7aab-8f90-4fb4175d8dcc",
+      "time": "2026-08-05 23:33:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.5) | actual 3.785% | previous 3.88%"
+    },
+    {
+      "id": "5027313",
+      "time": "2026-08-05 23:33:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國解除針對伊拉克航空公司及其飛機、與伊朗革命衛隊相關的制裁。"
+    },
+    {
+      "id": "5027312",
+      "time": "2026-08-05 23:32:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部經過針對運營調整的行政審查，解除了對伊拉克巴格達航空的反恐制裁。"
+    },
+    {
+      "id": "5027311",
+      "time": "2026-08-05 23:32:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.785%，投標倍數3.19。"
+    },
+    {
+      "id": "5027310",
+      "time": "2026-08-05 23:32:14",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.03%，歐洲斯托克指數下跌0.08%，歐元區藍籌股指數下跌0.14%。英國富時100指數上漲0.14%，德國DAX指數下跌0.24%，法國CAC 40指數下跌0.01%，西班牙IBEX指數上漲0.17%。"
+    },
+    {
+      "id": "5027309",
+      "time": "2026-08-05 23:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統發言人：（總統將）就過去兩年發生的種種事情，進行一次坦率、明晰且詳盡的敘述。總統佩澤希其揚關於總統履職與為國服務的報告；這份詳盡報告的第一部分將於今晚播出並對外發布。"
+    },
     {
       "id": "te:economy:573093",
       "time": "2026-08-05 23:30:03",

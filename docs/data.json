@@ -1,7 +1,110 @@
 {
-  "updated": "2026-08-05 23:31:21",
+  "updated": "2026-08-05 23:35:18",
   "count": 17970,
   "items": [
+    {
+      "id": "mkt:019fd28f-abbb-7aab-8f90-6b931f897688",
+      "time": "2026-08-05 23:34:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction bid-cover ratio 3.19 on Aug. 5, versus 3.04 previously."
+    },
+    {
+      "id": "mkt:019fd28f-a8c7-7aab-8f90-62ff04933a73",
+      "time": "2026-08-05 23:34:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 4-month Treasury auction through Aug. 5 — 94.66% of accepted bids awarded at the stop-out yield, prior 22.52%."
+    },
+    {
+      "id": "mkt:019fd28f-7539-7aab-8f90-5e57c49f54fc",
+      "time": "2026-08-05 23:34:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-month Treasury auction stop-out yield 3.785%, prior 3.88%."
+    },
+    {
+      "id": "mkt:019fd28f-5aec-7aab-8f90-576507e504d2",
+      "time": "2026-08-05 23:33:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.5) | actual 3.19 | previous 3.04"
+    },
+    {
+      "id": "mkt:019fd28f-4149-7aab-8f90-4fb4175d8dcc",
+      "time": "2026-08-05 23:33:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.5) | actual 3.785% | previous 3.88%"
+    },
+    {
+      "id": "5027313",
+      "time": "2026-08-05 23:33:10",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國解除針對伊拉克航空公司及其飛機、與伊朗革命衛隊相關的制裁。"
+    },
+    {
+      "id": "5027312",
+      "time": "2026-08-05 23:32:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部經過針對運營調整的行政審查，解除了對伊拉克巴格達航空的反恐制裁。"
+    },
+    {
+      "id": "5027311",
+      "time": "2026-08-05 23:32:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.785%，投標倍數3.19。"
+    },
+    {
+      "id": "5027310",
+      "time": "2026-08-05 23:32:14",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.03%，歐洲斯托克指數下跌0.08%，歐元區藍籌股指數下跌0.14%。英國富時100指數上漲0.14%，德國DAX指數下跌0.24%，法國CAC 40指數下跌0.01%，西班牙IBEX指數上漲0.17%。"
+    },
+    {
+      "id": "5027309",
+      "time": "2026-08-05 23:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統發言人：（總統將）就過去兩年發生的種種事情，進行一次坦率、明晰且詳盡的敘述。總統佩澤希其揚關於總統履職與為國服務的報告；這份詳盡報告的第一部分將於今晚播出並對外發布。"
+    },
     {
       "id": "te:economy:573093",
       "time": "2026-08-05 23:30:03",
@@ -166171,110 +166274,6 @@
         "US10Y"
       ],
       "text": "Former Federal Reserve senior adviser Jon Faust said he does not expect the Fed to raise rates today and agreed with FOMC vice chair John Williams that \"the tactic of deliberately surprising markets to gain credibility will not work.\""
-    },
-    {
-      "id": "5014870",
-      "time": "2026-07-29 23:34:58",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.875%，投標倍數3.04。"
-    },
-    {
-      "id": "5014869",
-      "time": "2026-07-29 23:34:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美以閉門會談無實質成果 戰略節奏存差異】美國總統特朗普當地時間28日在白宮同到訪的以色列總理內塔尼亞胡舉行會談，這是今年美伊衝突升級以來，兩國領導人的首次面對面會談。雖然美以官方均稱會談“積極”且“富有成果”，但從公開資訊和兩國媒體披露的細節來看，這場會晤最大的特點，就是沒有具體成果，美以圍繞中東局勢走向的戰略分歧也進一步顯現。 (央視新聞)"
-    },
-    {
-      "id": "5014868",
-      "time": "2026-07-29 23:34:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部： 霍爾木茲海峽屬於國際航道。伊朗伊斯蘭革命衛隊無權強制規定海上自由通行路線。在美國軍方護航支援下，各類商船持續正常通行海峽。自 5 月初以來，美軍中央司令部部隊已護航約 1000 艘船舶、合計 5 億桶原油順利透過這條狹窄水道。"
-    },
-    {
-      "id": "mkt:019fae82-620e-7aab-8eef-073c976cf3d5",
-      "time": "2026-07-29 23:33:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 4-month Treasury auction on July 29: bid-cover ratio 3.04, prior 2.76."
-    },
-    {
-      "id": "mkt:019fae82-3a89-7aab-8eee-ffc76c5a0001",
-      "time": "2026-07-29 23:33:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 4-month Treasury auction on July 29: 22.52% of allotment awarded at the stop-out (winning) rate, down from 63.29% previously."
-    },
-    {
-      "id": "mkt:019fae82-2b2b-7aab-8eee-f56540d3b366",
-      "time": "2026-07-29 23:33:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.29) | actual 3.04 | previous 2.76"
-    },
-    {
-      "id": "mkt:019fae82-1f85-7aab-8eee-eef2bc8a68d3",
-      "time": "2026-07-29 23:33:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US 4-month Treasury bill auction for settlement July 29 — stop-out yield 3.875%, previous 3.85%."
-    },
-    {
-      "id": "mkt:019fae81-f398-7aab-8eee-e5b7f7251d32",
-      "time": "2026-07-29 23:32:59",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.29) | actual 3.875% | previous 3.85%"
-    },
-    {
-      "id": "5014867",
-      "time": "2026-07-29 23:32:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期浮動利率債券貼現率為0.050%。"
-    },
-    {
-      "id": "5014866",
-      "time": "2026-07-29 23:32:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤多數下跌】歐洲主要股指收盤多數下跌，英國富時100指數漲0.24%，法國CAC40指數跌0.70%，德國DAX30指數跌0.06%，富時義大利MIB指數跌0.57%。"
     }
   ]
 }
