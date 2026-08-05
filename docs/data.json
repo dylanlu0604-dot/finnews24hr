@@ -1,7 +1,146 @@
 {
-  "updated": "2026-08-05 13:44:08",
-  "count": 17872,
+  "updated": "2026-08-05 13:48:02",
+  "count": 17884,
   "items": [
+    {
+      "id": "5026081",
+      "time": "2026-08-05 13:47:21",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行上海總部：紮實落實適度寬鬆的貨幣政策，積極推動金融機構深挖有效信貸需求】8月4日，中國人民銀行上海總部召開2026年下半年工作會議。會議強調，人民銀行上海總部要紮實落實適度寬鬆的貨幣政策，積極推動金融機構深挖有效信貸需求。用好各項結構性貨幣政策工具。貫徹落實金融“五篇大文章”1+N系列政策。推動債券市場“科技板”在上海持續見效。穩步深化金融改革和對外開放。構建完善外匯管理體制機制。落實跨境貿易投融資高水平開放、境外放款、境外上市等各項新政。提升中小微企業管理匯率避險能力。協同推進跨境金融與離岸金融，加快推動離岸業務金融服務綜合改革試點落地見效。推進數字人民幣場景應用和生態體系建設。持續開展金融領域地方立法。不斷健全系統性風險防範化解機制。強化打擊非法金融活動。持續完善宏觀審慎管理機制框架。全面提升跨境金融風險監測水平。"
+    },
+    {
+      "id": "5026080",
+      "time": "2026-08-05 13:47:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4170美元/盎司，日內漲2.31%。"
+    },
+    {
+      "id": "5026079",
+      "time": "2026-08-05 13:47:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4230美元/盎司，日內漲1.89%。"
+    },
+    {
+      "id": "te:markets:572847",
+      "time": "2026-08-05 13:46:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 0.7% Higher, Hits New Record High — New Zealand's stocks rose 94 points, or 0.7%, to close at 13,997 on Wednesday, gaining for the third consecutive session, supported by advances in healthcare, industrials, and materials. The broader index hit a record high, tracking a rally on Wall Street overnight, buoyed by strong corporate earnings and lower oil prices. Further declines in oil prices amid optimism over US-Iran peace talks also lifted sentiment, as easing inflation concerns tempered expectations of an interest rate hike. However, the latest data further lifted sentiment, as New Zealand's unemployment rate increased to 5.6% in Q2, the highest since Q3 2015, reinforcing expectations that the RBNZ could lower interest rates, despite inflation accelerating to 4.1% in Q2, the highest since Q4 2023 and above the central bank's 1%–3% target range. Among the top gainers were Ebos Group (2.4%), Freightways Group (2.4%), Fisher & Paykel (1.7%), A2 Milk (1.3%), Auckland International Airport (1.2%), and ANZ Group (0.5%)."
+    },
+    {
+      "id": "5026078",
+      "time": "2026-08-05 13:46:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "舍弗勒將在德國擴大部分退休計劃，預計約有1300名員工接受該計劃。"
+    },
+    {
+      "id": "5026077",
+      "time": "2026-08-05 13:46:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達6％，成分股中，中微公司漲14.5％，拓荊科技漲12.8％，盛美上海漲9.6％，華虹宏力漲9.2％。"
+    },
+    {
+      "id": "5026076",
+      "time": "2026-08-05 13:46:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4160美元/盎司，日內漲2.05%。"
+    },
+    {
+      "id": "5026075",
+      "time": "2026-08-05 13:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4159.36美元/盎司。"
+    },
+    {
+      "id": "5026074",
+      "time": "2026-08-05 13:45:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "喜力首席財務官：歐洲熱浪導致部分成本上升，主要體現在運輸方面。"
+    },
+    {
+      "id": "mkt:019fd074-9943-7aab-8f82-7573cc3d1bac",
+      "time": "2026-08-05 13:45:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 3.00% intraday to $61.30/oz."
+    },
+    {
+      "id": "5026073",
+      "time": "2026-08-05 13:45:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4220美元/盎司，日內漲1.62%。"
+    },
+    {
+      "id": "5026072",
+      "time": "2026-08-05 13:45:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報61.31美元/盎司。"
+    },
+    {
+      "id": "5026071",
+      "time": "2026-08-05 13:45:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀上漲3%至每盎司61.27美元。"
+    },
+    {
+      "id": "mkt:019fd074-1441-7aab-8f82-6ce66e441494",
+      "time": "2026-08-05 13:44:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 2.00% intraday to $4,159.04/oz."
+    },
+    {
+      "id": "5026070",
+      "time": "2026-08-05 13:44:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "喜力首席財務官：我們在美洲的市場份額下降了，我們對業績並不滿意。"
+    },
     {
       "id": "mkt:019fd072-c241-7aab-8f82-649ed8da9dea",
       "time": "2026-08-05 13:43:29",
@@ -37,6 +176,15 @@
         "國際"
       ],
       "text": "【強闖我駐日使館男子稱對自己的行為深感後悔】今天，關於村田晃大的羈押理由說明程式在東京地方法院進行。村田晃大稱，對自己的行為深感後悔。此前，3月24日，日本自衛隊現役隊員村田晃大攜帶長達18釐米刀具，翻牆闖入中國駐日本大使館。使館相關人員將其控制後，警方以涉嫌非法侵入建築物將其逮捕。上月27日，村田晃大被正式起訴，其辯護律師曾申請保釋，但被駁回。（央視新聞）"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608053832462156",
+      "time": "2026-08-05 13:41:42",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行上海總部：紮實落實適度寬鬆的貨幣政策 積極推動金融機構深挖有效信貸需求】中國人民銀行上海總部8月4日召開2026年下半年工作會議。會議強調，人民銀行上海總部要紮實落實適度寬鬆的貨幣政策，積極推動金融機構深挖有效信貸需求。用好各項結構性貨幣政策工具。貫徹落實金融“五篇大文章”1+N系列政策。推動債券市場“科技板”在上海持續見效。"
     },
     {
       "id": "5026067",
@@ -165404,43 +165552,6 @@
         "公司"
       ],
       "text": "港股儲存概念股午後跌幅收窄，南方兩倍做多海力士(07709.HK)現跌17.5%，此前一度跌超28%，南方兩倍做多三星電子(07747.HK)現跌12%，此前一度跌超18%，兆易創新(03986.HK)跌6%，瀾起科技(06809.HK)跌4.5%。"
-    },
-    {
-      "id": "5013742",
-      "time": "2026-07-29 13:47:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯起訴 Telegram 創始人杜羅夫，併發出逮捕令。"
-    },
-    {
-      "id": "te:markets:570628",
-      "time": "2026-07-29 13:46:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Rally Persists, Ends at Fresh Record High — New Zealand's stocks rose 115 points, or 0.8%, to close at a record high of 13,977 on Wednesday, marking their third consecutive record close, with almost all sectors trading in the green. The gains were mainly driven by materials, healthcare, consumer staples, and real estate. Traders maintained momentum as they braced for the upcoming earnings season next month, though oil prices rebounded amid renewed escalation of the conflict in the Middle East and the global tech selloff. However, traders remained cautious ahead of the Fed's interest rate decision later today. The top performer was AFT Pharmaceuticals (7.6%) after the company said its portfolio of projects opened the business up to multi-billion-dollar market opportunities. Other notable gainers were Ebos Group (4.6%), Fisher & Paykel Healthcare (2.5%), Chorus (2.5%), Auckland International Airport (1.9%), Delegat Group (1.7%), A2 Milk (1.4%), Mercury NZ (1.2%), and Infratil (0.9%)."
-    },
-    {
-      "id": "5013741",
-      "time": "2026-07-29 13:45:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破58美元/盎司，日內漲1.61%。"
-    },
-    {
-      "id": "5013740",
-      "time": "2026-07-29 13:44:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "科創50指數翻紅，此前一度跌近5%。"
     }
   ]
 }
