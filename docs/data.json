@@ -1,7 +1,113 @@
 {
-  "updated": "2026-08-05 10:07:43",
-  "count": 17833,
+  "updated": "2026-08-05 10:11:36",
+  "count": 17832,
   "items": [
+    {
+      "id": "mkt:019fcfb0-234c-7aab-8f7d-3d972e7315e3",
+      "time": "2026-08-05 10:10:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract fell more than 8.0% intraday to 1,652.0 points."
+    },
+    {
+      "id": "te:markets:572772",
+      "time": "2026-08-05 10:10:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Holds Near 7-Week High — Platinum futures held above $1,700 an ounce near a seven-week high, supported by gains across the precious metals complex amid rising optimism over a potential US-Iran deal that could reopen the Strait of Hormuz. Progress in the negotiations prompted markets to scale back expectations for a September Fed rate hike, as lower oil prices could ease inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook. Meanwhile, South African producer Valterra Platinum, the world's largest primary platinum miner with roughly 38% of global mined supply, reported a sharp increase in interim profit, driven by stronger platinum-group metal prices. The company also said it expects demand from AI-related infrastructure to grow significantly in the coming years, while broader market fundamentals remained supportive, with the platinum market still projected to post another annual supply deficit."
+    },
+    {
+      "id": "5025774",
+      "time": "2026-08-05 10:10:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌8%，現報1652.00點。"
+    },
+    {
+      "id": "5025773",
+      "time": "2026-08-05 10:10:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量1327億元。"
+    },
+    {
+      "id": "te:markets:572770",
+      "time": "2026-08-05 10:09:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Flat Despite Wall Street Rally — The Hang Seng Index was little changed at 25,880 on Wednesday, as gains from a positive Wall Street lead were offset by weaker Chinese economic data and renewed concerns over US-China technology tensions. Overnight, US heaveyweights closed at record highs after renewed hopes for a breakthrough in US-Iran talks boosted risk appetite, sending oil prices sharply lower and easing inflation concerns. However, sentiment in Hong Kong remained subdued after China's latest PMI that showed both services activity and overall private-sector growth slowed in July, raising fresh doubts about the strength of the economic recovery. Chinese optical stocks weakened, with Zhongji Innolight among the biggest decliners, reflecting renewed concerns over escalating US-China technology restrictions. While notable gainers were SMIC (4.4%), Z.AI Co. (5.6%), Lenovo (6.5%), Kingboard Laminates (4.1%), and Techtronic Industries (7.7%)."
+    },
+    {
+      "id": "5025772",
+      "time": "2026-08-05 10:09:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內跌4%，現報6949.00元。"
+    },
+    {
+      "id": "5025771",
+      "time": "2026-08-05 10:09:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【月之暗面K3模型釋出後額度驟然緊俏，500億美元Pre-IPO輪開閘】月之暗面Kimi G輪（Pre-IPO）融資已正式啟動，該輪額度投資方可提前約定參與。參與方需在8月15日前完成打款；若要直接進入公司股東名冊（cap table），則需投資方為管理規模5億美元以上的機構。"
+    },
+    {
+      "id": "te:markets:572769",
+      "time": "2026-08-05 10:08:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Hover Near 2-Week Lows — European natural gas prices steadied around €55 per MWh on Wednesday but remained close to an over two-week low reached in the previous session, as markets weighed prospects of a renewed Middle East deal that could reopen the Strait of Hormuz and restore gas supplies from the Persian Gulf. Qatar said mediation efforts between the US and Iran have reached an advanced stage, with a draft proposal already prepared, while American officials expressed optimism that an agreement could soon be reached. However, concerns persist in Europe amid low inventories, with the region’s gas storage levels now at their lowest for this time of year in almost two decades. With roughly one-fifth of global LNG supply still disrupted by the conflict and Asian buyers competing aggressively for available cargoes, analysts expect European gas prices to remain at a firm floor, leaving the market highly sensitive to any delays or setbacks in ongoing diplomatic negotiations."
+    },
+    {
+      "id": "mkt:019fcfad-a81a-7aab-8f7d-363b9bbfc331",
+      "time": "2026-08-05 10:08:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Report: US to announce Strait of Hormuz agreement on Wednesday】Axios, citing two regional sources and a US official, reports the US, Iran and Oman are close to a temporary deal to reopen the Strait of Hormuz, with the US planning a Wednesday announcement. The preliminary agreement would satisfy some Iranian demands for traffic-control rights in the strait that Iran did not have before the war. Sources say the arrangement under discussion would be a 60-day temporary mechanism, potentially extendable."
+    },
+    {
+      "id": "5025770",
+      "time": "2026-08-05 10:07:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【順網科技等成立點點互娛網路科技公司】企查查APP顯示，近日，杭州點點互娛網路科技有限公司成立，經營範圍包含品牌管理；諮詢策劃服務；企業管理；企業總部管理；市場營銷策劃等。企查查股權穿透顯示，該公司由順網科技(300113)等共同持股。"
+    },
+    {
+      "id": "5025769",
+      "time": "2026-08-05 10:06:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【頂點軟體新一代C6平臺中標多家信託機構財富專案】據頂點軟體訊息，近日，頂點軟體新一代C6平臺接連中標多家信託機構財富專案，以全域一體化數字化能力助力信託機構財富管理轉型。"
+    },
     {
       "id": "5025768",
       "time": "2026-08-05 10:06:46",
@@ -164912,125 +165018,6 @@
         "公司"
       ],
       "text": "【智元機器人等成立智慧科技服務新公司】企查查APP顯示，近日，新鄭市廣瑞雲智慧科技服務有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務；智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司等共同持股。"
-    },
-    {
-      "id": "5013444",
-      "time": "2026-07-29 10:11:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國高價值發明專利擁有量達236萬件】國家智慧財產權局副局長芮文彪在7月29日舉行的國新辦釋出會上說，截至今年6月底，我國高價值發明專利擁有量達到236萬件，每萬人口高價值發明專利擁有量提升至16.8件。（新華社）"
-    },
-    {
-      "id": "5013443",
-      "time": "2026-07-29 10:11:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨賣出額達40億港元。"
-    },
-    {
-      "id": "mkt:019faba3-e9e8-7aab-8edb-27532f3ebeb5",
-      "time": "2026-07-29 10:11:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China National Intellectual Property Administration: 453,000 invention patents granted in 1H】China's National Intellectual Property Administration said 453,000 invention patents were granted in 1H, 2.055 million trademarks were registered, 64 geographic-indication products were recognized and eight geographic indications were approved for registration as collective or certification marks. Integrated-circuit layout-design registrations totaled 5,061. Authorities approved two new national IP protection centers and six rapid rights‑protection centers, and patent‑trademark pledge financing has benefited more than 19,000 enterprises."
-    },
-    {
-      "id": "5013442",
-      "time": "2026-07-29 10:11:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今年上半年我國共授權發明專利45.3萬件】國家智慧財產權局副局長芮文彪在7月29日舉行的國新辦釋出會上說，今年上半年我國共授權發明專利45.3萬件，核准註冊商標205.5萬件，認定地理標誌產品64個，核准地理標誌作為集體商標、證明商標註冊8件，積體電路布圖設計登記發證5061件，新批准建設2家國家級智慧財產權保護中心和6家快速維權中心，全國專利商標質押融資惠企數量超過1.9萬家。"
-    },
-    {
-      "id": "mkt:019faba3-d138-7aab-8edb-193826613169",
-      "time": "2026-07-29 10:11:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share CPO concept stocks slid; Cambridge Technology and Tongfu Microelectronics closed at the daily limit down, Ruijie Networks dropped over 10%, and JCET, Guangxun Technology, Zhongfu Circuit, Huatian Technology and Yongding Co. also fell."
-    },
-    {
-      "id": "5013441",
-      "time": "2026-07-29 10:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "今年上半年我國共授權發明專利45.3萬件。（新華社）"
-    },
-    {
-      "id": "5013440",
-      "time": "2026-07-29 10:09:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【CPO板塊震盪走弱，劍橋科技跌停】CPO板塊震盪走弱，劍橋科技、通富微電跌停，銳捷網路跌超10%，長電科技、光迅科技、中富電路、華天科技、永鼎股份等跟跌。"
-    },
-    {
-      "id": "te:economy:570570",
-      "time": "2026-07-29 10:09:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Reverse Repo Rate",
-        "Importance 1"
-      ],
-      "text": "PBoC Maintains Liquidity Support Before Month-End — The People's Bank of China (PBoC) injected CNY 806.5 billion into the banking system through reverse repo operations on Wednesday, July 29, 2026, to maintain ample liquidity at month-end. The central bank supplied CNY 206.5 billion via seven-day reverse repos at an unchanged interest rate of 1.40%, while adding another CNY 600 billion through overnight reverse repos without disclosing the borrowing cost. The move followed the PBoC's announcement last week that it would conduct overnight reverse repo operations from July 29 to 31 and again on August 3, injecting a total of CNY 2.1 trillion through the short-term liquidity tool. The operations reflect the central bank's continued efforts to stabilize money market conditions and ensure sufficient cash in the banking system during a period of typically elevated funding demand at the end of the month."
-    },
-    {
-      "id": "mkt:019faba1-d6a9-7aab-8edb-15a408777ee1",
-      "time": "2026-07-29 10:08:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00325.HK",
-        "Impact bullish",
-        "02097.HK",
-        "09985.HK"
-      ],
-      "text": "Hong Kong-listed new-consumer stocks rallied: Buluoke (00325.HK) up over 12.5%, Mixue Group (02097.HK) up over 6%, Weilong (09985.HK) and Juzi Bio (02367.HK) up over 5.5%, Hu Shang Ayi (02589.HK) up about 5%."
-    },
-    {
-      "id": "mkt:019faba1-a0c4-7aab-8edb-0d2206a19cc1",
-      "time": "2026-07-29 10:08:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi outlet Alhadath reported Riyadh presented Iraqi authorities with clear evidence that drone attacks originated inside Iraq."
-    },
-    {
-      "id": "5013439",
-      "time": "2026-07-29 10:08:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報2661.00元。"
-    },
-    {
-      "id": "5013438",
-      "time": "2026-07-29 10:08:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本氣象廳：熊本強震後已發生餘震171次】據日本氣象廳介紹，自7月28日下午日本熊本縣發生6.8級地震以來，截至當地時間29日上午10時，震區周邊共發生震度1級以上地震171次。日本氣象廳在28日舉行的記者會上表示，從地震發生後的約一週時間內，尤其是在未來2至3天期間，要警惕可能發生最大震度達到7級左右的地震。"
     }
   ]
 }
