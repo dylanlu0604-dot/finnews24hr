@@ -1,7 +1,268 @@
 {
   "date": "2026-08-05",
-  "count": 2670,
+  "count": 2696,
   "items": [
+    {
+      "id": "mkt:019fd1dd-a2aa-7aab-8f8b-78a266523f59",
+      "time": "2026-08-05 20:19:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BeamR has introduced NVIDIA (NVDA.O) video super-resolution technology into live sports broadcasts."
+    },
+    {
+      "id": "5026980",
+      "time": "2026-08-05 20:19:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈方微：擬以1038.72萬元轉讓長興芯元100%股權】盈方微公告，公司於2026年8月5日召開董事會審議透過議案，同意將持有的長興芯元工業科技有限公司100%股權以1038.72萬元人民幣轉讓給長興鑫元企業諮詢有限公司，並簽署《股權轉讓協議》。本次轉讓完成後，公司不再持有長興芯元股權，不再將其納入合併報表範圍。標的公司股東全部權益價值評估值為1038.72萬元，評估增值30.73%。"
+    },
+    {
+      "id": "mkt:019fd1dd-2272-7aab-8f8b-758de1bb6c5a",
+      "time": "2026-08-05 20:19:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP report: median annualized wage growth for financial-services employees 5.2% in July, up from 5.1% in June."
+    },
+    {
+      "id": "5026979",
+      "time": "2026-08-05 20:19:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌洽談超 15 億美元交易：吸納 Mechanize 人才並獲取技術非獨佔授權】四名瞭解相關談判的知情人士透露，科技巨頭谷歌近幾週一直在與舊金山初創企業 Mechanize 開展磋商，潛在交易將涉及谷歌吸納 Mechanize 部分人才。部分知情人士稱，這筆交易估值超過 15 億美元，談判仍在推進，細節或發生變動。一名知情人士表示，作為交易的一部分，谷歌正在洽談 Mechanize 技術的非獨佔授權協議。該人士補充稱，谷歌從 Mechanize 吸納的人才將從事模型評估與開發工作。此次談判折射出人工智慧熱潮下的兩大現實：程式碼開發已經成為人工智慧最重要、利潤最高的應用場景之一；各大科技巨頭正另闢蹊徑，獲取維持競爭力所需的人才與技術。這並非谷歌首次採用變通方案獲取人才和技術。過去兩年，谷歌多次採用混合交易模式完成收購，透過人才收購吸納團隊，同時藉助授權等方式獲取技術。企業採取這類做法，有時是為了規避全額收購帶來的反壟斷審查。"
+    },
+    {
+      "id": "mkt:019fd1dd-0deb-7aab-8f8b-6cff90ce85ad",
+      "time": "2026-08-05 20:19:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "ADP report: median annualized wage growth for manufacturing employees 5.0% in July, up from 4.9% in June."
+    },
+    {
+      "id": "mkt:019fd1dc-ec49-7aab-8f8b-6540c7de8368",
+      "time": "2026-08-05 20:19:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ADP report: July median YoY wage growth for professional and business services employees 4.1%, unchanged from June."
+    },
+    {
+      "id": "mkt:019fd1dc-c65f-7aab-8f8b-5e2e0ae48ab3",
+      "time": "2026-08-05 20:18:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "ADP report: median YoY wage growth in construction slowed to 4.5% in July from 4.6% in June."
+    },
+    {
+      "id": "mkt:019fd1dc-9319-7aab-8f8b-5694a8fe1d20",
+      "time": "2026-08-05 20:18:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP report: Median YoY wage growth for trade, transportation and utilities employees 4.4% in July, unchanged from June."
+    },
+    {
+      "id": "mkt:019fd1dc-8172-7aab-8f8b-48106d82c880",
+      "time": "2026-08-05 20:18:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "ADP report: In July pay growth accelerated for job-switchers; pay for stayers held at 4.4% YoY, while job-switchers’ pay rose to 7% YoY, the largest YoY increase since August 2025."
+    },
+    {
+      "id": "5026978",
+      "time": "2026-08-05 20:18:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "《紐約時報》高管：調整後運營成本上升10%，主要由薪酬與福利支出增加所致。"
+    },
+    {
+      "id": "te:economy:573043",
+      "time": "2026-08-05 20:18:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change",
+        "Importance 3"
+      ],
+      "text": "US Private Employment Growth Slows in July — Private businesses in the US added 44K jobs in July 2026, the least in six months, following a downwardly revised 95K gain in June and below forecasts of 70K. All of the gains came from the services sector, which added 47K while goods-producing companies see a decline of 3K."
+    },
+    {
+      "id": "mkt:019fd1dc-21ae-7aab-8f8b-439dfaf7fe75",
+      "time": "2026-08-05 20:18:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP report: employment in financial services rose 10,000 in July, following a 14,000 increase in June."
+    },
+    {
+      "id": "5026977",
+      "time": "2026-08-05 20:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "《紐約時報》高管：本季度廣告客戶對我們高績效廣告產品的需求超出了我們的預期。"
+    },
+    {
+      "id": "mkt:019fd1dc-1c24-7aab-8f8b-3edbc6fa484c",
+      "time": "2026-08-05 20:18:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Business Insider reports Google (GOOG.O) is in talks with AI programming-agent startup Mechanize on a transaction valued at more than $1.5 billion."
+    },
+    {
+      "id": "mkt:019fd1db-ee85-7aab-8f8b-3784552c7285",
+      "time": "2026-08-05 20:17:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP report: manufacturing employment rose by 2,000 in July, after a 5,000 gain in June."
+    },
+    {
+      "id": "mkt:019fd1db-df04-7aab-8f8b-298dad16e529",
+      "time": "2026-08-05 20:17:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP report: Professional and business services jobs increased by 9,000 in July and by 2,000 in June."
+    },
+    {
+      "id": "mkt:019fd1db-ae06-7aab-8f8b-21c31fcd1cee",
+      "time": "2026-08-05 20:17:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "ADP report: construction employment rose by 1,000 in July and by 2,000 in June."
+    },
+    {
+      "id": "mkt:019fd1db-9061-7aab-8f8b-1dcfe6afb688",
+      "time": "2026-08-05 20:17:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP report: trade, transportation and utilities employment fell 8,000 in July; June change reported as decreased/increased by 15,000."
+    },
+    {
+      "id": "te:markets:573042",
+      "time": "2026-08-05 20:17:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Nuclear Energy Index Hits 4-week High — Nuclear Energy Index increased to 43.36 USD, the highest since July 2026. Over the past 4 weeks, Nuclear Energy Index lost 1.68%, and in the last 12 months, it increased 4.84%."
+    },
+    {
+      "id": "5026976",
+      "time": "2026-08-05 20:16:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌正與AI程式設計代理初創公司Mechanize洽談逾15億美元交易。"
+    },
+    {
+      "id": "5026975",
+      "time": "2026-08-05 20:16:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "荷蘭政府支援科特出任歐洲央行行長候選人。"
+    },
+    {
+      "id": "mkt:019fd1da-d16f-7aab-8f8b-1514d29e49d7",
+      "time": "2026-08-05 20:16:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "ADP chief economist NELA RICHARDSON said jobseekers are highly sensitive to real-time economic conditions; their rapid wage gains imply supply constraints in parts of the labor market. She added employers' responses to macro shifts are altering typical hiring patterns."
+    },
+    {
+      "id": "5026974",
+      "time": "2026-08-05 20:16:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報62.66美元/盎司。"
+    },
+    {
+      "id": "5026973",
+      "time": "2026-08-05 20:16:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【亞德尼：美股科技股正處於 “打折階段”，出現買入機會】埃德・亞德尼表示，科技股上漲勢頭遠未結束，納斯達克100指數四個交易日累計上漲9.3%。該板塊當前預期12個月市盈率為22.3倍，亞德尼稱，對於一個高增長賽道而言，這一估值水平相對低廉。華爾街一眾策略師對科技股反彈持樂觀態度，部分分析師指出，美光科技、Alphabet等個股當前估值低於其五年均值。"
+    },
+    {
+      "id": "5026972",
+      "time": "2026-08-05 20:16:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌正洽談以15億美元收購MECHANIZE。"
+    },
     {
       "id": "5026971",
       "time": "2026-08-05 20:15:31",
@@ -30,6 +291,15 @@
         "國際"
       ],
       "text": "ADP資料顯示，美國7月份服務業就業崗位增加4.7萬個。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608053832762815",
+      "time": "2026-08-05 20:15:16",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月ADP私營部門就業人數增加4.4萬人】8月5日，據ADP研究院與斯坦福數字經濟實驗室資料，美國7月私營部門就業人數增加4.4萬人，預期為增加6.5萬人，6月資料修正後為增加9.5萬人。"
     },
     {
       "id": "5026969",
