@@ -1,7 +1,124 @@
 {
   "date": "2026-08-05",
-  "count": 2822,
+  "count": 2834,
   "items": [
+    {
+      "id": "5027080",
+      "time": "2026-08-05 21:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：達美航空將於10月23日開通亞特蘭大至利雅得航線。"
+    },
+    {
+      "id": "mkt:019fd206-3721-7aab-8f8c-a10b44ff52db",
+      "time": "2026-08-05 21:04:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude each slipped $0.70 intraday to $75.07/bbl and $79.61/bbl, respectively."
+    },
+    {
+      "id": "5027079",
+      "time": "2026-08-05 21:03:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查顯示捷克克朗兌歐元預計在六個月內小幅走軟至24.192（上次預測為24.20）。"
+    },
+    {
+      "id": "5027078",
+      "time": "2026-08-05 21:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一名海灣國家官員認為，美國與伊朗在週五前達成協議的可能性為50%。"
+    },
+    {
+      "id": "mkt:019fd205-1c13-7aab-8f8c-9c61c758aaad",
+      "time": "2026-08-05 21:02:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "CNN reports a Gulf official says there is a 50% chance the U.S. and Iran will reach an agreement before Friday."
+    },
+    {
+      "id": "5027077",
+      "time": "2026-08-05 21:02:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國出口商向墨西哥出售了12萬噸玉米。"
+    },
+    {
+      "id": "5027076",
+      "time": "2026-08-05 21:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非競爭委員會：建議競爭法庭有條件批准Capitec-Walletdoc擬議交易。"
+    },
+    {
+      "id": "5027075",
+      "time": "2026-08-05 21:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shopify首席財務官表示：訂閱解決方案增長主要由標準套餐的月度訂閱驅動；第二季度標準套餐商戶淨新增數量表現強勁。"
+    },
+    {
+      "id": "mkt:019fd202-c2bc-7aab-8f8c-96087d49700e",
+      "time": "2026-08-05 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Night session open: China front-month futures mostly higher. Shanghai silver rose over 2%, Shanghai gold nearly 2%. Coking coal and iron ore gained more than 1%; fuel oil and soda ash up about 1%. Decliners: styrene (EB) and benzene fell over 1%; ethylene glycol (EG), methanol and stainless steel (SS) down around 1%."
+    },
+    {
+      "id": "5027074",
+      "time": "2026-08-05 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌9.21%，鉑連續漲9.18%，鈀連續漲8.51%，尿素連續漲3.66%，碳酸鋰連續漲2.61%，白銀連續漲2.21%。"
+    },
+    {
+      "id": "5027073",
+      "time": "2026-08-05 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報15037.00元。"
+    },
+    {
+      "id": "5027072",
+      "time": "2026-08-05 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2523.00元。"
+    },
     {
       "id": "5027071",
       "time": "2026-08-05 20:59:26",
