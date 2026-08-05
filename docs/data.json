@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-06 05:58:31",
-  "count": 17507,
+  "updated": "2026-08-06 06:02:52",
+  "count": 17491,
   "items": [
+    {
+      "id": "5027522",
+      "time": "2026-08-06 06:00:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4250美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "5027521",
+      "time": "2026-08-06 06:00:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4310美元/盎司，日內漲0.10%。"
+    },
+    {
+      "id": "te:economy:573132",
+      "time": "2026-08-06 05:59:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Central Bank Cuts Key Rate to 14% — Brazil's central bank cut its benchmark interest rate by 25 basis points to 14.00% at its August meeting, in line with market expectations. The decision reflects a cautious approach amid heightened global uncertainty stemming from Middle East conflicts and uncertainty over monetary policy in advanced economies. Domestically, the central bank noted that economic activity continues to moderate gradually while remaining resilient, supported by a strong labor market. Headline inflation has eased but remains above the target range, while core inflation has slowed to slightly below the upper limit of the target band. Inflation expectations remain elevated, with the Focus survey projecting inflation at 5.0% in 2026 and 4.2% in 2027. The Copom reiterated that inflation risks remain skewed to the upside and said future policy decisions will depend on incoming economic data to ensure inflation converges to target."
+    },
+    {
+      "id": "mkt:019fd3ef-5a2a-7aab-8f94-bfd568e1eed7",
+      "time": "2026-08-06 05:58:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Republicans need to be tougher in the Senate."
+    },
     {
       "id": "5027519",
       "time": "2026-08-06 05:57:26",
@@ -161069,204 +161107,6 @@
         "MSFT.O"
       ],
       "text": "Microsoft (MSFT.O) CFO said that, beginning in fiscal 2027, the company will extend the estimated useful life of data centers and office buildings from 15 to 25 years. The change affects only the timing of future depreciation and is expected to have a negligible impact on fiscal 2027 operating income."
-    },
-    {
-      "id": "5015303",
-      "time": "2026-07-30 06:02:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4130美元/盎司，日內漲0.80%。"
-    },
-    {
-      "id": "5015302",
-      "time": "2026-07-30 06:02:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟首席財務官：調整資產使用年限僅影響未來折舊的計提時點，預計對2027財年營業收入帶來的影響極小，僅產生小幅正向收益。"
-    },
-    {
-      "id": "mkt:019fafe6-2af4-7aab-8efa-4babddfb82b2",
-      "time": "2026-07-30 06:02:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 10-year Treasury futures fell 12 ticks; 30-year Treasury futures dropped 30 ticks after yields hit their highest level since mid-2007."
-    },
-    {
-      "id": "5015301",
-      "time": "2026-07-30 06:02:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟首席財務官：自2027財年年初起生效，我們將資料中心及辦公樓的預計使用年限從15年延長至25年。"
-    },
-    {
-      "id": "5015300",
-      "time": "2026-07-30 06:01:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "通用動力電船公司獲授14艘潛艇建造合同，該合同屬於美國海軍總額766億美元授出訂單的一部分。"
-    },
-    {
-      "id": "te:markets:570889",
-      "time": "2026-07-30 06:01:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Legrand earnings below expectations at 1.39 EUR — Legrand (LR) released earnings per share at 1.39 EUR, compared to market expectations of 1.57 EUR."
-    },
-    {
-      "id": "5015299",
-      "time": "2026-07-30 06:01:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500股指期貨下跌0.2%，納斯達克股指期貨下跌0.3%：盤後交易中Meta股價暴跌，微軟股價走強。"
-    },
-    {
-      "id": "5015298",
-      "time": "2026-07-30 06:01:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債期貨下跌12個基點，30年期國債期貨下滑30個基點，此前國債收益率觸及2007年中以來最高水平。"
-    },
-    {
-      "id": "5015297",
-      "time": "2026-07-30 06:01:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱繼續封鎖伊朗 已令20艘商船改變航行路線】當地時間29日，美軍中央司令部表示，美軍繼續執行對伊朗的封鎖行動。截至29日，美軍已改變20艘商船的航行路線，並使2艘船隻失去行動能力。此外，美軍還對2艘船隻進行登船檢查。"
-    },
-    {
-      "id": "mkt:019fafe5-42e5-7aab-8efa-4569a7b40b55",
-      "time": "2026-07-30 06:01:05",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CFO said customer demand in its cloud business continues to exceed available capacity."
-    },
-    {
-      "id": "mkt:019fafe5-33b9-7aab-8efa-3e06580e2bd3",
-      "time": "2026-07-30 06:01:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft CFO: cloud revenue growth benefited from early delivery of new compute capacity; newly added capacity has been rapidly monetized."
-    },
-    {
-      "id": "5015296",
-      "time": "2026-07-30 06:00:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油開盤穩定在85美元下方。"
-    },
-    {
-      "id": "5015295",
-      "time": "2026-07-30 06:00:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4070美元/盎司，日內漲0.09%。"
-    },
-    {
-      "id": "5015294",
-      "time": "2026-07-30 06:00:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破58美元/盎司，日內漲0.07%。"
-    },
-    {
-      "id": "5015293",
-      "time": "2026-07-30 06:00:24",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【營業收入11.2萬億元 上半年輕工業經濟執行穩中有進】中國輕工業聯合會資料顯示，今年上半年，我國輕工業生產總體平穩，國內消費市場提質擴容，輕工品出口較快增長，結構持續最佳化。資料顯示，上半年，規模以上輕工業增加值同比增長5.0%，實現營業收入11.2萬億元，91種主要輕工產品中54種產量實現增長，鋰離子電池、電冰箱等14種產品產量保持兩位數增長，輕工生產總體平穩，綠色製造產業發展動能強。"
-    },
-    {
-      "id": "5015292",
-      "time": "2026-07-30 06:00:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破58美元/盎司，日內跌0.26%。"
-    },
-    {
-      "id": "mkt:019fafe3-d307-7aab-8efa-30cab629f39e",
-      "time": "2026-07-30 05:59:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CFO said fiscal 2026 cloud revenue exceeded $214 billion, with nearly 90% coming from customers that are not frontier-model companies."
-    },
-    {
-      "id": "5015291",
-      "time": "2026-07-30 05:59:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟首席財務官表示，在雲業務方面，客戶需求持續超過可用產能。"
-    },
-    {
-      "id": "5015290",
-      "time": "2026-07-30 05:58:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：97%的共和黨人以及71%的民主黨人支援選舉實行選民身份查驗要求。即刻透過《拯救美國法案》。"
-    },
-    {
-      "id": "te:markets:570888",
-      "time": "2026-07-30 05:58:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Mexico",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Mexican Peso Steady After Fed Decision — The Mexican peso held steady at 17.44 per USD in late July after the Federal Reserve left interest rates unchanged, a decision that weakened the US dollar as roughly one-third of investors had expected a rate hike. Mexico continued to benefit from a wide interest rate differential, with Banxico's policy rate at 6.50% versus the Fed's 3.50%-3.75% range, although further Fed tightening could narrow the peso's yield advantage. Investors also viewed Mexico's trade position favorably after the US announced new tariffs on imports from about 60 economies. Goods that comply with USMCA rules of origin will remain exempt from the new measures, preserving Mexico's preferential access to the US market. Meanwhile, Mexico's trade surplus widened to $4.09 billion in June from $0.51 billion a year earlier, well above forecasts of $2.28 billion."
     }
   ]
 }

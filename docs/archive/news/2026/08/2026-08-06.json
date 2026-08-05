@@ -1,7 +1,45 @@
 {
   "date": "2026-08-06",
-  "count": 354,
+  "count": 358,
   "items": [
+    {
+      "id": "5027522",
+      "time": "2026-08-06 06:00:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4250美元/盎司，日內漲0.07%。"
+    },
+    {
+      "id": "5027521",
+      "time": "2026-08-06 06:00:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4310美元/盎司，日內漲0.10%。"
+    },
+    {
+      "id": "te:economy:573132",
+      "time": "2026-08-06 05:59:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Brazil Central Bank Cuts Key Rate to 14% — Brazil's central bank cut its benchmark interest rate by 25 basis points to 14.00% at its August meeting, in line with market expectations. The decision reflects a cautious approach amid heightened global uncertainty stemming from Middle East conflicts and uncertainty over monetary policy in advanced economies. Domestically, the central bank noted that economic activity continues to moderate gradually while remaining resilient, supported by a strong labor market. Headline inflation has eased but remains above the target range, while core inflation has slowed to slightly below the upper limit of the target band. Inflation expectations remain elevated, with the Focus survey projecting inflation at 5.0% in 2026 and 4.2% in 2027. The Copom reiterated that inflation risks remain skewed to the upside and said future policy decisions will depend on incoming economic data to ensure inflation converges to target."
+    },
+    {
+      "id": "mkt:019fd3ef-5a2a-7aab-8f94-bfd568e1eed7",
+      "time": "2026-08-06 05:58:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Republicans need to be tougher in the Senate."
+    },
     {
       "id": "5027519",
       "time": "2026-08-06 05:57:26",
