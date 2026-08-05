@@ -1,7 +1,151 @@
 {
-  "updated": "2026-08-05 15:49:06",
-  "count": 17876,
+  "updated": "2026-08-05 15:52:59",
+  "count": 17880,
   "items": [
+    {
+      "id": "te:economy:572924",
+      "time": "2026-08-05 15:52:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yield Falls as Oil Slump Eases Inflation Fears — UK 10-year gilt yields fell below 4.9%, reaching their lowest level since July 10, as a sharp decline in oil prices eased inflation concerns. Crude has dropped about 10% this week amid growing optimism that the US and Iran could reach a deal to end their five-month conflict and reopen the Strait of Hormuz. US President Donald Trump said the two countries were engaged in \"very good discussions,\" boosting hopes of a resolution that could restore Middle Eastern energy supplies. Lower oil prices have eased concerns over renewed inflationary pressures and weaker economic growth, reinforcing expectations that the Bank of England will take a gradual approach to policy tightening. Last week's Bank of England meeting further supported that view, with Governor Andrew Bailey downplaying the need for additional rate hikes and saying the disinflation process remains on track."
+    },
+    {
+      "id": "5026296",
+      "time": "2026-08-05 15:51:59",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【一汽解放向德誠達物流交付首批200臺J6P換電牽引車】據一汽解放訊息，近日，一汽解放與德誠達物流首批200臺J6P換電新能源牽引車交車儀式在深圳舉行。此次批次交付標誌著雙方在低碳物流領域的合作邁入全新階段。本次交付的J6P 513換電新能源牽引車，精準適配港口運輸高頻、過載、高週轉的作業特點，能夠充分滿足珠三角港口物流的嚴苛運營需求。"
+    },
+    {
+      "id": "5026295",
+      "time": "2026-08-05 15:51:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天銀機電：全資子公司獲兩項發明專利證書】天銀機電公告稱，公司全資子公司上海訊析電子科技有限公司近日獲國家智慧財產權局授予的兩項發明專利證書，分別為“一種基於高速數字FFT的超寬頻實時頻譜監測方法”和“超寬頻多通道高速訊號採集記錄系統及資料採集儲存方法”，專利期限均為20年。相關技術已應用於子公司現有專案產品，不會對公司生產經營產生重大影響，但利於完善智慧財產權保護體系、提高綜合競爭力。"
+    },
+    {
+      "id": "5026294",
+      "time": "2026-08-05 15:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科環保：中標侯馬市垃圾焚燒發電專案】中科環保公告稱，2026年8月5日，公司作為牽頭人組成的聯合體，中標侯馬市垃圾焚燒發電專案。該專案建設地點在侯馬市上馬街道，規模為800t/d，採取BOOT模式，服務範圍含侯馬等三縣，特許經營期40年，中標價131元/噸。專案若順利實施，將擴大公司業務規模，預計對未來業績有積極影響，目前尚未籤正式合同，存在履約風險。"
+    },
+    {
+      "id": "te:economy:572923",
+      "time": "2026-08-05 15:51:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Italy Private Sector Growth Hits 8-Month High — The S&P Global Italy Composite PMI increased to 52.5 in July from 50.8 in June, indicating the strongest expansion in private-sector output since November 2025. The improvement was driven by stronger momentum in the services sector, which helped offset continued weakness in manufacturing. At the composite level, new business increased for the second consecutive month, with the pace of growth accelerating to the fastest rate so far this year despite another decline in manufacturing order books. Private-sector employment continued to rise in July, extending the growth trend seen throughout 2026, with the pace of job creation reaching its strongest level since June 2025. Meanwhile, both input cost and output price measures pointed to the mildest inflationary pressures since February."
+    },
+    {
+      "id": "5026292",
+      "time": "2026-08-05 15:50:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地球科學研究中心（GFZ）：克馬德克群島以南發生6.08級地震。"
+    },
+    {
+      "id": "mkt:019fd0e6-b57c-7aab-8f85-28845331f8f9",
+      "time": "2026-08-05 15:50:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France July composite PMI (final) 49.4, below expectations of 49.6 and prior 49.6."
+    },
+    {
+      "id": "mkt:019fd0e6-b384-7aab-8f85-22fd4234a1e8",
+      "time": "2026-08-05 15:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "France final July services PMI 49.6, below 49.8 expected and the prior 49.8."
+    },
+    {
+      "id": "5026291",
+      "time": "2026-08-05 15:50:00",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【尊界V800、V680兩款MPV新車上市】8月5日下午，尊界V800、V680兩款MPV新車正式上市，搭載華為乾崑智駕ADS5，起售價分別為64.8萬元、76.6萬元。"
+    },
+    {
+      "id": "mkt:019fd0e6-95d4-7aab-8f85-1da272e0222c",
+      "time": "2026-08-05 15:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Services PMI Final (Jul) | actual 49.6 | consensus 49.8 | previous 49.8"
+    },
+    {
+      "id": "mkt:019fd0e6-9596-7aab-8f85-11c55d4c7da9",
+      "time": "2026-08-05 15:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Composite PMI Final (Jul) | actual 49.4 | consensus 49.6 | previous 49.6"
+    },
+    {
+      "id": "5026290",
+      "time": "2026-08-05 15:49:38",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【三星、SK海力士暴跌是錯殺？高盛：HBM明年最高預計漲1倍】三星電子與SK海力士近一個月股價分別重挫23%、35%，市場擔憂HBM漲價動能消退、NAND供過於求，以及競爭對手加速擴產；然而，高盛認為，相關利空遭到過度放大，目前記憶體庫存仍低、供給持續吃緊，長約條款與股東回報也有利供應商，因此重申兩家公司“買進”評級。三星電子和SK海力士股價在過去一個月內分別下跌23%和35%，使兩家公司的2027年預期市盈率均跌至約3.5至3.6倍、市淨率僅為1.4至1.6倍。但從HBM供需、長期供貨協議（LTA）、產業庫存、NAND需求及競爭來看，基本面並未惡化至足以支撐如此悲觀的估值。高盛預估，三星與SK海力士2027年HBM綜合平均售價將分別同比上漲約87%及100%，雙雙逼近每GB 2.9美元，其中SK海力士預測值更比市場共識高出約24%。背後關鍵仍是供不應求，尤其是隨著製程升級、堆疊層數增加及良率提升難度加大，HBM擴產速度有限，明年供需缺口可能比今年更加嚴重。"
+    },
+    {
+      "id": "mkt:019fd0e6-136e-7aab-8f85-0ad43c9dc71c",
+      "time": "2026-08-05 15:49:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Goldman says Samsung, SK Hynix sell-off overdone; forecasts HBM ASP could double by 2027】Samsung Electronics and SK Hynix shares have plunged about 23% and 35% in the past month amid concerns over weakening HBM price momentum, NAND oversupply and faster rival capacity build-outs. Goldman Sachs says the sell-off is overdone, citing still-low inventories, persistent supply tightness and supportive long-term supply contracts and shareholder returns, and reiterates Buy on both names. The stocks now trade around 3.5–3.6x 2027 P/E and 1.4–1.6x P/B. Goldman forecasts 2027 blended HBM ASPs to rise about 87% for Samsung and 100% for SK Hynix to roughly $2.9/GB, with the SK Hynix estimate roughly 24% above consensus. Goldman highlights constrained HBM expansion—driven by node upgrades, increased stacking and tougher yield ramps—and warns next year’s supply shortfall could be larger than this year’s."
+    },
+    {
+      "id": "5026289",
+      "time": "2026-08-05 15:49:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西女足世界盃設上座率目標：超200萬人次】2027年女足世界盃賽事總監蒂亞戈·亞努齊8月4日在里約熱內盧的一個活動上表示，巴西女足世界盃設定逾200萬人次的上座率目標，目前已有73萬人表示有興趣購買門票。（新華社）"
+    },
     {
       "id": "5026288",
       "time": "2026-08-05 15:48:25",
@@ -165433,94 +165577,6 @@
         "國際"
       ],
       "text": "【韓國敦促日本如實介紹強徵勞工史實】韓國常駐聯合國教科文組織代表金知熙敦促日本遵守自身承諾，向世人如實介紹位於日本新潟縣的佐渡金山等明治時代工業革命遺產所在地曾強徵朝鮮半島勞工的歷史事實。世界遺產委員會曾多次要求日方詳細介紹明治時代工業革命設施的整體歷史，但日方至今沒有全面落實委員會的要求。（央視新聞）"
-    },
-    {
-      "id": "mkt:019facdc-b093-7aab-8ee2-6bb504e28a80",
-      "time": "2026-07-29 15:52:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's benchmark Straits Times Index (STI) rose 1.5% to a record 5,700.01 points."
-    },
-    {
-      "id": "5013963",
-      "time": "2026-07-29 15:52:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張瑩履新江西省委常委，已卸任副省長職務】近日，大江新聞客戶端“領導專欄”欄目更新顯示，張瑩已任江西省委常委。"
-    },
-    {
-      "id": "5013962",
-      "time": "2026-07-29 15:52:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡基準股票指數<.STI>上漲1.5%，創下5700.01點的歷史新高。"
-    },
-    {
-      "id": "te:markets:570686",
-      "time": "2026-07-29 15:51:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Pound Steadies Near One-Month Low Ahead of Fed and BoE Decisions — The British pound traded around $1.33 on Wednesday, little changed from the previous session and hovering near its weakest level in almost a month, as investors awaited policy decisions from the US Federal Reserve later in the day and the Bank of England on Thursday. The Fed is widely expected to leave interest rates unchanged, though markets still price in roughly a 30% chance of a 25-basis-point hike. In the UK, the BoE is also expected to keep its Bank Rate at 3.75%, with investors focusing on the vote split for signals on the future policy path. Recent data showed UK inflation slowed to a 15-month low of 2.6% in June, below the BoE's forecast, supporting expectations of a pause. However, concerns persist that the recent surge in energy prices could rekindle inflationary pressures in the months ahead as higher costs feed through to households and businesses."
-    },
-    {
-      "id": "5013961",
-      "time": "2026-07-29 15:51:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：日本製紙集團八代工廠發生事故，造成 5 人死亡、2 人受傷，另有 4 人下落不明。"
-    },
-    {
-      "id": "5013960",
-      "time": "2026-07-29 15:50:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯頭部電商平臺 Wildberries： 梁贊倉庫暫時停止接收貨物。"
-    },
-    {
-      "id": "mkt:019facda-2046-7aab-8ee2-65acc8909027",
-      "time": "2026-07-29 15:50:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Swiss July ZEW investor confidence index due in 10 minutes."
-    },
-    {
-      "id": "5013959",
-      "time": "2026-07-29 15:49:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【睿昂基因：旗下源奇生物獲15色全光譜流式MRD檢測試劑盒發明專利】近日，由睿昂基因旗下上海源奇生物醫藥科技有限公司（簡稱“源奇生物”）自主研發的“用於監測急性B淋巴細胞白血病微小殘留病灶的流式細胞術試劑盒及監測方法”正式獲得國家發明專利授權。該產品基於全光譜流式技術平臺，首次實現一管15色同步檢測，為B-ALL患者的精準復發預警提供了全新的“一站式”解決方案，標誌著我國在血液腫瘤MRD檢測領域邁出了重要一步。"
-    },
-    {
-      "id": "5013958",
-      "time": "2026-07-29 15:49:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本永旺商場事故致3人死亡、1人心臟驟停、3人失蹤。"
-    },
-    {
-      "id": "5013957",
-      "time": "2026-07-29 15:49:08",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲股市多數走高 防禦板塊獲資金流入】歐洲股指早盤大多上漲，市場表現較為堅挺。強勁的財報表現以及投資者向防禦性板塊輪動，推動歐洲斯托克600指數上漲，儘管半導體板塊主導的拋售仍在持續。英國富時100指數也維持漲勢，日內漲0.5%左右，因油價上漲提振了殼牌和英國石油等能源股表現。法國CAC40指數上漲0.5%，其中開雲集團在公佈財報後大漲11%，帶動整體奢侈品板塊走強。德國DAX指數上漲0.3%，其中德意志銀行因宣佈新的股票回購計劃，股價上漲5.3%，成為指數上漲的主要推動力。荷蘭AEX指數小幅上漲0.05%，在科技股整體疲軟的背景下，半導體裝置企業ASM國際跌超6%，不過化工集團IMCD上漲9%，部分抵消了科技板塊的拖累。西班牙IBEX35指數跌0.65%。"
     }
   ]
 }
