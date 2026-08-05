@@ -1,7 +1,157 @@
 {
-  "updated": "2026-08-05 15:52:59",
-  "count": 17880,
+  "updated": "2026-08-05 15:56:54",
+  "count": 17884,
   "items": [
+    {
+      "id": "5026303",
+      "time": "2026-08-05 15:56:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻海月度銷售額增長54% 得益於AI產品需求強勁】鴻海報告月度銷售額增長54.2%，顯示全球人工智慧AI基礎設施建設需求持續旺盛。鴻海週三在宣告中稱，7月營收攀升至9,465億元新臺幣（293億美元）。分析師平均預期，截至9月的三個月銷售額將增長31.2%。鴻海預計第三季度整體運營環比和同比均實現增長。作為英偉達公司伺服器組裝夥伴的鴻海曾表示，預計本季度人工智慧機架的出貨量將保持增長勢頭，而資訊通訊技術產品的需求正進入旺季。鴻海（富士康）在4月至6月期間的營收增長超出預期，達到40%，並透過組裝搭載英偉達加速器的伺服器，確立了其作為AI硬體關鍵供應商的地位。"
+    },
+    {
+      "id": "5026302",
+      "time": "2026-08-05 15:55:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“估值院長”發出警告：AI熱潮已見頂 相關股票將面臨更多回撥】紐約大學斯特恩商學院教授、被譽為“估值院長”的‌阿斯沃思·達莫達蘭警告AI熱潮已見頂，小型AI公司抗風險能力弱最易受衝擊。他表示，AI的發展高峰已經過去幾個月了，未來幾個月還會出現更多的整合和調整。達莫達蘭還稱，超大規模資料中心——即在人工智慧領域投入巨資的科技巨頭群體是該領域“最安全”的公司。"
+    },
+    {
+      "id": "mkt:019fd0eb-4d2f-7aab-8f85-5b93c782b7a7",
+      "time": "2026-08-05 15:55:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany July services PMI (final) 49.8 vs 49.6 expected and 49.6 prior; remains below 50, indicating continued contraction."
+    },
+    {
+      "id": "mkt:019fd0eb-47a1-7aab-8f85-572f59ad2933",
+      "time": "2026-08-05 15:55:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Germany July final composite PMI 51.3, vs 51.2 expected and 51.2 prior."
+    },
+    {
+      "id": "mkt:019fd0eb-2bb9-7aab-8f85-4b702f628d6d",
+      "time": "2026-08-05 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Services PMI Final (Jul) | actual 49.8 | consensus 49.6 | previous 49.6"
+    },
+    {
+      "id": "mkt:019fd0eb-2bae-7aab-8f85-40c01498d250",
+      "time": "2026-08-05 15:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Composite PMI Final (Jul) | actual 51.3 | consensus 51.2 | previous 51.2"
+    },
+    {
+      "id": "5026301",
+      "time": "2026-08-05 15:54:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯武裝部隊的人員數量增加了27,000人，以組建獨立的軍事建設單位。這將提高軍事建設綜合體的效率。"
+    },
+    {
+      "id": "mkt:019fd0ea-ff15-7aab-8f85-380ba85e0217",
+      "time": "2026-08-05 15:54:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry said the armed forces increased personnel by 27,000 to form independent military-construction units."
+    },
+    {
+      "id": "5026300",
+      "time": "2026-08-05 15:54:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國天楹：控股股東擬增持5000萬至1億元】中國天楹8月5日公告稱，公司控股股東南通乾創計劃自公告披露之日起3個月內，透過集中競價、大宗交易等方式增持公司股份，增持金額不低於5000萬元(含)，不超過1億元(含)。增持計劃不設價格區間，資金來源為自有資金和自籌資金。此外，南通乾創已獲平安銀行深圳分行出具的《貸款承諾函》，提供不超過9000萬元的股票增持專項貸款，期限3年。本次增持旨在維護股東利益，提升投資者信心。"
+    },
+    {
+      "id": "mkt:019fd0ea-56d6-7aab-8f85-30578c526f96",
+      "time": "2026-08-05 15:54:06",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "【Foxconn July revenue hits record NT$946.5 bln; first month above NT$900 bln】Foxconn reported July revenue of NT$946.5 billion, a monthly record and the first month above NT$900 billion, up 15.18% MoM and 54.19% YoY. Jan–Jul revenue totaled NT$5.58 trillion, a period high, up 37.89% YoY. For Q3 the company expects continued growth in AI server cabinets and a seasonal H2 pickup in ICT products, and said overall operations should show both sequential and year-on-year gains, while warning that evolving global conditions still warrant close monitoring."
+    },
+    {
+      "id": "te:markets:572929",
+      "time": "2026-08-05 15:54:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Advances to Fresh Peaks — The DAX 40 continued its recent upward trend on Wednesday, rising 0.6% to fresh record highs above 26,300, amid growing optimism over a potential US-Iran agreement. Washington, Tehran, and Oman are reportedly nearing a temporary 60-day agreement to regulate passage through the Strait of Hormuz, according to the Axios. In the meantime, the earnings season continues at full speed. Siemens Energy advanced 2.9%, after the company significantly increased its revenue and profit in the third quarter, exceeding analysts' expectations."
+    },
+    {
+      "id": "te:markets:572928",
+      "time": "2026-08-05 15:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Rises as Traders Weigh Middle East Developments — Crude oil rose to around $76 per barrel on Wednesday, snapping a two-day decline after Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Separately, Saudi Arabia reportedly held talks with Yemen's Houthi movement through Omani mediators in an effort to prevent the conflict from escalating."
+    },
+    {
+      "id": "5026298",
+      "time": "2026-08-05 15:53:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達10億港元。"
+    },
+    {
+      "id": "5026297",
+      "time": "2026-08-05 15:53:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾德股份在成都成立光儲新能源公司】企查查APP顯示，近日，諾德光儲新能源（成都）有限公司成立，法定代表人為詹佳武，註冊資本為1000萬元，經營範圍包含：太陽能發電技術服務；節能管理服務；光伏發電裝置租賃；光伏裝置及元器件銷售；風力發電技術服務等。企查查股權穿透顯示，該公司由諾德股份旗下諾德智慧能源管理有限公司全資持股。"
+    },
+    {
+      "id": "te:markets:572925",
+      "time": "2026-08-05 15:52:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Rises as Markets Weigh Supply, Peace Hopes — Brent crude oil rose to around $80 per barrel on Wednesday, snapping a two-day decline after Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Separately, Saudi Arabia reportedly held talks with Yemen's Houthi movement through Omani mediators in an effort to prevent the conflict from escalating."
+    },
     {
       "id": "te:economy:572924",
       "time": "2026-08-05 15:52:11",
@@ -165478,105 +165628,6 @@
         "公司"
       ],
       "text": "【中鐵工業：2026年上半年新籤合同額同比下降5.26%】中鐵工業公告，公司2026年1-6月新籤合同額合計202.83億元，同比下降5.26%。其中，境內新籤合同額168.35億元，同比下降13.76%；境外新籤合同額34.48億元，同比增長82.44%。專用工程機械裝備及相關服務新籤合同額67.73億元，同比增長8.74%；交通運輸裝備及相關服務新籤合同額115.33億元，同比下降16.34%。此外，公司2026年第二季度重大合同簽約金額合計7.47億元。"
-    },
-    {
-      "id": "5013971",
-      "time": "2026-07-29 15:56:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【孟加拉國液化天然氣接收站裝置故障，官方預警天然氣供應短缺】孟加拉國國營天然氣企業於週三釋出宣告表示，一處液化天然氣（LNG）接收站出現技術故障，塔斯燃氣輸配管網使用者將遭遇供氣壓力不足問題。此次故障導致天然氣日供氣量減少約 4.5 億立方英尺。塔斯燃氣未說明供氣恢復時間。"
-    },
-    {
-      "id": "mkt:019facdf-dfe7-7aab-8ee2-7cbc8167f061",
-      "time": "2026-07-29 15:56:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【T. Rowe Price: yen strength requires multiple factors】T. Rowe Price portfolio manager Vincent Chung said the Bank of Japan (BoJ) is expected to hold rates on Friday but may signal a faster tightening pace than the previously implied roughly one hike every six months. He said markets view BoJ policy as lagging; if the BoJ accelerates normalization he expects possibly two more hikes this year, and that durable, meaningful yen appreciation would likely need faster BoJ tightening, lower energy prices and more coordinated FX intervention."
-    },
-    {
-      "id": "5013970",
-      "time": "2026-07-29 15:55:40",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【聯訊儀器：更換首次公開發行股票持續督導保薦代表人】聯訊儀器公告稱，公司首次公開發行股票並上市的保薦人為中信證券，原委派趙耀、孟碩為保薦代表人，法定持續督導期至2029年12月31日。因孟碩工作變動，不再擔任持續督導保薦代表人，中信證券委派周歡接替，變更後持續督導保薦代表人為趙耀和周歡，持續督導期至規定的持續督導義務結束為止。"
-    },
-    {
-      "id": "5013969",
-      "time": "2026-07-29 15:55:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【西部黃金：子公司停產順延復產 暫不影響整體業績】西部黃金公告稱，全資子公司百源豐和蒙新天霸因查出多項安全隱患，於6月30日起停產整改。經綜合評估，公司決定順延原定復產時間，待隱患清零、完成驗收後復產，蒙新天霸選廠作業正常。百源豐和蒙新天霸2025年營收分別為4.89億元、0.66億元，淨利潤分別為1.30億元、0.26億元。目前公司錳礦石庫存充足，可滿足生產需求，停產暫不會對日常經營及整體業績產生較大不利影響。"
-    },
-    {
-      "id": "5013968",
-      "time": "2026-07-29 15:55:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國前總統尹錫悅被吊銷律師資格】總檯記者獲悉，據韓國法律界29日透露，由於前總統尹錫悅涉嫌妨礙逮捕案三審被判有期徒刑7年的判決日前生效，大韓律師協會取消了尹錫悅的律師執業證書。（央視新聞）"
-    },
-    {
-      "id": "te:markets:570687",
-      "time": "2026-07-29 15:54:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Hit New 3-Week High — The CAC 40 gained 0.3% to 8,481 on Wednesday, extending its winning streak to a fourth consecutive session and reaching its highest level in over three weeks, as strong earnings reports and corporate updates boosted investor sentiment. Luxury stocks led the advance, with LVMH climbing 3.1% after reporting quarterly sales broadly in line with expectations, while Kering surged 11.3% to its highest level since early February after Gucci delivered better-than-expected sales. Meanwhile, Legrand added 1.7% after raising its sales guidance, citing continued robust investment in artificial intelligence infrastructure. On the downside, Hermès fell 2.5% despite reporting sales growth that met market forecasts, as investors focused on the lack of a meaningful recovery in China. Danone also dropped 3.7% after reporting higher second-quarter sales, as the increase was driven primarily by price hikes rather than stronger volumes."
-    },
-    {
-      "id": "5013967",
-      "time": "2026-07-29 15:53:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆瑞醫藥新設醫藥子公司 註冊資本5000萬元】企查查APP顯示，近日，浙江恆瑞醫藥有限公司成立，法定代表人為戴洪斌，註冊資本為5000萬元，經營範圍包含：醫學研究和試驗發展；藥品批發；藥品零售；藥品委託生產等。企查查股權穿透顯示，該公司由恆瑞醫藥全資持股。"
-    },
-    {
-      "id": "mkt:019facdd-3082-7aab-8ee2-7059dfa5670c",
-      "time": "2026-07-29 15:53:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Confirmed Ebola cases in the Democratic Republic of Congo (DRC) rose to 3,360, including 1,487 deaths."
-    },
-    {
-      "id": "5013966",
-      "time": "2026-07-29 15:53:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果（金）：已確認的埃博拉病例數升至3,360例，其中包括1,487例死亡。"
-    },
-    {
-      "id": "5013965",
-      "time": "2026-07-29 15:53:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "愛馬仕首席財務官表示：中東衝突對增長造成的影響與第一季度一致，均為1.5個百分點。"
-    },
-    {
-      "id": "5013964",
-      "time": "2026-07-29 15:53:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國敦促日本如實介紹強徵勞工史實】韓國常駐聯合國教科文組織代表金知熙敦促日本遵守自身承諾，向世人如實介紹位於日本新潟縣的佐渡金山等明治時代工業革命遺產所在地曾強徵朝鮮半島勞工的歷史事實。世界遺產委員會曾多次要求日方詳細介紹明治時代工業革命設施的整體歷史，但日方至今沒有全面落實委員會的要求。（央視新聞）"
     }
   ]
 }
