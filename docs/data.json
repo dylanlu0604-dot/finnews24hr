@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-06 02:41:00",
-  "count": 17859,
+  "updated": "2026-08-06 02:44:51",
+  "count": 17840,
   "items": [
+    {
+      "id": "mkt:019fd33d-b4f8-7aab-8f92-f4466b431b30",
+      "time": "2026-08-06 02:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Ghana's 2025 gold-buying program lost $1.9bn】An IMF report says the Bank of Ghana's 2025 domestic gold-purchase program lost 220 billion cedi (≈$1.9bn), driven mainly by service fees, assay costs and trading spreads. The government set up GoldBod in 2025 as the sole authorized buyer for artisanal and small-scale miner gold; GoldBod executed purchases using central-bank-provided funds as part of an FX reserve accumulation strategy. The program raised Ghana's international reserves by $3.9bn to $11.9bn at end-2025, but the related losses expanded the central bank's negative net worth to the equivalent of 6.7% of GDP, the IMF said."
+    },
+    {
+      "id": "5027433",
+      "time": "2026-08-06 02:43:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶79.45美元，上漲9美分，漲幅0.11%。"
+    },
+    {
+      "id": "mkt:019fd33a-7914-7aab-8f92-eb5690175c38",
+      "time": "2026-08-06 02:40:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said adversaries attempted to impose on Iran the same fate as Syria through war and sanctions, and that the Iranian people's resilience and determination have thwarted those plots."
+    },
     {
       "id": "mkt:019fd339-e677-7aab-8f92-e41d6892ebd6",
       "time": "2026-08-06 02:40:14",
@@ -9,6 +33,14 @@
         "MKT News"
       ],
       "text": "【Mass shooting at North Carolina residence leaves multiple dead and injured, SBI says】A mass shooting at a residence in Caswell County, North Carolina, on Aug. 5 left multiple people dead and injured, the North Carolina State Bureau of Investigation (SBI) said. County officers who responded to a morning call found several gunshot victims; one was taken to hospital in unknown condition and several others were dead. SBI said the public is not at risk and the incident was confined to the residence."
+    },
+    {
+      "id": "5027432",
+      "time": "2026-08-06 02:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國北卡羅來納州發生大規模槍擊事件 多人傷亡】美國北卡羅來納州一處住宅發生大規模槍擊事件，造成多人傷亡。北卡羅來納州調查局（SBI）在一份新聞稿中稱，卡斯韋爾縣的警員當天上午接到報警，隨後趕往現場。據悉，警員在現場發現了多名中槍者，其中一人被送往醫院，傷情不明，另有多人死亡。北卡羅來納州調查局表示，目前公眾沒有受到威脅，槍擊事件僅限於該住宅內。"
     },
     {
       "id": "5027431",
@@ -164652,243 +164684,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Federal Reserve Chair Kevin Warsh said June core CPI will have little impact on policy decisions."
-    },
-    {
-      "id": "5015020",
-      "time": "2026-07-30 02:44:42",
-      "tags": [
-        "資料",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：6月的核心CPI資料對決策影響不大。"
-    },
-    {
-      "id": "mkt:019faf31-7498-7aab-8ef4-2db52f6dbb2d",
-      "time": "2026-07-30 02:44:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said he believes this is the right team to address high inflation."
-    },
-    {
-      "id": "5015019",
-      "time": "2026-07-30 02:44:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們收到部分通脹資料有所好轉，後續一段時間內將持續密切觀察。"
-    },
-    {
-      "id": "mkt:019faf31-3ab5-7aab-8ef4-24af06486b7a",
-      "time": "2026-07-30 02:44:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said dissenting votes did not fully reflect the substance of the discussion."
-    },
-    {
-      "id": "5015018",
-      "time": "2026-07-30 02:44:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 關鍵在於趨勢走向。"
-    },
-    {
-      "id": "5015017",
-      "time": "2026-07-30 02:44:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 資料依賴策略的癥結，在於資料本身以及這種依賴模式。"
-    },
-    {
-      "id": "mkt:019faf30-e42d-7aab-8ef4-19b4f3ef75e1",
-      "time": "2026-07-30 02:44:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said it was a positive and robust discussion."
-    },
-    {
-      "id": "mkt:019faf30-bf70-7aab-8ef4-1214e0dac6a1",
-      "time": "2026-07-30 02:43:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed actively discussed a range of options for the future."
-    },
-    {
-      "id": "5015016",
-      "time": "2026-07-30 02:43:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：積極討論了今後所有可能的選擇。"
-    },
-    {
-      "id": "5015015",
-      "time": "2026-07-30 02:43:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 異議投票無法完整體現討論的實質。我們做出的決定得到了絕大多數人的支援。"
-    },
-    {
-      "id": "mkt:019faf30-7427-7aab-8ef4-08ed199fcaed",
-      "time": "2026-07-30 02:43:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said the decision had the support of an overwhelming majority."
-    },
-    {
-      "id": "mkt:019faf30-4fbb-7aab-8ef4-005dce937237",
-      "time": "2026-07-30 02:43:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "Fed chair Kevin Warsh said he hears broad agreement and that the Fed has the ability to achieve price stability."
-    },
-    {
-      "id": "mkt:019faf30-4970-7aab-8ef3-fb0f3511cee5",
-      "time": "2026-07-30 02:43:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed chair Kevin Warsh reaffirms 2% inflation target, denies 'soft target'】Fed chair Kevin Warsh opened the press briefing by reiterating the Fed's firm commitment to a 2% YoY inflation target and saying the central bank will be steadfast in achieving price stability. He called withholding forward guidance amid current uncertainty a 'prudent' approach and stressed there is no 'soft inflation target' or other implicit goals — 2% is the sole target. Warsh described the US economy as 'impressively resilient', saying it has withstood recent shocks and the underlying trend remains positive."
-    },
-    {
-      "id": "mkt:019faf2f-fd26-7aab-8ef3-f71ce6fe4a8b",
-      "time": "2026-07-30 02:43:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates"
-      ],
-      "text": "Fed chair Kevin Warsh said he sought an internal debate, and one occurred."
-    },
-    {
-      "id": "5015014",
-      "time": "2026-07-30 02:43:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我期待一場充分坦誠的內部激烈辯論，而這場辯論如期而至。討論氣氛熱烈、交鋒充分。"
-    },
-    {
-      "id": "5015013",
-      "time": "2026-07-30 02:42:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我聽到不少共識觀點，即我們具備實現物價穩定的政策能力。"
-    },
-    {
-      "id": "5015012",
-      "time": "2026-07-30 02:42:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克100指數轉漲，抹去了此前多達1.8%的跌幅。"
-    },
-    {
-      "id": "mkt:019faf2e-fea1-7aab-8ef3-ec97bad118ba",
-      "time": "2026-07-30 02:42:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair KEVIN WARSH said interpreting the market is difficult to do perfectly."
-    },
-    {
-      "id": "mkt:019faf2e-e0da-7aab-8ef3-e5fa1e9d5d87",
-      "time": "2026-07-30 02:41:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "Fed chair Kevin Warsh: The Treasury market also appears to be signaling that."
-    },
-    {
-      "id": "mkt:019faf2e-9d9d-7aab-8ef3-dcbf98a7059e",
-      "time": "2026-07-30 02:41:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said economic output is robust and the labor market remains strong and stable."
-    },
-    {
-      "id": "5015011",
-      "time": "2026-07-30 02:41:30",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：這也是為何近 42 天我們並未出臺太多政策，但名義利率與實際利率仍出現相應變動。"
-    },
-    {
-      "id": "mkt:019faf2e-6240-7aab-8ef3-d546e5ee40e8",
-      "time": "2026-07-30 02:41:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed is monitoring rising yields and is trying to remain on the sidelines."
-    },
-    {
-      "id": "5015010",
-      "time": "2026-07-30 02:41:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美債市場似乎也釋放出相同訊號。"
     }
   ]
 }

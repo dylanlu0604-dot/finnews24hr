@@ -1,7 +1,31 @@
 {
   "date": "2026-08-06",
-  "count": 192,
+  "count": 196,
   "items": [
+    {
+      "id": "mkt:019fd33d-b4f8-7aab-8f92-f4466b431b30",
+      "time": "2026-08-06 02:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Ghana's 2025 gold-buying program lost $1.9bn】An IMF report says the Bank of Ghana's 2025 domestic gold-purchase program lost 220 billion cedi (≈$1.9bn), driven mainly by service fees, assay costs and trading spreads. The government set up GoldBod in 2025 as the sole authorized buyer for artisanal and small-scale miner gold; GoldBod executed purchases using central-bank-provided funds as part of an FX reserve accumulation strategy. The program raised Ghana's international reserves by $3.9bn to $11.9bn at end-2025, but the related losses expanded the central bank's negative net worth to the equivalent of 6.7% of GDP, the IMF said."
+    },
+    {
+      "id": "5027433",
+      "time": "2026-08-06 02:43:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶79.45美元，上漲9美分，漲幅0.11%。"
+    },
+    {
+      "id": "mkt:019fd33a-7914-7aab-8f92-eb5690175c38",
+      "time": "2026-08-06 02:40:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said adversaries attempted to impose on Iran the same fate as Syria through war and sanctions, and that the Iranian people's resilience and determination have thwarted those plots."
+    },
     {
       "id": "mkt:019fd339-e677-7aab-8f92-e41d6892ebd6",
       "time": "2026-08-06 02:40:14",
@@ -9,6 +33,14 @@
         "MKT News"
       ],
       "text": "【Mass shooting at North Carolina residence leaves multiple dead and injured, SBI says】A mass shooting at a residence in Caswell County, North Carolina, on Aug. 5 left multiple people dead and injured, the North Carolina State Bureau of Investigation (SBI) said. County officers who responded to a morning call found several gunshot victims; one was taken to hospital in unknown condition and several others were dead. SBI said the public is not at risk and the incident was confined to the residence."
+    },
+    {
+      "id": "5027432",
+      "time": "2026-08-06 02:39:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國北卡羅來納州發生大規模槍擊事件 多人傷亡】美國北卡羅來納州一處住宅發生大規模槍擊事件，造成多人傷亡。北卡羅來納州調查局（SBI）在一份新聞稿中稱，卡斯韋爾縣的警員當天上午接到報警，隨後趕往現場。據悉，警員在現場發現了多名中槍者，其中一人被送往醫院，傷情不明，另有多人死亡。北卡羅來納州調查局表示，目前公眾沒有受到威脅，槍擊事件僅限於該住宅內。"
     },
     {
       "id": "5027431",
