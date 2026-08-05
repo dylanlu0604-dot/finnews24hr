@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-06 05:54:43",
-  "count": 17511,
+  "updated": "2026-08-06 05:58:31",
+  "count": 17507,
   "items": [
+    {
+      "id": "5027519",
+      "time": "2026-08-06 05:57:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們必須讓共和黨參議員態度更強硬。"
+    },
     {
       "id": "mkt:019fd3e8-e4cd-7aab-8f94-b10b6b031c00",
       "time": "2026-08-06 05:51:23",
@@ -161259,54 +161267,6 @@
         "Importance 1"
       ],
       "text": "Mexican Peso Steady After Fed Decision — The Mexican peso held steady at 17.44 per USD in late July after the Federal Reserve left interest rates unchanged, a decision that weakened the US dollar as roughly one-third of investors had expected a rate hike. Mexico continued to benefit from a wide interest rate differential, with Banxico's policy rate at 6.50% versus the Fed's 3.50%-3.75% range, although further Fed tightening could narrow the peso's yield advantage. Investors also viewed Mexico's trade position favorably after the US announced new tariffs on imports from about 60 economies. Goods that comply with USMCA rules of origin will remain exempt from the new measures, preserving Mexico's preferential access to the US market. Meanwhile, Mexico's trade surplus widened to $4.09 billion in June from $0.51 billion a year earlier, well above forecasts of $2.28 billion."
-    },
-    {
-      "id": "5015289",
-      "time": "2026-07-30 05:58:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺7月30日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "5015288",
-      "time": "2026-07-30 05:58:06",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "微軟首席財務官表示，全年雲業務營收突破2140億美元，其中近90%來自前沿模型公司以外的客戶。"
-    },
-    {
-      "id": "mkt:019fafe2-1225-7aab-8efa-2cbfea5a9811",
-      "time": "2026-07-30 05:57:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) CFO said fourth-quarter contract backlog excluding OpenAI increased 25%."
-    },
-    {
-      "id": "5015287",
-      "time": "2026-07-30 05:57:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "微軟首席財務官：剔除OpenAI影響，第四季度合同積壓增長25%。"
-    },
-    {
-      "id": "5015286",
-      "time": "2026-07-30 05:54:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta執行長表示，未來計劃同時採用開源和閉源AI模型。"
     }
   ]
 }
