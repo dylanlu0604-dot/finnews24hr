@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-06 02:44:51",
-  "count": 17840,
+  "updated": "2026-08-06 02:48:46",
+  "count": 17810,
   "items": [
+    {
+      "id": "5027436",
+      "time": "2026-08-06 02:48:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加310億立方英尺。"
+    },
+    {
+      "id": "mkt:019fd340-fdd8-7aab-8f92-f9d881816395",
+      "time": "2026-08-06 02:47:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's president says communication with the supreme leader is currently 'very difficult'."
+    },
+    {
+      "id": "5027435",
+      "time": "2026-08-06 02:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝再稱襲擊沙特油輪】葉門胡塞武裝當地時間8月5日晚表示，在亞丁灣對一艘沙特油輪發射導彈。據稱“導彈擊中目標，迫使該油輪返航”。胡塞武裝在宣告中稱，此次襲擊是執行針對沙特的“海上航運禁令”、落實“以封鎖回應封鎖”措施的一部分。胡塞武裝“將持續監視所有沙特油輪動態，在相關封鎖解除前，不允許沙特油輪經紅海南北航線通行。” 當天早些時候，胡塞武裝還稱對沙特紅海港口城市延布附近的一艘沙特油輪發動導彈襲擊。 沙特方面尚未證實這兩起事件。胡塞武裝發言人未說明襲擊發生的具體時間。（CCTV國際時訊）"
+    },
+    {
+      "id": "5027434",
+      "time": "2026-08-06 02:46:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統稱，目前他與伊朗最高領袖的溝通“非常困難”。"
+    },
     {
       "id": "mkt:019fd33d-b4f8-7aab-8f92-f4466b431b30",
       "time": "2026-08-06 02:44:24",
@@ -164351,339 +164384,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什： 我們將實現 2% 通脹目標。"
-    },
-    {
-      "id": "5015034",
-      "time": "2026-07-30 02:48:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 外界存在一種誤解，認為我們對於略微上調通脹目標具備更高容忍度。"
-    },
-    {
-      "id": "mkt:019faf35-1cd7-7aab-8ef4-aedd7b3a2163",
-      "time": "2026-07-30 02:48:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Fed chair KEVIN WARSH: June core CPI has limited impact on policy decisions】Fed chair KEVIN WARSH said the three dissenting votes at today’s meeting did not reflect the substance of discussion and that the committee’s decision had broad support. He said June core CPI is unlikely to materially affect policy, that the Fed will consult its inflation task force in the coming weeks, and that some recent inflation readings were encouraging. Warsh said the Fed will closely monitor inflation trends as it approaches important policy decisions."
-    },
-    {
-      "id": "5015033",
-      "time": "2026-07-30 02:48:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：依我個人判斷，現階段應當審慎研判，而非被動觀望等待。"
-    },
-    {
-      "id": "mkt:019faf34-ad1a-7aab-8ef4-a57baaf10cd4",
-      "time": "2026-07-30 02:48:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said in his view this is a period that requires vigilance and careful deliberation."
-    },
-    {
-      "id": "5015032",
-      "time": "2026-07-30 02:48:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）週四報告預計，上週美國天然氣庫存增加 350 億立方英尺。"
-    },
-    {
-      "id": "mkt:019faf34-6ee6-7aab-8ef4-9fc2f1905f91",
-      "time": "2026-07-30 02:47:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Dollar index DXY slid below 101, its weakest since July 23."
-    },
-    {
-      "id": "5015030",
-      "time": "2026-07-30 02:47:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4090美元/盎司，日內漲1.59%。"
-    },
-    {
-      "id": "mkt:019faf34-219e-7aab-8ef4-9401a9222b61",
-      "time": "2026-07-30 02:47:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Federal Reserve will continue to monitor market signals."
-    },
-    {
-      "id": "5015029",
-      "time": "2026-07-30 02:47:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 大範圍討論顯示，各方在核心難題上達成諸多共識。討論表明大家對難題有很多共識。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825513478",
-      "time": "2026-07-30 02:47:34",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，市場價格是政策影響經濟的眾多途徑之一。"
-    },
-    {
-      "id": "mkt:019faf34-06f2-7aab-8ef4-8bafdfe015ea",
-      "time": "2026-07-30 02:47:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed chair Kevin Warsh said discussions produced broad consensus on thorny issues."
-    },
-    {
-      "id": "mkt:019faf33-fba2-7aab-8ef4-8389a5ce0565",
-      "time": "2026-07-30 02:47:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said market prices are one of several channels through which monetary policy affects the economy."
-    },
-    {
-      "id": "5015028",
-      "time": "2026-07-30 02:47:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我們將持續關注該市場資訊， 這將為我們 7 至 8 周後的政策決策提供參考依據。"
-    },
-    {
-      "id": "mkt:019faf33-6d7f-7aab-8ef4-7c2c87a586c6",
-      "time": "2026-07-30 02:46:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said markets have already made a judgment."
-    },
-    {
-      "id": "5015027",
-      "time": "2026-07-30 02:46:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：在接下來的時間我們會有重要的決定要做。"
-    },
-    {
-      "id": "mkt:019faf33-3d77-7aab-8ef4-76fb63e289b5",
-      "time": "2026-07-30 02:46:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said today's interest rates are higher than 42 days ago."
-    },
-    {
-      "id": "5015026",
-      "time": "2026-07-30 02:46:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 在此期間，市場需要做出諸多判斷。"
-    },
-    {
-      "id": "5015025",
-      "time": "2026-07-30 02:46:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4150美元/盎司，日內漲1.27%。"
-    },
-    {
-      "id": "mkt:019faf33-0d0e-7aab-8ef4-6bb052b24b9d",
-      "time": "2026-07-30 02:46:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman KEVIN WARSH said he would not say the Fed is overly reliant on any single data point."
-    },
-    {
-      "id": "te:markets:570849",
-      "time": "2026-07-30 02:46:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls Following Jobs Data and Fed Decision — The Ibovespa fell more than 1% to trade below 175,500 on Wednesday as investors digested stronger-than-expected Brazilian labor market data and the Federal Reserve's policy decision. Brazil created a net 145,161 formal jobs in June, above market expectations of 115,000, reinforcing the resilience of the labor market and supporting expectations for a more hakwish BCB. The Fed left interest rates unchanged, as expected, though three FOMC members favored a rate hike, adding to concerns that global rates could remain higher for longer. Financials posted declines, with Itaú and Bradesco down 2%, Itaúsa losing 1.5%, and B3 falling 3%. Santander tumbled 7% after missing ROE expectations, while Axia lost more than 1% and Sabesp fell nearly 4%. Ambev erased earlier gains to trade 1% lower after its earnings-driven rally, while Vivo and TIM extended recent losses. Meanwhile, Petrobras added 2% on rising oil prices."
-    },
-    {
-      "id": "mkt:019faf32-d4e7-7aab-8ef4-6438348fea2d",
-      "time": "2026-07-30 02:46:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed faces important decisions in the period ahead."
-    },
-    {
-      "id": "mkt:019faf32-d064-7aab-8ef4-5dcd1929dac9",
-      "time": "2026-07-30 02:46:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed has received some encouraging inflation data and will monitor developments closely in the coming period."
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825513752",
-      "time": "2026-07-30 02:45:59",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，反對票無法完整體現委員會討論的實質內容。"
-    },
-    {
-      "id": "5015024",
-      "time": "2026-07-30 02:45:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 市場已然作出自身判斷。"
-    },
-    {
-      "id": "5015023",
-      "time": "2026-07-30 02:45:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 當前利率水平較 42 天前有所上行。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825513245",
-      "time": "2026-07-30 02:45:40",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席沃什：資本支出熱正推高人工智慧基礎設施的價格】美聯儲主席沃什：資本支出供應副作用的發生時間難以預測，資本支出熱正推高人工智慧基礎設施的價格。"
-    },
-    {
-      "id": "mkt:019faf32-4738-7aab-8ef4-57b49f438923",
-      "time": "2026-07-30 02:45:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the trend is what matters."
-    },
-    {
-      "id": "mkt:019faf32-4594-7aab-8ef4-4f187cf271b3",
-      "time": "2026-07-30 02:45:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the issue with data dependence is the data and the dependence itself."
-    },
-    {
-      "id": "5015022",
-      "time": "2026-07-30 02:45:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 我們不會單憑單一一項資料作為佐證依據。 我並不認為我們過度依賴單一資料。"
-    },
-    {
-      "id": "mkt:019faf31-f51f-7aab-8ef4-475e949864b8",
-      "time": "2026-07-30 02:45:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said he will consult with the inflation working group within weeks."
-    },
-    {
-      "id": "mkt:019faf31-d3a1-7aab-8ef4-3dcd7b95fa09",
-      "time": "2026-07-30 02:45:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed will monitor inf data over the coming period."
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825513185",
-      "time": "2026-07-30 02:45:05",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，6月的核心CPI資料對決策影響不大。"
-    },
-    {
-      "id": "5015021",
-      "time": "2026-07-30 02:44:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 不希望給外界留下我們正焦灼坐等最新資料出爐的印象。"
-    },
-    {
-      "id": "mkt:019faf31-9cf7-7aab-8ef4-30174c8975b1",
-      "time": "2026-07-30 02:44:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said June core CPI will have little impact on policy decisions."
     }
   ]
 }
