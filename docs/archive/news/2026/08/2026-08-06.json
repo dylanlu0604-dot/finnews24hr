@@ -1,7 +1,31 @@
 {
   "date": "2026-08-06",
-  "count": 212,
+  "count": 215,
   "items": [
+    {
+      "id": "mkt:019fd354-2b56-7aab-8f93-36bc23e87a6a",
+      "time": "2026-08-06 03:08:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention (CDC)."
+    },
+    {
+      "id": "5027444",
+      "time": "2026-08-06 03:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德： 已與美國國務卿魯比奧就重啟霍爾木茲海峽通航的重要性展開磋商。"
+    },
+    {
+      "id": "5027443",
+      "time": "2026-08-06 03:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院確認 Erica Schwartz 出任疾控中心主任。"
+    },
     {
       "id": "5027442",
       "time": "2026-08-06 03:03:48",

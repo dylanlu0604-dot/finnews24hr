@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-06 03:05:43",
-  "count": 17733,
+  "updated": "2026-08-06 03:09:42",
+  "count": 17711,
   "items": [
+    {
+      "id": "mkt:019fd354-2b56-7aab-8f93-36bc23e87a6a",
+      "time": "2026-08-06 03:08:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention (CDC)."
+    },
+    {
+      "id": "5027444",
+      "time": "2026-08-06 03:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣米利班德： 已與美國國務卿魯比奧就重啟霍爾木茲海峽通航的重要性展開磋商。"
+    },
+    {
+      "id": "5027443",
+      "time": "2026-08-06 03:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院確認 Erica Schwartz 出任疾控中心主任。"
+    },
     {
       "id": "5027442",
       "time": "2026-08-06 03:03:48",
@@ -163333,250 +163357,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：我們向監督委員會負責，並遵循國會授權。"
-    },
-    {
-      "id": "mkt:019faf48-5982-7aab-8ef6-34acce73751f",
-      "time": "2026-07-30 03:09:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said he hopes each working-group committee will include internal dissenting views."
-    },
-    {
-      "id": "5015097",
-      "time": "2026-07-30 03:09:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃爾什：希望每個委員會內部都能存在不同觀點，此舉意在觀察新想法能否推動在場各方展開更有成效的討論。"
-    },
-    {
-      "id": "mkt:019faf47-f62e-7aab-8ef6-2b8d0df3b3c0",
-      "time": "2026-07-30 03:09:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh, Federal Reserve chair, said we are the decision-makers."
-    },
-    {
-      "id": "5015096",
-      "time": "2026-07-30 03:09:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：希望每個委員會內部都能存在不同觀點。"
-    },
-    {
-      "id": "mkt:019faf47-ad53-7aab-8ef6-211873a1272d",
-      "time": "2026-07-30 03:08:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh, Federal Reserve chair, said he picked 15 subject-matter experts for a working group to examine five issues."
-    },
-    {
-      "id": "5015095",
-      "time": "2026-07-30 03:08:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "標普500指數轉跌，納斯達克100指數漲幅收窄。"
-    },
-    {
-      "id": "mkt:019faf47-8059-7aab-8ef6-1c6666b24c60",
-      "time": "2026-07-30 03:08:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Watch PCE after decision; FOMC may already have internal inflation read】Fed Chair KEVIN WARSH said he references a broader set of inflation indicators than PCE alone, though PCE remains the Fed's reference metric and will continue to be used. June core PCE, the Fed's preferred inflation gauge, is due Thursday 20:30 Beijing time. Committee members typically do not wait for the public print; they rely on staff estimates based on available information, and FOMC deliberations are driven by those internal analyses. Markets expect core PCE YoY 3.30% (prev. 3.40%). A print below expectations would lessen the urgency for additional rate hikes; an upside surprise would reinforce expectations for further tightening."
-    },
-    {
-      "id": "5015094",
-      "time": "2026-07-30 03:08:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃爾什：我們才是決策方。"
-    },
-    {
-      "id": "mkt:019faf47-4c65-7aab-8ef6-122342670a49",
-      "time": "2026-07-30 03:08:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said markets generally view the Federal Reserve as credible."
-    },
-    {
-      "id": "mkt:019faf47-349c-7aab-8ef6-0a05b0952638",
-      "time": "2026-07-30 03:08:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "KEVIN WARSH said markets, judging by the Treasury yield curve and the dollar, generally believe the FOMC has the situation under control and the credibility to deliver on its commitments."
-    },
-    {
-      "id": "5015093",
-      "time": "2026-07-30 03:08:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們投入了大量時間審視貨幣政策、政策工具以及我們所掌握的資料。"
-    },
-    {
-      "id": "5015092",
-      "time": "2026-07-30 03:08:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃爾什：我挑選了15名領域專家來解決5個問題。"
-    },
-    {
-      "id": "5015091",
-      "time": "2026-07-30 03:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普力推杜勒斯機場改造計劃。"
-    },
-    {
-      "id": "mkt:019faf46-5c4a-7aab-8ef6-07503b084c3b",
-      "time": "2026-07-30 03:07:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump ordered procurement of new equipment and a control tower at Dulles Airport."
-    },
-    {
-      "id": "5015090",
-      "time": "2026-07-30 03:07:19",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：如果觀察美國國債收益率曲線和美元走勢，這些市場訊號大體表明，聯邦公開市場委員會（FOMC）掌控著局面，且有公信力實現通脹目標。"
-    },
-    {
-      "id": "5015089",
-      "time": "2026-07-30 03:07:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "甲骨文公司股價在尾盤時段觸及盤中高點121.92美元，最新上漲0.7%，報120.85美元。"
-    },
-    {
-      "id": "5015088",
-      "time": "2026-07-30 03:06:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談杜勒斯機場：訂購新裝置、新塔臺。"
-    },
-    {
-      "id": "mkt:019faf45-d11c-7aab-8ef5-f9e4b4dbe19a",
-      "time": "2026-07-30 03:06:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said today's decision is about as far from \"inertia\" as I can imagine."
-    },
-    {
-      "id": "5015087",
-      "time": "2026-07-30 03:06:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：預計未來數月內相關政策研判思路將取得重大進展。"
-    },
-    {
-      "id": "5015086",
-      "time": "2026-07-30 03:06:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們今天做出的決定，與我能想象的無所作為相去甚遠。"
-    },
-    {
-      "id": "5015085",
-      "time": "2026-07-30 03:06:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：儘管職責範圍有限，我的觀察視角比PCE更廣。"
-    },
-    {
-      "id": "mkt:019faf45-14d2-7aab-8ef5-f1a830f5e163",
-      "time": "2026-07-30 03:06:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed has spent substantial time reviewing its monetary policy, tools and available data."
-    },
-    {
-      "id": "5015084",
-      "time": "2026-07-30 03:05:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們已經花費了過多時間審視我們的貨幣政策、政策工具以及我們可獲取的資料。"
-    },
-    {
-      "id": "mkt:019faf44-c1d6-7aab-8ef5-ea2ca945cc64",
-      "time": "2026-07-30 03:05:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fed holds rates; TransUnion expects U.S. consumer credit recovery to continue】Charlie Wise, SVP at TransUnion Research & Consulting, said the Federal Reserve's decision to hold rates comes amid mixed signals from inflation, the labor market, consumer spending and overall growth. With rates stable, recent U.S. consumer credit trends are likely to persist: moderate loan growth and lenders maintaining prudent risk management, which should remain the market's prevailing stance in the near term. A steady-rate backdrop may also bolster borrower confidence and increase the likelihood that consumers who delayed big-ticket purchases such as homes and cars will resume financing decisions."
-    },
-    {
-      "id": "5015083",
-      "time": "2026-07-30 03:05:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普與交通部長共同發表宣告。"
     }
   ]
 }
