@@ -1,7 +1,65 @@
 {
   "date": "2026-08-05",
-  "count": 1438,
+  "count": 1444,
   "items": [
+    {
+      "id": "mkt:019fd06f-0820-7aab-8f82-51ea17025c96",
+      "time": "2026-08-05 13:39:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,150/oz, up 1.8% on the day."
+    },
+    {
+      "id": "5026066",
+      "time": "2026-08-05 13:38:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲1.79%。"
+    },
+    {
+      "id": "5026065",
+      "time": "2026-08-05 13:37:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內漲1.39%。"
+    },
+    {
+      "id": "te:economy:572845",
+      "time": "2026-08-05 13:37:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "India Services Growth Revised Slightly Higher — The HSBC India Services PMI was revised slightly higher to 53.3 in July 2026 from the preliminary estimate of 53.1 but remained well below June's final reading of 57.4. Still, the latest reading signaled the weakest expansion in business activity since early 2022, as output and new order growth slowed amid softer demand, competitive pressures, and fewer new enquiries. New business inflows rose at the weakest pace since February 2022. However, new export orders remained a bright spot, accelerating on stronger demand from the UAE, UK, and US. Employment improved, with service providers adding to payrolls at a faster pace after job creation slowed to a six-month low in June. On the price front, input cost inflation eased to its lowest since January, though selling charges rose at the fastest pace since April, pushing output price inflation higher. Lastly, business confidence weakened to a seven-month low despite expectations of improved demand and market conditions."
+    },
+    {
+      "id": "5026064",
+      "time": "2026-08-05 13:37:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰豪軟體：與海光資訊戰略合作 加速國產算力與能源產業融合】泰豪科技(600590)參股公司泰豪軟體官微訊息，近日，泰豪軟體與海光資訊正式簽署戰略合作協議。雙方圍繞國產算力在能源行業落地、技術合作與生態協同等議題開展了深度討論。雙方將全力探索國產算力與能源業務深度融合的創新路徑，攜手打造自主可控、安全可靠的能源數字化解決方案。"
+    },
+    {
+      "id": "mkt:019fd06b-a76f-7aab-8f82-4f03fad5d322",
+      "time": "2026-08-05 13:35:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "On Wednesday, Aug. 5, the Taiwan Stock Exchange Weighted Index (TAIEX) closed up 1,250.94 points, or 2.88%, at 44,611.6."
+    },
     {
       "id": "5026063",
       "time": "2026-08-05 13:35:08",

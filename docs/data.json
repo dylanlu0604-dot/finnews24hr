@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-05 13:36:04",
-  "count": 17880,
+  "updated": "2026-08-05 13:40:08",
+  "count": 17874,
   "items": [
+    {
+      "id": "mkt:019fd06f-0820-7aab-8f82-51ea17025c96",
+      "time": "2026-08-05 13:39:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,150/oz, up 1.8% on the day."
+    },
+    {
+      "id": "5026066",
+      "time": "2026-08-05 13:38:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲1.79%。"
+    },
+    {
+      "id": "5026065",
+      "time": "2026-08-05 13:37:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4210美元/盎司，日內漲1.39%。"
+    },
+    {
+      "id": "te:economy:572845",
+      "time": "2026-08-05 13:37:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "India Services Growth Revised Slightly Higher — The HSBC India Services PMI was revised slightly higher to 53.3 in July 2026 from the preliminary estimate of 53.1 but remained well below June's final reading of 57.4. Still, the latest reading signaled the weakest expansion in business activity since early 2022, as output and new order growth slowed amid softer demand, competitive pressures, and fewer new enquiries. New business inflows rose at the weakest pace since February 2022. However, new export orders remained a bright spot, accelerating on stronger demand from the UAE, UK, and US. Employment improved, with service providers adding to payrolls at a faster pace after job creation slowed to a six-month low in June. On the price front, input cost inflation eased to its lowest since January, though selling charges rose at the fastest pace since April, pushing output price inflation higher. Lastly, business confidence weakened to a seven-month low despite expectations of improved demand and market conditions."
+    },
+    {
+      "id": "5026064",
+      "time": "2026-08-05 13:37:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰豪軟體：與海光資訊戰略合作 加速國產算力與能源產業融合】泰豪科技(600590)參股公司泰豪軟體官微訊息，近日，泰豪軟體與海光資訊正式簽署戰略合作協議。雙方圍繞國產算力在能源行業落地、技術合作與生態協同等議題開展了深度討論。雙方將全力探索國產算力與能源業務深度融合的創新路徑，攜手打造自主可控、安全可靠的能源數字化解決方案。"
+    },
+    {
+      "id": "mkt:019fd06b-a76f-7aab-8f82-4f03fad5d322",
+      "time": "2026-08-05 13:35:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "On Wednesday, Aug. 5, the Taiwan Stock Exchange Weighted Index (TAIEX) closed up 1,250.94 points, or 2.88%, at 44,611.6."
+    },
     {
       "id": "5026063",
       "time": "2026-08-05 13:35:08",
@@ -165396,105 +165454,6 @@
         "公司"
       ],
       "text": "渣打銀行CEO表示，人工智慧將會並已經取代許多職位。"
-    },
-    {
-      "id": "5013732",
-      "time": "2026-07-29 13:39:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯頓·馬丁：核心訂單量保持穩定，Valhalla車型訂單交付將延續至2026年第四季度末。"
-    },
-    {
-      "id": "5013731",
-      "time": "2026-07-29 13:39:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞農業部長：H5型禽流感正在本地鳥類種群中傳播。"
-    },
-    {
-      "id": "5013730",
-      "time": "2026-07-29 13:38:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "保時捷公司上半年汽車交付量122,306輛，去年同期146,391輛。"
-    },
-    {
-      "id": "5013729",
-      "time": "2026-07-29 13:38:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳6月末銀行業資產總額15.31萬億元，同比增長9.56%】截至6月末，深圳銀行業資產總額15.31萬億元、負債總額14.92萬億元，分別同比增長9.56%、9.57%；各項存款餘額10.59萬億元、各項貸款餘額10.30萬億元，分別同比增長3.63%、4.75%。（介面新聞）"
-    },
-    {
-      "id": "5013728",
-      "time": "2026-07-29 13:38:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯頓·馬丁：2026年第二季度總批發量增長43%。"
-    },
-    {
-      "id": "5013727",
-      "time": "2026-07-29 13:37:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪恩汽電成立新公司，含AI及衛星相關業務】企查查APP顯示，近日，深圳市龍豪恩芯算資料技術有限公司成立，經營範圍包含：人工智慧通用應用系統；人工智慧行業應用系統整合服務；人工智慧應用軟體開發；衛星遙感資料處理；衛星遙感應用系統整合；衛星通訊服務等。企查查股權穿透顯示，該公司由豪恩汽電全資持股。"
-    },
-    {
-      "id": "5013726",
-      "time": "2026-07-29 13:37:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "保時捷上半年汽車業務銷售回報率為8.0%，去年同期為5.2%。"
-    },
-    {
-      "id": "5013725",
-      "time": "2026-07-29 13:36:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "渣打銀行執行長稱該行沒有“可觀察到的”信貸損失。"
-    },
-    {
-      "id": "5013724",
-      "time": "2026-07-29 13:36:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲2%，現報7499.60點。"
-    },
-    {
-      "id": "5013723",
-      "time": "2026-07-29 13:36:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中證1000股指期貨(IM)主力合約日內漲超2%】中證1000股指期貨(IM)主力合約日內漲超2%，現報7059.2點。"
-    },
-    {
-      "id": "5013722",
-      "time": "2026-07-29 13:36:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲2.01%，現報3393.925點；上證指數漲0.68%，現報3839.211點；深證成指漲1.42%，現報13701.939點。"
-    },
-    {
-      "id": "5013721",
-      "time": "2026-07-29 13:36:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長鑫科技午後持續上揚漲超10%】長鑫科技午後持續上揚，漲超10%，報51.70元，市值3.46萬億元。"
     }
   ]
 }
