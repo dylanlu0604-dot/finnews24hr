@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-06 02:09:02",
+  "updated": "2026-08-06 02:13:13",
   "count": 17924,
   "items": [
+    {
+      "id": "mkt:019fd320-785a-7aab-8f92-84bf6960fcd8",
+      "time": "2026-08-06 02:12:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi Arabia, Egypt, Turkey and Pakistan foreign ministers met in Amman and reiterated joint efforts to secure the Strait of Hormuz and the Bab al-Mandeb. They said ensuring safety of these waterways is vital to preserving supply chains and energy market stability."
+    },
+    {
+      "id": "te:markets:573110",
+      "time": "2026-08-06 02:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Shopify earnings above expectations at 0.42 USD — Shopify (SHOP) released earnings per share at 0.42 USD, compared to market expectations of 0.40 USD."
+    },
+    {
+      "id": "mkt:019fd31f-632c-7aab-8f92-78e22077014e",
+      "time": "2026-08-06 02:11:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) disclosed OpenAI accounts for about 70% of its AI sales; OpenAI generated $24.1 billion in revenue in fiscal 2026."
+    },
+    {
+      "id": "5027417",
+      "time": "2026-08-06 02:08:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價跌至盤中最低點1.5%。"
+    },
+    {
+      "id": "5027416",
+      "time": "2026-08-06 02:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟AI收入高度依賴OpenAI】據微軟最新披露檔案，微軟絕大部分人工智慧業務收入來源於OpenAI。在上一財年（截至6月底），微軟來自OpenAI相關業務的收入達241億美元，OpenAI貢獻超過微軟AI實際總收入的一半，估算佔比約70%，凸顯微軟對這家緊密合作伙伴的高度依賴。"
+    },
     {
       "id": "mkt:019fd31c-652f-7aab-8f92-74cdb8aee2de",
       "time": "2026-08-06 02:08:01",
@@ -165581,67 +165634,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Brent Crude Oil Spikes by 7.58% — Top commodity gainers are Brent Crude Oil (7.58%), Crude Oil WTI (6.78%) and Natural Gas EU (5.10%)."
-    },
-    {
-      "id": "mkt:019faf14-97be-7aab-8ef2-75aa538c95b5",
-      "time": "2026-07-30 02:13:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Vessel traffic at Santos, Brazil's largest port, has been temporarily suspended due to strong winds."
-    },
-    {
-      "id": "te:markets:570837",
-      "time": "2026-07-30 02:12:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Remain Lower After Fed — US stocks held most of their losses on Wednesday on further fragility for chip producers ahead of major tech earnings, while the Federal Reserve held rates unchanged. The S&P 500 and the Dow were slightly lower, while the Dow fell nearly 700 points. Microsoft and Meta were muted ahead of their earnings reports after the bell, the latest signal for AI infrastructure spending. Concerns that AI capital expenditure is being overdone recently pressured Magnificent 7 stocks and triggered a selloff for chip producers that trimmed their surge late last quarter. Micron, Applied Materials, and Sandisk sank between 2% and 5% amid the pessimistic results by SK Hynix. Meanwhile, the Fed held rates unchanged in the least certain meeting in the last 15 years, featuring three dissents for a hike. The Dow was pressured by a flare-up in oil prices following fresh strikes between Iran and the US, adding to pro-inflationary risks. Visa rebounded and gained 1% after posting growth in revenue last quarter."
-    },
-    {
-      "id": "5014971",
-      "time": "2026-07-30 02:11:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“新美聯儲通訊社” ：這是自2016年以來，美聯儲首次在同一次政策決議中出現三張方向一致的反對票。"
-    },
-    {
-      "id": "mkt:019faf11-00a0-7aab-8ef2-6ee294deedf5",
-      "time": "2026-07-30 02:09:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "After the Fed rate decision, non-dollar currencies strengthened: EUR/USD rose about 30 pips to a high of 1.1431, GBP/USD gained about 50 pips to 1.3346, and USD/JPY swung nearly 40 pips, trading as low as 163.44."
-    },
-    {
-      "id": "mkt:019faf10-f56d-7aab-8ef2-65149474003b",
-      "time": "2026-07-30 02:09:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Fed holds rates but internal split widens; statement unchanged from June】The Federal Reserve left rates unchanged for a fifth consecutive meeting, but dissent grew: Logan, Hamak and Kashkari voted against the decision, each favoring a 25bp hike. The committee’s post-meeting statement was otherwise identical to June and reiterated its commitment to achieving price stability. The dissents increase the challenge for new Fed chair Kevin Warsh to remain on hold if inflation concerns intensify. President Trump has repeatedly called for rate cuts, including on Monday; Warsh, nominated by Trump earlier this year, said he would insulate policy decisions from political influence."
     }
   ]
 }

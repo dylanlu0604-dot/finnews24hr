@@ -1,7 +1,60 @@
 {
   "date": "2026-08-06",
-  "count": 157,
+  "count": 162,
   "items": [
+    {
+      "id": "mkt:019fd320-785a-7aab-8f92-84bf6960fcd8",
+      "time": "2026-08-06 02:12:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi Arabia, Egypt, Turkey and Pakistan foreign ministers met in Amman and reiterated joint efforts to secure the Strait of Hormuz and the Bab al-Mandeb. They said ensuring safety of these waterways is vital to preserving supply chains and energy market stability."
+    },
+    {
+      "id": "te:markets:573110",
+      "time": "2026-08-06 02:12:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Shopify earnings above expectations at 0.42 USD — Shopify (SHOP) released earnings per share at 0.42 USD, compared to market expectations of 0.40 USD."
+    },
+    {
+      "id": "mkt:019fd31f-632c-7aab-8f92-78e22077014e",
+      "time": "2026-08-06 02:11:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) disclosed OpenAI accounts for about 70% of its AI sales; OpenAI generated $24.1 billion in revenue in fiscal 2026."
+    },
+    {
+      "id": "5027417",
+      "time": "2026-08-06 02:08:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "微軟股價跌至盤中最低點1.5%。"
+    },
+    {
+      "id": "5027416",
+      "time": "2026-08-06 02:08:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微軟AI收入高度依賴OpenAI】據微軟最新披露檔案，微軟絕大部分人工智慧業務收入來源於OpenAI。在上一財年（截至6月底），微軟來自OpenAI相關業務的收入達241億美元，OpenAI貢獻超過微軟AI實際總收入的一半，估算佔比約70%，凸顯微軟對這家緊密合作伙伴的高度依賴。"
+    },
     {
       "id": "mkt:019fd31c-652f-7aab-8f92-74cdb8aee2de",
       "time": "2026-08-06 02:08:01",
