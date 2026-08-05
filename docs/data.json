@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-05 20:24:16",
-  "count": 17903,
+  "updated": "2026-08-05 20:28:13",
+  "count": 17904,
   "items": [
+    {
+      "id": "mkt:019fd1e4-b8ca-7aab-8f8b-960fbea3536b",
+      "time": "2026-08-05 20:27:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS News reports Iran and Oman are negotiating a temporary plan to reopen the Strait of Hormuz that would waive transit and service fees for vessels."
+    },
+    {
+      "id": "5026999",
+      "time": "2026-08-05 20:27:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，由於無人機襲擊後引發安全擔憂及油輪短缺，CPC石油裝載在短暫恢復後已暫停。"
+    },
+    {
+      "id": "5026998",
+      "time": "2026-08-05 20:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬斯發言人哈齊姆・卡西姆：我方確認恪守此前與調解方及和平委員會就停火協議落實路線圖所達成的共識。"
+    },
+    {
+      "id": "5026997",
+      "time": "2026-08-05 20:26:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元融資吸引力減弱 但套息交易熱度不減】即便美日聯合干預匯市削弱了以日元融資的套息交易策略的吸引力，今年外匯市場最受歡迎的交易之一新興市場套息交易仍展現出較強韌性。自日本透過直接干預提振日元匯率以來，彭博新興市場外匯套息風險溢價指數累計下跌約1%，與G-10貨幣類似基準指標的跌幅大致相同。這與2024年8月形成鮮明對比，當時日元大幅升值，促使交易員爭相償還日元融資，導致全球市場劇烈震盪，新興市場套息交易指數一度下跌4%。市場反應相對溫和，緩解了外界對重演2024年套息交易崩盤的擔憂，也表明投資者已逐步降低對日元融資的依賴，轉而利用歐元和瑞郎等貨幣為新興市場高收益資產投資融資。儘管自匯市干預開始以來，巴西雷亞爾兌日元已下跌4%，但兌美元基本持平，兌歐元也僅下跌0.8%。"
+    },
+    {
+      "id": "5026996",
+      "time": "2026-08-05 20:26:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦7月進口額同比增長17.99%，7月出口同比增長9.54%。"
+    },
+    {
+      "id": "5026995",
+      "time": "2026-08-05 20:26:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦7月份貿易逆差為39.48億美元；預計為-40.7億美元。"
+    },
+    {
+      "id": "5026993",
+      "time": "2026-08-05 20:25:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "優步首席財務官表示，人工智慧帶來的生產率提升使得公司得以放緩增聘員工的節奏。"
+    },
+    {
+      "id": "5026992",
+      "time": "2026-08-05 20:24:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【MiniMax納入港股通，今日漲超10%】8月5日，港股通標的名單調整，MiniMax等多家標的調入，並自6日起生效。截至5日收盤時，MiniMax港股漲幅超10%。本週MiniMax開源了新一代通用多模態生成模型MiniMax H3，在Artificial Analysis影片編輯評測榜、Arena圖生影片排行榜中位列第一。（第一財經）"
+    },
+    {
+      "id": "5026991",
+      "time": "2026-08-05 20:24:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨表示，已下令軍方取消原定針對加沙邊境社群民防分隊現役預備役人員的縮編計劃。"
+    },
+    {
+      "id": "5026990",
+      "time": "2026-08-05 20:24:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【伊朗總統與哈馬斯領導人通話 表示支援巴勒斯坦人民】伊朗總統佩澤希齊揚5日與巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任政治局主席哈利勒·哈亞通電話，表示伊朗將盡一切可能支援和援助巴勒斯坦人民。據伊朗邁赫爾通訊社5日報道，佩澤希齊揚在通話中表示，巴勒斯坦問題在伊朗外交政策中佔據核心地位。他讚賞哈亞在協調巴勒斯坦各派別方面發揮的作用，表示伊朗支援巴方在與以色列談判程序中提出的倡議和決定。（新華社）"
+    },
     {
       "id": "5026989",
       "time": "2026-08-05 20:23:17",
@@ -165602,86 +165684,6 @@
         "MKT News"
       ],
       "text": "South Korea's Ministry of Economy and Finance said it will raise transaction costs on single-stock leveraged ETFs."
-    },
-    {
-      "id": "5014618",
-      "time": "2026-07-29 20:28:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：將提高單一股票槓桿型 ETF 的交易成本。"
-    },
-    {
-      "id": "5014617",
-      "time": "2026-07-29 20:26:32",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：將對單隻股票槓桿ETF的投資實施限額。"
-    },
-    {
-      "id": "mkt:019fadd6-ea76-7aab-8eea-40e086473f2e",
-      "time": "2026-07-29 20:26:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Finance Ministry said it will immediately introduce additional measures targeting single-stock leveraged ETFs."
-    },
-    {
-      "id": "mkt:019fadd6-aa10-7aab-8eea-393c74bb46b0",
-      "time": "2026-07-29 20:25:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Finance Ministry said it is considering raising transaction costs to curb speculative trading in ETFs."
-    },
-    {
-      "id": "mkt:019fadd6-42a3-7aab-8eea-37268be1cb23",
-      "time": "2026-07-29 20:25:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "U.S. President Trump said yesterday's Iranian attack was unexpected and U.S. forces had only minutes to intercept Iranian missiles."
-    },
-    {
-      "id": "mkt:019fadd5-ed54-7aab-8eea-2e0c43b76e0b",
-      "time": "2026-07-29 20:25:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ENI CEO said the company is in very good talks with Venezuela's state oil company PDVSA and potential U.S. partners."
-    },
-    {
-      "id": "5014616",
-      "time": "2026-07-29 20:24:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國考慮提高交易成本以抑制ETF投機行為。"
-    },
-    {
-      "id": "mkt:019fadd5-af7e-7aab-8eea-21dbf6bae301",
-      "time": "2026-07-29 20:24:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister says the government will maintain a 24-hour stock market monitoring system."
-    },
-    {
-      "id": "mkt:019fadd5-4c05-7aab-8eea-1e82546bb99c",
-      "time": "2026-07-29 20:24:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's finance ministry said it will cap retail investors' exposure to leveraged ETFs."
     }
   ]
 }
