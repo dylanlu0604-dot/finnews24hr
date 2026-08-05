@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-06 02:05:03",
-  "count": 17928,
+  "updated": "2026-08-06 02:09:02",
+  "count": 17924,
   "items": [
+    {
+      "id": "mkt:019fd31c-652f-7aab-8f92-74cdb8aee2de",
+      "time": "2026-08-06 02:08:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's armed forces spokesperson said 29 Saudi tankers were intercepted and forced to turn back in the Red Sea and Arabian Sea."
+    },
+    {
+      "id": "5027415",
+      "time": "2026-08-06 02:07:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "微軟披露：2026財年來自OpenAI相關業務收入241億美元，OpenAI約佔微軟AI總銷售額的70%。"
+    },
+    {
+      "id": "5027414",
+      "time": "2026-08-06 02:07:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "披露檔案顯示：微軟AI業務收入主要來自OpenAI。"
+    },
     {
       "id": "mkt:019fd318-6202-7aab-8f92-6f6822ca9034",
       "time": "2026-08-06 02:03:38",
@@ -165613,89 +165642,6 @@
         "S&P500"
       ],
       "text": "【Fed holds rates but internal split widens; statement unchanged from June】The Federal Reserve left rates unchanged for a fifth consecutive meeting, but dissent grew: Logan, Hamak and Kashkari voted against the decision, each favoring a 25bp hike. The committee’s post-meeting statement was otherwise identical to June and reiterated its commitment to achieving price stability. The dissents increase the challenge for new Fed chair Kevin Warsh to remain on hold if inflation concerns intensify. President Trump has repeatedly called for rate cuts, including on Monday; Warsh, nominated by Trump earlier this year, said he would insulate policy decisions from political influence."
-    },
-    {
-      "id": "mkt:019faf10-7d44-7aab-8ef2-5cca17b52ef4",
-      "time": "2026-07-30 02:08:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Three regional Fed presidents dissent, raising pressure for rate hike】At the FOMC decision, three of the five regional Fed presidents with voting rights — Cleveland, Minneapolis and Dallas — dissented, each calling for a 25bps hike. It is the first time since September 2016 that three like-minded dissents appeared in a single policy decision, signalling growing internal pressure to tighten. Fed Chair Kevin Warsh backed holding rates steady and stressed the Fed’s duty to curb inflation; he is expected to face questions at his 02:30 Beijing time press conference on why patience remains the appropriate policy stance."
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825508752",
-      "time": "2026-07-30 02:07:44",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【FOMC將繼續維持銀行體系充裕準備金政策】美聯儲FOMC宣告顯示，聯邦公開市場委員會（FOMC）將繼續維持銀行體系充裕準備金政策。"
-    },
-    {
-      "id": "mkt:019faf0e-500f-7aab-8ef2-52eebcdfe52e",
-      "time": "2026-07-30 02:06:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Markets now no longer fully price a Fed rate hike in September."
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825508661",
-      "time": "2026-07-30 02:06:15",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "利率互換市場不再完全定價美聯儲9月加息。"
-    },
-    {
-      "id": "mkt:019faf0e-1989-7aab-8ef2-4969879a7d0a",
-      "time": "2026-07-30 02:06:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US 2-year Treasury yield fell as much as 7 bps to a low of 4.25%, currently 4.32%."
-    },
-    {
-      "id": "5014970",
-      "time": "2026-07-30 02:06:02",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲互換合約不再完全定價 9 月加息預期。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825508881",
-      "time": "2026-07-30 02:05:45",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲FOMC宣告：儘管不確定性仍然較高 美國經濟活動繼續保持穩健擴張】美聯儲FOMC宣告顯示，就業增長與勞動力供給增幅大體匹配，失業率變化不大。儘管不確定性仍然較高，美國經濟活動繼續保持穩健擴張。"
     }
   ]
 }

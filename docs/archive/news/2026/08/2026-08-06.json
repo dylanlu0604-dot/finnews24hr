@@ -1,7 +1,36 @@
 {
   "date": "2026-08-06",
-  "count": 154,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:019fd31c-652f-7aab-8f92-74cdb8aee2de",
+      "time": "2026-08-06 02:08:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's armed forces spokesperson said 29 Saudi tankers were intercepted and forced to turn back in the Red Sea and Arabian Sea."
+    },
+    {
+      "id": "5027415",
+      "time": "2026-08-06 02:07:17",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "微軟披露：2026財年來自OpenAI相關業務收入241億美元，OpenAI約佔微軟AI總銷售額的70%。"
+    },
+    {
+      "id": "5027414",
+      "time": "2026-08-06 02:07:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "披露檔案顯示：微軟AI業務收入主要來自OpenAI。"
+    },
     {
       "id": "mkt:019fd318-6202-7aab-8f92-6f6822ca9034",
       "time": "2026-08-06 02:03:38",
