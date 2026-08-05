@@ -1,7 +1,112 @@
 {
   "date": "2026-08-05",
-  "count": 1751,
+  "count": 1761,
   "items": [
+    {
+      "id": "5026288",
+      "time": "2026-08-05 15:48:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【章源鎢業：控股股東質押500萬股用於自身生產經營】章源鎢業公告稱，8月5日接到控股股東章源控股函告，其於8月4日將500萬股質押給中國建設銀行崇義支行，佔公司總股本0.73%，佔其持股比例0.42%，用途為自身生產經營。截至公告披露日，章源控股及其一致行動人累計質押2.15億股，佔其所持股份比例31.57%，佔公司總股本比例17.92%。"
+    },
+    {
+      "id": "mkt:019fd0e4-5d29-7aab-8f85-02bd8ac21bd4",
+      "time": "2026-08-05 15:47:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported an Iranian lawmaker described Trump's negotiating style as \"inconsistent and unreliable\"."
+    },
+    {
+      "id": "5026287",
+      "time": "2026-08-05 15:46:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家杜馬： 聯邦反壟斷局（FAS）對蘋果公司提起的訴訟對俄羅斯境內iPhone的運營不構成任何威脅。"
+    },
+    {
+      "id": "te:markets:572919",
+      "time": "2026-08-05 15:46:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Hit New High — European stocks traded higher for a third consecutive session on Wednesday, with the STOXX 50 gaining 0.2% and the STOXX 600 rising 0.3% to reach fresh record highs. Sentiment was supported by growing optimism over a potential US-Iran agreement, while renewed strength in semiconductor and other AI-related stocks boosted global risk appetite. Meanwhile, the earnings season remained in focus. Siemens Energy climbed 3.5% after reporting record third-quarter sales, margins, and order intake. SAP advanced 0.9%, Safran gained 1.3%, and Rheinmetall rose 2%. On the downside, Novo Nordisk fell 3.5% despite issuing upbeat guidance, as concerns over the outlook for its obesity business continued to weigh on the stock. HSBC declined 2.9%, while LVMH and Hermes lost 1.8% and 1.4%, respectively."
+    },
+    {
+      "id": "te:markets:572918",
+      "time": "2026-08-05 15:46:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Greece",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Greece Hit 16-year High — Athens General increased to 2643.00 Index Points, the highest since November 2009. Over the past 4 weeks, Athens Stock Exchange General gained 2.67%, and in the last 12 months, it increased 29.2%."
+    },
+    {
+      "id": "te:economy:572916",
+      "time": "2026-08-05 15:45:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Falls to Three-Week Low on Easing Inflation Concerns — Germany's 10-year Bund yield fell below 3.1%, its lowest level since July 15, as a sharp decline in oil prices eased inflation concerns. Crude has fallen about 10% this week amid growing optimism that the US and Iran could reach a deal to end their five-month conflict and reopen the Strait of Hormuz. US President Donald Trump said the two countries were engaged in \"very good discussions,\" raising hopes for a resolution to the conflict, which has severely disrupted Middle Eastern energy supplies. The prospect of improved oil flows has weighed on crude prices, reducing fears of renewed inflationary pressures and weaker economic growth. The decline in energy prices has also reinforced expectations that the European Central Bank will take a more gradual approach to policy tightening. Markets now fully price in just one more ECB rate hike by year-end, with around a 40% chance of a second. The ECB raised rates in June but left policy unchanged at its latest meeting."
+    },
+    {
+      "id": "mkt:019fd0e2-299c-7aab-8f84-f81cd40f20ab",
+      "time": "2026-08-05 15:45:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Italy July services PMI 52.5, above 51.3 expected and 50.2 previously, remaining in expansion territory."
+    },
+    {
+      "id": "mkt:019fd0e2-237a-7aab-8f84-f383570588f0",
+      "time": "2026-08-05 15:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy composite PMI 52.5 in July, up from 50.8 previously."
+    },
+    {
+      "id": "mkt:019fd0e2-030c-7aab-8f84-e9c88583a84c",
+      "time": "2026-08-05 15:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Services PMI (Jul) | actual 52.5 | consensus 51.3 | previous 50.2"
+    },
+    {
+      "id": "mkt:019fd0e2-02fb-7aab-8f84-e767505fe710",
+      "time": "2026-08-05 15:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Composite PMI (Jul) | actual 52.5 | previous 50.8"
+    },
     {
       "id": "5026285",
       "time": "2026-08-05 15:43:22",

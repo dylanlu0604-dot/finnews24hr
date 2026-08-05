@@ -1,7 +1,112 @@
 {
-  "updated": "2026-08-05 15:45:06",
-  "count": 17877,
+  "updated": "2026-08-05 15:49:06",
+  "count": 17876,
   "items": [
+    {
+      "id": "5026288",
+      "time": "2026-08-05 15:48:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【章源鎢業：控股股東質押500萬股用於自身生產經營】章源鎢業公告稱，8月5日接到控股股東章源控股函告，其於8月4日將500萬股質押給中國建設銀行崇義支行，佔公司總股本0.73%，佔其持股比例0.42%，用途為自身生產經營。截至公告披露日，章源控股及其一致行動人累計質押2.15億股，佔其所持股份比例31.57%，佔公司總股本比例17.92%。"
+    },
+    {
+      "id": "mkt:019fd0e4-5d29-7aab-8f85-02bd8ac21bd4",
+      "time": "2026-08-05 15:47:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported an Iranian lawmaker described Trump's negotiating style as \"inconsistent and unreliable\"."
+    },
+    {
+      "id": "5026287",
+      "time": "2026-08-05 15:46:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯國家杜馬： 聯邦反壟斷局（FAS）對蘋果公司提起的訴訟對俄羅斯境內iPhone的運營不構成任何威脅。"
+    },
+    {
+      "id": "te:markets:572919",
+      "time": "2026-08-05 15:46:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Hit New High — European stocks traded higher for a third consecutive session on Wednesday, with the STOXX 50 gaining 0.2% and the STOXX 600 rising 0.3% to reach fresh record highs. Sentiment was supported by growing optimism over a potential US-Iran agreement, while renewed strength in semiconductor and other AI-related stocks boosted global risk appetite. Meanwhile, the earnings season remained in focus. Siemens Energy climbed 3.5% after reporting record third-quarter sales, margins, and order intake. SAP advanced 0.9%, Safran gained 1.3%, and Rheinmetall rose 2%. On the downside, Novo Nordisk fell 3.5% despite issuing upbeat guidance, as concerns over the outlook for its obesity business continued to weigh on the stock. HSBC declined 2.9%, while LVMH and Hermes lost 1.8% and 1.4%, respectively."
+    },
+    {
+      "id": "te:markets:572918",
+      "time": "2026-08-05 15:46:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Greece",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Greece Hit 16-year High — Athens General increased to 2643.00 Index Points, the highest since November 2009. Over the past 4 weeks, Athens Stock Exchange General gained 2.67%, and in the last 12 months, it increased 29.2%."
+    },
+    {
+      "id": "te:economy:572916",
+      "time": "2026-08-05 15:45:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Bund Yield Falls to Three-Week Low on Easing Inflation Concerns — Germany's 10-year Bund yield fell below 3.1%, its lowest level since July 15, as a sharp decline in oil prices eased inflation concerns. Crude has fallen about 10% this week amid growing optimism that the US and Iran could reach a deal to end their five-month conflict and reopen the Strait of Hormuz. US President Donald Trump said the two countries were engaged in \"very good discussions,\" raising hopes for a resolution to the conflict, which has severely disrupted Middle Eastern energy supplies. The prospect of improved oil flows has weighed on crude prices, reducing fears of renewed inflationary pressures and weaker economic growth. The decline in energy prices has also reinforced expectations that the European Central Bank will take a more gradual approach to policy tightening. Markets now fully price in just one more ECB rate hike by year-end, with around a 40% chance of a second. The ECB raised rates in June but left policy unchanged at its latest meeting."
+    },
+    {
+      "id": "mkt:019fd0e2-299c-7aab-8f84-f81cd40f20ab",
+      "time": "2026-08-05 15:45:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Italy July services PMI 52.5, above 51.3 expected and 50.2 previously, remaining in expansion territory."
+    },
+    {
+      "id": "mkt:019fd0e2-237a-7aab-8f84-f383570588f0",
+      "time": "2026-08-05 15:45:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Italy composite PMI 52.5 in July, up from 50.8 previously."
+    },
+    {
+      "id": "mkt:019fd0e2-030c-7aab-8f84-e9c88583a84c",
+      "time": "2026-08-05 15:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Services PMI (Jul) | actual 52.5 | consensus 51.3 | previous 50.2"
+    },
+    {
+      "id": "mkt:019fd0e2-02fb-7aab-8f84-e767505fe710",
+      "time": "2026-08-05 15:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Composite PMI (Jul) | actual 52.5 | previous 50.8"
+    },
     {
       "id": "5026285",
       "time": "2026-08-05 15:43:22",
@@ -165416,118 +165521,6 @@
         "國際"
       ],
       "text": "【歐洲股市多數走高 防禦板塊獲資金流入】歐洲股指早盤大多上漲，市場表現較為堅挺。強勁的財報表現以及投資者向防禦性板塊輪動，推動歐洲斯托克600指數上漲，儘管半導體板塊主導的拋售仍在持續。英國富時100指數也維持漲勢，日內漲0.5%左右，因油價上漲提振了殼牌和英國石油等能源股表現。法國CAC40指數上漲0.5%，其中開雲集團在公佈財報後大漲11%，帶動整體奢侈品板塊走強。德國DAX指數上漲0.3%，其中德意志銀行因宣佈新的股票回購計劃，股價上漲5.3%，成為指數上漲的主要推動力。荷蘭AEX指數小幅上漲0.05%，在科技股整體疲軟的背景下，半導體裝置企業ASM國際跌超6%，不過化工集團IMCD上漲9%，部分抵消了科技板塊的拖累。西班牙IBEX35指數跌0.65%。"
-    },
-    {
-      "id": "5013956",
-      "time": "2026-07-29 15:48:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Momenta獲德國全境L4級測試許可，Uber再次追加投資】7月29日訊息，Momenta近日獲得德國聯邦機動車運輸管理局頒發的測試許可，可在德國全境城市道路開展L4級自動駕駛測試，成為首家獲得該資質的中國企業。Momenta此前已與Uber合作，將Robotaxi接入其出行平臺，並計劃以慕尼黑為歐洲首發城市。介面新聞記者獲悉，在Momenta IPO期間，Uber透過其全資子公司SMB Holding Corporation，再次追加對Momenta的股權投資。公開配售資訊顯示，SMB在Momenta港股上市配售中獲配397,600股。而據此前Momenta招股書披露，SMB曾參與其2025年9月完成的C輪融資，持有791,055股優先股。至此，Uber合計持有Momenta約118.87萬股股份。"
-    },
-    {
-      "id": "5013955",
-      "time": "2026-07-29 15:48:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方正閥門：董事陳永興、李川華擬合計減持不超過0.2813%股份】方正閥門公告，董事、高階管理人員兼董秘陳永興持有公司股份172.98萬股，佔總股本0.8501%，計劃自本公告披露之日起15個交易日後的3個月內，透過集中競價或大宗交易方式減持不超過43.25萬股（佔總股本0.2125%）；董事、高階管理人員李川華持有公司股份56萬股，佔總股本0.2752%，計劃同期減持不超過14萬股（佔總股本0.0688%）。減持原因為個人資金需求。"
-    },
-    {
-      "id": "5013954",
-      "time": "2026-07-29 15:48:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬輝能源在包頭投資成立能源科技公司】企查查APP顯示，近日，包頭鵬輝能源科技有限公司成立，法定代表人為方李一凡，經營範圍包含：電池製造；電池銷售；電池零配件生產；電池零配件銷售；充電樁銷售；儲能技術服務等。企查查股權穿透顯示，該公司由鵬輝能源全資持股。"
-    },
-    {
-      "id": "5013953",
-      "time": "2026-07-29 15:47:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：電競非遊戲收入佔全國26.1%，上海成電競產業價值錨點】7月28日，伽馬資料釋出《2026年1-6月上海電子競技產業發展評估報告》，報告顯示，2026年上半年上海電競非遊戲收入34.17億元，佔全國比重升至26.1%，連續五年提升，賽事、俱樂部、場館進入專業化運營階段；與此同時，上海以不足全國半數的賽事數量貢獻了47.32%的賽事收入，以23%的俱樂部數量貢獻了43%的俱樂部收入，單家產出效率領跑全國，已成為全國電競產業的“價值錨點”。"
-    },
-    {
-      "id": "te:economy:570684",
-      "time": "2026-07-29 15:47:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Rise on Oil-Driven Inflation Concerns — The UK 10-year gilt yield climbed to 4.97% on Wednesday, rebounding from two-week lows as renewed military exchanges between the US and Iran drove oil prices higher, reviving inflation concerns. Investors also remained cautious ahead of the US Federal Reserve's policy decision later in the day and the Bank of England's meeting on Thursday, both of which are expected to provide further guidance on the outlook for interest rates. The Federal Reserve is widely expected to keep rates unchanged, although markets still assign roughly a 30% chance of a 25-basis-point hike. In the UK, the Bank of England is also expected to leave its Bank Rate at 3.75%, with investors closely watching the vote split for clues on the future policy path. Recent data showed UK inflation slowed to a 15-month low of 2.6% in June, below the BoE's forecast. However, businesses and government officials have warned that the recent spike in energy prices could lift inflation again in the coming months."
-    },
-    {
-      "id": "mkt:019facd7-c68b-7aab-8ee2-5a63832adcc0",
-      "time": "2026-07-29 15:47:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Xianyu: AI service orders near 9.82 mln in 1H, up 157% YoY】Xianyu reported AI service orders in 1H reached 9.816 million, up 157% YoY, with nearly 5.0 million buyers (+98% YoY). Fastest-growing segments were AI programming and website-building (orders +1,732% YoY), followed by AI comic/drama products (+1,425%) and AI PPT/office tools (+264%); AI programming tools saw rapid uptake. Sellers skew young—over 60% aged 18–35—and 62.4% are female. Average monthly seller sales were 897 yuan; most participate as a side business. By location, fourth-tier city sellers accounted for 32.2% and second-tier 28.6%, together exceeding 60%."
-    },
-    {
-      "id": "5013952",
-      "time": "2026-07-29 15:47:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬孚生物：首次回購股份65,200股 耗資108.90萬元】萬孚生物公告稱，公司於2026年7月29日首次以集中競價交易方式回購股份65,200股，佔總股本的0.0028%，最高成交價16.75元/股，最低成交價16.65元/股，成交總金額108.90萬元（不含交易費用）。此前公司董事會已審議透過回購方案，資金總額不低於3000萬元且不超過6000萬元，回購價不超27.06元/股，實施期限為3個月。"
-    },
-    {
-      "id": "mkt:019facd7-a2f2-7aab-8ee2-5670f54398c3",
-      "time": "2026-07-29 15:47:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "KER.PA"
-      ],
-      "text": "【European stocks mostly higher as funds flow into defensives】European equities opened broadly higher as stronger earnings and a rotation into defensive sectors lifted the Stoxx Europe 600, despite an ongoing semiconductor-led selloff. FTSE 100 rose about 0.5% as an oil rally buoyed Shell and BP. CAC 40 gained 0.5%; Kering jumped 11% after reporting results, strengthening the luxury sector. DAX added 0.3%; Deutsche Bank climbed 5.3% after announcing a new share buyback and was a key driver for the index. AEX edged up 0.05%; semiconductor equipment firm ASM International fell over 6% while chemical distributor IMCD rose 9%, partly offsetting tech weakness. IBEX 35 declined 0.65%."
-    },
-    {
-      "id": "mkt:019facd7-416d-7aab-8ee2-4fc5fb9c0ff0",
-      "time": "2026-07-29 15:46:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "【Institution: AI story intact but market tolerance for disappointing news has collapsed】Tickmill Group economist Patrick Munnelly says Asian equities are undergoing fund rotation out of tech. SK Hynix shares fell 9.6% despite strong results, dragging the KOSPI down 6.0%. Taiwan and Japan, both with larger semiconductor exposure, fell 3.8% and 1.5% respectively. Leadership has shifted toward consumer discretionary, financials and energy; chipmakers have gone from market darlings to volatility transmitters over the past month. The AI narrative remains, but market tolerance for disappointing news has collapsed."
-    },
-    {
-      "id": "5013951",
-      "time": "2026-07-29 15:45:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【閒魚：AI訂單半年成交近千萬，同比增157%】7月29日，閒魚資料顯示，今年上半年AI服務交易迎來爆發式增長，訂單量達到981.6萬，同比增157%，半年內有近500萬人在閒魚購買AI服務，同比增長98%。上半年，閒魚AI服務增長最快的賽道是AI程式設計與建站，訂單同比增長1732%。"
-    },
-    {
-      "id": "mkt:019facd5-9b7a-7aab-8ee2-4230d37d1e3d",
-      "time": "2026-07-29 15:45:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Ebury: Bank of England vote split will be key for pound】Ebury analyst Matthew Ryan says markets expect the Bank of England to hold rates on Thursday, but the vote split will determine sterling’s reaction. A 7-2 split (two voters for a hike), coupled with rhetoric that downplays energy-driven inflation spikes, would likely cool tightening expectations and weigh on the pound. Conversely, a 6-3 split, accompanied by projections implying inflation may peak nearer 4% rather than 3%, would support sterling and lift front-end yields."
     }
   ]
 }
