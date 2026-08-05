@@ -1,7 +1,220 @@
 {
   "date": "2026-08-06",
-  "count": 222,
+  "count": 245,
   "items": [
+    {
+      "id": "5027465",
+      "time": "2026-08-06 03:55:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【武田製藥Orzeyful獲FDA批准，用於治療1型發作性睡病】武田製藥旗下武田製藥美國公司（Takeda Pharmaceuticals America）的Orzeyful片劑已獲得美國食品藥品管理局（FDA）批准，成為首款透過靶向食慾素訊號缺失來治療成人1型發作性睡病全譜症狀的藥物。Orzeyful的療效已在兩項為期12周、安慰劑對照的研究中得到證實，共納入273名成人患者。服用Orzeyful 2mg的患者與安慰劑組相比，日間清醒度有所改善，猝倒發作次數減少。Orzeyful已被建議納入《管制物質法》進行排期管理，目前正等待美國緝毒局（DEA）的最終決定。"
+    },
+    {
+      "id": "mkt:019fd37e-6d25-7aab-8f93-7a9b642b7ef3",
+      "time": "2026-08-06 03:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Lisa Cook will speak in 10 minutes on the economic outlook."
+    },
+    {
+      "id": "te:markets:573115",
+      "time": "2026-08-06 03:54:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 4-week High — Home Depot shares increased to 354.01 USD, the highest since July 2026. Over the past 4 weeks, Home Depot gained 0.94%, and in the last 12 months, it decreased 8.5%."
+    },
+    {
+      "id": "mkt:019fd37d-4e40-7aab-8f93-76b008b4996c",
+      "time": "2026-08-06 03:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars news agency, citing Iranian negotiation team sources, says the U.S. Treasury's recent removal of some Iran sanctions was driven by interactions between the Iraqi government and Washington, and not linked to any Iran‑U.S. memorandum of understanding. The Treasury earlier lifted sanctions on Baghdad Airways, which had been targeted over alleged ties to the IRGC Quds Force."
+    },
+    {
+      "id": "5027464",
+      "time": "2026-08-06 03:53:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數5日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於99.676。截至紐約匯市尾市，1歐元兌換1.1553美元，高於前一交易日的1.1533美元；1英鎊兌換1.3469美元，高於前一交易日的1.3452美元。1美元兌換157.67日元，高於前一交易日的157.66日元；1美元兌換0.8069瑞士法郎，低於前一交易日的0.8092瑞士法郎；1美元兌換1.4008加元，低於前一交易日的1.4066加元；1美元兌換9.4832瑞典克朗，低於前一交易日的9.5192瑞典克朗。"
+    },
+    {
+      "id": "5027463",
+      "time": "2026-08-06 03:52:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會宣告：正在調查海軍一號與民航客機發生空中間隔不足事件。"
+    },
+    {
+      "id": "mkt:019fd37b-c99f-7aab-8f93-6d63d2f053b7",
+      "time": "2026-08-06 03:52:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran warned Gulf states retaliation would hit energy infrastructure; Gulf urged Trump to drop strike plan】Refinitiv, citing five sources, said that after President Trump’s July 28 threat to strike Iran’s energy network and infrastructure, Iran conducted high-level diplomatic outreach warning Gulf states any new U.S. military action would prompt Iranian retaliation against regional energy facilities and U.S. assets. Iranian deputy foreign minister Araghchi spoke with the foreign ministers of Saudi Arabia, Turkey and Qatar and with Pakistan’s army chief, urging Gulf partners to use their influence to dissuade Washington. Saudi Crown Prince Mohammed bin Salman urged Trump to delay military action. Qatar, Oman and Saudi pressed the U.S. to resume talks with Tehran to avoid renewed conflict. On Aug. 2, Trump said he agreed to call off the attack plan “provided a deal could be reached quickly.”"
+    },
+    {
+      "id": "5027462",
+      "time": "2026-08-06 03:50:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "扎克伯格稱META今天釋出MUSE CODE測試版。"
+    },
+    {
+      "id": "5027461",
+      "time": "2026-08-06 03:47:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引敘利亞當地訊息源：以色列間諜直升機及飛機飛越德拉省與庫奈特拉省上空。"
+    },
+    {
+      "id": "5027460",
+      "time": "2026-08-06 03:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電視臺（IRIB）： 埃及、土耳其、巴基斯坦、沙烏地阿拉伯四國外長於約旦首都安曼會晤，商討緩和地區緊張局勢的途徑，重點圍繞霍爾木茲海峽的安全問題展開。"
+    },
+    {
+      "id": "5027459",
+      "time": "2026-08-06 03:41:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "媒體週三援引五位知情訊息人士報道，伊朗向波斯灣國家發出警告：倘若美國再度襲擊伊朗領土，伊朗將打擊關鍵能源基礎設施以及其他地區目標。援引一名地區高階外交官的訊息稱，伊朗外長阿拉格齊在與沙特、土耳其、卡達官員以及巴基斯坦陸軍參謀長溝通時轉達了上述警告，同時敦促美國的地區盟友遊說特朗普總統迴歸外交談判軌道。援引該外交官及波斯灣地區訊息人士的說法，沙特王儲穆罕默德・本・薩勒曼隨後敦促特朗普推遲軍事行動、推進談判並尋求停火。"
+    },
+    {
+      "id": "mkt:019fd370-e52e-7aab-8f93-621563ee69b8",
+      "time": "2026-08-06 03:40:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Refinitiv, citing five sources, reports Iran has warned Gulf states that any new US strikes on Iranian territory would prompt Iranian retaliation against the region's critical energy infrastructure."
+    },
+    {
+      "id": "mkt:019fd369-48c5-7aab-8f93-597345a7e8d7",
+      "time": "2026-08-06 03:32:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Meta launches Muse Code programming agent, integrates with Muse Spark 1.2】Meta Platforms launched Muse Code, its first programming agent, positioning the company to compete with Anthropic and OpenAI. The beta/preview tool lets developers build and manage AI-driven agents in a single interface and is compatible with Meta’s Muse Spark 1.2 model. Development is led by Alexandr Wang at the Meta Super Intelligence Lab, which oversees base-model work. Muse Code is available to developers on a pay-as-you-go API; pricing mirrors Muse Spark 1.1 at $1.25 per 1M input tokens and $4.25 per 1M output tokens."
+    },
+    {
+      "id": "5027458",
+      "time": "2026-08-06 03:30:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國高階官員警告：人工智慧風險需要更強有力的網路防禦。"
+    },
+    {
+      "id": "mkt:019fd367-d5fa-7aab-8f93-573124ffe9d7",
+      "time": "2026-08-06 03:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC is creating a specialized unit within its Enforcement Division to provide expertise, focus and capacity to investigate accounting and financial-reporting fraud and other misconduct in accounting and auditing."
+    },
+    {
+      "id": "5027457",
+      "time": "2026-08-06 03:28:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：在美國+日本實施干預之後，下調美元兌日元年底預期至149（之前預計為152）。"
+    },
+    {
+      "id": "5027456",
+      "time": "2026-08-06 03:28:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多稱已恢復與哥倫比亞的電力互通。"
+    },
+    {
+      "id": "5027455",
+      "time": "2026-08-06 03:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：布蘭奇將率美國代表團出席哥倫比亞總統就職儀式。"
+    },
+    {
+      "id": "5027454",
+      "time": "2026-08-06 03:23:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌首席科學家Jeff Dean：明天將是我在谷歌工作的最後一天。"
+    },
+    {
+      "id": "5027453",
+      "time": "2026-08-06 03:23:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價下跌12%，接近盤中低點。"
+    },
+    {
+      "id": "mkt:019fd361-7509-7aab-8f93-4d32953e2a43",
+      "time": "2026-08-06 03:23:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google chief scientist Jeff Dean said tomorrow will be his last day at the company."
+    },
+    {
+      "id": "5027452",
+      "time": "2026-08-06 03:23:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飆升的科技股還能買嗎？資深策略師Yardeni認為該板塊現在是打折價】科技股7月下旬以來氣勢如虹，接下來還能漲多少？Ed Yardeni給出的答案是：這波行情離到頭還早著呢。投資者對人工智慧交易信心重燃，霍爾木茲海峽也浮現出重新開放的希望，這些因素推動納斯達克100指數四天內大漲9.3%，走出了2025年4月以來的最佳一波行情。即便如此，它基於未來12個月預期利潤的市盈率也只有22.3倍，是2017年以來對大盤估值溢價最低的水平之一。“對於一個高增長行業來說，那是比較低的估值倍數，” 身為Yardeni Research Inc.總裁兼首席投資策略師的Yardeni在電話中表示，拋售該板塊的投資者“已經發現他們實際上把這些這些股票變成了促銷品”。Yardeni表示，將納斯達克100指數推進技術性回撥的拋售也消除了其過高的估值，從而為反彈創造了條件。加之強勁的季報和持續旺盛的人工智慧需求，進一步上漲也有了穩固的基礎。"
+    },
+    {
+      "id": "5027451",
+      "time": "2026-08-06 03:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "FIRST SOLAR跌幅快速擴大至5%。"
+    },
     {
       "id": "5027450",
       "time": "2026-08-06 03:20:04",
