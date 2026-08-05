@@ -1,7 +1,173 @@
 {
-  "updated": "2026-08-05 09:20:34",
-  "count": 17876,
+  "updated": "2026-08-05 09:24:33",
+  "count": 17884,
   "items": [
+    {
+      "id": "mkt:019fcf84-8530-7aab-8f7b-b67526fd3c22",
+      "time": "2026-08-05 09:23:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports FAA officials are reviewing a Tuesday air-traffic safety incident involving a military helicopter carrying President Trump."
+    },
+    {
+      "id": "mkt:019fcf84-45c8-7aab-8f7b-ab936ceacaca",
+      "time": "2026-08-05 09:23:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【PBOC nets 298.5 bln yuan via open-market operations】The PBOC conducted 5 bln yuan of 7-day reverse repos and 500 bln yuan of outright reverse repos. With 206.5 bln yuan of 7-day reverse repos maturing today, the operations produced a net injection of 298.5 bln yuan."
+    },
+    {
+      "id": "5025677",
+      "time": "2026-08-05 09:22:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局官員正在審查週二發生的一起空中交通安全事件，該事件涉及一架搭載特朗普的軍用直升機。"
+    },
+    {
+      "id": "5025676",
+      "time": "2026-08-05 09:22:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創港股低開15%。"
+    },
+    {
+      "id": "5025675",
+      "time": "2026-08-05 09:22:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠2,015.0億元人民幣。"
+    },
+    {
+      "id": "5025674",
+      "time": "2026-08-05 09:22:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "mkt:019fcf83-4588-7aab-8f7b-a78f3377cb7a",
+      "time": "2026-08-05 09:21:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong HSI opened up 38.07 pts (+0.15%) at 25,890.99 on Aug 5 (Wed); Hang Seng TECH opened up 16.13 pts (+0.33%) at 4,901.74; HSCEI opened up 10.74 pts (+0.13%) at 8,585.00; Red Chip Index opened down 10.46 pts (-0.25%) at 4,134.95."
+    },
+    {
+      "id": "5025673",
+      "time": "2026-08-05 09:21:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股開盤上漲2.1%。"
+    },
+    {
+      "id": "mkt:019fcf82-e4bd-7aab-8f7b-9a31809d39bf",
+      "time": "2026-08-05 09:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1%."
+    },
+    {
+      "id": "5025672",
+      "time": "2026-08-05 09:21:21",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.15％，國企指數漲0.13％，科指開漲0.33%。"
+    },
+    {
+      "id": "5025671",
+      "time": "2026-08-05 09:21:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展50億元7天逆回購操作，投標量50億元，中標量50億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019fcf82-bbc8-7aab-8f7b-9326183b2700",
+      "time": "2026-08-05 09:21:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00100.HK",
+        "Impact bullish",
+        "03308.HK",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong stocks opened higher; the Hang Seng Index rose 0.15% and the Hang Seng TECH Index rose 0.33%. MINIMAX-W (00100.HK) was up about 3%, while 03308.HK traded down about 15%."
+    },
+    {
+      "id": "mkt:019fcf82-a2f8-7aab-8f7b-8bc2d8af8a07",
+      "time": "2026-08-05 09:21:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【U.S. reportedly drafting ban on imports of new Chinese data‑center components; market sees low probability and manageable impact】A media report said the U.S. is drafting a ban on imports of new Chinese data‑center components to protect AI infrastructure. Industry sources say a strict ban on Chinese optical modules is unlikely: seven of the world’s top 10 optical‑module vendors are Chinese and Chinese firms account for roughly 70% of 800G and 1.6T high‑speed module shipments, while U.S. suppliers lack comparable capacity and technology. Major U.S. cloud providers are accelerating AI infrastructure builds, and inability to source Chinese modules would slow deployments. Market participants note similar reports have circulated previously and say that even if the measure were enacted, impacts have historically been manageable."
+    },
+    {
+      "id": "mkt:019fcf82-a0ba-7aab-8f7b-875f7a2076e6",
+      "time": "2026-08-05 09:21:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC conducted a 50 billion yuan 7-day reverse repo today; bids and allotments were 50 billion yuan. Operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "5025670",
+      "time": "2026-08-05 09:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國考慮禁止進口中國光模組？市場人士：可能性較小，影響也可控】據中新網8月4日晚間報道，有媒體報道稱，知情人士透露，美國政府正起草一項禁令，擬禁止進口中國新型號的資料中心元件，以保護支撐人工智慧(AI)發展的關鍵基礎設施。產業分析人士認為，美國嚴格禁止進口中國光模組的可能性較小，一是從行業格局看，美國AI建設離不開中國光模組。全球前10名光模組廠商有7名為中國廠商，800G、1.6T等高速光模組中中國廠商出貨佔比70%，美國廠商產能和技術先進性均存在不足。目前美國主要雲廠商正在加快AI基礎設施建設，如無法獲得中國光模組，整個建設進度將受到影響。二是從過往情況看，嚴格禁止進口中國光模組的可能性較低。另有市場人士也分析稱，歷史上也出現過多次這類資訊，資訊真假難辨無需過度猜疑。“即便訊息為真，從歷來應對來看都影響可控。”（澎湃）"
+    },
+    {
+      "id": "5025669",
+      "time": "2026-08-05 09:20:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器成立智算資料服務公司 含AI業務】企查查APP顯示，近日，正泰智算資料服務（海寧）有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；安全系統監控服務；軟體開發；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由正泰電器(601877)間接全資持股。"
+    },
+    {
+      "id": "te:markets:572752",
+      "time": "2026-08-05 09:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds at 7-Week Top — The Australian dollar held above $0.70, sitting at a seven-week high, supported by improving global risk appetite, broad US dollar weakness, and strong domestic economic data. Australia's private sector gained further momentum in July, with the composite PMI revised up to 53.2, the highest since January, led by a six-month high in services activity and a return to manufacturing growth. Stronger-than-expected household spending also reinforced signs of resilient domestic demand, although markets have priced out almost any chance of a rate hike from the Reserve Bank at its policy meeting next week. Elsewhere, optimism that a deal to reopen the Strait of Hormuz is nearing completion has eased fears of major supply disruptions, lifting Australian equities to a record high. Meanwhile, the greenback remained under pressure following recent coordinated support for the Japanese yen by US and Japanese authorities, which has spilled over into broader Asian currencies."
+    },
     {
       "id": "5025668",
       "time": "2026-08-05 09:19:18",
@@ -165364,99 +165530,6 @@
         "A股"
       ],
       "text": "三大股指開盤漲跌不一，滬指漲0.26％，深成指跌0.08％，創業板漲0.19％。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607293824402559",
-      "time": "2026-07-29 09:23:41",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2065億元7天期逆回購操作，操作利率為1.40%，與上次持平。同時，開展了6000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5013312",
-      "time": "2026-07-29 09:23:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【叮咚買菜公佈自有品牌目標：叮咚V5今年GMV目標同比增長50%】叮咚買菜宣佈旗下自有品牌叮咚V5將圍繞糧油調味、休閒百貨、乳品酒飲、日配冷凍、烘焙、SC生鮮等六大品類，統一商品開發標準、完成包裝煥新，並透過APP首頁專屬入口等資源持續投入。公司公佈的資料顯示，2026年6月，叮咚買菜自有品牌滲透率達到68.5%，非生鮮自有品牌GMV佔比超35%。目前，叮咚V5擁有200餘支SKU，此次升級將主要圍繞現有商品進行迭代和汰換，在SKU規模基本不變的情況下，預計叮咚V5今年GMV同比增長50%。"
-    },
-    {
-      "id": "te:markets:570547",
-      "time": "2026-07-29 09:22:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Rises on Renewed US-Iran Hostilities — US gasoline prices rose to around $3.37 per gallon, moving back toward a two-month high, as renewed tensions between Iran and the US revived concerns over energy supply disruptions. Iran fired ballistic missiles at US positions in the Middle East, escalating the conflict after a temporary lull, though the US Central Command reported that all projectiles were intercepted. The US also carried out operations alongside Saudi forces in Iraq against Iran-backed militant groups. Meanwhile, Iran rejected Oman’s proposal to share oversight of shipping lanes in the Strait of Hormuz, demanding control over the inbound route and a portion of outbound traffic. Outside the region, Russia eased gasoline purchase restrictions in several areas as supply conditions improved, but the extension of its export ban through year-end continued to limit relief for global gasoline availability. Elsewhere, industry data showed gasoline inventories rose by 918,000 barrels in the week ending July 24."
-    },
-    {
-      "id": "mkt:019fab76-deae-7aab-8ed9-22aad5e8967e",
-      "time": "2026-07-29 09:22:01",
-      "tags": [
-        "MKT News",
-        "HSI",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong's HSI opened up 176.31 points (0.70%) at 25,487.16 on Wednesday, July 29. The Hang Seng Tech Index opened up 48.02 points (1.02%) at 4,778.63. The Hang Seng China Enterprises Index (HSCEI) opened up 63.78 points (0.76%) at 8,500.03. The Red Chip Index opened up 0.15 points (0.00%) at 4,152.49."
-    },
-    {
-      "id": "5013311",
-      "time": "2026-07-29 09:21:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放7,305.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019fab76-4f96-7aab-8ed9-1f8ad0845de4",
-      "time": "2026-07-29 09:21:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC injected 206.5 bln yuan via a 7-day reverse repo at a 1.40% rate, with bids and allotments both 206.5 bln yuan. It also conducted 600 bln yuan of overnight reverse repos."
-    },
-    {
-      "id": "5013310",
-      "time": "2026-07-29 09:21:14",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.7％，國企指數漲0.76％，科指開漲1.02%。"
-    },
-    {
-      "id": "5013309",
-      "time": "2026-07-29 09:21:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2,065億元七天期逆回購操作，利率1.40%，與上次持平。"
-    },
-    {
-      "id": "mkt:019fab75-eff7-7aab-8ed9-1580fb427683",
-      "time": "2026-07-29 09:21:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "00100.HK",
-        "02015.HK"
-      ],
-      "text": "Hong Kong stocks opened higher: Hang Seng up 0.7%, Hang Seng Tech Index up 1.02%. MiniMax (00100.HK) and Li Auto (02015.HK) gained over 4%; Leapmotor (09863.HK) and Zhipu (02513.HK) rose more than 2%."
     }
   ]
 }
