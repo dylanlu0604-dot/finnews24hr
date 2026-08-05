@@ -1,7 +1,94 @@
 {
-  "updated": "2026-08-05 10:11:36",
-  "count": 17832,
+  "updated": "2026-08-05 10:15:28",
+  "count": 17826,
   "items": [
+    {
+      "id": "te:markets:572774",
+      "time": "2026-08-05 10:14:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Indian Rupee Hits 4-week High — The Indian Rupee touched 94.96 against the USD, the highest since July 2026. Over the past 4 weeks, US Dollar Indian Rupee lost 0.36%, and in the last 12 months, it increased 8.31%."
+    },
+    {
+      "id": "5025780",
+      "time": "2026-08-05 10:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本廣島縣發生火災致3人死亡4人失聯】日本廣島縣東廣島市5日凌晨發生火災，3棟住宅失火，已造成3人死亡、4人失聯。當地時間5日3時30分（北京時間5日2時30分），東廣島市一名居民報警稱有建築物起火。消防部門出動9輛消防車進行撲救，大火約4個半小時後被撲滅。大火中，一棟兩層住宅被完全燒燬，火勢還蔓延至附近兩棟住宅。警方正在確認遇難者身份和失聯人員情況，並調查起火原因。（新華社）"
+    },
+    {
+      "id": "5025779",
+      "time": "2026-08-05 10:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額超200億元，現跌8.71%。"
+    },
+    {
+      "id": "5025778",
+      "time": "2026-08-05 10:13:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊短線拉昇，中公教育逼近漲停】教育板塊短線拉昇，中公教育逼近漲停，傳智教育此前漲停，科德教育、昂立教育跟漲。"
+    },
+    {
+      "id": "5025777",
+      "time": "2026-08-05 10:13:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX擬建地面基礎設施與衛星網路互補，向美國電信三巨頭髮起挑戰】SpaceX詳細闡述了擬透過建設地面基礎設施與衛星網際網路服務互補，從而直接與美國最大行動通訊運營商展開競爭的計劃。當地時間8月4日，SpaceX總裁兼營運長格溫·肖特韋爾（Gwynne Shotwell）在公司首次財報電話會議上表示，全美三大運營商AT&T、Verizon和T-Mobile每年創造的營收高達數千億美元。“我預計我們能夠吸引到他們相當一部分客戶，因為我認為我們的服務會更好，”她說。“我對Starlink Mobile的未來發展感到非常興奮。”“我們肯定會建設地面網路基礎設施，”肖特韋爾說。“這樣一來，除了衛星本身提供的通訊容量外，我們還將部署必要的硬體和系統，打造真正的行動通訊服務。”AT&T、Verizon和T-Mobile股價在盤後交易中均下跌超過4%。"
+    },
+    {
+      "id": "5025776",
+      "time": "2026-08-05 10:12:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Qwen-Image-3.0正式上線千問AI平臺】8月5日，據阿里雲訊息，阿里巴巴千問影象生成模型Qwen-Image-3.0正式上線千問AI平臺，面向所有使用者全部開放。旗艦版Qwen-Image-3.0-Pro與標準版Qwen-Image-3.0-Standard同時開放API，文生圖0.18元/張起。API已在千問AI平臺上線，海外使用者可透過Qwen Cloud接入。"
+    },
+    {
+      "id": "5025775",
+      "time": "2026-08-05 10:12:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國儲存兩巨頭高管被控涉嫌失信 警方啟動調查】據報道，韓國股東團體對三星電子和SK海力士的CEO提起刑事訴訟，指控其獎金不受集體談判協議約束，警方已對此案展開調查。"
+    },
+    {
+      "id": "mkt:019fcfb1-43e6-7aab-8f7d-4b4950f7ca0d",
+      "time": "2026-08-05 10:12:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Shareholder group accuses Samsung, SK Hynix CEOs of breach of trust; police open probe】A South Korean shareholder group has filed criminal complaints accusing the CEOs of Samsung Electronics and SK Hynix of breaching shareholder trust by approving bonus payments outside collective bargaining constraints and creating a payment mechanism that improperly consumed company assets. The group said on Aug. 5 it submitted complaints on July 22 to the National Police Agency’s National Investigation Office against Samsung co-CEOs Jun Young-hyun and Roh Tae-moon and SK Hynix CEO Kwak No-jung. The cases have been referred to the Gyeonggi Nambu Provincial Police Agency’s first and second investigation divisions, which have opened investigations under the Specific Economic Crimes Aggravated Punishment Act."
+    },
+    {
+      "id": "mkt:019fcfb0-c165-7aab-8f7d-450a96cd5af7",
+      "time": "2026-08-05 10:11:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext Index fell more than 1% for a second session; constituents Zhongji Chuangxu tumbled over 10% and Xinyisheng slid over 8%."
+    },
     {
       "id": "mkt:019fcfb0-234c-7aab-8f7d-3d972e7315e3",
       "time": "2026-08-05 10:10:54",
@@ -164879,145 +164966,6 @@
         "市場"
       ],
       "text": "【分散染料概念震盪走強 閏土股份觸及漲停】分散染料概念盤中震盪走強，閏土股份觸及漲停，錦雞股份、浙江龍盛、吉華集團、海翔藥業、善水科技漲幅靠前。"
-    },
-    {
-      "id": "te:markets:570573",
-      "time": "2026-07-29 10:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Asia FX Updates: Australian Dollar Drops by 0.36% — Top currency losers are Australian Dollar (-0.36%) and Indian Rupee (-0.25%). Gains are led by Japanese Yen (0.08%). Meanwhile, South Korean Won and Chinese Yuan were little changed."
-    },
-    {
-      "id": "mkt:019faba7-6eeb-7aab-8edb-4ceaf9791bb3",
-      "time": "2026-07-29 10:15:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's new-generation information technology accounts for 16.5% of valid invention patents】CNIPA deputy director Rui Wenbiao said at a State Council Information Office briefing on July 29 that as of end-June, new-generation information technologies—including artificial intelligence, the internet, cloud computing and big data—accounted for 16.5% of China’s valid invention patents."
-    },
-    {
-      "id": "mkt:019faba7-596c-7aab-8edb-409c581f1e53",
-      "time": "2026-07-29 10:14:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share lithography-equipment sector extended yesterday's selloff: Maolai Optics down >16%, Xinlai Applied Materials down >13%, Wavelength Photonics down >10%; Yongxin Optics hit the daily down limit, Lanying Equipment and Huachen Equipment down >9%."
-    },
-    {
-      "id": "5013451",
-      "time": "2026-07-29 10:14:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家智慧財產權局：做好“十五五”時期智慧財產權工作 突出高質量發展導向】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會，國家智慧財產權局相關負責人介紹“十五五”時期智慧財產權保護和運用有關情況。國家智慧財產權局相關負責人介紹，做好“十五五”時期智慧財產權各項工作，將重點突出五個方面：一是突出服務國家發展大局。進一步強調智慧財產權制度與經濟社會發展的融合統一，從智慧財產權創造、保護、運用、管理、服務、國際合作全鏈條明確重點任務，全方位主動服務好國家全面創新、高質量發展和高水平對外開放。二是突出培育發展新動能。圍繞新質生產力發展、關鍵核心技術攻關、特色優勢產業培育等國家“十五五”規劃《綱要》部署的重點任務，強化智慧財產權制度供給和技術供給，為經濟社會高質量發展注入新活力、提供新動能、塑造新優勢。三是突出高質量發展導向。最佳化“每萬人口高價值發明專利擁有量”等指標內涵，更加科學合理地設定直接反映智慧財產權對經濟發展貢獻度的相關指標，指標設計、重點任務等各方面注重與“十四五”時期相關指標任務的穩定銜接、梯次推進、接續實施。四是突出回應技術創新需求。面對新一輪科技革命和產業變革，在人工智慧、大資料、演算法等領域進一步完善智慧財產權保護規則，更大力度加強智慧財產權保護和運用，加強跨區域、跨部門智慧財產權協作，深度參與相關國際規則和標準制定，助力更好激發創新活力，更早搶佔發展先機。五是突出區域協調發展。強化智慧財產權對京津冀、長三角、粵港澳大灣區等重點區域、重大戰略實施的助力作用，促進智慧財產權政策與區域發展優勢協同融合，增強區域發展活力。"
-    },
-    {
-      "id": "mkt:019faba7-3d15-7aab-8edb-3e61ce8bb532",
-      "time": "2026-07-29 10:14:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China IP royalty exports CNY45.5 bln in first five months, up 64.9% YoY】The National Intellectual Property Administration told a State Council press briefing on July 29 that Chinese applicants remained among global leaders in PCT international patent filings, Hague-design international design applications and Madrid international trademark registrations in 1H, with overall filings edging up. The agency said IP royalty exports totaled CNY45.5 bln in the first five months, up 64.9% YoY, and that firms are increasingly monetizing IP to sharpen international competitiveness and upgrade services trade."
-    },
-    {
-      "id": "mkt:019faba6-ea8f-7aab-8edb-37bb84c2355c",
-      "time": "2026-07-29 10:14:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China had 574,000 firms with active invention patents at end-June】The National Intellectual Property Administration said at a briefing that corporate innovation momentum continues to rise. As of end-June, 574,000 Chinese firms held active invention patents, together holding 4.254 million valid invention patents, or 74.8% of the national total, up 0.3 percentage points from year-end, further consolidating firms' role as the main innovation drivers. Brand protection also rose: one in four business entities holds a valid registered trademark and 55,000 entities use geographical-indication marks."
-    },
-    {
-      "id": "5013450",
-      "time": "2026-07-29 10:14:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL科技投資成立技術新公司，含積體電路業務】企查查APP顯示，近日，深圳市華兆星光技術有限公司成立，註冊資本5億元，經營範圍包含：電子元器件零售；半導體照明器件銷售；顯示器件銷售；積體電路銷售等。企查查股權穿透顯示，該公司由TCL科技旗下TCL華星光電技術有限公司全資持股。"
-    },
-    {
-      "id": "5013449",
-      "time": "2026-07-29 10:14:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【汽車整車概念延續強勢 北汽藍谷逼近漲停】汽車整車概念延續強勢，北汽藍谷逼近漲停，江淮汽車、長安汽車、廣汽集團、海馬汽車、賽力斯跟漲。"
-    },
-    {
-      "id": "5013448",
-      "time": "2026-07-29 10:13:59",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【今年前五個月 我國智慧財產權使用費出口額455億元】國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，我國智慧財產權國際競爭力顯著加強。上半年，我國申請人提交的PCT國際專利申請、海牙體系外觀設計國際申請、馬德里商標國際註冊申請均穩居世界前列，整體規模穩中有升。前五個月，我國智慧財產權使用費出口額455億元，同比大幅增長64.9%，表明我國企業積極以智慧財產權塑造國際競爭新優勢，推動我國服務貿易向新向優。"
-    },
-    {
-      "id": "te:markets:570572",
-      "time": "2026-07-29 10:13:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Aussie Dollar Dips on Softer CPI Data — The Australian dollar fell below $0.695, reaching its weakest level in two weeks as softer inflation data dampened expectations of additional interest rate hikes. Headline inflation unexpectedly eased to a four-month low of 3.8% in June from both May's reading and forecasts of 4.0%, while monthly consumer prices unexpectedly fell 0.1% for a second straight month. Meanwhile, the closely watched trimmed mean inflation rate rose 3.6% annually, below expectations of 3.7%, while quarterly core inflation increased 0.8%, also undershooting forecasts. The softer-than-expected readings reinforced expectations that the Reserve Bank of Australia will remain cautious on further policy tightening, although inflation remains above its 2%–3% target range. Markets sharply scaled back expectations for another RBA rate hike this year, with the implied probability falling to around 50% from more than 90% before the release."
-    },
-    {
-      "id": "5013447",
-      "time": "2026-07-29 10:13:44",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【截至6月底 我國擁有有效發明專利的企業達57.4萬家】國務院新聞辦公室舉行“開局起步‘十五五’”系列主題新聞釋出會。國家智慧財產權局在釋出會上介紹，我國企業創新發展內生動力持續攀升。截至6月底，國內擁有有效發明專利的企業達到57.4萬家，擁有的有效發明專利數量達到425.4萬件，佔國內總量的74.8%，較上年末提升0.3個百分點，企業創新主體地位進一步鞏固。同時，品牌保護意識不斷提升，每4個經營主體就擁有1件有效註冊商標，使用地理標誌專用標誌的經營主體達到5.5萬家，企業品牌建設步伐持續加快。"
-    },
-    {
-      "id": "5013446",
-      "time": "2026-07-29 10:12:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新一代資訊科技領域有效發明專利佔總量16.5%】國家智慧財產權局在國務院新聞辦公室舉行的釋出會上介紹，我國重點領域創新動能不斷增強。截至6月底，人工智慧、網際網路、雲端計算、大資料等新一代資訊科技領域有效發明專利佔到總量的16.5%，前沿賽道專利的加速積累為打造新的經濟增長點賦能增效。重點產業商標品牌佈局持續完善，為相關產業品牌化發展提供了堅實支撐。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607293824687090",
-      "time": "2026-07-29 10:12:43",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【今晚美聯儲決議五類情境剖析！最可能出現的一幕是……】美聯儲定於北京時間週四凌晨2點公佈利率決議，美聯儲主席沃什則將按慣例於凌晨2點半主持召開新聞釋出會。面臨這一目前被業內譽為最難預測的美聯儲決議，摩根大通美國市場情報交易臺在最新研報中預計，美聯儲將維持利率不變，同時可能會至少出現兩票鷹派反對票——包括哈馬克和洛根的異議。"
-    },
-    {
-      "id": "mkt:019faba5-1c33-7aab-8edb-2bf990ae0969",
-      "time": "2026-07-29 10:12:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "On the A-share market, Zhongji Xuchuang's trading turnover reached 10 bln yuan; shares are trading up 0.7%."
-    },
-    {
-      "id": "5013445",
-      "time": "2026-07-29 10:11:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智元機器人等成立智慧科技服務新公司】企查查APP顯示，近日，新鄭市廣瑞雲智慧科技服務有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務；智慧機器人的研發；智慧機器人銷售；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司等共同持股。"
     }
   ]
 }

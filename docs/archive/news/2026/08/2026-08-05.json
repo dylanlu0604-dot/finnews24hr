@@ -1,7 +1,94 @@
 {
   "date": "2026-08-05",
-  "count": 988,
+  "count": 997,
   "items": [
+    {
+      "id": "te:markets:572774",
+      "time": "2026-08-05 10:14:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Indian Rupee Hits 4-week High — The Indian Rupee touched 94.96 against the USD, the highest since July 2026. Over the past 4 weeks, US Dollar Indian Rupee lost 0.36%, and in the last 12 months, it increased 8.31%."
+    },
+    {
+      "id": "5025780",
+      "time": "2026-08-05 10:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本廣島縣發生火災致3人死亡4人失聯】日本廣島縣東廣島市5日凌晨發生火災，3棟住宅失火，已造成3人死亡、4人失聯。當地時間5日3時30分（北京時間5日2時30分），東廣島市一名居民報警稱有建築物起火。消防部門出動9輛消防車進行撲救，大火約4個半小時後被撲滅。大火中，一棟兩層住宅被完全燒燬，火勢還蔓延至附近兩棟住宅。警方正在確認遇難者身份和失聯人員情況，並調查起火原因。（新華社）"
+    },
+    {
+      "id": "5025779",
+      "time": "2026-08-05 10:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額超200億元，現跌8.71%。"
+    },
+    {
+      "id": "5025778",
+      "time": "2026-08-05 10:13:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊短線拉昇，中公教育逼近漲停】教育板塊短線拉昇，中公教育逼近漲停，傳智教育此前漲停，科德教育、昂立教育跟漲。"
+    },
+    {
+      "id": "5025777",
+      "time": "2026-08-05 10:13:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SpaceX擬建地面基礎設施與衛星網路互補，向美國電信三巨頭髮起挑戰】SpaceX詳細闡述了擬透過建設地面基礎設施與衛星網際網路服務互補，從而直接與美國最大行動通訊運營商展開競爭的計劃。當地時間8月4日，SpaceX總裁兼營運長格溫·肖特韋爾（Gwynne Shotwell）在公司首次財報電話會議上表示，全美三大運營商AT&T、Verizon和T-Mobile每年創造的營收高達數千億美元。“我預計我們能夠吸引到他們相當一部分客戶，因為我認為我們的服務會更好，”她說。“我對Starlink Mobile的未來發展感到非常興奮。”“我們肯定會建設地面網路基礎設施，”肖特韋爾說。“這樣一來，除了衛星本身提供的通訊容量外，我們還將部署必要的硬體和系統，打造真正的行動通訊服務。”AT&T、Verizon和T-Mobile股價在盤後交易中均下跌超過4%。"
+    },
+    {
+      "id": "5025776",
+      "time": "2026-08-05 10:12:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Qwen-Image-3.0正式上線千問AI平臺】8月5日，據阿里雲訊息，阿里巴巴千問影象生成模型Qwen-Image-3.0正式上線千問AI平臺，面向所有使用者全部開放。旗艦版Qwen-Image-3.0-Pro與標準版Qwen-Image-3.0-Standard同時開放API，文生圖0.18元/張起。API已在千問AI平臺上線，海外使用者可透過Qwen Cloud接入。"
+    },
+    {
+      "id": "5025775",
+      "time": "2026-08-05 10:12:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國儲存兩巨頭高管被控涉嫌失信 警方啟動調查】據報道，韓國股東團體對三星電子和SK海力士的CEO提起刑事訴訟，指控其獎金不受集體談判協議約束，警方已對此案展開調查。"
+    },
+    {
+      "id": "mkt:019fcfb1-43e6-7aab-8f7d-4b4950f7ca0d",
+      "time": "2026-08-05 10:12:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Shareholder group accuses Samsung, SK Hynix CEOs of breach of trust; police open probe】A South Korean shareholder group has filed criminal complaints accusing the CEOs of Samsung Electronics and SK Hynix of breaching shareholder trust by approving bonus payments outside collective bargaining constraints and creating a payment mechanism that improperly consumed company assets. The group said on Aug. 5 it submitted complaints on July 22 to the National Police Agency’s National Investigation Office against Samsung co-CEOs Jun Young-hyun and Roh Tae-moon and SK Hynix CEO Kwak No-jung. The cases have been referred to the Gyeonggi Nambu Provincial Police Agency’s first and second investigation divisions, which have opened investigations under the Specific Economic Crimes Aggravated Punishment Act."
+    },
+    {
+      "id": "mkt:019fcfb0-c165-7aab-8f7d-450a96cd5af7",
+      "time": "2026-08-05 10:11:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext Index fell more than 1% for a second session; constituents Zhongji Chuangxu tumbled over 10% and Xinyisheng slid over 8%."
+    },
     {
       "id": "mkt:019fcfb0-234c-7aab-8f7d-3d972e7315e3",
       "time": "2026-08-05 10:10:54",
