@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-05 08:23:54",
-  "count": 17910,
+  "updated": "2026-08-05 08:27:57",
+  "count": 17913,
   "items": [
+    {
+      "id": "mkt:019fcf51-6037-7aab-8f7a-d14723655fa2",
+      "time": "2026-08-05 08:27:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed's Schmid: Core inflation ex-energy still too high; supply–demand imbalance is root cause】Fed official Schmid said inflation excluding energy remains well above 2% and is broad-based across goods and services. Monthly core inflation in the six months to June ran above the pace consistent with returning inflation to target; on a 12‑month basis core inflation is 3.2%, roughly 0.5pp higher than in June last year. While recent price pressures include supply shocks — shipping disruptions, oil and tariffs — Schmid cautioned against blaming inflation solely on supply factors, saying it reflects imbalances between supply and demand."
+    },
+    {
+      "id": "5025598",
+      "time": "2026-08-05 08:26:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國Kospi指數連續第二日上漲 晶片股漲幅居前】韓國Kospi指數一度上漲4.7%，其中晶片股領漲，隔夜美股半導體股大漲以及油價回落改善市場情緒。Kospi指數連續第二天上漲。“受油價下跌、利率走低以及美國半導體股走強等有利宏觀因素支撐，Kospi指數主要板塊可能普遍走強，並進入復甦階段，”NH Investment & Securities韓國現券股票主管Shawn Oh表示。週二費城半導體指數收盤上漲6.6%，博通和美光科技貢獻較大。有報告稱，2027年的儲存晶片產能已經售出，也進一步提振了市場情緒。"
+    },
+    {
+      "id": "5025597",
+      "time": "2026-08-05 08:25:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
+    },
+    {
+      "id": "5025596",
+      "time": "2026-08-05 08:25:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所對韓國綜合股價指數(KOSPI)啟動邊車機制。"
+    },
+    {
+      "id": "5025595",
+      "time": "2026-08-05 08:24:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【谷歌課堂Gemini擴充套件至全年齡段學生，新增情境化引導提示】當地時間8月4日，谷歌宣佈自2026年8月10日起，Google Classroom中的Gemini功能將向全年齡段的K-12及高等教育學生開放，前提是其管理員已授予相關許可權。學生可透過Classroom中的Gemini標籤頁將課程資料轉化為抽認卡、練習測驗等互動學習工具，或將其同步至Gemini Notebook以生成學習指南及音訊概覽。此外，該更新還引入了情境化引導提示功能，允許學生選擇特定課程和作業，直接結合作業要求和教學大綱進行針對性輔導。"
+    },
+    {
+      "id": "mkt:019fcf4e-71c5-7aab-8f7a-cd1f4eb7dfc6",
+      "time": "2026-08-05 08:24:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "US10Y"
+      ],
+      "text": "【Fed's Schmid: Don't ease vigilance after single-month inflation dip】Fed's Schmid said his focus remains on still-elevated inflation and that the Fed defines price stability as 2% inflation. He called June's slowdown encouraging but cautioned it is too early to rely on a single data point; volatile oil prices both boosted inflation in prior months and contributed to June's pullback. With oil prices rising again, any energy-driven easing is uncertain."
+    },
+    {
+      "id": "mkt:019fcf4e-2a0d-7aab-8f7a-c685c7f17595",
+      "time": "2026-08-05 08:23:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Kansas City Fed President Schmid: Fed must tighten policy to lower inflation】Kansas City Fed President Schmid said the Fed needs tighter monetary policy to return inflation to its 2% target and that the current stance is not restrictive. He warned inflation remains too high and should not be ignored even if driven by supply shocks, that recent relief in energy prices may be temporary, and that investment in artificial intelligence is pushing up inflation."
+    },
+    {
+      "id": "mkt:019fcf4d-cf1c-7aab-8f7a-bec41ac261b0",
+      "time": "2026-08-05 08:23:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose 3.00% intraday to 65,948.00 points."
+    },
     {
       "id": "5025594",
       "time": "2026-08-05 08:22:45",
@@ -20,6 +103,15 @@
         "國際"
       ],
       "text": "【美聯儲施密德：人工智慧領域的投資也在推高通脹 這是美聯儲無法忽視的】堪薩斯城聯邦儲備銀行行長施密德在講話中警告不要對由供給衝擊引發的通脹掉以輕心，並指出，在唐納德·特朗普總統中東戰爭局勢不斷變化的背景下，近期能源價格上漲帶來的緩解僅是曇花一現。 “儘管6月份最新的通脹資料呈現出令人鼓舞的放緩態勢，但相對於近期趨勢，過分重視單一資料點還為時過早，”這位官員表示，並補充道：“隨著油價再度上漲，能源價格緩解的態勢能持續多久尚不確定。” 施密德還指出，相對於美聯儲2%的目標而言，通脹的基本水平仍然過高，並補充說，人工智慧領域的投資也在推高通脹，這是美聯儲無法忽視的。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608053831837535",
+      "time": "2026-08-05 08:21:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲施密德稱，人工智慧投資正在推高通脹，美聯儲不應忽視這一點。近期能源價格的緩解可能是暫時的。"
     },
     {
       "id": "te:markets:572720",
@@ -165696,63 +165788,6 @@
         "國際"
       ],
       "text": "【超千名全球AI從業者聯名請求美政府支援國際合作，建立AI“剎車”機制】當地時間7月28日，來自OpenAI、Anthropic、谷歌等十餘家前沿AI公司的1134名研究人員和從業者，共同簽署了一份題為《掌控前沿技術》的公開宣告，指出全球領先AI公司可能已接近實現自動化AI研究，存在AI能力發展速度超出人類理解與控制能力的風險。但由於各企業與各國均面臨激烈競爭壓力、無人願單方面減速，聯名信請求美國政府支援一項國際合作，開發必要的技術與治理工具，以便有意識地掌控前沿自動化AI發展的節奏。"
-    },
-    {
-      "id": "5013217",
-      "time": "2026-07-29 08:27:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：與客戶簽訂的一般長期協議有效期約為5年。"
-    },
-    {
-      "id": "mkt:019fab44-f913-7aab-8ed7-a83b3c931acd",
-      "time": "2026-07-29 08:27:31",
-      "tags": [
-        "MKT News",
-        "SKHY.O"
-      ],
-      "text": "SK Hynix (SKHY.O) said long-term customer contracts typically run about five years."
-    },
-    {
-      "id": "mkt:019fab44-ead5-7aab-8ed7-a61386505076",
-      "time": "2026-07-29 08:27:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix (SKHY.O) said it expects the risk of memory oversupply to be limited amid capacity expansion."
-    },
-    {
-      "id": "te:economy:570531",
-      "time": "2026-07-29 08:26:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Food Inflation",
-        "Importance 1"
-      ],
-      "text": "Japan Food Sales Tax Set at 1% Under Takaichi’s Proposal — Japan plans to temporarily cut its sales tax on food and drinks to 1% for two years, Bloomberg reported. The government chose a low positive rate instead of zero to avoid the costly, time-consuming reprogramming of retailers’ cash registers; a 0% rate would take about a year to implement, while 1% could halve that timeline. To take effect in April 2027, the measure must still be legislated and passed by the Diet (parliament), with draft legislation expected in an extraordinary session in autumn 2026. Policymakers hope the measure will ease household burdens, though economists warned that prices may not fall as much as expected, limiting the benefit for consumers."
-    },
-    {
-      "id": "5013215",
-      "time": "2026-07-29 08:26:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：預計因產能擴張導致記憶體供應過剩的可能性有限。"
-    },
-    {
-      "id": "5013214",
-      "time": "2026-07-29 08:24:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國中央司令部：美國和沙烏地阿拉伯襲擊了伊拉克境內伊朗支援的武器設施】美國中央司令部：7 月 28 日，美國中央司令部與沙烏地阿拉伯武裝部隊在伊拉克發動精準打擊，目標為受伊朗革命衛隊指使、襲擊美軍及沙特能源設施的親伊朗武裝人員。過去 72 小時內，親伊朗武裝在伊朗革命衛隊指揮下發動逾 30 架次無人機襲擊，作為強硬回應，美沙兩國戰機對伊拉克東部多處武裝後勤據點與武器存放點實施空襲。此前針對美軍的無端襲擊均未得逞。2026 年 2 月至 4 月期間，伊拉克境內親伊朗武裝民兵針對美國公民及美方設施發動超 600 起襲擊圖謀。伊朗革命衛隊及其下屬武裝代理人必須停止此類襲擊，否則美國將採取進一步軍事行動。"
     }
   ]
 }
