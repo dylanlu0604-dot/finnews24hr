@@ -1,7 +1,46 @@
 {
   "date": "2026-08-05",
-  "count": 734,
+  "count": 738,
   "items": [
+    {
+      "id": "te:markets:572732",
+      "time": "2026-08-05 08:41:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains as Hormuz Deal Eyed — Silver held above $59.5 an ounce on Wednesday after rising for two straight sessions, as investors assessed reports of an imminent deal to reopen the Strait of Hormuz, which could ease inflation concerns and lower the likelihood of near-term Federal Reserve interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz, triggering a sharp decline in oil prices. Markets trimmed expectations for a September Fed rate hike to around 57%, down from 67% a day earlier. Still, New York Fed President John Williams said inflation continues to move gradually lower but reiterated that the central bank stands ready to raise interest rates if price pressures persist. Investors are now awaiting a fresh batch of US labor market data for further clues on the Fed’s policy outlook, with ADP’s July private payrolls report due later today."
+    },
+    {
+      "id": "5025610",
+      "time": "2026-08-05 08:40:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "據日經新聞，貝恩資本將以超過1000億日元（約6.35億美元）收購源自中國臺灣的茶飲連鎖品牌貢茶。"
+    },
+    {
+      "id": "te:markets:572730",
+      "time": "2026-08-05 08:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Track Wall Street Higher — The Nikkei 225 Index jumped 3.3% to above 66,000, while the broader Topix Index advanced 1.2% to 4,009 on Wednesday, extending gains from the previous session as Japanese equities followed Wall Street higher after the Dow and S&P 500 closed at fresh record highs. Global market sentiment was also lifted by a sharp drop in oil prices amid rising optimism over an interim agreement between the US and Iran to reopen the Strait of Hormuz. Domestically, data showed real wages increased for a sixth consecutive month in June, reinforcing the case for additional Bank of Japan interest rate hikes. Technology stocks led the rally, with Kioxia Holdings climbing 7.4%, Ibiden Co gaining 5.1%, Advantest rising 5.7%, Lasertec adding 4.2%, and SoftBank Group jumping 7.8%. Other heavyweight stocks also posted solid gains, including JX Advanced Metals (3.8%), Mizuho Financial (1.7%), and Sony Group (2.7%)."
+    },
+    {
+      "id": "5025609",
+      "time": "2026-08-05 08:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏微科技戰略投資為光能源 佈局固態變壓器賽道】據宏微科技訊息，近日，宏微科技透過參股基金，完成對西安為光能源科技有限公司B輪融資的戰略投資。公司表示，此舉標誌著公司在固態變壓器（SST）核心賽道上的關鍵落子，為AIDC、儲能、柔性配電網、新能源併網及兆瓦超充等戰略場景的深度佈局注入動能。"
+    },
     {
       "id": "5025608",
       "time": "2026-08-05 08:39:11",

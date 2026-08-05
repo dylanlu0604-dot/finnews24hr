@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-05 08:39:48",
-  "count": 17907,
+  "updated": "2026-08-05 08:43:49",
+  "count": 17905,
   "items": [
+    {
+      "id": "te:markets:572732",
+      "time": "2026-08-05 08:41:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gains as Hormuz Deal Eyed — Silver held above $59.5 an ounce on Wednesday after rising for two straight sessions, as investors assessed reports of an imminent deal to reopen the Strait of Hormuz, which could ease inflation concerns and lower the likelihood of near-term Federal Reserve interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz, triggering a sharp decline in oil prices. Markets trimmed expectations for a September Fed rate hike to around 57%, down from 67% a day earlier. Still, New York Fed President John Williams said inflation continues to move gradually lower but reiterated that the central bank stands ready to raise interest rates if price pressures persist. Investors are now awaiting a fresh batch of US labor market data for further clues on the Fed’s policy outlook, with ADP’s July private payrolls report due later today."
+    },
+    {
+      "id": "5025610",
+      "time": "2026-08-05 08:40:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "據日經新聞，貝恩資本將以超過1000億日元（約6.35億美元）收購源自中國臺灣的茶飲連鎖品牌貢茶。"
+    },
+    {
+      "id": "te:markets:572730",
+      "time": "2026-08-05 08:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Track Wall Street Higher — The Nikkei 225 Index jumped 3.3% to above 66,000, while the broader Topix Index advanced 1.2% to 4,009 on Wednesday, extending gains from the previous session as Japanese equities followed Wall Street higher after the Dow and S&P 500 closed at fresh record highs. Global market sentiment was also lifted by a sharp drop in oil prices amid rising optimism over an interim agreement between the US and Iran to reopen the Strait of Hormuz. Domestically, data showed real wages increased for a sixth consecutive month in June, reinforcing the case for additional Bank of Japan interest rate hikes. Technology stocks led the rally, with Kioxia Holdings climbing 7.4%, Ibiden Co gaining 5.1%, Advantest rising 5.7%, Lasertec adding 4.2%, and SoftBank Group jumping 7.8%. Other heavyweight stocks also posted solid gains, including JX Advanced Metals (3.8%), Mizuho Financial (1.7%), and Sony Group (2.7%)."
+    },
+    {
+      "id": "5025609",
+      "time": "2026-08-05 08:39:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏微科技戰略投資為光能源 佈局固態變壓器賽道】據宏微科技訊息，近日，宏微科技透過參股基金，完成對西安為光能源科技有限公司B輪融資的戰略投資。公司表示，此舉標誌著公司在固態變壓器（SST）核心賽道上的關鍵落子，為AIDC、儲能、柔性配電網、新能源併網及兆瓦超充等戰略場景的深度佈局注入動能。"
+    },
     {
       "id": "5025608",
       "time": "2026-08-05 08:39:11",
@@ -165699,56 +165738,6 @@
         "SKHY.O"
       ],
       "text": "SK Hynix (SKHY.O) aims to begin producing HBM4E memory products by 2027."
-    },
-    {
-      "id": "5013241",
-      "time": "2026-07-29 08:43:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大連電瓷：正穩步推進沙特組裝工廠專案，後續擴產計劃將視市場情況適時推進】大連電瓷7月29日在互動平臺表示，江西萍鄉二期產線於2025年三季度投產並在年底全面達產，目前已實現產能全面釋放。此外公司當前正在穩步推進沙特組裝工廠專案，公司將結合全球市場需求統籌產能佈局，後續擴產計劃將視市場情況適時推進。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202607293824200982",
-      "time": "2026-07-29 08:43:21",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國國家經濟社會研究院：英國央行今明兩年料按兵不動】英國國家經濟社會研究院（NationalInstituteofEconomicandSocialResearch，簡稱NIESR）7月29日釋出最新經濟展望報告稱，儘管物價上行壓力顯著，英國央行在未來一年半內大機率不會啟動加息。（新華財經）"
-    },
-    {
-      "id": "5013240",
-      "time": "2026-07-29 08:42:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士：正按計劃推進HBM4E的量產，預計將於2027年開始量產。"
-    },
-    {
-      "id": "5013239",
-      "time": "2026-07-29 08:42:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【英國國家經濟社會研究院：英國央行今明兩年料按兵不動】英國國家經濟社會研究院（National Institute of Economic and Social Research，簡稱NIESR）7月29日釋出最新經濟展望報告稱，儘管物價上行壓力顯著，英國央行在未來一年半內大機率不會啟動加息。（新華財經）"
-    },
-    {
-      "id": "5013238",
-      "time": "2026-07-29 08:40:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI債券熱潮降溫 大型科技公司發債變難變貴】幾個月來，大型科技公司大型科技公司大舉湧入債券市場，發行規模龐大的債券；起初，吸引渴望搭上AI熱潮的投資人爭相搶購。但隨著需求減弱和泡沫疑慮加劇，這類交易如今變得更難完成，融資成本也更高。貝萊德週一發行125億美元的債券，收益率高達7.53%。資料顯示，這是自去年AI融資熱展開以來，收益率最高的藍籌資料中心債券發行之一。自2025年以來，全球AI相關債務融資規模已超過5,700億美元，借貸成本也隨之飆升。在更多交易還在排隊上場之際，這股熱潮已將信用市場推向極限，也引發銀行等機構設法對沖投資萬一無法獲得回報的風險。"
-    },
-    {
-      "id": "5013237",
-      "time": "2026-07-29 08:39:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：釋出開源的程式碼安全命令列工具。"
     }
   ]
 }
