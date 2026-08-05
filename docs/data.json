@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-05 21:17:04",
+  "updated": "2026-08-05 21:20:56",
   "count": 17933,
   "items": [
+    {
+      "id": "5027101",
+      "time": "2026-08-05 21:19:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "查爾斯河實驗室高管稱，繼續預計北美研究模型業務量將下降，學術和政府客戶的支出因美國國立衛生研究院預算持平及撥款審批流程放緩而受限。"
+    },
+    {
+      "id": "5027100",
+      "time": "2026-08-05 21:17:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【米哈遊法務部：未經授權釋出遊戲洩密影片，洩密人員被判刑】8月5日，據米哈遊法務部訊息，米哈遊旗下游戲洩密刑事案件於近日迎來一審判決，認定B站使用者蘇某（賬號“真不想澀澀”）及吳某（賬號“風堇lover-兜兜”）侵犯著作權罪成立，分別判處有期徒刑一年二個月（適用緩刑）及有期徒刑一年（適用緩刑）。米哈遊法務部表示，本案是適用兩高發布的新司法解釋後首例遊戲洩密刑事案件：蘇某侵權影片點選量達60餘萬次、吳某達30餘萬次，均已超過司法解釋規定的刑事追訴標準，依法構成追訴條件，法院據此對兩人作出定罪判決。"
+    },
+    {
+      "id": "mkt:019fd212-5089-7aab-8f8c-f11d0c8e0eab",
+      "time": "2026-08-05 21:17:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "NVDA.O",
+        "AMD.O"
+      ],
+      "text": "【Anthropic confirms chip team to develop in‑house chips for Claude】Business Insider reports AI startup Anthropic has confirmed it is assembling an internal chip team to design custom accelerators for its Claude model. A job posting and company statement show Anthropic is hiring engineers to design bespoke chips; a spokesperson said this is the company’s first public confirmation. The spokesperson said Anthropic will co-design hardware and AI models so Claude can \"run faster and more efficiently at customer scale.\" They added Anthropic will pursue a multi‑chip strategy and will continue to rely on hardware from AWS, Google, NVIDIA and AMD as key components when scaling compute."
+    },
+    {
+      "id": "5027099",
+      "time": "2026-08-05 21:16:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲黎巴嫩南部】以色列軍方5日稱，為回應黎巴嫩真主黨“公然違反”停火協議，以軍開始空襲黎巴嫩南部。（新華社）"
+    },
     {
       "id": "5027098",
       "time": "2026-08-05 21:16:05",
@@ -618,6 +655,14 @@
         "公司"
       ],
       "text": "【上交所：將MINIMAX、立訊精密、三環集團調入港股通標的名單】8月5日，上交所釋出通知，根據《上海證券交易所滬港通業務實施辦法》的有關規定，滬港通下港股通標的名單發生調整，調入MINIMAX-W、立訊精密、三環集團，並自下一港股通交易日起生效。"
+    },
+    {
+      "id": "5027052",
+      "time": "2026-08-05 20:48:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：到2030年，民營經濟增加值佔比達33%左右】近日，《上海市促進民營經濟發展“十五五”規劃》（以下簡稱《規劃》）釋出。《規劃》提出，到2030年，上海民營經濟總量規模再上新臺階，質量結構進一步最佳化。創新能力持續提升，推動新質生產力發展取得成效；開放活力明顯增強，進一步發揮民營經濟在外貿領域的重要作用，提升民營企業國際化水平；社會貢獻不斷提高，構築穩就業、保民生的堅實底座；制度環境持續最佳化，厚植民營經濟發展沃土，讓企業與城市發展同頻共振、雙向奔赴。到2035年，上海民營經濟高質量發展成效明顯，市場化、法治化、國際化一流營商環境更優，打造成為創新活力充分迸發、一流企業競相湧現的民營經濟發展新高地。《規劃》共設定5項預期性指標：到2030年，民營經濟增加值佔比達33%左右；民營“四上”企業研發費用在5000億元以上；民營專精特新“小巨人”企業數位居全國前列；民營企業貨物進出口總額在3萬億元左右；“四上”企業從業人員數民營佔比在48%左右。（澎湃）"
     },
     {
       "id": "mkt:019fd1f7-3c4a-7aab-8f8c-64c72e5031d9",
@@ -165953,48 +165998,6 @@
         "國際"
       ],
       "text": "【應急管理部針對四川啟動國家地質災害四級應急響應】據氣象部門預測，7月29日至8月1日，四川中東部和南部局地有大到暴雨，部分地區有大暴雨。應急管理部經與自然資源部聯合會商研判，四川中東部區域性發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月29日針對四川啟動國家地質災害四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5014703",
-      "time": "2026-07-29 21:20:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPEL SEMICONDUCTOR：批准與CALSOFT及NATRONIX-INDIA達成戰略三方諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019fae08-b66d-7aab-8eeb-2f36033b409b",
-      "time": "2026-07-29 21:20:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath, citing sources, said a Hamas delegation will meet the chairman of the peace committee in Cairo tonight."
-    },
-    {
-      "id": "5014702",
-      "time": "2026-07-29 21:20:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本氣象廳稱，天草地區發生地震。"
-    },
-    {
-      "id": "5014701",
-      "time": "2026-07-29 21:19:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "第一能源公司表示，已啟動下一代工廠的選址流程。"
-    },
-    {
-      "id": "mkt:019fae07-3bb7-7aab-8eeb-20a21e94795d",
-      "time": "2026-07-29 21:18:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Indonesia begins G2G imports of Russian oil to bolster energy security】Indonesia has begun government-to-government imports of Russian oil and fuel to strengthen energy security, the government said. The program aims to maintain reserve levels, prevent shortages and ensure sufficient domestic supply; the first phase is complete and imports have started under a direct G2G arrangement. Jakarta has begun taking part of an agreed 150 million-barrel allocation from Russia, with deliveries processed through the country’s oil and gas testing center."
     }
   ]
 }
