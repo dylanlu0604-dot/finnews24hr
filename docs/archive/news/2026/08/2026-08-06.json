@@ -1,7 +1,79 @@
 {
   "date": "2026-08-06",
-  "count": 59,
+  "count": 67,
   "items": [
+    {
+      "id": "mkt:019fd2d0-a394-7aab-8f91-439629b44008",
+      "time": "2026-08-06 00:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's President Zelenskiy said he spoke by phone with the NATO secretary-general about ballistic missile issues."
+    },
+    {
+      "id": "5027367",
+      "time": "2026-08-06 00:45:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "Point72向客戶表示仍在對此次網路攻擊開展調查。"
+    },
+    {
+      "id": "5027366",
+      "time": "2026-08-06 00:44:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "Point72告知投資者其遭遇網路攻擊，初步核查顯示暫無客戶資訊被盜。"
+    },
+    {
+      "id": "mkt:019fd2d0-3521-7aab-8f91-3f0cd4f6f6d6",
+      "time": "2026-08-06 00:44:48",
+      "tags": [
+        "MKT News",
+        "PSX.N",
+        "Impact bullish"
+      ],
+      "text": "Phillips 66 (PSX.N) says it holds a more optimistic view of midcycle refining margins than previously expected."
+    },
+    {
+      "id": "mkt:019fd2cf-6fbe-7aab-8f91-32f8cc5c503a",
+      "time": "2026-08-06 00:43:57",
+      "tags": [
+        "MKT News",
+        "PSX.N",
+        "Impact bullish"
+      ],
+      "text": "Phillips 66 (PSX.N) expects refining fundamentals to strengthen further following the Iran conflict."
+    },
+    {
+      "id": "mkt:019fd2cf-5086-7aab-8f91-2f333fbbec17",
+      "time": "2026-08-06 00:43:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PSX.N",
+        "Impact bullish"
+      ],
+      "text": "Phillips 66 (PSX.N): the macro environment for refining remains strong."
+    },
+    {
+      "id": "5027365",
+      "time": "2026-08-06 00:42:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士：即便伊朗與阿曼達成協議，霍爾木茲海峽重新開放仍需另行安排，其中也包含美國履行相關承諾。"
+    },
+    {
+      "id": "5027364",
+      "time": "2026-08-06 00:41:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【盧拉：美國撤銷巴西駐美大使簽證是“不負責任”做法】巴西總統盧拉5日接受媒體採訪時表示，美國政府近期撤銷巴西駐美大使簽證是“不負責任、缺乏考慮的做法”。盧拉呼籲兩國保持冷靜，同時強調巴西已做好準備，應對任何企圖干涉本國選舉程序的外部勢力。"
+    },
     {
       "id": "5027363",
       "time": "2026-08-06 00:40:49",
