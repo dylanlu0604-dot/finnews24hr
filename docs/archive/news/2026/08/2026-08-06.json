@@ -1,7 +1,35 @@
 {
   "date": "2026-08-06",
-  "count": 399,
+  "count": 402,
   "items": [
+    {
+      "id": "5027553",
+      "time": "2026-08-06 07:10:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【人民日報：駕馭好人工智慧這匹千里馬】前不久，美國開放人工智慧研究中心（OpenAI）承認，旗下部分人工智慧（AI）模型在一次內部安全測試中失控，突破隔離環境併入侵開源AI平臺的基礎設施。這起“前所未有的網路安全事件”引人深思：當人工智慧越來越像一匹日行千里的駿馬，如何才能駕馭好它？“千里馬”要跑得快，也要跑得穩。從生成式大模型到具身智慧，從AI程式設計助手到自主決策智慧體，人工智慧的能力邊界不斷拓展，應用場景持續豐富，而與之匹配的安全治理卻未必能完全跟上。此次事件中，部分AI模型在無指令下自主完成入侵、滲透、操控的全鏈條動作，暴露出治理能力沒有跟上技術發展。安全與發展從來不是非此即彼，管控好風險，創新才有試錯的空間；守住了底線，技術才有迭代的根基。統籌發展和安全，需要在法律法規、技術標準、風險監測等方面協同發力。從《人工智慧生成合成內容標識辦法》釋出，到《智慧體應用安全基本要求》強制性國家標準下達，再到一些人工智慧實驗室推出高安全、產業級智慧體平臺並開源智慧體守衛模型，探索將安全準則嵌入智慧體決策層……以規則的確定性應對技術的不確定性，讓安全治理覆蓋從模型研發到終端應用的各個環節，才能確保人工智慧始終安全、可靠、可控。"
+    },
+    {
+      "id": "5027551",
+      "time": "2026-08-06 07:10:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【需求旺盛景氣度高 光模組“噪音”影響有限】受一則涉及光模組出口的傳聞影響，8月5日A股開盤後，光模組龍頭企業“易中天”（新易盛、中際旭創、天孚通訊）股價大幅低開。對此，多位業內人士在接受記者採訪時表示，早在2025年，市場就傳出過光模組等產品可能被限制的訊息，行業對此已有預判並做了部分準備。短、中期看，鑑於旺盛的市場需求，中國的龐大產能、超高效率、更低成本等因素，海外嚴格禁止進口中國光模組的可能性較小，產業受到衝擊相對有限；但長期看，中國廠商部分海外市場的份額可能將會受到一定影響。（上海證券報）"
+    },
+    {
+      "id": "te:economy:573139",
+      "time": "2026-08-06 07:08:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "South Korea Current Account Hits Fresh Record High — South Korea’s current account surplus widened sharply to a new record high of USD 49.73 billion in June 2026, up from USD 38.61 billion in May, driven by robust growth in semiconductor exports. The goods account surplus climbed to USD 47.89 billion in June from USD 37.86 billion in May, as exports surged 84.5% year-on-year to USD 112.37 billion, outpacing the 38.6% rise in imports to USD 64.48 billion."
+    },
     {
       "id": "5027550",
       "time": "2026-08-06 07:07:08",
