@@ -1,7 +1,221 @@
 {
   "date": "2026-08-05",
-  "count": 1928,
+  "count": 1950,
   "items": [
+    {
+      "id": "mkt:019fd10c-7ccf-7aab-8f86-eba06c29c0f2",
+      "time": "2026-08-05 16:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK July official reserves change -$281 mln; prior -$5.978 bln."
+    },
+    {
+      "id": "mkt:019fd10c-7b98-7aab-8f86-e558c1e79795",
+      "time": "2026-08-05 16:31:23",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7503 per U.S. dollar at 16:30 on Aug 5, up 30 pips from the previous trading day."
+    },
+    {
+      "id": "mkt:019fd10c-3200-7aab-8f86-db88b1beab35",
+      "time": "2026-08-05 16:31:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Official Reserves Changes (Jul) | actual -281000000B | previous -5978000000B"
+    },
+    {
+      "id": "5026398",
+      "time": "2026-08-05 16:30:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德執行長：目前無意開展重大轉型式收購交易。"
+    },
+    {
+      "id": "mkt:019fd10c-065f-7aab-8f86-d5555815e63b",
+      "time": "2026-08-05 16:30:53",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Korea regulator rebuts Bloomberg column, denies Korea becoming 'uninvestable'】Korea's Financial Services Commission (FSC) on Tuesday evening rejected a Bloomberg column claiming Korea is becoming uninvestable, saying the piece relied on unspecified data. The FSC said investors need not worry that Korea would be deemed uninvestable given the country's emergence as an indispensable global AI supply‑chain and investment destination, and specifically disputed the column's characterization of 'forced liquidations'."
+    },
+    {
+      "id": "5026397",
+      "time": "2026-08-05 16:30:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7503，較上一交易日上漲30點。"
+    },
+    {
+      "id": "5026396",
+      "time": "2026-08-05 16:30:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "QLEANAIR與美國西海岸頂尖綜合醫療系統簽署約12.7萬美元設計協議，這是該客戶的首個潔淨室專案。"
+    },
+    {
+      "id": "te:markets:572963",
+      "time": "2026-08-05 16:30:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.06% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.06% increase."
+    },
+    {
+      "id": "mkt:019fd10b-692d-7aab-8f86-cb351dce4578",
+      "time": "2026-08-05 16:30:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK July services PMI (final) 52.1; consensus 51.8; prior 51.8."
+    },
+    {
+      "id": "mkt:019fd10b-5e44-7aab-8f86-c4df9115f002",
+      "time": "2026-08-05 16:30:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK July composite PMI (final) 52.2; consensus 52.1; previous 52.1."
+    },
+    {
+      "id": "5026395",
+      "time": "2026-08-05 16:30:05",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月服務業PMI終值 52.1，預期51.8，前值51.8。"
+    },
+    {
+      "id": "mkt:019fd10b-34f5-7aab-8f86-bf459ed82845",
+      "time": "2026-08-05 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Services PMI (Jul) | actual 52.1 | consensus 51.8 | previous 51.8"
+    },
+    {
+      "id": "mkt:019fd10b-3488-7aab-8f86-b40137f024c5",
+      "time": "2026-08-05 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Composite PMI (Jul) | actual 52.2 | consensus 52.1 | previous 52.1"
+    },
+    {
+      "id": "te:economy:572961",
+      "time": "2026-08-05 16:29:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "Taiwan Forex Reserves Smallest in Over a Year — Taiwan's foreign exchange reserves fell to USD 594.27 billion in July 2026 from USD 597.15 billion in the previous month. It marked the smallest figure since May 2025, mainly due to returns from the investment and utilization of foreign exchange reserves, exchange-rate fluctuations of major currencies against the US dollar, and efforts to maintain stability in the foreign exchange market. Meanwhile, foreign investors’ holdings of Taiwan stocks and bonds, valued at market prices, along with their New Taiwan dollar deposits, reached USD 1.663 trillion, equivalent to around 280% of the country’s foreign exchange reserves. In July 2025, Taiwan's foreign exchange reserves stood at USD 597.87 billion."
+    },
+    {
+      "id": "5026394",
+      "time": "2026-08-05 16:29:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【旺能環境：子公司浙江立鑫進入重整程式 啟動債權申報】旺能環境公告稱，2026年8月5日收到德清法院送達的《決定書》，指定浙江澤大（湖州）律師事務所為子公司浙江立鑫的管理人。浙江立鑫的債權人應在9月4日前向管理人申報債權，第一次債權人會議將於9月10日14時召開。不過，重整事項推進存在表決未透過、未獲法院批准、無法執行等不確定性。"
+    },
+    {
+      "id": "5026393",
+      "time": "2026-08-05 16:28:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：DDR顆粒漲幅趨緩，NAND價格反彈動能不足】8月5日，據TrendForce集邦諮詢最新發布的儲存現貨價格趨勢報告，DRAM現貨價格上漲勢頭自7月下旬以來有所減弱，4Gb DDR4和2Gb DDR3價格在交易量有限的情況下小幅上漲。NAND快閃記憶體方面，儘管本週512GbTLC Wafer的現貨價格上漲了4.55%，但由於缺乏強勁的購買需求，價格反彈勢頭依然疲軟。"
+    },
+    {
+      "id": "mkt:019fd10a-17ba-7aab-8f86-af73b809a7f6",
+      "time": "2026-08-05 16:28:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Interfax: Russian Defence Ministry said Russian forces hit three vessels in the Black Sea carrying Ukrainian military cargo."
+    },
+    {
+      "id": "mkt:019fd109-f168-7aab-8f86-a0943c195723",
+      "time": "2026-08-05 16:28:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said a decision on the framework for tax credits and tax cuts will be made in September."
+    },
+    {
+      "id": "5026392",
+      "time": "2026-08-05 16:28:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佳賢通訊向通宇通訊作出三年合計6億元淨利潤業績承諾，單年未達八成將觸發股份回購】8月4日晚，通宇通訊公告稱，公司擬以自有資金3億元，分兩個階段受讓深圳市佳賢通訊科技股份有限公司約25%股權，對應1815.27萬股。根據協議，佳賢通訊及相關承諾方承諾，2027年至2029年扣非歸母淨利潤分別不低於1億元、2億元和3億元。若任一年度實際淨利潤低於承諾值的80%，通宇通訊有權要求相關方回購其持有的全部或部分股份，回購價格按投資成本加年化6%收益計算，並扣除已獲得的分紅。"
+    },
+    {
+      "id": "5026391",
+      "time": "2026-08-05 16:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為MateBook Pro S正式釋出】8月5日，華為正式釋出超輕薄鴻蒙旗艦筆記本華為MateBook Pro S，搭載首款柔性OLED靈盾防窺屏，首發四天線設計，支援一公里外聯網，售價7999元起。"
+    },
+    {
+      "id": "5026390",
+      "time": "2026-08-05 16:28:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯軍隊在黑海擊中三艘載有烏克蘭軍用物資的船隻。"
+    },
+    {
+      "id": "5026389",
+      "time": "2026-08-05 16:28:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【如祺出行近三日累計漲逾42%】如祺出行8月5日收市上漲12.94%，近三個交易日累計漲幅超過42%。"
+    },
     {
       "id": "mkt:019fd109-2982-7aab-8f86-9ff8c1db8939",
       "time": "2026-08-05 16:27:46",

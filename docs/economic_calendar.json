@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 16:28:31",
+  "updated": "2026-08-05 16:32:22",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -7357,8 +7357,8 @@
               "importance": 2,
               "previous": "51.8",
               "forecast": "51.8",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "52.1",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174367",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -7415,8 +7415,8 @@
               "importance": 1,
               "previous": "52.1",
               "forecast": "52.1",
-              "actual": "--",
-              "actual_released": false,
+              "actual": "52.2",
+              "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174368",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
               "history": [
@@ -33573,8 +33573,8 @@
       "importance": 2,
       "previous": "51.8",
       "forecast": "51.8",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "52.1",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174367",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
@@ -33631,8 +33631,8 @@
       "importance": 1,
       "previous": "52.1",
       "forecast": "52.1",
-      "actual": "--",
-      "actual_released": false,
+      "actual": "52.2",
+      "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174368",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
       "history": [
