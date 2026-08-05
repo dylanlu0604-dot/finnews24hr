@@ -1,7 +1,28 @@
 {
   "date": "2026-08-06",
-  "count": 380,
+  "count": 382,
   "items": [
+    {
+      "id": "5027537",
+      "time": "2026-08-06 06:45:50",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【8月6日隔夜要聞一覽】\n1、特朗普：我們正與伊朗進行談判，看看後續會如何發展。願與伊朗達成一份協議。\n2、伊朗稱與阿曼接近達成協議，海峽現有兩條航道將關閉。\n3、英偉達收高3.43%，成交342.56億美元，已經連續五個交易日上漲，股價創兩個月來新高。\n4、谷歌首席科學家傑夫·迪恩以及另一位谷歌AI高管將離職創辦新公司，谷歌跌超4%。\n5、微軟：2026財年來自OpenAI相關業務收入241億美元，佔AI總銷售額的70%。\n6、Meta推出首款AI程式設計智慧體MUSE CODE，正面挑戰Anthropic與OpenAI。\n7、閃迪2026財年Q4營收89.6億美元，同比增長372%，市場預期83.94億美元，上年同期為19.01億美元。\n8、傑夫·貝索斯年內首次減持亞馬遜股票，套現3.5億美元。\n9、Meta公司的Muse Spark 1.1模型入侵了一家公司的系統，並對其內部系統作出修改。"
+    },
+    {
+      "id": "te:markets:573137",
+      "time": "2026-08-06 06:45:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 2.12% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 2.12% increase."
+    },
     {
       "id": "te:markets:573136",
       "time": "2026-08-06 06:40:03",
