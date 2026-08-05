@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-05 23:15:22",
-  "count": 17958,
+  "updated": "2026-08-05 23:19:30",
+  "count": 17962,
   "items": [
+    {
+      "id": "5027298",
+      "time": "2026-08-05 23:18:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "工會負責人稱，智利國家銅業公司旗下特尼恩特銅礦（El Teniente）擴建專案的暫停可能持續兩年。"
+    },
+    {
+      "id": "5027297",
+      "time": "2026-08-05 23:17:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國倫敦考文特花園發生持刀傷人事件，四人受傷，一名女性已被逮捕。"
+    },
+    {
+      "id": "5027296",
+      "time": "2026-08-05 23:16:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "優步執行長：尚未觀察到消費走弱的跡象。"
+    },
+    {
+      "id": "5027295",
+      "time": "2026-08-05 23:16:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達與埃及在安曼外長會晤期間，就地區緊張局勢以及霍爾木茲海峽問題展開磋商。"
+    },
+    {
+      "id": "mkt:019fd27f-1829-7aab-8f90-3578ccb7c24a",
+      "time": "2026-08-05 23:16:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve Bank of Dallas and the Federal Reserve Bank of New York will launch a pilot survey of the private credit market at the end of Q3 2026."
+    },
+    {
+      "id": "5027294",
+      "time": "2026-08-05 23:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部將過去25年的美國武器測試報告移出公開查閱渠道。"
+    },
+    {
+      "id": "5027293",
+      "time": "2026-08-05 23:14:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：歐盟針對巴西的食品合規審計將不涵蓋牛肉、雞蛋品類。"
+    },
+    {
+      "id": "5027292",
+      "time": "2026-08-05 23:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：我們本週末沒有前往巴基斯坦和卡達的計劃。"
+    },
     {
       "id": "5027291",
       "time": "2026-08-05 23:14:12",
@@ -166139,49 +166205,6 @@
         "MKT News"
       ],
       "text": "Shanghai Hande Information Technology Co., Ltd. has submitted a listing application to HKEX, according to an HKEX filing."
-    },
-    {
-      "id": "5014862",
-      "time": "2026-07-29 23:19:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：Prime Video 上線 Starz 與 Crunchyroll 捆綁套餐，月費 16.99 美元。"
-    },
-    {
-      "id": "5014861",
-      "time": "2026-07-29 23:17:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "【近十年主動ETF規模年均複合增長率達44%】從全球市場發展態勢來看，主動ETF已成為資產管理行業的重要增長引擎。截至2026年3月底，全球ETF市場總規模19.9萬億美元，其中被動ETF 17.8萬億美元，佔比89.4%；主動ETF 2.1萬億美元，佔比10.6%。近十年主動ETF規模年均複合增長率高達44%，顯著高於全量ETF的19%。易方達基金相關人士表示，首批18只主動股票ETF近日上報，有望為A股注入可觀增量資金。"
-    },
-    {
-      "id": "mkt:019fae73-cc25-7aab-8eee-c680e28e1841",
-      "time": "2026-07-29 23:17:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "i24News quoted an Israeli official saying a decision to strike Iran rests with Trump, and Israel is awaiting his decision."
-    },
-    {
-      "id": "mkt:019fae73-44ac-7aab-8eee-bbc3f5d4f97c",
-      "time": "2026-07-29 23:16:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Goldman: If Fed holds today, FX market will focus on odds of future hikes】Before the Fed decision the dollar index was flat amid unusually high outcome uncertainty. Goldman Sachs economists expect the Fed to hold today but anticipate at least one dissenting vote for a hike, noting war-driven energy-price volatility clouds the outlook. Market pricing assigns roughly a 30% chance of a rate increase today; CME data shows investors have priced in a September hike. Goldman says if the Fed holds, FX markets will focus on how much previously priced-in tightening shifts to later meetings."
     }
   ]
 }
