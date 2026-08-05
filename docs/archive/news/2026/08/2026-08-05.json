@@ -1,7 +1,186 @@
 {
   "date": "2026-08-05",
-  "count": 2384,
+  "count": 2405,
   "items": [
+    {
+      "id": "te:markets:573022",
+      "time": "2026-08-05 18:48:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Futures at Over 1-1/2-Year Highs — Rice futures traded around $14 per hundredweight, hovering close to their highest level since January 2025, as traders looked beyond ample current supplies and focused on climate-related risks. Rice production is highly dependent on rainfall and temperature, making the crop particularly vulnerable to weather disruptions. Forecasters warn that El Niño and broader climate change are increasing the frequency and intensity of droughts, heatwaves, and erratic monsoon rains across Asia, raising the risk of lower yields in major producing countries. While improved monsoon rains in India have accelerated planting and boosted exports, helping keep global supplies comfortable, uncertainty over weather conditions later in the growing season continues to support prices. Additional upside comes from the USDA's forecast for tighter US rice supplies and lower ending stocks."
+    },
+    {
+      "id": "5026768",
+      "time": "2026-08-05 18:48:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魅視科技：擬投1200萬元建磷化銦研發實驗室，授權管理層開展前期工作】魅視科技公告，公司已成立全資子公司珠海明曜作為磷化銦半導體材料專案實施主體，註冊資本1000萬元。專案分兩階段推進，第一階段擬投資1200萬元建設研發實驗室，配置20臺（套）工藝驗證裝置；第二階段預計總投資2億元—2.6億元。公司董事會授權管理層按整體專案規模提前開展環評等前期工作。"
+    },
+    {
+      "id": "mkt:019fd18a-0c5d-7aab-8f89-b5a6b40a1f3e",
+      "time": "2026-08-05 18:48:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry responds to Japan's new defense white paper】Foreign Ministry spokesman Lin Jian responded after Tokyo published its 2026 defense white paper, which labels China the \"greatest strategic challenge\" and says defense investment will support Japan's economy. Lin said China strongly objects and has lodged stern representations, accusing Tokyo of smearing China, blatantly interfering in Taiwan affairs, and accelerating \"re‑militarization\" in breach of Japan's constitution and international law. China said the white paper promotes development of long-range offensive capabilities and \"new forms of warfare\" and repackages military-industrial expansion as an economic growth driver, calling the trend a prominent threat to regional peace and stability and urging Japan to halt its military buildup."
+    },
+    {
+      "id": "5026767",
+      "time": "2026-08-05 18:48:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯一家無人機工廠負責人遇炸受傷，司機在汽車爆炸事件中身亡。"
+    },
+    {
+      "id": "5026766",
+      "time": "2026-08-05 18:48:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本財務大臣援引貝森特觀點 否認遭到美方施壓】日本財務大臣片山皋月表示，美國財長貝森特認為，日本財政狀況正在改善。此前，在華盛頓方面協助東京支撐日元之後，貝森特接受了一系列採訪，片山隨後發表了上述言論。“總體而言，貝森特表示日本正在朝著財政紀律方向邁進。”片山表示，並引用了貝森特在隔夜接受多家媒體採訪時的表態。她同時反駁了外界認為美國財長試圖對日本施加政策壓力的觀點。片山表示：“如果任何外國政府認為日本沒有妥善管理自身政策，就不會願意與我們合作。”片山皋月還表示，貝森特長期以來一直支援日本促進經濟增長的戰略。"
+    },
+    {
+      "id": "5026765",
+      "time": "2026-08-05 18:47:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "CAPRI HOLDINGS股價在公佈第一季度業績後盤前下跌6.8%。"
+    },
+    {
+      "id": "5026764",
+      "time": "2026-08-05 18:47:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的集團：已回購8739.04萬股A股，使用資金總額69.73億元】美的集團8月5日公告，公司於2026年3月30日召開第五屆董事會第十三次會議，審議透過了《關於以集中競價方式回購公司A股股份的方案》，同意公司以集中競價交易方式回購公司部分已發行的A股股份，用於實施股權激勵計劃及/或員工持股計劃，回購價格為不超過100元/股，回購金額為不超過130億元且不低於65億元，實施期限為自董事會審議透過回購股份方案之日起12個月內。截至2026年7月31日，公司累計回購8739.04萬股，佔公司目前總股本的1.15%，回購價格區間為73.66元/股至87.71元/股，累計使用資金69.73億元（不含交易費用）。"
+    },
+    {
+      "id": "5026763",
+      "time": "2026-08-05 18:47:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份：獲興業銀行不超9000萬元股票回購專項貸款承諾】中研股份公告稱，公司於2026年7月30日透過以集中競價交易方式回購股份方案，回購資金不低於5000萬元、不超1億元，回購期限3個月。近日，公司獲興業銀行長春分行出具的《貸款承諾函》，承諾貸款額度不超9000萬元，期限不超3年，用於回購公司股票。具體貸款以正式合同為準，獲批額度不代表回購金額承諾，公司將按規定履行披露義務。"
+    },
+    {
+      "id": "mkt:019fd189-19a8-7aab-8f89-ae6fcf74ddd9",
+      "time": "2026-08-05 18:47:30",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Japan finance minister cites Bessent, denies U.S. pressure】Japan's finance minister Katayama said U.S. Treasury Secretary Bessent told her he views Japan's fiscal position as improving. Katayama cited Bessent's recent interviews following Washington's assistance to Tokyo in supporting the yen and rejected suggestions the U.S. applied policy pressure, adding that Bessent has long supported Japan's strategy to promote growth and believes Japan is moving toward fiscal discipline."
+    },
+    {
+      "id": "5026762",
+      "time": "2026-08-05 18:47:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡普里控股（Capri）公佈2027財年收入預期約為34億美元。"
+    },
+    {
+      "id": "5026761",
+      "time": "2026-08-05 18:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來（Eli Lilly）公佈財年調整後每股收益展望為35.5-36.5美元。"
+    },
+    {
+      "id": "5026760",
+      "time": "2026-08-05 18:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "卡普里控股集團第二季度每股收益預期為0.2美元。"
+    },
+    {
+      "id": "5026759",
+      "time": "2026-08-05 18:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來：第二季度美國替爾泊肽營收增長44%，至49億美元。"
+    },
+    {
+      "id": "5026758",
+      "time": "2026-08-05 18:46:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "禮來公司股價盤前上漲7.4%，此前該公司上調了全年營收預期。"
+    },
+    {
+      "id": "mkt:019fd187-f6d8-7aab-8f89-a4d01eaf06ed",
+      "time": "2026-08-05 18:46:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【FAO warns of renewed global food-price inflation risk】The UN Food and Agriculture Organization warned prolonged Middle East and Russia-Ukraine conflicts, El Nifio-driven crop declines and rising input costs could trigger a new round of global food-price inflation. FAO flagged rising oil, fertilizer shortages in the Gulf, diesel shortfalls and extreme weather as near-term cost drivers and said Strait of Hormuz disruptions would hit agricultural inputs and logistics — Brent supports pumping, processing and transport while natural gas is central to fertilizer production. FAO chief economist Maximo Torero said commodity prices are beginning to rise and expects food prices to start increasing by year-end, with larger gains next year; pass-through to consumer prices typically takes about three to six months."
+    },
+    {
+      "id": "5026757",
+      "time": "2026-08-05 18:46:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【禮來美股盤前漲超5%】禮來美股盤前漲超5%，現報1181.14美元。"
+    },
+    {
+      "id": "5026756",
+      "time": "2026-08-05 18:45:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來追加投入45億美元用於擴建生產基地。"
+    },
+    {
+      "id": "5026755",
+      "time": "2026-08-05 18:45:46",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "禮來公司財年營收預期區間為850億至870億美元；FactSet市場一致預期為853億美元。"
+    },
+    {
+      "id": "5026754",
+      "time": "2026-08-05 18:45:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來第二季度Mounjaro營收99億美元，市場預期88.3億美元。"
+    },
+    {
+      "id": "5026753",
+      "time": "2026-08-05 18:45:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來第二季度Zepbound營收49.3億美元，市場預期46.4億美元。"
+    },
+    {
+      "id": "5026752",
+      "time": "2026-08-05 18:45:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來第二季度調整後每股收益8.38美元，去年同期6.31美元。"
+    },
     {
       "id": "5026751",
       "time": "2026-08-05 18:44:25",
