@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-06 00:26:04",
-  "count": 17979,
+  "updated": "2026-08-06 00:30:09",
+  "count": 17978,
   "items": [
+    {
+      "id": "5027357",
+      "time": "2026-08-06 00:27:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "有報道稱激進投資機構Starboard持有Shake Shack數億美元頭寸後，Shake Shack股價大漲8.9%。"
+    },
+    {
+      "id": "5027356",
+      "time": "2026-08-06 00:25:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧與英國外交大臣米利班德就雙方保障霍爾木茲海峽安全通航的承諾展開磋商。"
+    },
     {
       "id": "mkt:019fd2bd-ac81-7aab-8f91-003f80dc1b13",
       "time": "2026-08-06 00:24:33",
@@ -166326,30 +166342,6 @@
         "Energy"
       ],
       "text": "Kazakhstan’s foreign ministry said the Kazakh foreign minister held a phone call with U.S. Secretary of State Rubio to discuss developments around the Caspian Pipeline Consortium."
-    },
-    {
-      "id": "5014901",
-      "time": "2026-07-30 00:29:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "法航荷航集團提交約束性收購要約，計劃收購葡萄牙航空最高 49.9% 的股權。"
-    },
-    {
-      "id": "5014900",
-      "time": "2026-07-30 00:28:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及石油部宣告：達米埃塔港再氣化儲存船舶突發火情。"
-    },
-    {
-      "id": "5014899",
-      "time": "2026-07-30 00:28:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈薩克外交部：哈薩克外長與美國國務卿魯比奧通電話，雙方就裡海管道財團（CPC）相關局勢展開磋商。"
     }
   ]
 }
