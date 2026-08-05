@@ -1,7 +1,164 @@
 {
-  "updated": "2026-08-05 10:27:06",
-  "count": 17806,
+  "updated": "2026-08-05 10:30:57",
+  "count": 17811,
   "items": [
+    {
+      "id": "5025803",
+      "time": "2026-08-05 10:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內跌4%，現報8119.00元。"
+    },
+    {
+      "id": "5025802",
+      "time": "2026-08-05 10:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內跌5%，現報509.10元。"
+    },
+    {
+      "id": "mkt:019fcfc1-a232-7aab-8f7d-b0662a67b30f",
+      "time": "2026-08-05 10:30:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan's Chief Cabinet Secretary Kihara Minoru declined to comment on bond yields, saying they are determined by the market based on various factors."
+    },
+    {
+      "id": "mkt:019fcfc1-a070-7aab-8f7d-aeffb351f022",
+      "time": "2026-08-05 10:30:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Zhongwei.SS",
+        "Impact bullish"
+      ],
+      "text": "Shares of Zhongwei Semiconductor jumped over 10% after media reported South Korea's Samsung Electronics and SK Hynix are evaluating the company's chipmaking equipment for potential use at their China manufacturing sites."
+    },
+    {
+      "id": "mkt:019fcfc1-94fe-7aab-8f7d-a36e28703ce3",
+      "time": "2026-08-05 10:29:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Kihara said the government and the Bank of Japan maintain close, multi-level communication on economic and financial trends."
+    },
+    {
+      "id": "5025801",
+      "time": "2026-08-05 10:29:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "中微公司漲超10%。"
+    },
+    {
+      "id": "mkt:019fcfc1-7ead-7aab-8f7d-99d9c0ba3807",
+      "time": "2026-08-05 10:29:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Chief Cabinet Secretary Kihara declined to comment when asked about reports that Prime Minister Takaichi asked BOJ Governor Ueda to buy JGBs."
+    },
+    {
+      "id": "mkt:019fcfc1-01a4-7aab-8f7d-93053cd9752c",
+      "time": "2026-08-05 10:29:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Eight Immortals! enters China's all-time top-10 animated box office】Lighthouse Professional data show film Eight Immortals! has grossed over 1.239 bln yuan, putting it into China's all-time top ten animated films by box office."
+    },
+    {
+      "id": "5025800",
+      "time": "2026-08-05 10:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣汽埃安：AION RT 2027款今晚上市。"
+    },
+    {
+      "id": "5025799",
+      "time": "2026-08-05 10:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美國聯邦航空局調查一起涉及載有特朗普的軍用直升機安全事件】美國《華爾街日報》當地時間4日援引知情人士訊息報道，美聯邦航空局官員正在調查當日發生在美首都華盛頓特區的一起空中交通安全事件，該事件涉及一架載有美國總統特朗普的軍用直升機。（環球網）"
+    },
+    {
+      "id": "5025798",
+      "time": "2026-08-05 10:29:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官：政府和日本央行正就經濟和金融趨勢在各個層面保持密切溝通。"
+    },
+    {
+      "id": "5025797",
+      "time": "2026-08-05 10:28:36",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本內閣官房長官被問及有關首相高市要求日本央行行長購買日本國債的報道時，表示不予置評。"
+    },
+    {
+      "id": "5025796",
+      "time": "2026-08-05 10:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：馬來西亞有望實現其2026年財政赤字目標】Affin Hwang IB分析師Nur Farah 'Ain Binti Zakaria和Vincent Loo Yeong Hong在一份報告中表示，在國際油價回落、燃料補貼成本低於預期以及Petronas強勁的派息能力的支援下，馬來西亞政府2026年佔GDP 3.5%的財政赤字目標有望實現。由於全球原油價格高企，預計今年燃料補貼支出將達到360億至400億林吉特，大幅超出2026年預算案中分配的150億林吉特。他們表示，下半年油價回落、Petronas潛在的特別股息、結構性改革帶來的更強勁稅收收入以及更嚴格的行政支出，預計將抵消更高補貼賬單的影響。他們補充說，即使赤字暫時擴大至GDP的3.7%-3.8%，這些因素也應能使馬來西亞的財政整頓穩步推進。"
+    },
+    {
+      "id": "5025794",
+      "time": "2026-08-05 10:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【八仙進入影史動畫片票房前十】據燈塔專業版資料，影片《八仙！》累計票房超12.39億，進入中國影史動畫片票房榜前十名。"
+    },
+    {
+      "id": "mkt:019fcfbf-027e-7aab-8f7d-8b06d962c23b",
+      "time": "2026-08-05 10:27:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share securities sector rallied briefly; Jinlong Shares hit the daily limit, with Guosheng Securities, Huaan Securities, Changjiang Securities and Xiangcai Shares also advancing."
+    },
+    {
+      "id": "te:economy:572780",
+      "time": "2026-08-05 10:26:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Falls on Hormuz Deal Prospects — The yield on the 10-year US Treasury note declined to around 4.6% on Wednesday, extending its losses for a third consecutive session as reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz drove oil prices sharply lower, easing concerns over inflation and the need for aggressive interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz. US Treasury Secretary Scott Bessent also said a deal could be reached as early as Tuesday or Wednesday. Markets trimmed expectations for a September Federal Reserve rate hike to around 57%, down from 67% a day earlier. Investors are now awaiting a series of US labor market reports for further clues on the Fed’s policy outlook, with ADP’s July private payrolls data due later today."
+    },
     {
       "id": "5025793",
       "time": "2026-08-05 10:26:21",
@@ -164688,101 +164845,6 @@
         "市場"
       ],
       "text": "【三大指數全部翻紅 上漲個股近4000只】市場探底回升，三大指數全部拉昇翻紅。乳業、教育、食品飲料、零售、油氣等方向漲幅居前，滬深京三市上漲個股近4000只。"
-    },
-    {
-      "id": "5013486",
-      "time": "2026-07-29 10:30:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "鋰電池板塊震盪拉昇，孚日股份漲停，欣旺達、天宏鋰電、國軒高科、孚能科技、時代萬恆、鵬輝能源跟漲。"
-    },
-    {
-      "id": "5013485",
-      "time": "2026-07-29 10:30:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "ISPACE與三菱重工簽署發射服務協議。"
-    },
-    {
-      "id": "5013484",
-      "time": "2026-07-29 10:30:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報58.10美元/盎司。"
-    },
-    {
-      "id": "5013483",
-      "time": "2026-07-29 10:30:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破58美元/盎司，日內漲0.83%。"
-    },
-    {
-      "id": "te:markets:570577",
-      "time": "2026-07-29 10:28:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Hit 8-week High — The Hang Seng Index climbed 1.5%, or 385 points, to 25,692 on Wednesday, reaching its highest level in eight weeks as technology shares extended their gains. Investor sentiment improved as concerns over AI-related valuations eased, while markets positioned ahead of the US Federal Reserve's policy decision and earnings from major US technology companies. Investor sentiment was also supported by reports that fast-fashion giant Shein is targeting a Hong Kong IPO at a valuation of US$40 billion to US$50 billion, boosting confidence over the city's capital markets. Meanwhile, renewed geopolitical tensions in the Middle East kept oil prices elevated, fueling concerns over inflation and the interest rate outlook. Despite these headwinds, bargain hunting helped support regional equities, particularly technology shares. Notable movers were Xiaomi (6.65), Li Auto (10.1%), Tencent (1.6%), Z.AI Co. (1.2%), and Meituan (2.0%)."
-    },
-    {
-      "id": "mkt:019fabb3-a4d9-7aab-8edb-d7a089b9827d",
-      "time": "2026-07-29 10:28:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC recorded a magnitude-3.8 earthquake at 10:23 on July 29 in Xinghai County, Hainan Prefecture, Qinghai (35.34°N, 99.54°E); focal depth 9 km."
-    },
-    {
-      "id": "5013482",
-      "time": "2026-07-29 10:28:17",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【臺當局拒上海派員參加小熊貓見面儀式 國臺辦回應】國務院臺辦舉行例行新聞釋出會。有記者問，今天，臺北市舉辦“小熊貓與臺北市民見面儀式”，上海市原擬派代表團赴臺參加，卻因民進黨當局拒絕代表團團長等入境申請，無法成行。請問對此有何評論？發言人陳斌華答問表示，上海臺北城市論壇作為上海與臺北兩市間重要的機制化交流平臺，為促進兩市各領域交流合作發揮了積極作用，成果有目共睹。小熊貓赴臺，受到臺灣同胞的廣泛歡迎。民進黨當局竟對上海贈送方派員參加見面儀式無理刁難、無理拒絕，充分暴露其“臺獨”本性和對抗思維。我們對此予以譴責。民進黨當局動輒阻撓限制兩岸正常交流合作、破壞兩岸關係的做法，完全違背島內主流民意，必遭臺灣民眾反對與唾棄。"
-    },
-    {
-      "id": "5013481",
-      "time": "2026-07-29 10:28:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月29日10時23分在青海海南州興海縣（北緯35.34度，東經99.54度）發生3.8級地震，震源深度9千米。"
-    },
-    {
-      "id": "5013480",
-      "time": "2026-07-29 10:27:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電網裝置板塊震盪回升 三變科技漲停】電網裝置板塊震盪回升，三變科技漲停，中辰股份漲超10%，雙傑電氣、紅相股份、大連電瓷、海興電力、順鈉股份等跟漲。"
-    },
-    {
-      "id": "5013479",
-      "time": "2026-07-29 10:27:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【合肥：上半年地區生產總值（GDP）7073億元 同比增長6.8%】合肥市統計局釋出2026年上半年合肥市經濟執行情況，根據地區生產總值統一核算結果，上半年，全市地區生產總值（GDP）7073億元，按不變價格計算，同比增長6.8%。分產業看，第一產業增加值118.8億元，增長2.2%；第二產業增加值2552.4億元，增長10.3%；第三產業增加值4401.8億元，增長5.0%。"
-    },
-    {
-      "id": "5013478",
-      "time": "2026-07-29 10:27:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指探底回升翻紅，此前一度跌超2.3%。"
     }
   ]
 }
