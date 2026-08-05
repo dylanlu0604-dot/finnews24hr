@@ -1,7 +1,101 @@
 {
   "date": "2026-08-05",
-  "count": 947,
+  "count": 958,
   "items": [
+    {
+      "id": "mkt:019fcfa5-72fd-7aab-8f7d-0e5a38075fd7",
+      "time": "2026-08-05 09:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong-listed SMIC (00981.HK) continues to climb, shares now up over 5%."
+    },
+    {
+      "id": "mkt:019fcfa4-f7ec-7aab-8f7d-034d5421ebd0",
+      "time": "2026-08-05 09:58:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor equipment sector extended intraday gains; semiconductor equipment ETFs from GF, Penghua (Sci‑Tech), Hua Xia and China Merchants each rose more than 4%."
+    },
+    {
+      "id": "5025754",
+      "time": "2026-08-05 09:57:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST寶馨等成立儲存科技新公司】企查查APP顯示，近日，深圳寶備儲存科技有限公司成立，經營範圍包含半導體分立器件製造；半導體分立器件銷售；網際網路資料服務；通訊裝置銷售；新能源原動裝置製造等。企查查股權穿透顯示，該公司由*ST寶馨(002514)等共同持股。"
+    },
+    {
+      "id": "mkt:019fcfa3-a8ea-7aab-8f7c-f91feca571c1",
+      "time": "2026-08-05 09:57:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean prosecutors searched seven petrochemical companies on suspicion of price-fixing."
+    },
+    {
+      "id": "5025753",
+      "time": "2026-08-05 09:57:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報7356.00點。"
+    },
+    {
+      "id": "mkt:019fcfa3-5abd-7aab-8f7c-f0706918e54a",
+      "time": "2026-08-05 09:56:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed to $4,100/oz, up 0.56% on the day."
+    },
+    {
+      "id": "mkt:019fcfa3-51f1-7aab-8f7c-edee910620b8",
+      "time": "2026-08-05 09:56:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia's benchmark stock index rose to 1,742.22 points, the highest level since May 18."
+    },
+    {
+      "id": "5025752",
+      "time": "2026-08-05 09:56:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲0.56%。"
+    },
+    {
+      "id": "5025751",
+      "time": "2026-08-05 09:56:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準股票指數 上漲 0.6% 至 1,742.22 點，為 5 月 18 日以來的最高點。"
+    },
+    {
+      "id": "5025750",
+      "time": "2026-08-05 09:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天合光能與上海交通大學共建數字能源聯合實驗室】據天合光能訊息，8月3日，上海交通大學聯合天合光能、天合富家舉辦數字能源聯合實驗室簽約儀式。聯合實驗室是天合光能聯動頂尖高校深化產學研融合的重要戰略佈局，未來將聚力數字能源關鍵技術攻關與成果產業化，推動光儲氫場景數字化、智慧化升級。"
+    },
     {
       "id": "mkt:019fcfa1-dc6c-7aab-8f7c-e7469f59abba",
       "time": "2026-08-05 09:55:19",
@@ -10,6 +104,14 @@
         "Important"
       ],
       "text": "China coking-coal front-month contract rose more than 2.00% intraday to 1,217 yuan/ton."
+    },
+    {
+      "id": "5025749",
+      "time": "2026-08-05 09:55:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "德銀將藥明康德H股目標價從167.40港元上調至207.40港元。"
     },
     {
       "id": "5025748",

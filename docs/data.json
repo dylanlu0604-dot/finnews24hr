@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-05 09:55:49",
-  "count": 17860,
+  "updated": "2026-08-05 09:59:43",
+  "count": 17855,
   "items": [
+    {
+      "id": "mkt:019fcfa5-72fd-7aab-8f7d-0e5a38075fd7",
+      "time": "2026-08-05 09:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong-listed SMIC (00981.HK) continues to climb, shares now up over 5%."
+    },
+    {
+      "id": "mkt:019fcfa4-f7ec-7aab-8f7d-034d5421ebd0",
+      "time": "2026-08-05 09:58:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor equipment sector extended intraday gains; semiconductor equipment ETFs from GF, Penghua (Sci‑Tech), Hua Xia and China Merchants each rose more than 4%."
+    },
+    {
+      "id": "5025754",
+      "time": "2026-08-05 09:57:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST寶馨等成立儲存科技新公司】企查查APP顯示，近日，深圳寶備儲存科技有限公司成立，經營範圍包含半導體分立器件製造；半導體分立器件銷售；網際網路資料服務；通訊裝置銷售；新能源原動裝置製造等。企查查股權穿透顯示，該公司由*ST寶馨(002514)等共同持股。"
+    },
+    {
+      "id": "mkt:019fcfa3-a8ea-7aab-8f7c-f91feca571c1",
+      "time": "2026-08-05 09:57:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean prosecutors searched seven petrochemical companies on suspicion of price-fixing."
+    },
+    {
+      "id": "5025753",
+      "time": "2026-08-05 09:57:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報7356.00點。"
+    },
+    {
+      "id": "mkt:019fcfa3-5abd-7aab-8f7c-f0706918e54a",
+      "time": "2026-08-05 09:56:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed to $4,100/oz, up 0.56% on the day."
+    },
+    {
+      "id": "mkt:019fcfa3-51f1-7aab-8f7c-edee910620b8",
+      "time": "2026-08-05 09:56:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia's benchmark stock index rose to 1,742.22 points, the highest level since May 18."
+    },
+    {
+      "id": "5025752",
+      "time": "2026-08-05 09:56:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲0.56%。"
+    },
+    {
+      "id": "5025751",
+      "time": "2026-08-05 09:56:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞基準股票指數 上漲 0.6% 至 1,742.22 點，為 5 月 18 日以來的最高點。"
+    },
+    {
+      "id": "5025750",
+      "time": "2026-08-05 09:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天合光能與上海交通大學共建數字能源聯合實驗室】據天合光能訊息，8月3日，上海交通大學聯合天合光能、天合富家舉辦數字能源聯合實驗室簽約儀式。聯合實驗室是天合光能聯動頂尖高校深化產學研融合的重要戰略佈局，未來將聚力數字能源關鍵技術攻關與成果產業化，推動光儲氫場景數字化、智慧化升級。"
+    },
     {
       "id": "mkt:019fcfa1-dc6c-7aab-8f7c-e7469f59abba",
       "time": "2026-08-05 09:55:19",
@@ -10,6 +104,14 @@
         "Important"
       ],
       "text": "China coking-coal front-month contract rose more than 2.00% intraday to 1,217 yuan/ton."
+    },
+    {
+      "id": "5025749",
+      "time": "2026-08-05 09:55:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "德銀將藥明康德H股目標價從167.40港元上調至207.40港元。"
     },
     {
       "id": "5025748",
@@ -165139,150 +165241,6 @@
         "國際"
       ],
       "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣盤。"
-    },
-    {
-      "id": "5013408",
-      "time": "2026-07-29 09:59:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "申鉉松：韓國央行將考慮通貨膨脹壓力、經濟和金融穩定性。"
-    },
-    {
-      "id": "5013407",
-      "time": "2026-07-29 09:59:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "申鉉松：韓國央行將在評估通脹和經濟狀況後決定政策。"
-    },
-    {
-      "id": "5013406",
-      "time": "2026-07-29 09:58:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊29日釋出多份公告說，伊朗伊斯蘭革命衛隊空軍當天用導彈打擊了位於約旦境內的一處美國空軍基地和指揮中心。（新華社）"
-    },
-    {
-      "id": "5013405",
-      "time": "2026-07-29 09:58:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【央行：今起陸續開展總量超2萬億隔夜逆回購操作】今天起（29日）到7月31日，中國人民銀行將每天開展6000億元隔夜逆回購操作、8月3日將開展3000億元隔夜逆回購操作。隔夜逆回購是央行進行公開市場操作的重要工具，主要作用是向市場投放短期流動性。具體操作上，隔夜逆回購首先由央行向大型銀行等一級交易商買入有價證券，相當於央行向市場“借出錢”。第二天，交易商按約定價格再將證券從央行贖回，資金從市場流回央行，從而完成短期流動性調控。（央視新聞）"
-    },
-    {
-      "id": "5013404",
-      "time": "2026-07-29 09:58:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機器視覺板塊震盪走弱，獅頭股份跌停】機器視覺板塊震盪走弱，獅頭股份跌停，奧普光電、波長光電、矩子科技、盛視科技、中潤光學、奧普特等跟跌。"
-    },
-    {
-      "id": "5013403",
-      "time": "2026-07-29 09:58:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富達在中國內地推出首隻互認基金】7月29日，富達基金管理（中國）有限公司宣佈，旗下首隻互認基金——“富達環球投資基金—香港債券基金”將於2026年8月10日正式開售。在投資組合構建方面，該基金重點投資於政府及政府相關機構、準主權發行人，以及大型高等級投資級企業債券，行業主要覆蓋跨國銀行、大型公用事業等優質發行主體。"
-    },
-    {
-      "id": "5013402",
-      "time": "2026-07-29 09:57:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行申鉉松：晶片行業將助力韓國經濟實現穩定增長。"
-    },
-    {
-      "id": "mkt:019fab97-798b-7aab-8eda-b25f1e063550",
-      "time": "2026-07-29 09:57:38",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "RIO (RIO.N) CEO says the company is considering how best to make the US Kennecott copper smelter profitable."
-    },
-    {
-      "id": "5013401",
-      "time": "2026-07-29 09:57:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價跌幅擴大至8.8%。"
-    },
-    {
-      "id": "mkt:019fab97-41b5-7aab-8eda-a9aec3f5d7c5",
-      "time": "2026-07-29 09:57:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange activated the KOSDAQ sidecar mechanism; program trading suspended for 5 minutes."
-    },
-    {
-      "id": "5013400",
-      "time": "2026-07-29 09:57:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長申鉉松：韓國央行認為有必要繼續加息。"
-    },
-    {
-      "id": "5013399",
-      "time": "2026-07-29 09:56:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7278.20點。"
-    },
-    {
-      "id": "5013398",
-      "time": "2026-07-29 09:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱打擊伊拉克境內受伊朗支援的目標】美軍中央司令部28日在社交媒體釋出訊息稱，美軍和沙烏地阿拉伯軍隊在伊拉克對“受伊朗支援的”目標進行了打擊。 訊息說，打擊目標是受伊朗伊斯蘭革命衛隊指使的“恐怖分子”，他們企圖襲擊美軍和沙特能源基礎設施。此次打擊是回應“過去72小時內由伊朗伊斯蘭革命衛隊指揮的30多次無人機襲擊”，美國和沙特戰機打擊了伊拉克東部多處“屬於恐怖分子的後勤與武器設施”。 訊息還稱，今年2月至4月，“伊朗支援的民兵”在伊拉克境內對美國公民和設施發動了600多次未遂襲擊。 另據伊朗法爾斯通訊社當地時間29日援引伊拉克訊息人士的話報道，沙特襲擊了伊拉克瓦西特省一處伊拉克什葉派民兵武裝“人民動員組織”的宿舍。 伊朗國家電視臺當地時間29日援引一名軍事情報官員的話說，伊朗否認其與他國擊中沙烏地阿拉伯境內目標有任何關聯。這名官員在接受採訪時表示：“將任何針對美國在該地區利益的行動都歸咎於伊朗是嚴重誤判，是缺乏對該地區局勢瞭解的結果。”（新華社）"
-    },
-    {
-      "id": "te:economy:570564",
-      "time": "2026-07-29 09:56:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Steadies Ahead of Fed Decision — The yield on the US 10-year Treasury note steadied around 4.62% on Wednesday as investors awaited the Federal Reserve’s upcoming policy decision, with policymakers widely expected to leave interest rates unchanged. However, markets continue to price in about a one-third chance of a 25-basis-point rate hike, reflecting an unusually high level of uncertainty this close to a policy meeting compared with recent years. Traders also assign roughly an 80% probability to a rate increase in September, reinforcing expectations that borrowing costs could remain elevated. Investors also monitored rebounding oil prices and renewed inflation concerns after fresh hostilities flared in the Middle East. The US military said it had successfully intercepted what it described as a surprise Iranian attack targeting US troops stationed across the Middle East, reigniting regional tensions."
-    },
-    {
-      "id": "mkt:019fab95-fadf-7aab-8eda-a1969caf506b",
-      "time": "2026-07-29 09:56:00",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated its KOSPI sidecar mechanism, suspending algorithmic trading for 5 minutes."
-    },
-    {
-      "id": "5013397",
-      "time": "2026-07-29 09:55:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長申鉉松：通脹將在相當長的一段時間內保持在目標之上。"
     }
   ]
 }
