@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-06 04:13:13",
-  "count": 17578,
+  "updated": "2026-08-06 04:17:14",
+  "count": 17572,
   "items": [
+    {
+      "id": "mkt:019fd391-c899-7aab-8f94-099358a5c8dd",
+      "time": "2026-08-06 04:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed governor Cook prepared to support rate hike if inf does not ease】Fed governor Cook said she is prepared to support further rate hikes if inf does not ease, warning policymakers may not have room to wait for inf to return to the Fed's 2% target. She supported the Fed's decision to keep rates unchanged at the July meeting but said the longer inf remains above target the harder it will be to rein in, and she would act if she does not soon see sustained declines. Cook warned five consecutive years of above-target inf raises the risk it becomes entrenched in price- and wage-setting. She added that fading tariff effects, potential oil-price declines and easing AI-related cost pressures could provide a buffer that might reduce the need for additional tightening, but her top priority remains returning inf to the Fed's target."
+    },
+    {
+      "id": "te:markets:573122",
+      "time": "2026-08-06 04:14:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "McKesson earnings above expectations at 9.93 USD — McKesson (MCK) released earnings per share at 9.93 USD, compared to market expectations of 9.65 USD."
+    },
     {
       "id": "te:markets:573121",
       "time": "2026-08-06 04:12:39",
@@ -161961,85 +161981,6 @@
         "Impact bullish"
       ],
       "text": "Microsoft (MSFT.O) said Microsoft 365 Copilot has surpassed 30 mln paid users."
-    },
-    {
-      "id": "mkt:019faf86-08bb-7aab-8ef8-f95edfeaa80e",
-      "time": "2026-07-30 04:17:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) said it booked a $3.2 bln gain in the fourth quarter from its Anthropic investment, and lower-than-expected costs from a voluntary separation program, together boosting EPS by $0.27."
-    },
-    {
-      "id": "5015209",
-      "time": "2026-07-30 04:15:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方宣佈，將在被佔領約旦河西岸傑寧、圖勒凱爾姆、努爾沙姆斯三地開展的軍事攻勢延長至9月底。"
-    },
-    {
-      "id": "mkt:019faf83-fc4d-7aab-8ef8-f05f8873cd03",
-      "time": "2026-07-30 04:14:50",
-      "tags": [
-        "MKT News",
-        "ARM.O"
-      ],
-      "text": "Arm (ARM.O) expects fiscal second-quarter revenue of $1.33–1.43 billion, vs. analysts' consensus of $1.35 billion."
-    },
-    {
-      "id": "5015208",
-      "time": "2026-07-30 04:14:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列媒體：北部地區居民已接到通知，很快將聽到爆炸聲，系以色列國防軍在黎巴嫩開展軍事行動所致。"
-    },
-    {
-      "id": "mkt:019faf83-7341-7aab-8ef8-ee747be83798",
-      "time": "2026-07-30 04:14:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) Q2 Reality Labs revenue $431m vs $428.7m expected; operating loss $4.62bn vs $4.45bn expected."
-    },
-    {
-      "id": "5015207",
-      "time": "2026-07-30 04:14:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "ARM預計第二財季營收13.3億至14.3億美元，分析師預估13.5億美元。"
-    },
-    {
-      "id": "5015206",
-      "time": "2026-07-30 04:13:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通預計，非手機業務營收（包括資料中心業務）的同比增速，在2027財年將加快至60%以上。"
-    },
-    {
-      "id": "5015205",
-      "time": "2026-07-30 04:13:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "高通預計，截至2029財年，非手機業務總營收將增長至400億美元。"
     }
   ]
 }

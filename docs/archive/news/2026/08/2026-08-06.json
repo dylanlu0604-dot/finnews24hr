@@ -1,7 +1,27 @@
 {
   "date": "2026-08-06",
-  "count": 286,
+  "count": 288,
   "items": [
+    {
+      "id": "mkt:019fd391-c899-7aab-8f94-099358a5c8dd",
+      "time": "2026-08-06 04:16:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fed governor Cook prepared to support rate hike if inf does not ease】Fed governor Cook said she is prepared to support further rate hikes if inf does not ease, warning policymakers may not have room to wait for inf to return to the Fed's 2% target. She supported the Fed's decision to keep rates unchanged at the July meeting but said the longer inf remains above target the harder it will be to rein in, and she would act if she does not soon see sustained declines. Cook warned five consecutive years of above-target inf raises the risk it becomes entrenched in price- and wage-setting. She added that fading tariff effects, potential oil-price declines and easing AI-related cost pressures could provide a buffer that might reduce the need for additional tightening, but her top priority remains returning inf to the Fed's target."
+    },
+    {
+      "id": "te:markets:573122",
+      "time": "2026-08-06 04:14:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "McKesson earnings above expectations at 9.93 USD — McKesson (MCK) released earnings per share at 9.93 USD, compared to market expectations of 9.65 USD."
+    },
     {
       "id": "te:markets:573121",
       "time": "2026-08-06 04:12:39",
