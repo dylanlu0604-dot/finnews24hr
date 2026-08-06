@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-06 23:50:17",
-  "count": 16650,
+  "updated": "2026-08-06 23:54:25",
+  "count": 16641,
   "items": [
+    {
+      "id": "5029272",
+      "time": "2026-08-06 23:52:49",
+      "tags": [
+        "宏觀",
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【IMF二把手預計日本央行將繼續推動貨幣政策正常化】國際貨幣基金組織（IMF）二號人物表示，日本經濟復甦正為日本央行在維持超寬鬆貨幣政策數十年後繼續推進政策正常化創造條件。IMF第一副總裁丹·卡茨表示，日本正經歷一場“意義深遠的長期轉型”，前首相安倍晉三發起的結構性改革如今才開始顯現成效。卡茨週四在開普敦接受採訪時表示：“日本央行已開始擺脫持續近30年的超低利率環境，推進貨幣政策正常化。”卡茨去年加入IMF前曾在美國財政部任幕僚長。他稱，預計“日本央行將採取一切必要措施履行其使命，也就是實現通脹方面的使命，同時也支援經濟增長”。在被問及日本央行為支撐日元還需要採取哪些措施時，卡茨表示：“通脹仍略高於目標水平，因此我預計正常化將繼續推進。”"
+    },
+    {
+      "id": "5029271",
+      "time": "2026-08-06 23:52:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：根據該協議，美國及以色列船隻禁止透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019fd7c5-398f-7aab-8fa4-6346765cb9a6",
+      "time": "2026-08-06 23:50:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) large bond offering drew about $115 billion of demand."
+    },
+    {
+      "id": "5029270",
+      "time": "2026-08-06 23:49:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所 7 月股票衍生品成交量環比下降 36%。"
+    },
     {
       "id": "5029269",
       "time": "2026-08-06 23:49:26",
@@ -152396,127 +152439,6 @@
         "Impact bearish"
       ],
       "text": "UK 10-year gilt yield extends decline, down 5 bps to 4.98%."
-    },
-    {
-      "id": "5017467",
-      "time": "2026-07-30 23:54:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債收益率延續跌勢，下跌5個基點至4.98%。"
-    },
-    {
-      "id": "te:markets:571312",
-      "time": "2026-07-30 23:54:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Rises to Over 3-Week High — The DAX 40 advanced more than 0.5% to trade above 25,600 on Thursday, reaching its highest level since the record highs of early July, as investors welcomed upbeat economic data and a rebound in semiconductor stocks. Germany’s economy expanded by 0.2% in Q1, exceeding expectations for 0.1% growth, while annual inflation accelerated to 2.8% in July from 2.3%, also topping forecasts. Infineon surged nearly 10%, leading gains as chipmakers recovered from recent losses. However, Adidas slumped 13% after lifting its revenue outlook but warning that rising costs would weigh on earnings growth. Airbus also declined around 3%, despite reporting solid second-quarter results, as investors were disappointed the aircraft manufacturer only reaffirmed, rather than upgraded, its full-year guidance."
-    },
-    {
-      "id": "te:markets:571311",
-      "time": "2026-07-30 23:54:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Strong Earnings — The CAC 40 rose 0.9% to close at 8,486 on Thursday, rebounding as investors welcomed another round of corporate earnings and guidance updates. L'Oréal gained 2.7% after reporting higher sales and profit, with growth across all business divisions. Schneider Electric surged 10.8% after posting record first-half results and raising its full-year sales and profit guidance, supported by strong AI-driven demand and margin expansion. Société Générale advanced 5.7% after second-quarter results beat expectations, prompting the bank to raise its profitability target and announce a new share buyback program. Vinci climbed 4.7% after reporting first-half earnings and free cash flow above forecasts. In contrast, Sanofi slumped 8.9% after second-quarter net profit fell 91.3%, while Stellantis lost 4.3% as investors remained concerned about mounting competition from Chinese automakers and costly recalls in North America. Saint-Gobain (+0.6%) is due to report earnings after the market close."
-    },
-    {
-      "id": "5017466",
-      "time": "2026-07-30 23:53:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "華納音樂股價迅速進一步下跌，跌至盤中新低8.7%。"
-    },
-    {
-      "id": "5017465",
-      "time": "2026-07-30 23:53:47",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "高通執行長：智慧手機市場將持續處於“低迷狀態”。"
-    },
-    {
-      "id": "5017464",
-      "time": "2026-07-30 23:53:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【無量資本：公司及股東等擬於近期合計出資1500萬元申購旗下基金產品】7月30日，海南無量私募基金管理有限公司公告稱，公司股東、公司主體、全體員工及上述人員直系親屬擬於近期產品開放日合計出資1500萬元資金申購公司旗下產品。"
-    },
-    {
-      "id": "5017463",
-      "time": "2026-07-30 23:52:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【對沖基金Situational Awareness聚焦AI投資鉅虧 將大部分股票投資組合出售給Citadel】知情人士透露，風頭正盛、聚焦人工智慧領域的對沖基金Situational Awareness遭遇鉅額虧損後，已將大部分股票投資組合出售給肯·格里芬旗下的Citadel。部分知情人士稱，近幾日該基金一直在為持倉尋找接盤方，並嘗試籌集新資金。其公開持倉包括韓國晶片廠商SK海力士等企業，這些資產因投資者對人工智慧板塊情緒降溫遭遇重創。Situational Awareness由前OpenAI員工利奧波德·阿申布倫納創立。該基金成立約兩年來，管理資產規模迅速突破200億美元。阿申布倫納曾被視作人工智慧領域的風向標，不少投資者密切跟蹤這家基金加槓桿大舉押注的操作動向。知情人士表示，Situational Awareness仍保留私募股權投資倉位，其中包含對人工智慧巨頭Anthropic的投資。另有訊息稱，多策略對沖基金千禧管理也曾參與競標Situational Awareness的股票投資組合。"
-    },
-    {
-      "id": "mkt:019fb3b9-db19-7aab-8f18-791e6386d48a",
-      "time": "2026-07-30 23:52:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Erdogan: Turkey supports Lebanon's sovereignty and territorial integrity】On July 30, Turkish President Erdogan said at a joint press conference with visiting Lebanese President Aoun that Turkey firmly supports Lebanon's sovereignty and territorial integrity amid ongoing Israeli occupation of southern Lebanon."
-    },
-    {
-      "id": "te:markets:571310",
-      "time": "2026-07-30 23:51:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 6-week High — The Canadian Dollar touched 1.40 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar lost 1.49%, and in the last 12 months, it increased 1.05%."
-    },
-    {
-      "id": "5017462",
-      "time": "2026-07-30 23:51:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃爾多安：土耳其支援黎巴嫩主權和領土完整】當地時間7月30日，土耳其總統埃爾多安與到訪的黎巴嫩總統奧恩舉行新聞釋出會。釋出會上，埃爾多安表示，在以色列對黎巴嫩南部持續佔領的背景下，雙方探討了地區發展，土耳其堅定支援黎巴嫩的主權和領土完整。（央視新聞）"
-    },
-    {
-      "id": "5017461",
-      "time": "2026-07-30 23:51:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "現貨鈀金向上觸及1300美元/盎司，日內漲2.39%。"
-    },
-    {
-      "id": "mkt:019fb3b8-bf7d-7aab-8f18-7378095ca92a",
-      "time": "2026-07-30 23:50:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Spot palladium rose to $1,300/oz, up 2.39% on the day."
-    },
-    {
-      "id": "te:markets:571309",
-      "time": "2026-07-30 23:50:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Rebound Sharply — European stocks closed sharply higher on Thursday amid strong GDP data and favorable corporate results. The Euro STOXX 50 rose 1.3% to 6,333 and the STOXX Europe 600 gained 0.6% to 649. The Eurozone GDP expanded by 0.4% in the second quarter, firmly above market expectations of 0.2% to reflect some resilience to soaring energy prices and sovereign yields in the period. Still, economic optimism was buffered by elevated EU-harmonized inflation rates, with pickups across Spain and Germany. Schneider Electric surged 10.8% after raising its full-year targets. BBVA climbed 5% after reporting an 11.4% increase in net profit. Also, ING rose more than 5% after posing their results, lifting other banks. On top of that, L'Oreal rose 2.7% after its earnings grew more than expected, and Ferrari maintained its slight gains after raising its guidance. On the downside, Adidas slumped 13.8% after its heavy marketing campaign around the FIFA World Cup triggered a surge in outlays."
     }
   ]
 }
