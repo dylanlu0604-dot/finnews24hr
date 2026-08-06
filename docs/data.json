@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-06 21:45:07",
-  "count": 16753,
+  "updated": "2026-08-06 21:49:00",
+  "count": 16742,
   "items": [
+    {
+      "id": "5029111",
+      "time": "2026-08-06 21:47:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【LME鋅現貨延續漲勢 市場擔憂可交割資源不足】LME鋅現貨延續漲勢，續創4年以來新高。LME資料顯示，可用鋅庫存降至僅73,850噸，目前有三家實體持有大量鋅倉單和現金合約，賦予其對可交割供應的顯著影響力，加劇了市場對可交割資源不足的擔憂。"
+    },
+    {
+      "id": "te:markets:573423",
+      "time": "2026-08-06 21:46:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Commerzbank earnings above expectations at 0.81 EUR — Commerzbank (CBK) released earnings per share at 0.81 EUR, compared to market expectations of 0.75 EUR."
+    },
+    {
+      "id": "te:markets:573422",
+      "time": "2026-08-06 21:46:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sempra Energy earnings above expectations at 1.16 USD — Sempra Energy (SRE) released earnings per share at 1.16 USD, compared to market expectations of 1.03 USD."
+    },
+    {
+      "id": "te:markets:573421",
+      "time": "2026-08-06 21:46:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Constellation Energy earnings above expectations at 2.55 USD — Constellation Energy (CEG) released earnings per share at 2.55 USD, compared to market expectations of 2.41 USD."
+    },
+    {
+      "id": "5029110",
+      "time": "2026-08-06 21:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里新一代影片生成模型Wan3.0開啟公測 單次可生成30秒影片】8月6日，阿里全新一代影片生成模型Wan3.0開啟公測。記者瞭解到，Wan3.0在生成時長、萬能創作、全能參考與真實感等維度全面升級：單次可生成30秒影片，完整表達創作意圖；在文字、圖片、音訊、影片四種基礎模態之外，首次支援doc、xls、ppt、pdf、md等文件格式輸入；力求準確還原真實世界——人物千人千面，每一幀畫面既真實、又可信。"
+    },
+    {
+      "id": "5029109",
+      "time": "2026-08-06 21:46:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "易捷航空<EZJ.L>股價下跌，在卡斯爾萊克宣佈放棄收購後，該股最新跌幅為5.5%。"
+    },
+    {
+      "id": "5029108",
+      "time": "2026-08-06 21:45:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ALPHABET股價下跌0.5%；新聞報道該公司尋求透過最新債券發行籌集至多250億美元。"
+    },
+    {
+      "id": "5029106",
+      "time": "2026-08-06 21:45:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "派拉蒙資源公司<POU.TO>公佈季度業績後股價上漲10%。"
+    },
     {
       "id": "5029105",
       "time": "2026-08-06 21:43:43",
@@ -153345,181 +153423,6 @@
         "其他"
       ],
       "text": "【上海：上半年累計接待遊客3.13億人次，同比增長17.60%】2026年上半年，上海文旅市場持續鞏固高質量發展向好態勢，呈現“客流穩步回升、消費韌性強勁、假日拉動顯著、數字服務賦能增效”的整體格局。從客流維度看，全市累計接待遊客3.13億人次，同比增長17.60%，月度走勢前穩後揚，春節、五一兩大假期形成明顯客流高峰。從消費維度看，全市全要素文旅消費總額達5433.26億元，同比增長8.75%。從文旅產業看，演出經濟、文商旅體展深度融合專案熱度持續走高，以“滬小遊”為核心的數字文旅服務平臺落地見效，線上諮詢、預約、購票一體化服務效能持續提升。從客源構成看，長三角通勤商務客群、全國來滬商旅人群、境外高淨值入境客群、本地品質休閒市民四大群體共同構成上海旅遊市場核心消費主體，多元客群疊加推動市場活力持續釋放。"
-    },
-    {
-      "id": "5017252",
-      "time": "2026-07-30 21:48:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4100美元/盎司，日內漲0.84%。"
-    },
-    {
-      "id": "5017251",
-      "time": "2026-07-30 21:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "殼牌首席財務官表示，更多液化天然氣運力已從亞洲轉向歐洲。"
-    },
-    {
-      "id": "5017250",
-      "time": "2026-07-30 21:48:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4160美元/盎司，日內漲1.54%。"
-    },
-    {
-      "id": "5017249",
-      "time": "2026-07-30 21:48:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌首席財務官表示，預計下季度液化天然氣市場將供應緊張。"
-    },
-    {
-      "id": "5017248",
-      "time": "2026-07-30 21:48:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "殼牌執行長表示，中東衝突對液化天然氣市場的主要影響集中在現貨市場。"
-    },
-    {
-      "id": "mkt:019fb348-3741-7aab-8f15-7be0b39abc35",
-      "time": "2026-07-30 21:48:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【PCE cools but Fed's job far from finished】June personal consumption expenditures (PCE) price index edged down — a modestly positive signal for the Fed but still well above the Fed's 2% target. Fed Chair Kevin Warsh said at a Wednesday press conference he will watch a broader set of inflation indicators beyond PCE. Despite an oil-price shock, US consumer spending remained resilient: Commerce Department data show consumer spending rose 3.2% in Q2, up from 0.5% in Q1."
-    },
-    {
-      "id": "5017247",
-      "time": "2026-07-30 21:48:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌首席財務官表示，預計下一季度液化天然氣市場將供應緊張。"
-    },
-    {
-      "id": "5017246",
-      "time": "2026-07-30 21:47:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "殼牌執行長表示，中東衝突對液化天然氣市場的主要影響體現在現貨市場。"
-    },
-    {
-      "id": "te:markets:571289",
-      "time": "2026-07-30 21:47:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Extends Gains on Softer Dollar — Gold climbed to $4,080 per ounce on Thursday, extending Wednesday's 2% rally as a weaker US dollar provided support, while investors assessed the Federal Reserve's decision to leave rates unchanged and monitored escalating tensions in the Middle East. The Fed kept rates at 3.50%-3.75%, with Chair Kevin Warsh reaffirming the central bank's commitment to bringing inflation down. Meanwhile, the US military said it struck dozens of IRGC targets in Iran after Tehran launched ballistic missiles at US troops in Jordan, raising concerns over renewed inflationary pressures. Although gold is widely viewed as a hedge against inflation and geopolitical uncertainty, expectations of higher interest rates for longer tend to weigh on the non-yielding metal. Markets are currently pricing in roughly a 60% chance of a Fed rate hike in September. Separately, the World Gold Council said unofficial gold inflows into India have risen since the country increased import tariffs earlier this year."
-    },
-    {
-      "id": "5017245",
-      "time": "2026-07-30 21:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特二季度的石油收入為1851億里亞爾。"
-    },
-    {
-      "id": "5017244",
-      "time": "2026-07-30 21:47:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪宣佈與芬蘭知名冰球俱樂部—赫爾辛基小丑冰球俱樂部（Jokerit Helsinki）達成合作，正式成為其官方合作伙伴。此次合作期至 2028 年，這是比亞迪首次涉足冰球領域，標誌著其深化芬蘭及北歐市場佈局的戰略決心。 （比亞迪）"
-    },
-    {
-      "id": "mkt:019fb347-8eb0-7aab-8f15-764b4f84133c",
-      "time": "2026-07-30 21:47:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Saudi Arabia's Q2 oil revenue was 185.1 bln riyals."
-    },
-    {
-      "id": "5017243",
-      "time": "2026-07-30 21:47:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林汪清：抗洪救災進行時】7月29日，吉林省延邊朝鮮族自治州汪清縣出現強降雨天氣，部分鄉鎮發生內澇，造成群眾被困、道路損毀、供電中斷等情況。強降雨過後，7月30日，汪清縣交通、通訊、供電等搶修工作緊張有序展開。截至30日8時，全縣已緊急轉移9個鄉鎮的8145名群眾。（新華社）"
-    },
-    {
-      "id": "mkt:019fb346-d9e0-7aab-8f15-6c08e4a58808",
-      "time": "2026-07-30 21:46:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Philadelphia Semiconductor Index (SOX) is poised for its largest single-day gain in over a month, trading up more than 6%. Nasdaq Composite's advance widened to 2%."
-    },
-    {
-      "id": "5017241",
-      "time": "2026-07-30 21:45:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲2.01%，現報24933.038點；道指漲0.47%，現報51834.770點；標普500指數漲1.00%，現報7389.250點。"
-    },
-    {
-      "id": "5017240",
-      "time": "2026-07-30 21:45:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【趙衝久與市（地）郵政管理局局長代表座談】7月22日、29日，國家郵政局黨組書記、局長趙衝久分別與參加2026年國家郵政局黨組管理幹部暨市（地）局“一把手”政治能力提升培訓班第一期、第二期的市（地）郵政管理局局長座談交流。局黨組成員、副局長沈鴻雁主持座談會。來自31個省（區、市）的81名市（地）局局長圍繞提升幹部隊伍能力素質、提高行業監管能力水平、推動行業“兩促進”“三提升”進行了工作彙報，其中31名同志作了現場發言。大家一致認為，在基層的具體實踐中不斷加深了對深化拓展快遞業黨建“兩個覆蓋”、快遞員群體合法權益保障、壓實企業總部統一管理責任、整治“內卷式”競爭、深化農村寄遞物流體系建設、提升執法隊伍能力水平等工作重要性的認識，凝聚了共識、明確了方向。（國家郵政局）"
-    },
-    {
-      "id": "mkt:019fb345-a2f2-7aab-8f15-62c078bc26cf",
-      "time": "2026-07-30 21:45:13",
-      "tags": [
-        "MKT News",
-        "09987.HK",
-        "Impact bullish"
-      ],
-      "text": "【Yum China (09987.HK) Q2 revenue +13% YoY; net new stores 560】Yum China (09987.HK) reported Q2 2026 revenue up 13% YoY to $3.1bn, or +6% excluding FX. Diluted EPS $0.70, +21% YoY, or +14% excluding FX; excluding mark-to-market gains on equity investments diluted EPS rose 10% YoY. Net new stores 560, a Q2 record and +67% YoY; 41% of net additions were franchised. Total stores 19,297 at June 30, with franchised locations 18% of the estate."
-    },
-    {
-      "id": "5017239",
-      "time": "2026-07-30 21:45:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北部灣港集團與天科院交流座談並簽署戰略合作協議】7月30日，北部灣港集團與來訪的交通運輸部天津水運工程科學研究院（簡稱“天科院”）交流座談並簽署戰略合作協議，共商合力攻堅港口領域關鍵技術，賦能技術成果落地與應用升級，攜手推動北部灣港加快建設“四個一流”強港，更好服務和融入廣西全域向海發展佈局。"
-    },
-    {
-      "id": "5017238",
-      "time": "2026-07-30 21:45:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百勝中國二季度總收入同比增長13%，淨新增門店560家】百勝中國(09987.HK)釋出2026年第二季度財務業績報告，總收入同比增長13%至31億美元，或增長6%，不計及外幣換算影響。每股攤薄盈利同比增長21%至0.70美元，或同比增長14%，不計及外幣換算影響。若進一步剔除按市值計價的股權投資的影響，每股攤薄盈利同比增長10%。淨新增門店560家，創第二季度新高，較去年同期增長67%，其中淨新增加盟店佔比為41%。截至2026年6月30日，門店總數達到19,297家，其中加盟店佔比為18%。"
     }
   ]
 }

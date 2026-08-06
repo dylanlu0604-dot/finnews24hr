@@ -1,7 +1,85 @@
 {
   "date": "2026-08-06",
-  "count": 2476,
+  "count": 2484,
   "items": [
+    {
+      "id": "5029111",
+      "time": "2026-08-06 21:47:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【LME鋅現貨延續漲勢 市場擔憂可交割資源不足】LME鋅現貨延續漲勢，續創4年以來新高。LME資料顯示，可用鋅庫存降至僅73,850噸，目前有三家實體持有大量鋅倉單和現金合約，賦予其對可交割供應的顯著影響力，加劇了市場對可交割資源不足的擔憂。"
+    },
+    {
+      "id": "te:markets:573423",
+      "time": "2026-08-06 21:46:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Commerzbank earnings above expectations at 0.81 EUR — Commerzbank (CBK) released earnings per share at 0.81 EUR, compared to market expectations of 0.75 EUR."
+    },
+    {
+      "id": "te:markets:573422",
+      "time": "2026-08-06 21:46:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sempra Energy earnings above expectations at 1.16 USD — Sempra Energy (SRE) released earnings per share at 1.16 USD, compared to market expectations of 1.03 USD."
+    },
+    {
+      "id": "te:markets:573421",
+      "time": "2026-08-06 21:46:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Constellation Energy earnings above expectations at 2.55 USD — Constellation Energy (CEG) released earnings per share at 2.55 USD, compared to market expectations of 2.41 USD."
+    },
+    {
+      "id": "5029110",
+      "time": "2026-08-06 21:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里新一代影片生成模型Wan3.0開啟公測 單次可生成30秒影片】8月6日，阿里全新一代影片生成模型Wan3.0開啟公測。記者瞭解到，Wan3.0在生成時長、萬能創作、全能參考與真實感等維度全面升級：單次可生成30秒影片，完整表達創作意圖；在文字、圖片、音訊、影片四種基礎模態之外，首次支援doc、xls、ppt、pdf、md等文件格式輸入；力求準確還原真實世界——人物千人千面，每一幀畫面既真實、又可信。"
+    },
+    {
+      "id": "5029109",
+      "time": "2026-08-06 21:46:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "易捷航空<EZJ.L>股價下跌，在卡斯爾萊克宣佈放棄收購後，該股最新跌幅為5.5%。"
+    },
+    {
+      "id": "5029108",
+      "time": "2026-08-06 21:45:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ALPHABET股價下跌0.5%；新聞報道該公司尋求透過最新債券發行籌集至多250億美元。"
+    },
+    {
+      "id": "5029106",
+      "time": "2026-08-06 21:45:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "派拉蒙資源公司<POU.TO>公佈季度業績後股價上漲10%。"
+    },
     {
       "id": "5029105",
       "time": "2026-08-06 21:43:43",
