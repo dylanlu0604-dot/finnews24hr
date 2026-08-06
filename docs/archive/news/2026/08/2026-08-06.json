@@ -1,7 +1,76 @@
 {
   "date": "2026-08-06",
-  "count": 2468,
+  "count": 2476,
   "items": [
+    {
+      "id": "5029105",
+      "time": "2026-08-06 21:43:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，由美國主導的“和平委員會”已就加沙地帶一處摩洛哥駐軍（150人）軍事基地的建設，授出了首份工程招標。"
+    },
+    {
+      "id": "5029104",
+      "time": "2026-08-06 21:43:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【莫迪與內塔尼亞胡通話就中東局勢交換意見】兩位領導人在一次高層電話通話中討論了關鍵的地區發展，並回顧了印度-以色列戰略伙伴關係，強調在地緣政治不確定性加劇之際繼續協調。"
+    },
+    {
+      "id": "te:markets:573420",
+      "time": "2026-08-06 21:43:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Lower as Copom Signals Caution — The Ibovespa fell 0.5% to below 177,000 on Thursday after the BCB stated that it will be cautious to deliver more rate cuts. On Wednesday, the central bank lowered the Selic rate by 25 basis points to 14.0%. Still, the Copom said it will maintain an appropriate degree of monetary restraint to ensure inflation converges to target and highlighted elevated global uncertainty. Financial stocks were mostly lower, with BB Seguridade down nearly 1%. Bradesco also lost nearly 1% after reporting a tenth consecutive quarter of profit growth, as investors focused on weaker credit quality indicators. Itaú extended gains by 1% following solid quaterly results. Axia rose over 1.5% after reporting a rebound in net profit. Petrobras gained near 1% ahead of its earnings release as oil prices rose."
+    },
+    {
+      "id": "5029103",
+      "time": "2026-08-06 21:41:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙休達行政區長官：安全部隊仍未在休達按所需強度部署。"
+    },
+    {
+      "id": "5029102",
+      "time": "2026-08-06 21:41:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍蟠科技：與LGES訂立銷售及採購框架協議，涉持續關聯交易】龍蟠科技公告稱，8月6日，公司與LGES訂立銷售及採購框架協議，有效期均為2026年1月1日至2028年12月31日。銷售框架協議下，公司向LGES供應龍蟠產品，2026-2028年建議年度上限均為90億元；採購框架協議下，LGES向公司供應產品，同期建議年度上限均為60億元。此前部分銷售交易未及時披露，公司已採取內控措施，防止類似情況發生。"
+    },
+    {
+      "id": "5029101",
+      "time": "2026-08-06 21:41:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍蟠科技：與LGES簽署持續關連交易協議並約定2026 - 2028年交易金額上限】龍蟠科技公告稱，公司第五屆董事會第十四次會議審議透過《關於與LG ENERGY SOLUTION,LTD.簽署持續關連交易協議的議案》。LGES持有公司三級控股子公司20%股權，視為關連人士。公司與其分別簽訂採購、銷售協議，並約定2026 - 2028年採購與銷售交易金額上限。該交易構成持續關連交易，須遵守相關規定，但豁免部分要求，且不構成上交所規定的關聯交易。議案表決結果為10票贊成，0票反對，0票棄權。"
+    },
+    {
+      "id": "5029100",
+      "time": "2026-08-06 21:40:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "國際餐飲品牌公司美股股價在公佈第二季度業績後下跌約2%。"
+    },
+    {
+      "id": "5029099",
+      "time": "2026-08-06 21:40:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國首個銀行業資料出境負面清單備案落地北京】北京市網際網路資訊辦公室6日釋出資訊稱，韓國農協銀行北京分行成為我國首家透過負面清單實現資料合規出境的銀行業機構。“依託北京資料跨境服務中心商務中心區服務站的專屬服務機制，服務站主動下沉對接企業需求，前置梳理企業資料出境業務場景，精準破解資料出境合規堵點難點。”北京市網信辦相關負責人說，“我們圍繞負面清單適用性研判、出境風險分級管控等關鍵環節提供一體化專業支撐，全流程跟進企業申報落地各項工作。”（新華社）"
+    },
     {
       "id": "te:markets:573419",
       "time": "2026-08-06 21:40:11",
