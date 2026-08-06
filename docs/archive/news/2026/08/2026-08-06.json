@@ -1,7 +1,118 @@
 {
   "date": "2026-08-06",
-  "count": 2236,
+  "count": 2248,
   "items": [
+    {
+      "id": "5028931",
+      "time": "2026-08-06 20:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "Azio AI：初步協議擬購買最多128套英偉達HGX B300 AI系統，硬體估值約7700萬美元。"
+    },
+    {
+      "id": "5028930",
+      "time": "2026-08-06 20:21:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會委員布倫納：休達發生的事件撼動了整個歐洲大陸的政治格局。"
+    },
+    {
+      "id": "te:economy:573392",
+      "time": "2026-08-06 20:21:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ghana",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ghana Inflation Rate Slows to 4.6% in July — The annual inflation rate in Ghana fell to 4.6% in July 2026 from a six-month high of 5.3% in the prior month. This marked the first monthly decline after three consecutive increases. Food inflation slowed to 3.1% from 3.9% the month before, as a more stable exchange rate helped curb imported inflation. The cost of imported goods rose by 2% year-on-year in July, slowing from a 2.3% rise in June. On a monthly basis, the CPI edged up by 0.1% in July, after a 0.2% increase in the previous month."
+    },
+    {
+      "id": "5028929",
+      "time": "2026-08-06 20:20:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅保公司執行長：將2026年電池儲能產量預估上調11%。"
+    },
+    {
+      "id": "5028928",
+      "time": "2026-08-06 20:20:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅保公司執行長：將2030年全球鋰需求預測下限上調10萬噸。"
+    },
+    {
+      "id": "5028927",
+      "time": "2026-08-06 20:20:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅保公司執行長：今年電池儲能應占全球鋰需求的30%，與輕型電動汽車市場的需求基本持平。"
+    },
+    {
+      "id": "5028926",
+      "time": "2026-08-06 20:20:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門親政府武裝週四表示，胡塞武裝襲擊多處軍事營地與部隊，造成人員傷亡及物資損毀。葉門應急部隊第一師稱己方營地遭到襲擊，但未說明襲擊發生地點，也未公佈傷亡數字。"
+    },
+    {
+      "id": "te:markets:573391",
+      "time": "2026-08-06 20:20:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds at 7-Week High — Gold prices were above $4,250 per ounce on Thursday, holding this week's rally at a seven week high as lower energy prices reduced certainty that the Federal Reserve was due to raise rates this year. US officials signaled they are chasing a ceasefire with Iran and an agreement to protect trade through the Persian Gulf, driving fuel prices to plunge since the start of August, and softening concerns that energy inflation would lift underlying consumer prices. Treasury yields consequently eased, lifting bullion prices as markets faced lower opportunity costs to hold assets that bear no interest. Elsewhere, data from clearing institutions indicated that institutional investors in China continued to increase long position on gold-backed assets for safety from volatility in tech stocks and recent signs of strength in the physical market, recently underpinned by central banks."
+    },
+    {
+      "id": "mkt:019fd704-3cde-7aab-8fa1-6b8f78d1c0f9",
+      "time": "2026-08-06 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US initial jobless claims for the week to Aug. 1 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fd703-a325-7aab-8fa1-63419c15d486",
+      "time": "2026-08-06 20:19:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) is seeking to raise up to $25 billion in a bond sale."
+    },
+    {
+      "id": "5028925",
+      "time": "2026-08-06 20:19:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波黑正式申請加入單一歐元支付區】波黑中央銀行（CBBH）6日釋出公告稱，該國今日正式申請加入單一歐元支付區（SEPA），這意味著波黑邁出融入歐洲支付區程序中重要一步。"
+    },
     {
       "id": "mkt:019fd703-18e8-7aab-8fa1-59f22b485976",
       "time": "2026-08-06 20:18:52",
@@ -67,6 +178,14 @@
         "Importance 0"
       ],
       "text": "DBS Holdings earnings above expectations at 1.08 SGD — DBS Holdings (D05) released earnings per share at 1.08 SGD, compared to market expectations of 0.98 SGD."
+    },
+    {
+      "id": "5028921",
+      "time": "2026-08-06 20:16:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【關志鷗會見深圳華強集團董事長李曙成一行】8月6日，湖北省委書記關志鷗在武漢會見深圳華強集團有限公司董事長李曙成一行。關志鷗對李曙成一行表示歡迎，感謝華強集團長期以來對湖北發展的大力支援。他說，當前，全省上下正按照習近平總書記賦予湖北加快建成中部地區崛起的重要戰略支點的使命任務，奮力建設武漢區域科技創新中心，加快構建體現湖北優勢的現代化產業體系，全力打造世界知名文化旅遊目的地。希望華強集團繼續支援湖北、深耕湖北，充分發揮品牌、技術、經驗等優勢，圍繞荊楚大地深厚的文化底蘊、豐富的紅色資源，加強專案謀劃和投資佈局，助力湖北深化文旅體融合發展；在光電子資訊、智慧製造等領域與湖北進一步深化務實合作，打造新的經濟增長點。我們將持續最佳化營商環境，加強服務保障，為企業在鄂發展創造良好條件。（湖北釋出）"
     },
     {
       "id": "5028920",
