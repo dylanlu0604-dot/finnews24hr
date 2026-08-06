@@ -1,7 +1,238 @@
 {
   "date": "2026-08-06",
-  "count": 1741,
+  "count": 1764,
   "items": [
+    {
+      "id": "mkt:019fd66b-a10b-7aab-8f9f-7832bd104384",
+      "time": "2026-08-06 17:33:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Challenger job-cut report: layoff pace slowed significantly this summer. Planned cuts remain concentrated in the tech sector. Artificial intelligence remains a focal point as investment in the technology reshapes firms."
+    },
+    {
+      "id": "mkt:019fd66b-102d-7aab-8f9f-760bb1fe941b",
+      "time": "2026-08-06 17:32:48",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Typhoon White Dolphin to affect Shanghai from Aug 7; significant wind and rain Aug 8–11】Shanghai meteorological observatory says the main impact window is Aug 8–11. From late Aug 7 through Aug 10 land gusts will increase, reaching force 8–9, with stronger gusts in the Yangtze estuary, river/coastal areas and Yangshan port. Heavy rain is expected Aug 8–10, with cumulative totals potentially exceeding 100 mm. Forecast uncertainty is high after the system enters the East China Sea due to interactions with mid‑latitude cold air, the subtropical high and other systems; an extreme scenario of landfall in northern Zhejiang overnight Aug 9–10 followed by northwestward movement would produce the most severe wind and rain for Shanghai."
+    },
+    {
+      "id": "5028531",
+      "time": "2026-08-06 17:32:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技：在手算力長單超150億元 客戶主動加價擴量】行雲科技(300209.SZ)釋出投資者關係活動記錄表公告，截至2026年7月末，公司在手算力、儲存類3-5年期長期框架訂單規模超154.04億元，合作客戶涵蓋頭部央企上市公司及頭部大模型研發機構。2026年7月，公司三筆核心訂單先後獲客戶加價擴量，其中頭部大模型客戶訂單金額漲幅超201%、算力規模翻倍；央企客戶租金整體上調79%；其餘核心訂單綜合漲價13.5%。所有加價均發生在首批裝置交付驗收後。2026年下半年，前述三筆核心訂單中V客戶的首批交付已完成驗收及確認起租，其他兩個客戶的首批交付預計在8月份完成驗收並開始確認收入，預計年內也有部分Token分成收入。公司所有核心長單均採用按月交付、按月回款、逐月確認收入的常態化模式。公司目前累計獲批綜合授信180.24億元，已批覆授信102.64億元。"
+    },
+    {
+      "id": "mkt:019fd66a-d37a-7aab-8f9f-6d9c919eaff7",
+      "time": "2026-08-06 17:32:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Challenger layoff report: July job cuts fell to 33,429, hiring plans edged up; AI cited as the primary reason for layoffs for the fifth consecutive month."
+    },
+    {
+      "id": "5028530",
+      "time": "2026-08-06 17:32:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光：控股子公司完成減資工商登記變更及備案】歐菲光公告稱，公司控股子公司安徽歐菲智慧車聯科技有限公司完成減資的工商登記變更及備案手續。此次回購登出員工持股計劃209名激勵物件股權等共計11239.23萬股，對應出資款13037.51萬元。公司註冊資本由95626.9439萬元變更為84387.7150萬元，公司持股比例由82.5241%增至93.5151%。完成購買少數股東股權後，安徽車聯將成公司全資子公司。"
+    },
+    {
+      "id": "5028529",
+      "time": "2026-08-06 17:32:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思林傑：持股5%以上股東減持0.5%股份】思林傑公告稱，8月6日，持股5%以上股東深圳市鴻盛泰壹號創業投資合夥企業（有限合夥）透過大宗交易方式，減持公司無限售流通股466,700股，佔公司總股本的0.50%。其持有公司股份比例由6.23%降至5.73%，本次權益變動觸及1%刻度。此次減持為履行此前披露的減持計劃，尚未實施完畢，不會導致控股股東及實控人變化，對公司無重大影響。"
+    },
+    {
+      "id": "mkt:019fd66a-8cfb-7aab-8f9f-6393c7edefb9",
+      "time": "2026-08-06 17:32:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Market Regions",
+        "Greater China",
+        "0700.HK",
+        "Impact bearish",
+        "9988.HK",
+        "0981.HK"
+      ],
+      "text": "Southbound flows net sold RMB 1.461 bln today. Via HK Stock Connect (Shanghai), Tencent Holdings and Alibaba‑W were net sold HKD 999 mln and HKD 218 mln respectively; the largest net buy totaled HKD 2.17 bln. Via HK Stock Connect (Shenzhen), SMIC and Alibaba‑W were net sold HKD 1.643 bln and HKD 1.41 bln respectively; the largest net buy totaled HKD 527 mln."
+    },
+    {
+      "id": "5028528",
+      "time": "2026-08-06 17:32:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【專家闢謠“車市半年發了五六百款新車”】針對上半年上市新車超500款的行業熱議資料，中國汽車流通協會專家李顏偉今日在社交平臺上表示，2026年1-6月國內全新車型僅約165款，市面流傳500至600款的說法並不嚴謹。李顏偉解釋，500多款是車型+各類配置、衍生款的合併統計。“比如新上市一款車型，有三個配置，這可以算作是1款車型，3個款型；如果上半年這165款車型，加上不同配置，或許能有500~600個款型；但是說成500-600款車型就不嚴謹了。”此前多家媒體採用寬口徑統計，稱1-5月新車550款、上半年超600款，引發行業內卷討論。比亞迪執行副總裁何志奇也曾公開發聲感慨行業現狀：“徹底瘋了，這可是汽車，一款新車動輒10億以上的投資，兩年以上的開發週期，居然熱度維持不了三個月，還沒捂熱就冷了。”（第一財經）"
+    },
+    {
+      "id": "5028527",
+      "time": "2026-08-06 17:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新氧再掀價格戰：“奇蹟童顏”最新定價999元/兩支】近日，據新氧內部訊息顯示，奇蹟童顏總銷量已近11萬支。同時，在奇蹟童顏上線一週年節點，新氧計劃把入門版“奇蹟童顏3.0 Pretty” 價格進一步降價至999元兩支。而在一年前，新氧銷售的艾維嵐，廠商指導價為18800元一支；普麗妍的指導價為16800元一支。（新浪科技）"
+    },
+    {
+      "id": "5028526",
+      "time": "2026-08-06 17:31:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：8月20日將審議上半年業績及中期股息建議】中信證券公告稱，董事會會議將於2026年8月20日舉行，將考慮及批准公司及其附屬公司截至2026年6月30日止六個月未經審計業績，以及派發中期股息的建議。"
+    },
+    {
+      "id": "5028525",
+      "time": "2026-08-06 17:31:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST金鴻順：控股股東300萬股股份將被司法拍賣】ST金鴻順公告稱，公司控股股東眾德科技持有公司29.99%股份。截至公告披露日，其持有的300萬股將被司法拍賣，佔其持有公司總股數的5.58%，佔公司總股本的1.67%。其中，40萬股將於2026年9月19日10時至9月20日10時在“淘寶網”司法拍賣，起拍價412.92萬元。目前拍賣尚在公示階段，結果存在不確定性，不會導致控股股東及實控人變化，也不影響公司日常經營。"
+    },
+    {
+      "id": "5028524",
+      "time": "2026-08-06 17:31:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劍橋科技：控股股東及其一致行動人減持393.83萬股】劍橋科技公告稱，截至2026年8月6日，控股股東CIG開曼及其一致行動人上海康令減持計劃時間區間屆滿。CIG開曼合計減持248.3萬股，佔減持計劃披露日公司股份總數的0.70%，減持總金額5.11億元，未完成減持552.34萬股；上海康令合計減持145.53萬股，佔比0.41%，減持總金額2.99億元，未完成減持7319股。"
+    },
+    {
+      "id": "5028523",
+      "time": "2026-08-06 17:31:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【富創精密今日大宗交易折價成交40.5萬股，成交額6848.55萬元】8月6日，富創精密大宗交易成交40.5萬股，成交額6848.55萬元，佔當日總成交額的2.93%，成交價169.1元，較市場收盤價183.8元折價8%。"
+    },
+    {
+      "id": "mkt:019fd669-5447-7aab-8f9f-5c9f11ef10fe",
+      "time": "2026-08-06 17:30:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. July Challenger job-cut announcements down 46.1% YoY, prior -4.5%."
+    },
+    {
+      "id": "5028522",
+      "time": "2026-08-06 17:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”7日起影響上海 8日至11日有明顯風雨】上海市氣象臺預計，颱風“白海豚”對上海的主要影響時間為8月8日—11日。預計7日後期起到10日，上海陸地的陣風明顯增大，可達8～9級，長江口區、沿江沿海地區以及洋山港區會更大；8—10日降水明顯，累積雨量可超100毫米。但由於“白海豚”進入東海以後，環流形勢複雜，中緯度冷空氣、副熱帶高壓、颱風等多個系統演變仍有較大變數，如果出現“白海豚”9日夜間到10日凌晨登陸浙江北部並繼續向西北方向移動的極端情況，對上海的風雨影響最為嚴重。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fd669-27b7-7aab-8f9f-557684f1a2a2",
+      "time": "2026-08-06 17:30:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US Challenger job-cut announcements July MoM -27.09%; prior -53%."
+    },
+    {
+      "id": "mkt:019fd669-1ebc-7aab-8f9f-4bc9c7c2ddb2",
+      "time": "2026-08-06 17:30:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (YoY) (Jul) | actual -46.1% | previous -4.50%"
+    },
+    {
+      "id": "5028521",
+      "time": "2026-08-06 17:30:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "合眾集團將成為資料中心電力解決方案提供商AVK的多數股東，加速其未來增長。"
+    },
+    {
+      "id": "mkt:019fd669-03df-7aab-8f9f-43dd59c50a9f",
+      "time": "2026-08-06 17:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (MoM) (Jul) | actual -27.09% | previous -53%"
+    },
+    {
+      "id": "5028520",
+      "time": "2026-08-06 17:30:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國挑戰者集團7月裁員人數同比下降46.1%。美國挑戰者集團7月裁員人數同比下降46.1%。美國7月挑戰者企業裁員人數 3.3429萬人，前值4.5849萬人。"
+    },
+    {
+      "id": "mkt:019fd668-9f5c-7aab-8f9f-3f2f12cac0b3",
+      "time": "2026-08-06 17:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US July Challenger job-cut announcements 33,429, down from 45,849 in June."
+    },
+    {
+      "id": "mkt:019fd668-807c-7aab-8f9f-302a610d7078",
+      "time": "2026-08-06 17:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Challenger Job Cuts (Jul) | actual 33429K | previous 45849K"
+    },
+    {
+      "id": "mkt:019fd668-450d-7aab-8f9f-2c654f02fd10",
+      "time": "2026-08-06 17:29:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Vanke Nov 2029 USD bond posts largest two-month gain】Vanke's USD bond due Nov. 2029 was set for its largest gain since May 11, 2026. The firm's 3.5% note due Nov. 2029 rose 1.9 cents to 50.2 cents on the dollar. Its 3.975% note due Nov. 2027 gained 2.4 cents to 54.9 cents."
+    },
     {
       "id": "5028519",
       "time": "2026-08-06 17:29:23",
