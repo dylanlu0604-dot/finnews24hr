@@ -1,7 +1,126 @@
 {
-  "updated": "2026-08-06 20:47:58",
-  "count": 16778,
+  "updated": "2026-08-06 20:52:07",
+  "count": 16785,
   "items": [
+    {
+      "id": "5028986",
+      "time": "2026-08-06 20:50:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "摩托羅拉提交兩部分優先票據發行申請，發行規模未披露。"
+    },
+    {
+      "id": "mkt:019fd71f-f248-7aab-8fa2-0d1f17094ecf",
+      "time": "2026-08-06 20:50:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slid over $10 intraday to $4,254.76/oz; spot silver fell about 1.0% to $61.41/oz."
+    },
+    {
+      "id": "5028985",
+      "time": "2026-08-06 20:49:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報61.32美元/盎司。"
+    },
+    {
+      "id": "5028984",
+      "time": "2026-08-06 20:49:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "力拓與淡水河谷礦業公司將Radiant World移出客戶名單。"
+    },
+    {
+      "id": "5028983",
+      "time": "2026-08-06 20:49:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報61.64美元/盎司。"
+    },
+    {
+      "id": "5028982",
+      "time": "2026-08-06 20:48:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "德意志銀行凍結RADIANT WORLD基金，此前礦業公司紛紛採取行動切斷與基金的聯絡。"
+    },
+    {
+      "id": "mkt:019fd71e-71ce-7aab-8fa2-0006751cfa77",
+      "time": "2026-08-06 20:48:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "Japan & APAC",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "World Gold Council said Europe led July’s gold-market recovery with $2.0bn of inflows; Asia added $616m and remains the largest contributor to year-to-date global ETF inflows."
+    },
+    {
+      "id": "mkt:019fd71e-207b-7aab-8fa1-ff01652e26e9",
+      "time": "2026-08-06 20:48:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "【US initial jobless claims tick up; layoffs remain near multi-year lows】US initial jobless claims rose 1,000 to 199,000 for the week ended Aug. 1, the Labor Department said on Thursday. The prior week was revised up 1,000 to 198,000. Weekly claims are a near‑real‑time proxy for layoffs and US labor‑market health; levels remain near multi‑year lows."
+    },
+    {
+      "id": "mkt:019fd71d-7f8b-7aab-8fa1-f7a80568e0a9",
+      "time": "2026-08-06 20:47:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "World Gold Council: gold-market liquidity continued to ease; average daily trading volume fell to $356.0bn/day, down 3.5% MoM."
+    },
+    {
+      "id": "5028980",
+      "time": "2026-08-06 20:47:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "中航易商倉儲物流REIT：將自2026年8月7日上海證券交易所開市起停牌1小時，並於當日上午10:30起復牌。"
+    },
+    {
+      "id": "mkt:019fd71d-7425-7aab-8fa1-eb6a3e9932de",
+      "time": "2026-08-06 20:47:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Zhonghang Yishang Warehousing & Logistics REIT will be suspended for one hour from the Shanghai Stock Exchange market open on 7 Aug 2026 and will resume trading at 10:30am Shanghai time that morning."
+    },
+    {
+      "id": "5028979",
+      "time": "2026-08-06 20:47:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軟通華方與知鏈科技達成戰略合作】據軟通動力訊息，近日，軟通動力旗下品牌軟通華方與北京知鏈科技有限公司（簡稱“知鏈科技”）舉行戰略合作簽約儀式。雙方將聯合打造工管結合、軟硬一體的高校教育整體方案，共同培育商科專業交叉人才，攜手開拓教育數字化市場。"
+    },
     {
       "id": "mkt:019fd71c-f228-7aab-8fa1-e63dfbb14f3a",
       "time": "2026-08-06 20:47:06",
@@ -14,6 +133,15 @@
         "Impact bullish"
       ],
       "text": "World Gold Council: Global gold ETFs attracted $3.0 billion in July, reversing two months of outflows; assets under management rose to $530 billion. ETF holdings increased 23 tonnes to 4,068 tonnes."
+    },
+    {
+      "id": "5028978",
+      "time": "2026-08-06 20:46:32",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【世界黃金協會：金價7月持平，未來走勢取決於實際利率、美元及央行應對】世界黃金協會：7月份，積極動能因素抵消了負面風險因素，使金價在7月持平。展望未來，不能排除出現類似於20世紀70年代末的第二波高通脹。但這本身並不意味著黃金會大幅上漲，這取決於實際利率、美元、增長預期、亞洲投資者需求以及央行的應對方式。"
     },
     {
       "id": "mkt:019fd71c-5ebf-7aab-8fa1-df4f7073af59",
@@ -31,6 +159,14 @@
       "text": "【World Gold Council: Gold flat in July; future path hinges on real rates, dollar and central-bank response】World Gold Council says positive drivers offset negative risks, leaving gold flat in July. WGC says a second wave of high inf similar to the late 1970s cannot be ruled out, but that alone does not guarantee a sharp gold rally; the metal’s path will depend on real rates, the dollar, growth expectations, Asian investor demand and central-bank responses."
     },
     {
+      "id": "5028977",
+      "time": "2026-08-06 20:46:24",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛大幅上調AI伺服器PCB和CCL預測 2028年市場規模將達840億和480億美元】高盛在最新發布的全球印刷電路板（PCB）和覆銅板（CCL）行業報告中，大幅上調人工智慧（AI）伺服器相關市場規模預測。該行預計，全球AI伺服器PCB市場將在2027年達到375億美元，較此前預測上調38%，2028年進一步增至840億美元；CCL市場2027年預計達到221億美元，上調18%，2028年則有望增至480億美元。這意味著，2026年至2028年，AI伺服器PCB和CCL市場規模的複合年增長率將分別達到148%和161%。與傳統伺服器週期不同，本輪增長不僅來自伺服器出貨量增加，還受到PCB層數提高、高階HDI（高密度互連）滲透、CCL材料升級，以及整機櫃內部PCB使用量增加等多重因素推動。"
+    },
+    {
       "id": "te:economy:573406",
       "time": "2026-08-06 20:45:57",
       "tags": [
@@ -41,6 +177,95 @@
         "Importance 1"
       ],
       "text": "Czech National Bank Leaves Key Rate Unchanged — The Czech National Bank left its two-week repo rate unchanged at 3.75% in August 2026, pausing after delivering its first interest rate hike since 2022 at the previous meeting. Although headline inflation remained below the central bank's target for most of the year, policymakers said demand-driven inflationary pressures persisted. The bank noted that headline inflation was held down by volatile components, particularly food prices, while government measures to contain price growth also helped keep inflation below target. Meanwhile, economic growth slowed in the second quarter of 2026 to 2% from 2.2%."
+    },
+    {
+      "id": "5028975",
+      "time": "2026-08-06 20:45:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【Alphabet為至多400億美元的股權融資計劃新增多家經辦行】8月6日訊息，Alphabet補充了此前有關至多400億美元股權融資交易的招股說明書，將美銀證券和花旗環球市場等多家銀行新增為經辦機構。補充檔案顯示，新增機構還包括德意志銀行證券、滙豐證券、富國證券、巴克萊資本、法巴銀行證券、BTIG、法國農業信貸銀行證券、瑞穗證券、加皇資本市場、SG美洲證券和道明證券。"
+    },
+    {
+      "id": "5028974",
+      "time": "2026-08-06 20:45:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "奈飛推出印度本土內容創作計劃。"
+    },
+    {
+      "id": "5028973",
+      "time": "2026-08-06 20:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "奈飛重申將對印度創意生態進行投資。"
+    },
+    {
+      "id": "5028972",
+      "time": "2026-08-06 20:44:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "福克斯首席財務官：世界盃的成功舉辦，加之美國中期選舉政治週期的初期階段，共同推動了我們全國性、地方性及數字媒體組合在2023財年第一季度的廣告勢頭持續增長。"
+    },
+    {
+      "id": "5028971",
+      "time": "2026-08-06 20:44:10",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國勞動生產率加快增長 企業提高效率以控制成本】美國第二季度勞動生產率增長快於預期，顯示企業正努力提高效率，以緩解成本上升帶來的壓力。美國勞工統計局週四公佈的資料顯示，非農勞動生產率（即非農部門員工每小時產出）折年率增長1.4%，此前第一季度增幅經上修後為0.8%。與此同時，單位勞動成本 —— 即企業每生產一單位產出所支付的員工成本 —— 增長1.3%。按同比計算，美國第二季度勞動生產率增長2.2%。接受彭博調查的經濟學家預期中值顯示，美國第二季度勞動生產率折年率增長0.6%，單位勞動成本增長2.1%。"
+    },
+    {
+      "id": "5028970",
+      "time": "2026-08-06 20:42:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務突破3萬億英鎊關口。"
+    },
+    {
+      "id": "5028969",
+      "time": "2026-08-06 20:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天瑞儀器：持股5%以上股東減持至5%以下】天瑞儀器公告稱，股東廣州立多虛擬現實科技合夥企業（有限合夥）於2026年8月5日透過集中競價交易減持49,600股，佔公司總股本的0.01001%。本次權益變動後，其持有公司股份24,775,537股，佔總股本4.99999%，不再是持股5%以上股東。本次減持與已披露的減持計劃一致，且尚未實施完畢。"
+    },
+    {
+      "id": "5028968",
+      "time": "2026-08-06 20:41:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【剛果(金)禁止銅精礦、鈷精礦出口 洛陽鉬業：公司在當地產品為陰極銅和氫氧化鈷】近日，剛果(金)政府6月底簽署的禁止銅鈷精礦出口的政府命令擾動資本市場。對此，洛陽鉬業相關人士釋出微信朋友圈稱，公司在剛果（金）的TFM和KFM兩大礦山的產品為陰極銅和氫氧化鈷，沒有精礦。一位行業人士介紹，洛陽鉬業在剛果（金）當地的礦山是採選冶一體，採用電積工藝冶煉，終端產品確為陰極銅，因此禁令對該公司無甚影響。"
+    },
+    {
+      "id": "5028967",
+      "time": "2026-08-06 20:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月6日，全球基金淨賣出1.786億印度盧比的印度股票。"
+    },
+    {
+      "id": "5028966",
+      "time": "2026-08-06 20:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及內閣：2026年第二季度埃及失業率為5.8%。"
+    },
+    {
+      "id": "5028965",
+      "time": "2026-08-06 20:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【部分銀行房貸利率降至“2字頭”】近日，社交平臺上多位購房者曬出自己“2字頭”的房貸利率截圖，引發熱議。記者調研發現，此類住房貸款多是五年期的存量貸款。8月6日，記者走訪或致電北京、廣州、杭州等地多家銀行進行調研，發現多數銀行房貸利率仍在3%及以上。部分外資銀行能夠提供利率低於2.8%的住房貸款，但銀行設定了客戶資質與合作渠道的多重門檻。此外，部分銀行表示，雖然無法下調貸款利率，但可透過合作樓盤給購房者一定的房價優惠。(中國證券報)"
     },
     {
       "id": "te:markets:573404",
@@ -420,6 +645,14 @@
         "市場"
       ],
       "text": "OKLO盤前股價漲幅擴大至5%。"
+    },
+    {
+      "id": "5028944",
+      "time": "2026-08-06 20:27:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深圳二手豪宅成交回暖 業內：市場企穩基礎仍需夯實】今年以來，深圳豪宅市場跑出“加速度”，市場熱度持續攀升。除了多個豪宅新房專案持續熱銷，二手房市場上的豪宅成交也明顯回暖。深圳貝殼研究院監測顯示，7月總價1500萬元以上二手豪宅簽約量同比增長11%，達到近6年來的峰值。與此同時，千萬級二手房成交均價為10.15萬元/平方米，環比上漲5.7%，同比上漲8.4%。深圳貝殼研究院院長肖小平指出，深圳樓市“429新政”放寬核心區購房門檻後，本地高淨值家庭置換需求及外地資產配置客群入場增加，推動南山、福田核心區域高階物業成交持續升溫，價格穩步抬升。（證券時報）"
     },
     {
       "id": "5028943",
@@ -153660,193 +153893,6 @@
         "其他"
       ],
       "text": "英國央行行長貝利：我們不是在談論“保險性”加息。"
-    },
-    {
-      "id": "5017119",
-      "time": "2026-07-30 20:51:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【龔正會見美國霍尼韋爾科技董事長兼執行長柯偉茂】上海市市長龔正今天（7月30日）會見了美國霍尼韋爾科技董事長兼執行長柯偉茂一行。龔正說，當前，上海正在深入推進新型工業化、培育發展新質生產力，加快構建現代化產業體系，著力推動高質量發展。在這個過程中，需要世界知名企業積極參與，特別是高階製造、綠色低碳、城市更新等領域，都離不開相關的配套技術和服務支撐。希望霍尼韋爾科技持續加大在滬投資佈局，把更多核心業務、前沿技術和優質專案落在上海，助力產業轉型升級，深度融入本土製造供應鏈，推動上海產業智慧化、綠色化、融合化發展。同時，歡迎公司積極參加第九屆進博會，把更多新產品、新技術、新服務帶到上海、引入中國，共享中國和上海的發展機遇。我們將一如既往地打造市場化、法治化、國際化一流營商環境，持續最佳化為企服務，助力各類企業在滬實現更大發展。柯偉茂說，每一次來到上海，都被這座城市的活力感染。上海的發展方向與霍尼韋爾的業務發展方向高度契合，我們願在新興產業領域深化合作。此次霍尼韋爾中國增長峰會在上海舉辦，我們帶來了最新技術和解決方案。我們對中國和上海的發展充滿信心，將持續加大在滬投資，持續參與進博會，與上海開展更多合作。霍尼韋爾於今年6月拆分為3家獨立運營企業。霍尼韋爾科技是其中之一，公司在滬設立了中國區總部、研發中心等實體。 (澎湃新聞)"
-    },
-    {
-      "id": "5017118",
-      "time": "2026-07-30 20:51:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米汽車釋出小米澎程N70 Max，預售價25.99萬元。"
-    },
-    {
-      "id": "5017117",
-      "time": "2026-07-30 20:50:59",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國經濟增速不及預期 美聯儲看重的通脹指標環比下降0.1%】美國第二季度經濟增幅弱於預期，儘管消費支出回升，企業投資也保持強勁。美國經濟分析局週四釋出的初步估算顯示，第二季度經通脹調整後的國內生產總值摺合年率增長1.5%。淨出口下降掩蓋了基本需求的強勁表現。淨出口資料通常會出現較大的季度波動。佔經濟活動約三分之二的消費支出摺合年率增長3.2%。在企業競相投資人工智慧的推動下，商業投資繼續快速增長。與此同時，受汽油價格下降推動，美聯儲看重的通脹指標，即個人消費支出(PCE)價格指數6月環比下降0.1%。不包括食品和能源的核心PCE價格指數環比上漲0.1%。"
-    },
-    {
-      "id": "mkt:019fb313-e94d-7aab-8f13-b81da750f965",
-      "time": "2026-07-30 20:50:54",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "【Bailey: Do not expect Bank of England to be close to a rate rise】Bank of England Governor Bailey said officials are split between acting quickly and waiting, and that the Bank can reasonably wait to see how developments unfold. He warned that waiting until all second‑round effects have emerged would be too late, but said the timing of any action remains uncertain. He added that market conditions are a key input to assessments of QT and urged markets not to assume the Bank is close to raising rates."
-    },
-    {
-      "id": "mkt:019fb313-9f8e-7aab-8f13-b554aa636816",
-      "time": "2026-07-30 20:50:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of England Governor BAILEY said policymakers should draw lessons from weaker monetary transmission."
-    },
-    {
-      "id": "5017116",
-      "time": "2026-07-30 20:50:27",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：對於第二輪通脹效應出現的可能性，我尚無定論。"
-    },
-    {
-      "id": "5017115",
-      "time": "2026-07-30 20:50:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "百勝餐飲集團股價在財報電話會議期間盤前上漲4%。"
-    },
-    {
-      "id": "5017114",
-      "time": "2026-07-30 20:50:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九典制藥：椒七止痛凝膠貼膏獲得藥品註冊證書】九典制藥7月30日公告，公司近日收到國家藥監局下發的《藥品註冊證書》，藥品名稱為椒七止痛凝膠貼膏。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證，症見關節疼痛、區域性畏寒、得溫痛減、活動不利、僵凝重滯等，該藥品的上市為膝骨關節炎寒凝血瘀證的患者提供了新的治療選擇。"
-    },
-    {
-      "id": "5017113",
-      "time": "2026-07-30 20:49:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國聯民生承銷保薦與中信銀行無錫分行達成戰略合作】7月29日，國聯民生承銷保薦與中信銀行無錫分行正式簽署戰略合作協議，雙方將以“商行+投行”深度聯動模式，整合券商資本市場專業能力與銀行綜合金融服務資源，聚焦無錫科創企業、先進製造產業，構建全週期一體化產融服務體系，合力服務長三角實體經濟高質量發展。"
-    },
-    {
-      "id": "5017112",
-      "time": "2026-07-30 20:49:45",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：應當重視通脹傳導效應走弱這一訊號。"
-    },
-    {
-      "id": "5017111",
-      "time": "2026-07-30 20:49:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列無人機襲擊造成加沙北部人員傷亡。"
-    },
-    {
-      "id": "5017110",
-      "time": "2026-07-30 20:49:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗媒體：伊朗革命衛隊當地時間週四早晨襲擊了位於科威特的美國基地。"
-    },
-    {
-      "id": "mkt:019fb311-f1a7-7aab-8f13-afaeff9704f8",
-      "time": "2026-07-30 20:48:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM News reported Iran’s Islamic Revolutionary Guard Corps (IRGC) attacked a US military base in Kuwait early Thursday local time."
-    },
-    {
-      "id": "5017109",
-      "time": "2026-07-30 20:48:39",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "小米汽車釋出小米澎程N90 Max，預售價29.99萬元。"
-    },
-    {
-      "id": "5017108",
-      "time": "2026-07-30 20:48:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多正與國際貨幣基金組織磋商，尋求氣候信託基金框架下新增融資。"
-    },
-    {
-      "id": "5017107",
-      "time": "2026-07-30 20:48:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大鵝高管表示，第二財季前幾周消費環境依然喜憂參半。"
-    },
-    {
-      "id": "mkt:019fb311-6a51-7aab-8f13-a59242c2c60c",
-      "time": "2026-07-30 20:48:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Xiaomi",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "Xiaomi Auto launched the Pengcheng N90 Max with a pre-sale price of 299,900 yuan."
-    },
-    {
-      "id": "5017106",
-      "time": "2026-07-30 20:48:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯代表團與土耳其外長會晤 討論地區局勢】當地時間7月30日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表宣告，表示該組織領導人哈亞率領代表團，在土耳其首都安卡拉與土外長費丹舉行會晤。雙方重點就巴以局勢、加沙局勢，特別是當前在開羅舉行的談判程序進行了深入討論。會晤期間，雙方對加沙地帶局勢表示高度關注。哈馬斯方面通報了加沙停火協議遭破壞的具體情況，以及當地持續發生的軍事衝突。同時，雙方還就以色列猶太人定居者在約旦河西岸引發的暴力衝突等問題交換了意見。此外，雙方還就推動巴勒斯坦內部團結進行了磋商。雙方強調，巴勒斯坦各派別有必要達成內部共識、整頓內部事務。雙方還對巴勒斯坦下一階段的選舉計劃及相關國家戰略願景進行了評估。哈亞在會晤中對土耳其長期以來為緩解巴以緊張局勢、推動恢復巴勒斯坦合法權利所作出的外交努力表示讚賞。（央視新聞）"
-    },
-    {
-      "id": "te:markets:571269",
-      "time": "2026-07-30 20:48:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Gain as Corporate Earnings Roll In — Futures tracking the S&P/TSX Composite Index moved higher on Thursday as investors assessed a fresh round of corporate earnings. Vermilion Energy, Kinross Gold, Cenovus, Alamos Gold, Loblaw, and TransCanada reported results above expectations. In contrast, Ivanhoe Mines and Tourmaline Oil missed earnings estimates. Canadian Natural Resources and Fairfax Financial are due to report later in the session. Gold prices rose, supporting mining stocks. Meanwhile, minutes from the Bank of Canada's July 15th policy meeting showed policymakers were divided over the sustainability of the economic recovery. Separately, Prime Minister Mark Carney downplayed the possibility of restricting oil exports to the US as leverage in trade negotiations."
     }
   ]
 }
