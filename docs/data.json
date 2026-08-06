@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-06 14:45:02",
-  "count": 17229,
+  "updated": "2026-08-06 14:48:56",
+  "count": 17230,
   "items": [
+    {
+      "id": "te:markets:573279",
+      "time": "2026-08-06 14:48:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Marks Fresh Closing High — The ASX 200 rose 44 points or 0.5% to end at a new peak of 9,272 on Thursday, up for the fourth session. A surprise trade surplus in June lifted sentiment, largely due to a jump in exports. Inflows at the start of the new financial year added to the upside while a jump in June building permits was confirmed. Meanwhile, U.S. stock futures strengthened amid prospects of a U.S.-Iran peace deal that could end the five-month-long war and reopen the Strait of Hormuz. However, gains were capped by caution ahead of July trade data in top trading partner China due Friday. Gains were widespread, led by non-energy minerals, consumer services, and consumer names. Swiss mining giant Glencore said it would seek a secondary listing in Australia, targeting admission in October. Evolution Mining jumped (3.8%), along with Northern Star Resources (3.3%) and ASX Ltd. (2.1%). Three of the four big banks rose between 0.3% and 0.9%. In contrast, Woodside Energy fell 0.2%, and Wisetech Global slipped 1.5%."
+    },
+    {
+      "id": "5028145",
+      "time": "2026-08-06 14:47:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "日本麥當勞7月同店銷售額增長5.1%。"
+    },
+    {
+      "id": "5028144",
+      "time": "2026-08-06 14:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西柞水縣持續強降雨突發泥石流致1人死亡2人失聯】據陝西省柞水縣防汛指揮部，受近日持續強降雨影響，杏坪鎮一戶群眾5日在清理房旁積水時被突發泥石流掩埋，已確認1人死亡，其餘2人正在全力搜救中。7月30日至8月5日，柞水縣連續遭遇強降雨，境內乾佑、社川、金錢三條主幹河流出現超保證流量洪峰5次，累計最大降雨量321.4毫米。初步統計，截至8月6日，汛情造成柞水縣3718戶9901人受災。其中，杏坪鎮38處16.2公里河堤受損，道路塌方29處，9戶15間房屋受損，44公頃農田受損，家庭農場15個大棚被水淹，3戶養殖場受災。"
+    },
+    {
+      "id": "5028143",
+      "time": "2026-08-06 14:47:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新華保險等在北京新設私募投資基金】企查查APP顯示，近日，北京匯珩一期私募投資基金合夥企業（有限合夥）成立，出資額7億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由新華保險等共同出資。"
+    },
+    {
+      "id": "mkt:019fd5d3-489d-7aab-8f9b-5fc2e761081a",
+      "time": "2026-08-06 14:47:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huahai Qingke's 6-inch integrated metrology equipment has rolled off the production line and been shipped to a leading Chinese optical silicon materials firm."
+    },
+    {
+      "id": "5028142",
+      "time": "2026-08-06 14:46:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯葵花籽油生產商EFKO稱，其黑海碼頭在7月30日遭無人機襲擊後已暫停運營。"
+    },
+    {
+      "id": "mkt:019fd5d2-b8b4-7aab-8f9b-50cb694ca629",
+      "time": "2026-08-06 14:46:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's sunflower oil producer EFKO said it suspended operations at its Black Sea terminal after a drone attack on July 30."
+    },
+    {
+      "id": "te:economy:573278",
+      "time": "2026-08-06 14:46:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Hungary Industrial Output Rebounds in June — Industrial production in Hungary increased 10.1% year-on-year in June 2026, rebounding from a 0.4% decline in the previous month and marking the strongest growth since September 2022, according to preliminary estimates. Among the main subsectors, output rose in the manufacture of motor vehicles, computer, electronic and optical products, and electrical equipment. Meanwhile, production declined in food, beverages, and tobacco products. On a seasonally and working-day adjusted basis, industrial output fell 1.4%, reversing a 2.3% increase in May. In the first six months of the year, industrial production was 2.4% higher than in the corresponding period of 2025."
+    },
+    {
+      "id": "5028141",
+      "time": "2026-08-06 14:46:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團第一季度願景基金利潤54.3億日元，同比下滑99%。"
+    },
+    {
+      "id": "mkt:019fd5d2-5a19-7aab-8f9b-4d77009f1f9e",
+      "time": "2026-08-06 14:46:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France Q2 final non-seasonally adjusted monthly wages QoQ +0.7% (previous +0.7%)."
+    },
+    {
+      "id": "mkt:019fd5d2-3e1a-7aab-8f9b-46cd8d218f70",
+      "time": "2026-08-06 14:45:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | Unadjusted Average Monthly Earnings Final (QoQ) (Q2) | actual 0.7% | previous 0.70%"
+    },
     {
       "id": "te:markets:573276",
       "time": "2026-08-06 14:43:35",
@@ -158321,99 +158419,6 @@
         "Importance 1"
       ],
       "text": "Hungary Trade Surplus Widens Sharply in June — Hungary’s trade balance posted a surplus of EUR 1,305.4 million in June 2026, widening sharply from EUR 786.8 million in the corresponding month of the previous year, as export growth outpaced imports. Exports jumped 21% year-on-year to EUR 14,944.5 million, driven largely by higher sales of machinery and transport equipment and food, beverages, and tobacco, which more than offset the declines in energy carriers. By trade partners, exports both increased in the EU (+6.8%) and non-EU countries (+11%). Meanwhile, imports advanced by 18% to EUR 13,639.0 million, lifted by increased purchases of processed products and machinery and transport equipment. Imports recorded an increase in EU (+3.4%) and non-EU countries (+12%). For the first half of 2026, the trade surplus narrowed to EUR 5,044.6 million from EUR 5,749.3 million a year earlier, as exports rose by 8.3%, while imports grew at a faster 10%."
-    },
-    {
-      "id": "5016047",
-      "time": "2026-07-30 14:48:20",
-      "tags": [
-        "宏觀",
-        "資料",
-        "其他"
-      ],
-      "text": "【福建：上半年全省社會融資規模增加5800.4億元】據福建釋出，7月30日上午，福建省人民政府新聞辦公室召開2026年上半年福建省金融執行情況新聞釋出會，釋出會上通報了2026年上半年福建省金融執行有關情況，上半年，福建全省社會融資規模增加5800.4億元。6月末，全省金融機構本外幣各項貸款餘額9.1萬億元，同比增長2.9%。本外幣各項存款餘額9.6萬億元，同比增長7.8%。"
-    },
-    {
-      "id": "5016045",
-      "time": "2026-07-30 14:47:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "D.A.戴維森將Meta目標股價從850美元下調至700美元。"
-    },
-    {
-      "id": "te:economy:571053",
-      "time": "2026-07-30 14:47:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hungary",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Hungary Q2 GDP Growth Strongest Since 2024 — Hungary’s gross domestic product expanded by 1.7% year-on-year in the second quarter of 2026, the same pace as in the previous three-month period, according to preliminary estimates. The latest reading fell short of market expectations for a 1.9% expansion but remained the strongest growth since the second quarter of 2024, driven largely by robust performance in the services sector, particularly in professional, scientific, technical, and administrative activities. The industrial sector also continued to contribute positively to the overall economic growth. On a seasonally adjusted quarterly basis, the economy grew by just 0.4% in Q2 2026, slowing from a 0.8% expansion in the preceding period."
-    },
-    {
-      "id": "5016044",
-      "time": "2026-07-30 14:47:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【網易公司副總裁龐大智：中國遊戲行業亟須從“微創新”轉向更高維度的“原創力”】今日，2026中國國際數字娛樂產業大會（CDEC）高峰論壇在上海舉行。會上，網易公司副總裁龐大智發表演講並分享觀點。他認為，中國遊戲行業亟須從“微創新”轉向更高維度的“原創力”。龐大智表示，中國遊戲產業在過去二十幾年間完成了體量上的蛻變，靠的是務實的本地化創新和不斷提升的工業化研發能力；但當行業進入成熟階段、玩家審美成倍拔高，傳統的微創新空間正在縮小，行業真正呼喚的是更高維度的“原創力”。“原創的本質，是對前人未曾實現過的體驗的極致追求，也是推動行業從‘規模增長’邁向‘質量引領’的關鍵。”龐大智在會上說道。（新浪科技）"
-    },
-    {
-      "id": "5016043",
-      "time": "2026-07-30 14:47:03",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點",
-        "A股"
-      ],
-      "text": "【創業板ETF易方達成交額重新整理年內次高記錄】截至發稿時間，創業板ETF易方達（159915）成交額163億元超越2026年7月17日的年內次高紀錄，7月份該ETF累計申贖淨流入320.26億元，最新規模為658億元。科創50ETF華夏（588000）成交額145億元重新整理年內第3高記錄，7月份該ETF累計申贖淨流入389.22億元，最新規模為863億元。"
-    },
-    {
-      "id": "5016042",
-      "time": "2026-07-30 14:46:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【集邦諮詢：2027年儲存器市場走勢分化 DRAM供給持續緊缺 NAND Flash轉趨寬鬆】根據TrendForce集邦諮詢最新儲存器產業研究，2027年儲存器需求仍由AI應用主導，DRAM因HBM持續排擠產能、AI Server需求強勁，CPU所用的儲存器與HBM採購動能持續增加，市場維持供給緊張格局，價格走勢偏強。NAND Flash在新產能集中釋放、終端消費需求持續走弱的情況下，2027年下半年供給將趨向寬鬆，價格可能面臨修正壓力。"
-    },
-    {
-      "id": "te:markets:571052",
-      "time": "2026-07-30 14:45:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Coal Holds Firm as Chinese Demand Picks Up — Thermal coal futures held steady around $130 per ton in late July, even as coal demand in China strengthened after a relatively mild start to summer gave way to hotter weather, driving greater air conditioner use and electricity consumption. Central and eastern China have been gripped by widespread hot and humid conditions as two high-pressure systems combined to form a heat dome. Despite the pickup in demand, China’s coal inventories remain elevated, while domestic production continues to face constraints after a fatal accident in Shanxi in late May triggered extensive safety inspections. In Indonesia, supply concerns also lent support to coal prices as dry weather disrupted coal barging operations along the Barito River in Kalimantan, a vital transport route for the country’s coal exports, with some miners reportedly declaring force majeure on affected shipments."
-    },
-    {
-      "id": "5016041",
-      "time": "2026-07-30 14:45:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "日月光半導體制造股份有限公司第二季度營收為新臺幣1910.64億元。"
-    },
-    {
-      "id": "5016040",
-      "time": "2026-07-30 14:45:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【健達九州完成數億元人民幣A輪融資】7月30日，健達九州（北京）生物科技有限公司（簡稱“健達九州”）宣佈完成數億元人民幣A輪融資。本輪融資由太平醫療健康基金領投、老股東華泰紫金旗下基金追加。高榕創投、達晨財智、中信資本、博拓生物腦機基金等多家機構跟投，北京市醫藥健康產業投資基金、凱風創投等老股東持續加註。熙橋資本擔任本輪融資財務顧問。據健達九州介紹，本輪融資資金將重點用於推進公司多條核心管線的臨床驗證，加速後備管線研發及中美雙報程序，並進一步強化公司在化學遺傳學、光遺傳學等前沿腦科學技術領域的平臺能力，持續產出利用精準神經調控治療難治性腦疾病的全球創新型藥物。"
-    },
-    {
-      "id": "5016039",
-      "time": "2026-07-30 14:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國二季度私營部門就業人數季環比初值 -0.1%，預期 -0.1%，前值 -0.1%。"
     }
   ]
 }
