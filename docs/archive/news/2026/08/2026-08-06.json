@@ -1,7 +1,113 @@
 {
   "date": "2026-08-06",
-  "count": 883,
+  "count": 895,
   "items": [
+    {
+      "id": "5027875",
+      "time": "2026-08-06 10:40:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【MiniMax註冊資本增至55億元】企查查APP顯示，近日，MiniMax關聯公司上海稀宇極智科技有限公司發生工商變更，註冊資本由40億元增至55億元，增資15億元。此前5月，該公司註冊資本由10億元增至40億元，增資30億元。企查查資訊顯示，該公司成立於2021年，經營範圍包含：計算機系統服務；資訊系統整合服務；資訊系統執行維護服務；人工智慧基礎軟體開發；人工智慧應用軟體開發等。"
+    },
+    {
+      "id": "5027874",
+      "time": "2026-08-06 10:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨賣出超17億】截至目前，今日主力資金淨流出164.50億；淨流入昨日高振幅、PCB概念、5G等板塊，其中昨日高振幅板塊淨流入64.03億；淨流出轉融券標的、融資融券、MSCI中國等板塊，其中轉融券標的板塊淨流出161.91億。\n  \n個股方面，景旺電子淨買入8.27億元位居首位，勝宏科技、方正科技、長電科技主力資金淨流入居前；長鑫科技淨賣出17.82億元位居首位，寧德時代、兆易創新、風華高科淨流出額居前。"
+    },
+    {
+      "id": "5027873",
+      "time": "2026-08-06 10:40:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寒武紀啟動2027屆校園招聘】8月6日，寒武紀宣佈2027屆校園招聘正式啟動，面向於2026年9月-2027年8月畢業的高校應屆畢業生，招聘方向為晶片類、軟體類、職能與研發支援類，工作地點在北京、上海、深圳、合肥、西安和南京。"
+    },
+    {
+      "id": "5027872",
+      "time": "2026-08-06 10:39:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【證通電子與倍瑞思浸沒液冷試點落地 為高密度算力機房升級提供新思路】倍瑞思官微訊息，近日，倍瑞思與證通電子完成浸沒式液冷試點落地，為高密度算力機房升級打造可落地範本。本次試點核心硬體為針對浸沒場景專項研發的智算伺服器，搭載8張RTX5090算力卡，適配AI訓練、模型推理、模擬渲染等高負載工作。本次雙方合作打通定製伺服器、存量暖通複用、穩定運維完整鏈路，解決行業普遍存在的液冷改造成本高等痛點。未來雙方將基於本次試點持續最佳化，研發多機櫃並聯方案，完善不同水溫、不同算力硬體的適配標準，推動浸沒液冷從大型超算走向普惠落地。"
+    },
+    {
+      "id": "mkt:019fd4f0-e982-7aab-8f99-4fd5104e6182",
+      "time": "2026-08-06 10:39:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House denies Trump-Hegseth clash over ammunition shortages】White House press secretary Leavitt said on Aug. 5 a Washington Post report that President Trump and Defense Secretary Hegseth argued at Camp David over severe US missile and munitions shortages tied to the Iran conflict was \"fake news.\" Leavitt said she was at Camp David with Trump and Hegseth and the incident did not occur, and that they have repeatedly told the Washington Post the same. The Washington Post, citing sources, reported on Aug. 5 that last week Trump expressed strong displeasure at Camp David and demanded an explanation from Hegseth over an alleged weapons shortfall."
+    },
+    {
+      "id": "5027871",
+      "time": "2026-08-06 10:39:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中興通訊攜手Sky47建成巴基斯坦規模最大智算資料中心】據中興通訊官網，近日，由中興通訊與巴基斯坦領先雲服務商Sky47聯合承建的、巴基斯坦規模最大的通算與智算一體化的資料中心——Sky47喀喇崑崙一號（Karakoram-01） 落成典禮在伊斯蘭堡舉辦。作為巴基斯坦首座定製化AI原生Tier III級資料中心，Sky47喀喇崑崙一號總供電容量達8.5兆瓦。該中心將在巴基斯坦全國範圍內提供強大的雲端計算、資料託管與先進數字服務支援，全面滿足政府及企業在人工智慧（AI）、機器學習（ML）及高效能運算（HPC）等領域的算力需求。"
+    },
+    {
+      "id": "5027870",
+      "time": "2026-08-06 10:38:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮否認特朗普與赫格塞思因彈藥庫存短缺發生爭執】當地時間8月5日，美國白宮新聞秘書萊維特表示，有關總統特朗普與國防部長赫格塞思在馬里蘭州戴維營“因伊朗戰事中美軍導彈庫存嚴重短缺而發生爭執”的報道是“假新聞”。萊維特說，當時她與特朗普及赫格塞思一同在戴維營，報道里說的情況並未發生過。他們也曾多次向《華盛頓郵報》澄清這一點。《華盛頓郵報》5日援引知情人士的話報道稱，上週，特朗普在戴維營就伊朗問題表達了強烈不滿，要求防長赫格塞思就軍火嚴重短缺問題作出解釋。"
+    },
+    {
+      "id": "mkt:019fd4ef-a34b-7aab-8f99-4027d99c0cd0",
+      "time": "2026-08-06 10:38:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Advanced Micro‑Fabrication Equipment establishes Central China HQ in Wuhan's Optics Valley】Advanced Micro‑Fabrication Equipment (Shanghai) Co., Ltd. has set up its Central China headquarters in Wuhan's Optics Valley, with operations due to start early next year. Its Wuhan unit was registered on July 28 with registered capital of 50 mln yuan. The project will build a Central China HQ and R&D center focused on core semiconductor equipment — thin film, etch and epitaxy — to serve key customers in Wuhan and the broader Central China region."
+    },
+    {
+      "id": "mkt:019fd4ef-466f-7aab-8f99-3fa34d71fa4f",
+      "time": "2026-08-06 10:37:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "LME nickel down 2.00% intraday at $16,793/mt."
+    },
+    {
+      "id": "5027869",
+      "time": "2026-08-06 10:37:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中微半導體在光谷設立華中總部】據中國光谷公眾號，近日，中微半導體裝置（上海）股份有限公司（簡稱“中微半導體”）華中總部正式落戶光谷，預計明年初正式投入運營。中微半導體裝置（武漢）有限公司已於7月28日完成註冊，註冊資本5000萬元。專案聚焦核心半導體裝置研發，計劃建設華中總部及研發中心，開展薄膜、刻蝕、外延等核心半導體裝置的研發，服務武漢乃至華中地區重點客戶。"
+    },
+    {
+      "id": "5027868",
+      "time": "2026-08-06 10:37:35",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【博視像元完成C輪融資】8月6日，積體電路光學影像部件領域企業北京博視像元科技有限公司宣佈完成C輪融資，本輪融資由中信建投投資、北京京國管股權投資基金、朗瑪峰創投三家機構聯合注資。"
+    },
+    {
+      "id": "5027867",
+      "time": "2026-08-06 10:37:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）因埃博拉疑似病例截停一艘船隻】剛果（金）衛生部長坎巴5日在首都金沙薩說，該國有關部門當天已在距金沙薩約65公里外的河道中截停一艘船隻，因為一名曾搭乘該船的乘客下船後出現疑似埃博拉症狀並死亡。剛果（金）新聞和媒體部長兼政府發言人穆亞亞當晚在金沙薩舉行的記者會上說，該船隻由剛果（金）東部的喬波省始發，有關部門已在船隻周邊設立警戒區。（新華社）"
+    },
     {
       "id": "5027866",
       "time": "2026-08-06 10:36:17",
