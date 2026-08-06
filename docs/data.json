@@ -1,7 +1,229 @@
 {
-  "updated": "2026-08-06 07:57:42",
-  "count": 17423,
+  "updated": "2026-08-06 08:05:37",
+  "count": 17429,
   "items": [
+    {
+      "id": "te:markets:573146",
+      "time": "2026-08-06 08:04:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Australia Hit All-time High — ASX200 increased to an all-time high of 9231.00 Index Points. Over the past 4 weeks, Australia Stock Market Index (AU200) gained 4.48%, and in the last 12 months, it increased 4.33%."
+    },
+    {
+      "id": "5027625",
+      "time": "2026-08-06 08:04:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.2%，報9,247.30點。"
+    },
+    {
+      "id": "5027624",
+      "time": "2026-08-06 08:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家海洋預報臺8月6日08時釋出海浪橙色警報：受今年第13號颱風“白海豚”（強颱風級）的影響，預計：8月6日上午到7日上午，東海東部將出現6到10米的狂浪到狂濤區，近海海域海浪預警級別為橙色；浙江近岸海域將出現2到3米的中浪到大浪，近岸海域海浪預警級別為藍色。"
+    },
+    {
+      "id": "5027623",
+      "time": "2026-08-06 08:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至1%】日經225指數跌幅擴大至1%，現報65664.7點。"
+    },
+    {
+      "id": "5027622",
+      "time": "2026-08-06 08:03:15",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：基金持倉延續高增，光通訊主線配置深化】中信證券研報指出，2026年二季度A股通訊行業公募基金持倉規模環比繼續大幅提升，光通訊板塊核心個股仍是增持主力。26Q2通訊行業基金持倉規模達到6233.64億元，環比+77.7%；佔基金重倉股總規模的15.38%，環比+4.38pcts，相較通訊行業標準配置比例大幅超配了8.35pcts。中信證券認為，隨著1.6T光模組加速放量、矽光與CPO等前沿技術逐步進入商業化匯入期，以及國內AI算力基建持續加碼，高景氣度有望持續驅動板塊估值與業績雙重提升。"
+    },
+    {
+      "id": "te:markets:573145",
+      "time": "2026-08-06 08:03:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gain on Hormuz Deal — Silver held above $62 an ounce on Thursday after rising for three straight sessions, as a deal to partially reopen the Strait of Hormuz pushed oil prices lower, easing concerns over inflation and the outlook for interest rates. Iran and Oman reached an agreement on a shipping corridor through the strait, boosting expectations of increased energy flows from the Middle East. Markets scaled back expectations for Federal Reserve interest rate hikes this year, now pricing in just one increase by year-end, compared with two as recently as last week. Meanwhile, ADP data showed the US economy added only 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts for 70,000. Elsewhere, Fed Governor Lisa Cook reiterated on Wednesday that she remains prepared to raise rates if inflation fails to cool, warning that the central bank may not have the luxury of waiting before bringing inflation back to its 2% target."
+    },
+    {
+      "id": "mkt:019fd460-d71c-7aab-8f95-9380cb3a9759",
+      "time": "2026-08-06 08:02:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said the likelihood that economic growth will rebound to a 3% pace has risen sharply; that would be the first time in five years."
+    },
+    {
+      "id": "5027621",
+      "time": "2026-08-06 08:02:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至2%】韓國綜指跌幅擴大至2%，現報6458.06點。個股方面，SK海力士跌超5%，三星電子跌超2%。"
+    },
+    {
+      "id": "5027620",
+      "time": "2026-08-06 08:02:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國財長：經濟增速時隔五年首次升至3%水平的可能性已大幅提升。"
+    },
+    {
+      "id": "te:markets:573144",
+      "time": "2026-08-06 08:01:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Extends Gain on Hormuz Deal — Gold climbed toward $4,300 an ounce on Thursday, rising for the fourth straight session and rallying nearly 6% so far this week as a deal to partially reopen the Strait of Hormuz pushed oil prices lower, easing concerns over inflation and the outlook for interest rates. Iran and Oman reached an agreement on a shipping corridor through the strait, boosting expectations of increased energy flows from the Middle East. Markets scaled back expectations for Federal Reserve interest rate hikes this year, now pricing in just one increase by year-end, compared with two as recently as last week. Meanwhile, ADP data showed the US economy added only 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts for 70,000. Elsewhere, Fed Governor Lisa Cook reiterated on Wednesday that she remains prepared to raise rates if inflation fails to cool, warning that the central bank may not have the luxury of waiting before bringing inflation back to its 2% target."
+    },
+    {
+      "id": "mkt:019fd460-4517-7aab-8f95-8dace38a6139",
+      "time": "2026-08-06 08:01:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "KOSPI"
+      ],
+      "text": "【Japan, South Korea stocks open lower】Nikkei 225 opened lower at 66,000, down 0.60%. South Korea's KOSPI opened at 6,600, down 1.81% intraday. SK Hynix fell nearly 5%; Samsung Electronics fell 2%."
+    },
+    {
+      "id": "5027619",
+      "time": "2026-08-06 08:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.5個基點至2.79%。"
+    },
+    {
+      "id": "5027618",
+      "time": "2026-08-06 08:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【膠球到底存在嗎？北京譜儀Ⅲ實驗解開近半世紀的謎題】記者從中國科學院高能物理研究所獲悉，北京時間8月6日，北京正負電子對撞機上的北京譜儀Ⅲ實驗國際合作組在巴西舉行的國際高能物理大會上宣佈：經過15年的持續研究，北京譜儀Ⅲ實驗建立了證明膠球存在的完整證據鏈，解開了困擾學術界近半個世紀的膠球存在之謎。該發現不僅為“量子色動力學”理論提供了決定性驗證，也表明一類全新物質形態——純由“力”構成的物質的存在。"
+    },
+    {
+      "id": "5027617",
+      "time": "2026-08-06 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌1.8%，至6478.75點。"
+    },
+    {
+      "id": "5027616",
+      "time": "2026-08-06 08:00:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報65896.00點，跌幅0.61%。"
+    },
+    {
+      "id": "mkt:019fd45e-e739-7aab-8f95-874f4f07cb5c",
+      "time": "2026-08-06 08:00:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities: Favor domestic substitution in high-end optical-module test equipment】CITIC Securities says AI-driven acceleration since 2023 is prompting rapid optical-module tech upgrades—higher chip rates, silicon-photonics integration and CPO architectures—driving iteration in optical-module test equipment. Combined with fast expansion of AI compute infrastructure, this is lifting both volumes and prices for test equipment. International suppliers retain a lead in the 1.6T high-end segment, but Chinese firms are accelerating and narrowing the gap; CITIC is positive on long-term growth in China’s optical-module sector and on high-end test-equipment localization."
+    },
+    {
+      "id": "5027615",
+      "time": "2026-08-06 08:00:02",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【紐西蘭元兌美元脫離低點，市場仍預期紐西蘭央行9月加息】儘管紐西蘭失業率走勢令人擔憂，但紐西蘭元兌美元仍較週三0.58605的低點回升0.4%。週三公佈的紐西蘭第二季度HLFS失業率為5.6%，創十餘年來新高。期貨定價仍顯示紐西蘭央行9月加息的機率為86.8%。"
+    },
+    {
+      "id": "5027614",
+      "time": "2026-08-06 07:59:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC中國年帶火深圳口岸國際客流】據深圳邊檢總站統計，截至8月4日，經深圳口岸入出境外國人突破500萬人次，較2025年提前58天達成。受益於我國免籤政策擴容以及APEC會議效應，深圳口岸外籍客流持續走高，其中免簽入境佔比過半。"
+    },
+    {
+      "id": "mkt:019fd45e-0189-7aab-8f95-7e9fa67d70b0",
+      "time": "2026-08-06 07:59:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities: South Korean equity deleveraging not yet complete】CITIC Securities says retail leverage in South Korean equities has been rapidly unwound but risks remain. Brokerage margin balances fell 10% in a single day on July 31 — the largest drop this year — indicating on-exchange leverage is still being cut quickly. Retail forced liquidations on July 30–31 exceeded 100 bln won per day; the liquidation rate remains about 7–8%, well above the roughly 1% level seen in stable markets. Korea’s stabilization fund is limited in size and National Pension Service intervention carries moral hazard. CITIC expects market volatility to remain relatively elevated."
+    },
+    {
+      "id": "5027613",
+      "time": "2026-08-06 07:58:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：美國總統特朗普與國防部長赫格塞思在戴維營就伊朗導彈彈藥耗盡問題爆發爭執】兩名知情人士向《華盛頓郵報》透露，上週，唐納德・特朗普總統因伊朗戰事心生不滿，在戴維營向國防部長皮特・赫格塞思追問，為何自己明顯被誤導，嚴重的彈藥短缺問題如今或將限制美國針對伊朗可採取的軍事選項。據兩名瞭解此次談話的訊息人士稱，此次衝突發生於週五戴維營內閣會議的間隙。特朗普向赫格塞思大發脾氣，表示他本以為彈藥問題 “已經得到解決”。上述訊息人士與其他相關人員均因擔心遭到報復而選擇匿名受訪。其中一名訊息人士稱，遠端制導導彈與防空攔截彈的短缺，是特朗普近日暫緩對伊朗發動新一輪大規模打擊的部分原因。特朗普週一表示，他曾下令實施 “二戰以來規模最大的一次襲擊”，隨後又取消該行動，等待霍爾木茲海峽相關新一輪談判的進展。儘管美國已經就部分關鍵彈藥（例如愛國者防空導彈）達成新的生產協議，但這類彈藥的生產週期最長可達兩年，彈藥短缺的現狀短期內看不到緩解希望。《華盛頓郵報》此前報道，僅開戰首月，美軍就發射了 850 餘枚戰斧巡航導彈，以及超過 1000 枚愛國者與薩德（THAAD）系統攔截彈。"
+    },
+    {
+      "id": "mkt:019fd45d-1ab3-7aab-8f95-7724701bd91a",
+      "time": "2026-08-06 07:58:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China International Capital Co: Global nuclear fusion investment surges; supply‑chain opportunities emerging】China International Capital Co said in a research note that global investment in nuclear fusion is accelerating, with multiple U.S. and Chinese projects moving toward commercialization. Financing activity in the sector is robust and supply‑chain companies are actively expanding fusion-related businesses. The firm advises monitoring commercial fusion project milestones and financing progress, and watching project tendering for mid‑ and upstream supply‑chain investment opportunities."
+    },
+    {
+      "id": "mkt:019fd45c-567e-7aab-8f95-6d6709a27098",
+      "time": "2026-08-06 07:57:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said he has no differences with President Trump on Iran and that they are working to implement the president's decisions."
+    },
+    {
+      "id": "mkt:019fd45c-2d9b-7aab-8f95-6595d41e6f4b",
+      "time": "2026-08-06 07:57:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Vice President Vance said energy prices will decline, Iran will not acquire nuclear weapons, and the U.S. will be in a stronger position."
+    },
+    {
+      "id": "mkt:019fd45c-2d2b-7aab-8f95-5dabb6a1b7fc",
+      "time": "2026-08-06 07:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Vice President Vance said Iran is difficult to deal with, but its regime is showing cracks; the U.S. task is to secure the best outcome for the American people."
+    },
     {
       "id": "mkt:019fd459-f012-7aab-8f95-554d890bc49b",
       "time": "2026-08-06 07:54:51",
@@ -160224,179 +160446,6 @@
         "國際"
       ],
       "text": "【三星第二季度利潤激增19倍，AI晶片需求抵消了移動業務虧損】三星電子週四表示，其第二季度營業利潤飆升19倍 ，創下歷史新高，這得益於人工智慧晶片的強勁需求抵消了其移動業務盈利的下滑。這家全球最大的記憶體晶片製造商報告稱，4月至6月期間的營業利潤為89.5萬億韓元(619.8億美元)，與該公司預估的89.4萬億韓元基本持平，較上年同期的4.68萬億韓元大幅增長。這家韓國公司的季度營收同比增長130%，達到171.5萬億韓元。"
-    },
-    {
-      "id": "5015436",
-      "time": "2026-07-30 08:05:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "淡水河谷印尼公司上半年鎳產量為29,773噸，同比下降16%。"
-    },
-    {
-      "id": "5015435",
-      "time": "2026-07-30 08:04:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK海力士跌幅擴大至近5%，三星電子抹去4%的漲幅。"
-    },
-    {
-      "id": "mkt:019fb055-6bbb-7aab-8efc-2a2161f502aa",
-      "time": "2026-07-30 08:03:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "SK Hynix's decline widened to nearly 5%; Samsung Electronics erased a 4% gain."
-    },
-    {
-      "id": "5015434",
-      "time": "2026-07-30 08:03:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌1.2%，至5593.04。"
-    },
-    {
-      "id": "mkt:019fb054-85c4-7aab-8efc-252f092fee63",
-      "time": "2026-07-30 08:02:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index quickly turned negative in early trade and is now down more than 1.2%."
-    },
-    {
-      "id": "mkt:019fb053-9e1e-7aab-8efc-1a7ed71c4c02",
-      "time": "2026-07-30 08:01:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened 158.95 points lower (-0.26%) at 61,275.24 on Thursday, July 30."
-    },
-    {
-      "id": "5015433",
-      "time": "2026-07-30 08:01:36",
-      "tags": [],
-      "text": "SK海力士跌超2％，三星電子漲3％。"
-    },
-    {
-      "id": "5015432",
-      "time": "2026-07-30 08:01:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行表示有關美聯儲政策、中東局勢的不確定性增加。"
-    },
-    {
-      "id": "mkt:019fb053-6914-7aab-8efc-1692341ee498",
-      "time": "2026-07-30 08:01:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian official said a Russian airstrike on Kyiv killed one."
-    },
-    {
-      "id": "5015431",
-      "time": "2026-07-30 08:01:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：將繼續密切關注金融市場及風險。"
-    },
-    {
-      "id": "5015430",
-      "time": "2026-07-30 08:01:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭官員稱，俄羅斯對首都基輔的空襲造成一人死亡。"
-    },
-    {
-      "id": "mkt:019fb053-1bfc-7aab-8efc-0cede452ac0f",
-      "time": "2026-07-30 08:01:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "South Korea's KOSPI opened 0.76% higher; SK Hynix fell more than 2%, Samsung Electronics rose 3%."
-    },
-    {
-      "id": "5015429",
-      "time": "2026-07-30 08:00:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤報5681.77點，上漲0.3%。"
-    },
-    {
-      "id": "5015428",
-      "time": "2026-07-30 08:00:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報61258.34點，跌幅0.29%。"
-    },
-    {
-      "id": "5015427",
-      "time": "2026-07-30 07:59:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【申萬宏源：短期內，美聯儲或按兵不動】申萬宏源研報稱，美聯儲短期內或“按兵不動”。一方面，長端利率走高、金融條件收緊或對實體經濟形成抑制，降低美聯儲加息“緊迫性”。另一方面，綜合考慮趨勢性回落的通脹，美聯儲在短期內或可“按兵不動”，未來重點需關注AI投資的通脹效應以及AI對供給側的影響。"
-    },
-    {
-      "id": "mkt:019fb051-4c45-7aab-8efc-0668c6175790",
-      "time": "2026-07-30 07:59:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Shenwan Hongyuan: Fed likely to hold in near term】Shenwan Hongyuan says a Fed communication-framework reform would alter asset-pricing drivers rather than the policy stance, shifting markets from trading Fed rhetoric to trading data, scenarios and reaction functions. If the Fed stops providing forward guidance, the front end would become more data-sensitive while the long end would increasingly price term premium, inflation credibility and fiscal risk. Macro trading would move from guessing Fed wording to assessing the conditions that would trigger policy moves. In the near term the Fed is likely to hold: higher long yields and tighter financial conditions could slow the real economy and reduce the urgency to hike, and a trending down in inflation supports a pause. Markets should monitor the inflationary impact of AI-driven investment and AI’s effects on supply."
-    },
-    {
-      "id": "5015426",
-      "time": "2026-07-30 07:58:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：儘管成本壓力拖累盈利，但空調需求增長推動數碼家電業務營收增長。"
-    },
-    {
-      "id": "te:markets:570902",
-      "time": "2026-07-30 07:57:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Gains After Fed Rate Hold — Silver rose above $58 an ounce on Thursday, building on the previous session’s gains after the Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed conflict in the Middle East. The decision offered some support to bullion, as higher interest rates tend to weigh on demand for non-yielding assets. Still, three FOMC members dissented in favor of a rate hike, while Chairman Kevin Warsh said that if inflation remains elevated throughout the forecast period, higher interest rates could become an appropriate policy response. Elsewhere, both the BOE and the BOJ are widely expected to keep interest rates unchanged this week while maintaining a cautious approach to inflation. In the Middle East, President Donald Trump pledged a strong response after an attack on US forces in Jordan. Meanwhile, the two sides continued to struggle to reach a potential agreement as Tehran insisted on retaining control of the Strait of Hormuz."
     }
   ]
 }
