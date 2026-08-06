@@ -1,7 +1,88 @@
 {
-  "updated": "2026-08-06 09:07:28",
-  "count": 17408,
+  "updated": "2026-08-06 09:11:19",
+  "count": 17402,
   "items": [
+    {
+      "id": "5027717",
+      "time": "2026-08-06 09:09:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以色列稱成功測試升級版“箭”式反導系統】以色列國防部5日稱，以色列當天成功對升級版“箭”式導彈防禦系統進行了測試。以國防部在一份宣告中說，此次測試是該系統升級計劃的一部分，在以色列中部一試驗場進行。美國導彈防禦局、以色列軍方和以色列航空航天工業公司參與了此次測試。宣告未提及測試具體細節。公開資料顯示，“箭”式反導系統是構成以色列多層次導彈防禦體系的遠端防禦系統。以國防部長卡茨稱，以方正不斷提升“箭”式反導系統效能，以色列將繼續投資研發防禦系統並加強進攻能力。以國防部高階官員阿米爾·巴拉姆說，以色列防空攔截彈的儲備“正在不斷增加”。（新華社）"
+    },
+    {
+      "id": "mkt:019fd49d-e684-7aab-8f96-f2a3ba170fe0",
+      "time": "2026-08-06 09:09:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China retail cash product yields snapshot】Tencent’s Licaitong (current+) 7‑day annualised yield ranged 0.7350%–1.1650%. WeChat Wallet’s Lingqiantong 7‑day annualised yield ranged 0.9020%–1.0260%. Alipay’s Yu’e Bao 7‑day annualised yield ranged 0.9010%–1.0250%."
+    },
+    {
+      "id": "mkt:019fd49d-771b-7aab-8f96-ebe539a1e122",
+      "time": "2026-08-06 09:08:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium traded above $1,400/oz, up 2.12% intraday."
+    },
+    {
+      "id": "5027716",
+      "time": "2026-08-06 09:08:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達急尋中國AI基站供應商，明後年啟動端側算力組網】英偉達正在中國急尋AI基站供應商，開發6G AI-RAN基站（既負責通訊連線，又能承擔AI計算的基站）。8月4日，記者從通訊產業鏈核心人士處獨家獲悉，英偉達正在加速進入電信運營商市場，並在中國尋找基站廠商合作方，開發符合海外市場要求的6G基站。該人士形容，英偉達在找端側算力的“下一個中際旭創”，因為英偉達認為，算力接下來要從資料中心傳輸到海量的AI終端和使用者，最終需要依賴基站的無線傳輸。上述人士稱，英偉達推動這一專案的節奏“比較緊迫”，希望在2027或2028年進入試驗網。記者獲悉，深圳佳賢通訊是英偉達正在建立的基站合作方之一，其內部人士向記者確認，英偉達從2025年就與公司接觸，目前雙方正基於英偉達CUDA生態合作開發6G AI-RAN基站，雙方合作已持續半年多。（介面新聞）"
+    },
+    {
+      "id": "5027715",
+      "time": "2026-08-06 09:07:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天奧電子：公司產品暫未涉及太空算力領域】天奧電子在互動平臺表示，公司產品暫未涉及太空算力領域。"
+    },
+    {
+      "id": "mkt:019fd49c-30c9-7aab-8f96-e18cbee96330",
+      "time": "2026-08-06 09:07:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA urgently seeks Chinese AI base-station suppliers; to begin edge compute networking over next two years】NVIDIA is urgently courting Chinese partners to develop 6G AI-RAN base stations that combine telecom connectivity with on‑site AI compute, accelerating its push into the telecom operator market. The company is seeking Chinese base‑station manufacturers to build 6G units that meet overseas market requirements. Shenzhen Jiaxian Communications is one confirmed partner; sources say NVIDIA engaged the firm in 2025 and the collaboration — now in technical R&D and leveraging the NVIDIA CUDA ecosystem — has run for more than six months. The parties are discussing a possible commercial joint entity for overseas expansion as NVIDIA plans to start edge compute network deployments over the next two years."
+    },
+    {
+      "id": "mkt:019fd49c-2183-7aab-8f96-d8d3ff47f7ec",
+      "time": "2026-08-06 09:07:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix shares fell 9%."
+    },
+    {
+      "id": "5027714",
+      "time": "2026-08-06 09:07:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅杉資本據悉完成一輪100億美元募資，決定向Anthropic追加投資25億美元】據報道，在林君叡和帕特·格雷迪接手紅杉資本全球領導職務後的首輪募資中，紅杉資本為其成長期和擴張期基金籌集到100億美元資金。截至目前，紅杉資本今年已向投資者返還超50億美元資金，這還不包括其對SpaceX的投資。報道另稱，今年1月參與Anthropic的融資後，紅杉資本在5月商討向這家人工智慧公司追加投資。據悉，合夥人們曾討論過向Anthropic追加投資10億美元的方案，但最終就投入25億美元達成共識。"
+    },
     {
       "id": "mkt:019fd49b-f9a9-7aab-8f96-d70afbf9b77e",
       "time": "2026-08-06 09:06:59",
@@ -160119,136 +160200,6 @@
         "MKT News"
       ],
       "text": "【Honor issues fourth IPO counseling progress report】CITIC Securities published Honor’s fourth IPO counseling progress report on the CSRC’s IPO counseling system. Honor completed listing-counseling filing with the Shenzhen bureau of the China Securities Regulatory Commission in June 2025. The latest counseling period covered April 1–June 30, 2026. During the period shareholders appointed one new director and the company’s equity structure changed, prompting a change in the counseling recipient. The fourth-phase work focused on comprehensive due diligence, project working meetings, governance improvements and vetting proposed fundraising investment projects. CITIC plans to continue with the current counseling team."
-    },
-    {
-      "id": "5015548",
-      "time": "2026-07-30 09:10:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶江津涉林火情明火已全面撲滅 】記者30日從江津區森林防滅火指揮部獲悉，7月29日20時44分許，重慶江津區發生一起涉林火情。經市、區兩級救援力量連續奮戰，截至7月30日凌晨2時許，該火情明火已全面撲滅，過火面積11.3畝，全程無人員傷亡，未造成重大財產損失。 當前，江津區森林防滅火指揮部正組織工作人員對火場開展全覆蓋網格化排查，全面清理餘火隱患，並安排專人對火場開展不少於72小時不間斷巡護值守，嚴防火情復燃。 起火原因仍在進一步調查中。"
-    },
-    {
-      "id": "mkt:019fb092-f4eb-7aab-8efd-763e28e7266c",
-      "time": "2026-07-30 09:10:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Samsung Electronics says it will provide an update on its shareholder-return policy soon."
-    },
-    {
-      "id": "5015547",
-      "time": "2026-07-30 09:10:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG新能源：已獲得價值超過3萬億韓元的人工智慧資料中心ESS訂單。"
-    },
-    {
-      "id": "5015546",
-      "time": "2026-07-30 09:10:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【榮耀更新IPO輔導備案報告】證監會官網IPO輔導公示系統顯示，中信證券股份有限公司（簡稱“中信證券”）釋出了《關於榮耀首次公開發行股票並上市輔導工作進展情況報告（第四期）》。榮耀於2025年6月在深圳證監局完成上市輔導備案，此前已經發布了三期輔導備案報告。最新報告顯示，本期輔導期間為2026年4月1日至2026年6月30日。輔導期內，公司股東會新增聘任1位董事，此外股權結構發生變動，致使公司接受輔導人員發生變動。第四期的輔導圍繞四個方面展開：持續開展全面盡職調查工作、召開專案工作會議、協助完善公司治理制度、協助輔導物件論證募集資金投資專案。下一階段，中信證券擬繼續委派現有輔導工作小組成員執行輔導工作。"
-    },
-    {
-      "id": "5015545",
-      "time": "2026-07-30 09:10:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數維持震盪，漲幅再度達2%。"
-    },
-    {
-      "id": "mkt:019fb091-e945-7aab-8efd-6c8d5dbde964",
-      "time": "2026-07-30 09:09:40",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "South Korea's KOSPI again rose as much as 2% intraday; Samsung Electronics up 3%, SK Hynix down 0.7%."
-    },
-    {
-      "id": "5015544",
-      "time": "2026-07-30 09:09:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "LG新能源股價上漲7%。"
-    },
-    {
-      "id": "5015543",
-      "time": "2026-07-30 09:09:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.3%，英國富時指數期貨下跌0.6%。"
-    },
-    {
-      "id": "mkt:019fb091-554f-7aab-8efd-67fe5ceef06c",
-      "time": "2026-07-30 09:09:02",
-      "tags": [
-        "MKT News",
-        "600597.SS",
-        "Impact bullish",
-        "600887.SS"
-      ],
-      "text": "【Galaxy Securities: Milk price growth turning positive may spur earnings recovery for related listed firms】Galaxy Securities says July domestic fresh milk prices rose 0.3% YoY, the first positive reading in nearly five years, indicating a gradual supply–demand rebalancing. Raw milk prices began rising in March, reinforcing signs of a cyclical trough and recovery. Given current milk-source structure and downstream demand rebound, Galaxy expects the post-turn growth path may mirror 2016 — a modest, gradual uptrend — which should ease downstream competition, reduce impairment losses and support earnings recovery at related listed companies."
-    },
-    {
-      "id": "5015542",
-      "time": "2026-07-30 09:08:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【英國央行料維持利率不變 中東局勢令後續加息預期未消】在油氣價格劇烈波動之際，英國央行預計將維持利率不變，繼續採取觀望策略。投資者和經濟學家普遍預計，英國央行貨幣政策委員會週四將把基準利率維持在3.75%。通脹前景目前仍在很大程度上取決於中東衝突的發展。英國央行將於倫敦時間中午12點公佈利率決議及最新經濟預測，行長安德魯·貝利將在一小時後召開新聞釋出會。"
-    },
-    {
-      "id": "mkt:019fb090-a585-7aab-8efd-5a9098453ca4",
-      "time": "2026-07-30 09:08:17",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Dow"
-      ],
-      "text": "Nasdaq futures rose more than 1%, the S&P 500 gained 0.4% and Dow futures rose 0.3%."
-    },
-    {
-      "id": "te:markets:570927",
-      "time": "2026-07-30 09:08:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Holds Drop After Fed Decision — The dollar index held below 101 on Thursday after a sharp decline in the previous session, as the Federal Reserve left interest rates unchanged despite mounting inflationary risks stemming from renewed conflict in the Middle East. Still, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh stressed that the decision to hold rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. In the Middle East, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region. Meanwhile, both sides remained unable to reach a potential agreement as Tehran insisted on maintaining control of the Strait of Hormuz, leaving traders concerned about inflation and the interest rate outlook. Elsewhere, the Bank of England and the Bank of Japan are also widely expected to keep interest rates unchanged this week."
-    },
-    {
-      "id": "5015541",
-      "time": "2026-07-30 09:07:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：將保持市場溝通的透明度。"
-    },
-    {
-      "id": "5015540",
-      "time": "2026-07-30 09:07:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬科Ａ：6月上海、成都等地專案來訪及認購量環比兩位數增長】萬科Ａ(000002)在互動平臺表示，從6月份的銷售情況看，公司在上海、成都等城市專案的來訪量、認購量環比有兩位數以上的增長。"
     }
   ]
 }
