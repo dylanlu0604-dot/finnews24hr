@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-06 09:38:52",
-  "count": 17384,
+  "updated": "2026-08-06 09:42:43",
+  "count": 17365,
   "items": [
+    {
+      "id": "mkt:019fd4bb-5074-7aab-8f98-2e10228461e9",
+      "time": "2026-08-06 09:41:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan 20-year government bond yield fell 3.5 bps to 3.655%."
+    },
+    {
+      "id": "5027791",
+      "time": "2026-08-06 09:40:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣概念表現活躍 飛天誠信20CM漲停】數字貨幣概念表現活躍，飛天誠信20CM漲停，恆寶科技漲停，楚天龍、翠微股份、四方精創、拉卡拉跟漲。"
+    },
+    {
+      "id": "5027790",
+      "time": "2026-08-06 09:40:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【泡泡瑪特盤初一度跌超3%】8月6日，港股泡泡瑪特盤初一度跌超3%。截至發稿，報155.5港元/股，跌3.66%，總市值2068億港元。訊息面上，8月5日，港交所披露一則權益變動資訊：段永平透過H&H International Investment持有的泡泡瑪特多頭倉位，於7月30日從7.65%降至5.55%，下降2.1個百分點。檔案顯示，此次多頭倉位下降的原因是：其交付了根據股本衍生工具須交付的股份或款項。對此，段永平本人在社交平臺回應稱，此次變動“就是putexpired，部分被call走了”。泡泡瑪特相關人士則向媒體表示，段永平此次持股比例下跌和他此前賣Put、賣Call相關價格設定強相關，主要由於價格區間設定比較窄，屬於短期交易行為，並非大眾理解層面的主動減持。"
+    },
+    {
+      "id": "mkt:019fd4ba-720f-7aab-8f98-228e31237cbb",
+      "time": "2026-08-06 09:40:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share software development sector rallied intraday; Fanwei Network hit the daily price limit, while AsiaInfo Security, Topsec, Ren Zixing, Sifang Jingchuang and Yongxin Zhicheng also advanced."
+    },
+    {
+      "id": "5027789",
+      "time": "2026-08-06 09:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "智利財長：智利將於9月1日公佈資本市場改革方案。"
+    },
+    {
+      "id": "te:economy:573179",
+      "time": "2026-08-06 09:40:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "Australia Exports Rebound in June — Australia’s goods exports grew 9.6% month-on-month to AUD 47.70 billion in June, rebounding from an upwardly revised 7.6% decline in May, primarily driven by non-monetary gold."
+    },
+    {
+      "id": "5027788",
+      "time": "2026-08-06 09:39:38",
+      "tags": [
+        "公司",
+        "原創"
+      ],
+      "text": "【斷臂求生後重返投資 “AI股神”的對沖基金再出手押注4億美元】據知情人士稱，在“AI股神”Leopold Aschenbrenner麾下對沖基金Situational Awareness瀕臨崩潰僅僅幾天之後，他已重返投資市場，對一家非上市公司押注4億美元。這筆投資於週二完成，從中可以初步看出Aschenbrenner打算如何重整旗鼓。上週，由於華爾街貸款機構紛紛發出追加保證金通知，他的對沖基金幾近崩潰邊緣。據一位知情人士透露，在這筆投資之前，上個月Situational Awareness向同一家公司投資了1億美元。目前尚不清楚這筆額外資金流向Situational Awareness現有私募股權投資組合中的哪家公司。"
+    },
+    {
+      "id": "mkt:019fd4b9-563c-7aab-8f98-1dbee9265991",
+      "time": "2026-08-06 09:39:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Tanker reports explosions in Strait of Hormuz】UK Maritime Trade Operations (UKMTO) said on the 6th that a tanker transiting the Strait of Hormuz reported hearing two explosions; the vessel and crew are reported safe. UKMTO located the incident 9 nm southeast of Kumzar, Oman. The report was received at 19:18 UTC on the 5th (03:18 Beijing time on the 6th). No further details were provided."
+    },
     {
       "id": "5027787",
       "time": "2026-08-06 09:37:59",
@@ -159781,255 +159863,6 @@
         "公司"
       ],
       "text": "油氣概念表現活躍，通源石油漲近10%，科力股份、泰山石油、中國海油、山東墨龍、石化油服跟漲。"
-    },
-    {
-      "id": "5015632",
-      "time": "2026-07-30 09:42:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【免稅概念震盪反彈，南寧百貨直線漲停】免稅概念震盪反彈，南寧百貨直線漲停，東百集團、嶺南控股、廣百股份、凱撒旅業、海南發展、歐亞集團等跟漲。"
-    },
-    {
-      "id": "mkt:019fb0af-fb63-7aab-8eff-7ba01d101053",
-      "time": "2026-07-30 09:42:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share smart-driving sector rallied; Zhejiang Shibao hit its daily limit, while Wanji Technology, Suoling Co., BAIC BluePark and King Long Motor also advanced."
-    },
-    {
-      "id": "5015631",
-      "time": "2026-07-30 09:42:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家藥監局批准4款創新藥上市】近日，國家藥品監督管理局批准湖南九典制藥股份有限公司申報的中藥1.1類創新藥椒七止痛凝膠貼膏上市。該藥品為中藥複方外用製劑，具有溫經散寒、活血止痛功效，用於膝骨關節炎寒凝血瘀證。近日，國家藥監局附條件批准西湖製藥（杭州）有限公司申報的1類創新藥鹽酸伊司特韋片上市。該藥品為口服小分子新冠病毒感染治療藥物，用於治療成人輕型、中型新型冠狀病毒感染（COVID-19）。近日，國家藥品監督管理局批准江蘇恆瑞醫藥股份有限公司申報的舒地胰島素注射液（商品名：瑞恆盈）上市，用於治療成人2型糖尿病。 近日，國家藥品監督管理局透過優先審評審批程式批准上海華奧泰生物藥業股份有限公司申報的瑞西奇拜單抗注射液（商品名：華亦淨）上市，用於治療成人(體重≥40kg)泛發性膿皰型銀屑病發作。"
-    },
-    {
-      "id": "mkt:019fb0af-c07a-7aab-8eff-75ab0c9e0e5e",
-      "time": "2026-07-30 09:42:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS"
-      ],
-      "text": "Samsung Electronics expects H2 HBM4 revenue to account for about 60% of its total HBM revenue."
-    },
-    {
-      "id": "5015630",
-      "time": "2026-07-30 09:42:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：下半年HBM4營收將佔高頻寬儲存器總營收約60%。"
-    },
-    {
-      "id": "5015629",
-      "time": "2026-07-30 09:42:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.00%，成分股中，華虹宏力跌7.09%，翱捷科技跌6.20%，源傑科技跌5.37%，華海清科跌4.63%。"
-    },
-    {
-      "id": "5015628",
-      "time": "2026-07-30 09:41:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭武裝部隊30日在社交媒體發文稱，為了保護本國領空，波蘭已出動戰鬥機進行防禦性部署，以應對俄羅斯對烏克蘭發動空襲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb0af-4210-7aab-8eff-6c69b46e3af5",
-      "time": "2026-07-30 09:41:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI rose 5% intraday to 5,950.55, with Samsung Electronics up 7% and SK Hynix up 3.2%."
-    },
-    {
-      "id": "mkt:019fb0af-29d3-7aab-8eff-60451402fbc1",
-      "time": "2026-07-30 09:41:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share precious metals sector rose in early trade; Zhaojin Gold hit the daily limit, while Chifeng Gold, Western Gold, Zhongjin Gold, Sichuan Gold and Shanjin International also advanced."
-    },
-    {
-      "id": "5015627",
-      "time": "2026-07-30 09:41:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國綜指漲幅擴大至5%，現報5950.55點。個股方面，三星電子漲超6%，SK海力士漲超3%。"
-    },
-    {
-      "id": "te:economy:570947",
-      "time": "2026-07-30 09:41:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Building Permits Unexpectedly Rise — Australia's seasonally adjusted dwelling approvals rose 7.2% month-on-month to a four-month high of 18,328 units in June 2026, defying expectations of a 1% fall and following a revised 2.7% decline in May. The increase was driven by a 17.8% rebound in approvals for private sector dwellings excluding houses to 7,138 units, while approvals for private sector houses edged up 0.4% to 10,631. Compared with a year earlier, total dwelling approvals increased 8.9%, with approvals for private sector houses rising 15.8%, while approvals for private sector dwellings excluding houses slipped 1.5%. In trend terms, total dwelling approvals rose 2.0% to 18,449 units. Across the states, trend approvals increased in New South Wales (3.9%), Queensland (4.1%), South Australia (1.0%), Tasmania (1.5%), and the Northern Territory (3.6%), were unchanged in Victoria, and declined in Western Australia (-0.2%) and the Australian Capital Territory (-3.6%)."
-    },
-    {
-      "id": "5015626",
-      "time": "2026-07-30 09:41:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股教育股走強 新東方漲近16%】截至發稿，新東方-S(09901.HK)漲15.68%，光正教育(06068.HK)漲4.69%。"
-    },
-    {
-      "id": "mkt:019fb0ae-b897-7aab-8eff-5808f82e3010",
-      "time": "2026-07-30 09:41:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Samsung Electronics expects HBM market share in H2 to be consistent with its overall DRAM market share."
-    },
-    {
-      "id": "mkt:019fb0ae-955b-7aab-8eff-5495b9332654",
-      "time": "2026-07-30 09:40:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics shares rose 7%."
-    },
-    {
-      "id": "5015625",
-      "time": "2026-07-30 09:40:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲7%。"
-    },
-    {
-      "id": "mkt:019fb0ae-6997-7aab-8eff-4ca73831329f",
-      "time": "2026-07-30 09:40:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share photolithography-equipment sector fell for a third straight session; Zhongchuan Special Gas and Jiezhong Technology tumbled over 8%, with Wavelength Optoelectronics, Dongfang Jiasheng, Maolai Optical and Xinlai Yingcai also down."
-    },
-    {
-      "id": "5015624",
-      "time": "2026-07-30 09:40:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：預計下半年HBM市場份額將與DRAM整體市場份額持平。"
-    },
-    {
-      "id": "5015623",
-      "time": "2026-07-30 09:40:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：高頻寬記憶體4（HBM4）第三季度收入較第二季度增長兩倍以上。"
-    },
-    {
-      "id": "5015622",
-      "time": "2026-07-30 09:40:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG新能源將於第三季度重啟位於俄亥俄州的Ultimate Cells工廠的運營。"
-    },
-    {
-      "id": "mkt:019fb0ad-79cb-7aab-8eff-40ce2991edfc",
-      "time": "2026-07-30 09:39:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index gains over 2%."
-    },
-    {
-      "id": "5015621",
-      "time": "2026-07-30 09:39:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星：2027年記憶體供應緊張形勢將更加嚴峻。"
-    },
-    {
-      "id": "5015620",
-      "time": "2026-07-30 09:39:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【智慧駕駛概念表現活躍 浙江世寶直線漲停】智慧駕駛概念表現活躍，浙江世寶直線漲停，萬集科技、索菱股份、北汽藍谷、金龍汽車跟漲。"
-    },
-    {
-      "id": "5015619",
-      "time": "2026-07-30 09:39:23",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "貴金屬板塊早盤拉昇，招金黃金觸及漲停，赤峰黃金、西部黃金、中金黃金、四川黃金、山金國際跟漲。"
-    },
-    {
-      "id": "5015618",
-      "time": "2026-07-30 09:39:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光刻機板塊再度走弱 中船特氣、捷眾科技跌超8%】光刻機板塊再度走弱，中船特氣、捷眾科技跌超8%，波長光電、東方嘉盛、茂萊光學跟跌。"
-    },
-    {
-      "id": "mkt:019fb0ac-f9c8-7aab-8eff-382dcfa0bee0",
-      "time": "2026-07-30 09:39:13",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "Samsung Electronics said its policy to return 50% of free cash flow to shareholders could be affected by customer deposits and employee bonuses."
-    },
-    {
-      "id": "5015617",
-      "time": "2026-07-30 09:39:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股黃金股走強 紫金黃金國際漲近5%】截至發稿，紫金黃金國際(02259.HK)漲4.84%，珠峰黃金(01815.HK)漲3.37%，赤峰黃金(06693.HK)漲3.27%。"
-    },
-    {
-      "id": "5015616",
-      "time": "2026-07-30 09:39:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子表示，晶片供應短缺情況將在2027年進一步加劇，並延續至2028年。"
     }
   ]
 }

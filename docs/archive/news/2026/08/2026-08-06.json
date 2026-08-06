@@ -1,7 +1,89 @@
 {
   "date": "2026-08-06",
-  "count": 754,
+  "count": 762,
   "items": [
+    {
+      "id": "mkt:019fd4bb-5074-7aab-8f98-2e10228461e9",
+      "time": "2026-08-06 09:41:13",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan 20-year government bond yield fell 3.5 bps to 3.655%."
+    },
+    {
+      "id": "5027791",
+      "time": "2026-08-06 09:40:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【數字貨幣概念表現活躍 飛天誠信20CM漲停】數字貨幣概念表現活躍，飛天誠信20CM漲停，恆寶科技漲停，楚天龍、翠微股份、四方精創、拉卡拉跟漲。"
+    },
+    {
+      "id": "5027790",
+      "time": "2026-08-06 09:40:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【泡泡瑪特盤初一度跌超3%】8月6日，港股泡泡瑪特盤初一度跌超3%。截至發稿，報155.5港元/股，跌3.66%，總市值2068億港元。訊息面上，8月5日，港交所披露一則權益變動資訊：段永平透過H&H International Investment持有的泡泡瑪特多頭倉位，於7月30日從7.65%降至5.55%，下降2.1個百分點。檔案顯示，此次多頭倉位下降的原因是：其交付了根據股本衍生工具須交付的股份或款項。對此，段永平本人在社交平臺回應稱，此次變動“就是putexpired，部分被call走了”。泡泡瑪特相關人士則向媒體表示，段永平此次持股比例下跌和他此前賣Put、賣Call相關價格設定強相關，主要由於價格區間設定比較窄，屬於短期交易行為，並非大眾理解層面的主動減持。"
+    },
+    {
+      "id": "mkt:019fd4ba-720f-7aab-8f98-228e31237cbb",
+      "time": "2026-08-06 09:40:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share software development sector rallied intraday; Fanwei Network hit the daily price limit, while AsiaInfo Security, Topsec, Ren Zixing, Sifang Jingchuang and Yongxin Zhicheng also advanced."
+    },
+    {
+      "id": "5027789",
+      "time": "2026-08-06 09:40:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "智利財長：智利將於9月1日公佈資本市場改革方案。"
+    },
+    {
+      "id": "te:economy:573179",
+      "time": "2026-08-06 09:40:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "Australia Exports Rebound in June — Australia’s goods exports grew 9.6% month-on-month to AUD 47.70 billion in June, rebounding from an upwardly revised 7.6% decline in May, primarily driven by non-monetary gold."
+    },
+    {
+      "id": "5027788",
+      "time": "2026-08-06 09:39:38",
+      "tags": [
+        "公司",
+        "原創"
+      ],
+      "text": "【斷臂求生後重返投資 “AI股神”的對沖基金再出手押注4億美元】據知情人士稱，在“AI股神”Leopold Aschenbrenner麾下對沖基金Situational Awareness瀕臨崩潰僅僅幾天之後，他已重返投資市場，對一家非上市公司押注4億美元。這筆投資於週二完成，從中可以初步看出Aschenbrenner打算如何重整旗鼓。上週，由於華爾街貸款機構紛紛發出追加保證金通知，他的對沖基金幾近崩潰邊緣。據一位知情人士透露，在這筆投資之前，上個月Situational Awareness向同一家公司投資了1億美元。目前尚不清楚這筆額外資金流向Situational Awareness現有私募股權投資組合中的哪家公司。"
+    },
+    {
+      "id": "mkt:019fd4b9-563c-7aab-8f98-1dbee9265991",
+      "time": "2026-08-06 09:39:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Tanker reports explosions in Strait of Hormuz】UK Maritime Trade Operations (UKMTO) said on the 6th that a tanker transiting the Strait of Hormuz reported hearing two explosions; the vessel and crew are reported safe. UKMTO located the incident 9 nm southeast of Kumzar, Oman. The report was received at 19:18 UTC on the 5th (03:18 Beijing time on the 6th). No further details were provided."
+    },
     {
       "id": "5027787",
       "time": "2026-08-06 09:37:59",
