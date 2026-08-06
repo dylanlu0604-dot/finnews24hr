@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-06 19:55:20",
-  "count": 16933,
+  "updated": "2026-08-06 19:59:22",
+  "count": 16932,
   "items": [
+    {
+      "id": "te:markets:573386",
+      "time": "2026-08-06 19:57:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cheniere Energy earnings above expectations at 14.65 USD — Cheniere Energy (LNG) released earnings per share at 14.65 USD, compared to market expectations of 2.93 USD."
+    },
+    {
+      "id": "5028873",
+      "time": "2026-08-06 19:57:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：阿曼‑伊朗即將釋出關於霍爾木茲海峽臨時過境通道的聯合宣告。"
+    },
+    {
+      "id": "5028872",
+      "time": "2026-08-06 19:57:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "餘承東：24小時大定突破3500臺！很高興看到從尊界S800到尊界V800、尊界V680，越來越多朋友加入尊界大家庭。"
+    },
+    {
+      "id": "5028871",
+      "time": "2026-08-06 19:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "美、布兩油短線走高約0.4美元，報76.20美元/桶和80.66美元/桶。"
+    },
+    {
+      "id": "5028870",
+      "time": "2026-08-06 19:56:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中材科技：股票交易異常波動 提醒關注熱點概念炒作風險】中材科技公告稱，公司股票於2026年8月4日至6日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司關注到全資子公司泰山玻纖特種纖維布產品關注度高，提醒投資者注意熱點概念炒作風險。2025年度向特定物件發行A股股票事項已獲深交所稽核透過，尚待證監會註冊。公司目前經營正常，不存在應披露未披露重大事項，提醒投資者理性投資。"
+    },
+    {
+      "id": "5028869",
+      "time": "2026-08-06 19:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SUSQUEHANNA將閃迪目標價從3050美元下調至2745美元。"
+    },
+    {
+      "id": "5028868",
+      "time": "2026-08-06 19:55:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東誠藥業：貝米肝素鈉上市申請獲國家藥監局受理】東誠藥業公告，公司近日收到國家藥品監督管理局核准簽發的關於原料藥貝米肝素鈉上市申請的《受理通知書》，受理號為CYHS2660516。貝米肝素鈉為一種超低分子肝素，已在全球60多個國家上市銷售，適用於血液透析預防凝血及手術患者血栓栓塞性疾病。後續工作仍可能受不確定性因素影響，公司將積極推進後續程序。"
+    },
+    {
+      "id": "mkt:019fd6ed-b92f-7aab-8fa1-1980253d8f8b",
+      "time": "2026-08-06 19:55:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude rose about $0.40 intraday to $76.20/bbl and $80.66/bbl, respectively."
+    },
+    {
+      "id": "5028867",
+      "time": "2026-08-06 19:55:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長哈坎·菲丹： 關於霍爾木茲海峽以外的相關問題，我們瞭解伊朗與美國已達成若干基礎性共識，尤其是在核問題層面。因此，倘若雙方在此事上展現出真正的誠意，就有望達成一份持久協議。但前提是，霍爾木茲海峽相關問題必須先行得到解決。"
+    },
+    {
+      "id": "5028866",
+      "time": "2026-08-06 19:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：歐足聯將繼續推動罷免因凡蒂諾】據報道，歐足聯計劃對國際足聯世界盃權益出售方案進行獨立估值，此前有訊息擔憂，詹尼・因凡蒂諾同意以低於市場的價格，將世界盃未來收益出售給一傢俬募股權機構。在摩洛哥舉行危機磋商後，因凡蒂諾週二向國際足聯 211 個會員協會遞交書面致歉，但歐洲足聯並未接受這份道歉。歐足聯將繼續推動罷免因凡蒂諾，手段包括進一步審視這項國際足聯主席事後承認是 “一次失誤” 的提案。歐足聯已與多名市場分析師溝通，探討獨立估值相關事宜；待因凡蒂諾個人危機的輿論風波降溫後，大機率會啟動正式評估。"
+    },
     {
       "id": "mkt:019fd6ec-75dc-7aab-8fa1-110e40f19b2c",
       "time": "2026-08-06 19:54:08",
@@ -15,6 +105,14 @@
         "Impact bullish"
       ],
       "text": "【O-Film takes 51% of Hefei Zhongke Daojing, expands into glass-based advanced packaging】O-Film said it acquired 51% of Hefei Zhongke Daojing Technology via purchase of existing shares plus a capital injection, becoming the company’s controlling shareholder. The move follows O-Film’s June setup of a machine-vision unit, July launch of a micro‑nano devices arm and a prior stake in Xinguanglian, marking another strategic push into the optical-communications supply chain. Founded in 2023 and spun out of the Chinese Academy of Sciences Institute of Intelligent Machines’ microsystems lab, Zhongke Daojing’s core team includes CAS postdocs and senior researchers and draws on nearly a decade of R&D in glass-based advanced packaging, covering core process development, process optimization and transfer to mass production."
+    },
+    {
+      "id": "5028865",
+      "time": "2026-08-06 19:53:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐菲光控股中科島晶 卡位玻璃基先進封裝賽道】據歐菲光訊息，近日，公司透過“受讓老股+增資”方式，取得合肥中科島晶科技有限公司（簡稱“中科島晶”）51%股權，成為中科島晶的控股股東。歐菲光表示，這是公司繼6月設立機器視覺公司、7月成立歐菲光學微納器件公司、參股芯光聯之後，在光通訊賽道的又一關鍵落子。中科島晶成立於2023年，公司依託中國科學院智慧機械研究所智慧微系統實驗室的科研積澱，核心團隊由中科院博士後及資深研究人員組成，在玻璃基先進封裝領域深耕近十年，積累了從核心工藝開發、工藝最佳化到落地量產轉化的全鏈條技術與產業化經驗。"
     },
     {
       "id": "mkt:019fd6eb-c357-7aab-8fa1-0e919d12995c",
@@ -155377,118 +155475,6 @@
         "國際"
       ],
       "text": "百威英博執行長：歐洲大範圍歷史性熱浪不利於啤酒銷售。"
-    },
-    {
-      "id": "5016952",
-      "time": "2026-07-30 19:59:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：阿曼蘇丹與英國新任首相伯納姆就地區局勢進行會談。"
-    },
-    {
-      "id": "5016951",
-      "time": "2026-07-30 19:58:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將Meta目標股價從835.00美元下調至810.00美元。"
-    },
-    {
-      "id": "mkt:019fb2e3-da0f-7aab-8f10-877cff25e645",
-      "time": "2026-07-30 19:58:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "BOFA GLOBAL RESEARCH cuts Meta Platforms (META.O) price target to $810 from $835."
-    },
-    {
-      "id": "5016950",
-      "time": "2026-07-30 19:58:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將義大利埃尼石油目標股價從22.00歐元上調至23.00歐元。"
-    },
-    {
-      "id": "5016949",
-      "time": "2026-07-30 19:57:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴勒斯坦方面訊息：敵方戰機轟炸加沙地帶北部賈巴利亞城區平民，造成一人死亡、多人受傷，其中部分傷者情況危急。"
-    },
-    {
-      "id": "5016948",
-      "time": "2026-07-30 19:57:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光藥：德谷胰島素注射液獲NMPA上市批准，涵蓋兩個規格】東陽光藥公告，公司自主研發的德谷胰島素注射液正式獲得國家藥品監督管理局(NMPA)批准上市，涵蓋筆芯和預填充注射筆兩個規格。該藥品為第四代長效基礎胰島素類似物，半衰期約25小時，作用持續時間超過42小時。此次獲批後，公司在中國市場獲批的胰島素產品已增至6款，構建起覆蓋二代至四代的全系列產品矩陣。"
-    },
-    {
-      "id": "5016947",
-      "time": "2026-07-30 19:57:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Meta執行長扎克伯格：出售算力獲取短期利潤是愚蠢的】當地時間29日美股盤後，Meta披露2026年第二季度財報，儘管該季度營收小幅超預期，但淨利潤下滑14%，疊加鉅額AI資本開支擠壓現金流，公司股價盤後一度跌超8%。財報中，Meta將全年資本支出預測區間調整至1300億至1450億美元，而此前預測為1250億至1450億美元。AI資本支出大幅攀升損害公司盈利能力並嚴重擠壓現金流，Meta第二季度的自由現金流降至近四年來的最低水平，僅剩7.84億美元。面對市場的擔憂，Meta執行長扎克伯格29日在財報電話會議上表示，Meta當前的大規模投入是為了搶佔AI基礎設施視窗期，回報將逐步透過核心廣告業務提升、企業服務及算力出租等多條路徑兌現。扎克伯格在提到“賣算力”的可能性時表示，Meta已經收到大量關於算力的報價，價格遠高於公司採購成本。不過扎克伯格表示，僅僅出售算力並獲取短期利潤是愚蠢的，Meta算力將有“相當大一部分”用於驅動其自有模型和產品。（央視財經）"
-    },
-    {
-      "id": "mkt:019fb2e2-b868-7aab-8f10-79e377f03835",
-      "time": "2026-07-30 19:57:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) rises over 10% in U.S. pre-market after fiscal Q4 Azure cloud revenue grew 43% YoY, well above expectations."
-    },
-    {
-      "id": "5016946",
-      "time": "2026-07-30 19:56:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米正式推出龍甲電池體系】雷軍今晚表示，小米龍甲電池體系正式推出。這是小米汽車主導的動力電池系統化解決方案：小米負責產品定義，小米主導電池包的設計開發，小米參與電芯的設計開發，小米進行全流程質量管控。"
-    },
-    {
-      "id": "5016945",
-      "time": "2026-07-30 19:56:32",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股晶片半導體板塊盤前集體上揚 泛林集團漲9.2%】美股晶片半導體板塊盤前集體上揚，英偉達盤前上漲1.82%，臺積電盤前上漲2.79%，博通盤前上漲1.67%，SK海力士盤前上漲3.21%，美光科技盤前上漲3.64%，美國超微公司盤前上漲4.29%，英特爾盤前上漲2.71%，阿斯麥盤前上漲3.94%，泛林集團盤前上漲9.20%，Arm Holdings盤前上漲0.91%，閃迪盤前上漲6.11%，邁威爾科技盤前上漲3.78%，西部資料盤前上漲4.95%，希捷科技盤前上漲4.27%。"
-    },
-    {
-      "id": "mkt:019fb2e2-167a-7aab-8f10-768e1864e8fa",
-      "time": "2026-07-30 19:56:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli Channel 12 reports major progress in Gaza】Israeli Channel 12 reports mediators and Hamas have reached a new agreement on comprehensive disarmament: all weapons — heavy, light and police arms — as well as tunnels and weapon stockpiles to be surrendered; weapons to be transferred within weeks to depots guarded by a multinational force; Hamas to cease all military activity and recruitment; Israel will not withdraw from its planned Yellow Line until disarmament is completed. Report unconfirmed by major outlets; investors should verify."
-    },
-    {
-      "id": "5016944",
-      "time": "2026-07-30 19:55:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟美股盤前漲超10%。微軟第四財季Azure雲業務同比增長43%，遠超預期，AI變現進入加速軌道。"
     }
   ]
 }
