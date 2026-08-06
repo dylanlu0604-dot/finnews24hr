@@ -1,7 +1,108 @@
 {
   "date": "2026-08-06",
-  "count": 1353,
+  "count": 1363,
   "items": [
+    {
+      "id": "5028212",
+      "time": "2026-08-06 15:32:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "芝加哥期權交易所全球市場公司（CBOE Global Markets Inc）旗下歐洲CBOE清算所將於8月24日起，將證券融資交易清算業務拓展至固定收益領域。"
+    },
+    {
+      "id": "5028211",
+      "time": "2026-08-06 15:31:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生4.0級地震】據日本氣象廳訊息，當地時間6日16時18分左右，日本熊本縣天草、蘆北地區發生4.0級地震，最大震感為震度3，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "te:markets:573302",
+      "time": "2026-08-06 15:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.17% Higher — The DAX Index is up by 45 points or 0.17 percent on Thursday. Top gainers are Deutsche Telekom (5.22%), Henkel (3.24%) and Zalando (3.23%). Biggest losses came from Siemens (-5.40%), Siemens Energy (-1.02%) and Vonovia (-0.99%)."
+    },
+    {
+      "id": "5028210",
+      "time": "2026-08-06 15:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美經濟學家：中國恢復採購美國大豆是一個“令人鼓舞”的訊號】據美國農業新聞網站“Brownfield Ag News”8月5日報道，隨著新一年度大豆銷售季臨近，中國持續採購美國大豆，引發市場關注。美國密蘇里大學推廣中心農業經濟學家本·布朗（Ben Brown）表示，中國恢復採購是一個“令人鼓舞”的訊號。 布朗同時表示，從歷史情況來看，中國通常會在這一時間段開始採購美國新季大豆，因此當前的購買行為符合季節規律，“並不算異常”。 “他們現在正在採購，這是一個好跡象。”（觀察者網）"
+    },
+    {
+      "id": "te:markets:573301",
+      "time": "2026-08-06 15:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.71% Higher — The CAC 40 Index is gaining 62 points or 0.71 percent on Thursday. Leading the gains are Hermes International (3.72%), Publicis (3.23%) and Kering (2.51%). Top losers are Schneider Electric (-1.18%), STMicroelectronics (-0.91%) and TP (-0.54%)."
+    },
+    {
+      "id": "mkt:019fd5fa-be74-7aab-8f9c-6e918dec38ca",
+      "time": "2026-08-06 15:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany July construction PMI 42.1, prior 44.8."
+    },
+    {
+      "id": "mkt:019fd5fa-a1ff-7aab-8f9c-672a18485da6",
+      "time": "2026-08-06 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Construction PMI (Jul) | actual 42.1 | previous 44.8"
+    },
+    {
+      "id": "mkt:019fd5fa-9b53-7aab-8f9c-5830f302872b",
+      "time": "2026-08-06 15:29:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine's Black Sea counterstrike against Russia succeeded, striking two military patrol boats and shadow-fleet vessels."
+    },
+    {
+      "id": "mkt:019fd5fa-0858-7aab-8f9c-55c8db1db751",
+      "time": "2026-08-06 15:29:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine attacked two Russian refineries."
+    },
+    {
+      "id": "5028209",
+      "time": "2026-08-06 15:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭報道：在洛佐瓦，一枚導彈擊中了鐵路站附近的一節火車車廂，已導致2人死亡，3人受傷。"
+    },
     {
       "id": "5028208",
       "time": "2026-08-06 15:27:52",

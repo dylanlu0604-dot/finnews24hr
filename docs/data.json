@@ -1,7 +1,108 @@
 {
-  "updated": "2026-08-06 15:28:51",
-  "count": 17171,
+  "updated": "2026-08-06 15:32:39",
+  "count": 17168,
   "items": [
+    {
+      "id": "5028212",
+      "time": "2026-08-06 15:32:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "芝加哥期權交易所全球市場公司（CBOE Global Markets Inc）旗下歐洲CBOE清算所將於8月24日起，將證券融資交易清算業務拓展至固定收益領域。"
+    },
+    {
+      "id": "5028211",
+      "time": "2026-08-06 15:31:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣發生4.0級地震】據日本氣象廳訊息，當地時間6日16時18分左右，日本熊本縣天草、蘆北地區發生4.0級地震，最大震感為震度3，震源深度10公里。（央視新聞）"
+    },
+    {
+      "id": "te:markets:573302",
+      "time": "2026-08-06 15:31:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.17% Higher — The DAX Index is up by 45 points or 0.17 percent on Thursday. Top gainers are Deutsche Telekom (5.22%), Henkel (3.24%) and Zalando (3.23%). Biggest losses came from Siemens (-5.40%), Siemens Energy (-1.02%) and Vonovia (-0.99%)."
+    },
+    {
+      "id": "5028210",
+      "time": "2026-08-06 15:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美經濟學家：中國恢復採購美國大豆是一個“令人鼓舞”的訊號】據美國農業新聞網站“Brownfield Ag News”8月5日報道，隨著新一年度大豆銷售季臨近，中國持續採購美國大豆，引發市場關注。美國密蘇里大學推廣中心農業經濟學家本·布朗（Ben Brown）表示，中國恢復採購是一個“令人鼓舞”的訊號。 布朗同時表示，從歷史情況來看，中國通常會在這一時間段開始採購美國新季大豆，因此當前的購買行為符合季節規律，“並不算異常”。 “他們現在正在採購，這是一個好跡象。”（觀察者網）"
+    },
+    {
+      "id": "te:markets:573301",
+      "time": "2026-08-06 15:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.71% Higher — The CAC 40 Index is gaining 62 points or 0.71 percent on Thursday. Leading the gains are Hermes International (3.72%), Publicis (3.23%) and Kering (2.51%). Top losers are Schneider Electric (-1.18%), STMicroelectronics (-0.91%) and TP (-0.54%)."
+    },
+    {
+      "id": "mkt:019fd5fa-be74-7aab-8f9c-6e918dec38ca",
+      "time": "2026-08-06 15:30:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany July construction PMI 42.1, prior 44.8."
+    },
+    {
+      "id": "mkt:019fd5fa-a1ff-7aab-8f9c-672a18485da6",
+      "time": "2026-08-06 15:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Construction PMI (Jul) | actual 42.1 | previous 44.8"
+    },
+    {
+      "id": "mkt:019fd5fa-9b53-7aab-8f9c-5830f302872b",
+      "time": "2026-08-06 15:29:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine's Black Sea counterstrike against Russia succeeded, striking two military patrol boats and shadow-fleet vessels."
+    },
+    {
+      "id": "mkt:019fd5fa-0858-7aab-8f9c-55c8db1db751",
+      "time": "2026-08-06 15:29:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine attacked two Russian refineries."
+    },
+    {
+      "id": "5028209",
+      "time": "2026-08-06 15:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭報道：在洛佐瓦，一枚導彈擊中了鐵路站附近的一節火車車廂，已導致2人死亡，3人受傷。"
+    },
     {
       "id": "5028208",
       "time": "2026-08-06 15:27:52",
@@ -157713,147 +157814,6 @@
         "國際"
       ],
       "text": "【外交部：中國始終踐行自衛防禦核戰略 不參加任何形式核軍備競賽】7月30日，外交部發言人毛寧主持例行記者會。有記者提問：今年是《全面禁止核試驗條約》達成30週年，昨天是中國宣佈暫停核試驗30週年。30年來，中國始終恪守暫停核試驗承諾，禁止核試驗已經成為國際共識。中方對此有何評論？\n\n毛寧表示，30年前，中國政府鄭重向全世界宣佈暫停核試驗，既響應了廣大無核武器國家要求，也為最終達成《全面禁止核試驗條約》做出歷史性貢獻，有力推動了國際核軍控程序。\n\n30年來，中國始終恪守“暫停核試驗”承諾，積極支援國際禁核試努力。作為首批簽署《全面禁止核試驗條約》的國家之一，中國堅定支援條約宗旨和目標，支援條約早日生效，支援發展中國家能力建設，積極推進國內履約籌備工作，為維護條約普遍性、權威性作出重要貢獻。\n\n中國始終踐行自衛防禦核戰略，將核力量維持在國家安全需要的最低水平，不參加任何形式的核軍備競賽。中國核力量是懾止核戰爭、維護世界和平安全與全球戰略穩定不可或缺的力量。（央視新聞）"
-    },
-    {
-      "id": "te:markets:571102",
-      "time": "2026-07-30 15:32:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Falls on Earnings, Fed Split, and Middle East Tensions — Frankfurt's DAX 40 declined 0.5% to 25,350 on Thursday as investors assessed a wave of corporate earnings, fresh economic data, escalating tensions in the Middle East, and growing uncertainty over the US interest rate outlook following a divided Federal Reserve decision. Adidas led losses, plunging 16% after the sportswear maker raised its revenue guidance but warned that higher costs would continue to weigh on earnings growth. Airbus also fell more than 2%, despite reporting strong second-quarter results, after the aircraft manufacturer merely reaffirmed its full-year targets. Meanwhile, renewed US airstrikes on Iran in response to attacks on American forces across the Middle East lifted oil prices and weighed on market sentiment. On Wednesday, the Federal Reserve kept interest rates unchanged, though three FOMC members dissented in favor of a rate hike, adding to policy uncertainty."
-    },
-    {
-      "id": "te:markets:571100",
-      "time": "2026-07-30 15:32:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.14% Higher — The FTSE 100 Index is picking up 15 points or 0.14 percent on Thursday. Gains are led by Rolls-Royce (3.87%), Rio Tinto (2.21%) and Investec (1.91%). Biggest losers are Rentokil Initial (-15.52%), The Sage Group (-3.46%) and London Stock Exchange (-2.74%)."
-    },
-    {
-      "id": "5016145",
-      "time": "2026-07-30 15:31:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【儘管中東敵對行動持續 霍爾木茲海峽的航運量仍在增加】儘管中東地區的敵對行動仍在持續，但近日穿越至關重要的霍爾木茲海峽的航運活動有所增加，美國聲稱其海軍護送了部分油輪透過該水道。根據船舶追蹤資料，週四早些時候，滿載來自卡達液化天然氣的Al Areesh號公開駛離波斯灣，這是該國三週以來的首批貨運；與此同時，液化石油氣運輸船CYH Yongchun號似乎在應答機關閉的狀態下透過了該海峽。市場情報公司Kpler的資料顯示，週三共有14艘大宗商品船隻雙向穿越霍爾木茲海峽，高於上週的個位數。隨著新資訊的出現，這些資料仍可能進行修訂。"
-    },
-    {
-      "id": "te:markets:571097",
-      "time": "2026-07-30 15:31:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.36% Lower — The DAX Index is falling 90 points. Losses were driven by Adidas (-16.65%), Airbus (-1.86%) and HeidelbergCement (-1.60%). Biggest rises came from Symrise (5.30%), MTU Aero Engines AG (2.22%) and Brenntag (2.11%)."
-    },
-    {
-      "id": "mkt:019fb1ef-36fb-7aab-8f08-53f4c1b5de4b",
-      "time": "2026-07-30 15:31:12",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【Tesla's 10 millionth electric vehicle rolls off the line】July 30 — Tesla said its 10 millionth global electric vehicle rolled off the line. Tesla's China account posted a poster calling the company the world's first pure-electric automaker to surpass 10 million units produced."
-    },
-    {
-      "id": "mkt:019fb1ef-0daf-7aab-8f08-482b33295c38",
-      "time": "2026-07-30 15:31:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "Tesla said its 10 millionth electric vehicle rolled off production lines worldwide."
-    },
-    {
-      "id": "mkt:019fb1ee-ee9f-7aab-8f08-434916eea231",
-      "time": "2026-07-30 15:30:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed up 0.06% at 879.67 yuan/gram on July 30 (Thursday). Shanghai Gold Exchange Silver T+D closed down 0.67% at 13,990 yuan/kg."
-    },
-    {
-      "id": "5016144",
-      "time": "2026-07-30 15:30:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“Tiiny AI”完成數千萬美元天使輪系列融資】7月30日，據BV百度風投訊息，Personal Agent OS公司“Tiiny AI”完成數千萬美元天使輪系列融資，本輪融資由順為資本、經緯創投、錦秋基金、雲啟資本、戈壁—阿里巴巴香港創業者基金、BV百度風投、光源L2F基金聯合參與。本輪融資後，Tiiny將加速Tiiny AI Pocket全球交付和TiinyOS多終端落地。"
-    },
-    {
-      "id": "5016143",
-      "time": "2026-07-30 15:30:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【紐西蘭外長要求一名華裔議員“滾回自己國家”，外交部回應：新方總理已提出批評】外交部發言人毛寧主持7月30日例行記者會。會上有記者就紐西蘭外交部長溫斯頓·彼得斯要求一名華裔議員“滾回自己的國家去”事件提問，稱中國駐紐西蘭使館也已作出回應。毛寧表示，首先紐西蘭的議會辯論是新方內政，中方不做評論。我們注意到包括拉克森總理在內的紐西蘭各界人士已經對有關人士的言論提出批評。中方一貫主張尊重各國人民自主選擇的發展道路和制度模式，反對一切形式的歧視和偏見，希望新方有關人士多做有利於促進兩國友好的事情，不要在國內政治上拿中國說事。（環球網）"
-    },
-    {
-      "id": "te:markets:571095",
-      "time": "2026-07-30 15:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.64% Higher — The CAC 40 Index is gaining 54 points or 0.64 percent on Thursday. Leading the gains are Bouygues (6.89%), Schneider Electric (5.44%) and Vinci (4.52%). Top losers are Stellantis NV (-4.15%), Bureau Veritas (-3.14%) and Renault (-2.90%)."
-    },
-    {
-      "id": "5016142",
-      "time": "2026-07-30 15:29:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家媒體報道，在美國近期發動襲擊後，伊朗伊斯蘭革命衛隊稱“今日就將懲罰侵略者”。"
-    },
-    {
-      "id": "mkt:019fb1ed-518a-7aab-8f08-3f1910a8eeab",
-      "time": "2026-07-30 15:29:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Chinese defense ministry says Japan's Okinotorishima island claim untenable】July 30 — China's Defense Ministry said at a routine briefing that Sino-Russian joint patrols occurred on the high seas, not within any Japanese exclusive economic zone (EEZ). Spokesman Senior Colonel Jiang Bin said Okinotorishima reef measures under 10 sq m, is only exposed after artificial reinforcement and cannot sustain human habitation, so it does not meet UNCLOS's definition of an island. Beijing called Japan's use of the designation to assert EEZ and continental-shelf rights untenable, said the China-Russia actions complied with international law and practice, and said Japan had no basis to object."
-    },
-    {
-      "id": "mkt:019fb1ed-2413-7aab-8f08-35c8c88368b9",
-      "time": "2026-07-30 15:28:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps warns aggressors will be punished today."
     }
   ]
 }
