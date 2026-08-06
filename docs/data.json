@@ -1,7 +1,254 @@
 {
-  "updated": "2026-08-06 09:19:14",
-  "count": 17403,
+  "updated": "2026-08-06 09:27:14",
+  "count": 17395,
   "items": [
+    {
+      "id": "5027749",
+      "time": "2026-08-06 09:26:31",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "貴金屬板塊逆勢大漲，曉程科技漲近10%，四川黃金、招金黃金、赤峰黃金、山金國際、中金黃金等紛紛高開。"
+    },
+    {
+      "id": "5027748",
+      "time": "2026-08-06 09:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽：要深化人工智慧賦能汽車產業全鏈條 加強關鍵核心技術攻關】8月5日下午，安徽省省長王清憲主持召開省政府第110次常務會議，會議強調，要堅持科技打頭陣、下好創新先手棋，準確把握“十五五”科技創新工作的總體要求、戰略任務和重點舉措，以共建上海（長三角）國際科技創新中心為引領，提升創新策源、基礎研究、引領支撐、人才集聚等能力，加快打造具有重要影響力的科技創新策源地。要推動科技創新和產業創新深度融合，構建企業主導、各主體協同的產學研融通創新體系，打通科技加速向現實生產力轉化的通道。會議強調，“十五五”時期，要堅持創新為強、以強促大，鞏固擴大安徽汽車產業發展優勢，推動產業從“規模領先”向“價值領先”躍升。要深化人工智慧賦能汽車產業全鏈條，加強關鍵核心技術攻關，推動標誌性、引領性技術產品率先量產。要堅持研發、整車、零部件、後市場一體化升級，加快研發全域協同、製造柔性低碳、供應鏈網路化重構，強化整零協同，塑造“靠得住的先進”集體品牌形象。"
+    },
+    {
+      "id": "te:markets:573171",
+      "time": "2026-08-06 09:26:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Hits 42-week High — The South Korean Won touched 1416.00 against the USD, the highest since October 2025. Over the past 4 weeks, US Dollar South Korean Won lost 6.48%, and in the last 12 months, it increased 2.35%."
+    },
+    {
+      "id": "5027747",
+      "time": "2026-08-06 09:26:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI表示，其開發的智慧體在Hugging Face之前先攻破了自身系統。"
+    },
+    {
+      "id": "5027746",
+      "time": "2026-08-06 09:26:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報80.25美元/桶。"
+    },
+    {
+      "id": "5027745",
+      "time": "2026-08-06 09:25:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股黃金股走強 赤峰黃金漲超9%】截至發稿，赤峰黃金(06693.HK)漲9.08%，靈寶黃金(03330.HK)漲8.26%，山東黃金(01787.HK)漲7.83%，紫金黃金國際(02259.HK)漲7.75%。"
+    },
+    {
+      "id": "5027744",
+      "time": "2026-08-06 09:25:44",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.36％，深成指跌1.15％，創業板跌1.78％。"
+    },
+    {
+      "id": "mkt:019fd4ac-ff36-7aab-8f97-5da34353b5fa",
+      "time": "2026-08-06 09:25:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open on China's A-share market, the Shanghai Composite was down 0.36%, the Shenzhen Composite down 1.15% and the ChiNext Index down 1.78%. Storage chip, lithography machine and CPO sectors led declines."
+    },
+    {
+      "id": "5027743",
+      "time": "2026-08-06 09:24:09",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國綜指跌幅擴大至5%】韓國綜指跌幅擴大至5%，現報6268.64點。個股方面，SK海力士跌超9%，三星電子跌超6%。"
+    },
+    {
+      "id": "mkt:019fd4ab-af80-7aab-8f97-50749cdf1031",
+      "time": "2026-08-06 09:24:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index fell 5.00% intraday to 6,265.99 points."
+    },
+    {
+      "id": "5027742",
+      "time": "2026-08-06 09:24:01",
+      "tags": [
+        "央行",
+        "國際",
+        "原創"
+      ],
+      "text": "【知情人士：沃什擔任美聯儲主席後 特朗普曾多次與其通話】據知情人士透露，自凱文·沃什出任美聯儲主席以來，美國總統特朗普曾與其多次通話。知情人士透露，特朗普與沃什的通話並不固定，有時會在數天內多次通話，隨後又會沉寂較長一段時間。部分知情人士表示，特朗普曾就一系列問題徵求沃什意見，包括伊朗衝突以及AI的迅速發展對美國經濟的影響。目前尚不清楚特朗普與沃什是否討論過貨幣政策。一位瞭解談話內容的人士堅稱，自沃什獲得參議院確認以來，特朗普沒有提及利率問題。白宮表示，特朗普認為美聯儲應保持獨立運作。白宮發言人Kush Desai在宣告中表示，“特朗普總統一再強調，他給予沃什恢復市場對美聯儲決策信心和專業能力所需的空間。”"
+    },
+    {
+      "id": "5027741",
+      "time": "2026-08-06 09:22:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅擴大，現跌1.9%至65070.25點。"
+    },
+    {
+      "id": "te:economy:573170",
+      "time": "2026-08-06 09:22:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Philippine Industrial Output Growth Strongest Since 2022 — Manufacturing production in the Philippines climbed by 13.5% year-on-year in June 2026, marking the fastest rise since October 2022 and accelerating from a downwardly revised 12.5% increase in the previous month. The stronger expansion was mainly driven by a faster increase in the manufacture of coke and refined petroleum products (89.0% vs. 78.5% in May), which accounted for nearly 30% of the overall improvement in manufacturing output. Growth also accelerated in the manufacture of food products (5.7% vs. 1.6%) and transport equipment (7.7% vs. 1.9%). Additionally, output remained strong in computer, electronic and optical products (22.0% vs 24.8%) and basic metals (19.3% vs 28.4%). Meanwhile, fabricated metal products (-26.7% vs -21.4%), machinery and equipment (-16.1% vs -22.1%), and chemicals and chemical products (-13.8% vs -18.6%) were among the weakest performers. For the January-June period, industrial output grew by 8.2%, compared with the corresponding period a year ago."
+    },
+    {
+      "id": "mkt:019fd4a9-fd63-7aab-8f97-4fda18a75e53",
+      "time": "2026-08-06 09:22:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "Hong Kong stocks opened lower on Aug 6: HSI down 248.68 pts (-0.96%) at 25,667.14; Hang Seng TECH Index down 48.99 pts (-0.99%) at 4,884.08; Hang Seng China Enterprises Index (HSCEI) down 48.10 pts (-0.56%) at 8,555.63; Red Chip Index down 10.91 pts (-0.26%) at 4,147.24."
+    },
+    {
+      "id": "5027740",
+      "time": "2026-08-06 09:22:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠2,695.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fd4a9-d340-7aab-8f97-405d2025a1f8",
+      "time": "2026-08-06 09:22:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "03986.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong stocks opened lower: the Hang Seng Index fell 0.96% and the Hang Seng Tech Index was down 0.99%. Semiconductor names led losses — 03986.HK fell more than 5%, 01347.HK fell over 3% and 00981.HK fell more than 2%."
+    },
+    {
+      "id": "5027739",
+      "time": "2026-08-06 09:21:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬來亞銀行加入新加坡金融管理局跨境結算計劃。"
+    },
+    {
+      "id": "5027738",
+      "time": "2026-08-06 09:21:33",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.96％，國企指數跌0.56％，恒生科技指數跌0.99%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608063833411479",
+      "time": "2026-08-06 09:21:27",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行公開市場今日淨回籠2695億元】央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。因今日有2705億元7天期逆回購到期，當日實現淨回籠2695億元。"
+    },
+    {
+      "id": "mkt:019fd4a8-bc5f-7aab-8f97-38d8a499bdbb",
+      "time": "2026-08-06 09:20:55",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo today: bids 10 bln yuan, allotment 10 bln yuan, rate 1.40%, unchanged from the prior operation."
+    },
+    {
+      "id": "5027737",
+      "time": "2026-08-06 09:20:54",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5027736",
+      "time": "2026-08-06 09:20:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【古井貢古20與青花郎領跌十款單品下挫 白酒總價創19天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月6日繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9825元，較昨日明顯下跌22元，連續三日大幅回落，較8月3日階段高點累計下跌76元，創下19天以來最低。今日除習酒君品上漲外，其餘十款單品全線下挫。酒市終端交投情緒進一步轉弱，空方牢牢佔據上風，低位修復行情尚需時日。\n\n今日11大白酒單品一漲十跌，輸家佔據絕對優勢。上漲方面，習酒君品上漲7元/瓶，昨日技術性重挫10元后明顯反彈。下跌方面，古井貢古20與青花郎並列領跌，均下跌5元/瓶。其中，前者重新整理今年2月2日以來最低價紀錄，近一個月其價格中樞持續下移；後者遭遇兩連跌，跌破700元大關後繼續下探。五糧液普五八代、五糧液1618、青花汾20與國窖1573均下跌3元/瓶。其中，普五八代連續三日下跌，價格退守780元一線；五糧液1618結束連續兩日平盤；青花汾20昨日企穩後再度走低，平近一個月最低價紀錄；國窖1573昨日微漲後轉跌，近期低位震盪特徵延續。飛天茅臺、精品茅臺與洋河夢之藍M6+均下跌2元/瓶，其中飛天茅臺連續兩日走低，仍處於7.18提價後的高位整理階段；精品茅臺四連陰，重新整理近一個月最低價紀錄；夢之藍M6+錄得三連陰，近一個月寬幅震盪格局未改。水晶劍南春微跌1元/瓶，昨日微幅回彈後再平近一個月最低價。"
+    },
+    {
+      "id": "5027735",
+      "time": "2026-08-06 09:20:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.1%至271.10點。"
+    },
+    {
+      "id": "5027734",
+      "time": "2026-08-06 09:19:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌1%至44,160.70點。"
+    },
+    {
+      "id": "5027733",
+      "time": "2026-08-06 09:18:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
+    },
+    {
+      "id": "mkt:019fd4a6-c066-7aab-8f97-3273644364d4",
+      "time": "2026-08-06 09:18:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated the KOSPI sidecar mechanism."
+    },
     {
       "id": "mkt:019fd4a6-4642-7aab-8f97-2dae719ccdd6",
       "time": "2026-08-06 09:18:14",
@@ -159896,315 +160143,6 @@
         "XAUUSD"
       ],
       "text": "TASNIM NEWS said US forces struck Iran's southwestern Fars province and Kish Island in the Gulf. Two loud blasts were heard on Kish after the missile attack; the report said the island's airport and passenger ferry services were not affected."
-    },
-    {
-      "id": "5015582",
-      "time": "2026-07-30 09:26:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星SDS第二季營業利潤為2,318億韓元，同比增長0.7%。"
-    },
-    {
-      "id": "5015581",
-      "time": "2026-07-30 09:26:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗西南部城市阿瓦士發生爆炸。"
-    },
-    {
-      "id": "mkt:019fb0a1-2074-7aab-8efd-f31716ded640",
-      "time": "2026-07-30 09:26:17",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics said its display unit aims to remain profitable in H2."
-    },
-    {
-      "id": "5015580",
-      "time": "2026-07-30 09:26:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：顯示業務目標在下半年維持盈利。"
-    },
-    {
-      "id": "5015579",
-      "time": "2026-07-30 09:25:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國因個人資料洩露對KT處以540億韓元罰款。"
-    },
-    {
-      "id": "te:economy:570937",
-      "time": "2026-07-30 09:25:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Business Confidence",
-        "Importance 2"
-      ],
-      "text": "New Zealand Business Sentiment Jumps to 5-Month High — New Zealand’s ANZ Business Outlook Index surged to 56.1 in July 2026 from 36.6 in the previous month, marking the strongest reading since February. Firms’ own activity outlook strengthened markedly (49.3 vs 36.9 in June), while assessments of past activity edged higher (9.7 vs 9.0), supported by easing oil prices as tensions in the Middle East continued to subside. Forward-looking indicators rose, with stronger export intentions (26.6 vs 18.1), profit expectations (28.7 vs 13.0), investment intentions (22.8 vs 16.5), and employment intentions (18.1 vs 9.4). At the same time, pricing intentions (47.2 vs 50.7), cost expectations (78.2 vs 84.7), and inflation expectations (3.14% vs 3.36%) all moderated, while wage growth expectations were broadly steady (2.52% vs 2.53%). Further, credit availability turned positive (1.4 vs -1.9). Sectoral sentiment strengthened notably in construction, with confidence rising in both residential (42.5 vs 25.0) and commercial construction (48.9 vs 28.9)."
-    },
-    {
-      "id": "mkt:019fb0a0-682f-7aab-8efd-eda1640dbf18",
-      "time": "2026-07-30 09:25:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "A-shares open: Shanghai Composite down 0.43%, Shenzhen Composite Index down 0.93%, ChiNext down 1.4%."
-    },
-    {
-      "id": "5015578",
-      "time": "2026-07-30 09:25:12",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指低開，滬指跌0.43％，深成指跌0.93％，創業板跌1.4％。"
-    },
-    {
-      "id": "5015577",
-      "time": "2026-07-30 09:25:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本縣發生4.2級地震】據日本氣象廳訊息，日本當地時間30日9時56分左右，日本熊本縣天草及蘆北地區發生4.2級地震，最大震感為震度3，震源深度10公里。（央視新聞）"
-    },
-    {
-      "id": "5015576",
-      "time": "2026-07-30 09:24:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星預計下半年整體消費市場需求將有所放緩。"
-    },
-    {
-      "id": "5015575",
-      "time": "2026-07-30 09:24:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江特電機成立智慧技術公司，含物聯網相關業務】企查查APP顯示，近日，尉爾（成都）智慧技術有限公司成立，經營範圍包含：電力電子元器件銷售；物聯網技術研發；工業網際網路資料服務；智慧基礎製造裝備銷售等。企查查股權穿透顯示，該公司由江特電機全資持股。"
-    },
-    {
-      "id": "mkt:019fb09f-4aa9-7aab-8efd-e06d8638b68f",
-      "time": "2026-07-30 09:24:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics said it has secured foundry orders for its 2nm process from a cloud service provider."
-    },
-    {
-      "id": "5015574",
-      "time": "2026-07-30 09:24:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：代工業務已獲得雲服務供應商的2奈米工藝訂單。"
-    },
-    {
-      "id": "5015573",
-      "time": "2026-07-30 09:23:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股人工智慧相關個股走強 明略科技漲近9%】截至發稿，明略科技(02718.HK)漲8.70%，德適-B(02526.HK)漲3.52%，智譜(02513.HK)漲1.45%。"
-    },
-    {
-      "id": "5015572",
-      "time": "2026-07-30 09:23:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "兆易創新：董事長此前於5月、6月合計減持股份，佔公司總股本的1.58%。"
-    },
-    {
-      "id": "5015571",
-      "time": "2026-07-30 09:23:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "兆易創新：董事長基於對未來前景的信心，計劃增持A股股份。"
-    },
-    {
-      "id": "5015570",
-      "time": "2026-07-30 09:22:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放665.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019fb09d-9476-7aab-8efd-dcf75f0e1c8b",
-      "time": "2026-07-30 09:22:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted CNY 270.5 bln of 7-day reverse repos today; bids and allotment both CNY 270.5 bln at a 1.40% rate. It also conducted CNY 600 bln of overnight reverse repos."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607303825997061",
-      "time": "2026-07-30 09:22:17",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "中國人民銀行以固定利率、數量招標方式開展了2705億元7天期逆回購操作，全額滿足了一級交易商需求。同時，開展了6000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5015569",
-      "time": "2026-07-30 09:22:01",
-      "tags": [],
-      "text": "港股中際旭創（HK3308）上市首日開盤破發跌0.92％，現報971.00元，該股發行價為980.00元。"
-    },
-    {
-      "id": "5015568",
-      "time": "2026-07-30 09:21:51",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "央行公告稱，開展2705億元人民幣7天期逆回購操作，利率1.40%，持平上次。"
-    },
-    {
-      "id": "5015567",
-      "time": "2026-07-30 09:21:49",
-      "tags": [],
-      "text": "港股恒指高開漲0.26％，國企指數漲0.59％，科指開漲0.43%。"
-    },
-    {
-      "id": "mkt:019fb09c-e48c-7aab-8efd-d1746bdc7fe8",
-      "time": "2026-07-30 09:21:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "HSI",
-        "Impact bullish",
-        "09901.HK",
-        "03308.HK",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks opened higher: Hang Seng Index up 0.26%, Hang Seng TECH Index up 0.43%. New Oriental (09901.HK) jumped 14.5%, JD Logistics (02618.HK) rose 2.5%, Zhongji Xuchuang (03308.HK) slipped 0.92% on its first trading day."
-    },
-    {
-      "id": "5015566",
-      "time": "2026-07-30 09:21:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "中際旭創在港交所上市首日，開盤報每股971港元，較980港元的發售價低0.9%。"
-    },
-    {
-      "id": "mkt:019fb09c-7f08-7aab-8efd-cf9b2a27c737",
-      "time": "2026-07-30 09:21:13",
-      "tags": [
-        "MKT News",
-        "HSI",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong open, July 30: HSI +67.91 pts (+0.26%) at 25,875.83; Hang Seng Tech Index +21.03 pts (+0.43%) at 4,885.76; HSCEI +50.67 pts (+0.59%) at 8,674.19; Red Chip Index +11.20 pts (+0.26%) at 4,241.61."
-    },
-    {
-      "id": "5015565",
-      "time": "2026-07-30 09:21:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG新能源預計第三季度儲能電池產量增長50%。"
-    },
-    {
-      "id": "mkt:019fb09c-72f6-7aab-8efd-c6bd4e0015a5",
-      "time": "2026-07-30 09:21:10",
-      "tags": [
-        "MKT News",
-        "005930.KS"
-      ],
-      "text": "Samsung Electronics said Q3 DRAM bit growth versus Q2 will be in the mid-single-digit range."
-    },
-    {
-      "id": "5015564",
-      "time": "2026-07-30 09:20:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歐菲光等成立半導體科技新公司】企查查APP顯示，近日，芯光聯（深圳）半導體科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路銷售；半導體分立器件製造；半導體分立器件銷售等。企查查股權穿透顯示，該公司由歐菲光等共同持股。"
-    },
-    {
-      "id": "5015563",
-      "time": "2026-07-30 09:20:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：第三季度DRAM位元增長較第二季度將處於個位數中低區間。"
-    },
-    {
-      "id": "5015562",
-      "time": "2026-07-30 09:19:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG新能源：第三季度營收預計較上一季度至少增長20%。"
-    },
-    {
-      "id": "5015561",
-      "time": "2026-07-30 09:19:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲5%，現報5131.00元。"
-    },
-    {
-      "id": "mkt:019fb09b-2c92-7aab-8efd-b9e1248dbb31",
-      "time": "2026-07-30 09:19:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Samsung Electronics said the supply-demand gap will widen next year."
-    },
-    {
-      "id": "te:economy:570933",
-      "time": "2026-07-30 09:19:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "Philippines Imports Growth at 3-Month Low — The Philippines’ trade deficit widened to USD 4.9 billion in June 2026 from USD 4.4 billion in the same month a year earlier. Imports rose 19.6% year-on-year to USD 13.7 billion, driven by increased purchases of electronic products (+82.9%), mainly semiconductors (+105.4%), amid growing global AI demand. Imports also grew for mineral fuels (+6.3%), industrial machinery and equipment (+1.3%), and cereals (+48.1%). China accounted for the largest share of imports (31.7%), followed by South Korea (13.0%), Japan (6.7%), and Indonesia (6.7%). Meanwhile, exports rose 24.1% to USD 8.8 billion, led by electronic products (+35.2%), primarily semiconductors (+33.4%). Exports also increased for machinery and transport equipment (+28.6%), gold (+43.8%), and other manufactured goods (+9.8%). The US remained the top export market, accounting for 20.1% of total exports, followed by Hong Kong (15.3%), China (11.4%), and Japan (11.3%). In H1 2026, the trade gap stood at USD 30.8 billion."
-    },
-    {
-      "id": "mkt:019fb09b-071b-7aab-8efd-b39fdc659594",
-      "time": "2026-07-30 09:19:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics said its memory business expects server demand to accelerate this year."
     }
   ]
 }
