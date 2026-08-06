@@ -1,7 +1,63 @@
 {
   "date": "2026-08-06",
-  "count": 2159,
+  "count": 2164,
   "items": [
+    {
+      "id": "mkt:019fd6ec-75dc-7aab-8fa1-110e40f19b2c",
+      "time": "2026-08-06 19:54:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "002456.SZ",
+        "Impact bullish"
+      ],
+      "text": "【O-Film takes 51% of Hefei Zhongke Daojing, expands into glass-based advanced packaging】O-Film said it acquired 51% of Hefei Zhongke Daojing Technology via purchase of existing shares plus a capital injection, becoming the company’s controlling shareholder. The move follows O-Film’s June setup of a machine-vision unit, July launch of a micro‑nano devices arm and a prior stake in Xinguanglian, marking another strategic push into the optical-communications supply chain. Founded in 2023 and spun out of the Chinese Academy of Sciences Institute of Intelligent Machines’ microsystems lab, Zhongke Daojing’s core team includes CAS postdocs and senior researchers and draws on nearly a decade of R&D in glass-based advanced packaging, covering core process development, process optimization and transfer to mass production."
+    },
+    {
+      "id": "mkt:019fd6eb-c357-7aab-8fa1-0e919d12995c",
+      "time": "2026-08-06 19:53:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "US Treasuries fell after British media reported that, if inflation proves strong, Fed chair Kevin Warsh may be prepared to hike rates in September. Alphabet (GOOG.O) launched a $10bn investment-grade dollar bond offering."
+    },
+    {
+      "id": "5028864",
+      "time": "2026-08-06 19:52:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST交昂：股票交易異常波動 不存在應披露未披露重大事項】ST交昂公告稱，公司股票於2026年8月4日、8月5日、8月6日連續三個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動情形。經核查，公司目前生產經營正常，不存在應披露而未披露的重大事項，未發現對股價有較大影響的媒體報道、市場傳聞等資訊。公司股票於2026年8月4日被實施其他風險警示，但未觸及重大違法類強制退市情形。提醒投資者注意交易風險。"
+    },
+    {
+      "id": "5028863",
+      "time": "2026-08-06 19:51:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理博洛揚表示，根據核反應堆可執行時長的預估，未來5至7天內工業使用者不會受到潛在限電的影響。"
+    },
+    {
+      "id": "5028862",
+      "time": "2026-08-06 19:51:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "受美聯儲主席沃什相關報道影響美債收益率上行。"
+    },
     {
       "id": "5028861",
       "time": "2026-08-06 19:49:55",

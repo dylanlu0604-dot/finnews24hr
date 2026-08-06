@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-06 19:51:21",
-  "count": 16934,
+  "updated": "2026-08-06 19:55:20",
+  "count": 16933,
   "items": [
+    {
+      "id": "mkt:019fd6ec-75dc-7aab-8fa1-110e40f19b2c",
+      "time": "2026-08-06 19:54:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "002456.SZ",
+        "Impact bullish"
+      ],
+      "text": "【O-Film takes 51% of Hefei Zhongke Daojing, expands into glass-based advanced packaging】O-Film said it acquired 51% of Hefei Zhongke Daojing Technology via purchase of existing shares plus a capital injection, becoming the company’s controlling shareholder. The move follows O-Film’s June setup of a machine-vision unit, July launch of a micro‑nano devices arm and a prior stake in Xinguanglian, marking another strategic push into the optical-communications supply chain. Founded in 2023 and spun out of the Chinese Academy of Sciences Institute of Intelligent Machines’ microsystems lab, Zhongke Daojing’s core team includes CAS postdocs and senior researchers and draws on nearly a decade of R&D in glass-based advanced packaging, covering core process development, process optimization and transfer to mass production."
+    },
+    {
+      "id": "mkt:019fd6eb-c357-7aab-8fa1-0e919d12995c",
+      "time": "2026-08-06 19:53:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "GOOG.O"
+      ],
+      "text": "US Treasuries fell after British media reported that, if inflation proves strong, Fed chair Kevin Warsh may be prepared to hike rates in September. Alphabet (GOOG.O) launched a $10bn investment-grade dollar bond offering."
+    },
+    {
+      "id": "5028864",
+      "time": "2026-08-06 19:52:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST交昂：股票交易異常波動 不存在應披露未披露重大事項】ST交昂公告稱，公司股票於2026年8月4日、8月5日、8月6日連續三個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動情形。經核查，公司目前生產經營正常，不存在應披露而未披露的重大事項，未發現對股價有較大影響的媒體報道、市場傳聞等資訊。公司股票於2026年8月4日被實施其他風險警示，但未觸及重大違法類強制退市情形。提醒投資者注意交易風險。"
+    },
+    {
+      "id": "5028863",
+      "time": "2026-08-06 19:51:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞總理博洛揚表示，根據核反應堆可執行時長的預估，未來5至7天內工業使用者不會受到潛在限電的影響。"
+    },
+    {
+      "id": "5028862",
+      "time": "2026-08-06 19:51:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "受美聯儲主席沃什相關報道影響美債收益率上行。"
+    },
     {
       "id": "5028861",
       "time": "2026-08-06 19:49:55",
@@ -155433,72 +155489,6 @@
         "市場"
       ],
       "text": "微軟美股盤前漲超10%。微軟第四財季Azure雲業務同比增長43%，遠超預期，AI變現進入加速軌道。"
-    },
-    {
-      "id": "mkt:019fb2e0-169c-7aab-8f10-6de746167508",
-      "time": "2026-07-30 19:54:17",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "【Sterling pares gains after Bank of England decision】The Bank of England held Bank Rate at 3.75% as expected; the vote was 6-3 with three members preferring a 25bp hike. Governor Bailey said the pre-existing disinflation trend that existed before the Middle East conflict remains in place, adding: \"This offers some initial evidence that inflation inertia may be weaker than previously expected.\" GBP/USD 1.3381, below 1.3392 before the decision."
-    },
-    {
-      "id": "mkt:019fb2de-d2c9-7aab-8f10-67e747124369",
-      "time": "2026-07-30 19:52:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "MU.O",
-        "Impact bullish",
-        "SKHY.O",
-        "SNDK.O"
-      ],
-      "text": "US memory stocks rose in pre-market trade: Micron Technology (MU.O) up 3.6%, SK Hynix (SKHY.O) up 3.3% and SanDisk (SNDK.O) up 6%."
-    },
-    {
-      "id": "te:markets:571237",
-      "time": "2026-07-30 19:52:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Extends Losses — The dollar index fell below 100.8 on Thursday, extending the previous session's 0.6% decline to its lowest level in about two weeks, as investors continued to assess the latest FOMC decision and Fed Chair Warsh's press conference. As expected, the Fed left the federal funds rate unchanged, although three FOMC members voted in favor of a rate hike. While Chair Warsh reiterated the Fed's commitment to bringing inflation under control and stressed that policymakers would not hesitate to act if necessary, he was not among those advocating an immediate increase and refrained from providing clear forward guidance. As a result, investors increasingly viewed the central bank as merely postponing what they see as an inevitable rate hike. The implied probability of a 25bps increase in September has fallen to around 63%, down from nearly 80% before the Fed's decision. However, additional US strikes against Iran helped limit the dollar's losses by boosting demand for safe-haven assets."
-    },
-    {
-      "id": "5016943",
-      "time": "2026-07-30 19:52:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東路橋：2026年二季度新簽單303.50億元 披露重大專案進展】山東路橋公告稱，2026年第二季度新簽訂單256個，總金額303.50億元；截至二季度末累計已簽約訂單未完工部分金額1245.96億元，累計已中標尚未簽約合同訂單金額308.98億元。同時披露了截至2026年二季度末未交工重大專案進展情況，這些專案合同對手方履約能力及結算回款正常，無重大風險。提醒投資者注意資料差異及專案履約不確定因素風險。"
-    },
-    {
-      "id": "5016942",
-      "time": "2026-07-30 19:51:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "與談判的訊息人士透露：哈馬斯解除武裝協議 “看起來具備很高可行性，哈馬斯實際上同意全面解除武裝”。"
-    },
-    {
-      "id": "mkt:019fb2dd-da5d-7aab-8f10-5da764ab1393",
-      "time": "2026-07-30 19:51:51",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "Brent",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "【Economist says BoE hold pragmatic but UK rate path undecided】Suren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales, said the Bank of England’s decision to hold rates was a pragmatic response after inflation undershot forecasts and renewed US‑Iran tensions threatened fresh price upside. He noted a 6-3 MPC split was narrower than expected and that inflation concerns currently outweigh growth worries, keeping a September rate hike live. Thiru said the rate path remains undecided; policy could stay on hold for the rest of the year with policymakers relying on hawkish rhetoric rather than additional hikes. He warned the longer the Iran conflict continues, the greater the risk the committee will lose patience."
     }
   ]
 }
