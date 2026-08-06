@@ -1,7 +1,157 @@
 {
-  "updated": "2026-08-06 22:00:47",
-  "count": 16727,
+  "updated": "2026-08-06 22:04:57",
+  "count": 16730,
   "items": [
+    {
+      "id": "mkt:019fd763-a4ff-7aab-8fa2-f9aa71ca0c6c",
+      "time": "2026-08-06 22:04:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tesla (TSLA.O): TeraFab aims to produce more than 1 terawatt of compute capacity per year."
+    },
+    {
+      "id": "5029136",
+      "time": "2026-08-06 22:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "得州州長：TeraFab一期資本開支達 168 億美元。"
+    },
+    {
+      "id": "mkt:019fd762-79f0-7aab-8fa2-f697f74ac235",
+      "time": "2026-08-06 22:03:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) said TeraFab will build in Grimes County, Texas. It said chip demand from Tesla and SpaceX will far exceed current and projected global production capacity."
+    },
+    {
+      "id": "5029135",
+      "time": "2026-08-06 22:02:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：特斯拉大工廠目標為每年產出超1太瓦計算算力。"
+    },
+    {
+      "id": "5029134",
+      "time": "2026-08-06 22:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：索羅門群島布阿拉以西 110 公里處發生 5.1 級地震。"
+    },
+    {
+      "id": "5029133",
+      "time": "2026-08-06 22:02:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "暫停派息後，美國最大抵押貸款機構UWM股價創史上最大跌幅。"
+    },
+    {
+      "id": "5029132",
+      "time": "2026-08-06 22:02:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "得克薩斯州州長阿博特宣佈太空探索技術公司將在格蘭姆斯縣擴建專案。"
+    },
+    {
+      "id": "5029131",
+      "time": "2026-08-06 22:02:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉稱，其與太空探索技術公司將需要數量大得多的晶片。"
+    },
+    {
+      "id": "5029130",
+      "time": "2026-08-06 22:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西行業組織UNICA公佈：6月巴中西部南部地區食糖產量為390.3萬噸。"
+    },
+    {
+      "id": "5029129",
+      "time": "2026-08-06 22:01:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "希捷科技快速轉漲，此前一度跌超8%。其他儲存股也大幅收窄跌幅。"
+    },
+    {
+      "id": "5029128",
+      "time": "2026-08-06 22:01:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：TeraFab將落戶得克薩斯州格蘭姆斯縣。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608063834148077",
+      "time": "2026-08-06 22:01:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月批發銷售環比下降3%，預估增長2.2%，前值增長3.4%。"
+    },
+    {
+      "id": "5029127",
+      "time": "2026-08-06 22:01:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "德國萊茵集團（RWE AG）旗下美國海上風電部門與美國內政部達成12.2億美元和解協議。"
+    },
+    {
+      "id": "5029126",
+      "time": "2026-08-06 22:00:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "萊茵集團（RWE AG）將放棄其在紐約州、加利福尼亞州、路易斯安那州的美國海上風電租賃權。"
+    },
+    {
+      "id": "5029125",
+      "time": "2026-08-06 22:00:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "萊茵集團美國海上風電部門就海上風電租賃權與美國內政部達成和解協議。"
+    },
+    {
+      "id": "5029124",
+      "time": "2026-08-06 22:00:17",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月批發銷售月率 -3%，預期2.2%，前值由3.40%修正為3.5%。"
+    },
+    {
+      "id": "5029123",
+      "time": "2026-08-06 22:00:13",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【東吳證券： 降波蓄勢，結構致勝 】7月市場整體先揚後抑，科技板塊在經歷了二季度的超額行情後出現顯著回撥。隨著海外流動性擾動、韓國去槓桿及長鑫上市比價效應集中發酵，資金與情緒共振下市場波動顯著放大。月末，FOMC與海外科技財報等關鍵事件陸續落地，最壞預期並未兌現。往後看，市場仍需透過降波與換手消化擁擠籌碼。"
+    },
     {
       "id": "mkt:019fd75f-df7f-7aab-8fa2-eee3d7e96d08",
       "time": "2026-08-06 22:00:12",
@@ -153138,139 +153288,6 @@
         "其他"
       ],
       "text": "美元兌日元料創下2022年12月以來最大單日跌幅。"
-    },
-    {
-      "id": "5017280",
-      "time": "2026-07-30 22:04:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美元指數跌破100點】美元指數跌0.85%，報99.973點。"
-    },
-    {
-      "id": "5017279",
-      "time": "2026-07-30 22:04:36",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【費城半導體指數漲超8％】美股半導體板塊持續走強，費城半導體指數漲超8％，泛林集團漲超20％，應用材料漲超15％，美光科技漲14％，AMD漲超13％，英特爾漲12％，阿斯麥、臺積電均漲超7％。"
-    },
-    {
-      "id": "5017278",
-      "time": "2026-07-30 22:04:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元兌日元現下跌 1.8%，報 183.93。"
-    },
-    {
-      "id": "mkt:019fb356-c431-7aab-8f15-e2ffc126e3b8",
-      "time": "2026-07-30 22:03:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shell CEO says volatility across the entire energy system has essentially intensified."
-    },
-    {
-      "id": "mkt:019fb356-45b2-7aab-8f15-df6e69398e0e",
-      "time": "2026-07-30 22:03:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Brazilian real up 1% versus the U.S. dollar."
-    },
-    {
-      "id": "mkt:019fb356-1b5a-7aab-8f15-d1a4765b4772",
-      "time": "2026-07-30 22:03:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's benchmark stock index rose over 1%."
-    },
-    {
-      "id": "5017277",
-      "time": "2026-07-30 22:02:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，整個能源體系天生波動性正在加劇。"
-    },
-    {
-      "id": "mkt:019fb355-e929-7aab-8f15-cb08c7c3e648",
-      "time": "2026-07-30 22:02:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Interfax reports Russia extends ban on diesel and gasoline exports."
-    },
-    {
-      "id": "5017276",
-      "time": "2026-07-30 22:02:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元延續跌勢，日內目前已下跌2.3%，報159.5日元。"
-    },
-    {
-      "id": "mkt:019fb355-a88d-7aab-8f15-c5d077f90ac4",
-      "time": "2026-07-30 22:02:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GS.O"
-      ],
-      "text": "An internal memo shows Goldman Sachs Asset Management has launched AlphaAI, an artificial intelligence investment platform."
-    },
-    {
-      "id": "5017275",
-      "time": "2026-07-30 22:02:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳門三部門：皇家美素力鉛超標檢測結果具有可信性，預防性下架屬國際通用的謹慎做法。"
-    },
-    {
-      "id": "te:markets:571294",
-      "time": "2026-07-30 22:01:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Austria",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Erste Bank earnings above expectations at 2.48 EUR — Erste Bank (EBS) released earnings per share at 2.48 EUR, compared to market expectations of 2.43 EUR."
-    },
-    {
-      "id": "5017274",
-      "time": "2026-07-30 22:01:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲2%，現報4179.02美元/盎司。"
-    },
-    {
-      "id": "5017273",
-      "time": "2026-07-30 22:01:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯政府宣佈禁止柴油出口，期限至2027年1月31日為止；宣佈禁止其他燃料出口，期限至2027年1月31日為止。"
     }
   ]
 }
