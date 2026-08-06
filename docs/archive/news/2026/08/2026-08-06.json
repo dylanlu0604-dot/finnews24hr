@@ -1,7 +1,765 @@
 {
   "date": "2026-08-06",
-  "count": 2579,
+  "count": 2662,
   "items": [
+    {
+      "id": "mkt:019fd7bc-912e-7aab-8fa4-57f59ff1a0f4",
+      "time": "2026-08-06 23:41:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said he is considering a comprehensive trade agreement with the U.S. and is not interested in targeted, sector-specific deals."
+    },
+    {
+      "id": "mkt:019fd7bc-7247-7aab-8fa4-4e862df6af1c",
+      "time": "2026-08-06 23:41:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney said the government supports Canadian firms and that an economic transition is beginning to show in the data."
+    },
+    {
+      "id": "mkt:019fd7bc-55a7-7aab-8fa4-408873b03ebd",
+      "time": "2026-08-06 23:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada's trade negotiators are in Washington this week; talks with the United States are difficult and Ottawa is considering all options."
+    },
+    {
+      "id": "5029254",
+      "time": "2026-08-06 23:40:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交與安全政策高階代表卡拉斯：呼籲各方立即批准並執行協議，並根據聯合國安理會相關決議及國際法，加快落實聯合國安理會第2803號決議的所有條款。"
+    },
+    {
+      "id": "5029253",
+      "time": "2026-08-06 23:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼稱與美國的貿易談判艱難，正考慮所有選項。"
+    },
+    {
+      "id": "mkt:019fd7bb-b4d4-7aab-8fa4-387185f179c2",
+      "time": "2026-08-06 23:40:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "The U.S. Treasury Department said on its website it has imposed new sanctions on Cuba."
+    },
+    {
+      "id": "mkt:019fd7bb-8720-7aab-8fa4-3178e0e0c697",
+      "time": "2026-08-06 23:40:18",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Peru's government said exports rose 34% in 1H to $54 billion."
+    },
+    {
+      "id": "5029252",
+      "time": "2026-08-06 23:39:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯政府表示，今年上半年秘魯出口額增長34%，達到540億美元。"
+    },
+    {
+      "id": "5029251",
+      "time": "2026-08-06 23:39:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國出臺新的古巴相關制裁。"
+    },
+    {
+      "id": "5029250",
+      "time": "2026-08-06 23:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數大致持平，報397.19點。在十個板塊中，北歐金融板塊漲幅最大。拉美固定電話與移動電信服務商Millicom International Cellular SA漲14.4%，在一眾北歐個股裡領跑。"
+    },
+    {
+      "id": "mkt:019fd7b9-c771-7aab-8fa4-28d0d9c49ca7",
+      "time": "2026-08-06 23:38:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico expects avocado exports to the US to resume soon, President sheinbaum said."
+    },
+    {
+      "id": "5029249",
+      "time": "2026-08-06 23:38:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟：歐盟對哈馬斯及其他非國家武裝組織武器永久解除武裝、以色列軍隊全部撤出加沙以及加沙民事過渡的相關協議宣告達成表示歡迎，並對調解方孜孜不倦的努力表示感謝。這是確保哈馬斯解除武裝、不再對以色列安全構成威脅的關鍵一步。"
+    },
+    {
+      "id": "5029248",
+      "time": "2026-08-06 23:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部說日本加速“再軍事化”擾亂地區及全球安全】俄羅斯外交部資訊與出版司副司長法捷耶夫6日就日本釋出新版《防衛白皮書》表態說，日本加速“再軍事化”擾亂地區及全球安全域性勢。法捷耶夫當天在例行記者會上回答新華社記者提問時說，日方不斷背離本國憲法中的和平主義條款，試圖推翻“無核三原則”等承諾。他強調，在廣島核爆81週年之際，俄方希望日本政府能夠以史為鑑，銘記歷史教訓，牢記堅持和平道路是唯一正途。（新華社）"
+    },
+    {
+      "id": "mkt:019fd7b9-3752-7aab-8fa4-23dad06c7b18",
+      "time": "2026-08-06 23:37:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European closes Aug 6: Germany's DAX +20.00 pts (+0.08%) to 26,159.03; UK's FTSE 100 -15.39 pts (-0.14%) to 10,872.91; France's CAC 40 +30.41 pts (+0.35%) to 8,699.71; Euro Stoxx 50 +30.27 pts (+0.47%) to 6,507.25; Spain's IBEX 35 +122.90 pts (+0.61%) to 20,179.90; Italy's FTSE MIB +259.20 pts (+0.48%) to 53,706.00."
+    },
+    {
+      "id": "5029247",
+      "time": "2026-08-06 23:37:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨西哥預計對美牛油果出口將很快恢復。"
+    },
+    {
+      "id": "mkt:019fd7b8-79c9-7aab-8fa4-1a2f1c627eba",
+      "time": "2026-08-06 23:36:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Carney, responding to a question about US President Trump’s remark that Canadians are 'annoying', said Ottawa is speaking up for Canadian businesses."
+    },
+    {
+      "id": "5029246",
+      "time": "2026-08-06 23:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥已要求與美國大使館就米卻肯州及牛油果相關事宜舉行會談  。"
+    },
+    {
+      "id": "5029245",
+      "time": "2026-08-06 23:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【剛果（金）禁止銅精礦、鈷精礦出口 紫金礦業：公司在當地的產品不在禁止出口之列】剛果（金）政府6月底簽署禁止銅鈷精礦出口政府命令。對此，紫金礦業相關人士表示，目前公司在剛果（金）公司旗下科盧韋齊銅礦的產品為粗銅及電積銅，卡莫阿-卡庫拉銅礦的產品為陽極板及粗銅，不屬於禁止出口的產品。"
+    },
+    {
+      "id": "mkt:019fd7b7-9e8e-7aab-8fa4-1209e74f2360",
+      "time": "2026-08-06 23:36:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Brent crude intraday gains widen to 3%】Brent crude up 3.00% intraday at $81.17/barrel. WTI up 2.67%."
+    },
+    {
+      "id": "5029244",
+      "time": "2026-08-06 23:36:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普 500 指數觸及盤中低點，下跌 0.2%。"
+    },
+    {
+      "id": "5029243",
+      "time": "2026-08-06 23:35:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "當被問及特朗普稱加拿大人“令人厭惡”的言論時，加拿大總理卡尼稱渥太華將堅定維護加拿大企業利益。"
+    },
+    {
+      "id": "5029242",
+      "time": "2026-08-06 23:35:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報81.86美元/桶。"
+    },
+    {
+      "id": "5029241",
+      "time": "2026-08-06 23:34:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國賣出的四周短期國庫券中標收益率為3.640%，為當前最高水平，高收益率價位僅滿足了72.82%的投標需求。"
+    },
+    {
+      "id": "5029240",
+      "time": "2026-08-06 23:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國出售八週期國庫券，中標利率創下3.710%的高位，在最高投標價位僅分配了17.93%的投標申請。"
+    },
+    {
+      "id": "5029239",
+      "time": "2026-08-06 23:33:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：加拿大談判代表正在華盛頓與美方對應官員進行詳細會談。"
+    },
+    {
+      "id": "mkt:019fd7b5-6d9d-7aab-8fa4-0ec6c614b3fa",
+      "time": "2026-08-06 23:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 4-week Treasury auction on Aug 6 — bid-cover ratio 2.68, prior 2.80."
+    },
+    {
+      "id": "mkt:019fd7b5-6c33-7aab-8fa4-029576db2ba9",
+      "time": "2026-08-06 23:33:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-week Treasury auction on Aug. 6: stop-out yield 3.64%, prior 3.63%."
+    },
+    {
+      "id": "mkt:019fd7b5-6b76-7aab-8fa3-f80e09bd0651",
+      "time": "2026-08-06 23:33:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 4-week Treasury auction on Aug. 6: 72.82% of accepted awards allocated at the stop-out yield, up from 50.42% previously."
+    },
+    {
+      "id": "mkt:019fd7b5-4bd0-7aab-8fa3-f7c11ef93a8d",
+      "time": "2026-08-06 23:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Aug.6) | actual 72.82% | previous 50.42%"
+    },
+    {
+      "id": "mkt:019fd7b5-4bc6-7aab-8fa3-ef8d63dbaa7d",
+      "time": "2026-08-06 23:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.6) | actual 2.68 | previous 2.8"
+    },
+    {
+      "id": "mkt:019fd7b5-4bbc-7aab-8fa3-e61daafc4c76",
+      "time": "2026-08-06 23:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Aug.6) | actual 3.64% | previous 3.63%"
+    },
+    {
+      "id": "mkt:019fd7b5-3cd9-7aab-8fa3-da29e734f16b",
+      "time": "2026-08-06 23:33:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 8-week Treasury bill auction on Aug. 6: stop-out yield 3.71%, prior 3.675%."
+    },
+    {
+      "id": "mkt:019fd7b5-0d03-7aab-8fa3-d1762c049a05",
+      "time": "2026-08-06 23:33:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Aug.6) | actual 3.71% | previous 3.675%"
+    },
+    {
+      "id": "mkt:019fd7b5-04e2-7aab-8fa3-cf77eb8fb9df",
+      "time": "2026-08-06 23:33:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. 8-week Treasury auction to Aug. 6: bid-cover ratio 2.74, prior 2.74."
+    },
+    {
+      "id": "5029238",
+      "time": "2026-08-06 23:33:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼稱上週與特朗普通話，必要時將再次溝通。"
+    },
+    {
+      "id": "mkt:019fd7b4-dc9c-7aab-8fa3-c5a2c699e55e",
+      "time": "2026-08-06 23:33:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.6) | actual 2.74 | previous 2.74"
+    },
+    {
+      "id": "mkt:019fd7b4-cc01-7aab-8fa3-bfd6d8482a4a",
+      "time": "2026-08-06 23:32:57",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 8-week Treasury auction on Aug. 6: percentage allocated at the stop-out yield 17.93%, prior 19.59%."
+    },
+    {
+      "id": "5029237",
+      "time": "2026-08-06 23:32:42",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四周期國債，得標利率3.640%，投標倍數2.68。拍賣八週期國債，得標利率3.710%，投標倍數2.74。"
+    },
+    {
+      "id": "5029236",
+      "time": "2026-08-06 23:31:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍及定居者襲擊約旦河西岸多地】據巴勒斯坦媒體今天（8月6日）報道，以色列軍隊5日在約旦河西岸多地展開突襲和搜捕行動，造成至少9名巴勒斯坦人受傷，另有12人被捕。同一天，在希伯倫以南村鎮，以色列定居者縱火焚燒當地居民房屋，造成多名巴勒斯坦人受傷。在納布盧斯以東村鎮，以色列定居者闖入民居並毆打居民，造成3名巴勒斯坦人受傷。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fd7b3-4fb7-7aab-8fa3-b628063a32a3",
+      "time": "2026-08-06 23:31:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ireland recorded a fiscal deficit of €600m at end‑July, versus a €4.1bn surplus a year earlier. The Department of Finance said the swing reflected retrospective tax payments by Apple (AAPL.O) and the timing of transfers to the sovereign wealth fund."
+    },
+    {
+      "id": "5029235",
+      "time": "2026-08-06 23:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭7月企業稅收入同比增長5.1%，達到13億歐元，其中包含與15%補足稅相關的11億歐元；剔除蘋果稅影響，年初至今企業稅收入增長4.7%。"
+    },
+    {
+      "id": "5029234",
+      "time": "2026-08-06 23:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭截至7月底稅收收入增長6.0%（不含蘋果稅），總投票支出同比增長7.4%。"
+    },
+    {
+      "id": "5029233",
+      "time": "2026-08-06 23:30:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭前七個月稅收收入增長6%，受所得稅和增值稅收入躍升推動。"
+    },
+    {
+      "id": "5029232",
+      "time": "2026-08-06 23:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭7月所得稅收入同比增長12.7%，年內迄今增長7.5%；7月增值稅收入同比增長17.5%，年內迄今增長9.7%。"
+    },
+    {
+      "id": "5029231",
+      "time": "2026-08-06 23:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.33%，報26212.97點。法國股指初步收漲0.68%，義大利股指初步收漲0.71%、銀行指數漲0.81%，英國股指初步收跌0.07%。"
+    },
+    {
+      "id": "5029230",
+      "time": "2026-08-06 23:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.38%，報659.63點。歐元區STOXX 50指數初步收漲0.71%，報6522.74點。富時泛歐績優300指數初步收漲0.39%，報2636.47點。"
+    },
+    {
+      "id": "te:economy:573444",
+      "time": "2026-08-06 23:30:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bonds",
+        "Importance 1"
+      ],
+      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 10 bps — Majority of government bonds yields are higher on Thursday. Top gainers are Brazil 10Y (10bps), US 10Y (4.20bps) and Germany 10Y (2.27bps). Biggest losers are Japan 10Y (-4.43bps)."
+    },
+    {
+      "id": "5029229",
+      "time": "2026-08-06 23:29:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "南美足聯在宣告中稱，對國際足聯 “一再採取單邊行動表示關切”。"
+    },
+    {
+      "id": "te:markets:573443",
+      "time": "2026-08-06 23:29:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wheat Hits 4-week Low — Wheat decreased to 631.00 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Wheat gained 3.6%, and in the last 12 months, it increased 21.79%."
+    },
+    {
+      "id": "5029228",
+      "time": "2026-08-06 23:29:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員蘭德·保羅表示，在藐視國會投票後，他將把安東尼·福奇提交給司法部處理。"
+    },
+    {
+      "id": "5029227",
+      "time": "2026-08-06 23:26:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數上漲 0.2%，油價走高。"
+    },
+    {
+      "id": "5029226",
+      "time": "2026-08-06 23:25:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國電網融資體系大改：可再生能源專案將首次承擔費用】德國著手全面改革其不堪重負的電網融資體系，擬降低工商業使用者用電成本，同時首次要求可再生能源發電方承擔電網費用。 德國聯邦網路管理局週四公佈了改革方案草案，擬對風電場和光伏電站徵收一次性併網費，並自2029年起按每千瓦4至7歐元的標準收取年度費用。此舉不僅旨在更均衡地分攤成本負擔，也意在更好地匹配電力供需，以緩解長期存在的電網擁堵問題。"
+    },
+    {
+      "id": "mkt:019fd7ac-aea6-7aab-8fa3-aa636a2ab080",
+      "time": "2026-08-06 23:24:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY intraday gain widened to 0.5%, the largest since July 31."
+    },
+    {
+      "id": "5029225",
+      "time": "2026-08-06 23:23:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國APA公司（阿帕奇石油）在電話會議上表示，下一口勘探井預計將於2027年開鑽，此前預期為2026年第四季度。"
+    },
+    {
+      "id": "5029224",
+      "time": "2026-08-06 23:22:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "日元跌幅擴大至 0.5%，創 7 月 31 日以來最弱水平。"
+    },
+    {
+      "id": "5029223",
+      "time": "2026-08-06 23:22:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國聯邦通訊委員會投票決定廢除一項規則，該規則禁止地方廣播電視臺所有者的覆蓋範圍超過全美電視使用者總戶數的39%。"
+    },
+    {
+      "id": "5029222",
+      "time": "2026-08-06 23:22:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "切尼爾能源首席商務官阿納托爾·費金表示，即使中東天然氣供應立即恢復，歐洲今年冬季初的液化天然氣庫存也將低於去年同期水平。"
+    },
+    {
+      "id": "5029221",
+      "time": "2026-08-06 23:22:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "切尼爾能源首席商務官阿納托爾·費金表示，受日韓基準價(JKM)溢價推動，第二季度美國對亞洲液化天然氣出口量達到創紀錄的1100萬噸。"
+    },
+    {
+      "id": "5029220",
+      "time": "2026-08-06 23:21:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家石油局：巴西第 4 輪產量分成招標週期包含 13 個油氣區塊。"
+    },
+    {
+      "id": "5029219",
+      "time": "2026-08-06 23:20:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家石油局：巴西第 6 輪特許經營權拍賣將涵蓋 22 個區塊。"
+    },
+    {
+      "id": "5029218",
+      "time": "2026-08-06 23:20:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列海軍方面訊息稱，其本週開展大規模軍事演習，參演力量包括軍艦艦隊、潛艇艦隊以及邊境安保部隊。"
+    },
+    {
+      "id": "5029217",
+      "time": "2026-08-06 23:19:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家石油局公佈特許經營及產量分成招標輪次的油氣區塊。"
+    },
+    {
+      "id": "5029216",
+      "time": "2026-08-06 23:18:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "瓜地馬拉 6 月經濟活動同比增長 4.2%。"
+    },
+    {
+      "id": "5029215",
+      "time": "2026-08-06 23:18:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "投行蒙尼斯·克雷西·哈特將Datadog目標股價從270美元上調至280美元。"
+    },
+    {
+      "id": "mkt:019fd7a7-5e76-7aab-8fa3-a05a193b13fd",
+      "time": "2026-08-06 23:18:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude touched $76.00/bbl, up 2.26% intraday. Brent crude rose $0.40 to $81.64/bbl."
+    },
+    {
+      "id": "5029214",
+      "time": "2026-08-06 23:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：調查 8 月 4 日 “海軍一號” 與民航客機相關事件。"
+    },
+    {
+      "id": "5029213",
+      "time": "2026-08-06 23:17:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據該方案，駛入海峽的船隻將使用距離伊朗最近的航道，駛出海峽的船隻則使用距離阿曼最近的航道。地區各方也可參與掃雷以及其他必要技術作業。"
+    },
+    {
+      "id": "5029212",
+      "time": "2026-08-06 23:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，伊朗和阿曼擬議協議有效期為 60 天，旨在恢復海上通航、打破當前僵局並啟動技術性談判。該協議仍需獲得伊朗最高國家安全委員會批准。"
+    },
+    {
+      "id": "5029211",
+      "time": "2026-08-06 23:17:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "一位高層訊息人士稱，伊朗與阿曼已就重啟霍爾木茲海峽通航達成框架方案，相關公告有望於數日內釋出。"
+    },
+    {
+      "id": "5029210",
+      "time": "2026-08-06 23:17:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破77美元/桶，日內漲2.38%。"
+    },
+    {
+      "id": "5029209",
+      "time": "2026-08-06 23:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國民航局正與易捷航空交易的相關各方展開磋商，所有各方均知曉監管要求。"
+    },
+    {
+      "id": "te:markets:573442",
+      "time": "2026-08-06 23:14:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Hits 4-week High — Sugar increased to 15.34 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Sugar gained 1.24%, and in the last 12 months, it decreased 4.26%."
+    },
+    {
+      "id": "5029208",
+      "time": "2026-08-06 23:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "高知特：GLOB.AI 可提供企業級 AI 算力叢集訪問能力。"
+    },
+    {
+      "id": "5029207",
+      "time": "2026-08-06 23:12:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國民用航空管理局：已就易捷航空的交易與相關各方進行接洽，相關各方已知曉監管要求。"
+    },
+    {
+      "id": "5029206",
+      "time": "2026-08-06 23:11:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國民用航空管理局：“我們已瞭解到，阿波羅向易捷航空英國分公司發出了收購要約。”"
+    },
+    {
+      "id": "5029205",
+      "time": "2026-08-06 23:09:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "切尼爾能源總裁傑克·富斯科在第二季度財報電話會議上表示，伊朗戰爭凸顯了供應安全和多元化的必要性。"
+    },
+    {
+      "id": "mkt:019fd79b-06f6-7aab-8fa3-9dac48443f8c",
+      "time": "2026-08-06 23:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelensky dismisses Ukraine ambassadors to Croatia, Albania, Montenegro and Pakistan】Ukraine’s presidential office said on the 6th that President Zelensky signed decrees dismissing the country’s ambassadors to Croatia, Albania, Montenegro and Pakistan."
+    },
+    {
+      "id": "te:markets:573437",
+      "time": "2026-08-06 23:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Increases by 0.80% — Top currency gainers are Brazilian Real (0.80%) and Dollar Index (0.17%). Biggest losers are Swiss Franc (-0.38%), Japanese Yen (-0.29%) and Euro (-0.16%). Meanwhile British Pound was little changed."
+    },
+    {
+      "id": "te:markets:573436",
+      "time": "2026-08-06 22:59:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Cocoa Futures Hover Near 1-Month High — Cocoa prices traded around $5,800 per tonne, close to their highest in nearly a month, influenced by crop forecasts and ongoing climate risks. Supply concerns have intensified in the key producing region of West Africa after Ghana's cocoa regulator COCOBOD projected a decline of at least 16% in 2026/27 cocoa production due to unfavorable weather, disease, ageing plantations, illegal mining, and the crop's natural yield cycle. Expectations of a more than 10% drop in Ivory Coast's output next season, along with the risk of excessive rainfall boosting disease pressure, further supported prices. Additionally, concerns mounted that Ecuador, Peru and Southeast Asia could together produce 100,000 tons less cocoa."
+    },
+    {
+      "id": "mkt:019fd794-5a5a-7aab-8fa3-91990d2d385a",
+      "time": "2026-08-06 22:57:31",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "BNP Paribas raises PT on WESTERN DIGITAL CORP (WDC.O) to $700 from $660."
+    },
+    {
+      "id": "mkt:019fd793-adb0-7aab-8fa3-8c9f9a18a25a",
+      "time": "2026-08-06 22:56:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Sources said Russia's July crude and condensate output rose by about 100,000 b/d from June to just over 9.0 mln b/d."
+    },
+    {
+      "id": "mkt:019fd78d-d7cf-7aab-8fa3-804c579a01c5",
+      "time": "2026-08-06 22:50:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Shenzhen Shuibei wholesale gold up ~50 yuan in two days as buyer mix shifts】Spot gold climbed, briefly topping $4,300/oz intraday to a seven-week high; futures extended recent gains. The rise transmitted to China’s retail market: Shenzhen Shuibei wholesale quotes for 999 fine-gold jewelry are around 1,100 yuan/gram, about 50 yuan higher than two days ago. Buying patterns have shifted from the year‑start panic buying — investors are broadly more cautious; demand is now concentrated in wedding-related and value-preservation purchases. Gold recycling and trade‑in activity is uneven across the market."
+    },
+    {
+      "id": "te:markets:573432",
+      "time": "2026-08-06 22:47:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Arabica Coffee Futures Settle Below $3.1 — Arabica coffee futures have fluctuated in recent weeks, before consolidating below $3.10 per pound to their lowest level in a month. Still, the market continued to be supported by tight supplies, uncertainty over the quality of Brazil's harvest, coffee growers' reluctance to sell, and weather-related risks associated with El Niño. Although a record Brazilian harvest of more than 70 million bags is expected this season, the balance between supply and demand remains tight, particularly in the higher-quality. Traders remain concerned that rains in key producing regions, including Minas Gerais and São Paulo, during June and July, may have affected the quality of part of the crop. ICE arabica coffee fell to a 2.5-year low of 251,417 bags as of August 7, down sharply from the 754,516 bags last year. At the same time, Brazilian producers continue to sell gradually, limiting immediate coffee availability. Meanwhile, the developing \"super\" El Niño remains a key risk to next year's harvest."
+    },
     {
       "id": "mkt:019fd784-1e13-7aab-8fa3-7d067236d1c0",
       "time": "2026-08-06 22:39:47",
