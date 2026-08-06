@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-06 21:28:58",
-  "count": 16763,
+  "updated": "2026-08-06 21:32:56",
+  "count": 16760,
   "items": [
+    {
+      "id": "5029072",
+      "time": "2026-08-06 21:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜裡甘：巴西政府致力於改善其財政平衡。"
+    },
+    {
+      "id": "5029071",
+      "time": "2026-08-06 21:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐足聯堅持反對國際足聯詹尼·因凡蒂諾的立場。"
+    },
+    {
+      "id": "5029070",
+      "time": "2026-08-06 21:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數開盤基本持平，納斯達克100指數下跌0.8%。"
+    },
+    {
+      "id": "5029069",
+      "time": "2026-08-06 21:31:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "SANDISK開盤暴跌14%，市值蒸發250億美元。"
+    },
+    {
+      "id": "5029068",
+      "time": "2026-08-06 21:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "西部資料股價下跌20%，創2020年3月以來最大單日跌幅。"
+    },
+    {
+      "id": "5029067",
+      "time": "2026-08-06 21:31:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SpaceX股價下跌2.4%，因上市後首個股份鎖定期今日到期。"
+    },
+    {
+      "id": "5029066",
+      "time": "2026-08-06 21:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "富蘭克林鄧普頓加拿大分部：新增私募市場投資業務。"
+    },
+    {
+      "id": "5029065",
+      "time": "2026-08-06 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.21%，標普500指數漲0.09%，納指跌0.31%。Insmed漲29.85%，摩托羅拉漲9.49%，漢尼汾漲8.35%，碩騰漲5.97%，西部資料跌20.64%，Epam Systems跌20.42%。“七姐妹”方面：蘋果漲1.45%，英偉達漲1.12%，微軟漲0.66%，亞馬遜漲0.30%，谷歌漲0.14%，Meta Platforms跌0.06%，特斯拉跌1.64%。"
+    },
+    {
+      "id": "5029064",
+      "time": "2026-08-06 21:30:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濰柴動力：公司沒有可回收航空發動機相關業務】濰柴動力8月6日在互動平臺表示，公司沒有可回收航空發動機相關業務。"
+    },
+    {
+      "id": "mkt:019fd744-f2f3-7aab-8fa2-ad6a978dc833",
+      "time": "2026-08-06 21:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WDC.O",
+        "Impact bearish",
+        "SNDK.O",
+        "APP.O"
+      ],
+      "text": "US stocks at the open: Dow up 0.14%, S&P 500 near flat, Nasdaq down 0.3%. Storage names under pressure—SanDisk (SNDK.O) down 13%, Western Digital (WDC.O) down 19%, SK Hynix (SKHY.O) down 7.8%. Mobile ad platform AppLovin (APP.O) falls 17.8% after Q2 revenue missed expectations."
+    },
+    {
+      "id": "5029063",
+      "time": "2026-08-06 21:30:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "INSMED股價在釋出第二季度財報後開盤上漲31%。"
+    },
+    {
+      "id": "5029062",
+      "time": "2026-08-06 21:30:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【交易商協會：高質量建設債券市場“科技板” 深化熊貓債市場發展】中國銀行間市場交易商協會8月3日召開2026年下半年工作會議。會議部署了交易商協會系統下半年的六方面重點工作，包括持之以恆推進全面從嚴治黨、不斷提高服務實體經濟和政策落實質效、助力穩妥化解重點領域風險、持續強化自律管理和市場規範、積極提升會員和市場服務水平和繼續提升內部管理效能。"
+    },
+    {
+      "id": "5029061",
+      "time": "2026-08-06 21:30:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長杜里根：我們承諾將堅持改善財政表現的方向。"
+    },
+    {
+      "id": "5029060",
+      "time": "2026-08-06 21:29:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德固特：沒有液冷裝備、資料中心的管理領域佈局或產業規劃】德固特8月6日在互動平臺表示，公司沒有液冷裝備、資料中心的管理領域的佈局或產業規劃。"
+    },
+    {
+      "id": "mkt:019fd742-fc47-7aab-8fa2-a7f11dcdfd33",
+      "time": "2026-08-06 21:28:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Al Arabiya and Saudi outlet Haddath, citing Iraqi security sources, report Iraqi armed factions have redeployed to front lines amid fears of an escalation in the security situation."
+    },
+    {
+      "id": "5029059",
+      "time": "2026-08-06 21:28:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度政府資料顯示，印度7月燃料銷量同比上漲2.9%，至1992萬噸。"
+    },
+    {
+      "id": "5029058",
+      "time": "2026-08-06 21:28:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府公佈的資料顯示，7月印度柴油銷量同比增長10.0%，汽油銷量同比增長9.2%。"
+    },
     {
       "id": "5029057",
       "time": "2026-08-06 21:28:08",
@@ -153469,208 +153617,6 @@
         "Impact bearish"
       ],
       "text": "Qualcomm (QCOM.O) fell 4.2% after saying it expects Q4 profit to fall short of estimates and that revenue from Apple will decline at an accelerated pace."
-    },
-    {
-      "id": "5017209",
-      "time": "2026-07-30 21:32:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡駱馳股價下跌10%，因該公司預計第三季度營收基本持平。"
-    },
-    {
-      "id": "5017208",
-      "time": "2026-07-30 21:32:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價上漲12.3%，因資本支出預期放緩、雲業務展望優於預期。"
-    },
-    {
-      "id": "5017207",
-      "time": "2026-07-30 21:32:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "FORTINET股價開盤上漲8.7%，此前該公司上調了全年營收預期。"
-    },
-    {
-      "id": "5017206",
-      "time": "2026-07-30 21:32:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "洲際交易所將以57億美元收購MarketAxess，該公司股價上漲29%。"
-    },
-    {
-      "id": "mkt:019fb339-c762-7aab-8f14-e9bfd44e966b",
-      "time": "2026-07-30 21:32:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "UK Prime Minister Burnham told President Trump he will take a pragmatic approach to North Sea affairs; he said when people face hardship existing resources cannot be ignored."
-    },
-    {
-      "id": "5017205",
-      "time": "2026-07-30 21:31:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數開盤上漲1%，納斯達克100指數上漲2%。"
-    },
-    {
-      "id": "5017204",
-      "time": "2026-07-30 21:31:46",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "摩羯座治療公司股價下跌48.5%，此前美國食品藥品監督管理局專家小組投票否決了該公司針對杜氏肌營養不良症引發的心臟病的治療藥物。"
-    },
-    {
-      "id": "mkt:019fb339-49e5-7aab-8f14-e22570ee3b5b",
-      "time": "2026-07-30 21:31:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) fell about 9% to a four-month low after reporting a sharp decline in Q2 cash flow."
-    },
-    {
-      "id": "te:markets:571281",
-      "time": "2026-07-30 21:31:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Altria Stock Price Hits 5-week Low — Altria shares decreased to 69.43 USD, the lowest since June 2026. Over the past 4 weeks, Altria lost 2.68%, and in the last 12 months, it increased 13.85%."
-    },
-    {
-      "id": "5017203",
-      "time": "2026-07-30 21:31:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "ARM HOLDINGS股價上漲高達19%，創3月25日以來最大漲幅。"
-    },
-    {
-      "id": "5017202",
-      "time": "2026-07-30 21:30:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相伯納姆：我已向特朗普總統表明，我將對北海問題採取務實態度。"
-    },
-    {
-      "id": "5017201",
-      "time": "2026-07-30 21:30:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "微軟股價大漲12%，創2020年以來最大單日漲幅。"
-    },
-    {
-      "id": "5017200",
-      "time": "2026-07-30 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.65%，標普500指數漲0.90%，納指漲1.54%。泛林集團漲20.02%，百特國際漲19.22%，廣達公司漲18.59%，Arm Holdings Plc漲17.16%，希捷漲14.01%。“七姐妹”方面：微軟漲11.67%，亞馬遜漲2.92%，特斯拉漲1.57%，英偉達漲1.23%，谷歌跌0.37%，蘋果跌1.68%，Meta Platforms跌9.14%。"
-    },
-    {
-      "id": "mkt:019fb338-3e6c-7aab-8f14-d8a4147768c4",
-      "time": "2026-07-30 21:30:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish",
-        "SNDK.O",
-        "SKHY.O"
-      ],
-      "text": "【US stocks open higher; storage sector rebounds】At the open, all three major US indexes rose: Dow +0.6%, S&P 500 +1.0%, Nasdaq +1.6%. Microsoft (MSFT.O) jumped about 12% after its fiscal Q4 cloud business grew well above expectations. Storage names led gains—SanDisk (SNDK.O) up ~11%, SK Hynix (SKHY.O) about +7%."
-    },
-    {
-      "id": "5017199",
-      "time": "2026-07-30 21:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，攜程漲0.80%，嘉楠科技漲0.65%。"
-    },
-    {
-      "id": "te:markets:571280",
-      "time": "2026-07-30 21:30:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Microsoft Stock Price Hits 8-week High — Microsoft shares increased to 437.04 USD, the highest since June 2026. Over the past 4 weeks, Microsoft gained 16.84%, and in the last 12 months, it decreased 15.08%."
-    },
-    {
-      "id": "te:markets:571279",
-      "time": "2026-07-30 21:30:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Meta Stock Price Hits 17-week Low — Meta shares decreased to 524.88 USD, the lowest since March 2026. Over the past 4 weeks, Meta Platforms, Inc. gained 3.96%, and in the last 12 months, it decreased 15.77%."
-    },
-    {
-      "id": "5017198",
-      "time": "2026-07-30 21:29:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "7月30日，全球基金淨買入印度股票362億印度盧比。"
-    },
-    {
-      "id": "mkt:019fb336-e6b0-7aab-8f14-d21343bdc248",
-      "time": "2026-07-30 21:29:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "White House National Economic Council director Hassett said he does not believe markets are in a bubble because of AI advances."
-    },
-    {
-      "id": "5017197",
-      "time": "2026-07-30 21:29:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬事達卡首席財務官表示：預計中東衝突帶來的影響將與我們在第二季度末所見的影響水平大致相當。"
     }
   ]
 }
