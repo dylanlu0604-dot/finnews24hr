@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-06 08:40:13",
-  "count": 17407,
+  "updated": "2026-08-06 08:44:04",
+  "count": 17405,
   "items": [
+    {
+      "id": "mkt:019fd485-f67b-7aab-8f96-25883ec0b0cb",
+      "time": "2026-08-06 08:42:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "DALY said there is some evidence the impact of tariffs on inf is starting to wane."
+    },
+    {
+      "id": "5027668",
+      "time": "2026-08-06 08:42:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所公告，港股通標的證券名單調入MINIMAX-W、立訊精密、三環集團，自2026年08月06日起生效。"
+    },
+    {
+      "id": "mkt:019fd485-d28f-7aab-8f96-1a4f2e58a382",
+      "time": "2026-08-06 08:42:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "002475.SZ",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Stock Exchange said it will add MINIMAX-W, Luxshare Precision and Sanhuan Group to the Hong Kong Stock Connect eligible list, effective Aug. 6."
+    },
+    {
+      "id": "5027667",
+      "time": "2026-08-06 08:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上合組織“天山-2026”聯合網路反恐演習舉行】7月23日，上海合作組織成員國主管機關“天山-2026”聯合網路反恐演習在新疆烏魯木齊舉行。各成員國派出代表團參演，上合組織地區反恐怖機構執委會為演習提供相關協助。此次演習緊扣當前恐怖主義活動全球化、網路化、智慧化的新特點，針對“三股勢力”藉助網際網路實施破壞活動設定實戰場景，模擬某國際恐怖組織利用網路傳播恐怖主義、分裂主義、極端主義思想，在上合組織成員國境內潛伏招募、策劃實施恐怖襲擊等情形。參演各方緊密協同，快速排查網路風險，鎖定嫌疑物件，有力支撐線下處置抓捕。（新華社）"
+    },
+    {
+      "id": "mkt:019fd485-6cd6-7aab-8f96-152a4c6aac59",
+      "time": "2026-08-06 08:42:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "DALY: tariffs have had a clear impact on inf."
+    },
+    {
+      "id": "te:markets:573158",
+      "time": "2026-08-06 08:41:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Extend Rally to New Record — Australian shares continued their winning streak Thursday, climbing 59 points or 0.6% to a fresh high of 9,286 in early trade, buoyed by stronger U.S. futures despite Wall Street’s mixed overnight close as investors reassessed valuations following a sharp rebound in AI-linked stocks. Local sentiment was lifted by inflows at the start of the new financial year, while data showed private sector activity expanding at the fastest pace in six months, with services firming and factory orders rebounding. Gains were led by non-energy minerals, consumer names, healthcare, and utilities, offset by weakness in tech, commercial services, and energy minerals. Heavyweights BHP rose 1.1%, Evolution Mining surged 5.7%, Northern Star added 4.5%, and REA Group advanced 2.1%. The big four banks edged up between 0.3% and 0.5%. Traders now turn to trade figures due later today from Australia and from China on Friday, which could set the tone for the next leg of the rally."
+    },
+    {
+      "id": "5027666",
+      "time": "2026-08-06 08:41:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：關稅、能源、人工智慧衝擊導致通脹上升。"
+    },
     {
       "id": "5027665",
       "time": "2026-08-06 08:39:08",
@@ -160121,93 +160196,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數（KOSPI）下跌2％，SK海力士跌超7%，三星電子跌超2%。"
-    },
-    {
-      "id": "mkt:019fb07a-62b1-7aab-8efc-bcb8b55e2056",
-      "time": "2026-07-30 08:43:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI fell as much as 2.00% intraday; SK Hynix fell over 7% and Samsung Electronics fell over 2%."
-    },
-    {
-      "id": "5015497",
-      "time": "2026-07-30 08:43:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios援引美國官員訊息，特朗普週三會見了沙特國防大臣哈立德·本·薩勒曼。"
-    },
-    {
-      "id": "5015496",
-      "time": "2026-07-30 08:43:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士股價跌幅擴大至7%。"
-    },
-    {
-      "id": "5015495",
-      "time": "2026-07-30 08:42:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽省省長王清憲與中國電信集團總經理劉桂清舉行工作會談】7月29日上午，安徽省省長王清憲與中國電信集團總經理劉桂清舉行工作會談。王清憲指出，“十五五”時期，安徽搶抓量子科技、人工智慧等前沿領域發展機遇，推進科技創新和產業創新深度融合，因地制宜培育發展新質生產力，積極搶佔科技和產業制高點。希望與中國電信等加強資源對接與優勢互補，在量子技術應用、人工智慧＋、企業數智化轉型、算力網路建設等領域加大合作力度。我們將持續最佳化服務，全力支援企業在皖實現更大發展。劉桂清表示，安徽創新動能強勁、產業生態優越，中國電信將深入對接安徽發展需求，進一步加大在皖戰略佈局和資源投入，攜手打造央地合作新成果新標杆。"
-    },
-    {
-      "id": "5015494",
-      "time": "2026-07-30 08:42:35",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【伊朗戰爭暴露軍工瓶頸 美國授出1350億美元合同擴產導彈與核潛艇】隨著特朗普政府擴充軍備，以及伊朗戰爭持續消耗美國武器庫存，五角大樓正透過多年期鉅額合同加速提升國防工業產能。僅週三一天，美國國防部就向主要軍工企業授出總額約1350億美元的兩項大型合同。更廣泛而言，特朗普政府還提出總額1.5萬億美元的國防預算申請，稱這是為應對未來戰爭進行的“代際投資”。美國陸軍宣佈與洛克希德·馬丁公司簽署一項為期七年、價值590億美元的協議，以擴大“愛國者”攔截彈產能。這類導彈在中東衝突中需求旺盛，卻難以快速補充。與此同時，五角大樓還公佈向通用動力公司和Huntington Ingalls Industries Inc.授予總額最高766億美元的合同，用於擴大美國主力核潛艇建造規模，並升級造船廠基礎設施。相關合同包括建造9艘最新型號“Block VI”弗吉尼亞級攻擊核潛艇，其“戰斧”巡航導彈搭載能力進一步提升。合同還涵蓋計劃中的12艘哥倫比亞級戰略核潛艇中的另外5艘。訊息公佈後，通用動力股價在紐約盤後上漲2.6%，Huntington Ingalls上漲3.9%，洛克希德·馬丁上漲0.5%。"
-    },
-    {
-      "id": "5015493",
-      "time": "2026-07-30 08:41:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曼哈頓又一“商改住”專案被叫停 系紐約市本月第三起】紐約市政府官員週二下令曼哈頓中城又一座正改建為公寓的辦公樓部分停工。目前，紐約市已加大對這類改建專案的調查力度。紐約市政府的記錄顯示，第三大道750號(750 Third Avenue)的部分施工現已暫停。開發商SL Green正將這座35層的辦公樓改建為約600套新公寓，並配備派對室、陽光露臺和放映室。本月早些時候，輝瑞公司(Pfizer)舊總部險些發生區域性坍塌。自那以來，這已是第三個被叫停的“商改住”專案。本月，市政府官員還對曼哈頓金融區水街77號(77 Water Street)的一個改建專案下達了部分停工令，不過該禁令在幾天後被解除。"
-    },
-    {
-      "id": "te:markets:570914",
-      "time": "2026-07-30 08:40:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Retreat from Near 5-Month High — Australian stocks inched down 20 points or 0.2% to 9,019 on Thursday morning deals, reversing strength in the prior three sessions as traders booked profits after markets hit their highest level since early March. Caution also grew ahead of several local data, including June building permits and Q2 export and import prices later today, and June private sector credit on Friday. Still, a stronger U.S. equity futures capped losses following a sell-off on Wall Street overnight after the Fed decided to leave interest rates unchanged, but three policymakers voted in favor of a hike. Locally, a slowdown in June headline inflation eased pressure on the Reserve Bank following three hikes earlier this year. Losses were broad-based, led by utilities, tech, consumers, and logistics. Mining giant BHP Group dipped 1% while other notable decliners included Nextdc (-3.0%), Lynas Rare Earths (-3.0%), and BlueScope Steel (-1.7%). Conversely, the four big banks added between 0.4% and 1.2%."
-    },
-    {
-      "id": "mkt:019fb077-3c04-7aab-8efc-b3f96a27139d",
-      "time": "2026-07-30 08:40:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian media report explosions heard in multiple locations in southern Iran."
-    },
-    {
-      "id": "5015492",
-      "time": "2026-07-30 08:40:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證股價指數下跌1.15%。"
     }
   ]
 }

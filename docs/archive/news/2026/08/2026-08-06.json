@@ -1,7 +1,82 @@
 {
   "date": "2026-08-06",
-  "count": 555,
+  "count": 562,
   "items": [
+    {
+      "id": "mkt:019fd485-f67b-7aab-8f96-25883ec0b0cb",
+      "time": "2026-08-06 08:42:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "DALY said there is some evidence the impact of tariffs on inf is starting to wane."
+    },
+    {
+      "id": "5027668",
+      "time": "2026-08-06 08:42:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所公告，港股通標的證券名單調入MINIMAX-W、立訊精密、三環集團，自2026年08月06日起生效。"
+    },
+    {
+      "id": "mkt:019fd485-d28f-7aab-8f96-1a4f2e58a382",
+      "time": "2026-08-06 08:42:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "002475.SZ",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Stock Exchange said it will add MINIMAX-W, Luxshare Precision and Sanhuan Group to the Hong Kong Stock Connect eligible list, effective Aug. 6."
+    },
+    {
+      "id": "5027667",
+      "time": "2026-08-06 08:42:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上合組織“天山-2026”聯合網路反恐演習舉行】7月23日，上海合作組織成員國主管機關“天山-2026”聯合網路反恐演習在新疆烏魯木齊舉行。各成員國派出代表團參演，上合組織地區反恐怖機構執委會為演習提供相關協助。此次演習緊扣當前恐怖主義活動全球化、網路化、智慧化的新特點，針對“三股勢力”藉助網際網路實施破壞活動設定實戰場景，模擬某國際恐怖組織利用網路傳播恐怖主義、分裂主義、極端主義思想，在上合組織成員國境內潛伏招募、策劃實施恐怖襲擊等情形。參演各方緊密協同，快速排查網路風險，鎖定嫌疑物件，有力支撐線下處置抓捕。（新華社）"
+    },
+    {
+      "id": "mkt:019fd485-6cd6-7aab-8f96-152a4c6aac59",
+      "time": "2026-08-06 08:42:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "DALY: tariffs have had a clear impact on inf."
+    },
+    {
+      "id": "te:markets:573158",
+      "time": "2026-08-06 08:41:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Extend Rally to New Record — Australian shares continued their winning streak Thursday, climbing 59 points or 0.6% to a fresh high of 9,286 in early trade, buoyed by stronger U.S. futures despite Wall Street’s mixed overnight close as investors reassessed valuations following a sharp rebound in AI-linked stocks. Local sentiment was lifted by inflows at the start of the new financial year, while data showed private sector activity expanding at the fastest pace in six months, with services firming and factory orders rebounding. Gains were led by non-energy minerals, consumer names, healthcare, and utilities, offset by weakness in tech, commercial services, and energy minerals. Heavyweights BHP rose 1.1%, Evolution Mining surged 5.7%, Northern Star added 4.5%, and REA Group advanced 2.1%. The big four banks edged up between 0.3% and 0.5%. Traders now turn to trade figures due later today from Australia and from China on Friday, which could set the tone for the next leg of the rally."
+    },
+    {
+      "id": "5027666",
+      "time": "2026-08-06 08:41:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：關稅、能源、人工智慧衝擊導致通脹上升。"
+    },
     {
       "id": "5027665",
       "time": "2026-08-06 08:39:08",
