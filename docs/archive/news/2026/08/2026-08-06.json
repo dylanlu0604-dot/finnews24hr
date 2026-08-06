@@ -1,7 +1,19 @@
 {
   "date": "2026-08-06",
-  "count": 2298,
+  "count": 2299,
   "items": [
+    {
+      "id": "te:markets:573404",
+      "time": "2026-08-06 20:39:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Parker-Hannifin earnings above expectations at 9.27 USD — Parker-Hannifin (PH) released earnings per share at 9.27 USD, compared to market expectations of 8.27 USD."
+    },
     {
       "id": "5028964",
       "time": "2026-08-06 20:38:12",

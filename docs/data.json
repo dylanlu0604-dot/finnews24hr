@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-06 20:39:31",
-  "count": 16809,
+  "updated": "2026-08-06 20:43:43",
+  "count": 16791,
   "items": [
+    {
+      "id": "te:markets:573404",
+      "time": "2026-08-06 20:39:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Parker-Hannifin earnings above expectations at 9.27 USD — Parker-Hannifin (PH) released earnings per share at 9.27 USD, compared to market expectations of 8.27 USD."
+    },
     {
       "id": "5028964",
       "time": "2026-08-06 20:38:12",
@@ -153954,194 +153966,6 @@
         "MKT News"
       ],
       "text": "Bank of England deputy governor Lombardelli said firms are facing a severe environment."
-    },
-    {
-      "id": "5017097",
-      "time": "2026-07-30 20:43:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業銀錫：銀漫礦業採礦系統、選礦尾礦系統均已停產】興業銀錫(000426.SZ)公告稱，公司全資子公司銀漫礦業於7月26日發生一起安全事故，造成1人死亡。7月30日，銀漫礦業收到西烏旗應急局下發的《現場處理措施決定書》，要求銀漫礦業選礦尾礦系統同步停產。截至本公告披露時，銀漫礦業採礦系統、選礦尾礦系統均已停產。目前事故原因尚在調查，停產影響暫無法預估。"
-    },
-    {
-      "id": "5017096",
-      "time": "2026-07-30 20:43:11",
-      "tags": [
-        "央行",
-        "其他",
-        "焦點"
-      ],
-      "text": "英國央行行長貝利：尚無跡象表明貨幣政策委員會傾向加息。"
-    },
-    {
-      "id": "5017095",
-      "time": "2026-07-30 20:42:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：切勿離開這裡後就誤以為英國央行正逐步趨近加息。"
-    },
-    {
-      "id": "mkt:019fb30c-102e-7aab-8f13-7e0713d6c01c",
-      "time": "2026-07-30 20:42:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Fed-preferred PCE posts first monthly drop since 2020; risks remain】The Fed's preferred inflation gauge, the PCE price index, fell 0.1% MoM in June — the first monthly decline since 2020 — supporting the Fed's decision this week to hold rates unchanged. Headline PCE slowed to 3.7% YoY from 4.1%. Core PCE (excluding energy) rose 0.1% MoM, below expectations, and eased to 3.3% YoY from 3.4%. The June cooling was driven mainly by lower oil after a fragile US‑Iran temporary ceasefire opened space for peace talks. It remains unclear whether inflation will continue to retreat. The PCE gauge has stayed above the Fed's 2% target for the sixth consecutive year."
-    },
-    {
-      "id": "5017094",
-      "time": "2026-07-30 20:42:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【微軟考慮推出開放權重AI模型】微軟(MSFT.O)正考慮將部分自主研發的AI模型以開放權重形式提供。微軟AI執行長Mustafa Suleyman表示，隨著中國人工智慧模型在美國使用者中的受歡迎程度不斷提升，公司正評估這一可能性。這一舉措意味著，微軟的AI戰略可能出現調整，面對DeepSeek、月之暗面等中國AI開發商的競爭，微軟希望增強競爭力，同時減少對OpenAI的依賴。微軟也表示，計劃維持多模態戰略，允許客戶在更符合需求的情況下使用來自OpenAI或Anthropic的模型。"
-    },
-    {
-      "id": "te:economy:571262",
-      "time": "2026-07-30 20:42:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Personal Spending",
-        "Importance 1"
-      ],
-      "text": "US Consumer Spending Growth Slows in June — US personal spending increased by $65.2 billion, or 0.3%, in June 2026 from the previous month, slowing from an upwardly revised 0.9% gain in May, largely due to a sharp decline in gasoline spending as lower crude oil prices followed peace negotiations between the US and Iran. Goods spending rose $7.0 billion, as a $48.1 billion drop in spending on gasoline and other energy goods was partly offset by higher outlays on motor vehicles and parts (up $17.4 billion) and recreational goods and vehicles (up $13.8 billion). Meanwhile, services spending increased $58.2 billion, driven by health care (up $22.8 billion), financial services and insurance (up $14.0 billion), transportation services (up $7.1 billion), and recreation services (up $6.7 billion). Meanwhile, inflation-adjusted consumer spending advanced 0.4% in June, the same pace as in the previous period."
-    },
-    {
-      "id": "mkt:019fb30b-c890-7aab-8f13-715ce232aa88",
-      "time": "2026-07-30 20:42:01",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Kazakhstan's Energy Ministry said products refined from Russian crude may be sold on Kazakhstan's domestic market, with some possibly shipped back to Russia."
-    },
-    {
-      "id": "5017093",
-      "time": "2026-07-30 20:41:50",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行副行長隆巴代利：企業面臨經營環境嚴峻挑戰。"
-    },
-    {
-      "id": "5017092",
-      "time": "2026-07-30 20:41:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【GE Vernova美股盤前漲超5%】GE Vernova美股盤前漲超5%，現報946.5美元。"
-    },
-    {
-      "id": "5017091",
-      "time": "2026-07-30 20:41:12",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美股半導體板塊盤前漲幅擴大 ARM從低位拉昇近20%】美股半導體板塊盤前漲幅擴大，ARM漲幅擴大至11%，此前一度下跌近8%；泛林集團漲超12%，閃迪盤前上漲7.66%，西部資料盤前上漲7.13%，希捷科技盤前上漲6.72%，邁威爾科技盤前上漲5.79%，美國超微公司盤前上漲5.53%，美光科技盤前上漲5.29%，SK海力士盤前上漲4.67%，英特爾盤前上漲4.54%，阿斯麥盤前上漲4.35%，臺積電盤前上漲3.66%，博通盤前上漲2.47%，英偉達盤前上漲2.08%，高通的跌幅收窄至2.9%。"
-    },
-    {
-      "id": "5017090",
-      "time": "2026-07-30 20:41:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米澎程N90 Max後向全固態鐳射雷達由速騰聚創獨家供應】7月30日，小米汽車正式釋出SkyNomad小米澎程智慧可變大空間SUV。其中，大七座旗艦車型小米澎程N90 Max搭載由RoboSense速騰聚創獨家提供的後向全固態數字化鐳射雷達，成為小米汽車首款搭載後向固態鐳射雷達的量產車型。該雷達主要補充車尾近場及側後方三維感知資訊，可為車輛識別路沿、臺階、懸空及異形障礙物，以及側後方行人和車輛提供高精度點雲資料，並與攝像頭、超聲波雷達等感測器形成互補。速騰聚創基於自研晶片在全球率先實現車規級全固態鐳射雷達規模量產，此次搭載的後向鐳射雷達基於速騰聚創車規級E平臺打造。截至2026年4月，E平臺累計交付已突破30萬臺，重新整理全固態數字化鐳射雷達行業交付紀錄。"
-    },
-    {
-      "id": "mkt:019fb30a-bb55-7aab-8f13-68be29260b84",
-      "time": "2026-07-30 20:40:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Kazakhstan's Energy Ministry says it is negotiating with Russia to process Russian crude at Kazakh refineries."
-    },
-    {
-      "id": "mkt:019fb30a-91dd-7aab-8f13-6544fc6f3acd",
-      "time": "2026-07-30 20:40:42",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Deputy Governor Ramsden said interest rates remain the primary policy tool; quantitative tightening is a secondary tool."
-    },
-    {
-      "id": "5017089",
-      "time": "2026-07-30 20:40:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈薩克能源部：由俄羅斯原油煉製的成品油既可銷往哈薩克國內市場，也可運回俄羅斯。"
-    },
-    {
-      "id": "mkt:019fb30a-08c4-7aab-8f13-5f3c1932ee7e",
-      "time": "2026-07-30 20:40:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England Deputy Governor Ramsden said the impact of quantitative tightening (QT) is very limited compared with the broad rise in the government bond term premium."
-    },
-    {
-      "id": "5017088",
-      "time": "2026-07-30 20:39:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈薩克能源部：哈薩克正與俄羅斯就哈薩克煉油廠加工俄羅斯原油一事進行談判。"
-    },
-    {
-      "id": "5017087",
-      "time": "2026-07-30 20:39:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【矽業分會：下游需求疲軟 本週矽片價格繼續下跌】中國有色金屬工業協會矽業分會訊息，本週矽片價格繼續下跌。主要原因是，終端需求恢復不及預期，整個產業鏈需求傳導受限，供需錯配局面未有改善，行業庫存仍在繼續增加。展望後市，雖然矽片價格均已跌破企業生產成本，價格繼續下行空間不大，但是目前矽片市場仍面臨供需錯配的局面，市場整體氛圍較為低迷。若後續矽片供應沒有明顯縮減，短期內市場仍將以偏弱執行態勢為主。"
-    },
-    {
-      "id": "5017086",
-      "time": "2026-07-30 20:39:38",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國批准亞馬遜旗下 Zoox 部署無方向盤自動駕駛計程車。"
-    },
-    {
-      "id": "mkt:019fb309-9301-7aab-8f13-54cea92a441e",
-      "time": "2026-07-30 20:39:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Nikkei reports Microsoft plans to maintain a multimodal strategy, enabling customers to select OpenAI or ANTHROPIC models according to their needs."
     }
   ]
 }
