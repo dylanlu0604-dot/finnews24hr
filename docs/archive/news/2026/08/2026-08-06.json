@@ -1,7 +1,18 @@
 {
   "date": "2026-08-06",
-  "count": 1190,
+  "count": 1191,
   "items": [
+    {
+      "id": "mkt:019fd5c2-52b8-7aab-8f9b-1ee04c0eeb42",
+      "time": "2026-08-06 14:28:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Shipping transits through Strait of Hormuz, Bab al-Mandeb plunge】Kpler data showed ship traffic through the Strait of Hormuz and Bab al-Mandeb fell sharply on Wednesday. Two vessels transited the Strait of Hormuz on Wednesday, down from eight the prior day and well below pre-February levels of about 130–140 ships per day. Kpler recorded one vessel — a Bahamas‑flagged dry bulk — through Bab al-Mandeb on Wednesday, versus 20 the day before; the week before the July 20 Red Sea blockade averaged about 41 daily transits. Iran-aligned Houthi forces implemented the July 20 Red Sea blockade, saying it was in response to a Saudi blockade of Yemen; Saudi Arabia denied the claim."
+    },
     {
       "id": "5028102",
       "time": "2026-08-06 14:23:54",
