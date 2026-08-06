@@ -1,7 +1,160 @@
 {
-  "updated": "2026-08-06 21:32:56",
-  "count": 16760,
+  "updated": "2026-08-06 21:36:59",
+  "count": 16761,
   "items": [
+    {
+      "id": "5029085",
+      "time": "2026-08-06 21:36:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "AppLovin股價下跌17.1%，因第二季度營收不及預期。"
+    },
+    {
+      "id": "mkt:019fd749-c2ce-7aab-8fa2-c763968217cb",
+      "time": "2026-08-06 21:36:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Prime Minister Modi received a call from Israeli Prime Minister Netanyahu."
+    },
+    {
+      "id": "5029084",
+      "time": "2026-08-06 21:35:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "盛美半導體（SiTime）股價大漲21.1%，此前其二季度業績超出市場預期。"
+    },
+    {
+      "id": "te:markets:573416",
+      "time": "2026-08-06 21:35:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Dow Holds Record High, Nasdaq Falls — US stocks were mixed on Thursday as stability for traditional economic sectors weighed against volatility for the AI trade following fresh earnings results. The S&P 500 was flat for a second session, while the Dow inched higher for another record high. Treasury yields held the week's pullback, moving in tandem with energy prices to reflect softer concerns that the Federal Reserve will raise inters rates this year. Some relief in the macroeconomic backdrop coincided with robust earnings, with Eli Lilly holding yesterday's results-driven surge while J&J and Goldman Sachs gained around 1%. In turn, chip producers were sharply down to extend their volatile momentum, pressuring the Nasdaq 100 to a near 1% pullback. Western Digital plummeted 17% after posting a disappointing guidance. Similarly, Sandisk lost nearly 10% as its results failed to meet lofty expectations for memory producers. SpaceX fell up to 1% as $101 billion in its shares are will be free from their post-IPO lockup period."
+    },
+    {
+      "id": "5029083",
+      "time": "2026-08-06 21:35:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "Unity軟體股價因第二季度營收表現強勁上漲8.2%。"
+    },
+    {
+      "id": "5029082",
+      "time": "2026-08-06 21:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：財政政策會影響利率，但它並非唯一因素。"
+    },
+    {
+      "id": "5029081",
+      "time": "2026-08-06 21:35:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "RXO股價在公佈第二季度業績後下跌2.3%。"
+    },
+    {
+      "id": "5029080",
+      "time": "2026-08-06 21:35:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，中進醫療跌22.62%，優品車跌4.21%，金山雲跌4.08%，世紀互聯跌3.87%，禾賽科技跌3.52%。"
+    },
+    {
+      "id": "5029079",
+      "time": "2026-08-06 21:34:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "美客多公佈二季度財報後，紐約市場股價大跌 6.9%。"
+    },
+    {
+      "id": "5029078",
+      "time": "2026-08-06 21:34:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "D-Wave量子計算公司股價下跌8.8%，此前其第二季度營收未達市場預期。"
+    },
+    {
+      "id": "mkt:019fd748-015b-7aab-8fa2-b8acff243f2f",
+      "time": "2026-08-06 21:34:08",
+      "tags": [
+        "MKT News",
+        "DDOG.O",
+        "Impact bearish"
+      ],
+      "text": "Datadog (DDOG.O) fell 20%, the largest decline since August 2023."
+    },
+    {
+      "id": "5029077",
+      "time": "2026-08-06 21:33:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "應用軟體股在AppLovin未達營收預期後下跌，甲骨文下跌3.7%，賽富時下滑3.9%，ServiceNow下跌3.2%，奧多比下跌1.9%，財捷集團下跌2.9%。"
+    },
+    {
+      "id": "5029076",
+      "time": "2026-08-06 21:33:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "DATADOG股價下跌20%，創2023年8月以來最大跌幅。"
+    },
+    {
+      "id": "5029075",
+      "time": "2026-08-06 21:32:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "霍尼韋爾航空航天公司開盤下跌26%，創分拆以來最大跌幅。"
+    },
+    {
+      "id": "5029074",
+      "time": "2026-08-06 21:32:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "西部資料股價下跌20%，創2020年3月以來最大盤中跌幅。"
+    },
+    {
+      "id": "mkt:019fd746-7fb3-7aab-8fa2-b273c6e19b9e",
+      "time": "2026-08-06 21:32:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "At the open on Thursday, Aug 6, the Dow Jones Industrial Average rose 129.94 points (0.24%) to 54,479.06. The S&P 500 opened up 3.34 points (0.04%) at 7,726.76. The Nasdaq Composite opened down 103.47 points (0.39%) at 26,259.97."
+    },
+    {
+      "id": "5029073",
+      "time": "2026-08-06 21:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長杜裡甘：巴西面臨的挑戰是降低利率。"
+    },
     {
       "id": "5029072",
       "time": "2026-08-06 21:32:13",
@@ -153455,168 +153608,6 @@
         "國際"
       ],
       "text": "以色列國防軍稱連夜打擊加沙境內哈馬斯武器儲存點。"
-    },
-    {
-      "id": "mkt:019fb33d-f149-7aab-8f15-20219afc28e8",
-      "time": "2026-07-30 21:36:48",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "HSBC cuts Meta Platforms (META.O) price target to $830 from $905."
-    },
-    {
-      "id": "5017218",
-      "time": "2026-07-30 21:36:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲3%，現報1290.00美元/盎司。"
-    },
-    {
-      "id": "mkt:019fb33d-3847-7aab-8f15-1c710281dcfc",
-      "time": "2026-07-30 21:36:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) looks set to record its largest single-day percentage gain since March 2020, currently up 15%."
-    },
-    {
-      "id": "5017217",
-      "time": "2026-07-30 21:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將META目標價從905美元下調至830美元。"
-    },
-    {
-      "id": "5017216",
-      "time": "2026-07-30 21:35:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "KKR聯合執行長在電話會議上表示，預計第三方信貸融資今年將創下紀錄。"
-    },
-    {
-      "id": "5017215",
-      "time": "2026-07-30 21:35:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "火箭實驗室與客戶簽署三次電子火箭發射服務協議後，其股價上漲4.2%。"
-    },
-    {
-      "id": "mkt:019fb33c-8115-7aab-8f15-1478a06f7853",
-      "time": "2026-07-30 21:35:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "ARM.O",
-        "Impact bullish"
-      ],
-      "text": "Arm (ARM.O) shares rose about 12% after the company said it expects second-quarter revenue and adjusted profit to exceed expectations."
-    },
-    {
-      "id": "mkt:019fb33c-3b8a-7aab-8f15-09fce752e6ee",
-      "time": "2026-07-30 21:34:56",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Al Arabiya TV, citing the Gaza Peace Committee, reports talks with Hamas on disarmament are advancing; the proposed plan would include destroying tunnels and weapons stockpiles and removing Hamas from any administrative role in Gaza."
-    },
-    {
-      "id": "5017214",
-      "time": "2026-07-30 21:34:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價有望創下2020年3月以來最大單日百分比漲幅，最新上漲13.1%。"
-    },
-    {
-      "id": "5017213",
-      "time": "2026-07-30 21:34:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "恐慌指數VIX日內跌幅達10.0%，報18.56。"
-    },
-    {
-      "id": "5017212",
-      "time": "2026-07-30 21:33:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "泛林集團股價上漲19.4%，此前該公司公佈第一季度營收預期高於市場預估。"
-    },
-    {
-      "id": "mkt:019fb33b-1374-7aab-8f15-00f98eb6efda",
-      "time": "2026-07-30 21:33:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities opened higher on Thursday, July 30: Dow Jones Industrial Average up 347.32 pts (+0.67%) at 51,941.46; S&P 500 up 62.36 pts (+0.85%) at 7,378.76; Nasdaq Composite up 396.06 pts (+1.62%) at 24,839.00."
-    },
-    {
-      "id": "mkt:019fb33a-c8b2-7aab-8f14-f9bf39047bd3",
-      "time": "2026-07-30 21:33:21",
-      "tags": [
-        "MKT News",
-        "MA.N",
-        "Impact bullish"
-      ],
-      "text": "Mastercard (MA.N) shares rose 3% after second-quarter profit beat expectations."
-    },
-    {
-      "id": "5017211",
-      "time": "2026-07-30 21:33:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "費城半導體指數開盤上漲6.1%。"
-    },
-    {
-      "id": "5017210",
-      "time": "2026-07-30 21:33:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "星巴克股價上漲1.2%，此前該公司上調年度銷售額及利潤預測。"
-    },
-    {
-      "id": "mkt:019fb33a-874c-7aab-8f14-f33d4e330e7e",
-      "time": "2026-07-30 21:33:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "QCOM.O",
-        "Impact bearish"
-      ],
-      "text": "Qualcomm (QCOM.O) fell 4.2% after saying it expects Q4 profit to fall short of estimates and that revenue from Apple will decline at an accelerated pace."
     }
   ]
 }
