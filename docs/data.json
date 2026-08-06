@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-06 10:29:20",
-  "count": 17346,
+  "updated": "2026-08-06 10:33:16",
+  "count": 17345,
   "items": [
+    {
+      "id": "mkt:019fd4e9-c85e-7aab-8f99-2a1ca3811158",
+      "time": "2026-08-06 10:31:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Shanghai nickel futures main contract plunged, down nearly 2,000 points intraday and reversing from a gain to a loss, last at 129,320 yuan/ton. The move followed news Weda Bay Nickel was approved for an additional 25.0 mln wet-tonne RKAB nickel-ore quota, bringing WBN's total 2026 RKAB allocation to about 37.0 mln wet tonnes including approvals in 1H."
+    },
+    {
+      "id": "5027861",
+      "time": "2026-08-06 10:31:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報140950元/噸，較上日16:30價格持平。"
+    },
+    {
+      "id": "5027860",
+      "time": "2026-08-06 10:31:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本保險巨頭三井住友海上火災保險集團（MS&AD）將部署人工智慧影象檢測系統，打擊保險欺詐。"
+    },
+    {
+      "id": "5027859",
+      "time": "2026-08-06 10:31:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鎢概念持續走強，中鎢高新漲停】有色·鎢概念持續走強，中鎢高新漲停，翔鷺鎢業、廈門鎢業、章源鎢業、中稀有色、湖南黃金、美暢股份等跟漲。"
+    },
+    {
+      "id": "5027858",
+      "time": "2026-08-06 10:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創A股成交額超200億元，現漲2.98%。"
+    },
+    {
+      "id": "mkt:019fd4e8-e630-7aab-8f99-26e326370693",
+      "time": "2026-08-06 10:31:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Fitch forecasts Vietnam GDP growth of 6.8% this year and 6.7% in 2027."
+    },
+    {
+      "id": "5027857",
+      "time": "2026-08-06 10:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：Megapack 3 正式在德克薩斯州布魯克郡我們最新的 Megafactory 開始下線生產！ 該工廠僅用 16 個月就從破土動工到投入運營，設計產能為每年 50 GWh，專用於 Megapack 3。"
+    },
+    {
+      "id": "5027856",
+      "time": "2026-08-06 10:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Megapack 3 開始量產。祝賀特斯拉 Megapack 團隊！"
+    },
     {
       "id": "5027855",
       "time": "2026-08-06 10:28:21",
@@ -159671,89 +159742,6 @@
         "焦點"
       ],
       "text": "中證1000指數期貨連續主力合約日內跌2%，現報6906.00點。"
-    },
-    {
-      "id": "5015738",
-      "time": "2026-07-30 10:33:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報146050元/噸，較上日16:30價格上漲250元/噸。"
-    },
-    {
-      "id": "mkt:019fb0de-23e9-7aab-8f01-4abc7391a6a6",
-      "time": "2026-07-30 10:32:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell more than $1 intraday to $83.27/bbl."
-    },
-    {
-      "id": "5015737",
-      "time": "2026-07-30 10:32:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨<CLc1>下跌逾1美元，至每桶83.27美元。"
-    },
-    {
-      "id": "5015736",
-      "time": "2026-07-30 10:32:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲1.3%，東證指數跌0.3%。"
-    },
-    {
-      "id": "5015735",
-      "time": "2026-07-30 10:31:35",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【多城開展公積金貸款展期業務：可延長貸款期限、降低貸款月還款額】據微信公眾號“長春公積金”7月29日訊息，吉林省長春市住房公積金管理中心釋出《關於進一步最佳化住房公積金貸款服務的通知》，自8月1日起施行，借款人在公積金貸款發放滿6個月後，可向公積金中心申請辦理貸款展期。據不完全統計，近兩年來，湖北襄陽、江蘇泰州等至少42個城市陸續出臺了類似規定，但各地申請展期的門檻有差異，主要是申請時間門檻。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:570966",
-      "time": "2026-07-30 10:30:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Asian Tech Stocks Rebound — Technology-heavy indexes in Japan and South Korea advanced on Thursday as the selloff in semiconductor shares showed signs of easing, while investors also welcomed the Federal Reserve’s decision to leave interest rates unchanged. Samsung Electronics surged nearly 7% after reporting a more than 250-fold jump in profit, fueled by booming demand for artificial intelligence memory chips. SK Hynix also reversed earlier losses to trade more than 2% higher. Meanwhile, Chinese equities remained under pressure as investors awaited updates from the Politburo meeting in Beijing, where policymakers are expected to refrain from announcing major new stimulus measures and instead focus on implementing existing fiscal policies to support the slowing economy."
-    },
-    {
-      "id": "5015734",
-      "time": "2026-07-30 10:30:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內跌2%，現報4016.00元。"
-    },
-    {
-      "id": "5015733",
-      "time": "2026-07-30 10:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌2%，現報7285.60點。"
-    },
-    {
-      "id": "5015732",
-      "time": "2026-07-30 10:29:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美稱打擊伊朗革命衛隊數十個目標】當地時間7月29日，美軍中央司令部發布宣告說，美東時間7月29日晚10點，美軍中央司令部成功對伊朗實施了一輪大規模打擊，以回應此前伊朗對美軍的導彈襲擊企圖。美軍打擊了伊朗境內數十個伊朗伊斯蘭革命衛隊的目標，包括軍事指揮中心、導彈與無人機設施、海岸監視與防禦陣地以及海上作戰能力相關設施。此次打擊旨在進一步削弱伊朗及其代理人對美軍、商業航運及海灣鄰國構成的威脅。 美軍於美東時間7月29日20時開始對伊朗發動空襲，從而結束了美軍自7月24日開始的短暫停火。據伊朗伊斯蘭共和國通訊社今天（7月30日）報道，美軍當天凌晨襲擊了包括格什姆島、基什島在內的霍爾木茲甘省部分地區。（CCTV國際時訊）"
     }
   ]
 }

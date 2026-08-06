@@ -1,7 +1,78 @@
 {
   "date": "2026-08-06",
-  "count": 869,
+  "count": 877,
   "items": [
+    {
+      "id": "mkt:019fd4e9-c85e-7aab-8f99-2a1ca3811158",
+      "time": "2026-08-06 10:31:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Shanghai nickel futures main contract plunged, down nearly 2,000 points intraday and reversing from a gain to a loss, last at 129,320 yuan/ton. The move followed news Weda Bay Nickel was approved for an additional 25.0 mln wet-tonne RKAB nickel-ore quota, bringing WBN's total 2026 RKAB allocation to about 37.0 mln wet tonnes including approvals in 1H."
+    },
+    {
+      "id": "5027861",
+      "time": "2026-08-06 10:31:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報140950元/噸，較上日16:30價格持平。"
+    },
+    {
+      "id": "5027860",
+      "time": "2026-08-06 10:31:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本保險巨頭三井住友海上火災保險集團（MS&AD）將部署人工智慧影象檢測系統，打擊保險欺詐。"
+    },
+    {
+      "id": "5027859",
+      "time": "2026-08-06 10:31:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鎢概念持續走強，中鎢高新漲停】有色·鎢概念持續走強，中鎢高新漲停，翔鷺鎢業、廈門鎢業、章源鎢業、中稀有色、湖南黃金、美暢股份等跟漲。"
+    },
+    {
+      "id": "5027858",
+      "time": "2026-08-06 10:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "中際旭創A股成交額超200億元，現漲2.98%。"
+    },
+    {
+      "id": "mkt:019fd4e8-e630-7aab-8f99-26e326370693",
+      "time": "2026-08-06 10:31:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Fitch forecasts Vietnam GDP growth of 6.8% this year and 6.7% in 2027."
+    },
+    {
+      "id": "5027857",
+      "time": "2026-08-06 10:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：Megapack 3 正式在德克薩斯州布魯克郡我們最新的 Megafactory 開始下線生產！ 該工廠僅用 16 個月就從破土動工到投入運營，設計產能為每年 50 GWh，專用於 Megapack 3。"
+    },
+    {
+      "id": "5027856",
+      "time": "2026-08-06 10:29:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：Megapack 3 開始量產。祝賀特斯拉 Megapack 團隊！"
+    },
     {
       "id": "5027855",
       "time": "2026-08-06 10:28:21",
