@@ -1,7 +1,81 @@
 {
   "date": "2026-08-06",
-  "count": 1258,
+  "count": 1265,
   "items": [
+    {
+      "id": "mkt:019fd5db-3b4b-7aab-8f9b-9dfa924d3a19",
+      "time": "2026-08-06 14:55:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "【SoftBank Q1 profit beats as chip investment gains offset startup markdowns; OpenAI upside awaited】SoftBank Group reported first-quarter net profit fell 18% to JPY 347.3 bln ($2.2 bln), versus market expectations of about JPY 166.0 bln. Unrealized gains in its chip-related holdings largely offset valuation declines on startup assets. The Tokyo-based investor said it is still awaiting further returns from its OpenAI stake."
+    },
+    {
+      "id": "te:economy:573284",
+      "time": "2026-08-06 14:55:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Hungary Retail Sales Growth Slows to 7-Month Low — Retail sales in Hungary rose by 3.0% year-on-year in June 2026, easing from a 4.8% increase in the previous month. This reading marked the weakest growth since November 2025, as sales decreased in non-food products (5.1% vs 7.3% in May), including manufactured goods in non-specialized shops (3.9% vs 5.2%), furniture and electrical goods (5.1% vs 5.3%), pharmaceutical and medical goods and cosmetic articles (7.8% vs 9.2%), textile, clothing and footwear (0.2% vs 7.3%), mail-order and online sales (5.2 % vs 14.5%), and perfume (10.1% vs 13.9%). At the same time, automotive fuel sales declined sharply (-0.2% vs 8.2%), while food products moderated (1.8% vs 3.1%), weighed down by lower activity in non-specialized food and beverages (3.7% vs 4.6%). On a seasonally adjusted monthly basis, retail trade fell by 0.4% in June, following a 0.7% rise in the preceding period."
+    },
+    {
+      "id": "5028154",
+      "time": "2026-08-06 14:55:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將歐萊雅評級從“表現不佳”上調至“持有”，並將目標股價從328歐元上調至377歐元。"
+    },
+    {
+      "id": "5028153",
+      "time": "2026-08-06 14:54:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度入股日行跡智慧科技公司】天眼查App顯示，上海日行跡智慧科技有限公司發生工商變更，原股東孫天祥退出，新增百度時代網路技術（北京）有限公司為股東。該公司成立於2025年3月，法定代表人為孫天祥，註冊資本約199萬人民幣，經營範圍包括人工智慧基礎軟體開發、人工智慧應用軟體開發、計算機系統服務、資料處理服務等。"
+    },
+    {
+      "id": "mkt:019fd5d9-c40c-7aab-8f9b-922ce40af0fe",
+      "time": "2026-08-06 14:54:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SoftBank Group said the valuation of its OpenAI stake was unchanged as of end-March."
+    },
+    {
+      "id": "mkt:019fd5d9-9631-7aab-8f9b-8d4a52d67154",
+      "time": "2026-08-06 14:53:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T"
+      ],
+      "text": "SoftBank Group pledged OpenAI shares as collateral for a $10 billion loan agreement signed in August 2026."
+    },
+    {
+      "id": "mkt:019fd5d8-5813-7aab-8f9b-8446f6d7a583",
+      "time": "2026-08-06 14:52:33",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bullish"
+      ],
+      "text": "SoftBank Group reported first-quarter net profit of 347.33 bln yen versus an estimate of 165.83 bln. First-quarter net sales were 2.02 tln yen, versus an estimate of 1.97 tln."
+    },
     {
       "id": "5028152",
       "time": "2026-08-06 14:52:06",
