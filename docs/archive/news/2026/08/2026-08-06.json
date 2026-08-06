@@ -1,7 +1,193 @@
 {
   "date": "2026-08-06",
-  "count": 720,
+  "count": 739,
   "items": [
+    {
+      "id": "mkt:019fd4b5-1b7c-7aab-8f98-05c391c705b8",
+      "time": "2026-08-06 09:34:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Vance says talks with Iran will take time】U.S. Vice President Vance said on Aug. 5 that negotiations with Iran will be \"bumpy and time-consuming\" and that Iran is \"very difficult to deal with.\" He said the U.S. aim is to manage the complexities and secure the best outcome for the American people and the president. Vance added that, although the process will be messy and take time, \"oil prices will fall and remain low,\" \"Iran will never obtain nuclear weapons,\" and \"the U.S. will be in a stronger position.\" He said the parties are currently engaged in a strategic contest."
+    },
+    {
+      "id": "5027776",
+      "time": "2026-08-06 09:34:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4574.40點。"
+    },
+    {
+      "id": "mkt:019fd4b4-ea01-7aab-8f97-fd985a91b3dd",
+      "time": "2026-08-06 09:34:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext Index fell more than 2%, the Shenzhen Component Index dropped 1.4% and the Shanghai Composite fell 0.25%. More than 3,100 stocks declined across the market."
+    },
+    {
+      "id": "te:economy:573175",
+      "time": "2026-08-06 09:34:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Australia Imports Inch Lower — Australia’s goods imports edged down 0.2% month-over-month to AUD 46.76 billion in June 2026, reversing a downwardly revised 0.9% growth in the prior month amid softening domestic demand."
+    },
+    {
+      "id": "5027775",
+      "time": "2026-08-06 09:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯稱與伊朗談判將需要一些時間】當地時間8月5日晚，據美國媒體報道，美國副總統萬斯當天表示，與伊朗的談判過程將“充滿波折且耗時”，並指出伊朗“極難打交道”。萬斯稱：“我們的任務是應對這些複雜局面，為美國人民，同時也為美國總統爭取最佳結果。至於最終的結局——儘管過程會很混亂也需要時間，但油價將會下降並保持低位，伊朗將永遠無法擁有核武器，而美國將處於更有利的地位。”萬斯稱，目前他們正處於博弈之中。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5027774",
+      "time": "2026-08-06 09:33:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.86%，成分股中，佰維儲存跌5.03%，瀾起科技跌3.36%，源傑科技跌3.26%，寒武紀跌2.62%。"
+    },
+    {
+      "id": "mkt:019fd4b3-b43f-7aab-8f97-f0e0d256f76e",
+      "time": "2026-08-06 09:32:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Tongyu Communications briefly hit the daily trading limit after reports that Jiaxian Communications is participating in NVIDIA's 6G AI-RAN base station R&D and that Tongyu plans to invest 300 million yuan to acquire a 25% equity stake."
+    },
+    {
+      "id": "5027773",
+      "time": "2026-08-06 09:32:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "通宇通訊短線拉昇漲停，訊息面上，佳賢通訊參與英偉達6G AI-RAN基站研發，通宇通訊擬以3億元入股25%股權。"
+    },
+    {
+      "id": "5027772",
+      "time": "2026-08-06 09:32:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3464.289點；上證指數跌0.19%，現報3871.086點；深證成指跌1.18%，現報13977.615點。"
+    },
+    {
+      "id": "5027771",
+      "time": "2026-08-06 09:32:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【小金屬板塊盤初走強，雲南鍺業漲停】小金屬板塊盤初走強，雲南鍺業漲停，中鎢高新、翔鷺鎢業、浩通科技、華陽新材、章源鎢業、東方鉭業等跟漲。"
+    },
+    {
+      "id": "5027770",
+      "time": "2026-08-06 09:32:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【創新藥概念盤初活躍 百花醫藥3連板】早盤創新藥概念延續此前強勢，百花醫藥3連板，榮昌生物、睿智醫藥、萬邦醫藥、百濟神州、新贛江、三元基因漲幅靠前。"
+    },
+    {
+      "id": "te:markets:573174",
+      "time": "2026-08-06 09:32:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Losses on Hormuz Deal — The dollar index hovered around 99.6 on Thursday, remaining close to a seven-week low as the agreement to partially reopen the Strait of Hormuz weighed on oil prices, easing inflation pressures and diminishing expectations for more aggressive Federal Reserve tightening. Iran and Oman agreed to establish a shipping corridor through the strait, strengthening hopes for improved energy supplies from the Middle East. Investors have since reduced their expectations for Fed rate hikes this year, now anticipating only one increase by year-end, compared with two as recently as last week. Meanwhile, ADP data showed the US economy created just 44,000 private-sector jobs in July, marking the weakest monthly gain since January and falling well short of forecasts for 70,000. Separately, Fed Governor Lisa Cook said that she is willing to raise rates if inflation fails to moderate, cautioning that the central bank may have limited scope to delay action before returning inflation to its 2% target."
+    },
+    {
+      "id": "5027769",
+      "time": "2026-08-06 09:32:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊盤初走強，北京文化漲停】影視院線板塊盤初走強，北京文化漲停，儒意電影、博納影業、中國電影、ST華誼、華智數媒、中南文化等跟漲。"
+    },
+    {
+      "id": "5027768",
+      "time": "2026-08-06 09:31:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞第二副財長：馬來西亞第二季度經濟增長“應該沒問題”。"
+    },
+    {
+      "id": "mkt:019fd4b2-3dbd-7aab-8f97-edbfe10cfcd9",
+      "time": "2026-08-06 09:31:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "300308.SZ",
+        "Impact bearish",
+        "002475.SZ"
+      ],
+      "text": "China A-share CPO sector slipped; Lianxun Instruments fell more than 5%, Ruijie Networks, Zhongji Xuchuang and Guoci Materials dropped over 4%, Guangku Technology and Luxshare Precision also declined."
+    },
+    {
+      "id": "mkt:019fd4b2-35dc-7aab-8f97-e672df27cc8c",
+      "time": "2026-08-06 09:31:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) main contract up 0.01%, 5-year (TF) up 0.02%, 10-year (T) unchanged, 30-year (TL) up 0.03%."
+    },
+    {
+      "id": "mkt:019fd4b2-2c4b-7aab-8f97-dda2df57a407",
+      "time": "2026-08-06 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China stock index futures open lower in morning trade】CSI 300 index futures (IF) main contract down 0.66%; SSE 50 index futures (IH) main contract down 0.27%; CSI 500 index futures (IC) main contract down 0.77%; CSI 1000 index futures (IM) main contract down 0.63% at the morning open."
+    },
+    {
+      "id": "5027767",
+      "time": "2026-08-06 09:31:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【佳賢通訊參與英偉達6G AI-RAN基站研發，通宇通訊擬以3億元入股25%股權】記者從通訊產業鏈核心人士處獲悉，英偉達正在加速進入電信運營商市場，並在中國尋找基站廠商合作方，開發符合海外市場要求的6G基站。該人士形容，英偉達在找端側算力的“下一個中際旭創”，因為英偉達認為，算力接下來要從資料中心傳輸到海量的AI終端和使用者，最終需要依賴基站的無線傳輸。上述人士稱，英偉達推動這一專案的節奏“比較緊迫”，希望在2027或2028年進入試驗網。記者同時獲悉，深圳佳賢通訊正參與英偉達6G AI-RAN基站合作開發。佳賢通訊內部人士向介面新聞記者確認，雙方自2025年開始接觸，目前正基於英偉達CUDA生態開展6G AI-RAN基站研發合作，雙方合作已持續半年多。（介面新聞）"
+    },
+    {
+      "id": "5027766",
+      "time": "2026-08-06 09:30:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤持平。N曙26轉、久吾轉02、江農轉債、金25轉債、微芯轉債漲幅居前，分別漲30.00%、12.84%、8.07%、6.45%、4.61%。應流轉債、珂瑪轉債、路維轉債、聯瑞轉債、XD微導轉跌幅居前，分別跌6.16%、2.75%、2.55%、2.26%、2.13%。"
+    },
     {
       "id": "5027765",
       "time": "2026-08-06 09:30:26",
