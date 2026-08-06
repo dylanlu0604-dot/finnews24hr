@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-06 22:21:05",
-  "count": 16716,
+  "updated": "2026-08-06 22:25:04",
+  "count": 16712,
   "items": [
+    {
+      "id": "mkt:019fd774-57ff-7aab-8fa3-3a5b6802c1db",
+      "time": "2026-08-06 22:22:33",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) shares rose more than 5%, hitting an intraday high."
+    },
+    {
+      "id": "5029161",
+      "time": "2026-08-06 22:22:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創源股份：公司目前並未自建算力中心】創源股份(300703)8月6日在互動平臺回覆稱，公司目前並未自建算力中心，更多聚焦於算力資源的應用，透過與外部算力服務商合作，積極建設AIGC技術平臺。目前AIGC技術平臺對公司業績不產生直接影響。"
+    },
+    {
+      "id": "5029160",
+      "time": "2026-08-06 22:21:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價上漲逾5％，創盤中新高。"
+    },
+    {
+      "id": "5029159",
+      "time": "2026-08-06 22:21:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英國多地鐵路因電力故障出現大面積延誤】當地時間6日，英國國家鐵路公司表示，由於一處通訊中心發生電力故障，英格蘭中部和北部地區鐵路運輸出現大面積延誤，受波及區域包括大曼徹斯特等地。該公司表示，相關地區部分列車將停運、延誤或重新安排車次，預計此次鐵路運輸中斷將至少持續至當天結束。（央視新聞）"
+    },
     {
       "id": "mkt:019fd772-20e4-7aab-8fa3-33bf05a59c6a",
       "time": "2026-08-06 22:20:08",
@@ -153082,91 +153116,6 @@
         "市場"
       ],
       "text": "【德國7月通脹率升至2.8% 能源價格大幅上漲】德國聯邦統計局30日公佈的初步資料顯示，由於政府臨時燃油稅減免措施到期，德國7月能源價格再次大幅上漲，推動當月通脹率升至2.8%，明顯高於6月的2.3%。德國聯邦統計局表示，7月德國能源價格同比上漲8.3%，漲幅高於5月的6.6%和6月的3.4%。分析人士指出，能源價格再次明顯上漲與政府臨時燃油稅減免措施到期有關。自5月1日起，德國汽油和柴油稅每升下調約17歐分，為期兩個月。該措施在一定程度上抑制燃油價格上漲。德國經濟專家委員會此前釋出春季經濟預測報告指出，受能源價格上漲影響，德國今明兩年通脹率預計分別為3%和2.8%，均明顯高於去年2.2%的水平。（新華社）"
-    },
-    {
-      "id": "5017316",
-      "time": "2026-07-30 22:24:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【主力資金連續5日淨流入103股】據資料寶，截至7月30日收盤，深滬北共103只個股連續5日或5日以上主力資金淨流入。賽恩斯連續12日主力資金淨流入，排名第一；邁拓股份連續11日主力資金淨流入，位列第二。從主力資金淨流入總規模來看，芯源微主力資金淨流入金額最大，連續5天累計淨流入5.00億元，宏橋控股緊隨其後，7天累計淨流入4.81億元。從主力資金淨流入佔成交額的比例來看，愛麗家居佔比排名居首，該股近9日上漲98.74%。"
-    },
-    {
-      "id": "mkt:019fb369-e502-7aab-8f16-7ead02148e4f",
-      "time": "2026-07-30 22:24:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "Italy's FTSE MIB index climbed above 52,000 points, rising more than 1% intraday."
-    },
-    {
-      "id": "5017315",
-      "time": "2026-07-30 22:24:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "XCEL能源預計，在基礎五年資本計劃之外，將有超過100億美元的增量投資。"
-    },
-    {
-      "id": "5017314",
-      "time": "2026-07-30 22:23:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新新三樣擦亮中國出口新名片 中國AI硬科技多點開花】央視財經訊息，今年以來，從算力傳輸硬體到儲存晶片，從大模型開源創新到實體經濟深度落地，我國人工智慧與硬科技多點開花。一批關鍵技術和產品躋身全球第一梯隊，越來越多“中國智造”走向國際市場，在全球AI產業格局中佔據重要一席。上半年，我國電子元件、電腦零部件等產品出口均兩位數增長，合計拉動出口增長6.9個百分點；與AI技術深度融合的智慧仿生機器人出口超萬臺，遍及全球90多個國家和地區。上半年，機器人、人工智慧、創新藥等代表未來產業方向的“新新三樣”出口增速明顯，正在成為中國出口的新名片。"
-    },
-    {
-      "id": "mkt:019fb367-1a71-7aab-8f16-71ea4ec2f43a",
-      "time": "2026-07-30 22:21:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed will achieve price stability and has no soft-inf target."
-    },
-    {
-      "id": "5017312",
-      "time": "2026-07-30 22:21:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元上漲3.2%，至158.26，創2024年8月以來最高水平。"
-    },
-    {
-      "id": "mkt:019fb366-b27d-7aab-8f16-6c80b955bb2d",
-      "time": "2026-07-30 22:21:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "【UK short-dated gilts surge; market sharply cuts September rate-hike odds】Short-dated UK gilts rallied after the Bank of England left rates unchanged and said domestic inflationary pressures are easing. The two-year gilt yield fell 11 bps to 4.34%, the largest one-day drop since June 12. Governor Bailey said he did not want attendees to leave the press conference with the impression the committee is progressively moving toward tightening; gilts extended gains after the remark. Money markets now price about 32 bps of cumulative BoE hikes by year-end, down from roughly 38 bps before the decision, and the probability of a September hike fell from near 60% to below 40%. Aberdeen Asset Management portfolio manager James Lynch said the threshold for a BoE hike is very high and he expects rates to remain on hold for the rest of the year."
-    },
-    {
-      "id": "mkt:019fb366-82b5-7aab-8f16-65ce1c47fab0",
-      "time": "2026-07-30 22:21:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the economy has shown impressive resilience."
     }
   ]
 }
