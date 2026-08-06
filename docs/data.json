@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-06 08:09:26",
-  "count": 17433,
+  "updated": "2026-08-06 08:13:14",
+  "count": 17418,
   "items": [
+    {
+      "id": "5027632",
+      "time": "2026-08-06 08:11:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【證券日報：讀懂再提“穩定房地產市場”的背後邏輯】7月30日召開的中共中央政治局會議強調，“穩定房地產市場”，並將該表述置於“切實築牢安全屏障”的框架下。 這一細微變化，折射出房地產的定位已從重點領域風險防範升級到安全維度。在筆者看來，將房地產穩定納入“安全屏障”框架，既是防風險邏輯的自然延伸，也是穩增長、促消費的現實需要。 下半年政策如何發力？三個方向尤為關鍵。 方向一，打通“賣舊買新”鏈條。從宏觀環境看，會議明確“實施好更加積極的財政政策和適度寬鬆的貨幣政策”，並要求“及時謀劃出臺務實管用的增量政策”。接下來，專項債發行加快、房貸利率下行以及增量政策儲備，有望形成合力；降準降息、房貸貼息、一線城市限購放鬆等增量政策有望出臺。在宏觀政策發力之外，各地打通一二手房置換鏈條堵點同樣關鍵。方向二，持續推進房企債務風險化解。從施策手段上看，未來應繼續用好專項紓困資金、房地產融資協調機制等工具，確保已售專案按期交付。同時，各地需合理滿足優質企業開發貸和併購貸需求，有序化解房企存量債務風險。方向三，積極探索新發展模式。近期，廣州等地推進現房銷售改革等創新實踐，有望為行業從傳統模式向“高質量、優服務”轉型提供路徑參考。同時，行業正告別大規模新建商品房的舊週期，但保障性住房建設、城市更新、存量盤活等領域仍有較大空間。在這些領域推進新模式，有助於構建“市場+保障”雙軌並行的住房新格局。"
+    },
+    {
+      "id": "mkt:019fd468-bff7-7aab-8f95-b9889a4a0a43",
+      "time": "2026-08-06 08:11:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Researchers confirm existence of new particle \"glueball\"】The Institute of High Energy Physics at the Chinese Academy of Sciences said a China-led team in the Beijing Spectrometer III (BESIII) international collaboration has, after 15 years of experiments, provided the first experimental confirmation of a new form of matter: the glueball. The Standard Model predicts glueballs as bound states of gluons arising from attractive gluon self-interaction; such particles had not previously been observed experimentally."
+    },
+    {
+      "id": "mkt:019fd468-b49d-7aab-8f95-b3fdc125485d",
+      "time": "2026-08-06 08:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 opened Thursday, Aug 6, up 51.70 points (0.56%) at 9,279.50."
+    },
+    {
+      "id": "te:economy:573150",
+      "time": "2026-08-06 08:09:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Services Sector Growth Hits 8-Month High — The AIB Ireland Services PMI climbed to 55.2 in July 2026 from June's 54.2, marking the highest reading since November 2025. The acceleration in services activity was supported by a solid increase in new business, boosted by overseas demand. Technology, media & telecoms remained the fastest-growing sector, recording its strongest expansion in nearly three years. New business inflows rose solidly, albeit at a slightly softer pace than in June."
+    },
     {
       "id": "5027631",
       "time": "2026-08-06 08:08:54",
@@ -160278,204 +160314,6 @@
         "公司"
       ],
       "text": "【星空科技啟動新一輪融資 投前估值40.5億元】半導體裝置公司星空科技正在尋求規模數億元的新一輪融資，投前估值約為40.5億元。此前，星空科技曾於2025年3月21日完成3億元戰略融資，由浦東科創集團及海望資本領投，騰訊、國投（廣東）科技成果轉化創業投資基金、三七互娛旗下基金等跟投。此輪融資主要用於2.5D/3D封裝測試裝置的研發以及關鍵裝置的量產交付。"
-    },
-    {
-      "id": "mkt:019fb05e-2afb-7aab-8efc-4d8c60a45eda",
-      "time": "2026-07-30 08:13:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil fell 1.00% intraday to $82.75/bbl."
-    },
-    {
-      "id": "5015448",
-      "time": "2026-07-30 08:12:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數收復稍早失地，轉為上漲0.4%。"
-    },
-    {
-      "id": "5015447",
-      "time": "2026-07-30 08:12:43",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數轉漲。"
-    },
-    {
-      "id": "5015446",
-      "time": "2026-07-30 08:12:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：8月電池排產環比增長 看好本輪鋰電漲價週期】華泰證券研報指出，鑫欏鋰電釋出鋰電產業鏈8月預排產資料，樣本企業中電池8月排產198.8GWh，環比+8.9%，正極合計24.4萬噸，環比+3.5%，負極21.4萬噸，環比+4.9%，隔膜22.3億平，環比+0.9%，電解液14.1萬噸，環比+5.6%，旺季效應持續。國內外儲能需求維持強勁，全球汽車電動化持續加速，疊加年底出口退稅搶出口+儲能併網旺季，預計下半年排產有望加速提升。研報看好本輪鋰電漲價週期，同時看好鈉電池從1到N產業趨勢，固態電池新技術產業化。"
-    },
-    {
-      "id": "mkt:019fb05d-1957-7aab-8efc-425303c834f3",
-      "time": "2026-07-30 08:11:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI regained upward momentum, rising 1.00% intraday with an intraday trading range near 3%."
-    },
-    {
-      "id": "te:markets:570910",
-      "time": "2026-07-30 08:11:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "BASF earnings above expectations at 1.28 EUR — BASF (BAS) released earnings per share at 1.28 EUR, compared to market expectations of 0.81 EUR."
-    },
-    {
-      "id": "te:markets:570909",
-      "time": "2026-07-30 08:11:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Carvana earnings above expectations at 0.40 USD — Carvana (CVNA) released earnings per share at 0.40 USD, compared to market expectations of 0.386 USD."
-    },
-    {
-      "id": "te:markets:570908",
-      "time": "2026-07-30 08:11:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Airbus earnings above expectations at 2.06 EUR — Airbus (AIR) released earnings per share at 2.06 EUR, compared to market expectations of 1.46 EUR."
-    },
-    {
-      "id": "te:markets:570906",
-      "time": "2026-07-30 08:11:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Hitachi earnings above expectations at 42.24 JPY — Hitachi (6501) released earnings per share at 42.24 JPY, compared to market expectations of 37.47 JPY."
-    },
-    {
-      "id": "5015445",
-      "time": "2026-07-30 08:11:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至1%】韓國綜指漲幅擴大至1%，現報5725.74點。個股方面，三星電子漲超2%。"
-    },
-    {
-      "id": "5015444",
-      "time": "2026-07-30 08:11:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英特爾罕見向陳立武共同投資人的初創公司開放晶片技術】據訊息人士和路透查閱的檔案顯示，英特爾已允許一家初創公司使用其部分處理器技術，這對這家美國晶片製造商而言是一次罕見之舉。英特爾執行長陳立武與該初創公司的負責人是長期共同投資人。根據特拉華州公司註冊檔案，這家名為RosaicLabs Inc.的初創公司於5月提交了首次註冊檔案。媒體未能找到該公司的官網或LinkedIn上的相關資料，這種情況在處於保密運營階段的早期晶片初創公司中較為常見。根據7月份更新的備案檔案，Rosaic執行長為Amarjit Gill。Gill是一位經驗豐富的風險投資人和晶片行業高管，曾協助陳立武為另一家晶片公司Rivos組建創始團隊。Meta 去年擊敗英特爾收購了Rivos，而陳立武當時擔任Rivos的董事長。"
-    },
-    {
-      "id": "mkt:019fb05b-b300-7aab-8efc-3fbc27f80589",
-      "time": "2026-07-30 08:10:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 index opened down 22.5 points (-0.25%) at 9,016.10 on Thursday, July 30."
-    },
-    {
-      "id": "5015443",
-      "time": "2026-07-30 08:10:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子：預計2026年下半年以伺服器為中心的需求將保持強勁】7月30日，據報道，三星電子預計2026年下半年，隨著人工智慧基礎設施資本支出的持續投入以及代理式人工智慧的廣泛應用，以伺服器為中心的需求將保持強勁。與此同時，伺服器DRAM、企業級固態硬碟（eSSD）和高頻寬記憶體（HBM）的需求增長預計將加速。該公司表示，儘管移動裝置和PC市場的需求將有所放緩，但整體市場預計仍將保持供不應求的狀態。"
-    },
-    {
-      "id": "5015442",
-      "time": "2026-07-30 08:09:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "野村控股公佈第一季度財報後，股價一度下跌6.8%。"
-    },
-    {
-      "id": "5015441",
-      "time": "2026-07-30 08:09:40",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本騰龍股票未交易，預計上漲；公司收到索尼的收購要約。"
-    },
-    {
-      "id": "te:markets:570905",
-      "time": "2026-07-30 08:09:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Agnico Eagle Mines earnings below expectations at 4.30 USD — Agnico Eagle Mines (AEM) released earnings per share at 4.30 USD, compared to market expectations of 4.46 USD."
-    },
-    {
-      "id": "te:markets:570904",
-      "time": "2026-07-30 08:09:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Qualcomm earnings below expectations at 2.21 USD — Qualcomm (QCOM) released earnings per share at 2.21 USD, compared to market expectations of 2.23 USD."
-    },
-    {
-      "id": "mkt:019fb05a-f066-7aab-8efc-3433b1ce8a0c",
-      "time": "2026-07-30 08:09:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【China International Capital Co: Wosh seeks to \"outsource\" some tightening, may prompt markets to price Fed \"too late\" risk】China International Capital Co said the Fed left rates unchanged at its July meeting but internal hawks strengthened, with three voting members favoring a 25bp hike. The note highlighted a policy shift: Wosh sought to reduce direct intervention and rely more on market-driven rate increases, effectively \"outsourcing\" part of the tightening process to markets. With inflation still above target, CICC warned this could erode confidence in Fed credibility. After the meeting long-end U.S. Treasury yields jumped and the curve steepened, signalling investors are starting to price higher long-term inflation and policy risk. CICC said if employment or inflation data surprise to the upside, markets will likely raise odds of a September hike and may start pricing a risk that the Fed acts \"too late,\" which would push long rates higher and increase downside pressure on risk assets."
-    },
-    {
-      "id": "te:markets:570903",
-      "time": "2026-07-30 08:09:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Advantest earnings above expectations at 241.27 JPY — Advantest (6857) released earnings per share at 241.27 JPY, compared to market expectations of 163.44 JPY."
     }
   ]
 }
