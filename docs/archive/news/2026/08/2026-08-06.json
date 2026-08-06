@@ -1,7 +1,73 @@
 {
   "date": "2026-08-06",
-  "count": 2142,
+  "count": 2150,
   "items": [
+    {
+      "id": "5028854",
+      "time": "2026-08-06 19:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普否認美國彈藥短缺 稱將嚴懲“爆料者”】美國總統特朗普6日在社交媒體發帖否認美國存在彈藥短缺問題，稱該國“擁有海量的軍火彈藥”。他還稱將追查並嚴懲“爆料者”。特朗普在帖文中稱，美國“擁有海量的軍火彈藥，尤其是某些特定種類”。他還寫道：“此外，大量彈藥正在根據需要被製造並運往美國；國防企業正在建設美國歷史上數量最多的生產設施與工廠。”他還在帖文中稱：“這些叛國言論的‘爆料者’正在被追查。將尋求判他們長期監禁!”（新華社）"
+    },
+    {
+      "id": "5028853",
+      "time": "2026-08-06 19:46:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX美股盤前漲超4%】SpaceX美股盤前漲超4%，現報112.68美元。"
+    },
+    {
+      "id": "5028852",
+      "time": "2026-08-06 19:45:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "網易(09999.HK)：將於2026年8月20日舉行董事會會議，並將於會上批准公司截至2026年6月30日止第二季度和上半年的未經稽核業績及公告。"
+    },
+    {
+      "id": "5028851",
+      "time": "2026-08-06 19:44:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多瑙河流量降至40多年來最低 羅馬尼亞能源供應承壓】受持續高溫乾旱影響，多瑙河水位和流量持續下降。當地時間8月6日，羅馬尼亞水務部門資料顯示，多瑙河在羅馬尼亞入境河段流量約為每秒1400立方米，降至1985年以來的最低水平，僅約為往年8月平均流量的三分之一。多瑙河水流量持續下降給羅馬尼亞能源供應帶來壓力。位於多瑙河畔的切爾納沃德核電站兩座反應堆依靠河水進行冷卻，由於水位過低，羅方已於當地時間7月28日起停運該核電站的1號反應堆。為儘可能延長2號反應堆執行時間，羅馬尼亞有關部門計劃將4艘裝載岩石的駁船沉入河中，形成臨時阻擋結構，將更多河水引向核電站取水區域。核電站方面表示，如果水位繼續下降且相關工程措施無法發揮作用，另一座反應堆可能在未來五至六天內停運。該核電站為羅馬尼亞唯一核電站，其兩座核反應堆原本供應該國大約20%電力。與此同時，羅馬尼亞能源部呼籲居民、企業和公共機構在8月31日前自願減少用電，以緩解電力供應壓力。羅馬尼亞能源部表示，受嚴重乾旱和多瑙河流量大幅下降影響，羅馬尼亞目前正面臨能源供應壓力。除核電受到影響外，水電供應同樣受到低水位制約。由於鄰國部分地區也面臨類似情況，電力進口也受到限制。（央視新聞）"
+    },
+    {
+      "id": "5028850",
+      "time": "2026-08-06 19:44:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江求眉：擬3.15億元現金收購安徽尤品45%股權】浙江求眉公告稱，公司擬以現金方式受讓南京尤品科技等股東持有的安徽尤品45%股權，交易作價不高於3.15億元。交易完成後，公司將取得安徽尤品控制權。收購款分五期支付，若業績不達標，公司有權要求回購股權。此外，南京尤品科技將6%表決權委託給公司。協議還對業績承諾、盡職調查、排他期等事項作出約定。協議需經雙方董事會、股東會審議透過後生效。"
+    },
+    {
+      "id": "5028849",
+      "time": "2026-08-06 19:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：我主持召開會議，研討本國彈道導彈能力建設以及 “弗雷婭” 反導計劃的推進落實情況。歐洲需要共建一套真正大規模的防禦體系，有效抵禦各類彈道導彈威脅。"
+    },
+    {
+      "id": "mkt:019fd6e2-d401-7aab-8fa0-f1cc8a14341a",
+      "time": "2026-08-06 19:43:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Cheap models don't guarantee cheap tasks — AI costs need recalculation】Per Artificial Analysis, DeepSeek V4 Flash scored 50 on its intelligence index, ranking 3rd of 101 models and about twice the median among open-weight models. Output speed is ~104 tokens/sec; input and output pricing are $0.14 and $0.28 per mln tokens. The report says competition is shifting from peak performance to cost-per-completed-task. Low price, open weights and mln-token context position DeepSeek for batch search, coding assistance and multi-agent calls, and will pressure high-priced closed models to defend premiums via reliability, ecosystem and enterprise services. Caveats: DeepSeek generated ~210 mln tokens during the review—roughly double the peer median—suggesting verbose inference, and benchmarks do not fully capture complex-task success rates; a low token price may not translate into proportional cost savings for all real workloads."
+    },
+    {
+      "id": "5028848",
+      "time": "2026-08-06 19:42:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙邊完層：擬4.05億元現金收購昆吾半導體45%股權】浙邊完層公告稱，公司擬以現金方式受讓錕罡（江西）科技等三家公司持有的昆吾半導體科技（江西）有限公司45%股權，交易作價不高於4.05億元。交易完成後，公司將取得標的公司控制權。轉讓款分五期支付，業績承諾方需對2026 - 2028年淨利潤作出承諾，若未達業績要求，需進行補償或回購股權。本意向協議需經雙方董事會/股東會審議透過後生效。"
+    },
     {
       "id": "5028847",
       "time": "2026-08-06 19:42:26",
