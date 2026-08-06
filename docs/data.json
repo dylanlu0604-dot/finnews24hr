@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-06 15:09:24",
-  "count": 17217,
+  "updated": "2026-08-06 15:13:19",
+  "count": 17212,
   "items": [
+    {
+      "id": "5028189",
+      "time": "2026-08-06 15:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【微盤指數反彈超15%，相關主題基金“逆襲”】近期，各大指數波動加劇，微盤股卻走出了一波獨立行情。自7月22日見底以來，該指數累計反彈超15%，相關ETF產品份額激增近120%，資金淨流入近70億元，同時，微盤策略主題基金也開始“逆襲”回血。"
+    },
+    {
+      "id": "5028188",
+      "time": "2026-08-06 15:12:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京今夏第8個高溫日達成，明日立秋北京高溫不減】據氣象部門介紹，今天（8月6日）中午，代表“北京溫度”的北京市觀象臺氣溫達35.1℃，超過35℃的高溫線，今夏北京又增加了一個高溫日。 北京各地的氣溫並不均勻。今天13時，全市最高氣溫出現在密雲區醜山子站，為39.5℃ 。與此同時，北京的最低氣溫出現在小海陀站，為19.7℃。 今夏北京已出現8個高溫日，分別為5月30日、7月3日、7月15日、8月1日、8月2日、8月3日、8月5日和8月6日。8月以來，北京已出現5個高溫日。 （新京報）"
+    },
+    {
+      "id": "5028187",
+      "time": "2026-08-06 15:11:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "萊茵金屬股價釋出財報後上漲2%。"
+    },
+    {
+      "id": "5028186",
+      "time": "2026-08-06 15:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯邦快遞：聯邦快遞擴大與日本郵政的合作，為日本客戶提供更多全球運輸選擇。"
+    },
+    {
+      "id": "mkt:019fd5e9-211f-7aab-8f9c-3ce7f77d0989",
+      "time": "2026-08-06 15:10:53",
+      "tags": [
+        "MKT News",
+        "FDX.O",
+        "Impact bullish"
+      ],
+      "text": "FedEx expands cooperation with Japan Post to broaden global shipping options for Japanese customers."
+    },
+    {
+      "id": "5028185",
+      "time": "2026-08-06 15:10:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【福建海事局啟動防颱風三級應急響應 沿海70個水工專案停工】隨著颱風“白海豚”靠近，福建海事局於8月5日20時啟動防颱風三級應急響應，重點加強寧德、福州海域船舶防禦颱風工作。針對受颱風影響海域，加快引導在港船舶向南疏散，不再安排大型船舶、危險品船舶進港作業，停止船舶試航、拖帶、科考等海上活動。（央視新聞）"
+    },
+    {
+      "id": "5028184",
+      "time": "2026-08-06 15:09:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：培育民爆行業人工智慧應用服務商，提供一批專用智慧化產品和解決方案】工業和資訊化部印發《民用爆炸物品行業安全發展“十五五”規劃》提出，推動智慧化升級。加快智慧感測技術在生產、銷售、運輸、儲存等過程的應用研究。繼續實施“機械化換人、自動化減人”工程，加快人工智慧等新技術與製造裝備深度融合，推動安全、成熟、可靠人工智慧技術及裝備在民爆生產線的應用。開展智慧工廠梯度培育，鼓勵企業開展智慧製造能力成熟度評估。培育民爆行業人工智慧應用服務商，提供一批專用智慧化產品和解決方案。"
+    },
+    {
+      "id": "te:economy:573288",
+      "time": "2026-08-06 15:09:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Wholesale Prices YoY",
+        "Importance 1"
+      ],
+      "text": "Austria Wholesale Inflation Accelerates to 6.9% in July — Wholesale prices in Austria rose by 6.9% year-on-year in July 2026, accelerating from a 5.4% increase in the previous month. The strongest upward pressures came from other liquid and gaseous fuels and related products (34.9%), motor spirit (34.3%), plastics and rubber in primary forms (23.1%), and waste and scrap (21.9%). Double-digit price increases were also recorded in non-ferrous metals (19.0%), information and communication equipment (17.3%), solid fuels (15.7%), other machinery and equipment (14.9%), and iron and steel (10.4%). Other price increases were also seen in flowers and plants (8.8%), watches and jewellery (8.8%), wood in the rough and products of primary processing of wood (7.0%), as well as books, magazines and newspapers (6.6%). On a monthly basis, wholesale prices rose by 0.8% in July, rebounding from a 0.7% decline in June, mainly driven by higher prices for other liquid and gaseous fuels and related products (12.0%) and motor spirit (7.8%)."
+    },
     {
       "id": "mkt:019fd5e7-46a8-7aab-8f9c-35abf93d8ece",
       "time": "2026-08-06 15:08:51",
@@ -158159,138 +158230,6 @@
         "Importance 1"
       ],
       "text": "Sweden Economic Confidence Strongest Since 2022 — Sweden’s Economic Tendency Indicator rose for a third straight month to 104.7 in July 2026 from an upwardly revised 102.1 in the previous month, marking the highest level since June 2022. The reading signaled a stronger-than-normal business climate, led by manufacturing, which climbed to 107.9 from 105.2 as firms reported more optimistic production plans and stronger order intake in both domestic and export markets. Retail sentiment (112.9 vs 106.5) surged to the highest since March 2022, driven by stronger sales expectations and assessments of current trading conditions. Construction confidence (99.4 vs 97.6) returned to normal level on improved hiring and order book expectations, while services edged up (102.5 vs 102.3). Household confidence also improved (97.1 vs 94.2) as consumers became less pessimistic, though it remained below normal. Meanwhile, business price plans stayed above normal, especially in manufacturing, while inflation expectations for the year ahead eased."
-    },
-    {
-      "id": "5016098",
-      "time": "2026-07-30 15:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【養老服務  消費補貼惠及約200萬中度以上失能老年人】記者7月30日從民政部第三季度例行新聞釋出會獲悉，截至目前，向中度以上失能老年人發放養老服務消費補貼專案在全國範圍內累計核銷消費券1079.92萬次，核銷金額65.12億元，帶動養老服務消費金額290.93億元，約200萬中度以上失能老年人從中受益。(新華社)"
-    },
-    {
-      "id": "te:markets:571069",
-      "time": "2026-07-30 15:13:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "L'Oréal Stock Price Hits 6-week High — L'Oréal shares increased to 393.55 EUR, the highest since June 2026. Over the past 4 weeks, L'Oréal gained 3.21%, and in the last 12 months, it increased 0.82%."
-    },
-    {
-      "id": "5016097",
-      "time": "2026-07-30 15:13:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部：中泰將舉行“鷹擊-2026”空軍聯合訓練】國防部新聞發言人蔣斌表示，中國與泰國將於8月在泰舉行“鷹擊-2026”空軍聯合訓練，中方派出多型飛機及地面防空等力量，與泰方開展聯合防空、人道主義救援等課目演練。這是兩國空軍第9次舉行該系列聯訓，旨在進一步深化傳統友誼與務實合作。"
-    },
-    {
-      "id": "5016096",
-      "time": "2026-07-30 15:12:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉：特斯拉全球第1000萬輛電動車下線。"
-    },
-    {
-      "id": "mkt:019fb1de-4853-7aab-8f07-aad4fbe85c48",
-      "time": "2026-07-30 15:12:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Eurozone yields track U.S. Treasuries higher after Fed meeting; 30-year Bund at two-month high】Eurozone government bond yields rose, following higher U.S. Treasury yields after the Federal Reserve held rates steady and Middle East military tensions renewed. Germany's 30-year Bund hit a two-month high. Fed chair KEVIN WARSH signalled caution about hinting at further hikes, and ING analyst Chris Turner said the market reaction to the Fed press conference suggests the Fed may not be as aggressive in fighting inflation as previously expected. Market focus shifts to eurozone preliminary GDP and upcoming German inflation data."
-    },
-    {
-      "id": "5016095",
-      "time": "2026-07-30 15:12:31",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲抗通脹決心受質疑 部分基金轉向澳洲和歐洲債券】隨著市場愈來愈質疑美聯儲控制通脹的能力，部分全球債券投資人尋求轉向澳洲與歐洲等市場，這也進一步加重美國公債的賣壓。管理資產規模達1.1萬億美元的施羅德正擴大其看空美國國債的部位，同時買進澳洲、英國及歐元區短天期公債。該公司認為，美聯儲最新一次會議再次印證其看法，即美國決策官員可能仍需進一步收緊政策。該基金押注，上述市場的短天期國債收益率將下滑，並持有美國5年期及10年期公債的空頭部位。施羅德澳洲部分固定收益主管Kellie Wood表示，美聯儲的會議無疑再次強化我們持有、甚至增持美國國債空頭頭寸的觀點。美國以外有不少絕佳機會。我們看多澳洲、歐洲及英國等市場，因為相較於市場目前的定價，這些央行更有可能維持利率不變。"
-    },
-    {
-      "id": "5016094",
-      "time": "2026-07-30 15:12:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國海軍艦艇編隊將訪問印度尼西亞】7月30日下午，國防部舉行例行記者會，國防部新聞發言人蔣斌大校釋出訊息。 蔣斌：8月初，應印度尼西亞海軍邀請，中國人民解放軍海軍戚繼光艦、崑崙山艦組成的艦艇編隊將赴印度尼西亞泗水訪問。近年來，中印尼兩國海軍不斷拓展聯合演練、艦艇互訪等合作，推動兩軍關係走深走實。"
-    },
-    {
-      "id": "5016093",
-      "time": "2026-07-30 15:11:12",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星電子：預計美國泰勒第二座晶圓代工廠專案今年年底開工】三星電子7月30日稱，目前代工廠的先進製程產能擴張速度跟不上需求增速，美國泰勒首座代工廠建設專案在2026年投產的目標下有序推進。公司正為泰勒第二座代工廠專案今年年底開工做準備，預計該廠將於2030年投產，以滿足持續增長的需求。"
-    },
-    {
-      "id": "te:economy:571066",
-      "time": "2026-07-30 15:10:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "Turkish June Jobless Rate Falls to Record Low — Turkey’s seasonally adjusted unemployment rate dropped to 7.6% in June 2026 from a downwardly revised 8.1% in the previous month. It was the lowest jobless rate since the data series began in 2005, as the number of unemployed individuals decreased by 168,000 to 2.69 million. Meanwhile, the employment rate rose to 48.9% from 48.6%, as the number of employed persons increased by 227,000 to 32.73 million."
-    },
-    {
-      "id": "5016092",
-      "time": "2026-07-30 15:10:07",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國家發改委定於7月31日（星期五）上午10:00，召開國家發展改革委7月份新聞釋出會。（國家發改委）"
-    },
-    {
-      "id": "mkt:019fb1db-e545-7aab-8f07-a2ee0f071f7e",
-      "time": "2026-07-30 15:10:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China State Planner will hold its July press conference at 10:00 on Friday, July 31."
-    },
-    {
-      "id": "5016091",
-      "time": "2026-07-30 15:09:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽峰集團上調2026全年業績指引】7月30日，賽峰集團公佈2026年上半年業績：收入達175.71億歐元，同比增長19.0%；調整後經常性營業利潤為32.37億歐元，同比增長29%；自由現金流達26.16億歐元。此外，賽峰集團宣佈上調2026年業績展望，收入預計實現中十位數百分比增長，經常性營業利潤預計為64億-65億歐元，自由現金流預計為47億-49億歐元。"
-    },
-    {
-      "id": "mkt:019fb1db-42e5-7aab-8f07-9af03e40e234",
-      "time": "2026-07-30 15:09:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "SHEL.L",
-        "Impact bullish"
-      ],
-      "text": "Shell's Q2 profit doubled; London-listed shares rose 1.1%."
     }
   ]
 }
