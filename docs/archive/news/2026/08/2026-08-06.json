@@ -1,7 +1,61 @@
 {
   "date": "2026-08-06",
-  "count": 2726,
+  "count": 2733,
   "items": [
+    {
+      "id": "5029290",
+      "time": "2026-08-06 23:59:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹：科技領域投資環境具備吸引力。"
+    },
+    {
+      "id": "mkt:019fd7cc-fb61-7aab-8fa4-898ed166e657",
+      "time": "2026-08-06 23:59:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars news agency, citing unidentified sources, said the northern and southern navigational channels in the Strait of Hormuz would be abolished and all transit shifted to a central corridor; Iran would control the corridor entrance and Iran and Oman would jointly manage the exit."
+    },
+    {
+      "id": "5029289",
+      "time": "2026-08-06 23:59:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹：股票回購操作體現對場外交易基金（OTF）的信心。"
+    },
+    {
+      "id": "5029288",
+      "time": "2026-08-06 23:59:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍貓頭鷹：對場外交易基金估值與業績表現出現背離感到失望。"
+    },
+    {
+      "id": "5029287",
+      "time": "2026-08-06 23:58:50",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "油價衝高至日內高點，布倫特原油交易價格突破 82 美元 / 桶。"
+    },
+    {
+      "id": "5029286",
+      "time": "2026-08-06 23:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱襲擊政府軍集結地】葉門胡塞武裝6日說，該組織當天使用彈道導彈和無人機襲擊了該國馬裡卜省和哈德拉毛省的政府軍集結地。葉門胡塞武裝發言人葉海亞·薩雷亞當天發表電視宣告說，該組織發現政府軍大規模軍事集結已進入最後階段，旨在升級衝突。此次對政府軍集結地進行的行動摧毀了大量倉庫、武器庫和軍用車輛，並造成數百人傷亡。宣告說，該組織“已做好充分準備應對任何局勢升級”。（新華社）"
+    },
     {
       "id": "mkt:019fd7cb-a4ad-7aab-8fa4-841c899bba24",
       "time": "2026-08-06 23:57:55",
@@ -10,6 +64,14 @@
         "Important"
       ],
       "text": "{\"title\":\"Iran plans to tighten Strait of Hormuz transit rules\",\"content\":\"Iranian parliament is reviewing a draft bill, Fars News reported, that would tighten controls on passage through the Strait of Hormuz and the Persian Gulf. Key measures would ban passage of vessels linked to the United States, Israel and other hostile states; restrict military and civilian cargoes related to Israel; limit movements of ships tied to operations against the \"axis of resistance\"; and deny transit to entities that owe compensation to Iran. Violations would carry fines up to 20% of cargo value. The draft is under review and has not been approved.\"}"
+    },
+    {
+      "id": "5029285",
+      "time": "2026-08-06 23:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：正與美國心理學會（APA）合作開展青少年心理健康與人工智慧相關工作。"
     },
     {
       "id": "5029284",
