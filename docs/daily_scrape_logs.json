@@ -1,6 +1,155 @@
 {
-  "updated": "2026-08-06 07:59:30",
+  "updated": "2026-08-06 09:28:43",
   "items": [
+    {
+      "id": "2026080609",
+      "date": "2026-08-06",
+      "run_hour": 9,
+      "started_at": "2026-08-06 09:28:23",
+      "finished_at": "2026-08-06 09:28:43",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 7,
+      "failure_count": 5,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉SpaceX財報後狂瀉逾13% 道瓊改寫新高 標普、那指終止連四漲 | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6561409",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-06"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-08-05，預期日期是 2026-08-06",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-05"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-08-05，預期日期是 2026-08-06",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-05"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-08-05",
+          "actual_date": "2026-08-05"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-08-05，預期日期是 2026-08-06",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-05"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-07-05，預期日期是 2026-08-05",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-08-05",
+          "actual_date": "2026-07-05"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/226635",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-06"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202608060658512461.shtml",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-06"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-august-05-2026/",
+          "expected_date": "2026-08-05",
+          "actual_date": "2026-08-05"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/08/WBC_MorningReport06Aug2026.pdf",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-06"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260806.pdf",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-06"
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-08-05，預期日期是 2026-08-06",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-08-06",
+          "actual_date": "2026-08-05"
+        }
+      ]
+    },
     {
       "id": "2026080607",
       "date": "2026-08-06",
