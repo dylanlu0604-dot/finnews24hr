@@ -1,7 +1,84 @@
 {
   "date": "2026-08-06",
-  "count": 1333,
+  "count": 1341,
   "items": [
+    {
+      "id": "5028200",
+      "time": "2026-08-06 15:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美將9月份亞洲阿拉伯輕質原油價格環比下調50美分。"
+    },
+    {
+      "id": "5028199",
+      "time": "2026-08-06 15:20:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WPP<WPP.L>股價料創1992年以來最大單日漲幅，上漲25%至11個月高位。"
+    },
+    {
+      "id": "5028198",
+      "time": "2026-08-06 15:19:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌 150 億美元印度資料中心專案深陷水資源與野生動物保護爭議】谷歌規劃的印度資料中心樞紐建設工作正在如火如荼推進，專案所在地上方的山坡已經被開挖，露出赤紅土層，並修出層層臺地。但環保人士的反對聲浪持續高漲，給這家美國科技巨頭總規模 150 億美元的專案製造重重阻礙。該專案坐落於南部安得拉邦，該邦首席部長是印度總理納倫德拉・莫迪的盟友，曾盛讚該專案具備歷史性意義、將帶來變革性影響。針對外界指責專案跳過風險評估、倉促上馬，忽視水資源與野生動物威脅的說法，邦政府予以否認。"
+    },
+    {
+      "id": "te:economy:573295",
+      "time": "2026-08-06 15:18:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Spain Industrial Production Growth Slows — Spain's industrial production lost momentum in June, increasing 1.1% year-on-year, the weakest annual gain in four months, following a downwardly revised 3.1% rise in May. Growth remained concentrated in energy (+3.8%) and intermediate goods (+3.1%), while output contracted for capital goods (-0.3%) and consumer goods (-1.4%). On a monthly basis, industrial production declined 0.7%, more than offsetting May's 1.0% increase."
+    },
+    {
+      "id": "5028197",
+      "time": "2026-08-06 15:18:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德公司：董事會成員、高管及關聯人士買賣諾和諾德公司股票。"
+    },
+    {
+      "id": "te:economy:573294",
+      "time": "2026-08-06 15:18:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Czech Industrial Output Hits Six-Month High — Industrial production in the Czech Republic grew 4.0% year-on-year in June 2026, accelerating from a revised 2.0% increase in the previous month and marking the strongest annual growth since December 2025. The sharpest increase was recorded in electricity, gas, steam and air conditioning supply, which surged 25.1% after a 2.1% rise in May. Manufacturing output also strengthened (2.6% vs 2.2%), supported by higher production of computer, electronic and optical products (16.7% vs. 11.0%), repair and installation of machinery and equipment (8.1% vs. -6.3%), paper and paper products (4.5% vs. 2.4%), and food products (4.3% vs. 2.9%). Meanwhile, mining and quarrying rebounded 1.1% after contracting 8.3% in May. On a seasonally adjusted monthly basis, industrial production rose 1.2% in June, rebounding from a 0.4% decline in the previous month."
+    },
+    {
+      "id": "5028196",
+      "time": "2026-08-06 15:18:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯將9月份阿拉伯輕質原油對亞洲的價格定為每桶優惠2美元。"
+    },
+    {
+      "id": "te:economy:573292",
+      "time": "2026-08-06 15:17:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Czechia Construction Output at 5-Month Low — Construction output in the Czech Republic increased 2.0% year-on-year in June 2026, easing from a 4.4% rise in the previous month and marking the slowest growth since January. Building construction output rose 6.3% from a year earlier, while civil engineering activity declined 5.3%. A total of 5,545 building permits were issued, up 1.8% year-on-year, while the floor area of newly permitted buildings jumped 76.3%. Meanwhile, housing starts surged 52.9% to 4,103 units, while completed dwellings fell 17.8% year-on-year to 2,699. On a monthly basis, construction output declined 0.3% in June, reversing a 0.2% increase in May."
+    },
     {
       "id": "mkt:019fd5ee-4402-7aab-8f9c-46e0caa05801",
       "time": "2026-08-06 15:16:29",

@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-06 15:17:14",
-  "count": 17198,
+  "updated": "2026-08-06 15:21:11",
+  "count": 17184,
   "items": [
+    {
+      "id": "5028200",
+      "time": "2026-08-06 15:20:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特阿美將9月份亞洲阿拉伯輕質原油價格環比下調50美分。"
+    },
+    {
+      "id": "5028199",
+      "time": "2026-08-06 15:20:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "WPP<WPP.L>股價料創1992年以來最大單日漲幅，上漲25%至11個月高位。"
+    },
+    {
+      "id": "5028198",
+      "time": "2026-08-06 15:19:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【谷歌 150 億美元印度資料中心專案深陷水資源與野生動物保護爭議】谷歌規劃的印度資料中心樞紐建設工作正在如火如荼推進，專案所在地上方的山坡已經被開挖，露出赤紅土層，並修出層層臺地。但環保人士的反對聲浪持續高漲，給這家美國科技巨頭總規模 150 億美元的專案製造重重阻礙。該專案坐落於南部安得拉邦，該邦首席部長是印度總理納倫德拉・莫迪的盟友，曾盛讚該專案具備歷史性意義、將帶來變革性影響。針對外界指責專案跳過風險評估、倉促上馬，忽視水資源與野生動物威脅的說法，邦政府予以否認。"
+    },
+    {
+      "id": "te:economy:573295",
+      "time": "2026-08-06 15:18:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Spain Industrial Production Growth Slows — Spain's industrial production lost momentum in June, increasing 1.1% year-on-year, the weakest annual gain in four months, following a downwardly revised 3.1% rise in May. Growth remained concentrated in energy (+3.8%) and intermediate goods (+3.1%), while output contracted for capital goods (-0.3%) and consumer goods (-1.4%). On a monthly basis, industrial production declined 0.7%, more than offsetting May's 1.0% increase."
+    },
+    {
+      "id": "5028197",
+      "time": "2026-08-06 15:18:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾和諾德公司：董事會成員、高管及關聯人士買賣諾和諾德公司股票。"
+    },
+    {
+      "id": "5028196",
+      "time": "2026-08-06 15:18:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯將9月份阿拉伯輕質原油對亞洲的價格定為每桶優惠2美元。"
+    },
+    {
+      "id": "te:economy:573294",
+      "time": "2026-08-06 15:18:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Czech Industrial Output Hits Six-Month High — Industrial production in the Czech Republic grew 4.0% year-on-year in June 2026, accelerating from a revised 2.0% increase in the previous month and marking the strongest annual growth since December 2025. The sharpest increase was recorded in electricity, gas, steam and air conditioning supply, which surged 25.1% after a 2.1% rise in May. Manufacturing output also strengthened (2.6% vs 2.2%), supported by higher production of computer, electronic and optical products (16.7% vs. 11.0%), repair and installation of machinery and equipment (8.1% vs. -6.3%), paper and paper products (4.5% vs. 2.4%), and food products (4.3% vs. 2.9%). Meanwhile, mining and quarrying rebounded 1.1% after contracting 8.3% in May. On a seasonally adjusted monthly basis, industrial production rose 1.2% in June, rebounding from a 0.4% decline in the previous month."
+    },
+    {
+      "id": "te:economy:573292",
+      "time": "2026-08-06 15:17:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Czechia Construction Output at 5-Month Low — Construction output in the Czech Republic increased 2.0% year-on-year in June 2026, easing from a 4.4% rise in the previous month and marking the slowest growth since January. Building construction output rose 6.3% from a year earlier, while civil engineering activity declined 5.3%. A total of 5,545 building permits were issued, up 1.8% year-on-year, while the floor area of newly permitted buildings jumped 76.3%. Meanwhile, housing starts surged 52.9% to 4,103 units, while completed dwellings fell 17.8% year-on-year to 2,699. On a monthly basis, construction output declined 0.3% in June, reversing a 0.2% increase in May."
+    },
     {
       "id": "mkt:019fd5ee-4402-7aab-8f9c-46e0caa05801",
       "time": "2026-08-06 15:16:29",
@@ -157896,220 +157973,6 @@
         "其他"
       ],
       "text": "沙特阿美將8月份丙烷價格定為每噸620美元；丁烷價格定為每噸640美元。"
-    },
-    {
-      "id": "5016122",
-      "time": "2026-07-30 15:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：無人機襲擊了俄羅斯克拉斯諾達爾地區的塔曼港。"
-    },
-    {
-      "id": "mkt:019fb1e5-e1f0-7aab-8f08-0ce52ae46e07",
-      "time": "2026-07-30 15:21:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Interfax reports a drone attack on Taman port in Russia's Krasnodar region."
-    },
-    {
-      "id": "mkt:019fb1e5-cbdb-7aab-8f08-077b7ecfba01",
-      "time": "2026-07-30 15:20:54",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "【CHINA warns against dangerous approaches after commercial drone reported near Chinese warship in Philippine EEZ】On July 30 at a routine press briefing, CHINA responded to a Reuters report that a commercial drone was operating in the Philippine exclusive economic zone and had approached a Chinese warship. CHINA said its military activities comply with international law and practice and urged relevant parties to avoid hazardous close approaches to Chinese naval vessels to prevent maritime or aviation incidents."
-    },
-    {
-      "id": "te:economy:571081",
-      "time": "2026-07-30 15:20:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Spain’s Inflation Hits Two-Year High — Spain’s consumer price inflation rose to 3.5% in July 2026, up from 3.2% in June and above the 3.4% market forecast, according to preliminary data. This is the highest rate since May 2024, fueled by rising costs for fuels, lubricants, and electricity, as renewed Middle East tensions push energy prices higher again. The core inflation rate, excluding unprocessed food and energy, also climbed to 3.0%, from 2.9% in June, matching May’s near two-year peak. Meanwhile, the EU-harmonized inflation rate reached 3.8%, surpassing the 3.7% expectation and remaining well above the European Central Bank’s 2.0% target."
-    },
-    {
-      "id": "5016121",
-      "time": "2026-07-30 15:20:42",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【有報道稱中方將提供400套導彈發射器給伊朗 外交部：有關報道不符合事實、毫無根據】外交部發言人毛寧主持7月30日例行記者會。會上有記者提問稱，有報道稱中方將提供400套導彈發射器給伊朗，請問中方能否證實？毛寧表示，這個問題我們已經多次闡明瞭立場，有關報道不符合事實、毫無根據。中方發揮的始終是促和止戰的作用。 (環球網)"
-    },
-    {
-      "id": "5016120",
-      "time": "2026-07-30 15:20:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遼寧省1—6月份規模以上工業企業利潤增長16.8%】“遼寧統計”微信公眾號7月30日訊息，1—6月份，遼寧省規模以上工業企業實現利潤總額698.0億元，同比增長16.8%。1—6月份，國有控股企業實現利潤總額156.5億元，同比增長72.7%；股份制企業實現利潤總額508.3億元，增長65.5%；外商及港澳臺投資企業實現利潤總額188.8億元，下降34.6%；私營企業實現利潤總額127.1億元，增長19.0%。"
-    },
-    {
-      "id": "te:economy:571080",
-      "time": "2026-07-30 15:20:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "GDP Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Austrian Economy Stalls in Q2 — Austria's economy stagnated quarter-on-quarter in Q2 2026, after expanding 0.2% in each of the previous two quarters, according to preliminary estimates. The stagnation reflected higher oil prices triggered by the Iran conflict, which interrupted the economic recovery. Household consumption weakened (-0.1% vs. +0.2% in Q1), while government spending also edged down (-0.1% vs. +1.6%). Gross fixed capital formation rose 0.4% after being broadly unchanged in the previous quarter. Net trade provided little support, with exports increasing 0.5% and imports rising 0.6%. On the production side, industrial output weakened (-0.1% vs. +1.3%) and construction contracted for a second straight quarter (-0.4% vs. -0.6%), while trade and tourism-related services recovered (+0.3% vs. -0.8%). Information, financial, insurance, and real estate services remained resilient (+0.8%). On an annual basis, GDP expanded 0.8%, easing from 0.9% in Q1."
-    },
-    {
-      "id": "mkt:019fb1e5-1db4-7aab-8f07-fbba88baa04d",
-      "time": "2026-07-30 15:20:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China strongly urges Japan to accelerate disposal of chemical weapons abandoned in China】On July 30, China's foreign ministry said chemical weapons Japan abandoned in China during its invasion are a serious wartime crime and continue to threaten Chinese lives and the environment. Beijing noted Japan was required by the Chemical Weapons Convention and a China-Japan government memorandum to complete destruction by 2007, but that Tokyo has shown insufficient compliance and investment and its destruction plan has been delayed four times. China strongly urged Japan to fully and faithfully meet its obligations, promptly provide effective information on burial sites and speed up disposal to remove the threat."
-    },
-    {
-      "id": "te:economy:571079",
-      "time": "2026-07-30 15:19:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Austria Producer Inflation Rises Further in June — Annual producer inflation in Austria rose to 3.1% in June 2026 from 2.8% in the previous month. This was the highest level since April 2023, mainly driven by rising prices for intermediate goods (6.6% vs 5.7% in May). Prices for consumer goods also increased 0.2%, following a 0.1% rise in the prior month. Meanwhile, energy prices rose for the third consecutive month, although at a slower pace than in May (2.1% vs 2.8%), while price growth for capital goods was unchanged at 1.0%. On a monthly basis, the PPI edged up 0.1%, easing from a 0.5% rise in May, as price increases for basic metals (2.0%) and paper and paper products (1.4%) were partly offset by declines in prices of chemicals and chemical products (-1.5%) and food products (-0.1%)"
-    },
-    {
-      "id": "5016119",
-      "time": "2026-07-30 15:19:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "布赫工業集團股價釋出業績後下跌6.7%，有望創下2022年3月以來最大單日跌幅。"
-    },
-    {
-      "id": "5016118",
-      "time": "2026-07-30 15:19:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月30日滬深兩市漲停分析】創業板指放量跌近4%，科創50跌逾5%，半導體、算力硬體概念全線重挫。愛麗家居8連板，明新旭騰、傳智教育4連板，一圖看懂>>"
-    },
-    {
-      "id": "5016117",
-      "time": "2026-07-30 15:18:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外交易日前批發電價上漲21.7%，報每兆瓦時153.50歐元。"
-    },
-    {
-      "id": "5016116",
-      "time": "2026-07-30 15:18:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【商業無人機接近中方軍艦？外交部回應】7月30日，外交部發言人毛寧主持例行記者會。路透社記者提問，昨天我社報道稱，有一個商業無人機在菲律賓專屬經濟區航行，並且接近了中方軍艦。中方對此有何評論？毛寧表示，中國軍隊開展活動一貫符合國際法和國際慣例。我們也想提醒有關方面，避免危險抵近中國海軍艦艇，防止引發海空意外。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019fb1e3-c7fc-7aab-8f07-f118ffb9095d",
-      "time": "2026-07-30 15:18:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Sci-Tech Innovation 50"
-      ],
-      "text": "【China A-shares close: Sci‑Tech Innovation 50 down 5.38%; consumer sector extends multi‑day gains】China A‑shares closed lower after choppy trade. Shanghai Composite fell 0.62%, Shenzhen Composite 2.73%, ChiNext 3.97% and the Sci‑Tech Innovation 50 Index plunged 5.38%. Turnover across Shanghai and Shenzhen was 2.34 trillion yuan, up 46.2 billion yuan from the prior session. More than 3,600 stocks declined. C Changxin slipped 0.15% to 52.87 yuan on turnover near 45.0 billion yuan. Automakers outperformed; JAC Motors hit the daily limit up. MLCC names rallied in the afternoon, with Shuangxing New Materials limit up and Yunzong Technology hitting the 20% limit. CPO‑themed stocks sold off again—Dongshan Precision, Accelink Technologies and Cambridge Technology hit limit down. The memory/storage chip sector also plunged, with Tongfu Microelectronics, Huatian Technology, Yake Technology, Youyan New Materials and JCET among roughly ten stocks hitting daily limit down."
-    },
-    {
-      "id": "5016115",
-      "time": "2026-07-30 15:18:32",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【林園投資：部分產品維持原合同約定不再接受申購】7月30日，深圳市林園投資管理有限責任公司釋出公告稱，169只私募基金產品維持原合同約定不再接受申購，相關產品不再修改基金合同以適配《私募證券投資基金運作指引》的要求，維持原合同條款及投資自由度不變。林園投資解釋稱，公司產品的投資運作一直堅持適度集中、長期投資的風格，這與《運作指引》中關於組合投資“雙25%”限制及債券投資比例限制等條款存在衝突。若強行修改，將造成產品現在或未來被迫調倉，在目前及未來的市場環境下可能對現有持有人利益造成實質損害。自2026年8月1日起，客戶持有的產品將不再接受新增申購，產品到期後不展期，按合同約定正常清算。"
-    },
-    {
-      "id": "5016114",
-      "time": "2026-07-30 15:18:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：強烈敦促日方早日徹底清除日遺化武毒害】外交部發言人毛寧30日在例行記者會上答問時表示，日本遺棄在華化學武器是日本軍國主義在侵華戰爭期間犯下的嚴重罪行之一，時至今日仍在危害中國人民生命財產和生態環境安全。全面銷燬日遺化武是日方不容推卸的歷史、政治和法律責任。日方本應按照《禁止化學武器公約》規定和中日政府備忘錄的要求，於2007年完成日遺化武銷燬，但日方履約誠意不足、投入不夠，銷燬計劃已經4次逾期，日遺化武處置程序嚴重滯後，日遺化武的安全隱患持續存在。中方強烈敦促日方全面忠實履行公約和中日政府備忘錄規定的責任義務，儘快提供有效埋藏線索資訊，加快日遺化武處置程序，早日徹底清除日遺化武毒害，還中國人民以淨土。（新華社）"
-    },
-    {
-      "id": "5016113",
-      "time": "2026-07-30 15:18:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【廣東省政府將在澳門發行地方政府債券】澳門金融管理局30日表示，在國家財政部支援下，廣東省人民政府將於8月上旬在澳門發行25億元離岸人民幣地方政府債券，發行期限為兩年期、三年期和五年期，將面向專業投資者發行綠色債券、藍色債券及橫琴粵澳深度合作區主題債券。 澳門金管局表示，歡迎廣東省人民政府再次在澳門發行離岸人民幣地方政府債券。本次發行是廣東省自2021年起連續第六年在澳門發行離岸人民幣地方政府債券。（新華社）"
-    },
-    {
-      "id": "mkt:019fb1e3-07b0-7aab-8f07-e9ab31b5eaf7",
-      "time": "2026-07-30 15:17:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Defense: Chinese naval task group to visit Indonesia】China and Thailand will hold the Eagle Strike-2026 air exercise in Thailand in August, the Ministry of Defense said. China will deploy multiple aircraft types and ground-based air‑defense units to conduct joint air‑defense and humanitarian‑rescue drills. This is the ninth iteration of the series, intended to deepen bilateral practical cooperation."
-    },
-    {
-      "id": "5016112",
-      "time": "2026-07-30 15:17:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本強震已造成34人死亡】據日本熊本縣政府今天（7月30日）釋出的訊息，7月28日的熊本強震已造成34人死亡，熊本縣目前開設避難所406處，避難人數為9450人。此外，熊本地震後發生爆炸的購物中心內，已救出12人，其中7人死亡，5人輕傷，目前仍在分割槽域搜尋中。另據日本氣象廳今天（7月30日）釋出的訊息，當地時間7月28日16點至7月30日15點，熊本發生有感地震271次。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:economy:571076",
-      "time": "2026-07-30 15:17:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Consumer Confidence",
-        "Importance 1"
-      ],
-      "text": "Sweden Consumer Morale Hits 18-Month High — Sweden's household confidence indicator climbed to 97.1 in July 2026 from an upwardly revised 94.2 in the previous month. While the latest reading marked the highest level since January 2025, consumer sentiment remained somewhat subdued relative to normal levels, primarily weighed down by weaker expectations for personal finances over the next twelve months and a subdued willingness to make major purchases. Households also continued to regard buying a car within the coming year as highly unlikely. Meanwhile, the survey's remaining components were broadly in line with their long-term averages."
-    },
-    {
-      "id": "mkt:019fb1e2-911f-7aab-8f07-e3d9a6749f2b",
-      "time": "2026-07-30 15:17:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China elderly-care consumption subsidies benefit about 2 million moderate-to-severely disabled seniors】At a July 30 third‑quarter press briefing, the Ministry of Civil Affairs said the nationwide elderly-care consumption subsidy program has recorded 10.7992 mln voucher redemptions worth 6.512 bln yuan, driving 29.093 bln yuan of elderly-care spending and benefiting about 2 mln seniors with moderate‑to‑severe disabilities."
-    },
-    {
-      "id": "5016111",
-      "time": "2026-07-30 15:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【群益證券(香港) ：維持寒武紀“買入”評級，算力緊缺利好國產晶片企業】群益證券(香港)研報指出，算力緊缺利好國產晶片企業，伴隨Kimi K3等模型的釋出，國產大模型在中文理解、垂直場景適配、企業級測評上已接近海外頂尖水平。趨勢上，國產模型憑藉開源活躍、成本最佳化和行業落地廣等優勢快速縮小差距，預計中國模型的Token 呼叫量將持續快速增長。受此影響，國內算力緊張局面或進一步加劇，有利於國產晶片透過架構創新和軟體適配逐步替代海外高階算力卡。寒武紀作為國內AI晶片領域的領軍廠商之一，憑藉其技術優勢和產品效能，在國產算力需求全面爆發的背景下，市場份額有望進一步提升。當前股價對應2028年PE為31倍，考慮到國內推理需求高速增長並超預期，維持“買入”評級。維持 “買入”評級。"
     }
   ]
 }
