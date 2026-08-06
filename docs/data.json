@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-06 08:47:51",
-  "count": 17400,
+  "updated": "2026-08-06 08:51:37",
+  "count": 17399,
   "items": [
+    {
+      "id": "5027675",
+      "time": "2026-08-06 08:50:55",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利日本業務營收達10億美元，領跑全球同業】摩根士丹利借力日本股票交易熱潮，其日本地區年度營收創下新高，跑贏一眾同行。申報檔案顯示，截至3月財年，該美資銀行控股的日本券商子公司淨營收增長近10%，達到1683億日元（摺合11億美元）。該營收規模超過競爭對手摩根大通，但摩根大通的淨利潤更高，連續第二年成為日本盈利水平最高的外資投行。摩根士丹利三菱日聯證券總裁Alberto Tamura表示，日本經濟出現多項積極變化，包括政策舉措與公司治理改革，持續為公司帶來“強勁利好”。Alberto Tamura補充稱，海外投資者持續關注日本股票，帶動股票交易量攀升；同時公司與三菱日聯金融集團的合作助力市場份額擴張，該合資企業淨利潤同樣創下歷史新高。"
+    },
+    {
+      "id": "mkt:019fd48c-e592-7aab-8f96-4acbadac7a77",
+      "time": "2026-08-06 08:50:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Chinese VLCCs avoid Red Sea blockade, call at Egypt’s Sidi Kerir and reroute around Africa】After a one-week pause Chinese VLCCs resumed loading Saudi crude but shifted routes away from the Red Sea to sail around Africa. On Aug. 4 COSCO’s 330,000 dwt VLCC Yuanxihu arrived off Egypt’s Sidi Kerir terminal in the Mediterranean to await loading. The ship had entered the Red Sea on July 11 and remained off Yanbu after Houthi forces announced a maritime blockade of Saudi waters. On Aug. 1 Yuanxihu, in ballast, transited north through the Suez Canal with its destination shown as Sidi Kerir."
+    },
+    {
+      "id": "mkt:019fd48b-581e-7aab-8f96-428f72408a00",
+      "time": "2026-08-06 08:48:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump says may have to let oil prices rise again】On Aug 5 in Las Vegas, US President Trump said recent oil-price declines have stabilized and \"we may have to let it rise again,\" adding he hopes \"it won't come to that.\" He did not elaborate. AP noted that despite Trump's repeated assurances the conflict with Iran is nearing an end, oil prices typically rise if fighting resumes."
+    },
+    {
+      "id": "mkt:019fd48b-14f6-7aab-8f96-3eb4184007d1",
+      "time": "2026-08-06 08:48:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin financing balances on Shanghai and Shenzhen exchanges rise 12.115 bln yuan】As of Aug 5, Shanghai Stock Exchange margin financing balance was 1.335389 tln yuan, up 5.982 bln yuan from the prior trading day; Shenzhen Stock Exchange was 1.260871 tln yuan, up 6.133 bln yuan. Combined margin balance stood at 2.59626 tln yuan, up 12.115 bln yuan."
+    },
+    {
+      "id": "5027674",
+      "time": "2026-08-06 08:48:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京首例破壞AI模型刑案落槌：九零後演算法工程師“刪庫”獲刑】8月4日，據“最高人民檢察院”微信公眾號訊息，北京市首例破壞人工智慧模型刑事案件近日塵埃落定：九零後演算法工程師王某因犯破壞計算機資訊系統罪，被判處有期徒刑五年十個月，並賠償公司經濟損失20.4萬餘元。在資料與算力被視作新質生產力核心要素的當下，這起案件的價值在於，司法裁判第一次為AI公司的核心資產標定了刑法保護的座標，也給整個行業的資料治理敲了一記警鐘。"
+    },
+    {
+      "id": "5027673",
+      "time": "2026-08-06 08:47:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普稱或不得不再讓油價上漲 】當地時間8月5日，美國總統特朗普在拉斯維加斯一場活動上發表演講時稱，近期油價已下跌並在一定程度上趨於穩定，“我們或許得讓它再漲上去”，但他“希望不必走到那一步”。特朗普沒有進一步解釋這句話的含義。美聯社的分析指出，儘管特朗普一再保證與伊朗的戰事即將結束，但油價通常還是會隨著雙方衝突再起而上漲。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "5027672",
+      "time": "2026-08-06 08:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加121.14億元】截至8月5日，上交所融資餘額報13353.89億元，較前一交易日增加59.82億元；深交所融資餘額報12608.71億元，較前一交易日增加61.32億元；兩市合計25962.60億元，較前一交易日增加121.14億元。"
+    },
     {
       "id": "mkt:019fd488-a161-7aab-8f96-31f073a98bf7",
       "time": "2026-08-06 08:45:51",
@@ -58,6 +130,15 @@
         "Impact bearish"
       ],
       "text": "DALY: an end to the Middle East war would help lower inf."
+    },
+    {
+      "id": "em:qqyh_mlc:202608063833210382",
+      "time": "2026-08-06 08:44:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲戴利表示，關稅、能源、人工智慧衝擊導致通脹上升。"
     },
     {
       "id": "5027669",
@@ -160071,88 +160152,6 @@
         "其他"
       ],
       "text": "【安徽獨角獸企業數量再創新高 總數穩居全國第六】據安徽省科技廳訊息，根據長城戰略諮詢釋出的《中國獨角獸企業研究報告2026》《中國潛在獨角獸企業研究報告2026》，2025年安徽省獨角獸企業數量增至19家、潛在獨角獸企業數量增至44家，均居全國第6位。全省94.7%的獨角獸企業和84.1%的潛在獨角獸企業獲得過省內政府引導基金投資，形成“精準招引+本土培育”雙輪驅動的培育路徑。從企業來源看，37家獨角獸（潛在）企業源於外部招引，佔比58.7%，其中近九成企業引進時是科創種苗企業，後期透過本地培育實現了晉級。本土培育的獨角獸（潛在）企業中，10家源於大企業孵化裂變、8家源於高校院所成果轉化、8家源於高層次人才團隊創業。"
-    },
-    {
-      "id": "te:markets:570921",
-      "time": "2026-07-30 08:51:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rise as Fed Holds Rates — The Nikkei 225 Index gained 1% to above 62,000 on Thursday, ending a two-session losing streak as investors responded to the US Federal Reserve’s decision to leave interest rates unchanged. Fed Chair Kevin Warsh emphasized that the pause should not be interpreted as policy inertia, while three FOMC members voted in favor of a rate hike amid ongoing inflation concerns. Meanwhile, markets continued to contend with a sharp selloff in semiconductor stocks after another overnight decline among US chipmakers. Despite the weakness overseas, Japanese semiconductor shares rebounded strongly, led by gains in Kioxia Holdings (2.7%), Advantest (15.7%), Tokyo Electron (4.9%), Murata Manufacturing (4.4%), and Taiyo Yuden (3.6%). In corporate developments, SoftBank Group subsidiary Arm Holdings slid nearly 6% in after-hours trading after issuing a sales forecast that disappointed investors."
-    },
-    {
-      "id": "5015507",
-      "time": "2026-07-30 08:50:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國防長海格塞斯：今天早些時候已與以色列總理內塔尼亞胡會晤。"
-    },
-    {
-      "id": "5015506",
-      "time": "2026-07-30 08:50:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微軟新增資料中心租約超1300億美元】當地時間7月29日，微軟在一份監管檔案中披露，第四財季新增尚未開始執行的資料中心租約承諾超過1300億美元，顯示其AI算力擴張仍在加速。截至6月30日，微軟尚未開始履行的租賃總承諾達到3291億美元，較前一季度的1966億美元大幅上升。"
-    },
-    {
-      "id": "mkt:019fb07f-f6d6-7aab-8efc-fbe92e9ac515",
-      "time": "2026-07-30 08:50:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "Samsung Electronics will release full Q2 results and host an earnings briefing in 10 minutes."
-    },
-    {
-      "id": "mkt:019fb07f-7727-7aab-8efc-f16a637bff10",
-      "time": "2026-07-30 08:49:31",
-      "tags": [
-        "MKT News",
-        "373220.KS",
-        "Impact mixed"
-      ],
-      "text": "LG Energy Solution reported 1H capital expenditure fell 40% YoY."
-    },
-    {
-      "id": "mkt:019fb07f-3515-7aab-8efc-e8b2293dbeb7",
-      "time": "2026-07-30 08:49:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Defense Secretary Hegseth met Israeli Prime Minister Netanyahu on Wednesday and said they reiterated the strength of the defense partnership and their commitment to advancing shared security interests."
-    },
-    {
-      "id": "mkt:019fb07f-2eec-7aab-8efc-e539263183c8",
-      "time": "2026-07-30 08:49:12",
-      "tags": [
-        "MKT News",
-        "HON.O"
-      ],
-      "text": "【SASAC director Cheng Fubo meets Honeywell Technologies chairman and CEO】On July 29, State-owned Assets Supervision and Administration Commission (SASAC) director Cheng Fubo met Honeywell Technologies' chairman and CEO and discussed deepening cooperation between China's central state-owned enterprises and Honeywell on technology innovation, smart manufacturing and green development."
-    },
-    {
-      "id": "5015505",
-      "time": "2026-07-30 08:48:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本地震17人死6人心肺停止 】據日本熊本縣今天（7月30日）釋出的訊息，地震已造成17人死亡，6人心肺停止，至少1人下落不明。（ CCTV國際時訊  ）"
-    },
-    {
-      "id": "5015504",
-      "time": "2026-07-30 08:48:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：伊朗阿巴斯港發生爆炸。"
     }
   ]
 }
