@@ -1,7 +1,93 @@
 {
   "date": "2026-08-06",
-  "count": 2695,
+  "count": 2705,
   "items": [
+    {
+      "id": "5029269",
+      "time": "2026-08-06 23:49:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET鉅額債券發行獲約 1150 億美元認購需求。"
+    },
+    {
+      "id": "5029268",
+      "time": "2026-08-06 23:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所 7 月現金市場總成交金額同比增長 30%。"
+    },
+    {
+      "id": "5029267",
+      "time": "2026-08-06 23:48:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本秋田縣將於本財年末開始出售工業園區地塊。"
+    },
+    {
+      "id": "te:economy:573450",
+      "time": "2026-08-06 23:48:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Bond Yield Rises After BCB Meeting — Brazil's 10-year government bond yield rose to 14.52% from the three-week low of 14.42% reached on August 4th after the Copom signaled a cautious approach to further interest rate cuts. Although the BCB lowered the Selic rate by a widely expected 25 basis points to 14.0%, its lowest level since March 2025, policymakers stressed that the pace and extent of further easing will depend on incoming economic data and the inflation outlook. The committee also cited heightened uncertainty stemming from conflicts in the Middle East and from the monetary policy outlook in advanced economies. Meanwhile, Brazil created a net 145,161 formal jobs in June, well above expectations of 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive. Fiscal concerns also persisted amid signals of higher government spending and pressure on revenues from new US tariffs."
+    },
+    {
+      "id": "5029266",
+      "time": "2026-08-06 23:48:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本電信、建築、能源及其他行業企業預計將合作開展資料中心的建設與運營。"
+    },
+    {
+      "id": "5029265",
+      "time": "2026-08-06 23:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所 7 月現金市場總成交金額環比下降 12%。"
+    },
+    {
+      "id": "5029264",
+      "time": "2026-08-06 23:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋駐日本大使將於8月19日訪問秋田縣，與縣知事等人舉行會談。"
+    },
+    {
+      "id": "5029263",
+      "time": "2026-08-06 23:47:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際投資者擬斥資約2萬億日元支援日本最大資料中心之一。"
+    },
+    {
+      "id": "5029262",
+      "time": "2026-08-06 23:46:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：阿聯酋主權財富基金穆巴達拉投資公司正就投資日本最大的資料中心專案之一展開洽談。"
+    },
+    {
+      "id": "5029261",
+      "time": "2026-08-06 23:45:49",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗：若中東局勢再度升級，且霍爾木茲海峽航運長期受阻，TTF天然氣與JKM液化天然氣價格甚至可能飆升至近70歐元/兆瓦時。"
+    },
     {
       "id": "mkt:019fd7c0-042a-7aab-8fa4-5da5efae916c",
       "time": "2026-08-06 23:45:13",

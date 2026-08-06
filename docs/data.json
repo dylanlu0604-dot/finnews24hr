@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-06 23:46:09",
-  "count": 16656,
+  "updated": "2026-08-06 23:50:17",
+  "count": 16650,
   "items": [
+    {
+      "id": "5029269",
+      "time": "2026-08-06 23:49:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALPHABET鉅額債券發行獲約 1150 億美元認購需求。"
+    },
+    {
+      "id": "5029268",
+      "time": "2026-08-06 23:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所 7 月現金市場總成交金額同比增長 30%。"
+    },
+    {
+      "id": "5029267",
+      "time": "2026-08-06 23:48:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本秋田縣將於本財年末開始出售工業園區地塊。"
+    },
+    {
+      "id": "te:economy:573450",
+      "time": "2026-08-06 23:48:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Bond Yield Rises After BCB Meeting — Brazil's 10-year government bond yield rose to 14.52% from the three-week low of 14.42% reached on August 4th after the Copom signaled a cautious approach to further interest rate cuts. Although the BCB lowered the Selic rate by a widely expected 25 basis points to 14.0%, its lowest level since March 2025, policymakers stressed that the pace and extent of further easing will depend on incoming economic data and the inflation outlook. The committee also cited heightened uncertainty stemming from conflicts in the Middle East and from the monetary policy outlook in advanced economies. Meanwhile, Brazil created a net 145,161 formal jobs in June, well above expectations of 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive. Fiscal concerns also persisted amid signals of higher government spending and pressure on revenues from new US tariffs."
+    },
+    {
+      "id": "5029266",
+      "time": "2026-08-06 23:48:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本電信、建築、能源及其他行業企業預計將合作開展資料中心的建設與運營。"
+    },
+    {
+      "id": "5029265",
+      "time": "2026-08-06 23:48:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "泛歐交易所 7 月現金市場總成交金額環比下降 12%。"
+    },
+    {
+      "id": "5029264",
+      "time": "2026-08-06 23:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋駐日本大使將於8月19日訪問秋田縣，與縣知事等人舉行會談。"
+    },
+    {
+      "id": "5029263",
+      "time": "2026-08-06 23:47:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際投資者擬斥資約2萬億日元支援日本最大資料中心之一。"
+    },
+    {
+      "id": "5029262",
+      "time": "2026-08-06 23:46:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：阿聯酋主權財富基金穆巴達拉投資公司正就投資日本最大的資料中心專案之一展開洽談。"
+    },
+    {
+      "id": "5029261",
+      "time": "2026-08-06 23:45:49",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗：若中東局勢再度升級，且霍爾木茲海峽航運長期受阻，TTF天然氣與JKM液化天然氣價格甚至可能飆升至近70歐元/兆瓦時。"
+    },
     {
       "id": "mkt:019fd7c0-042a-7aab-8fa4-5da5efae916c",
       "time": "2026-08-06 23:45:13",
@@ -152431,143 +152517,6 @@
         "Importance 0"
       ],
       "text": "European Stocks Rebound Sharply — European stocks closed sharply higher on Thursday amid strong GDP data and favorable corporate results. The Euro STOXX 50 rose 1.3% to 6,333 and the STOXX Europe 600 gained 0.6% to 649. The Eurozone GDP expanded by 0.4% in the second quarter, firmly above market expectations of 0.2% to reflect some resilience to soaring energy prices and sovereign yields in the period. Still, economic optimism was buffered by elevated EU-harmonized inflation rates, with pickups across Spain and Germany. Schneider Electric surged 10.8% after raising its full-year targets. BBVA climbed 5% after reporting an 11.4% increase in net profit. Also, ING rose more than 5% after posing their results, lifting other banks. On top of that, L'Oreal rose 2.7% after its earnings grew more than expected, and Ferrari maintained its slight gains after raising its guidance. On the downside, Adidas slumped 13.8% after its heavy marketing campaign around the FIFA World Cup triggered a surge in outlays."
-    },
-    {
-      "id": "5017460",
-      "time": "2026-07-30 23:50:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "希臘交易所集團旗下雅典證券交易所：上半年總市值達1825億歐元，創2007年以來新高。"
-    },
-    {
-      "id": "mkt:019fb3b7-ff2a-7aab-8f18-6a49c0707ad7",
-      "time": "2026-07-30 23:50:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【BSE to review Aisidi Industrial Technology IPO on Aug. 6】Beijing Stock Exchange said its Listing Review Committee will meet at 09:00 on Aug. 6 for the 73rd 2026 session to consider the initial public offering of Aisidi Industrial Technology Co., Ltd."
-    },
-    {
-      "id": "mkt:019fb3b7-fdb5-7aab-8f18-619b821eec5b",
-      "time": "2026-07-30 23:50:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Hungary's prime minister said the Paks nuclear power plant will be shut for the first time and is unlikely to be restarted soon."
-    },
-    {
-      "id": "5017459",
-      "time": "2026-07-30 23:49:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利短期內難以重啟帕克斯核電站。"
-    },
-    {
-      "id": "5017458",
-      "time": "2026-07-30 23:49:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "希臘交易所集團旗下雅典證券交易所：上半年平均日交易額為3.426億歐元，同比增長73.3%。"
-    },
-    {
-      "id": "5017457",
-      "time": "2026-07-30 23:49:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利將首次關停帕克斯核電站。"
-    },
-    {
-      "id": "5017456",
-      "time": "2026-07-30 23:48:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲4%，現報1302.50美元/盎司。"
-    },
-    {
-      "id": "5017455",
-      "time": "2026-07-30 23:48:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通執行長：汽車業務需求將推動未來增長。"
-    },
-    {
-      "id": "5017454",
-      "time": "2026-07-30 23:48:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【據預測到2030年全國生物製造市場規模將增長至1.8萬億元 佔全球市場規模近25%】“十四五”期間，全國生物製造產業總規模達到1.1萬億元，據預測，到2030年市場規模將增長至1.8萬億元，佔全球市場規模近25%。在國家戰略引領、技術突破賦能、市場需求拉動等多重因素驅動下，生物製造這個萬億級賽道，正迎來全面提速的黃金髮展期。 (央視財經)"
-    },
-    {
-      "id": "5017453",
-      "time": "2026-07-30 23:47:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 澤連斯基對烏克蘭安全域性實施大規模人事調整。奧列格・費多里夫獲任命擔任 “A 特種行動中心” 負責人，奧蓮娜・沃羅諾娃主管人事部門。"
-    },
-    {
-      "id": "5017452",
-      "time": "2026-07-30 23:47:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "環球音樂第二季度流媒體收入按固定匯率計算增長11.5%。"
-    },
-    {
-      "id": "5017451",
-      "time": "2026-07-30 23:47:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "希臘交易所集團雅典交易所有限公司：上半年淨利潤為2700萬歐元，去年同期為1350萬歐元。"
-    },
-    {
-      "id": "mkt:019fb3b4-f760-7aab-8f18-59c61681bbad",
-      "time": "2026-07-30 23:46:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Citadel buys large portion of Situational Awareness's public AI equity holdings】Situational Awareness, a hedge fund with about $24bln AUM founded by former OpenAI researcher Leopold Aschenbrenner, suffered heavy losses and sold a large portion of its roughly $16bln in public-equity holdings to Citadel, people familiar with the matter said. The firm retains private stakes including about $5bln in Anthropic, held emergency talks with investors on Wednesday night, and has been contacted by at least three other multi‑billion‑dollar hedge funds in the past 24 hours; it plans to continue operating as a private investment firm."
-    },
-    {
-      "id": "mkt:019fb3b4-c409-7aab-8f18-53a65cd917d2",
-      "time": "2026-07-30 23:46:36",
-      "tags": [
-        "MKT News",
-        "QCOM.O",
-        "Impact bearish",
-        "MU.O",
-        "Impact bullish",
-        "AAPL.O"
-      ],
-      "text": "Qualcomm (QCOM.O) CEO said memory-chip prices have risen sharply and that higher prices are changing consumer behavior."
-    },
-    {
-      "id": "5017450",
-      "time": "2026-07-30 23:46:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國公共投資銀行擬出售約6650萬股Orange股份。"
-    },
-    {
-      "id": "5017449",
-      "time": "2026-07-30 23:46:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "環球音樂集團上半年錄得的音樂訂閱收入同比增長9.0%。"
     }
   ]
 }
