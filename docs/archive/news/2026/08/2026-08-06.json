@@ -1,7 +1,136 @@
 {
   "date": "2026-08-06",
-  "count": 2453,
+  "count": 2468,
   "items": [
+    {
+      "id": "te:markets:573419",
+      "time": "2026-08-06 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.05% Lower — The Dow Jones Index is falling 28 points. Losses were driven by IBM (-1.89%), UnitedHealth (-1.06%) and Cisco Systems (-0.86%). Biggest rises came from Walt Disney (1.71%), Nvidia (1.62%) and Merck (1.33%)."
+    },
+    {
+      "id": "5029098",
+      "time": "2026-08-06 21:40:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "CELESTICA <CLS.TO> 股價在股票出售後下跌13.7%。"
+    },
+    {
+      "id": "5029097",
+      "time": "2026-08-06 21:39:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "福克斯股價漲幅擴大，最新上漲5.6%。"
+    },
+    {
+      "id": "5029096",
+      "time": "2026-08-06 21:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無錫銀行：副行長胥焱冰因工作變動辭職】無錫銀行公告稱，該行董事會近日收到副行長胥焱冰的書面辭職報告。因工作變動原因，胥焱冰辭去該行副行長職務。"
+    },
+    {
+      "id": "5029095",
+      "time": "2026-08-06 21:39:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉夫勞倫首席財務官表示，第一季度歐洲門店客流量受到整體宏觀環境的影響。"
+    },
+    {
+      "id": "5029094",
+      "time": "2026-08-06 21:38:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西杜財長：財政部不存在無法償還債務的風險。"
+    },
+    {
+      "id": "5029093",
+      "time": "2026-08-06 21:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：巴西沒有財政危機，而是失去了財政控制。"
+    },
+    {
+      "id": "mkt:019fd74b-e51f-7aab-8fa2-cb4516cd4a89",
+      "time": "2026-08-06 21:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Prime Minister Modi and Israeli Prime Minister Netanyahu reviewed the India-Israel strategic partnership."
+    },
+    {
+      "id": "5029092",
+      "time": "2026-08-06 21:37:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "西部資料股價迎來16個月來最大單日跌幅，最新跌幅達22.7%。"
+    },
+    {
+      "id": "5029091",
+      "time": "2026-08-06 21:37:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SoundHound AI股價上漲18.9%，此前該公司上調了財年收入預測的區間下限。"
+    },
+    {
+      "id": "5029090",
+      "time": "2026-08-06 21:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "重慶宇隆光電科技股份有限公司創業板IPO獲上市委會議透過。"
+    },
+    {
+      "id": "5029089",
+      "time": "2026-08-06 21:37:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "印度總理莫迪與以色列總理內塔尼亞胡回顧了印度-以色列戰略伙伴關係。"
+    },
+    {
+      "id": "te:economy:573417",
+      "time": "2026-08-06 21:37:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Private Sector Activity Contracts for 2nd Month — The S&P Global Canada Composite PMI rose to 49.7 in July 2026 from 47.9 in June, signaling a second consecutive month of contraction in private-sector business activity, albeit at a slower pace. The improvement reflected stronger manufacturing output, while the services sector remained in contraction. New business followed a similar pattern. Employment continued to expand across the private sector, though business confidence weakened to its lowest level since June 2025. On the price front, both input costs and output charges increased at faster rates."
+    },
+    {
+      "id": "5029088",
+      "time": "2026-08-06 21:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將西部資料目標價從732美元下調至720美元。"
+    },
+    {
+      "id": "5029086",
+      "time": "2026-08-06 21:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪與內塔尼亞胡就中東局勢發展交換意見。"
+    },
     {
       "id": "5029085",
       "time": "2026-08-06 21:36:11",

@@ -1,7 +1,136 @@
 {
-  "updated": "2026-08-06 21:36:59",
-  "count": 16761,
+  "updated": "2026-08-06 21:41:00",
+  "count": 16760,
   "items": [
+    {
+      "id": "te:markets:573419",
+      "time": "2026-08-06 21:40:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.05% Lower — The Dow Jones Index is falling 28 points. Losses were driven by IBM (-1.89%), UnitedHealth (-1.06%) and Cisco Systems (-0.86%). Biggest rises came from Walt Disney (1.71%), Nvidia (1.62%) and Merck (1.33%)."
+    },
+    {
+      "id": "5029098",
+      "time": "2026-08-06 21:40:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "CELESTICA <CLS.TO> 股價在股票出售後下跌13.7%。"
+    },
+    {
+      "id": "5029097",
+      "time": "2026-08-06 21:39:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "福克斯股價漲幅擴大，最新上漲5.6%。"
+    },
+    {
+      "id": "5029096",
+      "time": "2026-08-06 21:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無錫銀行：副行長胥焱冰因工作變動辭職】無錫銀行公告稱，該行董事會近日收到副行長胥焱冰的書面辭職報告。因工作變動原因，胥焱冰辭去該行副行長職務。"
+    },
+    {
+      "id": "5029095",
+      "time": "2026-08-06 21:39:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉夫勞倫首席財務官表示，第一季度歐洲門店客流量受到整體宏觀環境的影響。"
+    },
+    {
+      "id": "5029094",
+      "time": "2026-08-06 21:38:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西杜財長：財政部不存在無法償還債務的風險。"
+    },
+    {
+      "id": "5029093",
+      "time": "2026-08-06 21:38:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：巴西沒有財政危機，而是失去了財政控制。"
+    },
+    {
+      "id": "mkt:019fd74b-e51f-7aab-8fa2-cb4516cd4a89",
+      "time": "2026-08-06 21:38:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Prime Minister Modi and Israeli Prime Minister Netanyahu reviewed the India-Israel strategic partnership."
+    },
+    {
+      "id": "5029092",
+      "time": "2026-08-06 21:37:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "西部資料股價迎來16個月來最大單日跌幅，最新跌幅達22.7%。"
+    },
+    {
+      "id": "5029091",
+      "time": "2026-08-06 21:37:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SoundHound AI股價上漲18.9%，此前該公司上調了財年收入預測的區間下限。"
+    },
+    {
+      "id": "5029090",
+      "time": "2026-08-06 21:37:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "重慶宇隆光電科技股份有限公司創業板IPO獲上市委會議透過。"
+    },
+    {
+      "id": "5029089",
+      "time": "2026-08-06 21:37:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "印度總理莫迪與以色列總理內塔尼亞胡回顧了印度-以色列戰略伙伴關係。"
+    },
+    {
+      "id": "te:economy:573417",
+      "time": "2026-08-06 21:37:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Private Sector Activity Contracts for 2nd Month — The S&P Global Canada Composite PMI rose to 49.7 in July 2026 from 47.9 in June, signaling a second consecutive month of contraction in private-sector business activity, albeit at a slower pace. The improvement reflected stronger manufacturing output, while the services sector remained in contraction. New business followed a similar pattern. Employment continued to expand across the private sector, though business confidence weakened to its lowest level since June 2025. On the price front, both input costs and output charges increased at faster rates."
+    },
+    {
+      "id": "5029088",
+      "time": "2026-08-06 21:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將西部資料目標價從732美元下調至720美元。"
+    },
+    {
+      "id": "5029086",
+      "time": "2026-08-06 21:36:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪與內塔尼亞胡就中東局勢發展交換意見。"
+    },
     {
       "id": "5029085",
       "time": "2026-08-06 21:36:11",
@@ -153461,153 +153590,6 @@
         "國際"
       ],
       "text": "美國2年期國債收益率下跌6個基點至周低點4.21%。"
-    },
-    {
-      "id": "5017228",
-      "time": "2026-07-30 21:40:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月30日21時39分在四川瀘州市瀘縣附近（北緯29.23度，東經105.64度）發生3.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "te:markets:571285",
-      "time": "2026-07-30 21:40:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Brazil Stocks Rise Despite Mixed Earnings — The Ibovespa edged up to trade above 174,000 on Thursday as investors assessed another round of corporate earnings. Vale (+2%) is set to report second-quarter results after the market close. Other notable performers included Axia (+1.5%), WEG (+1.5%) and Rede D'Or (+2%). Ambev fell 3% despite posting stronger second-quarter net income, as revenue and EBITDA missed market expectations. Santander Brasil slipped 0.6% after disappointing second-quarter results prompted JPMorgan to downgrade the stock to Neutral. Meanwhile, Bradesco dropped 3% after announcing a capital increase of up to R$10 billion, with controlling shareholders committing to subscribe up to R$8 billion. On the data front, Brazil's unemployment rate fell to 5.4% in the quarter ending in June, reinforcing signs of a resilient labor market. Recent BCB communications have highlighted greater upside than downside risks to inflation, suggesting the current interest rate-cutting cycle may soon pause."
-    },
-    {
-      "id": "5017227",
-      "time": "2026-07-30 21:40:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月30日21時39分在四川瀘州市瀘縣附近（北緯29.23度，東經105.64度）發生3.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "mkt:019fb341-411c-7aab-8f15-397666574598",
-      "time": "2026-07-30 21:40:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said Hamas continues to systematically violate the ceasefire and is attempting to restore its military capabilities."
-    },
-    {
-      "id": "mkt:019fb341-1c62-7aab-8f15-33943773fd20",
-      "time": "2026-07-30 21:40:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said early Wednesday it conducted operations across multiple areas of the Gaza Strip and dismantled four Hamas weapons storage facilities."
-    },
-    {
-      "id": "te:markets:571283",
-      "time": "2026-07-30 21:40:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.44% Higher — The Dow Jones Index is up by 229 points or 0.44 percent on Thursday. Top gainers are Microsoft (14.28%), Caterpillar (3.26%) and Amazon (2.85%). Biggest losses came from Nike (-3.89%), J&J (-2.54%) and Walt Disney (-2.53%)."
-    },
-    {
-      "id": "5017226",
-      "time": "2026-07-30 21:39:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "日元大幅走強，引發市場干預猜想。"
-    },
-    {
-      "id": "mkt:019fb340-41ed-7aab-8f15-2efeab5414c0",
-      "time": "2026-07-30 21:39:20",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "USD/JPY plunged intraday, down 1.50% to 160.9."
-    },
-    {
-      "id": "5017225",
-      "time": "2026-07-30 21:39:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元USD/JPY短線跳水，日內跌幅達1.50%，現報160.9。"
-    },
-    {
-      "id": "te:markets:571282",
-      "time": "2026-07-30 21:39:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound — US equities rebounded on Thursday from sharp losses yesterday amid a batch of corporate earnings and respite for chip stocks. The S&P 500 and the Dow gained over 0.5%, while the Nasdaq 100 gained 1.5%. Microsoft surged nearly 12% after posting a 43% growth in cloud revenues, the most since 2022. This combined with capital expenditure forecasts that did not outpace expectations, limiting concerns of unsustainable AI spending. Also, chip producers enjoyed some respite following their selloff yesterday with Micron and Sandisk rising over 9%. Conversely, Meta tanked 10% after its guidance missed expectations, while markets remained skeptical on whether its AI labs will drive revenue as signaled by the hyperscaler. Meanwhile, long-dated yields held their surge despite softer-than-expected GDP growth in Q1. The Fed held rates yesterday, but Chair Warsh's reluctance to signal a rate hike raised concerns that inflation could be higher for longer. Apple and Amazon report after the bell."
-    },
-    {
-      "id": "5017224",
-      "time": "2026-07-30 21:39:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局：BLUE MOTOR FINANCE LIMITED進入破產管理程式。"
-    },
-    {
-      "id": "5017223",
-      "time": "2026-07-30 21:38:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "百特上調年度利潤預測後，股。價上漲17%"
-    },
-    {
-      "id": "5017222",
-      "time": "2026-07-30 21:38:28",
-      "tags": [
-        "宏觀",
-        "資料"
-      ],
-      "text": "巴基斯坦財政部長報告：預計2026年7月CPI通脹率將在9%-10%區間。"
-    },
-    {
-      "id": "5017221",
-      "time": "2026-07-30 21:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在加沙地帶摧毀四處哈馬斯武器儲存設施】7月29日，以色列國防軍與以色列國家安全總局（辛貝特）發表聯合宣告稱，以軍於28日夜間在加沙地帶多個區域發動空襲，摧毀了四處哈馬斯武器儲存設施。以軍在宣告中指出，在上述被摧毀的設施內，存放有卡拉什尼科夫步槍、爆炸裝置、彈藥及其他軍事裝備。以方聲稱，這些武器原計劃用於襲擊在“黃線”地區執行任務的以軍士兵及以色列平民，此次行動旨在消除相關安全威脅。宣告同時指責哈馬斯持續系統性地違反停火協議，並試圖恢復其軍事能力。以軍強調，隸屬於南方司令部的部隊目前仍按照停火協議部署在相關地區，並將繼續採取行動，消除任何迫在眉睫的威脅。"
-    },
-    {
-      "id": "5017220",
-      "time": "2026-07-30 21:37:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "法拉利執行長：包括296 Speciale和12Cilindri系列在內的多款車型，其整個生產週期的配額已全部售罄。"
-    },
-    {
-      "id": "5017219",
-      "time": "2026-07-30 21:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱連夜打擊加沙境內哈馬斯武器儲存點。"
     }
   ]
 }
