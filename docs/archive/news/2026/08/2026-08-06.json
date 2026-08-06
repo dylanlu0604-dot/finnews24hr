@@ -1,7 +1,57 @@
 {
   "date": "2026-08-06",
-  "count": 782,
+  "count": 787,
   "items": [
+    {
+      "id": "5027807",
+      "time": "2026-08-06 09:53:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6G概念異動拉昇 廣哈通訊20cm漲停】6G概念盤中異動拉昇，廣哈通訊20cm漲停，此前武漢凡谷漲停，本川智慧、創遠信科、碩貝德、信科移動、盛路通訊跟漲。"
+    },
+    {
+      "id": "mkt:019fd4c6-86c1-7aab-8f98-6a18ea6af77e",
+      "time": "2026-08-06 09:53:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02589.HK",
+        "Impact bullish"
+      ],
+      "text": "HK-listed Hu Shang Ayi (02589.HK) rose more than 9% on heavy turnover, with volume exceeding 690,000 lots."
+    },
+    {
+      "id": "5027805",
+      "time": "2026-08-06 09:53:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝恩資本將從TA Associates手中收購貢茶。"
+    },
+    {
+      "id": "mkt:019fd4c5-add5-7aab-8f98-67d778d2804c",
+      "time": "2026-08-06 09:52:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "00340.HK",
+        "Impact bullish",
+        "03330.HK",
+        "01818.HK"
+      ],
+      "text": "Most Hong Kong-listed gold miners rose: Tongguan Gold (00340.HK) and Lingbao Gold (03330.HK) gained over 6%; Zhaojin Mining (01818.HK), Shandong Gold (01787.HK) and Chifeng Gold (06693.HK) rose more than 5%."
+    },
+    {
+      "id": "5027804",
+      "time": "2026-08-06 09:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫整合投資成立數字能源新公司 含AI相關業務】企查查APP顯示，近日，深圳市協鑫艙元數字能源有限公司成立，經營範圍包含：大資料服務；人工智慧行業應用系統整合服務；物聯網技術服務；工業網際網路資料服務等。企查查股權穿透顯示，該公司由協鑫整合全資子公司蘇州協鑫整合投資有限公司等共同持股。"
+    },
     {
       "id": "5027803",
       "time": "2026-08-06 09:48:42",
