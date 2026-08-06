@@ -1,7 +1,160 @@
 {
   "date": "2026-08-06",
-  "count": 648,
+  "count": 663,
   "items": [
+    {
+      "id": "mkt:019fd4a6-4642-7aab-8f97-2dae719ccdd6",
+      "time": "2026-08-06 09:18:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's National Marine Forecasting Center issues orange wave alert as Typhoon Baihaidun nears】China's Ministry of Natural Resources said the National Marine Forecasting Center issued an orange wave alert at 08:00 today for Typhoon Baihaidun. From the morning of Aug 6 to the morning of Aug 7, the eastern East China Sea is expected to see 6-10m waves; offshore wave alert level is orange. Zhejiang nearshore waters are expected to see 2-3m waves; nearshore wave alert level is blue."
+    },
+    {
+      "id": "mkt:019fd4a5-e9d8-7aab-8f97-2385cace54bb",
+      "time": "2026-08-06 09:17:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude oil breached $75 a barrel, up 0.91% intraday."
+    },
+    {
+      "id": "mkt:019fd4a5-574a-7aab-8f97-1b4943852b02",
+      "time": "2026-08-06 09:17:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "DALY said if inflation pressures re-intensify, the Fed would need to take aggressive rate action."
+    },
+    {
+      "id": "5027732",
+      "time": "2026-08-06 09:16:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【壹連科技：對BE的訂單與出貨量環比持續增長】壹連科技(301631)8月6日在互動平臺表示，公司對BE的訂單與出貨量環比持續增長，目前訂單交付節奏有序，產能配置充分，可滿足BE快速增長的訂單需求。該業務當前佔公司整體營收比例仍較小。"
+    },
+    {
+      "id": "mkt:019fd4a4-f33f-7aab-8f97-1580e55aef17",
+      "time": "2026-08-06 09:16:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "DALY said she is concerned about how the public would respond to a second-round major inf shock."
+    },
+    {
+      "id": "5027731",
+      "time": "2026-08-06 09:16:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：通脹壓力再度加劇將需要採取激進加息應對。"
+    },
+    {
+      "id": "5027730",
+      "time": "2026-08-06 09:16:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：對公眾可能如何應對第二輪重大通脹衝擊感到擔憂。"
+    },
+    {
+      "id": "5027729",
+      "time": "2026-08-06 09:16:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：如果人工智慧引發的衝擊蔓延，我會更加擔憂。"
+    },
+    {
+      "id": "mkt:019fd4a4-a3ad-7aab-8f97-0e8b3279596b",
+      "time": "2026-08-06 09:16:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng futures opened the day session down 0.94% at 25,666, trading a 250-point discount to the cash index."
+    },
+    {
+      "id": "5027728",
+      "time": "2026-08-06 09:15:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7895，較上日調低6點】人民幣兌美元中間價報6.7895，較上日調低6點。"
+    },
+    {
+      "id": "5027727",
+      "time": "2026-08-06 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7895元。"
+    },
+    {
+      "id": "5027726",
+      "time": "2026-08-06 09:15:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本熊本縣發生強震 汽車零部件供應中斷風險引發廣泛擔憂】據報道，日本西南部以熊本縣為震中的大地震發生已過去一週有餘。災情評估與修復工作正在推進，當地工廠正逐步恢復生產。但仍有部分工廠損毀嚴重，尚未確定復工時間；也有部分工廠因零部件穩定供應存憂而處於停產狀態。在週二的財報釋出會上，豐田汽車會計集團負責人TakanoriAzuma表示：“人命優先，其次是地區重建，最後才是生產的恢復與重啟。我們將嚴格遵循這一優先順序，審慎做出生產運營相關決策。”地震發生次日7月29日上午，豐田位於福岡縣的三家工廠曾臨時復工，但當晚再度停產，計劃停產持續至週三。豐田愛知縣工廠自週一起停工，預計持續至週五，部分原因是產線計劃開展施工作業。"
+    },
+    {
+      "id": "5027725",
+      "time": "2026-08-06 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.98%，報25656.16點，低水259.66點。"
+    },
+    {
+      "id": "te:economy:573167",
+      "time": "2026-08-06 09:14:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Philippines Jobless Rate Edges Up to 4.9% in June — The unemployment rate in the Philippines edged up to 4.9% in June 2026 from 4.8% in May and was higher than the 3.7% recorded in the same month a year earlier. The number of unemployed individuals rose to 2.59 million, up from 2.50 million in the previous month and 1.95 million in June 2025. Meanwhile, the employment rate slipped to 95.1% from 95.2%, even as the total number of employed persons increased to 50.66 million from 49.63 million in May. The services sector remained the country's largest employer, accounting for 62.7% of total employment, followed by agriculture (20.0%) and industry (17.3%). The underemployment rate ticked down to 12.1% from 12.2% in May, while average weekly hours worked declined to 40.6 from 41.1. Wage and salary workers made up 64.1% of the employed population, with the majority (77.6%) working in private establishments."
+    },
+    {
+      "id": "5027724",
+      "time": "2026-08-06 09:14:40",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：如果CPI資料回升，那可不是什麼好兆頭。"
+    },
     {
       "id": "5027723",
       "time": "2026-08-06 09:14:16",
