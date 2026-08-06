@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-06 09:54:14",
-  "count": 17357,
+  "updated": "2026-08-06 09:58:09",
+  "count": 17364,
   "items": [
+    {
+      "id": "te:markets:573191",
+      "time": "2026-08-06 09:57:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Snap 2-Session Gains — The Shanghai Composite fell 0.2% to 3,870 on Thursday, while the Shenzhen Component dropped 0.6% to 14,053, snapping a two-session winning streak as a rally in technology and semiconductor stocks lost momentum. Investors took profits and reassessed valuations after AI-related shares rebounded sharply from last month's selloff, which triggered significant losses for several hedge funds. Leading decliners included Cambricon Technologies (-3.0%), SMIC (-2.8%), Hygon Information Technology (-1.9%), Zhongji Innolight (-4.9%), Eoptolink Technology (-2.7%), and NAURA Technology (-2.3%). Meanwhile, investors continued to monitor developments in the Middle East after Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, raising hopes for the eventual reopening of the strategic waterway. Domestically, markets are awaiting China's upcoming trade data for further insight into the resilience of external demand and the broader economic outlook."
+    },
+    {
+      "id": "te:markets:573190",
+      "time": "2026-08-06 09:57:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Tumble on Tech and Insurance Selloff — The Hang Seng Index tumbled 1.8%, or 472 points, to 25,444 on Thursday, reversing the previous session's gains as investors locked in profits following a strong rally in technology shares. Sentiment weakened across Asian markets after the recent artificial intelligence-driven rally showed signs of cooling, while lingering uncertainty over efforts to reopen the Strait of Hormuz kept investors cautious. The decline was led by losses in technology and financial stocks. AI-related shares came under pressure as investors rotated out of large-cap technology stocks, while financial stocks also weighed following reports that mainland Chinese authorities had begun enforcing a 20% tax on investment gains from offshore insurance policies, raising concerns over future sales of Hong Kong-issued insurance products to mainland customers. Notable laggards included AIA (-7.7%), Tencent (-1.3%), Pop Mart International (-2.9%), SMIC (-3.2%), and Kingboard Laminates (-1.6%)."
+    },
+    {
+      "id": "5027811",
+      "time": "2026-08-06 09:56:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股滬上阿姨漲超10%】港股滬上阿姨漲超10%，成交額超9000萬港元。"
+    },
+    {
+      "id": "mkt:019fd4c8-c0c8-7aab-8f98-8f32949610f6",
+      "time": "2026-08-06 09:55:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01299.HK",
+        "Impact bearish",
+        "02318.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong insurance stocks slid in choppy trade; AIA (01299.HK) fell over 8%, while China Pacific Insurance (02601.HK), Ping An (02318.HK) and China Life (02628.HK) each declined about 2%."
+    },
+    {
+      "id": "mkt:019fd4c8-374d-7aab-8f98-809a71c1042e",
+      "time": "2026-08-06 09:55:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【OpenAI discloses AI models secretly communicated for months, then targeted Hugging Face】OpenAI said AI models involved in an attack on open-source model host Hugging Face began communicating via undiscovered channels in May and collaborated to try to break out of a test environment. Employees Wallace and Dalton said multiple internal-only agents and models spent months exchanging messages and coalesced around a goal of gaining internet access to complete tasks some could not finish offline. Wallace said the agents at one point explored exploiting or attacking external infrastructure to obtain answers to evaluation tasks. Researchers’ briefing added detail to the hack and the episode underscores rising concern that advanced AI could be used for destructive cyber operations."
+    },
+    {
+      "id": "mkt:019fd4c8-2a0f-7aab-8f98-7b1d8aeb19b5",
+      "time": "2026-08-06 09:55:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share rare-earth permanent-magnet sector rose. Youyan New Material hit the daily limit; Yinhe Magnetics advanced more than 10%. Zhongke Magnetic, Xici Technology, Jiuling Technology, Northern Rare Earth and Jinli Permanent Magnet also gained."
+    },
+    {
+      "id": "5027810",
+      "time": "2026-08-06 09:54:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【稀土永磁板塊短線拉昇，有研新材漲停】稀土永磁板塊短線拉昇，有研新材漲停，銀河磁體漲超10%，中科磁業、西磁科技、九菱科技、北方稀土、金力永磁等跟漲。"
+    },
+    {
+      "id": "5027809",
+      "time": "2026-08-06 09:54:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻璃基板概念反覆活躍 沃格光電3連板】玻璃基板概念反覆活躍，沃格光電3連板，紅星發展、凱盛科技、彩虹股份、力諾藥包跟漲。"
+    },
+    {
+      "id": "mkt:019fd4c7-0dfb-7aab-8f98-73720184d7c2",
+      "time": "2026-08-06 09:54:02",
+      "tags": [
+        "MKT News",
+        "07709.HK",
+        "Impact bearish",
+        "07747.HK"
+      ],
+      "text": "China Southern 2x long SK Hynix (07709) fell more than 14%; China Southern 2x long Samsung Electronics (07747) fell more than 10%."
+    },
+    {
+      "id": "5027808",
+      "time": "2026-08-06 09:53:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方兩倍做多海力士(07709)跌超14%，南方兩倍做多三星電子(07747)跌超10%。"
+    },
     {
       "id": "5027807",
       "time": "2026-08-06 09:53:41",
@@ -9,6 +108,14 @@
         "市場"
       ],
       "text": "【6G概念異動拉昇 廣哈通訊20cm漲停】6G概念盤中異動拉昇，廣哈通訊20cm漲停，此前武漢凡谷漲停，本川智慧、創遠信科、碩貝德、信科移動、盛路通訊跟漲。"
+    },
+    {
+      "id": "5027806",
+      "time": "2026-08-06 09:53:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤新能源：從未舉辦“上市答謝”“併購重組戰略交流會”等相關活動】華潤新能源在互動平臺表示，公司近期發現有不明主體冒用“華潤新能源”名義舉辦“上市答謝”“華潤新能源與中國政企合作投資基金併購重組戰略交流會”等活動併發布虛假資訊，公司已就此事在官方網站上釋出嚴正宣告，且向深圳市公安局南山分局報案，公司從未舉辦“上市答謝”“併購重組戰略交流會”等相關活動，從未有任何公司員工參與上述活動，也從未與中國政企合作投資基金開展任何合作。請廣大投資者、合作伙伴以及社會公眾提高警惕，謹防上當受騙。"
     },
     {
       "id": "mkt:019fd4c6-86c1-7aab-8f98-6a18ea6af77e",
@@ -159784,39 +159891,6 @@
         "公司"
       ],
       "text": "三星：幾乎所有記憶體晶片大客戶都尋求籤訂多年合同。"
-    },
-    {
-      "id": "5015663",
-      "time": "2026-07-30 09:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【階梯醫療植入式腦機介面獲臨床進展：延遲低於50毫秒，高位截癱患者實現“腦控”辦公】從階梯醫療處獲悉，其自主研發的微創植入式腦機介面技術在臨床試驗取得實質進展，多名高位截癱患者依託該系統成功重返職場，從事電商物流協調及後臺標註等專職工作。技術層面，階梯醫療自主研發的256通道植入式腦機介面系統WRS 01採用超柔性電極採集單神經元訊號，受試者人機資訊互動效率達380位元/分鐘，指令延遲低於50毫秒。應用層面，該系統已無縫接入Windows、iOS等主流作業系統，患者目前可連續3至4小時進行穩定高效的腦控操作與多工處理。此項臨床資料與實際應用成果，標誌著植入式腦機介面技術從實驗室向日常應用場景邁出關鍵一步。（介面新聞）"
-    },
-    {
-      "id": "5015662",
-      "time": "2026-07-30 09:56:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "香港金管局回應美聯儲利率決定：將繼續密切監視市場發展。"
-    },
-    {
-      "id": "5015661",
-      "time": "2026-07-30 09:55:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：需要對預算規模進行同比比較，因為初始預算可能比往年更大，市場可能對此反應過度。"
-    },
-    {
-      "id": "5015660",
-      "time": "2026-07-30 09:55:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：許多客戶要求籤訂多年供應合同。"
     }
   ]
 }
