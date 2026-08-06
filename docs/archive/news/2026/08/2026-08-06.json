@@ -1,7 +1,112 @@
 {
   "date": "2026-08-06",
-  "count": 1905,
+  "count": 1917,
   "items": [
+    {
+      "id": "te:economy:573368",
+      "time": "2026-08-06 18:20:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Irish Jobless Rate Highest Since 2021 — Ireland’s seasonally adjusted unemployment rate rose to 5.1% in July 2026 from 5.0% in the previous month and was also slightly higher than the 5.0% recorded a year earlier, marking the highest reading since December 2021. The total number of unemployed people increased by 2,800 from the previous month and by 2,600 from a year earlier, reaching 149,900. By gender, the unemployment rate for females edged up to 5.3% from 5.2% in June, with the number of unemployed women rising by 1,800 to 74,300. For males, the jobless rate also ticked up to 4.9% from 4.8%, while the number of unemployed men increased by 1,100 to 75,600. Meanwhile, the youth unemployment rate (ages 15–24) climbed to 12.3% from 11.8% in June, while the rate for those aged 25–74 edged up to 4.1% from 4.0% over the last three months."
+    },
+    {
+      "id": "5028656",
+      "time": "2026-08-06 18:20:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華特氣體：部分募投專案結項 5689.03萬元節餘資金擬補流】華特氣體公告稱，公司擬將“研發中心建設專案”和“年產1,936.2噸電子特氣專案”結項，截至2026年7月31日，兩專案節餘資金共5,689.03萬元（含利息及理財收益）。公司擬將節餘資金永久補充流動資金，用於日常生產經營，該事項已透過董事會審議，尚需股東會審議。保薦機構中信建投對該事項無異議。"
+    },
+    {
+      "id": "5028655",
+      "time": "2026-08-06 18:20:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：納格爾角正逐歐洲央行行長（拉加德繼任崗位），柏林會談推動相關程序。"
+    },
+    {
+      "id": "5028654",
+      "time": "2026-08-06 18:19:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚燦光電牽手中科院蘇州奈米所攻關光互連與空間光伏】聚燦光電8月6日訊息，聚燦光電科技（宿遷）有限公司近日與中國科學院蘇州奈米技術與奈米仿生研究所正式簽署合作協議，共建“光互連Micro-LED與空間光伏創新聯合實驗室”。雙方合作聚焦兩大方向，分別為光互連Micro-LED晶片和空間光伏關鍵技術研發。"
+    },
+    {
+      "id": "5028653",
+      "time": "2026-08-06 18:18:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：電網運營商協會正為日食影響做好籌備工作。"
+    },
+    {
+      "id": "mkt:019fd695-06b4-7aab-8fa0-35001de982db",
+      "time": "2026-08-06 18:18:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A European Commission spokesperson said the association of grid operators is preparing for the solar eclipse's impact on the power grid."
+    },
+    {
+      "id": "5028652",
+      "time": "2026-08-06 18:18:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電計量：5414.41萬股限售股8月12日上市流通】廣電計量公告稱，公司2025年度向特定物件發行的54,144,106股限售股將於2026年8月12日上市流通，佔公司總股本的8.4650%，涉及16名股東、23個證券賬戶。本次發行新增股份於2026年2月12日上市，限售期6個月。發行後公司總股本因回購登出及期權行權有所變化，目前為639,621,152股。保薦機構華泰聯合證券核查後，同意本次解除限售股份上市流通。"
+    },
+    {
+      "id": "5028651",
+      "time": "2026-08-06 18:18:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和遠氣體：股票交易異常波動 提醒關注電子特氣業務風險】和遠氣體公告稱，公司股票連續3個交易日（2026年8月4 - 6日）累計偏離22.82%，屬異常波動。公司規劃的500噸/年電子級六氟化鎢等電子特氣產品尚處試生產階段，未取得下游頭部企業認證、未簽單、無業績，預計2 - 3年對業績無重大影響。目前僅少數電子特氣品類實現銷售，佔比不足5%。截至8月5日，公司滾動市盈率遠超行業平均，存在炒作風險，提醒投資者理性決策。"
+    },
+    {
+      "id": "5028650",
+      "time": "2026-08-06 18:18:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "EPAM 系統盤前跌幅進一步擴大，最新下跌 12.7%。"
+    },
+    {
+      "id": "5028649",
+      "time": "2026-08-06 18:17:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會發言人：  歐盟電力供應情況穩定，不存在供應安全問題。"
+    },
+    {
+      "id": "5028648",
+      "time": "2026-08-06 18:17:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【昊華科技：股票交易異常波動 正籌劃特定物件發行股票】昊華科技公告稱，公司股票於2026年8月4 - 6日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司目前經營正常，內外部環境無重大變化。為落實國有資本權益，公司正籌劃向控股股東中國昊華髮行股票，將委託貸款形式的國撥資金轉為股權投資。該事項尚處前期階段，存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019fd693-ba5e-7aab-8fa0-2f311a7e97e1",
+      "time": "2026-08-06 18:17:13",
+      "tags": [
+        "MKT News",
+        "CSCO.O",
+        "Impact bullish"
+      ],
+      "text": "CITIGROUP raises PT on Cisco (CSCO.O) to $139 from $112."
+    },
     {
       "id": "mkt:019fd693-12cf-7aab-8fa0-228160ac1548",
       "time": "2026-08-06 18:16:30",
