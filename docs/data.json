@@ -1,7 +1,157 @@
 {
-  "updated": "2026-08-06 14:29:11",
-  "count": 17240,
+  "updated": "2026-08-06 14:33:09",
+  "count": 17239,
   "items": [
+    {
+      "id": "5028116",
+      "time": "2026-08-06 14:32:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【全球晶片LOF溢價率高達31% 8月以來已8次提示溢價風險】全球晶片LOF今日窄幅震盪，盤中一度上漲1.17%，溢價率超33%。截至中午收市，該產品下跌0.82%，溢價率依然高達31.21%。為保護投資者利益，該基金於今日下午開市起停牌至當日收市。8月以來，該產品已8次釋出溢價風險提示公告。基金管理人提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。基金管理人還提示，該基金二級市場的交易價格，除了有基金份額淨值波動的風險外，還會受到市場供求關係、系統性風險、流動性風險等其他因素的影響，可能使投資者面臨損失。"
+    },
+    {
+      "id": "mkt:019fd5c5-e59b-7aab-8f9b-28bb4efe4f59",
+      "time": "2026-08-06 14:32:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish",
+        "000660.KS",
+        "005930.KS"
+      ],
+      "text": "【Japan, South Korea stocks fall; KOSPI down 4.6%】Japan's Nikkei 225 closed down 617.18 points, or 0.93%, at 65,683.26 on Aug. 6; Kioxia slid more than 9%. South Korea's KOSPI closed down 302.82 points, or 4.59%, at 6,295.44, while the KOSDAQ rose 0.26%. SK Hynix fell 10.3% and Samsung Electronics dropped 6.3%."
+    },
+    {
+      "id": "5028115",
+      "time": "2026-08-06 14:32:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統稱與最高領袖聯絡非常困難】伊朗伊斯蘭共和國廣播電視臺8月5日報道，伊朗總統佩澤希齊揚說，目前與伊朗最高領袖穆傑塔巴聯絡“非常困難”，一些人利用穆傑塔巴的正常決策過程在伊朗內部製造分歧。佩澤希齊揚說，穆傑塔巴曾在決策過程中表示，儘管自己原則上持反對意見，但如果相關程式推進，他也會接受。然而，一些試圖製造分裂的人卻不斷誇大問題的嚴重性，以推進符合自身利益的議程。佩澤希齊揚表示，敵人曾企圖擾亂伊朗社會，但沒能得逞。敵人透過加大制裁、發動軍事行動等方式向伊朗施壓。伊朗政府將“與人民站在一起”，維持局勢穩定。 近期，有傳聞稱佩澤希齊揚與伊朗最高領袖、伊朗伊斯蘭革命衛隊存在分歧，稱佩澤希齊揚可能辭職，伊朗總統辦公室已多次闢謠。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5028114",
+      "time": "2026-08-06 14:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "任天堂仍然預測全年淨利潤3,100.0億日元，預估3,698.9億日元。"
+    },
+    {
+      "id": "5028113",
+      "time": "2026-08-06 14:31:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "任天堂仍然預測全年銷售淨額2.05萬億日元，預估2.28萬億日元。"
+    },
+    {
+      "id": "5028112",
+      "time": "2026-08-06 14:31:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤下跌0.9%，報65,683.26點。"
+    },
+    {
+      "id": "mkt:019fd5c4-c1ca-7aab-8f9b-24809a8fc2a7",
+      "time": "2026-08-06 14:31:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Aug 6: Agricultural Wholesale Price 200 Index 113.66, up 0.17 points】Ministry of Agriculture and Rural Affairs monitoring: Aug 6 Agricultural Wholesale Price 200 Index 113.66, up 0.17 points vs prior day; the 'vegetable basket' wholesale price index 113.83, up 0.20 points. As of 14:00 nationwide wholesale average prices: pork 15.80 yuan/kg, up 0.4% day-on-day; beef 67.25 yuan/kg, down 0.2%; mutton 64.59 yuan/kg, up 0.3%; eggs 9.84 yuan/kg, down 0.2%; dressed chicken 17.23 yuan/kg, down 0.6%."
+    },
+    {
+      "id": "5028111",
+      "time": "2026-08-06 14:31:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團仍然預測全年股息11.00日元，預估11.00日元。"
+    },
+    {
+      "id": "5028110",
+      "time": "2026-08-06 14:30:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "任天堂第一季度經營利潤1,426.0億日元，預估740.9億日元。"
+    },
+    {
+      "id": "5028109",
+      "time": "2026-08-06 14:30:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團第一季度銷售淨額2.02萬億日元，預估1.97萬億日元。"
+    },
+    {
+      "id": "5028108",
+      "time": "2026-08-06 14:30:30",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "軟銀集團第一季度淨利潤3,473.3億日元，預估1,658.3億日元。"
+    },
+    {
+      "id": "5028107",
+      "time": "2026-08-06 14:30:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "任天堂第一季度經營利潤1,426.0億日元，預估740.9億日元。"
+    },
+    {
+      "id": "te:markets:573271",
+      "time": "2026-08-06 14:30:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.98% Lower — The Nikkei 225 Index decreased 648 points or 0.98 percent on Thursday to close at 65652 points. The decline was led by Taiyo Yuden (-11.24%), GS Yuasa (-10.07%) and Mitsui Kinzoku (-9.92%). On the upside, the strongest performers were Omron (16.08%), KAO (12.45%) and Meiji Holdings (11.30%)."
+    },
+    {
+      "id": "5028106",
+      "time": "2026-08-06 14:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月6日：“農產品批發價格200指數”比昨天上升0.17個點】據農業農村部監測，8月6日“農產品批發價格200指數”為113.66，比昨天上升0.17個點，“菜籃子”產品批發價格指數為113.83，比昨天上升0.20個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.80元/公斤，比昨天上升0.4%；牛肉67.25元/公斤，比昨天下降0.2%；羊肉64.59元/公斤，比昨天上升0.3%；雞蛋9.84元/公斤，比昨天下降0.2%；白條雞17.23元/公斤，比昨天下降0.6%。重點監測的28種蔬菜平均價格為4.41元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為7.11元/公斤，比昨天上升2.4%。鯽魚20.56元/公斤，比昨天上升1.7%；鯉魚14.19元/公斤，比昨天下降2.3%；白鰱魚10.71元/公斤，比昨天上升4.7%；大帶魚42.10元/公斤，比昨天上升1.3%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是巨峰葡萄、白鰱魚、西瓜、菠蘿和青椒，幅度分別為5.8%、4.7%、4.4%、3.6%和3.4%；價格降幅前五名的是鴨梨、鯉魚、西紅柿、西葫蘆和萵筍，幅度分別為2.9%、2.3%、1.8%、1.7%和1.6%。"
+    },
+    {
+      "id": "5028105",
+      "time": "2026-08-06 14:29:55",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "巴克萊銀行指出，隨著股利匯出潮減退，新臺幣有望迎來喘息，鑑於新臺幣兌韓元的跌幅尤其過度，建議戰術性做多六個月期新臺幣/韓元無本金交割遠期。"
+    },
+    {
+      "id": "5028104",
+      "time": "2026-08-06 14:29:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南暑期入境遊持續升溫】入夏以來，雲南憑藉高原清涼氣候與入境免籤政策，成為海外遊客避暑旅遊、旅居的熱門目的地。最新資料顯示，截至8月1日，雲南省今年入境旅客累計已突破99萬人次。僅7月，昆明口岸查驗出入境外籍人員就達8.1萬人次，其中一半以上為避暑遊客，入境遊市場呈現出鮮明的“暑期檔”特徵。昆明出入境邊防檢查站介紹，今年夏天北半球多地遭遇持續極端高溫，雲南憑藉穩定的涼爽氣候和豐富的文旅資源，吸引海外遊客前來避暑度假。暑運以來，56.2%的外籍遊客來華目的為旅遊避暑，一改以往“商務為主”的客流結構。（新華社）"
+    },
+    {
+      "id": "5028103",
+      "time": "2026-08-06 14:28:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲與曼德海峽航運量驟降】媒體援引航運資料包道，週三曼德海峽和霍爾木茲海峽的交通量較前一日大幅下降。海事資料追蹤機構Kpler的資料顯示，週三僅有兩艘船透過霍爾木茲海峽，低於前一天的8艘。在伊朗戰爭於2月開始之前，每天約有130至140艘船隻透過該水道。在曼德海峽方面，Kpler資料顯示，週三僅有一艘貨運船透過該海峽，該船為懸掛巴哈馬旗的幹散貨船，遠低於前一天的20艘。此前，與伊朗關係密切的胡塞武裝於7月20日在紅海對沙特實施海上封鎖，以回應“沙特對葉門實施的圍困”。沙特方面否認了這一說法。在宣佈封鎖前的一週，平均每天約有41艘船隻透過這一關鍵航運瓶頸。"
+    },
     {
       "id": "mkt:019fd5c2-52b8-7aab-8f9b-1ee04c0eeb42",
       "time": "2026-08-06 14:28:29",
@@ -158391,176 +158541,6 @@
         "其他"
       ],
       "text": "【廣東銀行業保險業多項主要發展指標位居全國第一】今年上半年廣東全省銀行業資產總額、負債總額、存貸款餘額，以及保險業資產總額、保費收入和承保利潤等主要發展指標位居全國第一。截至今年6月末，廣東銀行業總資產43.99萬億元、總負債42.7萬億元，分別同比增長6.77%、6.75%。廣東保險業總資產2.93萬億元，同比增長9.67%。"
-    },
-    {
-      "id": "5016015",
-      "time": "2026-07-30 14:33:08",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局舉辦網約配送員群體黨建工作交流活動】活動指出，近年來，市場監管總局結合業務職責，持續推動網約配送員群體黨建工作。成立網約配送員群體黨建工作領導小組，指導地方市場監管部門組建行業黨委；擴大“兩個覆蓋”，推動建立網約配送員群體黨組織；加強凝聚服務，指導各地個私協會成立網約配送員工作委員會，協調社會各方打造“友好社群”、共建“暖新驛站”。下一步，市場監管部門要積極引導企業將黨建工作與經營管理相融合，推動平臺企業和平臺內的經營者、勞動者共贏發展。會同相關部門用心用情解決好網約配送員在工作環境、權益保障等方面的現實問題。鼓勵引導網約配送員群體有序參與行業和基層治理，不斷提升網約配送員群體的獲得感、歸屬感。"
-    },
-    {
-      "id": "5016014",
-      "time": "2026-07-30 14:32:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日韓股市收盤】日經225指數收漲0.71%，報61867.43點；韓國KOSPI指數收跌1.35%，報5586.81點。"
-    },
-    {
-      "id": "5016013",
-      "time": "2026-07-30 14:32:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月30日：“農產品批發價格200指數”比昨天上升0.12個點】據農業農村部監測，7月30日“農產品批發價格200指數”為113.91，比昨天上升0.12個點，“菜籃子”產品批發價格指數為114.13，比昨天上升0.14個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.96元/公斤，比昨天上升0.3%；牛肉67.34元/公斤，比昨天上升0.3%；羊肉64.95元/公斤，與昨天持平；雞蛋10.09元/公斤，比昨天上升0.6%；白條雞17.09元/公斤，比昨天下降0.8%。重點監測的28種蔬菜平均價格為4.44元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為6.89元/公斤，比昨天上升1.5%。鯽魚20.18元/公斤，比昨天下降0.6%；鯉魚14.71元/公斤，比昨天上升1.0%；白鰱魚10.11元/公斤，比昨天下降0.1%；大帶魚42.12元/公斤，比昨天上升4.9%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大帶魚、西瓜、生菜、白蘿蔔和茄子，幅度分別為4.9%、3.3%、2.7%、2.5%和2.5%；價格降幅前五名的是草魚、白條雞、大蒜、鯽魚和黃瓜，幅度分別為1.0%、0.8%、0.6%、0.6%和0.5%。"
-    },
-    {
-      "id": "5016012",
-      "time": "2026-07-30 14:32:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶馬CEO：第一季度和第二季度的業績數字不令人滿意】寶馬執行長：成本削減措施將實現自2027年起整體固定成本的持續降低。第一季度和第二季度的業績數字不令人滿意。我們正在重新評估未來需要哪些技術、車型變種和動力系統。計劃在下個十年初恢復8%至10%的EBIT利潤率區間。第二季度核心利潤率為2.3%，其中包括1.25個百分點的關稅負擔，以及來自中國業務整合的1.2個百分點。全年汽車業務利潤率預期為1%至3%，其中包括勞動力重組帶來的1.25個百分點負擔。"
-    },
-    {
-      "id": "mkt:019fb1b8-8315-7aab-8f06-362d476522e6",
-      "time": "2026-07-30 14:31:27",
-      "tags": [
-        "MKT News",
-        "BMW.DE"
-      ],
-      "text": "BMW CFO expects full-year auto business margin of 1%–3%, including a 1.25 percentage-point drag from workforce restructuring."
-    },
-    {
-      "id": "mkt:019fb1b8-5f15-7aab-8f06-2df8c2b7ffa6",
-      "time": "2026-07-30 14:31:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI closed down 76.43 points (1.35%) at 5,586.81 on Thursday, July 30."
-    },
-    {
-      "id": "mkt:019fb1b8-407d-7aab-8f06-26e4e66cf053",
-      "time": "2026-07-30 14:31:09",
-      "tags": [
-        "MKT News",
-        "BMWG.DE",
-        "Impact bearish"
-      ],
-      "text": "BMW CFO said Q2 core profit margin was 2.3%, including a 125bp tariff burden and 120bp from integration of China operations."
-    },
-    {
-      "id": "mkt:019fb1b8-399a-7aab-8f06-19743d34e23d",
-      "time": "2026-07-30 14:31:08",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 closed up 433.24 points (+0.71%) at 61,867.43 on Thursday, July 30."
-    },
-    {
-      "id": "mkt:019fb1b8-0745-7aab-8f06-107bef9b8d5d",
-      "time": "2026-07-30 14:30:55",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bullish"
-      ],
-      "text": "BMW CEO says the company plans to restore EBIT margin to 8-10% in the early next decade."
-    },
-    {
-      "id": "5016011",
-      "time": "2026-07-30 14:30:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞穗金融集團第一季度淨利潤4,229.1億日元，預估3,340.4億日元。"
-    },
-    {
-      "id": "mkt:019fb1b7-b634-7aab-8f06-0ea3c0f254ef",
-      "time": "2026-07-30 14:30:34",
-      "tags": [
-        "MKT News",
-        "BMWG.DE"
-      ],
-      "text": "BMW CEO said the company is reassessing which technologies, model variants and powertrains will be needed going forward."
-    },
-    {
-      "id": "5016010",
-      "time": "2026-07-30 14:30:30",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗：新東方第四財季收入勝指引，重申“買入”評級】花旗發表研報指，新東方第四財季收入同比增長23%，勝於公司指引的15至18%；非通用會計準則(non-GAAP)經營溢利同比增長34.7%至1.1億美元，non-GAAP淨利潤同比下跌10.5%至8800萬美元。該行提到，新東方管理層指引2027財年收入同比增長14至18%。計及2027財年股息涉及約3億美元，加上2億美元回購計劃，股東回報合共涉及5億美元，相當於2026財年公認會計准則淨利潤約105%。該行重申公司“買入”評級，目標價75美元。"
-    },
-    {
-      "id": "mkt:019fb1b7-a1a3-7aab-8f06-028bb4df1fec",
-      "time": "2026-07-30 14:30:29",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bearish"
-      ],
-      "text": "BMW CEO said Q1 and Q2 results were unsatisfactory."
-    },
-    {
-      "id": "5016009",
-      "time": "2026-07-30 14:30:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【封測裝置廠商竑騰訂單排到明年 新產能8月起顯現】半導體封測裝置廠商竑騰受惠英偉達新一代AI晶片Rubin即將放量，以及CoWoS後段製程需求持續升溫，訂單已看至明年，為解決產能供不應求疑慮，公司已承租新廠房，預計8月起加入營運，整體組裝空間將增加一倍。竑騰供應英偉達新一代均熱片裝置，切入封測廠oS段製程，涵蓋點膠、植片、壓合及均熱片貼合等製程，除石墨烯材料外，也可應用於銦片，同時自動光學檢測(AOI)裝置也持續交貨，出貨給主要封測大廠。(科創板日報)"
-    },
-    {
-      "id": "mkt:019fb1b7-7cd4-7aab-8f05-fa83984f0d5b",
-      "time": "2026-07-30 14:30:19",
-      "tags": [
-        "MKT News",
-        "BMW.DE",
-        "Impact bullish"
-      ],
-      "text": "BMW CEO says cost-cutting measures will deliver a sustained reduction in total fixed costs beginning in 2027."
-    },
-    {
-      "id": "te:markets:571047",
-      "time": "2026-07-30 14:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 0.84% Higher — The Nikkei 225 Index went up by 517 points or 0.84 percent on Thursday to close at 61952 points. The rise was led by Advantest (11.15%), NEC (8.19%) and Hitachi (5.85%). On the downside, the weakerst performers were Sumitomo Mitsui (-75.70%), Nomura (-6.55%) and Nikon Corporation (-5.72%)."
-    },
-    {
-      "id": "mkt:019fb1b7-5bfa-7aab-8f05-f38df9d855ef",
-      "time": "2026-07-30 14:30:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Commerzbank: Dollar briefly weakens as markets reprice Fed rate path】Commerzbank FX team said the dollar briefly weakened and the euro rallied after the Fed held rates but revealed significant internal dissent. Three officials voted for a 25bp hike, stoking inflation concerns; markets read the decision as less hawkish overall, sending the US 2-year Treasury yield and the dollar lower while US long-term yields rose sharply as investors judged the Fed response insufficient to curb persistent inflation. Federal funds futures put the probability of a 25bp September hike at 63%. Market-implied cumulative hikes for the year have been trimmed to 33bps from 42bps on Tuesday."
-    },
-    {
-      "id": "5016008",
-      "time": "2026-07-30 14:29:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱俄軍大規模襲擊烏克蘭 造成至少8人死亡】烏克蘭總統澤連斯基30日表示，俄羅斯當天對烏克蘭多個地區發動大規模導彈和無人機襲擊，已造成至少8人死亡、數十人受傷，多地住宅、民用企業及基礎設施受損。澤連斯基在其官方社交平臺發文稱，烏第聶伯羅彼得羅夫斯克州拉杜什內一棟私人住宅遭俄軍彈道導彈擊中，一家五口遇難，包括父母和三名兒童，另有兩名兒童被救出。利沃夫市一處遭襲住宅的搜救工作仍在進行，救援人員正在清理廢墟並搜尋被困人員。（央視新聞）"
     }
   ]
 }
