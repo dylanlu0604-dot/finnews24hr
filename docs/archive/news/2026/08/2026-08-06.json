@@ -1,7 +1,44 @@
 {
   "date": "2026-08-06",
-  "count": 1047,
+  "count": 1051,
   "items": [
+    {
+      "id": "5027998",
+      "time": "2026-08-06 12:33:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.5%，至180,926.30點。"
+    },
+    {
+      "id": "5027997",
+      "time": "2026-08-06 12:32:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【司法部部署司法行政系統開展深化掃黑除惡專項鬥爭 】近日，司法部黨組專題部署司法行政系統紮實開展深化掃黑除惡專項鬥爭工作，強調要全面貫徹習近平法治思想和總體國家安全觀，深入貫徹落實習近平總書記重要指示精神，按照黨中央、國務院部署，落實全國掃黑除惡專項鬥爭視訊會議要求，針對當前涉黑涉惡行為新表現、新特點、新趨勢、新規律，抓好司法行政系統深化掃黑除惡專項鬥爭各項工作，立足職責為經濟社會高質量發展創造更加安全穩定的政治社會環境。要依法嚴格加強涉黑涉惡罪犯收押、管理和改造，依法開展涉黑涉惡案件律師辯護代理，大力開展反有組織犯罪法等法律法規宣傳，加強對涉資訊網路黑惡犯罪、“軟暴力”等法律問題研究，強化幫教物件管理和幫扶，更好預防和減少重新犯罪，立足職責推進健全黑惡犯罪預防治理長效機制。"
+    },
+    {
+      "id": "te:markets:573246",
+      "time": "2026-08-06 12:30:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises for Second Day — India’s BSE Sensex rose about 0.2% to 78,710 at the open on Thursday, following gains in the previous session, as investors extended their risk-on mood amid easing geopolitical tensions, resilient corporate earnings, and a supportive policy backdrop. Market sentiment remained buoyed by optimism over possible diplomatic progress in the Middle East, while the Reserve Bank of India's decision to keep interest rates unchanged at 5.25% and raise its FY2027 growth forecast continued to underpin confidence in domestic equities. Corporate earnings provided additional support, with companies including Aurobindo Pharma, Biocon, Cummins India, GMM Pfaudler, and Navin Fluorine posting stronger-than-expected June-quarter results, reinforcing expectations of healthy profit growth outside the oil marketing sector. Notable gainers were Shilpa Medicare (7.6%), Navin (5.5%), Hindustan Aeronautics (5.1%), Cupid (2.6%), and Reliance (1.8%)."
+    },
+    {
+      "id": "5027996",
+      "time": "2026-08-06 12:30:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【部分美國律所考慮向私募股權出售股份】據英國《金融時報》援引知情人士訊息，保羅·韋斯（Paul Weiss）、奎因·埃馬紐埃爾（Quinn Emanuel）和普羅斯考厄（Proskauer）等美國律師事務所曾探討將業務股份出售給私募股權（PE）集團的可能性。 知情人士透露，奎因·埃馬紐埃爾已與古根海姆證券（Guggenheim Securities）就潛在的私人投資方案進行了溝通，但該律所尚未做出任何決定，也未啟動出售流程。 保羅·韋斯管理層在過去數月內曾與新山資本（New Mountain Capital）會面。該公司表示，數月前應其業務合作機構的要求，聽取了一些投資提案，但補充稱：“目前我們並未推進此類事項。” 普羅斯考厄至少與一傢俬募股權公司會面，討論了管理服務組織（MSO）架構問題；而懷特&凱斯（White & Case）也在研究相關結構。兩家律所均拒絕向媒體置評。"
+    },
     {
       "id": "5027995",
       "time": "2026-08-06 12:29:03",
