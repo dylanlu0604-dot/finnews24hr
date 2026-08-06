@@ -1,7 +1,111 @@
 {
   "date": "2026-08-06",
-  "count": 2516,
+  "count": 2527,
   "items": [
+    {
+      "id": "5029144",
+      "time": "2026-08-06 22:08:11",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：DEEPSEEK重啟融資，擬以740億美元的估值籌集80億美元。"
+    },
+    {
+      "id": "5029143",
+      "time": "2026-08-06 22:07:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "太空探索技術公司：與特斯拉合計晶片算力需求預計超 1 太瓦。"
+    },
+    {
+      "id": "5029142",
+      "time": "2026-08-06 22:06:55",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX股價在1000億美元內部人士資金禁售期結束後保持穩定。"
+    },
+    {
+      "id": "5029141",
+      "time": "2026-08-06 22:06:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿波羅：交易完成後及展期實施後，Topco股份將由阿波羅基金持有，持股比例最高不超過49.9%。"
+    },
+    {
+      "id": "5029140",
+      "time": "2026-08-06 22:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿波羅：本次交易及轉持實施完成後，EU信託控股將持有Topco最高5%的股份。"
+    },
+    {
+      "id": "5029139",
+      "time": "2026-08-06 22:05:32",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【8月6日增減持彙總（表）】8月6日盤後，據不完全統計，昂立教育、朗鴻科技、甘李藥業、濟川藥業等4家A股上市公司披露擬減持情況，當日暫無A股公司披露擬增持情況。"
+    },
+    {
+      "id": "te:markets:573427",
+      "time": "2026-08-06 22:04:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Breaks 5-Day Advance — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, snapped a five-day winning streak on Thursday, falling about 0.2% to 3,057 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also halted its five-day advance, decreasing by 0.8% to 5,052 points; and the supramax index shed 4 points, or 0.3%, at 1,608 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose by 1.7% to its highest since June 15 at 2,275 points."
+    },
+    {
+      "id": "5029138",
+      "time": "2026-08-06 22:04:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "太空探索技術公司（SpaceX）：TeraFab工廠將至少僱用3000人。"
+    },
+    {
+      "id": "mkt:019fd764-066d-7aab-8fa3-0d3bb186d65c",
+      "time": "2026-08-06 22:04:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. global supply-chain pressure index for July 0.8, down from 1.25 previously."
+    },
+    {
+      "id": "5029137",
+      "time": "2026-08-06 22:04:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "太空探索技術公司（SpaceX）：SpaceX與特斯拉合併後的晶片需求，預計計算功率將超過1太瓦。"
+    },
+    {
+      "id": "mkt:019fd763-e844-7aab-8fa3-0250d2959100",
+      "time": "2026-08-06 22:04:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Global Supply Chain Pressure Index (Jul) | actual 0.8 | previous 1.25"
+    },
     {
       "id": "mkt:019fd763-a4ff-7aab-8fa2-f9aa71ca0c6c",
       "time": "2026-08-06 22:04:19",
