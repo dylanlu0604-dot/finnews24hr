@@ -1,7 +1,69 @@
 {
   "date": "2026-08-06",
-  "count": 1011,
+  "count": 1018,
   "items": [
+    {
+      "id": "5027967",
+      "time": "2026-08-06 12:04:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股午評：恒指大跌1.75%，科網股、保險股、半導體股下挫，黃金股逆勢上漲】港股上午盤三大指數低開低走，恒生科技指數臨近午盤大跌至2.2%，午間收跌1.87%，恒生指數、國企指數分別下跌1.75%及1.16%，恒指下破25500點。連續反彈的大型科網股多數低迷，百度、阿里巴巴跌超3%，小米、京東跌超2%，騰訊跌1.8%，美團、網易等跟跌；據報中國開始對香港保險收益徵稅20%，保險股大跌，受外圍晶片股大跌影響，儲存半導體股集體走低。另外，金價大漲，黃金股領銜有色金屬股走強，昨日大跌的光通訊反彈。"
+    },
+    {
+      "id": "mkt:019fd53d-cbb7-7aab-8f9a-226bd85b6e30",
+      "time": "2026-08-06 12:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "01299.HK",
+        "00981.HK"
+      ],
+      "text": "【Hong Kong midday: HSI down 1.75%, Hang Seng Tech down 1.87%】At the midday close, the Hang Seng Index fell 1.75% and the Hang Seng Tech Index fell 1.87%; market turnover was HKD 149.6 bln. Sector losers included insurance, semiconductors and power-equipment stocks; optical communications, PCB-related names and gold outperformed. Notable movers: MINIMAX-W (00100.HK) rose over 16%; 02476.HK and 00815.HK gained more than 7%; 03308.HK added over 5%; AIA Group (01299.HK) fell more than 8%; 03277.HK dropped over 6%; SMIC (00981.HK) fell over 4%."
+    },
+    {
+      "id": "5027966",
+      "time": "2026-08-06 12:02:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "太古地產上半年營收94.1億港元，預估84.1億港元；上半年淨利潤67.7億港元。"
+    },
+    {
+      "id": "mkt:019fd53c-b841-7aab-8f9a-18515eec42f1",
+      "time": "2026-08-06 12:02:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Global Chip LOF said it will suspend trading from the afternoon session open on Aug 6, 2026 until that day's close; redemptions will continue to be processed during the suspension."
+    },
+    {
+      "id": "5027965",
+      "time": "2026-08-06 12:02:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗副外長否認正與美方談判】伊朗副外長加里巴巴迪8月5日在接受採訪時表示，目前伊朗和阿曼關於商船通行霍爾木茲海峽的協議已接近最終敲定。根據伊朗伊斯蘭共和國通訊社當天的報道，目前經阿曼領海的南部航道和位於伊朗領海內的北部航道均將關閉，在霍爾木茲海峽建立一種不同於過去60年的新通行模式。此外，加里巴巴迪否認伊朗與美國正在談判，但表示伊朗收到美方資訊，並稱美方表示準備恢復履行此前簽署的諒解備忘錄中的承諾。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5027964",
+      "time": "2026-08-06 12:01:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛捷科思完成A1輪融資】近日，飛捷科思智慧科技（上海）有限公司宣佈完成A1輪融資。本輪由老股東泰達科投攜手海松資本、復旦科創共同領投，毅達資本、優勢資本、踴躍資本、匯融基金、財鑫資本、湘江國投作為新增投資方參與投資；雲啟資本、矽港資本、中贏創投、常壘創投等現有股東繼續追加投資，融資金額數億元。"
+    },
+    {
+      "id": "5027963",
+      "time": "2026-08-06 12:01:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "太古股份公司 上半年營收494.5億港元。"
+    },
     {
       "id": "5027962",
       "time": "2026-08-06 12:01:04",
