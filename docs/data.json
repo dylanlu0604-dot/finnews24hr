@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-06 08:36:21",
-  "count": 17411,
+  "updated": "2026-08-06 08:40:13",
+  "count": 17407,
   "items": [
+    {
+      "id": "5027665",
+      "time": "2026-08-06 08:39:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月06日08時34分在青海海南州興海縣（北緯35.34度，東經99.52度）發生3.1級地震，震源深度10千米。"
+    },
+    {
+      "id": "5027664",
+      "time": "2026-08-06 08:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【休達邊境秩序逐步恢復 西班牙政府仍面臨壓力】西班牙內政大臣馬拉斯卡4日說，上週共有約7.2萬名移民從摩洛哥非法入境西班牙北非飛地休達，其中約7萬人已經返回摩洛哥。在大規模非法越境事件發生後，休達邊境秩序已逐步恢復正常，但這場危機帶來的挑戰並未結束。隨著邊境秩序逐步恢復正常，這場持續數日的休達移民危機也進入善後階段。根據西班牙官方最新公佈的資料，目前絕大多數進入休達的非法移民已經返回摩洛哥，但仍有約2500人留在當地，其中包括不少無人陪伴的未成年人。如何安置這些人員，也成為西班牙政府當前面臨的重要課題。（央視）"
+    },
+    {
+      "id": "5027663",
+      "time": "2026-08-06 08:38:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國降雨強度進一步減弱 中東部大範圍桑拿天持續局地可超38℃】今明天（8月6日至7日），我國降雨強度繼續減弱，但東北、華北仍多強對流天氣，華南受季風低壓影響，也將降雨頻繁。同時，我國高溫範圍較大，新疆、甘肅等地以乾熱為主，中東部地區則將持續大範圍桑拿天，局地最高氣溫可超38℃，公眾需及時補水降溫，謹防中暑。（新華社）"
+    },
+    {
+      "id": "5027662",
+      "time": "2026-08-06 08:38:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【先鋒轉債、派克轉債、中崙轉債今日申購】資料顯示，先鋒轉債、派克轉債、中崙轉債今日申購，申購程式碼分別為718605、713123、371565，可分別頂格申購10000張、10000張、10000張。此外，曙26轉債今日上市。"
+    },
     {
       "id": "5027661",
       "time": "2026-08-06 08:35:38",
@@ -160176,82 +160208,6 @@
         "國際"
       ],
       "text": "日本東證股價指數下跌1.15%。"
-    },
-    {
-      "id": "5015491",
-      "time": "2026-07-30 08:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗南部多個地區聽到爆炸聲。"
-    },
-    {
-      "id": "5015490",
-      "time": "2026-07-30 08:39:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達合作伙伴ChipAgents擴大融資規模，藉助AI加速晶片開發】晶片設計初創公司ChipAgents的執行長表示，公司已將A輪融資規模擴大6,000萬美元，以進一步支援其利用AI智慧體(AI agent)加速半導體設計的計劃。ChipAgents執行長William Wang在接受媒體採訪時表示，公司軟體帶來的最大效率提升體現在晶片驗證環節，即幫助確認晶片能否按設計預期執行。“其中很大一部分工作實際上是確保沒有漏洞，”他表示。ChipAgents本週表示將擴大與英偉達的戰略合作，雙方將共同開發專注於晶片設計的ChipAgents專用AI模型。Wang拒絕透露英偉達是否為公司投資者。此次追加融資由B Capital領投，使ChipAgents的A輪融資總額達到1.31億美元。此前投資者包括美光 、聯發科和愛立信。"
-    },
-    {
-      "id": "mkt:019fb075-8a5e-7aab-8efc-ab83061cd30b",
-      "time": "2026-07-30 08:38:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【JP Morgan moves expected first Fed rate hike to Dec 2026; new Fed chair's anti‑inflation credibility questioned】JP Morgan said after July's Fed meeting it now expects the Fed's first rate hike in December 2026, moving the forecast forward from H2 2027. Chief U.S. economist Michael Feroli said the new Fed chair's press conference again failed to explain how he will deliver on his stated anti‑inflation resolve and raised questions about whether the PCE price index will remain the Fed's inflation gauge. JP Morgan characterised the forecast shift as a warning about Fed credibility rather than market ‘pressure’, arguing the chair's ambiguous guidance could prompt other FOMC members to adopt a more urgent stance on price stability."
-    },
-    {
-      "id": "5015489",
-      "time": "2026-07-30 08:38:36",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：看好重卡出口高景氣及業績強兌現】中信建投證券研報指出，近期新車仍在密集上市，小米增程SUV、小鵬Mona L03等新車型引發市場關注，但股價反應或有鈍化，行業仍呈現內需承壓、出口強勁特徵，板塊行情自4月底開始的大幅回撥築底，當前二季度業績承壓等悲觀預期已price-in，市場更為關注板塊龍頭中長期配置買點，6月底以來股價迎來修復反彈。研報維持前期觀點，結構性α看好乘用車出口超預期+高階新能源車加速起量，估值空間看好物理AI重構成長新正規化。6月重卡內外銷延續高景氣，新能源客車出口放量帶動結構最佳化。當前時點建議重視低估值強業績龍頭標的的投資機會，板塊龍頭股價下行空間有限，投資賠率突出。看好出口高景氣及業績強兌現，7—8月重汽出口同比增速仍有望保持40%以上，期間中報業績預計穩定兌現。"
-    },
-    {
-      "id": "5015488",
-      "time": "2026-07-30 08:38:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國副財長：將密切關注外部因素及其對國內經濟和市場的影響。"
-    },
-    {
-      "id": "mkt:019fb074-6944-7aab-8efc-a0eede281c9c",
-      "time": "2026-07-30 08:37:26",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【AI memory-chip shortage lifts Samsung semiconductor profit more than 250-fold】Samsung Electronics said its semiconductor unit posted Q2 operating profit of KRW 89.2 trillion (~$62bn), up more than 250-fold and above analysts' average forecast of KRW 79.3 trillion. Group net profit was KRW 71.3 trillion, also beating expectations. As the world's largest memory maker, Samsung's results are being watched for evidence that AI-driven investment and valuations are justified. Global semiconductor stocks have climbed to record highs this year but face intensifying competition and overcapacity concerns, prompting rising investor doubts about the commercial rationale for large new investments in the sector."
-    },
-    {
-      "id": "5015487",
-      "time": "2026-07-30 08:37:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌0.7%。"
-    },
-    {
-      "id": "5015486",
-      "time": "2026-07-30 08:36:47",
-      "tags": [
-        "宏觀",
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券WAIC2026觀察：建議沿四條具備明確催化的方向佈局】中信證券綜合對於WAIC2026的觀察，建議沿下述四條具備明確催化的方向佈局，關注具備核心技術壁壘與規模化交付能力的產業鏈環節：1）國產算力與超節點：Scale-up互聯是算力國產化確定性最高的增量環節，交換晶片與背板互連彈性大於單晶片；2）MaaS：算力稀缺疊加模型異構需求，中立第三方平臺進入收入高增與盈利爬坡雙擊階段；3）企業與垂類Agent：工業與辦公垂類因資料壁壘形成場景護城河，建議關注具有場景、客戶壁壘，率先完成商業化閉環和壁壘驗證的公司；4）Robovan：出貨量持續高增，建議關注行業法規出臺後對行業帶來的催化。"
     }
   ]
 }
