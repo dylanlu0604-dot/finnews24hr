@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-06 20:43:43",
-  "count": 16791,
+  "updated": "2026-08-06 20:47:58",
+  "count": 16778,
   "items": [
+    {
+      "id": "mkt:019fd71c-f228-7aab-8fa1-e63dfbb14f3a",
+      "time": "2026-08-06 20:47:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "World Gold Council: Global gold ETFs attracted $3.0 billion in July, reversing two months of outflows; assets under management rose to $530 billion. ETF holdings increased 23 tonnes to 4,068 tonnes."
+    },
+    {
+      "id": "mkt:019fd71c-5ebf-7aab-8fa1-df4f7073af59",
+      "time": "2026-08-06 20:46:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【World Gold Council: Gold flat in July; future path hinges on real rates, dollar and central-bank response】World Gold Council says positive drivers offset negative risks, leaving gold flat in July. WGC says a second wave of high inf similar to the late 1970s cannot be ruled out, but that alone does not guarantee a sharp gold rally; the metal’s path will depend on real rates, the dollar, growth expectations, Asian investor demand and central-bank responses."
+    },
+    {
+      "id": "te:economy:573406",
+      "time": "2026-08-06 20:45:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Czech National Bank Leaves Key Rate Unchanged — The Czech National Bank left its two-week repo rate unchanged at 3.75% in August 2026, pausing after delivering its first interest rate hike since 2022 at the previous meeting. Although headline inflation remained below the central bank's target for most of the year, policymakers said demand-driven inflationary pressures persisted. The bank noted that headline inflation was held down by volatile components, particularly food prices, while government measures to contain price growth also helped keep inflation below target. Meanwhile, economic growth slowed in the second quarter of 2026 to 2% from 2.2%."
+    },
     {
       "id": "te:markets:573404",
       "time": "2026-08-06 20:39:00",
@@ -153807,165 +153847,6 @@
         "Importance 1"
       ],
       "text": "TSX Futures Gain as Corporate Earnings Roll In — Futures tracking the S&P/TSX Composite Index moved higher on Thursday as investors assessed a fresh round of corporate earnings. Vermilion Energy, Kinross Gold, Cenovus, Alamos Gold, Loblaw, and TransCanada reported results above expectations. In contrast, Ivanhoe Mines and Tourmaline Oil missed earnings estimates. Canadian Natural Resources and Fairfax Financial are due to report later in the session. Gold prices rose, supporting mining stocks. Meanwhile, minutes from the Bank of Canada's July 15th policy meeting showed policymakers were divided over the sustainability of the economic recovery. Separately, Prime Minister Mark Carney downplayed the possibility of restricting oil exports to the US as leverage in trade negotiations."
-    },
-    {
-      "id": "mkt:019fb311-2f89-7aab-8f13-9ec6818e3cab",
-      "time": "2026-07-30 20:47:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【U.S. initial jobless claims rise less than expected】U.S. initial jobless claims rose by 9,000 to a seasonally adjusted 197,000 in the week ending July 25, below economists' forecast of 200,000, the U.S. Labor Department said Thursday. The increase partly offset the prior week's fall to the lowest level since 1969; July claims are often volatile because automakers schedule annual plant shutdowns—this year GM kept most assembly lines running and Ford canceled traditional summer stoppages, which may have distorted seasonal-adjustment models. Economists said the U.S. labor market remains in a \"slowing hires, slowing layoffs\" state."
-    },
-    {
-      "id": "5017105",
-      "time": "2026-07-30 20:47:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：NEO電池公司獲得韓國大型軍用無人機製造商的定製電池訂單。"
-    },
-    {
-      "id": "5017104",
-      "time": "2026-07-30 20:47:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：印度推出主權擔保型船舶保險產品。"
-    },
-    {
-      "id": "mkt:019fb310-c91a-7aab-8f13-9377cbfc3b58",
-      "time": "2026-07-30 20:47:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India launches sovereign-guaranteed marine insurance product."
-    },
-    {
-      "id": "5017103",
-      "time": "2026-07-30 20:47:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【寶馬上半年營業利潤同比下降近四成】德國汽車製造商寶馬集團30日公佈的2026年上半年財報顯示，受多重因素影響，集團上半年營業利潤同比下降近四成，預計全年汽車交付量將較上年下降。 財報顯示，今年上半年，寶馬集團營業利潤為36.4億歐元，同比下降37.4%；淨利潤為28.7億歐元，同比下降28.5%；營業收入為622.7億歐元，同比下降8%。此外，汽車交付量也降至115.7萬輛。 寶馬集團董事長米蘭·內德利科維奇表示，過去一年多來，多重因素疊加使公司經營環境更加嚴峻，包括高關稅、貿易壁壘和匯率波動帶來的不利影響，歐洲地區監管要求不斷提高，中東地區持續衝突以及全球市場競爭加劇等。財報顯示，當季汽車業務營業利潤率由去年同期5.4%降至2.3%。 內德利科維奇表示，汽車行業正經歷深刻變革，為應對當前挑戰、確保長期競爭力，公司正透過精簡組織架構等方式推進降本計劃。 寶馬日前宣佈，計劃自今年10月起至2027年年底前在全球削減約8000個工作崗位。預計其中超過一半的崗位在德國本土。據公司網站資料，截至2025年年底，該公司全球有員工約15.45萬人，其中德國員工超過8萬人。(新華社)"
-    },
-    {
-      "id": "te:markets:571268",
-      "time": "2026-07-30 20:46:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Anglo American earnings below expectations at 0.58 USD — Anglo American (AAL) released earnings per share at 0.58 USD, compared to market expectations of 1.01 USD."
-    },
-    {
-      "id": "te:markets:571267",
-      "time": "2026-07-30 20:46:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "London Stock Exchange earnings above expectations at 2.44 GBp — London Stock Exchange (LSE) released earnings per share at 2.44 GBp, compared to market expectations of 2.29 GBp."
-    },
-    {
-      "id": "5017102",
-      "time": "2026-07-30 20:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部通報，伊朗外長向保加利亞外長提出抗議。伊朗指責保加利亞准許美國在貝茲梅爾空軍基地部署軍機，服務於針對伊朗的行動。伊朗外長稱該決定不可接受、有損雙邊傳統友好關係，敦促保加利亞當局重新予以評估。"
-    },
-    {
-      "id": "te:markets:571266",
-      "time": "2026-07-30 20:45:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Hold Rebound — Futures tracking US equities held their rebounds on Thursday from sharp losses yesterday amid a batch of corporate earnings and respite for chip stocks. The S&P 500 and the Dow were over 0.5% higher, while the Nasdaq 100 gained 1.5%. Microsoft surged nearly 10% premarket after posting a 43% growth in cloud revenues, the most since 2022. This combined with capital expenditure forecasts that did not outpace expectations, limiting concerns of unsustainable AI spending. Also, chip producers enjoyed some respite following their selloff yesterday with Micron and Sandisk rising 3%. Conversely, Meta tanked 10% after its guidance missed expectations, while markets remained skeptical on whether its AI labs will drive revenue as signaled by the hyperscaler. Meanwhile, long-dated yields held their surge despite softer-than-expected GDP growth in Q1. The Fed held rates yesterday, but Chair Warsh's reluctance to signal a rate hike raised concerns that inflation could be higher for longer."
-    },
-    {
-      "id": "5017101",
-      "time": "2026-07-30 20:45:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "亞馬遜旗下佐克斯獲得美國監管機構批准，最多可部署 5000 輛自動駕駛計程車。"
-    },
-    {
-      "id": "mkt:019fb30f-0f1f-7aab-8f13-8bdb91c5741a",
-      "time": "2026-07-30 20:45:36",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "UK 2-year government bond yield continued lower, down 9bps to 4.365%."
-    },
-    {
-      "id": "5017100",
-      "time": "2026-07-30 20:45:28",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國兩年期國債收益率<GB2YT=RR>在英國央行行長貝利發表講話期間擴大跌幅，最新下跌9個基點，報4.365%。"
-    },
-    {
-      "id": "5017099",
-      "time": "2026-07-30 20:45:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐元區第二季度經濟增長超預期】歐盟統計局週四公佈的資料顯示，歐元區第二季度GDP同比增長1%，環比增長0.4%，均高於市場預期。"
-    },
-    {
-      "id": "te:economy:571265",
-      "time": "2026-07-30 20:44:58",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Personal Income",
-        "Importance 1"
-      ],
-      "text": "US Personal Income Rises Less Than Expected — US personal income rose 0.2% month-over-month in June 2026, falling short of market expectations for a 0.3% increase and slowing from a 0.7% gain in May. The increase was driven by higher employee compensation, income receipts on assets, and government social benefits, partly offset by a decline in farm proprietors' income. Employee compensation rose by $32.3 billion, led by a $19.6 billion increase in private-sector wages and salaries. Income from assets increased on higher dividend and interest earnings, while government social benefits were supported mainly by higher Medicare and social security benefits. The decline in farm proprietors' income reflected the timing of payments under the American Relief Act of 2025. Meanwhile, disposable personal income also rose 0.2%, slowing from 0.7% in May, while real disposable personal income increased 0.3%, accelerating from a 0.2% gain in the previous month."
-    },
-    {
-      "id": "5017098",
-      "time": "2026-07-30 20:44:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【烏克蘭央行將基準利率上調至15.5%，今年經濟增長預測上調至1.8%】7月30日，烏克蘭央行將基準利率從15%上調至15.5%，將2026年經濟增長預測從此前的1.3%上調至1.8%，2027-2028年經濟增長預測約為3%。"
-    },
-    {
-      "id": "mkt:019fb30d-f887-7aab-8f13-85a05d9d65ed",
-      "time": "2026-07-30 20:44:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England deputy governor Lombardelli said firms are facing a severe environment."
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
   "date": "2026-08-06",
-  "count": 2299,
+  "count": 2302,
   "items": [
+    {
+      "id": "mkt:019fd71c-f228-7aab-8fa1-e63dfbb14f3a",
+      "time": "2026-08-06 20:47:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "World Gold Council: Global gold ETFs attracted $3.0 billion in July, reversing two months of outflows; assets under management rose to $530 billion. ETF holdings increased 23 tonnes to 4,068 tonnes."
+    },
+    {
+      "id": "mkt:019fd71c-5ebf-7aab-8fa1-df4f7073af59",
+      "time": "2026-08-06 20:46:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【World Gold Council: Gold flat in July; future path hinges on real rates, dollar and central-bank response】World Gold Council says positive drivers offset negative risks, leaving gold flat in July. WGC says a second wave of high inf similar to the late 1970s cannot be ruled out, but that alone does not guarantee a sharp gold rally; the metal’s path will depend on real rates, the dollar, growth expectations, Asian investor demand and central-bank responses."
+    },
+    {
+      "id": "te:economy:573406",
+      "time": "2026-08-06 20:45:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Czech National Bank Leaves Key Rate Unchanged — The Czech National Bank left its two-week repo rate unchanged at 3.75% in August 2026, pausing after delivering its first interest rate hike since 2022 at the previous meeting. Although headline inflation remained below the central bank's target for most of the year, policymakers said demand-driven inflationary pressures persisted. The bank noted that headline inflation was held down by volatile components, particularly food prices, while government measures to contain price growth also helped keep inflation below target. Meanwhile, economic growth slowed in the second quarter of 2026 to 2% from 2.2%."
+    },
     {
       "id": "te:markets:573404",
       "time": "2026-08-06 20:39:00",
