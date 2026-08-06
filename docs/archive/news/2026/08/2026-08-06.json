@@ -1,7 +1,87 @@
 {
   "date": "2026-08-06",
-  "count": 1058,
+  "count": 1066,
   "items": [
+    {
+      "id": "5028007",
+      "time": "2026-08-06 12:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統：最高領袖決策過程遭人利用 】據伊朗伊斯蘭共和國廣播電視臺5日報道，伊朗總統佩澤希齊揚說，目前與伊朗最高領袖穆傑塔巴聯絡“非常困難”，一些人利用穆傑塔巴的正常決策過程在伊朗內部製造分歧。佩澤希齊揚說，穆傑塔巴曾在決策過程中表示，儘管自己原則上持反對意見，但如果相關程式推進，他也會接受。然而，一些試圖製造分裂的人卻不斷誇大問題的嚴重性，以推進符合自身利益的議程。佩澤希齊揚說，穆傑塔巴最近收到相關委員會提交的一份報告後表示，如果報告中的方案獲得四分之三票數支援，他將接受。最終，該方案獲得絕大多數支援，他接受了。“在這種尊重專家意見並據此作出決策的過程中，卻有一些人伺機制造分裂，散佈不公正、不誠實的言論，企圖抹黑他人形象。”"
+    },
+    {
+      "id": "mkt:019fd560-33d3-7aab-8f9a-576bb9ede21c",
+      "time": "2026-08-06 12:41:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 30-year JGB yield fell 3 bps to 3.93% after an auction."
+    },
+    {
+      "id": "5028006",
+      "time": "2026-08-06 12:39:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率在30年期國債標售後延續跌勢，最新下跌4個基點至2.765%。"
+    },
+    {
+      "id": "mkt:019fd55e-9d0a-7aab-8f9a-4e1c55681b3e",
+      "time": "2026-08-06 12:39:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's 10-year government bond yield fell a further 4bp to 2.765% after a 30-year bond auction."
+    },
+    {
+      "id": "5028005",
+      "time": "2026-08-06 12:39:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【報道稱印尼擬上調大型礦山配額，鎳價下跌】市場再度傳言印尼將為國內一座大型礦山授予更高的鎳礦生產配額，或增加市場供應，鎳價跌至 7 月中旬以來最低水平。倫敦市場鎳價最大跌幅達 2.1%，報每噸 16750 美元。上海有色網稱，該礦企下半年將獲得數千萬噸的額外礦石配額，但並未指明具體礦商。印尼能源與礦產資源部發言人未立刻回應置評請求。印尼是全球頭號鎳生產國，鎳用於不鏽鋼及電池領域，該國產量約佔全球總產量 60%，其供應政策變動會左右市場供需格局。媒體 6 月曾報道，印尼政府準備在今年晚些時候大幅提高鎳產量。截至發稿，倫敦金屬交易所鎳期貨下跌 1.7%，報每噸 16825 美元。年內迄今價格基本持平。"
+    },
+    {
+      "id": "5028004",
+      "time": "2026-08-06 12:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【豆包接入原生音影片全雙工大模型SeedRealtime】8月6日，豆包宣佈視訊通話功能升級，正式接入原生音影片全雙工大模型SeedRealtime。"
+    },
+    {
+      "id": "mkt:019fd55d-6250-7aab-8f9a-410bacc5215d",
+      "time": "2026-08-06 12:38:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【NEA: China nuclear output 485.2 bln kWh in 2025, +7.6%; 4.6% of national power】The National Energy Administration's China Nuclear Power Development Report (2026) showed nuclear generation reached 485.2 bln kWh in 2025, up 7.6% YoY, accounting for 4.6% of national power generation and 11.4% of non‑fossil generation. Average unit operating hours rose to 7,809 hours (+126 hours YoY). Provincially, Fujian had the highest share of nuclear in provincial generation at 28.1%; Liaoning, Hainan and Guangdong recorded shares of 20.9%, 18.5% and 16.9%, respectively."
+    },
+    {
+      "id": "mkt:019fd55d-540a-7aab-8f9a-394e839b171d",
+      "time": "2026-08-06 12:38:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says US has ample 'ammunition'】Trump said the United States has large stocks of 'ammunition', particularly certain types, and that additional ammunition is being manufactured and shipped to the U.S. as needed. He said U.S. defense contractors are building the largest number of factories and production bases in U.S. history. He added alleged 'leakers' of treasonous remarks are being pursued and could face long prison terms."
+    },
     {
       "id": "mkt:019fd55c-dfad-7aab-8f9a-3470bc2ee44e",
       "time": "2026-08-06 12:37:41",
