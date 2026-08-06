@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-06 10:17:32",
-  "count": 17354,
+  "updated": "2026-08-06 10:21:29",
+  "count": 17350,
   "items": [
+    {
+      "id": "mkt:019fd4df-3107-7aab-8f98-d9637599f265",
+      "time": "2026-08-06 10:20:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Housing consumption rises to top of big-ticket spending; hotspot cities preparing demand-support measures】Housing consumption has risen to the top of big-ticket spending, and multiple major property-market cities are preparing measures to boost housing demand. Chengdu is designing sales policies focused on optimizing supply, stimulating demand, reducing inventory and stabilizing expectations; measures remain under internal review and will be published once finalized. Hefei, aligning with national policy direction, is coordinating with relevant departments on an action plan to promote cross-sector linkage to support consumption. Wuhan is building a policy toolkit for H2 aimed at linking primary and secondary markets, accelerating commercial/office destocking (including conversions), and increasing supply of higher-quality housing. Nanjing plans timely policy tweaks to expand listings of diversified “good homes” and run trade-in-for-new programs to unlock rigid and upgrade demand. Hangzhou, Qingdao, Chongqing and Jinan say they are keeping policy reserves and will dynamically adjust measures to stabilize the real estate market."
+    },
+    {
+      "id": "5027844",
+      "time": "2026-08-06 10:20:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滴滴旗下99與巴西汽車租賃企業Movida簽署合作協議】8月6日訊息，滴滴旗下巴西一站式本地生活服務平臺99與巴西汽車租賃企業Movida簽署合作協議，雙方將面向99平臺網約車司機推出包含新能源汽車在內的優惠租賃計劃，預計未來三年惠及至少5萬名司機。99平臺上的網約車司機可申請Movida提供的車輛租賃服務，以更優惠的價格租賃適合網約車運營的車輛。雙方預計，此次合作將幫助司機降低約25%的租車成本。"
+    },
+    {
+      "id": "5027843",
+      "time": "2026-08-06 10:19:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股大模型概念股大幅拉昇，MINIMAX-W漲超14%】港股大模型概念股大幅拉昇，MINIMAX-W漲超14%，智譜漲超8%。"
+    },
+    {
+      "id": "5027842",
+      "time": "2026-08-06 10:18:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住房消費躋身大宗消費首位 多個熱點城市正研究出臺住房消費提振舉措】7月份，國務院批覆的《擴大消費“十五五”規劃》對外發布，將住房消費納入大宗耐用商品消費範疇並置於首位。有機構認為，房地產的政策定位或向“防風險與促消費並重”轉變。記者獲悉，多個熱點城市正謀劃出臺住房消費提振舉措。其中，成都著力從優供給、增需求、去庫存、穩預期方面提出住房銷售政策，包括最佳化供給促進供需平衡、支援住房消費滿足多元需求等，目前相關政策尚在內部研究中，最終確定後將第一時間公開發布；合肥正結合國家政策導向，會同相關部門統籌研究促進“大消費”部門協同聯動行動方案。另外，記者獲悉，武漢積極做好政策研究儲備工作，下半年擬從一二手房市場聯動、商辦去化、高品質住房供應等完善政策工具箱；南京將結合市場實際適時最佳化相關政策舉措，加大多樣化“好房子”上市供應，深入開展住房消費“以舊換新”等活動，進一步促進居民各類剛性和改善性住房需求有效釋放；另外，杭州、青島、重慶、濟南等熱點城市也向記者透露，將持續做好政策儲備和動態最佳化調整工作，著力穩定房地產市場。（人民財訊）"
+    },
+    {
+      "id": "5027841",
+      "time": "2026-08-06 10:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國機械工業聯合會：新能源汽車上半年滲透率達49.6%】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，新能源汽車在整體汽車市場承壓背景下實現逆勢增長，市場滲透率達到49.6%，成為拉動汽車行業市場需求的重要力量。"
+    },
+    {
+      "id": "5027840",
+      "time": "2026-08-06 10:17:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫德納：預計未來幾周，流感疫苗MflusiVa將在部分零售商處供貨。"
+    },
+    {
+      "id": "5027839",
+      "time": "2026-08-06 10:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫德納：其流感疫苗MFLUSIVA獲美國食品藥品監督管理局批准，可用於50歲及以上成年人群接種。"
+    },
     {
       "id": "5027838",
       "time": "2026-08-06 10:16:55",
@@ -57,6 +113,15 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時縮量645億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608063833604783",
+      "time": "2026-08-06 10:13:19",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【2026年上半年我國黃金產量同比下降14.62% 消費量同比增長1.23%】據中國黃金協會最新統計資料顯示：2026年上半年，國內原料產金152.908噸，同比減少26.175噸，同比下降14.62%；進口原料產金77.080噸，同比增加3.402噸，同比增長4.62%。國內原料和進口原料共計生產黃金229.988噸，同比減少22.773噸，同比下降9.01%。2026年上半年，我國黃金消費量511.412噸，同比增長1.23%。"
     },
     {
       "id": "mkt:019fd4d8-2a62-7aab-8f98-c0c630925856",
@@ -159717,127 +159782,6 @@
         "其他"
       ],
       "text": "訊息人士：Whatnot 正洽談新一輪融資，目標估值 200 億美元。"
-    },
-    {
-      "id": "5015713",
-      "time": "2026-07-30 10:21:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB板塊持續下挫，賢豐控股、東山精密跌停】PCB板塊持續下挫，賢豐控股、東山精密跌停，廣合科技、中富電路、科翔股份、芯碁微裝、紅板科技、宏和科技等跟跌。"
-    },
-    {
-      "id": "5015712",
-      "time": "2026-07-30 10:21:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽省獨角獸企業數量再創新高，總數穩居全國第六】據安徽省科技廳，長城戰略諮詢《中國獨角獸企業研究報告2026》《中國潛在獨角獸企業研究報告2026》顯示，2025年安徽省獨角獸企業數量增至19家、潛在獨角獸企業增至44家，均居全國第6位。安徽省獨角獸（潛在）企業分佈在9個城市，合肥作為核心集聚地，擁有14家獨角獸企業、33家潛在獨角獸企業，分別佔全省的73.7%、75%。蕪湖4家、滁州4家、蚌埠2家、宣城2家，淮南、安慶、六安、銅陵各1家。2025年新晉5家獨角獸企業，全部來自合肥；新晉12家潛在獨角獸企業，其中合肥10家，蕪湖、宣城各1家。安徽省94.7%的獨角獸企業和84.1%的潛在獨角獸企業獲得過省內政府引導基金投資，形成“精準招引+本土培育”雙輪驅動的培育路徑。從企業來源看，37家獨角獸（潛在）企業源於外部招引，佔比58.7%，其中近九成企業引進時是科創種苗企業，後期透過本地培育實現了晉級。本土培育的獨角獸（潛在）企業中，源於大企業孵化裂變10家、高校院所成果轉化8家、高層次人才團隊創業8家。"
-    },
-    {
-      "id": "mkt:019fb0d2-a65b-7aab-8f01-0bbe1e107a2d",
-      "time": "2026-07-30 10:20:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said more than 50,000 U.S. service members are currently deployed in the Middle East, remain on high alert and are prepared to conduct combat operations."
-    },
-    {
-      "id": "mkt:019fb0d2-4a69-7aab-8f01-03d3925b2214",
-      "time": "2026-07-30 10:19:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Samsung Electronics said it has received about one-quarter of prepayments for its long-term service agreements."
-    },
-    {
-      "id": "mkt:019fb0d2-1483-7aab-8f00-ff70c63e9e60",
-      "time": "2026-07-30 10:19:45",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "Samsung Electronics said it expects its contract-manufacturing business to return to profitability in the near term."
-    },
-    {
-      "id": "5015711",
-      "time": "2026-07-30 10:19:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：預計晶圓代工業務短期內將轉虧為盈。"
-    },
-    {
-      "id": "mkt:019fb0d1-b089-7aab-8f00-f51049d2479f",
-      "time": "2026-07-30 10:19:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "CENTCOM said it completed large-scale strikes against Iran in retaliation for an attempted missile attack on U.S. forces yesterday. The U.S. military struck dozens of Islamic Revolutionary Guard Corps targets."
-    },
-    {
-      "id": "5015710",
-      "time": "2026-07-30 10:18:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部稱打擊了伊朗境內數十個伊斯蘭革命衛隊目標。"
-    },
-    {
-      "id": "5015709",
-      "time": "2026-07-30 10:18:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：目前已進入與另外五家大型客戶完成長期供應協議談判的最後階段。"
-    },
-    {
-      "id": "mkt:019fb0d0-89dd-7aab-8f00-edc42aed93c2",
-      "time": "2026-07-30 10:18:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara said on the 30th the Kumamoto earthquake has killed 28 people."
-    },
-    {
-      "id": "te:economy:570964",
-      "time": "2026-07-30 10:18:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Tracks US Treasury Yields Higher — Japan’s 10-year government bond yield climbed to around 2.78% on Thursday, following the rise in US Treasury yields after the Federal Reserve left interest rates unchanged, although three FOMC members dissented in favor of a rate hike. Chair Kevin Warsh also stressed that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while keeping the door open to additional rate hikes to contain inflationary pressures and help support the yen. Japanese government bond yields have remained volatile this month amid a worsening fiscal outlook, with Takaichi’s administration recently unveiling a massive spending package that could further add to the country’s debt burden."
-    },
-    {
-      "id": "mkt:019fb0d0-4e7c-7aab-8f00-e2ac405b1b89",
-      "time": "2026-07-30 10:17:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "【DBS: Dollar may be pressured by Fed–other central bank forward-guidance divergence】DBS senior FX strategist Philip Wee said the dollar could be pressured by divergence in forward guidance after the Fed removed forward guidance and held rates steady. Wee said Fed chair Kevin Warsh’s move has left policy in a “monetary mirror maze,” increasing volatility and leaving markets groping in the dark. By contrast, the ECB’s unified signalling of a September rate hike gives the euro a clear relative advantage. If the Bank of England breaks consensus and unexpectedly hikes later today, the pound would likely strengthen."
     }
   ]
 }

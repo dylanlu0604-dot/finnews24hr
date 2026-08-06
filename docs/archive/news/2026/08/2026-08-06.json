@@ -1,7 +1,63 @@
 {
   "date": "2026-08-06",
-  "count": 840,
+  "count": 848,
   "items": [
+    {
+      "id": "mkt:019fd4df-3107-7aab-8f98-d9637599f265",
+      "time": "2026-08-06 10:20:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Housing consumption rises to top of big-ticket spending; hotspot cities preparing demand-support measures】Housing consumption has risen to the top of big-ticket spending, and multiple major property-market cities are preparing measures to boost housing demand. Chengdu is designing sales policies focused on optimizing supply, stimulating demand, reducing inventory and stabilizing expectations; measures remain under internal review and will be published once finalized. Hefei, aligning with national policy direction, is coordinating with relevant departments on an action plan to promote cross-sector linkage to support consumption. Wuhan is building a policy toolkit for H2 aimed at linking primary and secondary markets, accelerating commercial/office destocking (including conversions), and increasing supply of higher-quality housing. Nanjing plans timely policy tweaks to expand listings of diversified “good homes” and run trade-in-for-new programs to unlock rigid and upgrade demand. Hangzhou, Qingdao, Chongqing and Jinan say they are keeping policy reserves and will dynamically adjust measures to stabilize the real estate market."
+    },
+    {
+      "id": "5027844",
+      "time": "2026-08-06 10:20:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滴滴旗下99與巴西汽車租賃企業Movida簽署合作協議】8月6日訊息，滴滴旗下巴西一站式本地生活服務平臺99與巴西汽車租賃企業Movida簽署合作協議，雙方將面向99平臺網約車司機推出包含新能源汽車在內的優惠租賃計劃，預計未來三年惠及至少5萬名司機。99平臺上的網約車司機可申請Movida提供的車輛租賃服務，以更優惠的價格租賃適合網約車運營的車輛。雙方預計，此次合作將幫助司機降低約25%的租車成本。"
+    },
+    {
+      "id": "5027843",
+      "time": "2026-08-06 10:19:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股大模型概念股大幅拉昇，MINIMAX-W漲超14%】港股大模型概念股大幅拉昇，MINIMAX-W漲超14%，智譜漲超8%。"
+    },
+    {
+      "id": "5027842",
+      "time": "2026-08-06 10:18:57",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住房消費躋身大宗消費首位 多個熱點城市正研究出臺住房消費提振舉措】7月份，國務院批覆的《擴大消費“十五五”規劃》對外發布，將住房消費納入大宗耐用商品消費範疇並置於首位。有機構認為，房地產的政策定位或向“防風險與促消費並重”轉變。記者獲悉，多個熱點城市正謀劃出臺住房消費提振舉措。其中，成都著力從優供給、增需求、去庫存、穩預期方面提出住房銷售政策，包括最佳化供給促進供需平衡、支援住房消費滿足多元需求等，目前相關政策尚在內部研究中，最終確定後將第一時間公開發布；合肥正結合國家政策導向，會同相關部門統籌研究促進“大消費”部門協同聯動行動方案。另外，記者獲悉，武漢積極做好政策研究儲備工作，下半年擬從一二手房市場聯動、商辦去化、高品質住房供應等完善政策工具箱；南京將結合市場實際適時最佳化相關政策舉措，加大多樣化“好房子”上市供應，深入開展住房消費“以舊換新”等活動，進一步促進居民各類剛性和改善性住房需求有效釋放；另外，杭州、青島、重慶、濟南等熱點城市也向記者透露，將持續做好政策儲備和動態最佳化調整工作，著力穩定房地產市場。（人民財訊）"
+    },
+    {
+      "id": "5027841",
+      "time": "2026-08-06 10:17:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國機械工業聯合會：新能源汽車上半年滲透率達49.6%】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，新能源汽車在整體汽車市場承壓背景下實現逆勢增長，市場滲透率達到49.6%，成為拉動汽車行業市場需求的重要力量。"
+    },
+    {
+      "id": "5027840",
+      "time": "2026-08-06 10:17:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫德納：預計未來幾周，流感疫苗MflusiVa將在部分零售商處供貨。"
+    },
+    {
+      "id": "5027839",
+      "time": "2026-08-06 10:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫德納：其流感疫苗MFLUSIVA獲美國食品藥品監督管理局批准，可用於50歲及以上成年人群接種。"
+    },
     {
       "id": "5027838",
       "time": "2026-08-06 10:16:55",
@@ -57,6 +113,15 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1萬億元，較上日此時縮量645億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608063833604783",
+      "time": "2026-08-06 10:13:19",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【2026年上半年我國黃金產量同比下降14.62% 消費量同比增長1.23%】據中國黃金協會最新統計資料顯示：2026年上半年，國內原料產金152.908噸，同比減少26.175噸，同比下降14.62%；進口原料產金77.080噸，同比增加3.402噸，同比增長4.62%。國內原料和進口原料共計生產黃金229.988噸，同比減少22.773噸，同比下降9.01%。2026年上半年，我國黃金消費量511.412噸，同比增長1.23%。"
     },
     {
       "id": "mkt:019fd4d8-2a62-7aab-8f98-c0c630925856",
