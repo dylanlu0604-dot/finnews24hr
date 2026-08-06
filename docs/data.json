@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-06 14:41:04",
-  "count": 17227,
+  "updated": "2026-08-06 14:45:02",
+  "count": 17229,
   "items": [
+    {
+      "id": "te:markets:573276",
+      "time": "2026-08-06 14:43:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Rebounds on Fresh Supply Concerns — Iron ore futures climbed to around CNY 715 per ton, recovering from 15-month lows as renewed concerns over potential supply disruptions resurfaced. A two-day strike is scheduled at BHP’s Port Hedland operations in Western Australia this weekend, despite progress in negotiations between the mining company and labor unions. The industrial action is expected to delay up to 16 iron ore shipments during the two-day period. BHP exports roughly $80 million worth of iron ore each day through Port Hedland, the world’s largest iron ore export terminal. Meanwhile, demand-side fundamentals remained weak, with a prolonged downturn in steel demand and deteriorating steel margins in top consumer China continuing to pressure the market. Hot metal production has fallen for several consecutive weeks as steel mills scale back output, while sluggish steel consumption has further reduced appetite for raw material purchases."
+    },
+    {
+      "id": "5028140",
+      "time": "2026-08-06 14:43:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華海清科首臺6英寸整合量測裝備出機】8月6日，據華海清科訊息，公司6英寸整合量測裝備今日正式出機，發往國內光學矽材料企業。"
+    },
+    {
+      "id": "mkt:019fd5cf-8b86-7aab-8f9b-39d5ba0fb8aa",
+      "time": "2026-08-06 14:42:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Pakistan's foreign ministry said Oman played an important role in resolving the Strait of Hormuz issue."
+    },
+    {
+      "id": "5028139",
+      "time": "2026-08-06 14:42:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "西門子預計資料中心的發展勢頭至少會持續到2027年。"
+    },
+    {
+      "id": "5028138",
+      "time": "2026-08-06 14:42:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：以 OpenAI 股權為擔保，獲得 100 億美元貸款。"
+    },
+    {
+      "id": "5028137",
+      "time": "2026-08-06 14:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦方面表示，仍致力於幫助解決中東危機；阿曼在解決霍爾木茲問題中發揮了重要作用。"
+    },
+    {
+      "id": "5028136",
+      "time": "2026-08-06 14:41:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "維茲航空執行長：我們已在義大利、西班牙進入了更多市場。"
+    },
+    {
+      "id": "5028135",
+      "time": "2026-08-06 14:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "敖德薩州長：俄羅斯的襲擊損毀了烏克蘭黑海海域一艘裝載小麥的外籍旗船舶，造成1人死亡。"
+    },
+    {
+      "id": "5028134",
+      "time": "2026-08-06 14:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟銀：對OpenAI的股權估值未發生變化。"
+    },
     {
       "id": "mkt:019fd5cd-3964-7aab-8f9b-30e26ca25d07",
       "time": "2026-08-06 14:40:24",
@@ -158336,61 +158414,6 @@
         "其他"
       ],
       "text": "法國二季度私營部門就業人數季環比初值 -0.1%，預期 -0.1%，前值 -0.1%。"
-    },
-    {
-      "id": "5016038",
-      "time": "2026-07-30 14:44:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產百噸級純電動無人礦卡投運】國家電投百噸級純電動雙向行駛無人駕駛礦用自卸車在內蒙古某礦場成功投運。該車搭載先進的無人駕駛系統，實現了自動裝載、自主行駛與精準卸料的全流程閉環作業。採用定製化純電傳動系統，實現了運輸環節的零排放，有效解決了高油耗、高汙染的痛點。新型“充換一體”技術配合半固態動力電池，破解了電動重卡充電時間長的瓶頸。最特別的是，它創新性採用4×4全輪轉向和雙向行駛架構，區別於傳統車輛的短距離倒車，它既可向前行駛，也可向後行駛，更無需大半徑掉頭，大幅提升生產效率。（央視新聞）"
-    },
-    {
-      "id": "5016037",
-      "time": "2026-07-30 14:44:33",
-      "tags": [],
-      "text": "【中共中央政治局會議：多措並舉加強民生保障 做好靈活就業人員和新就業形態人員權益保障工作】中共中央政治局7月30日召開會議，會議指出，要多措並舉加強民生保障，加大重點群體就業支援力度，做好靈活就業人員和新就業形態人員權益保障工作。抓好“一老一小”服務保障，健全分層分類的社會救助體系。加強生態環境保護，打好“三北”工程攻堅戰，積極穩妥推進碳達峰碳中和。（新華社）"
-    },
-    {
-      "id": "5016036",
-      "time": "2026-07-30 14:42:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK創新：市場環境預計將走弱，原因是歐佩克+增產，加之第三季度亞洲煉油開工率上升，油價和煉油利潤率均出現回落。"
-    },
-    {
-      "id": "5016035",
-      "time": "2026-07-30 14:42:23",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【中共中央政治局：穩定生豬等農畜產品生產和價格 促進農民穩定增收】中共中央政治局7月30日召開會議，會議強調，要毫不放鬆做好“三農”工作，持續鞏固拓展脫貧攻堅成果，建立健全高標準農田建設、運營、管護機制，穩定生豬等農畜產品生產和價格，促進農民穩定增收。做好農資保供穩價，抓好農業生產，奪取秋糧和全年糧食豐收。"
-    },
-    {
-      "id": "5016034",
-      "time": "2026-07-30 14:41:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK創新：第二季度淨利潤為2150億韓元，倫敦證券交易所集團市場預期為9150億韓元。"
-    },
-    {
-      "id": "5016033",
-      "time": "2026-07-30 14:41:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其多地野火蔓延 熱門景區受影響】受高溫、乾燥和強風天氣影響，土耳其29日多地發生野火。消防部門出動大量人員撲救，部分熱門旅遊景區受影響，數百人被緊急疏散。土耳其總統埃爾多安當晚說，當天全國發生約90起火災，其中81起已得到控制，超過3000名消防人員正在撲救其餘火災。據當地媒體報道，目前暫無人員傷亡報告。（央視新聞）"
-    },
-    {
-      "id": "5016032",
-      "time": "2026-07-30 14:41:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "AI伺服器製造商技嘉據悉尋求15億美元銀團貸款。"
     }
   ]
 }
