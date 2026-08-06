@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-06 08:44:04",
-  "count": 17405,
+  "updated": "2026-08-06 08:47:51",
+  "count": 17400,
   "items": [
+    {
+      "id": "mkt:019fd488-a161-7aab-8f96-31f073a98bf7",
+      "time": "2026-08-06 08:45:51",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "DALY says tech investment is helping to push up inf."
+    },
+    {
+      "id": "5027671",
+      "time": "2026-08-06 08:45:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：科技投資正在推高通脹。"
+    },
+    {
+      "id": "5027670",
+      "time": "2026-08-06 08:45:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲戴利：一些跡象表明關稅對通脹的影響開始減弱】美國舊金山聯邦儲備銀行行長戴利在東京的活動上講話表示，關稅對通脹產生了明確影響。目前有部分證據顯示，關稅對通脹的影響已開始消退。若中東戰爭結束，應會有助於通脹下行。"
+    },
+    {
+      "id": "te:markets:573161",
+      "time": "2026-08-06 08:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 1.5% to below 65,300 on Thursday, reversing the previous session’s gains as weakness on Wall Street weighed on sentiment and chip and artificial intelligence-related stocks retreated. The declines came despite a further drop in oil prices after Iran and Oman reached an agreement on the partial reopening of the Strait of Hormuz, easing concerns over inflation and the outlook for interest rates. Japanese companies tied to the global AI infrastructure boom posted steep losses, including Kioxia Holdings (-10.7%), Taiyo Yuden (-9.8%), Murata Manufacturing (-5.7%), Ibiden Co (-6%), and Tokyo Electron (-5.7%). SoftBank Group also fell nearly 4% after surging almost 14% in the previous session, as investors awaited the investment giant’s earnings report. Meanwhile, gains in financial and consumer stocks helped limit broader losses, with Mitsubishi UFJ (1.5%), Toyota Motor (1.7%), and Fast Retailing (1.8%) all moving higher."
+    },
+    {
+      "id": "mkt:019fd487-196c-7aab-8f96-2c36af2a1d22",
+      "time": "2026-08-06 08:44:11",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DALY: an end to the Middle East war would help lower inf."
+    },
+    {
+      "id": "5027669",
+      "time": "2026-08-06 08:44:03",
+      "tags": [
+        "行業"
+      ],
+      "text": "【上市乳企上半年整體經營改善】同花順iFind資料顯示，截至8月5日，A股及H股市場共有8家上市乳企披露2026年上半年業績預告，1家釋出業績快報。綜合來看，上半年，在國內乳業整體經營壓力持續的背景下，上游原奶企業在經歷深度調整後率先迎來盈利拐點，下游加工端則在存量競爭中加速分化。"
+    },
     {
       "id": "mkt:019fd485-f67b-7aab-8f96-25883ec0b0cb",
       "time": "2026-08-06 08:42:56",
@@ -160088,114 +160153,6 @@
         "國際"
       ],
       "text": "伊朗國家電視臺：伊朗阿巴斯港發生爆炸。"
-    },
-    {
-      "id": "mkt:019fb07d-d74b-7aab-8efc-ddf98d59f517",
-      "time": "2026-07-30 08:47:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "【Margin financing across Shanghai and Shenzhen down 25.548 bln yuan】As of July 29, margin financing on the Shanghai Stock Exchange stood at 1,336.695 bln yuan, down 12.316 bln from the prior trading day; Shenzhen was 1,276.274 bln, down 13.232 bln; combined total 2,612.969 bln, down 25.548 bln yuan."
-    },
-    {
-      "id": "5015503",
-      "time": "2026-07-30 08:47:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少255.48億元】截至7月29日，上交所融資餘額報13366.95億元，較前一交易日減少123.16億元；深交所融資餘額報12762.74億元，較前一交易日減少132.32億元；兩市合計26129.69億元，較前一交易日減少255.48億元。"
-    },
-    {
-      "id": "te:economy:570919",
-      "time": "2026-07-30 08:47:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Maintains Base Rate at 4% After Fed Decision — The Hong Kong Monetary Authority (HKMA) kept its base rate unchanged at 4.0% on July 30, 2026, following the U.S. Federal Reserve's decision to leave the federal funds target range unchanged at 3.5%–3.75% at its fifth FOMC meeting of the year. The move reflects Hong Kong's Linked Exchange Rate System, which pegs the Hong Kong dollar within a 7.75–7.85 per U.S. dollar trading band, requiring local interest rates to follow U.S. monetary policy closely regardless of domestic economic conditions. Both the Fed and the HKMA lowered their benchmark rates by a cumulative 75 basis points in 2025, after delivering a combined 100 basis points of rate cuts in 2024."
-    },
-    {
-      "id": "5015501",
-      "time": "2026-07-30 08:47:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：伊朗的基什島、格什姆島和阿布穆薩島附近發生爆炸。"
-    },
-    {
-      "id": "5015500",
-      "time": "2026-07-30 08:47:01",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【程福波會見美國霍尼韋爾科技董事長兼執行長柯偉茂】7月29日，國務院國資委主任程福波在國資委會見了美國霍尼韋爾科技董事長兼執行長柯偉茂，雙方就加強中央企業與霍尼韋爾科技在技術創新、智慧製造、綠色發展等領域深化合作交換了意見。程福波對柯偉茂一行來訪表示歡迎。他表示，今年5月，習近平主席同特朗普總統共同確定了中美建設性戰略穩定關係的新定位，為下階段中美關係作出了重要戰略指引。國資央企將深入貫徹落實習近平主席重要講話精神，落實國家“十五五”規劃綱要，加快推進高質量發展。霍尼韋爾科技聚焦主業主賽道、以人工智慧賦能製造業的發展理念，與中央企業產業導向契合，雙方合作空間廣闊。希望雙方鞏固深化現有合作成果，繼續發揮各自優勢，在科技創新、企業管理等方面深化更有價值的合作，攜手開拓第三方市場，實現互利共贏發展。柯偉茂簡要介紹了霍尼韋爾公司轉型和業務佈局情況，對國資央企在科技創新、綠色低碳轉型和國際化經營等方面的進展與經驗表示讚賞。他表示，霍尼韋爾科技堅定看好並將繼續深耕中國市場，將持續加大本土化業務創新力度，深化與中央企業在智慧製造、海外拓展等領域的互利合作，更好促進產業可持續發展和轉型升級。（國資委）"
-    },
-    {
-      "id": "mkt:019fb07d-26d5-7aab-8efc-d5cd10d6d850",
-      "time": "2026-07-30 08:46:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, U.S. officials said President Trump met with Saudi Arabia's defense minister on Wednesday local time."
-    },
-    {
-      "id": "mkt:019fb07c-9f7e-7aab-8efc-cd7d4236fc0f",
-      "time": "2026-07-30 08:46:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Kumamoto prefectural government says earthquake fatalities have risen to 17."
-    },
-    {
-      "id": "mkt:019fb07c-5aad-7aab-8efc-c31097c500e2",
-      "time": "2026-07-30 08:46:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Reports said U.S. HIMARS rockets fired from Kuwait struck targets in Iran."
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825793744",
-      "time": "2026-07-30 08:44:42",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【申萬宏源：美聯儲短期內或“按兵不動”】申萬宏源宏觀團隊最新研報表示，美聯儲短期內或“按兵不動”。一方面，長端利率走高、金融條件收緊或對實體經濟形成抑制，降低美聯儲加息“緊迫性”。另一方面，綜合考慮趨勢性回落的通脹，美聯儲在短期內或可“按兵不動”，未來重點需關注AI投資的通脹效應以及AI對供給側的影響。"
-    },
-    {
-      "id": "5015499",
-      "time": "2026-07-30 08:44:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國盛證券：強厄爾尼諾腳步漸近 對農產品影響機率分化顯著】國盛證券研報指出，厄爾尼諾已確認形成，強—超強級別機率極高。2026年6月11日，美國國家海洋和大氣管理局正式宣佈厄爾尼諾現象的形成；2026年7月最新發布的ENSO機率結果來看，本輪厄爾尼諾形成已是高度確定事件；同時2026年10—12月超強厄爾尼諾發生的機率達到了80%以上，本輪厄爾尼諾氣候擾動的最強衝擊視窗集中於2026年秋冬。厄爾尼諾對農產品影響機率分化顯著。基於1981年以來歷次厄爾尼諾事件的統計：可可豆、天然橡膠、棕櫚油為高確定性減產作物；玉米、棉花、蘋果減產確定性相對偏弱；甘蔗、紅棗、大豆為厄爾尼諾氣候下的受益品種，歷史增產機率較大；小麥、稻穀無明確影響趨勢。"
-    },
-    {
-      "id": "5015498",
-      "time": "2026-07-30 08:44:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌2％，SK海力士跌超7%，三星電子跌超2%。"
     }
   ]
 }

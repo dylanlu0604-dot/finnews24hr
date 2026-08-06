@@ -1,7 +1,72 @@
 {
   "date": "2026-08-06",
-  "count": 562,
+  "count": 568,
   "items": [
+    {
+      "id": "mkt:019fd488-a161-7aab-8f96-31f073a98bf7",
+      "time": "2026-08-06 08:45:51",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "DALY says tech investment is helping to push up inf."
+    },
+    {
+      "id": "5027671",
+      "time": "2026-08-06 08:45:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：科技投資正在推高通脹。"
+    },
+    {
+      "id": "5027670",
+      "time": "2026-08-06 08:45:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲戴利：一些跡象表明關稅對通脹的影響開始減弱】美國舊金山聯邦儲備銀行行長戴利在東京的活動上講話表示，關稅對通脹產生了明確影響。目前有部分證據顯示，關稅對通脹的影響已開始消退。若中東戰爭結束，應會有助於通脹下行。"
+    },
+    {
+      "id": "te:markets:573161",
+      "time": "2026-08-06 08:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 1.5% to below 65,300 on Thursday, reversing the previous session’s gains as weakness on Wall Street weighed on sentiment and chip and artificial intelligence-related stocks retreated. The declines came despite a further drop in oil prices after Iran and Oman reached an agreement on the partial reopening of the Strait of Hormuz, easing concerns over inflation and the outlook for interest rates. Japanese companies tied to the global AI infrastructure boom posted steep losses, including Kioxia Holdings (-10.7%), Taiyo Yuden (-9.8%), Murata Manufacturing (-5.7%), Ibiden Co (-6%), and Tokyo Electron (-5.7%). SoftBank Group also fell nearly 4% after surging almost 14% in the previous session, as investors awaited the investment giant’s earnings report. Meanwhile, gains in financial and consumer stocks helped limit broader losses, with Mitsubishi UFJ (1.5%), Toyota Motor (1.7%), and Fast Retailing (1.8%) all moving higher."
+    },
+    {
+      "id": "mkt:019fd487-196c-7aab-8f96-2c36af2a1d22",
+      "time": "2026-08-06 08:44:11",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DALY: an end to the Middle East war would help lower inf."
+    },
+    {
+      "id": "5027669",
+      "time": "2026-08-06 08:44:03",
+      "tags": [
+        "行業"
+      ],
+      "text": "【上市乳企上半年整體經營改善】同花順iFind資料顯示，截至8月5日，A股及H股市場共有8家上市乳企披露2026年上半年業績預告，1家釋出業績快報。綜合來看，上半年，在國內乳業整體經營壓力持續的背景下，上游原奶企業在經歷深度調整後率先迎來盈利拐點，下游加工端則在存量競爭中加速分化。"
+    },
     {
       "id": "mkt:019fd485-f67b-7aab-8f96-25883ec0b0cb",
       "time": "2026-08-06 08:42:56",
