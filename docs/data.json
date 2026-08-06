@@ -1,7 +1,166 @@
 {
-  "updated": "2026-08-06 09:42:43",
-  "count": 17365,
+  "updated": "2026-08-06 09:46:36",
+  "count": 17368,
   "items": [
+    {
+      "id": "te:economy:573187",
+      "time": "2026-08-06 09:45:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Private House Approvals",
+        "Importance 1"
+      ],
+      "text": "Australia Private House Approval Growth Confirmed — Private house approvals in Australia rose 0.4% month-on-month to 10,631 units in June 2026, confirming preliminary estimates but easing from a 2.4% increase in the previous month. It marked the second consecutive monthly gain, supported by stronger approvals in Queensland (+2.9%), South Australia (+2.8%), and Victoria (+2.2%). In contrast, approvals declined in New South Wales (-0.3%) and Western Australia (-5.4%). Meanwhile, approvals for private-sector dwellings excluding houses surged 17.8% to 7,138 units, pointing to robust activity in higher-density housing. On a yearly basis, private house approvals jumped 15.8%, accelerating from a 13.3% rise in May and marking the strongest growth rate since September 2024."
+    },
+    {
+      "id": "mkt:019fd4bf-7582-7aab-8f98-51cda1fe8d80",
+      "time": "2026-08-06 09:45:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Aili Home resumed trading on the A‑share market today and recorded its tenth consecutive daily limit-up; the stock is up 128.37% so far in July."
+    },
+    {
+      "id": "5027800",
+      "time": "2026-08-06 09:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛麗家居今日復牌，晉級十連板，7月累計漲幅128.37%。"
+    },
+    {
+      "id": "mkt:019fd4bf-571d-7aab-8f98-494aab0057f6",
+      "time": "2026-08-06 09:45:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【LDP senior says BOJ ETF holdings could fund planned consumption tax cut】A senior ruling-party LDP official said Japan's BOJ ETF holdings could be used to help fund a planned cut in the food consumption tax, signaling the central bank's large equity holdings are becoming a political target. Prime Minister Takaichi has ruled out financing the tax cut with new debt and seeks non-tax revenue to fill an estimated annual shortfall of about 5 trillion yen (≈$31.7bn). Daishiro Yamagiwa, deputy head of the LDP tax research council, said proceeds from selling the BOJ's roughly 37 trillion yen of ETF holdings could be considered. At the BOJ's current disposal pace of about 330 billion yen a year, Yamagiwa noted it would take roughly a century to liquidate the position and suggested accelerating sales while equity prices are high. The BOJ says it is selling ETFs gradually to avoid disrupting the stock market."
+    },
+    {
+      "id": "te:markets:573185",
+      "time": "2026-08-06 09:45:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Fall on Tech Selloff — The benchmark KOSPI fell nearly 5% to around 6,285 on Thursday, reversing gains from the previous session, as a selloff in global technology stocks weighed heavily on semiconductor shares. SK Hynix and Samsung Electronics declined sharply by roughly 5% and 8%, respectively, after the Nasdaq retreated overnight amid profit-taking in major tech names. Losses were also recorded in SK Square (-10.2%), Hyundai Motor (-1.6%), HD Hyundai Heavy Industries (-1.2%), LS Electric (-3.8%), SK Inc (-9.1%), and LG Electronics (-2.5%). Limiting broader losses, South Korea reported a record current account surplus of $49.73 billion in June, driven by strong semiconductor exports that reinforced the country's export outlook. At the same time, reports of progress toward an interim transit arrangement between Iran and Oman eased concerns over disruptions to shipping through the Strait of Hormuz, supporting global risk sentiment."
+    },
+    {
+      "id": "5027799",
+      "time": "2026-08-06 09:45:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【元件板塊再度拉昇，景旺電子漲停】元件板塊再度拉昇，景旺電子漲停，寶鼎科技、本川智慧、方正科技、中京電子、威爾高、泰晶科技跟漲。"
+    },
+    {
+      "id": "5027798",
+      "time": "2026-08-06 09:44:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "mkt:019fd4bd-fca1-7aab-8f98-475a358c959b",
+      "time": "2026-08-06 09:44:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China shipbuilding-related A-shares rose after volatile trading; CSSC Hanguang gained nearly 13%, while Jiuzhiyang, Kunchuan Intelligent, China Power and CSSC Special Gas also advanced."
+    },
+    {
+      "id": "5027797",
+      "time": "2026-08-06 09:43:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【消費電子板塊短線拉昇，卓翼科技漲停】消費電子板塊短線拉昇，卓翼科技漲停，碩貝德、達瑞電子、精研科技、傑美特、捷邦科技等紛紛走高。"
+    },
+    {
+      "id": "5027796",
+      "time": "2026-08-06 09:43:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多支黃金股ETF漲幅居前】黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲近4%,訊息面上，倫敦金現突破4300美元，連續2個交易日大漲，此外，A股市場黃金ETF連續16個交易日申贖資金淨流入93億。"
+    },
+    {
+      "id": "5027795",
+      "time": "2026-08-06 09:43:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI應用端反覆走強 博彥科技2連板】AI應用端反覆走強，博彥科技2連板，泛微網路、天融信漲停，亞信安全、任子行漲超10%，普聯軟體、光雲科技、漢得資訊等漲幅靠前。"
+    },
+    {
+      "id": "5027794",
+      "time": "2026-08-06 09:42:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "滬指翻紅，深成指、創業板指跌幅分別收窄至0.66%、1.36%。"
+    },
+    {
+      "id": "mkt:019fd4bc-bbb0-7aab-8f98-3958bd746b3d",
+      "time": "2026-08-06 09:42:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite turned positive; Shenzhen Component and ChiNext declines narrowed to 0.66% and 1.36%, respectively."
+    },
+    {
+      "id": "5027793",
+      "time": "2026-08-06 09:42:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量229億元。"
+    },
+    {
+      "id": "mkt:019fd4bc-7125-7aab-8f98-37d502009b90",
+      "time": "2026-08-06 09:42:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The South Korean won rose to 1,415.30 per US dollar, its highest level since mid-October 2025."
+    },
+    {
+      "id": "5027792",
+      "time": "2026-08-06 09:42:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元<KRW=KFTC>升至1,415.30，創2025年10月中旬以來最高。"
+    },
     {
       "id": "mkt:019fd4bb-5074-7aab-8f98-2e10228461e9",
       "time": "2026-08-06 09:41:13",
@@ -159743,126 +159902,6 @@
         "其他"
       ],
       "text": "【我國成功發射通訊技術試驗衛星二十七號A/B星】7月30日9時00分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將通訊技術試驗衛星二十七號A/B星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 通訊技術試驗衛星二十七號A/B星主要用於衛星通訊、廣播電視、資料傳輸等業務，並開展相關技術試驗驗證。 這次任務是長征系列運載火箭的第660次飛行。(新華社)"
-    },
-    {
-      "id": "5015640",
-      "time": "2026-07-30 09:45:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.02%，現報3310.598點；上證指數漲0.09%，現報3831.751點；深證成指跌0.99%，現報13523.392點。"
-    },
-    {
-      "id": "5015639",
-      "time": "2026-07-30 09:45:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數跌超1%，現報4815.900點；恒生指數現跌0.302%。"
-    },
-    {
-      "id": "mkt:019fb0b2-9b37-7aab-8eff-98bfb169bb7d",
-      "time": "2026-07-30 09:45:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS"
-      ],
-      "text": "Samsung Electronics says it is not currently considering issuing American Depositary Receipts (ADRs) but remains open to ADR issuance over the medium-to-long term."
-    },
-    {
-      "id": "5015638",
-      "time": "2026-07-30 09:45:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星電子：對中長期發行美國存託憑證（ADR）持開放態度。"
-    },
-    {
-      "id": "5015637",
-      "time": "2026-07-30 09:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯創電子：鄭州聯創智造產業園廠房正式投產】據聯創電子訊息，鄭州聯創智造產業園廠房於2026年6月30日全面完成建設、實現產線進駐與穩定量產，標誌著園區廠房正式落成啟用、投入運營。"
-    },
-    {
-      "id": "mkt:019fb0b2-361a-7aab-8eff-96b83f4600ce",
-      "time": "2026-07-30 09:44:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qeshm Island power restored after brief outage from US missile strikes】Qeshm Island’s power was fully restored after a brief outage caused by missile strikes on the grid, the local power company said. Repair crews fixed the outage but staff remain on high alert. US warplanes fired multiple missiles at several sites on the island early that morning."
-    },
-    {
-      "id": "mkt:019fb0b2-31e8-7aab-8eff-8c986f88f253",
-      "time": "2026-07-30 09:44:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "China A-shares opened with the ChiNext down more than 2%, the Shenzhen Composite down over 1% and the Shanghai Composite up 0.1%. Baijiu, internet insurance and gaming stocks led gains."
-    },
-    {
-      "id": "5015636",
-      "time": "2026-07-30 09:44:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "三星電子：目前不考慮發行美國存託憑證（ADR）。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607303826093197",
-      "time": "2026-07-30 09:44:42",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：上半年文化服務業實現營業收入同比增長8.1%】國家統計局社科文司統計師潘旭華解讀2026年上半年全國規模以上文化及相關產業企業資料，文化服務業發揮重要支撐作用。上半年，文化服務業實現營業收入43235億元，比上年同期增長8.1%，快於規模以上文化企業3.5個百分點。文化服務業企業營業收入佔規模以上文化企業的比重為60.0%，比上年同期提高1.9個百分點，拉動規模以上文化企業營業收入增長4.7個百分點。"
-    },
-    {
-      "id": "mkt:019fb0b1-4a7c-7aab-8eff-86ce82540f35",
-      "time": "2026-07-30 09:43:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A-share retail sector rebounded; Nanning Department Store rallied straight to its daily limit, with peers Dongbai Group, Lingnan Holdings, Guangbai Co., Caesar Tourism, Hainan Development and Ouya Group also rising."
-    },
-    {
-      "id": "5015635",
-      "time": "2026-07-30 09:43:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "白酒股快速拉昇，捨得酒業觸及漲停。"
-    },
-    {
-      "id": "5015634",
-      "time": "2026-07-30 09:43:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.01%，現報13520.456點；上證指數漲%，現報3828.627點；創業板指跌1.95%，現報3312.885點。"
-    },
-    {
-      "id": "5015633",
-      "time": "2026-07-30 09:43:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "油氣概念表現活躍，通源石油漲近10%，科力股份、泰山石油、中國海油、山東墨龍、石化油服跟漲。"
     }
   ]
 }
