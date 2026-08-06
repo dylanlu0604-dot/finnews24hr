@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-06 14:37:05",
-  "count": 17230,
+  "updated": "2026-08-06 14:41:04",
+  "count": 17227,
   "items": [
+    {
+      "id": "mkt:019fd5cd-3964-7aab-8f9b-30e26ca25d07",
+      "time": "2026-08-06 14:40:24",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "【Apple (AAPL.O) sues OpenAI for trade-secret theft; OpenAI files motion to dismiss】OpenAI asked a federal judge to dismiss Apple’s trade-secret theft lawsuit, saying the allegations lack merit. In court papers OpenAI’s lawyers said Apple mischaracterizes employee conduct, that a senior OpenAI hardware executive followed industry-standard recruiting practices when interviewing Apple staff, and that the employee Apple accuses of stealing secrets was assisting a former Apple colleague."
+    },
+    {
+      "id": "5028132",
+      "time": "2026-08-06 14:40:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團：已於2026年8月安排了等值17.5億美元的槓桿收購融資，用於支付收購ABB集團機器人業務的部分款項。"
+    },
+    {
+      "id": "5028131",
+      "time": "2026-08-06 14:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱俄羅斯在黑海襲擊了一艘裝載小麥的船隻。"
+    },
+    {
+      "id": "5028130",
+      "time": "2026-08-06 14:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦方面表示，巴基斯坦總理謝里夫和陸軍參謀長將於8月6日至8日訪問沙烏地阿拉伯。"
+    },
+    {
+      "id": "5028129",
+      "time": "2026-08-06 14:39:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【震有科技等成立星存算通科技公司 含AI及衛星相關業務】企查查APP顯示，近日，深圳市星存算通科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；衛星通訊服務；衛星行動通訊終端銷售；衛星遙感資料處理等。企查查股權穿透顯示，該公司由震有科技等共同持股。"
+    },
+    {
+      "id": "5028128",
+      "time": "2026-08-06 14:38:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄副外長：德推動烏局勢升級或致自身陷入災難】俄羅斯副外長柳賓斯基5日表示，德國企圖推動烏克蘭局勢升級，這可能使德國陷入災難。柳賓斯基在接受俄新社採訪時說，德國肆無忌憚地企圖推動烏克蘭局勢升級，可能給德國帶來災難，俄方不會被其武力威脅嚇倒。（新華社）"
+    },
+    {
+      "id": "5028127",
+      "time": "2026-08-06 14:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓元回吐最高 0.7% 的漲幅，幾乎持平交投。"
+    },
+    {
+      "id": "5028126",
+      "time": "2026-08-06 14:38:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦總理謝里夫訪問沙烏地阿拉伯。"
+    },
+    {
+      "id": "5028125",
+      "time": "2026-08-06 14:37:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【轉轉訴95分不正當競爭案終審勝訴，獲賠210萬元】8月6日，據轉轉公司訊息，轉轉公司訴上海置潮資訊科技有限公司（“95分”平臺運營方）不正當競爭案終審勝訴。2026年7月22日，北京智慧財產權法院對此案作出終審判決：駁回置潮公司上訴，維持原判。置潮公司須在95分App主頁連續七天刊登宣告消除影響，並賠償轉轉經濟損失200萬元及合理開支10萬元。"
+    },
+    {
+      "id": "5028124",
+      "time": "2026-08-06 14:36:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【首創期貨：金銀暴漲，COMEX黃金單日飆升超4%】隔夜COMEX黃金主力合約大幅上漲4.20%至4308美元/盎司，創2月以來最大單日漲幅；COMEX白銀主力合約同步上漲4.19%至62.255美元/盎司。今日亞洲時段，金價在4250美元附近震盪整固。ADP就業資料大幅不及預期，加息預期顯著降溫。美國7月ADP就業人數僅增4.4萬人，遠低於預期的7萬人，也低於前值9.5萬人。作為“小非農”，ADP資料通常被視為非農的先行訊號，其超預期走弱讓市場對就業降溫的預期進一步升溫。CME美聯儲觀察工具顯示，美聯儲9月維持利率不變的機率已升至45.6%，加息機率降至54.4%。美元指數與美債收益率同步跳水，從估值端強力推升金銀價格。短期走勢偏強，但由於加息週期降至，對貴金屬中期行情不宜過度樂觀。（首創期貨）"
+    },
+    {
+      "id": "5028123",
+      "time": "2026-08-06 14:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀集團第一季度願景基金投資收益2,557.8億日元。"
+    },
     {
       "id": "5028122",
       "time": "2026-08-06 14:35:47",
@@ -158300,143 +158391,6 @@
         "其他"
       ],
       "text": "AI伺服器製造商技嘉據悉尋求15億美元銀團貸款。"
-    },
-    {
-      "id": "5016031",
-      "time": "2026-07-30 14:40:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【溢價率80.44%，上海浦東新楊思商業地塊以27.05億元成交】2026年7月30日，上海浦東新區楊思社群商業文體組合地塊公開出讓並完成交易，成交總價約27.05億元，溢價率達80.44%。這也是上海近年來罕見上新的純商業地塊。"
-    },
-    {
-      "id": "5016030",
-      "time": "2026-07-30 14:40:33",
-      "tags": [],
-      "text": "【中共中央政治局會議：完善對外投資管理制度和海外綜合服務體系】中共中央政治局7月30日召開會議，會議指出，要拓展國際經貿互利合作空間，大力發展服務貿易，促進貿易平衡發展。完善對外投資管理制度和海外綜合服務體系，積極吸引和利用外資。（新華社）"
-    },
-    {
-      "id": "mkt:019fb1c0-1cbb-7aab-8f06-8fbd0006d62d",
-      "time": "2026-07-30 14:39:45",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【CPC Politburo meeting: bolster social safety net; protect flexible and new-form workers' rights】The CPC Politburo on July 30 called for stepped-up measures to strengthen the social safety net, increase employment support for priority groups, and protect rights of flexible and new-form workers, including gig-economy participants. It directed improvements to elder and childcare services and the development of a layered, categorized social assistance system. The meeting also pushed for stronger ecological protection, renewed emphasis on the Three-North shelterbelt afforestation project, and an active, steady advance of China’s carbon-peak and carbon-neutrality goals."
-    },
-    {
-      "id": "5016029",
-      "time": "2026-07-30 14:39:23",
-      "tags": [],
-      "text": "【中共中央政治局會議：深化資本市場投融資綜合改革 提升資本市場韌性和信心】中共中央政治局7月30日召開會議，會議強調，要切實築牢安全屏障。穩定房地產市場，實施好一攬子化債方案，紮實推進地方中小金融機構改革化險、減量提質。深化資本市場投融資綜合改革，提升資本市場韌性和信心。深入排查整治各類風險隱患，堅決遏制重特大事故發生。加強對病險水庫、江河堤防、山洪和地質災害危險區、城市低窪易澇點等隱患排查治理，紮實做好防汛應急搶險救災各項工作，全力維護人民群眾生命財產安全。（新華社）"
-    },
-    {
-      "id": "5016028",
-      "time": "2026-07-30 14:39:13",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【中共中央政治局：制定實施全國統一大市場建設條例 繼續綜合整治“內卷式”競爭】中共中央政治局7月30日召開會議，會議強調，要營造公平有序的市場競爭環境，制定實施全國統一大市場建設條例，繼續綜合整治“內卷式”競爭，常態化解決企業賬款拖欠問題。深化國資國企改革，最佳化民營經濟發展環境，推動平臺經濟規範健康發展。"
-    },
-    {
-      "id": "mkt:019fb1bf-a262-7aab-8f06-80120b35c349",
-      "time": "2026-07-30 14:39:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【China Politburo urges stabilization of hog and other farm-product production and prices】China's Politburo met July 30 and urged sustained support for agriculture, consolidation of poverty-alleviation gains, and establishment of mechanisms for construction, operation and maintenance of high-standard farmland. It called for stabilizing production and prices of hogs and other agricultural and livestock products, ensuring supply and price stability for agricultural inputs, securing the autumn grain crop and a full-year harvest, and supporting stable farmer incomes."
-    },
-    {
-      "id": "mkt:019fb1bf-5dc9-7aab-8f06-7a62c1143045",
-      "time": "2026-07-30 14:38:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【CPC Politburo meeting: improve foreign investment management and overseas comprehensive service system】The CPC Politburo met on July 30 and instructed authorities to expand international trade cooperation, accelerate services trade to help rebalance trade, improve the foreign investment management regime and overseas comprehensive service system, and actively attract and utilize foreign capital."
-    },
-    {
-      "id": "5016027",
-      "time": "2026-07-30 14:38:48",
-      "tags": [],
-      "text": "【中共中央政治局：紮實推進“六張網”規劃建設 深入實施“人工智慧＋”行動】中共中央政治局7月30日召開會議，會議強調，要有效擴大國內需求，適應不同群體消費需求擴大優質供給，挖掘服務消費潛力。紮實推進“六張網”規劃建設。加快現代化產業體系建設，加強對基礎研究的長期穩定支援，深入實施“人工智慧＋”行動，發展智慧經濟新形態，完善人工智慧治理體系。積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造升級。"
-    },
-    {
-      "id": "5016026",
-      "time": "2026-07-30 14:38:39",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "法國財政部長：第二季度資料對於2026年整體增長預測而言令人安心。"
-    },
-    {
-      "id": "mkt:019fb1bf-05b7-7aab-8f06-716830055071",
-      "time": "2026-07-30 14:38:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "CNH"
-      ],
-      "text": "【Politburo meeting: deepen capital market investment‑financing reform, bolster market resilience and confidence】The Politburo of the CPC Central Committee met July 30 and directed measures to stabilize the China property market and implement a debt‑restructuring package for the property sector. It ordered reforms of local small‑ and medium‑sized financial institutions to defuse risks, shrink exposures and raise asset quality, called for deeper comprehensive reform of capital‑market investment‑financing to enhance market resilience and confidence, and required thorough risk inspections and strengthened disaster‑prevention work."
-    },
-    {
-      "id": "5016025",
-      "time": "2026-07-30 14:38:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【中共中央政治局：紮實推進“六張網”規劃建設 深入實施“人工智慧+”行動】中共中央政治局7月30日召開會議，會議強調，要有效擴大國內需求，適應不同群體消費需求擴大優質供給，挖掘服務消費潛力。紮實推進“六張網”規劃建設。加快現代化產業體系建設，加強對基礎研究的長期穩定支援，深入實施“人工智慧+”行動，發展智慧經濟新形態，完善人工智慧治理體系。積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造升級。"
-    },
-    {
-      "id": "5016024",
-      "time": "2026-07-30 14:38:06",
-      "tags": [],
-      "text": "【中共中央政治局會議：加快推動新舊動能轉換 實施好更加積極的財政政策和適度寬鬆的貨幣政策】中共中央政治局7月30日召開會議，會議強調，做好下半年經濟工作，要堅持以習近平新時代中國特色社會主義思想為指導，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，加快構建新發展格局，更好統籌國內國際兩個大局，統籌發展和安全，堅持深化改革開放，加快推動新舊動能轉換，實施好更加積極的財政政策和適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，切實保障和改善民生，增強發展動力、激發社會活力，推動經濟持續向新向優向好發展，努力實現“十五五”良好開局。（新華社）"
-    },
-    {
-      "id": "mkt:019fb1be-00ad-7aab-8f06-6f246ff44552",
-      "time": "2026-07-30 14:37:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Impact mixed",
-        "Hang Seng Index"
-      ],
-      "text": "【China Politburo meeting: expand domestic demand, accelerate frontier technology and future-industry development】China's Politburo on July 30 called for effective expansion of domestic demand, raising high-quality supply to meet diverse consumer groups and tapping service-consumption potential. It urged steady progress on the \"six networks\" planning and construction and accelerated development of a modernized industrial system. The meeting directed stronger long-term support for basic research, deep implementation of the \"AI+\" initiative, development of an intelligent economy and improvement of AI governance. It also pushed active promotion of frontier-technology breakthroughs and future industries, building emerging pillar sectors while continuing transformation and upgrading of traditional industries."
-    },
-    {
-      "id": "te:markets:571050",
-      "time": "2026-07-30 14:37:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Falls 0.8% at Close — The ASX 200 slipped 71 points, or 0.8%, to finish at 8,968 on Thursday, halting a three-day rally and retreating from a near five-month high. Profit-taking followed Wall Street’s plunge on Wednesday, as traders weighed the U.S. Fed’s decision to hold interest rates steady, with three officials favoring a 25bps hike. Geopolitical tensions added pressure after Iran’s surprise strikes on U.S. bases in Jordan. At home, the Reserve Bank of Australia Assistant Governor Sarah Hunter noted headline inflation is easing, though housing and services costs remain sticky. Losses were widespread, led by tech, logistics, retail, and non-energy minerals. Softer iron ore and copper prices dragged BHP Group (-1.4%) and Fortescue (-0.9%). Gold miners tumbled, with steep losses in Northern Star Resources (-3.5%) and Evolution Mining (-2.8%). Two of the big four banks slipped between 0.5% and 0.8%. Bucking the trend, Domino Pizza surged 8.6% after reaffirming its annual profit outlook despite write-downs."
     }
   ]
 }
