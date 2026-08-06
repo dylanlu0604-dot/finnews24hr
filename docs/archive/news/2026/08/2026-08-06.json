@@ -1,7 +1,307 @@
 {
   "date": "2026-08-06",
-  "count": 689,
+  "count": 720,
   "items": [
+    {
+      "id": "5027765",
+      "time": "2026-08-06 09:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7662.20點。"
+    },
+    {
+      "id": "5027764",
+      "time": "2026-08-06 09:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌1%，現報7357.00點。"
+    },
+    {
+      "id": "5027763",
+      "time": "2026-08-06 09:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞6月份貿易順差為19.29億澳元；預期為-10.8億澳元。"
+    },
+    {
+      "id": "mkt:019fd4b1-4653-7aab-8f97-d25418afc4f4",
+      "time": "2026-08-06 09:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June imports MoM -0.2% (May +2.6%)."
+    },
+    {
+      "id": "mkt:019fd4b1-4598-7aab-8f97-cec1ae23d2a1",
+      "time": "2026-08-06 09:30:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia June exports rose 9.6% MoM; prior -6.9%."
+    },
+    {
+      "id": "mkt:019fd4b1-447b-7aab-8f97-c289a4d37137",
+      "time": "2026-08-06 09:30:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia June goods and services trade surplus A$1.929 bln; market expected A$1.1 bln deficit; May's deficit A$3.018 bln."
+    },
+    {
+      "id": "5027762",
+      "time": "2026-08-06 09:30:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月出口月率 9.6%，前值-6.90%。澳大利亞6月進口月率 -0.2%，前值2.60%。"
+    },
+    {
+      "id": "5027761",
+      "time": "2026-08-06 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.39%，成分股中，佰維儲存跌4.77%，拓荊科技跌4.70%，盛美上海跌4.43%，華虹宏力跌3.92%。"
+    },
+    {
+      "id": "5027760",
+      "time": "2026-08-06 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.53%， 滬深300指數期貨連續跌0.68%， 中證500指數期貨連續跌0.66%， 上證50指數期貨連續跌0.41%。"
+    },
+    {
+      "id": "5027759",
+      "time": "2026-08-06 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25609.219點；恒生科技指數現跌1.335%。"
+    },
+    {
+      "id": "5027758",
+      "time": "2026-08-06 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4867.210點；恒生指數現跌0.960%。"
+    },
+    {
+      "id": "5027757",
+      "time": "2026-08-06 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.03%， 5年期主力合約漲0.04%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5027756",
+      "time": "2026-08-06 09:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨漲幅擴大至1%，報80.268美元/桶。"
+    },
+    {
+      "id": "mkt:019fd4b1-0df6-7aab-8f97-bf075ddf54ae",
+      "time": "2026-08-06 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Imports (MoM) (Jun) | actual -0.2% | previous 2.60%"
+    },
+    {
+      "id": "mkt:019fd4b1-0ddc-7aab-8f97-b3112489a879",
+      "time": "2026-08-06 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Exports (MoM) (Jun) | actual 9.6% | previous -6.90%"
+    },
+    {
+      "id": "mkt:019fd4b1-0dc2-7aab-8f97-aaa85ceef05a",
+      "time": "2026-08-06 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Goods and Services Trade Balance (Jun) | actual 1929000000B | consensus -1100000000B | previous -3018000000B"
+    },
+    {
+      "id": "5027755",
+      "time": "2026-08-06 09:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股走弱 兆易創新跌超5%】截至發稿，兆易創新(03986.HK)跌5.35%，瀾起科技(06809.HK)跌3.77%，智譜(02513.HK)跌2.98%，滴普科技(01384.HK)跌2.64%。"
+    },
+    {
+      "id": "mkt:019fd4b0-bbaf-7aab-8f97-a31305b5cd24",
+      "time": "2026-08-06 09:29:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Trump treats Fed chair Wosh as outside adviser; repeatedly called on economic issues】The Wall Street Journal, citing people familiar with the matter, says President Trump has phoned Fed chair Wosh repeatedly since Wosh took office, breaking customary patterns of presidential contact with central bank chiefs. Call frequency varied from multiple calls in a few days to long gaps. Trump sought Wosh's views on issues including a potential Iran war and the economic impact of rapid AI development. Insiders say it is unclear whether monetary policy was discussed; one person insisted the president never raised interest rates. Wosh reportedly expressed private economic optimism consistent with his public remarks. Trump has told allies he views Wosh as an important external economic adviser. The relationship could prompt concerns about Federal Reserve independence."
+    },
+    {
+      "id": "mkt:019fd4b0-3e9b-7aab-8f97-9aa97ab63df0",
+      "time": "2026-08-06 09:29:07",
+      "tags": [
+        "MKT News",
+        "09992.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong-listed Pop Mart (09992.HK) fell more than 3% after an HKEX filing showed Duan Yongping's stake declined to 5.55% from 7.65%."
+    },
+    {
+      "id": "5027754",
+      "time": "2026-08-06 09:28:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：應關注科技投資借貸的增長。"
+    },
+    {
+      "id": "mkt:019fd4af-e6dd-7aab-8f97-970b2b88ac60",
+      "time": "2026-08-06 09:28:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY: Rising borrowing to finance technology investment merits attention."
+    },
+    {
+      "id": "5027753",
+      "time": "2026-08-06 09:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國產業通商資源部長官：美國預計將於本月宣佈產能過剩調查結果。"
+    },
+    {
+      "id": "mkt:019fd4af-aba9-7aab-8f97-8dfba7c94f9a",
+      "time": "2026-08-06 09:28:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shanghai crude (SC) 2609 rallied intraday, extending gains to 1.01% at 518.2 yuan/barrel. Turnover about CNY 50.485 bln; open interest rose nearly 1,500 lots intraday as volume and OI activity picked up. Front-month fuel oil contract advanced over 2.0% to 3,419.00 yuan/ton."
+    },
+    {
+      "id": "5027752",
+      "time": "2026-08-06 09:28:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【工業金屬板塊高開，盛達資源漲停】工業金屬板塊高開，盛達資源漲停，白銀有色、盛屯礦業、電工合金、鋅業股份紛紛高開。"
+    },
+    {
+      "id": "mkt:019fd4af-82cb-7aab-8f97-80acc6bcc1ef",
+      "time": "2026-08-06 09:28:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on Thursday Aug 6, China's Shanghai Composite Index was down 14.16 points (-0.36 pct) at 3,864.27; Shenzhen Composite Index was down 162.76 points (-1.15 pct) at 13,981.44; CSI 300 Index was down 36.35 points (-0.78 pct) at 4,621.80; ChiNext Index was down 63.00 points (-1.78 pct) at 3,472.15; STAR 50 Index was down 42.56 points (-2.51 pct) at 1,651.11."
+    },
+    {
+      "id": "mkt:019fd4af-6c51-7aab-8f97-78aa26ecf48e",
+      "time": "2026-08-06 09:28:14",
+      "tags": [
+        "MKT News",
+        "01299.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong-listed AIA Group (01299.HK) fell over 6%; turnover topped HK$300 mln."
+    },
+    {
+      "id": "5027751",
+      "time": "2026-08-06 09:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經225指數跌幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019fd4ae-d7d1-7aab-8f97-77dedd45334a",
+      "time": "2026-08-06 09:27:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China A-share precious metals sector opened higher. Xiaocheng Technology opened nearly 10% higher; Zhaojin Gold, Chifeng Gold and Sichuan Gold also opened up at the open."
+    },
+    {
+      "id": "mkt:019fd4ae-d21f-7aab-8f97-6ca217156ea9",
+      "time": "2026-08-06 09:27:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage chip sector opened lower; Puran fell more than 6%, GigaDevice, Weidao Nano and Jiangbolong dropped over 5%, Youyan Silicon and Baiwei Storage also declined."
+    },
+    {
+      "id": "mkt:019fd4ae-77b2-7aab-8f97-602b009cb2ac",
+      "time": "2026-08-06 09:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DALY: Fed is closely monitoring investment levels in the technology sector."
+    },
+    {
+      "id": "5027750",
+      "time": "2026-08-06 09:26:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：正深入思考科技領域的投資水平。"
+    },
     {
       "id": "5027749",
       "time": "2026-08-06 09:26:31",
