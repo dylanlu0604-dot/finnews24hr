@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-06 08:20:53",
+  "updated": "2026-08-06 08:24:46",
   "count": 17409,
   "items": [
+    {
+      "id": "mkt:019fd474-75a4-7aab-8f95-cf2fcafdfb20",
+      "time": "2026-08-06 08:23:49",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "Impact bearish"
+      ],
+      "text": "SoftBank shares extended losses, down 4.5%."
+    },
+    {
+      "id": "5027646",
+      "time": "2026-08-06 08:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月06日08時15分在西藏林芝市墨脫縣（北緯28.97度，東經94.91度）發生4.2級地震，震源深度10千米。"
+    },
+    {
+      "id": "5027645",
+      "time": "2026-08-06 08:22:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【億華通PCT國際專利在澳大利亞成功授權】據億華通訊息，近日，億華通自主研發的《一種燃料電池系統線上活化方法及活化裝置》（專利號：AU 2022350248）正式透過澳大利亞智慧財產權局的全流程嚴格審查，成功獲得澳大利亞專利授權。這是億華通在氫燃料電池核心技術領域拿下的首個澳大利亞發明專利，標誌著企業的燃料電池創新成果正式獲得海外權威認可。"
+    },
+    {
+      "id": "5027644",
+      "time": "2026-08-06 08:22:19",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：韓股槓桿去化尚未完成】中信證券指出，目前韓國散戶槓桿已快速去化，但觀測的指標顯示風險尚未完全出清，券商融資餘額7月31日單日縮水10%，創年內最大降幅，顯示場內槓桿仍在快速去化，同時7月30日與31日散戶單日爆倉強平金額仍超千億韓元，爆倉率仍處於7%—8%高位，遠高於市場穩定狀態下的1%水平。韓國平準基金規模有限，韓國國民年金入場有道德風險，預計後續市場波動率仍將處於相對較高水平。"
+    },
+    {
+      "id": "5027643",
+      "time": "2026-08-06 08:22:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "軟銀集團股價下跌4.5%。"
+    },
+    {
+      "id": "5027642",
+      "time": "2026-08-06 08:21:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國SK海力士股價大跌5.8%。"
+    },
+    {
+      "id": "5027641",
+      "time": "2026-08-06 08:21:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信達生物：IBI363/TAK-928第三項關鍵註冊臨床研究完成首例受試者給藥】8月6日，信達生物製藥集團宣佈，其全球首創PD-1/IL-2α-biased雙特異性抗體融合蛋白IBI363（武田製藥研發代號：TAK-928）聯合貝伐珠單抗，對比研究者選擇治療，用於治療既往標準治療失敗或不耐受的晚期結直腸癌（CRC）的關鍵註冊臨床III期研究，完成首例受試者給藥。"
+    },
     {
       "id": "5027639",
       "time": "2026-08-06 08:18:28",
@@ -160158,74 +160218,6 @@
         "其他"
       ],
       "text": "LG能源第二季度營業利潤為1133億韓元，第二季度合併營收為7.56萬億韓元。"
-    },
-    {
-      "id": "mkt:019fb068-a34f-7aab-8efc-7d5e4cb34b1d",
-      "time": "2026-07-30 08:24:35",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Investors sell U.S. tech at record speed】Investors are profit-taking in U.S. tech at record speed: equal-weight Nasdaq-100 has lagged equal-weight S&P 500 by 6.8 percentage points MTD through July, potentially its worst monthly relative performance on record. Equal-weight S&P 500 is up 2.2% MTD and near record highs; equal-weight Nasdaq-100 is down 4.6% MTD and near its lowest since mid‑May. Tech had outperformed for four months prior; in the past 20 years tech’s average has never lagged the S&P 500’s average by more than 5 percentage points."
-    },
-    {
-      "id": "5015464",
-      "time": "2026-07-30 08:24:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新加坡電信證實正與多方就潛在出售Optus股權事宜進行磋商】新加坡電信（Singtel）週四證實，該公司正就出售其澳大利亞電信子公司Optus的部分股權一事與多方進行磋商，但表示尚不確定談判能否達成交易。Optus是澳大利亞第二大電信運營商，自2001年起由新加坡電信控股。"
-    },
-    {
-      "id": "5015463",
-      "time": "2026-07-30 08:24:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【強生以25.8億美元收購Sail Biomedicines獨家期權】當地時間7月29日，強生公司宣佈已與Sail Biomedicines簽署具有約束力的協議，該公司將以25.8億美元收購Sail的獨家期權。根據協議條款，強生將支付總額為7.85億美元的初期付款，其中包括4.65億美元的股權投資，以及在達成特定開發里程碑時額外支付最高1.4億美元的或有付款。待強生決定行使期權後，強生將額外支付25.8億美元。假設行使該期權，強生預計該協議將使2026年調整後運營每股收益和調整後每股收益稀釋約0.18美元，2027年稀釋約1.28美元。"
-    },
-    {
-      "id": "te:economy:570912",
-      "time": "2026-07-30 08:24:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Tunisia",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Tunisia Holds Key Policy Rate at 7% — The Central Bank of Tunisia left its key interest rate unchanged at 7% at its July 29, 2026 meeting, citing persistent upside risks to the inflation outlook despite easing price pressures. Annual inflation slowed to 5.3% in June from 5.5% in May, as fresh food inflation eased to 11.2% from 13.2%, while core inflation remained at 5% for a third straight month, signaling persistent underlying pressures. The current account deficit widened to TND 4.24 billion, or 2.3% of GDP, in the first half of 2026 from TND 2.84 billion, or 1.6% of GDP, a year earlier, largely due to a record energy import bill. Net foreign exchange reserves stood at TND 23.4 billion, covering 92 days of imports after the repayment of a €700 million Eurobond. The Board reiterated that inflation risks remain tilted to the upside and stressed the need to continue supporting the disinflation process while preserving macroeconomic and external stability."
-    },
-    {
-      "id": "mkt:019fb066-e9db-7aab-8efc-772205332ece",
-      "time": "2026-07-30 08:22:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bill Gates will visit South Korea on August 14 to discuss cooperation on small modular reactors."
-    },
-    {
-      "id": "5015462",
-      "time": "2026-07-30 08:21:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【7月以來共有25股獲5家及以上機構評級，盈利高增長個股獲機構扎堆關注】據統計，截至7月29日，7月以來44家機構累計釋出936次“買入型”（包括買入、增持、推薦、強烈推薦、強烈買入）評級，合計覆蓋546股。 從個股來看，7月以來，共有25股獲5家及以上機構評級，其中貴州茅臺、寧德時代、中國人壽、恆瑞醫藥獲機構評級數量居前，分別有17家、16家、11家、10家。 從業績上來看，盈利高增長個股獲機構扎堆關注。上述25股中，有19股釋出了半年度業績相關公告，按半年報淨利潤、業績快報淨利潤、業績預告淨利潤下限順序計算，渤海租賃實現扭虧為盈；17股歸母淨利潤實現同比增長，浪潮資訊、中國人壽、招商輪船等7股增幅在100%以上。（人民財訊）"
-    },
-    {
-      "id": "5015461",
-      "time": "2026-07-30 08:21:13",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通將美聯儲加息預期提前至12月】摩根大通目前預計美聯儲將於12月加息，這比該行此前預期的2027年下半年要早。“在沃什的新聞釋出會上，他再次未能明確說明，他打算如何實現自己所強硬宣稱的抗通脹決心，”首席美國經濟學家Michael Feroli在一份報告中寫道。這位主席還對PCE是否仍將作為美聯儲通脹目標提出了質疑，“這兩點都讓人對這位新任主席能否實現降通脹的目標產生了質疑。”這反過來可能會給美聯儲委員會其他成員帶來更大的緊迫感，促使他們履行其職責。“我們不會將此次修正視為市場對美聯儲的‘施壓’，而應視為又一個挑戰，促使美聯儲採取行動以維護其公信力。”"
     }
   ]
 }
