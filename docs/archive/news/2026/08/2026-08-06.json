@@ -1,7 +1,69 @@
 {
   "date": "2026-08-06",
-  "count": 2412,
+  "count": 2419,
   "items": [
+    {
+      "id": "5029057",
+      "time": "2026-08-06 21:28:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【依頓電子：擬29.79億元投資建設高階印製電路板智慧製造專案】依頓電子公告稱，公司擬使用自有資金及自籌資金29.79億元投資建設“高階印製電路板智慧製造專案”。該專案擬利用依頓電子中山現有園區土地，建設期21個月，預計2026年12月1日開工，預計投資收益率13.01%（稅後）。本次投資事項尚需提交股東會審議，且專案尚需完成環境影響評價等法定審批程式，存在一定不確定性。"
+    },
+    {
+      "id": "te:markets:573415",
+      "time": "2026-08-06 21:28:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Holds Near Lows Before Payrolls Report — The dollar index edged up to 99.8 on Thursday but remained close to a seven-week low as investors balanced optimism over developments in the Middle East with caution ahead of Friday's closely watched US jobs report. Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, raising hopes that energy flows through the critical waterway could resume. However, a broader US-Iran agreement remains uncertain, with President Donald Trump saying negotiations were ongoing and that he would “see what happens.” Attention has also shifted to the upcoming nonfarm payrolls report, which is expected to provide fresh insight into the strength of the US labor market and the Federal Reserve's policy outlook. A stronger-than-expected employment reading would likely reinforce expectations of further interest rate hikes, while a weaker report could prompt markets to scale back tightening bets and reduce upward pressure on Treasury yields."
+    },
+    {
+      "id": "mkt:019fd742-6e2c-7aab-8fa2-99e3c2cd7820",
+      "time": "2026-08-06 21:28:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Analysts: FOMO Driving S&P 500 Call Buying】Demand for S&P 500 call options has surged, with Tuesday’s call volume topping 4 million contracts — a record — while put volume remained around average. Simplex Trading trader Jason Coogan said the market saw two days of one-way order flow. Analyst Tanvir Sandhu said the options market reflects investor FOMO: traders are prioritizing upside exposure over downside hedging, a shift evident in a marked change in option skew. Strong call buying is keeping implied volatility elevated despite the equity rally."
+    },
+    {
+      "id": "5029056",
+      "time": "2026-08-06 21:27:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "萊茵金屬：歐洲生產 ATACMS 導彈需到 2028 年才能完成。"
+    },
+    {
+      "id": "5029055",
+      "time": "2026-08-06 21:26:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前跌超2%】超威半導體美股盤前跌超2%，現報472.24美元。"
+    },
+    {
+      "id": "5029054",
+      "time": "2026-08-06 21:25:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液渠道價一箱上漲近百元】8月6日，多地五糧液經銷商宣佈第八代五糧液價格上漲。記者注意到，6日上午有西部某省經銷商在朋友圈釋出海報，稱第八代五糧液價格已經上調，“以當天報價為準”。鄭州百榮市場是白酒價格的風向標，6日第八代五糧液最新整箱報價上漲90元——這是酒商之間的調貨價，是業內判斷白酒產品價格的參考之一。（21世紀經濟報道）"
+    },
+    {
+      "id": "5029053",
+      "time": "2026-08-06 21:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 烏克蘭安全域性聯合國防軍其他部隊，襲擊了雅羅斯拉夫爾煉油廠以及刻赤地區的俄聯邦安全域性海岸警衛隊艦艇。"
+    },
     {
       "id": "5029052",
       "time": "2026-08-06 21:23:27",
