@@ -1,7 +1,131 @@
 {
   "date": "2026-08-06",
-  "count": 813,
+  "count": 826,
   "items": [
+    {
+      "id": "mkt:019fd4d4-66df-7aab-8f98-b2994bcddeba",
+      "time": "2026-08-06 10:08:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Nikkei reports Japanese and U.S. companies, and possibly firms from the UAE and other countries, will invest about ¥2 trillion to build Japan's largest AI data center."
+    },
+    {
+      "id": "5027832",
+      "time": "2026-08-06 10:08:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "中國黃金協會：上半年我國黃金產量同比下降14.62%。"
+    },
+    {
+      "id": "mkt:019fd4d4-3ab9-7aab-8f98-a9e5f5185738",
+      "time": "2026-08-06 10:08:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China Gold Association: In 1H 2026 China's gold production fell 14.62% YoY; gold consumption rose 1.23% YoY."
+    },
+    {
+      "id": "5027831",
+      "time": "2026-08-06 10:08:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本與美國企業，可能還有阿聯酋等國企業，將投資約2萬億日元在秋田縣建設日本最大的人工智慧資料中心。"
+    },
+    {
+      "id": "5027830",
+      "time": "2026-08-06 10:07:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力租賃概念異動拉昇 中嘉博創直線漲停】算力租賃概念盤中異動拉昇，中嘉博創直線漲停，利通電子、寧夏建材、甘諮詢、優刻得、中貝通訊漲幅靠前。"
+    },
+    {
+      "id": "5027829",
+      "time": "2026-08-06 10:07:26",
+      "tags": [
+        "資料",
+        "市場",
+        "焦點"
+      ],
+      "text": "中國黃金協會：今年1-6月中國黃金消費量同比增長1.23%，至511.4噸。"
+    },
+    {
+      "id": "5027828",
+      "time": "2026-08-06 10:07:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國機械工業聯合會：上半年機械工業增加值同比增長6.4%，五大行業全線飄紅】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業規模以上企業增加值同比增長6.4%，高於同期全國工業和製造業1個和0.8個百分點。主要涉及的五個國民經濟行業大類增加值均同比增長，通用裝置、專用裝置、汽車、電氣機械和儀器儀表製造業分別增長7.6%、8.2%、7.0%、6.1%和8.8%。"
+    },
+    {
+      "id": "5027827",
+      "time": "2026-08-06 10:06:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【最高法：集中清理生態環境領域司法解釋和規範性檔案】從最高人民法院瞭解到，自生態環境法典頒佈後，最高人民法院堅持依法清理、全面清理、分類清理原則，對生態環境領域現行有效的26件司法解釋、35件司法規範性檔案和45件指導性案例進行集中清理。與生態環境法典規定一致的，予以保留；與生態環境法典的新規定不銜接、不適應的，根據情況予以修改或者廢止。其中，保留15件司法解釋，修改11件司法解釋，廢止司法規範性檔案1件、不再參照適用指導性案例4件。"
+    },
+    {
+      "id": "mkt:019fd4d2-3925-7aab-8f98-a787713dbd1e",
+      "time": "2026-08-06 10:06:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Daly backs July pause, says Fed must remain vigilant and ready to act】San Francisco Fed President Daly said she fully supports last week’s decision to leave rates unchanged. With inflation clearly above the 2% target, she said the Fed needs more data before the September meeting to judge whether recent inflation reflects fading supply shocks or is becoming more persistent. Daly said the Fed should closely monitor incoming information and be prepared to act if necessary. She expressed concern about public inflation expectations and warned that if inflation momentum picks up the Fed may need to take forceful steps to return price pressures to target. Daly is not currently an FOMC voter."
+    },
+    {
+      "id": "te:markets:573194",
+      "time": "2026-08-06 10:05:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Rises from 3-Week Low — European natural gas prices rose toward €54 per MWh on Thursday after falling to a three-week low in the previous session, amid lingering concerns over the outlook for gas supplies. Although risk premiums eased after Iran announced it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, the market remained supported by persistent supply-side concerns. LNG shipments through the key waterway continue to face significant disruptions, delaying summer cargoes from major exporters such as Qatar. These delays have complicated Europe's winter stockpiling efforts, while strong competition from Asian buyers has further tightened LNG availability. Meanwhile, unusually hot weather across central and southern Europe has added to market pressures by increasing electricity demand for air conditioning."
+    },
+    {
+      "id": "5027826",
+      "time": "2026-08-06 10:05:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷化銦概念反覆走強 博傑股份3連板】磷化銦概念反覆走強，博傑股份3連板，此前雲南鍺業、有研新材2連板，歐萊新材、興業科技、宿遷聯盛、海特高新等漲幅靠前。"
+    },
+    {
+      "id": "5027825",
+      "time": "2026-08-06 10:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本秋田縣將建設 AI 資料中心，投資規模達 2 萬億日元。"
+    },
     {
       "id": "5027824",
       "time": "2026-08-06 10:04:13",
@@ -70,6 +194,15 @@
         "焦點"
       ],
       "text": "恒生指數跌超2%，現報25397.250點；恒生科技指數現跌1.854%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608063833582280",
+      "time": "2026-08-06 10:01:47",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事庫克：若通脹居高不下 將支援加息】據報道，美聯儲理事庫克當地時間8月5日表示，如果美國通脹水平仍然“過高”，她願意支援美聯儲上調短期利率目標。庫克表示，就美聯儲雙重使命而言，通脹面臨的風險大於就業市場面臨的風險。她稱，如果美聯儲需要透過加息來應對強勁的價格壓力，她將權衡此舉對整體經濟的影響，並指出：“如果有必要讓通脹回落，我將支援加息。但也可能沒有這個必要。”"
     },
     {
       "id": "5027818",
