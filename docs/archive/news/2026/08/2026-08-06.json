@@ -1,7 +1,92 @@
 {
   "date": "2026-08-06",
-  "count": 2540,
+  "count": 2549,
   "items": [
+    {
+      "id": "mkt:019fd772-20e4-7aab-8fa3-33bf05a59c6a",
+      "time": "2026-08-06 22:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European natural gas prices rose as much as 5.7% to €55.39/MWh."
+    },
+    {
+      "id": "5029158",
+      "time": "2026-08-06 22:20:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格一度上漲5.7%，至55.39歐元/兆瓦時。"
+    },
+    {
+      "id": "mkt:019fd772-1041-7aab-8fa3-2b521b193aa4",
+      "time": "2026-08-06 22:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week ended July 31 due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fd771-f488-7aab-8fa3-21e9e810e3f2",
+      "time": "2026-08-06 22:19:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS reports President Putin has ordered the creation of a diamond-cutting industry cluster in Russia."
+    },
+    {
+      "id": "te:economy:573430",
+      "time": "2026-08-06 22:19:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Wholesale Inventories",
+        "Importance 1"
+      ],
+      "text": "US Wholesale Inventory Growth Revised Down — US wholesale inventories rose 0.2% month-over-month to $944.7 billion in June 2026, below a 0.3% gain in the advance estimate. The latest reading marked the fourth consecutive month of slower inventory growth after a 1.5% increase in March, the strongest since mid-2022. Compared with a year earlier, wholesale inventories were 4.2% higher. Meanwhile, the inventories-to-sales ratio for merchant wholesalers, excluding manufacturers’ sales branches and offices, stood at 1.19 on a seasonally adjusted basis, down from 1.30 in June 2025."
+    },
+    {
+      "id": "5029157",
+      "time": "2026-08-06 22:19:11",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國第一大抵押貸款機構UWM控股公司（UWMC）一度重挫49.45%、創美國IPO以來最大盤中跌幅，該公司此前宣佈暫停派息。"
+    },
+    {
+      "id": "5029156",
+      "time": "2026-08-06 22:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【歐足聯稱因凡蒂諾道歉不改變任何事】歐足聯今天（8月6日）回應媒體問詢時表示，國際足聯主席因凡蒂諾就相關爭議作出的道歉“改變不了任何事”，解除抵制世界盃的條件“尚未滿足”，歐足聯對因凡蒂諾仍缺乏信任，目前其抵制國際足聯賽事的立場沒有改變。（CCTV國際時訊）"
+    },
+    {
+      "id": "5029155",
+      "time": "2026-08-06 22:18:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 普京下令在俄羅斯建設鑽石切割產業叢集。"
+    },
+    {
+      "id": "5029154",
+      "time": "2026-08-06 22:17:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技轉漲 此前一度跌超7%】美光科技轉漲，此前一度跌超7%。希捷科技收復8%的跌幅後漲近2%。其他儲存股也大幅收窄跌幅。"
+    },
     {
       "id": "5029153",
       "time": "2026-08-06 22:16:12",
