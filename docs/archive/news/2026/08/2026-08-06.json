@@ -1,7 +1,43 @@
 {
   "date": "2026-08-06",
-  "count": 778,
+  "count": 782,
   "items": [
+    {
+      "id": "5027803",
+      "time": "2026-08-06 09:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股保險股走弱 友邦保險跌超8%】友邦保險(01299.HK)跌8.30%，中國人壽(02628.HK)跌1.98%，中國平安(02318.HK)跌1.72%。"
+    },
+    {
+      "id": "5027802",
+      "time": "2026-08-06 09:47:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水泥概念震盪反彈，西部建設、西藏天路雙雙漲停】水泥概念震盪反彈，西部建設、西藏天路雙雙漲停，寧夏建材、華新建材、蘇博特、天山股份、天原股份、青松建化等跟漲。"
+    },
+    {
+      "id": "mkt:019fd4c0-c65a-7aab-8f98-5a1e99fcee8f",
+      "time": "2026-08-06 09:47:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share coal mining and processing sector staged an intra-day rally; Haohua Energy hit the daily price limit, while Yankuang Energy, Pingmei, Huaibei Mining, Xinji Energy and Dayou Energy also advanced."
+    },
+    {
+      "id": "5027801",
+      "time": "2026-08-06 09:46:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊短線拉昇，昊華能源漲停】煤炭開採加工板塊短線拉昇，昊華能源漲停，兗礦能源、平煤股份、淮北礦業、新集能源、大有能源等紛紛走高。"
+    },
     {
       "id": "te:economy:573187",
       "time": "2026-08-06 09:45:44",

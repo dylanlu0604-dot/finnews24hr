@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-06 09:46:36",
-  "count": 17368,
+  "updated": "2026-08-06 09:50:25",
+  "count": 17360,
   "items": [
+    {
+      "id": "5027803",
+      "time": "2026-08-06 09:48:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股保險股走弱 友邦保險跌超8%】友邦保險(01299.HK)跌8.30%，中國人壽(02628.HK)跌1.98%，中國平安(02318.HK)跌1.72%。"
+    },
+    {
+      "id": "5027802",
+      "time": "2026-08-06 09:47:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【水泥概念震盪反彈，西部建設、西藏天路雙雙漲停】水泥概念震盪反彈，西部建設、西藏天路雙雙漲停，寧夏建材、華新建材、蘇博特、天山股份、天原股份、青松建化等跟漲。"
+    },
+    {
+      "id": "mkt:019fd4c0-c65a-7aab-8f98-5a1e99fcee8f",
+      "time": "2026-08-06 09:47:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share coal mining and processing sector staged an intra-day rally; Haohua Energy hit the daily price limit, while Yankuang Energy, Pingmei, Huaibei Mining, Xinji Energy and Dayou Energy also advanced."
+    },
+    {
+      "id": "5027801",
+      "time": "2026-08-06 09:46:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊短線拉昇，昊華能源漲停】煤炭開採加工板塊短線拉昇，昊華能源漲停，兗礦能源、平煤股份、淮北礦業、新集能源、大有能源等紛紛走高。"
+    },
     {
       "id": "te:economy:573187",
       "time": "2026-08-06 09:45:44",
@@ -159797,111 +159833,6 @@
         "國際"
       ],
       "text": "日本財務大臣片山：熊本地震發生後，目前來看無需動用超出本財年預算儲備的應對措施。"
-    },
-    {
-      "id": "5015651",
-      "time": "2026-07-30 09:50:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：與主要NAND客戶簽訂了長期協議。"
-    },
-    {
-      "id": "5015650",
-      "time": "2026-07-30 09:49:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價延續漲勢；最新上漲7.2%，報223,500韓元。"
-    },
-    {
-      "id": "te:economy:570956",
-      "time": "2026-07-30 09:49:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private House Approvals",
-        "Importance 1"
-      ],
-      "text": "Australia Private House Approval Growth Eases — Private house approvals in Australia rose 0.4% month-on-month to 10,631 units in June 2026, according to preliminary estimates, easing from a downwardly revised 2.4% increase in the previous month. This marked the second consecutive monthly gain, driven by higher approvals in Queensland (2.9%), South Australia (2.8%), and Victoria (2.2%), which more than offset declines in Western Australia (-5.4%) and New South Wales (-0.3%). On an annual basis, private house approvals climbed 15.8%, accelerating from a 13.3% increase in the previous month and marking the strongest annual growth since September 2024."
-    },
-    {
-      "id": "5015649",
-      "time": "2026-07-30 09:49:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG新能源：正與潛在客戶洽談，為超大規模資料中心供應備用電池單元。"
-    },
-    {
-      "id": "5015648",
-      "time": "2026-07-30 09:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地時間7月29日，美軍中央司令部表示，美軍繼續執行對伊朗的海上封鎖行動。截至當天，美軍已改變20艘商船的航行路線，並使2艘船隻失去行動能力；此外，美軍還對2艘船隻進行登船檢查。（ CCTV國際時訊）"
-    },
-    {
-      "id": "5015647",
-      "time": "2026-07-30 09:49:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7379.40點。"
-    },
-    {
-      "id": "5015646",
-      "time": "2026-07-30 09:48:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達3％，成分股中，華虹宏力跌8.6％，翱捷科技跌8.3％，源傑科技跌8.1％，寒武紀跌6.1％。"
-    },
-    {
-      "id": "5015645",
-      "time": "2026-07-30 09:47:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新款華為MatePad Pro將於8月5日釋出】7月30日，華為終端宣佈新款華為MatePad Pro將於8月5日釋出，該機整機重量439g，厚度4.7mm。"
-    },
-    {
-      "id": "5015644",
-      "time": "2026-07-30 09:47:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量189億元。"
-    },
-    {
-      "id": "5015643",
-      "time": "2026-07-30 09:47:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子：下半年手機業務成本壓力將持續。"
-    },
-    {
-      "id": "5015642",
-      "time": "2026-07-30 09:47:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【端側AI概念震盪調整 瑞芯微逼近跌停】早盤端側AI概念震盪調整，瑞芯微逼近跌停，星宸科技、聖邦股份、樂鑫科技、翱捷科技、移遠通訊、博通整合等多股跌超5%。"
-    },
-    {
-      "id": "5015641",
-      "time": "2026-07-30 09:47:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功發射通訊技術試驗衛星二十七號A/B星】7月30日9時00分，我國在太原衛星發射中心使用長征六號改運載火箭，成功將通訊技術試驗衛星二十七號A/B星發射升空，衛星順利進入預定軌道，發射任務取得圓滿成功。 通訊技術試驗衛星二十七號A/B星主要用於衛星通訊、廣播電視、資料傳輸等業務，並開展相關技術試驗驗證。 這次任務是長征系列運載火箭的第660次飛行。(新華社)"
     }
   ]
 }
