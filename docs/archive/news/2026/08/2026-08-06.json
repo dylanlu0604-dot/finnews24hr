@@ -1,7 +1,82 @@
 {
   "date": "2026-08-06",
-  "count": 2203,
+  "count": 2212,
   "items": [
+    {
+      "id": "mkt:019fd6fb-58d5-7aab-8fa1-41a2d4d6c417",
+      "time": "2026-08-06 20:10:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【Zhang Yidong: Bottom Largely Confirmed; China’s Core Equity Assets Enter Left‑Side Accumulation Window】Haitong International executive committee member and chief economist Zhang Yidong said in a new report that, after risk release from the Middle East conflict, elevated US Treasury yields and South Korea’s second‑round regulatory deleveraging, markets could begin to turn as early as early August. He judges China’s core equity assets have entered a left‑side accumulation window and may launch an autumn rally starting in August, with Hong Kong stocks possibly stabilizing ahead of offshore peers. A‑shares and Hong Kong stocks, which began adjusting in mid‑May, have already priced in some risks and have largely confirmed a bottom, now trading in low‑volume consolidation and base‑building mode."
+    },
+    {
+      "id": "5028905",
+      "time": "2026-08-06 20:10:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬執行長：長期來看，我們希望透過本國及國際專案彌補F126專案帶來的損失。"
+    },
+    {
+      "id": "5028904",
+      "time": "2026-08-06 20:10:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬執行長表示：與達門造船廠的糾紛導致F126護衛艦專案被取消。"
+    },
+    {
+      "id": "5028903",
+      "time": "2026-08-06 20:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Raymond James將閃迪目標價從1470美元上調至2000美元。"
+    },
+    {
+      "id": "5028901",
+      "time": "2026-08-06 20:09:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案，Alphabet提交申請，擬發售最高總額達400億美元的A類普通股與C類股本。"
+    },
+    {
+      "id": "5028900",
+      "time": "2026-08-06 20:07:59",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨漲跌不一，道指期貨漲0.16%，標普500指數期貨漲0.09%，納指期貨跌0.63%。\n②德國DAX指數漲0.17%，英國富時100指數漲0.08%，法國CAC40指數漲0.55%，歐洲斯托克50指數漲0.54%。\n③WTI原油漲0.77%，報75.80美元/桶。布倫特原油漲1.02%，報80.26美元/桶。\n④美聯儲主席凱文·沃什決定繼續推行其精簡的政策溝通方式，儘管他在上月議息會議後因未能充分闡述利率策略細節而引發美國國債市場大幅拋售。\n⑤美國銀行執行長布在接受採訪時稱，近期聚焦人工智慧領域的對沖基金“態勢感知”（Situational Awareness）因槓桿投資失利瀕臨崩潰，此事件已對當前由高估值和信貸資金驅動的金融市場敲響了警鐘。\n⑥舊金山聯邦儲備銀行行長瑪麗·戴利表示，她支援美聯儲上週維持利率不變的決定，但警告稱，高通脹可能是一個更廣泛的問題，需要政策制定者採取更積極的行動。\n⑦閃迪盤前跌超11%，公司給出下一財季的營收指引區間為103億至108億美元，不及市場預期。\n⑧Datadog股價盤前下跌21.6%，此前該公司公佈第二季度業績。\n⑨軟體類股票盤前下跌，因AppLovin營收不及預期，甲骨文下跌3.6%，Salesforce下滑4.6%，ServiceNow走低2.7%，Adobe下跌2.6%，Intuit跌2%。"
+    },
+    {
+      "id": "5028899",
+      "time": "2026-08-06 20:07:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "雅寶公司執行長肯特·馬斯特斯表示：由於供應疲軟無法匹配不斷增長的電動汽車和電池儲能需求，全球鋰礦庫存目前處於低位。"
+    },
+    {
+      "id": "5028898",
+      "time": "2026-08-06 20:07:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅寶執行長表示，實物鋰市場依然供應緊張。"
+    },
     {
       "id": "5028897",
       "time": "2026-08-06 20:06:39",
@@ -180,6 +255,14 @@
         "公司"
       ],
       "text": "福克斯集團第四季度調整後息稅折舊攤銷前利潤 12 億美元，市場預期 10.3 億美元。"
+    },
+    {
+      "id": "5028879",
+      "time": "2026-08-06 20:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【專家：伊朗否認與美直接談判霍爾木茲海峽問題 意在彰顯堅定立場】中國國際問題研究院助理研究員李子昕：伊朗在當前霍爾木茲海峽通行規則的談判問題上立場很清楚。就霍爾木茲海峽通行來說，伊朗認為只有霍爾木茲海峽的主權國有權探討霍爾木茲海峽通行規則，因此相關談判只能發生在伊朗與阿曼之間。伊朗要求對霍爾木茲海峽的主權管轄行使排他性的權利，拒絕任何域外國家的參與。就這一談判形式本身來說，伊朗是要對外彰顯自身的堅定立場，以及對內對外都要強調，並非迫於美方壓力作出妥協。所以伊朗否認與美國進行談判，更不會就霍爾木茲海峽的通行問題與美國進行直接談判。（央視）"
     },
     {
       "id": "5028878",

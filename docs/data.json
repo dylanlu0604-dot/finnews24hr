@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-06 20:07:22",
-  "count": 16905,
+  "updated": "2026-08-06 20:11:21",
+  "count": 16891,
   "items": [
+    {
+      "id": "5028905",
+      "time": "2026-08-06 20:10:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬執行長：長期來看，我們希望透過本國及國際專案彌補F126專案帶來的損失。"
+    },
+    {
+      "id": "mkt:019fd6fb-58d5-7aab-8fa1-41a2d4d6c417",
+      "time": "2026-08-06 20:10:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【Zhang Yidong: Bottom Largely Confirmed; China’s Core Equity Assets Enter Left‑Side Accumulation Window】Haitong International executive committee member and chief economist Zhang Yidong said in a new report that, after risk release from the Middle East conflict, elevated US Treasury yields and South Korea’s second‑round regulatory deleveraging, markets could begin to turn as early as early August. He judges China’s core equity assets have entered a left‑side accumulation window and may launch an autumn rally starting in August, with Hong Kong stocks possibly stabilizing ahead of offshore peers. A‑shares and Hong Kong stocks, which began adjusting in mid‑May, have already priced in some risks and have largely confirmed a bottom, now trading in low‑volume consolidation and base‑building mode."
+    },
+    {
+      "id": "5028904",
+      "time": "2026-08-06 20:10:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬執行長表示：與達門造船廠的糾紛導致F126護衛艦專案被取消。"
+    },
+    {
+      "id": "5028903",
+      "time": "2026-08-06 20:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Raymond James將閃迪目標價從1470美元上調至2000美元。"
+    },
+    {
+      "id": "5028901",
+      "time": "2026-08-06 20:09:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案，Alphabet提交申請，擬發售最高總額達400億美元的A類普通股與C類股本。"
+    },
+    {
+      "id": "5028900",
+      "time": "2026-08-06 20:07:59",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨漲跌不一，道指期貨漲0.16%，標普500指數期貨漲0.09%，納指期貨跌0.63%。\n②德國DAX指數漲0.17%，英國富時100指數漲0.08%，法國CAC40指數漲0.55%，歐洲斯托克50指數漲0.54%。\n③WTI原油漲0.77%，報75.80美元/桶。布倫特原油漲1.02%，報80.26美元/桶。\n④美聯儲主席凱文·沃什決定繼續推行其精簡的政策溝通方式，儘管他在上月議息會議後因未能充分闡述利率策略細節而引發美國國債市場大幅拋售。\n⑤美國銀行執行長布在接受採訪時稱，近期聚焦人工智慧領域的對沖基金“態勢感知”（Situational Awareness）因槓桿投資失利瀕臨崩潰，此事件已對當前由高估值和信貸資金驅動的金融市場敲響了警鐘。\n⑥舊金山聯邦儲備銀行行長瑪麗·戴利表示，她支援美聯儲上週維持利率不變的決定，但警告稱，高通脹可能是一個更廣泛的問題，需要政策制定者採取更積極的行動。\n⑦閃迪盤前跌超11%，公司給出下一財季的營收指引區間為103億至108億美元，不及市場預期。\n⑧Datadog股價盤前下跌21.6%，此前該公司公佈第二季度業績。\n⑨軟體類股票盤前下跌，因AppLovin營收不及預期，甲骨文下跌3.6%，Salesforce下滑4.6%，ServiceNow走低2.7%，Adobe下跌2.6%，Intuit跌2%。"
+    },
+    {
+      "id": "5028899",
+      "time": "2026-08-06 20:07:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "雅寶公司執行長肯特·馬斯特斯表示：由於供應疲軟無法匹配不斷增長的電動汽車和電池儲能需求，全球鋰礦庫存目前處於低位。"
+    },
+    {
+      "id": "5028898",
+      "time": "2026-08-06 20:07:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅寶執行長表示，實物鋰市場依然供應緊張。"
+    },
     {
       "id": "5028897",
       "time": "2026-08-06 20:06:39",
@@ -180,6 +255,14 @@
         "公司"
       ],
       "text": "福克斯集團第四季度調整後息稅折舊攤銷前利潤 12 億美元，市場預期 10.3 億美元。"
+    },
+    {
+      "id": "5028879",
+      "time": "2026-08-06 20:00:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【專家：伊朗否認與美直接談判霍爾木茲海峽問題 意在彰顯堅定立場】中國國際問題研究院助理研究員李子昕：伊朗在當前霍爾木茲海峽通行規則的談判問題上立場很清楚。就霍爾木茲海峽通行來說，伊朗認為只有霍爾木茲海峽的主權國有權探討霍爾木茲海峽通行規則，因此相關談判只能發生在伊朗與阿曼之間。伊朗要求對霍爾木茲海峽的主權管轄行使排他性的權利，拒絕任何域外國家的參與。就這一談判形式本身來說，伊朗是要對外彰顯自身的堅定立場，以及對內對外都要強調，並非迫於美方壓力作出妥協。所以伊朗否認與美國進行談判，更不會就霍爾木茲海峽的通行問題與美國進行直接談判。（央視）"
     },
     {
       "id": "5028878",
@@ -154962,229 +155045,6 @@
         "公司"
       ],
       "text": "【*ST建藝：新增累計訴訟、仲裁事項涉及金額約4401.13萬元】*ST建藝公告稱，截至公告披露日，除已披露事項外，公司及控股子公司新增累計訴訟、仲裁事項涉及金額約4401.13萬元，約佔最近一期經審計淨資產絕對值的21.38%。其中，涉案800萬元以上的3起糾紛均為姚德倉與建藝集團的建設工程分包合同糾紛，均仲裁待開庭；其他8起小額訴訟合計涉案約209.92萬元。相關案件對公司利潤影響不確定，公司將積極應對並及時披露資訊。"
-    },
-    {
-      "id": "5017000",
-      "time": "2026-07-30 20:11:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "萬事達卡第二季度利潤超出預期，盤前股價上漲1.5%。"
-    },
-    {
-      "id": "5016999",
-      "time": "2026-07-30 20:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部量子資訊標準化技術委員會成立】7月30日，工業和資訊化部量子資訊標準化技術委員會成立大會在北京召開。第一屆量子資訊標委會由62名委員組成。 成立量子資訊標委會，是充分發揮標準的基礎性、戰略性、引領性作用，引導和推動量子產業高質量發展，加強量子領域國際合作的重要舉措。量子資訊標委會主要負責量子資訊基礎共性技術、量子計算、量子通訊、量子精密測量等領域行業標準制修訂工作，秘書處設在中國資訊通訊研究院。 成立大會後，量子資訊標委會第一次全體委員會議召開，審議透過了標委會章程、秘書處工作細則、工作組管理辦法、標準體系、標準制修訂工作程式等檔案，研究部署了下一階段重點工作。(新華社)"
-    },
-    {
-      "id": "5016998",
-      "time": "2026-07-30 20:10:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡預計 2026 年淨收入增速為較低十幾百分比區間。"
-    },
-    {
-      "id": "5016997",
-      "time": "2026-07-30 20:10:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "各家銀行透過英國央行短期回購操作借入 1239 億英鎊  。"
-    },
-    {
-      "id": "mkt:019fb2ee-803d-7aab-8f11-3395124cb4b0",
-      "time": "2026-07-30 20:10:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England Governor BAILEY said the overall assessment of second-round effects remains preliminary."
-    },
-    {
-      "id": "5016996",
-      "time": "2026-07-30 20:10:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：對於第二輪通脹效應的整體判斷仍具有不確定性。"
-    },
-    {
-      "id": "mkt:019fb2ee-6b28-7aab-8f11-2de18119dc01",
-      "time": "2026-07-30 20:09:57",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said that, although there is little evidence so far, this does not rule out the risk of second‑round inflationary effects emerging later."
-    },
-    {
-      "id": "te:markets:571247",
-      "time": "2026-07-30 20:09:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Rises on Strong Eurozone Data and ECB Rate Hike Bets — The euro strengthened to $1.148, its strongest level since June 17, as stronger-than-expected eurozone economic data reinforced expectations that the European Central Bank could deliver a second interest rate hike this year, potentially as soon as September, offsetting concerns over rising Middle East tensions and a divided Federal Reserve. The eurozone economy expanded by 0.4% in the second quarter, beating forecasts of 0.2% and marking its strongest growth since early 2025. Spain led with a 0.7% expansion, while Germany, France, and Italy each grew 0.2%. Firmer inflation readings in Germany and Spain also supported expectations of further ECB tightening. Meanwhile, renewed US airstrikes on Iran lifted oil prices and weighed on risk sentiment. The Federal Reserve added to policy uncertainty on Wednesday by keeping interest rates unchanged, despite three FOMC members dissenting in favor of a rate hike."
-    },
-    {
-      "id": "5016995",
-      "time": "2026-07-30 20:09:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：目前尚無證據不排除未來會出現第二輪效應。"
-    },
-    {
-      "id": "5016994",
-      "time": "2026-07-30 20:09:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST啟環：股東廣州麒正提前結束減持計劃，累計減持1.00%股份】*ST啟環公告，公司股東廣州麒正企業管理合夥企業（有限合夥）此前計劃在2026年5月11日至2026年8月10日期間減持不超過4276.06萬股（佔總股本3.00%）。廣州麒正已於2026年5月11日至2026年7月29日期間以集中競價交易方式累計減持公司股份1425.35萬股，佔總股本1.00%。基於綜合考慮，廣州麒正決定提前結束本次減持計劃。"
-    },
-    {
-      "id": "mkt:019fb2ed-d85a-7aab-8f11-24945df5bb8d",
-      "time": "2026-07-30 20:09:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said slack in the labour market may reduce workers' ability to raise wages."
-    },
-    {
-      "id": "mkt:019fb2ed-a154-7aab-8f11-1fe7716edcae",
-      "time": "2026-07-30 20:09:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said weak demand is limiting the pass-through of higher costs to prices."
-    },
-    {
-      "id": "5016993",
-      "time": "2026-07-30 20:09:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【博通美股盤前漲超2%】博通美股盤前漲超2%，現報377.78美元。"
-    },
-    {
-      "id": "5016992",
-      "time": "2026-07-30 20:08:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華峰測控：“華峰轉債”轉股價格調整為335.86元/股】華峰測控公告稱，公司完成2021年限制性股票激勵計劃部分股份登記工作，總股本由200,575,083股變更為200,751,197股。根據相關規定，“華峰轉債”轉股價格由336.12元/股調整為335.86元/股，調整起始日期為2026年7月31日。“華峰轉債”轉股期為2026年12月29日至2032年6月22日，目前未進入轉股期，本次調整不涉及暫停轉股，正常交易不停牌。"
-    },
-    {
-      "id": "mkt:019fb2ed-5a28-7aab-8f11-14aabbddd99c",
-      "time": "2026-07-30 20:08:47",
-      "tags": [
-        "MKT News",
-        "GBPUSD"
-      ],
-      "text": "Bank of England Governor Bailey said household inflation expectations have fallen but remain elevated."
-    },
-    {
-      "id": "mkt:019fb2ed-415c-7aab-8f11-0b8e0b7d4677",
-      "time": "2026-07-30 20:08:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Germany July core inflation slows】Germany's July 2026 headline inflation is forecast at 2.8% YoY, with core inflation excluding food and energy seen at 2.4% YoY. Energy prices are projected to rise 8.3% YoY, with the pace accelerating sharply from the prior month. Analyst Giuseppe Dellamotta said core disinflation is positive for the ECB; if euro-area CPI follows a similar path, the likelihood of a September ECB rate hike could fall. Markets will watch developments in the Middle East — any de‑escalation would materially reduce the urgency for further ECB tightening."
-    },
-    {
-      "id": "5016991",
-      "time": "2026-07-30 20:08:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：就業市場閒置產能大機率會削弱工人獲得加薪的能力。"
-    },
-    {
-      "id": "mkt:019fb2ed-2ad2-7aab-8f11-06694cff8805",
-      "time": "2026-07-30 20:08:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of England Governor Bailey said UK domestic inflation has broadly slowed."
-    },
-    {
-      "id": "5016990",
-      "time": "2026-07-30 20:08:20",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "英國央行行長貝利：需求疲軟正在限制成本上漲向價格的傳導。"
-    },
-    {
-      "id": "5016989",
-      "time": "2026-07-30 20:08:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：國內通脹正出現更廣泛的降溫態勢。"
-    },
-    {
-      "id": "mkt:019fb2ec-9663-7aab-8f10-fa3c9500a443",
-      "time": "2026-07-30 20:07:57",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of England Governor Bailey said the pace at which pressures are building is slower than expected in April."
-    },
-    {
-      "id": "5016988",
-      "time": "2026-07-30 20:07:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST東時：控股子公司涉2345.36萬元合同糾紛訴訟】ST東時公告稱，公司控股子公司山東東方時尚因與北京華藍盾科技有限公司存在合同糾紛，被對方起訴至北京市海淀區人民法院，涉案金額2345.36萬元。案件已立案，尚未開庭審理。截至公告披露日，公司及控股子公司連續十二個月內累計新增訴訟10件，涉及本金3700.66萬元，佔最近一期經審計淨資產的48.31%。此外，公司預重整存不確定性，股票存在被實施退市風險警示的風險。"
-    },
-    {
-      "id": "5016986",
-      "time": "2026-07-30 20:07:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "萬事達卡預計第三季度運營支出增速為高位個位數。"
     }
   ]
 }
