@@ -1,7 +1,98 @@
 {
   "date": "2026-08-06",
-  "count": 2559,
+  "count": 2569,
   "items": [
+    {
+      "id": "te:economy:573431",
+      "time": "2026-08-06 22:32:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise More Than Expected — US energy firms added 33 billion cubic feet of natural gas into storage in the week ending July 31, above market expectations of 31 bcf. It compares with an injection of 13 bcf during the same week a year ago and an average increase for that week of 23 bcf over the past five years (2021-2025). Stockpiles increased to 3.117 trillion cubic feet, 0.4% below the same week a year ago and about 6.7% above the five-year average for the week. In the prior week ended July 24, energy firms added 28 bcf of gas into storage."
+    },
+    {
+      "id": "mkt:019fd77c-e96e-7aab-8fa3-645006118cd2",
+      "time": "2026-08-06 22:31:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. natural gas futures extended losses, down about 2%, after EIA data showed inventories rose in line with expectations."
+    },
+    {
+      "id": "5029171",
+      "time": "2026-08-06 22:31:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署公佈天然氣庫存增幅符合預期後，美國天然氣期貨延續跌勢，下跌2.1%。"
+    },
+    {
+      "id": "mkt:019fd77b-997e-7aab-8fa3-5aadc7f3d64f",
+      "time": "2026-08-06 22:30:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EIA weekly gas storage (week ended July 31): U.S. working gas in storage 3,117 Bcf, +33 Bcf week/week; -12 Bcf YoY (-0.4%); +195 Bcf vs five‑year average (+6.7%)."
+    },
+    {
+      "id": "mkt:019fd77b-4c9e-7aab-8fa3-5100888c24e8",
+      "time": "2026-08-06 22:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas stocks rose 330 Bcf in the week to July 31, versus 300 Bcf expected and 280 Bcf in the prior week."
+    },
+    {
+      "id": "5029170",
+      "time": "2026-08-06 22:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月31日當週EIA天然氣庫存 330億立方英尺，預期300億立方英尺，前值280億立方英尺。"
+    },
+    {
+      "id": "mkt:019fd77b-2c32-7aab-8fa3-49a710261297",
+      "time": "2026-08-06 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.31) | actual 33000000000B | consensus 30000000000B | previous 28000000000B"
+    },
+    {
+      "id": "5029169",
+      "time": "2026-08-06 22:29:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：已獲悉朝鮮發射導彈，目前正與盟國進行磋商。"
+    },
+    {
+      "id": "mkt:019fd77a-f985-7aab-8fa3-40a90f106a1a",
+      "time": "2026-08-06 22:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index slips, ends five-day rally】The Baltic Dry Index fell, ending a five-day rally as declines in Capesize and Supramax freight rates outweighed Panamax gains. The BDI slipped 6 points, or 0.2%, to 3,057, near levels last seen on June 4. The Capesize index dropped 42 points, or 0.8%, to 5,052 — its first decline since July 29 — with Capesize daily earnings down $385 to $42,313. The Panamax index rose 39 points, or 1.7%, to 2,275, its highest since June 15, lifting Panamax daily earnings $345 to $20,473. The Supramax index fell 4 points, or 0.3%, to 1,608."
+    },
+    {
+      "id": "5029168",
+      "time": "2026-08-06 22:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨方將持續研究哪裡可以使用（石油開採行業的）壓裂技術。"
+    },
     {
       "id": "5029167",
       "time": "2026-08-06 22:26:37",

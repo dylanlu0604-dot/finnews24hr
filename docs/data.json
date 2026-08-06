@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-06 22:29:01",
-  "count": 16708,
+  "updated": "2026-08-06 22:33:02",
+  "count": 16705,
   "items": [
+    {
+      "id": "te:economy:573431",
+      "time": "2026-08-06 22:32:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Natural Gas Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Natural Gas Stocks Rise More Than Expected — US energy firms added 33 billion cubic feet of natural gas into storage in the week ending July 31, above market expectations of 31 bcf. It compares with an injection of 13 bcf during the same week a year ago and an average increase for that week of 23 bcf over the past five years (2021-2025). Stockpiles increased to 3.117 trillion cubic feet, 0.4% below the same week a year ago and about 6.7% above the five-year average for the week. In the prior week ended July 24, energy firms added 28 bcf of gas into storage."
+    },
+    {
+      "id": "mkt:019fd77c-e96e-7aab-8fa3-645006118cd2",
+      "time": "2026-08-06 22:31:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. natural gas futures extended losses, down about 2%, after EIA data showed inventories rose in line with expectations."
+    },
+    {
+      "id": "5029171",
+      "time": "2026-08-06 22:31:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署公佈天然氣庫存增幅符合預期後，美國天然氣期貨延續跌勢，下跌2.1%。"
+    },
+    {
+      "id": "mkt:019fd77b-997e-7aab-8fa3-5aadc7f3d64f",
+      "time": "2026-08-06 22:30:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EIA weekly gas storage (week ended July 31): U.S. working gas in storage 3,117 Bcf, +33 Bcf week/week; -12 Bcf YoY (-0.4%); +195 Bcf vs five‑year average (+6.7%)."
+    },
+    {
+      "id": "mkt:019fd77b-4c9e-7aab-8fa3-5100888c24e8",
+      "time": "2026-08-06 22:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas stocks rose 330 Bcf in the week to July 31, versus 300 Bcf expected and 280 Bcf in the prior week."
+    },
+    {
+      "id": "5029170",
+      "time": "2026-08-06 22:30:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月31日當週EIA天然氣庫存 330億立方英尺，預期300億立方英尺，前值280億立方英尺。"
+    },
+    {
+      "id": "mkt:019fd77b-2c32-7aab-8fa3-49a710261297",
+      "time": "2026-08-06 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.31) | actual 33000000000B | consensus 30000000000B | previous 28000000000B"
+    },
+    {
+      "id": "5029169",
+      "time": "2026-08-06 22:29:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：已獲悉朝鮮發射導彈，目前正與盟國進行磋商。"
+    },
+    {
+      "id": "mkt:019fd77a-f985-7aab-8fa3-40a90f106a1a",
+      "time": "2026-08-06 22:29:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index slips, ends five-day rally】The Baltic Dry Index fell, ending a five-day rally as declines in Capesize and Supramax freight rates outweighed Panamax gains. The BDI slipped 6 points, or 0.2%, to 3,057, near levels last seen on June 4. The Capesize index dropped 42 points, or 0.8%, to 5,052 — its first decline since July 29 — with Capesize daily earnings down $385 to $42,313. The Panamax index rose 39 points, or 1.7%, to 2,275, its highest since June 15, lifting Panamax daily earnings $345 to $20,473. The Supramax index fell 4 points, or 0.3%, to 1,608."
+    },
+    {
+      "id": "5029168",
+      "time": "2026-08-06 22:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨方將持續研究哪裡可以使用（石油開採行業的）壓裂技術。"
+    },
     {
       "id": "5029167",
       "time": "2026-08-06 22:26:37",
@@ -152957,127 +153048,6 @@
         "其他"
       ],
       "text": "【中國人民解放軍南部戰區位中國黃巖島領海領空及周邊區域組織戰備警巡】7月30日，中國人民解放軍南部戰區組織海空兵力位中國黃巖島領海領空及周邊海空域開展戰備警巡。黃巖島是中國固有領土。7月份以來，戰區部隊持續加強黃巖島領海周邊海空域巡邏警戒，有力有效應對各類侵權挑釁行徑，堅決捍衛國家主權安全，堅定維護南海地區和平穩定。(新華社)"
-    },
-    {
-      "id": "mkt:019fb371-6090-7aab-8f16-ab66798e2f3a",
-      "time": "2026-07-30 22:32:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "USDJPY"
-      ],
-      "text": "The PLA Southern Theater Command conducted combat-readiness alert patrols in the territorial waters, airspace and adjacent areas around China's Huangyan Island (Scarborough Shoal)."
-    },
-    {
-      "id": "mkt:019fb371-30c5-7aab-8f16-a769d51927f2",
-      "time": "2026-07-30 22:32:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures turned higher, up 1%, after the EIA reported a weekly storage build smaller than expected."
-    },
-    {
-      "id": "5017334",
-      "time": "2026-07-30 22:32:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國海警位中國黃巖島領海及周邊區域執法巡查】7月30日，中國海警位中國黃巖島領海及周邊區域開展執法巡查。7月份以來，中國海警持續加強黃巖島領海及周邊區域執法巡查，依法依規採取喊話警告、攔阻管制、水炮噴射等必要措施驅離非法侵權滋擾船隻，進一步強化有關海域管控，堅決維護國家領土主權和海洋權益。（中國海警）"
-    },
-    {
-      "id": "5017333",
-      "time": "2026-07-30 22:32:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）公佈天然氣庫存增幅低於預期後，美國天然氣期貨轉漲，漲幅達1%。"
-    },
-    {
-      "id": "5017332",
-      "time": "2026-07-30 22:31:41",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【盧拉證實巴西拒籤兩名美國官員：他們被派來干涉大選】據路透社報道，巴西總統盧拉當地時間29日證實，巴西政府已拒絕兩名美國官員的赴巴簽證申請，理由是巴方認為美官員此行意在干涉巴西的總統選舉。 盧拉當天晚些時候在一場活動上表示，“我們不得不拒絕向他們派往巴西、企圖干涉巴西選舉的兩名年輕人發放簽證。”此前，巴西外交部25日確認，拒絕向美國國務院負責民主、人權和勞工事務的助理國務卿萊利·巴恩斯以及助理國務卿幫辦塞繆爾·薩姆森發放簽證，但其並未提及原因。（環球網）"
-    },
-    {
-      "id": "5017331",
-      "time": "2026-07-30 22:30:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌首席財務官表示，天然氣交易團隊從第三方採購了接近紀錄水平的液化天然氣，以彌補卡達供應缺口導致的損失量。"
-    },
-    {
-      "id": "5017330",
-      "time": "2026-07-30 22:30:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至7月24日當週EIA天然氣庫存 280億立方英尺，預期350億立方英尺，前值320億立方英尺。截至7月24日當週，美國天然氣庫存總量為30840億立方英尺，較此前一週增加280億立方英尺，較去年同期減少320億立方英尺，同比降幅1.0%，同時較5年均值高1850億立方英尺，增幅6.4%。"
-    },
-    {
-      "id": "mkt:019fb36e-ef3c-7aab-8f16-9f53f289781a",
-      "time": "2026-07-30 22:30:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA weekly gas report (week ended July 24): U.S. natural gas working storage 3,084 Bcf, +28 Bcf week-on-week, -32 Bcf YoY (-1.0%), +185 Bcf vs 5-year average (+6.4%)."
-    },
-    {
-      "id": "5017329",
-      "time": "2026-07-30 22:30:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【粵開證券羅志恆：預計下半年財政資金撥付、專案實施和實物工作量形成將明顯加快】7月30日召開的中央政治局會議指出，宏觀政策要發力提效，加快財政支出和債券資金使用進度，有力推進“兩重”建設和“兩新”工作。粵開證券首席經濟學家羅志恆對上海證券報記者表示，政策層面從“用好用足宏觀政策”轉向“充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策”，並明確提出“加大逆週期調節力度”，釋放出下半年穩增長政策將進一步發力提效的訊號。"
-    },
-    {
-      "id": "mkt:019fb36e-d0cf-7aab-8f16-904ed3eadd9e",
-      "time": "2026-07-30 22:30:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. EIA weekly natural gas storage injection for week to July 24: +28 bcf vs. market expected +35 bcf; prior +32 bcf."
-    },
-    {
-      "id": "mkt:019fb36e-a821-7aab-8f16-8fe34364ea4e",
-      "time": "2026-07-30 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.24) | actual 28000000000B | consensus 35000000000B | previous 32000000000B"
-    },
-    {
-      "id": "5017328",
-      "time": "2026-07-30 22:29:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利富時MIB指數站上52000點，日內漲超1%。"
-    },
-    {
-      "id": "5017327",
-      "time": "2026-07-30 22:29:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內涵小鵬？上汽名爵總經理稱上市1小時46000張訂單難以置信，可能有3萬個客戶得哭暈在廁所】上汽MG 07近日開啟預售，上汽MG（名爵）事業部總經理陳萃在與媒體對話時談及了汽車行業的訂單數字一事。他表示，不會公佈MG 07具體的訂單數，現在汽車行業實在是太捲了，（有車企）上完市以後一個小時說有46000張訂單，“我非常的難以置信。如果46000張，我覺得可能有3萬個客戶得哭暈在廁所裡。”陳萃該表態被認為是在內涵小鵬。此前，小鵬宣佈小鵬MONA L03一小時大定46859臺。值得注意的是，此前MG 07也曾陷入了抄襲風波，陳萃在直播中一度被網友罵到下播。他後來還專門釋出了一首《WO CHAO》的歌曲回應此事，稱抄襲的是自家品牌的家族設計。（新浪科技）"
     }
   ]
 }
