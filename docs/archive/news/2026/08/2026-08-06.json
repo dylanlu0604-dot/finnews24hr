@@ -1,7 +1,39 @@
 {
   "date": "2026-08-06",
-  "count": 1072,
+  "count": 1076,
   "items": [
+    {
+      "id": "mkt:019fd567-4c4d-7aab-8f9a-651c79577a18",
+      "time": "2026-08-06 12:49:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wall Street hedge funds targeted in audio-phishing attacks; Point72 and Citadel hit】The Financial Times reported several large Wall Street hedge funds were recently targeted in a string of cyberattacks. Sources said Steve Cohen’s Point72 and Ken Griffin’s Citadel were subjected to audio-phishing attacks in which callers impersonated customer-service staff and attempted to obtain employees’ authentication-app login credentials."
+    },
+    {
+      "id": "5028016",
+      "time": "2026-08-06 12:48:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青海高院：去年全省審結一審案件中行政機關敗訴率18.95%】8月3日，青海省高階人民法院釋出行政審判白皮書。通報稱，2025年全省法院共受理各類行政及行政賠償案件2311件，行政機關敗訴率同比略有上升。全省法院審結一審案件中行政機關敗訴率18.95%，同比上升0.50%，表明依法行政能力仍有較大提升空間。（澎湃）"
+    },
+    {
+      "id": "5028015",
+      "time": "2026-08-06 12:48:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統下令全力應對熱浪】韓國熱浪預計於週四在首爾達到頂峰，預報顯示這座首都城市氣溫將升至 39 攝氏度（102 華氏度）。這一輪極端天氣已造成二十餘人死亡。“前所未有的極端高溫連日肆虐。以往只出現在外國新聞報道中的熱浪，如今已成為我們的現實，” 李在明總統週四在一場熱浪應對工作會議上表示。李在明要求各部委及地方政府調動全部人力物力，直至熱浪有所緩解，重點強調保障民眾生命安全、加大對弱勢群體的保護力度，同時嚴格落實高溫時段戶外勞動者的休息制度。預報氣溫將使首爾逼近其 2018 年 8 月創下的 39.6 攝氏度歷史最高紀錄，那是韓國上一次遭遇歷史性熱浪。韓國氣象廳表示，部分割槽域夜間氣溫幾乎沒有降至 30 攝氏度以下；媒體畫面顯示，大批民眾湧向溪流、百貨商場以及其他有空調的場所避暑。"
+    },
+    {
+      "id": "5028014",
+      "time": "2026-08-06 12:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華創證券：PTA與MEG供需格局最佳化推動加工費修復】華創證券釋出研報稱，PTA供需長期錯配，但2026年無任何新增產能計劃，加工費修復的供給側條件已經具備。MEG方面，供需格局由寬鬆轉向再平衡，盈利修復需要更多時間。PTA供需格局有望從結構性平衡加速向緊平衡演進，加工費修復彈性較大。當前MEG價格和盈利承壓，悲觀預期較為充分，價格彈性釋放空間較大，相關標的價值被低估。"
+    },
     {
       "id": "5028013",
       "time": "2026-08-06 12:45:00",
