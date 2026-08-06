@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-06 23:42:04",
-  "count": 16634,
+  "updated": "2026-08-06 23:46:09",
+  "count": 16656,
   "items": [
+    {
+      "id": "mkt:019fd7c0-042a-7aab-8fa4-5da5efae916c",
+      "time": "2026-08-06 23:45:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Musk estimated roughly 25% of TeraFab's AI compute output will go to Tesla (TSLA.O)'s Optimus and about 75% to AI spacecraft."
+    },
+    {
+      "id": "5029260",
+      "time": "2026-08-06 23:44:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：樂觀情境下，預計荷蘭所有權轉讓中心天然氣價格（TTF）與日韓標杆液化天然氣價格（JKM）將回升至每兆瓦時60歐元上方。"
+    },
+    {
+      "id": "5029259",
+      "time": "2026-08-06 23:44:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國 9 月天然氣期貨結算價為 136.91 便士 / 熱姆。"
+    },
+    {
+      "id": "5029258",
+      "time": "2026-08-06 23:43:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗維持基準情景預測：2026年第三季度TTF天然氣均價為每兆瓦時46歐元，JKM液化天然氣均價為每百萬英熱單位16美元。"
+    },
+    {
+      "id": "te:markets:573447",
+      "time": "2026-08-06 23:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Thursday — The FTSE 100 erased early gains to close marginally lower on Thursday, as a wave of heavyweight stocks trading ex-dividend offset broader market optimism over progress toward reopening the Strait of Hormuz. Lloyds, Barclays, Relx and Reckitt Benckiser all declined after losing entitlement to their latest dividend payments, while other defensive heavyweights including AstraZeneca and Unilever also weighed on the index. Relx was among the worst performers, falling more than 4%. Tritax Big Box also lost around 4% after raising £350 million through a share placing to finance its data centre expansion, a move analysts viewed as dilutive in the near term. On the upside, Diageo surged more than 5.5% after unveiling a restructuring plan, forecasting stable sales this year and announcing $1 billion in cost savings over the next three years. Persimmon gained more than 3% after reporting stronger-than-expected earnings and reaffirming the upper end of its annual home completion guidance."
+    },
+    {
+      "id": "5029257",
+      "time": "2026-08-06 23:42:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "切尼爾能源首席商務官阿納托爾·費金表示，歐洲處境艱難，冬季前將儲氣庫容量提升至70%將十分困難。"
+    },
+    {
+      "id": "5029256",
+      "time": "2026-08-06 23:41:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：我大致估算，特斯拉Optimus人形機器人的算力需求將佔Terafab人工智慧計算產出的約25%，剩餘約75%將供給航天器人工智慧專案。"
+    },
+    {
+      "id": "5029255",
+      "time": "2026-08-06 23:41:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：正與美國商談全面貿易協定，無意簽署針對性貿易協定。"
+    },
     {
       "id": "mkt:019fd7bc-912e-7aab-8fa4-57f59ff1a0f4",
       "time": "2026-08-06 23:41:27",
@@ -685,12 +760,91 @@
       "text": "切尼爾能源總裁傑克·富斯科在第二季度財報電話會議上表示，伊朗戰爭凸顯了供應安全和多元化的必要性。"
     },
     {
+      "id": "5029204",
+      "time": "2026-08-06 23:09:22",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國請求英國對俄液化天然氣相關制裁給予豁免】韓國通商部長官週四表示，鑑於韓國能源安全存在隱憂，已向新任英國貿易大臣提出請求，希望英國即將出臺的制裁措施對韓國進口俄羅斯液化天然氣（LNG）予以豁免。 韓國產業部稱，如果無法獲得豁免，韓國國營企業韓國天然氣公司（KOGAS）自俄羅斯太平洋沿岸薩哈林2號油氣專案採購液化天然氣的業務將遭遇中斷。該企業持有長期採購合同，合約有效期持續至2028年3月。"
+    },
+    {
+      "id": "5029203",
+      "time": "2026-08-06 23:07:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "西門子能源印度公司6月季度運營收入248.6億盧比。"
+    },
+    {
+      "id": "5029202",
+      "time": "2026-08-06 23:05:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會啟動通用服務基金管理工作審查。"
+    },
+    {
       "id": "mkt:019fd79b-06f6-7aab-8fa3-9dac48443f8c",
       "time": "2026-08-06 23:04:48",
       "tags": [
         "MKT News"
       ],
       "text": "【Zelensky dismisses Ukraine ambassadors to Croatia, Albania, Montenegro and Pakistan】Ukraine’s presidential office said on the 6th that President Zelensky signed decrees dismissing the country’s ambassadors to Croatia, Albania, Montenegro and Pakistan."
+    },
+    {
+      "id": "5029201",
+      "time": "2026-08-06 23:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基解除多名烏克蘭駐外大使職務】當地時間6日，烏克蘭總統府官網釋出訊息稱，烏總統澤連斯基已簽署多項總統令，正式解除烏克蘭駐克羅埃西亞、阿爾巴尼亞、黑山、巴基斯坦四國大使的職務。（央視新聞）"
+    },
+    {
+      "id": "5029200",
+      "time": "2026-08-06 23:04:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "訊息人士週四透露，LG集團會長具光謨將於下週在美國會晤英偉達執行長黃仁勳，推進雙方在人工智慧基礎設施以及機器人領域的合作。"
+    },
+    {
+      "id": "5029199",
+      "time": "2026-08-06 23:03:37",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【西部資料跌幅從22%收窄至10%】西部資料跌幅收窄至10%，盤初一度大跌超22%。週三美股盤後，美國儲存龍頭西部資料公佈了截止7月3日的2026財年第四季度財報。受儲存產品需求持續旺盛推動，公司當季營收、利潤雙雙超預期，淨利潤同比增長逾12倍。財報顯示，西部資料第四財季營收為37.5億美元，同比增長44%，市場預期為36.92億美元，上年同期為26.05億美元。"
+    },
+    {
+      "id": "5029198",
+      "time": "2026-08-06 23:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打擊黎南部真主黨目標】以色列國防軍6日發表宣告說，以軍在過去24小時內對黎巴嫩南部的真主黨目標實施了打擊。宣告稱，以軍打擊目標包括黎南部多個地區的真主黨基礎設施、武器儲存設施和軍事指揮中心等。宣告說，5日，一名以軍預備役少校和一名預備役軍士長在黎南部地區一起爆炸事件中死亡，另有4名以軍士兵受重傷。以軍過去24小時對黎南部真主黨目標的打擊是對該事件的回應。宣告還說，以軍部隊目前仍根據相關協議部署在黎南部“安全區”，並將繼續採取行動，消除針對以色列平民和以軍士兵的威脅。（新華社）"
+    },
+    {
+      "id": "5029197",
+      "time": "2026-08-06 23:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪：發生兒童被撞擊事故後，正對履約配送手推車開展方案測試調整。"
+    },
+    {
+      "id": "5029196",
+      "time": "2026-08-06 23:01:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美AI資料中心耗水激增引發民眾擔憂】為鞏固人工智慧領域競爭優勢，美國政商界持續加碼各地資料中心的新建和擴建專案。但支撐AI算力的海量伺服器，不僅耗電，還會耗費大量的水資源，尤其是大量新增資料中心偏偏選址在缺水區域，引發美國民眾的質疑與反對。（CCTV國際時訊）"
     },
     {
       "id": "te:markets:573437",
@@ -704,6 +858,14 @@
       "text": "FX Updates: Brazilian Real Increases by 0.80% — Top currency gainers are Brazilian Real (0.80%) and Dollar Index (0.17%). Biggest losers are Swiss Franc (-0.38%), Japanese Yen (-0.29%) and Euro (-0.16%). Meanwhile British Pound was little changed."
     },
     {
+      "id": "5029194",
+      "time": "2026-08-06 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦炭連續漲2.48%，瀝青連續漲2.26%，乙二醇連續漲1.92%，豆一連續漲1.76%，PTA連續漲1.55%。"
+    },
+    {
       "id": "te:markets:573436",
       "time": "2026-08-06 22:59:25",
       "tags": [
@@ -715,6 +877,22 @@
       "text": "Cocoa Futures Hover Near 1-Month High — Cocoa prices traded around $5,800 per tonne, close to their highest in nearly a month, influenced by crop forecasts and ongoing climate risks. Supply concerns have intensified in the key producing region of West Africa after Ghana's cocoa regulator COCOBOD projected a decline of at least 16% in 2026/27 cocoa production due to unfavorable weather, disease, ageing plantations, illegal mining, and the crop's natural yield cycle. Expectations of a more than 10% drop in Ivory Coast's output next season, along with the risk of excessive rainfall boosting disease pressure, further supported prices. Additionally, concerns mounted that Ecuador, Peru and Southeast Asia could together produce 100,000 tons less cocoa."
     },
     {
+      "id": "5029193",
+      "time": "2026-08-06 22:58:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩與以色列第七輪會談結束】總檯記者當地時間8月6日獲悉，黎巴嫩與以色列第七輪會談結束。在義大利羅馬舉行的黎以談判6日進入第三天。此前，雙方已在美國駐義大利大使館進行了為期兩天的密集磋商。（央視新聞）"
+    },
+    {
+      "id": "5029192",
+      "time": "2026-08-06 22:57:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行將西部資料目標價由660美元上調至700美元。"
+    },
+    {
       "id": "mkt:019fd794-5a5a-7aab-8fa3-91990d2d385a",
       "time": "2026-08-06 22:57:31",
       "tags": [
@@ -723,6 +901,14 @@
         "Impact bullish"
       ],
       "text": "BNP Paribas raises PT on WESTERN DIGITAL CORP (WDC.O) to $700 from $660."
+    },
+    {
+      "id": "5029191",
+      "time": "2026-08-06 22:57:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯7月原油和凝析油產量較6月增加約10萬桶/日，至超過900萬桶/日。"
     },
     {
       "id": "mkt:019fd793-adb0-7aab-8fa3-8c9f9a18a25a",
@@ -736,6 +922,55 @@
         "Brent"
       ],
       "text": "Sources said Russia's July crude and condensate output rose by about 100,000 b/d from June to just over 9.0 mln b/d."
+    },
+    {
+      "id": "5029190",
+      "time": "2026-08-06 22:55:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國衛生部通報一例安第斯型漢坦病毒輸入病例】法國衛生部通報，一名7月下旬曾到訪法國的遊客被確診感染安第斯型漢坦病毒。患者目前已返回西班牙，正與家人一同接受隔離。法國國家漢坦病毒參考中心當天確認，其感染毒株為安第斯型。法國衛生部表示，患者症狀輕微，現已無症狀。有關部門已啟動流行病學調查，追蹤患者在法旅行軌跡，並採取相應防控措施。法國衛生部當天召集專家組，與法國衛生總局、法國公共衛生署共同評估該輸入病例的風險及後續應對措施，並表示已啟動歐洲層面的協調機制。（央視新聞）"
+    },
+    {
+      "id": "5029189",
+      "time": "2026-08-06 22:54:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【軟體股美股早盤普遍下挫，投資者關注Datadog、Figma等公司的業績】北美科技軟體股指數ETF跌幅收窄至1.9%，暫報99.39美元，美股盤初曾跌至97.61美元（跌幅超過3.65%）。個股中，Datadog目前跌14.6%報241.71美元、一度跌至225.26美元；HubSpot跌19.9%暫報200.38美元、一度跌至185.05美元；Figma跌17.4%暫報23.25美元、一度跌至22.14美元；Salesforce跌4.1%暫報185美元、一度跌至183美元；ServiceNOW跌2%暫報114.85美元、一度走弱至111.80美元；MongoDB跌0.8%暫報373.45美元、一度跌至355美元；Atlassian Corporation跌3.6%暫報109.22美元、一度走弱至107.69美元；Cloudflare Inc.跌0.9%暫報290.18美元、一度跌至280.13美元。Snowflake漲1.2%暫報320.57美元、一度跌至304.39美元。"
+    },
+    {
+      "id": "5029188",
+      "time": "2026-08-06 22:54:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞稱打擊沙特在葉門多地軍事部署】葉門胡塞武裝今天（8月6日）發表宣告稱，其武裝力量針對沙特在葉門多地的“大規模集結目標”實施了打擊，行動中使用了多枚彈道導彈和無人機。宣告稱，此次行動旨在打擊沙特方面準備對胡塞武裝控制區發起升級行動的軍事集結，造成大量“親沙特武裝人員”死傷，摧毀了多處軍事營地、武器庫及軍事裝備，擊毀大量軍用車輛。宣告警告沙特方面不要採取進一步軍事行動，“否則將承擔由此產生的後果”，同時呼籲為沙特方面作戰的葉門人員撤離相關軍事營地。宣告還表示，胡塞武裝已做好應對任何軍事升級的準備，將繼續堅持所謂“以封鎖回應封鎖”的行動方針，直至解除對葉門的封鎖。（CCTV國際時訊）"
+    },
+    {
+      "id": "5029187",
+      "time": "2026-08-06 22:54:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元兌美元下跌0.3%，報158.29，為當日最低點。"
+    },
+    {
+      "id": "5029186",
+      "time": "2026-08-06 22:53:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國藥品和醫療產品監管局（MHRA）批准雷米布替尼（remibrutinib）用於治療成人慢性自發性蕁麻疹。"
+    },
+    {
+      "id": "5029185",
+      "time": "2026-08-06 22:51:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【內地零售物業表現突出，太古地產上半年股東應占基本溢利同比增加11%】伴隨著內地消費市場持續修復，太古地產（HK01972，股價23.00港元，市值1324億港元）旗下內地零售物業租金收入規模已超過香港寫字樓組合，成為這家香港老牌商業地產企業最強勁的收入支柱。8月6日，太古地產釋出的2026年中期業績公告（以下簡稱業績公告）顯示，今年上半年，公司實現收入94.13億港元，同比增長8%；股東應占基本溢利49億港元，同比增長11%，主要反映出售深水灣道6號兩座獨立屋所得溢利，惟部分被2025年上半年出售美國邁阿密Brickell City Centre商場及毗鄰土地的權益所確認的非經常性溢利抵銷；股東應占經常性基本溢利46.61億港元，同比增長36%。分業務來看，包括租金和屋苑管理費在內的物業投資業務，仍是太古地產的收入支柱。太古地產業績公告顯示，今年上半年，物業投資業務貢獻了66.93億港元的營收，物業買賣業務貢獻了22億港元的營收，酒店業務則是貢獻了5.2億港元的營收。太古地產這三大業務板塊在今年上半年均實現同比增長。（每經）"
     },
     {
       "id": "mkt:019fd78d-d7cf-7aab-8fa3-804c579a01c5",
@@ -759,6 +994,56 @@
         "Importance 1"
       ],
       "text": "Arabica Coffee Futures Settle Below $3.1 — Arabica coffee futures have fluctuated in recent weeks, before consolidating below $3.10 per pound to their lowest level in a month. Still, the market continued to be supported by tight supplies, uncertainty over the quality of Brazil's harvest, coffee growers' reluctance to sell, and weather-related risks associated with El Niño. Although a record Brazilian harvest of more than 70 million bags is expected this season, the balance between supply and demand remains tight, particularly in the higher-quality. Traders remain concerned that rains in key producing regions, including Minas Gerais and São Paulo, during June and July, may have affected the quality of part of the crop. ICE arabica coffee fell to a 2.5-year low of 251,417 bags as of August 7, down sharply from the 754,516 bags last year. At the same time, Brazilian producers continue to sell gradually, limiting immediate coffee availability. Meanwhile, the developing \"super\" El Niño remains a key risk to next year's harvest."
+    },
+    {
+      "id": "5029184",
+      "time": "2026-08-06 22:46:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利雅得航空與中國航信簽署合作協議加強互聯互通】沙特利雅得航空公司6日宣佈，該公司與中國民航資訊網路股份有限公司（中國航信）近日簽署分銷合作協議，以進一步深化合作，加強沙特與中國之間的航空互聯互通。 根據協議，雙方將圍繞全渠道分銷、現代航空零售、數字化創新及未來旅客體驗等領域開展合作。此協議還支援利雅得航空持續拓展包括中國在內的國際航線網路。 利雅得航空首席商務官文森特·科斯特表示：“中國是利雅得航空最具戰略意義的增長市場之一。此次合作將為旅客帶來更加個性化、無縫銜接的預訂體驗。” 中國航信董事長江波表示，期待雙方深化合作，協同共建數字生態系統，共同推動航空新零售與新分銷模式的發展。(新華社)"
+    },
+    {
+      "id": "5029183",
+      "time": "2026-08-06 22:46:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【水貝金價兩天漲了近50元】6日，國際金價持續上漲，現貨黃金盤中一度突破每盎司4300美元關口，創下七週以來新高。黃金期貨價格也延續此前幾個交易日的漲勢。金價波動直接傳導至國內黃金消費市場，深圳水貝黃金市場的批發報價這兩天也應聲上調。央視財經記者8月6日下午在深圳水貝市場看到，足金999首飾金的批發報價在1100元/克左右，比兩天前上漲了近50元。記者瞭解到，與年初掀起的搶購潮相比，當下消費者的購金邏輯正在發生明顯變化。面對金價波動，投資客普遍趨於保守，而婚慶剛需和保值型消費成為市場主力。與此同時，黃金回收和以舊換新業務呈現出明顯的“冷熱不均”。 （央視財經）"
+    },
+    {
+      "id": "5029182",
+      "time": "2026-08-06 22:44:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利首次對全部監測城市釋出高溫紅色預警】據義大利安莎社報道，受持續熱浪影響，義大利衛生部納入高溫監測的全國27座主要城市6日全部處於最高等級的紅色預警狀態。這是義大利首次對全部監測城市釋出高溫紅色預警。 義大利衛生部表示，紅色預警意味著持續的高溫緊急狀態，不僅會對老年人、慢性病患者等脆弱群體的健康構成威脅，也可能對健康人群造成影響。 義大利氣象部門預計，本輪高溫天氣仍將持續至少10天，部分地區最高氣溫將達到40攝氏度。義大利衛生部發布的預警資訊顯示，除義大利北部城市博爾扎諾外，其他主要城市預計7日仍將處於紅色預警狀態。 安莎社的報道說，義大利正處於今年夏季以來的第四輪大範圍熱浪。持續高溫已造成多人死亡。高溫疊加乾旱和野火對經濟活動造成衝擊，農業受到的影響尤為明顯。 世界自然基金會5日釋出的一份報告顯示，今年夏季以來，義大利野火的過火面積已達約7萬公頃。(新華社)"
+    },
+    {
+      "id": "5029181",
+      "time": "2026-08-06 22:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉門胡塞武裝襲擊致35名政府軍士兵死亡】葉門政府軍6日稱，葉門胡塞武裝當天襲擊該國東部馬裡卜省和哈德拉毛省的政府軍軍營和陣地，造成至少35名政府軍士兵死亡、數十人受傷。 一名不願透露姓名的官員說，葉門胡塞武裝在襲擊中使用了無人機、彈道導彈等。部分傷者情況危急，死亡人數可能進一步上升。 葉門緊急部隊表示，襲擊發生在政府軍對該地區的犯罪網路和走私集團採取安全行動後。 葉門胡塞武裝尚未對襲擊事件發表評論。 馬裡卜省是政府軍的關鍵據點，也是葉門主要的石油和天然氣生產地。葉門胡塞武裝曾多次試圖向該省首府推進，並曾與政府軍在此激烈交戰。(新華社)"
+    },
+    {
+      "id": "5029180",
+      "time": "2026-08-06 22:41:09",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【瑞銀：美國中型銀行股估值仍有20%上調空間】瑞銀集團最新研報指出，儘管市場存在“銀行股見頂”的擔憂，但在有利的宏觀背景及行業整合預期下，美國中型銀行股仍具備顯著的上漲潛力。分析師蒂穆爾·布拉齊勒（Timur Braziler）在報告中強調，當前銀行業正處於幾十年來最佳的經營環境之中，“儘管存在‘銀行峰值’的擔憂，但我們預計，下半年穩健的業績（得益於季節性存款增長和貸款增速放緩）、有吸引力的相對價值以及併購活動的回升，將使該集團的估值繼續上調20%。”"
+    },
+    {
+      "id": "5029179",
+      "time": "2026-08-06 22:40:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第八代五糧液批價上漲超百元，已有酒商缺貨並暫停報價】有市場訊息稱，多地五糧液經銷商宣佈第八代五糧液價格上漲，整箱批價上漲超百元，單瓶上漲30元。截至晚間，有酒商單箱批發價格報價對比上週上漲了130元。該酒商向《酒業內參》表示已經出現缺貨情況。同時，也由於價格上漲過快，酒商已經暫停報價：“明天統一按行情報，現在不出貨了。”五糧液對此暫無回應。（酒業內參）"
     },
     {
       "id": "mkt:019fd784-1e13-7aab-8fa3-7d067236d1c0",
@@ -152283,97 +152568,6 @@
         "公司"
       ],
       "text": "環球音樂集團上半年錄得的音樂訂閱收入同比增長9.0%。"
-    },
-    {
-      "id": "5017448",
-      "time": "2026-07-30 23:45:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通執行長：漲價正在改變消費者行為。"
-    },
-    {
-      "id": "5017447",
-      "time": "2026-07-30 23:45:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽石油轉運貿易在短暫低迷後回升】近期一度放緩的霍爾木茲海峽原油接駁運輸服務重新活躍，幫助數百萬桶原油運出海峽。在中東地區敵對局勢升級之際，這種運輸方式再次發揮關鍵作用。這種轉運模式興起於衝突最激烈的時期，成為部分產油國維持出口的重要生命線。相關船隻將原油從波斯灣運出——通常會關閉船舶自動識別系統（AIS）應答器以避免被發現——隨後在霍爾木茲海峽外與另一艘油輪進行船對船（STS）轉運，再由後者將原油運往全球各地買家。儘管目前經霍爾木茲海峽運輸的原油仍低於戰前水平，但已成功運出的原油在緩解市場對油價飆升的擔憂方面發揮了重要作用。兩位直接瞭解情況的人士表示，至少有兩家參與霍爾木茲海峽運輸的航運企業，目前轉運量已接近敵對局勢升級前的水平。"
-    },
-    {
-      "id": "5017446",
-      "time": "2026-07-30 23:44:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通執行長：儲存晶片價格漲幅“十分顯著”。"
-    },
-    {
-      "id": "5017445",
-      "time": "2026-07-30 23:44:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紫光股份：51.2T CPO矽光資料中心交換機2025年已實現批次交付部署】紫光股份在互動平臺表示，公司51.2T CPO矽光資料中心交換機產品，2025年已實現批次交付部署，融合核心技術優勢，創新散熱與智慧無損網路設計，有效降低時延和功耗。800G國芯智算交換機依託國產核心晶片，安全可控屬性突出，廣泛適配政府、金融、運營商、能源等對資訊保安要求極高的行業場景，能夠具備支撐大規模算力叢集組網的能力。"
-    },
-    {
-      "id": "5017444",
-      "time": "2026-07-30 23:44:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【艾斯迪北交所IPO將於8月6日上會】7月30日，據北交所網站披露，北交所上市稽核委員會定於8月6日上午9時召開2026年第73次上市稽核委員會審議會議，屆時將審議艾斯迪工業技術股份有限公司的首發事項。"
-    },
-    {
-      "id": "5017443",
-      "time": "2026-07-30 23:43:18",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍稱沒有美國飛機在伊朗最近的襲擊中被摧毀】美軍中央司令部30日在社交媒體上發文稱，在伊朗最近的襲擊中，沒有美國飛機被摧毀或損壞。“所有導彈和無人機均被攔截或未能到達目標區域。” 伊朗伊斯蘭革命衛隊此前發表宣告稱，為回應美國的襲擊，革命衛隊襲擊了約旦阿茲拉克美軍基地，摧毀3架F-35戰鬥機，並嚴重損壞另外3架戰機。（新華社）"
-    },
-    {
-      "id": "mkt:019fb3b1-7287-7aab-8f18-49767dbf3d6b",
-      "time": "2026-07-30 23:42:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports hedge fund Situational Awareness, founded by former OpenAI researcher Leopold Aschenbrenner and with $24bn AUM, has rapidly sold a large portion of its $16bn public-equity holdings to Citadel after suffering heavy losses."
-    },
-    {
-      "id": "mkt:019fb3b1-67c1-7aab-8f18-440e76eb4d7d",
-      "time": "2026-07-30 23:42:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Burnham signals support for increased North Sea drilling】UK Prime Minister Burnham told US President Trump the UK will not \"ignore\" North Sea resources, signaling government support for new oil and gas drilling. Officials are reportedly studying proposals including approval of the Jackdaw and Rosebank offshore Scotland developments and expanded tie-back projects using existing facilities. Trump said Burnham told him the UK would \"open up\" the North Sea and called the move \"a very good thing,\" adding that if done reasonably it could make the country wealthier."
-    },
-    {
-      "id": "5017442",
-      "time": "2026-07-30 23:42:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "基金公司Situational Awareness對Anthropic持股50億美元。高盛、摩根大通參與了Situational Awareness大宗交易的磋商。Situational Awareness將保持私人投資公司的地位。"
-    },
-    {
-      "id": "5017441",
-      "time": "2026-07-30 23:42:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東清遠通報“長湖水庫出現死魚”：水位突降所致，水質正常】7月30日晚，廣東清遠市生態環境局釋出情況通報：近日，我局關注到網民反映英德市滃江長湖水庫出現死魚，擔心水體汙染。我局第一時間聯合廣東省清遠生態環境監測站開展現場取樣監測。自7月30日上午8時開始，在英德市長湖水庫上下游、滃江干支流、北江干流沿線布點，連續開展4輪次全面水質監測。監測結果顯示，水質正常，未檢出有毒有害因子。經核查，為應對臺風“紅霞”帶來的強降雨影響，長湖水庫提前騰庫容，導致水庫水位突降，網箱魚類缺氧，出現死魚現象。水庫水位恢復後，未再出現死魚現象。下一步，我局將繼續密切監測流域水質情況，確保水環境安全。"
-    },
-    {
-      "id": "5017440",
-      "time": "2026-07-30 23:42:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際冰球聯合會禁止俄羅斯隊伍參加 2027 年世界冰球錦標賽。"
     }
   ]
 }
