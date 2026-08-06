@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-06 08:17:01",
-  "count": 17415,
+  "updated": "2026-08-06 08:20:53",
+  "count": 17409,
   "items": [
+    {
+      "id": "5027639",
+      "time": "2026-08-06 08:18:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月06日08時15分在西藏林芝市墨脫縣附近（北緯29.04度，東經94.69度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5027638",
+      "time": "2026-08-06 08:17:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加4.85噸】截至2026年08月05日，全球最大的黃金ETF SPDR Gold Trust持倉量為1014.15噸，較前一個交易日增加4.85噸。"
+    },
+    {
+      "id": "mkt:019fd46e-4eeb-7aab-8f95-c29aeb907fe0",
+      "time": "2026-08-06 08:17:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Huatai Securities: Key window for A-share trend rebound in late August】Huatai Securities says short-term consensus remains unsettled; the decisive window for a trend rebound in A-shares is late August, when mid‑year results, NVIDIA’s earnings and redemption flows during any rally could determine whether tech can sustain a new leg up. Medium‑term, evidence for a second‑derivative inflection in the AI cycle is still insufficient; portfolio focus should shift from 'investment scale' to 'revenue realization', narrowing into names with high earnings visibility and limited free‑float/valuation pressure. Preferred segments: cloud and platform providers, semiconductor equipment, PCB and optical modules."
+    },
+    {
+      "id": "5027637",
+      "time": "2026-08-06 08:16:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股票大幅下跌，鎧俠股價下跌9.6%，東京電子下挫5.0%，愛德萬測試走低4.6%。"
+    },
     {
       "id": "5027636",
       "time": "2026-08-06 08:16:15",
@@ -160188,102 +160226,6 @@
         "國際"
       ],
       "text": "【摩根大通將美聯儲加息預期提前至12月】摩根大通目前預計美聯儲將於12月加息，這比該行此前預期的2027年下半年要早。“在沃什的新聞釋出會上，他再次未能明確說明，他打算如何實現自己所強硬宣稱的抗通脹決心，”首席美國經濟學家Michael Feroli在一份報告中寫道。這位主席還對PCE是否仍將作為美聯儲通脹目標提出了質疑，“這兩點都讓人對這位新任主席能否實現降通脹的目標產生了質疑。”這反過來可能會給美聯儲委員會其他成員帶來更大的緊迫感，促使他們履行其職責。“我們不會將此次修正視為市場對美聯儲的‘施壓’，而應視為又一個挑戰，促使美聯儲採取行動以維護其公信力。”"
-    },
-    {
-      "id": "5015460",
-      "time": "2026-07-30 08:20:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上漲超過1%，一度達到62051.29點。"
-    },
-    {
-      "id": "mkt:019fb064-ad06-7aab-8efc-6d338e8593a8",
-      "time": "2026-07-30 08:20:15",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "South Korean won hits strongest level against the U.S. dollar since Feb. 27."
-    },
-    {
-      "id": "mkt:019fb064-7d46-7aab-8efc-656a21b867ad",
-      "time": "2026-07-30 08:20:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 extended gains to 1%."
-    },
-    {
-      "id": "5015459",
-      "time": "2026-07-30 08:19:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "韓元兌美元匯率升至2月27日以來最強水平。"
-    },
-    {
-      "id": "5015458",
-      "time": "2026-07-30 08:17:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報87.16美元/桶。"
-    },
-    {
-      "id": "5015457",
-      "time": "2026-07-30 08:17:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報83.60美元/桶。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607303825786110",
-      "time": "2026-07-30 08:17:30",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中信證券：仍預計美聯儲今年全年按兵不動】中信證券研報指出，美聯儲7月決議如期按兵不動，措辭宣告變化少，沃什發言在避免釋放過多鷹派訊號的同時又留有加息餘地。市場預期在決議公佈前分歧較大，但美聯儲已用行動表明其無需急於加息，公信力並非來自意外緊縮、而是靠基於資料做出最佳決策。目前衍生品市場定價的27Q1前累計加息兩次的預期過多，仍預計美聯儲今年全年按兵不動。"
-    },
-    {
-      "id": "5015456",
-      "time": "2026-07-30 08:17:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銀河證券：奶價增速轉正或將帶動相關上市公司盈利能力修復】銀河證券指出，7月國內生鮮乳價格同比+0.3%，時隔近5年首次實現轉正，反映行業供需格局逐漸趨於平衡，此外散奶價格已於3月開始率先實現上漲，強化奶價週期底部回升訊號。展望後市，考慮到當前奶源結構與下游需求復甦態勢，判斷此次奶價增速轉正後的走勢或與2016年較為相似，即呈現小幅溫和上漲趨勢，將推動下游競爭趨緩與減值損失減少，進而帶動相關上市公司盈利能力修復。"
-    },
-    {
-      "id": "mkt:019fb061-da38-7aab-8efc-5cd9fb3298c4",
-      "time": "2026-07-30 08:17:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【CITIC Securities: Post‑Fed rise in long US yields mainly reflects Trump’s threats to Iran】CITIC Securities says incremental takeaways from Fed chair Kevin Warsh’s press conference were: the Fed has no soft inflation target, will not underreact to shocks, will consult an inflation task force in coming weeks and “will not hesitate to act if necessary and conditions are appropriate.” Warsh also said recent rises in long‑term yields and a spontaneous tightening of financial conditions provide the Fed with “some comfort.” His tone was procedural—avoiding overtly hawkish signals while leaving room to tighten. With the Middle East conflict unresolved, CITIC judges the post‑decision rise in long‑end US yields and US equity weakness chiefly reflects concern that Trump will “teach Iran a lesson.” While September hike pricing is understandable given a sharp oil rally, CITIC argues repeated rounds of signaling should have clarified intentions and red lines on both sides; assuming oil spikes are temporary and the price baseline only edges up, it maintains a view the Fed will hold rates through the year and is more dovish than market consensus."
-    },
-    {
-      "id": "5015455",
-      "time": "2026-07-30 08:17:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率上漲3.0個基點，至2.775%。"
     }
   ]
 }

@@ -1,7 +1,45 @@
 {
   "date": "2026-08-06",
-  "count": 517,
+  "count": 521,
   "items": [
+    {
+      "id": "5027639",
+      "time": "2026-08-06 08:18:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月06日08時15分在西藏林芝市墨脫縣附近（北緯29.04度，東經94.69度）發生4.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5027638",
+      "time": "2026-08-06 08:17:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加4.85噸】截至2026年08月05日，全球最大的黃金ETF SPDR Gold Trust持倉量為1014.15噸，較前一個交易日增加4.85噸。"
+    },
+    {
+      "id": "mkt:019fd46e-4eeb-7aab-8f95-c29aeb907fe0",
+      "time": "2026-08-06 08:17:06",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Huatai Securities: Key window for A-share trend rebound in late August】Huatai Securities says short-term consensus remains unsettled; the decisive window for a trend rebound in A-shares is late August, when mid‑year results, NVIDIA’s earnings and redemption flows during any rally could determine whether tech can sustain a new leg up. Medium‑term, evidence for a second‑derivative inflection in the AI cycle is still insufficient; portfolio focus should shift from 'investment scale' to 'revenue realization', narrowing into names with high earnings visibility and limited free‑float/valuation pressure. Preferred segments: cloud and platform providers, semiconductor equipment, PCB and optical modules."
+    },
+    {
+      "id": "5027637",
+      "time": "2026-08-06 08:16:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股票大幅下跌，鎧俠股價下跌9.6%，東京電子下挫5.0%，愛德萬測試走低4.6%。"
+    },
     {
       "id": "5027636",
       "time": "2026-08-06 08:16:15",
