@@ -1,7 +1,128 @@
 {
-  "updated": "2026-08-06 20:31:32",
-  "count": 16838,
+  "updated": "2026-08-06 20:35:33",
+  "count": 16821,
   "items": [
+    {
+      "id": "te:economy:573398",
+      "time": "2026-08-06 20:34:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Nonfarm Productivity QoQ",
+        "Importance 2"
+      ],
+      "text": "US Q1 Productivity Rises More than Expected — US nonfarm business sector labor productivity rose 1.4% in the second quarter of 2026, more than market expectations of a 0.6% increase, preliminary estimates showed. Output increased 1.7 percent and hours worked increased 0.3 percent. Meanwhile, manufacturing sector labor productivity increased 1.9% in the second quarter of 2026, as output increased 4.6 percent and hours worked increased 2.6 percent. In the durable manufacturing sector, productivity increased 2.7% and in the nondurable manufacturing sector productivity increased 2%. From the same quarter a year ago, nonfarm business sector labor productivity increased 2.2% in the second quarter of 2026. Total manufacturing sector productivity increased 0.9% from the same quarter a year ago."
+    },
+    {
+      "id": "te:economy:573397",
+      "time": "2026-08-06 20:34:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Rise Less than Expected — The number of people claiming unemployment benefits in the US inched higher by 1,000 to 199,000 on the final week of July, slightly under market expectations of 202,000 to remain near the 57-year low of 188,000 two weeks prior. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 24,000 to 1,801,000 in the earlier week, remaining well under averages from this year. The data continued to reflect a strong labor market in the US, aligned with statements from FOMC members that see the US economy in full employment. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 32 to 450."
+    },
+    {
+      "id": "mkt:019fd711-60e5-7aab-8fa1-d26923f95c18",
+      "time": "2026-08-06 20:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenchengjiao 1H 2026 net profit 38.54 mln yuan; returns to profit YoY】Shenchengjiao reported 1H 2026 revenue of 621 mln yuan, up 49.65% YoY, and net profit attributable to shareholders of 38.54 mln yuan versus a loss of 9.40 mln yuan a year earlier; basic EPS 0.07 yuan. Company said the improvement mainly reflected higher revenue recognition from big-data software and smart-traffic projects."
+    },
+    {
+      "id": "5028956",
+      "time": "2026-08-06 20:34:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受谷歌合作協議利好，Toast盤前股價上漲2%。"
+    },
+    {
+      "id": "5028955",
+      "time": "2026-08-06 20:34:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "雅保預計今年鋰產量持平，明年產量回升。"
+    },
+    {
+      "id": "5028954",
+      "time": "2026-08-06 20:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊頓獲得美國空軍700萬美元合同，將量子計算應用於電網安全領域。"
+    },
+    {
+      "id": "5028953",
+      "time": "2026-08-06 20:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖維高新：擬定增募資不超過23億元用於PVA樹脂及光學薄膜專案】皖維高新公告，擬向控股股東皖維集團發行A股股票，募集資金總額不超過23億元，扣除發行費用後用於20萬噸/年乙烯法功能性聚乙烯醇樹脂專案（擬投入20億元）、年產3000萬平方米高世代面板用聚乙烯醇（PVA）光學薄膜專案（擬投入3億元）。發行構成關聯交易，皖維集團認購股份3年內不得轉讓。方案已獲董事會審議透過，尚需國家出資企業審批同意、股東會審議透過、上交所稽核透過並報中國證監會註冊。"
+    },
+    {
+      "id": "5028952",
+      "time": "2026-08-06 20:32:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌母公司Alphabet股價盤前下跌0.6%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608063834074049",
+      "time": "2026-08-06 20:31:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週首次申領失業救濟人數為19.9萬人，預估為20.5萬人，前值為19.7萬人。"
+    },
+    {
+      "id": "5028951",
+      "time": "2026-08-06 20:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部出口銷售資料：2025/26年度大豆淨銷售量為32200噸；2026/27年度大豆淨銷售量為903900噸。"
+    },
+    {
+      "id": "5028950",
+      "time": "2026-08-06 20:31:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Keurig Dr Pepper高管稱，JDE Peet's業務部門第二季度淨銷售額達28億美元，營業收入為4.14億美元。"
+    },
+    {
+      "id": "te:markets:573395",
+      "time": "2026-08-06 20:31:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Muted as Markets Eye Iran Talks — Futures tracking the S&P/TSX Composite Index were little changed on Thursday as investors weighed the prospects of a US-Iran peace deal alongside another round of corporate earnings. Oil prices rose as markets remained cautious over the Iran-Oman talks. Traffic through the Strait of Hormuz and the Bab el-Mandeb Strait fell on Wednesday following Houthi claims of a missile attack on a Saudi oil tanker. Higher oil prices pushed bond yields up, pressuring financial stocks and the broader index. Meanwhile, Canadian Natural beat second-quarter profit estimates, supported by stronger oil and natural gas prices. Lundin Mining reported higher second-quarter revenue late Wednesday. WPM and Sun Life Financial are set to report earnings after the close. At least six brokerages also raised their price targets for Shopify after the company projected third-quarter revenue above expectations."
+    },
+    {
+      "id": "mkt:019fd70e-3fc1-7aab-8fa1-cf01cfb6ab93",
+      "time": "2026-08-06 20:31:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Millennium partners with ANTHROPIC to develop an AI-based risk-analysis tool."
+    },
     {
       "id": "mkt:019fd70d-c7d3-7aab-8fa1-c5e18df125e8",
       "time": "2026-08-06 20:30:32",
@@ -154136,288 +154257,6 @@
         "其他"
       ],
       "text": "紐約聯儲隔夜回購操作投標總額 300 萬美元，全額接納全部投標。"
-    },
-    {
-      "id": "5017069",
-      "time": "2026-07-30 20:35:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部：研發農業農村專業模型，加快突破農業感測器等領域關鍵核心技術】農業農村部黨組召開擴大會議。部黨組書記、部長張柱主持會議。會議強調，要強化前瞻性、穿透式研究，完善農業人工智慧頂層設計，健全農情排程系統，整合打通多方資料，研發農業農村專業模型，加快突破農業感測器、專用晶片等領域關鍵核心技術。要加力推動農業人工智慧轉化應用，打造豐富多樣的應用場景，支援有條件的地區先行先試，讓人工智慧真正紮根田間地頭、賦能農業提質農民增收。要健全農業人工智慧標準體系，逐步建立風險監測、行業審查、安全管理等制度機制，確保安全、可靠、可控。"
-    },
-    {
-      "id": "mkt:019fb305-c661-7aab-8f13-3bc963126ba1",
-      "time": "2026-07-30 20:35:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England Governor Bailey said market conditions are an important input to judgments on QT."
-    },
-    {
-      "id": "5017068",
-      "time": "2026-07-30 20:35:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：市場環境是量化緊縮決策考量中的重要一環。"
-    },
-    {
-      "id": "mkt:019fb305-6301-7aab-8f13-34c55fa441e9",
-      "time": "2026-07-30 20:35:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "NHTSA administrator said the U.S. has approved Amazon-owned Zoox to commercially deploy autonomous taxis without human-operated controls."
-    },
-    {
-      "id": "5017067",
-      "time": "2026-07-30 20:34:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國駐新加坡使館：鄭重提醒在新中國公民嚴防“假官員”電詐】近期，中國駐新加坡使館接報十數起中國公民遭遇“假官員”電詐案件，受騙者多為留學生、務工人員，受騙金額累計逾千萬人民幣。（環球網）"
-    },
-    {
-      "id": "5017066",
-      "time": "2026-07-30 20:34:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【京東方A：玻璃基封裝載板試驗線已通線 鈣鈦礦中試線效率達20.11%】京東方A(000725.SZ)釋出投資者關係活動記錄表公告，公司玻璃基封裝載板試驗線於2026年上半年實現全自動化裝置通線，設計產能1000片/月。公司已完成大尺寸高層數(9-2-9，20層)玻璃基載板樣品開發和送樣，並透過多項信賴性標準測試。鈣鈦礦方面，公司採用剛性/柔性/疊層元件技術路線並行開發，手套箱效率記錄達27.94%，實驗線21.39%，中試線20.11%，柔性16.6%。公司計劃今年下半年在黑龍江漠河、新疆吐魯番和寧夏銀川開展極致條件實證測試。光互連方面，公司已成立MicroLED光互連繫統及玻璃載板CPO技術攻關專案組，進行前瞻技術預研。公司控股子公司合肥京東方顯示技術有限公司於近日完成少數股東定向減資，註冊資本由240億元減少至175.5億元，公司持股比例從36.67%提高至50.14%。未來隨著存量產線折舊持續減少，公司總體折舊金額將在2025年基礎上開始下降，資本開支金額也將逐漸降低。"
-    },
-    {
-      "id": "5017065",
-      "time": "2026-07-30 20:34:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債在 PCE 物價、初請失業金以及二季度 GDP 資料公佈後保持平穩。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826938274",
-      "time": "2026-07-30 20:33:58",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國第二季度最終銷售初值為增加2.2%。"
-    },
-    {
-      "id": "mkt:019fb304-4b9c-7aab-8f13-2d541903a321",
-      "time": "2026-07-30 20:33:50",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "After US PCE data, the dollar index (DXY) was little changed, edging up about 7 points to 100.70."
-    },
-    {
-      "id": "5017064",
-      "time": "2026-07-30 20:33:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率最新上漲2.22個基點，報4.258%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826937097",
-      "time": "2026-07-30 20:33:39",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國第二季度消費者支出初值為增加3.2%。"
-    },
-    {
-      "id": "5017063",
-      "time": "2026-07-30 20:33:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國30年期國債收益率上升5.98個基點，報5.203%。"
-    },
-    {
-      "id": "5017062",
-      "time": "2026-07-30 20:33:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國國債收益率在經濟資料公佈後維持漲幅；10年期美國國債收益率最新上漲5.33個基點，報4.675%。"
-    },
-    {
-      "id": "5017061",
-      "time": "2026-07-30 20:33:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將星巴克目標股價從105美元上調至112美元。"
-    },
-    {
-      "id": "mkt:019fb303-db6e-7aab-8f13-22557ac32315",
-      "time": "2026-07-30 20:33:22",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England Governor Bailey said waiting for all second-round effects to emerge before acting would be too late, but he could not say when action would be taken."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826936781",
-      "time": "2026-07-30 20:33:18",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國第二季度個人消費支出(PCE)物價指數初值為上漲5.1%。"
-    },
-    {
-      "id": "5017060",
-      "time": "2026-07-30 20:33:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將Meta目標價從766美元下調至715美元。"
-    },
-    {
-      "id": "5017059",
-      "time": "2026-07-30 20:32:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將高通目標價從190美元下調至170美元。"
-    },
-    {
-      "id": "te:economy:571255",
-      "time": "2026-07-30 20:32:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "GDP Growth Rate",
-        "Importance 3"
-      ],
-      "text": "US GDP Growth Slows in Q2 — The US economy expanded an annualized 1.5% in Q2 2026, below 2.1% in Q1 and forecasts of 2.1% the advance estimate from the BEA showed. The contributors were increases in consumer spending, investment, and exports that were partly offset by a decrease in government spending. Imports also went up. Compared to the first quarter, the deceleration in real GDP reflected a downturn in government spending and decelerations in investment and exports that were partly offset by an acceleration in consumer spending. Imports increased more in the second quarter than in the first quarter."
-    },
-    {
-      "id": "mkt:019fb303-6438-7aab-8f13-1faf779bf4f3",
-      "time": "2026-07-30 20:32:51",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "BAILEY, governor of the Bank of England, said he thought they could wait and see."
-    },
-    {
-      "id": "5017058",
-      "time": "2026-07-30 20:32:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：等到所有第二輪效應都顯現再行動就太晚了，無法明確我們何時會採取行動"
-    },
-    {
-      "id": "5017057",
-      "time": "2026-07-30 20:32:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【綠控傳動：首次公開發行股票註冊獲中國證監會同意】綠控傳動公告，公司首次公開發行股票並在創業板上市的註冊申請已獲中國證監會批覆同意，批覆自同意註冊之日起12個月內有效。"
-    },
-    {
-      "id": "5017056",
-      "time": "2026-07-30 20:32:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "本田印度動力產品公司第二財季（截至六月）利潤為1.11億盧比。"
-    },
-    {
-      "id": "5017055",
-      "time": "2026-07-30 20:32:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "梅賽德斯 - 賓士北美金融公司推出五檔基準債券發行方案。"
-    },
-    {
-      "id": "5017054",
-      "time": "2026-07-30 20:32:08",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【多家滬市公司集中釋出回購增持、業績喜報及中期分紅等利好】2026年7月30日晚間，多家滬市上市公司集中釋放利好訊號，涵蓋股份回購增持、經營業績報喜、中期分紅回報等多個維度，積極訊號密集釋放，市場信心持續鞏固。回購增持持續擴容增量。當日新增回購計劃4家，合計擬回購金額上限達3.2億元；新增增持計劃3家，合計擬增持金額上限為1.66億元。另有6家公司披露回購進展公告，持續向市場傳遞對公司長期投資價值的堅定信心。經營層面延續向好態勢，3家滬市公司提交績優定期報告或業績快報。股東回報及市場穩定性持續提升。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb302-95bf-7aab-8f13-130af3711a11",
-      "time": "2026-07-30 20:31:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England governor Bailey said it is reasonable to wait and see how developments unfold."
-    },
-    {
-      "id": "mkt:019fb302-8e74-7aab-8f13-0a22bac17b9e",
-      "time": "2026-07-30 20:31:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD"
-      ],
-      "text": "Spot gold traded little changed intraday after the US PCE release, last $4,073.58/oz."
-    },
-    {
-      "id": "5017053",
-      "time": "2026-07-30 20:31:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：合理做法是靜觀事態發展。"
-    },
-    {
-      "id": "mkt:019fb302-5d19-7aab-8f13-033c4be3c79e",
-      "time": "2026-07-30 20:31:44",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact mixed"
-      ],
-      "text": "Bank of England Governor Bailey said there is disagreement over acting quickly versus waiting."
-    },
-    {
-      "id": "5017052",
-      "time": "2026-07-30 20:31:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【嘉亨家化：披露杭州拼便宜要約收購結果，31日復牌】嘉亨家化7月30日披露杭州拼便宜網路科技有限公司（簡稱“杭州拼便宜”）要約收購結果，杭州拼便宜預受要約的股東賬戶總數為254戶，預受要約股份總數為2356.93萬股，佔預定要約收購股份數量的110.817%。根據此前《要約收購報告書》的約定，若預受要約股份的數量超過2126.88萬股，則杭州拼便宜將按照同等比例收購已預受要約的股份。"
     }
   ]
 }

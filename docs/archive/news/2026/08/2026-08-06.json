@@ -1,7 +1,128 @@
 {
   "date": "2026-08-06",
-  "count": 2276,
+  "count": 2289,
   "items": [
+    {
+      "id": "te:economy:573398",
+      "time": "2026-08-06 20:34:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Nonfarm Productivity QoQ",
+        "Importance 2"
+      ],
+      "text": "US Q1 Productivity Rises More than Expected — US nonfarm business sector labor productivity rose 1.4% in the second quarter of 2026, more than market expectations of a 0.6% increase, preliminary estimates showed. Output increased 1.7 percent and hours worked increased 0.3 percent. Meanwhile, manufacturing sector labor productivity increased 1.9% in the second quarter of 2026, as output increased 4.6 percent and hours worked increased 2.6 percent. In the durable manufacturing sector, productivity increased 2.7% and in the nondurable manufacturing sector productivity increased 2%. From the same quarter a year ago, nonfarm business sector labor productivity increased 2.2% in the second quarter of 2026. Total manufacturing sector productivity increased 0.9% from the same quarter a year ago."
+    },
+    {
+      "id": "te:economy:573397",
+      "time": "2026-08-06 20:34:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Rise Less than Expected — The number of people claiming unemployment benefits in the US inched higher by 1,000 to 199,000 on the final week of July, slightly under market expectations of 202,000 to remain near the 57-year low of 188,000 two weeks prior. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 24,000 to 1,801,000 in the earlier week, remaining well under averages from this year. The data continued to reflect a strong labor market in the US, aligned with statements from FOMC members that see the US economy in full employment. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 32 to 450."
+    },
+    {
+      "id": "mkt:019fd711-60e5-7aab-8fa1-d26923f95c18",
+      "time": "2026-08-06 20:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenchengjiao 1H 2026 net profit 38.54 mln yuan; returns to profit YoY】Shenchengjiao reported 1H 2026 revenue of 621 mln yuan, up 49.65% YoY, and net profit attributable to shareholders of 38.54 mln yuan versus a loss of 9.40 mln yuan a year earlier; basic EPS 0.07 yuan. Company said the improvement mainly reflected higher revenue recognition from big-data software and smart-traffic projects."
+    },
+    {
+      "id": "5028956",
+      "time": "2026-08-06 20:34:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受谷歌合作協議利好，Toast盤前股價上漲2%。"
+    },
+    {
+      "id": "5028955",
+      "time": "2026-08-06 20:34:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "雅保預計今年鋰產量持平，明年產量回升。"
+    },
+    {
+      "id": "5028954",
+      "time": "2026-08-06 20:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊頓獲得美國空軍700萬美元合同，將量子計算應用於電網安全領域。"
+    },
+    {
+      "id": "5028953",
+      "time": "2026-08-06 20:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖維高新：擬定增募資不超過23億元用於PVA樹脂及光學薄膜專案】皖維高新公告，擬向控股股東皖維集團發行A股股票，募集資金總額不超過23億元，扣除發行費用後用於20萬噸/年乙烯法功能性聚乙烯醇樹脂專案（擬投入20億元）、年產3000萬平方米高世代面板用聚乙烯醇（PVA）光學薄膜專案（擬投入3億元）。發行構成關聯交易，皖維集團認購股份3年內不得轉讓。方案已獲董事會審議透過，尚需國家出資企業審批同意、股東會審議透過、上交所稽核透過並報中國證監會註冊。"
+    },
+    {
+      "id": "5028952",
+      "time": "2026-08-06 20:32:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌母公司Alphabet股價盤前下跌0.6%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608063834074049",
+      "time": "2026-08-06 20:31:41",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週首次申領失業救濟人數為19.9萬人，預估為20.5萬人，前值為19.7萬人。"
+    },
+    {
+      "id": "5028951",
+      "time": "2026-08-06 20:31:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部出口銷售資料：2025/26年度大豆淨銷售量為32200噸；2026/27年度大豆淨銷售量為903900噸。"
+    },
+    {
+      "id": "5028950",
+      "time": "2026-08-06 20:31:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Keurig Dr Pepper高管稱，JDE Peet's業務部門第二季度淨銷售額達28億美元，營業收入為4.14億美元。"
+    },
+    {
+      "id": "te:markets:573395",
+      "time": "2026-08-06 20:31:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Muted as Markets Eye Iran Talks — Futures tracking the S&P/TSX Composite Index were little changed on Thursday as investors weighed the prospects of a US-Iran peace deal alongside another round of corporate earnings. Oil prices rose as markets remained cautious over the Iran-Oman talks. Traffic through the Strait of Hormuz and the Bab el-Mandeb Strait fell on Wednesday following Houthi claims of a missile attack on a Saudi oil tanker. Higher oil prices pushed bond yields up, pressuring financial stocks and the broader index. Meanwhile, Canadian Natural beat second-quarter profit estimates, supported by stronger oil and natural gas prices. Lundin Mining reported higher second-quarter revenue late Wednesday. WPM and Sun Life Financial are set to report earnings after the close. At least six brokerages also raised their price targets for Shopify after the company projected third-quarter revenue above expectations."
+    },
+    {
+      "id": "mkt:019fd70e-3fc1-7aab-8fa1-cf01cfb6ab93",
+      "time": "2026-08-06 20:31:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Millennium partners with ANTHROPIC to develop an AI-based risk-analysis tool."
+    },
     {
       "id": "mkt:019fd70d-c7d3-7aab-8fa1-c5e18df125e8",
       "time": "2026-08-06 20:30:32",
