@@ -1,7 +1,192 @@
 {
   "date": "2026-08-06",
-  "count": 2259,
+  "count": 2276,
   "items": [
+    {
+      "id": "mkt:019fd70d-c7d3-7aab-8fa1-c5e18df125e8",
+      "time": "2026-08-06 20:30:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US continuing jobless claims for week ended July 25: 1.801 mln, vs. 1.79 mln expected; prior revised to 1.777 mln from 1.782 mln."
+    },
+    {
+      "id": "mkt:019fd70d-aa97-7aab-8fa1-ba395b514532",
+      "time": "2026-08-06 20:30:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "USDJPY"
+      ],
+      "text": "US four-week moving average of initial jobless claims for week ending Aug 1: 198,750. Prior four-week average revised up from 202,750 to 203,250."
+    },
+    {
+      "id": "5028949",
+      "time": "2026-08-06 20:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至8月1日當週初請失業金人數 19.9萬人，預期20.2萬人，前值由19.7萬人修正為19.8萬人。\n美國至8月1日當週初請失業金人數四周均值 19.875萬人，前值由20.275萬人修正為20.325萬人。\n美國至7月25日當週續請失業金人數 180.1萬人，預期179萬人，前值由178.2萬人修正為177.7萬人。\n美國第二季度非農生產力初值 1.4%，預期0.6%，前值由0.30%修正為0.8%。\n美國第二季度非農單位勞動力成本初值 1.3%，預期2.1%，前值由1.80%修正為1.3%。"
+    },
+    {
+      "id": "mkt:019fd70d-9003-7aab-8fa1-b19f7ca71317",
+      "time": "2026-08-06 20:30:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ending Aug 1: 199,000 vs. expected 202,000; prior week revised to 198,000 from 197,000."
+    },
+    {
+      "id": "mkt:019fd70d-8ed2-7aab-8fa1-ad8adcdc9493",
+      "time": "2026-08-06 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Q2 nonfarm unit labor costs preliminary 1.3% vs 2.1% expected; prior 1.80% revised to 1.3%."
+    },
+    {
+      "id": "mkt:019fd70d-8e96-7aab-8fa1-a72cf25e1dfd",
+      "time": "2026-08-06 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. nonfarm productivity preliminary for Q2 1.4% (expected 0.6%); prior revised up from 0.30% to 0.8%."
+    },
+    {
+      "id": "5028948",
+      "time": "2026-08-06 20:30:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行維持關鍵利率在3.75%不變；預計利率為3.75%。"
+    },
+    {
+      "id": "mkt:019fd70d-553a-7aab-8fa1-9f8bb6ad90c9",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Unit Labor Costs NonFarm Preliminary (Q2) | actual 1.3% | consensus 2.1% | previous 1.80%"
+    },
+    {
+      "id": "mkt:019fd70d-5536-7aab-8fa1-9373f9c5a006",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | NonFarm Labor Productivity Flash (QoQ) (Q2) | actual 1.4% | consensus 0.6% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019fd70d-5534-7aab-8fa1-8e12d2cb6fb3",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Jul.25) | actual 1801000K | consensus 1790000K | previous 1782000K"
+    },
+    {
+      "id": "mkt:019fd70d-550d-7aab-8fa1-828811cc789e",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Aug.1) | actual 198750K | previous 202750K"
+    },
+    {
+      "id": "mkt:019fd70d-5443-7aab-8fa1-7b50d5c41ebd",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Aug.1) | actual 199000K | consensus 202000K | previous 197000K"
+    },
+    {
+      "id": "5028947",
+      "time": "2026-08-06 20:29:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "康菲石油股價盤前上漲2%；執行長瑞安·蘭斯即將退休。"
+    },
+    {
+      "id": "5028946",
+      "time": "2026-08-06 20:28:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Alphabet尋求透過發行10部分債券籌集至多250億美元】知情人士稱，Alphabet計劃透過最新的美國投資級債券發行籌集至多250億美元。在AI相關債券7月遭到拋售後，這筆交易將檢驗投資者的需求。知情人士表示，最終發行規模尚未確定。因未獲授權公開置評，他們要求不具名。另一位知情人士稱，這家谷歌和YouTube母公司擬發行最多10部分債券，期限從2年至40年不等。期限最長一檔債券的初步價格指引為較美國國債收益率高約1.55個百分點。"
+    },
+    {
+      "id": "5028945",
+      "time": "2026-08-06 20:28:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "OKLO盤前股價漲幅擴大至5%。"
+    },
+    {
+      "id": "5028943",
+      "time": "2026-08-06 20:27:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "華納兄弟探索公司：當前地緣政治環境複雜，已出現市場謹慎情緒顯現、消費者走弱的跡象。"
+    },
+    {
+      "id": "5028942",
+      "time": "2026-08-06 20:27:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員布魯納：若邊境管控依賴於單一鄰國的善意，歐盟將陷入脆弱處境。"
+    },
     {
       "id": "5028941",
       "time": "2026-08-06 20:26:24",

@@ -1,7 +1,192 @@
 {
-  "updated": "2026-08-06 20:27:27",
-  "count": 16873,
+  "updated": "2026-08-06 20:31:32",
+  "count": 16838,
   "items": [
+    {
+      "id": "mkt:019fd70d-c7d3-7aab-8fa1-c5e18df125e8",
+      "time": "2026-08-06 20:30:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US continuing jobless claims for week ended July 25: 1.801 mln, vs. 1.79 mln expected; prior revised to 1.777 mln from 1.782 mln."
+    },
+    {
+      "id": "mkt:019fd70d-aa97-7aab-8fa1-ba395b514532",
+      "time": "2026-08-06 20:30:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "USDJPY"
+      ],
+      "text": "US four-week moving average of initial jobless claims for week ending Aug 1: 198,750. Prior four-week average revised up from 202,750 to 203,250."
+    },
+    {
+      "id": "5028949",
+      "time": "2026-08-06 20:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至8月1日當週初請失業金人數 19.9萬人，預期20.2萬人，前值由19.7萬人修正為19.8萬人。\n美國至8月1日當週初請失業金人數四周均值 19.875萬人，前值由20.275萬人修正為20.325萬人。\n美國至7月25日當週續請失業金人數 180.1萬人，預期179萬人，前值由178.2萬人修正為177.7萬人。\n美國第二季度非農生產力初值 1.4%，預期0.6%，前值由0.30%修正為0.8%。\n美國第二季度非農單位勞動力成本初值 1.3%，預期2.1%，前值由1.80%修正為1.3%。"
+    },
+    {
+      "id": "mkt:019fd70d-9003-7aab-8fa1-b19f7ca71317",
+      "time": "2026-08-06 20:30:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ending Aug 1: 199,000 vs. expected 202,000; prior week revised to 198,000 from 197,000."
+    },
+    {
+      "id": "mkt:019fd70d-8ed2-7aab-8fa1-ad8adcdc9493",
+      "time": "2026-08-06 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Q2 nonfarm unit labor costs preliminary 1.3% vs 2.1% expected; prior 1.80% revised to 1.3%."
+    },
+    {
+      "id": "mkt:019fd70d-8e96-7aab-8fa1-a72cf25e1dfd",
+      "time": "2026-08-06 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. nonfarm productivity preliminary for Q2 1.4% (expected 0.6%); prior revised up from 0.30% to 0.8%."
+    },
+    {
+      "id": "5028948",
+      "time": "2026-08-06 20:30:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "捷克央行維持關鍵利率在3.75%不變；預計利率為3.75%。"
+    },
+    {
+      "id": "mkt:019fd70d-553a-7aab-8fa1-9f8bb6ad90c9",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Unit Labor Costs NonFarm Preliminary (Q2) | actual 1.3% | consensus 2.1% | previous 1.80%"
+    },
+    {
+      "id": "mkt:019fd70d-5536-7aab-8fa1-9373f9c5a006",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | NonFarm Labor Productivity Flash (QoQ) (Q2) | actual 1.4% | consensus 0.6% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019fd70d-5534-7aab-8fa1-8e12d2cb6fb3",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Jul.25) | actual 1801000K | consensus 1790000K | previous 1782000K"
+    },
+    {
+      "id": "mkt:019fd70d-550d-7aab-8fa1-828811cc789e",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Aug.1) | actual 198750K | previous 202750K"
+    },
+    {
+      "id": "mkt:019fd70d-5443-7aab-8fa1-7b50d5c41ebd",
+      "time": "2026-08-06 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Aug.1) | actual 199000K | consensus 202000K | previous 197000K"
+    },
+    {
+      "id": "5028947",
+      "time": "2026-08-06 20:29:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "康菲石油股價盤前上漲2%；執行長瑞安·蘭斯即將退休。"
+    },
+    {
+      "id": "5028946",
+      "time": "2026-08-06 20:28:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Alphabet尋求透過發行10部分債券籌集至多250億美元】知情人士稱，Alphabet計劃透過最新的美國投資級債券發行籌集至多250億美元。在AI相關債券7月遭到拋售後，這筆交易將檢驗投資者的需求。知情人士表示，最終發行規模尚未確定。因未獲授權公開置評，他們要求不具名。另一位知情人士稱，這家谷歌和YouTube母公司擬發行最多10部分債券，期限從2年至40年不等。期限最長一檔債券的初步價格指引為較美國國債收益率高約1.55個百分點。"
+    },
+    {
+      "id": "5028945",
+      "time": "2026-08-06 20:28:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "OKLO盤前股價漲幅擴大至5%。"
+    },
+    {
+      "id": "5028943",
+      "time": "2026-08-06 20:27:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "華納兄弟探索公司：當前地緣政治環境複雜，已出現市場謹慎情緒顯現、消費者走弱的跡象。"
+    },
+    {
+      "id": "5028942",
+      "time": "2026-08-06 20:27:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員布魯納：若邊境管控依賴於單一鄰國的善意，歐盟將陷入脆弱處境。"
+    },
     {
       "id": "5028941",
       "time": "2026-08-06 20:26:24",
@@ -154233,612 +154418,6 @@
         "公司"
       ],
       "text": "【嘉亨家化：披露杭州拼便宜要約收購結果，31日復牌】嘉亨家化7月30日披露杭州拼便宜網路科技有限公司（簡稱“杭州拼便宜”）要約收購結果，杭州拼便宜預受要約的股東賬戶總數為254戶，預受要約股份總數為2356.93萬股，佔預定要約收購股份數量的110.817%。根據此前《要約收購報告書》的約定，若預受要約股份的數量超過2126.88萬股，則杭州拼便宜將按照同等比例收購已預受要約的股份。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826935833",
-      "time": "2026-07-30 20:31:22",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國第二季度實際GDP年化季率為1.5%，預期2.1%，前值2.10%。"
-    },
-    {
-      "id": "5017051",
-      "time": "2026-07-30 20:31:20",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行行長貝利：委員分歧集中在應當儘早行動還是繼續觀望。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826935529",
-      "time": "2026-07-30 20:31:10",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月核心PCE價格指數環比上漲0.1%，市場預期上漲0.2%。"
-    },
-    {
-      "id": "5017050",
-      "time": "2026-07-30 20:31:07",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國第二季度實際個人消費支出季率初值 3.2%，預期2.3%，前值0.50%。"
-    },
-    {
-      "id": "mkt:019fb301-84b6-7aab-8f12-fe4ce5ec6437",
-      "time": "2026-07-30 20:30:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US core PCE price index rose 0.1% MoM in June, the smallest increase since March 2025."
-    },
-    {
-      "id": "mkt:019fb301-7667-7aab-8f12-f131bb61cf7e",
-      "time": "2026-07-30 20:30:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US Q2 GDP price index preliminary 6.2%, expected 4.0%, prior 3.6%."
-    },
-    {
-      "id": "mkt:019fb301-5c97-7aab-8f12-ee7779bc44a7",
-      "time": "2026-07-30 20:30:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【US core PCE eases in line with expectations】US core PCE price index eased to 3.3% YoY in June from 3.4% in May, matching market expectations."
-    },
-    {
-      "id": "mkt:019fb301-597c-7aab-8f12-e18737f2ebb0",
-      "time": "2026-07-30 20:30:37",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | GDP Price Index SAAR Advance (Q2) | actual 6.2% | consensus 4% | previous 3.60%"
-    },
-    {
-      "id": "mkt:019fb301-5414-7aab-8f12-daafe520844c",
-      "time": "2026-07-30 20:30:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US second-quarter real GDP annualized quarter-on-quarter advance estimate 1.5% (consensus 2.1%); prior 2.1%."
-    },
-    {
-      "id": "mkt:019fb301-4c90-7aab-8f12-d12f54adfd4a",
-      "time": "2026-07-30 20:30:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US PCE price index YoY (June) 3.7% vs 3.7% expected; prior (May) 4.1%."
-    },
-    {
-      "id": "mkt:019fb301-4b4d-7aab-8f12-cb99f8715b62",
-      "time": "2026-07-30 20:30:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US initial jobless claims for the week ending July 25 were 197,000, the lowest since the week of April 25, 2026."
-    },
-    {
-      "id": "mkt:019fb301-48e9-7aab-8f12-bc0e09f8b8eb",
-      "time": "2026-07-30 20:30:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "U.S. June personal spending MoM 0.3% (expected 0.3%); prior month revised from 0.70% to 0.9%."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826935484",
-      "time": "2026-07-30 20:30:33",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月份個人消費支出環比增長0.3%，市場預估為0.4%。"
-    },
-    {
-      "id": "5017049",
-      "time": "2026-07-30 20:30:31",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國第二季度GDP環比增長1.5%（按年率計算），此前預期為增長2.0%。"
-    },
-    {
-      "id": "mkt:019fb301-4a14-7aab-8f12-c0cfa2261df5",
-      "time": "2026-07-30 20:30:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of England Deputy Governor Lombardelli said economic activity is slightly stronger than the Bank had expected but remains weak."
-    },
-    {
-      "id": "mkt:019fb301-4370-7aab-8f12-ae8c6479b9ca",
-      "time": "2026-07-30 20:30:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US June personal income MoM +0.2% vs +0.3% expected; May +0.7%."
-    },
-    {
-      "id": "mkt:019fb301-4893-7aab-8f12-b3a839fb5ffb",
-      "time": "2026-07-30 20:30:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US real personal consumption expenditures (PCE) MoM +0.4%; prior reading revised from +0.3% to +0.4%."
-    },
-    {
-      "id": "mkt:019fb301-4244-7aab-8f12-a5cca2f853ca",
-      "time": "2026-07-30 20:30:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US Q2 preliminary real personal consumption expenditures (PCE) rose 3.2% QoQ, versus a 2.3% consensus and a 0.5% prior reading."
-    },
-    {
-      "id": "mkt:019fb301-41e0-7aab-8f12-9d18c10f641c",
-      "time": "2026-07-30 20:30:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US Q2 PCE price index preliminary annualized QoQ +5.1% (prior +4.6%)."
-    },
-    {
-      "id": "mkt:019fb301-3d31-7aab-8f12-93bd68792e25",
-      "time": "2026-07-30 20:30:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US Q2 final sales, annualized QoQ preliminary 2.2% (est. 2.0%, prior 1.9%)."
-    },
-    {
-      "id": "mkt:019fb301-3bb8-7aab-8f12-886e0123991b",
-      "time": "2026-07-30 20:30:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US Q2 core PCE price index preliminary annualized QoQ 3.4% vs 3.5% expected; prior 4.4%."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607303826935253",
-      "time": "2026-07-30 20:30:28",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國上週首次申領失業救濟人數為19.7萬人，預估為20萬人，前值為18.7萬人。"
-    },
-    {
-      "id": "mkt:019fb301-3ad5-7aab-8f12-85bf241f3ee0",
-      "time": "2026-07-30 20:30:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. June PCE price index MoM -0.1% (est -0.1%); May reading revised up from 0.4% to 0.5%."
-    },
-    {
-      "id": "mkt:019fb301-39ac-7aab-8f12-7aeaa0f42aa5",
-      "time": "2026-07-30 20:30:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US core PCE price index YoY for June 3.3% (consensus 3.30%; prior 3.40%)."
-    },
-    {
-      "id": "5017048",
-      "time": "2026-07-30 20:30:25",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國6月核心PCE價格指數環比上漲0.1%；預期上漲0.2%。"
-    },
-    {
-      "id": "mkt:019fb301-15bf-7aab-8f12-72fb00a3c25e",
-      "time": "2026-07-30 20:30:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US core PCE price index June MoM 0.1% (consensus 0.2%), prior 0.3%."
-    },
-    {
-      "id": "mkt:019fb301-1565-7aab-8f12-6f5fb33d24c5",
-      "time": "2026-07-30 20:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "US initial jobless claims 4-week moving average for week ended July 25: 202.75k; prior revised from 207.50k to 207.75k."
-    },
-    {
-      "id": "5017047",
-      "time": "2026-07-30 20:30:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國上週首次申領失業救濟人數為197,000人；預估為200,000人。"
-    },
-    {
-      "id": "mkt:019fb301-0a08-7aab-8f12-6554c2dca83d",
-      "time": "2026-07-30 20:30:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US continuing jobless claims for the week ended July 18: 1.782 mln vs. consensus 1.798 mln; prior week revised from 1.796 mln to 1.789 mln."
-    },
-    {
-      "id": "5017046",
-      "time": "2026-07-30 20:30:11",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國6月份個人消費支出環比增長0.3% 預估為0.4%。"
-    },
-    {
-      "id": "mkt:019fb300-eacb-7aab-8f12-5c3fffc1374e",
-      "time": "2026-07-30 20:30:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Advance Estimate of Annualized QuarterOver-Quarter GDP (Q2) | actual 2.2% | consensus 2% | previous 1.9%"
-    },
-    {
-      "id": "mkt:019fb300-e9fe-7aab-8f12-541a0a1f190f",
-      "time": "2026-07-30 20:30:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US initial jobless claims for the week ended July 25: 197,000 vs 200,000 consensus; prior week revised to 188,000 from 187,000."
-    },
-    {
-      "id": "mkt:019fb300-e9a8-7aab-8f12-4a6494fff9e9",
-      "time": "2026-07-30 20:30:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Personal Consumption Expenditures SA Prelim (QoQ) (Q2) | actual 3.2% | consensus 2.3% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019fb300-e9a3-7aab-8f12-47d97a3821d9",
-      "time": "2026-07-30 20:30:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PCE Price Index (YoY) (Jun) | actual 3.3% | consensus 3.30% | previous 3.40%"
-    },
-    {
-      "id": "mkt:019fb300-e9a2-7aab-8f12-3b100a626883",
-      "time": "2026-07-30 20:30:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PCE Price Index annualized quarterover-quarter rate initial (Q2) | actual 5.1% | previous 4.6%"
-    },
-    {
-      "id": "mkt:019fb300-e940-7aab-8f12-2b9880497865",
-      "time": "2026-07-30 20:30:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PCE Price Index (YoY) (Jun) | actual 3.7% | consensus 3.7% | previous 4.10%"
-    },
-    {
-      "id": "mkt:019fb300-e952-7aab-8f12-32f236feea4a",
-      "time": "2026-07-30 20:30:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PCE Price Index SAAR Preliminary (QoQ) (Q2) | actual 3.4% | consensus 3.5% | previous 4.40%"
-    },
-    {
-      "id": "mkt:019fb300-e3bd-7aab-8f12-2286f6bbfcc8",
-      "time": "2026-07-30 20:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Real GDP Rate SAAR Advance (QoQ) (Q2) | actual 1.5% | consensus 2.1% | previous 2.10%"
-    },
-    {
-      "id": "mkt:019fb300-dcb7-7aab-8f12-1775abee0b39",
-      "time": "2026-07-30 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PCE Price Index (MoM) (Jun) | actual 0.1% | consensus 0.2% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019fb300-dcc1-7aab-8f12-1e69a43cc61e",
-      "time": "2026-07-30 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Personal Consumption Expenditures (MoM) (Jun) | actual 0.4% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019fb300-dcb3-7aab-8f12-06b7fd619d5b",
-      "time": "2026-07-30 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Personal Spending (MoM) (Jun) | actual 0.3% | consensus 0.3% | previous 0.70%"
-    },
-    {
-      "id": "mkt:019fb300-dcb4-7aab-8f12-0cc2f35114d0",
-      "time": "2026-07-30 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PCE Price Index (MoM) (Jun) | actual -0.1% | consensus -0.10% | previous 0.40%"
-    },
-    {
-      "id": "mkt:019fb300-dbfb-7aab-8f11-fa953a8c1ab6",
-      "time": "2026-07-30 20:30:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Personal Income (MoM) (Jun) | actual 0.2% | consensus 0.30% | previous 0.70%"
-    },
-    {
-      "id": "mkt:019fb300-ccbc-7aab-8f11-f65918da0bd4",
-      "time": "2026-07-30 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Continued Jobless Claims (Jul.18) | actual 1782000K | consensus 1798000K | previous 1796000K"
-    },
-    {
-      "id": "mkt:019fb300-ccbb-7aab-8f11-ef2fc2a0e7b8",
-      "time": "2026-07-30 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims 4-Week Average (Jul.25) | actual 202750K | previous 207500K"
-    },
-    {
-      "id": "mkt:019fb300-cc5b-7aab-8f11-e21114aa78cb",
-      "time": "2026-07-30 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims (Jul.25) | actual 197000K | consensus 200000K | previous 187000K"
-    },
-    {
-      "id": "5017045",
-      "time": "2026-07-30 20:29:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "倫敦證券交易所集團股價延續跌勢，目前跌幅已達5.1%。"
-    },
-    {
-      "id": "5017044",
-      "time": "2026-07-30 20:29:35",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行副行長隆巴代利：經濟活躍度比我們預期的更具韌性，但整體仍偏疲軟。"
-    },
-    {
-      "id": "5017043",
-      "time": "2026-07-30 20:29:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷軍：小米澎程系列將搭載4nm座艙SoC晶片】在今日的小米澎程技術釋出會上，小米集團CEO雷軍表示，小米澎程系列將搭載4nm座艙SoC晶片，4nm輔助駕駛計算晶片（NVIDIA DRIVE AGX Thorm車載計算平臺）。（科創板日報）"
-    },
-    {
-      "id": "5017042",
-      "time": "2026-07-30 20:28:38",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行副行長隆巴代利：經濟活動態勢相對疲軟。"
-    },
-    {
-      "id": "te:markets:571253",
-      "time": "2026-07-30 20:27:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rebound — European stocks extended their gains on Thursday amid strong GDP data and favorable corporate results. The Euro STOXX 50 added nearly 1% to 6,300 and the STOXX Europe 600 gained 0.7% to 649. The Eurozone GDP expanded by 0.4% in the second quarter, firmly above market expectations of 0.2% to reflect some resilience to soaring energy prices and sovereign yields in the period. Still, economic optimism was buffered by elevated EU-harmonized inflation rates, with pickups across Spain and Germany. Schneider Electric surged 9% after raising its full-year targets. BBVA climbed 3.5% after reporting an 11.4% increase in net profit. Also, ING rose more than 4% after posing their results, lifting other banks. Other banks also rallied. On top of that, Ferrari maintained its slight gains after raising its guidance. On the downside, Adidas slumped more than 16% after its heavy marketing campaigns around the FIFA World Cup triggered a surge in outlays."
-    },
-    {
-      "id": "mkt:019fb2fe-7636-7aab-8f11-dbcd0f208077",
-      "time": "2026-07-30 20:27:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "TASNIM NEWS, citing a former Israeli military intelligence officer, reported Iran has shifted from discussing its nuclear program to negotiating over the Strait of Hormuz."
     }
   ]
 }
