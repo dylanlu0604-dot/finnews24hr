@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-06 14:56:55",
-  "count": 17221,
+  "updated": "2026-08-06 15:01:28",
+  "count": 17211,
   "items": [
+    {
+      "id": "5028163",
+      "time": "2026-08-06 15:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士7月季調後失業率 3.1%，預期 3.1%，前值 3.1%。瑞士7月未季調失業率 3%，預期 3%，前值 2.9%。"
+    },
+    {
+      "id": "mkt:019fd5df-4c4f-7aab-8f9b-d4db4516d26d",
+      "time": "2026-08-06 15:00:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain June seasonally adjusted industrial production YoY 1.1%; prior value revised to 3.1% from 3.4%."
+    },
+    {
+      "id": "mkt:019fd5df-49f5-7aab-8f9b-ca12dfa0d539",
+      "time": "2026-08-06 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's non-seasonally adjusted unemployment rate was 3.00% in July, prior 2.90%."
+    },
+    {
+      "id": "5028162",
+      "time": "2026-08-06 15:00:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫鎳日內跌超3.00%，現報16574.100美元/噸。"
+    },
+    {
+      "id": "mkt:019fd5df-4504-7aab-8f9b-c37809696ae9",
+      "time": "2026-08-06 15:00:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland July seasonally adjusted unemployment rate 3.1% (expected 3.1%; prior 3.1%)."
+    },
+    {
+      "id": "5028161",
+      "time": "2026-08-06 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.29%，英國富時100指數漲0.08%，法國CAC40指數漲0.03%，歐洲斯托克50指數跌0.15%，義大利富時MIB指數跌0.18%。"
+    },
+    {
+      "id": "5028160",
+      "time": "2026-08-06 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.43%， 滬深300指數期貨連續跌0.13%， 中證500指數期貨連續跌0.07%， 上證50指數期貨連續基本持平。"
+    },
+    {
+      "id": "5028159",
+      "time": "2026-08-06 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】黃金連續漲3.44%，焦炭連續漲2.72%，鐵礦石連續漲2.64%，鎳連續跌2.62%，白銀連續漲2.61%。"
+    },
+    {
+      "id": "mkt:019fd5df-2b24-7aab-8f9b-bf3df0a1371c",
+      "time": "2026-08-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate NSA (Jul) | actual 3% | previous 2.90%"
+    },
+    {
+      "id": "mkt:019fd5df-2b17-7aab-8f9b-b0659db6ed5d",
+      "time": "2026-08-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate SA (Jul) | actual 3.1% | consensus 3.10% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019fd5df-2ab2-7aab-8f9b-ac352ae9967a",
+      "time": "2026-08-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Industrial Production SA (YoY) (Jun) | actual 1.1% | previous 3.40%"
+    },
+    {
+      "id": "mkt:019fd5de-8ced-7aab-8f9b-a6d0d99cce92",
+      "time": "2026-08-06 14:59:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Copper",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【AI sub-sector analysis (3): constraint likely to shift from chips to datacenter power/infrastructure within 18–24 months】JP Morgan (Aug. 5) says AI chips (GPU, CPU, memory, storage devices) will remain the primary bottleneck for AI compute infrastructure through most of 2026–27, but semiconductor capacity is accelerating and the industry retains high expansion flexibility with sufficient lead time. The bank warns that at some point in the next 18–24 months, delays in datacenter deployment and limits on power supply (grid and on-site/independent solutions) could supplant chips as the key constraint on AI compute. Although datacenter rollout has so far exceeded expectations and not impeded cloud AI deployment or token output, JP Morgan flags power and infrastructure bottlenecks as the market variables to watch in H2 2027 and 2028."
+    },
+    {
+      "id": "5028158",
+      "time": "2026-08-06 14:57:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德國商業銀行宣佈12億歐元股票回購計劃 季度淨利潤超出預期】德國商業銀行宣佈一項新的股票回購計劃，在競爭對手義大利裕信準備控制該行之際，執行長Bettina Orlopp試圖證明她的策略能夠帶來豐厚回報。據週四的公告，德國商業銀行將回購至多12億歐元（14億美元）的自身股票。截至6月的三個月，淨利潤為8.98億歐元，高於分析師平均預期的8.56億歐元。Orlopp在宣告中表示，“我們正在實現盈利增長，投資於未來，並每天向客戶證明我們業務的實力。”德國商業銀行正面臨裕信的進一步控制，後者計劃將其在這家德國銀行的持股比例增至近50%。裕信執行長Andrea Orcel承諾，一旦掌控該行，將會進行徹底改革，但Orlopp強烈反對他的一些提議。"
+    },
+    {
+      "id": "5028157",
+      "time": "2026-08-06 14:57:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【IMT-2030（6G）推進組星地融合（NTN）工作組近日在北京成立】在工業和資訊化部資訊通訊發展司指導下，IMT-2030（6G）推進組星地融合（NTN）工作組近日在北京成立。中國電信、中國移動、中國聯通、中國衛通、中興通訊、小米等多家上市公司位列其中，與產業鏈上下游企業及科研機構一道，共同參與6G星地融合網路總體佈局和衛星通訊核心技術培育，推動星地產業深度融合。（上證報）"
+    },
+    {
+      "id": "5028156",
+      "time": "2026-08-06 14:56:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1319億元。"
+    },
+    {
+      "id": "5028155",
+      "time": "2026-08-06 14:56:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東外賣上線“今日半價”】據京東訊息，京東外賣【今日半價】IP上線，從週一到週五，天天半價不重樣還有9.9元限量秒殺。"
+    },
     {
       "id": "mkt:019fd5db-3b4b-7aab-8f9b-9dfa924d3a19",
       "time": "2026-08-06 14:55:42",
@@ -158070,272 +158218,6 @@
         "Impact bullish"
       ],
       "text": "At the midday close, China’s main futures contracts were mostly down: lithium carbonate and iron ore slipped more than 3%; soda ash and rapeseed meal fell over 2%; ferrosilicon, glass and rebar were down about 2%. On the upside, Shanghai crude (SC) jumped over 6%, ethylene glycol (EG) gained nearly 5%, fuel oil rose about 4%, paraxylene (PX), PET chips and low-sulfur fuel oil (LU) advanced more than 3%, while PTA and short fiber rose roughly 3%."
-    },
-    {
-      "id": "5016073",
-      "time": "2026-07-30 15:01:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中微公司在武漢成立新公司 註冊資本5000萬】天眼查App顯示，近日，中微半導體裝置（武漢）有限公司成立，法定代表人為尹志堯，註冊資本5000萬人民幣，經營範圍含半導體器件專用裝置製造、電子專用裝置製造等。股東資訊顯示，該公司由中微公司（688012）全資持股。"
-    },
-    {
-      "id": "5016072",
-      "time": "2026-07-30 15:01:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌0.62%，深證成指跌2.73%，創業板指跌3.97%。"
-    },
-    {
-      "id": "5016071",
-      "time": "2026-07-30 15:01:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆維吾爾自治區博爾塔拉蒙古自治州人民政府副州長杜應昆接受審查調查】中央紀委國家監委網站7月30日通報，據新疆維吾爾自治區紀委監委訊息：新疆維吾爾自治區博爾塔拉蒙古自治州人民政府黨組成員、副州長杜應昆涉嫌嚴重違紀違法，目前正接受新疆維吾爾自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019fb1d3-7490-7aab-8f07-465784c23315",
-      "time": "2026-07-30 15:00:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain HICP preliminary MoM July -0.1% (exp -0.2%); June +0.6%."
-    },
-    {
-      "id": "mkt:019fb1d3-523a-7aab-8f07-394fbd6f11b8",
-      "time": "2026-07-30 15:00:44",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "Spain July CPI preliminary MoM +0.2% (consensus +0.2%); June +0.60%."
-    },
-    {
-      "id": "5016070",
-      "time": "2026-07-30 15:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門啟動全國區劃地名文物名錄建設 首批試點約15個】今天，民政部辦公廳、國家文物局辦公室共同釋出通知，要在全國開展區劃地名文物名錄建設試點，讓承載著中華文明基因的區劃地名文物“活”起來。通知指出，試點期限原則上為1年。各地要結合第四次全國文物普查，以不可移動文物目錄為基礎，篩選認定一批文物，能夠充分體現行政區劃地名歷史沿革和演進歷程。參考《區劃地名不可移動文物提示類別》，可以包括但不限於：古文化遺址，古墓葬、古建築、石窟寺及石刻、近現代重要史蹟及代表性建築等。通知明確，首批區劃地名文物名錄建設試點地區為15個左右，計劃在全國範圍內遴選，主要以市（地、州、盟）為單元，基礎條件特別優秀的縣級單元也可納入。區劃地名文物名錄，應包含文物名稱、所在位置、產生年代、儲存現狀、保護級別、管理責任機構（人）以及所蘊含的區劃地名歷史文化資訊等基本要素。試點堅持“保護第一，傳承優先”原則。（央視新聞）"
-    },
-    {
-      "id": "5016069",
-      "time": "2026-07-30 15:00:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "市場監管總局公佈六起市場化活動違法違規行為專項整治典型案件。"
-    },
-    {
-      "id": "mkt:019fb1d2-db2e-7aab-8f07-313373715d18",
-      "time": "2026-07-30 15:00:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain Q2 preliminary GDP QoQ 0.7% vs 0.6% expected; prior 0.60%."
-    },
-    {
-      "id": "mkt:019fb1d2-d9dc-7aab-8f07-284fb9054453",
-      "time": "2026-07-30 15:00:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Switzerland's KOF economic barometer for July 103.5, vs. 101 expected; prior reading revised to 102.1 from 101.2."
-    },
-    {
-      "id": "mkt:019fb1d2-d8b0-7aab-8f07-24602571f568",
-      "time": "2026-07-30 15:00:12",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain July preliminary CPI YoY 3.5% (consensus 3.4%; June 3.2%)."
-    },
-    {
-      "id": "mkt:019fb1d2-d735-7aab-8f07-1c7fcbe605ab",
-      "time": "2026-07-30 15:00:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain Q2 preliminary annualized GDP 2.7% vs 2.5% expected; prior 2.7%."
-    },
-    {
-      "id": "te:markets:571064",
-      "time": "2026-07-30 15:00:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Italy Hit 4-week Low — IT40 decreased to 51235.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Italy Stock Market Index (IT40) lost 0.64%, and in the last 12 months, it increased 25.1%."
-    },
-    {
-      "id": "mkt:019fb1d2-d721-7aab-8f07-1127a1cf826a",
-      "time": "2026-07-30 15:00:08",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Spain July HICP preliminary YoY 3.8% (exp. 3.7%; prev. 3.6%)."
-    },
-    {
-      "id": "5016068",
-      "time": "2026-07-30 15:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】上海原油連續漲6.19%，乙二醇連續漲4.75%，燃料油連續漲3.89%，碳酸鋰連續跌3.68%，對二甲苯連續漲3.50%，瓶片連續漲3.35%。"
-    },
-    {
-      "id": "5016067",
-      "time": "2026-07-30 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數跌0.01%，英國富時100指數漲0.34%，法國CAC40指數跌0.6%，歐洲斯托克50指數跌0.65%，義大利富時MIB指數跌0.49%。"
-    },
-    {
-      "id": "5016066",
-      "time": "2026-07-30 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌2.56%， 滬深300指數期貨連續跌0.83%， 中證500指數期貨連續跌2.57%， 上證50指數期貨連續漲0.23%。"
-    },
-    {
-      "id": "mkt:019fb1d2-a849-7aab-8f07-053a7bec4fde",
-      "time": "2026-07-30 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | CPI Flash (YoY) (Jul) | actual 3.5% | consensus 3.4% | previous 3.20%"
-    },
-    {
-      "id": "mkt:019fb1d2-a849-7aab-8f07-0a514f9a1111",
-      "time": "2026-07-30 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Preliminary Quarterly GDP (Q2) | actual 0.7% | consensus 0.6% | previous 0.60%"
-    },
-    {
-      "id": "mkt:019fb1d2-a847-7aab-8f06-f89f5891aee4",
-      "time": "2026-07-30 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Preliminary Annual GDP (Q2) | actual 2.7% | consensus 2.5% | previous 2.70%"
-    },
-    {
-      "id": "mkt:019fb1d2-a847-7aab-8f06-f7502e5584be",
-      "time": "2026-07-30 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | HICP Flash (YoY) (Jul) | actual 3.8% | consensus 3.7% | previous 3.60%"
-    },
-    {
-      "id": "mkt:019fb1d2-a80a-7aab-8f06-efcee870785d",
-      "time": "2026-07-30 15:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Switzerland | KOF Economic Leading Indicator (Jul) | actual 103.5 | consensus 101 | previous 101.2"
-    },
-    {
-      "id": "5016065",
-      "time": "2026-07-30 14:59:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將星巴克目標股價從111美元上調至115美元。"
-    },
-    {
-      "id": "mkt:019fb1d1-d07f-7aab-8f06-e1ca7e18ce15",
-      "time": "2026-07-30 14:59:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "SHEL.N",
-        "Impact bearish"
-      ],
-      "text": "Shell (SHEL.N) CFO says refinery maintenance will increase next quarter."
-    },
-    {
-      "id": "5016064",
-      "time": "2026-07-30 14:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "雷諾首席財務官表示，今年上半年，雷諾在歐洲短期租賃市場的中國競爭對手銷量幾乎翻了一番。"
-    },
-    {
-      "id": "mkt:019fb1d0-1990-7aab-8f06-de6567d3e26a",
-      "time": "2026-07-30 14:57:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Low Danube forces Hungary, Romania to shut nuclear reactors】Historic low Danube water levels have forced Hungary and Romania to take nuclear reactors offline because cooling-water supply cannot be guaranteed. Hungary’s Paks operator said it will shut one of the plant’s four reactors from 13:00 GMT on the 29th. Paks is Hungary’s only nuclear plant, with 2 GW total installed capacity and accounting for roughly half of the country’s electricity. Romania’s energy sector said Cernavodă Unit 2 will be taken offline from 10:00 local time on the 30th; Unit 1 was shut on the 28th. These outages reduce baseload nuclear generation in both countries."
-    },
-    {
-      "id": "te:markets:571060",
-      "time": "2026-07-30 14:57:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TAIEX Hits 3-Month Low, Ends Below 40,000 — The TAIEX, Taiwan's benchmark stock index, fell 106 points, or 0.3%, to close at 39,933 on Thursday, retreating for the fifth consecutive session and marking its lowest level since April 30, mainly weighed down by energy minerals, technology services, and electronic technology stocks. Electronic technology stocks continued to decline amid concerns over returns on AI investment, falling 0.4% after plunging 3.8% in the previous session, mainly weighed down by Hon Hai Precision Industry (-3.2%), Nanya Technology (-7.2%), and Quanta Computer (-9.9%). However, TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 0.2%, rebounding from a 2.2% decline a day earlier after being included among the top 100 companies in this year's Fortune Global 500 for the first time. Meanwhile, moderating oil prices eased inflation concerns and expectations of an interest rate hike, limiting the decline."
     }
   ]
 }

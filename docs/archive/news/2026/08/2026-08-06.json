@@ -1,7 +1,155 @@
 {
   "date": "2026-08-06",
-  "count": 1265,
+  "count": 1281,
   "items": [
+    {
+      "id": "5028163",
+      "time": "2026-08-06 15:00:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士7月季調後失業率 3.1%，預期 3.1%，前值 3.1%。瑞士7月未季調失業率 3%，預期 3%，前值 2.9%。"
+    },
+    {
+      "id": "mkt:019fd5df-4c4f-7aab-8f9b-d4db4516d26d",
+      "time": "2026-08-06 15:00:08",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain June seasonally adjusted industrial production YoY 1.1%; prior value revised to 3.1% from 3.4%."
+    },
+    {
+      "id": "mkt:019fd5df-49f5-7aab-8f9b-ca12dfa0d539",
+      "time": "2026-08-06 15:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's non-seasonally adjusted unemployment rate was 3.00% in July, prior 2.90%."
+    },
+    {
+      "id": "5028162",
+      "time": "2026-08-06 15:00:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫鎳日內跌超3.00%，現報16574.100美元/噸。"
+    },
+    {
+      "id": "mkt:019fd5df-4504-7aab-8f9b-c37809696ae9",
+      "time": "2026-08-06 15:00:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Switzerland July seasonally adjusted unemployment rate 3.1% (expected 3.1%; prior 3.1%)."
+    },
+    {
+      "id": "5028161",
+      "time": "2026-08-06 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數跌0.29%，英國富時100指數漲0.08%，法國CAC40指數漲0.03%，歐洲斯托克50指數跌0.15%，義大利富時MIB指數跌0.18%。"
+    },
+    {
+      "id": "5028160",
+      "time": "2026-08-06 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.43%， 滬深300指數期貨連續跌0.13%， 中證500指數期貨連續跌0.07%， 上證50指數期貨連續基本持平。"
+    },
+    {
+      "id": "5028159",
+      "time": "2026-08-06 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】黃金連續漲3.44%，焦炭連續漲2.72%，鐵礦石連續漲2.64%，鎳連續跌2.62%，白銀連續漲2.61%。"
+    },
+    {
+      "id": "mkt:019fd5df-2b24-7aab-8f9b-bf3df0a1371c",
+      "time": "2026-08-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate NSA (Jul) | actual 3% | previous 2.90%"
+    },
+    {
+      "id": "mkt:019fd5df-2b17-7aab-8f9b-b0659db6ed5d",
+      "time": "2026-08-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Unemployment Rate SA (Jul) | actual 3.1% | consensus 3.10% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019fd5df-2ab2-7aab-8f9b-ac352ae9967a",
+      "time": "2026-08-06 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Spain | Industrial Production SA (YoY) (Jun) | actual 1.1% | previous 3.40%"
+    },
+    {
+      "id": "mkt:019fd5de-8ced-7aab-8f9b-a6d0d99cce92",
+      "time": "2026-08-06 14:59:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Copper",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【AI sub-sector analysis (3): constraint likely to shift from chips to datacenter power/infrastructure within 18–24 months】JP Morgan (Aug. 5) says AI chips (GPU, CPU, memory, storage devices) will remain the primary bottleneck for AI compute infrastructure through most of 2026–27, but semiconductor capacity is accelerating and the industry retains high expansion flexibility with sufficient lead time. The bank warns that at some point in the next 18–24 months, delays in datacenter deployment and limits on power supply (grid and on-site/independent solutions) could supplant chips as the key constraint on AI compute. Although datacenter rollout has so far exceeded expectations and not impeded cloud AI deployment or token output, JP Morgan flags power and infrastructure bottlenecks as the market variables to watch in H2 2027 and 2028."
+    },
+    {
+      "id": "5028158",
+      "time": "2026-08-06 14:57:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德國商業銀行宣佈12億歐元股票回購計劃 季度淨利潤超出預期】德國商業銀行宣佈一項新的股票回購計劃，在競爭對手義大利裕信準備控制該行之際，執行長Bettina Orlopp試圖證明她的策略能夠帶來豐厚回報。據週四的公告，德國商業銀行將回購至多12億歐元（14億美元）的自身股票。截至6月的三個月，淨利潤為8.98億歐元，高於分析師平均預期的8.56億歐元。Orlopp在宣告中表示，“我們正在實現盈利增長，投資於未來，並每天向客戶證明我們業務的實力。”德國商業銀行正面臨裕信的進一步控制，後者計劃將其在這家德國銀行的持股比例增至近50%。裕信執行長Andrea Orcel承諾，一旦掌控該行，將會進行徹底改革，但Orlopp強烈反對他的一些提議。"
+    },
+    {
+      "id": "5028157",
+      "time": "2026-08-06 14:57:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【IMT-2030（6G）推進組星地融合（NTN）工作組近日在北京成立】在工業和資訊化部資訊通訊發展司指導下，IMT-2030（6G）推進組星地融合（NTN）工作組近日在北京成立。中國電信、中國移動、中國聯通、中國衛通、中興通訊、小米等多家上市公司位列其中，與產業鏈上下游企業及科研機構一道，共同參與6G星地融合網路總體佈局和衛星通訊核心技術培育，推動星地產業深度融合。（上證報）"
+    },
+    {
+      "id": "5028156",
+      "time": "2026-08-06 14:56:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1319億元。"
+    },
+    {
+      "id": "5028155",
+      "time": "2026-08-06 14:56:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東外賣上線“今日半價”】據京東訊息，京東外賣【今日半價】IP上線，從週一到週五，天天半價不重樣還有9.9元限量秒殺。"
+    },
     {
       "id": "mkt:019fd5db-3b4b-7aab-8f9b-9dfa924d3a19",
       "time": "2026-08-06 14:55:42",
