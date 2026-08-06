@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-06 22:08:56",
-  "count": 16726,
+  "updated": "2026-08-06 22:13:01",
+  "count": 16720,
   "items": [
+    {
+      "id": "mkt:019fd76a-bac6-7aab-8fa3-1e1deaa271d9",
+      "time": "2026-08-06 22:12:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "TSLA.O"
+      ],
+      "text": "【Tesla: Terafab to build Grimes County, Texas wafer fab targeting >1 TW compute capacity】Tesla and SpaceX will locate Terafab in Grimes County, Texas. The project is a vertically integrated advanced wafer fab covering advanced logic, memory, packaging and test, with planned manufacturing area of more than 100 million sq ft. Tesla and SpaceX forecast combined chip demand exceeding 1 terawatt (TW) of compute, a scale they say outstrips current global supply. Terafab is intended to close the widening supply-demand gap and speed deployment by co-locating manufacturing, packaging and testing. Tesla began construction in April on an R&D wafer fab at its Texas Gigafactory north campus as a precursor and urged existing chip suppliers to expand capacity where feasible."
+    },
+    {
+      "id": "mkt:019fd769-432c-7aab-8fa3-122e2ddfdb22",
+      "time": "2026-08-06 22:10:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY jumped about 40 pips intraday, briefly broke above 158, up 0.18% on the day."
+    },
+    {
+      "id": "5029148",
+      "time": "2026-08-06 22:10:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元USD/JPY短線拉昇約40點，突破158，日內漲0.18%。"
+    },
+    {
+      "id": "te:markets:573428",
+      "time": "2026-08-06 22:09:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Steady as Earnings Offset Oil Gains — The S&P/TSX Composite Index was little changed near the 36,000 mark on Thursday following a record close, amid uncertain prospects of a US-Iran peace deal and another round of corporate earnings. Oil prices rose as markets remained cautious over the Iran-Oman talks after traffic through the Strait of Hormuz and the Bab el-Mandeb Strait declined following Houthi claims of a missile attack on a oil tanker. Higher oil prices pushed bond yields higher. Credit-sensitive stocks traded near the flatline. Canadian Natural (+1.5%) gained after beating second-quarter profit estimates, supported by stronger oil and natural gas prices. Lundin Mining fell nearly 1.5% despite reporting higher second-quarter revenue. WPM (+0.5%) and Sun Life Financial (+0.3%) are set to report earnings after the close. Shopify gained 0.5% after at least six brokerages raised their price targets. Celestica plunged 13% after pricing a common share offering at a significant discount to the previous session's close."
+    },
+    {
+      "id": "5029147",
+      "time": "2026-08-06 22:09:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "MONOLITH MANAGEMENT洽談參與DEEPSEEK融資，尋求獲得投資份額。"
+    },
+    {
+      "id": "5029146",
+      "time": "2026-08-06 22:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "拿森智慧科技香港IPO募資總額6億港元。"
+    },
+    {
+      "id": "5029145",
+      "time": "2026-08-06 22:08:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電話電報公司選定愛立信提供 600 兆赫茲雙頻段無線電裝置。"
+    },
     {
       "id": "5029144",
       "time": "2026-08-06 22:08:11",
@@ -153126,128 +153196,6 @@
         "其他"
       ],
       "text": "美元兌日元跌幅擴大至約2.7%。"
-    },
-    {
-      "id": "mkt:019fb35e-c9d3-7aab-8f16-2264ba9dec1a",
-      "time": "2026-07-30 22:12:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY is set to post its largest one-day decline since Dec 2022."
-    },
-    {
-      "id": "5017298",
-      "time": "2026-07-30 22:12:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【日元全線飆升 數個日元貨幣對重挫超百點】日元短線快速升值，引發干預猜測。截至發稿，美元兌日元、歐元兌日元均累計下跌約350點，英鎊兌日元累計下跌約400點，加元兌日元累計下跌超200點，澳元兌日元累計下跌超150點。"
-    },
-    {
-      "id": "5017297",
-      "time": "2026-07-30 22:12:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌雲COO德索薩將出任Scale AI執行長】據7月30日宣告，谷歌雲營運長兼安全產品總裁弗朗西斯·德索薩（Francis deSouza）將於當地時間8月10日正式就任Scale AI執行長。"
-    },
-    {
-      "id": "mkt:019fb35e-354d-7aab-8f16-1fe476166538",
-      "time": "2026-07-30 22:12:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Students' News Agency (ISNA) reports Yemen's foreign ministry denies it carried out an attack on vessels at Egypt's Damietta port."
-    },
-    {
-      "id": "5017296",
-      "time": "2026-07-30 22:11:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "原加密礦企轉型AI資料中心服務商的Hut 8股價大漲16%。"
-    },
-    {
-      "id": "5017295",
-      "time": "2026-07-30 22:11:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，若霍爾木茲海峽恢復開放，Pearl天然氣制油廠預計將於2027年第一季度末恢復運營。"
-    },
-    {
-      "id": "5017294",
-      "time": "2026-07-30 22:11:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "加密礦企riot平臺公司與瑪拉控股股價均大漲超17%，疊加整體市場反彈行情。"
-    },
-    {
-      "id": "5017293",
-      "time": "2026-07-30 22:10:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌執行長表示，卡達液化天然氣資產復產比珍珠天然氣制油專案更容易，首要任務是保障出口航道安全。"
-    },
-    {
-      "id": "mkt:019fb35d-2a07-7aab-8f16-164ca91adcea",
-      "time": "2026-07-30 22:10:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Yen jumps across the board; several yen pairs plunge 100+ pips】The yen rallied sharply in a short window, prompting intervention speculation. As of this release, USD/JPY and EUR/JPY have each fallen about 350 pips, GBP/JPY about 400 pips, CAD/JPY over 200 pips and AUD/JPY over 150 pips."
-    },
-    {
-      "id": "te:markets:571296",
-      "time": "2026-07-30 22:10:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Edges Higher on Financials and Miners Gains — The S&P/TSX Composite Index edged higher to trade above 35,000 on Thursday, supported by gains in financial and mining stocks. Financials advanced, with RBC, TD Bank, CIBC, and Scotiabank up about 1% each. Gold prices rose, lifting miners, with Barrick and Franco-Nevada gaining nearly 1%. Technology stocks were mostly lower, with Shopify down 3% and Constellation Software losing nearly 4%, tracking weakness in US software application shares after Meta's guidance disappointed investors. In contrast, Celestica surged 6%, following a rally in US chipmakers. On the earnings front, Vermilion Energy (+2.5%), Kinross Gold (+0.2%), Cenovus (+0.3%), Alamos Gold (-2%), and Loblaw (-0.5%) reported results above expectations, while Ivanhoe Mines (+0.1%) and Tourmaline Oil (-3%) missed estimates. Canadian Natural (-0.5%) and Fairfax Financial (-1%) are due to report after the market close."
-    },
-    {
-      "id": "5017292",
-      "time": "2026-07-30 22:10:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌首席財務官表示，殼牌預計整體成本通脹率為5%至6%。"
-    },
-    {
-      "id": "5017291",
-      "time": "2026-07-30 22:09:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "殼牌首席財務官稱，液化天然氣交易團隊回購了部分殼牌自有貨源，用以向客戶交付。"
-    },
-    {
-      "id": "te:markets:571295",
-      "time": "2026-07-30 22:09:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Rebounds on Thursday — The Baltic dry index rose 1.6% to 2,673 on Thursday, recovering from three consecutive sessions of losses. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 2.5% to 4,167. Also, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 2.3% to 2,040, its highest level since July 24. On the other hand, the supramax index decreased 1.1% to 1,610, its lowest level in three weeks."
     }
   ]
 }
