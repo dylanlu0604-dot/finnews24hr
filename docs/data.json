@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-06 10:09:45",
-  "count": 17364,
+  "updated": "2026-08-06 10:13:40",
+  "count": 17360,
   "items": [
+    {
+      "id": "mkt:019fd4d8-2a62-7aab-8f98-c0c630925856",
+      "time": "2026-08-06 10:12:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【China Gold Association: 1H 2026 domestic gold ETF inflows down 66.17% YoY】China Gold Association data show domestic gold ETF inflows in 1H 2026 totaled 28.677 tonnes, down 66.17% YoY. Domestic gold ETF holdings were 276.529 tonnes at end-June 2026. China increased official gold reserves by 40.12 tonnes in 1H 2026, bringing total reserves to 2,346.45 tonnes at end-June and ranking fifth globally. China has added to official gold reserves for 20 consecutive months from November 2024 through June 2026."
+    },
+    {
+      "id": "mkt:019fd4d7-a8f9-7aab-8f98-bdc86acd25a7",
+      "time": "2026-08-06 10:12:10",
+      "tags": [
+        "MKT News",
+        "300750.SZ",
+        "Impact bearish",
+        "03750.HK",
+        "CSI300"
+      ],
+      "text": "CATL A-shares down more than 3%; Hong Kong-listed CATL (03750.HK) down more than 2%."
+    },
+    {
+      "id": "5027835",
+      "time": "2026-08-06 10:12:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念震盪反彈，方正科技等多股漲停】PCB概念震盪反彈，方正科技、寶鼎科技、景旺電子漲停，科翔股份漲超15%，威爾高、勁拓股份、中鎢高新、中富電路、本川智慧等跟漲。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608063833598449",
+      "time": "2026-08-06 10:11:04",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國黃金協會：上半年我國黃金消費量511.412噸 同比增長1.23%】據中國黃金協會最新統計資料顯示：2026年上半年，我國黃金消費量511.412噸，同比增長1.23%。其中：黃金首飾132.133噸，同比下降33.88%；金條及金幣339.336噸，同比增長28.42%；工業及其他用金39.943噸，同比下降2.90%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608063833593129",
+      "time": "2026-08-06 10:10:29",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國機械工業聯合會：6月機械工業出廠價格上漲0.7% 結束38個月連跌態勢】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業出廠價格在上游價格持續上漲的帶動下降幅逐步收窄，5月由負轉正，6月上漲0.7%，結束了連續38個月同比下降的態勢。"
+    },
+    {
+      "id": "5027834",
+      "time": "2026-08-06 10:10:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國黃金協會：上半年國內黃金ETF增倉量28.677噸，同比下降66.17%】8月6日，據中國黃金協會最新統計資料顯示：2026年上半年，國內黃金ETF增倉量為28.677噸，較2025年上半年下降66.17%。至2026年6月底，國內黃金ETF持倉量為276.529噸。2026年上半年，我國增持黃金40.12噸，截至6月底，我國黃金儲備為2346.45噸，位居全球第五位。從2024年11月至2026年6月，我國已連續20個月增持黃金。"
+    },
+    {
+      "id": "5027833",
+      "time": "2026-08-06 10:09:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【純流量卡可能是物聯網絡卡 有風險】隨著三大運營商全面停止透過第三方網際網路渠道銷售號卡，一些打著“0月租”“隨充隨用”的“純流量卡”廣告，卻在部分電商平臺和社交群組悄然升溫。8月6日，記者調查發現，這類看似物美價廉的純流量卡，實為嚴禁對個人銷售的物聯網絡卡，背後暗藏斷網、限速、流量虛標等多重陷阱。 然而，所謂的“純流量卡”卻暗藏風險。物聯網絡卡是運營商面向企業批次發售的專用SIM卡，可用於共享單車、自動售賣機等智慧終端裝置聯網。根據相關規定，物聯網絡卡僅限企業使用者批次購買，不得違規插入個人手機上使用，銷售商更不能向個人使用者出售。盤古智庫高階研究員江瀚提醒，消費者購買此類卡片面臨極高風險。這些被私下轉售的卡片往往伴隨嚴重虛假宣傳和售後缺失，後臺限速、流量虛標屬於常見現象；而一旦被運營商監測到違規插入手機，使用者隨時可能遭遇斷網甚至封號封機，屆時想要維權也投訴無門。他提醒廣大使用者，切勿貪圖便宜輕信“純流量卡”的花式廣告，用卡務必選擇運營商官方正規渠道，以免貪小便宜吃大虧。（北京日報）"
+    },
     {
       "id": "mkt:019fd4d4-66df-7aab-8f98-b2994bcddeba",
       "time": "2026-08-06 10:08:37",
@@ -48,6 +113,15 @@
         "國際"
       ],
       "text": "日本與美國企業，可能還有阿聯酋等國企業，將投資約2萬億日元在秋田縣建設日本最大的人工智慧資料中心。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608063833597028",
+      "time": "2026-08-06 10:07:59",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國機械工業聯合會：上半年機械工業增加值同比增長6.4%】中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業規模以上企業增加值同比增長6.4%，高於同期全國工業和製造業1個和0.8個百分點。主要涉及的五個國民經濟行業大類增加值均同比增長，通用裝置、專用裝置、汽車、電氣機械和儀器儀表製造業分別增長7.6%、8.2%、7.0%、6.1%和8.8%。"
     },
     {
       "id": "5027830",
@@ -159819,109 +159893,6 @@
         "Importance 1"
       ],
       "text": "Yen Strengthens on Broad Dollar Weakness — The Japanese yen traded around 163.5 per dollar on Thursday after rebounding in the previous session, supported by broad dollar weakness following the Federal Reserve’s decision to leave interest rates unchanged. However, three FOMC members dissented in favor of a rate hike, while Chair Kevin Warsh emphasized that the decision to keep rates steady should not be viewed as a sign of policy inertia, adding that markets would continue to respond to incoming economic data. Meanwhile, the Bank of Japan is widely expected to leave interest rates unchanged on Friday while signaling that additional rate hikes remain possible to help curb the yen’s weakness. Verbal intervention from Japanese authorities has so far done little to support the currency, while the BOJ has remained vague about the timing of further policy tightening. On the geopolitical front, the US was reportedly carrying out fresh air strikes on Iran following attacks on American forces in the region."
-    },
-    {
-      "id": "5015701",
-      "time": "2026-07-30 10:13:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州推出首個現房銷售試點】7月29日，廣州市規劃和自然資源局南沙區分局公開掛牌出讓一宗住宅用地的使用權，要求競得者承諾在其中一個地塊執行現房銷售，而地方政府則給予土地出讓金分期繳納的支援。南沙區住房和城鄉建設局相關人士對記者表示，這是廣州首個將“現房銷售承諾制”納入出讓條件的住宅專案，有效解決了“能否按時交房”的信任問題，下一步，該區將有序擴大現房銷售承諾制試點範圍，在更多優質地塊推廣這一模式，加快形成可複製經驗。（中國房地產報）"
-    },
-    {
-      "id": "5015700",
-      "time": "2026-07-30 10:13:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌2.01%，現報13383.871點；上證指數跌0.20%，現報3820.731點；創業板指跌3.47%，現報3261.444點。"
-    },
-    {
-      "id": "5015699",
-      "time": "2026-07-30 10:12:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒稱伊朗格什姆島和基什島遭美軍襲擊】據伊朗伊斯蘭共和國通訊社30日報道，美軍當天凌晨襲擊了包括格什姆島、基什島在內的霍爾木茲甘省部分地區。報道援引霍爾木茲甘省官員的話說，格什姆島附近一處地點遭美軍襲擊，目前正對事件進行評估。報道還說，當天凌晨，基什島傳來兩聲巨響。當地管理機構稱，襲擊未對城市設施和居民區造成損害，島上交通和機場執行未受影響。美軍中央司令部29日在社交媒體釋出訊息說，美軍於美國東部時間29日20時開始對伊朗發動空襲，從而結束了美軍自24日開始的短暫停火。此次空襲是對伊朗前一日企圖襲擊駐中東美軍的回應。（新華社）"
-    },
-    {
-      "id": "5015698",
-      "time": "2026-07-30 10:12:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本熊本地震已致28人死亡。（CCTV國際時訊）"
-    },
-    {
-      "id": "em:qqyh_mlc:202607303826268617",
-      "time": "2026-07-30 10:12:06",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【摩根大通將美聯儲加息預期提前至12月】7月30日，據報道，摩根大通目前預計美聯儲將在12月加息，早於該行此前預期的2027年下半年。"
-    },
-    {
-      "id": "5015697",
-      "time": "2026-07-30 10:11:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海口美蘭國際機場口岸今年出入境人員超100萬人次】從海口美蘭國際機場口岸瞭解到，今年以來，截至7月28日，美蘭出入境邊防檢查站驗放出入境人員突破100萬人次，同比增長18.7%，創美蘭國際機場口岸出入境客流同期新高。其中，入出境外籍旅客超33.9萬人次，同比增長24.7%。"
-    },
-    {
-      "id": "5015696",
-      "time": "2026-07-30 10:11:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子：到2026年，2nm專案將比2025年增長一倍以上】7月30日，三星電子表示，公司目前正在與博通及其他主要客戶就其他各類專案進行磋商，以持續拓展其在先進工藝節點上的晶片設計業務和產品組合。該公司預計，到2026年，其2nm專案將比2025年增長一倍以上。"
-    },
-    {
-      "id": "5015695",
-      "time": "2026-07-30 10:10:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4498.80點。"
-    },
-    {
-      "id": "5015694",
-      "time": "2026-07-30 10:10:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年1—6月國內遊戲市場實際銷售收入1884.50億元，同比增長12.17%】7月30日釋出的《2026年1—6月中國遊戲產業報告》顯示，2026年1—6月，國內遊戲市場實際銷售收入1884.50億元，同比增長12.17%；我國遊戲使用者規模為6.84億，同比增長0.82%；我國自主研發遊戲海外市場實際銷售收入為123.72億美元，同比增長30.22%。"
-    },
-    {
-      "id": "5015693",
-      "time": "2026-07-30 10:10:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌1%至4,553.76點。"
-    },
-    {
-      "id": "5015692",
-      "time": "2026-07-30 10:09:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "中際旭創成交額達200億元，現跌超10%。"
-    },
-    {
-      "id": "te:markets:570960",
-      "time": "2026-07-30 10:09:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed as Politburo Meeting Looms — The Shanghai Composite edged up 0.1% to 3,833 on Thursday, while the Shenzhen Component fell 1.1% to 13,502, as investors turned cautious ahead of the closely watched Politburo meeting later this week. The gathering is expected to set the policy tone for the remainder of the year, with markets looking for fresh signals on stimulus support to bolster growth. Investor caution follows weaker-than-expected Q2 GDP data, weighed down by sluggish domestic demand, muted private-sector investment, and the prolonged property-market contraction. Tech and AI-related stocks led the declines, particularly Cambricon Technologies (-3.7%), SMIC (-1.7%), Zhongji Innolight (-4.8%), and Eoptolink Technology (-5%). Sentiment remained under pressure as a correction in China's AI sector deepened amid concerns over elevated valuations and heavy spending. The weakness persisted despite Zhongji Innolight's Hong Kong debut after its HK$53.4 billion ($6.8 billion) IPO, the city's largest listing in seven years."
     }
   ]
 }
