@@ -1,7 +1,69 @@
 {
   "date": "2026-08-06",
-  "count": 1004,
+  "count": 1011,
   "items": [
+    {
+      "id": "5027962",
+      "time": "2026-08-06 12:01:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "太古股份公司 上半年第一次中期股息為A股每股 1.50港元。"
+    },
+    {
+      "id": "5027961",
+      "time": "2026-08-06 12:00:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中環領先、中環海河基金等成立新材料科技公司】企查查APP顯示，近日，天津環曜新材料科技有限公司成立，法定代表人為孫健，註冊資本為6.3億元，經營範圍包含：新材料技術研發；電子專用材料研發；電子專用材料製造；積體電路製造；積體電路銷售等。企查查股權穿透顯示，該公司由TCL中環控股子公司中環領先半導體科技股份有限公司、天津中環海河智慧製造基金合夥企業（有限合夥）等共同持股。"
+    },
+    {
+      "id": "5027960",
+      "time": "2026-08-06 12:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大模型競爭白熱化，張一鳴喊話：位元組跳動“拒絕蒸餾”】在AI競爭白熱化的當下，位元組跳動創始人張一鳴罕見發聲。8月6日，澎湃新聞記者從位元組跳動內部人士處獲悉，今年國內競爭對手開源模型的快速發展給位元組跳動帶來更大的壓力。在近日的內部會議中，位元組跳動創始人張一鳴表示，做模型要堅持長期主義、延遲滿足感，而不是用別人的輸出，換一時的榜單排名。今年以來，國內AI大模型競爭已經極為激烈，幾乎每隔幾天就有新模型釋出，每當有一個強大的開源新模型釋出，位元組跳動內部關於蒸餾的爭論就會升溫。記者瞭解到，張一鳴很少在Seed團隊的會議上發言，但此次明確表態，位元組跳動“應該願意為長期目標犧牲一部分短期收益”。據瞭解，位元組跳動內部對開源模型嚴禁蒸餾，甚至透過API檢測等方式在內部加強相關限制，張一鳴認為，蒸餾會干擾真正意義上的長期技術突破。（澎湃新聞）"
+    },
+    {
+      "id": "5027959",
+      "time": "2026-08-06 11:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "TD COWEN將 英飛凌  目標價從88歐元下調至72歐元。"
+    },
+    {
+      "id": "mkt:019fd538-c97b-7aab-8f9a-17c315bb84b1",
+      "time": "2026-08-06 11:58:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【Zhang Yiming says ByteDance rejects distilling rivals' open-source models, enforces internal ban】Rapid advances in rival open‑source models this year have increased pressure on ByteDance. At a recent internal Seed team meeting founder Zhang Yiming urged a long‑term approach to model development, saying the firm will refuse distillation—not using others' outputs to chase temporary ranking gains—and should be willing to sacrifice some short‑term returns for long‑term goals. ByteDance has banned distillation of open‑source models internally and tightened controls, including API detection, to enforce the restriction; Zhang said distillation would interfere with genuine long‑term technical breakthroughs."
+    },
+    {
+      "id": "te:markets:573237",
+      "time": "2026-08-06 11:57:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Copper Prices Supported by Supply Concerns — Copper futures held above $6.6 per pound on Thursday, remaining close to record highs as tightening global inventories and persistent supply risks in top producer Chile continued to support prices. Development at the Andes Norte section of Codelco’s flagship El Teniente mine could remain suspended for as long as two years, adding to supply tightness in the global copper market. Across the mining industry, producers are extending operations deeper underground as mature ore bodies become depleted, exposing them to greater geotechnical challenges like those affecting El Teniente. Meanwhile, analysts flagged an increasing risk of a short-term squeeze on the London Metal Exchange, driven by scarce on-warrant inventories, falling visible stockpiles in China, and robust US buying ahead of a possible tariff announcement. Data showed that more than 200,000 tons of copper arrived at US ports in July, marking the largest monthly inflow in over a decade."
+    },
+    {
+      "id": "5027958",
+      "time": "2026-08-06 11:57:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "TD Cowen將 西部資料公司  目標股價從500美元上調至540美元。"
+    },
     {
       "id": "5027957",
       "time": "2026-08-06 11:55:12",
