@@ -1,7 +1,60 @@
 {
   "date": "2026-08-06",
-  "count": 2534,
+  "count": 2540,
   "items": [
+    {
+      "id": "5029153",
+      "time": "2026-08-06 22:16:12",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "胡塞武裝政治局成員穆罕默德·舒凱（Mohammad Shokeh）發表重要宣告強調，近期在馬裡卜（Ma’rib）和焦夫（Al-Jawf）戰線展開的軍事行動，是針對沙特進攻圖謀所採取的戰術性、先發制人式回應。"
+    },
+    {
+      "id": "5029152",
+      "time": "2026-08-06 22:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市國資委與上海清算所開展座談交流】據上海市國資委訊息，8月6日，上海市國資委黨委書記、主任周小全接待上海清算所黨委書記、董事長馬賤陽一行，雙方圍繞自貿離岸債等新型金融工具運用、套期保值等風險管理領域的合作開展深入交流。雙方表示，將深入貫徹落實十二屆市委九次全會精神，以協同機制為紐帶，持續推動金融基礎設施資源與市屬國資產業佈局深度聯動，立足服務實體經濟、守牢金融安全底線，共同服務上海“五個中心”建設。"
+    },
+    {
+      "id": "5029151",
+      "time": "2026-08-06 22:14:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Blue Owl Capital 的聯席總裁帕克：OBDC投資組合的信貸表現依然強勁。"
+    },
+    {
+      "id": "te:economy:573429",
+      "time": "2026-08-06 22:14:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Services PMI",
+        "Importance 1"
+      ],
+      "text": "Canada Services PMI Remains in Contraction — Canada's S&P Global Services PMI rose to 49.1 in July 2026 from 47.1 in June but remained below the 50.0 threshold, signaling a second consecutive, albeit milder, contraction in the services sector. Business conditions continued to be weighed down by tariffs and geopolitical tensions, which dampened both current activity and the outlook. Output and new orders declined again, though at a slower pace, while business confidence fell to its lowest level of 2026. Meanwhile, input cost inflation remained elevated, driven by tariffs, higher energy and fuel costs linked to the Middle East conflict, and rising labor expenses. Firms continued to raise selling prices despite weak demand, highlighting persistent inflationary pressures and risks to the broader economic outlook."
+    },
+    {
+      "id": "5029150",
+      "time": "2026-08-06 22:13:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉漲，標普500指數上漲0.2%。"
+    },
+    {
+      "id": "5029149",
+      "time": "2026-08-06 22:13:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特斯拉Terafab晶片工廠正式落戶得州 瞄準1太瓦算力自主供應】特斯拉正式宣佈其代號為“Terafab”的超大規模晶片製造專案將落戶美國得克薩斯州格萊姆斯縣。該專案由特斯拉、SpaceX及xAI聯合主導，旨在建設全球規模最大的半導體制造設施，以應對旗下公司在人工智慧、自動駕駛及太空任務領域日益增長的算力需求。erafab並非傳統意義上的代工廠，而是一座高度垂直整合的先進半導體晶圓廠。特斯拉明確表示，該專案將邏輯晶片、儲存晶片、先進封裝及測試環節整合於同一設施內，製造面積規劃超過1億平方英尺。這種全流程閉環設計旨在實現晶片從設計到量產的快速迭代，加速新計算能力的部署。在產能規劃上，Terafab設定了極具雄心的目標：年產能超過1太瓦（TW）計算能力。這一規模約為當前全球晶片年產能的50倍，遠超現有供應商的供應增速。特斯拉指出，儘管現有晶片供應商在擴大產能，但其擴張速度仍無法滿足特斯拉與SpaceX在機器人、自動駕駛及AI資料中心領域的指數級需求增長。"
+    },
     {
       "id": "mkt:019fd76a-bac6-7aab-8fa3-1e1deaa271d9",
       "time": "2026-08-06 22:12:03",
