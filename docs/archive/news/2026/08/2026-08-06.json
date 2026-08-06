@@ -1,7 +1,121 @@
 {
   "date": "2026-08-06",
-  "count": 587,
+  "count": 598,
   "items": [
+    {
+      "id": "mkt:019fd494-452b-7aab-8f96-8bbe3318ee1c",
+      "time": "2026-08-06 08:58:34",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "DALY said the Fed should not assume inflation expectations are stable."
+    },
+    {
+      "id": "5027688",
+      "time": "2026-08-06 08:58:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1385.00美元/盎司。"
+    },
+    {
+      "id": "5027687",
+      "time": "2026-08-06 08:58:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：美聯儲不應將通脹預期穩定視為理所當然。"
+    },
+    {
+      "id": "mkt:019fd493-ac05-7aab-8f96-873f8998032e",
+      "time": "2026-08-06 08:57:55",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DALY says long-term inf expectations have been effectively anchored."
+    },
+    {
+      "id": "mkt:019fd492-a840-7aab-8f96-7de9d72c8ef7",
+      "time": "2026-08-06 08:56:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 1.00% intraday to $62.66/oz."
+    },
+    {
+      "id": "5027686",
+      "time": "2026-08-06 08:56:46",
+      "tags": [],
+      "text": "現貨黃金向上突破4300美元/盎司關口，為6月18日來首次，本週累漲250美元，日內漲超1％。"
+    },
+    {
+      "id": "mkt:019fd492-75a8-7aab-8f96-75ee10edb553",
+      "time": "2026-08-06 08:56:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "DALY said she does not expect the labor market to add significant inflationary pressure."
+    },
+    {
+      "id": "te:markets:573162",
+      "time": "2026-08-06 08:56:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Hovers Near 4-Week Low — US gasoline futures fell to $2.82 per gallon, hovering near a four-week low as traders priced in improving supply prospects. Iran announced an agreement with Oman on a shipping route through the Strait of Hormuz, raising expectations of more energy flows through the key waterway. Iranian officials said a joint statement was being finalized, with the route expected to remain operational for two to four months. However, they stressed that the arrangement does not amount to a full reopening of the Strait. President Donald Trump also said talks with Tehran were ongoing. However, supply concerns persisted elsewhere. In Russia, diesel and gasoline exports plunged 60% in July after Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week ended July 31, exceeding expectations and leaving stocks 7% below the five-year seasonal average."
+    },
+    {
+      "id": "mkt:019fd492-2153-7aab-8f96-694d515706b6",
+      "time": "2026-08-06 08:56:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold tops $4,300/oz】Spot gold climbed above $4,300/oz for the first time since June 18, up about $250 on the week and rising more than 1% intraday."
+    },
+    {
+      "id": "5027685",
+      "time": "2026-08-06 08:56:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：認為就業市場不會產生顯著通脹壓力。"
+    },
+    {
+      "id": "5027684",
+      "time": "2026-08-06 08:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺釋出海浪橙色警報】記者從自然資源部獲悉，受颱風“白海豚”影響，國家海洋預報今天8時釋出海浪橙色警報。預計8月6日上午到7日上午，東海東部將出現6到10米的狂浪到狂濤區，近海海域海浪預警級別為橙色；浙江近岸海域將出現2到3米的中浪到大浪，近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
+    },
     {
       "id": "5027683",
       "time": "2026-08-06 08:54:53",

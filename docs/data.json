@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-06 08:55:31",
-  "count": 17405,
+  "updated": "2026-08-06 08:59:20",
+  "count": 17408,
   "items": [
+    {
+      "id": "mkt:019fd494-452b-7aab-8f96-8bbe3318ee1c",
+      "time": "2026-08-06 08:58:34",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed",
+        "DXY",
+        "S&P500"
+      ],
+      "text": "DALY said the Fed should not assume inflation expectations are stable."
+    },
+    {
+      "id": "5027688",
+      "time": "2026-08-06 08:58:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1385.00美元/盎司。"
+    },
+    {
+      "id": "5027687",
+      "time": "2026-08-06 08:58:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：美聯儲不應將通脹預期穩定視為理所當然。"
+    },
+    {
+      "id": "mkt:019fd493-ac05-7aab-8f96-873f8998032e",
+      "time": "2026-08-06 08:57:55",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "DALY says long-term inf expectations have been effectively anchored."
+    },
+    {
+      "id": "mkt:019fd492-a840-7aab-8f96-7de9d72c8ef7",
+      "time": "2026-08-06 08:56:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 1.00% intraday to $62.66/oz."
+    },
+    {
+      "id": "5027686",
+      "time": "2026-08-06 08:56:46",
+      "tags": [],
+      "text": "現貨黃金向上突破4300美元/盎司關口，為6月18日來首次，本週累漲250美元，日內漲超1％。"
+    },
+    {
+      "id": "mkt:019fd492-75a8-7aab-8f96-75ee10edb553",
+      "time": "2026-08-06 08:56:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "DALY said she does not expect the labor market to add significant inflationary pressure."
+    },
+    {
+      "id": "te:markets:573162",
+      "time": "2026-08-06 08:56:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Hovers Near 4-Week Low — US gasoline futures fell to $2.82 per gallon, hovering near a four-week low as traders priced in improving supply prospects. Iran announced an agreement with Oman on a shipping route through the Strait of Hormuz, raising expectations of more energy flows through the key waterway. Iranian officials said a joint statement was being finalized, with the route expected to remain operational for two to four months. However, they stressed that the arrangement does not amount to a full reopening of the Strait. President Donald Trump also said talks with Tehran were ongoing. However, supply concerns persisted elsewhere. In Russia, diesel and gasoline exports plunged 60% in July after Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week ended July 31, exceeding expectations and leaving stocks 7% below the five-year seasonal average."
+    },
+    {
+      "id": "mkt:019fd492-2153-7aab-8f96-694d515706b6",
+      "time": "2026-08-06 08:56:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold tops $4,300/oz】Spot gold climbed above $4,300/oz for the first time since June 18, up about $250 on the week and rising more than 1% intraday."
+    },
+    {
+      "id": "5027685",
+      "time": "2026-08-06 08:56:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲戴利：認為就業市場不會產生顯著通脹壓力。"
+    },
+    {
+      "id": "5027684",
+      "time": "2026-08-06 08:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家海洋預報臺釋出海浪橙色警報】記者從自然資源部獲悉，受颱風“白海豚”影響，國家海洋預報今天8時釋出海浪橙色警報。預計8月6日上午到7日上午，東海東部將出現6到10米的狂浪到狂濤區，近海海域海浪預警級別為橙色；浙江近岸海域將出現2到3米的中浪到大浪，近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
+    },
     {
       "id": "5027683",
       "time": "2026-08-06 08:54:53",
@@ -160136,81 +160250,6 @@
         "市場"
       ],
       "text": "【商品期貨開盤】上海原油連續漲5.33%，乙二醇連續漲4.46%，低硫燃料油連續漲3.11%，燃料油連續漲2.88%，純鹼連續跌2.17%。"
-    },
-    {
-      "id": "5015517",
-      "time": "2026-07-30 08:59:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方敦促各方嚴格遵守中非共和國制裁 】中國常駐聯合國代表團臨時代辦孫磊29日在安理會表決透過中非共和國制裁措施授權延期決議後作解釋性發言，呼籲各方嚴格遵守相關制裁措施。他說，中方歡迎安理會一致透過中非共和國制裁措施授權延期決議。近年來，在國際社會支援下，中非共和國政府和人民克服困難，在政治過渡、和平程序和國家治理等方面取得重要進展，國內安全形勢總體穩定，國家發展掀開了新篇章。同時，部分地區仍面臨武裝襲擊和跨境安全挑戰。繼續保留現有針對武裝團體及個人的武器禁運、資產凍結、旅行禁令等措施，有助於幫助中非共和國政府遏制非法武裝，推進國內和解程序，擴大和鞏固安全成果。中方呼籲各方嚴格遵守相關制裁措施，特別是防範外部武器彈藥等輸入，減少周邊衝突的外溢影響。他說，作為中非共和國的好朋友，中方堅定支援該國主權、獨立和領土完整，願繼續同國際社會一道，支援該國早日實現長治久安與繁榮發展。"
-    },
-    {
-      "id": "5015516",
-      "time": "2026-07-30 08:58:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗布什爾省發生爆炸。"
-    },
-    {
-      "id": "5015515",
-      "time": "2026-07-30 08:58:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月29日294股獲融資買入超億元 中際旭創穫買入61.13億元居首】7月29日共有3507只個股獲融資資金買入，有294股買入金額超億元。其中，中際旭創、C長鑫、兆易創新融資買入金額排名前三，分別獲買入61.13億元、53.09億元、47.35億元。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607303825849138",
-      "time": "2026-07-30 08:58:06",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "受油價上漲影響，日本將2026財年經濟增長預測從1.3%下調至0.9%。"
-    },
-    {
-      "id": "mkt:019fb086-96e0-7aab-8efd-0c8bfb4bfcec",
-      "time": "2026-07-30 08:57:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "Japan cut its FY2026 GDP growth forecast to 0.9% from 1.3%, citing higher oil prices."
-    },
-    {
-      "id": "5015514",
-      "time": "2026-07-30 08:56:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受油價上漲影響，日本將2026財年增長預測從1.3%下調至0.9%。"
-    },
-    {
-      "id": "5015513",
-      "time": "2026-07-30 08:56:09",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本物價專家預測：日本央行將轉向更積極的抗通脹立場】前日本央行官員、物價趨勢專家Tsutomu Watanabe表示，日本央行最早可能在12月從容忍通脹轉向對抗通脹的政策立場，這意味著加息節奏將會加快。他稱，繼烏克蘭衝突引發第一輪通脹、國內薪資上調與米價上漲催生第二輪通脹之後，中東衝突正在推動日本迎來第三輪通脹浪潮。這位東京大學榮譽經濟學教授在週三的採訪中表示，第三輪通脹勢頭大機率弱於前兩輪；剔除生鮮食品與能源的核心消費者通脹率預計在明年3月附近觸及3%左右峰值，隨後逐步回落，向日本央行2%的通脹目標靠攏。他指出：“但真正值得警惕的是核心通脹動能，該指標正明確上行，目前已經十分接近2%。”勞動力市場持續緊張，疊加大範圍漲價潮，推高薪資增速與通脹預期。"
-    },
-    {
-      "id": "5015512",
-      "time": "2026-07-30 08:55:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部副部長苗得雨同俄羅斯副外長博裡先科舉行中俄中東和非洲事務磋商】2026年7月22日，外交部副部長苗得雨同俄羅斯副外長博裡先科在京舉行中俄中東和非洲事務磋商。苗得雨表示，在習近平主席和普京總統戰略引領下，中俄新時代全面戰略協作夥伴關係不斷深入發展。在動盪變革的國際形勢中，雙方樹立了永久睦鄰友好、全面戰略協作、互利合作共贏的大國關係典範。中東和非洲是世界多極化和經濟全球化的重要板塊。當前中東局勢複雜演進，熱點問題持續升溫，國際社會普遍希望中東儘快降溫。非洲正處於工業化和現代化重要階段，國際社會對非關注和投入不斷上升。中方願同俄方加強中東和非洲問題戰略溝通，攜手維護中東和平穩定，促進非洲發展繁榮，和中東、非洲國家一道，共同維護國際公平正義，維護發展中國家共同利益，為世界和平與發展做出貢獻。(外交部網站)"
     }
   ]
 }
