@@ -1,7 +1,146 @@
 {
   "date": "2026-08-07",
-  "count": 2368,
+  "count": 2384,
   "items": [
+    {
+      "id": "5031178",
+      "time": "2026-08-07 20:40:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報81.66美元/桶。"
+    },
+    {
+      "id": "5031177",
+      "time": "2026-08-07 20:40:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.52%，道瓊斯指數期貨漲0.33%。"
+    },
+    {
+      "id": "5031176",
+      "time": "2026-08-07 20:39:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梁文鋒打新宇樹，王興興回應】8月7日下午，宇樹科技首次公開發行股票並在科創板上市網上投資者交流會召開。\n據中國基金報訊息，宇樹科技董事長、總經理兼技術長王興興在會上首次回應稱，深度求索參與宇樹科技IPO戰略配售，是基於雙方簽訂的《戰略合作備忘錄》。\n據宇樹7日釋出的最新公告，宇樹科技與深度求索將在三個方面合作：\n一是面向通用人工智慧開展合作研發。宇樹科技與深度求索將結合業務發展的具體需求，在同等條件下選擇彼此作為合作伙伴，聯合開展人工智慧大模型與具身智慧相關技術的合作研發與產品開發，結成人工智慧領域的強強聯合。\n二是在高效能通用機器人方面深度合作。未來，深度求索在開展具身智慧相關業務或應用探索時，將在同等條件下優先選擇與宇樹科技在高效能通用機器人採購及技術方案上開展業務合作。\n三是在AI大模型方面開展深度合作。在具身智慧領域，宇樹科技將持續加大具身大模型相關研發投入與應用開發，未來在開展大模型相關適配呼叫及融合開發時，將在同等條件下優先選擇與深度求索在相關模型訓練服務及技術方案上開展業務合作。（長安街知事）"
+    },
+    {
+      "id": "5031175",
+      "time": "2026-08-07 20:39:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奧士康：股價異常波動 提示AI業務及投資風險】奧士康公告稱，2026年8月5日至8月7日，公司股價漲幅偏離值累計達20%，屬異常波動，市盈率偏離行業平均，或有下跌風險。截至目前，公司未與英偉達、谷歌開展訂單合作，與AMD業務處送樣階段，未形成規模化收入。2025年，公司AI伺服器和AIPC相關產品營收佔比分別不足1%和約7%，對業績影響小。此外，公司2026上半年預計淨利潤降48.94%-60.17%，8月3日完成股份回購，累計回購322.51萬股，金額1.20億元。"
+    },
+    {
+      "id": "5031174",
+      "time": "2026-08-07 20:39:21",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【江波龍定增結果：募資36.99億元，易方達基金等獲配】江波龍公告，本次向特定物件發行股票的數量為660.71萬股，發行價格為560元/股。發行募集資金總額為37億元，募集資金淨額為36.68億元。本次發行物件最終確定為21家，易方達基金管理有限公司獲配金額5.3億元，金長江獲配金額4億元，趙啟祥獲配金額3.15億元，賀偉獲配金額3億元，財通基金管理有限公司獲配金額2.48億元，諾德基金管理有限公司獲配金額2.21億元，南方基金管理股份有限公司獲配金額2.01億元，東方阿爾法基金管理有限公司獲配金額1.5億元，王偉民獲配金額1.5億元，鍾革獲配金額1.5億元，華夏基金管理有限公司獲配金額1.14億元，國泰基金管理有限公司獲配金額9999.98萬元，星宸科技股份有限公司獲配金額9999.98萬元，摩根士丹利國際股份有限公司獲配金額9999.98萬元，國泰海通證券股份有限公司獲配金額9999.98萬元，陽光電源（三亞）有限公司獲配金額9999.98萬元，福建銀豐創業投資有限責任公司獲配金額9999.98萬元，楊曉斌獲配金額9999.98萬元，黃海華獲配金額9999.98萬元，張旭獲配金額9999.98萬元，許利民獲配金額2070.38萬元。"
+    },
+    {
+      "id": "mkt:019fdc3c-20ef-7aab-8fba-7e2485a1afa7",
+      "time": "2026-08-07 20:39:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Following the US nonfarm payrolls release, the Canada–U.S. 2-year government bond yield spread tightened 9.3 bps to about 122 bps."
+    },
+    {
+      "id": "5031173",
+      "time": "2026-08-07 20:39:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "就業資料公佈後，加拿大與美國兩年期國債收益率差收窄9.3個基點，至約122個基點。"
+    },
+    {
+      "id": "te:economy:573802",
+      "time": "2026-08-07 20:38:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "Canada Employment Rises More Than Expected — Employment in Canada increased by 75,100 in July 2026, well above market expectations for a 15,000 gain, following a revised 18,200 increase in June. The employment level rose 0.4% month-over-month, driven by a 57,900 increase in private-sector jobs after a 31,600 gain in the previous month, while public-sector employment fell by 27,000, extending June's 31,000 decline. By industry, employment increased in wholesale and retail trade, finance, insurance, real estate, rental and leasing (+18,000), professional, scientific and technical services (+17,000), and construction (+16,000). In contrast, jobs declined in public administration (-15,000) and agriculture (-9,600). Regionally, employment rose for a third consecutive month in Quebec (+52,000), alongside gains in British Columbia (+18,000), Manitoba (+5,900), and Nova Scotia (+4,600). Meanwhile, the employment rate edged up 0.1 percentage point to 60.9%."
+    },
+    {
+      "id": "5031172",
+      "time": "2026-08-07 20:38:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "經濟學家此前預期的世界盃帶動招聘熱潮最終落空。美國休閒酒店行業 6 月、7 月連續兩個月份出現崗位削減。"
+    },
+    {
+      "id": "5031171",
+      "time": "2026-08-07 20:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特方面表示，該防務協議不會對地區內任何國家構成威脅。"
+    },
+    {
+      "id": "5031170",
+      "time": "2026-08-07 20:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非蘭特對美元漲幅超1%。"
+    },
+    {
+      "id": "5031169",
+      "time": "2026-08-07 20:37:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織：專家指出，ERBEVO疫苗對BVD疾病及傳播的有效性仍有待證實，專門針對本迪布焦病毒的疫苗仍是首選方案。"
+    },
+    {
+      "id": "mkt:019fdc3a-ce9b-7aab-8fba-723b213cf57b",
+      "time": "2026-08-07 20:37:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "【U.S. July payrolls unexpectedly decline; Fed faces policy trade-off】U.S. payrolls fell by 23,000 in July versus consensus for an 80,000 gain; June payrolls were revised down to a 20,000 increase. The unemployment rate unexpectedly dropped to 4.1% from 4.2%. The softer jobs print raises labour-market concerns and complicates Federal Reserve policy, forcing a trade-off between weakening employment and persistent inflation."
+    },
+    {
+      "id": "5031168",
+      "time": "2026-08-07 20:37:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金力永磁：終止認購Hastings股權，認購金額約707萬澳元】金力永磁公告，公司全資子公司金力香港科技此前擬以0.36澳元/股認購澳大利亞上市稀土公司Hastings增發的1964.7萬股普通股，總認購金額約707萬澳元（約人民幣3,460萬元）。鑑於本次認購的先決條件尚未滿足，經公司審慎考慮，已終止本次股權認購。截至公告日，公司未向交易對方支付任何款項，且認購條款尚未正式生效。"
+    },
+    {
+      "id": "5031167",
+      "time": "2026-08-07 20:37:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市網際網路業聯合會法律專委會召開年度會議】為深入落實2026年上海市最佳化營商環境大會部署要求，以法治服務賦能區域數字經濟高質量發展，統籌整合行業法律資源，推動完善行業合規體系與政策規範，強化企業權益保障與風險防控，8月6日下午，上海市網際網路業聯合會法律專委會年度會議在前灘世貿中心舉辦。會上通報了法律專委會成立以來，當好法治建設的“智囊團”、企業合規的“護航員”、法治服務的“保障者”的有關工作情況。會議現場宣讀了專委會增選副主任委員名單。（澎湃）"
+    },
     {
       "id": "5031166",
       "time": "2026-08-07 20:37:06",
@@ -132,6 +271,15 @@
         "國際"
       ],
       "text": "“美聯儲傳聲筒”Nick Timiraos：7 月份失業率降至 4.09%，求職人口與登記失業人口雙雙下降。失業率由此創下兩年新低。今年 2 月失業率為 4.44%，去年 11 月為 4.54%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608073835403521",
+      "time": "2026-08-07 20:34:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國利率期貨市場定價顯示預計到12月加息幅度僅為28個基點】美國利率期貨市場定價顯示，預計到12月加息幅度僅為28個基點，低於非農就業資料公佈前的32個基點。"
     },
     {
       "id": "5031160",
