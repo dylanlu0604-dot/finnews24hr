@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-07 23:54:40",
-  "count": 16027,
+  "updated": "2026-08-07 23:58:38",
+  "count": 16024,
   "items": [
+    {
+      "id": "5031423",
+      "time": "2026-08-07 23:57:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣期貨本週跌約7%】週五（8月7日）歐市尾盤，ICE英國天然氣期貨跌0.9%，報135.680便士/千卡，本週累計下跌5.96%。TTF基準荷蘭天然氣期貨跌5.03%，報55.380歐元/兆瓦時，本週累跌6.88%，整體呈現出M形走勢、絕大部分時間處於下跌狀態。ICE歐盟碳排放交易許可（期貨價格）漲1.82%，報82.85歐元/噸，本週累漲2.60%。"
+    },
     {
       "id": "mkt:019fdcec-dcd8-7aab-8fbd-dda3c14cebfb",
       "time": "2026-08-07 23:52:18",
@@ -146114,47 +146123,6 @@
         "MKT News"
       ],
       "text": "President Trump on Iran said they still have some missiles but far fewer than 4-5 months ago, and their production capacity has almost entirely disappeared."
-    },
-    {
-      "id": "mkt:019fb8e5-2a72-7aab-8f3a-7a4bf25b1828",
-      "time": "2026-07-31 23:57:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "TRUMP said on Iran they have some missiles but far fewer than 4-5 months ago and their production capacity has almost completely disappeared."
-    },
-    {
-      "id": "te:markets:571828",
-      "time": "2026-07-31 23:57:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Ends July Near Record High — Frankfurt's DAX 40 edged up on the final trading session of July, reaching its highest level since the record peak set earlier this month and recording a monthly gain of more than 2%. The advance was driven by a strong rebound in technology stocks, broadly upbeat corporate earnings, and a continued sharp decline in oil prices, despite persistent geopolitical tensions in the Middle East. Chipmaker Infineon led the benchmark with a gain of more than 4%, followed by Hochtief, which advanced 2.7%. On the downside, Siemens Healthineers fell 1% after lowering its fiscal 2025/26 revenue guidance due to continued weakness in its diagnostics business. Elsewhere, defense electronics company Hensoldt reported that order intake more than doubled year over year, sportswear manufacturer Puma reaffirmed its full-year guidance despite weaker demand, and wafer producer Siltronic posted strong quarterly results."
-    },
-    {
-      "id": "mkt:019fb8e4-cc57-7aab-8f3a-7021db419af6",
-      "time": "2026-07-31 23:57:09",
-      "tags": [
-        "MKT News",
-        "CVX.N",
-        "Impact bullish"
-      ],
-      "text": "Chevron (CVX.N) CFO says he expects Venezuelan debt to be recovered by early next year."
-    },
-    {
-      "id": "5019741",
-      "time": "2026-07-31 23:56:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍：預計到2027年年度將收回在委內瑞拉的債務。"
     }
   ]
 }
