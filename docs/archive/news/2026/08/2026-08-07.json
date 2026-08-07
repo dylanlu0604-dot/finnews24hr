@@ -1,7 +1,812 @@
 {
   "date": "2026-08-07",
-  "count": 2264,
+  "count": 2339,
   "items": [
+    {
+      "id": "mkt:019fdc36-8b95-7aab-8fba-1b0282cd0490",
+      "time": "2026-08-07 20:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: July unemployment rates fell for teenagers to 12.1% and for Hispanics to 4.6%; rates were little changed for adult men (3.9%), adult women (3.7%), whites (3.6%), blacks (6.3%) and Asians (4.0%)."
+    },
+    {
+      "id": "mkt:019fdc36-6e73-7aab-8fba-11817b8f50df",
+      "time": "2026-08-07 20:33:02",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "German two-year bond yield reversed earlier gains after the US nonfarm payrolls release, falling 0.5 bps to 2.73%."
+    },
+    {
+      "id": "5031153",
+      "time": "2026-08-07 20:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "加元<CAD=>上漲0.4%，就業資料錄得增長後，美元兌加元觸及1.3959，靠近八週高點。"
+    },
+    {
+      "id": "te:economy:573793",
+      "time": "2026-08-07 20:32:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Unemployment Rate",
+        "Importance 3"
+      ],
+      "text": "US Jobless Rate Falls to 4.1% in July — The US unemployment rate dropped to 4.1% in July 2026, down from 4.2% in June and below expectations, as many people left the workforce. The number of unemployed fell by 178,000 to 6.916 million, while total employment declined by 87,000 to 162.177 million. The labor force contracted by 264,000 to 169.094 million, with the participation rate falling to 61.4%, its lowest since March 2021. The employment rate also dipped to an over four-year low of 58.9%. The broader U-6 unemployment rate, which includes discouraged and underemployed workers, was unchanged at 7.9%."
+    },
+    {
+      "id": "5031152",
+      "time": "2026-08-07 20:32:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "德國兩年期國債收益率<DE2YT=RR>在美國經濟資料公佈後扭轉了此前的升勢，最新下跌0.5個基點，報2.73%。"
+    },
+    {
+      "id": "5031151",
+      "time": "2026-08-07 20:32:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元<JPY=EBS>下跌0.4%，報157.78。"
+    },
+    {
+      "id": "mkt:019fdc35-f085-7aab-8fba-0c978f712514",
+      "time": "2026-08-07 20:32:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: In July, employment in local government education and in retail declined; healthcare employment rose further."
+    },
+    {
+      "id": "5031150",
+      "time": "2026-08-07 20:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財政大臣片山皐月：將持續與市場溝通，以維持市場信任。"
+    },
+    {
+      "id": "mkt:019fdc35-ede0-7aab-8fba-06954807c026",
+      "time": "2026-08-07 20:32:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: July unemployment rate 4.1%; unemployed 6.9 mln."
+    },
+    {
+      "id": "5031149",
+      "time": "2026-08-07 20:32:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數<.STOXX>在美國非農就業資料公佈後延續漲勢，最新上漲0.76%。"
+    },
+    {
+      "id": "mkt:019fdc35-c0cf-7aab-8fb9-fb739f88609a",
+      "time": "2026-08-07 20:32:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "COMEX gold futures traded above $4,400/oz in New York, up 2.36% on the day."
+    },
+    {
+      "id": "5031148",
+      "time": "2026-08-07 20:32:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "現貨黃金<XAU=>在美國就業資料公佈後延續漲勢，最新上漲2.6%，報每盎司4356.28美元。"
+    },
+    {
+      "id": "mkt:019fdc35-af36-7aab-8fb9-f462e43a19a4",
+      "time": "2026-08-07 20:32:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【US May and June nonfarm payrolls revised down 103k】Bureau of Labor Statistics: May nonfarm payrolls revised from 129k to 63k; June revised from 57k to 20k. Combined downward revision of 103k."
+    },
+    {
+      "id": "5031147",
+      "time": "2026-08-07 20:32:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "就業資料公佈後，美國利率期貨市場下調了美聯儲9月加息的機率。"
+    },
+    {
+      "id": "5031146",
+      "time": "2026-08-07 20:32:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4360美元/盎司，日內漲2.83%。"
+    },
+    {
+      "id": "5031145",
+      "time": "2026-08-07 20:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中巨芯：2026年半年度淨利潤同比增長72.75%】中巨芯(688549.SH)釋出2026年半年度報告，實現營業收入7.99億元，同比增長40.98%；歸屬於上市公司股東的淨利潤1405.77萬元，同比增長72.75%。"
+    },
+    {
+      "id": "5031144",
+      "time": "2026-08-07 20:31:58",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國7月份兩個月非農就業人數淨下修10.3萬人。"
+    },
+    {
+      "id": "5031143",
+      "time": "2026-08-07 20:31:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲年底前加息機率超80% 美國重要資料出爐】當地時間8月7日，美國勞工統計局公佈的資料顯示，美國7月新增非農就業人數XX萬人，當月失業率為X%。分析認為，近日公佈的私營部門就業資料大幅不及預期，進一步加劇了就業市場面臨下行風險的擔憂。目前美國經濟不存在過熱的跡象，在此背景下，如果美聯儲加息將拖累經濟增長，勞動力市場受到的衝擊會尤為明顯。芝商所美聯儲觀察工具的最新資料顯示，美聯儲9月加息的機率約為55%，年底前加息的機率已超過80%。 （央視財經）"
+    },
+    {
+      "id": "te:economy:573792",
+      "time": "2026-08-07 20:31:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Non Farm Payrolls",
+        "Importance 3"
+      ],
+      "text": "US Economy Sheds 23K Jobs in July — The US economy unexpectedly shed 23K jobs in July 2026, following a downwardly revised 20K gain in June and compared to forecasts of an 80K increase. Employment declined in local government education and retail trade. Employment continued to trend up in health care."
+    },
+    {
+      "id": "5031142",
+      "time": "2026-08-07 20:31:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4420美元/盎司，日內漲2.82%。"
+    },
+    {
+      "id": "5031141",
+      "time": "2026-08-07 20:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "非農資料公佈後，美元指數DXY短線走低近30點，報99.67。"
+    },
+    {
+      "id": "mkt:019fdc34-fe83-7aab-8fb9-eb2b7361fc14",
+      "time": "2026-08-07 20:31:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "After US nonfarm payrolls were released, the dollar index DXY briefly fell nearly 30 points to 99.67."
+    },
+    {
+      "id": "5031140",
+      "time": "2026-08-07 20:31:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在就業資料公佈後延續跌勢；10年期美國國債收益率目前下跌4.29個基點，報4.627%。"
+    },
+    {
+      "id": "5031139",
+      "time": "2026-08-07 20:31:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率最新下跌7.27個基點，報4.172%。"
+    },
+    {
+      "id": "mkt:019fdc34-907a-7aab-8fb9-e5141fe3f0b0",
+      "time": "2026-08-07 20:31:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "After the US nonfarm payrolls release, spot gold rose about $40 intraday to $4,351.43/oz."
+    },
+    {
+      "id": "5031138",
+      "time": "2026-08-07 20:31:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國就業報告發布後，新興市場外匯指數延續漲勢，觸及盤中高點。"
+    },
+    {
+      "id": "mkt:019fdc34-7834-7aab-8fb9-d9073e7bf3d5",
+      "time": "2026-08-07 20:30:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US equity index futures continued to rise after the release of the July nonfarm payrolls report."
+    },
+    {
+      "id": "mkt:019fdc34-69c7-7aab-8fb9-d7dc9975daa9",
+      "time": "2026-08-07 20:30:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US private-sector nonfarm payrolls rose 30,000 in July versus 78,000 expected; June revised down from 49,000 to 30,000."
+    },
+    {
+      "id": "mkt:019fdc34-60a7-7aab-8fb9-cd7adfb5ced6",
+      "time": "2026-08-07 20:30:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US unemployment rate fell slightly to 4.1% in July, the lowest since June 2025, below the market median forecast of 4.2%."
+    },
+    {
+      "id": "mkt:019fdc34-5387-7aab-8fb9-c1873f95c809",
+      "time": "2026-08-07 20:30:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US U-6 unemployment rate 7.9% in July, unchanged from prior 7.9%."
+    },
+    {
+      "id": "mkt:019fdc34-5319-7aab-8fb9-bd97ab1733ea",
+      "time": "2026-08-07 20:30:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. July seasonally adjusted nonfarm payrolls -23,000 vs consensus +80,000; June revised down to +20,000 from +57,000."
+    },
+    {
+      "id": "mkt:019fdc34-52c2-7aab-8fb9-b151a0b9a337",
+      "time": "2026-08-07 20:30:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US July nonfarm payrolls unexpectedly fell】Seasonally adjusted US nonfarm payrolls fell 23,000 in July, the first monthly decline since February; consensus had forecast an 80,000 increase."
+    },
+    {
+      "id": "mkt:019fdc34-4cd7-7aab-8fb9-aff21ab1f6a5",
+      "time": "2026-08-07 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US July seasonally adjusted government payrolls -53,000; June revised from +8,000 to -10,000."
+    },
+    {
+      "id": "mkt:019fdc34-4bac-7aab-8fb9-a52f883d2c34",
+      "time": "2026-08-07 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US July seasonally adjusted manufacturing payrolls +5,000 vs +4,000 expected; June revised from +3,000 to +11,000."
+    },
+    {
+      "id": "mkt:019fdc34-48f3-7aab-8fb9-96ae8c71845b",
+      "time": "2026-08-07 20:30:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US average hourly earnings YoY +3.2% in July, vs. 3.5% expected; June revised to +3.4% from +3.5%."
+    },
+    {
+      "id": "5031137",
+      "time": "2026-08-07 20:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月失業率略降至4.1%，為2025年6月以來最低水平，低於市場預期中值4.2%。"
+    },
+    {
+      "id": "mkt:019fdc34-4a21-7aab-8fb9-9d4d19709a70",
+      "time": "2026-08-07 20:30:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US average hourly earnings rose 0.1% m/m in July, below the 0.3% expected and 0.3% in June."
+    },
+    {
+      "id": "mkt:019fdc34-2690-7aab-8fb9-81fc9e2e81f2",
+      "time": "2026-08-07 20:30:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US average weekly hours in July were 34.3 hours, matching expectations and the prior reading of 34.3."
+    },
+    {
+      "id": "mkt:019fdc34-488d-7aab-8fb9-8fdf2de4cc37",
+      "time": "2026-08-07 20:30:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US unemployment rate 4.1% in July, versus 4.2% expected; prior 4.2%."
+    },
+    {
+      "id": "mkt:019fdc34-2641-7aab-8fb9-7bba72403112",
+      "time": "2026-08-07 20:30:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada July labour force participation rate 65.1% vs 65.0% expected, 65.0% prior."
+    },
+    {
+      "id": "mkt:019fdc34-0af5-7aab-8fb9-69a0662ec707",
+      "time": "2026-08-07 20:30:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada July full-time employment rose 38.6k, prior +0.6k."
+    },
+    {
+      "id": "mkt:019fdc34-0ad4-7aab-8fb9-6473aae0d4eb",
+      "time": "2026-08-07 20:30:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US July labor force participation rate 61.4%, consensus 61.6%, prior 61.5%."
+    },
+    {
+      "id": "mkt:019fdc34-1f44-7aab-8fb9-769e03d1c10a",
+      "time": "2026-08-07 20:30:24",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada July unemployment rate 6.4% (expected 6.5%; prior 6.5%)."
+    },
+    {
+      "id": "5031136",
+      "time": "2026-08-07 20:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破65美元/盎司，日內漲5.82%。"
+    },
+    {
+      "id": "5031135",
+      "time": "2026-08-07 20:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國7月非農意外減少】美國7月季調後非農就業人口減少2.3萬人，為2月以來首次出現下降，市場預期為增加8萬人。"
+    },
+    {
+      "id": "5031134",
+      "time": "2026-08-07 20:30:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲2.61%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608073835393287",
+      "time": "2026-08-07 20:30:17",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月失業率報4.1%，市場預估為4.2%，前值為4.2%。"
+    },
+    {
+      "id": "mkt:019fdc33-eba2-7aab-8fb9-5c98e6565317",
+      "time": "2026-08-07 20:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Canada July part-time employment rose by 36,600, up from 17,500 in the prior month."
+    },
+    {
+      "id": "mkt:019fdc33-da64-7aab-8fb9-56548f47501f",
+      "time": "2026-08-07 20:30:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Canada July jobs +75.1k vs +15.0k expected; prior +18.2k."
+    },
+    {
+      "id": "5031133",
+      "time": "2026-08-07 20:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4410美元/盎司，日內漲2.60%。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608073835393180",
+      "time": "2026-08-07 20:30:09",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月非農就業人數減少2.3萬人，市場預估為增加8萬人，前值為增加5.7萬人。"
+    },
+    {
+      "id": "5031132",
+      "time": "2026-08-07 20:30:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4330美元/盎司，日內漲2.18%。"
+    },
+    {
+      "id": "5031131",
+      "time": "2026-08-07 20:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內漲2.34%。"
+    },
+    {
+      "id": "5031130",
+      "time": "2026-08-07 20:30:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東材科技：連續4個交易日累計漲幅41.35%，市盈率高於行業均值】東材科技公告，公司股票於2026年8月4日至8月7日連續四個交易日內日收盤價格累計漲幅41.35%，偏離上證指數37.93%。截至2026年8月6日，公司靜態市盈率147.79倍，滾動市盈率110.9倍，市淨率6.93倍，均高於所屬行業平均水平。公司目前生產經營正常，不存在應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "5031129",
+      "time": "2026-08-07 20:30:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲6%，現報65.33美元/盎司。"
+    },
+    {
+      "id": "mkt:019fdc33-b740-7aab-8fb9-4fcf3eddd454",
+      "time": "2026-08-07 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | U6 Unemployment Rate (Jul) | actual 7.9% | previous 7.90%"
+    },
+    {
+      "id": "mkt:019fdc33-b6d9-7aab-8fb9-401804fc94a3",
+      "time": "2026-08-07 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Labour Force Participation Rate (Jul) | actual 61.4% | consensus 61.6% | previous 61.50%"
+    },
+    {
+      "id": "mkt:019fdc33-b675-7aab-8fb9-3fc023efc8e2",
+      "time": "2026-08-07 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Unemployment Rate (Jul) | actual 4.1% | consensus 4.2% | previous 4.20%"
+    },
+    {
+      "id": "5031128",
+      "time": "2026-08-07 20:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破65美元/盎司，日內漲5.54%。"
+    },
+    {
+      "id": "mkt:019fdc33-b07d-7aab-8fb9-33e2d8fd5403",
+      "time": "2026-08-07 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Employment SA (Jul) | actual 5000K | consensus 4000K | previous 3000K"
+    },
+    {
+      "id": "mkt:019fdc33-afd6-7aab-8fb9-2fdcf9dd0d0b",
+      "time": "2026-08-07 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (YoY) (Jul) | actual 3.2% | consensus 3.5% | previous 3.50%"
+    },
+    {
+      "id": "mkt:019fdc33-af33-7aab-8fb9-26d33106d183",
+      "time": "2026-08-07 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Nonfarm Payroll Employment (Jul) | actual -23000K | consensus 80000K | previous 57000K"
+    },
+    {
+      "id": "mkt:019fdc33-ae5f-7aab-8fb9-1e7c2f69608c",
+      "time": "2026-08-07 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Private Nonfarm Payroll Employment (Jul) | actual 30000K | consensus 78000K | previous 49000K"
+    },
+    {
+      "id": "mkt:019fdc33-ae2a-7aab-8fb9-111fd3485bf8",
+      "time": "2026-08-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Workweek (Jul) | actual 34.3 | consensus 34.3 | previous 34.3"
+    },
+    {
+      "id": "mkt:019fdc33-ad3f-7aab-8fb9-0f00ed933688",
+      "time": "2026-08-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Government Employment SA (Jul) | actual -53000K | previous 8000K"
+    },
+    {
+      "id": "mkt:019fdc33-ad3e-7aab-8fb9-07e6934e994c",
+      "time": "2026-08-07 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Average Hourly Earnings (MoM) (Jul) | actual 0.1% | consensus 0.30% | previous 0.30%"
+    },
+    {
+      "id": "5031127",
+      "time": "2026-08-07 20:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4390美元/盎司，日內漲2.15%。"
+    },
+    {
+      "id": "mkt:019fdc33-a87b-7aab-8fb8-f85fee85f6e0",
+      "time": "2026-08-07 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Full Time (Jul) | actual 38600K | previous 600K"
+    },
+    {
+      "id": "mkt:019fdc33-a867-7aab-8fb8-f6c86f774206",
+      "time": "2026-08-07 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Unemployment Rate (Jul) | actual 6.4% | consensus 6.5% | previous 6.50%"
+    },
+    {
+      "id": "mkt:019fdc33-a85b-7aab-8fb8-eb43e48bf78f",
+      "time": "2026-08-07 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change Part Time (Jul) | actual 36600K | previous 17500K"
+    },
+    {
+      "id": "mkt:019fdc33-a84c-7aab-8fb8-e28b32abf065",
+      "time": "2026-08-07 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Employment Change (Jul) | actual 75100K | consensus 15000K | previous 18200K"
+    },
+    {
+      "id": "mkt:019fdc33-a840-7aab-8fb8-dd8546144aa9",
+      "time": "2026-08-07 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Labor Force Participation Rate (Jul) | actual 65.1% | consensus 65% | previous 65.00%"
+    },
+    {
+      "id": "5031126",
+      "time": "2026-08-07 20:29:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方證券：上海國資委原則同意收購上海證券100%股權方案】東方證券公告，公司於2026年8月7日收到上海國資委出具的批覆函，原則同意本次建議交易方案，即根據特別授權發行代價A股股份及支付現金購買上海證券100%股權。除上海國資委批覆及賣方已履行內部決策程式外，正式協議生效的條件(i)、(iii)、(iv)及(v)尚未獲達成，公司將適時刊發進一步公告。"
+    },
+    {
+      "id": "5031125",
+      "time": "2026-08-07 20:29:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天順股份：實際控制人王普宇減持計劃期限屆滿，累計減持2%股份】天順股份公告，公司實際控制人王普宇此前披露的減持計劃期限已屆滿。截至公告日，王普宇透過大宗交易方式合計減持公司股份304.5萬股，佔公司當前總股本的2%。本次減持後，王普宇持有公司股份324.66萬股，佔公司總股本比例2.13%。"
+    },
+    {
+      "id": "mkt:019fdc33-5f28-7aab-8fb8-d1925ea08213",
+      "time": "2026-08-07 20:29:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Fitch says in the medium term it continues to expect crude oil prices will gradually normalize by 2028, converging to a mid-cycle level of about $60/bbl."
+    },
     {
       "id": "5031124",
       "time": "2026-08-07 20:29:29",
