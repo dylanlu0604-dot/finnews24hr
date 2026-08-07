@@ -1,7 +1,185 @@
 {
-  "updated": "2026-08-07 16:38:32",
-  "count": 16117,
+  "updated": "2026-08-07 16:42:23",
+  "count": 16126,
   "items": [
+    {
+      "id": "mkt:019fdb62-db5f-7aab-8fb4-83b68940cfd2",
+      "time": "2026-08-07 16:41:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NVIDIA denies reports it is accelerating push into telecom-operator market and seeking Chinese base-station partners】NVIDIA (NVDA.O) denied reports that it is accelerating efforts to enter the telecom-operator market and seeking Chinese base-station partners, calling the report unfounded and the description of its regional activities inaccurate. Earlier reports said Shenzhen Jiaxian Communications Co. was participating in co-development of NVIDIA’s 6GAI-RAN base station."
+    },
+    {
+      "id": "5030569",
+      "time": "2026-08-07 16:41:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川宜賓高縣調整“8.3”地震為三級應急響應】“高縣釋出”訊息，8月7日13時08分，四川宜賓市高縣復興鎮陳正社群附近（北緯28.51度，東經104.67度）發生4.9級地震，震源深度6千米。地震發生後，高縣抗震救災指揮部研究決定，高縣“8·3”地震由四級應急響應調整為三級應急響應，各鎮及縣級相關單位迅速開展抗震救災工作。"
+    },
+    {
+      "id": "5030568",
+      "time": "2026-08-07 16:41:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖暉整合：2026年半年度淨利潤6987.09萬元，同比增長11.86%】聖暉整合公告，2026年半年度業績快報顯示，公司實現營業總收入10.88億元，同比下降16.00%；歸屬於上市公司股東的淨利潤6987.09萬元，同比增長11.86%；歸屬於上市公司股東的扣除非經常性損益的淨利潤7051.55萬元，同比增長12.51%。基本每股收益0.70元。營業收入下降主要因境外部分在建專案進入竣工結算階段，新承接專案處於前期施工階段，本期認列收入減少。"
+    },
+    {
+      "id": "5030567",
+      "time": "2026-08-07 16:40:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【下週央行公開市場將有1165億元逆回購到期】Wind資料顯示，本週央行公開市場開展了1165億元7天期逆回購操作、3000億元隔夜逆回購操作，因本週有21420億元逆回購到期，本週實現淨回籠17255億元。此外，本週有3000億元91天期買斷式逆回購到期，央行開展了5000億元92天期買斷式逆回購操作。下週央行公開市場將有1165億元逆回購到期，其中下週一至下週五分別到期630億元、465億元、50億元、10億元、10億元。此外，下週五將有10000億元182天期買斷式逆回購到期。"
+    },
+    {
+      "id": "5030566",
+      "time": "2026-08-07 16:40:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翰宇藥業：替爾泊肽注射液首仿上市申請獲受理】翰宇藥業公告稱，近日收到國家藥監局簽發的替爾泊肽注射液《受理通知書》。該藥物有4種規格，註冊分類為化學藥品4類，適用於2型糖尿病、長期體重管理、阻塞性睡眠呼吸暫停。替爾泊肽是GLP - 1R/GIPR雙靶點激動劑，全球無仿製藥上市，2025年全球銷售額約365.07億美元。翰宇藥業為國內首家提出上市許可申請的企業。藥品上市及銷售存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "5030565",
+      "time": "2026-08-07 16:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀河電子：2026年上半年實現扭虧為盈，淨利潤為544.12萬元】銀河電子公告，2026年上半年營業收入4.41億元，同比增長114.47%。歸屬於上市公司股東的淨利潤544.12萬元，上年同期淨利潤-2881.68萬元，實現扭虧為盈。歸屬於上市公司股東的扣除非經常性損益的淨利潤-299.5萬元，上年同期-3606.07萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:markets:573735",
+      "time": "2026-08-07 16:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sun Life Financial earnings above expectations at 2.02 CAD — Sun Life Financial (SLF) released earnings per share at 2.02 CAD, compared to market expectations of 1.93 CAD."
+    },
+    {
+      "id": "te:markets:573734",
+      "time": "2026-08-07 16:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Assicurazioni Generali earnings above expectations at 0.85 EUR — Assicurazioni Generali (G) released earnings per share at 0.85 EUR, compared to market expectations of 0.84 EUR."
+    },
+    {
+      "id": "te:markets:573733",
+      "time": "2026-08-07 16:40:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Wheaton Precious Metals earnings below expectations at 1.19 USD — Wheaton Precious Metals (WPM) released earnings per share at 1.19 USD, compared to market expectations of 1.24 USD."
+    },
+    {
+      "id": "te:markets:573732",
+      "time": "2026-08-07 16:39:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Nintendo Co earnings above expectations at 127.88 JPY — Nintendo Co (7974) released earnings per share at 127.88 JPY, compared to market expectations of 68.70 JPY."
+    },
+    {
+      "id": "te:markets:573731",
+      "time": "2026-08-07 16:39:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Softbank earnings above expectations at 60.08 JPY — Softbank (9984) released earnings per share at 60.08 JPY, compared to market expectations of 24.62 JPY."
+    },
+    {
+      "id": "5030564",
+      "time": "2026-08-07 16:39:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【久吾高科：首次回購股份19.13萬股，成交總金額417.51萬元】久吾高科公告，公司於2026年8月1日審議透過回購方案，擬以不低於2000萬元且不超過4000萬元回購公司股份，回購價格不超過30元/股，用於維護公司價值及股東權益。2026年8月7日，公司首次透過集中競價方式回購股份19.13萬股，佔總股本0.15%，最高成交價22元/股，最低成交價21.5元/股，成交總金額417.51萬元（不含交易費用）。"
+    },
+    {
+      "id": "5030562",
+      "time": "2026-08-07 16:38:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合盛矽業：控股股東一致行動人部分股份解質押】合盛矽業公告稱，近日接到控股股東一致行動人羅燚、羅燁棟部分公司股份辦理解質押業務通知。羅燚於8月7日解質560萬股，佔其所持股份2.91%；羅燁棟於8月3日解質420萬股，佔其所持股份2.34%。本次解質押後，羅燚累計質押1.04億股，佔其所持股份54.18%；羅燁棟累計質押8762萬股，佔其所持股份48.84%。合盛集團及其一致行動人合計直接持股佔公司總股本68.19%，本次解質押後，質押股份合計佔其持股49.52%，佔公司總股本33.77%。"
+    },
+    {
+      "id": "mkt:019fdb5f-de83-7aab-8fb4-7bb67e583bab",
+      "time": "2026-08-07 16:38:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai launches citywide Level IV flood/typhoon response】The Shanghai Meteorological Observatory issued a blue typhoon warning at 16:00 on August 7, 2026. The 13th typhoon of the year, White Dolphin, is expected to bring gusts of force 8 across most of Shanghai from the morning of August 8, with gusts up to force 9 in high-rise and riverside/coastal areas. Shanghai's flood control headquarters has activated a citywide Level IV flood/typhoon response."
+    },
+    {
+      "id": "mkt:019fdb5f-b792-7aab-8fb4-751409baaeba",
+      "time": "2026-08-07 16:38:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CSRC Zhejiang Regulatory Bureau issues warning letter to Caitong Securities Co., Ltd.】After an investigation, the CSRC Zhejiang Regulatory Bureau found Caitong Securities Co., Ltd. had deficiencies in its brokerage business — including internal control frameworks, account monitoring and alert handling, and permissions management. Its proprietary trading showed shortcomings in departmental and role separation, trade-order review, quote activity monitoring, placement of compliance personnel, and audit functions. The bureau has issued an administrative supervisory warning letter and will record the matter in the securities and futures market integrity file."
+    },
+    {
+      "id": "5030561",
+      "time": "2026-08-07 16:38:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【投行網紅“勞阿毛”即將離職】記者多方求證獲悉，華泰聯合證券董事總經理、投行執行委員會委員勞志明（網名“勞阿毛”）即將離職，結束其在華泰聯合證券長達22年的職業生涯。據其本人透露，此番離開並非開啟新的創業征程，而是一種“半隱退”狀態，未來計劃專注於自媒體內容創作和併購諮詢業務。截至目前，中國證券業協會官網公示資訊顯示其仍登記在職，離職流程尚未最終走完。作為國內併購重組領域標杆式人物，他曾主導打造多起里程碑式重組案例，伴隨華泰聯合併購業務成長為行業頭部梯隊，此次離場引發業內廣泛討論。（上證報）"
+    },
+    {
+      "id": "5030560",
+      "time": "2026-08-07 16:38:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【證監會浙江監管局對財通證券股份有限公司採取出具警示函措施】經查，財通證券股份有限公司存在經紀業務在內部制度建設、賬戶監測預警處理、許可權管理等方面存在不足。自營業務在部門及崗位職能獨立、交易指令稽核、詢價活動監測、合規人員派駐、稽核工作等方面存在不足。證監會浙江監管局決定對財通證券股份有限公司採取出具警示函的行政監督管理措施，並記入證券期貨市場誠信檔案。"
+    },
+    {
+      "id": "5030559",
+      "time": "2026-08-07 16:38:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度5年期國債收益率上漲5個基點至6.37%。"
+    },
+    {
+      "id": "5030558",
+      "time": "2026-08-07 16:38:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恒生指數：推出恒生A股銅產業指數】恒生指數公司公告，公司今天推出恒生A股銅產業指數。此指數反映A股從事銅行業產業鏈的公司之表現，涵蓋上游採礦活動及部份下游應用領域的內地上市公司。"
+    },
     {
       "id": "5030557",
       "time": "2026-08-07 16:37:51",
@@ -33,6 +211,14 @@
         "公司"
       ],
       "text": "【中遠海特：聘任顧衛東為總經理並提名為董事候選人】中遠海特公告稱，公司第九屆董事會第十一次會議審議透過聘任顧衛東為公司總經理，任期與本屆董事會一致。同時，同意提名顧衛東為公司第九屆董事會董事候選人，任期自股東會決議透過之日起至第九屆董事會任期屆滿，該議案尚需提交公司股東會審議批准。顧衛東有豐富的特種運輸航運物流經營和企業管理經驗。"
+    },
+    {
+      "id": "5030554",
+      "time": "2026-08-07 16:37:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【住房城鄉建設部發布五項國家標準區域性修訂條文的公告】近日，住房城鄉建設部發布五項國家標準《醫院潔淨手術部建築技術規範》《水位觀測標準》《土的工程分類標準》《核電廠工程氣象技術規範》《水電水利工程壓力鋼管制作安裝及驗收規範》區域性修訂條文的公告。"
     },
     {
       "id": "5030552",
@@ -146953,102 +147139,6 @@
         "市場"
       ],
       "text": "【福昕軟體：股票交易異常波動 不存在應披露未披露重大資訊】福昕軟體公告稱，公司股票在2026年7月30日、31日連續2個交易日內收盤價格漲幅偏離值累計超30%，屬異常波動情形。經自查及向控股股東、實控人核實，截至公告披露日，公司及相關方不存在應披露而未披露的重大資訊，經營情況正常。公司提醒投資者注意股價短期波動及投資風險，以指定媒體資訊為準。"
-    },
-    {
-      "id": "5018822",
-      "time": "2026-07-31 16:42:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美稱就解除哈馬斯武裝達成協議 落實前景仍存疑】美國總統特朗普7月30日稱，已達成關於“全面解除”巴勒斯坦伊斯蘭抵抗運動（哈馬斯）武裝的協議，以色列也將從加沙地帶撤軍。然而，哈馬斯與以色列之間根深蒂固的敵意和不信任依然明顯，協議能否得到完全落實，仍然存疑。特朗普在社交媒體發文宣佈，由美國發起的所謂“和平委員會”當天達成一項“具有歷史意義”的協議，將全面解除哈馬斯及加沙地帶其他武裝組織的武裝。該協議將分階段實施，“隨著解除武裝的完成，以色列軍隊將撤出（加沙地帶）”，國際穩定部隊將與新組建的巴勒斯坦警察部隊協作，共同確保加沙地帶及其周邊地區的居民安全。（新華社）"
-    },
-    {
-      "id": "mkt:019fb756-725c-7aab-8f2e-dd840c0bb4ec",
-      "time": "2026-07-31 16:42:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "CSI300"
-      ],
-      "text": "China's Ministry of Finance: Jan–Jun total operating revenue at state-owned and state-controlled enterprises fell 2.0% YoY; total profits rose 2.4% YoY."
-    },
-    {
-      "id": "5018821",
-      "time": "2026-07-31 16:41:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光大嘉寶：聘任榮勇為公司副總裁】光大嘉寶7月31日公告，公司當天召開第十二屆董事會第二次（臨時）會議，審議透過了《關於聘任公司高階管理人員的議案》。 根據《公司章程》的有關規定，經公司董事會提名委員會決議，在進行任職資格審查的基礎上，公司董事會聘任榮勇為公司副總裁，聘期自董事會審議透過之日起至第十二屆董事會屆滿之日止。"
-    },
-    {
-      "id": "5018820",
-      "time": "2026-07-31 16:40:51",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【我國開展為期一年的深化掃黑除惡專項鬥爭】中共中央政治局委員、中央政法委書記陳文清近日在全國掃黑除惡專項鬥爭視訊會議上強調，要紮實開展為期一年的深化掃黑除惡專項鬥爭，依法清除一切侵蝕社會肌體的毒瘤，努力建設更高水平的平安中國，續寫社會長期穩定新篇章。"
-    },
-    {
-      "id": "5018819",
-      "time": "2026-07-31 16:40:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東鋼鐵：擬登出濟南銷售分公司】山東鋼鐵公告稱，基於經營管理需要，為整合區域營銷資源，公司擬登出濟南銷售分公司。截至2025年末，該分公司總資產3976.55萬元、淨資產3805.53萬元，2025年淨利潤149.05萬元；截至2026年3月末，總資產3980.78萬元、淨資產3810.79萬元，2026年一季度淨利潤5.25萬元。登出後，其業務和人員將由濟南山鋼鋼材銷售有限公司承接，不會對公司產生不利影響。董事會將授權管理層辦理登出工作。"
-    },
-    {
-      "id": "5018818",
-      "time": "2026-07-31 16:40:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【匯通控股：截至7月底累計回購股份152.51萬股 耗資4231.29萬元】匯通控股公告稱，公司於2025年12月1日起以集中競價交易方式回購股份，用於員工持股計劃或股權激勵，預計回購金額3000萬元-5000萬元。因實施2025年年度權益分派，回購股份價格上限調整為不超26.64元/股。截至2026年7月31日，公司累計回購股份152.51萬股，佔總股本的0.81%，支付資金總額4231.29萬元，回購價格17.63元/股-38.00元/股。2026年7月回購股份數量為0股，回購方案未變更或終止。"
-    },
-    {
-      "id": "5018817",
-      "time": "2026-07-31 16:40:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【外匯局釋出《關於進一步完善國內外匯貸款外匯管理有關事項的通知》】外匯局釋出《關於進一步完善國內外匯貸款外匯管理有關事項的通知》。《通知》主要內容包括：一是完善賬戶管理體系。國內外匯貸款實行專用賬戶管理。對於符合條件的具有貨物或服務貿易出口背景的國內外匯貸款，允許其直接劃入經常專案外匯結算賬戶。二是簡化結、購匯管理。遵循實需、便利原則，按照交易背景對國內外匯貸款可否結匯實施管理。同時，取消相關行政許可，允許借款人憑相關真實性證明材料直接到銀行辦理購匯償還國內外匯貸款手續。三是強化事中事後監管。明確業務具體辦理要求和資料包送義務，國家外匯管理局將加強統計監測和核查檢查，切實防範相關風險。"
-    },
-    {
-      "id": "5018816",
-      "time": "2026-07-31 16:39:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【慶祝中國人民解放軍建軍99週年，2026崇敬大會在滬舉行】為慶祝中國人民解放軍建軍99週年，2026年7月29日至31日，由上海市雙擁辦、上海警備區政工局指導，上海市擁軍優屬基金會主辦的崇敬大會在上海展覽中心舉行。作為上海雙擁工作標杆性品牌，崇敬大會已連續四年成功舉辦，本屆打破往年定向邀約模式，升級為全民開放的崇敬嘉年華，72小時內推出20餘場特色活動，以科技為橋樑、以溫情為底色，生動展現上海社會化擁軍優屬工作成果，讓尊崇軍人成為城市共識。（澎湃）"
-    },
-    {
-      "id": "mkt:019fb754-608f-7aab-8f2e-d420f3fa699c",
-      "time": "2026-07-31 16:39:47",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【SAFE issues Notice on Further Improving FX Management of Domestic Foreign‑Currency Loans】The State Administration of Foreign Exchange (SAFE) issued a Notice on Further Improving FX Management of Domestic Foreign‑Currency Loans. Key points: first, tighten account management—domestic foreign‑currency loans will use dedicated accounts; eligible loans backed by goods or services export may be credited directly to current‑account FX settlement accounts. Second, simplify FX settlement and purchase—SAFE will manage settlement of domestic foreign‑currency loans by transaction background under a principle of actual need and convenience, cancel related administrative approvals, and allow borrowers with supporting authenticity documents to go directly to banks to purchase FX to repay domestic foreign‑currency loans. Third, strengthen ongoing and post‑transaction supervision—SAFE sets out specific processing and data‑reporting requirements and will increase statistical monitoring and inspections to guard against related risks."
-    },
-    {
-      "id": "5018814",
-      "time": "2026-07-31 16:39:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "港交所公告：中石化7月31日於其他交易所回購86.82萬股A股，涉資450萬元人民幣。"
-    },
-    {
-      "id": "5018813",
-      "time": "2026-07-31 16:38:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上海試點網路餐飲電子證照核驗兩月：7萬餘戶線上餐飲商戶“亮證”經營】7月31日上午，市場監管總局召開食品安全專題新聞釋出會。上海市市場監管局副局長王琳在會上介紹，自今年5月26日全國首個網路餐飲電子證照核驗應用在上海上線以來，上海已同步推進新增和存量入網餐飲商戶的證照核驗，全市7萬餘戶線上餐飲商戶正逐步實現“亮證”經營。據王琳介紹，今年5月26日，在市場監管總局的指導和支援下，上海首家上線網路餐飲電子證照核驗應用，以科技賦能解決網路餐飲服務經營中存在的假證、冒證、套證、借證等問題，遏制“幽靈外賣”亂象。（澎湃）"
     }
   ]
 }
