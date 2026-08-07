@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-07 22:57:42",
-  "count": 16069,
+  "updated": "2026-08-07 23:01:41",
+  "count": 16068,
   "items": [
+    {
+      "id": "mkt:019fdcbd-d1b2-7aab-8fbd-4badc99bff16",
+      "time": "2026-08-07 23:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Fed: July three-year expected inflation held at 3.3%; five-year expected inflation held at 3.0%."
+    },
+    {
+      "id": "mkt:019fdcbd-b078-7aab-8fbd-45f1bb21e54b",
+      "time": "2026-08-07 23:00:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, China’s most-active domestic futures contracts were mostly higher: soda ash up more than 3%, ethylene glycol (EG) up over 2%, fuel oil and coking coal up near 2%. Synthetic rubber fell just over 1%."
+    },
+    {
+      "id": "5031397",
+      "time": "2026-08-07 23:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美上訴法院裁決要求美政府停止白宮宴會廳專案】記者當地時間8月7日獲悉，美國聯邦上訴法院當天裁定，美政府必須停止在已拆除的白宮東翼原址建設一座價值4億美元宴會廳專案。不過上訴法院將裁決暫停執行14天，以便美政府向美國最高法院提出上訴。（央視新聞）"
+    },
+    {
+      "id": "5031396",
+      "time": "2026-08-07 23:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：福布斯實時億萬富豪榜資料顯示，馬斯克當前淨資產升至7842億美元。"
+    },
+    {
+      "id": "mkt:019fdcbd-5b3e-7aab-8fbd-3a6c18c9f6dc",
+      "time": "2026-08-07 23:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "NY Fed July 1-year inflation expectation 3.63% (survey 3.71%, prior 3.67%)."
+    },
+    {
+      "id": "5031395",
+      "time": "2026-08-07 23:00:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：家庭預期未來一年通脹率為3.6%；此前預期為3.7美國7月紐約聯儲1年通脹預期 3.63%，預期3.71%，前值3.67%。"
+    },
+    {
+      "id": "te:markets:573849",
+      "time": "2026-08-07 23:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.90% — Top currency gainers are South Korean Won (0.90%), Brazilian Real (0.57%), Canadian Dollar (0.50%), Japanese Yen (0.31%), Euro (0.25%) and British Pound (0.25%). Biggest loser is Dollar Index (-0.29%)."
+    },
+    {
+      "id": "5031394",
+      "time": "2026-08-07 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】純鹼連續漲3.42%，乙二醇連續漲2.01%，焦煤連續漲1.71%，玻璃連續漲1.47%，苯乙烯連續漲1.20%。"
+    },
+    {
+      "id": "5031393",
+      "time": "2026-08-07 22:59:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "KNDS集團：德國聯邦國防軍將額外接收35輛BOXER RCT30戰車。荷蘭陸軍將再接收34輛 BOXER RCT30戰車。"
+    },
+    {
+      "id": "5031392",
+      "time": "2026-08-07 22:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”逼近 上海洋山港所有船舶已安全轉移】記者從洋山港海事局獲悉，颱風“白海豚”逼近我國東部沿海，8月7日22點，隨著最後一艘幹線集裝箱船“中遠海運秘魯”駛離泊位，上海洋山港所有船舶已全部完成安全轉移。（新華社）"
+    },
     {
       "id": "5031391",
       "time": "2026-08-07 22:56:55",
@@ -146438,104 +146526,6 @@
         "國際"
       ],
       "text": "據沙特媒體：美國向哈馬斯保證，將施壓內塔尼亞胡撤出加沙地帶並落實相關協議。"
-    },
-    {
-      "id": "mkt:019fb8b1-a253-7aab-8f39-6612ff90318d",
-      "time": "2026-07-31 23:01:16",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "【Bank of England hawks increasingly isolated; deputy governors shift toward pausing hikes】Bank of England's MPC stance is shifting: hawkish members are becoming isolated. Thursday's 6-3 vote to raise rates—driven by concern over an Iran-related energy shock—masks a broader migration toward dovishness among other MPC members, notably deputy governors Lombard and Ramsden. Both had warned of second-round inflation from higher energy, but those concerns are easing as growth softens and firms curb hiring. Markets now see a majority consensus to keep rates unchanged unless inflation risks re-emerge; Ramsden said if the conflict eases and domestic price pressures continue to fall the Bank may resume its previously paused rate-cut process, while Lombard said current support for a hold is not \"close to a tipping point.\" Analysts say the hawk–dove boundary is being redrawn and the bar for further hikes has risen; rate markets price only one possible hike this year."
-    },
-    {
-      "id": "mkt:019fb8b1-254c-7aab-8f39-5d59a0340289",
-      "time": "2026-07-31 23:00:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "As of the 23:00 close, China's main futures mostly rose. Low-sulfur fuel oil (LU) advanced more than 3%; asphalt and LPG gained over 2%; plastics, PX, PTA, propylene and fuel oil rose above 1%. On the downside, iron ore dropped nearly 3%; coke, coking coal, soda ash and glass fell more than 1%; pulp and rebar slipped about 1%."
-    },
-    {
-      "id": "5019694",
-      "time": "2026-07-31 23:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普擬在反信貸歧視政策改革中將激進組織列為整治目標。"
-    },
-    {
-      "id": "5019693",
-      "time": "2026-07-31 23:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大5月預算赤字為3.1億加元，2025年5月預算赤字為22億加元。"
-    },
-    {
-      "id": "5019692",
-      "time": "2026-07-31 23:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大4月預算餘額為逆差10.5億加元，2025年4月預算餘額為逆差77.1億加元。"
-    },
-    {
-      "id": "te:markets:571820",
-      "time": "2026-07-31 23:00:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 1.07% — Top currency losers are South Korean Won (-1.07%), Swiss Franc (-0.51%), Euro (-0.20%) and British Pound (-0.06%). Gains are led by Norwegian Krone (0.49%), Dollar Index (0.25%) and Japanese Yen (0.19%)."
-    },
-    {
-      "id": "5019691",
-      "time": "2026-07-31 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】低硫燃料油連續漲3.33%，鐵礦石連續跌2.85%，瀝青連續漲2.14%，液化石油氣連續漲1.95%，焦炭連續跌1.51%。"
-    },
-    {
-      "id": "5019690",
-      "time": "2026-07-31 22:58:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西B3交易所：所有資產與合約的交易恢復定於當地時間12:30開始。"
-    },
-    {
-      "id": "5019689",
-      "time": "2026-07-31 22:57:53",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美小麥日內大跌4.00%，現報635.75美分/蒲式耳。"
-    },
-    {
-      "id": "mkt:019fb8ae-70a9-7aab-8f39-505b59e6eb65",
-      "time": "2026-07-31 22:57:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US wheat fell 4.00% intraday to 635.75 cents/bushel."
-    },
-    {
-      "id": "5019688",
-      "time": "2026-07-31 22:57:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國外交大臣米利班德表示，他對哈馬斯宣佈解除武裝這一訊息持歡迎態度。"
     }
   ]
 }

@@ -1,7 +1,95 @@
 {
   "date": "2026-08-07",
-  "count": 2706,
+  "count": 2716,
   "items": [
+    {
+      "id": "mkt:019fdcbd-d1b2-7aab-8fbd-4badc99bff16",
+      "time": "2026-08-07 23:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York Fed: July three-year expected inflation held at 3.3%; five-year expected inflation held at 3.0%."
+    },
+    {
+      "id": "mkt:019fdcbd-b078-7aab-8fbd-45f1bb21e54b",
+      "time": "2026-08-07 23:00:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the 23:00 close, China’s most-active domestic futures contracts were mostly higher: soda ash up more than 3%, ethylene glycol (EG) up over 2%, fuel oil and coking coal up near 2%. Synthetic rubber fell just over 1%."
+    },
+    {
+      "id": "5031397",
+      "time": "2026-08-07 23:00:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美上訴法院裁決要求美政府停止白宮宴會廳專案】記者當地時間8月7日獲悉，美國聯邦上訴法院當天裁定，美政府必須停止在已拆除的白宮東翼原址建設一座價值4億美元宴會廳專案。不過上訴法院將裁決暫停執行14天，以便美政府向美國最高法院提出上訴。（央視新聞）"
+    },
+    {
+      "id": "5031396",
+      "time": "2026-08-07 23:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：福布斯實時億萬富豪榜資料顯示，馬斯克當前淨資產升至7842億美元。"
+    },
+    {
+      "id": "mkt:019fdcbd-5b3e-7aab-8fbd-3a6c18c9f6dc",
+      "time": "2026-08-07 23:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "NY Fed July 1-year inflation expectation 3.63% (survey 3.71%, prior 3.67%)."
+    },
+    {
+      "id": "5031395",
+      "time": "2026-08-07 23:00:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：家庭預期未來一年通脹率為3.6%；此前預期為3.7美國7月紐約聯儲1年通脹預期 3.63%，預期3.71%，前值3.67%。"
+    },
+    {
+      "id": "te:markets:573849",
+      "time": "2026-08-07 23:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.90% — Top currency gainers are South Korean Won (0.90%), Brazilian Real (0.57%), Canadian Dollar (0.50%), Japanese Yen (0.31%), Euro (0.25%) and British Pound (0.25%). Biggest loser is Dollar Index (-0.29%)."
+    },
+    {
+      "id": "5031394",
+      "time": "2026-08-07 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】純鹼連續漲3.42%，乙二醇連續漲2.01%，焦煤連續漲1.71%，玻璃連續漲1.47%，苯乙烯連續漲1.20%。"
+    },
+    {
+      "id": "5031393",
+      "time": "2026-08-07 22:59:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "KNDS集團：德國聯邦國防軍將額外接收35輛BOXER RCT30戰車。荷蘭陸軍將再接收34輛 BOXER RCT30戰車。"
+    },
+    {
+      "id": "5031392",
+      "time": "2026-08-07 22:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”逼近 上海洋山港所有船舶已安全轉移】記者從洋山港海事局獲悉，颱風“白海豚”逼近我國東部沿海，8月7日22點，隨著最後一艘幹線集裝箱船“中遠海運秘魯”駛離泊位，上海洋山港所有船舶已全部完成安全轉移。（新華社）"
+    },
     {
       "id": "5031391",
       "time": "2026-08-07 22:56:55",
