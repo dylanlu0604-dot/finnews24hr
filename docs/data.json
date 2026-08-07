@@ -1,7 +1,131 @@
 {
-  "updated": "2026-08-07 09:31:33",
-  "count": 16163,
+  "updated": "2026-08-07 09:35:29",
+  "count": 16155,
   "items": [
+    {
+      "id": "5029814",
+      "time": "2026-08-07 09:34:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Jane Street尋求將110億美元債務轉為私募信貸】據知情人士透露，Jane Street正在與一群投資者就一項私募信貸交易進行磋商。交易將重整該公司110億美元的債務，減少其向市場參與者披露財務資訊的範圍。知情人士稱，這家去年交易收入高達396億美元的做市巨頭，正在與Pimco等多家公司洽談債務再融資事宜，擬將債務從公開市場轉入一個私募工具。其中一位知情人士表示，這筆總額可能至高150億美元並以私募形式進行的交易，預計將在未來幾天敲定條款，但細節仍可能發生變動。該交易將為Jane Street投資私營公司和人工智慧基礎設施，並在各市場開展交易提供財務靈活性。"
+    },
+    {
+      "id": "5029813",
+      "time": "2026-08-07 09:34:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊盤初走弱，大晟文化跌停】遊戲板塊盤初走弱，大晟文化跌停，任子行、凱撒文化、盛天網路、ST華誼、天舟文化、中電電機等跟跌。"
+    },
+    {
+      "id": "te:markets:573522",
+      "time": "2026-08-07 09:34:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Extends Advance — European natural gas prices climbed above €58 per MWh on Friday, extending gains from the previous session as ongoing tensions in the Strait of Hormuz raised uncertainty over the resumption of LNG flows from the Persian Gulf. Iranian state media reported that naval forces had conducted an operation against \"hostile targets\" near the strait following explosions heard on Qeshm Island. Tehran is also reportedly seeking to restrict US and Israeli vessels from transiting the waterway under a proposed agreement with Oman, while demanding compensation from countries it considers hostile before allowing passage. European gas prices recovered most of the losses recorded earlier in the week following the reports. Continued disruptions to LNG shipments from key exporters such as Qatar have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts."
+    },
+    {
+      "id": "mkt:019fd9da-bfc7-7aab-8fac-13ea8d395114",
+      "time": "2026-08-07 09:33:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext Index rose over 1% at the open; Shenzhen Component Index up 0.55%."
+    },
+    {
+      "id": "5029812",
+      "time": "2026-08-07 09:33:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念板塊短線拉昇，景旺電子漲停】PCB概念板塊短線拉昇，景旺電子、依頓電子、寶鼎科技漲停，勁拓股份、傑普特、嘉立創、深南電路、民爆光電等紛紛走高。"
+    },
+    {
+      "id": "mkt:019fd9da-25ae-7aab-8fac-087345c9cba9",
+      "time": "2026-08-07 09:33:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "A-share PET copper-foil sector traded firmer after intraday volatility; Woge Optoelectronics hit limit-up, Fangbang and Tongguan Copper Foil rose more than 5%, Ouke Technology and Jiaocheng Ultrasonics also advanced."
+    },
+    {
+      "id": "5029811",
+      "time": "2026-08-07 09:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江海事局啟動沿海Ⅱ級防颱應急響應】根據今年第13號颱風“白海豚”的動態和發展趨勢，浙江海事局已於8月7日8時啟動沿海Ⅱ級防颱應急響應。同時，截至8月7日8時，浙江全省162條客渡運航線已全部停航，193個水上工程專案已全部停工，474艘施工船舶全部進入安全避風水域。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fd9d9-ea0c-7aab-8fac-00b327969fa0",
+      "time": "2026-08-07 09:32:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【All ferry routes and projects suspended as Zhejiang launches coastal Level‑II typhoon emergency response】Citing the trajectory and development of this year’s No.13 typhoon \"White Dolphin\", the Zhejiang Maritime Safety Administration initiated a coastal Level‑II typhoon emergency response at 08:00 on Aug. 7. As of 08:00, all 162 passenger ferry routes in Zhejiang are suspended, 193 marine engineering projects have been halted, and 474 construction vessels have moved to safe storm‑shelter waters."
+    },
+    {
+      "id": "mkt:019fd9d8-f6df-7aab-8fab-fa9003b88ada",
+      "time": "2026-08-07 09:31:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares BC battery sector surged: Tongwei Co. rose nearly 8% and Huamin Co. gained over 7%; Dongcai Technology, Trina Solar and LONGi Green Energy also advanced."
+    },
+    {
+      "id": "mkt:019fd9d8-97a3-7aab-8fab-f203416776b2",
+      "time": "2026-08-07 09:31:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) down 0.01%; 10-year (T) down 0.01%; 30-year (TL) down 0.08%."
+    },
+    {
+      "id": "mkt:019fd9d8-8c32-7aab-8fab-eac50c1876ba",
+      "time": "2026-08-07 09:31:15",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Onshore index futures morning open】Onshore index futures at the morning open: CSI 300 (IF) main contract +0.27%; SSE 50 (IH) main contract -0.15%; CSI 500 (IC) main contract +0.24%; CSI 1000 (IM) main contract +0.20%."
+    },
+    {
+      "id": "5029810",
+      "time": "2026-08-07 09:31:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%】能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%，華友鈷業、融捷股份、永杉鋰業、天齊鋰業、贛鋒鋰業跟漲。"
+    },
+    {
+      "id": "5029809",
+      "time": "2026-08-07 09:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.02%，現報3551.393點；上證指數跌0.18%，現報3893.252點；深證成指漲0.61%，現報14196.560點。"
+    },
     {
       "id": "mkt:019fd9d8-3021-7aab-8fab-e68ee69a3ff1",
       "time": "2026-08-07 09:30:51",
@@ -147555,236 +147679,6 @@
         "MKT News"
       ],
       "text": "Local government: an energy facility in Russia's Volgograd region caught fire after a drone attack."
-    },
-    {
-      "id": "mkt:019fb5cf-c5ce-7aab-8f22-fd6f5c2272fa",
-      "time": "2026-07-31 09:35:20",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【China NBS: some equipment-manufacturing sectors seeing rapid output and demand growth】China's National Bureau of Statistics said the manufacturing production index and new orders index stood at 49.9 and 48.5, down 1.5 and 2.7 points MoM, indicating production and market demand eased. By sector, general equipment and computer, communications and electronic-equipment industries recorded both production and new-orders indices above 53.0, signalling brisk activity and faster output-demand growth. Non-metallic mineral products, ferrous-metal smelting and rolling, and autos posted both indices below the 50 threshold, reflecting weak supply-demand conditions."
-    },
-    {
-      "id": "te:economy:571414",
-      "time": "2026-07-31 09:35:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "NBS General PMI",
-        "Importance 1"
-      ],
-      "text": "China NBS General PMI Lowest Since Late 2022 — China’s NBS Composite PMI Output Index slipped to 49.3 in July 2026 from 50.6 in the previous month, marking the lowest reading since December 2022. It was also the first contraction in overall business activity since February."
-    },
-    {
-      "id": "5018052",
-      "time": "2026-07-31 09:35:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達6.91%，成分股中，生益電子漲16.72%，源傑科技漲15.46%，華虹宏力漲13.04%，中科飛測漲12.94%。"
-    },
-    {
-      "id": "mkt:019fb5cf-5af6-7aab-8f22-f1bec51053e5",
-      "time": "2026-07-31 09:34:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share compute-power leasing stocks jumped; Litong Electronics locked at the daily limit, Hongjing Technology and Xiechuang Data rose more than 14%, while Tongniu Information, Wangsu Technology, Dongyangguang and UCloud also advanced."
-    },
-    {
-      "id": "mkt:019fb5cf-019f-7aab-8f22-ea13f021cd67",
-      "time": "2026-07-31 09:34:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "CNH",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【NBS: China non-manufacturing business activity index dips; cultural and tourism sector active】The National Bureau of Statistics Service Industry Survey Center chief statistician Huo Lihui said China’s non-manufacturing business activity index fell to 49.0 in July, down 1.2 ppt month-on-month, indicating a pullback in non-manufacturing activity. The services business activity index declined to 49.3, down 1.1 ppt, showing softer market activity. Summer consumption lifted leisure and travel, with air transport, accommodation and cultural and sports entertainment activity indices rebounding markedly and related firms reporting rapid volume growth. Wholesale and monetary/financial services posted larger declines and were the main drag on the services reading. Capital-market services and real estate remained below the 50 expansion-contraction threshold. The services business activity expectation index stayed at 56.0, unchanged from June, signalling stable near-term business confidence."
-    },
-    {
-      "id": "mkt:019fb5ce-b07d-7aab-8f22-e6c8db6b37ec",
-      "time": "2026-07-31 09:34:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【NBS: Composite PMI output index below 50 in July】Huo Lihui, chief statistician at the NBS service-sector survey center, said July's composite PMI output index was 49.3%, down 1.3 percentage points month-on-month, indicating firms' production and business activity slowed. The manufacturing production index was 49.9% and the non-manufacturing business activity index was 49.0%."
-    },
-    {
-      "id": "5018051",
-      "time": "2026-07-31 09:34:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北省委主要負責同志職務調整】日前，中共中央決定：羅文同志任河北省委委員、常委、書記；倪嶽峰同志不再擔任河北省委書記、常委、委員職務，另有任用。（新華社）"
-    },
-    {
-      "id": "5018050",
-      "time": "2026-07-31 09:33:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO概念集體反彈 新易盛漲超15%】早盤CPO概念集體反彈，新易盛、聯訊儀器漲超15%，天孚通訊、中際旭創、羅博特科、太辰光等多股漲超10%。"
-    },
-    {
-      "id": "mkt:019fb5ce-3d64-7aab-8f22-dcbcb74cd819",
-      "time": "2026-07-31 09:33:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share Changxin's intraday market value topped CNY4 tln; shares rose 14.3% to CNY60.49, a record high, on turnover of CNY8.8 bln."
-    },
-    {
-      "id": "mkt:019fb5ce-19a8-7aab-8f22-d7d73f332d5a",
-      "time": "2026-07-31 09:33:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish",
-        "CNH"
-      ],
-      "text": "【NBS: Price indices fall for four consecutive months amid recent commodity swings】NBS Service Industry Survey Center chief statistician Huo Lihui said July price indices continued to decline. The purchase-price index for major raw materials was 53.2 and the factory-gate price index 47.8, both down for a fourth month amid recent commodity-price volatility. Price indices for non-ferrous metal smelting and rolling were both below 45.0. Large price swings weakened firms’ procurement intent, pulling the purchasing-volume index down to 49.4."
-    },
-    {
-      "id": "5018049",
-      "time": "2026-07-31 09:33:18",
-      "tags": [
-        "資料"
-      ],
-      "text": "【國家統計局：裝備製造業和高技術製造業繼續發揮支撐引領作用】國家統計局服務業調查中心首席統計師霍麗慧表示，7月份，製造業採購經理指數有所回落，高技術製造業持續擴張。受前期製造業較快增長基數較高、部分製造業行業進入傳統生產淡季等因素影響，製造業PMI降至49.2%。裝備製造業和高技術製造業繼續發揮支撐引領作用。裝備製造業和高技術製造業PMI分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優；消費品行業和高耗能行業PMI分別為47.8%和47.0%，比上月下降2.4個和0.1個百分點，景氣水平回落。（國家統計局）"
-    },
-    {
-      "id": "mkt:019fb5cd-d28e-7aab-8f22-ce8ab85ca156",
-      "time": "2026-07-31 09:33:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share lithography-equipment stocks jumped in early trade: Xinqi Weizhuang rose >16%, Juguang Technology up >14%, Jiangfeng Electronics and Zhongrun Optics up over 10.5%; Taijing Technology hit the daily limit, with Tongfei Co. and other names also rallying."
-    },
-    {
-      "id": "mkt:019fb5cd-b683-7aab-8f22-c4258195b75c",
-      "time": "2026-07-31 09:33:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【National Bureau of Statistics: Equipment and high‑tech manufacturing continue to support and lead】Huo Lihui, chief statistician at the NBS service-industry survey center, said July manufacturing PMI eased to 49.2, hit by a high prior-period base and seasonal softening. Equipment-manufacturing PMI was 51.4 and high-tech manufacturing PMI 53.3, both well above the headline and still expanding, supporting a shift toward newer, higher-quality manufacturing. Consumer-goods PMI was 47.8 and high-energy-consuming industries PMI 47.0, down 2.4pts and 0.1pt MoM, respectively."
-    },
-    {
-      "id": "te:markets:571413",
-      "time": "2026-07-31 09:33:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Declines — Heating oil futures in the US fell below $4.10 per gallon in late July, pulling back from a nearly four-month high, as investors weighed improving shipping activity against ongoing geopolitical risks. Middle East oil shipments appeared to have picked up in recent days, with more vessels leaving the Persian Gulf undetected and two Saudi tankers successfully transiting the Bab el-Mandeb Strait. Separately, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. Meanwhile, Russian diesel supplies remained constrained by recent Ukrainian attacks on refineries, prompting Moscow to halt exports for all of July. Still, heating oil remained on track for a roughly 27% monthly gain as geopolitical tensions escalated earlier this month amid exchanges of strikes between the US and Iran."
-    },
-    {
-      "id": "te:markets:571412",
-      "time": "2026-07-31 09:32:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Rally on Tech Rebound — The benchmark KOSPI soared more than 15% to around 6,450 on Friday, rebounding sharply from the previous session as a global technology rally lifted semiconductor stocks. Sentiment improved after Microsoft's stronger-than-expected earnings and robust Azure growth eased concerns over AI spending, fueling gains in US chipmakers overnight and driving sharp advances in Korean heavyweights. Samsung Electronics and SK hynix both surged more than 25%, along with notable gains in SK Square (29.9%), Hyundai Motor (9.4%), Kia Corporation (8.6%), and HD Hyundai Heavy Industries (5.0%). The government announced plans to establish a 20 trillion won sovereign wealth fund to invest in strategic industries, including AI, semiconductors, data centers, and infrastructure. Domestic sentiment was also supported by June industrial production, which rose 2.3%, the fastest monthly increase in six years, led by strong growth in automobile and semiconductor output."
-    },
-    {
-      "id": "5018048",
-      "time": "2026-07-31 09:32:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【長鑫科技市值突破4萬億】長鑫科技繼續衝高，盤中漲近13%，總市值突破4萬億。"
-    },
-    {
-      "id": "5018047",
-      "time": "2026-07-31 09:32:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日韓罕見同步干預外匯，韓國官員稱正與美日等國密切合作】7月31日訊息，據報道，韓國外匯當局於30日進行了一次罕見的拋售美元干預操作，推動韓元對美元匯率升至九個月來的最高水平。韓國的這一舉措與日本在紐約外匯市場買入日元、拋售美元的干預行動同步發生，幫助日元脫離四十年來低位。韓國副財長31日表示，韓國外匯管理部門正與美國、日本等主要國家的同行密切合作，並將持續保持這種協作。此前，日韓兩國官方均曾公開表示將就外匯市場動態保持緊密溝通，以應對本幣貶值壓力。"
-    },
-    {
-      "id": "te:markets:571411",
-      "time": "2026-07-31 09:32:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "EU Gas Prices Extend Decline — European natural gas prices dropped to around €57 per MWh on Friday, extending losses from the previous session amid signs of improving shipping conditions through the Strait of Hormuz despite regional tensions and fresh LNG arrivals in Europe. Qatar sent its first LNG tanker through the waterway in more than three weeks, raising hopes that exports from one of the world's largest LNG suppliers could gradually resume. Steady LNG deliveries to Northwest Europe, along with reliable pipeline flows from Norway, also helped ease supply concerns. Despite the recent pullback, EU gas prices remain more than 33% higher in July, as renewed US-Iran hostilities disrupted Persian Gulf supplies while heatwaves boosted electricity demand, limiting Europe's ability to replenish inventories ahead of winter. EU storage facilities are about 55% full, below the seasonal five-year average and behind the pace needed to comfortably meet pre-winter storage targets before the heating season begins in November."
-    },
-    {
-      "id": "5018046",
-      "time": "2026-07-31 09:31:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "C長鑫高開超10%。"
-    },
-    {
-      "id": "mkt:019fb5cc-5b10-7aab-8f22-b8df7f3bcf32",
-      "time": "2026-07-31 09:31:36",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia private sector loan growth YoY 8.5% in June, up from 8.20% previously."
-    },
-    {
-      "id": "5018045",
-      "time": "2026-07-31 09:31:34",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞6月私營企業貸款年率 8.5%，前值8.20%。"
     }
   ]
 }

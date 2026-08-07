@@ -1,7 +1,131 @@
 {
   "date": "2026-08-07",
-  "count": 460,
+  "count": 473,
   "items": [
+    {
+      "id": "5029814",
+      "time": "2026-08-07 09:34:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Jane Street尋求將110億美元債務轉為私募信貸】據知情人士透露，Jane Street正在與一群投資者就一項私募信貸交易進行磋商。交易將重整該公司110億美元的債務，減少其向市場參與者披露財務資訊的範圍。知情人士稱，這家去年交易收入高達396億美元的做市巨頭，正在與Pimco等多家公司洽談債務再融資事宜，擬將債務從公開市場轉入一個私募工具。其中一位知情人士表示，這筆總額可能至高150億美元並以私募形式進行的交易，預計將在未來幾天敲定條款，但細節仍可能發生變動。該交易將為Jane Street投資私營公司和人工智慧基礎設施，並在各市場開展交易提供財務靈活性。"
+    },
+    {
+      "id": "5029813",
+      "time": "2026-08-07 09:34:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【遊戲板塊盤初走弱，大晟文化跌停】遊戲板塊盤初走弱，大晟文化跌停，任子行、凱撒文化、盛天網路、ST華誼、天舟文化、中電電機等跟跌。"
+    },
+    {
+      "id": "te:markets:573522",
+      "time": "2026-08-07 09:34:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Extends Advance — European natural gas prices climbed above €58 per MWh on Friday, extending gains from the previous session as ongoing tensions in the Strait of Hormuz raised uncertainty over the resumption of LNG flows from the Persian Gulf. Iranian state media reported that naval forces had conducted an operation against \"hostile targets\" near the strait following explosions heard on Qeshm Island. Tehran is also reportedly seeking to restrict US and Israeli vessels from transiting the waterway under a proposed agreement with Oman, while demanding compensation from countries it considers hostile before allowing passage. European gas prices recovered most of the losses recorded earlier in the week following the reports. Continued disruptions to LNG shipments from key exporters such as Qatar have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts."
+    },
+    {
+      "id": "mkt:019fd9da-bfc7-7aab-8fac-13ea8d395114",
+      "time": "2026-08-07 09:33:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext Index rose over 1% at the open; Shenzhen Component Index up 0.55%."
+    },
+    {
+      "id": "5029812",
+      "time": "2026-08-07 09:33:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念板塊短線拉昇，景旺電子漲停】PCB概念板塊短線拉昇，景旺電子、依頓電子、寶鼎科技漲停，勁拓股份、傑普特、嘉立創、深南電路、民爆光電等紛紛走高。"
+    },
+    {
+      "id": "mkt:019fd9da-25ae-7aab-8fac-087345c9cba9",
+      "time": "2026-08-07 09:33:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "A-share PET copper-foil sector traded firmer after intraday volatility; Woge Optoelectronics hit limit-up, Fangbang and Tongguan Copper Foil rose more than 5%, Ouke Technology and Jiaocheng Ultrasonics also advanced."
+    },
+    {
+      "id": "mkt:019fd9d9-ea0c-7aab-8fac-00b327969fa0",
+      "time": "2026-08-07 09:32:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【All ferry routes and projects suspended as Zhejiang launches coastal Level‑II typhoon emergency response】Citing the trajectory and development of this year’s No.13 typhoon \"White Dolphin\", the Zhejiang Maritime Safety Administration initiated a coastal Level‑II typhoon emergency response at 08:00 on Aug. 7. As of 08:00, all 162 passenger ferry routes in Zhejiang are suspended, 193 marine engineering projects have been halted, and 474 construction vessels have moved to safe storm‑shelter waters."
+    },
+    {
+      "id": "5029811",
+      "time": "2026-08-07 09:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江海事局啟動沿海Ⅱ級防颱應急響應】根據今年第13號颱風“白海豚”的動態和發展趨勢，浙江海事局已於8月7日8時啟動沿海Ⅱ級防颱應急響應。同時，截至8月7日8時，浙江全省162條客渡運航線已全部停航，193個水上工程專案已全部停工，474艘施工船舶全部進入安全避風水域。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fd9d8-f6df-7aab-8fab-fa9003b88ada",
+      "time": "2026-08-07 09:31:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares BC battery sector surged: Tongwei Co. rose nearly 8% and Huamin Co. gained over 7%; Dongcai Technology, Trina Solar and LONGi Green Energy also advanced."
+    },
+    {
+      "id": "mkt:019fd9d8-97a3-7aab-8fab-f203416776b2",
+      "time": "2026-08-07 09:31:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【China government bond futures open】China government bond futures opened the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) down 0.01%; 10-year (T) down 0.01%; 30-year (TL) down 0.08%."
+    },
+    {
+      "id": "mkt:019fd9d8-8c32-7aab-8fab-eac50c1876ba",
+      "time": "2026-08-07 09:31:15",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Onshore index futures morning open】Onshore index futures at the morning open: CSI 300 (IF) main contract +0.27%; SSE 50 (IH) main contract -0.15%; CSI 500 (IC) main contract +0.24%; CSI 1000 (IM) main contract +0.20%."
+    },
+    {
+      "id": "5029810",
+      "time": "2026-08-07 09:31:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%】能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%，華友鈷業、融捷股份、永杉鋰業、天齊鋰業、贛鋒鋰業跟漲。"
+    },
+    {
+      "id": "5029809",
+      "time": "2026-08-07 09:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.02%，現報3551.393點；上證指數跌0.18%，現報3893.252點；深證成指漲0.61%，現報14196.560點。"
+    },
     {
       "id": "mkt:019fd9d8-3021-7aab-8fab-e68ee69a3ff1",
       "time": "2026-08-07 09:30:51",
