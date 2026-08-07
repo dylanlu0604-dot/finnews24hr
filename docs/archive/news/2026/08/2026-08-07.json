@@ -1,7 +1,36 @@
 {
   "date": "2026-08-07",
-  "count": 2742,
+  "count": 2745,
   "items": [
+    {
+      "id": "mkt:019fdcdd-86a5-7aab-8fbd-8cb259394f68",
+      "time": "2026-08-07 23:35:33",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LMT.O",
+        "NOC.O"
+      ],
+      "text": "【US Army opens five test ranges to private firms to accelerate weapons R&D】The US Army will open five test ranges to private firms to speed trials of drones, counter‑UAS systems, long‑range missiles, low‑cost air‑defense interceptors and other weapons. The initiative, framed as part of Pentagon acquisition reform and to help replenish stocks depleted by the war with Iran, aims to provide range access within 30 days of a reservation request versus current waits of up to 18 months."
+    },
+    {
+      "id": "5031415",
+      "time": "2026-08-07 23:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國命運購物中心（Destiny USA Mall）的CMBS債券持有人面臨超過3.5億美元的損失。"
+    },
+    {
+      "id": "5031414",
+      "time": "2026-08-07 23:34:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏克蘭石油公司設施遭遇大規模襲擊】烏克蘭石油天然氣公司7日說，該公司旗下烏克蘭石油公司遭遇了近幾個月來最大規模的襲擊。烏克蘭石油天然氣公司在官網釋出訊息說，俄方過去一晚襲擊了烏克蘭石油公司7處石油和天然氣生產設施，導致公司關鍵生產裝置受損、油氣產量大幅下降。襲擊未造成人員傷亡。（新華社）"
+    },
     {
       "id": "5031413",
       "time": "2026-08-07 23:30:25",
