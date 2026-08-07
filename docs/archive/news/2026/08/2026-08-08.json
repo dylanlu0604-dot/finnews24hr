@@ -1,7 +1,53 @@
 {
   "date": "2026-08-08",
-  "count": 108,
+  "count": 113,
   "items": [
+    {
+      "id": "5031474",
+      "time": "2026-08-08 01:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：經濟具備加速發展的條件。"
+    },
+    {
+      "id": "5031473",
+      "time": "2026-08-08 01:46:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：就業資料低估了實體經濟的強勁程度。"
+    },
+    {
+      "id": "mkt:019fdd53-b1f0-7aab-8fbf-6f6488cbdcd1",
+      "time": "2026-08-08 01:44:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "ICE: For the week to Aug. 4, speculative traders cut Brent crude net longs by 20,361 contracts to 164,722; diesel speculative net longs rose by 1,163 contracts to 88,357."
+    },
+    {
+      "id": "5031472",
+      "time": "2026-08-08 01:44:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所布倫特原油：截至 8 月 4 日當週，投機者淨多頭頭寸減少 20361 份合約，降至 164722 份。"
+    },
+    {
+      "id": "mkt:019fdd53-72ca-7aab-8fbf-67faaaa34e89",
+      "time": "2026-08-08 01:44:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Refinitiv reports the White House sent a letter dated Aug. 5 to Fed governor Cook requesting a written response within 21 days about her statements."
+    },
     {
       "id": "5031471",
       "time": "2026-08-08 01:43:28",
