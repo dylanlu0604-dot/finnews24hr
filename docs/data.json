@@ -1,7 +1,164 @@
 {
-  "updated": "2026-08-07 22:10:35",
-  "count": 16065,
+  "updated": "2026-08-07 22:14:31",
+  "count": 16074,
   "items": [
+    {
+      "id": "5031332",
+      "time": "2026-08-07 22:13:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數迅速回吐漲幅。"
+    },
+    {
+      "id": "te:markets:573836",
+      "time": "2026-08-07 22:13:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Rises to 7-Week High — Silver price rose to over $63.5 per ounce on Friday, the highest in seven weeks, as markets reconsidered the likelihood that the Federal Reserve will hike rates this year. New jobs data showed an unexpected drop in payrolls, limiting the leeway for higher rates to attend inflationary pressures. Still, fuel and natural gas prices held most of their pullback in August as the US presidential administration chased an agreement with Iran to restore energy exports through the Persian Gulf. Lower risks of a rate lowered yields and benefited precious metals. In turn, industrial demand for silver also supported bids, as Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th."
+    },
+    {
+      "id": "5031331",
+      "time": "2026-08-07 22:12:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：正關注企業收益與就業市場的關聯。"
+    },
+    {
+      "id": "5031330",
+      "time": "2026-08-07 22:12:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：企業盈利表現相當強勁，增長態勢良好。"
+    },
+    {
+      "id": "te:markets:573835",
+      "time": "2026-08-07 22:12:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "United Overseas Bank earnings above expectations at 0.87 SGD — United Overseas Bank (U11) released earnings per share at 0.87 SGD, compared to market expectations of 0.86 SGD."
+    },
+    {
+      "id": "mkt:019fdc90-eff3-7aab-8fbc-78022eb565c3",
+      "time": "2026-08-07 22:11:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Fed's BARKIN said corporate profits are quite strong and growth is healthy."
+    },
+    {
+      "id": "5031329",
+      "time": "2026-08-07 22:11:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【8月7日增減持彙總（表）】8月7日盤後，據不完全統計，芯源微、創力集團、方盛股份等3家A股上市公司披露擬減持情況；依頓電子、晶華微等兩家A股公司披露擬增持情況。"
+    },
+    {
+      "id": "5031328",
+      "time": "2026-08-07 22:11:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國行動通訊集團重慶有限公司政企客戶部總經理王輝明接受審查調查】8月7日，據中國行動通訊集團重慶有限公司紀委、巫溪縣紀委監委訊息：中國行動通訊集團重慶有限公司政企客戶部黨支部書記、總經理王輝明涉嫌嚴重違紀違法，目前正接受中國行動通訊集團重慶有限公司紀委紀律審查；經市監委指定管轄，巫溪縣監委對其監察調查。"
+    },
+    {
+      "id": "5031326",
+      "time": "2026-08-07 22:11:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：就業處於增長微乎其微的環境。"
+    },
+    {
+      "id": "mkt:019fdc90-25f5-7aab-8fbc-715f7ec812ff",
+      "time": "2026-08-07 22:11:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed's Barkin said the U.S. labor market is in a zero-to-mild employment growth environment."
+    },
+    {
+      "id": "mkt:019fdc8f-d737-7aab-8fbc-684499ac0d6f",
+      "time": "2026-08-07 22:10:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed's BARKIN said employment data looks weak but that's the reality."
+    },
+    {
+      "id": "5031325",
+      "time": "2026-08-07 22:10:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：就業資料表現並不理想，但現狀已然如此。"
+    },
+    {
+      "id": "mkt:019fdc8f-929b-7aab-8fbc-62a57d5b2a06",
+      "time": "2026-08-07 22:10:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Barkin says employment data shows low hiring and low layoffs."
+    },
+    {
+      "id": "mkt:019fdc8f-814c-7aab-8fbc-5e84b8c7aaff",
+      "time": "2026-08-07 22:10:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Magyar said power shortages cost Hungary HUF 6–7 bln during peak demand periods."
+    },
+    {
+      "id": "5031324",
+      "time": "2026-08-07 22:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市委書記陳吉寧檢查排程颱風防禦工作】颱風“白海豚”對上海風雨影響逐漸增強，全市各方面迅速行動起來，加強值班值守、做好充分準備。今天（8月7日）下午，上海市委書記陳吉寧在市防汛指揮部檢查排程颱風防禦工作時指出，要緊扣此次颱風“風長雨強”特點，抓實抓細防汛應急搶險救災各項準備和防禦措施，江河堤防要加強巡查排險，低窪易澇點等風險隱患要及時整治消除，河網和排水管網要做好預降、騰出調蓄庫容，防汛物資要加緊補齊備足，應急力量要科學配置排班，市場供應要確保正常運轉，公共服務要保持“不斷檔”。"
+    },
     {
       "id": "mkt:019fdc8f-49d0-7aab-8fbc-52914d863629",
       "time": "2026-08-07 22:10:05",
@@ -10,6 +167,15 @@
         "Important"
       ],
       "text": "Federal Reserve's Barkin said the labor market is in a weakly balanced state."
+    },
+    {
+      "id": "5031323",
+      "time": "2026-08-07 22:10:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：勞動力市場處於“弱平衡狀態”"
     },
     {
       "id": "5031322",
@@ -146439,85 +146605,6 @@
         "其他"
       ],
       "text": "墨西哥總統辛鮑姆稱已同世界銀行商討墨西哥經濟方案 “墨西哥計劃”。"
-    },
-    {
-      "id": "5019629",
-      "time": "2026-07-31 22:13:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾華沙庫巴曲纈沙坦鈉片中選第十二批國家組織藥品集中採購】據諾華集團訊息，第十二批國家組織藥品集中採購中選結果於今天公佈，諾華沙庫巴曲纈沙坦鈉片在此次集中採購中成功中選。沙庫巴曲纈沙坦鈉片作為心血管領域的重要創新治療方案之一，已在中國廣泛應用，為患者提供了更多元的治療選擇。根據目前已獲知的資訊，此次集採中選涉及該產品心衰適應症。（澎湃）"
-    },
-    {
-      "id": "mkt:019fb884-c86b-7aab-8f38-81e61d20ad90",
-      "time": "2026-07-31 22:12:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury yield rose to 4.7388%, the highest since January 2025."
-    },
-    {
-      "id": "mkt:019fb884-13db-7aab-8f38-7bb71fb35c08",
-      "time": "2026-07-31 22:11:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A top executive at Indian Oil Corporation said the company will procure Saudi crude via an African route."
-    },
-    {
-      "id": "te:markets:571800",
-      "time": "2026-07-31 22:11:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips as Miners Losses Weigh — The S&P/TSX Composite Index edged lower to below 35,500 on Friday, weighed down by losses in mining stocks. Gold prices fell amid a sharp rebound for long-term Treasury yields. Agnico Eagle was down more than 3%, while Barrick and WPM lost over 2% each. Software stocks also weakened, with Shopify and Constellation Software down about 0.5%. Meanwhile, Fairfax Financial (-2%) and Cameco (-0.1%) reported revenue above expectations, but both missed EPS forecasts. Enbridge slipped more than 0.5% despite beating estimates for second-quarter adjusted profit, while Imperial Oil fell 2% despite reporting stronger-than-expected quarterly earnings. In contrast, financials advanced, with RBC, TD Bank, and BMO adding about 0.5% each. Meanwhile, a first estimate showed the Canadian economy grew 0.8% in the second quarter, the most in nearly two years, to show some resiliency to inflatonary pressure."
-    },
-    {
-      "id": "mkt:019fb883-c356-7aab-8f38-72434fcd5a4e",
-      "time": "2026-07-31 22:11:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell 2.00% intraday to $4,021.17/oz."
-    },
-    {
-      "id": "mkt:019fb883-8939-7aab-8f38-6e47d71a9d15",
-      "time": "2026-07-31 22:10:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SNDK.O",
-        "Impact bearish",
-        "MU.O",
-        "SKHY.O"
-      ],
-      "text": "【Philadelphia Semiconductor Index nearly erased intraday 5% gain】Philadelphia Semiconductor Index nearly wiped out an intraday gain of about 5%; SanDisk (SNDK.O) down about 7%, Micron Technology (MU.O) down more than 4%, SK Hynix (SKHY.O) down more than 2%; Nasdaq Composite down about 0.2%."
-    },
-    {
-      "id": "5019628",
-      "time": "2026-07-31 22:10:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料顯示：5月美國原油出口量升至572.8萬桶/日，4月為559.3萬桶/日。"
     }
   ]
 }
