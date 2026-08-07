@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-07 13:54:43",
-  "count": 16124,
+  "updated": "2026-08-07 13:58:38",
+  "count": 16128,
   "items": [
+    {
+      "id": "mkt:019fdacc-77c6-7aab-8fb0-888ac1457efe",
+      "time": "2026-08-07 13:57:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose to $4,280/oz, up 0.94% intraday. Spot silver advanced 2.00% intraday to $62.76/oz."
+    },
+    {
+      "id": "5030125",
+      "time": "2026-08-07 13:57:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金站上4280美元/盎司，日內漲0.94%。"
+    },
+    {
+      "id": "5030124",
+      "time": "2026-08-07 13:56:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報62.77美元/盎司。"
+    },
+    {
+      "id": "5030123",
+      "time": "2026-08-07 13:56:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破63美元/盎司，日內漲2.26%。"
+    },
+    {
+      "id": "5030122",
+      "time": "2026-08-07 13:56:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "中際旭創A股成交額超300億元，現漲0.31%。"
+    },
+    {
+      "id": "5030121",
+      "time": "2026-08-07 13:55:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽省天然氣銷售有限公司原總經理張玲接受紀律審查和監察調查】安徽紀檢監察網8月7日通報，安徽省天然氣銷售有限公司原總經理張玲涉嫌嚴重違紀違法，目前正接受安徽省能源集團有限公司紀委紀律審查；經安徽省監委指定管轄，接受太和縣監委監察調查。"
+    },
     {
       "id": "5030120",
       "time": "2026-08-07 13:54:00",
@@ -147285,26 +147339,6 @@
         "宏觀"
       ],
       "text": "【華福證券任志強：政策組合拳的輪廓更加清晰】中共中央政治局7月30日召開會議，分析研究當前經濟形勢，部署下半年經濟工作。華福證券總裁助理兼研究所所長任志強接受採訪時表示，下半年宏觀政策或將進入存量加速與增量加力的共振視窗期，新舊動能轉換有望提速，資本市場改革預期升溫。“本次政治局會議的政策定調更加積極，政策組合拳的輪廓更加清晰。”任志強說，政策底進一步夯實。會議明確“加大逆週期調節力度”，宏觀政策從“穩”向“進”的轉變訊號明確，有助於提振市場信心、改善市場預期。其次，“加快推動新舊動能轉換”的提法意味著產業轉型升級的政策力度或將進一步加大，新質生產力方向是中長期最具確定性的投資主線。同時，內需鏈條有望邊際改善。隨著財政加快支出、貨幣適度寬鬆、“六張網”加速落地，基建投資鏈、服務消費鏈有望迎來階段性修復機會。此外，資本市場改革預期升溫，後續資本市場投融資改革的推進值得期待。 （證券時報）"
-    },
-    {
-      "id": "te:markets:571523",
-      "time": "2026-07-31 13:57:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Reverses Morning Gains, but Posts Monthly Gain — New Zealand's stocks dropped 64 points, or 0.5%, to 13,699 on Friday, extending losses from the previous session, as traders continued profit-taking after the index hit a third consecutive record high, mainly weighed down by communication services, consumer staples, and real estate. A rebound in the global technology sector was offset by a contraction in China's manufacturing sector, New Zealand's top trading partner. Traders were also cautious ahead of the release of New Zealand's unemployment data due next week. However, the latest data helped limit the decline, as New Zealand's consumer confidence hit a five-month high, while moderating oil prices eased inflation concerns and tempered expectations of an interest rate hike. Among the worst performers were A2 Milk (-2.6%), Ryman Healthcare (-2.3%), Chorus (-2.0%), and Ebos Group (-1.0%). For the week, the index fell 0.2%, while posting a 0.6% increase for the month, marking the sixth straight monthly gain."
-    },
-    {
-      "id": "5018391",
-      "time": "2026-07-31 13:55:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【申能財險獲批開展保險資金境外投資業務】上海金融監管局官網顯示，批覆同意申能財險開展保險資金境外投資業務，用於該公司申請的境外資產。"
     }
   ]
 }
