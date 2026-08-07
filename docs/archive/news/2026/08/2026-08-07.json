@@ -1,7 +1,111 @@
 {
   "date": "2026-08-07",
-  "count": 2523,
+  "count": 2534,
   "items": [
+    {
+      "id": "5031282",
+      "time": "2026-08-07 21:45:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "火箭公司公佈第二季度業績後股價上漲0.9%。"
+    },
+    {
+      "id": "mkt:019fdc78-da66-7aab-8fbb-a29f1ef3abe4",
+      "time": "2026-08-07 21:45:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House National Economic Council director Hassett said employment rose by 100,000 after excluding government employees and World Cup factors."
+    },
+    {
+      "id": "5031280",
+      "time": "2026-08-07 21:44:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江肇州縣出現“牛奶河”，涉事工廠負責人已被控制】近日，網路博主“漁獵齊哥”發帖稱，黑龍江省大慶市肇州縣實現村出現“牛奶河”，水體呈乳白色，狀態黏稠，並散發出惡臭，嚴重汙染生態環境，村民反映系蒜片廠排汙所致。8月7日下午，肇州生態環境局一名工作人員稱，關注到這一情況後，他們第一時間上報縣委縣政府，當即成立專項組對水樣進行檢測，相關部門進行吸汙處置，涉事企業蒜片廠負責人已被相關部門依法控制。上述工作人員告訴記者，涉事蒜片廠證照齊全，並非“三無”工廠，每年生產週期就這10多天，最近當地有極端暴雨天氣，水是沖刷下來自然形成的溝渠，不是河流。另外，該工作人員表示，不是網帖中說的那樣“每年這個季節就會排放大量乳白色很刺激的廢水”，就是今年有極端天氣才出現的。（現代快報）"
+    },
+    {
+      "id": "5031279",
+      "time": "2026-08-07 21:42:40",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國76個典型地區再生水利用配置試點工作完成】記者7日從水利部獲悉，全國28個省份的76個典型地區再生水利用配置試點工作順利完成。經多方評估，試點達到預期效果。根據水利部等六部門聯合印發的《典型地區再生水利用配置試點方案》，“十四五”期間，各試點城市圍繞建立完善再生水利用管理體系，系統構建再生水技術標準體系，出臺價格、財政獎補、用水指標配置、水權交易、綠色金融、生態價值轉化等激勵政策，挖潛再生水補充新增用水需求、改善河湖生態環境、降低工業用水綜合成本、節水減汙降碳等多重價值，有效發揮其經濟效益、生態效益、社會效益。（新華社）"
+    },
+    {
+      "id": "5031278",
+      "time": "2026-08-07 21:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股商業航天股盤初走高，SpaceX漲超4%，Rocket Lab漲近6%。"
+    },
+    {
+      "id": "5031277",
+      "time": "2026-08-07 21:40:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，嘉楠科技漲9.36%，大全新能源漲7.31%，禾賽科技漲6.20%，再鼎醫藥漲6.63%，盛豐物流漲4.40%。"
+    },
+    {
+      "id": "te:markets:573826",
+      "time": "2026-08-07 21:40:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 4-week High — Lowe's Companies shares increased to 221.24 USD, the highest since July 2026. Over the past 4 weeks, Lowe's Companies gained 0.01%, and in the last 12 months, it decreased 7.39%."
+    },
+    {
+      "id": "mkt:019fdc73-d22b-7aab-8fbb-9f0cb75a1ed9",
+      "time": "2026-08-07 21:40:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Canada July employment surprises with 75.1k gain; unemployment drops to two-year low】Statistics Canada said July employment unexpectedly rose by 75.1k, pushing the unemployment rate down to 6.4% from 6.5% in June, a two-year low. The Canadian dollar rallied to an intraday high, gaining as much as 0.5%. Canadian government bonds were initially sold after the print but later reversed into gains as markets also digested an unexpected decline in US payrolls. May–July employment rose a cumulative 181.1k, the largest three-month gain since tariffs on Canadian goods were imposed, signaling labour-market momentum may extend into Q3 after a Q2 rebound."
+    },
+    {
+      "id": "te:markets:573825",
+      "time": "2026-08-07 21:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.13% Higher — The Dow Jones Index is picking up 73 points or 0.13 percent on Friday. Gains are led by Amazon (1.65%), Sherwin-Williams (1.38%) and Nvidia (1.32%). Biggest losers are Chevron (-1.47%), P&G (-1.20%) and Walmart (-1.02%)."
+    },
+    {
+      "id": "5031276",
+      "time": "2026-08-07 21:39:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲2%，現報955.00元。"
+    },
+    {
+      "id": "5031275",
+      "time": "2026-08-07 21:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：將於2026年8月10日以流動性調節工具（LAF）開展規模2萬億盧比的7天可變利率逆回購（VRRR）招標。"
+    },
     {
       "id": "5031274",
       "time": "2026-08-07 21:37:17",
