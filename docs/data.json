@@ -1,7 +1,204 @@
 {
-  "updated": "2026-08-07 20:41:43",
-  "count": 16127,
+  "updated": "2026-08-07 20:45:54",
+  "count": 16133,
   "items": [
+    {
+      "id": "te:markets:573807",
+      "time": "2026-08-07 20:44:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "DXY Falls Toward 2-Month Low After Jobs Report — The dollar index fell 0.5% to 99.4 on Friday, near a two-month low, after weaker-than-expected US employment data reduced expectations that the Federal Reserve will need to raise interest rates in the near term. Nonfarm payrolls unexpectedly fell by 23,000 in July, while substantial downward revisions to the previous two months pointed to a weakening labor market. The unemployment rate edged down to 4.1%, although labor force participation continued to decline. The data reinforced concerns that employment conditions are deteriorating amid persistent price pressures and uncertainty linked to the Iran conflict, while also increasing the likelihood that the Fed could delay further tightening. Investors subsequently reduced bets on a September rate hike. Meanwhile, President Donald Trump said negotiations between Iran and Oman over the Strait of Hormuz were “moving along,” although no agreement has been finalized."
+    },
+    {
+      "id": "mkt:019fdc41-454b-7aab-8fba-b24a7438f086",
+      "time": "2026-08-07 20:44:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Data and sources show drone attacks have left the Caspian Pipeline Consortium's July oil loadings about 20% below plan, at roughly 1.2–1.3 mln bpd."
+    },
+    {
+      "id": "5031187",
+      "time": "2026-08-07 20:44:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "根據資料以及訊息源顯示，受無人機襲擊影響，裡海管道聯盟7月石油裝載量較計劃落後20%，降至每日120萬至130萬桶。"
+    },
+    {
+      "id": "5031186",
+      "time": "2026-08-07 20:44:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲3.06%。"
+    },
+    {
+      "id": "mkt:019fdc40-7075-7aab-8fba-a8e05d6e67f8",
+      "time": "2026-08-07 20:43:58",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD climbed above 1.3500, rising 0.35% intraday."
+    },
+    {
+      "id": "5031185",
+      "time": "2026-08-07 20:43:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4430美元/盎司，日內漲3.06%。"
+    },
+    {
+      "id": "mkt:019fdc40-01e0-7aab-8fba-a39e467b14b9",
+      "time": "2026-08-07 20:43:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US nonfarm payrolls unexpectedly cool; unemployment falls to 4.1%】US nonfarm payrolls unexpectedly declined in July, down 23,000, with June’s gain revised down to a 20,000 increase, raising questions about a September Fed rate hike. The unemployment rate eased to 4.1% from 4.2% as labor force participation fell; economists describe the market as “slow hiring, slow firing.” Despite six months of Middle East tensions, Q2 domestic demand grew at the fastest pace in three years. Markets had priced a September hike before the report; next week’s inflation data may intensify debate over near-term monetary policy."
+    },
+    {
+      "id": "mkt:019fdc3f-de8e-7aab-8fba-9e83a76a98fe",
+      "time": "2026-08-07 20:43:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold jumped 3.00% intraday to $4,367.90/oz. Spot silver rose 5.5%."
+    },
+    {
+      "id": "5031184",
+      "time": "2026-08-07 20:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "Take-Two高管談及《GTA VI》時表示：“我們的預訂量異常出色。在Take-Two乃至整個行業，都從未見過這樣的情況。”"
+    },
+    {
+      "id": "5031183",
+      "time": "2026-08-07 20:42:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲3%，現報4368.18美元/盎司。"
+    },
+    {
+      "id": "5031182",
+      "time": "2026-08-07 20:42:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲3%，現報4428.83美元/盎司。"
+    },
+    {
+      "id": "mkt:019fdc3e-cf88-7aab-8fba-935e3b967687",
+      "time": "2026-08-07 20:42:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US nonfarm payrolls weak; 10-year UK gilt yield fell to 4.898%."
+    },
+    {
+      "id": "5031181",
+      "time": "2026-08-07 20:41:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議員禮薩伊表示：與巴基斯坦、土耳其簽署防務條約無法為沙特帶來安全，利雅得應當調整其政策。"
+    },
+    {
+      "id": "5031180",
+      "time": "2026-08-07 20:41:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國7月就業意外萎縮 美聯儲迎政策難題】美國7月意外減少2.3萬個就業崗位，遠低於預期的增加8萬個。六月份的增幅也被下調至僅2萬個。儘管就業市場疲軟，失業率卻意外從4.2%降至4.1%。這一令人失望的報告再次引發了對勞動力市場的擔憂，並可能使美聯儲的利率決策變得複雜，因為政策制定者需要在就業疲軟與持續通脹之間尋求平衡。"
+    },
+    {
+      "id": "mkt:019fdc3e-1b0d-7aab-8fba-8c5be4bfbac0",
+      "time": "2026-08-07 20:41:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: July nonfarm payrolls unexpectedly fell by 23,000, trimming the 12-month average monthly gain to 34,000."
+    },
+    {
+      "id": "mkt:019fdc3e-0f9c-7aab-8fba-80a5e1d6d4a3",
+      "time": "2026-08-07 20:41:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【US July nonfarm payrolls unexpectedly fall; prior months revised down】US employers cut nonfarm payrolls by 23,000 in July and prior months were sharply revised down, the BLS said on Friday. The unemployment rate fell to 4.1% while the labor force participation rate continued to drift lower. The report flags a potential softening in the labor market amid rising inflation and heightened uncertainty from the Iran conflict, though still-robust consumer demand is sustaining some hiring. The print could encourage the Fed to delay further rate hikes as policymakers balance inflation pressures against employment risks."
+    },
+    {
+      "id": "5031179",
+      "time": "2026-08-07 20:41:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "安德瑪計劃未來 18 個月再削減 25% 的產品 SKU。"
+    },
+    {
+      "id": "em:jjsj_jndsj:202608073835413677",
+      "time": "2026-08-07 20:41:03",
+      "tags": [
+        "經濟數據",
+        "加拿大"
+      ],
+      "text": "【加拿大7月就業資料顯著強於市場預期】加拿大7月就業資料顯著強於市場預期，當月新增就業7.51萬人，預期僅為1.5萬人，前值1.82萬人。崗位結構上，全職就業新增3.86萬人，兼職就業新增3.66萬人，全職、兼職崗位同步實現明顯增長。"
+    },
     {
       "id": "5031178",
       "time": "2026-08-07 20:40:55",
@@ -146960,111 +147157,6 @@
         "WTI"
       ],
       "text": "Poland's Prime Minister Tusk said Poland has summoned the Russian ambassador over a missile-fall incident."
-    },
-    {
-      "id": "5019437",
-      "time": "2026-07-31 20:45:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息:聯發科核准發行至多 40 億美元可轉換債券。"
-    },
-    {
-      "id": "5019436",
-      "time": "2026-07-31 20:45:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局7月31日18時聯合釋出橙色地質災害氣象風險預警：2026年7月31日20時至8月1日20時，山西中西部區域性、黑龍江中南部區域性、廣東南部區域性、廣西南部區域性、四川北部和中南區域性、陝西西南部、甘肅東南部發生地質災害的風險較高（黃色預警）；四川北部區域性、陝西西南區域性、甘肅東南區域性發生地質災害的風險高（橙色預警）。（新華社）"
-    },
-    {
-      "id": "5019435",
-      "time": "2026-07-31 20:44:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迅策：預計上半年歸母淨利潤7251萬元 首度實現半年度盈利】迅策（03317.HK）7月31日晚間披露盈利預告，預計2026年上半年實現營收9.67億元，同比增長389%；歸母淨利潤7251萬元，首度實現半年度盈利，上年同期為虧損8900萬元；經調整淨利潤6700萬元，上年同期虧損1.05億元。報告期內，公司Token呼叫量攀升，成為收入增長新引擎。Token業務落地最佳化了公司收入結構，從專案制的線性增長升級為以Token呼叫量驅動的增長模式，Token經濟商業化程序遠超預期。"
-    },
-    {
-      "id": "5019434",
-      "time": "2026-07-31 20:44:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【皇崗口岸港方口岸區正式成立】香港特區政府新聞處31日表示，皇崗口岸港方口岸區已於當日零時正式成立，由香港特區依照本地法律實施管轄。 據瞭解，位於深圳的皇崗口岸重建後將實施“一地兩檢”安排，定位為港深之間最重要的24小時客運陸路口岸。《皇崗口岸港方口岸區條例》31日生效，該條例為特區政府在皇崗口岸設立港方口岸區，以及在港方口岸區依法實施管轄提供法律基礎。 為配合港方口岸區作為禁區的管理、指定羈留設施、交通及運輸管理的配套安排，以及提供公共流動無線電通訊服務等事宜，特區政府還制定了6項附屬法例。該6項附屬法例與條例同步於31日生效。 香港特區政府保安局局長鄧炳強31日前往皇崗口岸港方口岸區視察，聽取各部門彙報設施準備情況，並主持跨部門工作小組會議，全力推進口岸開放前的各項籌備工作。 特區政府發言人表示，特區政府將繼續與深圳方面保持緊密合作，有序推進系統測試、運作及應急演練，確保口岸設施及安排完善。待雙方確認具備安全、暢順運作的條件後，粵港兩地政府將敲定正式開通日期，並適時向公眾公佈。(新華社)"
-    },
-    {
-      "id": "5019433",
-      "time": "2026-07-31 20:43:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯穀物出口商與生產商聯盟：本季俄羅斯小麥供應缺口或將達到3000萬至3500萬噸。"
-    },
-    {
-      "id": "5019432",
-      "time": "2026-07-31 20:43:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交大昂立：因信披違法擬被處罰 股票將被實施其他風險警示】交大昂立公告稱，公司2025年7月因涉嫌資訊披露違法違規被證監會立案。2026年7月31日，收到上海監管局《行政處罰事先告知書》，公司2023年會計差錯更正公告及2024年年報存在虛假記載，擬對公司責令改正、警告，並處400萬元罰款；對嵇霖、嵇敏、曹毅分別警告，並處200萬、100萬、100萬元罰款。公司股票將被實施其他風險警示，但未觸及重大違法類強制退市情形。"
-    },
-    {
-      "id": "mkt:019fb832-cd4e-7aab-8f36-017f14d8127b",
-      "time": "2026-07-31 20:42:44",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Russian Grain Exporters and Producers Union says attacks in the Black Sea region could soon lead to a complete shutdown of export corridors."
-    },
-    {
-      "id": "5019431",
-      "time": "2026-07-31 20:42:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙訊息稱，休達近25000名移民已離開。"
-    },
-    {
-      "id": "mkt:019fb832-a0de-7aab-8f35-fc2ad1272dc7",
-      "time": "2026-07-31 20:42:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI"
-      ],
-      "text": "【Oxford Economics: rising inflation risks boost odds of ECB September rate hike】Oxford Economics analyst Iain Simmons says euro‑area inflation remains above target and faces material upside risks. Middle East tensions have pushed energy prices higher; July headline inflation rose 0.1ppt to 2.9%. Since the breakdown of the Iran ceasefire, the risk of broader inflation spillovers has increased, strengthening the case for an ECB rate rise in September. Simmons adds that yesterday’s stronger‑than‑expected GDP print suggests the euro‑area may better tolerate tightening, but inflation’s response to Middle East developments has so far been muted and any second‑round wage effects later this year may be limited."
-    },
-    {
-      "id": "5019430",
-      "time": "2026-07-31 20:42:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯穀物出口商與生產商聯盟表示，黑海地區遇襲很可能會導致那裡的出口航道在近期被完全封鎖。"
-    },
-    {
-      "id": "5019429",
-      "time": "2026-07-31 20:41:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【玲瓏輪胎：戴雲霞間接持股增加約6% 控股股東未變】玲瓏輪胎公告稱，2026年7月31日，戴雲霞與王鋒簽署《玲瓏集團有限公司股權轉讓協議》，王鋒將持有的玲瓏集團14.551%股權轉給配偶戴雲霞。變動後，戴雲霞間接持有玲瓏輪胎約6%股權，王鋒不再間接持股。本次權益變動不會導致公司控股股東、實際控制人變更，戴雲霞為實際控制人王氏家族之一致行動人。戴雲霞暫無增持上市公司股份的計劃。"
-    },
-    {
-      "id": "5019428",
-      "time": "2026-07-31 20:41:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST益通：披露股票交易被實施風險警示的整改進展】*ST益通公告稱，因2025年度財務報告被出具無法表示意見審計報告、內部控制有效性被出具否定意見審計報告，自2026年5月6日起，公司股票交易被實施退市及其他風險警示。截至目前，公司已採取多項整改措施，包括成立內控整改工作領導小組、聘請中興華會計師事務所協助自查整改、召開中高層會議宣貫整改方案等。公司將持續開展合規培訓，後續會每月披露進展及風險提示。"
     }
   ]
 }
