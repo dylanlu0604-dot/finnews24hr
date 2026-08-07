@@ -1,7 +1,27 @@
 {
   "date": "2026-08-08",
-  "count": 23,
+  "count": 25,
   "items": [
+    {
+      "id": "5031431",
+      "time": "2026-08-08 00:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：不存在所謂的自由貿易，我們追求的是公平貿易。歐盟對我方汽車徵收 10% 關稅，而我們對歐盟汽車僅徵收 3% 關稅。這何談公平？因此我們正在下調關稅，消除非關稅貿易壁壘，抵制補貼勞工現象，並把就業崗位帶回本國。"
+    },
+    {
+      "id": "mkt:019fdd09-62d8-7aab-8fbe-1c9fc4478fcb",
+      "time": "2026-08-08 00:23:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "The U.S. State Department said the U.S. Treasury today took action to dismantle a network of money exchangers and shell companies that helped Iran secretly move hundreds of millions of dollars through the international financial system. The network funneled oil revenues to Tehran and used front companies to launder funds and evade sanctions aimed at curbing its destabilizing activities."
+    },
     {
       "id": "5031430",
       "time": "2026-08-08 00:23:03",

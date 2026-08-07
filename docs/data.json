@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08 00:23:51",
-  "count": 15994,
+  "updated": "2026-08-08 00:27:54",
+  "count": 15990,
   "items": [
+    {
+      "id": "5031431",
+      "time": "2026-08-08 00:26:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：不存在所謂的自由貿易，我們追求的是公平貿易。歐盟對我方汽車徵收 10% 關稅，而我們對歐盟汽車僅徵收 3% 關稅。這何談公平？因此我們正在下調關稅，消除非關稅貿易壁壘，抵制補貼勞工現象，並把就業崗位帶回本國。"
+    },
+    {
+      "id": "mkt:019fdd09-62d8-7aab-8fbe-1c9fc4478fcb",
+      "time": "2026-08-08 00:23:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "The U.S. State Department said the U.S. Treasury today took action to dismantle a network of money exchangers and shell companies that helped Iran secretly move hundreds of millions of dollars through the international financial system. The network funneled oil revenues to Tehran and used front companies to launder funds and evade sanctions aimed at curbing its destabilizing activities."
+    },
     {
       "id": "5031430",
       "time": "2026-08-08 00:23:03",
@@ -145784,66 +145804,6 @@
         "其他"
       ],
       "text": "因國際足聯相關計劃，因凡蒂諾一名高階顧問宣佈辭職。"
-    },
-    {
-      "id": "mkt:019fb900-5217-7aab-8f3b-57709b78e5bc",
-      "time": "2026-08-01 00:27:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Trump says Iran launched five missiles at Jordan."
-    },
-    {
-      "id": "5019768",
-      "time": "2026-08-01 00:26:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我告訴澤連斯基，你必須結束這場戰爭。"
-    },
-    {
-      "id": "5019767",
-      "time": "2026-08-01 00:26:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：普京和澤連斯基需要做出讓步。"
-    },
-    {
-      "id": "mkt:019fb8ff-46a3-7aab-8f3b-4eae98826163",
-      "time": "2026-08-01 00:26:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump says both sides must make concessions on the Ukraine war."
-    },
-    {
-      "id": "mkt:019fb8fe-10ab-7aab-8f3b-414bd9a55b60",
-      "time": "2026-08-01 00:24:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he is increasingly losing confidence in the prospect of an Iran deal, saying Iran lies."
-    },
-    {
-      "id": "5019765",
-      "time": "2026-08-01 00:24:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（被問及能否達成伊朗相關協議）我對伊朗越來越失去信心，因為他們慣於撒謊。 我們談判正進行之際，他們向約旦發射了五枚導彈。"
     }
   ]
 }
