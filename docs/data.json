@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-08 00:44:10",
-  "count": 15990,
+  "updated": "2026-08-08 00:48:08",
+  "count": 15994,
   "items": [
+    {
+      "id": "mkt:019fdd1f-103a-7aab-8fbe-734d7d4ab769",
+      "time": "2026-08-08 00:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister met with the head of Saudi intelligence to discuss coordination on developments in regional security."
+    },
+    {
+      "id": "mkt:019fdd1e-d89b-7aab-8fbe-69738fab6451",
+      "time": "2026-08-08 00:46:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Yemen navy says it thwarted attempted attack on oil tanker in Red Sea】Yemen’s navy said it foiled an attempt to attack an oil tanker in the Red Sea using a boat laden with explosives, Al Jazeera reported. Naval patrols found the vessel near the Mocha power plant that evening and, according to military-linked media, took “necessary measures”; the explosive boat detonated before reaching the tanker. The navy blamed the Houthi movement for the incident."
+    },
+    {
+      "id": "5031444",
+      "time": "2026-08-08 00:46:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理接見沙烏地阿拉伯總情報局局長，雙方就地區安全域性勢的協同事宜展開磋商。"
+    },
+    {
+      "id": "mkt:019fdd1d-732e-7aab-8fbe-6597e03c2911",
+      "time": "2026-08-08 00:45:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president said he is preparing an economic conference to be held in Washington."
+    },
+    {
+      "id": "5031443",
+      "time": "2026-08-08 00:44:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "秘魯經濟部長表示，在秘魯國家石油公司近期董事會重組後，不會對該國企推行私有化。"
+    },
+    {
+      "id": "mkt:019fdd1c-7be4-7aab-8fbe-5904eacedca4",
+      "time": "2026-08-08 00:44:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's economy minister ruled out privatizing state-owned oil company Petroperú after a recent board reshuffle."
+    },
+    {
+      "id": "mkt:019fdd1c-5ff2-7aab-8fbe-50653be914ac",
+      "time": "2026-08-08 00:44:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president said private discussions with Trump were constructive, with Trump expressing understanding of Lebanon's situation and opening many doors. He said the talks have already resulted in the lifting of U.S. restrictions on American carriers operating flights to Lebanon."
+    },
     {
       "id": "mkt:019fdd1a-3c3c-7aab-8fbe-4d7b55f50eef",
       "time": "2026-08-08 00:41:51",
@@ -145761,34 +145820,6 @@
         "Brent"
       ],
       "text": "US oil rig count for the week to July 31 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019fb911-e1a2-7aab-8f3b-94174878cff4",
-      "time": "2026-08-01 00:46:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump denies agreeing to let Ukraine produce Patriot interceptors】On July 31 at a cabinet meeting, President Trump told reporters the US has not agreed to allow Ukraine to produce Patriot air‑defense interceptors and said Washington must be very careful about permitting other countries to manufacture such weapons. On July 28 Trump met Ukrainian President Zelenskiy at the White House; Zelenskiy subsequently said Trump had agreed to grant Ukraine a production license for Patriot interceptors."
-    },
-    {
-      "id": "mkt:019fb910-63d2-7aab-8f3b-8fa62686e3a1",
-      "time": "2026-08-01 00:44:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "NXPI.O",
-        "Impact bullish"
-      ],
-      "text": "FT reports NXP SEMI (NXPI.O) is in talks to acquire a designer of camera chips for autonomous vehicles valued at $3.3 bln."
-    },
-    {
-      "id": "5019777",
-      "time": "2026-08-01 00:44:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲持續乾旱 多國河湖水位跌至低位】受5月以來多輪熱浪、降雨減少等因素影響，歐洲多條河流和湖泊水位降至歷史低位。這不僅影響到農業灌溉、航運和旅遊業，還出現漁民無法正常作業、核電站因缺少冷卻水被迫關停反應堆等情況，嚴重衝擊相關歐洲國家的經濟活動。（央視新聞）"
     }
   ]
 }

@@ -1,7 +1,66 @@
 {
   "date": "2026-08-08",
-  "count": 41,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:019fdd1f-103a-7aab-8fbe-734d7d4ab769",
+      "time": "2026-08-08 00:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister met with the head of Saudi intelligence to discuss coordination on developments in regional security."
+    },
+    {
+      "id": "mkt:019fdd1e-d89b-7aab-8fbe-69738fab6451",
+      "time": "2026-08-08 00:46:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Yemen navy says it thwarted attempted attack on oil tanker in Red Sea】Yemen’s navy said it foiled an attempt to attack an oil tanker in the Red Sea using a boat laden with explosives, Al Jazeera reported. Naval patrols found the vessel near the Mocha power plant that evening and, according to military-linked media, took “necessary measures”; the explosive boat detonated before reaching the tanker. The navy blamed the Houthi movement for the incident."
+    },
+    {
+      "id": "5031444",
+      "time": "2026-08-08 00:46:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理接見沙烏地阿拉伯總情報局局長，雙方就地區安全域性勢的協同事宜展開磋商。"
+    },
+    {
+      "id": "mkt:019fdd1d-732e-7aab-8fbe-6597e03c2911",
+      "time": "2026-08-08 00:45:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president said he is preparing an economic conference to be held in Washington."
+    },
+    {
+      "id": "5031443",
+      "time": "2026-08-08 00:44:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "秘魯經濟部長表示，在秘魯國家石油公司近期董事會重組後，不會對該國企推行私有化。"
+    },
+    {
+      "id": "mkt:019fdd1c-7be4-7aab-8fbe-5904eacedca4",
+      "time": "2026-08-08 00:44:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's economy minister ruled out privatizing state-owned oil company Petroperú after a recent board reshuffle."
+    },
+    {
+      "id": "mkt:019fdd1c-5ff2-7aab-8fbe-50653be914ac",
+      "time": "2026-08-08 00:44:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president said private discussions with Trump were constructive, with Trump expressing understanding of Lebanon's situation and opening many doors. He said the talks have already resulted in the lifting of U.S. restrictions on American carriers operating flights to Lebanon."
+    },
     {
       "id": "mkt:019fdd1a-3c3c-7aab-8fbe-4d7b55f50eef",
       "time": "2026-08-08 00:41:51",
