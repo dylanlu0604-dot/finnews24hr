@@ -1,7 +1,64 @@
 {
   "date": "2026-08-07",
-  "count": 2552,
+  "count": 2558,
   "items": [
+    {
+      "id": "5031298",
+      "time": "2026-08-07 21:57:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將阿斯頓·馬丁展望下調至負面；調低高階擔保債券評級。"
+    },
+    {
+      "id": "5031297",
+      "time": "2026-08-07 21:56:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理：匈牙利可能需要一個月時間才能恢復核電站的全部發電能力。"
+    },
+    {
+      "id": "mkt:019fdc82-b335-7aab-8fbb-d059eb23f533",
+      "time": "2026-08-07 21:56:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister said it may take about a month to restore full generating capacity at its nuclear power plant."
+    },
+    {
+      "id": "mkt:019fdc82-2092-7aab-8fbb-cd6183b81fa8",
+      "time": "2026-08-07 21:55:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Sources told the Global Post that Canada is negotiating trade concessions with the US in exchange for partial tariff relief."
+    },
+    {
+      "id": "5031296",
+      "time": "2026-08-07 21:54:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商米科技－Ｗ：基石投資者自願延長禁售期至2027年3月28日】商米科技－Ｗ公告，公司收到基石投資者XINWUTANG CO., LIMITED自願承諾函，將原定於2026年10月28日屆滿的六個月禁售期延長五個月至2027年3月28日（含當日）。截至公告日，該基石投資者持有994.57萬股H股，佔全部已發行H股約3.33%，佔公司已發行股本總數（不含庫存股份）約2.47%。"
+    },
+    {
+      "id": "te:markets:573827",
+      "time": "2026-08-07 21:54:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower on Corporate Results — The Ibovespa edged lower to hover near 175,000 on Friday amid another batch of 2Q26 earnings reports. Localiza edged lower despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Renner slumped 10% after cutting its 2026 net revenue guidance as sales slowed sharply during the World Cup period. Magazine Luiza also fell nearly 5% after reporting a net loss in 2Q26 almost three times larger than in 2Q25. BB Seguridade dropped 6% after its dividend cutoff date passed on Thursday, with shares now trading ex-dividend. Bradesco BBI said the company is likely to continue facing a challenging environment after its pension business disappointed, reflecting weaker financial results. In contrast, Petrobras gained over 0.5% after beating expectations, as supply disruptions linked to the US-Iran conflict lifted second-quarter prices for crude, gasoline, and diesel. Its EBITDA rose 80% year-on-year."
+    },
     {
       "id": "5031295",
       "time": "2026-08-07 21:53:16",
