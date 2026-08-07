@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-08 01:40:15",
-  "count": 16011,
+  "updated": "2026-08-08 01:44:09",
+  "count": 16012,
   "items": [
+    {
+      "id": "5031471",
+      "time": "2026-08-08 01:43:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮 8 月 5 日致美聯儲理事庫克的信函，要求其在 21 日內就自身相關言論提交書面答覆。"
+    },
+    {
+      "id": "5031470",
+      "time": "2026-08-08 01:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，原糖投機者淨多頭頭寸增加 2752 手，至 55261 手。 飼料小麥投機者淨多頭頭寸增加 281 手，達到 281 手。"
+    },
+    {
+      "id": "5031469",
+      "time": "2026-08-08 01:41:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國白宮致美聯儲理事庫克的信件稱，特朗普正考慮解除其美聯儲理事職務。"
+    },
+    {
+      "id": "5031468",
+      "time": "2026-08-08 01:41:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，羅布斯塔咖啡投機者將淨多頭頭寸削減 1591 手，至 37968 手。"
+    },
     {
       "id": "mkt:019fdd4b-f8be-7aab-8fbf-5bb0f4bc6cc0",
       "time": "2026-08-08 01:36:11",
@@ -145911,36 +145945,6 @@
         "MKT News"
       ],
       "text": "Serbian state TV said Serbia has again received a US sanctions waiver for its Russian-owned oil company NIS."
-    },
-    {
-      "id": "te:economy:571844",
-      "time": "2026-08-01 01:42:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Aug 3rd — The start of August will see the war between Iran and the US continue to uphold the uncertainty in global energy prices, and consequently, the inflation outlook. This is in tandem with volatility in the AI trade, to be updated with results from SpaceX and AMD. A busy week of economic data will be headlined by the US jobs report and other labor data in the JOLTS and ADP report. ISM PMIs, factory orders, and the trade balance will also be featured for updates on industry and tariffs. In Europe, industrial production among the largest Eurozone states will unveil the impact of higher power costs, while Germany will post its trade balance. PMI results and the trade balance are awaited in China. Meanwhile, Japan will release wage data, and industry surveys are due in Australia. Interest rate decisions will take place in Brazil and India. Elsewhere, OPEC+ members will convene and discuss oil output quotas for the year."
-    },
-    {
-      "id": "mkt:019fb943-fa83-7aab-8f3c-4b452f76e9a1",
-      "time": "2026-08-01 01:41:07",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY hit an intraday low, down over 0.7% on the day at 158.32."
-    },
-    {
-      "id": "5019795",
-      "time": "2026-08-01 01:41:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理：義大利支援歐盟支援西班牙的倡議。"
     }
   ]
 }
