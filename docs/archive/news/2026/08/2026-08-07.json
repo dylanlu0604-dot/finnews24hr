@@ -1,7 +1,56 @@
 {
   "date": "2026-08-07",
-  "count": 2697,
+  "count": 2702,
   "items": [
+    {
+      "id": "5031388",
+      "time": "2026-08-07 22:52:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SpaceX漲超百分之十一，創盤中新高，報128.45美元/股。"
+    },
+    {
+      "id": "mkt:019fdcb5-4e00-7aab-8fbd-2963151f030e",
+      "time": "2026-08-07 22:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Republican Senator Cassidy says he will vote to support Todd Blanche's nomination for attorney general."
+    },
+    {
+      "id": "5031387",
+      "time": "2026-08-07 22:51:19",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利維持SK海力士、三星電子增持評級】摩根士丹利維持SK海力士、三星電子增持評級，目標價分別定為260萬韓元、38.1萬韓元。 以報告採用基準股價測算，兩大目標價對應潛在上漲空間約74%、65%，但不代表股價必將上行。 報告將2027年雲資本開支同比增速預測由14%上調至29%，AI算力需求仍是儲存週期重要結構性支撐。 DRAM、NAND合約價格持續上行，但環比漲幅自高點回落；摩根士丹利預計儲存行業將在2026年第四季度進入週期後期。"
+    },
+    {
+      "id": "5031386",
+      "time": "2026-08-07 22:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國共和黨參議員比爾·卡西迪表示將投票支援布蘭奇出任司法部長 。"
+    },
+    {
+      "id": "mkt:019fdcb3-f2c0-7aab-8fbd-22f18b52efee",
+      "time": "2026-08-07 22:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y"
+      ],
+      "text": "New York Fed 1-year inflation expectations for July due in 10 minutes."
+    },
     {
       "id": "5031385",
       "time": "2026-08-07 22:48:22",
