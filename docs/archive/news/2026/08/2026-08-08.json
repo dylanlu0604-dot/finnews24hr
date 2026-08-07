@@ -1,7 +1,28 @@
 {
   "date": "2026-08-08",
-  "count": 350,
+  "count": 352,
   "items": [
+    {
+      "id": "te:markets:573891",
+      "time": "2026-08-08 04:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on Earnings Weakness — The Ibovespa fell 1.7% to close at 177,513 on Friday amid another batch of second-quarter 2026 earnings reports. Petrobras shed 3%, erasing earlier gains despite delivering one of its strongest earnings reports in recent quarters and beating expectations, as much of the strong performance had already been priced in and uncertainty remained over its sustainability. Localiza also fell 0.8% despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Magazine Luiza dropped 3.7% following weak results and concerns over profitability, while Renner plunged 8.1% after cutting its guidance amid concerns about sales. Elsewhere, Vale fell 0.6% despite higher iron ore prices. Banks also declined broadly, led by Bradesco, down 2.2%, and Itaú Unibanco, which fell 2.6% ahead of the release of the Copom minutes on Tuesday, which are expected to provide further insight into the monetary authority's outlook for the Selic rate."
+    },
+    {
+      "id": "5031631",
+      "time": "2026-08-08 04:41:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體與科技集團：Crypto.com、特朗普媒體、Yorkville America已共同同意不再推進此前宣佈的合作關係。"
+    },
     {
       "id": "5031630",
       "time": "2026-08-08 04:40:45",
