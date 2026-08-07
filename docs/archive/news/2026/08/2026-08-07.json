@@ -1,7 +1,47 @@
 {
   "date": "2026-08-07",
-  "count": 2174,
+  "count": 2178,
   "items": [
+    {
+      "id": "mkt:019fdc0a-64fe-7aab-8fb8-51828bde5432",
+      "time": "2026-08-07 19:44:56",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【HKEX five-year China government bond futures trade 13,270 contracts in debut week】HKEX’s new five-year China government bond futures recorded cumulative turnover of 13,270 contracts in its first week, with average daily volume above 2,000 contracts, drawing heavy domestic and international institutional participation. Trading was orderly and market participants say the offshore contract is tracking onshore bond yields closely, is beginning to serve a price-discovery role, and reflects offshore liquidity and investor expectations. A foreign broker fixed-income trader said the contract fills a gap in offshore medium-term rate hedging and provides an efficient, transparent tool for managing duration in RMB bond portfolios."
+    },
+    {
+      "id": "5031056",
+      "time": "2026-08-07 19:44:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港交所五年期國債期貨首周成交逾1.3萬手】港交所推出的五年期中國國債期貨合約於本週正式掛牌交易，上市首周執行平穩，成交活躍，吸引了境內外眾多機構投資者的積極參與。據港交所公佈資料顯示，五年期中國國債期貨合約上市首周累計成交13270手，日均成交量逾2000手。業內人士表示，港交所離岸國債期貨與在岸國債收益率走勢保持高度聯動，合約價格發現功能初步顯現，同時充分反映了離岸市場的流動性特徵和投資者預期。一位外資券商固收交易員表示：\"港交所五年期國債期貨的推出填補了離岸市場中期利率風險管理工具的重要空白。合約設計兼顧了國際慣例與中國市場特色，為我們管理人民幣債券組合的久期風險提供了高效、透明的解決方案。\"（新華財經）"
+    },
+    {
+      "id": "mkt:019fdc09-1923-7aab-8fb8-49797531e55c",
+      "time": "2026-08-07 19:43:31",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "ARGUS Research upgraded SpaceX (SPCX.O) from Hold to Buy."
+    },
+    {
+      "id": "mkt:019fdc08-7d8b-7aab-8fb8-411165a45d41",
+      "time": "2026-08-07 19:42:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "03330.HK",
+        "Impact bullish"
+      ],
+      "text": "Lingbao Gold (03330.HK): group unit Habahe County Huayuan Mining Co. said exploration made material progress; contained resources rose to 53.94 tonnes as of June 30, 2026, up from 13.20 tonnes at end‑2025."
+    },
     {
       "id": "5031054",
       "time": "2026-08-07 19:41:19",
