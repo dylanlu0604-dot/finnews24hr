@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 05:49:11_
-_本檔包含 3357 則快訊，約 603354 字_
+_更新時間：2026-08-08 06:50:01_
+_本檔包含 3305 則快訊，約 602577 字_
+
+---
+
+### 2026-08-07 03:00:02  #市場
+
+恒指期貨夜盤收漲0.00%，報25548.16點，高水17.88點。
+
+---
+
+### 2026-08-07 02:25:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Sugar Rises by 2.84% — Top commodity gainers are Sugar (2.84%) and Rice (0.81%). Biggest losers are Cocoa (-2.70%) and Oat (-2.61%).
+
+---
+
+### 2026-08-07 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore CNY Rises by 1.84% — Top commodity gainers are Iron Ore CNY (1.84%), Lithium Carbonate (0.89%) and Silicon (0.66%). Biggest loser is Silver (-0.80%).
+
+---
+
+### 2026-08-07 02:15:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Soars by 10.09% — Top commodity gainers are Natural Gas EU (10.09%), Natural Gas UK (7.78%), Germany Natural Gas THE (6.23%), Brent Crude Oil (3.70%) and Crude Oil WTI (2.83%). Biggest losers are Natural gas (-1.72%) and Methanol (-1.56%).
+
+---
+
+### 2026-08-07 01:19:52  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Pull Back — US stocks swung lower on Thursday as a rebound in energy prices rekindled worries of a Federal Reserve rate hike next month. The S&P 500 inched down, the Dow lost 0.7%, and the Nasdaq 100 fell 0.4%. Yields rebounded together with wholesale fuel prices as markets reassessed the likelihood of tanker flows being restored in the Strait of Hormuz. On top of that, a series of hawkish reaction functions claimed by FOMC members were amplified by a report stating Fed Chairman Warsh is willing to hike rates should inflation rise further. Financial stocks edged down with Citi, Wells Fargo, and Amex dropping more than 1%, while credit-sensitive hyperscalers were mostly lower with Alphabet dropping 1%. Meanwhile, Western Digital plummeted 12% after posting a disappointing guidance. Similarly, Sandisk lost nearly 6% as its results failed to meet lofty expectations for memory producers. SpaceX fell rebounded to a 2% gain as $101 billion in its shares are detached from their post-IPO lockup period.
+
+---
+
+### 2026-08-07 00:55:27  #Trading Economics #Markets #commodity #Importance 0
+
+Oat Hits 4-week Low — Oat decreased to 308.25 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Oat gained 5.28%, and in the last 12 months, it decreased 6.77%.
+
+---
+
+### 2026-08-07 00:43:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Lumber Nears 3-Month Low — Lumber prices fell below $580 per thousand board feet, heading toward a three-month low as weaker US housing demand and persistent trade uncertainty weighed on the market. While Canadian softwood lumber was exempt from US's new 50% tariffs, it remains subject to existing duties of nearly 35%, pressuring producers' margins. The Forest Products Association of Canada said the trade measures dealt a further blow to the industry already operating below capacity amid production curtailments and closures, while Ottawa has extended support measures. The US Lumber Coalition argued that Canada's excess production capacity continues to distort the market. Meanwhile, mortgage rates climbed to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July, reflecting deteriorating homebuying activity. Demand was further pressured by weaker construction spending on lumber-intensive single-family housing, falling 3.3% from last year in June.
+
+---
+
+### 2026-08-07 00:30:15  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
+
+European Stocks Close at Records — European stocks closed slightly higher on Thursday amid support from strong earnings reports and a rebound for the tech sector. The Euro STOXX 50 added 0.4% to 6,503 and the STOXX Europe 600 added 0.2% to 658, both at record highs. Deutsche Telekom surged 6.3% after delivering strong earnings, raising its guidance, and lifting its share buyback to $3.5 billion. On top of that, Hermes advanced 5.1% after receiving an upgrade from Berenberg. Meanwhile, ASML and Siemens Energy gained 2% each amid a rebound for companies with exposure to AI infrastructure in Europe. In the meantime, Rheinmetall fell 3.5% after it revised its outlook downwards, which reflected the impact of a German government order cancellation earlier this year. Also, Siemens dropped 4.5% as its quarterly results missed the upper range of estimates, even though the company reported record industrial profit and a record level of new orders.
 
 ---
 
@@ -19875,365 +19923,5 @@ ADP report: trade, transportation and utilities employment fell 8,000 in July; J
 ### 2026-08-05 20:17:16  #Trading Economics #Markets #commodity #Importance 0
 
 Nuclear Energy Index Hits 4-week High — Nuclear Energy Index increased to 43.36 USD, the highest since July 2026. Over the past 4 weeks, Nuclear Energy Index lost 1.68%, and in the last 12 months, it increased 4.84%.
-
----
-
-### 2026-08-05 20:16:59  #公司
-
-谷歌正與AI程式設計代理初創公司Mechanize洽談逾15億美元交易。
-
----
-
-### 2026-08-05 20:16:53  #央行 #國際
-
-荷蘭政府支援科特出任歐洲央行行長候選人。
-
----
-
-### 2026-08-05 20:16:46  #市場
-
-紐約期銀日內漲4%，現報62.66美元/盎司。
-
----
-
-### 2026-08-05 20:16:46  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #EURUSD #Impact bearish #S&P500
-
-ADP chief economist NELA RICHARDSON said jobseekers are highly sensitive to real-time economic conditions; their rapid wage gains imply supply constraints in parts of the labor market. She added employers' responses to macro shifts are altering typical hiring patterns.
-
----
-
-### 2026-08-05 20:16:39  #市場
-
-【亞德尼：美股科技股正處於 “打折階段”，出現買入機會】埃德・亞德尼表示，科技股上漲勢頭遠未結束，納斯達克100指數四個交易日累計上漲9.3%。該板塊當前預期12個月市盈率為22.3倍，亞德尼稱，對於一個高增長賽道而言，這一估值水平相對低廉。華爾街一眾策略師對科技股反彈持樂觀態度，部分分析師指出，美光科技、Alphabet等個股當前估值低於其五年均值。
-
----
-
-### 2026-08-05 20:16:02  #公司
-
-市場訊息：谷歌正洽談以15億美元收購MECHANIZE。
-
----
-
-### 2026-08-05 20:15:31  #其他
-
-Beamr將英偉達影片超解析度技術應用於體育賽事直播與廣播影片。
-
----
-
-### 2026-08-05 20:15:20  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed above $4,200/oz, up 3.02% on the day.
-
----
-
-### 2026-08-05 20:15:17  #國際
-
-ADP資料顯示，美國7月份服務業就業崗位增加4.7萬個。
-
----
-
-### 2026-08-05 20:15:16  #經濟數據 #美國
-
-【美國7月ADP私營部門就業人數增加4.4萬人】8月5日，據ADP研究院與斯坦福數字經濟實驗室資料，美國7月私營部門就業人數增加4.4萬人，預期為增加6.5萬人，6月資料修正後為增加9.5萬人。
-
----
-
-### 2026-08-05 20:15:14  #市場 #焦點
-
-現貨黃金突破4200美元/盎司，日內漲3.02%。
-
----
-
-### 2026-08-05 20:15:14  #市場
-
-現貨黃金日內漲3%，現報4200.52美元/盎司。
-
----
-
-### 2026-08-05 20:15:13  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-US July ADP private payrolls +44,000 vs +70,000 expected; June +98,000.
-
----
-
-### 2026-08-05 20:15:07  #市場 #焦點
-
-紐約期金突破4260美元/盎司，日內漲2.60%。
-
----
-
-### 2026-08-05 20:15:06  #國際
-
-美國7月ADP就業人數 4.4萬人，預期7萬人，前值9.8萬人。
-
----
-
-### 2026-08-05 20:15:00  #MKT News #Economic Calendar #Important
-
-United States | ADP Employment Change (Jul) | actual 44000K | consensus 70000K | previous 98000K
-
----
-
-### 2026-08-05 20:14:46  #MKT News
-
-Fed's Kashkari said he remains open-minded and has no strong personal view.
-
----
-
-### 2026-08-05 20:14:34  #市場
-
-【紐蒙特美股盤前漲超5%】紐蒙特美股盤前漲超5%，現報102.75美元。
-
----
-
-### 2026-08-05 20:14:30  #公司
-
-Circle執行長表示，市場正逐漸脫離加密貨幣投機，轉向支援代幣化股票、代幣化大宗商品及其他代幣化資產交易的開放式全球數字資產市場。
-
----
-
-### 2026-08-05 20:14:01  #MKT News #Macro & Rates #The Fed (FOMC)
-
-KASHKARI said it is valuable to continue the tradition of explaining the Fed's reaction function.
-
----
-
-### 2026-08-05 20:13:57  #國際
-
-【韓國股市熔斷頻發：槓桿堆積與半導體賽道極端擁擠風險】2026年的韓國股市，正在全球資本市場的注目下經歷一場罕見的壓力測試。截至8月5日，韓國綜合股價指數（KOSPI）年內已觸發9次全市場熔斷，而此前25年間這一數字合計僅為6次。與此同時，針對程式化交易的“側車”機制累計觸發逾70次，打破了2008年全球金融危機時創下的年度紀錄。7月28日與29日，KOSPI更是首次連續2個交易日觸發熔斷——7月單月跌幅達33.19%，重新整理1997年亞洲金融危機以來的紀錄，而7月31日又單日暴漲近18%，同樣改寫歷史。受訪人士指出，韓國股市暴漲暴跌是一場由槓桿狂熱、金融創新冒進與市場脆弱交易結構疊加催化的系統性風險釋放，其演進路徑與深層邏輯值得關注。（新華財經）
-
----
-
-### 2026-08-05 20:13:50  #MKT News
-
-Fed's Kashkari said he does not believe there is a fixed number of meetings.
-
----
-
-### 2026-08-05 20:13:33  #MKT News
-
-Kashkari said clarifying the Fed's reaction function benefits market participants.
-
----
-
-### 2026-08-05 20:13:12  #公司 #市場
-
-CIRCLE執行長表示，市場已從人們買賣比特幣，演變為在全球範圍內交易永續期貨。
-
----
-
-### 2026-08-05 20:13:05  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-Fed official Kashkari said he is not calling for large/rapid rate hikes.
-
----
-
-### 2026-08-05 20:12:58  #央行 #國際
-
-美聯儲卡什卡利：我持開放態度，沒有強烈意見。
-
----
-
-### 2026-08-05 20:12:49  #其他
-
-卡什卡利：延續這一傳統具有價值。
-
----
-
-### 2026-08-05 20:12:41  #央行 #國際
-
-美聯儲卡什卡利：繼續解釋政策反應機制的傳統是有價值的。
-
----
-
-### 2026-08-05 20:12:36  #公司 #市場
-
-CIRCLE執行長表示，永續期貨已成為全球最重要的可交易工具之一。
-
----
-
-### 2026-08-05 20:12:33  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's Kashkari said he would rather take small steps now than wait.
-
----
-
-### 2026-08-05 20:12:29  #央行 #國際
-
-美聯儲卡什卡利：不認為存在一個神奇的會議次數。
-
----
-
-### 2026-08-05 20:12:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
-
-Spot gold's intraday gains widened to 3%, approaching $4,200/oz.
-
----
-
-### 2026-08-05 20:12:22  #其他
-
-斯洛維尼亞克爾什科核電站因水位偏低將發電量降至產能的80%。
-
----
-
-### 2026-08-05 20:12:11  #其他
-
-優步預計到年底將自動駕駛汽車業務覆蓋城市從七個擴大至15個。
-
----
-
-### 2026-08-05 20:12:06  #央行 #國際
-
-美聯儲卡什卡利：我認為讓市場瞭解反應機制是件好事。
-
----
-
-### 2026-08-05 20:12:01  #央行 #國際
-
-卡什卡利：向市場參與者傳達美聯儲反應機制是有益的。
-
----
-
-### 2026-08-05 20:11:52  #央行 #國際
-
-美聯儲卡什卡利：最終仍需由委員會決定合適的溝通立場。
-
----
-
-### 2026-08-05 20:11:44  #其他
-
-伯恩斯坦將麥當勞目標股價從310美元下調至295美元。
-
----
-
-### 2026-08-05 20:11:42  #MKT News #Important #000660.KS #Impact bullish
-
-SK Hynix said it will share a specific shareholder-return plan with the market by year-end and expects to materially expand shareholder returns.
-
----
-
-### 2026-08-05 20:11:32  #公司 #觀點
-
-花旗集團弗雷澤對英國銀行相關稅收政策表示擔憂。
-
----
-
-### 2026-08-05 20:11:22  #Trading Economics #Economy #Mexico #Private Investment YoY #Importance 1
-
-Mexico Fixed Investment Growth Slows in May — Mexico's gross fixed investment rose 1.1% year-on-year in May 2026, following a 5.9% increase in April and marking the second consecutive month of growth, while exceeding market expectations of a 0.3% gain. Construction investment increased 2.7%, supported by a 12.4% rise in non-residential building, which more than offset a 4.7% decline in residential construction. Meanwhile, investment in machinery and equipment fell 0.7%, as a sharp decline in domestic capital goods production, both transport (-8.5%) and other machinery (-11.1%), outweighed higher imports of transport equipment (5.1%) and other machinery (5.7%). Overall investment growth was driven by a 19.7% increase in public investment, offsetting a 1.3% decline in private investment. On a monthly basis, gross fixed investment fell 0.4%, reversing a 4% increase in April.
-
----
-
-### 2026-08-05 20:11:14  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Federal Reserve's Kashkari said it is now time to begin gradual rate hikes.
-
----
-
-### 2026-08-05 20:11:02  #央行 #其他
-
-美聯儲卡什卡利：寧可現在以小幅方式逐步推進，也不願再等待。
-
----
-
-### 2026-08-05 20:10:56  #公司
-
-Circle執行長傑里米·阿萊爾稱，數字資產市場持續面臨顯著下行壓力。
-
----
-
-### 2026-08-05 20:10:50  #公司
-
-《紐約時報》執行長：我們已著手對我們的旗艦新聞應用進行升級；我們觀察到該應用的使用者訂閱互動度表現強勁。
-
----
-
-### 2026-08-05 20:10:38  #央行 #焦點 #國際
-
-美聯儲卡什卡利：並未呼籲大幅加息。
-
----
-
-### 2026-08-05 20:10:34  #MKT News #Important #005930.KS
-
-Samsung Electronics is exploring ways to sustainably boost shareholder returns.
-
----
-
-### 2026-08-05 20:10:33  #公司
-
-【記憶體短缺或持續至2027年 三星、SK海力士、美光產能提前售罄】據科技媒體週二報道，記憶體晶片供應緊張態勢預計將持續至2027年，業內訊息人士透露，三大記憶體原廠已基本完成明年的產能分配談判。簡言之，三星、SK海力士和美光2027年的預計記憶體供應已全部售罄，且暫無新增產能規劃。報道稱，三大供應商已分配完畢2027年全部DRAM和HBM產能。客戶最終獲得的配貨量僅為其初始請求的60%至70%。業內人士指出，2027年將進入記憶體短缺最嚴峻的階段。配貨數量目前已基本敲定，但最終發貨定價將更接近交付時確定。市場份額方面，據Counterpoint Research全球記憶體追蹤資料顯示，三星二季度DRAM市佔率達39%，位列榜首;SK海力士以26%位居第二，但較上年同期的39%出現明顯下滑;美光以25%緊隨其後。
-
----
-
-### 2026-08-05 20:10:06  #公司 #焦點
-
-三星電子表示，正探索如何以可持續方式提高股東回報。
-
----
-
-### 2026-08-05 20:10:03  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Kashkari said most recent inf has been driven mainly by supply shocks, with a smaller contribution from demand.
-
----
-
-### 2026-08-05 20:10:00  #央行 #其他
-
-明尼阿波利斯聯儲主席卡什卡利在接受採訪時表示，他認為現在是開始逐步上調利率的時機。
-
----
-
-### 2026-08-05 20:09:54  #公司 #焦點
-
-海力士表示，公司認為自身有能力「大幅提升」股東回報。
-
----
-
-### 2026-08-05 20:09:51  #其他
-
-海力士表示，具體的股東回報方案將於年底前向市場公佈。
-
----
-
-### 2026-08-05 20:09:48  #央行 #國際
-
-美聯儲卡什卡里：近期通脹走高主要由供給衝擊導致，需求在此基礎上進一步推升了通脹。
-
----
-
-### 2026-08-05 20:09:41  #市場
-
-百時美施貴寶股價盤前交易迅速下跌2.3%。
-
----
-
-### 2026-08-05 20:09:27  #央行 #國際
-
-美聯儲卡什卡利：我的目標不是放緩經濟，而是壓低通脹。
-
----
-
-### 2026-08-05 20:09:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's Kashkari: My goal is not to slow the economy but to bring down inflation.
-
----
-
-### 2026-08-05 20:09:11  #其他
-
-GENIUS SPORTS與KALSHI達成官方資料與營銷服務合作。
-
----
-
-### 2026-08-05 20:08:51  #市場
-
-彭博美元現貨指數下跌0.2%至當日低點。
-
----
-
-### 2026-08-05 20:08:37  #國際
-
-【印度22名兒童感染金迪普拉病毒死亡】印度西部古吉拉特邦近期暴發金迪普拉病毒感染疫情。印度媒體5日援引該邦衛生部門的資料包道，截至3日，當地累計報告184例疑似病例，其中35例病毒檢測呈陽性，22人死亡，7人病情危重。上述患者均為15歲以下兒童。（新華社）
 
 ---

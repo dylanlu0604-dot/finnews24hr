@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 05:49:11_
-_本檔包含 3120 則快訊，約 603638 字_
+_更新時間：2026-08-08 06:50:01_
+_本檔包含 3129 則快訊，約 602479 字_
+
+---
+
+### 2026-08-08 06:42:39  #市場 #焦點
+
+美銅暗盤跌破6.7美元，日內跌幅1.6%。
+
+---
+
+### 2026-08-08 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Sugar Soars by 5.85% — Top commodity gainers are Sugar (5.85%), Coffee (2.47%) and Barley (2.02%). Biggest loser is Cocoa (-0.83%).
+
+---
+
+### 2026-08-08 06:36:49  #市場 #焦點
+
+美國天然氣暗盤日內漲超1%，現報2.6763美元。
+
+---
+
+### 2026-08-08 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 3.36% — Top commodity gainers are Silver (3.36%), Gold (2.44%) and Silicon (1.48%). Biggest losers are Copper (-1.73%) and Iron Ore (-0.87%).
+
+---
+
+### 2026-08-08 06:30:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Falls by 2.58% — Top commodity losers are Natural Gas EU (-2.58%), Natural Gas UK (-0.70%), Crude Oil WTI (-0.27%) and Brent Crude Oil (-0.27%). Gains are led by Ethanol (1.42%), Methanol (1.26%) and Natural gas (1.17%).
+
+---
+
+### 2026-08-08 06:22:40  #國際
+
+【中央氣象臺釋出颱風橙色預警】中央氣象臺8月8日06時釋出颱風橙色預警：今年第13號颱風“白海豚”（強颱風級）的中心今天（8日）早晨5點鐘位於浙江省溫州市東偏南方大約600公里的東海南部海面上，就是北緯26.8度、東經126.6度，中心附近最大風力有14級（45米/秒），中心最低氣壓為950百帕，七級風圈半徑為420-450公里，十級風圈半徑為220-250公里，十二級風圈半徑為100公里。預計，“白海豚”將以每小時10-15公里的速度向西偏北方向移動，強度變化不大或略有增強，將於9日晚上至10日早晨在浙江舟山到福建福鼎一帶沿海登陸（38-45米/秒，13-14級，颱風級或強颱風級），登陸後繼續向西偏北方向移動，強度逐漸減弱。大風預報：8日08時至9日08時，黃海南部、長江口、杭州灣、東海大部及釣魚島附近海域、臺灣以東洋麵、巴士海峽、江蘇沿海、上海沿海、浙江沿海、福建東北部沿海、臺灣島北部沿海將有6-8級大風、陣風9-10級，其中東海大部及釣魚島附近海域、浙江沿海將有9-12級大風、陣風11-14級，“白海豚”中心經過的附近海域風力有13-15級，陣風15-17級。降雨預報：8日08時至9日08時，臺灣島北部和浙江中東部的部分地區有大到暴雨，局地大暴雨（100-150毫米）。
+
+---
+
+### 2026-08-08 06:19:37  #市場 #國際
+
+【南非蘭特非農日漲超1.3%，本週累漲超2.3%】週五（8月7日）紐約尾盤，歐元兌美元漲0.28%，報1.1558，北京時間20:30釋出美國非農就業報告帶來一波短線拉昇行情，本週累計上漲0.27%，整體呈現出W形走勢。英鎊兌美元漲0.28%，報1.3492，本週累漲0.75%。美元兌瑞郎跌0.53%，報0.8080，本週漲0.06%。商品貨幣對中，澳元兌美元漲0.50%、本週累漲0.68%，紐元兌美元漲0.39%、本週累漲0.23%，美元兌加元跌0.52%、本週累跌0.56%。瑞典克朗兌美元漲0.01%、本週累漲0.26%，挪威克朗兌美元漲0.37%、本週累跌0.43%，丹麥克朗兌美元漲0.28%、本週累漲0.27%。波蘭茲羅提兌美元漲0.39%、本週累漲0.53%，美元兌匈牙利福林跌0.88%、本週累跌0.77%。土耳其里拉兌美元跌0.13%、本週累跌0.40%，南非蘭特兌美元漲1.34%、本週累漲2.32%，墨西哥比索兌美元漲0.56%、本週累漲1.19%，巴西雷亞爾兌美元漲0.56%、本週累跌0.23%呈現出V形走勢。
+
+---
+
+### 2026-08-08 06:18:59  #宏觀 #國際
+
+美國財政部對標普全球關鍵礦產基準指數表示歡迎。
+
+---
+
+### 2026-08-08 06:17:17  #國際
+
+市場訊息：以色列炮兵炮擊黎巴嫩阿里・塔希爾高地。
+
+---
+
+### 2026-08-08 06:15:05  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Appreciates by 1.14% — Top currency gainers are South Korean Won (1.14%), Brazilian Real (0.81%), Swedish Krona (0.55%), Japanese Yen (0.42%), Euro (0.22%) and British Pound (0.17%). Biggest loser is Dollar Index (-0.33%).
+
+---
+
+### 2026-08-08 06:06:53  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Take Two Interactive Software earnings in line with market expectations at 0.33 USD — Take Two Interactive Software (TTWO) released earnings per share at 0.33 USD, in line with market expectations.
+
+---
+
+### 2026-08-08 06:00:09  #市場 #焦點
+
+暗盤金價突破4300美元/盎司，日內漲幅2%。
+
+---
+
+### 2026-08-08 06:00:09  #市場 #焦點
+
+暗盤金價（人民幣）日內漲超2%，現報941.6635元/克。
+
+---
+
+### 2026-08-08 05:59:09  #國際
+
+【美國一消防直升機在猶他州墜毀】美國聯邦航空局當地時間8月7日證實，一架西科斯基S-64直升機當天在猶他州里奇菲爾德一處野火現場附近作業時墜毀，機上兩名乘員目前狀況不明。（央視新聞）
+
+---
+
+### 2026-08-08 05:58:11  #觀點
+
+【大摩對日元轉向偏空，干預影響逐漸消退】摩根士丹利外匯策略師對日元轉向偏空，他們認為，隨著事實證明美日當局支撐日元匯率的措施效果短暫，日元將逐步走弱。當局聯手支撐日元僅短暫提振了日元需求，並未扭轉其長期下行趨勢。因此，策略師在維持中性立場的同時，轉為偏空傾向。“除非再次聯合干預匯市，否則我們預計美元/日元將逐步走高，”David Adams、Andrew Watrous和Molly Nickolin週五寫道。
+
+---
+
+### 2026-08-08 05:56:38  #公司 #國際
+
+根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日在公開市場出售6523股強生股票，成交均價為每股258.739美元。
+
+---
+
+### 2026-08-08 05:55:19  #公司 #國際
+
+根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日公開市場出售41,957股強生股票，成交平均價格為每股258.056美元。
 
 ---
 
@@ -18774,53 +18876,5 @@ Oil Prices Extend Gains as Iran Reviews Hormuz Transit Bill — Crude oil extend
 ### 2026-08-07 03:00:14  #其他
 
 墨西哥維持基準利率在6.50%；預計為6.50%。
-
----
-
-### 2026-08-07 03:00:02  #市場
-
-恒指期貨夜盤收漲0.00%，報25548.16點，高水17.88點。
-
----
-
-### 2026-08-07 02:25:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Sugar Rises by 2.84% — Top commodity gainers are Sugar (2.84%) and Rice (0.81%). Biggest losers are Cocoa (-2.70%) and Oat (-2.61%).
-
----
-
-### 2026-08-07 02:20:03  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore CNY Rises by 1.84% — Top commodity gainers are Iron Ore CNY (1.84%), Lithium Carbonate (0.89%) and Silicon (0.66%). Biggest loser is Silver (-0.80%).
-
----
-
-### 2026-08-07 02:15:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas EU Soars by 10.09% — Top commodity gainers are Natural Gas EU (10.09%), Natural Gas UK (7.78%), Germany Natural Gas THE (6.23%), Brent Crude Oil (3.70%) and Crude Oil WTI (2.83%). Biggest losers are Natural gas (-1.72%) and Methanol (-1.56%).
-
----
-
-### 2026-08-07 01:19:52  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Pull Back — US stocks swung lower on Thursday as a rebound in energy prices rekindled worries of a Federal Reserve rate hike next month. The S&P 500 inched down, the Dow lost 0.7%, and the Nasdaq 100 fell 0.4%. Yields rebounded together with wholesale fuel prices as markets reassessed the likelihood of tanker flows being restored in the Strait of Hormuz. On top of that, a series of hawkish reaction functions claimed by FOMC members were amplified by a report stating Fed Chairman Warsh is willing to hike rates should inflation rise further. Financial stocks edged down with Citi, Wells Fargo, and Amex dropping more than 1%, while credit-sensitive hyperscalers were mostly lower with Alphabet dropping 1%. Meanwhile, Western Digital plummeted 12% after posting a disappointing guidance. Similarly, Sandisk lost nearly 6% as its results failed to meet lofty expectations for memory producers. SpaceX fell rebounded to a 2% gain as $101 billion in its shares are detached from their post-IPO lockup period.
-
----
-
-### 2026-08-07 00:55:27  #Trading Economics #Markets #commodity #Importance 0
-
-Oat Hits 4-week Low — Oat decreased to 308.25 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Oat gained 5.28%, and in the last 12 months, it decreased 6.77%.
-
----
-
-### 2026-08-07 00:43:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Lumber Nears 3-Month Low — Lumber prices fell below $580 per thousand board feet, heading toward a three-month low as weaker US housing demand and persistent trade uncertainty weighed on the market. While Canadian softwood lumber was exempt from US's new 50% tariffs, it remains subject to existing duties of nearly 35%, pressuring producers' margins. The Forest Products Association of Canada said the trade measures dealt a further blow to the industry already operating below capacity amid production curtailments and closures, while Ottawa has extended support measures. The US Lumber Coalition argued that Canada's excess production capacity continues to distort the market. Meanwhile, mortgage rates climbed to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July, reflecting deteriorating homebuying activity. Demand was further pressured by weaker construction spending on lumber-intensive single-family housing, falling 3.3% from last year in June.
-
----
-
-### 2026-08-07 00:30:15  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
-
-European Stocks Close at Records — European stocks closed slightly higher on Thursday amid support from strong earnings reports and a rebound for the tech sector. The Euro STOXX 50 added 0.4% to 6,503 and the STOXX Europe 600 added 0.2% to 658, both at record highs. Deutsche Telekom surged 6.3% after delivering strong earnings, raising its guidance, and lifting its share buyback to $3.5 billion. On top of that, Hermes advanced 5.1% after receiving an upgrade from Berenberg. Meanwhile, ASML and Siemens Energy gained 2% each amid a rebound for companies with exposure to AI infrastructure in Europe. In the meantime, Rheinmetall fell 3.5% after it revised its outlook downwards, which reflected the impact of a German government order cancellation earlier this year. Also, Siemens dropped 4.5% as its quarterly results missed the upper range of estimates, even though the company reported record industrial profit and a record level of new orders.
 
 ---
