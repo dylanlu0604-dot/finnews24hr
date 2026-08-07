@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 00:52:19",
-  "count": 15998,
+  "updated": "2026-08-08 00:56:19",
+  "count": 15993,
   "items": [
+    {
+      "id": "mkt:019fdd26-c677-7aab-8fbe-b68568e4911c",
+      "time": "2026-08-08 00:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Lebanon and Israel have agreed on a candidate list of countries that could deploy forces to monitor Hezbollah's disarmament."
+    },
+    {
+      "id": "mkt:019fdd26-840d-7aab-8fbe-ae918f25f6b2",
+      "time": "2026-08-08 00:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said two federal appeals court judges appointed by Obama and Biden voted against an urgently needed military center, calling the ruling a serious abuse of discretion and saying the center is necessary for Washington, D.C., and U.S. national security."
+    },
     {
       "id": "mkt:019fdd22-95a2-7aab-8fbe-a796b860ce57",
       "time": "2026-08-08 00:50:58",
@@ -145762,92 +145778,6 @@
         "MKT News"
       ],
       "text": "【5.0 magnitude earthquake strikes off Mapastepec, Chiapas】Mexico’s National Seismological Service (SSN) said a magnitude-5.0 quake occurred at 10:15:56 local time on July 31 about 165 km southwest of Mapastepec in southeastern Chiapas, at an estimated depth of 10 km. Mexico’s seismic alert system did not activate; no casualties or property damage reported so far."
-    },
-    {
-      "id": "mkt:019fb91a-aaa6-7aab-8f3b-c89723625fd9",
-      "time": "2026-08-01 00:56:00",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Fed's Barkin said he does not view the labor market as tight and doubts it has truly strengthened."
-    },
-    {
-      "id": "mkt:019fb91a-0335-7aab-8f3b-c5b089a625f0",
-      "time": "2026-08-01 00:55:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Barkin said price increases have been transmitted unevenly through the economy."
-    },
-    {
-      "id": "mkt:019fb919-253c-7aab-8f3b-ba19fdaf6ee8",
-      "time": "2026-08-01 00:54:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Barkin said he is unsure whether he would back the three dissenters' proposal to raise interest rates."
-    },
-    {
-      "id": "5019783",
-      "time": "2026-08-01 00:54:11",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金： 對勞動力市場已出現實質性走強持懷疑態度。"
-    },
-    {
-      "id": "5019782",
-      "time": "2026-08-01 00:53:42",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾金：價格上漲在美國經濟中不均衡地傳導。"
-    },
-    {
-      "id": "mkt:019fb918-6bf1-7aab-8f3b-b3c4a557726c",
-      "time": "2026-08-01 00:53:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's Barkin said the key question is whether additional restrictive measures are needed."
-    },
-    {
-      "id": "mkt:019fb917-5ccf-7aab-8f3b-ad625de2187f",
-      "time": "2026-08-01 00:52:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "DXY"
-      ],
-      "text": "Fed's Barkin said it is \"difficult to assert\" whether interest rates are high enough."
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
   "date": "2026-08-08",
-  "count": 58,
+  "count": 60,
   "items": [
+    {
+      "id": "mkt:019fdd26-c677-7aab-8fbe-b68568e4911c",
+      "time": "2026-08-08 00:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Lebanon and Israel have agreed on a candidate list of countries that could deploy forces to monitor Hezbollah's disarmament."
+    },
+    {
+      "id": "mkt:019fdd26-840d-7aab-8fbe-ae918f25f6b2",
+      "time": "2026-08-08 00:55:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said two federal appeals court judges appointed by Obama and Biden voted against an urgently needed military center, calling the ruling a serious abuse of discretion and saying the center is necessary for Washington, D.C., and U.S. national security."
+    },
     {
       "id": "mkt:019fdd22-95a2-7aab-8fbe-a796b860ce57",
       "time": "2026-08-08 00:50:58",
