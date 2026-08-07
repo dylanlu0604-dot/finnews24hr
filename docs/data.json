@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 02:47:30",
-  "count": 16041,
+  "updated": "2026-08-08 02:51:19",
+  "count": 16040,
   "items": [
+    {
+      "id": "5031497",
+      "time": "2026-08-08 02:48:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥 APEA 牛油果協會負責人稱，我方已與美國達成協議，獲准放行超 1000 噸牛油果。"
+    },
     {
       "id": "mkt:019fdd8c-0877-7aab-8fc0-6434717eb5fd",
       "time": "2026-08-08 02:46:09",
@@ -146208,28 +146216,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.06%，報25925.68點，高水41.25點。"
-    },
-    {
-      "id": "mkt:019fb983-e34b-7aab-8f3c-c20e67368ca9",
-      "time": "2026-08-01 02:50:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Cui Dongshu (CPCA): 1H lithium‑ion battery demand +53% YoY; storage, exports and commercial vehicles drive growth】Cui Dongshu of the CPCA said total lithium‑ion battery demand in 1H 2026 reached about 1.069 TWh, up 53% YoY, as industry growth shifted from NEV‑only to a multi‑pillar mix of energy storage, overseas exports and commercial vehicles. New energy vehicle demand totaled ~793.2 GWh, +37% YoY, but domestic NEV passenger retail fell 2% YoY, indicating a move into stock competition; vehicle and battery exports are the primary incremental sources. Battery customs exports grew 54% YoY. Storage demand, the largest growth engine by production‑sales estimates, hit ~275.7 GWh in 1H, up 130% YoY, with June single‑month growth +333% YoY. NEV demand share fell to 74% while storage rose to 26%; storage and overseas markets are now the core supports for industry high cycle."
-    },
-    {
-      "id": "mkt:019fb982-2440-7aab-8f3c-bb4dd5da6259",
-      "time": "2026-08-01 02:49:01",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "USD/JPY reclaimed the 159 level, trading at 159.12 after an earlier plunge of more than 100 pips."
     }
   ]
 }
