@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-08 00:19:42",
-  "count": 16000,
+  "updated": "2026-08-08 00:23:51",
+  "count": 15994,
   "items": [
+    {
+      "id": "5031430",
+      "time": "2026-08-08 00:23:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及霍爾木茲海峽：該海峽再也回不到過去的狀態，因為伊朗已經將其用作，或試圖將其用作咽喉要道。未來兩年我們將看到，這條海峽的重要性將會不復存在。它將僅僅成為一片普通水域。我認為，目前經由該海峽運輸的能源中，超過 50% 至 70% 將會轉由地下管道輸送。"
+    },
+    {
+      "id": "mkt:019fdd08-2a87-7aab-8fbe-1646d31d83d5",
+      "time": "2026-08-08 00:22:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said he and his team have arrived in Serbia and will meet Serbian President Vucic and minister Juraj Matusek today and tomorrow to discuss expanding bilateral economic ties, relations with the EU and security affairs."
+    },
+    {
+      "id": "mkt:019fdd07-8752-7aab-8fbe-0bdd65c3f517",
+      "time": "2026-08-08 00:21:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's new economy minister expects Peru's economy to grow 3.5% in 2026."
+    },
+    {
+      "id": "5031429",
+      "time": "2026-08-08 00:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基： 我已攜團隊抵達塞爾維亞。今明兩日我們安排了重要會晤， 我們將探討擴大兩國經濟聯絡、對歐盟關係、其他惠及兩國人民的議題以及安全相關事務。"
+    },
+    {
+      "id": "5031428",
+      "time": "2026-08-08 00:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯新任經濟部長稱，預計該國 2026 年經濟增長 3.5%。"
+    },
     {
       "id": "te:markets:573868",
       "time": "2026-08-08 00:18:26",
@@ -145804,110 +145844,6 @@
         "國際"
       ],
       "text": "特朗普：（被問及能否達成伊朗相關協議）我對伊朗越來越失去信心，因為他們慣於撒謊。 我們談判正進行之際，他們向約旦發射了五枚導彈。"
-    },
-    {
-      "id": "mkt:019fb8fd-1c46-7aab-8f3b-383c0fd7e4f0",
-      "time": "2026-08-01 00:23:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump praised NVIDIA (NVDA.O)."
-    },
-    {
-      "id": "mkt:019fb8fc-fcda-7aab-8f3b-31822806279f",
-      "time": "2026-08-01 00:23:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said an agreement on Iran can be reached."
-    },
-    {
-      "id": "mkt:019fb8fc-d19e-7aab-8f3b-293eb0b25cd8",
-      "time": "2026-08-01 00:23:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said presidential envoys Witkoff and Kushner, Vice President Vance and Secretary of State Rubio are participating in negotiations on Iran."
-    },
-    {
-      "id": "5019764",
-      "time": "2026-08-01 00:22:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗相關事務：維特科夫、庫什納、萬斯 、魯比奧均參與相關談判。可以達成協議。"
-    },
-    {
-      "id": "mkt:019fb8fc-0303-7aab-8f3b-243dab53a3b6",
-      "time": "2026-08-01 00:22:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Iran says Strait of Hormuz closed; US CENTCOM denies】US Central Command on July 31 dismissed Iran’s renewed claim that it had closed the Strait of Hormuz, calling the report false and saying the waterway remains open to commercial shipping. CENTCOM said Iran does not control the strait and that thousands of vessels have transited the international channel in the past four months. Earlier on July 31 Iran’s Persian Gulf Strait Administration said continued \"aggressive\" US actions in the area have made normal transit through the strait impossible."
-    },
-    {
-      "id": "5019763",
-      "time": "2026-08-01 00:22:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱已關閉霍爾木茲海峽 美中央司令部否認】當地時間7月31日，美軍中央司令部表示，“伊朗政府再次聲稱已關閉霍爾木茲海峽，這是不實的訊息”。美軍中央司令部稱，“霍爾木茲海峽對於商船通行依然保持開放。伊朗並不控制該海峽”；過去四個月裡，“已有數千艘船隻透過這一國際水道”。7月31日稍早前，伊朗“波斯灣海峽管理局”釋出宣告稱，由於美軍在相關海域持續採取侵略性行動，目前霍爾木茲海峽已無法正常通行。（央視新聞）"
-    },
-    {
-      "id": "5019762",
-      "time": "2026-08-01 00:22:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱讚英偉達。"
-    },
-    {
-      "id": "mkt:019fb8fa-a232-7aab-8f3b-196918cfd74b",
-      "time": "2026-08-01 00:21:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said regarding Ukraine and missile matters he believes it will absolutely not happen."
-    },
-    {
-      "id": "mkt:019fb8fa-742f-7aab-8f3b-1064e807800c",
-      "time": "2026-08-01 00:20:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said he did not agree to the Ukraine and missile matter."
-    },
-    {
-      "id": "mkt:019fb8fa-7003-7aab-8f3b-08637d134f23",
-      "time": "2026-08-01 00:20:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump, on Ukraine and missile matters, said the U.S. must be very cautious about allowing others to manufacture missiles."
-    },
-    {
-      "id": "5019761",
-      "time": "2026-08-01 00:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭及導彈相關事宜：尚未同意該方案，我認為這件事絕不會發生。"
     }
   ]
 }
