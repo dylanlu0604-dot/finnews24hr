@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-08 00:36:11",
+  "updated": "2026-08-08 00:40:12",
   "count": 15986,
   "items": [
+    {
+      "id": "5031440",
+      "time": "2026-08-08 00:39:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：依據我方預備框架評估，目前無法排除 Astra 模型具備關鍵網路攻擊能力。"
+    },
+    {
+      "id": "5031438",
+      "time": "2026-08-08 00:36:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：已對 Astra 所有智慧代理應用中的風險行為與目標偏差實施全域監控。"
+    },
+    {
+      "id": "5031437",
+      "time": "2026-08-08 00:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：為高效能模型及相關業務落實更嚴格的安全管控，其中包括隔離測試環境。將向第三方測試合作方提供建議性安全管控措施，以安全開展高風險評估與相關任務。"
+    },
+    {
+      "id": "5031436",
+      "time": "2026-08-08 00:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI ：Astra 是一款尚未釋出的模型，並未參與攻擊 Hugging Face。暫停 Astra 相關尚未滿足這些強化安全管控要求的內部活動。"
+    },
     {
       "id": "5031435",
       "time": "2026-08-08 00:33:57",
@@ -145725,50 +145757,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Rebound on Choppy Trading — US equities rebounded on a choppy Friday amid more volatility for the AI infrastructure sector as markets considered the impact of higher long-term rates. The S&P 500, Dow, and Nasdaq 100 were around 0.4% up. Amazon surged 15% after beating expectations on its cloud-computing arm. Software and hyperscalers were also higher on reconsidered sentiment in the AI trade, with Alphabet gaining 6% while Microsoft and Meta rose nearly 3%. On the other hand, Apple tanked 10% as the shortage for chips raised costs and lowered production in the June quarter, denting earnings. Meanwhile, broader sectors also softened with Netflix and Eli Lilly losing 3% each. The 30-year Treasury yield surged further to 19-year highs on concerns that Kevin Warsh's FOMC could refrain from raising rates to fight inflation. Also, ExxonMobil sank 3% as limited refinery capacity prevented the oil giant form higher windfalls in oil profits last quarter."
-    },
-    {
-      "id": "mkt:019fb909-1fea-7aab-8f3b-82e7d7694ed5",
-      "time": "2026-08-01 00:36:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mauricio Claver-Carone, an informal adviser to President Trump on Venezuela affairs, has resigned."
-    },
-    {
-      "id": "5019774",
-      "time": "2026-08-01 00:36:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果跌幅擴大至10%，創2025年4月以來最大盤中跌幅。蘋果預計第四財季營收增長9%至11%，市場預期為增長12.1%。"
-    },
-    {
-      "id": "mkt:019fb909-04d2-7aab-8f3b-7bf7ad1b21cb",
-      "time": "2026-08-01 00:36:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "Apple shares (AAPL.O) extend losses to 10%."
-    },
-    {
-      "id": "mkt:019fb908-8c41-7aab-8f3b-7467d7e789c7",
-      "time": "2026-08-01 00:36:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Trump says Iran deal possible but distrust rising; warns of 'very severe' strikes in coming weeks】US President Trump told a Cabinet meeting a deal with Iran remains possible but said he is increasingly distrustful of Iranian leaders, accusing them of lying and citing five missiles fired at Jordan during negotiations. He described Iran’s conventional forces as largely crippled — “no navy, no air force, no air defenses,” though not wholly without capability — and reiterated Iran must not obtain nuclear weapons. Asked about the next four weeks, Trump warned Washington would carry out “very severe” strikes and predicted mounting pressure would force Iranian concessions. He said advisers including Kushner, Vance and Rubio were involved in talks and criticized negotiators for prolonging discussions."
     }
   ]
 }
