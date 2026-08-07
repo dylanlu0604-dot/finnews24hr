@@ -1,7 +1,16 @@
 {
   "date": "2026-08-08",
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "id": "mkt:019fdcf7-2fb7-7aab-8fbd-efb2bd846d80",
+      "time": "2026-08-08 00:03:34",
+      "tags": [
+        "MKT News",
+        "GD.O"
+      ],
+      "text": "A unit of General Dynamics signed an agreement with the U.S. General Services Administration to provide enterprise IT and cybersecurity services to the Army National Guard and other federal partners."
+    },
     {
       "id": "mkt:019fdcf5-4dfd-7aab-8fbd-e117ee0667a6",
       "time": "2026-08-08 00:01:31",

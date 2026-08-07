@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-08 00:03:24",
-  "count": 16023,
+  "updated": "2026-08-08 00:07:34",
+  "count": 16015,
   "items": [
+    {
+      "id": "mkt:019fdcf7-2fb7-7aab-8fbd-efb2bd846d80",
+      "time": "2026-08-08 00:03:34",
+      "tags": [
+        "MKT News",
+        "GD.O"
+      ],
+      "text": "A unit of General Dynamics signed an agreement with the U.S. General Services Administration to provide enterprise IT and cybersecurity services to the Army National Guard and other federal partners."
+    },
     {
       "id": "mkt:019fdcf5-4dfd-7aab-8fbd-e117ee0667a6",
       "time": "2026-08-08 00:01:31",
@@ -146020,96 +146029,6 @@
         "其他"
       ],
       "text": "索尼：《蜘蛛俠》點映票房創下史上最高紀錄，達 7200 萬美元。"
-    },
-    {
-      "id": "mkt:019fb8ee-2680-7aab-8f3a-b4728895b07e",
-      "time": "2026-08-01 00:07:22",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "U.S. Treasury Secretary said core inf remains low and consumer confidence is strong."
-    },
-    {
-      "id": "te:markets:571831",
-      "time": "2026-08-01 00:07:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index dropped 18 points or 0.16 percent on Friday to close at 10879 points. Losses were led by IG Group Holdings (-8.56%), Melrose (-4.25%) and Experian (-3.21%). Offsetting the fall, top gainers were Natwest (4.53%), Centrica (2.11%) and BAE Systems (2.02%)."
-    },
-    {
-      "id": "mkt:019fb8ed-8d49-7aab-8f3a-a9cd30e3bee1",
-      "time": "2026-08-01 00:06:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary said funds tied to Iran will be used for the Iranian people."
-    },
-    {
-      "id": "mkt:019fb8ed-6571-7aab-8f3a-a66edc1fcede",
-      "time": "2026-08-01 00:06:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "U.S. Treasury Secretary on Iran said the department is searching for Iranian assets worldwide."
-    },
-    {
-      "id": "5019746",
-      "time": "2026-08-01 00:06:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：伊朗無力支付軍薪，美國正在搜尋其資產。"
-    },
-    {
-      "id": "mkt:019fb8ec-8dd7-7aab-8f3a-9caa5e7f5c08",
-      "time": "2026-08-01 00:05:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CENTCOM says Iran's claim to have closed the Strait of Hormuz is false. The strait remains open to commercial shipping and is not under Iranian control. Thousands of vessels transited the international waterway over the past four months."
-    },
-    {
-      "id": "5019745",
-      "time": "2026-08-01 00:05:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "休達移民危機爆發後，義大利暫停歐盟申根區與西班牙之間的自由通行機制。"
-    },
-    {
-      "id": "5019744",
-      "time": "2026-08-01 00:04:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：伊朗政府再度宣稱已封鎖霍爾木茲海峽。此說法不實。事實是，霍爾木茲海峽仍對商業船舶開放通航。伊朗無法掌控該海峽。過去四個月已有數千艘船隻經由這條國際航道通行。"
-    },
-    {
-      "id": "5019743",
-      "time": "2026-08-01 00:03:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：核心通脹處於低位，消費者信心強勁。"
     }
   ]
 }
