@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-07 22:53:38",
-  "count": 16078,
+  "updated": "2026-08-07 22:57:42",
+  "count": 16069,
   "items": [
+    {
+      "id": "5031391",
+      "time": "2026-08-07 22:56:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總對浙江福建啟動防汛防颱風三級應急響應】從應急管理部獲悉，國家防總7日將針對浙江、福建的防汛防颱風四級應急響應提升至三級。（新華社）"
+    },
+    {
+      "id": "mkt:019fdcb9-4107-7aab-8fbd-31f55754d289",
+      "time": "2026-08-07 22:55:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Typhoon White Dolphin forces temporary suspension of some Yangtze River Delta rail services】China Railway Shanghai Bureau said it has activated typhoon and flood emergency response and will temporarily suspend certain trains passing sections of multiple Yangtze River Delta lines to ensure transport and passenger safety. Planned suspensions: Aug 9–10 on Qu‑Jiu, Hu‑Kun (Shanghai–Kunming) and Xiao‑Yong lines; Aug 9–11 on Qu‑Ning and Yong‑Jin lines; Aug 9–12 on Jin‑Qian line; and Aug 9–13 on Wan‑Gan line. Measures apply to specific sections and time windows and will affect regional passenger and freight flows."
+    },
+    {
+      "id": "5031390",
+      "time": "2026-08-07 22:55:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國化學工程東華公司與Indorama集團正式簽署安陽清潔制氣示範專案EPC合同】據東華科技訊息，8月3日，中國化學工程東華公司與Indorama集團在安徽合肥正式簽署安陽印多拉瑪氣體有限公司清潔制氣示範專案EPC總承包合同。專案位於河南省安陽市滑縣先進製造業開發區煤化工產業園，是Indorama集團在中國境內投資建設的首個化工專案。建設規模為年產16億標方合成氣、40萬噸功能肥、120萬噸緩控釋複合肥、20萬噸食品級二氧化碳、配套60萬噸合成氨。"
+    },
+    {
+      "id": "5031389",
+      "time": "2026-08-07 22:53:29",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【高爭民爆：股票交易異常波動 提示多項投資風險】高爭民爆公告稱，8月5日至7日，公司股票收盤價格漲幅偏離值累計超20%，屬異常波動。公司已被深交所重點監控，若股價非理性波動或申請停牌核查。公司尚未開展礦山投資開發業務，無資產注入及重組計劃。截至8月7日，公司市盈率和市淨率高於行業水平。公司預計上半年淨利潤2900 - 3800萬元，同比降45.09% - 58.09%。因股價高於上限，現階段無法實施股份回購。控股子公司中標2.2億元專案，尚未籤合同。"
+    },
     {
       "id": "5031388",
       "time": "2026-08-07 22:52:41",
@@ -146500,142 +146536,6 @@
         "其他"
       ],
       "text": "英國外交大臣米利班德表示，他對哈馬斯宣佈解除武裝這一訊息持歡迎態度。"
-    },
-    {
-      "id": "mkt:019fb8ae-2ffe-7aab-8f39-4d73fee3823c",
-      "time": "2026-07-31 22:57:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Hungary plans to add 4 GW of wind power capacity by 2030 to diversify its energy mix, the prime minister said."
-    },
-    {
-      "id": "5019687",
-      "time": "2026-07-31 22:57:20",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "鐵礦石期貨主力合約增倉下行，跌破700元/噸關口，現跌近3%，創去年6月以來新低。"
-    },
-    {
-      "id": "mkt:019fb8ad-f680-7aab-8f39-401abbe937c0",
-      "time": "2026-07-31 22:57:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Iron ore futures' most-active contract saw open interest rise as prices fell, breaking below 700 yuan/ton and sliding about 3%, the lowest since June last year."
-    },
-    {
-      "id": "5019686",
-      "time": "2026-07-31 22:57:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將Coinbase目標價從196美元下調至148美元。"
-    },
-    {
-      "id": "5019685",
-      "time": "2026-07-31 22:56:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，匈牙利到 2030 年將建成 4 吉瓦風電裝機容量，實現能源來源多元化。"
-    },
-    {
-      "id": "5019684",
-      "time": "2026-07-31 22:56:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【新一批國家藥品集採納入65個品種】記者7月31日從國家醫保局獲悉，第十二批國家組織藥品集採當日在上海開標，產生擬中選結果，65種藥品採購成功，327家企業的521個產品獲得擬中選資格。這是迄今為止規模最大的一批國家組織藥品集採。此次集採主要覆蓋一些慢性病與重大疾病的常用藥、救命藥，涵蓋降血壓、降血脂、降血糖、抗腫瘤、抗血栓、抗感染等多個治療領域，共有4.5萬家醫藥機構參與報量。擬中選結果公示後將正式釋出。國家醫保局成立以來，共開展12批國家組織藥品集採，納入555種藥品。(新華社)"
-    },
-    {
-      "id": "mkt:019fb8ad-326e-7aab-8f39-3da2180f628d",
-      "time": "2026-07-31 22:56:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's latest national centralized drug procurement round added 65 products, Xinhua said."
-    },
-    {
-      "id": "mkt:019fb8ad-0e58-7aab-8f39-3458171d93b8",
-      "time": "2026-07-31 22:56:16",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O) shares rose 5.4%."
-    },
-    {
-      "id": "5019683",
-      "time": "2026-07-31 22:55:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "Alphabet股價上漲5.4%。"
-    },
-    {
-      "id": "5019682",
-      "time": "2026-07-31 22:55:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英國石油公司將出售北海油氣業務】英國石油公司7月31日說，將出售其位於北海的石油和天然氣業務，結束在該區域60餘年的經營活動。行業人士分析，此舉與近年來英國能源政策變動頻繁、北海油氣產量下降等因素有關。據路透社報道，英國石油公司新任執行長梅格·奧尼爾在宣告中說，公司計劃將資金集中投入開發“價值最高的機遇”，因此決定出售北海油氣業務。英國石油公司已在北海經營油氣業務逾60年，目前在當地運營5個主要生產中心，包括英國大陸架規模最大的克萊爾油田。該公司2025年約5%的油氣產自北海，日產量約為11.7萬桶石油當量。就在英國石油公司宣佈出售北海業務的前一天，英國新任首相伯納姆表示，計劃以“務實”態度開發和利用北海油氣資源。總部位於倫敦的跨國交易平臺IG集團首席市場分析師克里斯·比徹姆對此解讀說：“顯然，英國石油公司認為在亟須開發新油氣田的當下，觀望新一屆政府能否重振英國能源政策太過耗時，而坐等政府採取行動並非審慎的資源利用方式。”據路透社報道，英國油氣行業人士認為，英國近年來多次調整針對油氣行業的稅收制度，這種政策不確定性損害了企業對投資英國大陸架油氣資源的信心。北海油氣田產量已從本世紀初的日均450萬桶石油當量，大幅降至2025年的日均約100萬桶石油當量。近年來，埃克森美孚、雪佛龍、康菲、殼牌、道達爾、埃尼等跨國能源巨頭紛紛縮減了在北海的油氣業務。（新華社）"
-    },
-    {
-      "id": "mkt:019fb8ab-f666-7aab-8f39-2f35847e8373",
-      "time": "2026-07-31 22:55:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "Timiraos: The FOMC statement and Chairman Kevin Warsh’s opening remarks at the press conference offered some information on recent economic developments. Warsh briefly outlined the major issues discussed at the meeting but did not provide the detailed policy rationales set out in Friday’s dissenting statements from Fed voters including Kashkari."
-    },
-    {
-      "id": "5019681",
-      "time": "2026-07-31 22:54:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "“美聯儲傳聲筒”Nick Timiraos：FOMC的政策宣告以及凱文·沃什主席新聞釋出會上的開場發言，就近期的經濟發展提供了一些資訊。沃什還簡要概述了會議上討論的重大問題，但並未提供像週五洛根、哈瑪克、卡什卡利公佈的異議宣告中那樣詳細闡述的政策決定理由。"
-    },
-    {
-      "id": "mkt:019fb8aa-b823-7aab-8f39-25b00818ce1e",
-      "time": "2026-07-31 22:53:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "TIMIRAOS: Hammack says policy is fundamentally not restrictive enough."
     }
   ]
 }
