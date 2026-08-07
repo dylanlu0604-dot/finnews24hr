@@ -1,7 +1,66 @@
 {
   "date": "2026-08-07",
-  "count": 2728,
+  "count": 2734,
   "items": [
+    {
+      "id": "mkt:019fdcd0-5b50-7aab-8fbd-737ba08f8f52",
+      "time": "2026-08-07 23:21:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【NY Fed survey: US consumers more optimistic on jobs; one-year inflation expectation slips to 3.6%】A New York Fed survey released Friday showed US consumers in July became more optimistic about finding work and marginally lowered near-term inflation expectations. Respondents’ perceived probability of finding a new job if unemployed rose to 46.2%, the highest this year, with gains concentrated among those with high-school-or-lower education and households earning under $50,000. One-year inflation expectations fell to 3.6% from 3.7%; three-year and five-year expectations remained at 3.3% and 3.0%, respectively. Despite the improvement in job-finding odds, the average probability respondents assign to a rising unemployment rate over the next year increased across age and income groups; perceived personal risk of job loss ticked up slightly but remains below the 12-month average."
+    },
+    {
+      "id": "te:economy:573855",
+      "time": "2026-08-07 23:19:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Eases — South Africa's 10-year government bond yield fell to around 8.47%, near the lowest since July 10, as traders continued to assess the outlook for inflation and interest rates. A weaker-than-expected US employment data reduced expectations of Fed rate hikes, encouraging investors to rotate into higher-yielding emerging-market debt. Meanwhile, uncertainties persisted regarding a potential US-Iran deal to fully reopen the Strait of Hormuz, keeping concerns over energy supplies alive. Domestically, the South African Reserve Bank unexpectedly left its repo rate steady at 7% on July 23rd in a split vote, surprising markets that had anticipated a rate hike. The decision reflected policymakers' efforts to balance persistent inflationary pressures against subdued domestic economic growth amid heightened geopolitical tensions. Despite leaving rates unchanged, the SARB maintained a hawkish stance, suggesting that at least one more rate hike remains likely this year, possibly as soon as September."
+    },
+    {
+      "id": "5031408",
+      "time": "2026-08-07 23:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI大模型邁向分時定價】據央視財經，隨著AI加速融入千行百業，大模型的詞元呼叫量持續攀升。資料顯示，7月27日至8月2日，中國AI大模型周呼叫量達28.13萬億詞元，已連續十四周位居全球首位。記者從多家詞元供應平臺瞭解到，目前詞元需求正處於高速增長階段，高峰期更是供不應求。面對激增的詞元需求與階段性的算力緊缺，多家大模型企業的定價模式也在隨之發生變化，正從“按量計費”走向“精細化與動態定價”。Kimi推出了每月39元到559元的四檔訂閱套餐，DeepSeek則將上調大模型開放介面的價格，預計未來還將推出“峰谷定價”，即每日上午9點到12點、下午2點到6點為高峰時段，價格是平時的兩倍。"
+    },
+    {
+      "id": "mkt:019fdcce-733d-7aab-8fbd-69744f1bbbe6",
+      "time": "2026-08-07 23:19:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China AI foundation models shift to time-based, dynamic pricing】China's weekly AI foundation-model token use hit 28.13 trillion tokens in the week to Aug. 2, the 14th straight week as the global leader. Token platforms report rapid demand growth and peak-period undersupply amid periodic compute constraints, prompting providers to move from volume billing to tiered and dynamic pricing. Kimi has launched four monthly subscription tiers at 39–559 yuan; DeepSeek plans API price increases and will introduce peak–off-peak pricing, charging twice the normal rate during 09:00–12:00 and 14:00–18:00."
+    },
+    {
+      "id": "5031407",
+      "time": "2026-08-07 23:18:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【秘魯與墨西哥恢復外交關係】秘魯外交部7日釋出秘魯和墨西哥政府聯合公報，宣佈恢復兩國外交關係。公報說：“秘魯共和國政府與墨西哥合眾國政府，鑑於兩國長期以來建立的兄弟情誼、友好關係與合作紐帶，今日一致同意恢復兩國外交關係。”（新華社）"
+    },
+    {
+      "id": "5031406",
+      "time": "2026-08-07 23:17:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭襲擊克里米亞致兩人死亡。"
+    },
     {
       "id": "te:markets:573854",
       "time": "2026-08-07 23:16:09",
