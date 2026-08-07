@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08 04:29:56",
-  "count": 16056,
+  "updated": "2026-08-08 04:33:49",
+  "count": 16052,
   "items": [
+    {
+      "id": "te:markets:573881",
+      "time": "2026-08-08 04:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Hits Record as Gold Miners Rally — The S&P/TSX Composite Index rose 0.7% to a record close of 36,381 on Friday, led by a rally in mining stocks. Gold prices surged after weaker-than-expected US labor data and lower energy prices reduced expectations of a Federal Reserve rate hike this year. The US economy unexpectedly lost jobs in July, easing concerns that labor market strength could fuel inflation. Agnico Eagle climbed 5.9%, Barrick gained 5%, and WPM jumped 6.6%, while other gold miners advanced between 2.6% and 14%. Tech stocks also benefited from the positive sentiment on Wall Street, with Shopify rising 2.4%. In contrast, financials underperformed after stronger-than-expected Canadian jobs data increased the likelihood that the Bank of Canada could resume tightening if inflation pressures persist. RBC fell 0.7% and TD Bank lost 0.4%."
+    },
+    {
+      "id": "5031619",
+      "time": "2026-08-08 04:31:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【西班牙將對來自義大利的旅客實施臨時邊境檢查】當地時間8月7日，西班牙政府宣佈，將對來自義大利的航空和海運旅客實施邊境檢查，8日零時正式生效，持續至9月7日。西班牙政府表示，相關措施主要包括核查旅客身份和國籍；對非歐盟國家公民，還將查驗簽證或居留許可。當天早些時候，西班牙政府要求義大利在8月9日前取消針對性邊檢，否則將採取“對等且相稱”的回應措施。義大利政府隨後表示，出於國家安全和邊境管控需要，意方不會撤銷針對經西班牙入境第三國公民暫停適用申根協定的決定，相關措施將至少持續至8月15日。因大批非法移民此前從摩洛哥方向進入休達，義大利總理梅洛尼7月31日晚表示，義大利政府決定暫停與西班牙的申根自由通行機制、恢復邊境檢查。對此，西班牙政府在宣告中表示，近日非法進入西班牙飛地休達的人員無法自由進入申根區，因為休達實行特殊制度，前往西班牙本土仍需接受警方檢查。目前，幾乎所有進入休達的非法移民都已返回摩洛哥。休達位於非洲西北部、直布羅陀海峽附近的地中海沿岸，與摩洛哥接壤。日前，大批非法移民從摩洛哥方向進入休達，引發近年來西班牙最嚴重的邊境移民危機。（央視新聞）"
+    },
     {
       "id": "5031618",
       "time": "2026-08-08 04:27:11",
@@ -146279,62 +146299,6 @@
         "美聯儲"
       ],
       "text": "【美聯儲主席沃什據悉考慮減少美聯儲政策會議的頻率】據報道，美聯儲主席沃什據悉正在考慮減少美聯儲定期召開的利率決策會議的次數，這一舉措可能引發巨大震動，並將標誌著近年來美聯儲運作方式最重大的變革。目前，美聯儲由12人組成的聯邦公開市場委員會（FOMC）每年召開八次會議，就是否上調、下調或維持借貸成本進行表決。"
-    },
-    {
-      "id": "mkt:019fb9e1-e37d-7aab-8f3d-c2e970f67852",
-      "time": "2026-08-01 04:33:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "USD/JPY fell below 158 to 157.99, down 0.92% on the day, after plunging more than 100 pips within 30 minutes."
-    },
-    {
-      "id": "5019927",
-      "time": "2026-08-01 04:32:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什本週提出調整會議日程的設想。"
-    },
-    {
-      "id": "5019926",
-      "time": "2026-08-01 04:32:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "QUESTERRE ENERGY：PX能源設施發生加熱爐管道嚴重破裂，已停產停產預計將持續三至四周，將造成產量損失與營收損失。整改工作直接成本預估為150萬加元。"
-    },
-    {
-      "id": "5019925",
-      "time": "2026-08-01 04:31:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克淨資產跌至6840億美元，SpaceX上市帶來的賬面收益盡數蒸發。"
-    },
-    {
-      "id": "5019924",
-      "time": "2026-08-01 04:31:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什考慮減少美聯儲政策會議的頻率。"
-    },
-    {
-      "id": "5019923",
-      "time": "2026-08-01 04:30:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門胡塞武裝稱，憑藉海上封鎖行動，已迫使八艘沙特油輪改道繞行好望角。"
     }
   ]
 }
