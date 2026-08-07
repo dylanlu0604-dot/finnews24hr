@@ -1,7 +1,132 @@
 {
-  "updated": "2026-08-07 19:58:31",
-  "count": 16087,
+  "updated": "2026-08-07 20:02:29",
+  "count": 16085,
   "items": [
+    {
+      "id": "mkt:019fdc19-c6c4-7aab-8fb8-7cc31bfa22ee",
+      "time": "2026-08-07 20:01:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D rose 0.72% to 930.59 yuan/gram in early evening trade on Aug. 7; silver T+D gained 2.44% to 15,517.0 yuan/kg."
+    },
+    {
+      "id": "5031084",
+      "time": "2026-08-07 20:01:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "烏克蘭央行：截至7月底，烏克蘭外匯儲備為512億美元。"
+    },
+    {
+      "id": "5031083",
+      "time": "2026-08-07 20:00:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀：2026年上半年淨利潤23.11億元，同比增122.61%】寒武紀公告，2026年上半年營業收入59.96億元，同比增長108.13%。歸屬於上市公司股東的淨利潤23.11億元，同比增長122.61%，上年同期淨利潤10.38億元。扣非淨利潤21.66億元，同比增長137.30%。本報告期不進行利潤分配或公積金轉增股本。"
+    },
+    {
+      "id": "mkt:019fdc18-9334-7aab-8fb8-72189eb295fb",
+      "time": "2026-08-07 20:00:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Polish central bank said official reserve assets were EUR 255.95 billion in July."
+    },
+    {
+      "id": "5031082",
+      "time": "2026-08-07 20:00:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北宜化：硫磺渣綜合利用8萬噸/年保險粉升級改造專案投產】湖北宜化公告，公司以全資子公司湖北宜化精細化工有限公司為實施主體，建設硫磺渣綜合利用年產8萬噸保險粉升級改造專案，截至本公告披露日，保險粉專案的生產裝置和配套設施均已建成，經相關主管部門稽核後，近期已安全順利投產，生產負荷穩步提升，產能逐步釋放。"
+    },
+    {
+      "id": "5031081",
+      "time": "2026-08-07 20:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥7月份汽車產量為302,673輛。"
+    },
+    {
+      "id": "5031080",
+      "time": "2026-08-07 20:00:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江世寶：擬定增募資不超過13.94億元用於汽車線控轉向等專案】浙江世寶公告，公司擬向不超過35名特定物件發行A股股票，募集資金總額不超過13.94億元（含本數），扣除發行費用後擬用於汽車線控轉向系統產業化建設專案（56,230.00萬元）、乘用車新一代智慧上轉系統產業化建設專案（43,800.00萬元）、汽車電子PPK產品智慧化技術改造專案（10,000.00萬元）、線控轉向及角模組系統研發能力建設改造提升專案（9,370.00萬元）及補充流動資金（20,000.00萬元）。該方案已獲董事會審議透過，尚需股東會審議、深交所稽核及中國證監會註冊。"
+    },
+    {
+      "id": "5031079",
+      "time": "2026-08-07 19:59:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【神州高鐵：擬掛牌轉讓北交新能20.0249%股權，底價7064.26萬元】神州高鐵公告，公司全資子公司北神投資擬透過產權交易所公開掛牌轉讓所持北交新能20.0249%股權，首次掛牌底價不低於評估備案結果7064.26萬元。2026年8月7日，公司董事會已審議透過該議案，9位董事均投票同意。轉讓完成後，北神投資將不再持有北交新能股權。目前受讓方尚不確定，無法判斷是否構成關聯交易。"
+    },
+    {
+      "id": "5031078",
+      "time": "2026-08-07 19:59:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣合科技：2026年上半年淨利潤9.56億元同比增94.39%】廣合科技公告，2026年上半年營業收入43.88億元，同比增長80.98%。歸母淨利潤9.56億元，同比增長94.39%，上年同期淨利潤4.92億元。"
+    },
+    {
+      "id": "5031077",
+      "time": "2026-08-07 19:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳國際：預計2026年上半年由盈轉虧，虧損1.9億-2.4億港元】深圳國際公告，預計2026年上半年股東應占虧損介乎約港幣1.9億元至港幣2.4億元，去年同期錄得股東應占盈利約為港幣4.9億元。主要受投資物業公允價值變動損失、聯營公司由盈轉虧及暫無土地整備開發利潤等因素影響。"
+    },
+    {
+      "id": "5031076",
+      "time": "2026-08-07 19:59:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中核集團與中國五礦就進一步加強戰略合作進行交流】據中核集團訊息，8月7日，中核集團黨組書記、董事長申彥鋒一行赴中國五礦集團有限公司，拜會中國五礦黨組書記、董事長陳得信，雙方就進一步加強戰略合作進行交流。陳得信表示，中國五礦與中核集團自戰略合作協議簽署以來，在鈾礦資源開發、海外核電建設、科研專案攻關等多個領域取得了豐碩合作成果。希望進一步鞏固現有的合作基礎，穩妥高效推進重點礦產專案合作開發，深化在關鍵材料等領域合作。申彥鋒表示，希望雙方繼續發揮各自優勢，在新能源綠電直連、採礦及冶金領域超碳技術合作、數智化應用等領域拓展合作。"
+    },
+    {
+      "id": "5031075",
+      "time": "2026-08-07 19:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "深圳國際：預期中期業績由盈轉虧，因公允價值損失、聯營公司虧損及無土地整備利潤。"
+    },
+    {
+      "id": "5031074",
+      "time": "2026-08-07 19:59:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "深圳國際：預計上半年歸屬於股東的虧損為1.9億港元至2.4億港元。"
+    },
+    {
+      "id": "mkt:019fdc16-e797-7aab-8fb8-6cf0af3e7b6a",
+      "time": "2026-08-07 19:58:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's supreme leader military adviser Rezai said Saudi Arabia must understand that paper agreements with Turkey and Pakistan will not deliver security, just as years of unilateral reliance on the United States did not. He urged Riyadh to reform its policies so it need not beg others for security."
+    },
+    {
+      "id": "5031073",
+      "time": "2026-08-07 19:57:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：立即透過《拯救美國法案》！"
+    },
     {
       "id": "mkt:019fdc15-13e1-7aab-8fb8-623d5be3a07b",
       "time": "2026-08-07 19:56:36",
@@ -146429,192 +146554,6 @@
         "國際"
       ],
       "text": "美聯儲哈馬克：就業市場平穩，美聯儲需聚焦通脹。"
-    },
-    {
-      "id": "5019345",
-      "time": "2026-07-31 20:02:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲哈馬克：當前美聯儲利率政策的緊縮力度不足。"
-    },
-    {
-      "id": "mkt:019fb80d-d1e0-7aab-8f34-acda41ac145a",
-      "time": "2026-07-31 20:02:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Kashkari: increasingly confident monetary policy can help counter successive supply shocks that could entrench inflation."
-    },
-    {
-      "id": "te:markets:571768",
-      "time": "2026-07-31 20:02:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Siemens Healthineers earnings above expectations at 0.70 EUR — Siemens Healthineers (SHLG) released earnings per share at 0.70 EUR, compared to market expectations of 0.56 EUR."
-    },
-    {
-      "id": "te:markets:571767",
-      "time": "2026-07-31 20:02:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Africa",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Anglogold Ashanti earnings below expectations at 1.98 USD — Anglogold Ashanti (ANG) released earnings per share at 1.98 USD, compared to market expectations of 2.08 USD."
-    },
-    {
-      "id": "mkt:019fb80d-5a70-7aab-8f34-a4045a9d2b29",
-      "time": "2026-07-31 20:01:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed's HAMMACK said the longer inf remains elevated, the harder it will be to return to target."
-    },
-    {
-      "id": "5019344",
-      "time": "2026-07-31 20:01:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡里：資料中心投資近期成為推升通脹的新增需求因素。"
-    },
-    {
-      "id": "mkt:019fb80d-43bc-7aab-8f34-9e892d731be2",
-      "time": "2026-07-31 20:01:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed official Hammack said inflation remains too high and he is not confident it will slow without Fed action."
-    },
-    {
-      "id": "5019343",
-      "time": "2026-07-31 20:01:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "波羅的海乾散貨運價指數漲2.21%，至2732點。"
-    },
-    {
-      "id": "5019342",
-      "time": "2026-07-31 20:01:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡里：貨幣政策可忽略單次供給衝擊帶來的影響。"
-    },
-    {
-      "id": "mkt:019fb80c-e67b-7aab-8f34-95fc295ff8a2",
-      "time": "2026-07-31 20:01:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index (BDI) rose 2.21% to 2,732 points."
-    },
-    {
-      "id": "mkt:019fb80c-cb14-7aab-8f34-8dfda5f11ed2",
-      "time": "2026-07-31 20:01:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Fed's Kashkari said a series of supply shocks has, to some extent, driven inf. Recent data-center investment has added a new demand-side factor to inf."
-    },
-    {
-      "id": "5019341",
-      "time": "2026-07-31 20:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡什卡里：為防範通脹形成固化態勢的風險，傾向於漸進式收緊政策。"
-    },
-    {
-      "id": "5019340",
-      "time": "2026-07-31 20:00:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲卡什卡里：若通脹持續處於高位，採取一系列小幅政策調整或許更為妥當，而非等待事態發展後被迫實施更為激進的舉措。"
-    },
-    {
-      "id": "mkt:019fb80c-257b-7aab-8f34-808ed29d348b",
-      "time": "2026-07-31 20:00:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Kashkari dissented at the FOMC meeting, favoring a 25bp increase in the policy rate."
-    },
-    {
-      "id": "5019339",
-      "time": "2026-07-31 20:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "CIRCLE獲得紐約州金融和法律服務部頒發的信託章程。"
-    },
-    {
-      "id": "mkt:019fb80b-1df1-7aab-8f34-7c8a1f6bb7e1",
-      "time": "2026-07-31 19:59:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Three-month LME zinc rose 0.47% to $3,641.5/tonne, the highest since June 18."
-    },
-    {
-      "id": "5019338",
-      "time": "2026-07-31 19:58:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：本週對138起證券異常交易行為採取了自律監管措施】深交所公告，2026年7月27日至7月31日，本所共對138起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形。"
     }
   ]
 }
