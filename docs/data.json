@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-07 23:46:25",
-  "count": 16036,
+  "updated": "2026-08-07 23:50:32",
+  "count": 16033,
   "items": [
+    {
+      "id": "5031420",
+      "time": "2026-08-07 23:49:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗德黑蘭市長扎卡尼：想透過霍爾木茲海峽，必須取消制裁並支付賠償。伊朗不會放棄追求正義，直到對罪犯實施最終懲罰。"
+    },
+    {
+      "id": "mkt:019fdce9-3540-7aab-8fbd-cbce52e08b5c",
+      "time": "2026-08-07 23:48:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tehran Mayor Zakani said Iran will not abandon its pursuit of justice until the perpetrators receive final punishment."
+    },
+    {
+      "id": "mkt:019fdce9-1f16-7aab-8fbd-c70acc70eed9",
+      "time": "2026-08-07 23:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tehran mayor Zakani said those seeking to transit the Strait of Hormuz must lift sanctions and pay compensation."
+    },
+    {
+      "id": "5031419",
+      "time": "2026-08-07 23:46:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社：報道顯示，葉門武裝部隊發動導彈襲擊後，葉門被佔馬裡卜地區內沙特支援武裝的據點發生多起爆炸。"
+    },
     {
       "id": "mkt:019fdce5-445c-7aab-8fbd-becd6436bda3",
       "time": "2026-08-07 23:44:00",
@@ -146185,75 +146217,6 @@
         "國際"
       ],
       "text": "特朗普： 伊朗還剩下一部分導彈，但其存量遠少於四五個月之前。 他們的製造產能幾乎耗盡，無人機生產能力也基本不復存在。 不過，伊朗仍保有少量相關裝備。"
-    },
-    {
-      "id": "mkt:019fb8dd-3459-7aab-8f3a-4a6e4be81727",
-      "time": "2026-07-31 23:48:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Germany to extend border controls beyond September】Federal Interior Minister Dobrindt said on July 31 local time that, after a recent large influx of migrants into Spain’s North African enclave Ceuta, Germany will extend border controls with neighboring countries beyond September to continue curbing illegal migration."
-    },
-    {
-      "id": "5019736",
-      "time": "2026-07-31 23:48:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【德國宣佈延長邊境管控措施至9月以後】德國聯邦內政部長多布林特當地時間7月31日表示，鑑於近期西班牙北非飛地休達出現大規模非法移民湧入，德國將把針對鄰國邊境的管控措施延長至9月以後，以繼續遏制非法移民。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb8dc-6b13-7aab-8f3a-41c54e62c2b6",
-      "time": "2026-07-31 23:48:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Iran will soon no longer possess certain military capabilities."
-    },
-    {
-      "id": "5019735",
-      "time": "2026-07-31 23:47:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不久之後，伊朗部分軍事力量將不復存在。"
-    },
-    {
-      "id": "te:markets:571825",
-      "time": "2026-07-31 23:47:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Rapeseed Hits 4-week Low — Rapeseed decreased to 517.25 EUR/T, the lowest since July 2026. Over the past 4 weeks, Rapeseed gained 1.82%, and in the last 12 months, it increased 9.06%."
-    },
-    {
-      "id": "mkt:019fb8db-c36d-7aab-8f3a-3f8abbb9bbd4",
-      "time": "2026-07-31 23:47:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the U.S.-Venezuela relationship is very good."
-    },
-    {
-      "id": "te:markets:571824",
-      "time": "2026-07-31 23:46:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Gain on Strong Corporate Results — The CAC 40 gained 0.3% to close at 8,510 on Friday as investors assessed another round of corporate earnings and business updates. Engie surged 5.3% after reporting strong first-half results and raising its 2026 guidance. Crédit Agricole gained 2.5% after beating second-quarter expectations, while Saint-Gobain jumped 7% as the company returned to double-digit sales growth in the second quarter and reaffirmed its 2026 outlook. TotalEnergies added 0.8% as oil prices extended gains. Luxury stocks were mixed as persistent Middle East tensions weighed on risk sentiment. LVMH rose 0.4%, while L'Oréal fell 1.8% and Hermès lost 1.1%. On the data front, France's annual inflation rate accelerated to 2.1% in July from 1.8% in June, reinforcing the case for a more cautious ECB easing cycle. Meanwhile, producer prices fell 0.6% month-over-month in June after a revised 0.2% decline in May."
     }
   ]
 }
