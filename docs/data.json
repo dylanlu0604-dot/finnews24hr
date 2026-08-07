@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-08 04:14:19",
-  "count": 16070,
+  "updated": "2026-08-08 04:18:14",
+  "count": 16068,
   "items": [
+    {
+      "id": "5031612",
+      "time": "2026-08-08 04:16:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行存款從前一週的 19.400 萬億美元降至 19.363 萬億美元。"
+    },
+    {
+      "id": "5031611",
+      "time": "2026-08-08 04:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）披露檔案：alphabet提交檔案申請發行最高額度250億美元的分系列中期票據。"
+    },
+    {
+      "id": "5031610",
+      "time": "2026-08-08 04:14:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：確認維德角 B+/B 評級；展望維持正面。"
+    },
+    {
+      "id": "5031609",
+      "time": "2026-08-08 04:14:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：正面展望反映預期喬治亞將延續強勁經濟表現與審慎財政管理。"
+    },
+    {
+      "id": "5031608",
+      "time": "2026-08-08 04:14:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：該展望反映出，我們預期喬治亞的對外頭寸將透過持續積累外匯儲備進一步改善。"
+    },
     {
       "id": "5031607",
       "time": "2026-08-08 04:13:21",
@@ -146415,73 +146455,6 @@
         "其他"
       ],
       "text": "OpenAI 擴大對入侵 Hugging Face 事件的調查範圍。"
-    },
-    {
-      "id": "5019909",
-      "time": "2026-08-01 04:17:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【非美貨幣7月份普遍上漲，挪威克朗漲超4.5%、紐元漲超3.8%】週五（7月31日）紐約尾盤，歐元兌美元持平、整體呈現出V形反轉、北京時間21:40跌至1.1455重新整理日低，7月份累計上漲0.95%，7月29-30日顯著上漲。英鎊兌美元漲0.10%、21:40也曾重新整理日低至1.34，7月份累漲1.65%，7月15日、29-30日顯著走高。美元兌瑞郎漲0.42%、22:08曾重新整理日高至0.8129，7月份大致持平。7月份，商品貨幣對中，澳元兌美元累漲1.77%，紐元兌美元累漲3.83%，美元兌加元累跌1.29%。瑞典克朗兌美元累漲1.91%，挪威克朗兌美元累漲4.52%，丹麥克朗兌美元累漲0.91%。波蘭茲羅提兌美元累漲0.71%，美元兌匈牙利福林累跌1.64%。印度盧比兌美元累跌0.77%，土耳其里拉兌美元累跌1.85%，南非蘭特兌美元累跌0.84%，墨西哥比索兌美元累漲0.95%，巴西雷亞爾兌美元累漲1.74%。"
-    },
-    {
-      "id": "5019908",
-      "time": "2026-08-01 04:17:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國證券交易委員會（SEC）：KKR已獲批規模為30億美元的迴圈信貸安排，該信貸安排還設有7.5億美元的可追加額度。"
-    },
-    {
-      "id": "5019907",
-      "time": "2026-08-01 04:16:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款從前一週的19.467萬億美元降至19.401萬億美元。"
-    },
-    {
-      "id": "5019906",
-      "time": "2026-08-01 04:16:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，OpenAI調查人員發現有其他人工智慧智慧體脫離管控的證據。"
-    },
-    {
-      "id": "mkt:019fb9d1-ecfd-7aab-8f3d-8dc6b1f70587",
-      "time": "2026-08-01 04:16:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Market sources say OpenAI investigators have found evidence suggesting other AI agents have circumvented safety controls."
-    },
-    {
-      "id": "mkt:019fb9d0-816c-7aab-8f3d-8048d3c0a35b",
-      "time": "2026-08-01 04:14:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【US denies role in rerouting of Qatari LNG tanker bound for Pakistan】The US denied involvement in the rerouting of Qatari LNG tanker \"Al Areesh\", the first Qatari LNG vessel to resume transit through the Strait of Hormuz after more than three weeks. Al Areesh loaded at Ras Laffan in early July and remained in the Persian Gulf; AIS showed it transit the Strait of Hormuz early Thursday with Pakistan listed as destination. Vessel-tracking data place the ship near Muscat and show its ETA to Pakistan pushed from July 31 to Aug. 6. CENTCOM spokesman Tim Hawkins said US forces did not arrange the course change. A source said the vessel had received instructions from Iranian authorities to suspend the voyage to Pakistan."
-    },
-    {
-      "id": "5019905",
-      "time": "2026-08-01 04:14:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，Motiva在短暫電力波動後恢復得克薩斯州阿瑟港煉油廠原油裝置生產。"
     }
   ]
 }
