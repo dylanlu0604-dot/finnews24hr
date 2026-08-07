@@ -1,7 +1,27 @@
 {
   "date": "2026-08-08",
-  "count": 78,
+  "count": 80,
   "items": [
+    {
+      "id": "5031457",
+      "time": "2026-08-08 01:03:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝稱，其襲擊了馬裡卜境內受沙特支援的部隊、彈藥庫及軍事裝備。"
+    },
+    {
+      "id": "mkt:019fdd2e-555d-7aab-8fbf-001d290ef609",
+      "time": "2026-08-08 01:03:48",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Houthi armed group said its forces will respond to any escalation with escalation and vowed to strike any Saudi forces mobilized to continue the blockade."
+    },
     {
       "id": "mkt:019fdd2d-f9c3-7aab-8fbe-f8d919aae499",
       "time": "2026-08-08 01:03:25",
