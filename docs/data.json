@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08 06:34:39",
+  "updated": "2026-08-08 06:38:26",
   "count": 15980,
   "items": [
+    {
+      "id": "5031673",
+      "time": "2026-08-08 06:36:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內漲超1%，現報2.6763美元。"
+    },
+    {
+      "id": "te:markets:573895",
+      "time": "2026-08-08 06:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 3.36% — Top commodity gainers are Silver (3.36%), Gold (2.44%) and Silicon (1.48%). Biggest losers are Copper (-1.73%) and Iron Ore (-0.87%)."
+    },
     {
       "id": "te:markets:573894",
       "time": "2026-08-08 06:30:06",
@@ -145642,25 +145662,6 @@
         "國際"
       ],
       "text": "【伊朗警告打擊美以能源基礎設施】據伊朗塔斯尼姆通訊社當地時間今天（8月1日）凌晨援引伊朗高階安全官員的訊息報道稱，若美國、以色列襲擊伊朗能源設施，伊朗將把其視為“一種魯莽行徑”。伊朗已制定全面計劃，以應對任何“潛在的魯莽行徑”。伊朗的回應方案涵蓋“打擊以色列的關鍵基礎設施及美國在本地區的能源設施”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5020037",
-      "time": "2026-08-01 06:37:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭基輔傳出連續爆炸聲】據總檯記者訊息，當地時間8月1日，烏克蘭基輔市內傳出連續爆炸聲。此前基輔拉響防空警報。（央視新聞）"
-    },
-    {
-      "id": "te:markets:571867",
-      "time": "2026-08-01 06:35:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Falls by 2.46% — Top commodity losers are Silver (-2.46%), Titanium (-2.20%), Lithium Carbonate (-2.05%) and Gold (-1.47%). Gains are led by Copper (0.64%)."
     }
   ]
 }
