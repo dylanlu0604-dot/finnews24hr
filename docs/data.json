@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-08 02:39:42",
-  "count": 16039,
+  "updated": "2026-08-08 02:43:34",
+  "count": 16042,
   "items": [
+    {
+      "id": "mkt:019fdd89-0729-7aab-8fc0-54b48510ef9d",
+      "time": "2026-08-08 02:42:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "European Commission President von der Leyen welcomed the US Senate's passage of sanctions targeting Russian energy."
+    },
+    {
+      "id": "5031494",
+      "time": "2026-08-08 02:41:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：遺憾的是，目前星艦回收情況不容樂觀。儘管如此，我們已獲取隔熱罩與發動機關鍵部位的特寫照片，用於後續迭代升級。"
+    },
+    {
+      "id": "5031493",
+      "time": "2026-08-08 02:40:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國財政部引發關於縮減拍賣規模以抑制收益率的爭論】美國財政部引發了關於政府票據和債券拍賣的爭論——政府票據和債券的拍賣規模只會越來越大，而這長期以來一直是全球最大債券市場的一項”鐵律”。財政部對其季度債務發行政策宣告進行了微調，將正在評估附息證券拍賣的”潛在未來增加”改為”潛在未來調整”。部分交易商推測，官員們可能會考慮縮減最長期限債務的拍賣規模，並將未來任何發行增量集中在成本更低的短期和中期品種上。"
+    },
+    {
+      "id": "mkt:019fdd86-9220-7aab-8fc0-48e9aa5c2686",
+      "time": "2026-08-08 02:40:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said recovery of the Starship from its 13th flight is not optimistic, but teams obtained close-up images of the heat shield and critical engine areas to guide future upgrades."
+    },
     {
       "id": "mkt:019fdd83-9a6b-7aab-8fc0-4047f12c8fb9",
       "time": "2026-08-08 02:36:57",
@@ -146207,15 +146243,6 @@
         "MKT News"
       ],
       "text": "Colombia's central bank left the policy rate unchanged at 12%, with the decision backed by a majority of the seven-member board."
-    },
-    {
-      "id": "5019807",
-      "time": "2026-08-01 02:42:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行維持隔夜利率不變，利率水平為 12.00%。"
     }
   ]
 }
