@@ -1,7 +1,289 @@
 {
   "date": "2026-08-07",
-  "count": 1356,
+  "count": 1387,
   "items": [
+    {
+      "id": "5030447",
+      "time": "2026-08-07 16:02:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲通訊衛星公司（Eutelsat）執行長：已簽署首個託管載荷合同。"
+    },
+    {
+      "id": "5030446",
+      "time": "2026-08-07 16:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國政府發言人表示，國家安全委員會今日召開電話會議，由總理默茨主持，會議討論了萊比錫/哈雷機場的事件。"
+    },
+    {
+      "id": "mkt:019fdb3e-628a-7aab-8fb3-a3d999c791ba",
+      "time": "2026-08-07 16:02:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【PBOC adds to gold reserves for 21st straight month】China's gold reserves stood at 76.08 mln ounces at end‑July, up from 75.44 mln at end‑June; the PBOC has increased gold holdings for a 21st consecutive month."
+    },
+    {
+      "id": "5030445",
+      "time": "2026-08-07 16:02:00",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "【中國央行連續第21個月增持黃金】中國7月末黃金儲備7608萬盎司，6月末為7544萬盎司。中國央行已連續第21個月增持黃金。"
+    },
+    {
+      "id": "5030444",
+      "time": "2026-08-07 16:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國7月外匯儲備 34187.8億美元，前值 34162.6億美元。"
+    },
+    {
+      "id": "5030443",
+      "time": "2026-08-07 16:01:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前漲跌互現，百濟神州漲5%】 美股中概股盤前漲跌互現，百濟神州漲5%，拼多多漲3%，蔚來漲1%，網易漲0.2%，百度、阿里巴巴跌0.5%，嗶哩嗶哩、攜程跌1%。"
+    },
+    {
+      "id": "5030442",
+      "time": "2026-08-07 16:01:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行明天開展價值5億美元、交割期限為一週的里拉買方互換拍賣。"
+    },
+    {
+      "id": "te:markets:573711",
+      "time": "2026-08-07 16:01:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rises to Fresh Record — The DAX 40 rose 0.6% to near 26,300 on Friday, setting a fresh record high and marking the second day of advances. Attention remained centered on corporate earnings and Middle East developments. On the data front, Germany’s industrial production and exports topped market expectations, providing a positive signal for the economy. The technology sector, particularly software companies and chipmakers, led sectoral gains, followed by pharma & healthcare and industrials, while insurers faced strong selling pressure. SAP climbed 3.4% and Infineon Technologies added 1.6%. Rheinmetall, Scout24, Qiagen and Brenntag also advanced solidly. Daimler Truck slipped nearly 3%, after reporting an 18% drop in second-quarter profit and despite raising full-year adjusted EBIT guidance. Munchener Ruck slid 2.7% even after a suprise 6% increase in net profit. Allianz fell 0.9%, despite stronger-than-expected record Q2 operating profit, as net income came in below forecasts."
+    },
+    {
+      "id": "mkt:019fdb3d-6954-7aab-8fb3-9d999775b1cf",
+      "time": "2026-08-07 16:01:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN FAO global food price index averaged 131.1 points in July, up from 130.3 in June."
+    },
+    {
+      "id": "5030440",
+      "time": "2026-08-07 16:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋁庫存減少1500噸，鋅庫存減少400噸，銅庫存減少3675噸，鎳庫存持平，錫庫存減少105噸，鉛庫存減少3850噸。"
+    },
+    {
+      "id": "5030439",
+      "time": "2026-08-07 16:00:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲通訊衛星組織（Eutelsat）執行長表示：將把所有商業客戶遷移至IRIS2衛星星座。"
+    },
+    {
+      "id": "mkt:019fdb3d-4118-7aab-8fb3-92ec0e1e6fb3",
+      "time": "2026-08-07 16:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange (LME) stocks: aluminium -1,500 tonnes; zinc -400 tonnes; copper -3,675 tonnes; nickel unchanged; tin -105 tonnes; lead -3,850 tonnes."
+    },
+    {
+      "id": "5030438",
+      "time": "2026-08-07 16:00:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股光通訊板塊盤前普漲 Coherent漲近5%】美股光通訊板塊盤前普漲，Coherent漲近5%，Lumentum漲3.5%，邁威爾科技、康寧漲近3%，Ciena漲超2%。"
+    },
+    {
+      "id": "5030436",
+      "time": "2026-08-07 16:00:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家網際網路資訊辦公室關於《大型個人資訊處理者個人資訊保護規定（徵求意見稿）》公開徵求意見的通知】為規範大型個人資訊處理者個人資訊處理活動，保護個人資訊合法權益，促進個人資訊依法合理利用，根據《中華人民共和國個人資訊保護法》、《網路資料安全管理條例》等法律、行政法規，國家網信部門將前期已公開徵求意見的《大型網路平臺設立個人資訊保護監督委員會規定（徵求意見稿）》、《大型網路平臺個人資訊保護規定（徵求意見稿）》作了整合完善，形成《大型個人資訊處理者個人資訊保護規定（徵求意見稿）》，現向社會公開徵求意見。公眾可以透過以下途徑和方式提出反饋意見：\n\n1.透過電子郵件將意見傳送至：shujuju@cac.gov.cn。\n\n2.透過信函方式將意見寄至：北京市海淀區阜成路15號國家網際網路資訊辦公室網路資料管理局，郵編：100048，並在信封上註明“大型個人資訊處理者個人資訊保護規定徵求意見”字樣。\n\n意見反饋截止時間為2026年9月7日。"
+    },
+    {
+      "id": "mkt:019fdb3c-f8d4-7aab-8fb3-8a4de7e729e4",
+      "time": "2026-08-07 16:00:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan July trade surplus $17.17bn, vs $16.45bn expected; June $12.2bn."
+    },
+    {
+      "id": "5030435",
+      "time": "2026-08-07 16:00:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊：一處早期預警雷達站、無人機中繼站以及其他敵方目標已遭打擊。"
+    },
+    {
+      "id": "mkt:019fdb3c-cd82-7aab-8fb3-84962f051b28",
+      "time": "2026-08-07 16:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Trade Balance (Jul) | actual 17169999999.999998B | consensus 16450000000B | previous 12200000000B"
+    },
+    {
+      "id": "mkt:019fdb3c-c4a1-7aab-8fb3-781779f4e53a",
+      "time": "2026-08-07 16:00:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan July imports YoY 37.4% (expected 48.35%; previous 51.8%)."
+    },
+    {
+      "id": "mkt:019fdb3c-9c58-7aab-8fb3-709204d5107e",
+      "time": "2026-08-07 16:00:10",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Taiwan exports YoY +32.9% in July, below consensus 40.7% and prior 40.3%."
+    },
+    {
+      "id": "mkt:019fdb3c-99a8-7aab-8fb3-6a7f0903ce24",
+      "time": "2026-08-07 16:00:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Imports (YoY) (Jul) | actual 37.4% | consensus 48.35% | previous 51.80%"
+    },
+    {
+      "id": "5030434",
+      "time": "2026-08-07 16:00:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百川股份：2026年上半年淨利潤7066.63萬元，同比增長31.23%】百川股份公告，2026年上半年營業收入31.16億元，同比增長7.10%。歸屬於上市公司股東的淨利潤7066.63萬元，同比增長31.23%；歸屬於上市公司股東的扣除非經常性損益的淨利潤5972.64萬元，同比增長24.72%；上年同期淨利潤5392.5萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:markets:573710",
+      "time": "2026-08-07 16:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Gains by 1.62% — Top commodity gainers are Natural Gas EU (1.62%), Natural Gas UK (1.54%), Gasoline (1.02%), Brent Crude Oil (0.94%) and Crude Oil WTI (0.67%)."
+    },
+    {
+      "id": "5030433",
+      "time": "2026-08-07 16:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【柬埔寨紅十字會向中方捐贈10萬美元支援中方抗洪救災】8月6日，柬埔寨紅十字會秘書長彭佔蒂妮專程來到中國駐柬使館，向汪文斌大使轉交給中國紅十字會的10萬美元捐款，用於支援中方抗洪救災。（澎湃）"
+    },
+    {
+      "id": "mkt:019fdb3c-70c3-7aab-8fb3-6390c83368e1",
+      "time": "2026-08-07 15:59:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Exports (YoY) (Jul) | actual 32.9% | consensus 40.7% | previous 40.30%"
+    },
+    {
+      "id": "5030432",
+      "time": "2026-08-07 15:59:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝肯能源：2026年上半年由盈轉虧，淨利潤虧損1.24億元】貝肯能源公告，2026年上半年營業收入3.14億元，同比下降32.41%。歸屬於上市公司股東的淨利潤虧損1.24億元，上年同期淨利潤1382.1萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5030431",
+      "time": "2026-08-07 15:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔塔技術：披露獲得日本整車開發專案訂單。"
+    },
+    {
+      "id": "5030430",
+      "time": "2026-08-07 15:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大麥：打擊黃牛，大麥寸步不讓】8月7日，大麥官方微博發文表示，“打擊黃牛，大麥寸步不讓。針對新型機刷、協議破解、自動化代搶等技術挑戰，我們持續升級風控模型，實現毫秒級風險識別與處置，全年累計攔截惡意請求超60億次，大麥將始終致力於守護每一份純粹的熱愛。”"
+    },
+    {
+      "id": "5030429",
+      "time": "2026-08-07 15:58:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度經濟事務秘書：雙邊投資條約範本正在審議中，內閣將很快作出決定。"
+    },
+    {
+      "id": "5030428",
+      "time": "2026-08-07 15:58:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "浦項制鐵控股公司：將出售價值2萬億韓元的浦項制鐵國際股份。"
+    },
+    {
+      "id": "5030427",
+      "time": "2026-08-07 15:58:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "塔塔科技：針對報道《塔塔科技股價上漲7%，報道稱本田為壓縮成本將新車型專案外包給該公司》作出澄清。"
+    },
+    {
+      "id": "5030426",
+      "time": "2026-08-07 15:58:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【貝萊德“非常不願”承擔長期債券的風險】貝萊德正在避免投資較長天期的政府債券，因為這些債券容易受到地緣政治和全球財政風險帶來的波動影響。該公司歐洲、中東和非洲地區（EMEA）全球固定收益主管James Turner表示，目前非常不願意承受較長天期債券，因為這是主權債收益率曲線中一個波動劇烈的區域。儘管美國干預日元時是賣出歐元而非美元，但Turner認為，這個決定不太可能對歐洲政府債券產生影響，這表明在世界範圍內各國大致上變得不那麼合作了。"
+    },
     {
       "id": "5030425",
       "time": "2026-08-07 15:58:02",
