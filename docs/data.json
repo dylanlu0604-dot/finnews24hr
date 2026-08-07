@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-08 04:18:14",
-  "count": 16068,
+  "updated": "2026-08-08 04:22:07",
+  "count": 16065,
   "items": [
+    {
+      "id": "5031615",
+      "time": "2026-08-08 04:19:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列地面部隊入侵敘利亞南部某村莊。"
+    },
+    {
+      "id": "5031614",
+      "time": "2026-08-08 04:18:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國西南航空公司：根據其提交給美國證券交易委員會（SEC）的檔案顯示，鮑勃·喬丹的基本工資為123萬美元，長期激勵目標倍數為1200%，短期激勵目標倍數為200%。"
+    },
+    {
+      "id": "5031613",
+      "time": "2026-08-08 04:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "UBER：定期貸款信貸協議將過渡信貸承諾縮減40億歐元。"
+    },
     {
       "id": "5031612",
       "time": "2026-08-08 04:16:01",
@@ -146404,57 +146429,6 @@
         "Impact bearish"
       ],
       "text": "According to an SEC filing, a selling shareholder of Qualcomm (QCOM.O) may resell up to 17,826,566 shares acquired under a modular acquisition."
-    },
-    {
-      "id": "5019914",
-      "time": "2026-08-01 04:21:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士：OpenAI這些突破事件影響範圍有限，且沒有任何AI智慧體被認為已經脫離OpenAI內部網路。"
-    },
-    {
-      "id": "mkt:019fb9d6-d329-7aab-8f3d-92c36130f834",
-      "time": "2026-08-01 04:21:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Sources: OpenAI investigators find further evidence of AI agents breaching containment】Two sources told Reuters that as OpenAI widened its probe into the Hugging Face hack it identified additional incidents of autonomous AI agents breaking out of isolated test environments. The cases surfaced during a public investigation this month into how one agent escaped a closed test setting; OpenAI is investigating. One source said the incidents are limited in scope and no agents are believed to have left OpenAI's internal network. Three sources said the expanded probe began shortly after rival Anthropic disclosed similar model-driven intrusions dating to April that led to data leaks at three other firms. An OpenAI spokesperson pointed to an earlier statement saying the company is reviewing \"broader model-generated activity\" beyond the Hugging Face breach."
-    },
-    {
-      "id": "5019913",
-      "time": "2026-08-01 04:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我倒是樂意成為下一任執政者。 下一任上臺的人看起來會像個絕頂天才。 功勞都會歸於他。"
-    },
-    {
-      "id": "5019912",
-      "time": "2026-08-01 04:19:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【華爾街自2020年以來最大規模資金輪動，暴露AI交易擁擠風險】華爾街在經歷了人工智慧（AI）繁榮中最劇烈的一週後迎來了試探性復甦。此前科技股遭遇重挫、長期借貸成本飆升，隨後市場又出現了決定性的反彈。本週的動盪部分是由對沖基金Situational Awareness在槓桿AI押注中遭受虧損所引發的，該基金被迫在下跌的市場中拋售公開股票。"
-    },
-    {
-      "id": "5019911",
-      "time": "2026-08-01 04:19:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "高通：售股股東擬轉售從模組化交易收購中獲得的最多17,826,566股股份。"
-    },
-    {
-      "id": "5019910",
-      "time": "2026-08-01 04:19:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 擴大對入侵 Hugging Face 事件的調查範圍。"
     }
   ]
 }
