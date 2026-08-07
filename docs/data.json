@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-07 16:22:56",
-  "count": 16132,
+  "updated": "2026-08-07 16:26:50",
+  "count": 16127,
   "items": [
+    {
+      "id": "5030523",
+      "time": "2026-08-07 16:25:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美光科技美股盤前漲超2%】美光科技美股盤前漲超2%，現報899.6美元。"
+    },
+    {
+      "id": "5030522",
+      "time": "2026-08-07 16:25:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江仙通：向特定物件發行股票獲中國證監會同意註冊批覆】浙江仙通公告，公司近日收到中國證監會《關於同意浙江仙通橡塑股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。"
+    },
+    {
+      "id": "5030521",
+      "time": "2026-08-07 16:25:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市後是否會釋放對國產零部件的需求？宇樹科技王興興回應】對於“上市後是否會釋放對國產零部件的需求”問題，王興興透露，未來對於影響或制約機器人核心效能的部元件，如本體結構、運動控制系統和關節模組等，公司將繼續採取自主研發模式，確保產品整體效能的快速迭代與行業領先；對於其中需求多樣且較為分散的功能部件，公司對部分型號將繼續採取外購部件的形式，以快速響應與滿足客戶多樣化需求。（新浪科技）"
+    },
+    {
+      "id": "5030520",
+      "time": "2026-08-07 16:24:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【馬來西亞對涉華鍍鋁鋅其他合金和非合金鋼扁軋製品啟動反傾銷調查】8月6日，馬來西亞投資、貿易及工業部發布公告，應國內生產商NS Bluescope Malaysia Sdn. Bhd.提交的申請，對原產於或進口自中國大陸、中國臺灣地區和越南的鍍鋁鋅、其他合金和非合金鋼扁軋製品啟動反傾銷調查。本案傾銷調查期為2025年1月1日至2025年12月31日，損害調查期為2023年1月1日至2025年12月31日。本案初裁將於啟動之日起120天內作出。"
+    },
+    {
+      "id": "5030518",
+      "time": "2026-08-07 16:24:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【利比亞將按計劃把原油日產量提升至 200 萬桶】在美國斡旋下統一預算掃清投資推進障礙後，利比亞國家石油公司將按計劃在下個十年初把原油日產量提升至 200 萬桶。利比亞國家石油公司董事長馬蘇德・蘇萊曼在採訪中表示，這份支出計劃為該公司提供超過 130 億第納爾（摺合 20 億美元）運營預算，堪稱 “救命資金”；2025 年該公司未拿到任何運營撥款。這是利比亞自 2013 年以來首份合併統一預算，標誌著美國總統唐納德・特朗普推動這個歐佩克成員國實現國家統一的努力取得初步進展，此舉也有望為美國企業獲取非洲規模最大的原油儲備創造更好條件。"
+    },
+    {
+      "id": "5030517",
+      "time": "2026-08-07 16:24:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1404.96美元/盎司。"
+    },
+    {
+      "id": "mkt:019fdb52-af91-7aab-8fb4-19c4d5ba9acd",
+      "time": "2026-08-07 16:24:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Market sources say Libya's plan to ramp oil production to about 2.0 mln bpd is progressing smoothly."
+    },
+    {
+      "id": "5030516",
+      "time": "2026-08-07 16:23:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國恩布瓦能源公司（ENBW）：水位偏低導致我們上半年損失了數千萬歐元，具體金額為千萬歐級別低位兩位數。"
+    },
+    {
+      "id": "te:economy:573724",
+      "time": "2026-08-07 16:23:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Foreign Exchange Reserves",
+        "Importance 1"
+      ],
+      "text": "China Foreign Exchange Reserves Expand — Official foreign exchange reserves kept by the People's Bank of China rose to an equivalent of $3.419 trillion in July of 2026 from $3.416 trillion in the previous month, aligned with market expectations and remaining relatively close to the record high of $3.442 trillion two weeks prior. The rise was aligned with a drop in the dollar during the last day of July, largely due to some dollar-asset selling by foreign institutions after the Fed decision and the joint Japan-US intervention to strengthen the yen. Meanwhile, gold reserves rose to 76.08 million troy ounces from 75.44 million in the previous month."
+    },
+    {
+      "id": "5030515",
+      "time": "2026-08-07 16:23:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技王興興：公司將並行開展WMA世界模型、VLA視覺\u001e語言\u001e動作具身大模型研發】8月7日下午訊息 在宇樹科技今日的網上路演上，有投資者詢問：公司募投專案之一智慧機器人模型研發專案的具身智慧核心模組“大腦”採用的是大語言模型還是世界模型？對此，宇樹科技董事長、總經理兼技術長王興興表示，公司目前在WMA模型與VLA模型兩大技術路線上均有所佈局與投入，並先後於2025年9月、2026年1月開源釋出了通用WMA模型“UnifoLM-WMA-0”與通用VLA模型“UnifoLM-VLA-0”，取得了較為顯著的研發成果。本次募投專案智慧機器人模型研發專案中，公司會並行開展WMA世界模型、VLA視覺\u001e語言\u001e動作具身大模型研發。（新浪科技）"
+    },
     {
       "id": "5030514",
       "time": "2026-08-07 16:22:18",
@@ -147071,145 +147162,6 @@
         "其他"
       ],
       "text": "【萬科：新一屆董事會仍面臨嚴峻挑戰 將凝聚力量共渡難關】7月31日，萬科舉行2026年第一次臨時股東會，審議董事會換屆議案。會上萬科高管表示，受多重因素影響，萬科經營指標尚未實質性改善，債務和流動性依然承壓，新一屆董事會面臨的風險挑戰依然嚴峻，任務艱鉅、責任重大、使命在肩。萬科方面稱，新一屆董事會將有效發揮“定戰略、作決策、防風險”的作用，凝聚力量，共渡難關。"
-    },
-    {
-      "id": "5018777",
-      "time": "2026-07-31 16:26:30",
-      "tags": [
-        "市場",
-        "觀點",
-        "焦點"
-      ],
-      "text": "【德明利今日跌1.06% 2家機構專用席位淨賣出4.44億元】德明利今日跌1.06%，成交額173.55億元，換手率25.61%，盤後龍虎榜資料顯示，深股通專用席位買入7.61億元並賣出13.14億元，1家機構專用席位淨買入1496.15萬元，華泰證券蘇州吳中大道4.67億元，有2家機構專用席位淨賣出4.44億元。"
-    },
-    {
-      "id": "5018776",
-      "time": "2026-07-31 16:26:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4060美元/盎司，日內跌1.06%。"
-    },
-    {
-      "id": "te:economy:571635",
-      "time": "2026-07-31 16:26:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Italy Manufacturing Confidence at 2023-Highs — Italy's manufacturing confidence indicator rose to 89.6 in July 2026, the highest level since June 2023, up from 88.6 in the previous month, marking a broad-based improvement in business sentiment. Firms reported a less negative assessment of both total orders (-16.5 vs -19.3), reflecting improvements in sentiment of foreign orders (-21.9 vs -24.5). Meanwhile, views on current production strengthened slightly (-15.0 vs -15.7), although still in negative territory, alongside a further buildup in inventories (2.7 vs 1.4). Looking ahead, production expectations improved (3.5 vs 1.8), while inflation expectations eased markedly (15.3 vs 22.0), pointing to softer cost pressures. Labor market sentiment also rebounded sharply, with the employment indicator rising to 4.4 from -1.8. Meanwhile, Italy's overall business confidence edged up to 95.6 from 95.3, supported by stronger sentiment in market services, and retail trade, while confidence in the construction sector weakened."
-    },
-    {
-      "id": "mkt:019fb747-3345-7aab-8f2e-429f55281829",
-      "time": "2026-07-31 16:25:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish",
-        "ASML.O",
-        "AVGO.O"
-      ],
-      "text": "U.S. semiconductor stocks extended gains in pre-market trading: TSMC (TSM.N) up more than 4%, ASML (ASML.O) up 3.2%, Arm (ARM.O) up 4.8% and Broadcom (AVGO.O) up more than 1.3%."
-    },
-    {
-      "id": "5018775",
-      "time": "2026-07-31 16:24:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【應對槍擊案不力 美國西雅圖市警察局長辭職】美國華盛頓州西雅圖市警察局長肖恩·巴恩斯7月30日辭職。本月26日，西雅圖美食節期間發生了槍擊事件，致3人死亡、4人受傷，市政當局因關鍵資訊通報遲緩而受到輿論批評。西雅圖市長凱蒂·威爾遜當天宣佈巴恩斯辭職的訊息，並委任該市警察局副局長安德烈·塞爾斯代理局長職務。威爾遜在宣告中對巴恩斯履職期間的付出表達了感謝。此前，當地已有威爾遜要求巴恩斯辭職的說法傳出。巴恩斯接受媒體採訪時表示，他能否繼續擔任警察局長“將由市長決定”。（新華社）"
-    },
-    {
-      "id": "mkt:019fb746-71f2-7aab-8f2e-3c8ebfbca420",
-      "time": "2026-07-31 16:24:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Hong Kong close: Hang Seng +0.1%; AI recent listings surge】After four straight gains Hong Kong opened slightly lower and the Hang Seng Index briefly dipped below its 250-day moving average, falling as much as 235 points to an intraday low of 25,622 after opening down 21 at 25,837, before recovering to close up 0.1%; July gain now >13%. The Hang Seng Tech Index closed up 0.53%, nearly +8% in July. Market turnover was HKD 328.17 bln. Storage names, AI recent listings and PCB stocks led a sharp rebound; brain‑computer interface, electronic components and commercial aerospace also rallied. Alcoholic beverages, consumer electronics and mainland-traded shares corrected; autos, paper and dairy weakened intraday. Leveraged 2x long products tracking SK hynix (07709.HK) and Samsung Electronics (07747.HK) jumped about 67.5% and 48% respectively; Zhipu (02513.HK) +14.5%, MiniMax (00100.HK) +13%, Laopu Gold (06181.HK) +10%; Xiaomi (01810.HK) -7%, Budweiser APAC (01876.HK) -6.5%."
-    },
-    {
-      "id": "5018774",
-      "time": "2026-07-31 16:24:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【江豐電子：參股公司完成增資工商變更 公司持股降至29.63%】江豐電子公告稱，參股公司豐科晶晟擬增資擴股，引入員工持股平臺ESOP和投資者日本愛發科、中國愛發科等。原中國愛發科擬認繳的3500萬元出資份額由日本愛發科承接。近日，豐科晶晟完成增資工商變更登記，註冊資本由8.92億元增至13.5億元。江豐電子持有豐科晶晟的股權比例將由44.8430%降至29.6296%，豐科晶晟仍為其參股公司。"
-    },
-    {
-      "id": "te:economy:571634",
-      "time": "2026-07-31 16:24:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "GDP Annual Growth Rate",
-        "Importance 1"
-      ],
-      "text": "Taiwan Q2 GDP Growth Loses Momentum — Taiwan’s economy expanded 12.92% year-on-year in the second quarter of 2026, beating market expectations of 10.8% but slowing from a multi-decade high of 14.55% in the previous quarter, preliminary estimates showed. The latest reading marked the weakest economic growth since Q3 2025, as external demand lost momentum, with exports of goods and services growth easing to 21.64% from 35.76% in Q1, while imports slowed to 18.27% from 26.34%. Meanwhile, domestic demand strengthened, supported by firmer household consumption, which rose to 5.88% from 4.74% previously, and gross capital formation, which accelerated to 15.14% from 5.92%. In contrast, government spending moderated to 3.22% from 4.06%. On a seasonally adjusted quarterly basis, Taiwan’s economy grew 2.39% in Q2 2026, accelerating from 1.69% growth in the first quarter."
-    },
-    {
-      "id": "5018773",
-      "time": "2026-07-31 16:24:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天益醫療：董事會秘書李孟良離任 董事長吳志敏代行職責】天益醫療公告稱，公司副總經理、董事會秘書李孟良因個人原因辭職，不再擔任公司及控股子公司任何職務，原定任期至2028年12月4日。其辭職報告送達董事會之日起生效，且不影響公司正常執行。截至公告披露日，李孟良未持股，無未履行承諾事項，已完成交接。在聘任新董秘前，由董事長吳志敏代行職責，公司將盡快完成後續聘任工作。"
-    },
-    {
-      "id": "5018772",
-      "time": "2026-07-31 16:24:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宜通世紀：中標超1.11億元廣東移動機房配套施工服務專案】宜通世紀公告稱，公司成為中國行動通訊集團廣東有限公司2026年至2028年通訊接入機房配套施工服務公開招標採購專案份額六中標單位，折扣前中選金額為1.11億元（含稅），服務區域包括深圳寶安區、惠州惠城區等。服務期自合同簽訂之日起至2028年8月31日。若順利實施，對公司業務量增長和業績有積極影響。不過，公司尚未籤正式合同，存在不確定性。"
-    },
-    {
-      "id": "5018771",
-      "time": "2026-07-31 16:24:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【領益智造：終止參與富通嘉善重整投資事項】領益智造公告，公司此前擬透過控股子公司參與富通集團（嘉善）通訊技術有限公司重整投資，已繳納報名保證金人民幣5000萬元並開展盡職調查。因盡職調查時間有限，中介機構無法及時出具報告，公司無法對標的資產做出合理價值判斷，經審慎研究，決定終止參與富通嘉善重整投資事項。本次終止不會對公司日常經營、財務狀況和經營成果產生重大不利影響。"
-    },
-    {
-      "id": "5018770",
-      "time": "2026-07-31 16:23:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中馬各界探討人工智慧賦能經貿合作新機遇】2026陸海財經論壇7月30日在馬來西亞首都吉隆坡舉行。中國和馬來西亞政商界、學術界代表圍繞人工智慧賦能產業升級、推動經貿合作展開交流，探討中馬及中國—東盟經貿合作新機遇。(新華社)"
-    },
-    {
-      "id": "5018769",
-      "time": "2026-07-31 16:23:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【遼寧能源：增補董事任長宏並聘任李華女士為財務總監】遼寧能源公告稱，公司7月31日召開第十二屆董事會第二次會議，同意提名任長宏為第十二屆董事會董事候選人，任期自股東會審議透過至2029年6月30日；聘任李華女士為財務總監，任期自董事會審議透過至2029年6月30日。截至目前，二人未直接持股，與相關方無關聯關係，符合任職條件。"
-    },
-    {
-      "id": "5018768",
-      "time": "2026-07-31 16:23:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中原地產：香港二手房價格按周下跌0.4%】中原地產在網站上表示，在7月20日至26日當週，衡量香港二手房價格的中原城市領先指數按周下跌0.4%，至159.92。"
-    },
-    {
-      "id": "5018767",
-      "time": "2026-07-31 16:23:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Arm Holdings盤前漲5.03%，現報253.68美元】Arm Holdings盤前漲5.03%，現報253.68美元。訊息面上，Arm第一財季業績超預期並披露資料中心版稅收入同比翻倍以上，強化AI資料中心業務增長預期。"
     }
   ]
 }
