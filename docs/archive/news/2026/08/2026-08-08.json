@@ -1,7 +1,96 @@
 {
   "date": "2026-08-08",
-  "count": 250,
+  "count": 259,
   "items": [
+    {
+      "id": "5031555",
+      "time": "2026-08-08 03:33:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國防部向西拉奈米技術公司簽署 14 億美元附條件貸款協議。"
+    },
+    {
+      "id": "5031554",
+      "time": "2026-08-08 03:33:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，股票基金經理將芝商所（CME）標普500淨多頭頭寸削減2008手，至937107手。"
+    },
+    {
+      "id": "mkt:019fddb6-eca1-7aab-8fc1-6600c78ac8ae",
+      "time": "2026-08-08 03:33:00",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC data: In the week to Aug. 4, speculators in CBOT U.S. Treasury futures cut net short positions by 41,225 contracts to 176,272. 2‑year net shorts fell by 120,346 contracts to 1,004,228, while 5‑year net shorts rose by 179,319 contracts to 1,325,719. Ultra‑long Treasury net shorts declined by 5,723 contracts to 314,985."
+    },
+    {
+      "id": "5031553",
+      "time": "2026-08-08 03:32:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，紐約商品交易所（NYMEX）、洲際交易所（ICE）四大主要天然氣市場中，投機者將淨空頭頭寸增加28093手，至89090手。"
+    },
+    {
+      "id": "mkt:019fddb6-6daf-7aab-8fc1-5e53f9f76d44",
+      "time": "2026-08-08 03:32:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC said speculators' net short positions in natural gas across the four major NYMEX and ICE markets rose by 28,093 contracts to 89,090 in the week to Aug. 4."
+    },
+    {
+      "id": "mkt:019fddb5-ce1a-7aab-8fc1-579ff638939a",
+      "time": "2026-08-08 03:31:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC: Speculators reduced net-long WTI crude positions by 4,683 contracts to 101,824 in the week to Aug. 4."
+    },
+    {
+      "id": "mkt:019fddb5-98fa-7aab-8fc1-4a82835d77d4",
+      "time": "2026-08-08 03:31:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: For the week ended Aug. 4, speculative net long positions on COMEX rose across base and precious metals — gold net longs increased 12,070 contracts to 132,398; silver net longs rose 2,679 contracts to 11,067; copper net longs rose 11,307 contracts to 77,796."
+    },
+    {
+      "id": "5031552",
+      "time": "2026-08-08 03:30:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，石油投機客將西德克薩斯中質原油（WTI）的淨多頭頭寸減少4683手，至101824手。"
+    },
+    {
+      "id": "5031551",
+      "time": "2026-08-08 03:30:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至8月4日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸增加2679手，至11067手。"
+    },
     {
       "id": "5031550",
       "time": "2026-08-08 03:30:02",

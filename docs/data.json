@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-08 03:30:41",
-  "count": 16069,
+  "updated": "2026-08-08 03:34:40",
+  "count": 16067,
   "items": [
+    {
+      "id": "5031555",
+      "time": "2026-08-08 03:33:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國防部向西拉奈米技術公司簽署 14 億美元附條件貸款協議。"
+    },
+    {
+      "id": "5031554",
+      "time": "2026-08-08 03:33:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，股票基金經理將芝商所（CME）標普500淨多頭頭寸削減2008手，至937107手。"
+    },
+    {
+      "id": "mkt:019fddb6-eca1-7aab-8fc1-6600c78ac8ae",
+      "time": "2026-08-08 03:33:00",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "CFTC data: In the week to Aug. 4, speculators in CBOT U.S. Treasury futures cut net short positions by 41,225 contracts to 176,272. 2‑year net shorts fell by 120,346 contracts to 1,004,228, while 5‑year net shorts rose by 179,319 contracts to 1,325,719. Ultra‑long Treasury net shorts declined by 5,723 contracts to 314,985."
+    },
+    {
+      "id": "5031553",
+      "time": "2026-08-08 03:32:47",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，紐約商品交易所（NYMEX）、洲際交易所（ICE）四大主要天然氣市場中，投機者將淨空頭頭寸增加28093手，至89090手。"
+    },
+    {
+      "id": "mkt:019fddb6-6daf-7aab-8fc1-5e53f9f76d44",
+      "time": "2026-08-08 03:32:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CFTC said speculators' net short positions in natural gas across the four major NYMEX and ICE markets rose by 28,093 contracts to 89,090 in the week to Aug. 4."
+    },
+    {
+      "id": "mkt:019fddb5-ce1a-7aab-8fc1-579ff638939a",
+      "time": "2026-08-08 03:31:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "CFTC: Speculators reduced net-long WTI crude positions by 4,683 contracts to 101,824 in the week to Aug. 4."
+    },
+    {
+      "id": "mkt:019fddb5-98fa-7aab-8fc1-4a82835d77d4",
+      "time": "2026-08-08 03:31:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: For the week ended Aug. 4, speculative net long positions on COMEX rose across base and precious metals — gold net longs increased 12,070 contracts to 132,398; silver net longs rose 2,679 contracts to 11,067; copper net longs rose 11,307 contracts to 77,796."
+    },
+    {
+      "id": "5031552",
+      "time": "2026-08-08 03:30:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，石油投機客將西德克薩斯中質原油（WTI）的淨多頭頭寸減少4683手，至101824手。"
+    },
+    {
+      "id": "5031551",
+      "time": "2026-08-08 03:30:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至8月4日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸增加2679手，至11067手。"
+    },
     {
       "id": "5031550",
       "time": "2026-08-08 03:30:02",
@@ -146385,117 +146474,6 @@
         "其他"
       ],
       "text": "市場訊息： 法官傾向於命令扎克伯格在人工智慧相關訴訟中接受庭外取證質詢。"
-    },
-    {
-      "id": "5019859",
-      "time": "2026-08-01 03:33:50",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元走強 紐約聯儲就關鍵匯率向美國大型銀行詢價】隨著市場對日本當局可能再次入市干預的猜測升溫，日元週五上漲。紐約交易時段，日元兌美元和歐元均一度上漲0.9%。兩名知情人士稱，紐約聯儲要求至少兩家美國大型銀行提供日元兌歐元報價。因相關要求非公開，知情人士不願具名。“鑑於日元反應有限，交易員可能會對後續干預行動保持警惕，”道明證券駐新加坡經濟學家Alex Loo表示。週四，日本疑似出手干預匯市後，日元一度大漲3.3%。彭博根據日本央行週五公佈的賬戶資料和貨幣經紀商的預測估算，此次干預規模約為8.45萬億日元（528億美元）。這可能創下日本單日匯市干預規模之最。芝商所資料顯示，週四，大量日元買盤推動其交易量升至近12年來最高水平。但即使干預規模如此之大，對外匯市場的影響仍然有限。日元近幾個月來一度跌至1986年以來最低水平，持續受到油價上漲、財政赤字居高不下以及日美利差懸殊等因素拖累。“歸根結底，除非基本面發生變化，否則匯市干預對匯率的影響可能只是暫時的，”野村國際外匯策略師Yusuke Miyairi表示。"
-    },
-    {
-      "id": "5019858",
-      "time": "2026-08-01 03:31:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至7月28日當週，芝加哥期貨交易所（CBOT）大豆投機客將淨多頭頭寸增加29794手，至100249手；芝加哥期貨交易所（CBOT）小麥投機者將淨空頭頭寸削減9946手，至23228手。"
-    },
-    {
-      "id": "5019857",
-      "time": "2026-08-01 03:31:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至7月28日當週，洲際交易所（ICE）咖啡投機客將淨多頭頭寸增加1757手，至12340手；洲際交易所（ICE）原糖投機者將淨空頭頭寸增加31684手，至124903手；洲際交易所（ICE）棉花投機客將淨多頭頭寸削減2295手，至70542手；洲際交易所（ICE）可可市場投機客將淨空頭頭寸增加1702手，至18514手。"
-    },
-    {
-      "id": "mkt:019fb9a9-435c-7aab-8f3d-11e4c95f8c49",
-      "time": "2026-08-01 03:31:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "CFTC: In the week to July 28, speculative traders increased WTI crude net-long positions by 28,159 contracts to 106,507 contracts."
-    },
-    {
-      "id": "mkt:019fb9a8-edc3-7aab-8f3d-0c517cd3b328",
-      "time": "2026-08-01 03:31:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "CFTC: For the week ended July 28, COMEX speculative net-long positions fell — gold down 3,258 contracts to 120,328; silver down 1,614 contracts to 8,387; copper down 7,195 contracts to 66,490."
-    },
-    {
-      "id": "5019856",
-      "time": "2026-08-01 03:31:00",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至7月28日當週，紐約商品交易所（COMEX）黃金投機者將淨多頭頭寸削減3258手，至120328手。"
-    },
-    {
-      "id": "5019855",
-      "time": "2026-08-01 03:30:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至7月28日當週，紐約商品交易所（COMEX）銅投機客將淨多頭頭寸削減7195手，至66490手。"
-    },
-    {
-      "id": "5019854",
-      "time": "2026-08-01 03:30:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至7月28日當週，紐約商品交易所（COMEX）白銀投機者將淨多頭頭寸削減1614手，至8387手。"
-    },
-    {
-      "id": "5019853",
-      "time": "2026-08-01 03:30:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至7月28日當週，投機者將芝加哥期貨交易所（CBOT）美國國債期貨淨空頭頭寸增加30707手，至217497手。"
-    },
-    {
-      "id": "5019852",
-      "time": "2026-08-01 03:30:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，投機者在7月28日當週將芝加哥期貨交易所（CBOT）美國超長期國債期貨的淨空頭頭寸削減642手，至320708手。"
-    },
-    {
-      "id": "5019851",
-      "time": "2026-08-01 03:30:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）資料顯示，投機者在截至7月28日的一週內，將芝加哥期貨交易所（CBOT）美國10年期國債期貨的淨空頭頭寸削減3587手，至876119手。"
     }
   ]
 }
