@@ -1,7 +1,166 @@
 {
   "date": "2026-08-07",
-  "count": 1042,
+  "count": 1059,
   "items": [
+    {
+      "id": "5030205",
+      "time": "2026-08-07 14:33:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國工業生產連續第三個月增長，汽車行業成為主要驅動力】德國工業生產連續第三個月實現增長，顯示歐洲最大經濟體正在抵禦伊朗戰爭帶來的拖累影響。德國統計局週五公佈資料顯示，德國6月工業產出較前月增長0.2%。這一數字低於上月修正後的0.7%增速，但符合經濟學家的預期中值。推動工業增長的主要力量來自汽車行業。6月汽車產出較前月增長3.6%。與此同時，另一組資料顯示，德國出口連續第五個月擴大，進口也大幅增長。這使德國貿易順差達到154億歐元（約178億美元），低於5月的193億歐元。德國經濟部在一份宣告中表示：“儘管面臨外部經濟壓力，但上一季度製造業產出仍展現出相當強的韌性。”"
+    },
+    {
+      "id": "mkt:019fdaec-f4dc-7aab-8fb1-8d8f48e62ade",
+      "time": "2026-08-07 14:33:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【German industrial production rises third month; autos drive gains】DESTATIS said Germany's industrial output rose 0.2% MoM in June, the third consecutive monthly increase and in line with the median economist forecast; May was revised to +0.7% MoM. Auto production led the advance, up 3.6% MoM. A separate release showed exports expanded for a fifth month and imports jumped, narrowing the trade surplus to EUR15.4 bln (about $17.8 bln) from EUR19.3 bln in May."
+    },
+    {
+      "id": "5030204",
+      "time": "2026-08-07 14:33:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至6月底， 日本政府養老金投資基金資產總額為317.8萬億日元。"
+    },
+    {
+      "id": "te:economy:573662",
+      "time": "2026-08-07 14:32:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Manufacturing Production MoM",
+        "Importance 1"
+      ],
+      "text": "Norway Manufacturing Output Falls 1% in June — Norway’s manufacturing production dropped 1% month-over-month in June 2026, reversing an upwardly revised 0.8% rise in the previous month. Output declined across several key industries, including food, beverages and tobacco (-0.7% vs 1.1% in May), fabricated metal products (-3.3% vs 5.2%), repair and installation of machinery (-7.0% vs 6.5%), computer and electrical equipment (-1.7% vs -0.5%), machinery and equipment (-3.4% vs 1.0%), basic metals (-1.5% vs 0.5%), and rubber, plastic and mineral products (-1.2% vs 0.5%). In contrast, production continued to rise in refined petroleum, chemicals and pharmaceuticals (1% vs 0.1%) and rebounded in ships, boats and oil platforms (2.5% vs -1.7%). On an annual basis, manufacturing output increased 0.7%, slowing from a downwardly revised 2.1% growth in May."
+    },
+    {
+      "id": "mkt:019fdaec-c2ed-7aab-8fb1-85b745055853",
+      "time": "2026-08-07 14:32:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan’s Government Pension Investment Fund (GPIF) posted investment returns of JPY24.0895 trillion for the April–June quarter."
+    },
+    {
+      "id": "5030203",
+      "time": "2026-08-07 14:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本政府養老金投資基金在4月至6月季度實現了8.2%的增長。"
+    },
+    {
+      "id": "5030202",
+      "time": "2026-08-07 14:32:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本麥當勞集團上半年營業利潤為302億日元，同比增長15.2%，預計2026年利潤為555億日元，同比增長4.2%。"
+    },
+    {
+      "id": "mkt:019fdaec-0115-7aab-8fb1-7c9a1ab6374e",
+      "time": "2026-08-07 14:32:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea stocks close slightly lower】On Aug 7 (Fri), Japan's Nikkei 225 closed down 76.55 points, or 0.12%, at 65,606.71. South Korea's KOSPI closed down 37.67 points, or 0.6%, at 6,258.71; SK Hynix fell 4.88% while Samsung Electronics rose 0.21%."
+    },
+    {
+      "id": "5030201",
+      "time": "2026-08-07 14:31:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日韓股市集體收跌】日經225指數收跌0.12%，報65606.71點。韓國綜指收跌0.60%，報6258.71點。"
+    },
+    {
+      "id": "5030200",
+      "time": "2026-08-07 14:31:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "日本政府養老金投資基金錄得24.1萬億日元的單季度歷史最高收益。"
+    },
+    {
+      "id": "5030199",
+      "time": "2026-08-07 14:31:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "三井不動產第一財季集團經常性利潤為894.9億日元，同比下降37.9%；2026/27財年利潤預測為3150億日元，同比增長0.5%。"
+    },
+    {
+      "id": "mkt:019fdaea-9445-7aab-8fb1-70c735ed4580",
+      "time": "2026-08-07 14:30:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Aug 7 China agricultural products wholesale price 200 index +0.26 pts vs yesterday】China Ministry of Agriculture monitoring: Agricultural Products Wholesale Price 200 Index 113.92, up 0.26 points vs yesterday; vegetable-basket wholesale price index 114.14, up 0.31 points. As of 14:00 nationwide wholesale prices (yuan/kg): pork 15.80 (unchanged), beef 67.44 (+0.3%), mutton 64.36 (-0.4%), eggs 9.89 (+0.5%), dressed chicken 17.30 (+0.4%)."
+    },
+    {
+      "id": "5030198",
+      "time": "2026-08-07 14:30:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "夏普第一季度經營利潤82.1億日元，預估66億日元。"
+    },
+    {
+      "id": "5030197",
+      "time": "2026-08-07 14:30:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "夏普預計全年經營利潤300.0億日元，此前預計490.0億日元。"
+    },
+    {
+      "id": "5030196",
+      "time": "2026-08-07 14:30:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "匈牙利7月消費者價格指數同比上漲1.2%，預期上漲1.6%。"
+    },
+    {
+      "id": "te:markets:573660",
+      "time": "2026-08-07 14:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.28% Lower — The Nikkei 225 Index dropped 183 points or 0.28 percent on Friday to close at 65500 points. Losses were led by M3 (-17.95%), Fujifilm (-17.02%) and Lasertec Corp (-11.68%). Offsetting the fall, top gainers were Fujikura (13.66%), Bandai Namco Holdings (10.01%) and Resonac Holdings (8.22%)."
+    },
+    {
+      "id": "5030195",
+      "time": "2026-08-07 14:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月7日：“農產品批發價格200指數”比昨天上升0.26個點】據農業農村部監測，8月7日“農產品批發價格200指數”為113.92，比昨天上升0.26個點，“菜籃子”產品批發價格指數為114.14，比昨天上升0.31個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.80元/公斤，與昨天持平；牛肉67.44元/公斤，比昨天上升0.3%；羊肉64.36元/公斤，比昨天下降0.4%；雞蛋9.89元/公斤，比昨天上升0.5%；白條雞17.30元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.45元/公斤，比昨天上升0.9%；重點監測的6種水果平均價格為6.93元/公斤，比昨天下降2.5%。鯽魚19.98元/公斤，比昨天下降2.8%；鯉魚14.34元/公斤，比昨天上升1.1%；白鰱魚10.50元/公斤，比昨天下降2.0%；大帶魚41.56元/公斤，比昨天下降1.3%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是萵筍、生菜、西葫蘆、菠菜和黃瓜，幅度分別為4.1%、2.6%、2.4%、2.3%和2.0%；價格降幅前五名的是巨峰葡萄、菠蘿、鯽魚、白鰱魚和香蕉，幅度分別為6.1%、2.9%、2.8%、2.0%和1.5%。"
+    },
     {
       "id": "5030194",
       "time": "2026-08-07 14:28:48",
