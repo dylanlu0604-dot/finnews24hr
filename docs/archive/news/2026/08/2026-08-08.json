@@ -1,7 +1,54 @@
 {
   "date": "2026-08-08",
-  "count": 122,
+  "count": 127,
   "items": [
+    {
+      "id": "mkt:019fdd65-a5ce-7aab-8fbf-b0a225c09aac",
+      "time": "2026-08-08 02:04:13",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports Ford Motor Co (F.N) plans to launch an all-new four-door Mustang model."
+    },
+    {
+      "id": "mkt:019fdd65-a522-7aab-8fbf-aeb894f926e8",
+      "time": "2026-08-08 02:04:13",
+      "tags": [
+        "MKT News",
+        "F.O"
+      ],
+      "text": "Wall Street Journal reports Ford Motor (F.N) debuted a four-door Mustang at a dealer event this week; the model is expected to reach the market before the end of the decade."
+    },
+    {
+      "id": "mkt:019fdd65-6c40-7aab-8fbf-a5156b2ae0e8",
+      "time": "2026-08-08 02:03:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pentagon allocates funding and establishes a timetable for the classified \"Golden Dome\" space program."
+    },
+    {
+      "id": "5031478",
+      "time": "2026-08-08 02:02:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓為機密 “金穹” 太空計劃劃撥預算並制定時間安排。"
+    },
+    {
+      "id": "mkt:019fdd62-10d1-7aab-8fbf-9e614cf02f3c",
+      "time": "2026-08-08 02:00:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath, citing the Israel Broadcasting Corporation, reports Israel has not signed an agreement permitting international stabilization forces to enter the Gaza Strip."
+    },
     {
       "id": "5031477",
       "time": "2026-08-08 01:59:42",
