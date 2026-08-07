@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-08 02:32:01",
-  "count": 16038,
+  "updated": "2026-08-08 02:35:50",
+  "count": 16039,
   "items": [
+    {
+      "id": "mkt:019fdd7f-3eb1-7aab-8fc0-3d77e52c2e4d",
+      "time": "2026-08-08 02:32:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 1.53% to 942 yuan/gram; SHFE silver main contract rose 1.66% to 15,451 yuan/kg; SC crude main contract rose 1.44% to 534 yuan/barrel."
+    },
+    {
+      "id": "mkt:019fdd7f-35dd-7aab-8fc0-3433a8046ee6",
+      "time": "2026-08-08 02:32:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 1.33% to 938.8 yuan/gram at the close of the Aug. 7 night session. Shanghai Gold Exchange Silver T+D rose 1.1% to 15,400 yuan/kg at the same close."
+    },
     {
       "id": "5031491",
       "time": "2026-08-08 02:31:15",
@@ -146187,17 +146212,6 @@
         "其他"
       ],
       "text": "西捷航空：談判未能達成協議。隨著勞資糾紛引發的運營中斷臨近，西捷航空必須著手停放 737 型客機。"
-    },
-    {
-      "id": "mkt:019fb974-fafd-7aab-8f3c-a172ceb3cf2f",
-      "time": "2026-08-01 02:34:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Market sources say the New York Fed has asked US banks to review EUR/JPY quotes."
     }
   ]
 }
