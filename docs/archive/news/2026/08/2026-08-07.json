@@ -1,7 +1,66 @@
 {
   "date": "2026-08-07",
-  "count": 2482,
+  "count": 2488,
   "items": [
+    {
+      "id": "5031247",
+      "time": "2026-08-07 21:23:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈塞特談加息：就業資料緩解美聯儲壓力。"
+    },
+    {
+      "id": "mkt:019fdc64-af2a-7aab-8fbb-5a4f7cd16ff0",
+      "time": "2026-08-07 21:23:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "Beijing cuts the required social security and individual income tax payment period for non-Beijing households to one year to qualify for home purchases."
+    },
+    {
+      "id": "5031246",
+      "time": "2026-08-07 21:23:24",
+      "tags": [
+        "宏觀",
+        "其他",
+        "焦點"
+      ],
+      "text": "【北京：非京籍家庭購房社保個稅繳納年限下調為一年】北京市住房和城鄉建設委員會、北京市規劃和自然資源委員會、北京住房公積金管理中心7日晚聯合印發《關於進一步最佳化調整本市房地產政策的通知》，明確非京籍家庭購買五環內商品住房的社保或個稅繳納年限由“2年”，調減為“1年”。調整後，非京籍家庭在全市範圍內購買商品住房的社保或個稅繳納年限統一為“1年”，購買商品住房的套數保持不變。即：社保或個稅繳納滿1年的非京籍家庭，在五環內可購買1套商品住房，多子女家庭可再多購買1套；在五環外，不限購買套數。《通知》自8日起實施。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fdc64-1b60-7aab-8fbb-50c375ee72d6",
+      "time": "2026-08-07 21:22:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council director Hassett said government employment and World Cup-related jobs are partly responsible for weak employment."
+    },
+    {
+      "id": "mkt:019fdc63-7ce5-7aab-8fbb-4b8ba7637f17",
+      "time": "2026-08-07 21:22:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director Hassett said the baby-boom generation is retiring."
+    },
+    {
+      "id": "5031245",
+      "time": "2026-08-07 21:22:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度電力金融公司一季度總成本808.2億盧比，同比下降2.2%。"
+    },
     {
       "id": "te:economy:573822",
       "time": "2026-08-07 21:21:37",
