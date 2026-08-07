@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-08 02:20:26",
-  "count": 16033,
+  "updated": "2026-08-08 02:24:19",
+  "count": 16037,
   "items": [
+    {
+      "id": "mkt:019fdd75-37f4-7aab-8fc0-14cd1c8d6ee1",
+      "time": "2026-08-08 02:21:14",
+      "tags": [
+        "MKT News",
+        "AVAV.O",
+        "Impact bullish"
+      ],
+      "text": "AeroVironment is expected to win a $400m U.S. Army contract to supply a counter-UAS system."
+    },
+    {
+      "id": "mkt:019fdd74-ec88-7aab-8fc0-0d017d96455a",
+      "time": "2026-08-08 02:20:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Senate on Friday confirmed Brett Matsumoto as director of the Bureau of Labor Statistics by a 51-47 vote."
+    },
+    {
+      "id": "5031485",
+      "time": "2026-08-08 02:20:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特： 伊朗政權對數字資產與影子銀行網路的依賴，進一步證明經濟制裁正在奏效。我們將繼續加大經濟施壓力度。無論是美元、里亞爾還是加密貨幣，財政部都將追查並瓦解維繫該政權運轉的非法金融網路。"
+    },
+    {
+      "id": "te:markets:573878",
+      "time": "2026-08-08 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.79% — Top commodity gainers are Silver (2.79%), Gold (2.28%) and Silicon (1.48%). Biggest loser is Copper (-1.64%)."
+    },
+    {
+      "id": "mkt:019fdd74-45d5-7aab-8fc0-02dfbdd97a9d",
+      "time": "2026-08-08 02:20:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent said Iran’s shadow-banking networks are being squeezed by the 'Economic Fury' operation and the regime’s channels for moving funds are running out. The US Treasury will continue to expose these networks and sever their links to the US financial system."
+    },
     {
       "id": "mkt:019fdd73-1867-7aab-8fbf-fbd61c99f53f",
       "time": "2026-08-08 02:18:55",
@@ -146156,14 +146202,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Rallies by 5.58% — Top commodity gainers are Cocoa (5.58%) and Coffee (2.62%). Biggest losers are Wheat (-3.76%), Rapeseed (-2.84%) and Lumber (-1.68%)."
-    },
-    {
-      "id": "5019801",
-      "time": "2026-08-01 02:20:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普尚未批准從規模 4.01 億美元的政治行動委員會資金中拿出中期選舉開支。"
     }
   ]
 }
