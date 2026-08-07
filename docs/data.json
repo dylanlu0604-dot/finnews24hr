@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-07 12:38:22",
-  "count": 16086,
+  "updated": "2026-08-07 12:42:16",
+  "count": 16085,
   "items": [
+    {
+      "id": "mkt:019fda86-82cd-7aab-8faf-915f8305e44d",
+      "time": "2026-08-07 12:41:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian online retailer Wildberries' logistics centre in Sverdlovsk region caught fire after an attack."
+    },
+    {
+      "id": "5030046",
+      "time": "2026-08-07 12:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：位元組跳動瞄準打造接近Anthropic公司Mythos水平的超大規模AI模型。"
+    },
+    {
+      "id": "5030045",
+      "time": "2026-08-07 12:38:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本熊本縣強震後 大量家庭仍處於斷水狀態】日本方面7日援引熊本縣方面的訊息稱，近期發生的強震一度導致當地超10萬戶家庭供水中斷。截至6日，八代市、宇城市等地仍有約36880戶家庭斷水。訊息稱，預計熊本縣全縣的斷水問題要到本月底才能解決。"
+    },
+    {
+      "id": "5030044",
+      "time": "2026-08-07 12:37:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美科研團隊利用AI設計出可複製的新型噬菌體 】美國研究人員6日在美國《科學》雜誌上發表的新研究說，他們利用人工智慧（AI）設計出了全新、具有完整功能並能夠在實驗室中複製的噬菌體。這為利用AI在全基因組尺度設計生物功能奠定了基礎。研究論文摘要說，利用AI設計複雜生物系統有望徹底改變生物技術領域。此前，這一技術的發展主要侷限於單個基因和蛋白質設計，而整個基因組的設計難以實現。"
+    },
     {
       "id": "mkt:019fda80-21b2-7aab-8faf-8c9df6609898",
       "time": "2026-08-07 12:34:18",
@@ -146893,54 +146925,6 @@
         "國際"
       ],
       "text": "【為保障稀土供應多元化 日本將在非洲投資首個稀土專案】日本政府下屬能源機構與豐田通商將聯手開發非洲奈米比亞一處稀土專案，這也將成為日本在非洲的首個稀土專案。 7月30日，日本能源與金屬礦物資源機構（JOGMEC）釋出公告，向豐田通商在非洲奈米比亞稀土專案的開發主體投資最多4770萬加元（約合人民幣2.3億元），首筆投資已經於2026年7月23日實行。 日本能源與金屬礦物資源機構是日本政府下屬的獨立行政機構，主要職責是保障日本穩定的資源供應，2011年以後，該機構透過入股包銷的模式，參與了諸多海外關鍵礦產專案的開發，包括澳大利亞頭部稀土公司萊納斯（Lynas Rare Earths, ASX:LYC）等，從而推動日本稀土來源多元化。（財新網）"
-    },
-    {
-      "id": "5018333",
-      "time": "2026-07-31 12:42:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL華星CEO趙軍：t8印刷OLED產線預計明年Q4正式投產，年內會有相關產品陸續亮相】7月31日中午訊息，近日，2026 ChinaJoy舉辦。期間，TCL華星CEO趙軍與新浪科技等媒體展開對話。當提及印刷OLED的最新進展，趙軍表示，印刷OLED正式進入了規模商業化的全新階段。“目前來看，我們的良率和成本已經達到了成熟的量產標準，符合我們終端品牌客戶的預期。”他表示，後續在消費市場的推進上，一方面會持續深耕產品品類、信賴性與良率提升；另一方面也在加快客戶端的產品落地，“目前正聯合多家頭部終端品牌，推進筆記本、顯示器等多款IT類消費級印刷OLED產品的驗證工作，預計年內就會有相關產品陸續和大家見面。”同時，他也指出：“我們廣州t8印刷OLED產線的建設也在順利推進，預計明年Q4會正式投產，未來會有更大規模的產能釋放，我們的產品種類也會越來越豐富。”（新浪科技）"
-    },
-    {
-      "id": "mkt:019fb67a-6334-7aab-8f27-5e3d544de17e",
-      "time": "2026-07-31 12:41:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran says drones struck US facilities at Kuwait's Ahmad al-Jaber air base】On July 31 local time Iran's military said it launched the 27th phase of its \"Lightning\" operation, a drone strike in retaliation for recent US attacks on Qeshm Island, and successfully struck US facilities at Ahmad al-Jaber air base in Kuwait. Iran said targets included fighter hangars, satellite communications systems and equipment warehouses, and described the base as a hub for US air and reconnaissance operations and regional air logistics."
-    },
-    {
-      "id": "5018332",
-      "time": "2026-07-31 12:41:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗對科威特境內美空軍基地實施無人機打擊】當地時間7月31日，伊朗軍方發表宣告宣佈，作為對近期美軍襲擊伊朗格什姆島等行動的回應，伊朗軍隊發起“閃電”行動第27階段的無人機打擊，成功打擊位於科威特境內的艾哈邁德·賈比爾空軍基地的美軍設施。宣告指出，打擊目標包括美軍戰機機庫、衛星通訊系統及裝備倉庫。伊朗軍方強調，該基地不僅承擔著美軍大量空中與偵察作戰任務，更是美軍在地區內重要的空中後勤保障樞紐之一。"
-    },
-    {
-      "id": "te:markets:571499",
-      "time": "2026-07-31 12:41:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Opens Little Changed — India’s BSE Sensex opened on a flat note at 77,948 on Friday, following gains in the previous two sessions, as strength in financial and auto stocks offset weakness in technology shares, leaving the broader market little changed. Technology stocks came under pressure as investors booked profits following a strong rally in July, mirroring a broader pullback in AI-linked tech shares across Asian markets. Financials outperformed, led by Bajaj Finance, which surged about 6.3% after reporting quarterly earnings that exceeded expectations. Auto stocks also gained, with Mahindra & Mahindra rising about 2.8% on the back of strong quarterly results. Overall sentiment remained supported by continued foreign fund inflows, easing crude oil prices, and a weaker US dollar, while investors also looked ahead to upcoming corporate earnings. Other gainers included Astra Micro (12.8%), Netweb (7.4%), and Hyundai (6.9%). The benchmark remained on track to end July with a gain of about 1.9%."
-    },
-    {
-      "id": "5018331",
-      "time": "2026-07-31 12:40:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克再度否認出售特斯拉中國業務，發文表示：“這件事甚至從未被提起討論過。這完全是荒謬的假新聞。”"
     }
   ]
 }
