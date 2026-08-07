@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-07 12:34:27",
-  "count": 16087,
+  "updated": "2026-08-07 12:38:22",
+  "count": 16086,
   "items": [
+    {
+      "id": "mkt:019fda80-21b2-7aab-8faf-8c9df6609898",
+      "time": "2026-08-07 12:34:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Goldman says yen intervention unlikely to threaten dollar's reserve role】Goldman Sachs said US support for Japan’s yen intervention is unlikely to erode the dollar’s position as the world’s primary reserve currency. Japan is the largest foreign investor in the roughly $31 trillion US Treasury market. After last month’s coordinated US-Japan currency intervention, some market participants warned such measures—aimed at preventing sharp moves in the US bond market—could weaken confidence in dollar reserve assets. Goldman strategists, including Michael Cahill, said that argument rests on the assumption the US would try to block other countries from selling Treasuries in future, which they called \"far‑fetched,\" and they do not expect the action to damage the dollar’s reserve status."
+    },
+    {
+      "id": "5030043",
+      "time": "2026-08-07 12:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京經濟技術開發區：鼓勵具身智慧、自動駕駛、醫療健康等重點領域資料交易流通 每年發放1億後設資料券】近日，北京經濟技術開發區釋出《北京經濟技術開發區關於支援詞元驅動智慧經濟高質量發展的若干措施（試行）》（下稱“詞元十條”）。詞元十條明確，繁榮高質量資料供給生態。持續深化監管沙盒機制創新，鼓勵具身智慧、自動駕駛、醫療健康等重點領域資料交易流通。探索以詞元交易為基礎的資料定價模式，支援企業級與個人級專業領域上下文資料採集處理，鼓勵批次產出專家分身及服務分身等新型資料產品。每年發放1億後設資料券，按照年度資料交易金額的10%，給予採購主體最高100萬元資金支援。"
+    },
+    {
+      "id": "te:markets:573617",
+      "time": "2026-08-07 12:34:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Retreats as Financials Drag — India's BSE Sensex fell about 0.4% to 78,692 at the open on Friday, reversing gains from the previous two sessions as financial stocks weighed and investors turned cautious amid rising crude oil prices and escalating Middle East tensions. Financials led the declines, offsetting support from sustained foreign fund inflows. Brent crude climbed above $83 a barrel on concerns over potential shipping disruptions through the Strait of Hormuz, fueling inflation worries for the oil-importing nation. Financial losses were led by Bajaj Finance (-3.9%), Bajaj Finserv (-3.2%), and Shriram Finance (-1.4%). Even so, the benchmark remained on track for a second straight weekly gain of about 0.8%, supported by continued foreign institutional investor buying. Among earnings, Britannia Industries fell after missing quarterly profit estimates due to higher fuel and shipping costs, while Life Insurance Corporation posted a 23% rise in quarterly profit on improved margins."
+    },
     {
       "id": "mkt:019fda7f-a6d9-7aab-8faf-840b081fb230",
       "time": "2026-08-07 12:33:46",
@@ -146911,44 +146941,6 @@
         "其他"
       ],
       "text": "馬斯克再度否認出售特斯拉中國業務，發文表示：“這件事甚至從未被提起討論過。這完全是荒謬的假新聞。”"
-    },
-    {
-      "id": "mkt:019fb677-254f-7aab-8f27-56ce08d0f98c",
-      "time": "2026-07-31 12:38:09",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O"
-      ],
-      "text": "Tesla CEO Elon Musk again denied on social media that he is selling Tesla's China business, calling the reports \"completely absurd fake news\" and saying the matter was never raised for discussion."
-    },
-    {
-      "id": "5018330",
-      "time": "2026-07-31 12:37:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【廣和通Cat.M模組MQ771-GL透過CE、FCC認證】據廣和通訊息，近日，廣和通全球版低功耗LTE模組MQ771-GL透過CE、FCC認證。CE和FCC分別是無線裝置進入歐洲和美國市場的重要合規要求，覆蓋產品安全、電磁相容、無線頻譜及射頻發射等關鍵指標。"
-    },
-    {
-      "id": "5018329",
-      "time": "2026-07-31 12:35:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【印尼央行重申關注印尼盾和通脹】印尼當地新聞媒體Detik援引央行代理行長Destry Damayanti週五線上上編輯簡報會的講話報道稱，央行繼續透過現匯、NDF和DNDF等方式參與市場。印尼央行將指導相關政策，以吸引資金流入並加強與政府的協調，從而控制通貨膨脹。據報道，她表示，政策立場保持不變，與之前的立場相同，印尼央行將繼續專注於透過最佳化其現有的各種工具和政策來維護穩定。"
-    },
-    {
-      "id": "5018328",
-      "time": "2026-07-31 12:35:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲知聲：中標南寧及廈門兩地公共市級平臺專案】雲知聲在港交所公告，近日，本公司憑藉紮實的 U2 大模型技術積累、成熟的智慧體開發平臺，以及依託可信資料製備與應用大模型技術支撐一人公司（「OPC」）運營的深刻理解，成功中標南寧市級平臺公司出資建設的模數空間專案，精準落實國家 “數字經濟發展” 及 “資料要素市場化配置” 戰略，助力廣西建設 “中國 — 東盟數字經濟合作示範區”，為西部陸海新通道建設注入 AI 動能。南寧專案的落地，標誌著本公司城市級 MaaS 解決方案完成從 “單點突破” 邁向 “區域複製” 的關鍵一躍。緊隨其後，本公司再度斬獲廈門市級 AI 公共平臺專案，兩大市級標杆專案合計簽約金額總計超人民幣 2000 萬元。此類專案的順利落地，標誌著本公司區域 MaaS 商業模式已實現跨區域複製驗證，為後續該業務模式的快速規模化落地奠定堅實基礎。"
     }
   ]
 }

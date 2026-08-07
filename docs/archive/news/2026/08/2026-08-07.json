@@ -1,7 +1,37 @@
 {
   "date": "2026-08-07",
-  "count": 812,
+  "count": 815,
   "items": [
+    {
+      "id": "mkt:019fda80-21b2-7aab-8faf-8c9df6609898",
+      "time": "2026-08-07 12:34:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Goldman says yen intervention unlikely to threaten dollar's reserve role】Goldman Sachs said US support for Japan’s yen intervention is unlikely to erode the dollar’s position as the world’s primary reserve currency. Japan is the largest foreign investor in the roughly $31 trillion US Treasury market. After last month’s coordinated US-Japan currency intervention, some market participants warned such measures—aimed at preventing sharp moves in the US bond market—could weaken confidence in dollar reserve assets. Goldman strategists, including Michael Cahill, said that argument rests on the assumption the US would try to block other countries from selling Treasuries in future, which they called \"far‑fetched,\" and they do not expect the action to damage the dollar’s reserve status."
+    },
+    {
+      "id": "5030043",
+      "time": "2026-08-07 12:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京經濟技術開發區：鼓勵具身智慧、自動駕駛、醫療健康等重點領域資料交易流通 每年發放1億後設資料券】近日，北京經濟技術開發區釋出《北京經濟技術開發區關於支援詞元驅動智慧經濟高質量發展的若干措施（試行）》（下稱“詞元十條”）。詞元十條明確，繁榮高質量資料供給生態。持續深化監管沙盒機制創新，鼓勵具身智慧、自動駕駛、醫療健康等重點領域資料交易流通。探索以詞元交易為基礎的資料定價模式，支援企業級與個人級專業領域上下文資料採集處理，鼓勵批次產出專家分身及服務分身等新型資料產品。每年發放1億後設資料券，按照年度資料交易金額的10%，給予採購主體最高100萬元資金支援。"
+    },
+    {
+      "id": "te:markets:573617",
+      "time": "2026-08-07 12:34:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Retreats as Financials Drag — India's BSE Sensex fell about 0.4% to 78,692 at the open on Friday, reversing gains from the previous two sessions as financial stocks weighed and investors turned cautious amid rising crude oil prices and escalating Middle East tensions. Financials led the declines, offsetting support from sustained foreign fund inflows. Brent crude climbed above $83 a barrel on concerns over potential shipping disruptions through the Strait of Hormuz, fueling inflation worries for the oil-importing nation. Financial losses were led by Bajaj Finance (-3.9%), Bajaj Finserv (-3.2%), and Shriram Finance (-1.4%). Even so, the benchmark remained on track for a second straight weekly gain of about 0.8%, supported by continued foreign institutional investor buying. Among earnings, Britannia Industries fell after missing quarterly profit estimates due to higher fuel and shipping costs, while Life Insurance Corporation posted a 23% rise in quarterly profit on improved margins."
+    },
     {
       "id": "mkt:019fda7f-a6d9-7aab-8faf-840b081fb230",
       "time": "2026-08-07 12:33:46",
