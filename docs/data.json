@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-07 09:27:39",
-  "count": 16197,
+  "updated": "2026-08-07 09:31:33",
+  "count": 16163,
   "items": [
+    {
+      "id": "mkt:019fd9d8-3021-7aab-8fab-e68ee69a3ff1",
+      "time": "2026-08-07 09:30:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share explosives-related stocks rose in early trade after the Ministry of Industry and Information Technology issued the '15th Five-Year Plan' for safe development of the civil explosives industry. Gaozheng Minbao jumped over 8%, Poly United gained more than 4%; Yipuli, Xuefeng Technology and Yahua Group also advanced."
+    },
+    {
+      "id": "5029808",
+      "time": "2026-08-07 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5029807",
+      "time": "2026-08-07 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.11%， 滬深300指數期貨連續漲0.22%， 中證500指數期貨連續漲0.11%， 上證50指數期貨連續漲0.12%。"
+    },
+    {
+      "id": "5029806",
+      "time": "2026-08-07 09:29:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.08%。山石轉債、福新轉債、鼎通轉債、茂萊轉債、永吉轉債漲幅居前，分別漲3.77%、3.38%、3.35%、1.94%、1.70%。普聯轉債、火星轉債、久吾轉02、江農轉債、路維轉債跌幅居前，分別跌1.58%、1.35%、1.02%、0.60%、0.60%。"
+    },
+    {
+      "id": "mkt:019fd9d6-bbf4-7aab-8fab-dbd6a5f469ff",
+      "time": "2026-08-07 09:29:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares CPO sector active in early trade; Tongyu Communication hit the daily limit, Jingwang Electronics up >8%, Woge Optoelectronics up >7%; Yidun Electronics, Tonghui Electronics and Huilv Ecology also rose."
+    },
+    {
+      "id": "5029805",
+      "time": "2026-08-07 09:28:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【合源生物啟動IPO輔導】合源生物科技股份有限公司獲上市輔導備案登記，擬在A股IPO，輔導機構為中信建投。該公司從事CAR-T細胞治療藥物研發。"
+    },
+    {
+      "id": "mkt:019fd9d5-29ed-7aab-8fab-d4a79295c803",
+      "time": "2026-08-07 09:27:33",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the open on Aug 7 (Fri), China's Shanghai Composite Index fell 3.87 pts (-0.10%) to 3,896.49; Shenzhen Composite rose 42.66 pts (+0.30%) to 14,152.78; the CSI 300 Index rose 4.79 pts (+0.10%) to 4,656.10; ChiNext gained 21.88 pts (+0.62%) to 3,537.44; the STAR 50 (Sci‑Tech Innovation 50) fell 3.92 pts (-0.23%) to 1,697.37."
+    },
     {
       "id": "5029804",
       "time": "2026-08-07 09:26:50",
@@ -147719,405 +147785,6 @@
         "資料"
       ],
       "text": "澳大利亞6月私營企業貸款年率 8.5%，前值8.20%。"
-    },
-    {
-      "id": "5018044",
-      "time": "2026-07-31 09:31:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念表現活躍 利通電子一字漲停】算力租賃概念表現活躍，利通電子一字漲停，宏景科技、協創資料漲超14%，銅牛資訊網宿科技、東陽光、優刻得跟漲。"
-    },
-    {
-      "id": "mkt:019fb5cc-3cfc-7aab-8f22-b00654637e35",
-      "time": "2026-07-31 09:31:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Private Sector Credit (YoY) (Jun) | actual 8.5% | previous 8.20%"
-    },
-    {
-      "id": "mkt:019fb5cc-24ff-7aab-8f22-a9014bf974ac",
-      "time": "2026-07-31 09:31:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Equity index futures open higher in morning session】China equity index futures opened higher in the morning session: CSI 300 main contract (IF) +1.73%, SSE 50 main contract (IH) +0.89%, CSI 500 main contract (IC) +3.56%, CSI 1000 main contract (IM) +3.54%."
-    },
-    {
-      "id": "mkt:019fb5cc-1e51-7aab-8f22-a0eb96897dde",
-      "time": "2026-07-31 09:31:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "China composite PMI (July) 49.3; prior 50.6."
-    },
-    {
-      "id": "mkt:019fb5cc-00e0-7aab-8f22-9deb1f992463",
-      "time": "2026-07-31 09:31:13",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Composite PMI (Jul) | actual 49.3 | previous 50.6"
-    },
-    {
-      "id": "mkt:019fb5cb-feeb-7aab-8f22-9684303b6286",
-      "time": "2026-07-31 09:31:12",
-      "tags": [
-        "MKT News",
-        "CNH"
-      ],
-      "text": "【China spare-cash parking: money-market yield snapshot】Tencent's Licaitong (Current+) 7-day annualized yields ranged 0.7040%–1.4270%; WeChat Wallet's Lingqiantong 7-day annualized yields ranged 0.9120%–1.0000%; Alipay's Yu'e Bao 7-day annualized yields ranged 0.9090%–1.0140%."
-    },
-    {
-      "id": "mkt:019fb5cb-f39b-7aab-8f22-8a54c127493a",
-      "time": "2026-07-31 09:31:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures morning open】China government bond futures front contracts at morning open: 2-year (TS) +0.02%, 5-year (TF) +0.04%, 10-year (T) +0.06%, 30-year (TL) +0.17%."
-    },
-    {
-      "id": "5018043",
-      "time": "2026-07-31 09:31:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
-    },
-    {
-      "id": "5018042",
-      "time": "2026-07-31 09:31:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達7.84%，成分股中，源傑科技漲15.07%，中科飛測漲14.04%，華虹宏力漲13.40%，佰維儲存漲13.26%。"
-    },
-    {
-      "id": "mkt:019fb5cb-7ecc-7aab-8f22-80b3219ada93",
-      "time": "2026-07-31 09:30:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "China's official manufacturing PMI fell to 49.2 in July, below consensus 50.1 and June's 50.3, returning to contraction territory below the 50 threshold."
-    },
-    {
-      "id": "5018041",
-      "time": "2026-07-31 09:30:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達3.04%，成分股中，華嶺股份漲16.49%，戈碧迦漲14.56%，錦華新材漲9.95%，並行科技漲7.70%。"
-    },
-    {
-      "id": "mkt:019fb5cb-626a-7aab-8f22-7e428e0fbead",
-      "time": "2026-07-31 09:30:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Official Manufacturing PMI (Jul) | actual 49.2 | consensus 50.1 | previous 50.3"
-    },
-    {
-      "id": "mkt:019fb5cb-60ce-7aab-8f22-768b296bbb16",
-      "time": "2026-07-31 09:30:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China July non-manufacturing PMI 49.0, vs 50.0 expected and 50.2 prior."
-    },
-    {
-      "id": "5018040",
-      "time": "2026-07-31 09:30:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【7月份中國製造業採購經理指數為49.2% 製造業生產端韌性較好】國家統計局服務業調查中心、中國物流與採購聯合會今天（31日）公佈7月份中國採購經理指數。受季節性因素影響，製造業執行放緩。裝備製造業和高技術製造業持續擴張。製造業執行放緩 新動能保持擴張7月份中國製造業採購經理指數為49.2%，較上月下降1.1個百分點。從歷史資料來看，受高溫多雨以及颱風等季節性因素影響，多數年份的7月份，製造業採購經理指數環比均有下行。從分項指數看，7月份製造業國內外市場需求均有所放緩。生產指數為49.9%，接近50%的臨界點，說明我國製造業生產端韌性較好，在極端天氣影響下仍具備穩定執行基礎。國家統計局服務業調查中心首席統計師霍麗慧分析，從行業來看，通用裝置、計算機通訊電子裝置等行業的生產指數和新訂單指數都高於53%，相關行業市場活躍度較高，產需較快增長。7月份，裝備製造業、高技術製造業採購經理指數分別為51.4%和53.3%，明顯高於製造業總體，保持較快擴張，帶動製造業發展向新向優。專家表示，儘管極端天氣對企業執行、物流運輸等有所影響，但是我國製造業新動能仍保持較好擴張態勢。中國物流與採購聯合會副會長兼秘書長馬增榮介紹，新動能不僅持續保持向好發展態勢，抗風險能力也不斷加強，有效對沖傳統產業波動，經濟高質量發展向深向實。從價格相關指數來看，受近期部分大宗商品價格波動等因素影響，原材料購進價格指數連續四個月環比下降，製造業整體原材料價格上漲勢頭持續放緩。從市場預期來看，7月生產經營活動預期指數為54.1%，連續2個月執行在54%以上，顯示製造業企業對後市保持穩定樂觀預期。專家表示，隨著極端天氣影響消退，前期受影響地區的企業產能和供應鏈執行恢復正常，市場需求穩定釋放，預計8月份製造業有較好的趨穩回升基礎。"
-    },
-    {
-      "id": "mkt:019fb5cb-517d-7aab-8f22-6be658500bf2",
-      "time": "2026-07-31 09:30:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China manufacturing PMI for July stood at 49.2%, with the production side showing relative resilience."
-    },
-    {
-      "id": "mkt:019fb5cb-45c7-7aab-8f22-61c2d6dec63b",
-      "time": "2026-07-31 09:30:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | Non-Manufacturing PMI (Jul) | actual 49 | consensus 50 | previous 50.2"
-    },
-    {
-      "id": "mkt:019fb5cb-24f4-7aab-8f22-5f5c9ab552f9",
-      "time": "2026-07-31 09:30:17",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia private-sector loans MoM +0.8% vs +0.6% est; prior +0.7%."
-    },
-    {
-      "id": "5018039",
-      "time": "2026-07-31 09:30:11",
-      "tags": [
-        "資料"
-      ],
-      "text": "澳大利亞第二季度PPI季率 1.3%，前值0.40%。澳大利亞第二季度PPI年率 3.6%，前值3.00%。"
-    },
-    {
-      "id": "mkt:019fb5cb-0e4e-7aab-8f22-51afcace8d50",
-      "time": "2026-07-31 09:30:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia Q2 producer-price inflation YoY 3.6%; prior 3.0%."
-    },
-    {
-      "id": "mkt:019fb5cb-0a60-7aab-8f22-48f24fa6e901",
-      "time": "2026-07-31 09:30:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia Q2 PPI (QoQ) +1.3%; prior +0.4%."
-    },
-    {
-      "id": "mkt:019fb5cb-08e1-7aab-8f22-410eaa719c8d",
-      "time": "2026-07-31 09:30:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Private Sector Credit (MoM) (Jun) | actual 0.8% | consensus 0.60% | previous 0.70%"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607313827663157",
-      "time": "2026-07-31 09:30:06",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：7月官方製造業PMI為49.2%】7月份，製造業採購經理指數（PMI）為49.2%，比上月下降1.1個百分點，景氣水平有所回落。從企業規模看，大、中、小型企業PMI分別為49.5%、49.7%和47.4%，比上月下降1.2個、0.8個和0.8個百分點，均低於臨界點。從分類指數看，構成製造業PMI的5個分類指數中，生產指數、新訂單指數、原材料庫存指數、從業人員指數和供應商配送時間指數均低於臨界點。"
-    },
-    {
-      "id": "te:economy:571410",
-      "time": "2026-07-31 09:30:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Bond Yield Hits 8-week Low — China 10 Year Government Bond Yield decreased to 1.71%, the lowest since June 2026. Over the past 4 weeks, China 10Y Bond Yield lost 2.50 basis points, and in the last 12 months, it decreased 1.00 basis points."
-    },
-    {
-      "id": "5018038",
-      "time": "2026-07-31 09:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4599.80點。"
-    },
-    {
-      "id": "5018037",
-      "time": "2026-07-31 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲4%，現報7536.60點。"
-    },
-    {
-      "id": "5018036",
-      "time": "2026-07-31 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達8.37%，成分股中，源傑科技漲16.92%，中科飛測漲14.04%，佰維儲存漲13.26%，瀾起科技漲12.98%。"
-    },
-    {
-      "id": "5018035",
-      "time": "2026-07-31 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲4%，現報7123.40點。"
-    },
-    {
-      "id": "5018034",
-      "time": "2026-07-31 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.81%，成分股中，華嶺股份漲18.61%，戈碧迦漲14.34%，吉岡精密漲9.20%，錦華新材漲8.70%。"
-    },
-    {
-      "id": "5018033",
-      "time": "2026-07-31 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲3.43%， 滬深300指數期貨連續漲1.81%， 中證500指數期貨連續漲3.33%， 上證50指數期貨連續漲0.91%。"
-    },
-    {
-      "id": "5018032",
-      "time": "2026-07-31 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.17%， 10年期主力合約漲0.06%， 5年期主力合約漲0.03%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "mkt:019fb5ca-e540-7aab-8f22-378360ddbeba",
-      "time": "2026-07-31 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | PPI (YoY) (Q2) | actual 3.6% | previous 3.00%"
-    },
-    {
-      "id": "mkt:019fb5ca-e54e-7aab-8f22-3a7efef190b9",
-      "time": "2026-07-31 09:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | PPI (QoQ) (Q2) | actual 1.3% | previous 0.40%"
-    },
-    {
-      "id": "mkt:019fb5ca-69ae-7aab-8f22-296d0af722b3",
-      "time": "2026-07-31 09:29:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share storage-chip names surged in the opening auction; GigaDevice, Demingli and Taiji Industrial opened locked at the daily limit, while Puran, Beijing Junzheng, Baiwei Storage, Jiangbolong and Dapuwei rose more than 10%."
-    },
-    {
-      "id": "5018031",
-      "time": "2026-07-31 09:29:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【元件板塊大幅高開】元件板塊大幅高開，風華高科、寶鼎科技、金安國紀、生益科技、華正新材漲停，三環集團、勝宏科技、南亞新材、科翔股份、生益電子、迅捷興、中富電路、威爾高漲超10%，景旺電子、泰晶科技、深南電路、東山精密、達利凱普跟漲。"
-    },
-    {
-      "id": "5018030",
-      "time": "2026-07-31 09:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲3%，現報7514.80點。"
-    },
-    {
-      "id": "5018029",
-      "time": "2026-07-31 09:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4589.40點。"
-    },
-    {
-      "id": "5018028",
-      "time": "2026-07-31 09:29:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲3%，現報7110.00點。"
-    },
-    {
-      "id": "5018027",
-      "time": "2026-07-31 09:28:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念開盤活躍 金安國紀、華正新材雙雙漲停】PCB概念開盤活躍，金安國紀、華正新材雙雙漲停，南亞新材、勝宏科技、迅捷興漲超12%，生益科技漲停價開盤，滬電股份、鵬鼎控股、廣合科技高開。"
-    },
-    {
-      "id": "5018026",
-      "time": "2026-07-31 09:28:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克期貨上漲超過1%；標普500期貨上漲0.4%。"
-    },
-    {
-      "id": "mkt:019fb5c9-0caf-7aab-8f22-26785a372f22",
-      "time": "2026-07-31 09:27:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "At the open on July 31 (Fri), China's Shanghai Composite Index rose 0.76% to 3,833.54 (up 28.84 pts); Shenzhen Composite Index rose 3.04% to 13,690 (up 404.19 pts); CSI 300 Index rose 1.63% to 4,623.85 (up 74.13 pts); ChiNext Index rose 5.15% to 3,411.61 (up 166.99 pts); STAR 50 Index rose 8.37% to 1,721.36 (up 132.95 pts)."
-    },
-    {
-      "id": "5018025",
-      "time": "2026-07-31 09:27:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲2%，現報890.00元。"
     }
   ]
 }

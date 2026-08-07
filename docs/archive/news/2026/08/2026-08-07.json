@@ -1,7 +1,73 @@
 {
   "date": "2026-08-07",
-  "count": 453,
+  "count": 460,
   "items": [
+    {
+      "id": "mkt:019fd9d8-3021-7aab-8fab-e68ee69a3ff1",
+      "time": "2026-08-07 09:30:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share explosives-related stocks rose in early trade after the Ministry of Industry and Information Technology issued the '15th Five-Year Plan' for safe development of the civil explosives industry. Gaozheng Minbao jumped over 8%, Poly United gained more than 4%; Yipuli, Xuefeng Technology and Yahua Group also advanced."
+    },
+    {
+      "id": "5029808",
+      "time": "2026-08-07 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5029807",
+      "time": "2026-08-07 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.11%， 滬深300指數期貨連續漲0.22%， 中證500指數期貨連續漲0.11%， 上證50指數期貨連續漲0.12%。"
+    },
+    {
+      "id": "5029806",
+      "time": "2026-08-07 09:29:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.08%。山石轉債、福新轉債、鼎通轉債、茂萊轉債、永吉轉債漲幅居前，分別漲3.77%、3.38%、3.35%、1.94%、1.70%。普聯轉債、火星轉債、久吾轉02、江農轉債、路維轉債跌幅居前，分別跌1.58%、1.35%、1.02%、0.60%、0.60%。"
+    },
+    {
+      "id": "mkt:019fd9d6-bbf4-7aab-8fab-dbd6a5f469ff",
+      "time": "2026-08-07 09:29:16",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares CPO sector active in early trade; Tongyu Communication hit the daily limit, Jingwang Electronics up >8%, Woge Optoelectronics up >7%; Yidun Electronics, Tonghui Electronics and Huilv Ecology also rose."
+    },
+    {
+      "id": "5029805",
+      "time": "2026-08-07 09:28:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【合源生物啟動IPO輔導】合源生物科技股份有限公司獲上市輔導備案登記，擬在A股IPO，輔導機構為中信建投。該公司從事CAR-T細胞治療藥物研發。"
+    },
+    {
+      "id": "mkt:019fd9d5-29ed-7aab-8fab-d4a79295c803",
+      "time": "2026-08-07 09:27:33",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the open on Aug 7 (Fri), China's Shanghai Composite Index fell 3.87 pts (-0.10%) to 3,896.49; Shenzhen Composite rose 42.66 pts (+0.30%) to 14,152.78; the CSI 300 Index rose 4.79 pts (+0.10%) to 4,656.10; ChiNext gained 21.88 pts (+0.62%) to 3,537.44; the STAR 50 (Sci‑Tech Innovation 50) fell 3.92 pts (-0.23%) to 1,697.37."
+    },
     {
       "id": "5029804",
       "time": "2026-08-07 09:26:50",
