@@ -1,7 +1,82 @@
 {
   "date": "2026-08-07",
-  "count": 919,
+  "count": 927,
   "items": [
+    {
+      "id": "mkt:019fdac5-8970-7aab-8fb0-878159715ddd",
+      "time": "2026-08-07 13:50:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK July Halifax seasonally adjusted house price index m/m, Germany June seasonally adjusted industrial production m/m and trade balance due in 10 minutes."
+    },
+    {
+      "id": "5030117",
+      "time": "2026-08-07 13:49:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率上升5個基點至2.075%。"
+    },
+    {
+      "id": "5030116",
+      "time": "2026-08-07 13:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本公共部門員工今年有望獲得超過3.5%的加薪】日本公務員的月基本工資今年有望平均增長3.51%，這與去年的3.62%漲幅相差不大，後者是自1991年以來的最大增幅。日本人事院週五向國會和內閣提交了一份建議。該提案建議將公務員的起薪提高9500日元（60.17美元），因為需要吸引並留住人才。日本財務省估計，這將影響超過56萬名員工，可能導致國家預算增加約3,360億日元。"
+    },
+    {
+      "id": "te:markets:573633",
+      "time": "2026-08-07 13:47:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 1% Lower but Posts Weekly Gain — New Zealand's stocks fell 134 points, or 1.0%, to close at 13,824 on Friday, retreating for the second consecutive session, tracking a decline on Wall Street overnight amid rising oil prices, which reinforced expectations that the Fed could raise interest rates at its upcoming meeting. Rising oil prices also pressured sentiment as concerns over inflation raised expectations that the RBNZ will hike interest rates. Caution also prevailed ahead of the US jobs data due later today and China's inflation data due on Sunday. However, positive trade data from China, with export growth remaining robust, helped cap the losses. Almost all sectors traded in the red, including industrials, energy, healthcare, and consumer staples. Among the bottom performers were Auckland International Airport (-2.5%), A2 Milk (-1.6%), Fisher & Paykel (-1.4%), Westpac Bank Corp. (-1.1%), Mainfreight (-1.0%), and ANZ Group (-0.7%). However, the index rose 0.9% for the week after falling in the previous week."
+    },
+    {
+      "id": "5030115",
+      "time": "2026-08-07 13:47:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲3%，現報8277.00元。"
+    },
+    {
+      "id": "mkt:019fdac3-6eb1-7aab-8fb0-788f0cb33ece",
+      "time": "2026-08-07 13:47:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Korea Exchange to launch after-hours ETF trading on Sept. 14】Korea Exchange (KRX) will open after-hours trading for exchange-traded funds on Sept. 14, despite industry concerns about recent volatility in leveraged products. KRX said the move aims to compete with alternative trading system Nextrade and round-the-clock crypto venues. Asset managers warned the lack of real-time NAV estimates could widen ETF price deviations; the industry had urged KRX to postpone the rollout. Single-stock leveraged ETFs will be excluded from after-hours eligibility."
+    },
+    {
+      "id": "5030114",
+      "time": "2026-08-07 13:47:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：豐田臨時工將獲得40萬日元額外津貼。"
+    },
+    {
+      "id": "te:markets:573631",
+      "time": "2026-08-07 13:46:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Firms on Foreign Inflows, Steady Reserves — The Indonesian rupiah firmed to below IDR 17,900 per U.S. dollar on Friday, recovering from the prior session's losses as renewed foreign inflows into government bonds and domestic equities in July ended several months of sustained selling. Sentiment was further lifted by subdued domestic inflation, with July's headline rate easing to a three-month low amid government food stabilisation efforts alongside the harvest season in parts of Java. Fresh data also showed Indonesia's forex reserves remained broadly stable in July, underscoring resilient external buffers. Meanwhile, the dollar index was little changed as investors awaited the closely watched U.S. July jobs report for fresh clues on labor market strength and the Fed's policy outlook. For the week, the rupiah was on track for its first weekly gain in three, rising about 0.5% so far, supported by improving fiscal sentiment after President Prabowo's administration recently announced notable cuts to its flagship spending program."
+    },
     {
       "id": "te:economy:573628",
       "time": "2026-08-07 13:45:38",
