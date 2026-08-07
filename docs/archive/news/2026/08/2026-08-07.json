@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "count": 2761,
+  "count": 2763,
   "items": [
     {
       "id": "5031423",
@@ -23,6 +23,15 @@
         "Brent"
       ],
       "text": "CEO of a Brazilian oil company said oil production is likely to exceed current expectations."
+    },
+    {
+      "id": "5031422",
+      "time": "2026-08-07 23:52:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國10年期國債收益率本週跌超13個基點】週五（8月7日）歐市尾盤，英國10年期國債收益率跌2.3個基點，報4.915%，北京時間20:30釋出美國非農就業報告時從4.94%附近跳水至接近4.9%的水平，本週累計下跌13.3個基點。兩年期英債收益率跌2.2個基點，報4.276%，非農就業報告出爐時從4.3%附近跳水至4.25%附近，本週累跌12.5個基點。本週，30年期英債收益率累跌11.6個基點，50年期英債收益率累跌9.4個基點。2/10年期英債收益率利差累跌0.922個基點，報+63.880個基點。"
     },
     {
       "id": "5031421",
@@ -140,6 +149,14 @@
         "MKT News"
       ],
       "text": "Argentina presidency: President MILEI met Israel's foreign minister and reaffirmed Argentina's firm support for Israel's right to lawful self‑defense under international law. He condemned Iran and its affiliated groups' attacks on Israeli territory, saying they pose a serious threat to regional security and stability."
+    },
+    {
+      "id": "5031416",
+      "time": "2026-08-07 23:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國上訴法院維持對白宮宴會廳改造專案的暫停令】美國哥倫比亞特區聯邦巡迴上訴法院7日裁定，維持對白宮宴會廳改造專案的暫停令。上訴法院以2比1的投票結果，維持下級法院應美國文物保護組織國家歷史保護信託基金會要求頒佈的初步禁令。但上訴法院的裁決將暫緩14天執行，以便特朗普政府有時間向最高法院提出上訴。（新華社）"
     },
     {
       "id": "mkt:019fdcdf-c79a-7aab-8fbd-9712d103db40",
