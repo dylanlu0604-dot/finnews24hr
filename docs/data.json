@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-08 03:38:39",
-  "count": 16067,
+  "updated": "2026-08-08 03:42:35",
+  "count": 16073,
   "items": [
+    {
+      "id": "5031567",
+      "time": "2026-08-08 03:42:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署：第三季度可控虧損減少5.84億美元，淨虧損減少5.62億美元。"
+    },
+    {
+      "id": "mkt:019fddbe-dcf4-7aab-8fc1-7ce90fca1c52",
+      "time": "2026-08-08 03:41:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's President Zelenskiy thanked the U.S. Senate for passing a bill imposing sanctions on Russia."
+    },
+    {
+      "id": "5031566",
+      "time": "2026-08-08 03:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基感謝美國參議院透過對俄製裁法案。"
+    },
+    {
+      "id": "5031565",
+      "time": "2026-08-08 03:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署（USPS）表示：第三季度營收為199億美元，較去年同季度增長6.1%。"
+    },
+    {
+      "id": "5031564",
+      "time": "2026-08-08 03:41:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "槓桿基金將墨西哥比索淨多頭頭寸推升至去年 12 月以來最高水平。"
+    },
+    {
+      "id": "5031563",
+      "time": "2026-08-08 03:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署長警告稱，國會新增郵政編碼的立法可能會使郵政署耗資8億美元。"
+    },
+    {
+      "id": "5031562",
+      "time": "2026-08-08 03:40:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國進出口銀行正為IVANHOE ELECTRIC電氣專案籌備超 10 億美元融資。"
+    },
+    {
+      "id": "mkt:019fddbc-8ac2-7aab-8fc1-73954e7c974b",
+      "time": "2026-08-08 03:39:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran says framework agreed with Oman on Strait of Hormuz navigation MoU】Hassan Kashkavi, spokesman for Iran’s parliament National Security and Foreign Policy Committee, said Iran and Oman have agreed the overall framework of a memorandum of understanding on navigation through the Strait of Hormuz; the final text and specifics will be published shortly. A preliminary Iranian draft published Aug. 6 outlines a strategic management plan that would bar hostile parties from transiting the strait and impose fines of up to 20% of cargo value for violations. Iran says arrangements should be negotiated only with Oman and rejects external involvement; U.S. President Trump said on Aug. 6 the U.S. is participating in talks."
+    },
     {
       "id": "5031561",
       "time": "2026-08-08 03:37:02",
@@ -146454,22 +146526,6 @@
         "Impact bullish"
       ],
       "text": "CFTC: For the week ended July 28, equity fund managers raised S&P 500 futures (CME) net long positions by 12,702 contracts to 939,115. Equity fund speculators cut S&P 500 futures (CME) net short positions by 28,795 contracts to 287,277."
-    },
-    {
-      "id": "5019865",
-      "time": "2026-08-01 03:42:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "Vortexa 船舶追蹤資料顯示：受運往歐洲的貨運量降至一年半低點影響，加拿大東部油輪原油出口量由 6 月日均 41.3 萬桶回落至 7 月日均 35.6 萬桶。"
-    },
-    {
-      "id": "5019864",
-      "time": "2026-08-01 03:40:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美否認介入航線調整，卡達 LNG 貨輪駛離波斯灣前往巴基斯坦】美國方面表示，並未參與安排首艘卡達液化天然氣運輸船改變航線，該船是三週多以來首艘穿越霍爾木茲海峽的卡達液化天然氣船。“阿爾・阿里什” 號 7 月初在卡達拉斯拉凡液化天然氣出口碼頭裝貨後，便一直在波斯灣滯留。週四凌晨，該船開啟應答器駛過霍爾木茲海峽，航行資訊顯示目的地為巴基斯坦。資料顯示，目前這艘船位於阿曼馬斯喀特港附近，原定 7 月 31 日抵達巴基斯坦，預計到港時間調整至 8 月 6 日。一名知情人士透露，伊朗方面下令這艘船隻暫停前往巴基斯坦的航程。 這批液化天然氣交付延期，或將加劇巴基斯坦能源供應緊張局面。巴基斯坦幾乎全部發電廠所需液化天然氣都依賴卡達進口。"
     }
   ]
 }

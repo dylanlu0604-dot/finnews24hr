@@ -1,7 +1,79 @@
 {
   "date": "2026-08-08",
-  "count": 266,
+  "count": 274,
   "items": [
+    {
+      "id": "5031567",
+      "time": "2026-08-08 03:42:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署：第三季度可控虧損減少5.84億美元，淨虧損減少5.62億美元。"
+    },
+    {
+      "id": "mkt:019fddbe-dcf4-7aab-8fc1-7ce90fca1c52",
+      "time": "2026-08-08 03:41:40",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Ukraine's President Zelenskiy thanked the U.S. Senate for passing a bill imposing sanctions on Russia."
+    },
+    {
+      "id": "5031566",
+      "time": "2026-08-08 03:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基感謝美國參議院透過對俄製裁法案。"
+    },
+    {
+      "id": "5031565",
+      "time": "2026-08-08 03:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署（USPS）表示：第三季度營收為199億美元，較去年同季度增長6.1%。"
+    },
+    {
+      "id": "5031564",
+      "time": "2026-08-08 03:41:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "槓桿基金將墨西哥比索淨多頭頭寸推升至去年 12 月以來最高水平。"
+    },
+    {
+      "id": "5031563",
+      "time": "2026-08-08 03:40:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國郵政署長警告稱，國會新增郵政編碼的立法可能會使郵政署耗資8億美元。"
+    },
+    {
+      "id": "5031562",
+      "time": "2026-08-08 03:40:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國進出口銀行正為IVANHOE ELECTRIC電氣專案籌備超 10 億美元融資。"
+    },
+    {
+      "id": "mkt:019fddbc-8ac2-7aab-8fc1-73954e7c974b",
+      "time": "2026-08-08 03:39:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran says framework agreed with Oman on Strait of Hormuz navigation MoU】Hassan Kashkavi, spokesman for Iran’s parliament National Security and Foreign Policy Committee, said Iran and Oman have agreed the overall framework of a memorandum of understanding on navigation through the Strait of Hormuz; the final text and specifics will be published shortly. A preliminary Iranian draft published Aug. 6 outlines a strategic management plan that would bar hostile parties from transiting the strait and impose fines of up to 20% of cargo value for violations. Iran says arrangements should be negotiated only with Oman and rejects external involvement; U.S. President Trump said on Aug. 6 the U.S. is participating in talks."
+    },
     {
       "id": "5031561",
       "time": "2026-08-08 03:37:02",
