@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-07 20:22:03",
-  "count": 16052,
+  "updated": "2026-08-07 20:26:06",
+  "count": 16050,
   "items": [
+    {
+      "id": "mkt:019fdc2f-35c5-7aab-8fb8-c40bd15bc2e3",
+      "time": "2026-08-07 20:25:09",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY"
+      ],
+      "text": "【Trump: Iran talks progressing; US equity and dollar futures up ahead of jobs】US equity index futures rose in premarket trade after President Trump said talks between Iran and Oman over the Strait of Hormuz are \"progressing.\" USD index futures also climbed as markets awaited US nonfarm payrolls and the unemployment rate later Friday. Siebert Financial CIO Mark Malek said recent moves have been driven by Iran-related headlines and government commentary, and that Trump’s remark likely supported the early rally. Malek added that, regardless of inflation, the unemployed lack spending power and he questions whether the labor market is as healthy as headline data suggest — a dynamic that could weigh on growth."
+    },
+    {
+      "id": "mkt:019fdc2e-6fd4-7aab-8fb8-bf1e7c73dc60",
+      "time": "2026-08-07 20:24:18",
+      "tags": [
+        "MKT News",
+        "VOW3.DE"
+      ],
+      "text": "Volkswagen plans to introduce a pickup truck as part of its U.S. strategic restructuring."
+    },
+    {
+      "id": "5031117",
+      "time": "2026-08-07 20:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 大眾汽車在美國戰略調整中計劃推出皮卡車型。"
+    },
+    {
+      "id": "mkt:019fdc2c-7d1b-7aab-8fb8-b58fbe8660b0",
+      "time": "2026-08-07 20:22:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Saudi foreign ministry official said the Mecca defense pact will not affect Riyadh’s relations with Gulf states, other Arab countries or the international community and does not threaten any country in the region."
+    },
+    {
+      "id": "5031116",
+      "time": "2026-08-07 20:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "TAKE-TWO高管表示：\"目前使用者獲取方面無疑面臨一定壓力，我認為這種情況在市場上時有起伏，但我們完全不覺得消費者需求在減弱。\""
+    },
+    {
+      "id": "5031115",
+      "time": "2026-08-07 20:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "TAKE-TWO高管表示，業績受到了《Color Block Jam》與去年同期表現對比的影響。"
+    },
     {
       "id": "5031114",
       "time": "2026-08-07 20:21:19",
@@ -146148,87 +146201,6 @@
         "國際"
       ],
       "text": "7月31日，印度國內基金淨買入226億印度盧比印度股票。"
-    },
-    {
-      "id": "mkt:019fb822-65e3-7aab-8f35-74234a6ee152",
-      "time": "2026-07-31 20:24:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100"
-      ],
-      "text": "According to the Financial Times, hedge fund manager Leopold Aschenbrunner vowed to take another shot after a recent sell-off in AI stocks."
-    },
-    {
-      "id": "5019397",
-      "time": "2026-07-31 20:24:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝肯能源：控制權變更籤署股份轉讓協議，股票8月3日復牌】貝肯能源公告，控股股東陳平貴及其配偶Anhua Sun與極寧科技簽署股份轉讓協議，陳平貴擬以4.08億元轉讓11.65%股份，Anhua Sun擬以大宗交易轉讓1.51%股份。完成後極寧科技持股13.16%，公司控股股東變更為極寧科技，實際控制人變更為潘濤。公司股票自2026年8月3日開市起復牌。本次轉讓尚需取得深交所合規性確認意見並辦理過戶登記手續。"
-    },
-    {
-      "id": "5019396",
-      "time": "2026-07-31 20:24:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "7月31日，全球基金淨買入印度股票27.7億印度盧比。"
-    },
-    {
-      "id": "5019395",
-      "time": "2026-07-31 20:24:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚執行長認為美國汽油價格將維持在高位。"
-    },
-    {
-      "id": "mkt:019fb820-bbdf-7aab-8f35-6abda8aff8bf",
-      "time": "2026-07-31 20:23:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Fed dissenters say rate hikes may be needed to curb sticky inf】Two Fed officials voted against holding rates unchanged this week, warning delayed action on inf could require more aggressive tightening later. The Cleveland Fed president said the longer high inf persists, the harder and costlier it will be to bring down. Minneapolis Fed president Neel Kashkari said he leans toward gradual tightening while awaiting further inf and jobs data, and argued Fed tools can address supply-driven inf as in the late 1970s–early 1980s. Both said multiple supply shocks are lifting inf; the Cleveland president also flagged demand-side pressure. Both noted the economy remains strong and unemployment is low."
-    },
-    {
-      "id": "5019394",
-      "time": "2026-07-31 20:22:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銳奇股份、力芯微等在上海成立創業投資合夥企業，出資額10.3億】天眼查App顯示，近日，悅來港君信戰新（上海）創業投資合夥企業（有限合夥）成立，執行事務合夥人為君信（上海）股權投資基金管理有限公司，出資額10.3億人民幣，經營範圍為創業投資。合夥人資訊顯示，該合夥企業由銳奇控股股份有限公司、無錫力芯微電子股份有限公司等共同出資。"
-    },
-    {
-      "id": "5019393",
-      "time": "2026-07-31 20:22:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬華化學、興發集團合資公司增資至7.5億】天眼查App顯示，近日，遠安興華磷化工有限公司發生工商變更，註冊資本由2.5億人民幣增至7.5億人民幣，增幅200%。該公司成立於2024年7月，法定代表人為張昌，經營範圍包括化工產品生產、化工產品銷售等。股東資訊顯示，該公司由湖北興發化工集團股份有限公司、萬華化學集團股份有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019fb820-3d6d-7aab-8f35-631c00baa713",
-      "time": "2026-07-31 20:22:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【TD Securities: Eurozone inflation mildly rebounds; September 25bp ECB hike still rock-solid】TD Securities strategists say Eurozone HICP rose to 2.9% YoY in July; core inflation was 2.5% and services inflation 3.3%, leaving limited evidence of meaningful second‑round effects. Markets continue to price a 25bp ECB hike in September, which TD retains as its base case. The firm says only a clear, durable resolution of the Middle East conflict would materially alter that outlook."
     }
   ]
 }

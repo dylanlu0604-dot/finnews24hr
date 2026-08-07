@@ -1,7 +1,60 @@
 {
   "date": "2026-08-07",
-  "count": 2250,
+  "count": 2256,
   "items": [
+    {
+      "id": "mkt:019fdc2f-35c5-7aab-8fb8-c40bd15bc2e3",
+      "time": "2026-08-07 20:25:09",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY"
+      ],
+      "text": "【Trump: Iran talks progressing; US equity and dollar futures up ahead of jobs】US equity index futures rose in premarket trade after President Trump said talks between Iran and Oman over the Strait of Hormuz are \"progressing.\" USD index futures also climbed as markets awaited US nonfarm payrolls and the unemployment rate later Friday. Siebert Financial CIO Mark Malek said recent moves have been driven by Iran-related headlines and government commentary, and that Trump’s remark likely supported the early rally. Malek added that, regardless of inflation, the unemployed lack spending power and he questions whether the labor market is as healthy as headline data suggest — a dynamic that could weigh on growth."
+    },
+    {
+      "id": "mkt:019fdc2e-6fd4-7aab-8fb8-bf1e7c73dc60",
+      "time": "2026-08-07 20:24:18",
+      "tags": [
+        "MKT News",
+        "VOW3.DE"
+      ],
+      "text": "Volkswagen plans to introduce a pickup truck as part of its U.S. strategic restructuring."
+    },
+    {
+      "id": "5031117",
+      "time": "2026-08-07 20:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 大眾汽車在美國戰略調整中計劃推出皮卡車型。"
+    },
+    {
+      "id": "mkt:019fdc2c-7d1b-7aab-8fb8-b58fbe8660b0",
+      "time": "2026-08-07 20:22:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Saudi foreign ministry official said the Mecca defense pact will not affect Riyadh’s relations with Gulf states, other Arab countries or the international community and does not threaten any country in the region."
+    },
+    {
+      "id": "5031116",
+      "time": "2026-08-07 20:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "TAKE-TWO高管表示：\"目前使用者獲取方面無疑面臨一定壓力，我認為這種情況在市場上時有起伏，但我們完全不覺得消費者需求在減弱。\""
+    },
+    {
+      "id": "5031115",
+      "time": "2026-08-07 20:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "TAKE-TWO高管表示，業績受到了《Color Block Jam》與去年同期表現對比的影響。"
+    },
     {
       "id": "5031114",
       "time": "2026-08-07 20:21:19",
