@@ -1,7 +1,59 @@
 {
   "date": "2026-08-08",
-  "count": 60,
+  "count": 66,
   "items": [
+    {
+      "id": "5031452",
+      "time": "2026-08-08 00:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院絕大多數議員支援由已故參議員格雷厄姆牽頭的對俄全面能源制裁法案，投票仍在進行。"
+    },
+    {
+      "id": "te:economy:573869",
+      "time": "2026-08-08 00:57:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Seychelles",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Seychelles Annual Inflation Accelerates in July — The annual inflation rate in Seychelles rose to 0.78% in July 2026, accelerating from 0.43% in the prior month and reaching its highest level since January 2025. Fish prices rose 4.87%, easing from 5.62% in the prior month, while other food products' inflation rose to 0.14% from 0.09%, driven by higher prices in oil and fats (5.47%), vegetabels (2.84%) and non-alcoholic beverages (2.7%). Meanwhile, non-food inflation accelerated to 0.81% from 0.4%, driven by higher prices in alcoholic beverages (4.17%), restaurants and hotels (3.43%), education (2.49%) and transport (2.48%), while prices declined for health (-3.18%), recreation and culture (-2.92%), clothing and footwear (-2.61%) and tobacco (-0.57%). On a monthly basis, consumer prices rose 0.52%, accelerating from 0.07% in the prior month."
+    },
+    {
+      "id": "5031451",
+      "time": "2026-08-08 00:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院正在就俄羅斯制裁法案進行表決。"
+    },
+    {
+      "id": "5031450",
+      "time": "2026-08-08 00:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯制裁法案有望在參議院獲得透過。"
+    },
+    {
+      "id": "5031449",
+      "time": "2026-08-08 00:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩、以色列敲定可派遣部隊核實真主黨解除武裝事宜的候選國家短名單。"
+    },
+    {
+      "id": "mkt:019fdd27-16e4-7aab-8fbe-b9aa7cccbae9",
+      "time": "2026-08-08 00:55:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports legal-AI startup Harvey is in talks to raise financing at a $15.5 billion valuation."
+    },
     {
       "id": "mkt:019fdd26-c677-7aab-8fbe-b68568e4911c",
       "time": "2026-08-08 00:55:33",

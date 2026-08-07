@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-08 00:56:19",
-  "count": 15993,
+  "updated": "2026-08-08 01:00:14",
+  "count": 15997,
   "items": [
+    {
+      "id": "5031452",
+      "time": "2026-08-08 00:58:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院絕大多數議員支援由已故參議員格雷厄姆牽頭的對俄全面能源制裁法案，投票仍在進行。"
+    },
+    {
+      "id": "te:economy:573869",
+      "time": "2026-08-08 00:57:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Seychelles",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Seychelles Annual Inflation Accelerates in July — The annual inflation rate in Seychelles rose to 0.78% in July 2026, accelerating from 0.43% in the prior month and reaching its highest level since January 2025. Fish prices rose 4.87%, easing from 5.62% in the prior month, while other food products' inflation rose to 0.14% from 0.09%, driven by higher prices in oil and fats (5.47%), vegetabels (2.84%) and non-alcoholic beverages (2.7%). Meanwhile, non-food inflation accelerated to 0.81% from 0.4%, driven by higher prices in alcoholic beverages (4.17%), restaurants and hotels (3.43%), education (2.49%) and transport (2.48%), while prices declined for health (-3.18%), recreation and culture (-2.92%), clothing and footwear (-2.61%) and tobacco (-0.57%). On a monthly basis, consumer prices rose 0.52%, accelerating from 0.07% in the prior month."
+    },
+    {
+      "id": "5031451",
+      "time": "2026-08-08 00:57:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院正在就俄羅斯制裁法案進行表決。"
+    },
+    {
+      "id": "5031450",
+      "time": "2026-08-08 00:56:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯制裁法案有望在參議院獲得透過。"
+    },
+    {
+      "id": "5031449",
+      "time": "2026-08-08 00:56:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：黎巴嫩、以色列敲定可派遣部隊核實真主黨解除武裝事宜的候選國家短名單。"
+    },
+    {
+      "id": "mkt:019fdd27-16e4-7aab-8fbe-b9aa7cccbae9",
+      "time": "2026-08-08 00:55:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports legal-AI startup Harvey is in talks to raise financing at a $15.5 billion valuation."
+    },
     {
       "id": "mkt:019fdd26-c677-7aab-8fbe-b68568e4911c",
       "time": "2026-08-08 00:55:33",
@@ -145762,22 +145814,6 @@
         "國際"
       ],
       "text": "美國至7月31日當週總鑽井總數 588口，前值587口。\n美國至7月31日當週石油鑽井總數 451口，前值450口。\n美國至7月31日當週天然氣鑽井總數 127口，前值127口。"
-    },
-    {
-      "id": "5019784",
-      "time": "2026-08-01 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.15%，滬銅收跌0.18%，滬鋁收平，滬鋅收漲0.64%，滬鉛收跌1.41%，滬鎳收跌0.24%，滬錫收漲0.72%。氧化鋁夜盤收漲0.04%，鋁合金收漲0.06%。不鏽鋼夜盤收漲0.17%。"
-    },
-    {
-      "id": "mkt:019fb91e-36bd-7aab-8f3b-d2d8702e7489",
-      "time": "2026-08-01 00:59:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.0 magnitude earthquake strikes off Mapastepec, Chiapas】Mexico’s National Seismological Service (SSN) said a magnitude-5.0 quake occurred at 10:15:56 local time on July 31 about 165 km southwest of Mapastepec in southeastern Chiapas, at an estimated depth of 10 km. Mexico’s seismic alert system did not activate; no casualties or property damage reported so far."
     }
   ]
 }
