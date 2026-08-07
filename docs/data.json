@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-07 12:22:47",
-  "count": 16093,
+  "updated": "2026-08-07 12:26:40",
+  "count": 16090,
   "items": [
+    {
+      "id": "te:markets:573609",
+      "time": "2026-08-07 12:23:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Attempt Rebound — Soybean futures rose above $11.6 per bushel, attempting to rebound from a five-week low, supported by stronger Chinese demand and higher crude oil prices. Reports of renewed attacks in the Strait of Hormuz and the lack of clarity over a deal to reopen the critical waterway lifted oil prices. Agricultural prices often tracked energy markets due to the growing use of crop-based feedstocks in biofuel production. In addition, the USDA confirmed private sales of 132,000 metric tons of US soybeans to China for delivery in the 2026/27 marketing year beginning September 1, following Beijing's purchase of about 1 million tons of US soybeans last week. Meanwhile, ongoing hostilities between Russia and Ukraine continued to pose risks to Black Sea grain exports, although expectations of another large Black Sea harvest weighed on prices. Additional pressure came from expectations of ample global supplies, with brokerage StoneX forecasting the 2026 US soybean harvest at 4.47 billion bushels."
+    },
     {
       "id": "5030036",
       "time": "2026-08-07 12:19:00",
@@ -146965,38 +146976,6 @@
         "其他"
       ],
       "text": "【局地將迎大暴雨 甘肅隴南啟動防汛抗洪二級應急響應】甘肅省隴南市人民政府今天（31日）上午釋出通知，7月29日夜間至31日清晨，隴南市東部、南部普降大到暴雨，最大降水量武都區裕河366.6毫米、康縣岸門口264.4毫米。預計31日白天到8月3日，全市降水還將持續，東部、南部有大到暴雨，局地大暴雨。疊加前期降雨量，武都南部、康縣中南部、文縣東南部累積雨量將達300-400毫米（裕河鎮可能超過400毫米）、其餘已出現大暴雨的區域累積降雨量將達250毫米以上，氣象部門再次釋出重大氣象專報。為確保防汛搶險各項工作的順利開展，按照隴南市防汛抗洪應急預案，現於7月31日9時啟動隴南市防汛抗洪二級應急響應。"
-    },
-    {
-      "id": "5018317",
-      "time": "2026-07-31 12:26:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萊茵河荷蘭段水位降至歷史最低】荷蘭基礎設施與水資源管理部30日說，受持續乾旱和高溫影響，萊茵河荷蘭段水位已降至阿姆斯特丹標準水位（NAP）以上6.47米，創下有記錄以來最低。NAP是荷蘭全國統一的高程基準面，又稱水準零點。上述資料在緊鄰德國邊境的荷蘭洛位元水文站測得，打破了該河段水位2022年8月創下的NAP以上6.48米的最低紀錄。水利部門預計，未來幾天萊茵河水位將進一步下降。"
-    },
-    {
-      "id": "5018316",
-      "time": "2026-07-31 12:24:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順絡電子：公司已實現多種工藝製作的AI電感產品量產出貨】順絡電子(002138)7月30日在業績說明會上表示，公司AI電感主要為應用於AI伺服器中GPU、CPU、ASIC晶片等各類xPU供電的電感產品，目前公司已實現多種工藝（組裝/銅磁共燒/模壓）製作的AI電感產品量產出貨。在AI電感的TLVR結構迭代趨勢下，公司已在多位頭部功率模組客戶及終端雲廠商客戶中獲得認可並批次供應。受益於資料中心的行業需求爆發，相關產品將持續為公司業績增長髮力。"
-    },
-    {
-      "id": "5018315",
-      "time": "2026-07-31 12:23:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "索尼半導體子公司：將從8月4日起逐步恢復其位於熊本縣菊葉町的工廠的運營。"
-    },
-    {
-      "id": "5018314",
-      "time": "2026-07-31 12:22:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "索尼半導體：工廠將於8月中旬恢復到震前水平。"
     }
   ]
 }
