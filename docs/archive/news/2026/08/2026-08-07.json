@@ -1,7 +1,165 @@
 {
   "date": "2026-08-07",
-  "count": 936,
+  "count": 952,
   "items": [
+    {
+      "id": "mkt:019fdad0-3aad-7aab-8fb0-dee7334c9451",
+      "time": "2026-08-07 14:01:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "Germany June industrial production, working-day adjusted, -0.1% YoY vs +0.1% expected; prior 0.0%."
+    },
+    {
+      "id": "mkt:019fdad0-1714-7aab-8fb0-d1056a2518fb",
+      "time": "2026-08-07 14:01:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Workday Adjusted) (YoY) (Jun) | actual -0.1% | consensus 0.1% | previous 0.00%"
+    },
+    {
+      "id": "5030131",
+      "time": "2026-08-07 14:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "南水北調中線工程調水突破800億立方米。（新華社）"
+    },
+    {
+      "id": "5030130",
+      "time": "2026-08-07 14:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷上半年調整後稅後利潤9.49億歐元，同比下降15%。"
+    },
+    {
+      "id": "mkt:019fdace-e779-7aab-8fb0-ca3e21d05376",
+      "time": "2026-08-07 14:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's June seasonally adjusted trade surplus €15.4bln, below forecast €17.4bln and down from €19.1bln in May."
+    },
+    {
+      "id": "5030129",
+      "time": "2026-08-07 14:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國6月季調後貿易帳 154億歐元，預期174億歐元，前值191億歐元。"
+    },
+    {
+      "id": "mkt:019fdace-d4e0-7aab-8fb0-c0ddfbcb0847",
+      "time": "2026-08-07 14:00:15",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted exports rose 0.9% MoM in June, vs 0.2% est.; prior 0.9%."
+    },
+    {
+      "id": "mkt:019fdace-cfa6-7aab-8fb0-bccbd1318786",
+      "time": "2026-08-07 14:00:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Germany seasonally adjusted imports, June +4.4% MoM; consensus +1.0%, prior -2.5%."
+    },
+    {
+      "id": "mkt:019fdace-cf5d-7aab-8fb0-b347b3010fb9",
+      "time": "2026-08-07 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany June industrial production (seasonally adjusted) +0.2% MoM vs +0.1% consensus; May +0.9%."
+    },
+    {
+      "id": "5030128",
+      "time": "2026-08-07 14:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月季調後工業產出月率 0.2%，預期0.1%，前值0.90%。"
+    },
+    {
+      "id": "mkt:019fdace-aeef-7aab-8fb0-ae957bf012e8",
+      "time": "2026-08-07 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Trade Balance SA (Jun) | actual 15400000000B | consensus 17400000000B | previous 19100000000B"
+    },
+    {
+      "id": "mkt:019fdace-aee5-7aab-8fb0-a2f091311353",
+      "time": "2026-08-07 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Imports SA (MoM) (Jun) | actual 4.4% | consensus 1% | previous -2.50%"
+    },
+    {
+      "id": "mkt:019fdace-aea2-7aab-8fb0-9d7f2e1a37c7",
+      "time": "2026-08-07 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Exports SA (MoM) (Jun) | actual 0.9% | consensus 0.2% | previous 0.90%"
+    },
+    {
+      "id": "mkt:019fdace-9fb0-7aab-8fb0-96881c0cb237",
+      "time": "2026-08-07 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Seasonally Adjusted) (MoM) (Jun) | actual 0.2% | consensus 0.1% | previous 0.90%"
+    },
+    {
+      "id": "5030127",
+      "time": "2026-08-07 13:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國校園槍擊7死15傷】今天（8月7日）上午，泰國首都曼谷以北的暖武裡府一所中學發生槍擊。據泰國政府方面訊息，槍擊造成學生和教師共4人死亡，此外還有十多人受傷。而泰國警方稱，槍擊造成包括嫌疑人在內共7人死亡，受傷人數為15人。 警方稱嫌疑人飲彈自盡。據泰國媒體報道，嫌疑人為一名學生，身穿紫色運動服，攜帶一個黑色斜挎包，持手槍在學校內開了數十槍。"
+    },
+    {
+      "id": "5030126",
+      "time": "2026-08-07 13:58:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4280美元/盎司，日內漲0.94%。"
+    },
     {
       "id": "mkt:019fdacc-77c6-7aab-8fb0-888ac1457efe",
       "time": "2026-08-07 13:57:40",

@@ -1,7 +1,165 @@
 {
-  "updated": "2026-08-07 13:58:38",
+  "updated": "2026-08-07 14:02:29",
   "count": 16128,
   "items": [
+    {
+      "id": "mkt:019fdad0-3aad-7aab-8fb0-dee7334c9451",
+      "time": "2026-08-07 14:01:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "S&P500"
+      ],
+      "text": "Germany June industrial production, working-day adjusted, -0.1% YoY vs +0.1% expected; prior 0.0%."
+    },
+    {
+      "id": "mkt:019fdad0-1714-7aab-8fb0-d1056a2518fb",
+      "time": "2026-08-07 14:01:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Workday Adjusted) (YoY) (Jun) | actual -0.1% | consensus 0.1% | previous 0.00%"
+    },
+    {
+      "id": "5030131",
+      "time": "2026-08-07 14:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "南水北調中線工程調水突破800億立方米。（新華社）"
+    },
+    {
+      "id": "5030130",
+      "time": "2026-08-07 14:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷上半年調整後稅後利潤9.49億歐元，同比下降15%。"
+    },
+    {
+      "id": "mkt:019fdace-e779-7aab-8fb0-ca3e21d05376",
+      "time": "2026-08-07 14:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Germany's June seasonally adjusted trade surplus €15.4bln, below forecast €17.4bln and down from €19.1bln in May."
+    },
+    {
+      "id": "5030129",
+      "time": "2026-08-07 14:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國6月季調後貿易帳 154億歐元，預期174億歐元，前值191億歐元。"
+    },
+    {
+      "id": "mkt:019fdace-d4e0-7aab-8fb0-c0ddfbcb0847",
+      "time": "2026-08-07 14:00:15",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany's seasonally adjusted exports rose 0.9% MoM in June, vs 0.2% est.; prior 0.9%."
+    },
+    {
+      "id": "mkt:019fdace-cfa6-7aab-8fb0-bccbd1318786",
+      "time": "2026-08-07 14:00:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Germany seasonally adjusted imports, June +4.4% MoM; consensus +1.0%, prior -2.5%."
+    },
+    {
+      "id": "mkt:019fdace-cf5d-7aab-8fb0-b347b3010fb9",
+      "time": "2026-08-07 14:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany June industrial production (seasonally adjusted) +0.2% MoM vs +0.1% consensus; May +0.9%."
+    },
+    {
+      "id": "5030128",
+      "time": "2026-08-07 14:00:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月季調後工業產出月率 0.2%，預期0.1%，前值0.90%。"
+    },
+    {
+      "id": "mkt:019fdace-aeef-7aab-8fb0-ae957bf012e8",
+      "time": "2026-08-07 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Trade Balance SA (Jun) | actual 15400000000B | consensus 17400000000B | previous 19100000000B"
+    },
+    {
+      "id": "mkt:019fdace-aee5-7aab-8fb0-a2f091311353",
+      "time": "2026-08-07 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Imports SA (MoM) (Jun) | actual 4.4% | consensus 1% | previous -2.50%"
+    },
+    {
+      "id": "mkt:019fdace-aea2-7aab-8fb0-9d7f2e1a37c7",
+      "time": "2026-08-07 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Exports SA (MoM) (Jun) | actual 0.9% | consensus 0.2% | previous 0.90%"
+    },
+    {
+      "id": "mkt:019fdace-9fb0-7aab-8fb0-96881c0cb237",
+      "time": "2026-08-07 14:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Industrial Production (Seasonally Adjusted) (MoM) (Jun) | actual 0.2% | consensus 0.1% | previous 0.90%"
+    },
+    {
+      "id": "5030127",
+      "time": "2026-08-07 13:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國校園槍擊7死15傷】今天（8月7日）上午，泰國首都曼谷以北的暖武裡府一所中學發生槍擊。據泰國政府方面訊息，槍擊造成學生和教師共4人死亡，此外還有十多人受傷。而泰國警方稱，槍擊造成包括嫌疑人在內共7人死亡，受傷人數為15人。 警方稱嫌疑人飲彈自盡。據泰國媒體報道，嫌疑人為一名學生，身穿紫色運動服，攜帶一個黑色斜挎包，持手槍在學校內開了數十槍。"
+    },
+    {
+      "id": "5030126",
+      "time": "2026-08-07 13:58:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4280美元/盎司，日內漲0.94%。"
+    },
     {
       "id": "mkt:019fdacc-77c6-7aab-8fb0-888ac1457efe",
       "time": "2026-08-07 13:57:40",
@@ -147188,157 +147346,6 @@
         "其他"
       ],
       "text": "亞塞拜然央行將關鍵再融資利率維持在6.5%（此前為6.5%）。"
-    },
-    {
-      "id": "mkt:019fb6c4-5690-7aab-8f27-b0bdbf827708",
-      "time": "2026-07-31 14:02:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Azerbaijan's central bank left its key refinancing rate unchanged at 6.5%."
-    },
-    {
-      "id": "5018399",
-      "time": "2026-07-31 14:02:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "彪馬股份公司（PUMA SE）：北美銷售額按固定匯率計算下滑16.7%，主要受消費者需求走弱，以及縮減與大眾零售商非合意業務的影響。"
-    },
-    {
-      "id": "mkt:019fb6c4-04a2-7aab-8f27-ab25f290c8ea",
-      "time": "2026-07-31 14:02:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【DeepSeek launches public beta of DeepSeek-V4-Flash API; DeepSeek-V4-Pro release due soon】DeepSeek launched a public beta for the official DeepSeek‑V4‑Flash API. The DeepSeek‑V4‑Flash‑0731 model keeps the same architecture and size as the DeepSeek‑V4‑Flash‑preview and has only undergone post-training. The company says the formal DeepSeek‑V4‑Pro release will follow shortly."
-    },
-    {
-      "id": "5018398",
-      "time": "2026-07-31 14:01:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "彪馬股份公司：受地區衝突影響，中東地區銷售額大幅下滑。"
-    },
-    {
-      "id": "mkt:019fb6c3-42b9-7aab-8f27-a064378f86bb",
-      "time": "2026-07-31 14:01:17",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "STOXX Europe 50 futures up 0.8%; DAX futures up 0.58%; FTSE 100 futures up 0.51%."
-    },
-    {
-      "id": "5018397",
-      "time": "2026-07-31 14:01:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.8%，德國DAX指數期貨上漲0.58%，英國富時指數期貨上漲0.51%。"
-    },
-    {
-      "id": "5018396",
-      "time": "2026-07-31 14:00:16",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國7月Nationwide房價指數月率 0.1%，預期0.10%，前值0.00%。英國7月Nationwide房價指數年率 1.8%，預期1.90%，前值2.20%。"
-    },
-    {
-      "id": "mkt:019fb6c2-4baa-7aab-8f27-9e971be72d33",
-      "time": "2026-07-31 14:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD"
-      ],
-      "text": "UK Nationwide house price index MoM +0.1% in July, matching expected +0.1%; June revised 0.0%."
-    },
-    {
-      "id": "mkt:019fb6c2-4afe-7aab-8f27-95c9105899e1",
-      "time": "2026-07-31 14:00:14",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "Impact mixed"
-      ],
-      "text": "UK July Nationwide house price index YoY 1.8% vs 1.9% expected, down from June's 2.2%."
-    },
-    {
-      "id": "mkt:019fb6c2-2df9-7aab-8f27-880d0e59d6cb",
-      "time": "2026-07-31 14:00:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Nationwide House Price Index (YoY) (Jul) | actual 1.8% | consensus 1.90% | previous 2.20%"
-    },
-    {
-      "id": "mkt:019fb6c2-2df7-7aab-8f27-81133db620da",
-      "time": "2026-07-31 14:00:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Nationwide House Price Index (MoM) (Jul) | actual 0.1% | consensus 0.10% | previous 0.00%"
-    },
-    {
-      "id": "5018395",
-      "time": "2026-07-31 13:59:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek：DeepSeek-V4-Flash 正式版 API 上線公測 DeepSeek-V4-Pro 正式版將會盡快釋出】DeepSeek釋出更新日誌，DeepSeek-V4-Flash 正式版 API 上線公測。DeepSeek-V4-Flash-0731 的模型結構、尺寸和 DeepSeek-V4-Flash-preview 保持一致，僅重新進行了後訓練。DeepSeek-V4-Pro 正式版將會盡快釋出。（DeepSeek）"
-    },
-    {
-      "id": "5018394",
-      "time": "2026-07-31 13:59:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海閔行：“十五五”期間力爭生物醫藥產值年均增長9%左右】上海市閔行區人民政府印發《虹橋國際中央商務區（閔行部分）“十五五”規劃》。其中提出，培育高質量創新發展新動力。現代化產業體系基本成型，生物醫藥產值年均增長9%左右，累計引育長三角製造業研發機構200家，其中高能級企業研發機構80家，“虹橋研發+長三角製造+全球應用”協同正規化成為全國標杆。科創策源與產業轉化功能進一步強化，成為培育新質生產力的核心動力源。"
-    },
-    {
-      "id": "5018393",
-      "time": "2026-07-31 13:59:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "村田社長：資料中心總支出不會大幅下降。"
-    },
-    {
-      "id": "te:economy:571527",
-      "time": "2026-07-31 13:59:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kenya",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Kenya Inflation Rate Edges Up to 6.5% — The annual inflation rate in Kenya edged up to 6.5% in July 2026 from 6.4% in the previous month, remaining above the midpoint of the central bank's 2.5%-7.5% target range for a third consecutive period. The main upward pressure came from transport prices, which rose 15.6% year-on-year, reflecting the pass-through effects of earlier fuel price increases despite unchanged pump prices during the mid-month review. Food and non-alcoholic beverage inflation also remained elevated at 9.0%. Meanwhile, core inflation, which excludes selected volatile items, accelerated slightly to 3.2% from 3.1% in June, pointing to growing underlying price pressures."
-    },
-    {
-      "id": "5018392",
-      "time": "2026-07-31 13:58:41",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【華福證券任志強：政策組合拳的輪廓更加清晰】中共中央政治局7月30日召開會議，分析研究當前經濟形勢，部署下半年經濟工作。華福證券總裁助理兼研究所所長任志強接受採訪時表示，下半年宏觀政策或將進入存量加速與增量加力的共振視窗期，新舊動能轉換有望提速，資本市場改革預期升溫。“本次政治局會議的政策定調更加積極，政策組合拳的輪廓更加清晰。”任志強說，政策底進一步夯實。會議明確“加大逆週期調節力度”，宏觀政策從“穩”向“進”的轉變訊號明確，有助於提振市場信心、改善市場預期。其次，“加快推動新舊動能轉換”的提法意味著產業轉型升級的政策力度或將進一步加大，新質生產力方向是中長期最具確定性的投資主線。同時，內需鏈條有望邊際改善。隨著財政加快支出、貨幣適度寬鬆、“六張網”加速落地，基建投資鏈、服務消費鏈有望迎來階段性修復機會。此外，資本市場改革預期升溫，後續資本市場投融資改革的推進值得期待。 （證券時報）"
     }
   ]
 }
