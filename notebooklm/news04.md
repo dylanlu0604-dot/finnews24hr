@@ -1,7 +1,463 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 03:54:24_
-_本檔包含 3251 則快訊，約 605882 字_
+_更新時間：2026-08-08 04:53:33_
+_本檔包含 3263 則快訊，約 605281 字_
+
+---
+
+### 2026-08-04 19:10:25  #宏觀
+
+【突出金融幫扶特色 金融監管總局召開定點幫扶工作領導小組會議】8月4日金融監管總局官網訊息，日前，金融監管總局召開定點幫扶工作領導小組會議，全面總結2025年金融監管總局定點幫扶工作成效，安排部署2026年重點任務。會議指出，2025年，金融監管總局深入貫徹落實黨中央、國務院決策部署，堅決扛牢定點幫扶政治責任，加強組織領導，發揮自身優勢，創新幫扶舉措，加大幫扶力度，圓滿完成各項幫扶任務，助力定點幫扶旗縣鞏固拓展脫貧攻堅成果、推進鄉村全面振興。會議強調，2026年是開展常態化幫扶第一年，也是“十五五”規劃開局之年，紮實做好今年的定點幫扶工作意義重大。要深入貫徹黨中央決策部署，切實增強常態化做好定點幫扶工作的責任感、使命感，準確把握常態化幫扶階段定點幫扶工作面臨的新形勢、新任務，堅持聚焦重點、實施精準幫扶，發揮自身優勢持續發力，把幫扶工作抓出更大成效。會議要求，要進一步提高政治站位，增強大局意識，堅決守牢底線，助力鞏固拓展脫貧攻堅成果。注重發揮金融優勢，突出金融幫扶特色，加強產業幫扶，持續增強定點幫扶旗縣發展後勁。踐行正確政績觀，持續錘鍊優良工作作風，把真抓實幹、求真務實貫穿定點幫扶工作全過程，奮力推動定點幫扶和鄉村振興工作再上新臺階。（中證報）
+
+---
+
+### 2026-08-04 19:10:03  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact mixed #MU.O #Impact bullish #AMZN.O
+
+【BofA: AI capex set to surge; storage may be more resilient than GPUs】BofA expects hyperscale cloud capex to exceed $860bn in 2026 (up ~80% YoY) and approach $1.2trn in 2027 (up ~38%). Microsoft, Oracle, AWS and Google report a combined cloud backlog of more than $2.3trn, up 16% QoQ, providing high visibility for future spend. The current AI infrastructure expansion will chiefly boost demand for compute, storage, semiconductor equipment, power semiconductors and optical communications. As AI agents and inference workloads scale, server allocations of HBM, DRAM and SSDs should rise; storage demand could outpace GPU shipments. Capex exceeding operating cash flow will compress free cash flow at big tech firms, though they can access debt and equity markets. BofA characterises the cycle as a multi-year infrastructure build and says rising cloud orders improve visibility on AI investment returns.
+
+---
+
+### 2026-08-04 19:09:48  #公司
+
+【霍爾木茲海峽附近貨船遇襲起火 一船員失蹤】英國海事安全企業先鋒技術公司4日釋出報告說，一艘散貨船在霍爾木茲海峽附近水域遇襲後起火，有一名船員失蹤。英國媒體援引最新訊息報道說，船員已棄船。 報告說，有不明發射物據報擊中該船機艙，導致生活區起火及一名船員失蹤。船員曾嘗試滅火併請求外部援助。 船舶公開資訊顯示，這艘名為“米諾斯先鋒”號的散貨船懸掛賴比瑞亞國旗，由一家希臘公司運營。(新華社)
+
+---
+
+### 2026-08-04 19:09:13  #市場
+
+輝瑞盤前股價抹去先前漲幅，下跌0.5%。
+
+---
+
+### 2026-08-04 19:08:56  #市場
+
+麥當勞二季度業績公佈後，其股價盤前上漲2%。
+
+---
+
+### 2026-08-04 19:08:37  #MKT News #Important
+
+Qatar foreign ministry spokesman said it is not yet possible to say a US-Iran agreement has been reached.
+
+---
+
+### 2026-08-04 19:08:16  #國際
+
+卡達外交部發言人：目前我們還不能說美伊協議已經達成。
+
+---
+
+### 2026-08-04 19:08:08  #國際
+
+中韓半導體ETF華泰柏瑞(513310)將於2026年8月5日開市起至當日10:30停牌。
+
+---
+
+### 2026-08-04 19:07:25  #其他
+
+【麥當勞第二季度調整後每股收益3.38美元 超出市場預期】麥當勞第二財季同店銷售額增長1.3%，預期為1.39%。麥當勞第二季度營收71.0億美元，預估71.2億美元；調整後每股收益3.38美元，預估3.32美元；第二季度每股收益3.32美元，上年同期3.14美元。
+
+---
+
+### 2026-08-04 19:06:36  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+McDonalds earnings above expectations at 3.38 USD — McDonalds (MCD) released earnings per share at 3.38 USD, compared to market expectations of 3.35 USD.
+
+---
+
+### 2026-08-04 19:06:36  #MKT News
+
+【July 2026 new fund account openings 199,000; YoY +23.22%; YTD 2.0305 mln】Shanghai Stock Exchange data show new fund account openings were 199,000 in July 2026, down 14.81% MoM and up 23.22% YoY (July 2025: 161,500). Cumulative new openings in 2026 reached 2.0305 million, up 21.88% YoY.
+
+---
+
+### 2026-08-04 19:06:33  #公司
+
+SK海力士公司<程式碼SKHY.O>：尼達姆首次覆蓋該股，給予買入評級，目標價為200美元。
+
+---
+
+### 2026-08-04 19:06:21  #行業
+
+乘聯分會：結合7月初步彙總資料，6月廠商批發銷量萬輛以上的乘用車車企，7月新能源銷量合計達138萬輛。以6月佔比測算，7月全國新能源乘用車批發銷量約147萬輛，同比增長23%，環比下降1%。
+
+---
+
+### 2026-08-04 19:06:09  #其他
+
+全球晶片LOF(501225)將於2026年8月5日開市起停牌，自2026年8月5日10:30起復牌，停牌期間贖回業務照常辦理。
+
+---
+
+### 2026-08-04 19:06:01  #行業 #市場
+
+乘聯分會： 2026年7月，國內新能源乘用車市場迎來亮眼復甦行情，據乘聯月度初步資料綜合測算，當月國內車企新能源乘用車預估批售量達147萬輛，同比上漲23%、環比下降1%，同比實現2026年各月最高增速，且環比下滑幅度優於季節指數，標誌著國內新能源汽車板塊復甦態勢初步顯現。反觀整體車市，大盤走勢承壓偏弱，新能源車已然成為國內乘用車市場核心增長亮點，新舊能源車型市場分化格局持續加劇。
+
+---
+
+### 2026-08-04 19:06:01  #MKT News #Market Regions #Greater China
+
+【Shanghai Stock Exchange: 2.6554 mln new A-share accounts in July 2026, down 7.30% MoM, +35.23% YoY】Shanghai Stock Exchange data showed 2.6554 mln new A-share accounts opened in July 2026, down 7.30% MoM and up 35.23% YoY (vs 1.9636 mln in July 2025). Year-to-date new accounts totaled 22.8168 mln, up 56.69% YoY.
+
+---
+
+### 2026-08-04 19:05:58  #公司
+
+【美力科技：擬定增募資不超過5.85億元用於智慧懸架等專案】美力科技公告，公司釋出2026年度向特定物件發行股票預案，擬向不超過35名特定物件發行股票，募集資金總額不超過5.85億元（含本數），扣除發行費用後擬用於年產200萬件智慧懸架及1000萬件電動及液壓驅動彈性元件等產業化專案（擬投入41,000.00萬元）及補充流動資金（擬投入17,500.00萬元）。本次發行數量不超過發行前公司總股本的30%，即不超過6332.24萬股（含本數），發行價格不低於定價基準日前20個交易日公司股票交易均價的80%。
+
+---
+
+### 2026-08-04 19:05:23  #其他
+
+【2026年7月基金新開戶19.9萬戶 同比增長23.22% 2026年累計新開203.05萬戶】上交所資料顯示，2026年7月基金新開戶19.9萬戶，環比下降14.81%，同比2025年7月的16.15萬戶增長23.22%。2026年累計新開203.05萬戶，同比增長21.88%。
+
+---
+
+### 2026-08-04 19:05:09  #行業 #公司
+
+中國汽車工業機構乘聯會表示，特斯拉公司7月在華售出93579輛中國製造車型。
+
+---
+
+### 2026-08-04 19:04:59  #其他
+
+【2026年7月A股新開戶265.54萬戶 同比增長35.23% 2026年累計新開2281.68萬戶】上交所資料顯示，2026年7月A股新開戶265.54萬戶，環比下降7.30%，同比2025年7月的196.36萬戶增長35.23%。2026年累計新開2281.68萬戶，同比增長56.69%。
+
+---
+
+### 2026-08-04 19:04:55  #MKT News #Important
+
+【China's State Post Bureau opens formal investigation into Shentong Express Co., Ltd.】This year, firms operating courier services under the Shentong Express trademark, trade name and waybills have experienced multiple safety incidents; inspections repeatedly identified safety hazards at their premises. The State Post Bureau said Shentong Express Co., Ltd. showed gaps in safety oversight of affiliated operators and failed to implement required unified safety management. The regulator has opened a formal investigation.
+
+---
+
+### 2026-08-04 19:04:50  #其他
+
+麥當勞：預計2026年營業利潤率將處於40%中高位區間。
+
+---
+
+### 2026-08-04 19:04:45  #其他
+
+兩部門對陝西中部發出地質災害高風險預警。（新華社）
+
+---
+
+### 2026-08-04 19:04:34  #MKT News #MCD.N #Impact bullish
+
+McDonald's (MCD.N) expects to open about 2,600 new restaurants globally in 2026.
+
+---
+
+### 2026-08-04 19:04:15  #MKT News
+
+Invesco Great Wall Global Chip LOF will suspend trading from market open on Aug 5, 2026 and resume at 10:30 on Aug 5; redemptions will be processed as normal during the suspension.
+
+---
+
+### 2026-08-04 19:04:13  #公司
+
+【槓桿資金大幅撤離+業績暴增股，22股上榜（附名單）】從近期兩融資料不難看出，槓桿資金明顯從科技相關板塊撤離。據證券時報·資料寶統計，截至8月3日，電子行業融資餘額較6月底大幅縮減超1506億元，通訊行業減少491.33億元，計算機行業下降174.58億元，三大典型科技賽道合計縮水規模位居前列。據資料寶統計，有62只個股融資餘額相比6月底減少超10億元且降幅超20%，多集中於科技成長核心標的。光模組龍頭中際旭創6月末融資餘額436.56億元，最新310.53億元，餘額減少126.04億元，降幅接近29%；寒武紀、新易盛緊隨其後，融資餘額分別減少84.87億元、77.28億元，降幅分別達到32.97%、27.67%；勝宏科技、德明利、兆易創新等個股融資餘額均減少超60億元。從減少幅度來看，杭電股份融資餘額降幅最高，達到65.97%。此外，金安國紀、德福科技、宏景科技、德明利、鵬鼎控股、遠東股份、昊華科技等個股均減少超50%。值得關注的是，部分遭遇槓桿資金大幅減持的個股，其半年報盈利預告卻呈現爆發式增長。這類個股後續反彈的可能性相對更高，尤其是其中業績持續性更強的公司。資料顯示，上述62股中，有22股半年報歸母淨利同比暴增超100%。AI產業鏈企業盈利彈性最為突出，江波龍半年報淨利中值同比增長接近683倍，德明利、佰維儲存、源傑科技、兆易創新等均增超10倍。
+
+---
+
+### 2026-08-04 19:03:58  #市場
+
+【西部資料美股盤前漲超5%】西部資料美股盤前漲超5%，現報554.0美元。
+
+---
+
+### 2026-08-04 19:03:28  #國際
+
+麥當勞：據美國證券交易委員會（SEC）披露檔案顯示，預計2026年自由現金流轉化率將處於80%區間的中低位水平。
+
+---
+
+### 2026-08-04 19:03:25  #宏觀
+
+【富安達基金首席經濟學家鄭良海：穩定政策將改善預期，科技仍是長期主線】富安達基金首席經濟學家鄭良海解讀7月政治局會議表示，本次政治局會議明確加大逆週期調節力度，謀劃務實管用增量政策，未提及“跨週期”，政策訊號積極。會議首提“提升資本市場韌性”，明確穩定市場預期。房地產方面，城市更新“十五五”規劃已安排2570億元資金支援，但市場仍待企穩。產業政策上，“人工智慧+”與“六張網”建設將成擴大內需與培育新質生產力的雙引擎。全球科技股波動對國內有短期對映，但科技引領轉型方向不變。鄭良海指出，市場經歷回撥後，穩定政策將改善預期，科技仍是長期主線，具備業績支撐的板塊有望率先修復。債市中短端利差保護不足，超長債仍有壓縮空間。面對外部多重擾動，內部增量政策何時落地將成為後續市場核心關注。（中國基金報）
+
+---
+
+### 2026-08-04 19:03:18  #公司 #市場
+
+【國晟科技：股價異常波動 上半年預虧7500萬-1.5億元】國晟科技公告稱，公司股票於2026年7月31日、8月3日、8月4日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。公司主營業務及基本面未變，預計2026年半年度淨虧損7500萬元-1.5億元。公司二級控股子公司曾擬2.3億元增資專案，股權已0元轉讓給公司，註冊資本未實繳。此外，公司市淨率高於行業平均，控股股東質押股份佔其持股99.63%，提醒投資者注意風險。
+
+---
+
+### 2026-08-04 19:03:10  #其他
+
+【鴻蒙智行回應上海智界R7事故】8月4日，鴻蒙智行發言人官方發文：2026年8月4日，一輛智界R7在上海市S20外環高速行駛過程中發生事故，經現場人員處置後快速滅火，未造成人員傷亡。 經現場確認，事故系前方車輛行駛過程中掉落的大體積尖銳金屬異物撞擊自車底盤，造成強物理衝擊並在摩擦過程中起火。經初步調查，事發前車輛三電系統狀態正常，且未見車輛其它自身異常，事故非車輛自身原因導致。請廣大網友不信謠，不傳謠。（財經網科技）
+
+---
+
+### 2026-08-04 19:02:53  #公司 #觀點
+
+【中信建投：半導體裝置全球景氣週期持續確認 關注漲價+出海】中信建投表示，SEMI預計2026年全球半導體制造裝置銷售額將創下1659億美元的歷史新高，同比+23.2%。增長勢頭預計將持續至2028年，總裝置銷售額有望達到創紀錄的2295億美元，實現連續五年增長。臺積電上修26年資本開支。臺積電預計2026年全年資本支出為600億至640億美元，此前預估為520億至560億美元，上調80億美元，幅度約15%。ASML整體業績全面超市場及公司前期指引。季度總淨銷售額93.26億歐元，同比+21%、環比+6.4%，大幅超越公司前期84–90億歐元指引及市場88.5億歐元一致預期，年內第二次上調全年業績目標，AI算力+儲存復甦雙驅動行業高景氣，盈利結構持續最佳化。全球半導體裝置零部件正經歷一輪歷史罕見的全鏈條漲價潮。半導體產業鏈的定價權正從晶片終端向裝置與零部件環節結構性上移。重視閥門管路、陶瓷件、射頻電源、GAS BOX等海外供應商交期延長帶來的國產替代訴求與漲價邏輯。
+
+---
+
+### 2026-08-04 19:02:47  #公司 #市場
+
+WAYFAIR股價上漲3%，此前該公司公佈的第二季度調整後每股收益超出預期。
+
+---
+
+### 2026-08-04 19:02:40  #MKT News #Market Themes #Chip Wars #SKHY.O #Impact bullish
+
+Stifel initiates coverage of SK Hynix (SKHY.O) with a "Buy" rating and $240 price target.
+
+---
+
+### 2026-08-04 19:02:31  #MKT News #Market Themes #Chip Wars
+
+Huatai-PineBridge China-Korea Semiconductor ETF will be suspended from market open on Aug 5, 2026 until 10:30 local time.
+
+---
+
+### 2026-08-04 19:02:29  #MKT News #Market Themes #AI Revolution
+
+【ICBC meets Brazilian development finance delegation】On Aug 3, Industrial and Commercial Bank of China chairman Liao Lin and vice president Zhang Weiwu met a visiting delegation from Brazilian development finance institutions to discuss expanding financial services for China‑Brazil trade, deepening bilateral local‑currency cooperation, and cooperation on AI applications and sustainable development.
+
+---
+
+### 2026-08-04 19:02:15  #公司
+
+【國家郵政局對申通快遞立案調查】從國家郵政局官網獲悉，國家郵政局依法對申通快遞有限公司立案調查。 今年以來，使用“申通快遞”商標、字號、快遞運單經營快遞業務的企業多發生產安全事故，場所內多次被檢查發現生產安全事故隱患。申通快遞有限公司對申通快遞相關企業安全生產管理缺位，未按規定實行安全保障統一管理，國家郵政局依法對申通快遞有限公司進行立案調查。
+
+---
+
+### 2026-08-04 19:02:11  #MKT News #Market Themes #AI Revolution
+
+OpenAI has partnered with private equity firm Clearlake Capital to accelerate AI adoption across Clearlake's portfolio companies.
+
+---
+
+### 2026-08-04 19:01:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Ametek earnings above expectations at 2.09 USD — Ametek (AME) released earnings per share at 2.09 USD, compared to market expectations of 1.99 USD.
+
+---
+
+### 2026-08-04 19:01:33  #其他
+
+【麥當勞第二季度營收71.0億美元，預估71.2億美元】麥當勞第二季度調整後每股收益3.38美元，預估3.32美元；第二季度每股收益3.32美元，上年同期3.14美元。
+
+---
+
+### 2026-08-04 19:01:26  #公司
+
+【津富士達：股票8月6日將在滬市主機板上市】津富士達公告稱，公司人民幣普通股股票將於2026年8月6日在上海證券交易所主機板上市，股票簡稱“津富士達”，程式碼603468。首次公開發行後總股本41,222.17萬股，發行股票數量4,123萬股。公司提醒投資者注意上市初期風險，如漲跌幅限制放寬、流通股少、發行市盈率與行業平均水平差異及股票可作為融資融券標的等帶來的風險。
+
+---
+
+### 2026-08-04 19:01:22  #公司 #觀點
+
+【頻準鐳射：首次公開發行股票並在科創板上市將舉行網上路演】頻準鐳射公告稱，公司首次公開發行股票並在科創板上市的申請已獲上交所稽核透過及證監會同意註冊。本次擬公開發行新股1000.00萬股，佔發行後總股本的25.00%。發行人和保薦人（主承銷商）中信建投證券將舉行網上路演，時間為2026年8月6日14:00 - 17:00，網址為上證路演中心及上海證券報·中國證券網，參與人員包括公司董事會及管理層主要成員和保薦人相關人員。
+
+---
+
+### 2026-08-04 19:01:22  #其他
+
+【中國工商銀行與巴西開發性金融機構代表團舉行工作會談】8月3日，中國工商銀行董事長廖林、副行長張偉武會見來訪的巴西開發性金融機構代表團，雙方就金融服務中巴經貿往來、深化雙邊本幣合作、人工智慧應用、可持續發展等話題進行深入交流。（中國工商銀行）
+
+---
+
+### 2026-08-04 19:00:59  #MKT News #Market Regions #Greater China
+
+【State Administration for Market Regulation releases 1H 2026 food-safety sampling; compliance rises in 18 food categories】China’s State Administration for Market Regulation said nationwide market regulators completed food-safety supervisory sampling of 2.291 mln batches in 1H 2026. Compliance for staples (rice, flour, oil, meat, eggs, milk) was 99.51%, up 0.17 ppt YoY. Compliance rates for 18 categories including catering food, fresh eggs and aquatic products rose YoY and overall food-safety conditions were described as stable and improving. Main noncompliance types were pesticide residues (3.95% noncompliance), organic pollutant contamination (1.60%), microbial contamination (1.12%), veterinary drug residues (0.87%) and over-limit/unauthorized use of food additives (0.86%). SAMR said regulators have launched follow-up investigations and remediation to contain food-safety risks.
+
+---
+
+### 2026-08-04 19:00:46  #國際
+
+烏克蘭第二季度GDP初步資料同比增長0.6%。
+
+---
+
+### 2026-08-04 19:00:39  #宏觀
+
+【2026年上半年食品安全抽檢出爐！18類食品合格率品質提升】今天瞭解到，市場監管總局公佈2026年上半年食品安全監督抽檢情況。資料顯示，全國市場監管部門共完成食品安全監督抽檢229.1萬批次。米、面、油、肉、蛋、奶等大宗食品合格率總體為99.51%，同比上升0.17個百分點；餐飲食品、鮮蛋、水產品等18類食品合格率與去年同期相比有所上升，食品安全狀況總體穩定向好。抽檢發現的問題主要是農藥殘留、有機物汙染、微生物汙染、獸藥殘留、超範圍超限量使用食品新增劑，不合格率分別為3.95%、1.60%、1.12%、0.87%、0.86%。針對監督抽檢發現的不合格食品，市場監管部門已及時開展核查處置，嚴格控制食品安全風險。（央視新聞）
+
+---
+
+### 2026-08-04 19:00:38  #市場 #觀點
+
+【景順長城投研團隊：市場負面因素釋放或接近尾聲，中期市場仍然保持積極】景順長城投研團隊近期指出，近期市場回撥主要受AI負面敘事和全球風險情緒傳, 市場負面因素釋放或接近尾聲，中期市場仍然保持積極。市場核心支撐一是來自AI產業高景氣持續擴散，相關行業兌現業績高增長；二是在美元資產安全性下降的背景下，人民幣資產配置吸引力提升；三是國內基本面已經出現走出負向迴圈的跡象。對於A股中長期我們仍然保持積極。（中國基金報）
+
+---
+
+### 2026-08-04 19:00:36  #MKT News #Important
+
+Qatar says it cannot provide any timetable for a U.S.-Iran agreement.
+
+---
+
+### 2026-08-04 19:00:31  #公司
+
+SK海力士公司 <SKHY.O>：STIFEL開始追蹤研究，給予買入評級；目標價240美元。
+
+---
+
+### 2026-08-04 19:00:24  #公司 #市場
+
+【調整核心技術人員，熱景生物股價大跌，公司獨家回應】8月4日，熱景生物股價大跌。截至收盤，公司股價報98.93元/股，收盤跌幅為6.92%。熱景生物8月3日晚間對外披露關於調整核心技術人員的公告。IVD業務線兩名業務骨幹被調出，代表創新藥管線的兩名業務骨幹被調入。對此，熱景生物回應，舜景醫藥偏向創新藥管線，創新藥雖然研發週期較長，投入也比較大。但市場已經有一些針對創新藥週期相對較短的獲利途徑，只是公司目前還沒有涉及，如果涉及到這類業務會及時公告。對於傳統IVD業務線，公司是作為雙輪驅動戰略進行的。股價受多重因素影響，業績情況以後續公司釋出的定期報告為準。（中證金牛座）
+
+---
+
+### 2026-08-04 19:00:17  #其他
+
+麥當勞第二季度同店銷售額增長1.3%，高於預期的1.39%。
+
+---
+
+### 2026-08-04 18:59:53  #市場
+
+【Fabrinet美股盤前漲超10%】Fabrinet美股盤前漲超10%，現報502.5美元。
+
+---
+
+### 2026-08-04 18:59:22  #其他
+
+市場訊息： 德、法兩國或將把 KNDS 收歸國有。
+
+---
+
+### 2026-08-04 18:59:04  #國際
+
+【烏克蘭總統澤連斯基批准對俄開展新軍事行動】烏克蘭總統澤連斯基4日在社交媒體上表示，已批准針對俄羅斯的新軍事行動計劃，但未透露具體細節。澤連斯基當天與烏克蘭國家安全域性代局長波克拉德舉行會議，聽取該局8月份工作計劃彙報。澤連斯基在會後表示，新行動旨在應對俄羅斯的侵略行為。澤連斯基同時宣佈批准新措施，對烏克蘭國家安全域性內部進行清理，清除那些“為個人利益而非烏克蘭利益服務”的人員。
+
+---
+
+### 2026-08-04 18:58:16  #其他
+
+【公募REITs穩健運營，資產型別更趨多元化】今年以來，公募REITs穩健運營，資產型別更趨多元化。資料顯示，今年以來新成立12只公募REITs，合計募資規模逾400億元。從今年以來新上市專案來看，底層資產型別包括能源、消費、交通、保租房等，資產結構持續最佳化。（中國基金報）
+
+---
+
+### 2026-08-04 18:57:42  #MKT News
+
+【Heilongjiang records 2026 No.1 flood】The Ministry of Water Resources' Songliao Water Conservancy Commission said heavy rainfall pushed the Tongjiang gauge on the main stem of the Heilongjiang River to the warning level of 54.06m at 18:00 on Aug 4. Under the national major-river flood numbering list, the event is designated Heilongjiang 2026 No.1 flood.
+
+---
+
+### 2026-08-04 18:57:29  #公司
+
+【機構：第二季度三星電子重返DRAM市場份額第一 長鑫儲存增速最快】根據Counterpoint Research最新報告，2026年第二季度三星電子以39%的市場份額重返全球DRAM市場第一。美光科技以25%的市場份額緊隨第二的SK海力士，預計美光科技有望進一步增長。另外，長鑫儲存成為全球增長最快的DRAM廠商，主要受益於中國市場傳統DRAM需求旺盛及產能持續擴張。
+
+---
+
+### 2026-08-04 18:57:25  #其他
+
+羅克韋爾自動化第三季度自由現金流6.54億美元，同比增長34%。
+
+---
+
+### 2026-08-04 18:57:22  #MKT News
+
+【China’s Foreign Ministry says Philippine defense ministry statement full of lies and malicious attacks; China strongly opposes】Foreign Ministry spokesman Lin Jian said a Philippine defense ministry statement is full of lies and malicious attacks, interferes in China’s internal affairs and constitutes a serious political provocation; China firmly opposes it. He accused a small group of anti‑China elements in the Philippines of manipulating public opinion and issuing the statement in the name of government departments to damage China‑Philippines relations and breach recent diplomatic commitments, and warned them to stop provocations or face consequences.
+
+---
+
+### 2026-08-04 18:57:19  #其他
+
+輝瑞：計劃今年推進貝羅貝那肽（berobenatide）的3期專案，該專案包含10項針對慢性體重管理及肥胖相關病症的研究。
+
+---
+
+### 2026-08-04 18:57:08  #其他
+
+羅克韋爾自動化第三季度銷售額 23.1 億美元，市場預期 22.5 億美元。
+
+---
+
+### 2026-08-04 18:56:48  #公司 #觀點
+
+【中金嶺南：凡口鉛鋅礦冒頂致1人遇難 已按要求停產】中金嶺南公告稱，2026年8月1日約9時45分，公司凡口鉛鋅礦礦山井下采場進路冒頂，致1人遇難。公司近日收到停產通知，凡口鉛鋅礦已停產並開展安全檢查，整改複核透過後才能復產。事故原因及遇難者死因尚在調查，公司將配合調查及後續工作。因無法確定停產時長，對當期及全年業績影響程度暫無法預估，將及時披露進展，提醒投資者注意風險。
+
+---
+
+### 2026-08-04 18:56:39  #公司
+
+【熵基科技：擬3000萬-6000萬元回購股份用於激勵】熵基科技公告稱，公司於8月4日審議透過回購股份方案，擬以集中競價方式回購股份，資金不低於3000萬元且不超過6000萬元，回購價不超36.07元/股。按上限測算，預計回購166.34萬股，佔總股本0.71%；按下限測算，預計回購83.17萬股，佔0.35%。回購股份用於員工持股計劃或股權激勵，期限不超12個月。本次回購存在多種實施風險，公司將及時披露進展。
+
+---
+
+### 2026-08-04 18:56:39  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Archer-Daniels Midland earnings above expectations at 1.84 USD — Archer-Daniels Midland (ADM) released earnings per share at 1.84 USD, compared to market expectations of 1.44 USD.
+
+---
+
+### 2026-08-04 18:56:39  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+MPLX earnings below expectations at 1.06 USD — MPLX (MPLX) released earnings per share at 1.06 USD, compared to market expectations of 1.09 USD.
+
+---
+
+### 2026-08-04 18:56:39  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Marathon Petroleum earnings above expectations at 17.73 USD — Marathon Petroleum (MPC) released earnings per share at 17.73 USD, compared to market expectations of 12.05 USD.
+
+---
+
+### 2026-08-04 18:56:38  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Pfizer earnings above expectations at 0.77 USD — Pfizer (PFE) released earnings per share at 0.77 USD, compared to market expectations of 0.68 USD.
+
+---
+
+### 2026-08-04 18:56:31  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Closes Lower — India’s BSE Sensex reversed course to close about 0.3% down at 78,429 on Tuesday, halting a four-day advance, as investors booked profits amid Middle East uncertainty that caused a fresh rise in oil prices and ahead of RBI's policy decision due tomorrow. While the central bank is widely expected to keep interest rates unchanged, investors will be looking for signs of a more hawkish stance as inflation remains above the central bank's comfort level. At the same time,market participants continued to adjust to the new closing-auction mechanism for stocks with futures and options contracts introduced on Monday. Among individual stocks, the biggest laggards were Hindustan Unilever (-1.7%), NTPC (-1.6%), HDFC Bank (-1.5%), Reliance (-1.2%), IndiGo (-1.1%) and Tech Mahindra (-0.6%). On the upside, Trent (1.2%), Bajaj Finance (1.1%), BEL (0.9%), Tata Steel (0.6%), Mahindra & Mahindra (0.6%) and Bajaj Finserv (0.6%) posted the largest gains.
+
+---
+
+### 2026-08-04 18:56:30  #公司
+
+【普天科技：擬清算登出下屬子公司傑賽柬埔寨】普天科技公告稱，2026年8月4日公司董事會審議透過擬清算登出下屬子公司傑賽通訊技術（柬埔寨）有限公司的議案。該子公司註冊資本150萬美元，普天科技持股60%、出資約600萬元。2026年6月30日，其總資產4.93萬元、總負債247.54萬元、淨資產-242.61萬元，營收為0，淨虧損4.17萬元。登出是為整合資源、降本提效，預計不會對公司業績產生重大不利影響。
+
+---
+
+### 2026-08-04 18:55:34  #市場
+
+諾基亞股價午後交易上漲5.9%，有望錄得連續四個交易日上漲。
+
+---
+
+### 2026-08-04 18:54:36  #公司
+
+【雄塑科技：實控人一致行動人黃錦禧減持1.52%股份】雄塑科技公告稱，2026年7月31日至8月3日，公司實際控制人之一致行動人、持股5%以上股東黃錦禧透過集中競價和大宗交易合計減持543.19萬股，佔公司總股本的1.52%。本次變動前，黃錦禧持有7583.46萬股，佔比21.18%；變動後，持有7040.27萬股，佔比19.66%。本次權益變動與此前已披露的承諾及相關公告一致，不存在違規情況。
+
+---
+
+### 2026-08-04 18:54:13  #國際
+
+【外交部：菲國防部宣告充斥謊言和惡意攻擊 中方堅決反對！】有記者就菲律賓國防部發表宣告並提及《中華人民共和國民族團結進步促進法》一事提問。外交部發言人林劍表示，所謂宣告充斥謊言和惡意攻擊，干涉中國內政，是性質極為惡劣的政治挑釁，中方對此堅決反對。公道自在人心。菲一小撮反華勢力為謀取政治私利、掩蓋菲海上侵權行徑，大搞政治和輿論操弄，極力顛倒黑白、混淆視聽，他們的圖謀是不可能實現的。這一小撮人以菲政府部門名義發表所謂宣告，肆意綁架、破壞中菲關係，也違背菲方在近期外交對話中的承諾。我們再次奉勸這些人停止挑釁滋事，停止對華攻擊抹黑，否則必將為自己的卑劣行徑付出代價。我們想再次強調，民族團結進步促進法的實施，有利於更好保護各民族合法權益，將為民族團結進步事業提供堅實法治保障。（央視新聞）
+
+---
+
+### 2026-08-04 18:53:52  #公司
+
+【大金重工：子公司簽署2艘散貨船建造合同，總金額約10億元】大金重工公告，公司下屬子公司唐山大金海工海洋工程有限公司與挪威某船東簽署2艘211,000DWT散貨船建造合同，合同總金額摺合人民幣約10億元，將於2029年分批交付。
+
+---
+
+### 2026-08-04 18:53:48  #其他
+
+巴蒂電信第一季度淨利潤 817 億盧比，市場預期 869.9 億盧比。
+
+---
+
+### 2026-08-04 18:53:42  #公司
+
+【惠雲鈦業：擬以2000萬元-3000萬元回購公司股份】惠雲鈦業公告，擬以不低於人民幣2000萬元且不超過人民幣3000萬元回購公司股份，回購價格不超過人民幣9.5元/股。回購股份將用於轉換公司發行的可轉換為股票的公司債券，若未能在回購完成後的36個月內用於上述用途，未使用部分將予以登出。
+
+---
+
+### 2026-08-04 18:53:36  #公司
+
+【羅普特：截至7月底出售已回購股份117.12萬股 成交2070.24萬元】羅普特公告稱，公司於2023年5月22日至8月16日累計回購股份271.80萬股。2026年3月27日，公司計劃自4月22日至8月16日出售不超271.80萬股。截至7月31日，已出售117.12萬股，約佔總股本0.63%，成交總額2070.24萬元，成交最高價20元/股，最低價16.62元/股，均價17.68元/股。所得資金用於主營業務發展，不會對公司產生重大影響。
 
 ---
 
@@ -19195,389 +19651,5 @@ Nissan's CFO said if the yen holds at current levels, this fiscal year’s forec
 ### 2026-08-03 16:44:52  #MKT News #Important #Commodities #Industrial Metals #Market Regions #Emerging Markets
 
 【China Iron and Steel Association to tighten enforcement of steel export licensing】China Iron and Steel Association said H1 2026 steel exports fell overall with stable prices; steel billet shipments rose sharply and 12 preliminary overseas investigations into Chinese steel were filed. It warned external constraints will tighten in H2 as the EU’s new steel safeguard cuts quotas and introduces a smelting-and-casting origin rule, and cited broader geopolitical disruption that will complicate exports. The association said it will strictly implement the steel export licensing system, prioritizing higher-end products, stabilizing nearby markets and tightening supervision. It called for stronger industry self-discipline, optimization of export structure, deeper focus on neighboring and emerging markets, proactive responses to trade frictions and adaptation to international rules to drive a shift toward higher-end, greener exports and ensure orderly development.
-
----
-
-### 2026-08-03 16:44:49  #其他
-
-【兩部門：強化抽水蓄能電站調節作用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，科學最佳化抽水蓄能電站建設方案和時序，有力有序推動規劃內專案核准建設，持續強化專案排程監測和動態調整，做好中長期專案最佳化佈局。推動一批參與區域調節的抽水蓄能電站建設，完善抽水蓄能電站透過省間交易參與區域調節的市場機制。到2030年，全國抽水蓄能電站裝機規模達到 1.6 億千瓦左右。
-
----
-
-### 2026-08-03 16:44:31  #其他
-
-【兩部門：持續提升綠電應用和電氣化水平】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推進新能源整合融合發展，支援零碳園區、工業綠色微電網建設，引導擴大綠電消費。加快提升工業、交通、建築、農業、居民生活等領域電氣化水平，推廣應用電氣化裝置。到2030 年，電能佔終端能源消費比重達到 35%。
-
----
-
-### 2026-08-03 16:44:24  #其他
-
-【兩部門：完善充電樁峰谷分時電價機制，建立健全放電上網價格形成機制】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推進車網互動核心技術攻關，加快構建技術標準和管理體系。全面推廣智慧有序充電，有序擴大車網互動規模化應用範圍。完善充電樁峰谷分時電價機制，建立健全放電上網價格形成機制，引導車網互動資源參與系統調節和市場交易。到2030 年，智慧有序充電和雙向充放電實現規模化應用，車網互動聚合可調充電規模力爭達到 5000 萬千瓦。
-
----
-
-### 2026-08-03 16:43:53  #公司
-
-【國藥現代：擬中選第十二批國家藥品集採，5個產品入選】國藥現代公告，公司部分下屬子公司參加第十二批全國藥品集中採購工作，鹽酸戊乙奎醚注射液、注射用頭孢他啶阿維巴坦鈉、雙氯芬酸鈉緩釋片、維生素B6注射液、布美他尼注射液擬中選。其中雙氯芬酸鈉緩釋片等3個產品2025年度銷售額合計3.48億元，佔公司2025年度營業收入比例約為3.72%。採購週期自中選結果執行之日起至2029年12月31日。
-
----
-
-### 2026-08-03 16:43:48  #公司
-
-【沃特股份：截至2026年7月31日尚未實施回購】沃特股份公告，公司於2026年7月22日召開第五屆董事會第十六次會議，審議透過《關於回購公司股份方案的議案》，同意以自有資金或自籌資金回購公司已發行的人民幣普通股（A股）股票。截至2026年7月31日，公司尚未實施回購。公司後續將根據市場情況繼續實施本次回購計劃。
-
----
-
-### 2026-08-03 16:43:39  #其他
-
-【兩部門：倡導全社會節約用電】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強重點領域節能降碳管理，嚴格執行高耗能行業碳排放約束，積極實施節電降碳提效改造，淘汰落後高耗能裝置。加快建築節能改造。持續提升算力設施電能利用效率。推廣節能家電，加大宣傳普及力度，增強全民節電降碳意識。
-
----
-
-### 2026-08-03 16:43:35  #其他
-
-【兩部門：充分挖掘跨流域、跨區域電力供需互補潛力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，充分挖掘跨流域、跨區域電力供需互補潛力，強化區域間互為備用、緊急情況臨時支援能力，提升電力系統安全韌性水平。加快推動閩贛、皖鄂、魯蘇、渝黔、湘黔、湘粵等工程建成投產，新增規劃一批區域間直流背靠背電力互濟工程。“十五五”時期新增省間電力互濟規模約 4000 萬千瓦。
-
----
-
-### 2026-08-03 16:43:24  #公司
-
-【兩部門：大力促進虛擬電廠發展】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，創新商業模式，推動虛擬電廠加快發展。支援具備條件的售電公司發展虛擬電廠業務。完善虛擬電廠交易規則、技術標準體系、建設執行管理機制和接入呼叫機制，提升虛擬電廠資源聚合水平和執行可靠水平，推動虛擬電廠常態化、規模化參與電力市場交易。到 2030 年，虛擬電廠最大調節能力超過5000 萬千瓦。
-
----
-
-### 2026-08-03 16:43:02  #其他
-
-【兩部門：激發用電側協同互動能力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，完善管理制度、排程體系、市場機制和技術標準，做實做細負荷管理措施，充分發揮市場作用，引導分散式電源、可調節負荷、電動汽車充電基礎設施等各類分散資源聚合參與電力削峰和填谷，提升用電側協同互動能力。到 2030 年，全國需求側削峰能力超過1億千瓦。
-
----
-
-### 2026-08-03 16:42:56  #其他
-
-【兩部門：佈局一批可承擔頂峰保供作用的電網側獨立新型儲能電站】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，佈局一批可承擔頂峰保供作用的電網側獨立新型儲能電站。加大構網型等技術應用，充分釋放新型儲能調峰、調頻、調壓、事故備用、爬坡、黑啟動等多重效能。“十五五”時期，全國新增可承擔頂峰保供作用的電網側獨立新型儲能約8000 萬千瓦，等效頂峰時長力爭達到 4 小時。到 2030 年，可承擔頂峰保供作用的電網側獨立新型儲能達到 1.4 億千瓦。
-
----
-
-### 2026-08-03 16:42:32  #MKT News #7201.T
-
-Nissan CFO said first-quarter vehicle sales were broadly flat and, given global competition and Middle East tensions, the result was steady.
-
----
-
-### 2026-08-03 16:42:24  #MKT News
-
-【China Securities Association revises liquidity guidelines to tighten cross‑border and multi‑currency controls for brokers】The China Securities Association has published a draft revision of the Securities Company Liquidity Risk Management Guidelines for industry comment. The draft clarifies responsibility boundaries and tightens management obligations, with a focus on high‑complexity areas. The chapter on identification, assessment, monitoring, response and reporting adds explicit requirements for liquidity buffers, governance of cross‑border business and overseas subsidiaries, and cross‑currency liquidity risk management.
-
----
-
-### 2026-08-03 16:42:16  #國際
-
-日產首席財務官萊昂迪斯表示：第一季度銷量幾乎持平，考慮到全球競爭局勢與中東局勢，這已是一份穩健的業績。
-
----
-
-### 2026-08-03 16:42:11  #其他
-
-【兩部門：加強電動汽車充電基礎設施網路建設】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加快構建城市面狀、公路線狀、鄉村點狀佈局的充電基礎設施網路。推動高速公路服務區充電設施更新改造，打造有效滿足中長途出行需求的城際網路。提高快充設施佔比，有序推進大功率充電基礎設施建設，實現除海島、高寒高海拔地區外的農村（縣鄉）地區公共充電設施全覆蓋。
-
----
-
-### 2026-08-03 16:41:51  #其他
-
-【兩部門：夯實煤電兜底保障作用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，持續最佳化煤電裝機結構。穩妥有序實施煤電機組關停工作。鼓勵利用關停煤電機組既有廠址、裝置設施實施新型儲能、調相機等改造建設。到 2030 年，60 萬千瓦等級及以上清潔高效煤電機組佔比提高 10 個百分點以上。合理控制煤電規模。嚴格落實國家碳達峰碳中和戰略和重點區域大氣汙染防治要求，實施新版火電建設標準，推動已納入規劃的煤電建成投產。
-
----
-
-### 2026-08-03 16:41:51  #其他
-
-【兩部門：構建智慧電力排程體系】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，持續最佳化排程機制，推動主配微網協同調控模式轉變和能力建設。探索“沙戈荒”基地、水風光一體化基地、電力新業態等協同執行控制新模式。健全併網技術標準與排程規範，加強電力排程與電力市場、電力需求側管理的銜接。強化各類併網執行主體的涉網和執行管理。適時修訂《電網排程管理條例》。加快先進數字資訊科技與先進排程控制技術融合應用，提升電網智慧調控和系統實時平衡能力，促進新能源消納。
-
----
-
-### 2026-08-03 16:41:44  #MKT News #GBPUSD #Impact bearish #Brent #Impact bullish
-
-【UK manufacturing PMI falls to four-month low】UK manufacturing PMI fell to 51.9 in July from 52.5 in June, marking a ninth consecutive month of expansion but the weakest pace in four months; the preliminary July reading was 52.8. S&P Global said the month-on-month decline reflected a sharp reduction in purchases and inventories, slower employment growth and a sharp deceleration in the pace of increases in supplier delivery times. The PMI output index rose to 52.9 from 52.6 — the broadest output expansion since September 2024 — but below the preliminary 53.6. Data suggested a renewed impact from developments in Iran.
-
----
-
-### 2026-08-03 16:41:43  #MKT News
-
-Palestinian news agency reported Israeli settler militias have established a new settler outpost on Palestinian land near the town of Sa'ir in southern Hebron, West Bank.
-
----
-
-### 2026-08-03 16:41:28  #其他
-
-【兩部門：多場景建設智慧微電網】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，支援智慧微電網建設，與公共電網做好規劃銜接和調控協同。佈局建設一批源網荷儲協同的智慧微電網專案。完善相關技術標準和專案准入，明確智慧微電網與公共電網的物理邊界和責任邊界。提升智慧微電網新能源自發自用比例。
-
----
-
-### 2026-08-03 16:41:02  #其他
-
-【兩部門：打造堅強韌性配電系統】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，強化配電網規劃引領，推動配電網建設改造和智慧升級，加強市縣級配電網與新業態佈局規劃協同，升級配電網智慧調控體系。全面提升配電網供電保障能力，力爭實現單一通道縣域全停風險清零，著力解決配變過載、嚴重低電壓等供電質量問題。
-
----
-
-### 2026-08-03 16:40:49  #其他
-
-【兩部門：有序推進老舊小區、城中村等區域供配電設施規範化改造】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強城鎮配電網建設改造力度，有序推進老舊小區、城中村等區域供配電設施規範化改造，加快新建居民小區配套電網工程建設。推進非電網直供電小區治理，鼓勵具備條件的非直供電小區供電設施向供電企業整體移交。服務鄉村振興戰略實施，推動農村新型電網建設改造。支援縣域、民族地區、革命老區等特殊型別地區電力基礎設施建設。
-
----
-
-### 2026-08-03 16:40:45  #其他
-
-【兩部門：規劃建設海上輸電網路】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，開展海上輸電網路規劃研究，統籌資源條件和海洋經濟發展需求，集約化一體化佈局海纜廊道和登陸點，推動構建海上輸電網路，促進海上風電基地高效彙集送出和消納。
-
----
-
-### 2026-08-03 16:40:29  #其他
-
-【兩部門：增強充電服務保障能力】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，提升居住區充電樁報裝接電服務水平，推動實施一批居住區充電設施“統建統服”試點。持續最佳化充電場站環境，完善收費等資訊標識，提升設施執行維護水平，有效最佳化群眾充電體驗。
-
----
-
-### 2026-08-03 16:40:26  #其他
-
-【兩部門：完善區域主網架結構】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，堅持以區域電網為基礎、區域電網非同步互聯的全國電網格局。保證電網結構強度，分層分割槽最佳化各級電網主網架，推動電網交直流、送受端、各層級協調發展。
-
----
-
-### 2026-08-03 16:40:24  #MKT News #Important #Commodities #Energy #Market Regions #Greater China
-
-【CHINA STATE PLANNER, NEA issue 15th Five-Year new power system plan; cap low-load coal-consumption rise at 25%】CHINA STATE PLANNER and the NEA released the New Power System Construction 15th Five-Year Plan, directing wide‑load, high‑efficiency retrofits of operating coal‑fired units and capping increases in coal consumption rate under low‑load operation at 25%. The plan mandates region‑appropriate full‑load denitrification (SCR) retrofits for coal units and implementation of a batch of cross‑generation upgrade projects at the ~600 MW class. In eligible regions it supports construction of zero‑carbon/low‑carbon fuel co‑firing and carbon capture, utilization and storage (CCUS) projects. Regulators are to issue coal power–new energy integration policies, prioritise coal–renewable integration pilots, retrofit coal units for enhanced regulation/flexibility, and push system coupling and integrated dispatch to lower coal‑fired generation.
-
----
-
-### 2026-08-03 16:40:07  #其他
-
-【兩部門：因地制宜推進清潔取暖】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，修訂《熱電聯產管理辦法》。提升集中供暖清潔能源使用比重。推動核能清潔供暖、工業供汽。鼓勵推進煤電耦合新能源聯合供暖，鼓勵發展地熱能、太陽能、生物質能等可再生能源供暖。因地制宜推進工業餘熱等多種清潔取暖方式。
-
----
-
-### 2026-08-03 16:39:46  #MKT News #Market Regions #Emerging Markets
-
-Thailand's tourism ministry said year-to-date foreign tourist arrivals fell 3.2% YoY.
-
----
-
-### 2026-08-03 16:39:44  #其他
-
-【兩部門：積極推動煤電節能降碳】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動現役煤電機組實施寬負荷高效改造，低負荷執行工況的煤耗增幅控制在 25%以內。因地制宜推動實施燃煤機組全負荷脫硝改造。實施一批 60 萬千瓦等級跨代升級改造專案。
-
----
-
-### 2026-08-03 16:39:21  #MKT News #Commodities #Energy
-
-【China State Planner, NEA issue New Power System Construction '15th Five‑Year Plan' to bolster power supply for computing facilities】China State Planner and the National Energy Administration issued the New Power System Construction '15th Five‑Year Plan', directing measures to strengthen electricity supply security and meet high‑reliability power needs of various computing facilities. The plan mandates coordinated energy‑resource allocation and joint planning of compute and power projects to align electricity capacity with computing demand. It promotes source‑grid‑load‑storage integration and green‑power direct‑connection models tied to computing facilities, enables aggregated green‑power trading and local consumption to raise compute facilities' green‑power share, and calls for enhanced recovery and utilization of waste heat from computing facilities.
-
----
-
-### 2026-08-03 16:39:20  #其他
-
-【兩部門：提升晶片製造、精密儀器製造、生物醫藥等新質生產力供電質量】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，提升晶片製造、精密儀器製造、生物醫藥等新質生產力供電質量。持續提升電能質量綜合治理水平。深化“省力、省時、省錢”服務，鞏固提升“零上門、零審批、零投資”服務，更好保障企業使用者接電需求。全面推進“高效辦成一件事”，深化水電氣聯合報裝服務，推廣高頻供電業務聯辦，推進跨網辦、跨省辦等異地辦電服務，提升辦電便利度。
-
----
-
-### 2026-08-03 16:39:16  #MKT News #Market Regions #Europe & UK
-
-UK Financial Conduct Authority says it will exempt reporting requirements for 7 million financial instruments, saving firms about £32 million annually.
-
----
-
-### 2026-08-03 16:38:47  #公司
-
-【星源材質：子公司鼎源精密增資9900萬元，公司持股降至45%】星源材質公告稱，為促進全資子公司鼎源精密發展，擬透過增資擴股引入曾濤、武國彪等投資者，增資金額9900萬元。其中，公司部分放棄優先認繳權，增資4400萬元，持股比例由100%降至45%；曾濤等6位投資者增資5500萬元。增資後，鼎源精密註冊資本由100萬元增至1億元。因公司與各股東簽有《一致行動人協議》，鼎源精密仍納入公司合併報表。此次交易不構成關聯及重大資產重組，無需審議。
-
----
-
-### 2026-08-03 16:38:39  #公司
-
-【江淮汽車：截至7月31日累計回購股份212.07萬股 耗資5000.70萬元】江淮汽車公告稱，公司擬以5000萬元-10000萬元自有資金回購股份並登出以減少註冊資本，回購價不超64元/股，實施期限為2026年7月1日至9月30日。截至7月31日，公司已累計回購股份212.07萬股，佔總股本的0.0941%，成交最高價26.19元/股，最低價21.40元/股，支付總金額5000.70萬元（不含交易費用）。
-
----
-
-### 2026-08-03 16:38:34  #MKT News
-
-【China State Planner, National Energy Administration issue plan to improve rules for new power-market participants】China State Planner and the National Energy Administration issued the 15th Five-Year Plan for New Power System Construction, proposing a '1+N' basic-rule framework for the power market and tighter alignment of national and local rules. The plan aims to broaden participation by new market entities, normalize cross-grid trading and gradually reduce proxy (agency) power procurement. It calls for improved ancillary services markets and exploration of a capacity market, deeper electricity price reform and market-based pricing for hydro, nuclear and gas generation. The plan proposes exploring two-part or single-capacity transmission pricing for cross-provincial special projects, implementing price mechanisms to support nearby consumption of renewables, refining transmission-and-distribution tariff incentives and constraints to steer grid investment, studying pricing for offshore wind evacuation, and optimizing residential tiered tariffs while promoting residential time-of-use pricing.
-
----
-
-### 2026-08-03 16:38:33  #其他
-
-【兩部門：強化電力行業“人工智慧+”基礎理論研究與應用】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，加強電力行業資料資源開發利用，統籌推進人工智慧賦能新型電力系統建設，推動電力行業全環節、全流程的數字化、智慧化升級。強化電力行業“人工智慧+”基礎理論研究與應用，圍繞典型應用場景開展試點，打造一批可複製、可推廣的標杆案例。
-
----
-
-### 2026-08-03 16:38:25  #宏觀 #國際
-
-印尼財政部維持2026財年GDP增長預期在5.6%-6%之間。
-
----
-
-### 2026-08-03 16:38:07  #MKT News
-
-UK Financial Conduct Authority (FCA) will shorten the window for correcting historical reporting errors from five years to three years.
-
----
-
-### 2026-08-03 16:37:56  #MKT News
-
-UK Financial Conduct Authority (FCA) said new transaction reporting rules will take effect on 3 April 2028.
-
----
-
-### 2026-08-03 16:37:50  #MKT News #Market Regions #Greater China #Commodities #Energy #Copper #Impact bullish
-
-【CHINA STATE PLANNER, National Energy Administration target ~110 GW nuclear capacity by 2030】CHINA STATE PLANNER and the National Energy Administration issued the New Power System Construction 15th Five-Year Plan, targeting about 110 GW of nuclear capacity by 2030 and roughly 65 GW of combined biomass, concentrated solar (CSP), geothermal and ocean power capacity. The plan calls for defining coastal nuclear-base layouts and construction sequencing, scaling nuclear builds, advancing R&D, demonstration and deployment of next‑generation nuclear technologies, lowering small modular reactor (SMR) costs, promoting nuclear cogeneration and commercial-model innovation, and accelerating large-scale CSP, regionally tailored biomass and geothermal projects and marine-energy utilization.
-
----
-
-### 2026-08-03 16:37:48  #其他 #焦點
-
-【兩部門：增強電力供應保障能力，滿足各類算力設施高可靠供電需要】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，增強電力供應保障能力，滿足各類算力設施高可靠供電需要。統籌能源資源配置與算力設施建設，協同規劃佈局算力、電力專案，做到以電強算、以算促電。依託算力設施發展源網荷儲一體化、綠電直連等新模式，實現綠電聚合交易、就地消納，提高算力設施綠電佔比。加強算力設施餘熱資源回收利用。
-
----
-
-### 2026-08-03 16:37:42  #MKT News #FTSE100 #Impact bullish
-
-The UK's Financial Conduct Authority has finalised rules that will cut firms' transaction-reporting costs by more than £100 million a year.
-
----
-
-### 2026-08-03 16:37:31  #其他
-
-【兩部門：到2030年，西電東送規模超過4.2億千瓦】國家發展改革委、國家能源局印發《新型電力系統建設“十五五”規劃》。其中提出，著力推動電力流向佈局最佳化。推動存量直流輸電通道改造升級。落實國家區域發展戰略和全國電力流向最佳化佈局總體方案，逐步形成東北、中北、西北“沙戈荒”基地群和西南水風光一體化基地群向東中部、川渝和南方負荷中心地區送電，海上風電基地和沿海核電基地就近消納的電力流向總體格局。加快推動“十四五”時期已納規輸電通道盡早建成投運。到2030年，西電東送規模超過4.2億千瓦。開展“沙戈荒”等100%新能源外送輸電工程試點。
-
----
-
-### 2026-08-03 16:37:26  #其他
-
-【兩部門：推動電力與交通融合發展】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動電力與交通基礎設施共享通道、管廊、杆塔等資源，依託周邊用地開發新能源，最佳化配置靈活調節資源，協同佈局輸電網路。有序推動交通運輸電氣化和低碳化轉型，發展依託新能源的岸電系統和港口微電網。
-
----
-
-### 2026-08-03 16:37:16  #MKT News
-
-UBS Global Wealth Management downgraded South Korea equities from Attractive to Neutral.
-
----
-
-### 2026-08-03 16:37:08  #MKT News #Important #Commodities #Energy #Copper #Impact bullish #CNH #Impact mixed #SSE Composite
-
-【China state planner and National Energy Administration target about 410 GW of conventional hydropower by 2030】China's state planner and the National Energy Administration issued the 15th Five-Year plan for building a new-type power system, directing commissioning of hydropower projects in key basins including the upper Jinsha, upper Lancang, middle Yalong and Dadu rivers, and calling for safe, orderly advancement of major works on the lower Yarlung Tsangpo. The plan seeks to strengthen hydropower's peaking, regulation and stability roles and to widen dispatchable and flexible output, targeting roughly 410 GW of conventional hydropower installed capacity by 2030.
-
----
-
-### 2026-08-03 16:36:59  #其他
-
-【雲南大理州洱源縣發生3.2級地震 震源深度7公里】中國地震臺網正式測定：8月3日16時25分，在雲南大理州洱源縣（北緯26.13度，東經99.86度）發生3.2級地震，震源深度7公里。（央視新聞）
-
----
-
-### 2026-08-03 16:36:52  #其他
-
-【兩部門：完善新型主體參與電力市場的制度】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，健全“1+N”電力市場基礎規則體系。強化地方規則與國家規則的對接和統一。完善新型主體參與電力市場的制度。持續完善跨電網經營區常態化交易。逐步縮小代理購電規模。完善輔助服務市場機制，探索容量市場機制建設。深化電力價格機制改革。推進水電、核電、氣電上網電價市場化改革。探索跨省區專項工程實行兩部制或單一容量制輸電價格。落實支援新能源就近消納的價格機制。完善輸配電價對電網投資激勵約束機制。研究海上風電送出工程相關價格機制。最佳化居民階梯電價制度，推廣居民分時電價機制。
-
----
-
-### 2026-08-03 16:36:41  #其他
-
-【歐足聯：將就國際足聯商業計劃採取法律行動】歐足聯當地時間8月3日表示，將就國際足聯此前擬出售世界盃等賽事商業權益部分股權的改革計劃採取法律行動。國際足聯主席因凡蒂諾已於日前宣佈擱置該計劃，但圍繞該計劃的爭議仍在持續。 (央視新聞)
-
----
-
-### 2026-08-03 16:36:35  #MKT News #Important #Market Regions #Europe & UK
-
-Russia's Foreign Intelligence Service (SVR) says the EU plans to let Kyiv participate in European security policy discussions but without voting rights.
-
----
-
-### 2026-08-03 16:36:20  #宏觀
-
-【國家發改委兩部門：到2030年新型電力系統初步建成，非化石能源發電量佔比達到50%】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦以上新能源高水平消納，建成可支撐超過1.1億輛電動汽車出行的充電基礎設施網路。新型電力系統體制機制更加完善，全國統一電力市場體系基本建成。
-
----
-
-### 2026-08-03 16:36:02  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish #CSI300 #CNH
-
-【CHINA STATE PLANNER, National Energy Administration set 2030 new power system plan; 50% non-fossil generation target】CHINA STATE PLANNER and the National Energy Administration issued a plan to preliminarily build a new power system by 2030, targeting non‑fossil sources to supply 50% of electricity generation. The plan calls for a secure, low‑carbon, resilient and smart grid, stronger supply capacity and improved system flexibility to keep power adequacy at reasonable levels for economic and social needs. It aims to enable high‑level integration and utilization of renewables—accommodating more than 2.8 billion kW (≈2,800 GW) of new energy capacity—and to build charging infrastructure to support over 110 million electric vehicles. Institutional reforms include more complete system mechanisms and the basic establishment of a nationwide unified electricity market.
-
----
-
-### 2026-08-03 16:35:31  #其他
-
-【新型電力系統建設“十五五”規劃：積極安全有序發展核電 到2030年核電裝機約1.1億千瓦】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，積極安全有序發展核電，科學確定沿海核電基地佈局和建設時序。推動核電規模化建設，積極推進新一代核電技術研發示範和推廣應用。多措並舉降低小型堆成本，加強核能綜合利用和商業模式創新。到2030年，核電裝機約1.1億千瓦。
-
----
-
-### 2026-08-03 16:35:29  #MKT News #Important
-
-Russia's foreign intelligence service (SVR) says European leaders are explicitly denying the prospect of Ukraine joining the EU, citing concerns that Ukrainian integration would impose excessive economic and political risks on a "unified Europe".
-
----
-
-### 2026-08-03 16:34:43  #其他
-
-英國金融行為監管局：將歷史報告錯誤更正期限從5年縮短至3年。
-
----
-
-### 2026-08-03 16:34:33  #公司
-
-【榮昌生物：累計回購13000股，支付142.82萬元】榮昌生物公告，公司於2026年7月19日審議透過回購方案，擬以不低於2500萬元且不超過5000萬元回購股份，用於員工持股計劃或股權激勵，回購價格不超過149元/股。截至2026年7月31日，公司累計回購股份13000股，佔總股本比例0.0023%，成交最高價109.99元/股，最低價109元/股，支付資金總額142.82萬元（不含交易費用）。
-
----
-
-### 2026-08-03 16:34:24  #公司
-
-【姚記科技：截至7月底累計回購1999.77萬元股份】姚記科技公告稱，公司於2026年5月21日經2025年年度股東會審議透過回購股份方案，擬以3000萬-5000萬元回購股份用於登出並減少註冊資本。截至2026年7月31日，公司累計回購股份106.58萬股，約佔總股本的0.26%，最高成交價為20.39元/股，最低成交價為17.84元/股，成交總金額為1999.77萬元（不含交易費用）。後續將繼續實施回購方案並及時披露。
-
----
-
-### 2026-08-03 16:34:21  #公司 #市場
-
-【海利得：截至7月底累計耗資1.06億元回購1.75%股份】海利得公告稱，公司於2026年6月1日透過以集中競價交易方式回購股份方案，回購總額不低於1.5億元（含）且不超過3億元（含）。截至7月31日收盤，公司累計回購股份2031.92萬股，佔公司目前總股本的1.75%，成交金額為1.06億元（不含交易費用），最高成交價為5.51元/股，最低成交價為5.08元/股。後續將根據市場情況擇機實施回購計劃。
-
----
-
-### 2026-08-03 16:34:11  #公司
-
-【比依股份：擬500萬元認購私募基金3.33%份額】比依股份公告稱，公司擬以自有資金500萬元認購廈門星奇明圖創業投資合夥企業有限合夥份額，佔比3.3333%。該合夥企業主要對新興領域創業企業進行股權投資，基金規模1.5億元。本次交易不構成關聯交易和重大資產重組，已透過公司總經辦會議審議。不過，相關協議尚未簽署，合夥企業需完成備案，且投資存在無法達預期等風險，公司風險敞口不超500萬元。
-
----
-
-### 2026-08-03 16:34:05  #國際
-
-瑞銀環球財富管理將韓國股票評級從“看好”下調至“中性”。
-
----
-
-### 2026-08-03 16:34:01  #其他
-
-日產維持本財年匯率假設：1 美元兌 150 日元。
-
----
-
-### 2026-08-03 16:33:55  #MKT News #Important #Market Regions #Greater China #Copper #Impact bullish
-
-China's National Development and Reform Commission and National Energy Administration released the 15th Five-Year Plan for New Power System Construction.
-
----
-
-### 2026-08-03 16:33:34  #其他
-
-英國金融行為監管局最終敲定新規，每年可為企業削減逾1億英鎊的交易報告成本。
-
----
-
-### 2026-08-03 16:33:18  #公司
-
-【賽特新材：累計斥資5001.58萬元回購1.23%股份】賽特新材公告稱，公司2026年7月6日至7月21日，以集中競價交易方式累計回購股份207萬股，佔總股本1.23%，成交最高價25.63元/股、最低價18.59元/股，已支付總金額5001.58萬元（不含交易費用）。本次回購用於員工持股計劃或股權激勵，期限自2026年6月22日至2027年6月15日，擬回購資金5000萬元至10000萬元。
-
----
-
-### 2026-08-03 16:33:18  #MKT News #MU.O #Impact bearish
-
-Micron Technology (MU.O) shares down 1.5% in pre-market trading.
 
 ---
