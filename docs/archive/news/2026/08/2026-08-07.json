@@ -1,7 +1,93 @@
 {
   "date": "2026-08-07",
-  "count": 776,
+  "count": 786,
   "items": [
+    {
+      "id": "mkt:019fda66-a0ec-7aab-8faf-6d373ed585ae",
+      "time": "2026-08-07 12:06:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai police say a campus shooter has committed suicide."
+    },
+    {
+      "id": "5030022",
+      "time": "2026-08-07 12:06:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "住友製藥：將針對不準確或誤導性資訊採取適當行動，包括在必要時採取法律行動。"
+    },
+    {
+      "id": "mkt:019fda66-4245-7aab-8faf-60352aa75e94",
+      "time": "2026-08-07 12:06:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, India hold 36th border consultation and coordination meeting】Aug 6, 2026, New Delhi — China and India held the 36th meeting of the border affairs consultation and coordination mechanism. Hou Yanqi, director of the Chinese MFA Department of Boundary and Ocean Affairs, and Gao Shi, joint secretary of India’s Ministry of External Affairs East Asia division, co‑chaired. Officials from foreign, defense, interior and immigration ministries attended. The sides exchanged views on implementing consensus from the 24th meeting of special representatives, agreed to jointly prepare for the 25th meeting of special representatives, and discussed delimitation, border management, mechanism building and cross‑border cooperation. Both sides agreed to maintain diplomatic and military channels to preserve peace and stability in border areas."
+    },
+    {
+      "id": "5030021",
+      "time": "2026-08-07 12:05:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "住友製藥：公司嚴肅對待8月3日報告對投資者決策的潛在影響。"
+    },
+    {
+      "id": "5030020",
+      "time": "2026-08-07 12:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "住友製藥 ：高譚市研究公司8月3日的報告包含大量明顯與事實不符的陳述。"
+    },
+    {
+      "id": "5030019",
+      "time": "2026-08-07 12:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中印邊境事務磋商和協調工作機制第36次會議新聞稿】2026年8月6日，外交部邊界與海洋事務司司長侯豔琪同印度外交部東亞司聯秘高士在印度新德里共同主持中印邊境事務磋商和協調工作機制第36次會議，兩國外交、國防、內政、移民等部門代表參加。雙方本著坦誠、友好態度開展建設性對話，就進一步落實中印邊界問題特別代表第24次會晤共識深入交換意見，同意共同籌備好中印邊界問題特別代表第25次會晤。雙方並討論了劃界、邊境管控、機制建設、跨境合作等議題。雙方同意保持外交軍事渠道溝通，共同維護邊境地區和平安寧。（外交部）"
+    },
+    {
+      "id": "5030018",
+      "time": "2026-08-07 12:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【挪威報告多起北極馴鹿異常死亡 】挪威地方政府6日報告，在位於北極圈內的斯瓦爾巴群島發現十餘起原因不明的馴鹿死亡事件。這一現象在夏季被認為高度異常。當地政府在年度清點工作中發現，斯瓦爾巴群島兩處山谷中13頭馴鹿於近期死亡，其中雌鹿11頭、雄鹿2頭。那裡距離北極點約1000公里。“育齡雌馴鹿和成年雄馴鹿在夏季死亡的情況非常罕見。正因如此，我們希望密切關注事態發展。”當地政府通報說。這些馴鹿的死亡原因尚待查明。當地政府呼籲民眾如發現更多死鹿應立即上報。（新華社）"
+    },
+    {
+      "id": "mkt:019fda64-047b-7aab-8faf-5cd024d9e633",
+      "time": "2026-08-07 12:03:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai media reported a school shooting in Nonthaburi province on the morning of the 7th that killed 2 and injured about 20; the shooter remains holed up near the school. (Xinhua)"
+    },
+    {
+      "id": "5030017",
+      "time": "2026-08-07 12:02:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【交易員：在美國非農就業公佈前對沖基金買入美元/日元看跌期權】交易員表示，對沖基金在美國就業資料公佈前買入短期美元/日元看跌期權。交易員：期限最長1周。美元/日元穩定在158.44附近。部分資訊來自了解交易情況的外匯交易員，因未獲授權公開發言他們要求匿名。"
+    },
+    {
+      "id": "mkt:019fda62-ead1-7aab-8faf-51f3cc847250",
+      "time": "2026-08-07 12:02:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "00100.HK",
+        "02513.HK"
+      ],
+      "text": "【Hong Kong midday: HSI up 0.15%, Hang Seng Tech up 0.34%】At the midday session Hong Kong stocks rose; the Hang Seng Index (HSI) was up 0.15% and the Hang Seng Tech Index up 0.34%. Morning turnover reached HKD 141.185 billion. Sector winners included PCB, commercial space, pharma outsourcing (CRO/CMO), memory/storage and chip names; agriculture and online education lagged. Stock movers: MINIMAX-W (00100.HK) and Zhipu (02513.HK) rose over 17%, GigaDevice (03986.HK) up over 8%, Goldwind (02208.HK) up over 7%, WuXi Biologics (02269.HK) up over 6%, Xinyi Solar (00968.HK) up nearly 6%. SenseTime (00020.HK) fell over 4%, Laopu Gold (06181.HK) down over 3%, New Oriental (09901.HK) down over 2%."
+    },
     {
       "id": "te:markets:573597",
       "time": "2026-08-07 12:01:26",
