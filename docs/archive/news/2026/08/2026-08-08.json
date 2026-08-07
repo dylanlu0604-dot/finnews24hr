@@ -1,7 +1,54 @@
 {
   "date": "2026-08-08",
-  "count": 117,
+  "count": 122,
   "items": [
+    {
+      "id": "5031477",
+      "time": "2026-08-08 01:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特汽車打算新推四個版本的Mustang四門車型。"
+    },
+    {
+      "id": "te:economy:573876",
+      "time": "2026-08-08 01:59:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Dominican Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Dominican Republic Inflation Eases Slightly — The annual inflation rate in the Dominican Republic eased slightly to 5.47% in July 2026 from 5.67% in June. The strongest price pressures were recorded in restaurants and hotels (8.15%), transport (7.95%), food and non-alcoholic beverages (6.75%), education (6.52%), and alcoholic beverages and tobacco (5.1%). In contrast, prices fell for clothing and footwear (-1.29%) and communications (-1.4%). On a monthly basis, consumer prices rose 0.19%, slowing from a 0.51% increase in June. Year-to-date inflation reached 2.21%, while core inflation stood at 4.96% year-on-year."
+    },
+    {
+      "id": "5031476",
+      "time": "2026-08-08 01:57:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "SpaceX ：回收團隊仍在印度洋進行第13次飛行任務的星艦回收工作。 回收團隊正克服惡劣環境與愈發洶湧的海面，嘗試將這艘 52 米長的航天器引導至港口。"
+    },
+    {
+      "id": "5031475",
+      "time": "2026-08-08 01:56:41",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【白宮顧問稱特朗普與沃什經常談經濟 總統尊重美聯儲獨立性】白宮國家經濟委員會主任凱文·哈塞特表示，總統唐納德·特朗普與美聯儲主席凱文·沃什經常討論經濟。這位白宮最高經濟顧問週五的表態進一步透露了沃什5月就任美聯儲主席以來與特朗普通話的內容和範圍。哈塞特表示，他並未參與這些通話，但堅稱自己“確信”總統不會就利率決定向這位美聯儲主席施壓。“凱文·沃什和總統長期以來關係非常密切，兩人在紐約和佛羅里達都有來往，他們一直都會討論經濟，”哈塞特接受採訪時表示，“我也會和凱文交流，斯科特·貝森特也會，所以這其實算不上什麼新聞。”哈塞特表示，特朗普“尊重美聯儲的獨立性”。歷任總統和美聯儲主席也曾通話和會面，但並不常見。通常情況下，美聯儲主席與政府之間的主要聯絡人是財政部長，兩人幾乎每週都會共進早餐。美聯儲主席也會定期與國家經濟委員會主任溝通。“事實是，現在美聯儲有一位總統百分之百確信會根據資料作出正確決定、而不會玩黨派政治的人，”哈塞特表示。"
+    },
+    {
+      "id": "mkt:019fdd5e-9386-7aab-8fbf-92330892005b",
+      "time": "2026-08-08 01:56:30",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) recovery team remains in the Indian Ocean conducting recovery operations for Starship's 13th flight."
+    },
     {
       "id": "mkt:019fdd59-b567-7aab-8fbf-8abefe08b864",
       "time": "2026-08-08 01:51:11",
