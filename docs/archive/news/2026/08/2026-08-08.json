@@ -1,7 +1,58 @@
 {
   "date": "2026-08-08",
-  "count": 96,
+  "count": 102,
   "items": [
+    {
+      "id": "5031466",
+      "time": "2026-08-08 01:31:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾：任命迪恩·賈納克（Dean Jarnac）為執行副總裁兼首席銷售官。格雷格·恩斯特（Greg Ernst）將在任職27年後離開英特爾。"
+    },
+    {
+      "id": "5031465",
+      "time": "2026-08-08 01:31:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：財政部制裁為伊朗伊斯蘭革命衛隊提供資金、助長非法金融活動的加密貨幣交易所。"
+    },
+    {
+      "id": "mkt:019fdd47-1f24-7aab-8fbf-56d0debf160c",
+      "time": "2026-08-08 01:30:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Intel (INTC.O) appointed Dean Jarnac as executive vice president and chief sales officer."
+    },
+    {
+      "id": "5031464",
+      "time": "2026-08-08 01:30:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "據俄羅斯國防部通報：過去一日內，俄防空系統在俄聯邦多個地區、黑海以及亞速海上空擊落 75 架烏克蘭無人機。"
+    },
+    {
+      "id": "5031463",
+      "time": "2026-08-08 01:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "監測資料：地震過後，委內瑞拉拉瓜伊拉港船舶裝卸作業量出現回升。"
+    },
+    {
+      "id": "mkt:019fdd45-828b-7aab-8fbf-4dfbd3b93723",
+      "time": "2026-08-08 01:29:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Lebanese official says France has been excluded from the list of countries slated to send troops to oversee Hezbollah's disarmament."
+    },
     {
       "id": "mkt:019fdd40-7946-7aab-8fbf-46f99f1796f5",
       "time": "2026-08-08 01:23:37",
