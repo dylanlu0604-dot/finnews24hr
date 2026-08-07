@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-07 23:30:08",
-  "count": 16058,
+  "updated": "2026-08-07 23:34:09",
+  "count": 16053,
   "items": [
+    {
+      "id": "5031413",
+      "time": "2026-08-07 23:30:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德國股市本週漲超2%】德國DAX 30指數初步收漲0.87%，報26368.48點，本週累計上漲大約2.8%。法國股指初步收漲0.38%，義大利股指初步收漲0.11%、銀行指數跌0.17%，英國股指初步收漲0.44%。"
+    },
+    {
+      "id": "5031412",
+      "time": "2026-08-07 23:30:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐元區藍籌股指在非農日漲約0.4%，本週漲超4%】歐洲STOXX 600指數初步收漲0.42%，報660.97點，本週累計上漲大約1.8%。歐元區STOXX 50指數初步收漲0.45%，報6531.80點，非農就業報告發布後一度達到6559.99點，本週累漲約4.2%。富時泛歐績優300指數初步收漲0.43%，報2641.28點。"
+    },
     {
       "id": "5031411",
       "time": "2026-08-07 23:29:18",
@@ -146378,68 +146395,6 @@
         "公司"
       ],
       "text": "雪佛龍CEO：公司正與多方洽談，擬參與建設可能連通伊拉克境外的輸油管道專案。"
-    },
-    {
-      "id": "5019720",
-      "time": "2026-07-31 23:33:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【谷澍會見哈薩克國家銀行行長蘇萊曼諾夫、金融市場監管和發展署署長阿貝爾卡瑟莫娃】7月31日，中國銀行業協會會長、農業銀行董事長谷澍會見了哈薩克國家銀行行長蘇萊曼諾夫、金融市場監管和發展署署長阿貝爾卡瑟莫娃一行。中國銀行業協會專職副會長邢煒參加會見。谷澍介紹了農業銀行整體情況，並表示在兩國元首引領下，中哈兩國銀行業建立了廣泛合作關係，農業銀行願發揮自身優勢，不斷提升對哈跨境金融合作的層次和水平。（中國農業銀行）"
-    },
-    {
-      "id": "mkt:019fb8ce-876e-7aab-8f39-c3479b9c4753",
-      "time": "2026-07-31 23:32:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Islamic Republic of Iran Broadcasting (IRIB) reports an explosion in Kuwait."
-    },
-    {
-      "id": "5019719",
-      "time": "2026-07-31 23:32:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收漲0.31%，報25692.28點。法國股指初步收漲0.60%，義大利股指初步收漲0.22%、銀行指數漲0.45%，英國股指初步收跌0.07%。"
-    },
-    {
-      "id": "5019718",
-      "time": "2026-07-31 23:32:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.14%，報650.84點。歐元區STOXX 50指數初步收漲0.43%，報6371.56點。富時泛歐績優300指數初步收漲0.14%，報2601.04點。"
-    },
-    {
-      "id": "5019717",
-      "time": "2026-07-31 23:31:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "利安德巴塞爾：受衝突影響的價格波動以及亞洲運費上漲，令套利視窗關閉，進而推升美國與歐洲石化原料需求。"
-    },
-    {
-      "id": "5019716",
-      "time": "2026-07-31 23:30:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：科威特發生多起爆炸。"
-    },
-    {
-      "id": "te:economy:571823",
-      "time": "2026-07-31 23:30:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Canada Budget Deficit Shrinks in May — Canada's federal budget deficit narrowed to CAD 0.31 billion in May 2026 from CAD 2.2 billion in the same month a year earlier. Revenues increased 12.6% year-on-year to CAD 41.94 billion, driven primarily by higher income and excise tax receipts. Meanwhile, program expenses, excluding net actuarial losses, rose 6.2% to CAD 36.68 billion, reflecting higher direct program spending and larger transfers to persons, partly offset by lower transfers to provinces, territories and municipalities. Public debt charges increased 12.7% to CAD 5.16 billion due to higher effective interest rates on a larger stock of marketable bonds. Net actuarial losses rose 23.9% to CAD 415 million, remaining unchanged from the previous month. The budgetary deficit before net actuarial losses was CAD 0.1 billion, compared to a deficit of CAD 1.86 billion in the same period a year earlier."
     }
   ]
 }
