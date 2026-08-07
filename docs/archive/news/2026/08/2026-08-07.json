@@ -1,7 +1,109 @@
 {
   "date": "2026-08-07",
-  "count": 2641,
+  "count": 2652,
   "items": [
+    {
+      "id": "5031355",
+      "time": "2026-08-07 22:25:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國個人投資者協會調查：散戶樂觀情緒突然升溫，但仍低於歷史平均水平】根據美國個人投資者協會（AAII）最新一期周度調查，越來越多的散戶投資者看好未來六個月股市表現，但樂觀比例仍低於歷史平均水平，這已是過去四周內第三次出現該情況。 看漲投資者比例從上週的31%升至37%，接近但略低於37.5%的歷史平均水平。看跌投資者比例從上週的42.2%下降至38%，但已連續第六個月（26周）高於31.5%的歷史平均水平。持中性觀點的投資者比例從26.9%降至25%，這是過去23週中第22次低於31.0%的歷史平均水平。 AAII本週針對利率政策的特別調查顯示，主街投資者並未普遍呼籲美聯儲降息。55.1%的受訪者認為，美聯儲上週維持隔夜貸款利率不變的決定是正確的；30.6%的投資者認為美聯儲應該加息。 相比之下，認為美聯儲應該降息的投資者比例僅為5.6%，低於表示“不確定或沒有看法”的8.7%。"
+    },
+    {
+      "id": "mkt:019fdc9c-6226-7aab-8fbc-c50ef7806ef1",
+      "time": "2026-08-07 22:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Uzbekistan said its president spoke by phone with U.S. President Trump."
+    },
+    {
+      "id": "mkt:019fdc9c-2f08-7aab-8fbc-b92a86757769",
+      "time": "2026-08-07 22:24:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said it is not surprising that other Fed officials have new ideas, and that the chair is engaging thoughtfully in discussions."
+    },
+    {
+      "id": "mkt:019fdc9c-2971-7aab-8fbc-b3fc42470d84",
+      "time": "2026-08-07 22:24:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "BARKIN said the Fed will keep inf at 2%."
+    },
+    {
+      "id": "5031354",
+      "time": "2026-08-07 22:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏茲別克官方：烏茲別克總統與特朗普通通話。"
+    },
+    {
+      "id": "5031353",
+      "time": "2026-08-07 22:23:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：沃什對美聯儲提出新觀點並不意外，主席正審慎吸納各方想法。"
+    },
+    {
+      "id": "mkt:019fdc9b-3153-7aab-8fbc-ad127fc71ea8",
+      "time": "2026-08-07 22:23:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Barkin said he agrees with Fed chair Kevin Warsh that inflation must return to target."
+    },
+    {
+      "id": "mkt:019fdc9a-fcd0-7aab-8fbc-a525356d4757",
+      "time": "2026-08-07 22:22:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Barkin on inflation said if the Fed faces headwinds, it would need to tighten policy."
+    },
+    {
+      "id": "5031352",
+      "time": "2026-08-07 22:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空將於2027年3月新開通西雅圖‑東京成田航線。"
+    },
+    {
+      "id": "5031351",
+      "time": "2026-08-07 22:22:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：贊同沃什的觀點，即通脹必須迴歸目標水平。"
+    },
     {
       "id": "5031350",
       "time": "2026-08-07 22:21:59",
@@ -28,6 +130,14 @@
         "焦點"
       ],
       "text": "玻璃連續主力合約日內漲2%，現報902.00元。"
+    },
+    {
+      "id": "5031347",
+      "time": "2026-08-07 22:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院暫停阻止宴會廳專案的命令14天，以便特朗普政府向美國最高法院提起上訴。"
     },
     {
       "id": "5031346",

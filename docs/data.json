@@ -1,7 +1,109 @@
 {
-  "updated": "2026-08-07 22:22:50",
-  "count": 16082,
+  "updated": "2026-08-07 22:26:53",
+  "count": 16089,
   "items": [
+    {
+      "id": "5031355",
+      "time": "2026-08-07 22:25:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國個人投資者協會調查：散戶樂觀情緒突然升溫，但仍低於歷史平均水平】根據美國個人投資者協會（AAII）最新一期周度調查，越來越多的散戶投資者看好未來六個月股市表現，但樂觀比例仍低於歷史平均水平，這已是過去四周內第三次出現該情況。 看漲投資者比例從上週的31%升至37%，接近但略低於37.5%的歷史平均水平。看跌投資者比例從上週的42.2%下降至38%，但已連續第六個月（26周）高於31.5%的歷史平均水平。持中性觀點的投資者比例從26.9%降至25%，這是過去23週中第22次低於31.0%的歷史平均水平。 AAII本週針對利率政策的特別調查顯示，主街投資者並未普遍呼籲美聯儲降息。55.1%的受訪者認為，美聯儲上週維持隔夜貸款利率不變的決定是正確的；30.6%的投資者認為美聯儲應該加息。 相比之下，認為美聯儲應該降息的投資者比例僅為5.6%，低於表示“不確定或沒有看法”的8.7%。"
+    },
+    {
+      "id": "mkt:019fdc9c-6226-7aab-8fbc-c50ef7806ef1",
+      "time": "2026-08-07 22:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Uzbekistan said its president spoke by phone with U.S. President Trump."
+    },
+    {
+      "id": "mkt:019fdc9c-2f08-7aab-8fbc-b92a86757769",
+      "time": "2026-08-07 22:24:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said it is not surprising that other Fed officials have new ideas, and that the chair is engaging thoughtfully in discussions."
+    },
+    {
+      "id": "mkt:019fdc9c-2971-7aab-8fbc-b3fc42470d84",
+      "time": "2026-08-07 22:24:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "BARKIN said the Fed will keep inf at 2%."
+    },
+    {
+      "id": "5031354",
+      "time": "2026-08-07 22:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏茲別克官方：烏茲別克總統與特朗普通通話。"
+    },
+    {
+      "id": "5031353",
+      "time": "2026-08-07 22:23:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：沃什對美聯儲提出新觀點並不意外，主席正審慎吸納各方想法。"
+    },
+    {
+      "id": "mkt:019fdc9b-3153-7aab-8fbc-ad127fc71ea8",
+      "time": "2026-08-07 22:23:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Barkin said he agrees with Fed chair Kevin Warsh that inflation must return to target."
+    },
+    {
+      "id": "mkt:019fdc9a-fcd0-7aab-8fbc-a525356d4757",
+      "time": "2026-08-07 22:22:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Barkin on inflation said if the Fed faces headwinds, it would need to tighten policy."
+    },
+    {
+      "id": "5031352",
+      "time": "2026-08-07 22:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空將於2027年3月新開通西雅圖‑東京成田航線。"
+    },
+    {
+      "id": "5031351",
+      "time": "2026-08-07 22:22:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：贊同沃什的觀點，即通脹必須迴歸目標水平。"
+    },
     {
       "id": "5031350",
       "time": "2026-08-07 22:21:59",
@@ -28,6 +130,14 @@
         "焦點"
       ],
       "text": "玻璃連續主力合約日內漲2%，現報902.00元。"
+    },
+    {
+      "id": "5031347",
+      "time": "2026-08-07 22:21:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院暫停阻止宴會廳專案的命令14天，以便特朗普政府向美國最高法院提起上訴。"
     },
     {
       "id": "5031346",
@@ -146636,46 +146746,6 @@
         "Energy"
       ],
       "text": "Hungary's prime minister Magyar said a nuclear power plant will cut output further and is expected to be completely offline next Tuesday and Wednesday."
-    },
-    {
-      "id": "5019643",
-      "time": "2026-07-31 22:26:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【三部門負責人就《國務院關於出境入境管理的規定》答記者問】日前，國務院總理李強簽署第841號國務院令，公佈《國務院關於出境入境管理的規定》，自2026年9月15日起施行。司法部、公安部、國家移民局負責人就規定的有關問題回答了記者提問。（新華社）"
-    },
-    {
-      "id": "te:markets:571803",
-      "time": "2026-07-31 22:23:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Reverse Course — US equities swung lower on Friday as chip producers erased their gains, while a fresh increase in long-term Treasury yields pressured broader sectors. The S&P 500, Dow, and Nasdaq 100 were around 0.4% down, with the latter having reached a 1.6% jump after the open. Apple tanked nearly 10% as the shortage for chips raised costs and dented production in the June quarter, denting earnings. Conversely, Amazon surged 13% after beating expectations on its cloud-computing arm. Micron, Sandisk, and Qualcomm reversed to losses of between 3% and 6%, reflecting uncertainty on volatility around AI trades. Meanwhile, broader sectors also fell with Netflix and Eli Lilly falling 3% each. The 30-year Treasury yield surged further to 19-year highs on concerns that Kevin Warsh's FOMC could refrain from raising rates to fight inflation. Also, ExxonMobil sank 3% as limited refinery capacity prevented the oil giant form higher windfalls in oil profits last quarter."
-    },
-    {
-      "id": "5019642",
-      "time": "2026-07-31 22:22:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍還打擊了敖德薩的燃料儲罐與煉油廠。"
-    },
-    {
-      "id": "te:economy:571802",
-      "time": "2026-07-31 22:22:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "German Bund Yields Surge as ECB Rate Hike Bets Intensify — Germany's 10-year Bund yield climbed toward 3.2%, approaching the 15-year high reached last week and posting a gain of more than 30 basis points in July, its largest monthly increase since March. The policy-sensitive two-year Bund yield also rose over 25 basis points as investors ramped up bets on further ECB rate hikes amid concerns that the Middle East conflict could fuel longer-term inflation. Money markets now fully price the ECB's deposit rate at 2.75% by early 2027, implying two additional rate hikes, with the first potentially as soon as September. Expectations were reinforced by stronger-than-expected eurozone data, with the economy expanding 0.4% in the second quarter, above forecasts of 0.2% and marking its fastest growth since early 2025. Annual inflation also accelerated to 2.9% in July, while core and services inflation strengthened. In the US, the Federal Reserve left interest rates unchanged this week, with markets expecting two rate hikes by June next year."
     }
   ]
 }
