@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-07 23:42:18",
-  "count": 16043,
+  "updated": "2026-08-07 23:46:25",
+  "count": 16036,
   "items": [
+    {
+      "id": "mkt:019fdce5-445c-7aab-8fbd-becd6436bda3",
+      "time": "2026-08-07 23:44:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CFO said there is potential to increase production capacity by 270,000 b/d in H2 2026."
+    },
+    {
+      "id": "mkt:019fdce4-b1a5-7aab-8fbd-b61c2f667414",
+      "time": "2026-08-07 23:43:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump has nominated lawyer Danielle Tuman Seavers to serve as a commissioner of the US Federal Communications Commission (FCC)."
+    },
+    {
+      "id": "mkt:019fdce4-473f-7aab-8fbd-affc1c2f488e",
+      "time": "2026-08-07 23:42:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran's deputy foreign minister said security in the Gulf should be ensured by regional states without external intervention."
+    },
+    {
+      "id": "5031418",
+      "time": "2026-08-07 23:42:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家通訊社（IRNA）： 伊朗副外長加里巴巴迪表示，海灣安全必須由地區國家自行保障，不得有外部勢力介入。"
+    },
+    {
+      "id": "mkt:019fdce3-acef-7aab-8fbd-a66d1ec4f48e",
+      "time": "2026-08-07 23:42:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Citigroup said US-Iran negotiations remain erratic and adjusted its Brent crude forecasts to an average of $80/bbl for Q3, $70/bbl for Q4 and $65/bbl for 2027."
+    },
     {
       "id": "5031417",
       "time": "2026-08-07 23:41:37",
@@ -146206,108 +146254,6 @@
         "Importance 0"
       ],
       "text": "French Stocks Gain on Strong Corporate Results — The CAC 40 gained 0.3% to close at 8,510 on Friday as investors assessed another round of corporate earnings and business updates. Engie surged 5.3% after reporting strong first-half results and raising its 2026 guidance. Crédit Agricole gained 2.5% after beating second-quarter expectations, while Saint-Gobain jumped 7% as the company returned to double-digit sales growth in the second quarter and reaffirmed its 2026 outlook. TotalEnergies added 0.8% as oil prices extended gains. Luxury stocks were mixed as persistent Middle East tensions weighed on risk sentiment. LVMH rose 0.4%, while L'Oréal fell 1.8% and Hermès lost 1.1%. On the data front, France's annual inflation rate accelerated to 2.1% in July from 1.8% in June, reinforcing the case for a more cautious ECB easing cycle. Meanwhile, producer prices fell 0.6% month-over-month in June after a revised 0.2% decline in May."
-    },
-    {
-      "id": "5019734",
-      "time": "2026-07-31 23:46:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們與委內瑞拉關係很好。"
-    },
-    {
-      "id": "mkt:019fb8da-8b11-7aab-8f3a-3299341e37bb",
-      "time": "2026-07-31 23:45:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he hopes defense contractors will act swiftly."
-    },
-    {
-      "id": "5019733",
-      "time": "2026-07-31 23:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：希望國防企業加快行動。"
-    },
-    {
-      "id": "5019732",
-      "time": "2026-07-31 23:45:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗在與美國打交道時一直不誠實。"
-    },
-    {
-      "id": "mkt:019fb8da-0900-7aab-8f3a-2fb3b228dbed",
-      "time": "2026-07-31 23:45:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran is facing serious difficulties and that its situation is very bad."
-    },
-    {
-      "id": "5019731",
-      "time": "2026-07-31 23:45:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗目前處境十分艱難。"
-    },
-    {
-      "id": "5019730",
-      "time": "2026-07-31 23:44:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：西班牙移民局勢為“災難”。"
-    },
-    {
-      "id": "5019729",
-      "time": "2026-07-31 23:44:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "靛藍航空：自 2026 年 10 月 25 日起，將停飛寬體客機航線。 靛藍航空將於 2026 年 10 月 31 日終止與北大西洋航空的溼租協議。"
-    },
-    {
-      "id": "mkt:019fb8d8-a3fe-7aab-8f3a-244ca215a51f",
-      "time": "2026-07-31 23:43:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil swap-contract trading resumed; equity trading remains suspended."
-    },
-    {
-      "id": "mkt:019fb8d8-5dfe-7aab-8f3a-199d5e0f2fb7",
-      "time": "2026-07-31 23:43:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "HKEX filings show Lijing Innovation Technology Co., Ltd has submitted a listing application."
-    },
-    {
-      "id": "mkt:019fb8d7-8216-7aab-8f3a-1539869fd7c1",
-      "time": "2026-07-31 23:42:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said he spoke with Vance about the impact of Russia’s war on global markets; both teams will stay in contact to follow up on matters discussed today."
-    },
-    {
-      "id": "mkt:019fb8d7-3a27-7aab-8f3a-0c75149bff19",
-      "time": "2026-07-31 23:42:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Zelenskiy said Russian air strikes continue and that air defence, particularly obtaining Patriot interceptor missiles, remains Ukraine's top priority."
     }
   ]
 }

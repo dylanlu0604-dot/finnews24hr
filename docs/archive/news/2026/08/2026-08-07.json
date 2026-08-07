@@ -1,7 +1,55 @@
 {
   "date": "2026-08-07",
-  "count": 2748,
+  "count": 2753,
   "items": [
+    {
+      "id": "mkt:019fdce5-445c-7aab-8fbd-becd6436bda3",
+      "time": "2026-08-07 23:44:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PETR4.SA",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CFO said there is potential to increase production capacity by 270,000 b/d in H2 2026."
+    },
+    {
+      "id": "mkt:019fdce4-b1a5-7aab-8fbd-b61c2f667414",
+      "time": "2026-08-07 23:43:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump has nominated lawyer Danielle Tuman Seavers to serve as a commissioner of the US Federal Communications Commission (FCC)."
+    },
+    {
+      "id": "mkt:019fdce4-473f-7aab-8fbd-affc1c2f488e",
+      "time": "2026-08-07 23:42:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran's deputy foreign minister said security in the Gulf should be ensured by regional states without external intervention."
+    },
+    {
+      "id": "5031418",
+      "time": "2026-08-07 23:42:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家通訊社（IRNA）： 伊朗副外長加里巴巴迪表示，海灣安全必須由地區國家自行保障，不得有外部勢力介入。"
+    },
+    {
+      "id": "mkt:019fdce3-acef-7aab-8fbd-a66d1ec4f48e",
+      "time": "2026-08-07 23:42:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Citigroup said US-Iran negotiations remain erratic and adjusted its Brent crude forecasts to an average of $80/bbl for Q3, $70/bbl for Q4 and $65/bbl for 2027."
+    },
     {
       "id": "5031417",
       "time": "2026-08-07 23:41:37",
