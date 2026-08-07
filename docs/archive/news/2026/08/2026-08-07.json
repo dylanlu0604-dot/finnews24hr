@@ -1,7 +1,163 @@
 {
   "date": "2026-08-07",
-  "count": 974,
+  "count": 992,
   "items": [
+    {
+      "id": "5030157",
+      "time": "2026-08-07 14:13:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粉筆參保人數兩年驟降93%】據媒體報道，近日，粉筆公告自曝多項決策失誤，相關話題引發市場關注。天眼查App顯示，粉筆關聯公司北京粉筆藍天科技有限公司成立於2015年2月，法定代表人為羅成興，註冊資本1000萬人民幣，經營範圍包括教育諮詢服務、軟體開發、出版物零售等。年報資訊顯示，該公司參保人數從2023年的699人降至2025年的47人。"
+    },
+    {
+      "id": "te:economy:573643",
+      "time": "2026-08-07 14:13:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Balance of Trade",
+        "Importance 3"
+      ],
+      "text": "German Trade Surplus Below Estimates — Germany's trade surplus declined to €15.4 billion in June 2026 from an upwardly revised €19.3 billion in May, below expectations of €17.4 billion, as imports rose more than exports. Exports grew by 0.9% month-on-month to a nearly four-year high of €139.3 billion in June 2026, following an upwardly revised 1.1% gain in May and beating expectations of 0.2% growth. Meanwhile, imports increased 2.4% month-on-month to an over 3-1/2-year high of €123.9 billion in June 2026, rebounding from a marginally revised 2.6% drop in May and surpassing estimates of a 1.0% rise."
+    },
+    {
+      "id": "5030156",
+      "time": "2026-08-07 14:12:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國安高官魏聖洛日前會見美駐韓大使斯蒂爾】韓國政府高官7日在接受韓聯社電話採訪時表示，總統府青瓦臺國家安保室室長魏聖洛4日會見新任美國駐韓大使米歇爾·斯蒂爾，雙方就韓美關係發展交換了意見。青瓦臺相關人士透露，斯蒂爾在會上表示，今後將與韓國國家安保室保持緊密溝通，為韓美同盟持續發展全力以赴。"
+    },
+    {
+      "id": "5030155",
+      "time": "2026-08-07 14:12:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳啟動工傷預防專案申報】近日，深圳市人力資源和社會保障局釋出《關於釋出2027年度工傷預防重點行業領域和專案申報指南的通知》（以下簡稱《通知》），啟動工傷預防專案申報工作，工傷預防重點行業領域的行業協會和大中型企業，可於9月4日前透過深圳市單位社保網上服務系統申報並線上提交材料。"
+    },
+    {
+      "id": "5030154",
+      "time": "2026-08-07 14:12:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4290美元/盎司，日內漲1.18%。"
+    },
+    {
+      "id": "5030153",
+      "time": "2026-08-07 14:12:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4350美元/盎司，日內漲1.17%。"
+    },
+    {
+      "id": "te:economy:573642",
+      "time": "2026-08-07 14:12:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "Germany June Imports Rebound to 3-1/2-Year Peak — Germany’s imports climbed 4.4% month-on-month to a 3½-year high of €123.9 billion in June 2026, rebounding from a marginally revised 2.6% decline in the previous month and easily surpassing market expectations for a 1.0% increase. Imports from EU member states surged 7.4%, driven by a 7.5% rise in purchases from euro-area countries and a 7.3% increase from non-euro-area EU members. Meanwhile, imports from non-EU countries grew 1.4%, supported by a 9.0% jump in shipments from China, despite a sharp 9.6% decline in purchases from the U.S. and a 16.7% drop in imports from the United Kingdom. On an annual basis, total imports rose 14.0%, accelerating from May's 1.5% gain. In the first half of 2026, imports increased 4.4% from the same period a year earlier to €711.6 billion."
+    },
+    {
+      "id": "5030152",
+      "time": "2026-08-07 14:12:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "立陶宛6月份貿易逆差為7.131億歐元。"
+    },
+    {
+      "id": "5030151",
+      "time": "2026-08-07 14:11:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報63.45美元/盎司。"
+    },
+    {
+      "id": "5030150",
+      "time": "2026-08-07 14:11:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國警方稱，泰國校園槍擊案槍手先在其祖父母家中槍殺二人，隨後前往校園開槍。"
+    },
+    {
+      "id": "5030149",
+      "time": "2026-08-07 14:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小紅書：以AI虛擬人形象運營的賬號需在資料頁如實說明】8月7日，小紅書宣佈升級AI治理規則，把主動標識的要求從“筆記”延伸到“賬號”。據介紹，此前小紅書已經請創作者對AI生成或AI潤色的筆記主動宣告。這一次，宣告的物件多了一個：以AI虛擬人形象運營的賬號，請在賬號資料頁如實說明，並開啟“AI虛擬人”標籤。"
+    },
+    {
+      "id": "mkt:019fdad8-a306-7aab-8fb1-2b108f1a2da1",
+      "time": "2026-08-07 14:10:58",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【France unemployment rate hits highest since end-2020】France's unemployment rate rose to 8.3% in Q2 from 8.1% in Q1, above economists' median forecast of 8.2% and the highest reading since end-2020, the national statistics office said. The weakening labour market has dented President Macron's record and led the government to shelve its goal of achieving full employment by the end of his second term next year. Officials and the data pointed to energy-price shocks from the Russia-Ukraine conflict and a new Iran-related conflict as key factors adding strain to the economy."
+    },
+    {
+      "id": "5030148",
+      "time": "2026-08-07 14:10:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅曼股份新設子公司 含AI及物聯網相關業務】企查查APP顯示，近日，南京羅曼科技有限公司成立，經營範圍包含人工智慧通用應用系統；軟體外包服務；人工智慧行業應用系統整合服務；物聯網技術服務；資料處理服務等。企查查股權穿透顯示，該公司由羅曼股份(605289)全資持股。"
+    },
+    {
+      "id": "5030147",
+      "time": "2026-08-07 14:10:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破63美元/盎司，日內漲2.63%。"
+    },
+    {
+      "id": "5030146",
+      "time": "2026-08-07 14:10:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【平安證券：偉星新材未來發展仍值得看好，維持“推薦”評級】平安證券研報指出，偉星新材投資收益增厚業績，海外業務增長良好。2026年上半年實現營收19.0億元，同比降8.7%，歸母淨利潤3.9億元，同比增長43.9%。投資收益增厚上半年業績，毛利率同比改善。各產品毛利率相對平穩，海外收入增長良好。總體相對平穩，在上半年油價上漲背景下實屬不易。考慮公司品牌、服務、渠道競爭力強，“同心圓”戰略拓寬成長空間，管理團隊能力突出，分紅慷慨，未來發展仍值得看好，維持“推薦”評級。"
+    },
+    {
+      "id": "te:economy:573640",
+      "time": "2026-08-07 14:10:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "House Price Index YoY",
+        "Importance 2"
+      ],
+      "text": "UK House Price Growth Lowest Since 2023 — The Lloyds House Price Index showed UK house prices rose 0.1% year-on-year in July 2026, slowing from a revised 0.7% increase in June and below expectations for a 0.4% gain. This marked the weakest annual growth since November 2023. Monthly, house prices were unchanged after rising 0.2% in June, leaving the average property price at £299,253. Amanda Bryden, Head of Mortgages at Lloyds, said prices have remained relatively stable for almost two years despite a more uncertain economic backdrop. Affordability remained challenging, while mortgage rates edged higher following recent Middle East events after easing earlier in the summer. Lloyds expects prices and activity to remain stable through year-end, with the outlook shaped by mortgage rates, inflation and household confidence. Regionally, Northern Ireland recorded the strongest annual growth at 7.4%, followed by Scotland at 3.6%, the North East at 2.8%, and the North West at 2.1%."
+    },
+    {
+      "id": "5030145",
+      "time": "2026-08-07 14:10:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：融資融券板塊淨流入超250億】截至目前，今日主力資金淨流入259.34億；淨流入融資融券、轉融券標的、大盤等板塊，其中融資融券板塊淨流入250.38億；淨流出人工智慧、超大盤、破淨股等板塊，其中人工智慧板塊淨流出29.75億。\n  \n個股方面，兆易創新淨買入19.22億元位居首位，光迅科技、生益科技、勝宏科技主力資金淨流入居前；中際旭創淨賣出16.83億元位居首位，長電科技、紫光股份、寧德時代淨流出額居前。"
+    },
     {
       "id": "5030144",
       "time": "2026-08-07 14:09:33",
@@ -61,6 +217,16 @@
         "公司"
       ],
       "text": "保時捷控股：大眾集團必須做出迅速且堅定的決策。"
+    },
+    {
+      "id": "5030138",
+      "time": "2026-08-07 14:05:49",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【大摩：預計SpaceX明年中目標價為300美元】SpaceX在週四迎來第一批股份解禁，市場預期大規模的股票進入流通將打擊SpaceX股價，但該股週四卻錄得小幅上漲。相較於悲觀人士，摩根士丹利分析師Adam Jonas認為，SpaceX股份禁售期結束是一個入場點，而不是利空警告。他認為，SpaceX是一家罕見的世代複合型企業，能夠將能源大規模地轉化為群體智慧，其擁有資源去構建在能效、成本和速度上領先業界的算力業務。Jonas維持了對SpaceX的增持評級，並預計到明年年中該股目標價為300美元，這意味著該股可能較目前水平上漲近兩倍。"
     },
     {
       "id": "5030137",
