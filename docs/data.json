@@ -1,7 +1,308 @@
 {
-  "updated": "2026-08-07 16:06:58",
-  "count": 16134,
+  "updated": "2026-08-07 16:14:55",
+  "count": 16124,
   "items": [
+    {
+      "id": "mkt:019fdb49-477d-7aab-8fb3-ee3ff6bfbe2c",
+      "time": "2026-08-07 16:14:00",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) closed up 137.75 points, or 0.54%, at 25,668.03 on Friday, Aug. 7. The Hang Seng Tech Index closed up 37.51 points, or 0.78%, at 4,858.29. The Hang Seng China Enterprises Index (HSCEI) closed up 32.85 points, or 0.39%, at 8,531.58. The Red Chip Index closed down 1.31 points, or 0.03%, at 4,121.01."
+    },
+    {
+      "id": "5030488",
+      "time": "2026-08-07 16:13:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興欣新材：取得金融機構不超9000萬元回購股票專項融資支援】興欣新材(001358)8月7日公告，近日，公司取得中信銀行股份有限公司紹興上虞支行出具的《貸款承諾函》，貸款額度不超過9000萬元，貸款期限不超過36個月，貸款專項用於回購公司股票。"
+    },
+    {
+      "id": "5030487",
+      "time": "2026-08-07 16:13:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY金融服務指數跌幅擴大，最新下跌1.5%。"
+    },
+    {
+      "id": "te:economy:573718",
+      "time": "2026-08-07 16:13:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Retail Sales Growth Slows in June — Retail sales in Bulgaria eased by 7.1% year-on-year in June from a 7.9% growth in the previous month. Activity slowed for automotive fuels in specialized stores (3.1% vs. 13.7%) and food, beverages, and tobacco (4.1% vs. 4.7%). Meanwhile, non-food products excluding fuel accelerated to 9.9% from 8.3%, supported by stronger sales in non-specialized stores (10.6% vs. 10.2%), mail-order and internet retail (26.4% vs. 19.1%), and textiles, clothing, and footwear (22.5% vs. 23.0%). However, growth also eased in household appliances, furniture, and other household goods (9.0% vs. 11.2%) and computer and communications equipment (8.0% vs. 4.0%), while pharmaceutical and medical goods, cosmetics, and toiletries returned to growth (1.0% vs. -2.5%). On a monthly basis, retail sales rose 0.5% in June, easing from a revised 0.7% increase in May."
+    },
+    {
+      "id": "mkt:019fdb48-b803-7aab-8fb3-e3ddcf709916",
+      "time": "2026-08-07 16:13:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China SAFE: FX reserves $3.419 tln at end-July 2026】China's State Administration of Foreign Exchange said FX reserves were $3,418.8 bln at end-July 2026, up $2.5 bln from end-June (+0.07%). SAFE said a July decline in the dollar index and mixed global asset-price moves, together with exchange-rate conversion and asset-price effects, lifted reserves. SAFE added that China's economic momentum and improving structure support the basic stability of reserves."
+    },
+    {
+      "id": "5030486",
+      "time": "2026-08-07 16:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈門鎢業：參股公司暫停運營寮國勐康稀土專案】廈門鎢業公告，公司參股公司赤金廈鎢為響應稀土資源開發相關政策要求，決定暫停運營其位於寮國川壙省勐康縣的勐康稀土礦專案。該專案目前處於試生產階段，2025年度生產稀土產品998.56噸，赤金廈鎢歸母淨利潤-10659.31萬元。暫停運營後，赤金廈鎢將繼續推進礦權證照續期工作，並尋求解決方案。"
+    },
+    {
+      "id": "te:markets:573717",
+      "time": "2026-08-07 16:12:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Edges Higher — The FTSE MIB edged higher to around 53,700 on Friday, remaining close to record levels, as markets digested fresh financial-sector earnings while assessing the next phase of industry consolidation. Monte dei Paschi rose 0.4% after reporting better-than-expected Q2 profit and evaluating strategic alternatives amid Intesa Sanpaolo’s takeover bid. Unipol reported a 42% year-on-year increase in first-half net profit, supported by strong performance in its insurance business, although its shares fell more than 1%. Larger lenders UniCredit and Intesa Sanpaolo advanced 0.5% and 0.7%, respectively. Outside the financial sector, defense stocks were among the strongest performers, with Leonardo and Avio advancing more than 2% and 5%, respectively. For the week, the benchmark index is heading for its best week in five."
+    },
+    {
+      "id": "5030485",
+      "time": "2026-08-07 16:12:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬執行長：“拳擊手”裝甲車專案目前不存在任何阻礙；與德國的合同預計將於2026年底前簽署；萊茵金屬的份額為124億歐元。"
+    },
+    {
+      "id": "mkt:019fdb47-b96a-7aab-8fb3-de344740023d",
+      "time": "2026-08-07 16:12:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Natural Resources activates Level IV geological-disaster response for Zhejiang, Fujian as Typhoon No.13 \"Bailudun\" approaches】Meteorological forecasts and the ministry's geological-disaster technical center judge Typhoon No.13 Bailudun (White Dolphin) will produce heavy rainfall in Zhejiang and Fujian over the next week. Most of Zhejiang and northern Fujian face elevated risk of geological disasters. The Ministry of Natural Resources activated a Level IV geological-disaster defense response for Zhejiang and Fujian at 15:00 on Aug. 7."
+    },
+    {
+      "id": "5030484",
+      "time": "2026-08-07 16:12:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家外匯管理局公佈2026年7月末外匯儲備規模資料】國家外匯管理局統計資料顯示，截至2026年7月末，我國外匯儲備規模為34188億美元，較6月末上升25億美元，升幅為0.07%。2026年7月，受全球宏觀形勢、主要經濟體貨幣政策等因素影響，美元指數下跌，全球主要金融資產價格漲跌互現。匯率折算和資產價格變化等因素綜合作用，當月外匯儲備規模上升。我國經濟呈現動能向新、結構向優的發展態勢，展現出強大韌性和活力，有利於外匯儲備規模保持基本穩定。"
+    },
+    {
+      "id": "5030483",
+      "time": "2026-08-07 16:12:02",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "萊茵金屬執行長：與洛克希德·馬丁在德國合作生產ATACMS導彈，將助力補充因伊朗戰爭消耗的美軍彈藥儲備。"
+    },
+    {
+      "id": "5030482",
+      "time": "2026-08-07 16:11:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵金屬執行長：預計從2028年起，德國聯合生產的ATACMS陸軍戰術導彈將開始產生初始收入。"
+    },
+    {
+      "id": "5030481",
+      "time": "2026-08-07 16:11:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯旗下重慶鳳凰技術公司增資至5.5億 增幅1000%】天眼查App顯示，近日，重慶鳳凰技術有限公司發生工商變更，註冊資本從5000 萬人民幣增至5.5億人民幣，增幅1000%。該公司成立於2025年3月，法定代表人為朱乾勇，經營範圍包括人工智慧基礎軟體開發、智慧機器人的研發、汽車零部件研發、工業機器人制造等，由賽力斯集團股份有限公司全資持股。"
+    },
+    {
+      "id": "5030480",
+      "time": "2026-08-07 16:11:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長信科技持股公司成立伺服器製造公司】企查查APP顯示，近日，蕪湖長信伺服器製造有限公司成立，法定代表人為陳偉達，註冊資本為2000萬元，經營範圍包含：人工智慧應用軟體開發；雲端計算裝置銷售；雲端計算裝置製造；電子元器件批發；光電子器件銷售等。企查查股權穿透顯示，該公司由長信科技持股的蕪湖長信智算科技有限公司全資持股。"
+    },
+    {
+      "id": "5030479",
+      "time": "2026-08-07 16:11:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應對臺風“白海豚”，自然資源部對浙江福建啟動地質災害防禦Ⅳ級響應】據氣象部門預測和部地質災害技術指導中心研判，受第13號颱風“白海豚”影響，未來一週，浙江、福建有強降雨過程，浙江大部、福建北部發生地質災害的風險較高。自然資源部於8月7日15時對浙江、福建啟動地質災害防禦IV級響應。"
+    },
+    {
+      "id": "5030478",
+      "time": "2026-08-07 16:10:54",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【電子坐便器、電熱毯等產品CCC認證實施要求調整】為嚴格強制性產品認證（CCC認證）監管，強化源頭治理，切實保障人民群眾生命財產安全，市場監管總局（國家認監委）近日釋出《關於釋出電子坐便器、電熱毯、電熱墊及類似柔性發熱器具強制性產品認證實施規則的公告》（以下簡稱《公告》），以更細要求、更嚴舉措規範認證實施，築牢產品質量安全底線。《公告》對企業實施更科學的分類管理，覆蓋電子坐便器、電熱毯、電熱墊及類似柔性發熱器具CCC認證全鏈條，壓緊壓實認證活動各相關方主體責任。《公告》還對新版認證實施規則過渡期進行明確，規定自2026年10月1日起，應當按照新版認證實施規則開展CCC認證活動，已經頒發的有效CCC認證證書可繼續使用。"
+    },
+    {
+      "id": "5030477",
+      "time": "2026-08-07 16:10:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙大網新：持股5%以上股東減持310萬股 持股降至6%】浙大網新公告稱，2026年6月17日至8月6日，股東浙江網新集團有限公司透過集中競價方式減持公司股份310萬股，持股比例由6.30%降至6.00%，權益變動觸及1%。本次減持是履行此前減持計劃，截至公告披露日，減持計劃尚未實施完畢。網新集團非控股股東和實控人，本次權益變動不影響控制權，對公司治理、股權結構及經營無影響。"
+    },
+    {
+      "id": "5030476",
+      "time": "2026-08-07 16:10:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中力股份：擬5000萬-1億元回購股份用於員工激勵】中力股份公告稱，公司擬以集中競價交易方式回購股份，金額不低於5000萬元且不超過1億元，價格不超50元/股，數量為100萬股-200萬股，佔總股本的0.25%-0.50%，用於員工持股計劃或股權激勵。回購期限自董事會審議透過預案之日（2026年7月27日）起12個月內。截至該日，相關股東及董高在未來3個月、6個月無減持計劃。本次回購存在價格、資金、政策等風險。"
+    },
+    {
+      "id": "5030475",
+      "time": "2026-08-07 16:10:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中東局勢擾動供油 日本煉廠大幅轉向美墨原油採購】受伊朗衝突引發供應中斷影響，日本煉油企業正越來越多地轉向波斯灣以外的原油來源，其中包括美國。這標誌採購策略出現重大轉變。日本最大煉油商 ENEOS 控股首席財務官田中聰一郎於週五財報會後簡報會上表示，該公司 8 月所需原油已落實，採購來源包含美國原油，同時選用避開霍爾木茲海峽的中東運輸航線；9 月原油貨輪也計劃沿用類似方式完成採購。競爭對手科斯莫能源控股則將大量中東原油替換為美國、墨西哥等國貨源，已儲備可供用到 10 月的原油。該公司高階執行官員巖井智樹週四在新聞釋出會上稱，目前其原油約半數來自北美與中美洲。上述表態印證，隨著中東衝突重塑全球原油流向，日本煉油商已調整採購策略。除霍爾木茲海峽持續面臨運輸擾動外，近幾周受伊朗支援的葉門胡塞武裝襲擊影響，經由紅海運輸的沙特原油貨運可靠性也有所下降。"
+    },
+    {
+      "id": "te:markets:573716",
+      "time": "2026-08-07 16:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Sugar Gains by 1.30% — Top commodity gainers are Sugar (1.30%), Rice (0.92%) and Wheat (0.65%). Biggest loser is Palm Oil (-0.55%)."
+    },
+    {
+      "id": "5030473",
+      "time": "2026-08-07 16:09:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【龍旗科技：收到交易商協會30億元債務融資工具註冊通知書】龍旗科技公告，公司近日收到中國銀行間市場交易商協會出具的《接受註冊通知書》，交易商協會決定接受公司債務融資工具註冊，註冊金額為30億元，註冊額度自通知書落款之日起2年內有效，由興業銀行股份有限公司主承銷。公司此前已披露擬申請註冊發行總額度不超過30億元的債務融資工具，本次公告為收到註冊通知書的進展披露。"
+    },
+    {
+      "id": "5030472",
+      "time": "2026-08-07 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲0.540%，恒生科技指數漲0.778%】智譜漲14.535%，藥明生物漲11.068%，MINIMAX-W漲10.094%，聯想集團漲8.481%，藥明康德漲7.346%，九龍倉置業漲6.467%，百濟神州漲5.263%。"
+    },
+    {
+      "id": "mkt:019fdb44-adc9-7aab-8fb3-d715780cdd02",
+      "time": "2026-08-07 16:08:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bullish",
+        "00100.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong shares closed higher: the Hang Seng Index rose 0.54% and the Hang Seng Tech Index gained 0.78%. Large-model AI concept names were active, with Zhipu (02513.HK) up more than 14% and MINIMAX-W (00100.HK) up about 10%."
+    },
+    {
+      "id": "5030471",
+      "time": "2026-08-07 16:08:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫州宏豐：子公司獲“廢硬質合金及磨削料鋅熔回收裝置”實用新型專利】溫州宏豐公告稱，子公司溫州宏豐合金有限公司近日收到國家智慧財產權局頒發的“一種廢硬質合金及磨削料的鋅熔回收裝置”實用新型專利證書，專利號為ZL202521961626.9，申請日為2025年9月12日，授權公告日為2026年8月7日，專利權期限為十年。該專利不會對公司短期業績產生重大影響，但利於發揮自主智慧財產權優勢，提升核心競爭力。"
+    },
+    {
+      "id": "te:economy:573715",
+      "time": "2026-08-07 16:08:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "World",
+        "Food Price Index",
+        "Importance 1"
+      ],
+      "text": "World Food Prices Rise for First Time in 3 Months — The FAO Food Price Index went up 0.6% to 131.1 points in July 2026, the first rise in three months. Increases in the price indices for cereals, sugar and vegetable oils were partially offset by declines in those for meat and dairy products."
+    },
+    {
+      "id": "5030470",
+      "time": "2026-08-07 16:08:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【縱橫股份：上交所終止公司向特定物件發行股票稽核】縱橫股份公告，公司於2026年8月3日召開董事會審議透過終止向特定物件發行股票事項並撤回申請檔案。近日，公司收到上交所出具的《關於終止對成都縱橫自動化技術股份有限公司向特定物件發行股票稽核的決定》，上交所決定終止對公司向特定物件發行股票的稽核。"
+    },
+    {
+      "id": "5030469",
+      "time": "2026-08-07 16:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拓竹首度透露3D生成模型，拆件3D列印或迎顛覆時刻】近日，基於3D生成模型的三維部件分割研究論文《SegviGen: Repurposing 3D Generative Model for Part Segmentation》入選SIGGRAPH 2026 Journal Track。值得注意的是，論文作者名單中出現了北京航空航天大學、中國人民大學、清華大學、消費級3D列印廠商Bambu Lab拓竹科技等機構。這是拓竹科技首次對外披露其3D生成大模型的研究進展，讓3D列印行業的內容生成、模型理解和可製造工作流產生了直接關聯。其出現在論文作者名單中也釋放出一個重要訊號，其技術佈局可能正從列印硬體、切片軟體和模型社群，進一步延伸到3D內容生成、結構理解和可製造模型處理等更底層環節。對於該技術是否會整合到現有軟體生態，記者向拓竹方面求證，並未取得明確答覆，其具體路線圖也暫時不清楚。但從其參與頂會研究的深度來看，學術成果向產品端遷移或將是大機率方向。（21財經）"
+    },
+    {
+      "id": "5030468",
+      "time": "2026-08-07 16:07:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破64美元/盎司，日內漲4.06%。"
+    },
+    {
+      "id": "5030467",
+      "time": "2026-08-07 16:07:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家網信辦：大型個人資訊處理者透過自動化決策方式向個人進行資訊推送、商業營銷的，應當採取下列措施保護個人權益】國家網際網路資訊辦公室釋出關於《大型個人資訊處理者個人資訊保護規定（徵求意見稿）》公開徵求意見的通知。徵求意見稿提到，大型個人資訊處理者透過自動化決策方式向個人進行資訊推送、商業營銷的，應當採取下列措施保護個人權益：設定易於理解、便於訪問和操作的個性化推薦關閉選項；使用者選擇關閉個性化推薦的，大型個人資訊處理者應當停止將相關個人資訊用於個性化推薦目的；為使用者提供刪除針對其個人特徵的使用者標籤等功能；法律、行政法規、國家有關部門規定的其他措施。"
+    },
+    {
+      "id": "mkt:019fdb43-0aa2-7aab-8fb3-ced310d39439",
+      "time": "2026-08-07 16:07:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose 4.00% intraday to $63.99/oz."
+    },
+    {
+      "id": "5030466",
+      "time": "2026-08-07 16:06:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "海力士：董事會已批准公司今年6月公佈的投資計劃。"
+    },
+    {
+      "id": "5030465",
+      "time": "2026-08-07 16:06:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲4%，現報63.98美元/盎司。"
+    },
+    {
+      "id": "5030464",
+      "time": "2026-08-07 16:06:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家網信辦：鼓勵大型個人資訊處理者開展個人資訊保護相關技術、產品、服務創新】國家網際網路資訊辦公室釋出關於《大型個人資訊處理者個人資訊保護規定（徵求意見稿）》公開徵求意見的通知。徵求意見稿提到，鼓勵大型個人資訊處理者開展個人資訊保護相關技術、產品、服務創新，積極參與個人資訊保護相關國際標準和規則制定，推動與其他國家、地區之間的個人資訊保護規則、標準協調互認。"
+    },
     {
       "id": "5030463",
       "time": "2026-08-07 16:06:17",
@@ -174,6 +475,15 @@
         "公司"
       ],
       "text": "【*ST航圖：公司及實控人王宇翔涉嫌信披違法違規被證監會立案】*ST航圖(688066.SH)公告稱，公司及實際控制人王宇翔於2026年8月7日收到中國證監會下發的《立案告知書》，因公司及實際控制人王宇翔涉嫌資訊披露違法違規，根據相關法律法規，中國證監會決定對公司及王宇翔立案。目前，公司正積極配合調查，並將嚴格履行資訊披露義務。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608073835188510",
+      "time": "2026-08-07 16:03:09",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【央行資料顯示7月末外匯儲備報34187.76億美元】央行資料顯示，7月末外匯儲備報34187.76億美元，前值為34162.6億美元。"
     },
     {
       "id": "5030449",
@@ -146847,424 +147157,6 @@
         "國際"
       ],
       "text": "【美ITC對進口自中國的225-999cc立式發動機及其零部件作出第一次雙反日落複審產業損害終裁】近日，美國國際貿易委員會（ITC）投票對進口自中國的排量為225～999cc立式發動機及其零部件作出第一次反傾銷和反補貼日落複審產業損害肯定性終裁：裁定若取消現行反傾銷和反補貼措施，在合理可預見期間內，涉案產品的進口對美國國內產業造成的實質性損害可能繼續或再度發生。根據終裁結果，本案現行反傾銷和反補貼措施繼續有效。"
-    },
-    {
-      "id": "5018750",
-      "time": "2026-07-31 16:14:53",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "Reddit股價盤前下跌10.2%，此前該公司公佈第二季度美國使用者增長放緩。"
-    },
-    {
-      "id": "te:economy:571626",
-      "time": "2026-07-31 16:14:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Thailand",
-        "Retail Sales YoY",
-        "Importance 0"
-      ],
-      "text": "Thailand Retail Sales Fall at Softer Pace — Retail sales in Thailand fell 14.5% year-on-year in May 2026, easing from a 20% plunge in the previous month. Sales in other retail categories contracted at a slower pace (-31.3% vs -37.1% in April), supported by stronger sales via stalls and markets for other goods (34% vs 11.6%) and sales through mail-order houses and the internet (61.9% vs 49.3%). In contrast, sales growth for non-durable goods eased to 1.75% from 5.5% in the previous month, mainly due to a decline in food sales (-3.7% vs 5.1%) and weaker growth in pharmaceutical and medical goods, cosmetics, and toiletries (2.9% vs 8.5%). Sales growth also moderated for durable goods (4.2% vs 8.6%) and automotive fuel (11.7% vs 12.1%). On a monthly basis, retail activity declined 5.3% in June, significantly improving from a 22% slump in the previous month."
-    },
-    {
-      "id": "mkt:019fb73c-adc7-7aab-8f2e-0fdd3c2abc02",
-      "time": "2026-07-31 16:13:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "RIVN.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. electric-vehicle maker Rivian (RIVN.O) rose 4% in premarket trading after quarterly revenue beat expectations."
-    },
-    {
-      "id": "5018749",
-      "time": "2026-07-31 16:13:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞洲足球聯合會表示，足球絕不應陷入世界盃遭抵制威脅的處境。"
-    },
-    {
-      "id": "5018748",
-      "time": "2026-07-31 16:13:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Rivian股價盤前上漲4%，此前該公司季度營收超出市場預期。"
-    },
-    {
-      "id": "5018747",
-      "time": "2026-07-31 16:13:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新日股份：控股股東一致行動人部分股票質押展期】新日股份公告稱，2026年7月30日，公司接到股東安吉諄萊通知，其於招商證券辦理400萬股股份質押展期業務，原到期日為2026年7月31日，現展期至2027年7月31日，融資用於償還債務。安吉諄萊直接持股1829.87萬股，佔總股本7.95%，本次展期後累計質押900萬股，佔其持股49.18%，佔總股本3.91%。安吉諄萊等三方合計持股1.31億股，佔總股本56.97%，展期後累計質押3278萬股，佔比25%，佔總股本14.24%。本次展期不影響公司控制權和經營。"
-    },
-    {
-      "id": "5018746",
-      "time": "2026-07-31 16:13:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "線上影片遊戲平臺Roblox美股盤前下跌14.7%，因公司預計第三季度預訂量將出現超出預期的顯著下降。"
-    },
-    {
-      "id": "mkt:019fb73b-d385-7aab-8f2e-01bfb467f242",
-      "time": "2026-07-31 16:12:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell more than 1% intraday, trading at $4,062.35/oz."
-    },
-    {
-      "id": "5018745",
-      "time": "2026-07-31 16:12:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4061.77美元/盎司。"
-    },
-    {
-      "id": "5018744",
-      "time": "2026-07-31 16:12:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4118.91美元/盎司。"
-    },
-    {
-      "id": "5018743",
-      "time": "2026-07-31 16:12:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼盾<IDR=>升值0.5%，報1美元兌17,990印尼盾。"
-    },
-    {
-      "id": "5018742",
-      "time": "2026-07-31 16:12:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞足聯表示，國際足聯擬設立的子公司實際上無法達成推進相關事宜所需的必要共識與團結。"
-    },
-    {
-      "id": "5018741",
-      "time": "2026-07-31 16:12:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中郵保險：上半年利潤總額超70億元 總資產接近8000億元】7月30日至31日上午，中郵保險2026年工作座談會在京召開。會議資訊顯示，截至6月底，該公司總資產接近8000億元，較年初增加1016億元。上半年保費收入1291億元，同比增長9%；利潤總額超70億元，同比增長37%。"
-    },
-    {
-      "id": "5018740",
-      "time": "2026-07-31 16:11:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【動力源：控制權擬變更獲上交所合規確認 過戶仍存不確定性】動力源公告稱，2026年7月10日，控股股東何振亞與紅棉科創簽署協議，擬將5515.47萬股（佔總股本9.00%）轉讓給後者，轉讓總價2.29億元。權益變動後，紅棉科創將成控股股東，實控人變更為陳志茂。近日，該事項獲上交所合規確認，但尚需辦理股份過戶登記，最終結果存在不確定性。"
-    },
-    {
-      "id": "5018739",
-      "time": "2026-07-31 16:11:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4120美元/盎司，日內跌0.98%。"
-    },
-    {
-      "id": "5018738",
-      "time": "2026-07-31 16:11:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "亞足聯在宣告中表示，該組織與歐足聯及中北美洲及加勒比海足球協會團結一致，共同捍衛國際足聯世界盃。"
-    },
-    {
-      "id": "5018737",
-      "time": "2026-07-31 16:11:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國192.91萬人享受長期護理保險待遇】我國長期護理保險制度加快建立。截至2025年年末，長期護理保險參保人數30854.76萬人，享受待遇人數192.91萬人。2025年基金收入369.62億元，基金支出186.44億元。長期護理保險定點服務機構超1.3萬家，護理服務人員約40.28萬人。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb73a-7cd9-7aab-8f2d-fc85644016c7",
-      "time": "2026-07-31 16:11:31",
-      "tags": [
-        "MKT News",
-        "RBLX.O",
-        "Impact bearish"
-      ],
-      "text": "Roblox (RBLX.N) fell 14.7% in premarket trading after the company said it expects Q3 bookings to decline significantly more than anticipated."
-    },
-    {
-      "id": "te:markets:571623",
-      "time": "2026-07-31 16:11:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Heads for Monthly Gain on Strong Eurozone Data — The euro held above $1.15, hovering near its highest level since June 16 and on track for a monthly gain of 0.8%, supported by stronger-than-expected eurozone economic data. The bloc's economy expanded by 0.4% in the Q2, surpassing forecasts of 0.2% and marking its fastest growth since early 2025. Meanwhile, inflation accelerated across the euro area's largest economies in July, reinforcing concerns that higher energy costs could spill over into services and core prices. As a result, markets fully priced in the European Central Bank's deposit rate reaching 2.75% by early 2027, implying two additional rate hikes, with the first potentially as soon as September. In the US, the Federal Reserve left interest rates unchanged this week, while three FOMC members dissented in favor of a rate hike. Markets now assign around a 65% probability of a September hike. Meanwhile, oil prices fell, as energy shipments continued through key maritime routes despite limited progress in US-Iran talks."
-    },
-    {
-      "id": "mkt:019fb73a-55ba-7aab-8f2d-f0cf24f2eb45",
-      "time": "2026-07-31 16:11:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Four agencies bar firms or individuals with illegal cross‑sector operations, excessive leverage, serious dishonesty or major violations from becoming major shareholders or actual controllers of financial institutions】The Implementation Opinions tighten shareholder admission standards, create a firewall between industrial and financial capital, and prohibit entities or individuals engaged in illegal cross‑sector business, with excessive leverage, serious breaches of trust or major regulatory/legal violations from becoming major shareholders or actual controllers of financial institutions. Regulators will require penetrating identification of major shareholders, ultimate controllers and beneficial owners, strengthen reporting duties for major shareholders and controllers, prohibit concealment of control, related‑party and concerted‑action relationships, and ban false capital contributions, round‑tripping injections and capital extraction."
-    },
-    {
-      "id": "mkt:019fb73a-4b91-7aab-8f2d-e9cd06a2a96f",
-      "time": "2026-07-31 16:11:18",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong's Hang Seng Index (HSI) closed up 25.55 points (0.10%) at 25,884.43 on July 31 (Friday). The Hang Seng Tech Index closed up 25.45 points (0.53%) at 4,829.22. The Hang Seng China Enterprises Index (HSCEI) closed down 32.56 points (0.38%) at 8,612.15, and the Hang Seng Red Chip Index closed down 57.30 points (1.35%) at 4,193.12."
-    },
-    {
-      "id": "5018736",
-      "time": "2026-07-31 16:11:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪威集團：控股股東部分股權解除質押 剩餘質押比例59.18%】豪威集團公告稱，7月30日，公司控股股東虞仁榮質押給中原信託的1254萬股完成解質，佔其所持股份比例4.13%，佔公司總股本比例1.00%。本次解質後，虞仁榮剩餘累計質押股份1.7959億股，佔其持股比例59.18%。虞仁榮及其一致行動人累計質押公司股份1.95446億股，佔其持有公司股份總數的51.63%，佔公司目前總股本的15.54%。虞仁榮本次解質股份暫無後續質押計劃。"
-    },
-    {
-      "id": "mkt:019fb739-d600-7aab-8f2d-e7d606f7875a",
-      "time": "2026-07-31 16:10:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China basic pension insurance coverage continues to expand】The Ministry of Civil Affairs and National Working Commission on Ageing said in its 2025 National Aging Development Bulletin that China's basic pension insurance coverage continued to expand. As of end-2025, 1.076 bln people participated in basic pension insurance, up 3.09 mln from end-2024. Urban employee basic pension participation stood at 546.72 mln, up 12.20 mln. Participation in the urban and rural resident basic pension was 529.19 mln, of whom 188.20 mln were actually receiving benefits. The national minimum basic pension for urban and rural residents was raised by 20 yuan for 2025. Cumulative contributions to the personal pension scheme totaled 145.2 bln yuan."
-    },
-    {
-      "id": "mkt:019fb739-ac00-7aab-8f2d-ddab6c24000c",
-      "time": "2026-07-31 16:10:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Macau publishes preliminary 1H2026 local GDP】Macau Statistics and Census Service reports preliminary 1H2026 local GDP at MOP 209.89 bln, a real YoY increase of 3.7%, driven by higher visitor arrivals and continued growth in services exports; economy remained broadly stable."
-    },
-    {
-      "id": "mkt:019fb739-a8b1-7aab-8f2d-d14240039d52",
-      "time": "2026-07-31 16:10:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Mongolia hold 24th consular consultations】On July 30, 2026 in Ulaanbaatar, China's Consular Affairs director-general and Mongolia's consular director jointly chaired the 24th China–Mongolia consular consultations. Both sides agreed to implement leaders' prior understandings, strengthen consular cooperation, further ease cross-border personnel movement, and safeguard the safety and legal rights of nationals and institutions abroad to support practical bilateral cooperation."
-    },
-    {
-      "id": "5018735",
-      "time": "2026-07-31 16:10:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【兆日科技：籌劃控制權變更 股票繼續停牌不超3個交易日】兆日科技公告稱，7月29日，公司控股股東新疆晁駿通知正籌劃股份轉讓，可能導致控制權變更，交易對手方為上海璟和珩科技，交易完成後其持股佔總股本14.18%左右。公司股票7月30日起停牌2個交易日，因預計無法8月3日開市復牌，申請自當日起繼續停牌，預計不超3個交易日。公司將按規定披露進展，提醒投資者注意風險。"
-    },
-    {
-      "id": "5018734",
-      "time": "2026-07-31 16:10:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東山精密：累計回購25.52萬股，成交總金額4999.48萬元】東山精密公告，公司於2026年7月20日審議透過回購方案，擬使用自籌資金以集中競價方式回購股份，用於員工持股計劃或股權激勵，回購資金總額人民幣2-3億元，回購價格不超過367.04元/股。截至2026年7月31日，公司透過回購專用證券賬戶以集中競價方式已累計回購公司股份25.52萬股，佔公司目前總股本的0.01393%，最高成交價為200.6元/股，最低成交價為192.2元/股，成交總金額為4999.48萬元（不含交易費用）。"
-    },
-    {
-      "id": "te:markets:571622",
-      "time": "2026-07-31 16:10:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Gains by 1.89% — Top commodity gainers are Rice (1.89%), Rubber (1.31%) and Cotton (1%). Biggest losers are Palm Oil (-1.02%) and Wheat (-0.51%)."
-    },
-    {
-      "id": "te:markets:571621",
-      "time": "2026-07-31 16:09:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Telecom Italia Stock Price Hits 7-week Low — Telecom Italia shares decreased to 7.31 EUR, the lowest since June 2026. Over the past 4 weeks, Telecom Italia lost 10.07%, and in the last 12 months, it increased 1713.43%."
-    },
-    {
-      "id": "mkt:019fb738-e1f1-7aab-8f2d-cfaa6263e055",
-      "time": "2026-07-31 16:09:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "【Four Chinese agencies push revision of key financial laws, tighten shareholder rights, governance and market-exit rules】The Implementation Opinions call for strengthening the legal framework for corporate governance: accelerate drafting and revision of major financial laws and regulations; improve shareholder equity rules, corporate governance and market-exit mechanisms; raise penalties for violations; and strengthen coordination between administrative enforcement and criminal justice to improve systems for punishing and preventing financial crime and to crack down on financial crime."
-    },
-    {
-      "id": "te:markets:571620",
-      "time": "2026-07-31 16:09:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Moves Toward Record Levels — The FTSE MIB rose to around 52,580 on Friday, extending gains from the previous session and moving closer to its record high, driven by renewed enthusiasm for AI-related stocks while investors assessed a fresh batch of corporate earnings. Technology shares led the advance, tracking the global rally in the sector, with STMicroelectronics and Prysmian climbing more than 4% each. Defence company Leonardo also gained over 3% after reporting solid second-quarter results and raising its full-year 2026 guidance. Brunello Cucinelli also advanced more than 3% after reporting strong first-half sales and lifting its annual guidance. Amplifon surged 8% after posting its strongest second-quarter organic growth in two years. Meanwhile, most banking stocks also traded higher. For the week, the benchmark index is heading for its first weekly gain in four weeks."
-    },
-    {
-      "id": "5018733",
-      "time": "2026-07-31 16:09:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華邦健康：全資子公司獲伊布替尼片《藥品註冊證書》】華邦健康公告稱，其全資子公司重慶華邦製藥有限公司近日收到國家藥監局核准簽發的伊布替尼片《藥品註冊證書》，規格為0.14g、420mg，註冊分類為化學藥品3類。該藥品適用於套細胞淋巴瘤、慢性淋巴細胞白血病等多種病症治療，按化學藥品3類申報視同透過仿製藥一致性評價。獲批將豐富公司抗腫瘤產品線，不過專利有效期到期後，生產銷售仍有不確定因素。"
-    },
-    {
-      "id": "5018732",
-      "time": "2026-07-31 16:09:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三達膜：擬使用2620.14萬元剩餘募資投建擴產專案】三達膜公告稱，公司擬使用部分剩餘募集資金2620.14萬元投資建設“特種分離與水處理陶瓷膜一期擴產專案”，實施主體為三達膜科技（廈門）有限公司，建設週期18個月。原“無機陶瓷納濾芯及其淨水器生產線專案”因無法取得用地取消，截至目前該專案已投入6.08萬元，剩餘25084.23萬元（不含利息）未確定投向。新專案已取得備案證明，環評審批手續開始準備，該議案尚待股東會審議。"
-    },
-    {
-      "id": "mkt:019fb738-9115-7aab-8f2d-c714c322685c",
-      "time": "2026-07-31 16:09:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "07709.HK",
-        "Impact bullish",
-        "07747.HK",
-        "02513.HK"
-      ],
-      "text": "Hong Kong close: Hang Seng Index +0.1%, Hang Seng Tech +0.53%. China Southern 2x long SK Hynix (07709.HK) surged >67.5%, China Southern 2x long Samsung Electronics (07747.HK) rose >48%, Zhipu AI (02513.HK) +>14.5%, MiniMax (00100.HK) +>13%."
-    },
-    {
-      "id": "5018731",
-      "time": "2026-07-31 16:09:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【敷爾佳：“重組Ⅲ型人源化膠原蛋白凍幹纖維”註冊申請獲受理】敷爾佳公告稱，公司醫療器械產品“重組Ⅲ型人源化膠原蛋白凍幹纖維”註冊申請已獲國家藥監局受理。該產品為公司首款淺層注射填充類產品，臨床用於改善皮膚狀態。目前處於註冊申請受理階段，後續還需審評審批、核發批件。同類產品在醫美領域市場潛力大。此次受理對開拓醫美院線市場、豐富產品線有重要意義，但技術審評有不確定性，對近期業績無影響，尚無法預測對未來業績的具體影響。"
-    },
-    {
-      "id": "mkt:019fb738-5a58-7aab-8f2d-bab7bc4a817a",
-      "time": "2026-07-31 16:09:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Four departments call for lifetime accountability; vow strict penalties for misuse of funds, illegal financing and asset transfers】Four departments’ Implementation Opinions aim to tighten regulatory effectiveness: strengthen fit‑and‑proper vetting for directors and senior managers, prevent personnel with prior violations from circulating within the financial sector, and increase inspections. The document orders harsh penalties for illegal conduct by financial institutions, shareholders, actual controllers, directors, senior managers and practitioners — specifically illegal use of funds, unauthorized financing or guarantees, and improper asset transfers — and requires immediate referral of suspected intermediary violations (eg, by accounting firms) to industry regulators. It mandates lifetime accountability for major breaches in accordance with law, directs state‑owned financial institutions to establish coordinated oversight systems led by Party supervision alongside investor, audit and employee oversight, and calls for strengthened oversight of regulators and tighter supervision‑and‑accountability mechanisms."
-    },
-    {
-      "id": "mkt:019fb738-4f81-7aab-8f2d-b21eca5345da",
-      "time": "2026-07-31 16:09:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Spain current account surplus €1.84 bln in May, down from €1.88 bln previously."
-    },
-    {
-      "id": "5018730",
-      "time": "2026-07-31 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數漲0.119%，恒生科技指數漲0.470%】智譜漲13.167%，MINIMAX-W漲12.463%，老鋪黃金漲10.102%，聯想集團漲9.844%，阿里巴巴-W漲4.920%，洛陽鉬業漲3.872%，百度集團-SW漲3.428%。"
-    },
-    {
-      "id": "mkt:019fb738-3116-7aab-8f2d-ac2be281da57",
-      "time": "2026-07-31 16:09:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Current Account (May) | actual 1840000000B | previous 1880000000B"
-    },
-    {
-      "id": "5018729",
-      "time": "2026-07-31 16:08:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國基本養老保險覆蓋範圍繼續擴大】今天，民政部、全國老齡辦釋出《2025年度國家老齡事業發展公報》。我國基本養老保險覆蓋範圍繼續擴大。截至2025年末，全國參加基本養老保險107591萬人，比上年末增加309萬人。全國參加城鎮職工基本養老保險54672萬人，比上年末增加1220萬人。全國參加城鄉居民基本養老保險52919萬人，其中實際領取待遇18820萬人。2025年城鄉居民基本養老保險全國基礎養老金最低標準提高20元。個人養老金累計繳存金額1452億元。（央視新聞）"
-    },
-    {
-      "id": "5018728",
-      "time": "2026-07-31 16:08:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳門公佈2026年上半年本地生產總值初步數值】澳門統計暨普查局資料顯示，今年上半年訪澳旅客按年增加，帶動服務出口保持增長，澳門經濟總體平穩發展。2026年上半年本地生產總值的初步數值為2098.9億澳門元，按年實質增長3.7%。"
-    },
-    {
-      "id": "mkt:019fb737-58a4-7aab-8f2d-a439904040cc",
-      "time": "2026-07-31 16:08:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Four Chinese financial regulators issue governance guidance to protect consumers, back minority shareholders and employee participation】Four Chinese financial regulators, including the National Financial Regulatory Administration, issued implementation opinions to strengthen financial-institution governance. The guidance mandates protection of financial consumers and other stakeholders’ lawful rights, expands financial literacy and consumer education, and requires financial product and service suitability standards with periodic updates. It stipulates legal protection for consumers’ rights to information, autonomous choice and fair dealing, and promotes diversified dispute-resolution channels with encouragement of mediation. The opinions support orderly participation of minority shareholders and employees in corporate governance, endorse employee directors and supervisors, and encourage protection of employee and stakeholder complaints and whistleblowing on illegal or non-compliant conduct."
-    },
-    {
-      "id": "5018727",
-      "time": "2026-07-31 16:07:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬東醫療：獲得超導型磁共振成像系統醫療器械註冊證】萬東醫療公告稱，公司近日收到國家藥監局頒發的超導型磁共振成像系統《醫療器械註冊證》，註冊證編號為國械注準20263061647，批准及生效日期為2026年7月29日，有效期至2031年7月28日。該註冊證的取得有助於豐富公司產品結構、增強核心競爭力，但產品上市後實際銷售情況尚無法預測，提醒投資者注意風險。"
-    },
-    {
-      "id": "5018726",
-      "time": "2026-07-31 16:07:10",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Godaddy美股盤前跌超10%】Godaddy美股盤前跌超10%，現報88.5美元。"
     }
   ]
 }
