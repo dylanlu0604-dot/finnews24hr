@@ -1,7 +1,156 @@
 {
-  "updated": "2026-08-07 18:16:00",
-  "count": 16156,
+  "updated": "2026-08-07 18:20:03",
+  "count": 16157,
   "items": [
+    {
+      "id": "mkt:019fdbbc-1f03-7aab-8fb6-8132cca0a568",
+      "time": "2026-08-07 18:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【July private securities fund filings hit highest monthly total this year】In July 762 private securities fund managers filed 1,763 new products (including self-distributed and advisory products), up from 1,466 in June, a 20.26% MoM increase. Year-to-date filings reached 9,759 by end-July, a 43.85% rise versus 6,784 at the same point last year."
+    },
+    {
+      "id": "5030873",
+      "time": "2026-08-07 18:19:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海川智慧：聘任王智為公司財務總監】海川智慧公告稱，公司於2026年8月7日召開第五屆董事會第九次會議，審議透過聘任王智為公司財務總監的議案，任期至第五屆董事會任期屆滿。王智曾任美的集團等公司財務相關職務，截至公告披露日，其未持有公司股份，與公司其他相關方無關聯關係，符合任職資格。"
+    },
+    {
+      "id": "5030872",
+      "time": "2026-08-07 18:19:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國泰海通：擬3.00港元/股登出股份實現國泰君安國際私有化】國泰海通公告稱，公司第七屆董事會第十八次會議審議透過相關議案，同意全資子公司國泰海通金控以“協議安排”方式，3.00港元/股的價格登出國泰君安國際除國泰海通金控所持股票外的其他全部普通股股票，以登出價減行使價後的價格登出其全部尚未行使購股權，實現其私有化退市。授權經營管理層辦理相關事宜，該事項存在不確定性。"
+    },
+    {
+      "id": "5030871",
+      "time": "2026-08-07 18:18:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光華科技：2026年半年度淨利潤9428.5萬元，同比增67.56%】光華科技公告，2026年上半年營業收入22.48億元，同比增長75.32%。歸屬於上市公司股東的淨利潤9428.5萬元，同比增長67.56%。歸屬於上市公司股東的扣除非經常性損益的淨利潤9161.34萬元，同比增長67.28%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5030870",
+      "time": "2026-08-07 18:18:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅能化：下屬子公司中標8891.64萬元工程施工專案】甘肅能化公告稱，公司下屬全資子公司煤一公司中標控股股東下屬企業慶陽煤電的九龍川煤礦專案工程施工，包括工業場地邊坡治理和河道治理與防洪工程，合計中標金額8891.64萬元（含稅），構成關聯交易。2026年8月7日，該議案經公司第十一屆董事會第十四次會議審議透過，3名關聯董事迴避表決。此次中標有助於擴大公司工程業務規模，提升營收與盈利水平。年初至2月底，公司與控股股東及其下屬企業累計關聯交易總額為5229.63萬元。"
+    },
+    {
+      "id": "5030869",
+      "time": "2026-08-07 18:18:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【甘肅能化：下屬公司5219.47萬元購買控股股東下屬商標】甘肅能化公告稱，下屬全資子公司劉化化工為保障生產經營及品牌運營，購買控股股東下屬公司劉化集團持有的14項商標，交易金額為5219.47萬元，劉化化工將使用自有資金或銀行貸款支付。本次購買商標事項構成關聯交易，不構成重大資產重組。劉化集團2026年1 - 3月營收396.61萬元，淨虧損292.78萬元。本次交易預計不會對公司未來財務狀況及經營成果構成重大影響。"
+    },
+    {
+      "id": "5030868",
+      "time": "2026-08-07 18:17:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【數字政通：擬設立合資公司建設算力中心專案】數字政通(300075.SZ)公告稱，公司全資子公司政通智算擬與中數博通、天樞智算共同投資設立合資公司，認繳出資總額5000萬元，其中政通智算出資2000萬元，持股40%。合資公司擬在河北省張家口市赤城縣投資建設算力中心專案。"
+    },
+    {
+      "id": "5030867",
+      "time": "2026-08-07 18:17:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "根據美國證券交易委員會（SEC）檔案，字母表公司（Alphabet Inc.）已提交最高額度250億美元的10期票據發行申請。"
+    },
+    {
+      "id": "5030865",
+      "time": "2026-08-07 18:16:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月份私募證券基金備案量創年內單月新高】私募排排網資料顯示，7月份共有762家證券類私募基金管理人完成新產品備案，合計備案產品1763只（含自主發行、投顧類產品），較6月份的1466只增長20.26%，創年內單月備案新高。拉長時間來看，截至7月末，年內全市場私募證券基金備案總量已達9759只，相較去年同期的6784只增長43.85%。（證券日報）"
+    },
+    {
+      "id": "mkt:019fdbb9-be8c-7aab-8fb6-7d877254976a",
+      "time": "2026-08-07 18:16:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Republicans pivot to 'they're worse' midterm strategy, to spotlight Democratic left in Dallas】Republicans plan a prime-time TV blitz from their first midterm conference in Dallas on Sept. 9-10 at the American Airlines Center to argue Democrats are controlled by an activist left, aiming to shift the midterms away from a referendum on Trump. The move comes as Trump’s approval slips into the 30% range and the ongoing war with Iran continues to weigh on the economy. GOP operatives have spent months assembling video assets of progressive figures and plan to repeatedly air them during the conference to portray Democrats as out of the mainstream. Assets include footage of Hasan Piker—a left-wing political streamer with a large youth following who has drawn criticism for strongly anti‑U.S. foreign-policy positions and harsh criticism of Israel—and Texas US Senate candidate James Talarico, targeted over support for progressive issues (trans rights, looser immigration, public education reform) and past comments such as God is nonbinary."
+    },
+    {
+      "id": "te:economy:573767",
+      "time": "2026-08-07 18:16:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mauritius",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Mauritius Inflation Rate at 7-Month High — The annual inflation rate in Mauritius accelerated to 4.4% in July 2026 from 3.7% in the previous month, reaching its highest level since December 2025. Prices rebounded for food and non-alcoholic beverages (2.7% vs. -1.3% in June), while inflation picked up for housing and utilities (8.9% vs. 8.8%), alcoholic beverages and tobacco (5.7% vs. 1.8%), furnishings, household equipment and routine household maintenance (4.3% vs. 3.5%), clothing and footwear (2.9% vs. 2.7%), and recreation, sports, and culture (2.5% vs. 2.3%). Meanwhile, inflation eased for health (4.7% vs. 6.7%), transport (4.6% vs. 9.5%), and restaurants and hotels (9.9% vs. 10.2%). At the same time, inflation was unchanged for education at 5.4%, while deflation for information and communication remained steady at 1.5%. On a monthly basis, consumer prices edged up 0.2% in July, easing from a 0.3% increase in June and marking the slowest monthly rise since March."
+    },
+    {
+      "id": "5030864",
+      "time": "2026-08-07 18:16:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【盛達資源：股票交易異常波動，連續3個交易日內日收盤價格漲幅偏離值累計超過20%】盛達資源公告，公司股票連續3個交易日內（2026年8月5日至2026年8月7日）的日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司近期生產經營正常，內外部經營環境未發生重大變化。控股子公司四川鴻林礦業有限公司近日取得菜園子銅金礦尾礦庫《安全生產許可證》，可開展選礦工作，鴻林礦業菜園子銅金礦進入正式投產階段。"
+    },
+    {
+      "id": "5030863",
+      "time": "2026-08-07 18:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其總統府：“正在沙烏地阿拉伯麥加開展工作訪問的我方總統雷傑普・塔伊普・埃爾多安，會見沙特王儲兼首相穆罕默德・本・薩勒曼。”"
+    },
+    {
+      "id": "5030862",
+      "time": "2026-08-07 18:15:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贊宇科技：股東方銀軍減持至持股4.999998%】贊宇科技公告，持股5%以上股東方銀軍於2026年8月3日至6日透過集中競價交易減持公司股份28.18萬股，佔公司總股本比例0.059906%。本次權益變動後，方銀軍持有公司股份2352萬股，佔公司總股本比例4.999998%，持股比例降至5%以下，不再是公司持股5%以上股東。"
+    },
+    {
+      "id": "5030861",
+      "time": "2026-08-07 18:15:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣和通：擬現金購航盛電子37.16%股份 交易不攤薄即期回報】廣和通公告稱，公司擬現金購買航盛電子37.16%股份並透過一致行動協議實現控制，構成重大資產重組。交易不涉及新增股份，根據《備考審閱報告》，重組後2025年、2026年1 - 4月基本每股收益分別為0.53元/股、0.07元/股，較交易前增長20.45%、88.34%，不攤薄即期回報。公司擬採取整合航盛電子、完善治理、完善利潤分配政策等措施增強回報能力，控股股東、實控人、董高也作出相關承諾。"
+    },
+    {
+      "id": "5030860",
+      "time": "2026-08-07 18:15:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【立方製藥：甲磺酸多沙唑嗪緩釋片等2產品中選第12批國家集採】立方製藥公告，公司產品中選第12批國家組織藥品集中帶量採購。甲磺酸多沙唑嗪緩釋片2025年度銷售收入1.03億元，佔公司2025年度營業收入比例6.66%；2026年第一季度銷售收入2531.94萬元，佔公司2026年第一季度營業收入比例7.09%。美阿沙坦鉀片於2026年5月19日獲批上市，尚未產生銷售收入。中選結果將於今年內實施，採購週期自中選結果執行之日起至2029年12月31日。"
+    },
+    {
+      "id": "te:economy:573766",
+      "time": "2026-08-07 18:15:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Macedonia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "North Macedonia Inflation Eases to 2-Year Low — The annual inflation rate in North Macedonia eased to 2.3% in July 2026 from 3.4% in the previous month, marking the lowest reading since August 2024. Price growth moderated for food and non-alcoholic beverages (1.1% vs 2.5% in June), clothing and footwear (1.8% vs 2.1%), furniture, household equipment, and routine household maintenance (2.1% vs 4.2%), health (1.3% vs 1.8%), transportation (1.1% vs 6.2%), information and communication (2.0% vs 2.8%), restaurants and hotels (4.4% vs 4.9%), and insurance and financial services (1.6% vs 1.7%). In contrast, costs increased for alcoholic beverages and tobacco (9.5% vs 9.3%), recreation and culture (5.7% vs 5.1%), education (4.9% vs 4.6%), housing and utilities (3.6% vs 2.8%), and miscellaneous goods and services (1.9% vs 1.6%). On a monthly basis, consumer prices grew by 0.1% in July, rebounding from a 0.5% drop in the preceding period."
+    },
     {
       "id": "5030859",
       "time": "2026-08-07 18:15:23",
@@ -147143,156 +147292,6 @@
         "其他"
       ],
       "text": "【6月我國外匯市場總計成交28.00萬億元人民幣】今天國家外匯管理局公佈的資料顯示，2026年6月，中國外匯市場總計成交28.00萬億元人民幣（等值4.11萬億美元）。2026年1到6月，中國外匯市場累計成交152.21萬億元人民幣（等值22.08萬億美元）。（央視新聞）"
-    },
-    {
-      "id": "te:economy:571750",
-      "time": "2026-07-31 18:19:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Inflation Rate Hits Over 3-Year High — The inflation rate in Colombo, Sri Lanka’s capital, rose to 7.3% in July 2026 from 6.8% in the previous month, well above market expectations of 6.7%. This marked the highest reading since June 2023, as food inflation accelerated to a more than three-year high of 6.3% from 3.6% in June. Additionally, non-food prices remained elevated but eased to 7.8% from 8.4%. Prices increased faster for furnishing and equipment (5.4% vs 4.5% in June), communication (0.5% vs 0.3%), education (7.2% vs 6.5%), restaurants and hotels (10.6% vs 10.3%), and miscellaneous goods and services (6.2% vs 5.8%). Meanwhile, inflation eased for transport (17.2% vs 18.7%), clothing and footwear (0.8% vs 1.3%), housing and utilities (5.4% vs 6.3%), and health (3.0% vs 4.2%). Costs were flat for alcoholic beverages and tobacco after a 1.7% increase, while prices for recreation and culture declined further (-2.1% vs -1.4%). On a monthly basis, consumer prices moderated to 0.2% in July from 2.1% in the previous month."
-    },
-    {
-      "id": "5019097",
-      "time": "2026-07-31 18:19:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛達資源：2026年上半年營收11.52億元 淨利潤同比增456.46%】盛達資源公告稱，2026年上半年，公司營收11.52億元，同比增長27.08%；淨利潤3.90億元，同比增長456.46%。報告期內，公司完成多項收購，包括伊春金石礦業60%股權、廣西來賓金石礦業55%股權等；子公司完成多項探礦權、採礦權延續及整合工作；鴻林礦業菜園子銅金礦井下進入全面開採狀態。此外，公司終止發行股份購買鴻林礦業47%股權並募集配套資金事項，擬現金收購其2.6186%股權。"
-    },
-    {
-      "id": "5019096",
-      "time": "2026-07-31 18:19:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【神霧節能：股價連續兩日異動 上半年營收5500-7000萬元】神霧節能公告稱，公司股票於2026年7月30日、7月31日連續2個交易日內收盤價格漲幅偏離值累計達21.16%，屬於異常波動。2026年上半年，公司營收為5500萬元 - 7000萬元，扣非後淨虧損895萬元 - 795萬元。公司無控股股東、實際控制人，不存在應披露未披露事項。此外，公司因涉嫌信披違法違規被立案，連續八年扣非淨利潤為負，提醒投資者注意風險。"
-    },
-    {
-      "id": "5019095",
-      "time": "2026-07-31 18:18:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛將蘋果目標股價從370美元下調至360美元。"
-    },
-    {
-      "id": "mkt:019fb7ae-d639-7aab-8f31-db116792bcb9",
-      "time": "2026-07-31 18:18:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan's top FX official MIMURA declined to comment on yen volatility."
-    },
-    {
-      "id": "mkt:019fb7ae-a31b-7aab-8f31-d21d2f8b129d",
-      "time": "2026-07-31 18:18:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan data indicate Japan may have sold $58.97 billion during Thursday's New York session to support the yen."
-    },
-    {
-      "id": "5019093",
-      "time": "2026-07-31 18:17:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深交所上市委：獵奇智慧首發獲透過】深交所上市委公告，蘇州獵奇智慧裝置股份有限公司（簡稱“獵奇智慧”）首發獲透過。"
-    },
-    {
-      "id": "5019092",
-      "time": "2026-07-31 18:17:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛視科技：收到4項授予發明專利權通知書】盛視科技公告，公司及全資子公司湖北光谷盛創科技有限公司、深圳菲菲特文化創新有限公司近日收到國家智慧財產權局下發的《授予發明專利權通知書》，共4項發明專利，包括證件影象質量評估方法及終端、滾刷清掃結構及清潔機器人、一種密集障礙物環境自適應避障控制方法及移動機器人、一種低延遲實時避障運動控制方法及移動機器人。上述專利為公司自主研發取得，將有利於公司進一步完善智慧財產權保護體系，提升核心競爭力。"
-    },
-    {
-      "id": "5019091",
-      "time": "2026-07-31 18:17:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "雪佛龍股價盤前上漲1.8%，此前其二季度利潤超出市場預期。"
-    },
-    {
-      "id": "5019090",
-      "time": "2026-07-31 18:17:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吳惠嫻任橫琴粵澳深度合作區執行委員會主任】經批准，橫琴粵澳深度合作區執委會官網於今日（31日）釋出訊息，澳門特區政府經濟財政司司長吳惠嫻任橫琴粵澳深度合作區執行委員會主任。（澳門特區政府）"
-    },
-    {
-      "id": "5019089",
-      "time": "2026-07-31 18:17:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "梅利烏斯研究將蘋果目標股價從每股385美元下調至370美元。"
-    },
-    {
-      "id": "5019088",
-      "time": "2026-07-31 18:17:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證監會對世紀證券有限責任公司採取出具警示函措施】經查，我會發現世紀證券有限責任公司存在質控、核心把關不嚴；薪酬管理不規範等問題。上述情況違反了《證券發行上市保薦業務管理辦法》（以下稱《保薦辦法》）第三十一條，《證券公司和證券投資基金管理公司合規管理辦法》第二十八條，《證券公司投資銀行類業務內部控制指引》第七條、六十一條的規定。按照《保薦辦法》第六十四條的規定，我會決定對你公司採取出具警示函的行政監督管理措施。你公司應加強對投資銀行業務的內控管理，對相關責任人員進行內部問責。(證監會)"
-    },
-    {
-      "id": "5019087",
-      "time": "2026-07-31 18:16:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天力鋰能：公司及控股股東王瑞慶遭證監會立案】天力鋰能公告，公司及控股股東、實際控制人王瑞慶於2026年7月31日分別收到中國證監會《立案告知書》，因涉嫌資訊披露等違法違規被立案。目前公司各項經營活動均正常開展，立案調查期間將積極配合調查並履行資訊披露義務。"
-    },
-    {
-      "id": "mkt:019fb7ad-3461-7aab-8f31-cf5b1c9a1b3b",
-      "time": "2026-07-31 18:16:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CVX.N",
-        "Impact bullish"
-      ],
-      "text": "Chevron (CVX.N) said U.S. daily production reached a record 2.1 million barrels of oil equivalent per day (boe/d)."
-    },
-    {
-      "id": "5019086",
-      "time": "2026-07-31 18:16:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "雪佛龍：公司第二季度營收及其他收入達到700.6億美元，顯著高於市場預期的679.3億美元。第二季度運營現金流高達226億美元，遠超197.2億美元的預期值；其中，調整後的運營現金流為197億美元。上游業務收益達到81.8億美元，略高於此前約81億美元的預測。在資本開支方面，雪佛龍維持了原有的全年資本支出計劃，預計2026年全年資本支出將在180億至190億美元之間，與此前的預測範圍保持一致。"
-    },
-    {
-      "id": "mkt:019fb7ac-cad9-7aab-8f31-c37b752edaf9",
-      "time": "2026-07-31 18:16:22",
-      "tags": [
-        "MKT News",
-        "CVX.O"
-      ],
-      "text": "Chevron (CVX.N) Q2 total production averaged 4.07 million barrels of oil equivalent per day."
     }
   ]
 }
