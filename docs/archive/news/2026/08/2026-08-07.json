@@ -1,7 +1,53 @@
 {
   "date": "2026-08-07",
-  "count": 2418,
+  "count": 2423,
   "items": [
+    {
+      "id": "5031203",
+      "time": "2026-08-07 20:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本二季度3次干預匯市，未能扭轉日元頹勢】8月7日，日本財務省公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。（澎湃）"
+    },
+    {
+      "id": "te:markets:573815",
+      "time": "2026-08-07 20:55:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Sterling Strengthens to Over 3-Week High — The British pound rose to $1.350 on Friday, its highest level since July 15, while the dollar weakened sharply as investors reduced expectations of a Federal Reserve rate hike in September following a weaker-than-expected US jobs report. Also, easing oil prices reduced concerns over inflation and the potential impact of higher energy costs on the UK economy. President Donald Trump said negotiations between Iran and Oman over the Strait of Hormuz were “moving along,” although a deal has yet to be finalized as details remain under discussion in Tehran. A reopening of the strategic waterway could support energy flows and potentially pave the way for broader talks to end the conflict. Lower energy prices have reinforced expectations that the Bank of England will maintain a gradual approach to monetary policy. At its latest meeting, the BoE left rates unchanged, while Governor Andrew Bailey said the disinflation process remained on track despite ongoing external uncertainties."
+    },
+    {
+      "id": "5031202",
+      "time": "2026-08-07 20:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”單日最多影響25個機場】颱風“白海豚”將沿“臺灣北部—浙江沿海—安徽內陸”移動，根據航班管家DAST颱風預測資料，8月9日至11日為主要影響時段，單日最多或有25個機場進入影響範圍。其中8月8日影響12個機場，以浙江、臺灣為主；8月9日增至24個，影響向安徽擴充套件； 8月10日影響25個機場，浙江、安徽最集中；8月11日覆蓋範圍最廣，波及8省，安徽7個機場受影響，南昌、武漢也將進入影響範圍； 8月12日颱風減弱，影響縮減至15個機場，主要集中在安徽及周邊。重點關注杭州、寧波、溫州、上海浦東、上海虹橋、南京等千萬級機場。其中杭州、寧波、溫州及上海浦東預計連續受影響3天。（第一財經）"
+    },
+    {
+      "id": "5031201",
+      "time": "2026-08-07 20:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利特米：預計2026年上半年淨利潤逾700萬令吉，同比增加】利特米公告，預計截至2026年6月30日止六個月，公司權益擁有人應占溢利將增加至逾700萬令吉，相對截至2025年6月30日止六個月約為520萬令吉。董事會認為，有關改善主要受惠於成功推出一系列新產品帶動收益增加、毛利隨銷售增加而上升以及毛利率改善，及與海南省文昌市之投資有關的專案支出減少。"
+    },
+    {
+      "id": "mkt:019fdc49-1cdb-7aab-8fba-cb3194311090",
+      "time": "2026-08-07 20:53:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister magyar said the government will launch a tender for 700 MW of wind power capacity before Aug. 31."
+    },
     {
       "id": "5031200",
       "time": "2026-08-07 20:52:36",

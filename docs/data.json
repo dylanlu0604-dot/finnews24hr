@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-07 20:53:30",
-  "count": 16129,
+  "updated": "2026-08-07 20:57:27",
+  "count": 16127,
   "items": [
+    {
+      "id": "5031203",
+      "time": "2026-08-07 20:56:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本二季度3次干預匯市，未能扭轉日元頹勢】8月7日，日本財務省公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。（澎湃）"
+    },
+    {
+      "id": "te:markets:573815",
+      "time": "2026-08-07 20:55:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Sterling Strengthens to Over 3-Week High — The British pound rose to $1.350 on Friday, its highest level since July 15, while the dollar weakened sharply as investors reduced expectations of a Federal Reserve rate hike in September following a weaker-than-expected US jobs report. Also, easing oil prices reduced concerns over inflation and the potential impact of higher energy costs on the UK economy. President Donald Trump said negotiations between Iran and Oman over the Strait of Hormuz were “moving along,” although a deal has yet to be finalized as details remain under discussion in Tehran. A reopening of the strategic waterway could support energy flows and potentially pave the way for broader talks to end the conflict. Lower energy prices have reinforced expectations that the Bank of England will maintain a gradual approach to monetary policy. At its latest meeting, the BoE left rates unchanged, while Governor Andrew Bailey said the disinflation process remained on track despite ongoing external uncertainties."
+    },
+    {
+      "id": "5031202",
+      "time": "2026-08-07 20:55:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”單日最多影響25個機場】颱風“白海豚”將沿“臺灣北部—浙江沿海—安徽內陸”移動，根據航班管家DAST颱風預測資料，8月9日至11日為主要影響時段，單日最多或有25個機場進入影響範圍。其中8月8日影響12個機場，以浙江、臺灣為主；8月9日增至24個，影響向安徽擴充套件； 8月10日影響25個機場，浙江、安徽最集中；8月11日覆蓋範圍最廣，波及8省，安徽7個機場受影響，南昌、武漢也將進入影響範圍； 8月12日颱風減弱，影響縮減至15個機場，主要集中在安徽及周邊。重點關注杭州、寧波、溫州、上海浦東、上海虹橋、南京等千萬級機場。其中杭州、寧波、溫州及上海浦東預計連續受影響3天。（第一財經）"
+    },
+    {
+      "id": "5031201",
+      "time": "2026-08-07 20:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利特米：預計2026年上半年淨利潤逾700萬令吉，同比增加】利特米公告，預計截至2026年6月30日止六個月，公司權益擁有人應占溢利將增加至逾700萬令吉，相對截至2025年6月30日止六個月約為520萬令吉。董事會認為，有關改善主要受惠於成功推出一系列新產品帶動收益增加、毛利隨銷售增加而上升以及毛利率改善，及與海南省文昌市之投資有關的專案支出減少。"
+    },
+    {
+      "id": "mkt:019fdc49-1cdb-7aab-8fba-cb3194311090",
+      "time": "2026-08-07 20:53:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's prime minister magyar said the government will launch a tender for 700 MW of wind power capacity before Aug. 31."
+    },
     {
       "id": "5031200",
       "time": "2026-08-07 20:52:36",
@@ -147070,75 +147116,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲3%，現報86.45美元/桶。"
-    },
-    {
-      "id": "5019459",
-      "time": "2026-07-31 20:56:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "中金公司在香港舉辦首屆啟航沙龍，推出國際資產託管服務。"
-    },
-    {
-      "id": "mkt:019fb83f-713b-7aab-8f36-2f6d7d367fd2",
-      "time": "2026-07-31 20:56:33",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Gaza roadmap: the deadline for executing the second phase can be extended. Hamas and other factions agreed to hand civil and security functions to an administrative committee and not to interfere with the committee’s affairs during the transition. An international committee will monitor any violations by either side using an enhanced monitoring mechanism."
-    },
-    {
-      "id": "5019458",
-      "time": "2026-07-31 20:55:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院國資委：深化央企“人工智慧+”專項行動 因企制宜培育新興產業和未來產業】7月31日，國務院國資委黨委召開擴大會議。會議強調，國資央企要堅決把思想和行動統一到黨中央對當前經濟形勢的科學判斷和經濟工作部署上來，清醒把握當前形勢，進一步堅定信心決心，用好各種機遇和優勢，全力以赴提質增效穩增長，堅決完成全年目標任務，推動中央企業高質量發展行穩致遠。要指導中央企業主動對接和帶頭落實好國家政策，抓住重點、主動作為，充分發揮引領帶動作用，更好助推經濟持續向新向優向好發展。要錨定全年目標不動搖，切實加強現場督導調研，把中央企業生產經營情況摸清摸透，找準痛點、對症下藥，夯實企業高質量發展基礎。要著力推進原始創新和關鍵核心技術攻關，以更大力度加強基礎研究，深化央企“人工智慧+”專項行動，因企制宜培育新興產業和未來產業。要持續深化提質增效，做好重點領域內卷治理，推進全產業鏈、全價值鏈降本節支，增強經營創現能力和資本積累積聚能力，以“自身穩”帶動“行業穩”。要堅決守住風險底線，有效發揮司庫體系功能作用，切實加強穿透監管，紮實抓好防汛救災和安全生產工作，築牢高質量發展的安全屏障。"
-    },
-    {
-      "id": "5019457",
-      "time": "2026-07-31 20:54:58",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【上半年我國保險業原保險保費收入3.86萬億元】中國保險行業協會7月31日釋出的資料顯示，2026年上半年，保險市場執行總體平穩，業務結構持續最佳化，原保險保費收入3.86萬億元，同比增長3.3%；賠款與給付支出1.4萬億元，同比增長3.8%。 上半年，財產險公司實現原保險保費收入9846億元，同比增長2.1%；人身險公司實現原保險保費收入約2.87萬億元，同比增長3.6%；外資保險公司市場份額上升至9.7%。 中國保險行業協會副秘書長方詠在當日召開的2026年度第二次例行新聞釋出會上介紹，目前，針對廣西、湖北、甘肅等20個省份暴雨洪澇、颱風、地震等自然災害，保險業累計接報案53.3萬件，估損110.5億元，已賠付55.3億元，其中對暴雨洪澇及颱風災害賠付52.1億元。 方詠表示，災前，各地保險行業協會出臺車險災害互認指引，保險機構開展風險排查、應急演練，前置儲備救援物資與跨區支援力量；災中，啟動省市兩級應急響應，依託警保、政保聯動推行無差別免費施救；災後，保險業落地“三免四快”便民服務，全力支援災後重建。目前理賠工作有序推進，保險業將持續跟蹤災情，助力受災地區儘快恢復正常生產生活秩序。(新華社)"
-    },
-    {
-      "id": "5019456",
-      "time": "2026-07-31 20:54:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "布魯納：休達沒有通往歐洲大陸的後續交通工具。"
-    },
-    {
-      "id": "mkt:019fb83c-e3d3-7aab-8f36-2272171b013c",
-      "time": "2026-07-31 20:53:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "HSBC raises PT for Microsoft (MSFT.O) to $595 from $567."
-    },
-    {
-      "id": "5019455",
-      "time": "2026-07-31 20:53:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度外交部：烏茲別克外長將於 8 月 2 日至 5 日到訪。"
     }
   ]
 }
