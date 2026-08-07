@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-07 09:16:08",
-  "count": 16193,
+  "updated": "2026-08-07 09:19:56",
+  "count": 16197,
   "items": [
+    {
+      "id": "mkt:019fd9cd-1c3f-7aab-8fab-9d56b3446331",
+      "time": "2026-08-07 09:18:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "518880.SS",
+        "518550.SS"
+      ],
+      "text": "【Gold ETFs tally CNY11.1bn cumulative inflows; 17th straight trading-day net inflow】HITHINK ROYALFLUSH iFinD shows gold ETFs logged another CNY1.84bn net inflow yesterday. Since July 15, gold ETFs have seen net subscription inflows for 17 consecutive trading days totaling CNY11.1bn, the longest streak since March. Huaan Gold ETF (518880) has accumulated CNY7.277bn of net inflows; Huaxia Gold ETF (518550) has CNY1.036bn."
+    },
+    {
+      "id": "5029794",
+      "time": "2026-08-07 09:18:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部礦業等成立地質科技公司】企查查APP顯示，近日，西藏西礦地質科技有限公司成立，經營範圍包含非煤礦山礦產資源開採；金屬與非金屬礦產資源地質勘探；礦產資源勘查等。企查查股權穿透顯示，該公司由西部礦業(601168)等共同持股。"
+    },
+    {
+      "id": "mkt:019fd9cc-0787-7aab-8fab-96fcebd42266",
+      "time": "2026-08-07 09:17:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.06% at 25,533, trading a 3-point premium to the cash index."
+    },
+    {
+      "id": "5029793",
+      "time": "2026-08-07 09:15:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：旺季預期有望助力稀土價格向上】中信建投證券研報認為，7月稀土各品種表現差異明顯，氧化鐠釹先揚後抑，氧化鋱跳漲後回撥，氧化鏑整體平穩。供給端，由於廢料廠原料緊張問題導致產量明顯下滑。SMM資料顯示，7月氧化鐠釹產量環比下降11%，8月或有邊際改善，但總體產量仍被壓制。高溫假期導致下游電機廠開工下滑，需求回落，8月仍處淡季。“金九銀十”是傳統消費旺季，市場對需求啟動預期依然較強。8月中下旬有望重啟下游備庫，打破供需雙弱格局，推動價格企穩向上。"
+    },
+    {
+      "id": "5029792",
+      "time": "2026-08-07 09:15:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7904，較上日調低9點】 人民幣兌美元中間價報6.7904，較上日調低9點。"
+    },
     {
       "id": "mkt:019fd9ca-0fb9-7aab-8fab-8f9cbb555067",
       "time": "2026-08-07 09:15:25",
@@ -148075,14 +148125,6 @@
         "Important"
       ],
       "text": "China's July official manufacturing PMI due in 10 minutes."
-    },
-    {
-      "id": "5018012",
-      "time": "2026-07-31 09:19:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【飛天茅臺領漲 白酒大單品總價止跌微升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價7月31日低位企穩。如果主要單品各取一瓶整體打包售賣，今日總售價為9872元，較昨日微幅上漲1元，在連續兩日走低後止跌微升，低位盤整格局仍在延續。縱觀全場，過去一天酒市終端交投情緒低位趨穩，多空雙方再陷膠著。\n\n今日11大白酒單品四漲六跌一平，輸家數量佔據優勢，但上漲品種的合計漲幅略勝一籌。上漲方面，飛天茅臺與青花汾20並列領漲，均上漲5元/瓶。其中，前者的全國零售均價在昨日小幅走低後再度轉漲，7.18提價後的高位整理格局延續；後者則打破此前兩連平，自近一個月最低位明顯修復，重新站上370元關口。國窖1573上漲3元/瓶，自昨日創下的今年2月2日以來最低位反彈；青花郎小漲1元/瓶，昨日大幅下挫後出現技術性回補。下跌方面，習酒君品跌幅居前，下跌3元/瓶，三連跌價格退守630一線。精品茅臺、五糧液普五八代、五糧液1618、洋河夢之藍M6+與古井貢古20均下跌2元/瓶。其中，精品茅臺二連陽告終，價格繼續在2400元下方拉鋸；五糧液普五八代四連陰，再平“酒價內參”自去年11月有統計以來最低價紀錄；五糧液1618再度跌破820元關口；洋河夢之藍M6+結束此前連續三日平盤，600元整數支撐位再度失守；古井貢古20連續三日走低。水晶劍南春價格環比昨日保持不變，連續兩日維持在403元/瓶。"
     }
   ]
 }
