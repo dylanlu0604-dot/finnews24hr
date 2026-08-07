@@ -1,7 +1,537 @@
 {
-  "updated": "2026-08-07 12:57:49",
-  "count": 16076,
+  "updated": "2026-08-07 13:27:19",
+  "count": 16103,
   "items": [
+    {
+      "id": "mkt:019fdab0-29cc-7aab-8fb0-361729b2ab5f",
+      "time": "2026-08-07 13:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share innovative-drug sector rallied in the afternoon; Boteng hit the daily price limit, Yaoshi Technology and Haoyuan Pharmaceutical climbed over 15%, while Hongbo Pharmaceutical, Medisi and Betta Pharmaceuticals also advanced."
+    },
+    {
+      "id": "mkt:019fdaaf-e86c-7aab-8fb0-2a5ca9b8ab6c",
+      "time": "2026-08-07 13:26:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DR Congo says confirmed Ebola cases in the current outbreak have exceeded 4,000 for the first time."
+    },
+    {
+      "id": "mkt:019fdaaf-d878-7aab-8fb0-244730916895",
+      "time": "2026-08-07 13:26:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Japan's ENEOS CFO said that after the Iran conflict ends the company needs to expand oil reserves in the medium-to-long term and diversify crude procurement sources. ENEOS will coordinate closely with the government to strengthen oil supply-chain resilience."
+    },
+    {
+      "id": "5030091",
+      "time": "2026-08-07 13:26:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傳58同城啟動人員最佳化，銷售團隊壓縮至6000人，官方暫無回應 】有自稱58同城員工在社交平臺爆料稱，58同城將啟動多輪人員最佳化計劃，覆蓋830、930、1030、1130多個時間節點，所有業務線的銷售人員規模計劃從年初1.6萬人壓縮至6000人。在該發帖評論區，還有自稱58同城員工表示，“是逐步控制在6000人以內，不是到6000人就停。”對此傳聞，新浪科技向58同城方面求證，截至發稿未獲回應。（新浪科技）"
+    },
+    {
+      "id": "5030090",
+      "time": "2026-08-07 13:26:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊午後漲幅擴大，博騰股份漲停】創新藥板塊午後漲幅擴大，博騰股份漲停，藥石科技、皓元醫藥漲超15%，泓博醫藥、梅迪西、貝達藥業跟漲。"
+    },
+    {
+      "id": "5030089",
+      "time": "2026-08-07 13:25:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "國債期貨午後漲幅擴大，30年期主力合約漲0.34%，續刷年內新高。"
+    },
+    {
+      "id": "5030088",
+      "time": "2026-08-07 13:24:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子化學品板塊持續拉昇，唯特偶漲超18%】電子化學品板塊持續拉昇，唯特偶漲超18%，宏和科技逼近漲停，天承科技、萊特光電、容大感光漲幅居前。"
+    },
+    {
+      "id": "5030087",
+      "time": "2026-08-07 13:22:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本能源巨頭ENEOS首席財務官表示：將與日本政府密切協作，增強石油供應鏈韌性。"
+    },
+    {
+      "id": "5030086",
+      "time": "2026-08-07 13:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國內首臺單核心大冷量稀釋製冷機問世】近日，在中國科學院量子資訊與量子科技創新研究院（以下簡稱“量子創新研究院”）的授權指導下，國盾量子成功完成稀釋製冷機ez-Q F1500的工程化開發，實現首臺下線。ez-Q F1500在100毫開爾文（mK）溫度下實現1700微瓦（μW）製冷量，在20mK溫度下實現48μW製冷量，單核心製冷量達到國際領先水平。產品將於今年下半年啟動交付，為我國後續千位元可糾錯超導量子計算機的研製奠定基礎。（安徽日報）"
+    },
+    {
+      "id": "mkt:019fdaab-4eec-7aab-8fb0-182b07efcafa",
+      "time": "2026-08-07 13:21:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【South Korea plans to cut reliance on Middle East crude to 60% or below】South Korea's government on the 7th is reviewing a draft Resource Security Basic Plan that would cap Middle East crude imports at 60% or below to diversify supply sources. The move follows disruptions in the Strait of Hormuz in 1H tied to the Middle East conflict that pushed crude and refined fuel prices higher. South Korea's dependence on Middle East crude was about 70% last year."
+    },
+    {
+      "id": "5030085",
+      "time": "2026-08-07 13:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本能源巨頭ENEOS首席財務官表示：伊朗戰爭結束後，我們需要中長期內擴大石油儲備，並實現原油採購來源多元化。"
+    },
+    {
+      "id": "mkt:019fdaaa-6e67-7aab-8fb0-1030c8d23071",
+      "time": "2026-08-07 13:20:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "30-year government bond futures (TL) most-active contract rose more than 0.30% intraday to 115.74 yuan."
+    },
+    {
+      "id": "mkt:019fdaaa-0a1f-7aab-8fb0-0bdcfd59466f",
+      "time": "2026-08-07 13:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "France Q2 ILO unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "5030084",
+      "time": "2026-08-07 13:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月07日13時08分在四川宜賓市高縣（北緯28.51度，東經104.67度）發生4.9級地震，震源深度6千米。"
+    },
+    {
+      "id": "5030083",
+      "time": "2026-08-07 13:17:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "上交所：財通福鑫定開混合、全球晶片LOF臨時停牌。"
+    },
+    {
+      "id": "5030082",
+      "time": "2026-08-07 13:16:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【申萬宏源：人形機器人進入具身智慧驅動 中長期建議沿三條主線佈局】申萬宏源釋出研報稱，人形機器人進入具身智慧驅動的新階段。本體零部件是硬體基礎，量產落地帶動減速器、伺服、感測器需求釋放；具身大模型作為機器人智慧核心，演算法與模擬平臺構築軟體壁壘；訓練資料是模型迭代核心約束，真實示教採集＋第一視角採集+模擬合成資料等多路線並行，資料供給端稀缺性持續提升。中長期建議沿三條主線佈局：①人形機器人核心零部件廠商；②具身模型和本體廠商；③機器人資料採集硬體與資料服務相關標的。"
+    },
+    {
+      "id": "5030081",
+      "time": "2026-08-07 13:15:39",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【福建：虛擬電廠運營商應持續強化聚合資源調節能力建設，重點提升分散式電源、儲能的精準調控水平】近日，福建省發改委會同福建能源監管辦印發《福建省虛擬電廠建設執行管理辦法（試行）》（以下簡稱《辦法》），指導省內虛擬電廠建設運營、市場交易、系統接入、安全管控等全流程工作。《辦法》從建設及接入管理、能力測試管理、交易及結算管理、執行與安全管理以及組織保障等方面作出規定。根據參與市場交易要求，《辦法》將虛擬電廠劃分為發電類與負荷類兩大類別。其中，發電類虛擬電廠主要聚合全額上網及自發自用餘電上網的分散式電源和分散式儲能等資源；負荷類虛擬電廠主要聚合可調節負荷（含使用者計量關口內合規分散式電源、儲能）等資源。同一運營商可同時建設多個發電類虛擬電廠（聚合單元）、負荷類虛擬電廠（聚合單元）。《辦法》明確，虛擬電廠建設運營流程包括資質稽核、系統接入除錯、能力測試、檔案管理、執行監測等環節，並對各環節執行標準作出清晰界定。《辦法》提出，虛擬電廠運營商在滿足福建電力市場註冊相關規定及相應市場的准入要求後，可作為獨立經營主體參與電力中長期、現貨、輔助服務等市場。虛擬電廠運營商應持續強化聚合資源調節能力建設，重點提升分散式電源、儲能的精準調控水平，強化可調節負荷等資源的快速、實時響應能力。"
+    },
+    {
+      "id": "te:markets:573624",
+      "time": "2026-08-07 13:15:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Increases by 0.26% — Top currency gainer is South Korean Won (0.26%). Meanwhile, Japanese Yen, Dollar Index and British Pound were little changed."
+    },
+    {
+      "id": "5030080",
+      "time": "2026-08-07 13:14:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【大摩：上調聯想集團目標價至34港元，維持“增持”評級】摩根士丹利發表研報指，聯想集團將於下週公佈首季度業績，預測收入達240億美元，同比增長27%、環比增長11%；受基礎設施方案業務收入及利潤率上升帶動，預測經調整純利將達到約7.88億美元，同比增長102%、環比增長41%，較市場預期高約12%。大摩指出，供應鏈渠道資料續顯示AI及通用伺服器訂單持續強勁，相信市場可能低估了聯想ISG的訂單積壓情況及盈利執行能力。大摩目前憧憬儲存器供需平衡已因AI需求而出現結構性改善，有利於聯想轉嫁成本及維持利潤，預料IDG業務利潤率將維持穩定於7%至7.5%。該行對聯想2027至2029財年經調整純利的預測較市場預期高14%、20%及25%，目標價由30港元上調至34港元，維持“增持”評級。"
+    },
+    {
+      "id": "5030079",
+      "time": "2026-08-07 13:14:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【爆料：沙特、土耳其、巴基斯坦將簽署重要協議】接近沙特軍方和政府的訊息人士告訴法新社，沙特、土耳其和巴基斯坦將於8月7日在沙特簽署一項聯合防務協議。 “這一協議已經討論了很久，但地區局勢的發展加速了其簽署。”該訊息人士表示。另一位接近沙特政府的訊息人士也證實了這一訊息。法新社稱，沙特王儲兼首相穆罕默德預計將在吉達與土耳其總統埃爾多安和巴基斯坦總理夏巴茲會面。根據土耳其總統府的訊息，埃爾多安預計於8月7日抵達吉達。夏巴茲已於8月6日到達沙特，他對沙特的訪問將持續至8月8日。（環球時報）"
+    },
+    {
+      "id": "mkt:019fdaa4-5334-7aab-8fb0-026e1d4c7f4c",
+      "time": "2026-08-07 13:13:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India plans to launch a support program for polysilicon production, a clean-energy official said."
+    },
+    {
+      "id": "5030078",
+      "time": "2026-08-07 13:13:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度清潔能源官員：將推出多晶矽生產支援計劃。"
+    },
+    {
+      "id": "5030077",
+      "time": "2026-08-07 13:11:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【動物疫苗板塊拉昇，賢豐控股直線漲停】動物疫苗板塊拉昇，賢豐控股直線漲停，此前海正藥業漲停，亨通股份、科興製藥、生物股份、康華生物、蔚藍生物跟漲。"
+    },
+    {
+      "id": "5030076",
+      "time": "2026-08-07 13:11:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月07日13時08分在四川宜賓市高縣附近（北緯28.54度，東經104.68度）發生5.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5030075",
+      "time": "2026-08-07 13:11:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4270美元/盎司，日內漲0.71%。"
+    },
+    {
+      "id": "5030074",
+      "time": "2026-08-07 13:11:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4330美元/盎司，日內漲0.71%。"
+    },
+    {
+      "id": "5030073",
+      "time": "2026-08-07 13:10:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【聯想集團漲幅擴大至5%】港股聯想集團午後拉昇，漲幅擴大至5%，報27.24港元/股。"
+    },
+    {
+      "id": "5030072",
+      "time": "2026-08-07 13:08:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多支創新藥ETF漲超5%】醫療服務、CRO概念持續走強，十餘隻相關個股漲停。科創創新藥ETF國泰（589720）、 科創創新藥ETF匯添富（589120）、創新藥ETF易方達（516080）等多隻ETF漲超5%"
+    },
+    {
+      "id": "5030071",
+      "time": "2026-08-07 13:08:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胖東來鄭州二店？於東來剛剛首提弘坊專案】8月7日上午，胖東來創始人於東來在直播中提到鄭州專案時，首次提及“弘坊”專案。話音剛落，評論區便被“弘坊”刷屏。這意味著，繼鄭州東站之後，胖東來在鄭州再添新專案。（大河財立方）"
+    },
+    {
+      "id": "mkt:019fda9f-0515-7aab-8faf-ff5868c38ae7",
+      "time": "2026-08-07 13:08:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【2026 China summer box office tops 8.0 bln yuan】Online platform data showed the 2026 China summer box office, including presales, exceeded 8.0 bln yuan as of Aug 7."
+    },
+    {
+      "id": "5030070",
+      "time": "2026-08-07 13:07:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PET銅箔板塊再度走高，銅冠銅箔觸及20cm漲停】PET銅箔板塊再度走高，銅冠銅箔觸及20cm漲停，此前泰金新能、江南新材、諾德股份等多股漲停。"
+    },
+    {
+      "id": "5030069",
+      "time": "2026-08-07 13:07:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑期檔票房破80億】據網路平臺資料，截至8月7日，2026年暑期檔總票房（含預售）突破80億元。"
+    },
+    {
+      "id": "5030068",
+      "time": "2026-08-07 13:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海擊中三艘載有烏克蘭軍用物資的船隻。"
+    },
+    {
+      "id": "mkt:019fda9e-4914-7aab-8faf-f5ca4ee83a66",
+      "time": "2026-08-07 13:07:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported the Russian defence ministry said Russian forces struck three vessels in the Black Sea carrying Ukrainian military cargo."
+    },
+    {
+      "id": "te:economy:573621",
+      "time": "2026-08-07 13:06:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Japan Leading Index Holds Near 5-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, stood at 116.4 in June 2026, unchanged from May’s revised figure, amid uncertain global conditions, according to preliminary estimates. The reading remained the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, unemployment stood at 2.5% in June, remaining at its lowest level since July 2025, pointing to resilient labor market conditions, though employment was at its three-month low. Consumer confidence also improved to a five-month high, amid optimism about employment prospects and income growth."
+    },
+    {
+      "id": "5030066",
+      "time": "2026-08-07 13:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國總理阿努廷對校園槍擊事件深感震驚和悲痛，他強調這正是政府拒絕續發槍支許可證的原因，並已責成相關官員對事件展開調查。（CCTV國際時訊）"
+    },
+    {
+      "id": "5030065",
+      "time": "2026-08-07 13:05:21",
+      "tags": [
+        "央行"
+      ],
+      "text": "【機構：澳大利亞央行會議仍可能提振澳元】澳大利亞金融市場反映的預期是，澳大利亞央行下週的政策會議上幾乎沒有上調利率的可能。澳新銀行外匯研究主管Mahjabeen Zaman表示，不過，該央行仍有可能釋放偏緊縮的訊號，這可能會轉化為澳元的一些上行動力。她補充說，與此同時，幾乎沒有什麼言論或行動能推動出現比市場已經反映的預期更偏寬鬆的結果。主要的意外因素可能是投票分歧。Zaman說，任何支援加息的異議都可能略微增加對偏緊縮的預期。"
+    },
+    {
+      "id": "5030064",
+      "time": "2026-08-07 13:05:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "工信部公佈《享受車船稅減免優惠的節約能源使用新能源汽車車型目錄》（第八十九批），比亞迪方程豹鈦9、賽力斯問界M8等多款車型在列。"
+    },
+    {
+      "id": "mkt:019fda9b-b126-7aab-8faf-ed8e5c362f01",
+      "time": "2026-08-07 13:04:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share biopharma sector spiked intraday; Yiqiao Shenzhou surged to the daily limit in a straight-line move. Earlier Jin'an Protein and Baipusais hit limit-up; Nuoweizan, Wufan Biotech, Rongchang Biotech and Changchun Gaoxin also rose."
+    },
+    {
+      "id": "5030063",
+      "time": "2026-08-07 13:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【兆易創新A股成交額超200億元】兆易創新A股日內成交額超200億元，現漲7.27%。"
+    },
+    {
+      "id": "te:economy:573620",
+      "time": "2026-08-07 13:04:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Coincident Index",
+        "Importance 1"
+      ],
+      "text": "Japan Coincident Index Notches 6-Year Peak — Japan's coincident economic index, a key gauge of current economic conditions based on indicators such as industrial production, employment, and retail sales, edged up to 118.2 in June 2026 from 117.9 in the prior month, preliminary data showed. The reading was the highest since May 2019, pointing to a continued moderate economic recovery. Private consumption strengthened as improving employment and income conditions supported household spending, while consumer sentiment showed signs of stabilizing. External demand also improved, with exports rising amid subdued imports, although the outlook remained uncertain due to developments in the Middle East and other global risks. Fiscal policy continued to underpin the economy following Japan's approval of a second consecutive record-high state budget. Meanwhile, the Bank of Japan maintained an accommodative policy stance despite raising its short-term policy rate by 25bps to 1.0% in June, the highest level since September 1995."
+    },
+    {
+      "id": "5030062",
+      "time": "2026-08-07 13:03:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【里昂證券日本策略師據悉辭職 先前已有多名主管離職】據知情人士透露，資深日本證券分析師Nicholas Smith已從里昂證券辭職。根據Smith的領英資料顯示，他於2011年加入里昂證券。他以每週釋出的“Benthos”策略報告而聞名，該報告專注於日本的價值導向投資。"
+    },
+    {
+      "id": "5030061",
+      "time": "2026-08-07 13:03:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生物製品板塊短線衝高，義翹神州直線漲停】生物製品板塊短線衝高，義翹神州直線漲停，此前近岸蛋白、百普賽斯漲停，諾唯贊、吳帆生物、榮昌生物、長春高新跟漲。"
+    },
+    {
+      "id": "mkt:019fda9a-989e-7aab-8faf-e5dd239bc33a",
+      "time": "2026-08-07 13:03:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China EV Leaders",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "China's Ministry of Industry and Information Technology published the 89th batch of its Directory of energy-saving new-energy vehicle models eligible for vehicle and vessel tax reductions/exemptions, adding models including BYD Fangchengbao Titanium 9 and SERES Wenjie M8."
+    },
+    {
+      "id": "5030060",
+      "time": "2026-08-07 13:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東佛山：已叫停季華中學教師招聘工作，開展全面核查】8月7日，廣東佛山市教育局釋出情況通報：針對網傳佛山市季華中學教師招聘有關情況，佛山市教育局已叫停學校招聘工作，成立專門調查組，開展全面核查，調查情況將向社會通報。感謝廣大網民的監督，我們將依法依規處置，努力營造公平公正的選人用人環境。"
+    },
+    {
+      "id": "mkt:019fda98-bfcf-7aab-8faf-d98e7b9ecb98",
+      "time": "2026-08-07 13:01:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's June coincident index (preliminary) 118.2, versus 118.1 expected and 117.9 prior."
+    },
+    {
+      "id": "mkt:019fda98-a43c-7aab-8faf-d19607914643",
+      "time": "2026-08-07 13:01:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan June leading economic index (preliminary) 116.4, vs 116.5 expected and 116.5 prior."
+    },
+    {
+      "id": "mkt:019fda98-9a49-7aab-8faf-cb5accf98f1f",
+      "time": "2026-08-07 13:01:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Flash (Jun) | actual 118.2 | consensus 118.1 | previous 117.9"
+    },
+    {
+      "id": "mkt:019fda98-878d-7aab-8faf-c257d47b767e",
+      "time": "2026-08-07 13:00:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Flash (Jun) | actual 116.4 | consensus 116.5 | previous 116.5"
+    },
+    {
+      "id": "5030059",
+      "time": "2026-08-07 13:00:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "5030058",
+      "time": "2026-08-07 13:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "安聯保險仍然預測全年營業利潤164億歐元至184億歐元。"
+    },
+    {
+      "id": "5030057",
+      "time": "2026-08-07 13:00:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "安聯保險第二季度營收456億歐元。安聯保險第二季度營業利潤48.7億歐元，預估45.8億歐元。"
+    },
+    {
+      "id": "mkt:019fda97-c7e9-7aab-8faf-be1e555b8dfe",
+      "time": "2026-08-07 13:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan preliminary June leading index MoM 0.0% (prev 0.4%)."
+    },
+    {
+      "id": "mkt:019fda97-c70c-7aab-8faf-b0c14b5750d7",
+      "time": "2026-08-07 13:00:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan coincident index preliminary m/m +0.3% in June; prior -0.2%."
+    },
+    {
+      "id": "mkt:019fda97-aaff-7aab-8faf-a4ab4a1559e2",
+      "time": "2026-08-07 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Coincident Index Flash (MoM) (Jun) | actual 0.3% | previous -0.2%"
+    },
+    {
+      "id": "mkt:019fda97-ab09-7aab-8faf-abdcb14e0735",
+      "time": "2026-08-07 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Leading Index Flash (MoM) (Jun) | actual 0% | previous 0.4%"
+    },
+    {
+      "id": "5030056",
+      "time": "2026-08-07 12:58:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【剛果（金）決定徹底禁止銅精礦、鈷精礦出口，華友鈷業回應】有市場訊息稱剛果（金）已釋出最新行政指令，決定徹底禁止銅精礦與鈷精礦的出口。對此，華友鈷業公司接線工作人員表示，禁令針對的是“銅精礦”和“鈷精礦”這類初級礦產品，而華友鈷業在剛果（金）的成品為粗製氫氧化鈷（鈷的中間品）和電積銅（陰極銅），不涉及精礦出口問題，“中資企業應該都差不多”。（21財經）"
+    },
+    {
+      "id": "mkt:019fda95-b162-7aab-8faf-9c419167bf9c",
+      "time": "2026-08-07 12:57:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【DRC reportedly bans copper and cobalt concentrate exports; HUAYOU NICKEL BRAND says its DRC output not concentrates】Market sources said the Democratic Republic of Congo (DRC) issued an administrative directive banning exports of copper concentrates and cobalt concentrates. HUAYOU NICKEL BRAND said the measure targets primary concentrates; its DRC output is crude cobalt hydroxide (an intermediate cobalt product) and electrolytic cathode copper, not concentrates, and it said Chinese firms are likely in similar positions."
+    },
     {
       "id": "5030055",
       "time": "2026-08-07 12:56:06",
@@ -146562,290 +147092,6 @@
         "其他"
       ],
       "text": "派傑投資將萬事達卡目標價從597美元上調至710美元。"
-    },
-    {
-      "id": "te:economy:571512",
-      "time": "2026-07-31 13:27:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "BoJ to Hold Eight Policy Meetings in 2027 — The Bank of Japan will hold eight Monetary Policy Meetings in 2027, convening in January, March, April, June, July, September, October, and December. In its statement, the central bank noted that the quarterly Outlook Report will be released four times during the year: January, April, July, and October, to provide updated assessments of economic and price developments."
-    },
-    {
-      "id": "5018369",
-      "time": "2026-07-31 13:26:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "南方兩倍做多海力士漲超70%，南方兩倍做多三星電子現漲超57%。"
-    },
-    {
-      "id": "5018368",
-      "time": "2026-07-31 13:25:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大曉機器人開源多模態具身物理智慧資料集】大曉機器人近日聯合南洋理工大學S-Lab開源L5級多模態具身物理智慧資料集ACE-Data-0，為全球具身模型提供面向泛化、反思與進化的資料底座，推動通用物理智慧加速實驗驗證，走向規模化產業落地。據悉，ACE-Data-0包含150小時資料、1700萬幀影片、200個任務類別。"
-    },
-    {
-      "id": "te:economy:571509",
-      "time": "2026-07-31 13:22:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Estonia Retail Sales Rebound in June — Retail sales in Estonia increased 0.8% year-on-year in June 2026, rebounding from a 1.1% decline in the previous month. Sales of food, beverages, and tobacco recovered, rising 1.0% following a 0.4% decline in May, while the drop in sales of non-food products excluding fuel eased significantly to 0.1% from 4.6%. Meanwhile, sales growth for automotive fuel in specialised stores slowed to 0.4% from 2.3% in the previous month. On a monthly basis, retail sales climbed 1.9% in June, accelerating from a modest 0.1% increase in May and marking the strongest monthly gain since March."
-    },
-    {
-      "id": "5018367",
-      "time": "2026-07-31 13:20:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度馬哈拉施特拉邦一建築倒塌 已致9人死亡】當地時間7月30日晚間，印度馬哈拉施特拉邦一棟四層建築發生倒塌。總檯記者31日獲悉，事故目前已造成9人死亡，另有多人可能仍被困在廢墟下。（央視新聞）"
-    },
-    {
-      "id": "5018366",
-      "time": "2026-07-31 13:20:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "安盛執行長表示，巨災債券是向市場引入資本的好方法。"
-    },
-    {
-      "id": "5018365",
-      "time": "2026-07-31 13:20:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "安盛執行長：只要做好預防措施，所有風險都可以投保。"
-    },
-    {
-      "id": "5018364",
-      "time": "2026-07-31 13:18:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【村田上調業績預期，表明人工智慧零部件需求旺盛】日本村田製作所上調盈利預期，凸顯全球科技產業擴張所需的高階人工智慧零部件需求強勁。這家總部位於京都的企業稱，目前預計全年營業利潤達 4300 億日元（摺合 27 億美元），此前預期為 3800 億日元。4 至 6 月季度營業利潤為 985 億日元，高於分析師平均預期的 906 億日元。公司在宣告中表示：“我們預計資料中心相關需求將持續增長，加之日元走弱，有望推動利潤超出此前預期。”全球各大頭部資料中心運營商均採購村田的高階產品。該企業是全球多層陶瓷電容器龍頭供應商。這類元件可調控電流，是所有用電裝置不可或缺的零部件。"
-    },
-    {
-      "id": "5018363",
-      "time": "2026-07-31 13:17:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達4.02%，成分股中，國子軟體漲24.18%，萬達軸承漲14.47%，戈碧迦漲11.92%，三協電機漲11.25%。"
-    },
-    {
-      "id": "5018362",
-      "time": "2026-07-31 13:16:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【必揚醫藥完成近兩億元A輪融資】7月31日，據星漢資本訊息，成都必揚醫藥科技有限公司近日宣佈超額完成近兩億元人民幣A輪融資。本輪融資由君聯資本與上海生物醫藥創新轉化基金聯合領投，康哲藥業、豐雷資本、上海科創基金與港粵資本跟投，老股東源津創投與元生創投持續加碼，星漢資本擔任本輪融資財務顧問。本輪資金將主要用於加速公司核心AI+分子設計與最佳化平臺（ExCEED）的技術迭代，推進重點專案管線的臨床與臨床前開發，並進一步完善國際化研發及商務團隊建設。"
-    },
-    {
-      "id": "5018361",
-      "time": "2026-07-31 13:16:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人形機器人概念持續走強 奧比中光20%漲停】人形機器人概念持續走強，奧比中光午後20%漲停，中控技術、拓斯達、長盛軸承等跟漲。"
-    },
-    {
-      "id": "5018360",
-      "time": "2026-07-31 13:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將 殼牌 目標價從3500便士上調至3650便士。"
-    },
-    {
-      "id": "5018359",
-      "time": "2026-07-31 13:15:23",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SK海力士股價在首爾漲幅擴大至30%，觸及漲停板。"
-    },
-    {
-      "id": "te:markets:571508",
-      "time": "2026-07-31 13:15:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Drops by 0.93% — Top currency losers are South Korean Won (-0.93%), Japanese Yen (-0.71%), Swiss Franc (-0.28%), Euro (-0.18%) and British Pound (-0.15%). Gains are led by Dollar Index (0.23%)."
-    },
-    {
-      "id": "te:economy:571507",
-      "time": "2026-07-31 13:14:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Housing Starts YoY",
-        "Importance 1"
-      ],
-      "text": "Japan Housing Starts Slow Sharply, Still Beat Expectations — Japan’s housing starts increased 18.6% year-on-year in June 2026, easing significantly from a 33.9% surge in the previous month but marking the third consecutive month of growth. The latest reading also comfortably exceeded market expectations of a 12.8% increase, suggesting housing construction remained resilient despite the moderation. Growth slowed across major categories, including owner-occupied homes (15.7% vs. 31.8% in May), rental housing (24.6% vs. 33.3%), and built-for-sale homes (14.2% vs. 39.2%). Meanwhile, starts for two-by-four homes fell 7.4%, reversing a 24.8% increase in May. In contrast, prefabricated housing starts rebounded strongly, rising 13.7% after a 3.4% decline in May."
-    },
-    {
-      "id": "5018358",
-      "time": "2026-07-31 13:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國野火引爆疑似德軍二戰遺留彈藥庫 】法國大西洋沿岸近日野火肆虐，一處被遺忘的二戰彈藥庫在野火中爆炸，傳出上百次爆炸聲。法國吉倫特省勒波日鎮長馬夏爾·扎尼內蒂7月30日告訴法國新聞廣播電臺，本輪野火吞噬了不少房屋，而且引爆了被遺忘的二戰時期地下彈藥庫，爆炸發出的巨響震耳欲聾。“鎮上的私有土地下竟然埋藏著彈藥庫，我們對此毫不知情。”依照《法蘭西西部報》說法，這批彈藥很可能是德軍遺留物資。二戰期間，德軍曾在法國大西洋沿岸的沙丘與林地修建大量碉堡、指揮點和彈藥庫。德軍1944年撤退時遺棄許多設施，大量彈藥與軍用裝備逐漸被遺忘。當地至今仍不時發掘出這類物品。（新華社）"
-    },
-    {
-      "id": "te:economy:571506",
-      "time": "2026-07-31 13:11:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Singapore Business Mood Remains Positive — Business confidence in Singapore's manufacturing sector remained positive in the second quarter of 2026, with a net weighted balance of 12%, though down from 17% in the previous survey, as strong global AI-related demand continued to support sentiment despite elevated geopolitical and economic uncertainty. Precision engineering (+55) was the most optimistic, driven by semiconductor-related equipment demand, while electronics (+19) also stayed upbeat on robust AI-related semiconductor demand. In contrast, chemicals (-25) remained the weakest amid Middle East-related feedstock supply disruptions, while general manufacturing industries (-13) stayed cautious due to rising material, fuel, and freight costs. Looking ahead, a net 26% of firms expect output to increase in the third quarter, led by precision engineering, electronics, and transport engineering, while most manufacturers anticipate stable employment."
-    },
-    {
-      "id": "5018357",
-      "time": "2026-07-31 13:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一票之差 美國會欲給對伊戰爭“踩剎車”再度遇阻】當地時間7月30日，美國參議院再次就持續五個月的對伊朗戰爭進行表決。結果是49票贊成、50票反對——只差一票，一項要求總統將美軍撤出未經國會授權的對伊軍事行動的決議，未能在參議院推進。這場投票的分佈沒有完全沿著兩黨界線展開。三名共和黨參議員蘇珊·柯林斯、麗莎·穆爾科斯基和蘭德·保羅與民主黨人一起支援推進決議；民主黨參議員約翰·費特曼則投下反對票；共和黨參議員米奇·麥康奈爾沒有參加投票。（央視）"
-    },
-    {
-      "id": "5018356",
-      "time": "2026-07-31 13:09:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "5018355",
-      "time": "2026-07-31 13:08:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍襲擊一艘駛往烏克蘭敖德薩附近港口、載有軍用貨物的船隻。"
-    },
-    {
-      "id": "mkt:019fb6c5-08c7-7aab-8f27-bd4e30223878",
-      "time": "2026-07-31 13:08:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "6758.T",
-        "Impact bullish"
-      ],
-      "text": "Sony Semiconductor Manufacturing Corporation said its Kumamoto Technology Center, which suspended operations after an earthquake, will resume phased operations from Aug. 4."
-    },
-    {
-      "id": "5018354",
-      "time": "2026-07-31 13:08:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯軍隊對敖德薩港和貨船發動了襲擊。"
-    },
-    {
-      "id": "5018353",
-      "time": "2026-07-31 13:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【萬億產業可期！北斗走進日常賦能千行百業】今天（31日），北斗三號全球衛星導航系統迎來開通六週年紀念日。最新資料顯示，2025年，我國以北斗為核心的衛星導航與位置服務產業總體產值已達6290億元。按照規劃，這一規模將在“十五五”期間突破一萬億元大關。（央視）"
-    },
-    {
-      "id": "5018352",
-      "time": "2026-07-31 13:04:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【軍工板塊午後異動】觀想科技直線漲停，華如科技漲超10%，建設工業等多股衝高。"
-    },
-    {
-      "id": "5018351",
-      "time": "2026-07-31 13:04:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【索尼將於下週二分階段重啟遭地震衝擊的感測器工廠】索尼集團表示，在日本西南部島嶼遭遇7.1級地震及多次餘震襲擊後，公司將於下週二分階段重啟位於九州的影象感測器工廠。公司預估，這座工廠將在8月中旬恢復至震前產能水平。索尼這座熊本縣工廠生產面向數碼相機、監控系統以及汽車高階駕駛輔助系統的影象感測器，該廠區並不生產手機影象感測器。熊本縣內還設有臺積電、東京電子、三菱電機的生產基地。上述多家工廠目前大多仍處於停產狀態，裝置正在接受檢修與校準，此次地震對工業及科技供應鏈造成的整體影響尚不明朗。十年前熊本縣曾遭遇強震重創。當時索尼花費三個多月才恢復工廠生產，又額外耗時兩個月使產能迴歸常態。索尼在九州其他地區還設有影象感測器工廠，本輪地震並未對這些廠區造成影響。"
-    },
-    {
-      "id": "mkt:019fb68c-f4ad-7aab-8f27-7b7d591d5696",
-      "time": "2026-07-31 13:01:58",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Construction Orders (YoY) (Jun) | actual 2.3% | previous -6.7%"
-    },
-    {
-      "id": "mkt:019fb68b-f007-7aab-8f27-77627caab84f",
-      "time": "2026-07-31 13:00:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Housing starts (YoY) (Jun) | actual 18.57% | consensus 12.8% | previous 33.90%"
-    },
-    {
-      "id": "5018350",
-      "time": "2026-07-31 13:00:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國農業信貸銀行第二季度營收73.6億歐元，預估70.3億歐元。法國農業信貸銀行第二季度淨利潤20.5億歐元，同比-12%。"
-    },
-    {
-      "id": "5018349",
-      "time": "2026-07-31 13:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲5.34%，現報3418.001點；上證指數漲0.79%，現報3834.871點；深證成指漲3.33%，現報13728.820點。"
-    },
-    {
-      "id": "5018348",
-      "time": "2026-07-31 13:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲3.27%，現報13720.591點；上證指數漲0.79%，現報3834.871點；創業板指漲5.24%，現報3414.486點。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202607313828143171",
-      "time": "2026-07-31 12:58:37",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日元匯率大漲 日本央行入市干預】週四，全球外匯市場巨震，美元指數失守100關口，美元兌日元盤中最大跌幅達3%，自本週早些時候逼近164的40年高點最低跌至158.34。日本央行將於週五公佈最新利率決議，行情異動表明日本政府開展外匯干預，支撐長期徘徊的日元。"
     }
   ]
 }
