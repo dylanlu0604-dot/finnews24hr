@@ -1,7 +1,43 @@
 {
   "date": "2026-08-07",
-  "count": 752,
+  "count": 756,
   "items": [
+    {
+      "id": "mkt:019fda57-cf3a-7aab-8faf-323fc49bac04",
+      "time": "2026-08-07 11:50:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Haichen Energy Storage's Wang Pengcheng: driving global lithium long-duration storage into large-scale delivery era】Haichen Energy Storage’s Heze plant has begun mass production, completing a full-chain rollout from materials and cells to modules, systems and delivery. The base, with total investment exceeding 13 billion yuan, targets annual output at full capacity of 30 GWh of 1,175 Ah long-duration cells and 20 GWh of systems built from 6.25 MWh units. The facility uses fifth-generation smart manufacturing lines and, the company says, has achieved an industry-first single-line capacity above 15 GWh. Haichen, which focuses on 4–8 hour applications, said its scale will push global lithium long-duration energy storage into large-scale deliveries."
+    },
+    {
+      "id": "5030002",
+      "time": "2026-08-07 11:49:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港2026年選舉委員會界別分組一般選舉11月22日投票】香港特區政府發言人今日（7日）表示，行政長官已根據《行政長官選舉條例》附表第16條，指明2026年11月22日為2026年選舉委員會界別分組一般選舉的投票日期，以選出新一屆選舉委員會的選任委員。相關公告已於今日的憲報刊登。 此外，選舉的提名期將於10月7日開始，至10月20日結束。總選舉事務主任會適時刊登公告指明呈交提名錶格的限期和地點，以及公佈相關細節。 特區政府會繼續與選舉管理委員會緊密合作，積極進行籌備工作，務求令到選舉得以在公開、誠實、公平、安全有序、高效和人性化的情況下順利舉行。"
+    },
+    {
+      "id": "mkt:019fda55-3472-7aab-8faf-2d62b9dd46a4",
+      "time": "2026-08-07 11:47:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HK insurance industry body rebuts rumours of 20% PIT on overseas policy gains】The Hong Kong Federation of Insurers said relevant Mainland authorities have not issued any formal policy documents or implementation rules regarding reports that Mainland China will levy a 20% personal income tax on gains from overseas life insurance policies. The federation said it is monitoring developments, will not speculate, and expects continued client demand for protection, wealth transfer and asset allocation; it added Hong Kong’s insurance market remains attractive due to flexible product design, multi-currency options and wealth-transfer services."
+    },
+    {
+      "id": "te:economy:573585",
+      "time": "2026-08-07 11:46:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "House Price Index YoY",
+        "Importance 1"
+      ],
+      "text": "Indonesia Home Price Growth Picks Up in Q2 — Residential property prices in Indonesia rose by 0.69% year-on-year in the second quarter of 2026, following a 0.62% increase in the previous quarter, which had marked the softest growth since the data series began in 2003. The modest pickup was driven by stronger gains in several cities, although trends across housing segments remained mixed. Annual price growth slowed for small houses to 0.49% (vs. 0.61% in Q1) and for medium-sized houses to 0.83% (vs. 0.88%), while large houses accelerated to 0.68% (vs. 0.50%). Among the 18 cities included in the survey, 10 reported faster annual house price growth, with the sharpest acceleration seen in Samarinda, where prices rose 3.23% after edging down 0.03% in the previous quarter. Meanwhile, Pontianak remained the weakest market, with prices falling 0.10% after a 0.27% decline in Q1, while Batam continued to record one of the strongest annual increases at 2.63%."
+    },
     {
       "id": "5030001",
       "time": "2026-08-07 11:43:15",
