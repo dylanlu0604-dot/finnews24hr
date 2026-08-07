@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-08 00:48:08",
-  "count": 15994,
+  "updated": "2026-08-08 00:52:19",
+  "count": 15998,
   "items": [
+    {
+      "id": "mkt:019fdd22-95a2-7aab-8fbe-a796b860ce57",
+      "time": "2026-08-08 00:50:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the U.S. will immediately file an appeal with the U.S. Supreme Court."
+    },
+    {
+      "id": "mkt:019fdd22-8a4b-7aab-8fbe-983633836b34",
+      "time": "2026-08-08 00:50:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the court ruling on the ballroom project must be overturned in full by the Supreme Court."
+    },
+    {
+      "id": "5031448",
+      "time": "2026-08-08 00:50:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：最高法院必須徹底推翻法院就宴會廳案作出的裁決。 我們將立即向美國最高法院提起上訴。"
+    },
+    {
+      "id": "mkt:019fdd21-cecd-7aab-8fbe-912b2620a6c6",
+      "time": "2026-08-08 00:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI"
+      ],
+      "text": "U.S. oil rig count for the week to Aug. 7 due in 10 minutes."
+    },
+    {
+      "id": "5031447",
+      "time": "2026-08-08 00:50:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案：貝萊德公司截至 6 月 30 日持有SpaceX 5100 萬股 A 類普通股。"
+    },
+    {
+      "id": "mkt:019fdd21-3ed5-7aab-8fbe-8d11572134c0",
+      "time": "2026-08-08 00:49:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "ABC News reports Trump, after a setback at the Supreme Court, is continuing efforts to remove Federal Reserve governor Lisa Cook."
+    },
+    {
+      "id": "5031446",
+      "time": "2026-08-08 00:48:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普繼續推進解僱美聯儲理事麗莎·庫克的計劃。"
+    },
+    {
+      "id": "mkt:019fdd20-467c-7aab-8fbe-807420f00cf8",
+      "time": "2026-08-08 00:48:27",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "According to SEC filings, BlackRock (BLK.N) disclosed it held 51 million Class A common shares of SpaceX (SPCX.O) as of June 30."
+    },
+    {
+      "id": "mkt:019fdd1f-ef7d-7aab-8fbe-7ab9665afeaf",
+      "time": "2026-08-08 00:48:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister said the country will not allow its territory to be used for actions against other countries, the prime minister's office said."
+    },
+    {
+      "id": "5031445",
+      "time": "2026-08-08 00:47:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理辦公室：伊拉克總理表示，不允許本國領土被用於針對他國的行動。"
+    },
     {
       "id": "mkt:019fdd1f-103a-7aab-8fbe-734d7d4ab769",
       "time": "2026-08-08 00:47:08",
@@ -145760,66 +145848,6 @@
         "DXY"
       ],
       "text": "Fed's Barkin said it is \"difficult to assert\" whether interest rates are high enough."
-    },
-    {
-      "id": "5019781",
-      "time": "2026-08-01 00:51:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員巴爾金： 無法確定自己是否會和另外三名同僚一樣投下反對票、支援加息。"
-    },
-    {
-      "id": "5019780",
-      "time": "2026-08-01 00:51:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員巴爾金：目前尚難以判定利率水平是否已足夠高。"
-    },
-    {
-      "id": "5019779",
-      "time": "2026-08-01 00:50:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯外長：將致力於恢復與墨西哥、哥倫比亞的外交關係，並推動與委內瑞拉實現關係緩和。"
-    },
-    {
-      "id": "mkt:019fb915-96f7-7aab-8f3b-a5d099fbc632",
-      "time": "2026-08-01 00:50:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Trump: US and Israel have consensus on plan to disarm Hamas; Israel \"performed very well\"】Trump said the US and Israel have reached a consensus on a plan to disarm Hamas and that Israel has \"performed very well.\" He said many had considered such a deal impossible, cautioned it may experience ups and downs given the complex situation on the ground, and called it a \"huge breakthrough,\" linking the development to US progress on Iran and saying such an agreement would have been impossible four to five months ago."
-    },
-    {
-      "id": "5019778",
-      "time": "2026-08-01 00:50:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "秘魯外長：秘魯將深化與美國的 “良好關係”，視華盛頓為 “戰略伙伴”  。"
-    },
-    {
-      "id": "mkt:019fb915-3eaf-7aab-8f3b-9aea20fd6d6f",
-      "time": "2026-08-01 00:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "US oil rig count for the week to July 31 due in 10 minutes."
     }
   ]
 }
