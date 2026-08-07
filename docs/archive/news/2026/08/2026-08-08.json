@@ -1,7 +1,36 @@
 {
   "date": "2026-08-08",
-  "count": 283,
+  "count": 286,
   "items": [
+    {
+      "id": "5031577",
+      "time": "2026-08-08 03:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法律資訊網站 BLAW：消費者金融保護局結束對特朗普時期重點調查的社群放貸機構的調查。"
+    },
+    {
+      "id": "mkt:019fddc5-7956-7aab-8fc1-8f39d1d68f95",
+      "time": "2026-08-08 03:48:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil prices rise on the 7th】As of the close, NYMEX September light sweet crude futures rose $0.89 to $78.18/bbl, up 1.15%. ICE Brent October futures rose $1.06 to $83.55/bbl, up 1.29%."
+    },
+    {
+      "id": "5031576",
+      "time": "2026-08-08 03:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會撤銷針對特倫・派澤的內幕交易訴訟。"
+    },
     {
       "id": "5031575",
       "time": "2026-08-08 03:45:33",
