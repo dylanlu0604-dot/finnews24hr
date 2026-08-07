@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-08 00:15:37",
-  "count": 16004,
+  "updated": "2026-08-08 00:19:42",
+  "count": 16000,
   "items": [
+    {
+      "id": "te:markets:573868",
+      "time": "2026-08-08 00:18:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Records — European stocks closed higher on Friday, tracking similar developments in major equity markets amid a rebound for industrial and tech stocks. The Euro STOXX 50 added 0.4% to 6,530 and the STOXX Europe 600 rose 0.4% to 661. Software producers and AI-related infrastructure manufacturers rose for a second session, tracking US counterparts with SAP gaining 4.1%, while Infineon and Siemens rose nearly 3% each. Meanwhile, Sanofi and Argenx each gained 1.3% to close a strong weak for the European pharmaceutical sector. On the other hand, Allianz fell 1.6% despite generating a record profit on both its insurance and asset management business in the second quarter. Likewise, Munich Re dropped 1.5% despite reporting higher profits in the period."
+    },
+    {
+      "id": "mkt:019fdd04-4c15-7aab-8fbe-06b5cf502a55",
+      "time": "2026-08-08 00:17:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "AAPL.O",
+        "AMZN.O",
+        "NKE.N"
+      ],
+      "text": "Senator Warren (D) has pressed Apple (AAPL.O), Amazon (AMZN.O) and Nike (NKE.N) over refunds of tariffs collected under the Trump administration, urging in a letter that they refund tariff charges to consumers."
+    },
+    {
+      "id": "5031427",
+      "time": "2026-08-08 00:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃倫在信函中敦促企業向消費者退還關稅款項。"
+    },
+    {
+      "id": "5031426",
+      "time": "2026-08-08 00:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果、亞馬遜、耐克遭沃倫參議員就關稅退款事宜問詢。"
+    },
     {
       "id": "te:markets:573867",
       "time": "2026-08-08 00:14:07",
@@ -145867,78 +145908,6 @@
         "國際"
       ],
       "text": "特朗普談及烏克蘭及導彈相關事宜：尚未同意該方案，我認為這件事絕不會發生。"
-    },
-    {
-      "id": "5019760",
-      "time": "2026-08-01 00:19:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭與導彈議題：對於允許他國研發製造這類導彈，我們必須極為謹慎。"
-    },
-    {
-      "id": "mkt:019fb8f9-17a9-7aab-8f3b-053a1e899536",
-      "time": "2026-08-01 00:19:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "President Trump said on strikes against Iran that the U.S. has taken massive action."
-    },
-    {
-      "id": "5019759",
-      "time": "2026-08-01 00:18:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及對伊朗打擊行動：我們已經實施大規模行動。"
-    },
-    {
-      "id": "mkt:019fb8f7-7b84-7aab-8f3a-fcebff8e81fd",
-      "time": "2026-08-01 00:17:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the (de-weaponization) fund has fallen through, but he hopes it has not."
-    },
-    {
-      "id": "te:economy:571837",
-      "time": "2026-08-01 00:15:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10Y Bond Yield Hits 15-year High — Germany 10 Year Government Bond Yield increased to 3.21%, the highest since May 2011. Over the past 4 weeks, Germany 10Y Bond Yield gained 33.35 basis points, and in the last 12 months, it increased 53.34 basis points."
-    },
-    {
-      "id": "5019758",
-      "time": "2026-08-01 00:15:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國代理司法部長布蘭奇應該獲得批准。"
-    },
-    {
-      "id": "mkt:019fb8f5-c50e-7aab-8f3a-f6f12b1d8d36",
-      "time": "2026-08-01 00:15:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's Pemex said it paid 248 bln pesos to suppliers and contractors in 1H."
-    },
-    {
-      "id": "mkt:019fb8f5-be11-7aab-8f3a-ef7212050d7e",
-      "time": "2026-08-01 00:15:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says Acting U.S. Attorney General Blanche should be confirmed."
     }
   ]
 }

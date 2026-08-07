@@ -1,7 +1,48 @@
 {
   "date": "2026-08-08",
-  "count": 14,
+  "count": 18,
   "items": [
+    {
+      "id": "te:markets:573868",
+      "time": "2026-08-08 00:18:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Records — European stocks closed higher on Friday, tracking similar developments in major equity markets amid a rebound for industrial and tech stocks. The Euro STOXX 50 added 0.4% to 6,530 and the STOXX Europe 600 rose 0.4% to 661. Software producers and AI-related infrastructure manufacturers rose for a second session, tracking US counterparts with SAP gaining 4.1%, while Infineon and Siemens rose nearly 3% each. Meanwhile, Sanofi and Argenx each gained 1.3% to close a strong weak for the European pharmaceutical sector. On the other hand, Allianz fell 1.6% despite generating a record profit on both its insurance and asset management business in the second quarter. Likewise, Munich Re dropped 1.5% despite reporting higher profits in the period."
+    },
+    {
+      "id": "mkt:019fdd04-4c15-7aab-8fbe-06b5cf502a55",
+      "time": "2026-08-08 00:17:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "AAPL.O",
+        "AMZN.O",
+        "NKE.N"
+      ],
+      "text": "Senator Warren (D) has pressed Apple (AAPL.O), Amazon (AMZN.O) and Nike (NKE.N) over refunds of tariffs collected under the Trump administration, urging in a letter that they refund tariff charges to consumers."
+    },
+    {
+      "id": "5031427",
+      "time": "2026-08-08 00:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃倫在信函中敦促企業向消費者退還關稅款項。"
+    },
+    {
+      "id": "5031426",
+      "time": "2026-08-08 00:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果、亞馬遜、耐克遭沃倫參議員就關稅退款事宜問詢。"
+    },
     {
       "id": "te:markets:573867",
       "time": "2026-08-08 00:14:07",
