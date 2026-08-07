@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-08 03:03:12",
-  "count": 16055,
+  "updated": "2026-08-08 03:07:01",
+  "count": 16060,
   "items": [
+    {
+      "id": "5031519",
+      "time": "2026-08-08 03:05:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美、布兩油短線走低，美國官員稱阿曼與伊朗在霍爾木茲海峽的談判取得進展，預計將很快達成協議。"
+    },
+    {
+      "id": "mkt:019fdd9d-ab5c-7aab-8fc0-cf1f462cf710",
+      "time": "2026-08-08 03:05:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent eased after US officials said Oman and Iran have made progress in talks over the Strait of Hormuz and are expected to reach an agreement soon."
+    },
+    {
+      "id": "5031518",
+      "time": "2026-08-08 03:04:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7456元，較週四夜盤收盤漲61點。成交量230.54億美元。"
+    },
+    {
+      "id": "mkt:019fdd9c-e11c-7aab-8fc0-c77b796abb64",
+      "time": "2026-08-08 03:04:33",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. Treasury: in the latest two-week reporting period, investment funds bought $31.104 bln of 7-year Treasuries due July 31, 2033, down from $31.559 bln in the prior period. Foreign investors bought $5.242 bln of the same issue, versus $5.864 bln previously."
+    },
+    {
+      "id": "mkt:019fdd9c-bc04-7aab-8fc0-bff52623c4b0",
+      "time": "2026-08-08 03:04:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury: In the latest two-week reporting period, investment funds bought $52.774 billion of 5-year U.S. Treasuries maturing July 31, 2031, up from $50.626 billion in the prior period. Foreign investors bought $6.623 billion of the same issue, down from $8.865 billion previously."
+    },
+    {
+      "id": "mkt:019fdd9c-9af8-7aab-8fc0-b71659cd8181",
+      "time": "2026-08-08 03:04:15",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "The U.S. Treasury said in the latest biweekly reporting period investment funds bought $54.391 bln of 2-year U.S. Treasuries maturing July 31, 2028, versus $53.459 bln in the prior month. Foreign investors bought $6.510 bln of the same issue, down from $6.942 bln a month earlier."
+    },
+    {
+      "id": "5031517",
+      "time": "2026-08-08 03:03:30",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部最新雙週報統計顯示，外國投資者在該報告期買入65.10億美元將於2028年7月31日到期的2年期國債，上月該買入規模為69.42億美元。"
+    },
+    {
+      "id": "5031516",
+      "time": "2026-08-08 03:03:25",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：投資基金在最新雙週報告期買入527.74億美元，將於2031年7月31日到期的5年期國債，上月買入規模為506.26億美元。"
+    },
+    {
+      "id": "5031515",
+      "time": "2026-08-08 03:03:22",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部資料顯示，在最近雙週報報告期內，外國投資者買入了66.23億美元將於2031年7月31日到期的5年期國債，前一個月的買入規模為88.65億美元。"
+    },
+    {
+      "id": "5031514",
+      "time": "2026-08-08 03:03:18",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部最新雙週報告顯示，外國投資者在報告期內買入52.42億美元將於2031年7月31日到期的7年期國債，上月買入規模為58.64億美元。"
+    },
+    {
+      "id": "5031513",
+      "time": "2026-08-08 03:03:13",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：在最近兩週報告期內，投資基金買入541.07億美元將於2028年7月31日到期的2年期國債，上月買入規模為534.59億美元。"
+    },
     {
       "id": "5031512",
       "time": "2026-08-08 03:01:53",
@@ -146305,57 +146417,6 @@
         "其他"
       ],
       "text": "英國大臣希利要求內閣大臣準備削減預算。"
-    },
-    {
-      "id": "5019822",
-      "time": "2026-08-01 03:06:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行技術團隊預測2026年通脹率為6.9%，此前預測為6.4%。"
-    },
-    {
-      "id": "5019821",
-      "time": "2026-08-01 03:06:14",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行比亞爾：哥倫比亞央行預計厄爾尼諾現象影響顯著。"
-    },
-    {
-      "id": "5019820",
-      "time": "2026-08-01 03:05:37",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行比亞爾：哥倫比亞利率決議為加息週期中的一次暫停。"
-    },
-    {
-      "id": "5019819",
-      "time": "2026-08-01 03:05:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利暫停與西班牙的申根自由通行機制】義大利總理梅洛尼7月31日晚在社交媒體發文說，義大利政府決定暫停與西班牙的申根自由通行機制，恢復邊境檢查。（新華社）"
-    },
-    {
-      "id": "5019818",
-      "time": "2026-08-01 03:04:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7525元，較週四夜盤收盤漲3點。成交量382.00億美元。"
-    },
-    {
-      "id": "5019817",
-      "time": "2026-08-01 03:04:12",
-      "tags": [
-        "資料"
-      ],
-      "text": "Flapping Airplanes 正在洽談新一輪融資，目標估值 50 億美元。"
     }
   ]
 }
