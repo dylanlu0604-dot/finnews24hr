@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 04:26:05",
-  "count": 16063,
+  "updated": "2026-08-08 04:29:56",
+  "count": 16056,
   "items": [
+    {
+      "id": "5031618",
+      "time": "2026-08-08 04:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：以色列拘留巴勒斯坦未成年人數量“顯著增長”】據《以色列時報》網站7日報道，一個旨在維護遭以方拘留巴勒斯坦未成年人權利的以色列民間組織說，過去一段時間遭以方拘留的巴勒斯坦未成年人數量“顯著增長”。報道援引以色列“反對拘留兒童的家長組織”從以監獄管理局獲得的資料說，現遭以色列“行政拘留”的巴勒斯坦未成年人數量已從2025年1月的103人上升至2026年3月的191人，被“行政拘留”超過一年的巴未成年人數量從2025年3月的6人增至2026年3月的50人。報道還說，“行政拘留”已越來越多地成為以色列關押巴勒斯坦未成年人的方式。2025年初被以色列關押的巴勒斯坦未成年人中約三分之一處於“行政拘留”狀態，2026年3月這一比例已升至近一半。“反對拘留兒童的家長組織”稱，遭以色列“行政拘留”者可能在未受指控或審判的情況下被無限期羈押。“許多未成年人在夜間突襲住宅的行動中被捕，在沒有父母或律師在場的情況下接受審訊，並在軍事法庭受審”，在被捕和羈押期間還面臨飢餓、暴力、孤立和與家人分離的困境。報道援引該組織執行主任蒂蒂·卡梅爾的話說，這些資料“令人擔憂”，以色列“僅憑秘密證據”就把越來越多巴勒斯坦未成年人關押在“嚴酷環境”中。報道援引以監獄管理局另一項資料說，目前共有3198名巴勒斯坦人遭以色列“行政拘留”，其中絕大多數來自約旦河西岸。這一數字不包括新一輪巴以衝突以來，被以方關押並歸類為“非法戰鬥人員”的巴勒斯坦人。（新華社）"
+    },
     {
       "id": "5031617",
       "time": "2026-08-08 04:24:02",
@@ -146327,87 +146335,6 @@
         "其他"
       ],
       "text": "葉門胡塞武裝稱，憑藉海上封鎖行動，已迫使八艘沙特油輪改道繞行好望角。"
-    },
-    {
-      "id": "mkt:019fb9de-48a3-7aab-8f3d-babadf80f9f5",
-      "time": "2026-08-01 04:29:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon",
-        "Microsoft",
-        "AMZN.O",
-        "Impact bullish",
-        "MSFT.O",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "【Amazon eases AI-capex fears; major US indexes end higher】Major US equity indices closed higher on Friday as Amazon (AMZN.O) surged more than 15% after reporting its largest quarterly revenue gain in over four years. Amazon’s results, alongside a similar Microsoft (MSFT.O) report on Wednesday, eased investor concerns about potential overinvestment in AI data-center capacity. Longbow Asset Management CEO Jake Dollarhide said the reports dispelled worries that Amazon’s spending was a risky 'moonshot.' Apple (AAPL.O) fell 7.4% after warning that supply constraints will weigh on growth, reviving concerns that recent iPhone price increases could damp consumer demand."
-    },
-    {
-      "id": "5019922",
-      "time": "2026-08-01 04:29:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "新興市場股票指數收盤上漲6.6%，創2008年以來最佳單日表現。"
-    },
-    {
-      "id": "5019921",
-      "time": "2026-08-01 04:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃姆科：美國礦山安全與健康管理局向 MOR PPM 作業單元下發即刻危險勒令； 暫無人員受傷。"
-    },
-    {
-      "id": "5019920",
-      "time": "2026-08-01 04:29:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 各類物價大幅回落，只有石油除外。兩週前市場認為我們即將達成協議時，油價曾直線下跌。 但我們想要一份真正的協議，我不接受虛假協議。"
-    },
-    {
-      "id": "te:markets:571853",
-      "time": "2026-08-01 04:26:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Mining and Tech Losses Weigh — The S&P/TSX Composite Index fell 0.8% to close at 35,226 on Friday, pressured by losses in mining and technology stocks. Gold miners declined as gold prices weakened amid a sharp rise in long-term US Treasury yields, with Agnico Eagle down 3.6%, Barrick losing 2.5%, and WPM falling 3.9%. Technology shares also underperformed, led by Shopify (-4.3%) and Celestica (-6%), as investors turned cautious ahead of Shopify's 2Q26 earnings on August 5. Fairfax Financial (-0.5%) and Cameco (-2.1%) reported revenue above expectations but missed EPS estimates. Enbridge slipped 1.8% despite beating forecasts for adjusted second-quarter profit. Telus plunged 11.3% after posting a second-quarter loss and resetting its quarterly dividend. Meanwhile, Imperial Oil rose 0.5% on stronger-than-expected earnings, while ATD gained 1.4% after announcing plans to acquire Poland's Zabka."
-    },
-    {
-      "id": "5019919",
-      "time": "2026-08-01 04:26:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國醫療保險和醫療補助服務中心（CMS）：擴大版關節置換綜合護理模式（CJR-X）自2028年1月1日起強制實施。"
-    },
-    {
-      "id": "mkt:019fb9db-445b-7aab-8f3d-b097103160cb",
-      "time": "2026-08-01 04:26:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hamas leader says consensus with mediators is to store, not transfer, weapons."
-    },
-    {
-      "id": "5019918",
-      "time": "2026-08-01 04:26:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾華宣佈Pluvicto獲FDA批准用於PSMA陽性轉移性激素敏感性前列腺癌，有望推動轉移性前列腺癌治療新標準。"
     }
   ]
 }
