@@ -1,7 +1,224 @@
 {
   "date": "2026-08-08",
-  "count": 286,
+  "count": 310,
   "items": [
+    {
+      "id": "mkt:019fddd5-005f-7aab-8fc1-bb1d55ea4273",
+      "time": "2026-08-08 04:05:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Paramount (PSKY.O) announced it has extended the expiration date of its previously announced exchange offer and tender offer."
+    },
+    {
+      "id": "5031597",
+      "time": "2026-08-08 04:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙‑天空之舞：交換要約到期時間延長。"
+    },
+    {
+      "id": "mkt:019fddd3-c111-7aab-8fc1-b7754c52b456",
+      "time": "2026-08-08 04:04:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing shows AT&T filed final terms to issue €1.2 billion floating-rate global notes due 2028."
+    },
+    {
+      "id": "5031596",
+      "time": "2026-08-08 04:04:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將塞族共和國展望調整至穩定；確認 B 評級。"
+    },
+    {
+      "id": "5031595",
+      "time": "2026-08-08 04:04:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（8月7日），彭博電動汽車價格回報指數2.16%，報3475.48點，本週累計上漲3.63%。"
+    },
+    {
+      "id": "5031594",
+      "time": "2026-08-08 04:03:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電話電報公司（AT&T）提交12億歐元2028到期浮動利率全球票據發行最終條款說明書。"
+    },
+    {
+      "id": "mkt:019fddd3-20f1-7aab-8fc1-afeac6619f0b",
+      "time": "2026-08-08 04:03:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities closed higher on Aug. 7 (Friday): Dow Jones Industrial Average rose 151.42 pts (+0.28%) to 54,036.52; S&P 500 gained 47.63 pts (+0.62%) to 7,757.59; Nasdaq Composite added 342.26 pts (+1.30%) to 26,690.62."
+    },
+    {
+      "id": "5031593",
+      "time": "2026-08-08 04:02:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週，標普500指數上漲3.6%，道指上漲3.0%，納斯達克指數上漲5.2%。"
+    },
+    {
+      "id": "5031592",
+      "time": "2026-08-08 04:01:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛彼迎股價收漲 17%，創下 2020 年 12 月以來最佳單日表現。"
+    },
+    {
+      "id": "5031591",
+      "time": "2026-08-08 04:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價大漲 16%，兩日累計漲幅達 23%。"
+    },
+    {
+      "id": "mkt:019fddd0-b072-7aab-8fc1-a31eb6436286",
+      "time": "2026-08-08 04:01:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "NVDA.O"
+      ],
+      "text": "【US close: major indexes up; SpaceX +15.8%】U.S. stocks closed higher on Friday. The Dow rose 0.28%, the S&P 500 gained 0.60% and the Nasdaq climbed 1.30%. SpaceX jumped 15.8%; Qualcomm rose 4.6% and NVIDIA gained 2.2%. Memory/storage names mostly fell: SK Hynix declined nearly 4% and Micron slipped 0.4%. The Nasdaq Golden Dragon China Index gained 0.7%."
+    },
+    {
+      "id": "5031589",
+      "time": "2026-08-08 04:00:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證券交易所指數.GSPTSE非官方收盤上漲244.92點，漲幅0.68%，報36,381.23點。"
+    },
+    {
+      "id": "5031588",
+      "time": "2026-08-08 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.28%，標普500指數漲0.62%，納指漲1.29%。愛彼迎漲17.43%，微芯科技漲13.92%，Coherent Corp漲13.41%，Palantir Technologies漲10.32%。“七姐妹”方面：特斯拉漲2.81%，英偉達漲2.28%，亞馬遜漲0.79%，Meta Platforms漲0.34%，蘋果漲0.31%，微軟平，谷歌跌0.87%。"
+    },
+    {
+      "id": "5031587",
+      "time": "2026-08-08 04:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "SILA：融資將用於擴大摩西萊克工廠下一代負極材料產能。"
+    },
+    {
+      "id": "5031586",
+      "time": "2026-08-08 04:00:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "本週，標普累漲約3.5%，道指累漲約3%，納指累漲5%，儲存晶片指數跌約1.9%，半導體指數漲8.6%——週二高開以來持續高位窄幅震盪，科技股七巨頭指數漲4.7%，降息贏家指數漲5.2%。週五非農日當天，標普500指數初步收漲0.6%，原材料、可選消費、科技板塊漲超1%，能源板塊跌1.3%。納斯達克100指數初步收漲1.2%，成分股中，愛彼迎初步收漲17.1%，SpaceX漲14.5%，微芯科技、Palantir、AXON、Rocket Lab、HONA、TTWO、Lumentum至少漲6%，AMD、泰瑞達、閃迪、西部資料至多跌3.6%，希捷科技跌4.3%。"
+    },
+    {
+      "id": "5031585",
+      "time": "2026-08-08 04:00:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數非官方收盤報7761.65點，上漲51.69點，漲幅0.67%。"
+    },
+    {
+      "id": "5031584",
+      "time": "2026-08-08 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.82%】中進醫療漲11.98%，再鼎醫藥漲11.78%，嘉楠科技漲10.55%，中比能源漲9.11%，大全新能源漲8.78%。"
+    },
+    {
+      "id": "5031583",
+      "time": "2026-08-08 03:59:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "SILA獲美國國防部提供14億美元有條件貸款承諾，以加快本土電池技術製造程序。"
+    },
+    {
+      "id": "mkt:019fddcf-0b61-7aab-8fc1-9b046a0df873",
+      "time": "2026-08-08 03:59:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to CNN, US President Trump will hold a phone rally next Monday for Darlene Graham, sister of the late Senator Lindsey Graham."
+    },
+    {
+      "id": "5031581",
+      "time": "2026-08-08 03:58:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ASHLAND股價上漲7%，此前有報道稱該公司正在考慮出售。"
+    },
+    {
+      "id": "5031580",
+      "time": "2026-08-08 03:57:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "據悉，ASHLAND收到收購意向後，正在探索出售事宜。"
+    },
+    {
+      "id": "mkt:019fddcc-fa0b-7aab-8fc1-915aba82e9e8",
+      "time": "2026-08-08 03:57:05",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish",
+        "Copper",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "California will offer first-time electric-vehicle buyers rebates of up to $3,500 for new EVs and $1,750 for used EVs, Governor Newsom said."
+    },
+    {
+      "id": "5031579",
+      "time": "2026-08-08 03:55:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "WESTERN METALLICA RESOURCES CORP.宣佈就NUEVA CELTI銅礦專案達成獨家及約束性期權協議。"
+    },
+    {
+      "id": "5031578",
+      "time": "2026-08-08 03:54:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普將於週一為達琳・格雷厄姆舉辦線上集會。"
+    },
     {
       "id": "5031577",
       "time": "2026-08-08 03:49:37",
