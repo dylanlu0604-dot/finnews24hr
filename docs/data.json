@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-07 12:18:55",
-  "count": 16097,
+  "updated": "2026-08-07 12:22:47",
+  "count": 16093,
   "items": [
+    {
+      "id": "5030036",
+      "time": "2026-08-07 12:19:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破84美元/桶，日內漲1.85%。"
+    },
     {
       "id": "mkt:019fda70-dfdf-7aab-8faf-78810bb7313a",
       "time": "2026-08-07 12:17:38",
@@ -146988,54 +146997,6 @@
         "其他"
       ],
       "text": "索尼半導體：工廠將於8月中旬恢復到震前水平。"
-    },
-    {
-      "id": "5018313",
-      "time": "2026-07-31 12:22:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "日本知名汽車零部件企業愛信公司高管：難以確定復產的確切日期。"
-    },
-    {
-      "id": "5018312",
-      "time": "2026-07-31 12:21:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【晶泰科技釋出XtalPi Science，發起“科學智慧開放生態聯盟”】晶泰科技日前在滬釋出XtalPi Science科學智慧平臺與Genius Agents科學智慧體矩陣，並聯合26家產業、高校及科研生態夥伴，共同發起成立 “科學智慧開放生態聯盟”。(上觀新聞)"
-    },
-    {
-      "id": "te:markets:571497",
-      "time": "2026-07-31 12:21:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Set to End Month Little Changed — Silver fell toward $58 an ounce on Friday, snapping a two-session winning streak, but was still on track to end July little changed after a more than 20% decline in June. The precious metal found support this week after the US Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to cap gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Precious metals have come under constant pressure since the US-Iran war erupted in late February, as surging oil prices fueled inflation concerns and strengthened expectations for tighter monetary policy."
-    },
-    {
-      "id": "5018311",
-      "time": "2026-07-31 12:21:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "派珀桑德勒將 亞馬遜   目標價從315美元上調至320美元。"
-    },
-    {
-      "id": "te:economy:571496",
-      "time": "2026-07-31 12:21:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Dutch Manufacturing Confidence at 4-Year High — Business confidence in the Dutch manufacturing sector rose to 2.4 in July 2026, the highest level in four years, from 1.3 in the previous month. Sentiment improved as order book assessments rose to -3.8 from -7.0, while inventory assessments strengthened to -2.4 from -3.5 in June. Meanwhile, expectations for business activity became less optimistic, falling to 13.5 from 14.5, though they continued to signal a positive near-term production outlook. Across sectors, sentiment improved broadly, with gains recorded in wood and building materials (-3.4 vs. -6.5) and base metal and metal products (-3.0 vs. -3.3). Sentiment also turned positive in paper and graphic products (1.4 vs. -6.5) and strengthened further in electrical engineering and machinery (15.6 vs. 9.7)."
     }
   ]
 }
