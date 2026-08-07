@@ -1,7 +1,54 @@
 {
   "date": "2026-08-07",
-  "count": 2716,
+  "count": 2721,
   "items": [
+    {
+      "id": "mkt:019fdcc4-c4da-7aab-8fbd-5f7688fd6abc",
+      "time": "2026-08-07 23:08:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck two cargo ships in the Black Sea."
+    },
+    {
+      "id": "5031401",
+      "time": "2026-08-07 23:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部：阿聯酋譴責發生在敘利亞賈拉馬納的恐怖爆炸襲擊。"
+    },
+    {
+      "id": "5031400",
+      "time": "2026-08-07 23:05:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞銀：黃金上漲行情具備支撐，金價明年有望向5000美元邁進】瑞銀首席投資官烏爾麗克・霍夫曼 - 布林夏爾迪及其團隊稱： “本輪黃金上漲行情擁有基本面支撐。我們預計2027年上半年，金價將向每盎司5000美元邁進。”自2月末美國和以色列對伊朗發動戰爭之後，金價一度承壓回落。瑞銀策略師表示：短期內仍存在風險，若油價上行，或是市場定價預期美聯儲貨幣政策更加鷹派、債券吸引力提升，金價會面臨壓力；但機構對黃金中長期走勢維持樂觀。"
+    },
+    {
+      "id": "5031399",
+      "time": "2026-08-07 23:03:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心資料顯示，截至8月6日，美國2026年共報告了2465例確診麻疹病例。"
+    },
+    {
+      "id": "mkt:019fdcbe-327d-7aab-8fbd-54cf973080a2",
+      "time": "2026-08-07 23:01:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed: July labor-market expectations were mixed; respondents reported improvements in both current and expected personal financial conditions in July."
+    },
     {
       "id": "mkt:019fdcbd-d1b2-7aab-8fbd-4badc99bff16",
       "time": "2026-08-07 23:00:55",

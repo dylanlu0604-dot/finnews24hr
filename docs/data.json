@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-07 23:01:41",
-  "count": 16068,
+  "updated": "2026-08-07 23:09:38",
+  "count": 16065,
   "items": [
+    {
+      "id": "mkt:019fdcc4-c4da-7aab-8fbd-5f7688fd6abc",
+      "time": "2026-08-07 23:08:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck two cargo ships in the Black Sea."
+    },
+    {
+      "id": "5031401",
+      "time": "2026-08-07 23:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋外交部：阿聯酋譴責發生在敘利亞賈拉馬納的恐怖爆炸襲擊。"
+    },
+    {
+      "id": "5031400",
+      "time": "2026-08-07 23:05:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞銀：黃金上漲行情具備支撐，金價明年有望向5000美元邁進】瑞銀首席投資官烏爾麗克・霍夫曼 - 布林夏爾迪及其團隊稱： “本輪黃金上漲行情擁有基本面支撐。我們預計2027年上半年，金價將向每盎司5000美元邁進。”自2月末美國和以色列對伊朗發動戰爭之後，金價一度承壓回落。瑞銀策略師表示：短期內仍存在風險，若油價上行，或是市場定價預期美聯儲貨幣政策更加鷹派、債券吸引力提升，金價會面臨壓力；但機構對黃金中長期走勢維持樂觀。"
+    },
+    {
+      "id": "5031399",
+      "time": "2026-08-07 23:03:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心資料顯示，截至8月6日，美國2026年共報告了2465例確診麻疹病例。"
+    },
+    {
+      "id": "mkt:019fdcbe-327d-7aab-8fbd-54cf973080a2",
+      "time": "2026-08-07 23:01:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "New York Fed: July labor-market expectations were mixed; respondents reported improvements in both current and expected personal financial conditions in July."
+    },
     {
       "id": "mkt:019fdcbd-d1b2-7aab-8fbd-4badc99bff16",
       "time": "2026-08-07 23:00:55",
@@ -146453,79 +146500,6 @@
         "Importance 1"
       ],
       "text": "Colombia Unemployment Rate Holds at 8% — Colombia's unemployment rate held steady at 8% in June 2026, unchanged from the previous month and slightly below market expectations of 8.1%. The unemployment rate stood at 9.9% for women and 6.6% for men, resulting in a gender gap of 3.3 percentage points. Across the country's 13 major metropolitan areas, the unemployment rate was 8.3%. The highest jobless rates were recorded in Quibdó (23.3%), Cartagena (13.2%), and Ibagué (12.8%), while Medellín Metropolitan Area (7.1%), Pereira Metropolitan Area (7.2%), and Villavicencio (7.9%) posted the lowest rates. The national employment rate stood at 59.4%. In the April-June 2026 period, the average unemployment rate was 8.3%."
-    },
-    {
-      "id": "mkt:019fb8b7-b57c-7aab-8f39-8477fbad9782",
-      "time": "2026-07-31 23:07:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said work completed via Codex accounts accounted for 99.8% of weekly output tokens."
-    },
-    {
-      "id": "5019698",
-      "time": "2026-07-31 23:07:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：Codex 相關賬號貢獻 99.8% 的周輸出 Token。"
-    },
-    {
-      "id": "5019697",
-      "time": "2026-07-31 23:06:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯穀物出口商與生產商聯盟：預計俄羅斯小麥供應缺口將達到3000萬-3500萬噸。"
-    },
-    {
-      "id": "mkt:019fb8b5-c1e2-7aab-8f39-7a4f934166fb",
-      "time": "2026-07-31 23:05:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI says its models now cover more than 2 mln companies."
-    },
-    {
-      "id": "5019696",
-      "time": "2026-07-31 23:05:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：目前已有超 200 萬家企業使用我們的模型， 我們的模型目前已覆蓋超過10億活躍使用者。"
-    },
-    {
-      "id": "mkt:019fb8b5-69c2-7aab-8f39-75e05a65ac5b",
-      "time": "2026-07-31 23:05:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI says its models now have over 1 billion active users."
-    },
-    {
-      "id": "mkt:019fb8b3-4b6f-7aab-8f39-696294e55eb4",
-      "time": "2026-07-31 23:03:05",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【CSRC issues nine penalties in one day; six securities firms' IB units targeted】On July 31 the CSRC disclosed nine administrative penalties. Guoyuan Securities, Guorong Securities and Yongxing Securities were ordered to rectify and three related heads of investment banking were sanctioned. GF Securities, Century Securities and Hongta Securities received warning letters. All actions cite investment-banking violations, with deficiencies in quality control and internal-control processes singled out. Regulators said enforcement is focused on project execution quality and the effectiveness of the “three lines of defense,” signaling that IB internal controls must be substantive and compliance breaches will not be tolerated."
-    },
-    {
-      "id": "5019695",
-      "time": "2026-07-31 23:01:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據沙特媒體：美國向哈馬斯保證，將施壓內塔尼亞胡撤出加沙地帶並落實相關協議。"
     }
   ]
 }
