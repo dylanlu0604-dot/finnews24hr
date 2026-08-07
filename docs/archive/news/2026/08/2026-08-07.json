@@ -1,7 +1,118 @@
 {
   "date": "2026-08-07",
-  "count": 391,
+  "count": 403,
   "items": [
+    {
+      "id": "mkt:019fd9bf-b31b-7aab-8fab-528241679afb",
+      "time": "2026-08-07 09:04:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Wall Street Journal reports a U.S. intelligence assessment that President Putin could, in the coming years, seek to probe NATO's resolve via limited attacks on alliance members, potentially including cyber operations or small-scale ground incursions."
+    },
+    {
+      "id": "5029772",
+      "time": "2026-08-07 09:01:30",
+      "tags": [],
+      "text": "國內期貨主力合約漲多跌少，多晶矽、SC原油漲超4％，燃料油漲近3％，瀝青、乙二醇（EG）、焦炭、苯乙烯（EB）漲超2％，低硫燃料油（LU）漲近2％，集運歐線漲超1％。跌幅方面，鉑跌超2％，鈀、滬銀、滬鎳、滬錫跌超1％。"
+    },
+    {
+      "id": "5029771",
+      "time": "2026-08-07 09:01:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份：高管、部分股東未減持股份並提前終止減持計劃】中研股份(688716)8月7日早間公告，公司代財務總監楊麗萍、股東王秀雲及其一致行動人劉國樑原擬合計減持公司不超1.12%股份。截至目前，上述人員未實施減持，基於對公司長期發展前景及內在價值的充分認可，結合自身資金需求安排，其決定提前終止此次減持股份計劃。"
+    },
+    {
+      "id": "mkt:019fd9bd-2c32-7aab-8fab-49598a752978",
+      "time": "2026-08-07 09:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 386.97 points higher, up 0.87%, at 44,783.67 on Friday, Aug. 7."
+    },
+    {
+      "id": "mkt:019fd9bc-cb0d-7aab-8fab-476af006b647",
+      "time": "2026-08-07 09:00:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened down 0.45% at 919.83 yuan/gram on Aug. 7; silver T+D opened down 1.12% at 14,977 yuan/kg."
+    },
+    {
+      "id": "te:markets:573514",
+      "time": "2026-08-07 09:00:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rebounds — US heating oil futures rose above $3.90 per gallon on Friday, rebounding from an over three-week low, as renewed strikes in the Strait of Hormuz dimmed hopes for a gradual resumption of energy flows through the key shipping route. Iranian state media also reported that parliament is reviewing a proposal to bar ships linked to the US, Israel, and other countries deemed hostile by Tehran from transiting the Strait of Hormuz under the Oman-brokered shipping agreement until Iran receives compensation for war-related damages. Adding to supply concerns, Ukraine carried out long-range drone attacks on two Russian oil refineries, including one of the country's largest. Russia's gasoline and diesel exports plunged 60% in July, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed distillate fuel inventories, including diesel and heating oil, fell by 3.473 million barrels in the week ended July 31."
+    },
+    {
+      "id": "5029770",
+      "time": "2026-08-07 09:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱繼續支援國防部長赫格塞思】當地時間8月6日，記者獲悉，美國總統特朗普表示，目前仍支援國防部長赫格塞思。特朗普在當天接受採訪時稱赫格塞思是“聰明人”，並表示自己仍站在他一邊。報道稱，儘管伊朗戰爭在美國國內支援度不高，部分共和黨人也對赫格塞思的領導能力有所質疑，但特朗普目前無意撤換他。"
+    },
+    {
+      "id": "mkt:019fd9bc-4fc8-7aab-8fab-38cf874c6778",
+      "time": "2026-08-07 09:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning open, China’s main futures contracts were mostly higher. Polysilicon and SC crude led gains, up over 4%; fuel oil rose nearly 3%; asphalt, ethylene glycol (EG), coke and styrene (EB) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%; container freight rates on Europe routes climbed over 1%. On the downside, platinum fell more than 2%, while palladium, SHFE silver, SHFE nickel and SHFE tin were down over 1%."
+    },
+    {
+      "id": "5029769",
+      "time": "2026-08-07 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報44,450.19。"
+    },
+    {
+      "id": "5029768",
+      "time": "2026-08-07 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2509.00元。"
+    },
+    {
+      "id": "5029767",
+      "time": "2026-08-07 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲3.90%，多晶矽連續漲2.95%，乙二醇連續漲2.81%，瀝青連續漲2.72%，燃料油連續漲2.40%。"
+    },
+    {
+      "id": "5029766",
+      "time": "2026-08-07 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.01%。"
+    },
     {
       "id": "mkt:019fd9ba-f415-7aab-8fab-31251d4f14d8",
       "time": "2026-08-07 08:58:55",

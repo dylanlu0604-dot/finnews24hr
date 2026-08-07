@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-07 09:00:48",
-  "count": 16203,
+  "updated": "2026-08-07 09:04:38",
+  "count": 16200,
   "items": [
+    {
+      "id": "mkt:019fd9bf-b31b-7aab-8fab-528241679afb",
+      "time": "2026-08-07 09:04:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Wall Street Journal reports a U.S. intelligence assessment that President Putin could, in the coming years, seek to probe NATO's resolve via limited attacks on alliance members, potentially including cyber operations or small-scale ground incursions."
+    },
+    {
+      "id": "5029772",
+      "time": "2026-08-07 09:01:30",
+      "tags": [],
+      "text": "國內期貨主力合約漲多跌少，多晶矽、SC原油漲超4％，燃料油漲近3％，瀝青、乙二醇（EG）、焦炭、苯乙烯（EB）漲超2％，低硫燃料油（LU）漲近2％，集運歐線漲超1％。跌幅方面，鉑跌超2％，鈀、滬銀、滬鎳、滬錫跌超1％。"
+    },
+    {
+      "id": "5029771",
+      "time": "2026-08-07 09:01:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份：高管、部分股東未減持股份並提前終止減持計劃】中研股份(688716)8月7日早間公告，公司代財務總監楊麗萍、股東王秀雲及其一致行動人劉國樑原擬合計減持公司不超1.12%股份。截至目前，上述人員未實施減持，基於對公司長期發展前景及內在價值的充分認可，結合自身資金需求安排，其決定提前終止此次減持股份計劃。"
+    },
+    {
+      "id": "mkt:019fd9bd-2c32-7aab-8fab-49598a752978",
+      "time": "2026-08-07 09:01:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 386.97 points higher, up 0.87%, at 44,783.67 on Friday, Aug. 7."
+    },
+    {
+      "id": "mkt:019fd9bc-cb0d-7aab-8fab-476af006b647",
+      "time": "2026-08-07 09:00:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened down 0.45% at 919.83 yuan/gram on Aug. 7; silver T+D opened down 1.12% at 14,977 yuan/kg."
+    },
+    {
+      "id": "te:markets:573514",
+      "time": "2026-08-07 09:00:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rebounds — US heating oil futures rose above $3.90 per gallon on Friday, rebounding from an over three-week low, as renewed strikes in the Strait of Hormuz dimmed hopes for a gradual resumption of energy flows through the key shipping route. Iranian state media also reported that parliament is reviewing a proposal to bar ships linked to the US, Israel, and other countries deemed hostile by Tehran from transiting the Strait of Hormuz under the Oman-brokered shipping agreement until Iran receives compensation for war-related damages. Adding to supply concerns, Ukraine carried out long-range drone attacks on two Russian oil refineries, including one of the country's largest. Russia's gasoline and diesel exports plunged 60% in July, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed distillate fuel inventories, including diesel and heating oil, fell by 3.473 million barrels in the week ended July 31."
+    },
+    {
+      "id": "5029770",
+      "time": "2026-08-07 09:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱繼續支援國防部長赫格塞思】當地時間8月6日，記者獲悉，美國總統特朗普表示，目前仍支援國防部長赫格塞思。特朗普在當天接受採訪時稱赫格塞思是“聰明人”，並表示自己仍站在他一邊。報道稱，儘管伊朗戰爭在美國國內支援度不高，部分共和黨人也對赫格塞思的領導能力有所質疑，但特朗普目前無意撤換他。"
+    },
+    {
+      "id": "mkt:019fd9bc-4fc8-7aab-8fab-38cf874c6778",
+      "time": "2026-08-07 09:00:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning open, China’s main futures contracts were mostly higher. Polysilicon and SC crude led gains, up over 4%; fuel oil rose nearly 3%; asphalt, ethylene glycol (EG), coke and styrene (EB) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%; container freight rates on Europe routes climbed over 1%. On the downside, platinum fell more than 2%, while palladium, SHFE silver, SHFE nickel and SHFE tin were down over 1%."
+    },
+    {
+      "id": "5029769",
+      "time": "2026-08-07 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報44,450.19。"
+    },
+    {
+      "id": "5029768",
+      "time": "2026-08-07 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2509.00元。"
+    },
+    {
+      "id": "5029767",
+      "time": "2026-08-07 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲3.90%，多晶矽連續漲2.95%，乙二醇連續漲2.81%，瀝青連續漲2.72%，燃料油連續漲2.40%。"
+    },
+    {
+      "id": "5029766",
+      "time": "2026-08-07 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.01%。"
+    },
     {
       "id": "mkt:019fd9ba-f415-7aab-8fab-31251d4f14d8",
       "time": "2026-08-07 08:58:55",
@@ -148040,152 +148151,6 @@
         "Impact bullish"
       ],
       "text": "Montage Technology (06809.HK) said it has begun industry-first trial production of CXL 3.2 memory-expansion controller (MXC) chips."
-    },
-    {
-      "id": "mkt:019fb5b3-47b0-7aab-8f21-af7ceb3e7aa8",
-      "time": "2026-07-31 09:04:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened 2,549.58 points higher, up 6.38% at 42,482.88 on Friday, July 31."
-    },
-    {
-      "id": "mkt:019fb5b3-4335-7aab-8f21-a15e7924a32f",
-      "time": "2026-07-31 09:04:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P 500 futures up 0.3%; Nasdaq futures up 1.1%."
-    },
-    {
-      "id": "5017986",
-      "time": "2026-07-31 09:04:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正帆科技等成立新公司，含物聯網應用業務】企查查APP顯示，近日，上海正帆環亞科技有限公司成立，經營範圍包含：電子元器件與機電元件裝置銷售；半導體器件專用裝置銷售；物聯網應用服務等。企查查股權穿透顯示，該公司由正帆科技等共同持股。"
-    },
-    {
-      "id": "5017985",
-      "time": "2026-07-31 09:03:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨漲超2%。"
-    },
-    {
-      "id": "mkt:019fb5b2-b7f1-7aab-8f21-9c0cbb0e0f67",
-      "time": "2026-07-31 09:03:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 index futures jumped over 2.2% in early trade."
-    },
-    {
-      "id": "mkt:019fb5b2-2180-7aab-8f21-94c77b339f5c",
-      "time": "2026-07-31 09:02:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Shanghai Futures Exchange silver front-month contract rose 2.00% intraday to 14,428.00 yuan/kg."
-    },
-    {
-      "id": "mkt:019fb5b1-a5eb-7aab-8f21-8f17a8cd95e0",
-      "time": "2026-07-31 09:02:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D rose 0.85% to 890.1 yuan/gram in early trade on Friday, July 31; silver T+D rose 1.6% to 14,330 yuan/kg."
-    },
-    {
-      "id": "te:markets:571402",
-      "time": "2026-07-31 09:01:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Advance on Chip-Led Rally — Asian equity markets moved higher on Friday, tracking gains on Wall Street overnight as a global rally in semiconductor stocks and renewed optimism over the artificial intelligence trade lifted investor sentiment. Confidence was boosted by strong earnings from Microsoft and Amazon, reinforcing expectations for continued hyperscaler investment and resilient AI-related demand. South Korea’s KOSPI Composite Index surged more than 15%, with SK Hynix and Samsung Electronics each soaring over 20%, while Japan’s Nikkei 225 Index climbed 5%. Meanwhile, investors also looked ahead to the Bank of Japan’s policy decision later today, with the central bank widely expected to leave interest rates unchanged."
-    },
-    {
-      "id": "mkt:019fb5b0-cdff-7aab-8f21-86716e20983b",
-      "time": "2026-07-31 09:01:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened up 2,549.58 points on Friday, July 31, rising 6.38% to 42,482.88."
-    },
-    {
-      "id": "5017984",
-      "time": "2026-07-31 09:01:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大科學裝置拉索新發現 認證首個拍電子伏伽馬射線變源】從中國科學院高能物理研究所獲悉，由該所聯合國內外多家研究機構透過國家重大科技基礎設施高海拔宇宙線觀測站（LHAASO，拉索），發現最高能量的光子發自黑洞（或中子星）瘋狂吸噬大質量伴星吹出的強烈星風的過程，表明這個位於天鵝座非常特別的雙星系統（Cygnus X-3）是迄今為止能夠產生最高能量的粒子加速器。拉索測到的精確時變特徵、超高的伽馬射線能量及其能譜特徵共同確認了這個宇宙線的源天體，宇宙線粒子能量至少到達30PeV（1PeV=10的15次方電子伏特），遠超當前主流的理論預期。相關成果近日在學術期刊《國家科學評論》發表。"
-    },
-    {
-      "id": "5017983",
-      "time": "2026-07-31 09:01:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國五礦集團有限公司原黨組副書記、總經理國文清接受中央紀委國家監委紀律審查和監察調查】中央紀委國家監委網站7月31日通報，中國五礦集團有限公司原黨組副書記、總經理國文清涉嫌嚴重違紀違法，主動投案，目前正接受中央紀委國家監委紀律審查和監察調查。"
-    },
-    {
-      "id": "5017982",
-      "time": "2026-07-31 09:01:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌1%，現報85.98美元/桶。"
-    },
-    {
-      "id": "5017981",
-      "time": "2026-07-31 09:01:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守86美元/桶，日內跌1.04%。"
-    },
-    {
-      "id": "mkt:019fb5b0-39f0-7aab-8f21-7869b3ddd449",
-      "time": "2026-07-31 09:00:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude falls 1.4% intraday to $81.49/bbl."
-    },
-    {
-      "id": "5017980",
-      "time": "2026-07-31 09:00:51",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲16%，至6489.83。"
     }
   ]
 }
