@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-07 21:18:32",
-  "count": 16112,
+  "updated": "2026-08-07 21:22:26",
+  "count": 16111,
   "items": [
+    {
+      "id": "te:economy:573822",
+      "time": "2026-08-07 21:21:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Chile Trade Surplus Widens Below Expectations — Chile's trade surplus widened to $1.99 billion in July 2026 from $297 million a year earlier, but fell short of forecasts for a $2.38 billion surplus. Exports rose 20.1% to $10.25 billion, driven by a 29.1% increase in mining shipments, including a 22.7% rise in copper exports. Silver exports surged 166.4%, while gold and lithium carbonate shipments jumped 73.3% and 134.5%, respectively. Exports of agricultural, forestry, and fishing products increased 15.6%, while industrial exports rose 6%. Meanwhile, imports edged up 0.2% to $8.26 billion, with consumer goods purchases rising 6.3% and intermediate goods increasing 0.2%, while capital goods imports fell 6.1%. Among consumer goods, imports of motor vehicles, cellphones, meat, and computers rose 49.7%, 32.6%, 34.4%, and 24.3%, respectively."
+    },
+    {
+      "id": "mkt:019fdc62-d9a3-7aab-8fbb-456f2a9368af",
+      "time": "2026-08-07 21:21:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House National Economic Council Director Hassett said he sees the labor force participation rate slightly weak."
+    },
+    {
+      "id": "5031244",
+      "time": "2026-08-07 21:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：政府僱員、世界盃相關崗位反彈是就業資料走弱的部分成因。"
+    },
+    {
+      "id": "5031243",
+      "time": "2026-08-07 21:21:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：嬰兒潮一代現在正在退休。"
+    },
+    {
+      "id": "5031242",
+      "time": "2026-08-07 21:21:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特談就業：看到一些參與度疲軟的跡象。"
+    },
+    {
+      "id": "5031241",
+      "time": "2026-08-07 21:20:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "泰坦公司高管：莫迪總理呼籲抑制購金後，黃金交易所經歷三週飆升後恢復正常。"
+    },
+    {
+      "id": "5031240",
+      "time": "2026-08-07 21:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）已批准Clik Extra傷口噴霧可用於多個動物物種的緊急使用授權。"
+    },
+    {
+      "id": "mkt:019fdc61-b1f6-7aab-8fbb-3e90cb47f28a",
+      "time": "2026-08-07 21:20:17",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan's finance minister Satsuki Katayama: US and Japan in close contact, will intervene again if needed】Japan's finance minister Satsuki Katayama told NHK that Tokyo and Washington have been in close contact and would not hesitate to intervene in the FX market again if necessary. She said both sides view recent yen weakness as largely driven by years of yen-arbitrage and speculative flows rather than demand-driven transactions. Katayama added both governments are prepared to act without hesitation and that Japan will explain how its macro and micro policies support a stronger yen."
+    },
+    {
+      "id": "5031239",
+      "time": "2026-08-07 21:19:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：期限為3至5年的新增海外外匯存款預付款，在計算優先行業貸款目標的調整後銀行淨信貸時將予以豁免。"
+    },
+    {
+      "id": "5031237",
+      "time": "2026-08-07 21:17:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西ALPARGATAS公司第二季度盈利超預期，股價飆升14%。"
+    },
     {
       "id": "5031236",
       "time": "2026-08-07 21:16:32",
@@ -146916,109 +147006,6 @@
         "國際"
       ],
       "text": "據知情人士透露，美國財政部已通知各銀行，美方可能於週五在日元外匯市場進行干預。"
-    },
-    {
-      "id": "5019517",
-      "time": "2026-07-31 21:22:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "立景創新科技股份有限公司向港交所提交上市申請書，聯席保薦人為中信證券、中金公司。"
-    },
-    {
-      "id": "mkt:019fb857-1177-7aab-8f36-a3755763aa68",
-      "time": "2026-07-31 21:22:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Chevron's average daily production in Venezuela in 2026 was 280,000 bpd, up 17% YoY."
-    },
-    {
-      "id": "5019516",
-      "time": "2026-07-31 21:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍稱委內瑞拉產量到 2028 年有望升至每日 40 萬桶。"
-    },
-    {
-      "id": "mkt:019fb856-6596-7aab-8f36-9b26fe48390c",
-      "time": "2026-07-31 21:21:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Spot silver fell 3.00% intraday to $57.19/oz."
-    },
-    {
-      "id": "te:economy:571780",
-      "time": "2026-07-31 21:21:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Copper Production",
-        "Importance 1"
-      ],
-      "text": "Chile Copper Output Rebounds in June — Chile's copper production rose 5.1% year-on-year to 447,294 metric tons in June 2026, rebounding from a 12.9% decline in May. The increase was driven by higher ore processing at the country's major mining companies. The recovery in Chile, the world's largest copper producer, helped ease concerns over tightening global copper supply. Meanwhile, Chile's Mining Production Index rose 6% from a year earlier, supported by a 4.6% increase in metallic mining, a 14.5% rise in non-metallic mining, and a 4.3% gain in energy resources production."
-    },
-    {
-      "id": "5019514",
-      "time": "2026-07-31 21:21:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【FIFA評估2030世界盃擴軍】據路透社今天（7月31日）報道，國際足聯（FIFA）的一份檔案顯示，國際足聯正研究將世界盃決賽圈隊伍從48支“擴軍”至64支，擬從2030年賽事開始實施。#2030世界盃或擴軍至64支球隊# 據報道，路透社看到的一份研究簡報裡寫道：“國際足聯擬委託一家獨立機構，評估自2030年世界盃起將決賽圈參賽球隊從48支擴至64支的可行性，及其對賽事整體價值的影響。”(CCTV國際時訊）"
-    },
-    {
-      "id": "5019513",
-      "time": "2026-07-31 21:21:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【黎巴嫩真主黨：沙特不應落入美以專案的陷阱】黎巴嫩真主黨發表宣告，強烈譴責美國對伊拉克及其人民的傲慢襲擊，該襲擊導致多名人員死傷。宣告指出，此次針對伊拉克官方機構的公然且危險的侵略，且有阿拉伯國家參與，將為整個地區帶來極其危險的後果。此舉完全符合美以試圖破壞該地區穩定、使得中東進入分歧和衝突迴圈的利益。真主黨強調，基於沙烏地阿拉伯與伊拉克及其人民之間的睦鄰友好及歷史性兄弟關係，沙特本應利用對話和與伊拉克政府開啟外交溝通渠道來解決任何緊張或危機，而不是配合美以政策，陷入其破壞地區穩定、分裂地區團結的專案中。"
-    },
-    {
-      "id": "5019512",
-      "time": "2026-07-31 21:20:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "雪佛龍在委內瑞拉日產原油 28 萬桶，2026 年產量同比上升 17%。"
-    },
-    {
-      "id": "5019511",
-      "time": "2026-07-31 21:20:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報57.20美元/盎司。"
-    },
-    {
-      "id": "5019510",
-      "time": "2026-07-31 21:20:31",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國第二季度僱傭成本穩步增長 勞動力成本壓力依舊溫和】美國第二季度勞動力成本保持平穩增長，顯示就業市場對通脹壓力的推動作用依然有限。美國勞工統計局週五公佈的資料顯示，僱傭成本指數同比上漲3.4%。該指數衡量工資和福利成本的變化。不過，經通脹因素調整後，勞動報酬成本實際有所下降。按季度計算，僱傭成本指數環比上漲0.9%。美聯儲一直密切關注勞動力市場狀況。雖然第二季度初招聘活動較為強勁，但到季度末已逐漸放緩。週五公佈的資料表明，季度初招聘回暖並未明顯推高薪資增速，顯示勞動力市場整體仍大致處於供需平衡狀態。美聯儲主席凱文·沃什週三在宣佈維持利率不變後表示，“就業增長與勞動力規模基本保持同步，失業率變化不大。”另一份週四公佈的資料顯示，美國6月通脹有所降溫，但仍明顯高於美聯儲2%的目標。週五公佈的僱傭成本指數報告還顯示，截至6月的三個月，美國民間勞動者工資和薪金環比增長0.9%，同比增長3.2%。不過，經通脹調整後，工資和薪金同比實際下降。"
-    },
-    {
-      "id": "mkt:019fb853-f529-7aab-8f36-97711d70ff98",
-      "time": "2026-07-31 21:18:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi"
-      ],
-      "text": "【Zhongchuang Xinhang battery enters Xiaomi Pengcheng supply chain; 177Ah quality dispute unresolved】Xiaomi priced Pengcheng N90 Max and N70 Max at 299,900 yuan and 259,900 yuan on July 30, marking its entry into the range‑extended segment. The Pengcheng series reshapes Xiaomi’s battery sourcing—previous SU7 and YU7 models relied mainly on CATL and Fudi—bringing Sunwoda and Zhongchuang Xinhang into the supplier mix. The N90 Max is fitted with a 76kWh ternary lithium pack from Zhongchuang Xinhang, rated for up to 505 km CLTC pure‑electric range; Zhongchuang Xinhang remains embroiled in an unresolved 177Ah battery‑quality dispute."
     }
   ]
 }

@@ -1,7 +1,97 @@
 {
   "date": "2026-08-07",
-  "count": 2472,
+  "count": 2482,
   "items": [
+    {
+      "id": "te:economy:573822",
+      "time": "2026-08-07 21:21:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Chile Trade Surplus Widens Below Expectations — Chile's trade surplus widened to $1.99 billion in July 2026 from $297 million a year earlier, but fell short of forecasts for a $2.38 billion surplus. Exports rose 20.1% to $10.25 billion, driven by a 29.1% increase in mining shipments, including a 22.7% rise in copper exports. Silver exports surged 166.4%, while gold and lithium carbonate shipments jumped 73.3% and 134.5%, respectively. Exports of agricultural, forestry, and fishing products increased 15.6%, while industrial exports rose 6%. Meanwhile, imports edged up 0.2% to $8.26 billion, with consumer goods purchases rising 6.3% and intermediate goods increasing 0.2%, while capital goods imports fell 6.1%. Among consumer goods, imports of motor vehicles, cellphones, meat, and computers rose 49.7%, 32.6%, 34.4%, and 24.3%, respectively."
+    },
+    {
+      "id": "mkt:019fdc62-d9a3-7aab-8fbb-456f2a9368af",
+      "time": "2026-08-07 21:21:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "White House National Economic Council Director Hassett said he sees the labor force participation rate slightly weak."
+    },
+    {
+      "id": "5031244",
+      "time": "2026-08-07 21:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：政府僱員、世界盃相關崗位反彈是就業資料走弱的部分成因。"
+    },
+    {
+      "id": "5031243",
+      "time": "2026-08-07 21:21:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：嬰兒潮一代現在正在退休。"
+    },
+    {
+      "id": "5031242",
+      "time": "2026-08-07 21:21:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特談就業：看到一些參與度疲軟的跡象。"
+    },
+    {
+      "id": "5031241",
+      "time": "2026-08-07 21:20:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "泰坦公司高管：莫迪總理呼籲抑制購金後，黃金交易所經歷三週飆升後恢復正常。"
+    },
+    {
+      "id": "5031240",
+      "time": "2026-08-07 21:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）已批准Clik Extra傷口噴霧可用於多個動物物種的緊急使用授權。"
+    },
+    {
+      "id": "mkt:019fdc61-b1f6-7aab-8fbb-3e90cb47f28a",
+      "time": "2026-08-07 21:20:17",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan's finance minister Satsuki Katayama: US and Japan in close contact, will intervene again if needed】Japan's finance minister Satsuki Katayama told NHK that Tokyo and Washington have been in close contact and would not hesitate to intervene in the FX market again if necessary. She said both sides view recent yen weakness as largely driven by years of yen-arbitrage and speculative flows rather than demand-driven transactions. Katayama added both governments are prepared to act without hesitation and that Japan will explain how its macro and micro policies support a stronger yen."
+    },
+    {
+      "id": "5031239",
+      "time": "2026-08-07 21:19:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：期限為3至5年的新增海外外匯存款預付款，在計算優先行業貸款目標的調整後銀行淨信貸時將予以豁免。"
+    },
+    {
+      "id": "5031237",
+      "time": "2026-08-07 21:17:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西ALPARGATAS公司第二季度盈利超預期，股價飆升14%。"
+    },
     {
       "id": "5031236",
       "time": "2026-08-07 21:16:32",
