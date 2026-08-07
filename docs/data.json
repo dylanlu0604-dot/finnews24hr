@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-07 14:06:24",
-  "count": 16132,
+  "updated": "2026-08-07 14:10:17",
+  "count": 16136,
   "items": [
+    {
+      "id": "5030144",
+      "time": "2026-08-07 14:09:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "大眾卡車製造商Traton法蘭克福早盤交易中股價下跌3.3%。"
+    },
+    {
+      "id": "mkt:019fdad6-ef7b-7aab-8fb1-2051e7902728",
+      "time": "2026-08-07 14:09:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 1.00% intraday to $4,282.87/oz."
+    },
+    {
+      "id": "5030143",
+      "time": "2026-08-07 14:09:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷控股公司呼籲大眾汽車迅速採取行動以提升競爭力。"
+    },
+    {
+      "id": "5030142",
+      "time": "2026-08-07 14:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非與亞投行簽署5億美元貸款協議，用於氣候韌性服務專案。"
+    },
+    {
+      "id": "5030141",
+      "time": "2026-08-07 14:07:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷控股目標財季淨債務預期區間為47億歐元至52億歐元。"
+    },
+    {
+      "id": "5030140",
+      "time": "2026-08-07 14:07:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "保時捷控股維持全年業績預期。"
+    },
+    {
+      "id": "5030139",
+      "time": "2026-08-07 14:06:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "保時捷控股：大眾集團必須做出迅速且堅定的決策。"
+    },
     {
       "id": "5030137",
       "time": "2026-08-07 14:05:40",
@@ -147345,37 +147405,6 @@
         "Energy"
       ],
       "text": "Sources said Abu Dhabi National Oil Company bought five second-hand VLCCs for $590 million."
-    },
-    {
-      "id": "mkt:019fb6ca-6c63-7aab-8f27-d9b5fc01740b",
-      "time": "2026-07-31 14:09:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "TD Cowen raised its PT on Amazon (AMZN.O) to $350 from $340."
-    },
-    {
-      "id": "5018407",
-      "time": "2026-07-31 14:08:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "TD考恩將亞馬遜目標價從340美元上調至350美元。"
-    },
-    {
-      "id": "te:markets:571532",
-      "time": "2026-07-31 14:07:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Poised for Strong Open — European equity markets were set to open higher on Friday, building on the previous session’s gains as sentiment improved amid a global rally in technology stocks and renewed optimism surrounding the artificial intelligence sector. Semiconductor shares in the US and Asia led the advance, with strong earnings from Microsoft and Amazon reinforcing confidence in continued hyperscaler investment and resilient AI-driven demand. In Europe, investors will focus on July inflation data from the Eurozone, France, and Italy, along with Germany’s latest unemployment figures. On the corporate front, earnings reports are due from Linde, Enel, AXA, ENGIE, and NatWest, among others. In premarket trading, futures for both the Euro Stoxx 50 and the Stoxx 600 were up around 0.8%."
     }
   ]
 }
