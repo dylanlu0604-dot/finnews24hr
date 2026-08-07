@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-07 15:43:04",
-  "count": 16152,
+  "updated": "2026-08-07 15:46:56",
+  "count": 16138,
   "items": [
+    {
+      "id": "5030384",
+      "time": "2026-08-07 15:46:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：FSD Supervised已在歐盟19個國家累計完成220萬公里的訓練與測試，能夠處理絕大多數人一生都遇不到的極端路況。"
+    },
+    {
+      "id": "5030383",
+      "time": "2026-08-07 15:45:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葵花葯業：使用5億元閒置資金購買理財產品】葵花葯業公告稱，公司此前決定使用不超20億元閒置自有資金進行現金管理，有效期12個月。近日，公司使用5億元購買理財產品，其中2億元購買招商銀行聚益生金系列公司（35天）B款理財計劃，3億元購買信銀理財安盈象固收穩健兩個月持有期47號理財產品。截至公告日，公司現金管理未到期金額為1.68億元（含本次）。"
+    },
+    {
+      "id": "5030382",
+      "time": "2026-08-07 15:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士：為滿足人工智慧領域儲存晶片需求，將在龍仁市和清州市新建晶圓廠。"
+    },
+    {
+      "id": "5030381",
+      "time": "2026-08-07 15:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭小麥出口量或從 1760 萬噸降至 830 萬噸。"
+    },
+    {
+      "id": "5030380",
+      "time": "2026-08-07 15:44:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公司VPD正式透過三星驗證？聚辰股份回應】針對投資者關於“ 市場傳公司VPD正式透過三星驗證，應用於企業級和CXL，該產品高單價，超高毛利，公司領先對手1年以上，未來隨著三星SSD放量，利潤彈性巨大請問以上資訊是否屬實？ ”的提問，聚辰股份8月7日在互動平臺回應稱，公司VPD晶片已順利透過目標客戶的測試認證，並將搭載在目標客戶的模組樣品上，分發給各終端客戶進行測試驗證。"
+    },
+    {
+      "id": "5030379",
+      "time": "2026-08-07 15:44:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺化上半年每股收益2.11元臺幣，上半年營收1,689.0億元臺幣。"
+    },
+    {
+      "id": "5030378",
+      "time": "2026-08-07 15:42:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭尋求歐盟提供2.2億歐元緊急援助，用於幫助農民。"
+    },
+    {
+      "id": "5030377",
+      "time": "2026-08-07 15:42:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森林包裝：5098.27萬元競得康恩貝印刷包裝100%股權】森林包裝公告稱，8月6日，公司以5098.27萬元在浙江產權交易所公開競拍，中標康恩貝持有的康恩貝印刷包裝100%股權。截至2025年12月31日，該公司淨資產4443.93萬元，評估價值為5278.27萬元。本次交易不構成關聯及重大資產重組，競拍價佔公司最近一期經審計資產的1.09%，無需提交審議。公司需於8月13日前簽署交易合同，預計對2026年及未來業績影響較小。"
+    },
     {
       "id": "5030376",
       "time": "2026-08-07 15:42:06",
@@ -147282,216 +147346,6 @@
         "國際"
       ],
       "text": "【分析人士：韓股見底言之尚早】三星電子、SK海力士7月31日股價大幅反彈，漲幅均超20%。截至當地時間約14點，三星電子漲24.88%至258500韓元/股，SK海力士漲30%至1715000韓元/股，觸及漲停板；韓國KOSPI指數受此拉動也漲18%至6600點。訊息面上，三星電子預計三季度高頻寬記憶體HBM4銷售額比二季度將增長超2倍，SK集團會長崔泰源首次直接買入SK海力士的股票。但分析人士認為“底部已現”的觀點仍言之尚早。 7月28-30日，三星電子、SK海力士的股價已連續三天下跌，韓國KOSPI指數也連續下挫、三日累計跌幅17%。市場對AI儲存行情是否見頂仍然存在擔憂。 （第一財經）"
-    },
-    {
-      "id": "mkt:019fb723-de2c-7aab-8f2c-bd3df5898e0f",
-      "time": "2026-07-31 15:46:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Guangzhou Futures Exchange warehouse receipt daily data】Guangzhou Futures Exchange warehouse receipts: lithium carbonate futures 25,042 lots, down 13,939 lots versus the previous trading day; polysilicon futures 20,790 lots, up 350; industrial silicon futures 32,286 lots, down 16."
-    },
-    {
-      "id": "5018655",
-      "time": "2026-07-31 15:46:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人民時評：“價格戰”危害甚大，國內車企需告別以價換量】 人民日報發文稱，一段時間以來，汽車行業整車利潤率持續承壓。破解產業競爭困局，讓“賣得更多”的繁榮結出“賺得也多”的果實，成為中國汽車產業高質量發展的一道必答題。不久前，工業和資訊化部召開重點汽車生產企業座談會，部署規範行業競爭秩序等工作；中國汽車工業協會發布國內首套整車成本測算規則，從源頭約束非理性低價競爭。從政策引導到行業自律，訊號密集且清晰：“價格戰”危害甚大、不可持續，國內車企必須告別以價換量的低價策略，奔赴優質優價的價值高地。誰也不願深陷泥潭，問題的關鍵在於怎麼跳出泥潭。自2025年17家車企作出60天賬期承諾以來，制度監管與行業自律持續同向發力，汽車領域“反內卷”的共識和合力一直在凝聚。從“內卷式”競爭的泥潭中實現關鍵一躍，車企需要破解產品同質化、競爭維度單一化等問題。"
-    },
-    {
-      "id": "mkt:019fb723-adb8-7aab-8f2c-b26cb897e14f",
-      "time": "2026-07-31 15:46:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【BOJ rate decision and Ueda press conference — key takeaways】Bank of Japan kept its policy rate at 1% in an 8-1 vote; one member dissented, preferring a 25bp hike. Forward guidance turned more hawkish: the BOJ said it will continue to raise rates as warranted by economic, price and financial-condition developments and will assess Middle East developments for their impact on the timing and pace of hikes. Projections upgraded FY2026 and FY2027 GDP; risks to the outlook are judged broadly balanced. Core CPI forecasts were trimmed for FY2026 but raised for FY2027; officials said underlying inflation is near 2% and core inflation could exceed the 2% target. Governor Ueda said the BOJ expects to keep tightening, does not need to wait for inflation to be stably at 2% before policy moves, and flagged upside CPI risk from AI-driven demand and higher memory-chip prices, while expecting CPI growth in the latter forecast period to slow toward about 2%."
-    },
-    {
-      "id": "te:markets:571609",
-      "time": "2026-07-31 15:45:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Hit 5-Month High — The CAC 40 climbed 1% to 8,572 on Friday, reaching its highest level since late February and putting the index on track for its fourth consecutive monthly gain, as investors welcomed a fresh batch of corporate earnings and business updates. Engie advanced added 3.8% after reporting strong H1 results and raising its 2026 guidance. Crédit Agricole jumped 4.5% after beating Q2 expectations. Saint-Gobain surged 4.7% as the group returned to double-digit sales growth in Q2 and reaffirmed its 2026 outlook. STMicroelectronics gained 4.2%, tracking strength in global technology stocks amid renewed optimism over artificial intelligence-related spending. On the economic front, France’s annual inflation rate rose to 2.1% in July from 1.8% in the previous month, reinforcing the case for a more cautious approach to monetary easing by the European Central Bank. Meanwhile, French producer prices declined 0.6% month-on-month in June, following a revised 0.2% drop in May."
-    },
-    {
-      "id": "5018654",
-      "time": "2026-07-31 15:45:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波蘭股指創下 19 年來首個歷史新高】波蘭基準股指觸及 19 年來首個歷史新高，短暫攀升至全球金融危機爆發前的點位。華沙資本市場此前長年低迷、投資者關注度低迷，自 2023 年末開始市場情緒逐步回暖，行情持續復甦。相較於同類市場，波蘭股市估值折價已經消失，當前基於預期盈利計算，估值較明晟指數基準存在小幅溢價。"
-    },
-    {
-      "id": "mkt:019fb722-9791-7aab-8f2c-abdd18c87fa2",
-      "time": "2026-07-31 15:45:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Bank of Japan Governor Ueda's press conference has concluded."
-    },
-    {
-      "id": "5018653",
-      "time": "2026-07-31 15:45:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行官員稱，泰國第二季度GDP增速可能低於第一季度。"
-    },
-    {
-      "id": "5018652",
-      "time": "2026-07-31 15:45:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "提醒：日本央行行長植田和男新聞釋出會結束。"
-    },
-    {
-      "id": "mkt:019fb722-5318-7aab-8f2c-a738ba20ce5c",
-      "time": "2026-07-31 15:45:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "BANK OF JAPAN Governor UEDA said Policy Board members hold differing views on the inf outlook and he hopes the board can reach some conclusion starting at the next monetary policy meeting."
-    },
-    {
-      "id": "mkt:019fb722-4755-7aab-8f2c-9e434ae60507",
-      "time": "2026-07-31 15:45:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "EURUSD",
-        "Impact mixed",
-        "DAX"
-      ],
-      "text": "Germany's seasonally adjusted July unemployment figures and unemployment rate due in 10 minutes."
-    },
-    {
-      "id": "5018651",
-      "time": "2026-07-31 15:44:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大眾交通：聘任蔣贇為副總經理、財務總監】大眾交通公告稱，公司於2026年7月31日召開第十一屆董事會第十五次會議，經董事會提名委員會及審計委員會審議透過，擬聘任蔣贇為公司副總經理、財務總監。蔣贇1976 年出生，會計專業碩士，高階會計師，曾任上海大眾公用事業（集團）股份有限公司副總裁、財務總監。該議案表決結果為同意8票，反對0票，棄權0票。"
-    },
-    {
-      "id": "5018650",
-      "time": "2026-07-31 15:44:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金河生物：子公司獲“豬瘟與豬圓環病毒二聯亞單位疫苗”發明專利】金河生物公告稱，子公司金河佑本生物製品有限公司近日獲國家智慧財產權局頒發的發明專利證書，發明名稱為“一種包含豬瘟病毒E2蛋白和豬圓環病毒2型Cap蛋白的融合蛋白及二聯亞單位疫苗”，專利號為ZL 2022 1 1403104.8，授權公告日為2026年7月31日。該專利取得是公司創新成果，利於發揮智慧財產權優勢，提升核心競爭力，不會對生產經營產生重大影響。"
-    },
-    {
-      "id": "5018649",
-      "time": "2026-07-31 15:44:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "索尼：尋求收購騰龍，以增強兩家公司的影像業務。"
-    },
-    {
-      "id": "mkt:019fb721-f3d7-7aab-8f2c-9382125eb5cc",
-      "time": "2026-07-31 15:44:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs cut its PT on Apple (AAPL.O) to $360 from $370 and reiterated a buy rating."
-    },
-    {
-      "id": "5018648",
-      "time": "2026-07-31 15:44:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行植田和男：委員會成員對通脹前景看法不一，希望在下次及以後的貨幣政策會議上達成某種結論。"
-    },
-    {
-      "id": "5018647",
-      "time": "2026-07-31 15:44:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯發科表示，董事會批准50億美元可自由支配融資預算，以支援長期增長及資料中心機遇。"
-    },
-    {
-      "id": "5018646",
-      "time": "2026-07-31 15:44:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【果麥文化：副總經理劉方因退休離任 持有公司0.15%股份】果麥文化公告稱，公司副總經理劉方因達到法定退休年齡，提請辭去該職務，離任後不在公司擔任其他職務。其原定任期至2026年11月12日，辭職自報告送達董事會之日起生效。截至公告披露日，劉方直接持有151,513股公司股票，佔總股本0.15%，承諾離任後6個月內不轉讓股份。其工作已交接，辭職不影響公司經營。"
-    },
-    {
-      "id": "5018645",
-      "time": "2026-07-31 15:44:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯憲法法院撤銷前總統烏馬拉洗錢罪判決】秘魯憲法法院30日晚公佈裁決，撤銷針對前總統烏馬拉因洗錢罪被判處15年監禁的判決，並下令將其釋放。裁決書說，憲法法院裁定支援烏馬拉提出的人身保護令申請，並宣佈此前針對烏馬拉開展的全部刑事訴訟無效。據秘魯安第斯通訊社當天報道，烏馬拉的律師表示，將向負責烏馬拉上訴案的法院審判庭提交憲法法院裁決，以使烏馬拉獲釋。（新華社）"
-    },
-    {
-      "id": "5018644",
-      "time": "2026-07-31 15:43:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天域生物：楊菁菁辭任公司副總裁職務】天域生物7月31日公告，公司董事會於近日收到副總裁楊菁菁的書面辭職報告，楊菁菁因個人職業發展規劃調整的原因，申請辭去公司副總裁職務，辭任後不再擔任公司任何職務，辭職報告自送達董事會之日起生效。"
-    },
-    {
-      "id": "mkt:019fb721-11fa-7aab-8f2c-8d97c221ee83",
-      "time": "2026-07-31 15:43:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Governor UEDA said some medium- to long-term inflation-expectation indicators have risen markedly and warrant close monitoring."
-    },
-    {
-      "id": "mkt:019fb720-c80f-7aab-8f2c-8011d525fd53",
-      "time": "2026-07-31 15:43:26",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bullish",
-        "WDC.O",
-        "Impact mixed"
-      ],
-      "text": "Kioxia CFO expects NAND prices to rise further in Q2."
-    },
-    {
-      "id": "5018643",
-      "time": "2026-07-31 15:43:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金河生物：簽訂279萬元房屋租賃關聯交易協議】金河生物公告稱，公司第七屆董事會第五次會議審議透過，同意繼續向關聯人王春苗租賃其所有的位於呼和浩特的房屋及車位作為辦公場所，租賃期三年，年租金93萬元，合計關聯交易金額279萬元。王春苗系公司董事長王東曉之子、董事王志軍之弟。該交易佔公司最近一期經審計淨資產的比例為0.13%，無需提交股東會審議，不構成重大資產重組。本年年初至披露日，公司與王春苗累計關聯交易金額340.25萬元（含本次）。"
     }
   ]
 }
