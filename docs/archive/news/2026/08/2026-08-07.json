@@ -1,7 +1,139 @@
 {
   "date": "2026-08-07",
-  "count": 492,
+  "count": 506,
   "items": [
+    {
+      "id": "mkt:019fd9e6-5b75-7aab-8fac-5f973ebaabec",
+      "time": "2026-08-07 09:46:20",
+      "tags": [
+        "MKT News",
+        "01888.HK",
+        "Impact bullish",
+        "02476.HK",
+        "09630.HK"
+      ],
+      "text": "Most Hong Kong-listed PCB-related stocks advanced: 01888.HK, 02476.HK and 09630.HK rose over 4%; 01989.HK climbed more than 2%; 01377.HK gained over 1%."
+    },
+    {
+      "id": "5029836",
+      "time": "2026-08-07 09:45:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【豐田在美召回約50.8萬輛凱美瑞，因儀表盤故障可能影響安全功能】當地時間8月6日，豐田汽車宣佈在美國召回約50.8萬輛2025至2026年款凱美瑞（Camry）車型，原因是車輛7英寸組合儀表可能在啟動時出現黑屏，導致轉向燈、危險警示燈以及部分提示音功能失效。"
+    },
+    {
+      "id": "5029835",
+      "time": "2026-08-07 09:45:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥商業板塊短線拉昇，開開實業漲停】醫藥商業板塊短線拉昇，開開實業漲停，瑞康醫藥、人民同泰、合富中國、華人健康、塞力醫療等紛紛走高。"
+    },
+    {
+      "id": "5029834",
+      "time": "2026-08-07 09:45:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬斯克紀錄片10月上映 本尊吐槽：抹黑之作！】一部關於埃隆 · 馬斯克的新紀錄片定於 10 月 16 日在美國影院上映。 奧斯卡獲獎導演亞歷克斯 · 吉布尼的近 4 小時電影《MUSK》將於 9 月在威尼斯電影節全球首映，隨後在 2026 年多倫多國際電影節放映，並將在 HBO 首播。 對此，馬斯克本人在 X 平臺批評這部電影是“抹黑之作”，並吐槽：“吉布尼只會幹這個。另外，4 小時！！是想把人活活悶死嗎？”"
+    },
+    {
+      "id": "5029833",
+      "time": "2026-08-07 09:45:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.01%，成分股中，安達科技跌5.16%，華密新材跌4.38%，艾融軟體跌4.25%，並行科技跌4.00%。"
+    },
+    {
+      "id": "5029832",
+      "time": "2026-08-07 09:45:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【資訊保安概念集體調整 綠盟科技、任子行均跌超10%】資訊保安概念集體調整，綠盟科技、任子行均跌超10%，飛天誠信、天融信、吉大正元、廣脈科技、亞信安全、安恆資訊跌幅居前。"
+    },
+    {
+      "id": "mkt:019fd9e5-2d30-7aab-8fac-5142f69d9766",
+      "time": "2026-08-07 09:45:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09688.HK",
+        "Impact bullish",
+        "02359.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong-listed innovative drug stocks rallied after choppy trading: Zai Lab (09688.HK) rose over 13%, WuXi AppTec (02359.HK) and WuXi Biologics (02269.HK) gained over 3%, and Rongchang Biologics (09995.HK) and WuXi Helian (02268.HK) climbed more than 2%."
+    },
+    {
+      "id": "5029831",
+      "time": "2026-08-07 09:44:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破62美元/盎司，日內漲0.80%。"
+    },
+    {
+      "id": "te:markets:573526",
+      "time": "2026-08-07 09:44:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Firm Ahead of Key Jobs Report — The dollar index was little changed around 99.95 on Friday after rebounding in the previous session, as investors cautiously awaited the closely watched July jobs report for fresh signals on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Meanwhile, the dollar drew additional support from a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns over inflation and the interest rate outlook."
+    },
+    {
+      "id": "5029830",
+      "time": "2026-08-07 09:44:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量548億元。"
+    },
+    {
+      "id": "te:markets:573525",
+      "time": "2026-08-07 09:43:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Extend Decline — The benchmark KOSPI fell more than 1% to around 6,200 on Friday, extending losses for a second straight session as investors awaited the US jobs report. The closely watched payrolls data is expected to provide fresh clues on the Federal Reserve's policy path, keeping investors cautious over the outlook for interest rates while they also assessed the latest round of US corporate earnings. Renewed uncertainty over the Strait of Hormuz pushed oil prices higher, adding to inflation concerns and further weighing on risk appetite. Technology stocks led the decline, with SK hynix sliding nearly 3%, while notable losses were also recorded in SK Square (-2.0%), Hyundai Motor (-1.6%), HD Hyundai Heavy Industries (-1.5%), and Hyundai Mobis (-2.5%). Meanwhile, upbeat earnings from Naver and optimism over AI initiatives, including planned partnership talks between LG Group and Nvidia, helped cushion broader losses."
+    },
+    {
+      "id": "5029829",
+      "time": "2026-08-07 09:43:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【軟體開發板塊持續走低，綠盟科技跌超12%】軟體開發板塊持續走低，綠盟科技跌超12%，任子行、天融信、中科通達、泛微網路跟跌。"
+    },
+    {
+      "id": "5029828",
+      "time": "2026-08-07 09:43:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報62.23美元/盎司。"
+    },
+    {
+      "id": "5029827",
+      "time": "2026-08-07 09:43:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 MINIMAX漲近6%】截至發稿，MINIMAX-W(00100.HK)漲5.99%，智譜(02513.HK)漲3.77%，兆易創新(03986.HK)漲5.58%。"
+    },
     {
       "id": "5029826",
       "time": "2026-08-07 09:42:15",
