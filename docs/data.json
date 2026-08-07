@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-08 00:40:12",
-  "count": 15986,
+  "updated": "2026-08-08 00:44:10",
+  "count": 15990,
   "items": [
+    {
+      "id": "mkt:019fdd1a-3c3c-7aab-8fbe-4d7b55f50eef",
+      "time": "2026-08-08 00:41:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI will provide recommended safety controls to third-party testing partners to ensure higher-risk evaluations and workloads can run safely."
+    },
+    {
+      "id": "mkt:019fdd1a-2143-7aab-8fbe-477d74b935a7",
+      "time": "2026-08-08 00:41:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI is implementing tighter safety controls for higher-capability models and related activities, including use of isolated testing environments."
+    },
+    {
+      "id": "5031442",
+      "time": "2026-08-08 00:41:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將與相關政府機構及精選人工智慧安全機構合作，對 Astra 的各項能力開展測試。"
+    },
+    {
+      "id": "mkt:019fdd18-e272-7aab-8fbe-39deba28424f",
+      "time": "2026-08-08 00:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman said that, so far, 'Iran's spoils' are nothing more than a paper trophy symbolizing a victory not yet achieved."
+    },
+    {
+      "id": "mkt:019fdd18-d011-7aab-8fbe-318d7d412ff2",
+      "time": "2026-08-08 00:40:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Peru's economy minister said the government aims to cut the poverty rate to 15% within five years."
+    },
+    {
+      "id": "5031441",
+      "time": "2026-08-08 00:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯經濟部長稱，政府目標是五年內將貧困率降至 15%。"
+    },
+    {
+      "id": "mkt:019fdd18-68ac-7aab-8fbe-29a2f6bec444",
+      "time": "2026-08-08 00:39:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran foreign ministry spokesman said Trump vowed the US would apply to Iran the same approach used against Venezuela. He warned Washington cannot claim 'war spoils' without winning the war, and risks a stalemate, dwindling weapons stockpiles and loss of credibility if it fails to achieve its claimed (malicious) objectives."
+    },
     {
       "id": "5031440",
       "time": "2026-08-08 00:39:21",
@@ -145729,34 +145789,6 @@
         "國際"
       ],
       "text": "【歐洲持續乾旱 多國河湖水位跌至低位】受5月以來多輪熱浪、降雨減少等因素影響，歐洲多條河流和湖泊水位降至歷史低位。這不僅影響到農業灌溉、航運和旅遊業，還出現漁民無法正常作業、核電站因缺少冷卻水被迫關停反應堆等情況，嚴重衝擊相關歐洲國家的經濟活動。（央視新聞）"
-    },
-    {
-      "id": "5019776",
-      "time": "2026-08-01 00:43:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普否認允許烏生產愛國者攔截彈】美國總統特朗普當地時間7月31日中午在內閣會議上對媒體表示，美國並未同意由烏克蘭生產“愛國者”防空系統攔截彈。他說，美方在允許他國製造這類武器的問題上“必須非常謹慎”。當地時間7月28日，特朗普在白宮會晤烏克蘭總統澤連斯基。會晤後，澤連斯基在接受採訪時透露，特朗普已同意向烏克蘭發放“愛國者”攔截彈的生產許可證。（CCTV國際時訊）"
-    },
-    {
-      "id": "5019775",
-      "time": "2026-08-01 00:43:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國10年期國債收益率週五漲超5個基點，7月份累漲將近35個基點】週五（7月31日）歐市尾盤，德國10年期國債收益率漲5.5個基點，重新整理日高至3.209%，本週累計上漲3.4個基點，7月份累計上漲34.7個基點，整體持續走高、交投於2.875%-3.218%區間。兩年期德債收益率漲5.8個基點，報2.821%，本週累跌0.8個基點，7月份累漲29.4個基點、交投於2.492%-2.906%區間；30年期德債收益率漲4.5個基點，報3.703%，7月份累漲28.3個基點，7月8日以來持續交投於3.6%上方。2/10年期德債收益率利差跌0.558個基點，報+38.349個基點，7月份累漲5.409個基點。"
-    },
-    {
-      "id": "te:markets:571840",
-      "time": "2026-08-01 00:42:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound on Choppy Trading — US equities rebounded on a choppy Friday amid more volatility for the AI infrastructure sector as markets considered the impact of higher long-term rates. The S&P 500, Dow, and Nasdaq 100 were around 0.4% up. Amazon surged 15% after beating expectations on its cloud-computing arm. Software and hyperscalers were also higher on reconsidered sentiment in the AI trade, with Alphabet gaining 6% while Microsoft and Meta rose nearly 3%. On the other hand, Apple tanked 10% as the shortage for chips raised costs and lowered production in the June quarter, denting earnings. Meanwhile, broader sectors also softened with Netflix and Eli Lilly losing 3% each. The 30-year Treasury yield surged further to 19-year highs on concerns that Kevin Warsh's FOMC could refrain from raising rates to fight inflation. Also, ExxonMobil sank 3% as limited refinery capacity prevented the oil giant form higher windfalls in oil profits last quarter."
     }
   ]
 }
