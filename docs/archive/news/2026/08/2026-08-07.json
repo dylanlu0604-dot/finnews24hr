@@ -1,7 +1,41 @@
 {
   "date": "2026-08-07",
-  "count": 2757,
+  "count": 2760,
   "items": [
+    {
+      "id": "mkt:019fdcec-dcd8-7aab-8fbd-dda3c14cebfb",
+      "time": "2026-08-07 23:52:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CEO of a Brazilian oil company said oil production is likely to exceed current expectations."
+    },
+    {
+      "id": "5031421",
+      "time": "2026-08-07 23:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗德黑蘭市長扎卡尼：威脅伊朗的國家在支付賠償之前無權使用這條海峽。"
+    },
+    {
+      "id": "mkt:019fdcec-5511-7aab-8fbd-d4ea43d14e82",
+      "time": "2026-08-07 23:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CEO of a Brazilian oil company said the firm has reduced the annual production decline rate of its mature oilfields from 12% to 4%."
+    },
     {
       "id": "5031420",
       "time": "2026-08-07 23:49:18",

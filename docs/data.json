@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-07 23:50:32",
-  "count": 16033,
+  "updated": "2026-08-07 23:54:40",
+  "count": 16027,
   "items": [
+    {
+      "id": "mkt:019fdcec-dcd8-7aab-8fbd-dda3c14cebfb",
+      "time": "2026-08-07 23:52:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CEO of a Brazilian oil company said oil production is likely to exceed current expectations."
+    },
+    {
+      "id": "5031421",
+      "time": "2026-08-07 23:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗德黑蘭市長扎卡尼：威脅伊朗的國家在支付賠償之前無權使用這條海峽。"
+    },
+    {
+      "id": "mkt:019fdcec-5511-7aab-8fbd-d4ea43d14e82",
+      "time": "2026-08-07 23:51:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CEO of a Brazilian oil company said the firm has reduced the annual production decline rate of its mature oilfields from 12% to 4%."
+    },
     {
       "id": "5031420",
       "time": "2026-08-07 23:49:18",
@@ -146121,102 +146155,6 @@
         "其他"
       ],
       "text": "雪佛龍：預計到2027年年度將收回在委內瑞拉的債務。"
-    },
-    {
-      "id": "5019740",
-      "time": "2026-07-31 23:54:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "雪佛龍CEO： 目前難以找到需求出現長期性結構性萎縮的證據。歐洲柴油需求可能會增長。預計第三季度產品價格將面臨一定的上行壓力。"
-    },
-    {
-      "id": "mkt:019fb8e1-e400-7aab-8f3a-6fe1b4689f0b",
-      "time": "2026-07-31 23:53:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CVX.N",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Chevron (CVX.N) CEO said it is currently difficult to find evidence of a long-term structural decline in oil demand."
-    },
-    {
-      "id": "te:markets:571826",
-      "time": "2026-07-31 23:53:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Friday, Still Logs Monthly Gain — The FTSE 100 edged lower on Friday due to weakness in heavyweight consumer goods, healthcare, and banking stocks. Unilever dropped more than 2%, while AstraZeneca and GSK each declined around 0.5%. Major lenders HSBC Holdings and Lloyds Banking also fell. IAG fell more than 1% after reporting second-quarter revenue below expectations, reflecting the impact of ongoing disruption from the Middle East conflict on air travel. In contrast, NatWest surged more than 4% after raising its full-year guidance and indicating it could launch additional share buybacks. Sainsbury's gained around 2% after announcing the sale of its Argos business. Energy stocks also advanced, with BP and Shell rising between 1.3% and 1.8% as oil prices extended their sharp monthly rally of more than 20%. Despite Friday's decline, the FTSE 100 finished the week up more than 1% and posted a monthly gain of roughly 3.5%, its strongest performance since February."
-    },
-    {
-      "id": "5019739",
-      "time": "2026-07-31 23:53:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，金山雲漲8.19%，中進醫療漲7.33%，網易有道漲5.50%，叮咚買菜漲4.75%，中汽系統漲4.67%。"
-    },
-    {
-      "id": "mkt:019fb8e1-a5f5-7aab-8f3a-65ca300ffc01",
-      "time": "2026-07-31 23:53:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK",
-        "CVX.N",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Chevron (CVX.N) CEO says European diesel demand may rise."
-    },
-    {
-      "id": "5019738",
-      "time": "2026-07-31 23:53:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：沒有資訊顯示國際刑事法院正在追查我。"
-    },
-    {
-      "id": "mkt:019fb8e1-80c0-7aab-8f3a-594dd8146f5e",
-      "time": "2026-07-31 23:53:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "CVX.N"
-      ],
-      "text": "Chevron (CVX.N) CEO expects product prices to face some upward pressure in Q3."
-    },
-    {
-      "id": "mkt:019fb8e1-43e5-7aab-8f3a-57893a872558",
-      "time": "2026-07-31 23:53:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Strait of Hormuz daily vessel transits drop to five】Shipping information platform MarineTraffic published data on July 31 showing vessel transits through the Strait of Hormuz on July 30 fell to five from 22 the previous day, a 77% decline. The platform reports all five transits used the Iran-side channel."
-    },
-    {
-      "id": "5019737",
-      "time": "2026-07-31 23:53:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 伊朗還剩下一部分導彈，但其存量遠少於四五個月之前。 他們的製造產能幾乎耗盡，無人機生產能力也基本不復存在。 不過，伊朗仍保有少量相關裝備。"
     }
   ]
 }
