@@ -1,7 +1,61 @@
 {
   "date": "2026-08-08",
-  "count": 113,
+  "count": 117,
   "items": [
+    {
+      "id": "mkt:019fdd59-b567-7aab-8fbf-8abefe08b864",
+      "time": "2026-08-08 01:51:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pacific Energy president says Middle Eastern buyers are considering Canadian LNG as an alternative supply source and a hedge against geopolitical turmoil."
+    },
+    {
+      "id": "mkt:019fdd58-793d-7aab-8fbf-82cf54e73f45",
+      "time": "2026-08-08 01:49:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【BESSENT: Nonfarm payrolls report underestimates US economic potential】BESSENT wrote on social media that the July nonfarm payrolls report understates the underlying strength of the US economy. He noted goods-producing employment rose for a fifth consecutive month in July and that goods-producing industries have added 105,000 jobs year-to-date, the strongest seven-month start since 2023. He said Q2 productivity growth ran at more than twice expectations, creating conditions for sustained growth and real wage gains, and that strong Q3 growth forecasts point to further acceleration. Higher domestic output and rising productivity, he added, will bolster wages, corporate strength and consumer choice and support expansion driven by supply-side capacity that can help lower inflation rather than rely on temporary stimulus."
+    },
+    {
+      "id": "mkt:019fdd56-e2d3-7aab-8fbf-79a9f731ec86",
+      "time": "2026-08-08 01:48:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Treasury Secretary Bessent said the US economy is likely to accelerate."
+    },
+    {
+      "id": "mkt:019fdd56-ae2f-7aab-8fbf-75c52c7246d4",
+      "time": "2026-08-08 01:47:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said today's jobs report underestimated the U.S. economy's underlying strength."
+    },
     {
       "id": "5031474",
       "time": "2026-08-08 01:47:16",

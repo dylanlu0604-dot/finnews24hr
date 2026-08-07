@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-08 01:48:05",
-  "count": 16016,
+  "updated": "2026-08-08 01:52:03",
+  "count": 16017,
   "items": [
+    {
+      "id": "mkt:019fdd59-b567-7aab-8fbf-8abefe08b864",
+      "time": "2026-08-08 01:51:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pacific Energy president says Middle Eastern buyers are considering Canadian LNG as an alternative supply source and a hedge against geopolitical turmoil."
+    },
+    {
+      "id": "mkt:019fdd58-793d-7aab-8fbf-82cf54e73f45",
+      "time": "2026-08-08 01:49:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【BESSENT: Nonfarm payrolls report underestimates US economic potential】BESSENT wrote on social media that the July nonfarm payrolls report understates the underlying strength of the US economy. He noted goods-producing employment rose for a fifth consecutive month in July and that goods-producing industries have added 105,000 jobs year-to-date, the strongest seven-month start since 2023. He said Q2 productivity growth ran at more than twice expectations, creating conditions for sustained growth and real wage gains, and that strong Q3 growth forecasts point to further acceleration. Higher domestic output and rising productivity, he added, will bolster wages, corporate strength and consumer choice and support expansion driven by supply-side capacity that can help lower inflation rather than rely on temporary stimulus."
+    },
+    {
+      "id": "mkt:019fdd56-e2d3-7aab-8fbf-79a9f731ec86",
+      "time": "2026-08-08 01:48:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US Treasury Secretary Bessent said the US economy is likely to accelerate."
+    },
+    {
+      "id": "mkt:019fdd56-ae2f-7aab-8fbf-75c52c7246d4",
+      "time": "2026-08-08 01:47:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said today's jobs report underestimated the U.S. economy's underlying strength."
+    },
     {
       "id": "5031474",
       "time": "2026-08-08 01:47:16",
@@ -145953,36 +146007,6 @@
         "其他"
       ],
       "text": "白宮官員：世界盃賽事舉辦期間沒有查獲任何武器化無人機。"
-    },
-    {
-      "id": "mkt:019fb94c-7e8a-7aab-8f3c-608e3d802b65",
-      "time": "2026-08-01 01:50:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Guterres urges immediate halt to Gulf hostilities】UN Secretary-General Guterres called for an immediate halt to fighting in the Gulf and full restoration of international navigation rights through the Strait of Hormuz, the Bab al‑Mandeb and adjacent waters, urging disputes be resolved diplomatically. He said military escalation in the Gulf has lasted six months, the initially regional conflict is increasingly a source of global instability, trade via the Strait of Hormuz has fallen sharply, energy markets have been seriously disrupted, food and key fertilizer prices have risen and supply chains are under strain."
-    },
-    {
-      "id": "5019796",
-      "time": "2026-08-01 01:48:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古特雷斯呼籲停止海灣地區戰事】當地時間7月31日，聯合國秘書長古特雷斯在紐約聯合國總部呼籲立即停止海灣地區戰事，全面恢復霍爾木茲海峽和曼德海峽及周邊地區的國際航行權利和自由，並透過外交途徑解決爭端。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb94a-8ba0-7aab-8f3c-5ebaf6d0090e",
-      "time": "2026-08-01 01:48:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Emergency personnel have been dispatched to Miramar air base in California to respond to a \"flight incident\" involving an F-35."
     }
   ]
 }
