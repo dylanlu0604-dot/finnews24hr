@@ -1,7 +1,18 @@
 {
   "date": "2026-08-08",
-  "count": 142,
+  "count": 143,
   "items": [
+    {
+      "id": "mkt:019fdd73-1867-7aab-8fbf-fbd61c99f53f",
+      "time": "2026-08-08 02:18:55",
+      "tags": [
+        "MKT News",
+        "XAR",
+        "Impact bullish",
+        "ITA"
+      ],
+      "text": "【Pentagon plans year-end test of space missile interceptor, advancing Golden Dome programme】Sources say the Pentagon plans a first test of its space-based missile-intercept project before year-end and a flight demonstration in 2027 for the unproven technology. The milestones feed into President Trump’s $185 billion Golden Dome defence programme. The administration has allocated $3.2 billion to develop a weaponised satellite prototype capable of destroying missiles, and related contracts could total several tens of billions of dollars."
+    },
     {
       "id": "mkt:019fdd70-399b-7aab-8fbf-f7810c8f2a72",
       "time": "2026-08-08 02:15:47",
