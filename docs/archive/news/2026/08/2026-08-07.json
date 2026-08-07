@@ -1,7 +1,177 @@
 {
   "date": "2026-08-07",
-  "count": 2571,
+  "count": 2589,
   "items": [
+    {
+      "id": "5031316",
+      "time": "2026-08-07 22:05:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，其業務持續受到襲擊事件的“嚴重”影響。"
+    },
+    {
+      "id": "mkt:019fdc8a-eb7d-7aab-8fbc-28d8ccb6412a",
+      "time": "2026-08-07 22:05:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "USD/CAD fell more than 0.50% intraday to 1.3941."
+    },
+    {
+      "id": "5031314",
+      "time": "2026-08-07 22:05:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利政府在一份宣告中表示，在至少8月15日之前，不會修改對來自西班牙的入境人員實施邊境管控的決定。"
+    },
+    {
+      "id": "mkt:019fdc8a-a050-7aab-8fbc-270e86d88068",
+      "time": "2026-08-07 22:05:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ADNOC said three vessels were attacked while transiting the Strait of Hormuz this week."
+    },
+    {
+      "id": "5031313",
+      "time": "2026-08-07 22:04:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司：霍爾木茲海域船隻遇襲，造成1人死亡，20人受傷。"
+    },
+    {
+      "id": "mkt:019fdc8a-4f01-7aab-8fbc-1c5d3944138c",
+      "time": "2026-08-07 22:04:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Italy said it will not accept Spain's ultimatum on border control measures."
+    },
+    {
+      "id": "5031312",
+      "time": "2026-08-07 22:04:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：盈虧平衡招聘率目前約為每月4萬個就業崗位。"
+    },
+    {
+      "id": "mkt:019fdc8a-2d10-7aab-8fbc-11e2c33aeec5",
+      "time": "2026-08-07 22:04:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) said 15 of its vessels have been attacked since the start of the conflict."
+    },
+    {
+      "id": "5031311",
+      "time": "2026-08-07 22:04:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總將針對浙江、福建防汛防颱風應急響應提升至三級】8月7日下午，國家防總、應急管理部組織中國氣象局、水利部、自然資源部、交通運輸部、農業農村部等部門以及浙江、福建和其他可能受影響的省份聯合會商，研判颱風“白海豚”發展趨勢，進一步研究部署颱風防範應對工作。國家防總於7日16時將針對浙江、福建的防汛防颱風四級應急響應提升至三級。"
+    },
+    {
+      "id": "mkt:019fdc89-dc5e-7aab-8fbc-0f25dcc72fbc",
+      "time": "2026-08-07 22:04:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council director Hassett said the breakeven hiring rate is about 40,000 jobs per month."
+    },
+    {
+      "id": "5031310",
+      "time": "2026-08-07 22:04:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司：本週三艘船隻在穿越霍爾木茲海峽時遭到襲擊。"
+    },
+    {
+      "id": "5031309",
+      "time": "2026-08-07 22:03:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：8月7日，外國投資者淨賣出534億印度盧比的印度股票衍生品。"
+    },
+    {
+      "id": "5031308",
+      "time": "2026-08-07 22:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX(SPCX.O)漲逾5%，阿格斯研究上調其評級至買入。"
+    },
+    {
+      "id": "5031307",
+      "time": "2026-08-07 22:03:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：土耳其私營貸款巨頭İşbank執行長將卸任，由副執行長哈桑·卡希特·奇納爾接替。"
+    },
+    {
+      "id": "mkt:019fdc89-39e8-7aab-8fbc-05bb1010cc05",
+      "time": "2026-08-07 22:03:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "SpaceX (SPCX.O) shares rose more than 5% after Argus Research upgraded the stock to Buy."
+    },
+    {
+      "id": "5031306",
+      "time": "2026-08-07 22:02:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥總統辛鮑姆：墨西哥境內所有相關疾病檢測結果均為陰性。"
+    },
+    {
+      "id": "5031305",
+      "time": "2026-08-07 22:02:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【媒體：加拿大正與美國商討貿易方面的讓步，以換取部分關稅減免】據報道，隨著美國威脅實施新一輪關稅前談判日益白熱化，加拿大和美國正在商討一項潛在協議：渥太華將同意滿足特朗普政府提出的一系列貿易要求，以換取部分行業關稅的減免。據三位熟悉談判情況的行業訊息人士透露，雙方已就多項提議進行了深入討論，並交換了書面談判立場，但目前尚未達成協議。目前討論方案的核心是一項“交換”：加拿大將在一系列美國認為是雙邊貿易主要矛盾的問題上作出讓步，包括取消針對美國商品（如汽車）的報復性關稅；恢復美國酒類產品進入加拿大市場；取消各省政府採購限制；以及接受華盛頓對於乳製品配額分配方式的解釋。其中一名訊息人士表示，美國方面列出了一份優先事項清單，大約包含10項希望加拿大解決的問題。作為交換，美國將降低針對鋼鐵和鋁產品徵收的行業關稅，即所謂的“232條款”。加拿大方面還希望美國降低汽車和林產品關稅。不過訊息人士稱，美國預計不會完全取消232條款的關稅，而談判的關鍵部分圍繞著將保留的關稅水平展開。"
+    },
+    {
+      "id": "te:markets:573830",
+      "time": "2026-08-07 22:01:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand at 1-Month High — The South African rand traded around 16.2 per US dollar, its highest since early July, mainly supported by firmer prices of key precious metals, particularly gold, which benefited from reduced expectations of Federal Reserve rate hikes. Meanwhile, investors monitored negotiations involving the US, Iran and Oman over the Strait of Hormuz amid persistent geopolitical tensions. The rand hit a three-month low against the dollar last month after the SARB unexpectedly held rates steady on July 23, despite warning of rising inflation risks.The currency had already been affected by elevated oil prices after the Iran conflict erupted, given South Africa's status as a net energy importer. Still, investors see longer-term support from a stronger economy, healthy public finances, and the central bank's commitment to its 3% inflation target. Headline and core inflation rose to 5.0% and 4.1% in June, respectively, remaining above the SARB's target range."
+    },
     {
       "id": "mkt:019fdc87-d6c2-7aab-8fbb-f829a017ac53",
       "time": "2026-08-07 22:01:57",
