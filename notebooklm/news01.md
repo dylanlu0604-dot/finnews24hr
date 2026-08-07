@@ -1,7 +1,307 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-07 23:01:41_
-_本檔包含 3175 則快訊，約 604288 字_
+_更新時間：2026-08-08 00:03:24_
+_本檔包含 3162 則快訊，約 604244 字_
+
+---
+
+### 2026-08-08 00:01:31  #MKT News #WTI #Impact bullish #Brent
+
+【Iran deputy foreign minister: Persian Gulf security should be maintained by regional states】On Aug. 7 local time, Iran’s deputy foreign minister said Persian Gulf security should be maintained by regional states and urged resolving regional security issues without external interference. He said Iran has submitted and recorded evidence with the UN Security Council showing some attacks on Iran originated from other countries’ territory, including several direct strikes. Based on current information, he added, regional states now recognize that escalation and continued military operations would seriously threaten their security, and conditions are ripe to resume security talks among Persian Gulf states.
+
+---
+
+### 2026-08-08 00:00:55  #國際
+
+【伊朗副外長：波斯灣地區安全應由本地區國家共同維護】當地時間8月7日，伊朗外交部副部長加里巴巴迪發表宣告稱，波斯灣地區的安全應由本地區國家共同維護，伊朗主張在沒有外部勢力干涉的情況下解決地區安全問題。加里巴巴迪指出，伊朗已向聯合國安理會提交併記錄了部分來自他國領土襲擊伊朗的相關證據，其中包含少數直接襲擊事件。他同時表示，基於目前掌握的資訊，地區國家已深刻意識到衝突擴大和軍事行動持續將嚴重威脅自身安全。目前，波斯灣國家間重啟安全對話的條件已經成熟。（央視新聞）
+
+---
+
+### 2026-08-08 00:00:53  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Edges Up — The FTSE 100 edged higher on Friday, remaining within a narrow ±0.5% range as investors stayed cautious amid uncertainty over a lasting agreement to reopen the Strait of Hormuz. Precious metals miners outperformed, with Fresnillo and Endeavour gaining 5.3% and 4.1%, respectively, while Rio Tinto and Anglo American added around 1%-1.5%. Diageo climbed more than 3%, extending Thursday’s 5.6% gain following its restructuring announcement. In contrast, Shell and BP fell as oil prices fluctuated and remained lower for the week. JD Sports rose more than 2% after appointing Peter Agnefjäll as chairman from September 1. Meanwhile, Lloyds reported that UK house prices were unchanged in July, with annual growth slowing to 0.1%, its weakest pace since November 2023. Elsewhere, weaker US jobs data reduced expectations of a Federal Reserve rate hike next month. The FTSE 100 finished slightly higher for the week.
+
+---
+
+### 2026-08-07 23:57:14  #市場 #國際
+
+【歐洲天然氣期貨本週跌約7%】週五（8月7日）歐市尾盤，ICE英國天然氣期貨跌0.9%，報135.680便士/千卡，本週累計下跌5.96%。TTF基準荷蘭天然氣期貨跌5.03%，報55.380歐元/兆瓦時，本週累跌6.88%，整體呈現出M形走勢、絕大部分時間處於下跌狀態。ICE歐盟碳排放交易許可（期貨價格）漲1.82%，報82.85歐元/噸，本週累漲2.60%。
+
+---
+
+### 2026-08-07 23:52:18  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+CEO of a Brazilian oil company said oil production is likely to exceed current expectations.
+
+---
+
+### 2026-08-07 23:52:18  #市場 #國際
+
+【英國10年期國債收益率本週跌超13個基點】週五（8月7日）歐市尾盤，英國10年期國債收益率跌2.3個基點，報4.915%，北京時間20:30釋出美國非農就業報告時從4.94%附近跳水至接近4.9%的水平，本週累計下跌13.3個基點。兩年期英債收益率跌2.2個基點，報4.276%，非農就業報告出爐時從4.3%附近跳水至4.25%附近，本週累跌12.5個基點。本週，30年期英債收益率累跌11.6個基點，50年期英債收益率累跌9.4個基點。2/10年期英債收益率利差累跌0.922個基點，報+63.880個基點。
+
+---
+
+### 2026-08-07 23:52:03  #國際
+
+伊朗德黑蘭市長扎卡尼：威脅伊朗的國家在支付賠償之前無權使用這條海峽。
+
+---
+
+### 2026-08-07 23:51:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+CEO of a Brazilian oil company said the firm has reduced the annual production decline rate of its mature oilfields from 12% to 4%.
+
+---
+
+### 2026-08-07 23:49:18  #國際
+
+伊朗德黑蘭市長扎卡尼：想透過霍爾木茲海峽，必須取消制裁並支付賠償。伊朗不會放棄追求正義，直到對罪犯實施最終懲罰。
+
+---
+
+### 2026-08-07 23:48:18  #MKT News
+
+Tehran Mayor Zakani said Iran will not abandon its pursuit of justice until the perpetrators receive final punishment.
+
+---
+
+### 2026-08-07 23:48:13  #MKT News
+
+Tehran mayor Zakani said those seeking to transit the Strait of Hormuz must lift sanctions and pay compensation.
+
+---
+
+### 2026-08-07 23:46:00  #國際
+
+伊朗塔斯尼姆通訊社：報道顯示，葉門武裝部隊發動導彈襲擊後，葉門被佔馬裡卜地區內沙特支援武裝的據點發生多起爆炸。
+
+---
+
+### 2026-08-07 23:44:00  #MKT News #Commodities #Energy #PETR4.SA #Impact bullish
+
+Petrobras CFO said there is potential to increase production capacity by 270,000 b/d in H2 2026.
+
+---
+
+### 2026-08-07 23:43:22  #MKT News
+
+Trump has nominated lawyer Danielle Tuman Seavers to serve as a commissioner of the US Federal Communications Commission (FCC).
+
+---
+
+### 2026-08-07 23:42:55  #MKT News
+
+IRNA: Iran's deputy foreign minister said security in the Gulf should be ensured by regional states without external intervention.
+
+---
+
+### 2026-08-07 23:42:28  #國際
+
+伊朗國家通訊社（IRNA）： 伊朗副外長加里巴巴迪表示，海灣安全必須由地區國家自行保障，不得有外部勢力介入。
+
+---
+
+### 2026-08-07 23:42:16  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Citigroup said US-Iran negotiations remain erratic and adjusted its Brent crude forecasts to an average of $80/bbl for Q3, $70/bbl for Q4 and $65/bbl for 2027.
+
+---
+
+### 2026-08-07 23:41:37  #觀點
+
+花旗：美伊談判反覆拉鋸，因此將 2026 年第三季度布倫特原油均價市價重估至每桶 80 美元，2026 年第四季度維持 70 美元，2027 年為 65 美元。
+
+---
+
+### 2026-08-07 23:39:58  #MKT News
+
+Argentina presidency: President MILEI met Israel's foreign minister and reaffirmed Argentina's firm support for Israel's right to lawful self‑defense under international law. He condemned Iran and its affiliated groups' attacks on Israeli territory, saying they pose a serious threat to regional security and stability.
+
+---
+
+### 2026-08-07 23:38:50  #國際
+
+【美國上訴法院維持對白宮宴會廳改造專案的暫停令】美國哥倫比亞特區聯邦巡迴上訴法院7日裁定，維持對白宮宴會廳改造專案的暫停令。上訴法院以2比1的投票結果，維持下級法院應美國文物保護組織國家歷史保護信託基金會要求頒佈的初步禁令。但上訴法院的裁決將暫緩14天執行，以便特朗普政府有時間向最高法院提出上訴。（新華社）
+
+---
+
+### 2026-08-07 23:38:00  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Euro STOXX 50
+
+European equities on Aug 7 (Fri) — Germany's DAX +163.94 pts (+0.63%) to 26,329.17; UK FTSE 100 +35.52 pts (+0.33%) to 10,903.41; France's CAC 40 +15.22 pts (+0.17%) to 8,714.93; Euro STOXX 50 +22.09 pts (+0.34%) to 6,524.65; Spain's IBEX 35 -16.42 pts (-0.08%) to 20,163.98; Italy's FTSE MIB +59.28 pts (+0.11%) to 53,742.00.
+
+---
+
+### 2026-08-07 23:35:33  #MKT News #RTX.O #Impact bullish #LMT.O #NOC.O
+
+【US Army opens five test ranges to private firms to accelerate weapons R&D】The US Army will open five test ranges to private firms to speed trials of drones, counter‑UAS systems, long‑range missiles, low‑cost air‑defense interceptors and other weapons. The initiative, framed as part of Pentagon acquisition reform and to help replenish stocks depleted by the war with Iran, aims to provide range access within 30 days of a reservation request versus current waits of up to 18 months.
+
+---
+
+### 2026-08-07 23:35:31  #國際
+
+美國命運購物中心（Destiny USA Mall）的CMBS債券持有人面臨超過3.5億美元的損失。
+
+---
+
+### 2026-08-07 23:34:43  #公司 #國際
+
+【烏克蘭石油公司設施遭遇大規模襲擊】烏克蘭石油天然氣公司7日說，該公司旗下烏克蘭石油公司遭遇了近幾個月來最大規模的襲擊。烏克蘭石油天然氣公司在官網釋出訊息說，俄方過去一晚襲擊了烏克蘭石油公司7處石油和天然氣生產設施，導致公司關鍵生產裝置受損、油氣產量大幅下降。襲擊未造成人員傷亡。（新華社）
+
+---
+
+### 2026-08-07 23:30:25  #市場
+
+【德國股市本週漲超2%】德國DAX 30指數初步收漲0.87%，報26368.48點，本週累計上漲大約2.8%。法國股指初步收漲0.38%，義大利股指初步收漲0.11%、銀行指數跌0.17%，英國股指初步收漲0.44%。
+
+---
+
+### 2026-08-07 23:30:21  #市場 #國際
+
+【歐元區藍籌股指在非農日漲約0.4%，本週漲超4%】歐洲STOXX 600指數初步收漲0.42%，報660.97點，本週累計上漲大約1.8%。歐元區STOXX 50指數初步收漲0.45%，報6531.80點，非農就業報告發布後一度達到6559.99點，本週累漲約4.2%。富時泛歐績優300指數初步收漲0.43%，報2641.28點。
+
+---
+
+### 2026-08-07 23:29:18  #國際
+
+【俄安全部門取締多個與烏克蘭有關的加密貨幣兌換點 】俄羅斯聯邦安全域性7日釋出通報說，該局與俄內務部日前開展聯合行動，在莫斯科取締9個未經註冊的加密貨幣兌換點。烏克蘭呼叫中心利用這些兌換點，針對俄公民實施遠端詐騙。（新華社）
+
+---
+
+### 2026-08-07 23:25:46  #Trading Economics #Economy #Canada #Government Bond 10Y #Importance 1
+
+Canada 10-Year Yield Climbs on Strong Jobs Data — Canada's 10-year government bond yield rose to 3.65%, approaching the three-month high of 3.66% reached on July 31st, following stronger-than-expected employment data. Canadian employment increased by 75,100 jobs in July, well above expectations for a 15,000 gain, while the unemployment rate fell to a two-year low of 6.4%. The stronger labor market raised expectations of a potential BoC rate hike if energy prices remain elevated. Meanwhile, recent data suggests Canada's economy expanded an annualized 3.4% in the second quarter. Well above the Bank of Canada's expectation of a 2.5% growth rate. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery.
+
+---
+
+### 2026-08-07 23:24:24  #其他
+
+Celsius Holdings Inc.（CELH）漲幅迅速擴大至9.7%。
+
+---
+
+### 2026-08-07 23:23:46  #MKT News #Commodities #Energy #PBR.N #Impact bullish
+
+Petrobras CEO said Q2 oil production exceeded targets by 200,000 bpd.
+
+---
+
+### 2026-08-07 23:22:06  #公司 #國際
+
+【俄駭客稱獲取北約直接參與襲擊俄領土證據】據俄羅斯方面7日訊息，有匿名俄羅斯駭客稱，已獲取北約直接參與襲擊俄領土的書面證據。相關內容涉及烏克蘭武裝部隊2026年7月襲擊俄列寧格勒州和加里寧格勒州石油碼頭的事件。該匿名駭客透露，其獲取的書面證據顯示，受僱於北約情報部門的專家巴特·德瓦赫特向烏克蘭國家安全域性提供了列寧格勒州和加里寧格勒州石油碼頭以及俄羅斯天然氣工業股份公司一艘液化天然氣運輸船的座標情報。（央視新聞）
+
+---
+
+### 2026-08-07 23:21:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+TASS reported that a Ukrainian attack on Crimea killed two people.
+
+---
+
+### 2026-08-07 23:21:10  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+【NY Fed survey: US consumers more optimistic on jobs; one-year inflation expectation slips to 3.6%】A New York Fed survey released Friday showed US consumers in July became more optimistic about finding work and marginally lowered near-term inflation expectations. Respondents’ perceived probability of finding a new job if unemployed rose to 46.2%, the highest this year, with gains concentrated among those with high-school-or-lower education and households earning under $50,000. One-year inflation expectations fell to 3.6% from 3.7%; three-year and five-year expectations remained at 3.3% and 3.0%, respectively. Despite the improvement in job-finding odds, the average probability respondents assign to a rising unemployment rate over the next year increased across age and income groups; perceived personal risk of job loss ticked up slightly but remains below the 12-month average.
+
+---
+
+### 2026-08-07 23:19:28  #Trading Economics #Economy #South Africa #Government Bond 10Y #Importance 0
+
+South Africa 10-Year Bond Yield Eases — South Africa's 10-year government bond yield fell to around 8.47%, near the lowest since July 10, as traders continued to assess the outlook for inflation and interest rates. A weaker-than-expected US employment data reduced expectations of Fed rate hikes, encouraging investors to rotate into higher-yielding emerging-market debt. Meanwhile, uncertainties persisted regarding a potential US-Iran deal to fully reopen the Strait of Hormuz, keeping concerns over energy supplies alive. Domestically, the South African Reserve Bank unexpectedly left its repo rate steady at 7% on July 23rd in a split vote, surprising markets that had anticipated a rate hike. The decision reflected policymakers' efforts to balance persistent inflationary pressures against subdued domestic economic growth amid heightened geopolitical tensions. Despite leaving rates unchanged, the SARB maintained a hawkish stance, suggesting that at least one more rate hike remains likely this year, possibly as soon as September.
+
+---
+
+### 2026-08-07 23:19:07  #其他
+
+【AI大模型邁向分時定價】據央視財經，隨著AI加速融入千行百業，大模型的詞元呼叫量持續攀升。資料顯示，7月27日至8月2日，中國AI大模型周呼叫量達28.13萬億詞元，已連續十四周位居全球首位。記者從多家詞元供應平臺瞭解到，目前詞元需求正處於高速增長階段，高峰期更是供不應求。面對激增的詞元需求與階段性的算力緊缺，多家大模型企業的定價模式也在隨之發生變化，正從“按量計費”走向“精細化與動態定價”。Kimi推出了每月39元到559元的四檔訂閱套餐，DeepSeek則將上調大模型開放介面的價格，預計未來還將推出“峰谷定價”，即每日上午9點到12點、下午2點到6點為高峰時段，價格是平時的兩倍。
+
+---
+
+### 2026-08-07 23:19:05  #MKT News #Market Themes #AI Revolution
+
+【China AI foundation models shift to time-based, dynamic pricing】China's weekly AI foundation-model token use hit 28.13 trillion tokens in the week to Aug. 2, the 14th straight week as the global leader. Token platforms report rapid demand growth and peak-period undersupply amid periodic compute constraints, prompting providers to move from volume billing to tiered and dynamic pricing. Kimi has launched four monthly subscription tiers at 39–559 yuan; DeepSeek plans API price increases and will introduce peak–off-peak pricing, charging twice the normal rate during 09:00–12:00 and 14:00–18:00.
+
+---
+
+### 2026-08-07 23:18:50  #國際
+
+【秘魯與墨西哥恢復外交關係】秘魯外交部7日釋出秘魯和墨西哥政府聯合公報，宣佈恢復兩國外交關係。公報說：“秘魯共和國政府與墨西哥合眾國政府，鑑於兩國長期以來建立的兄弟情誼、友好關係與合作紐帶，今日一致同意恢復兩國外交關係。”（新華社）
+
+---
+
+### 2026-08-07 23:17:33  #國際
+
+市場訊息：烏克蘭襲擊克里米亞致兩人死亡。
+
+---
+
+### 2026-08-07 23:16:09  #Trading Economics #Markets #Canada #Currency #Importance 1
+
+Canadian Dollar Rises on Strong Labor Market — The Canadian dollar strengthened to an eight-week high of 1.39 per USD as stronger-than-expected domestic employment data narrowed yield differentials between Canada and the US. Canadian employment rose by 75,100 jobs in July, far exceeding expectations for a 15,000 gain, while the unemployment rate fell to a two-year low of 6.4%. Meanwhile, the US economy unexpectedly shed jobs in July, and previous nonfarm payrolls were revised sharply lower. The stronger Canadian labor market raised the prospect of a BoC rate hike if energy prices remain elevated, while weaker US employment data reduced expectations of a Federal Reserve hike this year. Meanwhile, recent data suggests Canada's economy expanded an annualized 3.4% in the second quarter. Well above the Bank of Canada's expectation of a 2.5% growth rate.
+
+---
+
+### 2026-08-07 23:15:11  #其他
+
+【剛果（金）東南部中資企業鈷產品鈾含量超標？大使館及相關協會：報道不實】剛果（金）中資礦業企業協會當地時間8月5日晚間釋出澄清宣告，明確指出近期網路及行業渠道出現關於剛果（金）東南部中資企業礦山生產的鈷產品鈾含量超標的“不實報道”，相關言論誤導市場認知、擾亂行業正常經營秩序，對在剛中資礦業企業聲譽及鈷產品國際貿易口碑造成不良影響。宣告表示，經協會全面核查，剛果（金）東南部區域所有正常生產運營的中資礦業企業，其開採、加工、外銷的全部鈷產品，均不存在鈾含量超標情況。各會員企業嚴格遵守剛果（金）礦業監管法規及國際貿易通用檢測規範。8月6日凌晨，中國駐剛果民主共和國大使館亦對外發布了該澄清宣告。
+
+---
+
+### 2026-08-07 23:14:25  #國際
+
+基輔：空襲警報已解除。
+
+---
+
+### 2026-08-07 23:12:59  #MKT News
+
+The US Commodity Futures Trading Commission (CFTC) warned prediction markets about risks posed by American-style odds.
+
+---
+
+### 2026-08-07 23:10:43  #國際
+
+俄羅斯國防部：過去一日內，俄羅斯武裝力量使用高精度武器及攻擊無人機打擊烏克蘭港口基礎設施與海軍艦艇。
+
+---
+
+### 2026-08-07 23:09:54  #Trading Economics #Economy #United States #Inflation Expectations #Importance 1
+
+US Inflation Expectations Edge Down in July — US median inflation expectations for one year ahead edged down to 3.6% in July 2026 from 3.7% in June which was the highest since September 2023. Inflation expectations decreased for medical care (by 0.5 percentage point to 8.9%) and rent (by 2.4 percentage points to 5.9%) while remaining unchanged for food (at 5%) and median home price growth (at 3.2%). On the other hand, consumers expect prices to increase faster for gas (by 1.4 percentage points to 2.9%) and college education (by 0.1 percentage point to 5.8%). Meanwhile, inflation expectations remained unchanged at the three- and five-year-ahead horizons at 3.3% and 3%, respectively. Elsewhere, median one-year-ahead earnings growth expectations remained steady at 2.8% and household spending growth expectations slightly decreased by 0.1 percentage point to 4.9%. Unemployment expectations increased by 1.1 percentage points to 42.8%.
+
+---
+
+### 2026-08-07 23:09:22  #國際
+
+俄羅斯國防部：俄軍在黑海打擊兩艘貨船。
+
+---
+
+### 2026-08-07 23:08:30  #MKT News #XAUUSD #Impact bullish #Brent
+
+Russian Defence Ministry said Russian forces struck two cargo ships in the Black Sea.
+
+---
+
+### 2026-08-07 23:07:47  #國際
+
+阿聯酋外交部：阿聯酋譴責發生在敘利亞賈拉馬納的恐怖爆炸襲擊。
+
+---
+
+### 2026-08-07 23:05:12  #市場 #央行 #國際
+
+【瑞銀：黃金上漲行情具備支撐，金價明年有望向5000美元邁進】瑞銀首席投資官烏爾麗克・霍夫曼 - 布林夏爾迪及其團隊稱： “本輪黃金上漲行情擁有基本面支撐。我們預計2027年上半年，金價將向每盎司5000美元邁進。”自2月末美國和以色列對伊朗發動戰爭之後，金價一度承壓回落。瑞銀策略師表示：短期內仍存在風險，若油價上行，或是市場定價預期美聯儲貨幣政策更加鷹派、債券吸引力提升，金價會面臨壓力；但機構對黃金中長期走勢維持樂觀。
+
+---
+
+### 2026-08-07 23:03:41  #國際
+
+美國疾控中心資料顯示，截至8月6日，美國2026年共報告了2465例確診麻疹病例。
+
+---
+
+### 2026-08-07 23:01:19  #MKT News #Macro & Rates #The Fed (FOMC)
+
+New York Fed: July labor-market expectations were mixed; respondents reported improvements in both current and expected personal financial conditions in July.
 
 ---
 
@@ -18773,387 +19073,5 @@ MILLENNIUM與ANTHROPIC宣佈計劃共同開發人工智慧驅動的數字風險�
 ### 2026-08-06 20:55:20  #Trading Economics #Markets #Commodity #Importance 1
 
 Silver Holds Near 7-Week High — Silver pries were near the $62 per ounce mark on Thursday, remaining near the seven-week high from the previous session as markets reconsidered the likelihood that the Federal Reserve will hike rates this year. Fuel and natural gas prices held most of their pullback in August as the US presidential administration chased an agreement with Iran and GCC members that restores energy exports through the Persian Gulf. Lower risks that higher fuel prices would lift underlying inflation trimmed expectations that the Federal Reserve would raise rates this year. Industrial demand for silver also supported bids, as Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th. On top of that, manufacturing demand in China was seen slowing,
-
----
-
-### 2026-08-06 20:55:09  #MKT News #Market Themes #AI Revolution #China Tech Giants
-
-【ByteDance discussing training model with over 5 trillion parameters】ByteDance is discussing training a model exceeding 5 trillion parameters, which would surpass Alibaba’s Qwen3.8‑Max (2.4 trillion params) and Moonshot AI’s K3 (2.8 trillion) to become the largest-known model in China. The project is at an early stage and does not guarantee a release. It would be led by Seed Foundation head Xiang Liang with LLM pretraining-data lead Shen Ke. Seed is reorganizing its structure and reallocating responsibilities and resources to support the effort.
-
----
-
-### 2026-08-06 20:54:51  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
-
-World Gold Council said the Fed now shows strong aversion to inf. With the personal savings rate near historic lows, consumers may be less able to absorb sustained price rises. Consequently, another surge in inf could trigger policy tightening and slower economic growth, rather than a 1970s-style inflation outbreak.
-
----
-
-### 2026-08-06 20:54:00  #MKT News #Macro & Rates #US Economy #Commodities #Energy #DXY #Impact bullish #WTI #S&P500 #Impact mixed
-
-【U.S. initial jobless claims tick up but below forecasts; corporate layoffs fall】U.S. initial jobless claims rose 1,000 to 199,000 in the week ended Aug. 1, below the 202,000 consensus, keeping labor-market resilience intact. Claims have fallen sharply since an early-June spike, though some of the decline may reflect seasonal-adjustment challenges over the summer. Separately, announced corporate layoffs in July fell to a two-year low, concentrated in the tech sector; there is no sign yet that AI infrastructure build-out is triggering broad job losses, and layoffs remained low despite oil-price shocks from fighting involving the U.S., Israel and Iran.
-
----
-
-### 2026-08-06 20:53:46  #公司 #國際
-
-【微軟在印度開設第四處 Azure 資料中心區域】微軟公司宣佈，其在印度的第四處資料中心區域已正式投入運營。這是微軟在印度總計 205 億美元投資計劃的一部分，旨在拓展當地雲端計算與人工智慧能力。微軟在宣告中表示，該資料中心坐落於印度南部的海得拉巴地區並提供雲服務。印度擁有超 14 億人口，作為市場、人才與資料來源地，正越來越受到各大人工智慧企業的關注。印度擁有數百萬掌握機器學習與資料科學技能的工程師，塔塔諮詢服務、印孚瑟斯等全球大型科技服務企業也紮根於此。
-
----
-
-### 2026-08-06 20:53:00  #市場 #國際
-
-【世界黃金協會：年初至今全球黃金ETF累計流入110億美元】世界黃金協會報告顯示，全球黃金掛鉤 ETF 7 月錄得 30 億美元資金流入，終結連續兩個月資金流出態勢。資金流入覆蓋全部地區，歐洲上市基金領漲。正向資金疊加金價走高，推動全球黃金 ETF 資產管理規模上漲 1% 至 5300 億美元，總持倉增加 23 噸至 4068 噸，但仍低於 2026 年 2 月 27 日創下的 4176 噸歷史最高持倉。年初至今，全球黃金 ETF 累計流入 110 億美元，對應持倉增加 39 噸。亞洲上市基金是這一階段全球資金流入的最大來源，歐洲緊隨其後；而北美依舊維持資金淨流出狀態。7 月全球黃金 ETF 重回資金流入，一方面源於投資者借金價低位選擇性重新入場，另一方面來自資產組合多元化配置的持續需求。歐洲投資者在 6 月拋售過後重新建立黃金倉位，抓住金價回落視窗重返市場。該走勢與今年早些時候類似：3 月美國主導的大規模贖回後，歐洲基金率先帶動市場反彈，說明市場下跌後投資者願意增持黃金敞口。亞洲 7 月黃金 ETF 資金流入 6.16 億美元，鞏固其作為年初至今全球最大資金流入地區的地位。
-
----
-
-### 2026-08-06 20:52:27  #其他
-
-西班牙飛地休達地方政府長官胡安·赫蘇斯·比瓦斯今天（8月6日）表示，休達移民危機已造成100人死亡。他還表示，目前有3000到5000名非法移民滯留在休達。 （CCTV國際時訊）
-
----
-
-### 2026-08-06 20:52:20  #MKT News #Star Stocks #MSFT.O #Impact bullish
-
-Microsoft (MSFT.O) opens its fourth Azure data center region in India.
-
----
-
-### 2026-08-06 20:51:50  #國際
-
-福克斯高管：福克斯已與美國國家橄欖球聯盟（NFL）進行了全面且富有成效的磋商，我們不會對現有合同關係作出任何修改，現有合同將持續履行至2029賽季結束。
-
----
-
-### 2026-08-06 20:51:31  #公司 #其他
-
-【位元組討論訓超5萬億引數模型】位元組跳動正在討論訓練一個引數規模超5萬億的模型，它超過阿里的Qwen3.8-Max（2.4萬億引數）和月之暗面的K3（2.8萬億引數），也是目前國內已知引數規模最大的模型。通常而言，模型規模越大，智慧水平往往越高。不過該計劃仍處於早期階段，並不代表模型最終一定會發布。新模型將由SeedFoundation負責人項亮主導，與大語言模型預訓練資料負責人沈科合作。為此，Seed正在重新梳理組織，劃分職責，分配資源。（晚點）
-
----
-
-### 2026-08-06 20:50:23  #其他
-
-摩托羅拉提交兩部分優先票據發行申請，發行規模未披露。
-
----
-
-### 2026-08-06 20:50:22  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid over $10 intraday to $4,254.76/oz; spot silver fell about 1.0% to $61.41/oz.
-
----
-
-### 2026-08-06 20:49:36  #市場
-
-現貨白銀日內跌1%，現報61.32美元/盎司。
-
----
-
-### 2026-08-06 20:49:25  #公司
-
-力拓與淡水河谷礦業公司將Radiant World移出客戶名單。
-
----
-
-### 2026-08-06 20:49:22  #市場
-
-紐約期銀日內跌1%，現報61.64美元/盎司。
-
----
-
-### 2026-08-06 20:48:57  #公司
-
-德意志銀行凍結RADIANT WORLD基金，此前礦業公司紛紛採取行動切斷與基金的聯絡。
-
----
-
-### 2026-08-06 20:48:44  #MKT News #Important #Market Regions #Europe & UK #Japan & APAC #XAUUSD #Impact bullish
-
-World Gold Council said Europe led July’s gold-market recovery with $2.0bn of inflows; Asia added $616m and remains the largest contributor to year-to-date global ETF inflows.
-
----
-
-### 2026-08-06 20:48:23  #MKT News #Macro & Rates #US Economy #DXY #US10Y #EURUSD
-
-【US initial jobless claims tick up; layoffs remain near multi-year lows】US initial jobless claims rose 1,000 to 199,000 for the week ended Aug. 1, the Labor Department said on Thursday. The prior week was revised up 1,000 to 198,000. Weekly claims are a near‑real‑time proxy for layoffs and US labor‑market health; levels remain near multi‑year lows.
-
----
-
-### 2026-08-06 20:47:42  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-World Gold Council: gold-market liquidity continued to ease; average daily trading volume fell to $356.0bn/day, down 3.5% MoM.
-
----
-
-### 2026-08-06 20:47:41  #市場
-
-中航易商倉儲物流REIT：將自2026年8月7日上海證券交易所開市起停牌1小時，並於當日上午10:30起復牌。
-
----
-
-### 2026-08-06 20:47:39  #MKT News #Market Regions #Greater China
-
-Zhonghang Yishang Warehousing & Logistics REIT will be suspended for one hour from the Shanghai Stock Exchange market open on 7 Aug 2026 and will resume trading at 10:30am Shanghai time that morning.
-
----
-
-### 2026-08-06 20:47:34  #公司
-
-【軟通華方與知鏈科技達成戰略合作】據軟通動力訊息，近日，軟通動力旗下品牌軟通華方與北京知鏈科技有限公司（簡稱“知鏈科技”）舉行戰略合作簽約儀式。雙方將聯合打造工管結合、軟硬一體的高校教育整體方案，共同培育商科專業交叉人才，攜手開拓教育數字化市場。
-
----
-
-### 2026-08-06 20:47:06  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-World Gold Council: Global gold ETFs attracted $3.0 billion in July, reversing two months of outflows; assets under management rose to $530 billion. ETF holdings increased 23 tonnes to 4,068 tonnes.
-
----
-
-### 2026-08-06 20:46:32  #央行 #市場
-
-【世界黃金協會：金價7月持平，未來走勢取決於實際利率、美元及央行應對】世界黃金協會：7月份，積極動能因素抵消了負面風險因素，使金價在7月持平。展望未來，不能排除出現類似於20世紀70年代末的第二波高通脹。但這本身並不意味著黃金會大幅上漲，這取決於實際利率、美元、增長預期、亞洲投資者需求以及央行的應對方式。
-
----
-
-### 2026-08-06 20:46:28  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact mixed #DXY #US10Y
-
-【World Gold Council: Gold flat in July; future path hinges on real rates, dollar and central-bank response】World Gold Council says positive drivers offset negative risks, leaving gold flat in July. WGC says a second wave of high inf similar to the late 1970s cannot be ruled out, but that alone does not guarantee a sharp gold rally; the metal’s path will depend on real rates, the dollar, growth expectations, Asian investor demand and central-bank responses.
-
----
-
-### 2026-08-06 20:46:24  #觀點
-
-【高盛大幅上調AI伺服器PCB和CCL預測 2028年市場規模將達840億和480億美元】高盛在最新發布的全球印刷電路板（PCB）和覆銅板（CCL）行業報告中，大幅上調人工智慧（AI）伺服器相關市場規模預測。該行預計，全球AI伺服器PCB市場將在2027年達到375億美元，較此前預測上調38%，2028年進一步增至840億美元；CCL市場2027年預計達到221億美元，上調18%，2028年則有望增至480億美元。這意味著，2026年至2028年，AI伺服器PCB和CCL市場規模的複合年增長率將分別達到148%和161%。與傳統伺服器週期不同，本輪增長不僅來自伺服器出貨量增加，還受到PCB層數提高、高階HDI（高密度互連）滲透、CCL材料升級，以及整機櫃內部PCB使用量增加等多重因素推動。
-
----
-
-### 2026-08-06 20:45:57  #Trading Economics #Economy #Czech Republic #Interest Rate #Importance 1
-
-Czech National Bank Leaves Key Rate Unchanged — The Czech National Bank left its two-week repo rate unchanged at 3.75% in August 2026, pausing after delivering its first interest rate hike since 2022 at the previous meeting. Although headline inflation remained below the central bank's target for most of the year, policymakers said demand-driven inflationary pressures persisted. The bank noted that headline inflation was held down by volatile components, particularly food prices, while government measures to contain price growth also helped keep inflation below target. Meanwhile, economic growth slowed in the second quarter of 2026 to 2% from 2.2%.
-
----
-
-### 2026-08-06 20:45:39  #觀點
-
-【Alphabet為至多400億美元的股權融資計劃新增多家經辦行】8月6日訊息，Alphabet補充了此前有關至多400億美元股權融資交易的招股說明書，將美銀證券和花旗環球市場等多家銀行新增為經辦機構。補充檔案顯示，新增機構還包括德意志銀行證券、滙豐證券、富國證券、巴克萊資本、法巴銀行證券、BTIG、法國農業信貸銀行證券、瑞穗證券、加皇資本市場、SG美洲證券和道明證券。
-
----
-
-### 2026-08-06 20:45:33  #國際
-
-奈飛推出印度本土內容創作計劃。
-
----
-
-### 2026-08-06 20:44:59  #國際
-
-奈飛重申將對印度創意生態進行投資。
-
----
-
-### 2026-08-06 20:44:49  #國際
-
-福克斯首席財務官：世界盃的成功舉辦，加之美國中期選舉政治週期的初期階段，共同推動了我們全國性、地方性及數字媒體組合在2023財年第一季度的廣告勢頭持續增長。
-
----
-
-### 2026-08-06 20:44:10  #資料 #國際
-
-【美國勞動生產率加快增長 企業提高效率以控制成本】美國第二季度勞動生產率增長快於預期，顯示企業正努力提高效率，以緩解成本上升帶來的壓力。美國勞工統計局週四公佈的資料顯示，非農勞動生產率（即非農部門員工每小時產出）折年率增長1.4%，此前第一季度增幅經上修後為0.8%。與此同時，單位勞動成本 —— 即企業每生產一單位產出所支付的員工成本 —— 增長1.3%。按同比計算，美國第二季度勞動生產率增長2.2%。接受彭博調查的經濟學家預期中值顯示，美國第二季度勞動生產率折年率增長0.6%，單位勞動成本增長2.1%。
-
----
-
-### 2026-08-06 20:42:54  #市場
-
-英國債務突破3萬億英鎊關口。
-
----
-
-### 2026-08-06 20:42:25  #公司
-
-【天瑞儀器：持股5%以上股東減持至5%以下】天瑞儀器公告稱，股東廣州立多虛擬現實科技合夥企業（有限合夥）於2026年8月5日透過集中競價交易減持49,600股，佔公司總股本的0.01001%。本次權益變動後，其持有公司股份24,775,537股，佔總股本4.99999%，不再是持股5%以上股東。本次減持與已披露的減持計劃一致，且尚未實施完畢。
-
----
-
-### 2026-08-06 20:41:49  #公司
-
-【剛果(金)禁止銅精礦、鈷精礦出口 洛陽鉬業：公司在當地產品為陰極銅和氫氧化鈷】近日，剛果(金)政府6月底簽署的禁止銅鈷精礦出口的政府命令擾動資本市場。對此，洛陽鉬業相關人士釋出微信朋友圈稱，公司在剛果（金）的TFM和KFM兩大礦山的產品為陰極銅和氫氧化鈷，沒有精礦。一位行業人士介紹，洛陽鉬業在剛果（金）當地的礦山是採選冶一體，採用電積工藝冶煉，終端產品確為陰極銅，因此禁令對該公司無甚影響。
-
----
-
-### 2026-08-06 20:40:00  #國際
-
-8月6日，全球基金淨賣出1.786億印度盧比的印度股票。
-
----
-
-### 2026-08-06 20:39:41  #國際
-
-埃及內閣：2026年第二季度埃及失業率為5.8%。
-
----
-
-### 2026-08-06 20:39:28  #其他
-
-【部分銀行房貸利率降至“2字頭”】近日，社交平臺上多位購房者曬出自己“2字頭”的房貸利率截圖，引發熱議。記者調研發現，此類住房貸款多是五年期的存量貸款。8月6日，記者走訪或致電北京、廣州、杭州等地多家銀行進行調研，發現多數銀行房貸利率仍在3%及以上。部分外資銀行能夠提供利率低於2.8%的住房貸款，但銀行設定了客戶資質與合作渠道的多重門檻。此外，部分銀行表示，雖然無法下調貸款利率，但可透過合作樓盤給購房者一定的房價優惠。(中國證券報)
-
----
-
-### 2026-08-06 20:39:00  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Parker-Hannifin earnings above expectations at 9.27 USD — Parker-Hannifin (PH) released earnings per share at 9.27 USD, compared to market expectations of 8.27 USD.
-
----
-
-### 2026-08-06 20:38:12  #其他
-
-【法國下週開始禁止“未經同意的電話營銷” 】法國將從11日開始實施一項保護消費者權益的新法律，禁止“未經同意的電話營銷”行為，違者可能面臨數萬至數十萬歐元罰款。美聯社6日報道，據法國政府部門估算，法國大約四分之三的人每週接到至少一個營銷電話。根據法國先前的監管法規，消費者想要躲開這類電話，必須向特定政府服務機構登記自家電話號碼。但消費者權益團體說，部分客戶呼叫中心對這類登記名單視若無睹，電話照打不誤。（新華社）
-
----
-
-### 2026-08-06 20:37:22  #公司
-
-【Toast與谷歌合作，在谷歌地圖中推出AI代理智慧點餐功能】8月6日，全球餐飲與零售科技平臺Toast宣佈深化與谷歌的合作，將代理化點餐體驗引入谷歌地圖內的對話式AI功能“Ask Maps”。未來，當食客透過語音或文字在Ask Maps中尋求餐廳推薦或提出特定美食需求時，系統可直接呈現Toast合作餐廳的選單，並全程輔助食客完成下單與結算。
-
----
-
-### 2026-08-06 20:37:16  #其他
-
-萊茵金屬將從首份“拳師犬”裝甲車訂單獲得超30億歐元預付款，預計12月敲定125億歐元拳師犬裝甲車合同。。
-
----
-
-### 2026-08-06 20:37:16  #Trading Economics #Economy #United States #Unit Labour Costs QoQ #Importance 1
-
-US Labor Costs Rise Less than Anticipated — Unit labor costs in the US nonfarm business sector rose by 1.3% in Q2 2026, matching the revised Q1 pace, but missing market forecasts of 2.1%, preliminary data showed. This mainly reflected a 2.7% increase in hourly compensation and a 1.4% increase in productivity. In the manufacturing sector, unit labor costs were unchanged, as a 1.9% increase in hourly compensation was offset by a 1.9% increase in productivity. On an annual basis, nonfarm labor costs rose by 1.4%, while manufacturing unit labor costs advanced 3.5%.
-
----
-
-### 2026-08-06 20:36:48  #其他
-
-斐樂（FILA）擬派發每股0.46歐元特別股息。
-
----
-
-### 2026-08-06 20:36:16  #公司
-
-【天原股份：向特定物件發行股票申請獲深交所稽核透過】天原股份公告，公司於2026年8月6日收到深圳證券交易所上市稽核中心出具的《關於宜賓天原集團股份有限公司申請向特定物件發行股票的稽核中心意見告知函》，深交所認為公司符合發行條件、上市條件和資訊披露要求，後續將按規定報中國證監會履行相關注冊程式。該事項尚需獲得中國證監會同意註冊後方可實施。
-
----
-
-### 2026-08-06 20:36:00  #經濟數據 #美國
-
-美國第二季度生產率初值環比增長1.4%，預期增長0.6%。
-
----
-
-### 2026-08-06 20:35:15  #其他
-
-【9月9日開幕！2026年服貿會超60個國家和國際組織確認參展參會】近日，在2026年中國國際服務貿易交易會（以下簡稱“服貿會”）成果落地情況媒體吹風會上，北京市商務局詳細介紹了服貿會在促進全球服務貿易成果落地方面的核心經驗與創新做法。據瞭解，2026年服貿會將於9月9日拉開帷幕，目前確認參展參會的國家和國際組織已超60個。（央視新聞）
-
----
-
-### 2026-08-06 20:34:54  #其他
-
-據報道，葉門武裝部隊將於數小時內釋出一份關於一場大規模行動的宣告。
-
----
-
-### 2026-08-06 20:34:51  #Trading Economics #Economy #United States #Nonfarm Productivity QoQ #Importance 2
-
-US Q1 Productivity Rises More than Expected — US nonfarm business sector labor productivity rose 1.4% in the second quarter of 2026, more than market expectations of a 0.6% increase, preliminary estimates showed. Output increased 1.7 percent and hours worked increased 0.3 percent. Meanwhile, manufacturing sector labor productivity increased 1.9% in the second quarter of 2026, as output increased 4.6 percent and hours worked increased 2.6 percent. In the durable manufacturing sector, productivity increased 2.7% and in the nondurable manufacturing sector productivity increased 2%. From the same quarter a year ago, nonfarm business sector labor productivity increased 2.2% in the second quarter of 2026. Total manufacturing sector productivity increased 0.9% from the same quarter a year ago.
-
----
-
-### 2026-08-06 20:34:49  #Trading Economics #Economy #United States #Initial Jobless Claims #Importance 2
-
-US Initial Jobless Claims Rise Less than Expected — The number of people claiming unemployment benefits in the US inched higher by 1,000 to 199,000 on the final week of July, slightly under market expectations of 202,000 to remain near the 57-year low of 188,000 two weeks prior. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 24,000 to 1,801,000 in the earlier week, remaining well under averages from this year. The data continued to reflect a strong labor market in the US, aligned with statements from FOMC members that see the US economy in full employment. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 32 to 450.
-
----
-
-### 2026-08-06 20:34:28  #MKT News
-
-【Shenchengjiao 1H 2026 net profit 38.54 mln yuan; returns to profit YoY】Shenchengjiao reported 1H 2026 revenue of 621 mln yuan, up 49.65% YoY, and net profit attributable to shareholders of 38.54 mln yuan versus a loss of 9.40 mln yuan a year earlier; basic EPS 0.07 yuan. Company said the improvement mainly reflected higher revenue recognition from big-data software and smart-traffic projects.
-
----
-
-### 2026-08-06 20:34:20  #公司 #市場
-
-受谷歌合作協議利好，Toast盤前股價上漲2%。
-
----
-
-### 2026-08-06 20:34:02  #其他
-
-雅保預計今年鋰產量持平，明年產量回升。
-
----
-
-### 2026-08-06 20:33:24  #國際
-
-伊頓獲得美國空軍700萬美元合同，將量子計算應用於電網安全領域。
-
----
-
-### 2026-08-06 20:32:50  #公司
-
-【皖維高新：擬定增募資不超過23億元用於PVA樹脂及光學薄膜專案】皖維高新公告，擬向控股股東皖維集團發行A股股票，募集資金總額不超過23億元，扣除發行費用後用於20萬噸/年乙烯法功能性聚乙烯醇樹脂專案（擬投入20億元）、年產3000萬平方米高世代面板用聚乙烯醇（PVA）光學薄膜專案（擬投入3億元）。發行構成關聯交易，皖維集團認購股份3年內不得轉讓。方案已獲董事會審議透過，尚需國家出資企業審批同意、股東會審議透過、上交所稽核透過並報中國證監會註冊。
-
----
-
-### 2026-08-06 20:32:24  #公司 #市場
-
-谷歌母公司Alphabet股價盤前下跌0.6%。
-
----
-
-### 2026-08-06 20:31:41  #經濟數據 #美國
-
-美國上週首次申領失業救濟人數為19.9萬人，預估為20.5萬人，前值為19.7萬人。
-
----
-
-### 2026-08-06 20:31:32  #國際
-
-美國農業部出口銷售資料：2025/26年度大豆淨銷售量為32200噸；2026/27年度大豆淨銷售量為903900噸。
-
----
-
-### 2026-08-06 20:31:11  #其他
-
-Keurig Dr Pepper高管稱，JDE Peet's業務部門第二季度淨銷售額達28億美元，營業收入為4.14億美元。
-
----
-
-### 2026-08-06 20:31:08  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Muted as Markets Eye Iran Talks — Futures tracking the S&P/TSX Composite Index were little changed on Thursday as investors weighed the prospects of a US-Iran peace deal alongside another round of corporate earnings. Oil prices rose as markets remained cautious over the Iran-Oman talks. Traffic through the Strait of Hormuz and the Bab el-Mandeb Strait fell on Wednesday following Houthi claims of a missile attack on a Saudi oil tanker. Higher oil prices pushed bond yields up, pressuring financial stocks and the broader index. Meanwhile, Canadian Natural beat second-quarter profit estimates, supported by stronger oil and natural gas prices. Lundin Mining reported higher second-quarter revenue late Wednesday. WPM and Sun Life Financial are set to report earnings after the close. At least six brokerages also raised their price targets for Shopify after the company projected third-quarter revenue above expectations.
-
----
-
-### 2026-08-06 20:31:02  #MKT News #Market Themes #AI Revolution
-
-Millennium partners with ANTHROPIC to develop an AI-based risk-analysis tool.
-
----
-
-### 2026-08-06 20:30:32  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish
-
-US continuing jobless claims for week ended July 25: 1.801 mln, vs. 1.79 mln expected; prior revised to 1.777 mln from 1.782 mln.
-
----
-
-### 2026-08-06 20:30:24  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #USDJPY
-
-US four-week moving average of initial jobless claims for week ending Aug 1: 198,750. Prior four-week average revised up from 202,750 to 203,250.
-
----
-
-### 2026-08-06 20:30:22  #國際
-
-美國至8月1日當週初請失業金人數 19.9萬人，預期20.2萬人，前值由19.7萬人修正為19.8萬人。
-美國至8月1日當週初請失業金人數四周均值 19.875萬人，前值由20.275萬人修正為20.325萬人。
-美國至7月25日當週續請失業金人數 180.1萬人，預期179萬人，前值由178.2萬人修正為177.7萬人。
-美國第二季度非農生產力初值 1.4%，預期0.6%，前值由0.30%修正為0.8%。
-美國第二季度非農單位勞動力成本初值 1.3%，預期2.1%，前值由1.80%修正為1.3%。
 
 ---
