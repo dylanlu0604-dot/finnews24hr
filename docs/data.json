@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-07 21:14:33",
-  "count": 16115,
+  "updated": "2026-08-07 21:18:32",
+  "count": 16112,
   "items": [
+    {
+      "id": "5031236",
+      "time": "2026-08-07 21:16:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宏碁7月營收創下近13年來同期新高】8月7日，宏碁公佈，2026年7月合併營收新臺幣269.04億元，同比增長21.9%；今年前7月營收新臺幣1846.31億元、同比增長23.1%，皆創下近13年來同期新高。"
+    },
+    {
+      "id": "te:economy:573819",
+      "time": "2026-08-07 21:16:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Used Car Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Used Car Prices Fall in July — The Manheim Used Vehicle Value Index, a widely followed measure of wholesale used-vehicle prices in the US market, decreased 1.4% month-over-month in July 2026, the first decline in three months, after edging up 0.1% in June. EV prices decreased 2.1% and non-EV were down 1.1%. Year-on-year, used-vehicle prices increased 1.3%, the smallest annual gain so far this year, led by rises in EVs (10.5%) and compact cars (4.1%). Prices also increased slightly for non-EVs (0.4%) and luxury (0.8%). In contrast, decreases were seen for pickups (-2.3%), SUVs (-1.7%) and midsize cars (-1.4%). “Wholesale values kept normalizing through July, continuing the pattern since the spring bounce peaked in March\", according to Jonathan Gregory, Senior Director, Cox Automotive. \"Gas prices reversed course and moved higher again as July went on, after briefly easing in June. That’s kept demand for used EVs firm even as the broader market cools\", he added."
+    },
+    {
+      "id": "mkt:019fdc5d-2fea-7aab-8fbb-31a47268b2be",
+      "time": "2026-08-07 21:15:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【US nonfarm payrolls unexpectedly decline; stock futures extend gains】US nonfarm payrolls unexpectedly fell by 23,000 last month. Stock index futures extended gains and bond yields dropped sharply; the 10-year US Treasury yield fell from about 4.67% pre-report to around 4.60%. A softer labor market could reduce upward pressure on inf. Despite war risks and concerns of an AI investment bubble, robust corporate profits have eased Wall Street’s valuation worries."
+    },
+    {
+      "id": "mkt:019fdc5c-8de0-7aab-8fbb-2f7c790057b9",
+      "time": "2026-08-07 21:14:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Russia struck seven natural gas production sites overnight, according to the Ukrainian state oil and gas company."
+    },
+    {
+      "id": "5031235",
+      "time": "2026-08-07 21:14:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【15.57億千瓦！全國用電負荷再創新高】記者從國家能源局瞭解到，今天，全國用電負荷再創新高，達到15.57億千瓦，這也是今年第四次創新高。7月29日以來，全國用電負荷持續高位執行，日最大負荷（除週末假期外）均超過去年極值，北京、遼寧、江蘇、江西等25個省（自治區、直轄市）用電負荷累計78次創新高。國家能源局表示，將進一步做好用電負荷增長情況跟蹤，指導各地和電網企業堅決守牢民生用電底線，確保迎峰度夏平穩有序。（央視新聞）"
+    },
+    {
+      "id": "5031234",
+      "time": "2026-08-07 21:13:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【非農資料公佈後，美聯儲9月加息25個基點的機率下降】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。"
+    },
     {
       "id": "5031233",
       "time": "2026-08-07 21:13:04",
@@ -146956,79 +147019,6 @@
         "Xiaomi"
       ],
       "text": "【Zhongchuang Xinhang battery enters Xiaomi Pengcheng supply chain; 177Ah quality dispute unresolved】Xiaomi priced Pengcheng N90 Max and N70 Max at 299,900 yuan and 259,900 yuan on July 30, marking its entry into the range‑extended segment. The Pengcheng series reshapes Xiaomi’s battery sourcing—previous SU7 and YU7 models relied mainly on CATL and Fudi—bringing Sunwoda and Zhongchuang Xinhang into the supplier mix. The N90 Max is fitted with a 76kWh ternary lithium pack from Zhongchuang Xinhang, rated for up to 505 km CLTC pure‑electric range; Zhongchuang Xinhang remains embroiled in an unresolved 177Ah battery‑quality dispute."
-    },
-    {
-      "id": "5019509",
-      "time": "2026-07-31 21:18:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西進步黨（PP）在一份宣告中表示，該黨將在總統選舉中保持中立，參議員特雷莎·克里斯蒂娜已接受這一決定。"
-    },
-    {
-      "id": "5019508",
-      "time": "2026-07-31 21:17:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中創新航電池進入小米澎程供應鏈，177Ah質量風波待解】7月30日晚，雷軍在小米汽車第二產品系列釋出會上公佈澎程N90 Max、N70 Max預售價，分別為29.99萬元和25.99萬元，標誌著小米汽車正式入局增程市場。隨新車一同亮相的，是一套全新的電池供應體系——澎程系列打破了小米SU7、YU7主要採用寧德時代和弗迪電池的供應格局，引入欣旺達和中創新航作為電池供應商。其中，澎程N90 Max搭載中創新航提供的76kWh三元鋰離子電池，CLTC純電續航最高505公里。（澎湃）"
-    },
-    {
-      "id": "5019507",
-      "time": "2026-07-31 21:17:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【REDMI K100 Pro系列定檔8月11日】新配色REDMI K100 Pro Max真機在ChinaJoy首次公開展出。"
-    },
-    {
-      "id": "5019506",
-      "time": "2026-07-31 21:16:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【波蘭外交部就俄導彈落入該國境內事件召見俄大使】當地時間7月31日，波蘭總理圖斯克表示，波蘭外交部當天召見俄羅斯駐波蘭大使格奧爾基·米赫諾，就30日一枚俄製導彈落入波蘭境內一事提出交涉。（央視新聞）"
-    },
-    {
-      "id": "5019505",
-      "time": "2026-07-31 21:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "高露潔：預計北美地區下半年銷售額小幅改善。"
-    },
-    {
-      "id": "5019504",
-      "time": "2026-07-31 21:16:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙醫護人員訊息：一名巴勒斯坦人在以色列對加沙地帶中部發動的空襲中身亡。"
-    },
-    {
-      "id": "mkt:019fb851-0edd-7aab-8f36-8b9898fcc1bb",
-      "time": "2026-07-31 21:15:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gaza medical personnel said an Israeli airstrike in the central Gaza Strip killed one Palestinian."
-    },
-    {
-      "id": "5019503",
-      "time": "2026-07-31 21:15:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗“波斯灣海峽管理局”宣佈霍爾木茲海峽暫停通行】當地時間7月31日，伊朗“波斯灣海峽管理局”釋出宣告稱，由於美軍在相關海域持續採取侵略性行動，目前霍爾木茲海峽已無法正常通行。宣告指出，待地區局勢恢復穩定與平靜後，官方將按照申請順序重新評估並陸續發放通行許可。（央視新聞）"
-    },
-    {
-      "id": "5019502",
-      "time": "2026-07-31 21:14:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央教育工作領導小組秘書組、中共教育部黨組印發通知，部署學習貫徹習近平總書記對基礎教育工作重要指示精神】 \n近日，中央教育工作領導小組秘書組、中共教育部黨組印發《關於深入學習貫徹習近平總書記對基礎教育工作重要指示精神的通知》，就學習宣傳貫徹落實有關工作作出部署。\n\n《通知》指出，在全國基礎教育工作會議召開之際，習近平總書記對基礎教育工作作出重要指示，深刻闡明新時代基礎教育工作的戰略地位和取得的歷史性成就，把立德樹人作為教育根本任務，把健康第一作為重要教育理念，堅持辦好人民滿意教育的根本立場，把教師隊伍建設作為基礎工作，要求切實扛起政治責任，不斷開創基礎教育高質量發展新局面。習近平總書記的重要指示，充分體現了黨中央對基礎教育的高度重視，對廣大青少年兒童健康成長的殷切期待，為新徵程上深入推進基礎教育高質量發展提供了行動綱領和科學指南。\n\n《通知》強調，學習貫徹習近平總書記重要指示精神是當前和今後一個時期教育戰線的重大政治任務，要準確把握重點任務和工作要求，全力推動習近平總書記重要指示精神落地見效。全面貫徹落實黨的教育方針，教育引導廣大學生從小堅定理想信念、厚植家國情懷，加強體育鍛煉、美育薰陶和勞動實踐，促進學生健康成長、全面發展。牢牢守住教育公平底線，深入實施縣中振興行動計劃，推進中小學陽光招生，進一步縮小城鄉、區域、校際、群體教育差距。適應人口變化最佳化教育資源配置，加強資源整體統籌，促進校際間、學段間資源高效利用。守正創新塑造基礎教育新優勢，堅持以學生成長為中心深化教育教學改革，注重科技教育和人文教育協同。進一步強化協同共育責任，凝聚各方育人合力。加強高素質專業化教師隊伍建設，大力弘揚教育家精神，堅持師德師風第一標準，打造高質量教師教育體系，加快提升教師專業素養。\n\n《通知》要求，各地要迅速興起學習宣傳貫徹習近平總書記重要指示精神的熱潮，開展學習研討，強化宣傳引導，深化研究實踐，學深悟透、融會貫通，持續將習近平總書記重要指示精神學習宣傳貫徹工作引向深入。（教育部）"
     }
   ]
 }
