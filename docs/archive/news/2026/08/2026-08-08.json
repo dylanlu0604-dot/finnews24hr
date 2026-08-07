@@ -1,7 +1,26 @@
 {
   "date": "2026-08-08",
-  "count": 390,
+  "count": 392,
   "items": [
+    {
+      "id": "5031669",
+      "time": "2026-08-08 06:17:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列炮兵炮擊黎巴嫩阿里・塔希爾高地。"
+    },
+    {
+      "id": "te:markets:573893",
+      "time": "2026-08-08 06:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 1.14% — Top currency gainers are South Korean Won (1.14%), Brazilian Real (0.81%), Swedish Krona (0.55%), Japanese Yen (0.42%), Euro (0.22%) and British Pound (0.17%). Biggest loser is Dollar Index (-0.33%)."
+    },
     {
       "id": "te:markets:573892",
       "time": "2026-08-08 06:06:53",
