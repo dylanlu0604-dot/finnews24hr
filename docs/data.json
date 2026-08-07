@@ -1,7 +1,185 @@
 {
-  "updated": "2026-08-07 20:57:27",
-  "count": 16127,
+  "updated": "2026-08-07 21:02:07",
+  "count": 16124,
   "items": [
+    {
+      "id": "5031212",
+      "time": "2026-08-07 21:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯7月份外匯儲備降至7203.5億美元。"
+    },
+    {
+      "id": "mkt:019fdc4f-520c-7aab-8fba-fd079299f55d",
+      "time": "2026-08-07 21:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Night session open: China's most-active futures contracts were mostly higher. Shanghai silver rose over 4% and Shanghai gold gained more than 2%. Ethylene glycol and stainless steel advanced over 1%; Shanghai nickel and tin up about 1%. Shanghai zinc and SC crude fell nearly 1%."
+    },
+    {
+      "id": "mkt:019fdc4f-4ee4-7aab-8fba-f66a563b7055",
+      "time": "2026-08-07 21:00:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungarian Prime Minister Magyar said the expansion cost of the Paks II nuclear power plant is now twice the original estimate."
+    },
+    {
+      "id": "5031211",
+      "time": "2026-08-07 21:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報893.00元。"
+    },
+    {
+      "id": "5031210",
+      "time": "2026-08-07 21:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛約爾表示，保克什二號核電站擴建專案目前的造價已是最初預估的兩倍。"
+    },
+    {
+      "id": "mkt:019fdc4f-3afc-7aab-8fba-e8c5a8d59d8d",
+      "time": "2026-08-07 21:00:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【July global food price index highest since Jan 2023】The UN Food and Agriculture Organization said in a July 7 report its global food price index rose 0.6% MoM to 131.1 in July, the highest since January 2023 and 18.2% below the March 2022 peak. The cereals index climbed 3.4% MoM: wheat +5.8% on Black Sea export disruptions and heat in major producing areas; maize +3.6% amid US heat/drought and firmer energy prices; rice was broadly stable. The vegetable oils index gained 2.0% MoM to a high not seen since June 2022 as palm and soybean oil tracked higher crude; sugar rose 5.6% MoM on European heat and drought. Meat and dairy prices fell 2.8% and 0.7% MoM, respectively."
+    },
+    {
+      "id": "5031209",
+      "time": "2026-08-07 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報15878.00元。"
+    },
+    {
+      "id": "5031208",
+      "time": "2026-08-07 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】白銀連續漲4.49%，多晶矽連續漲2.95%，黃金連續漲2.45%，工業矽連續漲1.91%，雞蛋連續漲1.72%。"
+    },
+    {
+      "id": "5031207",
+      "time": "2026-08-07 20:59:37",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【疲弱就業資料削弱美聯儲加息押注，美國國債上漲】美國僱主7月意外削減就業崗位，表明勞動力市場面臨挑戰，可能影響美聯儲加息的意願，美國國債隨之上漲。對美聯儲貨幣政策短期調整較為敏感的兩年期美國國債收益率週五下跌8個基點，至4.16%，因市場削減了對未來幾個月加息的押注。10年期美債收益率下跌6個基點，至4.62%。美國勞工統計局週五公佈的資料顯示，7月非農就業人數減少2.3萬人，此前兩個月的資料也遭大幅下修。失業率降至4.1%，與此同時勞動參與率繼續下降。資料表明，在今年早些時候表現出乎意料強勁後，勞動力市場可能正面臨挑戰。“就業報告的總體數字為負，完全令人震驚，”Mischler金融集團Tom di Galoma表示，“我猜美聯儲9月份不會收緊政策了。”"
+    },
+    {
+      "id": "mkt:019fdc4e-bc99-7aab-8fba-e301cecdcd7c",
+      "time": "2026-08-07 20:59:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Weak jobs data cuts Fed rate-hike bets; U.S. Treasuries rally】U.S. employers unexpectedly cut payrolls in July, denting expectations for further Fed tightening and sending Treasuries higher. The two-year Treasury yield, most sensitive to Fed policy, fell 8bp to 4.16% on Friday as markets trimmed odds of near-term hikes. The 10-year yield declined 6bp to 4.62%. BLS data showed nonfarm payrolls fell 23,000 in July, with substantial downward revisions to the prior two months. The unemployment rate eased to 4.1% while the labor force participation rate continued to decline. Market participants said the report reduced the likelihood of a Fed rate increase in September."
+    },
+    {
+      "id": "mkt:019fdc4e-ac8e-7aab-8fba-d842e3535f3b",
+      "time": "2026-08-07 20:59:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "New York Times economics reporter Ben Casselman says July saw employer job cuts and May–June payrolls were revised down. The earlier hiring surge this year appears to have largely evaporated; the three-month average payroll gain is just 20,000 jobs per month."
+    },
+    {
+      "id": "5031206",
+      "time": "2026-08-07 20:59:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，8月6日美國實際有效聯邦基金利率為3.63%，當日交易額為1130億美元；8月5日有效聯邦基金利率同樣為3.63%，當日交易額為1140億美元。"
+    },
+    {
+      "id": "5031205",
+      "time": "2026-08-07 20:58:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元匯率再次突然跳漲】最新訊息：今天（8月7日），在疲軟的美國就業資料公佈後，日元兌美元匯率再次突然跳漲：美元一度下跌1.1%，至1美元兌156.68日元。目前尚不清楚是什麼推動了這一市場波動，也不確定日本是否再次入市干預。 日本財務大臣片山皋月和美國財長貝森特8月3日確認，日美於美東時間7月31日聯合干預外匯市場，支撐日元匯率。干預後，日元匯率一度升至1美元兌換155日元區間，但今天早些時候已回落至1美元兌換158日元區間。（CCTV國際時訊）"
+    },
+    {
+      "id": "5031204",
+      "time": "2026-08-07 20:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報告：DOGE宣稱為美國納稅人節省1100億美元缺乏依據】埃隆・馬斯克牽頭的政府效率部（DOGE）去年啟動削減聯邦政府開支工作時，同步上線了一個網站，用以展示該部門所稱、為納稅人節省的資金規模。 美國政府問責局（GAO）最新審查報告指出，該網站宣稱已經為納稅人節省1100億美元的說法嚴重誇大，資料缺乏可信度。 報告顯示，對於其公示的、撤銷各類補助所產生的節約金額中，96%的專案，政府效率部無法提供充分資料予以核實。 報告稱，儘管該部門承諾保持資訊透明，但約半數公示節約金額，並未按照其對外宣稱的統計方法進行核算。"
+    },
+    {
+      "id": "te:economy:573816",
+      "time": "2026-08-07 20:57:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Fall Sharply After Weak Jobs Report — The yield on the US 10-year Treasury note fell sharply by 7 basis points to 4.6% on Friday after a weaker-than-expected jobs report scaled back bets on Fed rate hikes. Nonfarm payrolls unexpectedly declined by 23,000 last month, while figures for May and June were also revised sharply lower by a combined 103,000. Meanwhile, the unemployment rate fell to 4.1% from 4.2%, suggesting the labor market is facing renewed challenges after showing surprising strength earlier this year. The odds of a Fed rate hike in September fell to 42%, from 58% yesterday, while expectations for rate increases by December declined to 28 basis points from 32 basis points earlier. On Thursday, a Financial Times report said Fed Chair Warsh is set to stick with the central bank’s lean messaging despite the market backlash. Still, he would be prepared to raise rates in September if inflation readings released in the coming weeks come in hot, the FT reported."
+    },
+    {
+      "id": "mkt:019fdc4c-792c-7aab-8fba-d1c763786d94",
+      "time": "2026-08-07 20:57:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Pressure to hike shifts to Aug. 12 U.S. CPI report】The Federal Reserve's next focal point is the U.S. consumer price index due Aug. 12. An unexpectedly hot print would intensify debate over a rate hike at the Fed's mid-September meeting."
+    },
     {
       "id": "5031203",
       "time": "2026-08-07 20:56:44",
@@ -146940,182 +147118,6 @@
         "公司"
       ],
       "text": "【新築股份：資產出售及購買資產交易對價合計70.58億元】新築股份公告，公司披露資產出售、發行股份及支付現金購買資產並募集配套資金暨關聯交易報告書（草案）摘要（修訂稿）。本次交易擬置入資產蜀道清潔能源60%股權交易對價為56.03億元，擬出售資產交易對價為14.55億元。交易完成後，公司控股股東仍為蜀道集團，實際控制人仍為四川省國資委。本次交易已獲四川省國資委批准，尚需深交所稽核透過及中國證監會同意註冊。"
-    },
-    {
-      "id": "5019472",
-      "time": "2026-07-31 21:01:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油（BP）：伊恩·泰勒將卸任董事長，留任人事與薪酬委員會委員。"
-    },
-    {
-      "id": "mkt:019fb844-3e8c-7aab-8f36-5c48f3d8717d",
-      "time": "2026-07-31 21:01:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Chile's National Statistics Institute reported June copper production rose 5.1% YoY."
-    },
-    {
-      "id": "5019471",
-      "time": "2026-07-31 21:01:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "路透調查：預計到2026年底俄羅斯通脹中位數為6.5%（上次調查為5.7%）。分析師預計俄羅斯央行將在四季度將基準利率從當前的14.00%下調至13.50%（上次調查為下調至13.00%）。俄羅斯2026年GDP增長預計為0.5%（上次調查為0.6%）。"
-    },
-    {
-      "id": "mkt:019fb843-bf7a-7aab-8f36-53a5e43782d9",
-      "time": "2026-07-31 21:01:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: Russia's 2026 GDP growth is forecast at 0.5%, versus 0.6% in the prior survey."
-    },
-    {
-      "id": "mkt:019fb843-b9f8-7aab-8f36-4f25bb00399d",
-      "time": "2026-07-31 21:01:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reuters survey: Analysts expect the Russian central bank to cut its policy rate in Q4 from the current 14.00% to 13.50% (previous survey: cut to 13.00%)."
-    },
-    {
-      "id": "5019470",
-      "time": "2026-07-31 21:01:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌2%，現報14000.00元。"
-    },
-    {
-      "id": "5019469",
-      "time": "2026-07-31 21:00:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長江儲存攜消費級固態硬碟等產品亮相ChinaJoy】在ChinaJoy2026上，長江儲存攜多款消費級固態硬碟SSD、高速儲存卡等產品亮相。記者注意到，這些SSD產品已應用於小米、機械革命等品牌筆記本上。（科創板日報）"
-    },
-    {
-      "id": "mkt:019fb843-5086-7aab-8f36-447b3e45fb2f",
-      "time": "2026-07-31 21:00:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "REUTERS SURVEY: Median forecast for Russian inf at end-2026 6.5% (previous survey 5.7%)."
-    },
-    {
-      "id": "5019468",
-      "time": "2026-07-31 21:00:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版，截至7月31日21時，2026年7月總票房50.05億，《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》《小黃人與大怪獸》《四渡》位列7月票房榜前五！"
-    },
-    {
-      "id": "5019467",
-      "time": "2026-07-31 21:00:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利6月失業率9.4%；預計 9.5%。"
-    },
-    {
-      "id": "5019466",
-      "time": "2026-07-31 21:00:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4040美元/盎司，日內跌1.57%。"
-    },
-    {
-      "id": "mkt:019fb842-e8ab-7aab-8f36-3d0700ab1a1c",
-      "time": "2026-07-31 21:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Night session opened: China’s main futures contracts mixed. SC crude up about 3%; low‑sulfur fuel oil (LU), asphalt, fuel oil and propylene rose more than 2%; LPG and ethylene glycol (EG) up about 2%; plastics up over 1%. On the downside, Shanghai silver, coking coal and Shanghai gold fell more than 1%; coke and soda ash down roughly 1%."
-    },
-    {
-      "id": "5019465",
-      "time": "2026-07-31 21:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲2%，現報5109.00元。"
-    },
-    {
-      "id": "5019464",
-      "time": "2026-07-31 21:00:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "7 月 30 日有效聯邦基金利率維持 3.63%，與前一日持平。"
-    },
-    {
-      "id": "5019463",
-      "time": "2026-07-31 21:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.84%，集運指數歐線期貨連續漲3.13%，上海原油連續漲3.07%，低硫燃料油連續漲2.78%，瀝青連續漲2.39%。"
-    },
-    {
-      "id": "5019462",
-      "time": "2026-07-31 21:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲2%，現報3656.00元。"
-    },
-    {
-      "id": "mkt:019fb841-9af7-7aab-8f36-36033ca1c8ce",
-      "time": "2026-07-31 20:58:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude oil up 2.00% intraday at $84.31/bbl."
-    },
-    {
-      "id": "5019461",
-      "time": "2026-07-31 20:57:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破86美元/桶，日內漲3.42%。"
-    },
-    {
-      "id": "5019460",
-      "time": "2026-07-31 20:57:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報86.45美元/桶。"
     }
   ]
 }

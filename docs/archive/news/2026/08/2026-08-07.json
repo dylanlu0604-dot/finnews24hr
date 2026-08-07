@@ -1,7 +1,185 @@
 {
   "date": "2026-08-07",
-  "count": 2423,
+  "count": 2439,
   "items": [
+    {
+      "id": "mkt:019fdc4f-520c-7aab-8fba-fd079299f55d",
+      "time": "2026-08-07 21:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "Night session open: China's most-active futures contracts were mostly higher. Shanghai silver rose over 4% and Shanghai gold gained more than 2%. Ethylene glycol and stainless steel advanced over 1%; Shanghai nickel and tin up about 1%. Shanghai zinc and SC crude fell nearly 1%."
+    },
+    {
+      "id": "5031212",
+      "time": "2026-08-07 21:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯7月份外匯儲備降至7203.5億美元。"
+    },
+    {
+      "id": "mkt:019fdc4f-4ee4-7aab-8fba-f66a563b7055",
+      "time": "2026-08-07 21:00:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungarian Prime Minister Magyar said the expansion cost of the Paks II nuclear power plant is now twice the original estimate."
+    },
+    {
+      "id": "5031211",
+      "time": "2026-08-07 21:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報893.00元。"
+    },
+    {
+      "id": "5031210",
+      "time": "2026-08-07 21:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛約爾表示，保克什二號核電站擴建專案目前的造價已是最初預估的兩倍。"
+    },
+    {
+      "id": "mkt:019fdc4f-3afc-7aab-8fba-e8c5a8d59d8d",
+      "time": "2026-08-07 21:00:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【July global food price index highest since Jan 2023】The UN Food and Agriculture Organization said in a July 7 report its global food price index rose 0.6% MoM to 131.1 in July, the highest since January 2023 and 18.2% below the March 2022 peak. The cereals index climbed 3.4% MoM: wheat +5.8% on Black Sea export disruptions and heat in major producing areas; maize +3.6% amid US heat/drought and firmer energy prices; rice was broadly stable. The vegetable oils index gained 2.0% MoM to a high not seen since June 2022 as palm and soybean oil tracked higher crude; sugar rose 5.6% MoM on European heat and drought. Meat and dairy prices fell 2.8% and 0.7% MoM, respectively."
+    },
+    {
+      "id": "5031209",
+      "time": "2026-08-07 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報15878.00元。"
+    },
+    {
+      "id": "5031208",
+      "time": "2026-08-07 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】白銀連續漲4.49%，多晶矽連續漲2.95%，黃金連續漲2.45%，工業矽連續漲1.91%，雞蛋連續漲1.72%。"
+    },
+    {
+      "id": "5031207",
+      "time": "2026-08-07 20:59:37",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【疲弱就業資料削弱美聯儲加息押注，美國國債上漲】美國僱主7月意外削減就業崗位，表明勞動力市場面臨挑戰，可能影響美聯儲加息的意願，美國國債隨之上漲。對美聯儲貨幣政策短期調整較為敏感的兩年期美國國債收益率週五下跌8個基點，至4.16%，因市場削減了對未來幾個月加息的押注。10年期美債收益率下跌6個基點，至4.62%。美國勞工統計局週五公佈的資料顯示，7月非農就業人數減少2.3萬人，此前兩個月的資料也遭大幅下修。失業率降至4.1%，與此同時勞動參與率繼續下降。資料表明，在今年早些時候表現出乎意料強勁後，勞動力市場可能正面臨挑戰。“就業報告的總體數字為負，完全令人震驚，”Mischler金融集團Tom di Galoma表示，“我猜美聯儲9月份不會收緊政策了。”"
+    },
+    {
+      "id": "mkt:019fdc4e-bc99-7aab-8fba-e301cecdcd7c",
+      "time": "2026-08-07 20:59:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Weak jobs data cuts Fed rate-hike bets; U.S. Treasuries rally】U.S. employers unexpectedly cut payrolls in July, denting expectations for further Fed tightening and sending Treasuries higher. The two-year Treasury yield, most sensitive to Fed policy, fell 8bp to 4.16% on Friday as markets trimmed odds of near-term hikes. The 10-year yield declined 6bp to 4.62%. BLS data showed nonfarm payrolls fell 23,000 in July, with substantial downward revisions to the prior two months. The unemployment rate eased to 4.1% while the labor force participation rate continued to decline. Market participants said the report reduced the likelihood of a Fed rate increase in September."
+    },
+    {
+      "id": "mkt:019fdc4e-ac8e-7aab-8fba-d842e3535f3b",
+      "time": "2026-08-07 20:59:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "New York Times economics reporter Ben Casselman says July saw employer job cuts and May–June payrolls were revised down. The earlier hiring surge this year appears to have largely evaporated; the three-month average payroll gain is just 20,000 jobs per month."
+    },
+    {
+      "id": "5031206",
+      "time": "2026-08-07 20:59:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，8月6日美國實際有效聯邦基金利率為3.63%，當日交易額為1130億美元；8月5日有效聯邦基金利率同樣為3.63%，當日交易額為1140億美元。"
+    },
+    {
+      "id": "5031205",
+      "time": "2026-08-07 20:58:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元匯率再次突然跳漲】最新訊息：今天（8月7日），在疲軟的美國就業資料公佈後，日元兌美元匯率再次突然跳漲：美元一度下跌1.1%，至1美元兌156.68日元。目前尚不清楚是什麼推動了這一市場波動，也不確定日本是否再次入市干預。 日本財務大臣片山皋月和美國財長貝森特8月3日確認，日美於美東時間7月31日聯合干預外匯市場，支撐日元匯率。干預後，日元匯率一度升至1美元兌換155日元區間，但今天早些時候已回落至1美元兌換158日元區間。（CCTV國際時訊）"
+    },
+    {
+      "id": "5031204",
+      "time": "2026-08-07 20:57:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報告：DOGE宣稱為美國納稅人節省1100億美元缺乏依據】埃隆・馬斯克牽頭的政府效率部（DOGE）去年啟動削減聯邦政府開支工作時，同步上線了一個網站，用以展示該部門所稱、為納稅人節省的資金規模。 美國政府問責局（GAO）最新審查報告指出，該網站宣稱已經為納稅人節省1100億美元的說法嚴重誇大，資料缺乏可信度。 報告顯示，對於其公示的、撤銷各類補助所產生的節約金額中，96%的專案，政府效率部無法提供充分資料予以核實。 報告稱，儘管該部門承諾保持資訊透明，但約半數公示節約金額，並未按照其對外宣稱的統計方法進行核算。"
+    },
+    {
+      "id": "te:economy:573816",
+      "time": "2026-08-07 20:57:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Treasury Yields Fall Sharply After Weak Jobs Report — The yield on the US 10-year Treasury note fell sharply by 7 basis points to 4.6% on Friday after a weaker-than-expected jobs report scaled back bets on Fed rate hikes. Nonfarm payrolls unexpectedly declined by 23,000 last month, while figures for May and June were also revised sharply lower by a combined 103,000. Meanwhile, the unemployment rate fell to 4.1% from 4.2%, suggesting the labor market is facing renewed challenges after showing surprising strength earlier this year. The odds of a Fed rate hike in September fell to 42%, from 58% yesterday, while expectations for rate increases by December declined to 28 basis points from 32 basis points earlier. On Thursday, a Financial Times report said Fed Chair Warsh is set to stick with the central bank’s lean messaging despite the market backlash. Still, he would be prepared to raise rates in September if inflation readings released in the coming weeks come in hot, the FT reported."
+    },
+    {
+      "id": "mkt:019fdc4c-792c-7aab-8fba-d1c763786d94",
+      "time": "2026-08-07 20:57:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Pressure to hike shifts to Aug. 12 U.S. CPI report】The Federal Reserve's next focal point is the U.S. consumer price index due Aug. 12. An unexpectedly hot print would intensify debate over a rate hike at the Fed's mid-September meeting."
+    },
     {
       "id": "5031203",
       "time": "2026-08-07 20:56:44",
