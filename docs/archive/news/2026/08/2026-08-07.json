@@ -1,7 +1,69 @@
 {
   "date": "2026-08-07",
-  "count": 796,
+  "count": 802,
   "items": [
+    {
+      "id": "mkt:019fda70-dfdf-7aab-8faf-78810bb7313a",
+      "time": "2026-08-07 12:17:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Beijing Yizhuang issues city’s first token-economy policy, to disburse 100 mln yuan in model/token vouchers annually】Beijing Economic‑Technological Development Area (Yizhuang) management committee issued a pilot token‑economy support package and will disburse 100 mln yuan a year in model/token/data vouchers. The measures boost R&D for inference‑specific chips and accelerate iteration of advanced packaging, co‑packaged optics, high‑speed optical interconnects and optical communications, and call for system‑level IC architecture innovation to scale compute clusters and establish hardware barriers for low‑cost token mass production. The policy accelerates integration of photonic computing with conventional compute to raise large‑model, massive‑token parallel processing capacity and support large‑scale high‑speed token inference scenarios. It will pilot token‑trading‑based data pricing, support enterprise‑ and individual‑level domain contextual data collection and processing, and encourage bulk production of expert and service digital twins. Procurement subsidies will equal 10% of annual data‑trading value, capped at 1 mln yuan per purchaser."
+    },
+    {
+      "id": "te:markets:573606",
+      "time": "2026-08-07 12:17:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Eases Further But Heads for Modest Weekly Gain — Malaysian palm oil futures hovered below MYR 4,700 per tonne, extending recent declines as weakness in Dalian palm olein and Chicago soyoil weighed on sentiment. Traders also grew cautious ahead of next week’s monthly report from the Malaysian Palm Oil Board, while Reuters survey pointed to July inventories at a five-month high as seasonal output outpaced demand. Even so, palm oil was still tracking a modest weekly advance of about 0.5% so far, recovering from prior losses. Demand prospects in top buyer India offered support, with July imports surging to a 10-month high as refiners stocked up on palm oil and soyoil ahead of festive demand amid tightening domestic supplies. Exports also underpinned prices, with cargo surveyors estimating July Malaysian palm oil shipments rose between 12.1% and 19.5% from June. In China, another major consumer, July trade data showed resilient exports and imports despite moderating growth, reinforcing a broadly supportive backdrop for commodity demand."
+    },
+    {
+      "id": "5030035",
+      "time": "2026-08-07 12:17:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "東盟輪值主席國：我們期待特使獲准進入緬甸，會見包括昂山素季在內的所有相關各方。"
+    },
+    {
+      "id": "5030034",
+      "time": "2026-08-07 12:17:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出山洪和地質災害雙預警】8月7日上午，山西省自然資源廳和山西省氣象局聯合釋出地質災害氣象風險預警，預計8月7日8時至8月8日8時，陽泉市城區、礦區、郊區、平定縣、盂縣、長治市平順縣、晉城市陵川縣、臨汾市襄汾縣部分割槽域地質災害氣象風險預警級別為三級（黃色預警），發生地質災害的風險較高。上述地區政府、部門和群眾應根據預警等級採取相應的防範措施，加強雨前排查、雨中巡查、雨後核查。此外，山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警。"
+    },
+    {
+      "id": "mkt:019fda6f-753a-7aab-8faf-73222ec3cf38",
+      "time": "2026-08-07 12:16:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【TrendForce raises 2026 AI server shipment growth forecast to nearly 31%】TrendForce raised its 2026 AI server shipment growth forecast to nearly 31% from 28%, citing surging AI infrastructure demand. The research house estimates total capex by nine major cloud service providers (CSPs) will climb about 90% YoY in 2026. Hyperscalers and Tier‑2 data centers have noticeably increased purchases of NVIDIA GB/VR rack‑scale AI server solutions, and Google and AWS next‑generation ASIC platforms are expected to ramp in H2 2026. TrendForce also flagged expanded adoption of domestic Chinese AI solutions to support cloud LLM workloads as an additional demand driver."
+    },
+    {
+      "id": "5030033",
+      "time": "2026-08-07 12:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將英國石油目標股價從42美元上調至43美元。"
+    },
     {
       "id": "5030032",
       "time": "2026-08-07 12:14:24",

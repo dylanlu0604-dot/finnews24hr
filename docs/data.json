@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-07 12:15:04",
-  "count": 16096,
+  "updated": "2026-08-07 12:18:55",
+  "count": 16097,
   "items": [
+    {
+      "id": "mkt:019fda70-dfdf-7aab-8faf-78810bb7313a",
+      "time": "2026-08-07 12:17:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Beijing Yizhuang issues city’s first token-economy policy, to disburse 100 mln yuan in model/token vouchers annually】Beijing Economic‑Technological Development Area (Yizhuang) management committee issued a pilot token‑economy support package and will disburse 100 mln yuan a year in model/token/data vouchers. The measures boost R&D for inference‑specific chips and accelerate iteration of advanced packaging, co‑packaged optics, high‑speed optical interconnects and optical communications, and call for system‑level IC architecture innovation to scale compute clusters and establish hardware barriers for low‑cost token mass production. The policy accelerates integration of photonic computing with conventional compute to raise large‑model, massive‑token parallel processing capacity and support large‑scale high‑speed token inference scenarios. It will pilot token‑trading‑based data pricing, support enterprise‑ and individual‑level domain contextual data collection and processing, and encourage bulk production of expert and service digital twins. Procurement subsidies will equal 10% of annual data‑trading value, capped at 1 mln yuan per purchaser."
+    },
+    {
+      "id": "te:markets:573606",
+      "time": "2026-08-07 12:17:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Eases Further But Heads for Modest Weekly Gain — Malaysian palm oil futures hovered below MYR 4,700 per tonne, extending recent declines as weakness in Dalian palm olein and Chicago soyoil weighed on sentiment. Traders also grew cautious ahead of next week’s monthly report from the Malaysian Palm Oil Board, while Reuters survey pointed to July inventories at a five-month high as seasonal output outpaced demand. Even so, palm oil was still tracking a modest weekly advance of about 0.5% so far, recovering from prior losses. Demand prospects in top buyer India offered support, with July imports surging to a 10-month high as refiners stocked up on palm oil and soyoil ahead of festive demand amid tightening domestic supplies. Exports also underpinned prices, with cargo surveyors estimating July Malaysian palm oil shipments rose between 12.1% and 19.5% from June. In China, another major consumer, July trade data showed resilient exports and imports despite moderating growth, reinforcing a broadly supportive backdrop for commodity demand."
+    },
+    {
+      "id": "5030035",
+      "time": "2026-08-07 12:17:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "東盟輪值主席國：我們期待特使獲准進入緬甸，會見包括昂山素季在內的所有相關各方。"
+    },
+    {
+      "id": "5030034",
+      "time": "2026-08-07 12:17:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西釋出山洪和地質災害雙預警】8月7日上午，山西省自然資源廳和山西省氣象局聯合釋出地質災害氣象風險預警，預計8月7日8時至8月8日8時，陽泉市城區、礦區、郊區、平定縣、盂縣、長治市平順縣、晉城市陵川縣、臨汾市襄汾縣部分割槽域地質災害氣象風險預警級別為三級（黃色預警），發生地質災害的風險較高。上述地區政府、部門和群眾應根據預警等級採取相應的防範措施，加強雨前排查、雨中巡查、雨後核查。此外，山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警。"
+    },
+    {
+      "id": "mkt:019fda6f-753a-7aab-8faf-73222ec3cf38",
+      "time": "2026-08-07 12:16:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【TrendForce raises 2026 AI server shipment growth forecast to nearly 31%】TrendForce raised its 2026 AI server shipment growth forecast to nearly 31% from 28%, citing surging AI infrastructure demand. The research house estimates total capex by nine major cloud service providers (CSPs) will climb about 90% YoY in 2026. Hyperscalers and Tier‑2 data centers have noticeably increased purchases of NVIDIA GB/VR rack‑scale AI server solutions, and Google and AWS next‑generation ASIC platforms are expected to ramp in H2 2026. TrendForce also flagged expanded adoption of domestic Chinese AI solutions to support cloud LLM workloads as an additional demand driver."
+    },
+    {
+      "id": "5030033",
+      "time": "2026-08-07 12:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將英國石油目標股價從42美元上調至43美元。"
+    },
     {
       "id": "5030032",
       "time": "2026-08-07 12:14:24",
@@ -146974,54 +147036,6 @@
         "Importance 1"
       ],
       "text": "Dutch Manufacturing Confidence at 4-Year High — Business confidence in the Dutch manufacturing sector rose to 2.4 in July 2026, the highest level in four years, from 1.3 in the previous month. Sentiment improved as order book assessments rose to -3.8 from -7.0, while inventory assessments strengthened to -2.4 from -3.5 in June. Meanwhile, expectations for business activity became less optimistic, falling to 13.5 from 14.5, though they continued to signal a positive near-term production outlook. Across sectors, sentiment improved broadly, with gains recorded in wood and building materials (-3.4 vs. -6.5) and base metal and metal products (-3.0 vs. -3.3). Sentiment also turned positive in paper and graphic products (1.4 vs. -6.5) and strengthened further in electrical engineering and machinery (15.6 vs. 9.7)."
-    },
-    {
-      "id": "te:markets:571492",
-      "time": "2026-07-31 12:18:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Heads for Monthly Gain — Gold slipped below $4,100 an ounce on Friday, snapping a two-session winning streak, but remained on track for its first monthly gain in five months. The precious metal found support this week after the US Federal Reserve left interest rates unchanged despite mounting inflationary pressures stemming from renewed hostilities in the Middle East. However, expectations for tighter monetary policy continued to cap gains, with markets currently pricing in about a 63% chance of a Fed rate hike in September. Meanwhile, the US military launched fresh strikes on Iranian targets in retaliation for Tehran’s attacks on US assets across the Middle East, reducing the likelihood of any near-term diplomatic agreement. Gold has come under constant pressure since the US-Iran war erupted in late February, as surging oil prices fueled inflation concerns and strengthened expectations for tighter monetary policy."
-    },
-    {
-      "id": "mkt:019fb665-6c38-7aab-8f27-426879997a00",
-      "time": "2026-07-31 12:18:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SpaceX Falcon 9 second-stage debris expected to strike Moon on Aug 5】Debris from a decommissioned SpaceX Falcon 9 second stage, estimated at about 3,900 kg, is forecast to impact the Moon on Aug. 5 at roughly 06:35 UTC (02:35 EDT; 14:35 Beijing time) at an estimated speed of about 2.43 km/s. Impact is expected near the Moon's Einstein crater; two arXiv preprints predict a flash and ejecta plume that should be observable by ground and space telescopes."
-    },
-    {
-      "id": "5018310",
-      "time": "2026-07-31 12:17:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美“獵鷹9”火箭第二級殘骸預計將撞擊月球】據美國媒體30日報道，美太空探索技術公司一枚廢棄的“獵鷹9”號火箭第二級殘骸預計將於8月5日撞擊月球。這一事件有望產生可被地面和空間望遠鏡觀測到的噴射羽流，為研究月球撞擊過程和未來月球探測任務提供重要資料。 近日發表在預印本網站arXiv的兩篇研究顯示，這枚“獵鷹9”號火箭第二級重約3900公斤，預計將在美國東部時間8月5日2時35分左右（北京時間8月5日14時35分左右）以約每秒2.43公里的速度撞擊月球表面。預計撞擊地點位於月球愛因斯坦隕石坑附近區域。研究人員預測，撞擊產生的閃光和噴射羽流可透過地面和太空觀測設施觀測到。 (新華社)"
-    },
-    {
-      "id": "5018309",
-      "time": "2026-07-31 12:17:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將羅技國際（Logitech International S.A.）目標價從123美元下調至120美元。"
-    },
-    {
-      "id": "mkt:019fb663-c28d-7aab-8f27-387cbb1f30e0",
-      "time": "2026-07-31 12:16:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian military said it used drones to strike US facilities at Kuwait's Ahmad al-Jaber air base, calling the attack retaliation for recent US strikes on Iran and for an attack on Qeshm Island."
     }
   ]
 }
