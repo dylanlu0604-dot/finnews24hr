@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 05:33:43",
-  "count": 16000,
+  "updated": "2026-08-08 05:37:33",
+  "count": 15997,
   "items": [
+    {
+      "id": "5031657",
+      "time": "2026-08-08 05:36:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞新任總統德拉埃斯普列亞宣誓就職】當地時間8月7日，哥倫比亞當選總統阿韋拉多·德拉埃斯普列亞在該國第三大城市卡利宣誓就職，任期四年。阿韋拉多·德拉埃斯普列亞現年47歲，是哥倫比亞律師、企業家和右翼政治人物，長期活躍於公共事務領域。他此前在競選時主張以強硬手段打擊犯罪，推行自由市場經濟政策。（央視新聞）"
+    },
     {
       "id": "5031656",
       "time": "2026-08-08 05:30:48",
@@ -145805,43 +145813,6 @@
         "國際"
       ],
       "text": "真主黨敦促黎巴嫩政府履行職責，制止以色列的罪行。"
-    },
-    {
-      "id": "5020007",
-      "time": "2026-08-01 05:36:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月01日05時24分在雲南普洱市墨江縣（北緯23.18度，東經101.45度）發生4.4級地震，震源深度10千米。"
-    },
-    {
-      "id": "5020006",
-      "time": "2026-08-01 05:36:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國五角大樓發言人：美國國防部隨時準備執行特朗普總統的指示。"
-    },
-    {
-      "id": "mkt:019fba19-acbf-7aab-8f3e-27da278efa74",
-      "time": "2026-08-01 05:34:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Trump has ordered a new round of strikes on Iran】The Wall Street Journal reported US officials say President Trump has ordered a new round of strikes on Iran aimed at forcing Tehran to surrender. The operation could begin as early as this weekend and may run for several days. Officials said Trump is considering a two-week, high-intensity air campaign to degrade Iran’s missile capability, though military advisers warned of risks including ammunition depletion. Some US officials said Iran may delay negotiations, betting rising US domestic opposition will prompt Washington to abandon a prolonged campaign."
-    },
-    {
-      "id": "5020005",
-      "time": "2026-08-01 05:34:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【拉脫維亞關閉與白俄羅斯的邊境】當地時間7月31日，拉脫維亞內政部長多姆布拉瓦表示，由於技術原因，拉脫維亞已關閉與白俄羅斯的邊境，建議尚未返回拉脫維亞的人員使用其他路線。（央視新聞）"
     }
   ]
 }
