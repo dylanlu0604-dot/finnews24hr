@@ -1,7 +1,66 @@
 {
   "date": "2026-08-07",
-  "count": 2545,
+  "count": 2552,
   "items": [
+    {
+      "id": "5031295",
+      "time": "2026-08-07 21:53:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股黃金礦業板塊走高】8月7日，美股黃金礦業板塊走高，金田漲超10%，哈莫尼黃金漲超10%，科爾黛倫礦業漲超8%，紐曼礦業漲超6%，金羅斯黃金漲超6%。"
+    },
+    {
+      "id": "5031294",
+      "time": "2026-08-07 21:53:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崑崙萬維旗下天工短劇工作臺接入Seedance 2.5】8月7日，崑崙萬維旗下SkyProduction天工短劇工作臺正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支援單段最長30秒影片直出，可使用50個參考素材，並支援10餘種語言。此外，天工短劇工作臺即將推出全新的“智慧畫布”創作模式，支援長影片生成。"
+    },
+    {
+      "id": "5031293",
+      "time": "2026-08-07 21:52:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大與美國正商討以貿易讓步換取部分關稅減免。"
+    },
+    {
+      "id": "5031292",
+      "time": "2026-08-07 21:52:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "LATIGO BIOTHERAPEUTICS 預計開盤價 20 美元，IPO 價格 18 美元。"
+    },
+    {
+      "id": "5031291",
+      "time": "2026-08-07 21:51:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈塞特：預計柴油或汽油價格不會上漲。"
+    },
+    {
+      "id": "mkt:019fdc7e-23b6-7aab-8fbb-c62c8cf77220",
+      "time": "2026-08-07 21:51:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director Hassett said he does not expect diesel or gasoline prices to rise."
+    },
+    {
+      "id": "mkt:019fdc7d-0768-7aab-8fbb-bf1830b14b99",
+      "time": "2026-08-07 21:50:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is due to speak in 10 minutes."
+    },
     {
       "id": "mkt:019fdc7c-666c-7aab-8fbb-b6da759f024e",
       "time": "2026-08-07 21:49:27",

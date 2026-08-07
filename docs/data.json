@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-07 21:50:27",
-  "count": 16080,
+  "updated": "2026-08-07 21:54:24",
+  "count": 16078,
   "items": [
+    {
+      "id": "5031295",
+      "time": "2026-08-07 21:53:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股黃金礦業板塊走高】8月7日，美股黃金礦業板塊走高，金田漲超10%，哈莫尼黃金漲超10%，科爾黛倫礦業漲超8%，紐曼礦業漲超6%，金羅斯黃金漲超6%。"
+    },
+    {
+      "id": "5031294",
+      "time": "2026-08-07 21:53:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【崑崙萬維旗下天工短劇工作臺接入Seedance 2.5】8月7日，崑崙萬維旗下SkyProduction天工短劇工作臺正式接入Seedance 2.5，720P低至0.4元/秒，480P低至0.3元/秒。Seedance 2.5支援單段最長30秒影片直出，可使用50個參考素材，並支援10餘種語言。此外，天工短劇工作臺即將推出全新的“智慧畫布”創作模式，支援長影片生成。"
+    },
+    {
+      "id": "5031293",
+      "time": "2026-08-07 21:52:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大與美國正商討以貿易讓步換取部分關稅減免。"
+    },
+    {
+      "id": "5031292",
+      "time": "2026-08-07 21:52:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "LATIGO BIOTHERAPEUTICS 預計開盤價 20 美元，IPO 價格 18 美元。"
+    },
+    {
+      "id": "5031291",
+      "time": "2026-08-07 21:51:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈塞特：預計柴油或汽油價格不會上漲。"
+    },
+    {
+      "id": "mkt:019fdc7e-23b6-7aab-8fbb-c62c8cf77220",
+      "time": "2026-08-07 21:51:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director Hassett said he does not expect diesel or gasoline prices to rise."
+    },
+    {
+      "id": "mkt:019fdc7d-0768-7aab-8fbb-bf1830b14b99",
+      "time": "2026-08-07 21:50:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is due to speak in 10 minutes."
+    },
     {
       "id": "mkt:019fdc7c-666c-7aab-8fbb-b6da759f024e",
       "time": "2026-08-07 21:49:27",
@@ -146640,88 +146699,6 @@
         "國際"
       ],
       "text": "歐盟外交政策負責人卡拉斯：核查哈馬斯的履約情況將是一項重大挑戰。"
-    },
-    {
-      "id": "5019595",
-      "time": "2026-07-31 21:54:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湘財股份：子公司湘財證券因違規被中國證監會立案】湘財股份公告稱，子公司湘財證券於2026年7月31日收到中國證監會《立案告知書》，因其涉嫌違反《證券經紀業務管理辦法》關於賬戶實名制等規定，被中國證監會立案。湘財證券將積極配合相關工作，公司會按要求履行資訊披露義務。目前，公司及子公司經營正常。"
-    },
-    {
-      "id": "5019594",
-      "time": "2026-07-31 21:53:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策負責人卡拉斯：解除加沙哈馬斯武裝的計劃若得到全面實施，將是邁向和平的建設性一步。"
-    },
-    {
-      "id": "te:economy:571788",
-      "time": "2026-07-31 21:53:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 2"
-      ],
-      "text": "US 10 Year Treasury Yield Back to 2025-Highs — The yield on the US 10-year Treasury note rose to 4.73% on Friday, returning to its highest level since January 2025, as investors weighed remarks from Fed policymakers that reinforced the case for higher interest rates to curb inflation. Minneapolis Fed President Kashkari said he would prefer smaller rate hikes now rather than waiting, while Cleveland Fed President Hammack warned that the longer inflation remains elevated, the more difficult and costly it will be to bring it back to target. Dallas Fed President Logan said inflation risks are to the upside. These are the three FOMC members who dissented at this week's meeting, voting in favor of a 25bps rate hike, although the Fed left the federal funds rate unchanged. Even so, investors' expectations for a rate hike at the next policy meeting in September eased after Governor Warsh offered little guidance on the future path of monetary policy, although markets continue to price in roughly a two-thirds probability of a 25bps increase."
-    },
-    {
-      "id": "5019593",
-      "time": "2026-07-31 21:53:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞馬遜雲業務營收連續第五個季度增長 股價開盤躍升近15%】亞馬遜股價飆升，此前公佈的雲端計算業務營收超過分析師預期，對人工智慧服務的旺盛需求連續第五個季度推動銷售加速。週五紐約市場開盤後，亞馬遜股價一度上漲近15%，創2022年11月以來最大盤中漲幅。亞馬遜週四釋出宣告稱，截至6月30日的季度，旗下雲端計算業務Amazon Web Services（AWS）營收增長37%至422億美元。這是2021年第四季度以來的最快增速。彭博彙編資料顯示，分析師平均預期AWS營收為406億美元。AWS貢獻了亞馬遜約五分之一的營收和大部分營業利潤。亞馬遜報告稱，截至6月30日的季度，公司用於物業和裝置的支出（包括部分資產出售所得抵減後）超過530億美元。亞馬遜此前表示，今年資本專案支出預計將達到2000億美元，主要用於人工智慧相關專案，因此投資者密切關注公司是否存在過度投資的跡象。"
-    },
-    {
-      "id": "te:markets:571787",
-      "time": "2026-07-31 21:52:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Eli Lilly Stock Price Hits 5-week Low — Eli Lilly shares decreased to 1134.00 USD, the lowest since June 2026. Over the past 4 weeks, Eli Lilly lost 4.5%, and in the last 12 months, it increased 53.78%."
-    },
-    {
-      "id": "5019592",
-      "time": "2026-07-31 21:51:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "Coinbase 跌幅擴大，跌至盤中低點，下挫 12%，營收資料不及預期。"
-    },
-    {
-      "id": "5019591",
-      "time": "2026-07-31 21:51:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【蘋果股價創2025年以來最大跌幅 供應短缺拖累業績展望】蘋果股價創16個月來最大跌幅，零部件短缺拖累了這家科技巨頭的銷售預期，這表明全行業面臨的供應鏈限制所造成的負面影響比預期更為嚴重。蘋果週四在財報電話會上表示，截至9月的第四財季營收預計將增長9%至11%。分析師此前預計增幅將超過12%。蘋果一直受到儲存晶片和電腦處理器短缺的困擾，這迫使公司6月上調了Mac和iPad價格。供應緊張導致Mac mini和Mac Studio等重要電腦產品的交貨等待期延長。首席財務官Kevan Parekh在電話會上表示，供應限制將在截至9月的季度影響iPhone、Mac和iPad業務。他說，匯率波動也在拖累增長。令人失望的業績展望導致蘋果股價週五開盤一度大跌9.5%，至301.83美元，創2025年4月3日以來最大盤中跌幅。某種程度上，上財季也是執行長蒂姆·庫克的謝幕之作。庫克將於9月1日把管理權交給硬體業務負責人約翰·特努斯。自2011年執掌蘋果以來，庫克推動了產品線多元化，並將公司年度銷售額提高到接近5000億美元。"
-    },
-    {
-      "id": "5019590",
-      "time": "2026-07-31 21:50:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯法院沒收耶和華見證會名下123處房產。"
-    },
-    {
-      "id": "5019589",
-      "time": "2026-07-31 21:50:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列官員稱不接受最新版加沙停火路線圖】當地時間31日，以色列國家安全部部長本-格維爾在社交媒體上發表宣告稱，當天加沙“和平委員會”公佈的最新版加沙停火路線圖對以色列而言是不可接受的。本-格維爾揚言，“承諾停止針對哈馬斯組織成員的襲擊行動，相當於同意哈馬斯為下一次襲擊做準備”。本-格維爾還強調，“以色列必須鼓勵加沙地帶的巴勒斯坦人口外遷”。（央視新聞）"
     }
   ]
 }
