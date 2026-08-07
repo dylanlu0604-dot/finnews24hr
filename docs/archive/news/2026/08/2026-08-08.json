@@ -1,7 +1,43 @@
 {
   "date": "2026-08-08",
-  "count": 11,
+  "count": 14,
   "items": [
+    {
+      "id": "te:markets:573867",
+      "time": "2026-08-08 00:14:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Hits Record High — The CAC 40 edged up 0.2% to close at a record 8,715 on Friday, supported by better-than-expected trade data and gains in US technology stocks. France's trade deficit narrowed more than expected to €5.8 billion in June from €7.9 billion in May, as exports rose 2.6% month-on-month to €54.5 billion. Industrial stocks advanced, with Airbus up 0.5%, Safran adding 0.6%, and Sanofi gaining 1.3%. Technology shares also moved higher, with STMicroelectronics rising 3.2% and Schneider Electric advancing 1% amid sector gains on Wall Street. In contrast, luxury stocks mostly declined, with LVMH down 0.3% and Kering and L'Oréal both falling 1.1% as Middle East tensions weighed on risk appetite. TotalEnergies also slipped 0.6% amid volatile oil prices. Broader sectors were mixed as France's unemployment rate rose to 8.3% in Q2 2026 from 8.1% in the previous quarter, reaching its highest level since Q3 2020."
+    },
+    {
+      "id": "te:markets:573866",
+      "time": "2026-08-08 00:12:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.06% Higher — The FTSE MIB Index gained 34 points or 0.06 percent on Friday to close at 53717 points. Gains were led by STMicroelectronics (2.99%), Prysmian (1.73%) and Diasorin (1.26%). Biggest losers were Brunello Cucinelli (-2.60%), Fincantieri (-2.57%) and Nexi (-1.99%)."
+    },
+    {
+      "id": "te:markets:573865",
+      "time": "2026-08-08 00:11:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.69% Higher — The DAX Index went up by 179 points or 0.69 percent on Friday to close at 26319 points. The rise was led by SAP (4.30%), Scout24 (3.52%) and Infineon (3.23%). On the downside, the weakerst performers were Daimler Truck Holding AG (-2.81%), Zalando (-2.11%) and Allianz (-1.63%)."
+    },
     {
       "id": "5031425",
       "time": "2026-08-08 00:10:52",

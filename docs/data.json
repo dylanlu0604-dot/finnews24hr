@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-08 00:11:34",
-  "count": 16016,
+  "updated": "2026-08-08 00:15:37",
+  "count": 16004,
   "items": [
+    {
+      "id": "te:markets:573867",
+      "time": "2026-08-08 00:14:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Hits Record High — The CAC 40 edged up 0.2% to close at a record 8,715 on Friday, supported by better-than-expected trade data and gains in US technology stocks. France's trade deficit narrowed more than expected to €5.8 billion in June from €7.9 billion in May, as exports rose 2.6% month-on-month to €54.5 billion. Industrial stocks advanced, with Airbus up 0.5%, Safran adding 0.6%, and Sanofi gaining 1.3%. Technology shares also moved higher, with STMicroelectronics rising 3.2% and Schneider Electric advancing 1% amid sector gains on Wall Street. In contrast, luxury stocks mostly declined, with LVMH down 0.3% and Kering and L'Oréal both falling 1.1% as Middle East tensions weighed on risk appetite. TotalEnergies also slipped 0.6% amid volatile oil prices. Broader sectors were mixed as France's unemployment rate rose to 8.3% in Q2 2026 from 8.1% in the previous quarter, reaching its highest level since Q3 2020."
+    },
+    {
+      "id": "te:markets:573866",
+      "time": "2026-08-08 00:12:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.06% Higher — The FTSE MIB Index gained 34 points or 0.06 percent on Friday to close at 53717 points. Gains were led by STMicroelectronics (2.99%), Prysmian (1.73%) and Diasorin (1.26%). Biggest losers were Brunello Cucinelli (-2.60%), Fincantieri (-2.57%) and Nexi (-1.99%)."
+    },
+    {
+      "id": "te:markets:573865",
+      "time": "2026-08-08 00:11:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.69% Higher — The DAX Index went up by 179 points or 0.69 percent on Friday to close at 26319 points. The rise was led by SAP (4.30%), Scout24 (3.52%) and Infineon (3.23%). On the downside, the weakerst performers were Daimler Truck Holding AG (-2.81%), Zalando (-2.11%) and Allianz (-1.63%)."
+    },
     {
       "id": "5031425",
       "time": "2026-08-08 00:10:52",
@@ -145903,147 +145939,6 @@
         "MKT News"
       ],
       "text": "Trump says Acting U.S. Attorney General Blanche should be confirmed."
-    },
-    {
-      "id": "mkt:019fb8f5-a249-7aab-8f3a-e24ccf920f08",
-      "time": "2026-08-01 00:15:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said parties have agreed not to establish a deweaponization fund."
-    },
-    {
-      "id": "5019757",
-      "time": "2026-08-01 00:15:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及 “反武器化” 基金：各方已同意不再設立該基金。"
-    },
-    {
-      "id": "mkt:019fb8f4-0298-7aab-8f3a-da1d7c1b26fe",
-      "time": "2026-08-01 00:13:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump on FIFA said we never discussed any deal."
-    },
-    {
-      "id": "5019756",
-      "time": "2026-08-01 00:13:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談哈馬斯解除武裝事宜：已與以色列達成共識。"
-    },
-    {
-      "id": "5019755",
-      "time": "2026-08-01 00:13:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及國際足聯：從未商討相關交易。"
-    },
-    {
-      "id": "mkt:019fb8f3-803e-7aab-8f3a-d63840133a69",
-      "time": "2026-08-01 00:13:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said the Israel-Hamas agreement is an important step for the Middle East."
-    },
-    {
-      "id": "5019754",
-      "time": "2026-08-01 00:13:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及以色列與哈馬斯協議：中東局勢邁出重要一步。"
-    },
-    {
-      "id": "mkt:019fb8f3-1e6a-7aab-8f3a-c8e057860c43",
-      "time": "2026-08-01 00:12:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump on Iran: We will take action against them."
-    },
-    {
-      "id": "5019753",
-      "time": "2026-08-01 00:12:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 我們只想取得勝利，目前進展十分順利。我們已經儘量展現善意，在當下這種局勢下做到最大限度剋制。伊朗正遭受重創。"
-    },
-    {
-      "id": "te:markets:571836",
-      "time": "2026-08-01 00:12:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Edges Higher as Market Reopens After Delay — The Ibovespa edged higher to trade above 177,500 on Friday after the market opening was delayed due to operational issues. The delay is expected to concentrate orders that would have been executed throughout the morning, increasing the potential for volatility. Petrobras gained nearly 0.5% amid higher oil prices. Major banks also advanced, with Itaú rising more than 1%. Vale (-0.5%) reported 2Q26 earnings and revenue above expectations and raised its 2026 guidance, but posted a 35% decline in profit. Multiplan (+0.5%) is also set to hold a conference call after reporting second-quarter net profit above market forecasts. Meanwhile, Braskem (-2%) recorded lower sales in 2Q26, pressured by weaker demand for key chemicals. On the macro front, Brazil’s gross public debt-to-GDP ratio rose to 81.9% in June from 81.0% in May. The deterioration in fiscal accounts reinforced expectations that borrowing costs may remain elevated."
-    },
-    {
-      "id": "5019752",
-      "time": "2026-08-01 00:12:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法意西希四國主權債收益率7月份至多累漲將近40個基點】週五（7月31日）歐市尾盤，法國10年期國債收益率漲6.2個基點，重新整理日高至4.003%，7月份累計上漲34.4個基點，整體（與天然氣期貨市場一樣）持續走高。義大利10年期國債收益率漲6.1個基點，重新整理日高至4.024%，7月份累漲38.9個基點，彭博資料顯示7月28日出現異常波動——從3.9%附近飆升至5.620%、瞬間又回落至4%整數位心理關口下方。西班牙10年期國債收益率漲5.7個基點，重新整理日高至3.656%，7月份累漲30.8個基點。希臘10年期國債收益率漲6.0個基點，重新整理日高至3.920%，7月份累漲37.7個基點。"
-    },
-    {
-      "id": "te:markets:571835",
-      "time": "2026-08-01 00:12:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.13% Higher — The FTSE MIB Index gained 68 points or 0.13 percent on Friday to close at 52173 points. Gains were led by Amplifon (8.19%), Diasorin (4.21%) and Brunello Cucinelli (3.51%). Biggest losers were Snam (-2.33%), Stellantis N.V. (-1.72%) and Italgas (-1.58%)."
-    },
-    {
-      "id": "5019751",
-      "time": "2026-08-01 00:11:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：我們將對其實施強力打擊。未來數週將打擊他們。"
-    },
-    {
-      "id": "mkt:019fb8f2-2c5c-7aab-8f3a-c770a7567da4",
-      "time": "2026-08-01 00:11:46",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said Iran is being hit hard."
-    },
-    {
-      "id": "mkt:019fb8f2-057a-7aab-8f3a-bde00d49f8ad",
-      "time": "2026-08-01 00:11:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump on Iran: We only want to win."
     }
   ]
 }
