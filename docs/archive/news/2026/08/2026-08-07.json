@@ -1,7 +1,87 @@
 {
   "date": "2026-08-07",
-  "count": 2221,
+  "count": 2229,
   "items": [
+    {
+      "id": "5031098",
+      "time": "2026-08-07 20:08:59",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通歐洲增長收益信託將以1.75960641億股新股，從員工持股信託購入價值2.61億英鎊的資產。"
+    },
+    {
+      "id": "mkt:019fdc1f-7d5a-7aab-8fb8-90eed978d90b",
+      "time": "2026-08-07 20:07:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Kyodo: Japan Defence Ministry will seek a record ¥8.9 tln budget for FY2027."
+    },
+    {
+      "id": "5031097",
+      "time": "2026-08-07 20:07:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【廣東省在澳門成功發行離岸人民幣地方政府債券25億元】8月6日，廣東省政府在澳門特別行政區成功發行25億元離岸人民幣地方政府債券，這是廣東省連續第6年安排地方政府債券在澳門本地簿記發行、登記託管並上市交易。本次發行受到澳門、香港、新加坡、馬來西亞、泰國、印度尼西亞、日本等多地的貨幣當局、商業銀行、投資銀行、資管機構的踴躍認購，投資人覆蓋範圍進一步擴大，認購熱情高漲，全場峰值訂單232億元，投標倍數高達9.3倍，重新整理澳門本地債券發行認購紀錄。（南方+）"
+    },
+    {
+      "id": "mkt:019fdc1f-1c12-7aab-8fb8-893525380cb5",
+      "time": "2026-08-07 20:07:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Guangdong issues 2.5 bln yuan offshore RMB local government bonds in Macau; orders 23.2 bln, bid-cover 9.3x】On Aug 6, Guangdong province issued 2.5 bln yuan of offshore RMB local government bonds in the Macau SAR via a local bookbuilding, registration, custody and listing — its sixth consecutive year placing bonds in Macau. The deal drew subscriptions from monetary authorities, commercial and investment banks and asset managers across Macau, Hong Kong, Singapore, Malaysia, Thailand, Indonesia and Japan. Peak orders totaled 23.2 bln yuan, implying a bid-cover ratio of 9.3x and setting a record for Macau local bond issuance subscriptions."
+    },
+    {
+      "id": "5031096",
+      "time": "2026-08-07 20:07:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富士康加緊招工應對iPhone新機產能爬坡，生產旺季料持續至年底】據中證金牛座，8月7日，記者獲悉，隨著iPhone新機量產，代工組裝廠商富士康正加緊招工應對產能爬坡，富士康部分廠區生產旺季預計持續至今年年底。7月下旬已有報道，蘋果iPhone 18系列已於7月量產，正處於產能爬坡階段。記者瞭解到，為保障iPhone新機量產進度，目前富士康正迎來招工高峰期。蘋果一般於每年9月釋出新一代iPhone手機，三季度是蘋果產業鏈公司趕工備貨、產能爬坡的高峰期。7月下旬，新華資產、長江資管、友邦保險等機構調研蘋果供應商領益智造。領益智造表示，公司在新機的單機價值量較上代機型有提升。目前各類專案推進順利，正按規劃推進量產爬坡及客戶交付，三季度正值交付旺季。"
+    },
+    {
+      "id": "5031095",
+      "time": "2026-08-07 20:06:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【以黎會談被迫結束 美方聲稱“進展積極”】據義大利安莎社7日報道，在義大利首都羅馬舉行、由美國斡旋的以色列和黎巴嫩安全談判6日被迫提前結束，而美國國務院聲稱“會談富有成效”。 本輪談判4日在美國駐義大利使館開始舉行，為期3天，重點討論兩國邊境安全安排以及落實6月底在美國華盛頓達成的框架協議，以黎雙方均派出技術代表團參加。報道說，由於黎巴嫩南部局勢升級，最後一日的會談被迫提前結束。 報道引用美國國務院發言人的話稱，此輪會談已結束，在技術和專家層面“富有成效”，雙方在推進和擴大“試點區域”撤軍行動程序所須採取措施上“更加接近達成一致”。 “試點區域”機制源於今年6月黎巴嫩、以色列和美國達成的三方協議。根據協議設想，以軍將從黎南部部分地區撤出，由黎巴嫩軍隊接管當地安全事務。 以軍近日繼續對黎南部發動空襲，稱此舉是回應兩名以軍士兵遇襲身亡事件，並將襲擊歸咎於黎巴嫩真主黨。以方表示，只有在得到伊朗支援的黎巴嫩真主黨解除武裝後，才會從相關地區撤軍。(新華社)"
+    },
+    {
+      "id": "te:economy:573784",
+      "time": "2026-08-07 20:06:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Auto Exports",
+        "Importance 1"
+      ],
+      "text": "Mexico Auto Exports Fall Again in July — Mexico's car exports fell 9.7% year-on-year to 261,534 units in July 2026, following a 9.2% decline in June. The decline reflected continued uncertainty in the auto sector as changing US trade policies clouded manufacturers' export plans. US President Trump in his second term imposed a series of tariffs on multiple countries, including Mexico. The Trump administration also decided not to renew the USMCA, the agreement will remain in force for another decade unless a member withdraws, but with annual reviews that could lead to significant changes. The US and Mexico also continue bilateral trade negotiations. Export volumes declined sharply for Mercedes (-97.7%), Nissan (-75.6%), Mazda (-35.4%), and Honda (-21.3%)."
+    },
+    {
+      "id": "5031094",
+      "time": "2026-08-07 20:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "UNIPOL執行長：若聯合聖保羅銀行修訂對錫耶納銀行(MPS)的收購要約，UNIPOL將為其已同意收購的MPS分支機構支付任何更高倍數溢價的一半，上限為35億歐元。"
+    },
     {
       "id": "5031093",
       "time": "2026-08-07 20:05:46",
