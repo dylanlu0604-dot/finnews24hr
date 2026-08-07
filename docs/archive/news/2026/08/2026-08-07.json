@@ -1,7 +1,48 @@
 {
   "date": "2026-08-07",
-  "count": 2734,
+  "count": 2738,
   "items": [
+    {
+      "id": "5031410",
+      "time": "2026-08-07 23:24:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "Celsius Holdings Inc.（CELH）漲幅迅速擴大至9.7%。"
+    },
+    {
+      "id": "mkt:019fdcd2-bc78-7aab-8fbd-8320e999f67e",
+      "time": "2026-08-07 23:23:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "PBR.N",
+        "Impact bullish"
+      ],
+      "text": "Petrobras CEO said Q2 oil production exceeded targets by 200,000 bpd."
+    },
+    {
+      "id": "5031409",
+      "time": "2026-08-07 23:22:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄駭客稱獲取北約直接參與襲擊俄領土證據】據俄羅斯方面7日訊息，有匿名俄羅斯駭客稱，已獲取北約直接參與襲擊俄領土的書面證據。相關內容涉及烏克蘭武裝部隊2026年7月襲擊俄列寧格勒州和加里寧格勒州石油碼頭的事件。該匿名駭客透露，其獲取的書面證據顯示，受僱於北約情報部門的專家巴特·德瓦赫特向烏克蘭國家安全域性提供了列寧格勒州和加里寧格勒州石油碼頭以及俄羅斯天然氣工業股份公司一艘液化天然氣運輸船的座標情報。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fdcd0-e68b-7aab-8fbd-791bb7bd1008",
+      "time": "2026-08-07 23:21:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TASS reported that a Ukrainian attack on Crimea killed two people."
+    },
     {
       "id": "mkt:019fdcd0-5b50-7aab-8fbd-737ba08f8f52",
       "time": "2026-08-07 23:21:10",
