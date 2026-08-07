@@ -1,7 +1,126 @@
 {
-  "updated": "2026-08-08 01:00:14",
-  "count": 15997,
+  "updated": "2026-08-08 01:04:09",
+  "count": 15999,
   "items": [
+    {
+      "id": "mkt:019fdd2d-f9c3-7aab-8fbe-f8d919aae499",
+      "time": "2026-08-08 01:03:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Houthi movement said Yemen’s armed forces struck Saudi forces massing and hit ammunition depots, vehicles and military equipment at the Saḥn al-Jinn camp."
+    },
+    {
+      "id": "5031456",
+      "time": "2026-08-08 01:02:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法律人工智慧初創企業 Harvey 正在洽談融資，擬至少募資 5 億美元，含本輪投資在內估值達 155 億美元。"
+    },
+    {
+      "id": "mkt:019fdd2c-7261-7aab-8fbe-f294b0983694",
+      "time": "2026-08-08 01:01:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US gas-directed rig count was 124 in the week to Aug. 7, down from 127 the prior week."
+    },
+    {
+      "id": "mkt:019fdd2c-5886-7aab-8fbe-ef66a4b2da62",
+      "time": "2026-08-08 01:01:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US total rig count for the week to Aug. 7: 588, unchanged from the previous week."
+    },
+    {
+      "id": "mkt:019fdd2c-5618-7aab-8fbe-e04d6bd4310f",
+      "time": "2026-08-08 01:01:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Aug.7) | actual 124 | previous 127"
+    },
+    {
+      "id": "mkt:019fdd2c-4497-7aab-8fbe-d8f41f0bf3c9",
+      "time": "2026-08-08 01:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. oil rig count rose to 454 in the week to Aug. 7 from 451 a week earlier."
+    },
+    {
+      "id": "mkt:019fdd2c-3c19-7aab-8fbe-d68c17f07ccf",
+      "time": "2026-08-08 01:01:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Aug.7) | actual 588 | previous 588"
+    },
+    {
+      "id": "mkt:019fdd2c-2765-7aab-8fbe-c99f2fba3bd4",
+      "time": "2026-08-08 01:01:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Aug.7) | actual 454 | previous 451"
+    },
+    {
+      "id": "5031455",
+      "time": "2026-08-08 01:01:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月7日當週總鑽井數 588，前值 588。\n美國8月7日當週天然氣鑽井數 124，前值 127。"
+    },
+    {
+      "id": "5031454",
+      "time": "2026-08-08 01:01:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月7日當週石油鑽井數 454，前值 451。"
+    },
+    {
+      "id": "mkt:019fdd2b-e05b-7aab-8fbe-c43486d218c9",
+      "time": "2026-08-08 01:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【US media: Trump moves to remove Fed Governor Cook, formally opens proceedings citing \"serious dereliction\"】ABC News reported sources say President Trump is pushing to remove Federal Reserve Governor Lisa Cook. The White House this week sent Cook a letter saying Trump is \"considering\" removing her and asked her to respond within three weeks. The move follows a June Supreme Court ruling that upheld limits on presidential removal of Fed members. After the ruling Trump said he would \"immediately take appropriate action\" to remove Cook; this week he formally opened removal proceedings, citing mortgage‑fraud allegations not yet tried in court and alleging \"serious dereliction.\" The letter was signed by White House deputy chief of staff Dan Scavino, who said even if the allegations do not amount to crimes her conduct constitutes dereliction. Cook's lawyer Lowell said the allegations are baseless and they will challenge this latest pretext."
+    },
+    {
+      "id": "5031453",
+      "time": "2026-08-08 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌1.11%，滬銅收跌0.80%，滬鋁收跌0.13%，滬鋅收跌1.54%，滬鉛收跌0.29%，滬鎳收漲0.52%，滬錫收跌1.51%。氧化鋁夜盤收跌0.04%，鋁合金收跌0.09%。不鏽鋼夜盤收漲0.21%。"
+    },
     {
       "id": "5031452",
       "time": "2026-08-08 00:58:16",
@@ -145713,107 +145832,6 @@
         "國際"
       ],
       "text": "市場訊息：美國電信運營商T-Mobil通報德國電信，該公司不支援潛在交易。"
-    },
-    {
-      "id": "mkt:019fb921-122a-7aab-8f3c-0d962f645d64",
-      "time": "2026-08-01 01:02:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Baker Hughes: U.S. energy firms added drilling rigs for the sixth time in seven weeks."
-    },
-    {
-      "id": "5019787",
-      "time": "2026-08-01 01:01:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨西哥恰帕斯州發生5.0級地震】7月31日，根據墨西哥國家地震監測局（SSN）的資訊，7月31日10時15分56秒，在墨西哥東南部的恰帕斯州的瑪帕斯特佩克市西南方向約165公里處發生5.0級地震，震源深度約10公里。墨西哥的地震預警系統沒有啟動，目前暫無人員傷亡和財產損失的報告。（央視）"
-    },
-    {
-      "id": "5019786",
-      "time": "2026-08-01 01:01:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX火箭殘骸即將撞月 可為月球撞擊研究提供樣本】一枚約5噸重的SpaceX火箭殘骸即將撞上月球。這枚火箭曾將兩臺月球著陸器送往月球，而本次撞擊並非計劃內操作。 追蹤天體軌道的“冥王星計劃”負責人Bill Gray開發了天體追蹤軟體，據其測算，這枚被遺棄的獵鷹9號火箭上面級，將於美國東部時間8月5日凌晨2點34分左右，以每小時5400英里的速度撞擊月球西側邊緣的愛因斯坦隕石坑附近。 2025年1月15日，SpaceX使用獵鷹9號火箭將螢火蟲航空的“藍幽靈1號”月球著陸器以及日本ispace公司的“韌性號”著陸器一同發射奔赴月球。“藍幽靈1號”於2025年3月2日順利月面軟著陸；而“韌性號”在著陸前90秒失聯，最終墜毀於月球表面。 研究人員介紹，本次任務結束後，獵鷹9號火箭上面級被遺棄在一條會穿越月球軌道的高地球軌道上，如今最終踏上了撞月軌跡。 新墨西哥州洛斯阿拉莫斯國家實驗室博士後研究員Fernando表示：“我們無法確定SpaceX對這次撞擊發生的知情程度。可以確定的是，由於該上面級承擔了月球載荷運送任務，最終被送入的軌道本身就存在撞月可能性。究竟是公司預判到風險卻未對外說明，還是根本沒有做軌道演算，這一點我們無從考證。”"
-    },
-    {
-      "id": "mkt:019fb91f-a80d-7aab-8f3c-03753cbe9989",
-      "time": "2026-08-01 01:01:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US total rig count stood at 588 in the week ended July 31, up from 587 the prior week."
-    },
-    {
-      "id": "mkt:019fb91f-7f4f-7aab-8f3b-f93503559875",
-      "time": "2026-08-01 01:01:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas rigs totaled 127 in the week to July 31, unchanged from the prior week."
-    },
-    {
-      "id": "mkt:019fb91f-7e3f-7aab-8f3b-f5627b9bcac1",
-      "time": "2026-08-01 01:01:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Jul.31) | actual 588 | previous 587"
-    },
-    {
-      "id": "mkt:019fb91f-6a98-7aab-8f3b-ee52e294ef53",
-      "time": "2026-08-01 01:01:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US oil rig count for the week to July 31 rose to 451 rigs from 450 the previous week."
-    },
-    {
-      "id": "mkt:019fb91f-64c2-7aab-8f3b-e6048ff9df8f",
-      "time": "2026-08-01 01:01:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.31) | actual 127 | previous 127"
-    },
-    {
-      "id": "mkt:019fb91f-483f-7aab-8f3b-dbb2b87f42ac",
-      "time": "2026-08-01 01:01:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Jul.31) | actual 451 | previous 450"
-    },
-    {
-      "id": "5019785",
-      "time": "2026-08-01 01:01:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至7月31日當週總鑽井總數 588口，前值587口。\n美國至7月31日當週石油鑽井總數 451口，前值450口。\n美國至7月31日當週天然氣鑽井總數 127口，前值127口。"
     }
   ]
 }
