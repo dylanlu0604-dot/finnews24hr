@@ -1,7 +1,43 @@
 {
   "date": "2026-08-07",
-  "count": 2721,
+  "count": 2725,
   "items": [
+    {
+      "id": "mkt:019fdcc8-def4-7aab-8fbd-6436d4c3d80f",
+      "time": "2026-08-07 23:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Commodity Futures Trading Commission (CFTC) warned prediction markets about risks posed by American-style odds."
+    },
+    {
+      "id": "5031403",
+      "time": "2026-08-07 23:10:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：過去一日內，俄羅斯武裝力量使用高精度武器及攻擊無人機打擊烏克蘭港口基礎設施與海軍艦艇。"
+    },
+    {
+      "id": "te:economy:573853",
+      "time": "2026-08-07 23:09:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Inflation Expectations Edge Down in July — US median inflation expectations for one year ahead edged down to 3.6% in July 2026 from 3.7% in June which was the highest since September 2023. Inflation expectations decreased for medical care (by 0.5 percentage point to 8.9%) and rent (by 2.4 percentage points to 5.9%) while remaining unchanged for food (at 5%) and median home price growth (at 3.2%). On the other hand, consumers expect prices to increase faster for gas (by 1.4 percentage points to 2.9%) and college education (by 0.1 percentage point to 5.8%). Meanwhile, inflation expectations remained unchanged at the three- and five-year-ahead horizons at 3.3% and 3%, respectively. Elsewhere, median one-year-ahead earnings growth expectations remained steady at 2.8% and household spending growth expectations slightly decreased by 0.1 percentage point to 4.9%. Unemployment expectations increased by 1.1 percentage points to 42.8%."
+    },
+    {
+      "id": "5031402",
+      "time": "2026-08-07 23:09:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海打擊兩艘貨船。"
+    },
     {
       "id": "mkt:019fdcc4-c4da-7aab-8fbd-5f7688fd6abc",
       "time": "2026-08-07 23:08:30",

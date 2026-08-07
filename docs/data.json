@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-07 23:09:38",
-  "count": 16065,
+  "updated": "2026-08-07 23:13:50",
+  "count": 16066,
   "items": [
+    {
+      "id": "mkt:019fdcc8-def4-7aab-8fbd-6436d4c3d80f",
+      "time": "2026-08-07 23:12:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Commodity Futures Trading Commission (CFTC) warned prediction markets about risks posed by American-style odds."
+    },
+    {
+      "id": "5031403",
+      "time": "2026-08-07 23:10:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：過去一日內，俄羅斯武裝力量使用高精度武器及攻擊無人機打擊烏克蘭港口基礎設施與海軍艦艇。"
+    },
+    {
+      "id": "te:economy:573853",
+      "time": "2026-08-07 23:09:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US Inflation Expectations Edge Down in July — US median inflation expectations for one year ahead edged down to 3.6% in July 2026 from 3.7% in June which was the highest since September 2023. Inflation expectations decreased for medical care (by 0.5 percentage point to 8.9%) and rent (by 2.4 percentage points to 5.9%) while remaining unchanged for food (at 5%) and median home price growth (at 3.2%). On the other hand, consumers expect prices to increase faster for gas (by 1.4 percentage points to 2.9%) and college education (by 0.1 percentage point to 5.8%). Meanwhile, inflation expectations remained unchanged at the three- and five-year-ahead horizons at 3.3% and 3%, respectively. Elsewhere, median one-year-ahead earnings growth expectations remained steady at 2.8% and household spending growth expectations slightly decreased by 0.1 percentage point to 4.9%. Unemployment expectations increased by 1.1 percentage points to 42.8%."
+    },
+    {
+      "id": "5031402",
+      "time": "2026-08-07 23:09:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在黑海打擊兩艘貨船。"
+    },
     {
       "id": "mkt:019fdcc4-c4da-7aab-8fbd-5f7688fd6abc",
       "time": "2026-08-07 23:08:30",
@@ -146472,34 +146508,6 @@
         "國際"
       ],
       "text": "美國能源資訊署（EIA）：5 月美國餾分燃料油供應量降至 2020 年 6 月以來最低水平。"
-    },
-    {
-      "id": "5019700",
-      "time": "2026-07-31 23:13:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）資料：5 月美國原油及石油產品總供應量降至 2025 年 3 月以來最低水平。"
-    },
-    {
-      "id": "5019699",
-      "time": "2026-07-31 23:12:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "利安德巴塞爾：預估有 600 萬噸聚乙烯產能遭遇損毀，該規模佔中東聚乙烯供應量的 20%–25%，受損產能 2027 年之前無法重啟。"
-    },
-    {
-      "id": "te:economy:571821",
-      "time": "2026-07-31 23:12:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Colombia Unemployment Rate Holds at 8% — Colombia's unemployment rate held steady at 8% in June 2026, unchanged from the previous month and slightly below market expectations of 8.1%. The unemployment rate stood at 9.9% for women and 6.6% for men, resulting in a gender gap of 3.3 percentage points. Across the country's 13 major metropolitan areas, the unemployment rate was 8.3%. The highest jobless rates were recorded in Quibdó (23.3%), Cartagena (13.2%), and Ibagué (12.8%), while Medellín Metropolitan Area (7.1%), Pereira Metropolitan Area (7.2%), and Villavicencio (7.9%) posted the lowest rates. The national employment rate stood at 59.4%. In the April-June 2026 period, the average unemployment rate was 8.3%."
     }
   ]
 }
