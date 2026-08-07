@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 01:52:03_
-_本檔包含 3222 則快訊，約 604289 字_
+_更新時間：2026-08-08 03:10:55_
+_本檔包含 3230 則快訊，約 605410 字_
+
+---
+
+### 2026-08-04 18:35:32  #公司
+
+【蜂助手：全資子公司簽署算力業務重大合同 總金額約76.7億元】蜂助手公告，全資子公司雅安雲智算力技術有限公司分別與A公司簽署算力伺服器採購協議，總金額30.62億元；與B公司簽署算力服務合同，總金額46.08億元。合同總金額約76.7億元。專案若能成功實施，預計年均淨利潤6000-7200萬元。合同尚需公司股東會審議透過後生效。
+
+---
+
+### 2026-08-04 18:35:00  #其他
+
+【鋼廠預計明日提降第三輪 長治市計劃新增復產1座煤礦】長治市沁源縣預計8月5日新增復產1座煤礦，核定產能120萬噸，涉及煤種為低硫瘦煤，復產後自用為主。該縣前期復產煤礦總共3座，合計核定產能450萬噸，其餘部分煤礦正在排隊等待驗收。需求方面，鋼材需求無明顯改善，近期仍有部分鋼廠公佈新增檢修安排，本週鐵水或繼續下滑，且焦炭價格仍有第三輪提降預期，下游焦煤採購依舊謹慎。綜合來看，短期煉焦煤價格預計維持下有支撐、上行乏力的震盪格局。 (Mysteel)
+
+---
+
+### 2026-08-04 18:34:54  #國際
+
+【報道：美國陸軍在與伊朗的衝突中“幾乎耗盡”了所有遠端精確導彈】路透援引知情人士報道，美國陸軍在與伊朗的衝突中“幾乎耗盡”了所有遠端導彈。美軍使用的導彈主要是地對地武器，即陸軍戰術導彈系統和精確打擊導彈。白宮就置評請求釋出了特朗普的宣告，稱美國擁有的軍火“比世界上任何國家都多很多”，而且“遠遠超過我們的需求”。五角大樓發言人表示，美軍“擁有在總統選擇的時間和地點執行任務所需的一切”。
+
+---
+
+### 2026-08-04 18:34:44  #公司
+
+【ST迪瑞：2026年上半年營收4.09億元 淨利潤扭虧為盈】ST迪瑞公告稱，2026年上半年營收4.09億元，同比增長16.49%；歸屬於上市公司股東的淨利潤759.69萬元，上年同期淨虧損2831.20萬元，同比增長126.83%；扣非淨利潤39.52萬元，上年同期淨虧損3190.86萬元，同比增長101.24%。經營活動產生的現金流量淨額為-1.14億元，同比下降1246.32%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-04 18:34:40  #其他
+
+【胡塞武裝稱襲擊沙特南部】最新訊息：葉門胡塞武裝今天（8月4日）在社交媒體平臺發宣告稱，“擊中沙烏地阿拉伯南部奈季蘭地區的一處目標”。目前這一訊息還未得到沙特方面證實。（CCTV國際時訊）
+
+---
+
+### 2026-08-04 18:34:24  #公司
+
+【ST迪瑞：股票被實施其他風險警示 或面臨退市風險】ST迪瑞公告稱，因2025年度被出具否定意見的內部控制審計報告，公司股票自2026年5月6日起被實施其他風險警示。若2026年度出現相同情形，將被實施退市風險警示。公司採取多項措施爭取撤銷其他風險警示，包括開展整改專項核查、修訂制度最佳化合同審批流程、組織內控培訓、推進資料庫操作日誌可審計性立項、採購部完成招標專案合規自查等。目前公司經營正常，將每月披露進展，直至情形消除。
+
+---
+
+### 2026-08-04 18:34:20  #其他
+
+卡特彼勒第二季度訂單積壓增至 721 億美元。
+
+---
+
+### 2026-08-04 18:34:06  #公司
+
+【江西省鐵路航空投資集團領導一行到訪中國通號】據中國通號訊息，8月4日，江西省鐵路航空投資集團黨委書記、董事長劉震華率隊到訪中國通號，與中國通號黨委副書記、總裁董寶良舉行工作座談。雙方立足服務交通強國建設大局，圍繞軌道交通和低空經濟開展深入交流，鞏固原有合作基礎，拓展新的產業合作空間。
+
+---
+
+### 2026-08-04 18:33:57  #其他
+
+【青島出海中心正式啟動】月3日上午，青島市商務局聯合市北區政府舉辦青島出海中心啟動儀式。當日，青島出海中心與首批6家合作企業完成入駐簽約，並迎來首批6家專業服務機構入駐。作為服務企業全球化發展的開放型賦能平臺，青島出海中心將圍繞企業出海過程中面臨的市場準入、合規運營、本地化營銷、品牌建設和跨境協同管理等多重挑戰，聯動政府部門、平臺機構、企業及微軟、藍色游標等生態夥伴，藉助微軟廣告的技術、平臺及開放生態資源，致力於打造成為山東省及沿黃經濟帶企業連結全球市場的重要樞紐與“一站式”出海賦能平臺。（青島日報）
+
+---
+
+### 2026-08-04 18:33:44  #公司
+
+卡特彼勒公司：預計2026財年銷售額及收入較2025財年將實現百分之十幾到接近20%的增長。
+
+---
+
+### 2026-08-04 18:33:21  #Trading Economics #Markets #Commodity #Importance 1
+
+Tin Rises to 2-Month High — Tin futures in the UK rose to $55,450 per tonne in August, the highest since June, benefiting from long positions in AI infrastructure and limited supply. Equities for chip producers and data center developers remained under pressure in the US and Korea, but Chinese investors maintained their bullish calls on the sector after CXMT's stellar IPO. The movements reflect long bets on datacenter development, an increasing source of tin demand due to its soldering utility. Industry players forecasting that tin demand in AI servers is due to triple by 2030. Meanwhile, supply from major producer Indonesia remained low as Jakarta pulled back on the issuance of export licenses. Exports out of the country totaled 3,000 tonnes in June, a 33% decline from the previous year. On top of that, Jakarta further tightened mining permits and seized 500 tonnes of metal from mines without licences.
+
+---
+
+### 2026-08-04 18:31:43  #MKT News
+
+【China launches 23 LEO satellites for satellite-internet constellation】On the 4th at 16:52, China launched 23 low-Earth-orbit satellites for a satellite-internet constellation using a Long March-8A rocket from the Hainan commercial space launch site; all satellites reached their planned orbit and the mission was successful.
+
+---
+
+### 2026-08-04 18:31:38  #其他
+
+【我國成功發射衛星網際網路低軌23組衛星】4日16時52分，我國在海南商業航天發射場使用長征八號甲運載火箭，成功將衛星網際網路低軌23組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（新華社）
+
+---
+
+### 2026-08-04 18:31:37  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Duke Energy earnings above expectations at 1.43 USD — Duke Energy (DUK) released earnings per share at 1.43 USD, compared to market expectations of 1.32 USD.
+
+---
+
+### 2026-08-04 18:31:07  #公司 #市場
+
+卡特彼勒股價上漲5.8%，此前該公司公佈第二季度營收超出預期。
+
+---
+
+### 2026-08-04 18:31:00  #其他
+
+卡特彼勒第二季度調整後每股收益 8.17 美元，預計 6.17 美元。
+
+---
+
+### 2026-08-04 18:30:25  #公司
+
+【機構： 截止到2026年6月全網月活躍使用者規模達到12.82億】QuestMobile資料顯示，截止到2026年6月，全網月活躍使用者規模達到12.82億，同比增長1.2%；同時，使用者黏性持續增長，全網使用者月人均使用時長及次數分別為189.3小時和2691次，同比分別增長了7.4%、3.1%。這當中，45歲以上使用者佔比達到39.5%，三線、四線使用者比例佔比達到41.5%，同比分別增長了2.4%和0.7%，成為使用者結構性變化的關鍵因素。2026年6月，騰訊控股、阿里巴巴、抖音集團企業去重流量分別為12.81億、12.65億、12.59億，穩居第一陣營；百度集團、京東、螞蟻集團、拼多多、美團企業去重流量分別為11.01億、10.66億、9.55億、8.92億、8.51億，構成了第二陣營。
+
+---
+
+### 2026-08-04 18:30:18  #公司
+
+市場訊息：默克公司預計本財年銷售額為663億美元至673億美元，此前預測為658億美元至670億美元。
+
+---
+
+### 2026-08-04 18:30:15  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.40% Lower — The SENSEX Index decreased 314 points or 0.40 percent on Tuesday to close at 78325 points. The decline was led by Hindustan Unilever (-2.67%), Nestle India (-2.61%) and NTPC (-2.55%). On the upside, the strongest performers were Eternal Limited (0.34%).
+
+---
+
+### 2026-08-04 18:30:05  #國際
+
+市場訊息：全球基金在交易日前淨買入價值143億盧比的印度股票。
+
+---
+
+### 2026-08-04 18:29:40  #公司
+
+【神州泰嶽：截至7月底累計斥資1.25億元回購股份】神州泰嶽公告稱，公司於2026年6月26日透過以集中競價方式回購部分A股的議案，回購資金3-6億元，價格不超12元/股，期限3個月。截至7月31日，已累計回購1588.43萬股，佔總股本0.81%，最高成交價8.33元/股，最低7.62元/股，支付總金額12486.70萬元（不含交易費）。公司後續將繼續實施回購計劃並依規披露。
+
+---
+
+### 2026-08-04 18:29:35  #公司
+
+【青木科技：截至8月3日累計斥資1514.95萬元回購股份】青木科技公告稱，公司7月8日擬以2000萬-3000萬元自有資金回購股份用於員工持股或股權激勵，回購價不超62元/股，實施期限不超6個月。截至8月3日，已累計回購股份44.18萬股，佔總股本的0.34%，成交價33.20-35.70元/股，支付資金1514.95萬元（不含交易費用）。公司後續將按計劃繼續實施回購，並及時披露資訊。
+
+---
+
+### 2026-08-04 18:29:31  #公司
+
+【寶萊特：籌劃控制權變更事項 股票及可轉債繼續停牌】寶萊特公告稱，公司控股股東正籌劃控制權變更事項，股票（證券簡稱：寶萊特，證券程式碼：300246）和可轉換公司債券（債券簡稱：寶萊轉債，債券程式碼：123065）自2026年8月3日開市起停牌，預計無法在8月5日開市起復牌。經申請，自8月5日開市起繼續停牌，預計不超3個交易日，寶萊轉債將暫停轉股。公司將按規定履行資訊披露義務，待事項確定後申請復牌。
+
+---
+
+### 2026-08-04 18:29:23  #公司
+
+【迪普科技：2026年上半年營收5.37億元 淨利潤同比增38.86%】迪普科技公告稱，2026年上半年，公司實現營業收入5.37億元，同比下降2.52%；歸屬於上市公司股東的淨利潤7241.33萬元，同比增長38.86%；扣除非經常性損益的淨利潤6243.98萬元，同比增長43.59%。經營活動產生的現金流量淨額-5751.49萬元，同比增加40.84%。報告期內，控股股東、實際控制人均未發生變更，公司也無利潤分配、優先股及債券相關情況。
+
+---
+
+### 2026-08-04 18:29:06  #公司
+
+【希臘警方逮捕兩名與引發山火有關的嫌疑人】當地時間8月4日，希臘警方逮捕了一家建築公司的負責人和該公司的一名電氣工程師，這兩人在從事建築專案施工時在工地和一家風力發電廠之間搭建了輸電線路，警方懷疑這可能是引發這次阿提卡半島西部山火的原因。近日，希臘多地燃起山火。8月1日，其中一場山火藉助強風蔓延至首都雅典西北方向，情況危急。希臘消防部門表示，已向這處火場派遣超過300名消防員、92輛消防車、18架飛機和7架直升機進行滅火工作。（央視新聞）
+
+---
+
+### 2026-08-04 18:28:05  #公司 #市場
+
+【恆銀科技：連續三個交易日收盤價累計漲幅達33.14%】恆銀科技公告，公司股票於2026年7月31日、8月3日連續兩個交易日收盤價格漲幅偏離值累計超過20%，8月4日再次漲停。自7月31日至8月4日連續三個交易日收盤價格累計漲幅達33.14%，同行業同期累計漲幅為8.34%。截至8月4日收盤，公司股票收盤價為9.04元/股，靜態市盈率約137.29，高於行業靜態市盈率66.38。2026年第一季度公司實現營業收入5664.5萬元，同比下滑39.76%；歸屬於上市公司股東的淨利潤284.61萬元，同比下滑46.78%。
+
+---
+
+### 2026-08-04 18:27:43  #公司 #市場
+
+【仕佳光子：股價異常波動 2026 年上半年營收增 50.66%】仕佳光子公告稱，公司股票在 2026 年 7 月 31 日、8 月 3 日、8 月 4 日收盤價格漲幅偏離值累計超 30%，屬異常波動。公司目前生產經營正常，無應披露未披露重大事項。2026 年半年度，公司營收 149,549.08 萬元，同比增長 50.66%；淨利潤 31,478.47 萬元，同比增長 45.30%。公司提醒投資者注意經營業績和股價波動風險。
+
+---
+
+### 2026-08-04 18:27:19  #其他
+
+【法國創有記錄以來最熱7月 土壤乾旱程度達歷史同期最高】當地時間8月4日，法國氣象局釋出資料顯示，2026年7月法國平均氣溫達到24.9攝氏度，為1900年有氣象記錄以來最熱的7月，也是法國有氣象記錄以來最熱的月份。7月全國平均氣溫較常年同期偏高3.8攝氏度，其中最高氣溫較常年同期偏高5.2攝氏度。法國氣象局同時表示，受持續高溫和降雨偏少影響，7月降雨量較常年同期減少近70%，成為有記錄以來降雨量第三少的7月。受此影響，截至7月底，全國平均土壤乾旱程度達到歷史同期最高水平，與2022年8月中旬極端乾旱時期相當。氣象局表示，持續高溫和乾旱已對農業造成明顯影響，並增加了森林火災發生風險。（央視新聞）
+
+---
+
+### 2026-08-04 18:26:18  #Trading Economics #Economy #Latvia #Industrial Production #Importance 1
+
+Latvia Industrial Output Hits Over 1-Year Low — Latvia’s industrial production increased 0.5% year-on-year in June 2026, slowing from a revised 5.9% rise in the previous month and marking the weakest growth since March 2025. Output growth moderated in manufacturing (5.0% vs. 7.2% in May), weighed down by smaller gains in food products (5.7% vs. 8.3%) and declines in wearing apparel (-16.8% vs. 25.8%), leather and related products (-11.8% vs. 3.8%), and paper and paper products (-7.9% vs. 6.9%). Production also dropped sharply for electricity, gas, steam, and air conditioning supply (-29.8% vs. 7.1%). Conversely, activity accelerated in mining and quarrying (13.8% vs. 2.2%). On a monthly basis, industrial production fell 0.8% in June, reversing from a revised 0.3% increase in May. In the second quarter of 2026, industrial production rose 4.2% compared with the same period a year earlier.
+
+---
+
+### 2026-08-04 18:25:28  #其他
+
+【全球最小GPU晶片透過實測 約24萬個電晶體】報道稱全球最小GPU晶片TinyGPU v2.0透過實機測試。開發者蓬薩貢 · 維奇特在X平臺釋出推文，宣佈ASIC TinyGPU v2.0 已經成功執行。TinyGPU v2.0屬於Tiny Tapeout SKY 25b流片專案，擁有約24萬個電晶體，具備4-bit雙緩衝，以及儲存在QSPI RAM（四線序列外設介面隨機存取儲存器）中的8-bit深度緩衝。
+
+---
+
+### 2026-08-04 18:25:26  #Trading Economics #Markets #Commodity #Importance 1
+
+Sugar Futures at Near 1-Month High — Sugar prices rose to around 15.1 cents per pound, their highest in nearly a month, supported by higher oil prices, new uncertainties about weather conditions in India and projections of a global deficit for the 2026/27 crop. Despite improving rainfall in the world's second-largest producer, where the deficit narrowed from 42% at the end of June to 12% below average by August 3, traders remain focused on precipitation during the crucial June-to-September crop development period. India's Meteorological Department said on July 31 that monsoon rainfall in August and September is likely to remain below average. The outlook for the global balance sheet is also continuing to support prices. On August 3rd, Covrig Analytics shifted its 2026/27 outlook to a 300,000-ton deficit from the 100,000-ton surplus projected in June, echoing recent revisions by Green Pool and StoneX, which also raised their global deficit forecasts. El Niño remains an additional threat to global sugar supplies.
+
+---
+
+### 2026-08-04 18:25:11  #MKT News
+
+Qatar's foreign ministry spokesman said the priority now is to resume negotiations.
+
+---
+
+### 2026-08-04 18:25:06  #公司
+
+【衛生巾疑現蟲卵涉事公司曾被罰】據媒體報道，近日，有女子購買消毒級衛生巾後疑從中發現蟲卵，據悉，該品牌衛生巾由桂林潔伶工業有限公司生產，相關話題引發熱議。天眼查App顯示，桂林潔伶工業有限公司成立於1999年9月，法定代表人為陳百城。歷史資訊顯示，該公司存在多條被執行人、行政處罰資訊。
 
 ---
 
@@ -19255,155 +19453,5 @@ UK final July manufacturing PMI due in ten minutes.
 ### 2026-08-03 16:19:58  #公司
 
 【廣州港：2026年7月集裝箱吞吐量233.7萬標準箱，同比增長1.0%】廣州港公告，2026年7月預計完成集裝箱吞吐量233.7萬標準箱，同比增長1.0%；預計完成貨物吞吐量5074萬噸，同比增長3.0%。2026年1-7月，公司預計完成集裝箱吞吐量1626萬標準箱，同比增長3.5%；預計完成貨物吞吐量3.45億噸，同比增長2.6%。
-
----
-
-### 2026-08-03 16:19:47  #其他
-
-【ChinaJoy展期四天參觀人次43.89萬 帶動餐飲零售等消費約7.09億元】8月3日，第23屆中國國際數碼互動娛樂展覽會(ChinaJoy)結束。本屆展會四天展期整體參觀人次達43.89萬，同比增長6.97%。據主辦方與大資料綜合測算，ChinaJoy核心參與人群帶動餐飲、零售、住宿、交通及其他服務消費約7.09億元。
-
----
-
-### 2026-08-03 16:19:30  #公司
-
-【復星醫藥：控股子公司藥品複方聚乙二醇(3350)電解質散獲註冊批准】復星醫藥公告稱，近日，其控股子公司蘇州二葉製藥有限公司的複方聚乙二醇(3350)電解質散藥品註冊申請獲國家藥監局批准。該藥品獲批用於1 - 11歲兒童慢性便秘及5 - 11歲兒童糞便嵌塞治療。截至2026年6月，集團針對該藥品累計研發投入約262萬元。
-
----
-
-### 2026-08-03 16:19:26  #公司
-
-【復星醫藥：控股子公司恩格列淨二甲雙胍緩釋片(III)獲註冊批准】復星醫藥公告稱，近日，其控股子公司復星萬邦（江蘇）醫藥集團有限公司的恩格列淨二甲雙胍緩釋片(III)藥品註冊申請獲國家藥監局批准，獲批適應症為改善正在接受恩格列淨和鹽酸二甲雙胍治療的2型糖尿病成人患者血糖控制。截至2026年6月，該集團針對該藥品累計研發投入約1792萬元。2025年，二甲雙胍恩格列淨片於中國境內銷售額約為6.74億元。該藥品獲批將豐富集團產品線，但銷售情況有不確定性。
-
----
-
-### 2026-08-03 16:19:07  #MKT News
-
-【Iran says in talks with Oman on new Strait of Hormuz shipping route】Iran foreign ministry spokesman Baghaei said Tehran has been discussing with Oman the opening of a new Strait of Hormuz shipping route, describing it as a single corridor with separate inbound and outbound channels. He added Iran is not in dialogue with the United States and is instead discussing Hormuz issues with Oman.
-
----
-
-### 2026-08-03 16:18:56  #公司 #市場
-
-【上海期貨交易所釋出《上海期貨交易所石油瀝青註冊商品管理規定》】8月3日，上海期貨交易所釋出關於釋出《上海期貨交易所石油瀝青註冊商品管理規定》（2026年8月修訂版）的公告。為保障上海期貨交易所石油瀝青期貨平穩執行，加強對期貨交割商品的管理，維護期貨交易各方的合法權益，根據《上海期貨交易所交易規則》及有關規定，我所對《上海期貨交易所石油瀝青註冊商品管理規定》（2016年10月修訂版）進行了修訂。本規定自發布之日起實施。《上海期貨交易所石油瀝青註冊商品管理規定》（2016年10月修訂版）同時廢止。
-
----
-
-### 2026-08-03 16:18:03  #其他
-
-【上海交通執法開出首批網約車平臺集中處罰決定書】記者從上海市交通委員會執法總隊獲悉，為縱深推進本市網約車協同監管專項整治第4階段工作，壓實網約車平臺安全生產主體責任，深化行業源頭治理，持續鞏固“大檢查、大整治、大約談”專項治理成效，8月3日下午，市交通管理部門集中約談全市12家網約車平臺，同步下達首批網約車平臺集中行政處罰決定書，集中處罰總額超過2500萬元。據介紹，自今年7月14日起，市交通委執法總隊成立網約車平臺整治專案組，全面啟動平臺違法違規行為追溯查處工作。本次首批處罰案件以2026年6月1日至6月30日立案的非法客運案件為核查基礎，以當事人完成處罰履行為篩選條件，共排查鎖定479輛不合規運營車輛，涉案平臺涵蓋滴滴、享道、曹操、T3等12家在滬經營的網約車平臺。（澎湃新聞）
-
----
-
-### 2026-08-03 16:17:30  #公司
-
-【同心傳動：2026年上半年淨利潤1416.97萬元，同比下降0.48%】同心傳動公告，2026年上半年營業收入7219.83萬元，同比下降11.59%。歸屬於上市公司股東的淨利潤1416.97萬元，上年同期淨利潤1423.85萬元。歸屬於上市公司股東的扣除非經常性損益後的淨利潤1231.77萬元，同比下降2.12%。
-
----
-
-### 2026-08-03 16:17:17  #Trading Economics #Markets #Japan #Earnings #Importance 0
-
-Mitsubishi earnings above expectations at 81.53 JPY — Mitsubishi (8058) released earnings per share at 81.53 JPY, compared to market expectations of 59.14 JPY.
-
----
-
-### 2026-08-03 16:16:56  #Trading Economics #Economy #Thailand #Business Confidence #Importance 1
-
-Thailand Business Morale at 4-Month High — Thailand’s Business Sentiment Index rose to 46.7 in July 2026 from 46.1 in June, the highest reading in four months.The improvement was driven mainly by stronger sentiment in the non-manufacturing sector, supported by lower fuel costs and increased flight services, while gains were partly offset by weaker confidence in manufacturing amid concerns over US import tariffs. Sentiment improved for business performance (50.0 vs 49.3) and investment (51.2 vs 50.7), while expectations for production (48.6 vs 51.9), employment (48.9 vs 50.2), and total order books (47.5 vs 48.1) turned less optimistic. Meanwhile, manufacturing confidence weakened, led by lower order books in the home electrical appliance industry. High production costs remained the top business constraint for the fifth straight month, while inflation expectations for the next 12 months eased slightly to 2.6%. Moreover, the three-month expected Business Sentiment Index rose to 50.7 from 48.0.
-
----
-
-### 2026-08-03 16:16:50  #國際
-
-路透社調查預測：馬來西亞7月棕櫚油出口量為138萬噸，較6月增長14.8%。
-
----
-
-### 2026-08-03 16:16:46  #國際
-
-路透調查：馬來西亞7月毛棕櫚油產量預估為176萬噸，較6月增長7.4%。
-
----
-
-### 2026-08-03 16:16:33  #其他
-
-羅馬尼亞計劃改道多瑙河水流，以避免核反應堆停運。
-
----
-
-### 2026-08-03 16:16:23  #公司
-
-【紐威股份：控股股東陸斌減持觸及1%刻度，合計持股比例降至61.00%】紐威股份公告，控股股東陸斌於2026年6月1日至2026年8月3日期間，透過集中競價方式累計減持公司558.5萬股A股股票，佔公司當前總股本的0.72%。本次權益變動後，陸斌及其一致行動人合計持有公司股份比例由61.72%減少至61.00%，權益變動觸及1%刻度。
-
----
-
-### 2026-08-03 16:15:59  #公司
-
-【2026年北京國管半年工作會召開】據“北京國管”公眾號訊息，7月31日，2026年北京國有資本運營管理有限公司半年工作會召開。會議強調，下半年要聚焦核心任務精準發力，確保各項部署落地見效。要不折不扣落實上級各項工作要求，持續最佳化八隻市級政府投資基金全流程管理，把成熟有效的管理經驗向全系統基金投資業務推廣，補強研究、投後、風控、退出、募資五大能力；高標準推進“轉在北京”科技成果轉化服務體系建設，發揮資本運營與市場化機制優勢，打通科技創新與產業創新融合鏈路，紮紮實實把這件難而正確的事做深做實；系統謀劃新一輪國企改革任務，以改革破解機制堵點、積蓄髮展動能。
-
----
-
-### 2026-08-03 16:15:44  #MKT News
-
-【Yantai maritime bureau issues navigation warning for Yellow Sea rocket launches】Yantai Maritime Safety Bureau posted a navigation warning saying parts of the Yellow Sea will be closed to vessels for rocket launches from Aug 3 14:00 to Aug 5 12:00. A separate exclusion for falling rocket debris is in effect Aug 5 09:10–11:10. Ships are prohibited from entering the designated areas.
-
----
-
-### 2026-08-03 16:15:26  #國際
-
-俄羅斯克拉斯諾達爾地區州長表示，無人機殘骸墜落已造成3人死亡、13人受傷。
-
----
-
-### 2026-08-03 16:15:17  #MKT News
-
-【CNIPA deputy director Zhang Zhicheng meets AmCham China president】China National Intellectual Property Administration (CNIPA) deputy director Zhang Zhicheng met AmCham China president He Maike and member-company representatives in Beijing. Zhang said CNIPA has been enforcing equal IP protection for domestic and foreign firms, and is open to industry feedback to identify foreign companies’ IP needs and implement targeted measures. He Maike said IP protection in China has improved, creating a more supportive environment for foreign investors; AmCham China will continue dialogue with CNIPA and encourage member investment in China.
-
----
-
-### 2026-08-03 16:15:12  #國際
-
-烏克蘭方面訊息：“烏克蘭國防部情報總局（HUR）通報，克里米亞一套‘起飛’雷達系統以及‘密碼 - 4’識別系統遭到損毀。”
-
----
-
-### 2026-08-03 16:14:48  #其他
-
-【航行警告 黃海海域有火箭發射】據中國海事局網站訊息，煙臺海事局釋出航行警告，8月3日14時至5日12時，黃海部分海域進行火箭發射，禁止船舶駛入。自8月5日9時10分至11時10分，火箭殘骸落於黃海部分海域，禁止船舶駛入。
-
----
-
-### 2026-08-03 16:14:33  #其他
-
-三菱電機：位於熊本縣的半導體工廠在地震後，計劃於8月底前恢復生產。
-
----
-
-### 2026-08-03 16:14:25  #公司
-
-【久遠銀海：獲得“一種基於資料集特徵的水印自適應嵌入方法”發明專利】久遠銀海公告稱，公司近日取得國家智慧財產權局頒發的發明專利證書，發明名稱為“一種基於資料集特徵的水印自適應嵌入方法”，專利號為ZL 2026 1 0757139.3，申請日為2026年5月29日，授權公告日為2026年7月31日。該專利用於資料要素流通和可信資料空間領域，不會對目前生產經營產生重大影響，但利於完善智慧財產權保護體系，增強核心競爭力。
-
----
-
-### 2026-08-03 16:14:06  #Trading Economics #Economy #Switzerland #Manufacturing PMI #Importance 1
-
-Swiss Factory Activity Hits 5-Month Low — Switzerland’s procure.ch–UBS Manufacturing PMI fell to 53.2 in July 2026 from 54.3 in the previous month, falling short of market expectations of 55. The reading marked the weakest level since February, as growth momentum softened across key components, with production expansion slowing to 54.2 from 57.0 in June and order books edging down to 53.2 from 53.5. Purchasing activity also weakened, with purchasing volumes falling into contraction territory at 48.1 from 50.9 and purchasing inventories declining to 47.5 from 50.4. Moreover, sales stocks (46.8 vs 48.1) and employment (47.7 vs 48.9) continued to deteriorate. Supplier delivery times lengthened further (62.9 vs 60.9), indicating rising delivery delays. On the price front, cost pressures intensified, with the index jumping to 74.2 in July, from 72.8 in the previous month.
-
----
-
-### 2026-08-03 16:13:58  #國際
-
-【國家智慧財產權局副局長張志成會見中國美國商會會長一行】近日，中國國家智慧財產權局副局長張志成在京會見來訪的中國美國商會會長何邁可和會員企業代表。張志成表示，近年來，中國依法嚴格保護國內外企業智慧財產權，做到一視同仁、同等保護，努力為各國企業和創新主體營造公平競爭的發展環境。中國國家智慧財產權局願意傾聽業界聲音，瞭解外資企業在智慧財產權方面的需求，有針對性地做好相關工作。何邁可表示，近年來，中國智慧財產權保護取得長足進展，為外資企業發展提供了良好環境。中國美國商會希望與中國國家智慧財產權局繼續保持溝通並將持續鼓勵會員企業堅定信心，投資中國。
-
----
-
-### 2026-08-03 16:13:39  #公司
-
-【黃河旋風：持股5%以上股東一致行動人600萬股將被司法拍賣】黃河旋風公告稱，公司持股5%以上股東一致行動人喬秋生因金融借款合同糾紛，其持有的600萬股無限售流通股（佔公司總股本0.42%）將被司法拍賣。拍賣時間為2026年8月29日10時起至8月30日10時止，起拍價5635.2萬元，保證金563萬元，加價幅度1萬元。本次司法拍賣不會導致公司控制權變更，對日常經營無重大影響，結果存在不確定性。
-
----
-
-### 2026-08-03 16:13:29  #MKT News #Star Stocks #Alibaba #Tencent #Hang Seng Index #Impact bullish #09988.HK #02513.HK #Impact bearish
-
-【Hong Kong close: Hang Seng up 0.48%; Alibaba rallies over 7%】The Hang Seng Index closed up 0.48%; the Hang Seng Tech Index also finished higher. Market turnover was HKD 255.18 bln. Tech names were mixed: MiniMax (00100.HK) and Alibaba (09988.HK) led gains, each up more than 7%; Baidu (09888.HK), Tencent Holdings (00700.HK) and Kuaishou (01024.HK) rose over 3%. Zhipu (02513.HK) fell 4.81%; XPeng (09868.HK) and Li Auto (02015.HK) declined about 3%. Memory-related stocks underperformed: Southern 2x long SK hynix (07709) fell over 16%, Southern 2x long Samsung Electronics (07747) slid nearly 14%; Montage Technology (06809.HK) and GigaDevice (03986.HK) each dropped more than 7%.
 
 ---

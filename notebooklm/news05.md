@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 01:52:03_
-_本檔包含 2919 則快訊，約 604079 字_
+_更新時間：2026-08-08 03:10:55_
+_本檔包含 2895 則快訊，約 605777 字_
+
+---
+
+### 2026-08-03 16:19:47  #其他
+
+【ChinaJoy展期四天參觀人次43.89萬 帶動餐飲零售等消費約7.09億元】8月3日，第23屆中國國際數碼互動娛樂展覽會(ChinaJoy)結束。本屆展會四天展期整體參觀人次達43.89萬，同比增長6.97%。據主辦方與大資料綜合測算，ChinaJoy核心參與人群帶動餐飲、零售、住宿、交通及其他服務消費約7.09億元。
+
+---
+
+### 2026-08-03 16:19:30  #公司
+
+【復星醫藥：控股子公司藥品複方聚乙二醇(3350)電解質散獲註冊批准】復星醫藥公告稱，近日，其控股子公司蘇州二葉製藥有限公司的複方聚乙二醇(3350)電解質散藥品註冊申請獲國家藥監局批准。該藥品獲批用於1 - 11歲兒童慢性便秘及5 - 11歲兒童糞便嵌塞治療。截至2026年6月，集團針對該藥品累計研發投入約262萬元。
+
+---
+
+### 2026-08-03 16:19:26  #公司
+
+【復星醫藥：控股子公司恩格列淨二甲雙胍緩釋片(III)獲註冊批准】復星醫藥公告稱，近日，其控股子公司復星萬邦（江蘇）醫藥集團有限公司的恩格列淨二甲雙胍緩釋片(III)藥品註冊申請獲國家藥監局批准，獲批適應症為改善正在接受恩格列淨和鹽酸二甲雙胍治療的2型糖尿病成人患者血糖控制。截至2026年6月，該集團針對該藥品累計研發投入約1792萬元。2025年，二甲雙胍恩格列淨片於中國境內銷售額約為6.74億元。該藥品獲批將豐富集團產品線，但銷售情況有不確定性。
+
+---
+
+### 2026-08-03 16:19:07  #MKT News
+
+【Iran says in talks with Oman on new Strait of Hormuz shipping route】Iran foreign ministry spokesman Baghaei said Tehran has been discussing with Oman the opening of a new Strait of Hormuz shipping route, describing it as a single corridor with separate inbound and outbound channels. He added Iran is not in dialogue with the United States and is instead discussing Hormuz issues with Oman.
+
+---
+
+### 2026-08-03 16:18:56  #公司 #市場
+
+【上海期貨交易所釋出《上海期貨交易所石油瀝青註冊商品管理規定》】8月3日，上海期貨交易所釋出關於釋出《上海期貨交易所石油瀝青註冊商品管理規定》（2026年8月修訂版）的公告。為保障上海期貨交易所石油瀝青期貨平穩執行，加強對期貨交割商品的管理，維護期貨交易各方的合法權益，根據《上海期貨交易所交易規則》及有關規定，我所對《上海期貨交易所石油瀝青註冊商品管理規定》（2016年10月修訂版）進行了修訂。本規定自發布之日起實施。《上海期貨交易所石油瀝青註冊商品管理規定》（2016年10月修訂版）同時廢止。
+
+---
+
+### 2026-08-03 16:18:03  #其他
+
+【上海交通執法開出首批網約車平臺集中處罰決定書】記者從上海市交通委員會執法總隊獲悉，為縱深推進本市網約車協同監管專項整治第4階段工作，壓實網約車平臺安全生產主體責任，深化行業源頭治理，持續鞏固“大檢查、大整治、大約談”專項治理成效，8月3日下午，市交通管理部門集中約談全市12家網約車平臺，同步下達首批網約車平臺集中行政處罰決定書，集中處罰總額超過2500萬元。據介紹，自今年7月14日起，市交通委執法總隊成立網約車平臺整治專案組，全面啟動平臺違法違規行為追溯查處工作。本次首批處罰案件以2026年6月1日至6月30日立案的非法客運案件為核查基礎，以當事人完成處罰履行為篩選條件，共排查鎖定479輛不合規運營車輛，涉案平臺涵蓋滴滴、享道、曹操、T3等12家在滬經營的網約車平臺。（澎湃新聞）
+
+---
+
+### 2026-08-03 16:17:30  #公司
+
+【同心傳動：2026年上半年淨利潤1416.97萬元，同比下降0.48%】同心傳動公告，2026年上半年營業收入7219.83萬元，同比下降11.59%。歸屬於上市公司股東的淨利潤1416.97萬元，上年同期淨利潤1423.85萬元。歸屬於上市公司股東的扣除非經常性損益後的淨利潤1231.77萬元，同比下降2.12%。
+
+---
+
+### 2026-08-03 16:17:17  #Trading Economics #Markets #Japan #Earnings #Importance 0
+
+Mitsubishi earnings above expectations at 81.53 JPY — Mitsubishi (8058) released earnings per share at 81.53 JPY, compared to market expectations of 59.14 JPY.
+
+---
+
+### 2026-08-03 16:16:56  #Trading Economics #Economy #Thailand #Business Confidence #Importance 1
+
+Thailand Business Morale at 4-Month High — Thailand’s Business Sentiment Index rose to 46.7 in July 2026 from 46.1 in June, the highest reading in four months.The improvement was driven mainly by stronger sentiment in the non-manufacturing sector, supported by lower fuel costs and increased flight services, while gains were partly offset by weaker confidence in manufacturing amid concerns over US import tariffs. Sentiment improved for business performance (50.0 vs 49.3) and investment (51.2 vs 50.7), while expectations for production (48.6 vs 51.9), employment (48.9 vs 50.2), and total order books (47.5 vs 48.1) turned less optimistic. Meanwhile, manufacturing confidence weakened, led by lower order books in the home electrical appliance industry. High production costs remained the top business constraint for the fifth straight month, while inflation expectations for the next 12 months eased slightly to 2.6%. Moreover, the three-month expected Business Sentiment Index rose to 50.7 from 48.0.
+
+---
+
+### 2026-08-03 16:16:50  #國際
+
+路透社調查預測：馬來西亞7月棕櫚油出口量為138萬噸，較6月增長14.8%。
+
+---
+
+### 2026-08-03 16:16:46  #國際
+
+路透調查：馬來西亞7月毛棕櫚油產量預估為176萬噸，較6月增長7.4%。
+
+---
+
+### 2026-08-03 16:16:33  #其他
+
+羅馬尼亞計劃改道多瑙河水流，以避免核反應堆停運。
+
+---
+
+### 2026-08-03 16:16:23  #公司
+
+【紐威股份：控股股東陸斌減持觸及1%刻度，合計持股比例降至61.00%】紐威股份公告，控股股東陸斌於2026年6月1日至2026年8月3日期間，透過集中競價方式累計減持公司558.5萬股A股股票，佔公司當前總股本的0.72%。本次權益變動後，陸斌及其一致行動人合計持有公司股份比例由61.72%減少至61.00%，權益變動觸及1%刻度。
+
+---
+
+### 2026-08-03 16:15:59  #公司
+
+【2026年北京國管半年工作會召開】據“北京國管”公眾號訊息，7月31日，2026年北京國有資本運營管理有限公司半年工作會召開。會議強調，下半年要聚焦核心任務精準發力，確保各項部署落地見效。要不折不扣落實上級各項工作要求，持續最佳化八隻市級政府投資基金全流程管理，把成熟有效的管理經驗向全系統基金投資業務推廣，補強研究、投後、風控、退出、募資五大能力；高標準推進“轉在北京”科技成果轉化服務體系建設，發揮資本運營與市場化機制優勢，打通科技創新與產業創新融合鏈路，紮紮實實把這件難而正確的事做深做實；系統謀劃新一輪國企改革任務，以改革破解機制堵點、積蓄髮展動能。
+
+---
+
+### 2026-08-03 16:15:44  #MKT News
+
+【Yantai maritime bureau issues navigation warning for Yellow Sea rocket launches】Yantai Maritime Safety Bureau posted a navigation warning saying parts of the Yellow Sea will be closed to vessels for rocket launches from Aug 3 14:00 to Aug 5 12:00. A separate exclusion for falling rocket debris is in effect Aug 5 09:10–11:10. Ships are prohibited from entering the designated areas.
+
+---
+
+### 2026-08-03 16:15:26  #國際
+
+俄羅斯克拉斯諾達爾地區州長表示，無人機殘骸墜落已造成3人死亡、13人受傷。
+
+---
+
+### 2026-08-03 16:15:17  #MKT News
+
+【CNIPA deputy director Zhang Zhicheng meets AmCham China president】China National Intellectual Property Administration (CNIPA) deputy director Zhang Zhicheng met AmCham China president He Maike and member-company representatives in Beijing. Zhang said CNIPA has been enforcing equal IP protection for domestic and foreign firms, and is open to industry feedback to identify foreign companies’ IP needs and implement targeted measures. He Maike said IP protection in China has improved, creating a more supportive environment for foreign investors; AmCham China will continue dialogue with CNIPA and encourage member investment in China.
+
+---
+
+### 2026-08-03 16:15:12  #國際
+
+烏克蘭方面訊息：“烏克蘭國防部情報總局（HUR）通報，克里米亞一套‘起飛’雷達系統以及‘密碼 - 4’識別系統遭到損毀。”
+
+---
+
+### 2026-08-03 16:14:48  #其他
+
+【航行警告 黃海海域有火箭發射】據中國海事局網站訊息，煙臺海事局釋出航行警告，8月3日14時至5日12時，黃海部分海域進行火箭發射，禁止船舶駛入。自8月5日9時10分至11時10分，火箭殘骸落於黃海部分海域，禁止船舶駛入。
+
+---
+
+### 2026-08-03 16:14:33  #其他
+
+三菱電機：位於熊本縣的半導體工廠在地震後，計劃於8月底前恢復生產。
+
+---
+
+### 2026-08-03 16:14:25  #公司
+
+【久遠銀海：獲得“一種基於資料集特徵的水印自適應嵌入方法”發明專利】久遠銀海公告稱，公司近日取得國家智慧財產權局頒發的發明專利證書，發明名稱為“一種基於資料集特徵的水印自適應嵌入方法”，專利號為ZL 2026 1 0757139.3，申請日為2026年5月29日，授權公告日為2026年7月31日。該專利用於資料要素流通和可信資料空間領域，不會對目前生產經營產生重大影響，但利於完善智慧財產權保護體系，增強核心競爭力。
+
+---
+
+### 2026-08-03 16:14:06  #Trading Economics #Economy #Switzerland #Manufacturing PMI #Importance 1
+
+Swiss Factory Activity Hits 5-Month Low — Switzerland’s procure.ch–UBS Manufacturing PMI fell to 53.2 in July 2026 from 54.3 in the previous month, falling short of market expectations of 55. The reading marked the weakest level since February, as growth momentum softened across key components, with production expansion slowing to 54.2 from 57.0 in June and order books edging down to 53.2 from 53.5. Purchasing activity also weakened, with purchasing volumes falling into contraction territory at 48.1 from 50.9 and purchasing inventories declining to 47.5 from 50.4. Moreover, sales stocks (46.8 vs 48.1) and employment (47.7 vs 48.9) continued to deteriorate. Supplier delivery times lengthened further (62.9 vs 60.9), indicating rising delivery delays. On the price front, cost pressures intensified, with the index jumping to 74.2 in July, from 72.8 in the previous month.
+
+---
+
+### 2026-08-03 16:13:58  #國際
+
+【國家智慧財產權局副局長張志成會見中國美國商會會長一行】近日，中國國家智慧財產權局副局長張志成在京會見來訪的中國美國商會會長何邁可和會員企業代表。張志成表示，近年來，中國依法嚴格保護國內外企業智慧財產權，做到一視同仁、同等保護，努力為各國企業和創新主體營造公平競爭的發展環境。中國國家智慧財產權局願意傾聽業界聲音，瞭解外資企業在智慧財產權方面的需求，有針對性地做好相關工作。何邁可表示，近年來，中國智慧財產權保護取得長足進展，為外資企業發展提供了良好環境。中國美國商會希望與中國國家智慧財產權局繼續保持溝通並將持續鼓勵會員企業堅定信心，投資中國。
+
+---
+
+### 2026-08-03 16:13:39  #公司
+
+【黃河旋風：持股5%以上股東一致行動人600萬股將被司法拍賣】黃河旋風公告稱，公司持股5%以上股東一致行動人喬秋生因金融借款合同糾紛，其持有的600萬股無限售流通股（佔公司總股本0.42%）將被司法拍賣。拍賣時間為2026年8月29日10時起至8月30日10時止，起拍價5635.2萬元，保證金563萬元，加價幅度1萬元。本次司法拍賣不會導致公司控制權變更，對日常經營無重大影響，結果存在不確定性。
+
+---
+
+### 2026-08-03 16:13:29  #MKT News #Star Stocks #Alibaba #Tencent #Hang Seng Index #Impact bullish #09988.HK #02513.HK #Impact bearish
+
+【Hong Kong close: Hang Seng up 0.48%; Alibaba rallies over 7%】The Hang Seng Index closed up 0.48%; the Hang Seng Tech Index also finished higher. Market turnover was HKD 255.18 bln. Tech names were mixed: MiniMax (00100.HK) and Alibaba (09988.HK) led gains, each up more than 7%; Baidu (09888.HK), Tencent Holdings (00700.HK) and Kuaishou (01024.HK) rose over 3%. Zhipu (02513.HK) fell 4.81%; XPeng (09868.HK) and Li Auto (02015.HK) declined about 3%. Memory-related stocks underperformed: Southern 2x long SK hynix (07709) fell over 16%, Southern 2x long Samsung Electronics (07747) slid nearly 14%; Montage Technology (06809.HK) and GigaDevice (03986.HK) each dropped more than 7%.
 
 ---
 
@@ -17374,299 +17524,5 @@ KKR收購Integer的交易最快或於下週敲定。
 ### 2026-08-01 03:11:09  #MKT News
 
 【US F-35 crashes and catches fire at Miramar; pilot ejects】July 31 — At Marine Corps Air Station Miramar in San Diego, an F-35 stealth fighter crashed on landing, caught fire and produced heavy black smoke. Two jets were conducting training; one landed safely, the other suffered a heavy tail strike on touchdown, skidded along the runway and the pilot ejected. The blaze burned nearby vegetation. Officials have not released the status of the pilot or crew; cause under investigation.
-
----
-
-### 2026-08-01 03:10:46  #國際
-
-【美軍一架F-35隱形戰機發生事故並起火 飛行員彈射】美國加州聖迭戈米拉瑪海軍陸戰隊航空站基地一架美軍F-35隱形戰鬥機當日發生事故並起火，現場升起大量黑煙。目擊者稱，當時有兩架戰鬥機進行訓練，其中一架安全著陸，另一架在降落時機尾接地過重，隨後在跑道上滑行，飛行員之後彈射。事故還導致基地內部分植被被燒燬。目前官方尚未公佈飛行員或機組人員的傷亡狀況，事故原因正在調查中。（央視新聞）
-
----
-
-### 2026-08-01 03:10:24  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-The Times reports UK Chancellor Healey said he cannot rule out tax increases in the budget.
-
----
-
-### 2026-08-01 03:10:22  #公司
-
-亞馬遜公司週五遭到消費者起訴，消費者指控這家電商平臺誇大其在售海鮮產品的環保效益，此舉屬於漂綠行為。
-
----
-
-### 2026-08-01 03:09:56  #MKT News #GBPUSD #Impact bearish #FTSE100
-
-The Times reports UK Chancellor Healy has instructed cabinet ministers to prepare for budget cuts.
-
----
-
-### 2026-08-01 03:07:20  #其他
-
-英國大臣希利要求內閣大臣準備削減預算。
-
----
-
-### 2026-08-01 03:06:46  #央行 #其他
-
-哥倫比亞央行技術團隊預測2026年通脹率為6.9%，此前預測為6.4%。
-
----
-
-### 2026-08-01 03:06:14  #央行 #其他
-
-哥倫比亞央行比亞爾：哥倫比亞央行預計厄爾尼諾現象影響顯著。
-
----
-
-### 2026-08-01 03:05:37  #央行 #其他
-
-哥倫比亞央行比亞爾：哥倫比亞利率決議為加息週期中的一次暫停。
-
----
-
-### 2026-08-01 03:05:07  #其他
-
-【義大利暫停與西班牙的申根自由通行機制】義大利總理梅洛尼7月31日晚在社交媒體發文說，義大利政府決定暫停與西班牙的申根自由通行機制，恢復邊境檢查。（新華社）
-
----
-
-### 2026-08-01 03:04:36  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7525元，較週四夜盤收盤漲3點。成交量382.00億美元。
-
----
-
-### 2026-08-01 03:04:12  #資料
-
-Flapping Airplanes 正在洽談新一輪融資，目標估值 50 億美元。
-
----
-
-### 2026-08-01 03:02:54  #其他
-
-惠譽評級：拉美非銀行金融機構面臨更嚴峻的運營環境。
-
----
-
-### 2026-08-01 03:02:43  #國際
-
-美國農業部：6 月農戶農產品銷售價格同比持平。
-
----
-
-### 2026-08-01 03:02:38  #MKT News #Market Regions #Greater China #Hang Seng Index
-
-Hang Seng Index futures night session closed down 0.07% at 25,922, trading a 38-point premium to the spot index.
-
----
-
-### 2026-08-01 03:01:31  #央行 #其他
-
-哥倫比亞央行比亞爾： 部分理事會成員擔憂消費者物價指數加速上行。
-
----
-
-### 2026-08-01 03:01:18  #央行 #其他
-
-哥倫比亞央行比亞爾：部分哥倫比亞央行政策委員認為有必要收緊貨幣政策。
-
----
-
-### 2026-08-01 03:00:59  #公司
-
-匈牙利 MOL 集團獲得美方許可，可繼續推進 NIS 收購談判。
-
----
-
-### 2026-08-01 03:00:53  #市場 #國際
-
-美國農業部：6 月農業生產投入價格同比上漲 8.8%。
-
----
-
-### 2026-08-01 03:00:02  #市場
-
-恒指期貨夜盤收跌0.06%，報25925.68點，高水41.25點。
-
----
-
-### 2026-08-01 02:50:56  #MKT News #Commodities #Energy #Copper #Impact bullish
-
-【Cui Dongshu (CPCA): 1H lithium‑ion battery demand +53% YoY; storage, exports and commercial vehicles drive growth】Cui Dongshu of the CPCA said total lithium‑ion battery demand in 1H 2026 reached about 1.069 TWh, up 53% YoY, as industry growth shifted from NEV‑only to a multi‑pillar mix of energy storage, overseas exports and commercial vehicles. New energy vehicle demand totaled ~793.2 GWh, +37% YoY, but domestic NEV passenger retail fell 2% YoY, indicating a move into stock competition; vehicle and battery exports are the primary incremental sources. Battery customs exports grew 54% YoY. Storage demand, the largest growth engine by production‑sales estimates, hit ~275.7 GWh in 1H, up 130% YoY, with June single‑month growth +333% YoY. NEV demand share fell to 74% while storage rose to 26%; storage and overseas markets are now the core supports for industry high cycle.
-
----
-
-### 2026-08-01 02:49:01  #MKT News #USDJPY #Impact bullish
-
-USD/JPY reclaimed the 159 level, trading at 159.12 after an earlier plunge of more than 100 pips.
-
----
-
-### 2026-08-01 02:46:35  #央行 #其他
-
-哥倫比亞央行推出計劃，至多增持 40 億美元國際儲備。
-
----
-
-### 2026-08-01 02:46:21  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Caspian Pipeline Consortium (CPC) will continue oil and tanker operations after earlier consideration of an indefinite suspension.
-
----
-
-### 2026-08-01 02:46:19  #其他
-
-市場訊息：裡海管道聯盟（CPC）繼續開展石油作業。此前曾考慮“無限期”暫停石油及油輪運營。
-
----
-
-### 2026-08-01 02:43:56  #MKT News
-
-Colombia's central bank left the policy rate unchanged at 12%, with the decision backed by a majority of the seven-member board.
-
----
-
-### 2026-08-01 02:42:15  #央行 #其他
-
-哥倫比亞央行維持隔夜利率不變，利率水平為 12.00%。
-
----
-
-### 2026-08-01 02:37:11  #其他
-
-西捷航空：持續參與談判磋商，爭取儘早達成雙方均能接受的協議。 由 Q400 執飛的 Encore 支線航班，以及合作伙伴航司運營的程式碼共享航班暫不受影響。
-
----
-
-### 2026-08-01 02:36:49  #其他
-
-西捷航空：談判未能達成協議。隨著勞資糾紛引發的運營中斷臨近，西捷航空必須著手停放 737 型客機。
-
----
-
-### 2026-08-01 02:34:39  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Market sources say the New York Fed has asked US banks to review EUR/JPY quotes.
-
----
-
-### 2026-08-01 02:31:44  #MKT News
-
-NewsNation cited the US Marine Corps confirming an F-35B suffered a Class A mishap near Marine Corps Air Station Miramar; the pilot ejected and has been rescued.
-
----
-
-### 2026-08-01 02:31:39  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night-session front-month contracts close】As of the 02:30 night-session close, Shanghai gold front-month contract fell 0.89% to 884 yuan/gram, Shanghai silver front-month contract fell 1.01% to 14,143 yuan/kg, and SC crude oil front-month contract rose 0.71% to 554 yuan/barrel.
-
----
-
-### 2026-08-01 02:31:11  #市場
-
-WTI 9月原油期貨收報84.67美元/桶。NYMEX 8月天然氣期貨收報2.7470美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.2216美元/加侖，NYMEX 8月取暖油期貨收報4.1215美元/加侖。
-
----
-
-### 2026-08-01 02:30:29  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed down 0.71% at 881.08 yuan/gram in the evening session on July 31; silver T+D fell 0.99% to 14,094.0 yuan/kg.
-
----
-
-### 2026-08-01 02:30:02  #市場
-
-上期所原油期貨夜盤收漲0.71%，報553.80元人民幣/桶。滬金夜盤收跌0.89%，滬銀收跌1.01%。
-
----
-
-### 2026-08-01 02:30:01  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Bitcoin Depreciates by 2.66% — Top crypto losers are Bitcoin (-2.66%) and Ether (-2.58%).
-
----
-
-### 2026-08-01 02:27:44  #央行 #美聯儲
-
-據悉紐約聯儲要求美國各銀行關注歐元/日元匯率。
-
----
-
-### 2026-08-01 02:26:06  #國際
-
-據稱紐約聯邦儲備銀行要求美國各家銀行核查歐元兌日元匯率。
-
----
-
-### 2026-08-01 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Rallies by 5.58% — Top commodity gainers are Cocoa (5.58%) and Coffee (2.62%). Biggest losers are Wheat (-3.76%), Rapeseed (-2.84%) and Lumber (-1.68%).
-
----
-
-### 2026-08-01 02:20:27  #國際
-
-特朗普尚未批准從規模 4.01 億美元的政治行動委員會資金中拿出中期選舉開支。
-
----
-
-### 2026-08-01 02:20:01  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Titanium Drops by 2.20% — Top commodity losers are Titanium (-2.20%), Silver (-2.07%), Lithium Carbonate (-2.05%) and Gold (-1.30%). Gains are led by Copper (0.58%).
-
----
-
-### 2026-08-01 02:15:02  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Rises by 2.32% — Top commodity gainers are Germany Natural Gas THE (2.32%), Brent Crude Oil (1.41%) and Crude Oil WTI (1.35%). Biggest losers are Propane (-1.42%), Heating Oil (-1.24%) and Methanol (-1.11%).
-
----
-
-### 2026-08-01 02:14:23  #國際
-
-【美軍一架F-35隱形戰鬥機在加州墜毀】據美國媒體31日報道，一架美軍F-35隱形戰鬥機當日在加利福尼亞州聖迭戈一處軍事基地墜毀。（新華社）
-
----
-
-### 2026-08-01 02:12:24  #MKT News
-
-【US F-35 crashes at Marine Corps Air Station Miramar; emergency crews responding】Just after 10 a.m. local Friday, FOX 5/KUSI reported heavy smoke near Marine Corps Air Station Miramar in California. Marine officials said emergency crews are responding to an F-35 aircraft incident on the flight line. The jet is assigned to the 3rd Marine Aircraft Wing’s Marine Aircraft Group 11. Fire was reported east of the runway near Kearny Villa Road and Johnson Road; news helicopter footage showed heavy smoke and what appeared to be a burned aircraft.
-
----
-
-### 2026-08-01 02:11:39  #MKT News #Commodities #Industrial Metals #CNC.V #Impact bullish
-
-Canadian government has approved Canada Nickel's Crawford nickel mine project in northern Ontario.
-
----
-
-### 2026-08-01 02:00:11  #其他
-
-官方向福克斯新聞證實了F-35戰機墜毀。
-
----
-
-### 2026-08-01 01:57:48  #其他
-
-市場消：一架 F-35 戰機在加利福尼亞海軍陸戰隊航空站附近墜毀。
-
----
-
-### 2026-08-01 01:55:03  #MKT News
-
-White House official Gorka said no armed drones were detected during FIFA World Cup events.
-
----
-
-### 2026-08-01 01:55:02  #MKT News
-
-Iranian government: Deputy Foreign Minister Abbas Araghchi held a phone call with India's foreign minister to discuss bilateral ties and recent regional developments.
-
----
-
-### 2026-08-01 01:54:33  #其他
-
-白宮官員：世界盃賽事舉辦期間沒有查獲任何武器化無人機。
 
 ---
