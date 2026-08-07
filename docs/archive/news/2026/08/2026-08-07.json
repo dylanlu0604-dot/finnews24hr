@@ -1,7 +1,96 @@
 {
   "date": "2026-08-07",
-  "count": 2617,
+  "count": 2628,
   "items": [
+    {
+      "id": "5031340",
+      "time": "2026-08-07 22:17:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "西門子股份公司：透過逾2億美元的美國製造業投資，強化其在人工智慧基礎設施領域的領先地位"
+    },
+    {
+      "id": "5031339",
+      "time": "2026-08-07 22:17:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子股份公司：透過新建兩座工廠擴大製造產能，生產人工智慧基礎設施所需的關鍵電力主幹裝置。"
+    },
+    {
+      "id": "5031338",
+      "time": "2026-08-07 22:16:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "BLOSSOMHILL股票預計每股開盤價為16美元，IPO價格為16美元。"
+    },
+    {
+      "id": "mkt:019fdc95-6c9c-7aab-8fbc-838d2d80dab9",
+      "time": "2026-08-07 22:16:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceX (SPCX.O) extended gains, up nearly 8.5%."
+    },
+    {
+      "id": "5031337",
+      "time": "2026-08-07 22:16:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊進一步擴大跌幅 SK海力士跌超6%】美股儲存板塊進一步擴大跌幅，美光科技下跌3.57%，SK海力士下跌6.07%，閃迪下跌5.21%，西部資料下跌5.86%，希捷科技下跌10.01%，鎧俠ADR下跌5.3%。"
+    },
+    {
+      "id": "5031336",
+      "time": "2026-08-07 22:15:25",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議員加西亞敦促高盛與前首席律師斷絕關係。"
+    },
+    {
+      "id": "5031335",
+      "time": "2026-08-07 22:15:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SPACEX股價繼續上漲，漲幅高達8.3%。"
+    },
+    {
+      "id": "te:markets:573837",
+      "time": "2026-08-07 22:14:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Hits Record High on Mining Rally — The S&P/TSX Composite Index rose over 0.5% to trade above 36,000 on Friday, reaching a fresh record as mining stocks rallied. Gold prices surged as weaker US labor data and lower energy prices reduced expectations of a Federal Reserve rate hike this year. The US economy unexpectedly shed jobs in July, while oil prices wavered amid uncertainty over a potential US-Iran deal to restore exports through the Strait of Hormuz. Agnico Eagle and WPM jumped over 7%, while Barrick gained 5.5% and other gold miners rose between 4% and 10%. In contrast, banking and broader sectors weakened as strong Canadian employment data raised the prospect of a BoC rate hike if energy prices remain elevated. Canada's unemployment rate fell 0.1 percentage point to 6.4%, slightly below forecasts of 6.5%, while employment increased by 75,000, well above expectations for a 15,000 gain. RBC and TD Bank both shed about 0.5%."
+    },
+    {
+      "id": "5031334",
+      "time": "2026-08-07 22:14:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "隨著油價從盤中低點反彈，美國國債漲幅收窄。"
+    },
+    {
+      "id": "5031333",
+      "time": "2026-08-07 22:14:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度AGS HEALTH提交480億盧比首次公開募股申請。"
+    },
     {
       "id": "5031332",
       "time": "2026-08-07 22:13:22",
@@ -81,6 +170,15 @@
         "公司"
       ],
       "text": "【中國行動通訊集團重慶有限公司政企客戶部總經理王輝明接受審查調查】8月7日，據中國行動通訊集團重慶有限公司紀委、巫溪縣紀委監委訊息：中國行動通訊集團重慶有限公司政企客戶部黨支部書記、總經理王輝明涉嫌嚴重違紀違法，目前正接受中國行動通訊集團重慶有限公司紀委紀律審查；經市監委指定管轄，巫溪縣監委對其監察調查。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608073835524683",
+      "time": "2026-08-07 22:11:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員巴爾金：美國就業市場處於“疲軟平衡”狀態】美聯儲官員巴爾金表示，美國就業市場處於“疲軟平衡”狀態。當前處於就業零增長至小幅正增長的環境。"
     },
     {
       "id": "mkt:019fdc90-25f5-7aab-8fbc-715f7ec812ff",
