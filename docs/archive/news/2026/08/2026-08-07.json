@@ -1,7 +1,108 @@
 {
   "date": "2026-08-07",
-  "count": 473,
+  "count": 484,
   "items": [
+    {
+      "id": "mkt:019fd9df-564f-7aab-8fac-37ba9a8027e7",
+      "time": "2026-08-07 09:38:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share storage chip sector jumped in early trade; Woge Optoelectronics rose over 9%, Youyan New Materials, Hongban Technology and Goke Microelectronics climbed over 8%, while Guangli Technology, Zhengfan Technology and Shengyi Technology also advanced."
+    },
+    {
+      "id": "5029821",
+      "time": "2026-08-07 09:37:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股PCB股走強 芯碁微裝漲超6%】截至發稿，芯碁微裝(09630.HK)漲6.45%，建滔積層板(01888.HK)漲3.44%，勝宏科技(02476.HK)漲3.29%。"
+    },
+    {
+      "id": "mkt:019fd9de-0d29-7aab-8fac-2ca7eb2364d2",
+      "time": "2026-08-07 09:37:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share gaming stocks plunged intraday; Dasheng Culture hit the limit-down, while Caesar Culture, Shengtian Network, Zhongqingbao and Dianhun Network fell."
+    },
+    {
+      "id": "5029820",
+      "time": "2026-08-07 09:36:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6G概念延續強勢 通宇通訊5天4板】早盤6G概念延續強勢，武漢凡谷2連板，此前通宇通訊5天4板，廣哈通訊漲超10%，盛路通訊、燦勤科技、信維通訊、本川智慧漲幅靠前。"
+    },
+    {
+      "id": "5029819",
+      "time": "2026-08-07 09:36:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“白海豚”逼近 寧波、舟山啟動沿海Ⅱ級防颱應急響應】今年，第13號颱風“白海豚”持續逼近。8月7日5時，颱風中心距離寧波約852公里，中心最大風力14級，正以每小時15至20公里的速度向西移動。根據颱風動態，寧波和舟山兩地海事部門已於8月7日8時將沿海防颱應急響應提升至Ⅱ級。為應對臺風影響，寧波海事部門持續加強重點航道、錨地和橋區巡航，目前沿海46個涉水工程已全部停工，施工船舶有序避風，100餘艘應急船舶在港口布防。舟山海事部門則依託“VTS+無人機+海巡艇”對轄區內錨地、避風水域加強立體巡查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fd9dc-fe04-7aab-8fac-24d3b9f90c26",
+      "time": "2026-08-07 09:36:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share medical services sector rose in early trade; Baihua Pharmaceutical hit the daily limit-up, while Wanbang Pharmaceutical, Pharmaron and WuXi AppTec advanced."
+    },
+    {
+      "id": "5029818",
+      "time": "2026-08-07 09:36:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【民爆概念盤初走強，保利聯合漲停】民爆概念盤初走強，保利聯合漲停，高爭民爆、廣東宏大、江南化工、金奧博、雪峰科技、盛景微等跟漲。"
+    },
+    {
+      "id": "5029817",
+      "time": "2026-08-07 09:35:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化學制藥板塊短線拉昇，哈藥股份漲停】化學制藥板塊短線拉昇，冀衡醫藥、哈藥股份漲停，永安藥業、海南海藥、新贛江、津藥藥業、貝達藥業等紛紛走高。"
+    },
+    {
+      "id": "mkt:019fd9dc-8033-7aab-8fac-18c86fe4565f",
+      "time": "2026-08-07 09:35:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "N Zhanxin shares rose 398% at the open on their first trading day to 115 yuan per share."
+    },
+    {
+      "id": "5029816",
+      "time": "2026-08-07 09:35:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "N展芯股份上市首日盤初漲398%，報115/股。"
+    },
+    {
+      "id": "5029815",
+      "time": "2026-08-07 09:35:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫療服務板塊衝高，百花醫藥漲停】醫療服務板塊衝高，百花醫藥漲停，萬邦醫藥、康龍化成、藥明康德跟漲。"
+    },
     {
       "id": "5029814",
       "time": "2026-08-07 09:34:47",
