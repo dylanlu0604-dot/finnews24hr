@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-08 04:45:34",
-  "count": 16046,
+  "updated": "2026-08-08 04:49:29",
+  "count": 16045,
   "items": [
+    {
+      "id": "5031632",
+      "time": "2026-08-08 04:45:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證交會檔案：昆特資本有限責任公司報告持有SPACEX公司835股A類股份。"
+    },
     {
       "id": "te:markets:573891",
       "time": "2026-08-08 04:45:00",
@@ -146222,25 +146231,6 @@
         "觀點"
       ],
       "text": "【7月收官8月在望 A股市場風格或走向再平衡】從全月表現來看，A股市場整體呈現出“紅利佔優，科技回撥”的格局。申萬31個一級行業中，煤炭以14.29%的月漲幅居首，石油石化、銀行、食品飲料、美容護理、農林牧漁、交通運輸、商貿零售、家用電器、醫藥生物等行業漲幅居前；前期漲幅較大的電子、通訊等科技板塊迎來調整。展望8月A股市場，中國銀河證券策略首席分析師楊超釋出觀點稱，隨著7月市場恐慌情緒的集中釋放，資金正在從極致抱團的AI賽道向防禦性板塊遷移。8月市場重心可能集中於政策與業績雙重驗證，呈現弱勢震盪上行的趨勢，AI相關板塊經歷回撥後市場分歧短期內難以收斂，建議採取啞鈴型策略。當前，AI產業趨勢並未逆轉，但行情將從普漲轉向依靠業績篩選，資金可能更加謹慎，建議篩選具有持續盈利能力、業績確定性強、景氣度優勢能夠維持的相關板塊。同時，隨著科技籌碼出清，市場風格可能從成長風格佔主導，走向風格再平衡，紅利資產仍具較高配置價值。（上證報）"
-    },
-    {
-      "id": "5019942",
-      "time": "2026-08-01 04:49:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "挪威主權財富基金：將在西班牙開展全新零售領域投資。"
-    },
-    {
-      "id": "te:markets:571860",
-      "time": "2026-08-01 04:48:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Crude Posts Best Monthly Gain Since March — Crude oil prices rose 1% on Friday to finish just below $85 a barrel, capping a more than 20% gain in July, its strongest monthly increase since March, driven by escalating geopolitical tensions and growing concerns over global oil supplies. Iran claimed it attacked two tankers transiting the Strait of Hormuz under US military escort, though Western maritime authorities have not confirmed the incident. Renewed conflict between the US and Iran, Houthi attacks in the Red Sea, and Saudi strikes on Iran-backed groups have heightened risks to key shipping routes. Falling US crude inventories have added further upward pressure on prices. Meanwhile, attacks near Russia’s Black Sea oil export infrastructure, including the Caspian Pipeline Consortium (CPC) terminal, have raised concerns about disruptions to Kazakhstan’s oil exports, an important source for European refiners. Although the CPC decided to continue operations, uncertainty over supply security continues to support higher oil prices."
     }
   ]
 }
