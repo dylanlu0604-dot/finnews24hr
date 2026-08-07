@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-07 09:23:51",
-  "count": 16195,
+  "updated": "2026-08-07 09:27:39",
+  "count": 16197,
   "items": [
+    {
+      "id": "5029804",
+      "time": "2026-08-07 09:26:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海博思創投資成立新能源科技公司】企查查APP顯示，近日，博清智濱（無棣）新能源科技有限公司成立，經營範圍包含風力發電技術服務；資訊科技諮詢服務；儲能技術服務；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由海博思創(688411)全資持股。"
+    },
+    {
+      "id": "mkt:019fd9d4-49eb-7aab-8fab-cee30de661ce",
+      "time": "2026-08-07 09:26:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【10th BRICS Ministers of Industry meeting held in Jaipur, India】On Aug 6, the 10th BRICS Ministers of Industry meeting convened in Jaipur, India. China's Ministry of Industry and Information Technology chief engineer Wang Weiming attended. Ministers and UNIDO representatives exchanged on SMEs, photovoltaic industry transition, startup support and logistics system development. The meeting adopted a joint declaration and approved a photovoltaic industry working-group mandate and action plan, an SME working-group cooperation framework and a startups action plan."
+    },
+    {
+      "id": "5029803",
+      "time": "2026-08-07 09:25:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報4768.00元。"
+    },
+    {
+      "id": "5029802",
+      "time": "2026-08-07 09:25:35",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.1％，深成指漲0.3％，創業板漲0.62％。"
+    },
+    {
+      "id": "mkt:019fd9d3-2cf3-7aab-8fab-c65ed63f790f",
+      "time": "2026-08-07 09:25:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.1%, the Shenzhen Composite Index rose 0.3% and the ChiNext gained 0.62%; gold-related and rare-earth permanent magnet sectors led declines."
+    },
+    {
+      "id": "5029801",
+      "time": "2026-08-07 09:25:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第十屆金磚國家工業部長會議在印度齋浦爾召開】8月6日，第十屆金磚國家工業部長會議在印度齋浦爾召開，中國工業和資訊化部總工程師王衛明出席會議併發言。金磚各國工業主管部門及聯合國工業發展組織代表圍繞中小企業發展、光伏產業轉型、初創企業賦能、物流體系建設等議題深入交流。本次會議透過了《第十屆金磚國家工業部長會議聯合宣言》，批准了光伏產業工作組職責檔案和行動計劃、中小企業工作組合作框架、初創企業行動計劃。"
+    },
+    {
+      "id": "5029800",
+      "time": "2026-08-07 09:24:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價跌幅擴大至4.6%，三星電子股價上漲0.4%。"
+    },
+    {
+      "id": "mkt:019fd9d1-51da-7aab-8fab-bca643be1374",
+      "time": "2026-08-07 09:23:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY133bn withdrawal today; CNY1,225.5bn net withdrawal this week】PBOC conducted CNY1bn 7-day reverse repo today; CNY134bn of 7-day reverse repos matured, resulting in a net withdrawal of CNY133bn. This week the PBOC executed CNY176.5bn of 7-day reverse repos, CNY300bn of overnight reverse repos and CNY500bn of buyout-style reverse repos; with CNY116.5bn of 7-day and CNY900bn of overnight reverse repos maturing, it reported a net withdrawal of CNY1,225.5bn for the week."
+    },
     {
       "id": "5029799",
       "time": "2026-08-07 09:22:27",
@@ -10,6 +86,15 @@
         "其他"
       ],
       "text": "央行公開市場今日淨回籠1,330.0億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608073834696125",
+      "time": "2026-08-07 09:22:27",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019fd9d0-0c2c-7aab-8fab-b466b891d0b7",
@@ -148033,78 +148118,6 @@
         "焦點"
       ],
       "text": "玻璃連續主力合約日內漲2%，現報890.00元。"
-    },
-    {
-      "id": "mkt:019fb5c6-f07f-7aab-8f22-1fd8143963b9",
-      "time": "2026-07-31 09:25:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "At the A-share open, the Shanghai Composite was up 0.76%, the Shenzhen Composite Index up 3.04%, the ChiNext Index up 5.15% and the STAR 50 Index up 8.37%. Changxin C-shares opened more than 10% higher."
-    },
-    {
-      "id": "te:markets:571409",
-      "time": "2026-07-31 09:25:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Retreats Further — US gasoline futures fell below $3.10 per gallon, retreating further from the two-month high of $3.50 reached on July 23, as investors weighed improving shipping activity against ongoing geopolitical risks. Oil shipments from the Middle East picked up as more vessels left the Persian Gulf with transponders turned off, while two Saudi tankers crossed the Bab el-Mandeb Strait undetected. Additionally, Saudi Arabia proposed an international maritime coalition to protect key shipping routes, with representatives from 43 countries participating in talks to safeguard navigation in the Red Sea following the Iran-backed Houthis' announced blockade against the kingdom. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted after Ukrainian drone strikes shut another crude distillation unit. Still, gasoline remained on track for a 5% monthly gain as exchanges of strikes between the US and Iran escalated earlier this month."
-    },
-    {
-      "id": "5018024",
-      "time": "2026-07-31 09:25:35",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【儲存晶片大幅高開 兆易創新等多股競價漲停】早盤儲存晶片大幅高開，兆易創新、德明利、太極實業一字漲停，普冉股份、北京君正、佰維儲存、江波龍、大普微等多股漲超10%。"
-    },
-    {
-      "id": "5018023",
-      "time": "2026-07-31 09:25:14",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指高開，滬指漲0.76％，深成指漲3.04％，創業板漲5.15％。"
-    },
-    {
-      "id": "te:markets:571408",
-      "time": "2026-07-31 09:24:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Eye Fourth Monthly Rise — Australian shares advanced 34 points, or 0.4%, to 9,001 in early Friday trade, rebounding from the prior session’s weakness after Wall Street rallied overnight, as heavyweight chipmakers surged on renewed bets the AI-driven bull run still has legs. Gains were led by tech, non-energy minerals, industrial services, and utilities, though healthcare and consumer non-durables weighed. However, gains were capped by lingering caution over whether three rate hikes this year from the Reserve Bank will prove sufficient, with their full impact yet to filter through the economy. Standouts included BHP Group (2.4%), Lynas Rare Earths (4.7%), and Sandfire Resources (3.2%), while the big four banks added between 0.1% and 0.6%. Local markets are on track for weekly gains of more than 2%, reversing three straight weekly declines and setting up a fourth monthly rise. Momentum has been underpinned by easing inflation concerns and signs of resilience in manufacturing and services activity through July."
-    },
-    {
-      "id": "5018022",
-      "time": "2026-07-31 09:24:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【7月以來43只新基金延長募集 ETF佔比超六成】新基金髮行市場延長募集的情況明顯增多。資料顯示，7月以來共有54則基金延長募集期公告，涉及43只基金。其中，10只基金曾兩次及以上延長募集期。部分基金募集期延長幅度較大。華泰柏瑞中證港股通資訊科技綜合ETF的募集截止日由7月24日延至9月30日，延長68天；廣發穩致、貝萊德行業輪動量化選股的募集截止日均由7月31日延至8月31日。從產品型別看，43只基金中有26只為被動指數型基金，佔比超過六成，其中25只為ETF；此外還包括偏股混合型基金、普通股票型基金、偏債混合型基金及FOF等產品。"
-    },
-    {
-      "id": "5018020",
-      "time": "2026-07-31 09:23:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月31日08時58分在秘魯（南緯8.25度，西經74.15度）發生5.6級地震，震源深度150千米。"
     }
   ]
 }

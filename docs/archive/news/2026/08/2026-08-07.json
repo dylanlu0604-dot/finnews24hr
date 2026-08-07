@@ -1,7 +1,92 @@
 {
   "date": "2026-08-07",
-  "count": 444,
+  "count": 453,
   "items": [
+    {
+      "id": "5029804",
+      "time": "2026-08-07 09:26:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海博思創投資成立新能源科技公司】企查查APP顯示，近日，博清智濱（無棣）新能源科技有限公司成立，經營範圍包含風力發電技術服務；資訊科技諮詢服務；儲能技術服務；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由海博思創(688411)全資持股。"
+    },
+    {
+      "id": "mkt:019fd9d4-49eb-7aab-8fab-cee30de661ce",
+      "time": "2026-08-07 09:26:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【10th BRICS Ministers of Industry meeting held in Jaipur, India】On Aug 6, the 10th BRICS Ministers of Industry meeting convened in Jaipur, India. China's Ministry of Industry and Information Technology chief engineer Wang Weiming attended. Ministers and UNIDO representatives exchanged on SMEs, photovoltaic industry transition, startup support and logistics system development. The meeting adopted a joint declaration and approved a photovoltaic industry working-group mandate and action plan, an SME working-group cooperation framework and a startups action plan."
+    },
+    {
+      "id": "5029803",
+      "time": "2026-08-07 09:25:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報4768.00元。"
+    },
+    {
+      "id": "5029802",
+      "time": "2026-08-07 09:25:35",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.1％，深成指漲0.3％，創業板漲0.62％。"
+    },
+    {
+      "id": "mkt:019fd9d3-2cf3-7aab-8fab-c65ed63f790f",
+      "time": "2026-08-07 09:25:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "At the A-share open, the Shanghai Composite fell 0.1%, the Shenzhen Composite Index rose 0.3% and the ChiNext gained 0.62%; gold-related and rare-earth permanent magnet sectors led declines."
+    },
+    {
+      "id": "5029801",
+      "time": "2026-08-07 09:25:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第十屆金磚國家工業部長會議在印度齋浦爾召開】8月6日，第十屆金磚國家工業部長會議在印度齋浦爾召開，中國工業和資訊化部總工程師王衛明出席會議併發言。金磚各國工業主管部門及聯合國工業發展組織代表圍繞中小企業發展、光伏產業轉型、初創企業賦能、物流體系建設等議題深入交流。本次會議透過了《第十屆金磚國家工業部長會議聯合宣言》，批准了光伏產業工作組職責檔案和行動計劃、中小企業工作組合作框架、初創企業行動計劃。"
+    },
+    {
+      "id": "5029800",
+      "time": "2026-08-07 09:24:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價跌幅擴大至4.6%，三星電子股價上漲0.4%。"
+    },
+    {
+      "id": "mkt:019fd9d1-51da-7aab-8fab-bca643be1374",
+      "time": "2026-08-07 09:23:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets CNY133bn withdrawal today; CNY1,225.5bn net withdrawal this week】PBOC conducted CNY1bn 7-day reverse repo today; CNY134bn of 7-day reverse repos matured, resulting in a net withdrawal of CNY133bn. This week the PBOC executed CNY176.5bn of 7-day reverse repos, CNY300bn of overnight reverse repos and CNY500bn of buyout-style reverse repos; with CNY116.5bn of 7-day and CNY900bn of overnight reverse repos maturing, it reported a net withdrawal of CNY1,225.5bn for the week."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608073834696125",
+      "time": "2026-08-07 09:22:27",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
     {
       "id": "5029799",
       "time": "2026-08-07 09:22:27",
