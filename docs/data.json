@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-07 09:39:16",
-  "count": 16152,
+  "updated": "2026-08-07 09:43:07",
+  "count": 16145,
   "items": [
+    {
+      "id": "5029826",
+      "time": "2026-08-07 09:42:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念再度活躍 大元泵業、金洲管道雙雙漲停】早盤液冷伺服器概念再度活躍，大元泵業、金洲管道漲停，英特科技漲超10%，創世紀、朗特智慧、英維克、飛龍股份跟漲。"
+    },
+    {
+      "id": "mkt:019fd9e2-1fd9-7aab-8fac-4b5fdcd4d528",
+      "time": "2026-08-07 09:41:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI fell as much as 2.00% intraday."
+    },
+    {
+      "id": "5029825",
+      "time": "2026-08-07 09:41:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光智科技在內蒙古成立礦業科技新公司】企查查APP顯示，近日，內蒙古光智礦業科技有限公司成立，經營範圍包含稀有稀土金屬冶煉；金屬材料製造；電子專用材料銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由光智科技(300489)全資持股。"
+    },
+    {
+      "id": "5029824",
+      "time": "2026-08-07 09:41:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國疾控機構報告：今年高溫已致約1.19萬人死亡】德國羅伯特·科赫研究所6日釋出報告稱，截至7月26日，德國今年已有約1.19萬人死於高溫相關原因，今年由此成為該機構2016年開始統計這一資料以來，死於高溫人數最多的一年。報告稱，保守估計德國有約9600人因今年6月下旬的極端熱浪致死，實際死亡人數可能還會增加。"
+    },
+    {
+      "id": "mkt:019fd9e1-1003-7aab-8fac-46e6c4a29a01",
+      "time": "2026-08-07 09:40:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Eight major Chinese polysilicon producers pledge not to sell below cost】Eight leading Chinese polysilicon producers signed an anti-cutthroat pricing pledge in Shanghai on the evening of Aug. 6, agreeing not to sell polysilicon below cost, according to signatories; the move came one week after the State Administration for Market Regulation issued price-compliance guidance for the photovoltaic sector on July 31."
+    },
+    {
+      "id": "mkt:019fd9e0-b5c5-7aab-8fac-3e3da2b98b43",
+      "time": "2026-08-07 09:40:10",
+      "tags": [
+        "MKT News",
+        "06613.HK",
+        "Impact bullish",
+        "02208.HK",
+        "07688.HK"
+      ],
+      "text": "Hong Kong commercial aerospace-related stocks active at the open: Lens Technology (06613.HK) up nearly 4%, Goldwind (02208.HK) up over 2%, Tuopu CNC (07688.HK) up about 2%."
+    },
+    {
+      "id": "5029823",
+      "time": "2026-08-07 09:39:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌2%至6170.42點。"
+    },
+    {
+      "id": "5029822",
+      "time": "2026-08-07 09:39:41",
+      "tags": [
+        "行業",
+        "公司",
+        "焦點"
+      ],
+      "text": "【光伏矽料八巨頭簽署倡議：不得低於成本價銷售】記者從簽約企業處獲悉，8月6日晚，在7月31日市場監管總局對光伏行業開展價格合規指導後僅一週，國內八大多晶矽企業在上海共同簽署反內卷《倡議書》。八家企業合計佔據國內多晶矽有效產能超過90%，包括四家上市公司通威股份、協鑫科技、大全能源、新特能源，以及亞洲矽業（青海）股份有限公司、新疆東方希望新能源有限公司、青海麗豪清能股份有限公司、新疆戈恩斯能源科技有限公司。企業共同承諾：所有光伏產品銷售價格（含招投標報價）均不得低於依據團體標準《光伏行業成本核算模型通則》核算的對應成本。低於完全成本價銷售的必須立即制止和糾正，並自覺接受各級市場監督管理部門的監督檢查。企業要加強互相監督，當發現低於成本銷售的違法行為時，要及時向行業協會和市場監管總局反映和舉報。此外，企業承諾嚴格落實能耗新標準，主動出清高耗能落後產能。（上海證券報）"
+    },
     {
       "id": "mkt:019fd9df-564f-7aab-8fac-37ba9a8027e7",
       "time": "2026-08-07 09:38:40",
@@ -147493,161 +147571,6 @@
         "市場"
       ],
       "text": "【多支科創晶片ETF漲超9%】早盤儲存晶片、半導體板塊走強,科創成長ETF廣發（588110）、科創半導體裝置ETF（589020）、科創晶片ETF匯添富（588750）等多支雙創、半導體ETF漲超9%。"
-    },
-    {
-      "id": "mkt:019fb5d6-d307-7aab-8f23-426cac8fd007",
-      "time": "2026-07-31 09:43:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Coast Guard conducts routine law-enforcement patrols east of Taiwan】China Coast Guard said its Xiu Shan flotilla carried out routine law-enforcement patrols in waters east of Taiwan on July 31. It said the flotilla has intensified control of the area since July to ensure safe navigation and operations and to protect the legal rights and safety of Chinese citizens, including Taiwan residents. The Coast Guard said it will continue to step up patrols in waters under Chinese jurisdiction and resolutely defend national territorial sovereignty and maritime rights and interests."
-    },
-    {
-      "id": "5018069",
-      "time": "2026-07-31 09:42:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國海警位中國臺灣島以東海域依法開展常態化執法巡查】中國海警局新聞發言人姜略表示，7月31日，中國海警秀山艦編隊位中國臺灣島以東海域依法開展常態化執法巡查。7月以來，秀山艦編隊持續加強相關海域管控，有力保障正常航行和作業秩序，切實維護包括臺灣同胞在內的中國民眾合法正當權益和生命財產安全。中國海警將持續加強在中國管轄海域執法巡查，堅決維護國家領土主權和海洋權益。"
-    },
-    {
-      "id": "5018068",
-      "time": "2026-07-31 09:42:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古中鐵建一在建專案發生塌方造成4人死亡】從內蒙古自治區烏蘭察布市相關部門瞭解到，31日凌晨3時50分許，中鐵建烏蘭察布市卓資縣壓縮空氣儲能專案中鐵十五局施工隧道標段發生塌方，事故造成4人死亡、6人受傷。 救援力量第一時間到達事故現場開展救援處置，傷員救治、現場處置、事故調查和其他後續工作正在進行中。"
-    },
-    {
-      "id": "mkt:019fb5d6-1c9f-7aab-8f23-3d80f037726d",
-      "time": "2026-07-31 09:42:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-share MLCC sector rallied again. Shuangxing New Materials posted a second consecutive daily limit-up; Lihexing, Sanhuan Group and Sidike rose over 10%. Shangluo Electronics, Torch Electronics, Guoci Materials and Fenghua High‑Tech also climbed."
-    },
-    {
-      "id": "5018067",
-      "time": "2026-07-31 09:41:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國投資證券：三星長期儲存晶片合同料將改善盈利前景】韓國投資證券表示，三星電子日益轉向長期儲存晶片供應合同，這正在提高盈利可見度，並支撐更強勁的利潤前景。該經紀機構表示，隨著儲存晶片價格飆升，該公司第二季度業績超出預期，同時新的超大規模雲服務提供商協議有助於穩定需求和產能利用率。該經紀機構將三星的目標價上調10%，至65萬韓元，以反映改善的盈利前景和HBM定價的潛在上行空間，並維持買入評級。"
-    },
-    {
-      "id": "5018066",
-      "time": "2026-07-31 09:41:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MLCC概念再度走強 雙星新材2連板】早盤MLCC概念再度走強，雙星新材2連板，利和興、三環集團、斯迪克漲超10%，商絡電子、火炬電子、國瓷材料、風華高科等跟漲。"
-    },
-    {
-      "id": "te:economy:571419",
-      "time": "2026-07-31 09:41:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Producer Price Inflation MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Producer Price Inflation Accelerates in Q2 — Australia’s final demand Producer Price Index (PPI) rose 1.3% quarter-on-quarter in the second quarter of 2026, accelerating from a 0.4% increase in the previous quarter and beating market expectations for a 0.3% rise. This marked the strongest producer price growth since the third quarter of 2023, driven by higher energy costs, particularly for crude oil, petrol, and diesel, following supply disruptions caused by the closure of the Strait of Hormuz for much of the quarter. The effects of the Middle East crisis were felt across most industries, with shipping delays increasing the cost of imported goods, while higher fuel prices raised expenses for energy-intensive manufacturing processes. Continued demand for rental properties also remained a key contributor to the increase in final demand prices. On an annual basis, producer prices rose 3.6%, following a 3.0% increase in the first quarter, marking the highest yearly growth rate since the first quarter of 2025."
-    },
-    {
-      "id": "te:economy:571418",
-      "time": "2026-07-31 09:40:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Business Confidence",
-        "Importance 3"
-      ],
-      "text": "China Manufacturing Activity Contracts for the 1st Time in 5 Months — China’s official NBS Manufacturing PMI unexpectedly declined to 49.2 in July 2026 from 50.3 in the previous month, below market expectations of 50.0. It was the first contraction in factory activity since February, amid persistently weak domestic demand. Output shrank for the first time in five months (49.9 vs 51.4 in June), while new orders contracted after expanding in the previous month (49.9 vs 51.2), with foreign orders also returning to contraction (49.0 vs 50.1)."
-    },
-    {
-      "id": "5018065",
-      "time": "2026-07-31 09:40:56",
-      "tags": [
-        "宏觀",
-        "資料"
-      ],
-      "text": "【國家統計局：7月份非製造業商務活動指數有所下降，文旅行業較為活躍】國家統計局服務業調查中心首席統計師霍麗慧解讀2026年7月中國採購經理指數，7月份，非製造業商務活動指數為49.0%，比上月下降1.2個百分點，非製造業景氣水平較上月回落。（一）文旅行業景氣回升。服務業商務活動指數為49.3%，比上月下降1.1個百分點，服務業市場活躍度有所回落。從行業看，在暑期消費帶動下，居民休閒娛樂和旅遊出行有所增加，航空運輸、住宿、文化體育娛樂等行業商務活動指數較上月明顯回升，相關企業業務總量增長較快；批發、貨幣金融服務等行業商務活動指數下降幅度較大，是本月服務業景氣度回落的主要因素；資本市場服務、房地產等行業商務活動指數低於臨界點。服務業業務活動預期指數為56.0%，與上月持平，企業對近期市場發展信心較為穩定。（二）建築業景氣水平下行。受近期部分地區高溫暴雨洪澇災害等不利因素影響，建築業施工進度有所放緩，商務活動指數為47.0%，比上月下降2.0個百分點。建築業業務活動預期指數為51.8%，比上月上升0.7個百分點，企業對近期行業發展信心有所增強。"
-    },
-    {
-      "id": "mkt:019fb5d4-b4d7-7aab-8f23-30dfae79fcf6",
-      "time": "2026-07-31 09:40:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Korea Investment & Securities says Samsung shift to long-term memory contracts improves earnings visibility】Korea Investment & Securities says Samsung Electronics’ move toward long-term memory-chip supply contracts is boosting earnings visibility and underpins a stronger profit outlook. The broker noted Samsung’s Q2 results beat expectations as memory prices surged, and new hyperscaler deals are helping stabilize demand and capacity utilisation. It raised Samsung’s target price 10% to KRW 650,000, kept a buy rating, and cited an improved earnings outlook and potential upside to HBM pricing."
-    },
-    {
-      "id": "mkt:019fb5d4-337f-7aab-8f23-2ff154d891da",
-      "time": "2026-07-31 09:40:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share electronic chemicals sector surged intraday; Fangbang Shares hit a 20% limit-up, Guanggang Gas and Haixing Shares locked at the daily limit, while Weiteou, Xingfu Electronics, Laite Optoelectronics and Zhongjuxin rallied more than 11%."
-    },
-    {
-      "id": "5018064",
-      "time": "2026-07-31 09:39:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦官員31日說，該國西南部俾路支省一座煤礦30日發生爆炸，造成至少32名礦工死亡，另有10名礦工被困井下。（新華社）"
-    },
-    {
-      "id": "5018063",
-      "time": "2026-07-31 09:39:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中證500股指期貨(IC)主力合約日內漲超4%，現報7575.4點。"
-    },
-    {
-      "id": "mkt:019fb5d3-8e49-7aab-8f23-25c6aadfe36c",
-      "time": "2026-07-31 09:39:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Daiwa Securities: Any intervention to support the yen may only buy time】Daiwa Securities chief FX strategist Kenta Tadaide said any surprise Japanese government intervention to support the yen may only be a stopgap to buy time. \"To maximize the effect of FX intervention, monetary policy must remain aligned,\" he said, adding markets largely expect the Bank of Japan to keep policy rates unchanged at today's decision and are focused on the policy statement and Governor Kazuo Ueda's press conference."
-    },
-    {
-      "id": "te:economy:571416",
-      "time": "2026-07-31 09:39:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Non Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "China Services Activity Returns to Contraction — China's official NBS Non-Manufacturing PMI fell to 49.0 in July 2026 from 50.2 in June, pointing to a renewed contraction in non-manufacturing activity after two months of modest expansion and defying expectations of a flat reading. The business activity index for the services sector declined to 49.3 from 50.4, while the construction index dropped to 47.0 from 49.0. Within services, postal services, telecommunications, broadcasting, and culture and entertainment remained strong, with business activity indices above 55.0, while capital market services and real estate remained in contraction. Meanwhile, the new orders index fell to 44.4 from 48.0, with construction declining to 40.1 from 46.3 and services easing to 45.2 from 48.4. Input prices were unchanged at 49.7, while sales prices slipped to 47.9 from 48.4. Employment edged down to 45.4 from 45.8. Still, business expectations improved slightly to 55.4 from 55.3, indicating firms remained optimistic about future activity."
     }
   ]
 }
