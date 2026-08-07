@@ -1,7 +1,59 @@
 {
   "date": "2026-08-07",
-  "count": 806,
+  "count": 812,
   "items": [
+    {
+      "id": "mkt:019fda7f-a6d9-7aab-8faf-840b081fb230",
+      "time": "2026-08-07 12:33:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Yichun official: CATL's Jianxiawo lithium mine temporarily shut for maintenance】Yichun's Yifeng County Ecology and Environment Bureau, responding to market rumours of a restart at CATL's Jianxiawo lithium mine, said an on-site inspection found the site temporarily shut for maintenance with no ore shipments or crushing operations. The bureau has ordered CATL to expedite completion of environmental impact assessment approvals."
+    },
+    {
+      "id": "5030042",
+      "time": "2026-08-07 12:31:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與服務部：兩艘超大型氣體運輸船將於2026年第四季度交付。"
+    },
+    {
+      "id": "5030041",
+      "time": "2026-08-07 12:31:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司物流與服務部：三艘超大型氣體運輸船（VLGC）和六艘超大型油輪（VLCC）定於2026年第三季度交付。"
+    },
+    {
+      "id": "5030040",
+      "time": "2026-08-07 12:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宜春官方：寧德時代鋰礦處於停產檢修狀態】針對市場高度關注的寧德時代宜春梘下窩鋰礦復產傳聞，宜春市宜豐縣生態環境局今日正式回應稱：現場檢查時，該企業處於停產檢修狀態，現場未進行礦石裝運及破碎等生產作業，已要求企業儘快辦理環評審批手續。 (上海證券報)"
+    },
+    {
+      "id": "5030039",
+      "time": "2026-08-07 12:31:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受降雨影響 甬江、椒江可能發生編號洪水】今天上午，水利部舉行會商，分析研判全國的防汛形勢。截至今天9時，黑龍江、內蒙古、河北、陝西、雲南等地13條河流仍維持超警。8月7日至9日，受降雨影響，甬江、椒江可能發生編號洪水，暴雨區內部分中小河流及太湖周邊河網區部分站點可能發生超警洪水；受上游來水影響，黑龍江干流撫遠江段將超警，松花江幹流及支流呼蘭河、黑龍江干流同江至勤得利江段將維持超警。8月7日8時至8月8日8時，河北西南部、山西東部部分地區發生山洪災害的可能性大（橙色預警）。水利部今天8時釋出橙色山洪災害氣象預警，提醒暴雨洪水影響地區社會公眾注意防範。"
+    },
+    {
+      "id": "te:markets:573615",
+      "time": "2026-08-07 12:30:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Rises from One-Month Low — Corn futures rose to around $4.4 per bushel, attempting to rebound from a four-week low as higher crude oil prices boosted demand for biofuel feedstocks. Reports of renewed attacks in the Strait of Hormuz and the lack of clarity over a deal to reopen the critical waterway drove oil prices higher. Agricultural commodity prices often tracked energy markets due to the growing use of crop-based feedstocks in biofuel production. Meanwhile, expectations of abundant supplies limited gains, with brokerage StoneX projecting the 2026 US corn harvest at 16.16 billion bushels. Additionally, the USDA lowered its good-to-excellent rating for the US corn crop for a third consecutive week, though the deterioration did little to offset the market's bearish supply outlook. Traders also continued to monitor the Russia-Ukraine conflict and its impact on Black Sea grain exports, although expectations for another large harvest from the region continued to weigh on prices."
+    },
     {
       "id": "5030038",
       "time": "2026-08-07 12:28:23",
