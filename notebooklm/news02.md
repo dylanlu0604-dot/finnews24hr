@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 04:53:33_
-_本檔包含 3393 則快訊，約 605072 字_
+_更新時間：2026-08-08 05:49:11_
+_本檔包含 3357 則快訊，約 603354 字_
+
+---
+
+### 2026-08-07 00:17:27  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
+
+US 30-Year Mortgage Rate Rises to 1-Year High — The average rate on a 30-year fixed mortgage in the US rose to 6.69% as of August 8, 2026, from 6.66% a week earlier, marking a fifth consecutive weekly increase and the highest level since late July 2025. Mortgage rates continued to climb as the war with Iran and the Federal Reserve's decision to keep interest rates unchanged fueled inflation concerns. The rise in borrowing costs has further strained affordability, keeping many prospective homebuyers on the sidelines. As a result, applications for new mortgages declined in the final two weeks of July, according to the Mortgage Bankers Association. Still, “While mortgage rates continue to influence affordability, the housing market is showing signs of adjustment, with listing prices modestly below year-ago levels and for-sale inventory improving from the limited supply seen in recent years.”, said Sam Khater, Freddie Mac's Chief Economist.
+
+---
+
+### 2026-08-07 00:14:53  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Advances as Luxury Stocks Gain — The CAC 40 rose 0.3% to close at 8,670 on Thursday, extending its winning streak to six sessions on gains in the luxury sector. Luxury stocks rose after strong quarterly results from Chanel. Hermès jumped 5.2% after being named a top sector pick by Berenberg. Kering rose 1.9%, while LVMH (+0.4%) and L'Oréal (+0.5%) also advanced. Meanwhile, private-sector payroll employment fell 0.1% quarter-on-quarter, or 19,300 jobs, to 21 million in the second quarter, in line with expectations. Signs of a cooling labor market could support a more dovish stance from the ECB. Financial stocks advanced, with BNP Paribas up 0.4% and AXA gaining 0.8%. Also, the Construction PMI rose to a five-month high of 41.5 in July 2026 from 38.2 in June. Vinci went up 0.6%, Bouygues gaining 0.8%, and Eiffage adding 0.5%. TotalEnergies gained 1% on higher oil prices, while Safran (-0.9%) and Airbus (-1.2%) weighed on the index. Unemployment and trade balance data will be released tomorrow.
+
+---
+
+### 2026-08-07 00:12:18  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.44% Higher — The FTSE MIB Index went up by 236 points or 0.44 percent on Thursday to close at 53683 points. The rise was led by Avio (5.67%), Banco BPM SPA (3.93%) and Leonardo SpA (2.14%). On the downside, the weakerst performers were Tenaris (-7.04%), Buzzi Unicem (-1.26%) and Snam (-0.77%).
+
+---
+
+### 2026-08-07 00:11:18  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.05% Higher — The DAX Index rose 14 points or 0.05 percent on Thursday to close at 26140 points. Leading the gains are Deutsche Telekom (6.31%), Henkel (3.92%) and Zalando (2.66%). Top losers were Scout24 (-6.81%), Siemens (-4.69%) and Rheinmetall (-4.32%).
+
+---
+
+### 2026-08-07 00:10:18  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.50% Higher — The CAC 40 Index gained 43 points or 0.50 percent on Thursday to close at 8713 points. Gains were led by Hermes International (5.90%), Orange (2.66%) and Publicis (2.28%). Biggest losers were Edenred (-1.33%), Airbus (-1.16%) and ArcelorMittal (-1.15%).
+
+---
+
+### 2026-08-07 00:08:22  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Inches Up — The FTSE MIB rose 0.5% to 53,683 on Thursday, as traders assessed consolidation prospects in the banking sector. Banco BPM jumped 3.9% following a better-than-expected quarterly report and signaling it would consider a tie-up with Credit Agricole. Barclays also reaffirmed its positive view on Banco BPM after the lender reported stronger-than-expected results. Meanwhile, BPER Banca (-0.8%) and Unipol (-0.8%) slipped, amid Intesa Sanpaolo's (0.5%) proposed acquisition of MPS (0.1%), under which MPS' insurance operations would be sold to Unipol, BPER's largest shareholder. Utilities were mixed as Italy was placed under its highest heat alert, boosting expectations for electricity demand. Hera added 0.5%, while Snam slipped 0.5%. Defense stocks outperformed, lifted by Avio (5.7%) and Leonardo (2%). Tenaris plunged 6.9% after reporting a 4% annual drop in second-quarter sales and warning that weak market conditions are expected to persist in the second half.
 
 ---
 
@@ -20199,257 +20235,5 @@ GENIUS SPORTS與KALSHI達成官方資料與營銷服務合作。
 ### 2026-08-05 20:08:37  #國際
 
 【印度22名兒童感染金迪普拉病毒死亡】印度西部古吉拉特邦近期暴發金迪普拉病毒感染疫情。印度媒體5日援引該邦衛生部門的資料包道，截至3日，當地累計報告184例疑似病例，其中35例病毒檢測呈陽性，22人死亡，7人病情危重。上述患者均為15歲以下兒童。（新華社）
-
----
-
-### 2026-08-05 20:08:27  #其他
-
-SOFI TECHNOLOGIES推出三隻來自CAZ INVESTMENTS和ANGELLIST ASSET MANAGEMENT的新私募市場基金。新基金提供對人工智慧、金融科技、醫療保健、國防及其他板塊的投資敞口。
-
----
-
-### 2026-08-05 20:07:11  #市場
-
-SHAKE SHACK股價盤前上漲約3%，此前公佈的二季度營收和利潤均超預期。
-
----
-
-### 2026-08-05 20:06:29  #其他
-
-【首尾差超20% 量化超額大分化】經過7月的市場考驗，量化私募分化顯著加劇。據渠道提供的最新資料，截至7月底，頭部量化私募近一個月（6月26日以來）的業績表現可謂“冰火兩重天”，部分量化選股策略回撤近30%，部分同策略產品則只有不到10%的調整。滬深300指數增強、中證500指數增強以及市場中性策略內部分化更為明顯，單一策略近一個月超額收益首尾差距甚至超過20%。（上海證券報）
-
----
-
-### 2026-08-05 20:05:49  #市場
-
-【Meta美股盤前漲超2%】Meta美股盤前漲超2%，現報599.742美元。
-
----
-
-### 2026-08-05 20:05:06  #MKT News #Important #DXY #Impact mixed #US10Y #S&P500
-
-US July ADP private payrolls due in 10 minutes.
-
----
-
-### 2026-08-05 20:04:45  #公司
-
-諾和諾德執行長：相較於注射劑，口服版 Wegovy 的市場需求之高，讓我們愈發感到意外。
-
----
-
-### 2026-08-05 20:04:14  #公司 #市場
-
-【五洋自控：股票交易異常波動 不存在應披露未披露重大事項】五洋自控公告稱，公司股票於2026年8月4日、5日連續兩個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經核查，除此前已披露的以6.81億元收購東莞市柯斯宇液冷技術有限公司51%股權、股東侯友夫等向時培培轉讓5.10%股份等事項外，公司、控股股東和實控人不存在應披露而未披露的重大事項，目前經營及內外部環境未變。公司2026年半年度報告預約8月22日披露。
-
----
-
-### 2026-08-05 20:04:13  #MKT News #AZN.O #BMY.N
-
-People familiar with the matter said AstraZeneca (AZN.O) and Bristol-Myers Squibb (BMY.N) have had no discussions about a potential deal.
-
----
-
-### 2026-08-05 20:03:59  #其他
-
-一位知情資深訊息人士稱，阿斯利康與百時美施貴寶“從始至終從未有過交易談判”。
-
----
-
-### 2026-08-05 20:03:52  #其他
-
-據知情高階訊息人士透露，阿斯利康與百時美施貴寶目前並未就潛在交易展開任何談判。
-
----
-
-### 2026-08-05 20:03:19  #MKT News #Market Themes #AI Revolution #CRWV.O #Impact bullish
-
-U.S. AI cloud-computing firm CoreWeave (CRWV.O) said an agreement with Solidigm will strengthen its integrated AI platform.
-
----
-
-### 2026-08-05 20:02:18  #國際
-
-【特朗普所乘直升機遭遇飛行安全事件】美國總統特朗普所乘直升機4日在華盛頓遭遇飛行安全事件。白宮表示該事件不涉及人身安全危險，不過美國聯邦航空局已經啟動調查。據《華爾街日報》、美國有線電視新聞網和路透社報道，特朗普4日下午乘坐“海軍陸戰隊一號”直升機從白宮外起飛，前往安德魯斯聯合基地，繼而換乘“空軍一號”專機前往洛杉磯。按照飛行安全規定，特朗普所乘直升機起飛前，距離白宮不遠的羅納德·里根華盛頓國家機場空管員應禁止其它飛機在附近飛行。然而，一架客機卻與特朗普座機幾乎同時起飛。（新華社）
-
----
-
-### 2026-08-05 20:02:02  #國際
-
-Strategy：為美國僱員名下每一名符合條件的18歲以下子女，每年向特朗普賬戶注資250美元。
-
----
-
-### 2026-08-05 20:01:37  #MKT News #Market Themes #AI Revolution #CRWV.O
-
-CoreWeave (CRWV.O), a US AI cloud computing firm, signed a multi-year agreement with data-storage solutions provider Solidigm.
-
----
-
-### 2026-08-05 20:01:33  #其他
-
-波羅的海乾散貨運價指數漲4.33%，至3063點。
-
----
-
-### 2026-08-05 20:01:33  #MKT News #Important #DSX.O #Impact bullish #NMM.O
-
-Baltic Dry Index (BDI) rose 4.33% to 3,063 points.
-
----
-
-### 2026-08-05 20:01:26  #其他
-
-CoreWeave稱達成協議，強化一體化人工智慧平臺。
-
----
-
-### 2026-08-05 20:00:48  #國際
-
-STRATEGY加入“投資美國商業承諾”計劃，向特朗普相關賬戶注資，助力員工子女的未來財務保障。
-
----
-
-### 2026-08-05 20:00:40  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D rose 2.51% to 904.0 yuan/gram at the start of the Aug. 5 evening session; silver T+D rose 2.52% to 15,100 yuan/kg.
-
----
-
-### 2026-08-05 20:00:23  #其他
-
-【湖北釋出黃色山洪災害氣象預警】湖北省防汛抗旱指揮部辦公室2026年8月5日20時釋出黃色山洪災害氣象預警。預計2026年8月5日20時至8月6日20時，下列地區存在山洪災害風險：黃色預警區域（山洪災害可能性較大）：十堰市（鄖西縣、竹山縣）。藍色預警區域（山洪災害可能發生）：十堰市（竹溪縣）、宜昌市（興山縣）。
-
----
-
-### 2026-08-05 20:00:14  #其他
-
-【糾治旅遊行業導遊亂象、強制消費！多個旅行社被點名】為深入推進“糾治旅遊行業導遊亂象、強制消費等問題”集中整治工作，文化和旅遊部聯合中央網信辦開展非法網路招徠專項整治，從嚴查處線上旅遊領域違法違規經營行為，全面清理非法網路招徠產品及相關資訊。為發揮典型案件示範作用，規範網路招徠行為，推進旅遊市場強迫購物問題線上線下同步治理，文化和旅遊部選取了部分地區文化和旅遊部門、文化市場綜合執法機構查處的典型案例，現予以公佈。（央視新聞）
-
----
-
-### 2026-08-05 19:58:55  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot silver climbed above $62/oz for the first time since July 7, rising 4.19% intraday.
-
----
-
-### 2026-08-05 19:58:54  #其他
-
-餘承東：鴻蒙智行首款科技豪華硬派SUV享界G9，今天正式開啟預訂！2小時預訂量5100臺。
-
----
-
-### 2026-08-05 19:58:49  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
-
-【U.S. 30-year mortgage rate rises to one-year high】Data released Wednesday showed the average U.S. 30-year fixed mortgage rate rose 5 bps in the week ended July 31 to 6.81%, a one-year high. The rate had fallen to a 2022-era low in late February before the Iran war broke out; subsequent conflict-driven energy price gains and higher inflation fears have pushed rates up. Mortgage demand weakened: MBA's purchase index fell 3.6% week-on-week to a five-month low, while the refinance index dropped 1.9% to its lowest since mid-2025.
-
----
-
-### 2026-08-05 19:58:40  #市場 #國際
-
-【美國30年期抵押貸款利率升至1年高位】美國抵押貸款利率上週升至一年來的最高水平，進一步抑制了本已低迷的住房市場中的購房貸款需求。週三公佈的資料顯示，截至7月31日當週，30年期固定抵押貸款利率上漲5個基點，升至6.81%。利率曾在2月底伊朗戰爭爆發前夕跌至2022年以來的最低水平。此後，隨著衝突推高能源價格並加劇通脹擔憂，利率持續上升。這一變化導致的結果是貸款需求走弱。MBA衡量貸款申請情況的購房貸款申請指數較前一週下降3.6%，降至五個月來的最低水平；再融資指數也下滑1.9%，跌至2025年年中以來最低水平。
-
----
-
-### 2026-08-05 19:58:25  #市場 #焦點
-
-現貨白銀突破62美元/盎司，日內漲4.20%。
-
----
-
-### 2026-08-05 19:58:15  #MKT News
-
-Novo Nordisk (NVO.N): US prices and sales volumes for Wegovy injections will show quarter-to-quarter fluctuations.
-
----
-
-### 2026-08-05 19:58:00  #國際
-
-諾和諾德表示：美國市場 Wegovy 注射劑的價量動態會出現逐季度波動。
-
----
-
-### 2026-08-05 19:57:57  #公司
-
-【鍇威特：擬發行股份及支付現金收購晶藝半導體100%股權，交易作價16.5億元】鍇威特公告，公司擬透過發行股份及支付現金方式向易坤、晶格共智等26名交易對方購買晶藝半導體有限公司100.00%股權，交易作價16.5億元。本次交易構成重大資產重組，不構成重組上市。募集配套資金總額不超過9.01億元，用於支付現金對價、中介費用及補充流動資金。標的資產採用市場法評估，評估值為16.5億元，增值率304.24%。
-
----
-
-### 2026-08-05 19:57:52  #國際
-
-訊息人士稱，訪問期間，伊朗外長計劃會見巴基斯坦陸軍參謀長、巴基斯坦總理以及副總理兼外交部長。
-
----
-
-### 2026-08-05 19:57:43  #MKT News
-
-Kenya seeks US$450 mln from the WBG to mitigate economic fallout from the Iran war.
-
----
-
-### 2026-08-05 19:57:27  #市場 #焦點
-
-現貨黃金突破4190美元/盎司，日內漲2.78%。
-
----
-
-### 2026-08-05 19:57:23  #國際
-
-肯亞尋求世界銀行提供4.5億美元資金，以抵消伊朗戰爭帶來的衝擊。
-
----
-
-### 2026-08-05 19:57:17  #市場 #焦點
-
-紐約期金突破4250美元/盎司，日內漲2.37%。
-
----
-
-### 2026-08-05 19:56:58  #MKT News
-
-MSCI Emerging Markets Currency Index rose to a record high.
-
----
-
-### 2026-08-05 19:56:28  #市場 #焦點
-
-明晟新興市場貨幣指數升至歷史新高。
-
----
-
-### 2026-08-05 19:56:24  #MKT News
-
-German state prosecutors said a drone discovered at Leipzig/Halle airport contained an explosive device and that their office has taken over the investigation.
-
----
-
-### 2026-08-05 19:56:11  #MKT News #Important
-
-【Guangdong first Chinese province to exceed 100 bln kWh in one month】Guangdong power grid reported July electricity consumption reached 100.8 bln kWh, the first Chinese province to top 100 bln kWh in a single month. Jan–Jul cumulative use was 572.3 bln kWh, up 7.67% YoY. Industrial demand was the main driver: secondary-sector consumption totaled 328.4 bln kWh, +7.84% YoY. High‑tech and equipment manufacturing power use rose 8.77% YoY; by subsector, auto manufacturing +18.32%, special equipment +14.48%, and computer/communications/other electronics +10.51%, signaling continued strength in high-end manufacturing.
-
----
-
-### 2026-08-05 19:55:52  #公司
-
-【皓元醫藥：擬暫緩一專案並變更2億元募集資金用途】皓元醫藥公告稱，為提高募集資金使用效率，公司決定暫緩高階醫藥中間體及原料藥CDMO產業化專案（一期）建設，將該專案擬投入募集資金由3.73億元調減至1.73億元。調減的2億元（佔實際募集資金淨額的24.64%）將借予重慶皓元，用於“皓元醫藥抗體偶聯藥物（ADC）CDMO基地專案 - 抗體制劑擴建專案”。該事項已透過董事會審議，尚需提交股東會、可轉債持有人會議審議。
-
----
-
-### 2026-08-05 19:55:35  #公司 #市場
-
-【折價接盤Situational Awareness持倉 助城堡旗艦基金扭轉平淡表現】城堡的旗艦基金7月上漲5.9%。此前，該公司從陷入困境的對沖基金Situational Awareness手中折價買入一批人工智慧股票。知情人士稱，在達成這筆交易前，肯·格里芬旗下城堡的Wellington基金截至7月24日當月僅上漲0.45%。因相關資訊未公開而要求匿名的知情人士稱，該交易還推動基金年初至今回報升至12%。上週，城堡以10%的折扣買下Situational Awareness公開市場股票組合的一部分。當時，這家由OpenAI前研究員Leopold Aschenbrenner創立的對沖基金正急於籌集現金，以應對其高度押注人工智慧的投資組合所面臨的追加保證金要求。
-
----
-
-### 2026-08-05 19:55:02  #其他
-
-德國警方稱機場發現的無人機搭載有爆炸裝置。
-
----
-
-### 2026-08-05 19:54:32  #公司 #市場 #觀點 #央行 #國際
-
-【貴金屬板塊大漲 上市公司盈利集體高增】8月5日，A股貴金屬板塊集體走高，行業指數上漲7.72%，四川黃金漲停，曉程科技上漲11.89%，中金黃金、赤峰黃金上漲超8%。訊息面上，貴金屬期貨主力合約大幅上漲，鉑上漲9.18%，鈀上漲8.51%，滬銀、滬金分別上漲7.08%、3.1%，漲幅在國內期貨中居前。海外貴金屬市場同步走高，截至發稿，倫敦金現貨再度突破4100美元/盎司，漲幅逾2%，倫敦銀現貨盤中一度上漲超4%。本輪貴金屬漲價主要受美元走弱、美聯儲加息預期降溫因素影響。美元指數近七個交易日下跌約1.6%，為以美元計價的貴金屬提供了額外支撐。中信證券研報認為，展望後市，預計霍爾木茲海峽局勢對黃金價格的影響將從壓制轉變為助推，美聯儲貨幣政策可能比市場預期更樂觀，疊加美國軍費暴漲推高赤字，預計年內黃金價格將回到上行通道。據證券時報·資料寶統計，目前A股中貴金屬板塊已有8只個股公佈半年度業績預告，按業績預告淨利潤下限計算，預計淨利潤增幅均在40%以上，行業景氣度持續向好。其中，招金黃金、西部黃金預計增幅超過200%。從資金面上來看，8月以來中金黃金、赤峰黃金、西部黃金、山東黃金4只貴金屬股獲融資淨買入，其中，中金黃金獲融資淨買入1.09億元居於首位。（證券時報）
 
 ---

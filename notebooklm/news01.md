@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 04:53:33_
-_本檔包含 3099 則快訊，約 604931 字_
+_更新時間：2026-08-08 05:49:11_
+_本檔包含 3120 則快訊，約 603638 字_
+
+---
+
+### 2026-08-08 05:47:20  #國際
+
+美國參議員沃倫敦促貨幣監理署撤銷聯合得克薩斯銀行的特許牌照。
+
+---
+
+### 2026-08-08 05:45:37  #國際
+
+美國參議員沃倫沃倫就聯合得克薩斯銀行相關決議向鮑曼、古爾德施壓。
+
+---
+
+### 2026-08-08 05:40:12  #央行 #國際
+
+【三菱日聯：建議做多澳元/日元 美聯儲加息押注降溫提振套息交易】三菱日聯分析師建議做多澳元兌日元，因干預帶來的影響正在消退，而交易員削減對美聯儲加息的押注改善了套息交易的環境。“我們預計澳元/日元將繼續收復因干預造成的跌幅，因為基本面尚未出現足以支撐日元持續升值的實質性變化，”MUFG分析師Derek Halpenny、Lee Hardman和Abdul-Ahad Lockhart在報告中寫道。他們將澳元/日元目標位設在114.50，止損位為109.20。“美國7月非農就業報告弱於預期，降低了市場對美聯儲進一步加息的預期，緩解了金融市場穩定面臨的一項主要風險，”他們表示，“因此，當前環境仍有利於套息交易，為澳元等高收益G10貨幣的需求提供支撐”。
+
+---
+
+### 2026-08-08 05:38:49  #公司 #國際
+
+市場訊息：雷神公司獲美國陸軍5.35億美元合同，生產陶式武器系統。
+
+---
+
+### 2026-08-08 05:38:40  #公司 #國際
+
+市場訊息：雷神公司從美國導彈防禦局獲得一份價值7.45億美元的合同。
+
+---
+
+### 2026-08-08 05:36:31  #其他
+
+【哥倫比亞新任總統德拉埃斯普列亞宣誓就職】當地時間8月7日，哥倫比亞當選總統阿韋拉多·德拉埃斯普列亞在該國第三大城市卡利宣誓就職，任期四年。阿韋拉多·德拉埃斯普列亞現年47歲，是哥倫比亞律師、企業家和右翼政治人物，長期活躍於公共事務領域。他此前在競選時主張以強硬手段打擊犯罪，推行自由市場經濟政策。（央視新聞）
+
+---
+
+### 2026-08-08 05:30:48  #市場
+
+巴西將於 8 月 10 日拍賣至多 5 萬份外匯互換合約。
+
+---
+
+### 2026-08-08 05:30:24  #其他
+
+哥倫比亞國會為德・拉・埃斯普列拉舉行總統就職宣誓。
+
+---
+
+### 2026-08-08 05:23:10  #觀點 #央行 #國際
+
+【大摩：預計美聯儲資產負債表將縮減1.5萬億美元】摩根士丹利經濟學家Seth Carpenter和Michael Gapen在報告中表示，該行的基準預測是，美聯儲將在大約兩年內把資產負債表規模縮減約1.5萬億美元，最早可能從2027年第一季度開始；合理的縮減區間為6,000億至2.5萬億美元。
+
+---
+
+### 2026-08-08 05:22:40  #其他
+
+DigitalBridge 投資的 Switch 計劃 11 月進行 IPO。
+
+---
+
+### 2026-08-08 05:22:31  #市場
+
+富時A50期指連續夜盤收漲0.23%，報15079點。
+
+---
+
+### 2026-08-08 05:22:10  #其他
+
+市場訊息：資料中心企業 Switch 據稱已秘密提交 IPO 申請。
+
+---
+
+### 2026-08-08 05:19:13  #公司
+
+南方天然氣公司削減 6 個管段輸送能力。
+
+---
+
+### 2026-08-08 05:15:59  #市場
+
+【離岸人民幣兌美元較週四紐約尾盤漲47點】週五（8月7日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7429元，較週四紐約尾盤漲47點，日內整體交投於6.75-6.7401元區間。
+
+---
+
+### 2026-08-08 05:12:31  #公司 #國際
+
+據稱日本能源巨頭ENEOS 將以 13 億美元企業價值收購 TPC 集團。
+
+---
+
+### 2026-08-08 05:11:22  #市場
+
+週五（8月7日）紐約尾盤，標普500股指期貨最終漲0.56%，道指期貨漲0.24%，納斯達克100股指期貨漲1.16%。羅素2000股指期貨漲1.07%。
+
+---
+
+### 2026-08-08 05:07:46  #國際
+
+美國俄勒岡州州長蒂娜·科特克表示：支援地方層面暫停資料中心開發專案，直至諮詢委員會的相關建議可供審議。
+
+---
+
+### 2026-08-08 05:05:02  #市場
+
+【國際貴金屬期貨普遍收漲 COMEX白銀期貨本週累漲超10%】國際貴金屬期貨普遍收漲，COMEX黃金期貨漲2.37%，報4401.3美元/盎司，本週累漲超7%；COMEX白銀期貨漲3.56%，報63.8美元/盎司，本週累漲超10%。
+
+---
+
+### 2026-08-08 05:03:19  #國際
+
+惠譽：我們預計伊朗戰爭將拖累科威特經濟活動，拖累主要來自石油產量下降。
+
+---
+
+### 2026-08-08 05:03:15  #國際
+
+本週美國股市市值增加 2.8 萬億美元。
+
+---
+
+### 2026-08-08 05:03:01  #國際
+
+惠譽評級：中東衝突將持續影響科威特的石油出口能力，原因在於科威特石油出口依賴霍爾木茲海峽。
+
+---
+
+### 2026-08-08 05:01:50  #其他
+
+惠譽確認科威特評級為 AA‑；展望穩定。
+
+---
+
+### 2026-08-08 05:00:37  #其他
+
+盧卡拉鑽石二季度營收 4100 萬美元，同比下降 6.2%。
+
+---
+
+### 2026-08-08 04:59:27  #其他
+
+【FOF迎來發行大年 年內首募規模已超1300億元】FOF迎來前所未有的發行大年。截至8月上旬，FOF年內的新發規模已超過1300億元，創出單年度FOF募資歷史新高。然而，FOF發行火熱的背後，行業卻在上演結構性分化：新品募資如火如荼，存量FOF卻遭遇贖回與清盤的困境。
+
+---
+
+### 2026-08-08 04:59:08  #市場 #國際
+
+【國際金價在非農日漲約2.4%，本週累漲約7.3%】週五（8月7日）紐約尾盤，現貨黃金漲2.37%，報4339.75美元/盎司，亞太盤初以來平滑地持續走高、北京時間20:30釋出美國非農就業資料時加速上漲——從4320美元下方拉昇至4360美元一線，本週累計上漲7.27%，8月3-4日持平於4050美元附近、5-7日持續上揚。本週，COMEX黃金期貨累漲7.16%，報4400.70美元/盎司。現貨白銀漲3.11%，報63.4555美元/盎司，本週累漲10.29%，整體持續走高。COMEX白銀期貨累漲10.29%，報63.720美元/盎司。COMEX銅期貨跌1.83%，報6.586美元/磅，本週累漲1.85%，8月6日歐市早盤曾達到6.8665美元。現貨鉑金漲1.33%，報1749.38美元/盎司，本週累漲6.14%；現貨鈀金漲0.64%，報1382.91美元/盎司，本週累漲7.37%。本週，在美股時段交易的費城金銀指數累漲19.70%，報368.56點，整體持續走高。在全球市場全天交易的紐約證交所ARCA金礦開採商指數累漲20.16%，報2570.44點，整體持續走高。在美股時段交易的原材料指數累漲7.44%，報249.68點。在美股時段交易的金屬與礦業指數累漲7.98%，報295.29點。
+
+---
+
+### 2026-08-08 04:56:43  #市場 #央行 #國際
+
+【美日聯手干預見效 對沖基金大幅削減日元空倉】美國和日本當局協同出手穩定了日元后，對沖基金大幅減少了做空押注。商品期貨交易委員會週五公佈的資料顯示，截至8月4日，期貨和期權市場的槓桿基金將日元淨空頭頭寸削減了約一半至6.36萬份合約。這意味著空倉和6月底相比出現了大幅回撤，當時押注日元進一步貶值的倉位激增至近13.8萬份合約，達到2007年以來之最。在美日利差擴大的影響下，日元一度跌至1986年以來的最低水平，刺激投機者加大了做空力度。美日兩國政府聯手干預後交易員開始減少空倉，日元也迎來反彈。儘管日本央行維持基準利率不變，但隔夜指數互換顯示其9月加息的機率約在60%。美國週五公佈的不及預期非農就業資料也令美元承壓，降低了市場對美聯儲收緊貨幣政策的押注。交易員目前認為美國央行下個月上調利率的機率約為40%，遠低於報告發布前的60%左右。
+
+---
+
+### 2026-08-08 04:53:45  #國際
+
+特朗普：希望參議院能夠透過《保護大學體育法案》。
 
 ---
 
@@ -18660,41 +18822,5 @@ Lumber Nears 3-Month Low — Lumber prices fell below $580 per thousand board fe
 ### 2026-08-07 00:30:15  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
 
 European Stocks Close at Records — European stocks closed slightly higher on Thursday amid support from strong earnings reports and a rebound for the tech sector. The Euro STOXX 50 added 0.4% to 6,503 and the STOXX Europe 600 added 0.2% to 658, both at record highs. Deutsche Telekom surged 6.3% after delivering strong earnings, raising its guidance, and lifting its share buyback to $3.5 billion. On top of that, Hermes advanced 5.1% after receiving an upgrade from Berenberg. Meanwhile, ASML and Siemens Energy gained 2% each amid a rebound for companies with exposure to AI infrastructure in Europe. In the meantime, Rheinmetall fell 3.5% after it revised its outlook downwards, which reflected the impact of a German government order cancellation earlier this year. Also, Siemens dropped 4.5% as its quarterly results missed the upper range of estimates, even though the company reported record industrial profit and a record level of new orders.
-
----
-
-### 2026-08-07 00:17:27  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
-
-US 30-Year Mortgage Rate Rises to 1-Year High — The average rate on a 30-year fixed mortgage in the US rose to 6.69% as of August 8, 2026, from 6.66% a week earlier, marking a fifth consecutive weekly increase and the highest level since late July 2025. Mortgage rates continued to climb as the war with Iran and the Federal Reserve's decision to keep interest rates unchanged fueled inflation concerns. The rise in borrowing costs has further strained affordability, keeping many prospective homebuyers on the sidelines. As a result, applications for new mortgages declined in the final two weeks of July, according to the Mortgage Bankers Association. Still, “While mortgage rates continue to influence affordability, the housing market is showing signs of adjustment, with listing prices modestly below year-ago levels and for-sale inventory improving from the limited supply seen in recent years.”, said Sam Khater, Freddie Mac's Chief Economist.
-
----
-
-### 2026-08-07 00:14:53  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Advances as Luxury Stocks Gain — The CAC 40 rose 0.3% to close at 8,670 on Thursday, extending its winning streak to six sessions on gains in the luxury sector. Luxury stocks rose after strong quarterly results from Chanel. Hermès jumped 5.2% after being named a top sector pick by Berenberg. Kering rose 1.9%, while LVMH (+0.4%) and L'Oréal (+0.5%) also advanced. Meanwhile, private-sector payroll employment fell 0.1% quarter-on-quarter, or 19,300 jobs, to 21 million in the second quarter, in line with expectations. Signs of a cooling labor market could support a more dovish stance from the ECB. Financial stocks advanced, with BNP Paribas up 0.4% and AXA gaining 0.8%. Also, the Construction PMI rose to a five-month high of 41.5 in July 2026 from 38.2 in June. Vinci went up 0.6%, Bouygues gaining 0.8%, and Eiffage adding 0.5%. TotalEnergies gained 1% on higher oil prices, while Safran (-0.9%) and Airbus (-1.2%) weighed on the index. Unemployment and trade balance data will be released tomorrow.
-
----
-
-### 2026-08-07 00:12:18  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.44% Higher — The FTSE MIB Index went up by 236 points or 0.44 percent on Thursday to close at 53683 points. The rise was led by Avio (5.67%), Banco BPM SPA (3.93%) and Leonardo SpA (2.14%). On the downside, the weakerst performers were Tenaris (-7.04%), Buzzi Unicem (-1.26%) and Snam (-0.77%).
-
----
-
-### 2026-08-07 00:11:18  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.05% Higher — The DAX Index rose 14 points or 0.05 percent on Thursday to close at 26140 points. Leading the gains are Deutsche Telekom (6.31%), Henkel (3.92%) and Zalando (2.66%). Top losers were Scout24 (-6.81%), Siemens (-4.69%) and Rheinmetall (-4.32%).
-
----
-
-### 2026-08-07 00:10:18  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.50% Higher — The CAC 40 Index gained 43 points or 0.50 percent on Thursday to close at 8713 points. Gains were led by Hermes International (5.90%), Orange (2.66%) and Publicis (2.28%). Biggest losers were Edenred (-1.33%), Airbus (-1.16%) and ArcelorMittal (-1.15%).
-
----
-
-### 2026-08-07 00:08:22  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Inches Up — The FTSE MIB rose 0.5% to 53,683 on Thursday, as traders assessed consolidation prospects in the banking sector. Banco BPM jumped 3.9% following a better-than-expected quarterly report and signaling it would consider a tie-up with Credit Agricole. Barclays also reaffirmed its positive view on Banco BPM after the lender reported stronger-than-expected results. Meanwhile, BPER Banca (-0.8%) and Unipol (-0.8%) slipped, amid Intesa Sanpaolo's (0.5%) proposed acquisition of MPS (0.1%), under which MPS' insurance operations would be sold to Unipol, BPER's largest shareholder. Utilities were mixed as Italy was placed under its highest heat alert, boosting expectations for electricity demand. Hera added 0.5%, while Snam slipped 0.5%. Defense stocks outperformed, lifted by Avio (5.7%) and Leonardo (2%). Tenaris plunged 6.9% after reporting a 4% annual drop in second-quarter sales and warning that weak market conditions are expected to persist in the second half.
 
 ---
