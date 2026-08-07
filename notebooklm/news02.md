@@ -1,7 +1,415 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 03:10:55_
-_本檔包含 3383 則快訊，約 605896 字_
+_更新時間：2026-08-08 03:54:24_
+_本檔包含 3367 則快訊，約 606230 字_
+
+---
+
+### 2026-08-06 23:29:21  #其他
+
+南美足聯在宣告中稱，對國際足聯 “一再採取單邊行動表示關切”。
+
+---
+
+### 2026-08-06 23:29:17  #Trading Economics #Markets #commodity #Importance 0
+
+Wheat Hits 4-week Low — Wheat decreased to 631.00 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Wheat gained 3.6%, and in the last 12 months, it increased 21.79%.
+
+---
+
+### 2026-08-06 23:29:15  #國際
+
+美國參議員蘭德·保羅表示，在藐視國會投票後，他將把安東尼·福奇提交給司法部處理。
+
+---
+
+### 2026-08-06 23:26:23  #市場
+
+彭博美元現貨指數上漲 0.2%，油價走高。
+
+---
+
+### 2026-08-06 23:25:35  #其他
+
+【德國電網融資體系大改：可再生能源專案將首次承擔費用】德國著手全面改革其不堪重負的電網融資體系，擬降低工商業使用者用電成本，同時首次要求可再生能源發電方承擔電網費用。 德國聯邦網路管理局週四公佈了改革方案草案，擬對風電場和光伏電站徵收一次性併網費，並自2029年起按每千瓦4至7歐元的標準收取年度費用。此舉不僅旨在更均衡地分攤成本負擔，也意在更好地匹配電力供需，以緩解長期存在的電網擁堵問題。
+
+---
+
+### 2026-08-06 23:24:06  #MKT News #Important #USDJPY #Impact bullish
+
+USD/JPY intraday gain widened to 0.5%, the largest since July 31.
+
+---
+
+### 2026-08-06 23:23:59  #公司 #國際
+
+美國APA公司（阿帕奇石油）在電話會議上表示，下一口勘探井預計將於2027年開鑽，此前預期為2026年第四季度。
+
+---
+
+### 2026-08-06 23:22:58  #其他
+
+日元跌幅擴大至 0.5%，創 7 月 31 日以來最弱水平。
+
+---
+
+### 2026-08-06 23:22:41  #國際
+
+市場訊息：美國聯邦通訊委員會投票決定廢除一項規則，該規則禁止地方廣播電視臺所有者的覆蓋範圍超過全美電視使用者總戶數的39%。
+
+---
+
+### 2026-08-06 23:22:13  #國際
+
+切尼爾能源首席商務官阿納托爾·費金表示，即使中東天然氣供應立即恢復，歐洲今年冬季初的液化天然氣庫存也將低於去年同期水平。
+
+---
+
+### 2026-08-06 23:22:04  #國際
+
+切尼爾能源首席商務官阿納托爾·費金表示，受日韓基準價(JKM)溢價推動，第二季度美國對亞洲液化天然氣出口量達到創紀錄的1100萬噸。
+
+---
+
+### 2026-08-06 23:21:36  #其他
+
+巴西國家石油局：巴西第 4 輪產量分成招標週期包含 13 個油氣區塊。
+
+---
+
+### 2026-08-06 23:20:17  #其他
+
+巴西國家石油局：巴西第 6 輪特許經營權拍賣將涵蓋 22 個區塊。
+
+---
+
+### 2026-08-06 23:20:11  #國際
+
+以色列海軍方面訊息稱，其本週開展大規模軍事演習，參演力量包括軍艦艦隊、潛艇艦隊以及邊境安保部隊。
+
+---
+
+### 2026-08-06 23:19:13  #其他
+
+巴西國家石油局公佈特許經營及產量分成招標輪次的油氣區塊。
+
+---
+
+### 2026-08-06 23:18:54  #其他
+
+瓜地馬拉 6 月經濟活動同比增長 4.2%。
+
+---
+
+### 2026-08-06 23:18:25  #其他
+
+投行蒙尼斯·克雷西·哈特將Datadog目標股價從270美元上調至280美元。
+
+---
+
+### 2026-08-06 23:18:17  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude touched $76.00/bbl, up 2.26% intraday. Brent crude rose $0.40 to $81.64/bbl.
+
+---
+
+### 2026-08-06 23:18:01  #國際
+
+美國國家運輸安全委員會：調查 8 月 4 日 “海軍一號” 與民航客機相關事件。
+
+---
+
+### 2026-08-06 23:17:43  #國際
+
+根據該方案，駛入海峽的船隻將使用距離伊朗最近的航道，駛出海峽的船隻則使用距離阿曼最近的航道。地區各方也可參與掃雷以及其他必要技術作業。
+
+---
+
+### 2026-08-06 23:17:38  #國際
+
+訊息人士稱，伊朗和阿曼擬議協議有效期為 60 天，旨在恢復海上通航、打破當前僵局並啟動技術性談判。該協議仍需獲得伊朗最高國家安全委員會批准。
+
+---
+
+### 2026-08-06 23:17:23  #公司 #國際
+
+一位高層訊息人士稱，伊朗與阿曼已就重啟霍爾木茲海峽通航達成框架方案，相關公告有望於數日內釋出。
+
+---
+
+### 2026-08-06 23:17:22  #市場 #焦點
+
+WTI原油突破77美元/桶，日內漲2.38%。
+
+---
+
+### 2026-08-06 23:15:59  #其他
+
+英國民航局正與易捷航空交易的相關各方展開磋商，所有各方均知曉監管要求。
+
+---
+
+### 2026-08-06 23:14:47  #Trading Economics #Markets #commodity #Importance 0
+
+Sugar Hits 4-week High — Sugar increased to 15.34 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Sugar gained 1.24%, and in the last 12 months, it decreased 4.26%.
+
+---
+
+### 2026-08-06 23:14:14  #其他
+
+高知特：GLOB.AI 可提供企業級 AI 算力叢集訪問能力。
+
+---
+
+### 2026-08-06 23:12:10  #其他
+
+英國民用航空管理局：已就易捷航空的交易與相關各方進行接洽，相關各方已知曉監管要求。
+
+---
+
+### 2026-08-06 23:11:34  #公司
+
+英國民用航空管理局：“我們已瞭解到，阿波羅向易捷航空英國分公司發出了收購要約。”
+
+---
+
+### 2026-08-06 23:09:50  #公司 #國際
+
+切尼爾能源總裁傑克·富斯科在第二季度財報電話會議上表示，伊朗戰爭凸顯了供應安全和多元化的必要性。
+
+---
+
+### 2026-08-06 23:09:22  #宏觀 #公司 #市場 #國際
+
+【韓國請求英國對俄液化天然氣相關制裁給予豁免】韓國通商部長官週四表示，鑑於韓國能源安全存在隱憂，已向新任英國貿易大臣提出請求，希望英國即將出臺的制裁措施對韓國進口俄羅斯液化天然氣（LNG）予以豁免。 韓國產業部稱，如果無法獲得豁免，韓國國營企業韓國天然氣公司（KOGAS）自俄羅斯太平洋沿岸薩哈林2號油氣專案採購液化天然氣的業務將遭遇中斷。該企業持有長期採購合同，合約有效期持續至2028年3月。
+
+---
+
+### 2026-08-06 23:07:42  #公司 #國際
+
+西門子能源印度公司6月季度運營收入248.6億盧比。
+
+---
+
+### 2026-08-06 23:05:02  #國際
+
+美國聯邦通訊委員會啟動通用服務基金管理工作審查。
+
+---
+
+### 2026-08-06 23:04:48  #MKT News
+
+【Zelensky dismisses Ukraine ambassadors to Croatia, Albania, Montenegro and Pakistan】Ukraine’s presidential office said on the 6th that President Zelensky signed decrees dismissing the country’s ambassadors to Croatia, Albania, Montenegro and Pakistan.
+
+---
+
+### 2026-08-06 23:04:19  #國際
+
+【澤連斯基解除多名烏克蘭駐外大使職務】當地時間6日，烏克蘭總統府官網釋出訊息稱，烏總統澤連斯基已簽署多項總統令，正式解除烏克蘭駐克羅埃西亞、阿爾巴尼亞、黑山、巴基斯坦四國大使的職務。（央視新聞）
+
+---
+
+### 2026-08-06 23:04:11  #公司 #國際
+
+訊息人士週四透露，LG集團會長具光謨將於下週在美國會晤英偉達執行長黃仁勳，推進雙方在人工智慧基礎設施以及機器人領域的合作。
+
+---
+
+### 2026-08-06 23:03:37  #公司 #市場 #國際
+
+【西部資料跌幅從22%收窄至10%】西部資料跌幅收窄至10%，盤初一度大跌超22%。週三美股盤後，美國儲存龍頭西部資料公佈了截止7月3日的2026財年第四季度財報。受儲存產品需求持續旺盛推動，公司當季營收、利潤雙雙超預期，淨利潤同比增長逾12倍。財報顯示，西部資料第四財季營收為37.5億美元，同比增長44%，市場預期為36.92億美元，上年同期為26.05億美元。
+
+---
+
+### 2026-08-06 23:02:35  #國際
+
+【以軍稱打擊黎南部真主黨目標】以色列國防軍6日發表宣告說，以軍在過去24小時內對黎巴嫩南部的真主黨目標實施了打擊。宣告稱，以軍打擊目標包括黎南部多個地區的真主黨基礎設施、武器儲存設施和軍事指揮中心等。宣告說，5日，一名以軍預備役少校和一名預備役軍士長在黎南部地區一起爆炸事件中死亡，另有4名以軍士兵受重傷。以軍過去24小時對黎南部真主黨目標的打擊是對該事件的回應。宣告還說，以軍部隊目前仍根據相關協議部署在黎南部“安全區”，並將繼續採取行動，消除針對以色列平民和以軍士兵的威脅。（新華社）
+
+---
+
+### 2026-08-06 23:01:48  #其他
+
+沃爾瑪：發生兒童被撞擊事故後，正對履約配送手推車開展方案測試調整。
+
+---
+
+### 2026-08-06 23:01:26  #國際
+
+【美AI資料中心耗水激增引發民眾擔憂】為鞏固人工智慧領域競爭優勢，美國政商界持續加碼各地資料中心的新建和擴建專案。但支撐AI算力的海量伺服器，不僅耗電，還會耗費大量的水資源，尤其是大量新增資料中心偏偏選址在缺水區域，引發美國民眾的質疑與反對。（CCTV國際時訊）
+
+---
+
+### 2026-08-06 23:00:14  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Increases by 0.80% — Top currency gainers are Brazilian Real (0.80%) and Dollar Index (0.17%). Biggest losers are Swiss Franc (-0.38%), Japanese Yen (-0.29%) and Euro (-0.16%). Meanwhile British Pound was little changed.
+
+---
+
+### 2026-08-06 23:00:02  #市場
+
+【夜盤期貨收盤】焦炭連續漲2.48%，瀝青連續漲2.26%，乙二醇連續漲1.92%，豆一連續漲1.76%，PTA連續漲1.55%。
+
+---
+
+### 2026-08-06 22:59:25  #Trading Economics #Markets #Commodity #Importance 0
+
+Cocoa Futures Hover Near 1-Month High — Cocoa prices traded around $5,800 per tonne, close to their highest in nearly a month, influenced by crop forecasts and ongoing climate risks. Supply concerns have intensified in the key producing region of West Africa after Ghana's cocoa regulator COCOBOD projected a decline of at least 16% in 2026/27 cocoa production due to unfavorable weather, disease, ageing plantations, illegal mining, and the crop's natural yield cycle. Expectations of a more than 10% drop in Ivory Coast's output next season, along with the risk of excessive rainfall boosting disease pressure, further supported prices. Additionally, concerns mounted that Ecuador, Peru and Southeast Asia could together produce 100,000 tons less cocoa.
+
+---
+
+### 2026-08-06 22:58:02  #國際
+
+【黎巴嫩與以色列第七輪會談結束】總檯記者當地時間8月6日獲悉，黎巴嫩與以色列第七輪會談結束。在義大利羅馬舉行的黎以談判6日進入第三天。此前，雙方已在美國駐義大利大使館進行了為期兩天的密集磋商。（央視新聞）
+
+---
+
+### 2026-08-06 22:57:58  #其他
+
+法國巴黎銀行將西部資料目標價由660美元上調至700美元。
+
+---
+
+### 2026-08-06 22:57:31  #MKT News #WDC.O #Impact bullish
+
+BNP Paribas raises PT on WESTERN DIGITAL CORP (WDC.O) to $700 from $660.
+
+---
+
+### 2026-08-06 22:57:26  #國際
+
+訊息人士稱，俄羅斯7月原油和凝析油產量較6月增加約10萬桶/日，至超過900萬桶/日。
+
+---
+
+### 2026-08-06 22:56:47  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Sources said Russia's July crude and condensate output rose by about 100,000 b/d from June to just over 9.0 mln b/d.
+
+---
+
+### 2026-08-06 22:55:47  #國際
+
+【法國衛生部通報一例安第斯型漢坦病毒輸入病例】法國衛生部通報，一名7月下旬曾到訪法國的遊客被確診感染安第斯型漢坦病毒。患者目前已返回西班牙，正與家人一同接受隔離。法國國家漢坦病毒參考中心當天確認，其感染毒株為安第斯型。法國衛生部表示，患者症狀輕微，現已無症狀。有關部門已啟動流行病學調查，追蹤患者在法旅行軌跡，並採取相應防控措施。法國衛生部當天召集專家組，與法國衛生總局、法國公共衛生署共同評估該輸入病例的風險及後續應對措施，並表示已啟動歐洲層面的協調機制。（央視新聞）
+
+---
+
+### 2026-08-06 22:54:49  #其他
+
+【軟體股美股早盤普遍下挫，投資者關注Datadog、Figma等公司的業績】北美科技軟體股指數ETF跌幅收窄至1.9%，暫報99.39美元，美股盤初曾跌至97.61美元（跌幅超過3.65%）。個股中，Datadog目前跌14.6%報241.71美元、一度跌至225.26美元；HubSpot跌19.9%暫報200.38美元、一度跌至185.05美元；Figma跌17.4%暫報23.25美元、一度跌至22.14美元；Salesforce跌4.1%暫報185美元、一度跌至183美元；ServiceNOW跌2%暫報114.85美元、一度走弱至111.80美元；MongoDB跌0.8%暫報373.45美元、一度跌至355美元；Atlassian Corporation跌3.6%暫報109.22美元、一度走弱至107.69美元；Cloudflare Inc.跌0.9%暫報290.18美元、一度跌至280.13美元。Snowflake漲1.2%暫報320.57美元、一度跌至304.39美元。
+
+---
+
+### 2026-08-06 22:54:43  #其他
+
+【胡塞稱打擊沙特在葉門多地軍事部署】葉門胡塞武裝今天（8月6日）發表宣告稱，其武裝力量針對沙特在葉門多地的“大規模集結目標”實施了打擊，行動中使用了多枚彈道導彈和無人機。宣告稱，此次行動旨在打擊沙特方面準備對胡塞武裝控制區發起升級行動的軍事集結，造成大量“親沙特武裝人員”死傷，摧毀了多處軍事營地、武器庫及軍事裝備，擊毀大量軍用車輛。宣告警告沙特方面不要採取進一步軍事行動，“否則將承擔由此產生的後果”，同時呼籲為沙特方面作戰的葉門人員撤離相關軍事營地。宣告還表示，胡塞武裝已做好應對任何軍事升級的準備，將繼續堅持所謂“以封鎖回應封鎖”的行動方針，直至解除對葉門的封鎖。（CCTV國際時訊）
+
+---
+
+### 2026-08-06 22:54:15  #市場
+
+日元兌美元下跌0.3%，報158.29，為當日最低點。
+
+---
+
+### 2026-08-06 22:53:52  #其他
+
+英國藥品和醫療產品監管局（MHRA）批准雷米布替尼（remibrutinib）用於治療成人慢性自發性蕁麻疹。
+
+---
+
+### 2026-08-06 22:51:56  #公司 #國際
+
+【內地零售物業表現突出，太古地產上半年股東應占基本溢利同比增加11%】伴隨著內地消費市場持續修復，太古地產（HK01972，股價23.00港元，市值1324億港元）旗下內地零售物業租金收入規模已超過香港寫字樓組合，成為這家香港老牌商業地產企業最強勁的收入支柱。8月6日，太古地產釋出的2026年中期業績公告（以下簡稱業績公告）顯示，今年上半年，公司實現收入94.13億港元，同比增長8%；股東應占基本溢利49億港元，同比增長11%，主要反映出售深水灣道6號兩座獨立屋所得溢利，惟部分被2025年上半年出售美國邁阿密Brickell City Centre商場及毗鄰土地的權益所確認的非經常性溢利抵銷；股東應占經常性基本溢利46.61億港元，同比增長36%。分業務來看，包括租金和屋苑管理費在內的物業投資業務，仍是太古地產的收入支柱。太古地產業績公告顯示，今年上半年，物業投資業務貢獻了66.93億港元的營收，物業買賣業務貢獻了22億港元的營收，酒店業務則是貢獻了5.2億港元的營收。太古地產這三大業務板塊在今年上半年均實現同比增長。（每經）
+
+---
+
+### 2026-08-06 22:50:24  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+【Shenzhen Shuibei wholesale gold up ~50 yuan in two days as buyer mix shifts】Spot gold climbed, briefly topping $4,300/oz intraday to a seven-week high; futures extended recent gains. The rise transmitted to China’s retail market: Shenzhen Shuibei wholesale quotes for 999 fine-gold jewelry are around 1,100 yuan/gram, about 50 yuan higher than two days ago. Buying patterns have shifted from the year‑start panic buying — investors are broadly more cautious; demand is now concentrated in wedding-related and value-preservation purchases. Gold recycling and trade‑in activity is uneven across the market.
+
+---
+
+### 2026-08-06 22:47:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Arabica Coffee Futures Settle Below $3.1 — Arabica coffee futures have fluctuated in recent weeks, before consolidating below $3.10 per pound to their lowest level in a month. Still, the market continued to be supported by tight supplies, uncertainty over the quality of Brazil's harvest, coffee growers' reluctance to sell, and weather-related risks associated with El Niño. Although a record Brazilian harvest of more than 70 million bags is expected this season, the balance between supply and demand remains tight, particularly in the higher-quality. Traders remain concerned that rains in key producing regions, including Minas Gerais and São Paulo, during June and July, may have affected the quality of part of the crop. ICE arabica coffee fell to a 2.5-year low of 251,417 bags as of August 7, down sharply from the 754,516 bags last year. At the same time, Brazilian producers continue to sell gradually, limiting immediate coffee availability. Meanwhile, the developing "super" El Niño remains a key risk to next year's harvest.
+
+---
+
+### 2026-08-06 22:46:14  #公司
+
+【利雅得航空與中國航信簽署合作協議加強互聯互通】沙特利雅得航空公司6日宣佈，該公司與中國民航資訊網路股份有限公司（中國航信）近日簽署分銷合作協議，以進一步深化合作，加強沙特與中國之間的航空互聯互通。 根據協議，雙方將圍繞全渠道分銷、現代航空零售、數字化創新及未來旅客體驗等領域開展合作。此協議還支援利雅得航空持續拓展包括中國在內的國際航線網路。 利雅得航空首席商務官文森特·科斯特表示：“中國是利雅得航空最具戰略意義的增長市場之一。此次合作將為旅客帶來更加個性化、無縫銜接的預訂體驗。” 中國航信董事長江波表示，期待雙方深化合作，協同共建數字生態系統，共同推動航空新零售與新分銷模式的發展。(新華社)
+
+---
+
+### 2026-08-06 22:46:09  #市場
+
+【水貝金價兩天漲了近50元】6日，國際金價持續上漲，現貨黃金盤中一度突破每盎司4300美元關口，創下七週以來新高。黃金期貨價格也延續此前幾個交易日的漲勢。金價波動直接傳導至國內黃金消費市場，深圳水貝黃金市場的批發報價這兩天也應聲上調。央視財經記者8月6日下午在深圳水貝市場看到，足金999首飾金的批發報價在1100元/克左右，比兩天前上漲了近50元。記者瞭解到，與年初掀起的搶購潮相比，當下消費者的購金邏輯正在發生明顯變化。面對金價波動，投資客普遍趨於保守，而婚慶剛需和保值型消費成為市場主力。與此同時，黃金回收和以舊換新業務呈現出明顯的“冷熱不均”。 （央視財經）
+
+---
+
+### 2026-08-06 22:44:18  #其他
+
+【義大利首次對全部監測城市釋出高溫紅色預警】據義大利安莎社報道，受持續熱浪影響，義大利衛生部納入高溫監測的全國27座主要城市6日全部處於最高等級的紅色預警狀態。這是義大利首次對全部監測城市釋出高溫紅色預警。 義大利衛生部表示，紅色預警意味著持續的高溫緊急狀態，不僅會對老年人、慢性病患者等脆弱群體的健康構成威脅，也可能對健康人群造成影響。 義大利氣象部門預計，本輪高溫天氣仍將持續至少10天，部分地區最高氣溫將達到40攝氏度。義大利衛生部發布的預警資訊顯示，除義大利北部城市博爾扎諾外，其他主要城市預計7日仍將處於紅色預警狀態。 安莎社的報道說，義大利正處於今年夏季以來的第四輪大範圍熱浪。持續高溫已造成多人死亡。高溫疊加乾旱和野火對經濟活動造成衝擊，農業受到的影響尤為明顯。 世界自然基金會5日釋出的一份報告顯示，今年夏季以來，義大利野火的過火面積已達約7萬公頃。(新華社)
+
+---
+
+### 2026-08-06 22:43:08  #公司
+
+【葉門胡塞武裝襲擊致35名政府軍士兵死亡】葉門政府軍6日稱，葉門胡塞武裝當天襲擊該國東部馬裡卜省和哈德拉毛省的政府軍軍營和陣地，造成至少35名政府軍士兵死亡、數十人受傷。 一名不願透露姓名的官員說，葉門胡塞武裝在襲擊中使用了無人機、彈道導彈等。部分傷者情況危急，死亡人數可能進一步上升。 葉門緊急部隊表示，襲擊發生在政府軍對該地區的犯罪網路和走私集團採取安全行動後。 葉門胡塞武裝尚未對襲擊事件發表評論。 馬裡卜省是政府軍的關鍵據點，也是葉門主要的石油和天然氣生產地。葉門胡塞武裝曾多次試圖向該省首府推進，並曾與政府軍在此激烈交戰。(新華社)
+
+---
+
+### 2026-08-06 22:41:09  #公司 #市場 #國際
+
+【瑞銀：美國中型銀行股估值仍有20%上調空間】瑞銀集團最新研報指出，儘管市場存在“銀行股見頂”的擔憂，但在有利的宏觀背景及行業整合預期下，美國中型銀行股仍具備顯著的上漲潛力。分析師蒂穆爾·布拉齊勒（Timur Braziler）在報告中強調，當前銀行業正處於幾十年來最佳的經營環境之中，“儘管存在‘銀行峰值’的擔憂，但我們預計，下半年穩健的業績（得益於季節性存款增長和貸款增速放緩）、有吸引力的相對價值以及併購活動的回升，將使該集團的估值繼續上調20%。”
+
+---
+
+### 2026-08-06 22:40:28  #公司
+
+【第八代五糧液批價上漲超百元，已有酒商缺貨並暫停報價】有市場訊息稱，多地五糧液經銷商宣佈第八代五糧液價格上漲，整箱批價上漲超百元，單瓶上漲30元。截至晚間，有酒商單箱批發價格報價對比上週上漲了130元。該酒商向《酒業內參》表示已經出現缺貨情況。同時，也由於價格上漲過快，酒商已經暫停報價：“明天統一按行情報，現在不出貨了。”五糧液對此暫無回應。（酒業內參）
+
+---
+
+### 2026-08-06 22:39:47  #MKT News
+
+A Republican U.S. senator has proposed repealing California's motor-vehicle emissions regulations.
+
+---
+
+### 2026-08-06 22:39:15  #宏觀
+
+【安徽市場監管2025年以來減、免罰案件超3萬件】記者6日在安徽省市場監督管理局召開的新聞釋出會上獲悉，安徽在全國率先制定《市場監管服務型執法工作規範》省級地方標準，積極構建柔性執法新模式，2025年以來全系統累計查辦案件9.51萬件，同步辦理減、免罰案件3.37萬件，實現執法力度與民生溫度有機統一。(新華社)
+
+---
+
+### 2026-08-06 22:38:47  #央行 #國際
+
+【白宮：特朗普有權按公民身份達對美聯儲的看法，“三軍統帥”也有這樣的責任】據知情人士透露，自凱文·沃什出任美聯儲主席以來，美國總統特朗普不時與他通電話。特朗普會詢問沃什的預測和看法，但沒有要求他採取任何具體行動。這是特朗普試圖對美聯儲施加更大影響力的最新跡象。“特朗普總統一再強調，他正給予沃什主席恢復美聯儲決策公信力和專業能力所需的空間，”白宮發言人Kush Desai在電郵宣告中表示。“總統作為美國公民，享有根據第一修正案表達對美聯儲看法的權利；作為三軍統帥，也有就此發表意見的責任。同時，他也一再重申對沃什主席以及美聯儲獨立性的支援。”
+
+---
+
+### 2026-08-06 22:38:29  #國際
+
+共和黨參議員在特朗普政府移交後提議廢除加州機動車排放規則。
+
+---
+
+### 2026-08-06 22:38:21  #MKT News
+
+Yemeni Houthi movement urged people it says were deceived or misled by Yemeni leaders to leave enemy camps inside Saudi Arabia and return home before it is too late.
+
+---
+
+### 2026-08-06 22:36:24  #其他
+
+【“恒大虹橋國際”專案將於8月31日法拍 起拍價78.4億元】阿里資產平臺顯示，“恒大虹橋國際”專案土地使用權及在建工程將於8月31日10時開拍，起拍價約78.43億元，保證金4億元，加價幅度500萬元，競價週期1天。標的位於上海閔行區申長路979號，包含土地使用權及在建工程，其中，土地使用權方面，合計面積92132.9平方米，分為兩宗地塊，用途為其他商服，使用年限至2052年2月；在建工程方面，專案分A、B兩區，其中A區共8幢（已取得預售證），B區共5幢（未辦理預售證）。
+
+---
+
+### 2026-08-06 22:34:42  #MKT News #Important #Brent #Impact bullish #XAUUSD
+
+【Houthi forces warn Saudi Arabia any aggression will have consequences】A Houthi spokesman said forces launched a large-scale, precision operation using ballistic missiles and drones against Saudi concentrations at Ruwaik, Abal, Saniya and other camps tied to the 1st and 3rd Emergency Brigades. The group said the strikes killed or wounded hundreds of Saudi mercenaries, destroyed and burned numerous camps, concentration points, warehouses and weapons in the eastern Wadi'a area, and destroyed large numbers of military vehicles at the targeted sites. The spokesman warned Saudi Arabia not to carry out any aggression against Yemen or its people, saying it would bear the consequences of any escalation.
 
 ---
 
@@ -19887,512 +20295,5 @@ US Mortgage Applications Fall for 2nd Week — The volume of mortgage applicatio
 ### 2026-08-05 19:11:22  #MKT News #Market Regions #Greater China
 
 【China 2026 box office tops 23.5 bln yuan as summer window heats up】China’s 2026 total box office (including presales) has exceeded 23.5 bln yuan; summer window receipts have topped 7.7 bln. Pegasus 3, Kung Fu Women's Football and Letter to Grandma rank first through third year-to-date. Exhibitors say the sector shift is now from pure technical/hall upgrades to experiential, interactive and content-driven business models, turning cinemas into multi-dimensional cultural products.
-
----
-
-### 2026-08-05 19:11:11  #其他
-
-【皓元醫藥與中賦科技達成戰略合作】據皓元醫藥訊息，8月5日，皓元醫藥與中賦科技正式簽署戰略合作協議。基於此次戰略合作，雙方將加強產業資源與專業能力的協同，積極探索在創新藥研發與產業化服務領域的合作機會。
-
----
-
-### 2026-08-05 19:11:07  #MKT News #Important #SHOP.N #Impact bullish
-
-Shopify (SHOP.N) premarket gains widen to over 30% after Q2 revenue beats expectations.
-
----
-
-### 2026-08-05 19:10:51  #市場
-
-SHOPIFY股價在第二季度營收超出預期後盤前飆升34%。
-
----
-
-### 2026-08-05 19:10:13  #Trading Economics #Economy #United States #Mortgage Rate #Importance 2
-
-US Mortgage Rates Reach Fresh 2025-Highs: MBA — The average 30-year fixed mortgage rate for loans of up to $806,500 in the US increased by 5bps to 6.81% in the week ended July 31st 2026, reaching the highest level in a year, after soaring by 7bps in the previous week, according to the Mortgage Bankers Association. The rise tracked higher Treasury yields, while renewed hostilities in the Middle East pushed oil prices higher, raising inflation concerns. Meanwhile, mortgage applications decreased 2.9%, extending a 6.4% drop in the previous week. Applications to purchase a home slumped 3.6% and those to refinance a home loan dropped 1.9%, after decreases of 3.6% and 9.9% respectively in the previous week.
-
----
-
-### 2026-08-05 19:09:57  #市場
-
-《紐約時報》股價在公佈第二季度業績後盤前下跌4.8%。
-
----
-
-### 2026-08-05 19:09:48  #MKT News #NYT.O
-
-The New York Times' total subscription revenue in Q2 was $537.9m.
-
----
-
-### 2026-08-05 19:09:46  #市場
-
-納指ETF嘉實(159501)將於2026年8月6日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。
-
----
-
-### 2026-08-05 19:09:44  #公司 #觀點
-
-【大成基金：旗下基金將投資關聯方光大證券、中泰證券股票】大成基金公告稱，旗下大成中證全指證券公司交易型開放式指數證券投資基金主要採用完全複製法投資，標的指數成份股光大證券、中泰證券分別為該基金基金管理人股東、基金託管人發行的股票。為降低跟蹤誤差，保護持有人權益，經協商並履行程式後，將上述股票納入投資標的，按規定進行日常投資管理和定期報告披露。
-
----
-
-### 2026-08-05 19:09:28  #公司
-
-【德國敦豪公司一貨機與不明物體相撞後安全降落】當地時間5日，一架德國敦豪快遞公司貨機從德國萊比錫起飛後不久，在空中與一不明物體相撞，隨後貨機在漢諾威安全著陸。據瞭解，5日凌晨萊比錫機場曾發生一起涉無人機安全事故，導致機場運營短暫中斷。警方正在對機場跑道附近發現的可疑物體進行調查。（央視新聞）
-
----
-
-### 2026-08-05 19:09:03  #公司
-
-【天宇股份：擬認繳7000萬元參與設立投資基金，出資比例49.96%】天宇股份公告，公司與上海德鴻、靖越金融、瀚海投資共同投資設立浙江德方鴻景股權投資合夥企業（有限合夥），基金總認繳出資額1.4億元，公司作為有限合夥人以自有資金認繳出資7000萬元，出資比例49.96%。近日，基金已完成工商註冊登記並取得營業執照，尚需取得中國證券投資基金業協會備案。
-
----
-
-### 2026-08-05 19:08:54  #公司
-
-【牧原股份：7月商品豬銷量666.1萬頭，同比變動4.82%】 牧原股份公告，2026年7月銷售商品豬666.1萬頭，同比變動4.82%；商品豬銷售均價10.64元/公斤，同比變動-25.59%；商品豬銷售收入88.97億元，同比變動-23.56%。本年累計銷售商品豬4527.6萬頭，累計銷售收入590.42億元。全資子公司牧原肉食品有限公司及其子公司屠宰生豬276.3萬頭。
-
----
-
-### 2026-08-05 19:08:26  #市場
-
-國投白銀LOF(161226)將於2026年8月6日開市起停牌，自2026年8月6日10:30起復牌，停牌期間贖回業務照常辦理。
-
----
-
-### 2026-08-05 19:08:14  #市場
-
-納指ETF易方達(159696)將於2026年8月6日開市起停牌，自2026年8月6日10:30 起復牌，停牌期間贖回業務照常辦理。
-
----
-
-### 2026-08-05 19:08:05  #其他
-
-TRUIST SECURITIES將AMD目標價從478美元上調至594美元。
-
----
-
-### 2026-08-05 19:07:52  #公司 #市場
-
-【頻準鐳射：首次公開發行股票並在科創板上市，提醒投資風險】頻準鐳射公告稱，本次發行股份數量1000.00萬股，發行價格為186.88元/股，對應融資規模為1.87億元，高於募集資金需求金額。網上和網下申購時間為2026年8月7日，申購時無需繳付申購資金。本次發行存在股價下跌、募集資金對公司產生影響等風險，還對發行方式、限售期安排、申購規則、中止發行情形等作出說明，提醒投資者關注風險，審慎投資。
-
----
-
-### 2026-08-05 19:06:31  #其他
-
-【圍繞貫徹落實十二屆市委九次全會精神，陳吉寧調研上海創智學院】今天（8月5日）上午，上海市委書記陳吉寧圍繞貫徹落實十二屆市委九次全會精神，前往上海創智學院走訪調研。陳吉寧指出，要深入學習貫徹習近平總書記考察上海重要講話精神和對上海工作重要指示要求，面向世界科技前沿和國家重大戰略需求，最佳化完善辦學模式，提升原始創新能力，增強創新體系整體效能，全力打造人工智慧頂尖人才培養新高地，為推進高水平科技自立自強、建設科技強國作出更大貢獻。（上海釋出）
-
----
-
-### 2026-08-05 19:05:49  #其他
-
-《紐約時報》展望：第三季度僅數字訂閱收入將增長12%-15%。
-
----
-
-### 2026-08-05 19:05:45  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Phillips 66 earnings above expectations at 9.41 USD — Phillips 66 (PSX) released earnings per share at 9.41 USD, compared to market expectations of 6.73 USD.
-
----
-
-### 2026-08-05 19:05:37  #其他
-
-【重慶市涪陵區政府原一級巡視員趙昌輝被開除黨籍】中央紀委國家監委網站8月5日通報，據重慶市紀委監委訊息：經重慶市委批准，重慶市紀委監委對重慶市涪陵區政府原一級巡視員趙昌輝嚴重違紀違法問題進行了立案審查調查。經查，趙昌輝喪失理想信念，背離初心使命，對抗組織審查；無視中央八項規定精神，違規收受禮品禮金，接受可能影響公正執行公務的宴請和旅遊安排；廉潔底線失守，利用職權為親屬承攬業務謀利，違規從事營利活動，利用職權在農村違規建房；私自留存涉密材料；貪慾膨脹，利用職務便利為他人在工程承攬、土地出讓等方面謀利，並非法收受鉅額財物。趙昌輝嚴重違反黨的政治紀律、廉潔紀律、工作紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經重慶市紀委常委會會議研究並報重慶市委批准，決定給予趙昌輝開除黨籍處分；按規定取消其退休待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。
-
----
-
-### 2026-08-05 19:05:30  #其他
-
-SHAKE SHACK第二季度營收4.176億美元，預估4.164億美元； 第二季度調整後EBITDA 6,120萬美元，預估5,850萬美元。
-
----
-
-### 2026-08-05 19:04:53  #MKT News #SHOP.N #Impact bullish
-
-Shopify (SHOP.N) pre-market gains widened to 20%.
-
----
-
-### 2026-08-05 19:04:12  #市場
-
-Shopify美股盤前漲超20%。
-
----
-
-### 2026-08-05 19:03:53  #MKT News
-
-Global Chips LOF (501225): trading will be suspended from market open on 6 Aug 2026 and will resume at 10:30 on 6 Aug 2026. Redemption requests will be processed normally during the suspension.
-
----
-
-### 2026-08-05 19:03:50  #其他
-
-全球晶片LOF(501225)：本基金將於2026年8月6日開市起停牌，自2026年8月6日10:30起復牌，停牌期間本基金贖回業務照常辦理。
-
----
-
-### 2026-08-05 19:03:41  #公司
-
-【招商輪船：斥資24.85億元新建5艘阿芙拉型油輪】招商輪船公告稱，公司近日透過全資子公司海宏輪船（香港）有限公司與大連船舶重工集團有限公司簽署5份《船舶訂造協議》，訂造5艘配備脫硫洗滌塔和軸帶發電機的節能環保型AFRAMAX油輪，協議總價摺合人民幣約24.85億元，預計2029 - 2030年交付。本次交易不構成關聯交易和重大資產重組，所需資金擬使用自有資金和銀行借款，對公司當期財務無重大影響，未來預計產生積極影響。
-
----
-
-### 2026-08-05 19:03:38  #公司
-
-【國儀量子：首次公開發行股票並在科創板上市，募資8.49億元】國儀量子公告稱，公司首次公開發行股票並在科創板上市的申請已獲上交所上市稽核委員會審議透過，並獲中國證監會同意註冊。本次發行股票數量4001.00萬股，佔發行後總股本10.00%，發行價格21.22元/股，募集資金總額84,901.22萬元，淨額72,342.78萬元。發行費用合計12,558.44萬元。高管員工和保薦人子公司參與戰略配售，限售期分別為36個月和24個月。
-
----
-
-### 2026-08-05 19:03:32  #公司
-
-【透景生命：取得醫療器械變更註冊檔案及多項註冊申請獲受理】透景生命公告稱，近日收到國家藥監局頒發的《醫療器械變更註冊（備案）檔案》，完成“人SHOX2、RASSF1A基因甲基化DNA檢測試劑盒（PCR熒光法）”產品原註冊證相關事項的變更。同時，控股子公司康錄生物及公司申報的4個醫療器械註冊申請分別獲國家藥監局或上海市藥監局受理。上述產品變更註冊及註冊申請受理，利於豐富產品線佈局、提高競爭力，但對近期業績無影響，能否取得註冊證書尚待最終審評。
-
----
-
-### 2026-08-05 19:03:21  #其他
-
-卡夫亨氏2026年增量投資規模將增加1億美元，總額提升至約7億美元。
-
----
-
-### 2026-08-05 19:03:18  #MKT News
-
-【Huawei FullConnect Conference 2026 to be held Sept. 17-19】Huawei China announced the Huawei FullConnect Conference 2026 will be held in Shanghai Sept. 17-19, 2026, with the theme "Intelligence Opens a New Future".
-
----
-
-### 2026-08-05 19:03:06  #其他
-
-Shopify預計第三季度股權激勵費用為1.5億美元。
-
----
-
-### 2026-08-05 19:02:58  #國際
-
-NSDL：全球基金在前一交易日淨買入價值932億盧比的印度股票。
-
----
-
-### 2026-08-05 19:02:34  #公司 #焦點
-
-【宇樹科技：網上路演將於2026年8月7日14:00-17:00舉行】宇樹科技(688836.SH)公告稱，公司首次公開發行股票並在科創板上市網上路演將於2026年8月7日14:00-17:00舉行。本次擬公開發行新股4044.6434萬股，佔發行後總股本的10.00%。
-
----
-
-### 2026-08-05 19:02:17  #其他
-
-Phillips 66： 2026年第二季度煉油實際利潤率為每桶24.08美元。
-
----
-
-### 2026-08-05 19:01:27  #市場
-
-【Shopify美股盤前漲超10%】Shopify美股盤前漲超10%，現報135.99美元。
-
----
-
-### 2026-08-05 19:01:25  #市場
-
-巴基斯坦KSE‑100指數收盤上漲1.6%，報180093.90點。
-
----
-
-### 2026-08-05 19:01:02  #其他
-
-菲利普斯66公佈2026年第二季度煉油利用率為96%，清潔產品收率為86%。
-
----
-
-### 2026-08-05 19:00:56  #其他
-
-Shopify第二季度營收35.8億美元，市場預期34.5億美元。
-
----
-
-### 2026-08-05 19:00:47  #其他
-
-【華為全聯接大會2026將於9月17日-19日舉行】8月5日，華為中國宣佈，華為全聯接大會2026將於2026年9月17日-19日在上海舉行，主題為“智啟新未來”。
-
----
-
-### 2026-08-05 19:00:15  #國際
-
-美國至7月31日當週MBA抵押貸款再融資活動指數 709.1，前值723.1。
-美國至7月31日當週MBA30年期固定抵押貸款利率 6.81%，前值6.76%。
-美國至7月31日當週MBA抵押貸款申請活動指數 240，前值247.2。
-美國至7月31日當週MBA抵押貸款購買指數 154，前值159.8。
-
----
-
-### 2026-08-05 19:00:14  #MKT News
-
-US MBA 30-year fixed mortgage rate for week ended July 31 rose to 6.81% from 6.76% a week earlier (+5 bps).
-
----
-
-### 2026-08-05 19:00:10  #MKT News
-
-U.S. MBA mortgage purchase index for the week ended July 31 was 154, down from 159.8 the prior week.
-
----
-
-### 2026-08-05 19:00:09  #MKT News #Macro & Rates #US Economy
-
-US MBA mortgage refinance index for week ended July 31: 709.1, down from 723.1 the prior week.
-
----
-
-### 2026-08-05 19:00:09  #MKT News
-
-US MBA mortgage application index for the week ending July 31: 240 (prior 247.2).
-
----
-
-### 2026-08-05 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Purchase Index (Jul.31) | actual 154 | previous 159.8
-
----
-
-### 2026-08-05 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Applications Composite Index (Jul.31) | actual 240 | previous 247.2
-
----
-
-### 2026-08-05 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA 30-Year Mortgage Rate (Jul.31) | actual 6.81% | previous 6.76%
-
----
-
-### 2026-08-05 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Refinance Index (Jul.31) | actual 709.1 | previous 723.1
-
----
-
-### 2026-08-05 18:59:46  #公司 #市場
-
-卡普里控股有限公司下調年度收入預期後，其股價盤前下跌約7%。
-
----
-
-### 2026-08-05 18:59:35  #其他
-
-【廣東雷州通報“特殊教育學校教師招聘存在違規行為”：已啟動問責程式，副校長被停職】近日，網傳廣東省雷州市特殊教育學校有關人員在教師招聘中存在違規行為，引發社會廣泛關注。8月5日，廣東省雷州市教育局通報有關調查情況如下。經查，雷州市特殊教育學校在2026年公開招聘高中舞蹈組專業技術崗過程中，該校副校長高某受該校教師陳某林所託，違規向陳某林透露筆試第一名陳某冰的個人資訊，並透過微信聯絡陳某冰，以利益許諾勸其放棄後續考試。根據初步調查情況，雷州市教育局已啟動問責程式，對雷州市特殊教育學校副校長高某先作出停職處理，對涉事教師陳某林暫停其工作，同時暫停該校高中舞蹈組專業技術崗招聘所有流程。接下來，雷州市教育局將根據後續調查結果，秉持公平公正的原則，依法依規作出進一步的處理。
-
----
-
-### 2026-08-05 18:59:33  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Uber earnings above expectations at 0.81 USD — Uber (UBER) released earnings per share at 0.81 USD, compared to market expectations of 0.80 USD.
-
----
-
-### 2026-08-05 18:59:18  #其他
-
-【法國東南部發生槍擊事件致6人受傷】法國東南部德龍省瓦朗斯市4日晚發生一起槍擊事件，造成6人受傷。槍擊事件發生在當地時間4日22時30分左右，一名蒙面男子從車內使用突擊步槍向人群開槍，隨後乘車逃離現場。槍擊造成6人受傷，其中2人傷勢嚴重。傷者年齡在15歲至22歲之間，已被送醫救治。警方在距案發現場數公里處發現一輛被焚燬的汽車，該車疑似與案件有關。目前，槍擊事件嫌疑人在逃，其身份及作案動機尚不清楚。警方已就案件展開調查。（新華社）
-
----
-
-### 2026-08-05 18:59:00  #Trading Economics #Markets #Namibia #Stock Market #Importance 0
-
-Stocks in Namibia Hit 19-month High — NSX Overall increased to 2432.00 Index Points, the highest since December 2024. Over the past 4 weeks, Namibia Overall Index gained 3.64%, and in the last 12 months, it increased 38.04%.
-
----
-
-### 2026-08-05 18:58:32  #公司 #市場
-
-優步盤前股價下跌3%，因公司公佈第三季度調整後每股收益預期低於市場預估。
-
----
-
-### 2026-08-05 18:58:25  #市場
-
-保誠股價下跌13%。
-
----
-
-### 2026-08-05 18:57:09  #公司
-
-【賽分科技：預計2026年半年度淨利潤同比增長80%到110%】賽分科技公告，預計2026年半年度營業收入為2.56億元到2.83億元，同比增長40%到55%；歸屬於母公司所有者的淨利潤為9660萬元到1.13億元，同比增長80%到110%；歸屬於母公司所有者扣除非經常性損益後的淨利潤為9320萬元到1.09億元，同比增長100%到135%。上年同期歸屬於母公司所有者的淨利潤為5365.92萬元。
-
----
-
-### 2026-08-05 18:57:01  #公司
-
-優步執行長稱合作方承諾投放約12萬臺自動駕駛計程車。
-
----
-
-### 2026-08-05 18:56:53  #其他 #焦點
-
-優步計劃投入超100億美元推進自動駕駛計程車商業化。
-
----
-
-### 2026-08-05 18:56:24  #其他
-
-優步將維持每季度持續開展股票回購。
-
----
-
-### 2026-08-05 18:56:09  #公司
-
-優步投入約40億美元取得Delivery Hero股份。
-
----
-
-### 2026-08-05 18:55:54  #公司 #焦點
-
-優步表示，經過最佳化後，公司整體人工智慧支出“大體保持穩定”。
-
----
-
-### 2026-08-05 18:55:39  #公司
-
-Flutter任命丹·泰勒為新任執行長，接替彼得·傑克遜。
-
----
-
-### 2026-08-05 18:55:34  #其他
-
-優步科技第二季度每股收益1.17美元。
-
----
-
-### 2026-08-05 18:55:20  #其他
-
-優步科技第二季度月活平臺消費者同比增長16%。
-
----
-
-### 2026-08-05 18:55:12  #其他
-
-UBER第二季度總訂單額為580.2億美元，高於預期的571.7億美元。
-
----
-
-### 2026-08-05 18:55:08  #其他
-
-UBER預計第三季度總訂單額為582.5億美元至602.5億美元，此前預期為593.2億美元。
-
----
-
-### 2026-08-05 18:55:03  #公司 #國際
-
-【禮來盈利、營收大超預期 上調全年銷售指引】禮來週三公佈第二季度財報，盈利與營收大幅超出市場預期，並上調全年銷售指引，其爆款減重藥 Zepbound 與糖尿病藥物 Mounjaro 的需求再度激增。這家制藥巨頭目前預計 2026 年營收介於 850 億‑870 億美元，此前指引為 820 億‑850 億美元。禮來預計全年調整後每股收益 35.50‑36.50 美元，此前預期為 35.50‑37 美元。公司表示，基礎利潤指引的中值上調 2.78 美元每股，但本季度多筆交易相關費用共計每股 3.03 美元，抵消了上述增量。得益於肥胖及糖尿病藥物帶來的鉅額收益，禮來正開啟一輪大規模併購。該公司 7 月剛達成收購一家致幻類藥物藥企的交易，5 月也曾宣佈計劃收購三家疫苗企業。儘管上述兩款藥物在美國市場售價有所下降，但 Zepbound 和 Mounjaro 需求依舊旺盛，支撐禮來連續多個季度業績向好。Mounjaro 本季度全球營收增長 91%，達 99.4 億美元，其中美國市場銷售額 48 億美元。據 StreetAccount 資料，該資料高於分析師此前預期的全球銷售額 89.9 億美元、美國市場營收 44.4 億美元。Mounjaro 海外市場表現尤為亮眼，美國以外地區銷售額暴漲 172%。
-
----
-
-### 2026-08-05 18:54:38  #市場
-
-渣打銀行股價下跌4.3%。
-
----
-
-### 2026-08-05 18:53:34  #公司
-
-【英可瑞：向特定物件發行股票擬募資總額調減至不超過3.46億元】英可瑞公告，公司於2026年8月5日召開第四屆董事會第十三次會議，審議透過向特定物件發行股票方案調整議案。為降低募集資金投資專案風險，公司將擬募集資金總額由不超過3.68億元調減至不超過3.46億元（含本數），其中營銷網路及資訊化建設專案擬投入募集資金由4997.55萬元調減至2753.15萬元，其餘專案擬投入金額不變。
-
----
-
-### 2026-08-05 18:53:31  #公司
-
-【中賦科技：擬與合肥國投共同投資收購軍科正源，增資至4億元】中賦科技公告，公司全資子公司中賦正源擬將註冊資本由1億元增加至4億元，分三期完成增資，其中公司合計增資1.04億元，合肥國投旗下新興產業基金及其他投資方合計增資1.96億元。第一期增資完成後，公司持有中賦正源51%股權，新興產業基金與其他投資方持有49%股權。本次收購資金10億元，透過自有資金、外部機構投資、銀行併購貸組合籌措。該事項已獲公司第四屆董事會第二十次會議審議透過。
-
----
-
-### 2026-08-05 18:53:28  #其他
-
-香港交易所披露資訊顯示，貝萊德在長飛光纖光纜的H股好倉比例於7月31日從7.55%上升至7.85%。
-
----
-
-### 2026-08-05 18:53:04  #其他
-
-豐田汽車計劃2027年將全球汽車產量目標定為約1050萬輛。
-
----
-
-### 2026-08-05 18:52:54  #公司 #國際
-
-【凱旺科技：擬現金收購東莞秦鼎及東莞興鼎各51%股權，交易對價合計2.86億元】凱旺科技公告，公司此前披露擬收購東莞秦鼎和東莞興鼎各51%股權，目前審計評估工作已完成。2026年8月5日，公司與交易對方簽署正式《股權收購協議》，其中東莞秦鼎51%股權交易價格確定為1.82億元、東莞興鼎51%股權交易價格確定為1.03億元，交易對價合計為2.86億元。本次交易尚需提交公司股東會審議。
-
----
-
-### 2026-08-05 18:52:25  #公司
-
-保誠集團跌幅達10.3%。
-
----
-
-### 2026-08-05 18:51:45  #其他
-
-禮來第二季度Trulicity營收12.2億美元，市場預期8.688億美元。
-
----
-
-### 2026-08-05 18:50:57  #宏觀
-
-【大華銀行最新調查：中國企業以能力建設驅動“韌性增長”】8月5日，大華銀行釋出最新報告顯示，在全球經濟復甦分化、地緣政治局勢持續演變以及經營成本壓力仍存的背景下，中國企業對營商環境和業務前景整體保持積極態度，經營決策也更加理性務實，發展重點正從追求規模增長轉向構建長期競爭力和經營韌性。
-
----
-
-### 2026-08-05 18:50:26  #公司
-
-【無錫銀行：興達尼龍及一致行動人擬減持不超過1.96%股份】無錫銀行公告，持股5%以上股東無錫市興達尼龍有限公司及其一致行動人無錫神偉化工有限公司計劃於2026年8月28日至2026年11月27日期間，透過大宗交易方式減持股份。其中，興達尼龍擬減持不超過352萬股（佔總股本0.16%），神偉化工擬減持不超過3958.12萬股（佔總股本1.80%），合計減持不超過4310.12萬股，佔總股本比例不超過1.96%。減持原因為經營發展需求。
-
----
-
-### 2026-08-05 18:49:39  #公司
-
-【唯特偶：2026年上半年淨利潤5208.45萬元同比增23.47%】唯特偶公告，2026年上半年營業收入9.34億元，同比增長40.62%。歸屬於上市公司股東的淨利潤5208.45萬元，同比增長23.47%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5017.79萬元，同比增長35.40%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-05 18:49:39  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Eli Lilly earnings below expectations at 8.38 USD — Eli Lilly (LLY) released earnings per share at 8.38 USD, compared to market expectations of 8.82 USD.
-
----
-
-### 2026-08-05 18:49:37  #公司 #市場
-
-保誠集團股價美股盤前下跌8%。
-
----
-
-### 2026-08-05 18:49:28  #市場 #國際
-
-【聯合國糧農組織：全球或面臨新一輪食品價格上漲】聯合國糧農組織（FAO）警告稱，隨著中東和俄烏戰爭持續疊加厄爾尼諾現象影響，導致成本上升和作物產量下降，全球可能面臨新一輪食品通脹。
-
----
-
-### 2026-08-05 18:48:58  #公司
-
-【名家匯：股東中國新興集團減持335萬股計劃實施完畢】名家匯公告稱，原持股5%以上股東中國新興集團有限責任公司減持計劃已實施完畢。其在2026年7月21日至8月4日，以集中競價方式累計減持公司股份335萬股，佔總股本的0.2350%，減持均價5.53元/股。減持後，新興集團持股降至7120.6697萬股，佔比4.99%。本次減持不影響公司治理結構和持續經營，也不會導致控制權變更。
-
----
-
-### 2026-08-05 18:48:52  #公司
-
-【德爾瑪：持股5%以上股東累計減持661.56萬股 佔總股本1.43%】德爾瑪公告稱，持股5%以上股東磐茂（上海）投資中心（有限合夥）於2026年7月16日至8月5日期間，以集中競價及大宗交易方式累計減持公司股份661.56萬股，佔公司總股本的1.43%。其中，集中競價減持461.56萬股，大宗交易減持200萬股。本次減持與此前已披露計劃一致，該計劃尚未實施完畢。
-
----
-
-### 2026-08-05 18:48:47  #市場
-
-滙豐股價跌幅擴大至盤中低點，下跌5%。
-
----
-
-### 2026-08-05 18:48:44  #Trading Economics #Markets #Commodity #Importance 0
-
-Rice Futures at Over 1-1/2-Year Highs — Rice futures traded around $14 per hundredweight, hovering close to their highest level since January 2025, as traders looked beyond ample current supplies and focused on climate-related risks. Rice production is highly dependent on rainfall and temperature, making the crop particularly vulnerable to weather disruptions. Forecasters warn that El Niño and broader climate change are increasing the frequency and intensity of droughts, heatwaves, and erratic monsoon rains across Asia, raising the risk of lower yields in major producing countries. While improved monsoon rains in India have accelerated planting and boosted exports, helping keep global supplies comfortable, uncertainty over weather conditions later in the growing season continues to support prices. Additional upside comes from the USDA's forecast for tighter US rice supplies and lower ending stocks.
 
 ---
