@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-08 01:08:11",
-  "count": 15999,
+  "updated": "2026-08-08 01:12:08",
+  "count": 16002,
   "items": [
+    {
+      "id": "mkt:019fdd34-3649-7aab-8fbf-14c22bf94da3",
+      "time": "2026-08-08 01:10:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Cook's lawyer said they will challenge the latest pretext and defend Cook's position and duties at the Federal Reserve."
+    },
+    {
+      "id": "5031458",
+      "time": "2026-08-08 01:10:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克的律師：不存在罷免庫克理事的正當理由。我們將對最新的藉口提出挑戰，並維護庫克在美聯儲的職位和職責。"
+    },
+    {
+      "id": "mkt:019fdd33-fd7f-7aab-8fbf-0b4a7e37a7f9",
+      "time": "2026-08-08 01:09:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The lawyer for Fed Governor Cook said there is no valid basis to remove him from office."
+    },
     {
       "id": "5031457",
       "time": "2026-08-08 01:03:56",
