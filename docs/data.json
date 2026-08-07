@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 01:32:25",
-  "count": 16013,
+  "updated": "2026-08-08 01:36:21",
+  "count": 16012,
   "items": [
+    {
+      "id": "5031467",
+      "time": "2026-08-08 01:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios記者：某斡旋國一名外交官向我透露，伊朗談判代表正等待伊朗最高國家安全委員會就伊朗與阿曼、美國達成的協議作出最終批准。該外交官稱：“我們預計很快就能拿到這項批准。”"
+    },
     {
       "id": "5031466",
       "time": "2026-08-08 01:31:42",
@@ -145936,26 +145944,6 @@
         "MKT News"
       ],
       "text": "EU ambassadors will meet on Monday to discuss the migration situation in Spain."
-    },
-    {
-      "id": "mkt:019fb93e-d9cd-7aab-8f3c-3e5fc8db7893",
-      "time": "2026-08-01 01:35:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "ICE data for the week to July 28: speculators cut Brent crude net longs by 6,948 contracts to 185,083. Diesel net longs rose 2,654 contracts to 87,194."
-    },
-    {
-      "id": "5019793",
-      "time": "2026-08-01 01:33:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟各國大使將於週一舉行會議，討論西班牙移民問題。"
     }
   ]
 }
