@@ -1,7 +1,103 @@
 {
-  "updated": "2026-08-07 21:06:13",
-  "count": 16120,
+  "updated": "2026-08-07 21:10:15",
+  "count": 16119,
   "items": [
+    {
+      "id": "5031227",
+      "time": "2026-08-07 21:09:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【下週285.22億元市值限售股解禁，陸家嘴解禁71.1億元居首】Wind資料統計顯示，下週（8月10日-8月14日）共有32家公司限售股陸續解禁，合計解禁23.32億股，按8月7日收盤價計算，解禁總市值為285.22億元。從解禁市值來看，8月10日是解禁高峰期，17家公司解禁市值合計182.91億元，佔下周解禁規模的64.13%。按8月7日收盤價計算，解禁市值居前三位的是：陸家嘴（71.1億元）、盟固利（30.58億元）、凌瑋科技（27.28億元）。從個股的解禁量看，解禁股數居前三位的是：陸家嘴（7.79億股）、華能蒙電（5.36億股）、盟固利（1.87億股）。"
+    },
+    {
+      "id": "te:markets:573818",
+      "time": "2026-08-07 21:08:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise as Rate Hike Bets Fade — Futures tracking the S&P/TSX Composite Index moved higher on Friday after the release of Canadian employment data and a key US jobs report. Canada's unemployment rate edged down 0.1 percentage point to 6.4%, slightly below forecasts of 6.5%, while employment increased by 75,000, well above expectations for a 15,000 gain. In the US, the economy unexpectedly shed 23,000 jobs, compared with forecasts for an 80,000 increase. The strong Canadian labor backdrop and softer US employment conditions limited risks of a hawkish Fed while strengthening the cast for a potential hike by the BoC, should energy prices remain higher. Meanwhile, oil prices were volatile as markets assessed Iran-Oman negotiations, easing energy inflation concerns and supporting financial stocks and the broader index. Gold prices also rose as expectations of US rate hikes receded, boosting mining stocks."
+    },
+    {
+      "id": "5031226",
+      "time": "2026-08-07 21:08:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司第一季度運營收入為795.8億盧比。"
+    },
+    {
+      "id": "5031225",
+      "time": "2026-08-07 21:08:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯最高法院將審理禁止亞博盧黨參加議會選舉的訴訟。"
+    },
+    {
+      "id": "5031224",
+      "time": "2026-08-07 21:07:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月7日，國內基金淨買入印度股票23.6億印度盧比。"
+    },
+    {
+      "id": "5031223",
+      "time": "2026-08-07 21:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月7日，全球基金淨買入印度股票48億印度盧比。"
+    },
+    {
+      "id": "mkt:019fdc55-bd2a-7aab-8fbb-222330176ea9",
+      "time": "2026-08-07 21:07:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's Prime Minister Magyar said the ruling party will make a decision on Saturday and the president will be elected by parliament on Aug. 11."
+    },
+    {
+      "id": "5031222",
+      "time": "2026-08-07 21:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾表示，執政黨將於週六作出決定，總統將於8月11日由議會選舉產生。"
+    },
+    {
+      "id": "mkt:019fdc55-a171-7aab-8fbb-19916f84eca6",
+      "time": "2026-08-07 21:07:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister Magyar said the Tisza party leadership will nominate three presidential candidates."
+    },
+    {
+      "id": "5031221",
+      "time": "2026-08-07 21:06:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，執政黨蒂薩黨的領導層將推舉三名總統候選人。"
+    },
+    {
+      "id": "mkt:019fdc54-ebcf-7aab-8fbb-14f92b43ae45",
+      "time": "2026-08-07 21:06:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, Amazon Web Services told engineers in May to reduce CPU waste and set a team-level deadline later this year to cut compute usage. Engineers are disabling idle EC2 instances to free capacity for customers."
+    },
     {
       "id": "mkt:019fdc53-f658-7aab-8fbb-0fe0e3105a00",
       "time": "2026-08-07 21:05:17",
@@ -146974,110 +147070,6 @@
         "Importance 1"
       ],
       "text": "Chile Jobless Rate Steady at 2021-Highs — Chile's unemployment rate stood at 9.4% in the April-June 2026 period, unchanged from the previous rolling quarter and in line with market expectations. The reading remained at its highest level since the quarter ending June 2021. The labor force increased 1.5% year-on-year, while the labor force participation rate edged down to 62.3% from 62.4%, as the number of unemployed eased slightly to 980 thousand. Meanwhile, employment rose 0.9% from a year earlier to 9.403 million, although the employment rate edged down to 56.4% from 56.5% in the previous period. Job creation was primarily driven by gains in transportation (6.8%), administrative and support service activities (12.9%), and human health activities (5.1%)."
-    },
-    {
-      "id": "5019493",
-      "time": "2026-07-31 21:09:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌2%，現報1282.00美元/盎司。"
-    },
-    {
-      "id": "mkt:019fb84b-35f0-7aab-8f36-7b03bcf4bde7",
-      "time": "2026-07-31 21:09:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "According to Fox News, US President Trump said the war with Iran is \"going well\"."
-    },
-    {
-      "id": "5019492",
-      "time": "2026-07-31 21:09:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【建業實業：擬16.75億日圓出售日本大阪酒店物業】建業實業公告，2026年7月31日，The Bauhinia Hotels Group Japan 3與買方訂立買賣協議，按16.75億日圓（相當於約82,100,000港元，含當地消費稅）之代價出售位於日本大阪浪速區的一幢9層高酒店大樓，總建築面積約1042平方米，共設48間酒店客房。代價較該物業於2026年6月30日之估值15億日圓溢價約11.7%，較2024年收購價增加約113.4%。預期出售事項將於2026年9月30日或之前完成。"
-    },
-    {
-      "id": "5019491",
-      "time": "2026-07-31 21:09:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織依據埃及經濟融資計劃及政策支援工具審查結論，向埃及釋放約 18 億美元資金。"
-    },
-    {
-      "id": "mkt:019fb84a-aa98-7aab-8f36-748777af756d",
-      "time": "2026-07-31 21:08:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gaza Peace Committee said collection and storage of heavy weapons will begin after a national committee and international forces enter the Gaza Strip. The national committee will manage a weapons inventory on a timetable, aiming to complete preparations within 14 days. The inventory is tied to a phased withdrawal of Israeli forces from occupied areas. An international verification committee, supported by stabilization forces, will monitor and verify the process."
-    },
-    {
-      "id": "5019490",
-      "time": "2026-07-31 21:08:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普稱，對伊朗的戰事 “進展順利”。"
-    },
-    {
-      "id": "5019489",
-      "time": "2026-07-31 21:08:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "IMF 完成埃及專案第七輪審查。"
-    },
-    {
-      "id": "mkt:019fb849-f86f-7aab-8f36-6b0466ecee89",
-      "time": "2026-07-31 21:08:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hamas outlines conditions for next phase of Gaza ceasefire】Hamas said it and Gaza factions have engaged constructively with mediators’ proposals on implementing a second phase of the ceasefire but made that phase fully conditional on Israel’s full compliance with all first-phase terms. It said the first step toward implementation is for Israel to stop attacks, end military operations and fully withdraw forces from Gaza. Hamas and other factions agreed to include heavy weapons in the agreement framework, subject to strict preconditions, and called for early post-conflict reconstruction led by a Palestinian technocratic committee (Gaza National Administrative Committee) alongside deployment of international protection forces."
-    },
-    {
-      "id": "5019488",
-      "time": "2026-07-31 21:07:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【獨家 | 五糧液收緊多項渠道補貼，經銷商成本上升約50元】7月31日，新浪財經《酒業內參》從經銷商及業內人士處獨家獲悉，近期五糧液收緊了對渠道經銷商的多項補貼投入，經銷商的第八代五糧液整體成本由800元-850元/瓶左右上升至850元-900元/瓶左右，對比收緊前成本提高了約50元/瓶。對於上述情況，五糧液方面暫無回應。批發價格方面，截至目前，第八代五糧液批價約748元-775元/瓶。終端價格方面，據新浪財經《酒價內參》顯示，第八代五糧液近期終端價格連續下滑，已由7月28日的790元/瓶下滑至今日的776元/瓶。中國酒業獨立評論人肖竹青表示，第八代五糧液作為高階白酒的代表之一，市場開瓶率相對還不夠高，“個別大商憑藉規模優勢，到處竄貨導致全國的價格非常混亂，絕大部分經銷商都在虧本銷售，嚴重影響了經銷商的銷售積極性。”"
-    },
-    {
-      "id": "5019487",
-      "time": "2026-07-31 21:07:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報871.00元。"
-    },
-    {
-      "id": "5019486",
-      "time": "2026-07-31 21:07:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“白海豚”或將影響我國 水利部發布“八上”防汛重點】7月31日，水利部舉行專題會商，分析研判“八上”防汛關鍵期汛情發展態勢，逐流域研判突出風險，並部署防汛重點工作。會商綜合研判，“八上”期間（8月1日至15日），第13號颱風“白海豚”可能登陸影響我國；珠江流域西江支流鬱江，長江流域上中游幹流及支流岷江，雲南瀾滄江和怒江，黃河流域中游幹流及支流渭河、汾河，黑龍江、烏蘇里江、松花江、嫩江等主要河流將出現明顯漲水過程，其中部分主要河流可能發生編號洪水；暴雨區內部分中小河流可能發生超警以上洪水，山洪災害風險高。下一步，水利部將進一步強化雨水情監測預報，對降雨、產流、匯流、演進進行全鏈條精準監測和滾動預報；抓好山洪災害防禦，強化山洪災害監測預警，及時組織危險區群眾轉移避險；嚴密防禦城市內澇；強化流域防洪工程體系統一聯合排程，充分發揮流域整體防洪減災效能，確保大江大河大湖防洪安全。"
-    },
-    {
-      "id": "5019485",
-      "time": "2026-07-31 21:06:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【哈馬斯就加沙停火下一階段立場發表宣告】當地時間31日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表正式宣告。宣告稱，該組織與加沙地帶各派別達成一致，以負責任和積極的態度對待談判程序，也回應了相關斡旋方為完成落實停火協議第二階段所提出的建議。但宣告強調，停火協議第二階段的落實存在前提，完全取決於以色列是否切實履行第一階段的所有條款。（央視新聞）"
     }
   ]
 }

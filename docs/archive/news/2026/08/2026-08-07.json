@@ -1,7 +1,103 @@
 {
   "date": "2026-08-07",
-  "count": 2449,
+  "count": 2460,
   "items": [
+    {
+      "id": "5031227",
+      "time": "2026-08-07 21:09:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【下週285.22億元市值限售股解禁，陸家嘴解禁71.1億元居首】Wind資料統計顯示，下週（8月10日-8月14日）共有32家公司限售股陸續解禁，合計解禁23.32億股，按8月7日收盤價計算，解禁總市值為285.22億元。從解禁市值來看，8月10日是解禁高峰期，17家公司解禁市值合計182.91億元，佔下周解禁規模的64.13%。按8月7日收盤價計算，解禁市值居前三位的是：陸家嘴（71.1億元）、盟固利（30.58億元）、凌瑋科技（27.28億元）。從個股的解禁量看，解禁股數居前三位的是：陸家嘴（7.79億股）、華能蒙電（5.36億股）、盟固利（1.87億股）。"
+    },
+    {
+      "id": "te:markets:573818",
+      "time": "2026-08-07 21:08:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise as Rate Hike Bets Fade — Futures tracking the S&P/TSX Composite Index moved higher on Friday after the release of Canadian employment data and a key US jobs report. Canada's unemployment rate edged down 0.1 percentage point to 6.4%, slightly below forecasts of 6.5%, while employment increased by 75,000, well above expectations for a 15,000 gain. In the US, the economy unexpectedly shed 23,000 jobs, compared with forecasts for an 80,000 increase. The strong Canadian labor backdrop and softer US employment conditions limited risks of a hawkish Fed while strengthening the cast for a potential hike by the BoC, should energy prices remain higher. Meanwhile, oil prices were volatile as markets assessed Iran-Oman negotiations, easing energy inflation concerns and supporting financial stocks and the broader index. Gold prices also rose as expectations of US rate hikes receded, boosting mining stocks."
+    },
+    {
+      "id": "5031226",
+      "time": "2026-08-07 21:08:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度石油公司第一季度運營收入為795.8億盧比。"
+    },
+    {
+      "id": "5031225",
+      "time": "2026-08-07 21:08:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯最高法院將審理禁止亞博盧黨參加議會選舉的訴訟。"
+    },
+    {
+      "id": "5031224",
+      "time": "2026-08-07 21:07:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月7日，國內基金淨買入印度股票23.6億印度盧比。"
+    },
+    {
+      "id": "5031223",
+      "time": "2026-08-07 21:07:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月7日，全球基金淨買入印度股票48億印度盧比。"
+    },
+    {
+      "id": "mkt:019fdc55-bd2a-7aab-8fbb-222330176ea9",
+      "time": "2026-08-07 21:07:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's Prime Minister Magyar said the ruling party will make a decision on Saturday and the president will be elected by parliament on Aug. 11."
+    },
+    {
+      "id": "5031222",
+      "time": "2026-08-07 21:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾表示，執政黨將於週六作出決定，總統將於8月11日由議會選舉產生。"
+    },
+    {
+      "id": "mkt:019fdc55-a171-7aab-8fbb-19916f84eca6",
+      "time": "2026-08-07 21:07:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister Magyar said the Tisza party leadership will nominate three presidential candidates."
+    },
+    {
+      "id": "5031221",
+      "time": "2026-08-07 21:06:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，執政黨蒂薩黨的領導層將推舉三名總統候選人。"
+    },
+    {
+      "id": "mkt:019fdc54-ebcf-7aab-8fbb-14f92b43ae45",
+      "time": "2026-08-07 21:06:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to The Information, Amazon Web Services told engineers in May to reduce CPU waste and set a team-level deadline later this year to cut compute usage. Engineers are disabling idle EC2 instances to free capacity for customers."
+    },
     {
       "id": "mkt:019fdc53-f658-7aab-8fbb-0fe0e3105a00",
       "time": "2026-08-07 21:05:17",
