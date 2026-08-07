@@ -1,7 +1,17 @@
 {
   "date": "2026-08-08",
-  "count": 134,
+  "count": 135,
   "items": [
+    {
+      "id": "mkt:019fdd6c-a0be-7aab-8fbf-d9ea841c5086",
+      "time": "2026-08-08 02:11:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Marathon Oil (MRO.N) said a compressor leak was discovered during an equipment inspection at its Galveston Bay, Texas refinery, with emissions reported from unit RHU‑FUGIT F‑480. The company is carrying out repairs to isolate the equipment and stop the leak."
+    },
     {
       "id": "mkt:019fdd69-6a5e-7aab-8fbf-d43f242d90c8",
       "time": "2026-08-08 02:08:20",

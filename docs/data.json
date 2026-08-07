@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-08 02:08:57",
-  "count": 16029,
+  "updated": "2026-08-08 02:12:48",
+  "count": 16028,
   "items": [
+    {
+      "id": "mkt:019fdd6c-a0be-7aab-8fbf-d9ea841c5086",
+      "time": "2026-08-08 02:11:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Marathon Oil (MRO.N) said a compressor leak was discovered during an equipment inspection at its Galveston Bay, Texas refinery, with emissions reported from unit RHU‑FUGIT F‑480. The company is carrying out repairs to isolate the equipment and stop the leak."
+    },
     {
       "id": "mkt:019fdd69-6a5e-7aab-8fbf-d43f242d90c8",
       "time": "2026-08-08 02:08:20",
@@ -146110,26 +146120,6 @@
         "國際"
       ],
       "text": "【美軍一架F-35隱形戰鬥機在加州墜毀】據美國媒體31日報道，一架美軍F-35隱形戰鬥機當日在加利福尼亞州聖迭戈一處軍事基地墜毀。（新華社）"
-    },
-    {
-      "id": "mkt:019fb960-9d12-7aab-8f3c-84bb2bd0fc1d",
-      "time": "2026-08-01 02:12:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US F-35 crashes at Marine Corps Air Station Miramar; emergency crews responding】Just after 10 a.m. local Friday, FOX 5/KUSI reported heavy smoke near Marine Corps Air Station Miramar in California. Marine officials said emergency crews are responding to an F-35 aircraft incident on the flight line. The jet is assigned to the 3rd Marine Aircraft Wing’s Marine Aircraft Group 11. Fire was reported east of the runway near Kearny Villa Road and Johnson Road; news helicopter footage showed heavy smoke and what appeared to be a burned aircraft."
-    },
-    {
-      "id": "mkt:019fb95f-efe3-7aab-8f3c-7e935143b806",
-      "time": "2026-08-01 02:11:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "CNC.V",
-        "Impact bullish"
-      ],
-      "text": "Canadian government has approved Canada Nickel's Crawford nickel mine project in northern Ontario."
     }
   ]
 }
