@@ -1,7 +1,119 @@
 {
   "date": "2026-08-07",
-  "count": 1648,
+  "count": 1661,
   "items": [
+    {
+      "id": "5030649",
+      "time": "2026-08-07 17:08:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股光通訊股AAOI盤前漲超15%，公司管理層在業績電話會上釋放積極訊號，表示AI基礎設施需求強勁，客戶需求較其當前供應能力高出約20%至40%。"
+    },
+    {
+      "id": "5030648",
+      "time": "2026-08-07 17:08:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【安徽證監局：對中城投集團第六工程局有限公司採取出具警示函措施】8月7日，安徽證監局網站釋出關於對中城投集團第六工程局有限公司採取出具警示函措施的決定。經查，公司作為公司債券發行人，未在規定期限內披露2025年年度報告，違反了《公司債券發行與交易管理辦法》（證監會令第222號）第四條、第五十條、第五十一條第一款的有關規定。根據《公司債券發行與交易管理辦法》第六十九條規定，安徽證監局決定對該公司採取出具警示函的行政監管措施，並記入證券期貨市場誠信檔案。"
+    },
+    {
+      "id": "mkt:019fdb7b-5768-7aab-8fb5-3581e7295f89",
+      "time": "2026-08-07 17:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Qianhong Pharmaceutical: 1H net profit 153 mln yuan, down 40.78% YoY】Qianhong Pharmaceutical on Aug 7 reported 1H 2026 revenue of 758 mln yuan, down 12% YoY, and net profit attributable to shareholders of 153 mln yuan, down 40.78% YoY; basic EPS 0.1215 yuan. The company cited sustained weak global demand for heparin APIs and concurrent price and volume declines, together with a pressured global pharmaceutical environment, as driving continued falls in overseas sales."
+    },
+    {
+      "id": "5030647",
+      "time": "2026-08-07 17:08:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州酒家：2026年上半年營收21.78億元 淨利潤同比降21.15%】廣州酒家公告稱，2026年上半年，公司營業總收入21.78億元，同比增長9.39%；歸屬於上市公司股東的淨利潤3083.08萬元，同比下降21.15%；扣非淨利潤4411.05萬元，同比增長25.60%。公司多渠道發力使營收增長，採取降本增效措施使綜合毛利率略有上升，但部分餐飲門店關閉和廠房裝置更新改造致非經常性損失增加。"
+    },
+    {
+      "id": "5030646",
+      "time": "2026-08-07 17:07:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北能源：2026年7月發電量37.89億千瓦時，同比減少12.66%】湖北能源公告，公司2026年7月完成發電量37.89億千瓦時，同比減少12.66%。其中水電發電量6.33億千瓦時，同比增加0.32%；火電發電量22.7億千瓦時，同比減少18.58%；新能源發電量8.86億千瓦時，同比減少3.59%。本年累計發電量260.87億千瓦時，同比增加5.22%。"
+    },
+    {
+      "id": "5030644",
+      "time": "2026-08-07 17:07:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【御銀股份：2026年半年度淨利潤1213.33萬元，同比增長14.25%】御銀股份公告，2026年半年度營業收入2704.43萬元，同比下降8.67%。歸屬於上市公司股東的淨利潤1213.33萬元，同比增長14.25%；扣非淨利潤871.93萬元，同比下降2.76%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:019fdb7a-1ceb-7aab-8fb5-2a9449f6ddf5",
+      "time": "2026-08-07 17:07:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News reported that Turkey, Saudi Arabia and Pakistan are set to sign a trilateral defense pact today called the Mecca Agreement."
+    },
+    {
+      "id": "5030643",
+      "time": "2026-08-07 17:06:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【泰國考慮要求資料中心自行負責水電供應】泰國副總理兼財政部長艾尼迪·尼迪甘巴帕8月7日表示，泰國政府考慮要求資料中心自行供應水電。尼迪甘巴帕稱，依賴公共電網或市政供水的資料中心可能會面臨更高的水電費率。"
+    },
+    {
+      "id": "te:markets:573749",
+      "time": "2026-08-07 17:05:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Edges Down — The British pound edged down to around $1.344 on Friday as investors remained cautious over the outcome of Iran-Oman talks and whether they will lead to the restoration of energy flows through the Strait of Hormuz. Although the two countries are reportedly working on an agreement to establish transit routes through the strategic waterway, no deal has yet been announced. Concerns over potential supply disruptions also persisted after Iran published a restrictive draft plan that could limit access for US and Israeli vessels and require compensation from countries it considers hostile. Investors continued to assess the implications for the energy outlook and monetary policy, with oil prices rising over the past two sessions despite remaining lower for the week. In July, the Bank of England left interest rates unchanged, while Governor Bailey said further tightening was not currently necessary, arguing that the disinflation process remained on track despite ongoing external uncertainties."
+    },
+    {
+      "id": "mkt:019fdb78-9014-7aab-8fb5-203bdf90f5cc",
+      "time": "2026-08-07 17:05:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China national carbon market weekly price and trading summary】This week China’s national carbon market composite price: high 100.00 yuan/tonne, low 96.50 yuan/tonne; closing price down 0.05% versus last Friday. Posted agreement trades: volume 1,938,060 tonnes, value 190,579,824.42 yuan. Block agreement trades: volume 3,691,736 tonnes, value 350,359,411.12 yuan. No one-way competitive bidding this week. Total weekly allowance traded volume 5,629,796 tonnes, value 540,939,235.54 yuan. 1 Jan–7 Aug 2026 YTD traded volume 75,848,588 tonnes, value 6,150,678,100.55 yuan. Cumulative market traded volume through 7 Aug 2026 940,715,108 tonnes, cumulative value 63,813,296,332.12 yuan."
+    },
+    {
+      "id": "mkt:019fdb78-5d16-7aab-8fb5-1f35fec663dc",
+      "time": "2026-08-07 17:05:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China national carbon market closes up 1.13%】China's national carbon emissions trading market closed at 98.54 yuan/ton, up 1.13% from the prior day; open 99.40, high 99.40, low 98.00 yuan/ton. Listed-agreement trades: 51,057 tons, 5,031,197.30 yuan; block-agreement trades: 925,000 tons, 87,863,900.00 yuan. Total volume 976,057 tons, turnover 92,895,097.30 yuan. Jan 1–Aug 7, 2026 volume 75,848,588 tons, turnover 6,150,678,100.55 yuan. Cumulative since launch to Aug 7, 2026: 940,715,108 tons, 63,813,296,332.12 yuan."
+    },
+    {
+      "id": "5030642",
+      "time": "2026-08-07 17:05:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞吉隆坡綜合指數收盤基本持平，報1735.75。"
+    },
+    {
+      "id": "5030641",
+      "time": "2026-08-07 17:05:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千禾味業增資至13.3億 增幅約30%】天眼查App顯示，千禾味業食品股份有限公司發生工商變更，註冊資本由約10.3億人民幣增至約13.3億人民幣，增幅約30%。該公司成立於1996年1月，法定代表人為伍超群，經營範圍包括食品生產、食品銷售、食品新增劑生產等。"
+    },
     {
       "id": "5030640",
       "time": "2026-08-07 17:04:56",
