@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-07 08:56:28",
-  "count": 16215,
+  "updated": "2026-08-07 09:00:48",
+  "count": 16203,
   "items": [
+    {
+      "id": "mkt:019fd9ba-f415-7aab-8fab-31251d4f14d8",
+      "time": "2026-08-07 08:58:55",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【US sold euros to buy yen in intervention; ECB says it was notified only after execution】The US sold euros to buy yen last week to support the Japanese currency and informed the European Central Bank only after the trades were executed, the Financial Times reported. ECB officials said they learned of the euro sales after execution on Friday. ECB President Lagarde spoke with US Treasury Secretary Bessent on Saturday. The operation was part of a rare US‑Japan coordinated effort to bolster the yen — the first in nearly 30 years — and, unusually, used euros rather than dollars. Some senior ECB officials called the decision to use euros an unprecedented breach of long‑standing cooperation norms. A person familiar with ECB discussions described the euro sales carried out by the New York Fed on behalf of the US Treasury as \"striking\" and \"regrettable.\""
+    },
+    {
+      "id": "5029765",
+      "time": "2026-08-07 08:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國秘書長副發言人呼籲俄烏停火 實現和平】聯合國秘書長副發言人哈克6日在紐約聯合國總部舉行的釋出會上表示，聯合國秘書長古特雷斯譴責俄烏近期互相發動的大規模導彈和無人機襲擊。哈克表示，古特雷斯認為針對平民和民用基礎設施的襲擊明顯違反國際人道法，必須立即停止。古特雷斯再次呼籲有關各方緊急採取行動緩和局勢，實現立即、全面、無條件、持久停火，並依據《聯合國憲章》、國際法及相關聯合國決議精神，推動實現公正、可持續和全面的和平。"
+    },
+    {
+      "id": "5029764",
+      "time": "2026-08-07 08:58:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛將商湯科技的評級從“買入”下調至“中性”，理由是人工智慧領域的競爭日益激烈，且其營收增長速度放緩；高盛將公司目標價從3.55港元下調至2港元。"
+    },
+    {
+      "id": "5029763",
+      "time": "2026-08-07 08:56:41",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美債期限溢價抬升等因素創造了對黃金有利的環境】伊朗與阿曼協議擬禁美以船隻霍爾木茲通行，但是特朗普仍表示美伊戰爭即將結束，油價反彈，但是通脹預期回落，加上美債期限溢價抬升和美元走弱等的確創造了對黃金有利的環境，微觀層面上看，COMEX非商業淨多頭回到2024年水平（去槓桿順利），波動率跌至低位，黃金反彈行情印證了我們之前的機會提醒，目前我們仍維持震盪偏多的思路。"
+    },
+    {
+      "id": "5029762",
+      "time": "2026-08-07 08:56:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雄安新區至商丘高速鐵路河北段開始按圖行車試驗】記者從國鐵北京局瞭解到，今天（7日），雄安新區至商丘高速鐵路河北段開始按圖行車試驗，標誌著進入開通運營倒計時。按圖行車試驗就是按照列車執行圖，組織列車在正常運營條件下的非載客執行，滿足開通運營各項標準和要求。（央視新聞）"
+    },
+    {
+      "id": "5029761",
+      "time": "2026-08-07 08:56:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【市場分析：日本可能已經用完了今年的干預次數額度】日本財務省4月至6月期間的外匯市場資料顯示，共有三個交易日買入了日元；再加上上週的干預行動，這可能意味著日本當局已用盡了國際貨幣基金組織(IMF)規則下允許的2026年度干預額度。在與美國財政部聯手買入日元后，未來六個月的干預計時器已被重置。這實際上意味著日本直至2027年初之前將無法採取干預行動。這對希望重新參與套息交易的匯市交易員而言是個好訊息。不過，一些投資者會質疑，在特朗普時代，舊有的基於規則的體系是否還有實際約束力。"
+    },
     {
       "id": "5029760",
       "time": "2026-08-07 08:55:21",
@@ -148129,168 +148186,6 @@
         "國際"
       ],
       "text": "韓國綜合股價指數上漲16%，至6489.83。"
-    },
-    {
-      "id": "mkt:019fb5af-f983-7aab-8f21-775c215fbeed",
-      "time": "2026-07-31 09:00:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Shanghai crude main contract (SC) fell 2.00% intraday to 549.60 yuan/barrel."
-    },
-    {
-      "id": "mkt:019fb5af-f8b3-7aab-8f21-6d9df3163209",
-      "time": "2026-07-31 09:00:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "South Korea's KOSPI index surged 16.00% intraday, currently at 6,489.83 points."
-    },
-    {
-      "id": "5017979",
-      "time": "2026-07-31 09:00:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲3.6%至265.92點。"
-    },
-    {
-      "id": "5017978",
-      "time": "2026-07-31 09:00:32",
-      "tags": [],
-      "text": "國內期貨主力合約跌多漲少，焦煤跌超2％，焦炭跌近2％，低硫燃料油（LU）、燃料油、SC原油、純鹼、液化石油氣（LPG）、純苯、雞蛋、紙漿、苯乙烯跌超1％。漲幅方面，鈀漲超3％，滬錫、鉑漲超2％，滬銀漲近2％，瓶片、紅棗漲超1％。"
-    },
-    {
-      "id": "5017977",
-      "time": "2026-07-31 09:00:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲6.6%至42,577.20點。"
-    },
-    {
-      "id": "5017976",
-      "time": "2026-07-31 09:00:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲5.5%至42,140.63點。"
-    },
-    {
-      "id": "mkt:019fb5af-b8ab-7aab-8f21-64ecb38ae4c2",
-      "time": "2026-07-31 09:00:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "At the morning open, China's commodity-futures main contracts were mostly lower. Coking coal fell over 2%, coke nearly 2%. Low-sulfur fuel oil (LU), fuel oil, Shanghai crude (SC), soda ash, LPG, benzene, eggs, pulp and styrene were down more than 1%. On the upside, palladium rose over 3%; SHFE tin and platinum gained more than 2%; SHFE silver climbed about 2%; bottle-grade PET chips and red dates were up over 1%."
-    },
-    {
-      "id": "5017975",
-      "time": "2026-07-31 09:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高4.2%報41,610.41。"
-    },
-    {
-      "id": "5017974",
-      "time": "2026-07-31 09:00:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報82.12美元/桶。"
-    },
-    {
-      "id": "5017973",
-      "time": "2026-07-31 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌2%，現報3590.00元。"
-    },
-    {
-      "id": "5017972",
-      "time": "2026-07-31 09:00:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】鈀連續漲2.51%，錫連續漲2.34%，焦煤連續跌2.27%，鉑連續漲2.20%，低硫燃料油連續跌2.01%。"
-    },
-    {
-      "id": "5017971",
-      "time": "2026-07-31 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純鹼連續主力合約日內跌1%，現報935.00元。"
-    },
-    {
-      "id": "5017970",
-      "time": "2026-07-31 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲1.86%。"
-    },
-    {
-      "id": "5017969",
-      "time": "2026-07-31 08:59:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股納斯達克100指數期貨漲超1%】美股納斯達克100指數期貨漲超1%，標普500指數期貨漲0.3%，道瓊斯指數期貨漲0.28%。"
-    },
-    {
-      "id": "mkt:019fb5ae-cda2-7aab-8f21-5ec05691b663",
-      "time": "2026-07-31 08:59:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign investors' June net selling of South Korean stocks hits record while holdings' market value rises to record】South Korea's Financial Supervisory Service said foreign investors net-sold 49.336 tln won of listed shares in June, the sixth consecutive month of net outflows. Net sales were concentrated on the KOSPI (50.979 tln won sold) while the KOSDAQ saw net inflows of 1.643 tln won. June's outflow exceeded May's record net sell of 47.019 tln won, setting a new monthly high. Year-to-date foreign net sales reached 116.3563 tln won, more than ten times last year's full-year net sell of 11.768 tln won. Despite heavy disposals, foreigners' end-June holdings of listed shares rose to 2,908.639 tln won, up 56.3 tln won month-on-month, and foreigners' share of market value climbed to a record 36.4%. Analysts attribute the pattern to profit-taking selling amid strong price gains in major holdings, which pushed up the market value of remaining positions and the ownership ratio."
-    },
-    {
-      "id": "5017968",
-      "time": "2026-07-31 08:59:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中科原動力獲奇瑞智慧科技數億元B2輪投資】近日，北京中科原動力科技有限公司完成B2輪數億元融資，本輪融資由奇瑞控股集團旗下安徽奇瑞智慧科技有限公司投資。本輪融資將主要用於新能源智慧農機及具身智慧農業機器人核心技術研發、產品規模化交付及加快海外市場拓展。"
-    },
-    {
-      "id": "5017967",
-      "time": "2026-07-31 08:58:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【離岸人民幣國債期貨時隔九年再登港交所】時隔九年，離岸人民幣國債期貨下週一將重新在香港上市交易。根據香港證監會披露，首個上市的5年期國債期貨將採用現金結算，價格按一籃子中國國債釐定，而在岸品種採用實物交割的方式。香港國債期貨合約金額為50萬元人民幣，僅為在岸同期限品種的一半，其交易時間長於在岸市場。"
-    },
-    {
-      "id": "5017966",
-      "time": "2026-07-31 08:56:44",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金財富期貨：美元指數跌破100關口，黃金大幅反彈】據日經新聞報道，日本當局進行了買入日元的匯率干預，美國監管機構亦進行了利率核查，但官方干預並未得到正式確認。日元的急劇升值加劇了美元的跌勢，美元指數跌破100關口，黃金大幅反彈，我們之前強調的黃金反彈逐漸度兌現，多單可繼續持有，密切關注日本在匯率方面的動向，以及原油市場的表現。"
     }
   ]
 }

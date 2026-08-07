@@ -1,7 +1,64 @@
 {
   "date": "2026-08-07",
-  "count": 385,
+  "count": 391,
   "items": [
+    {
+      "id": "mkt:019fd9ba-f415-7aab-8fab-31251d4f14d8",
+      "time": "2026-08-07 08:58:55",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "EURUSD",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【US sold euros to buy yen in intervention; ECB says it was notified only after execution】The US sold euros to buy yen last week to support the Japanese currency and informed the European Central Bank only after the trades were executed, the Financial Times reported. ECB officials said they learned of the euro sales after execution on Friday. ECB President Lagarde spoke with US Treasury Secretary Bessent on Saturday. The operation was part of a rare US‑Japan coordinated effort to bolster the yen — the first in nearly 30 years — and, unusually, used euros rather than dollars. Some senior ECB officials called the decision to use euros an unprecedented breach of long‑standing cooperation norms. A person familiar with ECB discussions described the euro sales carried out by the New York Fed on behalf of the US Treasury as \"striking\" and \"regrettable.\""
+    },
+    {
+      "id": "5029765",
+      "time": "2026-08-07 08:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國秘書長副發言人呼籲俄烏停火 實現和平】聯合國秘書長副發言人哈克6日在紐約聯合國總部舉行的釋出會上表示，聯合國秘書長古特雷斯譴責俄烏近期互相發動的大規模導彈和無人機襲擊。哈克表示，古特雷斯認為針對平民和民用基礎設施的襲擊明顯違反國際人道法，必須立即停止。古特雷斯再次呼籲有關各方緊急採取行動緩和局勢，實現立即、全面、無條件、持久停火，並依據《聯合國憲章》、國際法及相關聯合國決議精神，推動實現公正、可持續和全面的和平。"
+    },
+    {
+      "id": "5029764",
+      "time": "2026-08-07 08:58:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛將商湯科技的評級從“買入”下調至“中性”，理由是人工智慧領域的競爭日益激烈，且其營收增長速度放緩；高盛將公司目標價從3.55港元下調至2港元。"
+    },
+    {
+      "id": "5029763",
+      "time": "2026-08-07 08:56:41",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：美債期限溢價抬升等因素創造了對黃金有利的環境】伊朗與阿曼協議擬禁美以船隻霍爾木茲通行，但是特朗普仍表示美伊戰爭即將結束，油價反彈，但是通脹預期回落，加上美債期限溢價抬升和美元走弱等的確創造了對黃金有利的環境，微觀層面上看，COMEX非商業淨多頭回到2024年水平（去槓桿順利），波動率跌至低位，黃金反彈行情印證了我們之前的機會提醒，目前我們仍維持震盪偏多的思路。"
+    },
+    {
+      "id": "5029762",
+      "time": "2026-08-07 08:56:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雄安新區至商丘高速鐵路河北段開始按圖行車試驗】記者從國鐵北京局瞭解到，今天（7日），雄安新區至商丘高速鐵路河北段開始按圖行車試驗，標誌著進入開通運營倒計時。按圖行車試驗就是按照列車執行圖，組織列車在正常運營條件下的非載客執行，滿足開通運營各項標準和要求。（央視新聞）"
+    },
+    {
+      "id": "5029761",
+      "time": "2026-08-07 08:56:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【市場分析：日本可能已經用完了今年的干預次數額度】日本財務省4月至6月期間的外匯市場資料顯示，共有三個交易日買入了日元；再加上上週的干預行動，這可能意味著日本當局已用盡了國際貨幣基金組織(IMF)規則下允許的2026年度干預額度。在與美國財政部聯手買入日元后，未來六個月的干預計時器已被重置。這實際上意味著日本直至2027年初之前將無法採取干預行動。這對希望重新參與套息交易的匯市交易員而言是個好訊息。不過，一些投資者會質疑，在特朗普時代，舊有的基於規則的體系是否還有實際約束力。"
+    },
     {
       "id": "5029760",
       "time": "2026-08-07 08:55:21",
