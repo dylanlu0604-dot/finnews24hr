@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-08 01:36:21",
-  "count": 16012,
+  "updated": "2026-08-08 01:40:15",
+  "count": 16011,
   "items": [
+    {
+      "id": "mkt:019fdd4b-f8be-7aab-8fbf-5bb0f4bc6cc0",
+      "time": "2026-08-08 01:36:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Axios reports a diplomat from the mediation country said Iranian negotiators are awaiting final approval from Iran's Supreme National Security Council for an agreement with Oman and the United States; \"we expect to receive this approval soon.\""
+    },
     {
       "id": "5031467",
       "time": "2026-08-08 01:34:32",
@@ -145928,22 +145941,6 @@
         "國際"
       ],
       "text": "義大利總理：義大利支援歐盟支援西班牙的倡議。"
-    },
-    {
-      "id": "5019794",
-      "time": "2026-08-01 01:38:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利總理：決定暫停與西班牙之間的申根協定。"
-    },
-    {
-      "id": "mkt:019fb940-169b-7aab-8f3c-40049dab39ff",
-      "time": "2026-08-01 01:36:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU ambassadors will meet on Monday to discuss the migration situation in Spain."
     }
   ]
 }
