@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-07 20:14:16",
-  "count": 16069,
+  "updated": "2026-08-07 20:22:03",
+  "count": 16052,
   "items": [
+    {
+      "id": "5031114",
+      "time": "2026-08-07 20:21:19",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨齊漲，道指期貨漲0.12%，標普500指數期貨漲0.26%，納指期貨漲0.60%。\n②德國DAX指數漲0.87%，英國富時100指數漲0.75%，法國CAC40指數漲0.42%，歐洲斯托克50指數漲0.66%。\n③WTI原油跌0.19%，報77.14美元/桶。布倫特原油跌0.51%，報82.07美元/桶。\n④週五，市場靜待關鍵就業資料公佈，美國國債收益率小幅走低。 作為房貸、汽車貸款、信用卡利率核心定價基準的10 年期美債收益率下行超 1 個基點，報 4.656%。\n⑤官方資料顯示，8月4日標普500指數看漲期權成交量達到4023796張合約，創下歷史新高，策略師瑞安・德特里茨提醒投資者要為 8‑9 月這 “表現最差的兩個月” 做好心理準備。\n⑥距離美日聯合出手、拯救持續承壓的日元匯市已經過去一週，日元短暫拉昇後的反彈行情逐漸消退，匯率再度走低。\n⑦美股光通訊股AAOI盤前漲超15%，公司管理層在業績電話會上釋放積極訊號，表示AI基礎設施需求強勁，客戶需求較其當前供應能力高出約20%至40%。\n⑧微芯科技股票盤前上漲9%，此前該公司公佈的第二季度收入與利潤預測均高於市場預期。\n⑨廣告交易平臺Trade Desk股價盤前下跌27%，此前該公司公佈第三季度收入預測低於市場預期。"
+    },
+    {
+      "id": "5031113",
+      "time": "2026-08-07 20:20:10",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "捷藍航空股價在盤前交易中下跌1.5%，此前花旗集團將其評級從中性下調至賣出。"
+    },
+    {
+      "id": "mkt:019fdc2a-99a1-7aab-8fb8-ab8145cceac7",
+      "time": "2026-08-07 20:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "U.S. July seasonally adjusted nonfarm payrolls, unemployment rate and average hourly earnings (MoM and YoY), and Canada’s July employment due in 10 minutes."
+    },
+    {
+      "id": "mkt:019fdc2a-6a72-7aab-8fb8-a6e454a24415",
+      "time": "2026-08-07 20:19:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Saudi Foreign Ministry official told Saudi outlet Hadas the Mecca joint defense agreement is not related to any nuclear program or an arms race."
+    },
+    {
+      "id": "5031112",
+      "time": "2026-08-07 20:18:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代：披露2026年第一次臨時股東會前十名股東持股情況】寧德時代公告稱，公司於2026年7月24日透過回購股份方案，擬用200億 - 400億元自有或自籌資金回購股份用於登出。現披露2026年第一次臨時股東會股權登記日（8月5日）前十名股東和前十名無限售條件股東持股情況，前十名股東中廈門瑞庭投資有限公司持股10.20億股，佔比22.04%居首；前十名無限售條件股東里，廈門瑞庭投資有限公司持股10.20億股，佔無限售條件流通股比例22.77%排第一。"
+    },
+    {
+      "id": "5031111",
+      "time": "2026-08-07 20:18:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙稱搗毀地中海大型偷渡網路，78人被捕】當地時間8月7日，西班牙警方宣佈搗毀一個地中海大型跨國人口走私網路，共逮捕78名嫌疑人，查獲18艘高速快艇。警方表示，該犯罪團伙涉嫌利用快艇將合成毒品從西班牙運往阿爾及利亞，再利用同一批船隻將非法移民偷運至西班牙本土和伊維薩島。目前，案件仍在進一步調查中。（央視新聞）"
+    },
+    {
+      "id": "5031110",
+      "time": "2026-08-07 20:17:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和晶科技：上海一什破產 其持澳潤科技100%股權將拍賣】和晶科技公告稱，公司與上海一什、澳潤科技的股權轉讓糾紛訴訟一、二審判決已產生，上海一什不服判決申請再審被駁回，後申請破產清算。近日，上海市第三中級人民法院宣告上海一什破產，認可其管理人制作的《財產變價方案》。上海一什管理人將於9月7 - 8日拍賣其持有的澳潤科技100%股權，起拍價7305.70萬元。公司已申報債權，確認金額合計8218.81萬元，將根據財產變現結果受償。"
+    },
+    {
+      "id": "5031109",
+      "time": "2026-08-07 20:16:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大中礦業：2026年上半年營收17.78億元 同比降9.86%】大中礦業公告稱，2026年上半年營收17.78億元，同比降9.86%；淨利潤3.22億元，同比降20.59%。報告期內，公司5%以上股東梁欣雨、董事長牛國鋒、高管張傑減持計劃期限屆滿；原財務總監鄒慶利辭職，聘任徐向煒為財務總監；擬募資不超25億元用於鋰礦專案等；調整管理層，王喜明任總經理、副董事長及法定代表人；實施2025年度利潤分配，“大中轉債”轉股價格調整；子公司新增採礦權及探礦許可證；合資子公司完成工商註冊。"
+    },
+    {
+      "id": "5031108",
+      "time": "2026-08-07 20:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "QumulusAI與智慧代理對沖基金（Agentic Hedge Fund）簽署協議，將為其提供英偉達布萊克韋爾（NVIDIA Blackwell）GPU算力。"
+    },
+    {
+      "id": "5031107",
+      "time": "2026-08-07 20:15:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "汽車之家（納斯達克股票程式碼：AZI）宣佈已就擬議反向收購交易與一家非上市運營企業簽署意向書。"
+    },
+    {
+      "id": "5031106",
+      "time": "2026-08-07 20:14:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【秘魯和墨西哥宣佈恢復外交關係】秘魯外交部7日發表宣告，宣佈秘魯和墨西哥政府已達成協議，正式恢復自2025年11月以來中斷的外交關係。雙方表示，此舉基於兩國長期以來的友誼、合作與兄弟情誼，並重申將尊重國際法及《聯合國憲章》的原則。兩國關係曾因秘魯前總統佩德羅·卡斯蒂略相關的政治風波而惡化。墨西哥此前向卡斯蒂略家屬及前總理貝齊·查韋斯提供外交庇護，引發秘魯政府強烈不滿，並於2025年宣佈與墨西哥斷絕外交關係。（央視新聞）"
+    },
+    {
+      "id": "te:economy:573789",
+      "time": "2026-08-07 20:14:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Chile",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Chile Inflation Hits Four-Month Low — Chile's annual inflation rate eased to 3.5% in July 2026 from 4.3% in June, marking the lowest annual CPI increase since March. The main upward pressures came from restaurants and lodging (6.6%), education (5.9%), healthcare (5.1%), transport (4.6%), recreation, sports, and culture (4.4%), and food and non-alcoholic beverages (4.0%). In contrast, prices fell for clothing and footwear (-4.8%) and insurance and financial services (-3.4%). On a monthly basis, consumer prices rose 0.1% after remaining unchanged in June, bringing year-to-date inflation to 2.9%. Core consumer prices increased 0.4% month-on-month after declining 0.1% in June."
+    },
     {
       "id": "5031105",
       "time": "2026-08-07 20:13:39",
@@ -146118,286 +146229,6 @@
         "Impact bearish"
       ],
       "text": "【TD Securities: Eurozone inflation mildly rebounds; September 25bp ECB hike still rock-solid】TD Securities strategists say Eurozone HICP rose to 2.9% YoY in July; core inflation was 2.5% and services inflation 3.3%, leaving limited evidence of meaningful second‑round effects. Markets continue to price a 25bp ECB hike in September, which TD retains as its base case. The firm says only a clear, durable resolution of the Middle East conflict would materially alter that outlook."
-    },
-    {
-      "id": "5019392",
-      "time": "2026-07-31 20:21:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：我昨天在研究農業法案。"
-    },
-    {
-      "id": "5019391",
-      "time": "2026-07-31 20:21:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅隴南釋出暴雨紅色預警訊號 嘉峪關啟動洪水防禦Ⅳ級應急響應】隴南市氣象臺7月31日17時52分繼續釋出暴雨紅色預警訊號請注意防範由強降水可能引發的中小河流洪水、山洪及滑坡、泥石流、城鄉積澇等次生災害。（央視新聞）"
-    },
-    {
-      "id": "5019390",
-      "time": "2026-07-31 20:21:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚執行長表示，委內瑞拉仍需進行結構性改革。"
-    },
-    {
-      "id": "5019389",
-      "time": "2026-07-31 20:21:13",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲：道指期貨漲0.52%，標普500指數期貨漲0.33%，納指期貨跌1.12%。\n②德國DAX指數漲0.37%，英國富時100指數漲0.22%，法國CAC40指數漲0.82%，歐洲斯托克50指數漲0.72%。\n③WTI原油漲2.07%，報85.33美元/桶。布倫特原油漲1.81%，報88.45美元/桶。\n④伊朗伊斯蘭革命衛隊釋出宣告稱，革命衛隊海軍當天在霍爾木茲海峽擊中並扣留了兩艘違反禁令的油輪。\n⑤特朗普於當地時間 7 月 30 日宣佈，“和平委員會” 達成歷史性協議，哈馬斯及加沙所有武裝團體將全面解除武裝。\n⑥摩根大通策略師Junya Tanase表示，日本當局選擇在日本央行7月31日政策決議前出手干預匯市，是預判植田和男行長釋放偏鴿論調或將再度引發日元拋售。\n⑦費城半導體板塊在7月31日盤前延續前一日大幅反彈勢頭，英特爾上漲約6.0%，AMD上漲約4.0%，美光科技上漲約3.5%，邁威爾上漲約2.0%，英偉達上漲約2.0%，泛林上漲約1.8%，應用材料上漲約1.5%，臺積電上漲約1.5%，科磊上漲約1.2%，博通上漲約1.0%。\n⑧亞馬遜股價上漲約12%，此前財報大超預期。\n⑨蘋果下跌約7%，第四財季營收指引不及預期及供應限制。"
-    },
-    {
-      "id": "5019388",
-      "time": "2026-07-31 20:20:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯：協議以重建和建立巴勒斯坦國為前提。"
-    },
-    {
-      "id": "mkt:019fb81e-989c-7aab-8f35-5d35655c260f",
-      "time": "2026-07-31 20:20:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hamas says any agreement is premised on reconstruction and the establishment of a Palestinian state."
-    },
-    {
-      "id": "mkt:019fb81e-5da7-7aab-8f35-559c8bd35a79",
-      "time": "2026-07-31 20:20:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "White House National Economic Council Director Hassett said the administration will continue to take measures, if necessary, to keep oil prices low."
-    },
-    {
-      "id": "5019387",
-      "time": "2026-07-31 20:20:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：如有必要，將繼續採取措施壓低油價。"
-    },
-    {
-      "id": "mkt:019fb81e-12fb-7aab-8f35-4ec6cb6815db",
-      "time": "2026-07-31 20:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "US Q2 labor cost index (QoQ) and Canada May GDP (MoM) due in 10 minutes."
-    },
-    {
-      "id": "5019385",
-      "time": "2026-07-31 20:19:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃克森美孚：歐洲正走上一條毫無益處的道路。"
-    },
-    {
-      "id": "mkt:019fb81d-8ee1-7aab-8f35-46ea384eb026",
-      "time": "2026-07-31 20:19:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【About 49,000 migrants illegally entered Spanish exclave Ceuta; 34 dead】Spanish media on July 31, citing government and police sources, reported roughly 49,000 migrants illegally crossed from Morocco into Spain’s North African exclave Ceuta in the past 24 hours; 34 people died during the crossings."
-    },
-    {
-      "id": "5019384",
-      "time": "2026-07-31 20:18:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃克森美孚：歐洲正加倍推行針對行業的“非常糟糕的政策”。"
-    },
-    {
-      "id": "5019383",
-      "time": "2026-07-31 20:18:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特重申對《瓊斯法案》豁免對油價的讚揚。"
-    },
-    {
-      "id": "5019382",
-      "time": "2026-07-31 20:18:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受雷暴大風天氣影響，浙江溫州福慶橋區域性陷落 1人失蹤】2026年7月31日下午，受10級瞬時雷暴大風天氣影響，浙江溫州泰順縣南浦溪鎮新孫線路邊福慶橋發生區域性陷落。當天16時許接到群眾電話，反映福慶橋出現陷落，南浦溪鎮應急部門、專職消防隊、派出所、120急救中心第一時間趕赴現場開展處置。目前，一人落水已成功獲救，無生命危險；另一人失蹤，正在全力搜救中。根據現場情況，福慶橋一側橋面發生陷落，陷落部分佔整座橋樑的三分之一，陷落的橋體木構件順著河道漂浮到下游，工作人員同步打撈漂浮構件。福慶橋是由民間集資新建的景觀橋。目前，鄉鎮部門已開展緊急處置，請廣大村民、過往司機主動繞行，遠離危險區域，保障人身安全。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb81b-f3fe-7aab-8f35-3892995d3b44",
-      "time": "2026-07-31 20:17:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Hamas says resolution of the heavy-weapons issue must be contingent on an Israeli withdrawal."
-    },
-    {
-      "id": "mkt:019fb81b-c4f2-7aab-8f35-3152329387fb",
-      "time": "2026-07-31 20:17:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "White House National Economic Council Director Hassett said he views the rise in the 10-year U.S. Treasury yield as temporary."
-    },
-    {
-      "id": "mkt:019fb81b-c37c-7aab-8f35-2f675eb68715",
-      "time": "2026-07-31 20:17:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "White House National Economic Council Director Hassett said he views the rise in the 10-year Treasury yield as temporary."
-    },
-    {
-      "id": "mkt:019fb81b-a3e4-7aab-8f35-23e15dc72250",
-      "time": "2026-07-31 20:17:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Hamas says it has agreed to include heavy weapons in a second-phase agreement."
-    },
-    {
-      "id": "5019381",
-      "time": "2026-07-31 20:17:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯：重型武器問題以以色列撤軍為條件。"
-    },
-    {
-      "id": "5019380",
-      "time": "2026-07-31 20:16:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "哈塞特：認為10年期美國國債收益率的攀升只是暫時的。"
-    },
-    {
-      "id": "5019379",
-      "time": "2026-07-31 20:16:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【土耳其“可汗”戰鬥機新原型機完成首次滑行測試】土耳其國產戰機“可汗”的新原型機近日完成首次滑行測試。兩架新原型機在設計上有多項改進，其中一架已進入地面測試階段，並順利完成滑行測試。“可汗”戰鬥機由土耳其航空航天工業公司研製，2024年2月21日首飛成功。根據土耳其媒體披露的資訊，“可汗”戰鬥機機長21米、機高6米、翼展14米，最高時速可達2210公里。該型戰機採用單座、雙發動機設計，能夠攜帶8枚中遠端導彈，可與無人機、預警機等平臺協同作戰。“可汗”戰鬥機被視為土耳其空軍未來取代現役F-16戰機的重要機型，近年來持續受到土耳其輿論和軍工界關注。此次新原型機完成滑行測試，被視為該專案繼續推進的重要一步。（新華社）"
-    },
-    {
-      "id": "mkt:019fb81a-967f-7aab-8f35-19d7fcec801a",
-      "time": "2026-07-31 20:16:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hamas said the first step in implementing the agreement is for Israel to commit to stop killings and end violations."
-    },
-    {
-      "id": "mkt:019fb819-f737-7aab-8f35-17e4611741dc",
-      "time": "2026-07-31 20:15:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "White House National Economic Council director Hassett expects AI-driven productivity gains will help lower U.S. inflation."
-    },
-    {
-      "id": "5019378",
-      "time": "2026-07-31 20:15:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈馬斯表示，執行該協議的第一步是以色列承諾停止殺戮並結束所有侵犯行為。"
-    },
-    {
-      "id": "mkt:019fb819-9c3e-7aab-8f35-0c2f49877e43",
-      "time": "2026-07-31 20:15:13",
-      "tags": [
-        "MKT News",
-        "IOC.NS",
-        "Impact bearish"
-      ],
-      "text": "Indian Oil Corporation reported a Q1 net loss of INR 26.61 billion and operating revenue of INR 2.76 trillion."
-    },
-    {
-      "id": "5019377",
-      "time": "2026-07-31 20:15:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：預計人工智慧生產力將有助於降低通貨膨脹。"
-    },
-    {
-      "id": "te:economy:571770",
-      "time": "2026-07-31 20:14:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "South Africa Trade Surplus Widens in June — South Africa's trade surplus widened to ZAR 17.75 billion in June 2026 from an upwardly revised ZAR 4.44 billion in the previous month, as exports increased while imports declined. Exports rose 4.3% to ZAR 193.6 billion, driven by higher shipments of vehicles and transport equipment (16%), chemical products (6%), prepared foodstuffs (6%), and precious metals and stones (2%). Meanwhile, imports fell 2.9% to ZAR 175.8 billion, reflecting lower purchases of mineral products (-15%), vehicles and transport equipment (-12%), and original equipment components (-6%). Despite the monthly improvement, the trade surplus was smaller than the ZAR 20.96 billion surplus recorded in the same month a year earlier."
-    },
-    {
-      "id": "5019376",
-      "time": "2026-07-31 20:14:25",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【中國核電：遼寧莊河核電1、2號機組及浙江金七門核電3、4號機組獲國務院核准】中國核電公告，2026年7月31日經國務院常務會議審議，決定核准遼寧莊河核電專案1號、2號機組和浙江金七門核電專案3號、4號機組。公司旗下中核大唐莊河核電有限公司、中核（象山）核能有限公司分別作為業主單位，兩專案本期工程均建設2臺“華龍一號”壓水堆核電機組。目前工程現場正穩妥有序推進開工前各項準備工作。"
-    },
-    {
-      "id": "5019375",
-      "time": "2026-07-31 20:14:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司第一季運營營收2.76萬億盧比。"
     }
   ]
 }
