@@ -1,7 +1,115 @@
 {
   "date": "2026-08-07",
-  "count": 1031,
+  "count": 1042,
   "items": [
+    {
+      "id": "5030194",
+      "time": "2026-08-07 14:28:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胖東來生活廣場店將閉店】8月7日，於東來直播宣佈，開業24年的生活廣場店將於2026年12月關閉。他表示，品質不達標的關店！（頂端新聞）"
+    },
+    {
+      "id": "5030193",
+      "time": "2026-08-07 14:28:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股“藥王”盤中股價創歷史新高】8月7日下午兩點多，港股市值最大的藥企藥明康德盤中股價一度達到193港元/股，創下歷史新高，股價漲幅超過7%。上一次，藥明康德股價創新高是在新冠疫情間的2021年12月底。當前，藥明康德港股市值突破5700億港元。（第一財經）"
+    },
+    {
+      "id": "te:economy:573658",
+      "time": "2026-08-07 14:28:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Lithuania Trade Gap Widens in June — Lithuania posted a trade deficit of EUR 713.1 million in June 2026, widening from EUR 404.0 million in the corresponding month a year earlier. Exports increased 18.5% year-on-year to EUR 3,546.5 million, driven by higher shipments of mineral fuels, mineral oils and products of their distillation (52.5%), plastics and articles thereof (19.2%), and iron and steel (2.4%). Meanwhile, imports climbed 25.4% to EUR 4,259.6 million, mainly reflecting stronger purchases of mineral fuels, mineral oils and products of their distillation (2.1%), ground vehicles and parts thereof (20.3%), and electrical machinery, equipment and parts thereof (23.9%). Over the first six months of the year, the country's trade deficit widened to EUR 3,526 million from EUR 3,239 million, as imports (6.0%) continued to outpace exports (5.5%). Exports increased to Latvia (13.9%), Poland (26.2%), and the Netherlands (14.5%), while imports also rose from Poland (6.0%), Germany (2.5%), Latvia (9.0%), and Norway (90.9%)."
+    },
+    {
+      "id": "mkt:019fdae7-e889-7aab-8fb1-6f600a2412a6",
+      "time": "2026-08-07 14:27:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Institutions' preview: U.S. July seasonally adjusted nonfarm payrolls (prior +57k)】Forecasts range from +10k to +130k, with a heavy cluster at +75k–+80k (numerous forecasts at +75k). Reuters preview +80k. Prior (June) +57k."
+    },
+    {
+      "id": "5030192",
+      "time": "2026-08-07 14:27:39",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【機構前瞻美國7月季調後非農就業人口（前值：+5.7萬 ）】\n1. 先鋒領航：+1.0萬人；貝倫貝格銀行：+4.0萬人；豐業銀行：+5.0萬人；穆迪分析：+5.0萬人；\n2. 加皇銀行：+6.3萬人；德意志銀行：+6.5萬人；北歐斯安銀行：+6.5萬人；瑞銀集團：+7.0萬人；\n3. 道明證券：+7.0萬人；丹斯克銀行：+7.0萬人；摩根士丹利：+7.0萬人；滙豐控股：+7.0萬人；\n4. 法巴銀行：+7.5萬人；荷蘭國際：+7.5萬人；蒙特利爾銀行：+7.5萬人；高盛集團：+7.5萬人；\n5. 摩根大通：+7.5萬人；大和資本：+7.5萬人；西太平洋銀行：+7.5萬人；渣打銀行：+7.5萬人；\n6. 潘森宏觀：+7.5萬人；合眾銀行：+7.5萬人；帝國商業銀行：+7.5萬人；高頻經濟：+7.8萬人；\n7. 三井住友：+7.8萬人；牛津經濟：+8.0萬人；澳洲聯邦銀行：+8.0萬人；美銀美林：+8.0萬人；\n8. 澳新銀行：+8.0萬人；勞埃德銀行：+8.0萬人；國民西敏寺：+8.5萬人；凱投宏觀：+9.0萬人；\n9. 富國銀行：+9.5萬人；巴克萊銀行：+10.0萬人；德商銀行：+10.0萬人；法興銀行：+10.5萬人；\n10. 花旗集團：+11.5萬人；瑞穗證券：+11.5萬人；野村證券：+13.0萬人；[路透預期：+8.0萬人]"
+    },
+    {
+      "id": "5030191",
+      "time": "2026-08-07 14:27:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯昌電子7月營收為1230萬新臺幣，去年同期為3250萬新臺幣。"
+    },
+    {
+      "id": "5030190",
+      "time": "2026-08-07 14:26:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“AI教父”拉響警報：人類可能無法戰勝下一代AI模型】在業內有“人工智慧教父”之稱的電腦科學家傑弗裡·辛頓（Geoffrey Hinton）週三表示，隨著人工智慧（AI）技術在代際之間不斷發展，人類可能無法繼續保持對大型語言模型的統治地位。 辛頓在拉斯維加斯舉行的Ai4峰會上發表講話後告訴媒體：“現在的情況是，這些東西變得越來越智慧。我認為隨著它們變得越來越智慧，我們將看到它們擁有越來越複雜的意圖，以及越來越強的逃脫控制的能力。” “我不認為我們能像過去那樣，僅僅透過簡單設法讓他們無法逃脫來控制他們。”他後來補充道。 此前，這位諾貝爾獎得主、前谷歌高管、深度學習奠基人已多次發出類似的警告：人類在面對下一代超級智慧模型時，可能無法透過傳統手段“戰勝”或“關閉”它們。"
+    },
+    {
+      "id": "5030189",
+      "time": "2026-08-07 14:26:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【威剛：儲存價格上漲趨勢延續至明年上半年，明年DRAM供應更缺】據報道，威剛近日在法說會上表示，在需求增加、價格走高及貨源穩定的三大有利因素帶動下，預期第3季度營運將優於第2季度，並進一步擴大全年營運成果。公司看好第4季度到2027年上半年的DRAM和NAND Flash價格有望維持上升趨勢。目前儲存市場供給持續緊張，預計2027年DRAM供給將較2026年更吃緊。隨著PC和伺服器平臺持續升級，DDR5已成為市場主流，長期而言，DDR5將比DDR4更緊缺。"
+    },
+    {
+      "id": "5030188",
+      "time": "2026-08-07 14:25:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【CBO預警特朗普黃金艦隊造價或達2750億美元，且美國造船廠產能不足】美國國會預算辦公室（CBO）於當地時間5日釋出報告稱，美國海軍計劃建造的15艘核動力“特朗普級”（Trump-class）戰列艦，從研發到採購的總費用可能高達2750億美元，為美國有史以來最昂貴的水面戰艦專案之一。 根據CBO的初步估算，首艦造價約234億美元，後續14艘平均每艘約180億美元。報告稱，這些戰艦滿載排水量約3.5萬噸，長度約840至880英尺，將成為二戰以來美國海軍建造的最大水面戰鬥艦。 （第一財經）"
+    },
+    {
+      "id": "mkt:019fdae6-009c-7aab-8fb1-60ccd71e8f6d",
+      "time": "2026-08-07 14:25:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 10.10 points (-0.11%) at 9,261.50 on Friday, Aug 7."
+    },
+    {
+      "id": "te:economy:573656",
+      "time": "2026-08-07 14:25:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Finland Trade Surplus Hits Record High — Finland's trade surplus widened to EUR 1.89 billion in June 2026 from EUR 0.88 billion in the corresponding month of 2025, according to preliminary estimates. This marked the largest trade surplus ever recorded, as exports rose faster than imports. Exports rose 39.6% year-on-year to EUR 9.0 billion, supported by higher shipments to both EU countries (12.8%) and non-EU countries (10.5%). Among Finland's major trading partners, exports surged to the US (338.2%) and also increased to China (54.1%), Sweden (20.7%), and Germany (12.0%). Meanwhile, imports climbed 17.6% to EUR 7.15 billion. It should be noted that imports from EU countries are now compiled using a new methodology starting January 2026, so only total values are comparable with those of 2025. For the January–June period, Finland posted a trade deficit of EUR 1.10 billion, widening from a EUR 0.65 billion deficit in the same period of 2025."
+    },
     {
       "id": "5030187",
       "time": "2026-08-07 14:24:36",
