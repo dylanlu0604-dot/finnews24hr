@@ -1,7 +1,62 @@
 {
   "date": "2026-08-07",
-  "count": 908,
+  "count": 914,
   "items": [
+    {
+      "id": "5030110",
+      "time": "2026-08-07 13:41:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄電商巨頭“野莓”再次通報倉庫遭襲起火】俄羅斯電商巨頭“野莓”（Wildberries）7日通報稱，其在葉卡捷琳堡市的倉庫因襲擊起火，消防人員正在撲救。收貨已臨時受限，物資被分流至其他設施。俄羅斯總統駐烏拉爾聯邦區全權代表若加隨後稱，該市一座倉庫遭無人機襲擊，800人被疏散，無傷亡。斯維爾德洛夫斯克州州長帕斯列爾通報指出，3架無人機殘骸落在被襲倉庫屋頂。據他介紹，共有8架無人機被摧毀。"
+    },
+    {
+      "id": "te:economy:573626",
+      "time": "2026-08-07 13:41:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "France Jobless Rate Rises to Highest Since 2020 — The unemployment rate in France rose to 8.3% in the second quarter of 2026 from 8.1% in the previous quarter, topping market forecasts of 8.2%. This was the highest level since the third quarter of 2020, with the number of unemployed people rising by 62,000 to 2.7 million. The jobless rate was also 0.7 percentage points higher than in the same period last year."
+    },
+    {
+      "id": "5030109",
+      "time": "2026-08-07 13:39:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量66億元。"
+    },
+    {
+      "id": "5030108",
+      "time": "2026-08-07 13:39:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度外貿總局：執行機構由印度儲備銀行移交至印度進出口銀行。"
+    },
+    {
+      "id": "5030107",
+      "time": "2026-08-07 13:38:19",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊震盪走高，招金黃金漲超7%】貴金屬板塊震盪走高，招金黃金漲超7%，株冶集團、興業銀錫、中金黃金、山金國際跟漲。"
+    },
+    {
+      "id": "5030106",
+      "time": "2026-08-07 13:38:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力公司將聖阿爾班1號反應堆的輸出功率從1335兆瓦削減至260兆瓦，將特里卡斯廷4號反應堆的輸出功率從915兆瓦削減至180兆瓦。"
+    },
     {
       "id": "5030105",
       "time": "2026-08-07 13:38:01",
