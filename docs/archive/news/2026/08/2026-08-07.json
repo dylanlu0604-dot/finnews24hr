@@ -1,7 +1,94 @@
 {
   "date": "2026-08-07",
-  "count": 886,
+  "count": 895,
   "items": [
+    {
+      "id": "5030097",
+      "time": "2026-08-07 13:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國第二季度失業率升至8.3%。"
+    },
+    {
+      "id": "5030096",
+      "time": "2026-08-07 13:30:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲6%，現報38150.00元。"
+    },
+    {
+      "id": "mkt:019fdab3-3c8c-7aab-8fb0-498ce4f898e6",
+      "time": "2026-08-07 13:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "France Q2 ILO unemployment rate 8.3% (expected 8.2%; prior 8.1%)."
+    },
+    {
+      "id": "5030095",
+      "time": "2026-08-07 13:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "長鑫科技成交額超200億元，現漲2.06%。"
+    },
+    {
+      "id": "mkt:019fdab3-2217-7aab-8fb0-44fdffcae1c5",
+      "time": "2026-08-07 13:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "France | ILO Unemployment Rate (Q2) | actual 8.3% | consensus 8.2% | previous 8.10%"
+    },
+    {
+      "id": "5030094",
+      "time": "2026-08-07 13:29:41",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本外匯儲備連續第三個月下降】日本財務省7日公佈的資料顯示，截至今年7月末，日本外匯儲備約為1.29萬億美元，較6月末減少3.77億美元，為連續第三個月下降。日本財務省表示，外匯儲備減少的原因是美國國債收益率上升，導致日本持有的美國國債等債券市值下降。資料顯示，截至7月末，日本外匯儲備中的證券資產約為9273.32億美元，較6月末減少12.5億美元。由於日本政府和央行7月底干預日元匯率，外匯儲備變化受到市場關注。日本財務省表示，從交易達成到結算需要數天時間。因此，7月底干預匯率的影響尚未反映在此次統計資料中。（新華社）"
+    },
+    {
+      "id": "5030093",
+      "time": "2026-08-07 13:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【塞力醫療等成立醫療科技公司 含體育健康服務業務】企查查APP顯示，近日，塞力海醫（上海）醫療科技有限公司成立，法定代表人為趙柯楠，經營範圍包含醫學研究和試驗發展；體育健康服務；供應鏈管理服務；軟體開發；資訊系統整合服務等。企查查股權穿透顯示，該公司由塞力醫療(603716)全資子公司塞力斯（上海）醫療科技有限公司、上海豐瑞寧醫療科技有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019fdab1-db73-7aab-8fb0-3eb72dcb2e73",
+      "time": "2026-08-07 13:28:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China State Shipbuilding unit Beihai Shipbuilding orderbook tops 100 vessels】A contract for a series of bulk carriers between Beihai Shipbuilding, a unit of China State Shipbuilding Corporation, and COSCO Shipping took effect. Beihai’s orderbook now exceeds 23 mln dwt and has surpassed 100 vessels, with some deliveries scheduled through 2030."
+    },
+    {
+      "id": "5030092",
+      "time": "2026-08-07 13:28:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國船舶旗下北海造船手持訂單突破100艘】據中國船舶訊息，近日，中國船舶集團有限公司旗下北海造船與中遠海運散運系列散貨船建造合同生效。至此，北海造船手持造船訂單量超2300萬載重噸，歷史性突破100艘大關，部分訂單交船期已排至2030年。"
+    },
     {
       "id": "mkt:019fdab0-29cc-7aab-8fb0-361729b2ab5f",
       "time": "2026-08-07 13:26:45",
