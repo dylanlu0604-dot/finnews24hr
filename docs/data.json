@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-08 02:51:19",
-  "count": 16040,
+  "updated": "2026-08-08 02:55:06",
+  "count": 16044,
   "items": [
+    {
+      "id": "5031498",
+      "time": "2026-08-08 02:54:30",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什6月日程未顯示與特朗普有任何通話或會談】美聯儲主席凱文·沃什上任後首個完整月份的日程顯示，他曾與議員、白宮官員和私營部門經濟學家通話或會談，但沒有顯示與美國總統唐納德·特朗普有任何通話或會談。有過通話或會談的議員包括美國眾議院金融服務委員會主席French Hill、內華達州民主黨參議員Catherine Cortez Masto，以及賓夕法尼亞州共和黨眾議員Dan Meuser。日程顯示，沃什與美國財政部長斯科特·貝森特有過三次早餐會。"
+    },
+    {
+      "id": "mkt:019fdd93-0b1e-7aab-8fc0-786d8d6ccbeb",
+      "time": "2026-08-08 02:53:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Mehr news agency reported Iranian President PEZESHKIAN said the United States and Israel, through plots and recent wars, have sought to drive a wedge between Iran and Persian Gulf littoral states, but Iran has settled many issues with numerous neighbors."
+    },
+    {
+      "id": "mkt:019fdd91-75fa-7aab-8fc0-76718060ad3a",
+      "time": "2026-08-08 02:52:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency: Iranian President PEZESHKIAN said Iran will not yield to coercion but does not seek war or aggression."
+    },
+    {
+      "id": "mkt:019fdd91-3c1c-7aab-8fc0-690fab42232e",
+      "time": "2026-08-08 02:51:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Mehr news agency reported Iranian President Pezeshkian said the US is conducting attacks against Iran from the territory of regional states and Iran must defend itself."
+    },
     {
       "id": "5031497",
       "time": "2026-08-08 02:48:02",
