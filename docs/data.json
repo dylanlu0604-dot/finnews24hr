@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-07 14:14:07",
+  "updated": "2026-08-07 14:18:02",
   "count": 16141,
   "items": [
+    {
+      "id": "mkt:019fdade-8d83-7aab-8fb1-3f54d6a638fa",
+      "time": "2026-08-07 14:17:25",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Zhongji Xuchuang falls more than 4% intraday."
+    },
+    {
+      "id": "5030165",
+      "time": "2026-08-07 14:17:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將義大利萊昂納多公司目標股價從80歐元上調至82歐元。"
+    },
+    {
+      "id": "mkt:019fdade-2b9a-7aab-8fb1-35191d686133",
+      "time": "2026-08-07 14:17:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver rose 3.00% intraday to $63.37/oz."
+    },
+    {
+      "id": "5030164",
+      "time": "2026-08-07 14:16:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創短線跳水，現跌近4%】A股中際旭創短線跳水，現跌超4%，此前一度漲超4%。"
+    },
+    {
+      "id": "5030163",
+      "time": "2026-08-07 14:16:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客7月交付量67架。"
+    },
+    {
+      "id": "5030162",
+      "time": "2026-08-07 14:16:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報63.37美元/盎司。"
+    },
+    {
+      "id": "5030161",
+      "time": "2026-08-07 14:16:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣達7月營收變動+131.3％，7月銷售額3,662.7億元臺幣。"
+    },
+    {
+      "id": "5030160",
+      "time": "2026-08-07 14:15:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯想集團日內漲超6%，今年以來累計上漲超200%，股價創歷史最高價，市值突破3400億港元。"
+    },
+    {
+      "id": "5030159",
+      "time": "2026-08-07 14:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國警方：泰國校園槍手發射了26發子彈，現場還發現剩餘彈藥。"
+    },
+    {
+      "id": "5030158",
+      "time": "2026-08-07 14:15:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國古德溫公司啟動戰略評估，包括考慮出售其機械工程部門。"
+    },
     {
       "id": "5030157",
       "time": "2026-08-07 14:13:07",
@@ -147352,101 +147438,6 @@
         "Impact bearish"
       ],
       "text": "Apple shares fell 6.3% on Tradegate after the company said it expects current-quarter sales growth to be below market expectations."
-    },
-    {
-      "id": "5018423",
-      "time": "2026-07-31 14:17:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【野村：小米推出澎程車系，標誌著從BEV邁向EREV的第一步】野村發表報告指，小米於昨日舉行第二屆汽車科技日，推出SkyNomad(澎程)作為SU7/YU7以外的第二個車系系列，標誌著從純電池電動車(BEV)邁向增程式電動車(EREV)的第一步。該行予小米“中性”評級，目標價33港元。"
-    },
-    {
-      "id": "te:markets:571539",
-      "time": "2026-07-31 14:16:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Sony earnings above expectations at 58.07 JPY — Sony (6758) released earnings per share at 58.07 JPY, compared to market expectations of 44.86 JPY."
-    },
-    {
-      "id": "5018422",
-      "time": "2026-07-31 14:16:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千問已在特斯拉車機內測】據媒體資訊，豆包大模型助手已接入部分特斯拉新車中。不過，多位知情人士透露，千問也早已進入特斯拉中國車機的深度測試階段，上車在即。結合上述知情人士的資訊，千問目前已經在特斯拉真實車機環境下完成大量的上車測試工作，“能聽能答、能控車、能導航、能辦事，都已經在計劃內”，未來，千問在特斯拉車機上能提供的能力，可能遠超單一“語音助手”的定義。"
-    },
-    {
-      "id": "mkt:019fb6d1-2bdd-7aab-8f28-0891803caae0",
-      "time": "2026-07-31 14:16:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Barclays says euro-area rates trapped in cycle of hope and fear】Barclays rates strategists say euro-area interest rates remain locked in an \"endless cycle of hope and fear\" after German Bunds endured their worst July in more than 20 years. Ten-year German Bund yield is 3.15%, on the cheaper end of the range; Barclays warns that while lower yields could ease post-summer supply absorption, front-end rates and global factors still dominate. The bank adds tariff swings will be a key feature in 2025, with open conflict and ceasefire dynamics shaping 2026, and that the Middle East conflict continues to affect growth, inflation and monetary policy outlooks."
-    },
-    {
-      "id": "5018421",
-      "time": "2026-07-31 14:16:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦煤礦爆炸死亡人數升至34人。"
-    },
-    {
-      "id": "5018420",
-      "time": "2026-07-31 14:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "5018419",
-      "time": "2026-07-31 14:15:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行將阿迪達斯目標股價從210歐元下調至200歐元。"
-    },
-    {
-      "id": "5018418",
-      "time": "2026-07-31 14:15:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "蘋果股價在TradeGate交易平臺下跌6.3%，此前該公司公佈本季度營收增速將低於華爾街預期。"
-    },
-    {
-      "id": "mkt:019fb6cf-d487-7aab-8f28-07850e98b68b",
-      "time": "2026-07-31 14:15:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon shares rose 10.2% on Tradegate after the company's quarterly cloud revenue exceeded estimates."
-    },
-    {
-      "id": "5018417",
-      "time": "2026-07-31 14:14:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "亞馬遜股價在TradeGate交易所上漲10.2%，此前該公司季度雲營收增長超出市場預期。"
     }
   ]
 }
