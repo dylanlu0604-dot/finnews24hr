@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-07 22:18:43",
-  "count": 16080,
+  "updated": "2026-08-07 22:22:50",
+  "count": 16082,
   "items": [
+    {
+      "id": "5031350",
+      "time": "2026-08-07 22:21:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：美聯儲將把通脹降至2%的目標水平。"
+    },
+    {
+      "id": "5031349",
+      "time": "2026-08-07 22:21:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲3%，現報965.00元。"
+    },
+    {
+      "id": "5031348",
+      "time": "2026-08-07 22:21:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲2%，現報902.00元。"
+    },
+    {
+      "id": "5031346",
+      "time": "2026-08-07 22:20:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴爾金談通貨膨脹：如果逆風而行，就得勒緊褲腰帶。"
+    },
+    {
+      "id": "mkt:019fdc98-e593-7aab-8fbc-9be38affa4bf",
+      "time": "2026-08-07 22:20:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Barkin said the world may be entering a period of greater instability."
+    },
+    {
+      "id": "mkt:019fdc98-68b1-7aab-8fbc-9147fce9d06b",
+      "time": "2026-08-07 22:20:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "White House National Economic Council Director Hassett said the White House is aware that natural gas prices are very high."
+    },
+    {
+      "id": "5031345",
+      "time": "2026-08-07 22:20:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：我們很清楚汽油價格高企的事實。"
+    },
+    {
+      "id": "5031344",
+      "time": "2026-08-07 22:19:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利表示，在西班牙提出相關要求後，本國不接受最後通牒。"
+    },
+    {
+      "id": "mkt:019fdc97-d92c-7aab-8fbc-8f273950154f",
+      "time": "2026-08-07 22:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. appeals court blocked Trump’s $400 million White House ballroom project, a court ruling showed."
+    },
+    {
+      "id": "te:economy:573838",
+      "time": "2026-08-07 22:19:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Canada Ivey PMI Signals Slower Expansion — Canada's Ivey PMI fell to 55.1 in July 2026 from 56.2 in June, slightly below market expectations of 55.5, but remained in expansionary territory. The reading marked the second consecutive monthly decline and the lowest level since March. The employment index eased to 52.2 from 53.6, although it continued to signal job growth. Meanwhile, the prices index accelerated to 75.5 from 73.7, indicating stronger cost pressures. The supplier deliveries index rose to 45.9 from 44.3 after remaining broadly stable around 44 since April, while the inventories index increased to 54.9 from 50.9, staying in expansionary territory."
+    },
+    {
+      "id": "5031343",
+      "time": "2026-08-07 22:19:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：我們或許正進入一個波動性更高的環境。"
+    },
+    {
+      "id": "5031342",
+      "time": "2026-08-07 22:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國上訴法院叫停特朗普擬推進的4億美元白宮宴會廳專案。"
+    },
+    {
+      "id": "5031341",
+      "time": "2026-08-07 22:18:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所原糖期貨價格漲幅超3%，報每磅16.15美分。"
+    },
     {
       "id": "5031340",
       "time": "2026-08-07 22:17:47",
@@ -146560,106 +146676,6 @@
         "Importance 0"
       ],
       "text": "German Bund Yields Surge as ECB Rate Hike Bets Intensify — Germany's 10-year Bund yield climbed toward 3.2%, approaching the 15-year high reached last week and posting a gain of more than 30 basis points in July, its largest monthly increase since March. The policy-sensitive two-year Bund yield also rose over 25 basis points as investors ramped up bets on further ECB rate hikes amid concerns that the Middle East conflict could fuel longer-term inflation. Money markets now fully price the ECB's deposit rate at 2.75% by early 2027, implying two additional rate hikes, with the first potentially as soon as September. Expectations were reinforced by stronger-than-expected eurozone data, with the economy expanding 0.4% in the second quarter, above forecasts of 0.2% and marking its fastest growth since early 2025. Annual inflation also accelerated to 2.9% in July, while core and services inflation strengthened. In the US, the Federal Reserve left interest rates unchanged this week, with markets expecting two rate hikes by June next year."
-    },
-    {
-      "id": "5019641",
-      "time": "2026-07-31 22:22:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士稱，布魯克菲爾德基礎設施公司考慮以50億美元出售加拿大管道公司NorthRiver Midstream。"
-    },
-    {
-      "id": "mkt:019fb88e-1cbf-7aab-8f38-98bb00638863",
-      "time": "2026-07-31 22:22:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "The Russian Defence Ministry said Russian forces also struck fuel storage depots and a refinery in Odesa."
-    },
-    {
-      "id": "5019640",
-      "time": "2026-07-31 22:22:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "訊息人士稱，美國數字金融服務公司Chime將裁員10%，總計約140個崗位。"
-    },
-    {
-      "id": "5019639",
-      "time": "2026-07-31 22:21:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃森哲將從IBM手中收購裕信銀行科技合資企業的多數股權。"
-    },
-    {
-      "id": "mkt:019fb88d-8b97-7aab-8f38-94d968ad31c6",
-      "time": "2026-07-31 22:21:51",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry said Russian forces struck a vessel in the Black Sea that was transporting supplies to Ukrainian forces."
-    },
-    {
-      "id": "5019638",
-      "time": "2026-07-31 22:21:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯部隊在黑海擊中一艘向烏克蘭軍隊運送補給的船隻。"
-    },
-    {
-      "id": "5019637",
-      "time": "2026-07-31 22:21:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合信貸銀行與埃森哲、IBM合作打造歐洲下一代銀行平臺。"
-    },
-    {
-      "id": "5019636",
-      "time": "2026-07-31 22:21:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "裕信銀行、埃森哲與 IBM 達成合作。"
-    },
-    {
-      "id": "mkt:019fb88b-4cde-7aab-8f38-8e10e5ba3767",
-      "time": "2026-07-31 22:19:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reported Iran held a phone call with the UK foreign minister to discuss regional developments."
-    },
-    {
-      "id": "5019635",
-      "time": "2026-07-31 22:19:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理表示，根據最新預測，保剋核電站可能於週二或週三全面停機。"
-    },
-    {
-      "id": "5019634",
-      "time": "2026-07-31 22:19:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃克森美孚執行長表示，鑑於天然氣發揮著重要作用，公司不會撤出中東市場。"
     }
   ]
 }
