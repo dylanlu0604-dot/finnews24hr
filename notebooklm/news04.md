@@ -1,7 +1,403 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 06:50:01_
-_本檔包含 3249 則快訊，約 602406 字_
+_更新時間：2026-08-08 07:43:34_
+_本檔包含 3302 則快訊，約 602856 字_
+
+---
+
+### 2026-08-04 19:47:24  #市場 #焦點
+
+紐約期金突破4130美元/盎司，日內漲0.97%。
+
+---
+
+### 2026-08-04 19:47:19  #市場
+
+布倫特原油日內跌2%，現報82.09美元/桶。
+
+---
+
+### 2026-08-04 19:47:19  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+Brent crude slipped below $82/bbl, down 1.7% on the day.
+
+---
+
+### 2026-08-04 19:47:11  #市場
+
+納斯達克100指數期貨漲幅擴大至1.1%。
+
+---
+
+### 2026-08-04 19:47:02  #其他
+
+【埃塞北部山體滑坡致14死7傷】據央視新聞，衣索比亞北部阿姆哈拉州北謝瓦區政府3日釋出宣告說，3日上午，當地因遭遇強降雨發生山體滑坡，導致14人遇難、7人受傷。據悉，事發時民眾聚集於當地一修道院附近參加宗教儀式，山體突發垮塌，導致不少民眾被泥石掩埋。當地政府表示，傷者正在接受治療，其中5人傷勢較重。每年6月至9月是衣索比亞的雨季，降雨量相對較大，易發生山體滑坡等災害。
+
+---
+
+### 2026-08-04 19:47:00  #市場
+
+卡特彼勒股價漲幅進一步擴大；盤前交易時段最終上漲10.6%。
+
+---
+
+### 2026-08-04 19:46:55  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose $10 intraday to $4,069/oz.
+
+---
+
+### 2026-08-04 19:46:48  #國際
+
+法國內政部長：在週二的歐盟會議上，與會各方一致認為需採取更多行動打擊人口走私團伙。
+
+---
+
+### 2026-08-04 19:46:46  #宏觀 #焦點 #國際
+
+【8月4日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【奮力開創中國式現代化建設新局面——習近平總書記今年以來治國理政紀實】把老百姓關切的事一件一件辦好； 2.大科學裝置建設全面提速 創新成果湧現； 3.物流業景氣指數繼續擴張 市場需求進一步向好； 4.國務院成立重慶彭水漢葭街道“7·17”特別重大山體崩塌災害調查評估組； 5.【一線調研】風雨過後茉莉開； 6.暑期遊持續升溫 激發城鄉消費活力； 7.國內聯播快訊： （1）《全國地質災害防治“十五五”實施方案》印發； （2）今年上半年大宗食品抽檢合格率99.51%； （3）《全國義務教育階段科學教育“做中學”領航行動指南》釋出； （4）百日千萬招聘專項行動推出四個專場招聘； （5）2026年6至7月厄爾尼諾狀態持續加強； 8.美國多地林火失控 美媒稱大火或持續數週 歐洲多國高溫乾旱 林火肆虐； 9.國際聯播快訊： （1）美稱美伊正進行談判並再次威脅伊朗； （2）俄艦隊在太平洋西北部海域演習； （3）一艘土耳其貨船在黑海遭無人機襲擊； （4）美國多州聯合起訴美政府新關稅政策； （5）韓國抗議日本《防衛白皮書》涉獨島主張； （6）古巴24小時內發生兩次全國停電。
+
+---
+
+### 2026-08-04 19:46:37  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Public Service earnings above expectations at 0.86 USD — Public Service (PEG) released earnings per share at 0.86 USD, compared to market expectations of 0.83 USD.
+
+---
+
+### 2026-08-04 19:46:06  #國際
+
+美國財長貝森特在接受採訪時表示：隨著原油價格回落，我們可能會迎來一輪大規模利好出清交易行情。
+
+---
+
+### 2026-08-04 19:46:00  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+WTI and Brent briefly dipped over $1 intraday to $77.53/bbl and $82.05/bbl after U.S. Treasury Secretary Bessent said a deal with Iran to reopen the Strait of Hormuz could be reached as soon as tomorrow.
+
+---
+
+### 2026-08-04 19:45:56  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Treasury Secretary Bessent said he expects energy prices to ease.
+
+---
+
+### 2026-08-04 19:45:39  #MKT News
+
+US Treasury Secretary Bessent said a significant number of vessels are still departing the Gulf region.
+
+---
+
+### 2026-08-04 19:45:36  #市場 #國際
+
+美國股指期貨在美國財長貝森特發表有關伊朗的言論後漲幅進一步擴大。
+
+---
+
+### 2026-08-04 19:45:20  #其他
+
+貝森特：仍有相當數量船隻從海灣駛出。
+
+---
+
+### 2026-08-04 19:45:18  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. Treasury Secretary Bessent said the situation in the Gulf has been unstable over the past few days.
+
+---
+
+### 2026-08-04 19:45:12  #MKT News #Commodities #Energy
+
+U.S. Treasury Secretary Bessent said he expects energy prices to stabilize.
+
+---
+
+### 2026-08-04 19:44:47  #公司
+
+【蘭石重灌研製塔里木石化EVA裝置7臺核心裝置順利交付】據蘭石重灌訊息，近日，蘭石重灌為中國石油獨山子石化公司塔里木120萬噸/年二期乙烯配套綠色低碳示範工程30萬噸/年EVA（乙烯-醋酸乙烯酯共聚物）暨全廠專案設計製造的7臺核心裝置，已順利完工並交付客戶。
+
+---
+
+### 2026-08-04 19:44:38  #宏觀 #國際
+
+美國財政部長貝森特：霍爾木茲問題協議有望於週二或週三達成。
+
+---
+
+### 2026-08-04 19:44:27  #市場
+
+【美股道瓊斯指數期貨漲超1%】美股道瓊斯指數期貨漲超1%，納斯達克100指數期貨漲1%，標普500指數期貨漲0.3%。
+
+---
+
+### 2026-08-04 19:44:11  #市場
+
+【卡特彼勒美股盤前漲超10%】卡特彼勒美股盤前漲超10%，現報915.0美元。
+
+---
+
+### 2026-08-04 19:44:05  #宏觀 #國際
+
+美國財政部長貝森特在接受採訪時表示：我們明天可能會與伊朗達成開放霍爾木茲海峽的協議。
+
+---
+
+### 2026-08-04 19:43:54  #市場
+
+WTI原油日內跌2%，現報78.67美元/桶。
+
+---
+
+### 2026-08-04 19:43:49  #國際
+
+貝森特談及日元干預：日本經濟將迎來強勁增長。
+
+---
+
+### 2026-08-04 19:43:45  #市場 #焦點
+
+WTI原油失守79美元/桶，日內跌1.71%。
+
+---
+
+### 2026-08-04 19:43:45  #市場
+
+布倫特原油日內跌1%，現報82.92美元/桶。
+
+---
+
+### 2026-08-04 19:43:39  #國際
+
+貝森特談日元干預：日本科技板塊勢頭強勁。
+
+---
+
+### 2026-08-04 19:43:29  #公司 #市場
+
+【盈峰環境：股票交易異常波動 相關業務營收佔比小】盈峰環境公告稱，公司股票於2026年7月31日、8月3日、8月4日連續3個交易日收盤價格漲幅偏離值累計達22.53%，屬於異常波動情形。經核實，公司及控股股東、實控人均無應披露未披露重大資訊，經營情況正常。公司將用不低於1億元且不超2億元回購股份，截至8月4日尚未首次回購。近期受媒體關注的相關業務營收佔比小，現階段對業績無重大影響。
+
+---
+
+### 2026-08-04 19:42:40  #國際
+
+法國內政部長：重申法國仍隨時準備在歐盟邊境與海岸警衛局（Frontex）框架內，向西班牙提供進一步援助。
+
+---
+
+### 2026-08-04 19:42:11  #國際
+
+貝森特談日元干預：認為日本沒有理由停止積累大量海外資產
+
+---
+
+### 2026-08-04 19:42:08  #其他
+
+貝森特：在我看來，歐元已十分接近均衡價位。
+
+---
+
+### 2026-08-04 19:41:59  #公司
+
+睿唯盛高管在電話會議上表示，受人工智慧相關訂單數量增長的推動，公司正迎來生物科技客戶需求改善。
+
+---
+
+### 2026-08-04 19:41:48  #國際
+
+法國內政部長：在週二的歐盟會議上，各方均譴責借休達事件分裂歐盟的企圖。
+
+---
+
+### 2026-08-04 19:41:34  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Cummins earnings below expectations at 6.73 USD — Cummins (CMI) released earnings per share at 6.73 USD, compared to market expectations of 7.26 USD.
+
+---
+
+### 2026-08-04 19:41:33  #宏觀 #國際
+
+美國財政部長貝森特認為利差交易不會完全消失。
+
+---
+
+### 2026-08-04 19:41:23  #國際
+
+貝森特談日元干預：向歐洲方面保證這只是外匯儲備再配置。
+
+---
+
+### 2026-08-04 19:41:15  #宏觀 #國際
+
+貝森特談日元干預：日本政府正在出臺政策扭轉日元估值偏低的局面。
+
+---
+
+### 2026-08-04 19:40:53  #其他
+
+【聚燦光電Mini-LED直顯晶片量產交付】聚燦光電最新推出的大視角Mini-LED直顯晶片，已獲國內頭部客戶高度認可，進入規模化批次供貨階段，訂單持續放量。2026年上半年，Mini直顯業務銷售額突破1.35億元，同比大增380%，預計全年營收將有更大突破。
+
+---
+
+### 2026-08-04 19:40:45  #央行 #國際
+
+貝森特提及在日元干預中使用美聯儲 FIMA 回購工具。
+
+---
+
+### 2026-08-04 19:40:22  #國際
+
+CoreWeave將其雲人工智慧平臺拓展至印度尼西亞，這是該企業首次進軍亞太地區。
+
+---
+
+### 2026-08-04 19:40:12  #宏觀 #國際
+
+美國財政部長貝森特表示：“我認為這套機制就是專為這類情況設立的。”
+
+---
+
+### 2026-08-04 19:40:02  #宏觀 #央行 #國際
+
+美國財政部長貝森特：我認為美聯儲考慮擴大該工具規模是合理的。
+
+---
+
+### 2026-08-04 19:39:54  #其他
+
+貝森特談日元干預：這與貨幣互換安排並無本質區別。
+
+---
+
+### 2026-08-04 19:39:17  #宏觀 #國際
+
+貝森特：高度確信日本將出臺配套政策跟進。
+
+---
+
+### 2026-08-04 19:38:39  #公司
+
+【新和成：截至7月底已耗資4660萬元回購公司股份】新和成公告稱，公司於2026年6月23日決定使用自有資金3-6億元回購股份，用於股權激勵或員工持股計劃，回購價不超45.5元/股，實施期限不超12個月。截至7月31日，已回購股份156.6萬股，佔總股本的0.0510%，最高成交價29.97元/股，最低成交價29.56元/股，成交金額4660萬元（不含交易費用）。後續將按計劃繼續實施回購並依規信披。
+
+---
+
+### 2026-08-04 19:38:34  #其他
+
+【水利部松遼委升級釋出黑龍江干流同江（黑龍江）段洪水黃色預警】記者從水利部松遼水利委員會獲悉，8月4日18時，黑龍江干流同江（黑龍江）水位站水位達到54.06米。根據《松遼流域主要江河洪水預警釋出管理辦法》規定，松遼委水文局2026年8月4日18時升級釋出黑龍江干流同江（黑龍江）段洪水黃色預警。 (央視新聞)
+
+---
+
+### 2026-08-04 19:38:30  #其他
+
+貝森特：相信我們將看到相關舉措得到落實。
+
+---
+
+### 2026-08-04 19:38:18  #市場
+
+鈀金期貨日內漲4%，現報1307.00美元/盎司。
+
+---
+
+### 2026-08-04 19:38:17  #公司
+
+【盈峰環境：全資子公司出資1700萬元認購礪思星瀚基金份額】盈峰環境公告，公司全資子公司廣東盈峰環境投資有限公司作為有限合夥人，以自有資金1700萬元參與認購天津礪思星瀚創業投資合夥企業（有限合夥）基金份額，礪思明棠擔任普通合夥人，海南礪思擔任基金管理人。該基金規模為4.72億元，主要投資於高新技術領域。本次投資不構成關聯交易及重大資產重組，無須提交董事會及股東會審議。
+
+---
+
+### 2026-08-04 19:38:12  #市場
+
+WTI原油日內跌1%，現報79.52美元/桶。
+
+---
+
+### 2026-08-04 19:38:01  #宏觀 #央行 #國際
+
+美國財政部長貝森特：不會提前預判日本央行應採取何種政策。
+
+---
+
+### 2026-08-04 19:37:52  #國際
+
+法國內政部長：在週二舉行的歐盟部長級會議上，所有與會者都對西班牙處理近期休達局勢的方式表示讚賞。
+
+---
+
+### 2026-08-04 19:37:49  #央行 #國際
+
+貝森特談日元干預：相信日本央行會採取一切必要行動。
+
+---
+
+### 2026-08-04 19:37:44  #央行 #國際
+
+貝森特：不會預先評判日本央行應當採取何種舉措。
+
+---
+
+### 2026-08-04 19:37:31  #其他
+
+貝森特：干預可向市場釋放訊號，但政策才是關鍵。
+
+---
+
+### 2026-08-04 19:36:41  #市場
+
+康明斯股價盤前下跌4.1%，因第二季度利潤不及預期。
+
+---
+
+### 2026-08-04 19:36:34  #其他
+
+貝森特：希望讓記者清楚符號 “JPY” 所指。
+
+---
+
+### 2026-08-04 19:36:23  #其他
+
+貝森特談及記事本上 “買入日元” 字樣：意在確保記者能夠看到。
+
+---
+
+### 2026-08-04 19:35:45  #國際
+
+貝森特：很榮幸能與日本站在一起，幫助穩定局勢。
+
+---
+
+### 2026-08-04 19:34:56  #宏觀 #國際
+
+美國財政部長貝森特：韓元已出現過度波動。
+
+---
+
+### 2026-08-04 19:34:42  #公司
+
+【聯創光電：公司及實控人因涉嫌未按規定披露非經營性資金往來被立案】聯創光電公告，公司及實際控制人伍銳先生於近日分別收到中國證監會下發的《立案告知書》（編號：證監立案字0252026007號、證監立案字0252026008號），因涉嫌未按規定披露非經營性資金往來等違法行為，中國證監會決定對公司及伍銳先生立案。目前，公司各項經營活動均正常開展，立案調查期間將積極配合調查工作。
+
+---
+
+### 2026-08-04 19:34:39  #其他
+
+貝森特談及日元干預：若日元走弱，其他貨幣或將跟隨貶值  。
+
+---
+
+### 2026-08-04 19:34:20  #宏觀 #國際
+
+美國財政部長貝森特：他們正朝著實現基本預算盈餘的方向推進預算編制。
+
+---
+
+### 2026-08-04 19:34:11  #市場
+
+【上海黃金交易所召開2026年年中工作會議】上海黃金交易所召開2026年年中工作會議。會議要求，下半年，上海黃金交易所要聚焦協同賦能，進一步加強雙層市場體系建設。深化與櫃檯市場聯動，最佳化市場參與者結構，進一步加強市場推廣，完善產品服務體系，強化會員管理，探索構建分層投教體系。聚焦規範高效，進一步強化金融基礎設施能效。鞏固拓展倉庫管理成效，做好實物質量管理，夯實清結算業務基礎，提升交割清算服務能效，最佳化市場服務水平。聚焦互聯互通，進一步拓展高水平對外開放。推進滬港黃金市場合作，提升國際化水平，努力擴大國際板市場覆蓋面，落實國際板接入跨境結算體系。聚焦系統治理，進一步夯實風險管理基礎。配合黃金市場制度建設，嚴格執行黃金增值稅新政策，推進全面風險管理體系建設，持續鞏固“三道防線”風控體系，抓好重點風險管理，強化資訊系統安全管理，推動市場規範發展。
+
+---
+
+### 2026-08-04 19:34:07  #公司
+
+【安克創新：“安克轉債”轉股價格8月6日起調整為106.72元/股】安克創新公告稱，“安克轉債”轉股價格將進行調整，調整前為106.92元/股，調整後為106.72元/股，調整生效日期為2026年8月6日。此次調整是因公司2024年限制性股票激勵計劃首次授予部分第二個歸屬期歸屬股份上市，新增股份登記完成後，公司總股本將由5.86億股增加至5.88億股。
 
 ---
 
@@ -19489,83 +19885,5 @@ Nigeria Private Sector Growth Softens in July — The Stanbic IBTC Bank Nigeria 
 ### 2026-08-03 17:11:24  #Trading Economics #Markets #Commodity #Importance 1
 
 Aluminum Rises to Near 6-Week High — Aluminum futures in the UK rose above $3,210 per tonne, the highest level in nearly six weeks, amid ongoing supply constraints and slower production. Output outside China fell 6.7% year-on-year in July, mainly due to reduced operating rates at several Middle Eastern smelters. These pressures were compounded by China’s 45 million-ton production cap, which is expected to become more restrictive this year. Geopolitical tensions have also prompted consumers to draw down exchange inventories, with LME stocks falling to their lowest level this century. In addition, Alcoa Corp. cut its production forecast following operational issues at an Australian refinery. However, some of these supply concerns could be offset by anticipated capacity restarts and expansion progress among producers, including the restart of the Slovalco smelter in Slovakia in Q4 of 2026 and Metals’ Missouri smelter by year-end. Emirates Global Aluminium also continued restoring production at its Al Taweelah facility.
-
----
-
-### 2026-08-03 17:08:49  #Trading Economics #Economy #Cyprus #Retail Sales YoY #Importance 1
-
-Cyprus Retail Trade Growth Eases in June — Retail sales in Cyprus rose 5.5% year-on-year in June 2026, easing from a 7.5% increase in May. The slowdown mainly reflected weaker growth in food, beverages and tobacco in non-specialised stores (2.1% vs 7.4%), clothing and footwear (17.1% vs 19.4%), and cultural and recreation goods (10.1% vs 11.3%). Sales also continued to decline for automotive fuel (-3.5% vs -3.8%) and food, beverages and tobacco in specialised stores (-0.5% vs 1.2%). Meanwhile, growth accelerated for retail sales not in stores (20.5% vs 3.0%), information and communication equipment (20.1% vs 17.6%), other household equipment (14.1% vs 13.3%), and pharmaceuticals, orthopedic goods, cosmetics (5.6% vs 4.0%). Excluding automotive fuel, retail trade rose 6.4%, easing from 8.7% in May. In the first half of 2026, retail sales increased 5.8% compared with the same period a year earlier.
-
----
-
-### 2026-08-03 17:03:53  #Trading Economics #Economy #United Kingdom #Manufacturing PMI #Importance 1
-
-UK Manufacturing Growth Eases to 4-Month Low — The S&P Global UK Manufacturing PMI eased to 51.9 in July 2026, a four-month low, from 52.5 in June and below the preliminary estimate of 52.8. Despite the decline, the index remained above the 50 mark for a ninth consecutive month, signaling continued expansion in the sector. Manufacturing output rose for a fourth straight month, accelerating to its fastest pace in nearly two years. New orders increased for an eighth consecutive month, while export sales grew for a seventh month. However, business optimism slipped to a three-month low as firms remained cautious about global trade tensions, tax changes, and regulatory uncertainty. Employment continued to rise but at the slowest pace of the current recovery, reflecting ongoing caution over hiring. Meanwhile, input cost and output price inflation eased further as supply chain pressures moderated, while purchasing activity and inventories declined amid softer demand for inputs and improved supplier delivery times.
-
----
-
-### 2026-08-03 17:01:30  #公司
-
-【乖寶寵物：截至7月底累計回購1205萬元股份】乖寶寵物公告稱，公司此前決定以集中競價交易方式回購股份，金額不低於1億元且不超過2億元，價格不超75元/股，後調整至不超74.75元/股。截至2026年7月31日，公司已累計回購股份299700股，佔總股本0.07%，最高成交價41.89元/股，最低成交價38.02元/股，成交總金額1205.39萬元（不含交易費用）。後續將按規定實施回購並披露資訊。
-
----
-
-### 2026-08-03 17:00:51  #公司
-
-【桂林三金：拉莫三嗪片擬中選第十二批國家藥品集採】桂林三金公告，公司全資子公司湖南三金參與第十二批國家組織藥品集中帶量採購投標，產品拉莫三嗪片擬中選本次集中採購，採購週期自中選結果執行之日起至2029年12月31日。2025年該產品銷售收入為7389.99萬元，佔公司2025年度營業收入的3.61%。
-
----
-
-### 2026-08-03 17:00:32  #其他
-
-ABERDEEN ASIAN INC (AAIF) 與 SABA 達成協議。
-
----
-
-### 2026-08-03 17:00:27  #資料
-
-南非7月製造業採購經理人指數（PMI）降至46.8。
-
----
-
-### 2026-08-03 17:00:25  #國際
-
-【美國移民與海關執法局7月拘留人數創新高】據報道，美國移民與海關執法局（ICE）內部資料顯示，隨著移民與海關執法局加大打擊力度，在美國各地機場、移民報到辦事處以及社群開展抓捕行動，特朗普第二屆政府治下該局7月拘留人數創下月度新高。 根據美國國土安全部初步資料，上個月移民與海關執法局拘留逾4.6萬人。這些人因涉嫌移民違法行為（非法入境美國、簽證逾期滯留等）面臨驅逐。 這份尚未由聯邦政府對外公開的資料顯示，移民與海關執法局夏季執法行動持續升級。白宮向該局施壓，要求全美每日完成2000起逮捕。資料顯示，上月平均每日有1500人被移交移民與海關執法局拘留，其中部分人員最初由海關和邊境保護局警員抓獲。
-
----
-
-### 2026-08-03 17:00:09  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Increases by 0.74% — Top currency gainers are South Korean Won (0.74%) and Japanese Yen (0.29%). Biggest losers are Norwegian Krone (-0.58%), British Pound (-0.19%) and Dollar Index (-0.08%). Meanwhile Euro was little changed.
-
----
-
-### 2026-08-03 16:59:52  #公司
-
-【久立特材：截至7月底第一期回購1.80億元 第二期未實施】久立特材公告稱，公司第一期回購資金總額不低於1.50億元且不超過2.00億元，第二期為2.00億元至4.00億元。截至2026年7月31日，第一期已累計回購股份825.17萬股，佔總股本0.84%，最高成交價30.30元/股，最低17.66元/股，成交總金額1.80億元；第二期尚未實施。公司將按規定繼續實施回購並及時披露資訊。
-
----
-
-### 2026-08-03 16:59:44  #公司
-
-【銘科精技：截至7月底累計回購股份28.18萬股 耗資524.39萬元】銘科精技公告稱，公司於2026年6月2日決定以1800萬-3600萬元回購股份，用於股權激勵或員工持股計劃，回購價不超30元/股，期限不超12個月。截至7月31日，公司累計回購股份281,800股，佔總股本0.20%，最高成交價20.34元/股，最低成交價16.66元/股，成交總金額524.39萬元。公司後續將繼續實施回購計劃並及時披露。
-
----
-
-### 2026-08-03 16:59:42  #公司
-
-【東南網架：截至7月底累計回購1.19億元股份 佔總股本1.55%】東南網架公告稱，公司於2026年3月10日透過以集中競價交易方式回購股份方案，回購資金不低於1億元且不超過2億元，回購價格不超9.32元/股。因2025年年度權益分派，回購價格上限調整為9.31元/股。截至7月31日，公司累計回購股份1729.62萬股，佔總股本的1.55%，成交總金額1.19億元（不含交易費用），最高成交價7.57元/股，最低成交價6.25元/股。後續將繼續實施回購計劃。
-
----
-
-### 2026-08-03 16:59:37  #公司 #市場
-
-【南華期貨：2026年7月公司法定/註冊股本總額無變動】南華期貨公告稱，截至2026年7月31日，公司法定/註冊股本總額為7.18億元，較上月無變動。其中，H股法定/註冊股份數目為1.08億股，A股法定/註冊股份數目為6.10億股，本月均無增減。已發行H股股份總數為1.08億股，A股已發行股份（不包括庫存股份）數目為6.04億股、庫存股份數目為568.12萬股，本月均無增減。H股符合適用的公眾持股量要求。
-
----
-
-### 2026-08-03 16:59:24  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish
-
-【July posts highest monthly tally of new buyback and shareholder purchase plans on Shanghai main board this year】Amid heightened index volatility in July, listed companies stepped up repurchases and shareholder buying. As of July 31 (disclosure date), the Shanghai Stock Exchange main board disclosed 89 new share repurchase plans with an aggregate upper limit of about CNY20.4 bln and 67 new shareholder purchase plans with an aggregate upper limit of about CNY13.7 bln; the monthly total of new buyback and shareholder purchase plans was the largest so far this year.
 
 ---

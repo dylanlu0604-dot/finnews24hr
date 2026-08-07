@@ -1,7 +1,201 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 06:50:01_
-_本檔包含 3484 則快訊，約 602454 字_
+_更新時間：2026-08-08 07:43:34_
+_本檔包含 3449 則快訊，約 602831 字_
+
+---
+
+### 2026-08-05 20:23:17  #宏觀
+
+【大華銀行報告：近九成受訪企業已開展數字化轉型，但僅43%認為取得預期成效】大華銀行釋出《2026大華銀行企業展望調查報告(中國內地篇-上)》，調查顯示，在全球經濟復甦分化、地緣政治局勢持續演變以及經營成本壓力仍存的背景下，中國企業對營商環境和業務前景整體保持積極態度，但經營決策也更加理性務實，發展重點正從追求規模增長轉向構建長期競爭力和經營韌性。
+
+---
+
+### 2026-08-05 20:22:53  #Trading Economics #Markets #commodity #Importance 0
+
+Cotton Hits 11-week High — Cotton increased to 83.05 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Cotton gained 5.91%, and in the last 12 months, it increased 26.76%.
+
+---
+
+### 2026-08-05 20:22:47  #其他
+
+【“1元進貨賣9毛9”， 行業協會倡議前置倉停止內卷】“會出現1元進貨的商品，賣0.99元的情況。”談及近期前置倉行業的競爭，北京超市供應企業協會會長姚文華向第一財經記者舉了這樣一個例子。近日，該協會發布《關於呼籲前置倉平臺（超市）停止內卷、保障供應商正當權益的倡議書》，呼籲前置倉平臺以品質與質量為導向，保障供應商的正當權益。上述倡議書提到，近期生鮮前置倉頭部巨頭加速兼併，超級平臺在商品定價、賬期設定等方面系統性擴大主導權，以及愈演愈烈的低價內卷現象對超市行業、對超市供應企業帶來衝擊。當前，前置倉平臺持續快速發展。前置倉模式的核心是服務線上訂單，透過騎手完成“最後一公里”配送，以提升時效性並節省運營成本。該模式的便捷性增加了使用者黏性，賽道里走出了一批平臺。與此同時，線下商超整體承壓。中國連鎖經營協會（CCFA）資料顯示，2025年超市Top100企業銷售規模為8855億元，同比下滑1.6%；門店總數連續兩年下降，從2024年的2.52萬個降至2025年的2.1萬個。姚文華告訴記者，該倡議並非針對某一家特定企業，而是關注整個行業因資本湧入導致的業態失衡。無論是線上平臺還是線下巨頭，若形成壟斷態勢，都將破壞市場的公平競爭秩序。（第一財經）
+
+---
+
+### 2026-08-05 20:22:43  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
+
+【ADP hiring cools sharply; U.S. labor strain shows in recruitment】U.S. July ADP private payrolls +44,000 vs. consensus 70,000 and June 98,000. Cooling was broad-based rather than driven by a single sector. Manufacturing added 2,000 (June 5,000); construction 1,000. Trade, transportation & utilities swung from +15,000 in June to -8,000 in July, signaling early contraction in goods distribution, transport chains and terminal-demand roles. Professional and business services added 9,000 (June 2,000), showing resilience in corporate services. Wages did not meaningfully soften: financial services wage growth rose to 5.2% from 5.1%, manufacturing to 5.0% from 4.9%; professional/business services and trade/transport wages were unchanged. Firms are hiring less while incumbent wage growth remains sticky.
+
+---
+
+### 2026-08-05 20:21:47  #央行 #國際
+
+【印尼央行：人民幣佔本幣交易逾八成 擬進一步擴大對華結算合作】印尼央行計劃近期進一步落實並擴大與中國內地及香港的本幣交易(LCT)合作，以建立完整的印尼盾與人民幣貨幣及外匯市場生態。印尼央行表示，2026年6月，印尼盾與人民幣交易約佔LCT交易總額的81%。這一增長“表明，印尼盾與人民幣直接結算作為經由第三方貨幣進行交易的替代方式，重要性正日益上升”。
+
+---
+
+### 2026-08-05 20:21:27  #市場 #焦點
+
+現貨黃金突破4210美元/盎司，日內漲3.27%。
+
+---
+
+### 2026-08-05 20:21:24  #市場 #焦點
+
+紐約期金突破4270美元/盎司，日內漲2.84%。
+
+---
+
+### 2026-08-05 20:21:22  #公司
+
+西部證券股份有限公司給予中國人壽A股買進的初始評級。
+
+---
+
+### 2026-08-05 20:21:13  #公司
+
+優步執行長表示，希望確保公司不依賴單一合作伙伴。
+
+---
+
+### 2026-08-05 20:20:54  #資料
+
+【7月份轉職者薪資增長加速】ADP報告：7月份，轉職者薪資增長加速。上個月，留任員工的薪資漲幅保持在4.4%，而轉職者的薪資增長則升至7%，創下自2025年8月以來的最大同比增幅。
+
+7月金融服務業就業人員薪資增速年率中值為5.2%，6月為5.1%。
+7月製造業就業人員薪資增速年率中值為5%，6月為4.9%。
+7月專業/商業服務就業人員薪資增速年率中值為4.1%，6月為4.1%。
+7月建築業就業人員薪資增速年率中值為4.5%，6月為4.6%。
+7月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，6月為4.4%。
+
+ADP首席經濟學家Nela Richardson表示：求職者對實時經濟狀況高度敏感，他們的快速薪酬增長意味著部分勞動力市場存在供給限制。與此同時，隨著僱主對宏觀經濟環境變化做出反應，典型的招聘模式也在發生變化。
+
+---
+
+### 2026-08-05 20:20:38  #MKT News #Commodities #Energy
+
+Mexico's president sheinbaum is considering piloting hydraulic fracturing projects.
+
+---
+
+### 2026-08-05 20:20:20  #其他
+
+墨西哥總統辛鮑姆正在考量水力壓裂試點專案。
+
+---
+
+### 2026-08-05 20:19:50  #MKT News
+
+BeamR has introduced NVIDIA (NVDA.O) video super-resolution technology into live sports broadcasts.
+
+---
+
+### 2026-08-05 20:19:39  #公司
+
+【盈方微：擬以1038.72萬元轉讓長興芯元100%股權】盈方微公告，公司於2026年8月5日召開董事會審議透過議案，同意將持有的長興芯元工業科技有限公司100%股權以1038.72萬元人民幣轉讓給長興鑫元企業諮詢有限公司，並簽署《股權轉讓協議》。本次轉讓完成後，公司不再持有長興芯元股權，不再將其納入合併報表範圍。標的公司股東全部權益價值評估值為1038.72萬元，評估增值30.73%。
+
+---
+
+### 2026-08-05 20:19:18  #MKT News #Macro & Rates #US Economy
+
+ADP report: median annualized wage growth for financial-services employees 5.2% in July, up from 5.1% in June.
+
+---
+
+### 2026-08-05 20:19:14  #公司
+
+【谷歌洽談超 15 億美元交易：吸納 Mechanize 人才並獲取技術非獨佔授權】四名瞭解相關談判的知情人士透露，科技巨頭谷歌近幾週一直在與舊金山初創企業 Mechanize 開展磋商，潛在交易將涉及谷歌吸納 Mechanize 部分人才。部分知情人士稱，這筆交易估值超過 15 億美元，談判仍在推進，細節或發生變動。一名知情人士表示，作為交易的一部分，谷歌正在洽談 Mechanize 技術的非獨佔授權協議。該人士補充稱，谷歌從 Mechanize 吸納的人才將從事模型評估與開發工作。此次談判折射出人工智慧熱潮下的兩大現實：程式碼開發已經成為人工智慧最重要、利潤最高的應用場景之一；各大科技巨頭正另闢蹊徑，獲取維持競爭力所需的人才與技術。這並非谷歌首次採用變通方案獲取人才和技術。過去兩年，谷歌多次採用混合交易模式完成收購，透過人才收購吸納團隊，同時藉助授權等方式獲取技術。企業採取這類做法，有時是為了規避全額收購帶來的反壟斷審查。
+
+---
+
+### 2026-08-05 20:19:12  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
+
+ADP report: median annualized wage growth for manufacturing employees 5.0% in July, up from 4.9% in June.
+
+---
+
+### 2026-08-05 20:19:04  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+ADP report: July median YoY wage growth for professional and business services employees 4.1%, unchanged from June.
+
+---
+
+### 2026-08-05 20:18:54  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+ADP report: median YoY wage growth in construction slowed to 4.5% in July from 4.6% in June.
+
+---
+
+### 2026-08-05 20:18:41  #MKT News #Macro & Rates #US Economy
+
+ADP report: Median YoY wage growth for trade, transportation and utilities employees 4.4% in July, unchanged from June.
+
+---
+
+### 2026-08-05 20:18:36  #其他
+
+《紐約時報》高管：調整後運營成本上升10%，主要由薪酬與福利支出增加所致。
+
+---
+
+### 2026-08-05 20:18:36  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+ADP report: In July pay growth accelerated for job-switchers; pay for stayers held at 4.4% YoY, while job-switchers’ pay rose to 7% YoY, the largest YoY increase since August 2025.
+
+---
+
+### 2026-08-05 20:18:32  #Trading Economics #Economy #United States #ADP Employment Change #Importance 3
+
+US Private Employment Growth Slows in July — Private businesses in the US added 44K jobs in July 2026, the least in six months, following a downwardly revised 95K gain in June and below forecasts of 70K. All of the gains came from the services sector, which added 47K while goods-producing companies see a decline of 3K.
+
+---
+
+### 2026-08-05 20:18:12  #其他
+
+《紐約時報》高管：本季度廣告客戶對我們高績效廣告產品的需求超出了我們的預期。
+
+---
+
+### 2026-08-05 20:18:12  #MKT News #Macro & Rates #US Economy
+
+ADP report: employment in financial services rose 10,000 in July, following a 14,000 increase in June.
+
+---
+
+### 2026-08-05 20:18:10  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish #Nasdaq100
+
+Business Insider reports Google (GOOG.O) is in talks with AI programming-agent startup Mechanize on a transaction valued at more than $1.5 billion.
+
+---
+
+### 2026-08-05 20:17:59  #MKT News
+
+ADP report: manufacturing employment rose by 2,000 in July, after a 5,000 gain in June.
+
+---
+
+### 2026-08-05 20:17:55  #MKT News
+
+ADP report: Professional and business services jobs increased by 9,000 in July and by 2,000 in June.
+
+---
+
+### 2026-08-05 20:17:42  #MKT News #Macro & Rates #US Economy
+
+ADP report: construction employment rose by 1,000 in July and by 2,000 in June.
+
+---
+
+### 2026-08-05 20:17:35  #MKT News
+
+ADP report: trade, transportation and utilities employment fell 8,000 in July; June change reported as decreased/increased by 15,000.
+
+---
+
+### 2026-08-05 20:17:16  #Trading Economics #Markets #commodity #Importance 0
+
+Nuclear Energy Index Hits 4-week High — Nuclear Energy Index increased to 43.36 USD, the highest since July 2026. Over the past 4 weeks, Nuclear Energy Index lost 1.68%, and in the last 12 months, it increased 4.84%.
 
 ---
 
@@ -20603,401 +20797,5 @@ WTI原油失守78美元/桶，日內跌2.92%。
 ### 2026-08-04 19:47:32  #MKT News #Commodities #Energy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
 
 U.S. Treasury Secretary Bessent said energy-price declines could trigger a large wave of risk-unwinding trades.
-
----
-
-### 2026-08-04 19:47:24  #市場 #焦點
-
-紐約期金突破4130美元/盎司，日內漲0.97%。
-
----
-
-### 2026-08-04 19:47:19  #市場
-
-布倫特原油日內跌2%，現報82.09美元/桶。
-
----
-
-### 2026-08-04 19:47:19  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-Brent crude slipped below $82/bbl, down 1.7% on the day.
-
----
-
-### 2026-08-04 19:47:11  #市場
-
-納斯達克100指數期貨漲幅擴大至1.1%。
-
----
-
-### 2026-08-04 19:47:02  #其他
-
-【埃塞北部山體滑坡致14死7傷】據央視新聞，衣索比亞北部阿姆哈拉州北謝瓦區政府3日釋出宣告說，3日上午，當地因遭遇強降雨發生山體滑坡，導致14人遇難、7人受傷。據悉，事發時民眾聚集於當地一修道院附近參加宗教儀式，山體突發垮塌，導致不少民眾被泥石掩埋。當地政府表示，傷者正在接受治療，其中5人傷勢較重。每年6月至9月是衣索比亞的雨季，降雨量相對較大，易發生山體滑坡等災害。
-
----
-
-### 2026-08-04 19:47:00  #市場
-
-卡特彼勒股價漲幅進一步擴大；盤前交易時段最終上漲10.6%。
-
----
-
-### 2026-08-04 19:46:55  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose $10 intraday to $4,069/oz.
-
----
-
-### 2026-08-04 19:46:48  #國際
-
-法國內政部長：在週二的歐盟會議上，與會各方一致認為需採取更多行動打擊人口走私團伙。
-
----
-
-### 2026-08-04 19:46:46  #宏觀 #焦點 #國際
-
-【8月4日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【奮力開創中國式現代化建設新局面——習近平總書記今年以來治國理政紀實】把老百姓關切的事一件一件辦好； 2.大科學裝置建設全面提速 創新成果湧現； 3.物流業景氣指數繼續擴張 市場需求進一步向好； 4.國務院成立重慶彭水漢葭街道“7·17”特別重大山體崩塌災害調查評估組； 5.【一線調研】風雨過後茉莉開； 6.暑期遊持續升溫 激發城鄉消費活力； 7.國內聯播快訊： （1）《全國地質災害防治“十五五”實施方案》印發； （2）今年上半年大宗食品抽檢合格率99.51%； （3）《全國義務教育階段科學教育“做中學”領航行動指南》釋出； （4）百日千萬招聘專項行動推出四個專場招聘； （5）2026年6至7月厄爾尼諾狀態持續加強； 8.美國多地林火失控 美媒稱大火或持續數週 歐洲多國高溫乾旱 林火肆虐； 9.國際聯播快訊： （1）美稱美伊正進行談判並再次威脅伊朗； （2）俄艦隊在太平洋西北部海域演習； （3）一艘土耳其貨船在黑海遭無人機襲擊； （4）美國多州聯合起訴美政府新關稅政策； （5）韓國抗議日本《防衛白皮書》涉獨島主張； （6）古巴24小時內發生兩次全國停電。
-
----
-
-### 2026-08-04 19:46:37  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Public Service earnings above expectations at 0.86 USD — Public Service (PEG) released earnings per share at 0.86 USD, compared to market expectations of 0.83 USD.
-
----
-
-### 2026-08-04 19:46:06  #國際
-
-美國財長貝森特在接受採訪時表示：隨著原油價格回落，我們可能會迎來一輪大規模利好出清交易行情。
-
----
-
-### 2026-08-04 19:46:00  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-WTI and Brent briefly dipped over $1 intraday to $77.53/bbl and $82.05/bbl after U.S. Treasury Secretary Bessent said a deal with Iran to reopen the Strait of Hormuz could be reached as soon as tomorrow.
-
----
-
-### 2026-08-04 19:45:56  #MKT News #WTI #Impact bearish #Brent
-
-U.S. Treasury Secretary Bessent said he expects energy prices to ease.
-
----
-
-### 2026-08-04 19:45:39  #MKT News
-
-US Treasury Secretary Bessent said a significant number of vessels are still departing the Gulf region.
-
----
-
-### 2026-08-04 19:45:36  #市場 #國際
-
-美國股指期貨在美國財長貝森特發表有關伊朗的言論後漲幅進一步擴大。
-
----
-
-### 2026-08-04 19:45:20  #其他
-
-貝森特：仍有相當數量船隻從海灣駛出。
-
----
-
-### 2026-08-04 19:45:18  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. Treasury Secretary Bessent said the situation in the Gulf has been unstable over the past few days.
-
----
-
-### 2026-08-04 19:45:12  #MKT News #Commodities #Energy
-
-U.S. Treasury Secretary Bessent said he expects energy prices to stabilize.
-
----
-
-### 2026-08-04 19:44:47  #公司
-
-【蘭石重灌研製塔里木石化EVA裝置7臺核心裝置順利交付】據蘭石重灌訊息，近日，蘭石重灌為中國石油獨山子石化公司塔里木120萬噸/年二期乙烯配套綠色低碳示範工程30萬噸/年EVA（乙烯-醋酸乙烯酯共聚物）暨全廠專案設計製造的7臺核心裝置，已順利完工並交付客戶。
-
----
-
-### 2026-08-04 19:44:38  #宏觀 #國際
-
-美國財政部長貝森特：霍爾木茲問題協議有望於週二或週三達成。
-
----
-
-### 2026-08-04 19:44:27  #市場
-
-【美股道瓊斯指數期貨漲超1%】美股道瓊斯指數期貨漲超1%，納斯達克100指數期貨漲1%，標普500指數期貨漲0.3%。
-
----
-
-### 2026-08-04 19:44:11  #市場
-
-【卡特彼勒美股盤前漲超10%】卡特彼勒美股盤前漲超10%，現報915.0美元。
-
----
-
-### 2026-08-04 19:44:05  #宏觀 #國際
-
-美國財政部長貝森特在接受採訪時表示：我們明天可能會與伊朗達成開放霍爾木茲海峽的協議。
-
----
-
-### 2026-08-04 19:43:54  #市場
-
-WTI原油日內跌2%，現報78.67美元/桶。
-
----
-
-### 2026-08-04 19:43:49  #國際
-
-貝森特談及日元干預：日本經濟將迎來強勁增長。
-
----
-
-### 2026-08-04 19:43:45  #市場 #焦點
-
-WTI原油失守79美元/桶，日內跌1.71%。
-
----
-
-### 2026-08-04 19:43:45  #市場
-
-布倫特原油日內跌1%，現報82.92美元/桶。
-
----
-
-### 2026-08-04 19:43:39  #國際
-
-貝森特談日元干預：日本科技板塊勢頭強勁。
-
----
-
-### 2026-08-04 19:43:29  #公司 #市場
-
-【盈峰環境：股票交易異常波動 相關業務營收佔比小】盈峰環境公告稱，公司股票於2026年7月31日、8月3日、8月4日連續3個交易日收盤價格漲幅偏離值累計達22.53%，屬於異常波動情形。經核實，公司及控股股東、實控人均無應披露未披露重大資訊，經營情況正常。公司將用不低於1億元且不超2億元回購股份，截至8月4日尚未首次回購。近期受媒體關注的相關業務營收佔比小，現階段對業績無重大影響。
-
----
-
-### 2026-08-04 19:42:40  #國際
-
-法國內政部長：重申法國仍隨時準備在歐盟邊境與海岸警衛局（Frontex）框架內，向西班牙提供進一步援助。
-
----
-
-### 2026-08-04 19:42:11  #國際
-
-貝森特談日元干預：認為日本沒有理由停止積累大量海外資產
-
----
-
-### 2026-08-04 19:42:08  #其他
-
-貝森特：在我看來，歐元已十分接近均衡價位。
-
----
-
-### 2026-08-04 19:41:59  #公司
-
-睿唯盛高管在電話會議上表示，受人工智慧相關訂單數量增長的推動，公司正迎來生物科技客戶需求改善。
-
----
-
-### 2026-08-04 19:41:48  #國際
-
-法國內政部長：在週二的歐盟會議上，各方均譴責借休達事件分裂歐盟的企圖。
-
----
-
-### 2026-08-04 19:41:34  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Cummins earnings below expectations at 6.73 USD — Cummins (CMI) released earnings per share at 6.73 USD, compared to market expectations of 7.26 USD.
-
----
-
-### 2026-08-04 19:41:33  #宏觀 #國際
-
-美國財政部長貝森特認為利差交易不會完全消失。
-
----
-
-### 2026-08-04 19:41:23  #國際
-
-貝森特談日元干預：向歐洲方面保證這只是外匯儲備再配置。
-
----
-
-### 2026-08-04 19:41:15  #宏觀 #國際
-
-貝森特談日元干預：日本政府正在出臺政策扭轉日元估值偏低的局面。
-
----
-
-### 2026-08-04 19:40:53  #其他
-
-【聚燦光電Mini-LED直顯晶片量產交付】聚燦光電最新推出的大視角Mini-LED直顯晶片，已獲國內頭部客戶高度認可，進入規模化批次供貨階段，訂單持續放量。2026年上半年，Mini直顯業務銷售額突破1.35億元，同比大增380%，預計全年營收將有更大突破。
-
----
-
-### 2026-08-04 19:40:45  #央行 #國際
-
-貝森特提及在日元干預中使用美聯儲 FIMA 回購工具。
-
----
-
-### 2026-08-04 19:40:22  #國際
-
-CoreWeave將其雲人工智慧平臺拓展至印度尼西亞，這是該企業首次進軍亞太地區。
-
----
-
-### 2026-08-04 19:40:12  #宏觀 #國際
-
-美國財政部長貝森特表示：“我認為這套機制就是專為這類情況設立的。”
-
----
-
-### 2026-08-04 19:40:02  #宏觀 #央行 #國際
-
-美國財政部長貝森特：我認為美聯儲考慮擴大該工具規模是合理的。
-
----
-
-### 2026-08-04 19:39:54  #其他
-
-貝森特談日元干預：這與貨幣互換安排並無本質區別。
-
----
-
-### 2026-08-04 19:39:17  #宏觀 #國際
-
-貝森特：高度確信日本將出臺配套政策跟進。
-
----
-
-### 2026-08-04 19:38:39  #公司
-
-【新和成：截至7月底已耗資4660萬元回購公司股份】新和成公告稱，公司於2026年6月23日決定使用自有資金3-6億元回購股份，用於股權激勵或員工持股計劃，回購價不超45.5元/股，實施期限不超12個月。截至7月31日，已回購股份156.6萬股，佔總股本的0.0510%，最高成交價29.97元/股，最低成交價29.56元/股，成交金額4660萬元（不含交易費用）。後續將按計劃繼續實施回購並依規信披。
-
----
-
-### 2026-08-04 19:38:34  #其他
-
-【水利部松遼委升級釋出黑龍江干流同江（黑龍江）段洪水黃色預警】記者從水利部松遼水利委員會獲悉，8月4日18時，黑龍江干流同江（黑龍江）水位站水位達到54.06米。根據《松遼流域主要江河洪水預警釋出管理辦法》規定，松遼委水文局2026年8月4日18時升級釋出黑龍江干流同江（黑龍江）段洪水黃色預警。 (央視新聞)
-
----
-
-### 2026-08-04 19:38:30  #其他
-
-貝森特：相信我們將看到相關舉措得到落實。
-
----
-
-### 2026-08-04 19:38:18  #市場
-
-鈀金期貨日內漲4%，現報1307.00美元/盎司。
-
----
-
-### 2026-08-04 19:38:17  #公司
-
-【盈峰環境：全資子公司出資1700萬元認購礪思星瀚基金份額】盈峰環境公告，公司全資子公司廣東盈峰環境投資有限公司作為有限合夥人，以自有資金1700萬元參與認購天津礪思星瀚創業投資合夥企業（有限合夥）基金份額，礪思明棠擔任普通合夥人，海南礪思擔任基金管理人。該基金規模為4.72億元，主要投資於高新技術領域。本次投資不構成關聯交易及重大資產重組，無須提交董事會及股東會審議。
-
----
-
-### 2026-08-04 19:38:12  #市場
-
-WTI原油日內跌1%，現報79.52美元/桶。
-
----
-
-### 2026-08-04 19:38:01  #宏觀 #央行 #國際
-
-美國財政部長貝森特：不會提前預判日本央行應採取何種政策。
-
----
-
-### 2026-08-04 19:37:52  #國際
-
-法國內政部長：在週二舉行的歐盟部長級會議上，所有與會者都對西班牙處理近期休達局勢的方式表示讚賞。
-
----
-
-### 2026-08-04 19:37:49  #央行 #國際
-
-貝森特談日元干預：相信日本央行會採取一切必要行動。
-
----
-
-### 2026-08-04 19:37:44  #央行 #國際
-
-貝森特：不會預先評判日本央行應當採取何種舉措。
-
----
-
-### 2026-08-04 19:37:31  #其他
-
-貝森特：干預可向市場釋放訊號，但政策才是關鍵。
-
----
-
-### 2026-08-04 19:36:41  #市場
-
-康明斯股價盤前下跌4.1%，因第二季度利潤不及預期。
-
----
-
-### 2026-08-04 19:36:34  #其他
-
-貝森特：希望讓記者清楚符號 “JPY” 所指。
-
----
-
-### 2026-08-04 19:36:23  #其他
-
-貝森特談及記事本上 “買入日元” 字樣：意在確保記者能夠看到。
-
----
-
-### 2026-08-04 19:35:45  #國際
-
-貝森特：很榮幸能與日本站在一起，幫助穩定局勢。
-
----
-
-### 2026-08-04 19:34:56  #宏觀 #國際
-
-美國財政部長貝森特：韓元已出現過度波動。
-
----
-
-### 2026-08-04 19:34:42  #公司
-
-【聯創光電：公司及實控人因涉嫌未按規定披露非經營性資金往來被立案】聯創光電公告，公司及實際控制人伍銳先生於近日分別收到中國證監會下發的《立案告知書》（編號：證監立案字0252026007號、證監立案字0252026008號），因涉嫌未按規定披露非經營性資金往來等違法行為，中國證監會決定對公司及伍銳先生立案。目前，公司各項經營活動均正常開展，立案調查期間將積極配合調查工作。
-
----
-
-### 2026-08-04 19:34:39  #其他
-
-貝森特談及日元干預：若日元走弱，其他貨幣或將跟隨貶值  。
-
----
-
-### 2026-08-04 19:34:20  #宏觀 #國際
-
-美國財政部長貝森特：他們正朝著實現基本預算盈餘的方向推進預算編制。
-
----
-
-### 2026-08-04 19:34:11  #市場
-
-【上海黃金交易所召開2026年年中工作會議】上海黃金交易所召開2026年年中工作會議。會議要求，下半年，上海黃金交易所要聚焦協同賦能，進一步加強雙層市場體系建設。深化與櫃檯市場聯動，最佳化市場參與者結構，進一步加強市場推廣，完善產品服務體系，強化會員管理，探索構建分層投教體系。聚焦規範高效，進一步強化金融基礎設施能效。鞏固拓展倉庫管理成效，做好實物質量管理，夯實清結算業務基礎，提升交割清算服務能效，最佳化市場服務水平。聚焦互聯互通，進一步拓展高水平對外開放。推進滬港黃金市場合作，提升國際化水平，努力擴大國際板市場覆蓋面，落實國際板接入跨境結算體系。聚焦系統治理，進一步夯實風險管理基礎。配合黃金市場制度建設，嚴格執行黃金增值稅新政策，推進全面風險管理體系建設，持續鞏固“三道防線”風控體系，抓好重點風險管理，強化資訊系統安全管理，推動市場規範發展。
-
----
-
-### 2026-08-04 19:34:07  #公司
-
-【安克創新：“安克轉債”轉股價格8月6日起調整為106.72元/股】安克創新公告稱，“安克轉債”轉股價格將進行調整，調整前為106.92元/股，調整後為106.72元/股，調整生效日期為2026年8月6日。此次調整是因公司2024年限制性股票激勵計劃首次授予部分第二個歸屬期歸屬股份上市，新增股份登記完成後，公司總股本將由5.86億股增加至5.88億股。
 
 ---

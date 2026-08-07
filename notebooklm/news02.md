@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 06:50:01_
-_本檔包含 3305 則快訊，約 602577 字_
+_更新時間：2026-08-08 07:43:34_
+_本檔包含 3300 則快訊，約 602901 字_
+
+---
+
+### 2026-08-07 03:44:16  #國際
+
+市場訊息：美國總統特朗普打算今天簽署兩個關於生育旅遊的行政命令。
+
+---
+
+### 2026-08-07 03:36:05  #其他
+
+華特迪士尼：在 ESPN 以及 Disney + 平臺啟動 AI 賦能的搜尋與內容發現功能的 beta 測試。
+
+---
+
+### 2026-08-07 03:34:28  #其他
+
+豐田指出儲油腔存在脫落風險。
+
+---
+
+### 2026-08-07 03:33:21  #國際
+
+豐田：本次召回涉及美國市場約 48000 臺車輛。
+
+---
+
+### 2026-08-07 03:32:53  #其他
+
+豐田召回部分 2024‑2025 款塔科馬車型。
+
+---
+
+### 2026-08-07 03:29:03  #市場
+
+布倫特原油日內漲5%，現報83.44美元/桶。
+
+---
+
+### 2026-08-07 03:27:40  #國際
+
+市場訊息：日本將向承包商提前通報防務採購計劃。
+
+---
+
+### 2026-08-07 03:27:40  #Trading Economics #Economy #Mexico #Interest Rate #Importance 2
+
+Central Bank of Mexico Keeps Benchmark Rate Unchanged — Mexico's central bank left its benchmark interest rate unchanged at 6.50% at its August meeting, in line with market expectations. Policymakers said the decision reflects an appropriate degree of monetary restraint as inflation continues to ease while risks remain tilted to the upside. Annual inflation slowed to 3.10% in the first half of July from 3.55% in mid-June, while core inflation eased to 3.95%. The central bank noted that inflation is expected to continue declining gradually, with headline inflation projected to converge to the 3% target in the fourth quarter of 2027. Banxico also highlighted that Mexico's economy rebounded in the second quarter after contracting in the previous quarter, although downside risks to growth persist. The board reiterated that it expects to keep the benchmark rate at its current level, citing uncertainty related to geopolitical conflicts, global trade policies, and their potential impact on inflation.
+
+---
+
+### 2026-08-07 03:26:59  #國際
+
+【俄方：若想和平解決俄烏衝突 歐洲應停止援烏 】據俄新社6日報道，俄羅斯外交部副部長格魯什科當天表示，歐洲國家若主張和平解決俄烏衝突，就應當停止向烏輸送武器。（新華社）
+
+---
+
+### 2026-08-07 03:26:50  #市場
+
+WTI原油日內漲4%，現報78.25美元/桶。
+
+---
+
+### 2026-08-07 03:25:50  #國際
+
+伊朗塔斯尼姆通訊社援引知情訊息源稱，格什姆島傳出的兩聲爆炸，與霍爾木茲海峽入口附近針對敵對目標採取的軍事行動有關。
+
+---
+
+### 2026-08-07 03:25:07  #Trading Economics #Economy #Brazil #Balance of Trade #Importance 1
+
+Brazil Trade Surplus Misses Forecasts — Brazil's trade surplus widened 1.0% year-on-year to $7.07 billion in July 2026, below market expectations of an $8.4 billion surplus. Exports rose 6.2% to $34.12 billion. Agricultural exports increased 9.3%, led by live animals (29.9%), soybeans (17.4%), and raw cotton (27.2%). Shipments from extractive industries advanced 10.8%, supported by other crude minerals (55.5%), base metal ores and concentrates (101.5%), and crude petroleum (23.8%). Manufacturing exports rose 2.4%, boosted by pulp (30.8%), fuel oils excluding crude (63.0%), and vegetable fats and oils (149.5%). Meanwhile, imports climbed 7.6% to $27.05 billion, driven by a 31.4% increase in extractive industry purchases and a 6.9% rise in manufacturing imports, led by pharmaceuticals (44.1%), fuel oils (31.4%), and data processing equipment (216.7%).
+
+---
+
+### 2026-08-07 03:24:33  #焦點 #國際
+
+伊朗法爾斯通訊社：伊朗在霍爾木茲海峽打擊 “敵對目標” 。
+
+---
+
+### 2026-08-07 03:18:47  #國際
+
+【特朗普力挺赫格塞思 此前兩人據報在武器庫存問題上存分歧】美國總統唐納德·特朗普力挺國防部長赫格塞思，此前有報道稱，兩人就美國武器庫存減少的問題發生分歧，引發對赫格塞思在特朗普政府中去留的疑問。“我對赫格塞思的工作極為滿意，”特朗普週四在社交媒體發帖稱，“一切都非常出色，包括我們對委內瑞拉的襲擊，”伊朗方面同樣如此，“那個國家已遭到重創”。特朗普發表上述言論前，週三有報道稱，特朗普上週在一次內閣會議間隙向赫格塞思表達不滿，稱自己在彈藥短缺問題上受到誤導。特朗普已否認該報道，並再次表示，“國防企業正在建設的工廠數量為我國曆史之最”。
+
+---
+
+### 2026-08-07 03:16:26  #國際
+
+訊息人士：特朗普政府或將拒絕部分美國太陽能製造商提出的加快落地多晶矽進口新關稅及價格下限的訴求。
+
+---
+
+### 2026-08-07 03:16:12  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises More Than 4% — Brent extended its gains, rising more than 4% to $82.8 per barrel on Thursday, after reports that an Iranian parliamentary committee is analyzing a draft proposal outlining restrictive conditions for ship traffic through the Strait of Hormuz. Under the proposal, Iran would prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Tehran also proposed imposing penalties on violators equivalent to 20% of the value of the cargo carried by a vessel and stated that a full reopening of the strait would depend on the lifting of the US maritime blockade. Meanwhile, Houthi forces in Yemen claimed on Thursday to have launched attacks on Saudi troop positions, adding to geopolitical concerns across the region. Earlier in the day, US officials reiterated their confidence that a nuclear agreement with Iran was within reach, although investors remained cautious about the prospects for a durable and lasting peace.
+
+---
+
+### 2026-08-07 03:15:12  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Extend Gains as Iran Reviews Hormuz Transit Bill — Crude oil extended its gains, rising 3% to $77.5 per barrel on Thursday, after reports that an Iranian parliamentary committee is analyzing a draft proposal outlining restrictive conditions for ship traffic through the Strait of Hormuz. Under the proposal, Iran would prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Tehran also proposed imposing penalties on violators equivalent to 20% of the value of the cargo carried by a vessel and stated that a full reopening of the strait would depend on the lifting of the US maritime blockade. Meanwhile, Houthi forces in Yemen claimed on Thursday to have launched attacks on Saudi troop positions, adding to geopolitical concerns across the region. Earlier in the day, US officials reiterated their confidence that a nuclear agreement with Iran was within reach, although investors remained cautious about the prospects for a durable and lasting peace.
+
+---
+
+### 2026-08-07 03:08:32  #其他
+
+匈牙利總理：自願限電措施將於明日結束。
+
+---
+
+### 2026-08-07 03:06:54  #其他
+
+福特汽車維持超過1.6%的跌幅，處於連續第六個交易日回撤之中、恐將創1月份以來最長連跌天數。
+
+---
+
+### 2026-08-07 03:05:39  #央行 #其他
+
+墨西哥央行：預計墨西哥經濟閒置產能將在整個預測期內持續存在，經濟活動仍面臨顯著下行風險。
+
+---
+
+### 2026-08-07 03:04:31  #央行 #其他
+
+墨西哥央行：展望通脹前景，預計整體通脹與核心通脹在整個預測區間內仍將下行，不過回落節奏較此前預期更為平緩。
+
+---
+
+### 2026-08-07 03:03:39  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7517元，較週二夜盤收盤跌22點。成交量284.26億美元。
+
+---
+
+### 2026-08-07 03:03:37  #央行 #其他
+
+墨西哥央行：預計2026年第四季度總體通脹率為3.5%，與此前預測一致；預計2027年第四季度總體通脹率為3.0%，與此前預測一致；預計2026年第四季度核心通脹率為3.5%，與此前預測一致；預計2027年第四季度核心通脹率為3.0%，與此前預測一致。在預測範圍內，通脹走勢的風險平衡仍偏向上行。
+
+---
+
+### 2026-08-07 03:00:59  #其他
+
+【塔隆當選貝南新設參議院首任議長】波多諾伏訊息：貝南前總統帕特里斯·塔隆6日當選該國新設參議院的首任議長。 參議院議長選舉當天在貝南首都波多諾伏舉行。25名參議員投票，塔隆以24票贊成、0票反對、1票棄權當選議長，任期5年。國民議會前議長路易·弗拉沃努當選副議長。此次選舉標誌著貝南參議院組建工作完成。 塔隆在當選後表示，將致力於“加強國家團結，維護國家政治穩定、和平與民主”。 現年68歲的塔隆2016年4月就任貝南總統，2021年4月獲得連任，2026年5月卸任。 根據2025年12月17日頒佈的憲法修正案，貝南議會由原來的單一國民議會改為由國民議會和參議院組成的兩院制。首屆參議院7月30日正式成立。 根據貝南憲法，參議院負責維護國家統一，促進國家建設、政治穩定、民主與和平，維護政治休戰，並可在憲法規定條件下，對有關政治行為主體作出暫停或剝奪政治權利、公民權利等決定。（新華社）
+
+---
+
+### 2026-08-07 03:00:43  #其他
+
+墨西哥政策制定者在利率決議上達成一致。
+
+---
+
+### 2026-08-07 03:00:14  #其他
+
+墨西哥維持基準利率在6.50%；預計為6.50%。
 
 ---
 
@@ -19729,199 +19885,5 @@ CBS News reports Iran and Oman are negotiating a temporary plan to reopen the St
 ### 2026-08-05 20:24:16  #宏觀 #國際
 
 【伊朗總統與哈馬斯領導人通話 表示支援巴勒斯坦人民】伊朗總統佩澤希齊揚5日與巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任政治局主席哈利勒·哈亞通電話，表示伊朗將盡一切可能支援和援助巴勒斯坦人民。據伊朗邁赫爾通訊社5日報道，佩澤希齊揚在通話中表示，巴勒斯坦問題在伊朗外交政策中佔據核心地位。他讚賞哈亞在協調巴勒斯坦各派別方面發揮的作用，表示伊朗支援巴方在與以色列談判程序中提出的倡議和決定。（新華社）
-
----
-
-### 2026-08-05 20:23:17  #宏觀
-
-【大華銀行報告：近九成受訪企業已開展數字化轉型，但僅43%認為取得預期成效】大華銀行釋出《2026大華銀行企業展望調查報告(中國內地篇-上)》，調查顯示，在全球經濟復甦分化、地緣政治局勢持續演變以及經營成本壓力仍存的背景下，中國企業對營商環境和業務前景整體保持積極態度，但經營決策也更加理性務實，發展重點正從追求規模增長轉向構建長期競爭力和經營韌性。
-
----
-
-### 2026-08-05 20:22:53  #Trading Economics #Markets #commodity #Importance 0
-
-Cotton Hits 11-week High — Cotton increased to 83.05 USd/Lbs, the highest since May 2026. Over the past 4 weeks, Cotton gained 5.91%, and in the last 12 months, it increased 26.76%.
-
----
-
-### 2026-08-05 20:22:47  #其他
-
-【“1元進貨賣9毛9”， 行業協會倡議前置倉停止內卷】“會出現1元進貨的商品，賣0.99元的情況。”談及近期前置倉行業的競爭，北京超市供應企業協會會長姚文華向第一財經記者舉了這樣一個例子。近日，該協會發布《關於呼籲前置倉平臺（超市）停止內卷、保障供應商正當權益的倡議書》，呼籲前置倉平臺以品質與質量為導向，保障供應商的正當權益。上述倡議書提到，近期生鮮前置倉頭部巨頭加速兼併，超級平臺在商品定價、賬期設定等方面系統性擴大主導權，以及愈演愈烈的低價內卷現象對超市行業、對超市供應企業帶來衝擊。當前，前置倉平臺持續快速發展。前置倉模式的核心是服務線上訂單，透過騎手完成“最後一公里”配送，以提升時效性並節省運營成本。該模式的便捷性增加了使用者黏性，賽道里走出了一批平臺。與此同時，線下商超整體承壓。中國連鎖經營協會（CCFA）資料顯示，2025年超市Top100企業銷售規模為8855億元，同比下滑1.6%；門店總數連續兩年下降，從2024年的2.52萬個降至2025年的2.1萬個。姚文華告訴記者，該倡議並非針對某一家特定企業，而是關注整個行業因資本湧入導致的業態失衡。無論是線上平臺還是線下巨頭，若形成壟斷態勢，都將破壞市場的公平競爭秩序。（第一財經）
-
----
-
-### 2026-08-05 20:22:43  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #EURUSD #Impact bullish #S&P500
-
-【ADP hiring cools sharply; U.S. labor strain shows in recruitment】U.S. July ADP private payrolls +44,000 vs. consensus 70,000 and June 98,000. Cooling was broad-based rather than driven by a single sector. Manufacturing added 2,000 (June 5,000); construction 1,000. Trade, transportation & utilities swung from +15,000 in June to -8,000 in July, signaling early contraction in goods distribution, transport chains and terminal-demand roles. Professional and business services added 9,000 (June 2,000), showing resilience in corporate services. Wages did not meaningfully soften: financial services wage growth rose to 5.2% from 5.1%, manufacturing to 5.0% from 4.9%; professional/business services and trade/transport wages were unchanged. Firms are hiring less while incumbent wage growth remains sticky.
-
----
-
-### 2026-08-05 20:21:47  #央行 #國際
-
-【印尼央行：人民幣佔本幣交易逾八成 擬進一步擴大對華結算合作】印尼央行計劃近期進一步落實並擴大與中國內地及香港的本幣交易(LCT)合作，以建立完整的印尼盾與人民幣貨幣及外匯市場生態。印尼央行表示，2026年6月，印尼盾與人民幣交易約佔LCT交易總額的81%。這一增長“表明，印尼盾與人民幣直接結算作為經由第三方貨幣進行交易的替代方式，重要性正日益上升”。
-
----
-
-### 2026-08-05 20:21:27  #市場 #焦點
-
-現貨黃金突破4210美元/盎司，日內漲3.27%。
-
----
-
-### 2026-08-05 20:21:24  #市場 #焦點
-
-紐約期金突破4270美元/盎司，日內漲2.84%。
-
----
-
-### 2026-08-05 20:21:22  #公司
-
-西部證券股份有限公司給予中國人壽A股買進的初始評級。
-
----
-
-### 2026-08-05 20:21:13  #公司
-
-優步執行長表示，希望確保公司不依賴單一合作伙伴。
-
----
-
-### 2026-08-05 20:20:54  #資料
-
-【7月份轉職者薪資增長加速】ADP報告：7月份，轉職者薪資增長加速。上個月，留任員工的薪資漲幅保持在4.4%，而轉職者的薪資增長則升至7%，創下自2025年8月以來的最大同比增幅。
-
-7月金融服務業就業人員薪資增速年率中值為5.2%，6月為5.1%。
-7月製造業就業人員薪資增速年率中值為5%，6月為4.9%。
-7月專業/商業服務就業人員薪資增速年率中值為4.1%，6月為4.1%。
-7月建築業就業人員薪資增速年率中值為4.5%，6月為4.6%。
-7月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，6月為4.4%。
-
-ADP首席經濟學家Nela Richardson表示：求職者對實時經濟狀況高度敏感，他們的快速薪酬增長意味著部分勞動力市場存在供給限制。與此同時，隨著僱主對宏觀經濟環境變化做出反應，典型的招聘模式也在發生變化。
-
----
-
-### 2026-08-05 20:20:38  #MKT News #Commodities #Energy
-
-Mexico's president sheinbaum is considering piloting hydraulic fracturing projects.
-
----
-
-### 2026-08-05 20:20:20  #其他
-
-墨西哥總統辛鮑姆正在考量水力壓裂試點專案。
-
----
-
-### 2026-08-05 20:19:50  #MKT News
-
-BeamR has introduced NVIDIA (NVDA.O) video super-resolution technology into live sports broadcasts.
-
----
-
-### 2026-08-05 20:19:39  #公司
-
-【盈方微：擬以1038.72萬元轉讓長興芯元100%股權】盈方微公告，公司於2026年8月5日召開董事會審議透過議案，同意將持有的長興芯元工業科技有限公司100%股權以1038.72萬元人民幣轉讓給長興鑫元企業諮詢有限公司，並簽署《股權轉讓協議》。本次轉讓完成後，公司不再持有長興芯元股權，不再將其納入合併報表範圍。標的公司股東全部權益價值評估值為1038.72萬元，評估增值30.73%。
-
----
-
-### 2026-08-05 20:19:18  #MKT News #Macro & Rates #US Economy
-
-ADP report: median annualized wage growth for financial-services employees 5.2% in July, up from 5.1% in June.
-
----
-
-### 2026-08-05 20:19:14  #公司
-
-【谷歌洽談超 15 億美元交易：吸納 Mechanize 人才並獲取技術非獨佔授權】四名瞭解相關談判的知情人士透露，科技巨頭谷歌近幾週一直在與舊金山初創企業 Mechanize 開展磋商，潛在交易將涉及谷歌吸納 Mechanize 部分人才。部分知情人士稱，這筆交易估值超過 15 億美元，談判仍在推進，細節或發生變動。一名知情人士表示，作為交易的一部分，谷歌正在洽談 Mechanize 技術的非獨佔授權協議。該人士補充稱，谷歌從 Mechanize 吸納的人才將從事模型評估與開發工作。此次談判折射出人工智慧熱潮下的兩大現實：程式碼開發已經成為人工智慧最重要、利潤最高的應用場景之一；各大科技巨頭正另闢蹊徑，獲取維持競爭力所需的人才與技術。這並非谷歌首次採用變通方案獲取人才和技術。過去兩年，谷歌多次採用混合交易模式完成收購，透過人才收購吸納團隊，同時藉助授權等方式獲取技術。企業採取這類做法，有時是為了規避全額收購帶來的反壟斷審查。
-
----
-
-### 2026-08-05 20:19:12  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-ADP report: median annualized wage growth for manufacturing employees 5.0% in July, up from 4.9% in June.
-
----
-
-### 2026-08-05 20:19:04  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-ADP report: July median YoY wage growth for professional and business services employees 4.1%, unchanged from June.
-
----
-
-### 2026-08-05 20:18:54  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-ADP report: median YoY wage growth in construction slowed to 4.5% in July from 4.6% in June.
-
----
-
-### 2026-08-05 20:18:41  #MKT News #Macro & Rates #US Economy
-
-ADP report: Median YoY wage growth for trade, transportation and utilities employees 4.4% in July, unchanged from June.
-
----
-
-### 2026-08-05 20:18:36  #其他
-
-《紐約時報》高管：調整後運營成本上升10%，主要由薪酬與福利支出增加所致。
-
----
-
-### 2026-08-05 20:18:36  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-ADP report: In July pay growth accelerated for job-switchers; pay for stayers held at 4.4% YoY, while job-switchers’ pay rose to 7% YoY, the largest YoY increase since August 2025.
-
----
-
-### 2026-08-05 20:18:32  #Trading Economics #Economy #United States #ADP Employment Change #Importance 3
-
-US Private Employment Growth Slows in July — Private businesses in the US added 44K jobs in July 2026, the least in six months, following a downwardly revised 95K gain in June and below forecasts of 70K. All of the gains came from the services sector, which added 47K while goods-producing companies see a decline of 3K.
-
----
-
-### 2026-08-05 20:18:12  #其他
-
-《紐約時報》高管：本季度廣告客戶對我們高績效廣告產品的需求超出了我們的預期。
-
----
-
-### 2026-08-05 20:18:12  #MKT News #Macro & Rates #US Economy
-
-ADP report: employment in financial services rose 10,000 in July, following a 14,000 increase in June.
-
----
-
-### 2026-08-05 20:18:10  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O #Impact bullish #Nasdaq100
-
-Business Insider reports Google (GOOG.O) is in talks with AI programming-agent startup Mechanize on a transaction valued at more than $1.5 billion.
-
----
-
-### 2026-08-05 20:17:59  #MKT News
-
-ADP report: manufacturing employment rose by 2,000 in July, after a 5,000 gain in June.
-
----
-
-### 2026-08-05 20:17:55  #MKT News
-
-ADP report: Professional and business services jobs increased by 9,000 in July and by 2,000 in June.
-
----
-
-### 2026-08-05 20:17:42  #MKT News #Macro & Rates #US Economy
-
-ADP report: construction employment rose by 1,000 in July and by 2,000 in June.
-
----
-
-### 2026-08-05 20:17:35  #MKT News
-
-ADP report: trade, transportation and utilities employment fell 8,000 in July; June change reported as decreased/increased by 15,000.
-
----
-
-### 2026-08-05 20:17:16  #Trading Economics #Markets #commodity #Importance 0
-
-Nuclear Energy Index Hits 4-week High — Nuclear Energy Index increased to 43.36 USD, the highest since July 2026. Over the past 4 weeks, Nuclear Energy Index lost 1.68%, and in the last 12 months, it increased 4.84%.
 
 ---
