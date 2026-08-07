@@ -1,7 +1,39 @@
 {
   "date": "2026-08-08",
-  "count": 154,
+  "count": 158,
   "items": [
+    {
+      "id": "5031491",
+      "time": "2026-08-08 02:31:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收報78.18美元/桶。NYMEX 9月天然氣期貨收報2.6620美元/百萬英熱單位。NYMEX 9月汽油期貨收報2.9853美元/加侖，NYMEX 9月取暖油期貨收報3.9024美元/加侖。"
+    },
+    {
+      "id": "5031490",
+      "time": "2026-08-08 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.44%，報533.60元人民幣/桶。滬金夜盤收漲1.53%，滬銀收漲1.66%。"
+    },
+    {
+      "id": "mkt:019fdd7b-966c-7aab-8fc0-29c0f6881a66",
+      "time": "2026-08-08 02:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Claude will change Claude Code's default permission mode to automatic for Pro, Max and Team users from Aug. 14. The automatic mode uses a separate classifier to review shell commands and operations. In tests the classifier detected 89% of dangerous commands versus 14% detected under manual approval mode."
+    },
+    {
+      "id": "5031489",
+      "time": "2026-08-08 02:27:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 取消 Claude Code 使用者的分類器附加費用。"
+    },
     {
       "id": "5031488",
       "time": "2026-08-08 02:26:12",

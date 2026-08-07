@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-08 02:28:07",
-  "count": 16040,
+  "updated": "2026-08-08 02:32:01",
+  "count": 16038,
   "items": [
+    {
+      "id": "5031491",
+      "time": "2026-08-08 02:31:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收報78.18美元/桶。NYMEX 9月天然氣期貨收報2.6620美元/百萬英熱單位。NYMEX 9月汽油期貨收報2.9853美元/加侖，NYMEX 9月取暖油期貨收報3.9024美元/加侖。"
+    },
+    {
+      "id": "5031490",
+      "time": "2026-08-08 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲1.44%，報533.60元人民幣/桶。滬金夜盤收漲1.53%，滬銀收漲1.66%。"
+    },
+    {
+      "id": "mkt:019fdd7b-966c-7aab-8fc0-29c0f6881a66",
+      "time": "2026-08-08 02:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Claude will change Claude Code's default permission mode to automatic for Pro, Max and Team users from Aug. 14. The automatic mode uses a separate classifier to review shell commands and operations. In tests the classifier detected 89% of dangerous commands versus 14% detected under manual approval mode."
+    },
+    {
+      "id": "5031489",
+      "time": "2026-08-08 02:27:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic 取消 Claude Code 使用者的分類器附加費用。"
+    },
     {
       "id": "5031488",
       "time": "2026-08-08 02:26:12",
@@ -146166,68 +146198,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Market sources say the New York Fed has asked US banks to review EUR/JPY quotes."
-    },
-    {
-      "id": "mkt:019fb972-5291-7aab-8f3c-98c0c6be0e5b",
-      "time": "2026-08-01 02:31:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NewsNation cited the US Marine Corps confirming an F-35B suffered a Class A mishap near Marine Corps Air Station Miramar; the pilot ejected and has been rescued."
-    },
-    {
-      "id": "mkt:019fb972-3c53-7aab-8f3c-96be892144b0",
-      "time": "2026-08-01 02:31:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night-session front-month contracts close】As of the 02:30 night-session close, Shanghai gold front-month contract fell 0.89% to 884 yuan/gram, Shanghai silver front-month contract fell 1.01% to 14,143 yuan/kg, and SC crude oil front-month contract rose 0.71% to 554 yuan/barrel."
-    },
-    {
-      "id": "5019804",
-      "time": "2026-08-01 02:31:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 9月原油期貨收報84.67美元/桶。NYMEX 8月天然氣期貨收報2.7470美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.2216美元/加侖，NYMEX 8月取暖油期貨收報4.1215美元/加侖。"
-    },
-    {
-      "id": "mkt:019fb971-2d11-7aab-8f3c-8e21e41f69bb",
-      "time": "2026-08-01 02:30:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.71% at 881.08 yuan/gram in the evening session on July 31; silver T+D fell 0.99% to 14,094.0 yuan/kg."
-    },
-    {
-      "id": "5019803",
-      "time": "2026-08-01 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲0.71%，報553.80元人民幣/桶。滬金夜盤收跌0.89%，滬銀收跌1.01%。"
-    },
-    {
-      "id": "te:markets:571848",
-      "time": "2026-08-01 02:30:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Depreciates by 2.66% — Top crypto losers are Bitcoin (-2.66%) and Ether (-2.58%)."
     }
   ]
 }
