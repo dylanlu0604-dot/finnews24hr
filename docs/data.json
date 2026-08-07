@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-08 01:12:08",
+  "updated": "2026-08-08 01:16:13",
   "count": 16002,
   "items": [
+    {
+      "id": "te:economy:573870",
+      "time": "2026-08-08 01:15:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Aug 10th — Negotiations between Iran, the US, and GCC states on access to the Strait of Hormuz will continue to set energy prices and interest rate outlooks for the global economy. In the meantime, updates on the AI trade, which is undergoing heightened volatility, will feature earnings from Applied Materials, Cisco, and CoreWeave. The US will publish consumer inflation data as both the FOMC and financial markets are split on the Fed's rate decision next month. The US will also post the PPI, retail sales, and the Michigan Consumer Confidence Index. In Europe, the UK and Switzerland will post Q2 GDP figures, while the Eurozone will publish industrial production data. In Asia, Chinese monetary aggregates will be in focus, while Taiwan's GDP will unveil concrete figures on global chip production. Also, China and India will post inflation rates. For G10 monetary policy, rate decisions are due in Australia and Norway, while the BoJ will post July's Summary of Opinions."
+    },
+    {
+      "id": "mkt:019fdd36-582e-7aab-8fbf-1c2cbc30c1fd",
+      "time": "2026-08-08 01:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH affirms Uganda's sovereign rating at 'B'; outlook stable."
+    },
     {
       "id": "mkt:019fdd34-3649-7aab-8fbf-14c22bf94da3",
       "time": "2026-08-08 01:10:14",
@@ -145836,25 +145856,6 @@
         "The Fed (FOMC)"
       ],
       "text": "The Federal Reserve accepted $2.151 billion from four counterparties in its fixed-rate reverse repurchase operation."
-    },
-    {
-      "id": "5019789",
-      "time": "2026-08-01 01:16:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週五（7月31日），美聯儲隔夜逆回購協議（RRP）使用規模為21.51億美元（交易對手4家），上個交易日報10.76億美元。"
-    },
-    {
-      "id": "mkt:019fb92a-fe56-7aab-8f3c-1eb01a1f313a",
-      "time": "2026-08-01 01:13:50",
-      "tags": [
-        "MKT News",
-        "NXPI.O",
-        "Impact bearish"
-      ],
-      "text": "NXP SEMI (NXPI.O) fell more than 4% after the Financial Times reported the company is in talks to acquire driver-assistance systems maker Ambarella."
     }
   ]
 }

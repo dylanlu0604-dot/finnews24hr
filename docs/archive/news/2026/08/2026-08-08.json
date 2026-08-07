@@ -1,7 +1,27 @@
 {
   "date": "2026-08-08",
-  "count": 83,
+  "count": 85,
   "items": [
+    {
+      "id": "te:economy:573870",
+      "time": "2026-08-08 01:15:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Aug 10th — Negotiations between Iran, the US, and GCC states on access to the Strait of Hormuz will continue to set energy prices and interest rate outlooks for the global economy. In the meantime, updates on the AI trade, which is undergoing heightened volatility, will feature earnings from Applied Materials, Cisco, and CoreWeave. The US will publish consumer inflation data as both the FOMC and financial markets are split on the Fed's rate decision next month. The US will also post the PPI, retail sales, and the Michigan Consumer Confidence Index. In Europe, the UK and Switzerland will post Q2 GDP figures, while the Eurozone will publish industrial production data. In Asia, Chinese monetary aggregates will be in focus, while Taiwan's GDP will unveil concrete figures on global chip production. Also, China and India will post inflation rates. For G10 monetary policy, rate decisions are due in Australia and Norway, while the BoJ will post July's Summary of Opinions."
+    },
+    {
+      "id": "mkt:019fdd36-582e-7aab-8fbf-1c2cbc30c1fd",
+      "time": "2026-08-08 01:12:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH affirms Uganda's sovereign rating at 'B'; outlook stable."
+    },
     {
       "id": "mkt:019fdd34-3649-7aab-8fbf-14c22bf94da3",
       "time": "2026-08-08 01:10:14",
