@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-07 19:54:31",
-  "count": 16092,
+  "updated": "2026-08-07 19:58:31",
+  "count": 16087,
   "items": [
+    {
+      "id": "mkt:019fdc15-13e1-7aab-8fb8-623d5be3a07b",
+      "time": "2026-08-07 19:56:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Interfax reported Kazakhstan's national oil company plans to raise oil exports via the Baku–Tbilisi–Ceyhan pipeline by 31% in 2026 to 1.7 million tonnes."
+    },
+    {
+      "id": "5031072",
+      "time": "2026-08-07 19:56:26",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【市場監管總局：我國牽頭制定的全球首項捲曲顯示器件國際標準釋出】從國家市場監督管理總局獲悉，近日，國際電工委員會（IEC）釋出捲曲顯示器件領域全球首項國際標準《柔性顯示 第6-42部分：機械測試方法 捲曲顯示器件展平力測試方法》。該標準由我國專家擔任專案負責人，聯合韓國、美國、德國、日本等多個國家的專家共同制定完成，填補了捲曲顯示器件展平力測試方法的國際標準空白。（中證金牛座）"
+    },
+    {
+      "id": "5031071",
+      "time": "2026-08-07 19:56:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：哈薩克國家石油天然氣公司 2026 年經巴庫‑第比利斯‑傑伊漢管道的石油出口將提升 31%。"
+    },
+    {
+      "id": "5031070",
+      "time": "2026-08-07 19:55:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：“嶺南轉債”新增一期暨第四期償付安排及多項風險提示】*ST嶺南公告稱，“嶺南轉債”新增一期暨第四期償付安排明確。新增一期於8月11日前，以3589772張為基礎部分償付；第四期於同日以3552390張為基礎部分償付。截至8月4日，公司及子公司新增訴訟、仲裁涉案金額約1.47億元。公司還存在“嶺南轉債”無法按期兌付、持續經營、增信計劃抵質押資產變現、股票退市、訴訟等風險。公司已劃轉1394.13萬元用於“嶺南轉債”相關償付，資金髮放日為8月11日。"
+    },
+    {
+      "id": "5031069",
+      "time": "2026-08-07 19:55:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦 KSE‑100 指數收盤下跌 0.2%，報 181430 點。"
+    },
+    {
+      "id": "5031068",
+      "time": "2026-08-07 19:55:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通：Prosus當前折價“過高”，看好下半年估值修復】Prosus（PRX）股價週五一度上漲3.3%，表現優於大盤。摩根大通分析師Marcus Diebel在最新報告中指出，隨著下半年負面訊息週期開始緩解，Prosus當前的估值折價可能“過高”。受相關新聞影響，以及Just Eat和iFood的投資需求等因素影響，Prosus及其母公司Naspers今年的市場表現均不盡如人意，股價年內迄今已下跌約20%。目前，Prosus的交易價格較其淨資產價值（NAV）折讓約37%，而近期其合理的NAV折價區間約為20%左右。儘管面臨短期壓力，但分析師認為積極因素正在積聚。當前，圍繞外賣業務的負面新聞“似乎已經過去”，而Prosus在外賣以外的更廣泛投資組合繼續表現良好。摩根大通建議，Prosus和Naspers的管理層可以透過制定更細緻的部門財務目標來改善投資者的認知，從而推動股票重新估值，以縮小當前過高的折價空間。"
+    },
+    {
+      "id": "5031067",
+      "time": "2026-08-07 19:54:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寶龍地產7月實現合約銷售額5.5億元】8月7日，寶龍地產披露7月未經稽核營運簡報。簡報顯示，7月寶龍地產連同其附屬公司合約銷售額約為5.5億元，合約銷售面積約為5.41萬平方米。"
+    },
     {
       "id": "5031066",
       "time": "2026-08-07 19:53:53",
@@ -146550,130 +146615,6 @@
         "市場"
       ],
       "text": "【深交所：本週對138起證券異常交易行為採取了自律監管措施】深交所公告，2026年7月27日至7月31日，本所共對138起證券異常交易行為採取了自律監管措施，涉及盤中拉抬打壓、虛假申報等異常交易情形。"
-    },
-    {
-      "id": "mkt:019fb80a-4654-7aab-8f34-7163c9cfbf6e",
-      "time": "2026-07-31 19:58:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China's Shenzhen Stock Exchange said this week it took self-regulatory measures in 138 cases of abnormal securities trading, involving intraday price ramping and suppression and false order submissions."
-    },
-    {
-      "id": "5019337",
-      "time": "2026-07-31 19:58:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "倫敦金屬交易所三個月期鋅<CMZN3>觸及每噸3641.5美元，為6月18日以來最高水平，最新上漲0.4%。"
-    },
-    {
-      "id": "5019336",
-      "time": "2026-07-31 19:57:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江鎢裝備：與江鎢發展簽署業績承諾補償補充協議】江鎢裝備公告稱，公司擬向不超35名特定物件發行A股，募集資金用於收購控股股東江鎢控股子公司江鎢發展持有的江硬公司、華茂公司、九冶公司各100%股權。因江硬公司稅率更正，雙方於7月31日簽署《業績承諾補償協議之補充協議》，調整業績承諾等事宜。若2026年完成交易，江鎢發展承諾收益法評估資產2026 - 2028年主營營業利潤分成數分別不低於1042.20萬元、1094.66萬元、918.13萬元。本次交易尚需上交所稽核及證監會註冊。"
-    },
-    {
-      "id": "mkt:019fb809-7077-7aab-8f34-6c574ce81963",
-      "time": "2026-07-31 19:57:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "Bank of England chief economist Pill: overall inflation risks skewed to the upside."
-    },
-    {
-      "id": "5019335",
-      "time": "2026-07-31 19:57:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行皮爾：總體通脹面臨上行風險。"
-    },
-    {
-      "id": "5019334",
-      "time": "2026-07-31 19:57:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北投科技：控股子公司2104.24萬元收購北投軟體50%股份】北投科技公告稱，公司控股子公司交科集團擬2104.24萬元收購信創集團持有的北投軟體50%股份。信創集團為公司控股股東北投集團的全資子公司，本次交易構成關聯交易，但不構成重大資產重組。本次交易已透過公司董事會審議，無需提交股東會審議。收購完成後，交科集團將持有北投軟體100%股份，有利於完善公司產業鏈佈局。"
-    },
-    {
-      "id": "te:economy:571766",
-      "time": "2026-07-31 19:56:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Budget Value",
-        "Importance 1"
-      ],
-      "text": "Brazil Budget Deficit Widens More Than Expected — The Brazilian government posted a nominal budget deficit of BRL 166 billion in June 2026, widening from BRL 108.1 billion in the same month a year earlier and exceeding market expectations of a BRL 133.2 billion shortfall. The federal government recorded a BRL 47.2 billion deficit, while regional governments posted a BRL 6.6 billion deficit and state-owned companies registered a BRL 5.5 billion shortfall. Meanwhile, gross government debt rose to 81.9% of GDP in July, the highest level since October 2021, up from 81.1% in the previous month and above market forecasts of 81.5%. Over the 12 months through July, the nominal public sector deficit widened to 1.19% of GDP from 1.14% in the previous month."
-    },
-    {
-      "id": "5019333",
-      "time": "2026-07-31 19:56:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五菱揚光Pro正式上市】7月31日，五菱揚光Pro正式上市，定位城市物流與商用場景，9立方米大貨艙，標配2C快充、405km續航，提供寧德時代天行電池版本，配備AEB、FCW等20項安全輔助功能，售價9.48萬元起。"
-    },
-    {
-      "id": "te:markets:571765",
-      "time": "2026-07-31 19:55:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Zinc Hits 6-week High — Zinc increased to 3640.00 USD/T, the highest since June 2026. Over the past 4 weeks, Zinc gained 3.83%, and in the last 12 months, it increased 33.18%."
-    },
-    {
-      "id": "5019331",
-      "time": "2026-07-31 19:55:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙飛地突遇“偷渡潮” 義大利指責西移民政策】位於北非海岸的西班牙飛地休達近日遭遇“偷渡潮”。有數千人從摩洛哥經海路偷渡抵達該地，已導致當地收容中心人滿為患，至少18人在偷渡途中死亡。義大利政府7月30日稱，大量移民近期從海上“闖關”休達，緣於西班牙移民政策出現變動，意方正考慮暫停與西班牙的申根自由通行機制。（新華社）"
-    },
-    {
-      "id": "5019330",
-      "time": "2026-07-31 19:55:16",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美股盤前科技七巨頭走勢：亞馬遜領漲，蘋果暴跌】在亞馬遜與蘋果相繼公佈最新季度財報的背景下，美國“科技七巨頭”在7月31日的盤前交易中呈現顯著分化走勢。亞馬遜受雲業務（AWS）強勁增長及AI支出回報提振表現極為堅挺，而蘋果則因第四財季營收指引不及預期及供應限制擔憂而大幅承壓。截至發稿，亞馬遜股價上漲約12%，特斯拉上漲超2%，Alphabet上漲約1.7%，英偉達上漲超1%，Meta上漲約1.3%。相比之下，微軟小幅下跌約0.9%，蘋果下跌約7%。"
-    },
-    {
-      "id": "mkt:019fb807-2fe8-7aab-8f34-62af1b1e5756",
-      "time": "2026-07-31 19:55:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XOM.O",
-        "Impact bullish",
-        "CVX.O",
-        "WTI"
-      ],
-      "text": "【US oil majors post $26.5bn Q2 profit; may draw Trump criticism】ExxonMobil (XOM.N) and Chevron (CVX.N) reported combined Q2 net income of $26.5bn, driven by higher crude and gasoline prices after the Trump administration’s military action against Iran. Chevron posted $12.2bn, roughly five times year-earlier and a company-record quarter; Exxon reported $14.5bn, about double a year ago and its strongest quarter since the 2022 Russia-Ukraine war. The sizable profits bolster sector earnings and investor sentiment but could prompt renewed criticism from President Trump, who has accused the energy industry of price-gouging."
     }
   ]
 }
