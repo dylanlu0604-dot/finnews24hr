@@ -1,7 +1,111 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 01:04:09_
-_本檔包含 2924 則快訊，約 602712 字_
+_更新時間：2026-08-08 01:52:03_
+_本檔包含 2919 則快訊，約 604079 字_
+
+---
+
+### 2026-08-03 16:12:50  #公司
+
+【華翔股份：尚未實施股份回購，回購方案金額3000萬元-5000萬元】華翔股份公告，公司於2026年7月27日召開董事會審議透過回購方案，擬以自有資金透過集中競價交易方式回購股份，回購資金總額不低於人民幣3000萬元（含）且不超過人民幣5000萬元（含），回購價格不超過人民幣24.7元/股（含），回購用途為股權激勵或員工持股計劃，實施期限為自董事會審議透過之日起3個月內。截至2026年7月31日，公司尚未實施股份回購，將在回購期限內根據市場情況擇機實施回購。
+
+---
+
+### 2026-08-03 16:12:39  #國際
+
+【伊外交部：烏克蘭襲擊伊朗商船可能是蓄意行為】當地時間8月3日，伊朗外交部發言人巴加埃在新聞釋出會上就烏克蘭襲擊伊朗商船事件表示，儘管烏克蘭方面表示這是意外，現有證據表明此次襲擊可能是蓄意行為。巴加埃還指出，伊朗將採取一切必要行動讓烏克蘭承擔責任，並確保這種情況不再發生。伊朗外交部此前釋出宣告稱，7月25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸。（央視新聞）
+
+---
+
+### 2026-08-03 16:12:39  #Trading Economics #Economy #Greece #Manufacturing PMI #Importance 1
+
+Greece Factory Activity Expands in July — The S&P Global Greece Manufacturing PMI rose to 54.3 in July 2026 from 53.8 in June, signalling a solid improvement in operating conditions. Output expanded at the fastest pace in five months, supported by sustained client demand and further growth in new orders. Export orders also increased for the first time in six months and at the fastest rate since April 2025. Employment rose at the sharpest pace since November 2025, allowing firms to keep up with incoming work as backlogs declined for a second month. Input costs continued to increase, driven by higher material and energy prices, although inflationary pressures eased. Output price inflation also softened to a four-month low. Pre-production inventories fell for a fourth consecutive month amid longer supplier lead times caused by shipping delays and shortages. Firms remained optimistic about production over the coming year, although confidence eased slightly.
+
+---
+
+### 2026-08-03 16:12:11  #其他
+
+本田埼玉工廠將於8月5日至7日停產，鈴鹿工廠將於8月6日至7日停產。地震引發零部件供應受阻。
+
+---
+
+### 2026-08-03 16:12:04  #MKT News #HSI #Impact bullish
+
+Hong Kong's Hang Seng Index (HSI) closed up 124.97 points, or 0.48 pct, at 26,009.4 on Monday Aug 3; Hang Seng Tech Index closed up 46.39 points, or 0.96 pct, at 4,875.61; Hang Seng China Enterprises Index (HSCEI) closed up 40.00 points, or 0.46 pct, at 8,652.15; Hang Seng Red Chip Index closed down 17.16 points, or 0.41 pct, at 4,175.96.
+
+---
+
+### 2026-08-03 16:11:03  #公司 #國際
+
+【今日特朗普要聞】
+1、特朗普：（被問及與伊朗談判是否設有期限）我們靜觀事態發展。我方隨時可以採取行動。如果讓我選擇，我更願意達成協議，我並不想造成人員傷亡，我們不願看到這種局面。
+2、美國總統特朗普表示，美方將於3日與伊朗舉行會談，但拒絕為達成協議設定最後期限。
+3、美國總統特朗普當地時間8月2日在搭乘“空軍一號”返回華盛頓途中對隨行媒體表示，美國正在幫助日本提振日元，“這既是友誼的體現，也有利於世界經濟”。
+4、記者：有報道稱你正安排美軍撤出科威特和巴林。特朗普：我對此不予置評。
+5、特朗普稱OpenAI與Anthropic模型入侵事件牽涉多方。
+6、特朗普：在英特爾這件事上，我為國家賺了750億美元。不是為我自己，是為國家。
+7、美國民主黨籍聯邦參議員馬克·凱利接受採訪時指出，美國總統行事過於反覆無常，目前特朗普政府在應對伊朗戰爭中已經“陷入困境”。
+8、美國總統特朗普在接受採訪時詢問記者，“你是哪家媒體的？”記者回答道自己是ABC（美國廣播公司）的，特朗普詢問道“BBC（英國廣播公司）？”記者糾正並表示自己是ABC的，隨後特朗普表示，“哦，那太糟糕了，我更喜歡BBC”。
+
+---
+
+### 2026-08-03 16:10:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rubber Gains by 3.74% — Top commodity gainers are Rubber (3.74%) and Rice (1.42%). Biggest losers are Cotton (-1.51%) and Corn (-0.65%).
+
+---
+
+### 2026-08-03 16:10:06  #經濟數據 #歐元區
+
+【歐元區7月製造業採購經理指數報51.9】標普全球8月3日釋出資料顯示，歐元區7月製造業採購經理指數報51.9。
+
+---
+
+### 2026-08-03 16:09:54  #公司
+
+【鑫科材料：擬收購鑫科銅業20%少數股權，持股將增至100%】鑫科材料公告，公司擬以自有及自籌資金收購崇左工投與廣西同正各自持有的控股子公司鑫科銅業10%少數股權，合計20%股權。公司授權管理層以不超過鑫科銅業評估價值的價格參與公開掛牌交易收購。本次交易完成後，公司持有鑫科銅業股份比例由80%增加至100%，鑫科銅業將成為全資子公司。本次交易已獲董事會審議透過，無需提交股東會審議，交易對手方出售股權尚需履行國有資產處置相關程式。
+
+---
+
+### 2026-08-03 16:09:37  #MKT News #Brent #Impact mixed
+
+【Overview: Iran-Oman talks on the Strait of Hormuz】Oman last week proposed a Malacca Strait‑style joint regional management mechanism for navigation safety in the Strait of Hormuz, funded by voluntary levies on shipping companies; Iran rejected the proposal. Oman also proposed splitting the channel evenly between Iranian and Omani territorial waters so vessels enter on one side and exit on the other; Iran rejected that plan and counter‑proposed that Iran manage its side while Oman manage only part of the opposite channel — a structure that would effectively allow Iran to control traffic on both inbound and outbound lanes. Iranian foreign minister Araghchi said talks with Oman are in their final stages to design a route that respects both countries' sovereignty; foreign ministry spokesman Baghaei said Tehran seeks an acceptable route (neither the northern nor southern lane) to safeguard Iran’s national interests and security and is working with Oman to open a temporary security corridor. Oman has not publicly responded.
+
+---
+
+### 2026-08-03 16:09:32  #公司 #市場 #觀點
+
+花旗銀行將應用材料公司列入30天上漲催化劑觀察名單。
+
+---
+
+### 2026-08-03 16:09:02  #市場 #焦點
+
+【港股收盤：恒生指數漲0.483%，恒生科技指數漲0.961%】信義光能漲13.409%，MINIMAX-W漲7.285%，阿里巴巴-W漲6.838%，恆隆地產漲4.801%，新東方-S漲4.638%，商湯-W漲4.138%，聯想集團漲3.688%。
+
+---
+
+### 2026-08-03 16:08:54  #MKT News #Important #Hang Seng Index #Impact bullish #09988.HK
+
+Hong Kong shares closed higher: HSI rose 0.48% and the Hang Seng Tech Index rose 0.96%; Alibaba (09988.HK) gained 7.01% on the day.
+
+---
+
+### 2026-08-03 16:08:47  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
+
+Alibaba (BABA.N) rose over 4% in premarket trading after launching its Qianwen 3.8-MAX AI model.
+
+---
+
+### 2026-08-03 16:08:33  #公司
+
+【國科軍工：公司董事長餘永安因工作調動辭職】國科軍工(688543)8月3日公告，餘永安因工作調動，申請辭去公司董事長職務，同時一併辭去董事、董事會下設戰略委員會主任委員、提名委員會委員職務，同時不再擔任法定代表人，辭任後餘永安不再擔任公司任何職務。公司將按照相關規定儘快完成董事補選及新任董事長選舉等相關工作。
+
+---
+
+### 2026-08-03 16:08:12  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
+
+【ECB says Iran war hit euro-area consumption, April growth slows to ~2.5%】The ECB said euro-area household consumption plunged in the initial weeks after the outbreak of the Iran war as consumer confidence collapsed, and warned a renewed escalation could again curb spending. In its economic bulletin the central bank said April consumption fell to roughly 2.5% YoY — about half the pace seen since mid-2024 when nominal consumption averaged 3–4% — and that the April drop was roughly twice the decline implied by historical-trend forecasts and comparable to the hit after the Russia‑Ukraine outbreak in early 2022. The slowdown was driven by higher-income households cutting discretionary spending; the ECB said this pattern points to households postponing purchases rather than being income-constrained.
 
 ---
 
@@ -17564,131 +17668,5 @@ Iranian government: Deputy Foreign Minister Abbas Araghchi held a phone call wit
 ### 2026-08-01 01:54:33  #其他
 
 白宮官員：世界盃賽事舉辦期間沒有查獲任何武器化無人機。
-
----
-
-### 2026-08-01 01:50:25  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
-
-【Guterres urges immediate halt to Gulf hostilities】UN Secretary-General Guterres called for an immediate halt to fighting in the Gulf and full restoration of international navigation rights through the Strait of Hormuz, the Bab al‑Mandeb and adjacent waters, urging disputes be resolved diplomatically. He said military escalation in the Gulf has lasted six months, the initially regional conflict is increasingly a source of global instability, trade via the Strait of Hormuz has fallen sharply, energy markets have been seriously disrupted, food and key fertilizer prices have risen and supply chains are under strain.
-
----
-
-### 2026-08-01 01:48:52  #其他
-
-【古特雷斯呼籲停止海灣地區戰事】當地時間7月31日，聯合國秘書長古特雷斯在紐約聯合國總部呼籲立即停止海灣地區戰事，全面恢復霍爾木茲海峽和曼德海峽及周邊地區的國際航行權利和自由，並透過外交途徑解決爭端。（央視新聞）
-
----
-
-### 2026-08-01 01:48:18  #MKT News
-
-Emergency personnel have been dispatched to Miramar air base in California to respond to a "flight incident" involving an F-35.
-
----
-
-### 2026-08-01 01:44:49  #MKT News
-
-Serbian state TV said Serbia has again received a US sanctions waiver for its Russian-owned oil company NIS.
-
----
-
-### 2026-08-01 01:42:12  #Trading Economics #Economy #United States #Calendar #Importance 2
-
-Week Ahead - Aug 3rd — The start of August will see the war between Iran and the US continue to uphold the uncertainty in global energy prices, and consequently, the inflation outlook. This is in tandem with volatility in the AI trade, to be updated with results from SpaceX and AMD. A busy week of economic data will be headlined by the US jobs report and other labor data in the JOLTS and ADP report. ISM PMIs, factory orders, and the trade balance will also be featured for updates on industry and tariffs. In Europe, industrial production among the largest Eurozone states will unveil the impact of higher power costs, while Germany will post its trade balance. PMI results and the trade balance are awaited in China. Meanwhile, Japan will release wage data, and industry surveys are due in Australia. Interest rate decisions will take place in Brazil and India. Elsewhere, OPEC+ members will convene and discuss oil output quotas for the year.
-
----
-
-### 2026-08-01 01:41:07  #MKT News #USDJPY #Impact bearish
-
-USD/JPY hit an intraday low, down over 0.7% on the day at 158.32.
-
----
-
-### 2026-08-01 01:41:06  #國際
-
-義大利總理：義大利支援歐盟支援西班牙的倡議。
-
----
-
-### 2026-08-01 01:38:01  #其他
-
-義大利總理：決定暫停與西班牙之間的申根協定。
-
----
-
-### 2026-08-01 01:36:52  #MKT News
-
-EU ambassadors will meet on Monday to discuss the migration situation in Spain.
-
----
-
-### 2026-08-01 01:35:31  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-ICE data for the week to July 28: speculators cut Brent crude net longs by 6,948 contracts to 185,083. Diesel net longs rose 2,654 contracts to 87,194.
-
----
-
-### 2026-08-01 01:33:10  #國際
-
-歐盟各國大使將於週一舉行會議，討論西班牙移民問題。
-
----
-
-### 2026-08-01 01:30:50  #其他
-
-美元兌日元短線跳水約70點，現報158.82。
-
----
-
-### 2026-08-01 01:30:07  #MKT News #Important #USDJPY #Impact bearish
-
-USD/JPY briefly plunged about 70 pips to 158.82.
-
----
-
-### 2026-08-01 01:29:15  #國際
-
-義大利外交部：擱置與西班牙（關於簽證/移民問題）的申根協議。
-
----
-
-### 2026-08-01 01:21:36  #MKT News
-
-A senior Gaza Peace Committee official told i24News on Friday that under the proposed Gaza framework, Israel’s obligations would be limited to later phases and reversible. Implementation is conditional on Hamas and other armed groups first fulfilling security commitments.
-
----
-
-### 2026-08-01 01:20:25  #市場
-
-泰達幣發行人Tether的黃金儲備在6月末達到188億美元，（按當時現貨價格）等同於146噸（金條）。
-
----
-
-### 2026-08-01 01:16:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $2.151 billion from four counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-01 01:16:00  #央行 #國際
-
-週五（7月31日），美聯儲隔夜逆回購協議（RRP）使用規模為21.51億美元（交易對手4家），上個交易日報10.76億美元。
-
----
-
-### 2026-08-01 01:13:50  #MKT News #NXPI.O #Impact bearish
-
-NXP SEMI (NXPI.O) fell more than 4% after the Financial Times reported the company is in talks to acquire driver-assistance systems maker Ambarella.
-
----
-
-### 2026-08-01 01:07:48  #MKT News #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-【Fed's Barkin: Whether rates are high enough an "open question"】Fed regional president Barkin said whether current policy rates are sufficiently restrictive to curb inf remains an "open question" and he is unsure he would have voted for this week's hike like three other regional presidents. He said there is a case for tightening to reverse part of last year's rate cuts, but June's slower inf gives time before the next meeting to assess the policy stance. Barkin is not a voting member on rate decisions until next year. He expressed doubt that the labor market is notably tight and said uneven price pass-through makes it hard to gauge residual inf.
-
----
-
-### 2026-08-01 01:04:14  #公司 #國際
-
-市場訊息：美國電信運營商T-Mobil通報德國電信，該公司不支援潛在交易。
 
 ---

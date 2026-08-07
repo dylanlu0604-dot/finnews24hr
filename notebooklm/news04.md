@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 01:04:09_
-_本檔包含 3205 則快訊，約 603148 字_
+_更新時間：2026-08-08 01:52:03_
+_本檔包含 3222 則快訊，約 604289 字_
+
+---
+
+### 2026-08-04 18:25:02  #公司
+
+【網宿科技：擬10.13萬美元轉讓香港申嘉100%股權】網宿科技公告，為履行前期Cloudsway股權轉讓協議及補充協議約定的交割後義務，公司全資子公司香港網宿擬將持有的香港申嘉100%股權以10.13萬美元轉讓給關聯方Cloudsway全資子公司HongKong Cloudsway。截至2026年6月30日，香港申嘉歸母淨資產為10.78萬美元，評估價值為10.13萬美元。本次交易完成後，公司不再持有香港申嘉股權，其將不再納入合併報表範圍。目前相關協議尚未簽署。
+
+---
+
+### 2026-08-04 18:24:25  #公司
+
+【永貴電器：回購股份比例達1.0368% 成交金額5318.65萬元】永貴電器公告稱，公司於2026年7月21日透過回購股份方案，回購資金1-1.5億元，價格不超24.94元/股，期限12個月。截至8月3日，公司以集中競價交易方式回購A股股份4,032,200股，佔總股本1.0368%，最高成交價13.78元/股，最低12.56元/股，成交總金額53,186,456元（不含交易費）。本次回購符合既定方案，後續將按規定繼續實施並披露資訊。
+
+---
+
+### 2026-08-04 18:24:22  #公司 #市場
+
+【凱旺科技：股票交易異常波動 不存在應披露未披露事項】凱旺科技公告稱，公司股票在2026年7月31日、8月3日、8月4日連續三個交易日收盤價格漲跌幅偏離值累計超30%，屬異常波動。經核查，公司前期披露資訊無更正補充，近期經營及環境無重大變化，公司、控股股東及實控人無應披露未披露重大事項，實控人在異常波動期間無買賣公司股票行為。公司提醒投資者注意交易風險，理性投資。
+
+---
+
+### 2026-08-04 18:23:45  #公司
+
+【皖維高新：上交所終止定增股票稽核】皖維高新公告，公司於2026年7月29日召開董事會，審議透過終止2026年度向特定物件發行A股股票事項並撤回申請檔案。近日，公司收到上交所出具的《關於終止對安徽皖維高新材料股份有限公司向特定物件發行股票稽核的決定》，決定終止對公司向特定物件發行股票的稽核。
+
+---
+
+### 2026-08-04 18:22:25  #公司
+
+【*ST億晶：涉兩起關聯買賣合同訴訟 涉案金額超6000萬元】*ST億晶公告，公司控股子公司常州億晶因2022年與中鐵七局集團電務工程有限公司簽訂的《光伏元件買賣合同》善後處理事宜，涉及兩起關聯訴訟。（2026）豫0105民初29935號案中，中鐵七局主張常州億晶退回多餘預付款2284.72萬元及違約金等；常州億晶作為原告在（2026）蘇0413民初7886號案中主張對方配合完成3824.16萬元增值稅發票的稅務紅衝，否則賠償應退稅金損失439.95萬元。兩案均未開庭審理。
+
+---
+
+### 2026-08-04 18:22:07  #國際
+
+市場訊息：敘利亞同意在與美國的制裁談判中削減俄羅斯石油進口。
+
+---
+
+### 2026-08-04 18:21:53  #其他
+
+【葉門胡塞武裝稱襲擊沙特一機場】葉門胡塞武裝4日稱，該組織襲擊了沙烏地阿拉伯位於葉門邊境附近的一座機場。（新華社）
+
+---
+
+### 2026-08-04 18:21:29  #國際
+
+烏克蘭經濟部副部長巴什利克：  烏克蘭的糧食儲存能力可能在11月初耗盡。
+
+---
+
+### 2026-08-04 18:20:55  #公司 #市場
+
+【亞馬遜美股盤前跌超2%】亞馬遜美股盤前跌超2%，現報278.32美元。
+
+---
+
+### 2026-08-04 18:20:53  #其他
+
+市場訊息：SEYOND與GIGA.AI簽署智慧貨運與人工智慧戰略合作諒解備忘錄。
+
+---
+
+### 2026-08-04 18:20:16  #公司
+
+【中孚實業：2026年上半年營收142.58億元 淨利潤同比增165.84%】中孚實業公告稱，2026年上半年，公司實現營業收入142.58億元，淨利潤18.81億元，同比上升165.84%。公司電解鋁業務多措降本，鋁精深加工業務提質增效，產銷增長。專案建設有序推進，科技創新成果顯著，申請專利70件，獲授權33件。公司還最佳化治理、構建回報機制、加強溝通、強化“關鍵少數”管理。2025年度向全體股東每10股派現1.75元（含稅），實際派現7.01億元。
+
+---
+
+### 2026-08-04 18:19:59  #公司
+
+【中孚實業：子公司擬3320.57萬元收購再生鋁專案資產並新增投資】中孚實業公告，公司全資二級子公司鞏義滙豐擬收購鞏義新格年產20萬噸再生鋁水專案產能指標及年產10萬噸再生鋁水專案部分資產，含稅交易價格3320.57萬元。收購完成後，鞏義滙豐擬分別投資建設"專案資產升級改造專案"（總投資4,679.36萬元）和"新建年產10萬噸再生鋁水專案"（總投資12,760萬元）。
+
+---
+
+### 2026-08-04 18:19:41  #國際
+
+【美司法部長提名人有望在參院“通關”】美國國會參議院司法委員會兩名共和黨籍成員3日宣佈，不再反對美國代理司法部長託德·布蘭奇轉正。這被美媒解讀為清除了布蘭奇提名獲批的一大障礙，意味著他的提名更加有望獲參議院確認。（新華社）
+
+---
+
+### 2026-08-04 18:19:16  #公司
+
+【飛龍股份：當前液冷領域在手訂單屬於小批次階段】8月4日，飛龍股份在接待機構調研時表示，公司在嚴格遵照法律法規和交易所業務規則下，對民用領域業務產品訂單和客戶披露原則是：若單一客戶所簽訂協議或合同金額達到或超過上一年經審計的整個新能源產品業務營收的10%，則單獨公告披露。若達不到標準，則在定期報告、互動易和公司官網顯示。當前液冷領域在手訂單屬於小批次階段，暫未達到披露標準，因此未單獨公告。後續若有訂單規模達到資訊披露標準，公司將及時履行資訊披露義務。
+
+---
+
+### 2026-08-04 18:18:40  #公司
+
+【新興裝備：修正2026年上半年業績預告 淨利潤預計上調】新興裝備公告稱，修正2026年半年度業績預告，原預計歸屬於上市公司股東的淨利潤630-900萬元，同比下降42.50%-59.75%；最新預計為1300-1800萬元，同比增長-16.94%-15.01%。基本每股收益由0.05-0.08元/股上調至0.11-0.15元/股。扣除非經常性損益後的淨利潤預計不變。業績修正因參股基金公允價值變動收益增加800-1000萬元。
+
+---
+
+### 2026-08-04 18:18:34  #公司
+
+【矩子科技：獲銀行最高1.44億元股票回購專項貸款承諾】矩子科技公告稱，公司7月20日透過回購股份方案，擬用自有及自籌資金8000萬元 - 1.6億元，以不超29.9元/股的價格回購股份，用於維護公司價值及股東權益，實施期限3個月。現公司已獲中信銀行上海分行《貸款承諾函》，該行承諾提供最高1.44億元、期限不超2年的股票回購專項貸款，具體以貸款合同為準。
+
+---
+
+### 2026-08-04 18:18:22  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+A Qatar foreign ministry spokesperson said parties are engaged in efforts on US-Iran talks and Qatar is seeking a diplomatic solution.
+
+---
+
+### 2026-08-04 18:18:13  #國際
+
+卡達外交部發言人就美伊談判表態：我們可以確認，目前正與各方持續推進相關努力，我們正尋求透過外交途徑解決問題。
+
+---
+
+### 2026-08-04 18:17:27  #國際
+
+【伊朗領袖顧問稱美軍決策水平大滑坡】伊朗最高領袖軍事顧問穆赫辛·雷扎伊當地時間8月3日晚在接受採訪時稱，伊朗武裝部隊全面備戰，誓死捍衛國家，戰至最後一滴血。他還感嘆稱，美國決策層的水平已“大幅滑坡”，再也見不到當年伊拉克、阿富汗戰爭時期那種層級的決策者了。此外，雷扎伊還指出，美國把國內問題和戰爭的蔓延都攬到身上，是在自掘墳墓。下一屆美國政府必將當下視為美國歷史上最黑暗的時刻之一。（央視新聞）
+
+---
+
+### 2026-08-04 18:17:16  #公司
+
+【國新產投、中文發集團、中國印刷到訪北新建材開展合作交流】據北新建材訊息，近日，中國國新旗下國新產投私募基金管理（北京）有限公司（簡稱“國新產投”）、中國文化產業發展集團有限公司（簡稱“中文發集團”）、中國印刷有限公司（簡稱“中國印刷”）到訪北新建材，這是2026年6月中國建材集團與中國國新簽署戰略合作協議以來，兩大央企深化戰略合作的產業落地實踐。雙方圍繞產業園建設、產業投資、綠色供應鏈協同等進行了深度交流。
+
+---
+
+### 2026-08-04 18:16:48  #宏觀
+
+【市場監管總局召開深入貫徹落實公平競爭審查制度專項行動推進會】7月28日，市場監管總局在北京召開深入貫徹落實公平競爭審查制度專項行動推進會，聽取有關地方工作進展情況，總結階段性工作成效，部署推動下一階段重點工作任務。總局黨組成員、副局長孟揚出席會議並講話。專項行動圍繞加快構建全國統一大市場，堅持問題導向，聚焦基層開展公平競爭審查存在的問題，針對性部署15項具體任務，指導各地結合實際紮實推進，取得階段性工作成效，為公平競爭審查落地見效提供了有力保障。
+
+---
+
+### 2026-08-04 18:16:21  #其他
+
+【Spotify的Premium付費使用者數突破3億】Spotify當地時間8月4日公佈二季度營收47.8億歐元，同比增長14%；第二季度經營利潤6.55億歐元，同比增長61%；Premium付費使用者數同比增長9%至3億，月活使用者數同比增長12%至7.77億。
+
+---
+
+### 2026-08-04 18:15:40  #公司
+
+【日月明：截至7月底回購股份20.88萬股 金額達518.39萬元】日月明公告稱，公司7月24日透過以集中競價方式回購公司股份的議案，回購資金不低於2880萬元且不超過5760萬元，價格不超36元/股，實施期限3個月。截至7月31日，已回購股份208,800股，佔總股本0.26%，最高成交價25元/股，最低24.55元/股，成交總金額518.39萬元（不含交易費用）。公司後續將繼續實施回購計劃並及時披露資訊。
+
+---
+
+### 2026-08-04 18:15:09  #國際
+
+歐盟委員會：歐盟認為電力供應安全問題不大。
+
+---
+
+### 2026-08-04 18:14:40  #其他
+
+胡塞武裝稱，對沙烏地阿拉伯西南部納季蘭機場（Najran）的一個“敏感目標”發動了無人機襲擊。
+
+---
+
+### 2026-08-04 18:14:18  #國際
+
+歐盟委員會發言人：密切監測多瑙河水位低的情況。
+
+---
+
+### 2026-08-04 18:14:17  #MKT News #Important
+
+Houthi forces said they launched a drone attack on a "sensitive target" at Najran airport in southwest Saudi Arabia.
+
+---
+
+### 2026-08-04 18:13:59  #國際
+
+歐盟委員會：隨時準備在需要時召開電力協調小組會議。
+
+---
+
+### 2026-08-04 18:13:58  #MKT News #Important #CSI300 #Impact bearish #Hang Seng Index #SSE Composite
+
+China's State Administration for Market Regulation (SAMR) convened a meeting to advance a special campaign to deepen implementation of the fair competition review system.
+
+---
+
+### 2026-08-04 18:13:32  #MKT News #Important
+
+【Sources: U.S. has expended large share of long‑range precision missiles in war with Iran】Refinitiv reported three people familiar with the data said the U.S. Army has expended a large portion of its long‑range precision missile stockpile over five months of conflict with Iran. The munitions cited are the Army Tactical Missile System (ATACMS) and the Precision Strike Missile (PrSM); two sources said the U.S. has used "virtually all" of those weapons. Analysts say each missile costs more than $1m; the sources did not disclose remaining inventory levels.
+
+---
+
+### 2026-08-04 18:13:30  #公司
+
+【隆基綠能：7月為子公司新增6.82億元擔保 累計擔保242.86億元】隆基綠能公告稱，2026年7月，公司為子公司日常經營業務開立銀行保函，新增擔保金額6.82億元。截至7月末，公司及子公司已提供的擔保金額累計為242.86億元，佔公司最近一期經審計歸母淨資產44.75%，其中公司及合併報表範圍內子公司之間的擔保金額為239.21億元。公司未對控股股東和實際控制人及其關聯人提供擔保，亦無逾期擔保。本次新增擔保事項在股東會和董事會預計授權範圍內，無需另行提交公司董事會和股東會批准。
+
+---
+
+### 2026-08-04 18:12:57  #MKT News #CNH
+
+【China Ministry of Finance to issue 2026 book-entry discount Treasury (47th tranche), CNY 20bn】China's Ministry of Finance plans to issue the 2026 book-entry discount Treasury (47th tranche), a 28-day discount bond with a competitive auction of CNY 20bn face value and allowance for additional bids by Class A participants. Price will be set by competitive tender and the bond will be issued at a discount to par. Interest accrues from 6 Aug 2026; repaid at par on 3 Sep 2026 (holiday-adjusted). Auction window: 5 Aug 2026, 10:35–11:35.
+
+---
+
+### 2026-08-04 18:12:52  #Trading Economics #Economy #United States #LMI Logistics Managers Index #Importance 2
+
+US Logistics Expansion Cools as Inventory Growth Slows — The US Logistics Managers' Index eased to 68.9 in July 2026, down from 71.1 in June, which marked the fastest pace of expansion since March 2022. Although growth moderated, July's reading remains higher than any monthly reading recorded between 2023 and 2025, indicating continued strength in the logistics sector. The slowdown was driven primarily by Inventory Levels, which fell 5.5 points to 55.0 after firms pulled inventory forward ahead of July tariff increases. The decline was most pronounced among Downstream retailers, where Inventory Levels dropped from 66.0 to 46.3, suggesting that inventories built ahead of the holiday season are now concentrated Upstream at the wholesale level. Meanwhile, Inventory Costs continued to rise, increasing 1.1 points to 77.0. At 22.0 points above Inventory Levels, the gap underscores persistent cost pressures from tariffs and ongoing geopolitical conflict.
 
 ---
 
@@ -19207,109 +19405,5 @@ Swiss Factory Activity Hits 5-Month Low — Switzerland’s procure.ch–UBS Man
 ### 2026-08-03 16:13:29  #MKT News #Star Stocks #Alibaba #Tencent #Hang Seng Index #Impact bullish #09988.HK #02513.HK #Impact bearish
 
 【Hong Kong close: Hang Seng up 0.48%; Alibaba rallies over 7%】The Hang Seng Index closed up 0.48%; the Hang Seng Tech Index also finished higher. Market turnover was HKD 255.18 bln. Tech names were mixed: MiniMax (00100.HK) and Alibaba (09988.HK) led gains, each up more than 7%; Baidu (09888.HK), Tencent Holdings (00700.HK) and Kuaishou (01024.HK) rose over 3%. Zhipu (02513.HK) fell 4.81%; XPeng (09868.HK) and Li Auto (02015.HK) declined about 3%. Memory-related stocks underperformed: Southern 2x long SK hynix (07709) fell over 16%, Southern 2x long Samsung Electronics (07747) slid nearly 14%; Montage Technology (06809.HK) and GigaDevice (03986.HK) each dropped more than 7%.
-
----
-
-### 2026-08-03 16:12:50  #公司
-
-【華翔股份：尚未實施股份回購，回購方案金額3000萬元-5000萬元】華翔股份公告，公司於2026年7月27日召開董事會審議透過回購方案，擬以自有資金透過集中競價交易方式回購股份，回購資金總額不低於人民幣3000萬元（含）且不超過人民幣5000萬元（含），回購價格不超過人民幣24.7元/股（含），回購用途為股權激勵或員工持股計劃，實施期限為自董事會審議透過之日起3個月內。截至2026年7月31日，公司尚未實施股份回購，將在回購期限內根據市場情況擇機實施回購。
-
----
-
-### 2026-08-03 16:12:39  #國際
-
-【伊外交部：烏克蘭襲擊伊朗商船可能是蓄意行為】當地時間8月3日，伊朗外交部發言人巴加埃在新聞釋出會上就烏克蘭襲擊伊朗商船事件表示，儘管烏克蘭方面表示這是意外，現有證據表明此次襲擊可能是蓄意行為。巴加埃還指出，伊朗將採取一切必要行動讓烏克蘭承擔責任，並確保這種情況不再發生。伊朗外交部此前釋出宣告稱，7月25日，一艘伊朗商船在裡海遭到烏克蘭方面襲擊後發生爆炸。（央視新聞）
-
----
-
-### 2026-08-03 16:12:39  #Trading Economics #Economy #Greece #Manufacturing PMI #Importance 1
-
-Greece Factory Activity Expands in July — The S&P Global Greece Manufacturing PMI rose to 54.3 in July 2026 from 53.8 in June, signalling a solid improvement in operating conditions. Output expanded at the fastest pace in five months, supported by sustained client demand and further growth in new orders. Export orders also increased for the first time in six months and at the fastest rate since April 2025. Employment rose at the sharpest pace since November 2025, allowing firms to keep up with incoming work as backlogs declined for a second month. Input costs continued to increase, driven by higher material and energy prices, although inflationary pressures eased. Output price inflation also softened to a four-month low. Pre-production inventories fell for a fourth consecutive month amid longer supplier lead times caused by shipping delays and shortages. Firms remained optimistic about production over the coming year, although confidence eased slightly.
-
----
-
-### 2026-08-03 16:12:11  #其他
-
-本田埼玉工廠將於8月5日至7日停產，鈴鹿工廠將於8月6日至7日停產。地震引發零部件供應受阻。
-
----
-
-### 2026-08-03 16:12:04  #MKT News #HSI #Impact bullish
-
-Hong Kong's Hang Seng Index (HSI) closed up 124.97 points, or 0.48 pct, at 26,009.4 on Monday Aug 3; Hang Seng Tech Index closed up 46.39 points, or 0.96 pct, at 4,875.61; Hang Seng China Enterprises Index (HSCEI) closed up 40.00 points, or 0.46 pct, at 8,652.15; Hang Seng Red Chip Index closed down 17.16 points, or 0.41 pct, at 4,175.96.
-
----
-
-### 2026-08-03 16:11:03  #公司 #國際
-
-【今日特朗普要聞】
-1、特朗普：（被問及與伊朗談判是否設有期限）我們靜觀事態發展。我方隨時可以採取行動。如果讓我選擇，我更願意達成協議，我並不想造成人員傷亡，我們不願看到這種局面。
-2、美國總統特朗普表示，美方將於3日與伊朗舉行會談，但拒絕為達成協議設定最後期限。
-3、美國總統特朗普當地時間8月2日在搭乘“空軍一號”返回華盛頓途中對隨行媒體表示，美國正在幫助日本提振日元，“這既是友誼的體現，也有利於世界經濟”。
-4、記者：有報道稱你正安排美軍撤出科威特和巴林。特朗普：我對此不予置評。
-5、特朗普稱OpenAI與Anthropic模型入侵事件牽涉多方。
-6、特朗普：在英特爾這件事上，我為國家賺了750億美元。不是為我自己，是為國家。
-7、美國民主黨籍聯邦參議員馬克·凱利接受採訪時指出，美國總統行事過於反覆無常，目前特朗普政府在應對伊朗戰爭中已經“陷入困境”。
-8、美國總統特朗普在接受採訪時詢問記者，“你是哪家媒體的？”記者回答道自己是ABC（美國廣播公司）的，特朗普詢問道“BBC（英國廣播公司）？”記者糾正並表示自己是ABC的，隨後特朗普表示，“哦，那太糟糕了，我更喜歡BBC”。
-
----
-
-### 2026-08-03 16:10:06  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rubber Gains by 3.74% — Top commodity gainers are Rubber (3.74%) and Rice (1.42%). Biggest losers are Cotton (-1.51%) and Corn (-0.65%).
-
----
-
-### 2026-08-03 16:10:06  #經濟數據 #歐元區
-
-【歐元區7月製造業採購經理指數報51.9】標普全球8月3日釋出資料顯示，歐元區7月製造業採購經理指數報51.9。
-
----
-
-### 2026-08-03 16:09:54  #公司
-
-【鑫科材料：擬收購鑫科銅業20%少數股權，持股將增至100%】鑫科材料公告，公司擬以自有及自籌資金收購崇左工投與廣西同正各自持有的控股子公司鑫科銅業10%少數股權，合計20%股權。公司授權管理層以不超過鑫科銅業評估價值的價格參與公開掛牌交易收購。本次交易完成後，公司持有鑫科銅業股份比例由80%增加至100%，鑫科銅業將成為全資子公司。本次交易已獲董事會審議透過，無需提交股東會審議，交易對手方出售股權尚需履行國有資產處置相關程式。
-
----
-
-### 2026-08-03 16:09:37  #MKT News #Brent #Impact mixed
-
-【Overview: Iran-Oman talks on the Strait of Hormuz】Oman last week proposed a Malacca Strait‑style joint regional management mechanism for navigation safety in the Strait of Hormuz, funded by voluntary levies on shipping companies; Iran rejected the proposal. Oman also proposed splitting the channel evenly between Iranian and Omani territorial waters so vessels enter on one side and exit on the other; Iran rejected that plan and counter‑proposed that Iran manage its side while Oman manage only part of the opposite channel — a structure that would effectively allow Iran to control traffic on both inbound and outbound lanes. Iranian foreign minister Araghchi said talks with Oman are in their final stages to design a route that respects both countries' sovereignty; foreign ministry spokesman Baghaei said Tehran seeks an acceptable route (neither the northern nor southern lane) to safeguard Iran’s national interests and security and is working with Oman to open a temporary security corridor. Oman has not publicly responded.
-
----
-
-### 2026-08-03 16:09:32  #公司 #市場 #觀點
-
-花旗銀行將應用材料公司列入30天上漲催化劑觀察名單。
-
----
-
-### 2026-08-03 16:09:02  #市場 #焦點
-
-【港股收盤：恒生指數漲0.483%，恒生科技指數漲0.961%】信義光能漲13.409%，MINIMAX-W漲7.285%，阿里巴巴-W漲6.838%，恆隆地產漲4.801%，新東方-S漲4.638%，商湯-W漲4.138%，聯想集團漲3.688%。
-
----
-
-### 2026-08-03 16:08:54  #MKT News #Important #Hang Seng Index #Impact bullish #09988.HK
-
-Hong Kong shares closed higher: HSI rose 0.48% and the Hang Seng Tech Index rose 0.96%; Alibaba (09988.HK) gained 7.01% on the day.
-
----
-
-### 2026-08-03 16:08:47  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-Alibaba (BABA.N) rose over 4% in premarket trading after launching its Qianwen 3.8-MAX AI model.
-
----
-
-### 2026-08-03 16:08:33  #公司
-
-【國科軍工：公司董事長餘永安因工作調動辭職】國科軍工(688543)8月3日公告，餘永安因工作調動，申請辭去公司董事長職務，同時一併辭去董事、董事會下設戰略委員會主任委員、提名委員會委員職務，同時不再擔任法定代表人，辭任後餘永安不再擔任公司任何職務。公司將按照相關規定儘快完成董事補選及新任董事長選舉等相關工作。
-
----
-
-### 2026-08-03 16:08:12  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-【ECB says Iran war hit euro-area consumption, April growth slows to ~2.5%】The ECB said euro-area household consumption plunged in the initial weeks after the outbreak of the Iran war as consumer confidence collapsed, and warned a renewed escalation could again curb spending. In its economic bulletin the central bank said April consumption fell to roughly 2.5% YoY — about half the pace seen since mid-2024 when nominal consumption averaged 3–4% — and that the April drop was roughly twice the decline implied by historical-trend forecasts and comparable to the hit after the Russia‑Ukraine outbreak in early 2022. The slowdown was driven by higher-income households cutting discretionary spending; the ECB said this pattern points to households postponing purchases rather than being income-constrained.
 
 ---

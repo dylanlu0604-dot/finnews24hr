@@ -1,7 +1,439 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 01:04:09_
-_本檔包含 3325 則快訊，約 603969 字_
+_更新時間：2026-08-08 01:52:03_
+_本檔包含 3363 則快訊，約 604599 字_
+
+---
+
+### 2026-08-06 21:52:14  #其他
+
+阿波羅管理H有限合夥對易捷航空發起收購要約。
+
+---
+
+### 2026-08-06 21:50:07  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+US June wholesale sales MoM and July global supply chain pressure index due in 10 minutes.
+
+---
+
+### 2026-08-06 21:49:49  #國際
+
+歐盟移民負責人布倫納：西班牙政府告訴我們，申根區將受到保護，不會受到影響。
+
+---
+
+### 2026-08-06 21:49:33  #市場
+
+費城半導體指數轉漲，此前跌2%。
+
+---
+
+### 2026-08-06 21:49:10  #國際
+
+【黎巴嫩真主黨議會黨團呼籲停止與以色列談判】黎巴嫩議會“忠於抵抗”黨團（真主黨議會黨團）近日發表宣告，強烈批評黎巴嫩政府繼續與以色列進行談判，並呼籲立即停止相關談判及向以色列作出的任何讓步。該黨團在宣告中指出，在以色列持續對黎巴嫩實施侵略和頻繁違反停火協議的背景下，繼續與以方談判是對國家主權和民眾安全的漠視。宣告強調，這種“與敵人談判”的政策不僅無法保障黎巴嫩的合法權益，反而加劇了國內政治分裂，實質上服務於以色列的利益。真主黨方面重申，解決當前危機的唯一途徑是以色列全面停止對黎巴嫩的軍事襲擊、無條件撤出黎巴嫩領土、釋放被扣押人員，並保障流離失所者安全返鄉。該黨團警告稱，任何試圖在以色列佔領和侵略持續的情況下推進政治談判的行為，都將被視為對抵抗運動的背叛，真主黨將堅決抵制任何相關協議的執行。
+
+---
+
+### 2026-08-06 21:48:56  #其他
+
+比利時啟動資本合作伙伴招募，擬出售貝爾菲烏斯銀行 20% 股權。
+
+---
+
+### 2026-08-06 21:47:58  #市場
+
+【LME鋅現貨延續漲勢 市場擔憂可交割資源不足】LME鋅現貨延續漲勢，續創4年以來新高。LME資料顯示，可用鋅庫存降至僅73,850噸，目前有三家實體持有大量鋅倉單和現金合約，賦予其對可交割供應的顯著影響力，加劇了市場對可交割資源不足的擔憂。
+
+---
+
+### 2026-08-06 21:46:47  #Trading Economics #Markets #Germany #Earnings #Importance 0
+
+Commerzbank earnings above expectations at 0.81 EUR — Commerzbank (CBK) released earnings per share at 0.81 EUR, compared to market expectations of 0.75 EUR.
+
+---
+
+### 2026-08-06 21:46:47  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Sempra Energy earnings above expectations at 1.16 USD — Sempra Energy (SRE) released earnings per share at 1.16 USD, compared to market expectations of 1.03 USD.
+
+---
+
+### 2026-08-06 21:46:46  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Constellation Energy earnings above expectations at 2.55 USD — Constellation Energy (CEG) released earnings per share at 2.55 USD, compared to market expectations of 2.41 USD.
+
+---
+
+### 2026-08-06 21:46:14  #其他
+
+【阿里新一代影片生成模型Wan3.0開啟公測 單次可生成30秒影片】8月6日，阿里全新一代影片生成模型Wan3.0開啟公測。記者瞭解到，Wan3.0在生成時長、萬能創作、全能參考與真實感等維度全面升級：單次可生成30秒影片，完整表達創作意圖；在文字、圖片、音訊、影片四種基礎模態之外，首次支援doc、xls、ppt、pdf、md等文件格式輸入；力求準確還原真實世界——人物千人千面，每一幀畫面既真實、又可信。
+
+---
+
+### 2026-08-06 21:46:01  #市場
+
+易捷航空<EZJ.L>股價下跌，在卡斯爾萊克宣佈放棄收購後，該股最新跌幅為5.5%。
+
+---
+
+### 2026-08-06 21:45:44  #公司 #市場
+
+ALPHABET股價下跌0.5%；新聞報道該公司尋求透過最新債券發行籌集至多250億美元。
+
+---
+
+### 2026-08-06 21:45:10  #公司 #市場
+
+派拉蒙資源公司<POU.TO>公佈季度業績後股價上漲10%。
+
+---
+
+### 2026-08-06 21:43:43  #國際
+
+據報道，由美國主導的“和平委員會”已就加沙地帶一處摩洛哥駐軍（150人）軍事基地的建設，授出了首份工程招標。
+
+---
+
+### 2026-08-06 21:43:08  #國際
+
+【莫迪與內塔尼亞胡通話就中東局勢交換意見】兩位領導人在一次高層電話通話中討論了關鍵的地區發展，並回顧了印度-以色列戰略伙伴關係，強調在地緣政治不確定性加劇之際繼續協調。
+
+---
+
+### 2026-08-06 21:43:04  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Lower as Copom Signals Caution — The Ibovespa fell 0.5% to below 177,000 on Thursday after the BCB stated that it will be cautious to deliver more rate cuts. On Wednesday, the central bank lowered the Selic rate by 25 basis points to 14.0%. Still, the Copom said it will maintain an appropriate degree of monetary restraint to ensure inflation converges to target and highlighted elevated global uncertainty. Financial stocks were mostly lower, with BB Seguridade down nearly 1%. Bradesco also lost nearly 1% after reporting a tenth consecutive quarter of profit growth, as investors focused on weaker credit quality indicators. Itaú extended gains by 1% following solid quaterly results. Axia rose over 1.5% after reporting a rebound in net profit. Petrobras gained near 1% ahead of its earnings release as oil prices rose.
+
+---
+
+### 2026-08-06 21:41:24  #其他
+
+西班牙休達行政區長官：安全部隊仍未在休達按所需強度部署。
+
+---
+
+### 2026-08-06 21:41:14  #公司
+
+【龍蟠科技：與LGES訂立銷售及採購框架協議，涉持續關聯交易】龍蟠科技公告稱，8月6日，公司與LGES訂立銷售及採購框架協議，有效期均為2026年1月1日至2028年12月31日。銷售框架協議下，公司向LGES供應龍蟠產品，2026-2028年建議年度上限均為90億元；採購框架協議下，LGES向公司供應產品，同期建議年度上限均為60億元。此前部分銷售交易未及時披露，公司已採取內控措施，防止類似情況發生。
+
+---
+
+### 2026-08-06 21:41:08  #公司
+
+【龍蟠科技：與LGES簽署持續關連交易協議並約定2026 - 2028年交易金額上限】龍蟠科技公告稱，公司第五屆董事會第十四次會議審議透過《關於與LG ENERGY SOLUTION,LTD.簽署持續關連交易協議的議案》。LGES持有公司三級控股子公司20%股權，視為關連人士。公司與其分別簽訂採購、銷售協議，並約定2026 - 2028年採購與銷售交易金額上限。該交易構成持續關連交易，須遵守相關規定，但豁免部分要求，且不構成上交所規定的關聯交易。議案表決結果為10票贊成，0票反對，0票棄權。
+
+---
+
+### 2026-08-06 21:40:46  #公司 #市場
+
+國際餐飲品牌公司美股股價在公佈第二季度業績後下跌約2%。
+
+---
+
+### 2026-08-06 21:40:38  #國際
+
+【我國首個銀行業資料出境負面清單備案落地北京】北京市網際網路資訊辦公室6日釋出資訊稱，韓國農協銀行北京分行成為我國首家透過負面清單實現資料合規出境的銀行業機構。“依託北京資料跨境服務中心商務中心區服務站的專屬服務機制，服務站主動下沉對接企業需求，前置梳理企業資料出境業務場景，精準破解資料出境合規堵點難點。”北京市網信辦相關負責人說，“我們圍繞負面清單適用性研判、出境風險分級管控等關鍵環節提供一體化專業支撐，全流程跟進企業申報落地各項工作。”（新華社）
+
+---
+
+### 2026-08-06 21:40:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.05% Lower — The Dow Jones Index is falling 28 points. Losses were driven by IBM (-1.89%), UnitedHealth (-1.06%) and Cisco Systems (-0.86%). Biggest rises came from Walt Disney (1.71%), Nvidia (1.62%) and Merck (1.33%).
+
+---
+
+### 2026-08-06 21:40:00  #市場
+
+CELESTICA <CLS.TO> 股價在股票出售後下跌13.7%。
+
+---
+
+### 2026-08-06 21:39:50  #市場
+
+福克斯股價漲幅擴大，最新上漲5.6%。
+
+---
+
+### 2026-08-06 21:39:25  #公司
+
+【無錫銀行：副行長胥焱冰因工作變動辭職】無錫銀行公告稱，該行董事會近日收到副行長胥焱冰的書面辭職報告。因工作變動原因，胥焱冰辭去該行副行長職務。
+
+---
+
+### 2026-08-06 21:39:10  #國際
+
+拉夫勞倫首席財務官表示，第一季度歐洲門店客流量受到整體宏觀環境的影響。
+
+---
+
+### 2026-08-06 21:38:58  #宏觀
+
+巴西杜財長：財政部不存在無法償還債務的風險。
+
+---
+
+### 2026-08-06 21:38:45  #其他
+
+巴西財長：巴西沒有財政危機，而是失去了財政控制。
+
+---
+
+### 2026-08-06 21:38:22  #MKT News
+
+Indian Prime Minister Modi and Israeli Prime Minister Netanyahu reviewed the India-Israel strategic partnership.
+
+---
+
+### 2026-08-06 21:37:56  #其他
+
+西部資料股價迎來16個月來最大單日跌幅，最新跌幅達22.7%。
+
+---
+
+### 2026-08-06 21:37:47  #公司 #市場
+
+SoundHound AI股價上漲18.9%，此前該公司上調了財年收入預測的區間下限。
+
+---
+
+### 2026-08-06 21:37:42  #公司
+
+重慶宇隆光電科技股份有限公司創業板IPO獲上市委會議透過。
+
+---
+
+### 2026-08-06 21:37:35  #其他
+
+印度總理莫迪與以色列總理內塔尼亞胡回顧了印度-以色列戰略伙伴關係。
+
+---
+
+### 2026-08-06 21:37:24  #Trading Economics #Economy #Canada #Composite PMI #Importance 1
+
+Canada Private Sector Activity Contracts for 2nd Month — The S&P Global Canada Composite PMI rose to 49.7 in July 2026 from 47.9 in June, signaling a second consecutive month of contraction in private-sector business activity, albeit at a slower pace. The improvement reflected stronger manufacturing output, while the services sector remained in contraction. New business followed a similar pattern. Employment continued to expand across the private sector, though business confidence weakened to its lowest level since June 2025. On the price front, both input costs and output charges increased at faster rates.
+
+---
+
+### 2026-08-06 21:37:22  #其他
+
+美銀全球研究將西部資料目標價從732美元下調至720美元。
+
+---
+
+### 2026-08-06 21:36:35  #國際
+
+莫迪與內塔尼亞胡就中東局勢發展交換意見。
+
+---
+
+### 2026-08-06 21:36:11  #市場
+
+AppLovin股價下跌17.1%，因第二季度營收不及預期。
+
+---
+
+### 2026-08-06 21:36:03  #MKT News
+
+Indian Prime Minister Modi received a call from Israeli Prime Minister Netanyahu.
+
+---
+
+### 2026-08-06 21:35:57  #市場
+
+盛美半導體（SiTime）股價大漲21.1%，此前其二季度業績超出市場預期。
+
+---
+
+### 2026-08-06 21:35:39  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Dow Holds Record High, Nasdaq Falls — US stocks were mixed on Thursday as stability for traditional economic sectors weighed against volatility for the AI trade following fresh earnings results. The S&P 500 was flat for a second session, while the Dow inched higher for another record high. Treasury yields held the week's pullback, moving in tandem with energy prices to reflect softer concerns that the Federal Reserve will raise inters rates this year. Some relief in the macroeconomic backdrop coincided with robust earnings, with Eli Lilly holding yesterday's results-driven surge while J&J and Goldman Sachs gained around 1%. In turn, chip producers were sharply down to extend their volatile momentum, pressuring the Nasdaq 100 to a near 1% pullback. Western Digital plummeted 17% after posting a disappointing guidance. Similarly, Sandisk lost nearly 10% as its results failed to meet lofty expectations for memory producers. SpaceX fell up to 1% as $101 billion in its shares are will be free from their post-IPO lockup period.
+
+---
+
+### 2026-08-06 21:35:37  #市場
+
+Unity軟體股價因第二季度營收表現強勁上漲8.2%。
+
+---
+
+### 2026-08-06 21:35:29  #其他
+
+巴西財長：財政政策會影響利率，但它並非唯一因素。
+
+---
+
+### 2026-08-06 21:35:11  #市場
+
+RXO股價在公佈第二季度業績後下跌2.3%。
+
+---
+
+### 2026-08-06 21:35:05  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，中進醫療跌22.62%，優品車跌4.21%，金山雲跌4.08%，世紀互聯跌3.87%，禾賽科技跌3.52%。
+
+---
+
+### 2026-08-06 21:34:55  #公司
+
+美客多公佈二季度財報後，紐約市場股價大跌 6.9%。
+
+---
+
+### 2026-08-06 21:34:47  #公司 #市場
+
+D-Wave量子計算公司股價下跌8.8%，此前其第二季度營收未達市場預期。
+
+---
+
+### 2026-08-06 21:34:08  #MKT News #DDOG.O #Impact bearish
+
+Datadog (DDOG.O) fell 20%, the largest decline since August 2023.
+
+---
+
+### 2026-08-06 21:33:54  #公司 #市場
+
+應用軟體股在AppLovin未達營收預期後下跌，甲骨文下跌3.7%，賽富時下滑3.9%，ServiceNow下跌3.2%，奧多比下跌1.9%，財捷集團下跌2.9%。
+
+---
+
+### 2026-08-06 21:33:12  #市場
+
+DATADOG股價下跌20%，創2023年8月以來最大跌幅。
+
+---
+
+### 2026-08-06 21:32:38  #公司 #市場
+
+霍尼韋爾航空航天公司開盤下跌26%，創分拆以來最大跌幅。
+
+---
+
+### 2026-08-06 21:32:30  #市場
+
+西部資料股價下跌20%，創2020年3月以來最大盤中跌幅。
+
+---
+
+### 2026-08-06 21:32:29  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100 #Impact bearish
+
+At the open on Thursday, Aug 6, the Dow Jones Industrial Average rose 129.94 points (0.24%) to 54,479.06. The S&P 500 opened up 3.34 points (0.04%) at 7,726.76. The Nasdaq Composite opened down 103.47 points (0.39%) at 26,259.97.
+
+---
+
+### 2026-08-06 21:32:23  #其他
+
+巴西財長杜裡甘：巴西面臨的挑戰是降低利率。
+
+---
+
+### 2026-08-06 21:32:13  #其他
+
+巴西財長杜裡甘：巴西政府致力於改善其財政平衡。
+
+---
+
+### 2026-08-06 21:32:02  #其他
+
+歐足聯堅持反對國際足聯詹尼·因凡蒂諾的立場。
+
+---
+
+### 2026-08-06 21:31:42  #市場
+
+標普500指數開盤基本持平，納斯達克100指數下跌0.8%。
+
+---
+
+### 2026-08-06 21:31:25  #市場
+
+SANDISK開盤暴跌14%，市值蒸發250億美元。
+
+---
+
+### 2026-08-06 21:31:17  #市場
+
+西部資料股價下跌20%，創2020年3月以來最大單日跌幅。
+
+---
+
+### 2026-08-06 21:31:05  #公司 #市場
+
+SpaceX股價下跌2.4%，因上市後首個股份鎖定期今日到期。
+
+---
+
+### 2026-08-06 21:31:00  #其他
+
+富蘭克林鄧普頓加拿大分部：新增私募市場投資業務。
+
+---
+
+### 2026-08-06 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指漲0.21%，標普500指數漲0.09%，納指跌0.31%。Insmed漲29.85%，摩托羅拉漲9.49%，漢尼汾漲8.35%，碩騰漲5.97%，西部資料跌20.64%，Epam Systems跌20.42%。“七姐妹”方面：蘋果漲1.45%，英偉達漲1.12%，微軟漲0.66%，亞馬遜漲0.30%，谷歌漲0.14%，Meta Platforms跌0.06%，特斯拉跌1.64%。
+
+---
+
+### 2026-08-06 21:30:48  #公司
+
+【濰柴動力：公司沒有可回收航空發動機相關業務】濰柴動力8月6日在互動平臺表示，公司沒有可回收航空發動機相關業務。
+
+---
+
+### 2026-08-06 21:30:47  #MKT News #Important #WDC.O #Impact bearish #SNDK.O #APP.O
+
+US stocks at the open: Dow up 0.14%, S&P 500 near flat, Nasdaq down 0.3%. Storage names under pressure—SanDisk (SNDK.O) down 13%, Western Digital (WDC.O) down 19%, SK Hynix (SKHY.O) down 7.8%. Mobile ad platform AppLovin (APP.O) falls 17.8% after Q2 revenue missed expectations.
+
+---
+
+### 2026-08-06 21:30:39  #公司 #市場
+
+INSMED股價在釋出第二季度財報後開盤上漲31%。
+
+---
+
+### 2026-08-06 21:30:24  #市場
+
+【交易商協會：高質量建設債券市場“科技板” 深化熊貓債市場發展】中國銀行間市場交易商協會8月3日召開2026年下半年工作會議。會議部署了交易商協會系統下半年的六方面重點工作，包括持之以恆推進全面從嚴治黨、不斷提高服務實體經濟和政策落實質效、助力穩妥化解重點領域風險、持續強化自律管理和市場規範、積極提升會員和市場服務水平和繼續提升內部管理效能。
+
+---
+
+### 2026-08-06 21:30:09  #宏觀
+
+巴西財政部長杜里根：我們承諾將堅持改善財政表現的方向。
+
+---
+
+### 2026-08-06 21:29:18  #公司
+
+【德固特：沒有液冷裝備、資料中心的管理領域佈局或產業規劃】德固特8月6日在互動平臺表示，公司沒有液冷裝備、資料中心的管理領域的佈局或產業規劃。
+
+---
+
+### 2026-08-06 21:28:39  #MKT News #WTI #Impact bullish #XAUUSD
+
+Al Arabiya and Saudi outlet Haddath, citing Iraqi security sources, report Iraqi armed factions have redeployed to front lines amid fears of an escalation in the security situation.
+
+---
+
+### 2026-08-06 21:28:32  #市場 #國際
+
+印度政府資料顯示，印度7月燃料銷量同比上漲2.9%，至1992萬噸。
+
+---
+
+### 2026-08-06 21:28:25  #國際
+
+印度政府公佈的資料顯示，7月印度柴油銷量同比增長10.0%，汽油銷量同比增長9.2%。
+
+---
+
+### 2026-08-06 21:28:08  #公司
+
+【依頓電子：擬29.79億元投資建設高階印製電路板智慧製造專案】依頓電子公告稱，公司擬使用自有資金及自籌資金29.79億元投資建設“高階印製電路板智慧製造專案”。該專案擬利用依頓電子中山現有園區土地，建設期21個月，預計2026年12月1日開工，預計投資收益率13.01%（稅後）。本次投資事項尚需提交股東會審議，且專案尚需完成環境影響評價等法定審批程式，存在一定不確定性。
 
 ---
 
@@ -19842,209 +20274,5 @@ Disney (DIS.N) shares rose 2% in pre-market trading after Q3 profit exceeded exp
 ### 2026-08-05 18:34:40  #MKT News #Market Themes #AI Revolution
 
 【Ant Digital Technology, Hubei Big Data Group sign framework to jointly operate 'Token Factory'】Ant Digital Technology and Hubei Big Data Group's data development arm signed a framework cooperation agreement in Wuhan on Aug 5. The partners will focus on four key areas, notably co-developing AI infrastructure, using Hubei's compute-interconnect platform to link compute supply and demand, jointly operating a 'Token Factory', and deploying MaaS projects on Hubei's AI public service platform to host AI agents and support industry adoption.
-
----
-
-### 2026-08-05 18:34:30  #公司
-
-湯森路透公司：將2026財年三大業務板塊全年總營收增長及有機營收增長預期上調至9.5%-10.0%區間。
-
----
-
-### 2026-08-05 18:34:26  #公司
-
-NiSource：透過新近獲批的與亞馬遜和字母控股的合作協議，為現有客戶累計節省14億美元成本。
-
----
-
-### 2026-08-05 18:34:03  #宏觀 #市場
-
-【2026年記賬式貼現（四十八期）國債發行】財政部擬發行2026年記賬式貼現（四十八期）國債。本期國債為期限91天的貼現債。發行數量。本期國債競爭性招標面值總額300億元，進行甲類成員追加投標。發行價格。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本息兌付日期。本期國債自2026年8月6日開始計息，於2026年11月5日（節假日順延）按面值償還。(財政部)
-
----
-
-### 2026-08-05 18:34:01  #其他
-
-MOFFETTNATHANSON 將派拉蒙天舞目標價下調3美元至11美元。
-
----
-
-### 2026-08-05 18:33:46  #市場
-
-【機構：DRAM現貨價格上漲勢頭自7月下旬以來有所減弱】據TrendForce集邦諮詢最新發布的儲存現貨價格趨勢報告，DRAM現貨價格上漲勢頭自7月下旬以來有所減弱，4Gb DDR4和2Gb DDR3價格在交易量有限的情況下小幅上漲。NAND快閃記憶體方面，儘管本週512GbTLC Wafer的現貨價格上漲了4.55%，但由於缺乏強勁的購買需求，價格反彈勢頭依然疲軟。
-
----
-
-### 2026-08-05 18:33:31  #其他
-
-迪士尼：維持2027財年調整後每股收益兩位數增長預期。
-
----
-
-### 2026-08-05 18:33:27  #公司
-
-【螞蟻數科與湖北大資料集團資料開發公司達成合作 將聯合運營“詞元工廠”】據螞蟻數科訊息，8月5日，螞蟻數科與湖北大資料集團資料開發公司在武漢正式簽署框架合作協議。雙方將聚焦四大重點領域打造合作標杆。其中，共建人工智慧基礎設施，依託湖北省算力互聯互通平臺打通算力供需通道，聯合運營“詞元（Token）工廠”，並基於湖北省人工智慧公共服務平臺落地MaaS平臺共建專案，推動AI智慧體入駐與行業賦能。
-
----
-
-### 2026-08-05 18:33:20  #公司 #市場
-
-迪士尼盤前股價上漲2.9%，此前該公司公佈的第三季度調整後每股收益超出預期。
-
----
-
-### 2026-08-05 18:32:36  #公司 #市場
-
-【截至7月底雅化集團回購股份仍未出售，公司回應稱當前股價較低，到期如未完成將實行登出】8月3日晚間，雅化集團釋出公告稱，公司於4月23日審議透過了《關於出售公司已回購股份的議案》，並計劃自公告披露之日起十五個交易日後的六個月內以集中競價方式出售已回購股份不超過924.98萬股（佔公司當前總股本的0.80%），出售所得的資金將用於補充公司流動資金。截至7月31日，公司尚未出售任何已回購股份。關於未出售回購股份的原因，雅化集團董事會辦公室接線人員表示，當前股價水平較低，距離5月份最高點下跌了將近一半，並且公司持續看好下半年業績，尤其是鋰電領域的需求到2027年非常明確。此外，這位工作人員表示，如果到期仍無法出售，就要實行登出程式。（每經網）
-
----
-
-### 2026-08-05 18:32:26  #公司
-
-【國瓷材料：2026年上半年淨利潤3.63億元同比增9.36%】國瓷材料公告，2026年上半年營業收入25.13億元，同比增長16.64%。歸母淨利潤3.63億元，同比增長9.36%；扣非淨利潤3.61億元，同比增長12.54%。利潤分配預案為每10股派現金紅利0.50元。
-
----
-
-### 2026-08-05 18:32:23  #公司
-
-【鴻遠電子：擬以簡易程式定增募資不超3億元】鴻遠電子(603267.SH)公告稱，公司董事會審議透過2026年度以簡易程式向特定物件發行A股股票方案，擬募集資金總額不超過3億元，扣除發行費用後用於多層片式瓷介電容器及可調電容器產業化技術改造專案、微納系統封裝管殼產業化專案及補充流動資金。
-
----
-
-### 2026-08-05 18:32:12  #公司 #國際
-
-羅克波因特天然氣儲存公司：持續的地緣政治緊張局勢以及歐洲天然氣庫存處於多年低位，繼續對價格形成支撐。
-
----
-
-### 2026-08-05 18:32:08  #其他
-
-DISNEY第三季度營收252.5億美元，預估253.9億美元。
-
----
-
-### 2026-08-05 18:31:57  #其他
-
-DISNEY第三季度調整後每股收益2.06美元，預估1.86美元。
-
----
-
-### 2026-08-05 18:31:51  #公司
-
-【中關村：下屬公司多替諾雷片上市許可申請獲受理】中關村公告，公司下屬公司北京華素製藥股份有限公司近日收到國家藥監局簽發的《受理通知書》，多替諾雷片（規格：1mg、2mg）境內生產藥品註冊上市許可申請獲得受理，受理號分別為CYHS2601851、CYHS2601850，註冊分類為化學藥品4類。該藥品適用於痛風伴高尿酸血癥患者，原研藥為全球唯一獲批上市的高選擇性URAT1抑制劑，2024年12月已在中國獲批上市。
-
----
-
-### 2026-08-05 18:31:38  #公司
-
-【微芯生物：注射用NW001臨床試驗申請獲受理】微芯生物公告，公司與成都微芯新域生物技術有限公司合作研發的注射用NW001關於治療晚期惡性腫瘤（實體瘤和淋巴瘤）的臨床試驗申請，近日獲得國家藥品監督管理局藥物審評中心受理，受理號為CXSL2600833，受理日期為2026年8月5日。
-
----
-
-### 2026-08-05 18:31:11  #公司 #市場
-
-CVS股價盤前上漲2.6%，此前該公司上調了全年盈利預期。
-
----
-
-### 2026-08-05 18:30:50  #市場
-
-布倫特原油日內漲2%，現報80.95美元/桶。
-
----
-
-### 2026-08-05 18:30:13  #其他
-
-CVS 給出財年調整後每股收益指引 7.90‑8.10 美元，此前指引為 7.30‑7.50 美元，市場預期 7.45 美元  。
-
----
-
-### 2026-08-05 18:30:08  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-The SENSEX Index Closes 0.09% Higher — The SENSEX Index gained 73 points or 0.09 percent on Wednesday to close at 78502 points. Gains were led by Larsen & Toubro (1.43%), NTPC (1.32%) and UltraTech Cement (1.16%). Biggest losers were HCL Tech (-2.18%), Tata Consultancy (-1.86%) and Bajaj Finserv (-1.19%).
-
----
-
-### 2026-08-05 18:29:45  #公司 #市場
-
-禮來公司股價上漲5.5%，此前該公司上調了全年盈利預期。
-
----
-
-### 2026-08-05 18:29:24  #其他
-
-【大麥國際開售乒乓球德甲門票 支援中文介面與支付寶付款】8月5日下午訊息，大麥國際（MAISEAT）開售德國乒乓球甲級聯賽杜塞爾多夫俱樂部主場賽事門票，專案支援中文頁面與支付寶付款及人民幣結算。（新浪科技）
-
----
-
-### 2026-08-05 18:27:52  #公司 #國際
-
-【百濟神州：2026年上半年營收222.20億元 淨利潤同比增627.1%】百濟神州公告稱，2026年上半年，公司營業總收入222.20億元，同比上升26.8%；歸屬於母公司所有者的淨利潤32.71億元，同比上升627.1%。產品收入增長主要得益於百悅澤、安進公司授權產品和百澤安的銷售增長。此外，公司宣佈追加投資3億美元擴建美國研發中心，還任命三名新董事會成員。
-
----
-
-### 2026-08-05 18:27:19  #公司
-
-【晶豐明源：擬6000萬至1.2億元回購股份維護股東權益】晶豐明源公告稱，公司第四屆董事會第八次會議審議透過以集中競價交易方式回購股份的議案。公司擬用自有資金和股票回購專項貸款，回購已發行的部分A股股份用於維護公司價值及股東權益，回購資金總額不低於6000萬元（含），不超過1.2億元（含）。
-
----
-
-### 2026-08-05 18:27:12  #公司 #國際
-
-【百濟神州：上調2026年度營收等業績預測區間】百濟神州公告稱，對2026年度經營業績預測進行調整，預計營收從436-452億元上調至449-462億元，毛利率維持80%區間高位，研發等費用合計無變化。營收扣除經營成本費用從48-55億元上調至65-71億元，扣除經調整的經營成本費用從100-106億元上調至115-122億元。調整得益於百悅澤在美國等市場擴張。業績預測存在不確定性，提醒投資者注意風險。
-
----
-
-### 2026-08-05 18:27:03  #公司
-
-【卓然股份：2025年度財報被出具非標意見 擬採取措施消除影響】卓然股份公告稱，天職國際對公司2025年度財務報告出具無法表示意見的審計報告及否定意見的內部控制審計報告。原因包括公司及實控人被立案調查、募投專案實施違規、預付款管理及成本歸集存在問題、收入確認異常等。公司董事會尊重審計意見，擬積極整改，截至6月18日已完成募集資金相關整改，還將完善內控、加強培訓、規範財務核算等，以消除不利影響，維護投資者利益。
-
----
-
-### 2026-08-05 18:26:57  #公司
-
-【*ST卓然：收到上交所重大違法強制退市監管工作函】*ST卓然公告稱，公司於2026年8月5日收到上交所下發的監管工作函。中國證監會上海監管局已初步查明，公司披露的部分年度財務資訊涉嫌虛假記載，可能觸及重大違法強制退市情形。上交所要求公司維護正常執行，配合監管工作，履行信披義務，及時披露相關內容，強化內控整改並開展自查。公司股票可能被實施重大違法強制退市，提醒投資者注意風險。
-
----
-
-### 2026-08-05 18:23:28  #MKT News #DXY #Impact bullish #CSI300 #Impact bearish #CNH
-
-【China issues blue typhoon alert as Typhoon White Dolphin and Tropical Storm Whale affect waters】Typhoon No.13 White Dolphin (strong typhoon) was centered at 17:00 at 25.8°N, 136.9°E — about 920 km east of Naha (Ryukyu Islands) — with maximum near‑centre winds of 42 m/s (≈151 km/h) and central pressure 955 hPa. It is moving west at 20–25 km/h, with intensity steady or slightly strengthening; forecast to cross the Ryukyu Islands during daytime on the 7th, then enter the East China Sea, slow down and gradually approach the East China coast. Tropical Storm No.14 Whale was centered at 17:00 at 17.7°N, 120.0°E — about 360 km northwest of Manila — with maximum winds of 18 m/s (≈65 km/h), central pressure 998 hPa and a radius of force‑7 winds of 100–120 km. From 20:00 on the 5th to 20:00 on the 6th, combined influence of the two systems will produce force 6–7 winds (gusts 8–9) over the central/eastern East China Sea, southeastern Yellow Sea, waters east of Taiwan, the Bashi Channel, and the central/southern South China Sea; parts of the central‑eastern South China Sea and eastern East China Sea may see force 8–10 winds (gusts 11–12).
-
----
-
-### 2026-08-05 18:22:30  #公司
-
-【段永平減持泡泡瑪特，持股比例降至5.55%】8月5日晚間訊息，據香港交易所披露，段永平管理的H&H International Investment對泡泡瑪特國際集團有限公司的多頭持倉比例於2026年7月30日從7.65%降至5.55%。據港交所披露檔案，本次變動原因系H&H International Investment“交付了根據股本衍生工具須交付的股份或款項”。7月23日，段永平在社交平臺上回應投資者提問時明確表示：“泡泡瑪特我才剛開始買啊！我猜10年內大機率是不會賣的。”此外，近日在美加墨世界盃決賽現場，泡泡瑪特創始人王寧與段永平剛剛會面，泡泡瑪特第一大股東和第二大股東還罕見一起合影。此前，段永平在回應網友“分享泡泡瑪特估值”思路時，建議對方去看《因為獨特》，並表示自己是王寧的粉絲。（新浪科技）
-
----
-
-### 2026-08-05 18:21:31  #其他
-
-【貝特瑞與五創迴圈簽約 共同推動電池綠色回收】據貝特瑞訊息，8月4日，貝特瑞與五創迴圈舉行專案座談會及簽約儀式，雙方將就推動電池綠色回收展開深入合作。五創迴圈主要從事退役鋰離子電池回收和資源再生業務，致力於二次資源迴圈利用技術的研究、開發，目前已攻克廢舊電池回收技術，實現電池回收穩定量產。
-
----
-
-### 2026-08-05 18:20:50  #Trading Economics #Economy #Macedonia #Balance of Trade #Importance 1
-
-North Macedonia Trade Gap Widens in June — North Macedonia’s trade deficit widened to $363 million in June 2026 from $334 million in the same month a year earlier. Exports increased 19.2% year-on-year to $953.9 million, while imports rose 16.0% to $1,316.5 million. In the January–June period, exports climbed 14.9% to $5,085.9 million, supported by stronger sales of chemical and related products (28.8%), machinery and transport equipment (7.5%), and miscellaneous manufactured articles (3.2%). Exports grew to Germany (11.0%), Bulgaria (26.6%), and Serbia (23.2%). Meanwhile, imports advanced 14.7% to $7,131.7 million, driven by higher purchases of manufactured goods classified chiefly by material (23.1%), machinery and transport equipment (7.4%), and miscellaneous manufactured articles (15.4%). Import growth was strongest from Great Britain (65.4%), Greece (36.8%), and China (17.2%). Over the first six months of the year, the trade gap widened to $2,045.9 million from $1,788.2 million in the corresponding period of 2025.
-
----
-
-### 2026-08-05 18:20:28  #其他
-
-【受“白海豚”和“鯨魚”共同影響中央氣象臺釋出颱風藍色預警】中央氣象臺8月5日18時釋出颱風藍色預警，今年第13號颱風“白海豚”（強颱風級）的中心今天（5日）下午5點鐘位於琉球群島那霸市偏東方向約920公里的西北太平洋上，就是北緯25.8度、東經136.9度，中心附近最大風力有14級（42米/秒），中心最低氣壓為955百帕，七級風圈半徑為260~360公里，十級風圈半徑為120~160公里，十二級風圈半徑為60~80公里。預計，“白海豚”將以每小時20~25公里的速度向偏西方向移動，強度變化不大或略有增強， 7日白天穿過琉球群島後移入東海，移速減慢，並逐漸向華東沿海靠近。(央視新聞)
-
----
-
-### 2026-08-05 18:19:50  #其他
-
-市場訊息：Vast 計劃最早於明年在香港上市。
-
----
-
-### 2026-08-05 18:19:46  #Trading Economics #Economy #Luxembourg #Inflation Rate #Importance 1
-
-Luxembourg July Inflation Holds at 2.2% — The annual inflation rate in Luxembourg rose by 2.2% in July 2026, matching the pace from the previous month. Price growth remained steady for food and non-alcoholic beverages (1.3%) and education (6.2%). Meanwhile, faster increases in the prices of alcoholic beverages and tobacco (2.2% vs. 1.5% in June), clothing and footwear (2.5% vs. 0.3%), health (2.2% vs. 2.1%), information and communication (0.9% vs. 0.7%), insurance and financial services (0.8% vs. 0.6%), and restaurants and hotels (3.5% vs. 3.4%) more than offset slower price growth for housing and utilities (2.2% vs. 2.6%), furnishings, household equipment, and routine household maintenance (0.3% vs. 0.4%), transportation (4.0% vs. 4.3%), recreation and culture (2.2% vs. 3.1%), and miscellaneous goods and services (0.5% vs. 1.2%). On a monthly basis, consumer prices fell 0.5% in July, following a 0.1% increase in the preceding period.
 
 ---

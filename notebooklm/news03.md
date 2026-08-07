@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 01:04:09_
-_本檔包含 3389 則快訊，約 602939 字_
+_更新時間：2026-08-08 01:52:03_
+_本檔包含 3390 則快訊，約 603983 字_
+
+---
+
+### 2026-08-05 18:34:30  #公司
+
+湯森路透公司：將2026財年三大業務板塊全年總營收增長及有機營收增長預期上調至9.5%-10.0%區間。
+
+---
+
+### 2026-08-05 18:34:26  #公司
+
+NiSource：透過新近獲批的與亞馬遜和字母控股的合作協議，為現有客戶累計節省14億美元成本。
+
+---
+
+### 2026-08-05 18:34:03  #宏觀 #市場
+
+【2026年記賬式貼現（四十八期）國債發行】財政部擬發行2026年記賬式貼現（四十八期）國債。本期國債為期限91天的貼現債。發行數量。本期國債競爭性招標面值總額300億元，進行甲類成員追加投標。發行價格。本期國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本息兌付日期。本期國債自2026年8月6日開始計息，於2026年11月5日（節假日順延）按面值償還。(財政部)
+
+---
+
+### 2026-08-05 18:34:01  #其他
+
+MOFFETTNATHANSON 將派拉蒙天舞目標價下調3美元至11美元。
+
+---
+
+### 2026-08-05 18:33:46  #市場
+
+【機構：DRAM現貨價格上漲勢頭自7月下旬以來有所減弱】據TrendForce集邦諮詢最新發布的儲存現貨價格趨勢報告，DRAM現貨價格上漲勢頭自7月下旬以來有所減弱，4Gb DDR4和2Gb DDR3價格在交易量有限的情況下小幅上漲。NAND快閃記憶體方面，儘管本週512GbTLC Wafer的現貨價格上漲了4.55%，但由於缺乏強勁的購買需求，價格反彈勢頭依然疲軟。
+
+---
+
+### 2026-08-05 18:33:31  #其他
+
+迪士尼：維持2027財年調整後每股收益兩位數增長預期。
+
+---
+
+### 2026-08-05 18:33:27  #公司
+
+【螞蟻數科與湖北大資料集團資料開發公司達成合作 將聯合運營“詞元工廠”】據螞蟻數科訊息，8月5日，螞蟻數科與湖北大資料集團資料開發公司在武漢正式簽署框架合作協議。雙方將聚焦四大重點領域打造合作標杆。其中，共建人工智慧基礎設施，依託湖北省算力互聯互通平臺打通算力供需通道，聯合運營“詞元（Token）工廠”，並基於湖北省人工智慧公共服務平臺落地MaaS平臺共建專案，推動AI智慧體入駐與行業賦能。
+
+---
+
+### 2026-08-05 18:33:20  #公司 #市場
+
+迪士尼盤前股價上漲2.9%，此前該公司公佈的第三季度調整後每股收益超出預期。
+
+---
+
+### 2026-08-05 18:32:36  #公司 #市場
+
+【截至7月底雅化集團回購股份仍未出售，公司回應稱當前股價較低，到期如未完成將實行登出】8月3日晚間，雅化集團釋出公告稱，公司於4月23日審議透過了《關於出售公司已回購股份的議案》，並計劃自公告披露之日起十五個交易日後的六個月內以集中競價方式出售已回購股份不超過924.98萬股（佔公司當前總股本的0.80%），出售所得的資金將用於補充公司流動資金。截至7月31日，公司尚未出售任何已回購股份。關於未出售回購股份的原因，雅化集團董事會辦公室接線人員表示，當前股價水平較低，距離5月份最高點下跌了將近一半，並且公司持續看好下半年業績，尤其是鋰電領域的需求到2027年非常明確。此外，這位工作人員表示，如果到期仍無法出售，就要實行登出程式。（每經網）
+
+---
+
+### 2026-08-05 18:32:26  #公司
+
+【國瓷材料：2026年上半年淨利潤3.63億元同比增9.36%】國瓷材料公告，2026年上半年營業收入25.13億元，同比增長16.64%。歸母淨利潤3.63億元，同比增長9.36%；扣非淨利潤3.61億元，同比增長12.54%。利潤分配預案為每10股派現金紅利0.50元。
+
+---
+
+### 2026-08-05 18:32:23  #公司
+
+【鴻遠電子：擬以簡易程式定增募資不超3億元】鴻遠電子(603267.SH)公告稱，公司董事會審議透過2026年度以簡易程式向特定物件發行A股股票方案，擬募集資金總額不超過3億元，扣除發行費用後用於多層片式瓷介電容器及可調電容器產業化技術改造專案、微納系統封裝管殼產業化專案及補充流動資金。
+
+---
+
+### 2026-08-05 18:32:12  #公司 #國際
+
+羅克波因特天然氣儲存公司：持續的地緣政治緊張局勢以及歐洲天然氣庫存處於多年低位，繼續對價格形成支撐。
+
+---
+
+### 2026-08-05 18:32:08  #其他
+
+DISNEY第三季度營收252.5億美元，預估253.9億美元。
+
+---
+
+### 2026-08-05 18:31:57  #其他
+
+DISNEY第三季度調整後每股收益2.06美元，預估1.86美元。
+
+---
+
+### 2026-08-05 18:31:51  #公司
+
+【中關村：下屬公司多替諾雷片上市許可申請獲受理】中關村公告，公司下屬公司北京華素製藥股份有限公司近日收到國家藥監局簽發的《受理通知書》，多替諾雷片（規格：1mg、2mg）境內生產藥品註冊上市許可申請獲得受理，受理號分別為CYHS2601851、CYHS2601850，註冊分類為化學藥品4類。該藥品適用於痛風伴高尿酸血癥患者，原研藥為全球唯一獲批上市的高選擇性URAT1抑制劑，2024年12月已在中國獲批上市。
+
+---
+
+### 2026-08-05 18:31:38  #公司
+
+【微芯生物：注射用NW001臨床試驗申請獲受理】微芯生物公告，公司與成都微芯新域生物技術有限公司合作研發的注射用NW001關於治療晚期惡性腫瘤（實體瘤和淋巴瘤）的臨床試驗申請，近日獲得國家藥品監督管理局藥物審評中心受理，受理號為CXSL2600833，受理日期為2026年8月5日。
+
+---
+
+### 2026-08-05 18:31:11  #公司 #市場
+
+CVS股價盤前上漲2.6%，此前該公司上調了全年盈利預期。
+
+---
+
+### 2026-08-05 18:30:50  #市場
+
+布倫特原油日內漲2%，現報80.95美元/桶。
+
+---
+
+### 2026-08-05 18:30:13  #其他
+
+CVS 給出財年調整後每股收益指引 7.90‑8.10 美元，此前指引為 7.30‑7.50 美元，市場預期 7.45 美元  。
+
+---
+
+### 2026-08-05 18:30:08  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.09% Higher — The SENSEX Index gained 73 points or 0.09 percent on Wednesday to close at 78502 points. Gains were led by Larsen & Toubro (1.43%), NTPC (1.32%) and UltraTech Cement (1.16%). Biggest losers were HCL Tech (-2.18%), Tata Consultancy (-1.86%) and Bajaj Finserv (-1.19%).
+
+---
+
+### 2026-08-05 18:29:45  #公司 #市場
+
+禮來公司股價上漲5.5%，此前該公司上調了全年盈利預期。
+
+---
+
+### 2026-08-05 18:29:24  #其他
+
+【大麥國際開售乒乓球德甲門票 支援中文介面與支付寶付款】8月5日下午訊息，大麥國際（MAISEAT）開售德國乒乓球甲級聯賽杜塞爾多夫俱樂部主場賽事門票，專案支援中文頁面與支付寶付款及人民幣結算。（新浪科技）
+
+---
+
+### 2026-08-05 18:27:52  #公司 #國際
+
+【百濟神州：2026年上半年營收222.20億元 淨利潤同比增627.1%】百濟神州公告稱，2026年上半年，公司營業總收入222.20億元，同比上升26.8%；歸屬於母公司所有者的淨利潤32.71億元，同比上升627.1%。產品收入增長主要得益於百悅澤、安進公司授權產品和百澤安的銷售增長。此外，公司宣佈追加投資3億美元擴建美國研發中心，還任命三名新董事會成員。
+
+---
+
+### 2026-08-05 18:27:19  #公司
+
+【晶豐明源：擬6000萬至1.2億元回購股份維護股東權益】晶豐明源公告稱，公司第四屆董事會第八次會議審議透過以集中競價交易方式回購股份的議案。公司擬用自有資金和股票回購專項貸款，回購已發行的部分A股股份用於維護公司價值及股東權益，回購資金總額不低於6000萬元（含），不超過1.2億元（含）。
+
+---
+
+### 2026-08-05 18:27:12  #公司 #國際
+
+【百濟神州：上調2026年度營收等業績預測區間】百濟神州公告稱，對2026年度經營業績預測進行調整，預計營收從436-452億元上調至449-462億元，毛利率維持80%區間高位，研發等費用合計無變化。營收扣除經營成本費用從48-55億元上調至65-71億元，扣除經調整的經營成本費用從100-106億元上調至115-122億元。調整得益於百悅澤在美國等市場擴張。業績預測存在不確定性，提醒投資者注意風險。
+
+---
+
+### 2026-08-05 18:27:03  #公司
+
+【卓然股份：2025年度財報被出具非標意見 擬採取措施消除影響】卓然股份公告稱，天職國際對公司2025年度財務報告出具無法表示意見的審計報告及否定意見的內部控制審計報告。原因包括公司及實控人被立案調查、募投專案實施違規、預付款管理及成本歸集存在問題、收入確認異常等。公司董事會尊重審計意見，擬積極整改，截至6月18日已完成募集資金相關整改，還將完善內控、加強培訓、規範財務核算等，以消除不利影響，維護投資者利益。
+
+---
+
+### 2026-08-05 18:26:57  #公司
+
+【*ST卓然：收到上交所重大違法強制退市監管工作函】*ST卓然公告稱，公司於2026年8月5日收到上交所下發的監管工作函。中國證監會上海監管局已初步查明，公司披露的部分年度財務資訊涉嫌虛假記載，可能觸及重大違法強制退市情形。上交所要求公司維護正常執行，配合監管工作，履行信披義務，及時披露相關內容，強化內控整改並開展自查。公司股票可能被實施重大違法強制退市，提醒投資者注意風險。
+
+---
+
+### 2026-08-05 18:23:28  #MKT News #DXY #Impact bullish #CSI300 #Impact bearish #CNH
+
+【China issues blue typhoon alert as Typhoon White Dolphin and Tropical Storm Whale affect waters】Typhoon No.13 White Dolphin (strong typhoon) was centered at 17:00 at 25.8°N, 136.9°E — about 920 km east of Naha (Ryukyu Islands) — with maximum near‑centre winds of 42 m/s (≈151 km/h) and central pressure 955 hPa. It is moving west at 20–25 km/h, with intensity steady or slightly strengthening; forecast to cross the Ryukyu Islands during daytime on the 7th, then enter the East China Sea, slow down and gradually approach the East China coast. Tropical Storm No.14 Whale was centered at 17:00 at 17.7°N, 120.0°E — about 360 km northwest of Manila — with maximum winds of 18 m/s (≈65 km/h), central pressure 998 hPa and a radius of force‑7 winds of 100–120 km. From 20:00 on the 5th to 20:00 on the 6th, combined influence of the two systems will produce force 6–7 winds (gusts 8–9) over the central/eastern East China Sea, southeastern Yellow Sea, waters east of Taiwan, the Bashi Channel, and the central/southern South China Sea; parts of the central‑eastern South China Sea and eastern East China Sea may see force 8–10 winds (gusts 11–12).
+
+---
+
+### 2026-08-05 18:22:30  #公司
+
+【段永平減持泡泡瑪特，持股比例降至5.55%】8月5日晚間訊息，據香港交易所披露，段永平管理的H&H International Investment對泡泡瑪特國際集團有限公司的多頭持倉比例於2026年7月30日從7.65%降至5.55%。據港交所披露檔案，本次變動原因系H&H International Investment“交付了根據股本衍生工具須交付的股份或款項”。7月23日，段永平在社交平臺上回應投資者提問時明確表示：“泡泡瑪特我才剛開始買啊！我猜10年內大機率是不會賣的。”此外，近日在美加墨世界盃決賽現場，泡泡瑪特創始人王寧與段永平剛剛會面，泡泡瑪特第一大股東和第二大股東還罕見一起合影。此前，段永平在回應網友“分享泡泡瑪特估值”思路時，建議對方去看《因為獨特》，並表示自己是王寧的粉絲。（新浪科技）
+
+---
+
+### 2026-08-05 18:21:31  #其他
+
+【貝特瑞與五創迴圈簽約 共同推動電池綠色回收】據貝特瑞訊息，8月4日，貝特瑞與五創迴圈舉行專案座談會及簽約儀式，雙方將就推動電池綠色回收展開深入合作。五創迴圈主要從事退役鋰離子電池回收和資源再生業務，致力於二次資源迴圈利用技術的研究、開發，目前已攻克廢舊電池回收技術，實現電池回收穩定量產。
+
+---
+
+### 2026-08-05 18:20:50  #Trading Economics #Economy #Macedonia #Balance of Trade #Importance 1
+
+North Macedonia Trade Gap Widens in June — North Macedonia’s trade deficit widened to $363 million in June 2026 from $334 million in the same month a year earlier. Exports increased 19.2% year-on-year to $953.9 million, while imports rose 16.0% to $1,316.5 million. In the January–June period, exports climbed 14.9% to $5,085.9 million, supported by stronger sales of chemical and related products (28.8%), machinery and transport equipment (7.5%), and miscellaneous manufactured articles (3.2%). Exports grew to Germany (11.0%), Bulgaria (26.6%), and Serbia (23.2%). Meanwhile, imports advanced 14.7% to $7,131.7 million, driven by higher purchases of manufactured goods classified chiefly by material (23.1%), machinery and transport equipment (7.4%), and miscellaneous manufactured articles (15.4%). Import growth was strongest from Great Britain (65.4%), Greece (36.8%), and China (17.2%). Over the first six months of the year, the trade gap widened to $2,045.9 million from $1,788.2 million in the corresponding period of 2025.
+
+---
+
+### 2026-08-05 18:20:28  #其他
+
+【受“白海豚”和“鯨魚”共同影響中央氣象臺釋出颱風藍色預警】中央氣象臺8月5日18時釋出颱風藍色預警，今年第13號颱風“白海豚”（強颱風級）的中心今天（5日）下午5點鐘位於琉球群島那霸市偏東方向約920公里的西北太平洋上，就是北緯25.8度、東經136.9度，中心附近最大風力有14級（42米/秒），中心最低氣壓為955百帕，七級風圈半徑為260~360公里，十級風圈半徑為120~160公里，十二級風圈半徑為60~80公里。預計，“白海豚”將以每小時20~25公里的速度向偏西方向移動，強度變化不大或略有增強， 7日白天穿過琉球群島後移入東海，移速減慢，並逐漸向華東沿海靠近。(央視新聞)
+
+---
+
+### 2026-08-05 18:19:50  #其他
+
+市場訊息：Vast 計劃最早於明年在香港上市。
+
+---
+
+### 2026-08-05 18:19:46  #Trading Economics #Economy #Luxembourg #Inflation Rate #Importance 1
+
+Luxembourg July Inflation Holds at 2.2% — The annual inflation rate in Luxembourg rose by 2.2% in July 2026, matching the pace from the previous month. Price growth remained steady for food and non-alcoholic beverages (1.3%) and education (6.2%). Meanwhile, faster increases in the prices of alcoholic beverages and tobacco (2.2% vs. 1.5% in June), clothing and footwear (2.5% vs. 0.3%), health (2.2% vs. 2.1%), information and communication (0.9% vs. 0.7%), insurance and financial services (0.8% vs. 0.6%), and restaurants and hotels (3.5% vs. 3.4%) more than offset slower price growth for housing and utilities (2.2% vs. 2.6%), furnishings, household equipment, and routine household maintenance (0.3% vs. 0.4%), transportation (4.0% vs. 4.3%), recreation and culture (2.2% vs. 3.1%), and miscellaneous goods and services (0.5% vs. 1.2%). On a monthly basis, consumer prices fell 0.5% in July, following a 0.1% increase in the preceding period.
 
 ---
 
@@ -20228,203 +20432,5 @@ Qatar's foreign ministry spokesman said the priority now is to resume negotiatio
 ### 2026-08-04 18:25:06  #公司
 
 【衛生巾疑現蟲卵涉事公司曾被罰】據媒體報道，近日，有女子購買消毒級衛生巾後疑從中發現蟲卵，據悉，該品牌衛生巾由桂林潔伶工業有限公司生產，相關話題引發熱議。天眼查App顯示，桂林潔伶工業有限公司成立於1999年9月，法定代表人為陳百城。歷史資訊顯示，該公司存在多條被執行人、行政處罰資訊。
-
----
-
-### 2026-08-04 18:25:02  #公司
-
-【網宿科技：擬10.13萬美元轉讓香港申嘉100%股權】網宿科技公告，為履行前期Cloudsway股權轉讓協議及補充協議約定的交割後義務，公司全資子公司香港網宿擬將持有的香港申嘉100%股權以10.13萬美元轉讓給關聯方Cloudsway全資子公司HongKong Cloudsway。截至2026年6月30日，香港申嘉歸母淨資產為10.78萬美元，評估價值為10.13萬美元。本次交易完成後，公司不再持有香港申嘉股權，其將不再納入合併報表範圍。目前相關協議尚未簽署。
-
----
-
-### 2026-08-04 18:24:25  #公司
-
-【永貴電器：回購股份比例達1.0368% 成交金額5318.65萬元】永貴電器公告稱，公司於2026年7月21日透過回購股份方案，回購資金1-1.5億元，價格不超24.94元/股，期限12個月。截至8月3日，公司以集中競價交易方式回購A股股份4,032,200股，佔總股本1.0368%，最高成交價13.78元/股，最低12.56元/股，成交總金額53,186,456元（不含交易費）。本次回購符合既定方案，後續將按規定繼續實施並披露資訊。
-
----
-
-### 2026-08-04 18:24:22  #公司 #市場
-
-【凱旺科技：股票交易異常波動 不存在應披露未披露事項】凱旺科技公告稱，公司股票在2026年7月31日、8月3日、8月4日連續三個交易日收盤價格漲跌幅偏離值累計超30%，屬異常波動。經核查，公司前期披露資訊無更正補充，近期經營及環境無重大變化，公司、控股股東及實控人無應披露未披露重大事項，實控人在異常波動期間無買賣公司股票行為。公司提醒投資者注意交易風險，理性投資。
-
----
-
-### 2026-08-04 18:23:45  #公司
-
-【皖維高新：上交所終止定增股票稽核】皖維高新公告，公司於2026年7月29日召開董事會，審議透過終止2026年度向特定物件發行A股股票事項並撤回申請檔案。近日，公司收到上交所出具的《關於終止對安徽皖維高新材料股份有限公司向特定物件發行股票稽核的決定》，決定終止對公司向特定物件發行股票的稽核。
-
----
-
-### 2026-08-04 18:22:25  #公司
-
-【*ST億晶：涉兩起關聯買賣合同訴訟 涉案金額超6000萬元】*ST億晶公告，公司控股子公司常州億晶因2022年與中鐵七局集團電務工程有限公司簽訂的《光伏元件買賣合同》善後處理事宜，涉及兩起關聯訴訟。（2026）豫0105民初29935號案中，中鐵七局主張常州億晶退回多餘預付款2284.72萬元及違約金等；常州億晶作為原告在（2026）蘇0413民初7886號案中主張對方配合完成3824.16萬元增值稅發票的稅務紅衝，否則賠償應退稅金損失439.95萬元。兩案均未開庭審理。
-
----
-
-### 2026-08-04 18:22:07  #國際
-
-市場訊息：敘利亞同意在與美國的制裁談判中削減俄羅斯石油進口。
-
----
-
-### 2026-08-04 18:21:53  #其他
-
-【葉門胡塞武裝稱襲擊沙特一機場】葉門胡塞武裝4日稱，該組織襲擊了沙烏地阿拉伯位於葉門邊境附近的一座機場。（新華社）
-
----
-
-### 2026-08-04 18:21:29  #國際
-
-烏克蘭經濟部副部長巴什利克：  烏克蘭的糧食儲存能力可能在11月初耗盡。
-
----
-
-### 2026-08-04 18:20:55  #公司 #市場
-
-【亞馬遜美股盤前跌超2%】亞馬遜美股盤前跌超2%，現報278.32美元。
-
----
-
-### 2026-08-04 18:20:53  #其他
-
-市場訊息：SEYOND與GIGA.AI簽署智慧貨運與人工智慧戰略合作諒解備忘錄。
-
----
-
-### 2026-08-04 18:20:16  #公司
-
-【中孚實業：2026年上半年營收142.58億元 淨利潤同比增165.84%】中孚實業公告稱，2026年上半年，公司實現營業收入142.58億元，淨利潤18.81億元，同比上升165.84%。公司電解鋁業務多措降本，鋁精深加工業務提質增效，產銷增長。專案建設有序推進，科技創新成果顯著，申請專利70件，獲授權33件。公司還最佳化治理、構建回報機制、加強溝通、強化“關鍵少數”管理。2025年度向全體股東每10股派現1.75元（含稅），實際派現7.01億元。
-
----
-
-### 2026-08-04 18:19:59  #公司
-
-【中孚實業：子公司擬3320.57萬元收購再生鋁專案資產並新增投資】中孚實業公告，公司全資二級子公司鞏義滙豐擬收購鞏義新格年產20萬噸再生鋁水專案產能指標及年產10萬噸再生鋁水專案部分資產，含稅交易價格3320.57萬元。收購完成後，鞏義滙豐擬分別投資建設"專案資產升級改造專案"（總投資4,679.36萬元）和"新建年產10萬噸再生鋁水專案"（總投資12,760萬元）。
-
----
-
-### 2026-08-04 18:19:41  #國際
-
-【美司法部長提名人有望在參院“通關”】美國國會參議院司法委員會兩名共和黨籍成員3日宣佈，不再反對美國代理司法部長託德·布蘭奇轉正。這被美媒解讀為清除了布蘭奇提名獲批的一大障礙，意味著他的提名更加有望獲參議院確認。（新華社）
-
----
-
-### 2026-08-04 18:19:16  #公司
-
-【飛龍股份：當前液冷領域在手訂單屬於小批次階段】8月4日，飛龍股份在接待機構調研時表示，公司在嚴格遵照法律法規和交易所業務規則下，對民用領域業務產品訂單和客戶披露原則是：若單一客戶所簽訂協議或合同金額達到或超過上一年經審計的整個新能源產品業務營收的10%，則單獨公告披露。若達不到標準，則在定期報告、互動易和公司官網顯示。當前液冷領域在手訂單屬於小批次階段，暫未達到披露標準，因此未單獨公告。後續若有訂單規模達到資訊披露標準，公司將及時履行資訊披露義務。
-
----
-
-### 2026-08-04 18:18:40  #公司
-
-【新興裝備：修正2026年上半年業績預告 淨利潤預計上調】新興裝備公告稱，修正2026年半年度業績預告，原預計歸屬於上市公司股東的淨利潤630-900萬元，同比下降42.50%-59.75%；最新預計為1300-1800萬元，同比增長-16.94%-15.01%。基本每股收益由0.05-0.08元/股上調至0.11-0.15元/股。扣除非經常性損益後的淨利潤預計不變。業績修正因參股基金公允價值變動收益增加800-1000萬元。
-
----
-
-### 2026-08-04 18:18:34  #公司
-
-【矩子科技：獲銀行最高1.44億元股票回購專項貸款承諾】矩子科技公告稱，公司7月20日透過回購股份方案，擬用自有及自籌資金8000萬元 - 1.6億元，以不超29.9元/股的價格回購股份，用於維護公司價值及股東權益，實施期限3個月。現公司已獲中信銀行上海分行《貸款承諾函》，該行承諾提供最高1.44億元、期限不超2年的股票回購專項貸款，具體以貸款合同為準。
-
----
-
-### 2026-08-04 18:18:22  #MKT News #Important #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
-
-A Qatar foreign ministry spokesperson said parties are engaged in efforts on US-Iran talks and Qatar is seeking a diplomatic solution.
-
----
-
-### 2026-08-04 18:18:13  #國際
-
-卡達外交部發言人就美伊談判表態：我們可以確認，目前正與各方持續推進相關努力，我們正尋求透過外交途徑解決問題。
-
----
-
-### 2026-08-04 18:17:27  #國際
-
-【伊朗領袖顧問稱美軍決策水平大滑坡】伊朗最高領袖軍事顧問穆赫辛·雷扎伊當地時間8月3日晚在接受採訪時稱，伊朗武裝部隊全面備戰，誓死捍衛國家，戰至最後一滴血。他還感嘆稱，美國決策層的水平已“大幅滑坡”，再也見不到當年伊拉克、阿富汗戰爭時期那種層級的決策者了。此外，雷扎伊還指出，美國把國內問題和戰爭的蔓延都攬到身上，是在自掘墳墓。下一屆美國政府必將當下視為美國歷史上最黑暗的時刻之一。（央視新聞）
-
----
-
-### 2026-08-04 18:17:16  #公司
-
-【國新產投、中文發集團、中國印刷到訪北新建材開展合作交流】據北新建材訊息，近日，中國國新旗下國新產投私募基金管理（北京）有限公司（簡稱“國新產投”）、中國文化產業發展集團有限公司（簡稱“中文發集團”）、中國印刷有限公司（簡稱“中國印刷”）到訪北新建材，這是2026年6月中國建材集團與中國國新簽署戰略合作協議以來，兩大央企深化戰略合作的產業落地實踐。雙方圍繞產業園建設、產業投資、綠色供應鏈協同等進行了深度交流。
-
----
-
-### 2026-08-04 18:16:48  #宏觀
-
-【市場監管總局召開深入貫徹落實公平競爭審查制度專項行動推進會】7月28日，市場監管總局在北京召開深入貫徹落實公平競爭審查制度專項行動推進會，聽取有關地方工作進展情況，總結階段性工作成效，部署推動下一階段重點工作任務。總局黨組成員、副局長孟揚出席會議並講話。專項行動圍繞加快構建全國統一大市場，堅持問題導向，聚焦基層開展公平競爭審查存在的問題，針對性部署15項具體任務，指導各地結合實際紮實推進，取得階段性工作成效，為公平競爭審查落地見效提供了有力保障。
-
----
-
-### 2026-08-04 18:16:21  #其他
-
-【Spotify的Premium付費使用者數突破3億】Spotify當地時間8月4日公佈二季度營收47.8億歐元，同比增長14%；第二季度經營利潤6.55億歐元，同比增長61%；Premium付費使用者數同比增長9%至3億，月活使用者數同比增長12%至7.77億。
-
----
-
-### 2026-08-04 18:15:40  #公司
-
-【日月明：截至7月底回購股份20.88萬股 金額達518.39萬元】日月明公告稱，公司7月24日透過以集中競價方式回購公司股份的議案，回購資金不低於2880萬元且不超過5760萬元，價格不超36元/股，實施期限3個月。截至7月31日，已回購股份208,800股，佔總股本0.26%，最高成交價25元/股，最低24.55元/股，成交總金額518.39萬元（不含交易費用）。公司後續將繼續實施回購計劃並及時披露資訊。
-
----
-
-### 2026-08-04 18:15:09  #國際
-
-歐盟委員會：歐盟認為電力供應安全問題不大。
-
----
-
-### 2026-08-04 18:14:40  #其他
-
-胡塞武裝稱，對沙烏地阿拉伯西南部納季蘭機場（Najran）的一個“敏感目標”發動了無人機襲擊。
-
----
-
-### 2026-08-04 18:14:18  #國際
-
-歐盟委員會發言人：密切監測多瑙河水位低的情況。
-
----
-
-### 2026-08-04 18:14:17  #MKT News #Important
-
-Houthi forces said they launched a drone attack on a "sensitive target" at Najran airport in southwest Saudi Arabia.
-
----
-
-### 2026-08-04 18:13:59  #國際
-
-歐盟委員會：隨時準備在需要時召開電力協調小組會議。
-
----
-
-### 2026-08-04 18:13:58  #MKT News #Important #CSI300 #Impact bearish #Hang Seng Index #SSE Composite
-
-China's State Administration for Market Regulation (SAMR) convened a meeting to advance a special campaign to deepen implementation of the fair competition review system.
-
----
-
-### 2026-08-04 18:13:32  #MKT News #Important
-
-【Sources: U.S. has expended large share of long‑range precision missiles in war with Iran】Refinitiv reported three people familiar with the data said the U.S. Army has expended a large portion of its long‑range precision missile stockpile over five months of conflict with Iran. The munitions cited are the Army Tactical Missile System (ATACMS) and the Precision Strike Missile (PrSM); two sources said the U.S. has used "virtually all" of those weapons. Analysts say each missile costs more than $1m; the sources did not disclose remaining inventory levels.
-
----
-
-### 2026-08-04 18:13:30  #公司
-
-【隆基綠能：7月為子公司新增6.82億元擔保 累計擔保242.86億元】隆基綠能公告稱，2026年7月，公司為子公司日常經營業務開立銀行保函，新增擔保金額6.82億元。截至7月末，公司及子公司已提供的擔保金額累計為242.86億元，佔公司最近一期經審計歸母淨資產44.75%，其中公司及合併報表範圍內子公司之間的擔保金額為239.21億元。公司未對控股股東和實際控制人及其關聯人提供擔保，亦無逾期擔保。本次新增擔保事項在股東會和董事會預計授權範圍內，無需另行提交公司董事會和股東會批准。
-
----
-
-### 2026-08-04 18:12:57  #MKT News #CNH
-
-【China Ministry of Finance to issue 2026 book-entry discount Treasury (47th tranche), CNY 20bn】China's Ministry of Finance plans to issue the 2026 book-entry discount Treasury (47th tranche), a 28-day discount bond with a competitive auction of CNY 20bn face value and allowance for additional bids by Class A participants. Price will be set by competitive tender and the bond will be issued at a discount to par. Interest accrues from 6 Aug 2026; repaid at par on 3 Sep 2026 (holiday-adjusted). Auction window: 5 Aug 2026, 10:35–11:35.
-
----
-
-### 2026-08-04 18:12:52  #Trading Economics #Economy #United States #LMI Logistics Managers Index #Importance 2
-
-US Logistics Expansion Cools as Inventory Growth Slows — The US Logistics Managers' Index eased to 68.9 in July 2026, down from 71.1 in June, which marked the fastest pace of expansion since March 2022. Although growth moderated, July's reading remains higher than any monthly reading recorded between 2023 and 2025, indicating continued strength in the logistics sector. The slowdown was driven primarily by Inventory Levels, which fell 5.5 points to 55.0 after firms pulled inventory forward ahead of July tariff increases. The decline was most pronounced among Downstream retailers, where Inventory Levels dropped from 66.0 to 46.3, suggesting that inventories built ahead of the holiday season are now concentrated Upstream at the wholesale level. Meanwhile, Inventory Costs continued to rise, increasing 1.1 points to 77.0. At 22.0 points above Inventory Levels, the gap underscores persistent cost pressures from tariffs and ongoing geopolitical conflict.
 
 ---
