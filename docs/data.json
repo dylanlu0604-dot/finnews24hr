@@ -1,7 +1,168 @@
 {
-  "updated": "2026-08-07 21:30:21",
-  "count": 16104,
+  "updated": "2026-08-07 21:34:24",
+  "count": 16101,
   "items": [
+    {
+      "id": "5031264",
+      "time": "2026-08-07 21:33:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛彼迎股價在第二季度營收超預期後升至兩年多新高，最新上漲11.3%。"
+    },
+    {
+      "id": "5031263",
+      "time": "2026-08-07 21:33:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "JBS股價上漲2.5%，此前該公司向DANANTARA投資了25億美元。"
+    },
+    {
+      "id": "5031262",
+      "time": "2026-08-07 21:33:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報26611.921點；道指漲0.02%，現報53896.262點；標普500指數漲0.38%，現報7738.940點。"
+    },
+    {
+      "id": "mkt:019fdc6d-3ae5-7aab-8fbb-91dc457feb30",
+      "time": "2026-08-07 21:32:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NET.N",
+        "Impact bullish"
+      ],
+      "text": "Cloudflare (NET.N) shares rose 11.5% to a record high after the company raised its full-year revenue guidance."
+    },
+    {
+      "id": "mkt:019fdc6d-3571-7aab-8fbb-8c3ffd6fa189",
+      "time": "2026-08-07 21:32:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Beijing raises housing provident fund loan caps; couples’ first-home HPF borrowing can reach 3.4 mln yuan】Beijing’s Housing and Urban‑Rural Development Commission, Municipal Planning and Natural Resources Commission and Housing Provident Fund Management Center on the evening of the 7th issued a notice raising maximum housing provident fund (HPF) loan limits. If only one household member contributes to HPF, the maximum HPF loan for a first home is 1.2 mln yuan and for a second home 1.0 mln yuan. If both spouses contribute, the caps are 2.4 mln yuan for a first home and 2.0 mln yuan for a second home. Eligibility for additional uplifts: (1) households with hukou in the city’s six central districts buying a first home outside those districts: +200k yuan; (2) purchases that qualify under Beijing’s green building support policy: +400k yuan; (3) Beijing hukou families with two or more children buying housing: +400k yuan. Multiple conditions may stack: maximum additional uplift is +600k yuan for one contributor and +1.0 mln yuan for both contributors, implying a potential first‑home cap of up to 1.8 mln yuan (one contributor) or 3.4 mln yuan (both contributors). Actual loan amounts remain subject to household repayment ability."
+    },
+    {
+      "id": "5031261",
+      "time": "2026-08-07 21:32:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞思邁公佈第四季度業績後股價下跌7.7%。"
+    },
+    {
+      "id": "5031260",
+      "time": "2026-08-07 21:32:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "TRADE DESK股價跌27%，創2025年8月以來最大跌幅。"
+    },
+    {
+      "id": "5031259",
+      "time": "2026-08-07 21:32:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西7月IGP-DI通脹率同比上漲2.77%；預期為上漲2.65%。"
+    },
+    {
+      "id": "5031258",
+      "time": "2026-08-07 21:32:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西7月IGP-DI通脹率環比下降0.86%；預期為下降0.97%。"
+    },
+    {
+      "id": "5031257",
+      "time": "2026-08-07 21:31:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "赫茲股價開盤飆升23%，有望實現兩日60%的漲幅。"
+    },
+    {
+      "id": "mkt:019fdc6c-682e-7aab-8fbb-846e72225fec",
+      "time": "2026-08-07 21:31:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the open on Friday, Aug. 7, the Dow Jones Industrial Average rose 33.60 points, or 0.06%, to 53,918.70; the S&P 500 gained 21.41 points, or 0.28%, to 7,731.39; the Nasdaq Composite added 200.51 points, or 0.76%, to 26,548.86."
+    },
+    {
+      "id": "mkt:019fdc6c-522e-7aab-8fbb-7cacced46b76",
+      "time": "2026-08-07 21:31:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "【July nonfarm payrolls unexpectedly weak; Nasdaq opens up 0.74%】US stocks opened after weak July nonfarm payrolls: Dow +0.23%, S&P 500 +0.31%, Nasdaq +0.74%. Optical-communications names led gains: Applied Optoelectronics (AAOI.O) +12.46%, Lumentum (LITE.O) +4.0%, Corning (GLW.N) +3.7%. Solar sector broadly higher: FTC Solar (FTCI.O) +1.8%, First Solar (FSLR) +4.5%."
+    },
+    {
+      "id": "5031256",
+      "time": "2026-08-07 21:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "CLOUDFLARE股價開盤飆升12%，創歷史新高。"
+    },
+    {
+      "id": "5031255",
+      "time": "2026-08-07 21:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "ATLASSIAN股價飆升33%，創2015年12月以來最大單日漲幅。"
+    },
+    {
+      "id": "5031254",
+      "time": "2026-08-07 21:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "INSTACART股價開盤飆升11%，創2月以來最大漲幅。"
+    },
+    {
+      "id": "5031253",
+      "time": "2026-08-07 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.10%，標普500指數漲0.36%，納指漲0.77%。微芯科技漲10.19%，愛彼迎漲9.98%，Coherent Corp漲9.74%，紐曼礦業漲5.81%，雅保化工漲5.40%。“七姐妹”方面：特斯拉漲1.12%，英偉達漲1.05%，亞馬遜漲0.52%，微軟漲0.24%，蘋果漲0.19%，谷歌漲0.14%，Meta Platforms漲0.03%。"
+    },
+    {
+      "id": "5031252",
+      "time": "2026-08-07 21:30:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國土安全部擴大H-1B簽證費用範圍，以資助美國生物識別篩查。"
+    },
     {
       "id": "5031251",
       "time": "2026-08-07 21:29:35",
@@ -146751,210 +146912,6 @@
         "焦點"
       ],
       "text": "費城半導體指數開盤上漲 5.1%。"
-    },
-    {
-      "id": "5019547",
-      "time": "2026-07-31 21:34:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿爾及利亞北部客車事故致25人死亡】阿爾及爾訊息：阿爾及利亞民防部門7月31日通報說，一輛客車當天上午在該國北部布米爾達斯省發生事故，造成至少25人死亡、44人受傷。通報說，當天上午9時41分左右，這輛客車在首都阿爾及爾以東的24號國道上行駛時偏離道路，發生翻車並墜入路邊溝壑。民防部門已派出3輛救援車和11輛救護車前往現場，開展疏散和救治工作。據統計，超速和疲勞駕駛是阿爾及利亞發生交通事故的主要原因。（新華社）"
-    },
-    {
-      "id": "te:markets:571783",
-      "time": "2026-07-31 21:34:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "T-Mobile Us Stock Price Hits 4-week Low — T-Mobile Us shares decreased to 169.86 USD, the lowest since July 2026. Over the past 4 weeks, T-Mobile Us lost 1.69%, and in the last 12 months, it decreased 28.64%."
-    },
-    {
-      "id": "5019546",
-      "time": "2026-07-31 21:34:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜股價飆升14%，創下自2022年11月以來最大單日漲幅。"
-    },
-    {
-      "id": "5019545",
-      "time": "2026-07-31 21:33:43",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "蘋果跌9%，創自2025年4月以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019fb861-3a1b-7aab-8f36-dcdf6a668b3a",
-      "time": "2026-07-31 21:33:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "Apple (AAPL.O) fell 9%, its largest decline since April 2025."
-    },
-    {
-      "id": "5019544",
-      "time": "2026-07-31 21:33:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "波蘭國防部長訊息：波蘭 F-16 戰機在波羅的海上空攔截一架俄羅斯偵察機。"
-    },
-    {
-      "id": "mkt:019fb860-dc6f-7aab-8f36-d4bd462465ab",
-      "time": "2026-07-31 21:33:03",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US finalizes raising the maximum visa bond for certain travelers to $20,000."
-    },
-    {
-      "id": "5019543",
-      "time": "2026-07-31 21:32:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "英美黃金阿散蒂在美國上市的股票在第二季度業績公佈後下跌5.3%。"
-    },
-    {
-      "id": "5019542",
-      "time": "2026-07-31 21:32:26",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國股市漲幅擴大，納斯達克綜合指數上漲1.00%。"
-    },
-    {
-      "id": "5019541",
-      "time": "2026-07-31 21:32:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄羅斯軍隊打擊了第聶伯羅彼得羅夫斯克州的一處烏克蘭郵件分揀中心。"
-    },
-    {
-      "id": "5019540",
-      "time": "2026-07-31 21:32:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.00%，現報25373.484點；道指漲0.44%，現報52439.488點；標普500指數漲0.55%，現報7478.630點。"
-    },
-    {
-      "id": "5019539",
-      "time": "2026-07-31 21:31:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，金山雲漲8.48%，阿里巴巴漲2.56%，金生遊樂漲3.05%，陸金所控股漲3.14%，再鼎醫藥漲0.03%。"
-    },
-    {
-      "id": "te:markets:571782",
-      "time": "2026-07-31 21:31:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Apple Stock Price Hits 4-week Low — Apple shares decreased to 301.86 USD, the lowest since July 2026. Over the past 4 weeks, Apple gained 3.31%, and in the last 12 months, it increased 46.52%."
-    },
-    {
-      "id": "mkt:019fb85f-809f-7aab-8f36-cecc7e0232df",
-      "time": "2026-07-31 21:31:34",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "At the open on Friday, July 31, the Dow Jones Industrial Average rose 190.34 points (+0.36%) to 52,398.40; the S&P 500 rose 34.76 points (+0.47%) to 7,472.74; the Nasdaq Composite rose 217.54 points (+0.87%) to 25,339.72."
-    },
-    {
-      "id": "5019538",
-      "time": "2026-07-31 21:31:22",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "亞馬遜股價上漲11.9%，此前該公司錄得四年多以來最強勁的雲端計算業務增長。"
-    },
-    {
-      "id": "5019537",
-      "time": "2026-07-31 21:31:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "蘋果股價下跌8.2%，因本季度銷售額預測不及華爾街預期。"
-    },
-    {
-      "id": "5019536",
-      "time": "2026-07-31 21:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "Reddit 股價大跌 19%，創 2025 年 3 月以來最大盤中跌幅。"
-    },
-    {
-      "id": "5019535",
-      "time": "2026-07-31 21:30:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力積電董事長黃崇仁去世】晶圓代工企業力積電7月31日公告，董事長黃崇仁因心肺衰竭於家中離世，由副董事長謝再居代理董事長職務。力積電指出，公司產銷業務將依照既定規劃有序推進。"
-    },
-    {
-      "id": "5019534",
-      "time": "2026-07-31 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.39%，標普500指數漲0.47%，納指漲0.93%。Monolithic Power Systems漲13.44%，Coherent Corp漲11.52%，Lumentum Holdings Inc. Common Stock When Issued漲9.73%。“七姐妹”方面：亞馬遜漲11.70%，谷歌漲2.04%，Meta Platforms漲1.74%，英偉達漲1.25%，微軟漲0.97%，特斯拉漲0.67%，蘋果跌8.26%。"
-    },
-    {
-      "id": "mkt:019fb85e-a55f-7aab-8f36-c3d6a7a4c4d2",
-      "time": "2026-07-31 21:30:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Amazon",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish",
-        "AMZN.O",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【U.S. stocks open higher】U.S. stocks opened higher: Dow Jones Industrial Average +0.5%, S&P 500 +0.5%, Nasdaq +0.8% at the open. Apple (AAPL.O) fell 8% after Q4 revenue guidance disappointed. Amazon (AMZN.O) rose more than 11% as Q2 cloud business growth reached a four-year high."
     }
   ]
 }
