@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-07 13:42:43",
-  "count": 16116,
+  "updated": "2026-08-07 13:46:49",
+  "count": 16118,
   "items": [
+    {
+      "id": "te:economy:573628",
+      "time": "2026-08-07 13:45:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Estonia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Estonia Inflation Lowest in Over 5 Years — The annual inflation rate in Estonia edged down to 2.2% in July 2026 from 2.3% in the previous month. This marked the softest rise since April 2021, driven largely by continued declines in prices for food and non-alcoholic beverages (-1.6% vs -1.5% in June) and recreation, sports and culture (-2.6% vs -0.2%). Price growth also slowed for alcoholic beverages and tobacco (6.4% vs 8.9%), health (2.7% vs 3.2%), transport (5.4% vs 7.5%), information and communication (0.4% vs 0.8%), education (4.7% vs 5.2%), and miscellaneous goods and services (3.6% vs 4.8%). Meanwhile, housing costs continued to increase (8.3% vs 7.6%), while prices rebounded for household goods (0.1% vs -0.5%) and restaurants and accommodation services (1.3% vs -2.0%). Deflation also eased in clothing and footwear (-3.1% vs -6.2%) and insurance and financial services (-4.1% vs -7.2%). On a monthly basis, consumer prices rose 0.5% in July, rebounding from a 0.5% decline in the previous period."
+    },
+    {
+      "id": "5030113",
+      "time": "2026-08-07 13:45:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【市北高新、東方證券等成立私募投資基金】企查查APP顯示，近日，上海東證新靜界私募投資基金合夥企業（有限合夥）成立，出資額5200萬元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由市北高新(600604)、東方證券(600958)全資子公司上海東方證券資本投資有限公司等共同持股。"
+    },
+    {
+      "id": "5030112",
+      "time": "2026-08-07 13:45:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國交易所將推出ETF盤後交易業務】據報道，儘管業內對近期槓桿類產品波動存在擔憂，韓國交易所仍將於9月14日正式開啟交易所交易基金（ETF）盤後交易。韓國交易所意在與另類交易系統Nextrade以及全天候加密貨幣交易所展開競爭。資管機構警示，缺少實時基金淨值估算，可能會擴大ETF的價格偏離幅度；行業此前已呼籲韓國交易所推遲該業務上線。個股槓桿型ETF將不納入盤後交易的交易標的範圍。"
+    },
+    {
+      "id": "5030111",
+      "time": "2026-08-07 13:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國第二季度失業率升至2020年底以來最高水平】法國失業率持續攀升，觸及近六年來最高水平。法國國家統計機構Insee公佈的資料顯示，第二季度失業率為8.3%，高於前一季度的8.1%。這一數字也高於經濟學家預估中值8.2%。"
+    },
+    {
+      "id": "mkt:019fdabe-72f0-7aab-8fb0-75e15ae1ba65",
+      "time": "2026-08-07 13:42:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver rose $1 intraday to $62.53/oz, up 1.64%."
+    },
     {
       "id": "5030110",
       "time": "2026-08-07 13:41:23",
@@ -147203,30 +147248,6 @@
         "公司"
       ],
       "text": "法國電力公司（EDF）預計，2026年和2027年法國核電發電量將達到350太瓦時至370太瓦時。"
-    },
-    {
-      "id": "5018386",
-      "time": "2026-07-31 13:46:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤六尺科技：華為相關業務團隊到訪公司 深化推進國產算力合作】記者從潤六尺科技獲悉，近日，華為技術有限公司相關業務團隊到訪潤六尺科技，雙方就國產算力基礎設施的行業趨勢、應用場景及合作模式進行了深入交流與探討，標誌著雙方在算力服務領域的合作邁出了實質性步伐。當前，深圳等多個城市的算力基礎設施專案已陸續啟動，全國各地的資料局也在密集推動相關規劃，國產算力的市場視窗正在全面開啟。面對這一歷史性機遇，雙方都認為，產業鏈各方應當發揮各自優勢，形成合力。下一步，雙方將繼續深化溝通，圍繞具體專案探索更加高效、務實的合作路徑，共同推動國產算力從技術優勢轉化為產業價值。"
-    },
-    {
-      "id": "5018385",
-      "time": "2026-07-31 13:44:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將法拉利目標價從380歐元上調至400歐元。"
-    },
-    {
-      "id": "5018384",
-      "time": "2026-07-31 13:43:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國銀河證券：Kimi K3釋出推動AI商業化提速 開源生態持續推動AI應用生態發展】中國銀河證券釋出研報稱，模型平權有望延續，開源生態推動應用端發展。在人工智慧發展程序中，開源生態的發展有效推動了模型平權，推動了應用端的快速發展：開源推理模型的顯著成本優勢，大幅降低企業技術接入門檻，為應用端釋放創新活力提供了土壤，進而推動AI應用生態進入良性發展軌道。該行認為，從國內網際網路大廠的近期佈局來看，模型效能趨同的趨勢或將延續，開源生態將持續推動AI應用生態發展。"
     }
   ]
 }
