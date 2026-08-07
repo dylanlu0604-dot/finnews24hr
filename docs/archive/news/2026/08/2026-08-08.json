@@ -1,7 +1,97 @@
 {
   "date": "2026-08-08",
-  "count": 241,
+  "count": 250,
   "items": [
+    {
+      "id": "5031550",
+      "time": "2026-08-08 03:30:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示，截至8月4日當週，紐約商品交易所（COMEX）黃金投機者將淨多頭頭寸增加12,070手，至132,398手。"
+    },
+    {
+      "id": "5031549",
+      "time": "2026-08-08 03:29:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：貝萊德 TCP 資產出售事件不會對其評級造成影響。"
+    },
+    {
+      "id": "5031548",
+      "time": "2026-08-08 03:29:03",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通上調科技債發行預期 今年發債規模將超過5000億美元】摩根大通預計，今年科技相關企業債券發行規模將超過5000億美元。該行將2026年科技、媒體和電信行業債務發行規模預期從此前的4500億美元上調至5400億美元，理由是大型科技企業增加支出正在引領人工智慧投資週期。摩根大通策略師埃麗卡·斯皮爾領銜的團隊週五在報告認為，以晶片為支援的融資將成為支援AI基礎設施建設的“下一個主要前沿領域”，到本十年末，其規模可能“擴大至數萬億美元”。摩根大通已識別出七個除目前已完成融資的六個專案之外的投資級資料中心融資機會，其中四個預計將來自甲骨文和OpenAI。該行預計，Meta Platforms將在公佈第三季度財報後重返債券市場，而微軟則被視為“最大的不確定因素”，可能自2017年以來首次向債券投資者融資。"
+    },
+    {
+      "id": "mkt:019fddb2-b403-7aab-8fc1-41d5121b029e",
+      "time": "2026-08-08 03:28:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spanish government said passport and nationality checks on passengers from Italy will begin at midnight on Saturday and run through Sept. 7."
+    },
+    {
+      "id": "5031547",
+      "time": "2026-08-08 03:28:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙政府表示，將從週六午夜起對義大利籍旅客展開護照與國籍核查，該措施將持續至9月7日。"
+    },
+    {
+      "id": "5031546",
+      "time": "2026-08-08 03:28:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國陸軍向私營企業開放測試靶場，助力破解彈藥產能瓶頸】美國陸軍正擴大其測試靶場與試驗場的對外開放許可權，旨在將新型彈藥、無人機及其他各類武器更快投送至戰場。陸軍部長丹・德里斯科爾於週五公佈該舉措。過去五個月，美軍在對伊朗的軍事行動中消耗了庫存的數千枚先進導彈與攔截彈。政府官員透露，特朗普總統已下令針對五角大樓彈藥庫存資訊遭洩露一事展開調查，這也是他針對伊朗戰爭相關負面爆料加大應對力度的舉措。德里斯科爾在週五的記者電話會上表示：“企業提出申請後 30 天內，具備條件的企業就可以獲准使用我方國內靶場，或是海外的境外靶場。”軍用測試靶場能夠模擬武器實戰環境下會遭遇的各類條件，例如電子干擾。陸軍運營七座大型靶場，國民警衛隊還管轄著大量其他靶場。近年來，隨著軍方推進無人機、鐳射武器、高速高超音速導彈等新一代武器專案，靶場的需求出現激增。週五釋出的公告開放了更多靶場資源，但受需求壓力與行政審批流程限制，企業若想使用新墨西哥州的白沙導彈靶場，仍至少需要等待 12‑18 個月。該靶場是陸軍核心試驗基地，1945 年人類首枚原子彈便是在此引爆。"
+    },
+    {
+      "id": "mkt:019fddb2-63c9-7aab-8fc1-3a1d6276b559",
+      "time": "2026-08-08 03:28:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "MSFT.O",
+        "Impact bullish",
+        "ORCL.O",
+        "META.O"
+      ],
+      "text": "【JP Morgan raises tech debt issuance forecast; sees >$500bn this year】JP Morgan now expects tech-related corporate bond issuance to exceed $500bn this year and has raised its 2026 TMT debt forecast to $540bn from $450bn, citing AI-led capex by large tech firms. The bank says chip-backed financing will be the next major frontier for AI infrastructure and could grow to several trillion dollars by the end of the decade. JP Morgan has identified seven additional investment-grade data-center financing opportunities beyond six already completed deals; four are expected to involve ORACLE and OpenAI. The bank expects Meta Platforms to return to the bond market after its Q3 results, while Microsoft is the biggest wildcard and could tap bond investors for the first time since 2017."
+    },
+    {
+      "id": "mkt:019fddb1-0ef5-7aab-8fc1-359a82fe9207",
+      "time": "2026-08-08 03:26:36",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spain will impose border controls on flights and ships from Italy over an immigration dispute."
+    },
+    {
+      "id": "5031545",
+      "time": "2026-08-08 03:26:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "在移民爭端持續的背景下，西班牙政府宣佈將對來自義大利的航班和船舶實施邊境管控。"
+    },
     {
       "id": "5031544",
       "time": "2026-08-08 03:25:46",
