@@ -1,7 +1,99 @@
 {
-  "updated": "2026-08-07 09:19:56",
-  "count": 16197,
+  "updated": "2026-08-07 09:23:51",
+  "count": 16195,
   "items": [
+    {
+      "id": "5029799",
+      "time": "2026-08-07 09:22:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠1,330.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fd9d0-0c2c-7aab-8fab-b466b891d0b7",
+      "time": "2026-08-07 09:21:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC conducted a CNY 1 bln 7-day reverse repo today; bid and allotment were CNY 1 bln and the rate was 1.40%, unchanged."
+    },
+    {
+      "id": "5029798",
+      "time": "2026-08-07 09:21:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "mkt:019fd9cf-8553-7aab-8fab-adcd0bad39f5",
+      "time": "2026-08-07 09:21:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Tech Index",
+        "Impact bullish",
+        "H-share index",
+        "Red Chip index"
+      ],
+      "text": "Hong Kong's HSI opened down 3.63 pts (-0.01%) at 25,526.65; Hang Seng Tech index opened up 12.66 pts (+0.26%) at 4,833.44; H-share index opened up 9.30 pts (+0.11%) at 8,508.03; Red Chip index opened up 5.53 pts (+0.13%) at 4,127.85."
+    },
+    {
+      "id": "5029797",
+      "time": "2026-08-07 09:21:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅擴大至1%，SK海力士跌超4%。"
+    },
+    {
+      "id": "5029796",
+      "time": "2026-08-07 09:21:16",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.01％，國企指數漲0.11％，科指開漲0.26%。"
+    },
+    {
+      "id": "5029795",
+      "time": "2026-08-07 09:21:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "拿森智慧科技港股上市首日開盤報16.90港元, IPO價10.42港元。"
+    },
+    {
+      "id": "mkt:019fd9cf-56e5-7aab-8fab-a2d5d0bb071f",
+      "time": "2026-08-07 09:21:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "02261.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong open: Hang Seng Index opened down 0.01%; Hang Seng TECH opened up 0.26%. Nasen Technology (02261.HK) rose 62% at the open on its first trading day."
+    },
+    {
+      "id": "te:markets:573519",
+      "time": "2026-08-07 09:19:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Shares Retreat After Record Highs, Weekly Gain Intact — Australian stocks fell 38 points, or 0.4%, to 9,234 on Friday morning trading, snapping gains in the prior five sessions as traders booked profits after markets recently hit record highs. U.S. equity futures also weakened after Wall Street’s overnight losses, weighed by geopolitical tensions that lifted oil prices and revived inflation worries, fueling bets of further Fed hikes. Caution emerged ahead of July trade data in top trading partner China later today. Locally, the Reserve Bank will hold a policy meeting next week against a backdrop of slowing activity and sticky cost pressures despite three hikes this year. Commercial services, healthcare, and industrials weighed, partly offset by gains in energy minerals and utilities. Heavyweights BHP (-0.4%) and Rio Tinto (-0.7%) eased after reports that they were called to a critical-minerals meeting with President Trump. Still, markets remain up 2.9% so far this week, lifted by persistent buying and a rebound in Australia's June exports."
+    },
     {
       "id": "mkt:019fd9cd-1c3f-7aab-8fab-9d56b3446331",
       "time": "2026-08-07 09:18:45",
@@ -148013,118 +148105,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：07月31日08時58分在秘魯（南緯8.25度，西經74.15度）發生5.6級地震，震源深度150千米。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607313827633095",
-      "time": "2026-07-31 09:23:01",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展1340億元人民幣7天期逆回購操作，利率1.40%。同時，開展了6000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5018019",
-      "time": "2026-07-31 09:22:47",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放450.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019fb5c4-41ca-7aab-8f22-168174e46ff3",
-      "time": "2026-07-31 09:22:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "01347.HK",
-        "Impact bullish",
-        "00100.HK",
-        "02513.HK"
-      ],
-      "text": "Hong Kong shares opened: Hang Seng Index down 0.08%, Hang Seng TECH up 0.3%. 01347.HK, 00100.HK and 02513.HK climbed more than 14%; Lenovo Group (00992.HK) and SMIC (00981.HK) rose over 8%."
-    },
-    {
-      "id": "5018018",
-      "time": "2026-07-31 09:22:41",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指低開跌0.08％，國企指數跌0.24％，恒生科技指數漲0.3%。個股方面，中際旭創漲15%，長飛光纖光纜漲15%。"
-    },
-    {
-      "id": "mkt:019fb5c4-0354-7aab-8f22-0f7acddfa6ef",
-      "time": "2026-07-31 09:22:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "PBOC conducted 134 bln yuan 7-day reverse repo (bids 134 bln; allotment 134 bln) at 1.40% and executed 600 bln yuan in overnight reverse repos."
-    },
-    {
-      "id": "5018017",
-      "time": "2026-07-31 09:22:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行進行 1,340 億元 7 天期逆回購操作 操作利率 1.4%。"
-    },
-    {
-      "id": "5018016",
-      "time": "2026-07-31 09:22:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《工業綠色低碳發展“十五五”規劃》釋出】從工業和資訊化部瞭解到，今天（7月31日），《工業綠色低碳發展“十五五”規劃》（以下簡稱《規劃》）正式釋出，從強調工業自身綠色低碳發展，到更加註重工業對全社會綠色轉型的支撐作用，統籌推進產業綠色化和綠色產業化。《規劃》明確，深入實施工業領域碳達峰行動，提出推動產業結構和用能結構協同轉型、加快電氣化改造和綠色能源應用、加力推進工業重點行業節能降碳等細分任務，明確了地方碳考核、行業碳管控、企業碳管理、專案碳評價、產品碳足跡等具體任務。《規劃》要求：提升產業綠色價值創造能力，推進傳統產業綠色轉型、鞏固提升綠色優勢產業、培育壯大新興產業綠色動能；提升綠色裝備產品供給能力，強化綠色技術、裝備、工藝、產品的有效供給；提升綠色低碳科技創新能力，推動綠色低碳關鍵技術研發創新，促進綠色低碳科技成果轉化應用；提升智慧化綠色化融合發展能力，推動人工智慧賦能綠色製造，加快數智技術驅動生產組織方式重構。此外，《規劃》提出，健全工業資源迴圈利用體系，重點解決好複雜難用固廢、新型固廢綜合利用等問題；健全綠色製造和服務體系，推動綠色工廠提質擴面，綠色工業園區提檔升級，綠色供應鏈協同提效。"
-    },
-    {
-      "id": "5018013",
-      "time": "2026-07-31 09:21:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯烏卡亞利大區發生5.7級地震】據秘魯地球物理研究所報告，當地時間7月30日19時58分，秘魯烏卡亞利大區發生5.7級地震。震中位於烏卡亞利大區科羅內爾波蒂略省首府普卡爾帕東北約42公里處。首都利馬有震感。截至目前，當地政府尚未報告此次地震造成人員傷亡或財產損失。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb5c2-73f4-7aab-8f22-0447a8432078",
-      "time": "2026-07-31 09:20:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hong Kong's HSI opened Friday, July 31 down 21.16 points (-0.08%) at 25,837.72; Hang Seng Tech Index opened up 14.24 points (+0.30%) at 4,818.01; Hang Seng China Enterprises Index (HSCEI) opened down 21.01 points (-0.24%) at 8,623.70; Hang Seng Red Chip Index opened down 5.51 points (-0.13%) at 4,244.91."
-    },
-    {
-      "id": "mkt:019fb5c2-6e22-7aab-8f21-fbd17240bca4",
-      "time": "2026-07-31 09:20:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan declines to confirm yen intervention, says U.S. offered assistance】After a sharp yen rally, Japanese authorities declined to confirm whether they intervened in overnight FX trading but signalled overseas assistance, including from the United States. Finance Minister Satsuki Katayama avoided confirming intervention, saying authorities will \"remain highly vigilant and respond appropriately as the situation requires.\" Jun Mimura, Japan’s top currency official, said Japan received help from the U.S. that was \"far more than moral support\" and that he maintains continuous contact with U.S. authorities via personal channels; he declined to give further detail."
-    },
-    {
-      "id": "mkt:019fb5c1-cb4f-7aab-8f21-f44fd1df0296",
-      "time": "2026-07-31 09:20:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's July official manufacturing PMI due in 10 minutes."
     }
   ]
 }
