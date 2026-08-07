@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-08 00:27:54",
-  "count": 15990,
+  "updated": "2026-08-08 00:36:11",
+  "count": 15986,
   "items": [
+    {
+      "id": "5031435",
+      "time": "2026-08-08 00:33:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Blossomhill Therapeutics Inc.（BLSM）美國IPO首日開盤報15.75美元，此前給出的IPO發行價為每股16美元。"
+    },
+    {
+      "id": "5031434",
+      "time": "2026-08-08 00:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 以網路攻擊能力為由放緩 Astra 模型的釋出。"
+    },
+    {
+      "id": "5031433",
+      "time": "2026-08-08 00:29:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克武裝部隊發言人表示，沙特尚未提供任何證據，用以佐證其關於伊拉克領土遭襲擊的相關說法。"
+    },
+    {
+      "id": "5031432",
+      "time": "2026-08-08 00:29:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數和標普500指數漲幅收窄。"
+    },
+    {
+      "id": "mkt:019fdd0d-d8d9-7aab-8fbe-259b6b97de9d",
+      "time": "2026-08-08 00:28:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Bessent: Strait of Hormuz will lose importance】U.S. Treasury Secretary Bessent said the Strait of Hormuz will never return to its prior status because Iran has used it as a chokepoint. He expects the strait to gradually lose importance over the next two years and become a routine waterway, with more than 50%—possibly up to 70%—of energy now transported through it shifting to pipelines."
+    },
     {
       "id": "5031431",
       "time": "2026-08-08 00:26:22",
@@ -145723,87 +145769,6 @@
         "DXY"
       ],
       "text": "【Trump says Iran deal possible but distrust rising; warns of 'very severe' strikes in coming weeks】US President Trump told a Cabinet meeting a deal with Iran remains possible but said he is increasingly distrustful of Iranian leaders, accusing them of lying and citing five missiles fired at Jordan during negotiations. He described Iran’s conventional forces as largely crippled — “no navy, no air force, no air defenses,” though not wholly without capability — and reiterated Iran must not obtain nuclear weapons. Asked about the next four weeks, Trump warned Washington would carry out “very severe” strikes and predicted mounting pressure would force Iranian concessions. He said advisers including Kushner, Vance and Rubio were involved in talks and criticized negotiators for prolonging discussions."
-    },
-    {
-      "id": "5019773",
-      "time": "2026-08-01 00:35:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：恩智浦半導體正洽談收購安霸，後者是一家專攻人工智慧晶片的晶片設計企業。"
-    },
-    {
-      "id": "5019772",
-      "time": "2026-08-01 00:32:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府委內瑞拉事務非官方顧問Mauricio Claver-Carone 卸任。"
-    },
-    {
-      "id": "te:markets:571839",
-      "time": "2026-08-01 00:31:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Lumber Hits 4-week Low — Lumber decreased to 618.00 USD/1000 board feet, the lowest since June 2026. Over the past 4 weeks, Lumber lost 0.15%, and in the last 12 months, it decreased 11.06%."
-    },
-    {
-      "id": "mkt:019fb903-4faf-7aab-8f3b-6d0248003a71",
-      "time": "2026-08-01 00:30:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran's negotiating style annoyed him, saying matters that should have taken 10 minutes instead took seven hours."
-    },
-    {
-      "id": "te:markets:571838",
-      "time": "2026-08-01 00:29:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Close Mixed — European stocks erased early gains to close mixed on Friday, tracking the swings in North American markets amid as an uncertain rate outlook offset mostly positive earnings events. The Euro STOXX 50 rose 0.2% to 6,360, easing from a record high earlier in the session, and the STOXX Europe 600 fell 0.1% to 649. The inflation rate in the Eurozone was broadly in line with expectations to maintain bets that the ECB will deliver another rate hike this year. Saint Gobain surged 9% after posting an acceleration in second-quarter sales growth, and banks were supported by Credit Agricole posting stronger profits. Meanwhile, Enel lost 0.5% after releasing its results. BP, Novo Nordisk, Siemens Energy, Deutsche Telekom, and Allianz are due to publish results next week."
-    },
-    {
-      "id": "mkt:019fb902-35f8-7aab-8f3b-67f0ef3fccba",
-      "time": "2026-08-01 00:29:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said a major corruption-related incident is unfolding in Minnesota with far-reaching implications."
-    },
-    {
-      "id": "5019770",
-      "time": "2026-08-01 00:28:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普結束內閣會議發言。"
-    },
-    {
-      "id": "mkt:019fb901-2e5c-7aab-8f3b-5a29450218a6",
-      "time": "2026-08-01 00:28:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he told Ukrainian President Volodymyr Zelensky he must end the war."
-    },
-    {
-      "id": "5019769",
-      "time": "2026-08-01 00:28:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "因國際足聯相關計劃，因凡蒂諾一名高階顧問宣佈辭職。"
     }
   ]
 }

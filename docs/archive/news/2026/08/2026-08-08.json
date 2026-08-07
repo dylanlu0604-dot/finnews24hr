@@ -1,7 +1,53 @@
 {
   "date": "2026-08-08",
-  "count": 25,
+  "count": 30,
   "items": [
+    {
+      "id": "5031435",
+      "time": "2026-08-08 00:33:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "Blossomhill Therapeutics Inc.（BLSM）美國IPO首日開盤報15.75美元，此前給出的IPO發行價為每股16美元。"
+    },
+    {
+      "id": "5031434",
+      "time": "2026-08-08 00:32:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 以網路攻擊能力為由放緩 Astra 模型的釋出。"
+    },
+    {
+      "id": "5031433",
+      "time": "2026-08-08 00:29:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克武裝部隊發言人表示，沙特尚未提供任何證據，用以佐證其關於伊拉克領土遭襲擊的相關說法。"
+    },
+    {
+      "id": "5031432",
+      "time": "2026-08-08 00:29:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數和標普500指數漲幅收窄。"
+    },
+    {
+      "id": "mkt:019fdd0d-d8d9-7aab-8fbe-259b6b97de9d",
+      "time": "2026-08-08 00:28:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Bessent: Strait of Hormuz will lose importance】U.S. Treasury Secretary Bessent said the Strait of Hormuz will never return to its prior status because Iran has used it as a chokepoint. He expects the strait to gradually lose importance over the next two years and become a routine waterway, with more than 50%—possibly up to 70%—of energy now transported through it shifting to pipelines."
+    },
     {
       "id": "5031431",
       "time": "2026-08-08 00:26:22",
