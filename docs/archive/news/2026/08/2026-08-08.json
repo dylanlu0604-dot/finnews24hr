@@ -1,7 +1,19 @@
 {
   "date": "2026-08-08",
-  "count": 389,
+  "count": 390,
   "items": [
+    {
+      "id": "te:markets:573892",
+      "time": "2026-08-08 06:06:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Take Two Interactive Software earnings in line with market expectations at 0.33 USD — Take Two Interactive Software (TTWO) released earnings per share at 0.33 USD, in line with market expectations."
+    },
     {
       "id": "5031668",
       "time": "2026-08-08 06:00:09",
