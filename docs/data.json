@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-08 06:26:58",
-  "count": 15983,
+  "updated": "2026-08-08 06:30:48",
+  "count": 15982,
   "items": [
+    {
+      "id": "te:markets:573894",
+      "time": "2026-08-08 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Falls by 2.58% — Top commodity losers are Natural Gas EU (-2.58%), Natural Gas UK (-0.70%), Crude Oil WTI (-0.27%) and Brent Crude Oil (-0.27%). Gains are led by Ethanol (1.42%), Methanol (1.26%) and Natural gas (1.17%)."
+    },
     {
       "id": "5031672",
       "time": "2026-08-08 06:22:40",
@@ -145667,25 +145678,6 @@
         "公司"
       ],
       "text": "【因擔憂虛假影象，谷歌撤回地球AI工具】谷歌母公司Alphabet Inc.宣佈，將撤回其在Google Earth（谷歌地球）中推出的全新AI影象生成功能。原因是部分使用者利用該工具生成修改過的衛星影象，這些影象似乎違反了公司的相關政策。該工具允許使用者透過文字提示生成逼真的空中場景，一些觀察人士對此表示擔憂，認為這些虛假影象可能會被誤認為是真實的。谷歌正在撤回該功能以實施更嚴格的安全防護措施，且所有AI生成的影象均未出現在Google Earth的主平臺中。"
-    },
-    {
-      "id": "te:markets:571866",
-      "time": "2026-08-01 06:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.87% — Top commodity gainers are Brent Crude Oil (3.87%), Crude Oil WTI (3.84%) and Germany Natural Gas THE (2.32%). Biggest losers are Propane (-2.01%) and Methanol (-1.94%)."
-    },
-    {
-      "id": "5020034",
-      "time": "2026-08-01 06:28:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本縣地震致八代港物流功能全面停擺】受7月28日地震影響，日本熊本縣八代市多處房屋受損。該市八代港港口物流功能全面停擺。根據最新的統計，目前熊本縣內有超過1500處房屋受損。徹底坍塌的房屋超過170處，這個數字可能還會上升。港區已經確認出現土地液化、地面塌陷等災害。目前，當地的八代港運協會表示，八代港停運不僅對當地半導體產業造成影響，甚至會影響到整個九州製造業的物流運輸。日本國土交通省釋出的最新訊息稱，目前仍需對港口設施開展全面安全檢查，港口何時能夠恢復運營，還沒有明確時間表。我們在前方也會持續關注最新的情況。（央視）"
     }
   ]
 }
