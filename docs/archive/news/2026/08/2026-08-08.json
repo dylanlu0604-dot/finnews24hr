@@ -1,7 +1,79 @@
 {
   "date": "2026-08-08",
-  "count": 4,
+  "count": 11,
   "items": [
+    {
+      "id": "5031425",
+      "time": "2026-08-08 00:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭總統澤連斯基抵達塞爾維亞，開啟首次訪問。"
+    },
+    {
+      "id": "te:markets:573864",
+      "time": "2026-08-08 00:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.33% Higher — The CAC 40 Index rose 29 points or 0.33 percent on Friday to close at 8728 points. Leading the gains are STMicroelectronics (2.92%), Dassault Systemes (2.39%) and Pernod Ricard (1.91%). Top losers were ArcelorMittal (-1.35%), Bouygues (-1.12%) and Vinci (-0.99%)."
+    },
+    {
+      "id": "mkt:019fdcfc-a10a-7aab-8fbd-fa3bc34a04f4",
+      "time": "2026-08-08 00:09:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Serbian broadcaster N1 reported Ukrainian President Zelenskiy has arrived in Serbia on his first visit to the country."
+    },
+    {
+      "id": "te:markets:573862",
+      "time": "2026-08-08 00:09:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Holds Near Record Highs — The FTSE MIB closed little changed at 53,717 on Friday, remaining at record highs over the week, as financial shares weighed on the index amid corporate earnings and banking consolidation developments. Intesa Sanpaolo rose 0.4%, while BMPS added 0.2% after lifting its 2026 profit outlook following better-than-expected quarterly results and saying it was evaluating options to counter a takeover bid from Intesa. Unipol slipped 0.8% as the firm aims to hold more than a 30% stake in a future banking group combining BPER Banca (-1.0%) and assets carved out of BMPS. Banco BPM fell 1.0%, while UniCredit lost 0.4% amid delays in merger talks with Commerzbank. Elsewhere, STMicroelectronics (3.1%) and Prysmian (1.2%) led gains on optimism over AI investments. DiaSorin and Recordati also advanced over 1%. Utilities benefited from lower European gas prices. On the downside, Stellantis fell 1.7% after Bernstein downgraded the stock. Brunello Cucinelli, Fincantieri and Nexi each lost more than 2%."
+    },
+    {
+      "id": "te:markets:573861",
+      "time": "2026-08-08 00:08:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Closes at Record High — The DAX 40 extended early gains to close about 0.7% firmer at 26,355 on Friday, setting a fresh record high and booking a 2.8% weekly gain. Market sentiment remained supported by an upbeat earnings season, while investors awaited developments in US-Iran negotiations to reopen the Strait of Hormuz. Germany's stronger-than-expected industrial production and export data further reinforced the positive market tone. Technology shares rallied, with strength across software and semiconductor stocks. SAP climbed 4.1% and Infineon Technologies advanced 2.9%. Scout24, Siemens, BMW and Deutsche Borse also performed well, rising between 1.7% and 3.6%. On the flip side, Daimler Truck (-2.8%) led losses after reporting an 18% drop in Q2 profit, despite raising full-year adjusted EBIT guidance. Munchener Ruck fell 1.4% even after a suprise 6% increase in net profit. Allianz fell 0.6%, as non-life insurance growth disappointed despite record operating profit."
+    },
+    {
+      "id": "mkt:019fdcfb-8b2c-7aab-8fbd-f01726a6e510",
+      "time": "2026-08-08 00:08:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Punchbowl reports Senate Armed Services Committee chair Roger Wicker will meet later today with PENTAGON policy chief Elbridge Colby to discuss the PENTAGON’s European force-posture assessment and \"other matters.\" The PENTAGON formally launched the assessment at the end of July."
+    },
+    {
+      "id": "te:markets:573860",
+      "time": "2026-08-08 00:07:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.39% Higher — The FTSE 100 Index gained 42 points or 0.39 percent on Friday to close at 10910 points. Gains were led by Fresnillo (5.33%), Endeavour (4.06%) and Diageo (3.23%). Biggest losers were Burberry (-1.30%), Glencore (-1.14%) and Shell (-1.13%)."
+    },
     {
       "id": "mkt:019fdcf7-2fb7-7aab-8fbd-efb2bd846d80",
       "time": "2026-08-08 00:03:34",
