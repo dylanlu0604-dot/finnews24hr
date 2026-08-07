@@ -1,7 +1,155 @@
 {
   "date": "2026-08-07",
-  "count": 1219,
+  "count": 1236,
   "items": [
+    {
+      "id": "te:economy:573695",
+      "time": "2026-08-07 15:21:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "France Current Account Deficit Largest in 4 Months — France's current account deficit widened to a seasonally adjusted €1.4 billion in June 2026 from an upwardly revised €1.2 billion in the previous month. It marked the largest shortfall since February, driven by a weaker services balance, with the surplus narrowing to €5.2 billion from €6.3 billion, while the primary income surplus edged down to €3.6 billion from €3.7 billion. Partly offsetting the decline, the goods trade deficit narrowed to €5.3 billion from €6.3 billion. Within goods trade, the deficit excluding energy eased to €1.5 billion from €1.7 billion, while the energy shortfall shrank to €3.8 billion from €4.6 billion. The secondary income deficit remained unchanged at €4.9 billion. For the first half of 2026, France recorded a cumulative current account deficit of €6.5 billion."
+    },
+    {
+      "id": "5030322",
+      "time": "2026-08-07 15:21:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士：季度股息總額為2733.2億韓元。"
+    },
+    {
+      "id": "5030321",
+      "time": "2026-08-07 15:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：龍仁二期晶圓廠投資將在 2031 年前落地。"
+    },
+    {
+      "id": "5030320",
+      "time": "2026-08-07 15:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "SK海力士：計劃投資35.2萬億韓元，在韓國龍仁建造第二階段晶片工廠。投資將在2031年前完成。"
+    },
+    {
+      "id": "mkt:019fdb18-e740-7aab-8fb3-0b806509f955",
+      "time": "2026-08-07 15:21:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix plans to invest 35.2 trillion won in a second-phase chip fab in Yongin, South Korea."
+    },
+    {
+      "id": "5030319",
+      "time": "2026-08-07 15:20:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方電熱：公司智慧尾門廚房產品目前主要應用於享界G9】東方電熱8月7日在互動平臺表示，公司自主研發的智慧尾門廚房產品剛剛上市，目前主要應用於享界G9，其他客戶正在開發中。上述業務有望助力公司將單車價值量提升至千元級別，但當前產生的營業收入很少，對公司沒有重大影響。"
+    },
+    {
+      "id": "mkt:019fdb18-6a9f-7aab-8fb3-0260685969ce",
+      "time": "2026-08-07 15:20:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "SK Hynix says the investment will be completed by 2031."
+    },
+    {
+      "id": "mkt:019fdb18-47fa-7aab-8fb2-f85ac101e2cc",
+      "time": "2026-08-07 15:20:29",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix plans to invest 19.1 trillion won in its M17 chip fab in Cheongju, South Korea."
+    },
+    {
+      "id": "5030318",
+      "time": "2026-08-07 15:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "海力士：計劃在韓國清州M17晶片工廠投資19.1萬億韓元。"
+    },
+    {
+      "id": "5030317",
+      "time": "2026-08-07 15:20:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "8月7日，宇樹科技財務總監王楓網上路演時表示，2023年至2025年，公司的主營業務毛利分別是6965.75萬元、21996.62萬元和100785.07萬元。"
+    },
+    {
+      "id": "mkt:019fdb18-196b-7aab-8fb2-f31123b75ce7",
+      "time": "2026-08-07 15:20:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology’s Wang says 2025 humanoid robot shipments exceed 5,500, claim global No.1】Wang Xingxing, chairman, general manager and CTO of Yushu Technology Co., Ltd., said in an online roadshow the company’s 2025 humanoid robot shipments have exceeded 5,500 units (pure humanoid models; excludes wheeled dual‑arm robots), making it the global leader. He attributed the position to core in‑house R&D driving early commercialization and a leading market stance in general‑purpose robots."
+    },
+    {
+      "id": "5030316",
+      "time": "2026-08-07 15:20:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行分析師表示，美日兩國協同外匯干預釋放重要訊號，下調美元兌日元三季度目標至153、年底至 149，日元走強預期升溫。"
+    },
+    {
+      "id": "5030315",
+      "time": "2026-08-07 15:19:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒曝泰國校園槍擊案細節：槍手開了數十槍，校園內發現一把手槍和多枚子彈】8月7日，泰國暖武裡府一所學校發生槍擊事件，造成多人傷亡。路透社、美國有線電視新聞網（CNN）等媒體曝出這起槍擊案更多細節。據路透社報道，一名學生向該媒體透露，自己最初以為是有人在放鞭炮或敲擊什麼東西。“我一開始沒覺得是槍聲。”這名學生說，“當時多次傳出槍聲：砰砰砰。安靜了一會兒後，槍聲又響了起來。”據英國廣播公司（BBC）報道，一名學生告訴該媒體，自己當時看到槍手在各個教室之間走動，然後朝一名教師開了槍。（環球網）"
+    },
+    {
+      "id": "mkt:019fdb16-e5eb-7aab-8fb2-eae4dbd63a08",
+      "time": "2026-08-07 15:18:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen state television reported Yemen air defense forces shot down multiple drones launched by Houthi forces over Marib."
+    },
+    {
+      "id": "5030314",
+      "time": "2026-08-07 15:18:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【內地居民的香港保險收益要繳稅？香港保監局回應】一則關於香港保險收益涉及境外收入徵稅的訊息引發市場關注。8月7日，多隻香港保險股繼續低開。而在前一日，友邦保險、保誠、富衛集團等股價大跌。此前有報道稱，部分購買香港保險的內地投保人收到境外收入繳稅通知，涉及地區包括浙江杭州、北京等。相關訊息稱，香港保險收益被納入境外所得徵收範圍，適用稅率為20%。對此，香港保險業監管局（保監局）回覆稱，政府和保監局正密切注意內地有關金融產品稅務安排的最新發展，同時會與業界保持緊密溝通。內地居民就境外投資收益必須依法申報及繳稅的要求一直存在，市場不用過度解讀或作出揣測。（澎湃新聞）"
+    },
+    {
+      "id": "te:economy:573694",
+      "time": "2026-08-07 15:18:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Austria Trade Gap Hits 6-Month High — Austria’s trade deficit widened to EUR 635.5 million in May 2026 from EUR 476 million in the corresponding month of the previous year. The latest figure marked the largest trade deficit since December 2025, as import growth outpaced exports. Imports rose 1.1% year-on-year to EUR 16.3 billion, supported by stronger purchases from extra-EU countries, which increased 3.4%, while imports from intra-EU countries edged down 0.1%. Import growth was led by fuels and energy (+34.4%), processed goods (+4.7%), and machinery and vehicles (+4.4%), offsetting the decline in manufactured goods (-1.6%). Meanwhile, exports rose just 0.2% to EUR 15.7 billion, driven largely by higher shipments to extra-EU countries, which increased 1.8%, while exports to intra-EU countries fell 0.5%. Export growth was strongest in chemical products (+11.9%) and other goods (+12.5%), while shipments of machinery and vehicles declined 3.2%."
+    },
     {
       "id": "5030313",
       "time": "2026-08-07 15:18:03",
@@ -25,6 +173,16 @@
         "MKT News"
       ],
       "text": "U.S. is relocating some air-to-air refueling tankers from Ben Gurion Airport in Israel to free ramp space and ease pressure on commercial flight operations during the peak travel season."
+    },
+    {
+      "id": "5030311",
+      "time": "2026-08-07 15:17:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【好萊塢又開始有10億美元票房大片 IMAX股價創新高】左手《蜘蛛俠》，右手《奧德賽》，好萊塢終於又開始批次生產10億美元票房的大片了。 據票房追蹤網站Box Office Mojo統計，截至8月7日，美國哥倫比亞影片公司、漫威影業聯合出品的《蜘蛛俠：嶄新之日》上映一週多，全球票房達約11.9億美元，是今年開畫成績最佳的影片。 今年早前上映的《玩具總動員5》《邁克爾》以及《超級馬里奧銀河大電影》已躋身全球票房“10億美元俱樂部”。由環球影業出品、克里斯托弗·諾蘭執導的《奧德賽》全球累計票房已達9.4億美元，距10億美元大關只差臨門一腳。考慮年末影院還將迎來科幻電影《沙丘3》和《復仇者聯盟：末日崛起》，今年可能是全球電影市場最接近疫情前水平的一次。2019年，有9部電影全球票房破10億美元，票房最高的單片是《復仇者聯盟4》的27.98億美元。 兩部大片的熱映推動IMAX全球票房連續三個週末突破5000萬美元。在紐交所上市的IMAX Corporation公司股價也創下歷史新高，該公司收入主要依靠IMAX專利放映系統的租賃、銷售、維護, 全球IMAX票房分成以及內容轉制分成。截至發稿時，IMAX Corporation股價收於49.73美元/股，較週一的大漲有所回撥，但今年累計漲幅接近35%，過去一年累計漲幅超100%。（第一財經）"
     },
     {
       "id": "5030310",

@@ -1,7 +1,155 @@
 {
-  "updated": "2026-08-07 15:18:38",
-  "count": 16196,
+  "updated": "2026-08-07 15:22:38",
+  "count": 16192,
   "items": [
+    {
+      "id": "5030322",
+      "time": "2026-08-07 15:21:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "海力士：季度股息總額為2733.2億韓元。"
+    },
+    {
+      "id": "te:economy:573695",
+      "time": "2026-08-07 15:21:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "France Current Account Deficit Largest in 4 Months — France's current account deficit widened to a seasonally adjusted €1.4 billion in June 2026 from an upwardly revised €1.2 billion in the previous month. It marked the largest shortfall since February, driven by a weaker services balance, with the surplus narrowing to €5.2 billion from €6.3 billion, while the primary income surplus edged down to €3.6 billion from €3.7 billion. Partly offsetting the decline, the goods trade deficit narrowed to €5.3 billion from €6.3 billion. Within goods trade, the deficit excluding energy eased to €1.5 billion from €1.7 billion, while the energy shortfall shrank to €3.8 billion from €4.6 billion. The secondary income deficit remained unchanged at €4.9 billion. For the first half of 2026, France recorded a cumulative current account deficit of €6.5 billion."
+    },
+    {
+      "id": "5030321",
+      "time": "2026-08-07 15:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK 海力士：龍仁二期晶圓廠投資將在 2031 年前落地。"
+    },
+    {
+      "id": "5030320",
+      "time": "2026-08-07 15:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "SK海力士：計劃投資35.2萬億韓元，在韓國龍仁建造第二階段晶片工廠。投資將在2031年前完成。"
+    },
+    {
+      "id": "mkt:019fdb18-e740-7aab-8fb3-0b806509f955",
+      "time": "2026-08-07 15:21:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix plans to invest 35.2 trillion won in a second-phase chip fab in Yongin, South Korea."
+    },
+    {
+      "id": "5030319",
+      "time": "2026-08-07 15:20:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方電熱：公司智慧尾門廚房產品目前主要應用於享界G9】東方電熱8月7日在互動平臺表示，公司自主研發的智慧尾門廚房產品剛剛上市，目前主要應用於享界G9，其他客戶正在開發中。上述業務有望助力公司將單車價值量提升至千元級別，但當前產生的營業收入很少，對公司沒有重大影響。"
+    },
+    {
+      "id": "mkt:019fdb18-6a9f-7aab-8fb3-0260685969ce",
+      "time": "2026-08-07 15:20:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "SK Hynix says the investment will be completed by 2031."
+    },
+    {
+      "id": "mkt:019fdb18-47fa-7aab-8fb2-f85ac101e2cc",
+      "time": "2026-08-07 15:20:29",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix plans to invest 19.1 trillion won in its M17 chip fab in Cheongju, South Korea."
+    },
+    {
+      "id": "5030318",
+      "time": "2026-08-07 15:20:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "海力士：計劃在韓國清州M17晶片工廠投資19.1萬億韓元。"
+    },
+    {
+      "id": "5030317",
+      "time": "2026-08-07 15:20:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "8月7日，宇樹科技財務總監王楓網上路演時表示，2023年至2025年，公司的主營業務毛利分別是6965.75萬元、21996.62萬元和100785.07萬元。"
+    },
+    {
+      "id": "mkt:019fdb18-196b-7aab-8fb2-f31123b75ce7",
+      "time": "2026-08-07 15:20:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology’s Wang says 2025 humanoid robot shipments exceed 5,500, claim global No.1】Wang Xingxing, chairman, general manager and CTO of Yushu Technology Co., Ltd., said in an online roadshow the company’s 2025 humanoid robot shipments have exceeded 5,500 units (pure humanoid models; excludes wheeled dual‑arm robots), making it the global leader. He attributed the position to core in‑house R&D driving early commercialization and a leading market stance in general‑purpose robots."
+    },
+    {
+      "id": "5030316",
+      "time": "2026-08-07 15:20:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行分析師表示，美日兩國協同外匯干預釋放重要訊號，下調美元兌日元三季度目標至153、年底至 149，日元走強預期升溫。"
+    },
+    {
+      "id": "5030315",
+      "time": "2026-08-07 15:19:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒曝泰國校園槍擊案細節：槍手開了數十槍，校園內發現一把手槍和多枚子彈】8月7日，泰國暖武裡府一所學校發生槍擊事件，造成多人傷亡。路透社、美國有線電視新聞網（CNN）等媒體曝出這起槍擊案更多細節。據路透社報道，一名學生向該媒體透露，自己最初以為是有人在放鞭炮或敲擊什麼東西。“我一開始沒覺得是槍聲。”這名學生說，“當時多次傳出槍聲：砰砰砰。安靜了一會兒後，槍聲又響了起來。”據英國廣播公司（BBC）報道，一名學生告訴該媒體，自己當時看到槍手在各個教室之間走動，然後朝一名教師開了槍。（環球網）"
+    },
+    {
+      "id": "mkt:019fdb16-e5eb-7aab-8fb2-eae4dbd63a08",
+      "time": "2026-08-07 15:18:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen state television reported Yemen air defense forces shot down multiple drones launched by Houthi forces over Marib."
+    },
+    {
+      "id": "5030314",
+      "time": "2026-08-07 15:18:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【內地居民的香港保險收益要繳稅？香港保監局回應】一則關於香港保險收益涉及境外收入徵稅的訊息引發市場關注。8月7日，多隻香港保險股繼續低開。而在前一日，友邦保險、保誠、富衛集團等股價大跌。此前有報道稱，部分購買香港保險的內地投保人收到境外收入繳稅通知，涉及地區包括浙江杭州、北京等。相關訊息稱，香港保險收益被納入境外所得徵收範圍，適用稅率為20%。對此，香港保險業監管局（保監局）回覆稱，政府和保監局正密切注意內地有關金融產品稅務安排的最新發展，同時會與業界保持緊密溝通。內地居民就境外投資收益必須依法申報及繳稅的要求一直存在，市場不用過度解讀或作出揣測。（澎湃新聞）"
+    },
+    {
+      "id": "te:economy:573694",
+      "time": "2026-08-07 15:18:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Austria Trade Gap Hits 6-Month High — Austria’s trade deficit widened to EUR 635.5 million in May 2026 from EUR 476 million in the corresponding month of the previous year. The latest figure marked the largest trade deficit since December 2025, as import growth outpaced exports. Imports rose 1.1% year-on-year to EUR 16.3 billion, supported by stronger purchases from extra-EU countries, which increased 3.4%, while imports from intra-EU countries edged down 0.1%. Import growth was led by fuels and energy (+34.4%), processed goods (+4.7%), and machinery and vehicles (+4.4%), offsetting the decline in manufactured goods (-1.6%). Meanwhile, exports rose just 0.2% to EUR 15.7 billion, driven largely by higher shipments to extra-EU countries, which increased 1.8%, while exports to intra-EU countries fell 0.5%. Export growth was strongest in chemical products (+11.9%) and other goods (+12.5%), while shipments of machinery and vehicles declined 3.2%."
+    },
     {
       "id": "5030313",
       "time": "2026-08-07 15:18:03",
@@ -25,6 +173,16 @@
         "MKT News"
       ],
       "text": "U.S. is relocating some air-to-air refueling tankers from Ben Gurion Airport in Israel to free ramp space and ease pressure on commercial flight operations during the peak travel season."
+    },
+    {
+      "id": "5030311",
+      "time": "2026-08-07 15:17:02",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【好萊塢又開始有10億美元票房大片 IMAX股價創新高】左手《蜘蛛俠》，右手《奧德賽》，好萊塢終於又開始批次生產10億美元票房的大片了。 據票房追蹤網站Box Office Mojo統計，截至8月7日，美國哥倫比亞影片公司、漫威影業聯合出品的《蜘蛛俠：嶄新之日》上映一週多，全球票房達約11.9億美元，是今年開畫成績最佳的影片。 今年早前上映的《玩具總動員5》《邁克爾》以及《超級馬里奧銀河大電影》已躋身全球票房“10億美元俱樂部”。由環球影業出品、克里斯托弗·諾蘭執導的《奧德賽》全球累計票房已達9.4億美元，距10億美元大關只差臨門一腳。考慮年末影院還將迎來科幻電影《沙丘3》和《復仇者聯盟：末日崛起》，今年可能是全球電影市場最接近疫情前水平的一次。2019年，有9部電影全球票房破10億美元，票房最高的單片是《復仇者聯盟4》的27.98億美元。 兩部大片的熱映推動IMAX全球票房連續三個週末突破5000萬美元。在紐交所上市的IMAX Corporation公司股價也創下歷史新高，該公司收入主要依靠IMAX專利放映系統的租賃、銷售、維護, 全球IMAX票房分成以及內容轉制分成。截至發稿時，IMAX Corporation股價收於49.73美元/股，較週一的大漲有所回撥，但今年累計漲幅接近35%，過去一年累計漲幅超100%。（第一財經）"
     },
     {
       "id": "5030310",
@@ -147756,211 +147914,6 @@
         "TSM.O"
       ],
       "text": "Sony (SONY.N) top executive said detailed talks with TSMC are progressing smoothly."
-    },
-    {
-      "id": "mkt:019fb70d-1c08-7aab-8f2b-69f250cef2dc",
-      "time": "2026-07-31 15:21:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan Governor UEDA: The risk of re-entering deflation cannot be zero."
-    },
-    {
-      "id": "5018580",
-      "time": "2026-07-31 15:21:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "一名發言人表示，裕信銀行拒絕對德國商業銀行執行長發給員工的講話置評。"
-    },
-    {
-      "id": "mkt:019fb70d-08be-7aab-8f2b-6450098f4b5f",
-      "time": "2026-07-31 15:21:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CHINA urges US to stop threatening Cuba with force after reports of possible military action】July 31 — At a regular foreign ministry briefing, CHINA said it had noted media reports that the US is planning military action against Cuba, including blockades, air strikes and ground invasion. CHINA urged Washington to immediately stop threatening Cuba with force and to end any unilateral blockades or sanctions, and said it will continue to support Cuba’s sovereignty and oppose external interference."
-    },
-    {
-      "id": "5018578",
-      "time": "2026-07-31 15:21:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：再度跌入通縮的風險不可能為零。"
-    },
-    {
-      "id": "5018577",
-      "time": "2026-07-31 15:21:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部點贊中國青年數學家、企業家等：展現了敢闖敢拼的自信和勇氣】7月31日，外交部發言人毛寧主持例行記者會。有記者問：近期大家都很關注中國青年數學家獲得菲爾茲獎，中國機器人領域的青年企業家也登上最新一期時代雜誌封面。中國航天等重大科技工程中，許多專案團隊平均年齡剛過30歲。不少媒體評論稱，在創新領域中國正迎來青年人才“井噴式”湧現的時代，發言人對此有何評論？毛寧表示，很高興看到越來越多的中國青年在世界舞臺嶄露頭角，我想這不僅是個人奮鬥的成果，更是當代中國青年蓬勃向上的寫照，展現了敢闖敢拼的自信和勇氣。青年代表未來，青春沒有國界，希望各國青年攜手合作，以青春智慧助力全球發展，為人類創造更加美好的未來。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb70c-6a43-7aab-8f2b-5aa208fda462",
-      "time": "2026-07-31 15:21:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite"
-      ],
-      "text": "【Heavyweight A-shares swing sharply in closing call auction】At the A-share closing call auction, several heavyweight stocks moved on heavy volume: Liugang, China Shenhua, Shaanxi Energy and China Construction Bank rallied more than 1%, while Shanghai Rural Commercial Bank, Baoshan Iron & Steel, China Resources Sanjiu, Dong'e Ejiao, Tsingtao Brewery, Sinotrans and Ninghu Expressway fell over 1.5%."
-    },
-    {
-      "id": "5018576",
-      "time": "2026-07-31 15:21:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方回應美國或入侵古巴】7月31日，外交部發言人毛寧主持例行記者會。 有記者提問，近日有媒體報道，美國正在制定對古巴的軍事行動計劃，包括封鎖空襲和地面入侵。請問中方對此有何評論？ 毛寧表示，我們注意到有關報道。中方已經多次就有關問題闡明立場，美方應當立即停止以武力威脅古巴，停止任何形式的對古巴單邊封鎖制裁。中方將繼續堅定支援古巴維護國家主權、反對外來干涉，同各方一道維護國際公平正義。（北京日報）"
-    },
-    {
-      "id": "5018573",
-      "time": "2026-07-31 15:20:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方反對任何形式的非法移民活動】外交部發言人毛寧主持7月31日例行記者會。會上有外媒記者提問稱：據報道，近日西班牙位於北非的飛地休達出現大規模移民入境事件，並引發歐盟和美國等方面關注。請問中方如何看待有關情況？中方如何看待西班牙和摩洛哥雙方在移民問題上的溝通協調？毛寧對此表示，首先中方反對任何形式的非法移民活動，同時我們認為各方應當加強協調，妥善處理有關問題。（環球網）"
-    },
-    {
-      "id": "em:qqyh_rbyh:202607313828266615",
-      "time": "2026-07-31 15:20:53",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行行長植田和男表示，AI相關需求非常強勁。"
-    },
-    {
-      "id": "mkt:019fb70b-e0c3-7aab-8f2b-5138c2f80c54",
-      "time": "2026-07-31 15:20:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Bank of Japan Governor UEDA said AI-related capital spending is sustainable to some extent."
-    },
-    {
-      "id": "5018572",
-      "time": "2026-07-31 15:20:35",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：當前關注的一個領域是儲存晶片價格上漲如何推高整體物價水平。人工智慧資本支出在一定程度上是可持續的。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202607313828267010",
-      "time": "2026-07-31 15:20:30",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行行長植田和男表示，日元匯率對價格的影響比以往更大。"
-    },
-    {
-      "id": "mkt:019fb70b-bbac-7aab-8f2b-4998b26d187b",
-      "time": "2026-07-31 15:20:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Bank of Japan Governor Ueda said one focus is how higher memory-chip prices could push up consumer prices."
-    },
-    {
-      "id": "5018571",
-      "time": "2026-07-31 15:20:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【“十五五”時期要提高擁軍支前水平】今天，國務院新聞辦舉行“開局起步‘十五五’”系列主題新聞釋出會，退役軍人事務部介紹加快推動“十五五”時期退役軍人高質量發展相關情況。釋出會上介紹，“十五五”時期要提高擁軍支前水平。加強軍供保障體系建設，緊貼部隊官兵需要豐富拓展雙擁共建專案，引導社會資源加大擁軍力度。完善隨軍家屬就業、軍人子女教育優待機制，探索實施更多關愛舉措，積極解決軍人家庭突發困難等現實問題，持續鞏固新時代軍政軍民團結。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fb70b-62fc-7aab-8f2b-4254b3a23352",
-      "time": "2026-07-31 15:20:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【A-shares close: ChiNext spikes then retreats; AI hardware sector rebounds】Mainland indices rallied intraday then eased: Shanghai Composite +0.72%, Shenzhen Composite Index +2.21%, ChiNext Index +3.06%. ChiNext is down over 23% month-to-date; STAR 50 Index down nearly 26% MTD. Turnover across Shanghai and Shenzhen CNY2.54 trillion, up CNY201.4 billion from the prior session. Breadth strong with more than 4,600 stocks advancing. C Changxin rose >2% to CNY53.97, turnover >CNY50 billion; up 523% in its first week of trading. AI-related names led gains; Chuanzhi Education posted a fifth consecutive daily limit-up and other AI plays including Zhenghe Ecology, Yidian Tianxia, Kaiwen Education, BlueFocus, Weipaige, Shensanda A and Zhongwen Online hit daily limits. Banks underperformed: Ningbo Bank fell over 3%, while Agricultural Bank of China, China Merchants Bank, Shanghai Pudong Development Bank and Industrial and Commercial Bank of China also traded lower."
-    },
-    {
-      "id": "5018570",
-      "time": "2026-07-31 15:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【有中國公民在巴基斯坦雪崩中失聯？外交部：正在緊急核實瞭解】7月31日，外交部發言人毛寧主持例行記者會。法新社記者提問，昨天，巴基斯坦發生雪崩，巴基斯坦登山俱樂部表示有一支由10名登山者組成的隊伍失聯，其中據說有一名中國公民，外交部能否確認其中是否有一名中國公民？外交部關於這一事件是否能提供更多的訊息？中方是否參與了相關的救援行動？對此，毛寧表示：“我們正在緊急核實和了解情況，我們將為有需要的中國公民提供協助，也願意根據巴基斯坦方面的需要提供幫助。”（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019fb70a-ec17-7aab-8f2b-3f9398869a2b",
-      "time": "2026-07-31 15:19:34",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "MOFCOM extends anti-dumping investigation into imports of pea starch originating in Canada through Feb. 12, 2027."
-    },
-    {
-      "id": "5018568",
-      "time": "2026-07-31 15:19:11",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "IG集團財報釋出後股價下跌5.9%，集團宣佈已達成交易，將收購美國每日夢幻體育及預測市場運營商Underdog。"
-    },
-    {
-      "id": "mkt:019fb70a-5471-7aab-8f2b-34d72abbb860",
-      "time": "2026-07-31 15:18:55",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan Governor UEDA said bond market functioning is recovering but is not yet fully restored."
-    },
-    {
-      "id": "em:qqyh_rbyh:202607313828266214",
-      "time": "2026-07-31 15:18:55",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行行長：如果判斷金融條件過於寬鬆 日本央行可能會加快加息步伐】日本央行行長植田和男表示，無法明確判斷當前政策利率距離中性利率還有多遠；如果判斷金融條件過於寬鬆，日本央行可能會加快加息步伐。"
-    },
-    {
-      "id": "5018567",
-      "time": "2026-07-31 15:18:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商務部公告2026年第31號：公佈延長對原產於加拿大的進口豌豆澱粉反傾銷調查期限決定】根據《中華人民共和國反傾銷條例》的規定，2025年8月12日，商務部發布2025年第41號公告，決定對原產於加拿大的進口豌豆澱粉進行反傾銷立案調查。鑑於本案情況複雜，根據《中華人民共和國反傾銷條例》第二十六條的規定，商務部決定將本案調查期延長至2027年2月12日。"
     }
   ]
 }
