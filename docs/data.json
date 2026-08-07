@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-07 22:06:33",
-  "count": 16067,
+  "updated": "2026-08-07 22:10:35",
+  "count": 16065,
   "items": [
+    {
+      "id": "mkt:019fdc8f-49d0-7aab-8fbc-52914d863629",
+      "time": "2026-08-07 22:10:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Federal Reserve's Barkin said the labor market is in a weakly balanced state."
+    },
+    {
+      "id": "5031322",
+      "time": "2026-08-07 22:08:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【展芯股份登陸創業板，上海科創基金投資組合IPO數量增至233家】8月7日，上海科創基金子基金華控三期投資企業——江蘇展芯半導體技術股份有限公司在創業板掛牌上市，上海科創基金投資組合IPO數量增至233家。"
+    },
+    {
+      "id": "mkt:019fdc8d-d899-7aab-8fbc-4c39bd07cd8f",
+      "time": "2026-08-07 22:08:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council director Hassett said Trump and Walsh constantly discuss economic issues."
+    },
+    {
+      "id": "5031321",
+      "time": "2026-08-07 22:08:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：特朗普詢問沃什有關就業資料的情況很正常。"
+    },
+    {
+      "id": "mkt:019fdc8d-3e27-7aab-8fbc-4142c1af73af",
+      "time": "2026-08-07 22:07:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council director Hassett said he believes President Trump will not give Fed chair Warsh advice on interest rates."
+    },
+    {
+      "id": "5031320",
+      "time": "2026-08-07 22:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，商業航運在國際航道內的航行自由以及安全不受干擾的通行必須得到尊重和保護。"
+    },
+    {
+      "id": "5031319",
+      "time": "2026-08-07 22:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：我確信特朗普不會給沃什提供利率建議。"
+    },
+    {
+      "id": "mkt:019fdc8c-be18-7aab-8fbc-3cd14b5e63f7",
+      "time": "2026-08-07 22:07:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ADNOC said freedom of navigation in international waterways must be respected and commercial shipping kept safe and unobstructed."
+    },
+    {
+      "id": "5031318",
+      "time": "2026-08-07 22:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：特朗普和沃什“總是”談論經濟問題。"
+    },
+    {
+      "id": "mkt:019fdc8c-4a19-7aab-8fbc-37344a24629a",
+      "time": "2026-08-07 22:06:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Co (ADNOC) said it is coordinating with relevant authorities to protect employees, assets and operations and to meet customer needs where possible."
+    },
+    {
+      "id": "5031317",
+      "time": "2026-08-07 22:06:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，正與有關部門共同採取措施，保障員工、資產與業務運營安全，並儘可能滿足客戶需求。"
+    },
     {
       "id": "5031316",
       "time": "2026-08-07 22:05:46",
@@ -9,6 +103,14 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）表示，其業務持續受到襲擊事件的“嚴重”影響。"
+    },
+    {
+      "id": "5031315",
+      "time": "2026-08-07 22:05:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST帥電：擬現金4.1億元收購惠嘉科技100%股權】*ST帥電公告，公司擬透過支付現金方式購買李連強、斯應昌持有的杭州惠嘉資訊科技有限公司100%股權，交易價格4.1億元。標的公司主營智慧電網裝置、綜合能源及電力工程、電網智慧服務，評估增值率363.82%。本次交易構成重大資產重組，不構成關聯交易及重組上市。業績承諾方承諾標的公司2026年度、2027年度、2028年度淨利潤分別不低於4300萬元、5000萬元、5700萬元。"
     },
     {
       "id": "mkt:019fdc8a-eb7d-7aab-8fbc-28d8ccb6412a",
@@ -146416,146 +146518,6 @@
         "國際"
       ],
       "text": "美國能源資訊署（EIA）資料顯示：5月美國原油出口量升至572.8萬桶/日，4月為559.3萬桶/日。"
-    },
-    {
-      "id": "5019627",
-      "time": "2026-07-31 22:10:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國 10 年期國債收益率升至 4.7388%，創 2025 年 1 月以來新高。"
-    },
-    {
-      "id": "5019626",
-      "time": "2026-07-31 22:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚持續升級煉油廠，增產餾分油。"
-    },
-    {
-      "id": "5019625",
-      "time": "2026-07-31 22:09:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司董事長：公司將經由非洲航線採購沙特原油。"
-    },
-    {
-      "id": "5019624",
-      "time": "2026-07-31 22:09:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司高管表示，目前原油儲備充足，可滿足45天的供應需求。"
-    },
-    {
-      "id": "5019623",
-      "time": "2026-07-31 22:09:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股AI硬體個股快速走弱 費城半導體指數回吐5%漲幅而轉跌】美股晶片半導體板塊快速走弱，費城半導體指數抹去5%漲幅轉跌。此前漲6%的美光科技現跌4.2%。此前漲近10%的閃迪現跌超6%。此前漲超8%的SK海力士、希捷科技現跌2%。此前漲4%的臺積電現跌近1%。"
-    },
-    {
-      "id": "mkt:019fb881-bc2d-7aab-8f38-6653046be5bd",
-      "time": "2026-07-31 22:08:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【LOGAN: inf risks skewed up; leans toward 25bp rate hike】LOGAN said inf risks are tilted upward and a still-robust labor market is modestly strengthening. Monetary policy is not currently restraining the economy and inf is not moving toward the 2% target; the FOMC should not rely on shocks to achieve its goal. He said he leans toward a 25bp rate increase to better balance the outlook and risks, and that recent modest action reduces the likelihood of needing larger moves later. Absent policy restraint, inf could remain above target until an unexpected shock occurs."
-    },
-    {
-      "id": "5019622",
-      "time": "2026-07-31 22:08:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌2%，現報4077.26美元/盎司。"
-    },
-    {
-      "id": "5019621",
-      "time": "2026-07-31 22:08:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司高管表示，公司將考慮在特別外匯信貸機制下籌集更多資金。"
-    },
-    {
-      "id": "5019620",
-      "time": "2026-07-31 22:08:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報57.24美元/盎司。"
-    },
-    {
-      "id": "te:economy:571799",
-      "time": "2026-07-31 22:08:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Michigan Inflation Expectations",
-        "Importance 1"
-      ],
-      "text": "US 1-Year Inflation Expectations Confirmed at 4.2% — Year-ahead inflation expectations in the United States, as measured by the University of Michigan survey, fell for a second consecutive month to 4.2% in July 2026, the lowest level since March, down from 4.6% in June and in line with the preliminary estimate. Even so, expectations remained well above the 3.4% recorded in February, before the outbreak of the Iran conflict, and above all readings seen throughout 2024. Meanwhile, the five-year inflation outlook stood at 3.3% in July, matching both June's reading and the preliminary estimate. Nevertheless, it remained slightly above the 2.8%-3.2% range that prevailed throughout 2024."
-    },
-    {
-      "id": "te:economy:571798",
-      "time": "2026-07-31 22:07:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Consumer Confidence",
-        "Importance 2"
-      ],
-      "text": "US Consumer Sentiment Revised Higher to Five-Month High — The University of Michigan's Consumer Sentiment Index was revised higher to 55.2 in July 2026 from a preliminary reading of 54.0, reaching its highest level since February, before the US-Iran conflict drove gas prices higher. Sentiment improved across all income, age, education, wealth, and political groups. Consumers' five-year outlook for business conditions climbed to a 12-month high, though it remained well below its historical average. Despite the improvement, overall sentiment was still 11% lower than a year earlier, reflecting continued concerns over elevated prices and the lasting effects of several years of high inflation. Year-ahead inflation expectations eased to 4.2% from 4.6% in June, while long-run expectations held steady at 3.3%. Interviews for the survey were conducted between June 23 and July 27."
-    },
-    {
-      "id": "5019619",
-      "time": "2026-07-31 22:07:32",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "印度石油公司高管表示，該公司已透過印度央行的特別外匯工具籌集了5億美元。"
-    },
-    {
-      "id": "5019618",
-      "time": "2026-07-31 22:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026全球電競大會在滬舉辦，靜安打造“遊戲電競產業核心功能區”】7月31日下午，2026全球電競大會在上海靜安舉辦，現場正式釋出了“靜安區遊戲電競產業核心功能區”。澎湃新聞記者從大會獲悉，當前全球電競產業正邁向更高能級，上海作為全球電競產業的核心城市之一，今年4月釋出的《上海市關於支援遊戲電競產業發展的若干舉措》，明確支援靜安、徐匯、楊浦三大集聚區建設，為產業提供政策支撐。2026上半年上海電競收入達34.17億元，同比增長5%。（澎湃）"
-    },
-    {
-      "id": "mkt:019fb87f-f61a-7aab-8f38-5bbd776374dd",
-      "time": "2026-07-31 22:07:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "US stocks turned lower; Dow Jones Industrial Average down 0.14%, S&P 500 down 0.18%, Nasdaq Composite down 0.04%."
     }
   ]
 }

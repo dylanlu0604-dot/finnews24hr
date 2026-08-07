@@ -1,7 +1,101 @@
 {
   "date": "2026-08-07",
-  "count": 2589,
+  "count": 2601,
   "items": [
+    {
+      "id": "mkt:019fdc8f-49d0-7aab-8fbc-52914d863629",
+      "time": "2026-08-07 22:10:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Federal Reserve's Barkin said the labor market is in a weakly balanced state."
+    },
+    {
+      "id": "5031322",
+      "time": "2026-08-07 22:08:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【展芯股份登陸創業板，上海科創基金投資組合IPO數量增至233家】8月7日，上海科創基金子基金華控三期投資企業——江蘇展芯半導體技術股份有限公司在創業板掛牌上市，上海科創基金投資組合IPO數量增至233家。"
+    },
+    {
+      "id": "mkt:019fdc8d-d899-7aab-8fbc-4c39bd07cd8f",
+      "time": "2026-08-07 22:08:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council director Hassett said Trump and Walsh constantly discuss economic issues."
+    },
+    {
+      "id": "5031321",
+      "time": "2026-08-07 22:08:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：特朗普詢問沃什有關就業資料的情況很正常。"
+    },
+    {
+      "id": "mkt:019fdc8d-3e27-7aab-8fbc-4142c1af73af",
+      "time": "2026-08-07 22:07:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "White House National Economic Council director Hassett said he believes President Trump will not give Fed chair Warsh advice on interest rates."
+    },
+    {
+      "id": "5031320",
+      "time": "2026-08-07 22:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，商業航運在國際航道內的航行自由以及安全不受干擾的通行必須得到尊重和保護。"
+    },
+    {
+      "id": "mkt:019fdc8c-be18-7aab-8fbc-3cd14b5e63f7",
+      "time": "2026-08-07 22:07:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ADNOC said freedom of navigation in international waterways must be respected and commercial shipping kept safe and unobstructed."
+    },
+    {
+      "id": "5031319",
+      "time": "2026-08-07 22:07:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：我確信特朗普不會給沃什提供利率建議。"
+    },
+    {
+      "id": "5031318",
+      "time": "2026-08-07 22:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：特朗普和沃什“總是”談論經濟問題。"
+    },
+    {
+      "id": "mkt:019fdc8c-4a19-7aab-8fbc-37344a24629a",
+      "time": "2026-08-07 22:06:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Co (ADNOC) said it is coordinating with relevant authorities to protect employees, assets and operations and to meet customer needs where possible."
+    },
+    {
+      "id": "5031317",
+      "time": "2026-08-07 22:06:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）表示，正與有關部門共同採取措施，保障員工、資產與業務運營安全，並儘可能滿足客戶需求。"
+    },
     {
       "id": "5031316",
       "time": "2026-08-07 22:05:46",
@@ -9,6 +103,14 @@
         "公司"
       ],
       "text": "阿布扎比國家石油公司（ADNOC）表示，其業務持續受到襲擊事件的“嚴重”影響。"
+    },
+    {
+      "id": "5031315",
+      "time": "2026-08-07 22:05:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST帥電：擬現金4.1億元收購惠嘉科技100%股權】*ST帥電公告，公司擬透過支付現金方式購買李連強、斯應昌持有的杭州惠嘉資訊科技有限公司100%股權，交易價格4.1億元。標的公司主營智慧電網裝置、綜合能源及電力工程、電網智慧服務，評估增值率363.82%。本次交易構成重大資產重組，不構成關聯交易及重組上市。業績承諾方承諾標的公司2026年度、2027年度、2028年度淨利潤分別不低於4300萬元、5000萬元、5700萬元。"
     },
     {
       "id": "mkt:019fdc8a-eb7d-7aab-8fbc-28d8ccb6412a",
