@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-07 09:46:57",
-  "count": 16142,
+  "updated": "2026-08-07 09:50:54",
+  "count": 16139,
   "items": [
+    {
+      "id": "mkt:019fd9e8-d40c-7aab-8fac-623804abf8b0",
+      "time": "2026-08-07 09:49:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish",
+        "09999.HK",
+        "00100.HK"
+      ],
+      "text": "Hong Kong-listed OpenClaw concept stocks mostly rose: MINIMAX-W (00100.HK) gained more than 10%, Zhipu (02513.HK) rose over 6%; NetEase-S (09999.HK) and Tencent Holdings (00700.HK) also advanced."
+    },
+    {
+      "id": "5029838",
+      "time": "2026-08-07 09:47:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股醫藥股走強 康龍化成漲近6%】截至發稿，康龍化成(03759.HK)漲5.63%，藥明康德(02359.HK)漲3.34%，藥明生物(02269.HK)漲3.04%。"
+    },
+    {
+      "id": "5029837",
+      "time": "2026-08-07 09:46:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "三大指數集體翻綠，微盤股指數跌超2%，數字貨幣、軟體開發、遊戲、影視等方向跌幅居前，滬深京三市下跌個股超4700只。"
+    },
     {
       "id": "mkt:019fd9e6-5b75-7aab-8fac-5f973ebaabec",
       "time": "2026-08-07 09:46:20",
@@ -147487,64 +147518,6 @@
         "公司"
       ],
       "text": "【九號公司：智慧電動車國內累計出貨突破1300萬臺】九號公司宣佈，九號智慧電動車在國內累計出貨量正式突破1300萬臺。"
-    },
-    {
-      "id": "5018088",
-      "time": "2026-07-31 09:50:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4140美元/盎司，日內跌0.50%。"
-    },
-    {
-      "id": "mkt:019fb5dc-ab48-7aab-8f23-66027b9e5529",
-      "time": "2026-07-31 09:49:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "07709.HK",
-        "Impact bullish",
-        "07747.HK",
-        "03986.HK"
-      ],
-      "text": "Hong Kong storage/memory names surged at the open: Southern 2x Long SK Hynix (07709.HK) rose over 55% after an intraday five‑minute spike of about 270%, turnover >HKD3.5 bln; Southern 2x Long Samsung Electronics (07747.HK) gained >40%, turnover >HKD550 mln; GigaDevice Semiconductor (03986.HK) up nearly 26%; Lanqi Technology (06809.HK) up >17%."
-    },
-    {
-      "id": "5018087",
-      "time": "2026-07-31 09:48:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【分立器件板塊持續走高】分立器件板塊持續走高，炬光科技、長光華芯、燕東微漲超10%，鍇威特、東微半導、宏微科技、源傑科技、新潔能等跟漲。"
-    },
-    {
-      "id": "5018086",
-      "time": "2026-07-31 09:48:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲4.00%，現報13817.425點；上證指數漲1.00%，現報3842.629點；創業板指漲6.48%，現報3454.769點。"
-    },
-    {
-      "id": "5018085",
-      "time": "2026-07-31 09:47:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀行板塊逆勢下挫 五大行均跌超3%】早盤銀行板塊逆勢下挫，農業銀行、建設銀行跌超4%，工商銀行、中國銀行、交通銀行、浦發銀行、中信銀行跌超3%。"
-    },
-    {
-      "id": "5018084",
-      "time": "2026-07-31 09:47:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲5%，現報7188.00點。"
     }
   ]
 }
