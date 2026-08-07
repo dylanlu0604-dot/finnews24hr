@@ -1,7 +1,196 @@
 {
   "date": "2026-08-07",
-  "count": 1387,
+  "count": 1410,
   "items": [
+    {
+      "id": "5030463",
+      "time": "2026-08-07 16:06:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海建科：合計持股5%以上股東減持致權益變動觸及1%刻度】上海建科公告稱，2026年5月26日至8月6日，合計持股5%以上的6個持股平臺透過集中競價方式累計減持公司股份221.68萬股，佔公司股份總數的0.54%。本次權益變動後，6個持股平臺持有公司股份比例由8.51%降至7.96%，觸及1%刻度。本次變動不觸及要約收購，不會導致控股股東及實際控制人變化，也不涉及披露權益變動報告書。截至公告日，6個持股平臺仍在減持計劃實施期。"
+    },
+    {
+      "id": "5030462",
+      "time": "2026-08-07 16:06:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【影石創新：開立募集資金專戶並簽訂三方監管協議】影石創新公告稱，公司本次首次公開發行股票4100萬股，募集資金總額19.38億元，淨額17.48億元。2026年7月21日，公司同意在中國銀行深圳寶安支行、中信銀行深圳分行分別開立募集資金專項賬戶，用於“智慧影像終端升級專案”“影石創新研發中心建設專案”。近日，公司及保薦機構中信證券分別與上述兩家銀行簽訂募集資金三方監管協議，截至7月28日，兩專戶餘額均為0。"
+    },
+    {
+      "id": "te:markets:573714",
+      "time": "2026-08-07 16:05:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 51-week Low — The Hong Kong Dollar touched 7.85 against the USD, the lowest since August 2025. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.07%, and in the last 12 months, it decreased 0.06%."
+    },
+    {
+      "id": "5030461",
+      "time": "2026-08-07 16:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江證券：維持東鵬飲料“買入”評級，第三曲線漸成，股東回報提升】長江證券研報指出，東鵬飲料第三曲線漸成，股東回報提升。公司2026H1歸母淨利潤28.67億元（+20.72%），Q2歸母淨利潤16.09億元（+15.39%）。公司表現遠超行業，具備韌性。首次披露茶飲料收入規模，2026H1公司茶飲料收入達到10.6億元，收入佔比達8.5%，第三曲線初具雛形。產品噸價提升，公司毛利率改善，公司重視股東回報，積極提升分紅比例。公司預計2026-2028年現金分紅（包含回購）比例不低於80%，股東回報加強。飲料行業增長依賴於新品類迭代+滲透率提升，公司渠道力加強，靜待未來新品週期表現。認為公司在成長期持續加強網點深耕，為未來發展打下基礎，具備長期發展潛力。我們預計2026/2027年EPS為7.16/8.53元，對應PE為17X/14X，維持“買入”評級。"
+    },
+    {
+      "id": "te:markets:573713",
+      "time": "2026-08-07 16:05:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 4.00% — Top commodity gainers are Silver (4%), Platinum (1.93%), Silicon (1.48%) and Gold (1.26%)."
+    },
+    {
+      "id": "5030460",
+      "time": "2026-08-07 16:05:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1391.42美元/盎司。"
+    },
+    {
+      "id": "5030459",
+      "time": "2026-08-07 16:05:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "南方兩倍（最多）做多海力士基金尾盤拉昇，並一度轉漲，盤中一度下跌11%。"
+    },
+    {
+      "id": "mkt:019fdb41-065b-7aab-8fb3-c24cbf4cf144",
+      "time": "2026-08-07 16:04:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 16:02 on Aug 7 an approximately M3.0 earthquake occurred near Gaoxian, Yibin, Sichuan (28.56°N, 104.69°E). Final parameters subject to the official rapid bulletin."
+    },
+    {
+      "id": "5030458",
+      "time": "2026-08-07 16:04:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國農業部預測，2026年穀物玉米產量為900萬噸，較2025年下降35%。"
+    },
+    {
+      "id": "mkt:019fdb40-a381-7aab-8fb3-bf64fbfb4fc9",
+      "time": "2026-08-07 16:04:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Japan's GPIF posts ¥24.1 tln (≈$152 bln) quarterly gain as equities rally】Japan's Government Pension Investment Fund (GPIF) said global and domestic equity rallies drove a record Q2 gain of ¥24.1 tln (≈$152 bln), producing an 8.2% quarterly return and lifting assets to ¥317.76 tln at end-June. Domestic equities returned 14.5%, foreign equities 16.9%; domestic bonds lost 1.1% and foreign bonds returned 3.1%. The weighting of Japanese government bonds in GPIF's portfolio fell to 25.59% at end-June from 26.91% at end-March."
+    },
+    {
+      "id": "5030457",
+      "time": "2026-08-07 16:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞表示，在稀土檢測延誤後，礦產出口已恢復。"
+    },
+    {
+      "id": "mkt:019fdb40-60d5-7aab-8fb3-b213f7f87492",
+      "time": "2026-08-07 16:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China's end‑July foreign exchange reserves were $3.419 trillion, below consensus $3.422 trillion and up slightly from June's $3.416 trillion."
+    },
+    {
+      "id": "5030456",
+      "time": "2026-08-07 16:04:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴研鉑業：全資子公司因安全事故被罰50萬元】 貴研鉑業公告，全資子公司貴研資源（易門）有限公司及相關責任人於2026年8月6日收到易門縣應急管理局《行政處罰決定書》。因“4·22”一般其他爆炸事故（造成一名員工死亡，直接經濟損失139.6萬元），貴研資源易門公司被罰款人民幣50萬元整，另對五名責任人作出相應行政處罰。公司表示本次處罰不會對生產經營、財務狀況和經營成果產生重大不利影響。"
+    },
+    {
+      "id": "5030455",
+      "time": "2026-08-07 16:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將西門子目標股價從310歐元上調至330歐元。"
+    },
+    {
+      "id": "mkt:019fdb40-2018-7aab-8fb3-aa054bafc214",
+      "time": "2026-08-07 16:04:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Foreign Exchange Reserves (Jul) | actual 3418780000000.0005B | consensus 3422000000000B | previous 3416260000000B"
+    },
+    {
+      "id": "5030454",
+      "time": "2026-08-07 16:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【速達股份：財務總監謝立智增持6500股】 速達股份公告，公司財務總監/董事會秘書謝立智於2026年8月6日透過集中競價方式累計增持公司股票6500股，約佔公司總股本的0.0086%，增持金額合計人民幣17.93萬元（不含交易費用）。本次增持前謝立智直接持有公司股份38.76萬股，佔公司總股本的0.5099%；增持後持股39.41萬股，佔公司總股本的0.5185%。謝立智暫無後續增持計劃。"
+    },
+    {
+      "id": "5030453",
+      "time": "2026-08-07 16:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月07日16時02分在四川宜賓市高縣附近（北緯28.56度，東經104.69度）發生3.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5030452",
+      "time": "2026-08-07 16:03:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "廣告交易平臺Trade Desk股價盤前下跌27%，此前該公司公佈第三季度收入預測低於市場預期。"
+    },
+    {
+      "id": "5030451",
+      "time": "2026-08-07 16:03:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST航圖：公司及實控人王宇翔涉嫌信披違法違規被證監會立案】*ST航圖(688066.SH)公告稱，公司及實際控制人王宇翔於2026年8月7日收到中國證監會下發的《立案告知書》，因公司及實際控制人王宇翔涉嫌資訊披露違法違規，根據相關法律法規，中國證監會決定對公司及王宇翔立案。目前，公司正積極配合調查，並將嚴格履行資訊披露義務。"
+    },
+    {
+      "id": "5030449",
+      "time": "2026-08-07 16:02:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯合國糧農組織稱，7月食糖價格月度環比上漲5.6%。"
+    },
+    {
+      "id": "5030448",
+      "time": "2026-08-07 16:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯合國糧農組織稱，7月份植物油價格環比上漲2%。"
+    },
     {
       "id": "5030447",
       "time": "2026-08-07 16:02:21",
@@ -31,6 +220,24 @@
         "Impact bullish"
       ],
       "text": "【PBOC adds to gold reserves for 21st straight month】China's gold reserves stood at 76.08 mln ounces at end‑July, up from 75.44 mln at end‑June; the PBOC has increased gold holdings for a 21st consecutive month."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608073835185575",
+      "time": "2026-08-07 16:02:06",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國央行連續第21個月增持黃金】央行釋出資料，中國7月末黃金儲備7608萬盎司，6月末為7544萬盎司。中國央行已連續第21個月增持黃金。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608073835185575",
+      "time": "2026-08-07 16:02:06",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國央行連續第21個月增持黃金】央行釋出資料，中國7月末黃金儲備7608萬盎司，6月末為7544萬盎司。中國央行已連續第21個月增持黃金。"
     },
     {
       "id": "5030445",

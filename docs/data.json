@@ -1,7 +1,196 @@
 {
-  "updated": "2026-08-07 16:03:03",
-  "count": 16133,
+  "updated": "2026-08-07 16:06:58",
+  "count": 16134,
   "items": [
+    {
+      "id": "5030463",
+      "time": "2026-08-07 16:06:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海建科：合計持股5%以上股東減持致權益變動觸及1%刻度】上海建科公告稱，2026年5月26日至8月6日，合計持股5%以上的6個持股平臺透過集中競價方式累計減持公司股份221.68萬股，佔公司股份總數的0.54%。本次權益變動後，6個持股平臺持有公司股份比例由8.51%降至7.96%，觸及1%刻度。本次變動不觸及要約收購，不會導致控股股東及實際控制人變化，也不涉及披露權益變動報告書。截至公告日，6個持股平臺仍在減持計劃實施期。"
+    },
+    {
+      "id": "5030462",
+      "time": "2026-08-07 16:06:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【影石創新：開立募集資金專戶並簽訂三方監管協議】影石創新公告稱，公司本次首次公開發行股票4100萬股，募集資金總額19.38億元，淨額17.48億元。2026年7月21日，公司同意在中國銀行深圳寶安支行、中信銀行深圳分行分別開立募集資金專項賬戶，用於“智慧影像終端升級專案”“影石創新研發中心建設專案”。近日，公司及保薦機構中信證券分別與上述兩家銀行簽訂募集資金三方監管協議，截至7月28日，兩專戶餘額均為0。"
+    },
+    {
+      "id": "te:markets:573714",
+      "time": "2026-08-07 16:05:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Dollar Hits 51-week Low — The Hong Kong Dollar touched 7.85 against the USD, the lowest since August 2025. Over the past 4 weeks, US Dollar Hong Kong Dollar gained 0.07%, and in the last 12 months, it decreased 0.06%."
+    },
+    {
+      "id": "5030461",
+      "time": "2026-08-07 16:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長江證券：維持東鵬飲料“買入”評級，第三曲線漸成，股東回報提升】長江證券研報指出，東鵬飲料第三曲線漸成，股東回報提升。公司2026H1歸母淨利潤28.67億元（+20.72%），Q2歸母淨利潤16.09億元（+15.39%）。公司表現遠超行業，具備韌性。首次披露茶飲料收入規模，2026H1公司茶飲料收入達到10.6億元，收入佔比達8.5%，第三曲線初具雛形。產品噸價提升，公司毛利率改善，公司重視股東回報，積極提升分紅比例。公司預計2026-2028年現金分紅（包含回購）比例不低於80%，股東回報加強。飲料行業增長依賴於新品類迭代+滲透率提升，公司渠道力加強，靜待未來新品週期表現。認為公司在成長期持續加強網點深耕，為未來發展打下基礎，具備長期發展潛力。我們預計2026/2027年EPS為7.16/8.53元，對應PE為17X/14X，維持“買入”評級。"
+    },
+    {
+      "id": "5030460",
+      "time": "2026-08-07 16:05:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1391.42美元/盎司。"
+    },
+    {
+      "id": "te:markets:573713",
+      "time": "2026-08-07 16:05:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Rises by 4.00% — Top commodity gainers are Silver (4%), Platinum (1.93%), Silicon (1.48%) and Gold (1.26%)."
+    },
+    {
+      "id": "5030459",
+      "time": "2026-08-07 16:05:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "南方兩倍（最多）做多海力士基金尾盤拉昇，並一度轉漲，盤中一度下跌11%。"
+    },
+    {
+      "id": "5030458",
+      "time": "2026-08-07 16:04:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國農業部預測，2026年穀物玉米產量為900萬噸，較2025年下降35%。"
+    },
+    {
+      "id": "mkt:019fdb41-065b-7aab-8fb3-c24cbf4cf144",
+      "time": "2026-08-07 16:04:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc automatic determination: at 16:02 on Aug 7 an approximately M3.0 earthquake occurred near Gaoxian, Yibin, Sichuan (28.56°N, 104.69°E). Final parameters subject to the official rapid bulletin."
+    },
+    {
+      "id": "mkt:019fdb40-a381-7aab-8fb3-bf64fbfb4fc9",
+      "time": "2026-08-07 16:04:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Japan's GPIF posts ¥24.1 tln (≈$152 bln) quarterly gain as equities rally】Japan's Government Pension Investment Fund (GPIF) said global and domestic equity rallies drove a record Q2 gain of ¥24.1 tln (≈$152 bln), producing an 8.2% quarterly return and lifting assets to ¥317.76 tln at end-June. Domestic equities returned 14.5%, foreign equities 16.9%; domestic bonds lost 1.1% and foreign bonds returned 3.1%. The weighting of Japanese government bonds in GPIF's portfolio fell to 25.59% at end-June from 26.91% at end-March."
+    },
+    {
+      "id": "5030457",
+      "time": "2026-08-07 16:04:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞表示，在稀土檢測延誤後，礦產出口已恢復。"
+    },
+    {
+      "id": "mkt:019fdb40-60d5-7aab-8fb3-b213f7f87492",
+      "time": "2026-08-07 16:04:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "China's end‑July foreign exchange reserves were $3.419 trillion, below consensus $3.422 trillion and up slightly from June's $3.416 trillion."
+    },
+    {
+      "id": "5030456",
+      "time": "2026-08-07 16:04:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴研鉑業：全資子公司因安全事故被罰50萬元】 貴研鉑業公告，全資子公司貴研資源（易門）有限公司及相關責任人於2026年8月6日收到易門縣應急管理局《行政處罰決定書》。因“4·22”一般其他爆炸事故（造成一名員工死亡，直接經濟損失139.6萬元），貴研資源易門公司被罰款人民幣50萬元整，另對五名責任人作出相應行政處罰。公司表示本次處罰不會對生產經營、財務狀況和經營成果產生重大不利影響。"
+    },
+    {
+      "id": "5030455",
+      "time": "2026-08-07 16:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將西門子目標股價從310歐元上調至330歐元。"
+    },
+    {
+      "id": "mkt:019fdb40-2018-7aab-8fb3-aa054bafc214",
+      "time": "2026-08-07 16:04:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Foreign Exchange Reserves (Jul) | actual 3418780000000.0005B | consensus 3422000000000B | previous 3416260000000B"
+    },
+    {
+      "id": "5030454",
+      "time": "2026-08-07 16:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【速達股份：財務總監謝立智增持6500股】 速達股份公告，公司財務總監/董事會秘書謝立智於2026年8月6日透過集中競價方式累計增持公司股票6500股，約佔公司總股本的0.0086%，增持金額合計人民幣17.93萬元（不含交易費用）。本次增持前謝立智直接持有公司股份38.76萬股，佔公司總股本的0.5099%；增持後持股39.41萬股，佔公司總股本的0.5185%。謝立智暫無後續增持計劃。"
+    },
+    {
+      "id": "5030453",
+      "time": "2026-08-07 16:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網自動測定：08月07日16時02分在四川宜賓市高縣附近（北緯28.56度，東經104.69度）發生3.0級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5030452",
+      "time": "2026-08-07 16:03:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "廣告交易平臺Trade Desk股價盤前下跌27%，此前該公司公佈第三季度收入預測低於市場預期。"
+    },
+    {
+      "id": "5030451",
+      "time": "2026-08-07 16:03:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST航圖：公司及實控人王宇翔涉嫌信披違法違規被證監會立案】*ST航圖(688066.SH)公告稱，公司及實際控制人王宇翔於2026年8月7日收到中國證監會下發的《立案告知書》，因公司及實際控制人王宇翔涉嫌資訊披露違法違規，根據相關法律法規，中國證監會決定對公司及王宇翔立案。目前，公司正積極配合調查，並將嚴格履行資訊披露義務。"
+    },
+    {
+      "id": "5030449",
+      "time": "2026-08-07 16:02:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯合國糧農組織稱，7月食糖價格月度環比上漲5.6%。"
+    },
+    {
+      "id": "5030448",
+      "time": "2026-08-07 16:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "聯合國糧農組織稱，7月份植物油價格環比上漲2%。"
+    },
     {
       "id": "5030447",
       "time": "2026-08-07 16:02:21",
@@ -31,6 +220,24 @@
         "Impact bullish"
       ],
       "text": "【PBOC adds to gold reserves for 21st straight month】China's gold reserves stood at 76.08 mln ounces at end‑July, up from 75.44 mln at end‑June; the PBOC has increased gold holdings for a 21st consecutive month."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608073835185575",
+      "time": "2026-08-07 16:02:06",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國央行連續第21個月增持黃金】央行釋出資料，中國7月末黃金儲備7608萬盎司，6月末為7544萬盎司。中國央行已連續第21個月增持黃金。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608073835185575",
+      "time": "2026-08-07 16:02:06",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國央行連續第21個月增持黃金】央行釋出資料，中國7月末黃金儲備7608萬盎司，6月末為7544萬盎司。中國央行已連續第21個月增持黃金。"
     },
     {
       "id": "5030445",
@@ -147058,207 +147265,6 @@
         "市場"
       ],
       "text": "【Godaddy美股盤前跌超10%】Godaddy美股盤前跌超10%，現報88.5美元。"
-    },
-    {
-      "id": "mkt:019fb736-28ae-7aab-8f2d-9945ef67d597",
-      "time": "2026-07-31 16:06:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact mixed",
-        "EURUSD"
-      ],
-      "text": "BIS: Banks' credit to emerging and developing economies rose $148bn in Q1 2026, concentrated in Africa, the Middle East and emerging Europe. BIS global liquidity indicators show foreign-currency credit denominated in USD and EUR both posted strong growth, with euro-denominated lending expanding relatively faster."
-    },
-    {
-      "id": "5018725",
-      "time": "2026-07-31 16:06:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江河集團：2026年半年度建築裝飾板塊累計中標130.92億元】江河集團公告稱，公司建築裝飾板塊2026年半年度累計中標金額約130.92億元，同比下降4.40%。其中，幕牆與光伏建築業務中標額約92.85億元，同比增長2.34%，中標數量141個，同比增長23.68%；室內裝飾與設計業務中標額約38.07億元，同比下降17.62%，中標數量213個，同比下降27.55%。2026年半年度無已簽訂尚未執行的重大專案。"
-    },
-    {
-      "id": "mkt:019fb735-b386-7aab-8f2d-93a60857b84e",
-      "time": "2026-07-31 16:06:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BIS: In Q1 2026 cross-border bank credit rose $1.7 tln, up 11% YoY, driven by double-digit lending growth to banks and non-bank entities."
-    },
-    {
-      "id": "5018724",
-      "time": "2026-07-31 16:06:13",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【四部門：加強公司治理風險監測預警，統一資料標準，推動監管數字化、智慧化】金融監管總局、中國人民銀行、中國證監會、財政部近日聯合釋出《關於健全金融機構治理的實施意見》，提出22條措施。《實施意見》明確，提升監管前瞻性。加強公司治理風險監測預警，統一資料標準，推動監管數字化、智慧化，實現風險早識別、早預警、早暴露、早處置。對存在重大治理缺陷和風險的金融機構進行早期干預，強化監管硬約束。"
-    },
-    {
-      "id": "mkt:019fb735-a518-7aab-8f2d-8e474e9ec131",
-      "time": "2026-07-31 16:06:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "【China NFRA and three agencies issue governance guidance to boost board effectiveness, limit shareholder‑nominated directors' share】China's National Financial Regulatory Administration and three other agencies published implementation opinions to strengthen financial‑institution governance. Boards must perform major decision‑making and supervisory duties in line with law; firms should optimize board composition by institution type, ownership structure and directors' background (experience, expertise, gender, age) and clarify board responsibilities. The guidance calls for reasonable limits on the proportion of board seats nominated by the same shareholder and its related parties. Directors are required to act faithfully and diligently and be accountable to the institution, staff and consumers. The measures also strengthen protections for directors' ability to perform duties and require performance evaluation; supervisory boards or supervisors, where established, must exercise effective oversight."
-    },
-    {
-      "id": "5018723",
-      "time": "2026-07-31 16:05:57",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【券商交易系統接入將迎規範：不得為特定客戶提供技術或業務資源差異化安排】監管層擬對券商交易資訊系統接入環節進行系統性規範，相關自律管理檔案目前正處在修訂過程中，有望年內出臺。送審稿中提到，券商應當依法合規開展交易資訊系統接入，充分評估自身能力以及客戶交易需求，同等條件下應當引導客戶優先使用券商提供的交易終端，審慎提供交易系統接入服務，公平對待交易資訊接入客戶，不得為特定接入客戶提供技術或者業務資源差異化安排。"
-    },
-    {
-      "id": "mkt:019fb735-661f-7aab-8f2d-849c8735360e",
-      "time": "2026-07-31 16:05:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【TCL Huaxing says team formed for semiconductor glass-based packaging; samples expected in H2】TCL Huaxing CEO Zhao Jun told media at 2026 ChinaJoy the company is advancing R&D on glass-based packaging, has set up a dedicated team and is conducting joint development with target customers. He said related samples are expected to debut in H2 this year and the company will begin constructing a pilot production-line development platform."
-    },
-    {
-      "id": "5018722",
-      "time": "2026-07-31 16:05:47",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【四部門：嚴把董事、高階管理人員准入關口】金融監管總局、中國人民銀行、中國證監會、財政部近日聯合釋出《關於健全金融機構治理的實施意見》，提出22條措施。《實施意見》明確，提升監管有效性。嚴把董事、高階管理人員准入關口，提升其職業操守和專業素養。嚴防違法違規人員在金融行業內“帶病流動”。加大稽查檢查力度，嚴懲違法違規的金融機構、股東、實際控制人、董事、高階管理人員、金融從業人員，嚴懲違規佔用資金、違規融資或擔保、違規轉移資產等行為，及時將會計師事務所等中介機構違法違規線索移送行業主管部門，對重大問題依法依規實行終身問責。推動國有金融機構健全以黨內監督為主導，出資人監督、審計監督、職工民主監督等貫通協調的監督體系。強化“對監管的監管”，完善和落實監督問責機制。"
-    },
-    {
-      "id": "5018721",
-      "time": "2026-07-31 16:05:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【四部門：提升監管精準性】金融監管總局、中國人民銀行、中國證監會、財政部近日聯合釋出《關於健全金融機構治理的實施意見》，提出22條措施。《實施意見》明確，提升監管精準性。堅持風險導向，實施分類監管。推動金融機構建立健全與資產規模、風險特徵、股權結構等相適應的治理結構。加強對金融機構控制權的識別和規範，按照實質重於形式的原則，對股東股權、關聯交易等實施穿透式監管。"
-    },
-    {
-      "id": "5018720",
-      "time": "2026-07-31 16:05:18",
-      "tags": [
-        "行業",
-        "公司",
-        "焦點"
-      ],
-      "text": "【四部門：嚴格規範股東行為 嚴禁金融機構向股東及其關聯方輸送利益】金融監督管理總局等四部門印發關於健全金融機構治理的實施意見。《實施意見》提出，嚴格規範股東行為。金融機構股東應在公司治理框架下行使權利和履行義務，嚴禁濫用股東權利或違規干預金融機構經營管理活動。嚴禁金融機構向股東及其關聯方輸送利益。建立健全股東不當所得追回制度和風險責任事後追償機制。保障中小股東對重大事項的知情、參與決策和監督等權利，董事、監事選舉等重大事項要充分反映中小股東意見。（國家金融監督管理總局）"
-    },
-    {
-      "id": "te:markets:571618",
-      "time": "2026-07-31 16:05:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Titanium Drops by 2.20% — Top commodity losers are Titanium (-2.20%), Lithium Carbonate (-2.05%), Silver (-1.46%) and Gold (-0.97%). Gains are led by Copper (0.61%)."
-    },
-    {
-      "id": "5018719",
-      "time": "2026-07-31 16:04:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST康樂：三價人乳頭瘤病毒疫苗獲國家藥監局批准上市】*ST康樂公告，控股子公司康樂衛士（昆明）生物技術有限公司近日收到國家藥品監督管理局核准簽發的三價人乳頭瘤病毒疫苗（大腸埃希菌）《藥品註冊證書》，批准該預防用生物製品上市。該疫苗適用於9-45歲女性，用於預防HPV16、18、58型病毒感染所致宮頸癌等疾病，是公司首款取得上市許可的疫苗產品。"
-    },
-    {
-      "id": "5018718",
-      "time": "2026-07-31 16:04:52",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【四部門：合理設定同一股東及其關聯方提名董事在董事會中的佔比要求】金融監管總局、中國人民銀行、中國證監會、財政部近日聯合釋出《關於健全金融機構治理的實施意見》，提出22條措施。《實施意見》明確，提升董事會等執行質效。董事會依法依規履行重大決策和監督職責，充分發揮決策主體作用。結合機構定位、股權結構以及董事從業經歷、專業專長、性別年齡等因素，最佳化董事會結構，明晰董事會職責。合理設定同一股東及其關聯方提名董事在董事會中的佔比要求。董事要忠實勤勉履職，對金融機構、職工和金融消費者等利益相關方負責。強化董事履職保障和履職評價。設立監事會或監事的，要充分發揮監督作用。"
-    },
-    {
-      "id": "5018717",
-      "time": "2026-07-31 16:04:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL華星迴應跨界半導體封裝：已組建團隊，預計下半年將展示玻璃基封裝樣品】7月31日，TCL華星CEO趙軍在2026 ChinaJoy期間表示，公司正推進玻璃基相關技術研發，目前已組建專業團隊，並與目標客戶開展聯合攻關和協同開發。趙軍透露，相關樣品預計於今年下半年亮相，公司還將啟動中試線開發平臺籌建。"
-    },
-    {
-      "id": "5018716",
-      "time": "2026-07-31 16:04:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大悅城控股：擬轉讓資產並開展商業不動產REITs申報發行工作】大悅城控股公告稱，為響應商業不動產REITs試點政策號召，公司擬轉讓控股子公司中糧置業持有的大悅城(天津)100%股權，以其持有的天津大悅城購物中心專案為底層資產，開展商業不動產REITs的申報發行工作。本次交易已履行有權決策機構審議程式，相關協議尚未簽署。該事項尚需監管機構審批，存在不確定性，且可能面臨市場、估值、政策等風險。"
-    },
-    {
-      "id": "mkt:019fb733-f3bd-7aab-8f2d-7dd84149c031",
-      "time": "2026-07-31 16:04:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's population aged 60 and above has exceeded 323 million, accounting for 23% of the total population."
-    },
-    {
-      "id": "5018715",
-      "time": "2026-07-31 16:04:13",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【四部門：嚴格規範股東行為】金融監管總局、中國人民銀行、中國證監會、財政部近日聯合釋出《關於健全金融機構治理的實施意見》，提出22條措施。《實施意見》明確，嚴格規範股東行為。金融機構股東應在公司治理框架下行使權利和履行義務，嚴禁濫用股東權利或違規干預金融機構經營管理活動。嚴禁金融機構向股東及其關聯方輸送利益。建立健全股東不當所得追回制度和風險責任事後追償機制。保障中小股東對重大事項的知情、參與決策和監督等權利，董事、監事選舉等重大事項要充分反映中小股東意見。"
-    },
-    {
-      "id": "5018714",
-      "time": "2026-07-31 16:04:03",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【四部門：嚴把股東准入關口】金融監管總局、中國人民銀行、中國證監會、財政部近日聯合釋出《關於健全金融機構治理的實施意見》，提出22條措施。《實施意見》明確，嚴把股東准入關口。構建產業資本和金融資本“防火牆”，嚴禁違規跨業經營、槓桿率過高的企業或存在嚴重失信行為、重大違法違規記錄的企業和個人成為金融機構主要股東或實際控制人。穿透識別金融機構主要股東、實際控制人和受益所有人，強化主要股東和實際控制人的報告義務，嚴禁隱瞞控制權關係、關聯關係和一致行動關係，嚴防虛假出資、迴圈注資、抽逃資本。"
-    },
-    {
-      "id": "5018713",
-      "time": "2026-07-31 16:03:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【截至2025年末 我國60週歲及以上老年人口超3.23億人】今天，民政部、全國老齡辦釋出《2025年度國家老齡事業發展公報》。最新統計顯示，截至2025年末，我國60週歲及以上老年人口32338萬人，佔總人口的23%；全國65週歲及以上老年人口 22365萬人，佔總人口的15.9%。全國65週歲及以上老年人口撫養比23.1%。全國人均預期壽命達79.25歲。（央視新聞）"
-    },
-    {
-      "id": "5018712",
-      "time": "2026-07-31 16:03:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【青達環保：向特定物件發行A股股票申請獲證監會同意註冊批覆】青達環保公告稱，公司近日收到中國證券監督管理委員會出具的批覆，同意公司向特定物件發行股票的註冊申請。本次發行應按報送上海證券交易所的申報檔案和發行方案實施，批覆自同意註冊之日起12個月內有效。公司將在規定期限內辦理相關事項並及時披露資訊，提醒投資者注意風險。"
-    },
-    {
-      "id": "5018711",
-      "time": "2026-07-31 16:03:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬林物流：證券事務代表王盼盼因個人原因辭職】萬林物流公告稱，公司董事會近日收到證券事務代表王盼盼的書面辭職報告，其因個人原因申請辭職，辭職報告自送達董事會之日起生效。辭職后王盼盼不再擔任公司任何職務，相關工作已妥善交接，不會影響公司正常運作。截至公告披露日，王盼盼未持有公司股票，無未履行承諾事項。"
-    },
-    {
-      "id": "mkt:019fb732-cf4d-7aab-8f2d-74330c7fcfe7",
-      "time": "2026-07-31 16:03:08",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "France's CAC 40 rose 1.00% intraday."
     }
   ]
 }
