@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-07 23:26:06",
-  "count": 16063,
+  "updated": "2026-08-07 23:30:08",
+  "count": 16058,
   "items": [
+    {
+      "id": "5031411",
+      "time": "2026-08-07 23:29:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄安全部門取締多個與烏克蘭有關的加密貨幣兌換點 】俄羅斯聯邦安全域性7日釋出通報說，該局與俄內務部日前開展聯合行動，在莫斯科取締9個未經註冊的加密貨幣兌換點。烏克蘭呼叫中心利用這些兌換點，針對俄公民實施遠端詐騙。（新華社）"
+    },
+    {
+      "id": "te:economy:573858",
+      "time": "2026-08-07 23:25:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Climbs on Strong Jobs Data — Canada's 10-year government bond yield rose to 3.65%, approaching the three-month high of 3.66% reached on July 31st, following stronger-than-expected employment data. Canadian employment increased by 75,100 jobs in July, well above expectations for a 15,000 gain, while the unemployment rate fell to a two-year low of 6.4%. The stronger labor market raised expectations of a potential BoC rate hike if energy prices remain elevated. Meanwhile, recent data suggests Canada's economy expanded an annualized 3.4% in the second quarter. Well above the Bank of Canada's expectation of a 2.5% growth rate. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery."
+    },
     {
       "id": "5031410",
       "time": "2026-08-07 23:24:24",
@@ -146420,69 +146440,6 @@
         "Importance 1"
       ],
       "text": "Canada Budget Deficit Shrinks in May — Canada's federal budget deficit narrowed to CAD 0.31 billion in May 2026 from CAD 2.2 billion in the same month a year earlier. Revenues increased 12.6% year-on-year to CAD 41.94 billion, driven primarily by higher income and excise tax receipts. Meanwhile, program expenses, excluding net actuarial losses, rose 6.2% to CAD 36.68 billion, reflecting higher direct program spending and larger transfers to persons, partly offset by lower transfers to provinces, territories and municipalities. Public debt charges increased 12.7% to CAD 5.16 billion due to higher effective interest rates on a larger stock of marketable bonds. Net actuarial losses rose 23.9% to CAD 415 million, remaining unchanged from the previous month. The budgetary deficit before net actuarial losses was CAD 0.1 billion, compared to a deficit of CAD 1.86 billion in the same period a year earlier."
-    },
-    {
-      "id": "mkt:019fb8cb-b844-7aab-8f39-bc91f5166b69",
-      "time": "2026-07-31 23:29:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports Trump's approval rating in his second term has fallen to its lowest level."
-    },
-    {
-      "id": "5019715",
-      "time": "2026-07-31 23:27:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡期貨（KCC1）漲幅超 3%，報每磅 3.34 美元。"
-    },
-    {
-      "id": "te:economy:571822",
-      "time": "2026-07-31 23:27:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Trade Deficit Widens in June — Sri Lanka's trade deficit widened to $829 million in June 2026 from $540 million a year earlier, as import growth outpaced export gains. The external sector continued to reflect the impact of developments in the Middle East. Imports rose 17.3% year-on-year to $1.97 billion, driven by a 40.2% increase in fuel import expenditure, mainly due to higher spending on refined petroleum products. Meanwhile, exports edged up 0.2% to $1.14 billion. The services account surplus narrowed 33.8% from a year earlier to $162 million, as services outflows increased faster than inflows. In the first half of 2026, the cumulative trade deficit widened to $5.5 billion from $3.3 billion in the corresponding period of 2025."
-    },
-    {
-      "id": "5019714",
-      "time": "2026-07-31 23:27:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞總理：同時正與希臘、保加利亞展開談判，保障電力供應需求。"
-    },
-    {
-      "id": "5019713",
-      "time": "2026-07-31 23:26:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【反對按兵不動 達拉斯聯儲行長警告稱不行動難達2%通脹目標】達拉斯聯儲行長洛麗·洛根表示，她對美聯儲維持利率不變的決定持異議是因為她認為，如果央行不採取行動，通脹將無法回落至官員設定的2%目標。“如果沒有政策約束，通脹可能會繼續高於目標水平，直到出現意料之外的衝擊，”洛根週五在宣告中表示。“短期內採取溫和行動將降低日後需要採取更激進行動的可能性。”"
-    },
-    {
-      "id": "mkt:019fb8c8-8036-7aab-8f39-b73d02aa1875",
-      "time": "2026-07-31 23:26:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Romania's prime minister said he has held talks with Ukraine and plans to import electricity during peak-demand hours."
-    },
-    {
-      "id": "5019712",
-      "time": "2026-07-31 23:26:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "羅馬尼亞總理：已與烏克蘭展開磋商，計劃在晚間用電高峰時段自烏克蘭進口電力。"
     }
   ]
 }

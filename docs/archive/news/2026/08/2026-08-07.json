@@ -1,7 +1,27 @@
 {
   "date": "2026-08-07",
-  "count": 2738,
+  "count": 2740,
   "items": [
+    {
+      "id": "5031411",
+      "time": "2026-08-07 23:29:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄安全部門取締多個與烏克蘭有關的加密貨幣兌換點 】俄羅斯聯邦安全域性7日釋出通報說，該局與俄內務部日前開展聯合行動，在莫斯科取締9個未經註冊的加密貨幣兌換點。烏克蘭呼叫中心利用這些兌換點，針對俄公民實施遠端詐騙。（新華社）"
+    },
+    {
+      "id": "te:economy:573858",
+      "time": "2026-08-07 23:25:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Climbs on Strong Jobs Data — Canada's 10-year government bond yield rose to 3.65%, approaching the three-month high of 3.66% reached on July 31st, following stronger-than-expected employment data. Canadian employment increased by 75,100 jobs in July, well above expectations for a 15,000 gain, while the unemployment rate fell to a two-year low of 6.4%. The stronger labor market raised expectations of a potential BoC rate hike if energy prices remain elevated. Meanwhile, recent data suggests Canada's economy expanded an annualized 3.4% in the second quarter. Well above the Bank of Canada's expectation of a 2.5% growth rate. In July, the Bank of Canada held its policy rate at 2.25% for a sixth consecutive meeting, noting that the economy was adjusting to recent shocks and energy-driven inflation pressures were easing. However, policymakers warned that inflation expectations remained elevated and questioned the durability of the recovery."
+    },
     {
       "id": "5031410",
       "time": "2026-08-07 23:24:24",
