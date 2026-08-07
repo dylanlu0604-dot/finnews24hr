@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-07 13:31:13",
-  "count": 16106,
+  "updated": "2026-08-07 13:35:01",
+  "count": 16111,
   "items": [
+    {
+      "id": "mkt:019fdab6-4df7-7aab-8fb0-6630f9bc1717",
+      "time": "2026-08-07 13:33:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage-chip sector remained active; GigaDevice rose over 9%, with broad gains across smaller memory-related names."
+    },
+    {
+      "id": "5030100",
+      "time": "2026-08-07 13:32:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念午後活躍 兆易創新逼近漲停】儲存晶片概念午後活躍，兆易創新逼近漲停，普冉股份、江波龍、德明利、北京君正、朗科科技、佰維儲存、夏農芯創跟漲。"
+    },
+    {
+      "id": "mkt:019fdab4-4e20-7aab-8fb0-5facf6eb6c4b",
+      "time": "2026-08-07 13:31:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's Shenzhen Component Index up 2.00%; Shanghai Composite up 0.72%."
+    },
+    {
+      "id": "mkt:019fdab3-f836-7aab-8fb0-528bbd674138",
+      "time": "2026-08-07 13:30:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Polysilicon most-active contract up more than 6.00% intraday, trading at 38,150 yuan/ton."
+    },
+    {
+      "id": "5030099",
+      "time": "2026-08-07 13:30:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.01%，現報14393.720點；上證指數漲0.71%，現報3928.044點；創業板指漲2.78%，現報3613.465點。"
+    },
+    {
+      "id": "5030098",
+      "time": "2026-08-07 13:30:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報4814.00元。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608073835065829",
+      "time": "2026-08-07 13:30:39",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "法國第二季度ILO失業率為8.3%，預期8.2%，前值8.10%。"
+    },
     {
       "id": "5030097",
       "time": "2026-08-07 13:30:11",
@@ -147104,27 +147181,6 @@
         "其他"
       ],
       "text": "臺灣證交所加權股價指數收高8%報43,119.75。"
-    },
-    {
-      "id": "te:markets:571514",
-      "time": "2026-07-31 13:34:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Eases from 9-Month High — The South Korean won traded around 1,435 per dollar in late July, easing from its strongest level in nine months near 1,418, as the initial boost from reports of foreign exchange intervention by South Korean authorities faded. The currency had strengthened sharply alongside the Japanese yen after markets speculated that Seoul and Tokyo may have taken steps to support their currencies, but both reversed some gains as investors assessed the sustainability of the moves. Despite the pullback, the won has gained more than 8% against the US dollar this month, marking its strongest monthly performance since March 2009. Global risk sentiment improved following a rebound in technology stocks, reducing demand for the greenback. Stronger foreign investor activity in South Korean equities boosted currency flows, while expectations of continued AI-led semiconductor export growth reinforced Korea's external position."
-    },
-    {
-      "id": "5018376",
-      "time": "2026-07-31 13:31:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓華航空航天公司：正在美國尋找建設彈藥工廠的選址。"
     }
   ]
 }
