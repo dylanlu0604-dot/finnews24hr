@@ -1,7 +1,252 @@
 {
-  "updated": "2026-08-07 14:57:57",
-  "count": 16192,
+  "updated": "2026-08-07 15:02:37",
+  "count": 16199,
   "items": [
+    {
+      "id": "mkt:019fdb06-b59b-7aab-8fb2-70032531ba01",
+      "time": "2026-08-07 15:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Index futures midday close】At midday, main contracts of Chinese index futures: CSI 300 (IF) +0.95%, SSE 50 (IH) +1.36%, CSI 500 (IC) +2.12%, CSI 1000 (IM) +2.13%."
+    },
+    {
+      "id": "mkt:019fdb06-7e22-7aab-8fb2-6c049b0f861f",
+      "time": "2026-08-07 15:01:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At midday close, China’s main futures contracts were mostly higher. Ethylene glycol (EG) led gains, up more than 5%; Shanghai crude (SC) rose over 4%. Fuel oil, benzene, synthetic rubber, coking coal and PET bottle-grade chips advanced over 3%; polysilicon gained nearly 3%. Decliners included fiberboard, down more than 1%, and lithium carbonate, down about 1%."
+    },
+    {
+      "id": "5030277",
+      "time": "2026-08-07 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲1.02%，深證成指漲1.42%，創業板指漲1.35%。"
+    },
+    {
+      "id": "5030276",
+      "time": "2026-08-07 15:01:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【A股收評：滬指低開高走漲超1%，創新藥、醫療服務板塊集體爆發】A股三大指數今日集體上漲，截至收盤，上證指數漲1.02%，深證成指漲1.42%，創業板指漲1.35%，北證50漲1.01%，科創50指數漲2.51%。全市場成交額26834億元，較上日放量1359億元，全市場超2800只個股上漲。板塊題材上，醫療服務、元件、創新藥、PCB概念、電子化學品板塊漲幅居前；數字貨幣、軟體開發、遊戲、資料安全、移動支付板塊跌幅居前。盤面上，創新藥板塊低開高走，持續爆發，博騰股份、百普賽斯、瑞康醫藥、哈三聯、百花醫藥等十餘股漲停，藥石科技、皓元醫藥、華蘭醫藥等十餘股漲超10%。PCB概念板塊亦表現強勢，一博科技、寶鼎科技、景旺電子、生益電子、紅板科技等十餘股漲停，勝宏科技、南亞新材、中富電路、銅冠銅箔漲幅居前。電子化學品板塊震盪走高，方邦股份漲停，唯特偶、萊特廣電、天承科技、宏昌電子漲幅居前。數字貨幣板塊表現低迷，吉大正元、高偉達、天融信跌幅居前。遊戲板塊回撥，大晟文化、凱撒文化盤中跌停，盛天網路、中青寶、電魂網路跟跌。"
+    },
+    {
+      "id": "5030275",
+      "time": "2026-08-07 15:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車：確定資產處置價格等相關事項。"
+    },
+    {
+      "id": "5030274",
+      "time": "2026-08-07 15:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典武裝部隊今年徵召約9000人】瑞典武裝部隊6日釋出宣告稱，瑞典今年應徵入伍的約9000人當中，超過5000人8月將開始在瑞典全國各地的武裝部隊單位接受基礎軍事訓練。2026至2027訓練年度期間，瑞典武裝部隊總計將接收超過9000人，這是數十年來規模最大的一次。資料顯示，近年來瑞典徵兵人數呈連年遞增趨勢。（央視新聞）"
+    },
+    {
+      "id": "5030273",
+      "time": "2026-08-07 15:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙6月份房屋交易量同比增長1.6%。"
+    },
+    {
+      "id": "mkt:019fdb05-cc5d-7aab-8fb2-63f789c983c2",
+      "time": "2026-08-07 15:00:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Switzerland's foreign-exchange reserves in July were CHF 768.26 bln; the prior reading was revised from CHF 758.8 bln to CHF 758.851 bln."
+    },
+    {
+      "id": "5030272",
+      "time": "2026-08-07 15:00:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指收盤上漲0.2%，報6290.35點。"
+    },
+    {
+      "id": "5030271",
+      "time": "2026-08-07 15:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士7月外匯儲備 7682.6億瑞郎，前值由7588億瑞郎修正為7588.51億瑞郎。"
+    },
+    {
+      "id": "5030270",
+      "time": "2026-08-07 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤漲跌不一，德國DAX指數漲0.05%，英國富時100指數跌0.19%，法國CAC40指數漲0.35%，歐洲斯托克50指數漲0.39%，義大利富時MIB指數漲0.44%。"
+    },
+    {
+      "id": "5030269",
+      "time": "2026-08-07 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】乙二醇連續漲5.08%，上海原油連續漲4.26%，燃料油連續漲3.17%，丁二烯橡膠連續漲3.05%，純苯連續漲3.05%，焦煤連續漲3.05%，低硫燃料油連續漲3.00%，瓶片連續漲2.95%，多晶矽連續漲2.95%，苯乙烯連續漲2.94%。"
+    },
+    {
+      "id": "5030268",
+      "time": "2026-08-07 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲2.13%， 滬深300指數期貨連續漲0.95%， 中證500指數期貨連續漲2.13%， 上證50指數期貨連續漲1.36%。"
+    },
+    {
+      "id": "mkt:019fdb05-887c-7aab-8fb2-5fc49154a5af",
+      "time": "2026-08-07 15:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Switzerland | Foreign Exchange Reserves (Jul) | actual 768260000000B | previous 758800000000B"
+    },
+    {
+      "id": "5030267",
+      "time": "2026-08-07 14:59:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "8月7日，宇樹科技董事長王興興網上路演時表示，報告期內，公司研發費用金額分別為4,995.18萬元、7,001.70萬元、14,496.56萬元，最近3年複合增長率達70.36%，呈快速增長趨勢，並形成多項核心技術和智慧財產權。截至2026年1月31日，公司擁有262項專利權（含境內發明專利20項）。"
+    },
+    {
+      "id": "te:markets:573681",
+      "time": "2026-08-07 14:59:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Logs Second Straight Weekly Rise, Up 3.2% — The ASX 200 eased 0.1% to close at 9,264 on Friday, snapping a five-session run of gains as traders booked profits after the index hit fresh highs twice this week. Weaker U.S. stock futures also weighed on sentiment amid geopolitical headwinds following reports that Iran may move to restrict “hostile” vessels in the Strait of Hormuz. Commercial services, healthcare, tech, and financials slipped, offset by resilience in non-energy minerals and manufacturing. The big four banks fell between 1.0% and 1.6%, while other notable laggards included Fortescue (-2.3%) and Qantas (-1.1%). Still, markets posted a second successive weekly gain, up 3.2%, boosted by steady buying and a rebound in Australia's June exports. In top trading partner China, exports and imports continued to rise at double-digit rates in July, though both eased from June’s pace. Traders now await next week’s Reserve Bank interest rate decision as slowing activity and sticky costs persist despite three hikes this year"
+    },
+    {
+      "id": "5030266",
+      "time": "2026-08-07 14:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度航空內部備忘錄顯示：冬季將增開米蘭、法蘭克福、蘇黎世、維也納、墨爾本、東京及紐約航線的班次。"
+    },
+    {
+      "id": "mkt:019fdb04-5419-7aab-8fb2-57b025b3251b",
+      "time": "2026-08-07 14:58:41",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix said it is considering additional shareholder-return measures."
+    },
+    {
+      "id": "5030265",
+      "time": "2026-08-07 14:58:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度航空：備忘錄顯示，受燃油價格大幅上漲影響，印度航空曾在7月和8月縮減多數航班服務，自9月1日起將恢復上述大部分服務。"
+    },
+    {
+      "id": "5030264",
+      "time": "2026-08-07 14:58:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張俊傑：螞蟻阿福累計服務使用者過億 25%是老年人】螞蟻集團副總裁、螞蟻健康事業群總裁張俊傑表示，螞蟻集團旗下AI健康助手“螞蟻阿福”累計服務使用者已經超過1.3億，三線城市以下使用者佔比55%，老年使用者佔比25%，凌晨期間諮詢量佔比16%。（新浪科技）"
+    },
+    {
+      "id": "mkt:019fdb04-2d22-7aab-8fb2-4eec3ecd6249",
+      "time": "2026-08-07 14:58:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix will announce a shareholder-return policy in Q3."
+    },
+    {
+      "id": "5030263",
+      "time": "2026-08-07 14:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑期檔票房超80億】目前，2026暑期檔電影總票房（含預售）已突破80億元。《功夫女足》《八仙！》《蜘蛛俠：嶄新之日》《給阿嬤的情書》《小黃人與大怪獸》暫列檔期票房前5名。8月，更多新片蓄勢待發，沈騰新作《歡迎來龍餐館》、動畫電影《去你的島》《大唐妖探》以及進口影片《奧德賽》等即將上映。"
+    },
+    {
+      "id": "mkt:019fdb03-cc17-7aab-8fb2-42e87da3fc19",
+      "time": "2026-08-07 14:58:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【Survey: Institutional forecasts for U.S. July average hourly earnings】Consensus: U.S. July average hourly earnings YoY +3.5% (prior +3.5%; survey range 3.4–3.6). Citigroup and a few forecasters at 3.4%; Standard Chartered, Oxford Economics and BNP Paribas at 3.6%. Reuters expectation +3.5%. Monthly consensus +0.3% (prior +0.3%; range +0.2–+0.3). Citigroup, JP Morgan and Nomura among forecasters at +0.2%; most large banks including Bank of America, UBS, Morgan Stanley, Goldman Sachs and Barclays at +0.3%. Reuters expectation +0.3%."
+    },
+    {
+      "id": "mkt:019fdb03-a4b1-7aab-8fb2-38fdb0a41fb0",
+      "time": "2026-08-07 14:57:56",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix to pay a dividend of 375 won per share."
+    },
+    {
+      "id": "5030262",
+      "time": "2026-08-07 14:57:51",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "SK海力士：將派發每股375韓元股息，計劃在第三季度公佈股東回報政策方案，正在考慮額外的股東回報措施。"
+    },
+    {
+      "id": "5030261",
+      "time": "2026-08-07 14:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國一種免冷藏疫苗臨床試驗取得積極結果】英國南安普敦大學6日釋出訊息說，一種無需冷藏的破傷風-白喉疫苗在臨床試驗中取得積極結果。這種疫苗一旦研發成熟並投入使用，有望改善偏遠地區的疫苗供應，並減少冷鏈儲運產生的碳排放。（新華社）"
+    },
+    {
+      "id": "te:economy:573680",
+      "time": "2026-08-07 14:57:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "France Trade Deficit Narrows More Than Expected — France’s trade deficit narrowed to €5.8 billion in June 2026 from €7.9 billion in May, smaller than the expected €6.5 billion, as exports rose while imports declined. Exports rose 2.6% month-on-month to €54.5 billion, led by natural hydrocarbons and other extractive products (+22.1%), transport equipment (+3.2%), and mechanical, electrical, electronic and computer equipment (+1.3%). By destination, exports increased to the Middle East (+28.4%), Africa (+12.3%), the Americas (+3.1%) and Asia (+2.3%), while shipments to the EU fell 1.2%. Meanwhile, imports fell 0.9% to €60.4 billion, as lower purchases of transport equipment (-5.2%), natural hydrocarbons and other extractive products (-7.7%), and refined petroleum products (-3.7%) partially offset higher purchases of mechanical, electrical, electronic and computer equipment (+4.8%). By origin, imports rose from Asia (+5.1%) and the Americas (+1.2%), while declining from the EU (-0.4%), Africa (-3.0%) and the Middle East (-34.0%)."
+    },
     {
       "id": "5030260",
       "time": "2026-08-07 14:57:11",
@@ -147742,177 +147987,6 @@
         "市場"
       ],
       "text": "米蘭上市的意法半導體股價早盤上漲4.4%，Technoprobe上漲4%。"
-    },
-    {
-      "id": "5018519",
-      "time": "2026-07-31 15:02:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：泰國第二季度經濟環比增速放緩。"
-    },
-    {
-      "id": "5018518",
-      "time": "2026-07-31 15:02:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股收評：創業板指高開走弱漲3.06% AI應用方向全面走強】截至收盤，上證指數漲0.72%報3832.26點，深證成指漲2.21%報13578.93點，創業板指漲3.06%報3343.96點，北證50漲3.26%報1083.27點。三市成交額25598億元，較上日放量2014億元。全市場近4700只個股上漲。板塊題材上，智譜AI、算力租賃、元件板塊漲幅居前；銀行板塊跌幅居前。盤面上，智譜AI概念持續走高，傳智教育5連板，正和生態、易點天下、凱文教育、藍色游標、威派格、深桑達A、中文線上漲停，每日互動、值得買、優刻得漲超15%，新致軟體、科藍軟體、海天瑞聲、漢得資訊、青雲科技、光雲科技、凡拓數創、拓斯達、華宇軟體、首都線上、因賽集團漲超10%。算力租賃板塊震盪走高，浙文互聯、利通電子、證通電子、三人行、崑崙萬維、康惠股份、協鑫能科、盈峰環境、雲賽智聯、寧夏建材、深桑達A、美利雲、天娛數科、宏景科技、東陽光、潤建股份漲停，協創資料、優刻得、網宿科技漲超15%。元件板塊高開走弱，寶鼎科技、泰晶科技漲停，一博科技漲超10%，南亞新材、中英科技、弘信電子、鵬鼎控股、三環集團跟漲。銀行板塊震盪走弱，寧波銀行跌超3%，農業銀行、招商銀行、浦發銀行、工商銀行跟跌。"
-    },
-    {
-      "id": "5018517",
-      "time": "2026-07-31 15:01:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：6月泰國經濟較上月保持平穩。"
-    },
-    {
-      "id": "5018516",
-      "time": "2026-07-31 15:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《求是》雜誌發表習近平總書記重要文章《加快建設健康中國》】8月1日出版的第15期《求是》雜誌將發表中共中央總書記、國家主席、中央軍委主席習近平的重要文章《加快建設健康中國》。文章強調，到2035年建成健康中國，是中央作出的一項戰略決策。“十五五”是實現這一目標的關鍵時期，必須統籌謀劃、加緊推進，力求取得決定性進展。(新華社)"
-    },
-    {
-      "id": "5018515",
-      "time": "2026-07-31 15:01:13",
-      "tags": [
-        "宏觀",
-        "其他",
-        "焦點"
-      ],
-      "text": "【加一箱油將多花27元】7月31日，記者從國家發展改革委獲悉，今日24時國內成品油調價視窗將開啟。據國家發展改革委價格監測中心監測，本輪成品油調價週期內（7月17日24時——7月31日24時），受美伊軍事衝突反覆等因素影響，國際油價整體漲多跌少、呈階段性震盪走勢，本輪週期均價大幅高於上一輪。7月31日24時起，國內汽、柴油零售限價每噸分別上調685元和655元。全國平均來看，92號汽油、95號汽油和0號柴油每升分別上調0.54、0.57、0.56元。央視財經記者給您算了一筆賬，單次加滿一箱50L的92號汽油，將多花27元。（央視財經）"
-    },
-    {
-      "id": "5018514",
-      "time": "2026-07-31 15:01:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：雲端計算ETF領漲9.86%，銀行ETF領跌1.84%】ETF收盤漲跌不一，雲端計算ETF（159527）領漲9.86%，線上消費ETF（159725）漲9.47%，創業板軟體ETF（159256）漲9.45%，銀行ETF（515290）領跌1.84%，標普油氣ETF（513350）跌1.67%，港股紅利低波ETF（159569）跌1.66%。"
-    },
-    {
-      "id": "5018513",
-      "time": "2026-07-31 15:01:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數漲0.72%，深證成指漲2.21%，創業板指漲3.06%。"
-    },
-    {
-      "id": "5018511",
-      "time": "2026-07-31 15:00:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【“學習強國”與高德達成戰略合作，聯合釋出公益產品“長征·星火”】在中宣部宣傳輿情研究中心指導下，“學習強國”學習平臺與阿里巴巴集團旗下高德達成戰略合作，在北京舉行簽約儀式，雙方將在出行導航服務、紅色資源的數字化保護與利用、共建旅遊生態、推動品牌聯動、探索位置服務與AI智慧體融合等多個方面展開合作。活動現場，“學習強國”與高德共同宣佈，由雙方聯合打造的公益產品“長征·星火”將於8月1日正式在雙方平臺上線，藉助數字化力量，讓長征精神在新時代煥發出更加熾熱的生命力。（新浪科技）"
-    },
-    {
-      "id": "5018510",
-      "time": "2026-07-31 15:00:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行：泰國6月出口同比增長21.1%。"
-    },
-    {
-      "id": "5018509",
-      "time": "2026-07-31 15:00:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男稱：我們的分析顯示，企業破產主要由勞動力短缺及其他與利息償付無關的因素導致。"
-    },
-    {
-      "id": "5018508",
-      "time": "2026-07-31 15:00:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.99%，成分股中，中控技術漲15.25%，生益電子漲14.68%，芯原股份漲13.39%，盛科通訊漲12.60%。"
-    },
-    {
-      "id": "5018507",
-      "time": "2026-07-31 15:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川阿壩馬爾康“11·11”紅旗大橋垮塌災害調查報告公佈】日前，四川省政府常務會議審議透過阿壩馬爾康“11·11”紅旗大橋垮塌災害調查報告。經調查認定，紅旗大橋右岸邊坡地質條件複雜，巖體裂隙發育、強卸荷帶深度大，庫水抬升浸泡後巖體軟化劣化、承載能力降低，加之通道建設擾動、橋樑荷載等因素疊加，突發水庫誘發型基岩邊坡坐落式深層滑坡，直接導致紅旗大橋垮塌災害發生。另外，調查還查明相關勘察單位未依規開展右岸引橋水庫坍岸區域工程地質勘察和橋樑岸坡穩定性評價，勘察工作弄虛作假，致使橋軸線定位和橋樑設計缺少充分依據、部分工程防範措施不到位，埋下了安全隱患。同時暴露出在庫區橋樑安全隱患排查整治、監測預警不到位等方面的問題。（央視新聞）"
-    },
-    {
-      "id": "5018506",
-      "time": "2026-07-31 15:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報58.41美元/盎司。"
-    },
-    {
-      "id": "5018505",
-      "time": "2026-07-31 15:00:12",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "國務院任免國家工作人員。任命蔣成華為商務部副部長。免去蔣成華的商務部國際貿易談判副代表職務。"
-    },
-    {
-      "id": "5018504",
-      "time": "2026-07-31 15:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】碳酸鋰連續跌4.84%，焦煤連續跌4.41%，燃料油連續跌3.68%，集運指數歐線期貨連續漲3.13%，焦炭連續跌3.12%。"
-    },
-    {
-      "id": "5018503",
-      "time": "2026-07-31 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.61%， 滬深300指數期貨連續漲0.55%， 中證500指數期貨連續漲1.66%， 上證50指數期貨連續漲0.18%。"
-    },
-    {
-      "id": "5018502",
-      "time": "2026-07-31 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲0.6%，英國富時100指數跌0.1%，法國CAC40指數漲0.92%，歐洲斯托克50指數漲1.53%，義大利富時MIB指數漲1.29%。"
-    },
-    {
-      "id": "5018501",
-      "time": "2026-07-31 14:59:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博雷頓計劃2027年進入規模化盈利，2031年年度利潤目標超50億元】7月31日，博雷頓計劃於2027年進入規模化盈利階段，此後數年利潤目標為“每年翻一倍”。博雷頓董事長陳方明對介面新聞記者表示，公司目標是到2031年實現年度利潤超過50億元。（介面新聞）"
-    },
-    {
-      "id": "5018500",
-      "time": "2026-07-31 14:58:33",
-      "tags": [
-        "宏觀",
-        "行業",
-        "焦點"
-      ],
-      "text": "【國內汽、柴油價格7月31日起每噸分別上調685元、655元】7月17日國內成品油價格調整以來，國際市場原油價格劇烈震盪，前幾日連續大幅上漲後回落，近日又再度衝高，本次調價的前10個工作日平均價格高於上次調價前10個工作日平均價格。根據國際市場油價變化情況，自7月31日24時起，國內汽、柴油（標準品）價格每噸分別上調685元、655元。(發改委)"
-    },
-    {
-      "id": "5018499",
-      "time": "2026-07-31 14:58:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI先知跨界操盤對沖基金遭遇重大損失 城堡投資24小時內進場救火】他被譽為AI界的“諾查丹瑪斯”(Nostradamus)，一位對未來做出大膽預言的年輕先知。“用不了多久，全世界都會醒來，”從科技預言家轉型為對沖基金經理的Leopold Aschenbrenner曾在2024年如此預測。本週，世界的確醒來了，只是方式與Aschenbrenner預見的大相逕庭。隨著惴惴不安的銀行開始要求他為自己的交易提供愈來愈多擔保品，他那隻表現亮眼的對沖基金Situational Awareness轉眼之間被迫出售價值數十億美元、近期急跌的科技投資部位。然後，億萬富豪Ken Griffin登場。 據一位知情人士透露，在不到24小時內，Griffin的城堡投資聯絡了Situational Awareness，其間Griffin和Aschenbrenner之間談了一次話，城堡投資以折扣價收購了這批投資。這位知情人士因涉及未公開資訊而要求匿名。對Aschenbrenner來說，這無疑是一次驚人的逆轉。這位前OpenAI研究員大約兩年前創辦這個對沖基金之前，沒有任何投資經驗。他這家新創公司的資產規模從7月初的450億美元暴跌至約100億美元。"
     }
   ]
 }
