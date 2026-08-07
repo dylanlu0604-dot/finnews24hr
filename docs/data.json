@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-07 21:02:07",
-  "count": 16124,
+  "updated": "2026-08-07 21:06:13",
+  "count": 16120,
   "items": [
+    {
+      "id": "mkt:019fdc53-f658-7aab-8fbb-0fe0e3105a00",
+      "time": "2026-08-07 21:05:17",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Surprise US payrolls lift yen; traders stay wary of Japanese intervention risk】Surprise weakness in US nonfarm payrolls sent the yen sharply higher on Friday, but traders remained cautious about renewed Japanese intervention after Tokyo and Washington jointly stepped into FX markets only days earlier to support the weak currency. USD/JPY slid as much as 1.1% to about 156.68, well below July's 40-year peak of 163.99. It is unclear whether Japanese authorities participated in the move. Moves at the short end of the US yield curve reflected dollar weakness and a softer Fed tightening outlook. Mitsubishi UFJ senior FX strategist Lee Hardman said: \"Nonfarm payrolls were much lower than expected, so dollar weakness is reasonable—look at the front end of the US yield curve. This is a rare downside surprise and clearly weakens market expectations for Fed tightening. We expect a marked market reaction and broad dollar selling.\""
+    },
+    {
+      "id": "5031220",
+      "time": "2026-08-07 21:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：出口商向墨西哥售出286,097公噸玉米，其中29,808公噸將於2026/2027年度交付，256,289公噸將於2027/2028年度交付。"
+    },
+    {
+      "id": "5031219",
+      "time": "2026-08-07 21:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：未落實更迭伊朗政權計劃 摩薩德高官被解職】以色列媒體6日披露，以色列情報和特勤局（摩薩德）兩名高階官員因未能落實在伊朗實現政權更迭的計劃，被摩薩德局長羅曼·戈夫曼解職。（新華社）"
+    },
+    {
+      "id": "5031218",
+      "time": "2026-08-07 21:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比特幣升至6.5萬美元上方】8月7日，行情顯示，比特幣漲至65234.3美元，過去24小時內漲1.3%；以太坊漲至1931.07美元，過去24小時內漲1.68%。"
+    },
+    {
+      "id": "5031217",
+      "time": "2026-08-07 21:03:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "ELANCO公司的新世界螺旋蠅藥物獲得FDA緊急批准。"
+    },
+    {
+      "id": "mkt:019fdc51-b286-7aab-8fbb-025be66738e0",
+      "time": "2026-08-07 21:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG approves $100 mln grant to modernize Syria's financial sector."
+    },
+    {
+      "id": "5031216",
+      "time": "2026-08-07 21:02:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "DRAFTKINGS股價延續漲勢，上漲5.8%。"
+    },
+    {
+      "id": "5031215",
+      "time": "2026-08-07 21:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽對10市啟動洪水防禦Ⅳ級應急響應】安徽省水利廳對合肥、滁州、六安、馬鞍山、蕪湖、宣城、銅陵、池州、安慶、黃山共10市啟動洪水防禦Ⅳ級應急響應。據氣象部門預報，今年第13號颱風“白海豚”將於8月9日下午至10日早晨在浙江到福建北部沿海地區登陸，並將於10日夜間至11日早晨經過安徽省與江西省交界處附近。（新華社）"
+    },
+    {
+      "id": "5031214",
+      "time": "2026-08-07 21:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受颱風“白海豚”影響，長三角鐵路部分線路列車臨時停運】中國鐵路上海局集團有限公司‌介紹，為確保鐵路運輸和旅客出行安全，鐵路部門密切關注颱風“白海豚”路徑變化和後續影響，及時啟動防颱防汛應急響應，採取超前預警、主動避險等措施，調整部分線路列車開行方案，計劃對8月9日至10日衢九鐵路、滬昆鐵路、蕭甬鐵路，8月9日至11日衢寧鐵路、甬金鐵路，8月9日至12日金千鐵路，8月9日至13日皖贛鐵路等部分割槽段部分時段途經列車，採取臨時停運措施。"
+    },
+    {
+      "id": "5031213",
+      "time": "2026-08-07 21:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Susquehanna將西部資料股票目標價格從500美元上調至525美元。"
+    },
     {
       "id": "5031212",
       "time": "2026-08-07 21:00:13",
@@ -146995,129 +147078,6 @@
         "國際"
       ],
       "text": "【哈馬斯就加沙停火下一階段立場發表宣告】當地時間31日，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發表正式宣告。宣告稱，該組織與加沙地帶各派別達成一致，以負責任和積極的態度對待談判程序，也回應了相關斡旋方為完成落實停火協議第二階段所提出的建議。但宣告強調，停火協議第二階段的落實存在前提，完全取決於以色列是否切實履行第一階段的所有條款。（央視新聞）"
-    },
-    {
-      "id": "5019484",
-      "time": "2026-07-31 21:04:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【岱勒新材：段志明及其一致行動人合計持股比例降至29.99999%】岱勒新材公告稱，2025年6月12日至2026年7月31日，資訊披露義務人段志明及其一致行動人因減持、持股比例被動稀釋，合計持股比例由34.99998%降至29.99999%。本次權益變動系段志明、段志勇因個人資金需求減持，及實施2021年限制性股票激勵計劃預留授予第二個歸屬期導致被動稀釋所致。截至公告披露日，減持計劃尚未實施完畢，後續將按要求披露進展。資訊披露義務人不排除未來12個月內增持、減持公司股份。"
-    },
-    {
-      "id": "5019483",
-      "time": "2026-07-31 21:04:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦預計 7 月通脹率處於 9%-10% 區間。"
-    },
-    {
-      "id": "5019482",
-      "time": "2026-07-31 21:04:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華髮股份：子公司涉仲裁案 累計訴訟仲裁金額約13.86億元】華髮股份公告稱，公司合併報表範圍內子公司珠海華髮房產、深圳融華置地與融創文旅公司的合作合同糾紛仲裁案已被廣州仲裁委員會受理，尚未開庭。融創文旅公司仲裁請求金額暫計4.82億元，珠海華髮房產和深圳融華置地反請求金額為4.815億元。自前次公告至本公告披露日，公司累計訴訟、仲裁金額約13.86億元，佔2025年末經審計淨資產的14.67%。目前暫無法判斷對公司利潤的影響。"
-    },
-    {
-      "id": "5019481",
-      "time": "2026-07-31 21:03:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【非盟會議警告“超級厄爾尼諾”將使非洲面臨嚴峻挑戰】非洲聯盟農業、農村發展、藍色經濟和可持續環境委員摩西·維拉卡蒂30日在衣索比亞首都亞的斯亞貝巴表示，今年晚些時候可能出現數十年來最強厄爾尼諾事件，非洲大陸許多地區將面臨極端天氣和災害風險。他呼籲非洲各國加強科學預警，採取切實有效的防災措施，保護生命、生計和經濟發展。 維拉卡蒂當天在非盟總部舉行的應對厄爾尼諾部長級特別磋商會議上說，科學預測表明，今年晚些時候發生“超級厄爾尼諾事件”的機率高達90%，預計強度峰值將出現在2026年11月至2027年2月之間。“這將是自1950年以來最強的一次（厄爾尼諾事件）。這並非遙遠的可能事件，而是迫在眉睫的風險，我們需要在國家、區域和大陸層面立即做好準備。” 維拉卡蒂指出，根據預測，非洲大陸許多地區可能面臨嚴峻挑戰，包括嚴重乾旱、毀滅性洪水、持續熱浪、糧食生產中斷、水資源短缺、疾病暴發、人道主義需求增加等。“這些影響不僅會波及弱勢家庭，還會給各國經濟、公共財政和區域穩定造成巨大壓力。” “歷史表明，及時採取行動能夠挽救生命、保護經濟並維護發展成果。”維拉卡蒂說，非盟隨時準備與成員國、專業機構和發展夥伴等攜手合作，加快落實各項措施，調動資源，支援整個非洲大陸的防災減災工作。 (新華社)"
-    },
-    {
-      "id": "5019480",
-      "time": "2026-07-31 21:03:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "波斯灣海峽管理局：由於美國採取挑釁行動，霍爾木茲海峽通航無法正常進行。公告稱。一旦恢復穩定與平靜，所有申請將按照順序和時間安排進行稽核，許可證將逐步發放。"
-    },
-    {
-      "id": "5019479",
-      "time": "2026-07-31 21:03:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶市九龍坡區委原副書記羅林泉被開除黨籍：與不法商人深度勾連，大搞權錢交易】經查，羅林泉喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；廉潔底線失守，違規收受禮金，違規借用私企老闆車輛，違規從事營利活動；貪慾作祟，與不法商人深度勾連，大搞權錢交易，利用職務上的便利以及職權或者地位形成的便利條件為他人在專案承攬、企業經營等方面謀利，並非法收受鉅額財物。"
-    },
-    {
-      "id": "5019478",
-      "time": "2026-07-31 21:03:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利國家統計局：智利6月銅產量同比增長5.1%。"
-    },
-    {
-      "id": "5019477",
-      "time": "2026-07-31 21:02:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【東誠藥業：4種原料藥獲德國漢堡衛生當局GMP證書】東誠藥業公告，公司近日收到德國漢堡衛生當局頒發的肝素鈉原料藥、依諾肝素鈉原料藥、那屈肝素鈣原料藥和硫痠軟骨素鈉原料藥共4種原料藥GMP證書，有效期均為透過檢查之日起三年，標誌著上述產品可繼續在歐盟市場銷售。"
-    },
-    {
-      "id": "5019476",
-      "time": "2026-07-31 21:02:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多總統諾沃亞表示，計劃 8 月削減補貼燃油售價。"
-    },
-    {
-      "id": "5019475",
-      "time": "2026-07-31 21:02:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多總統諾沃亞稱，當局考慮洽談薩查油田石油服務合作協議。"
-    },
-    {
-      "id": "te:markets:571777",
-      "time": "2026-07-31 21:02:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Muted as Markets Assess GDP and Earnings — Futures tracking the S&P/TSX Composite Index were little changed on Friday as investors assessed another round of corporate earnings and Canada's May GDP report. Fairfax Financial and Cameco reported revenue above expectations, although both missed EPS forecasts. Enbridge beat estimates for second-quarter adjusted profit. Imperial Oil reported quarterly earnings above expectations as profit doubled on higher crude prices and stronger refining margins. On the data front, Canada's economy expanded 0.3% in May, the second consecutive monthly increase and slightly above forecasts of 0.2%, reinforcing the BoC's view that the economy is adjusting to recent shocks. Meanwhile, gold prices fell as a stronger US dollar weighed on mining stocks. Oil prices extended gains, supporting energy shares but fueling inflation concerns."
-    },
-    {
-      "id": "mkt:019fb845-16c9-7aab-8f36-655dc385683e",
-      "time": "2026-07-31 21:02:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【Hamas official says group agreed to latest ceasefire roadmap】Senior Hamas official Naim said after intense negotiations Hamas has agreed to the latest ceasefire roadmap. He said \"the ball is now on Israel's side\" and that Israel must fulfil its commitments under the deal. Mediators and guarantors must oversee and compel Israeli compliance to prevent violations. The next phase will not begin until first-stage preconditions are fully implemented."
-    },
-    {
-      "id": "5019474",
-      "time": "2026-07-31 21:02:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多力爭 2027 年將石油日產量提升至 50 萬桶以上。"
-    },
-    {
-      "id": "5019473",
-      "time": "2026-07-31 21:02:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新築股份：資產出售及購買資產交易對價合計70.58億元】新築股份公告，公司披露資產出售、發行股份及支付現金購買資產並募集配套資金暨關聯交易報告書（草案）摘要（修訂稿）。本次交易擬置入資產蜀道清潔能源60%股權交易對價為56.03億元，擬出售資產交易對價為14.55億元。交易完成後，公司控股股東仍為蜀道集團，實際控制人仍為四川省國資委。本次交易已獲四川省國資委批准，尚需深交所稽核透過及中國證監會同意註冊。"
     }
   ]
 }

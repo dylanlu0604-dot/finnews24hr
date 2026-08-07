@@ -1,7 +1,90 @@
 {
   "date": "2026-08-07",
-  "count": 2439,
+  "count": 2449,
   "items": [
+    {
+      "id": "mkt:019fdc53-f658-7aab-8fbb-0fe0e3105a00",
+      "time": "2026-08-07 21:05:17",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Surprise US payrolls lift yen; traders stay wary of Japanese intervention risk】Surprise weakness in US nonfarm payrolls sent the yen sharply higher on Friday, but traders remained cautious about renewed Japanese intervention after Tokyo and Washington jointly stepped into FX markets only days earlier to support the weak currency. USD/JPY slid as much as 1.1% to about 156.68, well below July's 40-year peak of 163.99. It is unclear whether Japanese authorities participated in the move. Moves at the short end of the US yield curve reflected dollar weakness and a softer Fed tightening outlook. Mitsubishi UFJ senior FX strategist Lee Hardman said: \"Nonfarm payrolls were much lower than expected, so dollar weakness is reasonable—look at the front end of the US yield curve. This is a rare downside surprise and clearly weakens market expectations for Fed tightening. We expect a marked market reaction and broad dollar selling.\""
+    },
+    {
+      "id": "5031220",
+      "time": "2026-08-07 21:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：出口商向墨西哥售出286,097公噸玉米，其中29,808公噸將於2026/2027年度交付，256,289公噸將於2027/2028年度交付。"
+    },
+    {
+      "id": "5031219",
+      "time": "2026-08-07 21:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：未落實更迭伊朗政權計劃 摩薩德高官被解職】以色列媒體6日披露，以色列情報和特勤局（摩薩德）兩名高階官員因未能落實在伊朗實現政權更迭的計劃，被摩薩德局長羅曼·戈夫曼解職。（新華社）"
+    },
+    {
+      "id": "5031218",
+      "time": "2026-08-07 21:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比特幣升至6.5萬美元上方】8月7日，行情顯示，比特幣漲至65234.3美元，過去24小時內漲1.3%；以太坊漲至1931.07美元，過去24小時內漲1.68%。"
+    },
+    {
+      "id": "5031217",
+      "time": "2026-08-07 21:03:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "ELANCO公司的新世界螺旋蠅藥物獲得FDA緊急批准。"
+    },
+    {
+      "id": "mkt:019fdc51-b286-7aab-8fbb-025be66738e0",
+      "time": "2026-08-07 21:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG approves $100 mln grant to modernize Syria's financial sector."
+    },
+    {
+      "id": "5031216",
+      "time": "2026-08-07 21:02:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "DRAFTKINGS股價延續漲勢，上漲5.8%。"
+    },
+    {
+      "id": "5031215",
+      "time": "2026-08-07 21:02:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽對10市啟動洪水防禦Ⅳ級應急響應】安徽省水利廳對合肥、滁州、六安、馬鞍山、蕪湖、宣城、銅陵、池州、安慶、黃山共10市啟動洪水防禦Ⅳ級應急響應。據氣象部門預報，今年第13號颱風“白海豚”將於8月9日下午至10日早晨在浙江到福建北部沿海地區登陸，並將於10日夜間至11日早晨經過安徽省與江西省交界處附近。（新華社）"
+    },
+    {
+      "id": "5031214",
+      "time": "2026-08-07 21:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受颱風“白海豚”影響，長三角鐵路部分線路列車臨時停運】中國鐵路上海局集團有限公司‌介紹，為確保鐵路運輸和旅客出行安全，鐵路部門密切關注颱風“白海豚”路徑變化和後續影響，及時啟動防颱防汛應急響應，採取超前預警、主動避險等措施，調整部分線路列車開行方案，計劃對8月9日至10日衢九鐵路、滬昆鐵路、蕭甬鐵路，8月9日至11日衢寧鐵路、甬金鐵路，8月9日至12日金千鐵路，8月9日至13日皖贛鐵路等部分割槽段部分時段途經列車，採取臨時停運措施。"
+    },
+    {
+      "id": "5031213",
+      "time": "2026-08-07 21:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Susquehanna將西部資料股票目標價格從500美元上調至525美元。"
+    },
     {
       "id": "mkt:019fdc4f-520c-7aab-8fba-fd079299f55d",
       "time": "2026-08-07 21:00:13",
