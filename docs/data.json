@@ -1,7 +1,132 @@
 {
-  "updated": "2026-08-07 14:02:29",
-  "count": 16128,
+  "updated": "2026-08-07 14:06:24",
+  "count": 16132,
   "items": [
+    {
+      "id": "5030137",
+      "time": "2026-08-07 14:05:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將北歐半導體目標股價從185挪威克朗下調至175挪威克朗。"
+    },
+    {
+      "id": "mkt:019fdad3-9326-7aab-8fb1-1f85201a18e8",
+      "time": "2026-08-07 14:05:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Nifty Financial Services index fell 1%."
+    },
+    {
+      "id": "5030136",
+      "time": "2026-08-07 14:05:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "芬蘭航空集團中東航線運力已降至零。"
+    },
+    {
+      "id": "mkt:019fdad3-3700-7aab-8fb1-11f85d0a4a9c",
+      "time": "2026-08-07 14:05:02",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK July Halifax seasonally adjusted house price index YoY 0.1%, below consensus 0.4% and down from a prior 0.6%."
+    },
+    {
+      "id": "mkt:019fdad3-163b-7aab-8fb1-0ca66b26497f",
+      "time": "2026-08-07 14:04:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Halifax House Price Index (YoY) (Jul) | actual 0.1% | consensus 0.4% | previous 0.6%"
+    },
+    {
+      "id": "mkt:019fdad2-f76a-7aab-8fb1-04103080abc9",
+      "time": "2026-08-07 14:04:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Some CCC-designated labs' business scopes revoked across nine product categories】The National Certification and Accreditation Administration recently carried out capability checks on previously designated CCC laboratories covering nine product areas — fuses, small electric motors, automotive safety glass, seat belts, external vehicle lighting and light-signalling devices, indirect vision devices for motor vehicles, car seats and headrests, vehicle driving recorders, and vehicle reflective markings."
+    },
+    {
+      "id": "5030135",
+      "time": "2026-08-07 14:04:44",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月Halifax季調後房價指數月率 0%，預期0.1%，前值0.2%。"
+    },
+    {
+      "id": "mkt:019fdad2-a946-7aab-8fb0-fd8c933cab69",
+      "time": "2026-08-07 14:04:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Halifax seasonally adjusted house price index MoM 0% in July (exp 0.1%, prior 0.2%)."
+    },
+    {
+      "id": "mkt:019fdad2-8fbe-7aab-8fb0-f2af4c208a2b",
+      "time": "2026-08-07 14:04:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Halifax House Price Index (MoM) (Jul) | actual 0% | consensus 0.1% | previous 0.2%"
+    },
+    {
+      "id": "5030134",
+      "time": "2026-08-07 14:04:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4340美元/盎司，日內漲0.94%。"
+    },
+    {
+      "id": "5030133",
+      "time": "2026-08-07 14:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美科學家首次用AI設計出新型病毒】斯坦福大學的研究人員據悉開發了一款名為“Evo 2”的生成式AI程式，該程式能夠編寫新的基因組——即編碼在DNA中的生命遺傳指令。他們利用該程式設計並製造了16種合成噬菌體，這是一種能夠感染細菌的小型病毒，有時可替代抗生素來殺滅致病細菌。該研究成果於週四發表在了《科學》雜誌上。"
+    },
+    {
+      "id": "mkt:019fdad2-08ac-7aab-8fb0-ef31c0c485dd",
+      "time": "2026-08-07 14:03:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK July seasonally adjusted Halifax house price index has not yet been released."
+    },
+    {
+      "id": "mkt:019fdad0-f892-7aab-8fb0-e51afb250e7f",
+      "time": "2026-08-07 14:02:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South-to-North Water Diversion middle route transfers exceed 80 billion cubic metres】China South-to-North Water Diversion Group said as of Aug 7 the middle-route project has cumulatively transferred more than 80 billion cubic metres to northern China, benefiting about 118 million people in Henan, Hebei, Tianjin and Beijing and supplying 27 large- and medium-sized cities and 243 counties, county-level cities and districts along the route."
+    },
+    {
+      "id": "5030132",
+      "time": "2026-08-07 14:02:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【涉9種產品領域 部分CCC認證指定實驗室業務範圍被登出】國家認監委近日對熔斷體、小功率電動機、汽車安全玻璃、汽車安全帶、機動車外部照明及光訊號裝置、機動車輛間接視野裝置、汽車座椅及座椅頭枕、汽車行駛記錄儀、車身反游標識等9種產品領域原有指定實驗室進行了能力核查。按照《中華人民共和國認證認可條例》《強制性產品認證機構和實驗室管理辦法》等規定，釋出熔斷體等9種產品領域原有指定實驗室能力核查結果，包括CCC認證指定實驗室名單和登出部分CCC認證指定實驗室業務範圍名單。"
+    },
     {
       "id": "mkt:019fdad0-3aad-7aab-8fb0-dee7334c9451",
       "time": "2026-08-07 14:01:47",
@@ -39,6 +164,15 @@
         "其他"
       ],
       "text": "保時捷上半年調整後稅後利潤9.49億歐元，同比下降15%。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608073835092562",
+      "time": "2026-08-07 14:00:30",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國6月季調後貿易帳154億歐元，預期174億歐元，前值191億歐元。"
     },
     {
       "id": "mkt:019fdace-e779-7aab-8fb0-ca3e21d05376",
@@ -147242,110 +147376,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Poised for Strong Open — European equity markets were set to open higher on Friday, building on the previous session’s gains as sentiment improved amid a global rally in technology stocks and renewed optimism surrounding the artificial intelligence sector. Semiconductor shares in the US and Asia led the advance, with strong earnings from Microsoft and Amazon reinforcing confidence in continued hyperscaler investment and resilient AI-driven demand. In Europe, investors will focus on July inflation data from the Eurozone, France, and Italy, along with Germany’s latest unemployment figures. On the corporate front, earnings reports are due from Linde, Enel, AXA, ENGIE, and NatWest, among others. In premarket trading, futures for both the Euro Stoxx 50 and the Stoxx 600 were up around 0.8%."
-    },
-    {
-      "id": "mkt:019fb6c7-dceb-7aab-8f27-d2f5634653ca",
-      "time": "2026-07-31 14:06:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Al Jazeera, citing sources, reported that dozens of Israeli settlers, under protection of the Israeli military, are storming the western part of Nablus."
-    },
-    {
-      "id": "5018406",
-      "time": "2026-07-31 14:06:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌0.5個基點，至2.79%。"
-    },
-    {
-      "id": "5018405",
-      "time": "2026-07-31 14:06:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宇瞳光學等成立科技公司，含光電子器件製造業務】企查查APP顯示，近日，深圳宇瞳光互連科技有限公司成立，法定代表人為何敏超，經營範圍包含：光學儀器製造；光學儀器銷售；電子元器件製造；電子元器件零售；光電子器件製造；光電子器件銷售等。企查查股權穿透顯示，該公司由宇瞳光學全資子公司東莞市宇瞳精密光學有限公司等共同持股。"
-    },
-    {
-      "id": "5018404",
-      "time": "2026-07-31 14:05:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【直擊ChinaJoy 2026 ：宇樹科技攜4臺G1系列人形機器人現場熱舞】今日，第二十三屆ChinaJoy在上海新國際博覽中心正式開幕。宇樹科技攜人形機器人、 四足機器人、行業解決方案及資料採集方案等全產品矩陣亮相。新浪科技在現場看到，量產級人形機器人G1是本次舞臺展示主力，現場四臺G1透過定位群控完成整齊劃一的舞蹈編排。據瞭解，G1整機約132cm 高、約35kg重，擁有23至43個關節自由度，是宇樹人形機器人量產化的核心產品。（新浪科技）"
-    },
-    {
-      "id": "5018403",
-      "time": "2026-07-31 14:05:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小鵬汽車、智元機器人等將率先接入Seedance 2.5】火山引擎訊息，今天，新一代影片生成模型Seedance 2.5正式釋出。針對企業使用者，火山引擎將於近期上線API服務。徐工集團、小鵬汽車、智元機器人、靈初智慧、微分智飛、穹徹智慧、Xspark AI（無界智航）等多家企業已與火山引擎達成合作意向，將率先接入Seedance 2.5。"
-    },
-    {
-      "id": "te:economy:571529",
-      "time": "2026-07-31 14:04:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Nationwide Housing Prices YoY",
-        "Importance 2"
-      ],
-      "text": "UK House Price Growth Slows in July — The UK Nationwide House Price Index rose 1.8% year-on-year in July 2026, slowing from a 2.2% increase in June and coming in slightly below market expectations of a 1.9% gain. Nationwide Chief Economist Robert Gardner said renewed geopolitical tensions, particularly the conflict involving Iran and the US, have pushed up energy prices and contributed to volatility in market interest rate expectations. However, he noted that easing consumer inflation and moderating wage growth have given the Bank of England greater scope to assess whether further policy tightening is needed to return inflation to target. Gardner also highlighted that the latest housing survey showed the average length of residence has remained broadly stable at around 14 years, with outright homeowners staying in the same property for nearly 24 years on average, while private renters typically remain in a home for around five years. On a monthly basis, house prices edged up 0.1%, following a flat reading in June."
-    },
-    {
-      "id": "mkt:019fb6c5-ca5d-7aab-8f27-ca8ed27555a9",
-      "time": "2026-07-31 14:04:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "SHEL.N"
-      ],
-      "text": "Shell (SHEL.N) said BG Cyprus will hold a 35% non-operated interest in Cyprus offshore Block 12; the transaction is expected to close in early 2027."
-    },
-    {
-      "id": "mkt:019fb6c5-623e-7aab-8f27-c1c499393a15",
-      "time": "2026-07-31 14:03:36",
-      "tags": [
-        "MKT News",
-        "SHEL.N"
-      ],
-      "text": "Shell (SHEL.N) has agreed to sell its wholly owned subsidiary BG Cyprus to MOL Group for up to $720 million."
-    },
-    {
-      "id": "5018402",
-      "time": "2026-07-31 14:03:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電機板塊持續走高，臥龍電驅漲停】電機板塊持續走高，臥龍電驅漲停，神力股份、晨光電機、兆威機電、江蘇雷利、通達動力等跟漲。"
-    },
-    {
-      "id": "5018401",
-      "time": "2026-07-31 14:03:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "殼牌：已達成協議，將其全資子公司BG塞普勒斯有限公司出售給摩爾集團，交易總金額最高達7.2億美元；該交易價格受慣常調整以及與里程碑掛鉤的或有付款條款約束。"
-    },
-    {
-      "id": "5018400",
-      "time": "2026-07-31 14:02:46",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "亞塞拜然央行將關鍵再融資利率維持在6.5%（此前為6.5%）。"
     }
   ]
 }
