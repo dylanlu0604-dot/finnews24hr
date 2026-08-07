@@ -1,7 +1,81 @@
 {
   "date": "2026-08-08",
-  "count": 85,
+  "count": 93,
   "items": [
+    {
+      "id": "te:markets:573872",
+      "time": "2026-08-08 01:18:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Platinum Holds Near 7-Week High — Platinum futures held near $1,750 per ounce, hovering around a seven-week high as weaker-than-expected US jobs data reduced expectations of further Federal Reserve tightening, while Middle East tensions capped gains. US nonfarm payrolls unexpectedly declined in July, prompting markets to lower the probability of a near-term Fed rate hike to 43.9% from 57% before the report. However, President Donald Trump stated he believed the war would end soon, while attacks by Iran and Iran-backed Houthi militants continued to fuel concerns over energy supply disruptions and inflation. Meanwhile, South Africa's Valterra Platinum, the world's largest primary platinum producer, reported a sharp rise in interim profit, supported by higher platinum-group metal prices. The company also expects AI-related infrastructure to drive demand higher, while the platinum market is projected to remain in supply deficit for another year."
+    },
+    {
+      "id": "mkt:019fdd3c-271d-7aab-8fbf-3fc51a8f95d2",
+      "time": "2026-08-08 01:18:54",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bearish"
+      ],
+      "text": "【U.S. FAA issues airworthiness directive requiring inspections on certain Boeing jets】The U.S. Federal Aviation Administration on Aug. 6 issued an airworthiness directive covering three Boeing models, estimated to affect 471 U.S.-registered aircraft. The FAA said it received reports of fuselage cracks on some aircraft that could adversely affect structural integrity and is requiring inspections. The directive takes effect Sept. 10."
+    },
+    {
+      "id": "5031461",
+      "time": "2026-08-08 01:18:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱將就上訴法院涉白宮宴會廳專案裁決提起上訴】當地時間8月7日，美國總統特朗普在社交平臺“真實社交”發文稱，將立即就聯邦上訴法院阻止白宮宴會廳專案的裁決向美國最高法院提出上訴，並稱該裁決“出於政治動機且違法”。特朗普援引聯邦上訴法院法官內奧米·拉奧的反對意見稱，原告美國國家歷史保護信託基金會不具備阻止白宮施工的訴訟資格，地區法院無權介入該專案，且政府在國家安全方面的利益應得到優先考慮。特朗普稱，該專案不僅包括宴會廳，還包括防空洞、醫院及醫療設施、機密軍事設施、防導彈鋼結構、防無人機屋頂、軍用通風系統以及防彈、防爆玻璃等，屬於一個整體性的國家安全和軍事設施專案。他還表示，相關專案由其本人及其他美國私人捐助者出資，不會由納稅人承擔費用，並稱上訴法院裁決將威脅白宮工作人員、未來美國總統及其家屬和到訪外國政要的安全。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fdd3b-b4ce-7aab-8fbf-30f58768757c",
+      "time": "2026-08-08 01:18:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he will immediately appeal appellate court ruling on White House ballroom project to US Supreme Court】On Aug. 7 Trump posted on Truth Social that he will immediately appeal a federal appeals court decision blocking the White House ballroom project to the US Supreme Court, calling the ruling \"politically motivated and illegal.\" He cited Judge Naomi Rao's dissent arguing plaintiff the National Trust for Historic Preservation lacks standing, the district court exceeded its authority, and government national-security interests should take precedence. Trump said the project includes not only a ballroom but also a bunker, hospital and medical facilities, classified military facilities, an anti-missile steel structure, an anti-drone roof, military-grade ventilation systems and bulletproof and blast-resistant glass, and constitutes an integrated national-security/military facility project."
+    },
+    {
+      "id": "5031460",
+      "time": "2026-08-08 01:18:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美聯邦航空局釋出適航指令 要求檢查部分波音客機】美國聯邦航空局當地時間8月6日釋出適航指令，適用於三個型號的波音客機，估計影響471架在美國註冊的飛機。美國聯邦航空局表示，此前收到報告稱，部分客機機身出現裂紋，相關問題可能對飛機結構完整性產生不利影響。指令要求對這些飛機進行檢查。該指令將於9月10日生效。（央視新聞）"
+    },
+    {
+      "id": "5031459",
+      "time": "2026-08-08 01:17:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（8月7日），美聯儲隔夜逆回購協議（RRP）使用規模為14.50億美元（交易對手2家），上個交易日報14.29億美元。"
+    },
+    {
+      "id": "mkt:019fdd3a-8b9f-7aab-8fbf-29093b0cf630",
+      "time": "2026-08-08 01:17:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $1.45 billion from two counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:019fdd3a-56aa-7aab-8fbf-226e0758a755",
+      "time": "2026-08-08 01:16:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Hassett says Trump and Fed chair Kevin Warsh regularly discuss the economy】White House National Economic Council director Hassett said on Friday President Trump and Fed chair Kevin Warsh regularly discuss economic issues. Hassett said he does not sit in on those calls but is confident the president would not press Warsh on rate decisions. He said the two have a long-standing, close relationship from New York and Florida and routinely talk about the economy; such regular calls are unusual historically and have prompted concern about presidential influence on Fed policy. Hassett added Trump respects the Fed’s independence."
+    },
     {
       "id": "te:economy:573870",
       "time": "2026-08-08 01:15:15",
