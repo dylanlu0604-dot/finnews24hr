@@ -1,7 +1,76 @@
 {
   "date": "2026-08-08",
-  "count": 127,
+  "count": 134,
   "items": [
+    {
+      "id": "mkt:019fdd69-6a5e-7aab-8fbf-d43f242d90c8",
+      "time": "2026-08-08 02:08:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Refinitiv sources said Canada expects it will have to accept partial US tariffs on steel and aluminum. Canada prefers any tariff exemptions be implemented via side letters rather than incorporated into the updated USMCA text."
+    },
+    {
+      "id": "mkt:019fdd69-2674-7aab-8fbf-c85d4a9827ff",
+      "time": "2026-08-08 02:08:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Refinitiv sources said the U.S. has agreed to daily negotiations through Aug. 19. Canada is prepared to address U.S. concerns on alcohol sales, dairy and the auto sector, but seeks exemptions from U.S. Section 232 tariffs under the Trade Expansion Act in return."
+    },
+    {
+      "id": "mkt:019fdd68-a4d5-7aab-8fbf-c7808a9622bf",
+      "time": "2026-08-08 02:07:30",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "According to Reuters sources, Canada is in intensive talks with the US to avert additional US tariffs scheduled to take effect on Aug 19. Ottawa has told US negotiators that if the sides cannot agree to delay the tariffs by Aug 19, Canada’s ability to continue negotiating afterwards will be constrained."
+    },
+    {
+      "id": "5031481",
+      "time": "2026-08-08 02:07:22",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士： 加拿大正與美國加緊談判，避免 8 月 19 日加徵新關稅。加拿大已告知美方談判代表，若雙方無法在 8 月 19 日前達成協議以推遲關稅實施，渥太華進一步談判的空間將受到限制。"
+    },
+    {
+      "id": "5031480",
+      "time": "2026-08-08 02:06:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：加拿大準備回應美國針對酒類銷售、乳製品及汽車行業提出的訴求，但作為交換，加拿大需要獲得 232 條款關稅減免。加方稱美方同意開展每日談判，直至 8 月 19 日。"
+    },
+    {
+      "id": "5031479",
+      "time": "2026-08-08 02:06:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：加拿大希望關稅減免相關協議以附函形式達成，而非寫入更新後的《美墨加協定》正文。加拿大清楚其將不得不接受美國部分鋼鐵和鋁關稅。"
+    },
+    {
+      "id": "mkt:019fdd66-b8b2-7aab-8fbf-b9bc3fcda293",
+      "time": "2026-08-08 02:05:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia's Al Arabiya TV cited Israeli media reporting that the US is pressing for a two-week ceasefire in Gaza to enable disarmament of Hamas."
+    },
     {
       "id": "mkt:019fdd65-a5ce-7aab-8fbf-b0a225c09aac",
       "time": "2026-08-08 02:04:13",
