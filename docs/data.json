@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-07 11:54:51",
+  "updated": "2026-08-07 11:58:56",
   "count": 16091,
   "items": [
+    {
+      "id": "5030007",
+      "time": "2026-08-07 11:57:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯無人機襲擊了烏克蘭東部的農業倉庫】當地政府在電報平臺表示，俄羅斯無人機襲擊致使烏克蘭東部哈爾科夫州巴拉克利亞社群一家農業企業的倉庫起火，當局未指明該設施名稱，並補充稱暫無人員傷亡。烏克蘭澤連斯基週四承諾向遭受俄羅斯襲擊的農民提供援助。莫斯科方面近期開始打擊黑海區域的烏克蘭農產品出口設施與商用船隻。"
+    },
+    {
+      "id": "mkt:019fda5d-373e-7aab-8faf-482506989e53",
+      "time": "2026-08-07 11:56:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Tight supply, rising demand bets push LME copper toward record close】LME copper rose 0.6% to $14,193.50/ton, surpassing the mid‑May closing high and heading for a record close. Optimism about data‑centre and grid demand is supporting prices, while supply has tightened after large shipments to the US this year amid expectations of a Trump tariff decision, drawing down LME‑tracked inventories. The spot vs three‑month spread widened above $150/ton on Thursday, the largest since October, producing a pronounced backwardation that signals short‑term buyer pressure."
+    },
+    {
+      "id": "5030006",
+      "time": "2026-08-07 11:55:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭官員稱，俄羅斯無人機襲擊了烏克蘭東部的農業倉庫。"
+    },
+    {
+      "id": "mkt:019fda5c-8a36-7aab-8faf-46733df62ba4",
+      "time": "2026-08-07 11:55:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin interval-open hybrid fund will suspend trading from the start of the afternoon session on 7 Aug 2026 until market close that day."
+    },
+    {
+      "id": "te:economy:573595",
+      "time": "2026-08-07 11:55:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Hovers Near 1-Year Low — China’s 10-year government bond yield held around 1.70% on Friday, hovering near its lowest level in nearly a year as strong trade data underscored the resilience of the country’s external sector. While both export and import growth eased in July, they remained robust amid strong demand for AI-related technology products. Exports rose 23.9% year-on-year to USD 397.85 billion, surpassing market expectations, while imports climbed 27.5% to USD 285.35 billion, broadly in line with forecasts. As a result, China’s trade surplus widened to USD 112.5 billion from USD 97.7 billion a year earlier, above market expectations. Beijing recently unveiled fresh retaliatory measures against Washington, including tighter controls on drone and related technology exports, sanctions on seven US firms, and its first national security investigation tied to foreign trade. The move highlights persistent trade tensions ahead of a planned September meeting between Presidents Xi Jinping and Donald Trump."
+    },
+    {
+      "id": "mkt:019fda5c-1e85-7aab-8faf-3887343dac02",
+      "time": "2026-08-07 11:54:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Global Chip LOF will suspend trading from the start of the afternoon session on Aug 7, 2026 through market close the same day. Redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "5030005",
+      "time": "2026-08-07 11:54:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月7日午間漲停分析】創業板指縮量上漲1.75%，醫藥、算力硬體股持續爆發。寶鼎科技、雲南鍺業、匯綠生態、沃格光電、百花醫藥均4連板，一圖看懂>>"
+    },
     {
       "id": "5030004",
       "time": "2026-08-07 11:53:25",
@@ -146944,73 +147010,6 @@
         "市場"
       ],
       "text": "【7月31日午間漲停分析】創業板指、科創50半日均大漲超5%！AI產業鏈全線爆發，全市上漲個股超4500只。愛麗家居9連板，傳智教育5連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019fb652-3e3f-7aab-8f27-0a280317551d",
-      "time": "2026-07-31 11:57:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian military said its suicide drones struck fighter hangars, a satellite communications system and equipment warehouses at Kuwait's Ahmad al-Jaber Air Base hours earlier, Press TV reported."
-    },
-    {
-      "id": "mkt:019fb652-06da-7aab-8f27-06fbfb55db67",
-      "time": "2026-07-31 11:57:36",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Capital Economics: RBA's next move will be a cut, not before H2 2027】Capital Economics has dropped its call for an RBA rate hike next month after this week’s Q2 CPI was mild enough for the Reserve Bank of Australia to regard policy as sufficiently tight, economist Abhijit Surya said. Surya warned the disinflation path could be uneven; alongside a weak housing market, Capital Economics now expects the RBA’s next move will be a rate cut, though not before H2 2027."
-    },
-    {
-      "id": "5018292",
-      "time": "2026-07-31 11:57:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中貝通訊等在武漢成立智慧科技公司 註冊資本3000萬】天眼查App顯示，近日，中貝易航（武漢）智慧科技有限公司成立，法定代表人為湯海濱，註冊資本3000萬人民幣，經營範圍含人工智慧通用應用系統、資訊系統整合服務等。股東資訊顯示，該公司由中貝通訊（603220）等共同持股。"
-    },
-    {
-      "id": "5018289",
-      "time": "2026-07-31 11:56:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲年內加息？景順首席全球市場策略師：即便加也是一次性，明年轉向降息】景順（Invesco）首席全球市場策略師萊維特（Brian Levitt）接受記者採訪時表示，儘管年底前再加息一次的可能性有所增加，但鑑於通脹預期仍錨定在較低水平，即便再次加息，也僅屬於本輪緊縮週期尾聲階段的“一次性”微調。他還判斷，美聯儲最終將在2027年轉向降息。（第一財經）"
-    },
-    {
-      "id": "5018288",
-      "time": "2026-07-31 11:56:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南HDBank：該資金旨在擴大中小微企業的金融服務覆蓋範圍。"
-    },
-    {
-      "id": "5018287",
-      "time": "2026-07-31 11:55:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南貸款機構HDBank：該筆貸款是由亞洲開發銀行、渣打銀行及其他全球性機構共同安排的。"
-    },
-    {
-      "id": "5018286",
-      "time": "2026-07-31 11:55:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "越南貸款機構HDBANK簽署創紀錄的7.21億美元國際銀團社會貸款。"
     }
   ]
 }
