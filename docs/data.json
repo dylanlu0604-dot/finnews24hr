@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-07 14:49:41",
-  "count": 16189,
+  "updated": "2026-08-07 14:53:48",
+  "count": 16186,
   "items": [
+    {
+      "id": "5030250",
+      "time": "2026-08-07 14:52:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【外資拋售致使韓國股市連續第二日收跌】受中東局勢再度緊張打壓市場情緒、外資持續拋售股票影響，韓國股市週五連續第二個交易日收低。韓元兌美元匯率走高。韓國綜合股價指數（KOSPI）開盤上漲 1.09%，隨後震盪下行，最低下探至 6158.73 點，收盤下跌 37.61 點，跌幅 0.6%，報 6258.77 點。前一交易日，受科技股大跌拖累，該指數暴跌 4.58%。據報道，伊朗威脅禁止美國及以色列船隻通行這一戰略航道，並要求其認定的敵對國家支付補償方可通行。外資淨賣出 8580.7 億韓元（摺合 6.05 億美元）股票；機構投資者、個人投資者則分別淨買入 5789.9 億韓元、2669.8 億韓元。分析師表示，該戰略航道的相關不確定性或將推高油價，本就受 AI 板塊交易擾動的市場，波動將進一步加劇。"
+    },
+    {
+      "id": "mkt:019fdafd-e22f-7aab-8fb2-1ed8d5227d5a",
+      "time": "2026-08-07 14:51:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Thailand's finance minister says import taxes on automobiles will be increased."
+    },
+    {
+      "id": "5030249",
+      "time": "2026-08-07 14:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市人民政府釋出關於《上海市國土空間近期實施規劃（2026—2030年）》的批覆】原則同意《上海市國土空間近期實施規劃（2026—2030年）》（以下簡稱《規劃》），請自行印發並認真組織實施。各區、各有關部門要以《規劃》為指導，加快“十五五”各項建設任務的空間佈局引導，做好規劃編制、年度用地計劃、土地儲備供應安排，完善建設標準和實施機制，保障各項任務落實。市規劃資源局、市發展改革委要加強統籌協調，做好《規劃》實施的全過程管理，持續開展動態監測和評估，加快推動規劃落地。（上海市人民政府網站）"
+    },
+    {
+      "id": "5030248",
+      "time": "2026-08-07 14:50:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部長：將提高進口產品稅率。"
+    },
+    {
+      "id": "mkt:019fdafc-6ef5-7aab-8fb2-12e8bd7405e2",
+      "time": "2026-08-07 14:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Swiss July consumer confidence index due in 10 minutes."
+    },
+    {
+      "id": "5030247",
+      "time": "2026-08-07 14:49:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【易明醫藥成立科技新公司 含多項AI業務】企查查APP顯示，近日，深圳格思普科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧基礎資源與技術平臺；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發等。企查查股權穿透顯示，該公司由易明醫藥(002826)間接全資持股。"
+    },
+    {
+      "id": "mkt:019fdafc-2184-7aab-8fb2-0d46cc4a53d5",
+      "time": "2026-08-07 14:49:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand finance minister plans to cut the consumption tax on domestically produced cars."
+    },
+    {
+      "id": "5030246",
+      "time": "2026-08-07 14:49:35",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "泰國財政部長：計劃下調泰國汽車生產的消費稅。"
+    },
+    {
+      "id": "5030245",
+      "time": "2026-08-07 14:49:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王莆中：從訂單角度看 美團是內地最大的藥品零售平臺】美團核心本地商業CEO王莆中稱，實際上，在中國大陸，從訂單角度看，美團已經是最大的藥品零售平臺，我們每天服務使用者達到數百萬。王莆中還提到，AI對健康管理的幫助非常大，最核心的是從“出現症狀才去找工具”演變成 “AI幫助做好日常的健康管理”，變成一種主動化的服務。“我們非常期待未來AI會讓醫療服務真正變成主動運轉，比如感知更多的資訊做預判，幫助使用者做好健康管理上的重要決策。美團也投資了不少具身智慧的公司，未來有很多的合作空間。”（新浪科技）"
+    },
     {
       "id": "5030244",
       "time": "2026-08-07 14:48:33",
@@ -147772,116 +147852,6 @@
         "國際"
       ],
       "text": "【基輔傳出爆炸聲】當地時間7月31日，烏克蘭首都基輔傳出爆炸聲。此前基輔曾拉響防空警報。基輔市市長克利奇科通報稱，基輔市防空系統正在運作以應對俄軍無人機襲擊。（央視新聞）"
-    },
-    {
-      "id": "5018490",
-      "time": "2026-07-31 14:53:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅隴南一地啟動氣象災害（暴雨）Ⅰ級應急響應】甘肅省隴南市禮縣氣象臺7月31日10時24分將暴雨黃色預警訊號升級為暴雨紅色預警訊號：過去6小時，該縣寬川鎮已經出現70毫米以上的降水量，降水仍將持續，預計今天白天，該縣寬川鎮、祁山鎮、紅河鎮、鹽官鎮、馬河鄉等鄉鎮降水量將達100毫米以上，出現大暴雨。需注意防範由強降水可能引發的中小河流洪水、山洪及滑坡、泥石流、城鄉積澇等次生災害。據此，禮縣氣象災害應急指揮部決定於7月31日10時50分將氣象災害（暴雨）Ⅲ級應急響應調整為Ⅰ級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5018489",
-      "time": "2026-07-31 14:52:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【合肥：將繼續堅持科技打頭陣】“捨得把城市最好的資源、最優的環境留給創新”。31日上午，記者從安徽省政府新聞釋出會上獲悉，合肥市將繼續堅持科技打頭陣、堅持工業立市不動搖、強化企業創新主體地位，進一步完善創新生態、激發創新活力。合肥市人民政府市長張泉介紹，合肥市堅持以科技創新引領新質生產力發展，捨得把城市最好的資源、最優的環境留給創新，全社會研發投入強度達4.11%，躍居全球科研城市第12位、“科技叢集”第39位。他表示，科技創新是合肥這座城市的鮮明特質，也是最核心的競爭優勢。面向“十五五”，合肥市將在全面參與共建上海（長三角）國際科技創新中心、服務保障合肥濱湖科學城實體化改革的基礎上，著力做好科技成果轉化，加速破解創新鏈與產業鏈“相望難相見”問題。（新華社）"
-    },
-    {
-      "id": "5018488",
-      "time": "2026-07-31 14:52:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：將實施貨幣政策，確保不會滯後於形勢。"
-    },
-    {
-      "id": "5018487",
-      "time": "2026-07-31 14:51:41",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行行長植田和男：我們並非必須等到資料明確顯示2%通脹完全企穩後，才能出臺政策調整。"
-    },
-    {
-      "id": "5018486",
-      "time": "2026-07-31 14:51:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中蒙舉行第二十四輪領事磋商】7月30日，外交部領事司司長龍舟與蒙古外交部領事局局長賓德歷亞在烏蘭巴托共同主持中蒙第二十四輪領事磋商。雙方重點就中蒙領事關係、便利人員往來、維護海外公民安全與合法權益等議題深入交換意見。雙方一致同意要落實好兩國元首重要共識，加強領事合作，進一步提升雙方人員往來便利化水平，維護好雙方人員和機構安全與合法權益，服務兩國各領域務實合作，推動構建中蒙命運共同體。"
-    },
-    {
-      "id": "te:economy:571558",
-      "time": "2026-07-31 14:51:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "France Inflation Rate Unexpectedly Picks Up — The annual inflation rate in France accelerated to 2.1% in July 2026, defying market expectations that it would hold at June's 1.8%, according to preliminary estimates. The pickup was mainly driven by faster increases in services prices (2.3% vs. 1.9% in June), particularly for accommodation and communication services, alongside stronger energy inflation (12.4% vs. 11.0%) amid higher gas and petroleum product prices. Meanwhile, the decline in manufactured goods prices eased (-0.7% vs. -1.1%), partly reflecting less pronounced seasonal sales effects, while food inflation held steady at 0.9% and tobacco inflation remained unchanged at 3.3%. On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.3% decline in June, driven by seasonal increases in transport and accommodation services as well as higher energy prices. The EU-harmonised annual inflation rate also accelerated to 2.4% from 2.0%, while the monthly HICP increased 0.6% after falling 0.3% in June."
-    },
-    {
-      "id": "5018485",
-      "time": "2026-07-31 14:50:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "鎧俠：有望贏得2028年產能50%的長期合同。"
-    },
-    {
-      "id": "5018484",
-      "time": "2026-07-31 14:50:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報1798.50點。"
-    },
-    {
-      "id": "te:economy:571557",
-      "time": "2026-07-31 14:50:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Swiss Retail Sales Growth Slows in June — Retail sales in Switzerland rose by 1.5% year-on-year in June 2026, falling short of market expectations for a 3.2% increase and slowing from a downwardly revised eleven-month high of 3.4% gain in the previous month. The slowdown reflected weaker momentum across most retail categories, with overall trade excluding service stations easing to 1.5% from 3.2% in May. Among non-food retailers, turnover growth also slowed to 1% from 3.8%, largely driven by declines in sales of other goods (-1.9% vs 5.3%) and via mail order and the internet (-3.7% vs 6.0%). At the same time, revenues for food, beverages and tobacco moderated to 2.1% from 2.5%, while activity at service stations remained weak, declining 9.6% after a 6.1% drop in May. On a seasonally adjusted monthly basis, retail sales grew by 0.2% in June, the softest rise since October last year and slowing from an upwardly revised 0.9% gain in the preceding period."
-    },
-    {
-      "id": "5018483",
-      "time": "2026-07-31 14:50:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博雷頓正在開發移動、可拆卸的模組化能源產品】7月31日，博雷頓正在開發可移動、可拆卸的模組化能源產品，計劃首先在非洲部署1萬個能源單元。公司現階段計劃在剛果（金）拓展20箇中大型礦山客戶，並在非洲跑通模式後進入澳大利亞和南美市場。（介面新聞）"
-    },
-    {
-      "id": "5018482",
-      "time": "2026-07-31 14:50:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓股市指數下跌1.1%，至6236.44。"
-    },
-    {
-      "id": "5018481",
-      "time": "2026-07-31 14:49:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "俄羅斯鐵路公司將為氧化鋁貨運提供折扣。"
     }
   ]
 }
