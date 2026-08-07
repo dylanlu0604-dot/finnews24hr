@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-08 04:10:22",
-  "count": 16074,
+  "updated": "2026-08-08 04:14:19",
+  "count": 16070,
   "items": [
+    {
+      "id": "5031607",
+      "time": "2026-08-08 04:13:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "Palantir收漲10.32%，報172.01美元，本週累計上漲39.78%。"
+    },
+    {
+      "id": "5031606",
+      "time": "2026-08-08 04:12:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普：喬治亞政府因信用基本面改善，展望上調至正面；確認 BB/B 評級。"
+    },
+    {
+      "id": "5031605",
+      "time": "2026-08-08 04:11:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球評級將喬治亞展望調整為正面；確認 BB/B 評級。"
+    },
+    {
+      "id": "5031604",
+      "time": "2026-08-08 04:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯倫貝謝申請撤回 S‑4 註冊檔案。"
+    },
     {
       "id": "5031603",
       "time": "2026-08-08 04:08:55",
@@ -146450,85 +146482,6 @@
         "其他"
       ],
       "text": "訊息人士稱，Motiva在短暫電力波動後恢復得克薩斯州阿瑟港煉油廠原油裝置生產。"
-    },
-    {
-      "id": "5019904",
-      "time": "2026-08-01 04:14:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭： 烏克蘭擁有儲量豐厚、極具開採價值的稀土資源。 我們已經簽署了一份稀土相關協議。 我們隨時可以進駐當地，幾乎能獲取任何想要的資源。 這筆交易相當划算。"
-    },
-    {
-      "id": "5019903",
-      "time": "2026-08-01 04:13:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國西北天然氣公司：新費率將於2026年8月1日生效；費率案裁定允許該公司第一年增加2010萬美元收入，第二年增加750萬美元，第三年增加740萬美元。"
-    },
-    {
-      "id": "mkt:019fb9cf-1c46-7aab-8f3d-79acde14d360",
-      "time": "2026-08-01 04:13:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IDF says it killed two Hamas officials in Gaza】Israeli Defense Forces (IDF) said in a July 31 statement that recent airstrikes in multiple locations in the Gaza Strip killed two Hamas officials. The IDF also said it carried out dozens of operations in the West Bank over the past week, arresting more than 200 Palestinians."
-    },
-    {
-      "id": "5019902",
-      "time": "2026-08-01 04:12:45",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "據美國證券交易委員會檔案，高盛私人信貸公司截至估值日接受要約股份資產淨值合計 2.9676 億美元，每股 24.57 美元。"
-    },
-    {
-      "id": "5019901",
-      "time": "2026-08-01 04:12:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "安進：部分資料已遭竊取，其中包括專有資料、患者受保護健康資訊及其他資訊。"
-    },
-    {
-      "id": "5019900",
-      "time": "2026-08-01 04:11:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "週五（7月31日），彭博電動汽車價格回報指數漲0.16%，報3320.82點，本週累計上漲2.80%，7月份累計下跌6.80%，整體持續走低。"
-    },
-    {
-      "id": "mkt:019fb9cd-a33c-7aab-8f3d-75a416564cbf",
-      "time": "2026-08-01 04:11:29",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "【Dollar index up 0.05% to 99.917 at New York FX close on 31st】The dollar index, measuring the dollar against six major currencies, rose 0.05% to 99.917 at the New York FX close on the 31st. EUR/USD 1.1531, down from 1.1535; GBP/USD 1.3482, up from 1.3476. USD/JPY 158.90, down from 158.93; USD/CHF 0.8082, up from 0.8040; USD/CAD 1.4019, up from 1.3996; USD/SEK 9.5193, up from 9.5189."
-    },
-    {
-      "id": "mkt:019fb9cd-8d8a-7aab-8f3d-6bf0a818a5b5",
-      "time": "2026-08-01 04:11:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil futures rise on 31st】At the close on the 31st, NYMEX September light sweet crude futures settled at $84.67/bbl, up $1.08 or 1.29%; ICE Brent September futures settled at $90.12/bbl, up $1.09 or 1.22%."
     }
   ]
 }
