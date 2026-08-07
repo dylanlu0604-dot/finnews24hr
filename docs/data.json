@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-07 23:38:19",
-  "count": 16046,
+  "updated": "2026-08-07 23:42:18",
+  "count": 16043,
   "items": [
+    {
+      "id": "5031417",
+      "time": "2026-08-07 23:41:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：美伊談判反覆拉鋸，因此將 2026 年第三季度布倫特原油均價市價重估至每桶 80 美元，2026 年第四季度維持 70 美元，2027 年為 65 美元。"
+    },
+    {
+      "id": "mkt:019fdce1-93c3-7aab-8fbd-9a94c1190476",
+      "time": "2026-08-07 23:39:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina presidency: President MILEI met Israel's foreign minister and reaffirmed Argentina's firm support for Israel's right to lawful self‑defense under international law. He condemned Iran and its affiliated groups' attacks on Israeli territory, saying they pose a serious threat to regional security and stability."
+    },
+    {
+      "id": "mkt:019fdcdf-c79a-7aab-8fbd-9712d103db40",
+      "time": "2026-08-07 23:38:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Euro STOXX 50"
+      ],
+      "text": "European equities on Aug 7 (Fri) — Germany's DAX +163.94 pts (+0.63%) to 26,329.17; UK FTSE 100 +35.52 pts (+0.33%) to 10,903.41; France's CAC 40 +15.22 pts (+0.17%) to 8,714.93; Euro STOXX 50 +22.09 pts (+0.34%) to 6,524.65; Spain's IBEX 35 -16.42 pts (-0.08%) to 20,163.98; Italy's FTSE MIB +59.28 pts (+0.11%) to 53,742.00."
+    },
     {
       "id": "mkt:019fdcdd-86a5-7aab-8fbd-8cb259394f68",
       "time": "2026-08-07 23:35:33",
@@ -146278,54 +146308,6 @@
         "WTI"
       ],
       "text": "Zelenskiy said Russian air strikes continue and that air defence, particularly obtaining Patriot interceptor missiles, remains Ukraine's top priority."
-    },
-    {
-      "id": "5019728",
-      "time": "2026-07-31 23:42:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥石油公司第二季度淨利潤達 180 億墨西哥比索。"
-    },
-    {
-      "id": "mkt:019fb8d6-8410-7aab-8f3a-02c10cdfc144",
-      "time": "2026-07-31 23:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY said the outcome of his recent Washington meeting with Trump was positive and productive."
-    },
-    {
-      "id": "5019727",
-      "time": "2026-07-31 23:41:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西外匯互換合約恢復交易；股市仍暫停交易。"
-    },
-    {
-      "id": "mkt:019fb8d6-453e-7aab-8f39-fa2e5eae9589",
-      "time": "2026-07-31 23:41:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy held a phone call with U.S. Vice President Vance."
-    },
-    {
-      "id": "mkt:019fb8d6-1402-7aab-8f39-f25a6cbf1f39",
-      "time": "2026-07-31 23:41:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yemen foreign ministry says even a global coalition cannot stop it reclaiming rights】Yemen’s foreign ministry said Saudi Arabia is in a historic stalemate and described Riyadh’s campaign as a failed, brutal war, adding Yemen’s fight aims to reclaim rights and lift the Saudi blockade. The ministry warned any military presence in the Red Sea would create instability and affect shipping, but said navigation through the Bab el-Mandeb and Red Sea is currently safe and reports of fees or similar measures are false. It added that attempts—however united—to prevent Yemen from regaining its lawful rights will fail and that efforts to lift the Saudi blockade and restore full rights are still at an early stage."
-    },
-    {
-      "id": "5019726",
-      "time": "2026-07-31 23:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我同美國副總統萬斯進行了一次融洽的通話。雙方探討了近期我與特朗普總統在華盛頓會晤的成果，此次會晤積極且富有成效。"
     }
   ]
 }

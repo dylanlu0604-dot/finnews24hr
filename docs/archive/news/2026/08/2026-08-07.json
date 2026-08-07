@@ -1,7 +1,37 @@
 {
   "date": "2026-08-07",
-  "count": 2745,
+  "count": 2748,
   "items": [
+    {
+      "id": "5031417",
+      "time": "2026-08-07 23:41:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗：美伊談判反覆拉鋸，因此將 2026 年第三季度布倫特原油均價市價重估至每桶 80 美元，2026 年第四季度維持 70 美元，2027 年為 65 美元。"
+    },
+    {
+      "id": "mkt:019fdce1-93c3-7aab-8fbd-9a94c1190476",
+      "time": "2026-08-07 23:39:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina presidency: President MILEI met Israel's foreign minister and reaffirmed Argentina's firm support for Israel's right to lawful self‑defense under international law. He condemned Iran and its affiliated groups' attacks on Israeli territory, saying they pose a serious threat to regional security and stability."
+    },
+    {
+      "id": "mkt:019fdcdf-c79a-7aab-8fbd-9712d103db40",
+      "time": "2026-08-07 23:38:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Euro STOXX 50"
+      ],
+      "text": "European equities on Aug 7 (Fri) — Germany's DAX +163.94 pts (+0.63%) to 26,329.17; UK FTSE 100 +35.52 pts (+0.33%) to 10,903.41; France's CAC 40 +15.22 pts (+0.17%) to 8,714.93; Euro STOXX 50 +22.09 pts (+0.34%) to 6,524.65; Spain's IBEX 35 -16.42 pts (-0.08%) to 20,163.98; Italy's FTSE MIB +59.28 pts (+0.11%) to 53,742.00."
+    },
     {
       "id": "mkt:019fdcdd-86a5-7aab-8fbd-8cb259394f68",
       "time": "2026-08-07 23:35:33",
