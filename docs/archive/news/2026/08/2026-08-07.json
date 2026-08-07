@@ -1,7 +1,129 @@
 {
   "date": "2026-08-07",
-  "count": 1601,
+  "count": 1615,
   "items": [
+    {
+      "id": "mkt:019fdb70-fb86-7aab-8fb4-de0722558dae",
+      "time": "2026-08-07 16:57:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netac Technology: 1H net profit attributable to parent 95.08 mln yuan; swings to profit YoY】On Aug 7 Netac Technology published its half-year report, reporting 1H revenue of 966 mln yuan, up 101.76% YoY; net profit attributable to shareholders 95.08 mln yuan, versus a 17.86 mln yuan loss in the year-ago period; basic EPS 0.4744 yuan."
+    },
+    {
+      "id": "mkt:019fdb70-ed9b-7aab-8fb4-d1085d27caf7",
+      "time": "2026-08-07 16:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: Swiss currency reserves were CHF 768.26 billion in July, up from CHF 758.85 billion in June."
+    },
+    {
+      "id": "te:economy:573744",
+      "time": "2026-08-07 16:56:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10-Year Gilt Yield Hovers Above 3-Week Low — The UK 10-year gilt yield held near 4.95% on Friday, remaining above Tuesday’s three-week low of 4.891%, as higher oil prices revived concerns that central banks may need to keep interest rates elevated. Brent crude extended its gains for a second session amid supply concerns after Iran published a restrictive draft plan for the Strait of Hormuz. Although Iran and Oman are reportedly working on an agreement to establish transit routes through the waterway, no deal has yet been announced, keeping investors cautious. Despite the recent rise in yields, the UK 10-year yield remains around 9 basis points lower this week, supported by hopes that a reopening of the strait could eventually ease oil prices and inflation expectations. Meanwhile, the Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying the disinflation process remained on track despite ongoing external risks."
+    },
+    {
+      "id": "5030616",
+      "time": "2026-08-07 16:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "8月7日，中國乒乓球協會發布關於加強青少年乒乓球賽事賽風賽紀管理的通知。"
+    },
+    {
+      "id": "5030615",
+      "time": "2026-08-07 16:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江多地現高溫 玉環熱到破紀錄 明天至10日颱風攜強風雨來襲】浙江今天（8月7日）以多雲為主，多地出現高溫天氣，玉環現當地觀測史首個高溫日。明天至10日，受颱風“白海豚”影響，浙江將現強風雨天氣，局地有特大暴雨，風力可超10級，需注意做好相關防範措施。（央視新聞）"
+    },
+    {
+      "id": "5030614",
+      "time": "2026-08-07 16:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國方面表示：李在明布安東和義城4個鄉鎮為“暴雨災害”特別災區'。"
+    },
+    {
+      "id": "5030612",
+      "time": "2026-08-07 16:55:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天智裝：2026年上半年實現扭虧為盈，淨利潤255.83萬元】航天智裝公告，2026年上半年營業收入3.67億元，同比下降25.68%。歸屬於上市公司股東的淨利潤255.83萬元，上年同期淨利潤虧損1.54億元，實現扭虧為盈。"
+    },
+    {
+      "id": "5030611",
+      "time": "2026-08-07 16:55:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超頻三：2026年上半年淨利潤1732.46萬元，同比增長53.20%】超頻三公告，2026年上半年營業收入6.34億元，同比增長33.72%。歸屬於上市公司股東的淨利潤1732.46萬元，同比增長53.20%；扣非淨利潤1312.51萬元，同比增長212.08%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5030610",
+      "time": "2026-08-07 16:55:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【天能重工：“天能轉債”預計觸發轉股價格向下修正條件】天能重工公告稱，公司股票自2026年8月3日至8月7日已有5個交易日的收盤價格低於當期轉股價格6.68元/股的90%，若後續公司股票收盤價格繼續低於該比例，預計有可能觸發“天能轉債”轉股價格向下修正條款。若觸發相關條款，公司將按規定履行審議程式和資訊披露義務，提醒投資者注意投資風險。"
+    },
+    {
+      "id": "5030609",
+      "time": "2026-08-07 16:54:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【赤峰黃金：控股子公司簽訂2.2億美元海外採礦服務合同】赤峰黃金公告，公司控股子公司永珍礦業與中鐵十九局集團寮國獨資有限公司簽訂海外日常經營合同，合同對價為2.2億美元（約1,501,163,333元人民幣），期限為自合同生效起至2032年3月31日。承包商將提供露天礦山採礦服務，以保障塞班金銅礦130萬噸/年設計產能按期達產，並推進卡農專案於2027年第二季度開始原生礦石開採。"
+    },
+    {
+      "id": "5030608",
+      "time": "2026-08-07 16:54:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【赤峰黃金：董事會同意控股子公司暫停運營寮國勐康稀土專案】赤峰黃金公告，2026年8月7日公司第九屆董事會第九次會議審議透過議案，同意控股子公司廈門赤金廈鎢金屬資源有限公司暫停運營位於寮國川壙省勐康縣的勐康稀土礦專案。該專案尚在試採階段，2025年度赤金廈鎢生產稀土產品998.56噸，歸屬於赤峰黃金淨利潤-5406.37萬元；2026年第一季度生產稀土產品63.6噸，歸屬於赤峰黃金淨利潤37.28萬元。"
+    },
+    {
+      "id": "mkt:019fdb6e-1c0d-7aab-8fb4-cadadefe899c",
+      "time": "2026-08-07 16:54:14",
+      "tags": [
+        "MKT News",
+        "09927.HK"
+      ],
+      "text": "SERES (09927.HK) said its board will meet on Aug. 19, 2026 to review and approve publication of interim results for the six months ended June 30, 2026 and to consider other matters."
+    },
+    {
+      "id": "5030607",
+      "time": "2026-08-07 16:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京多地現強降雨 未來兩小時仍有雷陣雨】根據北京市氣象臺釋出的資訊，當前較強回波在房山、昌平、懷柔、密雲、通州等區。近一小時（15時—16時），北京及周邊地區的最大降雨出現在懷柔區項柵子，為79.4毫米。延慶、懷柔、密雲、門頭溝的局地有7級左右短時陣風。預計未來1~2小時，北京市大部地區有雷陣雨天氣，其中懷柔、密雲、昌平、通州、房山等區相對明顯，局地短時雨強較大，雷雨時伴有6~7級陣風。目前，北京市正處於雷電黃色、暴雨藍色預警中，請注意防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fdb6d-fc84-7aab-8fb4-c0bf70c9bdea",
+      "time": "2026-08-07 16:54:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Idemitsu Kosan says it will continue to diversify crude sourcing, including boosting imports from the United States and South America."
+    },
     {
       "id": "5030606",
       "time": "2026-08-07 16:53:21",

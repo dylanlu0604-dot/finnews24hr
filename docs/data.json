@@ -1,7 +1,129 @@
 {
-  "updated": "2026-08-07 16:54:06",
-  "count": 16131,
+  "updated": "2026-08-07 16:57:59",
+  "count": 16132,
   "items": [
+    {
+      "id": "mkt:019fdb70-fb86-7aab-8fb4-de0722558dae",
+      "time": "2026-08-07 16:57:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netac Technology: 1H net profit attributable to parent 95.08 mln yuan; swings to profit YoY】On Aug 7 Netac Technology published its half-year report, reporting 1H revenue of 966 mln yuan, up 101.76% YoY; net profit attributable to shareholders 95.08 mln yuan, versus a 17.86 mln yuan loss in the year-ago period; basic EPS 0.4744 yuan."
+    },
+    {
+      "id": "mkt:019fdb70-ed9b-7aab-8fb4-d1085d27caf7",
+      "time": "2026-08-07 16:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: Swiss currency reserves were CHF 768.26 billion in July, up from CHF 758.85 billion in June."
+    },
+    {
+      "id": "te:economy:573744",
+      "time": "2026-08-07 16:56:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10-Year Gilt Yield Hovers Above 3-Week Low — The UK 10-year gilt yield held near 4.95% on Friday, remaining above Tuesday’s three-week low of 4.891%, as higher oil prices revived concerns that central banks may need to keep interest rates elevated. Brent crude extended its gains for a second session amid supply concerns after Iran published a restrictive draft plan for the Strait of Hormuz. Although Iran and Oman are reportedly working on an agreement to establish transit routes through the waterway, no deal has yet been announced, keeping investors cautious. Despite the recent rise in yields, the UK 10-year yield remains around 9 basis points lower this week, supported by hopes that a reopening of the strait could eventually ease oil prices and inflation expectations. Meanwhile, the Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying the disinflation process remained on track despite ongoing external risks."
+    },
+    {
+      "id": "5030616",
+      "time": "2026-08-07 16:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "8月7日，中國乒乓球協會發布關於加強青少年乒乓球賽事賽風賽紀管理的通知。"
+    },
+    {
+      "id": "5030615",
+      "time": "2026-08-07 16:56:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江多地現高溫 玉環熱到破紀錄 明天至10日颱風攜強風雨來襲】浙江今天（8月7日）以多雲為主，多地出現高溫天氣，玉環現當地觀測史首個高溫日。明天至10日，受颱風“白海豚”影響，浙江將現強風雨天氣，局地有特大暴雨，風力可超10級，需注意做好相關防範措施。（央視新聞）"
+    },
+    {
+      "id": "5030614",
+      "time": "2026-08-07 16:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國方面表示：李在明布安東和義城4個鄉鎮為“暴雨災害”特別災區'。"
+    },
+    {
+      "id": "5030612",
+      "time": "2026-08-07 16:55:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天智裝：2026年上半年實現扭虧為盈，淨利潤255.83萬元】航天智裝公告，2026年上半年營業收入3.67億元，同比下降25.68%。歸屬於上市公司股東的淨利潤255.83萬元，上年同期淨利潤虧損1.54億元，實現扭虧為盈。"
+    },
+    {
+      "id": "5030611",
+      "time": "2026-08-07 16:55:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超頻三：2026年上半年淨利潤1732.46萬元，同比增長53.20%】超頻三公告，2026年上半年營業收入6.34億元，同比增長33.72%。歸屬於上市公司股東的淨利潤1732.46萬元，同比增長53.20%；扣非淨利潤1312.51萬元，同比增長212.08%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5030610",
+      "time": "2026-08-07 16:55:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【天能重工：“天能轉債”預計觸發轉股價格向下修正條件】天能重工公告稱，公司股票自2026年8月3日至8月7日已有5個交易日的收盤價格低於當期轉股價格6.68元/股的90%，若後續公司股票收盤價格繼續低於該比例，預計有可能觸發“天能轉債”轉股價格向下修正條款。若觸發相關條款，公司將按規定履行審議程式和資訊披露義務，提醒投資者注意投資風險。"
+    },
+    {
+      "id": "5030609",
+      "time": "2026-08-07 16:54:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【赤峰黃金：控股子公司簽訂2.2億美元海外採礦服務合同】赤峰黃金公告，公司控股子公司永珍礦業與中鐵十九局集團寮國獨資有限公司簽訂海外日常經營合同，合同對價為2.2億美元（約1,501,163,333元人民幣），期限為自合同生效起至2032年3月31日。承包商將提供露天礦山採礦服務，以保障塞班金銅礦130萬噸/年設計產能按期達產，並推進卡農專案於2027年第二季度開始原生礦石開採。"
+    },
+    {
+      "id": "5030608",
+      "time": "2026-08-07 16:54:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【赤峰黃金：董事會同意控股子公司暫停運營寮國勐康稀土專案】赤峰黃金公告，2026年8月7日公司第九屆董事會第九次會議審議透過議案，同意控股子公司廈門赤金廈鎢金屬資源有限公司暫停運營位於寮國川壙省勐康縣的勐康稀土礦專案。該專案尚在試採階段，2025年度赤金廈鎢生產稀土產品998.56噸，歸屬於赤峰黃金淨利潤-5406.37萬元；2026年第一季度生產稀土產品63.6噸，歸屬於赤峰黃金淨利潤37.28萬元。"
+    },
+    {
+      "id": "mkt:019fdb6e-1c0d-7aab-8fb4-cadadefe899c",
+      "time": "2026-08-07 16:54:14",
+      "tags": [
+        "MKT News",
+        "09927.HK"
+      ],
+      "text": "SERES (09927.HK) said its board will meet on Aug. 19, 2026 to review and approve publication of interim results for the six months ended June 30, 2026 and to consider other matters."
+    },
+    {
+      "id": "5030607",
+      "time": "2026-08-07 16:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京多地現強降雨 未來兩小時仍有雷陣雨】根據北京市氣象臺釋出的資訊，當前較強回波在房山、昌平、懷柔、密雲、通州等區。近一小時（15時—16時），北京及周邊地區的最大降雨出現在懷柔區項柵子，為79.4毫米。延慶、懷柔、密雲、門頭溝的局地有7級左右短時陣風。預計未來1~2小時，北京市大部地區有雷陣雨天氣，其中懷柔、密雲、昌平、通州、房山等區相對明顯，局地短時雨強較大，雷雨時伴有6~7級陣風。目前，北京市正處於雷電黃色、暴雨藍色預警中，請注意防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fdb6d-fc84-7aab-8fb4-c0bf70c9bdea",
+      "time": "2026-08-07 16:54:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Idemitsu Kosan says it will continue to diversify crude sourcing, including boosting imports from the United States and South America."
+    },
     {
       "id": "5030606",
       "time": "2026-08-07 16:53:21",
@@ -147065,117 +147187,6 @@
         "市場"
       ],
       "text": "【閃迪美股盤前漲超5%】閃迪美股盤前漲超5%，現報1344.0美元。"
-    },
-    {
-      "id": "5018869",
-      "time": "2026-07-31 16:57:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【達實智慧簽約寧德時代智慧廠務自控系統集採專案】近期，達實智慧簽約寧德時代智慧廠務自控系統集採專案。系統將重點圍繞中央空調冷站等高能耗裝置，應用AI最佳化的節能控制演算法，實現對裝置執行狀態的實時感知、智慧分析與精準控制。系統上線後，將有效幫助寧德時代提升生產運營效率，顯著降低能耗與運營成本，實現從裝置自控到能源最佳化的價值落地。"
-    },
-    {
-      "id": "5018868",
-      "time": "2026-07-31 16:57:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元<JPY=EBS>跌破159關口。"
-    },
-    {
-      "id": "5018867",
-      "time": "2026-07-31 16:57:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日元<JPY=EBS>突發下跌，跌幅達0.2%。"
-    },
-    {
-      "id": "5018866",
-      "time": "2026-07-31 16:57:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Nebius Group美股盤前漲超10%】Nebius Group美股盤前漲超10%，現報207.47美元。"
-    },
-    {
-      "id": "5018865",
-      "time": "2026-07-31 16:57:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元突然走強，交易員警惕干預風險。"
-    },
-    {
-      "id": "5018864",
-      "time": "2026-07-31 16:56:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【平潭發展：借貸糾紛案執行終結 進入破產清算程式】平潭發展公告稱，公司與恒大福州公司借貸糾紛案，經一審、二審判決，被告中福置業公司應清償借款本金34705萬元及逾期利息等。近日，廣州中院出具《執行裁定書》，因平潭縣法院已裁定受理中福置業公司破產清算申請，本案債務將由破產清算程式處理，裁定終結執行。如破產清算申請被駁回，公司可申請恢復執行。本次訴訟對公司利潤影響不確定，預計無重大影響。"
-    },
-    {
-      "id": "5018863",
-      "time": "2026-07-31 16:56:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲5.1%至269.79點。"
-    },
-    {
-      "id": "5018862",
-      "time": "2026-07-31 16:56:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煜邦電力：預計觸發“煜邦轉債”轉股價格向下修正條件】煜邦電力公告，公司股票自2026年7月20日至2026年7月31日已有10個交易日的收盤價低於當期轉股價格的85%（即6.205元/股），存在觸發轉股價格向下修正條件的可能性。若觸發條件，公司將於觸發條件當日召開董事會審議決定是否修正轉股價格。最新轉股價格為7.3元/股。"
-    },
-    {
-      "id": "mkt:019fb763-3aa1-7aab-8f2f-198b249cd3ba",
-      "time": "2026-07-31 16:56:01",
-      "tags": [
-        "MKT News",
-        "STAN.L",
-        "Impact bullish"
-      ],
-      "text": "HKEX: Standard Chartered repurchased 383,424 shares on other exchanges on July 30 for £8.5 mln."
-    },
-    {
-      "id": "5018861",
-      "time": "2026-07-31 16:55:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【市北高新：參投上海新靜普創投基金完成備案，認繳2245.5萬元】市北高新公告，公司參與投資設立的上海新靜普創業投資合夥企業（有限合夥）已在中國證券投資基金業協會完成私募投資基金備案登記，備案日期為2026年7月31日。公司作為有限合夥人以自有資金認繳人民幣2245.5萬元，佔基金總認繳出資額4500萬元的49.90%。"
-    },
-    {
-      "id": "5018860",
-      "time": "2026-07-31 16:55:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天邑股份：成為中國電信採購專案成交人 預計金額2.74億元】天邑股份公告稱，近日收到《成交通知書》，確定為中國電信家庭FTTR產品（2026年 - 2027年）集中採購專案標包1、標包2成交人，預計成交總金額為2.74億元（含稅）。該專案屬公司主營業務，若後續合同正式簽訂並實施，將促進公司業績和市場開拓，且不影響經營獨立性。不過，公司尚未籤正式合同，存在不確定性。"
-    },
-    {
-      "id": "5018859",
-      "time": "2026-07-31 16:55:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "經國家藥監局組織論證和稽核，藿香清胃膠囊、虛汗停膠囊和消食理氣顆粒由處方藥轉換為非處方藥。"
-    },
-    {
-      "id": "mkt:019fb762-cc78-7aab-8f2f-13ffcc6cc4b2",
-      "time": "2026-07-31 16:55:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Copper",
-        "Nasdaq100"
-      ],
-      "text": "【WTO: Global merchandise trade growth exceeded expectations in Q1 2026】WTO data released July 31 showed global merchandise trade in Q1 2026 exceeded expectations. Seasonally adjusted volumes rose 1.9% QoQ and 3.2% YoY. Trade in AI-related electronic components surged, offsetting negative effects from the Middle East war late in the quarter. Asia exports and imports climbed YoY 12.9% and 14.6%, led by China, Singapore, South Korea and Thailand. North American exports rose 7% YoY while imports fell 10.7% YoY. The WTO said next quarter’s data should more fully reflect disruptions around the Strait of Hormuz."
     }
   ]
 }
