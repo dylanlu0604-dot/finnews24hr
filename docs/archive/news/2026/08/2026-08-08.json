@@ -1,7 +1,27 @@
 {
   "date": "2026-08-08",
-  "count": 550,
+  "count": 552,
   "items": [
+    {
+      "id": "mkt:019fdf6f-2711-7aab-8fc2-7d9716df66a2",
+      "time": "2026-08-08 11:33:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Ukraine says Kyiv issues air-raid alert; Russia reports missile threats in multiple regions】The Ukrainian Air Force said on the 8th Kyiv and other areas including Odesa region faced drone and ballistic-missile threats, prompting an air-raid alert in the capital; Kyiv military authorities reported a fuel depot fire, cause unconfirmed. Russian authorities said early on the 8th that regions including Samara and Saratov faced missile-attack risks, and more than ten Russian airports suspended flights that day."
+    },
+    {
+      "id": "5031800",
+      "time": "2026-08-08 11:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱基輔市拉響防空警報 俄稱多地有導彈來襲】烏克蘭空軍8日在社交媒體稱，烏克蘭首都基輔，以及敖德薩州等多地有無人機來襲風險。基輔市軍事管理局稱，由於無人機和彈道導彈威脅，基輔市拉響防空警報。該部門還稱，基輔一處燃料庫起火，但未說明具體原因。據俄羅斯方面8日凌晨訊息，俄羅斯薩馬拉州、薩拉托夫州等多地有導彈來襲風險。今天已有十多個俄羅斯機場暫停航班起降。"
+    },
     {
       "id": "mkt:019fdf6a-667e-7aab-8fc2-73e8e390a33b",
       "time": "2026-08-08 11:28:39",
