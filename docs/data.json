@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 11:27:45",
+  "updated": "2026-08-08 11:31:42",
   "count": 15936,
   "items": [
+    {
+      "id": "mkt:019fdf6a-667e-7aab-8fc2-73e8e390a33b",
+      "time": "2026-08-08 11:28:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia's new president vows tougher crackdown on drug crime】At his inauguration in Cali on the 7th, Colombia's new president said the government will soon publish a list of drug‑terror organizations and step up efforts against drug crime. He said restoring national security and state authority is a priority, ordering the armed forces and police to target all criminal gangs and to combat drug activity including through eradication of illegal crops."
+    },
+    {
+      "id": "5031799",
+      "time": "2026-08-08 11:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞新總統宣佈將加強打擊毒品犯罪】哥倫比亞新任總統德拉埃斯普列亞7日在哥西南部城市卡利舉行的總統就職儀式上發表演說，宣佈政府將很快公佈毒品恐怖組織名單，加大對毒品犯罪的打擊力度。德拉埃斯普列亞說，新政府將把恢復國家安全和權威作為重點，要求武裝部隊和警察打擊所有犯罪團伙，並透過根除非法作物等措施打擊毒品犯罪。德拉埃斯普列亞表示，新政府將加大反腐力度，推動經濟增長並改善醫療、教育和農村發展狀況。哥倫比亞將加強同其他國家在打擊跨國有組織犯罪、情報、安全和司法等領域的合作。"
+    },
     {
       "id": "5031798",
       "time": "2026-08-08 11:24:41",
@@ -145201,29 +145217,6 @@
         "MKT News"
       ],
       "text": "The U.S. Senate Judiciary Committee will meet next Tuesday to vote on Todd Blanche's nomination for U.S. attorney general."
-    },
-    {
-      "id": "mkt:019fbb60-6b6b-7aab-8f3f-8de9407d7c77",
-      "time": "2026-08-01 11:31:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Japan finance ministry says monetary authorities have multiple tools to meet market liquidity needs】Japan's finance ministry said on Saturday monetary authorities have multiple tools to meet market liquidity needs, including discretionary use of the Federal Reserve's Foreign and International Monetary Authorities (FIMA) standing repo facility, which accepts U.S. Treasuries as collateral to provide temporary dollar liquidity. The ministry said it stands ready to deploy available tools as needed to support orderly market functioning."
-    },
-    {
-      "id": "5020187",
-      "time": "2026-08-01 11:29:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院司法委員會定於週二就託德·布蘭奇出任司法部長的提名舉行投票會議。"
     }
   ]
 }
