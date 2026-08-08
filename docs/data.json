@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 02:21:07",
+  "updated": "2026-08-09 02:24:55",
   "count": 15861,
   "items": [
+    {
+      "id": "5032093",
+      "time": "2026-08-09 02:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：儘管參謀長聯席會議主席就彈藥問題發出警告，特朗普仍決意發動戰爭，並預期戰事會迅速結束。"
+    },
+    {
+      "id": "5032092",
+      "time": "2026-08-09 02:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國五角大樓發言人：有關武器短缺的報道並不屬實，我們擁有開展任何打擊行動所需的全部物資。"
+    },
+    {
+      "id": "mkt:019fe29c-cb87-7aab-8fc5-d54f8954bd96",
+      "time": "2026-08-09 02:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A State Duma lawmaker said the Middle East is gradually freeing itself from Western control and becoming part of a broader Eurasian security architecture."
+    },
     {
       "id": "mkt:019fe297-c13d-7aab-8fc5-ca3acdcb0a27",
       "time": "2026-08-09 02:17:03",
@@ -144494,35 +144518,6 @@
         "國際"
       ],
       "text": "伊拉克訊息人士：敘利亞通知伊拉克，監測到伊朗支援的民兵組織在兩國邊境附近調動。"
-    },
-    {
-      "id": "mkt:019fbe90-d8dd-7aab-8f43-5dcb131e1968",
-      "time": "2026-08-02 02:23:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Trump: I am destroying Iran's currency; Iran faces severe inf."
-    },
-    {
-      "id": "mkt:019fbe90-6081-7aab-8f43-56afa7894981",
-      "time": "2026-08-02 02:22:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosion at central Moscow restaurant kills three, injures 15】An explosion at a restaurant in central Moscow on Aug 1 killed three and injured 15, Moscow police said. Emergency services responded to the scene; preliminary reports attribute the blast to a gas leak."
-    },
-    {
-      "id": "5020550",
-      "time": "2026-08-02 02:21:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "全美汽車工人聯合會：密歇根州森特萊恩市斯特蘭蒂斯一處廠區發生致命工傷事故，將對此開展調查，並要求企業提供完整事故詳情。"
     }
   ]
 }

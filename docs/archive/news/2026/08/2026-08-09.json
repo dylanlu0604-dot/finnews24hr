@@ -1,7 +1,31 @@
 {
   "date": "2026-08-09",
-  "count": 53,
+  "count": 56,
   "items": [
+    {
+      "id": "5032093",
+      "time": "2026-08-09 02:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：儘管參謀長聯席會議主席就彈藥問題發出警告，特朗普仍決意發動戰爭，並預期戰事會迅速結束。"
+    },
+    {
+      "id": "5032092",
+      "time": "2026-08-09 02:23:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國五角大樓發言人：有關武器短缺的報道並不屬實，我們擁有開展任何打擊行動所需的全部物資。"
+    },
+    {
+      "id": "mkt:019fe29c-cb87-7aab-8fc5-d54f8954bd96",
+      "time": "2026-08-09 02:22:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A State Duma lawmaker said the Middle East is gradually freeing itself from Western control and becoming part of a broader Eurasian security architecture."
+    },
     {
       "id": "mkt:019fe297-c13d-7aab-8fc5-ca3acdcb0a27",
       "time": "2026-08-09 02:17:03",
