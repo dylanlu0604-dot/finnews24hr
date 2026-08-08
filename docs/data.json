@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-08 12:26:46",
+  "updated": "2026-08-08 12:30:48",
   "count": 15922,
   "items": [
+    {
+      "id": "te:markets:573897",
+      "time": "2026-08-08 12:26:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Petrobras earnings above expectations at 4.08 BRL — Petrobras (PETR3) released earnings per share at 4.08 BRL, compared to market expectations of 3.27 BRL."
+    },
     {
       "id": "mkt:019fdf9d-f805-7aab-8fc2-9a4c6eb20017",
       "time": "2026-08-08 12:24:59",
@@ -145067,14 +145079,6 @@
         "DXY"
       ],
       "text": "【Will Israel withdraw from Gaza?】Hamas has said it will include heavy-weapons handover in a Gaza ceasefire framework, but conditions the concession on Israel halting all aggression and withdrawing forces from the enclave. Israeli senior officials say they will not pull back from current Gaza positions until Hamas is “truly disarmed.” With an Israeli election months away and opposition polling ahead, Prime Minister Netanyahu faces strong political incentives to avoid a withdrawal that could fracture his coalition or antagonize key partners. Analysts and advisers say Netanyahu is likely to prefer symbolic intra-Gaza troop movements—such as repositioning to the old front lines referenced in the October 2025 ceasefire text—rather than a full withdrawal, both to preserve ties with Trump and to keep coalition unity. Observers note the prior ceasefire was widely breached by Israeli operations, which reportedly resulted in more than 1,200 Palestinian fatalities and continued expansion of Israeli control areas. The net policy signal: a full Israeli pullback from Gaza appears unlikely in the near term; expect continued negotiation standoffs and elevated risk of military continuity or escalation pending political calculations."
-    },
-    {
-      "id": "mkt:019fbb96-41ff-7aab-8f3f-db6190137efe",
-      "time": "2026-08-01 12:30:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Haobo Aion BU July sales 34,987 units, up 31.74% YoY】GAC said Haobo Aion BU sold 34,987 vehicles in July, up 31.74% YoY and positive MoM, marking its fifth consecutive month of double-digit YoY growth. The brand rolled out a new Ray model series targeting younger buyers on its 10th anniversary."
     }
   ]
 }

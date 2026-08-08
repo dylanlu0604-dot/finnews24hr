@@ -1,7 +1,19 @@
 {
   "date": "2026-08-08",
-  "count": 569,
+  "count": 570,
   "items": [
+    {
+      "id": "te:markets:573897",
+      "time": "2026-08-08 12:26:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Petrobras earnings above expectations at 4.08 BRL — Petrobras (PETR3) released earnings per share at 4.08 BRL, compared to market expectations of 3.27 BRL."
+    },
     {
       "id": "mkt:019fdf9d-f805-7aab-8fc2-9a4c6eb20017",
       "time": "2026-08-08 12:24:59",
