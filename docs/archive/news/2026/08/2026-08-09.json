@@ -1,7 +1,27 @@
 {
   "date": "2026-08-09",
-  "count": 48,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:019fe28d-667a-7aab-8fc5-bc269fe775d7",
+      "time": "2026-08-09 02:05:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Israeli Channel 13 reports Israel is preparing for the possibility of independently resuming strikes on Iran without US support."
+    },
+    {
+      "id": "5032090",
+      "time": "2026-08-09 02:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯稱，伊朗告知美國，並無在霍爾木茲海峽徵收通行費的計劃。"
+    },
     {
       "id": "5032089",
       "time": "2026-08-09 02:02:56",
