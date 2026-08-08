@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 13:49:52_
-_本檔包含 3302 則快訊，約 598992 字_
+_更新時間：2026-08-08 15:09:14_
+_本檔包含 3274 則快訊，約 597648 字_
+
+---
+
+### 2026-08-07 07:55:24  #央行 #資料 #市場 #國際
+
+【調查：澳洲央行年底前料一直按兵不動，以評估此前加息的影響】路透調查顯示，澳洲央行將於下週二維持政策利率不變，且在2026年餘下時間都將按兵不動，以評估今年早些時候加息對經濟的影響。自2月以來，澳洲央行已將現金利率累計上調75個基點至4.35%，完全逆轉了去年的寬鬆政策，以遏制在美國與以色列對伊朗開戰、推動油價大漲之前就已積聚的通脹壓力。許多經濟學家表示，潛在通脹動能正在減弱，這為政策制定者繼續採取觀望態度提供了理由。
+
+---
+
+### 2026-08-07 07:54:41  #MKT News #Market Regions #Japan & APAC
+
+Japan's foreign exchange reserves were $1,287.1 bln in July, down from $1,287.5 bln previously, a decline of $0.4 bln.
+
+---
+
+### 2026-08-07 07:54:28  #MKT News #Economic Calendar #Important
+
+Japan | Foreign Exchange Reserves (Jul) | actual 1287100000000B | previous 1287500000000B
+
+---
+
+### 2026-08-07 07:54:16  #其他
+
+北摩高科：向特定物件發行股票申請獲深交所稽核透過。
+
+---
+
+### 2026-08-07 07:53:41  #其他
+
+META就新墨西哥州法院裁決表態：不同意該裁決並將提起上訴。
+
+---
+
+### 2026-08-07 07:53:40  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's Ministry of Finance said the largest single-day foreign-exchange intervention in the April–June quarter occurred on April 30, totaling ¥6.2787 trillion.
+
+---
+
+### 2026-08-07 07:53:39  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's Ministry of Finance said it conducted three yen-buying foreign-exchange interventions in April and May.
+
+---
+
+### 2026-08-07 07:53:03  #經濟數據 #日本
+
+日本外匯儲備7月底為1.09萬億美元，與6月份持平。
+
+---
+
+### 2026-08-07 07:52:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Steady Ahead of Key Jobs Report — US stock futures were little changed on Friday as investors awaited the closely watched July jobs report for fresh signals on labor market conditions and the potential path of Federal Reserve monetary policy. In corporate news, Airbnb jumped more than 8% in extended trading after reporting stronger-than-expected revenue and earnings, while Cloudflare soared 16% on an upbeat full-year and current-quarter outlook. Meanwhile, DraftKings slipped 3% after falling short of revenue estimates. During Thursday’s regular session, the Dow declined 0.85%, the S&P 500 eased 0.18%, and the Nasdaq Composite dipped 0.06%. Eight of the 11 S&P sectors ended in negative territory, with industrials, real estate, and materials posting the steepest losses. The pullback came as a rebound in oil prices reignited concerns that the Fed could raise interest rates as soon as next month.
+
+---
+
+### 2026-08-07 07:52:20  #市場 #焦點
+
+紐約期金突破4310美元/盎司，日內漲0.25%。
+
+---
+
+### 2026-08-07 07:51:50  #國際
+
+日本財務省：截至7月底日本外匯儲備為1.287099萬億美元，6月底為1.287476萬億美元。
+
+---
+
+### 2026-08-07 07:51:42  #市場 #焦點
+
+現貨黃金突破4250美元/盎司，日內漲0.23%。
+
+---
+
+### 2026-08-07 07:51:10  #國際
+
+日本財務省資料顯示，4月和5月日本分別在共3天進行了買入日元的匯率干預操作。
+
+---
+
+### 2026-08-07 07:51:07  #國際
+
+日本財務省資料顯示，4-6月日本單日規模最大的干預發生在4月30日，干預規模為6.2787萬億日元。
+
+---
+
+### 2026-08-07 07:50:32  #其他
+
+國家海洋預報臺8月7日08時釋出風暴潮藍色警報：受冷空氣的影響，預計：8月7日下午至8日上午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市、滄州市，天津市和山東省濱州市的風暴潮預警級別為藍色。8日中午前後視情況解除風暴潮警報。
+
+---
+
+### 2026-08-07 07:48:10  #公司 #國際
+
+【媒體：LG集團會長具光謨將於下週會晤英偉達黃仁勳】韓國經濟日報援引不願具名的業內人士訊息，LG 集團會長具光謨下週將在矽谷的英偉達總部與黃仁勳會面。具光謨與黃仁勳曾於 6 月在首爾會晤，並宣佈在機器人、人工智慧基礎設施、自動駕駛等領域開展合作；此後，LG CNS 及 LG 旗下其他子公司約 30 名高管已於 6 月 22 日到訪英偉達總部。具光謨與黃仁勳或將探討物理人工智慧、智慧工廠，雙方也可能磋商 LG 採購Blackwell系列 GPU 的相關細節。
+
+---
+
+### 2026-08-07 07:47:20  #市場 #國際
+
+基準10年期日本公債期貨早盤下跌0.32點。
+
+---
+
+### 2026-08-07 07:47:03  #市場 #國際
+
+日本日經平均指數期貨早盤上漲0.31%。
+
+---
+
+### 2026-08-07 07:45:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
+
+【Japan household spending falls for seventh month; inflation saps confidence】Japan household spending unexpectedly fell for a seventh consecutive month in June, underscoring persistent inflationary pressure on consumption despite rising inflation-adjusted wages, the Ministry of Internal Affairs and Communications said. Real household spending dropped 3.3% YoY in June versus an economists’ consensus of +0.9%; seasonally adjusted spending fell 6.4% MoM. The decline clouds prospects for a domestic-demand-led recovery even as state aid has lowered utility costs and inflation-adjusted wages have risen month-to-month this year. Consumer confidence improved in June but remains well below its 10- and 20-year averages. The government will publish preliminary Q2 GDP on Aug. 17.
+
+---
+
+### 2026-08-07 07:44:55  #其他
+
+【新墨西哥州法官判令Meta賠付5.67億美元】法院責令Meta向專項紓解基金繳納5.67億美元，用於化解青少年心理健康遭受的損害。該裁決由地區法院首席法官布萊恩・比德沙伊德於週四下達。法官在判決意見書中寫道：“儘管並非只有Meta存在該問題，但本案大量證據證實，其旗下社交媒體平臺是造成新墨西哥州青少年當前心理健康危機的重要誘因。”他指出：“Meta刻意設計平臺以最大化使用者停留互動，其中部分機制會對青少年造成傷害，且未向使用者充分披露相關損害風險。”該紓解基金，是在此前審判第一階段所判處的3.75億美元民事罰款之外追加的。第一階段審判主要聚焦於Meta的行為是否違反了該州的《不公平行為法》。
+
+---
+
+### 2026-08-07 07:41:21  #國際
+
+日本政府官員談及6月家庭支出情況：颱風、低溫天氣及降雨量增加導致飲料、外出就餐支出下降。
+
+---
+
+### 2026-08-07 07:41:05  #市場
+
+【深圳二手豪宅成交回暖】今年以來，深圳豪宅市場熱度持續攀升。除了多個豪宅新房專案持續熱銷，二手房市場上的豪宅成交也明顯回暖。深圳貝殼研究院監測顯示，7月總價1500萬元以上二手豪宅簽約量同比增長11%，達到近6年來的峰值。與此同時，總價千萬級二手房成交均價為101504元/平方米，環比上漲5.7%，同比上漲8.4%。深圳貝殼研究院院長肖小平指出，深圳樓市“4·29新政”降低核心區購房門檻後，本地高淨值家庭置換需求及外地資產配置客群入場增加，推動南山、福田核心區域高階物業成交持續升溫，價格穩步抬升。另據深圳貝殼研究院的監測，今年前7個月深圳二手房成交42323套，與去年同期相比增長5.4%，創下近６年同期新高。不過，記者採訪發現，在以剛需為主的二手房片區，“以價換量”仍是市場的主流。
+
+---
+
+### 2026-08-07 07:40:31  #市場 #央行 #國際
+
+【日本6月家庭消費意外下滑】日本政府週五公佈資料顯示，6月家庭消費同比意外走低，連續第七個月出現下降。日本總務省資料顯示，家庭消費支出同比下降3.3%，市場預期中值為增長1%。經季節調整後，家庭消費環比下降6.4%，而市場預估為下降3.1%。該指標將成為日本央行考量最早於9月是否加息的重要參考依據。日本厚生勞動省本週公佈的資料顯示，6月實際工資同比增長1.6%，實現連續第六個月上漲。
+
+---
+
+### 2026-08-07 07:39:04  #其他
+
+【OpenAI更新ChatGPT體驗，免費使用者可使用GPT-5.6 Luna並享無限文字聊天】8月6日，OpenAI宣佈更新ChatGPT模型體驗，提升GPT-5.6 Sol在事實準確性、回答聚焦度和多場景一致性方面的表現，同時擴大免費使用者對GPT-5.6 Luna的訪問許可權。OpenAI表示，Plus和Pro使用者將獲得更新後的GPT-5.6 Sol，該模型能夠根據問題複雜程度調整回答深度，並減少不必要的格式化內容。對於免費使用者，OpenAI將預設模型更新為GPT-5.6 Luna，並擴大訪問範圍，提供無限文字聊天功能。針對需要更深入推理的問題，免費使用者可透過新增“Think”按鈕呼叫更高推理能力。
+
+---
+
+### 2026-08-07 07:39:04  #Trading Economics #Economy #Japan #Household Spending #Importance 2
+
+Japan Personal Spending Unexpectedly Falls — Japan's household spending dropped 3.3% yoy in June 2026, deepening from a 0.4% decline in the prior month and defying market expectations for a 1.0% rise. It marked the seventh straight month of contraction and the sharpest fall in the current sequence, underscoring persistent weakness in consumer demand. Spending weakened for food (-2.5% vs 2.4% in May), utilities (-7.1% vs -7.6%), furniture and household goods (-11.4% vs 23.0%), clothing (-19.9% vs 4.0%), and transport and communication (-5.7% vs -15.8%). Meanwhile, growth in spending eased for healthcare (1.4% vs 3.3%) and education (20.6% vs 21.7%). In contrast, housing expenditure accelerated (3.6% vs 0.7%), while spending on culture and recreation returned to growth (0.4% vs -3.1%). On a seasonally adjusted monthly basis, household expenditure slipped 6.4%, reversing a 3.7% gain in May and far exceeding forecasts for a 3.1% decrease. The reading was the first monthly fall since March and the steepest drop since January 2021.
+
+---
+
+### 2026-08-07 07:39:01  #其他
+
+新墨西哥州法院判令Meta出資 5.67 億美元設立專項紓解基金，用於處理認知科普、風險防範等相關問題。
+
+---
+
+### 2026-08-07 07:37:36  #公司 #市場 #國際
+
+【Naver第二季度淨利潤高於市場平均預期】得益於核心搜尋平臺和電商業務的穩定增長，韓國網際網路巨頭Naver公佈了穩健的第二季度業績。Naver公佈的業績好於市場平均預期。與此同時，這家韓國主導搜尋引擎背後的公司一直在擴大其人工智慧(AI)的佈局，最近與AI晶片領導者英偉達和美國私募股權投資公司博楓(Brookfield)達成了數以十億美元計的合作，以建立千兆瓦級的AI雲基礎設施。該公司週五表示，4-6月當季淨利潤同比增長42%，至7,043億韓元（合4.949億美元）。這一數字超過了FactSet彙編的4,717.1億韓元的平均預期。營收增長16%，至3.389萬億韓元；營業利潤微降0.2%，至5,203億韓元。今年以來，該公司股價已下跌約7%，跑輸基準韓國綜合指數(Kospi)近50%的漲幅。
+
+---
+
+### 2026-08-07 07:36:26  #其他
+
+Salesforce計劃在華盛頓和加利福尼亞州裁員133人。
+
+---
+
+### 2026-08-07 07:36:20  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+The Wall Street Journal reported Trump has ordered a new investigation into a Pentagon ammunition stockpile leak, government officials said, calling it his latest escalation to counter damaging disclosures about a war with Iran.
 
 ---
 
@@ -19589,347 +19763,5 @@ CGTN reported that Yemen's Houthi movement said it fired a ballistic missile at 
 ### 2026-08-05 22:03:18  #其他
 
 市場訊息：葉門胡塞武裝稱，在紅海北部向一艘沙特油輪發射了彈道導彈。該組織未提供證據，沙烏地阿拉伯也未立即發表評論。
-
----
-
-### 2026-08-05 22:02:47  #Trading Economics #Economy #United States #Services PMI #Importance 1
-
-US Services Activity Revised Higher — The S&P Global US Services PMI rose to 54.6 in July from 51.2 in the previous month, revised higher from the flash estimate of 53.6 to mark the sharpest expansion in activity in nine months. New business levels rose the most since November, with panelists noting a pickup in activity due to FIFA World Cup and Independence Day spending, and higher investments in sales, marketing, and product development. New work was awarded from domestic clients, as export orders fell the most since 2022 amid tariffs and the Middle East war. Consequently, firms increased their staff counts the most in eight months. Meanwhile, input cost inflation rose to a 14-month high due to tariffs and higher raw-material costs, driving companies to pass on price hikes to consumer charges when possible. Looking ahead, confidence improved on hopes of easing energy prices and business expansion plans.
-
----
-
-### 2026-08-05 22:02:45  #宏觀 #焦點 #國際
-
-美國財政部：美國撤銷了涉伊朗相關制裁。
-
----
-
-### 2026-08-05 22:02:06  #公司
-
-【秦曉倩獲批擔任重慶國際信託董事、總經理】8月5日，重慶金融監管局網站釋出批覆，核准秦曉倩重慶國際信託股份有限公司董事、總經理的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。
-
----
-
-### 2026-08-05 22:01:53  #其他
-
-市場訊息：森科能源稱對加拿大監管環境改善感到鼓舞；若市場條件允許，可靈活加速產量增長步伐。
-
----
-
-### 2026-08-05 22:01:30  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD #Impact mixed
-
-US ISM Non‑Manufacturing Suppliers' Deliveries Index 52.8 in July, down from 54.4 in June.
-
----
-
-### 2026-08-05 22:01:21  #MKT News #Macro & Rates #US Economy
-
-US July ISM non-manufacturing inventories index 51.4, prior 51.2.
-
----
-
-### 2026-08-05 22:01:17  #MKT News #Economic Calendar #Important
-
-United States | ISM Services Supplier Deliveries Index (Jul) | actual 52.8 | previous 54.4
-
----
-
-### 2026-08-05 22:01:10  #MKT News #Economic Calendar #Important
-
-United States | ISM Services Inventory Index (Jul) | actual 51.4 | previous 51.2
-
----
-
-### 2026-08-05 22:00:54  #公司 #國際
-
-雷諾茲美國公司遭懷登質詢，涉及電子煙業務及與特朗普方面關聯。
-
----
-
-### 2026-08-05 22:00:38  #經濟數據 #美國
-
-美國供應管理學會7月份非製造業指數升至54.1，預期54.5。
-
----
-
-### 2026-08-05 22:00:21  #資料 #國際
-
-美國7月ISM非製造業PMI 54.1，預期54.5，前值54。美國7月ISM非製造業物價指數 70.3，前值67.7。美國7月ISM非製造業新訂單指數 57.2，前值55.1。美國7月ISM非製造業就業指數 47.4，前值51.2。
-
----
-
-### 2026-08-05 22:00:16  #MKT News #DXY #Impact bearish #US10Y #Impact bullish #EURUSD
-
-U.S. July ISM non-manufacturing employment index 47.4, prior 51.2.
-
----
-
-### 2026-08-05 22:00:10  #MKT News #Important #DXY #Impact bearish #EURUSD #Impact bullish #S&P500 #Impact mixed
-
-US ISM non-manufacturing PMI (July) 54.1 vs. 54.5 expected; prior 54.0.
-
----
-
-### 2026-08-05 21:59:41  #市場
-
-市場訊息：STL斬獲約2.1億美元國際光纖光纜供應合約。
-
----
-
-### 2026-08-05 21:59:28  #公司
-
-【蔣寧獲批擔任馬上消費金融副董事長、總經理】8月5日，重慶金融監管局網站釋出批覆，核准蔣寧馬上消費金融股份有限公司董事、副董事長、總經理的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。
-
----
-
-### 2026-08-05 21:57:57  #宏觀 #國際
-
-市場訊息：美國財政部將於週三釋出帶薪家事假新指引。
-
----
-
-### 2026-08-05 21:57:25  #其他
-
-奧地利國家氣象局稱，在與斯洛伐克接壤的巴特德意志-阿爾滕堡鎮，氣溫達到41.2攝氏度，創下奧地利最高氣溫新紀錄。
-
----
-
-### 2026-08-05 21:56:24  #其他
-
-【聯合國教科文組織確認北京為2029年“世界建築之都”】聯合國教科文組織5日宣佈，正式確認北京為2029年聯合國教科文組織—國際建築師協會“世界建築之都”。（新華社）
-
----
-
-### 2026-08-05 21:56:09  #國際
-
-歐洲天然氣價格跌幅擴大至5.6%，至52.78歐元/兆瓦時。
-
----
-
-### 2026-08-05 21:55:34  #國際
-
-市場訊息：韓國將對巴西進行牛肉貿易初步談判的審計。
-
----
-
-### 2026-08-05 21:55:06  #其他
-
-據預測，進步派人士阿卜杜勒·賽義德贏得密歇根州聯邦參議員民主黨提名，將與共和黨人邁克·羅傑斯競爭該空缺席位。
-
----
-
-### 2026-08-05 21:55:05  #市場 #焦點
-
-道指漲1.02%，現報54635.699點；納指漲0.39%，現報26689.548點；標普500指數漲0.59%，現報7781.930點。
-
----
-
-### 2026-08-05 21:55:04  #Trading Economics #Markets #United States #stocks #Importance 1
-
-General Electric Aerospace Stock Price Hits 25-year High — General Electric Aerospace shares increased to 383.36 USD, the highest since July 2001. Over the past 4 weeks, General Electric Aerospace gained 0.84%, and in the last 12 months, it increased 40.33%.
-
----
-
-### 2026-08-05 21:54:46  #國際
-
-印度外交部：印度外交秘書將訪問斯里蘭卡。
-
----
-
-### 2026-08-05 21:53:39  #其他
-
-孟加拉國前總理哈西娜：希望12月回國。
-
----
-
-### 2026-08-05 21:53:33  #其他
-
-孟加拉國前總理哈西娜：時機成熟時將公佈回國日期。
-
----
-
-### 2026-08-05 21:52:43  #其他
-
-警方稱，倫敦市中心的持刀傷人事件“據信是一起與心理健康相關的事件”。
-
----
-
-### 2026-08-05 21:52:25  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Globalfoundries earnings above expectations at 0.46 USD — Globalfoundries (GFS) released earnings per share at 0.46 USD, compared to market expectations of 0.43 USD.
-
----
-
-### 2026-08-05 21:52:24  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Iron Mountain earnings above expectations at 0.60 USD — Iron Mountain (IRM) released earnings per share at 0.60 USD, compared to market expectations of 0.53 USD.
-
----
-
-### 2026-08-05 21:50:45  #公司
-
-亞馬遜：澳大利亞的Alexa+早期體驗階段免費；該階段結束後，Prime會員可繼續免費使用，非Prime使用者每月需支付29.99澳元。
-
----
-
-### 2026-08-05 21:50:32  #公司
-
-亞馬遜：Alexa+將於8月6日在澳大利亞推出，作為搶先體驗計劃的一部分。
-
----
-
-### 2026-08-05 21:50:26  #其他
-
-【英國倫敦發生持刀傷人事件】總檯記者當地時間8月5日獲悉，英國倫敦市中心發生一起持刀傷人事件。目前具體傷亡情況暫不明。（央視新聞）
-
----
-
-### 2026-08-05 21:50:06  #Trading Economics #Economy #United States #Composite PMI #Importance 1
-
-US Private Sector Growth Hits Nine-Month High in July — The S&P Global US Composite PMI rose to 54.5 in July 2026 from 51.9 in June, exceeding both the preliminary estimate of 53.6 and marking the strongest expansion in private sector activity since October 2025. The improvement was driven by faster growth in the services sector, while manufacturing output continued to expand at a solid pace. New business increased at the fastest rate in 19 months, business confidence climbed to its highest level since last November, and private sector employment returned to growth for the first time since April. On the price front, input cost inflation accelerated to its highest level since November 2022, pushing output price inflation to a one-year high.
-
----
-
-### 2026-08-05 21:49:47  #公司
-
-【武漢元豐汽車零部件研發生產基地落戶武漢經開區】8月5日，武漢經開區與西上海旗下控股子公司武漢元豐汽車零部件有限公司簽約，西上海將建設武漢元豐汽車零部件研發生產基地。該專案總投資約1.56億元，將重點佈局電子駐車液壓盤式制動器（EPB）等線控制動產品，新增自動化工藝裝置、研發測試中心及相關配套設施。專案預計2027年投產，2030年達產。
-
----
-
-### 2026-08-05 21:49:42  #公司 #市場
-
-【SpaceX債券在高評級債券中跌幅居前】SpaceX債券週三早盤利差走闊。這家新近上市的航天科技公司將人工智慧相關資本支出增加一倍，蓋過了季度業績好於預期帶來的利好。該公司2046年到期、票息6.60%的債券利差擴大8個基點，至238個基點；其2033年到期、票息5.65%的債券利差擴大約9個基點，至186個基點。
-
----
-
-### 2026-08-05 21:49:31  #國際
-
-孟加拉國前總理哈西娜之子：印度正以國家元首規格對待哈西娜。
-
----
-
-### 2026-08-05 21:49:11  #公司 #國際
-
-【英國首相考慮調查愛潑斯坦在英活動】英國首相安迪·伯納姆正考慮是否就已故美國富商傑弗裡·愛潑斯坦在英國的活動啟動公開調查。英國司法部政務次官亞歷克斯·戴維斯-瓊斯在英國廣播公司一檔節目中說，政府正在研究啟動公開調查的可行性，伯納姆已同意會見愛潑斯坦案受害者。圍繞愛潑斯坦的醜聞持續衝擊英國政界和王室，英國國王查爾斯三世的弟弟安德魯以及英國前駐美國大使彼得·曼德爾森因相關案件一度被捕。（新華社）
-
----
-
-### 2026-08-05 21:48:58  #國際
-
-【韓國總統要求加速整合軍校】韓國總統李在明5日要求國防部加速推進軍事院校整合，以降低韓國軍隊干預政治的風險，防範再度發生軍事政變。李在明當天在總統府青瓦臺聽取國防部等部門工作彙報時說，韓國歷史上3次軍事政變均與陸軍和陸軍士官學校畢業生有關，但這所學校卻從未被問責，因而存在重蹈覆轍的風險。他認為，韓國各軍種不應分別設立軍校，而應將它們整合為一所軍校。（新華社）
-
----
-
-### 2026-08-05 21:48:10  #其他
-
-孟加拉國前總理哈西娜之子：我們目前與現任政府沒有任何溝通。
-
----
-
-### 2026-08-05 21:48:02  #公司 #國際
-
-【綠葉製藥：創新藥LY03015在美國完成橋接臨床試驗】8月5日，綠葉製藥集團宣佈，其自主研發的新分子實體LY03015已在美國完成橋接臨床試驗，支援其即將在美國開展的療效臨床試驗。該試驗同時發現，高加索人群較中國人群具有更好的安全耐受性。
-
----
-
-### 2026-08-05 21:47:20  #央行 #國際
-
-印度儲備銀行：印度央行將於2026年8月6日在流動性調節工具（LAF）項下開展4天期可變利率逆回購（VRRR）拍賣。
-
----
-
-### 2026-08-05 21:46:39  #公司 #市場
-
-【傳智教育：公司從事的AI人才職業培訓所處的細分市場目前尚處於發展初期階段】據傳智教育公告，公司股票連續10個交易日內日收盤價格漲幅偏離值累計達到+100%，根據《深圳證券交易所交易規則》的相關規定，屬於股票交易嚴重異常波動情形。近期，公司關注到近期有媒體將公司列為“AI應用”、“具身智慧”概念相關股，公司自成立以來所從事的主營業務均屬於傳統教育行業。公司從事的AI人才職業培訓業務除教學內容與AI相關外，教學形式、服務流程及商業邏輯與其他技能型培訓課程無實質差異，不涉及教育行業之外的業務。公司從事的AI人才職業培訓所處的細分市場目前尚處於發展初期階段，未來長期的發展前景和盈利能力存在不確定性。
-
----
-
-### 2026-08-05 21:46:21  #國際
-
-市場訊息：兩名地區官員表示，伊朗和阿曼談判代表已敲定霍爾木茲海峽協議草案，正等待伊朗最高領袖最終批准。
-
----
-
-### 2026-08-05 21:46:03  #經濟數據 #美國
-
-【美國7月標普全球服務業PMI終值54.6 前值53.6】美國7月標普全球服務業PMI終值54.6，前值53.6；7月標普全球綜合PMI終值54.5，前值53.6。
-
----
-
-### 2026-08-05 21:45:10  #資料 #國際
-
-美國7月標普全球服務業PMI終值 54.6，前值53.6。美國7月標普全球綜合PMI終值 54.5，前值53.6。
-
----
-
-### 2026-08-05 21:45:05  #國際
-
-SHIPROCKET在印度的IPO將於8月12日啟動，募資額為161.7億印度盧比。
-
----
-
-### 2026-08-05 21:44:12  #市場
-
-原油漲幅收窄，布倫特原油價格跌破80美元/桶。
-
----
-
-### 2026-08-05 21:44:02  #其他
-
-諾和諾德：海牙法院針對 Ceban 下達臨時禁令。
-
----
-
-### 2026-08-05 21:43:00  #其他
-
-諾和諾德贏得荷蘭法院禁令，保護患者免受未經批准的非法複方司美格魯肽鼻噴霧劑的侵害。
-
----
-
-### 2026-08-05 21:41:04  #市場
-
-北美科技軟體股指數ETF漲超1%，處於連續第九個交易日上漲之中，報103.50美元，逼近6月1日頂部108.03美元和2025年9月頂部117.97美元（歷史最高位）。
-
----
-
-### 2026-08-05 21:40:56  #市場
-
-SHAKE SHACK股價走勢逆轉，最新下跌約2%。
-
----
-
-### 2026-08-05 21:40:27  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ProLogis Stock Price Hits 4-week Low — ProLogis shares decreased to 138.60 USD, the lowest since July 2026. Over the past 4 weeks, ProLogis lost 1.07%, and in the last 12 months, it increased 29.58%.
-
----
-
-### 2026-08-05 21:40:17  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.85% Higher — The Dow Jones Index is gaining 458 points or 0.85 percent on Wednesday. Leading the gains are Nvidia (4.21%), Walt Disney (2.84%) and Goldman Sachs (1.59%). Top losers are P&G (-1.23%), Apple (-0.60%) and Chevron (-0.54%).
-
----
-
-### 2026-08-05 21:39:53  #市場 #焦點
-
-PTA連續主力合約日內跌2%，現報5646.00元。
-
----
-
-### 2026-08-05 21:39:38  #公司
-
-【歐菲光：周亮辭任董秘，繼續擔任公司董事、副總經理】歐菲光8月5日公告，公司董事會近日收到董事會秘書周亮的書面辭職報告，周亮因工作調整辭去公司董事會秘書職務，辭職後繼續擔任公司董事、副總經理職務。為保證公司董事會工作的正常進行，經公司董事長蔡榮軍提名、董事會提名委員會資格審查透過，公司於2026年8月4日召開董事會，審議透過了聘任李茵為公司副總經理、董事會秘書的議案，任期自董事會審議透過之日起至公司第六屆董事會任期屆滿為止。
-
----
-
-### 2026-08-05 21:39:16  #市場
-
-CIRCLE INTERNET GROUP股價在第二季度業績公佈後下跌5.1%。
-
----
-
-### 2026-08-05 21:39:07  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Near Lows as Markets Eye Iran Agreement — Brent crude oil fluctuated below $80 per barrel on Wednesday, after losses of around 5% in each of the previous two sessions, as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Meanwhile, Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs.
 
 ---

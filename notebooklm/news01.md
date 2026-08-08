@@ -1,7 +1,129 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 13:49:52_
-_本檔包含 3081 則快訊，約 599345 字_
+_更新時間：2026-08-08 15:09:14_
+_本檔包含 3071 則快訊，約 598033 字_
+
+---
+
+### 2026-08-08 15:05:43  #公司 #國際
+
+美國國家公路交通安全管理局（NHTSA）通報：克萊斯勒（即FCA美國有限責任公司）正在召回部分美國市場車型，本次召回範圍內車輛存在安全帶無法回縮的問題，無法按設計要求正確約束乘員，會提升乘員受傷風險。
+
+---
+
+### 2026-08-08 14:54:37  #市場 #國際
+
+【日本食品自給率跌至歷史新低】日本農林水產省8月7日公佈的資料顯示，2025財年，即2025年4月至2026年3月，按熱量計算的日本食品自給率下降1個百分點至37%，為歷史最低水平。日本食品自給率是指國內生產的食品佔國內食品總供給的比例。日本農林水產省表示，大米消費減少是食品自給率下降的重要原因。日本大米消費長期以來主要依靠本國供應，是日本食品自給率的重要支撐。米價上漲導致居民大米消費減少，國產大米提供的熱量隨之減少，顯著拉低日本整體食品自給率。（CCTV國際時訊）
+
+---
+
+### 2026-08-08 14:52:44  #MKT News
+
+A drone strike on Saturday hit an untreated napatha tank at Libya's Zawiya refinery, causing a leak; the situation is now under control.
+
+---
+
+### 2026-08-08 14:52:03  #國際
+
+利比亞扎維耶煉油廠表示，週六一架無人機襲擊了一個未處理的石腦油罐，導致發生洩漏，目前情況已得到控制。
+
+---
+
+### 2026-08-08 14:51:38  #其他
+
+【浙江溫州市釋出颱風橙色預警訊號】溫州市氣象臺2026年8月8日14時23分將溫州市區颱風黃色預警訊號升級為颱風橙色預警訊號：受今年第13號颱風“白海豚”影響，預計今天下午溫州市區和沿海平原、沿海海面風力分別有7—9級和9—11級；夜裡到明天繼續增強至10—12級和13—15級。今天夜裡起溫州市區所有街道（鎮）陰有大到暴雨，明天和後天陰有暴雨到大暴雨，部分特大暴雨。
+
+---
+
+### 2026-08-08 14:45:46  #MKT News
+
+【Sources: US Joint Chiefs chair seeking way out of war with Iran】Sources said Dan Kane, chairman of the US Joint Chiefs of Staff, has privately told senior Trump advisers in recent weeks the US needs to find a way out of a war with Iran because military options on the table could backfire and airpower alone is unlikely to achieve Trump’s objectives. Three people familiar with the matter said Kane discussed escalation options and potential exit paths with senior officials including Vice President Vance, Secretary of State Rubio and CIA Director Ratcliffe, and met with like-minded Trump advisers to build consensus before briefing the president. In a recent meeting with Trump, Kane flagged concern about shrinking US munitions stocks and discussed possible escalation options.
+
+---
+
+### 2026-08-08 14:44:54  #國際
+
+俄羅斯克拉斯諾達爾邊疆區伊爾斯基煉油廠遭無人機襲擊後起火，造成五人受傷。
+
+---
+
+### 2026-08-08 14:41:35  #國際
+
+【訊息人士：美軍高層尋找擺脫伊朗戰事的途徑】美國方面7日援引訊息人士的話稱，美軍參謀長聯席會議主席丹·凱恩在尋找擺脫伊朗戰事的途徑。訊息稱，三位知情人士透露，過去幾周，美軍參謀長聯席會議主席丹·凱恩私下向特朗普的其他高階顧問明確表示，美國需要找到一條擺脫伊朗戰事的途徑，因為擺在桌面上的軍事選項可能會適得其反，而且僅靠空中力量不太可能實現特朗普的目標。訊息人士透露，丹·凱恩曾與其他政府要員，包括副總統萬斯、國務卿魯比奧和中央情報局局長拉特克利夫討論過升級衝突的軍事選項，並提出了尋求結束戰事的途徑。丹·凱恩最近還與幾位理念相近的特朗普顧問私下會面，確保他們在與總統會晤前達成共識。此外，訊息還提到，丹·凱恩在近期與特朗普的會晤中，對美國日益減少的軍火儲備表示擔憂，雙方還討論了升級衝突的潛在選項。（央視新聞）
+
+---
+
+### 2026-08-08 14:35:06  #公司 #國際
+
+【今日特朗普要聞】
+1、特朗普表示，重開霍爾木茲海峽的談判正在推進，儘管伊朗議員正在考慮對與美國和以色列相關的船隻實施限制。
+2、特朗普：（關於人工智慧）這可能比石油還要重要。誰贏得人工智慧，誰就贏得一切。就是如此重要。人工智慧比網際網路大很多倍。
+3、報道稱，美國總統特朗普近日在一次私下會晤中表示，他希望副總統萬斯能夠贏得2028年總統大選。
+4、美國總統特朗普當地時間8月7日宣佈，聯邦政府將向多個關鍵礦產和電池專案投資30億美元，旨在增加美國國內產量，並以此推動國家安全與產業政策。
+5、美國總統特朗普6日否認他對國防部長赫格塞思不滿，稱對赫格塞思所做的工作“非常滿意”。
+6、白宮本週致信庫克稱，特朗普“正在考慮”解除其職務，並要求她在三週內回應有關抵押貸款欺詐的指控。
+7、特朗普媒體集團退出與Crypto.com的兩項交易。
+8、當地時間8月6日，有記者在採訪美國總統特朗普時提出，如果民主黨人在中期選舉後控制國會眾議院，可能會再次試圖彈劾他，特朗普表示，“很多人說我是有史以來最偉大的總統之一”。
+
+---
+
+### 2026-08-08 14:33:58  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Ukraine reports strikes on Kyiv and surrounding areas; multiple casualties】Kyiv city military-civil administration said on the 8th that Russian strikes hit Kyiv early in the day; as of 05:45 local time the attacks had injured four people and sparked fires in two districts, with rescue operations ongoing. Kyiv regional military-civil administration said Russian drone strikes on the region killed three and injured three. Russia had no immediate comment.
+
+---
+
+### 2026-08-08 14:33:35  #國際
+
+【烏稱基輔等地遭襲 已有多人死傷】烏克蘭基輔市軍政管理局8日通報稱，當天凌晨基輔市遭俄軍襲擊，截至當地時間5時45分，襲擊已造成4人受傷，基輔市兩個地區發生火災，相關部門正在開展救援工作。此外，烏克蘭基輔州軍政管理局通報稱，當天基輔州遭俄軍無人機襲擊，截至目前已造成3人死亡，另有3人受傷。目前俄羅斯方面對此暫無回應。
+
+---
+
+### 2026-08-08 14:30:18  #MKT News
+
+【Zelenskiy visits Serbia as Russian influence wanes】Ukrainian President Zelenskiy made a landmark first visit to Serbia on Saturday. President Vucic, long an ally of Putin, has seen ties with Moscow sour since Russia's 2022 invasion; Belgrade has not joined Western sanctions but has condemned the war and curtailed Russian economic influence. Moscow has accused Serbia of betraying Russia and of aiding Ukrainian forces.
+
+---
+
+### 2026-08-08 14:16:54  #市場 #焦點
+
+布倫特原油暗盤跌破82美元，日內跌超1.6%。
+
+---
+
+### 2026-08-08 14:14:53  #其他
+
+【陝西柞水泥石流災害致3人遇難】今天（8月8日）13時40分，陝西商洛柞水縣泥石流災害造成的2名失聯人員中，最後1名失聯人員被找到，已確認不幸遇難，此次泥石流災害共造成3人不幸遇難。目前當地衛生防疫人員已展開全面消殺防疫工作，並妥善做好善後工作。（央視新聞）
+
+---
+
+### 2026-08-08 14:12:56  #其他
+
+【我國首個預防急性高原病藥物獲批上市】據西藏日報，近日，經國家藥品監督管理局嚴格審評審批，由西藏自治區人民醫院副院長、西藏高原醫學研究所所長格桑羅布教授擔任主要研究者的乙醯唑胺緩釋膠囊正式獲批上市，成為國內首個獲批具有預防急性高原病適應症的藥品。該藥品的獲批上市，結束了我國無專門預防急性高原病專用藥的歷史，進一步豐富了高原醫學防治手段，為高原群眾、廣大進藏人群及高原重大專案建設提供了堅實的健康保障，同時有力提升了西藏在國際高原醫學領域的科研影響力。
+
+---
+
+### 2026-08-08 14:10:42  #國際
+
+【葉門西部地區軍事衝突升級】據伊朗方面8日訊息，葉門西部地區的軍事衝突出現了升級。訊息稱，有報告顯示，葉門胡塞武裝與所謂沙特支援的“僱傭兵”在葉門西部荷臺達省豪亥地區的北部區域發生激烈衝突。（央視新聞）
+
+---
+
+### 2026-08-08 14:06:27  #其他
+
+【自然資源部將浙江海洋災害應急響應升級為二級，福建上海海洋災害應急響應升級為三級】據自然資源部，今年第9號颱風“白海豚”（強颱風級）正逐漸向我國東南沿海靠近，受其影響，8月7日—8日，東海出現6—9米狂浪到狂濤區，達到近海橙色警報級別；浙江近岸海域海浪出現3—5米大浪到巨浪，達到橙色預警級別。預計未來24小時，江蘇南通至浙江溫州將出現最大160cm風暴增水，浙江近岸海域將出現5—8米的巨浪到狂浪，海浪預警級別為紅色。根據《海洋災害應急預案》規定，自然資源部於8月8日將浙江的海洋災害應急響應升級為二級，將福建和上海的海洋災害應急響應升級為三級。要求浙江、上海、福建、江蘇等受影響省份自然資源（海洋）主管部門、國家海洋環境預報中心、自然資源部海洋減災中心、自然資源部東海局等單位組織做好應急監測、會商研判、預報預警以及災害調查評估等工作。受此次颱風過程影響，我國東海海域風大浪高，海況惡劣，提醒海上航行作業的船隻遠離危險海域，沿海各有關單位提前採取防潮避浪措施，有效防範可能帶來海水倒灌風險。
+
+---
+
+### 2026-08-08 14:05:57  #公司
+
+【中信聚信落子南京】據南京釋出，8月4日，“南京聚信天晟股權投資合夥企業（有限合夥）”正式落地紫金山國際科創基金街區。基金規模10.01億元，管理人為中信聚信（北京）資本管理有限公司，其向上穿透的實際控制人為中信集團，管理人整體管理規模超百億元。該基金在2026紫金山創投大會上籤約啟動組建，將重點投向新一代資訊科技、高階裝備、新材料、新能源、生物醫藥及新消費等領域，為南京科創產業注入新的資本動能。
+
+---
+
+### 2026-08-08 13:58:31  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #WTI #DXY
+
+Russian Defence Ministry said Russian forces struck military-industrial facilities and fuel depots in Kyiv overnight, RIA reported.
 
 ---
 
@@ -18380,179 +18502,5 @@ Japan Forex Reserves Hit 16-Month Low — Japan’s foreign reserves fell by USD
 ### 2026-08-07 07:57:54  #市場 #國際
 
 【日本確認春季三日入市干預以支撐日元】日本表示，在春季黃金週假期期間曾三度干預匯市託舉日元。本次操作跳出近期的“雙輪干預”模式，額外增加一輪干預，意在最大限度對投資者形成心理震懾。日本財務省週五釋出截至6月當季的每日干預資料顯示，東京當局分別於4月30日、5月4日、5月6日買入日元。官方資料顯示，三次干預投入規模依次為6.28萬億日元、7800億日元、4.68萬億日元，創下日本為護盤日元進行匯市干預的歷史最高規模。報告證實，儘管該時段內日元盤中至少出現五次大幅拉昇，但除上述三日之外，並未開展其他平滑匯率操作。5月末的官方資料已顯示，日本在此期間創下單月11.73萬億日元的干預投入紀錄，部分資金或透過拋售包括美債在內的境外證券籌措。此前市場統計兩次明確干預的資金規模，尚有約1.6萬億日元缺口，當時便預示存在第三次入市干預的可能性。
-
----
-
-### 2026-08-07 07:55:24  #央行 #資料 #市場 #國際
-
-【調查：澳洲央行年底前料一直按兵不動，以評估此前加息的影響】路透調查顯示，澳洲央行將於下週二維持政策利率不變，且在2026年餘下時間都將按兵不動，以評估今年早些時候加息對經濟的影響。自2月以來，澳洲央行已將現金利率累計上調75個基點至4.35%，完全逆轉了去年的寬鬆政策，以遏制在美國與以色列對伊朗開戰、推動油價大漲之前就已積聚的通脹壓力。許多經濟學家表示，潛在通脹動能正在減弱，這為政策制定者繼續採取觀望態度提供了理由。
-
----
-
-### 2026-08-07 07:54:41  #MKT News #Market Regions #Japan & APAC
-
-Japan's foreign exchange reserves were $1,287.1 bln in July, down from $1,287.5 bln previously, a decline of $0.4 bln.
-
----
-
-### 2026-08-07 07:54:28  #MKT News #Economic Calendar #Important
-
-Japan | Foreign Exchange Reserves (Jul) | actual 1287100000000B | previous 1287500000000B
-
----
-
-### 2026-08-07 07:54:16  #其他
-
-北摩高科：向特定物件發行股票申請獲深交所稽核透過。
-
----
-
-### 2026-08-07 07:53:41  #其他
-
-META就新墨西哥州法院裁決表態：不同意該裁決並將提起上訴。
-
----
-
-### 2026-08-07 07:53:40  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's Ministry of Finance said the largest single-day foreign-exchange intervention in the April–June quarter occurred on April 30, totaling ¥6.2787 trillion.
-
----
-
-### 2026-08-07 07:53:39  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's Ministry of Finance said it conducted three yen-buying foreign-exchange interventions in April and May.
-
----
-
-### 2026-08-07 07:53:03  #經濟數據 #日本
-
-日本外匯儲備7月底為1.09萬億美元，與6月份持平。
-
----
-
-### 2026-08-07 07:52:32  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Steady Ahead of Key Jobs Report — US stock futures were little changed on Friday as investors awaited the closely watched July jobs report for fresh signals on labor market conditions and the potential path of Federal Reserve monetary policy. In corporate news, Airbnb jumped more than 8% in extended trading after reporting stronger-than-expected revenue and earnings, while Cloudflare soared 16% on an upbeat full-year and current-quarter outlook. Meanwhile, DraftKings slipped 3% after falling short of revenue estimates. During Thursday’s regular session, the Dow declined 0.85%, the S&P 500 eased 0.18%, and the Nasdaq Composite dipped 0.06%. Eight of the 11 S&P sectors ended in negative territory, with industrials, real estate, and materials posting the steepest losses. The pullback came as a rebound in oil prices reignited concerns that the Fed could raise interest rates as soon as next month.
-
----
-
-### 2026-08-07 07:52:20  #市場 #焦點
-
-紐約期金突破4310美元/盎司，日內漲0.25%。
-
----
-
-### 2026-08-07 07:51:50  #國際
-
-日本財務省：截至7月底日本外匯儲備為1.287099萬億美元，6月底為1.287476萬億美元。
-
----
-
-### 2026-08-07 07:51:42  #市場 #焦點
-
-現貨黃金突破4250美元/盎司，日內漲0.23%。
-
----
-
-### 2026-08-07 07:51:10  #國際
-
-日本財務省資料顯示，4月和5月日本分別在共3天進行了買入日元的匯率干預操作。
-
----
-
-### 2026-08-07 07:51:07  #國際
-
-日本財務省資料顯示，4-6月日本單日規模最大的干預發生在4月30日，干預規模為6.2787萬億日元。
-
----
-
-### 2026-08-07 07:50:32  #其他
-
-國家海洋預報臺8月7日08時釋出風暴潮藍色警報：受冷空氣的影響，預計：8月7日下午至8日上午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市、滄州市，天津市和山東省濱州市的風暴潮預警級別為藍色。8日中午前後視情況解除風暴潮警報。
-
----
-
-### 2026-08-07 07:48:10  #公司 #國際
-
-【媒體：LG集團會長具光謨將於下週會晤英偉達黃仁勳】韓國經濟日報援引不願具名的業內人士訊息，LG 集團會長具光謨下週將在矽谷的英偉達總部與黃仁勳會面。具光謨與黃仁勳曾於 6 月在首爾會晤，並宣佈在機器人、人工智慧基礎設施、自動駕駛等領域開展合作；此後，LG CNS 及 LG 旗下其他子公司約 30 名高管已於 6 月 22 日到訪英偉達總部。具光謨與黃仁勳或將探討物理人工智慧、智慧工廠，雙方也可能磋商 LG 採購Blackwell系列 GPU 的相關細節。
-
----
-
-### 2026-08-07 07:47:20  #市場 #國際
-
-基準10年期日本公債期貨早盤下跌0.32點。
-
----
-
-### 2026-08-07 07:47:03  #市場 #國際
-
-日本日經平均指數期貨早盤上漲0.31%。
-
----
-
-### 2026-08-07 07:45:08  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-【Japan household spending falls for seventh month; inflation saps confidence】Japan household spending unexpectedly fell for a seventh consecutive month in June, underscoring persistent inflationary pressure on consumption despite rising inflation-adjusted wages, the Ministry of Internal Affairs and Communications said. Real household spending dropped 3.3% YoY in June versus an economists’ consensus of +0.9%; seasonally adjusted spending fell 6.4% MoM. The decline clouds prospects for a domestic-demand-led recovery even as state aid has lowered utility costs and inflation-adjusted wages have risen month-to-month this year. Consumer confidence improved in June but remains well below its 10- and 20-year averages. The government will publish preliminary Q2 GDP on Aug. 17.
-
----
-
-### 2026-08-07 07:44:55  #其他
-
-【新墨西哥州法官判令Meta賠付5.67億美元】法院責令Meta向專項紓解基金繳納5.67億美元，用於化解青少年心理健康遭受的損害。該裁決由地區法院首席法官布萊恩・比德沙伊德於週四下達。法官在判決意見書中寫道：“儘管並非只有Meta存在該問題，但本案大量證據證實，其旗下社交媒體平臺是造成新墨西哥州青少年當前心理健康危機的重要誘因。”他指出：“Meta刻意設計平臺以最大化使用者停留互動，其中部分機制會對青少年造成傷害，且未向使用者充分披露相關損害風險。”該紓解基金，是在此前審判第一階段所判處的3.75億美元民事罰款之外追加的。第一階段審判主要聚焦於Meta的行為是否違反了該州的《不公平行為法》。
-
----
-
-### 2026-08-07 07:41:21  #國際
-
-日本政府官員談及6月家庭支出情況：颱風、低溫天氣及降雨量增加導致飲料、外出就餐支出下降。
-
----
-
-### 2026-08-07 07:41:05  #市場
-
-【深圳二手豪宅成交回暖】今年以來，深圳豪宅市場熱度持續攀升。除了多個豪宅新房專案持續熱銷，二手房市場上的豪宅成交也明顯回暖。深圳貝殼研究院監測顯示，7月總價1500萬元以上二手豪宅簽約量同比增長11%，達到近6年來的峰值。與此同時，總價千萬級二手房成交均價為101504元/平方米，環比上漲5.7%，同比上漲8.4%。深圳貝殼研究院院長肖小平指出，深圳樓市“4·29新政”降低核心區購房門檻後，本地高淨值家庭置換需求及外地資產配置客群入場增加，推動南山、福田核心區域高階物業成交持續升溫，價格穩步抬升。另據深圳貝殼研究院的監測，今年前7個月深圳二手房成交42323套，與去年同期相比增長5.4%，創下近６年同期新高。不過，記者採訪發現，在以剛需為主的二手房片區，“以價換量”仍是市場的主流。
-
----
-
-### 2026-08-07 07:40:31  #市場 #央行 #國際
-
-【日本6月家庭消費意外下滑】日本政府週五公佈資料顯示，6月家庭消費同比意外走低，連續第七個月出現下降。日本總務省資料顯示，家庭消費支出同比下降3.3%，市場預期中值為增長1%。經季節調整後，家庭消費環比下降6.4%，而市場預估為下降3.1%。該指標將成為日本央行考量最早於9月是否加息的重要參考依據。日本厚生勞動省本週公佈的資料顯示，6月實際工資同比增長1.6%，實現連續第六個月上漲。
-
----
-
-### 2026-08-07 07:39:04  #其他
-
-【OpenAI更新ChatGPT體驗，免費使用者可使用GPT-5.6 Luna並享無限文字聊天】8月6日，OpenAI宣佈更新ChatGPT模型體驗，提升GPT-5.6 Sol在事實準確性、回答聚焦度和多場景一致性方面的表現，同時擴大免費使用者對GPT-5.6 Luna的訪問許可權。OpenAI表示，Plus和Pro使用者將獲得更新後的GPT-5.6 Sol，該模型能夠根據問題複雜程度調整回答深度，並減少不必要的格式化內容。對於免費使用者，OpenAI將預設模型更新為GPT-5.6 Luna，並擴大訪問範圍，提供無限文字聊天功能。針對需要更深入推理的問題，免費使用者可透過新增“Think”按鈕呼叫更高推理能力。
-
----
-
-### 2026-08-07 07:39:04  #Trading Economics #Economy #Japan #Household Spending #Importance 2
-
-Japan Personal Spending Unexpectedly Falls — Japan's household spending dropped 3.3% yoy in June 2026, deepening from a 0.4% decline in the prior month and defying market expectations for a 1.0% rise. It marked the seventh straight month of contraction and the sharpest fall in the current sequence, underscoring persistent weakness in consumer demand. Spending weakened for food (-2.5% vs 2.4% in May), utilities (-7.1% vs -7.6%), furniture and household goods (-11.4% vs 23.0%), clothing (-19.9% vs 4.0%), and transport and communication (-5.7% vs -15.8%). Meanwhile, growth in spending eased for healthcare (1.4% vs 3.3%) and education (20.6% vs 21.7%). In contrast, housing expenditure accelerated (3.6% vs 0.7%), while spending on culture and recreation returned to growth (0.4% vs -3.1%). On a seasonally adjusted monthly basis, household expenditure slipped 6.4%, reversing a 3.7% gain in May and far exceeding forecasts for a 3.1% decrease. The reading was the first monthly fall since March and the steepest drop since January 2021.
-
----
-
-### 2026-08-07 07:39:01  #其他
-
-新墨西哥州法院判令Meta出資 5.67 億美元設立專項紓解基金，用於處理認知科普、風險防範等相關問題。
-
----
-
-### 2026-08-07 07:37:36  #公司 #市場 #國際
-
-【Naver第二季度淨利潤高於市場平均預期】得益於核心搜尋平臺和電商業務的穩定增長，韓國網際網路巨頭Naver公佈了穩健的第二季度業績。Naver公佈的業績好於市場平均預期。與此同時，這家韓國主導搜尋引擎背後的公司一直在擴大其人工智慧(AI)的佈局，最近與AI晶片領導者英偉達和美國私募股權投資公司博楓(Brookfield)達成了數以十億美元計的合作，以建立千兆瓦級的AI雲基礎設施。該公司週五表示，4-6月當季淨利潤同比增長42%，至7,043億韓元（合4.949億美元）。這一數字超過了FactSet彙編的4,717.1億韓元的平均預期。營收增長16%，至3.389萬億韓元；營業利潤微降0.2%，至5,203億韓元。今年以來，該公司股價已下跌約7%，跑輸基準韓國綜合指數(Kospi)近50%的漲幅。
-
----
-
-### 2026-08-07 07:36:26  #其他
-
-Salesforce計劃在華盛頓和加利福尼亞州裁員133人。
-
----
-
-### 2026-08-07 07:36:20  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-The Wall Street Journal reported Trump has ordered a new investigation into a Pentagon ammunition stockpile leak, government officials said, calling it his latest escalation to counter damaging disclosures about a war with Iran.
 
 ---
