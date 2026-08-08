@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-08 13:17:57",
-  "count": 15905,
+  "updated": "2026-08-08 13:26:07",
+  "count": 15907,
   "items": [
+    {
+      "id": "mkt:019fdfd2-d948-7aab-8fc2-cc3bdd1b96cb",
+      "time": "2026-08-08 13:22:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Wall Street (US)",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "DAX",
+        "WTI"
+      ],
+      "text": "【JP Morgan: Q2 EPS in US and Europe beat expectations】JP Morgan said the Q2 earnings season is in its late stage, with about 80–85% of US and European companies reported. EPS broadly beat expectations across both regions and the share of companies reporting upside rose materially. Despite elevated pre-season expectations, aggregate S&P 500 EPS continued to climb, and the proportion of firms lowering earnings guidance fell to its lowest level since 2021. YoY EPS growth ran about 25% in the US and 23% in Europe, both above consensus. Revenue growth was also healthy, roughly +14% YoY in the US and +10% YoY in Europe. A large portion of the earnings gain came from the energy sector, supported by geopolitically driven higher energy prices; financials and technology were also significant contributors."
+    },
+    {
+      "id": "5031820",
+      "time": "2026-08-08 13:20:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北首家宇樹科技產業學院成立】據湖北日報，8月7日，湖北省首家宇樹科技產業學院在長江工程職業技術學院成立。據悉，“宇樹科技產業學院”由宇樹科技股份有限公司與長江工程職業技術學院共建，實行“企業專家任院長、校內教授任執行副院長”雙院長制管理架構，聚焦機器人除錯、運維、技術支援等市場緊缺崗位，精準培育緊缺人才。"
+    },
+    {
+      "id": "5031819",
+      "time": "2026-08-08 13:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：中國企業高校研發總投入超美國，居世界第一】據日媒8日報道，中國企業和高校研發總投入已超過美國，位居世界第一。 據報道，日本文部科學省7日釋出的“2026年科技指標”顯示，中國2024年的研發投入同比增長13.1%，達到97.1萬億日元；美國2024年研發投入為95.3萬億日元，同比增長6.7%；日本以22.1萬億日元位列第三，同比增長8.4%。 《日本經濟新聞》指出，2017年，中國發表的科研論文數量超過美國，位居世界第一。2018年，中國在被引次數排名前10%的高質量論文數量方面也位居榜首。此外，自2019年以來，在被引次數排名前1%的質量更高的論文數量方面，中國一直保持領先地位。 報道稱，此次，中國在研發總支出方面也超過了美國。“中國在全球科研領域的領先地位已毋庸置疑。”（中新網）"
+    },
+    {
+      "id": "mkt:019fdfce-21a7-7aab-8fc2-c483d1f026a3",
+      "time": "2026-08-08 13:17:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "cenc reported a magnitude-5.2 earthquake in Alaska, USA at 12:50 on Aug 8; focal depth 10 km."
+    },
     {
       "id": "5031818",
       "time": "2026-08-08 13:12:08",
@@ -144916,23 +144957,6 @@
         "Impact bullish"
       ],
       "text": "Lebanon's president said the Lebanese army's responsibilities have doubled and that the next phase requires deployment along the southern border. He said Lebanon will continue coordinating with friendly countries to secure support and training for the military."
-    },
-    {
-      "id": "5020235",
-      "time": "2026-08-01 13:24:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【總投資超50億元，耀鴻電子AI智算高速主機板核心材料研發生產基地專案落地無錫】7月31日，耀鴻電子AI智算高速主機板核心材料研發生產基地專案在無錫簽約落地，專案總投資超50億元，主要生產面向AI伺服器、光模組、高階晶片等領域的高階覆銅板，並配套建設研發總部與重點實驗室，重點攻關M10高速覆銅板等前沿技術。專案預計今年年內開工，達產後將年產3000萬平方米的AI高速封裝載板超薄覆銅板和6000萬米的超薄粘結片。"
-    },
-    {
-      "id": "5020234",
-      "time": "2026-08-01 13:22:16",
-      "tags": [
-        "其他",
-        "國際"
-      ],
-      "text": "【中國駐巴基斯坦大使館回應每經：雪崩致一支國際登山隊集體失聯，包含我國公民，要求巴方全力搜救並及時通報進展】“我們從巴方渠道瞭解到，7月30日一支國際登山隊在布洛阿特峰登山時遭遇雪崩意外，隊員集體失聯，其中包括一名全名為‘WANG ZHONG’的中國公民。”8月1日12時許，中國駐巴基斯坦大使館工作人員向記者表示，“我們第一時間就啟動了聯保應急機制，向巴軍政等部門瞭解事情進展，要求巴方全力搜救中國公民並及時通報進展。同時也與中國公民家屬取得聯絡，將為其提供必要的領事協助。”（每經）"
     }
   ]
 }
