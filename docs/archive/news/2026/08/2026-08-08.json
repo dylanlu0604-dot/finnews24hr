@@ -1,7 +1,15 @@
 {
   "date": "2026-08-08",
-  "count": 789,
+  "count": 790,
   "items": [
+    {
+      "id": "mkt:019fe182-7a6c-7aab-8fc4-92c9ebce46b5",
+      "time": "2026-08-08 21:14:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO said reliable sources reported a vessel was struck by an unidentified flying object, causing a fire that has since been extinguished. The crew reported they were safe and there was no environmental impact."
+    },
     {
       "id": "5031987",
       "time": "2026-08-08 21:09:47",
