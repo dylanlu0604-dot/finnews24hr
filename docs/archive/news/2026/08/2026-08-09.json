@@ -1,7 +1,45 @@
 {
   "date": "2026-08-09",
-  "count": 71,
+  "count": 75,
   "items": [
+    {
+      "id": "mkt:019fe2c8-c528-7aab-8fc6-322d56a15de5",
+      "time": "2026-08-09 03:10:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia reiterated firm support for the legitimate Yemeni government."
+    },
+    {
+      "id": "mkt:019fe2c8-a889-7aab-8fc6-2d2ad6a15568",
+      "time": "2026-08-09 03:10:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Ukraine says it did not intentionally fire any equipment toward Bulgaria】A Ukrainian foreign ministry spokesman said on the 8th Kyiv is in close contact with Bulgarian authorities to determine the circumstances of a drone that crashed in Bulgaria and that Ukraine did not deliberately launch any equipment toward Bulgaria. He said Kyiv is verifying facts and technical details and is willing to cooperate with Bulgarian authorities to clarify the incident."
+    },
+    {
+      "id": "5032100",
+      "time": "2026-08-09 03:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏外交部：烏無意向保加利亞方向發射任何裝備】烏克蘭外交部發言人季希8日表示，烏克蘭方面正與保加利亞保持密切聯絡，以查明當天一架無人機在保加利亞墜落的具體情況。他強調，烏軍沒有蓄意向保加利亞方向發射任何裝備。季希說，烏方正在核實事件的全部情況和相關技術事實，並願與保加利亞方面開展合作，以查明事件細節。"
+    },
+    {
+      "id": "mkt:019fe2c6-adaf-7aab-8fc6-2372cc2f13df",
+      "time": "2026-08-09 03:08:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi Arabia urged the international community to take a firm stance against threats to shipping and the security of international trade."
+    },
     {
       "id": "mkt:019fe2c0-0d0f-7aab-8fc6-196e29efdae1",
       "time": "2026-08-09 03:01:04",
