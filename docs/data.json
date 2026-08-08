@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 16:37:49",
+  "updated": "2026-08-08 16:41:43",
   "count": 15832,
   "items": [
+    {
+      "id": "5031869",
+      "time": "2026-08-08 16:39:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼一文化節現場發生槍擊事件】印尼巴布亞省查亞維查亞縣的一個文化節現場今天（8月8日）傳出槍聲，現場觀眾一度驚慌逃散。當地警方證實發生了槍擊事件，目前正在調查具體經過。截至目前，警方尚未公佈人員傷亡、槍手身份及作案原因。（CCTV國際時訊）"
+    },
+    {
+      "id": "5031868",
+      "time": "2026-08-08 16:38:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：TalkTalk接近就出售網路業務展開獨家談判。"
+    },
     {
       "id": "5031867",
       "time": "2026-08-08 16:36:55",
@@ -144262,22 +144278,6 @@
         "Impact bullish"
       ],
       "text": "【Crude oil ETF holdings report launches; WTI (USO) down, Brent (BNO) up】July 31 — New crude oil ETF holdings report launched. WTI (USO) nominal exposure about 21.8222 million barrels, down 1.67 million barrels on the day. Brent (BNO) futures holdings about 6.9990 million barrels, up roughly 2,000 barrels."
-    },
-    {
-      "id": "mkt:019fbc7c-65a3-7aab-8f41-65b693b27ae8",
-      "time": "2026-08-01 16:41:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Guangzhou Baiyun Airport launches blue emergency response; 42 departures delayed over 1 hour】Guangzhou Baiyun International Airport launched a blue emergency response on the afternoon of Aug 1 after forecasts of moderate-to-heavy showers with thunderstorms. As of 15:35, 42 passenger departures were delayed more than one hour and had not departed. The airport said it issued weather warnings to on-site units, activated contingency plans, added check-in, security and baggage counters or lanes, and will coordinate with air traffic control and carriers to accelerate flight releases once conditions improve."
-    },
-    {
-      "id": "5020329",
-      "time": "2026-08-01 16:39:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受降雨影響 廣州白雲機場啟動航班大面積延誤藍色響應】從廣州白雲國際機場瞭解到，根據機場氣象預報，8月1日下午，受降雨天氣影響，預計機場全區將出現中到大陣雨的伴雷暴天氣。截至15時35分，白雲機場延誤一小時以上仍未執行出港的客運航班為42班，隨即啟動航班大面積延誤應急處置藍色響應。白雲機場表示，已第一時間向各駐場單位推送天氣預警，啟動應急預案，值機、安檢、問詢、行李查詢等崗位，將動態增開服務櫃檯或通道，全力做好複雜天氣服務保障。待天氣好轉後，將盡快與空管、航司協調對接，加速航班放行。同時提醒廣大旅客，留意天氣變化及所乘航空公司釋出的航班最新動態，合理安排出行。（央視新聞）"
     }
   ]
 }
