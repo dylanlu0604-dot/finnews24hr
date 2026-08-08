@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 01:44:37",
+  "updated": "2026-08-09 01:48:33",
   "count": 15861,
   "items": [
+    {
+      "id": "5032085",
+      "time": "2026-08-09 01:47:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯庫斯科一客車與一卡車相撞 致9死6傷】當地時間8月8日凌晨，秘魯庫斯科大區埃斯皮納爾省帕爾帕塔區發生一起嚴重交通事故。一輛載客小型客車與一輛半掛式卡車發生猛烈碰撞，造成至少9人死亡、6人受傷。（央視新聞）"
+    },
     {
       "id": "mkt:019fe279-46e1-7aab-8fc5-a8968b736d96",
       "time": "2026-08-09 01:43:46",
@@ -144516,14 +144524,6 @@
         "DXY"
       ],
       "text": "The UAE foreign ministry said Iran's aggressive attack openly violated Kuwait's sovereignty and threatened its security and stability."
-    },
-    {
-      "id": "mkt:019fbe6f-a129-7aab-8f43-301a878fad65",
-      "time": "2026-08-02 01:46:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. vice president Harris said Trump is an isolationist who repeatedly invokes \"America First.\" By failing to understand America's role — imperfect though it is — he has made the U.S. a less reliable partner and driven U.S. authority in global affairs to an unprecedented low."
     }
   ]
 }
