@@ -1,7 +1,20 @@
 {
   "date": "2026-08-08",
-  "count": 636,
+  "count": 637,
   "items": [
+    {
+      "id": "mkt:019fe07c-c07e-7aab-8fc3-3f2335556361",
+      "time": "2026-08-08 16:28:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US Treasury Secretary BESSENT: Strait of Hormuz will 'become irrelevant'】BESSENT told NBC on Aug. 6 the Strait of Hormuz will never return to its former state and will \"become irrelevant\" as an energy-transit chokepoint within two years, saying more than 50%—and potentially as much as 70%—of energy previously shipped through the strait will be rerouted to underground pipelines. He said this outcome is not the Iran-favourable scenario Tehran portrays."
+    },
     {
       "id": "5031864",
       "time": "2026-08-08 16:19:12",
