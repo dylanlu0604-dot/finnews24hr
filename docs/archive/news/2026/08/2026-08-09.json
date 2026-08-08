@@ -1,7 +1,47 @@
 {
   "date": "2026-08-09",
-  "count": 27,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:019fe25f-cbf4-7aab-8fc5-83a2b16e7b4d",
+      "time": "2026-08-09 01:15:56",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Turkey's foreign minister said the defense pact among Turkey, Pakistan and Saudi Arabia is technically equivalent to NATO's Article 5."
+    },
+    {
+      "id": "mkt:019fe25f-bb8c-7aab-8fc5-7b5b5c844253",
+      "time": "2026-08-09 01:15:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 reports Israeli officials say the United States is constraining Israel's options and pushing it into a dilemma over Gaza."
+    },
+    {
+      "id": "mkt:019fe25f-3ef4-7aab-8fc5-7080e4f88fd9",
+      "time": "2026-08-09 01:15:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CENTCOM commander arrives in Israel to press for next phase of Gaza peace plan】CENTCOM commander Brad Cooper has arrived in Israel and will meet IDF chief of staff Zamir and other senior defense officials for a situation assessment, Israeli public broadcaster reports. Cooper held meetings in Bahrain and the UAE before the visit. The trip coincides with negotiations over a potential ceasefire as the US continues to press Israel to advance transition to the next phase of the Gaza peace plan."
+    },
+    {
+      "id": "5032078",
+      "time": "2026-08-09 01:14:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：土耳其、巴基斯坦、沙烏地阿拉伯的防務協定在性質上等同於北約第五條條款。\n注：北約第五條是北約集體防禦條款，規定對一個北約成員國的武裝攻擊即視為對所有北約成員國的武裝攻擊，所有締約國應採取包括武力在內的行動協助被攻擊國。"
+    },
     {
       "id": "5032077",
       "time": "2026-08-09 01:08:51",
