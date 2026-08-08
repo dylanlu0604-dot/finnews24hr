@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09 03:11:15",
-  "count": 15865,
+  "updated": "2026-08-09 03:15:04",
+  "count": 15863,
   "items": [
     {
       "id": "mkt:019fe2c8-c528-7aab-8fc6-322d56a15de5",
@@ -144549,27 +144549,6 @@
         "Impact bearish"
       ],
       "text": "Public Service Alliance of Canada (PSAC) said WestJet flight attendants have issued a 72-hour strike notice. WestJet subsequently issued a 72-hour work-stoppage notice."
-    },
-    {
-      "id": "mkt:019fbec0-121b-7aab-8f43-8164386bb888",
-      "time": "2026-08-02 03:14:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign ministry warned that if the U.S. continues to violate the June 28 ceasefire agreement — including a maritime blockade of Iran's ports and commercial shipping, attacks across the country, and intensified economic pressure and illegal threats — Iran's armed forces will continue defensive strikes at full force."
-    },
-    {
-      "id": "5020562",
-      "time": "2026-08-02 03:12:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場資訊：市場預期美聯儲將在下次聯邦公開市場委員會（FOMC）會議上加息。"
     }
   ]
 }
