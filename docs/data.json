@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-09 02:28:46",
-  "count": 15858,
+  "updated": "2026-08-09 02:32:36",
+  "count": 15863,
   "items": [
+    {
+      "id": "mkt:019fe2a4-1415-7aab-8fc5-f2e5325d8471",
+      "time": "2026-08-09 02:30:31",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "Zelenskiy says Ukraine will receive from the US \"very strong\" security guarantees after the war ends."
+    },
+    {
+      "id": "5032095",
+      "time": "2026-08-09 02:30:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "伊朗央行行長：遭美國製裁的加密貨幣交易所與伊朗並無關聯，德黑蘭轉移的資金仍處於本國掌控之下。"
+    },
+    {
+      "id": "mkt:019fe2a3-57b2-7aab-8fc5-ed214719e2bd",
+      "time": "2026-08-09 02:29:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ukrainian President Zelenskiy said Serbia is a sovereign state and should be encouraged to integrate into the EU wherever possible."
+    },
+    {
+      "id": "5032094",
+      "time": "2026-08-09 02:29:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：衝突結束後，烏克蘭將獲得來自美國的 “力度極強” 的安全保障。"
+    },
+    {
+      "id": "mkt:019fe2a3-395c-7aab-8fc5-e432434cbb21",
+      "time": "2026-08-09 02:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Serbia is not a 'Little Russia,' calling the label Russian political rhetoric."
+    },
+    {
+      "id": "mkt:019fe2a2-84c7-7aab-8fc5-dd5d1d226e94",
+      "time": "2026-08-09 02:28:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said he believes Serbia is on a path to rebuild its independence and break free from Russian influence."
+    },
     {
       "id": "5032093",
       "time": "2026-08-09 02:23:18",
@@ -144486,14 +144541,6 @@
         "國際"
       ],
       "text": "特朗普在社交媒體發文：正在摧毀伊朗的貨幣。"
-    },
-    {
-      "id": "5020554",
-      "time": "2026-08-02 02:28:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "西捷航空：仍留在談判桌前，致力於透過談判達成一份暫定協議。"
     }
   ]
 }
