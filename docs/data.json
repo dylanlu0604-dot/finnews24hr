@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 04:05:32",
+  "updated": "2026-08-09 04:09:27",
   "count": 15860,
   "items": [
+    {
+      "id": "5032105",
+      "time": "2026-08-09 04:06:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大不列顛哥倫比亞省省長：因巴爾德嶺野火宣佈進入緊急狀態。"
+    },
     {
       "id": "mkt:019fe2f9-232c-7aab-8fc6-6995004c5d4c",
       "time": "2026-08-09 04:03:25",
@@ -144513,18 +144521,6 @@
         "XAUUSD"
       ],
       "text": "Saudi outlet al-Hadath reports Iraq's armed forces commander‑in‑chief convened an emergency meeting to discuss regional security."
-    },
-    {
-      "id": "mkt:019fbef1-e307-7aab-8f43-aa7015cd4e84",
-      "time": "2026-08-02 04:09:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【IRGC says ballistic missile strike on Jordan's Al Azraq destroyed three US F-35s, damaged three more】Iran's Islamic Revolutionary Guard Corps said its air force used multiple ballistic missiles this morning to strike US F-35 maintenance hangars and ramps at Al Azraq air base in Jordan, in retaliation for a US strike on Qeshm Island. It said the attack destroyed three F-35s and severely damaged three others."
     }
   ]
 }
