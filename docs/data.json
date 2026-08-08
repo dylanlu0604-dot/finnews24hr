@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 04:40:28",
-  "count": 15856,
+  "updated": "2026-08-09 04:48:47",
+  "count": 15854,
   "items": [
+    {
+      "id": "5032106",
+      "time": "2026-08-09 04:42:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美消防部門證實：猶他州消防直升機墜毀致兩人遇難】美國國家跨部門消防中心8日證實，此前一天在猶他州墜毀的消防直升機上的兩名乘員已經遇難。 據該中心通報，這架與美國林業局簽訂合同的直升機在撲滅野火過程中發生事故，造成飛行員和另一名機組人員遇難。美國聯邦航空局此前證實失事直升機型號為西科斯基S-64。 根據通報，全美目前有97處大型野火正在燃燒，超過3萬名消防員奮戰在各火災現場。 受持續高溫與乾旱影響，美國西部多個州近期野火頻發。（新華社）"
+    },
     {
       "id": "mkt:019fe319-1812-7aab-8fc6-977599d8c1e2",
       "time": "2026-08-09 04:38:20",
@@ -144460,35 +144468,6 @@
         "DXY"
       ],
       "text": "Lebanese national news agency reported Israeli forces opened fire in the Bint Jbeil area of southern Lebanon."
-    },
-    {
-      "id": "5020578",
-      "time": "2026-08-02 04:47:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克總理辦公室：伊拉克武裝部隊隨時待命，挫敗所有針對鄰國的襲擊圖謀；伊拉克再次重申承諾，絕不允許本國領土成為襲擊行動的發起據點或中轉通道，同時恪守國家主權、睦鄰友好原則與國際法。"
-    },
-    {
-      "id": "mkt:019fbf14-29e5-7aab-8f43-de29faab073a",
-      "time": "2026-08-02 04:46:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DWAC.O",
-        "Impact bullish"
-      ],
-      "text": "Trump's media company launched Truth API, a paid service granting subscribers earlier real‑time access to Truth Social posts than ordinary users. Monthly fee up to $100,000, marketed primarily to trading firms and corporations."
-    },
-    {
-      "id": "5020577",
-      "time": "2026-08-02 04:45:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油暗盤突破91美元，日內漲超3.8%。"
     }
   ]
 }
