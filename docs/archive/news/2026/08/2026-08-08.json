@@ -1,7 +1,44 @@
 {
   "date": "2026-08-08",
-  "count": 668,
+  "count": 672,
   "items": [
+    {
+      "id": "5031894",
+      "time": "2026-08-08 17:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：戰前伊拉克經霍爾木茲海峽的石油出口量為每日340萬桶。"
+    },
+    {
+      "id": "5031893",
+      "time": "2026-08-08 17:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：伊拉克戰前石油出口量為每月1.06億桶。"
+    },
+    {
+      "id": "mkt:019fe0c3-b91d-7aab-8fc3-602071022483",
+      "time": "2026-08-08 17:45:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Iraq's oil minister told the state news agency Baghdad is negotiating with Iran to secure permission for Iraqi oil exports, but any related arrangements have not yet taken effect."
+    },
+    {
+      "id": "5031892",
+      "time": "2026-08-08 17:45:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊拉克石油部長稱巴格達正與伊朗談判，以允許伊拉克石油出口，但相關安排尚未生效。"
+    },
     {
       "id": "5031891",
       "time": "2026-08-08 17:41:01",

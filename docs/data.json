@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-08 17:44:19",
-  "count": 15817,
+  "updated": "2026-08-08 17:48:15",
+  "count": 15818,
   "items": [
+    {
+      "id": "5031894",
+      "time": "2026-08-08 17:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：戰前伊拉克經霍爾木茲海峽的石油出口量為每日340萬桶。"
+    },
+    {
+      "id": "5031893",
+      "time": "2026-08-08 17:46:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：伊拉克戰前石油出口量為每月1.06億桶。"
+    },
+    {
+      "id": "mkt:019fe0c3-b91d-7aab-8fc3-602071022483",
+      "time": "2026-08-08 17:45:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Iraq's oil minister told the state news agency Baghdad is negotiating with Iran to secure permission for Iraqi oil exports, but any related arrangements have not yet taken effect."
+    },
+    {
+      "id": "5031892",
+      "time": "2026-08-08 17:45:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊拉克石油部長稱巴格達正與伊朗談判，以允許伊拉克石油出口，但相關安排尚未生效。"
+    },
     {
       "id": "5031891",
       "time": "2026-08-08 17:41:01",
@@ -144109,32 +144146,6 @@
         "其他"
       ],
       "text": "歐足聯：將與合作伙伴及利益相關方合作，就透過現有國際足聯前進計劃分配資源的新方式提出建議。"
-    },
-    {
-      "id": "mkt:019fbcb6-b934-7aab-8f41-ae60acf79ce7",
-      "time": "2026-08-01 17:45:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China summer box office tops 7.0 bln yuan】Online platform data show China’s 2026 summer box office, including presales, exceeded 7.0 bln yuan as of Aug. 1, 2026."
-    },
-    {
-      "id": "5020363",
-      "time": "2026-08-01 17:44:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐足聯：現任國際足聯領導層已失去歐足聯的信任。"
-    },
-    {
-      "id": "mkt:019fbcb5-e3a6-7aab-8f41-a72c038532c3",
-      "time": "2026-08-01 17:44:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukraine seeks greater permission to use Starlink】US sources said on July 31 that during a recent US visit Ukrainian President Zelenskiy asked President Trump and other US officials to persuade SpaceX founder Elon Musk to allow Ukrainian forces to use SpaceX’s Starlink satellite internet system to strike ballistic missile launchers inside Russia. Multiple sources said Zelenskiy raised the request in a closed‑door White House meeting with Trump on July 28. Russia has begun deploying a similar low‑Earth‑orbit satellite system. Zelenskiy said Ukraine needs higher‑precision strikes on Russian missile launchers before winter to deter a Russian winter offensive and curb attacks on Ukrainian energy infrastructure."
     }
   ]
 }
