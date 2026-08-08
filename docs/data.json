@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-08 18:04:49",
-  "count": 15820,
+  "updated": "2026-08-08 18:08:45",
+  "count": 15819,
   "items": [
+    {
+      "id": "5031902",
+      "time": "2026-08-08 18:08:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星光股份中標龍星控股總部泛光工程專案】據“星光股份”公眾號訊息，近日，星光股份成功中標龍星控股總部泛光工程專案。"
+    },
+    {
+      "id": "mkt:019fe0d5-1365-7aab-8fc3-745d15336a13",
+      "time": "2026-08-08 18:04:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister told the national news agency the new pipeline has a capacity of 2 mln bpd."
+    },
     {
       "id": "5031901",
       "time": "2026-08-08 18:02:43",
@@ -144129,37 +144150,6 @@
         "國際"
       ],
       "text": "【斯洛維尼亞總統因交通事故受輕傷 已送醫觀察】當地時間8月1日，斯洛維尼亞總統辦公室通報稱，該國總統穆薩爾7月31日在沿海高速公路遭遇交通事故並受輕傷，隨後她被送往當地醫院，目前仍在接受觀察並將於當日出院。通報表示，事故發生時，穆薩爾正趕往斯洛維尼亞科門達參加一項官方活動。另據該國科佩爾警察局記錄顯示，當地時間7月31日17時許，沿海高速公路發生一起交通事故，涉及兩輛執行護送任務的警車，事故造成兩人受傷，兩人均被救護車送往醫院。警方表示事故原因仍在調查中，有關部門已將事故情況通報給國家檢察院的相關部門。（央視新聞）"
-    },
-    {
-      "id": "5020373",
-      "time": "2026-08-01 18:08:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部對黑龍江省啟動洪水防禦Ⅳ級應急】從水利部瞭解到，水利部於8月1日啟動對黑龍江省的洪水防禦Ⅳ級應急響應。（新華社）"
-    },
-    {
-      "id": "5020372",
-      "time": "2026-08-01 18:07:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南啟動赤潮災害Ⅲ級應急響應】從海南省海洋廳獲悉，針對近期海南省西部海域出現的赤潮災害，結合最新監測資料和災害漂移趨勢，為全力防範海洋生態風險、保障水產養殖安全，海南省海洋災害應急專項工作辦公室於2026年7月31日18時正式啟動赤潮災害Ⅲ級應急響應，統籌西部沿海市縣及省直相關部門全面開展監測預警、巡查防控和應急處置工作。"
-    },
-    {
-      "id": "mkt:019fbcca-db6b-7aab-8f41-b4649a5c6511",
-      "time": "2026-08-01 18:07:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "China EV Leaders",
-        "1211.HK",
-        "Impact bullish"
-      ],
-      "text": "【BYD July vehicle sales 419,211; overseas sales near 180,000 hit record high】BYD said July vehicle sales reached 419,211 units; overseas sales were nearly 180,000, a record high. Jan–Jul 2026 cumulative sales totaled 2,227,722 vehicles. Cumulative sales of new energy vehicles exceed 17.3 million."
     }
   ]
 }

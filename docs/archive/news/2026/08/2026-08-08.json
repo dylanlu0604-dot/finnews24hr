@@ -1,7 +1,28 @@
 {
   "date": "2026-08-08",
-  "count": 680,
+  "count": 682,
   "items": [
+    {
+      "id": "5031902",
+      "time": "2026-08-08 18:08:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星光股份中標龍星控股總部泛光工程專案】據“星光股份”公眾號訊息，近日，星光股份成功中標龍星控股總部泛光工程專案。"
+    },
+    {
+      "id": "mkt:019fe0d5-1365-7aab-8fc3-745d15336a13",
+      "time": "2026-08-08 18:04:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister told the national news agency the new pipeline has a capacity of 2 mln bpd."
+    },
     {
       "id": "5031901",
       "time": "2026-08-08 18:02:43",
