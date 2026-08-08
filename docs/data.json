@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 20:35:47",
-  "count": 15834,
+  "updated": "2026-08-08 20:39:53",
+  "count": 15833,
   "items": [
+    {
+      "id": "5031978",
+      "time": "2026-08-08 20:35:58",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【IMF駐華首席代表：中國服務消費增長強勁，且“後勁十足”】國際貨幣基金組織(IMF)駐華首席代表馬歇爾·米爾斯近日稱，中國服務消費一直在強勁增長，IMF相信該領域仍有相當大的擴充套件空間，這也是隨著經濟體收入水平提高而出現的一種預期趨勢。米爾斯表示，IMF樂見中國政府將政策重點放在擴大內需上，尤其是消費和服務消費。米爾斯認為，從經濟總量看，中國服務業規模佔比及服務消費水平增長潛力可觀。未來，應加快推進已出臺的服務業支援措施，包括降低服務業壁壘、建設全國統一大市場、營造公平競爭環境，這將釋放新需求，而數字化與人工智慧也有望進一步提升服務業生產率。（中國新聞網）"
+    },
     {
       "id": "5031977",
       "time": "2026-08-08 20:34:30",
@@ -144277,28 +144285,6 @@
         "其他"
       ],
       "text": "【江西釋出大風橙色預警， 部分地區將出現10~12級雷暴大風】江西省氣象臺今天20時02分變更大風橙色預警訊號：預計未來2小時內，撫州市東部和吉安市中北部的部分地區將出現10~12級雷暴大風，局地伴有強雷電、短時強降水等強對流天氣，請注意防範。"
-    },
-    {
-      "id": "mkt:019fbd54-9f39-7aab-8f42-5c8739ef84e6",
-      "time": "2026-08-01 20:37:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US European Command warns it lacks sufficient naval force to continue protecting Israel】The Washington Post reports US European Command commander Alexus Grynkewich privately warned the Pentagon this week that he lacks sufficient naval force to continue protecting Israel from ballistic-missile attacks, saying that without another destroyer he would be forced to choose between defending the US homeland and defending Israel. Grynkewich framed the shortfall as evidence of resource pressure from the ongoing Iran-related conflict. A US defense official said the warning is consistent with prior notices senior commanders send when risks require US-level consideration and that such trade-offs occur as combatant commanders compete for limited assets and weapons."
-    },
-    {
-      "id": "mkt:019fbd53-c49e-7aab-8f42-52da1bfb58cc",
-      "time": "2026-08-01 20:36:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Rhine water levels hit record lows; German shipping and logistics under pressure】Persistent heat and drought have pushed Rhine water to new lows. Cologne gauge fell to 67–68 cm on Aug. 1 local time, below the 2018 record; Duisburg‑Ruhrort dropped to 153 cm, another historical low. Sustained low water is constraining inland navigation: freight vessels cannot sail fully loaded and require split shipments, raising transport costs, reducing logistics efficiency and adding pressure to the German economy."
     }
   ]
 }
