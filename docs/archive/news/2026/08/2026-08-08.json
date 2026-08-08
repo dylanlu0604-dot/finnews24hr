@@ -1,7 +1,25 @@
 {
   "date": "2026-08-08",
-  "count": 688,
+  "count": 690,
   "items": [
+    {
+      "id": "mkt:019fe0e2-ebca-7aab-8fc3-8a5b7f28bdb6",
+      "time": "2026-08-08 18:19:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRGC spokesman said reopening of the Strait of Hormuz depends on the US fully accepting Iran’s conditions and is not related to talks between Iran and Oman."
+    },
+    {
+      "id": "5031907",
+      "time": "2026-08-08 18:18:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊（IRGC）發言人表示，霍爾木茲海峽重新開放取決於美國是否全盤接受伊朗的條件；此事與伊朗和阿曼之間的談判無關。"
+    },
     {
       "id": "5031906",
       "time": "2026-08-08 18:15:22",
