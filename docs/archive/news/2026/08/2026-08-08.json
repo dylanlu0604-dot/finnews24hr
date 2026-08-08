@@ -1,7 +1,18 @@
 {
   "date": "2026-08-08",
-  "count": 704,
+  "count": 705,
   "items": [
+    {
+      "id": "mkt:019fe0f6-0dec-7aab-8fc3-b456aea7a60b",
+      "time": "2026-08-08 18:40:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Iran says talks with Oman unrelated to reopening of Strait of Hormuz】On the 8th, an IRGC spokesman said reopening the Strait of Hormuz is unrelated to talks with Oman and instead depends on whether the US fully accepts Iran’s conditions and stops interfering in regional negotiations. \"Once the US accepts Iran's conditions, the strait will reopen,\" he said."
+    },
     {
       "id": "5031917",
       "time": "2026-08-08 18:40:09",
