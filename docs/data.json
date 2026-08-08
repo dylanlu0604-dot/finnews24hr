@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09 06:02:58",
+  "updated": "2026-08-09 06:10:43",
   "count": 15865,
   "items": [
+    {
+      "id": "5032117",
+      "time": "2026-08-09 06:09:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國五角大樓致函防務企業，要求擴大武器生產，限防務企業不超過21天提交擴產方案。"
+    },
+    {
+      "id": "5032116",
+      "time": "2026-08-09 06:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月9日06時繼續釋出暴雨橙色預警。"
+    },
     {
       "id": "mkt:019fe364-7da6-7aab-8fc6-f58952c9d67d",
       "time": "2026-08-09 06:00:41",
@@ -144560,26 +144576,6 @@
         "其他"
       ],
       "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "5020586",
-      "time": "2026-08-02 06:08:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在社交媒體釋出合成圖，畫面呈現成年特朗普與就讀紐約軍事學院、17 歲少年時期的自己同框。"
-    },
-    {
-      "id": "mkt:019fbf5a-c29a-7aab-8f43-f8243209f827",
-      "time": "2026-08-02 06:03:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Hungary shuts its only nuclear plant for first time due to drought】Hungary will shut its only nuclear plant, Paks, after Danube water levels fell below the minimum needed to cool its four reactors. One of the two operating units will stop at 01:30 local time on Sunday and the remaining unit later that day. The 44-year-old Paks plant, south of Budapest, will remove more than 40% of the country’s generation capacity and may force Hungary to rely more on costly power imports. Prime Minister magyar said sustained low river levels could keep roughly 2,000 MW of Paks capacity offline for weeks, adding pressure to the power system as Central Europe faces a new heatwave."
     }
   ]
 }
