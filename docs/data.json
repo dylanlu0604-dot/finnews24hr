@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-09 04:52:39",
-  "count": 15856,
+  "updated": "2026-08-09 04:56:34",
+  "count": 15858,
   "items": [
+    {
+      "id": "mkt:019fe328-dad8-7aab-8fc6-a04dc7d6ff1b",
+      "time": "2026-08-09 04:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said integrating Starlink connectivity on long-haul flights will be a major productivity-enhancing change."
+    },
+    {
+      "id": "mkt:019fe327-4cf0-7aab-8fc6-9b0428edd90c",
+      "time": "2026-08-09 04:53:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fars News Agency reported Bulgaria said a Ukrainian drone this morning attacked the Trans‑Balkan gas pipeline, which carries Russian gas to Europe via Turkey."
+    },
     {
       "id": "5032108",
       "time": "2026-08-09 04:52:04",
