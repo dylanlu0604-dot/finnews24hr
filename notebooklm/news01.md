@@ -1,7 +1,265 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 19:56:15_
-_本檔包含 3108 則快訊，約 595605 字_
+_更新時間：2026-08-08 21:08:45_
+_本檔包含 3113 則快訊，約 596133 字_
+
+---
+
+### 2026-08-08 20:57:46  #國際
+
+【河南釋出農田漬澇災害風險預警】今天（8月8日），河南省氣象局、河南省農業農村廳聯合釋出農田漬澇災害風險預警：受颱風“白海豚”影響，預計8月10日至13日，河南東南部、中東部和北部部分縣（市、區）有暴雨、大暴雨，其他縣（市、區）中到大雨，與前期土壤偏溼地塊疊加，全省大部存在農田漬澇風險，其中，豫北東部、中東部大部及豫南區域性風險高，降水過程同時伴有7～8級陣風，局地玉米有倒伏風險，需加強防範。（央視新聞）
+
+---
+
+### 2026-08-08 20:56:38  #其他
+
+【克羅埃西亞兩列火車相撞致20人受傷】當地時間8月8日上午，克羅埃西亞北部克里熱夫齊境內發生一起貨運列車與客運列車相撞事故。克羅埃西亞衛生部表示，事故造成6名乘客重傷、14人輕傷。（央視新聞）
+
+---
+
+### 2026-08-08 20:55:58  #MKT News
+
+【Sources: If Democrats win House, plan probes of Trump business and financial network rather than immediate impeachment】Sources say House Democrats are preparing, if they retake the House, to pursue broad investigations targeting Trump’s business and financial network rather than immediate impeachment. Senior House Democrats and committee staff have discussed using hearings, subpoenas and document requests to obtain records from entities tied to Trump’s political and commercial circle. Planners expect probing private companies and external financial actors will be more effective than directly confronting a White House likely to resist oversight. Democrats envision deploying House investigative powers after the mid-November election to review government decision-making and examine whether Trump used office to benefit himself, allies or donors.
+
+---
+
+### 2026-08-08 20:48:38  #MKT News
+
+【Thailand school shooting death toll rises to nine】Local time on the 8th, the school in Nonthaburi province posted on social media mourning a female student killed in the shooting; authorities say the death toll has risen to nine. The attack occurred on the morning of the 7th at a secondary school north of Bangkok; Thai police said the gunman first killed his grandparents at home, then went to the campus, fired 26 rounds before shooting himself, and carried additional ammunition in his bag.
+
+---
+
+### 2026-08-08 20:48:30  #國際
+
+美國參議院將於9月15日對《清晰法案》進行投票。
+
+---
+
+### 2026-08-08 20:47:02  #MKT News
+
+【Ministry of Water Resources raises Zhejiang flood-defense emergency to Level III】At 18:00 on Aug 8 the Ministry of Water Resources and the China Meteorological Administration issued a red-level mountain-flood meteorological warning for 23 contiguous counties in Zhejiang. At 20:00 the Ministry upgraded Zhejiang's flood-defense emergency response from Level IV to Level III under its flood-drought emergency response procedures, directing local water authorities to closely monitor rainfall and river conditions, strengthen monitoring/forecasting/warning, and conduct rolling joint analysis. The Ministry ordered enforcement of five evacuation responsibilities—who organizes, who moves, when to move, where to move, and no unauthorized returns—and prioritized evacuations and protection plans for water-linked tourist sites, eldercare institutions, resorts and farm stays, construction camps, and flood-prone roads. A Ministry working group has been dispatched to the typhoon, heavy-rain and flood defense frontline in Zhejiang to assist and advise local authorities.
+
+---
+
+### 2026-08-08 20:44:25  #MKT News #Star Stocks #Apple #Alibaba #Market Regions #Greater China #Market Themes #China Tech Giants #AI Revolution #Magnificent 7 #AAPL.O #Impact mixed #BABA.N #Impact bullish
+
+【Apple integrates Alibaba's Qianwen into Apple Intelligence; Qianwen available on Mac】Aug 8 — Apple’s website shows Apple Intelligence will integrate Alibaba’s Qianwen model. Qianwen will be bundled into Apple Intelligence to provide text and image understanding and content-generation capabilities to Chinese users on iOS, iPadOS, macOS and visionOS, accessible directly on Apple devices without switching apps. On the same day the Cyberspace Administration of China published record filings for seven client-side mobile generative-AI services, including Apple Intelligence, Huawei’s Xiaoyi large model and OPPO’s AndesGPT large model.
+
+---
+
+### 2026-08-08 20:43:59  #市場 #焦點
+
+紐約原油暗盤突破77美元，日內漲超0.5%。
+
+---
+
+### 2026-08-08 20:41:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi media Hadas reports Iran's president said decisions to stop or continue the war rest with Iran's military leaders.
+
+---
+
+### 2026-08-08 20:35:58  #宏觀
+
+【IMF駐華首席代表：中國服務消費增長強勁，且“後勁十足”】國際貨幣基金組織(IMF)駐華首席代表馬歇爾·米爾斯近日稱，中國服務消費一直在強勁增長，IMF相信該領域仍有相當大的擴充套件空間，這也是隨著經濟體收入水平提高而出現的一種預期趨勢。米爾斯表示，IMF樂見中國政府將政策重點放在擴大內需上，尤其是消費和服務消費。米爾斯認為，從經濟總量看，中國服務業規模佔比及服務消費水平增長潛力可觀。未來，應加快推進已出臺的服務業支援措施，包括降低服務業壁壘、建設全國統一大市場、營造公平競爭環境，這將釋放新需求，而數字化與人工智慧也有望進一步提升服務業生產率。（中國新聞網）
+
+---
+
+### 2026-08-08 20:34:30  #公司
+
+【飛天茅臺自營門店價格再度上調，終端售價已漲至1760元/瓶】有訊息稱，飛天茅臺自營店售價已漲至1753元/瓶，7月底該產品在自營門店剛剛上調至1719元/瓶。有經銷商向記者表示，當前飛天茅臺終端售價已漲至1760元/瓶。這已經是茅臺自營門店今年第二次獨立提價。7月底，記者從茅臺自營門店處獲悉，公司自營體系飛天茅臺酒零售價調整為1719元/瓶。值得一提的是，與上一次飛天茅臺酒單品提價不同，除飛天茅臺之外，五星、經典版馬年生肖、精品茅臺三款產品售價也有所上調，分別漲至1743元/瓶、1951元/瓶、2410元/瓶。據瞭解，取消自營體系分銷模式後，茅臺自營體系由線下自營門店與i茅臺構成，銷售貴州茅臺酒全系產品，分別聚焦B端與C端消費群體。如今，兩大渠道執行兩個不同售價，形成線上線下“雙價格體系”。在業內看來，這一系列舉措核心目標在於掌握定價主導權。隨著“i茅臺”的出現，價格主導權已經從經銷商和黃牛手中轉移到廠方。公司可以根據實時動態，調節傳統渠道發貨與i茅臺的供貨節奏，在擠壓灰色炒作空間的同時，為社會渠道保留合理利潤。（每日經濟新聞）
+
+---
+
+### 2026-08-08 20:32:32  #MKT News
+
+Saudi media Hadas quoted the Yemeni army as saying Houthi forces shelled densely populated residential areas in Marib.
+
+---
+
+### 2026-08-08 20:31:14  #其他
+
+【內蒙古自治區體育局原黨組成員、副局長吳剛嚴重違紀違法被開除黨籍】經查，吳剛喪失理想信念，背棄初心使命，無視中央八項規定精神，廉潔底線失守，收受管理和服務物件禮品、禮金，借用管理和服務物件車輛、錢款；組織原則缺失，不按規定報告個人有關事項；工作中不負責任、疏於管理，對上級決策部署督促推動不到位，造成工程施工嚴重拖延，干預插手工程專案招投標；踐踏黨紀國法，將公權力異化為謀取私利的工具，利用職務便利和職權地位形成的便利條件，為他人在承攬專案、結算款項等方面謀取利益，並非法收受財物。（介面新聞）
+
+---
+
+### 2026-08-08 20:29:16  #MKT News #BRK.A #Impact bullish
+
+Berkshire Hathaway A (BRK.A) repurchased over $3.3 billion of company stock from the start of Q3 (July 1) through July 29.
+
+---
+
+### 2026-08-08 20:29:12  #其他
+
+【浙江省水利廳將水旱災害防禦（防颱）應急響應提升至Ⅰ級】記者從浙江省水利廳瞭解到，今年第13號颱風“白海豚”預計將於9日傍晚至10日早晨在溫州到寧波一帶沿海登陸。浙江省水利廳決定於8日20時將水旱災害防禦（防颱）應急響應提升至Ⅰ級。並提醒各地水利部門強化值班值守，加密監測預報預警，科學排程水利工程，以頂格標準落實各項防禦措施。（央視新聞）
+
+---
+
+### 2026-08-08 20:27:12  #其他
+
+【一無人機自羅馬尼亞方向進入保加利亞後爆炸】保加利亞總理拉德夫8日說，一架無人機當天自羅馬尼亞方向進入保加利亞領空並在該國境內爆炸，但未造成人員傷亡。（新華社）
+
+---
+
+### 2026-08-08 20:25:37  #其他
+
+伯克希爾哈撒韋：截至7月29日，第三季度已有超33億美元用於回購伯克希爾股票。
+
+---
+
+### 2026-08-08 20:25:02  #MKT News #BRK.A.N #Impact bullish
+
+【Berkshire Hathaway spent about $4.5 bln on share buybacks in Q2, first in over a year】Berkshire Hathaway A (BRK.A.N) said it repurchased roughly $4.5 bln of stock in Q2, the first buybacks in over a year after the company resumed repurchases in Q1. CEO Greg Abel said top executives restarted buybacks because they believed the shares' intrinsic value exceeded the market price. Berkshire shares were up 3.8% YTD as of Friday's close.
+
+---
+
+### 2026-08-08 20:22:33  #MKT News #Important #Star Stocks #Apple #Alphabet #Market Themes #Magnificent 7 #AAPL.O #BAC.O #GOOG.N
+
+【Berkshire Hathaway Q2 net income rises sharply; cash reserves fall】Berkshire Hathaway A (BRK.A.N) reported Q2 2026 revenue of $12.983 bln, down from $92.515 bln a year earlier, and net income attributable to shareholders of $25.667 bln versus $12.37 bln a year ago. Cash and equivalents fell to $364.7 bln from $397.0 bln at end‑Q1. Fair value of fixed‑income investments totaled $17.034 bln, comprising $3.002 bln in US Treasuries, $12.668 bln in foreign bonds and $1.364 bln in corporate bonds. Sixty‑six percent of the fair value of equity holdings is concentrated in American Express, Apple, Bank of America, Alphabet and Coca‑Cola.
+
+---
+
+### 2026-08-08 20:17:22  #其他
+
+【水利部將針對浙江省的洪水防禦應急響應提升至Ⅲ級】8月8日18時，水利部和中國氣象局聯合對浙江省23個連片縣（市、區）釋出紅色山洪災害氣象預警，根據《水利部水旱災害防禦應急響應工作規程》，水利部於8月8日20時將針對浙江省洪水防禦Ⅳ級應急響應提升至Ⅲ級，督促指導地方水利部門密切監視雨情水情發展變化，強化監測預報預警，滾動會商分析研判，夯實人員轉移避險“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施，聚焦涉水旅遊景區、養老機構、休閒度假場所、農家樂、施工營地、易受洪水衝擊的交通道路等關鍵區域，落實人員轉移避險方案，全力確保人民群眾生命安全。目前，水利部派出的工作組正在浙江省颱風暴雨洪水防禦一線協助指導。（央視新聞）
+
+---
+
+### 2026-08-08 20:16:04  #MKT News #Star Stocks #Apple #Alphabet #Market Themes #Magnificent 7 #AAPL.O #BAC.N #GOOGL.O
+
+Berkshire Hathaway A (BRK.A.N): As of June 30, 66% of the fair value of its equity investments was concentrated in American Express, Apple, Bank of America, Alphabet and Coca-Cola.
+
+---
+
+### 2026-08-08 20:14:26  #MKT News #BRK.A.N
+
+Berkshire Hathaway A (BRK.A.N) cash reserves fell to $365.51 billion at end-Q2 2026.
+
+---
+
+### 2026-08-08 20:14:18  #公司 #國際
+
+伯克希爾哈撒韋：截至6月30日，股權投資公允價值總額的66%集中在美國運通、蘋果、美國銀行、Alphabet及可口可樂這五家公司。
+
+---
+
+### 2026-08-08 20:12:57  #市場
+
+伯克希爾哈撒韋(BRK.A.N)2025年全年末持有的固定收益證券投資公允價值達170.34億美元，其中，對美債、外國債券、企業債券的投資公允價值分別為30.02億美元，126.68億美元，13.64億美元。
+
+---
+
+### 2026-08-08 20:12:43  #MKT News
+
+Berkshire Hathaway (BRK.A.N) held $17.034 billion in fixed-income securities at year-end 2025; fair values were $3.002 billion in U.S. Treasuries, $12.668 billion in foreign bonds and $1.364 billion in corporate bonds.
+
+---
+
+### 2026-08-08 20:07:46  #市場
+
+【樓繼偉理事長出席資產盤活課題研討會】8月8日上午，全球財富管理論壇在京召開“地方國有存量資產盤活進展、難點與策略”課題研討會，樓繼偉理事長出席會議並做總結髮言。樓繼偉在發言中表示，盤活國有資產既是近期的當務之急，也是一項長期性的戰略任務。當前我國GDP平減指數階段性承壓走低，財政維持緊平衡格局的壓力持續攀升；我國稅收結構以間接稅為主體，稅收收入增速顯著弱於名義GDP增速，財政內生增收動能受限。疊加土地財政收入大幅收縮，地方隱性債務化解、長期限國債常態化發行帶來的利息支出剛性上漲，收支兩端壓力持續凸顯。綜合多重現實約束來看，國有存量資產盤活並非短期應急手段，而是一項需要常態化、長效化推進的重點工作。
+
+---
+
+### 2026-08-08 20:06:10  #其他
+
+伯克希爾·哈撒韋二季度回購約45億美元庫存股。
+
+---
+
+### 2026-08-08 20:05:59  #MKT News #BRK.A.N
+
+Berkshire Hathaway Class A (BRK.A.N): insurance float approximately $177.5 billion as of June 30, 2026.
+
+---
+
+### 2026-08-08 20:05:51  #MKT News #BRK.A.N
+
+Berkshire Hathaway Class A (BRK.A.N): Class A-equivalent shares outstanding 1,431,693 as of June 30, 2026.
+
+---
+
+### 2026-08-08 20:05:50  #其他
+
+伯克希爾哈撒韋：二季度BNSF運營利潤15.6億美元。
+
+---
+
+### 2026-08-08 20:05:32  #MKT News #BRK.B.N
+
+Berkshire Hathaway B (BRK.B.N) Q2 2026 EPS was $11.91.
+
+---
+
+### 2026-08-08 20:05:29  #MKT News #BRK.A.N
+
+Berkshire Hathaway A (BRK.A.N) Q2 2026 EPS $17,868.
+
+---
+
+### 2026-08-08 20:05:02  #其他
+
+伯克希爾哈撒韋二季度A類股每股淨收益為17,868美元。二季度末現金降低至3655.1億美元。
+
+---
+
+### 2026-08-08 20:04:50  #MKT News #BRK.A.N #Impact bullish
+
+Berkshire Hathaway A (BRK.A.N): 2026 investment gains include $10.9 billion in second-quarter gains.
+
+---
+
+### 2026-08-08 20:04:25  #其他
+
+伯克希爾·哈撒韋二季度現金儲備降至3655.1億美元。
+
+---
+
+### 2026-08-08 20:02:46  #MKT News #BRK.A.N #Impact bullish
+
+Berkshire Hathaway A (BRK.A.N) reported Q2 2026 net income of $25.667 bln, up from $12.37 bln a year earlier.
+
+---
+
+### 2026-08-08 20:02:31  #國際
+
+【伊官員：有證據顯示美軍使用磷彈轟炸伊朗多地】據伊朗方面當地時間8日訊息，伊朗衛生部副部長沙欣·阿洪德扎德當天表示，目前已有證據顯示，美軍對伊朗法爾斯省拉梅爾德市的轟炸涉及到含磷彈藥。伊朗衛生部已就此開展研究，希望能在國際平臺發表研究結果，向外界展示伊朗平民所遭受到的傷害。此外，布什爾省也開展了類似研究，同樣發現了與含磷彈藥有關的證據，不過法爾斯省的情況更加嚴重。（央視新聞）
+
+---
+
+### 2026-08-08 20:01:05  #MKT News #Important #BRK.A.N
+
+Berkshire Hathaway A (BRK.A.N) reported Q2 2026 revenue of $12.983 billion.
+
+---
+
+### 2026-08-08 20:00:42  #其他 #焦點
+
+伯克希爾哈撒韋二季度運營利潤129.83億美元，同比增長16%。二季度歸屬於股東的淨利潤256.67億美元，上年同期123.70億美元。
+
+---
+
+### 2026-08-08 20:00:39  #國際
+
+美國地質調查局：復活節島東南海域發生5.6級地震。
+
+---
+
+### 2026-08-08 20:00:02  #市場
+
+本週大盤主力資金累計淨流入620.1億元，元件、通訊裝置板塊淨流入居前，個股工業富聯、天孚通訊淨流入最多。
+
+---
+
+### 2026-08-08 19:58:14  #焦點 #國際
+
+【伊朗接近與阿曼達成管理海峽協議】伊朗外交部長阿拉格齊今天（8月8日）表示，伊朗目前正在與阿曼就霍爾木茲海峽的法律機制、管理方式以及確定海峽船舶通行路線進行談判，雙方已經非常接近達成協議。但是，霍爾木茲海峽能否重新開放還取決於其他條件，包括美國對其違反美伊諒解備忘錄的行為作出彌補。阿拉格齊說，過去霍爾木茲海峽存在一套分道通航制，但伊朗認為，原有路線已經不再適合作為船舶通行路線，伊方無法接受繼續使用該路線。（新華社）
+
+---
+
+### 2026-08-08 19:58:08  #MKT News #RTX.O #Impact bullish
+
+【Zelenskiy says US to supply Patriot interceptor missiles to Ukraine monthly】During a visit to Serbia, Ukrainian President Volodymyr Zelenskiy said the US has agreed to deliver Patriot interceptor missiles to Ukraine on a monthly basis, but that this supply alone will not fully close Kyiv’s current shortfall of interceptors.
 
 ---
 
@@ -18494,235 +18752,5 @@ Hong Kong's HSI opened down 3.63 pts (-0.01%) at 25,526.65; Hang Seng Tech index
 ### 2026-08-07 09:21:11  #MKT News #Important #Market Regions #Greater China #02261.HK #Impact bullish #Hang Seng Index
 
 Hong Kong open: Hang Seng Index opened down 0.01%; Hang Seng TECH opened up 0.26%. Nasen Technology (02261.HK) rose 62% at the open on its first trading day.
-
----
-
-### 2026-08-07 09:19:45  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australian Shares Retreat After Record Highs, Weekly Gain Intact — Australian stocks fell 38 points, or 0.4%, to 9,234 on Friday morning trading, snapping gains in the prior five sessions as traders booked profits after markets recently hit record highs. U.S. equity futures also weakened after Wall Street’s overnight losses, weighed by geopolitical tensions that lifted oil prices and revived inflation worries, fueling bets of further Fed hikes. Caution emerged ahead of July trade data in top trading partner China later today. Locally, the Reserve Bank will hold a policy meeting next week against a backdrop of slowing activity and sticky cost pressures despite three hikes this year. Commercial services, healthcare, and industrials weighed, partly offset by gains in energy minerals and utilities. Heavyweights BHP (-0.4%) and Rio Tinto (-0.7%) eased after reports that they were called to a critical-minerals meeting with President Trump. Still, markets remain up 2.9% so far this week, lifted by persistent buying and a rebound in Australia's June exports.
-
----
-
-### 2026-08-07 09:18:45  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #518880.SS #518550.SS
-
-【Gold ETFs tally CNY11.1bn cumulative inflows; 17th straight trading-day net inflow】HITHINK ROYALFLUSH iFinD shows gold ETFs logged another CNY1.84bn net inflow yesterday. Since July 15, gold ETFs have seen net subscription inflows for 17 consecutive trading days totaling CNY11.1bn, the longest streak since March. Huaan Gold ETF (518880) has accumulated CNY7.277bn of net inflows; Huaxia Gold ETF (518550) has CNY1.036bn.
-
----
-
-### 2026-08-07 09:18:29  #公司
-
-【西部礦業等成立地質科技公司】企查查APP顯示，近日，西藏西礦地質科技有限公司成立，經營範圍包含非煤礦山礦產資源開採；金屬與非金屬礦產資源地質勘探；礦產資源勘查等。企查查股權穿透顯示，該公司由西部礦業(601168)等共同持股。
-
----
-
-### 2026-08-07 09:17:34  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures opened the day session down 0.06% at 25,533, trading a 3-point premium to the cash index.
-
----
-
-### 2026-08-07 09:15:51  #觀點
-
-【中信建投：旺季預期有望助力稀土價格向上】中信建投證券研報認為，7月稀土各品種表現差異明顯，氧化鐠釹先揚後抑，氧化鋱跳漲後回撥，氧化鏑整體平穩。供給端，由於廢料廠原料緊張問題導致產量明顯下滑。SMM資料顯示，7月氧化鐠釹產量環比下降11%，8月或有邊際改善，但總體產量仍被壓制。高溫假期導致下游電機廠開工下滑，需求回落，8月仍處淡季。“金九銀十”是傳統消費旺季，市場對需求啟動預期依然較強。8月中下旬有望重啟下游備庫，打破供需雙弱格局，推動價格企穩向上。
-
----
-
-### 2026-08-07 09:15:41  #市場
-
-【人民幣兌美元中間價報6.7904，較上日調低9點】 人民幣兌美元中間價報6.7904，較上日調低9點。
-
----
-
-### 2026-08-07 09:15:25  #MKT News
-
-【US rocket debris strikes Moon, impact crater visible】Debris from an abandoned SpaceX Falcon 9 rocket struck the Moon on Aug. 5. South Korea’s space agency and NASA released before-and-after images on Aug. 6 showing a new impact crater on the lunar surface.
-
----
-
-### 2026-08-07 09:15:19  #市場
-
-人民幣兌美元中間價報6.7904元。
-
----
-
-### 2026-08-07 09:15:05  #其他
-
-北京市氣象臺2026年08月07日09時00分發布暴雨藍色預警訊號：預計8月7日12時至23時，我市將出現小時雨量30毫米以上的短時強降水，其中，延慶、懷柔、密雲、昌平、門頭溝、房山等區將出現小時雨量50毫米以上的短時強降水，6小時降雨量可達70毫米以上，請注意防範。
-
----
-
-### 2026-08-07 09:15:02  #市場
-
-恒指期貨日盤開盤跌0.05%，報25536.20點，高水5.92點。
-
----
-
-### 2026-08-07 09:14:25  #市場
-
-【普五八代、國窖1573領銜九款單品上漲 白酒總價觸3日新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月7日迎來回升。如果主要單品各取一瓶整體打包售賣，今日總售價為9853元，較昨日上漲28元，整體價格止跌回升並創下3天以來新高。今日共計九款白酒大單品的價格上漲，僅有習酒君品、洋河夢之藍M6+兩款小幅下跌。酒市終端看漲情緒回暖，多頭勢力有所迴歸，白酒前期連續回落的行情暫告結束。
-
-今日11大白酒單品九漲二跌，贏家佔據絕對優勢。上漲方面，五糧液普五八代、國窖1573、茅臺精品同步上漲10元/瓶，成為今日領漲品種，其中普五八代受渠道收緊、酒商惜售缺貨站穩790元價位。飛天茅臺與青花郎均上漲2元/瓶，其中前者價格回升至1969元，在提價後的高位區間維持震盪走勢，後者止住此前連續下跌行情；青花汾20上漲3元，五糧液1618、古井貢古20、水晶劍南春各自上漲1元，多款區域名酒同步止跌回升。下跌方面，今日僅有兩款單品收跌，習酒君品大幅下跌10元/瓶，結束昨日獨立逆勢上漲行情；洋河夢之藍M6+下調2元，延續區間震盪走勢。
-
----
-
-### 2026-08-07 09:13:46  #公司
-
-【430股獲融資買入超億元，中際旭創穫買入59.52億元居首】Wind資料顯示，A股8月6日共有3833只個股獲融資資金買入，有430股買入金額超億元。其中，中際旭創、長鑫科技、兆易創新融資買入金額排名前三，分別獲買入59.52億元、36.53億元、35.27億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中新北洋、索寶蛋白、佳馳科技融資買入額佔成交額比重排名前三，分別為30.63%、30.52%、28.98%。從融資淨買入金額來看，有43只個股獲融資淨買入超億元。其中，寧德時代、寒武紀、勝宏科技融資淨買入金額排名前三，分別獲淨買入7.45億元、4.99億元、4.71億元。
-
----
-
-### 2026-08-07 09:13:30  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell 1%.
-
----
-
-### 2026-08-07 09:12:45  #市場
-
-日經225指數下跌1%。
-
----
-
-### 2026-08-07 09:12:34  #其他
-
-【颱風“白海豚”靠近華東沿海 多地將迎強勁颱風雨】今天（8月7日），我國大部地區降雨將進一步減弱，明天起至下週初，隨著颱風“白海豚”的靠近，華東沿海多地將迎強勁颱風雨，當地需密切關注颱風動向，提前做好防颱風措施。同時，我國高溫範圍將縮減，受冷空氣影響，今天東北多地將率先迎來降溫，天氣將清涼不少，公眾需適時增減衣物，謹防感冒。
-
----
-
-### 2026-08-07 09:12:08  #國際
-
-【近期惡劣天氣致菲律賓逾13萬人受災】菲律賓國家減災委釋出訊息稱，截至7日上午6時，受近期的颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓超13萬人受災。災情共導致4人死亡，1人受傷。6日，菲律賓警方通報稱，近期的惡劣天氣共導致6人死亡。
-
----
-
-### 2026-08-07 09:11:23  #市場 #國際
-
-【日本GPIF將公佈4-6月績效 政府正考慮賦予該基金更大的投資彈性】日本政府退休金投資基金(GPIF)將於週五公佈4-6月季度的投資績效，目前日本政府正在討論這家全球最大養老金基金是否應重新檢視其投資策略。受惠於該季度大部分時間國內外股票都上漲，GPIF的投資回報率料表現不俗。亮眼的績效表現將凸顯GPIF投資組合的韌性；目前其投資組合對國內債券、外國債券、國內股票和外國股票這四大資產類別平均配置。距離該基金完成最新一輪五年檢討才過去一年，亮眼的表現可能使要求大幅改革投資策略的理由更難成立。圍繞GPIF投資策略的重大辯論於上個月展開，這也是十多來首次出現這類重要討論。此前日本財務大臣片山皋月表示，由於國內債券收益率上升且股票提供更佳報酬，政府有意引導公共養老金基金增加國內資產投資。然而在該言論發表近一個月後，政府官員表示，目前尚未推出任何重大政策舉措來立即改變GPIF的基準投資組合。他們表示，更切實可行的方案是允許該基金在現有目標的允許範圍內擁有更大的操作自由度，而無需啟動策略審查。
-
----
-
-### 2026-08-07 09:11:14  #其他
-
-【貴州省遵義市人大常委會副主任劉東明接受審查調查】中央紀委國家監委網站8月7日通報，據貴州省紀委監委訊息：貴州省遵義市人大常委會副主任、紅花崗區委書記劉東明涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-07 09:10:23  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Extends Gains — US gasoline futures rose above $2.90 per gallon on Friday, building on the previous session's rebound as renewed tensions in the Strait of Hormuz cast fresh doubt on efforts to fully reopen the vital shipping route. Iranian state media also reported that lawmakers are considering suspending transit rights under the Oman-brokered shipping agreement for vessels linked to the US, Israel, and other countries deemed hostile by Tehran. Adding to supply concerns, Ukraine carried out overnight drone strikes on two Russian oil refineries, including one of the country's largest in the Yaroslavl region, following a brief lull in late July that had allowed repairs and a partial recovery in fuel supplies. Russia's gasoline and diesel exports plunged 60% in July, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed US gasoline inventories fell by 1.64 million barrels in the week ended July 31, leaving stocks 7% below the five-year seasonal average.
-
----
-
-### 2026-08-07 09:09:32  #MKT News
-
-【Typhoon White Dolphin nears; Ningbo, Zhoushan raise coastal typhoon emergency to Level II】China's 13th typhoon this year, White Dolphin, continued approaching on Aug 7. At 05:00 the storm center was about 852 km from Ningbo, with maximum winds at force 14, moving west at 15-20 km/h. Ningbo and Zhoushan maritime authorities upgraded coastal typhoon emergency response to Level II at 08:00 on Aug 7.
-
----
-
-### 2026-08-07 09:09:23  #國際
-
-【廣鋼氣體與韓國AirFirst達成長期繫結戰略合作】據廣鋼氣體訊息，8月6日，廣鋼氣體與韓國頭部工業氣體服務商AirFirst正式簽署實質性長期戰略合作協議。雙方將建立常態化技術共創與市場聯動機制，圍繞廣鋼氣體自研的“Super-N”超高純制氮解決方案開展聯合迭代與場景最佳化，針對韓國先進半導體制程標準持續打磨定製化供氣體系，推動技術方案在海外高階產線完成驗證與規模化交付。
-
----
-
-### 2026-08-07 09:09:19  #國際
-
-【梅德韋傑夫批高市早苗不提當年是誰轟炸廣島和長崎：真是恥辱】“真是恥辱。”對於日本首相高市早苗在有關場合不提美國在廣島和長崎遭原子彈轟炸事件中的角色，俄羅斯聯邦安全會議副主席梅德韋傑夫6日作出這樣的表態。梅德韋傑夫當天在社交平臺上發帖稱，“近日，在回顧廣島和長崎遭核爆事件時，日本首相或其他任何日本官員竟然一次都沒有提當年是誰炸的，真是恥辱”。梅德韋傑夫還稱，“日本是美國的附庸”。（環球網）
-
----
-
-### 2026-08-07 09:08:32  #其他
-
-為應對臺風影響，寧波海事部門持續加強重點航道、錨地和橋區巡航，目前沿海46個涉水工程已全部停工，施工船舶有序避風，100餘艘應急船舶在港口布防。舟山海事部門則依託“VTS+無人機+海巡艇”對轄區內錨地、避風水域加強立體巡查。截至8月6日20時，舟山72條客渡運航線已全部停航。
-
----
-
-### 2026-08-07 09:08:06  #其他
-
-【“白海豚”逼近 寧波、舟山啟動沿海Ⅱ級防颱應急響應】今年，第13號颱風“白海豚”持續逼近。8月7日5時，颱風中心距離寧波約852公里，中心最大風力14級，正以每小時15至20公里的速度向西移動。根據颱風動態，寧波和舟山兩地海事部門已於8月7日8時將沿海防颱應急響應提升至Ⅱ級。
-
----
-
-### 2026-08-07 09:07:22  #公司 #國際
-
-【RWE與美國內政部達成12.2億美元和解，放棄三處海上風電租約】當地時間8月6日，德國能源企業RWE旗下美國海上風電業務已與美國內政部達成和解協議，美國政府支付12.2億美元和解資金，RWE將放棄位於紐約灣、加州近海和路易斯安那州近海的海上風電租賃權益。RWE表示，公司此前從美國政府獲得相關海上風電租約，並已投入超過10億美元用於租約及專案開發。經過評估，公司認為這些專案在可預見未來無法獲得許可推進，此次和解將解決RWE對美國政府提出的相關法律索賠，並使公司能夠將資本重新投入可推進的能源專案。
-
----
-
-### 2026-08-07 09:07:14  #MKT News
-
-Sources: Moonshot AI is requiring partners to accept revenue sharing of up to 30% for KIMI K3.
-
----
-
-### 2026-08-07 09:06:18  #其他
-
-訊息人士稱月之暗面要求合作伙伴同意KIMI K3收入分成最高達30%。
-
----
-
-### 2026-08-07 09:05:41  #MKT News #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-Sources say Alibaba plans to seek revenue-sharing arrangements for the next-generation open-source Qianwen AI model.
-
----
-
-### 2026-08-07 09:05:17  #MKT News #Macro & Rates
-
-【Short-term retail money-market yield snapshot】Tencent Licaitong (current + 7-day annualized) yields ranged 0.7320%–1.1730%. WeChat Wallet Lingqiantong 7-day annualized yield ranged 0.9010%–1.0270%. Alipay Yu’e Bao 7-day annualized yield ranged 0.9030%–1.0290%.
-
----
-
-### 2026-08-07 09:05:05  #其他
-
-【中國信達等在北京新設股權投資中心】企查查APP顯示，近日，北京信弘昇股權投資中心（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由中國信達（01359.HK）等共同出資。
-
----
-
-### 2026-08-07 09:05:02  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【U.S. intelligence: Russia may conduct limited attacks to probe NATO resolve】The Wall Street Journal reports U.S. intelligence assesses President Putin may, in coming years, carry out limited attacks on NATO allies to test alliance resolve, in scenarios ranging from cyber operations to small-scale ground incursions. U.S. officials say the assessment comes as U.S. munitions inventories have been severely drawn down by transfers to Ukraine and recent U.S.-Iran tensions, raising risks of shortages in long‑range precision‑strike missiles, ATACMS, and short‑range Stinger surface‑to‑air systems.
-
----
-
-### 2026-08-07 09:04:38  #其他
-
-訊息人士稱阿里巴巴計劃就下一代開源千問人工智慧模型尋求收益分成。
-
----
-
-### 2026-08-07 09:04:15  #市場 #焦點
-
-乙二醇連續主力合約日內漲3%，現報4722.00元。
-
----
-
-### 2026-08-07 09:04:06  #MKT News #Important
-
-Wall Street Journal reports a U.S. intelligence assessment that President Putin could, in the coming years, seek to probe NATO's resolve via limited attacks on alliance members, potentially including cyber operations or small-scale ground incursions.
-
----
-
-### 2026-08-07 09:01:30
-
-國內期貨主力合約漲多跌少，多晶矽、SC原油漲超4％，燃料油漲近3％，瀝青、乙二醇（EG）、焦炭、苯乙烯（EB）漲超2％，低硫燃料油（LU）漲近2％，集運歐線漲超1％。跌幅方面，鉑跌超2％，鈀、滬銀、滬鎳、滬錫跌超1％。
-
----
-
-### 2026-08-07 09:01:22  #公司
-
-【中研股份：高管、部分股東未減持股份並提前終止減持計劃】中研股份(688716)8月7日早間公告，公司代財務總監楊麗萍、股東王秀雲及其一致行動人劉國樑原擬合計減持公司不超1.12%股份。截至目前，上述人員未實施減持，基於對公司長期發展前景及內在價值的充分認可，結合自身資金需求安排，其決定提前終止此次減持股份計劃。
-
----
-
-### 2026-08-07 09:01:21  #MKT News #Market Regions #Greater China
-
-Taiwan Weighted Index opened 386.97 points higher, up 0.87%, at 44,783.67 on Friday, Aug. 7.
-
----
-
-### 2026-08-07 09:00:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D opened down 0.45% at 919.83 yuan/gram on Aug. 7; silver T+D opened down 1.12% at 14,977 yuan/kg.
 
 ---
