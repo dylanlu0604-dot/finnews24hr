@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-09 00:33:04",
-  "count": 15854,
+  "updated": "2026-08-09 00:41:31",
+  "count": 15855,
   "items": [
+    {
+      "id": "mkt:019fe23e-e249-7aab-8fc5-30a9f8f8543a",
+      "time": "2026-08-09 00:39:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products."
+    },
+    {
+      "id": "mkt:019fe23b-05f8-7aab-8fc5-2c0909ad7dd5",
+      "time": "2026-08-09 00:35:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Lebanese sources said Lebanon insists on a full ceasefire before returning to talks in Rome and wants Bint Jbeil and Khiam included in a pilot zone."
+    },
+    {
+      "id": "mkt:019fe23a-6a36-7aab-8fc5-26fee097ba97",
+      "time": "2026-08-09 00:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman to participate in a fireside chat; announcement due in 10 minutes."
+    },
+    {
+      "id": "5032072",
+      "time": "2026-08-09 00:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：當下是達成協議的最佳時機。"
+    },
+    {
+      "id": "5032071",
+      "time": "2026-08-09 00:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：在這種既非戰爭也非和平的局面下，經濟狀況是我最為關切的問題。"
+    },
+    {
+      "id": "5032070",
+      "time": "2026-08-09 00:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。"
+    },
     {
       "id": "5032069",
       "time": "2026-08-09 00:31:04",
@@ -144433,50 +144492,6 @@
         "DXY"
       ],
       "text": "Saudi outlet alhadath reports Jordan has notified Iraq it will strike if Iran-aligned militias attack Jordan."
-    },
-    {
-      "id": "5020529",
-      "time": "2026-08-02 00:39:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "《蜘蛛俠：嶄新之日》北美首映日票房斬獲1.68億美元，重新整理影史首映日票房紀錄。"
-    },
-    {
-      "id": "mkt:019fbe2f-426c-7aab-8f42-dfdf3b033cc6",
-      "time": "2026-08-02 00:36:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he disagrees with Washington, D.C., prosecutor Piro's view on the Reflecting Pool."
-    },
-    {
-      "id": "mkt:019fbe2f-0674-7aab-8f42-d30815884a6d",
-      "time": "2026-08-02 00:36:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "U.S. is evacuating its air force base in Bahrain amid expectations of a possible regional escalation."
-    },
-    {
-      "id": "5020528",
-      "time": "2026-08-02 00:35:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我完全不認同聯邦檢察官皮羅關於倒影池案件的處理方式。\n注：皮羅選擇撤訴，認為不存在惡意破壞。"
-    },
-    {
-      "id": "5020527",
-      "time": "2026-08-02 00:33:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：在傳聞中的升級打擊到來前，美軍開始撤離巴林空軍基地人員。"
     }
   ]
 }

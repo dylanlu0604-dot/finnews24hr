@@ -1,7 +1,66 @@
 {
   "date": "2026-08-09",
-  "count": 9,
+  "count": 15,
   "items": [
+    {
+      "id": "mkt:019fe23e-e249-7aab-8fc5-30a9f8f8543a",
+      "time": "2026-08-09 00:39:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products."
+    },
+    {
+      "id": "mkt:019fe23b-05f8-7aab-8fc5-2c0909ad7dd5",
+      "time": "2026-08-09 00:35:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Lebanese sources said Lebanon insists on a full ceasefire before returning to talks in Rome and wants Bint Jbeil and Khiam included in a pilot zone."
+    },
+    {
+      "id": "mkt:019fe23a-6a36-7aab-8fc5-26fee097ba97",
+      "time": "2026-08-09 00:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Bowman to participate in a fireside chat; announcement due in 10 minutes."
+    },
+    {
+      "id": "5032072",
+      "time": "2026-08-09 00:34:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：當下是達成協議的最佳時機。"
+    },
+    {
+      "id": "5032071",
+      "time": "2026-08-09 00:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：在這種既非戰爭也非和平的局面下，經濟狀況是我最為關切的問題。"
+    },
+    {
+      "id": "5032070",
+      "time": "2026-08-09 00:34:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。"
+    },
     {
       "id": "5032069",
       "time": "2026-08-09 00:31:04",
