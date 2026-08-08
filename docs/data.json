@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-08 20:12:02",
-  "count": 15826,
+  "updated": "2026-08-08 20:15:58",
+  "count": 15830,
   "items": [
+    {
+      "id": "mkt:019fe14b-c295-7aab-8fc4-3477ffb73ca0",
+      "time": "2026-08-08 20:14:26",
+      "tags": [
+        "MKT News",
+        "BRK.A.N"
+      ],
+      "text": "Berkshire Hathaway A (BRK.A.N) cash reserves fell to $365.51 billion at end-Q2 2026."
+    },
+    {
+      "id": "5031967",
+      "time": "2026-08-08 20:14:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伯克希爾哈撒韋：截至6月30日，股權投資公允價值總額的66%集中在美國運通、蘋果、美國銀行、Alphabet及可口可樂這五家公司。"
+    },
+    {
+      "id": "5031965",
+      "time": "2026-08-08 20:12:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "伯克希爾哈撒韋(BRK.A.N)2025年全年末持有的固定收益證券投資公允價值達170.34億美元，其中，對美債、外國債券、企業債券的投資公允價值分別為30.02億美元，126.68億美元，13.64億美元。"
+    },
+    {
+      "id": "mkt:019fe14a-30aa-7aab-8fc4-280086b9fa4f",
+      "time": "2026-08-08 20:12:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Berkshire Hathaway (BRK.A.N) held $17.034 billion in fixed-income securities at year-end 2025; fair values were $3.002 billion in U.S. Treasuries, $12.668 billion in foreign bonds and $1.364 billion in corporate bonds."
+    },
     {
       "id": "5031964",
       "time": "2026-08-08 20:07:46",
