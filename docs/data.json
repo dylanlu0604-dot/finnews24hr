@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-08 15:49:45",
+  "updated": "2026-08-08 15:53:50",
   "count": 15851,
   "items": [
+    {
+      "id": "mkt:019fe05a-443b-7aab-8fc3-1ac66397fad4",
+      "time": "2026-08-08 15:50:39",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish"
+      ],
+      "text": "【Pentagon plans year‑end first test of 'Jinqiong' space-based missile‑defense system】Bloomberg reported on Aug. 7, citing people familiar with the matter, that the Pentagon plans a first test of its under-construction 'Jinqiong' space-based missile-defense system before year-end. In April the U.S. Space Force awarded contracts to 12 firms, including SpaceX and Lockheed Martin, to develop space-based interceptors; sources said the government is prepared to pay $60m to contractors if interceptor ground tests are successfully completed by year-end. The Space Force expects to begin procuring systems from teams that pass final testing from 2030."
+    },
+    {
+      "id": "5031854",
+      "time": "2026-08-08 15:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國參議院獲得足夠票數透過臨時支出法案，以避免10月1日政府停擺，投票仍在進行。"
+    },
     {
       "id": "5031853",
       "time": "2026-08-08 15:47:18",
@@ -144415,24 +144433,6 @@
         "國際"
       ],
       "text": "【美國駐約旦大使館敦促中東地區美國人考慮離開該地區】美國駐約旦大使館週六敦促中東地區的美國人考慮離開該地區，或做好在緊張局勢升級時出發的準備，並警告可能出現航班取消、空域關閉和其他旅行中斷。大使館在一份安全警報中表示：“安全環境仍然複雜，可能出現不可預見的升級”，並建議美國人提高警惕。大使館還敦促美國公民避免前往約旦的軍事基地，並警告伊朗和支援德黑蘭的團體可能針對美國在海外的利益。位於中東以外的美國人應“認真重新考慮”前往或途經該地區的旅行。"
-    },
-    {
-      "id": "mkt:019fbc4d-a338-7aab-8f41-0f71ab260c37",
-      "time": "2026-08-01 15:50:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Chery Group July vehicle sales 276,820 units, up 23.3% YoY】Chery Group sold 276,820 vehicles in July, up 23.3% YoY. Exports rose to 202,533 units, up 70.1% YoY, making Chery the first Chinese automaker to exceed 200,000 monthly exports. July NEV sales were 129,067 units, up 97.5% YoY. Jan–Jul cumulative vehicle sales reached 1,634,353 units, up 10.1% YoY; cumulative exports 1,146,350 units, up 71.2%; cumulative NEV sales 604,305 units, up 42.3% YoY."
-    },
-    {
-      "id": "5020302",
-      "time": "2026-08-01 15:50:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗警告稱美國海軍封鎖可能導致更多海峽關閉】伊朗最高國家安全委員會秘書Mohammad Bagher Zolghadr當地時間週六早些時候表示，美國持續的海上封鎖和局勢升級，不僅會令霍爾木茲海峽的通行進一步受限，其他海峽和戰略咽喉要道也會關閉。"
     }
   ]
 }

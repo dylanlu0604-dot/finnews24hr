@@ -1,7 +1,25 @@
 {
   "date": "2026-08-08",
-  "count": 622,
+  "count": 624,
   "items": [
+    {
+      "id": "mkt:019fe05a-443b-7aab-8fc3-1ac66397fad4",
+      "time": "2026-08-08 15:50:39",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish"
+      ],
+      "text": "【Pentagon plans year‑end first test of 'Jinqiong' space-based missile‑defense system】Bloomberg reported on Aug. 7, citing people familiar with the matter, that the Pentagon plans a first test of its under-construction 'Jinqiong' space-based missile-defense system before year-end. In April the U.S. Space Force awarded contracts to 12 firms, including SpaceX and Lockheed Martin, to develop space-based interceptors; sources said the government is prepared to pay $60m to contractors if interceptor ground tests are successfully completed by year-end. The Space Force expects to begin procuring systems from teams that pass final testing from 2030."
+    },
+    {
+      "id": "5031854",
+      "time": "2026-08-08 15:49:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國參議院獲得足夠票數透過臨時支出法案，以避免10月1日政府停擺，投票仍在進行。"
+    },
     {
       "id": "5031853",
       "time": "2026-08-08 15:47:18",
