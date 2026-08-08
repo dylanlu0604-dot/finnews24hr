@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 01:24:14",
-  "count": 15862,
+  "updated": "2026-08-09 01:28:11",
+  "count": 15860,
   "items": [
+    {
+      "id": "mkt:019fe267-7327-7aab-8fc5-94ed6cdc814e",
+      "time": "2026-08-09 01:24:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Iran is not the target of the defensive pact; provided it does not attack member states, no one is a target."
+    },
     {
       "id": "5032081",
       "time": "2026-08-09 01:22:46",
@@ -144508,41 +144516,6 @@
         "市場"
       ],
       "text": "【Codex與開源模型關注度攀升，Anthropic旗下Claude Code依舊佔據主導】Anthropic正面臨日趨激烈的市場競爭，客戶也對其AI工具高昂的價格心存疑慮。但爆款產品Claude Code的領先地位依舊難以撼動。2025年末至2026年初，大量企業轉向Claude Code，不少場景下擠佔了微軟GitHub Copilot以及AI程式碼工具廠商Cursor的市場份額。近幾個月，隨著Anthropic切換至按量計費模式，客戶使用成本大幅上漲；與此同時，競爭對手OpenAI持續迭代Codex，競爭力顯著增強，來自中國的開源模型能力也取得長足進步。即便各大企業積極尋求控本方案，眾多企業依舊選擇繼續使用Claude Code。"
-    },
-    {
-      "id": "mkt:019fbe5d-f0db-7aab-8f43-273a0dd5eda8",
-      "time": "2026-08-02 01:27:35",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "United Nations expressed serious concern over Israeli demolition operations in southern Lebanon, saying they have a devastating impact on civilian infrastructure, cultural heritage and communities' collective memory."
-    },
-    {
-      "id": "5020538",
-      "time": "2026-08-02 01:27:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【以色列官員：緊張局勢達到頂點，瀕臨爆發邊緣】一名以色列官員表示：“當前緊張局勢已達到頂點，正處於爆發邊緣。”以方評估認為，美國總統特朗普“比以往任何時候都更接近對伊朗發動重大打擊，但目前尚無定論”。以色列目前已提高戒備等級。該官員稱：“我們估計特朗普尚未決定襲擊的規模，目前還不清楚他是否希望以色列參與第一階段的行動。”他補充稱，特朗普認為談判只是“浪費時間”，並且“憤怒、惱火和沮喪”。據其透露，白宮向特朗普提出的方案支援以色列的評估，即對能源設施發動大規模、有針對性的襲擊，可能動搖伊朗政權。該官員表示：“這樣的強力打擊可以及時完成，並不一定會引發導致全球能源價格上漲的‘能源戰爭’。目標將是特定設施，這些設施可能對伊朗民眾產生重大影響。目前尚不清楚特朗普是否會選擇這一方案，還是會繼續維持封鎖措施直到中期選舉。這不是‘是否採取行動’的問題，而是‘何時行動’的問題。所有跡象都表明，特朗普似乎別無選擇，只能朝這個方向推進。”"
-    },
-    {
-      "id": "mkt:019fbe5a-e373-7aab-8f43-1c7fe4be54ae",
-      "time": "2026-08-02 01:24:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israeli official: tensions at peak, Trump nearer to major strike on Iran】An Israeli official told Channel 12 tensions with Iran have reached a peak and are on the brink of erupting; Israel has raised its alert level. The official said President Trump is “closer than ever” to ordering a major strike on Iran but has not decided on the scale or on whether Israel would join initial operations. White House options reportedly favor large, targeted strikes on Iranian energy facilities intended to weaken the regime; the official said such strikes could be executed quickly and would not necessarily trigger a global energy-price shock but would hit facilities with major domestic impact. It is unclear whether Trump will choose that option or keep a blockade in place until the midterm elections—the question is timing, not whether to act."
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-08-09",
-  "count": 35,
+  "count": 36,
   "items": [
+    {
+      "id": "mkt:019fe267-7327-7aab-8fc5-94ed6cdc814e",
+      "time": "2026-08-09 01:24:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Iran is not the target of the defensive pact; provided it does not attack member states, no one is a target."
+    },
     {
       "id": "5032081",
       "time": "2026-08-09 01:22:46",
