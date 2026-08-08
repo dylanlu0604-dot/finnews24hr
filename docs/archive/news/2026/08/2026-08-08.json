@@ -1,7 +1,48 @@
 {
   "date": "2026-08-08",
-  "count": 765,
+  "count": 768,
   "items": [
+    {
+      "id": "mkt:019fe153-3020-7aab-8fc4-4705c099a11e",
+      "time": "2026-08-08 20:22:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "BAC.O",
+        "GOOG.N"
+      ],
+      "text": "【Berkshire Hathaway Q2 net income rises sharply; cash reserves fall】Berkshire Hathaway A (BRK.A.N) reported Q2 2026 revenue of $12.983 bln, down from $92.515 bln a year earlier, and net income attributable to shareholders of $25.667 bln versus $12.37 bln a year ago. Cash and equivalents fell to $364.7 bln from $397.0 bln at end‑Q1. Fair value of fixed‑income investments totaled $17.034 bln, comprising $3.002 bln in US Treasuries, $12.668 bln in foreign bonds and $1.364 bln in corporate bonds. Sixty‑six percent of the fair value of equity holdings is concentrated in American Express, Apple, Bank of America, Alphabet and Coca‑Cola."
+    },
+    {
+      "id": "5031968",
+      "time": "2026-08-08 20:17:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部將針對浙江省的洪水防禦應急響應提升至Ⅲ級】8月8日18時，水利部和中國氣象局聯合對浙江省23個連片縣（市、區）釋出紅色山洪災害氣象預警，根據《水利部水旱災害防禦應急響應工作規程》，水利部於8月8日20時將針對浙江省洪水防禦Ⅳ級應急響應提升至Ⅲ級，督促指導地方水利部門密切監視雨情水情發展變化，強化監測預報預警，滾動會商分析研判，夯實人員轉移避險“誰組織、轉移誰、何時轉、轉何處、不擅返”五個關鍵環節責任和措施，聚焦涉水旅遊景區、養老機構、休閒度假場所、農家樂、施工營地、易受洪水衝擊的交通道路等關鍵區域，落實人員轉移避險方案，全力確保人民群眾生命安全。目前，水利部派出的工作組正在浙江省颱風暴雨洪水防禦一線協助指導。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe14d-4279-7aab-8fc4-3c39a5423542",
+      "time": "2026-08-08 20:16:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "BAC.N",
+        "GOOGL.O"
+      ],
+      "text": "Berkshire Hathaway A (BRK.A.N): As of June 30, 66% of the fair value of its equity investments was concentrated in American Express, Apple, Bank of America, Alphabet and Coca-Cola."
+    },
     {
       "id": "mkt:019fe14b-c295-7aab-8fc4-3477ffb73ca0",
       "time": "2026-08-08 20:14:26",
