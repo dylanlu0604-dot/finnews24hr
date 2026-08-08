@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-08 09:39:03",
+  "updated": "2026-08-08 09:46:44",
   "count": 15956,
   "items": [
+    {
+      "id": "5031767",
+      "time": "2026-08-08 09:42:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武漢將新增一座高鐵站】據湖北釋出，根據《新建合肥至武漢高速鐵路長江新區站站房工程及天河站站區相關工程HWZF-1(HBSJ-202401TL-010023001)資審檔案公告》，長江新區站計劃開工時間和竣工時間均已明確：計劃開工日期2026年9月1日，計劃竣工日期2028年6月30日，計劃工期668日曆天。長江新區站位於武漢中北部，北靠黃陂區，南依長江新城。車站西距武漢天河站22.86km，東距紅安站24.726km。"
+    },
+    {
+      "id": "5031766",
+      "time": "2026-08-08 09:39:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "據知情人士稱，英偉達將透過首筆20億美元的投資獲得Lancium 20%的股權，如果Lancium達到某些閾值，其持股比例可能隨再追加的10億美元投資而增加。"
+    },
+    {
+      "id": "5031765",
+      "time": "2026-08-08 09:38:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內漲超2%，現報2.6815美元。"
+    },
     {
       "id": "5031764",
       "time": "2026-08-08 09:37:33",
@@ -145369,32 +145395,6 @@
         "MKT News"
       ],
       "text": "Deep Blue Auto said July 2026 global sales were 29,213 vehicles, up 7.52% YoY; Jan–July YTD global sales were 193,369 vehicles, up 13.48% YoY. Cumulative global sales now exceed 910,000 vehicles."
-    },
-    {
-      "id": "5020145",
-      "time": "2026-08-01 09:46:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深藍汽車7月全球銷量29213輛，同比增長7.52%】8月1日，深藍汽車公佈，2026年7月全球銷量29213輛，同比增長7.52%；1-7月全球累計銷量193369輛，同比增長13.48%；全球累計銷量超91萬輛。"
-    },
-    {
-      "id": "mkt:019fbafb-4fa6-7aab-8f3e-d8b54a215b0d",
-      "time": "2026-08-01 09:40:59",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【Huatai: Auto sector fund holdings and valuations at historic lows; monitor end-Q3 domestic sales for recovery】Huatai Securities says Q2 2026 fund holdings in the Chinese auto sector fell to 1.65%, the lowest since 2021, while sector valuations sit below the 15th percentile of the past five years—positioning and valuation both at relative historical lows. The report attributes the rapid de-risking mainly to a slide in domestic demand that cut earnings expectations, and to AI thematic flows that accelerated selling, concentrating cuts into one quarter. All four core sub-sectors saw cuts with clear dispersion: passenger cars were cut deepest and show the weakest fundamentals; commercial vehicles have improving profitability but display the largest divergence between heavy holdings cuts and price declines; auto parts were most resilient, with some stocks showing independent alpha and receiving buys; motorcycles and other were the only overweight sub-sector. Huatai judges downside may be limited and that upside depends on a fundamental inflection; key catalyst to monitor is improvement in domestic sales by end-Q3. Preferred exposures are export-strong commercial vehicle chains, the motorcycle sector, and auto-parts names with idiosyncratic alpha."
-    },
-    {
-      "id": "mkt:019fbafb-1ada-7aab-8f3e-d3cf707724ab",
-      "time": "2026-08-01 09:40:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Index Academy: 100-city resale home prices down 0.44% MoM in July】China Index Academy said July 2026 transaction activity in key Chinese cities remained elevated and volumes continued to rise YoY. Continued price adjustments across most cities pushed the 100-city average resale residential price to 12,584 yuan/sq m, down 0.44% MoM (0.02 percentage points wider than June); 8 cities rose MoM, 92 fell, with Shanghai among core cities continuing to post MoM gains. New-home supply of quality projects in Shanghai, Shenzhen, Hangzhou, Chengdu and Hefei drove a structural uptick in new-home prices: the 100-city new-build average was 17,229 yuan/sq m, +0.26% MoM and +2.09% YoY. Rental demand from graduation season lifted leasing; the 50-city average residential rent was 34.01 yuan/sq m/month, +0.13% MoM and -2.62% YoY."
     }
   ]
 }
