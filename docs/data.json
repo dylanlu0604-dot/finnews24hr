@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 01:40:38",
-  "count": 15862,
+  "updated": "2026-08-09 01:44:37",
+  "count": 15861,
   "items": [
+    {
+      "id": "mkt:019fe279-46e1-7aab-8fc5-a8968b736d96",
+      "time": "2026-08-09 01:43:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Egypt may join a defense pact once certain technical issues are resolved."
+    },
+    {
+      "id": "5032084",
+      "time": "2026-08-09 01:42:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：埃及或可在特定技術問題得到解決後加入該防務協議。"
+    },
+    {
+      "id": "mkt:019fe276-30fe-7aab-8fc5-a40218fcc6cc",
+      "time": "2026-08-09 01:40:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vucic meets Zelenskiy; agree to deepen economic and trade cooperation】On the 8th (local time), Serbian President Vucic met Ukrainian President Zelenskiy; they agreed to deepen economic and trade cooperation and to expand cooperation on infrastructure and humanitarian aid."
+    },
     {
       "id": "5032083",
       "time": "2026-08-09 01:39:22",
@@ -144500,38 +144524,6 @@
         "MKT News"
       ],
       "text": "Former U.S. vice president Harris said Trump is an isolationist who repeatedly invokes \"America First.\" By failing to understand America's role — imperfect though it is — he has made the U.S. a less reliable partner and driven U.S. authority in global affairs to an unprecedented low."
-    },
-    {
-      "id": "mkt:019fbe6d-49ed-7aab-8f43-2989b75b0943",
-      "time": "2026-08-02 01:44:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former U.S. vice president Kamala Harris said the Iran war is a conflict incumbent President Trump chose to enter, that he has allied with Israel in the fighting, and that it does not pose a clear U.S. national security threat."
-    },
-    {
-      "id": "5020542",
-      "time": "2026-08-02 01:44:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統哈里斯：特朗普秉持所謂“美國優先”綱領，奉行孤立主義。他未能理解美國在世界上扮演的角色——儘管我們自身並不完美，由此造成兩大後果，一是讓美國看上去不再是可靠的合作伙伴；二是致使美國如今在全球事務上的影響力跌至歷史低點。"
-    },
-    {
-      "id": "5020541",
-      "time": "2026-08-02 01:43:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴基斯坦雪崩致1名中國公民失聯 我使館敦促巴方全力搜救】7月30日，一支國際登山隊在喀喇崑崙山脈布洛阿特峰遭遇雪崩後失聯。8月1日，中國駐巴基斯坦大使館領僑處向總檯記者證實，該登山隊的失蹤者中包括1名中國公民。我使館表示，事件發生後，使館已啟動領事保護應急機制，與巴方有關部門保持密切聯絡，敦促其全力搜救失聯中國公民，並及時通報搜救進展。（央視新聞）"
-    },
-    {
-      "id": "5020540",
-      "time": "2026-08-02 01:41:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前副總統哈里斯談伊朗：這場戰爭是特朗普主動選擇捲入的衝突，他與以色列聯手開戰，而我國並沒有明確的國家安全利益受到威脅。"
     }
   ]
 }

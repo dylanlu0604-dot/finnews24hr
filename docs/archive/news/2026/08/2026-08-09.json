@@ -1,7 +1,31 @@
 {
   "date": "2026-08-09",
-  "count": 39,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:019fe279-46e1-7aab-8fc5-a8968b736d96",
+      "time": "2026-08-09 01:43:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Egypt may join a defense pact once certain technical issues are resolved."
+    },
+    {
+      "id": "5032084",
+      "time": "2026-08-09 01:42:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：埃及或可在特定技術問題得到解決後加入該防務協議。"
+    },
+    {
+      "id": "mkt:019fe276-30fe-7aab-8fc5-a40218fcc6cc",
+      "time": "2026-08-09 01:40:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vucic meets Zelenskiy; agree to deepen economic and trade cooperation】On the 8th (local time), Serbian President Vucic met Ukrainian President Zelenskiy; they agreed to deepen economic and trade cooperation and to expand cooperation on infrastructure and humanitarian aid."
+    },
     {
       "id": "5032083",
       "time": "2026-08-09 01:39:22",
