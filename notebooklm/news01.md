@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 15:09:14_
-_本檔包含 3071 則快訊，約 598033 字_
+_更新時間：2026-08-08 15:53:50_
+_本檔包含 3071 則快訊，約 597499 字_
+
+---
+
+### 2026-08-08 15:50:39  #MKT News #LMT.N #Impact bullish
+
+【Pentagon plans year‑end first test of 'Jinqiong' space-based missile‑defense system】Bloomberg reported on Aug. 7, citing people familiar with the matter, that the Pentagon plans a first test of its under-construction 'Jinqiong' space-based missile-defense system before year-end. In April the U.S. Space Force awarded contracts to 12 firms, including SpaceX and Lockheed Martin, to develop space-based interceptors; sources said the government is prepared to pay $60m to contractors if interceptor ground tests are successfully completed by year-end. The Space Force expects to begin procuring systems from teams that pass final testing from 2030.
+
+---
+
+### 2026-08-08 15:49:56  #國際
+
+市場訊息：美國參議院獲得足夠票數透過臨時支出法案，以避免10月1日政府停擺，投票仍在進行。
+
+---
+
+### 2026-08-08 15:47:18  #其他
+
+【新訂單指數回升 物流業景氣指數保持在擴張區間】中國物流與採購聯合會日前釋出資料顯示，7月份，中國物流業景氣指數為50.4%，環比回落0.2個百分點，但總體仍保持在擴張區間。物流業務總量指數小幅波動，部分行業擴張，重點領域快速發展。中國物流資訊中心副總經濟師胡焓介紹，物流業務總量指數連續3個月處於擴張區間，分領域來看，鐵路運輸業、道路運輸業、郵政快遞業、多式聯運領域業務總量指數處於擴張區間，其中多式聯運領域業務總量指數為54%，環比回升0.5個百分點。（新華社）
+
+---
+
+### 2026-08-08 15:45:42  #MKT News #Hang Seng Index #Impact bearish #CSI300 #CNH
+
+【Typhoon Dolphin outer bands bring heavy rain; Shanghai, Zhejiang face up to 400–500mm】At 13:00 Beijing time today Typhoon Dolphin's center was about 465 km ESE of Wenzhou, Zhejiang, with near‑center winds of 45 m/s. Although the center remains offshore, the typhoon's outer circulation has already generated convective activity across southern Jiangsu, southeastern Anhui and Zhejiang this morning. Rain will intensify ahead of and around landfall tomorrow; southern Jiangsu, southeastern Anhui, most of Zhejiang and Shanghai are forecast to see heavy to torrential rain, with southern Shanghai and eastern Zhejiang at risk of extreme local 24‑hour totals of 400–500+ mm. Authorities warn of strong localized extremes and advise precautions.
+
+---
+
+### 2026-08-08 15:44:23  #其他
+
+【颱風“白海豚”外圍環流風雨已至 上海浙江局地將有特大暴雨】今天13時，颱風“白海豚”中心位於距離浙江省溫州市東偏南方向約465公里的洋麵上，中心附近最大風力14級，45米/秒。雖然離浙江還有一定距離，但“白海豚”外圍雲系今天上午已經在江蘇南部、安徽東南部、浙江等地激發出對流。明天，颱風登陸前後，華東降雨進一步增強，江蘇南部、安徽東南部、上海、浙江大部將有大到暴雨，其中上海南部、浙江東部有特大暴雨，局地日降雨量將達到400毫米甚至500毫米以上，極端性較強，需注意防範。（央視新聞）
+
+---
+
+### 2026-08-08 15:38:58  #其他
+
+【受颱風“白海豚”影響 上海輪渡全線停航】8月8日，記者從上海輪渡獲悉，因受今年第13號颱風“白海豚”影響，截至13時58分，上海輪渡已全線停航。（央視新聞）
+
+---
+
+### 2026-08-08 15:38:13  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Interfax reported Russia said drones struck a vessel carrying weapons bound for Ukrainian forces east of Odesa.
+
+---
+
+### 2026-08-08 15:37:52  #國際
+
+俄羅斯稱一架無人機擊中一艘載有供烏克蘭軍方使用的武器的船隻，該船隻位於敖德薩以東海域。
+
+---
+
+### 2026-08-08 15:32:18  #其他
+
+【京昆高速廣綿段擴容工程主線路面貫透過半】8月7日，隨著最後一段瀝青路面完成攤鋪，由中鐵五局承建的京昆高速廣（元）綿（陽）段擴容工程主線路面63.879公里順利貫通，標誌著該段主線路面貫透過半。廣綿高速擴容專案全長約124公里，是國家“十縱十橫”綜合運輸大通道首都放射線G5京昆高速的關鍵段落，也是四川省北上出川的核心通道。（新華社）
+
+---
+
+### 2026-08-08 15:29:33  #國際
+
+以色列國防軍發言人： 不久前，由於本雅明地區Ofra定居點疑似遭到滲透，國防軍應用程式上觸發了警報。
+
+---
+
+### 2026-08-08 15:28:54  #國際
+
+【俄羅斯國防部：俄武裝力量夜間對基輔的軍工企業和燃油庫發動打擊】俄羅斯國防部通報稱，俄武裝力量夜間對基輔的一處軍工企業和燃油倉庫發動了叢集打擊。
+
+---
+
+### 2026-08-08 15:25:44  #國際
+
+【韓國足協就世界盃失利及系列爭議釋出致歉信】韓國足協8日在官網釋出《致足球迷和足球界同仁的一封信》，就2026年美加墨世界盃成績不佳後圍繞協會接連產生的爭議致歉，並承諾全面推進組織改革，重建社會信任。（新華社）
+
+---
+
+### 2026-08-08 15:22:20  #MKT News
+
+【U.S. West wildfires: firefighting helicopter crashes】The U.S. Federal Aviation Administration said on the 7th a heavy firefighting helicopter crashed in Utah; two people aboard are missing. In Oregon, a bulldozer operator was killed in a wildfire.
+
+---
+
+### 2026-08-08 15:20:50  #其他
+
+【海南東方市釋出暴雨紅色預警訊號】記者從海南省東方市氣象臺獲悉，8月8日11時29分，東方市變更暴雨橙色預警訊號為暴雨紅色預警訊號：受對流雲團影響，三家鎮過去12小時降雨量已達186毫米，預計未來6小時，東方市各鄉鎮仍將有30—60毫米的降水，建議有關單位和人員做好防範工作。（央視新聞）
+
+---
+
+### 2026-08-08 15:17:27  #國際
+
+【美國西部野火肆虐 一滅火直升機墜毀】美國聯邦航空局7日通報，一架重型直升機當天在猶他州滅火時墜毀，機上兩人生死未卜。另外，在俄勒岡州，一名推土機操作員在野火中喪生。（央視新聞）
+
+---
+
+### 2026-08-08 15:12:16  #公司
+
+【陽光電源：FCC政策主要限制新產品認證 公司目前在美銷售的光伏逆變器、儲能系統不受影響】陽光電源(300274)8月8日在互動平臺表示，公司目前初步判斷，FCC政策主要限制新產品認證，不影響已獲認證產品的銷售，公司目前在美銷售的光伏逆變器、儲能系統不受影響。
 
 ---
 
@@ -18406,101 +18502,5 @@ China Escalates Trade Tensions With New Measures Against U.S. — China unveiled
 ### 2026-08-07 08:04:43  #MKT News #Hang Seng Index #Impact mixed
 
 【CITIC Securities: higher tax‑compliance rules may dent near‑term Hong Kong insurance demand but not long‑term growth】CITIC Securities says tighter tax‑compliance requirements for Hong Kong insurance policies could disrupt near‑term demand for Hong Kong insurance, while direct financial impact on banks should be limited. Over the medium to long term, CITIC says Hong Kong insurance retains differentiated advantages in yields, foreign‑currency asset allocation and overseas life protection, and cross‑border wealth‑allocation demand remains resilient. Current market moves largely reflect short‑term sentiment and policy expectations and do not change the long‑run operating logic for Hong Kong financial firms.
-
----
-
-### 2026-08-07 08:04:24  #市場
-
-任天堂股價在公佈第一季度業績後上漲2.4%。
-
----
-
-### 2026-08-07 08:04:12  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【CITIC Securities: DRC copper concentrate export ban could accelerate copper past $15,000/tonne】CITIC Securities says news of a Democratic Republic of Congo copper concentrate export ban could further fuel bullish sentiment and push copper prices above $15,000/tonne. With cooling US rate‑hike expectations, frequent mine‑side disruptions and continued US draws on global copper inventories, CITIC expects valuation and earnings rerating across the copper sector and recommends producers with high‑quality copper assets and clear production‑growth trajectories.
-
----
-
-### 2026-08-07 08:03:59  #其他
-
-【船舶避風、水上專案停工 多地全力防範颱風“白海豚”】隨著颱風“白海豚”逐漸靠近，上海金山海事局指導轄區船舶搶抓視窗期離港避風，全方位築牢轄區水上交通安全防線。隨著颱風“白海豚”靠近，福建海事局重點加強寧德、福州海域船舶防禦颱風工作。針對受颱風影響海域，加快引導在港船舶向南疏散，不再安排大型船舶、危險品船舶進港作業，停止船舶海上活動。為確保安全，截至6日14時，福建沿海已有70個水上施工專案停工。福建海事部門還加強對臺灣海峽過往船舶的預警叫應，引導船舶避開受颱風影響區域。（央視）
-
----
-
-### 2026-08-07 08:02:33  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #005930.KS #000660.KS
-
-【Japanese and South Korean stocks open higher】Japan's Nikkei 225 opened up 194.71 points, or 0.30%, at 65,877.97 on Aug 7 (Fri). South Korea's KOSPI opened up 62.22 points, or 0.99%, at 6,358.6. SK Hynix rose 1%; Samsung Electronics rose 2%.
-
----
-
-### 2026-08-07 08:01:42  #其他
-
-【滙豐出售東京總部 計劃遷至新大樓 】據報道，滙豐控股已出售位於東京日本的總部大樓，並計劃遷入東京站附近一座預計於2029年完工的新大樓。資料顯示，金融服務公司三菱HC資本旗下子公司已於今年3月收購滙豐東京大樓。
-
----
-
-### 2026-08-07 08:01:31  #國際
-
-【沙特稱胡塞武裝襲擊造成11名平民受傷】沙烏地阿拉伯主導的多國聯軍7日凌晨發表宣告說，葉門胡塞武裝6日發動襲擊，在沙特南部奈季蘭省造成11名平民受傷。聯軍發言人圖爾基·馬利基在宣告中說，傷者中有7人是沙特公民，包括一名4歲兒童；其餘4名傷者來自埃及、葉門和巴基斯坦。馬利基譴責胡塞武裝此次襲擊違反國際人道法。他說，多國聯軍將繼續採取威懾措施，應對此類襲擊、確保平民安全。（新華社）
-
----
-
-### 2026-08-07 08:01:05  #市場
-
-任天堂股票暫未交易，預計上漲；第一季度營業收入超出預期。
-
----
-
-### 2026-08-07 08:00:41  #Trading Economics #Economy #Japan #Foreign Exchange Reserves #Importance 1
-
-Japan Forex Reserves Hit 16-Month Low — Japan’s foreign reserves fell by USD 0.38 billion to a sixteen-month low of USD 1.287 trillion at the end of July 2026 from USD 1.288 trillion in June, extending the previous month’s decline. Foreign currency reserves stood at USD 1.090 trillion, consisting of USD 927.33 billion in securities and USD 162.29 billion in deposits. Of the deposits, USD 161.85 billion were held with foreign central banks and the Bank for International Settlements (BIS), while deposits with banks headquartered in Japan totaled USD 407 million and those with banks headquartered outside Japan amounted to USD 25 million. Japan's IMF reserve position stood at USD 11.38 billion, SDR holdings were valued at USD 60.73 billion, and gold reserves totaled USD 109.52 billion. Other reserve assets amounted to USD 15.86 billion, while other foreign currency assets stood at USD 33.92 billion.
-
----
-
-### 2026-08-07 08:00:39  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤上漲1.1%，至6365.07點。
-
----
-
-### 2026-08-07 08:00:19  #市場
-
-日經225指數上午開盤報65746.13點，漲幅0.10%。
-
----
-
-### 2026-08-07 08:00:15  #市場
-
-布倫特原油日內漲1%，現報83.34美元/桶。
-
----
-
-### 2026-08-07 08:00:09  #其他
-
-【新股提示：科創板頻準鐳射今日申購】今日可申購科創板新股頻準鐳射，頻準鐳射發行總數約1000萬股，網上發行約為240萬股，發行市盈率49.42倍，申購程式碼787826，申購價格186.88元，單一賬戶申購上限0.2萬股，申購數量500股整數倍。
-
----
-
-### 2026-08-07 07:59:13  #公司
-
-【對沖基金Situational Awareness的4億美元押注流向紅杉支援的一家公司】初創對沖基金創始人Leopold Aschenbrenner最新對一家非上市公司的4億美元押注流向了有紅杉資本支援的公司。“關於他麾下的Situational Awareness，確實向我們投資的一家公司投了4億美元。”紅杉資本的合夥人Alfred Lin週四在接受媒體採訪時表示，但他拒絕透露具體是哪家公司。
-
----
-
-### 2026-08-07 07:58:38  #其他
-
-【迪士尼測試AI搜尋功能，透過自然語言提升內容發現體驗】8月6日，迪士尼宣佈，旗下ESPN和Disney+正在測試基於人工智慧的搜尋和內容發現功能，幫助使用者透過自然語言描述需求，更快速找到體育資訊和娛樂內容。ESPN正在部分使用者中測試AI輔助搜尋功能“ESPN Search”。該功能允許使用者以自然語言提出體育相關問題，並基於ESPN的體育內容和資料生態提供答案、相關內容、統計資料及推薦資訊，資料來源包括ESPN文章、影片、研究資料、內部知識庫及體育資料系統等。Disney+則正在小範圍測試AI內容發現工具，使用者可透過文字、語音或預設提示描述當前想觀看的內容需求，系統將根據使用者當下興趣提供推薦，而不僅依賴過去的觀看記錄。
-
----
-
-### 2026-08-07 07:58:06  #宏觀 #觀點
-
-【華泰證券：下半年政策部署落地 聚焦“六張網”投資推進】華泰證券研報表示，過去兩週，從中央政治局會議到國常會，再到部委工作會議，政策重心聚焦上半年經濟形勢分析和下半年政策部署。7月中央政治局會議要求“加大逆週期調節力度”，強調加快財政支出和債券資金使用力度，三季度重心落在存量政策的落地見效。下半年財政政策節奏和力度是能否完成經濟增長目標的關鍵，從國常會的政策部署和各部委的下半年工作會議內容看，要抓住三季度施工旺季加速實物工作量完成，“兩重”和“六張網”是主要抓手；貨幣政策預計在穩增長、穩匯率、防風險多重目標中尋求動態平衡，資本市場政策聚焦穩市場、規範量化和防範外部風險。
-
----
-
-### 2026-08-07 07:57:54  #市場 #國際
-
-【日本確認春季三日入市干預以支撐日元】日本表示，在春季黃金週假期期間曾三度干預匯市託舉日元。本次操作跳出近期的“雙輪干預”模式，額外增加一輪干預，意在最大限度對投資者形成心理震懾。日本財務省週五釋出截至6月當季的每日干預資料顯示，東京當局分別於4月30日、5月4日、5月6日買入日元。官方資料顯示，三次干預投入規模依次為6.28萬億日元、7800億日元、4.68萬億日元，創下日本為護盤日元進行匯市干預的歷史最高規模。報告證實，儘管該時段內日元盤中至少出現五次大幅拉昇，但除上述三日之外，並未開展其他平滑匯率操作。5月末的官方資料已顯示，日本在此期間創下單月11.73萬億日元的干預投入紀錄，部分資金或透過拋售包括美債在內的境外證券籌措。此前市場統計兩次明確干預的資金規模，尚有約1.6萬億日元缺口，當時便預示存在第三次入市干預的可能性。
 
 ---
