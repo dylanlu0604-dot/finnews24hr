@@ -1,7 +1,43 @@
 {
   "date": "2026-08-08",
-  "count": 728,
+  "count": 732,
   "items": [
+    {
+      "id": "mkt:019fe11f-f389-7aab-8fc3-d6720a010147",
+      "time": "2026-08-08 19:26:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Fars News: Iran working with Oman on temporary Strait of Hormuz transit route, FM says】Fars News reported Iran’s foreign minister said talks with Oman on Strait of Hormuz transit are near completion and the two are cooperating to establish a temporary transit route, noting technical complexities. He said they are \"very close\" to agreement but an accord with Oman would not automatically reopen the strait; reopening depends on other conditions and on US compensation for any breaches."
+    },
+    {
+      "id": "5031940",
+      "time": "2026-08-08 19:26:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：霍爾木茲臨時航道將作為主航道的基礎。"
+    },
+    {
+      "id": "5031939",
+      "time": "2026-08-08 19:24:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：霍爾木茲海峽開放與美國侵犯人權行為的賠償有關。"
+    },
+    {
+      "id": "5031938",
+      "time": "2026-08-08 19:24:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格奇：伊朗即將與阿曼就霍爾木茲海峽管理問題達成協議。"
+    },
     {
       "id": "5031937",
       "time": "2026-08-08 19:23:09",
