@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-08 14:17:31",
-  "count": 15892,
+  "updated": "2026-08-08 14:21:33",
+  "count": 15890,
   "items": [
+    {
+      "id": "5031833",
+      "time": "2026-08-08 14:16:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破82美元，日內跌超1.6%。"
+    },
     {
       "id": "5031832",
       "time": "2026-08-08 14:14:53",
@@ -144796,30 +144805,6 @@
         "資料"
       ],
       "text": "【深圳住宅7月網籤8324套 同比增長13.8%】據深視新聞，7月以來，深圳樓市延續上半年活躍態勢，當月全市新建商品住宅和二手住宅累計網籤8324套，同比增長13.8%。7月，深圳全市新建商品住宅網籤銷售3529套，同比增長32.7%。今年以來“好房子”專案持續熱銷，開盤當日平均去化率在七成左右，市場熱度較高。7月，深圳全市二手住宅網籤銷售4795套，同比增長3%，約佔商品住宅成交總量六成。"
-    },
-    {
-      "id": "5020259",
-      "time": "2026-08-01 14:20:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長：伊朗已贏得戰爭，需擴大最高領袖權威以鞏固成果】據半官方的塔斯尼姆通訊社報道，伊朗議會議長卡利巴夫表示，伊朗已經贏得了戰爭，但必須鞏固和夯實這一勝利。他補充說，國家必須對未來保持希望和信心。卡利巴夫是在伊朗議會協調委員會上發表上述言論的。他強調，伊朗官員必須首先擴大最高領袖的執行權威和能力，並指出任何建設強大伊朗的努力都必須從這個起點出發。"
-    },
-    {
-      "id": "mkt:019fbbfa-daa4-7aab-8f40-4744b4b18d3e",
-      "time": "2026-08-01 14:20:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran parliament speaker Ghalibaf says Iran has won the war, urges expansion of Supreme Leader authority】Iran parliament speaker Ghalibaf told the Parliament Coordination Council that Iran has won the war but must consolidate that victory. He urged expanding the Supreme Leader’s executive authority and capacity, saying any effort to build a stronger Iran must start from that point."
-    },
-    {
-      "id": "5020258",
-      "time": "2026-08-01 14:18:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金山辦公WPS儲存管理新版本上線】8月1日訊息，金山辦公首次參展ChinaJoy，包含儲存管理等多項更新的WPS新版本正式上線。首先，WPS新增統一的“儲存管理”入口，原本分散在不同位置的磁碟佔用檢視、快取清理和儲存路徑調整等功能，被集中到同一頁面。其次，安裝路徑可以分別設定。"
     }
   ]
 }
