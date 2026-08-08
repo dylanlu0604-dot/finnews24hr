@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 19:00:43",
-  "count": 15829,
+  "updated": "2026-08-08 19:04:37",
+  "count": 15827,
   "items": [
+    {
+      "id": "5031928",
+      "time": "2026-08-08 19:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利執政黨蒂薩黨提名前最高法院院長安德拉什·巴卡參選匈牙利總統。"
+    },
     {
       "id": "5031927",
       "time": "2026-08-08 18:54:18",
@@ -144224,39 +144232,6 @@
         "國際"
       ],
       "text": "【義大利臨時恢復對西班牙入境旅客邊境檢查】當地時間8月1日，義大利開始在機場和港口對從西班牙入境的旅客實施臨時邊境檢查，措施計劃持續一個月。當天，羅馬菲烏米奇諾機場對來自馬德里和巴塞羅那的首批航班旅客展開抽查，米蘭馬爾彭薩機場和利納特機場也已啟動相關檢查。此次檢查採取選擇性抽查方式，主要針對經西班牙進入義大利的非歐盟國家公民。義大利方面表示，西班牙及其他歐盟成員國公民前往義大利的旅行規定沒有變化，從義大利前往西班牙也不受影響。近日西班牙北非飛地休達發生大規模非法移民入境事件，引發歐洲多國關注。義大利政府隨後決定臨時恢復與西班牙之間航空和海運客運通道的邊境檢查。義大利內政部表示，這一決定是在有關部門評估最新移民和邊境安全形勢後作出的，相關措施旨在維護國家安全。"
-    },
-    {
-      "id": "mkt:019fbcfd-d379-7aab-8f41-ecc97b045d7b",
-      "time": "2026-08-01 19:02:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Zelenskiy said Ukraine's SBU struck infrastructure at three Russian oil refineries in Bashkortostan."
-    },
-    {
-      "id": "mkt:019fbcfd-be8d-7aab-8f41-e365d145eb17",
-      "time": "2026-08-01 19:02:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran military says it recently deployed new drones】Iranian media reported on Aug. 1 that Iran army spokesman Akraminia said Tehran has recently deployed a new type of drone and will publish details in coming days. He said the drones’ range is sufficient to reach US bases across the Middle East. Akraminia added that, given past US behavior on agreements, Iran expects memoranda of understanding could be torn up and that conflict could resume, and that Iran never trusted US commitments in such memoranda."
-    },
-    {
-      "id": "5020399",
-      "time": "2026-08-01 19:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐巴格達大使館和駐埃爾比勒總領事館週六敦促在伊拉克的美國公民保持高度警惕，並考慮離開中東，或做好在局勢進一步升級時撤離的準備。安全警報警告稱，航班可能取消，空域可能關閉，伊朗及其盟友可能襲擊美國利益。警報還指出，美國駐伊拉克使團仍然開放，但已接到撤離命令。"
     }
   ]
 }
