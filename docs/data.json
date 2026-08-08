@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 23:58:51",
-  "count": 15855,
+  "updated": "2026-08-09 00:03:07",
+  "count": 15853,
   "items": [
+    {
+      "id": "5032063",
+      "time": "2026-08-09 00:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》上映11天， 總票房破12億。"
+    },
     {
       "id": "5032062",
       "time": "2026-08-08 23:57:08",
@@ -144453,32 +144461,6 @@
         "國際"
       ],
       "text": "美國官員：伊朗疑似發動網路攻擊，目標波及美國至少七個州的供水系統。"
-    },
-    {
-      "id": "5020520",
-      "time": "2026-08-02 00:02:15",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "【美政府建議中東地區美國公民做好撤離準備】當地時間8月1日，美國國務院向身處中東地區的美國公民發出廣泛安全警告，建議他們“考慮離開當地，或做好在局勢升級時迅速撤離的準備”。據此前訊息，美國官員透露，華盛頓正考慮最快於本週末對伊朗發動新一輪軍事打擊。與此同時，伊朗方面也稱，將進一步打擊那些允許美軍駐紮軍事基地的國家。"
-    },
-    {
-      "id": "mkt:019fbe0e-8bee-7aab-8f42-c53209aaa6b9",
-      "time": "2026-08-02 00:00:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US CENTCOM says CH-47 Chinook prepared to land in Middle East】CENTCOM said on Aug. 1 a US Army CH-47 Chinook heavy‑lift transport helicopter was prepared to land in the Middle East. The CH-47 Chinook is a heavy transport helicopter capable of moving personnel, equipment and materiel in combat and complex environments."
-    },
-    {
-      "id": "5020519",
-      "time": "2026-08-02 00:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，截至8月2日0時0分，影片《蜘蛛俠：嶄新之日》票房突破7億。"
     }
   ]
 }
