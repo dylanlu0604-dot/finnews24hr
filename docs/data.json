@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-09 00:57:17",
-  "count": 15854,
+  "updated": "2026-08-09 01:01:09",
+  "count": 15853,
   "items": [
+    {
+      "id": "mkt:019fe250-a18d-7aab-8fc5-57a2425e0b61",
+      "time": "2026-08-09 00:59:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Vance: U.S. 'in a contest' with Iran】U.S. Vice President JD Vance told Fox News on Saturday the United States is 'in a contest' with Iran and is employing the full range of tools—diplomatic, economic and military—to secure the best outcome for Americans. He said talks with Iran have made some progress in recent days. The U.S. expects Gulf oil and gas output to return to pre-conflict levels, and Iran has indicated to U.S. officials it intends to do so."
+    },
     {
       "id": "5032073",
       "time": "2026-08-09 00:54:54",
@@ -144461,22 +144474,6 @@
         "XAUUSD"
       ],
       "text": "A Jordanian official said Iraq has informed Jordan it would strike pro-Iran militias if they attack Jordan, and Jordan expects Iraq to take measures to rein in those militias."
-    },
-    {
-      "id": "5020533",
-      "time": "2026-08-02 01:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：緊張局勢達到頂峰，特朗普比以往任何時候都接近對伊朗發動重大攻擊。"
-    },
-    {
-      "id": "5020532",
-      "time": "2026-08-02 00:59:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦官方訊息人士：伊拉克方面通知我方，若親伊朗民兵襲擊約旦，伊拉克將對這些民兵實施打擊；我方期待伊拉克採取措施約束民兵武裝。"
     }
   ]
 }
