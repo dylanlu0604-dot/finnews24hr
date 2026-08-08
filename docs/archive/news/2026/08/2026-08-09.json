@@ -1,7 +1,27 @@
 {
   "date": "2026-08-09",
-  "count": 79,
+  "count": 81,
   "items": [
+    {
+      "id": "mkt:019fe2ed-75a3-7aab-8fc6-4933e2aa9878",
+      "time": "2026-08-09 03:50:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Vance says U.S.-Iran conflict remains \"mid-game\"】U.S. Vice President Vance said on the 8th that talks with Iran are ongoing and the U.S.-Iran confrontation remains in the \"mid-game.\" He told Fox News the conflict has not ended but has moved beyond the opening phase. Washington is deploying diplomatic, economic and military measures to secure the best outcome. Vance said the U.S. priority is to maximize oil and gas flows through the Strait of Hormuz and is watching whether Iran will make the long-term changes needed to improve relations; if not, the U.S. will continue to apply pressure. He added the U.S. is working to establish a navigation mechanism to ensure safe passage for vessels, including mine-clearing, which would also require Iran to commit not to fire on merchant ships."
+    },
+    {
+      "id": "5032103",
+      "time": "2026-08-09 03:49:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【萬斯稱美伊衝突仍處於“博弈中段”】美國副總統萬斯8日表示，美國同伊朗正在對話，美伊衝突仍處於“博弈中段”。萬斯當天在接受美國福克斯新聞頻道採訪時說，美伊衝突還沒有結束，“但顯然已不在開局階段，而是進入了中局階段”。他稱，美國正在綜合運用外交、經濟和軍事等一系列手段，以確保最終取得最好結果。（新華社）"
+    },
     {
       "id": "5032102",
       "time": "2026-08-09 03:47:29",
