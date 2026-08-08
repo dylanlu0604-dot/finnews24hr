@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 18:29:00",
-  "count": 15821,
+  "updated": "2026-08-08 18:32:53",
+  "count": 15822,
   "items": [
+    {
+      "id": "5031913",
+      "time": "2026-08-08 18:31:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南駐馬店通報：重大刑案嫌犯已被抓獲】駐馬店市“7•30”案件工作專班8月8日通報，河南省駐馬店市西平縣“7•30”故意傷害案件犯罪嫌疑人夏某鋼，於案發前在西平縣柏城街道侯園社群租房放置雜物，2026年7月30日因瑣事與租房處鄰居侯某立發生爭執，後持刀將其刺傷致死。夏某鋼逃竄躲藏過程中，傷害多名無辜群眾。2026年8月8日16時許，駐馬店市“7•30”專案組在漯河市源匯區空冢郭鎮，將犯罪嫌疑人夏某鋼抓獲。目前，相關工作正在進一步開展中。"
+    },
+    {
+      "id": "5031912",
+      "time": "2026-08-08 18:28:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江寧波、台州、溫州、舟山將防颱風應急響應提升為Ⅰ級】受颱風“白海豚”影響，8月8日，浙江寧波、台州、溫州、舟山釋出通知，將防颱風應急響應提升為Ⅰ級。"
+    },
     {
       "id": "mkt:019fe0e7-e074-7aab-8fc3-99bdce434abb",
       "time": "2026-08-08 18:25:20",
@@ -144157,15 +144173,6 @@
         "MKT News"
       ],
       "text": "Iran's Hormozgan provincial deputy governor for political, security and social affairs said reports that parts of Hormozgan province were being evacuated are completely baseless."
-    },
-    {
-      "id": "mkt:019fbce2-2886-7aab-8f41-ce7e9e938ef9",
-      "time": "2026-08-01 18:32:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Saudi outlet Hadath reports an explosion in Eslamabad-e Gharb, Kermanshah province, Iran."
     }
   ]
 }
