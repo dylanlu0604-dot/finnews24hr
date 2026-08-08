@@ -1,7 +1,73 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 05:43:02_
-_本檔包含 3430 則快訊，約 597435 字_
+_更新時間：2026-08-09 05:58:42_
+_本檔包含 3430 則快訊，約 598073 字_
+
+---
+
+### 2026-08-06 02:39:55  #國際
+
+【美國北卡羅來納州發生大規模槍擊事件 多人傷亡】美國北卡羅來納州一處住宅發生大規模槍擊事件，造成多人傷亡。北卡羅來納州調查局（SBI）在一份新聞稿中稱，卡斯韋爾縣的警員當天上午接到報警，隨後趕往現場。據悉，警員在現場發現了多名中槍者，其中一人被送往醫院，傷情不明，另有多人死亡。北卡羅來納州調查局表示，目前公眾沒有受到威脅，槍擊事件僅限於該住宅內。
+
+---
+
+### 2026-08-06 02:39:39  #國際
+
+美國電力協會（EEI）表示，美國周發電量較上年同期增長約0.9%。
+
+---
+
+### 2026-08-06 02:39:34  #其他
+
+阿波羅聘請裡德·雷曼領導其晶片領域的業務。
+
+---
+
+### 2026-08-06 02:39:22  #MKT News
+
+The Information reports Apollo has appointed Reed Rayman to head its semiconductor coverage business.
+
+---
+
+### 2026-08-06 02:37:54  #MKT News #Market Themes #AI Revolution #APO.O #Impact bullish
+
+The Information reports Apollo Global Management has appointed a new head of artificial intelligence to pursue larger financing deals.
+
+---
+
+### 2026-08-06 02:37:44  #MKT News
+
+Canadian Prime Minister Carney said the government will invest CAD 2.7 bln over three years to build rental housing projects in Toronto.
+
+---
+
+### 2026-08-06 02:37:24  #其他
+
+阿波羅全球管理聘請新人工智慧行業主管以追求更多巨型融資交易。
+
+---
+
+### 2026-08-06 02:37:16  #其他
+
+加拿大總理卡尼表示，其政府將在三年內投入27億加元，在多倫多開發租賃住房專案。
+
+---
+
+### 2026-08-06 02:33:47  #MKT News #WTI #Impact bullish #Brent
+
+【Houthi forces say they struck Saudi tanker in Gulf of Aden】Houthi forces said they struck a Saudi tanker in the Gulf of Aden. Military spokesman Yahya Saree said the tanker, named Daisy, was hit by a ballistic missile and forced to turn back. The group said the attack was part of a maritime blockade against Saudi targets.
+
+---
+
+### 2026-08-06 02:33:08  #國際
+
+伊朗總統佩澤希基揚發表全國電視講話。
+
+---
+
+### 2026-08-06 02:31:23  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran deputy foreign minister: new Strait of Hormuz arrangements will close temporary transit lanes】Iran deputy foreign minister Gharibabadi said on the 5th the United States contacted Tehran 4–5 days after a new round of conflict began, seeking to resolve the issue through negotiations. He said arrangements for the Strait of Hormuz should be negotiated only between Iran and Oman and that Iran will not accept external involvement. Under the new arrangements, existing temporary transit lanes in the strait will be closed and a substantial share of vessel transits will in future pass through Iranian territorial waters.
 
 ---
 
@@ -20617,71 +20683,5 @@ FTSE 100 Rises Led by Miners, Oil Stocks Fall — The FTSE 100 gained 0.3% on Tu
 ### 2026-08-04 23:42:19  #MKT News
 
 【Hainan launches level-4 flood and wind emergency response】Hainan Provincial Disaster Prevention and Relief Committee has launched a level-4 flood and wind emergency response. Meteorological forecasts say a monsoon trough will bring heavy rain from the night of the 4th through daytime of the 5th. Parts of Ledong, Sanya, Baoting, Dongfang, Wuzhishan, Lingshui and Changjiang are expected to receive 80–150 mm; parts of Wanning, Qiongzhong, Danzhou, Baisha, Lingao, Tunchang, Haikou and Wenchang 50–80 mm.
-
----
-
-### 2026-08-04 23:42:02  #其他
-
-【海南啟動防汛防風四級應急響應】海南省防災減災救災委員會發布關於啟動防汛防風四級應急響應的通知，根據氣象預報，受季風槽影響，預計4日夜間到5日白天，海南的樂東、三亞、保亭、東方、五指山、陵水和昌江等7個市縣的部分鄉鎮將出現80~150毫米的強降水；萬寧、瓊中、儋州、白沙、臨高、屯昌、海口和文昌等8個市縣的部分鄉鎮將出現50~80毫米的降水。
-
----
-
-### 2026-08-04 23:40:44  #市場
-
-布倫特原油日內跌6%，現報78.74美元/桶。
-
----
-
-### 2026-08-04 23:40:44  #市場 #焦點
-
-上海原油連續主力合約日內跌5%，現報510.10元。
-
----
-
-### 2026-08-04 23:40:23  #其他
-
-倫敦金屬交易所（LME）：自 2026 年 11 月 4 日起，將不再接受嘉能可 Nikkelverk AS 生產的 FHG 品牌 A 級銅用於生成 LME 倉單。
-
----
-
-### 2026-08-04 23:39:56  #MKT News #Important #WTI #Impact bearish #Brent
-
-Bloomberg reports Iran is considering allowing European countries to clear sea mines in the Strait of Hormuz.
-
----
-
-### 2026-08-04 23:39:43  #國際
-
-日本大型石油企業引能仕（ENEOS）在收購雪佛龍旗下業務後，計劃將全球增長投資規模提升至 1 萬億日元。引能仕總裁表示，日本引能仕將整體探尋燃料、天然氣以及石化領域的投資機遇。
-
----
-
-### 2026-08-04 23:39:05  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude down 5.00% intraday, trading at $74.66/bbl.
-
----
-
-### 2026-08-04 23:38:45  #市場 #焦點
-
-布倫特原油失守79美元/桶，日內跌5.76%。
-
----
-
-### 2026-08-04 23:38:45  #焦點 #國際
-
-市場訊息：伊朗考慮允許歐洲在霍爾木茲海峽開展排雷作業。
-
----
-
-### 2026-08-04 23:38:35  #市場
-
-WTI原油日內跌6%，現報75.51美元/桶。
-
----
-
-### 2026-08-04 23:37:10  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-European equities closed higher on Aug 4 (Tuesday): Germany’s DAX up 177.52 points (0.68%) at 26,213.35; UK’s FTSE 100 up 23.54 points (0.22%) at 10,881.24; France’s CAC 40 up 52.81 points (0.61%) at 8,666.63; Euro Stoxx 50 up 60.85 points (0.95%) at 6,487.35; Spain’s IBEX 35 up 40.62 points (0.20%) at 20,023.22; Italy’s FTSE MIB up 674.28 points (1.28%) at 53,546.00.
 
 ---

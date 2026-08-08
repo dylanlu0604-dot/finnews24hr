@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 05:43:02_
-_本檔包含 2829 則快訊，約 597097 字_
+_更新時間：2026-08-09 05:58:42_
+_本檔包含 2828 則快訊，約 597474 字_
+
+---
+
+### 2026-08-03 21:30:37  #市場
+
+弗格森被選入標普500指數後，股價開盤上漲7.5%。
+
+---
+
+### 2026-08-03 21:29:32  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Extends Gains to Over 2-Week High — The Baltic dry index surged 4.1% to 2,843 on Monday, its highest level since July 15. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, soared 6.2% to an over two-week high of 4,564. The panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, rose 2.3% to 2,135, its highest level since July 21. Also, the supramax index increased to 1,610.
+
+---
+
+### 2026-08-03 21:29:22  #其他
+
+巴西監管機構：巴西 6 月石油與天然氣總產量達 584.2 萬桶油當量 / 日。
+
+---
+
+### 2026-08-03 21:28:36  #國際
+
+【烏克蘭國安委秘書烏梅羅夫卸任 稱任內促成逾2000名烏方人員獲釋】烏克蘭國家安全與國防委員會秘書烏梅羅夫3日發表宣告，宣佈正式結束其在該委員會的任職。他在宣告中總結了任內主要工作成果，表示過去一年間，在烏克蘭政府、議會、安全與國防力量、總統辦公室及國際夥伴的協作下，烏克蘭在前線防禦、國內穩定及國際地位方面均得到鞏固。烏梅羅夫表示，推動戰俘交換是其任核心心成果之一。透過談判程序，烏克蘭已成功接回逾2000名本國公民。他特別感謝了美國、土耳其和阿聯酋在斡旋與協助方面發揮的作用。
 
 ---
 
@@ -17053,35 +17077,5 @@ A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at lea
 ### 2026-08-02 06:03:44  #MKT News #Commodities #Energy #Market Regions #Europe & UK
 
 【Hungary shuts its only nuclear plant for first time due to drought】Hungary will shut its only nuclear plant, Paks, after Danube water levels fell below the minimum needed to cool its four reactors. One of the two operating units will stop at 01:30 local time on Sunday and the remaining unit later that day. The 44-year-old Paks plant, south of Budapest, will remove more than 40% of the country’s generation capacity and may force Hungary to rely more on costly power imports. Prime Minister magyar said sustained low river levels could keep roughly 2,000 MW of Paks capacity offline for weeks, adding pressure to the power system as Central Europe faces a new heatwave.
-
----
-
-### 2026-08-02 05:58:07  #其他
-
-中央氣象臺8月2日06時繼續釋出暴雨橙色預警。
-
----
-
-### 2026-08-02 05:57:52  #國際
-
-市場資訊：美國對部分簽證申請人實施2萬美元的金融擔保要求。
-
----
-
-### 2026-08-02 05:44:12  #MKT News
-
-Hungary will fully shut down the Paks nuclear power plant on Sunday, the prime minister said.
-
----
-
-### 2026-08-02 05:43:56  #其他
-
-匈牙利總理毛焦爾：帕克斯核電站將於週日全面關閉。
-
----
-
-### 2026-08-02 05:43:23  #MKT News
-
-Turkey's foreign minister said today he spoke with Iranian foreign minister Araghchi to discuss the latest progress in US-Iran negotiations; Turkey will continue efforts to end regional conflict and build a lasting peace.
 
 ---
