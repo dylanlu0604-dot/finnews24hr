@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 08:06:29",
-  "count": 15979,
+  "updated": "2026-08-08 08:10:19",
+  "count": 15972,
   "items": [
+    {
+      "id": "5031731",
+      "time": "2026-08-08 08:09:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀維持對Roku中性評級，目標價從每股126.00美元上調至172.00美元。"
+    },
+    {
+      "id": "5031730",
+      "time": "2026-08-08 08:08:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀維持拉夫勞倫“買入”評級，目標價從每股511.00美元上調至520.00美元。"
+    },
     {
       "id": "5031729",
       "time": "2026-08-08 08:05:26",
@@ -145535,105 +145551,6 @@
         "公司"
       ],
       "text": "印度電子商務公司Zepto執行長告訴員工，公司將推遲IPO 2-3個季度。"
-    },
-    {
-      "id": "mkt:019fbaa7-f2a8-7aab-8f3e-89167a9287a0",
-      "time": "2026-08-01 08:09:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "RIA reported Russian air defense forces shot down more than 21,000 Ukrainian military drones over Russian territory in July."
-    },
-    {
-      "id": "mkt:019fbaa7-73ca-7aab-8f3e-87fae6e54b75",
-      "time": "2026-08-01 08:09:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Financial Times reports Fed governor Musalem said they lean toward raising interest rates."
-    },
-    {
-      "id": "mkt:019fbaa7-333a-7aab-8f3e-7d4f1bde799a",
-      "time": "2026-08-01 08:09:07",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "The Financial Times reports Federal Reserve official Musalem said the recent bond sell-off is a warning to the Fed's credibility."
-    },
-    {
-      "id": "5020090",
-      "time": "2026-08-01 08:08:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟取消小額包裹免稅滿月 跨境電商企業多舉措消化增量成本】記者採訪平臺和商家等人士瞭解到，歐盟舉措拖累國內跨境電商歐洲業務增長，低價直郵模式承壓，行業加速洗牌，跨境賣家積極應對成本壓力，海外倉與精品高客單模式優勢凸顯。不過，對於商家而言，鑑於海外倉前期投入成本高，業內呼籲推出專項扶持政策，適當提供海外倉及合規相關補貼。（證券時報）"
-    },
-    {
-      "id": "te:economy:571871",
-      "time": "2026-08-01 08:07:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "South Korea Trade Surplus Beats Estimates — South Korea’s trade surplus surged to USD 30.32 billion in July 2026, up from USD 6.61 billion in the same month a year earlier, surpassing market estimates of USD 29.59 billion and marking the 18th consecutive month of surplus, flash data showed, as exports grew much more than imports. Exports surged 62.8% from a year earlier, while imports rose at a slower 26.5%."
-    },
-    {
-      "id": "5020089",
-      "time": "2026-08-01 08:07:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美媒：美聯儲主席考慮減少每年議息會議頻次】美國媒體7月31日援引知情人士的話報道說，美國聯邦儲備委員會主席凱文·沃什正在考慮減少每年常規貨幣政策會議（即議息會議）召開頻次。《紐約時報》援引4名知情人士的話說，沃什在本週議息會議上提議減少這類會議的召開頻次，談及規定議息會議每年最少召開頻次的法律以及要對此作出調整的時間框架，但沒有對“會議日曆”進行充分討論，而是要求美聯儲官員向他反饋想法。根據美國《1935年銀行法》規定，美聯儲聯邦公開市場委員會每年應至少召開4次議息會議。自1981年以來，美聯儲每年固定召開8次議息會議，大約每6週一次。（新華社）"
-    },
-    {
-      "id": "5020088",
-      "time": "2026-08-01 08:07:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【2026年中期分紅方案密集落地 45家公司擬派現逾370億元】Wind資料顯示，7月以來已有45家上市公司披露2026年度中期分紅方案（含半年報、一季報），合計擬派發現金紅利374.43億元。其中，紫金礦業擬派現111.36億元，暫居首位；寧德時代、海康威視、東鵬飲料等緊隨其後，擬現金分紅金額均超過10億元。本輪中期分紅呈現兩大特徵：一是分紅計劃前置，不少公司在正式釋出半年報前，便提前披露中期分紅提議公告；二是一年多次分紅模式常態化、擴容化，上市公司分紅意願持續提升，回報股東的長效機制愈發成熟。（上海證券報）"
-    },
-    {
-      "id": "5020087",
-      "time": "2026-08-01 08:06:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事穆薩萊姆表示，傾向於加息。"
-    },
-    {
-      "id": "te:economy:571870",
-      "time": "2026-08-01 08:06:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "South Korea Import Growth Remains Solid — South Korea’s imports rose 26.5% year-on-year in July 2026, slowing from a 30.0% surge in the prior month and roughly in line with market forecasts of 26.6%, flash data showed. It marked the ninth consecutive month of import growth, supported by resilient domestic demand as concerns over trade disruptions stemming from the Middle East conflict eased."
     }
   ]
 }
