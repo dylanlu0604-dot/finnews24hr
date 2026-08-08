@@ -1,7 +1,33 @@
 {
   "date": "2026-08-08",
-  "count": 531,
+  "count": 534,
   "items": [
+    {
+      "id": "5031786",
+      "time": "2026-08-08 10:46:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK海力士據悉評估重慶資產方案 包括引入投資者】據知情人士稱，SK海力士正研究旗下重慶資產的方案選項，包括引入投資者以幫助加速增長。訊息人士稱，作為英偉達高頻寬記憶體晶片的重要供應商，SK海力士正與潛在顧問接洽，對該業務進行評估。知情人士表示，潛在的股權出售可能使該設施的估值達到約30億美元。SK海力士網站顯示，該公司20多年前進入中國市場，當時與無錫簽署協議建設其首座大型海外晶圓製造廠。位於重慶的設施是SK海力士重要的半導體封裝與測試基地。知情人士表示，競購者可能包括中國基金和產業投資者，SK海力士可能保留該資產的少數股權。知情人士還稱，相關討論仍處於初步階段，未必會達成任何交易。"
+    },
+    {
+      "id": "5031785",
+      "time": "2026-08-08 10:44:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤跌破77美元，日內跌超1.7%。"
+    },
+    {
+      "id": "mkt:019fdf41-452b-7aab-8fc2-6176c285c90b",
+      "time": "2026-08-08 10:43:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey says Saudi-Turkey-Pakistan defense pact not in conflict with NATO】Turkey’s Directorate of Communications said the Mecca joint defense agreement signed with Saudi Arabia and Pakistan on the 7th does not conflict with NATO’s Article 5. The pact, signed earlier that day in Mecca, states an armed attack on any of the three will be treated as an attack on all. While some commentators said the pact violated Article 5 and established a parallel alliance structure, the Directorate called those claims baseless and said the agreement does not contradict Turkey’s existing international alliance commitments, including NATO, but is a complementary cooperation mechanism to help maintain regional security."
+    },
     {
       "id": "5031784",
       "time": "2026-08-08 10:41:31",
