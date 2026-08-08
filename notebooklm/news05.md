@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 18:44:42_
-_本檔包含 2793 則快訊，約 595813 字_
+_更新時間：2026-08-08 19:36:10_
+_本檔包含 2782 則快訊，約 595585 字_
+
+---
+
+### 2026-08-03 19:54:20  #公司
+
+【科華資料與眸深智慧簽署具身智慧生態戰略合作協議】據科華資料訊息，近日，科華資料與上海眸深智慧科技有限公司（簡稱“眸深智慧”）在上海正式簽署具身智慧生態戰略合作協議。雙方將共同探索“國產算力+具身智慧”的深度融合路徑，加速具身智慧在工業、商業、服務等場景的規模化落地。
+
+---
+
+### 2026-08-03 19:54:01  #市場
+
+英國國債延續漲勢；英國10年期國債收益率下跌10個基點至4.95%。
+
+---
+
+### 2026-08-03 19:53:46  #公司
+
+【久吾高科：擬以2000萬元-4000萬元回購公司股份】久吾高科公告，擬以不低於2000萬元且不超過4000萬元回購公司股份，回購價格不超過30元/股，回購股份用於出售。按回購價格上限30元/股測算，預計回購股份數量66.67萬股至133.33萬股，約佔當前公司總股本的0.53%至1.07%。回購資金來源為公司自有資金，實施期限自董事會審議透過之日起3個月內。
+
+---
+
+### 2026-08-03 19:53:26  #公司
+
+【陽光電源：擬5億-10億元回購股份用於員工持股或股權激勵】陽光電源公告稱，公司第六屆董事會第二次會議審議透過回購股份方案，決定使用5億-10億元自有或自籌資金，以集中競價交易方式回購股份，用於實施員工持股計劃或股權激勵計劃。回購期限自董事會審議透過方案之日起12個月內。
+
+---
+
+### 2026-08-03 19:53:24  #MKT News
+
+【Analyst: 5-year large-denomination CDs preferable to standard time deposits】Industrial and Commercial Bank of China has restarted issuance of 5-year large-denomination certificates of deposit (CDs). Since July, Bank of China, Agricultural Bank of China, China Construction Bank and ICBC have each issued 5-year large CDs. Postal Savings Bank researcher Lou Feipeng says 5-year large CDs currently offer allocation value for low-risk investors. Large-denomination CDs support transfer and pledge, giving them better liquidity than ordinary time deposits.
+
+---
+
+### 2026-08-03 19:52:48  #其他
+
+【專家稱買5年期大額存單優於定存】公開資訊顯示，工商銀行於近日重啟5年期大額存單發行。7月以來，中國銀行、農業銀行、建設銀行、工商銀行等四大行陸續發行5年期大額存單產品。中國郵政儲蓄銀行研究員婁飛鵬認為，對低風險偏好的投資者而言，當前購買5年期大額存單具備一定配置價值。大額存單支援轉讓、質押，流動性優於普通定存。（央廣網）
+
+---
+
+### 2026-08-03 19:52:17  #公司
+
+【潞化科技：擬5800萬元實施煤氣化專案 涉關聯交易】潞化科技公告稱，公司擬實施“適合山西‘三高’煤的800t/d超高溫煤氣化技術自主研發和工業示範專案”，與多方簽署《合作框架合同》，投資不超5800萬元，資金自籌。因協作單位太化新材料為公司關聯方，預計其分配任務金額不超2200萬元，構成關聯交易。專案計劃2028年3月31日前完成。該專案已透過董事會等審議，無需股東會審議，但存在研發、實施進度等風險。
+
+---
+
+### 2026-08-03 19:51:45  #焦點 #國際
+
+【8月3日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【奮力開創中國式現代化建設新局面——習近平總書記今年以來治國理政紀實】紮紮實實以科技創新支撐和引領中國式現代化； 2.蔡奇看望慰問北戴河暑期休假專家； 3.【樹立和踐行正確政績觀】惠民生促發展 推動學習教育取得實效； 4.上半年全國生態環境質量持續改善； 5.上半年我國海洋生產總值5.5萬億元； 6.我國加快構建綠色低碳電力供給格局； 7.中歐班列高質量發展取得顯著成效； 8.西部多地持續強降雨 各地積極應對； 9.國內聯播快訊： （1）上半年我國軟體業務收入同比增長9.5%； （2）1至7月全國新開國際航空貨運航線超100條； （3）粵港澳大灣區首個“華龍一號”專案一期工程全面建成； 10.美總統稱美伊將於8月3日舉行談判 伊朗稱目前沒有與美國舉行會談 伊朗稱與阿曼討論劃定霍爾木茲海峽新航線； 11.美國華盛頓州林火致數百棟建築被毀 6萬人接到疏散令 希臘林火逼近首都雅典 兩架消防直升機相撞； 12.國際聯播快訊： （1）以軍連日空襲加沙地帶致18人死亡； （2）俄擊落超1100架無人機 俄媒稱創新高； （3）“歐佩克+”主要產油國決定9月繼續增產； （4）日本與美國15年來首次聯合干預匯市； （5）美媒稱移民執法機構單月拘捕人數創新高。
+
+---
+
+### 2026-08-03 19:51:36  #行業 #國際
+
+【崔東樹：2026年中國自主品牌在俄羅斯份額達到54.6%的較高水平】乘聯分會秘書長崔東樹發文稱，2026年6月俄羅斯汽車銷量達12.2萬輛，同比增22%；1-6月俄羅斯汽車銷量達到66萬輛的較高水平，同比增10%。2026年6月中國出口俄羅斯8.44萬輛，自主品牌俄羅斯銷量6.7萬輛，當地銷量是中國出口的80%；1-6月中國出口俄羅斯44.8萬輛，自主品牌俄羅斯銷量36萬輛，當地銷量是中國出口的81%，總體相對平衡。2026年中國自主品牌在俄羅斯份額達到54.6%的較高水平，效益不錯。2026年的國際車企的車型大量進入，德系和日系的表現較強，韓系的優勢弱化。2026年6月自主車企在俄羅斯份額仍有54.9%，處於2026年峰值水平
+
+---
+
+### 2026-08-03 19:50:43  #國際
+
+【特朗普鼓勵下注美國控制格陵蘭島】美國總統特朗普當地時間8月1日在“真實社交”平臺釋出了一張合成照片，照片中，他的臉被合成在丹麥自治領地格陵蘭島上小鎮的後面，並配文“你好，格陵蘭島！”特朗普同一天在接受電話採訪時，節目主播提及自己曾預測“美國將在特朗普離任前實際控制格陵蘭島”，特朗普對此回應稱“是的，你會是對的”，並表示格陵蘭島對美國“很重要”，還“鼓勵”該主播“其實你應該下這個賭注”。（CCTV國際時訊）
+
+---
+
+### 2026-08-03 19:50:27  #公司
+
+【冰輪環境子公司頓漢布什獲海外磁懸浮冷機訂單】冰輪環境(000811)子公司頓漢布什官方公眾號8月3日釋出訊息，頓漢布什近期新收到北美客戶A的兩份磁懸浮冷機採購訂單，金額分別為3000＋萬美元和1億＋美元，交貨時間為2027年。該公司還收到澳大利亞客戶B的磁懸浮冷機採購訂單，金額為1000＋萬美元，交貨時間為2026年底。
+
+---
+
+### 2026-08-03 19:50:17  #市場
+
+【個人投資者用AI炮製謠言牟利被罰沒48.5萬元】四川證監局披露，1997年出生的個人投資者孫哲元，使用AI編造多篇關於純鹼生產的虛假文章並公開發布，閱讀量合計近9000次，並在傳播期間交易純鹼期貨獲利8.5萬元。四川證監局沒收其違法所得，並處以40萬元罰款，合計罰沒約48.5萬元。
+
+---
+
+### 2026-08-03 19:49:24  #Trading Economics #Markets #Switzerland #Currency #Importance 0
+
+Swiss Franc Stays Near One-Year Low — The Swiss franc traded around $0.81 after weakening to a nearly one-year low of $0.821 on July 28th, as uncertainty surrounding the Middle East conflict remained elevated, while inflation concerns eased. Swiss inflation eased to 0.4% in July from 0.5%, its lowest level in four months, underscoring the limited pass-through from higher energy prices linked to geopolitical tensions. The reading contrasted with the Swiss National Bank's expectation of a modest near-term pickup in inflation, following its decision to hold its policy rate at 0%. The SNB is expected to leave borrowing costs unchanged through year-end, with further cuts remaining a contingency rather than the base case, citing no severe damage to Swiss banks. Meanwhile, investor sentiment improved sharply in July, returning to positive territory for the first time since the conflict began. While most economists see the first SNB rate hike in early 2028, currency markets continue to price in an increase as early as March 2027.
+
+---
+
+### 2026-08-03 19:49:22  #其他
+
+【遼寧海城一酸菜坑發生中毒事故致4人死亡，調查報告公佈】2025年6月15日，海城市興海街道大王社群一農戶在清理酸菜坑時有4人暈倒，救出後經醫治無效不幸死亡，直接經濟損失約66萬元。遼寧鞍山市應急管理局8月3日公佈調查報告顯示，調查組認定，鞍山海城“6·15”較大中毒和窒息事故是一起因作業人員未按有限空間作業安全規定採取安全防範措施進入酸菜坑作業，導致中毒窒息，盲目施救導致事故擴大的生產安全責任事故。調查報告建議責成海城市市場監督管理局、興海街道辦事處向海城市委、市政府作出深刻書面檢查。責成海城市委、市政府向鞍山市委、市政府作出深刻書面檢查。
+
+---
+
+### 2026-08-03 19:48:41  #公司
+
+【青松股份：擬3000萬-4500萬元回購股份用於登出】青松股份公告稱，公司擬以集中競價交易方式回購部分A股，資金總額不低於3000萬元且不超過4500萬元，回購價不超10元/股，預計回購300萬-450萬股，佔總股本0.5807%-0.8711%，用於登出並減少註冊資本。實施期限自股東會審議透過之日起12個月。截至公告披露日，公司無控股股東及實控人，相關人員暫無增減持計劃。本次回購存在價格、重大事項、資金等風險，若無法實施將履行相應程式。
+
+---
+
+### 2026-08-03 19:48:30  #市場
+
+禮來盤前漲約1%。
+
+---
+
+### 2026-08-03 19:48:12  #國際
+
+【俄羅斯北方艦隊在巴倫支海舉行多兵種演習】俄羅斯國防部3日釋出訊息說，俄北方艦隊近日在巴倫支海舉行的多兵種軍事演習中發射多枚導彈，摧毀海上標靶。 訊息說，“戈洛夫科海軍上將”號護衛艦和“烏斯季諾夫元帥”號巡洋艦在演習中組成海上打擊群，演習中還使用了“稜堡”導彈系統。此外，圖-142反潛機、米格-29K艦載殲擊機和伊爾-78加油機等參與演習。 演習期間，針對多個假想敵方目標，“戈洛夫科海軍上將”號護衛艦發射“口徑”巡航導彈，“烏斯季諾夫元帥”號巡洋艦發射“火山”巡航導彈，“奧廖爾”號核潛艇從水下發射“花崗岩”巡航導彈。所有假想目標均被摧毀。(新華社)
+
+---
+
+### 2026-08-03 19:48:11  #MKT News
+
+【Zhen'an Technology revises private placement plan; seeks up to 630 mln yuan from co-controller and related firm】Zhen'an Technology filed a second revised proposal for a private placement to specific investors, adjusting total proceeds and the subscription amounts for Ning Huaxiang and Shenzhen Dongchuang Digital Technology Co. The company now proposes to raise up to 630 mln yuan from Ning and Dongchuang (inclusive) to replenish working capital and repay bank loans. Ning is a co-controller of the company; Shenzhen Dongchuang is an enterprise controlled by Ning Huaxiang and her husband Zhou Jianqi.
 
 ---
 
@@ -16685,179 +16793,5 @@ Saudi media Hadath, citing Lebanese sources, says Lebanon will not accept Israel
 ### 2026-08-01 19:40:13  #國際
 
 【西班牙首相批某些歐盟國家“自私”】西班牙首相桑切斯1日致信歐盟，對西班牙飛地休達出現“偷渡潮”後一些歐盟國家的反應表達不滿，批評這些國家“自私”。據法新社報道，桑切斯在致歐盟領導人的信中寫道：“在當前國際形勢下，歐盟不能存在這類自私、極化和不合法的反應。”他同時呼籲歐盟就這一事件召開成員國內政部長級會議。（新華社）
-
----
-
-### 2026-08-01 19:35:23  #其他
-
-土耳其據悉已就伊拉克輸油管道協議延期達成協議。
-
----
-
-### 2026-08-01 19:34:45  #國際
-
-特朗普敦促參議院批准布蘭奇擔任美國司法部長。
-
----
-
-### 2026-08-01 19:32:24  #其他
-
-【金風科技參建Ummbila Emoyeni一期風電專案實現商業運營】據金風科技訊息，近日，由南非Seriti Green開發的Ummbila Emoyeni專案群一期風電專案正式投入商業運營。該專案裝機容量達155MW，年發電量4.8億度，預計可滿足約50萬戶家庭的用電需求，每年減少碳排放約40萬噸。配置25臺金風科技GWH182-6.2MW智慧風電機組，葉輪直徑達183.5米，是截至目前南非葉輪直徑最大的在運風電專案。
-
----
-
-### 2026-08-01 19:32:17  #公司
-
-【青海格爾木20兆瓦飛輪儲能專案開工建設】由中國綠髮投資集團有限公司青海分公司負責建設的20兆瓦飛輪儲能專案，8月1日在青海省海西蒙古族藏族自治州格爾木市開工建設，這個專案採用多型別飛輪協同技術，可實現毫秒級響應，建成後將助推我國新型儲能多元化、高質量發展。
-
----
-
-### 2026-08-01 19:30:11  #宏觀 #公司 #國際
-
-【高至2萬美元 美簽證保證金將漲價並長期化】美國《聯邦政府紀事》7月31日以線上方式釋出公告說，美國國務院將把面向部分國家公民的簽證保證金制度長期化，50個國家的公民面臨高達2萬美元保證金。公告說，這項規定適用於以商務或旅遊為目的申請美國B1、B2類簽證的人員。領事官員可根據具體情況，將繳納保證金作為發放簽證的條件。新規將於8月3日在《聯邦政府紀事》正式刊登時生效。適用該制度的50個國家中有30個在非洲。（新華社）
-
----
-
-### 2026-08-01 19:29:39  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【U.S. embassy in Jordan warns Middle East tensions may escalate】On Aug. 1 the U.S. embassy in Jordan issued a security alert saying regional security remains complex and could further escalate. It advised U.S. citizens in the Middle East to remain vigilant and prepare for possible flight cancellations, temporary airspace closures and travel disruptions; those outside the region should reconsider travel or transit through the area. The embassy also urged U.S. citizens to avoid U.S. military bases in Jordan and areas with heavy security deployments.
-
----
-
-### 2026-08-01 19:23:51  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【US embassy in Israel issues security alert, urges US citizens in Middle East to consider evacuation】On Aug 1 local time the US embassy in Israel issued a security alert saying sustained tension in the Middle East has left a complex security environment with risk of unpredictable escalation. The embassy said US citizens in the region should remain cautious and be prepared for possible flight cancellations, airspace closures and travel disruptions; some carriers have delayed resuming previously suspended services and have canceled routes. It urged US citizens to consider evacuating or be ready to depart at short notice.
-
----
-
-### 2026-08-01 19:23:40  #其他
-
-【山東釋出高溫橙色預警 最高氣溫超40℃】山東省氣象臺8月1日16時升級高溫黃色預警為高溫橙色預警：1日，山東省內陸大部地區已出現35℃以上的高溫天氣，濰坊青州譚坊和煙臺芝罘港務局最高氣溫40.8℃。預計2日至5日，德州、濱州、東營、濟南北部、淄博北部、濰坊中北部、青島北部和煙臺北部最高氣溫37～39℃，區域性地區可達40℃以上，其他地區34～36℃。此次高溫過程持續時間長，相對溼度50%～80%，溫度高、溼度大，體感悶熱，高溫氣象災害風險較高，對農業生產、人體健康、戶外作業和城鄉用電等有不利影響，請做好防範。
-
----
-
-### 2026-08-01 19:23:00  #國際
-
-【美國駐約旦使館：中東局勢可能進一步升級】美國駐約旦大使館1日釋出安全警告說，中東地區安全形勢依舊複雜，地區局勢可能進一步升級。美駐約旦使館建議目前身處中東地區的美國公民保持高度警惕，併為可能的航班取消、空域階段性關閉及旅行中斷做好準備。身處中東以外地區的美國公民應重新考慮前往或途經該地區的行程。該使館還建議美國公民避免前往約旦境內美軍基地，以及“有大量警力部署的危險區域”。（新華社）
-
----
-
-### 2026-08-01 19:22:34  #公司 #國際
-
-【美駐以大使館釋出安全警告 敦促在中東美國公民考慮撤離】當地時間8月1日，美國駐以色列大使館釋出安全警告說，鑑於當前中東地區局勢持續緊張，該地區安全環境依舊複雜，存在不可預測的升級風險。警告說，目前在中東地區的美國公民應當保持謹慎，提高警惕。同時，美國公民應為可能出現的航班取消、領空關閉以及潛在的旅行受阻做好準備。目前該地區部分航空公司已推遲恢復先前的航班計劃，另有部分航線已被取消。美國大使館強調，在中東地區的美國公民應當考慮撤離，或做好局勢升級後隨時撤離的準備。
-
----
-
-### 2026-08-01 19:21:00  #國際
-
-歐盟委員會主席馮德萊恩：大多數非法抵達休達的人已經返回摩洛哥。目前還沒有人抵達西班牙大陸或歐盟其他國家。
-
----
-
-### 2026-08-01 19:20:04  #公司
-
-【國際足聯放棄新商業提案 歐足聯表示歡迎】當地時間8月1日，歐足聯釋出宣告，歡迎國際足聯放棄擬成立商業子公司並出售世界盃等旗下賽事部分股權的提案。宣告感謝所有反對該方案的球迷、聯賽、俱樂部、球員等。歐足聯表示，此項計劃由一些匿名人士炮製，速度極快，必須找出其負責人追究責任。歐足聯將與各成員協會以及其他洲際足聯密切合作，反思此次事件的起因，並制定計劃，確保類似事件不再發生。宣告還對國際足聯主席因凡蒂諾提出批評，稱其未能兌現承諾。
-
----
-
-### 2026-08-01 19:17:55  #MKT News
-
-Israel Defense Forces said on Saturday night an officer was moderately wounded during an operation in southern Lebanon; the officer was evacuated to hospital and family notified.
-
----
-
-### 2026-08-01 19:15:06  #其他
-
-馮德萊恩：歡迎各國領導人提議召開休達相關會議。
-
----
-
-### 2026-08-01 19:14:43  #國際
-
-歐盟委員會主席馮德萊恩：已就休達事宜與布倫納專員、舒伊察專員進行了磋商。
-
----
-
-### 2026-08-01 19:12:44  #國際
-
-以色列空襲在加沙造成兩人死亡，並摧毀多處藥品儲存倉庫。
-
----
-
-### 2026-08-01 19:12:34  #國際
-
-美國駐約旦大使館和駐以色列大使館敦促在中東的美國公民考慮離開中東，或做好在局勢進一步升級時撤離的準備，並警告稱航班取消、空域關閉和旅行中斷的情況可能發生。
-
----
-
-### 2026-08-01 19:09:24  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Saudi outlet Hadaas reports the U.S. embassy in Israel warned U.S. citizens that escalation could occur in the Middle East.
-
----
-
-### 2026-08-01 19:07:27  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Zelenskiy said Ukrainian forces attacked YANINA, a sanctioned Russian container ship with deadweight over 100,000 tonnes.
-
----
-
-### 2026-08-01 19:05:35  #國際
-
-【義大利臨時恢復對西班牙入境旅客邊境檢查】當地時間8月1日，義大利開始在機場和港口對從西班牙入境的旅客實施臨時邊境檢查，措施計劃持續一個月。當天，羅馬菲烏米奇諾機場對來自馬德里和巴塞羅那的首批航班旅客展開抽查，米蘭馬爾彭薩機場和利納特機場也已啟動相關檢查。此次檢查採取選擇性抽查方式，主要針對經西班牙進入義大利的非歐盟國家公民。義大利方面表示，西班牙及其他歐盟成員國公民前往義大利的旅行規定沒有變化，從義大利前往西班牙也不受影響。近日西班牙北非飛地休達發生大規模非法移民入境事件，引發歐洲多國關注。義大利政府隨後決定臨時恢復與西班牙之間航空和海運客運通道的邊境檢查。義大利內政部表示，這一決定是在有關部門評估最新移民和邊境安全形勢後作出的，相關措施旨在維護國家安全。
-
----
-
-### 2026-08-01 19:02:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Zelenskiy said Ukraine's SBU struck infrastructure at three Russian oil refineries in Bashkortostan.
-
----
-
-### 2026-08-01 19:02:53  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran military says it recently deployed new drones】Iranian media reported on Aug. 1 that Iran army spokesman Akraminia said Tehran has recently deployed a new type of drone and will publish details in coming days. He said the drones’ range is sufficient to reach US bases across the Middle East. Akraminia added that, given past US behavior on agreements, Iran expects memoranda of understanding could be torn up and that conflict could resume, and that Iran never trusted US commitments in such memoranda.
-
----
-
-### 2026-08-01 19:02:12  #國際
-
-美國駐巴格達大使館和駐埃爾比勒總領事館週六敦促在伊拉克的美國公民保持高度警惕，並考慮離開中東，或做好在局勢進一步升級時撤離的準備。安全警報警告稱，航班可能取消，空域可能關閉，伊朗及其盟友可能襲擊美國利益。警報還指出，美國駐伊拉克使團仍然開放，但已接到撤離命令。
-
----
-
-### 2026-08-01 18:59:42  #國際
-
-澤連斯基：烏軍夜間襲擊了俄羅斯集裝箱船“Yanina”——懸掛俄羅斯國旗，載重超過10萬噸，擊中並將其擊沉。同樣在夜間，烏克蘭安全域性部隊打擊了巴什科爾託斯坦地區三座俄羅斯煉油廠的基礎設施。
-
----
-
-### 2026-08-01 18:57:02  #其他
-
-【西班牙飛地遭遇“偷渡潮” 法國加強陸地邊境檢查】當地時間8月1日，法國內政部長努內茲表示，針對西班牙位於北非的飛地休達近期遭遇“偷渡潮”一事，法國已加強法西陸地邊境檢查，並強調西班牙“絕無可能”退出申根區。努內茲表示，法國此前已向法西邊境增派警力，加強陸地邊境檢查，並投入無人機、航空巡邏力量和鐵路巡邏力量，以應對休達“偷渡潮”帶來的影響。此外，努內茲還表示，“西班牙沒有必要退出申根區，絕對不存在這種可能。” 他強調，法國將繼續與西班牙保持密切協調，共同應對非法移民問題。
-
----
-
-### 2026-08-01 18:56:28  #國際
-
-【一艘LNG運輸船透過霍爾木茲海峽時遭投射物擊中】根據安全情報公司和船舶追蹤資料顯示，一艘載有卡達貨物的液化天然氣運輸船在透過霍爾木茲海峽時遭到投射物擊中。安全顧問公司Vanguard Tech和Marisks證實該船為“Gaslog Shanghai”號液化天然氣運輸船。船舶追蹤資料顯示，該運輸船於7月27日左右在卡達裝載了一批液化天然氣，並於7月31日在霍爾木茲海峽西側入口附近停止傳送訊號。這艘船在霍爾木茲海峽遭到襲擊時，似乎並未傳送訊號。週六，英國海事貿易辦公室（UKMTO）在另一份警告中表示，另一艘油輪報告稱看到附近水域發生爆炸。
-
----
-
-### 2026-08-01 18:48:40  #MKT News
-
-Tasnim News Agency, citing a provincial governor, said an explosion near Islamabad-e Gharb in western Iran was caused by an old artillery shell.
-
----
-
-### 2026-08-01 18:48:10  #國際
-
-當地省長稱，伊朗西部伊斯拉馬巴德-E-加爾卜附近爆炸由老舊炮彈引爆所致。
-
----
-
-### 2026-08-01 18:45:10  #國際
-
-【中方在聯合國舉行2026世界人工智慧大會暨人工智慧全球治理高階別會議吹風會】中國常駐聯合國代表團7月31日在聯合國總部舉行2026世界人工智慧大會暨人工智慧全球治理高階別會議吹風會。中國常駐聯合國代表傅聰表示，習近平主席在大會開幕式上圍繞全球人工智慧治理體系、以人為本和向上向善理念、幫助全球南方縮小智慧鴻溝、成立世界人工智慧合作組織、支援聯合國全球人工智慧治理程序等，系統全面提出中國方案，為全球人工智慧治理作出重要貢獻。中國將秉持開源開放、合作共贏、共商共建共享理念，在聯合國廣闊平臺上，同各方一道商討謀劃人工智慧未來全球治理重大問題。（新華社）
 
 ---

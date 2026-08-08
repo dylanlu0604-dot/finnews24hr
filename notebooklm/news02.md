@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 18:44:42_
-_本檔包含 3208 則快訊，約 595962 字_
+_更新時間：2026-08-08 19:36:10_
+_本檔包含 3188 則快訊，約 596231 字_
+
+---
+
+### 2026-08-07 09:00:12  #其他
+
+臺灣證交所加權股價指數開高0.1%報44,450.19。
+
+---
+
+### 2026-08-07 09:00:03  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2509.00元。
+
+---
+
+### 2026-08-07 09:00:03  #市場
+
+【商品期貨開盤】上海原油連續漲3.90%，多晶矽連續漲2.95%，乙二醇連續漲2.81%，瀝青連續漲2.72%，燃料油連續漲2.40%。
+
+---
+
+### 2026-08-07 09:00:02  #市場
+
+富時中國A50指數期貨開盤下跌0.01%。
+
+---
+
+### 2026-08-07 08:58:55  #MKT News #USDJPY #Impact bearish #EURUSD #DXY #Impact bullish
+
+【US sold euros to buy yen in intervention; ECB says it was notified only after execution】The US sold euros to buy yen last week to support the Japanese currency and informed the European Central Bank only after the trades were executed, the Financial Times reported. ECB officials said they learned of the euro sales after execution on Friday. ECB President Lagarde spoke with US Treasury Secretary Bessent on Saturday. The operation was part of a rare US‑Japan coordinated effort to bolster the yen — the first in nearly 30 years — and, unusually, used euros rather than dollars. Some senior ECB officials called the decision to use euros an unprecedented breach of long‑standing cooperation norms. A person familiar with ECB discussions described the euro sales carried out by the New York Fed on behalf of the US Treasury as "striking" and "regrettable."
+
+---
+
+### 2026-08-07 08:58:42  #其他
+
+【聯合國秘書長副發言人呼籲俄烏停火 實現和平】聯合國秘書長副發言人哈克6日在紐約聯合國總部舉行的釋出會上表示，聯合國秘書長古特雷斯譴責俄烏近期互相發動的大規模導彈和無人機襲擊。哈克表示，古特雷斯認為針對平民和民用基礎設施的襲擊明顯違反國際人道法，必須立即停止。古特雷斯再次呼籲有關各方緊急採取行動緩和局勢，實現立即、全面、無條件、持久停火，並依據《聯合國憲章》、國際法及相關聯合國決議精神，推動實現公正、可持續和全面的和平。
+
+---
+
+### 2026-08-07 08:58:27  #公司 #觀點
+
+高盛將商湯科技的評級從“買入”下調至“中性”，理由是人工智慧領域的競爭日益激烈，且其營收增長速度放緩；高盛將公司目標價從3.55港元下調至2港元。
+
+---
+
+### 2026-08-07 08:56:41  #市場 #觀點 #國際
+
+【中金財富期貨：美債期限溢價抬升等因素創造了對黃金有利的環境】伊朗與阿曼協議擬禁美以船隻霍爾木茲通行，但是特朗普仍表示美伊戰爭即將結束，油價反彈，但是通脹預期回落，加上美債期限溢價抬升和美元走弱等的確創造了對黃金有利的環境，微觀層面上看，COMEX非商業淨多頭回到2024年水平（去槓桿順利），波動率跌至低位，黃金反彈行情印證了我們之前的機會提醒，目前我們仍維持震盪偏多的思路。
+
+---
+
+### 2026-08-07 08:56:22  #其他
+
+【雄安新區至商丘高速鐵路河北段開始按圖行車試驗】記者從國鐵北京局瞭解到，今天（7日），雄安新區至商丘高速鐵路河北段開始按圖行車試驗，標誌著進入開通運營倒計時。按圖行車試驗就是按照列車執行圖，組織列車在正常運營條件下的非載客執行，滿足開通運營各項標準和要求。（央視新聞）
+
+---
+
+### 2026-08-07 08:56:17  #宏觀 #國際
+
+【市場分析：日本可能已經用完了今年的干預次數額度】日本財務省4月至6月期間的外匯市場資料顯示，共有三個交易日買入了日元；再加上上週的干預行動，這可能意味著日本當局已用盡了國際貨幣基金組織(IMF)規則下允許的2026年度干預額度。在與美國財政部聯手買入日元后，未來六個月的干預計時器已被重置。這實際上意味著日本直至2027年初之前將無法採取干預行動。這對希望重新參與套息交易的匯市交易員而言是個好訊息。不過，一些投資者會質疑，在特朗普時代，舊有的基於規則的體系是否還有實際約束力。
+
+---
+
+### 2026-08-07 08:55:21  #公司 #市場 #國際
+
+【日經指數走低 軟銀估值擔憂壓過任天堂利好】週五日本股市走弱。相較於任天堂釋出的穩健財報，投資者更為擔憂軟銀的估值壓力。軟銀財報釋出後的交易日已連續四日收跌。此外，Lasertec 公司不及預期的業績，導致其早盤股價大幅下挫超9%，也帶來負面市場觀感。日經指數自上月低點以來的上漲勢頭似乎正在減弱，目前跌至6月至7月跌幅的50%回撤位下方。這或將使得趨勢交易資金在一段時間內繼續保持觀望。
+
+---
+
+### 2026-08-07 08:54:26  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
+
+【US outlet MS NOW: Iran and Oman reach fee-free temporary framework to reopen Strait of Hormuz】US outlet MS NOW reports Oman and Iran have agreed a temporary framework to reopen the Strait of Hormuz without transit fees. Under the proposed corridor, commercial vessels would enter the Persian Gulf via Iran-controlled routes and exit via Oman-controlled routes. Iranian officials say the arrangement is fee-free and will be presented as a temporary measure that could pave the way for a Washington‑Tehran ceasefire announcement and revival of nuclear talks; the IMO and the US are expected to join a formal announcement. Gulf Cooperation Council members have reportedly endorsed the plan. Timing has not been disclosed. US support will depend on final details; a US official said Washington only backs a temporary reopening that is unimpeded and fee‑free.
+
+---
+
+### 2026-08-07 08:50:09  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Falls on Renewed Hormuz Tensions — Silver fell toward $61 an ounce on Friday, sliding for the second straight session as a flare-up in the Strait of Hormuz sent oil prices higher, reviving concerns about inflation and a near-term Federal Reserve interest rate hike. Reports indicated that Iran struck what it described as “hostile targets” in the strait following explosions near Qeshm Island. Tehran is also seeking to bar US and Israeli vessels from transiting Hormuz while requiring countries it considers hostile to pay compensation before being granted passage. Meanwhile, Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary risks, with markets anticipating a 25-basis-point hike in September. At the same time, industrial demand continued to provide underlying support for silver, with Chinese imports of silver-bearing ores surging 62.5% year-over-year in June to 219,000 tonnes.
+
+---
+
+### 2026-08-07 08:49:23  #宏觀 #央行 #國際
+
+【歐洲央行在美國完成賣出歐元買入日元交易之後才得知該操作】英國《金融時報》援引多名知情人士訊息報道，歐洲央行在上週五美國完成賣出歐元、買入日元的交易之後，才獲悉美方這一操作。歐洲央行行長克里斯蒂娜・拉加德與美國財政部長斯科特・貝森特於上週六就此次干預行動進行了溝通。一位發言人表示，財政部開展本次干預所動用的外匯平準基金，該基金儲備配置相關決策，財政部不會與外國當局進行協調。報道稱，歐洲央行對此拒絕置評。
+
+---
+
+### 2026-08-07 08:47:21  #MKT News #Market Regions #Greater China
+
+【Margin balances on Shanghai and Shenzhen exchanges rise CNY 11.01 bln】As of Aug 6, margin financing balances were CNY 1.3403 tln on the Shanghai Exchange, up CNY 4.888 bln from the prior trading day; CNY 1.2670 tln on the Shenzhen Exchange, up CNY 6.122 bln; combined CNY 2.6073 tln, up CNY 11.01 bln.
 
 ---
 
@@ -19157,215 +19247,5 @@ The Federal Reserve Bank of Dallas and the Federal Reserve Bank of New York will
 ### 2026-08-05 23:13:07  #MKT News #Important #Market Regions #Greater China
 
 【SZSE set to switch market-data access after SSE; nearby data-center capacity tight】Institutions are racing to secure co‑location near the Shanghai and Shenzhen exchanges after the Shanghai Stock Exchange completed a switch of market-data access from LAN to WAN on July 31. The Shenzhen Stock Exchange has not yet completed the change but is expected to switch market-data access from LAN to WAN on August 7; some firms say the switch could occur within the week, though timing remains unconfirmed. Market participants report that surrounding data centers in both cities are facing tight supply for racks/co‑location, creating potential capacity constraints for latency‑sensitive trading and market‑data connectivity.
-
----
-
-### 2026-08-05 23:11:57  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold breached $4,260/oz intraday, rising 4.48% on the day.
-
----
-
-### 2026-08-05 23:11:29  #MKT News #WTI #Impact bearish #Brent
-
-【Iran says it agreed with Oman on coordinates for proposed Strait of Hormuz shipping lane】Iran’s foreign ministry spokesman wrote on social media on the 5th that Iran and Oman have agreed on the geographic coordinates for a proposed Strait of Hormuz shipping lane, and a joint statement is in its final review stage.
-
----
-
-### 2026-08-05 23:11:04  #市場 #焦點
-
-現貨黃金突破4260美元/盎司，日內漲4.48%。
-
----
-
-### 2026-08-05 23:10:57  #市場 #焦點
-
-紐約期金突破4320美元/盎司，日內漲4.04%。
-
----
-
-### 2026-08-05 23:09:39  #MKT News
-
-Iran's foreign ministry spokesman said it has studied various technical, legal, security and environmental aspects of holding talks with Oman on the Strait of Hormuz.
-
----
-
-### 2026-08-05 23:09:08  #國際
-
-伊朗外交部發言人5日在社交媒體發文說，伊朗與阿曼已就霍爾木茲海峽擬定航道的地理座標達成一致，兩國聯合宣告已進入終審階段。（新華社）
-
----
-
-### 2026-08-05 23:07:31  #MKT News #Macro & Rates #US Economy #Commodities #Energy #DXY #Impact bullish #WTI #US10Y #Impact bearish
-
-【US services activity maintains steady expansion; demand resilience supports growth】US services activity remained in steady expansion in July as new orders and business activity recovered. The ISM services index rose 0.1 point to 54.1 (expansion >50); new orders accelerated and the business-activity gauge reached a five-month high. Cost pressures intensified: the ISM input-price index jumped to 70.3 in July after the collapse of a temporary US–Iran agreement pushed oil and gasoline prices higher, and services and materials costs continued to rise. The employment subindex showed the largest reduction in staff since March; with elevated costs squeezing margins and weighing on consumer spending, some firms may delay hiring.
-
----
-
-### 2026-08-05 23:07:29  #焦點 #國際
-
-【伊阿敲定霍爾木茲海峽協議草案 待伊朗最高領袖審批】兩名中東地區官員表示，伊朗與阿曼談判代表已敲定一份重新開放霍爾木茲海峽的協議草案，正等待伊朗最高領袖穆傑塔巴的最終批准。該擬議臨時安排規定，駛入波斯灣的船舶經由伊朗管控航道通行，駛出波斯灣的船舶經由阿曼管控航道通行，同時將收取用於安保與環境保護的服務費。官員稱，這份協議或將為美伊重啟伊朗核專案相關談判鋪平道路。
-
----
-
-### 2026-08-05 23:07:10  #MKT News
-
-Brazilian President LULA said he cannot accept interference in Brazil's elections.
-
----
-
-### 2026-08-05 23:06:43  #國際
-
-以色列談判團隊訊息人士：因黎巴嫩代表團多次帶有偏向性的訊息洩露，以色列大使耶希爾·萊特在羅馬以黎談判預定結束時間約三小時前，要求美方暫停此次談判。談判預計將於次日恢復。
-
----
-
-### 2026-08-05 23:06:36  #MKT News
-
-Israeli Prime Minister Netanyahu said US President Trump is our best friend, but he has made clear Israel's existence is non-negotiable.
-
----
-
-### 2026-08-05 23:06:17  #其他
-
-巴西總統盧拉：我們不能接受對巴西選舉的干涉。
-
----
-
-### 2026-08-05 23:05:39  #國際
-
-伊朗外交部發言人表示，伊朗正與巴基斯坦和卡達交換意見。
-
----
-
-### 2026-08-05 23:05:33  #國際
-
-伊朗外交部：義大利外交部長安東尼奧·塔亞尼於週三晚間與伊朗外長阿拉格奇通電話，就地區最新局勢交換意見。伊方向義大利外長介紹了伊朗與阿曼之間最新外交程序。雙方在通話中同時強調，應持續開展政治外交磋商、推進地區合作以緩和緊張局勢。
-
----
-
-### 2026-08-05 23:05:24  #MKT News
-
-Iran's foreign ministry spokesman said talks with Oman have been conducted professionally and are progressing smoothly.
-
----
-
-### 2026-08-05 23:05:04  #國際
-
-伊朗稱與阿曼的談判專業且進展順利。
-
----
-
-### 2026-08-05 23:04:52  #MKT News #Important
-
-Iranian Foreign Ministry spokesman said the foreign minister or the parliamentary speaker currently has no plans to visit Pakistan or Qatar.
-
----
-
-### 2026-08-05 23:04:41  #焦點 #國際
-
-伊朗稱聯合宣告已進入最終起草階段。
-
----
-
-### 2026-08-05 23:04:23  #國際
-
-伊朗外交部發言人表示，目前伊朗外交部長與議會議長均無前往巴基斯坦或卡達的出行計劃。
-
----
-
-### 2026-08-05 23:04:16  #國際
-
-巴西總統盧拉：特朗普政府針對巴西大使簽證採取的舉措“不負責任”。
-
----
-
-### 2026-08-05 23:03:56  #焦點 #國際
-
-伊朗外交部發言人表示，伊朗與阿曼達成的協議“本身”並不意味著霍爾木茲海峽是安全的。
-
----
-
-### 2026-08-05 23:03:54  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iran's foreign ministry spokesman said the Iran-Oman agreement does not itself guarantee security in the Strait of Hormuz, and that a joint statement is in final drafting.
-
----
-
-### 2026-08-05 23:03:39  #其他
-
-【萊茵河水位降至低點貨船減載】近日，德國境內的萊茵河水位降至約150年來的最低水平，總檯記者在萊茵河下游一個重要航運水位監測點看到，貨船可利用的航道深度隨之減少，來往貨船不得不大幅減少裝載，令依賴萊茵河運輸原材料和產品的德國企業面臨壓力。萊茵河連線北海港口與德國西部工業區，是德國最重要的內河貨運通道。沿岸分佈著大量鋼鐵、化工和能源企業，每年都有大量能源、化工原料和工業製成品等大宗貨物透過這裡運輸。水位過低一方面降低了萊茵河的運輸能力，另一方面也大幅增加了沿岸工業企業的物流成本。（CCTV國際時訊）
-
----
-
-### 2026-08-05 23:03:28  #市場
-
-紐約期金日內漲4%，現報4318.71美元/盎司。
-
----
-
-### 2026-08-05 23:02:48  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD #Impact bullish
-
-U.S. (WTI) and Brent crude continued to slide, trading at $73.85/bbl and $77.98/bbl, respectively. Spot gold touched $4,250/oz, up 4.24% intraday.
-
----
-
-### 2026-08-05 23:02:10  #國際
-
-伊朗外交部發言人表示，若“某些第三方”不干預，阿曼與伊朗的聯合宣告已進入最終階段。
-
----
-
-### 2026-08-05 23:01:47  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-SC crude front-month contract fell 2.00% intraday to 502.70 yuan/barrel.
-
----
-
-### 2026-08-05 23:01:37  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iran's foreign ministry spokesman said Iran and Oman have agreed on the geographic routing of a Strait of Hormuz shipping lane.
-
----
-
-### 2026-08-05 23:01:34  #市場 #焦點
-
-現貨黃金突破4250美元/盎司，日內漲4.24%。
-
----
-
-### 2026-08-05 23:01:27  #市場 #焦點
-
-紐約期金突破4310美元/盎司，日內漲3.79%。
-
----
-
-### 2026-08-05 23:01:08  #焦點 #國際
-
-伊朗外交部發言人表示，伊朗與阿曼已就霍爾木茲海峽航線的地理特徵達成一致。
-
----
-
-### 2026-08-05 23:01:00  #MKT News #Important #Market Regions #Greater China
-
-At the 23:00 close, China’s most-active futures contracts were mixed: propylene, ethylene glycol (EG), benzene, methanol and styrene (EB) fell over 3 pct; polypropylene, PTA and liquefied petroleum gas (LPG) fell nearly 3 pct; iron ore rose nearly 2 pct, cotton rose over 1 pct and coking coal rose nearly 1 pct.
-
----
-
-### 2026-08-05 23:00:50  #其他
-
-【聯合國教科文組織確認北京為2029年“世界建築之都”】總部位於法國巴黎的聯合國教科文組織5日宣佈，根據世界建築之都聯合委員會推薦，北京被指定為2029年聯合國教科文組織—國際建築師協會“世界建築之都”。
-
----
-
-### 2026-08-05 23:00:02  #市場
-
-【夜盤期貨收盤】乙二醇連續跌3.47%，甲醇連續跌3.37%，苯乙烯連續跌3.30%，聚丙烯連續跌2.99%，液化石油氣連續跌2.93%。
-
----
-
-### 2026-08-05 23:00:01  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Rises by 0.49% — Top currency gainers are Brazilian Real (0.49%), Swedish Krona (0.44%), South Korean Won (0.42%), British Pound (0.20%), Euro (0.19%) and Japanese Yen (0.14%). Biggest loser is Dollar Index (-0.20%).
 
 ---

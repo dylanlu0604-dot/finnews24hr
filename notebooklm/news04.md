@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 18:44:42_
-_本檔包含 3360 則快訊，約 595575 字_
+_更新時間：2026-08-08 19:36:10_
+_本檔包含 3359 則快訊，約 595011 字_
+
+---
+
+### 2026-08-04 21:59:29  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #CSI300 #CNH
+
+US plans to ban imports of Chinese next-generation data center equipment; Chinese embassy urged the US to stop smearing Chinese firms and threatening sanctions.
+
+---
+
+### 2026-08-04 21:59:23  #其他
+
+【三亞啟動防汛防風Ⅳ級應急響應】8月4日，三亞市防災減災救災和安全生產委員會發布關於啟動防汛防風Ⅳ級應急響應的通知。根據氣象預報，8月4日—7日，北部灣海面季風擾動活躍，受其影響，三亞市有一次強降水天氣過程。預計，4日11時至8日8時累計雨量：200～350毫米，區域性400～500毫米。（央視新聞）
+
+---
+
+### 2026-08-04 21:59:04  #國際
+
+印度在第 15 輪商業招標中拍賣 6 個煤礦區塊。
+
+---
+
+### 2026-08-04 21:58:09  #Trading Economics #Markets #Commodity #Importance 0
+
+Platinum Climbs as US-Iran Talks Lift Sentiment — Platinum futures climbed above $1,700 per ounce, reaching their highest level since mid-June as gains across precious metals were supported by diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain ongoing, with de-escalation and reopening the vital waterway as the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook.
+
+---
+
+### 2026-08-04 21:57:45  #市場
+
+Wayfair股價在第二季度利潤與收入均超出預期後上漲約27%。
+
+---
+
+### 2026-08-04 21:57:42  #MKT News #Important #Star Stocks #PLTR.N #Impact bullish
+
+Palantir (PLTR.N) extended gains to 21%.
+
+---
+
+### 2026-08-04 21:56:31  #市場
+
+布倫特原油日內跌5%，現報79.56美元/桶。
+
+---
+
+### 2026-08-04 21:56:29  #MKT News
+
+【Baltic Dry Index rises 3.3%, fourth straight daily gain】On Aug 4 (Tue) the Baltic Dry Index (BDI) climbed for a fourth consecutive session, gaining 93 points (+3.3%) to 2,936, its highest level since July 14. The Capesize index (BCI) rose 214 points (+4.7%) to 4,778, the strongest since June 5; Capesize daily earnings increased $1,939 to $39,831 per day. The Panamax index (BPI) added 52 points (+2.4%) to 2,187, the highest since July 20; Panamax daily earnings rose $474 to $19,686 per day. The Supramax index (BSI) was up 3 points (+0.19%) at 1,613, while the Handy index (BHSI) slipped 3 points to 881.
+
+---
+
+### 2026-08-04 21:56:08  #國際
+
+烏克蘭國家緊急事務局：基輔州布昌斯基區遭俄軍炮擊現場的應急救援工作仍在持續。國家緊急事務局各部門持續開展廢墟清理作業，以期儘快抵達損毀建築，對區域內每一處地段進行排查，並消除襲擊造成的各類後果。
+
+---
+
+### 2026-08-04 21:56:06  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+WTI crude fell to $75/bbl, its lowest since July 13, down 4.75% intraday.
+
+---
+
+### 2026-08-04 21:55:46  #市場
+
+美股碳化矽龍頭Wolfspeed盤初上漲8%。
+
+---
+
+### 2026-08-04 21:55:15  #焦點 #國際
+
+【美國擬禁止進口中國新型資料中心裝置，我使館：敦促美停止抹黑中企並威脅制裁】據路透社4日報道，知情人士透露，美國政府正起草一項禁令，擬禁止進口中國新型號的資料中心元件，以保護支撐人工智慧(AI)發展的關鍵基礎設施。對此，中國駐美國大使館回應稱，北京敦促美國“傾聽兩國工商界客觀、理性的聲音”，停止抹黑中國企業並以制裁相威脅。使館還說：“對於任何嚴重損害中方利益的行動，中國都將採取一切必要措施予以回應。”（中國新聞網）
+
+---
+
+### 2026-08-04 21:54:34  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Surges to Three-Week High — Silver surged more than 3% to $59.8 per ounce on Tuesday, its highest level since July 10, as investors evaluated diplomatic efforts to ease US-Iran tensions and their implications for oil prices, inflation, and the Federal Reserve's policy outlook. US Treasury Secretary Scott Bessent said an agreement to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain underway, with de-escalation and reopening the strategic waterway remaining the key priorities. The developments led markets to pare expectations for a September Fed rate hike, with the implied probability falling to 57%. Investors are now focused on upcoming US labor market data for further signals on the Fed's policy path. New York Fed President John Williams said inflation continues to move gradually lower but reiterated that the central bank stands ready to raise interest rates if price pressures persist.
+
+---
+
+### 2026-08-04 21:54:18  #公司
+
+【小紅書公告：累計處置涉未成年人違規賬號3571個，部分賬號用AI魔改經典動畫植入恐怖低俗元素，有賬號誘騙未成年從事軟色情服務，永久封禁】8月4日，小紅書釋出關於毒動畫等涉未成年人違規內容的治理公告。小紅書高度重視未成年人網路保護工作，將守護未成年人健康成長作為平臺的重要責任。為落實“清朗·未成年人網路保護”專項行動要求，平臺持續加強涉未成年人有害內容和違法違規行為治理。自專項行動啟動以來，截至8月4日，平臺全面排查數十類涉未成年人高發風險，已累計處置違規筆記8.4萬餘篇、違規評論10.5萬餘條、違規賬號3571個。本階段，針對未成年人風險場景平臺重點採取以下嚴厲治理舉措：強化主動巡查與攔截： 針對刻意使用圈層暗語、變種圖片等惡意逃避稽核的行為，平臺升級風險識別模型，實施前置攔截與嚴厲打擊。（紅星新聞）
+
+---
+
+### 2026-08-04 21:54:15  #Trading Economics #Markets #commodity #Importance 0
+
+Gasoline is down by 5.02% — Gasoline decreased 5.02% to 2.8179 USD/Gal
+
+---
+
+### 2026-08-04 21:52:39  #市場 #國際
+
+美國天然氣期貨跌超4.00%，現報2.669美元/百萬英熱。
+
+---
+
+### 2026-08-04 21:52:25  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Climbs as Markets Monitor US-Iran Diplomacy — Gold rose 0.7% to $4,080 per ounce on Tuesday as investors assessed diplomatic efforts to ease US-Iran tensions and their potential impact on oil prices, inflation, and the Federal Reserve's policy outlook. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain ongoing, with de-escalation and reopening the vital waterway as the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, with the implied probability falling to 57%. Investors now await upcoming US labor market data for further clues on the Fed's policy path. New York Fed President John Williams said inflation continues to trend gradually lower but reiterated that policymakers would not hesitate to raise rates if price pressures persist.
 
 ---
 
@@ -20134,113 +20236,5 @@ UK government bonds extended gains; 10-year gilt yield fell 10 bps intraday to 4
 ### 2026-08-03 19:54:55  #公司
 
 【運達股份：擬投資14.5億元建設豐鎮一期綠色供電專案】運達股份公告，公司於2026年8月3日召開第六屆董事會第六次會議，審議透過《關於投資建設豐鎮市53萬千瓦工業園區綠色供電專案（一期）的議案》，擬以控股子公司豐鎮長達新能源有限公司為主體，在內蒙古自治區烏蘭察布市豐鎮市附近投資建設豐鎮一期專案。專案核准容量26.45萬千瓦，其中風電21.45萬千瓦、光伏5萬千瓦；專案總投資額為144,993萬元，其中透過向金融機構申請貸款籌集11.4億元，約佔總投資的80%，其他資金自籌。
-
----
-
-### 2026-08-03 19:54:20  #公司
-
-【科華資料與眸深智慧簽署具身智慧生態戰略合作協議】據科華資料訊息，近日，科華資料與上海眸深智慧科技有限公司（簡稱“眸深智慧”）在上海正式簽署具身智慧生態戰略合作協議。雙方將共同探索“國產算力+具身智慧”的深度融合路徑，加速具身智慧在工業、商業、服務等場景的規模化落地。
-
----
-
-### 2026-08-03 19:54:01  #市場
-
-英國國債延續漲勢；英國10年期國債收益率下跌10個基點至4.95%。
-
----
-
-### 2026-08-03 19:53:46  #公司
-
-【久吾高科：擬以2000萬元-4000萬元回購公司股份】久吾高科公告，擬以不低於2000萬元且不超過4000萬元回購公司股份，回購價格不超過30元/股，回購股份用於出售。按回購價格上限30元/股測算，預計回購股份數量66.67萬股至133.33萬股，約佔當前公司總股本的0.53%至1.07%。回購資金來源為公司自有資金，實施期限自董事會審議透過之日起3個月內。
-
----
-
-### 2026-08-03 19:53:26  #公司
-
-【陽光電源：擬5億-10億元回購股份用於員工持股或股權激勵】陽光電源公告稱，公司第六屆董事會第二次會議審議透過回購股份方案，決定使用5億-10億元自有或自籌資金，以集中競價交易方式回購股份，用於實施員工持股計劃或股權激勵計劃。回購期限自董事會審議透過方案之日起12個月內。
-
----
-
-### 2026-08-03 19:53:24  #MKT News
-
-【Analyst: 5-year large-denomination CDs preferable to standard time deposits】Industrial and Commercial Bank of China has restarted issuance of 5-year large-denomination certificates of deposit (CDs). Since July, Bank of China, Agricultural Bank of China, China Construction Bank and ICBC have each issued 5-year large CDs. Postal Savings Bank researcher Lou Feipeng says 5-year large CDs currently offer allocation value for low-risk investors. Large-denomination CDs support transfer and pledge, giving them better liquidity than ordinary time deposits.
-
----
-
-### 2026-08-03 19:52:48  #其他
-
-【專家稱買5年期大額存單優於定存】公開資訊顯示，工商銀行於近日重啟5年期大額存單發行。7月以來，中國銀行、農業銀行、建設銀行、工商銀行等四大行陸續發行5年期大額存單產品。中國郵政儲蓄銀行研究員婁飛鵬認為，對低風險偏好的投資者而言，當前購買5年期大額存單具備一定配置價值。大額存單支援轉讓、質押，流動性優於普通定存。（央廣網）
-
----
-
-### 2026-08-03 19:52:17  #公司
-
-【潞化科技：擬5800萬元實施煤氣化專案 涉關聯交易】潞化科技公告稱，公司擬實施“適合山西‘三高’煤的800t/d超高溫煤氣化技術自主研發和工業示範專案”，與多方簽署《合作框架合同》，投資不超5800萬元，資金自籌。因協作單位太化新材料為公司關聯方，預計其分配任務金額不超2200萬元，構成關聯交易。專案計劃2028年3月31日前完成。該專案已透過董事會等審議，無需股東會審議，但存在研發、實施進度等風險。
-
----
-
-### 2026-08-03 19:51:45  #焦點 #國際
-
-【8月3日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【奮力開創中國式現代化建設新局面——習近平總書記今年以來治國理政紀實】紮紮實實以科技創新支撐和引領中國式現代化； 2.蔡奇看望慰問北戴河暑期休假專家； 3.【樹立和踐行正確政績觀】惠民生促發展 推動學習教育取得實效； 4.上半年全國生態環境質量持續改善； 5.上半年我國海洋生產總值5.5萬億元； 6.我國加快構建綠色低碳電力供給格局； 7.中歐班列高質量發展取得顯著成效； 8.西部多地持續強降雨 各地積極應對； 9.國內聯播快訊： （1）上半年我國軟體業務收入同比增長9.5%； （2）1至7月全國新開國際航空貨運航線超100條； （3）粵港澳大灣區首個“華龍一號”專案一期工程全面建成； 10.美總統稱美伊將於8月3日舉行談判 伊朗稱目前沒有與美國舉行會談 伊朗稱與阿曼討論劃定霍爾木茲海峽新航線； 11.美國華盛頓州林火致數百棟建築被毀 6萬人接到疏散令 希臘林火逼近首都雅典 兩架消防直升機相撞； 12.國際聯播快訊： （1）以軍連日空襲加沙地帶致18人死亡； （2）俄擊落超1100架無人機 俄媒稱創新高； （3）“歐佩克+”主要產油國決定9月繼續增產； （4）日本與美國15年來首次聯合干預匯市； （5）美媒稱移民執法機構單月拘捕人數創新高。
-
----
-
-### 2026-08-03 19:51:36  #行業 #國際
-
-【崔東樹：2026年中國自主品牌在俄羅斯份額達到54.6%的較高水平】乘聯分會秘書長崔東樹發文稱，2026年6月俄羅斯汽車銷量達12.2萬輛，同比增22%；1-6月俄羅斯汽車銷量達到66萬輛的較高水平，同比增10%。2026年6月中國出口俄羅斯8.44萬輛，自主品牌俄羅斯銷量6.7萬輛，當地銷量是中國出口的80%；1-6月中國出口俄羅斯44.8萬輛，自主品牌俄羅斯銷量36萬輛，當地銷量是中國出口的81%，總體相對平衡。2026年中國自主品牌在俄羅斯份額達到54.6%的較高水平，效益不錯。2026年的國際車企的車型大量進入，德系和日系的表現較強，韓系的優勢弱化。2026年6月自主車企在俄羅斯份額仍有54.9%，處於2026年峰值水平
-
----
-
-### 2026-08-03 19:50:43  #國際
-
-【特朗普鼓勵下注美國控制格陵蘭島】美國總統特朗普當地時間8月1日在“真實社交”平臺釋出了一張合成照片，照片中，他的臉被合成在丹麥自治領地格陵蘭島上小鎮的後面，並配文“你好，格陵蘭島！”特朗普同一天在接受電話採訪時，節目主播提及自己曾預測“美國將在特朗普離任前實際控制格陵蘭島”，特朗普對此回應稱“是的，你會是對的”，並表示格陵蘭島對美國“很重要”，還“鼓勵”該主播“其實你應該下這個賭注”。（CCTV國際時訊）
-
----
-
-### 2026-08-03 19:50:27  #公司
-
-【冰輪環境子公司頓漢布什獲海外磁懸浮冷機訂單】冰輪環境(000811)子公司頓漢布什官方公眾號8月3日釋出訊息，頓漢布什近期新收到北美客戶A的兩份磁懸浮冷機採購訂單，金額分別為3000＋萬美元和1億＋美元，交貨時間為2027年。該公司還收到澳大利亞客戶B的磁懸浮冷機採購訂單，金額為1000＋萬美元，交貨時間為2026年底。
-
----
-
-### 2026-08-03 19:50:17  #市場
-
-【個人投資者用AI炮製謠言牟利被罰沒48.5萬元】四川證監局披露，1997年出生的個人投資者孫哲元，使用AI編造多篇關於純鹼生產的虛假文章並公開發布，閱讀量合計近9000次，並在傳播期間交易純鹼期貨獲利8.5萬元。四川證監局沒收其違法所得，並處以40萬元罰款，合計罰沒約48.5萬元。
-
----
-
-### 2026-08-03 19:49:24  #Trading Economics #Markets #Switzerland #Currency #Importance 0
-
-Swiss Franc Stays Near One-Year Low — The Swiss franc traded around $0.81 after weakening to a nearly one-year low of $0.821 on July 28th, as uncertainty surrounding the Middle East conflict remained elevated, while inflation concerns eased. Swiss inflation eased to 0.4% in July from 0.5%, its lowest level in four months, underscoring the limited pass-through from higher energy prices linked to geopolitical tensions. The reading contrasted with the Swiss National Bank's expectation of a modest near-term pickup in inflation, following its decision to hold its policy rate at 0%. The SNB is expected to leave borrowing costs unchanged through year-end, with further cuts remaining a contingency rather than the base case, citing no severe damage to Swiss banks. Meanwhile, investor sentiment improved sharply in July, returning to positive territory for the first time since the conflict began. While most economists see the first SNB rate hike in early 2028, currency markets continue to price in an increase as early as March 2027.
-
----
-
-### 2026-08-03 19:49:22  #其他
-
-【遼寧海城一酸菜坑發生中毒事故致4人死亡，調查報告公佈】2025年6月15日，海城市興海街道大王社群一農戶在清理酸菜坑時有4人暈倒，救出後經醫治無效不幸死亡，直接經濟損失約66萬元。遼寧鞍山市應急管理局8月3日公佈調查報告顯示，調查組認定，鞍山海城“6·15”較大中毒和窒息事故是一起因作業人員未按有限空間作業安全規定採取安全防範措施進入酸菜坑作業，導致中毒窒息，盲目施救導致事故擴大的生產安全責任事故。調查報告建議責成海城市市場監督管理局、興海街道辦事處向海城市委、市政府作出深刻書面檢查。責成海城市委、市政府向鞍山市委、市政府作出深刻書面檢查。
-
----
-
-### 2026-08-03 19:48:41  #公司
-
-【青松股份：擬3000萬-4500萬元回購股份用於登出】青松股份公告稱，公司擬以集中競價交易方式回購部分A股，資金總額不低於3000萬元且不超過4500萬元，回購價不超10元/股，預計回購300萬-450萬股，佔總股本0.5807%-0.8711%，用於登出並減少註冊資本。實施期限自股東會審議透過之日起12個月。截至公告披露日，公司無控股股東及實控人，相關人員暫無增減持計劃。本次回購存在價格、重大事項、資金等風險，若無法實施將履行相應程式。
-
----
-
-### 2026-08-03 19:48:30  #市場
-
-禮來盤前漲約1%。
-
----
-
-### 2026-08-03 19:48:12  #國際
-
-【俄羅斯北方艦隊在巴倫支海舉行多兵種演習】俄羅斯國防部3日釋出訊息說，俄北方艦隊近日在巴倫支海舉行的多兵種軍事演習中發射多枚導彈，摧毀海上標靶。 訊息說，“戈洛夫科海軍上將”號護衛艦和“烏斯季諾夫元帥”號巡洋艦在演習中組成海上打擊群，演習中還使用了“稜堡”導彈系統。此外，圖-142反潛機、米格-29K艦載殲擊機和伊爾-78加油機等參與演習。 演習期間，針對多個假想敵方目標，“戈洛夫科海軍上將”號護衛艦發射“口徑”巡航導彈，“烏斯季諾夫元帥”號巡洋艦發射“火山”巡航導彈，“奧廖爾”號核潛艇從水下發射“花崗岩”巡航導彈。所有假想目標均被摧毀。(新華社)
-
----
-
-### 2026-08-03 19:48:11  #MKT News
-
-【Zhen'an Technology revises private placement plan; seeks up to 630 mln yuan from co-controller and related firm】Zhen'an Technology filed a second revised proposal for a private placement to specific investors, adjusting total proceeds and the subscription amounts for Ning Huaxiang and Shenzhen Dongchuang Digital Technology Co. The company now proposes to raise up to 630 mln yuan from Ning and Dongchuang (inclusive) to replenish working capital and repay bank loans. Ning is a co-controller of the company; Shenzhen Dongchuang is an enterprise controlled by Ning Huaxiang and her husband Zhou Jianqi.
 
 ---

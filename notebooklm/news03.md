@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 18:44:42_
-_本檔包含 3373 則快訊，約 596443 字_
+_更新時間：2026-08-08 19:36:10_
+_本檔包含 3391 則快訊，約 595879 字_
+
+---
+
+### 2026-08-05 23:11:57  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold breached $4,260/oz intraday, rising 4.48% on the day.
+
+---
+
+### 2026-08-05 23:11:29  #MKT News #WTI #Impact bearish #Brent
+
+【Iran says it agreed with Oman on coordinates for proposed Strait of Hormuz shipping lane】Iran’s foreign ministry spokesman wrote on social media on the 5th that Iran and Oman have agreed on the geographic coordinates for a proposed Strait of Hormuz shipping lane, and a joint statement is in its final review stage.
+
+---
+
+### 2026-08-05 23:11:04  #市場 #焦點
+
+現貨黃金突破4260美元/盎司，日內漲4.48%。
+
+---
+
+### 2026-08-05 23:10:57  #市場 #焦點
+
+紐約期金突破4320美元/盎司，日內漲4.04%。
+
+---
+
+### 2026-08-05 23:09:39  #MKT News
+
+Iran's foreign ministry spokesman said it has studied various technical, legal, security and environmental aspects of holding talks with Oman on the Strait of Hormuz.
+
+---
+
+### 2026-08-05 23:09:08  #國際
+
+伊朗外交部發言人5日在社交媒體發文說，伊朗與阿曼已就霍爾木茲海峽擬定航道的地理座標達成一致，兩國聯合宣告已進入終審階段。（新華社）
+
+---
+
+### 2026-08-05 23:07:31  #MKT News #Macro & Rates #US Economy #Commodities #Energy #DXY #Impact bullish #WTI #US10Y #Impact bearish
+
+【US services activity maintains steady expansion; demand resilience supports growth】US services activity remained in steady expansion in July as new orders and business activity recovered. The ISM services index rose 0.1 point to 54.1 (expansion >50); new orders accelerated and the business-activity gauge reached a five-month high. Cost pressures intensified: the ISM input-price index jumped to 70.3 in July after the collapse of a temporary US–Iran agreement pushed oil and gasoline prices higher, and services and materials costs continued to rise. The employment subindex showed the largest reduction in staff since March; with elevated costs squeezing margins and weighing on consumer spending, some firms may delay hiring.
+
+---
+
+### 2026-08-05 23:07:29  #焦點 #國際
+
+【伊阿敲定霍爾木茲海峽協議草案 待伊朗最高領袖審批】兩名中東地區官員表示，伊朗與阿曼談判代表已敲定一份重新開放霍爾木茲海峽的協議草案，正等待伊朗最高領袖穆傑塔巴的最終批准。該擬議臨時安排規定，駛入波斯灣的船舶經由伊朗管控航道通行，駛出波斯灣的船舶經由阿曼管控航道通行，同時將收取用於安保與環境保護的服務費。官員稱，這份協議或將為美伊重啟伊朗核專案相關談判鋪平道路。
+
+---
+
+### 2026-08-05 23:07:10  #MKT News
+
+Brazilian President LULA said he cannot accept interference in Brazil's elections.
+
+---
+
+### 2026-08-05 23:06:43  #國際
+
+以色列談判團隊訊息人士：因黎巴嫩代表團多次帶有偏向性的訊息洩露，以色列大使耶希爾·萊特在羅馬以黎談判預定結束時間約三小時前，要求美方暫停此次談判。談判預計將於次日恢復。
+
+---
+
+### 2026-08-05 23:06:36  #MKT News
+
+Israeli Prime Minister Netanyahu said US President Trump is our best friend, but he has made clear Israel's existence is non-negotiable.
+
+---
+
+### 2026-08-05 23:06:17  #其他
+
+巴西總統盧拉：我們不能接受對巴西選舉的干涉。
+
+---
+
+### 2026-08-05 23:05:39  #國際
+
+伊朗外交部發言人表示，伊朗正與巴基斯坦和卡達交換意見。
+
+---
+
+### 2026-08-05 23:05:33  #國際
+
+伊朗外交部：義大利外交部長安東尼奧·塔亞尼於週三晚間與伊朗外長阿拉格奇通電話，就地區最新局勢交換意見。伊方向義大利外長介紹了伊朗與阿曼之間最新外交程序。雙方在通話中同時強調，應持續開展政治外交磋商、推進地區合作以緩和緊張局勢。
+
+---
+
+### 2026-08-05 23:05:24  #MKT News
+
+Iran's foreign ministry spokesman said talks with Oman have been conducted professionally and are progressing smoothly.
+
+---
+
+### 2026-08-05 23:05:04  #國際
+
+伊朗稱與阿曼的談判專業且進展順利。
+
+---
+
+### 2026-08-05 23:04:52  #MKT News #Important
+
+Iranian Foreign Ministry spokesman said the foreign minister or the parliamentary speaker currently has no plans to visit Pakistan or Qatar.
+
+---
+
+### 2026-08-05 23:04:41  #焦點 #國際
+
+伊朗稱聯合宣告已進入最終起草階段。
+
+---
+
+### 2026-08-05 23:04:23  #國際
+
+伊朗外交部發言人表示，目前伊朗外交部長與議會議長均無前往巴基斯坦或卡達的出行計劃。
+
+---
+
+### 2026-08-05 23:04:16  #國際
+
+巴西總統盧拉：特朗普政府針對巴西大使簽證採取的舉措“不負責任”。
+
+---
+
+### 2026-08-05 23:03:56  #焦點 #國際
+
+伊朗外交部發言人表示，伊朗與阿曼達成的協議“本身”並不意味著霍爾木茲海峽是安全的。
+
+---
+
+### 2026-08-05 23:03:54  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iran's foreign ministry spokesman said the Iran-Oman agreement does not itself guarantee security in the Strait of Hormuz, and that a joint statement is in final drafting.
+
+---
+
+### 2026-08-05 23:03:39  #其他
+
+【萊茵河水位降至低點貨船減載】近日，德國境內的萊茵河水位降至約150年來的最低水平，總檯記者在萊茵河下游一個重要航運水位監測點看到，貨船可利用的航道深度隨之減少，來往貨船不得不大幅減少裝載，令依賴萊茵河運輸原材料和產品的德國企業面臨壓力。萊茵河連線北海港口與德國西部工業區，是德國最重要的內河貨運通道。沿岸分佈著大量鋼鐵、化工和能源企業，每年都有大量能源、化工原料和工業製成品等大宗貨物透過這裡運輸。水位過低一方面降低了萊茵河的運輸能力，另一方面也大幅增加了沿岸工業企業的物流成本。（CCTV國際時訊）
+
+---
+
+### 2026-08-05 23:03:28  #市場
+
+紐約期金日內漲4%，現報4318.71美元/盎司。
+
+---
+
+### 2026-08-05 23:02:48  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD #Impact bullish
+
+U.S. (WTI) and Brent crude continued to slide, trading at $73.85/bbl and $77.98/bbl, respectively. Spot gold touched $4,250/oz, up 4.24% intraday.
+
+---
+
+### 2026-08-05 23:02:10  #國際
+
+伊朗外交部發言人表示，若“某些第三方”不干預，阿曼與伊朗的聯合宣告已進入最終階段。
+
+---
+
+### 2026-08-05 23:01:47  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+SC crude front-month contract fell 2.00% intraday to 502.70 yuan/barrel.
+
+---
+
+### 2026-08-05 23:01:37  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's foreign ministry spokesman said Iran and Oman have agreed on the geographic routing of a Strait of Hormuz shipping lane.
+
+---
+
+### 2026-08-05 23:01:34  #市場 #焦點
+
+現貨黃金突破4250美元/盎司，日內漲4.24%。
+
+---
+
+### 2026-08-05 23:01:27  #市場 #焦點
+
+紐約期金突破4310美元/盎司，日內漲3.79%。
+
+---
+
+### 2026-08-05 23:01:08  #焦點 #國際
+
+伊朗外交部發言人表示，伊朗與阿曼已就霍爾木茲海峽航線的地理特徵達成一致。
+
+---
+
+### 2026-08-05 23:01:00  #MKT News #Important #Market Regions #Greater China
+
+At the 23:00 close, China’s most-active futures contracts were mixed: propylene, ethylene glycol (EG), benzene, methanol and styrene (EB) fell over 3 pct; polypropylene, PTA and liquefied petroleum gas (LPG) fell nearly 3 pct; iron ore rose nearly 2 pct, cotton rose over 1 pct and coking coal rose nearly 1 pct.
+
+---
+
+### 2026-08-05 23:00:50  #其他
+
+【聯合國教科文組織確認北京為2029年“世界建築之都”】總部位於法國巴黎的聯合國教科文組織5日宣佈，根據世界建築之都聯合委員會推薦，北京被指定為2029年聯合國教科文組織—國際建築師協會“世界建築之都”。
+
+---
+
+### 2026-08-05 23:00:02  #市場
+
+【夜盤期貨收盤】乙二醇連續跌3.47%，甲醇連續跌3.37%，苯乙烯連續跌3.30%，聚丙烯連續跌2.99%，液化石油氣連續跌2.93%。
+
+---
+
+### 2026-08-05 23:00:01  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Rises by 0.49% — Top currency gainers are Brazilian Real (0.49%), Swedish Krona (0.44%), South Korean Won (0.42%), British Pound (0.20%), Euro (0.19%) and Japanese Yen (0.14%). Biggest loser is Dollar Index (-0.20%).
 
 ---
 
@@ -20239,107 +20449,5 @@ AI應用公司Palantir漲幅擴大至22%。
 ### 2026-08-04 21:59:31  #Trading Economics #Markets #Commodity #Importance 0
 
 Palladium Jumps as Easing Geopolitical Risks Support Metals — Palladium futures climbed above $1,300 per ounce, reaching their highest level since mid-June as precious metals advanced on optimism surrounding diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain underway, with de-escalation and reopening the vital waterway remaining the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook.
-
----
-
-### 2026-08-04 21:59:29  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bearish #CSI300 #CNH
-
-US plans to ban imports of Chinese next-generation data center equipment; Chinese embassy urged the US to stop smearing Chinese firms and threatening sanctions.
-
----
-
-### 2026-08-04 21:59:23  #其他
-
-【三亞啟動防汛防風Ⅳ級應急響應】8月4日，三亞市防災減災救災和安全生產委員會發布關於啟動防汛防風Ⅳ級應急響應的通知。根據氣象預報，8月4日—7日，北部灣海面季風擾動活躍，受其影響，三亞市有一次強降水天氣過程。預計，4日11時至8日8時累計雨量：200～350毫米，區域性400～500毫米。（央視新聞）
-
----
-
-### 2026-08-04 21:59:04  #國際
-
-印度在第 15 輪商業招標中拍賣 6 個煤礦區塊。
-
----
-
-### 2026-08-04 21:58:09  #Trading Economics #Markets #Commodity #Importance 0
-
-Platinum Climbs as US-Iran Talks Lift Sentiment — Platinum futures climbed above $1,700 per ounce, reaching their highest level since mid-June as gains across precious metals were supported by diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain ongoing, with de-escalation and reopening the vital waterway as the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook.
-
----
-
-### 2026-08-04 21:57:45  #市場
-
-Wayfair股價在第二季度利潤與收入均超出預期後上漲約27%。
-
----
-
-### 2026-08-04 21:57:42  #MKT News #Important #Star Stocks #PLTR.N #Impact bullish
-
-Palantir (PLTR.N) extended gains to 21%.
-
----
-
-### 2026-08-04 21:56:31  #市場
-
-布倫特原油日內跌5%，現報79.56美元/桶。
-
----
-
-### 2026-08-04 21:56:29  #MKT News
-
-【Baltic Dry Index rises 3.3%, fourth straight daily gain】On Aug 4 (Tue) the Baltic Dry Index (BDI) climbed for a fourth consecutive session, gaining 93 points (+3.3%) to 2,936, its highest level since July 14. The Capesize index (BCI) rose 214 points (+4.7%) to 4,778, the strongest since June 5; Capesize daily earnings increased $1,939 to $39,831 per day. The Panamax index (BPI) added 52 points (+2.4%) to 2,187, the highest since July 20; Panamax daily earnings rose $474 to $19,686 per day. The Supramax index (BSI) was up 3 points (+0.19%) at 1,613, while the Handy index (BHSI) slipped 3 points to 881.
-
----
-
-### 2026-08-04 21:56:08  #國際
-
-烏克蘭國家緊急事務局：基輔州布昌斯基區遭俄軍炮擊現場的應急救援工作仍在持續。國家緊急事務局各部門持續開展廢墟清理作業，以期儘快抵達損毀建築，對區域內每一處地段進行排查，並消除襲擊造成的各類後果。
-
----
-
-### 2026-08-04 21:56:06  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-WTI crude fell to $75/bbl, its lowest since July 13, down 4.75% intraday.
-
----
-
-### 2026-08-04 21:55:46  #市場
-
-美股碳化矽龍頭Wolfspeed盤初上漲8%。
-
----
-
-### 2026-08-04 21:55:15  #焦點 #國際
-
-【美國擬禁止進口中國新型資料中心裝置，我使館：敦促美停止抹黑中企並威脅制裁】據路透社4日報道，知情人士透露，美國政府正起草一項禁令，擬禁止進口中國新型號的資料中心元件，以保護支撐人工智慧(AI)發展的關鍵基礎設施。對此，中國駐美國大使館回應稱，北京敦促美國“傾聽兩國工商界客觀、理性的聲音”，停止抹黑中國企業並以制裁相威脅。使館還說：“對於任何嚴重損害中方利益的行動，中國都將採取一切必要措施予以回應。”（中國新聞網）
-
----
-
-### 2026-08-04 21:54:34  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Surges to Three-Week High — Silver surged more than 3% to $59.8 per ounce on Tuesday, its highest level since July 10, as investors evaluated diplomatic efforts to ease US-Iran tensions and their implications for oil prices, inflation, and the Federal Reserve's policy outlook. US Treasury Secretary Scott Bessent said an agreement to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain underway, with de-escalation and reopening the strategic waterway remaining the key priorities. The developments led markets to pare expectations for a September Fed rate hike, with the implied probability falling to 57%. Investors are now focused on upcoming US labor market data for further signals on the Fed's policy path. New York Fed President John Williams said inflation continues to move gradually lower but reiterated that the central bank stands ready to raise interest rates if price pressures persist.
-
----
-
-### 2026-08-04 21:54:18  #公司
-
-【小紅書公告：累計處置涉未成年人違規賬號3571個，部分賬號用AI魔改經典動畫植入恐怖低俗元素，有賬號誘騙未成年從事軟色情服務，永久封禁】8月4日，小紅書釋出關於毒動畫等涉未成年人違規內容的治理公告。小紅書高度重視未成年人網路保護工作，將守護未成年人健康成長作為平臺的重要責任。為落實“清朗·未成年人網路保護”專項行動要求，平臺持續加強涉未成年人有害內容和違法違規行為治理。自專項行動啟動以來，截至8月4日，平臺全面排查數十類涉未成年人高發風險，已累計處置違規筆記8.4萬餘篇、違規評論10.5萬餘條、違規賬號3571個。本階段，針對未成年人風險場景平臺重點採取以下嚴厲治理舉措：強化主動巡查與攔截： 針對刻意使用圈層暗語、變種圖片等惡意逃避稽核的行為，平臺升級風險識別模型，實施前置攔截與嚴厲打擊。（紅星新聞）
-
----
-
-### 2026-08-04 21:54:15  #Trading Economics #Markets #commodity #Importance 0
-
-Gasoline is down by 5.02% — Gasoline decreased 5.02% to 2.8179 USD/Gal
-
----
-
-### 2026-08-04 21:52:39  #市場 #國際
-
-美國天然氣期貨跌超4.00%，現報2.669美元/百萬英熱。
-
----
-
-### 2026-08-04 21:52:25  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Climbs as Markets Monitor US-Iran Diplomacy — Gold rose 0.7% to $4,080 per ounce on Tuesday as investors assessed diplomatic efforts to ease US-Iran tensions and their potential impact on oil prices, inflation, and the Federal Reserve's policy outlook. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain ongoing, with de-escalation and reopening the vital waterway as the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, with the implied probability falling to 57%. Investors now await upcoming US labor market data for further clues on the Fed's policy path. New York Fed President John Williams said inflation continues to trend gradually lower but reiterated that policymakers would not hesitate to raise rates if price pressures persist.
 
 ---

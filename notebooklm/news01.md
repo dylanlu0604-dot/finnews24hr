@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 18:44:42_
-_本檔包含 3088 則快訊，約 595959 字_
+_更新時間：2026-08-08 19:36:10_
+_本檔包含 3106 則快訊，約 595713 字_
+
+---
+
+### 2026-08-08 19:35:06  #其他
+
+【交通運輸部啟動強降雨二級防禦響應】中央氣象臺8月8日18時繼續釋出颱風橙色預警、釋出暴雨橙色預警，交通運輸部維持颱風二級防禦響應、啟動強降雨二級防禦響應。（新華社）
+
+---
+
+### 2026-08-08 19:32:13  #其他
+
+【匈牙利執政黨提名前最高法院院長為總統候選人】匈牙利執政黨蒂薩黨8月8日提名前最高法院院長鮑卡·安德拉什為匈牙利總統候選人。（央視新聞）
+
+---
+
+### 2026-08-08 19:31:51  #MKT News #Brent #Impact bullish #WTI
+
+Iran's foreign minister Araghchi said the Strait of Hormuz's existing traffic separation scheme is no longer effective and shipping lanes must be redrawn.
+
+---
+
+### 2026-08-08 19:31:35  #國際
+
+伊朗外長阿拉格齊稱，德黑蘭與馬斯喀特目前正討論臨時霍爾木茲航運路線。
+
+---
+
+### 2026-08-08 19:30:37  #國際
+
+伊朗外長阿拉克齊稱，霍爾木茲海峽原航道分道通航制不再為德黑蘭所接受，需要開闢新航道。
+
+---
+
+### 2026-08-08 19:28:37  #國際
+
+伊朗外交部長表示，重新開放霍爾木茲海峽取決於其他條件，其中包括就美國違反《伊斯蘭堡諒解備忘錄》作出賠償。
+
+---
+
+### 2026-08-08 19:26:35  #MKT News #WTI #Impact mixed #Brent
+
+【Fars News: Iran working with Oman on temporary Strait of Hormuz transit route, FM says】Fars News reported Iran’s foreign minister said talks with Oman on Strait of Hormuz transit are near completion and the two are cooperating to establish a temporary transit route, noting technical complexities. He said they are "very close" to agreement but an accord with Oman would not automatically reopen the strait; reopening depends on other conditions and on US compensation for any breaches.
+
+---
+
+### 2026-08-08 19:26:00  #國際
+
+伊朗外長阿拉格齊：霍爾木茲臨時航道將作為主航道的基礎。
+
+---
+
+### 2026-08-08 19:24:58  #國際
+
+伊朗：霍爾木茲海峽開放與美國侵犯人權行為的賠償有關。
+
+---
+
+### 2026-08-08 19:24:07  #焦點 #國際
+
+伊朗外長阿拉格奇：伊朗即將與阿曼就霍爾木茲海峽管理問題達成協議。
+
+---
+
+### 2026-08-08 19:23:09  #國際
+
+泰國校園槍擊案死亡人數升至九人，警方稱一名12歲女孩於週六不治身亡。
+
+---
+
+### 2026-08-08 19:22:17  #其他
+
+【查德霍亂疫情持續擴散 累計確診239例 死亡13例】當地時間8月8日，查德衛生部最新資料顯示，該國自6月中旬以來累計報告239例霍亂確診病例，其中13人死亡，病死率達5.4%。本次疫情最先爆發於哈傑爾·拉米斯省卡拉爾鎮，7月中旬擴散至首都恩賈梅納，官方7月24日正式宣佈霍亂疫情暴發。目前卡拉爾鎮仍是疫情核心疫區。（央視新聞）
+
+---
+
+### 2026-08-08 19:18:44  #其他
+
+【上海各大商超啟動極端天氣應急保供預案，確保物資充足價格平穩】8月8日，上海市商務委透露，為全力保障颱風“白海豚”影響期間市民日常生活物資供應，穩定市場消費秩序，全市各大商超賣場全面啟動極端天氣應急保供預案，加大生活必需品備貨補貨力度。目前，全市商超市場物資品類齊全、庫存充足、價格平穩。（澎湃新聞）
+
+---
+
+### 2026-08-08 19:16:38  #其他
+
+【阿維塔07L成為首批搭載華為乾崑智駕ADS 5車型】8月8日正式上市的阿維塔07L，成為首批搭載華為乾崑智駕ADS 5的車型。其896線雙光路影象級鐳射雷達採用一體雙焦架構，兼顧廣角與長距感知；WEWA 2.0引入群體博弈模式，進一步提升複雜場景預測和主動避險能力。
+
+---
+
+### 2026-08-08 19:13:54  #其他
+
+【上海釋出海浪橙色預警，目前“一橙一藍”兩預警高掛】上海市海洋監測預報中心8月8日19時釋出海浪橙色預警訊號：受今年第13號颱風“白海豚”（強颱風級）影響，預計今天傍晚到明天傍晚（8月8日19時-9日19時）：長江口內海域1.8-3.3米中到大浪，達到黃色預警級別。杭州灣北海域1.3-2.2米中浪，達到藍色預警級別。洋山港(上海)海域1.8-3.3米中到大浪，達到藍色預警級別。長江口外海域3.0-4.9米大到巨浪，達到橙色預警級別。請各有關單位做好防浪避浪工作。目前，上海海浪橙色預警和颱風藍色預警高掛，請注意防範。
+
+---
+
+### 2026-08-08 19:10:49  #其他
+
+【杭州：密切關注颱風動向，把人員轉移作為重中之重】8月8日上午，杭州市防禦應對13號颱風“白海豚”工作影片排程會召開。浙江省委常委、杭州市委書記劉非強調，要高效執行“1833”聯合指揮體系和“1618”救援指揮體系，密切關注颱風動向，加密預報預警頻次，動態調整響應等級，加強對重點區域的精準提示和工作指導，梯次有序實施相應措施，推動各項防範應對工作有章可循、井然有序。各地各部門要堅持以預報預警為令，及時叫應叫醒，第一時間進入戰鬥狀態。要把人員轉移作為重中之重，按照“應轉盡轉、應轉早轉、應轉快轉、安全返回”要求，毫不猶豫、果斷做好人員轉移工作，確保“不漏一戶、不漏一人”，特別是對老弱病殘孕等特殊群體和養老院、醫院等重點場所，要確保轉移全程全員安全，加強避險場所安全管理，紮實做好轉移人員暖心服務，實現“快轉、暖留、慢回”。
+
+---
+
+### 2026-08-08 19:09:12  #其他
+
+【受颱風“白海豚”影響 長三角鐵路進一步調整列車開行方案】記者從國鐵上海局獲悉，為確保鐵路運輸和旅客出行安全，鐵路部門密切關注颱風“白海豚”路徑變化和後續影響，在8月7日停運方案的基礎上，進一步調整列車開行方案，計劃對8月9日至10日滬昆高鐵、杭溫高鐵、杭臺高鐵（含溫玉段）、杭衢高鐵、金建高鐵蘭建段、杭昌高鐵、杭深鐵路、金溫鐵路、金臺鐵路，8月10日至11日合九鐵路、銅九鐵路、廬銅鐵路等部分割槽段部分時段途經列車，採取臨時停運措施。（央視新聞）
+
+---
+
+### 2026-08-08 19:05:20  #國際
+
+【澤連斯基：美國將每月向烏克蘭提供“愛國者”攔截導彈】烏克蘭方面8日訊息稱，正在塞爾維亞訪問的烏克蘭總統澤連斯基當天表示，美國已與烏克蘭達成協議，將每月向烏克蘭提供“愛國者”防空系統攔截導彈。澤連斯基同時表示，僅靠這項供應無法完全彌補烏克蘭目前的攔截導彈短缺。（央視新聞）
+
+---
+
+### 2026-08-08 19:04:52  #其他
+
+【北京市教委：明確中小學教育懲戒邊界、實施程式】8月7日，北京市教委官網釋出了《北京市中小學教育懲戒規則實施細則 （試行）》，對教育懲戒的實施條件、教育懲戒的保障、教育懲戒的救濟等內容進行了全面規定。（央視新聞）
+
+---
+
+### 2026-08-08 19:02:52  #其他
+
+匈牙利執政黨蒂薩黨提名前最高法院院長安德拉什·巴卡參選匈牙利總統。
+
+---
+
+### 2026-08-08 18:54:18  #其他
+
+【水利部和中國氣象局聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局今天18時聯合釋出紅色山洪災害氣象預警：預計8月8日20時至8月9日20時，浙江東部等地部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警），其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）
+
+---
+
+### 2026-08-08 18:53:34  #其他
+
+新加坡總理：新加坡將繼續加強能源安全。
+
+---
+
+### 2026-08-08 18:53:07  #公司
+
+【網易前員工私自獲取《夢幻西遊》171個長期未登入的賬號許可權，4年獲利173萬元，獲刑3年】8月8日晚間訊息 近日，網易互娛前員工監守自盜案被中國裁判文書網披露。判決書顯示，劉某甲1990年出生，本科學歷，2013年入職廣州某遊戲公司，任職客戶服務交付部賬戶管理組稽核主管，手握賬戶修復、許可權核驗的後臺操作資格。最終，法院以非法獲取計算機資訊系統資料罪，依法對被告人劉某甲判處有期徒刑3年，緩刑3年，並處罰金人民幣2萬元（緩刑考驗期限從判決確定之日起計算；罰金應自本判決發生法律效力第二日起十日內向本院繳納）。（新浪科技）
+
+---
+
+### 2026-08-08 18:51:56  #其他
+
+新加坡z總理：新加坡正在進行重大改革以支援家庭。
+
+---
+
+### 2026-08-08 18:51:20  #MKT News #Market Regions #Greater China
+
+【China's 2026 box office tops 24.0 bln yuan】Online ticketing platform data show China's 2026 cumulative box office, including presales, has exceeded 24.0 bln yuan; the summer box office has surpassed 8.2 bln yuan.
+
+---
+
+### 2026-08-08 18:49:45  #其他
+
+【農業農村部部署颱風“白海豚”防範應對工作】農業農村部日前就做好颱風“白海豚”防範應對工作作出部署，要求各地強化責任落實、監測預警、防範應對、災後恢復和指導服務，努力減輕災害影響，保障人民群眾生命財產安全。同時，會同中國氣象局滾動會商颱風趨勢及對農業生產影響，聯合釋出農田漬澇和風災預警資訊；根據《農業重大自然災害應急預案》規定，對上海、江蘇、浙江、安徽、福建、江西、山東7省（市）啟動農業防汛防颱應急響應，指導提前儲備種子720萬公斤，農藥、消毒藥1000多噸，農用水泵、烘乾機等救災機具2.5萬臺，搶收成熟作物、起撈水產品，加固種養設施，組織颱風影響區1059艘漁船回港、2.2萬人上岸。下一步，農業農村部將密切關注颱風動向，加密監測預警，加強風險隱患排查，及時排程雨情災情，落實農業安全生產措施，指導做好災後恢復生產。
+
+---
+
+### 2026-08-08 18:48:33  #其他
+
+新加坡總理：新加坡的增長勢頭預計將持續。
+
+---
+
+### 2026-08-08 18:48:13  #其他
+
+新加坡總理：新加坡受益於人工智慧的快速發展。
+
+---
+
+### 2026-08-08 18:47:58  #其他
+
+【2026年度總票房破240億】據燈塔專業版資料，截至8月8日，2026年度大盤票房（含預售）突破240億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《鏢人：風起大漠》《八仙！》暫列年度票房前五名。
+
+---
+
+### 2026-08-08 18:47:52  #其他
+
+新加坡總理表示，新加坡經濟始終具備韌性。
+
+---
+
+### 2026-08-08 18:46:25  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+UAE foreign ministry said using the Strait of Hormuz as a tool for coercion or extortion constitutes piracy by the Islamic Revolutionary Guard Corps.
+
+---
+
+### 2026-08-08 18:46:15  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #S&P500 #Impact bearish
+
+UAE Foreign Ministry said it strongly condemned Iran's attack on an Abu Dhabi National Oil Company (ADNOC) tanker.
+
+---
+
+### 2026-08-08 18:44:29  #公司 #國際
+
+阿聯酋譴責伊朗襲擊阿布扎比國家石油公司油輪。
 
 ---
 
@@ -18514,95 +18712,5 @@ Heating Oil Rebounds — US heating oil futures rose above $3.90 per gallon on F
 ### 2026-08-07 09:00:24  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
 
 At the morning open, China’s main futures contracts were mostly higher. Polysilicon and SC crude led gains, up over 4%; fuel oil rose nearly 3%; asphalt, ethylene glycol (EG), coke and styrene (EB) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%; container freight rates on Europe routes climbed over 1%. On the downside, platinum fell more than 2%, while palladium, SHFE silver, SHFE nickel and SHFE tin were down over 1%.
-
----
-
-### 2026-08-07 09:00:12  #其他
-
-臺灣證交所加權股價指數開高0.1%報44,450.19。
-
----
-
-### 2026-08-07 09:00:03  #市場 #焦點
-
-甲醇連續主力合約日內漲1%，現報2509.00元。
-
----
-
-### 2026-08-07 09:00:03  #市場
-
-【商品期貨開盤】上海原油連續漲3.90%，多晶矽連續漲2.95%，乙二醇連續漲2.81%，瀝青連續漲2.72%，燃料油連續漲2.40%。
-
----
-
-### 2026-08-07 09:00:02  #市場
-
-富時中國A50指數期貨開盤下跌0.01%。
-
----
-
-### 2026-08-07 08:58:55  #MKT News #USDJPY #Impact bearish #EURUSD #DXY #Impact bullish
-
-【US sold euros to buy yen in intervention; ECB says it was notified only after execution】The US sold euros to buy yen last week to support the Japanese currency and informed the European Central Bank only after the trades were executed, the Financial Times reported. ECB officials said they learned of the euro sales after execution on Friday. ECB President Lagarde spoke with US Treasury Secretary Bessent on Saturday. The operation was part of a rare US‑Japan coordinated effort to bolster the yen — the first in nearly 30 years — and, unusually, used euros rather than dollars. Some senior ECB officials called the decision to use euros an unprecedented breach of long‑standing cooperation norms. A person familiar with ECB discussions described the euro sales carried out by the New York Fed on behalf of the US Treasury as "striking" and "regrettable."
-
----
-
-### 2026-08-07 08:58:42  #其他
-
-【聯合國秘書長副發言人呼籲俄烏停火 實現和平】聯合國秘書長副發言人哈克6日在紐約聯合國總部舉行的釋出會上表示，聯合國秘書長古特雷斯譴責俄烏近期互相發動的大規模導彈和無人機襲擊。哈克表示，古特雷斯認為針對平民和民用基礎設施的襲擊明顯違反國際人道法，必須立即停止。古特雷斯再次呼籲有關各方緊急採取行動緩和局勢，實現立即、全面、無條件、持久停火，並依據《聯合國憲章》、國際法及相關聯合國決議精神，推動實現公正、可持續和全面的和平。
-
----
-
-### 2026-08-07 08:58:27  #公司 #觀點
-
-高盛將商湯科技的評級從“買入”下調至“中性”，理由是人工智慧領域的競爭日益激烈，且其營收增長速度放緩；高盛將公司目標價從3.55港元下調至2港元。
-
----
-
-### 2026-08-07 08:56:41  #市場 #觀點 #國際
-
-【中金財富期貨：美債期限溢價抬升等因素創造了對黃金有利的環境】伊朗與阿曼協議擬禁美以船隻霍爾木茲通行，但是特朗普仍表示美伊戰爭即將結束，油價反彈，但是通脹預期回落，加上美債期限溢價抬升和美元走弱等的確創造了對黃金有利的環境，微觀層面上看，COMEX非商業淨多頭回到2024年水平（去槓桿順利），波動率跌至低位，黃金反彈行情印證了我們之前的機會提醒，目前我們仍維持震盪偏多的思路。
-
----
-
-### 2026-08-07 08:56:22  #其他
-
-【雄安新區至商丘高速鐵路河北段開始按圖行車試驗】記者從國鐵北京局瞭解到，今天（7日），雄安新區至商丘高速鐵路河北段開始按圖行車試驗，標誌著進入開通運營倒計時。按圖行車試驗就是按照列車執行圖，組織列車在正常運營條件下的非載客執行，滿足開通運營各項標準和要求。（央視新聞）
-
----
-
-### 2026-08-07 08:56:17  #宏觀 #國際
-
-【市場分析：日本可能已經用完了今年的干預次數額度】日本財務省4月至6月期間的外匯市場資料顯示，共有三個交易日買入了日元；再加上上週的干預行動，這可能意味著日本當局已用盡了國際貨幣基金組織(IMF)規則下允許的2026年度干預額度。在與美國財政部聯手買入日元后，未來六個月的干預計時器已被重置。這實際上意味著日本直至2027年初之前將無法採取干預行動。這對希望重新參與套息交易的匯市交易員而言是個好訊息。不過，一些投資者會質疑，在特朗普時代，舊有的基於規則的體系是否還有實際約束力。
-
----
-
-### 2026-08-07 08:55:21  #公司 #市場 #國際
-
-【日經指數走低 軟銀估值擔憂壓過任天堂利好】週五日本股市走弱。相較於任天堂釋出的穩健財報，投資者更為擔憂軟銀的估值壓力。軟銀財報釋出後的交易日已連續四日收跌。此外，Lasertec 公司不及預期的業績，導致其早盤股價大幅下挫超9%，也帶來負面市場觀感。日經指數自上月低點以來的上漲勢頭似乎正在減弱，目前跌至6月至7月跌幅的50%回撤位下方。這或將使得趨勢交易資金在一段時間內繼續保持觀望。
-
----
-
-### 2026-08-07 08:54:26  #MKT News #Important #WTI #Impact bearish #Brent #S&P500 #Impact bullish
-
-【US outlet MS NOW: Iran and Oman reach fee-free temporary framework to reopen Strait of Hormuz】US outlet MS NOW reports Oman and Iran have agreed a temporary framework to reopen the Strait of Hormuz without transit fees. Under the proposed corridor, commercial vessels would enter the Persian Gulf via Iran-controlled routes and exit via Oman-controlled routes. Iranian officials say the arrangement is fee-free and will be presented as a temporary measure that could pave the way for a Washington‑Tehran ceasefire announcement and revival of nuclear talks; the IMO and the US are expected to join a formal announcement. Gulf Cooperation Council members have reportedly endorsed the plan. Timing has not been disclosed. US support will depend on final details; a US official said Washington only backs a temporary reopening that is unimpeded and fee‑free.
-
----
-
-### 2026-08-07 08:50:09  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Falls on Renewed Hormuz Tensions — Silver fell toward $61 an ounce on Friday, sliding for the second straight session as a flare-up in the Strait of Hormuz sent oil prices higher, reviving concerns about inflation and a near-term Federal Reserve interest rate hike. Reports indicated that Iran struck what it described as “hostile targets” in the strait following explosions near Qeshm Island. Tehran is also seeking to bar US and Israeli vessels from transiting Hormuz while requiring countries it considers hostile to pay compensation before being granted passage. Meanwhile, Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary risks, with markets anticipating a 25-basis-point hike in September. At the same time, industrial demand continued to provide underlying support for silver, with Chinese imports of silver-bearing ores surging 62.5% year-over-year in June to 219,000 tonnes.
-
----
-
-### 2026-08-07 08:49:23  #宏觀 #央行 #國際
-
-【歐洲央行在美國完成賣出歐元買入日元交易之後才得知該操作】英國《金融時報》援引多名知情人士訊息報道，歐洲央行在上週五美國完成賣出歐元、買入日元的交易之後，才獲悉美方這一操作。歐洲央行行長克里斯蒂娜・拉加德與美國財政部長斯科特・貝森特於上週六就此次干預行動進行了溝通。一位發言人表示，財政部開展本次干預所動用的外匯平準基金，該基金儲備配置相關決策，財政部不會與外國當局進行協調。報道稱，歐洲央行對此拒絕置評。
-
----
-
-### 2026-08-07 08:47:21  #MKT News #Market Regions #Greater China
-
-【Margin balances on Shanghai and Shenzhen exchanges rise CNY 11.01 bln】As of Aug 6, margin financing balances were CNY 1.3403 tln on the Shanghai Exchange, up CNY 4.888 bln from the prior trading day; CNY 1.2670 tln on the Shenzhen Exchange, up CNY 6.122 bln; combined CNY 2.6073 tln, up CNY 11.01 bln.
 
 ---
