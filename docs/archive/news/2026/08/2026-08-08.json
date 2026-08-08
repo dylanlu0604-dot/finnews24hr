@@ -1,7 +1,29 @@
 {
   "date": "2026-08-08",
-  "count": 496,
+  "count": 498,
   "items": [
+    {
+      "id": "mkt:019fdefa-8d90-7aab-8fc2-1e8f9446ae35",
+      "time": "2026-08-08 09:26:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "According to The Information, NVIDIA (NVDA.O) will invest up to $3 billion in a Blackstone-backed power company."
+    },
+    {
+      "id": "em:qqyh_mlc:202608083835792046",
+      "time": "2026-08-08 09:24:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【就業市場鬆動？非農爆冷下滑 美聯儲9月還會按下加息鍵嗎】備受矚目的非農報告意外爆冷，美國7月就業崗位出現減少，5、6月就業資料也被大幅下修，市場開始質疑美聯儲是否會在下月加息。對於美聯儲年底最終利率水平，機構的分歧也在加劇。"
+    },
     {
       "id": "mkt:019fdef4-2bd0-7aab-8fc2-106a2ef5d123",
       "time": "2026-08-08 09:19:31",
