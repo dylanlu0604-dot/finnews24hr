@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:40:38_
-_本檔包含 2820 則快訊，約 596707 字_
+_更新時間：2026-08-09 01:56:59_
+_本檔包含 2822 則快訊，約 596433 字_
+
+---
+
+### 2026-08-03 21:00:43  #MKT News #Market Regions #Japan & APAC
+
+Singapore's July electronics industry PMI rose to 52.4.
+
+---
+
+### 2026-08-03 21:00:24  #MKT News #Important #Commodities #Industrial Metals #Energy #WTI #Impact bearish #Brent
+
+At the night session open, China's main domestic futures were mixed. Shanghai zinc and soybean oil rose slightly. SC crude oil and fuel oil fell more than 3%; low-sulfur fuel oil dropped over 2%; butadiene rubber and LPG declined over 1%.
+
+---
+
+### 2026-08-03 21:00:03  #市場 #焦點
+
+純鹼連續主力合約日內跌1%，現報918.00元。
+
+---
+
+### 2026-08-03 21:00:03  #市場 #焦點
+
+燃料油連續主力合約日內跌3%，現報3405.00元。
+
+---
+
+### 2026-08-03 21:00:03  #市場
+
+【國內期貨夜盤開盤】多晶矽連續漲8.99%，紅棗連續跌5.35%，尿素連續跌3.81%，上海原油連續跌3.62%，燃料油連續跌3.43%。
+
+---
+
+### 2026-08-03 20:59:58  #國際
+
+【伊朗總統：伊方不願擴大地區緊張局勢 但將竭力捍衛國家利益】當地時間8月3日，伊朗總統佩澤希齊揚表示，伊朗不希望擴大本地區的緊張局勢與動盪，但在捍衛國家安全、國家利益和領土完整方面，伊朗將竭盡全力採取行動。（央視新聞）
+
+---
+
+### 2026-08-03 20:59:45  #其他
+
+萬豪首席財務官：預計2026年資本支出將在12.5億至13.5億美元之間，較我們此前預期有所上調；多數類別的支出預期均略有上調。
+
+---
+
+### 2026-08-03 20:58:25  #國際
+
+萬豪首席財務官：因中東地區10月進入旅遊旺季，該地區業績對歐洲、中東及非洲地區（EMEA）第四季度業績的影響將大於第三季度。
+
+---
+
+### 2026-08-03 20:58:15  #其他
+
+【陝西寶雞太洋公路發生多處山體塌方 道路封閉交通管制】8月2日，受本輪降雨影響，陝西寶雞S218太鎮線（太洋公路太白縣城至黃柏塬段）多處發生泥石流和山體塌方。太白縣交通運輸局正組織力量搶通。（央視新聞）
 
 ---
 
@@ -16987,47 +17041,5 @@ Trump: I am destroying Iran's currency; Iran faces severe inf.
 ### 2026-08-02 02:10:36  #焦點 #國際
 
 【以媒稱美接近批准襲擊伊朗能源設施】以色列第12頻道電視臺當地時間8月1日援引以色列官員的話報道稱，以色列方面評估認為，美國總統特朗普“比以往任何時候都更接近批准對伊朗發動重大軍事打擊”，但相關計劃尚未最終確定。報道稱，美方考慮對伊朗的“特定能源設施”進行“精準且受限的打擊”。評估顯示，美方目前“傾向於不讓以色列參與第一階段的最初襲擊”。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將“被迫捲入衝突並加入戰局”。目前，以色列國防機構正保持高度警惕。（CCTV國際時訊）
-
----
-
-### 2026-08-02 01:51:02  #國際
-
-市場資訊：美國官員稱，伊朗方面近日舉動極具挑釁性。
-
----
-
-### 2026-08-02 01:50:43  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-The UAE foreign ministry said Iran's aggressive attack openly violated Kuwait's sovereignty and threatened its security and stability.
-
----
-
-### 2026-08-02 01:46:54  #MKT News
-
-Former U.S. vice president Harris said Trump is an isolationist who repeatedly invokes "America First." By failing to understand America's role — imperfect though it is — he has made the U.S. a less reliable partner and driven U.S. authority in global affairs to an unprecedented low.
-
----
-
-### 2026-08-02 01:44:21  #MKT News
-
-Former U.S. vice president Kamala Harris said the Iran war is a conflict incumbent President Trump chose to enter, that he has allied with Israel in the fighting, and that it does not pose a clear U.S. national security threat.
-
----
-
-### 2026-08-02 01:44:19  #國際
-
-美國前副總統哈里斯：特朗普秉持所謂“美國優先”綱領，奉行孤立主義。他未能理解美國在世界上扮演的角色——儘管我們自身並不完美，由此造成兩大後果，一是讓美國看上去不再是可靠的合作伙伴；二是致使美國如今在全球事務上的影響力跌至歷史低點。
-
----
-
-### 2026-08-02 01:43:08  #其他
-
-【巴基斯坦雪崩致1名中國公民失聯 我使館敦促巴方全力搜救】7月30日，一支國際登山隊在喀喇崑崙山脈布洛阿特峰遭遇雪崩後失聯。8月1日，中國駐巴基斯坦大使館領僑處向總檯記者證實，該登山隊的失蹤者中包括1名中國公民。我使館表示，事件發生後，使館已啟動領事保護應急機制，與巴方有關部門保持密切聯絡，敦促其全力搜救失聯中國公民，並及時通報搜救進展。（央視新聞）
-
----
-
-### 2026-08-02 01:41:25  #國際
-
-美國前副總統哈里斯談伊朗：這場戰爭是特朗普主動選擇捲入的衝突，他與以色列聯手開戰，而我國並沒有明確的國家安全利益受到威脅。
 
 ---

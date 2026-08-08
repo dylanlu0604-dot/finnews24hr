@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:40:38_
-_本檔包含 3396 則快訊，約 596718 字_
+_更新時間：2026-08-09 01:56:59_
+_本檔包含 3400 則快訊，約 597075 字_
+
+---
+
+### 2026-08-06 00:59:23  #國際
+
+伊朗副外長：已與阿曼就幾乎所有提出的問題達成初步共識。
+
+---
+
+### 2026-08-06 00:57:50  #MKT News
+
+GFZ (German Research Centre for Geosciences) reported a 5.8 magnitude earthquake near Halmahera, Indonesia.
+
+---
+
+### 2026-08-06 00:57:09  #MKT News
+
+Zelenskiy says he is discussing with allies how to continue supplying urgently needed air defense systems to Ukraine.
+
+---
+
+### 2026-08-06 00:56:39  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's deputy foreign minister said a potential transit route through the Strait of Hormuz agreed with Oman may be operational within 2-4 months.
+
+---
+
+### 2026-08-06 00:55:27  #MKT News
+
+TASNIM News reported Yemen said Saudi Arabia must understand that the persistence and escalation of tensions are a direct result of the continued presence of the factors that produced the situation.
+
+---
+
+### 2026-08-06 00:55:11  #MKT News #Brent #Impact bullish #WTI
+
+TASNIM NEWS: Yemen said attacks on vessels in waters north of Yanbu signal that alternative routes cannot bypass a 'blockade for blockade' situation.
+
+---
+
+### 2026-08-06 00:55:05  #焦點 #國際
+
+伊朗副外長表示，伊朗與阿曼談判敲定的潛在過境航線可維持2至4個月的正常運作。
 
 ---
 
@@ -20461,23 +20503,5 @@ DDN is partnering with NVIDIA (NVDA.O) to advance GPU-driven data access technol
 ### 2026-08-04 23:01:45  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 0
 
 UK Gilt Yield Falls as Oil Prices Slide — UK 10-year gilt yields fell toward 4.9%, touching their lowest level since July 10 as oil prices tumbled on optimism that the US and Iran could reach a deal to end the conflict and reopen the Strait of Hormuz. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said an agreement could be be reached as early as Tuesday or Wednesday. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to further reduce bets on interest rate hikes in 2026. The BoE voted 6-3 to keep rates unchanged, while Governor Andrew Bailey downplayed the prospect of further tightening, saying the disinflation process remains on track.
-
----
-
-### 2026-08-04 23:01:31  #其他
-
-DDN 與英偉達展開合作，推進面向下一代人工智慧的 GPU 直啟資料訪問技術。
-
----
-
-### 2026-08-04 23:01:04  #MKT News #Important #Commodities #Precious Metals
-
-Spot palladium jumped 6.00% intraday to $1,340.17/oz.
-
----
-
-### 2026-08-04 23:00:52  #MKT News #Important #Commodities #Energy
-
-By the 23:00 close, China’s front-month futures were mostly lower: monoethylene glycol (EG) fell more than 5%, bottle-grade PET chips and propylene dropped over 3%, LPG and low-sulfur fuel oil (LU) slipped nearly 3%, and benzene, polypropylene and fuel oil were down more than 2%. Coking coal was the exception, rising just over 1%.
 
 ---

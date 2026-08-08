@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:40:38_
-_本檔包含 3162 則快訊，約 596364 字_
+_更新時間：2026-08-09 01:56:59_
+_本檔包含 3158 則快訊，約 596596 字_
+
+---
+
+### 2026-08-07 10:00:27  #國際
+
+【我國牽頭修訂的黑色金屬材料熱處理基礎領域國際標準釋出】國際標準化組織近日釋出由我國牽頭修訂的熱處理基礎國際標準《黑色金屬材料—熱處理—術語》。該標準由我國專家擔任工作組召集人和專案負責人，德國、日本、芬蘭、法國、義大利等多國專家共同參與，這是我國在黑色金屬材料熱處理基礎領域牽頭修訂的首項國際標準。
+
+---
+
+### 2026-08-07 09:58:57  #市場
+
+【創新藥概念持續走高 哈三聯、百花醫藥等漲停】創新藥概念持續走高，截至發稿，哈三聯、百花醫藥等漲停，譽衡藥業、隴神戎發、立方製藥等跟漲。
+
+---
+
+### 2026-08-07 09:58:10  #MKT News
+
+【Zijin says its Congo copper products not covered by reported DRC concentrate export ban】Aug 7 — Market reports said the Democratic Republic of Congo issued an administrative order banning exports of copper and cobalt concentrates. Zijin Mining said its Kolwezi unit produces crude and electrolytic (cathode) copper and Kamoa-Kakula produces anode plates and crude copper, which are not covered by the reported ban. Separately, Hanrui Cobalt said the DRC had previously tightened concentrate exports and that the measures do not affect the company; its Congo copper is electrolytic copper processed and sold locally, and any ban that lifts copper prices would likely benefit its product realizations. Hanrui added its cobalt is initially processed into cobalt hydroxide before shipment to China.
 
 ---
 
@@ -19051,47 +19069,5 @@ Iran's deputy foreign minister said talks with the United States are taking plac
 ### 2026-08-06 01:00:02  #市場
 
 【夜盤期貨收盤】國際銅夜盤收漲0.66%，滬銅收漲0.56%，滬鋁收漲0.29%，滬鋅收漲1.60%，滬鉛收平，滬鎳收跌0.17%，滬錫收漲1.70%。氧化鋁夜盤收漲2.56%，鋁合金收漲0.13%。不鏽鋼夜盤收跌0.72%。
-
----
-
-### 2026-08-06 00:59:23  #國際
-
-伊朗副外長：已與阿曼就幾乎所有提出的問題達成初步共識。
-
----
-
-### 2026-08-06 00:57:50  #MKT News
-
-GFZ (German Research Centre for Geosciences) reported a 5.8 magnitude earthquake near Halmahera, Indonesia.
-
----
-
-### 2026-08-06 00:57:09  #MKT News
-
-Zelenskiy says he is discussing with allies how to continue supplying urgently needed air defense systems to Ukraine.
-
----
-
-### 2026-08-06 00:56:39  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iran's deputy foreign minister said a potential transit route through the Strait of Hormuz agreed with Oman may be operational within 2-4 months.
-
----
-
-### 2026-08-06 00:55:27  #MKT News
-
-TASNIM News reported Yemen said Saudi Arabia must understand that the persistence and escalation of tensions are a direct result of the continued presence of the factors that produced the situation.
-
----
-
-### 2026-08-06 00:55:11  #MKT News #Brent #Impact bullish #WTI
-
-TASNIM NEWS: Yemen said attacks on vessels in waters north of Yanbu signal that alternative routes cannot bypass a 'blockade for blockade' situation.
-
----
-
-### 2026-08-06 00:55:05  #焦點 #國際
-
-伊朗副外長表示，伊朗與阿曼談判敲定的潛在過境航線可維持2至4個月的正常運作。
 
 ---

@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:40:38_
-_本檔包含 3145 則快訊，約 597076 字_
+_更新時間：2026-08-09 01:56:59_
+_本檔包含 3147 則快訊，約 596673 字_
+
+---
+
+### 2026-08-09 01:48:50  #其他
+
+【中國代表隊首次參加國際核科學奧賽 獲一金三銀】2026年國際核科學奧林匹克競賽8日晚在沙烏地阿拉伯西部城市吉達閉幕，中國代表隊首次參賽，4名選手獲得一金三銀，總成績居參賽國家前列。（新華社）
+
+---
+
+### 2026-08-09 01:47:53  #其他
+
+【秘魯庫斯科一客車與一卡車相撞 致9死6傷】當地時間8月8日凌晨，秘魯庫斯科大區埃斯皮納爾省帕爾帕塔區發生一起嚴重交通事故。一輛載客小型客車與一輛半掛式卡車發生猛烈碰撞，造成至少9人死亡、6人受傷。（央視新聞）
+
+---
+
+### 2026-08-09 01:43:46  #MKT News
+
+Turkey's foreign minister said Egypt may join a defense pact once certain technical issues are resolved.
+
+---
+
+### 2026-08-09 01:42:51  #國際
+
+土耳其外交部長：埃及或可在特定技術問題得到解決後加入該防務協議。
+
+---
+
+### 2026-08-09 01:40:24  #MKT News
+
+【Vucic meets Zelenskiy; agree to deepen economic and trade cooperation】On the 8th (local time), Serbian President Vucic met Ukrainian President Zelenskiy; they agreed to deepen economic and trade cooperation and to expand cooperation on infrastructure and humanitarian aid.
 
 ---
 
@@ -18927,23 +18957,5 @@ Australian Dollar Set for Muted Week — The Australian dollar fell to around $0
 ### 2026-08-07 10:00:55  #其他
 
 【北京啟動防汛四級應急響應】北京市防汛辦：北京市8月7日9時釋出暴雨藍色預警訊號，並啟動防汛四級應急響應。
-
----
-
-### 2026-08-07 10:00:27  #國際
-
-【我國牽頭修訂的黑色金屬材料熱處理基礎領域國際標準釋出】國際標準化組織近日釋出由我國牽頭修訂的熱處理基礎國際標準《黑色金屬材料—熱處理—術語》。該標準由我國專家擔任工作組召集人和專案負責人，德國、日本、芬蘭、法國、義大利等多國專家共同參與，這是我國在黑色金屬材料熱處理基礎領域牽頭修訂的首項國際標準。
-
----
-
-### 2026-08-07 09:58:57  #市場
-
-【創新藥概念持續走高 哈三聯、百花醫藥等漲停】創新藥概念持續走高，截至發稿，哈三聯、百花醫藥等漲停，譽衡藥業、隴神戎發、立方製藥等跟漲。
-
----
-
-### 2026-08-07 09:58:10  #MKT News
-
-【Zijin says its Congo copper products not covered by reported DRC concentrate export ban】Aug 7 — Market reports said the Democratic Republic of Congo issued an administrative order banning exports of copper and cobalt concentrates. Zijin Mining said its Kolwezi unit produces crude and electrolytic (cathode) copper and Kamoa-Kakula produces anode plates and crude copper, which are not covered by the reported ban. Separately, Hanrui Cobalt said the DRC had previously tightened concentrate exports and that the measures do not affect the company; its Congo copper is electrolytic copper processed and sold locally, and any ban that lifts copper prices would likely benefit its product realizations. Hanrui added its cobalt is initially processed into cobalt hydroxide before shipment to China.
 
 ---

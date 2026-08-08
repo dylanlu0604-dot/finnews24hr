@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:40:38_
-_本檔包含 3339 則快訊，約 596672 字_
+_更新時間：2026-08-09 01:56:59_
+_本檔包含 3333 則快訊，約 596348 字_
+
+---
+
+### 2026-08-04 23:01:31  #其他
+
+DDN 與英偉達展開合作，推進面向下一代人工智慧的 GPU 直啟資料訪問技術。
+
+---
+
+### 2026-08-04 23:01:04  #MKT News #Important #Commodities #Precious Metals
+
+Spot palladium jumped 6.00% intraday to $1,340.17/oz.
+
+---
+
+### 2026-08-04 23:00:52  #MKT News #Important #Commodities #Energy
+
+By the 23:00 close, China’s front-month futures were mostly lower: monoethylene glycol (EG) fell more than 5%, bottle-grade PET chips and propylene dropped over 3%, LPG and low-sulfur fuel oil (LU) slipped nearly 3%, and benzene, polypropylene and fuel oil were down more than 2%. Coking coal was the exception, rising just over 1%.
 
 ---
 
@@ -20053,59 +20071,5 @@ WTI原油日內跌7%，現報78.73美元/桶。
 ### 2026-08-03 21:01:30  #其他
 
 【《積體電路布圖設計審查與執法指南修改草案（徵求意見稿）》公開徵求意見】記者今天（3日）瞭解到，為推動完善積體電路布圖設計保護制度，緊密配合銜接《積體電路布圖設計保護條例》（以下簡稱《條例》）《積體電路布圖設計保護條例實施細則》（以下簡稱《細則》）修改程序，國家智慧財產權局研究起草了《積體電路布圖設計審查與執法指南修改草案（徵求意見稿）》，現予以公佈並徵求社會各界意見，徵求意見截止日期為2026年9月3日。（央視新聞）
-
----
-
-### 2026-08-03 21:00:43  #MKT News #Market Regions #Japan & APAC
-
-Singapore's July electronics industry PMI rose to 52.4.
-
----
-
-### 2026-08-03 21:00:24  #MKT News #Important #Commodities #Industrial Metals #Energy #WTI #Impact bearish #Brent
-
-At the night session open, China's main domestic futures were mixed. Shanghai zinc and soybean oil rose slightly. SC crude oil and fuel oil fell more than 3%; low-sulfur fuel oil dropped over 2%; butadiene rubber and LPG declined over 1%.
-
----
-
-### 2026-08-03 21:00:03  #市場 #焦點
-
-純鹼連續主力合約日內跌1%，現報918.00元。
-
----
-
-### 2026-08-03 21:00:03  #市場 #焦點
-
-燃料油連續主力合約日內跌3%，現報3405.00元。
-
----
-
-### 2026-08-03 21:00:03  #市場
-
-【國內期貨夜盤開盤】多晶矽連續漲8.99%，紅棗連續跌5.35%，尿素連續跌3.81%，上海原油連續跌3.62%，燃料油連續跌3.43%。
-
----
-
-### 2026-08-03 20:59:58  #國際
-
-【伊朗總統：伊方不願擴大地區緊張局勢 但將竭力捍衛國家利益】當地時間8月3日，伊朗總統佩澤希齊揚表示，伊朗不希望擴大本地區的緊張局勢與動盪，但在捍衛國家安全、國家利益和領土完整方面，伊朗將竭盡全力採取行動。（央視新聞）
-
----
-
-### 2026-08-03 20:59:45  #其他
-
-萬豪首席財務官：預計2026年資本支出將在12.5億至13.5億美元之間，較我們此前預期有所上調；多數類別的支出預期均略有上調。
-
----
-
-### 2026-08-03 20:58:25  #國際
-
-萬豪首席財務官：因中東地區10月進入旅遊旺季，該地區業績對歐洲、中東及非洲地區（EMEA）第四季度業績的影響將大於第三季度。
-
----
-
-### 2026-08-03 20:58:15  #其他
-
-【陝西寶雞太洋公路發生多處山體塌方 道路封閉交通管制】8月2日，受本輪降雨影響，陝西寶雞S218太鎮線（太洋公路太白縣城至黃柏塬段）多處發生泥石流和山體塌方。太白縣交通運輸局正組織力量搶通。（央視新聞）
 
 ---
