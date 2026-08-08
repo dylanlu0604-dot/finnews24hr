@@ -1,7 +1,35 @@
 {
   "date": "2026-08-08",
-  "count": 616,
+  "count": 619,
   "items": [
+    {
+      "id": "5031851",
+      "time": "2026-08-08 15:38:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“白海豚”影響 上海輪渡全線停航】8月8日，記者從上海輪渡獲悉，因受今年第13號颱風“白海豚”影響，截至13時58分，上海輪渡已全線停航。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe04e-e0ec-7aab-8fc3-0912955c04ba",
+      "time": "2026-08-08 15:38:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Interfax reported Russia said drones struck a vessel carrying weapons bound for Ukrainian forces east of Odesa."
+    },
+    {
+      "id": "5031850",
+      "time": "2026-08-08 15:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱一架無人機擊中一艘載有供烏克蘭軍方使用的武器的船隻，該船隻位於敖德薩以東海域。"
+    },
     {
       "id": "5031849",
       "time": "2026-08-08 15:32:18",
