@@ -1,7 +1,65 @@
 {
   "date": "2026-08-08",
-  "count": 471,
+  "count": 478,
   "items": [
+    {
+      "id": "mkt:019fded2-b947-7aab-8fc1-efa11f3f1ecf",
+      "time": "2026-08-08 08:42:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peru, Mexico restore diplomatic relations】Peru's Foreign Ministry on the 7th issued a joint communique with the Mexican government announcing the restoration of diplomatic relations."
+    },
+    {
+      "id": "5031745",
+      "time": "2026-08-08 08:41:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東健康：上半年首發65款新藥 已佈局近10萬個鄉鎮及村級服務站點】8月8日，記者從京東健康獲悉，2026年上半年，京東健康累計首發65款新藥，覆蓋腫瘤、皮膚、慢病等領域。截至目前，京東健康使用者中三線及以下城市佔比超65%，在全國佈局近10萬個鄉鎮及村級服務站點，縣域當日達或次日達覆蓋率達87.1%。（人民財訊）"
+    },
+    {
+      "id": "5031744",
+      "time": "2026-08-08 08:40:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月7日上海出口集裝箱綜合運價指數為3276.14點 較上期上漲2.2%】據上海航運交易研究所（籌），本週，中國出口集裝箱運輸市場保持穩定，多數遠洋航線市場運價上漲，帶動綜合指數上行。據海關總署最新公佈的資料顯示，以美元計價，中國7月出口同比增加23.9%，增速繼續保持高位，出口的強勁表現對中國出口集運市場平穩發展起到長期的支撐作用。8月7日，上海航運交易研究所（籌）釋出的上海出口集裝箱綜合運價指數為3276.14點，較上期上漲2.2%。"
+    },
+    {
+      "id": "5031743",
+      "time": "2026-08-08 08:39:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤跌破82美元，日內跌超2.2%。"
+    },
+    {
+      "id": "mkt:019fdecf-043e-7aab-8fc1-e7ae6e45f3f3",
+      "time": "2026-08-08 08:38:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kyiv mayor said fires broke out in two districts of the city."
+    },
+    {
+      "id": "5031742",
+      "time": "2026-08-08 08:38:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：美國正與國會協作，擬宣佈向哥倫比亞提供10億美元援助，作為一攬子安全計劃的一部分。"
+    },
+    {
+      "id": "mkt:019fdecd-f8b1-7aab-8fc1-dd50e525a7d8",
+      "time": "2026-08-08 08:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department said the U.S., in coordination with Congress, plans to announce $1 billion in security assistance to Colombia."
+    },
     {
       "id": "5031741",
       "time": "2026-08-08 08:32:02",
