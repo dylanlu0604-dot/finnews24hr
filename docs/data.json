@@ -1,7 +1,64 @@
 {
-  "updated": "2026-08-08 09:08:33",
-  "count": 15956,
+  "updated": "2026-08-08 09:12:21",
+  "count": 15962,
   "items": [
+    {
+      "id": "mkt:019fdeed-1174-7aab-8fc1-fd0b3e72d7c6",
+      "time": "2026-08-08 09:11:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. official: Ukraine agrees to avoid attacks on non‑Russian tankers and Black Sea oil infrastructure】A U.S. official said Ukraine has agreed not to target certain non‑Russian‑flagged tankers or Black Sea oil infrastructure vital to Kazakhstan's crude exports. The official said last month’s attacks had disrupted loading; regional activity fell sharply after strikes near the Caspian Pipeline Consortium terminal at Novorossiysk. Ukraine has set up a liaison for commercial shippers to share information and help ensure safe transit. The commitment, reached after meetings between senior U.S. and Ukrainian officials, could pave the way for higher regional oil flows."
+    },
+    {
+      "id": "mkt:019fdeec-a505-7aab-8fc1-f3f5475e0385",
+      "time": "2026-08-08 09:11:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Crude ETF holdings report officially launched; WTI (USO) +3.626 mln barrels, Brent (BNO) +2,000 barrels on Aug 7】Aug 7 — Official crude ETF holdings report: WTI (USO) nominal exposure about 25.657 mln barrels, rising 3.626 mln barrels on the day. Brent (BNO) futures holdings about 7.231 mln barrels, up roughly 2,000 barrels."
+    },
+    {
+      "id": "5031756",
+      "time": "2026-08-08 09:10:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇省政府與華為簽署深化戰略合作協議】據微訊江蘇訊息，8月6日，江蘇省政府與華為技術有限公司在南京簽署深化戰略合作協議。根據協議，雙方將協同推進人工智慧公共算力中心、城市公共雲、資料基礎設施、人工智慧賦能科學研究及社會治理等重點領域建設，並在鴻蒙PC產業和國產化計算產業創新、開源鴻蒙產業和生態構建、數智專業人才培育等方面深化合作，共同打造“人工智慧+”創新策源地與產業新高地。"
+    },
+    {
+      "id": "5031755",
+      "time": "2026-08-08 09:09:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑龍江2026年第1號洪水洪峰預計今晚抵達同江站】從黑龍江省水文水資源中心瞭解到，松花江2026年第1號洪水洪峰已透過同江段匯入黑龍江。受松花江來水頂託和上游來水雙重影響，黑龍江2026年第1號洪水洪峰預計今晚（8日）抵達黑龍江干流同江站，同江市已啟動防汛三級應急響應。目前，防汛物資已全部前置到堤防一線，搶險力量24小時值班值守，全力防範應對。"
+    },
+    {
+      "id": "5031754",
+      "time": "2026-08-08 09:08:58",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普再度尋求解僱美聯儲理事庫克】美國總統特朗普再次推動解僱美聯儲理事莉薩·庫克。白宮本週致信庫克稱，特朗普“正在考慮”解除其職務，並要求她在三週內回應有關抵押貸款欺詐的指控。庫克的律師稱相關指控“毫無依據”。白宮副幕僚長丹·斯卡維諾簽署的信件稱，庫克涉嫌可能面臨最高30年監禁的犯罪行為，其相關行為構成失職，並影響其擔任美聯儲理事的可信度。庫克律師表示，不存在解除其職務的合法理由，並將繼續挑戰這一舉動。特朗普去年曾以抵押貸款欺詐指控為由試圖解僱庫克。美國最高法院今年6月裁定暫不允許特朗普解除庫克職務，認為庫克在被解職前應獲得法律規定的程式保障。"
+    },
+    {
+      "id": "5031753",
+      "time": "2026-08-08 09:08:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受颱風“白海豚”影響 日本超5萬使用者停電】據日本氣象廳訊息，受今年第13號颱風“白海豚”影響，截至8日，該國已有超5萬使用者停電。據日本九州電力公司訊息，受颱風影響，截至8日6時，奄美地區約有4.2萬使用者停電。另據沖繩電力公司訊息，截至8日上午5時，沖繩地區共有超過13000使用者停電。"
+    },
     {
       "id": "5031752",
       "time": "2026-08-08 09:04:03",
