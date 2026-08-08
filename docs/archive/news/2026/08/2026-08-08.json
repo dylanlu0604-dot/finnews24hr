@@ -1,7 +1,19 @@
 {
   "date": "2026-08-08",
-  "count": 740,
+  "count": 741,
   "items": [
+    {
+      "id": "mkt:019fe132-04c2-7aab-8fc3-e2d562980ec2",
+      "time": "2026-08-08 19:46:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: Recent Houthi strike raises risk of wider Yemen war】Elisabeth Kendall, head of Girton College, Cambridge and Middle East expert, said Thursday’s Houthi missile and drone strike on government military targets in Yemen — the first of its kind in years — killed at least 30 government soldiers and wounded 15 and is likely to push the conflict into a wider war. She said the 2022 ceasefire has effectively expired, recent troop movements and clashes show all warning signs of escalation, and that the internationally recognized government’s forces are more unified after January’s fighting and subsequent integration efforts."
+    },
     {
       "id": "5031947",
       "time": "2026-08-08 19:39:58",
