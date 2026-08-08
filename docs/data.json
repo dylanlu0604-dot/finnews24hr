@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-08 14:41:27",
-  "count": 15881,
+  "updated": "2026-08-08 14:47:53",
+  "count": 15879,
   "items": [
+    {
+      "id": "mkt:019fe01e-da58-7aab-8fc2-f63d24921d49",
+      "time": "2026-08-08 14:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: US Joint Chiefs chair seeking way out of war with Iran】Sources said Dan Kane, chairman of the US Joint Chiefs of Staff, has privately told senior Trump advisers in recent weeks the US needs to find a way out of a war with Iran because military options on the table could backfire and airpower alone is unlikely to achieve Trump’s objectives. Three people familiar with the matter said Kane discussed escalation options and potential exit paths with senior officials including Vice President Vance, Secretary of State Rubio and CIA Director Ratcliffe, and met with like-minded Trump advisers to build consensus before briefing the president. In a recent meeting with Trump, Kane flagged concern about shrinking US munitions stocks and discussed possible escalation options."
+    },
+    {
+      "id": "5031837",
+      "time": "2026-08-08 14:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯克拉斯諾達爾邊疆區伊爾斯基煉油廠遭無人機襲擊後起火，造成五人受傷。"
+    },
+    {
+      "id": "5031836",
+      "time": "2026-08-08 14:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：美軍高層尋找擺脫伊朗戰事的途徑】美國方面7日援引訊息人士的話稱，美軍參謀長聯席會議主席丹·凱恩在尋找擺脫伊朗戰事的途徑。訊息稱，三位知情人士透露，過去幾周，美軍參謀長聯席會議主席丹·凱恩私下向特朗普的其他高階顧問明確表示，美國需要找到一條擺脫伊朗戰事的途徑，因為擺在桌面上的軍事選項可能會適得其反，而且僅靠空中力量不太可能實現特朗普的目標。訊息人士透露，丹·凱恩曾與其他政府要員，包括副總統萬斯、國務卿魯比奧和中央情報局局長拉特克利夫討論過升級衝突的軍事選項，並提出了尋求結束戰事的途徑。丹·凱恩最近還與幾位理念相近的特朗普顧問私下會面，確保他們在與總統會晤前達成共識。此外，訊息還提到，丹·凱恩在近期與特朗普的會晤中，對美國日益減少的軍火儲備表示擔憂，雙方還討論了升級衝突的潛在選項。（央視新聞）"
+    },
     {
       "id": "5031835",
       "time": "2026-08-08 14:35:06",
@@ -144679,47 +144703,6 @@
         "Brent"
       ],
       "text": "【Moscow source says Russia remains open to talks with Ukraine】State media cited a Moscow source saying Russia is prepared to negotiate with Ukraine and has repeatedly signaled openness. The source said Ukraine interrupted and even prohibited talks, and that Moscow has not rejected constructive proposals on forms of engagement."
-    },
-    {
-      "id": "5020272",
-      "time": "2026-08-01 14:47:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【超強厄爾尼諾事件正在形成 或為150年來最強一次】記者從中國氣象局瞭解到，目前太平洋上持續增強的厄爾尼諾氣候現象，或將成為150年來最強的一次。根據中國氣象局國家氣候中心監測顯示，赤道中東太平洋於5月達到厄爾尼諾狀態的標準，且6月赤道中東太平洋海溫持續增暖，7月開始已經進入強厄爾尼諾事件的監測行列，發生超強厄爾尼諾事件的機率在增大。預計本次事件至少持續到明年春季，整體持續時間接近歷史上厄爾尼諾事件的平均長度——10至11個月。（央視新聞）"
-    },
-    {
-      "id": "5020271",
-      "time": "2026-08-01 14:46:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國稀土集團與中國有研科技集團舉行工作會談】據中國稀土集團訊息，近日，中國稀土集團黨委書記、董事長劉雷雲在總部會見中國有研科技集團黨委副書記、總經理艾磊一行，雙方圍繞稀土金屬產業協同發展、原創技術策源地共建、稀土中試平臺搭建等核心領域進行深入交流，並就推進常態化合作達成共識。"
-    },
-    {
-      "id": "5020270",
-      "time": "2026-08-01 14:43:53",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【驍龍攜第二代智慧指環亮相2026 ChinaJoy】2026 ChinaJoy展會現場，驍龍主題館帶來了第二代智慧指環的首秀。新浪科技在現場看到，透過搭載驍龍平臺的AR眼鏡、智慧指環與驍龍PC組成的跨終端體驗系統，玩家在佩戴AR眼睛和智慧手環後，透過手勢召喚、動作控制與自然語音交流等方式，和AI小熊貓互動。（新浪科技）"
-    },
-    {
-      "id": "mkt:019fbc10-9ff3-7aab-8f40-6b0325a8fb14",
-      "time": "2026-08-01 14:43:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Three agencies allocate 11,000 central relief items to Jilin and Heilongjiang】Aug 1 — The Office of the National Disaster Reduction and Relief Commission and the Ministry of Emergency Management sent teams to Jilin and Heilongjiang to assess recent rain- and flood-related damage and assist local rescue operations. In coordination with the State Grain and Material Reserves Administration, they allocated 11,000 central relief items — blankets, bedding and household emergency kits — to support resettlement and aid for affected residents."
-    },
-    {
-      "id": "5020269",
-      "time": "2026-08-01 14:43:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三部門調撥1.1萬件中央救災物資支援吉林、黑龍江救災救助工作】8月1日，國家防災減災救災委員會辦公室、應急管理部針對吉林、黑龍江等地近期暴雨洪澇災害情況，派出工作組赴兩省實地檢視災情，協助和指導地方做好救災工作。根據災區救災救助工作需要，會同國家糧食和物資儲備局向吉林、黑龍江調撥毛毯、被褥、家庭應急包等1.1萬件中央救災物資，支援地方妥善做好受災群眾安置救助工作。（央視新聞）"
     }
   ]
 }

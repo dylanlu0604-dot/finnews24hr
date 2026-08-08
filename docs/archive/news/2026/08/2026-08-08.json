@@ -1,7 +1,31 @@
 {
   "date": "2026-08-08",
-  "count": 600,
+  "count": 603,
   "items": [
+    {
+      "id": "mkt:019fe01e-da58-7aab-8fc2-f63d24921d49",
+      "time": "2026-08-08 14:45:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: US Joint Chiefs chair seeking way out of war with Iran】Sources said Dan Kane, chairman of the US Joint Chiefs of Staff, has privately told senior Trump advisers in recent weeks the US needs to find a way out of a war with Iran because military options on the table could backfire and airpower alone is unlikely to achieve Trump’s objectives. Three people familiar with the matter said Kane discussed escalation options and potential exit paths with senior officials including Vice President Vance, Secretary of State Rubio and CIA Director Ratcliffe, and met with like-minded Trump advisers to build consensus before briefing the president. In a recent meeting with Trump, Kane flagged concern about shrinking US munitions stocks and discussed possible escalation options."
+    },
+    {
+      "id": "5031837",
+      "time": "2026-08-08 14:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯克拉斯諾達爾邊疆區伊爾斯基煉油廠遭無人機襲擊後起火，造成五人受傷。"
+    },
+    {
+      "id": "5031836",
+      "time": "2026-08-08 14:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【訊息人士：美軍高層尋找擺脫伊朗戰事的途徑】美國方面7日援引訊息人士的話稱，美軍參謀長聯席會議主席丹·凱恩在尋找擺脫伊朗戰事的途徑。訊息稱，三位知情人士透露，過去幾周，美軍參謀長聯席會議主席丹·凱恩私下向特朗普的其他高階顧問明確表示，美國需要找到一條擺脫伊朗戰事的途徑，因為擺在桌面上的軍事選項可能會適得其反，而且僅靠空中力量不太可能實現特朗普的目標。訊息人士透露，丹·凱恩曾與其他政府要員，包括副總統萬斯、國務卿魯比奧和中央情報局局長拉特克利夫討論過升級衝突的軍事選項，並提出了尋求結束戰事的途徑。丹·凱恩最近還與幾位理念相近的特朗普顧問私下會面，確保他們在與總統會晤前達成共識。此外，訊息還提到，丹·凱恩在近期與特朗普的會晤中，對美國日益減少的軍火儲備表示擔憂，雙方還討論了升級衝突的潛在選項。（央視新聞）"
+    },
     {
       "id": "5031835",
       "time": "2026-08-08 14:35:06",
