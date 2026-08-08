@@ -1,7 +1,20 @@
 {
   "date": "2026-08-08",
-  "count": 545,
+  "count": 546,
   "items": [
+    {
+      "id": "mkt:019fdf5a-1890-7aab-8fc2-6b50bbf9fa77",
+      "time": "2026-08-08 11:10:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Deutsche Bank expects US July CPI +0.15% MoM】Key datapoints next week: Wednesday US July CPI, Thursday PPI. Deutsche Bank US economists forecast headline CPI +0.15% MoM (June -0.42%); core CPI +0.26% MoM (unchanged from June). For PPI they forecast headline PPI +0.22% MoM (prior +0.13%)."
+    },
     {
       "id": "5031796",
       "time": "2026-08-08 11:06:51",
