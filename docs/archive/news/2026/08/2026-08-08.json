@@ -1,7 +1,19 @@
 {
   "date": "2026-08-08",
-  "count": 777,
+  "count": 778,
   "items": [
+    {
+      "id": "mkt:019fe164-d3e1-7aab-8fc4-675aae8b6b52",
+      "time": "2026-08-08 20:41:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi media Hadas reports Iran's president said decisions to stop or continue the war rest with Iran's military leaders."
+    },
     {
       "id": "5031978",
       "time": "2026-08-08 20:35:58",
