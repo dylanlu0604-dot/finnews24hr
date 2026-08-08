@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 17:48:15_
-_本檔包含 3219 則快訊，約 595749 字_
+_更新時間：2026-08-08 18:44:42_
+_本檔包含 3208 則快訊，約 595962 字_
+
+---
+
+### 2026-08-07 08:47:05  #其他
+
+【兩市融資餘額增加110.1億元】截至8月6日，上交所融資餘額報13402.77億元，較前一交易日增加48.88億元；深交所融資餘額報12669.93億元，較前一交易日增加61.22億元；兩市合計26072.7億元，較前一交易日增加110.1億元。
+
+---
+
+### 2026-08-07 08:46:20  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Slip on Tech Weakness — The Nikkei 225 Index fell 0.5% to around 65,400 on Friday, extending losses from the previous session as technology stocks slumped for a second day amid persistent concerns about the artificial intelligence trade. Broader market sentiment was also weighed down by a rebound in oil prices following renewed tensions in the Strait of Hormuz, raising fresh uncertainty over efforts to fully reopen the key shipping route. Meanwhile, domestic data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and highlighting continued softness in consumer demand. In corporate news, SoftBank Group tumbled 6% despite reporting stronger-than-expected earnings, as investors remained cautious over the company’s aggressive AI investments. Meanwhile, Nintendo gained 4% after posting solid results, supported by US tariff refunds and strong sales of two first-party titles for its flagship Switch 2 console.
+
+---
+
+### 2026-08-07 08:45:36  #其他
+
+中航易商倉儲物流封閉式基礎設施證券投資基金在上海暫停交易。
+
+---
+
+### 2026-08-07 08:45:36  #央行 #歐洲央行
+
+據報道，歐洲央行是在上週五美國拋售歐元買入日元的交易完成後才獲悉美國這一操作的。歐洲央行行長拉加德和美國財長貝森特上週六就干預行動通話。
+
+---
+
+### 2026-08-07 08:45:10  #公司
+
+【海看股份：目前公司短劇業務重心聚焦國內市場】海看股份(301262)8月7日在互動平臺表示，公司短劇業務已構建“投資+製作+發行”全產業鏈生態佈局，依託北方微短劇影視基地，開展基地運營、投資出品、內容承製等多元服務，其中包括為出海短劇劇組及出海短劇專案提供拍攝與製作支援。目前，公司短劇業務重心聚焦國內市場。
+
+---
+
+### 2026-08-07 08:44:55  #公司
+
+中國通天酒業集團有限公司在香港暫停交易。
+
+---
+
+### 2026-08-07 08:44:46  #宏觀
+
+【經濟日報金觀平：塑造新興支柱產業競爭新優勢】7月30日召開的中央政治局會議強調，積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業。近期召開的國務院常務會議也提出，要全鏈條推動新興支柱產業規模化發展。 今年是“十五五”開局之年，持續夯實新興支柱產業的發展底座，對於加快構建現代化產業體系、培育壯大新質生產力至關重要。新徵程上，要錨定高質量發展這一首要任務，積極推動新興產業從“點狀突破”向“叢集躍升”、從“技術示範”向“規模支撐”全面升級，以更大力度塑造新優勢、更實舉措積蓄新動能。
+
+---
+
+### 2026-08-07 08:43:57  #其他
+
+日經新聞稱，本田已將部分汽車平臺開發業務外包給塔塔科技。
+
+---
+
+### 2026-08-07 08:43:33  #市場 #央行 #國際
+
+【日元回吐近半乾預漲幅 美日或面臨第二輪保衛戰】日元在本週末前已回吐近一半由美日聯合干預帶來的漲幅，市場對當局再次出手干預匯市的猜測隨之升溫。週五上午，日元兌美元匯率報158.45附近，較週一觸及的155.23強勢位置明顯走弱。就在上週日本與美國自1998年以來首次聯合買入日元之前，美元兌日元一度逼近164，接近四十年來極端水平。“再次干預的可能性很高，尤其是在美元兌日元接近160之際，”華僑銀行策略師Moh Siong Sim表示。不過他也指出：“若要讓干預取得效果，還需要日本央行加快加息步伐，或者出現有利於美聯儲放鬆貨幣政策的環境。”
+
+---
+
+### 2026-08-07 08:42:32  #其他
+
+【北京熱到電網負荷破紀錄】受連日高溫高溼天氣等多種因素影響，北京地區“桑拿模式”持續開啟，北京電網負荷節節攀升。8月6日12時03分，北京電網最大負荷達到2939.9萬千瓦，創歷史新高。其中，空調等降溫負荷增長明顯，佔比達到45.58%。（央視財經）
+
+---
+
+### 2026-08-07 08:40:41  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #USDJPY
+
+Financial Times reports US authorities sold euros late last week to support the yen in a currency intervention that caught the ECB off guard; Washington notified the ECB only after the operation.
+
+---
+
+### 2026-08-07 08:40:29  #央行 #國際
+
+據英國金融時報報道，歐洲央行是在上週五美國拋售歐元兌換日元的交易完成後才獲悉美國這一操作的。歐洲央行行長拉加德和美國財長貝森特週六談到了干預行動。
+
+---
+
+### 2026-08-07 08:38:54  #MKT News #Market Regions #Greater China
+
+Shenzhen Stock Exchange added Jinghe Integration to the list of securities eligible for Hong Kong Stock Connect, effective Aug 7.
+
+---
+
+### 2026-08-07 08:38:25  #公司
+
+深交所公告，港股通標的證券名單調入晶合整合，自2026年08月07日起生效。
+
+---
+
+### 2026-08-07 08:38:22  #央行 #國際
+
+據英國金融時報，歐洲央行僅在交易完成後才得知美國拋售歐元買入日元。
+
+---
+
+### 2026-08-07 08:34:05  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies Amid Hormuz Tensions — Gold held above $4,200 an ounce on Friday, pausing a recent rally as renewed tensions in the Strait of Hormuz pushed oil prices higher, reigniting concerns about inflation and the prospect of a near-term Federal Reserve interest rate hike. Reports indicated that Iran struck what it described as “hostile targets” in the strait following explosions near Qeshm Island. Tehran is also seeking to bar US and Israeli vessels from transiting Hormuz while requiring countries it considers hostile to pay compensation before being allowed passage. Meanwhile, Fed officials have increasingly signaled they are prepared to raise interest rates soon amid rising inflationary risks, with markets pricing in a 25-basis-point hike in September. Separately, data from clearing institutions showed that institutional investors in China continued to build long positions in gold-backed assets as a hedge against volatility in technology stocks, bolstered by central bank buying.
+
+---
+
+### 2026-08-07 08:33:37  #MKT News
+
+【Sources: Two Mossad senior officials dismissed after secret Iran operation plan failed】On the 6th, Israeli sources said Mossad dismissed two senior officials after a secret operation plan targeting Iran failed to be implemented. The officials were the agency’s intelligence chief and the head of Iran affairs; they were identified as the plan’s principal architects and core leaders. The plot sought to undermine Iran’s current leadership by leveraging domestic ethnic minorities and to promote alternative Iranian figures, but it ran into setbacks and was not carried out.
+
+---
+
+### 2026-08-07 08:33:35  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Japan 10-year government bond yield rose 2 bps to 2.780%.
+
+---
+
+### 2026-08-07 08:33:01  #市場 #國際
+
+日本10年期國債收益率上升2.0個基點，至2.780%。
+
+---
+
+### 2026-08-07 08:32:54  #公司 #市場
+
+富士膠片股價下跌18%；因公司正在考慮分拆部分業務。
+
+---
+
+### 2026-08-07 08:31:33  #MKT News #Important #000660.KS #Impact bearish
+
+South Korea's KOSPI turned negative intraday after an early 1.8% gain; SK Hynix fell nearly 1%.
+
+---
+
+### 2026-08-07 08:30:18  #公司 #國際
+
+【力拓和必和必拓據稱受邀參加特朗普的關鍵礦產會議】白宮已邀請美國關鍵礦產行業的頂級高管週五與總統唐納德·特朗普會面。據知情人士透露，此次活動旨在展示為促進關鍵礦產開發和加工所做的努力，並計劃公佈一些交易和諒解備忘錄。他們說，受邀參加會議的人員包括來自行業巨頭的代表，如力拓集團、必和必拓集團和Freeport-McMoRan Inc.，以及來自MP Materials Corp.、USA Rare Earth Inc.、Energy Fuels Inc.、US Antimony Corp.、Sunrise Energy Metals Ltd.和The Metals Company等公司的高管。知情人士說，一些公司仍未決定是否參加，以及如果出席，將派哪些高管參加。
+
+---
+
+### 2026-08-07 08:29:23  #其他
+
+【40餘名臺灣青年在閩研學AI電商技能 提升電商運營能力】日前，40餘名臺灣青年在福建省漳州市雲霄縣圓滿結束了他們為期五天的AI電商技能研學之旅。本次研習營以“AI啟新境電商聯兩岸”為主題，培訓內容緊扣數字經濟發展趨勢和臺胞青年實際需求，設定“AI工具應用和賦能”“AI工作流搭建”“AI短影片製作”三個板塊，從理論到實踐全方位提升臺胞青年電商運營能力。（看臺海）
+
+---
+
+### 2026-08-07 08:29:17  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+【LG chairman to meet Jensen Huang at NVIDIA HQ next week; may discuss embodied AI, smart factories】LG Group chairman Koo Kwang-mo will meet NVIDIA CEO Jensen Huang next week at NVIDIA’s Silicon Valley headquarters, South Korea’s Economic Daily reports. Discussions are expected to focus on embodied AI and smart factory initiatives and may cover details of LG’s potential procurement of NVIDIA Blackwell GPUs.
 
 ---
 
@@ -19223,215 +19367,5 @@ At the 23:00 close, China’s most-active futures contracts were mixed: propylen
 ### 2026-08-05 23:00:01  #Trading Economics #Markets #Currency #Importance 1
 
 FX Updates: Brazilian Real Rises by 0.49% — Top currency gainers are Brazilian Real (0.49%), Swedish Krona (0.44%), South Korean Won (0.42%), British Pound (0.20%), Euro (0.19%) and Japanese Yen (0.14%). Biggest loser is Dollar Index (-0.20%).
-
----
-
-### 2026-08-05 22:59:59  #國際
-
-澤連斯基稱，俄羅斯希望在冬季來臨前加快彈道導彈的生產速度。
-
----
-
-### 2026-08-05 22:58:54  #Trading Economics #Economy #Albania #Interest Rate #Importance 1
-
-Albania Keeps Key Rate Steady at 2.5% — The Bank of Albania left its key policy rate unchanged at 2.5% at its August meeting, saying the current monetary stance remains appropriate to support inflation's return to target. The overnight deposit and lending rates were also kept at 1.5% and 3.5%, respectively. Consumer inflation averaged 3% in the second quarter, accelerating from the previous quarter and in line with the central bank's expectations, driven by higher transportation and unprocessed food prices. Economic growth continued to be supported by household consumption and business investment, while fiscal policy remained on a consolidating path. Inflation is expected to stay slightly above target in the near term before gradually easing to target. However, uncertainty surrounding the Middle East conflict remains a risk, potentially pushing inflation higher and weighing on economic growth. Future policy decisions will remain focused on preserving price stability.
-
----
-
-### 2026-08-05 22:57:02  #Trading Economics #Economy #Tunisia #Inflation Rate #Importance 0
-
-Tunisia Inflation Rate Softens to 4-Month Low of 5.1% — Tunisia's annual inflation rate moderated for the second month to 5.1% in July 2026, the lowest since March, down from 5.3% in the prior month. Softer price increases were seen for food & non-alcholic beverages (6.6% vs 7.1% in June); transportation (2% vs 2.4%) and health (2.7% vs 2.9%). On a monthly basis, the CPI rose by 0.2%, the same pace as in the preceding month.
-
----
-
-### 2026-08-05 22:56:52  #央行 #國際
-
-美國財長貝森特：沃什執掌美聯儲期間的一大看點，就是看著那些偽裝成記者的速記員。比如《華爾街日報》的 Nick Timiraos（此前被成為“美聯儲傳聲筒”），淪落到只能報道美聯儲的幕後八卦，因為他們若沒人喂料，就做不出真正的經濟或貨幣政策分析。
-
----
-
-### 2026-08-05 22:56:44  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-U.S. Treasury Secretary Bessent said a notable feature of Walsh’s tenure at the Fed has been watching stenographers posing as reporters. He singled out the Wall Street Journal’s Nick Timiraos — previously dubbed the "Fed mouthpiece" — saying Timiraos has been reduced to reporting Fed backstage gossip because, without being fed material, such reporters cannot produce substantive economic or monetary policy analysis.
-
----
-
-### 2026-08-05 22:56:00  #其他
-
-【比亞迪仰望U8L鼎藏版上市，售價145.8萬】8月5日，比亞迪旗下仰望汽車宣佈，仰望U8L鼎藏版2026款現已上市，售價145.8萬元。
-
----
-
-### 2026-08-05 22:55:09  #其他
-
-【天生橋二級水電站開啟2026年汛期首次洩洪】8月5日11時，天生橋二級水電站啟動2026年度汛期首次開閘洩洪，當日最大洩洪流量達250立方米每秒，總出庫流量維持在1050立方米每秒。（央視新聞）
-
----
-
-### 2026-08-05 22:54:28  #國際
-
-【美國抵押貸款利率升至一年高點 貸款活動持續受挫】美國抵押貸款利率上週升至一年來最高水平，進一步抑制了本已低迷的房地產市場對住房貸款的需求。美國抵押貸款銀行家協會（MBA）週三公佈的資料顯示，截至7月31日當週，30年期抵押貸款合同利率上升5個基點，至6.81%。在伊朗戰爭爆發前的2月底，抵押貸款利率一度降至2022年以來最低水平。此後，隨著衝突推高能源價格並加劇通脹擔憂，抵押貸款利率持續走高。利率上升導致貸款需求走弱。該協會的購房抵押貸款申請指數較前一週下降3.6%，觸及五個月低點。再融資申請指數下降1.9%，降至2025年中以來最低水平。美國抵押貸款銀行家協會的這項調查自1990年以來每週開展一次，依據的是抵押貸款銀行家、商業銀行和儲蓄機構的反饋。該資料涵蓋了美國全部零售住宅抵押貸款申請的75%以上。
-
----
-
-### 2026-08-05 22:53:43  #其他
-
-卡什卡利：我並非呼籲大幅提高利率。
-
----
-
-### 2026-08-05 22:53:18  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Kashkari said the Fed will see substantial data before its September meeting.
-
----
-
-### 2026-08-05 22:53:16  #央行 #國際
-
-美聯儲卡什卡利：現在是時候開始逐步加息了。
-
----
-
-### 2026-08-05 22:53:10  #其他
-
-卡什卡利：我的目標不是減緩經濟增長，而是2%的通貨膨脹率。
-
----
-
-### 2026-08-05 22:53:08  #MKT News
-
-Kashkari said Fed Chair Kevin Warsh told him to do what he believes is right for the economy.
-
----
-
-### 2026-08-05 22:52:57  #央行 #國際
-
-卡什卡利：美聯儲將在9月會議前看到大量資料。
-
----
-
-### 2026-08-05 22:52:53  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-The Russian Defence Ministry said Russia sank three merchant vessels in the Black Sea.
-
----
-
-### 2026-08-05 22:52:49  #其他
-
-卡什卡利：沃什告訴我按我認為對經濟有利的方式行事。
-
----
-
-### 2026-08-05 22:52:37  #國際
-
-俄羅斯國防部：俄軍襲擊了黑海地區的三艘貨船。
-
----
-
-### 2026-08-05 22:52:26  #公司 #國際
-
-【部分美國AI模型在測試中被發現持續實施有害行為】英國人工智慧安全研究所釋出的一份新報告顯示，在該研究所實施的網路安全評估測試中，一些人工智慧（AI）智慧體透過網際網路對現實個人和機構持續實施未經授權的潛在有害行為。報告說，這次評估測試要求智慧體完成一項網路安全挑戰。測試人員使用7種模型開展了122輪測試，在10輪測試中共發現AI智慧體實施了19項明顯超出測試設定範圍的行動。其中，17項涉及美國Anthropic公司的“克勞德-神話5”模型，另有2項由美國開放人工智慧研究中心（OpenAI）的GPT-5.6 Sol模型實施。（新華社）
-
----
-
-### 2026-08-05 22:51:15  #其他
-
-AlphaValue將法拉利目標股價從401歐元上調至422歐元。
-
----
-
-### 2026-08-05 22:51:12  #市場 #焦點
-
-PTA連續主力合約日內跌3%，現報5588.00元。
-
----
-
-### 2026-08-05 22:49:46  #其他
-
-密歇根州衛生部：截至8月5日，共報告12218例環孢子蟲病確診病例。
-
----
-
-### 2026-08-05 22:48:09  #央行 #國際
-
-俄羅斯央行：將8月6日美元對盧布官方匯率設定為1美元兌換80.9293盧布（此前匯率為1美元兌換81.1291盧布）。
-
----
-
-### 2026-08-05 22:47:01  #市場
-
-巴西中央銀行展期所有5萬份外匯掉期合約。
-
----
-
-### 2026-08-05 22:44:15  #MKT News
-
-President Zelenskiy said Ukraine will destroy Russia's ballistic missile launchers.
-
----
-
-### 2026-08-05 22:42:06  #其他
-
-閃迪跌超4%，觸及日內低點。
-
----
-
-### 2026-08-05 22:41:46  #其他
-
-禮來高管表示，7下旬Mounjaro處方量較一個月前翻倍。
-
----
-
-### 2026-08-05 22:41:03  #國際
-
-【特朗普推進移民執法 美國驅逐令簽發量6月升至歷史新高】記者當地時間8月5日獲悉，隨著美國總統特朗普推進移民執法行動，美國聯邦移民法官簽發的驅逐令數量升至紀錄高位。（央視新聞）
-
----
-
-### 2026-08-05 22:38:44  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 2
-
-US Crude Oil Stocks Unexpectedly Rise: EIA — US crude inventories rose by 2.479 million barrels to 407 million barrels in the week ended July 31, compared with market expectations for a 1.5 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 2.356 million barrels in the week. Refinery crude runs fell by 183 thousand barrels per day. Gasoline stocks fell by 1.643 million barrels to 209.7 million barrels, compared with expectations for a 1.3 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, fell by 3.473 million barrels in the week to 107.1 million barrels, versus expectations for a 0.2 million-barrel rise. Net US crude imports increased by 297 thousand barrels per day.
-
----
-
-### 2026-08-05 22:38:37  #市場
-
-納斯達克100指數轉跌；標普500指數漲幅收窄至0.4%。
-
----
-
-### 2026-08-05 22:38:22  #其他
-
-禮來表示7月下旬Fundayo處方量增長出現“拐點”。
-
----
-
-### 2026-08-05 22:36:31  #其他
-
-【本週多晶矽交易暫停 市場靜待方向】本週國內多晶矽市場整體陷入觀望態勢，市場成交處於停滯狀態。本週訂單暫無成交，主要原因是在行業加強價格自律、維護產業鏈有序競爭的背景下，當前價格已經低於行業成本，持續下探不利於產業健康發展，因此企業暫停報價，靜待市場方向進一步明朗。據矽業分會統計，7月份國內多晶矽產量10.51萬噸，同期矽片產量55.26GW，當月庫存新增0.96萬噸（含進出口）。截至7月底，多晶矽行業庫存約為52.2萬噸。從供需基本面來看，當前市場供應寬鬆格局尚未改變，企業庫存壓力依然存在，而下游矽片環節開工率維持低位，採購需求偏弱。短期內市場成交難以有效放量，整體交投氛圍持續清淡。（矽業分會）
-
----
-
-### 2026-08-05 22:36:24  #市場 #國際
-
-美國汽油期貨<RBc1>跌幅收窄，下跌1.26%。此前美國能源資訊署（EIA）的庫存報告顯示汽油庫存降幅超預期。
-
----
-
-### 2026-08-05 22:35:37  #公司
-
-德意志資源公司預計全年銷售額為3億至3.2億歐元。
-
----
-
-### 2026-08-05 22:34:36  #其他
-
-禮來高管表示，替爾泊肽（Zepbound）整體處方中約55%為現金支付。
-
----
-
-### 2026-08-05 22:34:16  #公司
-
-【均瑤健康：獨立董事就子公司賬外資金事項發表意見】均瑤健康公告稱，獨立董事對公司2025年度相關審計報告涉及事項進行核查並發表意見。2023年9月至2025年10月，泛緣供應鏈原總經理用個人卡收付經營性款項，資金流入4010.57萬元、流出4010.51萬元，未流向關聯方，無關聯方非經營性資金佔用。該行為反映子公司資金管控執行有短板，構成內控重要缺陷，公司已完成整改。2025年賬外收支補入賬依據充分，往期收支不構成重大會計差錯。除該事項外，其餘子公司無同類違規情形。
 
 ---

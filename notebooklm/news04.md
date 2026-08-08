@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 17:48:15_
-_本檔包含 3357 則快訊，約 595962 字_
+_更新時間：2026-08-08 18:44:42_
+_本檔包含 3360 則快訊，約 595575 字_
+
+---
+
+### 2026-08-04 21:52:13  #其他
+
+ET：預計 2026 年下半年所有業務板塊業務量均實現增長。
+
+---
+
+### 2026-08-04 21:52:11  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
+
+Nasdaq-100 jumped more than 2% to its highest level since July 15.
+
+---
+
+### 2026-08-04 21:52:08  #其他
+
+ET：預計 2026 年下半年所有業務板塊業務量均實現增長。
+
+---
+
+### 2026-08-04 21:51:48  #其他
+
+納斯達克 100 指數漲幅超 2%，創下 7 月 15 日以來新高。
+
+---
+
+### 2026-08-04 21:51:41  #市場 #焦點
+
+美國天然氣期貨跌超4.00%，現報2.669美元/百萬英熱。
+
+---
+
+### 2026-08-04 21:50:24  #央行 #國際
+
+據美國紐約聯儲資料，上個交易日（8月3日）擔保隔夜融資利率（SOFR）報3.65%，之前一天報3.66%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
+
+---
+
+### 2026-08-04 21:50:07  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+US June JOLTS job openings and factory orders MoM due in 10 minutes.
+
+---
+
+### 2026-08-04 21:49:39  #市場 #央行 #國際
+
+【霍爾木茲海峽恢復通航預期推動油價下跌 德國和英國國債延續漲勢】隨著市場預期霍爾木茲海峽將很快恢復通航、油價持續下跌，德國國債和英國國債延續牛市陡峭化走勢。德國10年期國債收益率下跌5個基點，至3.10%；英國10年期國債收益率下跌4個基點，至4.91%。布倫特原油跌破每桶80美元，為7月13日以來首次。利率互換市場顯示，交易員預計歐洲央行年底前累計加息37個基點，預計英國央行今年累計加息26個基點。
+
+---
+
+### 2026-08-04 21:49:17  #其他
+
+【鴻蒙智行回應“竹知了”事件：針對的是侵權內容，並非“竹知了”玩具】8月4日晚間訊息，針對近期的“竹知了”事件，鴻蒙智行發言人今日釋出《關於近期“竹知了”相關網路資訊的情況說明》，稱網路上持續存在惡意剪輯、仿冒相關高管聲音、利用AI醜化肖像、虛假歸因、侮辱誹謗等侵害個人合法權益的內容，本次投訴是日常維權工作的一部分，針對的是具體侵權內容，並非針對“竹知了”玩具。（新浪科技）
+
+---
+
+### 2026-08-04 21:49:10  #Trading Economics #Economy #Canada #Manufacturing PMI #Importance 1
+
+Canada Manufacturing Activity at 4-Year High — The S&P Global Canada Manufacturing PMI edged up to 53.5 in July 2026 from 53 in June, the highest since June 2022, defying expectations of a decline to 50.2. The reading signaled a fourth straight month of expansion, supported by stronger output and new orders amid improved domestic demand, although export orders fell for a second consecutive month due to tariffs and the conflict in the Middle East. Input cost inflation accelerated to a four-year high as supply shortages and delivery delays intensified. Higher demand added further strain to supply chains and upward pressures on prices, prompting manufacturers to raise selling prices amid higher purchasing activity. Firms also increased hiring to meet stronger demand, while inventories of finished goods rose partly reflecting shipping delays. Despite continued growth in sales and production, business confidence eased to a four-month low as firms remained concerned about rising costs and geopolitical uncertainty.
+
+---
+
+### 2026-08-04 21:49:01  #市場 #焦點
+
+紐約期金突破4150美元/盎司，日內漲1.45%。
+
+---
+
+### 2026-08-04 21:48:29  #國際
+
+美國參議員沃倫就保險評分問題對前進保險、州立農業保險展開調查。
+
+---
+
+### 2026-08-04 21:48:11  #宏觀 #國際
+
+【航運分析師質疑霍爾木茲海峽航運恢復前景】對於霍爾木茲海峽航運能否恢復，航運分析師的態度較美國財政部長斯科特・貝森特更為謹慎。貝森特稱美伊協議或許 “今日或明日” 就能達成，但分析師表示，當前海峽每日通行船舶不足 10 艘。凱普勒資料顯示，週日海峽僅有 9 艘船舶過境，其中油輪僅 2 艘。預估原油運輸量維持在每日 300‑500 萬桶，遠低於衝突前每日 2000 萬桶的水平。沙特阿美表示，即便海峽即刻重新開放，補充庫存也可能需要長達 18 個月。
+
+---
+
+### 2026-08-04 21:47:57  #市場 #焦點
+
+聚丙烯連續主力合約日內跌3%，現報8090.00元。
+
+---
+
+### 2026-08-04 21:47:31  #市場
+
+英國石油股價隨油價下跌進一步走低，跌幅達5%。
+
+---
+
+### 2026-08-04 21:47:23  #國際
+
+【美國華盛頓州山火縱火嫌疑人被捕】美國西北部華盛頓州斯波坎縣及周邊地區正遭受三場山火炙烤，已有6萬多人被要求撤離。該縣治安官3日晚宣佈，已逮捕一名關聯其中一起山火的縱火嫌疑人。斯波坎縣治安官約翰·諾韋爾斯通報，嫌疑人名為阿倫·法里納奇，現年37歲，是斯波坎縣居民，3日因一級縱火罪指控被收押，保釋金定為100萬美元。他涉嫌點燃路邊草叢，引發該縣1日起爆發的三起山火之一。另兩起山火起因仍在調查中。因目擊者舉報，法里納奇最初在1日被拘留，當天受訊問後獲釋；在調查人員獲取更多證據後，法里納奇於2日下午再度被羈押。檢察部門已對其提起訴訟。檔案顯示，法里納奇曾在亞利桑那州因另一起無關案件犯下過失殺人罪。截至3日，斯波坎縣及周邊地區已有大約6.4萬人接到疏散命令。至少700座建築物毀於大火，另有400座受損；過火面積超過4000公頃。目前暫無人員傷亡報告，但當地應急指揮中心人員說，隨著火勢從林間蔓延至居民區和商業區以及搜救範圍擴大，後續很有可能會發現傷亡人員。（新華社）
+
+---
+
+### 2026-08-04 21:46:19  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains Ahead of BCB Selic Decision — The Ibovespa gained nearly 1% to trade above the 179,000 mark on Tuesday, supported by lower oil prices and growing expectations of a Selic rate cut. Crude prices fell after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about energy-driven inflation. The favorable backdrop reinforced expectations that the BCB will lower its benchmark rate from 14.25% on Wednesday. Financial stocks led gains, with Itaúsa rising about 1% and B3 advancing more than 2%. BB Seguridade added over 1% after reporting a 3.2% annual increase in net profit. Vale jumped about 2.5% as iron ore prices strengthened, while utilities also advanced, with Auren and Sabesp gaining around 1.5% each. Ambev and WEG rose about 1%, while Petrobras fell 1% in line with lower oil prices. Investors also awaited earnings from Itaú, Gerdau, RD Saúde, and Prio after the close.
+
+---
+
+### 2026-08-04 21:45:58  #公司
+
+阿波羅全球管理公司總裁在電話會議上表示：目前非交易型私人信貸基金的贖回需求僅為上一次要約收購時的一半。
+
+---
+
+### 2026-08-04 21:45:18  #其他
+
+【江蘇徐州一地試行集中供冷】三伏天裡，江蘇徐州一小區不開空調，室溫就能保持25攝氏度左右，這份夏日裡的涼意源自一座已廢棄的煤礦，井下積存的礦井水常年恆溫十幾攝氏度，如今順著小區的供暖管道，流進了首批近100戶居民的地暖盤管。 曾經的資源枯竭“包袱”，變成了惠及居民的“天然冷源”。據瞭解，該系統還可以透過熱泵技術提取礦井水的熱量，實現冬季集中供暖，從而實現一管通冬夏。（新華社）
+
+---
+
+### 2026-08-04 21:44:10  #MKT News #Important #Market Themes #Chip Wars #ARM.O #Impact bullish #MRVL.O #MU.O
+
+Philadelphia Semiconductor Index rose more than 5% intraday; Arm (ARM.O) jumped 11.5%, MARVELL (MRVL.O) gained 11%, Intel (INTC.O) rose over 7% and Micron Technology (MU.O) added 6.7%.
+
+---
+
+### 2026-08-04 21:44:04  #公司
+
+瑞典金融監管局公告：薩博高管於8月4日以每股620瑞典克朗的價格出售了該公司1.6萬股股份。
+
+---
+
+### 2026-08-04 21:43:12  #公司
+
+【多地停車計費試行取消“向上取整”，“按分鐘計費”試點加速落地】停車按分鐘計費的改革試點正加速落地。2026年8月3日，合肥市區一處停車場啟動該項試點，以小型車為例，前15分鐘免費，超出後以每分鐘0.06元計。此前，合肥高新區、肥西縣已試行精準計費。澎湃新聞8月4日從合肥城市泊車投資管理有限公司獲悉，試點的銅望交口停車場位於包河區銅陵路望江東路口，是集停車、充電、汽車後市場於一體的複合型場站，周邊有學校、公寓、鋼材交易中心等，存在接送學潮汐車流、商務臨時停靠、住宅夜間長時間停放等多元需求，試點旨在為臨時辦事、接送學生等短時停車群體提供更靈活的計費方式，引導車輛快停快走，提升泊位週轉效率，並檢驗精準計費規則在不同客群、時段的適用效果。（澎湃）
+
+---
+
+### 2026-08-04 21:42:40  #公司 #市場
+
+【費城半導體指數漲幅擴大至5%】費城半導體指數漲幅擴大至5%，報12006點。英偉達股價上漲2.17%，臺積電股價上漲2.08%，博通股價上漲4.69%，SK海力士股價上漲6.2%，美光科技股價上漲6.01%，超威半導體股價上漲6.18%，阿斯麥股價上漲3.8%，英特爾股價上漲7.59%，泛林集團股價上漲5.6%，ARM股價上漲11.67%。
 
 ---
 
@@ -20104,125 +20242,5 @@ Swiss Franc Stays Near One-Year Low — The Swiss franc traded around $0.81 afte
 ### 2026-08-03 19:48:11  #MKT News
 
 【Zhen'an Technology revises private placement plan; seeks up to 630 mln yuan from co-controller and related firm】Zhen'an Technology filed a second revised proposal for a private placement to specific investors, adjusting total proceeds and the subscription amounts for Ning Huaxiang and Shenzhen Dongchuang Digital Technology Co. The company now proposes to raise up to 630 mln yuan from Ning and Dongchuang (inclusive) to replenish working capital and repay bank loans. Ning is a co-controller of the company; Shenzhen Dongchuang is an enterprise controlled by Ning Huaxiang and her husband Zhou Jianqi.
-
----
-
-### 2026-08-03 19:48:02  #公司 #觀點
-
-【“果鏈女王”麾下或再添一家上市公司】時隔8個月，立景創新再次叩響港交所大門。 2026年7月31日，立景創新科技股份有限公司（簡稱“立景創新”）向港交所主機板遞交上市申請書，中信證券、中金公司擔任聯席保薦人。這是公司繼2025年11月28日遞表失效後的再一次申請。 王來喜是立景創新的創始人兼執行董事，王來春（王來喜胞姐）為立景創新非執行董事兼董事長。 王來春同時是A股“果鏈”龍頭立訊精密的董事長兼總經理，她也被稱為“果鏈女王”。稍早前，立訊精密在港股成功上市。 如今，立景創新向港交所遞交招股書，這意味王氏姐弟或將迎來第二家港股上市公司。 （上證報）
-
----
-
-### 2026-08-03 19:47:40  #MKT News #LLY.N #Impact bullish
-
-Eli Lilly (LLY.N): pancreatic cancer therapy granted Breakthrough Therapy designation.
-
----
-
-### 2026-08-03 19:47:38  #公司
-
-【洲明科技：擬以5000萬元-1億元回購公司股份】洲明科技公告，擬以不低於5000萬元且不超過1億元回購公司股份，回購價格不超過7.85元/股，回購股份用於實施員工持股計劃或股權激勵計劃。按回購金額上限測算，預計回購股份數量1273.89萬股，約佔當前公司總股本的1.17%。
-
----
-
-### 2026-08-03 19:46:28  #其他
-
-禮來：Olomorasib斬獲胰腺癌適應症突破性療法認定。
-
----
-
-### 2026-08-03 19:45:54  #公司
-
-【天邦食品：擬1800萬元轉讓淮安拾分味道100%股權，並增資3.04億元清理內部債務】天邦食品公告，公司全資子公司上海拾分味道擬將全資孫公司淮安拾分味道100%股權以1800萬元轉讓給上海新徵隆和。為清理內部債務往來，上海拾分味道擬對淮安拾分味道增資3.04億元，增資完成後其註冊資本將由2900萬元增至3.33億元。本次交易預計產生投資虧損約4881萬元。
-
----
-
-### 2026-08-03 19:45:51  #MKT News
-
-Thailand plans annual imports of 100,000 tonnes of urea from western Indonesia and said it is prepared to act as a reliable rice supplier to Indonesia, Thai and Indonesian leaders said at a Jakarta meeting.
-
----
-
-### 2026-08-03 19:45:42  #國際
-
-泰國與印尼領導人於雅加達舉行會晤並展開交談。
-
----
-
-### 2026-08-03 19:45:42  #MKT News #Commodities
-
-【Northern Rare Earth makes breakthrough in praseodymium metal market】Northern Rare Earth said this year its international trading arm has aligned with the permanent-magnet materials sector’s technology shift and downstream demand for lighter magnets, opening a new application path for light rare earths in heavy-rare-earth-free magnet materials and achieving bulk praseodymium metal sales in 1H.
-
----
-
-### 2026-08-03 19:45:27  #國際
-
-禮來藥物Olomorasib獲美國食品藥品監督管理局突破性療法認定。
-
----
-
-### 2026-08-03 19:45:10  #國際
-
-泰國計劃每年從印尼進口10萬噸尿素。
-
----
-
-### 2026-08-03 19:45:07  #國際
-
-泰國：願成為印尼可靠大米供應方。
-
----
-
-### 2026-08-03 19:44:48  #市場
-
-【嘉陵江四川南充段出現入汛以來最大洪峰】受上游降雨及亭子口水庫調蓄影響，8月3日，嘉陵江四川南充段水位大幅上漲，今年入汛以來最大洪峰於當天上午過境主城區。洪峰水位最高達265.86米，比平時水位高4米左右，流量每秒達8450立方米。南充市高坪區沿江各地迅速行動做好防範，全力保障洪峰安全過境。（央視新聞）
-
----
-
-### 2026-08-03 19:44:37  #公司
-
-【北方稀土金屬鐠市場開拓實現新突破】據北方稀土訊息，今年以來，北方稀土國貿公司緊扣稀土永磁材料行業技術變革趨勢，精準對接下游磁材企業輕量化發展需求，成功開闢輕稀土在無重稀土磁材領域全新應用賽道，上半年實現金屬鐠批次銷售。
-
----
-
-### 2026-08-03 19:44:07  #國際
-
-【以色列財長竟稱不存在巴勒斯坦人】以色列財長、極右翼政治人士斯莫特里赫在8月2日播出的一檔播客節目中，竟然聲稱“根本不存在所謂的‘巴勒斯坦人’，歷史上也從未有過這樣的概念，這是虛構出來的，旨在對抗以色列”。斯莫特里赫還稱，希望以色列征服整個（巴勒斯坦）加沙地帶，並建立軍事管轄，讓猶太人重新定居，以實現所謂“徹底的勝利”。（央視新聞）
-
----
-
-### 2026-08-03 19:43:36  #MKT News #Market Regions #Europe & UK #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact mixed
-
-【Tesla July European registrations diverge】Tesla's July registrations jumped 86% in France and 52% in Denmark, but plunged 97% in Norway and fell 81% in Spain and 60% in Sweden. Investors await Germany and UK registration releases later this week.
-
----
-
-### 2026-08-03 19:43:36  #其他
-
-【第四批中成藥集採落地：OTC與獨家品種全面入局】近日，第四批全國中成藥聯盟集中採購正式公佈完整中選結果，本輪由湖北省醫保局牽頭組織，共設定28個採購組，納入89種臨床常用中成藥，覆蓋市場規模超450億元，全國4萬餘家公立醫療機構同步報量採購。本次集採共有344家企業468個產品參與投標，最終243家企業310個品規成功中選，整體平均降幅超50%。相較於前三批中成藥集採，本次規則大幅最佳化，採用“價格得分60%+技術評價40%”綜合評審模式，增設復活增補、A/B分組競爭機制，摒棄“唯低價中標”導向，兼顧藥品質量、臨床價值與供應穩定。此前就有業內分析人士指出，第四批集採落地標誌著中成藥集採告別單一院內處方藥時代，院內外價格體系加速並軌，行業利潤分配、競爭邏輯迎來根本性重構，龍頭企業依託產能、供應鏈、質控優勢持續集中份額，缺乏核心壁壘的中小藥企加速出清。（21財經）
-
----
-
-### 2026-08-03 19:43:20  #國際
-
-【烏軍襲擊俄多地致8人死亡】俄羅斯方面3日表示，烏克蘭軍隊對弗拉基米爾州、克拉斯諾達爾邊疆區和別爾哥羅德州等地進行襲擊，造成至少8人死亡、13人受傷。俄羅斯弗拉基米爾州州長阿夫傑耶夫3日在社交媒體上說，烏克蘭軍隊使用無人機襲擊了該州的一處倉庫，導致倉庫起火，並造成3人受傷。俄偵查委員會發言人彼得連科同日表示，已就烏軍相關襲擊展開調查。（新華社）
-
----
-
-### 2026-08-03 19:42:55  #MKT News
-
-【CIMC Group: Freight-rate and demand rebound passing through to container manufacturing; production booked through end-October】CIMC Group said its container division posted YoY declines in Q1 revenue and net profit as both volumes and prices fell. Since Q2, a concurrent recovery in freight rates and demand has transmitted to container manufacturing, lifting industry demand and leaving production booked through end-October. For the year the segment remains under pressure versus last year due to a high base and rising material costs. CIMC said emerging businesses—container energy storage, modular buildings, cold chain and modular data centers—are being actively deployed and developing rapidly and will provide material incremental contributions to the segment.
-
----
-
-### 2026-08-03 19:42:45  #公司
-
-【震安科技：二次修訂發行股票預案 擬向實控人等定增募資不超6.3億元】震安科技(300767)8月3日披露二次修訂後的向特定物件發行股票預案，此次修訂調整了發行募集資金總額、寧花香女士及深圳東創數智技術有限公司（簡稱“東創數智”）認購資金數額。二次修訂後的預案顯示，公司擬向寧花香、東創數智發行股票募資不超過6.3億元（含），用於補充流動資金和償還銀行貸款。寧花香為公司共同實控人之一，東創數智為公司實控人寧花香、周建旗夫婦共同控制的其他企業。
-
----
-
-### 2026-08-03 19:42:40  #MKT News #Market Regions #Greater China
-
-【Fourth national proprietary Chinese medicine procurement finalised; OTC and exclusive varieties fully included】Led by the Hubei provincial medical insurance bureau, the fourth national centralised procurement for proprietary Chinese medicines published full results. The tender set 28 procurement groups and covered 89 commonly used proprietary Chinese medicines, including OTC and exclusive varieties, representing a market of more than CNY45 bln; over 40,000 public medical institutions reported purchase volumes. A total of 344 firms submitted 468 products; 243 firms with 310 product specifications won. Overall average price cuts exceeded 50%. The procurement used a composite scoring model (price 60%, technical evaluation 40%) and introduced reinstatement/supplementary lists and A/B grouping competition, moving away from lowest-price-only selection to incorporate drug quality, clinical value and supply stability. Industry analysts said the round accelerates alignment of in-hospital and retail pricing, will concentrate share with firms that have scale, supply-chain and quality-control advantages, and is likely to accelerate exit by smaller players lacking core barriers.
 
 ---

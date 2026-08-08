@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 17:48:15_
-_本檔包含 3361 則快訊，約 595871 字_
+_更新時間：2026-08-08 18:44:42_
+_本檔包含 3373 則快訊，約 596443 字_
+
+---
+
+### 2026-08-05 22:59:59  #國際
+
+澤連斯基稱，俄羅斯希望在冬季來臨前加快彈道導彈的生產速度。
+
+---
+
+### 2026-08-05 22:58:54  #Trading Economics #Economy #Albania #Interest Rate #Importance 1
+
+Albania Keeps Key Rate Steady at 2.5% — The Bank of Albania left its key policy rate unchanged at 2.5% at its August meeting, saying the current monetary stance remains appropriate to support inflation's return to target. The overnight deposit and lending rates were also kept at 1.5% and 3.5%, respectively. Consumer inflation averaged 3% in the second quarter, accelerating from the previous quarter and in line with the central bank's expectations, driven by higher transportation and unprocessed food prices. Economic growth continued to be supported by household consumption and business investment, while fiscal policy remained on a consolidating path. Inflation is expected to stay slightly above target in the near term before gradually easing to target. However, uncertainty surrounding the Middle East conflict remains a risk, potentially pushing inflation higher and weighing on economic growth. Future policy decisions will remain focused on preserving price stability.
+
+---
+
+### 2026-08-05 22:57:02  #Trading Economics #Economy #Tunisia #Inflation Rate #Importance 0
+
+Tunisia Inflation Rate Softens to 4-Month Low of 5.1% — Tunisia's annual inflation rate moderated for the second month to 5.1% in July 2026, the lowest since March, down from 5.3% in the prior month. Softer price increases were seen for food & non-alcholic beverages (6.6% vs 7.1% in June); transportation (2% vs 2.4%) and health (2.7% vs 2.9%). On a monthly basis, the CPI rose by 0.2%, the same pace as in the preceding month.
+
+---
+
+### 2026-08-05 22:56:52  #央行 #國際
+
+美國財長貝森特：沃什執掌美聯儲期間的一大看點，就是看著那些偽裝成記者的速記員。比如《華爾街日報》的 Nick Timiraos（此前被成為“美聯儲傳聲筒”），淪落到只能報道美聯儲的幕後八卦，因為他們若沒人喂料，就做不出真正的經濟或貨幣政策分析。
+
+---
+
+### 2026-08-05 22:56:44  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+U.S. Treasury Secretary Bessent said a notable feature of Walsh’s tenure at the Fed has been watching stenographers posing as reporters. He singled out the Wall Street Journal’s Nick Timiraos — previously dubbed the "Fed mouthpiece" — saying Timiraos has been reduced to reporting Fed backstage gossip because, without being fed material, such reporters cannot produce substantive economic or monetary policy analysis.
+
+---
+
+### 2026-08-05 22:56:00  #其他
+
+【比亞迪仰望U8L鼎藏版上市，售價145.8萬】8月5日，比亞迪旗下仰望汽車宣佈，仰望U8L鼎藏版2026款現已上市，售價145.8萬元。
+
+---
+
+### 2026-08-05 22:55:09  #其他
+
+【天生橋二級水電站開啟2026年汛期首次洩洪】8月5日11時，天生橋二級水電站啟動2026年度汛期首次開閘洩洪，當日最大洩洪流量達250立方米每秒，總出庫流量維持在1050立方米每秒。（央視新聞）
+
+---
+
+### 2026-08-05 22:54:28  #國際
+
+【美國抵押貸款利率升至一年高點 貸款活動持續受挫】美國抵押貸款利率上週升至一年來最高水平，進一步抑制了本已低迷的房地產市場對住房貸款的需求。美國抵押貸款銀行家協會（MBA）週三公佈的資料顯示，截至7月31日當週，30年期抵押貸款合同利率上升5個基點，至6.81%。在伊朗戰爭爆發前的2月底，抵押貸款利率一度降至2022年以來最低水平。此後，隨著衝突推高能源價格並加劇通脹擔憂，抵押貸款利率持續走高。利率上升導致貸款需求走弱。該協會的購房抵押貸款申請指數較前一週下降3.6%，觸及五個月低點。再融資申請指數下降1.9%，降至2025年中以來最低水平。美國抵押貸款銀行家協會的這項調查自1990年以來每週開展一次，依據的是抵押貸款銀行家、商業銀行和儲蓄機構的反饋。該資料涵蓋了美國全部零售住宅抵押貸款申請的75%以上。
+
+---
+
+### 2026-08-05 22:53:43  #其他
+
+卡什卡利：我並非呼籲大幅提高利率。
+
+---
+
+### 2026-08-05 22:53:18  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kashkari said the Fed will see substantial data before its September meeting.
+
+---
+
+### 2026-08-05 22:53:16  #央行 #國際
+
+美聯儲卡什卡利：現在是時候開始逐步加息了。
+
+---
+
+### 2026-08-05 22:53:10  #其他
+
+卡什卡利：我的目標不是減緩經濟增長，而是2%的通貨膨脹率。
+
+---
+
+### 2026-08-05 22:53:08  #MKT News
+
+Kashkari said Fed Chair Kevin Warsh told him to do what he believes is right for the economy.
+
+---
+
+### 2026-08-05 22:52:57  #央行 #國際
+
+卡什卡利：美聯儲將在9月會議前看到大量資料。
+
+---
+
+### 2026-08-05 22:52:53  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+The Russian Defence Ministry said Russia sank three merchant vessels in the Black Sea.
+
+---
+
+### 2026-08-05 22:52:49  #其他
+
+卡什卡利：沃什告訴我按我認為對經濟有利的方式行事。
+
+---
+
+### 2026-08-05 22:52:37  #國際
+
+俄羅斯國防部：俄軍襲擊了黑海地區的三艘貨船。
+
+---
+
+### 2026-08-05 22:52:26  #公司 #國際
+
+【部分美國AI模型在測試中被發現持續實施有害行為】英國人工智慧安全研究所釋出的一份新報告顯示，在該研究所實施的網路安全評估測試中，一些人工智慧（AI）智慧體透過網際網路對現實個人和機構持續實施未經授權的潛在有害行為。報告說，這次評估測試要求智慧體完成一項網路安全挑戰。測試人員使用7種模型開展了122輪測試，在10輪測試中共發現AI智慧體實施了19項明顯超出測試設定範圍的行動。其中，17項涉及美國Anthropic公司的“克勞德-神話5”模型，另有2項由美國開放人工智慧研究中心（OpenAI）的GPT-5.6 Sol模型實施。（新華社）
+
+---
+
+### 2026-08-05 22:51:15  #其他
+
+AlphaValue將法拉利目標股價從401歐元上調至422歐元。
+
+---
+
+### 2026-08-05 22:51:12  #市場 #焦點
+
+PTA連續主力合約日內跌3%，現報5588.00元。
+
+---
+
+### 2026-08-05 22:49:46  #其他
+
+密歇根州衛生部：截至8月5日，共報告12218例環孢子蟲病確診病例。
+
+---
+
+### 2026-08-05 22:48:09  #央行 #國際
+
+俄羅斯央行：將8月6日美元對盧布官方匯率設定為1美元兌換80.9293盧布（此前匯率為1美元兌換81.1291盧布）。
+
+---
+
+### 2026-08-05 22:47:01  #市場
+
+巴西中央銀行展期所有5萬份外匯掉期合約。
+
+---
+
+### 2026-08-05 22:44:15  #MKT News
+
+President Zelenskiy said Ukraine will destroy Russia's ballistic missile launchers.
+
+---
+
+### 2026-08-05 22:42:06  #其他
+
+閃迪跌超4%，觸及日內低點。
+
+---
+
+### 2026-08-05 22:41:46  #其他
+
+禮來高管表示，7下旬Mounjaro處方量較一個月前翻倍。
+
+---
+
+### 2026-08-05 22:41:03  #國際
+
+【特朗普推進移民執法 美國驅逐令簽發量6月升至歷史新高】記者當地時間8月5日獲悉，隨著美國總統特朗普推進移民執法行動，美國聯邦移民法官簽發的驅逐令數量升至紀錄高位。（央視新聞）
+
+---
+
+### 2026-08-05 22:38:44  #Trading Economics #Economy #United States #Crude Oil Stocks Change #Importance 2
+
+US Crude Oil Stocks Unexpectedly Rise: EIA — US crude inventories rose by 2.479 million barrels to 407 million barrels in the week ended July 31, compared with market expectations for a 1.5 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 2.356 million barrels in the week. Refinery crude runs fell by 183 thousand barrels per day. Gasoline stocks fell by 1.643 million barrels to 209.7 million barrels, compared with expectations for a 1.3 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, fell by 3.473 million barrels in the week to 107.1 million barrels, versus expectations for a 0.2 million-barrel rise. Net US crude imports increased by 297 thousand barrels per day.
+
+---
+
+### 2026-08-05 22:38:37  #市場
+
+納斯達克100指數轉跌；標普500指數漲幅收窄至0.4%。
+
+---
+
+### 2026-08-05 22:38:22  #其他
+
+禮來表示7月下旬Fundayo處方量增長出現“拐點”。
+
+---
+
+### 2026-08-05 22:36:31  #其他
+
+【本週多晶矽交易暫停 市場靜待方向】本週國內多晶矽市場整體陷入觀望態勢，市場成交處於停滯狀態。本週訂單暫無成交，主要原因是在行業加強價格自律、維護產業鏈有序競爭的背景下，當前價格已經低於行業成本，持續下探不利於產業健康發展，因此企業暫停報價，靜待市場方向進一步明朗。據矽業分會統計，7月份國內多晶矽產量10.51萬噸，同期矽片產量55.26GW，當月庫存新增0.96萬噸（含進出口）。截至7月底，多晶矽行業庫存約為52.2萬噸。從供需基本面來看，當前市場供應寬鬆格局尚未改變，企業庫存壓力依然存在，而下游矽片環節開工率維持低位，採購需求偏弱。短期內市場成交難以有效放量，整體交投氛圍持續清淡。（矽業分會）
+
+---
+
+### 2026-08-05 22:36:24  #市場 #國際
+
+美國汽油期貨<RBc1>跌幅收窄，下跌1.26%。此前美國能源資訊署（EIA）的庫存報告顯示汽油庫存降幅超預期。
+
+---
+
+### 2026-08-05 22:35:37  #公司
+
+德意志資源公司預計全年銷售額為3億至3.2億歐元。
+
+---
+
+### 2026-08-05 22:34:36  #其他
+
+禮來高管表示，替爾泊肽（Zepbound）整體處方中約55%為現金支付。
+
+---
+
+### 2026-08-05 22:34:16  #公司
+
+【均瑤健康：獨立董事就子公司賬外資金事項發表意見】均瑤健康公告稱，獨立董事對公司2025年度相關審計報告涉及事項進行核查並發表意見。2023年9月至2025年10月，泛緣供應鏈原總經理用個人卡收付經營性款項，資金流入4010.57萬元、流出4010.51萬元，未流向關聯方，無關聯方非經營性資金佔用。該行為反映子公司資金管控執行有短板，構成內控重要缺陷，公司已完成整改。2025年賬外收支補入賬依據充分，往期收支不構成重大會計差錯。除該事項外，其餘子公司無同類違規情形。
 
 ---
 
@@ -20131,143 +20341,5 @@ Gasoline is down by 5.02% — Gasoline decreased 5.02% to 2.8179 USD/Gal
 ### 2026-08-04 21:52:25  #Trading Economics #Markets #Commodity #Importance 1
 
 Gold Climbs as Markets Monitor US-Iran Diplomacy — Gold rose 0.7% to $4,080 per ounce on Tuesday as investors assessed diplomatic efforts to ease US-Iran tensions and their potential impact on oil prices, inflation, and the Federal Reserve's policy outlook. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain ongoing, with de-escalation and reopening the vital waterway as the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, with the implied probability falling to 57%. Investors now await upcoming US labor market data for further clues on the Fed's policy path. New York Fed President John Williams said inflation continues to trend gradually lower but reiterated that policymakers would not hesitate to raise rates if price pressures persist.
-
----
-
-### 2026-08-04 21:52:13  #其他
-
-ET：預計 2026 年下半年所有業務板塊業務量均實現增長。
-
----
-
-### 2026-08-04 21:52:11  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-Nasdaq-100 jumped more than 2% to its highest level since July 15.
-
----
-
-### 2026-08-04 21:52:08  #其他
-
-ET：預計 2026 年下半年所有業務板塊業務量均實現增長。
-
----
-
-### 2026-08-04 21:51:48  #其他
-
-納斯達克 100 指數漲幅超 2%，創下 7 月 15 日以來新高。
-
----
-
-### 2026-08-04 21:51:41  #市場 #焦點
-
-美國天然氣期貨跌超4.00%，現報2.669美元/百萬英熱。
-
----
-
-### 2026-08-04 21:50:24  #央行 #國際
-
-據美國紐約聯儲資料，上個交易日（8月3日）擔保隔夜融資利率（SOFR）報3.65%，之前一天報3.66%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。
-
----
-
-### 2026-08-04 21:50:07  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-US June JOLTS job openings and factory orders MoM due in 10 minutes.
-
----
-
-### 2026-08-04 21:49:39  #市場 #央行 #國際
-
-【霍爾木茲海峽恢復通航預期推動油價下跌 德國和英國國債延續漲勢】隨著市場預期霍爾木茲海峽將很快恢復通航、油價持續下跌，德國國債和英國國債延續牛市陡峭化走勢。德國10年期國債收益率下跌5個基點，至3.10%；英國10年期國債收益率下跌4個基點，至4.91%。布倫特原油跌破每桶80美元，為7月13日以來首次。利率互換市場顯示，交易員預計歐洲央行年底前累計加息37個基點，預計英國央行今年累計加息26個基點。
-
----
-
-### 2026-08-04 21:49:17  #其他
-
-【鴻蒙智行回應“竹知了”事件：針對的是侵權內容，並非“竹知了”玩具】8月4日晚間訊息，針對近期的“竹知了”事件，鴻蒙智行發言人今日釋出《關於近期“竹知了”相關網路資訊的情況說明》，稱網路上持續存在惡意剪輯、仿冒相關高管聲音、利用AI醜化肖像、虛假歸因、侮辱誹謗等侵害個人合法權益的內容，本次投訴是日常維權工作的一部分，針對的是具體侵權內容，並非針對“竹知了”玩具。（新浪科技）
-
----
-
-### 2026-08-04 21:49:10  #Trading Economics #Economy #Canada #Manufacturing PMI #Importance 1
-
-Canada Manufacturing Activity at 4-Year High — The S&P Global Canada Manufacturing PMI edged up to 53.5 in July 2026 from 53 in June, the highest since June 2022, defying expectations of a decline to 50.2. The reading signaled a fourth straight month of expansion, supported by stronger output and new orders amid improved domestic demand, although export orders fell for a second consecutive month due to tariffs and the conflict in the Middle East. Input cost inflation accelerated to a four-year high as supply shortages and delivery delays intensified. Higher demand added further strain to supply chains and upward pressures on prices, prompting manufacturers to raise selling prices amid higher purchasing activity. Firms also increased hiring to meet stronger demand, while inventories of finished goods rose partly reflecting shipping delays. Despite continued growth in sales and production, business confidence eased to a four-month low as firms remained concerned about rising costs and geopolitical uncertainty.
-
----
-
-### 2026-08-04 21:49:01  #市場 #焦點
-
-紐約期金突破4150美元/盎司，日內漲1.45%。
-
----
-
-### 2026-08-04 21:48:29  #國際
-
-美國參議員沃倫就保險評分問題對前進保險、州立農業保險展開調查。
-
----
-
-### 2026-08-04 21:48:11  #宏觀 #國際
-
-【航運分析師質疑霍爾木茲海峽航運恢復前景】對於霍爾木茲海峽航運能否恢復，航運分析師的態度較美國財政部長斯科特・貝森特更為謹慎。貝森特稱美伊協議或許 “今日或明日” 就能達成，但分析師表示，當前海峽每日通行船舶不足 10 艘。凱普勒資料顯示，週日海峽僅有 9 艘船舶過境，其中油輪僅 2 艘。預估原油運輸量維持在每日 300‑500 萬桶，遠低於衝突前每日 2000 萬桶的水平。沙特阿美表示，即便海峽即刻重新開放，補充庫存也可能需要長達 18 個月。
-
----
-
-### 2026-08-04 21:47:57  #市場 #焦點
-
-聚丙烯連續主力合約日內跌3%，現報8090.00元。
-
----
-
-### 2026-08-04 21:47:31  #市場
-
-英國石油股價隨油價下跌進一步走低，跌幅達5%。
-
----
-
-### 2026-08-04 21:47:23  #國際
-
-【美國華盛頓州山火縱火嫌疑人被捕】美國西北部華盛頓州斯波坎縣及周邊地區正遭受三場山火炙烤，已有6萬多人被要求撤離。該縣治安官3日晚宣佈，已逮捕一名關聯其中一起山火的縱火嫌疑人。斯波坎縣治安官約翰·諾韋爾斯通報，嫌疑人名為阿倫·法里納奇，現年37歲，是斯波坎縣居民，3日因一級縱火罪指控被收押，保釋金定為100萬美元。他涉嫌點燃路邊草叢，引發該縣1日起爆發的三起山火之一。另兩起山火起因仍在調查中。因目擊者舉報，法里納奇最初在1日被拘留，當天受訊問後獲釋；在調查人員獲取更多證據後，法里納奇於2日下午再度被羈押。檢察部門已對其提起訴訟。檔案顯示，法里納奇曾在亞利桑那州因另一起無關案件犯下過失殺人罪。截至3日，斯波坎縣及周邊地區已有大約6.4萬人接到疏散命令。至少700座建築物毀於大火，另有400座受損；過火面積超過4000公頃。目前暫無人員傷亡報告，但當地應急指揮中心人員說，隨著火勢從林間蔓延至居民區和商業區以及搜救範圍擴大，後續很有可能會發現傷亡人員。（新華社）
-
----
-
-### 2026-08-04 21:46:19  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Gains Ahead of BCB Selic Decision — The Ibovespa gained nearly 1% to trade above the 179,000 mark on Tuesday, supported by lower oil prices and growing expectations of a Selic rate cut. Crude prices fell after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about energy-driven inflation. The favorable backdrop reinforced expectations that the BCB will lower its benchmark rate from 14.25% on Wednesday. Financial stocks led gains, with Itaúsa rising about 1% and B3 advancing more than 2%. BB Seguridade added over 1% after reporting a 3.2% annual increase in net profit. Vale jumped about 2.5% as iron ore prices strengthened, while utilities also advanced, with Auren and Sabesp gaining around 1.5% each. Ambev and WEG rose about 1%, while Petrobras fell 1% in line with lower oil prices. Investors also awaited earnings from Itaú, Gerdau, RD Saúde, and Prio after the close.
-
----
-
-### 2026-08-04 21:45:58  #公司
-
-阿波羅全球管理公司總裁在電話會議上表示：目前非交易型私人信貸基金的贖回需求僅為上一次要約收購時的一半。
-
----
-
-### 2026-08-04 21:45:18  #其他
-
-【江蘇徐州一地試行集中供冷】三伏天裡，江蘇徐州一小區不開空調，室溫就能保持25攝氏度左右，這份夏日裡的涼意源自一座已廢棄的煤礦，井下積存的礦井水常年恆溫十幾攝氏度，如今順著小區的供暖管道，流進了首批近100戶居民的地暖盤管。 曾經的資源枯竭“包袱”，變成了惠及居民的“天然冷源”。據瞭解，該系統還可以透過熱泵技術提取礦井水的熱量，實現冬季集中供暖，從而實現一管通冬夏。（新華社）
-
----
-
-### 2026-08-04 21:44:10  #MKT News #Important #Market Themes #Chip Wars #ARM.O #Impact bullish #MRVL.O #MU.O
-
-Philadelphia Semiconductor Index rose more than 5% intraday; Arm (ARM.O) jumped 11.5%, MARVELL (MRVL.O) gained 11%, Intel (INTC.O) rose over 7% and Micron Technology (MU.O) added 6.7%.
-
----
-
-### 2026-08-04 21:44:04  #公司
-
-瑞典金融監管局公告：薩博高管於8月4日以每股620瑞典克朗的價格出售了該公司1.6萬股股份。
-
----
-
-### 2026-08-04 21:43:12  #公司
-
-【多地停車計費試行取消“向上取整”，“按分鐘計費”試點加速落地】停車按分鐘計費的改革試點正加速落地。2026年8月3日，合肥市區一處停車場啟動該項試點，以小型車為例，前15分鐘免費，超出後以每分鐘0.06元計。此前，合肥高新區、肥西縣已試行精準計費。澎湃新聞8月4日從合肥城市泊車投資管理有限公司獲悉，試點的銅望交口停車場位於包河區銅陵路望江東路口，是集停車、充電、汽車後市場於一體的複合型場站，周邊有學校、公寓、鋼材交易中心等，存在接送學潮汐車流、商務臨時停靠、住宅夜間長時間停放等多元需求，試點旨在為臨時辦事、接送學生等短時停車群體提供更靈活的計費方式，引導車輛快停快走，提升泊位週轉效率，並檢驗精準計費規則在不同客群、時段的適用效果。（澎湃）
-
----
-
-### 2026-08-04 21:42:40  #公司 #市場
-
-【費城半導體指數漲幅擴大至5%】費城半導體指數漲幅擴大至5%，報12006點。英偉達股價上漲2.17%，臺積電股價上漲2.08%，博通股價上漲4.69%，SK海力士股價上漲6.2%，美光科技股價上漲6.01%，超威半導體股價上漲6.18%，阿斯麥股價上漲3.8%，英特爾股價上漲7.59%，泛林集團股價上漲5.6%，ARM股價上漲11.67%。
 
 ---

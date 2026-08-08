@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 17:48:15_
-_本檔包含 3079 則快訊，約 596110 字_
+_更新時間：2026-08-08 18:44:42_
+_本檔包含 3088 則快訊，約 595959 字_
+
+---
+
+### 2026-08-08 18:40:49  #MKT News #WTI #Impact mixed #Brent
+
+【Iran says talks with Oman unrelated to reopening of Strait of Hormuz】On the 8th, an IRGC spokesman said reopening the Strait of Hormuz is unrelated to talks with Oman and instead depends on whether the US fully accepts Iran’s conditions and stops interfering in regional negotiations. "Once the US accepts Iran's conditions, the strait will reopen," he said.
+
+---
+
+### 2026-08-08 18:40:09  #其他
+
+【應急管理部針對安徽啟動國家地質災害四級應急響應】據氣象部門預測，受今年第13號颱風“白海豚”影響，未來三天，安徽部分地區有暴雨到大暴雨，局地特大暴雨。經與自然資源部聯合會商研判，安徽西部區域性地區發生地質災害的風險高。根據《國家突發地質災害應急預案》及有關規定，應急管理部於8月8日針對安徽啟動地質災害四級應急響應。（央視新聞）
+
+---
+
+### 2026-08-08 18:39:43  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Turkey restricts commercial vessels from entering Black Sea over security concerns, sources say】Turkey is restricting commercial vessels from entering the Black Sea, sources said, citing a rise in attacks on ships by Russian and Ukrainian forces. The Turkish Coast Guard has told multiple vessels bound for Russia’s Novorossiysk, a major oil and grain export hub, that it will not issue transit permits for such voyages and that Dardanelles transit applications will face extended review. Sources said some ships were told the restriction also applies to voyages to Ukraine. Turkish authorities did not comment. The move could add new complexity to global trade and oil flows already disrupted by the Iran war and reduced traffic through the Strait of Hormuz.
+
+---
+
+### 2026-08-08 18:38:45  #其他
+
+【新疆阿克蘇地區沙雅縣發生3.1級地震，震源深度25千米】中國地震臺網正式測定：08月08日18時27分在新疆阿克蘇地區沙雅縣（北緯39.62度，東經82.82度）發生3.1級地震，震源深度25千米。
+
+---
+
+### 2026-08-08 18:35:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+【Strait of Hormuz closure cuts Iraq oil exports ~75%】Iraq's oil minister, Bassim Mohammed Hudayyer, said on Aug 8 that closure of the Strait of Hormuz has reduced Iraq's oil exports by about 75%. Iraq is negotiating with Iran for permission to route its exports but coordination is not yet in effect. Before recent US–Israel–Iran clashes, Iraq shipped roughly 3.4 mln b/d via the Strait of Hormuz; flows via the strait have fallen since the outbreak. Hudayyer said Iraq needs to find solutions to diversify oil export routes.
+
+---
+
+### 2026-08-08 18:35:05  #國際
+
+澤連斯基：烏克蘭與塞爾維亞力爭年底前達成自貿協定。
+
+---
+
+### 2026-08-08 18:32:47  #焦點 #國際
+
+【伊朗媒體釋出伊朗最高領袖影片】伊朗邁赫爾通訊社8日在社交媒體釋出了一段關於伊朗最高領袖穆傑塔巴·哈梅內伊的影片。（新華社）
+
+---
+
+### 2026-08-08 18:31:38  #其他
+
+【河南駐馬店通報：重大刑案嫌犯已被抓獲】駐馬店市“7•30”案件工作專班8月8日通報，河南省駐馬店市西平縣“7•30”故意傷害案件犯罪嫌疑人夏某鋼，於案發前在西平縣柏城街道侯園社群租房放置雜物，2026年7月30日因瑣事與租房處鄰居侯某立發生爭執，後持刀將其刺傷致死。夏某鋼逃竄躲藏過程中，傷害多名無辜群眾。2026年8月8日16時許，駐馬店市“7•30”專案組在漯河市源匯區空冢郭鎮，將犯罪嫌疑人夏某鋼抓獲。目前，相關工作正在進一步開展中。
+
+---
+
+### 2026-08-08 18:28:36  #其他
+
+【浙江寧波、台州、溫州、舟山將防颱風應急響應提升為Ⅰ級】受颱風“白海豚”影響，8月8日，浙江寧波、台州、溫州、舟山釋出通知，將防颱風應急響應提升為Ⅰ級。
+
+---
+
+### 2026-08-08 18:25:20  #MKT News
+
+UAE state news agency reported Abu Dhabi National Oil Company (ADNOC) said a vessel attack caused no injuries.
+
+---
+
+### 2026-08-08 18:25:04  #公司
+
+阿布扎比國家石油公司表示，這起事故未造成人員傷亡。
+
+---
+
+### 2026-08-08 18:24:22  #MKT News #Important
+
+UAE state news agency reported Abu Dhabi National Oil Company (ADNOC) said one of its vessels was struck by a missile while transiting the Strait of Hormuz on Saturday morning and that the situation is under control.
+
+---
+
+### 2026-08-08 18:24:09  #公司
+
+阿聯酋訊息，阿聯酋阿布扎比國家石油公司（ADNOC）表示，週六早些時候，其一艘船隻在透過霍爾木茲海峽時遭導彈襲擊，目前局勢已得到控制。
+
+---
+
+### 2026-08-08 18:23:57  #國際
+
+【伊朗稱重開海峽需美國接受伊朗條件】伊朗革命衛隊發言人今天（8月8日）表示，重新開放霍爾木茲海峽取決於美國完全接受伊朗的條件，與伊朗當前與阿曼的協商情況無關。（CCTV國際時訊）
+
+---
+
+### 2026-08-08 18:21:09  #其他
+
+市場訊息：土耳其在襲擊激增後限制黑海船舶交通。
+
+---
+
+### 2026-08-08 18:19:55  #MKT News #Important
+
+IRGC spokesman said reopening of the Strait of Hormuz depends on the US fully accepting Iran’s conditions and is not related to talks between Iran and Oman.
+
+---
+
+### 2026-08-08 18:18:26  #焦點 #國際
+
+伊朗伊斯蘭革命衛隊（IRGC）發言人表示，霍爾木茲海峽重新開放取決於美國是否全盤接受伊朗的條件；此事與伊朗和阿曼之間的談判無關。
+
+---
+
+### 2026-08-08 18:15:22  #其他
+
+【國家海洋預報臺將風暴潮警報升級為橙色】國家海洋預報臺今天（8月8日）16時將風暴潮警報升級為橙色。受颱風“白海豚”影響，預計8月8日下午至9日夜間，江蘇南通到浙江寧波沿海將出現80到180釐米的風暴增水，浙江台州到溫州沿海將出現150到320釐米的風暴增水，福建沿海將出現50到130釐米的風暴增水。浙江省寧波市和台州市的風暴潮預警級別為橙色。
+
+---
+
+### 2026-08-08 18:13:21  #國際
+
+【霍爾木茲海峽關閉致伊拉克石油出口驟降75%】當地時間8日，伊拉克石油部長巴西姆·穆罕默德·胡達伊爾表示，由於霍爾木茲海峽關閉，伊拉克石油出口下降了75%。伊拉克正與伊朗就允許其石油出口進行談判，但相關協調尚未生效。美以伊衝突爆發前，伊拉克每天透過霍爾木茲海峽出口約340萬桶石油，衝突爆發後透過該海峽的出口量有所下降。胡達伊爾強調，伊拉克需要“尋找解決方案，以實現石油出口渠道的多元化”。（央視新聞）
+
+---
+
+### 2026-08-08 18:12:18  #MKT News #Commodities #Energy
+
+Iraq's oil minister said the new Basra-Feshkhabur oil pipeline is expected to cost no more than $15 billion.
+
+---
+
+### 2026-08-08 18:12:18  #MKT News #Commodities #Energy
+
+Iraq's oil minister said the pipeline will include a branch from Haditha to Baniyas, plus pumping stations and storage facilities.
+
+---
+
+### 2026-08-08 18:12:09  #其他
+
+伊拉克石油部長表示，新巴士拉-費什卡布林輸油管道的預估成本不超過150億美元。
+
+---
+
+### 2026-08-08 18:09:01  #其他
+
+【紅色山洪災害氣象預警：浙江局地發生山洪災害可能性很大】水利部和中國氣象局8月8日18時聯合釋出紅色山洪災害氣象預警：預計，8月8日20時至9日20時，浙江東部部分地區發生山洪災害可能性大（橙色預警），局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-08-08 18:08:10  #公司
+
+【星光股份中標龍星控股總部泛光工程專案】據“星光股份”公眾號訊息，近日，星光股份成功中標龍星控股總部泛光工程專案。
+
+---
+
+### 2026-08-08 18:04:48  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Iraq's oil minister told the national news agency the new pipeline has a capacity of 2 mln bpd.
+
+---
+
+### 2026-08-08 18:02:43  #公司
+
+【網傳爺爺不泡茶員工與外賣員打架，官方回覆：事發於去年，已處罰涉事員工及負責人】8月8日訊息 今日，爺爺不泡茶釋出關於網傳門店衝突影片的情況說明，回應近期在社交平臺上流傳的涉爺爺不泡茶門店員工與外賣配送人員發生衝突的影片。說明中提到，經核實，網傳影片對應事件發生於2025年10月9日。衝突系門店員工與外賣配送人員因取奶茶、催促等事宜起糾紛，由語言衝突上升到肢體衝突。衝突發生後，門店夥伴第一時間報警，公安機關依法開展調查並組織調解。最終，雙方達成和解，相關事項已妥善處理完畢。事件發生後，公司即刻啟動內部全面覆盤，並對涉事門店負責人、涉事員工進行嚴肅問責處罰。
+
+---
+
+### 2026-08-08 17:59:34  #其他
+
+【溫州市釋出防颱風Ⅰ級應急響應】颱風“白海豚”（強颱風級）今天（8日）17時位於溫州偏東方向約442公里的洋麵上，較大可能於9日晚上到10日早晨在蒼南到象山一帶沿海登陸。受其影響，預計今天夜裡溫州市有中到大雨部分暴雨，9日大暴雨部分特大暴雨，10日暴雨到大暴雨。根據《溫州市防汛防颱抗旱應急預案》，經會商研判，溫州市防指決定於8月8日18時起將防颱風應急響應提升為Ⅰ級。（央視新聞）
+
+---
+
+### 2026-08-08 17:57:35  #其他
+
+伊拉克石油部長：油田已待命，待戰爭結束後恢復產量。
+
+---
+
+### 2026-08-08 17:51:06  #其他
+
+伊拉克石油部長：新管道輸送能力為每日200萬桶。
+
+---
+
+### 2026-08-08 17:50:38  #其他
+
+伊拉克石油部長：該管道將把石油從巴士拉輸送至傑伊漢、巴尼亞斯港口。
+
+---
+
+### 2026-08-08 17:50:04  #MKT News #Commodities #Energy
+
+Iraq's oil minister told the Iraqi state news agency the country currently produces 2.7 mln bpd and exports about half of that output.
+
+---
+
+### 2026-08-08 17:49:19  #其他
+
+伊拉克石油部長：伊拉克巴士拉‑哈迪塞輸油管道造價約 150 億美元。
+
+---
+
+### 2026-08-08 17:48:40  #其他
+
+【浙江釋出地質災害紅色預警】浙江省自然資源廳、浙江省氣象局2026年08月08日17時25分聯合更新發布地質災害氣象風險紅色預警：08月08日20時至08月09日20時，寧波市（海曙區、鄞州區、奉化區、象山縣、寧海縣、餘姚市）、溫州市（永嘉縣、樂清市）、紹興市（上虞區、新昌縣、嵊州市）、台州市（椒江區、黃巖區、路橋區、三門縣、天台縣、仙居縣、溫嶺市、臨海市、玉環市）等部分地區地質災害氣象風險很高（紅色預警）；杭州市（蕭山區、富陽區）、寧波市（北侖區、鎮海區）、溫州市（鹿城區、龍灣區、甌海區、洞頭區、瑞安市）、紹興市（越城區、柯橋區、諸暨市）、金華市（磐安縣、東陽市）、麗水市（青田縣、縉雲縣）等部分地區地質災害氣象風險高（橙色預警）。
 
 ---
 
@@ -18406,149 +18604,5 @@ Silver Falls on Renewed Hormuz Tensions — Silver fell toward $61 an ounce on F
 ### 2026-08-07 08:47:21  #MKT News #Market Regions #Greater China
 
 【Margin balances on Shanghai and Shenzhen exchanges rise CNY 11.01 bln】As of Aug 6, margin financing balances were CNY 1.3403 tln on the Shanghai Exchange, up CNY 4.888 bln from the prior trading day; CNY 1.2670 tln on the Shenzhen Exchange, up CNY 6.122 bln; combined CNY 2.6073 tln, up CNY 11.01 bln.
-
----
-
-### 2026-08-07 08:47:05  #其他
-
-【兩市融資餘額增加110.1億元】截至8月6日，上交所融資餘額報13402.77億元，較前一交易日增加48.88億元；深交所融資餘額報12669.93億元，較前一交易日增加61.22億元；兩市合計26072.7億元，較前一交易日增加110.1億元。
-
----
-
-### 2026-08-07 08:46:20  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Japanese Shares Slip on Tech Weakness — The Nikkei 225 Index fell 0.5% to around 65,400 on Friday, extending losses from the previous session as technology stocks slumped for a second day amid persistent concerns about the artificial intelligence trade. Broader market sentiment was also weighed down by a rebound in oil prices following renewed tensions in the Strait of Hormuz, raising fresh uncertainty over efforts to fully reopen the key shipping route. Meanwhile, domestic data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and highlighting continued softness in consumer demand. In corporate news, SoftBank Group tumbled 6% despite reporting stronger-than-expected earnings, as investors remained cautious over the company’s aggressive AI investments. Meanwhile, Nintendo gained 4% after posting solid results, supported by US tariff refunds and strong sales of two first-party titles for its flagship Switch 2 console.
-
----
-
-### 2026-08-07 08:45:36  #其他
-
-中航易商倉儲物流封閉式基礎設施證券投資基金在上海暫停交易。
-
----
-
-### 2026-08-07 08:45:36  #央行 #歐洲央行
-
-據報道，歐洲央行是在上週五美國拋售歐元買入日元的交易完成後才獲悉美國這一操作的。歐洲央行行長拉加德和美國財長貝森特上週六就干預行動通話。
-
----
-
-### 2026-08-07 08:45:10  #公司
-
-【海看股份：目前公司短劇業務重心聚焦國內市場】海看股份(301262)8月7日在互動平臺表示，公司短劇業務已構建“投資+製作+發行”全產業鏈生態佈局，依託北方微短劇影視基地，開展基地運營、投資出品、內容承製等多元服務，其中包括為出海短劇劇組及出海短劇專案提供拍攝與製作支援。目前，公司短劇業務重心聚焦國內市場。
-
----
-
-### 2026-08-07 08:44:55  #公司
-
-中國通天酒業集團有限公司在香港暫停交易。
-
----
-
-### 2026-08-07 08:44:46  #宏觀
-
-【經濟日報金觀平：塑造新興支柱產業競爭新優勢】7月30日召開的中央政治局會議強調，積極推動前沿技術突破和未來產業發展，著力打造新興支柱產業。近期召開的國務院常務會議也提出，要全鏈條推動新興支柱產業規模化發展。 今年是“十五五”開局之年，持續夯實新興支柱產業的發展底座，對於加快構建現代化產業體系、培育壯大新質生產力至關重要。新徵程上，要錨定高質量發展這一首要任務，積極推動新興產業從“點狀突破”向“叢集躍升”、從“技術示範”向“規模支撐”全面升級，以更大力度塑造新優勢、更實舉措積蓄新動能。
-
----
-
-### 2026-08-07 08:43:57  #其他
-
-日經新聞稱，本田已將部分汽車平臺開發業務外包給塔塔科技。
-
----
-
-### 2026-08-07 08:43:33  #市場 #央行 #國際
-
-【日元回吐近半乾預漲幅 美日或面臨第二輪保衛戰】日元在本週末前已回吐近一半由美日聯合干預帶來的漲幅，市場對當局再次出手干預匯市的猜測隨之升溫。週五上午，日元兌美元匯率報158.45附近，較週一觸及的155.23強勢位置明顯走弱。就在上週日本與美國自1998年以來首次聯合買入日元之前，美元兌日元一度逼近164，接近四十年來極端水平。“再次干預的可能性很高，尤其是在美元兌日元接近160之際，”華僑銀行策略師Moh Siong Sim表示。不過他也指出：“若要讓干預取得效果，還需要日本央行加快加息步伐，或者出現有利於美聯儲放鬆貨幣政策的環境。”
-
----
-
-### 2026-08-07 08:42:32  #其他
-
-【北京熱到電網負荷破紀錄】受連日高溫高溼天氣等多種因素影響，北京地區“桑拿模式”持續開啟，北京電網負荷節節攀升。8月6日12時03分，北京電網最大負荷達到2939.9萬千瓦，創歷史新高。其中，空調等降溫負荷增長明顯，佔比達到45.58%。（央視財經）
-
----
-
-### 2026-08-07 08:40:41  #MKT News #Important #Market Regions #Europe & UK #EURUSD #Impact bearish #USDJPY
-
-Financial Times reports US authorities sold euros late last week to support the yen in a currency intervention that caught the ECB off guard; Washington notified the ECB only after the operation.
-
----
-
-### 2026-08-07 08:40:29  #央行 #國際
-
-據英國金融時報報道，歐洲央行是在上週五美國拋售歐元兌換日元的交易完成後才獲悉美國這一操作的。歐洲央行行長拉加德和美國財長貝森特週六談到了干預行動。
-
----
-
-### 2026-08-07 08:38:54  #MKT News #Market Regions #Greater China
-
-Shenzhen Stock Exchange added Jinghe Integration to the list of securities eligible for Hong Kong Stock Connect, effective Aug 7.
-
----
-
-### 2026-08-07 08:38:25  #公司
-
-深交所公告，港股通標的證券名單調入晶合整合，自2026年08月07日起生效。
-
----
-
-### 2026-08-07 08:38:22  #央行 #國際
-
-據英國金融時報，歐洲央行僅在交易完成後才得知美國拋售歐元買入日元。
-
----
-
-### 2026-08-07 08:34:05  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steadies Amid Hormuz Tensions — Gold held above $4,200 an ounce on Friday, pausing a recent rally as renewed tensions in the Strait of Hormuz pushed oil prices higher, reigniting concerns about inflation and the prospect of a near-term Federal Reserve interest rate hike. Reports indicated that Iran struck what it described as “hostile targets” in the strait following explosions near Qeshm Island. Tehran is also seeking to bar US and Israeli vessels from transiting Hormuz while requiring countries it considers hostile to pay compensation before being allowed passage. Meanwhile, Fed officials have increasingly signaled they are prepared to raise interest rates soon amid rising inflationary risks, with markets pricing in a 25-basis-point hike in September. Separately, data from clearing institutions showed that institutional investors in China continued to build long positions in gold-backed assets as a hedge against volatility in technology stocks, bolstered by central bank buying.
-
----
-
-### 2026-08-07 08:33:37  #MKT News
-
-【Sources: Two Mossad senior officials dismissed after secret Iran operation plan failed】On the 6th, Israeli sources said Mossad dismissed two senior officials after a secret operation plan targeting Iran failed to be implemented. The officials were the agency’s intelligence chief and the head of Iran affairs; they were identified as the plan’s principal architects and core leaders. The plot sought to undermine Iran’s current leadership by leveraging domestic ethnic minorities and to promote alternative Iranian figures, but it ran into setbacks and was not carried out.
-
----
-
-### 2026-08-07 08:33:35  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 10-year government bond yield rose 2 bps to 2.780%.
-
----
-
-### 2026-08-07 08:33:01  #市場 #國際
-
-日本10年期國債收益率上升2.0個基點，至2.780%。
-
----
-
-### 2026-08-07 08:32:54  #公司 #市場
-
-富士膠片股價下跌18%；因公司正在考慮分拆部分業務。
-
----
-
-### 2026-08-07 08:31:33  #MKT News #Important #000660.KS #Impact bearish
-
-South Korea's KOSPI turned negative intraday after an early 1.8% gain; SK Hynix fell nearly 1%.
-
----
-
-### 2026-08-07 08:30:18  #公司 #國際
-
-【力拓和必和必拓據稱受邀參加特朗普的關鍵礦產會議】白宮已邀請美國關鍵礦產行業的頂級高管週五與總統唐納德·特朗普會面。據知情人士透露，此次活動旨在展示為促進關鍵礦產開發和加工所做的努力，並計劃公佈一些交易和諒解備忘錄。他們說，受邀參加會議的人員包括來自行業巨頭的代表，如力拓集團、必和必拓集團和Freeport-McMoRan Inc.，以及來自MP Materials Corp.、USA Rare Earth Inc.、Energy Fuels Inc.、US Antimony Corp.、Sunrise Energy Metals Ltd.和The Metals Company等公司的高管。知情人士說，一些公司仍未決定是否參加，以及如果出席，將派哪些高管參加。
-
----
-
-### 2026-08-07 08:29:23  #其他
-
-【40餘名臺灣青年在閩研學AI電商技能 提升電商運營能力】日前，40餘名臺灣青年在福建省漳州市雲霄縣圓滿結束了他們為期五天的AI電商技能研學之旅。本次研習營以“AI啟新境電商聯兩岸”為主題，培訓內容緊扣數字經濟發展趨勢和臺胞青年實際需求，設定“AI工具應用和賦能”“AI工作流搭建”“AI短影片製作”三個板塊，從理論到實踐全方位提升臺胞青年電商運營能力。（看臺海）
-
----
-
-### 2026-08-07 08:29:17  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-【LG chairman to meet Jensen Huang at NVIDIA HQ next week; may discuss embodied AI, smart factories】LG Group chairman Koo Kwang-mo will meet NVIDIA CEO Jensen Huang next week at NVIDIA’s Silicon Valley headquarters, South Korea’s Economic Daily reports. Discussions are expected to focus on embodied AI and smart factory initiatives and may cover details of LG’s potential procurement of NVIDIA Blackwell GPUs.
 
 ---
