@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 16:57:26",
-  "count": 15833,
+  "updated": "2026-08-08 17:01:20",
+  "count": 15829,
   "items": [
+    {
+      "id": "5031877",
+      "time": "2026-08-08 16:57:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風影響 上海多家景點臨時閉園、調整運營時間】據“浦東釋出”微信公眾號訊息，上海市文化旅遊局介紹，颱風“白海豚”逼近，上海迪士尼、樂高樂園等多家景點已臨時閉園或調整運營時間。"
+    },
     {
       "id": "5031876",
       "time": "2026-08-08 16:55:29",
@@ -144235,50 +144243,6 @@
         "其他"
       ],
       "text": "法國行業機構表示，7月法國新車註冊量同比增長9%。"
-    },
-    {
-      "id": "mkt:019fbc8e-54f3-7aab-8f41-7dfe26f4d1a1",
-      "time": "2026-08-01 17:01:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Russian Defence Ministry says forces launched large-scale strikes on Kyiv military-industrial sites】The Russian Defence Ministry said overnight July 31–Aug 1 Russian forces struck multiple military-industrial enterprises and logistics centers in Kyiv city and Kyiv region. Ukrainian media reported multiple killed and injured."
-    },
-    {
-      "id": "5020338",
-      "time": "2026-08-01 17:01:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "伊斯坦布林7月消費者物價指數同比上漲35.20%。"
-    },
-    {
-      "id": "5020337",
-      "time": "2026-08-01 17:00:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "伊斯坦布林7月消費者價格指數環比上漲2.06%。"
-    },
-    {
-      "id": "5020336",
-      "time": "2026-08-01 17:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔塔汽車：7月印度本地銷量33,876輛，同比增長28%。"
-    },
-    {
-      "id": "5020335",
-      "time": "2026-08-01 17:00:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "塔塔汽車：7月份汽車銷量39,641輛，同比增長37%。"
     }
   ]
 }
