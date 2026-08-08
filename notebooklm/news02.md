@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 22:46:29_
-_本檔包含 3172 則快訊，約 595263 字_
+_更新時間：2026-08-08 23:42:49_
+_本檔包含 3182 則快訊，約 596574 字_
+
+---
+
+### 2026-08-07 09:40:10  #MKT News #06613.HK #Impact bullish #02208.HK #07688.HK
+
+Hong Kong commercial aerospace-related stocks active at the open: Lens Technology (06613.HK) up nearly 4%, Goldwind (02208.HK) up over 2%, Tuopu CNC (07688.HK) up about 2%.
+
+---
+
+### 2026-08-07 09:39:56  #市場 #國際
+
+韓國綜合股價指數（KOSPI）下跌2%至6170.42點。
+
+---
+
+### 2026-08-07 09:39:41  #行業 #公司 #焦點
+
+【光伏矽料八巨頭簽署倡議：不得低於成本價銷售】記者從簽約企業處獲悉，8月6日晚，在7月31日市場監管總局對光伏行業開展價格合規指導後僅一週，國內八大多晶矽企業在上海共同簽署反內卷《倡議書》。八家企業合計佔據國內多晶矽有效產能超過90%，包括四家上市公司通威股份、協鑫科技、大全能源、新特能源，以及亞洲矽業（青海）股份有限公司、新疆東方希望新能源有限公司、青海麗豪清能股份有限公司、新疆戈恩斯能源科技有限公司。企業共同承諾：所有光伏產品銷售價格（含招投標報價）均不得低於依據團體標準《光伏行業成本核算模型通則》核算的對應成本。低於完全成本價銷售的必須立即制止和糾正，並自覺接受各級市場監督管理部門的監督檢查。企業要加強互相監督，當發現低於成本銷售的違法行為時，要及時向行業協會和市場監管總局反映和舉報。此外，企業承諾嚴格落實能耗新標準，主動出清高耗能落後產能。（上海證券報）
+
+---
+
+### 2026-08-07 09:38:40  #MKT News
+
+A-share storage chip sector jumped in early trade; Woge Optoelectronics rose over 9%, Youyan New Materials, Hongban Technology and Goke Microelectronics climbed over 8%, while Guangli Technology, Zhengfan Technology and Shengyi Technology also advanced.
+
+---
+
+### 2026-08-07 09:37:27  #市場
+
+【港股PCB股走強 芯碁微裝漲超6%】截至發稿，芯碁微裝(09630.HK)漲6.45%，建滔積層板(01888.HK)漲3.44%，勝宏科技(02476.HK)漲3.29%。
+
+---
+
+### 2026-08-07 09:37:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SZSE Component
+
+A-share gaming stocks plunged intraday; Dasheng Culture hit the limit-down, while Caesar Culture, Shengtian Network, Zhongqingbao and Dianhun Network fell.
+
+---
+
+### 2026-08-07 09:36:56  #市場
+
+【6G概念延續強勢 通宇通訊5天4板】早盤6G概念延續強勢，武漢凡谷2連板，此前通宇通訊5天4板，廣哈通訊漲超10%，盛路通訊、燦勤科技、信維通訊、本川智慧漲幅靠前。
+
+---
+
+### 2026-08-07 09:36:23  #其他
+
+【“白海豚”逼近 寧波、舟山啟動沿海Ⅱ級防颱應急響應】今年，第13號颱風“白海豚”持續逼近。8月7日5時，颱風中心距離寧波約852公里，中心最大風力14級，正以每小時15至20公里的速度向西移動。根據颱風動態，寧波和舟山兩地海事部門已於8月7日8時將沿海防颱應急響應提升至Ⅱ級。為應對臺風影響，寧波海事部門持續加強重點航道、錨地和橋區巡航，目前沿海46個涉水工程已全部停工，施工船舶有序避風，100餘艘應急船舶在港口布防。舟山海事部門則依託“VTS+無人機+海巡艇”對轄區內錨地、避風水域加強立體巡查。（央視新聞）
+
+---
+
+### 2026-08-07 09:36:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share medical services sector rose in early trade; Baihua Pharmaceutical hit the daily limit-up, while Wanbang Pharmaceutical, Pharmaron and WuXi AppTec advanced.
+
+---
+
+### 2026-08-07 09:36:04  #市場
+
+【民爆概念盤初走強，保利聯合漲停】民爆概念盤初走強，保利聯合漲停，高爭民爆、廣東宏大、江南化工、金奧博、雪峰科技、盛景微等跟漲。
+
+---
+
+### 2026-08-07 09:35:50  #公司 #市場
+
+【化學制藥板塊短線拉昇，哈藥股份漲停】化學制藥板塊短線拉昇，冀衡醫藥、哈藥股份漲停，永安藥業、海南海藥、新贛江、津藥藥業、貝達藥業等紛紛走高。
+
+---
+
+### 2026-08-07 09:35:34  #MKT News #Market Regions #Greater China
+
+N Zhanxin shares rose 398% at the open on their first trading day to 115 yuan per share.
+
+---
+
+### 2026-08-07 09:35:31  #公司
+
+N展芯股份上市首日盤初漲398%，報115/股。
+
+---
+
+### 2026-08-07 09:35:07  #市場
+
+【醫療服務板塊衝高，百花醫藥漲停】醫療服務板塊衝高，百花醫藥漲停，萬邦醫藥、康龍化成、藥明康德跟漲。
+
+---
+
+### 2026-08-07 09:34:47  #公司 #國際
+
+【Jane Street尋求將110億美元債務轉為私募信貸】據知情人士透露，Jane Street正在與一群投資者就一項私募信貸交易進行磋商。交易將重整該公司110億美元的債務，減少其向市場參與者披露財務資訊的範圍。知情人士稱，這家去年交易收入高達396億美元的做市巨頭，正在與Pimco等多家公司洽談債務再融資事宜，擬將債務從公開市場轉入一個私募工具。其中一位知情人士表示，這筆總額可能至高150億美元並以私募形式進行的交易，預計將在未來幾天敲定條款，但細節仍可能發生變動。該交易將為Jane Street投資私營公司和人工智慧基礎設施，並在各市場開展交易提供財務靈活性。
+
+---
+
+### 2026-08-07 09:34:23  #市場
+
+【遊戲板塊盤初走弱，大晟文化跌停】遊戲板塊盤初走弱，大晟文化跌停，任子行、凱撒文化、盛天網路、ST華誼、天舟文化、中電電機等跟跌。
+
+---
+
+### 2026-08-07 09:34:00  #Trading Economics #Markets #Commodity #Importance 1
+
+European Natural Gas Extends Advance — European natural gas prices climbed above €58 per MWh on Friday, extending gains from the previous session as ongoing tensions in the Strait of Hormuz raised uncertainty over the resumption of LNG flows from the Persian Gulf. Iranian state media reported that naval forces had conducted an operation against "hostile targets" near the strait following explosions heard on Qeshm Island. Tehran is also reportedly seeking to restrict US and Israeli vessels from transiting the waterway under a proposed agreement with Oman, while demanding compensation from countries it considers hostile before allowing passage. European gas prices recovered most of the losses recorded earlier in the week following the reports. Continued disruptions to LNG shipments from key exporters such as Qatar have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts.
 
 ---
 
@@ -19111,47 +19213,5 @@ NTSB chair says the board is considering whether to open an investigation into a
 ### 2026-08-06 00:19:07  #MKT News
 
 【Axios: US-brokered Israel-Lebanon talks in Rome end early after local situation change】US officials told Axios the US-brokered Israel-Lebanon talks in Rome ended at 15:30 Rome time after changes in the local situation prompted an early adjournment. Both sides will resume talks tomorrow morning. Discussions covered political and military issues and made very positive progress. Technical teams advanced on key implementation details of a tripartite framework.
-
----
-
-### 2026-08-06 00:16:33  #國際
-
-以色列總理內塔尼亞胡：特朗普是以色列摯友，但以方將不惜一切保障國家安全。
-
----
-
-### 2026-08-06 00:16:08  #MKT News #PSX.N #Impact bullish
-
-Phillips 66 (PSX.N): macro environment remains favorable.
-
----
-
-### 2026-08-06 00:14:57  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOGL.O #Impact bearish #Nasdaq100
-
-【Alphabet reshuffles AI leadership; Hassabis steps back from day-to-day management】Alphabet (GOOGL.O) said on Wednesday it is making major changes to its AI leadership. DeepMind CEO Demis Hassabis will step back from primary management duties, become chairman of DeepMind and take a newly created Alphabet chief scientist role. DeepMind CTO Koray Kavukcuoglu will run day-to-day operations as senior vice president of the unit while retaining his role as Alphabet chief AI architect. Several Gemini model leads, including senior engineer Jeff Dean, have departed. Alphabet’s flagship Gemini model, originally slated for June, has not launched, raising investor concern that Google is trailing Anthropic and OpenAI, each of which has poached a Google AI talent this summer.
-
----
-
-### 2026-08-06 00:12:28  #其他 #焦點
-
-Alphabet股價跌幅擴大至5%以上。
-
----
-
-### 2026-08-06 00:12:05  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.17% Lower — The FTSE MIB Index fell 94 points or 0.17 percent on Wednesday to close at 53447 points. Leading the losses are Fincantieri (-2.27%), Infrastrutture Wire (-2.24%) and STMicroelectronics (-2.09%). Top gainers were Lottomatica (3.79%), Unipol Gruppo (1.72%) and Banca Monte dei Paschi di Siena (1.64%).
-
----
-
-### 2026-08-06 00:12:01  #宏觀 #國際
-
-美國國務院一名高階官員：以色列與黎巴嫩在羅馬舉行的本輪談判於羅馬時間今日15時30分結束。受當地安全事態影響，談判較原定時間提前結束，但將於明日上午重啟。會談圍繞多項政治與軍事議題展開，取得豐碩成果。各方專業團隊在擬定以黎美三方框架協議落地相關核心細節方面取得進展。
-
----
-
-### 2026-08-06 00:11:48  #MKT News
-
-【Head of Ural drone plant critically injured in car-bomb attack】Russian media reported on May 5 that a car bomb exploded on May 4 in a village outside Yekaterinburg, Sverdlovsk region. Vladimir Tkachuk, general manager of the Ural drone plant, was seriously wounded and taken to intensive care; his driver and bodyguard was killed. Footage showed the Mercedes carrying Tkachuk burned out. Authorities have opened a criminal investigation. TASS said the Ural drone plant produces a drone that has been widely used by Russia in the conflict with Ukraine.
 
 ---

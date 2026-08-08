@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 22:46:29_
-_本檔包含 2816 則快訊，約 595637 字_
+_更新時間：2026-08-08 23:42:49_
+_本檔包含 2807 則快訊，約 595634 字_
+
+---
+
+### 2026-08-03 20:37:52  #國際
+
+【伊朗譴責美沙聯合打擊伊拉克民兵武裝】當地時間8月3日，伊朗伊斯蘭革命衛隊最高領袖代表發表宣告，譴責美軍和沙特聯合打擊伊拉克境內的親伊朗武裝組織，並表示打擊造成多名武裝人員死亡。宣告譴責美國違背承諾，嚴重違反聯合安全協議和伊拉克國家主權，並表示美國以為透過襲擊就能摧毀伊拉克人民的意志，這完全是招致大錯的幻想。宣告還指出，該武裝組織在維護伊拉克國家安全與穩定方面始終發揮著不可替代的核心作用，至今仍繼續追剿並清剿極端組織“伊斯蘭國”的殘餘勢力。對該組織的襲擊暴露出那些虛偽的“人權提倡者”絕望與道德淪喪的本質。（央視新聞）
+
+---
+
+### 2026-08-03 20:37:41  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+White House National Economic Council Director Hassett said recent reports show inf data have been very strong.
+
+---
+
+### 2026-08-03 20:37:22  #公司
+
+華納音樂集團：預計截至2026年6月30日的第三季度，調整後每股收益約為0.51美元。
+
+---
+
+### 2026-08-03 20:37:04  #公司
+
+華納音樂集團預計，2026財年調整後OIBDA利潤率增幅將處於150-200個基點目標區間的高階。
+
+---
+
+### 2026-08-03 20:36:51  #公司
+
+華納音樂集團：公司2026財年第三季度合併營收預估為18.6億美元，同比增長10%。
+
+---
+
+### 2026-08-03 20:36:03  #其他
+
+哈塞特：近期公佈的通脹資料表現十分亮眼。
+
+---
+
+### 2026-08-03 20:35:51  #MKT News
+
+Sweden grants over €620,000 to strengthen Ukraine's healthcare system.
+
+---
+
+### 2026-08-03 20:35:44  #MKT News
+
+Magyar said water levels on the Danube near Paks and Budapest have been stagnant since this morning. The last turbine at the Paks nuclear power plant remains online and generating. Hydrological forecasts for the next few days are slightly more optimistic. Authorities and plant staff are working to maintain operations.
+
+---
+
+### 2026-08-03 20:34:34  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+Treasury Yields Fall — The yield on the US 10-year Treasury note fell to 4.67% on Monday, supported by lower oil prices and easing inflation concerns as hopes grew that tensions in the Middle East could ease. US President Trump said negotiations with Iran would begin on Monday afternoon and canceled a planned attack on the country. Investors are also awaiting a fresh batch of US economic data this week, including the closely watched employment report, for further clues on the strength of the labor market. Last week, the Fed left interest rates unchanged, although three policymakers dissented. Markets are now pricing in a roughly 63% probability of a 25bps rate hike in September, down from around 80% before the policy decision, as Chair Kevin Warsh provided little forward guidance on the outlook for interest rates. Separately, reports indicated that Warsh is considering reducing the number of Federal Reserve policy meetings from the current eight per year.
 
 ---
 
@@ -16898,113 +16952,5 @@ Israel said it killed a Hezbollah member in southern Lebanon and that one Israel
 ### 2026-08-01 23:46:42  #國際
 
 伊朗最高領袖顧問穆赫貝爾：針對伊朗基礎設施發動襲擊，將會引爆“維繫250年美國霸權之下的各類裂痕”。
-
----
-
-### 2026-08-01 23:41:09  #國際
-
-以色列官員：對方（美國）並未要求我方參與任何針對伊朗的軍事行動。
-
----
-
-### 2026-08-01 23:37:52  #國際
-
-以色列官員：未獲悉任何重啟針對伊朗軍事行動的相關決議。
-
----
-
-### 2026-08-01 23:37:03  #焦點 #國際
-
-市場資訊：日本與美國或於下週公佈支撐日元的新政策。
-
----
-
-### 2026-08-01 23:35:57  #國際
-
-美國中央司令部：一架美國陸軍CH-47“支奴幹”直升機準備在中東降落。支奴幹是一款縱列雙旋翼飛行器，設計用於在多種環境下運送人員、裝備及物資。
-
----
-
-### 2026-08-01 23:32:04  #公司 #國際
-
-【特朗普社交帖文開啟付費搶先服務，月費十萬美元引法律爭議】美國總統特朗普在社交媒體釋出的帖文將於週六開啟付費服務。其旗下“真實社交”平臺將向願意支付費用的華爾街交易商提供帖文搶先閱覽許可權。這項業務有望為特朗普所屬公司帶來豐厚利潤，但也引發重大爭議：是否構成內幕交易，以及利用公職謀取私利。該資料服務命名“真實介面”（Truth API），月費定價10萬美元。高頻交易機構Able Alpha Trading負責人艾琳·奧爾德里奇表示：“如果這是一家上市公司執行長所為，當事人恐怕要面臨牢獄之災。”該機構並無計劃購買此項服務。“美國總統掌握所有事態的一手資訊、擁有各項決策權，如今他卻將相關資訊提前洩露給少數特定群體。”
-
----
-
-### 2026-08-01 23:27:11  #其他
-
-7月31日最新衛星影象清晰展現胡塞武裝無人機與導彈襲擊沙特阿美吉贊煉油廠造成的損毀情況。影象顯示至少三座儲油罐被徹底摧毀，另有兩座嚴重受損。
-
----
-
-### 2026-08-01 23:26:23  #國際
-
-【魯比奧：伊朗從未面對特朗普式總統，無代價談判時代終結】美國國務卿魯比奧表示，伊朗不要再指望能夠毫無代價地展開談判。他稱，對於往屆政府不願採取行動的情形，特朗普願意出手施策。魯比奧指責伊朗數十年來不斷“撒謊、撕毀協議、誘騙各方簽署協定”。與此同時，白宮發出警告：在伊朗重返特朗普所認可的實質性談判之前，伊朗“將持續付出代價”。
-
----
-
-### 2026-08-01 23:24:54  #其他
-
-市場資訊：MicroStrategy創始人邁克爾·塞勒計劃出售至多價值50億美元的比特幣。
-
----
-
-### 2026-08-01 23:20:05  #國際
-
-歐盟將於下週二召開內政部長視訊會議，討論休達移民越境問題。
-
----
-
-### 2026-08-01 23:16:50  #公司 #國際
-
-【烏克蘭一電商倉庫遭襲 造成1死7傷】當地時間8月1日，烏克蘭方面稱，俄軍使用“見證者”無人機，襲擊了烏克蘭一知名電商平臺的一處倉庫。事發時倉庫內共有270名工作人員在崗。據稱，本次襲擊造成該公司1名員工身亡，另有7人受傷入院，其中1人傷勢嚴重。目前，俄羅斯方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-08-01 23:12:16  #國際
-
-【美前官員：武器庫存不足令美政府承壓】7月31日，前美國國家安全委員會官員查爾斯·庫普錢在採訪中表示，美國對伊朗的戰事已變成消耗戰，美國使用並給盟友提供了大量“愛國者”和“戰斧”導彈以及精確制導武器，導致其庫儲存備快速消耗。查爾斯·庫普錢還表示，武器庫存不足讓美國承壓，特朗普政府或將被迫尋求用外交手段來解決當前問題。（央視新聞）
-
----
-
-### 2026-08-01 23:04:57  #其他
-
-【嘉能可追討2.3億美元未付油款】全球大宗商品貿易商嘉能可稱，其遭誘騙向英國一家煉油廠供應總價值超2.3億美元原油；該煉油廠收貨後始終未支付貨款，並於去年宣告資不抵債。目前嘉能可正申請法院許可，起訴普拉克斯·林賽煉油廠，請求撤銷相關供貨合同。嘉能可主張，這些合同系透過欺詐手段訂立。根據訴訟檔案，嘉能可一旦勝訴，這批原油對應的收益將獨立劃出，不納入可供其他債權人分配的破產資產池。
-
----
-
-### 2026-08-01 22:55:10  #國際
-
-巴林譴責伊朗週六對科威特平民和重要設施的反覆襲擊，稱這些襲擊是對該國主權、安全和穩定的嚴重侵犯。
-
----
-
-### 2026-08-01 22:54:53  #國際
-
-特朗普：履行你們的職責，參議院領袖約翰·圖恩、參議員莉薩·穆爾科夫斯基、湯姆·蒂利斯、蘇珊·柯林斯。取消為期五週的休會假期，推動《拯救美國法案》落地。
-
----
-
-### 2026-08-01 22:53:16  #國際
-
-西班牙抨擊歐盟對休達危機的應對舉措，要求歐盟緊急召開會議。
-
----
-
-### 2026-08-01 22:52:53  #MKT News #Brent #Impact bullish #WTI
-
-Interfax: Russian forces damaged an oil tanker previously used by the Ukrainian military in Odesa port and struck an ocean tug in Mykolaiv port.
-
----
-
-### 2026-08-01 22:50:05  #公司
-
-【歐足聯要求因凡蒂諾辭職】8月1日，歐足聯已要求國際足聯主席因凡蒂諾辭職。若其拒絕，歐足聯準備對他發起不信任投票。據悉，這需要國際足聯211個成員國中的43個國家投票支援，而歐足聯擁有55個成員國。 稍早前，在沒有與各大洲足聯溝通的情況下，國際足聯決定推出世界盃股份出售計劃。隨後，歐足聯、亞足聯以及中北美足聯公開批評這一計劃，其中，歐足聯表示一旦國際足聯推行這一計劃，將拒絕參加世界盃在內的國際足聯賽事。 面對巨大壓力，國際足聯宣佈放棄這一計劃。因凡蒂諾表示：“該計劃已引發的分歧程度，無論支援力度如何，都已不再符合最初設定目標的利益。”
-
----
-
-### 2026-08-01 22:47:07  #國際
-
-俄羅斯武裝部隊在烏克蘭敖德薩港損毀了一艘原供烏克蘭軍方使用的油輪，並在尼古拉耶夫港擊中一艘海上拖船。
 
 ---

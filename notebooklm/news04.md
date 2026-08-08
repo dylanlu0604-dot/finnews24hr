@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 22:46:29_
-_本檔包含 3364 則快訊，約 595639 字_
+_更新時間：2026-08-08 23:42:49_
+_本檔包含 3365 則快訊，約 596067 字_
+
+---
+
+### 2026-08-04 22:49:15  #公司 #國際
+
+美國民主參議員Mark Warner：上週末，Truth Social 10萬美元的訂閱服務正式上線。昨晚，我提出了一項法案，旨在打擊這種腐敗，確保所有美國人都能免費平等地獲取政府官員的公告。
+
+---
+
+### 2026-08-04 22:49:10  #公司 #國際
+
+【CoreWeave 計劃透過印尼資料中心進軍亞洲市場】人工智慧（AI）雲服務公司CoreWeave Inc.正透過在該地區建立首批資料中心進軍亞洲市場，將業務擴充套件到這個對計算能力需求迫切且快速增長的地區。該公司在一份宣告中表示，計劃在美國境外建設三個新的資料中心，均位於印度尼西亞，總容量達360兆瓦。該公司將在此專案上投資數十億美元，資料中心預計於2028年投入運營，目標客戶為東南亞的實驗室、初創企業和企業客戶；將在該專案上投資數十億美元，但無法提供具體估算。
+
+---
+
+### 2026-08-04 22:47:50  #國際
+
+8 月 4 日全球基金淨買入印度股票 245 億印度盧比。
+
+---
+
+### 2026-08-04 22:46:57  #宏觀 #市場 #國際
+
+【霍爾木茲海峽或重開油價大跌】當地時間4日，美國財政部長貝森特在接受採訪時表示，美國和伊朗可能在4日或5日達成協議，霍爾木茲海峽將重新開放，允許商船自由通行。受此訊息影響，當天國際油價盤中大幅下跌，截至北京時間4日21:45，紐約商品交易所9月交貨的輕質原油期貨價格跌幅為4.79%，報每桶76.50美元；10月交貨的倫敦布倫特原油期貨價格跌幅為4.23%，報每桶80.23美元。（央視財經）
+
+---
+
+### 2026-08-04 22:46:10  #國際
+
+【菲律賓三寶顏市暴發登革熱疫情 已致12人死亡】菲律賓三寶顏市政府4日宣佈，該市暴發登革熱疫情，累計確診1241例，其中至少12例死亡。 三寶顏市市長奧拉索表示，確診病例已連續5個星期持續增加。他敦促全市所有社群加強清潔和衛生工作，以遏制疫情傳播。 三寶顏市位於菲律賓南部棉蘭老島，目前正值雨季，蚊蟲大量滋生導致登革熱等疾病多發。當地衛生部門監測結果顯示，蚊蟲密度最高已達到安全限值的12倍，為登革熱疫情加劇提供了條件。 登革熱是由登革病毒引發的急性傳染病，主要透過蚊媒傳播，多在熱帶和亞熱帶地區流行，典型症狀包括持續發熱、頭痛、肌肉痛、關節痛等，嚴重時可致死。(新華社)
+
+---
+
+### 2026-08-04 22:45:23  #其他
+
+受卡納科爾能源持續實施天然氣供應限制影響，塞羅馬託索礦無限期將產能削減 50%。
+
+---
+
+### 2026-08-04 22:44:48  #國際
+
+韓國計劃在2031年向地月之間空域發射科研探測器，用於觀測太陽活動。
+
+---
+
+### 2026-08-04 22:44:41  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iraq's Oil Ministry said crude is sold ex‑port and buyers are responsible for transportation; once tankers leave Iraqi ports the ministry accepts no responsibility for voyages via the Strait of Hormuz.
+
+---
+
+### 2026-08-04 22:44:29  #公司 #焦點
+
+【中科三環：擬收購寧波中電磁聲電子有限公司控股權】中科三環公告稱，公司第九屆董事會2026年第五次臨時會議審議透過議案，同意與寧波中電磁聲電子有限公司及其控股股東、實控人姚剛簽署《收購意向協議書》，擬收購姚剛等股東持有的該公司股權以取得控股權。本次收購預計不構成重大資產重組和關聯交易。
+
+---
+
+### 2026-08-04 22:44:26  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Holds Steady as Oil Slump Reduces Fed Rate Hike Bets — The dollar index hovered around 100 on Tuesday, while US Treasury yields declined as oil prices tumbled on growing optimism that diplomatic efforts could bring an end to the US-Iran conflict, prompting investors to scale back expectations for a Federal Reserve interest rate hike in September. Qatar said mediators were making progress in negotiations, while Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as early as Tuesday or Wednesday. Investors also assessed a fresh batch of US economic data. Job openings fell more than expected to 7.36 million in June, the trade deficit narrowed as imports declined more than exports, and factory orders unexpectedly fell 0.3%, marking a second consecutive monthly decline. The developments pushed the implied probability of a September Fed rate hike down to 57%. Markets now turn their attention to the ADP employment report and Friday's nonfarm payrolls for further clues on the Fed's policy outlook.
 
 ---
 
@@ -20203,59 +20263,5 @@ AUTODESK 完成對 MAINTAINX 的收購。
 ### 2026-08-03 20:38:07  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
 
 Chile Economic Activity Rebounds in June — Chile's IMACEC economic activity index rose 2.4% year-on-year in June 2026, rebounding from a 0.9% decline in May and marking its strongest annual growth since September 2025. Goods-producing activity increased 3.9%, supported by a 9.8% rise in mining and quarrying, particularly copper production, although gains were partly offset by a 0.7% contraction in manufacturing. Trade expanded 5.4%, with all segments posting positive results, led by wholesale trade amid stronger sales of machinery and equipment. Services activity also increased by 1.0%, driven by gains in personal and business services. On a seasonally adjusted monthly basis, economic activity expanded 0.6%, rebounding from a 0.2% decline in the previous month.
-
----
-
-### 2026-08-03 20:37:52  #國際
-
-【伊朗譴責美沙聯合打擊伊拉克民兵武裝】當地時間8月3日，伊朗伊斯蘭革命衛隊最高領袖代表發表宣告，譴責美軍和沙特聯合打擊伊拉克境內的親伊朗武裝組織，並表示打擊造成多名武裝人員死亡。宣告譴責美國違背承諾，嚴重違反聯合安全協議和伊拉克國家主權，並表示美國以為透過襲擊就能摧毀伊拉克人民的意志，這完全是招致大錯的幻想。宣告還指出，該武裝組織在維護伊拉克國家安全與穩定方面始終發揮著不可替代的核心作用，至今仍繼續追剿並清剿極端組織“伊斯蘭國”的殘餘勢力。對該組織的襲擊暴露出那些虛偽的“人權提倡者”絕望與道德淪喪的本質。（央視新聞）
-
----
-
-### 2026-08-03 20:37:41  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-White House National Economic Council Director Hassett said recent reports show inf data have been very strong.
-
----
-
-### 2026-08-03 20:37:22  #公司
-
-華納音樂集團：預計截至2026年6月30日的第三季度，調整後每股收益約為0.51美元。
-
----
-
-### 2026-08-03 20:37:04  #公司
-
-華納音樂集團預計，2026財年調整後OIBDA利潤率增幅將處於150-200個基點目標區間的高階。
-
----
-
-### 2026-08-03 20:36:51  #公司
-
-華納音樂集團：公司2026財年第三季度合併營收預估為18.6億美元，同比增長10%。
-
----
-
-### 2026-08-03 20:36:03  #其他
-
-哈塞特：近期公佈的通脹資料表現十分亮眼。
-
----
-
-### 2026-08-03 20:35:51  #MKT News
-
-Sweden grants over €620,000 to strengthen Ukraine's healthcare system.
-
----
-
-### 2026-08-03 20:35:44  #MKT News
-
-Magyar said water levels on the Danube near Paks and Budapest have been stagnant since this morning. The last turbine at the Paks nuclear power plant remains online and generating. Hydrological forecasts for the next few days are slightly more optimistic. Authorities and plant staff are working to maintain operations.
-
----
-
-### 2026-08-03 20:34:34  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Fall — The yield on the US 10-year Treasury note fell to 4.67% on Monday, supported by lower oil prices and easing inflation concerns as hopes grew that tensions in the Middle East could ease. US President Trump said negotiations with Iran would begin on Monday afternoon and canceled a planned attack on the country. Investors are also awaiting a fresh batch of US economic data this week, including the closely watched employment report, for further clues on the strength of the labor market. Last week, the Fed left interest rates unchanged, although three policymakers dissented. Markets are now pricing in a roughly 63% probability of a 25bps rate hike in September, down from around 80% before the policy decision, as Chair Kevin Warsh provided little forward guidance on the outlook for interest rates. Separately, reports indicated that Warsh is considering reducing the number of Federal Reserve policy meetings from the current eight per year.
 
 ---

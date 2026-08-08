@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 22:46:29_
-_本檔包含 3124 則快訊，約 597032 字_
+_更新時間：2026-08-08 23:42:49_
+_本檔包含 3134 則快訊，約 596278 字_
+
+---
+
+### 2026-08-08 23:40:51  #國際
+
+市場資訊：美國加大施壓，要求億萬富翁薩金特離開委內瑞拉。
+
+---
+
+### 2026-08-08 23:30:44  #其他
+
+市場資訊：葉門武裝部隊稱，已沿多條戰線對胡塞武裝發起打擊。
+
+---
+
+### 2026-08-08 23:29:03  #焦點 #國際
+
+受伊朗戰事影響，日本各家銀行預判美元需求或將突然激增。日本三大銀行將外幣流動性提升至1.25萬億美元。
+
+---
+
+### 2026-08-08 23:28:05  #國際
+
+伊朗革命衛隊聖城部隊副指揮官：我們沒有攻擊海灣國家，而是僅針對敵人在攻擊源頭的（軍事）基地。
+
+---
+
+### 2026-08-08 23:27:31  #其他
+
+【寮國國會主席賽宋蓬病逝】據寮國人民革命黨中央機關報《人民報》報道，寮國國會主席賽宋蓬·豐威漢於8月8日病逝。（新華社）
+
+---
+
+### 2026-08-08 23:18:32  #國際
+
+伊朗陸軍發言人：美國在霍爾木茲海峽事務上別無選擇，只能接受現狀，否則將承受遠超其所付出的代價。
+
+---
+
+### 2026-08-08 23:18:07  #國際
+
+伊朗陸軍發言人：伊朗在霍爾木茲海峽的現行體制不可逆轉。
+
+---
+
+### 2026-08-08 23:16:50  #國際
+
+【河南釋出農田漬澇災害風險預警】河南省氣象局、河南省農業農村廳8日聯合釋出農田漬澇災害風險預警。 據介紹，受颱風“白海豚”影響，預計8月10日至13日，河南東南部、中東部和北部部分縣（市、區）有暴雨、大暴雨，其他縣（市、區）中到大雨，與前期土壤偏溼地塊疊加，河南全省大部存在農田漬澇風險，其中，豫北東部、中東部及豫南大部風險高，降水過程同時伴有7至8級陣風，局地玉米有倒伏風險，需加強防範。（新華社）
+
+---
+
+### 2026-08-08 23:15:20  #其他
+
+【受颱風“白海豚”影響 上海兩大機場近六成航班調減取消】受今年第13號颱風“白海豚”影響，明天（9日）上海浦東機場和虹橋機場通行能力將出現下降，近六成進出港航班調減取消。兩場計劃取消進出港航班1384架次，其中，浦東機場取消871架次、虹橋機場取消航班513架次。請旅客及時向所乘航司瞭解查詢航班最新動態，合理安排出行。（央視新聞）
+
+---
+
+### 2026-08-08 23:13:09  #其他
+
+【平陸運河電子航道圖上線執行】近日，平陸運河電子航道圖已在廣西數字水運一體化平臺、廣西水運江河海一體化排程平臺上線執行，標誌著平陸運河順利實現航道數字化導航，為平陸運河全段通航數字化、管理智慧化奠定了堅實基礎，也為全國內河電子航道建設應用提供了“運河樣本”。（央視新聞）
+
+---
+
+### 2026-08-08 23:09:58  #國際
+
+伊朗總統：倘若各方談及達成協議，我認為當下正是最佳時機。我國內部團結一致、實力穩固；據我所知，在這場戰爭與衝突中，伊朗被視作勝利者與強者。
+
+---
+
+### 2026-08-08 23:07:33  #國際
+
+【萬斯談到伊朗局勢時稱“我們還在博弈過程中”】美國副總統萬斯在週六播出的新聞採訪中談及伊朗局勢時表示：“我們還在博弈過程中。”他說：“我們正在綜合運用外交、經濟和軍事等各種手段，以確保為美國人民爭取到最好的結果。”萬斯表示：“我相當有信心，我們最終會實現這一目標。”他說，過去幾天伊朗談判取得了一些進展。萬斯表示，美國預計海灣地區的石油和天然氣供應將恢復到衝突前的水平，“伊朗方面告訴我們，他們會這麼做”。他說：“我們不會輕信，而是會核實”。
+
+---
+
+### 2026-08-08 23:04:13  #國際
+
+伊朗總統：停止或繼續在伊朗的戰爭的決定權掌握在革命衛隊和軍事領導人手中，而不是政府。
+
+---
+
+### 2026-08-08 23:02:55  #國際
+
+伊朗總統：我們每日都在探討如何推進外交途徑，以擺脫這種既非戰爭也非和平的狀態。
+
+---
+
+### 2026-08-08 23:02:16  #國際
+
+美國五角大樓：霍爾木茲海峽的核心問題源於伊朗在戰爭初期佈設水雷，我方正推進建立一套安全航行體系。
+
+---
+
+### 2026-08-08 23:01:58  #國際
+
+伊朗總統：決意以諒解備忘錄為談判基礎，但前提是美國摒棄其製造的不信任氛圍。
+
+---
+
+### 2026-08-08 23:01:34  #國際
+
+伊朗總統：美國不值得信任，但我們仍謀求與其取得一定進展，解決當前面臨的問題。
+
+---
+
+### 2026-08-08 23:01:20  #國際
+
+伊朗總統：戰爭不可能永無休止，終究總要在某個時刻畫上句號。
+
+---
+
+### 2026-08-08 22:56:24  #國際
+
+【阿曼：霍爾木茲海峽通航安排談判在積極氛圍中推進】當地時間8日，阿曼外交部發表宣告稱，目前有關霍爾木茲海峽通航安排的談判正在積極、建設性的氛圍中推進，並已取得兼顧各方利益的進展。宣告強調，應避免採取任何可能影響相關談判以及已經取得進展的行動。宣告同時對近期船隻在透過霍爾木茲海峽期間多次遭到襲擊表示譴責。阿方表示，相關行為違反國際法，侵犯沿岸國領海主權，並對海上航行安全以及地區安全與穩定構成威脅。（央視新聞）
+
+---
+
+### 2026-08-08 22:56:17  #MKT News
+
+Iranian President PEZESHKIAN said problems cannot be solved by war alone and pledged to advance the peace process under the terms of the memorandum of understanding.
+
+---
+
+### 2026-08-08 22:54:49  #國際
+
+美國副總統萬斯：伊朗已通知美國將允許最大流量的石油透過海峽，但我們不信任他們。
+
+---
+
+### 2026-08-08 22:53:24  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Vice President Vance said Iran has notified the U.S. it will allow maximum oil flow through the strait, but we do not trust them.
+
+---
+
+### 2026-08-08 22:52:35  #MKT News
+
+U.S. Vice President Vance said the U.S. will continue to apply pressure on Iran.
+
+---
+
+### 2026-08-08 22:52:29  #MKT News #WTI #Impact bearish #Brent
+
+U.S. Vice President Vance said the U.S. is working to establish a secure transit corridor to allow vessels safe passage through the Strait of Hormuz.
+
+---
+
+### 2026-08-08 22:51:11  #國際
+
+市場訊息：美國副總統萬斯表示，伊朗已通知美國，儘管政權內部人士發表了將對霍爾木茲海峽徵收過境費的宣告，但伊朗不會徵收此類費用。
+
+---
+
+### 2026-08-08 22:49:27  #MKT News #S&P500 #Impact bullish #WTI #Impact bearish #XAUUSD
+
+U.S. Vice President Vance said the U.S. has significantly degraded Iran's asymmetric military capabilities.
+
+---
+
+### 2026-08-08 22:47:30  #其他
+
+【鍾睒睒：感性消費被線上購物平臺扼殺，必須限制平臺能力】8月8日訊息，今日，農夫山泉創始人、董事長鍾睒睒做客央視財經《對話》直播節目。直播中，談及目前在生活中普及的電商平臺，鍾睒睒表示，平臺是一種特殊的中間商，“這個中間商無處不在，把城市的很多零售商都‘殺’光了。”他說。他認為，城市中的許多店鋪是根據感性來消費的，但目前這種消費已經被扼殺。“把年輕人都吸引到手機螢幕裡，創造性和感性在哪裡？”因此，他表示必須限制平臺的能力。
 
 ---
 
@@ -18716,107 +18878,5 @@ South Korea's KOSPI fell as much as 2.00% intraday.
 ### 2026-08-07 09:40:33  #MKT News #Important #Market Regions #Greater China
 
 【Eight major Chinese polysilicon producers pledge not to sell below cost】Eight leading Chinese polysilicon producers signed an anti-cutthroat pricing pledge in Shanghai on the evening of Aug. 6, agreeing not to sell polysilicon below cost, according to signatories; the move came one week after the State Administration for Market Regulation issued price-compliance guidance for the photovoltaic sector on July 31.
-
----
-
-### 2026-08-07 09:40:10  #MKT News #06613.HK #Impact bullish #02208.HK #07688.HK
-
-Hong Kong commercial aerospace-related stocks active at the open: Lens Technology (06613.HK) up nearly 4%, Goldwind (02208.HK) up over 2%, Tuopu CNC (07688.HK) up about 2%.
-
----
-
-### 2026-08-07 09:39:56  #市場 #國際
-
-韓國綜合股價指數（KOSPI）下跌2%至6170.42點。
-
----
-
-### 2026-08-07 09:39:41  #行業 #公司 #焦點
-
-【光伏矽料八巨頭簽署倡議：不得低於成本價銷售】記者從簽約企業處獲悉，8月6日晚，在7月31日市場監管總局對光伏行業開展價格合規指導後僅一週，國內八大多晶矽企業在上海共同簽署反內卷《倡議書》。八家企業合計佔據國內多晶矽有效產能超過90%，包括四家上市公司通威股份、協鑫科技、大全能源、新特能源，以及亞洲矽業（青海）股份有限公司、新疆東方希望新能源有限公司、青海麗豪清能股份有限公司、新疆戈恩斯能源科技有限公司。企業共同承諾：所有光伏產品銷售價格（含招投標報價）均不得低於依據團體標準《光伏行業成本核算模型通則》核算的對應成本。低於完全成本價銷售的必須立即制止和糾正，並自覺接受各級市場監督管理部門的監督檢查。企業要加強互相監督，當發現低於成本銷售的違法行為時，要及時向行業協會和市場監管總局反映和舉報。此外，企業承諾嚴格落實能耗新標準，主動出清高耗能落後產能。（上海證券報）
-
----
-
-### 2026-08-07 09:38:40  #MKT News
-
-A-share storage chip sector jumped in early trade; Woge Optoelectronics rose over 9%, Youyan New Materials, Hongban Technology and Goke Microelectronics climbed over 8%, while Guangli Technology, Zhengfan Technology and Shengyi Technology also advanced.
-
----
-
-### 2026-08-07 09:37:27  #市場
-
-【港股PCB股走強 芯碁微裝漲超6%】截至發稿，芯碁微裝(09630.HK)漲6.45%，建滔積層板(01888.HK)漲3.44%，勝宏科技(02476.HK)漲3.29%。
-
----
-
-### 2026-08-07 09:37:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SZSE Component
-
-A-share gaming stocks plunged intraday; Dasheng Culture hit the limit-down, while Caesar Culture, Shengtian Network, Zhongqingbao and Dianhun Network fell.
-
----
-
-### 2026-08-07 09:36:56  #市場
-
-【6G概念延續強勢 通宇通訊5天4板】早盤6G概念延續強勢，武漢凡谷2連板，此前通宇通訊5天4板，廣哈通訊漲超10%，盛路通訊、燦勤科技、信維通訊、本川智慧漲幅靠前。
-
----
-
-### 2026-08-07 09:36:23  #其他
-
-【“白海豚”逼近 寧波、舟山啟動沿海Ⅱ級防颱應急響應】今年，第13號颱風“白海豚”持續逼近。8月7日5時，颱風中心距離寧波約852公里，中心最大風力14級，正以每小時15至20公里的速度向西移動。根據颱風動態，寧波和舟山兩地海事部門已於8月7日8時將沿海防颱應急響應提升至Ⅱ級。為應對臺風影響，寧波海事部門持續加強重點航道、錨地和橋區巡航，目前沿海46個涉水工程已全部停工，施工船舶有序避風，100餘艘應急船舶在港口布防。舟山海事部門則依託“VTS+無人機+海巡艇”對轄區內錨地、避風水域加強立體巡查。（央視新聞）
-
----
-
-### 2026-08-07 09:36:06  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share medical services sector rose in early trade; Baihua Pharmaceutical hit the daily limit-up, while Wanbang Pharmaceutical, Pharmaron and WuXi AppTec advanced.
-
----
-
-### 2026-08-07 09:36:04  #市場
-
-【民爆概念盤初走強，保利聯合漲停】民爆概念盤初走強，保利聯合漲停，高爭民爆、廣東宏大、江南化工、金奧博、雪峰科技、盛景微等跟漲。
-
----
-
-### 2026-08-07 09:35:50  #公司 #市場
-
-【化學制藥板塊短線拉昇，哈藥股份漲停】化學制藥板塊短線拉昇，冀衡醫藥、哈藥股份漲停，永安藥業、海南海藥、新贛江、津藥藥業、貝達藥業等紛紛走高。
-
----
-
-### 2026-08-07 09:35:34  #MKT News #Market Regions #Greater China
-
-N Zhanxin shares rose 398% at the open on their first trading day to 115 yuan per share.
-
----
-
-### 2026-08-07 09:35:31  #公司
-
-N展芯股份上市首日盤初漲398%，報115/股。
-
----
-
-### 2026-08-07 09:35:07  #市場
-
-【醫療服務板塊衝高，百花醫藥漲停】醫療服務板塊衝高，百花醫藥漲停，萬邦醫藥、康龍化成、藥明康德跟漲。
-
----
-
-### 2026-08-07 09:34:47  #公司 #國際
-
-【Jane Street尋求將110億美元債務轉為私募信貸】據知情人士透露，Jane Street正在與一群投資者就一項私募信貸交易進行磋商。交易將重整該公司110億美元的債務，減少其向市場參與者披露財務資訊的範圍。知情人士稱，這家去年交易收入高達396億美元的做市巨頭，正在與Pimco等多家公司洽談債務再融資事宜，擬將債務從公開市場轉入一個私募工具。其中一位知情人士表示，這筆總額可能至高150億美元並以私募形式進行的交易，預計將在未來幾天敲定條款，但細節仍可能發生變動。該交易將為Jane Street投資私營公司和人工智慧基礎設施，並在各市場開展交易提供財務靈活性。
-
----
-
-### 2026-08-07 09:34:23  #市場
-
-【遊戲板塊盤初走弱，大晟文化跌停】遊戲板塊盤初走弱，大晟文化跌停，任子行、凱撒文化、盛天網路、ST華誼、天舟文化、中電電機等跟跌。
-
----
-
-### 2026-08-07 09:34:00  #Trading Economics #Markets #Commodity #Importance 1
-
-European Natural Gas Extends Advance — European natural gas prices climbed above €58 per MWh on Friday, extending gains from the previous session as ongoing tensions in the Strait of Hormuz raised uncertainty over the resumption of LNG flows from the Persian Gulf. Iranian state media reported that naval forces had conducted an operation against "hostile targets" near the strait following explosions heard on Qeshm Island. Tehran is also reportedly seeking to restrict US and Israeli vessels from transiting the waterway under a proposed agreement with Oman, while demanding compensation from countries it considers hostile before allowing passage. European gas prices recovered most of the losses recorded earlier in the week following the reports. Continued disruptions to LNG shipments from key exporters such as Qatar have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts.
 
 ---
