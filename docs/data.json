@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-08 12:30:48",
+  "updated": "2026-08-08 12:34:41",
   "count": 15922,
   "items": [
+    {
+      "id": "mkt:019fdfa4-c410-7aab-8fc2-abbb9a836bbc",
+      "time": "2026-08-08 12:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【August 2026 box office tops CNY 1.5 bln】Lighthouse Professional data show as of Aug 8 total August box office, including presales, exceeded CNY 1.5 bln. Top five titles are Spider-Man: A New Day; The Eight Immortals!; Kung Fu Women's Football; Annual Party Can't Stop! 2; Obsession."
+    },
+    {
+      "id": "mkt:019fdfa3-c4bd-7aab-8fc2-a65591b96490",
+      "time": "2026-08-08 12:31:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian operations command said the Ilsky refinery caught fire after drone wreckage fell, RIA reported."
+    },
     {
       "id": "te:markets:573897",
       "time": "2026-08-08 12:26:56",
@@ -145059,26 +145077,6 @@
         "市場"
       ],
       "text": "【亞馬遜雲業務增速超預期 機構資金加倉18只雲端計算概念股】美國當地時間7月30日，亞馬遜公佈2026年第二季度財報，其中，最受市場關注的亞馬遜雲服務（AWS）業務在本季度營收422.32億美元，同比增長36.7%，高於市場預期的31%，創2021年以來最快增速，已連續第五個季度實現加速增長。AWS貢獻了公司約五分之一的營收和大部分營業利潤。在業績利好的刺激下，亞馬遜股價大幅上漲。美國當地時間週五，亞馬遜（AMZN.O）股價收盤上漲15.32%，截至最新收盤，公司總市值達到2.93萬億美元。在AI技術與算力網路深度融合的大趨勢下，疊加國內企業“智改數轉”程序持續提速，市場用雲需求不斷下沉、深化。從業績資料來看，今年上半年淨利潤同比增長（含扭虧為盈）的雲端計算概念股有11只，其中浪潮資訊、金山辦公、紫光股份淨利潤規模靠前。資金維度方面，資料寶統計，截至7月31日收盤，18只雲端計算概念股7月以來獲得機構資金淨買入超1億元。紫光股份、星網銳捷、浪潮資訊分別獲得機構資金淨買入28.71億元、22.2億元、21.42億元，排在前三位。"
-    },
-    {
-      "id": "5020213",
-      "time": "2026-08-01 12:34:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百事可樂跨界沐浴露國內平臺市場價格漲幅約130%】8月1日訊息，近日百事可樂跨界美妝，與美國品牌Glamlite聯名推出洗護系列，含野櫻桃沐浴露和香草冰沙身體磨砂膏，主打可樂香氣，目前僅在美國等部分地區限量發售，未登陸中國大陸。該商品原價12美元（約86元），介面新聞查詢得物App發現，目前其國內平臺市場價已漲至199元，漲幅約130%，貨源緊俏。"
-    },
-    {
-      "id": "mkt:019fbb98-e70e-7aab-8f3f-e6439083d692",
-      "time": "2026-08-01 12:33:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Will Israel withdraw from Gaza?】Hamas has said it will include heavy-weapons handover in a Gaza ceasefire framework, but conditions the concession on Israel halting all aggression and withdrawing forces from the enclave. Israeli senior officials say they will not pull back from current Gaza positions until Hamas is “truly disarmed.” With an Israeli election months away and opposition polling ahead, Prime Minister Netanyahu faces strong political incentives to avoid a withdrawal that could fracture his coalition or antagonize key partners. Analysts and advisers say Netanyahu is likely to prefer symbolic intra-Gaza troop movements—such as repositioning to the old front lines referenced in the October 2025 ceasefire text—rather than a full withdrawal, both to preserve ties with Trump and to keep coalition unity. Observers note the prior ceasefire was widely breached by Israeli operations, which reportedly resulted in more than 1,200 Palestinian fatalities and continued expansion of Israeli control areas. The net policy signal: a full Israeli pullback from Gaza appears unlikely in the near term; expect continued negotiation standoffs and elevated risk of military continuity or escalation pending political calculations."
     }
   ]
 }

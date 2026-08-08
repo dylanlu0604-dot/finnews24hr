@@ -1,7 +1,25 @@
 {
   "date": "2026-08-08",
-  "count": 570,
+  "count": 572,
   "items": [
+    {
+      "id": "mkt:019fdfa4-c410-7aab-8fc2-abbb9a836bbc",
+      "time": "2026-08-08 12:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【August 2026 box office tops CNY 1.5 bln】Lighthouse Professional data show as of Aug 8 total August box office, including presales, exceeded CNY 1.5 bln. Top five titles are Spider-Man: A New Day; The Eight Immortals!; Kung Fu Women's Football; Annual Party Can't Stop! 2; Obsession."
+    },
+    {
+      "id": "mkt:019fdfa3-c4bd-7aab-8fc2-a65591b96490",
+      "time": "2026-08-08 12:31:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Russian operations command said the Ilsky refinery caught fire after drone wreckage fell, RIA reported."
+    },
     {
       "id": "te:markets:573897",
       "time": "2026-08-08 12:26:56",
