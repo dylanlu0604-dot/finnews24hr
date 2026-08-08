@@ -1,7 +1,7 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 06:42:14_
-_本檔包含 3431 則快訊，約 598074 字_
+_更新時間：2026-08-09 07:02:02_
+_本檔包含 3430 則快訊，約 597153 字_
 
 ---
 
@@ -20683,11 +20683,5 @@ Nikkei reports Eneos Holdings plans to raise global growth investment to about 1
 ### 2026-08-04 23:45:04  #MKT News
 
 【Bookings for cooling routes surge 500%】China's 2026 summer travel season is past its midpoint and has shown a late start followed by stronger late-stage demand. Prolonged high temperatures have pushed passengers toward naturally cooler destinations. Since July, searches for cooling getaways and night tours rose 238% MoM. Nearly half of the 20 routes with the biggest summer ticket booking gains are cooling routes: Wuhu–Guiyang bookings are up 5x; Zhengzhou–Mangshi and Guangzhou–Yanji are up over 3x; Huizhou–Taiyuan bookings are up 2.4x.
-
----
-
-### 2026-08-04 23:43:50  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Rises Led by Miners, Oil Stocks Fall — The FTSE 100 gained 0.3% on Tuesday, lagging behind other major markets as weakness in energy stocks offset a strong rally in mining shares. Investor sentiment improved amid growing expectations that the US and Iran could reach an agreement, easing concerns over potential supply disruptions and pushing oil prices sharply lower. BP shares dropped more than 4.5% despite reporting stronger-than-expected quarterly results, while Shell declined around 2.4%. Smith & Nephew also weighed on the index, falling over 6% after lowering its full-year sales growth outlook. In contrast, mining stocks surged, with Antofagasta up around 7%, Anglo American gaining 5.3%, and Fresnillo rising 4.4%. Rio Tinto, Endeavour Mining, and Glencore also advanced on stronger commodity prices, while HSBC remained broadly unchanged despite solid earnings and a $1 billion buyback announcement.
 
 ---

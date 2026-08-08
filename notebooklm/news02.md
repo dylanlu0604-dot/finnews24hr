@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 06:42:14_
-_本檔包含 3149 則快訊，約 596958 字_
+_更新時間：2026-08-09 07:02:02_
+_本檔包含 3154 則快訊，約 598121 字_
+
+---
+
+### 2026-08-07 10:35:32  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #WTI
+
+China July imports in USD terms rose 27.5% YoY, vs 27.7% est; June +36.0%.
+
+---
+
+### 2026-08-07 10:35:31  #資料
+
+中國7月以美元計算進口年率 27.5%，預期27.70%，前值36.00%。
+
+---
+
+### 2026-08-07 10:35:23  #資料
+
+中國7月以美元計算出口年率 23.9%，預期22.1%，前值27.00%。
+
+---
+
+### 2026-08-07 10:35:00  #其他
+
+中國7月以美元計算貿易帳 1125億美元，預期1070億美元，前值1256.2億美元。
+
+---
+
+### 2026-08-07 10:34:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Treasury Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.68% on Friday after rising more than 5 basis points in the previous session, as investors awaited the closely watched July jobs report for fresh clues on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Additionally, Treasury yields were supported by a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns about inflation and the interest rate outlook.
 
 ---
 

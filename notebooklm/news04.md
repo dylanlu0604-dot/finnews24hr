@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 06:42:14_
-_本檔包含 3321 則快訊，約 597123 字_
+_更新時間：2026-08-09 07:02:02_
+_本檔包含 3311 則快訊，約 597515 字_
+
+---
+
+### 2026-08-04 23:43:50  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Rises Led by Miners, Oil Stocks Fall — The FTSE 100 gained 0.3% on Tuesday, lagging behind other major markets as weakness in energy stocks offset a strong rally in mining shares. Investor sentiment improved amid growing expectations that the US and Iran could reach an agreement, easing concerns over potential supply disruptions and pushing oil prices sharply lower. BP shares dropped more than 4.5% despite reporting stronger-than-expected quarterly results, while Shell declined around 2.4%. Smith & Nephew also weighed on the index, falling over 6% after lowering its full-year sales growth outlook. In contrast, mining stocks surged, with Antofagasta up around 7%, Anglo American gaining 5.3%, and Fresnillo rising 4.4%. Rio Tinto, Endeavour Mining, and Glencore also advanced on stronger commodity prices, while HSBC remained broadly unchanged despite solid earnings and a $1 billion buyback announcement.
 
 ---
 
@@ -19933,71 +19939,5 @@ eBay股價下跌3.5%，此前富國銀行將該股評級從持平下調至減持
 ### 2026-08-03 21:33:41  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Gain on Monday — US stocks rose on Monday with support from a rebound in Treasury securities. The S&P 500 rose 0.5%, the Dow added over 600 points, and the Nasdaq inched higher. The US refrained from striking Iran over the weekend and fuel prices pulled back. The moves drove yields to decline across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, Visa, and Goldman Sachs gaining over 1%. Large-cap tech companies also gained, with Amazon soaring 5%. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 4%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow.
-
----
-
-### 2026-08-03 21:33:36  #其他
-
-南非汽車協會：南非 7 月新車銷量 57708 輛，同比下降 11.9%。
-
----
-
-### 2026-08-03 21:33:21  #公司 #市場
-
-亞馬遜網股價觸及歷史新高，最新上漲4.6%。
-
----
-
-### 2026-08-03 21:33:16  #市場
-
-美光科技股價下跌5.9%。
-
----
-
-### 2026-08-03 21:32:47  #MKT News #Important #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon (AMZN.O) market capitalization topped US$3 trillion for the first time; shares are up 4.5% in intraday trading.
-
----
-
-### 2026-08-03 21:32:46  #公司 #市場
-
-萬豪國際股價下跌4.3%，此前該公司公佈第三季度調整後每股收益預期低於市場預估。
-
----
-
-### 2026-08-03 21:32:39  #其他
-
-遊戲驛站(GME.N)跌7.5%，14億美元債轉股交易或引發股東權益稀釋。
-
----
-
-### 2026-08-03 21:32:36  #市場
-
-泰森股價一度下跌5.9%，創下11月24日以來的盤中最低水平。
-
----
-
-### 2026-08-03 21:32:23  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，大全新能源漲5.59%，嘉楠科技漲5.59%，寶尊電商漲6.62%，阿里巴巴漲4.09%，中進醫療漲4.04%。
-
----
-
-### 2026-08-03 21:32:13  #市場 #國際
-
-阿斯利康股價在美國公開賽期間暴跌7.5%；布里斯托爾股價上漲2.9%。
-
----
-
-### 2026-08-03 21:32:11  #MKT News #BMY.N #Impact bullish
-
-Bristol-Myers Squibb (BMY.N) rose 3.7% as it negotiates a potential merger with AstraZeneca.
-
----
-
-### 2026-08-03 21:32:02  #公司 #市場
-
-阿里巴巴在美上市股票在公司公佈全新人工智慧模型後上漲3.7%。
 
 ---

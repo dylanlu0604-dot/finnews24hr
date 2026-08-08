@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 06:42:14_
-_本檔包含 3135 則快訊，約 598399 字_
+_更新時間：2026-08-09 07:02:02_
+_本檔包含 3133 則快訊，約 597595 字_
+
+---
+
+### 2026-08-09 06:58:16  #國際
+
+【黎巴嫩方面稱以軍部隊重返黎南部一處“試點區域”】黎巴嫩方面8日稱，一支以色列軍隊於當天凌晨重新進入了此前作為其撤軍“試點區域”之一的西扎烏塔爾鎮，並在鎮廣場附近建起了一座新的土牆。當地居民表示，這是以軍方面違反此前美、黎、以三方簽訂的框架協議的又一例證。7月14日，為落實黎以雙方在美國斡旋下達成的框架協議，黎以雙方確定在黎南部設定“試點區域”。根據協議，以軍將從“試點區域”撤出，黎軍隊從以軍部隊手中接管相關地區。
+
+---
+
+### 2026-08-09 06:56:15  #國際
+
+美國移民與海關執法局（ICE）主管表示，美國移民機構將於本月完成隨身攝像頭的全面部署。
+
+---
+
+### 2026-08-09 06:48:54  #其他
+
+【西班牙：仍有約1萬名非法移民滯留休達】當地時間8月8日，西班牙休達地方政府長官比瓦斯表示，目前仍有約八千至一萬一千名移民滯留當地。他形容當前局勢“難以持續，遠未恢復正常”，並呼籲所有此前進入休達的移民返回摩洛哥。
 
 ---
 
@@ -18855,35 +18873,5 @@ Customs: China imported 108.085 mln tonnes of iron ore and concentrates in July,
 ### 2026-08-07 10:35:37  #經濟數據 #中國
 
 【今年前7個月我國民營企業進出口17.16萬億元 增長17.2%】海關統計資料顯示，今年前7個月我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。
-
----
-
-### 2026-08-07 10:35:32  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #WTI
-
-China July imports in USD terms rose 27.5% YoY, vs 27.7% est; June +36.0%.
-
----
-
-### 2026-08-07 10:35:31  #資料
-
-中國7月以美元計算進口年率 27.5%，預期27.70%，前值36.00%。
-
----
-
-### 2026-08-07 10:35:23  #資料
-
-中國7月以美元計算出口年率 23.9%，預期22.1%，前值27.00%。
-
----
-
-### 2026-08-07 10:35:00  #其他
-
-中國7月以美元計算貿易帳 1125億美元，預期1070億美元，前值1256.2億美元。
-
----
-
-### 2026-08-07 10:34:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Treasury Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.68% on Friday after rising more than 5 basis points in the previous session, as investors awaited the closely watched July jobs report for fresh clues on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Additionally, Treasury yields were supported by a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns about inflation and the interest rate outlook.
 
 ---
