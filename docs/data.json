@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 15:25:28",
+  "updated": "2026-08-08 15:29:34",
   "count": 15854,
   "items": [
+    {
+      "id": "5031846",
+      "time": "2026-08-08 15:25:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國足協就世界盃失利及系列爭議釋出致歉信】韓國足協8日在官網釋出《致足球迷和足球界同仁的一封信》，就2026年美加墨世界盃成績不佳後圍繞協會接連產生的爭議致歉，並承諾全面推進組織改革，重建社會信任。（新華社）"
+    },
     {
       "id": "mkt:019fe040-5712-7aab-8fc3-03bf52d9f4f0",
       "time": "2026-08-08 15:22:20",
@@ -144457,16 +144465,6 @@
         "DXY"
       ],
       "text": "According to Iran's Fars News Agency, an Iranian military spokesman said new UAVs have been commissioned and that details will be released in coming days; he said their range is sufficient to cover Israeli territory."
-    },
-    {
-      "id": "mkt:019fbc38-1844-7aab-8f40-e27864da639a",
-      "time": "2026-08-01 15:27:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【AMEC's Yin Zhiyao targets 60% coverage of high-end semiconductor equipment within five years】Aug 1 — AMEC Chairman and General Manager Yin Zhiyao said the company aims to achieve at least 60% coverage of high-end semiconductor equipment within five years, seeks to be the semiconductor-equipment firm with the highest global coverage, and targets joining the global first tier in scale and product competitiveness by 2035."
     }
   ]
 }
