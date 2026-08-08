@@ -1,7 +1,39 @@
 {
   "date": "2026-08-08",
-  "count": 492,
+  "count": 496,
   "items": [
+    {
+      "id": "mkt:019fdef4-2bd0-7aab-8fc2-106a2ef5d123",
+      "time": "2026-08-08 09:19:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch said Kuwait's oil exports face sustained pressure from reliance on the Strait of Hormuz."
+    },
+    {
+      "id": "5031758",
+      "time": "2026-08-08 09:19:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南宣威火把節引發燃燒 16人被灼傷】雲南省宣威市人民政府新聞辦公室8日釋出訊息：宣威市樂豐鄉建文村委會烏撒村民小組群眾過火把節，在用可燃液體引燃火把過程中，盛有可燃液體的塑膠桶意外傾倒引發燃燒，造成現場16名群眾不同程度灼傷。情況發生後，宣威市立即啟動應急預案，組織衛健、應急、公安等部門及樂豐鄉工作人員趕赴現場，開展傷員救治、現場秩序維護等工作。目前，傷者正在醫院接受治療，傷情平穩，後續工作正在開展。"
+    },
+    {
+      "id": "mkt:019fdef2-90b2-7aab-8fc2-0859a825e401",
+      "time": "2026-08-08 09:17:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Zealand imposes new sanctions on Russia after US action】New Zealand announced additional sanctions on individuals and entities supporting Russia after the US Senate passed a bill aimed at curbing Russian oil and gas revenue. Foreign Minister Winston Peters said on Saturday this is New Zealand’s 36th round of sanctions, targeting 33 individuals and entities."
+    },
+    {
+      "id": "mkt:019fdef0-dea4-7aab-8fc2-03aedede8d98",
+      "time": "2026-08-08 09:15:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Avelardo De la Espriella sworn in as Colombia president】Colombia's president-elect Avelardo De la Espriella was sworn in at a university gym in Cali on the 7th, formally beginning a four-year presidential term."
+    },
     {
       "id": "5031757",
       "time": "2026-08-08 09:12:26",
