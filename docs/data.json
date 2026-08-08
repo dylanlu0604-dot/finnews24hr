@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-08 17:09:01",
+  "updated": "2026-08-08 17:12:51",
   "count": 15827,
   "items": [
+    {
+      "id": "mkt:019fe0a1-b9c8-7aab-8fc3-5f2b2ebe7f10",
+      "time": "2026-08-08 17:08:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RIA reports the Russian Defence Ministry says it captured Ivanivka in Ukraine's Kharkiv region."
+    },
     {
       "id": "5031880",
       "time": "2026-08-08 17:06:44",
@@ -144218,14 +144228,6 @@
         "國際"
       ],
       "text": "超過20位歐盟領導人敦促歐盟就西班牙休達局勢採取行動。"
-    },
-    {
-      "id": "5020345",
-      "time": "2026-08-01 17:11:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "8月1日，中國海警位黃巖島附近海域組織維權執法管控演練，模擬拖離侵權船隻。（玉淵譚天）"
     }
   ]
 }

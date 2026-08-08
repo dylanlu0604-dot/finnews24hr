@@ -1,7 +1,17 @@
 {
   "date": "2026-08-08",
-  "count": 656,
+  "count": 657,
   "items": [
+    {
+      "id": "mkt:019fe0a1-b9c8-7aab-8fc3-5f2b2ebe7f10",
+      "time": "2026-08-08 17:08:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "RIA reports the Russian Defence Ministry says it captured Ivanivka in Ukraine's Kharkiv region."
+    },
     {
       "id": "5031880",
       "time": "2026-08-08 17:06:44",
