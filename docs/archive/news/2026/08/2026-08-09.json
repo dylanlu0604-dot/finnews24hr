@@ -1,7 +1,35 @@
 {
   "date": "2026-08-09",
-  "count": 88,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019fe30a-b873-7aab-8fc6-899e48078f13",
+      "time": "2026-08-09 04:22:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's Foreign Ministry said the two foreign ministers discussed shared concerns and prospects for strengthening Arab cooperation, and agreed to continue coordinating and consulting within bilateral and multilateral frameworks on regional and international issues."
+    },
+    {
+      "id": "mkt:019fe30a-7256-7aab-8fc6-826aae177290",
+      "time": "2026-08-09 04:22:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Jordan's foreign ministry said both sides discussed regional developments and efforts aimed at ending escalation, restoring calm, achieving security and stability, and ensuring freedom of navigation in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fe309-db95-7aab-8fc6-7e5f4107aa1a",
+      "time": "2026-08-09 04:21:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's Deputy Prime Minister and Minister of Foreign and Expatriates' Affairs Ayman Safadi spoke by phone today with Bahraini Foreign Minister Dr Abdullatif Zayani."
+    },
     {
       "id": "mkt:019fe305-d5a2-7aab-8fc6-73636ab642db",
       "time": "2026-08-09 04:17:18",
