@@ -1,7 +1,23 @@
 {
   "date": "2026-08-09",
-  "count": 36,
+  "count": 38,
   "items": [
+    {
+      "id": "5032082",
+      "time": "2026-08-09 01:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長：紅海航運安全關乎我國利益，因此土耳其必須參與沙烏地阿拉伯牽頭的國際聯盟。"
+    },
+    {
+      "id": "mkt:019fe26e-dfe5-7aab-8fc5-983dc18b85c3",
+      "time": "2026-08-09 01:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's foreign minister said Red Sea shipping security affects Turkey's interests and that Turkey must join the Saudi-led international coalition."
+    },
     {
       "id": "mkt:019fe267-7327-7aab-8fc5-94ed6cdc814e",
       "time": "2026-08-09 01:24:18",
