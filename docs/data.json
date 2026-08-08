@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 16:45:35",
+  "updated": "2026-08-08 16:49:38",
   "count": 15833,
   "items": [
+    {
+      "id": "5031873",
+      "time": "2026-08-08 16:45:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國參議院投票確認託德·布蘭奇擔任司法部長】當地時間8日凌晨，由共和黨控制的美國參議院以50票贊成、49票反對的投票結果，確認託德·布蘭奇擔任司法部長。當地時間6月8日，美國白宮表示，總統特朗普向美國參議院提交託德·布蘭奇出任司法部長的提名。特朗普4月2日宣佈，帕姆·邦迪不再擔任司法部長，由副部長布蘭奇代理。（央視新聞）"
+    },
     {
       "id": "mkt:019fe08b-f824-7aab-8fc3-4dd889cf8718",
       "time": "2026-08-08 16:44:57",
@@ -144271,18 +144279,6 @@
         "國際"
       ],
       "text": "西班牙首相桑切斯致信歐盟領導層：對歐盟對休達事件的反應表示嚴重關切。歐盟承受不起自私、分裂、非法的反應。"
-    },
-    {
-      "id": "mkt:019fbc81-fedc-7aab-8f41-72eb01b2fc17",
-      "time": "2026-08-01 16:47:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran urges Middle East states to reconsider cooperation and alliance with US】Iran's Hatham al-Anbiya central headquarters commander Major General Ali Abdollahi said US actions against Iran are increasingly raising the risk of a wider regional conflagration. He told Middle Eastern states they should recognise US intent to use their wealth, infrastructure and resources as a 'defensive shield' for its waning military power, and warned any country acting as a US 'defensive shield' would be 'consumed by war'."
     }
   ]
 }
