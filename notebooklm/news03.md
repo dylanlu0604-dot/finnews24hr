@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 15:53:50_
-_本檔包含 3391 則快訊，約 597618 字_
+_更新時間：2026-08-08 16:53:29_
+_本檔包含 3375 則快訊，約 596690 字_
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar
+
+United States | EIA Weekly Gasoline Production (Jul.31) | actual -309000M | previous 178000M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Gasoline Stocks Change (Jul.31) | actual -1643000M | consensus -1264000M | previous 7000M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Stocks Change (Jul.31) | actual 2479000M | consensus -1506000M | previous -7167000M
+
+---
+
+### 2026-08-05 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Cushing Crude Oil Stocks Change (Jul.31) | actual 2356000M | previous -771000M
+
+---
+
+### 2026-08-05 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Input Into Refineries Change (Jul.31) | actual -183000M | previous 271000M
+
+---
+
+### 2026-08-05 22:29:24  #國際
+
+義大利經濟部長：我希望在離任時，義大利已退出歐盟過度赤字違規程式。
+
+---
+
+### 2026-08-05 22:29:17  #宏觀 #公司 #國際
+
+【美財政部解除部分與伊朗革命衛隊相關機構的制裁】據報道，美國財政部週三在其網站上釋出詳細資訊，美國已取消對與伊朗伊斯蘭革命衛隊有關的兩架飛機和三家航空公司的反恐制裁。據悉，涉及的關聯物件包括：FLY BAGHDAD AIRLINES、伊拉克快運（IRAQ EXPRESS）、巴格達航空（Fly Baghdad）、YI-BAF號飛機以及YI-BAN號飛機，三家航空公司此前被指與伊斯蘭革命衛隊聖城旅有關聯，相關飛機的關聯物件則是FLY BAGHDAD AIRLINES公司。
+
+---
+
+### 2026-08-05 22:29:08  #市場 #焦點
+
+紐約期金突破4300美元/盎司，日內漲3.55%。
+
+---
+
+### 2026-08-05 22:28:48  #市場
+
+英偉達股價觸及兩個多月來最高水平，最新上漲4.3%。
+
+---
+
+### 2026-08-05 22:28:31  #公司
+
+森科能源執行長在電話會議上表示，要將油砂聯盟與阿爾伯塔省及加拿大聯邦政府達成的不具約束力諒解備忘錄落實為最終協議，“仍有大量工作要做”。
+
+---
+
+### 2026-08-05 22:27:32  #公司
+
+AKTOR簽署收購協議，擬收購兩家機油業務子公司的部分股權。
+
+---
+
+### 2026-08-05 22:27:19  #其他
+
+【受颱風影響 廣東海事局將對經臺灣海峽南口北上船舶實施交通管制】記者從廣東海事局瞭解到，根據氣象部門預測，今年第13號颱風“白海豚”將於7日白天穿過琉球群島後移入東海，向華東沿海靠近，將影響臺灣海峽及周邊海域。經研究，廣東海事局決定於8月6日18時起，對經過臺灣海峽南口北上的船舶實施交通管制。海事部門提醒各船舶嚴格遵守交通管制要求，選擇安全水域避風，聽從現場海事管理機構指揮，保障海上安全。（央視新聞）
+
+---
+
+### 2026-08-05 22:26:56  #市場 #焦點
+
+苯乙烯連續主力合約日內跌3%，現報7956.00元。
+
+---
+
+### 2026-08-05 22:26:50  #國際
+
+彭博使用者預計美國原油庫存將減少210萬桶。
+
+---
+
+### 2026-08-05 22:26:34  #其他
+
+加斯帕爾：將與博索納羅站在一起，反對腐敗和有組織犯罪。
+
+---
+
+### 2026-08-05 22:25:28  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Climbs to Record High — The S&P/TSX Composite Index rose more than 1.5% to trade above 36,000 on Wednesday, reaching a fresh record as investors digested another round of corporate earnings. Shopify surged about 20% after reporting second-quarter revenue of $3.58 billion, up 34% from a year earlier, beating forecasts and guiding for stronger third-quarter growth than Wall Street expected. Thomson Reuters gained nearly 1% after posting a 9% increase in second-quarter revenue, topping estimates, and raising its full-year organic revenue growth forecast to around 8%. Manulife Financial (-1%) and Nutrien (-0.2%) are set to report earnings later today. Lower oil prices continued to weigh on energy stocks, with Suncor down 1% despite beating adjusted profit estimates. Meanwhile, higher gold prices lifted miners, with Agnico Eagle up nearly 7%, Barrick adding 5%, and WPM gaining 6%.
+
+---
+
+### 2026-08-05 22:25:18  #公司
+
+EOG 執行長稱，他認為 2027 年或需要更多石油供應。
+
+---
+
+### 2026-08-05 22:24:51  #其他
+
+巴西雷亞爾漲幅收窄，與其它貨幣走勢基本一致。
+
+---
+
+### 2026-08-05 22:24:40  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains as Markets Await Selic Decision — The Ibovespa rose nearly 1% to trade above 179,000 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Later today, Copom is expected to cut the Selic rate by 25 basis points from the current 14.25%. Investors will closely watch the accompanying statement for signals on whether another rate cut could follow in September. Financial stocks led gains, with Itaú rising 2% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Bradesco gained near 1% ahead of its earnings release after the close. Itaúsa gained 2% and Banco do Brasil advanced 1%. In contrast, Gerdau fell more than 5% despite posting stronger-than-expected 2Q26 results. Axia (+1%), Auren (+1.5%), Brava (-1%), and Engie (+1%) are also set to report earnings after the bell.
+
+---
+
+### 2026-08-05 22:24:20  #市場 #焦點
+
+甲醇連續主力合約日內跌4%，現報2448.00元。
+
+---
+
+### 2026-08-05 22:24:16  #MKT News #Important
+
+【US Treasury lifts some Iran-related sanctions】Refinitiv reported the US Treasury on Wednesday posted on its website that it has removed counterterrorism sanctions on two aircraft and three airlines tied to Iran's Islamic Revolutionary Guard Corps: Fly Baghdad Airlines Company, Iraq Express, Fly Baghdad, and aircraft registrations YI-BAF and YI-BAN.
+
+---
+
+### 2026-08-05 22:22:17  #其他
+
+據悉Braveheart Bio將IPO發行價指引上調至推介價格區間之上。
+
+---
+
+### 2026-08-05 22:21:48  #其他
+
+巴西參議員弗拉維奧·博索納羅提名阿爾弗雷多·加斯帕爾為10月總統大選競選搭檔。
+
+---
+
+### 2026-08-05 22:21:48  #市場 #焦點
+
+乙二醇連續主力合約日內跌3%，現報4530.00元。
+
+---
+
+### 2026-08-05 22:20:07  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+US EIA data for the week ending July 31 — total crude inventories, Cushing stocks and Strategic Petroleum Reserve (SPR) levels — due in 10 minutes.
+
+---
+
+### 2026-08-05 22:20:02  #其他
+
+【《黑神話：悟空》官宣將開啟七折優惠活動】8月5日，即將迎來發售兩週年的國產3A遊戲《黑神話：悟空》宣佈，所有數字版本（標準版、豪華版、豪華升級包）即將開啟七折優惠活動。PlayStationStore打折時間為8月12日-8月26日；微軟商店、Steam、Epic遊戲商城、WeGame打折時間為8月12日0時-8月25日24時。因平臺政策影響，PS5不同時區打折活動的具體開啟和結束時間略有不同，宏都拉斯、墨西哥和尼加拉瓜暫不參與本輪PS5促銷。
+
+---
+
+### 2026-08-05 22:19:53  #市場
+
+現貨金<XAU=>擴大漲幅，上漲近4%至每盎司4,238.29美元。
+
+---
+
+### 2026-08-05 22:18:10  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Extends Rally to Six-Week Peak — Silver surged to $62.5 an ounce on Wednesday, its highest level since June 22, as easing geopolitical tensions and weaker-than-expected US labor market data strengthened expectations of a less aggressive Federal Reserve. Investor sentiment improved after President Donald Trump said the US and Iran had held "very good discussions," fueling hopes of an agreement to end their five-month conflict. Expectations of restored Middle Eastern energy supplies have driven oil prices down about 10% this week, easing inflation concerns and reducing expectations for further Fed tightening. Meanwhile, the ADP Employment Report showed the US economy added just 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts of 70,000. Markets now assign a 57% probability to a September Fed rate hike, down from 67% a day earlier. Still, Kansas City Fed President Jeff Schmid said additional policy tightening may be needed to return inflation to the central bank's 2% target.
+
+---
+
+### 2026-08-05 22:18:04  #MKT News #Commodities #Industrial Metals
+
+Most-active iron ore futures contract was up 2.00% intraday, trading at 715.50 yuan/ton.
 
 ---
 
@@ -20179,275 +20353,5 @@ Amazon (AMZN.O) shares fell 2.2% after founder Jeff Bezos said he plans to sell 
 ### 2026-08-04 21:30:44  #MKT News #Important #Star Stocks #Palantir #PLTR.N #Impact bullish #AMD.O #MU.O
 
 US stocks opened higher: Dow +1.17%, S&P 500 +0.4%, Nasdaq +0.78%. Palantir (PLTR.N) surged 14.7% after sharply raising full-year revenue guidance. SpaceX (SPCX.O) and AMD (AMD.O) are due to report after the close; both gained 2.8% and 3.7% respectively. Micron (MU.O) rose 4% and Corning (GLW.N) rose 5.6%.
-
----
-
-### 2026-08-04 21:30:40  #Trading Economics #Markets #United States #stocks #Importance 1
-
-General Electric Aerospace Stock Price Hits 4-week High — General Electric Aerospace shares increased to 374.99 USD, the highest since July 2026. Over the past 4 weeks, General Electric Aerospace lost 2.57%, and in the last 12 months, it increased 33.56%.
-
----
-
-### 2026-08-04 21:30:35  #市場 #國際
-
-【日本10年期國債拍賣需求疲弱】日本財務省4日實施的10年期國債拍賣需求低於市場預期，反映市場需求強弱的投標倍數降至2.56倍，創2025年5月以來新低。受拍賣結果影響，日本10年期國債收益率盤中一度升至2.870%，創約一個月來新高。（新華財經）
-
----
-
-### 2026-08-04 21:30:33  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，優品車跌4.16%，新東方跌4.20%，名創優品跌2.96%，小鵬汽車跌3.31%，理想汽車跌2.59%。
-
----
-
-### 2026-08-04 21:30:32  #Trading Economics #Markets #Canada #stocks #Importance 1
-
-Enbridge Stock Price Hits 4-week Low — Enbridge shares decreased to 75.87 CAD, the lowest since July 2026. Over the past 4 weeks, Enbridge lost 0.68%, and in the last 12 months, it increased 19.57%.
-
----
-
-### 2026-08-04 21:30:30  #市場 #焦點
-
-布倫特原油失守80美元/桶，日內跌4.51%。
-
----
-
-### 2026-08-04 21:30:26  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Boeing Stock Price Hits 4-week High — Boeing shares increased to 237.00 USD, the highest since July 2026. Over the past 4 weeks, Boeing gained 1%, and in the last 12 months, it increased 6.54%.
-
----
-
-### 2026-08-04 21:30:24  #公司 #市場
-
-卡特彼勒盤初大漲超11%。公司第二季度調整後每股收益8.17美元，高於市場預期的6.17美元，並上調2026年銷售額預期。
-
----
-
-### 2026-08-04 21:30:07  #資料
-
-加拿大7月RBC製造業PMI 53.5，前值 53。
-
----
-
-### 2026-08-04 21:30:06  #MKT News #DXY #Impact bearish
-
-Canada July S&P Global manufacturing PMI 53.5, prior 53.0.
-
----
-
-### 2026-08-04 21:30:00  #MKT News #Economic Calendar #Important
-
-Canada | RBC Manufacturing PMI (Jul) | actual 53.5 | previous 53
-
----
-
-### 2026-08-04 21:29:44  #其他
-
-卡特彼勒：柴油動力裝置訂單積壓已排至 2028 年。
-
----
-
-### 2026-08-04 21:29:26  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 0
-
-Brazil Yields Fall Ahead of BCB Meeting — Brazil's 10-year government bond yield fell to 14.55% from a nearly three-month high of 15% reached in late July as easing tensions in the Middle East pushed oil prices lower, reducing inflation concerns. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike, raising hopes for a diplomatic resolution. The decline in oil prices reinforced expectations that the BCB will cut the Selic rate from 14.25% at its August 5th meeting. The latest Focus Survey lowered the 2026 inflation forecast to 5.03% from 5.12% and reduced the year-end Selic projection to 13.75% from 14.00%. Meanwhile, consumer prices rose just 0.06% in the month to mid-July, slowing sharply from 0.41% in June and below forecasts of 0.2%. less
-
----
-
-### 2026-08-04 21:28:59  #MKT News #Important #Brent #Impact bearish #WTI
-
-Brent crude falls 4% to $79.71/bbl; WTI down 4.2%.
-
----
-
-### 2026-08-04 21:28:37  #其他
-
-ET：荷蘭乙烷專案出口產能已簽約至 2040 年代。
-
----
-
-### 2026-08-04 21:28:19  #公司 #國際
-
-【美國銀行：美光股價回撥是買入機會】美國銀行重申對美光的買入評級以及 1550 美元目標價，稱近期股價拋售帶來 “絕佳買入機會”。該行預計儲存晶片價格將於 2027‑2028 年迴歸正常水平，並表示公司基本面依舊強勁。美銀預測 2028 財年每股收益約 150 美元，悲觀情景下約 100 美元，仍遠高於上一輪週期約 12 美元的峰值。
-
----
-
-### 2026-08-04 21:28:16  #MKT News #Market Themes #Chip Wars #005930.KS #Impact mixed
-
-【Samsung Electronics' chip foundry operations may approach full capacity in H2 2026】Reports indicate Samsung Electronics' chip foundry business could approach full capacity in H2 2026, a potential inflection after prolonged underutilization hurt profitability; yields on the 2nm process remain a major challenge.
-
----
-
-### 2026-08-04 21:27:39  #公司 #國際
-
-富國銀行執行長：美國企業的海外崗位最易受到衝擊。
-
----
-
-### 2026-08-04 21:26:53  #其他 #焦點
-
-原油跌至日內低點，布倫特原油交投於每桶 80 美元附近。
-
----
-
-### 2026-08-04 21:26:36  #公司
-
-【三星電子晶片代工業務2026年下半年或接近滿負荷運轉】報道稱，三星電子的晶片代工業務可能在2026年下半年接近滿負荷運轉，這標誌著該公司在長期產能利用不足影響盈利之後，可能迎來一個轉折點，但2nm工藝的良率仍然是一大難題。(科創板日報)
-
----
-
-### 2026-08-04 21:25:56  #市場
-
-WTI原油日內跌5%，現報76.32美元/桶。
-
----
-
-### 2026-08-04 21:25:46  #市場 #焦點
-
-燃料油連續主力合約日內跌3%，現報3353.00元。
-
----
-
-### 2026-08-04 21:25:37  #市場
-
-布倫特原油日內跌4%，現報80.36美元/桶。
-
----
-
-### 2026-08-04 21:25:34  #公司
-
-富國銀行執行長：薪資增速有望超過通脹水平。
-
----
-
-### 2026-08-04 21:25:28  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. crude (WTI) and Brent fell nearly $1 intraday to $75.7/bbl and $80.1/bbl, respectively.
-
----
-
-### 2026-08-04 21:25:23  #市場
-
-美債收益率延續下行，原油跌至盤中低點。
-
----
-
-### 2026-08-04 21:25:04  #市場 #焦點
-
-現貨黃金短線拉昇30美元，突破4090美元/盎司，日內漲0.86%。
-
----
-
-### 2026-08-04 21:24:57  #國際
-
-【伊朗德黑蘭省發生燃料儲罐爆炸事故致18人受傷】伊朗媒體4日報道，伊朗德黑蘭省雷伊市沙姆薩巴德工業園區當天發生燃料儲罐爆炸事故，造成18人受傷。伊朗塔斯尼姆通訊社援引沙姆薩巴德工業園區董事會成員達烏德·瓦利的話報道說，園區內一家企業的燃料儲罐起火，隨後發生爆炸。爆炸引發的大火蔓延至該企業其他區域。事發後，消防人員趕赴現場滅火。瓦利表示，事故造成的損失情況將在滅火工作結束後進行調查。（新華社）
-
----
-
-### 2026-08-04 21:24:32  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose $30 intraday, breaching $4,090/oz and gaining 0.86% on the day.
-
----
-
-### 2026-08-04 21:24:19  #國際
-
-印度航空：涉事飛機已在德里安全降落。
-
----
-
-### 2026-08-04 21:24:07  #國際
-
-印度航空：普吉島至德里航班發生突發掉高度情況  。
-
----
-
-### 2026-08-04 21:23:54  #MKT News #Important #WTI #Impact bearish #Brent
-
-Al Arabiya TV reports arrangements for a full reopening of the Strait of Hormuz will be announced within hours or by tomorrow.
-
----
-
-### 2026-08-04 21:22:55  #公司 #焦點
-
-一位高層訊息人士向阿拉伯電視臺透露，霍爾木茲海峽即將釋出重新開放的相關公告。
-
----
-
-### 2026-08-04 21:22:39  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index at 3-Week High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, adavanced for a fourth straight session on Tuesday, rising about 3.3% to a three-week high of 2,936 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, surged by 4.7% to its highest level since June 5 at 4,778 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 2.4% to a peak since July 20 at 2,187 points. Among smaller vessels, the supramax index went up by 0.2% to 1,613 points.
-
----
-
-### 2026-08-04 21:22:31  #公司
-
-【上元智慧與海光資訊簽署戰略合作協議】據海光資訊訊息，7月30日，河北上元智慧科技股份有限公司（簡稱“上元智慧”）與海光資訊在石家莊簽署戰略合作協議，雙方將圍繞智慧交通賽道共建軟硬體一體化解決方案，加速交通行業國產化、智慧化落地。
-
----
-
-### 2026-08-04 21:22:15  #國際
-
-市場訊息：普京已簽署一項監管數字貨幣與數字權利的法律。
-
----
-
-### 2026-08-04 21:21:45  #公司
-
-【通宇通訊擬3億元收購深圳佳賢通訊約25%股權，切入AI-RAN等通訊裝置業務】8月4日晚，通宇通訊公告稱，公司擬以自有資金3億元，透過股份受讓方式購買深圳市佳賢通訊科技股份有限公司約25%的股權，對應1815.27萬股。交易將分兩個階段實施。交易全部完成，佳賢通訊將不納入通宇通訊合併報表範圍。通宇通訊稱，本次投資旨在強化公司在通訊領域的產業協同，實現資源整合與優勢互補。佳賢通訊成立於2011年，總部位於深圳，主要從事無線通訊裝置的研發、生產、銷售與服務，產品覆蓋AI-RAN基站、衛星載荷通訊、擴充套件型基站、一體化小基站、通感一體站、光纖直放站及FTTR等領域。
-
----
-
-### 2026-08-04 21:21:41  #公司
-
-【國家電網：積極應對高溫大負荷考驗，保障電力平穩有序供應】據國家電網訊息，近期多地持續釋出高溫預警，暑熱天氣帶動用電負荷快速增長。8月3日至4日，國家電網公司經營區華北、華東、東北3個區域電網，河北南網、天津、山東、安徽、遼寧5個省級電網負荷創新高。公司堅決扛牢電力保供首要責任，全網“一盤棋”統籌部署、周密組織，最佳化電網執行方式，加強源網荷儲協同，深挖跨區跨省通道潛力，積極應對高溫大負荷考驗，保障電力平穩有序供應。
-
----
-
-### 2026-08-04 21:21:22  #公司 #國際
-
-【HappyRobot獲1.5億美元C輪融資】8月4日，美國物流AI解決方案提供商HappyRobot宣佈，已獲得由Prysm Capital領投、Eurazeo共同領投的1.5億美元C輪融資。現有投資者a16z、Base10和Y Combinator繼續加碼，同時Koch Disruptive Technologies（KDT）、Orange、T.Capital（德國電信）、Bankinter、Endeavor Catalyst、Kfund和Wave-X等戰略投資者也參與了本輪融資。本輪融資後，公司估值達12億美元，累計融資總額約為2億美元。
-
----
-
-### 2026-08-04 21:20:57  #國際
-
-福特汽車7月美國F系列皮卡銷量為68755輛，同比下降6.5% 。
-
----
-
-### 2026-08-04 21:20:51  #國際
-
-福特汽車7月美國混合動力汽車銷量為14086輛，同比下降25.1%。
-
----
-
-### 2026-08-04 21:20:15  #國際
-
-福特汽車7月美國電動汽車銷量2,065輛，下降74.9%。
-
----
-
-### 2026-08-04 21:19:55  #國際
-
-孟買證券交易所擬斥資 5.05 億印度盧比，將 IIBH 持股比例提升至 20%。
-
----
-
-### 2026-08-04 21:19:40  #MKT News #Market Themes #AI Revolution
-
-【Canva completes integrations with Chinese AI agents Kimi, WorkBuddy, QoderWorkCN】Canva has officially launched MCP (Model Context Protocol) capability in the China market and completed initial ecosystem integrations with local AI agents Kimi, WorkBuddy and QoderWorkCN. Canva China general manager Wang Kexin said AI is making content generation easier, but creation goes beyond generation — users need the ability to edit, collaborate and refine outputs into usable work.
-
----
-
-### 2026-08-04 21:19:28  #公司 #國際
-
-印度孟買證券交易所有限公司（BSE LTD）第二季度（截至6月）合併運營收入為156.6億盧比。
-
----
-
-### 2026-08-04 21:19:08  #其他
-
-【Linux基金會發布《共享AI發現交換指南》徵求意見稿】據英偉達部落格，隨著年度黑帽安全大會今日在拉斯維加斯開幕，開放安全AI聯盟（Open Secure AI Alliance）的成員正在制定新的指導原則，以加強智慧體AI的網路安全防護。目前，該聯盟成員規模已超過120家機構。Linux基金會今日釋出了《共享AI發現交換指南》（SAFE）的徵求意見稿。這是一套擬議中的指導原則，旨在將智慧體AI領域發生的網路安全事件轉化為整個生態系統共享的防護能力。SAFE指南由開放安全AI聯盟工作組負責起草。包括英偉達、思科系統 、CrowdStrike、Hugging Face以及Red Hat在內的聯盟成員，正在與Linux基金會合作，為初始提案提供支援。SAFE指南包含多項建議措施，包括：以保密方式收集和分析AI安全事件以及“未遂事件”；通知受到影響的相關方；識別反覆出現的安全控制失效問題；釋出基於證據的運營建議，以降低整個系統的風險。
 
 ---

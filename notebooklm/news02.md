@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 15:53:50_
-_本檔包含 3248 則快訊，約 597148 字_
+_更新時間：2026-08-08 16:53:29_
+_本檔包含 3239 則快訊，約 596370 字_
+
+---
+
+### 2026-08-07 08:14:57  #其他
+
+【上半年規模以上工業中小企業增加值同比增長5.8%】記者今天（7日）從工業和資訊化部瞭解到，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。
+
+---
+
+### 2026-08-07 08:14:55  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #CNH #Copper
+
+【Above-designated-size industrial SMEs value added +5.8% YoY in 1H】China's Ministry of Industry and Information Technology said on the 7th that in 1H value added of industrial small- and medium-sized enterprises above designated size rose 5.8% YoY. Operating revenue increased 7.7% YoY, the strongest same-period reading since 2023, and total profits rose 16.9% YoY, the strongest since 2022. MIIT said main indicators showed rapid growth and enterprise profitability continued to improve.
+
+---
+
+### 2026-08-07 08:14:11  #其他
+
+浦項制鐵未來材料：2027年至2032年間將供應超過19萬噸磷酸鐵鋰正極材料。
+
+---
+
+### 2026-08-07 08:13:48  #市場
+
+【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加0.57噸】截至2026年08月06日，全球最大的黃金ETF SPDR Gold Trust持倉量為1014.72噸，較前一個交易日增加0.57噸。
+
+---
+
+### 2026-08-07 08:13:44  #市場
+
+【MiniMax入港股通首日獲內資青睞 淨買入近27億港元位列活躍股首位】資料顯示，在被調入港股通後的第一天交易日，MiniMax獲南向資金淨買入近27億港元，在成交活躍股中位列淨買入首位。MiniMax週四收漲逾17%。南向資金週四也買入建滔積層板、長飛光纖光纜等。南向資金週四整體淨賣出14.6億港元港股，騰訊控股、阿里巴巴、中芯國際等淨賣出額居前。
+
+---
+
+### 2026-08-07 08:12:58  #公司 #觀點 #國際
+
+【中金：跨境電商景氣向上 頭部賣家或迎經營反轉】中金公司研報稱，2026年跨境電商景氣向上，跨境電商頭部賣家或迎經營反轉。2020年—2023年疫情背景下海外電商滲透率提升，疊加歐美消費補貼、國內平臺出海等多重催化，跨境電商賣家加速湧入，推動行業競爭加劇；2024年起中美貿易摩擦制約海外業務拓展，加之電商平臺規則收緊、流量扶持退坡、跨境稅收申報及物流監管趨嚴等，行業經營壓力持續抬升，中小賣家壓力凸顯。2026年起，隨貿易環境趨於平穩、庫存壓力消化及尾部企業出清，頭部跨境賣家經營或迎底部反轉，頭部賣家或強者愈強。
+
+---
+
+### 2026-08-07 08:11:58  #公司 #國際
+
+浦項制鐵未來材料公司：獲得韓國大型電池生產商磷酸鐵鋰正極材料長期供應訂單。
+
+---
+
+### 2026-08-07 08:11:05  #MKT News #Market Regions #Japan & APAC
+
+Australia's S&P/ASX 200 opened down 33.30 points (-0.36%) at 9,238.30 on Aug 7 (Fri).
+
+---
+
+### 2026-08-07 08:10:31  #觀點
+
+【中信建投：交運板塊標的配置價值凸顯】中信建投研報表示，交運板塊配置價值凸顯。政府背景資金在股息率6%—8%時強力託底，劃出“估值底”，核心標的股票屬性向債券靠攏，成為震盪避風港，並吸引險資社保跟進，形成“政府背景資金領頭+險資跟進”合力。板塊最大利空是缺資金而非基本面，主動基金交運配置已至歷史低位，資金約束正邊際改善。重點關注以交運煤炭板塊為代表的HALO資產標的。
+
+---
+
+### 2026-08-07 08:10:04  #公司 #國際
+
+【敏實集團：美國阿拉巴馬州新工廠舉行奠基儀式】敏實集團（00425.HK）釋出自願公告，宣佈於2026年8月3日與美國阿拉巴馬州加茲登市共同舉行位於該市的新生產工廠奠基儀式。該專案選址原RepublicSteel及GulfStatesSteel佔地約400英畝的廠區，預計分階段總投資約4.30億美元。專案建成後將成為集團全球最大面積生產基地，預計創造超1,300個就業崗位，並於2027年實現第一期產能投產。
+
+---
+
+### 2026-08-07 08:09:12  #Trading Economics #Economy #China #Balance of Trade #Importance 1
+
+China Escalates Trade Tensions With New Measures Against U.S. — China unveiled new countermeasures against the U.S., tightening export controls on drones bound for the U.S. and banning transactions with six American firms. The move, framed as retaliation for fresh U.S. restrictions, comes ahead of a planned September meeting between Presidents Xi Jinping and Donald Trump, despite recent signs of thaw following May talks in Beijing. The measures respond to the U.S. Federal Communications Commission's ban on imports of Chinese drones and the Department of Homeland Security's addition of 43 Chinese firms to the Uyghur Forced Labor Prevention Act entity list. The Commerce Ministry accused Washington of “seriously violating consensus” reached by the two leaders and “severely damaging China’s legitimate rights. It urged the U.S. to reverse course and warned further measures could trigger additional sanctions.
+
+---
+
+### 2026-08-07 08:08:14  #其他
+
+日經225指數抹去早前漲幅。
+
+---
+
+### 2026-08-07 08:07:34  #公司 #觀點 #國際
+
+【中信證券：AI成美國經濟增長重要驅動力】中信證券研報指出，近幾年，受生成式AI落地與雲廠商資料中心擴張驅動，美國主要科技公司資本開支自2024年以來快速上升，AI投資佔美國GDP比重也在近幾年快速提升至10%。AI正在成為美國經濟增長的重要驅動力，但同時AI發展在短期可能會對美國就業總量造成一定負面影響，並在未來影響美國就業結構。此外，AI快速發展導致的電力、晶片緊缺也一定程度推動了美國通脹壓力。
+
+---
+
+### 2026-08-07 08:07:18  #市場 #觀點 #央行 #國際
+
+【中信證券：預計銅板塊將迎來估值和業績的共振上漲】中信證券研報稱，剛果（金）銅精礦出口禁令的新聞或將進一步激發銅市場的看多情緒，推動銅價加速衝擊15000美元/噸以上。在美聯儲加息預期降溫、礦端擾動頻發、美國持續虹吸全球銅庫存等因素影響下，預計銅板塊將迎來估值和業績的共振上漲，推薦具備優質銅礦資產和清晰產量成長路徑的銅企。
+
+---
+
+### 2026-08-07 08:07:11  #其他
+
+國家海洋預報臺8月7日08時釋出海浪橙色警報：受今年第13號颱風“白海豚”（強颱風級）的影響，預計：8月7日上午到8日上午，東海將出現7到12米的狂浪到狂濤區，近海海域海浪預警級別為橙色；浙江近岸海域將出現3到4.5米的大浪到巨浪，該近岸海域海浪預警級別為橙色。
+
+---
+
+### 2026-08-07 08:06:57  #公司 #市場
+
+軟銀集團股價下跌4.9%，此前公佈第一季度淨利潤同比下降。
+
+---
+
+### 2026-08-07 08:06:01  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.6%，報9,216.70點。
+
+---
+
+### 2026-08-07 08:05:51  #公司 #市場
+
+軟銀集團股價下跌2.9%，第一季度淨利潤同比下降18%。
+
+---
+
+### 2026-08-07 08:04:46  #公司
+
+【科技企業瞄準太空算力 產業有望迎來從0到1重大突破】當地時間8月5日，SpaceX在社交媒體上宣佈，公司正與英偉達合作，共同開發設計StarmindAI1衛星計算載荷，每顆Starmind衛星都將搭載英偉達RubinGPU和VeraCPU，實現資料中心級太空計算能力。英偉達也在社交媒體上確認了這項合作並表示：“AI基礎設施的下一個篇章，正邁向AI計算從未涉足的疆域。”太空算力是指將計算、儲存和資料智慧處理能力部署到太空環境中，依託衛星、低軌星座、空間站或專用太空平臺提供的計算能力。當前，衛星網際網路、人工智慧、商業航天三大賽道深度交匯，推動算力向軌道延伸，太空算力逐步成長為空天資訊產業新質生產力的核心前沿賽道。我國在該領域的佈局早已悄然展開，且步伐不斷加快。目前，我國太空算力產業已經從理論探索邁入實質性的在軌驗證與初步組網階段。長江證券研報指出，太空算力有望成為中國算力供給的重要補充，產業有望迎來從0到1的重大突破。
+
+---
+
+### 2026-08-07 08:04:43  #MKT News #Hang Seng Index #Impact mixed
+
+【CITIC Securities: higher tax‑compliance rules may dent near‑term Hong Kong insurance demand but not long‑term growth】CITIC Securities says tighter tax‑compliance requirements for Hong Kong insurance policies could disrupt near‑term demand for Hong Kong insurance, while direct financial impact on banks should be limited. Over the medium to long term, CITIC says Hong Kong insurance retains differentiated advantages in yields, foreign‑currency asset allocation and overseas life protection, and cross‑border wealth‑allocation demand remains resilient. Current market moves largely reflect short‑term sentiment and policy expectations and do not change the long‑run operating logic for Hong Kong financial firms.
 
 ---
 
@@ -19433,179 +19553,5 @@ United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blendi
 ### 2026-08-05 22:30:02  #MKT News #Economic Calendar
 
 United States | EIA Weekly Distillate Production Change (Jul.31) | actual -134000M | previous 15000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar
-
-United States | EIA Weekly Gasoline Production (Jul.31) | actual -309000M | previous 178000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Gasoline Stocks Change (Jul.31) | actual -1643000M | consensus -1264000M | previous 7000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Crude Oil Stocks Change (Jul.31) | actual 2479000M | consensus -1506000M | previous -7167000M
-
----
-
-### 2026-08-05 22:30:01  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Cushing Crude Oil Stocks Change (Jul.31) | actual 2356000M | previous -771000M
-
----
-
-### 2026-08-05 22:30:01  #MKT News #Economic Calendar
-
-United States | EIA Weekly Crude Oil Input Into Refineries Change (Jul.31) | actual -183000M | previous 271000M
-
----
-
-### 2026-08-05 22:29:24  #國際
-
-義大利經濟部長：我希望在離任時，義大利已退出歐盟過度赤字違規程式。
-
----
-
-### 2026-08-05 22:29:17  #宏觀 #公司 #國際
-
-【美財政部解除部分與伊朗革命衛隊相關機構的制裁】據報道，美國財政部週三在其網站上釋出詳細資訊，美國已取消對與伊朗伊斯蘭革命衛隊有關的兩架飛機和三家航空公司的反恐制裁。據悉，涉及的關聯物件包括：FLY BAGHDAD AIRLINES、伊拉克快運（IRAQ EXPRESS）、巴格達航空（Fly Baghdad）、YI-BAF號飛機以及YI-BAN號飛機，三家航空公司此前被指與伊斯蘭革命衛隊聖城旅有關聯，相關飛機的關聯物件則是FLY BAGHDAD AIRLINES公司。
-
----
-
-### 2026-08-05 22:29:08  #市場 #焦點
-
-紐約期金突破4300美元/盎司，日內漲3.55%。
-
----
-
-### 2026-08-05 22:28:48  #市場
-
-英偉達股價觸及兩個多月來最高水平，最新上漲4.3%。
-
----
-
-### 2026-08-05 22:28:31  #公司
-
-森科能源執行長在電話會議上表示，要將油砂聯盟與阿爾伯塔省及加拿大聯邦政府達成的不具約束力諒解備忘錄落實為最終協議，“仍有大量工作要做”。
-
----
-
-### 2026-08-05 22:27:32  #公司
-
-AKTOR簽署收購協議，擬收購兩家機油業務子公司的部分股權。
-
----
-
-### 2026-08-05 22:27:19  #其他
-
-【受颱風影響 廣東海事局將對經臺灣海峽南口北上船舶實施交通管制】記者從廣東海事局瞭解到，根據氣象部門預測，今年第13號颱風“白海豚”將於7日白天穿過琉球群島後移入東海，向華東沿海靠近，將影響臺灣海峽及周邊海域。經研究，廣東海事局決定於8月6日18時起，對經過臺灣海峽南口北上的船舶實施交通管制。海事部門提醒各船舶嚴格遵守交通管制要求，選擇安全水域避風，聽從現場海事管理機構指揮，保障海上安全。（央視新聞）
-
----
-
-### 2026-08-05 22:26:56  #市場 #焦點
-
-苯乙烯連續主力合約日內跌3%，現報7956.00元。
-
----
-
-### 2026-08-05 22:26:50  #國際
-
-彭博使用者預計美國原油庫存將減少210萬桶。
-
----
-
-### 2026-08-05 22:26:34  #其他
-
-加斯帕爾：將與博索納羅站在一起，反對腐敗和有組織犯罪。
-
----
-
-### 2026-08-05 22:25:28  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Climbs to Record High — The S&P/TSX Composite Index rose more than 1.5% to trade above 36,000 on Wednesday, reaching a fresh record as investors digested another round of corporate earnings. Shopify surged about 20% after reporting second-quarter revenue of $3.58 billion, up 34% from a year earlier, beating forecasts and guiding for stronger third-quarter growth than Wall Street expected. Thomson Reuters gained nearly 1% after posting a 9% increase in second-quarter revenue, topping estimates, and raising its full-year organic revenue growth forecast to around 8%. Manulife Financial (-1%) and Nutrien (-0.2%) are set to report earnings later today. Lower oil prices continued to weigh on energy stocks, with Suncor down 1% despite beating adjusted profit estimates. Meanwhile, higher gold prices lifted miners, with Agnico Eagle up nearly 7%, Barrick adding 5%, and WPM gaining 6%.
-
----
-
-### 2026-08-05 22:25:18  #公司
-
-EOG 執行長稱，他認為 2027 年或需要更多石油供應。
-
----
-
-### 2026-08-05 22:24:51  #其他
-
-巴西雷亞爾漲幅收窄，與其它貨幣走勢基本一致。
-
----
-
-### 2026-08-05 22:24:40  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Gains as Markets Await Selic Decision — The Ibovespa rose nearly 1% to trade above 179,000 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Later today, Copom is expected to cut the Selic rate by 25 basis points from the current 14.25%. Investors will closely watch the accompanying statement for signals on whether another rate cut could follow in September. Financial stocks led gains, with Itaú rising 2% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Bradesco gained near 1% ahead of its earnings release after the close. Itaúsa gained 2% and Banco do Brasil advanced 1%. In contrast, Gerdau fell more than 5% despite posting stronger-than-expected 2Q26 results. Axia (+1%), Auren (+1.5%), Brava (-1%), and Engie (+1%) are also set to report earnings after the bell.
-
----
-
-### 2026-08-05 22:24:20  #市場 #焦點
-
-甲醇連續主力合約日內跌4%，現報2448.00元。
-
----
-
-### 2026-08-05 22:24:16  #MKT News #Important
-
-【US Treasury lifts some Iran-related sanctions】Refinitiv reported the US Treasury on Wednesday posted on its website that it has removed counterterrorism sanctions on two aircraft and three airlines tied to Iran's Islamic Revolutionary Guard Corps: Fly Baghdad Airlines Company, Iraq Express, Fly Baghdad, and aircraft registrations YI-BAF and YI-BAN.
-
----
-
-### 2026-08-05 22:22:17  #其他
-
-據悉Braveheart Bio將IPO發行價指引上調至推介價格區間之上。
-
----
-
-### 2026-08-05 22:21:48  #其他
-
-巴西參議員弗拉維奧·博索納羅提名阿爾弗雷多·加斯帕爾為10月總統大選競選搭檔。
-
----
-
-### 2026-08-05 22:21:48  #市場 #焦點
-
-乙二醇連續主力合約日內跌3%，現報4530.00元。
-
----
-
-### 2026-08-05 22:20:07  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-US EIA data for the week ending July 31 — total crude inventories, Cushing stocks and Strategic Petroleum Reserve (SPR) levels — due in 10 minutes.
-
----
-
-### 2026-08-05 22:20:02  #其他
-
-【《黑神話：悟空》官宣將開啟七折優惠活動】8月5日，即將迎來發售兩週年的國產3A遊戲《黑神話：悟空》宣佈，所有數字版本（標準版、豪華版、豪華升級包）即將開啟七折優惠活動。PlayStationStore打折時間為8月12日-8月26日；微軟商店、Steam、Epic遊戲商城、WeGame打折時間為8月12日0時-8月25日24時。因平臺政策影響，PS5不同時區打折活動的具體開啟和結束時間略有不同，宏都拉斯、墨西哥和尼加拉瓜暫不參與本輪PS5促銷。
-
----
-
-### 2026-08-05 22:19:53  #市場
-
-現貨金<XAU=>擴大漲幅，上漲近4%至每盎司4,238.29美元。
-
----
-
-### 2026-08-05 22:18:10  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Extends Rally to Six-Week Peak — Silver surged to $62.5 an ounce on Wednesday, its highest level since June 22, as easing geopolitical tensions and weaker-than-expected US labor market data strengthened expectations of a less aggressive Federal Reserve. Investor sentiment improved after President Donald Trump said the US and Iran had held "very good discussions," fueling hopes of an agreement to end their five-month conflict. Expectations of restored Middle Eastern energy supplies have driven oil prices down about 10% this week, easing inflation concerns and reducing expectations for further Fed tightening. Meanwhile, the ADP Employment Report showed the US economy added just 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts of 70,000. Markets now assign a 57% probability to a September Fed rate hike, down from 67% a day earlier. Still, Kansas City Fed President Jeff Schmid said additional policy tightening may be needed to return inflation to the central bank's 2% target.
-
----
-
-### 2026-08-05 22:18:04  #MKT News #Commodities #Industrial Metals
-
-Most-active iron ore futures contract was up 2.00% intraday, trading at 715.50 yuan/ton.
 
 ---

@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 15:53:50_
-_本檔包含 2812 則快訊，約 596713 字_
+_更新時間：2026-08-08 16:53:29_
+_本檔包含 2814 則快訊，約 595720 字_
+
+---
+
+### 2026-08-03 19:34:17  #央行 #美聯儲
+
+【三菱日聯預計美聯儲或於2027年降息】8月3日，三菱日聯金融集團分析師德里克·哈爾佩尼表示，美聯儲的下一步政策行動可能是在2027年降息。
+
+---
+
+### 2026-08-03 19:32:56  #其他
+
+居里醫療擬收購蘭瑟斯醫療，現金對價最高每股114.50美元。
+
+---
+
+### 2026-08-03 19:32:32  #市場
+
+洲際交易所（ICE）紐約可可期貨漲幅超5%，報每噸5676美元。
+
+---
+
+### 2026-08-03 19:32:23  #公司
+
+【電魂網路：董事長鬍建平提前終止減持計劃，已減持1.88%股份】電魂網路公告，公司董事長鬍建平先生原計劃減持不超過467.2萬股（佔總股本1.92%），2026年5月19日至2026年8月3日期間實際透過集中競價及大宗交易方式減持464.74萬股，佔總股本1.88%，減持總金額6436.45萬元，減持價格區間12.33～16.2元/股。本次減持計劃已提前終止，胡建平持股比例由7.66%降至5.78%。
+
+---
+
+### 2026-08-03 19:31:39  #市場
+
+【供應偏緊支撐下 PTA現貨價格漲90至6010】今日PTA現貨價格漲90至6010。雖原油大幅下跌，PTA成本端支撐偏弱，但供應端傳利好訊息，部分裝置或降負或推遲重啟。供應偏緊支撐下，今日PTA市場價格上行。綜合來看，成本弱勢而供應趨緊，短期內PTA市場價格或震盪調整。實際走勢還需關注外圍訊息、裝置情況，以及原油牽引下的成本支撐。
+
+---
+
+### 2026-08-03 19:31:23  #市場
+
+洲際交易所（ICE）倫敦可可期貨上漲超4%，報每噸4201英鎊。
+
+---
+
+### 2026-08-03 19:31:16  #MKT News
+
+【Douyin strengthens governance of flood-season disaster content】Douyin said it is stepping up governance of flood-season disaster information to ensure users receive accurate, reliable content, using large AI models for proactive detection, targeted inspections, user reports and fact‑checking to speed risk detection and handling. For disaster-scene material that cannot be quickly verified, the platform has rolled out risk‑warning labels to flag unverified content for users.
+
+---
+
+### 2026-08-03 19:31:12  #市場
+
+【美股道瓊斯指數期貨漲超1%】美股道瓊斯指數期貨漲超1%，標普500指數期貨漲0.59%，納斯達克100指數期貨漲0.29%。
+
+---
+
+### 2026-08-03 19:30:43  #公司 #國際
+
+【瑞幸咖啡公佈2026年第二季度財報：總淨收入同比增長28.5%，約159億元】8月3日，瑞幸咖啡公佈2026年第二季度財報。資料顯示，二季度公司總淨收入158.86億元人民幣，同比增長28.5%；GAAP營業利潤同比轉為正增長，較去年同期增長22.0%，達21.23億元人民幣，營業利潤率為13.4%，盈利修復態勢進一步鞏固。月均交易客戶數同比增長22.9%，達1.13億，創歷史新高。截至二季度末，全球門店總數達36,310家，累計交易客戶數已近5億。二季度，瑞幸自營門店收入115.64億元人民幣，同比增長26.6%；自營門店門店層面營業利潤為24.69億元人民幣，同比增長25.9%，門店層面營業利潤率為21.3%。聯營門店收入為36.68億元人民幣，同比增長27.9%。GMV同比增長29.8%，達184.00億元人民幣。二季度，瑞幸門店網路規模和增速均領跑行業。二季度淨增門店2714家，其中，中國（含香港）淨增2668家，海外淨增46家。截至二季度末，瑞幸全球門店總數達36310家；其中，中國市場（含香港）門店總數達36087家，包括自營23625家，聯營12462家。在國際市場，瑞幸繼續穩步推進海外業務拓展。截至二季度末，海外門店總數達223家，包括新加坡自營門店89家、美國自營門店20家，馬來西亞加盟門店114家。（新浪科技）
+
+---
+
+### 2026-08-03 19:30:04  #市場
+
+【SpaceX美股盤前跌超2%】SpaceX美股盤前跌超2%，現報105.93美元。
+
+---
+
+### 2026-08-03 19:30:02  #其他
+
+【澳大利亞首次出現H5型禽流感導致大規模鳥類死亡事件】據澳大利亞方面3日訊息，南澳大利亞州東南海岸附近首次出現H5型禽流感導致大規模鳥類死亡事件，死亡的鳥類為大鳳頭燕鷗。截至目前，澳大利亞已有78例確診病例。澳大利亞聯邦農業部長柯林斯表示，鳥類大規模死亡事件在預料之中，澳大利亞人可能會看到禽流感繼續蔓延，越來越多的野生動物受到影響。澳大利亞環境部長瓦特稱，H5型禽流感國家管理計劃已經啟動，州政府和聯邦政府將在已投入的1.13億澳元的基礎上額外撥款2400萬澳元。（央視新聞）
+
+---
+
+### 2026-08-03 19:29:53  #MKT News #Important #Market Regions #Emerging Markets
+
+Kazakhstan plans to sell up to $300 million of foreign exchange from its oil fund in August.
+
+---
+
+### 2026-08-03 19:28:41  #央行 #市場
+
+哈薩克央行表示，其7月出售了價值3740億堅戈的外匯，以匹配黃金購買量；8月將繼續出售價值3740億堅戈的外匯。
+
+---
+
+### 2026-08-03 19:28:37  #公司
+
+【國藥現代董事長許繼輝、總裁劉勇同日離任】8月3日，國藥現代釋出公告稱，公司於近日收到許繼輝的書面辭職報告，因達到法定退休年齡，許繼輝申請辭去公司董事、董事長職務；同時劉勇因工作調動，申請辭去公司董事、總裁職務。辭職後，二人均不繼續在上市公司及其控股子公司任職。此外，公司召開董事會會議，同意提名馮軍、王永利為公司董事候選人，任期自股東會選舉透過之日起至本屆董事會屆滿為止。同時，同意聘任王永利擔任公司總裁，任期自董事會審議透過之日起至第九屆董事會屆滿為止。
+
+---
+
+### 2026-08-03 19:28:18  #MKT News #Market Regions #Europe & UK
+
+European Commission President Von der Leyen said the EU must take additional measures to strengthen border controls, including enhanced monitoring and physical barriers.
+
+---
+
+### 2026-08-03 19:27:44  #其他
+
+【閒魚首家二次元潮玩迴圈商店在上海開業】全國首家閒魚迴圈商店二次元潮玩集合店近日在上海環球港正式開業。店內上架了上萬件價效比二次元商品，還提供寄賣、回收等一站式出物服務。店員介紹，開業當天客流超過2000人。
+
+---
+
+### 2026-08-03 19:26:31  #公司 #觀點
+
+【五礦發展：重大資產重組內幕知情人股票買賣自查情況公告】五礦發展公告稱，公司擬透過資產置換、發行股份及支付現金購買五礦礦業100%股權、魯中礦業100%股權，並募集配套資金。自查期間為2025年6月29日至2026年7月10日，涉及9名自然人和中信證券在自查期買賣公司股票。相關人員和機構均出具承諾函，稱買賣行為屬個人投資或正常業務活動，與重組無關，不構成內幕交易。公司、獨立財務顧問和法律顧問均認為，上述行為對本次交易不構成實質性法律障礙。
+
+---
+
+### 2026-08-03 19:26:21  #央行 #市場
+
+巴西央行調查：經濟學家預計2027年末雷亞爾兌美元匯率將達5.28雷亞爾兌1美元，前值預期為5.29。
+
+---
+
+### 2026-08-03 19:26:17  #國際
+
+據交易商透露，韓國麵粉廠已發出招標，擬從美國採購約5萬噸小麥。
+
+---
+
+### 2026-08-03 19:26:17  #MKT News #Commodities #Energy
+
+【Shandong peak power load hits record 131 GW】State Grid Shandong Electric Power said at 11:19 on Aug 3 the Shandong grid's peak load reached 131 million kW (131 GW), a record high, about 800,000 kW (800 MW) above last year's 130.21 million kW peak on Aug 22.
+
+---
+
+### 2026-08-03 19:26:13  #央行 #其他
+
+巴西央行調查：經濟學家將巴西2027年GDP增速預期從此前的1.60%下調至1.57%。
+
+---
+
+### 2026-08-03 19:26:01  #央行 #其他
+
+巴西央行調查：經濟學家預測2026年巴西GDP增長1.99%，與前次預測持平。
+
+---
+
+### 2026-08-03 19:25:56  #央行 #資料
+
+巴西央行調查：經濟學家預計2027年IPCA通脹年率將達4.22%，與前次預測持平。
+
+---
+
+### 2026-08-03 19:24:59  #其他
+
+【山東電網最高用電負荷達1.31億千瓦，創歷史新高】據國網山東電力訊息，8月3日11時19分，山東電網全網最高用電負荷達1.31億千瓦，創歷史新高，較去年（8月22日1.3021億千瓦）提高約80萬千瓦。
+
+---
+
+### 2026-08-03 19:24:36  #其他
+
+穆迪評級確認大華銀行AA1評級；展望穩定。
+
+---
+
+### 2026-08-03 19:23:58  #MKT News #Market Regions #Europe & UK
+
+Spain's prime minister Sanchez said Spain can improve technical and financial support for Morocco.
+
+---
+
+### 2026-08-03 19:23:14  #國際
+
+惠譽：不認為歐盟入盟談判取得進展本身會在中期為烏克蘭/摩爾多瓦帶來主權評級上調動能。
+
+---
+
+### 2026-08-03 19:23:14  #MKT News #PHI.AS #Impact bearish
+
+UBS cut its PT on Philips to €24 from €32.5.
+
+---
+
+### 2026-08-03 19:22:27  #公司
+
+【雷柏科技：2026年上半年淨利潤1491.56萬元，同比下降2.52%】雷柏科技公告，2026年上半年營業收入2.29億元，同比增長10.08%。歸屬於上市公司股東的淨利潤1491.56萬元，同比下降2.52%，上年同期淨利潤1530.05萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤1119.38萬元，同比增長87.45%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-03 19:22:23  #其他
+
+西捷航空：主線空乘將重返工作崗位。
+
+---
+
+### 2026-08-03 19:21:42  #國際
+
+歐盟馮德萊恩在致桑切斯的信函中表示：必須明確，我們需採取更多行動，在關鍵點位強化邊境管控。
+
+---
+
+### 2026-08-03 19:21:07  #國際
+
+歐盟馮德萊恩：歐盟邊境與海岸警衛局（Frontex）已做好準備，強化在休達及其他外部邊境區域的部署。
+
+---
+
+### 2026-08-03 19:20:16  #國際
+
+【日媒披露：日本與烏克蘭聯合開發無人機】據日本《讀賣新聞》8月3日報道，日本與烏克蘭的民間企業正朝著合作開發無人機的方向邁進。日本方面希望藉助烏克蘭在戰火中淬鍊出的“無人機強國”經驗來推動產品化程序，而烏克蘭則盤算著以此作為進軍亞洲市場的切入點。儘管外界對兩國開展防務無人機開發的政府間合作抱有期待，但受制於兩國的法規限制，目前面臨不少阻礙，因此相關合作正以民間為主導先行推進。報道稱，7月6日，各方宣佈成立旨在推動兩國企業在無人機開發領域進行合作的機制——“日烏無人機產業叢集”（JUDC）。該機制旨在將兩國的無人機相關企業緊密聯結起來，促進研發協同。此舉的核心目的，是為災害救援及物流等場景中應用的工業級無人機生產提供助力。目前雖然僅有5家企業加入，但各方對未來的規模擴大抱有很高期待。（參考訊息）
+
+---
+
+### 2026-08-03 19:20:07  #央行 #美聯儲
+
+【美聯儲威廉姆斯：預計通脹下半年回落 若形勢有變也會果斷加息】紐約聯儲主席約翰·威廉姆斯表示，他仍然樂觀地認為，美國通脹壓力正朝著逐步緩解的方向發展。但他也指出，如果通脹未能如預期回落，美聯儲將毫不猶豫地採取加息行動，以確保物價壓力重返目標水平。
+
+---
+
+### 2026-08-03 19:19:35  #國際
+
+【武契奇：歐洲酷暑或致多瑙河航運中斷】據俄羅斯連塔網8月2日報道，塞爾維亞總統武契奇8月2日發出預警：受極端高溫天氣影響，多瑙河水位嚴重下降，航運有可能被迫中斷。這一情況將直接威脅該國唯一一座煉油廠——潘切沃煉油廠的正常運轉。8月3日，塞爾維亞政府應急管理相關部門將召開第三次會議，討論應對40攝氏度高溫以及河流水位逼近臨界低值的嚴峻局面。此前一天，塞爾維亞總理久羅·馬楚特已呼籲民眾節約用電。（參考訊息）
+
+---
+
+### 2026-08-03 19:19:11  #國際
+
+惠譽評級：歐盟入盟程序將助力烏克蘭與摩爾多瓦推進改革。
+
+---
+
+### 2026-08-03 19:19:04  #國際
+
+歐盟馮德萊恩對桑切斯表示：我對西班牙政府為防止更多非法入境者採取進一步威懾行動表示歡迎。
+
+---
+
+### 2026-08-03 19:18:15  #公司 #市場
+
+【錦和商管：股票交易異常波動 不存在應披露未披露重大資訊】錦和商管公告稱，公司股票於2026年7月30日、7月31日、8月3日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查及核實，截至公告披露日，公司經營正常，不存在應披露而未披露的重大資訊，未發現影響股價的媒體報道、市場傳聞等。2025年度，公司營收9.47億元，同比下滑6.1%，歸母淨虧損1.19億元；2026年一季度營收2.27億元，同比下滑5.8%，歸母淨利潤911.2萬元，同比下滑83.1%。提醒投資者注意交易風險。
+
+---
+
+### 2026-08-03 19:18:10  #市場
+
+巴基斯坦7月水泥總銷量上漲6%，至450萬噸。
+
+---
+
+### 2026-08-03 19:18:06  #國際
+
+歐盟委員會馮德萊恩：西班牙與摩洛哥均已採取有效管控，阻止人員向西班牙本土及歐洲流動。
+
+---
+
+### 2026-08-03 19:17:59  #公司
+
+北京君正：香港聯交所審議公司發行H股。
+
+---
+
+### 2026-08-03 19:17:21  #MKT News #Market Regions #Europe & UK
+
+EU Commission President von der Leyen wrote to Spanish Prime Minister Sánchez to thank him for his handling of the Ceuta migrant crisis.
+
+---
+
+### 2026-08-03 19:16:59  #央行 #國際
+
+【三菱日聯經濟學家：美聯儲將於2027年降息】三菱日聯銀行經濟學家德里克・哈爾彭表示，美聯儲的下一項政策行動大機率是在 2027 年降息。他週一稱，隨著特朗普政府推動與伊朗達成協議，油價有望回落，這將為美聯儲主席沃什創造更大政策空間，無需加息。“我認為本屆政府正日益擔憂美國利率水平以及利率持續緩步上行的態勢。”他還表示，美國與日本聯手採取行動提振日元，背後或許也存在對美債收益率走高的擔憂。
+
+---
+
+### 2026-08-03 19:16:32  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Marriott International earnings above expectations at 3.19 USD — Marriott International (MAR) released earnings per share at 3.19 USD, compared to market expectations of 3.05 USD.
+
+---
+
+### 2026-08-03 19:16:20  #國際
+
+歐盟委員會主席馮德萊恩致函桑切斯，感謝其對休達移民危機的處理。
+
+---
+
+### 2026-08-03 19:15:37  #MKT News
+
+【Institutions: Taiwanese panel makers to reshape TV, monitor and notebook panel supply by 2028】TrendForce’s latest panel industry analysis projects that continued capacity consolidation will materially alter supply shares by 2028. Innolux and AUO’s combined supply of LCD monitor panels is forecast to drop below 10%. Their share of LCD notebook panels is expected to decline to around 20%. Supply of LCD TV panels is projected to stay near 22% owing to sustained profitability. Recent capacity pullbacks and asset recycling among Taiwanese panel makers are cited as key variables likely to reshape global LCD TV, monitor and notebook panel supply-demand.
 
 ---
 
@@ -16709,269 +16985,5 @@ Rosatom said Ukrainian drones struck and sank a Rosatom-owned civilian vessel in
 ### 2026-08-01 16:54:48  #公司 #國際
 
 【烏克蘭謀求使用“星鏈”的更大許可權】據美國媒體7月31日報道，日前訪問美國期間，烏克蘭總統澤連斯基要求美國總統特朗普等美方官員勸說太空探索技術公司（SpaceX）創始人埃隆·馬斯克，希望馬斯克允許烏軍利用SpaceX旗下衛星網際網路系統“星鏈”打擊俄羅斯境內彈道導彈發射裝置。當下，俄方已開始部署一套類似“星鏈”的低軌道衛星系統。美聯社7月31日援引多名訊息人士的話報道，澤連斯基7月28日與特朗普在白宮舉行閉門會晤，向特朗普當面提出了上述要求。按照澤連斯基說法，烏克蘭需要在冬季前對俄彈道導彈發射裝置實施“精度更高的打擊”，以阻止俄方發動冬季攻勢、加大對烏能源設施的打擊。7月28日晚些時候，澤連斯基在美國國會與聯邦議員舉行會晤時，繼續遊說稱希望藉助“星鏈”打擊俄境內目標。據美聯社報道，在7月初舉行的北約峰會期間，澤連斯基就提出過類似要求。共和黨籍聯邦參議員、參議院軍事委員會成員邁克·朗茲透露，烏方需要“長期接入‘星鏈’”，以便提升中遠端武器系統的打擊精度。“烏方追求精準命中目標，而非籠統轟炸大片區域。他（澤連斯基）已經把這一點說得十分明確了。”另據美國《大西洋》月刊報道，特朗普稱會考慮澤連斯基的要求，但未明確允諾。此外，馬斯克拒絕了澤連斯基此次訪美期間提出的會面請求。目前，白宮、烏克蘭駐美國大使館以及SpaceX均未置評上述訊息。（新華社）
-
----
-
-### 2026-08-01 16:52:15  #其他
-
-【一汽紅旗新款天工08上市】8月1日，一汽紅旗宣佈新款天工08正式上市，670Max配置限時權益價17.99萬元。
-
----
-
-### 2026-08-01 16:51:46  #國際
-
-西班牙首相桑切斯致信歐盟領導層：對歐盟對休達事件的反應表示嚴重關切。歐盟承受不起自私、分裂、非法的反應。
-
----
-
-### 2026-08-01 16:47:43  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-【Iran urges Middle East states to reconsider cooperation and alliance with US】Iran's Hatham al-Anbiya central headquarters commander Major General Ali Abdollahi said US actions against Iran are increasingly raising the risk of a wider regional conflagration. He told Middle Eastern states they should recognise US intent to use their wealth, infrastructure and resources as a 'defensive shield' for its waning military power, and warned any country acting as a US 'defensive shield' would be 'consumed by war'.
-
----
-
-### 2026-08-01 16:44:57  #其他
-
-【四川繼續釋出暴雨黃色預警】四川省氣象臺8月1日16時15分繼續釋出暴雨黃色預警： 8月1日20時到8月2日20時，廣元、巴中、南充、遂寧、資陽、內江6市，綿陽、德陽、成都、眉山、自貢、宜賓6市東部和瀘州北部的部分地方有暴雨到大暴雨（雨量70～160毫米），個別特大暴雨（雨量250～280毫米），最大小時雨強（60～90毫米），雷雨時伴有短時陣性大風。另外，涼山州和攀枝花市的部分地方，甘孜州南部和阿壩州西部的區域性地方有大雨到暴雨（雨量30～70毫米）。
-
----
-
-### 2026-08-01 16:44:25  #其他
-
-【機構：暑運前半段新疆、北京、雲南旅遊熱度高，TOP20熱門航線中8條航線票價降幅超1成】航班管家旗下DAST交通資料速遞8月1日釋出2026年暑運前半段民航資料總結。從入省運力（省外進港運力）上觀察，部分旅遊屬性的地區有較高的運力增幅，其中新疆同比增長10.3%、北京同比增長7.2%、雲南同比增長6.6%；除此之外，青海同比下滑16.5%、寧夏同比下滑10.6%、內蒙古同比下滑7.2%。7月份TOP20國內航線經濟艙平均票價約844.9元，其中僅3條航線均價超千元，且都是北京首都相關航線；對比歷史同期來看，僅上海虹橋-北京首都、深圳寶安-上海虹橋等4條航線票價同比正增長，其餘16條皆有不同程度的下滑，部分航線降幅較大，深圳寶安-北京首都、成都雙流-北京首都、廣州白雲-北京首都等8條航線降幅超1成。
-
----
-
-### 2026-08-01 16:43:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #Impact bullish
-
-【Crude oil ETF holdings report launches; WTI (USO) down, Brent (BNO) up】July 31 — New crude oil ETF holdings report launched. WTI (USO) nominal exposure about 21.8222 million barrels, down 1.67 million barrels on the day. Brent (BNO) futures holdings about 6.9990 million barrels, up roughly 2,000 barrels.
-
----
-
-### 2026-08-01 16:41:36  #MKT News
-
-【Guangzhou Baiyun Airport launches blue emergency response; 42 departures delayed over 1 hour】Guangzhou Baiyun International Airport launched a blue emergency response on the afternoon of Aug 1 after forecasts of moderate-to-heavy showers with thunderstorms. As of 15:35, 42 passenger departures were delayed more than one hour and had not departed. The airport said it issued weather warnings to on-site units, activated contingency plans, added check-in, security and baggage counters or lanes, and will coordinate with air traffic control and carriers to accelerate flight releases once conditions improve.
-
----
-
-### 2026-08-01 16:39:45  #公司
-
-【受降雨影響 廣州白雲機場啟動航班大面積延誤藍色響應】從廣州白雲國際機場瞭解到，根據機場氣象預報，8月1日下午，受降雨天氣影響，預計機場全區將出現中到大陣雨的伴雷暴天氣。截至15時35分，白雲機場延誤一小時以上仍未執行出港的客運航班為42班，隨即啟動航班大面積延誤應急處置藍色響應。白雲機場表示，已第一時間向各駐場單位推送天氣預警，啟動應急預案，值機、安檢、問詢、行李查詢等崗位，將動態增開服務櫃檯或通道，全力做好複雜天氣服務保障。待天氣好轉後，將盡快與空管、航司協調對接，加速航班放行。同時提醒廣大旅客，留意天氣變化及所乘航空公司釋出的航班最新動態，合理安排出行。（央視新聞）
-
----
-
-### 2026-08-01 16:36:50  #MKT News
-
-【Iran military says it recently used a new drone】Iran's army spokesman told Iranian media the military recently used a new drone; further details will be released in coming days.
-
----
-
-### 2026-08-01 16:36:06  #國際
-
-【伊朗軍方稱近期使用新型無人機】伊朗陸軍發言人稱伊朗近期使用了新型無人機，具體細節將在未來幾天內公佈。（新華社）
-
----
-
-### 2026-08-01 16:34:09  #MKT News
-
-【Jiechuang Intelligence says ~430 mln yuan of domestic compute projects signed since 2026】Jiechuang Intelligence told investors it has signed about 430 mln yuan of projects in China’s domestic compute sector since 2026. Leveraging its Changqing Cloud platform, the company is advancing compatibility and ecosystem partnerships for domestic software and hardware and supplying general compute, intelligent compute and dedicated/hybrid cloud products and services to customers.
-
----
-
-### 2026-08-01 16:34:02  #公司
-
-【我國首臺掘爆機在武漢下線】8月1日，我國首臺掘爆機“翔龍號”在湖北省武漢市中鐵科工江夏製造基地下線。這款裝備融合掘進法與鑽爆法兩大主流工法，填補了複雜地質隧道一體化施工裝備領域的空白。“翔龍號”由清華大學與中鐵科工集團聯合研製，整機長70米，開挖直徑達4.55米，中心刀盤直徑達1.2米，整機重量約400噸。該裝備創新採用空心刀盤結構，依靠空心刀盤、中心刀盤協同運作，可靈活切換“前爆後掘”“前掘後爆”“全斷面掘進”等多種作業模式，融合超前鑽爆預處理、機械化連續開挖雙重優勢。
-
----
-
-### 2026-08-01 16:30:26  #公司 #其他
-
-【零跑汽車7月全球交付101267臺，同比增長102%】零跑汽車正式釋出7月交付資料，全球交付 101267 臺，同比增長102%，成為國內首個達成單月超10萬臺量級交付的造車新勢力品牌。全系A/B/C/D 四大產品矩陣覆蓋 6-30 萬全價格段，各車型領跑細分市場：A10 躋身中國小型SUV銷冠；C、B 系列累計銷量分別超 85 萬、25 萬臺；D19月銷破萬，並獲評傑蘭路NPS淨推薦值20-30萬級第一；D99開啟批次交付，首批銷售定單均價突破 30 萬。8 月全新車型 A05 上市，同步開啟 818 購車狂歡季，指定車型最高享 57379 元權益，全系整車及三電享四項終身質保；9 月技術日將推出升級版世界模型智駕，智駕能力躋身行業第一梯隊。零跑汽車創始人朱江明表示，從月銷 879 臺到單月 10 萬臺，六年深耕終迎全新起點，品牌將持續堅守 “更高配置、更優品質、好而不貴” 初心，加速全球化佈局，奔赴世界級車企目標。
-
----
-
-### 2026-08-01 16:26:06  #其他
-
-馬魯蒂鈴木7月份出口量為30,056輛。
-
----
-
-### 2026-08-01 16:25:45  #國際
-
-【美司法部撤銷對前奧運選手“破壞倒影池”指控】當地時間7月31日，美國司法部表示，撤銷對美國皮划艇運動員、前奧運選手戴維·赫恩蓄意破壞林肯紀念堂前倒影池的指控。林肯紀念堂前倒影池是美國首都華盛頓的重要地標。司法部表示，檢方近期所獲證據不支援赫恩蓄意破壞公物的說法。哥倫比亞特區聯邦檢察官珍妮娜·皮羅已要求法官正式撤銷該案。（央視新聞）
-
----
-
-### 2026-08-01 16:25:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【ZELENSKIY: Patriot interceptor shortage; Kyiv heavily damaged in strikes】On Aug 1 local time, President ZELENSKIY said Russian airstrikes killed 9 and wounded dozens. Kyiv sustained heavy damage: 18 buildings, a school, the Lithuanian embassy in Ukraine and multiple infrastructure sites were hit. Ukrainian forces shot down only one Russian ballistic missile. ZELENSKIY said ballistic-missile interception was limited mainly by a shortage of Patriot interceptor missiles.
-
----
-
-### 2026-08-01 16:25:20  #國際
-
-【澤連斯基：“愛國者”攔截彈短缺 基輔遭襲受損嚴重】當地時間8月1日，烏克蘭總統澤連斯基通報稱，俄軍對烏克蘭的空襲已造成9人死亡、數十人受傷。基輔受損嚴重，18棟建築、一所學校、立陶宛駐烏克蘭大使館以及多處基礎設施遭到破壞，而烏方僅擊落一枚俄軍彈道導彈。澤連斯基表示，彈道導彈攔截效果有限，主要原因是“愛國者”防空系統攔截彈短缺。（央視新聞）
-
----
-
-### 2026-08-01 16:24:39  #公司
-
-【傑創智慧：2026年以來公司在國產算力領域已簽約專案金額合計約4.3億元】傑創智慧(301248)近日披露投資者關係活動記錄表，公司持續關注國產算力產業發展機遇，依託“常青雲”平臺，積極推進國產軟硬體的相容適配及生態合作，為客戶提供通用算力、智慧算力、專有云/混合雲等產品和服務。經初步統計，2026年以來，公司在國產算力領域已簽約專案金額合計約4.3億元（含稅），具體合作進展及業務情況請以公司公告和定期報告為準。
-
----
-
-### 2026-08-01 16:24:20  #其他
-
-匈牙利釋出用水限制令，毛焦爾政府稱“每一滴水都很重要”  。
-
----
-
-### 2026-08-01 16:22:51  #其他
-
-匈牙利總理：電網運營商MAVIR可根據發電量和進口水平，強制削減電力需求。
-
----
-
-### 2026-08-01 16:22:39  #MKT News #Commodities #Energy
-
-Hungary's prime minister Magyar said a new government decree will seek voluntary electricity demand cuts from large consumers and will impose penalties if targets are not met.
-
----
-
-### 2026-08-01 16:22:29  #公司 #國際
-
-【科威特稱擊落伊朗無人機】科威特武裝部隊今天（8月1日）釋出通告稱，當天早些時候在科威特領空發現“敵方”無人機並已將其擊落，攔截無人機產生的碎片墜地導致設施受損。科方指責伊朗襲擊了包括位於科北部的一處政府機構以及布比延島上一家民營公司的車輛等目標，目前尚無人員傷亡報告。（CCTV國際時訊）
-
----
-
-### 2026-08-01 16:22:22  #MKT News #Brent #Impact bullish #WTI #DAX #Impact bearish
-
-magyar said if the Paks nuclear plant shuts down, firms' voluntary electricity demand cuts may be insufficient.
-
----
-
-### 2026-08-01 16:22:18  #MKT News
-
-Hungarian Prime Minister Magyar said low Danube water levels could force a full shutdown of the Paks nuclear power plant this weekend.
-
----
-
-### 2026-08-01 16:22:07  #其他
-
-匈牙利總理：新政府政令將要求大型能源使用者自願削減電力需求，若未達標將實施處罰。
-
----
-
-### 2026-08-01 16:21:11  #市場
-
-秘魯7月消費者價格指數環比上漲0.29%。
-
----
-
-### 2026-08-01 16:20:19  #其他
-
-【中足聯與西甲聯盟達成多項戰略共識】7月31日，中足聯理事長李克敏在北京與西甲聯盟主席哈維爾·特巴斯舉行會談。雙方圍繞中長期戰略佈局、青訓共建及管理人員交流等議題深入交換意見，達成多項合作共識。
-
----
-
-### 2026-08-01 16:19:25  #其他
-
-匈牙利總理：如果保克什核電站停機，目前企業自願削減用電量的舉措可能仍不足以應對電力缺口。
-
----
-
-### 2026-08-01 16:18:33  #其他
-
-匈牙利將於週一起暫停高峰時段鐵路貨運。
-
----
-
-### 2026-08-01 16:17:20  #其他
-
-匈牙利總理：匈牙利僅在萬不得已的情況下才會採取家庭停電措施，將根據需要優先考慮企業停電。
-
----
-
-### 2026-08-01 16:16:14  #其他
-
-【西班牙飛地休達移民危機死亡人數升至67人】當地時間8月1日，西班牙政府駐休達代表處表示，在本輪“偷渡潮”中，共約5萬人非法進入休達，目前已造成至少67人死亡。據西班牙內政部訊息，目前休達局勢總體平靜，非法移民越境已完全停止，返回摩洛哥的人員持續增加，目前已有4.83萬人返回摩洛哥。同時，西班牙開始在塔拉哈爾邊境防波堤安裝海上阻攔設施，加強邊境管控。
-
----
-
-### 2026-08-01 16:14:50  #其他
-
-匈牙利總理：多瑙河水位偏低， 保克什核電站最快本週末就會徹底停機停運。
-
----
-
-### 2026-08-01 16:13:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Kuwaiti military said Iran's attack struck equipment belonging to a civilian company on Bubiyan Island, causing material damage from falling shrapnel.
-
----
-
-### 2026-08-01 16:13:26  #MKT News #Commodities #Industrial Metals
-
-【Hainan Mining: Xingzhihai July lithium salt output 1,869 tonnes, monthly record】Hainan Mining said Hainan Xingzhihai New Materials Co. produced 1,869 tonnes of lithium salts in July, setting a monthly production record.
-
----
-
-### 2026-08-01 16:12:55  #公司
-
-【海南礦業：星之海7月份鋰鹽總產量達1869噸 創月度產量新高】據海南礦業訊息，海南星之海新材料有限公司（簡稱“星之海”）7月份鋰鹽總產量達1869噸，創月度產量新高。
-
----
-
-### 2026-08-01 16:12:15  #公司 #國際
-
-馬魯蒂鈴木：馬魯蒂鈴木印度有限公司2026年7月總銷量為241,421輛。
-
----
-
-### 2026-08-01 16:11:32  #MKT News #WTI #Impact bullish #Brent
-
-Kuwaiti military says Iran's attack struck multiple key facilities, including a government agency in northern Kuwait.
-
----
-
-### 2026-08-01 16:03:48  #MKT News
-
-Kuwait's military said it has detected and destroyed hostile drones in Kuwaiti airspace since dawn on Saturday.
-
----
-
-### 2026-08-01 16:03:33  #國際
-
-科威特：伊朗襲擊造成物質損失，無人傷亡。
-
----
-
-### 2026-08-01 16:03:13  #國際
-
-科威特：伊朗無人機襲擊布比延島民用機械。
-
----
-
-### 2026-08-01 16:02:19  #國際
-
-科威特稱伊朗無人機襲擊其北部政府設施。
-
----
-
-### 2026-08-01 15:55:10  #國際
-
-立陶宛外交部：一枚導彈落在立陶宛駐基輔大使館圍欄旁，大使館受損，工作人員未受傷。
-
----
-
-### 2026-08-01 15:54:01  #其他
-
-【黑龍江省釋出暴雨紅色預警訊號】黑龍江省氣象臺2026年8月1日13時15分繼續釋出暴雨紅色預警訊號：過去3小時五常部分鄉鎮降水量50～150毫米，未來3小時仍有40～60毫米的降水，預計最大累計雨量將達到180～210毫米，請注意防範。政府及相關部門按照職責做好防暴雨應急和搶險工作；停止集會、停課、停業（除特殊行業外）；做好山洪、滑坡、泥石流等災害的防禦和搶險工作。（央視新聞）
-
----
-
-### 2026-08-01 15:53:56  #國際
-
-【美國駐約旦大使館敦促中東地區美國人考慮離開該地區】美國駐約旦大使館週六敦促中東地區的美國人考慮離開該地區，或做好在緊張局勢升級時出發的準備，並警告可能出現航班取消、空域關閉和其他旅行中斷。大使館在一份安全警報中表示：“安全環境仍然複雜，可能出現不可預見的升級”，並建議美國人提高警惕。大使館還敦促美國公民避免前往約旦的軍事基地，並警告伊朗和支援德黑蘭的團體可能針對美國在海外的利益。位於中東以外的美國人應“認真重新考慮”前往或途經該地區的旅行。
 
 ---
