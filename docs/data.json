@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-08 22:14:12",
-  "count": 15848,
+  "updated": "2026-08-08 22:18:16",
+  "count": 15849,
   "items": [
+    {
+      "id": "mkt:019fe1ba-7109-7aab-8fc4-bcb8577f0342",
+      "time": "2026-08-08 22:15:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Libya's Waha Oil said the Zakut-Sidra pipeline leaked and has resumed operations after repairs."
+    },
+    {
+      "id": "5032027",
+      "time": "2026-08-08 22:14:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞瓦哈石油公司稱已控制扎庫特-錫德拉管道的洩漏，經修復後已恢復運營。"
+    },
     {
       "id": "5032026",
       "time": "2026-08-08 22:08:20",
@@ -144414,14 +144433,6 @@
         "Brent"
       ],
       "text": "Security and refinery sources say a fire at a refinery southwest of Erbil, Iraq, has been extinguished and production is gradually resuming."
-    },
-    {
-      "id": "5020486",
-      "time": "2026-08-01 22:17:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克埃爾比勒西南部煉油廠火災已被撲滅，已開始逐步恢復生產。"
     }
   ]
 }
