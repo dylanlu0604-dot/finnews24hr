@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 13:06:12_
-_本檔包含 3301 則快訊，約 599147 字_
+_更新時間：2026-08-08 13:49:52_
+_本檔包含 3302 則快訊，約 598992 字_
+
+---
+
+### 2026-08-07 07:35:17  #其他
+
+新墨西哥州法院要求Meta對該州18歲以下使用者實施Facebook和Instagram每月90小時使用上限。
+
+---
+
+### 2026-08-07 07:34:56  #宏觀
+
+【服務實體經濟 財政金融打出“組合拳”】今年中央財政安排1000億元專項資金，推出財政金融協同促內需一攬子政策，統籌推進促消費與擴投資。上半年，這項宏觀調控創新舉措進一步開啟財政政策發力空間，提升金融服務實體經濟的質效，實現“1+1＞2”的政策效果。上半年，政策的系統整合和乘法效應有效發揮，政策效果逐步顯現。1—6月，政策帶動新發放相關領域中小微企業貸款、裝置更新貸款、服務業經營主體貸款、個人消費貸款4項貸款合計超17萬億元。（央視）
+
+---
+
+### 2026-08-07 07:34:31  #經濟數據 #日本
+
+日本6月所有家庭支出同比下降3.3%，預期1.00%，前值-0.40%。
+
+---
+
+### 2026-08-07 07:34:16  #其他
+
+新墨西哥州法院要求Meta加強性勒索檢測，並對裸體影象進行模糊處理。
+
+---
+
+### 2026-08-07 07:33:41  #公司 #觀點
+
+【中信證券發行新H股融資186億港元 用於國際業務發展】中信證券在香港交易所公告稱，中信證券完成按每股23.13港元的價格向中信金控發行新H股，籌資約186億港元。所得款項將全部留存境外用於發展國際化業務，包括向境外全資子公司中。信證券國際增資不超過160億元人民幣。本次發行完成後，新H股約佔已發行股份總數的5.14%。中信金控將持有擴大後已發行股份總數的約24%。新H股須遵守48個月的限售期安排。
+
+---
+
+### 2026-08-07 07:33:28  #市場
+
+【電解液新增劑VC價格一年漲了4倍 供不應求狀況短期不會改變】近期，鋰電池電解液新增劑碳酸亞乙烯酯（VC）價格持續上漲。據百川盈孚資料，截至8月6日，國內電解液新增劑VC均價為23萬元/噸，6月以來漲幅超過60%，同比上漲400%。多位業內人士表示，VC供不應求的情況短期不會改變。目前國內VC行業名義總產能超過19萬噸/年，但業內可穩定供貨的有效產能僅約11萬噸/年。去年行業企業開工率整體偏低，疊加頭部企業集中開展裝置檢修，行業庫存快速下行。（上海證券報）
+
+---
+
+### 2026-08-07 07:32:40  #其他
+
+新墨西哥州法院命令Meta搜尋13歲以下使用者並刪除其賬戶。
+
+---
+
+### 2026-08-07 07:32:38  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact mixed
+
+【Tokyo benchmark index set for largest reconstitution on record; over 600 names at risk】Japan’s Tokyo Stock Exchange benchmark index will undergo its largest reconstitution on record, with analysts estimating more than 600 companies could be phased out. Under a new inclusion rule, firms ranking in the bottom 3% by free-float market cap among TSE-listed companies as of August will be removed from the benchmark gradually from October over a two-year window. The prospect is prompting small-cap issuers to take defensive steps this month; delisting from the index would likely pressure prices and reduce liquidity. The change responds to investor complaints that the benchmark contains too many small, illiquid names and raises replication costs. Mizuho senior quant Akemi Hatano said some investors are already shorting small caps expected to be removed, creating scope for short-covering if market odds shift and companies remain in the index.
+
+---
+
+### 2026-08-07 07:32:19  #市場 #國際
+
+【多空博弈 金價走勢尚未明朗】北京時間8月6日，國內多家黃金珠寶品牌公佈的境內足金飾品價格為1300元/克左右，單克較前一日上漲超過55元。這一價格調整的背後，是黃金這一原料的價格在反覆震盪後迎來快速突破。當日，倫敦現貨黃金繼前一交易日上漲超過5%後繼續上行，盤中一度突破4300美元/盎司。上海黃金交易所現貨黃金（Au99.99）也連續兩個交易日漲幅超過2%，於8月6日突破935元/克。業內人士認為，長期來看，支撐金價的結構性力量仍然存在，但短期內，金價仍處於多重影響因素的反覆博弈中，將於8月7日公佈的美國非農就業資料等仍有不確定性，黃金價格存在寬幅波動風險。（上海證券報）
+
+---
+
+### 2026-08-07 07:32:00  #市場
+
+日經指數期貨在新加坡交易所開盤上漲100點，報65635點。
+
+---
+
+### 2026-08-07 07:31:30  #公司
+
+【企業融資迎來新選項 十餘省份落地DR基準利率貸款】近期，以DR（存款類金融機構債券回購利率）為基準利率的貸款“多點開花”，打破了貸款定價單一錨定LPR（貸款市場報價利率）的舊模式。據統計，約15個省份已有這類貸款落地，國有大行、股份行、地方法人銀行均已佈局，央企、國企、民企、外資企業等多類經營主體已“嚐鮮”。DR作為貸款利率新“錨點”投入應用，不僅奏響了利率市場化改革新章，也為企業融資提供了全新的定價選項。業內人士認為，DR基準利率貸款將為企業融資帶來多重利好。（上海證券報）
+
+---
+
+### 2026-08-07 07:31:25  #MKT News #Market Themes #The Trump Trade
+
+Trump said progress on the Strait of Hormuz is going well.
+
+---
+
+### 2026-08-07 07:31:11  #國際
+
+日本政府公佈：6月日本家庭支出環比下降6.4%，調查預期為下降3.1%；日本6月家庭支出同比下降3.3%，調查預期為增長1.0%。
+
+---
+
+### 2026-08-07 07:30:45  #經濟數據 #日本
+
+日本6月所有家庭支出同比下降3.3%，預期1.00%，前值-0.40%。
+
+---
+
+### 2026-08-07 07:30:32  #宏觀 #市場 #國際
+
+【槓桿ETF風暴一個月 韓國股市距離風險出清還有“最後一公里”】經歷7月的“過山車”行情後，韓國股市本月迎來多空激烈交鋒。在連續兩日反彈後，韓國KOSPI指數8月6日收跌4.58%，報6296.38點，SK海力士股價重挫10%。盤中韓國交易所啟動KOSPI指數“側車（SideCar）”機制，暫停程式化賣盤5分鐘。6月19日指數見頂後，KOSPI指數經歷了一輪近40%的深度回撤。這場由個股槓桿產品引發的波動風暴，迫使韓國監管層在一個月內先後出臺多輪措施。機構分析認為，短期來看，急跌中最危險的槓桿結構或已基本出清，短期降溫效果初步達成，外資也開始階段性迴流。不過，散戶單日爆倉率仍處於高位、波動率指數居高不下，尾部風險還未徹底出清，市場真正企穩尚需時日。（上海證券報）
+
+---
+
+### 2026-08-07 07:30:21  #其他
+
+新墨西哥州法院裁定Meta產品加劇該州青少年心理健康危機。
+
+---
+
+### 2026-08-07 07:30:14  #MKT News #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
+
+Japan household spending MoM -6.4% in June vs -3.1% expected; May +3.7%.
 
 ---
 
@@ -19829,101 +19931,5 @@ CIRCLE INTERNET GROUP股價在第二季度業績公佈後下跌5.1%。
 ### 2026-08-05 21:39:07  #Trading Economics #Markets #Commodity #Importance 0
 
 Brent Near Lows as Markets Eye Iran Agreement — Brent crude oil fluctuated below $80 per barrel on Wednesday, after losses of around 5% in each of the previous two sessions, as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Meanwhile, Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs.
-
----
-
-### 2026-08-05 21:38:05  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Steadies as Markets Await Iran Deal — Crude oil fluctuated below $76 per barrel on Wednesday, after losses of more than 5% in each of the previous two sessions, as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Meanwhile, Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs
-
----
-
-### 2026-08-05 21:37:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-S&P 500 and Dow Rise to New Records — US stocks extended their recent rallies amid an improving macroeconomic backdrop and strong earnings reports. The S&P 500 rose 0.6% and the Dow added 400 points, both at record highs, and the Nasdaq gained 0.3%. Treasury yields held their pullback from the week as US officials continued to signal attempts to achieve a deal with Iran that restores trade through from the Middle East, limiting energy inflation. Credit sensitive sectors, including banks and AI hyperscalers, broadly maintained their gains from the week. Arista Networks soared 7% after posting a better revenue thane expected. Also, Eli Lilly jumped 9% to lead the Dow after beating revenue consensus and raising its guidance for this year. Meanwhile, SpaceX slumped 13%, erasing its surge from the last session as the forecast of surging AI spending offset its revenue beat. A large portion of its IPO shares are soon to be released by primary buyers. Also, AMD sank 5% despite doubling datacenter revenues.
-
----
-
-### 2026-08-05 21:36:49  #公司 #市場
-
-禮來公司股價上漲9%，創4月30日以來最大盤中漲幅。
-
----
-
-### 2026-08-05 21:36:27  #市場
-
-萊迪思半導體公佈第二季業績與展望後，股價下跌2.6%。
-
----
-
-### 2026-08-05 21:36:13  #其他
-
-惠譽（預計智利今年 GDP 增速約 1%。
-
----
-
-### 2026-08-05 21:35:38  #市場
-
-英偉達股價上漲3%，報218.2美元/股，創6月4日以來新高，總市值報5.28萬億美元。
-
----
-
-### 2026-08-05 21:35:14  #公司
-
-【交個朋友控股：預計上半年淨利潤同比增加約52.6%至65.0%】8月5日，交個朋友控股在港交所公告，集團預期於截至2026年6月30日止六個月期間錄得淨利潤約人民幣8600萬元至人民幣9300萬元，同比增加約52.6%至65.0%。
-
----
-
-### 2026-08-05 21:34:47  #其他
-
-查爾斯河實驗室高管在電話會議上表示，第三季度調整後每股收益預期為2.90至3.00美元。
-
----
-
-### 2026-08-05 21:34:40  #市場
-
-GLOBALFOUNDRIES公佈第二季度業績後股價下跌3%。
-
----
-
-### 2026-08-05 21:33:15  #市場 #國際
-
-SpaceX披露計劃打造全面移動服務業務後，美國電信類股票下跌。
-
----
-
-### 2026-08-05 21:32:52  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Pfizer Stock Price Hits 7-week High — Pfizer shares increased to 25.67 USD, the highest since June 2026. Over the past 4 weeks, Pfizer gained 7.93%, and in the last 12 months, it increased 3.43%.
-
----
-
-### 2026-08-05 21:32:36  #國際
-
-【義大利與伊朗兩國外長通話 重點討論霍爾木茲海峽問題】當地時間8月5日，義大利副總理兼外長塔亞尼與伊朗外長阿拉格齊通電話，重點討論霍爾木茲海峽航行自由及地區危機。塔亞尼在社交媒體平臺表示，阿拉格齊介紹了伊朗正與阿曼就重新開放霍爾木茲海峽進行的談判。塔亞尼重申必須透過對話解決危機，包括與美國對話，以避免局勢升級。塔亞尼強調，為了地區穩定和全球經濟，必須保障海峽完全航行自由、不得設限或收費。（央視新聞）
-
----
-
-### 2026-08-05 21:32:01  #公司 #市場
-
-優步股價下跌4.3%，因該公司公佈第三季度調整後每股收益預期低於市場預估。
-
----
-
-### 2026-08-05 21:31:56  #MKT News #LLY.N #Impact bullish
-
-Eli Lilly (LLY.N) shares opened 5.7% higher after second-quarter results beat expectations.
-
----
-
-### 2026-08-05 21:31:55  #市場
-
-Shopify股價在第三季度營收前景樂觀、第二季度業績公佈後大漲24.3%。
-
----
-
-### 2026-08-05 21:31:55  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-At the open on Wednesday Aug 5, the Dow Jones Industrial Average rose 381.35 points (+0.71%) to 54,467.23, the S&P 500 gained 50.32 points (+0.65%) to 7,786.81 and the Nasdaq Composite added 112.83 points (+0.42%) to 26,697.82.
 
 ---

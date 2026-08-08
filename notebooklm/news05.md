@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 13:06:12_
-_本檔包含 2799 則快訊，約 598692 字_
+_更新時間：2026-08-08 13:49:52_
+_本檔包含 2805 則快訊，約 599099 字_
+
+---
+
+### 2026-08-03 18:44:59  #公司
+
+【韻達股份：截至7月底已耗資7709.27萬元回購股份】韻達股份公告稱，公司於2026年4月23日決定以集中競價交易方式回購股份，用於股權激勵或員工持股計劃，回購資金5000萬元（含）-10000萬元（含），回購價不超10.12元/股，期限不超6個月。截至7月31日，已回購1046.20萬股，佔總股本0.36%，最高成交價8.05元/股，最低6.17元/股，成交總額7709.27萬元（不含交易費用）。公司後續將繼續實施回購並依規披露。
+
+---
+
+### 2026-08-03 18:44:52  #公司
+
+【宣泰醫藥：注射用硫酸艾沙康唑及恩扎盧胺片擬中選第十二批全國藥品集採】宣泰醫藥公告，公司參與第十二批全國藥品集中採購投標，根據聯採辦於2026年7月31日釋出的擬中選結果公示，公司產品注射用硫酸艾沙康唑（規格1支/盒）、合作開發產品恩扎盧胺片（40mg：56片/盒、80mg：28片/盒）擬中選本次集中採購，採購週期自中選結果執行之日起至2029年12月31日。
+
+---
+
+### 2026-08-03 18:44:50  #其他
+
+【紅色預警！廣西田林縣發生山洪災害可能性很大】廣西水利廳和廣西氣象局於8月3日16時聯合釋出山洪災害氣象預警：預計，8月3日20時至8月4日20時，百色市田林縣發生山洪災害可能性很大（紅色預警）。
+
+---
+
+### 2026-08-03 18:44:39  #公司 #市場 #國際
+
+【美股七巨頭盤前走勢：Alphabet領漲，英偉達小幅回落】經歷上週科技巨頭財報分化行情後，美國“科技七巨頭”在8月3日盤前交易中整體溫和偏強，雲業務相關個股延續上週五強勢，市場情緒穩定。截至發稿，Alphabet上漲約2.0%，亞馬遜上漲約1.7%，微軟上漲約1.5%，Meta上漲約1.3%，特斯拉上漲約1.0%，蘋果微漲約0.1%。相比之下，英偉達小幅下跌約0.3%。
+
+---
+
+### 2026-08-03 18:44:34  #國際
+
+訊息人士稱，印度國家證券交易所（NSE）在推出新的封閉式拍賣機制後，其與孟買證券交易所（BSE）之間出現了價格分歧。
+
+---
+
+### 2026-08-03 18:44:15  #市場 #國際
+
+印度國家證券交易所未出現交易故障；訊息人士稱，當前Nifty指數水平反映的是當日收盤水平。
+
+---
+
+### 2026-08-03 18:44:00  #市場
+
+GAMESTOP股價盤前跌幅擴大至12%。
+
+---
+
+### 2026-08-03 18:43:50  #MKT News #GME.N #Impact bearish
+
+GameStop (GME.N) premarket decline widened to about 12%.
+
+---
+
+### 2026-08-03 18:43:47  #市場
+
+【最佳化金融債券直投發行機制工作會議順利召開】全國銀行間同業拆借中心於近日在外灘召開最佳化金融債券直投發行機制工作會議。上海清算所及主要金融債券發行投資機構的相關部門負責人參會，人民銀行相關司局出席會議。參會機構均高度認可金融債券直投發行機制，認為直投發行機制顯著提升了金融債券發行透明度，有效縮小了一二級市場價差，並對下一步直投發行機制的最佳化完善提出了建議。
+
+---
+
+### 2026-08-03 18:43:21  #公司
+
+【ST通葡：實控人一致行動人增持97.6萬股 持股比例升至15%】ST通葡公告稱，2026年7月29日至8月3日，公司實控人100%控制的盛科科技透過集中競價交易增持97.6萬股，佔公司總股本0.22%，交易價格不超4元/股。本次權益變動後，盛科科技及一致行動人合計持股比例升至15%。本次增持資金源於自有資金，不會導致公司控股股東及實控人變化。
+
+---
+
+### 2026-08-03 18:43:16  #公司
+
+【山東高速：擬1億元—2億元回購股份 用於登出減少註冊資本】山東高速(600350)8月3日公告，擬1億元—2億元回購公司股份，用於登出並減少註冊資本，回購價格不超過17.28元/股。近日，公司取得中信銀行濟南分行出具的《上市公司股票回購貸款承諾函》，貸款金額為不超過1.8億元。
+
+---
+
+### 2026-08-03 18:43:05  #宏觀
+
+【深圳市委常委會召開會議 研究進一步做好全面從嚴治黨、經濟執行、基礎教育等工作 靳磊主持】8月3日，深圳市委常委會召開會議，認真學習貫徹習近平總書記在中央政治局會議和黨外人士座談會上的重要講話精神，習近平總書記對基礎教育工作作出的重要指示和全國基礎教育會議精神，研究我市落實意見。市委書記靳磊主持會議並講話。會議強調，要堅定扛起經濟大市挑大樑的責任擔當，用好各種機遇和優勢，加快落實各項存量政策，及時謀劃爭取增量政策支援，奮發有為推動經濟持續向新向優向好發展。要加力擴大有效需求，適應不同群體消費需求擴大優質供給，激發服務消費潛力，推動商品消費擴容升級；加快實施“十五五”規劃重大專案，抓好工業、“六張網”等領域專案的謀劃推進，激發民間投資活力。要構建更具國際競爭力的現代化產業體系，加快前沿技術突破和未來產業發展，著力打造新興支柱產業，持續推動傳統產業改造提升，加快發展智慧經濟新形態。要鞏固拓展外貿外資良好增長態勢，擴大貨物貿易和服務貿易，加大外資招引力度。要高質高效做好APEC會議服務保障，推動形成更多務實合作成果和專案。要紮實抓好民生保障，切實做好防汛應急搶險救災各項工作，深入排查整治各類風險隱患，全力維護人民群眾生命財產安全和社會大局平安穩定。要深入踐行全過程人民民主，激勵動員市各民主黨派、工商聯、無黨派人士積極履職盡責，為促進經濟社會高質量發展貢獻智慧和力量。（深圳釋出）
+
+---
+
+### 2026-08-03 18:42:39  #公司
+
+【昇輝科技：終止發行股份購資產 擬現金收購赫普能源股權】昇輝科技公告稱，公司於2026年8月3日召開董事會，同意終止發行股份購買赫普能源85%股權並募集配套資金事項，因政策調整及風電專案收益不及預期，赫普能源估值變化。此前，公司已支付1.65億元獲15%股權。公司擬現金收購赫普能源36%-45%股份，已籤框架協議，具體交易方案等需以正式協議為準，交易尚需履行內部決策程式，存在不確定性。
+
+---
+
+### 2026-08-03 18:42:21  #公司 #市場
+
+【共進股份：股票交易異常波動 不存在應披露未披露重大資訊】共進股份公告稱，公司股票在2026年7月30日、7月31日、8月3日連續3個交易日收盤價格跌幅偏離值累計達20%，屬異常波動情形。經自查及向控股股東詢證，公司目前生產經營正常，不存在應披露而未披露的重大資訊。此外，公司股價短期波動大、換手率高，提醒投資者注意交易風險。
+
+---
+
+### 2026-08-03 18:42:15  #其他
+
+【全面核查、封存送檢！多地通報牛蛙產品抗生素超標問題】今天（8月3日），福建省漳州市東山縣市場監督管理局、廣東省汕頭市澄海區市場監督管理局、廣東省潮州市饒平縣市場監督管理局分別通報牛蛙產品抗生素超標問題。（央視新聞）
+
+---
+
+### 2026-08-03 18:42:09  #公司
+
+【升輝科技：終止發行股份購買赫普能源85%股權，改現金收購】升輝科技公告，公司於2026年8月3日召開董事會，審議透過終止發行股份購買赫普能源85%股權並募集配套資金事項，另行磋商以現金方式收購赫普能源股權。公司已與赫普能源5名原股東及標的公司簽署《支付現金購買資產之框架協議》，擬以現金方式進一步收購標的公司36%-45%股份。終止原方案系因赫普能源2026年上半年營業收入大幅下降，整體估值較原方案發生較大調整。
+
+---
+
+### 2026-08-03 18:41:37  #公司
+
+【ST易聯眾：股票繼續被實施其他風險警示及事項進展】ST易聯眾公告稱，公司因曾為原實控人張曦及其關聯方提供違規擔保、借款，股票繼續被實施其他風險警示。目前，相關仲裁已終局裁決、訴訟已終審判決，公司無需擔責，再審申請也被駁回。公司已開展內部整改，完善印章管理制度。截至公告披露日，公司經營正常，將按規定每月披露進展，後續會依規申請撤銷警示。
+
+---
+
+### 2026-08-03 18:41:20  #公司
+
+【惠康科技：董事長提議2026年中期分紅額不低於淨利潤30%】惠康科技(001237)8月3日公告，公司實控人、董事長陳越鵬提議公司實施2026年中期分紅，建議分紅金額不低於2026年上半年歸屬於上市公司股東淨利潤的30%，且不超過相應期間歸屬於上市公司股東淨利潤的50%。
+
+---
+
+### 2026-08-03 18:41:09  #國際
+
+【紐約聯邦儲備銀行行長認為通脹將在下半年回落 明年進一步走低】紐約聯邦儲備銀行行長John Williams預計，通脹將在今年下半年回落，明年將進一步走低。Williams表示，“一些推高通脹的主要因素……影響將不再那麼顯著”，他還補充稱他不預期中東衝突會繼續對通脹構成推升壓力。此外，他表示，如果經濟未能走上將通脹率降回2%的軌道，那麼“採取行動絕對是恰當的”。
+
+---
+
+### 2026-08-03 18:40:57  #MKT News #Market Regions #Greater China
+
+【China marine tourism consumption potential continues to expand】China's marine tourism warmed in 1H2026: marine passenger volume rose 4.6% YoY and passenger turnover increased 5.4% YoY, the Ministry of Natural Resources said on Aug 3. With consumption shifting from sightseeing to immersive, diversified experiences, operators are rolling out ship-to-shore night cruises in Xiamen, integrated 'sea+' offerings in Qingdao, and sailing, leisure fishing rafts and kitesurfing products in Dongshan Island and Pingtan, Fujian.
 
 ---
 
@@ -16811,89 +16931,5 @@ Hungary shut one nuclear reactor due to low water levels; total nuclear generati
 ### 2026-08-01 13:51:59  #其他
 
 市場訊息：匈牙利核電站發電量降至額定容量的四分之一以下。
-
----
-
-### 2026-08-01 13:38:39  #MKT News
-
-【China Ministry of Water Resources activates level‑IV flood‑defense emergency for Heilongjiang】The Ministry of Water Resources said heavy to very heavy rain is forecast in eastern Northeast China on Aug 1, light‑to‑moderate rain in the region's southeast on Aug 2, and moderate‑to‑heavy rain in central‑northern Northeast from Aug 3‑7. The Songhua River and the Ganhe, a tributary of the Nen River, may see a numbered flood. The ministry activated a flood‑defense level‑IV emergency for Heilongjiang province at 13:00 on Aug 1.
-
----
-
-### 2026-08-01 13:38:13  #其他
-
-【水利部針對黑龍江省啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，8月1日東北東部將有大到暴雨，2日東北東南部將有小到中雨，3至7日東北中部北部仍將有中到大雨；黑龍江省松花江、嫩江支流甘河可能發生編號洪水。水利部於8月1日13時啟動針對黑龍江省的洪水防禦Ⅳ級應急響應。（央視新聞）
-
----
-
-### 2026-08-01 13:37:43  #MKT News #Commodities #Energy #DXY #Impact bullish #USDJPY #WTI #Impact bearish
-
-【Reserve Bank of India: India has attracted over $40bn in overseas capital since June】Since June, measures to attract overseas capital have brought in more than $40bn, bolstering the Reserve Bank of India’s foreign-exchange buffer, the RBI said. As of July 31, FCNR(B) deposits totalled $36.72bn; together with other overseas borrowings the sum is about $41bn. The RBI conducted roughly $7bn of FX sales on July 24 to defend the rupee, its largest direct intervention in months. Middle East tensions had pushed oil above $100/bbl and pressured the rupee; oil has since eased to around $90/bbl. The RBI governor said this week that recent rupee weakness reflects geopolitical tensions, dollar strength and EM volatility, not a deterioration in India’s economic fundamentals.
-
----
-
-### 2026-08-01 13:37:07  #公司 #國際
-
-現代汽車印度公司：公佈2026年7月銷量達75360輛，創單月歷史新高。
-
----
-
-### 2026-08-01 13:34:25  #國際
-
-【美中貿委會會長：美國企業重視中國市場和對華合作】當地時間7月31日，中國貿促會組織中國企業家代表團在華盛頓與美中貿易全國委員會及其會員企業交流座談。中國貿促會會長任鴻斌、中國駐美國使館經商處公參李勰、美中貿委會會長譚森等出席併發言。來自多個行業的中美企業代表參會並進行了積極溝通交流。美中貿委會會長譚森在接受媒體採訪時表示，美國企業仍致力於在中國發展，重視中國市場，並希望加強與中國企業合作。（中國日報）
-
----
-
-### 2026-08-01 13:33:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian government spokesperson Fatemeh Mohajerani told IRNA that attacks on refineries, fuel depots, pipelines and gas facilities are intended not merely to destroy assets but to disrupt daily life—creating fuel queues, spreading anxiety and undermining social stability—and that energy security is a cornerstone of national security and national resilience.
-
----
-
-### 2026-08-01 13:30:49  #市場 #央行 #國際
-
-【印度央行：印度引資舉措吸引超400億美元外資】印度積極吸引海外資本，自6月以來已引入資金超400億美元，充實印度央行外匯儲備。當前國際原油價格走高，印度政策制定者正藉此穩定盧比匯率。 印度央行週六公佈的資料顯示，截至7月31日，非居民外幣存款吸納資金規模達3672億美元。疊加海外外幣借款與境外商業借款流入資金，引資總額約410億美元。印度央行行長桑傑・馬爾霍特拉本週接受採訪時向投資者安撫盧比前景。他表示，盧比近期走弱源於地緣衝突、美元走強以及新興市場普遍波動，並非印度經濟基本面出現惡化。
-
----
-
-### 2026-08-01 13:26:59  #MKT News #XAUUSD #Impact bullish
-
-Lebanon's president said the Lebanese army's responsibilities have doubled and that the next phase requires deployment along the southern border. He said Lebanon will continue coordinating with friendly countries to secure support and training for the military.
-
----
-
-### 2026-08-01 13:24:14  #其他
-
-【總投資超50億元，耀鴻電子AI智算高速主機板核心材料研發生產基地專案落地無錫】7月31日，耀鴻電子AI智算高速主機板核心材料研發生產基地專案在無錫簽約落地，專案總投資超50億元，主要生產面向AI伺服器、光模組、高階晶片等領域的高階覆銅板，並配套建設研發總部與重點實驗室，重點攻關M10高速覆銅板等前沿技術。專案預計今年年內開工，達產後將年產3000萬平方米的AI高速封裝載板超薄覆銅板和6000萬米的超薄粘結片。
-
----
-
-### 2026-08-01 13:22:16  #其他 #國際
-
-【中國駐巴基斯坦大使館回應每經：雪崩致一支國際登山隊集體失聯，包含我國公民，要求巴方全力搜救並及時通報進展】“我們從巴方渠道瞭解到，7月30日一支國際登山隊在布洛阿特峰登山時遭遇雪崩意外，隊員集體失聯，其中包括一名全名為‘WANG ZHONG’的中國公民。”8月1日12時許，中國駐巴基斯坦大使館工作人員向記者表示，“我們第一時間就啟動了聯保應急機制，向巴軍政等部門瞭解事情進展，要求巴方全力搜救中國公民並及時通報進展。同時也與中國公民家屬取得聯絡，將為其提供必要的領事協助。”（每經）
-
----
-
-### 2026-08-01 13:17:49  #國際
-
-印度7月份商品及服務稅（GST）收入同比增長15.4%。
-
----
-
-### 2026-08-01 13:10:03  #國際
-
-美國地質調查局：加拿大麥克尼爾港西南200公里處發生5.6級地震。
-
----
-
-### 2026-08-01 13:09:36  #MKT News
-
-SAIC-GM-Wuling reported July global sales of 120,050 vehicles; July new-energy vehicle (NEV) sales were 72,695 units.
-
----
-
-### 2026-08-01 13:08:56  #其他
-
-【上汽通用五菱7月全球銷量120050輛】上汽通用五菱7月全球銷量120050輛，7月新能源銷量72695輛。
 
 ---

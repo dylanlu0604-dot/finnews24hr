@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 13:06:12_
-_本檔包含 3086 則快訊，約 599218 字_
+_更新時間：2026-08-08 13:49:52_
+_本檔包含 3081 則快訊，約 599345 字_
+
+---
+
+### 2026-08-08 13:48:18  #MKT News #Market Regions #Greater China
+
+China's National Flood Control and Drought Relief Headquarters activated a level-4 emergency response for flood and typhoon control in Jiangsu and Anhui.
+
+---
+
+### 2026-08-08 13:46:56  #公司 #國際
+
+【景林資產二季度大幅減持熱門科技股】當地時間8月7日，知名千億級私募景林資產披露2026年二季度末最新美股持倉（13F）。二季度，景林資產清倉英偉達、META等熱門科技股，大幅減持英特爾、網易、谷歌等標的；景林資產在二季度末的美股持倉市值從38.8億美元大幅下降至21.9億美元，降幅達43%。在大幅收縮多隻原有持倉的同時，景林資產也對部分半導體產業鏈公司進行了佈局，包括近期業績超預期的美國光模組製造商AAOI（應用光電）。
+
+---
+
+### 2026-08-08 13:46:21  #其他
+
+【國家防總對江蘇安徽啟動防汛防颱風四級應急響應】8月8日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房城鄉建設部、交通運輸部等部門以及浙江、福建、河北和其他可能受影響的省份聯合會商，研判颱風“白海豚”發展趨勢，進一步研究部署颱風防範應對工作。國家防總啟動針對江蘇、安徽的防汛防颱風四級應急響應,維持針對浙江、福建的防汛防颱風三級應急響應以及針對黑龍江的防汛四級應急響應，派出工作組正在浙江、福建協助指導防汛防颱風工作。國家防總辦公室主任、應急管理部副部長兼水利部副部長陳敏主持會商。
+
+---
+
+### 2026-08-08 13:39:36  #公司
+
+【茅臺部分直營店53度、500ml飛天茅臺售價提至1753元/瓶】記者獲悉，近期有茅臺直營店已將53度、500ml飛天茅臺售價提升至1753元/瓶，高於i茅臺1639元/瓶的售價。“這個價格（1753元/瓶）今天已經沒有貨了，你可以明天再來問一下。”一位茅臺直營店人士對記者表示，除普茅外，馬年生肖茅臺酒（經典版）和精品茅臺價格也有所上調。今年7月下旬，茅臺多地直營店已將普茅售價提至1719元/瓶。 (財聯社)
+
+---
+
+### 2026-08-08 13:36:30  #其他
+
+【水利部：全國13條河流仍維持超警】今天上午，水利部舉行會商，分析研判全國的防汛形勢，未來三天錢塘江、甬江、椒江、水陽江可能發生編號洪水。截至8月8日9時，黑龍江、內蒙古、河北、雲南等地13條河流仍維持超警。8月8日至10日，受降雨影響，錢塘江、甬江、椒江、水陽江可能發生編號洪水，暴雨區內部分中小河流可能發生超警洪水；受上游來水影響，黑龍江干流撫遠江段將超警，松花江幹流及支流呼蘭河、黑龍江干流同江至勤得利江段將維持超警。
+
+---
+
+### 2026-08-08 13:33:48  #其他
+
+【自然資源部將浙江地質災害防禦響應提升至Ⅲ級，對安徽啟動Ⅳ級響應】據自然資源部訊息，據氣象部門預測和自然資源部地質災害技術指導中心研判，受颱風“白海豚”影響，未來三天，浙江東部、安徽西部等地區域性地區發生地質災害的風險高。自然資源部於8月8日12時對安徽啟動地質災害防禦IV級響應，將浙江地質災害防禦響應等級由IV級提升為Ⅲ級，派出司局級同志帶隊的工作組赴浙江指導地質災害防範應對工作。自然資源部要求浙江和安徽兩省自然資源主管部門增強風險意識和憂患意識、強化底線思維和極限思維，密切關注颱風路徑和發展動向，高度重視本次颱風強降雨過程地質災害防範應對，及時組織開展巡查排查，切實做好監測預警、會商研判、災險情處置和值班值守、資訊報送等工作；中國地質調查局、自然資源部地質災害技術指導中心加強會商研判和駐守專家排程，全力協助地方做好地質災害防禦工作。
+
+---
+
+### 2026-08-08 13:22:45  #MKT News #Market Regions #Europe & UK #Wall Street (US) #Commodities #Energy #S&P500 #Impact bullish #DAX #WTI
+
+【JP Morgan: Q2 EPS in US and Europe beat expectations】JP Morgan said the Q2 earnings season is in its late stage, with about 80–85% of US and European companies reported. EPS broadly beat expectations across both regions and the share of companies reporting upside rose materially. Despite elevated pre-season expectations, aggregate S&P 500 EPS continued to climb, and the proportion of firms lowering earnings guidance fell to its lowest level since 2021. YoY EPS growth ran about 25% in the US and 23% in Europe, both above consensus. Revenue growth was also healthy, roughly +14% YoY in the US and +10% YoY in Europe. A large portion of the earnings gain came from the energy sector, supported by geopolitically driven higher energy prices; financials and technology were also significant contributors.
+
+---
+
+### 2026-08-08 13:20:48  #公司
+
+【湖北首家宇樹科技產業學院成立】據湖北日報，8月7日，湖北省首家宇樹科技產業學院在長江工程職業技術學院成立。據悉，“宇樹科技產業學院”由宇樹科技股份有限公司與長江工程職業技術學院共建，實行“企業專家任院長、校內教授任執行副院長”雙院長制管理架構，聚焦機器人除錯、運維、技術支援等市場緊缺崗位，精準培育緊缺人才。
+
+---
+
+### 2026-08-08 13:20:26  #國際
+
+【日媒：中國企業高校研發總投入超美國，居世界第一】據日媒8日報道，中國企業和高校研發總投入已超過美國，位居世界第一。 據報道，日本文部科學省7日釋出的“2026年科技指標”顯示，中國2024年的研發投入同比增長13.1%，達到97.1萬億日元；美國2024年研發投入為95.3萬億日元，同比增長6.7%；日本以22.1萬億日元位列第三，同比增長8.4%。 《日本經濟新聞》指出，2017年，中國發表的科研論文數量超過美國，位居世界第一。2018年，中國在被引次數排名前10%的高質量論文數量方面也位居榜首。此外，自2019年以來，在被引次數排名前1%的質量更高的論文數量方面，中國一直保持領先地位。 報道稱，此次，中國在研發總支出方面也超過了美國。“中國在全球科研領域的領先地位已毋庸置疑。”（中新網）
+
+---
+
+### 2026-08-08 13:17:35  #MKT News
+
+cenc reported a magnitude-5.2 earthquake in Alaska, USA at 12:50 on Aug 8; focal depth 10 km.
+
+---
+
+### 2026-08-08 13:12:08  #國際
+
+中國地震臺網正式測定：08月08日12時50分在美國阿拉斯加州（北緯62.35度，西經152.25度）發生5.2級地震，震源深度10千米。
+
+---
+
+### 2026-08-08 13:07:10  #公司
+
+【中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆】2026年7月21日，中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆，雙方就全球經濟金融形勢、中國宏觀經濟政策、加拿大養老基金投資公司在華展業等議題進行了交流。（中國人民銀行）
 
 ---
 
@@ -18482,107 +18554,5 @@ Salesforce計劃在華盛頓和加利福尼亞州裁員133人。
 ### 2026-08-07 07:36:20  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 The Wall Street Journal reported Trump has ordered a new investigation into a Pentagon ammunition stockpile leak, government officials said, calling it his latest escalation to counter damaging disclosures about a war with Iran.
-
----
-
-### 2026-08-07 07:35:17  #其他
-
-新墨西哥州法院要求Meta對該州18歲以下使用者實施Facebook和Instagram每月90小時使用上限。
-
----
-
-### 2026-08-07 07:34:56  #宏觀
-
-【服務實體經濟 財政金融打出“組合拳”】今年中央財政安排1000億元專項資金，推出財政金融協同促內需一攬子政策，統籌推進促消費與擴投資。上半年，這項宏觀調控創新舉措進一步開啟財政政策發力空間，提升金融服務實體經濟的質效，實現“1+1＞2”的政策效果。上半年，政策的系統整合和乘法效應有效發揮，政策效果逐步顯現。1—6月，政策帶動新發放相關領域中小微企業貸款、裝置更新貸款、服務業經營主體貸款、個人消費貸款4項貸款合計超17萬億元。（央視）
-
----
-
-### 2026-08-07 07:34:31  #經濟數據 #日本
-
-日本6月所有家庭支出同比下降3.3%，預期1.00%，前值-0.40%。
-
----
-
-### 2026-08-07 07:34:16  #其他
-
-新墨西哥州法院要求Meta加強性勒索檢測，並對裸體影象進行模糊處理。
-
----
-
-### 2026-08-07 07:33:41  #公司 #觀點
-
-【中信證券發行新H股融資186億港元 用於國際業務發展】中信證券在香港交易所公告稱，中信證券完成按每股23.13港元的價格向中信金控發行新H股，籌資約186億港元。所得款項將全部留存境外用於發展國際化業務，包括向境外全資子公司中。信證券國際增資不超過160億元人民幣。本次發行完成後，新H股約佔已發行股份總數的5.14%。中信金控將持有擴大後已發行股份總數的約24%。新H股須遵守48個月的限售期安排。
-
----
-
-### 2026-08-07 07:33:28  #市場
-
-【電解液新增劑VC價格一年漲了4倍 供不應求狀況短期不會改變】近期，鋰電池電解液新增劑碳酸亞乙烯酯（VC）價格持續上漲。據百川盈孚資料，截至8月6日，國內電解液新增劑VC均價為23萬元/噸，6月以來漲幅超過60%，同比上漲400%。多位業內人士表示，VC供不應求的情況短期不會改變。目前國內VC行業名義總產能超過19萬噸/年，但業內可穩定供貨的有效產能僅約11萬噸/年。去年行業企業開工率整體偏低，疊加頭部企業集中開展裝置檢修，行業庫存快速下行。（上海證券報）
-
----
-
-### 2026-08-07 07:32:40  #其他
-
-新墨西哥州法院命令Meta搜尋13歲以下使用者並刪除其賬戶。
-
----
-
-### 2026-08-07 07:32:38  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact mixed
-
-【Tokyo benchmark index set for largest reconstitution on record; over 600 names at risk】Japan’s Tokyo Stock Exchange benchmark index will undergo its largest reconstitution on record, with analysts estimating more than 600 companies could be phased out. Under a new inclusion rule, firms ranking in the bottom 3% by free-float market cap among TSE-listed companies as of August will be removed from the benchmark gradually from October over a two-year window. The prospect is prompting small-cap issuers to take defensive steps this month; delisting from the index would likely pressure prices and reduce liquidity. The change responds to investor complaints that the benchmark contains too many small, illiquid names and raises replication costs. Mizuho senior quant Akemi Hatano said some investors are already shorting small caps expected to be removed, creating scope for short-covering if market odds shift and companies remain in the index.
-
----
-
-### 2026-08-07 07:32:19  #市場 #國際
-
-【多空博弈 金價走勢尚未明朗】北京時間8月6日，國內多家黃金珠寶品牌公佈的境內足金飾品價格為1300元/克左右，單克較前一日上漲超過55元。這一價格調整的背後，是黃金這一原料的價格在反覆震盪後迎來快速突破。當日，倫敦現貨黃金繼前一交易日上漲超過5%後繼續上行，盤中一度突破4300美元/盎司。上海黃金交易所現貨黃金（Au99.99）也連續兩個交易日漲幅超過2%，於8月6日突破935元/克。業內人士認為，長期來看，支撐金價的結構性力量仍然存在，但短期內，金價仍處於多重影響因素的反覆博弈中，將於8月7日公佈的美國非農就業資料等仍有不確定性，黃金價格存在寬幅波動風險。（上海證券報）
-
----
-
-### 2026-08-07 07:32:00  #市場
-
-日經指數期貨在新加坡交易所開盤上漲100點，報65635點。
-
----
-
-### 2026-08-07 07:31:30  #公司
-
-【企業融資迎來新選項 十餘省份落地DR基準利率貸款】近期，以DR（存款類金融機構債券回購利率）為基準利率的貸款“多點開花”，打破了貸款定價單一錨定LPR（貸款市場報價利率）的舊模式。據統計，約15個省份已有這類貸款落地，國有大行、股份行、地方法人銀行均已佈局，央企、國企、民企、外資企業等多類經營主體已“嚐鮮”。DR作為貸款利率新“錨點”投入應用，不僅奏響了利率市場化改革新章，也為企業融資提供了全新的定價選項。業內人士認為，DR基準利率貸款將為企業融資帶來多重利好。（上海證券報）
-
----
-
-### 2026-08-07 07:31:25  #MKT News #Market Themes #The Trump Trade
-
-Trump said progress on the Strait of Hormuz is going well.
-
----
-
-### 2026-08-07 07:31:11  #國際
-
-日本政府公佈：6月日本家庭支出環比下降6.4%，調查預期為下降3.1%；日本6月家庭支出同比下降3.3%，調查預期為增長1.0%。
-
----
-
-### 2026-08-07 07:30:45  #經濟數據 #日本
-
-日本6月所有家庭支出同比下降3.3%，預期1.00%，前值-0.40%。
-
----
-
-### 2026-08-07 07:30:32  #宏觀 #市場 #國際
-
-【槓桿ETF風暴一個月 韓國股市距離風險出清還有“最後一公里”】經歷7月的“過山車”行情後，韓國股市本月迎來多空激烈交鋒。在連續兩日反彈後，韓國KOSPI指數8月6日收跌4.58%，報6296.38點，SK海力士股價重挫10%。盤中韓國交易所啟動KOSPI指數“側車（SideCar）”機制，暫停程式化賣盤5分鐘。6月19日指數見頂後，KOSPI指數經歷了一輪近40%的深度回撤。這場由個股槓桿產品引發的波動風暴，迫使韓國監管層在一個月內先後出臺多輪措施。機構分析認為，短期來看，急跌中最危險的槓桿結構或已基本出清，短期降溫效果初步達成，外資也開始階段性迴流。不過，散戶單日爆倉率仍處於高位、波動率指數居高不下，尾部風險還未徹底出清，市場真正企穩尚需時日。（上海證券報）
-
----
-
-### 2026-08-07 07:30:21  #其他
-
-新墨西哥州法院裁定Meta產品加劇該州青少年心理健康危機。
-
----
-
-### 2026-08-07 07:30:14  #MKT News #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-Japan household spending MoM -6.4% in June vs -3.1% expected; May +3.7%.
 
 ---

@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 13:06:12_
-_本檔包含 3376 則快訊，約 599353 字_
+_更新時間：2026-08-08 13:49:52_
+_本檔包含 3375 則快訊，約 599133 字_
+
+---
+
+### 2026-08-05 21:38:05  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Steadies as Markets Await Iran Deal — Crude oil fluctuated below $76 per barrel on Wednesday, after losses of more than 5% in each of the previous two sessions, as investors grew increasingly optimistic that a deal to reopen the Strait of Hormuz could soon be reached. According to Axios, the US, Iran and Oman are close to a 60-day interim agreement to reopen the waterway without tolls, with Washington aiming to announce the deal as early as Wednesday. US President Donald Trump also struck an optimistic tone, saying negotiations with Tehran were moving along very nicely and that more would be known within 48 hours. Meanwhile, Qatar said an interim proposal had been drafted, while reports indicated Iran was considering allowing European countries to clear mines from the strait. Meanwhile, Yemen's Houthis said they had attacked a Saudi vessel in the Red Sea. Still, prices remained well below recent highs
+
+---
+
+### 2026-08-05 21:37:29  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+S&P 500 and Dow Rise to New Records — US stocks extended their recent rallies amid an improving macroeconomic backdrop and strong earnings reports. The S&P 500 rose 0.6% and the Dow added 400 points, both at record highs, and the Nasdaq gained 0.3%. Treasury yields held their pullback from the week as US officials continued to signal attempts to achieve a deal with Iran that restores trade through from the Middle East, limiting energy inflation. Credit sensitive sectors, including banks and AI hyperscalers, broadly maintained their gains from the week. Arista Networks soared 7% after posting a better revenue thane expected. Also, Eli Lilly jumped 9% to lead the Dow after beating revenue consensus and raising its guidance for this year. Meanwhile, SpaceX slumped 13%, erasing its surge from the last session as the forecast of surging AI spending offset its revenue beat. A large portion of its IPO shares are soon to be released by primary buyers. Also, AMD sank 5% despite doubling datacenter revenues.
+
+---
+
+### 2026-08-05 21:36:49  #公司 #市場
+
+禮來公司股價上漲9%，創4月30日以來最大盤中漲幅。
+
+---
+
+### 2026-08-05 21:36:27  #市場
+
+萊迪思半導體公佈第二季業績與展望後，股價下跌2.6%。
+
+---
+
+### 2026-08-05 21:36:13  #其他
+
+惠譽（預計智利今年 GDP 增速約 1%。
+
+---
+
+### 2026-08-05 21:35:38  #市場
+
+英偉達股價上漲3%，報218.2美元/股，創6月4日以來新高，總市值報5.28萬億美元。
+
+---
+
+### 2026-08-05 21:35:14  #公司
+
+【交個朋友控股：預計上半年淨利潤同比增加約52.6%至65.0%】8月5日，交個朋友控股在港交所公告，集團預期於截至2026年6月30日止六個月期間錄得淨利潤約人民幣8600萬元至人民幣9300萬元，同比增加約52.6%至65.0%。
+
+---
+
+### 2026-08-05 21:34:47  #其他
+
+查爾斯河實驗室高管在電話會議上表示，第三季度調整後每股收益預期為2.90至3.00美元。
+
+---
+
+### 2026-08-05 21:34:40  #市場
+
+GLOBALFOUNDRIES公佈第二季度業績後股價下跌3%。
+
+---
+
+### 2026-08-05 21:33:15  #市場 #國際
+
+SpaceX披露計劃打造全面移動服務業務後，美國電信類股票下跌。
+
+---
+
+### 2026-08-05 21:32:52  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Pfizer Stock Price Hits 7-week High — Pfizer shares increased to 25.67 USD, the highest since June 2026. Over the past 4 weeks, Pfizer gained 7.93%, and in the last 12 months, it increased 3.43%.
+
+---
+
+### 2026-08-05 21:32:36  #國際
+
+【義大利與伊朗兩國外長通話 重點討論霍爾木茲海峽問題】當地時間8月5日，義大利副總理兼外長塔亞尼與伊朗外長阿拉格齊通電話，重點討論霍爾木茲海峽航行自由及地區危機。塔亞尼在社交媒體平臺表示，阿拉格齊介紹了伊朗正與阿曼就重新開放霍爾木茲海峽進行的談判。塔亞尼重申必須透過對話解決危機，包括與美國對話，以避免局勢升級。塔亞尼強調，為了地區穩定和全球經濟，必須保障海峽完全航行自由、不得設限或收費。（央視新聞）
+
+---
+
+### 2026-08-05 21:32:01  #公司 #市場
+
+優步股價下跌4.3%，因該公司公佈第三季度調整後每股收益預期低於市場預估。
+
+---
+
+### 2026-08-05 21:31:56  #MKT News #LLY.N #Impact bullish
+
+Eli Lilly (LLY.N) shares opened 5.7% higher after second-quarter results beat expectations.
+
+---
+
+### 2026-08-05 21:31:55  #市場
+
+Shopify股價在第三季度營收前景樂觀、第二季度業績公佈後大漲24.3%。
+
+---
+
+### 2026-08-05 21:31:55  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+At the open on Wednesday Aug 5, the Dow Jones Industrial Average rose 381.35 points (+0.71%) to 54,467.23, the S&P 500 gained 50.32 points (+0.65%) to 7,786.81 and the Nasdaq Composite added 112.83 points (+0.42%) to 26,697.82.
 
 ---
 
@@ -20257,107 +20353,5 @@ United States | Redbook Retail Sales (YoY) (Aug.1) | actual 8.7% | previous 8.3%
 ### 2026-08-04 20:53:13  #MKT News
 
 Ukrainian President Zelenskiy spoke by phone with NATO Secretary General Rutte.
-
----
-
-### 2026-08-04 20:52:48  #公司 #市場
-
-杜邦股價盤前下跌7.6%，此前該公司下調了年度銷售額預期。
-
----
-
-### 2026-08-04 20:52:44  #國際
-
-美國在聯邦公報上釋出徵求意見稿。
-
----
-
-### 2026-08-04 20:52:38  #MKT News #Important #DXY #Impact bullish #S&P500 #Impact bearish
-
-US seeks public comment on proposal to expand products subject to metal tariffs, proposing tariffs on welding machines, cranes and other products.
-
----
-
-### 2026-08-04 20:52:23  #公司 #國際
-
-英國石油執行長表示，美國陸上及海上油氣業務在盈利性排名中位居首位。
-
----
-
-### 2026-08-04 20:52:21  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Rise After Holiday — Futures tracking the S&P/TSX Composite Index rose on Tuesday after Monday's Civic Holiday, supported by lower oil prices. Crude prices declined after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about inflation and the higher interest rate outlook. Investors also looked ahead to earnings from major energy producers, with Suncor reporting later today and Canadian Natural due on Thursday. Meanwhile, firm gold prices supported mining stocks. Elsewhere, Industrial Alliance is scheduled to release quarterly results today, while Manulife Financial, Nutrien, and Shopify are set to report on Wednesday. On the data front, Canada's merchandise trade surplus widened to C$3.9 billion in June from C$3.7 billion in May.
-
----
-
-### 2026-08-04 20:52:15  #觀點
-
-【大摩：開放權重模型降低AI成本 “傑文斯悖論”或令算力需求持續增長】摩根士丹利在最新報告《開放權重模型與三種未來情景》中指出，開放權重模型並不一定削弱AI算力需求。恰恰相反，更低的使用成本可能加快AI普及，形成典型的“傑文斯悖論”：單次推理變便宜後，企業會把AI用於更多工，最終推高Token、算力、電力和基礎設施的總需求。報告強調開放權重並不等於完全免費，企業仍需承擔GPU、雲服務、運維和安全等成本，實際經濟性取決於應用場景。大摩認為無論模型開放程度如何變化，英偉達等均有望受益。
-
----
-
-### 2026-08-04 20:52:07  #Trading Economics #Markets #Commodity #Importance 1
-
-European Gas Eases but Supply Risks Persist — European natural gas prices have eased to below €58/MWh, around 9% lower than the 3-1/2-year high of €63.7/MWh reached on July 24, but they remain nearly 70% above levels seen at the same time last year. Prices continue to be supported by concerns over global LNG supply following the conflict in the Middle East, which disrupted around one-fifth of global LNG flows and hindered Europe's summer stockpiling efforts. EU gas storage is currently only 57% full, the lowest seasonal level since 2009, well below historical averages. While the European Commission remains confident that substantial spare LNG import capacity and a storage target of 80% will be sufficient to meet winter demand, Europe is expected to face intense competition from Asia for available cargoes, keeping upward pressure on prices. Although recent diplomatic signals between the US and Iran have eased oil prices and raised hopes for improved shipping through the Strait of Hormuz, LNG supply risks remain elevated.
-
----
-
-### 2026-08-04 20:51:40  #國際
-
-美國建議對焊接機、起重機等產品徵收關稅。
-
----
-
-### 2026-08-04 20:51:40  #MKT News
-
-CIARA-CEC says an Argentine maritime workers' strike is blocking ships from entering or leaving grain ports.
-
----
-
-### 2026-08-04 20:51:16  #MKT News #MCD.O #Impact bullish
-
-McDonald's (MCD.N) top executive said the company expects to gradually sell company-owned restaurants, with some disposals already occurring in Q2.
-
----
-
-### 2026-08-04 20:51:05  #國際
-
-美國就將更多產品納入金屬關稅徵求意見。
-
----
-
-### 2026-08-04 20:50:37  #其他
-
-阿根廷出口與加工商會：阿根廷海事工人罷工導致船舶無法進出穀物港口。
-
----
-
-### 2026-08-04 20:50:09  #其他
-
-麥當勞高管：我們將在今年下半年重新調配營銷預算，加大對超值套餐這類優惠活動的支援力度。
-
----
-
-### 2026-08-04 20:49:59  #國際
-
-【伊拉克庫區領導人訪敘 推動敘庫爾德武裝整合】伊拉克北部庫爾德自治區（庫區）主席巴爾扎尼3日到訪敘利亞首都大馬士革，會見敘過渡政府總統沙拉。訊息人士說，巴爾扎尼此訪意在推動敘庫爾德武裝加速整合進敘國家機構。
-
----
-
-### 2026-08-04 20:49:33  #其他
-
-【國開行：截至6月末在12個重點革命老區貸款餘額較“十四五”初期增長33%】記者8月4日自國家開發銀行獲悉，截至6月末，國開行在12個重點革命老區貸款餘額較“十四五”初期增長33%。
-
----
-
-### 2026-08-04 20:49:17  #其他
-
-麥當勞高管：從下週開始，我們將推出數字限時閃購優惠，以重新啟用我們的高頻顧客。
-
----
-
-### 2026-08-04 20:49:02  #國際
-
-【美國6月貿易逆差收窄 進口自年初以來首次下降】由於進口自年初以來首次下降，美國6月貿易逆差收窄，且進口降幅涉及多個領域。美國商務部週二公佈的資料顯示，6月美國商品和服務貿易逆差較前月下降5.6%，至733億美元。其中，進口額下降1.8%，出口額下降0.9%。貿易資料顯示，本季度淨出口持續拖累經濟增長。受關稅政策不斷變化、中東戰爭帶來的供應鏈擾動，以及企業大舉投資人工智慧等因素影響，美國貿易資料近幾個月出現較大波動。儘管美國最高法院在第一季度否決了特朗普政府實施的許多進口關稅措施，但政府仍在尋求其他途徑對進口商品徵收關稅。2025年至今年初期間，隨著企業積極推進人工智慧投資，推動電腦、外圍裝置及相關零部件進口大幅增長。不過，最新貿易報告顯示，6月電腦和半導體進口有所放緩。包括相關裝置在內的更廣泛資本品類別進口，也自去年9月以來首次出現下降。
 
 ---
