@@ -1,7 +1,45 @@
 {
   "date": "2026-08-08",
-  "count": 778,
+  "count": 781,
   "items": [
+    {
+      "id": "mkt:019fe169-9c25-7aab-8fc4-77dc23b5a9b3",
+      "time": "2026-08-08 20:47:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Water Resources raises Zhejiang flood-defense emergency to Level III】At 18:00 on Aug 8 the Ministry of Water Resources and the China Meteorological Administration issued a red-level mountain-flood meteorological warning for 23 contiguous counties in Zhejiang. At 20:00 the Ministry upgraded Zhejiang's flood-defense emergency response from Level IV to Level III under its flood-drought emergency response procedures, directing local water authorities to closely monitor rainfall and river conditions, strengthen monitoring/forecasting/warning, and conduct rolling joint analysis. The Ministry ordered enforcement of five evacuation responsibilities—who organizes, who moves, when to move, where to move, and no unauthorized returns—and prioritized evacuations and protection plans for water-linked tourist sites, eldercare institutions, resorts and farm stays, construction camps, and flood-prone roads. A Ministry working group has been dispatched to the typhoon, heavy-rain and flood defense frontline in Zhejiang to assist and advise local authorities."
+    },
+    {
+      "id": "mkt:019fe167-36d2-7aab-8fc4-688ed960941d",
+      "time": "2026-08-08 20:44:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Alibaba",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Apple integrates Alibaba's Qianwen into Apple Intelligence; Qianwen available on Mac】Aug 8 — Apple’s website shows Apple Intelligence will integrate Alibaba’s Qianwen model. Qianwen will be bundled into Apple Intelligence to provide text and image understanding and content-generation capabilities to Chinese users on iOS, iPadOS, macOS and visionOS, accessible directly on Apple devices without switching apps. On the same day the Cyberspace Administration of China published record filings for seven client-side mobile generative-AI services, including Apple Intelligence, Huawei’s Xiaoyi large model and OPPO’s AndesGPT large model."
+    },
+    {
+      "id": "5031979",
+      "time": "2026-08-08 20:43:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破77美元，日內漲超0.5%。"
+    },
     {
       "id": "mkt:019fe164-d3e1-7aab-8fc4-675aae8b6b52",
       "time": "2026-08-08 20:41:49",
