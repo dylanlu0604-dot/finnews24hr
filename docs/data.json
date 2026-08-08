@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 22:18:16",
+  "updated": "2026-08-08 22:22:22",
   "count": 15849,
   "items": [
+    {
+      "id": "5032029",
+      "time": "2026-08-08 22:19:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼呼籲各方避免採取破壞談判及進展的行動。"
+    },
+    {
+      "id": "5032028",
+      "time": "2026-08-08 22:18:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼：襲擊船隻的行為侵犯領土主權。"
+    },
     {
       "id": "mkt:019fe1ba-7109-7aab-8fc4-bcb8577f0342",
       "time": "2026-08-08 22:15:19",
@@ -144412,27 +144428,6 @@
         "AMZN.O"
       ],
       "text": "【Tech post-earnings split signals market beginning to punish unchecked AI spending】Market reactions to big-tech earnings diverged sharply, signaling investor scrutiny of AI-driven spending. Meta fell as much as 8% in after-hours trade after issuing disappointing revenue guidance and reporting its weakest free cash flow in years, a market read as evidence of rising AI-related costs. Microsoft jumped about 16% post-earnings, adding roughly $450bn of market value, after reporting the fastest cloud growth in four years and saying it will control incremental capital expenditure this year. Amazon rallied about 15% after its cloud revenue posted a four-year high, easing concerns about returns on large AI investments. Explosive Options founder and chief options analyst Bob Long said investors will eventually tire of hyperscalers’ endless spending, so restraint being rewarded is unsurprising. Global AI supply-chain names and firms that provide or adopt AI appear to be back in favor."
-    },
-    {
-      "id": "mkt:019fbdb4-1767-7aab-8f42-8a63d744e1dd",
-      "time": "2026-08-01 22:22:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US Treasury Secretary Bessent says Treasury tracking Iranian assets globally】Treasury Secretary Bessent said at a Camp David cabinet meeting on July 31 that, at President Trump’s direction, the Treasury is continuing an economic campaign against Iran and is tracing Iranian assets worldwide. He claimed measures advanced in March 2025 resulted in Iran’s largest private bank declaring bankruptcy by year-end, forced large-scale central bank money printing that pushed up inflation, and left Iran unable to pay military wages."
-    },
-    {
-      "id": "mkt:019fbdb0-e4c0-7aab-8f42-8752a71189c9",
-      "time": "2026-08-01 22:18:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Security and refinery sources say a fire at a refinery southwest of Erbil, Iraq, has been extinguished and production is gradually resuming."
     }
   ]
 }
