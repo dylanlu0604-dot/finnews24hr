@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 02:13:14",
-  "count": 15864,
+  "updated": "2026-08-09 02:17:18",
+  "count": 15862,
   "items": [
+    {
+      "id": "5032091",
+      "time": "2026-08-09 02:15:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本巖手縣近海發生5.6級地震】據日本氣象廳訊息，日本巖手縣近海9日凌晨發生5.6級地震。日本氣象廳說，地震發生於當地時間9日2時58分（北京時間9日1時58分）左右，震中位於北緯40.1度、東經142.4度，震源深度約40公里。日本氣象廳說，目前無需擔心發生海嘯災害。（新華社）"
+    },
     {
       "id": "mkt:019fe28d-667a-7aab-8fc5-bc269fe775d7",
       "time": "2026-08-09 02:05:45",
@@ -144524,32 +144532,6 @@
         "國際"
       ],
       "text": "特朗普社交媒體發文：正是在其的治理下，美國石油出口量大幅飆升。"
-    },
-    {
-      "id": "5020547",
-      "time": "2026-08-02 02:15:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：第51個州（委內瑞拉）。"
-    },
-    {
-      "id": "mkt:019fbe89-5188-7aab-8f43-425efdacc52e",
-      "time": "2026-08-02 02:14:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU to hold emergency meeting on Ceuta migrant crisis】On Aug 1 the EU said it will hold an emergency videoconference of interior ministers on Aug 4 to discuss the migrant crisis in the Spanish enclave of Ceuta and coordinate EU response measures. The meeting was proposed by Spain. Spanish Prime Minister Sanchez has written to Ireland, which holds the rotating EU presidency, Commission President Von der Leyen and European Council President Costa urging a coordinated EU response."
-    },
-    {
-      "id": "5020546",
-      "time": "2026-08-02 02:14:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯莫斯科市中心一餐飲店發生爆炸 造成人員傷亡】當地時間8月1日，俄羅斯莫斯科市中心一間餐飲店發生爆炸，多輛消防車和救護車駛往事故發生地。初步訊息顯示爆炸由燃氣洩漏引起。莫斯科警方稱，事故已造成3人死亡、15人受傷。"
     }
   ]
 }
