@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-08 21:25:21",
+  "updated": "2026-08-08 21:29:30",
   "count": 15837,
   "items": [
+    {
+      "id": "5031993",
+      "time": "2026-08-08 21:26:24",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【多家上市公司宣佈收到美國關稅退稅】上市公司公告顯示，自7月以來，多家公司宣佈已經收到美國關稅退稅。根據美國最高法院今年2月裁定，《國際緊急經濟權力法》不授權總統徵收大規模關稅。美國國際貿易法院隨後下令海關辦理相關退款。海關與邊境保護局4月20日啟動第一階段退款工作，首批退款於5月11日前後發放。美國海關與邊境保護局官員本月4日披露的資訊顯示，截至7月底，該部門已處理完畢約1000億美元關稅的退款流程並把相關資訊提供給財政部用於付款。（中新社）"
+    },
     {
       "id": "5031992",
       "time": "2026-08-08 21:23:50",
@@ -144324,14 +144334,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Binance Depreciates by 1.45% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.45% decrease."
-    },
-    {
-      "id": "mkt:019fbd81-0a31-7aab-8f42-74819a29b900",
-      "time": "2026-08-01 21:26:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Truck bomb attack in Cúcuta injures at least 10, including seven police】A truck bomb detonated in the early hours near a police station in Cúcuta, capital of Norte de Santander province, injuring at least 10 people, including seven police."
     }
   ]
 }
