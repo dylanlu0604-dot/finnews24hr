@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 21:08:45_
-_本檔包含 3374 則快訊，約 595519 字_
+_更新時間：2026-08-08 22:46:29_
+_本檔包含 3370 則快訊，約 597078 字_
+
+---
+
+### 2026-08-06 00:11:46  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+European Shares Close Muted — European stocks closed mixed on Wednesday, holding close to all-time highs from earlier in the week following a batch of corporate results. The Euro STOXX 50 inched marginally down to 6,448 and the STOXX Europe 50 added 0.1% to 657. Siemens Energy closed near the flatline even though it beats earnings estimates, with orders reaching record highs on the back of its business to power data centers. Meanwhile, SAP added over 1% to track the positive signals from US software counterparts, while Bayer and Argenx each gained more than 2% for a strong session in pharmaceuticals. Conversely, Infineon sank 5.7% as its guidance disappointed a portion of investors. Also, DHL dropped 3.7% after posting its results. Outside the Eurozone, Novo Nordisk closed flat despite issuing upbeat guidance, as concerns over the outlook for its obesity business continued to weigh on the stock. Also, Glencore surged 3.8% after delivering a strong guidance and plans to pursue a secondary listing on the ASX.
+
+---
+
+### 2026-08-06 00:11:31  #國際
+
+以色列總理內塔尼亞胡：無論能否達成協議，以色列都將繼續採取行動阻止伊朗獲取核武器。
+
+---
+
+### 2026-08-06 00:11:18  #國際
+
+【俄無人機廠負責人遭汽車炸彈襲擊】俄羅斯媒體5日報道稱，俄羅斯中部斯維爾德洛夫斯克州首府葉卡捷琳堡市郊一村莊4日發生汽車爆炸事件，烏拉爾無人機廠總經理受重傷，其保鏢被炸身亡。（新華社）
+
+---
+
+### 2026-08-06 00:11:05  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.29% Lower — The DAX Index dropped 76 points or 0.29 percent on Wednesday to close at 26126 points. Losses were led by Infineon (-5.49%), Deutsche Post (-4.05%) and Continental (-3.73%). Offsetting the fall, top gainers were Fresenius (5.16%), Beiersdorf (5.12%) and Gea Group (2.55%).
+
+---
+
+### 2026-08-06 00:10:33  #國際
+
+【阿拉伯和伊斯蘭國家譴責以色列耶路撒冷政策】阿拉伯和伊斯蘭國家外長5日在約旦首都安曼舉行會議，譴責以色列一直以來試圖改變耶路撒冷法律地位、性質和人口組成的政策措施。 與會國家外長和代表會後發表宣告說，以方在耶路撒冷問題上一直以來的政策公然違反國際法，沒有法律效力。宣告呼籲國際社會和聯合國安理會立即行動，制止以色列在耶路撒冷採取的一切非法措施。（新華社）
+
+---
+
+### 2026-08-06 00:10:14  #國際
+
+【五角大樓從公開網站撤下25年的武器測試報告】五角大樓已悄然從公開網站撤下數十年來發布的武器測試資料，稱對手可能利用人工智慧分析這些資料。批評者則表示，此舉引發了對透明度的擔憂。美國國防部在一份宣告中表示，五角大樓武器測試辦公室主任Amy Henninger於7月30日限制訪問過去25年來發布的、關於美國重大武器專案評估狀況的非機密年度報告。國防部稱，此舉是“旨在加強美國行動安全態勢的主動措施”。
+
+---
+
+### 2026-08-06 00:10:05  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.03% Higher — The CAC 40 Index went up by 3 points or 0.03 percent on Wednesday to close at 8669 points. The rise was led by Edenred (2.41%), Publicis (2.35%) and Accor (1.70%). On the downside, the weakerst performers were Orange (-3.13%), STMicroelectronics (-2.55%) and Michelin (-2.08%).
+
+---
+
+### 2026-08-06 00:09:31  #MKT News #Commodities #Energy #PSX.N #Impact bullish
+
+Phillips 66 (PSX.N): plans to keep refinery utilization in Q3 2026 in the mid-90% range of consolidated capacity.
+
+---
+
+### 2026-08-06 00:09:30  #其他
+
+【土耳其擬為解散庫爾德工人黨正式立法土耳其擬為解散庫爾德工人黨正式立法】土耳其大國民議會議長努曼·庫爾圖爾穆什5日宣佈，一項旨在為徹底解散庫爾德工人黨及其武裝奠定法律基礎的法案草案已正式提交議會。 據土耳其《自由報》報道，該草案提出，在土耳其安全機構認定庫爾德工人黨及與其相關的一切組織已終止實際存在並已上繳所有武器後，可對正在進行的相關調查和起訴，以及已作出的定罪判決的執行予以延期、緩刑。（新華社）
+
+---
+
+### 2026-08-06 00:09:12  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Pauses Rally — The DAX 40 gave up early gains to close about 0.3% down at 26,139 on Wednesday, as investors took profits after the index hit successive record highs over the past few sessions. Market sentiment remained cautiously optimistic as investors weighed the prospect of a US-Iran agreement to reopen the Strait of Hormuz. Meanwhile, attention was also on corporate earnings. Infineon Technologies led losses among stocks, falling more than 5%, after missing elevated margin expectations despite record revenue and a higher full-year outlook. Deutsche Post lost 2.7%, despite beating earnings estimates and expanding its share buyback program. On the opposite side, Fresenius SE & Co jumped 4.9% to lead the index after reporting better-than-expected Q2 results and raising its full-year earnings guidance. Beiersdorf gained 4.9% despite a 3.5% first-half sales decline, dragged by Nivea weakness, as investors welcomed an €100 million investment plan to revive the brand’s growth.
+
+---
+
+### 2026-08-06 00:08:50  #其他
+
+菲利普斯66計劃在2026年第三季度以總產能的90%中段區間運營旗下煉油廠。
+
+---
+
+### 2026-08-06 00:08:41  #其他
+
+英國海上貿易組織(UKMTO)稱所有船員安全，未報告造成環境影響.
+
+---
+
+### 2026-08-06 00:08:29  #MKT News #Important #WTI #Impact bullish #Brent
+
+UK Maritime Trade Operations said it received a report of an incident about 95 nautical miles southeast of Aden, Yemen. The master of a tanker reported hearing a large explosion near the vessel. All crew have been confirmed safe; no casualties reported.
+
+---
+
+### 2026-08-06 00:08:18  #其他
+
+英國海上貿易組織(UKMTO)稱，一艘油輪船長報告在船體附近聽到巨大爆炸聲。
+
+---
+
+### 2026-08-06 00:07:42  #其他
+
+英國海事貿易運營機構表示，已收到一起發生在葉門亞丁東南95海里處事件的報告。
+
+---
+
+### 2026-08-06 00:07:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index rose 16 points or 0.15 percent on Wednesday to close at 10896 points. Leading the gains are Endeavour (5.34%), NEXT (5.25%) and Fresnillo (4.11%). Top losers were Prudential (-6.58%), HSBC Holdings (-4.56%) and Vodafone (-2.48%).
+
+---
+
+### 2026-08-06 00:06:22  #MKT News #RDDT.N
+
+Reddit (RDDT.N) plans to adjust its legacy site to curb persistent abusive scraping and spam, citing protection of the platform, its business and users.
+
+---
+
+### 2026-08-06 00:05:48  #MKT News #Market Themes #AI Revolution #GOOG.O
+
+【Google AI lead Jeff Dean will leave to found scientific-discovery AI startup】Google (GOOG.O) senior AI leader Jeff Dean, an early hire who led the company’s AI strategy for about 15 years, will leave to launch a public‑benefit AI company called Discovery Loop and serve as its CEO. The venture aims to automate complex, multi-step scientific and engineering tasks to accelerate technological progress. Co‑founders include Google veterans Oriol Vinyals, Quoc Le and Sanjay Ghemawat; the four are among the world’s most-cited researchers and have driven advances in mathematics and protein-structure work. Their exits further intensify recent AI talent departures from Google.
+
+---
+
+### 2026-08-06 00:05:02  #其他
+
+Reddit：為保護平臺、業務及使用者免受惡意抓取、濫發資訊行為的侵害，我們計劃逐步對舊版Reddit官網做出調整。
+
+---
+
+### 2026-08-06 00:04:38  #公司
+
+谷歌股價跌幅擴大至4%。
+
+---
+
+### 2026-08-06 00:04:26  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish #Nasdaq100
+
+Google (GOOG.O) shares extended losses to more than 3% after the company announced a leadership reshuffle at DeepMind.
+
+---
+
+### 2026-08-06 00:04:23  #公司 #資料
+
+【谷歌DeepMind執行長德米斯·哈薩比斯即將卸任】德米斯·哈薩比斯將不再擔任谷歌DeepMind執行長，轉任該部門董事長。首席科學家傑夫·迪恩以及另一位谷歌AI高管將離職創辦新公司，谷歌將對這家新企業進行投資。哈薩比斯還將兼任母公司Alphabet首席科學家，同時繼續執掌旗下AI藥物研發子公司Isomorphic Labs。現任谷歌DeepMind技術長科雷·卡武庫奧格魯將出任該部門高階副總裁，直接向桑達爾·皮查伊彙報。迪恩與谷歌高階研究員桑傑·格瑪沃特將創立Discovery Loop，這是一家獨立公益企業，谷歌將作為投資方並提供雲服務支援。
+
+---
+
+### 2026-08-06 00:03:45  #公司 #資料 #焦點
+
+谷歌股價在該集團披露DeepMind管理層人事變動後大幅下挫，截至最新報價，該股跌幅為3.8%。
+
+---
+
+### 2026-08-06 00:03:08  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，1藥網跌7.51%，水滴公司跌7.41%，金生遊樂跌6.47%，阿特斯跌4.73%，嘉楠科技跌4.16%。
+
+---
+
+### 2026-08-06 00:01:54  #公司
+
+谷歌AI領軍人物傑夫・迪恩以及三名資深AI員工離開谷歌，創辦初創企業。
+
+---
+
+### 2026-08-06 00:01:33  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Edges Lower — The FTSE MIB edged 0.2% lower to 53,447 on Wednesday, as losses in auto and technology stocks outweighed gains in the luxury sector. Stellantis declined 1.8% after reporting earnings below analysts' expectations. STMicroelectronics fell 1.6% as chipmakers remained under pressure amid growing doubts over AI-related investment, while Prysmian lost 1.2%. Financials were mixed as investors assessed optimism surrounding a potential US-Iran agreement. UniCredit slipped 0.7%, while Mediobanca gained 1.5%. BMPS gained 1.6% after reports the Italian government would maintain a neutral stance on banking consolidation, fuelling expectations Rome could sell its MPS stake before Intesa Sanpaolo's (-0.3%) bid takes effect. Brunello Cucinelli led gains, rising 1.8%, as luxury stocks advanced after Chanel reported resilient revenue despite the broader industry slowdown. Campari rose 1.3% and Ferrari added 1.2%.
 
 ---
 
@@ -20167,185 +20323,5 @@ Iraq's Oil Ministry said crude is sold ex‑port and buyers are responsible for 
 ### 2026-08-04 22:44:26  #Trading Economics #Markets #United States #Currency #Importance 1
 
 Dollar Holds Steady as Oil Slump Reduces Fed Rate Hike Bets — The dollar index hovered around 100 on Tuesday, while US Treasury yields declined as oil prices tumbled on growing optimism that diplomatic efforts could bring an end to the US-Iran conflict, prompting investors to scale back expectations for a Federal Reserve interest rate hike in September. Qatar said mediators were making progress in negotiations, while Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as early as Tuesday or Wednesday. Investors also assessed a fresh batch of US economic data. Job openings fell more than expected to 7.36 million in June, the trade deficit narrowed as imports declined more than exports, and factory orders unexpectedly fell 0.3%, marking a second consecutive monthly decline. The developments pushed the implied probability of a September Fed rate hike down to 57%. Markets now turn their attention to the ADP employment report and Friday's nonfarm payrolls for further clues on the Fed's policy outlook.
-
----
-
-### 2026-08-04 22:43:40  #公司 #市場
-
-【多氟多收深交所監管函：投資者關係活動記錄信披不夠謹慎、客觀、完整】8月4日盤後，多氟多收到深交所下發的監管函。深交所認為，多氟多未在《投資者關係活動記錄表》中謹慎、客觀、完整地披露相關產品營業收入佔比較低、不會對業績產生重大影響等與投資者作出價值判斷和投資決策有關、可能對上市公司股票及其衍生品種交易價格有較大影響的資訊，相關資訊披露存在重大遺漏。此行為違反了深交所《股票上市規則（2026年修訂）》相關規定。（每經網）
-
----
-
-### 2026-08-04 22:42:48  #公司 #國際
-
-賽諾菲印度公司6月季度利潤為8.35億盧比。第一財季運營收入為43.8億盧比。
-
----
-
-### 2026-08-04 22:39:32  #公司
-
-【首席投資官警示：AI 行情依賴投資者信心】赫特爾公司首席投資官布拉德・康格警示，AI 交易正進入 “陌生人善意” 階段，大型雲服務商自由現金流走弱，越來越依靠舉債維持運轉。他表示，投資者預設未來現金流將會回暖，而這種想法或許只是一種 “自我慰藉的錯覺”。AI 相關債務規模已達約 5700 億美元，城堡投資預測，到 2028 年該債務還將再增加 5000 億美元以上。康格同時警告，鉅額 AI 資本開支將帶來高額折舊費用，會在未來數年內壓制企業盈利。
-
----
-
-### 2026-08-04 22:39:13  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Russian crude exports fall to lowest since mid-June as refinery attacks pause】A temporary shift in Ukrainian drone targets has reduced strikes on refineries, boosting domestic refining runs and cutting Russian crude exports. Industry-compiled tanker shipping data show four-week exports to Aug. 2 fell to 3.9m bpd — the first time in six weeks below 4.0m bpd and the lowest level since mid-June. If Ukrainian attacks on refining facilities resume, Russian crude exports could rebound in the coming weeks.
-
----
-
-### 2026-08-04 22:37:55  #國際
-
-市場訊息：知情人士透露，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道相關談判已進入新階段。
-
----
-
-### 2026-08-04 22:37:29  #國際
-
-烏克蘭總統澤連斯基：烏克蘭必須儘快完成全部籌備工作，在本國境內實現防空系統、導彈以及其他配套武器的本土化生產。
-
----
-
-### 2026-08-04 22:37:11  #公司
-
-【浪潮集團與山東省地震局簽署戰略合作協議】8月4日，浪潮集團與山東省地震局在浪潮科技園簽署戰略合作協議。下一步，雙方將全面開展戰略合作，加快推動新一代資訊科技與防震減災工作需求深度融合，推進人工智慧技術在防震減災領域落地見效。
-
----
-
-### 2026-08-04 22:36:32  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-Ukrainian President Zelenskiy said Kyiv must step up defenses against Russian cyber threats and counter Russian disinformation and information warfare.
-
----
-
-### 2026-08-04 22:36:24  #MKT News
-
-Zelenskiy said Ukraine must urgently complete preparations to domestically produce air-defense systems, missiles and other weapons.
-
----
-
-### 2026-08-04 22:34:21  #國際
-
-印度政府：執飛普吉島至德里航線的印度航空AI2379號航班飛機已被轉移至機庫。
-
----
-
-### 2026-08-04 22:33:18  #MKT News #Important
-
-Far Eastern Shipping Company (FESCO) said it has suspended accepting new bookings for shipments routed via the Black Sea.
-
----
-
-### 2026-08-04 22:33:06  #公司
-
-遠東航運集團表示，暫停受理經黑海運輸的新貨運申請。
-
----
-
-### 2026-08-04 22:32:39  #MKT News
-
-TASS reports Russian President Putin held a phone call with Brazilian President LULA.
-
----
-
-### 2026-08-04 22:32:26  #國際
-
-市場訊息：俄羅斯總統普京與巴西總統通電話。
-
----
-
-### 2026-08-04 22:29:19  #Trading Economics #Economy #United States #Economic Optimism Index #Importance 1
-
-US Economic Sentiment Slips In August — The RealClearMarkets/TIPP Economic Optimism Index edged down to 45.1 in August 2026 from 45.5 in July, missing market expectations of 47.5 and remaining below the neutral 50 mark. The Six-Month Economic Outlook index fell to 39.9 from 42.1, reflecting weaker expectations for the economy. Meanwhile, the Personal Financial Outlook, which measures households' expectations for their finances over the next six months, rose to 53 from 52.2, remaining the only component above the neutral threshold. Confidence in Federal Economic Policies, a measure of views on the effectiveness of government economic policies, also improved slightly, edging up to 42.3 from 42.1.
-
----
-
-### 2026-08-04 22:29:11  #其他
-
-跨山輸油管道 8 月配額分配為零。
-
----
-
-### 2026-08-04 22:29:07  #其他
-
-PALANTIR股價漲幅擴大至26%。
-
----
-
-### 2026-08-04 22:28:13  #公司 #國際
-
-【黑石集團為Anthropic晶片交易推銷鉅額債務融資方案】黑石集團已與投資者進行初步討論，以評估他們對第二筆鉅額債務融資方案的興趣，該方案旨在為Anthropic PBC使用Alphabet旗下谷歌公司的晶片提供資金。據知情人士透露，一項初步提議涉及至少360億美元的債務，這將超過阿波羅全球管理公司（Apollo Global Management Inc.）和黑石集團大約兩個月前敲定的350億美元債務規模。這一潛在的新融資輪次緊隨 Anthropic 秘密提交美國首次公開募股（IPO）申請之後，該公司正試圖趕在競爭對手OpenAI之前登陸公開市場
-
----
-
-### 2026-08-04 22:27:38  #國際
-
-烏克蘭總統：我正式任命伊霍爾・克利緬科出任烏克蘭國家安全與國防委員會新任秘書。
-
----
-
-### 2026-08-04 22:26:53  #國際
-
-【義大利 6 月自利比亞、美國、伊拉克的原油進口量增加】據媒體整理的義大利政府部門資料，義大利 6 月從利比亞、美國、伊拉克等多個供應國的原油進口量有所提升。來自美國的進口量升至去年 10 月以來最高。伊拉克的到貨量為去年 12 月以來最高。沙烏地阿拉伯的進口規模則跌至去年 12 月以來最低。利比亞連續第 12 個月成為義大利第一大原油供應國。6 月其餘主要供應國依次為亞塞拜然、哈薩克以及伊拉克。
-
----
-
-### 2026-08-04 22:25:53  #其他
-
-KRAKEN：正在調查導致加密貨幣和法定貨幣提現延遲的問題。
-
----
-
-### 2026-08-04 22:25:32  #國際
-
-據報道，一艘位於荷臺達海岸外 13 英里處的印度船隻遭無人艇襲擊後沉沒。
-
----
-
-### 2026-08-04 22:25:24  #市場 #國際
-
-【煉油廠遇襲頻次下降，俄羅斯石油流量跌至七週低位】由於烏克蘭無人機襲擊目標發生臨時轉移，俄羅斯煉油廠壓力有所緩解，但海外原油出貨量出現下滑；不過未來數週，一旦針對煉油設施的襲擊重啟，該國原油出口或將再度回升。媒體整理的油輪運輸資料顯示，截至 8 月 2 日的四周內，俄羅斯原油出口量降至每日 390 萬桶，六週來首次跌破 400 萬桶關口。7 月下旬，基輔方面轉而襲擊黑海、亞速海油輪以及俄羅斯西部地區的倉庫，俄羅斯煉油廠獲得短暫喘息，得以開展檢修，並在近幾周提高加工負荷。
-
----
-
-### 2026-08-04 22:25:17  #MKT News #Important #Brent #Impact bullish #XAUUSD #DXY
-
-Reports said an Indian vessel sank 13 miles off the coast of Hodeidah after an attack by an unmanned surface vessel.
-
----
-
-### 2026-08-04 22:23:33  #其他
-
-據貓眼專業版資料，電影《八仙！》累計票房超12.34億，進入中國影史動畫片票房榜前十。
-
----
-
-### 2026-08-04 22:22:31  #焦點 #國際
-
-【美國務卿稱有關重開霍爾木茲海峽的協議尚未敲定】當地時間8月4日，美國國務卿魯比奧表示，與伊朗就重新開放霍爾木茲海峽進行的談判“已經取得進展”，但協議尚未最終敲定，希望協議“很快能夠達成”。（央視新聞）
-
----
-
-### 2026-08-04 22:22:11  #觀點 #央行 #國際
-
-【摩根大通：美國高等級外幣債券需求升至年內高點】摩根大通週二研報顯示，外國投資者對美國投資級企業債的吸引力達到 2025 年 4 月以來最高水平。包括納撒尼爾・羅森鮑姆在內的策略師寫道，該行追蹤美元高等級債券吸引力的指數週環比上行 12 個基點，報 61 個基點，為去年 4 月以來的最高值。該變化源於上週歐洲、中東、非洲地區全部幣種以及亞太地區多數幣種的對沖成本下行，平均下降 10.4 個基點。此前美聯儲最新會議過後，市場已消化掉美聯儲短期加息預期，美元短期利率隨之回落。美元高等級債券收益率小幅上行 1.4 個基點，也助推了其對外吸引力。日本投資者短端債券的利差收益自 2025 年 4 月以來首次轉正，上行 13 個基點；10 年期債券利差收益改善 16 個基點。
-
----
-
-### 2026-08-04 22:21:59  #央行 #其他
-
-馬達加斯加央行將利率從 12% 上調至 12.5%。
-
----
-
-### 2026-08-04 22:21:31  #央行 #其他
-
-突尼西亞央行維持關鍵利率在 7% 不變。
-
----
-
-### 2026-08-04 22:21:22  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-Canadian Shares Rise on Lower Oil Prices — The S&P/TSX Composite Index rose nearly 1% to trade above the 35,500 mark on Tuesday after Monday's Civic Holiday, supported by lower oil prices and broad-based gains. Crude prices fell after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about inflation and the higher interest rate outlook. Financial stocks advanced, with RBC, TD Bank, BMO, CIBC, and Scotiabank all gaining about 1%. Brookfield Asset Management jumped more than 6% after completing its acquisition of Oaktree. Meanwhile, firmer gold and copper prices fueled a rally in mining shares, with Agnico Eagle up over 5%, Barrick adding nearly 5%, WPM rising more than 6%, and Franco-Nevada, Teck Resources, First Quantum, Lundin Mining and other peers climbing between 3% and 10%. Shopify gained nearly 1.5% ahead of earnings on Wednesday. In contrast, energy stocks declined on weaker oil prices, with Suncor and Canadian Natural down 4%.
 
 ---

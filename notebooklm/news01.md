@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 21:08:45_
-_本檔包含 3113 則快訊，約 596133 字_
+_更新時間：2026-08-08 22:46:29_
+_本檔包含 3124 則快訊，約 597032 字_
+
+---
+
+### 2026-08-08 22:45:20  #其他
+
+葉門武裝部隊發言人表示，已對胡塞武裝及其附屬“民兵組織”展開軍事行動。
+
+---
+
+### 2026-08-08 22:45:17  #MKT News
+
+Yemen's armed forces spokesman said forces launched operations against Houthi fighters and affiliated militias.
+
+---
+
+### 2026-08-08 22:44:06  #MKT News #WTI #Impact bearish #Brent
+
+Fox News reported US Vice President Vance said Iran has notified the US that, despite statements by regime insiders about imposing transit fees on passage through the Strait of Hormuz, Tehran will not impose such fees.
+
+---
+
+### 2026-08-08 22:43:00  #其他
+
+加拿大強調不會接受零敲碎打的協議。
+
+---
+
+### 2026-08-08 22:42:50  #國際
+
+市場訊息：加拿大希望在兩週內阻止美國計劃實施的50%關稅。
+
+---
+
+### 2026-08-08 22:42:40  #MKT News #WTI #Impact bearish #Brent
+
+Iranian media reported President Pezeshkian said now is the best time to reach an agreement, saying Iran is "strong and united" and "seen as a victor in war."
+
+---
+
+### 2026-08-08 22:41:49  #國際
+
+伊朗媒體報道，伊朗總統佩澤什基揚稱，當前是達成協議的最佳時機，因為伊朗“強大團結，且在戰爭中被視為勝利方”。
+
+---
+
+### 2026-08-08 22:41:39  #國際
+
+市場訊息：加拿大要求與美國達成一項全面協議。
+
+---
+
+### 2026-08-08 22:41:08  #國際
+
+市場訊息：有報道稱加拿大在貿易談判中向美國做出了讓步。
+
+---
+
+### 2026-08-08 22:40:34  #國際
+
+市場訊息：保加利亞方面稱，羅馬尼亞邊境附近出現的無人機大機率來自烏克蘭。
+
+---
+
+### 2026-08-08 22:39:54  #MKT News #Brent #Impact bullish #XAUUSD
+
+【Analyst: War with Iran risks US credibility, could push Gulf states into alternative defence pacts】Former US State Department official Marlin Hardinger said one cost the United States would pay in a war with Iran is a loss of credibility. He noted Saudi Arabia, Turkey and Pakistan have just signed a defence agreement, which Washington has long feared: if Middle Eastern states no longer view the US as a reliable security partner or unwilling to intervene and provide protection, Gulf states can form their own alliance. In the near term such an alliance could help address urgent defence needs versus Iran; over the longer term it could begin to erode US dominance in the Gulf, a shift Hardinger warned would be negative for both Gulf countries and the United States in coming years.
+
+---
+
+### 2026-08-08 22:23:20  #MKT News
+
+【Romanian Defence Ministry says radar found no aerial object crossing its airspace into Bulgaria】On Aug 8 local time, the Romanian Defence Ministry said its radar surveillance did not detect any aircraft crossing Romanian airspace into Bulgaria after explosions near the Bulgarian-Romanian border. The ministry said it is continuing to monitor the border area and will issue further information if material developments occur. Bulgarian Prime Minister Radev said a drone entered Bulgarian airspace from the Romanian direction on Aug 8 and exploded inside Bulgaria; no casualties were reported.
+
+---
+
+### 2026-08-08 22:19:03  #其他
+
+阿曼呼籲各方避免採取破壞談判及進展的行動。
+
+---
+
+### 2026-08-08 22:18:15  #其他
+
+阿曼：襲擊船隻的行為侵犯領土主權。
+
+---
+
+### 2026-08-08 22:15:19  #MKT News #Commodities #Energy #Brent
+
+Libya's Waha Oil said the Zakut-Sidra pipeline leaked and has resumed operations after repairs.
+
+---
+
+### 2026-08-08 22:14:21  #公司
+
+利比亞瓦哈石油公司稱已控制扎庫特-錫德拉管道的洩漏，經修復後已恢復運營。
+
+---
+
+### 2026-08-08 22:08:20  #國際
+
+市場訊息：威特科夫和庫什納可能下週訪問莫斯科和基輔。
+
+---
+
+### 2026-08-08 22:07:01  #其他
+
+萬斯：最為關注的是讓最大數量的油氣運出霍爾木茲海峽。
+
+---
+
+### 2026-08-08 22:06:43  #其他
+
+【羅馬尼亞國防部稱未發現空中目標經該國領空進入保加利亞】當地時間8月8日，羅馬尼亞國防部發表宣告稱，針對當天上午在保加利亞境內、靠近羅馬尼亞邊境地區發生的爆炸事件，羅馬尼亞雷達監視系統未發現任何飛行器穿越羅馬尼亞領空進入保加利亞。羅馬尼亞國防部說，目前正持續監測羅馬尼亞邊境附近局勢，如出現相關重要資訊，將及時釋出進一步訊息。保加利亞總理拉德夫8日說，一架無人機當天自羅馬尼亞方向進入保加利亞領空並在該國境內爆炸，但未造成人員傷亡。（央視新聞）
+
+---
+
+### 2026-08-08 22:06:29  #國際
+
+萬斯談伊朗談判：過去幾天取得了一些進展。
+
+---
+
+### 2026-08-08 22:06:10  #其他
+
+市場訊息：易捷航空正與維珍大西洋航空洽談程式碼共享合作。
+
+---
+
+### 2026-08-08 22:05:46  #國際
+
+萬斯：尋求伊朗承諾不會向船隻開火。
+
+---
+
+### 2026-08-08 22:05:04  #其他
+
+萬斯：正在研究包括霍爾木茲海峽排雷在內的交通方案。
+
+---
+
+### 2026-08-08 22:04:05  #國際
+
+萬斯談伊朗：我們仍然處於“比賽的中期”。
+
+---
+
+### 2026-08-08 22:02:50  #其他
+
+萬斯：主要關注霍爾木茲海峽石油和天然氣產量的最大化。
+
+---
+
+### 2026-08-08 22:02:28  #國際
+
+【伊朗：與阿曼“接近”達成協議但並不意味重開海峽】據伊朗法爾斯通訊社8日報道，伊朗外長阿拉格齊當天表示，伊朗與阿曼“接近”達成協議，但並不意味著重新開放霍爾木茲海峽。在8日舉行的一場記者會間隙，阿拉格齊提及伊朗同阿曼就霍爾木茲海峽通航問題談判的程序。他說：“談判正在進行，鑑於技術上的複雜性，我們正在確定一條臨時路線，我認為我們非常接近達成協議。” 阿拉格齊稱：“當然，這並不意味著霍爾木茲海峽將重新開放。海峽的開放還取決於其他條件，這包括美國違反諒解備忘錄應作出賠償。” 伊朗塔斯尼姆通訊社當天援引伊朗伊斯蘭革命衛隊發言人的話報道說，重開霍爾木茲海峽與伊朗同阿曼之間的談判無關，而是取決於美國是否完全接受伊朗的條件，並停止干涉地區談判。“一旦美國接受伊朗的條件，海峽必將重新開放。”（新華社）
+
+---
+
+### 2026-08-08 22:01:32  #其他
+
+【江西釋出大風黃色預警】江西省氣象臺今天（8月8日）20時10分變更大風黃色預警訊號：預計未來6小時內，撫州市和贛州市東北部的部分地區將出現8~9級雷暴大風，局地伴有強雷電、短時強降水等強對流天氣，請注意防範。
+
+---
+
+### 2026-08-08 21:59:18  #MKT News #WTI #Impact bearish #Brent
+
+Oman's state news agency said ongoing negotiations on arrangements for the Strait of Hormuz are positive and constructive.
+
+---
+
+### 2026-08-08 21:58:53  #MKT News #WTI #Impact bullish #Brent
+
+Oman’s state news agency said Oman condemned Iran’s repeated attacks on vessels transiting the Strait of Hormuz.
+
+---
+
+### 2026-08-08 21:58:04  #其他
+
+阿曼稱有關霍爾木茲海峽安排的持續談判是"積極且建設性的"。
+
+---
+
+### 2026-08-08 21:57:11  #其他
+
+阿曼訊息：阿曼譴責船舶途經霍爾木茲海峽時遭到多次襲擊的行徑。
+
+---
+
+### 2026-08-08 21:51:43  #市場 #國際
+
+【美議員諷刺特朗普對伊政策：他總在股市開盤前說不打了】當地時間8月6日，美國民主黨籍聯邦參議員克里斯·墨菲表示，總統特朗普通常會在週日晚上或週一早上，也就是股市開盤前，宣佈美伊戰事即將結束。但戰火已持續了六個月。（澎湃）
+
+---
+
+### 2026-08-08 21:49:53  #MKT News
+
+【Ship struck by 'unknown projectile', fire extinguished 18 nm east of Seeb, Oman】UKMTO reported on the 8th local time that a vessel 18 nautical miles east of Seeb, Oman, in the Sea of Oman was struck by an "unknown projectile" and caught fire; the blaze has been extinguished and all crew are reported safe. Authorities are investigating. UKMTO advised transiting vessels to proceed with caution.
+
+---
+
+### 2026-08-08 21:48:52  #國際
+
+【2026中國摩博會將於9月19日—22日在重慶舉行】據重慶日報，第二十四屆中國國際摩托車博覽會（簡稱“中國摩博會”）將於2026年9月19日—22日在重慶國際博覽中心舉行。據瞭解，本屆展會以“引領行業發展共創美好未來”為主題，展示面積超17萬㎡，包括8個室內展館和8萬㎡的室外場地，屆時將匯聚來自中國、美國、義大利、德國、法國、日本、英國、西班牙、韓國、巴基斯坦等國家的參展企業逾1000家，展示規模和展商數均創歷史新高。
+
+---
+
+### 2026-08-08 21:46:03  #其他
+
+【一船隻在阿曼以東海域遭襲起火】英國海上貿易行動辦公室（UKMTO）當地時間8日收到報告稱，阿曼海塞卜以東18海里處發生一起突發事件。經核實的訊息來源報告稱，一艘船隻遭“不明投射物”擊中並引發火災，目前火勢已被撲滅。訊息稱船員均安全。有關部門正在對事件展開調查。英國海上貿易行動辦公室建議過往船隻謹慎航行。（央視新聞）
+
+---
+
+### 2026-08-08 21:45:39  #其他
+
+【颱風“白海豚”逼近 上海危險區域已轉移3萬人】記者8日從上海市防汛指揮部獲悉，為防範今年第13號颱風“白海豚”可能帶來的風雨影響，上海市應急部門8日上午組織首批危險區域人員轉移工作，截至8日18時共轉移安置崇明區、臨港新片區、洋山港等危險區域人員3.03萬人。按計劃，9日上午8時起，還將對浦東新區（包括泥城鎮、書院鎮、萬祥鎮）、奉賢區、金山區、上海化工區啟動人員轉移工作。（央視新聞）
+
+---
+
+### 2026-08-08 21:29:16  #MKT News
+
+【Saudi expended 86% of PAC-3 (Patriot-3) interceptor stockpile】A UK media report says Saudi Arabia fired about 2,400 PAC-3 (Patriot-3) interceptors in the first 38 days after the conflict began, roughly 86% of an estimated 2,800-round inventory. By April last year Saudi had about 400 interceptors remaining. Other Gulf Arab states reportedly used comparably large portions of their missile stocks, underscoring acute regional military strain.
+
+---
+
+### 2026-08-08 21:28:46  #公司
+
+【明日運營開始起，上海地鐵全網路地面高架區段限速執行】申通地鐵集團介紹，受今年第13號颱風“白海豚”影響，為確保軌道交通運營安全，上海地鐵實施運營調整：8月9日運營開始起，3號線、浦江線全線限速執行；1號線、2號線、4號線、5號線、6號線、7號線、8號線、9號線、10號線、11號線、16號線、17號線、市域機場線地面、高架區段限速執行，同時，16號線取消大站車，列車站站停靠。全網路其他線路區段正常執行。上海地鐵將密切關注颱風路徑變化，根據風速、雨量和對運營影響程度等實際情況，動態調整列車開行方案，遇緊急情況或將採取停運措施，保障乘客安全出行。請市民乘客留意官方釋出的運營資訊。（上海釋出）
+
+---
+
+### 2026-08-08 21:26:24  #宏觀 #公司 #國際
+
+【多家上市公司宣佈收到美國關稅退稅】上市公司公告顯示，自7月以來，多家公司宣佈已經收到美國關稅退稅。根據美國最高法院今年2月裁定，《國際緊急經濟權力法》不授權總統徵收大規模關稅。美國國際貿易法院隨後下令海關辦理相關退款。海關與邊境保護局4月20日啟動第一階段退款工作，首批退款於5月11日前後發放。美國海關與邊境保護局官員本月4日披露的資訊顯示，截至7月底，該部門已處理完畢約1000億美元關稅的退款流程並把相關資訊提供給財政部用於付款。（中新社）
+
+---
+
+### 2026-08-08 21:23:50  #公司
+
+【華中最大“雙膜”工藝應急水廠通水】據“三峽小微”公眾號訊息，8月8日，由三峽集團所屬長江環保集團、武漢市水務集團等共同投資建設的華中地區規模最大的“雙膜”工藝應急水廠——武漢梁子湖應急水廠併網通水，標誌著武漢市江南區域正式構建起“一江一湖”雙水源互為備援、靈活排程的供水新格局，為片區660萬市民用水安全提供堅實保障。
+
+---
+
+### 2026-08-08 21:23:01  #其他
+
+【OPPO將首次推出OPPO FatMax超燃脂模式】8月8日，在第十八個全民健身日之際，OPPO 宣佈將首次推出運動手錶的OPPO FatMax超燃脂模式。與目前市面上其他運動手錶給出的“有氧區間”不同，OPPO健康產品業務負責人李勝介紹，即將推出的OPPO FatMax 超燃脂模式並非依賴固定的粗略計算公式，而是基於先進的自研健康演算法，根據使用者的身高、體重、年齡、性別和運動基礎等個體資料，計算出專屬最佳燃脂心率區間，並隨著佩戴時長持續最佳化。據悉，OPPO FatMax 超燃脂模式將於 2026 年 9 月隨 OPPO Watch S2 一同正式上線。
+
+---
+
+### 2026-08-08 21:14:12  #MKT News
+
+UKMTO said reliable sources reported a vessel was struck by an unidentified flying object, causing a fire that has since been extinguished. The crew reported they were safe and there was no environmental impact.
+
+---
+
+### 2026-08-08 21:09:47  #其他
+
+英國海上貿易行動辦公室（UKMTO）表示，船員已報平安，未對環境造成影響。
+
+---
+
+### 2026-08-08 21:09:11  #其他
+
+英國海事貿易行動辦公室（UKMTO）表示，已接到報告稱，阿曼哈薩卜以東18海里處發生一起安全事件。
+
+---
+
+### 2026-08-08 21:09:07  #MKT News
+
+UKMTO said it had received a report of an incident 18 nautical miles east of Khasab, Oman.
 
 ---
 
@@ -18548,209 +18818,5 @@ N展芯股份上市首日盤初漲398%，報115/股。
 ### 2026-08-07 09:34:00  #Trading Economics #Markets #Commodity #Importance 1
 
 European Natural Gas Extends Advance — European natural gas prices climbed above €58 per MWh on Friday, extending gains from the previous session as ongoing tensions in the Strait of Hormuz raised uncertainty over the resumption of LNG flows from the Persian Gulf. Iranian state media reported that naval forces had conducted an operation against "hostile targets" near the strait following explosions heard on Qeshm Island. Tehran is also reportedly seeking to restrict US and Israeli vessels from transiting the waterway under a proposed agreement with Oman, while demanding compensation from countries it considers hostile before allowing passage. European gas prices recovered most of the losses recorded earlier in the week following the reports. Continued disruptions to LNG shipments from key exporters such as Qatar have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts.
-
----
-
-### 2026-08-07 09:33:39  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish
-
-China's ChiNext Index rose over 1% at the open; Shenzhen Component Index up 0.55%.
-
----
-
-### 2026-08-07 09:33:25  #公司 #市場
-
-【PCB概念板塊短線拉昇，景旺電子漲停】PCB概念板塊短線拉昇，景旺電子、依頓電子、寶鼎科技漲停，勁拓股份、傑普特、嘉立創、深南電路、民爆光電等紛紛走高。
-
----
-
-### 2026-08-07 09:33:00  #MKT News #Commodities #Industrial Metals
-
-A-share PET copper-foil sector traded firmer after intraday volatility; Woge Optoelectronics hit limit-up, Fangbang and Tongguan Copper Foil rose more than 5%, Ouke Technology and Jiaocheng Ultrasonics also advanced.
-
----
-
-### 2026-08-07 09:32:44  #其他
-
-【浙江海事局啟動沿海Ⅱ級防颱應急響應】根據今年第13號颱風“白海豚”的動態和發展趨勢，浙江海事局已於8月7日8時啟動沿海Ⅱ級防颱應急響應。同時，截至8月7日8時，浙江全省162條客渡運航線已全部停航，193個水上工程專案已全部停工，474艘施工船舶全部進入安全避風水域。（央視新聞）
-
----
-
-### 2026-08-07 09:32:44  #MKT News
-
-【All ferry routes and projects suspended as Zhejiang launches coastal Level‑II typhoon emergency response】Citing the trajectory and development of this year’s No.13 typhoon "White Dolphin", the Zhejiang Maritime Safety Administration initiated a coastal Level‑II typhoon emergency response at 08:00 on Aug. 7. As of 08:00, all 162 passenger ferry routes in Zhejiang are suspended, 193 marine engineering projects have been halted, and 474 construction vessels have moved to safe storm‑shelter waters.
-
----
-
-### 2026-08-07 09:31:42  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-shares BC battery sector surged: Tongwei Co. rose nearly 8% and Huamin Co. gained over 7%; Dongcai Technology, Trina Solar and LONGi Green Energy also advanced.
-
----
-
-### 2026-08-07 09:31:17  #MKT News #Macro & Rates
-
-【China government bond futures open】China government bond futures opened the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) down 0.01%; 10-year (T) down 0.01%; 30-year (TL) down 0.08%.
-
----
-
-### 2026-08-07 09:31:15  #MKT News #CSI300 #Impact bullish
-
-【Onshore index futures morning open】Onshore index futures at the morning open: CSI 300 (IF) main contract +0.27%; SSE 50 (IH) main contract -0.15%; CSI 500 (IC) main contract +0.24%; CSI 1000 (IM) main contract +0.20%.
-
----
-
-### 2026-08-07 09:31:14  #公司
-
-【能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%】能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%，華友鈷業、融捷股份、永杉鋰業、天齊鋰業、贛鋒鋰業跟漲。
-
----
-
-### 2026-08-07 09:31:02  #市場 #焦點
-
-創業板指漲1.02%，現報3551.393點；上證指數跌0.18%，現報3893.252點；深證成指漲0.61%，現報14196.560點。
-
----
-
-### 2026-08-07 09:30:51  #MKT News #Important
-
-China A-share explosives-related stocks rose in early trade after the Ministry of Industry and Information Technology issued the '15th Five-Year Plan' for safe development of the civil explosives industry. Gaozheng Minbao jumped over 8%, Poly United gained more than 4%; Yipuli, Xuefeng Technology and Yahua Group also advanced.
-
----
-
-### 2026-08-07 09:30:03  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。
-
----
-
-### 2026-08-07 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續漲0.11%， 滬深300指數期貨連續漲0.22%， 中證500指數期貨連續漲0.11%， 上證50指數期貨連續漲0.12%。
-
----
-
-### 2026-08-07 09:29:54  #市場
-
-中證轉債指數開盤上漲0.08%。山石轉債、福新轉債、鼎通轉債、茂萊轉債、永吉轉債漲幅居前，分別漲3.77%、3.38%、3.35%、1.94%、1.70%。普聯轉債、火星轉債、久吾轉02、江農轉債、路維轉債跌幅居前，分別跌1.58%、1.35%、1.02%、0.60%、0.60%。
-
----
-
-### 2026-08-07 09:29:16  #MKT News #CSI300 #Impact bullish #SSE Composite
-
-China A-shares CPO sector active in early trade; Tongyu Communication hit the daily limit, Jingwang Electronics up >8%, Woge Optoelectronics up >7%; Yidun Electronics, Tonghui Electronics and Huilv Ecology also rose.
-
----
-
-### 2026-08-07 09:28:36  #公司 #觀點
-
-【合源生物啟動IPO輔導】合源生物科技股份有限公司獲上市輔導備案登記，擬在A股IPO，輔導機構為中信建投。該公司從事CAR-T細胞治療藥物研發。
-
----
-
-### 2026-08-07 09:27:33  #MKT News #SSE Composite #Impact bearish #CSI300 #Impact bullish #SZSE Component
-
-At the open on Aug 7 (Fri), China's Shanghai Composite Index fell 3.87 pts (-0.10%) to 3,896.49; Shenzhen Composite rose 42.66 pts (+0.30%) to 14,152.78; the CSI 300 Index rose 4.79 pts (+0.10%) to 4,656.10; ChiNext gained 21.88 pts (+0.62%) to 3,537.44; the STAR 50 (Sci‑Tech Innovation 50) fell 3.92 pts (-0.23%) to 1,697.37.
-
----
-
-### 2026-08-07 09:26:50  #公司
-
-【海博思創投資成立新能源科技公司】企查查APP顯示，近日，博清智濱（無棣）新能源科技有限公司成立，經營範圍包含風力發電技術服務；資訊科技諮詢服務；儲能技術服務；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由海博思創(688411)全資持股。
-
----
-
-### 2026-08-07 09:26:36  #MKT News #Market Regions #Greater China
-
-【10th BRICS Ministers of Industry meeting held in Jaipur, India】On Aug 6, the 10th BRICS Ministers of Industry meeting convened in Jaipur, India. China's Ministry of Industry and Information Technology chief engineer Wang Weiming attended. Ministers and UNIDO representatives exchanged on SMEs, photovoltaic industry transition, startup support and logistics system development. The meeting adopted a joint declaration and approved a photovoltaic industry working-group mandate and action plan, an SME working-group cooperation framework and a startups action plan.
-
----
-
-### 2026-08-07 09:25:51  #市場 #焦點
-
-乙二醇連續主力合約日內漲4%，現報4768.00元。
-
----
-
-### 2026-08-07 09:25:35  #焦點
-
-三大股指開盤漲跌不一，滬指跌0.1％，深成指漲0.3％，創業板漲0.62％。
-
----
-
-### 2026-08-07 09:25:23  #MKT News #Important #Market Regions #Greater China #Commodities #Precious Metals
-
-At the A-share open, the Shanghai Composite fell 0.1%, the Shenzhen Composite Index rose 0.3% and the ChiNext gained 0.62%; gold-related and rare-earth permanent magnet sectors led declines.
-
----
-
-### 2026-08-07 09:25:06  #國際
-
-【第十屆金磚國家工業部長會議在印度齋浦爾召開】8月6日，第十屆金磚國家工業部長會議在印度齋浦爾召開，中國工業和資訊化部總工程師王衛明出席會議併發言。金磚各國工業主管部門及聯合國工業發展組織代表圍繞中小企業發展、光伏產業轉型、初創企業賦能、物流體系建設等議題深入交流。本次會議透過了《第十屆金磚國家工業部長會議聯合宣言》，批准了光伏產業工作組職責檔案和行動計劃、中小企業工作組合作框架、初創企業行動計劃。
-
----
-
-### 2026-08-07 09:24:22  #公司 #市場
-
-SK海力士股價跌幅擴大至4.6%，三星電子股價上漲0.4%。
-
----
-
-### 2026-08-07 09:23:21  #MKT News #Important #CNH #Impact bullish
-
-【PBOC nets CNY133bn withdrawal today; CNY1,225.5bn net withdrawal this week】PBOC conducted CNY1bn 7-day reverse repo today; CNY134bn of 7-day reverse repos matured, resulting in a net withdrawal of CNY133bn. This week the PBOC executed CNY176.5bn of 7-day reverse repos, CNY300bn of overnight reverse repos and CNY500bn of buyout-style reverse repos; with CNY116.5bn of 7-day and CNY900bn of overnight reverse repos maturing, it reported a net withdrawal of CNY1,225.5bn for the week.
-
----
-
-### 2026-08-07 09:22:27  #央行 #其他
-
-央行公開市場今日淨回籠1,330.0億元人民幣。
-
----
-
-### 2026-08-07 09:22:27  #央行 #中國央行
-
-央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-08-07 09:21:58  #MKT News #Macro & Rates #CNH
-
-PBOC conducted a CNY 1 bln 7-day reverse repo today; bid and allotment were CNY 1 bln and the rate was 1.40%, unchanged.
-
----
-
-### 2026-08-07 09:21:55  #央行 #其他
-
-央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。
-
----
-
-### 2026-08-07 09:21:23  #MKT News #Market Regions #Greater China #Hang Seng Tech Index #Impact bullish #H-share index #Red Chip index
-
-Hong Kong's HSI opened down 3.63 pts (-0.01%) at 25,526.65; Hang Seng Tech index opened up 12.66 pts (+0.26%) at 4,833.44; H-share index opened up 9.30 pts (+0.11%) at 8,508.03; Red Chip index opened up 5.53 pts (+0.13%) at 4,127.85.
-
----
-
-### 2026-08-07 09:21:22  #國際
-
-韓國KOSPI指數跌幅擴大至1%，SK海力士跌超4%。
-
----
-
-### 2026-08-07 09:21:16  #焦點
-
-港股恒指低開跌0.01％，國企指數漲0.11％，科指開漲0.26%。
-
----
-
-### 2026-08-07 09:21:11  #市場
-
-拿森智慧科技港股上市首日開盤報16.90港元, IPO價10.42港元。
-
----
-
-### 2026-08-07 09:21:11  #MKT News #Important #Market Regions #Greater China #02261.HK #Impact bullish #Hang Seng Index
-
-Hong Kong open: Hang Seng Index opened down 0.01%; Hang Seng TECH opened up 0.26%. Nasen Technology (02261.HK) rose 62% at the open on its first trading day.
 
 ---

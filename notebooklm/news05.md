@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 21:08:45_
-_本檔包含 2798 則快訊，約 595923 字_
+_更新時間：2026-08-08 22:46:29_
+_本檔包含 2816 則快訊，約 595637 字_
+
+---
+
+### 2026-08-03 20:34:31  #其他
+
+匈牙利總理表示，未來幾天多瑙河水位預測已變得“略微樂觀”。
+
+---
+
+### 2026-08-03 20:34:16  #MKT News #IMAX.N #Impact bullish
+
+IMAX (IMAX.N): Odyssey drove a company‑record monthly box office, with July revenue $257 mln.
+
+---
+
+### 2026-08-03 20:33:46  #公司
+
+【大立科技：股票8月5日起撤銷退市風險警示並復牌】大立科技公告，公司股票自2026年8月5日起撤銷退市風險警示，證券簡稱由“*ST大立”變更為“大立科技”，證券程式碼仍為“002214”，日漲跌幅限制為“10%”不變。公司股票於2026年8月4日停牌一天，8月5日開市起復牌。
+
+---
+
+### 2026-08-03 20:33:44  #市場
+
+維薩股價盤前上漲1.4%；維薩將以24億美元收購Biocatch。
+
+---
+
+### 2026-08-03 20:33:27  #其他
+
+VISA：收購將幫助客戶預防網路威脅。
+
+---
+
+### 2026-08-03 20:33:10  #MKT News
+
+Romanian prime minister said companies' voluntary cooperation reduced electricity demand by 200 MW this morning.
+
+---
+
+### 2026-08-03 20:33:06  #公司
+
+【高樂股份：簽署31.95億元算力服務合同，預計2026年增加收入約2億元】高樂股份公告，公司全資子公司哈爾濱智辰科技有限公司近日與客戶B公司簽署《算力服務合同》，由智辰科技向客戶提供高效能算力服務，服務期限5年，合同含稅總金額為31.95億元。本次合同為公司合同金額第二大訂單，核心算力裝置和組網裝置已全部準備就緒，預計8月完成交付、組網驗收以及納管計費。若合同順利實施，可能在2026年度為公司增加2億元左右的收入，預計2026年度公司仍處於虧損狀態。
+
+---
+
+### 2026-08-03 20:33:04  #公司 #市場
+
+【亞馬遜美股盤前漲超2%】亞馬遜美股盤前漲超2%，現報277.44美元。
+
+---
+
+### 2026-08-03 20:32:43  #MKT News #Market Regions #Europe & UK #F #Impact bearish #RNO.PA
+
+Romania's prime minister said Dacia and Ford have temporarily halted production in the country.
+
+---
+
+### 2026-08-03 20:32:23  #國際
+
+印度證券交易委員會（SEBI）：將投資顧問、研究分析師在過往風險收益核驗機構完成註冊的截止期限延長至9月3日。
+
+---
+
+### 2026-08-03 20:32:19  #MKT News #Star Stocks #Palantir #PLTR.N #Impact bullish
+
+Mercury partners with Palantir (PLTR.N) to enhance factory automation and accelerate production cycles.
+
+---
+
+### 2026-08-03 20:32:18  #其他
+
+默丘裡與帕蘭提爾達成合作。
+
+---
+
+### 2026-08-03 20:31:53  #其他
+
+VISA將從Permira旗下管理基金及其他股東手中收購BIOCATCH，預計交易將於2027財年第二季度末完成。
+
+---
+
+### 2026-08-03 20:31:37  #其他
+
+VISA將以24億美元現金收購BIOCATCH。
+
+---
+
+### 2026-08-03 20:31:07  #公司
+
+Brookfield今日宣佈已完成對全球頂級信貸管理公司Oaktree的收購。
+
+---
+
+### 2026-08-03 20:30:29  #公司 #市場
+
+芝商所集團將於8月24日推出電子微型股票指數期貨，拓展四大領先基準指數對零售投資者的可投資渠道。
+
+---
+
+### 2026-08-03 20:30:21  #公司
+
+維薩集團宣佈收購BioCatch。
+
+---
+
+### 2026-08-03 20:29:56  #MKT News #Commodities #Energy
+
+Romania's prime minister reiterated a call for businesses, households and state institutions to voluntarily cut electricity consumption, citing limited electricity import capacity.
+
+---
+
+### 2026-08-03 20:29:19  #公司
+
+【先鋒精科：明確7.5億元可轉債發行方案並擬申請上市】先鋒精科公告稱，公司第二屆董事會第九次會議審議透過向不特定物件發行可轉換公司債券相關議案。本次擬發行可轉債總額7.5億元，期限6年，初始轉股價格86.40元/股。發行向原股東優先配售，原股東優先配售後餘額網上發售。公司將在發行完成後，申請可轉債在科創板上市，同時將開設募集資金專戶並簽署監管協議。
+
+---
+
+### 2026-08-03 20:29:09  #MKT News
+
+ANADOLU, citing Pakistani government sources, reports that the date and venue for restarting long-stalled direct talks between the US and Iran have not been finalized.
+
+---
+
+### 2026-08-03 20:29:05  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #WTI #Impact bearish
+
+【U.S. equity futures rise as focus shifts to corporate earnings and oil】U.S. equity futures rose at the start of the month as attention shifts to a heavy week of corporate earnings and after Monday's drop in oil prices bolstered risk sentiment. Raymond James chief market strategist Matt Orton said: "Earnings remain the primary market focus; by market cap, about 15% of S&P 500 constituents are due to report." He flagged energy, healthcare, utilities and industrials as beneficiaries of recent rotation and said their results will help determine whether that relative strength is sustainable on fundamentals.
+
+---
+
+### 2026-08-03 20:28:44  #國際
+
+俄羅斯國防部：我方無人機作戰人員截獲運輸人員及其運載物資。在阿列克謝耶沃 - 德魯日科夫斯基方向，烏軍前線陣地所需物資與彈藥補給運輸線路已遭切斷。
+
+---
+
+### 2026-08-03 20:27:58  #公司
+
+【中自科技與成都機動車公司簽署戰略合作框架協議】據中自科技訊息，8月3日，中自科技股份有限公司（簡稱“中自科技”）與成都機動車環保技術有限公司（簡稱“成都機動車公司”）在成都舉行戰略合作框架協議簽約和“聯合開發實驗室”揭牌儀式。當前，“雙碳”戰略目標縱深推進，國七排放標準進入落地前的關鍵視窗期，機動車、非道路移動機械等移動源汙染治理與產業合規升級需求日益迫切。此次合作正是雙方響應國家戰略、協同破局的重要舉措。雙方將重點圍繞核心技術聯合攻關、產品檢測認證等方面開展深度合作，同時，雙方共建聯合開發實驗室，推進標準制修訂、實驗室資源整合等，協力推動產業數字化與綠色化轉型。
+
+---
+
+### 2026-08-03 20:27:12  #國際
+
+【今年以來全國共新開國際航空貨運航線超100條】記者今天從中國物流與採購聯合會瞭解到，今年以來，適應國際市場需求變化，我國國際航空貨運航線不斷增加，截至7月31日，新開國際航空貨運航線超100條。據中國物流與採購聯合會航空物流分會統計，7月份全國共新開11條國際航空貨運航線。2026年全國共新開103條國際航空貨運航線，每週增加往返航班229個。順應國際市場需求的變化，行業順勢調整佈局策略，將航線開拓重心轉向亞洲區域市場，同時穩步拓展非洲、北美新興貨運通道，降低對單一歐洲市場的依賴，航線佈局更趨多元均衡。從航向結構來看，以亞洲航線和歐洲航線為主，分別為51條和38條，另外，北美洲航線12條，非洲航線2條，南美洲航線1條。（央視新聞）
+
+---
+
+### 2026-08-03 20:26:26  #國際
+
+ParaZero獲歐洲頂級防務製造商首筆DefendAir自主反無人機平臺訂單。
+
+---
+
+### 2026-08-03 20:25:44  #其他
+
+斯里蘭卡電力監管機構：第三季度電價維持不變。
+
+---
+
+### 2026-08-03 20:25:19  #其他
+
+羅馬尼亞總理表示，能源缺口給該地區的電力進口帶來了壓力，近日羅馬尼亞每日進口發電量為2000至2500兆瓦。
+
+---
+
+### 2026-08-03 20:24:54  #其他
+
+【中國內地量子領域規格最高會議在深舉辦】為期三天的“第五屆CCF量子計算大會暨大灣區量子科學論壇”(下稱“量子計算大會”)3日在深圳開幕。此次大會是中國內地量子領域規格最高、貫通創新鏈與產業鏈的年度綜合會議。大會以“量與智相融合，量超智共融算”為主題，由中國科學院院士、圖靈獎獲得者姚期智與中國科學院院士、國家最高科學技術獎獲得者薛其坤共同擔任大會主席，匯聚中國近千家高校、科研院所、領軍企業、初創企業及創投機構約2400人。與會者共話量子科技前沿成果，推動量子科技創新與產業創新深度融合，推動產學研融通創新。(深圳釋出)
+
+---
+
+### 2026-08-03 20:24:39  #其他
+
+荷蘭勞工總會（FNV）釋出宣告稱，鹿特丹、阿姆斯特丹以及澤蘭港口的工人定於9月4日舉行罷工，抗議政府計劃削減社保開支。
+
+---
+
+### 2026-08-03 20:22:21  #Trading Economics #Economy #Mexico #Business Confidence #Importance 1
+
+Mexico Manufacturing Confidence Remains Unchanged in July — Mexico's manufacturing business confidence held steady at 48.0 in July 2026, remaining below the 50-point threshold for the 17th consecutive month. Firms' assessment of the country's current economic situation edged up 0.2 points to 48.3, while expectations for the economy improved 0.3 points to 52.1. However, the "right time to invest" indicator fell 1.4 points to 32.9. Meanwhile, manufacturers' assessment of their current business conditions rose 0.2 points to 50.5, and expectations for future business conditions increased 0.5 points to 56.2.
+
+---
+
+### 2026-08-03 20:21:28  #國際
+
+澤連斯基：本週將召開一場特別形式的國家安全與國防委員會會議，評估各地區與社群韌性保障計劃的落實成效。我們將基於此次研判，制定對外政策相關任務。
+
+---
+
+### 2026-08-03 20:20:55  #其他
+
+【希臘阿提卡重大野火或為輸電線火花引發 】希臘消防部門2日說，該國首都雅典所在阿提卡大區的野火明顯由一條故障輸電線所產生的火花引發。發生故障的輸電線從一座私營風力發電設施向主電網輸電。警方已逮捕2名嫌疑人，分別是負責設計和監督該電力專案的工程師和參與建設輸電網路的承包商，他們面臨縱火重罪指控。當局還對該風力發電企業的負責人發出了逮捕令。（新華社）
+
+---
+
+### 2026-08-03 20:20:35  #市場 #央行 #國際
+
+韓國央行：已與本土黃金生產商、韓國交易所、韓國證券存管院搭建起國內黃金採購機制。
+
+---
+
+### 2026-08-03 20:19:54  #MKT News #EURUSD #Impact bullish #DXY #Impact bearish
+
+Italy's 10-year bond yield fell 10bps to 3.93%.
+
+---
+
+### 2026-08-03 20:19:51  #市場
+
+歐元區國債收益率進一步下跌，德國10年期國債收益率下跌6.8個基點，報3.135%。
+
+---
+
+### 2026-08-03 20:19:48  #國際
+
+伊朗議會國家安全與外交政策委員會議員雅各布・禮薩扎德向議會下屬的伊朗議會通訊社（ICANA）稱，華盛頓的目標是剷除 “抵抗軸心下轄各武裝分支，其中包括我方代理人武裝、葉門胡塞兄弟武裝、伊拉克人民動員組織、黎巴嫩真主黨以及加沙哈馬斯。”禮薩扎德表示，此類襲擊無法動搖上述武裝組織的決心，並稱他們將繼續 “追隨最高領袖的道路”。
+
+---
+
+### 2026-08-03 20:19:36  #MKT News #ABNB.O #Impact bullish
+
+BOFA GLOBAL RESEARCH raises PT for Airbnb (ABNB.O) to $160 from $150.
+
+---
+
+### 2026-08-03 20:19:34  #國際
+
+伊朗一名議員表示，在美國與沙特據報襲擊伊拉克人民動員組織據點後，美國正試圖清除該地區受德黑蘭支援的武裝組織。
+
+---
+
+### 2026-08-03 20:19:26  #其他
+
+美銀全球研究將愛彼迎目標股價從150美元上調至160美元。
+
+---
+
+### 2026-08-03 20:19:03  #其他
+
+據燈塔專業版實時資料，截至8月3日20時17分，影片《八仙！》票房突破12億。
+
+---
+
+### 2026-08-03 20:18:16  #其他
+
+B·萊利將Strategy目標股價從215美元下調至155美元。
+
+---
+
+### 2026-08-03 20:17:53  #國際
+
+伊朗訊息：武裝部隊總參謀部救援與行動副參謀長視察位於梅蘭邊境的伊朗革命衛隊地面部隊薩門・阿伊瑪特種移動醫院。
+
+---
+
+### 2026-08-03 20:16:51  #宏觀 #國際
+
+澤連斯基： 目前，我們無法百分百確定外交努力何時能夠奏效，也無法預判烏克蘭針對俄羅斯實施的遠端制裁、我方發起的縱深打擊，以及各夥伴國出臺的全部制裁措施，何時能形成足夠強大的壓力，迫使俄羅斯別無選擇、只能走向和平。我們將全力爭取在今年秋季達成這一目標。
+
+---
+
+### 2026-08-03 20:16:31  #國際
+
+澤連斯基： 今年，冬季保障依然是所有人的首要任務。
+
+---
+
+### 2026-08-03 20:16:22  #國際
+
+美國銀行投資服務部升級另類投資的投資者與客戶開戶准入體驗。
+
+---
+
+### 2026-08-03 20:16:14  #其他
+
+土耳其國營阿納多盧通訊社援引巴基斯坦政府訊息人士報道，美伊重啟直接談判的日期與地點尚未最終敲定。訊息人士稱，伊斯蘭堡與多哈被列為談判舉辦地備選，巴基斯坦與卡達斡旋人員持續同雙方保持溝通。
+
+---
+
+### 2026-08-03 20:16:05  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Russia said a Ukrainian attack on Gelendzhik raised the death toll to six.
+
+---
+
+### 2026-08-03 20:15:58  #市場
+
+安聯首席經濟顧問Mohamed El-Erian：今天KOSPI指數下跌了5%。雖然在絕對值上跌幅較大，但與近期的劇烈波動相比，其實已經相對溫和。
 
 ---
 
@@ -16718,185 +17006,5 @@ Interfax: Russian forces damaged an oil tanker previously used by the Ukrainian 
 ### 2026-08-01 22:47:07  #國際
 
 俄羅斯武裝部隊在烏克蘭敖德薩港損毀了一艘原供烏克蘭軍方使用的油輪，並在尼古拉耶夫港擊中一艘海上拖船。
-
----
-
-### 2026-08-01 22:44:50  #公司
-
-【義大利那不勒斯附近地震造成26人受傷】義大利民防部門1日釋出公告說，截至目前，義大利南部那不勒斯附近7月31日晚發生的地震已造成26人受傷。
-
----
-
-### 2026-08-01 22:44:24  #其他
-
-【國家防總、應急管理部針對重慶啟動防汛四級應急響應】據氣象部門預報，8月1日至3日，重慶部分地區有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月1日22時針對重慶啟動防汛四級應急響應。（央視新聞）
-
----
-
-### 2026-08-01 22:42:50  #焦點 #國際
-
-【美國駐中東多國使館釋出警報 稱地區局勢可能升級】美國駐中東多國大使館1日釋出安全警報說，中東地區緊張局勢有可能進一步升級，身處中東的美國公民應做好應對航班取消等情況的準備，並考慮離開該地區。當天，美國駐埃及、沙烏地阿拉伯、科威特、約旦、巴林、卡達、阿聯酋、伊拉克、阿曼、以色列等國大使館分別釋出安全警報，主要內容基本一致。
-
----
-
-### 2026-08-01 22:42:29  #公司 #國際
-
-雷諾印度公司：2026年7月國內批發銷量攀升27.9%，至3293輛。
-
----
-
-### 2026-08-01 22:40:43  #其他
-
-市場資訊：義大利幾乎所有城市均啟動最高階別高溫預警。
-
----
-
-### 2026-08-01 22:40:01  #國際
-
-美國紐約市延長公寓度假物業免稅申請截止日期，該市市長稱符合資格的業主可在9月18日前提交申請。
-
----
-
-### 2026-08-01 22:38:53  #國際
-
-美國駐阿聯酋使團於週六敦促身處中東地區的美國公民考慮離開該地區；若局勢緊張程度升級，需做好撤離準備。
-
----
-
-### 2026-08-01 22:37:19  #MKT News
-
-NHC: Tropical Storm Genevieve is gradually weakening.
-
----
-
-### 2026-08-01 22:31:11  #其他
-
-國際原子能機構：扎波羅熱核電站近期發生的近兩小時場外斷電事故原因尚不清楚。
-
----
-
-### 2026-08-01 22:31:04  #其他
-
-國際原子能機構（IAEA）：扎波羅熱核電站今日因軍事衝突失去場外供電，這已是衝突發生以來的第23次。
-
----
-
-### 2026-08-01 22:29:24  #MKT News #Commodities #Energy
-
-IAEA said the cause of a recent nearly two-hour loss of offsite power at the Zaporizhzhia nuclear plant remains unclear.
-
----
-
-### 2026-08-01 22:28:11  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-IAEA: ZAPORIZHZHIA NUCLEAR PLANT lost off‑site power for the 23rd time today amid military fighting.
-
----
-
-### 2026-08-01 22:25:43  #其他
-
-【阿維塔7月交付7626輛】據阿維塔訊息，阿維塔7月交付7626輛。
-
----
-
-### 2026-08-01 22:24:18  #MKT News
-
-Lebanese sources say the seventh round of Lebanon‑Israel talks will open in Rome on Tuesday and run for three days.
-
----
-
-### 2026-08-01 22:24:00  #MKT News #Market Themes #AI Revolution #META.O #Impact bearish #MSFT.O #Impact bullish #AMZN.O
-
-【Tech post-earnings split signals market beginning to punish unchecked AI spending】Market reactions to big-tech earnings diverged sharply, signaling investor scrutiny of AI-driven spending. Meta fell as much as 8% in after-hours trade after issuing disappointing revenue guidance and reporting its weakest free cash flow in years, a market read as evidence of rising AI-related costs. Microsoft jumped about 16% post-earnings, adding roughly $450bn of market value, after reporting the fastest cloud growth in four years and saying it will control incremental capital expenditure this year. Amazon rallied about 15% after its cloud revenue posted a four-year high, easing concerns about returns on large AI investments. Explosive Options founder and chief options analyst Bob Long said investors will eventually tire of hyperscalers’ endless spending, so restraint being rewarded is unsurprising. Global AI supply-chain names and firms that provide or adopt AI appear to be back in favor.
-
----
-
-### 2026-08-01 22:22:04  #MKT News
-
-【US Treasury Secretary Bessent says Treasury tracking Iranian assets globally】Treasury Secretary Bessent said at a Camp David cabinet meeting on July 31 that, at President Trump’s direction, the Treasury is continuing an economic campaign against Iran and is tracing Iranian assets worldwide. He claimed measures advanced in March 2025 resulted in Iran’s largest private bank declaring bankruptcy by year-end, forced large-scale central bank money printing that pushed up inflation, and left Iran unable to pay military wages.
-
----
-
-### 2026-08-01 22:18:34  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Security and refinery sources say a fire at a refinery southwest of Erbil, Iraq, has been extinguished and production is gradually resuming.
-
----
-
-### 2026-08-01 22:17:49  #其他
-
-伊拉克埃爾比勒西南部煉油廠火災已被撲滅，已開始逐步恢復生產。
-
----
-
-### 2026-08-01 22:12:25  #公司
-
-【中國國新總經理侯曉會見中國物流總經理徐鴻】據中國國新訊息，7月30日，中國國新黨委副書記、總經理侯曉在公司總部會見中國物流黨委副書記、總經理徐鴻。侯曉表示，雙方自去年簽署戰略合作協議以來，持續推進基金設立、專案投資、金融服務、產業培育等方面合作。希望與中國物流不斷擴大合作領域，深化資源協同，共同服務國家重大戰略落實落地。徐鴻表示，希望雙方持續深化戰略合作關係，深入推進基金投資、金融服務、境外業務、資本運營等領域合作。
-
----
-
-### 2026-08-01 22:09:42  #其他
-
-【REDMI K100 Pro系列定檔8月11日，全新配色“赤霞珠紅”ChinaJoy首秀】8月1日晚間訊息，近日，ChinaJoy展會開幕。展會現場，REDMI正式宣佈：REDMI K100 Pro系列提檔至8月11日釋出，REDMI K100 Pro、REDMI K100 Pro Max將率先登場。展會現場全新“赤霞珠紅”配色的REDMI K100 Pro Max 真機也首次公開亮相。（新浪科技）
-
----
-
-### 2026-08-01 22:02:39  #其他
-
-【內蒙古呼和浩特獲授“世界乳都”稱號】2026年世界奶業大會1日在內蒙古自治區呼和浩特市開幕，國際食品科技聯盟正式授予呼和浩特“世界乳都”牌匾和獎盃。繼2005年獲評“中國乳都”、2023年獲評“世界乳業科技之都”之後，這座草原城市完成了由“中國乳都”向“世界乳都”的跨越。（新華社）
-
----
-
-### 2026-08-01 21:59:53  #公司
-
-【金富科技：公司液冷產能和訂單銷量實現同比、環比穩步攀升】金富科技近日在機構調研時表示，液冷行業需求持續爆發、行業整體處於高景氣擴產週期，市場供貨需求旺盛。公司緊抓行業發展機遇，結合簡易程式定增募投專案及自有資金擴產專案，快速推動液冷產線建設、裝置採購、新增廠區裝修等，液冷板塊擴產工作全力加速推進。依託分批次產線投產落地，公司液冷產能和訂單銷量實現同比、環比穩步攀升，持續匹配下游客戶不斷增長的訂單需求。
-
----
-
-### 2026-08-01 21:59:00  #公司
-
-【雅礱江流域2300萬千瓦投產裝機全面投入電力保供】記者8月1日從國投集團雅礱江流域水電開發有限公司獲悉，雅礱江流域水風光一體化基地約2300萬千瓦投產裝機已全面投入迎峰度夏電力保供。目前，流域梯級水電聯合執行蓄能達177.7億千瓦時，同比增加9.5億千瓦時，為電網頂峰供電儲備了充足水能。（新華社）
-
----
-
-### 2026-08-01 21:58:17  #公司 #國際
-
-【俄國家原子能公司貨船遭烏無人機襲擊】 俄羅斯國家原子能公司執行長利哈喬夫1日證實，該公司下屬的遠東航運公司一艘貨運船在黑海東北部水域遭烏克蘭武裝部隊無人機襲擊。據俄原子能公司新聞處釋出的訊息，7月31日深夜至8日1日凌晨，一艘名為“亞尼那”的船隻在距離俄羅斯港口新羅西斯克130海里處遭2架烏無人機襲擊後沉沒，船上17名船員全部獲救。（新華社）
-
----
-
-### 2026-08-01 21:57:38  #公司
-
-【伊利集團董事長潘剛：聯合英偉達、騰訊等啟動乳業數紐中心建設】在2026世界奶業大會開幕式上，伊利集團董事長、總裁潘剛在發言中宣佈，伊利聯合英偉達、騰訊等啟動乳業數紐中心建設，首創“資料+平臺+標準+人才”四位一體模式，填補行業垂直領域雲資料空白。據悉，乳業數紐中心旨在打造全球領先的乳產業鏈數智底座，中心以“Data+AI”為技術底座，以高質量資料集為核心產出，致力於打通“養殖-生產-流通-消費”全鏈路資料孤島。未來將面向中小乳企推出標準化資料集訂閱、定製化資料加工等普惠服務，實現“一家牽頭建設、全行業普惠受益”。（澎湃）
-
----
-
-### 2026-08-01 21:55:59  #公司
-
-【葡萄牙航空一客機起飛後因緊急情況返航】當地時間8月1日，葡萄牙航空公司一架從里斯本飛往巴西庫裡蒂巴的空客A330客機，在起飛後通報機上發生緊急情況，決定返航里斯本機場。目前，機上發生緊急情況的原因尚未公佈。
-
----
-
-### 2026-08-01 21:44:58  #公司 #國際
-
-【拉脫維亞關閉與白俄羅斯唯一公路口岸】拉脫維亞國家邊防局7月31日釋出公告說，拉脫維亞與白俄羅斯之間的帕特涅基邊境檢查站因技術故障暫停通關。公告說，帕特涅基邊境檢查站的資訊系統執行出現技術故障，暫時無法進行證件核驗和邊境管制。故障原因以及可能的恢復時間仍不清楚。（新華社）
-
----
-
-### 2026-08-01 21:39:35  #MKT News #Commodities #Energy
-
-【Danube drop cuts Paks output to 480 MW; Hungary mobilises reserves】On Aug 1 Prime Minister Magyar said falling Danube levels forced the Paks nuclear plant to cut output to 480 MW from a normal 2,000 MW and that the plant could be taken fully offline sooner than expected, possibly by the weekend. Electricity providers have activated contingency plans for major grid failures. The government reviewed all available generation, power-import options, projected peak demand, voluntary load-reduction commitments and river conditions, and ordered all available reserve plants into operation and on standby with fuel secured. Authorities also asked major industrial users to voluntarily curb consumption; many agreed to shift production and reduce evening peak demand by about 240 MW.
-
----
-
-### 2026-08-01 21:30:18  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 1.45% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.45% decrease.
-
----
-
-### 2026-08-01 21:26:18  #MKT News
-
-【Truck bomb attack in Cúcuta injures at least 10, including seven police】A truck bomb detonated in the early hours near a police station in Cúcuta, capital of Norte de Santander province, injuring at least 10 people, including seven police.
 
 ---

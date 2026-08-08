@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 21:08:45_
-_本檔包含 3164 則快訊，約 596410 字_
+_更新時間：2026-08-08 22:46:29_
+_本檔包含 3172 則快訊，約 595263 字_
+
+---
+
+### 2026-08-07 09:33:39  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish
+
+China's ChiNext Index rose over 1% at the open; Shenzhen Component Index up 0.55%.
+
+---
+
+### 2026-08-07 09:33:25  #公司 #市場
+
+【PCB概念板塊短線拉昇，景旺電子漲停】PCB概念板塊短線拉昇，景旺電子、依頓電子、寶鼎科技漲停，勁拓股份、傑普特、嘉立創、深南電路、民爆光電等紛紛走高。
+
+---
+
+### 2026-08-07 09:33:00  #MKT News #Commodities #Industrial Metals
+
+A-share PET copper-foil sector traded firmer after intraday volatility; Woge Optoelectronics hit limit-up, Fangbang and Tongguan Copper Foil rose more than 5%, Ouke Technology and Jiaocheng Ultrasonics also advanced.
+
+---
+
+### 2026-08-07 09:32:44  #其他
+
+【浙江海事局啟動沿海Ⅱ級防颱應急響應】根據今年第13號颱風“白海豚”的動態和發展趨勢，浙江海事局已於8月7日8時啟動沿海Ⅱ級防颱應急響應。同時，截至8月7日8時，浙江全省162條客渡運航線已全部停航，193個水上工程專案已全部停工，474艘施工船舶全部進入安全避風水域。（央視新聞）
+
+---
+
+### 2026-08-07 09:32:44  #MKT News
+
+【All ferry routes and projects suspended as Zhejiang launches coastal Level‑II typhoon emergency response】Citing the trajectory and development of this year’s No.13 typhoon "White Dolphin", the Zhejiang Maritime Safety Administration initiated a coastal Level‑II typhoon emergency response at 08:00 on Aug. 7. As of 08:00, all 162 passenger ferry routes in Zhejiang are suspended, 193 marine engineering projects have been halted, and 474 construction vessels have moved to safe storm‑shelter waters.
+
+---
+
+### 2026-08-07 09:31:42  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-shares BC battery sector surged: Tongwei Co. rose nearly 8% and Huamin Co. gained over 7%; Dongcai Technology, Trina Solar and LONGi Green Energy also advanced.
+
+---
+
+### 2026-08-07 09:31:17  #MKT News #Macro & Rates
+
+【China government bond futures open】China government bond futures opened the morning session: 2-year (TS) most-active contract unchanged; 5-year (TF) down 0.01%; 10-year (T) down 0.01%; 30-year (TL) down 0.08%.
+
+---
+
+### 2026-08-07 09:31:15  #MKT News #CSI300 #Impact bullish
+
+【Onshore index futures morning open】Onshore index futures at the morning open: CSI 300 (IF) main contract +0.27%; SSE 50 (IH) main contract -0.15%; CSI 500 (IC) main contract +0.24%; CSI 1000 (IM) main contract +0.20%.
+
+---
+
+### 2026-08-07 09:31:14  #公司
+
+【能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%】能源金屬板塊短線衝高，寒銳鈷業、騰遠鈷業漲超10%，華友鈷業、融捷股份、永杉鋰業、天齊鋰業、贛鋒鋰業跟漲。
+
+---
+
+### 2026-08-07 09:31:02  #市場 #焦點
+
+創業板指漲1.02%，現報3551.393點；上證指數跌0.18%，現報3893.252點；深證成指漲0.61%，現報14196.560點。
+
+---
+
+### 2026-08-07 09:30:51  #MKT News #Important
+
+China A-share explosives-related stocks rose in early trade after the Ministry of Industry and Information Technology issued the '15th Five-Year Plan' for safe development of the civil explosives industry. Gaozheng Minbao jumped over 8%, Poly United gained more than 4%; Yipuli, Xuefeng Technology and Yahua Group also advanced.
+
+---
+
+### 2026-08-07 09:30:03  #市場
+
+【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.01%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。
+
+---
+
+### 2026-08-07 09:30:02  #市場
+
+【股指期貨早盤開盤】 中證1000指數期貨連續漲0.11%， 滬深300指數期貨連續漲0.22%， 中證500指數期貨連續漲0.11%， 上證50指數期貨連續漲0.12%。
+
+---
+
+### 2026-08-07 09:29:54  #市場
+
+中證轉債指數開盤上漲0.08%。山石轉債、福新轉債、鼎通轉債、茂萊轉債、永吉轉債漲幅居前，分別漲3.77%、3.38%、3.35%、1.94%、1.70%。普聯轉債、火星轉債、久吾轉02、江農轉債、路維轉債跌幅居前，分別跌1.58%、1.35%、1.02%、0.60%、0.60%。
+
+---
+
+### 2026-08-07 09:29:16  #MKT News #CSI300 #Impact bullish #SSE Composite
+
+China A-shares CPO sector active in early trade; Tongyu Communication hit the daily limit, Jingwang Electronics up >8%, Woge Optoelectronics up >7%; Yidun Electronics, Tonghui Electronics and Huilv Ecology also rose.
+
+---
+
+### 2026-08-07 09:28:36  #公司 #觀點
+
+【合源生物啟動IPO輔導】合源生物科技股份有限公司獲上市輔導備案登記，擬在A股IPO，輔導機構為中信建投。該公司從事CAR-T細胞治療藥物研發。
+
+---
+
+### 2026-08-07 09:27:33  #MKT News #SSE Composite #Impact bearish #CSI300 #Impact bullish #SZSE Component
+
+At the open on Aug 7 (Fri), China's Shanghai Composite Index fell 3.87 pts (-0.10%) to 3,896.49; Shenzhen Composite rose 42.66 pts (+0.30%) to 14,152.78; the CSI 300 Index rose 4.79 pts (+0.10%) to 4,656.10; ChiNext gained 21.88 pts (+0.62%) to 3,537.44; the STAR 50 (Sci‑Tech Innovation 50) fell 3.92 pts (-0.23%) to 1,697.37.
+
+---
+
+### 2026-08-07 09:26:50  #公司
+
+【海博思創投資成立新能源科技公司】企查查APP顯示，近日，博清智濱（無棣）新能源科技有限公司成立，經營範圍包含風力發電技術服務；資訊科技諮詢服務；儲能技術服務；工程和技術研究和試驗發展等。企查查股權穿透顯示，該公司由海博思創(688411)全資持股。
+
+---
+
+### 2026-08-07 09:26:36  #MKT News #Market Regions #Greater China
+
+【10th BRICS Ministers of Industry meeting held in Jaipur, India】On Aug 6, the 10th BRICS Ministers of Industry meeting convened in Jaipur, India. China's Ministry of Industry and Information Technology chief engineer Wang Weiming attended. Ministers and UNIDO representatives exchanged on SMEs, photovoltaic industry transition, startup support and logistics system development. The meeting adopted a joint declaration and approved a photovoltaic industry working-group mandate and action plan, an SME working-group cooperation framework and a startups action plan.
+
+---
+
+### 2026-08-07 09:25:51  #市場 #焦點
+
+乙二醇連續主力合約日內漲4%，現報4768.00元。
+
+---
+
+### 2026-08-07 09:25:35  #焦點
+
+三大股指開盤漲跌不一，滬指跌0.1％，深成指漲0.3％，創業板漲0.62％。
+
+---
+
+### 2026-08-07 09:25:23  #MKT News #Important #Market Regions #Greater China #Commodities #Precious Metals
+
+At the A-share open, the Shanghai Composite fell 0.1%, the Shenzhen Composite Index rose 0.3% and the ChiNext gained 0.62%; gold-related and rare-earth permanent magnet sectors led declines.
+
+---
+
+### 2026-08-07 09:25:06  #國際
+
+【第十屆金磚國家工業部長會議在印度齋浦爾召開】8月6日，第十屆金磚國家工業部長會議在印度齋浦爾召開，中國工業和資訊化部總工程師王衛明出席會議併發言。金磚各國工業主管部門及聯合國工業發展組織代表圍繞中小企業發展、光伏產業轉型、初創企業賦能、物流體系建設等議題深入交流。本次會議透過了《第十屆金磚國家工業部長會議聯合宣言》，批准了光伏產業工作組職責檔案和行動計劃、中小企業工作組合作框架、初創企業行動計劃。
+
+---
+
+### 2026-08-07 09:24:22  #公司 #市場
+
+SK海力士股價跌幅擴大至4.6%，三星電子股價上漲0.4%。
+
+---
+
+### 2026-08-07 09:23:21  #MKT News #Important #CNH #Impact bullish
+
+【PBOC nets CNY133bn withdrawal today; CNY1,225.5bn net withdrawal this week】PBOC conducted CNY1bn 7-day reverse repo today; CNY134bn of 7-day reverse repos matured, resulting in a net withdrawal of CNY133bn. This week the PBOC executed CNY176.5bn of 7-day reverse repos, CNY300bn of overnight reverse repos and CNY500bn of buyout-style reverse repos; with CNY116.5bn of 7-day and CNY900bn of overnight reverse repos maturing, it reported a net withdrawal of CNY1,225.5bn for the week.
+
+---
+
+### 2026-08-07 09:22:27  #央行 #其他
+
+央行公開市場今日淨回籠1,330.0億元人民幣。
+
+---
+
+### 2026-08-07 09:22:27  #央行 #中國央行
+
+央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-08-07 09:21:58  #MKT News #Macro & Rates #CNH
+
+PBOC conducted a CNY 1 bln 7-day reverse repo today; bid and allotment were CNY 1 bln and the rate was 1.40%, unchanged.
+
+---
+
+### 2026-08-07 09:21:55  #央行 #其他
+
+央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。
+
+---
+
+### 2026-08-07 09:21:23  #MKT News #Market Regions #Greater China #Hang Seng Tech Index #Impact bullish #H-share index #Red Chip index
+
+Hong Kong's HSI opened down 3.63 pts (-0.01%) at 25,526.65; Hang Seng Tech index opened up 12.66 pts (+0.26%) at 4,833.44; H-share index opened up 9.30 pts (+0.11%) at 8,508.03; Red Chip index opened up 5.53 pts (+0.13%) at 4,127.85.
+
+---
+
+### 2026-08-07 09:21:22  #國際
+
+韓國KOSPI指數跌幅擴大至1%，SK海力士跌超4%。
+
+---
+
+### 2026-08-07 09:21:16  #焦點
+
+港股恒指低開跌0.01％，國企指數漲0.11％，科指開漲0.26%。
+
+---
+
+### 2026-08-07 09:21:11  #市場
+
+拿森智慧科技港股上市首日開盤報16.90港元, IPO價10.42港元。
+
+---
+
+### 2026-08-07 09:21:11  #MKT News #Important #Market Regions #Greater China #02261.HK #Impact bullish #Hang Seng Index
+
+Hong Kong open: Hang Seng Index opened down 0.01%; Hang Seng TECH opened up 0.26%. Nasen Technology (02261.HK) rose 62% at the open on its first trading day.
 
 ---
 
@@ -18949,161 +19153,5 @@ The FTSE MIB Index Closes 0.17% Lower — The FTSE MIB Index fell 94 points or 0
 ### 2026-08-06 00:11:48  #MKT News
 
 【Head of Ural drone plant critically injured in car-bomb attack】Russian media reported on May 5 that a car bomb exploded on May 4 in a village outside Yekaterinburg, Sverdlovsk region. Vladimir Tkachuk, general manager of the Ural drone plant, was seriously wounded and taken to intensive care; his driver and bodyguard was killed. Footage showed the Mercedes carrying Tkachuk burned out. Authorities have opened a criminal investigation. TASS said the Ural drone plant produces a drone that has been widely used by Russia in the conflict with Ukraine.
-
----
-
-### 2026-08-06 00:11:46  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Shares Close Muted — European stocks closed mixed on Wednesday, holding close to all-time highs from earlier in the week following a batch of corporate results. The Euro STOXX 50 inched marginally down to 6,448 and the STOXX Europe 50 added 0.1% to 657. Siemens Energy closed near the flatline even though it beats earnings estimates, with orders reaching record highs on the back of its business to power data centers. Meanwhile, SAP added over 1% to track the positive signals from US software counterparts, while Bayer and Argenx each gained more than 2% for a strong session in pharmaceuticals. Conversely, Infineon sank 5.7% as its guidance disappointed a portion of investors. Also, DHL dropped 3.7% after posting its results. Outside the Eurozone, Novo Nordisk closed flat despite issuing upbeat guidance, as concerns over the outlook for its obesity business continued to weigh on the stock. Also, Glencore surged 3.8% after delivering a strong guidance and plans to pursue a secondary listing on the ASX.
-
----
-
-### 2026-08-06 00:11:31  #國際
-
-以色列總理內塔尼亞胡：無論能否達成協議，以色列都將繼續採取行動阻止伊朗獲取核武器。
-
----
-
-### 2026-08-06 00:11:18  #國際
-
-【俄無人機廠負責人遭汽車炸彈襲擊】俄羅斯媒體5日報道稱，俄羅斯中部斯維爾德洛夫斯克州首府葉卡捷琳堡市郊一村莊4日發生汽車爆炸事件，烏拉爾無人機廠總經理受重傷，其保鏢被炸身亡。（新華社）
-
----
-
-### 2026-08-06 00:11:05  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.29% Lower — The DAX Index dropped 76 points or 0.29 percent on Wednesday to close at 26126 points. Losses were led by Infineon (-5.49%), Deutsche Post (-4.05%) and Continental (-3.73%). Offsetting the fall, top gainers were Fresenius (5.16%), Beiersdorf (5.12%) and Gea Group (2.55%).
-
----
-
-### 2026-08-06 00:10:33  #國際
-
-【阿拉伯和伊斯蘭國家譴責以色列耶路撒冷政策】阿拉伯和伊斯蘭國家外長5日在約旦首都安曼舉行會議，譴責以色列一直以來試圖改變耶路撒冷法律地位、性質和人口組成的政策措施。 與會國家外長和代表會後發表宣告說，以方在耶路撒冷問題上一直以來的政策公然違反國際法，沒有法律效力。宣告呼籲國際社會和聯合國安理會立即行動，制止以色列在耶路撒冷採取的一切非法措施。（新華社）
-
----
-
-### 2026-08-06 00:10:14  #國際
-
-【五角大樓從公開網站撤下25年的武器測試報告】五角大樓已悄然從公開網站撤下數十年來發布的武器測試資料，稱對手可能利用人工智慧分析這些資料。批評者則表示，此舉引發了對透明度的擔憂。美國國防部在一份宣告中表示，五角大樓武器測試辦公室主任Amy Henninger於7月30日限制訪問過去25年來發布的、關於美國重大武器專案評估狀況的非機密年度報告。國防部稱，此舉是“旨在加強美國行動安全態勢的主動措施”。
-
----
-
-### 2026-08-06 00:10:05  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.03% Higher — The CAC 40 Index went up by 3 points or 0.03 percent on Wednesday to close at 8669 points. The rise was led by Edenred (2.41%), Publicis (2.35%) and Accor (1.70%). On the downside, the weakerst performers were Orange (-3.13%), STMicroelectronics (-2.55%) and Michelin (-2.08%).
-
----
-
-### 2026-08-06 00:09:31  #MKT News #Commodities #Energy #PSX.N #Impact bullish
-
-Phillips 66 (PSX.N): plans to keep refinery utilization in Q3 2026 in the mid-90% range of consolidated capacity.
-
----
-
-### 2026-08-06 00:09:30  #其他
-
-【土耳其擬為解散庫爾德工人黨正式立法土耳其擬為解散庫爾德工人黨正式立法】土耳其大國民議會議長努曼·庫爾圖爾穆什5日宣佈，一項旨在為徹底解散庫爾德工人黨及其武裝奠定法律基礎的法案草案已正式提交議會。 據土耳其《自由報》報道，該草案提出，在土耳其安全機構認定庫爾德工人黨及與其相關的一切組織已終止實際存在並已上繳所有武器後，可對正在進行的相關調查和起訴，以及已作出的定罪判決的執行予以延期、緩刑。（新華社）
-
----
-
-### 2026-08-06 00:09:12  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Pauses Rally — The DAX 40 gave up early gains to close about 0.3% down at 26,139 on Wednesday, as investors took profits after the index hit successive record highs over the past few sessions. Market sentiment remained cautiously optimistic as investors weighed the prospect of a US-Iran agreement to reopen the Strait of Hormuz. Meanwhile, attention was also on corporate earnings. Infineon Technologies led losses among stocks, falling more than 5%, after missing elevated margin expectations despite record revenue and a higher full-year outlook. Deutsche Post lost 2.7%, despite beating earnings estimates and expanding its share buyback program. On the opposite side, Fresenius SE & Co jumped 4.9% to lead the index after reporting better-than-expected Q2 results and raising its full-year earnings guidance. Beiersdorf gained 4.9% despite a 3.5% first-half sales decline, dragged by Nivea weakness, as investors welcomed an €100 million investment plan to revive the brand’s growth.
-
----
-
-### 2026-08-06 00:08:50  #其他
-
-菲利普斯66計劃在2026年第三季度以總產能的90%中段區間運營旗下煉油廠。
-
----
-
-### 2026-08-06 00:08:41  #其他
-
-英國海上貿易組織(UKMTO)稱所有船員安全，未報告造成環境影響.
-
----
-
-### 2026-08-06 00:08:29  #MKT News #Important #WTI #Impact bullish #Brent
-
-UK Maritime Trade Operations said it received a report of an incident about 95 nautical miles southeast of Aden, Yemen. The master of a tanker reported hearing a large explosion near the vessel. All crew have been confirmed safe; no casualties reported.
-
----
-
-### 2026-08-06 00:08:18  #其他
-
-英國海上貿易組織(UKMTO)稱，一艘油輪船長報告在船體附近聽到巨大爆炸聲。
-
----
-
-### 2026-08-06 00:07:42  #其他
-
-英國海事貿易運營機構表示，已收到一起發生在葉門亞丁東南95海里處事件的報告。
-
----
-
-### 2026-08-06 00:07:06  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index rose 16 points or 0.15 percent on Wednesday to close at 10896 points. Leading the gains are Endeavour (5.34%), NEXT (5.25%) and Fresnillo (4.11%). Top losers were Prudential (-6.58%), HSBC Holdings (-4.56%) and Vodafone (-2.48%).
-
----
-
-### 2026-08-06 00:06:22  #MKT News #RDDT.N
-
-Reddit (RDDT.N) plans to adjust its legacy site to curb persistent abusive scraping and spam, citing protection of the platform, its business and users.
-
----
-
-### 2026-08-06 00:05:48  #MKT News #Market Themes #AI Revolution #GOOG.O
-
-【Google AI lead Jeff Dean will leave to found scientific-discovery AI startup】Google (GOOG.O) senior AI leader Jeff Dean, an early hire who led the company’s AI strategy for about 15 years, will leave to launch a public‑benefit AI company called Discovery Loop and serve as its CEO. The venture aims to automate complex, multi-step scientific and engineering tasks to accelerate technological progress. Co‑founders include Google veterans Oriol Vinyals, Quoc Le and Sanjay Ghemawat; the four are among the world’s most-cited researchers and have driven advances in mathematics and protein-structure work. Their exits further intensify recent AI talent departures from Google.
-
----
-
-### 2026-08-06 00:05:02  #其他
-
-Reddit：為保護平臺、業務及使用者免受惡意抓取、濫發資訊行為的侵害，我們計劃逐步對舊版Reddit官網做出調整。
-
----
-
-### 2026-08-06 00:04:38  #公司
-
-谷歌股價跌幅擴大至4%。
-
----
-
-### 2026-08-06 00:04:26  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish #Nasdaq100
-
-Google (GOOG.O) shares extended losses to more than 3% after the company announced a leadership reshuffle at DeepMind.
-
----
-
-### 2026-08-06 00:04:23  #公司 #資料
-
-【谷歌DeepMind執行長德米斯·哈薩比斯即將卸任】德米斯·哈薩比斯將不再擔任谷歌DeepMind執行長，轉任該部門董事長。首席科學家傑夫·迪恩以及另一位谷歌AI高管將離職創辦新公司，谷歌將對這家新企業進行投資。哈薩比斯還將兼任母公司Alphabet首席科學家，同時繼續執掌旗下AI藥物研發子公司Isomorphic Labs。現任谷歌DeepMind技術長科雷·卡武庫奧格魯將出任該部門高階副總裁，直接向桑達爾·皮查伊彙報。迪恩與谷歌高階研究員桑傑·格瑪沃特將創立Discovery Loop，這是一家獨立公益企業，谷歌將作為投資方並提供雲服務支援。
-
----
-
-### 2026-08-06 00:03:45  #公司 #資料 #焦點
-
-谷歌股價在該集團披露DeepMind管理層人事變動後大幅下挫，截至最新報價，該股跌幅為3.8%。
-
----
-
-### 2026-08-06 00:03:08  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，1藥網跌7.51%，水滴公司跌7.41%，金生遊樂跌6.47%，阿特斯跌4.73%，嘉楠科技跌4.16%。
-
----
-
-### 2026-08-06 00:01:54  #公司
-
-谷歌AI領軍人物傑夫・迪恩以及三名資深AI員工離開谷歌，創辦初創企業。
-
----
-
-### 2026-08-06 00:01:33  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Edges Lower — The FTSE MIB edged 0.2% lower to 53,447 on Wednesday, as losses in auto and technology stocks outweighed gains in the luxury sector. Stellantis declined 1.8% after reporting earnings below analysts' expectations. STMicroelectronics fell 1.6% as chipmakers remained under pressure amid growing doubts over AI-related investment, while Prysmian lost 1.2%. Financials were mixed as investors assessed optimism surrounding a potential US-Iran agreement. UniCredit slipped 0.7%, while Mediobanca gained 1.5%. BMPS gained 1.6% after reports the Italian government would maintain a neutral stance on banking consolidation, fuelling expectations Rome could sell its MPS stake before Intesa Sanpaolo's (-0.3%) bid takes effect. Brunello Cucinelli led gains, rising 1.8%, as luxury stocks advanced after Chanel reported resilient revenue despite the broader industry slowdown. Campari rose 1.3% and Ferrari added 1.2%.
 
 ---
