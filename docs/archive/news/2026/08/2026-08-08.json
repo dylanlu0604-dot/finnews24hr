@@ -1,7 +1,28 @@
 {
   "date": "2026-08-08",
-  "count": 502,
+  "count": 504,
   "items": [
+    {
+      "id": "5031764",
+      "time": "2026-08-08 09:37:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達擬向Lancium投資至多30億美元，支援AI資料中心電力基礎設施】據報道，英偉達已同意向電力基礎設施開發商Lancium投資20億美元，並承諾在該公司獲得更多規劃電力資源後追加投資10億美元。據悉，此次交易對Lancium及其土地和電力連線資產的企業價值估值約為100億美元，其中包括投資金額及債務。Lancium是由黑石集團支援的電力基礎設施企業，負責開發位於美國得克薩斯州、服務於OpenAI和甲骨文AI園區的電力基礎設施專案。"
+    },
+    {
+      "id": "mkt:019fdf03-62c6-7aab-8fc2-26ad66a1a156",
+      "time": "2026-08-08 09:36:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy thanked the U.S. Senate after it passed a bill imposing sanctions on Russia."
+    },
     {
       "id": "5031763",
       "time": "2026-08-08 09:32:35",
