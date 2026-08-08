@@ -1,7 +1,31 @@
 {
   "date": "2026-08-08",
-  "count": 652,
+  "count": 655,
   "items": [
+    {
+      "id": "mkt:019fe09d-66f0-7aab-8fc3-557bf6fb0df0",
+      "time": "2026-08-08 17:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian food regulator has issued a notice to Diageo, the world's largest spirits company, warning that its claim a local whisky brand was \"matured in American oak barrels\" is misleading."
+    },
+    {
+      "id": "5031879",
+      "time": "2026-08-08 17:02:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度食品監管機構警告帝亞吉歐，其宣稱一款本土威士忌品牌“經美國橡木桶熟成”具有誤導性。"
+    },
+    {
+      "id": "5031878",
+      "time": "2026-08-08 17:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Apple智慧可配合阿里千問模型工作】8月8日訊息，蘋果官網顯示，Apple智慧可配合阿里巴巴千問模型工作。"
+    },
     {
       "id": "5031877",
       "time": "2026-08-08 16:57:43",
