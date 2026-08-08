@@ -1,7 +1,36 @@
 {
   "date": "2026-08-09",
-  "count": 81,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019fe2f6-e186-7aab-8fc6-588337192ed6",
+      "time": "2026-08-09 04:00:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Israeli energy minister says he opposes the Gaza agreement now being drafted and assesses Hamas is plotting a deception."
+    },
+    {
+      "id": "mkt:019fe2f6-b2e2-7aab-8fc6-51dc102e73fc",
+      "time": "2026-08-09 04:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's energy minister said Israel does not trust any agreement proposed by Hamas."
+    },
+    {
+      "id": "5032104",
+      "time": "2026-08-09 04:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱已迫使53艘商船改變航線】當地時間8月8日，美國中央司令部表示，美國海軍人員在“林肯”號航母上對F/A-18“超級大黃蜂”戰機進行維護，以確保航母打擊群的裝備保持戰備狀態，繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已使53艘商船改道，使2艘船隻喪失航行能力，並登臨檢查了2艘船隻。此外，美軍還允許30多艘運載人道主義援助物資的船隻透過封鎖區。"
+    },
     {
       "id": "mkt:019fe2ed-75a3-7aab-8fc6-4933e2aa9878",
       "time": "2026-08-09 03:50:40",

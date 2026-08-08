@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-09 03:57:45",
-  "count": 15859,
+  "updated": "2026-08-09 04:01:39",
+  "count": 15861,
   "items": [
+    {
+      "id": "mkt:019fe2f6-e186-7aab-8fc6-588337192ed6",
+      "time": "2026-08-09 04:00:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Israeli energy minister says he opposes the Gaza agreement now being drafted and assesses Hamas is plotting a deception."
+    },
+    {
+      "id": "mkt:019fe2f6-b2e2-7aab-8fc6-51dc102e73fc",
+      "time": "2026-08-09 04:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's energy minister said Israel does not trust any agreement proposed by Hamas."
+    },
+    {
+      "id": "5032104",
+      "time": "2026-08-09 04:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱已迫使53艘商船改變航線】當地時間8月8日，美國中央司令部表示，美國海軍人員在“林肯”號航母上對F/A-18“超級大黃蜂”戰機進行維護，以確保航母打擊群的裝備保持戰備狀態，繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已使53艘商船改道，使2艘船隻喪失航行能力，並登臨檢查了2艘船隻。此外，美軍還允許30多艘運載人道主義援助物資的船隻透過封鎖區。"
+    },
     {
       "id": "mkt:019fe2ed-75a3-7aab-8fc6-4933e2aa9878",
       "time": "2026-08-09 03:50:40",
@@ -144504,15 +144533,6 @@
         "XAUUSD"
       ],
       "text": "【Iran foreign ministry says it will continue path of resistance and steadfastness】Iran's foreign ministry said on Aug. 1 it is determined to continue a path of resistance and steadfastness until the \"enemy's\" malice is eradicated. It accused the United States of breaching provisions of the June 18 US‑Iran memorandum by enforcing a maritime blockade of Iranian ports and merchant shipping, launching attacks across Iran, and stepping up economic pressure and illegal threats. The statement said defensive strikes by Iran's armed forces remain ongoing at full strength. It added that the US and some regional allies used the July 8 three‑vessel \"accidents\" as a pretext to attack Iran and to violate Iranian sovereignty in the Strait of Hormuz."
-    },
-    {
-      "id": "5020570",
-      "time": "2026-08-02 04:00:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：決心繼續走抵抗與堅守之路】伊朗外交部當地時間8月1日發表宣告稱，伊朗決心繼續走抵抗與堅守之路，直至徹底消除敵人的惡行。宣告表示，當前，美國繼續違反6月18日美伊諒解備忘錄的相關條款，持續對伊朗港口和商船實施海上封鎖，並不斷對伊朗各地發動野蠻襲擊，加大經濟施壓和非法威脅，持續對伊朗實施侵略。作為回應，伊朗武裝部隊的防禦性打擊仍在全力持續進行。宣告還稱，美國及其部分地區盟友以7月8日三艘船隻的所謂“事故”為藉口，對伊朗發動攻擊並持續至今，是其編造謊言、為違背雙方協議和侵犯伊朗在霍爾木茲海峽的主權尋找藉口的集中體現。"
     }
   ]
 }
