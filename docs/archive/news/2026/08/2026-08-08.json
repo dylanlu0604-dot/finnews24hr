@@ -1,7 +1,23 @@
 {
   "date": "2026-08-08",
-  "count": 694,
+  "count": 696,
   "items": [
+    {
+      "id": "mkt:019fe0e7-e074-7aab-8fc3-99bdce434abb",
+      "time": "2026-08-08 18:25:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE state news agency reported Abu Dhabi National Oil Company (ADNOC) said a vessel attack caused no injuries."
+    },
+    {
+      "id": "5031911",
+      "time": "2026-08-08 18:25:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司表示，這起事故未造成人員傷亡。"
+    },
     {
       "id": "mkt:019fe0e6-fe61-7aab-8fc3-90200f6a8a02",
       "time": "2026-08-08 18:24:22",
