@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 19:20:25",
-  "count": 15825,
+  "updated": "2026-08-08 19:24:23",
+  "count": 15822,
   "items": [
+    {
+      "id": "5031937",
+      "time": "2026-08-08 19:23:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國校園槍擊案死亡人數升至九人，警方稱一名12歲女孩於週六不治身亡。"
+    },
+    {
+      "id": "5031936",
+      "time": "2026-08-08 19:22:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【查德霍亂疫情持續擴散 累計確診239例 死亡13例】當地時間8月8日，查德衛生部最新資料顯示，該國自6月中旬以來累計報告239例霍亂確診病例，其中13人死亡，病死率達5.4%。本次疫情最先爆發於哈傑爾·拉米斯省卡拉爾鎮，7月中旬擴散至首都恩賈梅納，官方7月24日正式宣佈霍亂疫情暴發。目前卡拉爾鎮仍是疫情核心疫區。（央視新聞）"
+    },
     {
       "id": "5031935",
       "time": "2026-08-08 19:18:44",
@@ -144163,51 +144179,6 @@
         "XAUUSD"
       ],
       "text": "【U.S. embassy in Jordan warns Middle East tensions may escalate】On Aug. 1 the U.S. embassy in Jordan issued a security alert saying regional security remains complex and could further escalate. It advised U.S. citizens in the Middle East to remain vigilant and prepare for possible flight cancellations, temporary airspace closures and travel disruptions; those outside the region should reconsider travel or transit through the area. The embassy also urged U.S. citizens to avoid U.S. military bases in Jordan and areas with heavy security deployments."
-    },
-    {
-      "id": "mkt:019fbd10-f138-7aab-8f42-0c9a4760d9d4",
-      "time": "2026-08-01 19:23:51",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【US embassy in Israel issues security alert, urges US citizens in Middle East to consider evacuation】On Aug 1 local time the US embassy in Israel issued a security alert saying sustained tension in the Middle East has left a complex security environment with risk of unpredictable escalation. The embassy said US citizens in the region should remain cautious and be prepared for possible flight cancellations, airspace closures and travel disruptions; some carriers have delayed resuming previously suspended services and have canceled routes. It urged US citizens to consider evacuating or be ready to depart at short notice."
-    },
-    {
-      "id": "5020411",
-      "time": "2026-08-01 19:23:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東釋出高溫橙色預警 最高氣溫超40℃】山東省氣象臺8月1日16時升級高溫黃色預警為高溫橙色預警：1日，山東省內陸大部地區已出現35℃以上的高溫天氣，濰坊青州譚坊和煙臺芝罘港務局最高氣溫40.8℃。預計2日至5日，德州、濱州、東營、濟南北部、淄博北部、濰坊中北部、青島北部和煙臺北部最高氣溫37～39℃，區域性地區可達40℃以上，其他地區34～36℃。此次高溫過程持續時間長，相對溼度50%～80%，溫度高、溼度大，體感悶熱，高溫氣象災害風險較高，對農業生產、人體健康、戶外作業和城鄉用電等有不利影響，請做好防範。"
-    },
-    {
-      "id": "5020410",
-      "time": "2026-08-01 19:23:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國駐約旦使館：中東局勢可能進一步升級】美國駐約旦大使館1日釋出安全警告說，中東地區安全形勢依舊複雜，地區局勢可能進一步升級。美駐約旦使館建議目前身處中東地區的美國公民保持高度警惕，併為可能的航班取消、空域階段性關閉及旅行中斷做好準備。身處中東以外地區的美國公民應重新考慮前往或途經該地區的行程。該使館還建議美國公民避免前往約旦境內美軍基地，以及“有大量警力部署的危險區域”。（新華社）"
-    },
-    {
-      "id": "5020409",
-      "time": "2026-08-01 19:22:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美駐以大使館釋出安全警告 敦促在中東美國公民考慮撤離】當地時間8月1日，美國駐以色列大使館釋出安全警告說，鑑於當前中東地區局勢持續緊張，該地區安全環境依舊複雜，存在不可預測的升級風險。警告說，目前在中東地區的美國公民應當保持謹慎，提高警惕。同時，美國公民應為可能出現的航班取消、領空關閉以及潛在的旅行受阻做好準備。目前該地區部分航空公司已推遲恢復先前的航班計劃，另有部分航線已被取消。美國大使館強調，在中東地區的美國公民應當考慮撤離，或做好局勢升級後隨時撤離的準備。"
-    },
-    {
-      "id": "5020408",
-      "time": "2026-08-01 19:21:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：大多數非法抵達休達的人已經返回摩洛哥。目前還沒有人抵達西班牙大陸或歐盟其他國家。"
     }
   ]
 }
