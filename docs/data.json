@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 14:29:27",
-  "count": 15881,
+  "updated": "2026-08-08 14:33:30",
+  "count": 15880,
   "items": [
+    {
+      "id": "mkt:019fe010-b3b2-7aab-8fc2-e1ef6644feb3",
+      "time": "2026-08-08 14:30:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy visits Serbia as Russian influence wanes】Ukrainian President Zelenskiy made a landmark first visit to Serbia on Saturday. President Vucic, long an ally of Putin, has seen ties with Moscow sour since Russia's 2022 invasion; Belgrade has not joined Western sanctions but has condemned the war and curtailed Russian economic influence. Moscow has accused Serbia of betraying Russia and of aiding Ukrainian forces."
+    },
     {
       "id": "5031833",
       "time": "2026-08-08 14:16:54",
@@ -144699,25 +144707,6 @@
         "公司"
       ],
       "text": "【森峰鐳射北交所IPO將於8月7日上會】據北交所網站披露，北交所上市稽核委員會定於8月7日上午9時召開2026年第74次上市稽核委員會審議會議，屆時將審議濟南森峰鐳射科技股份有限公司的首發事項。"
-    },
-    {
-      "id": "5020266",
-      "time": "2026-08-01 14:31:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯襲擊基輔生產美國無人機工廠】據英國《衛報》網站7月31日報道，一枚俄羅斯彈道導彈當天摧毀了位於烏克蘭首都基輔的一家無人機工廠。該工廠的所有者是一家在美國特拉華州註冊的公司。 報道稱，這似乎是俄羅斯在衝突中首次以美國國防企業為目標。 該公司名為終端自主無人機公司。據一位熟悉該公司的人士透露，終端自主公司生產高精度的用於“縱深打擊”的無人機，其制導系統能夠抵禦俄羅斯的訊號干擾。 特拉華州政府記錄顯示，該公司於2023年在該州註冊成立。該公司網站稱：“我們部署人工智慧制導巡飛彈和精確制導彈藥，這些彈藥已在前線投入實戰，用於打擊敵方目標。” 終端自主無人機公司和烏克蘭國防部沒有回覆記者的置評請求。 （參考訊息）"
-    },
-    {
-      "id": "5020265",
-      "time": "2026-08-01 14:30:42",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【科威特稱正在應對無人機襲擊】當地時間8月1日上午，科威特武裝部隊釋出訊息稱，科方防空系統“正在”應對無人機襲擊。（央視新聞）"
     }
   ]
 }
