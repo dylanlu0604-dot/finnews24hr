@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 08:10:19",
-  "count": 15972,
+  "updated": "2026-08-08 08:14:08",
+  "count": 15971,
   "items": [
+    {
+      "id": "5031732",
+      "time": "2026-08-08 08:10:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "當地時間8日，烏克蘭首都基輔響起多次爆炸聲。（央視新聞）"
+    },
     {
       "id": "5031731",
       "time": "2026-08-08 08:09:17",
@@ -25,6 +33,15 @@
         "國際"
       ],
       "text": "紐西蘭宣佈對俄羅斯實施進一步制裁。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608083835785849",
+      "time": "2026-08-08 08:05:24",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【特朗普再度要求庫克辭職 挑戰美聯儲獨立性】白宮本週致信庫克稱，特朗普正在 “考慮” 解除她的職務，要求她三週內回應未經證實的抵押貸款欺詐指控。這封由白宮副幕僚長丹·斯卡維諾簽署的信件指控，庫克犯下最高可判處30年監禁的罪行，其行為構成嚴重失職，已經損害其作為美聯儲理事的可信度。庫克的律師隨後發表宣告稱，不存在合法理由解除庫克的職務。“和此前一樣，我們將抗辯這一新的藉口，維護她的職位，捍衛美聯儲的歷史性制度角色。”"
     },
     {
       "id": "5031728",
@@ -145523,34 +145540,6 @@
         "國際"
       ],
       "text": "日本廣播協會引述日本警方訊息稱，當地時間8月1日早晨，有報警稱千葉縣市川市一棟公寓樓內“傳出爆炸聲”。目前疑似多人受傷，具體情況仍在調查中。（新華社）"
-    },
-    {
-      "id": "te:economy:571872",
-      "time": "2026-08-01 08:12:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Exports YoY",
-        "Importance 2"
-      ],
-      "text": "South Korea Export Growth Above Forecasts — Exports soared 62.8% year-on-year to USD 98.89 billion, surpassing market estimates of 59.0%, though easing from a 70.7% surge in June. Shipments rose for the 14th consecutive month, driven by strong demand for memory chips."
-    },
-    {
-      "id": "mkt:019fbaa9-c895-7aab-8f3e-9170dea08f4e",
-      "time": "2026-08-01 08:11:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【FIFA abandons plan to sell stakes in World Cup and other events】Sky News reported Aug. 1 that FIFA president Gianni Infantino has abandoned plans to sell partial ownership stakes in the World Cup and other FIFA competitions. Infantino said the proposal provoked serious divisions and will not be taken forward. He plans to reconvene stakeholders in the coming weeks and months to seek alternative measures to support global football development, with emphasis on countries most in need."
-    },
-    {
-      "id": "5020091",
-      "time": "2026-08-01 08:10:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "印度電子商務公司Zepto執行長告訴員工，公司將推遲IPO 2-3個季度。"
     }
   ]
 }
