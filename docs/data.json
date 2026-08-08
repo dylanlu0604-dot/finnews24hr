@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-08 13:57:38",
-  "count": 15899,
+  "updated": "2026-08-08 14:01:33",
+  "count": 15898,
   "items": [
+    {
+      "id": "mkt:019fdff3-9854-7aab-8fc2-db7df7a8c3e8",
+      "time": "2026-08-08 13:58:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck military-industrial facilities and fuel depots in Kyiv overnight, RIA reported."
+    },
     {
       "id": "mkt:019fdfea-3e0f-7aab-8fc2-d72e37add833",
       "time": "2026-08-08 13:48:18",
@@ -144861,22 +144875,6 @@
         "國際"
       ],
       "text": "【部分美國企業換上中國大模型以降低成本】從AlphaGo稱霸圍棋界到ChatGPT面世，美國在演算法大模型領域積累了顯著的先發優勢。但近年中國大模型的崛起對AI格局有所衝擊。美國《華爾街日報》等多家媒體提到，中國大模型獨角獸月之暗面新一代開源大模型Kimi K3撼動資本市場，並稱其與DeepSeek在2025年釋出時引發的市場恐慌如出一轍，連馬斯克都贊其“令人印象深刻”。一些大型美國公司也開始轉向中國大模型。據美聯社訊息，加密貨幣交易所Coinbase表示，正在轉向使用中國人工智慧模型以降低成本。愛彼迎採用了阿里巴巴的Qwen模型，並稱贊其“快速且便宜”。（中新經緯）"
-    },
-    {
-      "id": "5020246",
-      "time": "2026-08-01 14:00:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃安：埃安i60 7月銷量11186臺。"
-    },
-    {
-      "id": "5020245",
-      "time": "2026-08-01 13:57:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海市氣象臺2026年08月01日13時50分發布中心城區冰雹黃色預警訊號：預計未來2小時內，靜安區、普陀區、虹口區、楊浦區將出現冰雹天氣，請做好易損室外物品和裝置的防護措施。"
     }
   ]
 }
