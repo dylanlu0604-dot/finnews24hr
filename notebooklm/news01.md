@@ -1,7 +1,152 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 00:45:29_
-_本檔包含 3141 則快訊，約 596571 字_
+_更新時間：2026-08-09 01:40:38_
+_本檔包含 3145 則快訊，約 597076 字_
+
+---
+
+### 2026-08-09 01:39:22  #國際
+
+【武契奇會晤澤連斯基 雙方同意深化經貿合作】當地時間8日，烏克蘭總統澤連斯基結束對塞爾維亞為期兩天的正式訪問。這是烏克蘭國家元首時隔8年再次訪問塞爾維亞。期間，兩國元首舉行會晤，雙方同意深化經貿合作，並擴大基礎設施和人道主義援助領域合作。（新華社）
+
+---
+
+### 2026-08-09 01:35:31  #國際
+
+土耳其外交部長：紅海航運安全關乎我國利益，因此土耳其必須參與沙烏地阿拉伯牽頭的國際聯盟。
+
+---
+
+### 2026-08-09 01:32:24  #MKT News
+
+Turkey's foreign minister said Red Sea shipping security affects Turkey's interests and that Turkey must join the Saudi-led international coalition.
+
+---
+
+### 2026-08-09 01:24:18  #MKT News
+
+Turkey's foreign minister said Iran is not the target of the defensive pact; provided it does not attack member states, no one is a target.
+
+---
+
+### 2026-08-09 01:22:46  #國際
+
+土耳其外長：伊朗並非該防務協定的針對物件，只要不襲擊成員國，任何國家都不會成為我們的目標。
+
+---
+
+### 2026-08-09 01:18:50  #國際
+
+土耳其外交部長：（土耳其、巴基斯坦、沙烏地阿拉伯的防務協定）公約將設立一個類似北約的部長級委員會，同時還設有總秘書處。
+
+---
+
+### 2026-08-09 01:18:28  #MKT News
+
+Turkey's foreign minister said the defense agreement will establish a ministerial-level committee and a secretary-general, mirroring NATO's structure.
+
+---
+
+### 2026-08-09 01:16:58  #國際
+
+市場資訊：伊朗安全負責人稱，德黑蘭正敲定霍爾木茲海峽相關協議，要求美方糾正自身行為。
+
+---
+
+### 2026-08-09 01:15:56  #MKT News #Brent #Impact bearish #XAUUSD #DXY
+
+Turkey's foreign minister said the defense pact among Turkey, Pakistan and Saudi Arabia is technically equivalent to NATO's Article 5.
+
+---
+
+### 2026-08-09 01:15:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israel's Channel 12 reports Israeli officials say the United States is constraining Israel's options and pushing it into a dilemma over Gaza.
+
+---
+
+### 2026-08-09 01:15:20  #MKT News
+
+【CENTCOM commander arrives in Israel to press for next phase of Gaza peace plan】CENTCOM commander Brad Cooper has arrived in Israel and will meet IDF chief of staff Zamir and other senior defense officials for a situation assessment, Israeli public broadcaster reports. Cooper held meetings in Bahrain and the UAE before the visit. The trip coincides with negotiations over a potential ceasefire as the US continues to press Israel to advance transition to the next phase of the Gaza peace plan.
+
+---
+
+### 2026-08-09 01:14:41  #國際
+
+土耳其外交部長：土耳其、巴基斯坦、沙烏地阿拉伯的防務協定在性質上等同於北約第五條條款。
+注：北約第五條是北約集體防禦條款，規定對一個北約成員國的武裝攻擊即視為對所有北約成員國的武裝攻擊，所有締約國應採取包括武力在內的行動協助被攻擊國。
+
+---
+
+### 2026-08-09 01:08:51  #國際
+
+美軍中央司令部司令訪以期間將商討加沙戰事轉入第二階段相關事宜。
+
+---
+
+### 2026-08-09 01:08:37  #MKT News
+
+Market sources: CENTCOM commander will discuss the second-phase transition in Gaza during a visit to Israel.
+
+---
+
+### 2026-08-09 01:08:28  #MKT News
+
+CENTCOM commander has arrived in Israel and will meet with senior Israeli military officials.
+
+---
+
+### 2026-08-09 01:07:56  #國際
+
+市場資訊：美軍中央司令部司令抵達以色列，與以方高階軍事官員舉行會談。
+
+---
+
+### 2026-08-09 01:07:14  #MKT News
+
+According to Israel's Channel 12, the Israeli military is evaluating withdrawing from certain positions in the Gaza Strip and handing them over to international stabilization forces.
+
+---
+
+### 2026-08-09 01:06:53  #國際
+
+市場資訊：以軍考慮撤出加沙陣地，交由國際部隊接管。
+
+---
+
+### 2026-08-09 01:01:12  #其他
+
+市場資訊：法律人工智慧初創企業哈維（Harvey）正洽談融資，計劃至少募資5億美元，融資後估值達155億美元，較五個月前的上一輪估值溢價40%。
+
+---
+
+### 2026-08-09 00:59:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Vance: U.S. 'in a contest' with Iran】U.S. Vice President JD Vance told Fox News on Saturday the United States is 'in a contest' with Iran and is employing the full range of tools—diplomatic, economic and military—to secure the best outcome for Americans. He said talks with Iran have made some progress in recent days. The U.S. expects Gulf oil and gas output to return to pre-conflict levels, and Iran has indicated to U.S. officials it intends to do so.
+
+---
+
+### 2026-08-09 00:54:54  #國際
+
+特朗普：洩露國家安全機密者將面臨嚴重後果以及牢獄之災。
+
+---
+
+### 2026-08-09 00:50:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Expert: Strait of Hormuz cannot return to pre-conflict state】Ali Akbar Dareini, researcher at Iran’s Center for Strategic Studies, said Iran and Oman are close to an agreement on future management of the Strait of Hormuz, but US pressure on Oman to align with Washington remains the main obstacle. Dareini said Iran views future control of the strait as vital to its national security. He added that in recent months the US struck Iran, which Tehran says were launched from bases in the region, and described the Iran–Oman talks as a diplomatic opening for Washington to acknowledge Iran and Oman as the決ers of the strait’s future. He said the Strait of Hormuz cannot return to its pre-conflict state and that regional geopolitics have changed.
+
+---
+
+### 2026-08-09 00:47:18  #MKT News #Market Regions #Europe & UK
+
+Bulgaria summoned the Ukrainian ambassador after a drone exploded on Bulgarian territory.
+
+---
+
+### 2026-08-09 00:46:58  #MKT News
+
+【Pentagon official says U.S. ammunition stocks sufficient for operations against Iran】Pentagon Deputy Director for the Defense Innovation Unit Jared Conley said the U.S. military has sufficient ammunition to meet operational needs in a conflict with Iran, saying “we have enough ammunition to complete current missions” and that “the Defense Department has all necessary resources to wage war.” He addressed earlier reports that key air-defence munitions, including ballistic missile interceptors, had been drawn down.
 
 ---
 
@@ -18800,125 +18945,5 @@ Australian Dollar Set for Muted Week — The Australian dollar fell to around $0
 ### 2026-08-07 09:58:10  #MKT News
 
 【Zijin says its Congo copper products not covered by reported DRC concentrate export ban】Aug 7 — Market reports said the Democratic Republic of Congo issued an administrative order banning exports of copper and cobalt concentrates. Zijin Mining said its Kolwezi unit produces crude and electrolytic (cathode) copper and Kamoa-Kakula produces anode plates and crude copper, which are not covered by the reported ban. Separately, Hanrui Cobalt said the DRC had previously tightened concentrate exports and that the measures do not affect the company; its Congo copper is electrolytic copper processed and sold locally, and any ban that lifts copper prices would likely benefit its product realizations. Hanrui added its cobalt is initially processed into cobalt hydroxide before shipment to China.
-
----
-
-### 2026-08-07 09:57:29  #公司 #市場
-
-【稀土永磁板塊直線拉昇，中國稀土漲停】稀土永磁板塊直線拉昇，中國稀土漲停，中科磁業、方邦股份、九菱科技漲超10%，有研新材、中稀有色、盛和資源、北方稀土、奔朗新材跟漲。
-
----
-
-### 2026-08-07 09:56:42  #公司 #市場
-
-【紫金礦業最新回應：旗下相關銅礦不屬於剛果（金）禁止出口的產品】有市場訊息稱，剛果（金）已釋出最新行政指令，決定徹底禁止銅精礦與鈷精礦的出口。對此，8月7日，紫金礦業方面回應記者，公司旗下科盧韋齊銅礦的產品為粗銅及電積銅，卡莫阿-卡庫拉銅礦的產品為陽極板及粗銅，不屬於剛果（金）禁止出口的產品。在此之前，寒銳鈷業相關負責人稱，剛果（金）此前就已經收緊精礦出口，相關事項對公司不造成影響。“公司在剛果（金）的銅產品是電積銅，需求較為旺盛，在當地就實現了加工與銷售。相關禁令如刺激銅價上漲，將對公司產品售價形成一定利好。鈷產品則是初加工為氫氧化鈷等鈷中間產品後運回國內。”上述負責人表示。洛陽鉬業相關人士則在社交平臺公開表示，公司在剛果（金）TFM和KFM兩座礦山的產品為陰極銅和氫氧化鈷，沒有精礦。此外，洛陽鉬業網站也顯示，公司主要面向國際市場銷售的鈷產品是氫氧化鈷。(中證金牛座)
-
----
-
-### 2026-08-07 09:56:24  #國際
-
-颱風“海豚”逼近日本，日本已下令疏散民眾，並取消500架航班。
-
----
-
-### 2026-08-07 09:56:00  #MKT News
-
-【Largest central China robot delivery staged in Optics Valley (Wuhan)】Nearly 100 industrial inspection robots were delivered on Aug. 6 at the Hubei Humanoid Robot Innovation Center in Optics Valley (Wuhan). Wuhan-based Chengxin Zhilian (Wuhan) Technology Co. said the units will be deployed for security patrols in Wuhan, Shanghai and Wuxi and represent the largest concentrated delivery in central China’s robotics sector; the first onsite batch comprised 30 Xun1-series quadruped robots. The company said the robots autonomously navigate to cloud-assigned locations with millimeter-level positioning accuracy.
-
----
-
-### 2026-08-07 09:55:22  #其他
-
-【股票ETF連續3日流出774億元 科技板塊流出居前】隨著行情反彈，股票ETF持續淨流出，Wind資料顯示，週二至週四，股票ETF已連續3個交易日淨流出，且日均淨流出額均超過200億元，合計淨流出774.25億元。其中，寬基ETF淨流出441.76億元，行業主題ETF淨流出247.55億元。反彈較為強勁的科技板塊，資金流出居前，科創半導體ETF華夏淨流出67.34億元，居市場之首；滬深300ETF華泰柏瑞、科創50ETF華夏也分別淨流出63.27億元、62.04億元；創業板ETF易方達擇時淨流出55.37億元；另外，中證500ETF南方、中證1000ETF南方、中證1000ETF華夏也淨流出超過30億元。
-
----
-
-### 2026-08-07 09:54:28  #公司
-
-QVC集團退出破產保護程式，債務削減超過50億美元。
-
----
-
-### 2026-08-07 09:53:51  #公司
-
-QVC集團：普通股獲批在納斯達克掛牌交易，股票程式碼為“QVCG”。
-
----
-
-### 2026-08-07 09:53:30  #公司
-
-【華中地區最大規模機器人在光谷集中交付】據中國光谷訊息，8月6日下午，近百臺工業巡檢機器人在湖北人形機器人創新中心交付，它們將在武漢、上海、無錫等地，從事治安巡檢工作。這批交付的機器人由光谷企業——誠芯智聯（武漢）科技技術有限公司自主研發生產。公司聯合創始人夏可說：“這是目前華中地區機器人產業領域最大規模的一次集中交付，現場首批交付了30臺巡1系列四足機器人。它們最大的特點是能夠在接到雲端任務後自主導航前往指定地點，定位精度達毫米級。”
-
----
-
-### 2026-08-07 09:52:16  #公司
-
-【空間智慧技術公司Ommo完成數千萬美元A輪融資】據點石資本訊息，近日，空間智慧技術公司Ommo Technologies（簡稱“Ommo”）宣佈完成數千萬美元A輪融資。本輪融資由香港鼎珮集團（VMS Group）與知名基金聯合領投，康君資本跟投，點石資本擔任長期獨家財務顧問。本輪募集資金將主要用於核心產品空間定位系統的持續技術迭代與量產體系建設，並持續推進公司產品在具身智慧、先進製造以及醫療手術場景的合作落地。
-
----
-
-### 2026-08-07 09:50:20  #公司 #國際
-
-【美航空管理局要求檢查部分波音737 Max飛機是否存在部件裂紋】美國航空監管機構已要求471家航空公司的運營商提供相關資訊，對波音公司 737 Max 飛機進行部件裂紋檢查，以確保飛機結構完整性不受損害。波音表示，受影響區域涉及部分737飛機前門框架的結構加固部件。根據適航指令，需要對機身面板進行檢查。美國聯邦航空管理局表示，週四釋出的公告將於 9 月 10 日起生效。這些檢查適用於新一代 Max 噴氣式飛機的現役型號，包括 8、9 和 8200 型號。“美國聯邦航空管理局釋出此適航指令是為了解決這些產品存在的不安全狀況，”該機構表示，並補充說，裂縫可能會導致飛機部分結構完整性受到“不利”損害。
-
----
-
-### 2026-08-07 09:49:02  #MKT News #Important #Star Stocks #Tencent #00700.HK #Impact bullish #09999.HK #00100.HK
-
-Hong Kong-listed OpenClaw concept stocks mostly rose: MINIMAX-W (00100.HK) gained more than 10%, Zhipu (02513.HK) rose over 6%; NetEase-S (09999.HK) and Tencent Holdings (00700.HK) also advanced.
-
----
-
-### 2026-08-07 09:47:09  #市場
-
-【港股醫藥股走強 康龍化成漲近6%】截至發稿，康龍化成(03759.HK)漲5.63%，藥明康德(02359.HK)漲3.34%，藥明生物(02269.HK)漲3.04%。
-
----
-
-### 2026-08-07 09:46:56  #其他
-
-三大指數集體翻綠，微盤股指數跌超2%，數字貨幣、軟體開發、遊戲、影視等方向跌幅居前，滬深京三市下跌個股超4700只。
-
----
-
-### 2026-08-07 09:46:20  #MKT News #01888.HK #Impact bullish #02476.HK #09630.HK
-
-Most Hong Kong-listed PCB-related stocks advanced: 01888.HK, 02476.HK and 09630.HK rose over 4%; 01989.HK climbed more than 2%; 01377.HK gained over 1%.
-
----
-
-### 2026-08-07 09:45:59  #國際
-
-【豐田在美召回約50.8萬輛凱美瑞，因儀表盤故障可能影響安全功能】當地時間8月6日，豐田汽車宣佈在美國召回約50.8萬輛2025至2026年款凱美瑞（Camry）車型，原因是車輛7英寸組合儀表可能在啟動時出現黑屏，導致轉向燈、危險警示燈以及部分提示音功能失效。
-
----
-
-### 2026-08-07 09:45:50  #市場
-
-【醫藥商業板塊短線拉昇，開開實業漲停】醫藥商業板塊短線拉昇，開開實業漲停，瑞康醫藥、人民同泰、合富中國、華人健康、塞力醫療等紛紛走高。
-
----
-
-### 2026-08-07 09:45:45  #國際
-
-【馬斯克紀錄片10月上映 本尊吐槽：抹黑之作！】一部關於埃隆 · 馬斯克的新紀錄片定於 10 月 16 日在美國影院上映。 奧斯卡獲獎導演亞歷克斯 · 吉布尼的近 4 小時電影《MUSK》將於 9 月在威尼斯電影節全球首映，隨後在 2026 年多倫多國際電影節放映，並將在 HBO 首播。 對此，馬斯克本人在 X 平臺批評這部電影是“抹黑之作”，並吐槽：“吉布尼只會幹這個。另外，4 小時！！是想把人活活悶死嗎？”
-
----
-
-### 2026-08-07 09:45:34  #市場 #焦點
-
-北證50日內跌幅達1.01%，成分股中，安達科技跌5.16%，華密新材跌4.38%，艾融軟體跌4.25%，並行科技跌4.00%。
-
----
-
-### 2026-08-07 09:45:24  #其他
-
-【資訊保安概念集體調整 綠盟科技、任子行均跌超10%】資訊保安概念集體調整，綠盟科技、任子行均跌超10%，飛天誠信、天融信、吉大正元、廣脈科技、亞信安全、安恆資訊跌幅居前。
-
----
-
-### 2026-08-07 09:45:02  #MKT News #Important #09688.HK #Impact bullish #02359.HK #02269.HK
-
-Hong Kong-listed innovative drug stocks rallied after choppy trading: Zai Lab (09688.HK) rose over 13%, WuXi AppTec (02359.HK) and WuXi Biologics (02269.HK) gained over 3%, and Rongchang Biologics (09995.HK) and WuXi Helian (02268.HK) climbed more than 2%.
 
 ---

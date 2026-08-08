@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 00:45:29_
-_本檔包含 3165 則快訊，約 596746 字_
+_更新時間：2026-08-09 01:40:38_
+_本檔包含 3162 則快訊，約 596364 字_
+
+---
+
+### 2026-08-07 09:57:29  #公司 #市場
+
+【稀土永磁板塊直線拉昇，中國稀土漲停】稀土永磁板塊直線拉昇，中國稀土漲停，中科磁業、方邦股份、九菱科技漲超10%，有研新材、中稀有色、盛和資源、北方稀土、奔朗新材跟漲。
+
+---
+
+### 2026-08-07 09:56:42  #公司 #市場
+
+【紫金礦業最新回應：旗下相關銅礦不屬於剛果（金）禁止出口的產品】有市場訊息稱，剛果（金）已釋出最新行政指令，決定徹底禁止銅精礦與鈷精礦的出口。對此，8月7日，紫金礦業方面回應記者，公司旗下科盧韋齊銅礦的產品為粗銅及電積銅，卡莫阿-卡庫拉銅礦的產品為陽極板及粗銅，不屬於剛果（金）禁止出口的產品。在此之前，寒銳鈷業相關負責人稱，剛果（金）此前就已經收緊精礦出口，相關事項對公司不造成影響。“公司在剛果（金）的銅產品是電積銅，需求較為旺盛，在當地就實現了加工與銷售。相關禁令如刺激銅價上漲，將對公司產品售價形成一定利好。鈷產品則是初加工為氫氧化鈷等鈷中間產品後運回國內。”上述負責人表示。洛陽鉬業相關人士則在社交平臺公開表示，公司在剛果（金）TFM和KFM兩座礦山的產品為陰極銅和氫氧化鈷，沒有精礦。此外，洛陽鉬業網站也顯示，公司主要面向國際市場銷售的鈷產品是氫氧化鈷。(中證金牛座)
+
+---
+
+### 2026-08-07 09:56:24  #國際
+
+颱風“海豚”逼近日本，日本已下令疏散民眾，並取消500架航班。
+
+---
+
+### 2026-08-07 09:56:00  #MKT News
+
+【Largest central China robot delivery staged in Optics Valley (Wuhan)】Nearly 100 industrial inspection robots were delivered on Aug. 6 at the Hubei Humanoid Robot Innovation Center in Optics Valley (Wuhan). Wuhan-based Chengxin Zhilian (Wuhan) Technology Co. said the units will be deployed for security patrols in Wuhan, Shanghai and Wuxi and represent the largest concentrated delivery in central China’s robotics sector; the first onsite batch comprised 30 Xun1-series quadruped robots. The company said the robots autonomously navigate to cloud-assigned locations with millimeter-level positioning accuracy.
+
+---
+
+### 2026-08-07 09:55:22  #其他
+
+【股票ETF連續3日流出774億元 科技板塊流出居前】隨著行情反彈，股票ETF持續淨流出，Wind資料顯示，週二至週四，股票ETF已連續3個交易日淨流出，且日均淨流出額均超過200億元，合計淨流出774.25億元。其中，寬基ETF淨流出441.76億元，行業主題ETF淨流出247.55億元。反彈較為強勁的科技板塊，資金流出居前，科創半導體ETF華夏淨流出67.34億元，居市場之首；滬深300ETF華泰柏瑞、科創50ETF華夏也分別淨流出63.27億元、62.04億元；創業板ETF易方達擇時淨流出55.37億元；另外，中證500ETF南方、中證1000ETF南方、中證1000ETF華夏也淨流出超過30億元。
+
+---
+
+### 2026-08-07 09:54:28  #公司
+
+QVC集團退出破產保護程式，債務削減超過50億美元。
+
+---
+
+### 2026-08-07 09:53:51  #公司
+
+QVC集團：普通股獲批在納斯達克掛牌交易，股票程式碼為“QVCG”。
+
+---
+
+### 2026-08-07 09:53:30  #公司
+
+【華中地區最大規模機器人在光谷集中交付】據中國光谷訊息，8月6日下午，近百臺工業巡檢機器人在湖北人形機器人創新中心交付，它們將在武漢、上海、無錫等地，從事治安巡檢工作。這批交付的機器人由光谷企業——誠芯智聯（武漢）科技技術有限公司自主研發生產。公司聯合創始人夏可說：“這是目前華中地區機器人產業領域最大規模的一次集中交付，現場首批交付了30臺巡1系列四足機器人。它們最大的特點是能夠在接到雲端任務後自主導航前往指定地點，定位精度達毫米級。”
+
+---
+
+### 2026-08-07 09:52:16  #公司
+
+【空間智慧技術公司Ommo完成數千萬美元A輪融資】據點石資本訊息，近日，空間智慧技術公司Ommo Technologies（簡稱“Ommo”）宣佈完成數千萬美元A輪融資。本輪融資由香港鼎珮集團（VMS Group）與知名基金聯合領投，康君資本跟投，點石資本擔任長期獨家財務顧問。本輪募集資金將主要用於核心產品空間定位系統的持續技術迭代與量產體系建設，並持續推進公司產品在具身智慧、先進製造以及醫療手術場景的合作落地。
+
+---
+
+### 2026-08-07 09:50:20  #公司 #國際
+
+【美航空管理局要求檢查部分波音737 Max飛機是否存在部件裂紋】美國航空監管機構已要求471家航空公司的運營商提供相關資訊，對波音公司 737 Max 飛機進行部件裂紋檢查，以確保飛機結構完整性不受損害。波音表示，受影響區域涉及部分737飛機前門框架的結構加固部件。根據適航指令，需要對機身面板進行檢查。美國聯邦航空管理局表示，週四釋出的公告將於 9 月 10 日起生效。這些檢查適用於新一代 Max 噴氣式飛機的現役型號，包括 8、9 和 8200 型號。“美國聯邦航空管理局釋出此適航指令是為了解決這些產品存在的不安全狀況，”該機構表示，並補充說，裂縫可能會導致飛機部分結構完整性受到“不利”損害。
+
+---
+
+### 2026-08-07 09:49:02  #MKT News #Important #Star Stocks #Tencent #00700.HK #Impact bullish #09999.HK #00100.HK
+
+Hong Kong-listed OpenClaw concept stocks mostly rose: MINIMAX-W (00100.HK) gained more than 10%, Zhipu (02513.HK) rose over 6%; NetEase-S (09999.HK) and Tencent Holdings (00700.HK) also advanced.
+
+---
+
+### 2026-08-07 09:47:09  #市場
+
+【港股醫藥股走強 康龍化成漲近6%】截至發稿，康龍化成(03759.HK)漲5.63%，藥明康德(02359.HK)漲3.34%，藥明生物(02269.HK)漲3.04%。
+
+---
+
+### 2026-08-07 09:46:56  #其他
+
+三大指數集體翻綠，微盤股指數跌超2%，數字貨幣、軟體開發、遊戲、影視等方向跌幅居前，滬深京三市下跌個股超4700只。
+
+---
+
+### 2026-08-07 09:46:20  #MKT News #01888.HK #Impact bullish #02476.HK #09630.HK
+
+Most Hong Kong-listed PCB-related stocks advanced: 01888.HK, 02476.HK and 09630.HK rose over 4%; 01989.HK climbed more than 2%; 01377.HK gained over 1%.
+
+---
+
+### 2026-08-07 09:45:59  #國際
+
+【豐田在美召回約50.8萬輛凱美瑞，因儀表盤故障可能影響安全功能】當地時間8月6日，豐田汽車宣佈在美國召回約50.8萬輛2025至2026年款凱美瑞（Camry）車型，原因是車輛7英寸組合儀表可能在啟動時出現黑屏，導致轉向燈、危險警示燈以及部分提示音功能失效。
+
+---
+
+### 2026-08-07 09:45:50  #市場
+
+【醫藥商業板塊短線拉昇，開開實業漲停】醫藥商業板塊短線拉昇，開開實業漲停，瑞康醫藥、人民同泰、合富中國、華人健康、塞力醫療等紛紛走高。
+
+---
+
+### 2026-08-07 09:45:45  #國際
+
+【馬斯克紀錄片10月上映 本尊吐槽：抹黑之作！】一部關於埃隆 · 馬斯克的新紀錄片定於 10 月 16 日在美國影院上映。 奧斯卡獲獎導演亞歷克斯 · 吉布尼的近 4 小時電影《MUSK》將於 9 月在威尼斯電影節全球首映，隨後在 2026 年多倫多國際電影節放映，並將在 HBO 首播。 對此，馬斯克本人在 X 平臺批評這部電影是“抹黑之作”，並吐槽：“吉布尼只會幹這個。另外，4 小時！！是想把人活活悶死嗎？”
+
+---
+
+### 2026-08-07 09:45:34  #市場 #焦點
+
+北證50日內跌幅達1.01%，成分股中，安達科技跌5.16%，華密新材跌4.38%，艾融軟體跌4.25%，並行科技跌4.00%。
+
+---
+
+### 2026-08-07 09:45:24  #其他
+
+【資訊保安概念集體調整 綠盟科技、任子行均跌超10%】資訊保安概念集體調整，綠盟科技、任子行均跌超10%，飛天誠信、天融信、吉大正元、廣脈科技、亞信安全、安恆資訊跌幅居前。
+
+---
+
+### 2026-08-07 09:45:02  #MKT News #Important #09688.HK #Impact bullish #02359.HK #02269.HK
+
+Hong Kong-listed innovative drug stocks rallied after choppy trading: Zai Lab (09688.HK) rose over 13%, WuXi AppTec (02359.HK) and WuXi Biologics (02269.HK) gained over 3%, and Rongchang Biologics (09995.HK) and WuXi Helian (02268.HK) climbed more than 2%.
 
 ---
 
@@ -18973,143 +19093,5 @@ TASNIM NEWS: Yemen said attacks on vessels in waters north of Yanbu signal that 
 ### 2026-08-06 00:55:05  #焦點 #國際
 
 伊朗副外長表示，伊朗與阿曼談判敲定的潛在過境航線可維持2至4個月的正常運作。
-
----
-
-### 2026-08-06 00:54:59  #國際
-
-北約秘書長呂特：就俄對烏城市打擊同澤連斯基溝通，將協調盟友保障烏克蘭防空需求。
-
----
-
-### 2026-08-06 00:53:38  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-According to Iran's Tasnim News, Yemen is preparing for full confrontation with Saudi Arabia. Attacks on Saudi vessels have consolidated a "blockade-for-blockade" dynamic, and the Yemeni armed forces say routes previously considered safe are no longer secure.
-
----
-
-### 2026-08-06 00:53:02  #國際
-
-美國佐治亞州發生大範圍停電。
-
----
-
-### 2026-08-06 00:52:41  #其他 #焦點
-
-葉門革命領導人下達全國總動員令，薩那方面為同沙烏地阿拉伯展開全面對抗做準備。
-
----
-
-### 2026-08-06 00:52:35  #其他
-
-葉門方面：受葉門武裝部隊現場局勢變化影響，此前被認定安全的航線現已不再安全。
-
----
-
-### 2026-08-06 00:52:23  #MKT News #Important
-
-Iran's deputy foreign minister said Iran and Oman have reached broad consensus on almost all outstanding issues.
-
----
-
-### 2026-08-06 00:52:22  #其他
-
-葉門方面：襲擊沙特船隻，確立了 “以封鎖回應封鎖” 的對等博弈原則。
-
----
-
-### 2026-08-06 00:51:52  #公司 #觀點
-
-亞馬遜雲科技（AWS）：亞馬遜雲科技與摩根大通合作推進量子計算研發。
-
----
-
-### 2026-08-06 00:51:49  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #JPM.O
-
-Amazon Web Services (AWS) said it will partner with JP Morgan (JPM.N) to advance quantum computing R&D.
-
----
-
-### 2026-08-06 00:51:41  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
-
-Koninklijke Ahold Delhaize NV earnings below expectations at 0.60 EUR — Koninklijke Ahold Delhaize NV (AD) released earnings per share at 0.60 EUR, compared to market expectations of 0.64 EUR.
-
----
-
-### 2026-08-06 00:51:38  #國際
-
-【以軍證實數名以色列猶太人定居者非法潛入黎巴嫩】以色列國防軍證實，由大約10人組成的一個以色列猶太人定居者團體，當天下午跨越以黎臨時分界線進入黎巴嫩一側。以軍部隊隨後找到該團體的大多數成員，並將其護送回以色列境內，同時仍在搜尋其餘人員。軍方表示，所有涉事人員將被移交給以色列警方接受進一步盤問。
-
----
-
-### 2026-08-06 00:51:29  #MKT News #BAYRY.O
-
-Bayer: Monsanto and class counsel filed a joint motion with the Missouri circuit court seeking to reschedule the final approval hearing for the class settlement to Sept. 10 or later.
-
----
-
-### 2026-08-06 00:50:27  #MKT News #Commodities #Energy #PSX.N #Impact mixed
-
-Phillips 66 (PSX.N) expects more unplanned maintenance in the near term as refineries seek to take advantage of higher margins.
-
----
-
-### 2026-08-06 00:50:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【U.S. distillate exports hit record; domestic stocks at lowest seasonal level since 1996】EIA data show U.S. distillate fuel exports rose to a record 1.9 mln bpd last week, surpassing May’s prior peak, as global demand for diesel strains supplies. Exports have exceeded 1.5 mln bpd for five straight weeks. Disruptions linked to early U.S.-Iran hostilities — impeding crude and product flows through the Strait of Hormuz — and months of Ukrainian attacks on Russian refineries have tightened global diesel availability, leaving the U.S. one of the few producers able to export at scale. Despite refiners running at full tilt to boost diesel output, seasonally adjusted U.S. distillate inventories fell to their lowest level for this time of year since 1996.
-
----
-
-### 2026-08-06 00:50:13  #公司
-
-【富蘭克林鄧普頓任命Rene Buehlmann為亞太主管】富蘭克林鄧普頓週三在宣告中表示，繼續擴充其全球客戶集團（Global Client Group）管理層，以強化公司在全球產品、ETF和亞太市場的佈局。公司任命Elizabeth “Liz” Hogbin為全球產品主管、Rene Buehlmann為亞區主管，Patrick O’Connor由全球ETF主管調任全球客戶集團副董事長。Buehlmann將自9月21日起加入富蘭克林鄧普頓。Buehlmann此前曾任安本投資的全球執行長，並曾在瑞銀服務近30年，其間曾擔任瑞銀資產管理亞太區主管。他將在香港和新加坡兩地辦公。截至6月30日，公司管理的資產規模為1.79萬億美元。
-
----
-
-### 2026-08-06 00:49:37  #國際
-
-伊朗副外長：伊朗-阿曼協議並未具體規定路線應如何設定，而是應按照伊朗的安排進行。
-
----
-
-### 2026-08-06 00:48:13  #國際
-
-伊朗：不會接受外國干涉霍爾木茲海峽事務。
-
----
-
-### 2026-08-06 00:48:06  #MKT News
-
-Ukrainian President Zelenskiy said he discussed securing more interceptors with NATO Secretary General Rutte.
-
----
-
-### 2026-08-06 00:47:58  #國際
-
-烏克蘭總統澤連斯基稱，他已與北約秘書呂特就爭取更多防空攔截器一事進行了交談。
-
----
-
-### 2026-08-06 00:47:00  #MKT News
-
-Iran's deputy foreign minister said an agreement with Oman does not imply implementation of Article 5 of the Islamabad memorandum of understanding.
-
----
-
-### 2026-08-06 00:46:39  #MKT News #PSX.N
-
-Phillips 66 (PSX.N) expects large-scale maintenance turnarounds in 2027 and 2028.
-
----
-
-### 2026-08-06 00:46:25  #國際
-
-伊朗副外長：伊朗與阿曼達成協議，並不代表執行《伊斯蘭堡諒解備忘錄》第5條。
-
----
-
-### 2026-08-06 00:45:23  #Trading Economics #Markets #Commodity #Importance 0
-
-Gasoline Holds Near One-Month Low — US gasoline futures held near $2.85 per gallon on Wednesday after touching a one-month low of $2.80 earlier in the session, as growing optimism over a potential US-Iran agreement backed an outlook of improved supply. President Donald Trump said talks with Tehran were ongoing, while Iran and Oman continued discussions aimed at restoring tanker flows in the Persian Gulf. Still, prices remained about 24% above pre-war levels amid supply concerns from elsewhere. Yemen's Iran-backed Houthis claimed they had targeted a Saudi oil tanker in the Red Sea. In Russia, diesel and gasoline exports plunged 60% in July as Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027 while increasing imports from Belarus, India, Kazakhstan, and Morocco. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week to July 31st, exceeding expectations and leaving stocks 7% below the five-year seasonal average.
 
 ---

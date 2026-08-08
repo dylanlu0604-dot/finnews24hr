@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 00:45:29_
-_本檔包含 3389 則快訊，約 596783 字_
+_更新時間：2026-08-09 01:40:38_
+_本檔包含 3396 則快訊，約 596718 字_
+
+---
+
+### 2026-08-06 00:54:59  #國際
+
+北約秘書長呂特：就俄對烏城市打擊同澤連斯基溝通，將協調盟友保障烏克蘭防空需求。
+
+---
+
+### 2026-08-06 00:53:38  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+According to Iran's Tasnim News, Yemen is preparing for full confrontation with Saudi Arabia. Attacks on Saudi vessels have consolidated a "blockade-for-blockade" dynamic, and the Yemeni armed forces say routes previously considered safe are no longer secure.
+
+---
+
+### 2026-08-06 00:53:02  #國際
+
+美國佐治亞州發生大範圍停電。
+
+---
+
+### 2026-08-06 00:52:41  #其他 #焦點
+
+葉門革命領導人下達全國總動員令，薩那方面為同沙烏地阿拉伯展開全面對抗做準備。
+
+---
+
+### 2026-08-06 00:52:35  #其他
+
+葉門方面：受葉門武裝部隊現場局勢變化影響，此前被認定安全的航線現已不再安全。
+
+---
+
+### 2026-08-06 00:52:23  #MKT News #Important
+
+Iran's deputy foreign minister said Iran and Oman have reached broad consensus on almost all outstanding issues.
+
+---
+
+### 2026-08-06 00:52:22  #其他
+
+葉門方面：襲擊沙特船隻，確立了 “以封鎖回應封鎖” 的對等博弈原則。
+
+---
+
+### 2026-08-06 00:51:52  #公司 #觀點
+
+亞馬遜雲科技（AWS）：亞馬遜雲科技與摩根大通合作推進量子計算研發。
+
+---
+
+### 2026-08-06 00:51:49  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #JPM.O
+
+Amazon Web Services (AWS) said it will partner with JP Morgan (JPM.N) to advance quantum computing R&D.
+
+---
+
+### 2026-08-06 00:51:41  #Trading Economics #Markets #Netherlands #Earnings #Importance 0
+
+Koninklijke Ahold Delhaize NV earnings below expectations at 0.60 EUR — Koninklijke Ahold Delhaize NV (AD) released earnings per share at 0.60 EUR, compared to market expectations of 0.64 EUR.
+
+---
+
+### 2026-08-06 00:51:38  #國際
+
+【以軍證實數名以色列猶太人定居者非法潛入黎巴嫩】以色列國防軍證實，由大約10人組成的一個以色列猶太人定居者團體，當天下午跨越以黎臨時分界線進入黎巴嫩一側。以軍部隊隨後找到該團體的大多數成員，並將其護送回以色列境內，同時仍在搜尋其餘人員。軍方表示，所有涉事人員將被移交給以色列警方接受進一步盤問。
+
+---
+
+### 2026-08-06 00:51:29  #MKT News #BAYRY.O
+
+Bayer: Monsanto and class counsel filed a joint motion with the Missouri circuit court seeking to reschedule the final approval hearing for the class settlement to Sept. 10 or later.
+
+---
+
+### 2026-08-06 00:50:27  #MKT News #Commodities #Energy #PSX.N #Impact mixed
+
+Phillips 66 (PSX.N) expects more unplanned maintenance in the near term as refineries seek to take advantage of higher margins.
+
+---
+
+### 2026-08-06 00:50:20  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【U.S. distillate exports hit record; domestic stocks at lowest seasonal level since 1996】EIA data show U.S. distillate fuel exports rose to a record 1.9 mln bpd last week, surpassing May’s prior peak, as global demand for diesel strains supplies. Exports have exceeded 1.5 mln bpd for five straight weeks. Disruptions linked to early U.S.-Iran hostilities — impeding crude and product flows through the Strait of Hormuz — and months of Ukrainian attacks on Russian refineries have tightened global diesel availability, leaving the U.S. one of the few producers able to export at scale. Despite refiners running at full tilt to boost diesel output, seasonally adjusted U.S. distillate inventories fell to their lowest level for this time of year since 1996.
+
+---
+
+### 2026-08-06 00:50:13  #公司
+
+【富蘭克林鄧普頓任命Rene Buehlmann為亞太主管】富蘭克林鄧普頓週三在宣告中表示，繼續擴充其全球客戶集團（Global Client Group）管理層，以強化公司在全球產品、ETF和亞太市場的佈局。公司任命Elizabeth “Liz” Hogbin為全球產品主管、Rene Buehlmann為亞區主管，Patrick O’Connor由全球ETF主管調任全球客戶集團副董事長。Buehlmann將自9月21日起加入富蘭克林鄧普頓。Buehlmann此前曾任安本投資的全球執行長，並曾在瑞銀服務近30年，其間曾擔任瑞銀資產管理亞太區主管。他將在香港和新加坡兩地辦公。截至6月30日，公司管理的資產規模為1.79萬億美元。
+
+---
+
+### 2026-08-06 00:49:37  #國際
+
+伊朗副外長：伊朗-阿曼協議並未具體規定路線應如何設定，而是應按照伊朗的安排進行。
+
+---
+
+### 2026-08-06 00:48:13  #國際
+
+伊朗：不會接受外國干涉霍爾木茲海峽事務。
+
+---
+
+### 2026-08-06 00:48:06  #MKT News
+
+Ukrainian President Zelenskiy said he discussed securing more interceptors with NATO Secretary General Rutte.
+
+---
+
+### 2026-08-06 00:47:58  #國際
+
+烏克蘭總統澤連斯基稱，他已與北約秘書呂特就爭取更多防空攔截器一事進行了交談。
+
+---
+
+### 2026-08-06 00:47:00  #MKT News
+
+Iran's deputy foreign minister said an agreement with Oman does not imply implementation of Article 5 of the Islamabad memorandum of understanding.
+
+---
+
+### 2026-08-06 00:46:39  #MKT News #PSX.N
+
+Phillips 66 (PSX.N) expects large-scale maintenance turnarounds in 2027 and 2028.
+
+---
+
+### 2026-08-06 00:46:25  #國際
+
+伊朗副外長：伊朗與阿曼達成協議，並不代表執行《伊斯蘭堡諒解備忘錄》第5條。
+
+---
+
+### 2026-08-06 00:45:23  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Holds Near One-Month Low — US gasoline futures held near $2.85 per gallon on Wednesday after touching a one-month low of $2.80 earlier in the session, as growing optimism over a potential US-Iran agreement backed an outlook of improved supply. President Donald Trump said talks with Tehran were ongoing, while Iran and Oman continued discussions aimed at restoring tanker flows in the Persian Gulf. Still, prices remained about 24% above pre-war levels amid supply concerns from elsewhere. Yemen's Iran-backed Houthis claimed they had targeted a Saudi oil tanker in the Red Sea. In Russia, diesel and gasoline exports plunged 60% in July as Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027 while increasing imports from Belarus, India, Kazakhstan, and Morocco. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week to July 31st, exceeding expectations and leaving stocks 7% below the five-year seasonal average.
 
 ---
 
@@ -20341,101 +20479,5 @@ Spot palladium jumped 6.00% intraday to $1,340.17/oz.
 ### 2026-08-04 23:00:52  #MKT News #Important #Commodities #Energy
 
 By the 23:00 close, China’s front-month futures were mostly lower: monoethylene glycol (EG) fell more than 5%, bottle-grade PET chips and propylene dropped over 3%, LPG and low-sulfur fuel oil (LU) slipped nearly 3%, and benzene, polypropylene and fuel oil were down more than 2%. Coking coal was the exception, rising just over 1%.
-
----
-
-### 2026-08-04 23:00:06  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Australian Dollar Appreciates by 0.55% — Top currency gainers are Australian Dollar (0.55%), Polish Zloty (0.42%), Mexican Peso (0.38%), Euro (0.13%) and British Pound (0.10%). Biggest loser is Japanese Yen (-0.25%). Meanwhile Dollar Index was little changed.
-
----
-
-### 2026-08-04 23:00:02  #市場
-
-【夜盤期貨收盤】乙二醇連續跌5.28%，液化石油氣連續跌2.87%，低硫燃料油連續跌2.76%，聚丙烯連續跌2.58%，燃料油連續跌2.43%。
-
----
-
-### 2026-08-04 22:59:58  #其他
-
-【追涼航線訂單暴漲500%】2026年民航暑運已過半程，今年暑運市場呈現“啟動偏晚、後期旺盛”的特徵。近期全國多地持續高溫，不少旅客紛紛調整出行計劃，將目光投向了自帶天然“空調”屬性的目的地。資料顯示，七月以來“避暑納涼”“夜遊”相關關鍵詞的搜尋量環比增長238%。 記者查詢發現，截至目前，今年暑期機票預訂量增幅最高的20條航線中，有近半數屬於“追涼航線”。其中，蕪湖至貴陽增長5倍。此外，鄭州至芒市、廣州至延吉的航線增幅均超3倍，惠州至太原航線機票預訂量增長2.4倍。(央視財經）
-
----
-
-### 2026-08-04 22:59:49  #Trading Economics #Markets #United Kingdom #Currency #Importance 0
-
-Pound Holds Above $1.34 as Geopolitical Tensions Ease — The British pound held above $1.34 as improving risk sentiment supported demand for riskier assets amid signs of easing tensions between the US and Iran. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be be reached as early as Tuesday or Wednesday. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to pare bets on interest rate hikes in 2026. The BoE voted 6-3 to keep rates unchanged, with three members backing a hike versus expectations for a 7-2 split. However, Governor Andrew Bailey played down the prospect of imminent tightening, saying the disinflation process remains on track, while some policymakers suggested rate cuts could return to the agenda if Middle East tensions continue to ease.
-
----
-
-### 2026-08-04 22:59:40  #國際
-
-美國國務卿魯比奧：古巴是 “間諜超級大國”，資助美國境內極左翼騷亂。
-
----
-
-### 2026-08-04 22:58:49  #公司
-
-輝瑞執行長在電話會議上表示，在獨佔期到期後，公司將維持股息，並恢復股息增長。
-
----
-
-### 2026-08-04 22:58:46  #國際
-
-BLUE WATER AUTONOMY：獲美國海軍選定，執行自主遠洋勘測任務，為多年期、多授予不定量（IDIQ）合同，合同上限金額 4000 萬美元。
-
----
-
-### 2026-08-04 22:58:12  #其他
-
-【7月量化私募大回撤，幻方多隻產品年內收益轉負】7月，國內量化私募行業日子不太好過。私募排排網最新資料顯示，多家量化機構旗下產品在7月出現大面積、深幅度的回撤，部分產品年內收益由正轉負，單月跌幅超過20%。具體來看，截至2026年7月31日，幻方量化旗下9只展示產品中，除九章幻方中證500量化多策略2號尚存0.04%的微弱年內正收益外，其餘8只產品年內收益已全部告負。其中，幻方量化信淮500指數專項19號7期開年以來淨值跌幅達3.84%。更令人關注的是月度表現，幻方旗下9只產品7月單月跌幅全部超過20%，最大回撤來自幻方中證500量化進取1號，單月淨值下挫22.15%。（每日經濟新聞）
-
----
-
-### 2026-08-04 22:57:26  #其他
-
-哥倫比亞 6 月出口額 42.34 億美元；預期 43.83 億美元。
-
----
-
-### 2026-08-04 22:57:11  #國際
-
-市場訊息：俄羅斯外交部長拉夫羅夫將率俄羅斯代表團出席在紐約舉行的聯合國大會會議。
-
----
-
-### 2026-08-04 22:56:20  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 0
-
-Bund Yield Falls as Oil Slump Offsets ECB Rate Expectations — Germany's 10-year Bund yield eased toward 3.1%, tracking a sharp decline in oil prices as optimism grew that the US and Iran could reach a deal to end the conflict and reopen the Strait of Hormuz. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said an agreement could be reached as early as Tuesday or Wednesday. Despite the decline in yields, stronger-than-expected eurozone data continued to support expectations that the European Central Bank could raise interest rates at its September meeting. The eurozone economy expanded 0.4% in the second quarter, twice the expected pace and the strongest growth since early 2025, while annual inflation accelerated to 2.9% in July, with core and services inflation also picking up.
-
----
-
-### 2026-08-04 22:55:43  #其他
-
-市場訊息： 納布盧斯的耶路撒冷大街爆發衝突，佔領軍向青年發射實彈。
-
----
-
-### 2026-08-04 22:55:01  #其他
-
-穆迪評級確認悅刻A3評級，展望維持穩定。
-
----
-
-### 2026-08-04 22:54:52  #市場
-
-鈀金期貨日內漲7%，現報1345.84美元/盎司。
-
----
-
-### 2026-08-04 22:54:28  #國際
-
-市場訊息：有任何犯罪記錄的移民如今將不得獲得俄羅斯公民身份或俄居留權。普京已簽署相關法案。
-
----
-
-### 2026-08-04 22:53:45  #Trading Economics #Markets #Euro Area #Currency #Importance 0
-
-Euro Holds Firm Near Seven-Week High on ECB Rate Outlook — The euro traded slightly above $1.15, hovering near its highest level since June 16 as easing geopolitical tensions improved risk sentiment. Oil prices tumbled on optimism that diplomatic efforts could end the US-Iran conflict, easing concerns over inflationary pressures. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as early as Tuesday or Wednesday. Meanwhile, stronger-than-expected eurozone data continued to support expectations that the European Central Bank could raise interest rates at its next meeting in September. The bloc's economy expanded 0.4% in the second quarter, twice the expected pace and the strongest growth since early 2025, while annual inflation accelerated to 2.9% in July, with both core and services inflation also strengthening.
 
 ---
