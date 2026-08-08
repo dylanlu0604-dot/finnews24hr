@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 22:22:22",
-  "count": 15849,
+  "updated": "2026-08-08 22:26:22",
+  "count": 15847,
   "items": [
+    {
+      "id": "mkt:019fe1c1-c465-7aab-8fc4-c274f71fcf46",
+      "time": "2026-08-08 22:23:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Romanian Defence Ministry says radar found no aerial object crossing its airspace into Bulgaria】On Aug 8 local time, the Romanian Defence Ministry said its radar surveillance did not detect any aircraft crossing Romanian airspace into Bulgaria after explosions near the Bulgarian-Romanian border. The ministry said it is continuing to monitor the border area and will issue further information if material developments occur. Bulgarian Prime Minister Radev said a drone entered Bulgarian airspace from the Romanian direction on Aug 8 and exploded inside Bulgaria; no casualties were reported."
+    },
     {
       "id": "5032029",
       "time": "2026-08-08 22:19:03",
@@ -144397,37 +144405,6 @@
         "WTI"
       ],
       "text": "IAEA: ZAPORIZHZHIA NUCLEAR PLANT lost off‑site power for the 23rd time today amid military fighting."
-    },
-    {
-      "id": "5020487",
-      "time": "2026-08-01 22:25:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿維塔7月交付7626輛】據阿維塔訊息，阿維塔7月交付7626輛。"
-    },
-    {
-      "id": "mkt:019fbdb6-2499-7aab-8f42-9eb1b3d69572",
-      "time": "2026-08-01 22:24:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Lebanese sources say the seventh round of Lebanon‑Israel talks will open in Rome on Tuesday and run for three days."
-    },
-    {
-      "id": "mkt:019fbdb5-df8b-7aab-8f42-9213d9a1dfce",
-      "time": "2026-08-01 22:24:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "META.O",
-        "Impact bearish",
-        "MSFT.O",
-        "Impact bullish",
-        "AMZN.O"
-      ],
-      "text": "【Tech post-earnings split signals market beginning to punish unchecked AI spending】Market reactions to big-tech earnings diverged sharply, signaling investor scrutiny of AI-driven spending. Meta fell as much as 8% in after-hours trade after issuing disappointing revenue guidance and reporting its weakest free cash flow in years, a market read as evidence of rising AI-related costs. Microsoft jumped about 16% post-earnings, adding roughly $450bn of market value, after reporting the fastest cloud growth in four years and saying it will control incremental capital expenditure this year. Amazon rallied about 15% after its cloud revenue posted a four-year high, easing concerns about returns on large AI investments. Explosive Options founder and chief options analyst Bob Long said investors will eventually tire of hyperscalers’ endless spending, so restraint being rewarded is unsurprising. Global AI supply-chain names and firms that provide or adopt AI appear to be back in favor."
     }
   ]
 }
