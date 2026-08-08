@@ -1,7 +1,42 @@
 {
   "date": "2026-08-08",
-  "count": 734,
+  "count": 738,
   "items": [
+    {
+      "id": "5031945",
+      "time": "2026-08-08 19:35:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部啟動強降雨二級防禦響應】中央氣象臺8月8日18時繼續釋出颱風橙色預警、釋出暴雨橙色預警，交通運輸部維持颱風二級防禦響應、啟動強降雨二級防禦響應。（新華社）"
+    },
+    {
+      "id": "5031944",
+      "time": "2026-08-08 19:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利執政黨提名前最高法院院長為總統候選人】匈牙利執政黨蒂薩黨8月8日提名前最高法院院長鮑卡·安德拉什為匈牙利總統候選人。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe124-c4f0-7aab-8fc3-df6caf08aec7",
+      "time": "2026-08-08 19:31:51",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iran's foreign minister Araghchi said the Strait of Hormuz's existing traffic separation scheme is no longer effective and shipping lanes must be redrawn."
+    },
+    {
+      "id": "5031943",
+      "time": "2026-08-08 19:31:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊稱，德黑蘭與馬斯喀特目前正討論臨時霍爾木茲航運路線。"
+    },
     {
       "id": "5031942",
       "time": "2026-08-08 19:30:37",
