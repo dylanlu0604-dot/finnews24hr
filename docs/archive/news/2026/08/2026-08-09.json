@@ -1,7 +1,27 @@
 {
   "date": "2026-08-09",
-  "count": 51,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019fe297-c13d-7aab-8fc5-ca3acdcb0a27",
+      "time": "2026-08-09 02:17:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【M5.6 earthquake offshore Iwate, Japan; no tsunami expected】Japan Meteorological Agency said a magnitude-5.6 earthquake struck offshore Iwate Prefecture at 02:58 JST on the 9th (01:58 Beijing). Epicenter was near 40.1N, 142.4E with a focal depth of about 40 km. The agency said there is no tsunami threat."
+    },
+    {
+      "id": "mkt:019fe297-8f8a-7aab-8fc5-c03052ea0236",
+      "time": "2026-08-09 02:16:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Vance: Iran told U.S. it has no plan to levy Strait of Hormuz transit fees】U.S. Vice President JD Vance told Fox News Iran has informed Washington it currently has no plan to impose transit fees on the Strait of Hormuz. He said some within the Iranian establishment discuss levies, but Tehran has denied any plan. Vance added Washington expects Gulf oil and gas exports to return to pre-war levels, that Gulf states share that objective, and that the U.S. will judge actions rather than words."
+    },
     {
       "id": "5032091",
       "time": "2026-08-09 02:15:50",
