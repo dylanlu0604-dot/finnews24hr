@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08 13:49:52",
-  "count": 15905,
+  "updated": "2026-08-08 13:53:46",
+  "count": 15901,
   "items": [
     {
       "id": "mkt:019fdfea-3e0f-7aab-8fc2-d72e37add833",
@@ -144894,38 +144894,6 @@
         "其他"
       ],
       "text": "英國海上貿易行動辦公室（UKMTO）：收到報告，阿曼卡薩布東北方向21海里處發生一起事件。"
-    },
-    {
-      "id": "mkt:019fbbe2-8113-7aab-8f40-360225fcf9c2",
-      "time": "2026-08-01 13:53:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary shut one nuclear reactor due to low water levels; total nuclear generation has fallen to below 25% of rated capacity."
-    },
-    {
-      "id": "mkt:019fbbe1-d2f7-7aab-8f40-2fac21e91d72",
-      "time": "2026-08-01 13:52:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China issues first Arctic sea-ice forecasts via maritime communications】Aug 1 — The Ministry of Transport’s North Sea Navigation Support Center publicly issued sea-ice forecasts for Arctic shipping routes, the first time China has pushed such forecasts via maritime communications channels. The move upgrades China’s Arctic maritime information services from live reporting to dynamic forecasting, strengthening navigation-information systems and supporting development of polar shipping."
-    },
-    {
-      "id": "5020242",
-      "time": "2026-08-01 13:52:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：匈牙利因水位過低而關閉另一座核反應堆。"
-    },
-    {
-      "id": "5020241",
-      "time": "2026-08-01 13:51:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：匈牙利核電站發電量降至額定容量的四分之一以下。"
     }
   ]
 }
