@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 21:29:30",
-  "count": 15837,
+  "updated": "2026-08-08 21:33:36",
+  "count": 15838,
   "items": [
+    {
+      "id": "mkt:019fe190-453d-7aab-8fc4-9ac4066d11d9",
+      "time": "2026-08-08 21:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Saudi expended 86% of PAC-3 (Patriot-3) interceptor stockpile】A UK media report says Saudi Arabia fired about 2,400 PAC-3 (Patriot-3) interceptors in the first 38 days after the conflict began, roughly 86% of an estimated 2,800-round inventory. By April last year Saudi had about 400 interceptors remaining. Other Gulf Arab states reportedly used comparably large portions of their missile stocks, underscoring acute regional military strain."
+    },
+    {
+      "id": "5031994",
+      "time": "2026-08-08 21:28:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明日運營開始起，上海地鐵全網路地面高架區段限速執行】申通地鐵集團介紹，受今年第13號颱風“白海豚”影響，為確保軌道交通運營安全，上海地鐵實施運營調整：8月9日運營開始起，3號線、浦江線全線限速執行；1號線、2號線、4號線、5號線、6號線、7號線、8號線、9號線、10號線、11號線、16號線、17號線、市域機場線地面、高架區段限速執行，同時，16號線取消大站車，列車站站停靠。全網路其他線路區段正常執行。上海地鐵將密切關注颱風路徑變化，根據風速、雨量和對運營影響程度等實際情況，動態調整列車開行方案，遇緊急情況或將採取停運措施，保障乘客安全出行。請市民乘客留意官方釋出的運營資訊。（上海釋出）"
+    },
     {
       "id": "5031993",
       "time": "2026-08-08 21:26:24",
@@ -144323,17 +144339,6 @@
         "Energy"
       ],
       "text": "【Danube drop cuts Paks output to 480 MW; Hungary mobilises reserves】On Aug 1 Prime Minister Magyar said falling Danube levels forced the Paks nuclear plant to cut output to 480 MW from a normal 2,000 MW and that the plant could be taken fully offline sooner than expected, possibly by the weekend. Electricity providers have activated contingency plans for major grid failures. The government reviewed all available generation, power-import options, projected peak demand, voluntary load-reduction commitments and river conditions, and ordered all available reserve plants into operation and on standby with fuel secured. Authorities also asked major industrial users to voluntarily curb consumption; many agreed to shift production and reduce evening peak demand by about 240 MW."
-    },
-    {
-      "id": "te:markets:571892",
-      "time": "2026-08-01 21:30:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Depreciates by 1.45% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1.45% decrease."
     }
   ]
 }
