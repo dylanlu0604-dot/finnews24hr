@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:02:02_
-_本檔包含 2837 則快訊，約 597471 字_
+_更新時間：2026-08-09 07:40:28_
+_本檔包含 2833 則快訊，約 597923 字_
+
+---
+
+### 2026-08-03 21:33:43  #國際
+
+【伊朗戰爭使比利時在7月完全依賴俄羅斯供應的液化天然氣】由於中東戰爭導致對歐洲的供應急劇減少，比利時上個月在液化天然氣進口方面完全依賴俄羅斯。此外，由於霍爾木茲海峽航運受阻導致天然氣價格持續高企，歐洲大多數買家一直推遲購買液化天然氣用於冬季儲備。儘管比利時從俄羅斯進口的液化天然氣數量低於今年早些時候，但這一情況令歐盟能源政策陷入尷尬。此前，歐盟已決定從明年開始禁止進口俄羅斯液化天然氣。據機構彙編的船舶追蹤資料，去年作為歐洲第五大液化天然氣進口國的比利時，7月份液化天然氣進口量同比下降超過40%。資料顯示，該國當月從俄羅斯購買了約40萬噸液化天然氣。此外，比利時還透過管道從挪威和英國獲得天然氣。
+
+---
+
+### 2026-08-03 21:33:41  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Gain on Monday — US stocks rose on Monday with support from a rebound in Treasury securities. The S&P 500 rose 0.5%, the Dow added over 600 points, and the Nasdaq inched higher. The US refrained from striking Iran over the weekend and fuel prices pulled back. The moves drove yields to decline across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, Visa, and Goldman Sachs gaining over 1%. Large-cap tech companies also gained, with Amazon soaring 5%. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 4%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow.
 
 ---
 
@@ -17081,55 +17093,5 @@ A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at lea
 ### 2026-08-02 07:40:31  #國際
 
 【美國愛達荷州發生槍擊事件 造成3死2傷】美國愛達荷州特溫福爾斯市一家‌漢堡店附近發生槍擊事件，造成3人死亡、2人受傷。警方表示，當天下午3時左右接到報警稱事發地點發生“活躍槍手”事件。警方目前尚未公佈遇難者及傷者身份，也未確認槍手是否在死亡人員之中。據悉，事發區域附近分佈有多家大型零售商和電影院。警方已封鎖現場，並提醒民眾遠離事發區域。（央視新聞）
-
----
-
-### 2026-08-02 07:37:47  #宏觀 #國際
-
-美國國務院因數萬非法移民大規模湧入，將西班牙休達的旅行警告上調至三級。
-
----
-
-### 2026-08-02 07:35:24  #其他
-
-【松花江發生2026年第1號洪水】水利部8月2日早釋出訊息，受降雨影響，2日3時54分，松花江佳木斯水文站（黑龍江省佳木斯）水位漲至79.49米，依據主要江河洪水編號規定，此次洪水編號為“松花江2026年第1號洪水”。目前，3個水利部工作組正在黑龍江省洪水防禦一線協助指導。（央視新聞）
-
----
-
-### 2026-08-02 07:32:17  #國際
-
-市場訊息：巴勒斯坦政治人物穆罕默德・達赫蘭稱，美國特使、唐納德・特朗普的女婿賈裡德・庫什納告知他，以色列將於週日起停止在加沙地帶開展軍事打擊。
-
----
-
-### 2026-08-02 07:28:48  #公司
-
-【中微公司：截至6月底累計已有逾8600個反應臺在國內外生產線實現量產】 8月1日，中微公司在上海市臨港新片區舉行“中微大廈”落成暨22週年慶典。中微公司創始人、董事長兼總經理尹志堯在致辭時表示，如今，公司已開發出50多種裝置，覆蓋刻蝕 、薄膜 、量檢測 、CMP溼法等裝置，加工的精度達到了原子級水平。截至2026年6月底，公司累計已有超過8600個反應臺在國內外200餘條生產線實現量產。他預計，未來五年，中微公司的生產和研發廠房總面積將達到90萬平方米，年產值規模有望提升至700億元。
-
----
-
-### 2026-08-02 07:07:07  #宏觀 #資料 #國際
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、人力資源社會保障部出臺企業年金新規程 推動企業年金轉移接續更高效
-2、7月製造業PMI為49.2%
-3、“藍色屋頂”點亮巴基斯坦綠色未來
-4、斯中共建“一帶一路”合作持續提質升級
-5、比什凱克市垃圾科技處置發電專案實現“變廢為寶”——“為城市綠色發展注入持久動能”
-6、中方在聯合國舉行2026世界人工智慧大會暨人工智慧全球治理高階別會議吹風會
-7、上海穩步建設全球科創高地
-8、2026年世界奶業大會在內蒙古呼和浩特開幕
-
----
-
-### 2026-08-02 07:04:30  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、“堅持高質量發展要成為領導幹部政績觀的重要內容”
-2、謀幸福——深刻認識“最本質的特徵”和“最大優勢”
-3、上海穩步建設全球科創高地
-4、湖北宣恩縣持續做好治水興城文章 貢水河畔話三變
-5、圖片報道
-6、不斷創造高質量發展新業績
 
 ---

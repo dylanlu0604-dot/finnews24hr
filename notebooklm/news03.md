@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:02:02_
-_本檔包含 3430 則快訊，約 597153 字_
+_更新時間：2026-08-09 07:40:28_
+_本檔包含 3436 則快訊，約 598149 字_
+
+---
+
+### 2026-08-06 03:08:06  #國際
+
+英國外交大臣米利班德： 已與美國國務卿魯比奧就重啟霍爾木茲海峽通航的重要性展開磋商。
+
+---
+
+### 2026-08-06 03:06:49  #國際
+
+美國參議院確認 Erica Schwartz 出任疾控中心主任。
+
+---
+
+### 2026-08-06 03:03:48  #公司
+
+側重於AI投資的Altimeter跌11%，資料顯示，多家基金公司已經在7月表現慘淡。
+
+---
+
+### 2026-08-06 03:02:44  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7495元，較週二夜盤收盤漲15點。成交量337.95億美元。
+
+---
+
+### 2026-08-06 03:01:58  #MKT News
+
+Russian President Putin reshuffled military leadership, appointing Denis Lyamin to lead a newly formed Unmanned Systems Force and naming new commanders for front-line operations and military logistics.
+
+---
+
+### 2026-08-06 03:01:40  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng futures closed the night session down 0.91% at 25,674, trading 242 points below the spot index.
+
+---
+
+### 2026-08-06 03:00:01  #市場
+
+恒指期貨夜盤收跌0.92%，報25671.47點，低水244.35點。
+
+---
+
+### 2026-08-06 02:57:41  #國際
+
+伊朗總統：無論我如何思索，都找不到他們殺害我國領袖、指揮官以及科學家的任何合乎邏輯的理由。許多遇害的我方指揮官與科學家，甚至連一處房產都沒有。
+
+---
+
+### 2026-08-06 02:55:49  #國際
+
+伊朗總統：國家安全委員會會議遭轟炸後，我身負傷勢，我們仍前去會見最高領袖。在那次會面中，他向我們作出指示，併為我們祈福。
+
+---
+
+### 2026-08-06 02:54:49  #MKT News
+
+Blue Origin CEO said the company determined a valve on its BE-4 engine was the cause of the New Glenn explosion in May.
+
+---
+
+### 2026-08-06 02:54:42  #MKT News
+
+Iranian president dismissed controversy over the supreme leader's remarks on a ceasefire memorandum, saying they issued a message saying "in principle, I do not approve," but ultimately allowed the process to continue and that actors seeking to create division, exploit differences and advance factional aims have exaggerated the issue.
+
+---
+
+### 2026-08-06 02:54:09  #公司
+
+藍色起源執行長戴夫·林普：五月新格倫火箭爆炸事故禍因為BE-4火箭發動機閥門故障。
+
+---
+
+### 2026-08-06 02:52:18  #MKT News
+
+【Houthi rebels again claim missile attack on Saudi tanker】Yemeni Houthi forces said on the evening of Aug. 5 they fired missiles at a Saudi tanker in the Gulf of Aden, saying "the missile hit the target, forcing the tanker to turn back." The group said the attack is part of enforcement of a "maritime shipping ban" and of "a blockade in response to blockade," and that it will "continue monitoring all Saudi tankers' movements" and will not allow Saudi tankers to transit the Red Sea north-south route until the blockade is lifted. Earlier the same day the Houthis said they launched a missile strike against a Saudi tanker near the Red Sea port city of Yanbu; Saudi authorities have not confirmed either incident. A Houthi spokesman did not specify the timing of the attacks.
+
+---
+
+### 2026-08-06 02:49:49  #MKT News
+
+Iran's president said enemies are uneasy about anything that symbolizes the country's capabilities.
+
+---
+
+### 2026-08-06 02:48:01  #國際
+
+路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加310億立方英尺。
+
+---
+
+### 2026-08-06 02:47:59  #MKT News #Important
+
+Iran's president says communication with the supreme leader is currently 'very difficult'.
+
+---
+
+### 2026-08-06 02:47:19  #其他
+
+【胡塞武裝再稱襲擊沙特油輪】葉門胡塞武裝當地時間8月5日晚表示，在亞丁灣對一艘沙特油輪發射導彈。據稱“導彈擊中目標，迫使該油輪返航”。胡塞武裝在宣告中稱，此次襲擊是執行針對沙特的“海上航運禁令”、落實“以封鎖回應封鎖”措施的一部分。胡塞武裝“將持續監視所有沙特油輪動態，在相關封鎖解除前，不允許沙特油輪經紅海南北航線通行。” 當天早些時候，胡塞武裝還稱對沙特紅海港口城市延布附近的一艘沙特油輪發動導彈襲擊。 沙特方面尚未證實這兩起事件。胡塞武裝發言人未說明襲擊發生的具體時間。（CCTV國際時訊）
+
+---
+
+### 2026-08-06 02:46:43  #國際
+
+伊朗總統稱，目前他與伊朗最高領袖的溝通“非常困難”。
+
+---
+
+### 2026-08-06 02:44:24  #MKT News
+
+【Bank of Ghana's 2025 gold-buying program lost $1.9bn】An IMF report says the Bank of Ghana's 2025 domestic gold-purchase program lost 220 billion cedi (≈$1.9bn), driven mainly by service fees, assay costs and trading spreads. The government set up GoldBod in 2025 as the sole authorized buyer for artisanal and small-scale miner gold; GoldBod executed purchases using central-bank-provided funds as part of an FX reserve accumulation strategy. The program raised Ghana's international reserves by $3.9bn to $11.9bn at end-2025, but the related losses expanded the central bank's negative net worth to the equivalent of 6.7% of GDP, the IMF said.
 
 ---
 
@@ -20600,88 +20714,5 @@ AbbVie Stock Price Hits 5-week Low — AbbVie shares decreased to 243.00 USD, th
 ### 2026-08-04 23:53:36  #MKT News
 
 Lebanese presidency said Israel did not provide a response today to Lebanon regarding a ceasefire commitment.
-
----
-
-### 2026-08-04 23:52:32  #MKT News #DAX #Impact bullish #FTSE100 #EURUSD
-
-Stoxx Europe 600 rose 0.7%, closing at its highest level since July 3.
-
----
-
-### 2026-08-04 23:51:13  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-Marathon Oil (MRO.N) expects more Venezuelan crude to enter the US market, which it says will pressure Western Canadian Select prices.
-
----
-
-### 2026-08-04 23:50:45  #其他
-
-【葉門政府軍說救起紅海遇襲沉沒貨船上14名船員 】葉門政府軍4日表示，一艘貨船在葉門西部紅海海域被載有爆炸物的船隻襲擊後沉沒，船上14名船員均由政府軍救援。葉門政府下屬的“國家抵抗力量”當天發表宣告說，海岸警衛隊和海軍部隊聯合開展救援行動，在葉門胡塞武裝控制的荷臺達港以南約13海里處，成功救起遭襲貨船“FAIZE NOORE OLIYA”號上的全部船員。（新華社）
-
----
-
-### 2026-08-04 23:49:27  #公司 #市場
-
-光通訊概念股普遍上漲，其中，光模組與光器件供應商Lumentum漲超10.5%，高意公司/相干公司Coherent重新漲超14%，Applied Optoelectronics漲超20%，Fabrinet漲幅重新擴大至約16%。
-光通訊晶片供應商博通漲超5.2%，邁威爾科技/美滿電子漲約13%，MACOM Technology一度漲超6%，Credo Technology Group重新漲超7%。
-網路裝置與系統供應商思科漲幅重新擴大至4%，Ciena漲幅重新擴大至6.4%。
-光纖纜線與基礎連線供應商康寧公司Corning漲幅重新擴大至6.7%。
-
----
-
-### 2026-08-04 23:48:03  #其他
-
-【費城半導體指數漲幅擴大至6%】費城半導體指數漲幅擴大至6%，報12117.6點。閃迪漲幅擴大至10.8%，英特爾漲超9%，美光科技、AMD漲超7%，高通漲超6%。
-
----
-
-### 2026-08-04 23:47:56  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish
-
-Intel (INTC.O) extends gains to 10%; Philadelphia Semiconductor Index up 6.2%.
-
----
-
-### 2026-08-04 23:47:30  #國際
-
-【報道：伊朗考慮允許歐洲在霍爾木茲海峽開展排雷作業】據媒體報道稱伊朗正考慮允許歐洲國家清除霍爾木茲海峽的水雷。此次立場的可能退讓或將成為協議一環，推動該水道航運恢復正常，併為美伊和平談判創造有利條件。
-公開場合，伊朗一再表態，不會允許外國參與這處關鍵航運通道的排雷工作。但多名外交訊息人士透露，在最近數週的閉門會晤中，德黑蘭的態度已經有所軟化。訊息人士稱，歐洲排雷任務落地有兩大前提：伊朗為參與行動的海軍艦艇作出安全承諾，且停火能夠維持；該計劃也並無落地保證。同時行動還必須獲得伊朗實權武裝力量伊斯蘭革命衛隊的同意，正是這支部隊主導了針對海峽過往商船的襲擊。
-一名訊息人士透露，伊朗領導層內部仍存在分歧。伊斯蘭革命衛隊部分成員堅持，應當由伊朗本國、而非他國負責海峽水雷的清除工作。
-
----
-
-### 2026-08-04 23:46:52  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish
-
-Markets no longer price in a 25bp Bank of England rate hike this year.
-
----
-
-### 2026-08-04 23:46:46  #央行 #英國央行
-
-交易員不再押注英國央行今年加息25個基點。
-
----
-
-### 2026-08-04 23:46:01  #MKT News #Commodities #Energy #5020.T #Impact bullish #CVX.O #Impact bearish
-
-Nikkei reports Eneos Holdings plans to raise global growth investment to about 1 trillion yen (~$6.36 billion) after acquiring Chevron's fuels-marketing business in Southeast Asia and Australia.
-
----
-
-### 2026-08-04 23:45:56  #市場 #焦點
-
-納指漲2.00%，現報26432.288點；道指漲1.63%，現報54046.621點；標普500指數漲1.42%，現報7708.360點。
-
----
-
-### 2026-08-04 23:45:55  #央行 #其他 #焦點 #國際
-
-交易員不再預計英國央行今年會加息25個基點。
-
----
-
-### 2026-08-04 23:45:04  #MKT News
-
-【Bookings for cooling routes surge 500%】China's 2026 summer travel season is past its midpoint and has shown a late start followed by stronger late-stage demand. Prolonged high temperatures have pushed passengers toward naturally cooler destinations. Since July, searches for cooling getaways and night tours rose 238% MoM. Nearly half of the 20 routes with the biggest summer ticket booking gains are cooling routes: Wuhu–Guiyang bookings are up 5x; Zhengzhou–Mangshi and Guangzhou–Yanji are up over 3x; Huizhou–Taiyuan bookings are up 2.4x.
 
 ---

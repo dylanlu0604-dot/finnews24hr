@@ -1,7 +1,156 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:02:02_
-_本檔包含 3133 則快訊，約 597595 字_
+_更新時間：2026-08-09 07:40:28_
+_本檔包含 3138 則快訊，約 598147 字_
+
+---
+
+### 2026-08-09 07:39:01  #其他
+
+【高溫乾旱導致河流水位低 德國經濟承壓】近期，受持續高溫乾旱影響，包括萊茵河在內的德國多條主要河流水位持續走低。德國經濟學家和相關機構日前表示，河流水位低會引發供應鏈承壓、物流成本上升、企業減產等一系列連鎖反應。河流水位低或導致今年第三季度德國經濟產出損失10億至20億歐元，並使德國國內生產總值減少0.1%至0.2%。（央視新聞）
+
+---
+
+### 2026-08-09 07:37:56  #市場
+
+【華創證券：7月出口保持高景氣 AI、新能源車、船舶三大鏈條或共同支撐下半年出口維持偏強韌性】華創證券釋出研報稱，7月出口仍然保持高景氣，同比錄得23.9%，1-7月已經達到18.5%。展望後續，出口方面，外需或具韌性，AI、新能源車、船舶三大鏈條或仍具備景氣支撐，或共同支撐下半年出口維持偏強韌性。進口方面，AI鏈條進口受出口帶動或維持偏強，黃金有邊際回落跡象。
+
+---
+
+### 2026-08-09 07:37:33  #央行 #國際
+
+【華創證券：就業資料支援美聯儲繼續按兵不動】華創證券釋出研報稱，就業資料支援美聯儲繼續按兵不動。對美聯儲而言，穩健的就業是關注和決策重心轉向通脹的基石假設，也是在此基礎上，基於對通脹容忍度的差異，導致美聯儲內部分歧加大。而近兩個月的就業持續降溫，轉向“弱而不崩”，支援了繼續按兵不動、等待並觀察通脹繼續回落的合理性，也有利於彌合內部的分歧。目前依然傾向於美聯儲今年可以維持利率不變，類似1997年“預防式加息”的理由並不充分。
+
+---
+
+### 2026-08-09 07:36:13  #國際
+
+【美稱伊朗告知不收霍爾木茲通行費 伊提出通航關鍵條件】當地時間8日，就霍爾木茲海峽通航問題談判進展，伊朗外長阿拉格齊表示，伊朗與阿曼“接近”達成協議，但並不意味著重新開放霍爾木茲海峽。海峽的開放還取決於其他條件，其中包括美方對違反諒解備忘錄作出賠償。另有伊朗官員稱，一旦美國接受伊朗的條件，海峽必將重新開放。同日，阿曼外交部發表宣告稱，海峽通航安排談判在積極氛圍中推進。美副總統萬斯表示，伊朗方面已向美方表示，伊方不計劃對霍爾木茲海峽徵收通行費，並再次強調美國同伊朗正在對話。（央視新聞）
+
+---
+
+### 2026-08-09 07:35:44  #公司 #國際
+
+【國際巨頭，被判超60億元天價罰款】美國新墨西哥州一家法院6日作出裁決，認定美國“元”公司的社交媒體產品構成“公共危害”，應向該州“青少年心理健康基金”支付5.67億美元罰款，並對旗下社交媒體平臺採取整改措施。加上此前判決的3.75億美元罰款，本案賠償總額高達9.42億美元（約合63.5億元人民幣）。新墨西哥州總檢察長託雷斯指控美國“元”公司的社交媒體產品在誘導年輕使用者上癮和保護兒童免受性剝削方面存在問題。裁決認為，社交媒體產品對兒童造成的危害並非僅限於平臺內部，而是延伸至整個網際網路，甚至是現實世界，給受影響的兒童和家庭、學校、醫院和執法機構帶來廣泛的社會負擔與傷害。（央視財經）
+
+---
+
+### 2026-08-09 07:34:18  #國際
+
+【梅德韋傑夫：西方將迎來因試圖摧毀俄羅斯所犯下罪行遭到的報復】俄羅斯聯邦安全委員會副主席德米特里·梅德韋傑夫在接受採訪時表示，西方領導人將因試圖摧毀俄羅斯而犯下罪行遭報復。談及歐洲國家參與調解衝突時，梅德韋傑夫指出，如今西方外交已完全失去信譽，歐洲虛偽的政策正變得更加醜陋。
+
+---
+
+### 2026-08-09 07:32:57  #國際
+
+【拜登癌症又惡化 其子稱癌細胞已擴散到骨骼外】美國前總統拜登的兒子亨特透露，父親的前列腺癌已經擴散至骨骼及其他部位，疼痛難忍。亨特在採訪影片中，提及拜登的病情發展。“癌症已經擴散，轉移到了骨骼和其他部位。他非常痛苦，生活的很多方面都受到嚴重影響。”
+
+---
+
+### 2026-08-09 07:31:40  #其他
+
+【綠電替代與核算認證要齊發力】新能源裝機規模持續擴大，綠電消費加快增長，我國可再生能源發展正步入“擴量提質、可靠替代”的新階段。綠電發出來、用起來只是第一步，還要把來源、數量和綠色價值歸屬搞清楚，讓企業的綠色用能得到認可，讓綠電資源與產業需求跨區域順暢對接，也讓節能降碳成效更好地轉化為市場競爭力。（經濟日報）
+
+---
+
+### 2026-08-09 07:31:06  #公司
+
+【上市公司業績預告折射經濟韌性】近期，A股上市公司上半年業績預告密集披露，為觀察中國經濟提供了重要視窗。業績預告顯示，預披露上市公司總體經營穩健，在培育新質生產力、積蓄髮展新動能方面取得積極成效，彰顯了中國經濟的韌性與活力。（經濟日報）
+
+---
+
+### 2026-08-09 07:30:33  #國際
+
+【美國防部要求美國主要國防企業加緊生產交付關鍵武器系統】據報道，美國國防部二號官員要求美國主要國防企業加緊生產交付關鍵武器系統，伊朗戰爭加劇彈藥短缺與產能缺口，引發新的擔憂。國防部副部長史蒂夫・範伯格表示，國防部計劃加速、增購多款關鍵專案裝備，包括廣域監視裝備、防空感測器與攔截裝置、導彈追蹤系統。他致信波音、洛克希德・馬丁、RTX 等主要軍工企業寫道，長達數年的研發週期已無法接受，必須大幅壓縮專案週期，立刻擴大產能。隨著美軍打擊伊朗、抵禦伊朗無人機與導彈對美軍中東基地的襲擊，外界對美國武器庫存狀況的警示越來越多。唐納德・特朗普總統否認美國彈藥庫存不足，他週四稱美國擁有巨量彈藥，同時警告會懲罰那些宣稱彈藥短缺的人。即便如此，他也承認部分武器系統供應偏緊，美國正在逐日補充，但未給出具體細節。
+
+---
+
+### 2026-08-09 07:27:51  #國際
+
+【經濟日報金觀平：快速響應展示中國製造硬實力】今年夏天，歐洲遭遇罕見高溫天氣，空調製冷需求快速增長。面對突如其來的市場變化，一些中國空調企業迅速調整供應鏈，將部分補貨運輸方式從海運切換成中歐班列，運輸週期從40天壓縮至15天，產品在歐洲銷量顯著增長。一邊是歐洲市場的迫切需求，一邊是中國製造的快速響應，這場跨越亞歐大陸的“雙向奔赴”，不僅展現了中國製造滿足全球需求的綜合能力，也再次說明，在經濟全球化深入發展的今天，開放合作越充分，產業鏈供應鏈越暢通，市場配置資源的效率就越高，各方就越能實現互利共贏。
+
+---
+
+### 2026-08-09 07:26:38  #公司
+
+【青島國測海遙：明年將發射多顆衛星 提供自主資料來源支撐本土演算法迭代】在青島市網信辦組織的媒體調研行活動中獲悉，青島國測海遙資訊科技有限公司計劃發射多顆衛星組建星座，嘗試探索搭建一條覆蓋資料採集、自動處理、智慧解譯到場景應用的一體化時空資料底座平臺。其中，明年一季度計劃發射3顆衛星，發射協議已經簽訂；計劃明年6月發射的一顆衛星已經整裝完成。國測海遙總經理綦春峰介紹，公司發射的單顆衛星成本數千萬元，可以提供自主資料來源，支撐本土演算法迭代。青島國測海遙成立於2016年，專注於商業航天及衛星終端應用服務，在規劃的“10+1”創新型產業體系中，該公司青島市新一代資訊科技產業鏈空天資訊賽道的重點企業之一。
+
+---
+
+### 2026-08-09 07:25:21  #其他
+
+【國際足聯：不支援任何違反章程的主席選舉程序】當地時間8月8日，國際足聯發表宣告稱，呼應南美足聯和非洲足聯近期宣告，以及國際足聯與世界各地成員協會和洲際足聯的討論，國際足聯不會支援、協助或容忍任何不符合國際足聯章程、民主程式及既定治理框架的主席選舉程序。（央視新聞）
+
+---
+
+### 2026-08-09 07:24:22  #其他
+
+關西電力：大飯核電站3號機組因警報觸發停機，周邊區域未發生輻射洩漏。
+
+---
+
+### 2026-08-09 07:22:59  #其他
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、銷量快速增長，租賃成新選擇——體驗式消費帶熱運動相機（高質量發展微視角）；
+2、從供需兩側發力擴大新型消費（專家點評）；
+3、引導全社會優先使用和主動消費可再生能源——不只產得出，更要用得上用得多（政策解讀·問答）；
+4、園區前置技術服務，提供共享實驗室 為生物醫藥企業創新省時省錢（經濟新方位·服務業擴能提質）；
+5、農業農村領域緊抓整治形式主義為基層減負 為持續推動鄉村全面振興提供保障；
+6、江蘇“新”潮湧動製造迭代（活力中國調研行）。
+
+---
+
+### 2026-08-09 07:22:55  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、城市更新記；
+2、人民城市理念的生動實踐（編輯手記）；
+3、前7月進口增速高於出口8個百分點，意味著什麼（讀者點題·共同關注）；
+4、江蘇“新”潮湧動製造迭代（活力中國調研行）；
+5、南水北調中線工程調水超800億立方米。
+
+---
+
+### 2026-08-09 07:22:26  #國際
+
+【貝萊德大佬解讀非農轉負 稱“如今加息已經沒有太大意義”】對於週五美國非農就業資料意外轉負的狀況，貝萊德全球固定收益部門首席投資官裡克·裡德表示，上個月就業資料的超預期疲軟，反映的正是人工智慧時代的“生產率革命”。
+
+---
+
+### 2026-08-09 07:19:22  #其他
+
+馬斯克：這意味著頻寬將超過星鏈V2系統的100倍。
+
+---
+
+### 2026-08-09 07:17:53  #其他
+
+馬斯克：由星艦發射的V3衛星效能將更為強大。
+
+---
+
+### 2026-08-09 07:15:22  #其他
+
+市場訊息： 胡塞武裝近期在葉門中部和東部發起襲擊後，葉門軍方對胡塞武裝實施報復打擊。
+
+---
+
+### 2026-08-09 07:12:10  #國際
+
+【俄稱打擊烏無人機倉庫 烏稱襲擊俄方煉油廠】當地時間8日，俄羅斯國防部通報稱，過去24小時，俄軍在哈爾科夫地區控制了1個定居點，打擊了烏軍使用的交通、能源和物流基礎設施，俄軍還打擊了烏克蘭港口的軍用倉庫和為烏軍運送軍用物資的海上船隻。俄軍防空部隊則攔截了多枚火箭彈、導彈和超過800架無人機。同一天，烏克蘭武裝部隊總參謀部通報稱，烏軍當天凌晨打擊了2座俄方煉油廠。它們分別位於俄羅斯克拉斯諾達爾邊疆區和薩馬拉州。另外，烏軍還打擊了黑海一座俄方自升式鑽井平臺上的一個技術監視哨所。（央視新聞）
+
+---
+
+### 2026-08-09 07:06:39  #其他
+
+SpaceX：獵鷹9號火箭於加利福尼亞發射24顆星鏈衛星。
+
+---
+
+### 2026-08-09 07:06:05  #國際
+
+伊朗革命衛隊德黑蘭穆罕默德·拉蘇魯拉軍團指揮官：美國與以色列針對伊朗的圖謀“徹底失敗”。
 
 ---
 
@@ -18765,113 +18914,5 @@ CUSTOMS: China imported 19.908 mln tonnes of refined petroleum products in Jan-J
 ### 2026-08-07 10:36:59  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China
 
 China exported 64.995 mln tonnes of steel in Jan–Jul, Customs data showed.
-
----
-
-### 2026-08-07 10:36:49  #經濟數據 #中國
-
-中國7月以美元計價進口同比增長27.5%，出口同比增長23.9%。
-
----
-
-### 2026-08-07 10:36:46  #MKT News #Important #CNH #Impact bearish #Copper #Hang Seng Index
-
-China's July trade balance was 767.07 billion yuan, down from 859.05 billion yuan previously.
-
----
-
-### 2026-08-07 10:36:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-China's crude oil imports were 35.726 mln tonnes in July, up from 29.272 mln tonnes in June, Customs said.
-
----
-
-### 2026-08-07 10:36:39  #MKT News
-
-【SK Hynix cash hoard quietly becomes major buyer in Korea bond market】SK Hynix has expanded purchases of South Korea's domestic corporate bonds; credit analysts and market participants estimate this year’s purchases at about 10–40 tln won (~$7–28 bln), with the upper range including commercial paper. A recent job posting for a role to manage, strategize and hedge company funds — including fixed-income investments across government bonds, corporate bonds and short-term debt — signals stepped-up market activity. Cash and cash equivalents stood at 88 tln won at end-Q2, up roughly 62% QoQ; despite higher capex, investable cash continues to accumulate, providing an incremental source of demand in a market usually dominated by institutional investors.
-
----
-
-### 2026-08-07 10:36:36  #MKT News #Economic Calendar #Important
-
-China | Trade Balance in CNY (Jul) | actual 767070000000B | previous 859050000000B
-
----
-
-### 2026-08-07 10:36:34  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH
-
-China July exports YoY 17.8%, down from 20.8% previously.
-
----
-
-### 2026-08-07 10:36:34  #MKT News #Important #Commodities #Industrial Metals
-
-CUSTOMS: China exported 4,223.5 tonnes of rare earths in July, down from 5,104.8 tonnes in June.
-
----
-
-### 2026-08-07 10:36:27  #MKT News #Economic Calendar #Important
-
-China | Exports in CNY (YoY) (Jul) | actual 17.8% | previous 20.80%
-
----
-
-### 2026-08-07 10:36:18  #MKT News #CNH #Impact bearish #Copper #WTI
-
-China July imports YoY 21.2%, down from 29.4% previously.
-
----
-
-### 2026-08-07 10:36:17  #MKT News #Commodities #Energy #WTI #Brent
-
-CUSTOMS: China imported 283.33 mln tonnes of crude oil in Jan–Jul.
-
----
-
-### 2026-08-07 10:36:12  #MKT News #Economic Calendar #Important
-
-China | Imports in CNY (YoY) (Jul) | actual 21.2% | previous 29.40%
-
----
-
-### 2026-08-07 10:36:06  #MKT News #Commodities #Energy
-
-CUSTOMS: China imported 42.728 mln tonnes of coal and lignite in July, down from 42.779 mln tonnes in June.
-
----
-
-### 2026-08-07 10:36:02  #市場
-
-富時中國A50指數期貨上漲1%。
-
----
-
-### 2026-08-07 10:35:54  #MKT News #Commodities #Energy
-
-Customs: China imported 268.109 million tonnes of coal and lignite in Jan–Jul.
-
----
-
-### 2026-08-07 10:35:45  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natural Gas Drops to Over 3-Month Low — US natural gas prices dropped to $2.62 per MMBtu, the lowest level since April, pressured by a larger-than-expected build-up in storage. The EIA report showed energy firms injected 33 bcf of gas into storage in the week ended July 31, exceeding forecasts of a 31 bcf increase, last year’s 13 bcf build, and the five-year average rise of 23 bcf. On top of that, production remained near record highs despite a slight easing, with Lower 48 dry gas output averaging 110.6 bcfd so far in August, compared with a record 110.7 bcfd in July. LNG feedgas demand also continued to weaken, with average flows to the nine major LNG export plants falling to 16.9 bcfd so far this month from 17.2 bcfd in July, due partly to reduced operations at Freeport LNG in Texas and the single operating liquefaction train at Golden Pass. These factors more than offset support from expectations of higher weather-driven demand, with forecasts pointing to mostly above-normal temperatures through August 21.
-
----
-
-### 2026-08-07 10:35:42  #MKT News #Commodities #Industrial Metals
-
-CUSTOMS: China exported 34,706.3 tonnes of rare earths in Jan-Jul.
-
----
-
-### 2026-08-07 10:35:41  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #CNH
-
-Customs: China imported 108.085 mln tonnes of iron ore and concentrates in July, down from 112.689 mln tonnes in June.
-
----
-
-### 2026-08-07 10:35:37  #經濟數據 #中國
-
-【今年前7個月我國民營企業進出口17.16萬億元 增長17.2%】海關統計資料顯示，今年前7個月我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。
 
 ---

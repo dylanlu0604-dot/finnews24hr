@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:02:02_
-_本檔包含 3154 則快訊，約 598121 字_
+_更新時間：2026-08-09 07:40:28_
+_本檔包含 3153 則快訊，約 598091 字_
+
+---
+
+### 2026-08-07 10:36:49  #經濟數據 #中國
+
+中國7月以美元計價進口同比增長27.5%，出口同比增長23.9%。
+
+---
+
+### 2026-08-07 10:36:46  #MKT News #Important #CNH #Impact bearish #Copper #Hang Seng Index
+
+China's July trade balance was 767.07 billion yuan, down from 859.05 billion yuan previously.
+
+---
+
+### 2026-08-07 10:36:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+China's crude oil imports were 35.726 mln tonnes in July, up from 29.272 mln tonnes in June, Customs said.
+
+---
+
+### 2026-08-07 10:36:39  #MKT News
+
+【SK Hynix cash hoard quietly becomes major buyer in Korea bond market】SK Hynix has expanded purchases of South Korea's domestic corporate bonds; credit analysts and market participants estimate this year’s purchases at about 10–40 tln won (~$7–28 bln), with the upper range including commercial paper. A recent job posting for a role to manage, strategize and hedge company funds — including fixed-income investments across government bonds, corporate bonds and short-term debt — signals stepped-up market activity. Cash and cash equivalents stood at 88 tln won at end-Q2, up roughly 62% QoQ; despite higher capex, investable cash continues to accumulate, providing an incremental source of demand in a market usually dominated by institutional investors.
+
+---
+
+### 2026-08-07 10:36:36  #MKT News #Economic Calendar #Important
+
+China | Trade Balance in CNY (Jul) | actual 767070000000B | previous 859050000000B
+
+---
+
+### 2026-08-07 10:36:34  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH
+
+China July exports YoY 17.8%, down from 20.8% previously.
+
+---
+
+### 2026-08-07 10:36:34  #MKT News #Important #Commodities #Industrial Metals
+
+CUSTOMS: China exported 4,223.5 tonnes of rare earths in July, down from 5,104.8 tonnes in June.
+
+---
+
+### 2026-08-07 10:36:27  #MKT News #Economic Calendar #Important
+
+China | Exports in CNY (YoY) (Jul) | actual 17.8% | previous 20.80%
+
+---
+
+### 2026-08-07 10:36:18  #MKT News #CNH #Impact bearish #Copper #WTI
+
+China July imports YoY 21.2%, down from 29.4% previously.
+
+---
+
+### 2026-08-07 10:36:17  #MKT News #Commodities #Energy #WTI #Brent
+
+CUSTOMS: China imported 283.33 mln tonnes of crude oil in Jan–Jul.
+
+---
+
+### 2026-08-07 10:36:12  #MKT News #Economic Calendar #Important
+
+China | Imports in CNY (YoY) (Jul) | actual 21.2% | previous 29.40%
+
+---
+
+### 2026-08-07 10:36:06  #MKT News #Commodities #Energy
+
+CUSTOMS: China imported 42.728 mln tonnes of coal and lignite in July, down from 42.779 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:36:02  #市場
+
+富時中國A50指數期貨上漲1%。
+
+---
+
+### 2026-08-07 10:35:54  #MKT News #Commodities #Energy
+
+Customs: China imported 268.109 million tonnes of coal and lignite in Jan–Jul.
+
+---
+
+### 2026-08-07 10:35:45  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natural Gas Drops to Over 3-Month Low — US natural gas prices dropped to $2.62 per MMBtu, the lowest level since April, pressured by a larger-than-expected build-up in storage. The EIA report showed energy firms injected 33 bcf of gas into storage in the week ended July 31, exceeding forecasts of a 31 bcf increase, last year’s 13 bcf build, and the five-year average rise of 23 bcf. On top of that, production remained near record highs despite a slight easing, with Lower 48 dry gas output averaging 110.6 bcfd so far in August, compared with a record 110.7 bcfd in July. LNG feedgas demand also continued to weaken, with average flows to the nine major LNG export plants falling to 16.9 bcfd so far this month from 17.2 bcfd in July, due partly to reduced operations at Freeport LNG in Texas and the single operating liquefaction train at Golden Pass. These factors more than offset support from expectations of higher weather-driven demand, with forecasts pointing to mostly above-normal temperatures through August 21.
+
+---
+
+### 2026-08-07 10:35:42  #MKT News #Commodities #Industrial Metals
+
+CUSTOMS: China exported 34,706.3 tonnes of rare earths in Jan-Jul.
+
+---
+
+### 2026-08-07 10:35:41  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #CNH
+
+Customs: China imported 108.085 mln tonnes of iron ore and concentrates in July, down from 112.689 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:35:37  #經濟數據 #中國
+
+【今年前7個月我國民營企業進出口17.16萬億元 增長17.2%】海關統計資料顯示，今年前7個月我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。
 
 ---
 
@@ -18931,119 +19039,5 @@ Meta推出首款AI程式設計智慧體，正面挑戰Anthropic與OpenAI。
 ### 2026-08-06 03:08:56  #MKT News
 
 U.S. Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention (CDC).
-
----
-
-### 2026-08-06 03:08:06  #國際
-
-英國外交大臣米利班德： 已與美國國務卿魯比奧就重啟霍爾木茲海峽通航的重要性展開磋商。
-
----
-
-### 2026-08-06 03:06:49  #國際
-
-美國參議院確認 Erica Schwartz 出任疾控中心主任。
-
----
-
-### 2026-08-06 03:03:48  #公司
-
-側重於AI投資的Altimeter跌11%，資料顯示，多家基金公司已經在7月表現慘淡。
-
----
-
-### 2026-08-06 03:02:44  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7495元，較週二夜盤收盤漲15點。成交量337.95億美元。
-
----
-
-### 2026-08-06 03:01:58  #MKT News
-
-Russian President Putin reshuffled military leadership, appointing Denis Lyamin to lead a newly formed Unmanned Systems Force and naming new commanders for front-line operations and military logistics.
-
----
-
-### 2026-08-06 03:01:40  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng futures closed the night session down 0.91% at 25,674, trading 242 points below the spot index.
-
----
-
-### 2026-08-06 03:00:01  #市場
-
-恒指期貨夜盤收跌0.92%，報25671.47點，低水244.35點。
-
----
-
-### 2026-08-06 02:57:41  #國際
-
-伊朗總統：無論我如何思索，都找不到他們殺害我國領袖、指揮官以及科學家的任何合乎邏輯的理由。許多遇害的我方指揮官與科學家，甚至連一處房產都沒有。
-
----
-
-### 2026-08-06 02:55:49  #國際
-
-伊朗總統：國家安全委員會會議遭轟炸後，我身負傷勢，我們仍前去會見最高領袖。在那次會面中，他向我們作出指示，併為我們祈福。
-
----
-
-### 2026-08-06 02:54:49  #MKT News
-
-Blue Origin CEO said the company determined a valve on its BE-4 engine was the cause of the New Glenn explosion in May.
-
----
-
-### 2026-08-06 02:54:42  #MKT News
-
-Iranian president dismissed controversy over the supreme leader's remarks on a ceasefire memorandum, saying they issued a message saying "in principle, I do not approve," but ultimately allowed the process to continue and that actors seeking to create division, exploit differences and advance factional aims have exaggerated the issue.
-
----
-
-### 2026-08-06 02:54:09  #公司
-
-藍色起源執行長戴夫·林普：五月新格倫火箭爆炸事故禍因為BE-4火箭發動機閥門故障。
-
----
-
-### 2026-08-06 02:52:18  #MKT News
-
-【Houthi rebels again claim missile attack on Saudi tanker】Yemeni Houthi forces said on the evening of Aug. 5 they fired missiles at a Saudi tanker in the Gulf of Aden, saying "the missile hit the target, forcing the tanker to turn back." The group said the attack is part of enforcement of a "maritime shipping ban" and of "a blockade in response to blockade," and that it will "continue monitoring all Saudi tankers' movements" and will not allow Saudi tankers to transit the Red Sea north-south route until the blockade is lifted. Earlier the same day the Houthis said they launched a missile strike against a Saudi tanker near the Red Sea port city of Yanbu; Saudi authorities have not confirmed either incident. A Houthi spokesman did not specify the timing of the attacks.
-
----
-
-### 2026-08-06 02:49:49  #MKT News
-
-Iran's president said enemies are uneasy about anything that symbolizes the country's capabilities.
-
----
-
-### 2026-08-06 02:48:01  #國際
-
-路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加310億立方英尺。
-
----
-
-### 2026-08-06 02:47:59  #MKT News #Important
-
-Iran's president says communication with the supreme leader is currently 'very difficult'.
-
----
-
-### 2026-08-06 02:47:19  #其他
-
-【胡塞武裝再稱襲擊沙特油輪】葉門胡塞武裝當地時間8月5日晚表示，在亞丁灣對一艘沙特油輪發射導彈。據稱“導彈擊中目標，迫使該油輪返航”。胡塞武裝在宣告中稱，此次襲擊是執行針對沙特的“海上航運禁令”、落實“以封鎖回應封鎖”措施的一部分。胡塞武裝“將持續監視所有沙特油輪動態，在相關封鎖解除前，不允許沙特油輪經紅海南北航線通行。” 當天早些時候，胡塞武裝還稱對沙特紅海港口城市延布附近的一艘沙特油輪發動導彈襲擊。 沙特方面尚未證實這兩起事件。胡塞武裝發言人未說明襲擊發生的具體時間。（CCTV國際時訊）
-
----
-
-### 2026-08-06 02:46:43  #國際
-
-伊朗總統稱，目前他與伊朗最高領袖的溝通“非常困難”。
-
----
-
-### 2026-08-06 02:44:24  #MKT News
-
-【Bank of Ghana's 2025 gold-buying program lost $1.9bn】An IMF report says the Bank of Ghana's 2025 domestic gold-purchase program lost 220 billion cedi (≈$1.9bn), driven mainly by service fees, assay costs and trading spreads. The government set up GoldBod in 2025 as the sole authorized buyer for artisanal and small-scale miner gold; GoldBod executed purchases using central-bank-provided funds as part of an FX reserve accumulation strategy. The program raised Ghana's international reserves by $3.9bn to $11.9bn at end-2025, but the related losses expanded the central bank's negative net worth to the equivalent of 6.7% of GDP, the IMF said.
 
 ---

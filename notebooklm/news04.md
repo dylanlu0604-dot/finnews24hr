@@ -1,7 +1,90 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:02:02_
-_本檔包含 3311 則快訊，約 597515 字_
+_更新時間：2026-08-09 07:40:28_
+_本檔包含 3322 則快訊，約 598274 字_
+
+---
+
+### 2026-08-04 23:52:32  #MKT News #DAX #Impact bullish #FTSE100 #EURUSD
+
+Stoxx Europe 600 rose 0.7%, closing at its highest level since July 3.
+
+---
+
+### 2026-08-04 23:51:13  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+Marathon Oil (MRO.N) expects more Venezuelan crude to enter the US market, which it says will pressure Western Canadian Select prices.
+
+---
+
+### 2026-08-04 23:50:45  #其他
+
+【葉門政府軍說救起紅海遇襲沉沒貨船上14名船員 】葉門政府軍4日表示，一艘貨船在葉門西部紅海海域被載有爆炸物的船隻襲擊後沉沒，船上14名船員均由政府軍救援。葉門政府下屬的“國家抵抗力量”當天發表宣告說，海岸警衛隊和海軍部隊聯合開展救援行動，在葉門胡塞武裝控制的荷臺達港以南約13海里處，成功救起遭襲貨船“FAIZE NOORE OLIYA”號上的全部船員。（新華社）
+
+---
+
+### 2026-08-04 23:49:27  #公司 #市場
+
+光通訊概念股普遍上漲，其中，光模組與光器件供應商Lumentum漲超10.5%，高意公司/相干公司Coherent重新漲超14%，Applied Optoelectronics漲超20%，Fabrinet漲幅重新擴大至約16%。
+光通訊晶片供應商博通漲超5.2%，邁威爾科技/美滿電子漲約13%，MACOM Technology一度漲超6%，Credo Technology Group重新漲超7%。
+網路裝置與系統供應商思科漲幅重新擴大至4%，Ciena漲幅重新擴大至6.4%。
+光纖纜線與基礎連線供應商康寧公司Corning漲幅重新擴大至6.7%。
+
+---
+
+### 2026-08-04 23:48:03  #其他
+
+【費城半導體指數漲幅擴大至6%】費城半導體指數漲幅擴大至6%，報12117.6點。閃迪漲幅擴大至10.8%，英特爾漲超9%，美光科技、AMD漲超7%，高通漲超6%。
+
+---
+
+### 2026-08-04 23:47:56  #MKT News #Important #Market Themes #Chip Wars #INTC.O #Impact bullish
+
+Intel (INTC.O) extends gains to 10%; Philadelphia Semiconductor Index up 6.2%.
+
+---
+
+### 2026-08-04 23:47:30  #國際
+
+【報道：伊朗考慮允許歐洲在霍爾木茲海峽開展排雷作業】據媒體報道稱伊朗正考慮允許歐洲國家清除霍爾木茲海峽的水雷。此次立場的可能退讓或將成為協議一環，推動該水道航運恢復正常，併為美伊和平談判創造有利條件。
+公開場合，伊朗一再表態，不會允許外國參與這處關鍵航運通道的排雷工作。但多名外交訊息人士透露，在最近數週的閉門會晤中，德黑蘭的態度已經有所軟化。訊息人士稱，歐洲排雷任務落地有兩大前提：伊朗為參與行動的海軍艦艇作出安全承諾，且停火能夠維持；該計劃也並無落地保證。同時行動還必須獲得伊朗實權武裝力量伊斯蘭革命衛隊的同意，正是這支部隊主導了針對海峽過往商船的襲擊。
+一名訊息人士透露，伊朗領導層內部仍存在分歧。伊斯蘭革命衛隊部分成員堅持，應當由伊朗本國、而非他國負責海峽水雷的清除工作。
+
+---
+
+### 2026-08-04 23:46:52  #MKT News #Important #Market Regions #Europe & UK #GBPUSD #Impact bearish
+
+Markets no longer price in a 25bp Bank of England rate hike this year.
+
+---
+
+### 2026-08-04 23:46:46  #央行 #英國央行
+
+交易員不再押注英國央行今年加息25個基點。
+
+---
+
+### 2026-08-04 23:46:01  #MKT News #Commodities #Energy #5020.T #Impact bullish #CVX.O #Impact bearish
+
+Nikkei reports Eneos Holdings plans to raise global growth investment to about 1 trillion yen (~$6.36 billion) after acquiring Chevron's fuels-marketing business in Southeast Asia and Australia.
+
+---
+
+### 2026-08-04 23:45:56  #市場 #焦點
+
+納指漲2.00%，現報26432.288點；道指漲1.63%，現報54046.621點；標普500指數漲1.42%，現報7708.360點。
+
+---
+
+### 2026-08-04 23:45:55  #央行 #其他 #焦點 #國際
+
+交易員不再預計英國央行今年會加息25個基點。
+
+---
+
+### 2026-08-04 23:45:04  #MKT News
+
+【Bookings for cooling routes surge 500%】China's 2026 summer travel season is past its midpoint and has shown a late start followed by stronger late-stage demand. Prolonged high temperatures have pushed passengers toward naturally cooler destinations. Since July, searches for cooling getaways and night tours rose 238% MoM. Nearly half of the 20 routes with the biggest summer ticket booking gains are cooling routes: Wuhu–Guiyang bookings are up 5x; Zhengzhou–Mangshi and Guangzhou–Yanji are up over 3x; Huizhou–Taiyuan bookings are up 2.4x.
 
 ---
 
@@ -19927,17 +20010,5 @@ eBay股價下跌3.5%，此前富國銀行將該股評級從持平下調至減持
 ### 2026-08-03 21:33:47  #MKT News #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish #Brent
 
 【Iran war leaves Belgium fully reliant on Russian LNG in July】Agency-compiled ship-tracking data show Belgium, Europe’s fifth-largest LNG importer last year, relied entirely on Russian LNG imports in July after Middle East fighting sharply reduced supplies to Europe. July LNG inflows to Belgium were down more than 40% YoY; shipments from Russia totaled about 400,000 tonnes. Disruptions to shipping through the Strait of Hormuz have kept gas prices elevated and led many European buyers to defer LNG purchases for winter storage. The reliance highlights a policy tension as the EU has decided to ban Russian LNG imports from next year. Belgium also receives pipeline gas from Norway and the UK.
-
----
-
-### 2026-08-03 21:33:43  #國際
-
-【伊朗戰爭使比利時在7月完全依賴俄羅斯供應的液化天然氣】由於中東戰爭導致對歐洲的供應急劇減少，比利時上個月在液化天然氣進口方面完全依賴俄羅斯。此外，由於霍爾木茲海峽航運受阻導致天然氣價格持續高企，歐洲大多數買家一直推遲購買液化天然氣用於冬季儲備。儘管比利時從俄羅斯進口的液化天然氣數量低於今年早些時候，但這一情況令歐盟能源政策陷入尷尬。此前，歐盟已決定從明年開始禁止進口俄羅斯液化天然氣。據機構彙編的船舶追蹤資料，去年作為歐洲第五大液化天然氣進口國的比利時，7月份液化天然氣進口量同比下降超過40%。資料顯示，該國當月從俄羅斯購買了約40萬噸液化天然氣。此外，比利時還透過管道從挪威和英國獲得天然氣。
-
----
-
-### 2026-08-03 21:33:41  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Gain on Monday — US stocks rose on Monday with support from a rebound in Treasury securities. The S&P 500 rose 0.5%, the Dow added over 600 points, and the Nasdaq inched higher. The US refrained from striking Iran over the weekend and fuel prices pulled back. The moves drove yields to decline across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, Visa, and Goldman Sachs gaining over 1%. Large-cap tech companies also gained, with Amazon soaring 5%. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 4%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow.
 
 ---
