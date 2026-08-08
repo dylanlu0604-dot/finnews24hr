@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 02:51:41_
-_本檔包含 3152 則快訊，約 596639 字_
+_更新時間：2026-08-09 03:38:32_
+_本檔包含 3159 則快訊，約 596971 字_
+
+---
+
+### 2026-08-09 03:36:59  #國際
+
+沙特外交部週六表示，沙烏地阿拉伯對聯合國安理會一份宣告表示歡迎。該宣告譴責胡塞武裝自7月13日起針對沙特的導彈襲擊，以及7月22日以來針對商船的襲擊。
+
+---
+
+### 2026-08-09 03:30:34  #MKT News
+
+USGS reported a magnitude-4.7 earthquake in the Kermadec Islands region with a focal depth of 10 km.
+
+---
+
+### 2026-08-09 03:10:36  #MKT News
+
+Saudi Arabia reiterated firm support for the legitimate Yemeni government.
+
+---
+
+### 2026-08-09 03:10:28  #MKT News #Market Regions #Europe & UK
+
+【Ukraine says it did not intentionally fire any equipment toward Bulgaria】A Ukrainian foreign ministry spokesman said on the 8th Kyiv is in close contact with Bulgarian authorities to determine the circumstances of a drone that crashed in Bulgaria and that Ukraine did not deliberately launch any equipment toward Bulgaria. He said Kyiv is verifying facts and technical details and is willing to cooperate with Bulgarian authorities to clarify the incident.
+
+---
+
+### 2026-08-09 03:09:50  #國際
+
+【烏外交部：烏無意向保加利亞方向發射任何裝備】烏克蘭外交部發言人季希8日表示，烏克蘭方面正與保加利亞保持密切聯絡，以查明當天一架無人機在保加利亞墜落的具體情況。他強調，烏軍沒有蓄意向保加利亞方向發射任何裝備。季希說，烏方正在核實事件的全部情況和相關技術事實，並願與保加利亞方面開展合作，以查明事件細節。
+
+---
+
+### 2026-08-09 03:08:19  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Saudi Arabia urged the international community to take a firm stance against threats to shipping and the security of international trade.
+
+---
+
+### 2026-08-09 03:01:04  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemen's government armed forces said they will respond to Houthi attacks at an appropriate time and place.
+
+---
+
+### 2026-08-09 03:00:58  #MKT News
+
+Yemen's government armed forces said Houthi forces again used ballistic missiles to strike Marib city, surrounding areas and refugee camps.
+
+---
+
+### 2026-08-09 02:59:11  #其他
+
+葉門政府武裝部隊：胡塞武裝再度使用彈道導彈襲擊馬裡卜市、周邊區域以及難民營。
+
+---
+
+### 2026-08-09 02:56:36  #MKT News
+
+CENTCOM said as of Aug. 8 it had intercepted and forced 53 commercial vessels to alter course, with 2 disabled and 2 boarded for inspection. U.S. forces allowed nearly 35 vessels to pass a blockade line for humanitarian relief.
+
+---
+
+### 2026-08-09 02:56:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said the US Navy conducted maintenance on an F/A-18E Super Hornet on the flight deck of the aircraft carrier USS Abraham Lincoln (CVN-72) to keep carrier strike group assets mission‑ready while enforcing a US maritime blockade of Iran.
+
+---
+
+### 2026-08-09 02:54:12  #國際
+
+特朗普：不要再搞虛假的伊朗協議。拿下哈格島，奪取石油，徹底結束戰事！
+
+---
+
+### 2026-08-09 02:52:13  #其他
+
+美軍中央司令部：截至8月8日，美軍中央司令部已迫使53艘商船改道、癱瘓2艘船隻、登船檢查2艘。美軍同時准許近35艘船隻攜帶人道主義援助物資穿越封鎖區域。
 
 ---
 
@@ -18951,41 +19029,5 @@ Philippine GDP Growth Hits Weakest Since 2009 Ex-Covid — The Philippines’ GD
 ### 2026-08-07 10:07:25  #Trading Economics #Markets #Japan #Currency #Importance 1
 
 Yen Retraces Some Intervention Gains — The Japanese yen weakened past 158 per dollar on Friday, surrendering part of the gains sparked by the joint currency intervention by Tokyo and Washington, fueling speculation that authorities may step in again to support the currency. The retreat underscored doubts over the effectiveness of intervention in reversing the yen’s longer-term weakness, which continues to be driven by wide interest rate differentials, growing fiscal concerns, and persistently high energy and import costs. The yen also faced additional pressure from a stronger dollar and rebounding oil prices following renewed tensions in the Strait of Hormuz. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and highlighting continued softness in consumer demand. On the monetary policy front, investors are watching for a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week.
-
----
-
-### 2026-08-07 10:06:51  #公司 #國際
-
-【美將對多晶矽衍生品加徵關稅 引入最低進口價機制】美國白宮6日釋出宣告說，美國總統特朗普當日簽署一份公告，宣佈將對進口多晶矽衍生品加徵15%關稅，並對進口多晶矽及其衍生品設定最低進口價機制。公告說，依據《1962年貿易擴充套件法》第232條款，美方將自美國東部時間2026年12月4日起實施上述措施，以重振美國多晶矽產業。其中，透過引入最低進口價機制，美方將阻止任何價格低於該水平的產品進入美國市場。依據公告，進口多晶矽最低進口價為每公斤21美元，多晶矽錠和晶圓為每公斤100美元，進口太陽能電池和太陽能電池元件最低進口價分別為每瓦特0.22美元和0.38美元。公告說，美國商務部獲得授權設立一項激勵計劃，以推動多晶矽等產品生產“迴流美國”。（新華社）
-
----
-
-### 2026-08-07 10:05:41  #市場 #國際
-
-菲律賓比索持續下跌，此前公佈的第二季度GDP資料不及預期。
-
----
-
-### 2026-08-07 10:04:45  #市場 #焦點
-
-紐約期金突破4320美元/盎司，日內漲0.48%。
-
----
-
-### 2026-08-07 10:04:31  #Trading Economics #Economy #Sri Lanka #Tourist Arrivals #Importance 1
-
-Sri Lanka Tourist Arrivals Extend Decline in July — The number of foreign tourist arrivals in Sri Lanka fell by 1.7% year-on-year to 196,845 in July 2026, following a 9.9% decline in the previous month. This marked the fourth year-on-year monthly decline this year, although arrivals improved from June’s 124,551. India remained the largest source market with 44,547 visitors, accounting for 23% of total arrivals, followed by the United Kingdom (21,834), the Netherlands (12,493), China (12,336), France (10,102 ), and Australia (9,702). Sri Lanka has set an ambitious target of 3 million tourist arrivals for 2026 after falling short of its goal last year. However, tourist arrivals totaled 1,343,418 in the first seven months of 2026, down 1.8% from the same period a year earlier, reflecting weaker arrivals in recent months amid disruptions caused by the Middle East conflict.
-
----
-
-### 2026-08-07 10:04:06  #觀點
-
-【東吳證券：基建物流雙輪驅動東南亞擴容 中國重卡出海進入收穫期】東吳證券釋出研報稱，東南亞經濟態勢向好，受基建投資上行與工業化推進驅動，區域重卡銷量中樞有望持續抬升，中國重卡受益於價效比優勢與 ACFTA/RCEP 關稅下行，疊加當地產能逐步落地，滲透率將持續提升，推薦重卡整車、發動機相關標的。
-
----
-
-### 2026-08-07 10:03:55  #兩會
-
-【河南省政協港澳臺僑和外事委員會原副主任張春香接受紀律審查和監察調查】中央紀委國家監委網站8月7日通報，據河南省紀委監委訊息：河南省政協港澳臺僑和外事委員會原副主任張春香涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
 
 ---

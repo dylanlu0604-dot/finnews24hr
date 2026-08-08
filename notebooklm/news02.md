@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 02:51:41_
-_本檔包含 3156 則快訊，約 596477 字_
+_更新時間：2026-08-09 03:38:32_
+_本檔包含 3140 則快訊，約 596214 字_
+
+---
+
+### 2026-08-07 10:06:51  #公司 #國際
+
+【美將對多晶矽衍生品加徵關稅 引入最低進口價機制】美國白宮6日釋出宣告說，美國總統特朗普當日簽署一份公告，宣佈將對進口多晶矽衍生品加徵15%關稅，並對進口多晶矽及其衍生品設定最低進口價機制。公告說，依據《1962年貿易擴充套件法》第232條款，美方將自美國東部時間2026年12月4日起實施上述措施，以重振美國多晶矽產業。其中，透過引入最低進口價機制，美方將阻止任何價格低於該水平的產品進入美國市場。依據公告，進口多晶矽最低進口價為每公斤21美元，多晶矽錠和晶圓為每公斤100美元，進口太陽能電池和太陽能電池元件最低進口價分別為每瓦特0.22美元和0.38美元。公告說，美國商務部獲得授權設立一項激勵計劃，以推動多晶矽等產品生產“迴流美國”。（新華社）
+
+---
+
+### 2026-08-07 10:05:41  #市場 #國際
+
+菲律賓比索持續下跌，此前公佈的第二季度GDP資料不及預期。
+
+---
+
+### 2026-08-07 10:04:45  #市場 #焦點
+
+紐約期金突破4320美元/盎司，日內漲0.48%。
+
+---
+
+### 2026-08-07 10:04:31  #Trading Economics #Economy #Sri Lanka #Tourist Arrivals #Importance 1
+
+Sri Lanka Tourist Arrivals Extend Decline in July — The number of foreign tourist arrivals in Sri Lanka fell by 1.7% year-on-year to 196,845 in July 2026, following a 9.9% decline in the previous month. This marked the fourth year-on-year monthly decline this year, although arrivals improved from June’s 124,551. India remained the largest source market with 44,547 visitors, accounting for 23% of total arrivals, followed by the United Kingdom (21,834), the Netherlands (12,493), China (12,336), France (10,102 ), and Australia (9,702). Sri Lanka has set an ambitious target of 3 million tourist arrivals for 2026 after falling short of its goal last year. However, tourist arrivals totaled 1,343,418 in the first seven months of 2026, down 1.8% from the same period a year earlier, reflecting weaker arrivals in recent months amid disruptions caused by the Middle East conflict.
+
+---
+
+### 2026-08-07 10:04:06  #觀點
+
+【東吳證券：基建物流雙輪驅動東南亞擴容 中國重卡出海進入收穫期】東吳證券釋出研報稱，東南亞經濟態勢向好，受基建投資上行與工業化推進驅動，區域重卡銷量中樞有望持續抬升，中國重卡受益於價效比優勢與 ACFTA/RCEP 關稅下行，疊加當地產能逐步落地，滲透率將持續提升，推薦重卡整車、發動機相關標的。
+
+---
+
+### 2026-08-07 10:03:55  #兩會
+
+【河南省政協港澳臺僑和外事委員會原副主任張春香接受紀律審查和監察調查】中央紀委國家監委網站8月7日通報，據河南省紀委監委訊息：河南省政協港澳臺僑和外事委員會原副主任張春香涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
 
 ---
 
@@ -18925,137 +18961,5 @@ Iran says it has not yet decided on entering a second phase of talks with the Un
 ### 2026-08-06 01:29:14  #國際
 
 伊朗副外長：新航線的很大一部分位於伊朗領海內，而另一部分位於阿曼領海內。
-
----
-
-### 2026-08-06 01:29:00  #MKT News
-
-U.S. Senator Mark Warner (D) said if Trump and Vance want to crack down on fraud, they should start with the $2.2 billion Trump allegedly pocketed in his first year as president.
-
----
-
-### 2026-08-06 01:27:06  #國際
-
-伊朗副外長：諒解備忘錄包含了指導性原則，但最終結果取決於伊朗與阿曼之間的談判。
-
----
-
-### 2026-08-06 01:24:11  #國際
-
-美國中央司令部：美國持續執行針對伊朗的封鎖行動。截至8月5日，中央司令部部隊已驅離48艘商船，使2艘船舶失去行動能力，並登船檢查2艘。
-
----
-
-### 2026-08-06 01:24:05  #MKT News #Brent #Impact bullish #WTI
-
-CENTCOM said as of Aug 5 US forces had altered the routes of 48 commercial vessels, rendered two vessels inoperable, and boarded and inspected two others.
-
----
-
-### 2026-08-06 01:23:37  #焦點 #國際
-
-伊朗副外長：地區國家已接受伊朗和阿曼就霍爾木茲海峽達成諒解協議。
-
----
-
-### 2026-08-06 01:21:53  #國際
-
-伊朗副外長：目前達成的共識是一個新的模式，它考慮了周邊安全環境以及應規範霍爾木茲海峽的安排。
-
----
-
-### 2026-08-06 01:19:38  #國際
-
-伊朗副外長：與阿曼的新諒解備忘錄代表了霍爾木茲海峽安排的新模式，與過去60年採用的模式不同。
-
----
-
-### 2026-08-06 01:17:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's Channel 14 reports Prime Minister Netanyahu and Defense Minister Katz will hold talks later to discuss how to respond to Hezbollah.
-
----
-
-### 2026-08-06 01:16:46  #央行 #國際
-
-週三（8月5日），美聯儲隔夜逆回購協議（RRP）使用規模為16.50億美元（交易對手2家），上個交易日報22.51億美元。
-
----
-
-### 2026-08-06 01:16:38  #MKT News
-
-The Federal Reserve accepted $1.65bn from two counterparties in fixed-rate reverse-repo operations.
-
----
-
-### 2026-08-06 01:15:38  #國際
-
-以色列總理內塔尼亞胡：以色列的生存不容談判，無論（美伊）是否達成協議。
-
----
-
-### 2026-08-06 01:14:39  #MKT News
-
-Iran's deputy foreign minister said Iran and Oman have discussed creating a joint navigation management center in the Strait of Hormuz.
-
----
-
-### 2026-08-06 01:13:39  #MKT News
-
-GFZ revised the magnitude of an earthquake on Halmahera Island, Indonesia, down from 5.8 to 5.3.
-
----
-
-### 2026-08-06 01:12:38  #國際
-
-伊朗副外長稱近日未與美國舉行任何會談。
-
----
-
-### 2026-08-06 01:12:35  #MKT News #Important
-
-Iran's deputy foreign minister said there have been no recent negotiations with the United States.
-
----
-
-### 2026-08-06 01:10:34  #國際
-
-伊朗副外長：我們目前與阿曼所做的工作，涉及有關霍爾木茲海峽應遵循的路徑。
-
----
-
-### 2026-08-06 01:10:25  #MKT News #WTI #Impact bearish #Brent
-
-Iran's deputy foreign minister said the US signaled in communications that it is ready to return to its commitments.
-
----
-
-### 2026-08-06 01:09:10  #焦點 #國際
-
-伊朗：美國在（最新）訊息中表示願意履行自身承諾。
-
----
-
-### 2026-08-06 01:08:26  #國際
-
-伊朗媒體：伊朗收到來自美國的資訊。
-
----
-
-### 2026-08-06 01:07:56  #焦點 #國際
-
-伊朗副外長：新一輪衝突爆發大約四至五天後，美國傳遞資訊，請求開展談判、解決相關問題。任何涉及霍爾木茲海峽的協議都應當僅限於伊朗與阿曼之間達成。我們不會接受任何外部勢力干涉霍爾木茲海峽事務。新協議落地後，霍爾木茲海峽現行臨時航道將會關閉。船舶進出伊朗領海的大部分航線都將行經該水域。
-
----
-
-### 2026-08-06 01:07:41  #MKT News
-
-Iran's deputy foreign minister said about 4-5 days after the new round of conflict began, the United States sent messages requesting negotiations to resolve related issues.
-
----
-
-### 2026-08-06 01:07:27  #國際
-
-伊朗副外長：美國同樣對伊朗實施了新制裁，並停止了關於釋放伊朗凍結資金的談判。
 
 ---

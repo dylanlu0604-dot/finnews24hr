@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 02:51:41_
-_本檔包含 3398 則快訊，約 596821 字_
+_更新時間：2026-08-09 03:38:32_
+_本檔包含 3418 則快訊，約 597282 字_
+
+---
+
+### 2026-08-06 01:29:00  #MKT News
+
+U.S. Senator Mark Warner (D) said if Trump and Vance want to crack down on fraud, they should start with the $2.2 billion Trump allegedly pocketed in his first year as president.
+
+---
+
+### 2026-08-06 01:27:06  #國際
+
+伊朗副外長：諒解備忘錄包含了指導性原則，但最終結果取決於伊朗與阿曼之間的談判。
+
+---
+
+### 2026-08-06 01:24:11  #國際
+
+美國中央司令部：美國持續執行針對伊朗的封鎖行動。截至8月5日，中央司令部部隊已驅離48艘商船，使2艘船舶失去行動能力，並登船檢查2艘。
+
+---
+
+### 2026-08-06 01:24:05  #MKT News #Brent #Impact bullish #WTI
+
+CENTCOM said as of Aug 5 US forces had altered the routes of 48 commercial vessels, rendered two vessels inoperable, and boarded and inspected two others.
+
+---
+
+### 2026-08-06 01:23:37  #焦點 #國際
+
+伊朗副外長：地區國家已接受伊朗和阿曼就霍爾木茲海峽達成諒解協議。
+
+---
+
+### 2026-08-06 01:21:53  #國際
+
+伊朗副外長：目前達成的共識是一個新的模式，它考慮了周邊安全環境以及應規範霍爾木茲海峽的安排。
+
+---
+
+### 2026-08-06 01:19:38  #國際
+
+伊朗副外長：與阿曼的新諒解備忘錄代表了霍爾木茲海峽安排的新模式，與過去60年採用的模式不同。
+
+---
+
+### 2026-08-06 01:17:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Israel's Channel 14 reports Prime Minister Netanyahu and Defense Minister Katz will hold talks later to discuss how to respond to Hezbollah.
+
+---
+
+### 2026-08-06 01:16:46  #央行 #國際
+
+週三（8月5日），美聯儲隔夜逆回購協議（RRP）使用規模為16.50億美元（交易對手2家），上個交易日報22.51億美元。
+
+---
+
+### 2026-08-06 01:16:38  #MKT News
+
+The Federal Reserve accepted $1.65bn from two counterparties in fixed-rate reverse-repo operations.
+
+---
+
+### 2026-08-06 01:15:38  #國際
+
+以色列總理內塔尼亞胡：以色列的生存不容談判，無論（美伊）是否達成協議。
+
+---
+
+### 2026-08-06 01:14:39  #MKT News
+
+Iran's deputy foreign minister said Iran and Oman have discussed creating a joint navigation management center in the Strait of Hormuz.
+
+---
+
+### 2026-08-06 01:13:39  #MKT News
+
+GFZ revised the magnitude of an earthquake on Halmahera Island, Indonesia, down from 5.8 to 5.3.
+
+---
+
+### 2026-08-06 01:12:38  #國際
+
+伊朗副外長稱近日未與美國舉行任何會談。
+
+---
+
+### 2026-08-06 01:12:35  #MKT News #Important
+
+Iran's deputy foreign minister said there have been no recent negotiations with the United States.
+
+---
+
+### 2026-08-06 01:10:34  #國際
+
+伊朗副外長：我們目前與阿曼所做的工作，涉及有關霍爾木茲海峽應遵循的路徑。
+
+---
+
+### 2026-08-06 01:10:25  #MKT News #WTI #Impact bearish #Brent
+
+Iran's deputy foreign minister said the US signaled in communications that it is ready to return to its commitments.
+
+---
+
+### 2026-08-06 01:09:10  #焦點 #國際
+
+伊朗：美國在（最新）訊息中表示願意履行自身承諾。
+
+---
+
+### 2026-08-06 01:08:26  #國際
+
+伊朗媒體：伊朗收到來自美國的資訊。
+
+---
+
+### 2026-08-06 01:07:56  #焦點 #國際
+
+伊朗副外長：新一輪衝突爆發大約四至五天後，美國傳遞資訊，請求開展談判、解決相關問題。任何涉及霍爾木茲海峽的協議都應當僅限於伊朗與阿曼之間達成。我們不會接受任何外部勢力干涉霍爾木茲海峽事務。新協議落地後，霍爾木茲海峽現行臨時航道將會關閉。船舶進出伊朗領海的大部分航線都將行經該水域。
+
+---
+
+### 2026-08-06 01:07:41  #MKT News
+
+Iran's deputy foreign minister said about 4-5 days after the new round of conflict began, the United States sent messages requesting negotiations to resolve related issues.
+
+---
+
+### 2026-08-06 01:07:27  #國際
+
+伊朗副外長：美國同樣對伊朗實施了新制裁，並停止了關於釋放伊朗凍結資金的談判。
 
 ---
 
@@ -20479,17 +20611,5 @@ Israeli tanks reportedly fired toward an area northwest of Beit Lahia in the nor
 ### 2026-08-04 23:17:46  #Trading Economics #Economy #Colombia #Exports YoY #Importance 1
 
 Colombia Export Growth Slows in June — Colombia's exports rose 7% year-on-year to USD 4.23 billion in June 2026, easing from a 19.2% increase in May and marking the lowest level since the start of the year. The increase was driven by a 17.1% rise in exports of fuels and extractive industries, which accounted for 42.6% of total shipments, supported by a 17.6% increase in oil and petroleum products, although crude oil export volumes edged up just 0.2% to 13.5 million barrels. Manufactured exports increased 2.4%, led by an 18.7% rise in chemical products. In contrast, agricultural and food exports, which represented 25.8% of total exports, declined 10.8%, weighed by lower shipments of cut flowers and foliage (-22.7%) and unroasted coffee (-12.7%).
-
----
-
-### 2026-08-04 23:16:23  #公司 #市場
-
-【SpaceX財報釋出前夕 航天概念股普漲】在馬斯克旗下SpaceX公佈上市以來首份財報前夕，火箭、衛星及其他航天概念股週二普遍上漲。航天與國防公司Voyager Technologies表現最佳，此前該公司上調全年營收預期，股價上漲25%。加拿大航天科技公司MDA Space上漲14%，此前Telesat宣佈擴大其Lightspeed低軌衛星星座部署，Telesat股價上漲25%。Intuitive Machines上漲7%，此前L3Harris選擇該公司建造航天器平臺。衛星網際網路公司AST SpaceMobile上漲8.8%。
-
----
-
-### 2026-08-04 23:16:05  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
-
-European Stocks Reach Record High on Earnings, AI Gains — European stocks climbed to fresh record highs on Tuesday, supported by strong corporate earnings, AI-related shares, and improving global risk sentiment. The Euro Stoxx 50 rose 1% to 6,490, while the STOXX 600 gained 0.7% to 657. A sharp drop in oil prices, driven by optimism over Middle East peace negotiations, further lifted equities by easing inflation concerns and reducing expectations of tighter monetary policy. AI-related stocks led gains after Palantir raised its revenue outlook, with BE Semiconductor jumping 7.6% after a Berenberg upgrade, while ASML and Infineon gained 3.4% and 3.2%, respectively. Among earnings movers, Bayer rose 2.9% after beating quarterly estimates. BP fell 4.6% as lower oil prices overshadowed stronger-than-expected earnings, while HSBC slipped 0.2% despite solid results. Zalando tumbled 11.7% after cutting full-year guidance, Lufthansa lost 9% after lowering its outlook, and Hugo Boss was little changed despite reporting sharp declines in sales and EBIT.
 
 ---

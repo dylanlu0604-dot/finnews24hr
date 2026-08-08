@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 02:51:41_
-_本檔包含 2836 則快訊，約 596537 字_
+_更新時間：2026-08-09 03:38:32_
+_本檔包含 2830 則快訊，約 596064 字_
+
+---
+
+### 2026-08-03 21:14:31  #公司 #國際
+
+泰森食品執行長在電話會議上表示，美國恢復從墨西哥進口牛肉的決定不會對截至9月的本財年造成重大影響。
+
+---
+
+### 2026-08-03 21:14:29  #市場 #焦點
+
+現貨黃金失守4040美元/盎司，日內跌0.17%。
+
+---
+
+### 2026-08-03 21:14:16  #市場
+
+弗格森企業（FERGUSON ENTERPRISES INC）：弗格森納入標普500®指數。
+
+---
+
+### 2026-08-03 21:14:02  #公司 #國際
+
+【航運資料公司：霍爾木茲海峽通航仍受限制，地緣博弈加劇航運風險】航運資料公司Kpler最新資料顯示，儘管霍爾木茲海峽和曼德海峽的航運活動仍在維持，但兩條關鍵水道目前均面臨較高的地緣政治風險。在伊朗、美國及阿曼等各方外交訊號趨於一致之前，航運運營商需將上述海域視為潛在衝突區域，保持高度警惕。資料顯示，在霍爾木茲海峽，近期共有7艘船隻選擇經由伊朗水域通行，但均未遵循國際通行的航道分流方案，顯示出該水域通航秩序的脆弱性。在曼德海峽，航運活躍度出現明顯下滑，近期僅錄得30艘船隻透過，較7月31日的41艘顯著減少。
+
+---
+
+### 2026-08-03 21:14:00  #市場
+
+鈀金期貨日內跌3%，現報1242.89美元/盎司。
+
+---
+
+### 2026-08-03 21:13:32  #公司
+
+【5年期大額存單“限量”迴歸 額度緊俏】去年年底，為了降低負債成本、緩解淨息差收窄壓力，各家銀行紛紛“下架”5年期大額存單產品。但在今年夏天，沉寂了大半年的5年期大額存單正在“限量”迴歸。目前，這些存單線上線下額度持續緊俏。記者走訪多家股份制銀行網點發現，長期大額存單產品線上額度一投放就被快速認購，線下網點也迎來不少儲戶諮詢辦理。某股份制銀行客戶經理介紹：“要是3年期的話估計是有額度的，但是要是買5年期的話，週末可能沒有額度了。”目前，國有大行5年期存單封頂1.6%，起購金額為20萬元；股份制銀行同類產品利率最高可達1.8%，兩者均高於同期限普通定期存款利率。業內認為，此番5年期大額存單集中迴歸，並不代表長期限存款產品的全面放開，更多是銀行在多重因素下，採取的階段性、結構性攬儲策略。對於普通儲戶而言，專家建議長短搭配、分層佈局，在穩健保值與靈活週轉之間找到平衡。（央視財經）
+
+---
+
+### 2026-08-03 21:12:17  #MKT News #Important
+
+【Iran reportedly rejects U.S. proposal on Strait of Hormuz】Al Mayadeen, citing an unnamed Iranian source, reports Tehran has rejected the latest U.S. proposal and will not fully reopen the Strait of Hormuz until the war ends. The source also said Washington has conceded on closing the Strait’s southern shipping lane. These claims have not been independently verified.
 
 ---
 
@@ -17047,83 +17089,5 @@ Iran's foreign minister warned in separate calls with Turkey's foreign minister 
 ### 2026-08-02 03:41:39  #國際
 
 【伊朗外交部：將持續抵禦美以聯盟，全力捍衛國家安全】伊朗外交部週六警告地區各國，切勿允許美國與以色列利用其領土或設施發起針對伊朗的襲擊，並表示德黑蘭方面將會打擊發動此類襲擊的地點。伊朗外交部稱：“我方英勇武裝力量的防禦性打擊行動正在全力持續推進。”外交部提及的背景包括：伊朗港口與商業航運遭遇海上封鎖、伊朗境內遭受襲擊、所承受的經濟施壓不斷升級，以及各類非法威脅。
-
----
-
-### 2026-08-02 03:37:28  #其他
-
-秘魯發生觀光飛機墜毀事故，造成13人死亡。
-
----
-
-### 2026-08-02 03:29:39  #國際
-
-俄羅斯宣佈：莫斯科市及周邊地區將禁止加密貨幣挖礦，禁令有效期至2032年。
-
----
-
-### 2026-08-02 03:25:14  #國際
-
-伊朗外交部：面對美以敵方的侵略行為，伊朗將動用一切必要手段，捍衛自身權利、利益與國家安全，行使合法自衛權。
-
----
-
-### 2026-08-02 03:16:39  #MKT News #WJA.TO #Impact bearish
-
-Public Service Alliance of Canada (PSAC) said WestJet flight attendants have issued a 72-hour strike notice. WestJet subsequently issued a 72-hour work-stoppage notice.
-
----
-
-### 2026-08-02 03:14:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry warned that if the U.S. continues to violate the June 28 ceasefire agreement — including a maritime blockade of Iran's ports and commercial shipping, attacks across the country, and intensified economic pressure and illegal threats — Iran's armed forces will continue defensive strikes at full force.
-
----
-
-### 2026-08-02 03:12:51  #央行 #國際
-
-市場資訊：市場預期美聯儲將在下次聯邦公開市場委員會（FOMC）會議上加息。
-
----
-
-### 2026-08-02 03:11:13  #MKT News #DXY #Impact bearish #Brent #XAUUSD
-
-Ukrainian President Zelenskiy said he spoke by phone with the UAE president to discuss Emirati support in Europe, particularly the Black Sea, focusing on food security, maritime-route safety and measures to strengthen Ukraine’s life‑protection capabilities. They also reviewed multiple bilateral cooperation projects and are working to ensure those projects are implemented.
-
----
-
-### 2026-08-02 03:08:29  #其他
-
-加拿大公共僱員工會：西捷航空空乘人員已發出72小時罷工通知。西捷航空隨後發出72小時停工通知。
-
----
-
-### 2026-08-02 03:05:22  #公司 #國際
-
-英偉達向Reflection AI投資8億美元，並推動其成長為美國開源人工智慧領域的領軍企業。但時隔近一年，這家初創公司尚未推出任何模型。
-
----
-
-### 2026-08-02 03:04:38  #MKT News
-
-Sky News reported Ukrainian President ZELENSKIY thanked the United Arab Emirates president for continued diplomatic efforts to facilitate prisoner exchanges between Russia and Ukraine.
-
----
-
-### 2026-08-02 03:04:09  #MKT News
-
-Sky News said the UAE president phoned Ukrainian President Zelenskiy to discuss latest developments in the Ukraine crisis and steps to strengthen bilateral cooperation.
-
----
-
-### 2026-08-02 02:55:51  #市場 #國際
-
-特朗普在“真實社交”平臺釋出一張圖表，宣稱其正在“重創伊朗貨幣”。圖表資料顯示，2025年1月至2026年7月期間，伊朗里亞爾兌美元匯率從90萬里亞爾兌換1美元，貶值至190萬里亞爾兌換1美元。
-
----
-
-### 2026-08-02 02:53:17  #其他
-
-在大量移民從摩洛哥越境、造成至少67人遇難事件發生後，西班牙在休達近海佈設了一道500米長的海上浮動隔離屏障。
 
 ---
