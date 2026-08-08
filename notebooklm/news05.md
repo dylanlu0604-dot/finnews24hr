@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 05:58:42_
-_本檔包含 2828 則快訊，約 597474 字_
+_更新時間：2026-08-09 06:42:14_
+_本檔包含 2831 則快訊，約 597629 字_
+
+---
+
+### 2026-08-03 21:31:54  #MKT News #GME.N #Impact bearish
+
+GameStop (GME.N) fell 7.5% as a $1.4 billion debt-for-equity transaction could dilute existing shareholders.
+
+---
+
+### 2026-08-03 21:31:42  #公司 #市場
+
+英泰格控股股價上漲3%，此前其二季度利潤超出市場預期；KKR將以57億美元收購該公司。
+
+---
+
+### 2026-08-03 21:31:39  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+U.S. stocks opened higher on Monday, Aug. 3: Dow Jones Industrial Average up 597.54 points, or 1.14%, at 53,082.57; S&P 500 up 33.28 points, or 0.44%, at 7,523.08; Nasdaq Composite up 60.01 points, or 0.24%, at 25,433.87.
+
+---
+
+### 2026-08-03 21:31:17  #公司 #焦點
+
+亞馬遜市值首次突破3萬億美元。
+
+---
+
+### 2026-08-03 21:31:09  #市場
+
+標普500指數開盤上漲0.4%，納斯達克100指數基本持平。
+
+---
+
+### 2026-08-03 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指齊漲】道指漲1.08%，標普500指數漲0.44%，納指漲0.37%。Builders FirstSource漲4.98%，挪威郵輪漲4.21%，聯合大陸航空漲4.19%，Pool Corporation漲3.87%，科斯塔漲3.82%，APP AppLovin漲3.79%。“七姐妹”方面：微軟漲3.05%，亞馬遜漲2.88%，谷歌漲2.01%，Meta Platforms漲1.27%，蘋果漲0.85%，特斯拉漲0.53%，英偉達跌1.29%。
+
+---
+
+### 2026-08-03 21:30:44  #市場
+
+SPORTRADAR股價下跌20%，至2024年9月以來的最低水平。
+
+---
+
+### 2026-08-03 21:30:38  #MKT News #Important #Star Stocks #Alibaba #BABA.N #Impact bullish #MU.O #Impact bearish #SNDK.O
+
+U.S. stocks opened higher: Dow Jones Industrial Average +0.52%, S&P 500 +0.33%, Nasdaq Composite +0.30%. Alibaba (BABA.N) rose 3.5% after releasing its Qianwen 3.8-MAX AI model. SpaceX (SPCX.O) fell 3.0%. Storage names lagged: Micron Technology (MU.O) and SanDisk (SNDK.O) each declined 5.0%.
 
 ---
 
@@ -17047,35 +17095,5 @@ A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at lea
 ### 2026-08-02 06:47:45  #國際
 
 以色列官員稱，特朗普即將做出是否對伊朗發動大規模襲擊的決定，美軍已處於最高戰備狀態。不過這名官員著重強調，華盛頓方面尚未作出最終決定。
-
----
-
-### 2026-08-02 06:35:39  #其他
-
-英國海上貿易行動組織（UKMTO）週六通報：一艘油輪遇襲，另有訊息稱阿曼附近霍爾木茲海峽內另一艘船舶周邊發生爆炸。兩起事件暫無人員傷亡報告。
-
----
-
-### 2026-08-02 06:26:13  #其他
-
-委內瑞拉過渡談判將於下週啟動線下會談。
-
----
-
-### 2026-08-02 06:11:43  #其他
-
-香港天文臺釋出黃色暴雨警告。
-
----
-
-### 2026-08-02 06:08:18  #國際
-
-特朗普在社交媒體釋出合成圖，畫面呈現成年特朗普與就讀紐約軍事學院、17 歲少年時期的自己同框。
-
----
-
-### 2026-08-02 06:03:44  #MKT News #Commodities #Energy #Market Regions #Europe & UK
-
-【Hungary shuts its only nuclear plant for first time due to drought】Hungary will shut its only nuclear plant, Paks, after Danube water levels fell below the minimum needed to cool its four reactors. One of the two operating units will stop at 01:30 local time on Sunday and the remaining unit later that day. The 44-year-old Paks plant, south of Budapest, will remove more than 40% of the country’s generation capacity and may force Hungary to rely more on costly power imports. Prime Minister magyar said sustained low river levels could keep roughly 2,000 MW of Paks capacity offline for weeks, adding pressure to the power system as Central Europe faces a new heatwave.
 
 ---

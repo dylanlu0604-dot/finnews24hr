@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 05:58:42_
-_本檔包含 3151 則快訊，約 597078 字_
+_更新時間：2026-08-09 06:42:14_
+_本檔包含 3149 則快訊，約 596958 字_
+
+---
+
+### 2026-08-07 10:34:56  #Trading Economics #Economy #Philippines #GDP Growth Rate #Importance 0
+
+Philippine Economy Grows 0.6% QoQ — The Philippine economy expanded 0.6% quarter-on-quarter in Q2 2026, below market expectations and Q1’s 0.9% growth. Among the major sectors, agriculture, forestry, and fishing posted the fastest growth at 2.7%, followed by services at 1.3%. Meanwhile, industry contracted 1.8%, primarily driven by declines in construction and mining and quarrying. Education; wholesale and retail trade; repair of motor vehicles and motorcycles; and public administration and defense were the top contributors to overall GDP growth. On the expenditure side, household consumption grew 0.8%.
 
 ---
 
@@ -19009,23 +19015,5 @@ Iran's president says communication with the supreme leader is currently 'very d
 ### 2026-08-06 02:44:24  #MKT News
 
 【Bank of Ghana's 2025 gold-buying program lost $1.9bn】An IMF report says the Bank of Ghana's 2025 domestic gold-purchase program lost 220 billion cedi (≈$1.9bn), driven mainly by service fees, assay costs and trading spreads. The government set up GoldBod in 2025 as the sole authorized buyer for artisanal and small-scale miner gold; GoldBod executed purchases using central-bank-provided funds as part of an FX reserve accumulation strategy. The program raised Ghana's international reserves by $3.9bn to $11.9bn at end-2025, but the related losses expanded the central bank's negative net worth to the equivalent of 6.7% of GDP, the IMF said.
-
----
-
-### 2026-08-06 02:43:13  #市場
-
-布倫特原油期貨收於每桶79.45美元，上漲9美分，漲幅0.11%。
-
----
-
-### 2026-08-06 02:40:52  #MKT News
-
-Iran's president said adversaries attempted to impose on Iran the same fate as Syria through war and sanctions, and that the Iranian people's resilience and determination have thwarted those plots.
-
----
-
-### 2026-08-06 02:40:14  #MKT News
-
-【Mass shooting at North Carolina residence leaves multiple dead and injured, SBI says】A mass shooting at a residence in Caswell County, North Carolina, on Aug. 5 left multiple people dead and injured, the North Carolina State Bureau of Investigation (SBI) said. County officers who responded to a morning call found several gunshot victims; one was taken to hospital in unknown condition and several others were dead. SBI said the public is not at risk and the incident was confined to the residence.
 
 ---

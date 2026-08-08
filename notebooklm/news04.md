@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 05:58:42_
-_本檔包含 3327 則快訊，約 597371 字_
+_更新時間：2026-08-09 06:42:14_
+_本檔包含 3321 則快訊，約 597123 字_
+
+---
+
+### 2026-08-04 23:42:22  #公司
+
+【蘋果公司請求法官即刻禁止OpenAI使用其商業秘密】蘋果公司在指控OpenAI有組織竊取其將釋出產品的資訊案中再次出擊，請求聯邦法官立即下令這家人工智慧企業停止使用它所指的被竊商業秘密。該公司尋求法庭頒令，要求OpenAI歸還所有機密資訊，並停止任何獲取其它非公開資訊的企圖。蘋果要求該命令在訴訟進行期間持續有效。“如果蘋果的商業秘密被OpenAI使用和傳播，或者被嵌入其產品和運營中，造成的損害將無法挽回，” 該公司的律師週二在一份動議中表示。
+
+---
+
+### 2026-08-04 23:42:19  #MKT News
+
+【Hainan launches level-4 flood and wind emergency response】Hainan Provincial Disaster Prevention and Relief Committee has launched a level-4 flood and wind emergency response. Meteorological forecasts say a monsoon trough will bring heavy rain from the night of the 4th through daytime of the 5th. Parts of Ledong, Sanya, Baoting, Dongfang, Wuzhishan, Lingshui and Changjiang are expected to receive 80–150 mm; parts of Wanning, Qiongzhong, Danzhou, Baisha, Lingao, Tunchang, Haikou and Wenchang 50–80 mm.
 
 ---
 
@@ -19987,53 +19999,5 @@ Bristol-Myers Squibb (BMY.N) rose 3.7% as it negotiates a potential merger with 
 ### 2026-08-03 21:32:02  #公司 #市場
 
 阿里巴巴在美上市股票在公司公佈全新人工智慧模型後上漲3.7%。
-
----
-
-### 2026-08-03 21:31:54  #MKT News #GME.N #Impact bearish
-
-GameStop (GME.N) fell 7.5% as a $1.4 billion debt-for-equity transaction could dilute existing shareholders.
-
----
-
-### 2026-08-03 21:31:42  #公司 #市場
-
-英泰格控股股價上漲3%，此前其二季度利潤超出市場預期；KKR將以57億美元收購該公司。
-
----
-
-### 2026-08-03 21:31:39  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-U.S. stocks opened higher on Monday, Aug. 3: Dow Jones Industrial Average up 597.54 points, or 1.14%, at 53,082.57; S&P 500 up 33.28 points, or 0.44%, at 7,523.08; Nasdaq Composite up 60.01 points, or 0.24%, at 25,433.87.
-
----
-
-### 2026-08-03 21:31:17  #公司 #焦點
-
-亞馬遜市值首次突破3萬億美元。
-
----
-
-### 2026-08-03 21:31:09  #市場
-
-標普500指數開盤上漲0.4%，納斯達克100指數基本持平。
-
----
-
-### 2026-08-03 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲1.08%，標普500指數漲0.44%，納指漲0.37%。Builders FirstSource漲4.98%，挪威郵輪漲4.21%，聯合大陸航空漲4.19%，Pool Corporation漲3.87%，科斯塔漲3.82%，APP AppLovin漲3.79%。“七姐妹”方面：微軟漲3.05%，亞馬遜漲2.88%，谷歌漲2.01%，Meta Platforms漲1.27%，蘋果漲0.85%，特斯拉漲0.53%，英偉達跌1.29%。
-
----
-
-### 2026-08-03 21:30:44  #市場
-
-SPORTRADAR股價下跌20%，至2024年9月以來的最低水平。
-
----
-
-### 2026-08-03 21:30:38  #MKT News #Important #Star Stocks #Alibaba #BABA.N #Impact bullish #MU.O #Impact bearish #SNDK.O
-
-U.S. stocks opened higher: Dow Jones Industrial Average +0.52%, S&P 500 +0.33%, Nasdaq Composite +0.30%. Alibaba (BABA.N) rose 3.5% after releasing its Qianwen 3.8-MAX AI model. SpaceX (SPCX.O) fell 3.0%. Storage names lagged: Micron Technology (MU.O) and SanDisk (SNDK.O) each declined 5.0%.
 
 ---

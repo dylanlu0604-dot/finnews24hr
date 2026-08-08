@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 05:58:42_
-_本檔包含 3128 則快訊，約 598218 字_
+_更新時間：2026-08-09 06:42:14_
+_本檔包含 3135 則快訊，約 598399 字_
+
+---
+
+### 2026-08-09 06:41:14  #國際
+
+以色列部隊以坦克火力打擊北拉法地區。
+
+---
+
+### 2026-08-09 06:26:54  #Trading Economics #Markets #India #Earnings #Importance 0
+
+Titan Company earnings above expectations at 19.97 INR — Titan Company (TTAN) released earnings per share at 19.97 INR, compared to market expectations of 15.37 INR.
+
+---
+
+### 2026-08-09 06:26:52  #Trading Economics #Markets #India #Earnings #Importance 0
+
+State Bank of India earnings above expectations at 22.89 INR — State Bank of India (SBIN) released earnings per share at 22.89 INR, compared to market expectations of 19.27 INR.
+
+---
+
+### 2026-08-09 06:16:05  #公司 #國際
+
+市場資訊：格陵蘭島向美國格陵蘭能源公司發出 “強烈警告”，這家與特朗普存在關聯的石油公司未經許可就將鑽井裝置運抵岸上。
+
+---
+
+### 2026-08-09 06:14:34  #其他
+
+國際足聯：存在明顯的持續行動意圖破壞國際足聯主席的公信力，意見分歧不能成為蓄意破壞主席（公信力）的藉口，機構仍將專注於自身使命。
+
+---
+
+### 2026-08-09 06:09:18  #國際
+
+美國五角大樓致函防務企業，要求擴大武器生產，限防務企業不超過21天提交擴產方案。
+
+---
+
+### 2026-08-09 06:05:23  #其他
+
+中央氣象臺8月9日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-08-09 06:00:41  #MKT News
+
+An IRGC commander said the US and Israel have completely failed to achieve their objectives against Iran's Islamic system, and their leaders have offered no response to successive failures when facing public opinion, elites and their own people.
 
 ---
 
@@ -18837,11 +18885,5 @@ China July imports in USD terms rose 27.5% YoY, vs 27.7% est; June +36.0%.
 ### 2026-08-07 10:34:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
 
 US 10-Year Treasury Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.68% on Friday after rising more than 5 basis points in the previous session, as investors awaited the closely watched July jobs report for fresh clues on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Additionally, Treasury yields were supported by a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns about inflation and the interest rate outlook.
-
----
-
-### 2026-08-07 10:34:56  #Trading Economics #Economy #Philippines #GDP Growth Rate #Importance 0
-
-Philippine Economy Grows 0.6% QoQ — The Philippine economy expanded 0.6% quarter-on-quarter in Q2 2026, below market expectations and Q1’s 0.9% growth. Among the major sectors, agriculture, forestry, and fishing posted the fastest growth at 2.7%, followed by services at 1.3%. Meanwhile, industry contracted 1.8%, primarily driven by declines in construction and mining and quarrying. Education; wholesale and retail trade; repair of motor vehicles and motorcycles; and public administration and defense were the top contributors to overall GDP growth. On the expenditure side, household consumption grew 0.8%.
 
 ---
