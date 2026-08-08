@@ -1,6 +1,255 @@
 {
-  "updated": "2026-08-08 07:04:19",
+  "updated": "2026-08-09 07:02:01",
   "items": [
+    {
+      "id": "20260809",
+      "date": "2026-08-09",
+      "range_start": "2026-08-08 07:00:00",
+      "range_end": "2026-08-09 07:00:00",
+      "generated_at": "2026-08-09 07:02:01",
+      "schema_version": 7,
+      "count": 22,
+      "headline": "美聯儲關注通膨放緩，其他主要央行無重大政策更新",
+      "central_banks": [
+        {
+          "id": "fed",
+          "name": "美國聯準會 Fed",
+          "status": "追蹤中",
+          "officials": [
+            {
+              "official": "沃許",
+              "venue": "來源未提供具體場合",
+              "analysis": "沃許過去15年一直批評美聯儲，現身為主席正在經歷由批評者轉變為領導者的角色轉換，其風格較為審慎，不回應問題，反映新領導層內斂做法。此態度可能影響市場對政策透明度的預期。庫克面對政治風波和總統卸職挑戰，維持法律抗辯態度，其政治壓力對其政策角色可能帶來不確定性。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "來源未提供具體場合，發言為公開評論及法律動態相關內容。"
+                },
+                {
+                  "title": "個人背景與角色轉變",
+                  "text": "沃許身為Fed主席，經歷從批評者到領導者的角色轉變，表現出較強沉默應對策略。"
+                },
+                {
+                  "title": "政策立場與溝通態度",
+                  "text": "沃許放棄直接回應市場疑問，顯示對未來貨幣政策調整態度謹慎審慎。"
+                },
+                {
+                  "title": "政治壓力情況",
+                  "text": "庫克面臨總統再度嘗試解職的政治壓力，抵抗指控並強調無合法理由解除職務。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "內部領導風格轉變與政治事件可能影響未來政策透明度及市場信心。"
+                },
+                {
+                  "title": "就業與通膨資料觀察",
+                  "text": "7月非農就業意外下滑，加上CPI預計小幅上升，顯示通膨壓力有所緩和，對Fed加息節奏造成疑問。"
+                },
+                {
+                  "title": "政策時點判斷",
+                  "text": "近期市場對9月加息的機率降低，反映數據及Fed領導態度影響短期政策預期。"
+                }
+              ]
+            }
+          ],
+          "expectations": [
+            "美國利率期貨市場顯示9月加息機率下降，定價預測截至年底加息幅度約28個基點，低於非農資料前的32個基點。",
+            "市場普遍關注非農就業數據疲弱及通膨走軟可能減緩Fed貨幣緊縮步伐的風險。"
+          ],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "ecb",
+          "name": "歐洲央行 ECB",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boe",
+          "name": "英國央行 BoE",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boj",
+          "name": "日本央行 BoJ",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rba",
+          "name": "澳洲聯儲 RBA",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "boc",
+          "name": "加拿大央行 BoC",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "rbi",
+          "name": "印度央行 RBI",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "bcb",
+          "name": "巴西央行 BCB",
+          "status": "無重大事件",
+          "officials": [],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        },
+        {
+          "id": "snb",
+          "name": "瑞士央行 SNB",
+          "status": "無重大事件",
+          "officials": [
+            {
+              "official": "喬丹",
+              "venue": "來源未提供具體場合",
+              "analysis": "喬丹當日無公開政策發言或正式活動記錄，缺乏直接驗證的聲明。風險事件有限，政策立場未有更新。市場上亦無其直接評論資料。此狀況顯示瑞士央行保持謹慎觀望態度。 喬丹發言受限於資料缺乏，限制政策動向評估。市場反應依舊穩定，無額外波動。該情況與外部經濟事件無明顯直接聯動。",
+              "details": [
+                {
+                  "title": "發言時間與場合",
+                  "text": "來源未提供具體場合，無公開記錄。此為判讀當日直接發言的根據。"
+                },
+                {
+                  "title": "政策立場",
+                  "text": "未見瑞士央行當日有任何貨幣政策調整或公開評論。"
+                },
+                {
+                  "title": "通膨及經濟見解",
+                  "text": "當天無具體通膨或經濟數據解讀發言。維持既有評估。"
+                },
+                {
+                  "title": "政策含意",
+                  "text": "缺乏新訊號，顯示央行暫維持現行政策框架。"
+                },
+                {
+                  "title": "市場解讀",
+                  "text": "市場維持瑞郎走勢穩定，未見明顯波動。相關風險事件有限。"
+                },
+                {
+                  "title": "資料限制",
+                  "text": "因缺少具體發言，無法進一步拆解政策方向。"
+                },
+                {
+                  "title": "背景脈絡",
+                  "text": "瑞士經濟環境穩定，近期無突發事件促使政策變動。"
+                }
+              ]
+            }
+          ],
+          "expectations": [],
+          "reports": [],
+          "policy_release": {
+            "has_release": false,
+            "summary": "",
+            "decision": [],
+            "statement": [],
+            "economic_view": [],
+            "forward_guidance": [],
+            "press_conference": [],
+            "market_reaction": []
+          }
+        }
+      ]
+    },
     {
       "id": "20260808",
       "date": "2026-08-08",
@@ -7822,267 +8071,6 @@
                 {
                   "title": "資料限制",
                   "text": "資料不足，無官方決議與記者會內容。分析有限。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        }
-      ]
-    },
-    {
-      "id": "20260719",
-      "date": "2026-07-19",
-      "range_start": "2026-07-18 07:00:00",
-      "range_end": "2026-07-19 07:00:00",
-      "generated_at": "2026-07-19 07:01:59",
-      "schema_version": 7,
-      "count": 19,
-      "headline": "歐洲央行觀望調整，美聯準會無決議，全球市場謹慎氛圍",
-      "central_banks": [
-        {
-          "id": "fed",
-          "name": "美國聯準會 Fed",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [
-            "截至7月17日當周，美國商業銀行存款規模減少740億美元，降至19.361萬億美元，或反映短期波動，市場解讀此為銀行體系資金流動變化跡象。",
-            "最新勞工數據顯示長期失業人口近200萬，佔總失業人數27.3%，此增幅反映就業市場結構性放緩，但整體失業率仍維持低位，顯示勞動市場韌性強。"
-          ],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "ecb",
-          "name": "歐洲央行 ECB",
-          "status": "追蹤中",
-          "officials": [
-            {
-              "official": "拉加德",
-              "venue": "來源未提供具體場合",
-              "analysis": "拉加德就歐洲央行當前政策立場表達維持高度警戒以應對可能加息的決心，反映面對地緣政治風險，央行保持謹慎且數據依賴的態度。此言論強化市場對央行未來加息路徑的敏感度。此立場意味著央行仍視通膨風險為重要考量，準備根據最新經濟情勢調整政策。分析指出，拉加德語氣顯露務實與靈活性兼具，希望穩健因應能源價格及區域安全的不確定性。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文未交代確切日期，為近日官方公開場合發言，場合未提供具體名稱。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "拉加德明確表態歐洲央行準備根據數據變化決定下一步行動，尤其是在能源價格及地緣政治狀況影響下。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "維持加息戒備狀態，但短期內暫時不調整利率，凸顯央行對通膨升溫風險的重視。"
-                },
-                {
-                  "title": "政策背景",
-                  "text": "此言論符合歐洲央行6月加息後的策略，反映央行仍未排除9月加息可能。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場解讀為央行採取謹慎等待態度，利率政策短期偏中性但不排除鷹派調整。"
-                },
-                {
-                  "title": "通膨判斷",
-                  "text": "拉加德指出近期通膨降溫好於預期，但仍面臨不確定能源價格與地緣政治挑戰。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "原文未提供完整經濟數據細節，限制全面判斷央行展望強度。"
-                },
-                {
-                  "title": "金融穩定觀點",
-                  "text": "未涉及銀行信貸調查完整結果，但暗示信貸狀況尚穩。"
-                },
-                {
-                  "title": "政策時點",
-                  "text": "接近7月下旬貨幣政策決議日，央行待最新數據評估。"
-                }
-              ]
-            }
-          ],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "boe",
-          "name": "英國央行 BoE",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "boj",
-          "name": "日本央行 BoJ",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "rba",
-          "name": "澳洲聯儲 RBA",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "boc",
-          "name": "加拿大央行 BoC",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "rbi",
-          "name": "印度央行 RBI",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "bcb",
-          "name": "巴西央行 BCB",
-          "status": "追蹤中",
-          "officials": [],
-          "expectations": [],
-          "reports": [],
-          "policy_release": {
-            "has_release": false,
-            "summary": "",
-            "decision": [],
-            "statement": [],
-            "economic_view": [],
-            "forward_guidance": [],
-            "press_conference": [],
-            "market_reaction": []
-          }
-        },
-        {
-          "id": "snb",
-          "name": "瑞士央行 SNB",
-          "status": "追蹤中",
-          "officials": [
-            {
-              "official": "喬丹",
-              "venue": "來源未提供具體場合",
-              "analysis": "喬丹多次發言強調貨幣政策靈活性與對金融穩定關注，對當前金融市場動盪提出評估，反映央行致力維護經濟穩定。其言論體現政策審慎立場，提醒市場注重不確定風險。分析認為喬丹的信息透露瑞士央行將密切追蹤全球經濟與匯率動態，必要時調整政策措施。該立場維持中性偏謹慎基調。",
-              "details": [
-                {
-                  "title": "發言時間與場合",
-                  "text": "原文未明確指出，基於最近公開聲明整理，並無具體場合說明。"
-                },
-                {
-                  "title": "可驗證原文重點",
-                  "text": "喬丹強調貨幣政策須靈活應對外部衝擊，重視國際不確定性帶來的金融風險。"
-                },
-                {
-                  "title": "政策含義",
-                  "text": "保持政策彈性，表明如有需要不排除採取因應措施，維持貨幣政策中性立場。"
-                },
-                {
-                  "title": "市場解讀",
-                  "text": "市場視為穩健謹慎的表態，短期內政策不會激進變動。"
-                },
-                {
-                  "title": "金融穩定觀點",
-                  "text": "指出金融市場動盪可能加劇，需要密切監控銀行體系及資產價格。"
-                },
-                {
-                  "title": "資料限制",
-                  "text": "原文未披露具體政策調整細節，限制對短期操作的判斷。"
-                },
-                {
-                  "title": "通膨判斷",
-                  "text": "未具體提及通膨數據，無法解讀是否轉趨鷹派。"
-                },
-                {
-                  "title": "政策時點",
-                  "text": "發言時間靠近7月中旬，為政策檢視期重要參考資訊。"
                 }
               ]
             }
