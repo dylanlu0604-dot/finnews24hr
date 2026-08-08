@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 01:08:50",
-  "count": 15852,
+  "updated": "2026-08-09 01:12:41",
+  "count": 15855,
   "items": [
+    {
+      "id": "5032077",
+      "time": "2026-08-09 01:08:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍中央司令部司令訪以期間將商討加沙戰事轉入第二階段相關事宜。"
+    },
+    {
+      "id": "mkt:019fe259-16da-7aab-8fc5-6a31b350c041",
+      "time": "2026-08-09 01:08:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: CENTCOM commander will discuss the second-phase transition in Gaza during a visit to Israel."
+    },
+    {
+      "id": "mkt:019fe258-f4a5-7aab-8fc5-60c56dcc53c8",
+      "time": "2026-08-09 01:08:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM commander has arrived in Israel and will meet with senior Israeli military officials."
+    },
     {
       "id": "5032076",
       "time": "2026-08-09 01:07:56",
