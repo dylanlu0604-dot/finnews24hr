@@ -1,7 +1,29 @@
 {
   "date": "2026-08-08",
-  "count": 464,
+  "count": 466,
   "items": [
+    {
+      "id": "mkt:019fdec1-197d-7aab-8fc1-d4e4f322bbf5",
+      "time": "2026-08-08 08:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon-Israel talks in Rome make progress on border, detainee releases】The Lebanese presidential office said on the 7th that Lebanon and Israel's recent talks in Rome made progress on border delimitation and the release of detained individuals. Citing President Aoun at a cabinet meeting, the statement said the round addressed ceasefire arrangements, border issues, detainee release and troop withdrawals from \"pilot areas.\" Parties achieved \"positive progress\" on border matters and detainee releases, with related measures expected shortly. Remaining issues include a ceasefire and the \"pilot areas.\""
+    },
+    {
+      "id": "mkt:019fdec0-681b-7aab-8fc1-c9640f872a9e",
+      "time": "2026-08-08 08:22:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Witnesses reported multiple loud explosions in Kyiv, Ukraine's capital."
+    },
     {
       "id": "5031736",
       "time": "2026-08-08 08:18:56",

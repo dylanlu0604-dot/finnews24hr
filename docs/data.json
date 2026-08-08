@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-08 08:21:50",
-  "count": 15972,
+  "updated": "2026-08-08 08:25:38",
+  "count": 15971,
   "items": [
+    {
+      "id": "mkt:019fdec1-197d-7aab-8fc1-d4e4f322bbf5",
+      "time": "2026-08-08 08:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon-Israel talks in Rome make progress on border, detainee releases】The Lebanese presidential office said on the 7th that Lebanon and Israel's recent talks in Rome made progress on border delimitation and the release of detained individuals. Citing President Aoun at a cabinet meeting, the statement said the round addressed ceasefire arrangements, border issues, detainee release and troop withdrawals from \"pilot areas.\" Parties achieved \"positive progress\" on border matters and detainee releases, with related measures expected shortly. Remaining issues include a ceasefire and the \"pilot areas.\""
+    },
+    {
+      "id": "mkt:019fdec0-681b-7aab-8fc1-c9640f872a9e",
+      "time": "2026-08-08 08:22:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Witnesses reported multiple loud explosions in Kyiv, Ukraine's capital."
+    },
     {
       "id": "5031736",
       "time": "2026-08-08 08:18:56",
@@ -145523,31 +145545,6 @@
         "其他"
       ],
       "text": "上海市氣象臺2026年08月01日08時20分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。"
-    },
-    {
-      "id": "5020096",
-      "time": "2026-08-01 08:25:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾里爾斯克鎳業上半年EBITDA達39.4億美元，同比增長50%】據週五釋出的宣告，諾里爾斯克鎳業（Norilsk Nickel）公佈上半年EBITDA（息稅折舊攤銷前利潤）為39.4億美元，同比增長50%。公司營收為83.0億美元，同比增長28%，EBITDA利潤率達到47%。上半年資本支出為14.0億美元，自由現金流為11.5億美元，淨債務為90.0億美元。"
-    },
-    {
-      "id": "5020095",
-      "time": "2026-08-01 08:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際人士：日本強化國家情報體制令人擔憂】日本政府7月31日正式設立“國家情報局”，旨在強化情報收集與分析能力。“情報先行”是日本發動侵略戰爭的一貫套路，國際人士表示，日本在二戰時期曾透過情報操控與輿論統治等手段實行殘酷殖民統治，日本政府如今再次強化國家情報體制，令人十分擔憂。（央視新聞）"
-    },
-    {
-      "id": "em:qqyh_mlc:202608013828979572",
-      "time": "2026-08-01 08:22:26",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美媒：美聯儲主席考慮減少每年議息會議頻次】美國媒體7月31日援引知情人士的話報道說，美國聯邦儲備委員會主席凱文·沃什正在考慮減少每年常規貨幣政策會議（即議息會議）召開頻次。"
     }
   ]
 }
