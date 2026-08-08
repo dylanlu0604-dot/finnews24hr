@@ -1,7 +1,53 @@
 {
   "date": "2026-08-09",
-  "count": 108,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:019fe361-12d6-7aab-8fc6-eb419789c50e",
+      "time": "2026-08-09 05:56:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Palestinian sources said Israeli forces shelled the northern Gaza Strip."
+    },
+    {
+      "id": "5032115",
+      "time": "2026-08-09 05:56:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大一省進入緊急狀態應對野火災情】加拿大不列顛哥倫比亞省政府8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的野火災情。不列顛哥倫比亞省省長戴維·伊比在溫哥華舉行的新聞釋出會上說：“目前狀況非常危險，火勢蔓延迅速且隨時發生變化。”他表示，政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中通道撤離受困民眾。（新華社）"
+    },
+    {
+      "id": "mkt:019fe360-79e0-7aab-8fc6-e08e448e4b0b",
+      "time": "2026-08-09 05:56:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Phase I of Bohai 19-6 gas field, Bohai's first 100-bln-m3-class field, enters full production】CNOOC said on Aug 9 Phase I of the Bohai 19-6 gas field in the central Bohai Sea has been fully commissioned, producing more than 5,200 tonnes oil-equivalent per day. The field has proven gas geological reserves exceeding 200 bln m3 and proven liquid hydrocarbon reserves over 200 mln m3. Reservoirs lie deeper than 5,000m, with wide distribution and complex reservoir types, making development significantly harder than conventional offshore fields."
+    },
+    {
+      "id": "mkt:019fe360-1411-7aab-8fc6-dc254f1dea18",
+      "time": "2026-08-09 05:55:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Report: CENTCOM commander visits Israel to discuss 'multi‑front situation'】Israel Public Broadcasting reported that U.S. Central Command (CENTCOM) commander Brad Cooper arrived in Israel for a short visit to meet IDF Chief of Staff Zamir and other senior commanders to assess the \"multi‑front situation\" and discuss Gaza. The report said U.S. forces remain on high alert across the Middle East, with dozens of air‑refuellers, fighters, air‑defence systems and thousands of U.S. troops deployed in Israel."
+    },
+    {
+      "id": "5032114",
+      "time": "2026-08-09 05:55:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國渤海首個千億方大氣田Ⅰ期開發專案全面投產】今天（8月9日），記者從中國海油獲悉，我國渤海首個千億方大氣田——渤中19-6氣田Ⅰ期開發專案全面投產，日產油氣當量超5200噸。專案投產對最佳化區域能源結構、助力經濟社會高質量發展具有重要意義。渤中19-6氣田位於渤海中部海域，探明天然氣地質儲量超2000億立方米、探明石油液體地質儲量超2億立方米。氣田埋藏深度超過5000米，油氣藏分佈範圍廣、儲層型別複雜，開發難度遠超常規海上油氣田。（央視新聞）"
+    },
     {
       "id": "5032113",
       "time": "2026-08-09 05:51:51",
