@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-08 08:02:39",
-  "count": 15984,
+  "updated": "2026-08-08 08:06:29",
+  "count": 15979,
   "items": [
+    {
+      "id": "5031729",
+      "time": "2026-08-08 08:05:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭宣佈對俄羅斯實施進一步制裁。"
+    },
+    {
+      "id": "5031728",
+      "time": "2026-08-08 08:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱向關鍵礦產投資30億美元】美國總統特朗普當地時間8月7日宣佈，聯邦政府將向多個關鍵礦產和電池專案投資30億美元，旨在增加美國國內產量，並以此推動國家安全與產業政策。分析指出，特朗普政府現正急需關鍵礦產，來補充在與伊朗衝突中消耗的武器庫存。特朗普在美國國務院舉行的一場圓桌會議上對數百名礦業高管、教育工作者、投資者及政界人士表示：“我們正在奪回美國作為世界礦產超級大國的應有地位。”他在講話中宣佈了一系列投資專案，包括美國國防部向生產鋰離子電池部件的美國西拉奈米技術公司提供的14億美元有條件貸款，向鈧礦商日昇能源金屬公司提供的4億美元有條件貸款，向尼倫磁鐵公司提供的1.5億美元有條件貸款。美國進出口銀行將向多家公司提供貸款。此外，美國能源部、國防部將提供1.8億美元撥款，以幫助加強美國礦業教育。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5031727",
+      "time": "2026-08-08 08:03:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英特爾任命Dean Jarnac為首席銷售官】當地時間8月7日，英特爾宣佈任命Dean Jarnac為執行副總裁兼首席銷售官，負責領導公司的全球銷售組織，推動客戶關係建設及產品市場拓展，覆蓋客戶端、資料中心、人工智慧、網路及ASIC等業務領域。作為此次管理層調整的一部分，英特爾現任首席營收官Greg Ernst將在任職27年後離開公司。"
+    },
+    {
+      "id": "5031726",
+      "time": "2026-08-08 08:03:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【黎巴嫩：黎以談判在邊界問題等方面取得進展】黎巴嫩總統府7日發表宣告說，黎巴嫩和以色列日前在義大利首都羅馬舉行的談判在邊界問題和被扣押人員獲釋方面取得進展。宣告援引黎總統奧恩在內閣會議上的講話稱，本輪談判圍繞停火、邊界問題、被扣押人員獲釋以及“試點區域”撤軍相關問題等議題展開。雙方在邊界問題和被扣押人員獲釋方面的討論取得“積極進展”，相關措施有望近期出臺。相關方將著手解決停火、“試點區域”問題等剩餘議題。“試點區域”機制源於今年6月底黎巴嫩、以色列和美國達成的三方框架協議。根據協議設想，以軍將從黎南部部分地區撤出，由黎軍隊接管當地安全事務。（新華社）"
+    },
     {
       "id": "5031725",
       "time": "2026-08-08 07:55:21",
@@ -145601,85 +145634,6 @@
         "Importance 1"
       ],
       "text": "South Korea Import Growth Remains Solid — South Korea’s imports rose 26.5% year-on-year in July 2026, slowing from a 30.0% surge in the prior month and roughly in line with market forecasts of 26.6%, flash data showed. It marked the ninth consecutive month of import growth, supported by resilient domestic demand as concerns over trade disruptions stemming from the Middle East conflict eased."
-    },
-    {
-      "id": "5020086",
-      "time": "2026-08-01 08:06:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【53.2萬億元！香港人民幣清算量創紀錄 離岸市場功能加速升級】香港離岸人民幣市場正在迎來新變化。資料顯示，香港6月人民幣清算量升至53.2萬億元，創歷史紀錄，在港結算規模首次超過港元和美元。此外，香港離岸人民幣存款於5月底達到1.13萬億元歷史高位，人民幣債券發行量年內同比增長33%。多位受訪專家認為，清算量、存款和債券發行同步增長，意味著香港離岸人民幣市場功能正在從貿易結算進一步向融資、投資和資產配置延伸。人民幣國際化也正從“使用場景擴大”，逐步走向“金融功能增強”。（上海證券報）"
-    },
-    {
-      "id": "5020085",
-      "time": "2026-08-01 08:06:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事穆薩萊姆：債券拋售潮對美聯儲的信譽發出警告。"
-    },
-    {
-      "id": "5020084",
-      "time": "2026-08-01 08:05:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科技股上演反攻行情 重倉基金大面積“回血”】7月31日，經過近一個月的回撥，在外圍市場的帶動下以AI為代表的科技股集體反彈，多隻科技ETF單日漲幅超過9%，重倉科技的主動權益基金大面積“回血”。多位受訪基金經理表示，當下的反彈可以視為市場從“過度悲觀定價”向“階段性重新均衡定價”的修正過程，能否進一步演化為持續行情，仍需後續盤面與資金行為繼續驗證。另外，雖然絕大多數基金經理依然看好AI產業鏈的長期趨勢，但從“集中”向“均衡”的配置思路正進一步凝聚共識，市場風格的K形分化或有望進一步收斂。（上海證券報）"
-    },
-    {
-      "id": "mkt:019fbaa2-0ed3-7aab-8f3e-73101bc3b9bf",
-      "time": "2026-08-01 08:03:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea preliminary July trade surplus $30.32 bln vs. est. $29.59 bln; June surplus revised to $36.088 bln from $36.149 bln."
-    },
-    {
-      "id": "mkt:019fbaa1-d6e0-7aab-8f3e-6e3d1fb17897",
-      "time": "2026-08-01 08:03:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Trade Balance Flash (Jul) | actual 30320000000B | consensus 29589999999.999996B | previous 36149000000B"
-    },
-    {
-      "id": "mkt:019fbaa1-d0d4-7aab-8f3e-6520d5c15be3",
-      "time": "2026-08-01 08:03:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea July imports YoY +26.5% vs 26.6% expected; June revised to +30.0% from +30.1%."
-    },
-    {
-      "id": "mkt:019fbaa1-a20e-7aab-8f3e-5aa8027288cd",
-      "time": "2026-08-01 08:03:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Imports (YoY) (Jul) | actual 26.5% | consensus 26.6% | previous 30.10%"
-    },
-    {
-      "id": "mkt:019fbaa1-a1ef-7aab-8f3e-527478db3381",
-      "time": "2026-08-01 08:03:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea July exports YoY 62.8% vs. consensus 59.0%; June revised to 70.7% from 70.9%."
-    },
-    {
-      "id": "mkt:019fbaa1-808d-7aab-8f3e-4c0d56b1b69f",
-      "time": "2026-08-01 08:02:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Exports (YoY) (Jul) | actual 62.8% | consensus 59.00% | previous 70.90%"
     }
   ]
 }
