@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-08 15:29:34",
-  "count": 15854,
+  "updated": "2026-08-08 15:33:38",
+  "count": 15855,
   "items": [
+    {
+      "id": "5031849",
+      "time": "2026-08-08 15:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京昆高速廣綿段擴容工程主線路面貫透過半】8月7日，隨著最後一段瀝青路面完成攤鋪，由中鐵五局承建的京昆高速廣（元）綿（陽）段擴容工程主線路面63.879公里順利貫通，標誌著該段主線路面貫透過半。廣綿高速擴容專案全長約124公里，是國家“十縱十橫”綜合運輸大通道首都放射線G5京昆高速的關鍵段落，也是四川省北上出川的核心通道。（新華社）"
+    },
+    {
+      "id": "5031848",
+      "time": "2026-08-08 15:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍發言人： 不久前，由於本雅明地區Ofra定居點疑似遭到滲透，國防軍應用程式上觸發了警報。"
+    },
+    {
+      "id": "5031847",
+      "time": "2026-08-08 15:28:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯國防部：俄武裝力量夜間對基輔的軍工企業和燃油庫發動打擊】俄羅斯國防部通報稱，俄武裝力量夜間對基輔的一處軍工企業和燃油倉庫發動了叢集打擊。"
+    },
     {
       "id": "5031846",
       "time": "2026-08-08 15:25:44",
@@ -144444,27 +144468,6 @@
         "Energy"
       ],
       "text": "An Indian Oil Corp top executive said the company set August aviation turbine fuel (ATF) at 115 rupees per litre, up 5 rupees from July."
-    },
-    {
-      "id": "5020294",
-      "time": "2026-08-01 15:32:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司高管表示，該公司將國內航空公司8月航空燃油價格定為每升115盧比，較7月上調5盧比每升。"
-    },
-    {
-      "id": "mkt:019fbc3b-6422-7aab-8f40-eaacb60ca1f4",
-      "time": "2026-08-01 15:30:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "According to Iran's Fars News Agency, an Iranian military spokesman said new UAVs have been commissioned and that details will be released in coming days; he said their range is sufficient to cover Israeli territory."
     }
   ]
 }
