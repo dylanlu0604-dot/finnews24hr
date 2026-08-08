@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 19:36:10_
-_本檔包含 3106 則快訊，約 595713 字_
+_更新時間：2026-08-08 19:56:15_
+_本檔包含 3108 則快訊，約 595605 字_
+
+---
+
+### 2026-08-08 19:53:11  #國際
+
+【敘利亞過渡政府部隊遭襲致1死2傷】當地時間8日，敘過渡政府國防部訊息稱，敘過渡政府部隊當天在敘東部代爾祖爾省遭到不明身份武裝人員襲擊，導致一名士兵死亡，兩人受傷。（央視新聞）
+
+---
+
+### 2026-08-08 19:51:33  #宏觀 #焦點 #國際
+
+【8月8日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】完善全民健身公共服務體系 讓發展成果惠及全體人民； 2.【樹立和踐行正確政績觀】堅持民生優先 推動學習教育成果落到實處； 3.上半年我國經營主體結構持續最佳化； 4.上半年我國醫藥工業創新加速突破； 5.全國用電負荷創新高 電力保供積極應對； 6.【一線調研】軌道串起消費新活力； 7.暑期研學遊升溫 在旅途中增長知識； 8.颱風“白海豚”逼近 各地加強防範； 9.國內聯播快訊： （1）上半年國內居民出遊人次達34.63億； （2）《全國幸福河湖建設專案實施方案（2026—2028年）》釋出； （3）《民用航空發展“十五五”規劃》釋出； （4）“義新歐”中歐班列今年出口超10萬標箱； 10.移民問題引發分歧 西班牙出臺針對義大利反制措施； 11.伊朗稱與阿曼已明確霍爾木茲海峽協議的總體框架 美媒稱美軍高層尋求退出伊朗戰爭； 12.沙特土耳其巴基斯坦簽署共同防務協議； 13.國際聯播快訊： （1）日本食品自給率跌至歷史最低水平； （2）持續乾旱致美最大水庫水位降至歷史最低。
+
+---
+
+### 2026-08-08 19:46:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Analyst: Recent Houthi strike raises risk of wider Yemen war】Elisabeth Kendall, head of Girton College, Cambridge and Middle East expert, said Thursday’s Houthi missile and drone strike on government military targets in Yemen — the first of its kind in years — killed at least 30 government soldiers and wounded 15 and is likely to push the conflict into a wider war. She said the 2022 ceasefire has effectively expired, recent troop movements and clashes show all warning signs of escalation, and that the internationally recognized government’s forces are more unified after January’s fighting and subsequent integration efforts.
+
+---
+
+### 2026-08-08 19:39:58  #國際
+
+【武契奇會見澤連斯基 就經貿等領域合作交換意見】當地時間8月8日，塞爾維亞總統武契奇在貝爾格萊德會見到訪的烏克蘭總統澤連斯基。雙方就經貿、能源、農業、基礎設施和安全等領域的合作交換意見。（央視新聞）
+
+---
+
+### 2026-08-08 19:39:15  #公司
+
+【阿聯酋稱該國一船隻在霍爾木茲海峽遭襲】據阿聯酋通訊社8月8日報道，阿布扎比國家石油公司證實，該公司一艘船隻當天凌晨在透過霍爾木茲海峽時遭導彈襲擊。阿布扎比國家石油公司說，襲擊未造成人員受傷，目前局面可控。該公司並未提供遭襲船隻具體型別、導彈來源以及船隻受損情況等更多細節。（新華社）
 
 ---
 
@@ -18694,23 +18724,5 @@ Taiwan Weighted Index opened 386.97 points higher, up 0.87%, at 44,783.67 on Fri
 ### 2026-08-07 09:00:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
 
 Shanghai Gold Exchange gold T+D opened down 0.45% at 919.83 yuan/gram on Aug. 7; silver T+D opened down 1.12% at 14,977 yuan/kg.
-
----
-
-### 2026-08-07 09:00:46  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Rebounds — US heating oil futures rose above $3.90 per gallon on Friday, rebounding from an over three-week low, as renewed strikes in the Strait of Hormuz dimmed hopes for a gradual resumption of energy flows through the key shipping route. Iranian state media also reported that parliament is reviewing a proposal to bar ships linked to the US, Israel, and other countries deemed hostile by Tehran from transiting the Strait of Hormuz under the Oman-brokered shipping agreement until Iran receives compensation for war-related damages. Adding to supply concerns, Ukraine carried out long-range drone attacks on two Russian oil refineries, including one of the country's largest. Russia's gasoline and diesel exports plunged 60% in July, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed distillate fuel inventories, including diesel and heating oil, fell by 3.473 million barrels in the week ended July 31.
-
----
-
-### 2026-08-07 09:00:34  #國際
-
-【特朗普稱繼續支援國防部長赫格塞思】當地時間8月6日，記者獲悉，美國總統特朗普表示，目前仍支援國防部長赫格塞思。特朗普在當天接受採訪時稱赫格塞思是“聰明人”，並表示自己仍站在他一邊。報道稱，儘管伊朗戰爭在美國國內支援度不高，部分共和黨人也對赫格塞思的領導能力有所質疑，但特朗普目前無意撤換他。
-
----
-
-### 2026-08-07 09:00:24  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-At the morning open, China’s main futures contracts were mostly higher. Polysilicon and SC crude led gains, up over 4%; fuel oil rose nearly 3%; asphalt, ethylene glycol (EG), coke and styrene (EB) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%; container freight rates on Europe routes climbed over 1%. On the downside, platinum fell more than 2%, while palladium, SHFE silver, SHFE nickel and SHFE tin were down over 1%.
 
 ---

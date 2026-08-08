@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 19:36:10_
-_本檔包含 3391 則快訊，約 595879 字_
+_更新時間：2026-08-08 19:56:15_
+_本檔包含 3378 則快訊，約 595566 字_
+
+---
+
+### 2026-08-05 23:18:17  #公司
+
+工會負責人稱，智利國家銅業公司旗下特尼恩特銅礦（El Teniente）擴建專案的暫停可能持續兩年。
+
+---
+
+### 2026-08-05 23:17:21  #其他
+
+英國倫敦考文特花園發生持刀傷人事件，四人受傷，一名女性已被逮捕。
+
+---
+
+### 2026-08-05 23:16:49  #公司
+
+優步執行長：尚未觀察到消費走弱的跡象。
+
+---
+
+### 2026-08-05 23:16:14  #國際
+
+卡達與埃及在安曼外長會晤期間，就地區緊張局勢以及霍爾木茲海峽問題展開磋商。
+
+---
+
+### 2026-08-05 23:16:12  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve Bank of Dallas and the Federal Reserve Bank of New York will launch a pilot survey of the private credit market at the end of Q3 2026.
+
+---
+
+### 2026-08-05 23:15:24  #國際
+
+美國國防部將過去25年的美國武器測試報告移出公開查閱渠道。
+
+---
+
+### 2026-08-05 23:14:54  #國際
+
+歐盟委員會發言人：歐盟針對巴西的食品合規審計將不涵蓋牛肉、雞蛋品類。
+
+---
+
+### 2026-08-05 23:14:45  #國際
+
+伊朗外交部發言人：我們本週末沒有前往巴基斯坦和卡達的計劃。
+
+---
+
+### 2026-08-05 23:14:12  #國際
+
+歐盟將於8月底對巴西食品進口進行審計。
+
+---
+
+### 2026-08-05 23:14:04  #其他
+
+宣告顯示：達拉斯聯邦儲備銀行與紐約聯邦儲備銀行將推出私人信貸市場試點調查。
+
+---
+
+### 2026-08-05 23:13:43  #MKT News #Important
+
+【Iran says joint statement with Oman being drafted after agreeing coordinates for proposed Strait of Hormuz shipping corridor】Iran’s foreign ministry said two months of talks with Oman, both littoral states of the Strait of Hormuz, have produced agreement on geographic coordinates for a proposed commercial shipping corridor and that a joint declaration containing the main consensus is in final review and drafting, provided third parties do not obstruct the process. Tehran said technical, legal, security and environmental issues have been reviewed and described the negotiations as professional and forward-looking. The ministry added Iran’s foreign minister and parliamentary speaker currently have no planned visits to Pakistan or Qatar, but Iran is in contact with both as they continue efforts to ease regional tensions.
+
+---
+
+### 2026-08-05 23:13:16  #市場 #央行 #國際
+
+【市場關注重開霍爾木茲海峽進展 金銀價格齊漲】隨著有關達成臨時協議、重開霍爾木茲海峽的預期升溫，市場對通脹前景的擔憂有所緩解，美聯儲加息的可能性下降，金價連續第三個交易日上漲。現貨黃金上漲逾3%，至每盎司約4,230美元。此前兩個交易日，金價均錄得小幅上漲；白銀價格也同步走高。隨著市場愈發預期各方將達成協議、重啟這條關鍵航道，美國總統特朗普表示，關於霍爾木茲海峽的協議最早可能於週三達成。與此同時，美元走弱，美國原油價格進一步下跌。
+
+---
+
+### 2026-08-05 23:13:07  #MKT News #Important #Market Regions #Greater China
+
+【SZSE set to switch market-data access after SSE; nearby data-center capacity tight】Institutions are racing to secure co‑location near the Shanghai and Shenzhen exchanges after the Shanghai Stock Exchange completed a switch of market-data access from LAN to WAN on July 31. The Shenzhen Stock Exchange has not yet completed the change but is expected to switch market-data access from LAN to WAN on August 7; some firms say the switch could occur within the week, though timing remains unconfirmed. Market participants report that surrounding data centers in both cities are facing tight supply for racks/co‑location, creating potential capacity constraints for latency‑sensitive trading and market‑data connectivity.
 
 ---
 
@@ -20293,161 +20371,5 @@ Market sources say Saudi Arabia is using diplomatic channels to try to prevent a
 ### 2026-08-04 22:02:55  #國際
 
 國際貨幣基金組織：敘利亞經濟復甦勢頭正在增強，預計2026年將實現兩位數增長，2027年將繼續保持強勁增長。
-
----
-
-### 2026-08-04 22:02:51  #焦點 #國際
-
-美國國務卿魯比奧：伊朗相關談判已取得進展，有望重新開放霍爾木茲海峽。
-
----
-
-### 2026-08-04 22:02:36  #公司 #市場
-
-【8月4日增減持彙總（表）】8月4日盤後，據不完全統計，引力傳媒、技源集團等兩家A股公司披露擬減持情況，當日暫無A股公司披露擬增持情況。
-
----
-
-### 2026-08-04 22:02:00  #國際
-
-國際貨幣基金組織：IMF工作人員結束對敘利亞的工作訪問。
-
----
-
-### 2026-08-04 22:01:57  #MKT News
-
-IMF staff have concluded a visit to Syria.
-
----
-
-### 2026-08-04 22:01:53  #公司 #市場
-
-【傳智教育：股票交易異常波動 預計上半年扭虧為盈】傳智教育公告稱，公司股票在2026年7月31日至8月4日連續3個交易日收盤價格漲跌幅偏離值累計達20%，屬異常波動。截至8月4日，公司靜態、滾動市盈率與行業差異大，股價快速上漲、成交量大，或存在炒作。公司經營及內外部環境未變，無應披露未披露重大事項。預計2026年半年度淨利潤2800萬元 - 4000萬元，同比增長488.72% - 655.32%，實現扭虧為盈。
-
----
-
-### 2026-08-04 22:01:37  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-TransDigm earnings above expectations at 10.87 USD — TransDigm (TDG) released earnings per share at 10.87 USD, compared to market expectations of 10.29 USD.
-
----
-
-### 2026-08-04 22:01:33  #經濟數據 #美國
-
-美國6月耐用品訂單環比終值增長0.5%，預期增長0.3%，初值增長0.3%。
-
----
-
-### 2026-08-04 22:01:28  #市場
-
-油價延續跌勢，觸及盤中低點；布倫特原油最新下跌4.7%，西德克薩斯中質原油下跌5.4%。
-
----
-
-### 2026-08-04 22:01:07  #其他
-
-市場訊息：沙烏地阿拉伯開展外交斡旋，力圖遏制胡塞武裝襲擊事態升級。
-
----
-
-### 2026-08-04 22:00:55  #經濟數據 #美國
-
-美國6月JOLTs職位空缺數為735.9萬，低於市場預期的745.4萬。
-
----
-
-### 2026-08-04 22:00:48  #經濟數據 #美國
-
-美國6月工廠訂單環比下降0.3%，預期增長0.2%，前值下降1.3%。
-
----
-
-### 2026-08-04 22:00:34  #國際
-
-美國6月工廠訂單剔除運輸後環比下降0.4%。
-
----
-
-### 2026-08-04 22:00:24  #資料 #焦點 #國際
-
-美國6月工廠訂單月率 -0.3%，預期0.2%，前值由-1.30%修正為-1.1%。
-
----
-
-### 2026-08-04 22:00:24  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
-
-US June factory orders excluding defense fell 0.4% MoM; prior -1.2%.
-
----
-
-### 2026-08-04 22:00:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #US10Y
-
-US factory orders excluding transportation -0.4% MoM in June; May revised to 2.0% from 1.9%.
-
----
-
-### 2026-08-04 22:00:16  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-US June durable goods orders final MoM +0.5% (prior +0.3%).
-
----
-
-### 2026-08-04 22:00:15  #MKT News #Economic Calendar #Important
-
-United States | Factory Orders Excluding Defense (MoM) (Jun) | actual -0.4% | previous -1.2%
-
----
-
-### 2026-08-04 22:00:14  #焦點 #國際
-
-美國6月份職位空缺735.9萬個；預計為745.4萬個。
-
----
-
-### 2026-08-04 22:00:12  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish
-
-US JOLTS job openings for June 7.359 mln vs 7.40 mln expected; May revised to 7.537 mln from 7.594 mln.
-
----
-
-### 2026-08-04 22:00:12  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-US June factory orders MoM -0.3% vs. +0.2% expected; May revised to -1.1% from -1.3%.
-
----
-
-### 2026-08-04 22:00:09  #MKT News #Economic Calendar #Important
-
-United States | Durable Goods Orders Revised (MoM) (Jun) | actual 0.5% | previous 0.30%
-
----
-
-### 2026-08-04 22:00:09  #MKT News #Economic Calendar #Important
-
-United States | Factory Orders Excluding Transportation (MoM) (Jun) | actual -0.4% | previous 1.90%
-
----
-
-### 2026-08-04 22:00:02  #MKT News #Economic Calendar #Important
-
-United States | JOLTS Job Openings (Jun) | actual 7359000K | consensus 7400000K | previous 7594000K
-
----
-
-### 2026-08-04 22:00:00  #MKT News #Economic Calendar #Important
-
-United States | Factory Orders (MoM) (Jun) | actual -0.3% | consensus 0.2% | previous -1.30%
-
----
-
-### 2026-08-04 21:59:46  #公司
-
-AI應用公司Palantir漲幅擴大至22%。
-
----
-
-### 2026-08-04 21:59:31  #Trading Economics #Markets #Commodity #Importance 0
-
-Palladium Jumps as Easing Geopolitical Risks Support Metals — Palladium futures climbed above $1,300 per ounce, reaching their highest level since mid-June as precious metals advanced on optimism surrounding diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain underway, with de-escalation and reopening the vital waterway remaining the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook.
 
 ---

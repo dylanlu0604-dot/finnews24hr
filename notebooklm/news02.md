@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 19:36:10_
-_本檔包含 3188 則快訊，約 596231 字_
+_更新時間：2026-08-08 19:56:15_
+_本檔包含 3178 則快訊，約 595581 字_
+
+---
+
+### 2026-08-07 09:00:46  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Rebounds — US heating oil futures rose above $3.90 per gallon on Friday, rebounding from an over three-week low, as renewed strikes in the Strait of Hormuz dimmed hopes for a gradual resumption of energy flows through the key shipping route. Iranian state media also reported that parliament is reviewing a proposal to bar ships linked to the US, Israel, and other countries deemed hostile by Tehran from transiting the Strait of Hormuz under the Oman-brokered shipping agreement until Iran receives compensation for war-related damages. Adding to supply concerns, Ukraine carried out long-range drone attacks on two Russian oil refineries, including one of the country's largest. Russia's gasoline and diesel exports plunged 60% in July, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed distillate fuel inventories, including diesel and heating oil, fell by 3.473 million barrels in the week ended July 31.
+
+---
+
+### 2026-08-07 09:00:34  #國際
+
+【特朗普稱繼續支援國防部長赫格塞思】當地時間8月6日，記者獲悉，美國總統特朗普表示，目前仍支援國防部長赫格塞思。特朗普在當天接受採訪時稱赫格塞思是“聰明人”，並表示自己仍站在他一邊。報道稱，儘管伊朗戰爭在美國國內支援度不高，部分共和黨人也對赫格塞思的領導能力有所質疑，但特朗普目前無意撤換他。
+
+---
+
+### 2026-08-07 09:00:24  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+At the morning open, China’s main futures contracts were mostly higher. Polysilicon and SC crude led gains, up over 4%; fuel oil rose nearly 3%; asphalt, ethylene glycol (EG), coke and styrene (EB) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%; container freight rates on Europe routes climbed over 1%. On the downside, platinum fell more than 2%, while palladium, SHFE silver, SHFE nickel and SHFE tin were down over 1%.
 
 ---
 
@@ -19169,83 +19187,5 @@ TASS reported Russia sentenced a Lithuanian national to 13.5 years in prison on 
 ### 2026-08-05 23:18:46  #國際
 
 伊朗外交部發言人：巴基斯坦與卡達仍在為緩和地區緊張局勢持續斡旋，伊朗也同兩國保持溝通、交換意見。
-
----
-
-### 2026-08-05 23:18:17  #公司
-
-工會負責人稱，智利國家銅業公司旗下特尼恩特銅礦（El Teniente）擴建專案的暫停可能持續兩年。
-
----
-
-### 2026-08-05 23:17:21  #其他
-
-英國倫敦考文特花園發生持刀傷人事件，四人受傷，一名女性已被逮捕。
-
----
-
-### 2026-08-05 23:16:49  #公司
-
-優步執行長：尚未觀察到消費走弱的跡象。
-
----
-
-### 2026-08-05 23:16:14  #國際
-
-卡達與埃及在安曼外長會晤期間，就地區緊張局勢以及霍爾木茲海峽問題展開磋商。
-
----
-
-### 2026-08-05 23:16:12  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve Bank of Dallas and the Federal Reserve Bank of New York will launch a pilot survey of the private credit market at the end of Q3 2026.
-
----
-
-### 2026-08-05 23:15:24  #國際
-
-美國國防部將過去25年的美國武器測試報告移出公開查閱渠道。
-
----
-
-### 2026-08-05 23:14:54  #國際
-
-歐盟委員會發言人：歐盟針對巴西的食品合規審計將不涵蓋牛肉、雞蛋品類。
-
----
-
-### 2026-08-05 23:14:45  #國際
-
-伊朗外交部發言人：我們本週末沒有前往巴基斯坦和卡達的計劃。
-
----
-
-### 2026-08-05 23:14:12  #國際
-
-歐盟將於8月底對巴西食品進口進行審計。
-
----
-
-### 2026-08-05 23:14:04  #其他
-
-宣告顯示：達拉斯聯邦儲備銀行與紐約聯邦儲備銀行將推出私人信貸市場試點調查。
-
----
-
-### 2026-08-05 23:13:43  #MKT News #Important
-
-【Iran says joint statement with Oman being drafted after agreeing coordinates for proposed Strait of Hormuz shipping corridor】Iran’s foreign ministry said two months of talks with Oman, both littoral states of the Strait of Hormuz, have produced agreement on geographic coordinates for a proposed commercial shipping corridor and that a joint declaration containing the main consensus is in final review and drafting, provided third parties do not obstruct the process. Tehran said technical, legal, security and environmental issues have been reviewed and described the negotiations as professional and forward-looking. The ministry added Iran’s foreign minister and parliamentary speaker currently have no planned visits to Pakistan or Qatar, but Iran is in contact with both as they continue efforts to ease regional tensions.
-
----
-
-### 2026-08-05 23:13:16  #市場 #央行 #國際
-
-【市場關注重開霍爾木茲海峽進展 金銀價格齊漲】隨著有關達成臨時協議、重開霍爾木茲海峽的預期升溫，市場對通脹前景的擔憂有所緩解，美聯儲加息的可能性下降，金價連續第三個交易日上漲。現貨黃金上漲逾3%，至每盎司約4,230美元。此前兩個交易日，金價均錄得小幅上漲；白銀價格也同步走高。隨著市場愈發預期各方將達成協議、重啟這條關鍵航道，美國總統特朗普表示，關於霍爾木茲海峽的協議最早可能於週三達成。與此同時，美元走弱，美國原油價格進一步下跌。
-
----
-
-### 2026-08-05 23:13:07  #MKT News #Important #Market Regions #Greater China
-
-【SZSE set to switch market-data access after SSE; nearby data-center capacity tight】Institutions are racing to secure co‑location near the Shanghai and Shenzhen exchanges after the Shanghai Stock Exchange completed a switch of market-data access from LAN to WAN on July 31. The Shenzhen Stock Exchange has not yet completed the change but is expected to switch market-data access from LAN to WAN on August 7; some firms say the switch could occur within the week, though timing remains unconfirmed. Market participants report that surrounding data centers in both cities are facing tight supply for racks/co‑location, creating potential capacity constraints for latency‑sensitive trading and market‑data connectivity.
 
 ---

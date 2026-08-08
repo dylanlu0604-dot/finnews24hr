@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 19:36:10_
-_本檔包含 3359 則快訊，約 595011 字_
+_更新時間：2026-08-08 19:56:15_
+_本檔包含 3368 則快訊，約 595682 字_
+
+---
+
+### 2026-08-04 22:02:51  #焦點 #國際
+
+美國國務卿魯比奧：伊朗相關談判已取得進展，有望重新開放霍爾木茲海峽。
+
+---
+
+### 2026-08-04 22:02:36  #公司 #市場
+
+【8月4日增減持彙總（表）】8月4日盤後，據不完全統計，引力傳媒、技源集團等兩家A股公司披露擬減持情況，當日暫無A股公司披露擬增持情況。
+
+---
+
+### 2026-08-04 22:02:00  #國際
+
+國際貨幣基金組織：IMF工作人員結束對敘利亞的工作訪問。
+
+---
+
+### 2026-08-04 22:01:57  #MKT News
+
+IMF staff have concluded a visit to Syria.
+
+---
+
+### 2026-08-04 22:01:53  #公司 #市場
+
+【傳智教育：股票交易異常波動 預計上半年扭虧為盈】傳智教育公告稱，公司股票在2026年7月31日至8月4日連續3個交易日收盤價格漲跌幅偏離值累計達20%，屬異常波動。截至8月4日，公司靜態、滾動市盈率與行業差異大，股價快速上漲、成交量大，或存在炒作。公司經營及內外部環境未變，無應披露未披露重大事項。預計2026年半年度淨利潤2800萬元 - 4000萬元，同比增長488.72% - 655.32%，實現扭虧為盈。
+
+---
+
+### 2026-08-04 22:01:37  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+TransDigm earnings above expectations at 10.87 USD — TransDigm (TDG) released earnings per share at 10.87 USD, compared to market expectations of 10.29 USD.
+
+---
+
+### 2026-08-04 22:01:33  #經濟數據 #美國
+
+美國6月耐用品訂單環比終值增長0.5%，預期增長0.3%，初值增長0.3%。
+
+---
+
+### 2026-08-04 22:01:28  #市場
+
+油價延續跌勢，觸及盤中低點；布倫特原油最新下跌4.7%，西德克薩斯中質原油下跌5.4%。
+
+---
+
+### 2026-08-04 22:01:07  #其他
+
+市場訊息：沙烏地阿拉伯開展外交斡旋，力圖遏制胡塞武裝襲擊事態升級。
+
+---
+
+### 2026-08-04 22:00:55  #經濟數據 #美國
+
+美國6月JOLTs職位空缺數為735.9萬，低於市場預期的745.4萬。
+
+---
+
+### 2026-08-04 22:00:48  #經濟數據 #美國
+
+美國6月工廠訂單環比下降0.3%，預期增長0.2%，前值下降1.3%。
+
+---
+
+### 2026-08-04 22:00:34  #國際
+
+美國6月工廠訂單剔除運輸後環比下降0.4%。
+
+---
+
+### 2026-08-04 22:00:24  #資料 #焦點 #國際
+
+美國6月工廠訂單月率 -0.3%，預期0.2%，前值由-1.30%修正為-1.1%。
+
+---
+
+### 2026-08-04 22:00:24  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #US10Y #Impact bullish #DXY
+
+US June factory orders excluding defense fell 0.4% MoM; prior -1.2%.
+
+---
+
+### 2026-08-04 22:00:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #US10Y
+
+US factory orders excluding transportation -0.4% MoM in June; May revised to 2.0% from 1.9%.
+
+---
+
+### 2026-08-04 22:00:16  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+US June durable goods orders final MoM +0.5% (prior +0.3%).
+
+---
+
+### 2026-08-04 22:00:15  #MKT News #Economic Calendar #Important
+
+United States | Factory Orders Excluding Defense (MoM) (Jun) | actual -0.4% | previous -1.2%
+
+---
+
+### 2026-08-04 22:00:14  #焦點 #國際
+
+美國6月份職位空缺735.9萬個；預計為745.4萬個。
+
+---
+
+### 2026-08-04 22:00:12  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish
+
+US JOLTS job openings for June 7.359 mln vs 7.40 mln expected; May revised to 7.537 mln from 7.594 mln.
+
+---
+
+### 2026-08-04 22:00:12  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+US June factory orders MoM -0.3% vs. +0.2% expected; May revised to -1.1% from -1.3%.
+
+---
+
+### 2026-08-04 22:00:09  #MKT News #Economic Calendar #Important
+
+United States | Durable Goods Orders Revised (MoM) (Jun) | actual 0.5% | previous 0.30%
+
+---
+
+### 2026-08-04 22:00:09  #MKT News #Economic Calendar #Important
+
+United States | Factory Orders Excluding Transportation (MoM) (Jun) | actual -0.4% | previous 1.90%
+
+---
+
+### 2026-08-04 22:00:02  #MKT News #Economic Calendar #Important
+
+United States | JOLTS Job Openings (Jun) | actual 7359000K | consensus 7400000K | previous 7594000K
+
+---
+
+### 2026-08-04 22:00:00  #MKT News #Economic Calendar #Important
+
+United States | Factory Orders (MoM) (Jun) | actual -0.3% | consensus 0.2% | previous -1.30%
+
+---
+
+### 2026-08-04 21:59:46  #公司
+
+AI應用公司Palantir漲幅擴大至22%。
+
+---
+
+### 2026-08-04 21:59:31  #Trading Economics #Markets #Commodity #Importance 0
+
+Palladium Jumps as Easing Geopolitical Risks Support Metals — Palladium futures climbed above $1,300 per ounce, reaching their highest level since mid-June as precious metals advanced on optimism surrounding diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain underway, with de-escalation and reopening the vital waterway remaining the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook.
 
 ---
 
@@ -20134,107 +20290,5 @@ The Baltic Dry Index rose 4.06% to 2,843.
 ### 2026-08-03 20:02:07  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #USDJPY
 
 【Analyst: US-Japan intervention prolongs dollar slide but fundamentals may remain USD-positive】USD extended losses on Monday after coordinated US-Japan FX intervention that supported the yen. Traders trace the dollar’s weakness to last week’s Fed decision to hold rates, which has raised questions about new chair Walsh’s ability to fight inflation. ING FX strategist Francesco Pesole said the move began after the Fed meeting and that short-term investors had built large USD long positions. Some strategists say the US Treasury may fund yen purchases with euros rather than dollars to limit further dollar weakness. Pesole added many traders are weighing longer-term USD shorts but called Japanese intervention temporary and said Fed policy will ultimately determine the dollar’s path. Jefferies strategist Mohit Kumar said if oil does not fall sharply, a Fed failure to act on inflation would damage Walsh’s credibility, and that aside from intervention fundamentals remain unfavorable for the yen and supportive of the dollar, with rising pressure for Fed hikes.
-
----
-
-### 2026-08-03 20:01:48  #公司
-
-Yellow.ai：交易完成後，合併後的公司將以Yellow.ai的名義運營，並在納斯達克資本市場以股票程式碼“YAI”進行交易。
-
----
-
-### 2026-08-03 20:01:21  #公司 #市場 #觀點 #國際
-
-【柴油供應危機加劇 高盛稱俄羅斯“讓我們非常擔憂”】高盛集團表示，在俄羅斯供應面臨風險以及美伊戰爭造成擾動之際，柴油正處於燃料供應緊張的核心。高盛全球大宗商品研究聯席主管Samantha Dart週一表示：“俄羅斯的局勢確實是讓我們非常擔憂的一件事。俄羅斯問題到現在已經持續了大約四年，因此這種狀況還可能繼續。”隨著美伊戰爭持續，全球能源市場7月大幅上漲，烏克蘭也加大了對俄羅斯煉油廠和燃料出口路線的襲擊。柴油廣泛用於工業、農業和物流，是全球經濟至關重要的工業燃料。布倫特原油上月上漲24%，歐洲柴油期貨漲幅更大，達到42%。
-
----
-
-### 2026-08-03 20:01:03  #其他
-
-WATERPURE INTERNATIONAL與NASA簽署研究許可協議，以評估先進水過濾技術。
-
----
-
-### 2026-08-03 20:00:45  #觀點
-
-摩根士丹利將Circle目標價從106.00美元下調至38.00美元。
-
----
-
-### 2026-08-03 20:00:26  #其他
-
-CrowdStrike Fal.Con 2026大會門票售罄，行業爭相佈局人工智慧，售票速度創下紀錄。
-
----
-
-### 2026-08-03 20:00:23  #其他
-
-阿斯麥公佈其現行股票回購計劃下的交易情況。
-
----
-
-### 2026-08-03 19:59:21  #公司
-
-【易明醫藥：持股5%以上股東減持至5%以下】易明醫藥公告稱，持股5%以上股東周戰於2026年7月30日以大宗交易方式減持124.11萬股，佔公司總股本的0.651%。減持後，其持股比例從5.65%降至4.99997%，不再為持股5%以上股東。本次權益變動不觸及要約收購，不會導致公司控股股東、實際控制人發生變更，也不會對公司治理結構及持續經營產生重大影響。截至公告日，減持計劃尚未實施完成。
-
----
-
-### 2026-08-03 19:59:17  #其他
-
-截至上週四，巴西中南部地區2026年第二季玉米收割進度已完成種植面積的69%。
-
----
-
-### 2026-08-03 19:59:13  #其他
-
-截至上週四，巴西中南部2026年第二季玉米收割進度已完成種植面積的69%。
-
----
-
-### 2026-08-03 19:59:03  #公司 #國際
-
-【特朗普家族支援的比特幣礦企二季度虧損5715萬美元，持幣量增至8000枚】8月3日，特朗普家族支援的比特幣挖礦企業American Bitcoin Corp.公佈2026年第二季度業績，公司淨虧損5715萬美元，連續第三個季度錄得虧損；同期營收為6701.5萬美元，高於一季度的6211.8萬美元。財報顯示，American Bitcoin二季度淨虧損同比主要受到數字資產價值變動影響。公司二季度經營虧損7408萬美元，調整後EBITDA虧損4503萬美元。截至6月底，公司持有比特幣約8002枚，較一季度末增加約981枚，增長約14%；二季度開採比特幣約932枚，創單季紀錄。公司由美國總統特朗普之子埃裡克·特朗普（Eric Trump）和小唐納德·特朗普（Donald Trump Jr.）共同參與創立，被視為特朗普家族旗下加密貨幣業務的一部分。
-
----
-
-### 2026-08-03 19:58:41  #市場
-
-納斯達克100指數期貨回吐日內全部漲幅，最多時漲超1%。
-
----
-
-### 2026-08-03 19:58:22  #公司
-
-Strategy公司出售1637枚比特幣，持倉降至842138枚比特幣。
-
----
-
-### 2026-08-03 19:57:18  #市場 #焦點
-
-美光科技盤前跌幅擴大至5%，SK海力士、閃迪等儲存股跌超4%。
-
----
-
-### 2026-08-03 19:56:50  #其他
-
-【訊息稱廣汽本田將共享廣汽綜合銷售服務中心網路】多位廣汽本田內部人士透露，廣汽本田將共享廣汽綜合銷售服務中心網路，獲得授權的單店可同時售賣埃安、傳祺、廣汽本田等多品牌車型，目前已經開始試點。
-
----
-
-### 2026-08-03 19:55:44  #MKT News #Macro & Rates #Treasury Yields #GBPUSD #Impact bearish #FTSE100 #Impact bullish
-
-UK government bonds extended gains; 10-year gilt yield fell 10 bps intraday to 4.95%.
-
----
-
-### 2026-08-03 19:55:05  #公司
-
-【ST任子行：撤銷其他風險警示申請獲深交所稽核同意，8月5日起復牌並更名】ST任子行公告，公司撤銷其他風險警示的申請已獲得深交所稽核同意。公司股票將於2026年8月4日停牌1天，2026年8月5日開市起復牌並撤銷其他風險警示。撤銷後，證券簡稱由“ST任子行”變更為“任子行”，證券程式碼仍為“300311”，日漲跌幅限制仍為20%。公司已對相關年度財報進行追溯重述，且行政處罰決定書作出已滿十二個月。
-
----
-
-### 2026-08-03 19:54:55  #公司
-
-【運達股份：擬投資14.5億元建設豐鎮一期綠色供電專案】運達股份公告，公司於2026年8月3日召開第六屆董事會第六次會議，審議透過《關於投資建設豐鎮市53萬千瓦工業園區綠色供電專案（一期）的議案》，擬以控股子公司豐鎮長達新能源有限公司為主體，在內蒙古自治區烏蘭察布市豐鎮市附近投資建設豐鎮一期專案。專案核准容量26.45萬千瓦，其中風電21.45萬千瓦、光伏5萬千瓦；專案總投資額為144,993萬元，其中透過向金融機構申請貸款籌集11.4億元，約佔總投資的80%，其他資金自籌。
 
 ---
