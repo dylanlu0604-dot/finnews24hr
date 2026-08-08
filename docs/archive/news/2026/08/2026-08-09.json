@@ -1,7 +1,20 @@
 {
   "date": "2026-08-09",
-  "count": 6,
+  "count": 7,
   "items": [
+    {
+      "id": "mkt:019fe230-5fcc-7aab-8fc5-1f8e98b3af0d",
+      "time": "2026-08-09 00:24:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Trump administration freezes assets of oil magnate Harry Sargeant III, presses him to divest Venezuelan holdings】U.S. Treasury on Friday froze assets of offshore companies tied to Florida oil magnate and Republican donor Harry Sargeant III that participate in Venezuelan oil production, sources said, and issued a license allowing the liquidation of his interests in those entities. Sargeant has served as a confidential conduit between Washington and Caracas—meeting President Maduro and other senior officials—and used that role to pursue oil deals in Venezuela that most firms avoided due to political risk and sanctions; he also helped secure the 2025 release of a detained U.S. citizen."
+    },
     {
       "id": "5032067",
       "time": "2026-08-09 00:15:15",
