@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-09 00:49:21",
-  "count": 15855,
+  "updated": "2026-08-09 00:53:25",
+  "count": 15853,
   "items": [
+    {
+      "id": "mkt:019fe248-a959-7aab-8fc5-4d887255f2db",
+      "time": "2026-08-09 00:50:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Expert: Strait of Hormuz cannot return to pre-conflict state】Ali Akbar Dareini, researcher at Iran’s Center for Strategic Studies, said Iran and Oman are close to an agreement on future management of the Strait of Hormuz, but US pressure on Oman to align with Washington remains the main obstacle. Dareini said Iran views future control of the strait as vital to its national security. He added that in recent months the US struck Iran, which Tehran says were launched from bases in the region, and described the Iran–Oman talks as a diplomatic opening for Washington to acknowledge Iran and Oman as the決ers of the strait’s future. He said the Strait of Hormuz cannot return to its pre-conflict state and that regional geopolitics have changed."
+    },
     {
       "id": "mkt:019fe245-9380-7aab-8fc5-4471dd4c2a70",
       "time": "2026-08-09 00:47:18",
@@ -144457,35 +144469,6 @@
         "國際"
       ],
       "text": "約旦官方訊息人士：伊拉克方面通知我方，若親伊朗民兵襲擊約旦，伊拉克將對這些民兵實施打擊；我方期待伊拉克採取措施約束民兵武裝。"
-    },
-    {
-      "id": "5020531",
-      "time": "2026-08-02 00:53:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：對全美50個州開展核查，排查非法非公民選民。目前已查出數千人。選舉舞弊的時代結束了。"
-    },
-    {
-      "id": "mkt:019fbe3d-58d6-7aab-8f42-f2b076d84def",
-      "time": "2026-08-02 00:51:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Turkey, Iraq sign one-year crude transport deal; 750,000 bpd allocated to Iraq】On Aug 1 Turkey's Ministry of Energy and Natural Resources said state pipeline operator BOTAŞ and two Iraqi oil companies signed a one-year crude transport agreement. The deal allocates 750,000 bpd of the pipeline's capacity to Iraq; the pipeline's design capacity is 1.5m bpd. Iraq's prime minister Zaidi had earlier said during a visit he would supply 1m bpd to Turkey."
-    },
-    {
-      "id": "5020530",
-      "time": "2026-08-02 00:50:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【土耳其與伊拉克簽署原油運輸協議 每日輸送75萬桶】當地時間8月1日，土耳其能源和自然資源部宣佈，土耳其國家石油管道公司（BOTAŞ）與伊拉克兩家石油公司正式簽署為期一年的原油運輸協議。根據協議，土伊雙方將高效利用原油管道，其中每日75萬桶的輸送能力將分配給伊拉克方。土耳其方面表示，該輸油管道總設計日產能達150萬桶。此前，伊拉克總理扎伊迪在訪問土耳其期間曾表示，將每天向土耳其提供100萬桶石油。"
     }
   ]
 }
