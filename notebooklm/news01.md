@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:58:51_
-_本檔包含 3136 則快訊，約 596311 字_
+_更新時間：2026-08-09 00:45:29_
+_本檔包含 3141 則快訊，約 596571 字_
+
+---
+
+### 2026-08-09 00:39:59  #MKT News #Macro & Rates #US Economy #Commodities #Energy
+
+【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products.
+
+---
+
+### 2026-08-09 00:35:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Lebanese sources said Lebanon insists on a full ceasefire before returning to talks in Rome and wants Bint Jbeil and Khiam included in a pilot zone.
+
+---
+
+### 2026-08-09 00:35:06  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Governor Bowman to participate in a fireside chat; announcement due in 10 minutes.
+
+---
+
+### 2026-08-09 00:34:55  #國際
+
+伊朗總統：當下是達成協議的最佳時機。
+
+---
+
+### 2026-08-09 00:34:51  #國際
+
+伊朗總統：在這種既非戰爭也非和平的局面下，經濟狀況是我最為關切的問題。
+
+---
+
+### 2026-08-09 00:34:35  #其他
+
+黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。
+
+---
+
+### 2026-08-09 00:31:04  #國際
+
+伊朗總統並未否認安全委員會秘書穆罕默德-巴蓋爾·佐爾卡德爾已提出辭職的媒體報道，他表示：“我們之間確實存在一些分歧，目前正努力解決。”
+
+---
+
+### 2026-08-09 00:25:36  #國際
+
+泰國國際航空：受颱風“白海豚”影響，多架航班取消。
+
+---
+
+### 2026-08-09 00:24:08  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+【Trump administration freezes assets of oil magnate Harry Sargeant III, presses him to divest Venezuelan holdings】U.S. Treasury on Friday froze assets of offshore companies tied to Florida oil magnate and Republican donor Harry Sargeant III that participate in Venezuelan oil production, sources said, and issued a license allowing the liquidation of his interests in those entities. Sargeant has served as a confidential conduit between Washington and Caracas—meeting President Maduro and other senior officials—and used that role to pursue oil deals in Venezuela that most firms avoided due to political risk and sanctions; he also helped secure the 2025 release of a detained U.S. citizen.
+
+---
+
+### 2026-08-09 00:15:15  #國際
+
+伊朗外長阿拉格齊：伊朗與阿曼距離霍爾木茲海峽相關協議“已非常接近”，航道重啟取決於美方遵守諒解備忘錄。
+
+---
+
+### 2026-08-09 00:07:34  #MKT News #600009.SS #Impact bearish #600115.SS
+
+【Typhoon White Dolphin to cut nearly 60% of Shanghai flights on 9th】Typhoon White Dolphin, the year's 13th, will reduce operating capacity at Shanghai Pudong and Hongqiao airports on the 9th. Airlines have cut or canceled about 1,384 scheduled arrivals and departures — 871 at Pudong and 513 at Hongqiao — roughly 60% of planned flights.
+
+---
+
+### 2026-08-09 00:06:34  #國際
+
+【伊朗總統：40天戰爭中鄰國阻斷武裝力量滲入伊朗】伊朗總統佩澤希基揚表示，在這場為期40天的戰爭期間，敵方曾試圖襲擊伊朗西北部與東南部邊境哨所，並派遣武裝力量滲入伊朗境內，但周邊國家採取行動阻止了這類入侵行為。佩澤希基揚週六接受記者採訪時稱：“阿富汗與巴基斯坦均部署力量管控局勢，明確表態絕不允許任何人從其領土進入伊朗，在伊朗境內製造動亂。”他同時表示，伊朗已對從鄰國境內美軍基地發起的襲擊作出回擊，德黑蘭方面不會容忍針對本國的跨境襲擊得不到回應。
+
+---
+
+### 2026-08-09 00:04:19  #其他
+
+【一直升機在巴西里約墜毀 造成至少4人死亡】當地時間8月8日，一架直升機在巴西里約熱內盧市南部一片林地中墜毀，造成至少4人死亡。
+
+---
+
+### 2026-08-09 00:04:08  #國際
+
+歐盟委員會內政與移民事務專員布倫納：今日已與西班牙、義大利兩國部長開展溝通，兩國均確認內部邊境管控屬於臨時措施。
+
+---
+
+### 2026-08-09 00:00:37  #其他
+
+據貓眼專業版資料，電影《蜘蛛俠：嶄新之日》上映11天， 總票房破12億。
 
 ---
 
@@ -18830,65 +18920,5 @@ Most Hong Kong-listed PCB-related stocks advanced: 01888.HK, 02476.HK and 09630.
 ### 2026-08-07 09:45:02  #MKT News #Important #09688.HK #Impact bullish #02359.HK #02269.HK
 
 Hong Kong-listed innovative drug stocks rallied after choppy trading: Zai Lab (09688.HK) rose over 13%, WuXi AppTec (02359.HK) and WuXi Biologics (02269.HK) gained over 3%, and Rongchang Biologics (09995.HK) and WuXi Helian (02268.HK) climbed more than 2%.
-
----
-
-### 2026-08-07 09:44:27  #市場 #焦點
-
-現貨白銀突破62美元/盎司，日內漲0.80%。
-
----
-
-### 2026-08-07 09:44:10  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Firm Ahead of Key Jobs Report — The dollar index was little changed around 99.95 on Friday after rebounding in the previous session, as investors cautiously awaited the closely watched July jobs report for fresh signals on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Meanwhile, the dollar drew additional support from a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns over inflation and the interest rate outlook.
-
----
-
-### 2026-08-07 09:44:02  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量548億元。
-
----
-
-### 2026-08-07 09:43:52  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Extend Decline — The benchmark KOSPI fell more than 1% to around 6,200 on Friday, extending losses for a second straight session as investors awaited the US jobs report. The closely watched payrolls data is expected to provide fresh clues on the Federal Reserve's policy path, keeping investors cautious over the outlook for interest rates while they also assessed the latest round of US corporate earnings. Renewed uncertainty over the Strait of Hormuz pushed oil prices higher, adding to inflation concerns and further weighing on risk appetite. Technology stocks led the decline, with SK hynix sliding nearly 3%, while notable losses were also recorded in SK Square (-2.0%), Hyundai Motor (-1.6%), HD Hyundai Heavy Industries (-1.5%), and Hyundai Mobis (-2.5%). Meanwhile, upbeat earnings from Naver and optimism over AI initiatives, including planned partnership talks between LG Group and Nvidia, helped cushion broader losses.
-
----
-
-### 2026-08-07 09:43:13  #其他
-
-【軟體開發板塊持續走低，綠盟科技跌超12%】軟體開發板塊持續走低，綠盟科技跌超12%，任子行、天融信、中科通達、泛微網路跟跌。
-
----
-
-### 2026-08-07 09:43:03  #市場
-
-紐約期銀日內漲1%，現報62.23美元/盎司。
-
----
-
-### 2026-08-07 09:43:03  #市場
-
-【港股人工智慧股走強 MINIMAX漲近6%】截至發稿，MINIMAX-W(00100.HK)漲5.99%，智譜(02513.HK)漲3.77%，兆易創新(03986.HK)漲5.58%。
-
----
-
-### 2026-08-07 09:42:15  #公司 #市場
-
-【液冷伺服器概念再度活躍 大元泵業、金洲管道雙雙漲停】早盤液冷伺服器概念再度活躍，大元泵業、金洲管道漲停，英特科技漲超10%，創世紀、朗特智慧、英維克、飛龍股份跟漲。
-
----
-
-### 2026-08-07 09:41:42  #MKT News #Important #Market Regions #Japan & APAC
-
-South Korea's KOSPI fell as much as 2.00% intraday.
-
----
-
-### 2026-08-07 09:41:28  #公司
-
-【光智科技在內蒙古成立礦業科技新公司】企查查APP顯示，近日，內蒙古光智礦業科技有限公司成立，經營範圍包含稀有稀土金屬冶煉；金屬材料製造；電子專用材料銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由光智科技(300489)全資持股。
 
 ---

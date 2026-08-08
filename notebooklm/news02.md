@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:58:51_
-_本檔包含 3179 則快訊，約 596400 字_
+_更新時間：2026-08-09 00:45:29_
+_本檔包含 3165 則快訊，約 596746 字_
+
+---
+
+### 2026-08-07 09:44:27  #市場 #焦點
+
+現貨白銀突破62美元/盎司，日內漲0.80%。
+
+---
+
+### 2026-08-07 09:44:10  #Trading Economics #Markets #United States #Currency #Importance 2
+
+Dollar Holds Firm Ahead of Key Jobs Report — The dollar index was little changed around 99.95 on Friday after rebounding in the previous session, as investors cautiously awaited the closely watched July jobs report for fresh signals on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Meanwhile, the dollar drew additional support from a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns over inflation and the interest rate outlook.
+
+---
+
+### 2026-08-07 09:44:02  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量548億元。
+
+---
+
+### 2026-08-07 09:43:52  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Extend Decline — The benchmark KOSPI fell more than 1% to around 6,200 on Friday, extending losses for a second straight session as investors awaited the US jobs report. The closely watched payrolls data is expected to provide fresh clues on the Federal Reserve's policy path, keeping investors cautious over the outlook for interest rates while they also assessed the latest round of US corporate earnings. Renewed uncertainty over the Strait of Hormuz pushed oil prices higher, adding to inflation concerns and further weighing on risk appetite. Technology stocks led the decline, with SK hynix sliding nearly 3%, while notable losses were also recorded in SK Square (-2.0%), Hyundai Motor (-1.6%), HD Hyundai Heavy Industries (-1.5%), and Hyundai Mobis (-2.5%). Meanwhile, upbeat earnings from Naver and optimism over AI initiatives, including planned partnership talks between LG Group and Nvidia, helped cushion broader losses.
+
+---
+
+### 2026-08-07 09:43:13  #其他
+
+【軟體開發板塊持續走低，綠盟科技跌超12%】軟體開發板塊持續走低，綠盟科技跌超12%，任子行、天融信、中科通達、泛微網路跟跌。
+
+---
+
+### 2026-08-07 09:43:03  #市場
+
+紐約期銀日內漲1%，現報62.23美元/盎司。
+
+---
+
+### 2026-08-07 09:43:03  #市場
+
+【港股人工智慧股走強 MINIMAX漲近6%】截至發稿，MINIMAX-W(00100.HK)漲5.99%，智譜(02513.HK)漲3.77%，兆易創新(03986.HK)漲5.58%。
+
+---
+
+### 2026-08-07 09:42:15  #公司 #市場
+
+【液冷伺服器概念再度活躍 大元泵業、金洲管道雙雙漲停】早盤液冷伺服器概念再度活躍，大元泵業、金洲管道漲停，英特科技漲超10%，創世紀、朗特智慧、英維克、飛龍股份跟漲。
+
+---
+
+### 2026-08-07 09:41:42  #MKT News #Important #Market Regions #Japan & APAC
+
+South Korea's KOSPI fell as much as 2.00% intraday.
+
+---
+
+### 2026-08-07 09:41:28  #公司
+
+【光智科技在內蒙古成立礦業科技新公司】企查查APP顯示，近日，內蒙古光智礦業科技有限公司成立，經營範圍包含稀有稀土金屬冶煉；金屬材料製造；電子專用材料銷售；非金屬礦及製品銷售等。企查查股權穿透顯示，該公司由光智科技(300489)全資持股。
 
 ---
 
@@ -19051,149 +19111,5 @@ Phillips 66 (PSX.N) expects large-scale maintenance turnarounds in 2027 and 2028
 ### 2026-08-06 00:45:23  #Trading Economics #Markets #Commodity #Importance 0
 
 Gasoline Holds Near One-Month Low — US gasoline futures held near $2.85 per gallon on Wednesday after touching a one-month low of $2.80 earlier in the session, as growing optimism over a potential US-Iran agreement backed an outlook of improved supply. President Donald Trump said talks with Tehran were ongoing, while Iran and Oman continued discussions aimed at restoring tanker flows in the Persian Gulf. Still, prices remained about 24% above pre-war levels amid supply concerns from elsewhere. Yemen's Iran-backed Houthis claimed they had targeted a Saudi oil tanker in the Red Sea. In Russia, diesel and gasoline exports plunged 60% in July as Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027 while increasing imports from Belarus, India, Kazakhstan, and Morocco. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week to July 31st, exceeding expectations and leaving stocks 7% below the five-year seasonal average.
-
----
-
-### 2026-08-06 00:45:16  #MKT News
-
-Ukraine's President Zelenskiy said he spoke by phone with the NATO secretary-general about ballistic missile issues.
-
----
-
-### 2026-08-06 00:45:00  #其他
-
-Point72向客戶表示仍在對此次網路攻擊開展調查。
-
----
-
-### 2026-08-06 00:44:50  #其他
-
-Point72告知投資者其遭遇網路攻擊，初步核查顯示暫無客戶資訊被盜。
-
----
-
-### 2026-08-06 00:44:48  #MKT News #PSX.N #Impact bullish
-
-Phillips 66 (PSX.N) says it holds a more optimistic view of midcycle refining margins than previously expected.
-
----
-
-### 2026-08-06 00:43:57  #MKT News #PSX.N #Impact bullish
-
-Phillips 66 (PSX.N) expects refining fundamentals to strengthen further following the Iran conflict.
-
----
-
-### 2026-08-06 00:43:49  #MKT News #Commodities #Energy #PSX.N #Impact bullish
-
-Phillips 66 (PSX.N): the macro environment for refining remains strong.
-
----
-
-### 2026-08-06 00:42:30  #國際
-
-知情人士：即便伊朗與阿曼達成協議，霍爾木茲海峽重新開放仍需另行安排，其中也包含美國履行相關承諾。
-
----
-
-### 2026-08-06 00:41:50  #國際
-
-【盧拉：美國撤銷巴西駐美大使簽證是“不負責任”做法】巴西總統盧拉5日接受媒體採訪時表示，美國政府近期撤銷巴西駐美大使簽證是“不負責任、缺乏考慮的做法”。盧拉呼籲兩國保持冷靜，同時強調巴西已做好準備，應對任何企圖干涉本國選舉程序的外部勢力。
-
----
-
-### 2026-08-06 00:40:49  #國際
-
-澤連斯基與北約秘書長通電話，磋商彈道導彈相關議題。
-
----
-
-### 2026-08-06 00:40:22  #MKT News #Important
-
-Fars News Agency cited a source saying that if Iran and Oman finalize an agreement, reopening the Strait of Hormuz would require separate arrangements, including U.S. fulfillment of related commitments.
-
----
-
-### 2026-08-06 00:39:15  #國際
-
-特朗普：（前白宮首席醫療顧問）福奇對數百萬人犯下了難以言喻的暴行，一切都是為了權力、名聲和金錢。
-
----
-
-### 2026-08-06 00:38:24  #MKT News #Important #WTI #Impact bearish #Brent
-
-Iran's deputy foreign minister said Iran and Oman have made significant progress and are close to finalizing an agreement on arrangements for the Strait of Hormuz.
-
----
-
-### 2026-08-06 00:38:04  #國際
-
-伊朗副外長：伊朗與阿曼關於霍爾木茲海峽安排的協議即將完成。已取得重大進展。
-
----
-
-### 2026-08-06 00:35:19  #公司
-
-【德國一機場暫停航班 此前發現武裝無人機 併發生貨機與不明物相撞事件】德國重要的貨運和軍事裝備運輸樞紐萊比錫-哈雷機場一度暫停航班，隔夜發現一架武裝無人機，同時一架貨機在空中與一個身份不明的小型物體相撞。當地警方週三上午釋出宣告稱，包括一架客機在內的多架飛機被迫改道，機場部分割槽域目前仍處於關閉狀態。該機場此前曾是間諜活動和破壞行動的目標。根據週三下午另外發布的公告，州總檢察長辦公室和州刑事警察部門已接手調查，正在徵集目擊者。
-
----
-
-### 2026-08-06 00:33:29  #其他 #焦點
-
-受關稅預期影響，紐約商品交易所銅價攀升至歷史新高。
-
----
-
-### 2026-08-06 00:33:15  #MKT News
-
-Phillips 66 (PSX.N) is boosting jet fuel production at its Washington state refinery.
-
----
-
-### 2026-08-06 00:31:54  #MKT News
-
-Israeli military says it conducted targeted strikes in southern Lebanon, saying Hezbollah breached a US‑mediated security arrangement.
-
----
-
-### 2026-08-06 00:30:59  #國際
-
-以色列軍方稱，已在黎巴嫩南部實施定點打擊，並指責真主黨違反6月由美國斡旋達成的安全安排。
-
----
-
-### 2026-08-06 00:27:50  #市場
-
-有報道稱激進投資機構Starboard持有Shake Shack數億美元頭寸後，Shake Shack股價大漲8.9%。
-
----
-
-### 2026-08-06 00:25:50  #國際
-
-美國國務卿魯比奧與英國外交大臣米利班德就雙方保障霍爾木茲海峽安全通航的承諾展開磋商。
-
----
-
-### 2026-08-06 00:24:33  #MKT News
-
-State Department said U.S. Secretary of State Rubio and UK Foreign Secretary Miliband discussed the importance of Europe playing a larger role in its own security.
-
----
-
-### 2026-08-06 00:24:14  #其他
-
-菲利浦66：全球煉油產能恢復正常所需時間將長於2022年。
-
----
-
-### 2026-08-06 00:24:01  #宏觀 #國際
-
-美國國務院：魯比奧與英國外交大臣米利班德討論了歐洲在自身安全方面承擔更大責任的重要性。
-
----
-
-### 2026-08-06 00:23:58  #MKT News #Commodities #Energy #PSX.N #Impact bullish #WTI
-
-Phillips 66 (PSX.N) said global refining capacity normalization will take longer than was required in 2022.
 
 ---

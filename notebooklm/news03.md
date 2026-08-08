@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:58:51_
-_本檔包含 3370 則快訊，約 596317 字_
+_更新時間：2026-08-09 00:45:29_
+_本檔包含 3389 則快訊，約 596783 字_
+
+---
+
+### 2026-08-06 00:45:16  #MKT News
+
+Ukraine's President Zelenskiy said he spoke by phone with the NATO secretary-general about ballistic missile issues.
+
+---
+
+### 2026-08-06 00:45:00  #其他
+
+Point72向客戶表示仍在對此次網路攻擊開展調查。
+
+---
+
+### 2026-08-06 00:44:50  #其他
+
+Point72告知投資者其遭遇網路攻擊，初步核查顯示暫無客戶資訊被盜。
+
+---
+
+### 2026-08-06 00:44:48  #MKT News #PSX.N #Impact bullish
+
+Phillips 66 (PSX.N) says it holds a more optimistic view of midcycle refining margins than previously expected.
+
+---
+
+### 2026-08-06 00:43:57  #MKT News #PSX.N #Impact bullish
+
+Phillips 66 (PSX.N) expects refining fundamentals to strengthen further following the Iran conflict.
+
+---
+
+### 2026-08-06 00:43:49  #MKT News #Commodities #Energy #PSX.N #Impact bullish
+
+Phillips 66 (PSX.N): the macro environment for refining remains strong.
+
+---
+
+### 2026-08-06 00:42:30  #國際
+
+知情人士：即便伊朗與阿曼達成協議，霍爾木茲海峽重新開放仍需另行安排，其中也包含美國履行相關承諾。
+
+---
+
+### 2026-08-06 00:41:50  #國際
+
+【盧拉：美國撤銷巴西駐美大使簽證是“不負責任”做法】巴西總統盧拉5日接受媒體採訪時表示，美國政府近期撤銷巴西駐美大使簽證是“不負責任、缺乏考慮的做法”。盧拉呼籲兩國保持冷靜，同時強調巴西已做好準備，應對任何企圖干涉本國選舉程序的外部勢力。
+
+---
+
+### 2026-08-06 00:40:49  #國際
+
+澤連斯基與北約秘書長通電話，磋商彈道導彈相關議題。
+
+---
+
+### 2026-08-06 00:40:22  #MKT News #Important
+
+Fars News Agency cited a source saying that if Iran and Oman finalize an agreement, reopening the Strait of Hormuz would require separate arrangements, including U.S. fulfillment of related commitments.
+
+---
+
+### 2026-08-06 00:39:15  #國際
+
+特朗普：（前白宮首席醫療顧問）福奇對數百萬人犯下了難以言喻的暴行，一切都是為了權力、名聲和金錢。
+
+---
+
+### 2026-08-06 00:38:24  #MKT News #Important #WTI #Impact bearish #Brent
+
+Iran's deputy foreign minister said Iran and Oman have made significant progress and are close to finalizing an agreement on arrangements for the Strait of Hormuz.
+
+---
+
+### 2026-08-06 00:38:04  #國際
+
+伊朗副外長：伊朗與阿曼關於霍爾木茲海峽安排的協議即將完成。已取得重大進展。
+
+---
+
+### 2026-08-06 00:35:19  #公司
+
+【德國一機場暫停航班 此前發現武裝無人機 併發生貨機與不明物相撞事件】德國重要的貨運和軍事裝備運輸樞紐萊比錫-哈雷機場一度暫停航班，隔夜發現一架武裝無人機，同時一架貨機在空中與一個身份不明的小型物體相撞。當地警方週三上午釋出宣告稱，包括一架客機在內的多架飛機被迫改道，機場部分割槽域目前仍處於關閉狀態。該機場此前曾是間諜活動和破壞行動的目標。根據週三下午另外發布的公告，州總檢察長辦公室和州刑事警察部門已接手調查，正在徵集目擊者。
+
+---
+
+### 2026-08-06 00:33:29  #其他 #焦點
+
+受關稅預期影響，紐約商品交易所銅價攀升至歷史新高。
+
+---
+
+### 2026-08-06 00:33:15  #MKT News
+
+Phillips 66 (PSX.N) is boosting jet fuel production at its Washington state refinery.
+
+---
+
+### 2026-08-06 00:31:54  #MKT News
+
+Israeli military says it conducted targeted strikes in southern Lebanon, saying Hezbollah breached a US‑mediated security arrangement.
+
+---
+
+### 2026-08-06 00:30:59  #國際
+
+以色列軍方稱，已在黎巴嫩南部實施定點打擊，並指責真主黨違反6月由美國斡旋達成的安全安排。
+
+---
+
+### 2026-08-06 00:27:50  #市場
+
+有報道稱激進投資機構Starboard持有Shake Shack數億美元頭寸後，Shake Shack股價大漲8.9%。
+
+---
+
+### 2026-08-06 00:25:50  #國際
+
+美國國務卿魯比奧與英國外交大臣米利班德就雙方保障霍爾木茲海峽安全通航的承諾展開磋商。
+
+---
+
+### 2026-08-06 00:24:33  #MKT News
+
+State Department said U.S. Secretary of State Rubio and UK Foreign Secretary Miliband discussed the importance of Europe playing a larger role in its own security.
+
+---
+
+### 2026-08-06 00:24:14  #其他
+
+菲利浦66：全球煉油產能恢復正常所需時間將長於2022年。
+
+---
+
+### 2026-08-06 00:24:01  #宏觀 #國際
+
+美國國務院：魯比奧與英國外交大臣米利班德討論了歐洲在自身安全方面承擔更大責任的重要性。
+
+---
+
+### 2026-08-06 00:23:58  #MKT News #Commodities #Energy #PSX.N #Impact bullish #WTI
+
+Phillips 66 (PSX.N) said global refining capacity normalization will take longer than was required in 2022.
 
 ---
 
@@ -20293,35 +20437,5 @@ Bund Yield Falls as Oil Slump Offsets ECB Rate Expectations — Germany's 10-yea
 ### 2026-08-04 22:53:45  #Trading Economics #Markets #Euro Area #Currency #Importance 0
 
 Euro Holds Firm Near Seven-Week High on ECB Rate Outlook — The euro traded slightly above $1.15, hovering near its highest level since June 16 as easing geopolitical tensions improved risk sentiment. Oil prices tumbled on optimism that diplomatic efforts could end the US-Iran conflict, easing concerns over inflationary pressures. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as early as Tuesday or Wednesday. Meanwhile, stronger-than-expected eurozone data continued to support expectations that the European Central Bank could raise interest rates at its next meeting in September. The bloc's economy expanded 0.4% in the second quarter, twice the expected pace and the strongest growth since early 2025, while annual inflation accelerated to 2.9% in July, with both core and services inflation also strengthening.
-
----
-
-### 2026-08-04 22:53:27  #宏觀
-
-【合組織已成為全球南方參與國際秩序重塑的重要平臺——訪埃及外交事務委員會主任薩阿德】埃及外交事務委員會主任、前資深外交官伊扎特·薩阿德日前在開羅接受新華社記者專訪時表示，上海合作組織已成為全球南方參與國際秩序重塑的重要平臺，有助於推動構建一個能有效應對新挑戰、確保全球南方國家獲得公正地位的新型國際多邊體系。“當前的國際秩序仍存在極不公平的問題，少數西方國家奉行雙重標準，漠視主權平等原則，肆意干涉他國內政，否認各國基於自身文明、文化、歷史稟賦選擇發展道路的權利。”薩阿德表示，上合組織有效踐行全球治理倡議，為全球南方改革現有不公平的國際秩序創造了有利條件，未來的多極化秩序將保障所有國家無論大小、強弱，都能享有平等的合法權益。“這也是近年來越來越多國家申請加入上合組織的核心原因。”薩阿德說，經過25年發展，上合組織已成為世界幅員最廣、人口最多的區域性國際組織。薩阿德將2025年上海合作組織天津峰會視為“重要轉折點”。他說，作為上合組織成立以來規模最大的一次峰會，此次峰會透過了《上海合作組織成員國元首理事會天津宣言》，進一步完善了機制建設框架。成員國元首理事會會議上，明確提出儘快建成上海合作組織開發銀行。薩阿德表示，中方提出的這一系列務實舉措，有助於上合組織地區的和平穩定與發展繁榮，中國的積極參與和各項倡議始終是推動上合組織發展的驅動力。談及中國提出的系列全球倡議，薩阿德給予高度評價。他表示，這些倡議直面冷戰結束以來國際社會面臨的各類系統性挑戰，為現行國際秩序的再平衡提供了可行路徑。“全球文明倡議打破了‘文明優越論’的錯誤認知，為不同文明平等對話提供了制度框架；而全球發展倡議和全球治理倡議則高度契合全球南方發展需求，明確了發展中國家在全球治理體系中應當享有平等的代表權和發言權。”薩阿德說。薩阿德認為，中國支援亞洲基礎設施投資銀行和新開發銀行等多邊金融機制，也為全球南方降低對西方融資體系的依賴提供了重要支撐，有利於共同推進全球經濟治理體系改革。“上合組織等區域平臺正與中國提出的一系列機制和倡議協同發力，成為全球南方國家參與全球治理的關鍵支柱，對推動構建更加平等的國際多極體系至關重要。”薩阿德指出。（新華社）
-
----
-
-### 2026-08-04 22:52:42  #國際
-
-俄羅斯聯邦武裝力量繼續對供烏克蘭武裝部隊使用的烏克蘭港口、船隻以及港口基礎設施實施打擊。
-
----
-
-### 2026-08-04 22:52:03  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Russian Defence Ministry said Russian armed forces continue to attack Ukrainian ports, vessels and port infrastructure used by the Ukrainian military.
-
----
-
-### 2026-08-04 22:51:53  #國際
-
-【特朗普在社交平臺表態：已邀請達琳·格雷厄姆·納爾東參議員參加8月11日的共和黨特別初選，對方已接受邀請】美國總統特朗普在社交媒體發文：很榮幸歡迎如今已是參議員的達琳・格雷厄姆・諾多恩（已故傑出人士林賽・格雷厄姆的妹妹），從美麗的南卡羅來納州來到橢圓形辦公室。我們相識已久 —— 她為人出色，是一名真正的美國愛國者。林賽是我認識的最偉大的人物與參議員之一，他的妹妹同樣深愛著我們的國家以及南卡羅來納州。訪問期間，為了國家利益，我提議達琳參加 2026 年 8 月 11 日（週二）的共和黨參議員特別初選。她接受了這一提議，沒有人比她更適合繼承她敬愛的兄長林賽的政治遺產。達琳出身於一個極為優秀的家庭，一生屢獲成功。在南卡羅來納州聯邦參議員特別選舉中，我給予她完全、無條件的支援 —— 她絕不會讓大家失望！
-
----
-
-### 2026-08-04 22:51:20  #MKT News
-
-President Trump said he asked Senator Darlene Graham to enter the Republican special primary on Aug. 11; she has accepted.
 
 ---
