@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-08 16:01:50",
-  "count": 15850,
+  "updated": "2026-08-08 16:05:54",
+  "count": 15848,
   "items": [
+    {
+      "id": "5031858",
+      "time": "2026-08-08 16:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月高頻資料折射經濟向新向好】記者8日從國家發展改革委國家資訊中心瞭解到，7月份，多領域高頻資料平穩向好，線下消費穩步增長，投資結構不斷最佳化，市場資本主動佈局新質生產力相關賽道，創新活力持續迸發。線下消費大資料顯示，7月各類消費支付金額同比增長2.2%，增速比上月提高0.8個百分點。其中，家用電器與音像器材類支付金額同比增長8.5%，增速比上月提高10.9個百分點。反映中小商戶經營狀況的“收錢吧”實體商業活力指數升至81.9，較上月提高3.1%。（新華社）"
+    },
+    {
+      "id": "mkt:019fe064-9034-7aab-8fc3-24d9fe17ab6b",
+      "time": "2026-08-08 16:01:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The U.S. Senate passed a stopgap funding bill to avert a government shutdown ahead of the election."
+    },
     {
       "id": "5031857",
       "time": "2026-08-08 16:00:03",
@@ -144393,38 +144414,6 @@
         "Brent"
       ],
       "text": "Kuwaiti military says Iran's attack struck multiple key facilities, including a government agency in northern Kuwait."
-    },
-    {
-      "id": "mkt:019fbc59-c87f-7aab-8f41-1712ea406309",
-      "time": "2026-08-01 16:03:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait's military said it has detected and destroyed hostile drones in Kuwaiti airspace since dawn on Saturday."
-    },
-    {
-      "id": "5020308",
-      "time": "2026-08-01 16:03:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特：伊朗襲擊造成物質損失，無人傷亡。"
-    },
-    {
-      "id": "5020307",
-      "time": "2026-08-01 16:03:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特：伊朗無人機襲擊布比延島民用機械。"
-    },
-    {
-      "id": "5020306",
-      "time": "2026-08-01 16:02:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特稱伊朗無人機襲擊其北部政府設施。"
     }
   ]
 }
