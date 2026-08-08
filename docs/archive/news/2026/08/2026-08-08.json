@@ -1,7 +1,61 @@
 {
   "date": "2026-08-08",
-  "count": 825,
+  "count": 831,
   "items": [
+    {
+      "id": "5032036",
+      "time": "2026-08-08 22:45:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊發言人表示，已對胡塞武裝及其附屬“民兵組織”展開軍事行動。"
+    },
+    {
+      "id": "mkt:019fe1d5-dfd1-7aab-8fc4-e029634586d8",
+      "time": "2026-08-08 22:45:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's armed forces spokesman said forces launched operations against Houthi fighters and affiliated militias."
+    },
+    {
+      "id": "mkt:019fe1d4-cb04-7aab-8fc4-da2849ca910a",
+      "time": "2026-08-08 22:44:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fox News reported US Vice President Vance said Iran has notified the US that, despite statements by regime insiders about imposing transit fees on passage through the Strait of Hormuz, Tehran will not impose such fees."
+    },
+    {
+      "id": "5032035",
+      "time": "2026-08-08 22:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大強調不會接受零敲碎打的協議。"
+    },
+    {
+      "id": "5032034",
+      "time": "2026-08-08 22:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大希望在兩週內阻止美國計劃實施的50%關稅。"
+    },
+    {
+      "id": "mkt:019fe1d3-7a07-7aab-8fc4-d249d1445ac4",
+      "time": "2026-08-08 22:42:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian media reported President Pezeshkian said now is the best time to reach an agreement, saying Iran is \"strong and united\" and \"seen as a victor in war.\""
+    },
     {
       "id": "5032033",
       "time": "2026-08-08 22:41:49",

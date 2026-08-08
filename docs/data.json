@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-08 22:42:33",
-  "count": 15843,
+  "updated": "2026-08-08 22:46:29",
+  "count": 15846,
   "items": [
+    {
+      "id": "5032036",
+      "time": "2026-08-08 22:45:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊發言人表示，已對胡塞武裝及其附屬“民兵組織”展開軍事行動。"
+    },
+    {
+      "id": "mkt:019fe1d5-dfd1-7aab-8fc4-e029634586d8",
+      "time": "2026-08-08 22:45:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's armed forces spokesman said forces launched operations against Houthi fighters and affiliated militias."
+    },
+    {
+      "id": "mkt:019fe1d4-cb04-7aab-8fc4-da2849ca910a",
+      "time": "2026-08-08 22:44:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Fox News reported US Vice President Vance said Iran has notified the US that, despite statements by regime insiders about imposing transit fees on passage through the Strait of Hormuz, Tehran will not impose such fees."
+    },
+    {
+      "id": "5032035",
+      "time": "2026-08-08 22:43:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大強調不會接受零敲碎打的協議。"
+    },
+    {
+      "id": "5032034",
+      "time": "2026-08-08 22:42:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大希望在兩週內阻止美國計劃實施的50%關稅。"
+    },
+    {
+      "id": "mkt:019fe1d3-7a07-7aab-8fc4-d249d1445ac4",
+      "time": "2026-08-08 22:42:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian media reported President Pezeshkian said now is the best time to reach an agreement, saying Iran is \"strong and united\" and \"seen as a victor in war.\""
+    },
     {
       "id": "5032033",
       "time": "2026-08-08 22:41:49",
@@ -144344,31 +144398,6 @@
         "國際"
       ],
       "text": "俄羅斯武裝部隊在烏克蘭敖德薩港損毀了一艘原供烏克蘭軍方使用的油輪，並在尼古拉耶夫港擊中一艘海上拖船。"
-    },
-    {
-      "id": "5020496",
-      "time": "2026-08-01 22:44:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【義大利那不勒斯附近地震造成26人受傷】義大利民防部門1日釋出公告說，截至目前，義大利南部那不勒斯附近7月31日晚發生的地震已造成26人受傷。"
-    },
-    {
-      "id": "5020495",
-      "time": "2026-08-01 22:44:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總、應急管理部針對重慶啟動防汛四級應急響應】據氣象部門預報，8月1日至3日，重慶部分地區有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月1日22時針對重慶啟動防汛四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "5020494",
-      "time": "2026-08-01 22:42:50",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國駐中東多國使館釋出警報 稱地區局勢可能升級】美國駐中東多國大使館1日釋出安全警報說，中東地區緊張局勢有可能進一步升級，身處中東的美國公民應做好應對航班取消等情況的準備，並考慮離開該地區。當天，美國駐埃及、沙烏地阿拉伯、科威特、約旦、巴林、卡達、阿聯酋、伊拉克、阿曼、以色列等國大使館分別釋出安全警報，主要內容基本一致。"
     }
   ]
 }
