@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 16:33:54",
-  "count": 15834,
+  "updated": "2026-08-08 16:37:49",
+  "count": 15832,
   "items": [
+    {
+      "id": "5031867",
+      "time": "2026-08-08 16:36:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪機車：成立小車手培育專項基金，每年捐贈100萬元】8月8日，@張雪機車 宣佈成立小車手培育專項基金，每年捐贈100萬元，定向資助11至16歲的中國青少年摩托車手，每人每年可獲10萬至30萬元，首批計劃資助5至10人。"
+    },
+    {
+      "id": "mkt:019fe084-0475-7aab-8fc3-46046e7ec1e3",
+      "time": "2026-08-08 16:36:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Senate confirmed Todd Blanche as U.S. Attorney General."
+    },
     {
       "id": "5031866",
       "time": "2026-08-08 16:31:01",
@@ -144262,38 +144278,6 @@
         "公司"
       ],
       "text": "【受降雨影響 廣州白雲機場啟動航班大面積延誤藍色響應】從廣州白雲國際機場瞭解到，根據機場氣象預報，8月1日下午，受降雨天氣影響，預計機場全區將出現中到大陣雨的伴雷暴天氣。截至15時35分，白雲機場延誤一小時以上仍未執行出港的客運航班為42班，隨即啟動航班大面積延誤應急處置藍色響應。白雲機場表示，已第一時間向各駐場單位推送天氣預警，啟動應急預案，值機、安檢、問詢、行李查詢等崗位，將動態增開服務櫃檯或通道，全力做好複雜天氣服務保障。待天氣好轉後，將盡快與空管、航司協調對接，加速航班放行。同時提醒廣大旅客，留意天氣變化及所乘航空公司釋出的航班最新動態，合理安排出行。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fbc78-05fb-7aab-8f41-5ca04fe4d66e",
-      "time": "2026-08-01 16:36:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran military says it recently used a new drone】Iran's army spokesman told Iranian media the military recently used a new drone; further details will be released in coming days."
-    },
-    {
-      "id": "5020328",
-      "time": "2026-08-01 16:36:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱近期使用新型無人機】伊朗陸軍發言人稱伊朗近期使用了新型無人機，具體細節將在未來幾天內公佈。（新華社）"
-    },
-    {
-      "id": "mkt:019fbc75-90b1-7aab-8f41-56c61ad7b9cf",
-      "time": "2026-08-01 16:34:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jiechuang Intelligence says ~430 mln yuan of domestic compute projects signed since 2026】Jiechuang Intelligence told investors it has signed about 430 mln yuan of projects in China’s domestic compute sector since 2026. Leveraging its Changqing Cloud platform, the company is advancing compatibility and ecosystem partnerships for domestic software and hardware and supplying general compute, intelligent compute and dedicated/hybrid cloud products and services to customers."
-    },
-    {
-      "id": "5020327",
-      "time": "2026-08-01 16:34:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【我國首臺掘爆機在武漢下線】8月1日，我國首臺掘爆機“翔龍號”在湖北省武漢市中鐵科工江夏製造基地下線。這款裝備融合掘進法與鑽爆法兩大主流工法，填補了複雜地質隧道一體化施工裝備領域的空白。“翔龍號”由清華大學與中鐵科工集團聯合研製，整機長70米，開挖直徑達4.55米，中心刀盤直徑達1.2米，整機重量約400噸。該裝備創新採用空心刀盤結構，依靠空心刀盤、中心刀盤協同運作，可靈活切換“前爆後掘”“前掘後爆”“全斷面掘進”等多種作業模式，融合超前鑽爆預處理、機械化連續開挖雙重優勢。"
     }
   ]
 }
