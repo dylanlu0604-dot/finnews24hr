@@ -1,7 +1,28 @@
 {
   "date": "2026-08-09",
-  "count": 62,
+  "count": 64,
   "items": [
+    {
+      "id": "mkt:019fe2af-0f8d-7aab-8fc5-fe691cd3cb27",
+      "time": "2026-08-09 02:42:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament."
+    },
+    {
+      "id": "5032096",
+      "time": "2026-08-09 02:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黑海遇襲商船停靠土耳其港口】當地時間3日，與土耳其相關的商船“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。土耳其方面對商船在黑海海域遇襲已表示嚴重關切，警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。8月8日，在黑海遭到無人機襲擊、船體受損的商船“娜代日達”號停靠在土耳其薩姆松港。"
+    },
     {
       "id": "mkt:019fe2a4-1415-7aab-8fc5-f2e5325d8471",
       "time": "2026-08-09 02:30:31",

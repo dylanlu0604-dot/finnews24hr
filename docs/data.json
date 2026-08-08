@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-09 02:40:12",
-  "count": 15861,
+  "updated": "2026-08-09 02:44:00",
+  "count": 15862,
   "items": [
+    {
+      "id": "mkt:019fe2af-0f8d-7aab-8fc5-fe691cd3cb27",
+      "time": "2026-08-09 02:42:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament."
+    },
+    {
+      "id": "5032096",
+      "time": "2026-08-09 02:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黑海遇襲商船停靠土耳其港口】當地時間3日，與土耳其相關的商船“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。土耳其方面對商船在黑海海域遇襲已表示嚴重關切，警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。8月8日，在黑海遭到無人機襲擊、船體受損的商船“娜代日達”號停靠在土耳其薩姆松港。"
+    },
     {
       "id": "mkt:019fe2a4-1415-7aab-8fc5-f2e5325d8471",
       "time": "2026-08-09 02:30:31",
@@ -144517,14 +144538,6 @@
         "國際"
       ],
       "text": "特朗普：《反武器化法案》必須獲得透過，遭拜登政府利用司法手段打壓的受害者理應得到公正對待。"
-    },
-    {
-      "id": "mkt:019fbea3-6b6c-7aab-8f43-62479732967a",
-      "time": "2026-08-02 02:43:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK prime minister Burnham: Devolution plan to pave way for a written constitution】UK prime minister Burnham said his sweeping devolution package unveiled this week will \"strengthen the case for a written constitution.\" The blueprint, billed as a \"new model of government,\" goes further than earlier proposals by shifting large swathes of public spending control and local tax powers from Whitehall and independent bodies to mayors and other local leaders. Authorities would gain control over local transport, housing, innovation, energy, cultural investment and skills, plus greater oversight of policing and healthcare; they would receive a share of income tax revenue starting in 2028."
     }
   ]
 }
