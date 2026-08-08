@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-08 14:52:17",
-  "count": 15875,
+  "updated": "2026-08-08 14:56:32",
+  "count": 15869,
   "items": [
+    {
+      "id": "5031840",
+      "time": "2026-08-08 14:54:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本食品自給率跌至歷史新低】日本農林水產省8月7日公佈的資料顯示，2025財年，即2025年4月至2026年3月，按熱量計算的日本食品自給率下降1個百分點至37%，為歷史最低水平。日本食品自給率是指國內生產的食品佔國內食品總供給的比例。日本農林水產省表示，大米消費減少是食品自給率下降的重要原因。日本大米消費長期以來主要依靠本國供應，是日本食品自給率的重要支撐。米價上漲導致居民大米消費減少，國產大米提供的熱量隨之減少，顯著拉低日本整體食品自給率。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fe025-3ca7-7aab-8fc2-fc0562714821",
+      "time": "2026-08-08 14:52:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A drone strike on Saturday hit an untreated napatha tank at Libya's Zawiya refinery, causing a leak; the situation is now under control."
+    },
+    {
+      "id": "5031839",
+      "time": "2026-08-08 14:52:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "利比亞扎維耶煉油廠表示，週六一架無人機襲擊了一個未處理的石腦油罐，導致發生洩漏，目前情況已得到控制。"
+    },
+    {
+      "id": "5031838",
+      "time": "2026-08-08 14:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江溫州市釋出颱風橙色預警訊號】溫州市氣象臺2026年8月8日14時23分將溫州市區颱風黃色預警訊號升級為颱風橙色預警訊號：受今年第13號颱風“白海豚”影響，預計今天下午溫州市區和沿海平原、沿海海面風力分別有7—9級和9—11級；夜裡到明天繼續增強至10—12級和13—15級。今天夜裡起溫州市區所有街道（鎮）陰有大到暴雨，明天和後天陰有暴雨到大暴雨，部分特大暴雨。"
+    },
     {
       "id": "mkt:019fe01e-da58-7aab-8fc2-f63d24921d49",
       "time": "2026-08-08 14:45:46",
@@ -144570,102 +144603,6 @@
         "國際"
       ],
       "text": "起亞汽車美國公司7月銷量創紀錄，達75,857輛，同比增長7%。"
-    },
-    {
-      "id": "mkt:019fbc1b-d50b-7aab-8f40-992b1dda9ca8",
-      "time": "2026-08-01 14:56:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "ZELENSKIY says Ukraine lacks air-defense supplies and has shot down only one Russian ballistic missile."
-    },
-    {
-      "id": "5020280",
-      "time": "2026-08-01 14:55:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司高管表示，該公司7-9月液化石油氣零售業務每售出一個14.2千克裝氣瓶，預計虧損約250盧比。"
-    },
-    {
-      "id": "mkt:019fbc1a-cc9b-7aab-8f40-931c2dd60785",
-      "time": "2026-08-01 14:55:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "A top executive at an Indian oil company said the firm will invest about INR 1 tln over the next 5-6 years to expand petrochemical capacity."
-    },
-    {
-      "id": "mkt:019fbc1a-a575-7aab-8f40-8de2b5012e8d",
-      "time": "2026-08-01 14:54:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Ukrainian President Zelenskiy said Russia launched 35 missiles and 185 drones at Ukraine."
-    },
-    {
-      "id": "mkt:019fbc1a-8672-7aab-8f40-87e54aaf0b10",
-      "time": "2026-08-01 14:54:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kazakhstan's Energy Ministry said a proposal to fully halt the Caspian Pipeline Consortium (CPC) is not under consideration."
-    },
-    {
-      "id": "5020279",
-      "time": "2026-08-01 14:54:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，俄羅斯發射了35枚導彈、185架無人機襲擊烏克蘭。由於烏克蘭缺乏防空裝備，僅一枚俄羅斯彈道導彈被擊落。"
-    },
-    {
-      "id": "5020278",
-      "time": "2026-08-01 14:53:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【出欄增加，生豬價格繼續走低】本週國內生豬價格先跌後穩。據中國養豬網的資料，7月31日，生豬（外三元）價格為10.35元/公斤，與上週五（7月24日）的10.69元/公斤相比，下降3.2%。從一週均價來看，本週生豬均價為10.45元/公斤，與上週10.82元/公斤的均價相比，下降3.4%。"
-    },
-    {
-      "id": "5020277",
-      "time": "2026-08-01 14:53:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度石油公司高管稱，公司未來5-6年將投資約1萬億盧比用於石化產能擴張。"
-    },
-    {
-      "id": "5020276",
-      "time": "2026-08-01 14:52:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克能源部表示，目前不考慮全面停止裡海管道聯盟(CPC)的運營。"
-    },
-    {
-      "id": "5020275",
-      "time": "2026-08-01 14:52:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位莫斯科訊息人士表示，俄方已準備好與烏克蘭進行談判。"
     }
   ]
 }
