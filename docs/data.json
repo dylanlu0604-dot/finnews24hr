@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-08 17:40:23",
-  "count": 15821,
+  "updated": "2026-08-08 17:44:19",
+  "count": 15817,
   "items": [
+    {
+      "id": "5031891",
+      "time": "2026-08-08 17:41:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長：伊拉克當前石油出口量為每日150‑170萬桶。"
+    },
+    {
+      "id": "5031890",
+      "time": "2026-08-08 17:40:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "伊拉克石油部長：伊拉克石油日產量目前為270萬桶。"
+    },
     {
       "id": "5031889",
       "time": "2026-08-08 17:39:20",
@@ -144118,54 +144135,6 @@
         "MKT News"
       ],
       "text": "【Ukraine seeks greater permission to use Starlink】US sources said on July 31 that during a recent US visit Ukrainian President Zelenskiy asked President Trump and other US officials to persuade SpaceX founder Elon Musk to allow Ukrainian forces to use SpaceX’s Starlink satellite internet system to strike ballistic missile launchers inside Russia. Multiple sources said Zelenskiy raised the request in a closed‑door White House meeting with Trump on July 28. Russia has begun deploying a similar low‑Earth‑orbit satellite system. Zelenskiy said Ukraine needs higher‑precision strikes on Russian missile launchers before winter to deter a Russian winter offensive and curb attacks on Ukrainian energy infrastructure."
-    },
-    {
-      "id": "5020362",
-      "time": "2026-08-01 17:44:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【暑期檔票房破70億】據網路平臺資料，截至8月1日，2026年暑期檔總票房（含預售）突破70億元。"
-    },
-    {
-      "id": "5020361",
-      "time": "2026-08-01 17:43:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙內政大臣：非法進入休達的人員永遠無法獲得合法居留身份。"
-    },
-    {
-      "id": "5020360",
-      "time": "2026-08-01 17:42:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙內政大臣：休達庇護尋求者危機的死亡人數已上升至67人，偷渡組織負有責任。"
-    },
-    {
-      "id": "5020359",
-      "time": "2026-08-01 17:42:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙內政大臣：休達發生的事件是對我國主權的一次不可接受的攻擊。"
-    },
-    {
-      "id": "5020358",
-      "time": "2026-08-01 17:41:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟海上力量：一艘商船在義大利護衛艦的保護下安全穿越紅海。"
-    },
-    {
-      "id": "5020357",
-      "time": "2026-08-01 17:40:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普說伊朗確實挺硬氣】當地時間7月31日，美國總統特朗普在馬里蘭州戴維營主持內閣會議並接受媒體採訪。在談及美軍中央司令部打擊伊朗的行動時，特朗普表示，很難預測還需要發動多少次打擊才能取得效果。特朗普說盡管伊朗海軍與空軍力量嚴重受損，但對方並未放棄抵抗，並表示“在這一點上不得不佩服他們”，稱伊朗確實挺硬氣。（CCTV國際時訊）"
     }
   ]
 }
