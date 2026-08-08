@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:42:49_
-_本檔包含 3182 則快訊，約 596574 字_
+_更新時間：2026-08-08 23:58:51_
+_本檔包含 3179 則快訊，約 596400 字_
+
+---
+
+### 2026-08-07 09:41:25  #其他
+
+【德國疾控機構報告：今年高溫已致約1.19萬人死亡】德國羅伯特·科赫研究所6日釋出報告稱，截至7月26日，德國今年已有約1.19萬人死於高溫相關原因，今年由此成為該機構2016年開始統計這一資料以來，死於高溫人數最多的一年。報告稱，保守估計德國有約9600人因今年6月下旬的極端熱浪致死，實際死亡人數可能還會增加。
+
+---
+
+### 2026-08-07 09:40:33  #MKT News #Important #Market Regions #Greater China
+
+【Eight major Chinese polysilicon producers pledge not to sell below cost】Eight leading Chinese polysilicon producers signed an anti-cutthroat pricing pledge in Shanghai on the evening of Aug. 6, agreeing not to sell polysilicon below cost, according to signatories; the move came one week after the State Administration for Market Regulation issued price-compliance guidance for the photovoltaic sector on July 31.
 
 ---
 
@@ -19183,35 +19195,5 @@ State Department said U.S. Secretary of State Rubio and UK Foreign Secretary Mil
 ### 2026-08-06 00:23:58  #MKT News #Commodities #Energy #PSX.N #Impact bullish #WTI
 
 Phillips 66 (PSX.N) said global refining capacity normalization will take longer than was required in 2022.
-
----
-
-### 2026-08-06 00:23:33  #MKT News
-
-Iraq's state news agency reported an Iraqi security delegation will visit Saudi Arabia.
-
----
-
-### 2026-08-06 00:22:46  #MKT News
-
-NTSB chair says the board is considering whether to open an investigation into a loss-of-separation incident involving President Trump’s helicopter.
-
----
-
-### 2026-08-06 00:21:04  #其他
-
-伊拉克安全代表團將訪問沙烏地阿拉伯。
-
----
-
-### 2026-08-06 00:19:10  #公司
-
-菲利普斯66執行長：全球煉油行業正遭遇供給衝擊，而非需求衝擊。
-
----
-
-### 2026-08-06 00:19:07  #MKT News
-
-【Axios: US-brokered Israel-Lebanon talks in Rome end early after local situation change】US officials told Axios the US-brokered Israel-Lebanon talks in Rome ended at 15:30 Rome time after changes in the local situation prompted an early adjournment. Both sides will resume talks tomorrow morning. Discussions covered political and military issues and made very positive progress. Technical teams advanced on key implementation details of a tripartite framework.
 
 ---

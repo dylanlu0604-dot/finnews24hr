@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:42:49_
-_本檔包含 3367 則快訊，約 596676 字_
+_更新時間：2026-08-08 23:58:51_
+_本檔包含 3370 則快訊，約 596317 字_
+
+---
+
+### 2026-08-06 00:23:33  #MKT News
+
+Iraq's state news agency reported an Iraqi security delegation will visit Saudi Arabia.
+
+---
+
+### 2026-08-06 00:22:46  #MKT News
+
+NTSB chair says the board is considering whether to open an investigation into a loss-of-separation incident involving President Trump’s helicopter.
+
+---
+
+### 2026-08-06 00:21:04  #其他
+
+伊拉克安全代表團將訪問沙烏地阿拉伯。
+
+---
+
+### 2026-08-06 00:19:10  #公司
+
+菲利普斯66執行長：全球煉油行業正遭遇供給衝擊，而非需求衝擊。
+
+---
+
+### 2026-08-06 00:19:07  #MKT News
+
+【Axios: US-brokered Israel-Lebanon talks in Rome end early after local situation change】US officials told Axios the US-brokered Israel-Lebanon talks in Rome ended at 15:30 Rome time after changes in the local situation prompted an early adjournment. Both sides will resume talks tomorrow morning. Discussions covered political and military issues and made very positive progress. Technical teams advanced on key implementation details of a tripartite framework.
 
 ---
 
@@ -20293,17 +20323,5 @@ Russian Defence Ministry said Russian armed forces continue to attack Ukrainian 
 ### 2026-08-04 22:51:20  #MKT News
 
 President Trump said he asked Senator Darlene Graham to enter the Republican special primary on Aug. 11; she has accepted.
-
----
-
-### 2026-08-04 22:50:13  #其他
-
-市場訊息：iPhone 20 的螢幕尺寸將大於當前的 Pro 以及 Pro Max 機型，有爆料人士稱，6.4 英寸和 7 英寸版本的螢幕正在進行原型機測試。
-
----
-
-### 2026-08-04 22:49:28  #Trading Economics #Markets #Commodity #Importance 0
-
-Cotton Slips from 2-Month High — Cotton futures traded below 82 cents per pound after reaching a more than two-month high of 82.6 cents on August 3rd, as investors took profits following last week's rally and lower crude oil prices weighed on demand. Cotton speculators reduced their net long position by around two thousand contracts, adding to selling pressure. Lower oil prices also made synthetic fibers such as polyester relatively cheaper, reducing cotton's competitiveness. However, downside pressure remained limited by persistent weather-related supply concerns. In India, below-average monsoon rainfall is forecast to continue through August, threatening crop yields as nearly half of farmland lacks irrigation. Meanwhile, El Niño is expected to strengthen through September, increasing the risk of dry conditions. In Brazil, cotton production is projected to decline 1.5% in 2027 despite a 4.4% increase in planted area, as El Niño-related dryness is expected to reduce yields, offsetting the expansion in acreage.
 
 ---

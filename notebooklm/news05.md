@@ -1,7 +1,13 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:42:49_
-_本檔包含 2807 則快訊，約 595634 字_
+_更新時間：2026-08-08 23:58:51_
+_本檔包含 2804 則快訊，約 596120 字_
+
+---
+
+### 2026-08-03 20:38:07  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
+
+Chile Economic Activity Rebounds in June — Chile's IMACEC economic activity index rose 2.4% year-on-year in June 2026, rebounding from a 0.9% decline in May and marking its strongest annual growth since September 2025. Goods-producing activity increased 3.9%, supported by a 9.8% rise in mining and quarrying, particularly copper production, although gains were partly offset by a 0.7% contraction in manufacturing. Trade expanded 5.4%, with all segments posting positive results, led by wholesale trade amid stronger sales of machinery and equipment. Services activity also increased by 1.0%, driven by gains in personal and business services. On a seasonally adjusted monthly basis, economic activity expanded 0.6%, rebounding from a 0.2% decline in the previous month.
 
 ---
 
@@ -16928,29 +16934,5 @@ Israel said it killed a Hezbollah member in southern Lebanon and that one Israel
 ### 2026-08-02 00:00:42  #其他
 
 據燈塔專業版實時資料，截至8月2日0時0分，影片《蜘蛛俠：嶄新之日》票房突破7億。
-
----
-
-### 2026-08-01 23:58:20  #國際
-
-【美軍稱已部署一架重型運輸直升機至中東地區】當地時間8月1日，美國中央司令部表示，一架美國陸軍CH-47“支奴幹”運輸直升機準備在中東地區降落。據悉，CH-47“支奴幹”是一款重型運輸直升機，可在各種作戰和複雜環境中執行運輸人員、裝備及物資的任務。（央視新聞）
-
----
-
-### 2026-08-01 23:47:24  #國際
-
-伊朗最高領袖顧問穆赫貝爾：一旦（美國）這套霸權體系支柱崩塌，屆時既不會留存可供發號施令的權力中心，也不存在可供掠奪的市場。
-
----
-
-### 2026-08-01 23:46:56  #國際
-
-伊朗最高領袖顧問穆赫貝爾：你們（美國）依靠軍事推演進行盤算，而我們將以歷史邏輯作出回應。
-
----
-
-### 2026-08-01 23:46:42  #國際
-
-伊朗最高領袖顧問穆赫貝爾：針對伊朗基礎設施發動襲擊，將會引爆“維繫250年美國霸權之下的各類裂痕”。
 
 ---

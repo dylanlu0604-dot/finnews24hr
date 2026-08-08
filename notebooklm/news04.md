@@ -1,7 +1,19 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 23:42:49_
-_本檔包含 3365 則快訊，約 596067 字_
+_更新時間：2026-08-08 23:58:51_
+_本檔包含 3366 則快訊，約 596400 字_
+
+---
+
+### 2026-08-04 22:50:13  #其他
+
+市場訊息：iPhone 20 的螢幕尺寸將大於當前的 Pro 以及 Pro Max 機型，有爆料人士稱，6.4 英寸和 7 英寸版本的螢幕正在進行原型機測試。
+
+---
+
+### 2026-08-04 22:49:28  #Trading Economics #Markets #Commodity #Importance 0
+
+Cotton Slips from 2-Month High — Cotton futures traded below 82 cents per pound after reaching a more than two-month high of 82.6 cents on August 3rd, as investors took profits following last week's rally and lower crude oil prices weighed on demand. Cotton speculators reduced their net long position by around two thousand contracts, adding to selling pressure. Lower oil prices also made synthetic fibers such as polyester relatively cheaper, reducing cotton's competitiveness. However, downside pressure remained limited by persistent weather-related supply concerns. In India, below-average monsoon rainfall is forecast to continue through August, threatening crop yields as nearly half of farmland lacks irrigation. Meanwhile, El Niño is expected to strengthen through September, increasing the risk of dry conditions. In Brazil, cotton production is projected to decline 1.5% in 2027 despite a 4.4% increase in planted area, as El Niño-related dryness is expected to reduce yields, offsetting the expansion in acreage.
 
 ---
 
@@ -20257,11 +20269,5 @@ AUTODESK 完成對 MAINTAINX 的收購。
 ### 2026-08-03 20:38:07  #公司 #國際
 
 【博楓完成對橡樹資本收購，整合全球信貸業務平臺】8月3日，博楓（Brookfield）宣佈已完成對全球信貸管理公司橡樹資本（Oaktree）的收購。此舉標誌著雙方自2019年開啟的合作邁入全新階段，將橡樹資本與博楓的平臺完全整合。交易完成後，美國成為博楓資產管理公司的最大市場，容納了其超六成員工並貢獻近半數營收。橡樹資本聯合創始人霍華德·馬克斯（Howard Marks）將出任橡樹資本聯席主席，並繼續擔任博楓董事。
-
----
-
-### 2026-08-03 20:38:07  #Trading Economics #Economy #Chile #Leading Economic Index #Importance 1
-
-Chile Economic Activity Rebounds in June — Chile's IMACEC economic activity index rose 2.4% year-on-year in June 2026, rebounding from a 0.9% decline in May and marking its strongest annual growth since September 2025. Goods-producing activity increased 3.9%, supported by a 9.8% rise in mining and quarrying, particularly copper production, although gains were partly offset by a 0.7% contraction in manufacturing. Trade expanded 5.4%, with all segments posting positive results, led by wholesale trade amid stronger sales of machinery and equipment. Services activity also increased by 1.0%, driven by gains in personal and business services. On a seasonally adjusted monthly basis, economic activity expanded 0.6%, rebounding from a 0.2% decline in the previous month.
 
 ---
