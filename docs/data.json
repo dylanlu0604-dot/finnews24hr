@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-08 11:04:00",
-  "count": 15949,
+  "updated": "2026-08-08 11:07:56",
+  "count": 15946,
   "items": [
+    {
+      "id": "5031796",
+      "time": "2026-08-08 11:06:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國融基金總經理變更】根據國融基金8月8日公告，總經理毛靈俊因個人原因離任，總經理職位暫由張圓輝代任。根據國融基金安排，該公司董事會選舉韓光華擬任公司總經理，待韓光華完成相關程式後履職。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608083835809642",
+      "time": "2026-08-08 11:05:11",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【“美聯儲傳聲筒”要啞了？貝森特之怒和沃什新政｜美聯儲前哨】哈佛大學肯尼迪學院經濟學教授福爾曼曾任美國總統經濟顧問委員會主席。他對記者表示，眾所周知，沃什在過去15年裡一直在批評美聯儲，“他非常聰明，經驗也很豐富，但他以前的批評往往只停留在表面，從未明確說明自己會採取什麼不同的做法或如何管理美聯儲；而現在他身處其中，正經歷著從批評者到領導者的轉變。我認為他的做法很明智，那就是不回答任何問題。”"
+    },
+    {
+      "id": "5031795",
+      "time": "2026-08-08 11:03:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雪佛蘭將停止在中國市場銷售？通用汽車仍未正面回應】近日，有訊息稱，雪佛蘭品牌將停止在中國市場銷售。通用汽車方面回應稱，會繼續在中國生產雪佛蘭產品，並且積極探索在美國以外的海外市場機遇。同時，依舊會為現有的中國雪佛蘭車主提供完善的售後服務保障。8月5日，上汽集團與通用汽車簽署合資續約協議，將上汽通用合資期限延長20年至2047年。但對於中國市場的銷售問題，通用汽車方面並沒有正面回應。（21財經）"
+    },
     {
       "id": "5031794",
       "time": "2026-08-08 11:01:46",
@@ -145286,60 +145312,6 @@
         "其他"
       ],
       "text": "【極氪7月交付量達35837輛，同比大增111%創歷史新高】8月1日，極氪公佈7月交付資料，單月交付新車35837輛，同比增長111%，再創歷史新高。其中，極氪9X、8X超級電混車型領跑，獵裝及7X等純電車型全球交付量均已破萬。"
-    },
-    {
-      "id": "mkt:019fbb4a-48f8-7aab-8f3f-6fadd0a3f12d",
-      "time": "2026-08-01 11:07:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders"
-      ],
-      "text": "【Leapmotor: July deliveries top 100,000 for first time】Aug 1, 2026 — Chinese EV startup Leapmotor reported July deliveries of 101,267 units, up 102% YoY. It is Leapmotor’s first month above 100,000 units and the first domestic EV startup to record monthly deliveries above 100,000."
-    },
-    {
-      "id": "5020176",
-      "time": "2026-08-01 11:06:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "鴻蒙智行：7月交付45,046臺，1-7月累計交付28.6萬臺，同比增長13.7%。"
-    },
-    {
-      "id": "5020175",
-      "time": "2026-08-01 11:06:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "中國地震臺網正式測定：08月01日10時48分在日本本州東部附近海域（北緯41.30度，東經142.00度）發生5.5級地震，震源深度80千米。"
-    },
-    {
-      "id": "5020174",
-      "time": "2026-08-01 11:06:01",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【7月零跑交付超10萬輛】在剛剛過去的7月，零跑汽車交付超10萬輛 。這是零跑月銷首次突破10萬輛，零跑也是目前首個月度交付超過10萬輛的新勢力車企。"
-    },
-    {
-      "id": "mkt:019fbb48-c1ca-7aab-8f3f-63cb02793c62",
-      "time": "2026-08-01 11:05:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Oil tanker struck off Oman; engine room damaged, vessel disabled - UKMTO】UK Maritime Trade Operations (UKMTO) received a report of an incident 11 nm NNE of Lima, Oman. A tanker security officer said the vessel was struck by an unidentified projectile, damaging the engine room and leaving the ship without control; the regional coastguard has been notified. No injuries or pollution reported; authorities are investigating. UKMTO advised transiting vessels to exercise caution and report suspicious activity."
-    },
-    {
-      "id": "5020173",
-      "time": "2026-08-01 11:05:28",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【長鑫科技LPDDR6接近研發驗證尾聲】8月1日，行業人士向記者透露，長鑫儲存的LPDDR6（第六代低功耗雙倍資料速率記憶體標準）已接近研發驗證尾聲，這是量產前的重要一步。今年3月便有市場訊息稱，長鑫科技旗下的長鑫儲存在積極推進LPDDR6產品落地，並已向核心客戶送樣，有望2026年下半年釋出並實現量產匯入。相關資訊稱長鑫首款LPDDR6產品的設計規格速率為12800 Mbps，與SoC（系統級晶片）協同的執行基礎速率為10667Mbps，顆粒容量16Gb，採用1295 Ball（焊球）的POP（堆疊）封裝，在低功耗設計、RAS（可靠性、可用性和可維護性）功能比LPDDR5X（LPDDR5的強化版）產品有明顯最佳化提升。（第一財經）"
     }
   ]
 }
