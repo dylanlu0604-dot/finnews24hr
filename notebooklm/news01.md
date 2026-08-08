@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:56:59_
-_本檔包含 3147 則快訊，約 596673 字_
+_更新時間：2026-08-09 02:51:41_
+_本檔包含 3152 則快訊，約 596639 字_
+
+---
+
+### 2026-08-09 02:42:31  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament.
+
+---
+
+### 2026-08-09 02:40:34  #國際
+
+【黑海遇襲商船停靠土耳其港口】當地時間3日，與土耳其相關的商船“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。土耳其方面對商船在黑海海域遇襲已表示嚴重關切，警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。8月8日，在黑海遭到無人機襲擊、船體受損的商船“娜代日達”號停靠在土耳其薩姆松港。
+
+---
+
+### 2026-08-09 02:30:31  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
+
+Zelenskiy says Ukraine will receive from the US "very strong" security guarantees after the war ends.
+
+---
+
+### 2026-08-09 02:30:07  #央行 #國際
+
+伊朗央行行長：遭美國製裁的加密貨幣交易所與伊朗並無關聯，德黑蘭轉移的資金仍處於本國掌控之下。
+
+---
+
+### 2026-08-09 02:29:43  #MKT News #Market Regions #Europe & UK
+
+Ukrainian President Zelenskiy said Serbia is a sovereign state and should be encouraged to integrate into the EU wherever possible.
+
+---
+
+### 2026-08-09 02:29:41  #國際
+
+澤連斯基：衝突結束後，烏克蘭將獲得來自美國的 “力度極強” 的安全保障。
+
+---
+
+### 2026-08-09 02:29:35  #MKT News
+
+Ukrainian President Zelenskiy said Serbia is not a 'Little Russia,' calling the label Russian political rhetoric.
+
+---
+
+### 2026-08-09 02:28:49  #MKT News
+
+ZELENSKIY said he believes Serbia is on a path to rebuild its independence and break free from Russian influence.
+
+---
+
+### 2026-08-09 02:23:18  #國際
+
+美國官員：儘管參謀長聯席會議主席就彈藥問題發出警告，特朗普仍決意發動戰爭，並預期戰事會迅速結束。
+
+---
+
+### 2026-08-09 02:23:02  #國際
+
+美國五角大樓發言人：有關武器短缺的報道並不屬實，我們擁有開展任何打擊行動所需的全部物資。
+
+---
+
+### 2026-08-09 02:22:34  #MKT News
+
+A State Duma lawmaker said the Middle East is gradually freeing itself from Western control and becoming part of a broader Eurasian security architecture.
+
+---
+
+### 2026-08-09 02:17:03  #MKT News
+
+【M5.6 earthquake offshore Iwate, Japan; no tsunami expected】Japan Meteorological Agency said a magnitude-5.6 earthquake struck offshore Iwate Prefecture at 02:58 JST on the 9th (01:58 Beijing). Epicenter was near 40.1N, 142.4E with a focal depth of about 40 km. The agency said there is no tsunami threat.
+
+---
+
+### 2026-08-09 02:16:51  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+【Vance: Iran told U.S. it has no plan to levy Strait of Hormuz transit fees】U.S. Vice President JD Vance told Fox News Iran has informed Washington it currently has no plan to impose transit fees on the Strait of Hormuz. He said some within the Iranian establishment discuss levies, but Tehran has denied any plan. Vance added Washington expects Gulf oil and gas exports to return to pre-war levels, that Gulf states share that objective, and that the U.S. will judge actions rather than words.
+
+---
+
+### 2026-08-09 02:15:50  #國際
+
+【日本巖手縣近海發生5.6級地震】據日本氣象廳訊息，日本巖手縣近海9日凌晨發生5.6級地震。日本氣象廳說，地震發生於當地時間9日2時58分（北京時間9日1時58分）左右，震中位於北緯40.1度、東經142.4度，震源深度約40公里。日本氣象廳說，目前無需擔心發生海嘯災害。（新華社）
+
+---
+
+### 2026-08-09 02:05:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Israeli Channel 13 reports Israel is preparing for the possibility of independently resuming strikes on Iran without US support.
+
+---
+
+### 2026-08-09 02:05:42  #國際
+
+美國副總統萬斯稱，伊朗告知美國，並無在霍爾木茲海峽徵收通行費的計劃。
+
+---
+
+### 2026-08-09 02:02:56  #公司
+
+市場資訊：亞馬遜雲科技（AWS）要求工程師減少CPU資源浪費，算力需求激增造成EC2算力資源緊張。部分工程師申請伺服器，過去數小時即可到位，如今需要等待數日。
+
+---
+
+### 2026-08-09 01:59:04  #國際
+
+美國官員：受伊朗戰爭影響彈藥庫存急劇消耗，美國正調回原本劃撥給亞洲與歐洲的彈藥。
+
+---
+
+### 2026-08-09 01:58:44  #國際
+
+土耳其外長：土耳其已向俄羅斯和烏克蘭轉達立場，要求雙方宣佈暫停在黑海的軍事行動。
+
+---
+
+### 2026-08-09 01:58:38  #MKT News #Brent #Impact bearish #WTI
+
+Turkey's foreign minister said Ankara has told Russia and Ukraine they should stop attacks in the Black Sea.
 
 ---
 
@@ -18867,95 +18987,5 @@ Sri Lanka Tourist Arrivals Extend Decline in July — The number of foreign tour
 ### 2026-08-07 10:03:55  #兩會
 
 【河南省政協港澳臺僑和外事委員會原副主任張春香接受紀律審查和監察調查】中央紀委國家監委網站8月7日通報，據河南省紀委監委訊息：河南省政協港澳臺僑和外事委員會原副主任張春香涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-07 10:03:51  #其他
-
-【里昂：料騰訊控股次季國內遊戲收入重拾雙位數增長 商業服務收入加速至逾20%】里昂釋出研報稱，預期騰訊控股(00700)第二季總收入及經調整EBIT同比增長9.7%和9.1%至2,020億元人民幣/756億元人民幣，利潤率相對穩定。受新遊戲《三角洲行動》、《無畏契約手遊》及《洛克王國：世界》推動，線上遊戲有望重拾雙位數10%同比增長，但長青遊戲放緩。線上廣告收入應繼續錄得約20%同比增長，而商業服務收入在AI帶動下同比增長有望加速至20%。維持“高度確信跑贏大市”評級，目標價740港元不變。
-
----
-
-### 2026-08-07 10:03:29  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
-
-Hong Kong Stocks Extend Decline to Second Session — The Hang Seng Index declined 0.4%, or 110 points, to 25,420 on Friday as investors turned cautious amid rising geopolitical tensions and continued weakness in financial stocks. Asian markets traded lower after renewed tensions involving Iran pushed oil prices higher, fueling concerns that elevated energy costs could sustain inflation and delay interest rate cuts. Hong Kong-listed insurers and banks remained under pressure following concerns over China's stricter enforcement of taxes on offshore insurance products held by mainland residents, dampening expectations for cross-border wealth management demand. Losses were partly offset by gains in selected technology shares, led by AI firm MiniMax surging 6.5%, which rallied after joining the Hong Kong Stock Connect program, boosting optimism over stronger mainland investor participation. Other notable gainers included Tencent (0.7%), Z.AI Co. (5.2%), Kingboard Laminates (5.6%), and Wuci Biologics (3.0%).
-
----
-
-### 2026-08-07 10:03:20  #國際
-
-菲律賓第二季度出口同比增長12.2%。
-
----
-
-### 2026-08-07 10:03:08  #其他
-
-【八仙票房破13億】據貓眼專業版資料，電影 《八仙！》 上映21天， 總票房破13億。
-
----
-
-### 2026-08-07 10:02:58  #市場 #焦點
-
-現貨黃金突破4260美元/盎司，日內漲0.47%。
-
----
-
-### 2026-08-07 10:02:55  #國際
-
-菲律賓第二季度工業產出同比下降2.4%；服務業產出同比增長4.5%。
-
----
-
-### 2026-08-07 10:02:19  #國際
-
-菲律賓第二季度GDP環比增長0.6%；預估0.7%。
-
----
-
-### 2026-08-07 10:02:05  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Set for Muted Week — The Australian dollar fell to around $0.70, pulling back from a seven-week high and on track to finish the week largely unchanged as renewed tensions in the Middle East dampened risk sentiment. The US dollar strengthened, while oil prices climbed following reports of Iranian attacks in the Strait of Hormuz and a lack of clarity on an agreement to reopen the crucial waterway. Higher energy prices revived inflation concerns and reinforced expectations that global interest rates could remain higher for longer. In Australia, after three rate hikes this year, markets are pricing in virtually no chance of a rate increase at the Reserve Bank's monetary policy meeting next week following softer-than-expected second-quarter inflation data. Investors are also assigning little chance of a move in September, while pricing roughly a 60% probability of a rate hike in November if third-quarter inflation proves stronger than expected.
-
----
-
-### 2026-08-07 10:02:03  #市場 #焦點
-
-科創50日內漲幅達1.02%，成分股中，生益電子漲6.17%，源傑科技漲3.10%，佰維儲存漲2.97%，大全能源漲2.95%。
-
----
-
-### 2026-08-07 10:01:56  #其他
-
-【哥倫比亞新任總統將於今日就職】哥倫比亞新任總統德拉埃斯普列亞將於當地時間7日就職。德拉埃斯普列亞今年6月當選哥倫比亞新一任總統。
-
----
-
-### 2026-08-07 10:01:46  #其他
-
-【航行警告！北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，8月7日7時至19時、8月8日7時至13時，北部灣部分海域進行軍事訓練，禁止船舶駛入。 （央視軍事）
-
----
-
-### 2026-08-07 10:01:41  #公司
-
-【電氣風電在大連成立風電裝備新公司】企查查APP顯示，近日，上電（大連）風電裝備有限公司成立，經營範圍包含發電機及發電機組製造；海上風電相關裝備銷售；海上風電相關係統研發；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由電氣風電(688660)全資持股。
-
----
-
-### 2026-08-07 10:01:30  #國際
-
-菲律賓第二季度GDP同比增長2.3% 預估為2.9%。
-
----
-
-### 2026-08-07 10:01:03  #市場
-
-現貨白銀日內漲1%，現報62.14美元/盎司。
-
----
-
-### 2026-08-07 10:00:55  #其他
-
-【北京啟動防汛四級應急響應】北京市防汛辦：北京市8月7日9時釋出暴雨藍色預警訊號，並啟動防汛四級應急響應。
 
 ---

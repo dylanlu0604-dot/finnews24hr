@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:56:59_
-_本檔包含 3158 則快訊，約 596596 字_
+_更新時間：2026-08-09 02:51:41_
+_本檔包含 3156 則快訊，約 596477 字_
+
+---
+
+### 2026-08-07 10:03:51  #其他
+
+【里昂：料騰訊控股次季國內遊戲收入重拾雙位數增長 商業服務收入加速至逾20%】里昂釋出研報稱，預期騰訊控股(00700)第二季總收入及經調整EBIT同比增長9.7%和9.1%至2,020億元人民幣/756億元人民幣，利潤率相對穩定。受新遊戲《三角洲行動》、《無畏契約手遊》及《洛克王國：世界》推動，線上遊戲有望重拾雙位數10%同比增長，但長青遊戲放緩。線上廣告收入應繼續錄得約20%同比增長，而商業服務收入在AI帶動下同比增長有望加速至20%。維持“高度確信跑贏大市”評級，目標價740港元不變。
+
+---
+
+### 2026-08-07 10:03:29  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Extend Decline to Second Session — The Hang Seng Index declined 0.4%, or 110 points, to 25,420 on Friday as investors turned cautious amid rising geopolitical tensions and continued weakness in financial stocks. Asian markets traded lower after renewed tensions involving Iran pushed oil prices higher, fueling concerns that elevated energy costs could sustain inflation and delay interest rate cuts. Hong Kong-listed insurers and banks remained under pressure following concerns over China's stricter enforcement of taxes on offshore insurance products held by mainland residents, dampening expectations for cross-border wealth management demand. Losses were partly offset by gains in selected technology shares, led by AI firm MiniMax surging 6.5%, which rallied after joining the Hong Kong Stock Connect program, boosting optimism over stronger mainland investor participation. Other notable gainers included Tencent (0.7%), Z.AI Co. (5.2%), Kingboard Laminates (5.6%), and Wuci Biologics (3.0%).
+
+---
+
+### 2026-08-07 10:03:20  #國際
+
+菲律賓第二季度出口同比增長12.2%。
+
+---
+
+### 2026-08-07 10:03:08  #其他
+
+【八仙票房破13億】據貓眼專業版資料，電影 《八仙！》 上映21天， 總票房破13億。
+
+---
+
+### 2026-08-07 10:02:58  #市場 #焦點
+
+現貨黃金突破4260美元/盎司，日內漲0.47%。
+
+---
+
+### 2026-08-07 10:02:55  #國際
+
+菲律賓第二季度工業產出同比下降2.4%；服務業產出同比增長4.5%。
+
+---
+
+### 2026-08-07 10:02:19  #國際
+
+菲律賓第二季度GDP環比增長0.6%；預估0.7%。
+
+---
+
+### 2026-08-07 10:02:05  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Set for Muted Week — The Australian dollar fell to around $0.70, pulling back from a seven-week high and on track to finish the week largely unchanged as renewed tensions in the Middle East dampened risk sentiment. The US dollar strengthened, while oil prices climbed following reports of Iranian attacks in the Strait of Hormuz and a lack of clarity on an agreement to reopen the crucial waterway. Higher energy prices revived inflation concerns and reinforced expectations that global interest rates could remain higher for longer. In Australia, after three rate hikes this year, markets are pricing in virtually no chance of a rate increase at the Reserve Bank's monetary policy meeting next week following softer-than-expected second-quarter inflation data. Investors are also assigning little chance of a move in September, while pricing roughly a 60% probability of a rate hike in November if third-quarter inflation proves stronger than expected.
+
+---
+
+### 2026-08-07 10:02:03  #市場 #焦點
+
+科創50日內漲幅達1.02%，成分股中，生益電子漲6.17%，源傑科技漲3.10%，佰維儲存漲2.97%，大全能源漲2.95%。
+
+---
+
+### 2026-08-07 10:01:56  #其他
+
+【哥倫比亞新任總統將於今日就職】哥倫比亞新任總統德拉埃斯普列亞將於當地時間7日就職。德拉埃斯普列亞今年6月當選哥倫比亞新一任總統。
+
+---
+
+### 2026-08-07 10:01:46  #其他
+
+【航行警告！北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，8月7日7時至19時、8月8日7時至13時，北部灣部分海域進行軍事訓練，禁止船舶駛入。 （央視軍事）
+
+---
+
+### 2026-08-07 10:01:41  #公司
+
+【電氣風電在大連成立風電裝備新公司】企查查APP顯示，近日，上電（大連）風電裝備有限公司成立，經營範圍包含發電機及發電機組製造；海上風電相關裝備銷售；海上風電相關係統研發；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由電氣風電(688660)全資持股。
+
+---
+
+### 2026-08-07 10:01:30  #國際
+
+菲律賓第二季度GDP同比增長2.3% 預估為2.9%。
+
+---
+
+### 2026-08-07 10:01:03  #市場
+
+現貨白銀日內漲1%，現報62.14美元/盎司。
+
+---
+
+### 2026-08-07 10:00:55  #其他
+
+【北京啟動防汛四級應急響應】北京市防汛辦：北京市8月7日9時釋出暴雨藍色預警訊號，並啟動防汛四級應急響應。
 
 ---
 
@@ -18967,107 +19057,5 @@ Iran's deputy foreign minister said about 4-5 days after the new round of confli
 ### 2026-08-06 01:07:27  #國際
 
 伊朗副外長：美國同樣對伊朗實施了新制裁，並停止了關於釋放伊朗凍結資金的談判。
-
----
-
-### 2026-08-06 01:07:10  #國際
-
-以色列總理內塔尼亞胡：以色列國防軍計程車兵是世界上最勇敢、最恪守道義，同時也是遭受誹謗最多的軍人。絕不能讓來自境外的不實指控在我們本國社會內部擴散。
-
----
-
-### 2026-08-06 01:06:44  #國際
-
-以色列國防軍：需要在黎巴嫩採取更堅決、更顯著的回應。
-
----
-
-### 2026-08-06 01:06:41  #MKT News
-
-【Lula says U.S. revocation of Brazil ambassador's visa 'irresponsible'】Brazilian President Lula said on Aug. 5 the U.S. government's Aug. 4 decision to revoke the visa of Brazil's ambassador to the U.S. was "irresponsible" and poorly considered. Washington revoked the visa in retaliation after Brazil on July 25 refused visas for two senior U.S. State Department officials and has delayed accepting President Trump's nominee for ambassador to Brazil. Brazil suspects the U.S. officials' planned visit was intended to interfere in Brazil's Oct. presidential election; Lula said Brazil will not accept electoral interference.
-
----
-
-### 2026-08-06 01:05:48  #國際
-
-伊朗副外長：美國違反了諒解備忘錄中的所有義務，因為它重新實施了海上封鎖並恢復了戰爭。
-
----
-
-### 2026-08-06 01:05:25  #國際
-
-伊朗副外長：關於霍爾木茲海峽的任何諒解備忘錄都必須僅限於伊朗和阿曼之間，我們絕不會接受任何形式的外部干預。
-
----
-
-### 2026-08-06 01:04:51  #MKT News
-
-Iran's deputy foreign minister said Iran is demanding changes to shipping lanes in the Strait of Hormuz, saying the current routes are no longer suitable given the security situation.
-
----
-
-### 2026-08-06 01:04:39  #公司
-
-亞馬遜旗下Zoox將在拉斯維加斯推出付費乘車服務。
-
----
-
-### 2026-08-06 01:03:43  #國際
-
-伊朗副外長：新（達成）方案的設計將使船舶在駛入以及駛出航線的部分割槽段時，均需經過伊朗水域。
-
----
-
-### 2026-08-06 01:02:46  #Trading Economics #Markets #Commodity #Importance 0
-
-Palladium Climbs Toward Two-Month High — Palladium futures climbed above $1,360 per ounce, heading toward a two-month high as broad gains across the precious metals complex supported prices. Progress in US-Iran negotiations led markets to scale back expectations for a September Fed rate hike, while a weaker dollar made dollar-denominated metals more affordable for foreign buyers. Investors now await upcoming US labor market data for further clues on the Fed's policy outlook. US consumers continued to favor hybrid vehicles over battery-electric models in the first half of 2026, supporting demand for palladium used in catalytic converters. However, broader demand remained under pressure as Chinese EV sales rose for a third straight month in July. Nornickel, the world's largest palladium producer, also expects a global palladium market surplus in 2026 as rising EV adoption weakens long-term demand.
-
----
-
-### 2026-08-06 01:02:33  #MKT News #Important #WTI #Impact bullish #Brent
-
-Iran's deputy foreign minister said a new agreement with Oman will close a temporary shipping route in the Strait of Hormuz.
-
----
-
-### 2026-08-06 01:01:55  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iran's deputy foreign minister said Iran's diplomatic positions and actions are 100% coordinated with battlefield developments.
-
----
-
-### 2026-08-06 01:01:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iran's deputy foreign minister said that under the current state of war, diplomacy and battlefield operations complement each other rather than oppose one another.
-
----
-
-### 2026-08-06 01:01:40  #MKT News #WTI #Impact bullish #Brent
-
-Iran's deputy foreign minister said U.S. resuming its commitments under the Islamabad memorandum of understanding is a condition but insufficient to reopen the Strait of Hormuz.
-
----
-
-### 2026-08-06 01:01:10  #國際
-
-伊朗副外長表示，美國履行《伊斯蘭堡諒解備忘錄》中的承諾是霍爾木茲海峽重新開放的前提條件，但僅滿足這一點並不夠。
-
----
-
-### 2026-08-06 01:00:53  #焦點 #國際
-
-伊朗：與阿曼達成的新協議將關閉霍爾木茲海峽現有臨時航運通道。
-
----
-
-### 2026-08-06 01:00:33  #MKT News
-
-Iran's deputy foreign minister said talks with the United States are taking place against a backdrop of mistrust, and that mistrust remains the foundation of the current process.
-
----
-
-### 2026-08-06 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.66%，滬銅收漲0.56%，滬鋁收漲0.29%，滬鋅收漲1.60%，滬鉛收平，滬鎳收跌0.17%，滬錫收漲1.70%。氧化鋁夜盤收漲2.56%，鋁合金收漲0.13%。不鏽鋼夜盤收跌0.72%。
 
 ---

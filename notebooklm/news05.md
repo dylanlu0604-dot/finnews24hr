@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:56:59_
-_本檔包含 2822 則快訊，約 596433 字_
+_更新時間：2026-08-09 02:51:41_
+_本檔包含 2836 則快訊，約 596537 字_
+
+---
+
+### 2026-08-03 21:11:55  #公司
+
+【未來3至5年中國平安計劃每年招聘逾萬名應屆畢業生】記者自中國平安獲悉，未來3至5年，該公司計劃逐步將每年應屆畢業生的招聘量提升至1萬人以上。同時，其2026 年度應屆生崗位需求超6000個，併為超3000名在校學生提供實習機會。中國平安是我國三大綜合金融集團之一，該公司近日還宣佈與中國人民大學、北京航空航天大學、中央財經大學等21所高校共建校企實習基地，與15所高校簽署校企合作協議，以實際業務場景連結人才供需，促進應屆畢業生高質量就業。（國是直通車）
+
+---
+
+### 2026-08-03 21:11:22  #市場 #國際
+
+美國商品期貨交易委員會：瑞銀金融服務因反洗錢監控監管失職，需繳納 800 萬美元罰金  。
+
+---
+
+### 2026-08-03 21:10:53  #國際
+
+美國金融犯罪執法網路：處罰緣由為故意違反《銀行保密法》。
+
+---
+
+### 2026-08-03 21:10:46  #國際
+
+美國金融犯罪執法網路透過郵件發表宣告，就瑞銀金融相關處罰作出表態。
+
+---
+
+### 2026-08-03 21:10:19  #其他
+
+【上海：到2030年基本建成現代海洋城市】近日，《上海市水系統治理“十五五”規劃》與《上海市海洋發展“十五五”規劃》正式印發實施。根據規劃，到2030年，上海將基本建成安全韌性、優質集約、綠色低碳、智慧高效的現代水系統治理體系，並基本建成國際領先的現代海洋城市和中國特色海洋強國建設引領區。“十四五”期間，上海水務領域累計完成投資約1352億元，吳淞江工程、原水西環線等重大工程有序推進。海洋經濟方面，2025年全市海洋生產總值達1.11萬億元，佔全國海洋生產總值的10%，單位海域面積產出穩居全國首位。（央視新聞）
+
+---
+
+### 2026-08-03 21:10:03  #市場 #國際
+
+美國商品期貨交易委員會勒令瑞銀金融服務支付 800 萬美元罰款。
+
+---
+
+### 2026-08-03 21:09:34  #市場
+
+【魯比尼揚當選亞美尼亞議長】埃裡溫訊息：來自亞美尼亞執政黨公民合約黨的議員魯本·魯比尼揚在3日舉行的投票中當選亞美尼亞國民會議（議會）新一任議長。 亞美尼亞議會議員當天就是否同意魯比尼揚成為新一任議長舉行投票。105名議員中有91人參加投票，魯比尼揚以63票贊成、28票反對的結果當選議長。 亞美尼亞新一屆議會2日舉行首次會議，公民合約黨在會上提名魯比尼揚為新任議長人選，議會中的兩個反對派政黨聯盟未提名議長人選，魯比尼揚因此成為議長的唯一候選人。 6月7日，亞美尼亞舉行議會選舉，公民合約黨獲得議會105個席位中的64個，政黨聯盟“強大亞美尼亞”獲得29個席位，政黨聯盟“亞美尼亞”獲得12個席位。 亞美尼亞議會實行一院制，議員任期5年。(新華社)
+
+---
+
+### 2026-08-03 21:09:17  #Trading Economics #Economy #Brazil #Manufacturing PMI #Importance 1
+
+Brazil Manufacturing PMI Hits Five-Month Low — The S&P Global Brazil Manufacturing PMI fell to 47.5 in July 2026 from 50.8 in June, signaling a renewed deterioration in the sector and the sharpest contraction since February. New orders posted their steepest decline in more than three years, while export orders also fell markedly amid weaker external demand. With both domestic and foreign sales declining, manufacturers cut production for a third straight month at the fastest pace since February. Employment fell, ending a five-month hiring streak, while backlogs continued to shrink. Input costs increased, with firms citing the Middle East conflict as a key driver, pushing output price inflation to historically elevated levels. Lower sales, ample inventories, and geopolitical uncertainty also led to the fastest decline in purchasing activity since February. Despite the downturn, business confidence improved to above its long-run average.
+
+---
+
+### 2026-08-03 21:08:54  #MKT News
+
+State Dept official: U.S. Secretary of State Rubio has no plans to speak with FIFA president Infantino.
+
+---
+
+### 2026-08-03 21:08:25  #宏觀
+
+美國國務院官員：美國國務卿魯比奧沒有計劃與國際足聯主席因凡蒂諾進行對話。
+
+---
+
+### 2026-08-03 21:07:46  #市場
+
+【凱斯紐美股盤前漲超10%】凱斯紐美股盤前漲超10%，現報11.3美元。
+
+---
+
+### 2026-08-03 21:07:43  #公司
+
+【金戈新材：擬投資約5億元建設功能性粉體新材料智慧製造基地專案】8月3日，金戈新材公告，公司擬在廣東省佛山市三水區白坭鎮投資建設“功能性粉體新材料智慧製造基地專案”，本專案預計總投資約5億元，擬透過購置約150畝工業用地，新建標準化生產廠房及配套設施，實施產能升級。
+
+---
+
+### 2026-08-03 21:07:15  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Sources said Kazakhstan's July crude and condensate production fell 14% month-on-month after exports via the Caspian Pipeline Consortium were disrupted.
+
+---
+
+### 2026-08-03 21:07:02  #市場
+
+哥倫比亞比索在利率維持不變和外匯交易計劃啟動後下跌1.5%。
+
+---
+
+### 2026-08-03 21:06:54  #公司 #國際
+
+奧德賽公司斬獲美國空軍9.34億美元合同，負責空軍網路安全測試運營業務。
+
+---
+
+### 2026-08-03 21:05:31  #MKT News #APO.O
+
+Texas governor says Apollo Global Management will establish a new strategic center in Austin.
+
+---
+
+### 2026-08-03 21:05:25  #其他
+
+訊息人士稱，受裡海管道聯盟（CPC）出口中斷影響，哈薩克7月石油與凝析氣產量較6月下降14%。
+
+---
+
+### 2026-08-03 21:05:14  #公司 #市場 #國際
+
+美國商品期貨交易委員會（CFTC）責令瑞銀金融服務公司因旗下反洗錢交易監控系統存在監管失職支付800萬美元罰款。
+
+---
+
+### 2026-08-03 21:05:12  #MKT News
+
+Russian President Putin has arrived in Krasnoyarsk.
+
+---
+
+### 2026-08-03 21:04:59  #其他
+
+星巴克：南瓜香料拿鐵將於 8 月 25 日迴歸上市。
+
+---
+
+### 2026-08-03 21:04:46  #公司
+
+帕洛阿爾託網路與谷歌雲達成合作，共同防範人工智慧生成的惡意軟體。
+
+---
+
+### 2026-08-03 21:04:18  #市場 #國際
+
+市場訊息： 波切蒂諾與美國國家男子足球隊達成一份四年合約。
+
+---
+
+### 2026-08-03 21:04:08  #市場 #焦點
+
+紐約期銀失守57美元/盎司，日內跌1.36%。
+
+---
+
+### 2026-08-03 21:03:44  #公司
+
+市場訊息：帕洛阿爾託網路與谷歌雲開展合作。
+
+---
+
+### 2026-08-03 21:03:25  #市場 #焦點
+
+現貨白銀失守57美元/盎司，日內跌1.13%。
+
+---
+
+### 2026-08-03 21:03:25  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slid just over $10 intraday to $4,042/oz; spot silver slipped below $57/oz, down 1.06% on the day.
+
+---
+
+### 2026-08-03 21:02:53  #市場
+
+現貨白銀日內跌1%，現報57.02美元/盎司。
+
+---
+
+### 2026-08-03 21:02:51  #市場
+
+紐約期銀日內跌1%，現報57.19美元/盎司。
+
+---
+
+### 2026-08-03 21:02:38  #其他
+
+得克薩斯州州長阿博特表示，Apollo 選定奧斯汀設立全新戰略中心。
+
+---
+
+### 2026-08-03 21:02:07  #市場
+
+WTI原油日內跌7%，現報78.73美元/桶。
+
+---
+
+### 2026-08-03 21:01:57  #其他
+
+市場訊息：瑟伯勒斯資本與Yondr收購地塊，將建設一座72兆瓦資料中心園區。
+
+---
+
+### 2026-08-03 21:01:48  #資料
+
+新加坡7月電子行業PMI升至52.4。
+
+---
+
+### 2026-08-03 21:01:30  #其他
+
+【《積體電路布圖設計審查與執法指南修改草案（徵求意見稿）》公開徵求意見】記者今天（3日）瞭解到，為推動完善積體電路布圖設計保護制度，緊密配合銜接《積體電路布圖設計保護條例》（以下簡稱《條例》）《積體電路布圖設計保護條例實施細則》（以下簡稱《細則》）修改程序，國家智慧財產權局研究起草了《積體電路布圖設計審查與執法指南修改草案（徵求意見稿）》，現予以公佈並徵求社會各界意見，徵求意見截止日期為2026年9月3日。（央視新聞）
 
 ---
 
@@ -16927,119 +17125,5 @@ Sky News said the UAE president phoned Ukrainian President Zelenskiy to discuss 
 ### 2026-08-02 02:53:17  #其他
 
 在大量移民從摩洛哥越境、造成至少67人遇難事件發生後，西班牙在休達近海佈設了一道500米長的海上浮動隔離屏障。
-
----
-
-### 2026-08-02 02:50:32  #國際
-
-特朗普：《反武器化法案》必須獲得透過，遭拜登政府利用司法手段打壓的受害者理應得到公正對待。
-
----
-
-### 2026-08-02 02:43:28  #MKT News
-
-【UK prime minister Burnham: Devolution plan to pave way for a written constitution】UK prime minister Burnham said his sweeping devolution package unveiled this week will "strengthen the case for a written constitution." The blueprint, billed as a "new model of government," goes further than earlier proposals by shifting large swathes of public spending control and local tax powers from Whitehall and independent bodies to mayors and other local leaders. Authorities would gain control over local transport, housing, innovation, energy, cultural investment and skills, plus greater oversight of policing and healthcare; they would receive a share of income tax revenue starting in 2028.
-
----
-
-### 2026-08-02 02:38:59  #其他
-
-英國首相伯納姆：權力下放方案將為英國成文憲法鋪路。
-
----
-
-### 2026-08-02 02:34:57  #國際
-
-特朗普在社交媒體發文：正在摧毀伊朗的貨幣。
-
----
-
-### 2026-08-02 02:28:56  #其他
-
-西捷航空：仍留在談判桌前，致力於透過談判達成一份暫定協議。
-
----
-
-### 2026-08-02 02:28:45  #其他
-
-西捷航空：因罷工威脅，截至山地時間8月1日上午11點，已取消86架次航班。
-
----
-
-### 2026-08-02 02:28:02  #其他
-
-西捷航空：因工會發出罷工通知，開始釋出航班取消通知。
-
----
-
-### 2026-08-02 02:26:36  #國際
-
-伊拉克訊息人士：敘利亞通知伊拉克，監測到伊朗支援的民兵組織在兩國邊境附近調動。
-
----
-
-### 2026-08-02 02:23:11  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #Brent
-
-Trump: I am destroying Iran's currency; Iran faces severe inf.
-
----
-
-### 2026-08-02 02:22:40  #MKT News
-
-【Explosion at central Moscow restaurant kills three, injures 15】An explosion at a restaurant in central Moscow on Aug 1 killed three and injured 15, Moscow police said. Emergency services responded to the scene; preliminary reports attribute the blast to a gas leak.
-
----
-
-### 2026-08-02 02:21:20  #其他
-
-全美汽車工人聯合會：密歇根州森特萊恩市斯特蘭蒂斯一處廠區發生致命工傷事故，將對此開展調查，並要求企業提供完整事故詳情。
-
----
-
-### 2026-08-02 02:19:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Israeli official says US close to approving strike on Iran; Israel on high alert】On Aug 1 an Israeli official said US President Trump is closer than ever to approving a major military strike on Iran, though no decision is final. US options reportedly focus on precise, limited strikes on specific Iranian energy facilities, and US planners prefer Israel not to participate in an initial phase. Israel assesses a significant US attack would likely prompt Iranian military retaliation against Israel and could draw Israel into wider fighting; Israeli defense forces are on high alert.
-
----
-
-### 2026-08-02 02:18:31  #焦點 #國際
-
-【以官員稱美接近批准對伊軍事打擊 以方保持高度警惕】當地時間8月1日，據一名以色列官員透露，以色列方面評估認為，美國總統特朗普目前比以往任何時候都更接近批准對伊朗發動重大軍事襲擊，但相關計劃尚未最終確定。根據該官員披露的預案細節，美方考慮對伊朗的特定能源設施進行精準且受限的打擊。評估顯示，美方目前傾向於不讓以色列參與第一階段的最初襲擊。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將被迫捲入衝突並加入戰局。目前，以色列國防機構因此保持高度警惕。（央視新聞）
-
----
-
-### 2026-08-02 02:17:42  #國際
-
-特朗普社交媒體發文：正是在其的治理下，美國石油出口量大幅飆升。
-
----
-
-### 2026-08-02 02:15:36  #國際
-
-特朗普：第51個州（委內瑞拉）。
-
----
-
-### 2026-08-02 02:14:58  #MKT News #Market Regions #Europe & UK
-
-【EU to hold emergency meeting on Ceuta migrant crisis】On Aug 1 the EU said it will hold an emergency videoconference of interior ministers on Aug 4 to discuss the migrant crisis in the Spanish enclave of Ceuta and coordinate EU response measures. The meeting was proposed by Spain. Spanish Prime Minister Sanchez has written to Ireland, which holds the rotating EU presidency, Commission President Von der Leyen and European Council President Costa urging a coordinated EU response.
-
----
-
-### 2026-08-02 02:14:33  #國際
-
-【俄羅斯莫斯科市中心一餐飲店發生爆炸 造成人員傷亡】當地時間8月1日，俄羅斯莫斯科市中心一間餐飲店發生爆炸，多輛消防車和救護車駛往事故發生地。初步訊息顯示爆炸由燃氣洩漏引起。莫斯科警方稱，事故已造成3人死亡、15人受傷。
-
----
-
-### 2026-08-02 02:13:04  #國際
-
-【歐盟宣佈將召開緊急會議討論休達移民危機】當地時間8月1日，歐盟宣佈將於4日以視訊會議形式召開歐盟成員國內政部長緊急會議，討論西班牙飛地休達移民危機及歐盟應對措施。此次會議由西班牙提議召開。西班牙首相桑切斯此前已致信歐盟理事會輪值主席國愛爾蘭、歐盟委員會主席馮德萊恩和歐洲理事會主席科斯塔，呼籲歐盟協調應對當前移民危機。
-
----
-
-### 2026-08-02 02:10:36  #焦點 #國際
-
-【以媒稱美接近批准襲擊伊朗能源設施】以色列第12頻道電視臺當地時間8月1日援引以色列官員的話報道稱，以色列方面評估認為，美國總統特朗普“比以往任何時候都更接近批准對伊朗發動重大軍事打擊”，但相關計劃尚未最終確定。報道稱，美方考慮對伊朗的“特定能源設施”進行“精準且受限的打擊”。評估顯示，美方目前“傾向於不讓以色列參與第一階段的最初襲擊”。但以色列方面認為，美國一旦對伊朗發動重大襲擊，很可能會直接引發伊朗對以色列的軍事報復，而以色列屆時或將“被迫捲入衝突並加入戰局”。目前，以色列國防機構正保持高度警惕。（CCTV國際時訊）
 
 ---

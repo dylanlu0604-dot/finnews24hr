@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:56:59_
-_本檔包含 3400 則快訊，約 597075 字_
+_更新時間：2026-08-09 02:51:41_
+_本檔包含 3398 則快訊，約 596821 字_
+
+---
+
+### 2026-08-06 01:07:10  #國際
+
+以色列總理內塔尼亞胡：以色列國防軍計程車兵是世界上最勇敢、最恪守道義，同時也是遭受誹謗最多的軍人。絕不能讓來自境外的不實指控在我們本國社會內部擴散。
+
+---
+
+### 2026-08-06 01:06:44  #國際
+
+以色列國防軍：需要在黎巴嫩採取更堅決、更顯著的回應。
+
+---
+
+### 2026-08-06 01:06:41  #MKT News
+
+【Lula says U.S. revocation of Brazil ambassador's visa 'irresponsible'】Brazilian President Lula said on Aug. 5 the U.S. government's Aug. 4 decision to revoke the visa of Brazil's ambassador to the U.S. was "irresponsible" and poorly considered. Washington revoked the visa in retaliation after Brazil on July 25 refused visas for two senior U.S. State Department officials and has delayed accepting President Trump's nominee for ambassador to Brazil. Brazil suspects the U.S. officials' planned visit was intended to interfere in Brazil's Oct. presidential election; Lula said Brazil will not accept electoral interference.
+
+---
+
+### 2026-08-06 01:05:48  #國際
+
+伊朗副外長：美國違反了諒解備忘錄中的所有義務，因為它重新實施了海上封鎖並恢復了戰爭。
+
+---
+
+### 2026-08-06 01:05:25  #國際
+
+伊朗副外長：關於霍爾木茲海峽的任何諒解備忘錄都必須僅限於伊朗和阿曼之間，我們絕不會接受任何形式的外部干預。
+
+---
+
+### 2026-08-06 01:04:51  #MKT News
+
+Iran's deputy foreign minister said Iran is demanding changes to shipping lanes in the Strait of Hormuz, saying the current routes are no longer suitable given the security situation.
+
+---
+
+### 2026-08-06 01:04:39  #公司
+
+亞馬遜旗下Zoox將在拉斯維加斯推出付費乘車服務。
+
+---
+
+### 2026-08-06 01:03:43  #國際
+
+伊朗副外長：新（達成）方案的設計將使船舶在駛入以及駛出航線的部分割槽段時，均需經過伊朗水域。
+
+---
+
+### 2026-08-06 01:02:46  #Trading Economics #Markets #Commodity #Importance 0
+
+Palladium Climbs Toward Two-Month High — Palladium futures climbed above $1,360 per ounce, heading toward a two-month high as broad gains across the precious metals complex supported prices. Progress in US-Iran negotiations led markets to scale back expectations for a September Fed rate hike, while a weaker dollar made dollar-denominated metals more affordable for foreign buyers. Investors now await upcoming US labor market data for further clues on the Fed's policy outlook. US consumers continued to favor hybrid vehicles over battery-electric models in the first half of 2026, supporting demand for palladium used in catalytic converters. However, broader demand remained under pressure as Chinese EV sales rose for a third straight month in July. Nornickel, the world's largest palladium producer, also expects a global palladium market surplus in 2026 as rising EV adoption weakens long-term demand.
+
+---
+
+### 2026-08-06 01:02:33  #MKT News #Important #WTI #Impact bullish #Brent
+
+Iran's deputy foreign minister said a new agreement with Oman will close a temporary shipping route in the Strait of Hormuz.
+
+---
+
+### 2026-08-06 01:01:55  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's deputy foreign minister said Iran's diplomatic positions and actions are 100% coordinated with battlefield developments.
+
+---
+
+### 2026-08-06 01:01:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's deputy foreign minister said that under the current state of war, diplomacy and battlefield operations complement each other rather than oppose one another.
+
+---
+
+### 2026-08-06 01:01:40  #MKT News #WTI #Impact bullish #Brent
+
+Iran's deputy foreign minister said U.S. resuming its commitments under the Islamabad memorandum of understanding is a condition but insufficient to reopen the Strait of Hormuz.
+
+---
+
+### 2026-08-06 01:01:10  #國際
+
+伊朗副外長表示，美國履行《伊斯蘭堡諒解備忘錄》中的承諾是霍爾木茲海峽重新開放的前提條件，但僅滿足這一點並不夠。
+
+---
+
+### 2026-08-06 01:00:53  #焦點 #國際
+
+伊朗：與阿曼達成的新協議將關閉霍爾木茲海峽現有臨時航運通道。
+
+---
+
+### 2026-08-06 01:00:33  #MKT News
+
+Iran's deputy foreign minister said talks with the United States are taking place against a backdrop of mistrust, and that mistrust remains the foundation of the current process.
+
+---
+
+### 2026-08-06 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.66%，滬銅收漲0.56%，滬鋁收漲0.29%，滬鋅收漲1.60%，滬鉛收平，滬鎳收跌0.17%，滬錫收漲1.70%。氧化鋁夜盤收漲2.56%，鋁合金收漲0.13%。不鏽鋼夜盤收跌0.72%。
 
 ---
 
@@ -20389,119 +20491,5 @@ Colombia Export Growth Slows in June — Colombia's exports rose 7% year-on-year
 ### 2026-08-04 23:16:05  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
 
 European Stocks Reach Record High on Earnings, AI Gains — European stocks climbed to fresh record highs on Tuesday, supported by strong corporate earnings, AI-related shares, and improving global risk sentiment. The Euro Stoxx 50 rose 1% to 6,490, while the STOXX 600 gained 0.7% to 657. A sharp drop in oil prices, driven by optimism over Middle East peace negotiations, further lifted equities by easing inflation concerns and reducing expectations of tighter monetary policy. AI-related stocks led gains after Palantir raised its revenue outlook, with BE Semiconductor jumping 7.6% after a Berenberg upgrade, while ASML and Infineon gained 3.4% and 3.2%, respectively. Among earnings movers, Bayer rose 2.9% after beating quarterly estimates. BP fell 4.6% as lower oil prices overshadowed stronger-than-expected earnings, while HSBC slipped 0.2% despite solid results. Zalando tumbled 11.7% after cutting full-year guidance, Lufthansa lost 9% after lowering its outlook, and Hugo Boss was little changed despite reporting sharp declines in sales and EBIT.
-
----
-
-### 2026-08-04 23:15:23  #MKT News
-
-New Zealand Global Dairy Trade price index +0.1% to July 21; prior +1.5%.
-
----
-
-### 2026-08-04 23:15:11  #市場
-
-恆天然全球乳製品貿易價格指數上漲 0.1%。
-
----
-
-### 2026-08-04 23:15:11  #MKT News #Economic Calendar #Important
-
-New Zealand | Global Dairy Trade Price Index (MoM) (Jul.21) | actual 0.1% | previous 1.5%
-
----
-
-### 2026-08-04 23:13:51  #MKT News #Important #WTI #Impact bearish #Brent
-
-Press TV, citing informed sources, said Iran and Oman have entered a new phase of talks on Strait of Hormuz shipping lanes despite US interference; a bilateral understanding could be reached if the US and other countries stop interfering.
-
----
-
-### 2026-08-04 23:13:38  #公司 #國際
-
-【BP執行長：不再將公司視為“超級石油巨頭”是“審慎之舉”】英國石油公司（BP Plc.）執行長Meg O’Neill表示，不再將公司視為大型石油“超級巨頭”是“審慎之舉”。這是她在努力扭轉公司多年來的低迷表現之際，在投資者評估標準上做出的重大轉變。O’Neill指出，BP不應再試圖追趕雪佛龍、埃克森美孚、殼牌和道達爾能源等規模更大的競爭對手，而應專注於在自身的“重量級”內進行競爭，並將投資集中在其最強勢的業務上。該公司已加速資產出售步伐，近期宣佈的交易包括出售其英國北海業務以及美國生物天然氣生產商Archaea Energy。
-
----
-
-### 2026-08-04 23:13:15  #其他
-
-負責對美貿易關係的加拿大部長重返華盛頓特區開展會談。
-
----
-
-### 2026-08-04 23:12:57  #焦點 #國際
-
-據伊朗Press TV援引知情人士訊息，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道談判已進入新階段。 此階段取得的進展十分顯著，伊朗‑阿曼雙邊協議有望達成。 談判尚存的障礙來自美國及其地區盟友的持續阻撓。
-
----
-
-### 2026-08-04 23:09:07  #公司
-
-輝瑞CEO： 輝瑞已完成業務發展方向的佈局押注。公司剩餘 60 至 70 億美元可用於業務拓展，資金的使用將 “極具戰略性”。
-
----
-
-### 2026-08-04 23:07:45  #國際
-
-馬拉松石油：美國汽油庫存仍遠低於五年區間水平。
-
----
-
-### 2026-08-04 23:07:05  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA (NVDA.O): Alpamayo 2 Super, an advanced open model for robotaxi and autonomous-vehicle applications, is now available for commercial use.
-
----
-
-### 2026-08-04 23:06:35  #其他
-
-英偉達：面向自動駕駛計程車及自動駕駛車輛的前沿開放模型 —— 英偉達 Alpamayo 2 Super 現已商用。
-
----
-
-### 2026-08-04 23:05:13  #MKT News
-
-Nomination of Bulanqi to be U.S. attorney general advanced by a Senate panel.
-
----
-
-### 2026-08-04 23:04:05  #國際
-
-參議院司法委員會投票批准託德・布蘭奇出任美國司法部長。
-
----
-
-### 2026-08-04 23:03:29  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Inditex Stock Price Hits 12-year High — Inditex shares increased to 58.32 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 4.11%, and in the last 12 months, it increased 41.18%.
-
----
-
-### 2026-08-04 23:03:12  #MKT News
-
-Turkey central bank governor KARAHAN said DISINFLATION will continue to weigh on rents; domestic demand is slowing.
-
----
-
-### 2026-08-04 23:03:00  #央行 #其他
-
-土耳其央行行長指出國內需求出現放緩。
-
----
-
-### 2026-08-04 23:02:59  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #SSE Composite
-
-【July rout in China quant private funds; Magic Square multiple products turn YTD negative】July brought sharp losses across China’s quantitative private fund sector. Private fund tracker Simu Paipai shows large, broad drawdowns at several quant managers in July; some funds flipped from YTD gains to losses and single-month drops exceeded 20%. As of July 31, 2026, of nine Magic Square Quant flagship products, only Jiuzhang–Magic Square CSI 500 Quant Multi-Strategy No.2 retained a marginal YTD gain of 0.04%; the other eight are YTD negative. Magic Square Quant Xinhuai 500 Index Special No.19 is down 3.84% year-to-date. All nine Magic Square products fell more than 20% in July; the largest monthly decline was Magic Square CSI 500 Quant Aggressive No.1, down 22.15% in July.
-
----
-
-### 2026-08-04 23:02:30  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-DDN is partnering with NVIDIA (NVDA.O) to advance GPU-driven data access technology.
-
----
-
-### 2026-08-04 23:01:45  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 0
-
-UK Gilt Yield Falls as Oil Prices Slide — UK 10-year gilt yields fell toward 4.9%, touching their lowest level since July 10 as oil prices tumbled on optimism that the US and Iran could reach a deal to end the conflict and reopen the Strait of Hormuz. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said an agreement could be be reached as early as Tuesday or Wednesday. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to further reduce bets on interest rate hikes in 2026. The BoE voted 6-3 to keep rates unchanged, while Governor Andrew Bailey downplayed the prospect of further tightening, saying the disinflation process remains on track.
 
 ---

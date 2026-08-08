@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 01:56:59_
-_本檔包含 3333 則快訊，約 596348 字_
+_更新時間：2026-08-09 02:51:41_
+_本檔包含 3319 則快訊，約 596247 字_
+
+---
+
+### 2026-08-04 23:15:23  #MKT News
+
+New Zealand Global Dairy Trade price index +0.1% to July 21; prior +1.5%.
+
+---
+
+### 2026-08-04 23:15:11  #市場
+
+恆天然全球乳製品貿易價格指數上漲 0.1%。
+
+---
+
+### 2026-08-04 23:15:11  #MKT News #Economic Calendar #Important
+
+New Zealand | Global Dairy Trade Price Index (MoM) (Jul.21) | actual 0.1% | previous 1.5%
+
+---
+
+### 2026-08-04 23:13:51  #MKT News #Important #WTI #Impact bearish #Brent
+
+Press TV, citing informed sources, said Iran and Oman have entered a new phase of talks on Strait of Hormuz shipping lanes despite US interference; a bilateral understanding could be reached if the US and other countries stop interfering.
+
+---
+
+### 2026-08-04 23:13:38  #公司 #國際
+
+【BP執行長：不再將公司視為“超級石油巨頭”是“審慎之舉”】英國石油公司（BP Plc.）執行長Meg O’Neill表示，不再將公司視為大型石油“超級巨頭”是“審慎之舉”。這是她在努力扭轉公司多年來的低迷表現之際，在投資者評估標準上做出的重大轉變。O’Neill指出，BP不應再試圖追趕雪佛龍、埃克森美孚、殼牌和道達爾能源等規模更大的競爭對手，而應專注於在自身的“重量級”內進行競爭，並將投資集中在其最強勢的業務上。該公司已加速資產出售步伐，近期宣佈的交易包括出售其英國北海業務以及美國生物天然氣生產商Archaea Energy。
+
+---
+
+### 2026-08-04 23:13:15  #其他
+
+負責對美貿易關係的加拿大部長重返華盛頓特區開展會談。
+
+---
+
+### 2026-08-04 23:12:57  #焦點 #國際
+
+據伊朗Press TV援引知情人士訊息，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道談判已進入新階段。 此階段取得的進展十分顯著，伊朗‑阿曼雙邊協議有望達成。 談判尚存的障礙來自美國及其地區盟友的持續阻撓。
+
+---
+
+### 2026-08-04 23:09:07  #公司
+
+輝瑞CEO： 輝瑞已完成業務發展方向的佈局押注。公司剩餘 60 至 70 億美元可用於業務拓展，資金的使用將 “極具戰略性”。
+
+---
+
+### 2026-08-04 23:07:45  #國際
+
+馬拉松石油：美國汽油庫存仍遠低於五年區間水平。
+
+---
+
+### 2026-08-04 23:07:05  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O): Alpamayo 2 Super, an advanced open model for robotaxi and autonomous-vehicle applications, is now available for commercial use.
+
+---
+
+### 2026-08-04 23:06:35  #其他
+
+英偉達：面向自動駕駛計程車及自動駕駛車輛的前沿開放模型 —— 英偉達 Alpamayo 2 Super 現已商用。
+
+---
+
+### 2026-08-04 23:05:13  #MKT News
+
+Nomination of Bulanqi to be U.S. attorney general advanced by a Senate panel.
+
+---
+
+### 2026-08-04 23:04:05  #國際
+
+參議院司法委員會投票批准託德・布蘭奇出任美國司法部長。
+
+---
+
+### 2026-08-04 23:03:29  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Inditex Stock Price Hits 12-year High — Inditex shares increased to 58.32 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 4.11%, and in the last 12 months, it increased 41.18%.
+
+---
+
+### 2026-08-04 23:03:12  #MKT News
+
+Turkey central bank governor KARAHAN said DISINFLATION will continue to weigh on rents; domestic demand is slowing.
+
+---
+
+### 2026-08-04 23:03:00  #央行 #其他
+
+土耳其央行行長指出國內需求出現放緩。
+
+---
+
+### 2026-08-04 23:02:59  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #Hang Seng Index #SSE Composite
+
+【July rout in China quant private funds; Magic Square multiple products turn YTD negative】July brought sharp losses across China’s quantitative private fund sector. Private fund tracker Simu Paipai shows large, broad drawdowns at several quant managers in July; some funds flipped from YTD gains to losses and single-month drops exceeded 20%. As of July 31, 2026, of nine Magic Square Quant flagship products, only Jiuzhang–Magic Square CSI 500 Quant Multi-Strategy No.2 retained a marginal YTD gain of 0.04%; the other eight are YTD negative. Magic Square Quant Xinhuai 500 Index Special No.19 is down 3.84% year-to-date. All nine Magic Square products fell more than 20% in July; the largest monthly decline was Magic Square CSI 500 Quant Aggressive No.1, down 22.15% in July.
+
+---
+
+### 2026-08-04 23:02:30  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+DDN is partnering with NVIDIA (NVDA.O) to advance GPU-driven data access technology.
+
+---
+
+### 2026-08-04 23:01:45  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 0
+
+UK Gilt Yield Falls as Oil Prices Slide — UK 10-year gilt yields fell toward 4.9%, touching their lowest level since July 10 as oil prices tumbled on optimism that the US and Iran could reach a deal to end the conflict and reopen the Strait of Hormuz. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said an agreement could be be reached as early as Tuesday or Wednesday. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to further reduce bets on interest rate hikes in 2026. The BoE voted 6-3 to keep rates unchanged, while Governor Andrew Bailey downplayed the prospect of further tightening, saying the disinflation process remains on track.
 
 ---
 
@@ -19873,203 +19987,5 @@ Wheat Falls to 3-Week Low — Wheat prices fell to around $6.40 per bushel, the 
 ### 2026-08-03 21:12:17  #MKT News #Important
 
 【Iran reportedly rejects U.S. proposal on Strait of Hormuz】Al Mayadeen, citing an unnamed Iranian source, reports Tehran has rejected the latest U.S. proposal and will not fully reopen the Strait of Hormuz until the war ends. The source also said Washington has conceded on closing the Strait’s southern shipping lane. These claims have not been independently verified.
-
----
-
-### 2026-08-03 21:11:55  #公司
-
-【未來3至5年中國平安計劃每年招聘逾萬名應屆畢業生】記者自中國平安獲悉，未來3至5年，該公司計劃逐步將每年應屆畢業生的招聘量提升至1萬人以上。同時，其2026 年度應屆生崗位需求超6000個，併為超3000名在校學生提供實習機會。中國平安是我國三大綜合金融集團之一，該公司近日還宣佈與中國人民大學、北京航空航天大學、中央財經大學等21所高校共建校企實習基地，與15所高校簽署校企合作協議，以實際業務場景連結人才供需，促進應屆畢業生高質量就業。（國是直通車）
-
----
-
-### 2026-08-03 21:11:22  #市場 #國際
-
-美國商品期貨交易委員會：瑞銀金融服務因反洗錢監控監管失職，需繳納 800 萬美元罰金  。
-
----
-
-### 2026-08-03 21:10:53  #國際
-
-美國金融犯罪執法網路：處罰緣由為故意違反《銀行保密法》。
-
----
-
-### 2026-08-03 21:10:46  #國際
-
-美國金融犯罪執法網路透過郵件發表宣告，就瑞銀金融相關處罰作出表態。
-
----
-
-### 2026-08-03 21:10:19  #其他
-
-【上海：到2030年基本建成現代海洋城市】近日，《上海市水系統治理“十五五”規劃》與《上海市海洋發展“十五五”規劃》正式印發實施。根據規劃，到2030年，上海將基本建成安全韌性、優質集約、綠色低碳、智慧高效的現代水系統治理體系，並基本建成國際領先的現代海洋城市和中國特色海洋強國建設引領區。“十四五”期間，上海水務領域累計完成投資約1352億元，吳淞江工程、原水西環線等重大工程有序推進。海洋經濟方面，2025年全市海洋生產總值達1.11萬億元，佔全國海洋生產總值的10%，單位海域面積產出穩居全國首位。（央視新聞）
-
----
-
-### 2026-08-03 21:10:03  #市場 #國際
-
-美國商品期貨交易委員會勒令瑞銀金融服務支付 800 萬美元罰款。
-
----
-
-### 2026-08-03 21:09:34  #市場
-
-【魯比尼揚當選亞美尼亞議長】埃裡溫訊息：來自亞美尼亞執政黨公民合約黨的議員魯本·魯比尼揚在3日舉行的投票中當選亞美尼亞國民會議（議會）新一任議長。 亞美尼亞議會議員當天就是否同意魯比尼揚成為新一任議長舉行投票。105名議員中有91人參加投票，魯比尼揚以63票贊成、28票反對的結果當選議長。 亞美尼亞新一屆議會2日舉行首次會議，公民合約黨在會上提名魯比尼揚為新任議長人選，議會中的兩個反對派政黨聯盟未提名議長人選，魯比尼揚因此成為議長的唯一候選人。 6月7日，亞美尼亞舉行議會選舉，公民合約黨獲得議會105個席位中的64個，政黨聯盟“強大亞美尼亞”獲得29個席位，政黨聯盟“亞美尼亞”獲得12個席位。 亞美尼亞議會實行一院制，議員任期5年。(新華社)
-
----
-
-### 2026-08-03 21:09:17  #Trading Economics #Economy #Brazil #Manufacturing PMI #Importance 1
-
-Brazil Manufacturing PMI Hits Five-Month Low — The S&P Global Brazil Manufacturing PMI fell to 47.5 in July 2026 from 50.8 in June, signaling a renewed deterioration in the sector and the sharpest contraction since February. New orders posted their steepest decline in more than three years, while export orders also fell markedly amid weaker external demand. With both domestic and foreign sales declining, manufacturers cut production for a third straight month at the fastest pace since February. Employment fell, ending a five-month hiring streak, while backlogs continued to shrink. Input costs increased, with firms citing the Middle East conflict as a key driver, pushing output price inflation to historically elevated levels. Lower sales, ample inventories, and geopolitical uncertainty also led to the fastest decline in purchasing activity since February. Despite the downturn, business confidence improved to above its long-run average.
-
----
-
-### 2026-08-03 21:08:54  #MKT News
-
-State Dept official: U.S. Secretary of State Rubio has no plans to speak with FIFA president Infantino.
-
----
-
-### 2026-08-03 21:08:25  #宏觀
-
-美國國務院官員：美國國務卿魯比奧沒有計劃與國際足聯主席因凡蒂諾進行對話。
-
----
-
-### 2026-08-03 21:07:46  #市場
-
-【凱斯紐美股盤前漲超10%】凱斯紐美股盤前漲超10%，現報11.3美元。
-
----
-
-### 2026-08-03 21:07:43  #公司
-
-【金戈新材：擬投資約5億元建設功能性粉體新材料智慧製造基地專案】8月3日，金戈新材公告，公司擬在廣東省佛山市三水區白坭鎮投資建設“功能性粉體新材料智慧製造基地專案”，本專案預計總投資約5億元，擬透過購置約150畝工業用地，新建標準化生產廠房及配套設施，實施產能升級。
-
----
-
-### 2026-08-03 21:07:15  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Sources said Kazakhstan's July crude and condensate production fell 14% month-on-month after exports via the Caspian Pipeline Consortium were disrupted.
-
----
-
-### 2026-08-03 21:07:02  #市場
-
-哥倫比亞比索在利率維持不變和外匯交易計劃啟動後下跌1.5%。
-
----
-
-### 2026-08-03 21:06:54  #公司 #國際
-
-奧德賽公司斬獲美國空軍9.34億美元合同，負責空軍網路安全測試運營業務。
-
----
-
-### 2026-08-03 21:05:31  #MKT News #APO.O
-
-Texas governor says Apollo Global Management will establish a new strategic center in Austin.
-
----
-
-### 2026-08-03 21:05:25  #其他
-
-訊息人士稱，受裡海管道聯盟（CPC）出口中斷影響，哈薩克7月石油與凝析氣產量較6月下降14%。
-
----
-
-### 2026-08-03 21:05:14  #公司 #市場 #國際
-
-美國商品期貨交易委員會（CFTC）責令瑞銀金融服務公司因旗下反洗錢交易監控系統存在監管失職支付800萬美元罰款。
-
----
-
-### 2026-08-03 21:05:12  #MKT News
-
-Russian President Putin has arrived in Krasnoyarsk.
-
----
-
-### 2026-08-03 21:04:59  #其他
-
-星巴克：南瓜香料拿鐵將於 8 月 25 日迴歸上市。
-
----
-
-### 2026-08-03 21:04:46  #公司
-
-帕洛阿爾託網路與谷歌雲達成合作，共同防範人工智慧生成的惡意軟體。
-
----
-
-### 2026-08-03 21:04:18  #市場 #國際
-
-市場訊息： 波切蒂諾與美國國家男子足球隊達成一份四年合約。
-
----
-
-### 2026-08-03 21:04:08  #市場 #焦點
-
-紐約期銀失守57美元/盎司，日內跌1.36%。
-
----
-
-### 2026-08-03 21:03:44  #公司
-
-市場訊息：帕洛阿爾託網路與谷歌雲開展合作。
-
----
-
-### 2026-08-03 21:03:25  #市場 #焦點
-
-現貨白銀失守57美元/盎司，日內跌1.13%。
-
----
-
-### 2026-08-03 21:03:25  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Spot gold slid just over $10 intraday to $4,042/oz; spot silver slipped below $57/oz, down 1.06% on the day.
-
----
-
-### 2026-08-03 21:02:53  #市場
-
-現貨白銀日內跌1%，現報57.02美元/盎司。
-
----
-
-### 2026-08-03 21:02:51  #市場
-
-紐約期銀日內跌1%，現報57.19美元/盎司。
-
----
-
-### 2026-08-03 21:02:38  #其他
-
-得克薩斯州州長阿博特表示，Apollo 選定奧斯汀設立全新戰略中心。
-
----
-
-### 2026-08-03 21:02:07  #市場
-
-WTI原油日內跌7%，現報78.73美元/桶。
-
----
-
-### 2026-08-03 21:01:57  #其他
-
-市場訊息：瑟伯勒斯資本與Yondr收購地塊，將建設一座72兆瓦資料中心園區。
-
----
-
-### 2026-08-03 21:01:48  #資料
-
-新加坡7月電子行業PMI升至52.4。
-
----
-
-### 2026-08-03 21:01:30  #其他
-
-【《積體電路布圖設計審查與執法指南修改草案（徵求意見稿）》公開徵求意見】記者今天（3日）瞭解到，為推動完善積體電路布圖設計保護制度，緊密配合銜接《積體電路布圖設計保護條例》（以下簡稱《條例》）《積體電路布圖設計保護條例實施細則》（以下簡稱《細則》）修改程序，國家智慧財產權局研究起草了《積體電路布圖設計審查與執法指南修改草案（徵求意見稿）》，現予以公佈並徵求社會各界意見，徵求意見截止日期為2026年9月3日。（央視新聞）
 
 ---
