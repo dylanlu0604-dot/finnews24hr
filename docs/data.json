@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-08 12:42:29",
-  "count": 15919,
+  "updated": "2026-08-08 12:46:26",
+  "count": 15921,
   "items": [
+    {
+      "id": "mkt:019fdfaf-737a-7aab-8fc2-b88ceffddf20",
+      "time": "2026-08-08 12:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude-3.4 earthquake at 12:21 local time on Aug. 8 in Gong County, Yibin, Sichuan; focal depth 9 km."
+    },
+    {
+      "id": "mkt:019fdfae-1c76-7aab-8fc2-b5fc245a0791",
+      "time": "2026-08-08 12:42:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【BHP ship loaders at Port Hedland start 24-hour strike】BHP ship loaders at Port Hedland, Western Australia, began a 24-hour strike to halt loading of bulk carriers between Aug 8–9, starting at 05:30 AWST Saturday. BHP says roughly 200 of about 1,200 port employees are union members eligible to take action; two of seven operational ship loaders are fully automated and expected to be unaffected. Port Hedland handles about 500 mln tonnes of iron ore a year and is among the world’s largest export ports; any disruption could ripple through the global iron ore market. Traders are monitoring whether the dispute will escalate into a prolonged stoppage that could materially affect flows and prices."
+    },
     {
       "id": "5031814",
       "time": "2026-08-08 12:37:50",
