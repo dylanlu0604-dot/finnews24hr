@@ -1,7 +1,85 @@
 {
   "date": "2026-08-08",
-  "count": 751,
+  "count": 760,
   "items": [
+    {
+      "id": "5031962",
+      "time": "2026-08-08 20:06:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾·哈撒韋二季度回購約45億美元庫存股。"
+    },
+    {
+      "id": "mkt:019fe144-04f7-7aab-8fc4-24e9f9c6050b",
+      "time": "2026-08-08 20:05:59",
+      "tags": [
+        "MKT News",
+        "BRK.A.N"
+      ],
+      "text": "Berkshire Hathaway Class A (BRK.A.N): insurance float approximately $177.5 billion as of June 30, 2026."
+    },
+    {
+      "id": "mkt:019fe143-e62b-7aab-8fc4-19360c8a9ab0",
+      "time": "2026-08-08 20:05:51",
+      "tags": [
+        "MKT News",
+        "BRK.A.N"
+      ],
+      "text": "Berkshire Hathaway Class A (BRK.A.N): Class A-equivalent shares outstanding 1,431,693 as of June 30, 2026."
+    },
+    {
+      "id": "5031961",
+      "time": "2026-08-08 20:05:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋：二季度BNSF運營利潤15.6億美元。"
+    },
+    {
+      "id": "mkt:019fe143-9cd7-7aab-8fc4-124505e955a2",
+      "time": "2026-08-08 20:05:32",
+      "tags": [
+        "MKT News",
+        "BRK.B.N"
+      ],
+      "text": "Berkshire Hathaway B (BRK.B.N) Q2 2026 EPS was $11.91."
+    },
+    {
+      "id": "mkt:019fe143-901f-7aab-8fc4-08e3c0bada18",
+      "time": "2026-08-08 20:05:29",
+      "tags": [
+        "MKT News",
+        "BRK.A.N"
+      ],
+      "text": "Berkshire Hathaway A (BRK.A.N) Q2 2026 EPS $17,868."
+    },
+    {
+      "id": "5031960",
+      "time": "2026-08-08 20:05:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾哈撒韋二季度A類股每股淨收益為17,868美元。二季度末現金降低至3655.1億美元。"
+    },
+    {
+      "id": "mkt:019fe142-fa75-7aab-8fc4-014d2757a616",
+      "time": "2026-08-08 20:04:50",
+      "tags": [
+        "MKT News",
+        "BRK.A.N",
+        "Impact bullish"
+      ],
+      "text": "Berkshire Hathaway A (BRK.A.N): 2026 investment gains include $10.9 billion in second-quarter gains."
+    },
+    {
+      "id": "5031959",
+      "time": "2026-08-08 20:04:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯克希爾·哈撒韋二季度現金儲備降至3655.1億美元。"
+    },
     {
       "id": "mkt:019fe141-14bd-7aab-8fc3-f920d1043592",
       "time": "2026-08-08 20:02:46",
