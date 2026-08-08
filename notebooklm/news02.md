@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 16:53:29_
-_本檔包含 3239 則快訊，約 596370 字_
+_更新時間：2026-08-08 17:48:15_
+_本檔包含 3219 則快訊，約 595749 字_
+
+---
+
+### 2026-08-07 08:28:58  #MKT News #Commodities #Energy
+
+Dutch TTF front-month gas rose 5% to €58.57/MWh.
+
+---
+
+### 2026-08-07 08:28:47  #市場
+
+據洲際交易所（ICE）資料，荷蘭近月天然氣合約價格上漲5%，至每兆瓦時58.57歐元。
+
+---
+
+### 2026-08-07 08:28:28  #MKT News #Market Regions #Japan & APAC #9984.T #Impact bearish #Nikkei 225
+
+SoftBank Group shares fell more than 5% in early trade.
+
+---
+
+### 2026-08-07 08:26:57  #其他
+
+【安徽省省長王清憲：鞏固提升新一代資訊科技產業核心競爭力】據安徽省人民政府網公眾號訊息，8月6日，安徽省新一代資訊科技暨新一代半導體、第六代行動通訊產業推進會在合肥召開。省長王清憲出席並講話。王清憲強調，要增強時不我待的使命感緊迫感，以“十五五”為新的起點，升維認知、把握機遇，加快鍛造長板、補齊短板，著力提升新一代資訊科技產業整體競爭力。要協同推進科技攻關，加強高價值場景開發應用，推動新一代半導體和6G與智慧網聯新能源汽車、量子科技、具身智慧等產業深度融合，催生更多新技術新產品新業態。要梯次培育優質企業矩陣，打造集研發、製造、服務、孵化於一體的平臺型企業和企業型平臺，構建互動融合、共生共贏的生態系統。要體系化推進中試驗證、整合孵化等平臺建設，加大招才引智力度，推動人才與技術、資本、專案同步落地。
+
+---
+
+### 2026-08-07 08:26:54  #公司 #國際
+
+【美社媒巨頭被判賠近10億美元】美國新墨西哥州第一司法區法院當地時間8月6日作出裁決，社交媒體“臉書（Facebook）”、“照片牆（Instagram）”的母公司美國“元”公司應向該州一項基金支付5.67 億美元，用於應對青少年因使用其產品而面臨的心理健康問題。 這一裁決源於今年早些時候的一場審判。在那次審判中，新墨西哥州陪審團認定“元”公司需就涉嫌導致青少年心理健康問題及利用其產品進行性剝削的行為，承擔3.75億美元的罰款。這5.67億美元是在3.75億美元罰款基礎上追加的補救金，二者疊加達9.42億美元。 此外，根據新的裁決，“元”公司還被要求實施一系列青少年安全措施，包括對青少年使用 Facebook 和 Instagram 設定月度時長限制、限制通知推送、加強對成年人與未成年人聯絡的管控、為AI 聊天機器人增設安全防護，以及強化對兒童性虐待報告的審查。 “元”公司表示將對這一裁決提出上訴，並稱公司一直在努力識別並清除平臺上的有害內容。 （CCTV國際時訊）
+
+---
+
+### 2026-08-07 08:26:26  #國際
+
+【美國眾議員馬克斯.米勒將向競選團隊提供100萬美元貸款，無視退選呼聲】身陷風波的眾議員馬克斯.米勒(Max Miller)將向自己的競選團隊提供100萬美元貸款。米勒正在俄亥俄州一場競爭激烈的選戰中尋求再次當選，眼下因家庭暴力指控面臨退選壓力；此舉是這位已任兩屆的國會議員決意留在選戰中的最新跡象。米勒說，他計劃分兩筆、每筆50萬美元向競選團隊劃撥100萬美元。“我以各種方式投入了這場選舉，也會把資源投入我的競選，以贏得勝利，”他在宣告中說。這筆貸款將讓米勒相對其民主黨對手擁有顯著資金優勢；與此同時，米勒因這些虐待指控面臨共和黨人的退選壓力，但他否認相關指控。“我準備堅持到底，”米勒說。“我知道眼下有些人擔心我贏下這場選戰的能力，但我不這麼看。”一位瞭解特朗普言論的人士說，特朗普私下告訴一些顧問，他認為米勒應當退選。
+
+---
+
+### 2026-08-07 08:23:16  #MKT News
+
+Japan 20-year government bond yield rose 2 bps to 3.660%.
+
+---
+
+### 2026-08-07 08:22:29  #國際
+
+【伊朗擬禁止敵對方通行霍爾木茲海峽 對違規者重罰】伊朗議會主席團成員薩利米公開伊方擬議的霍爾木茲海峽戰略管理方案初步文字細節，內容包括禁止敵對方面透過海峽等，違反規定者將被處以最高達貨物價值20%的罰款。該方案顯示，美國、以色列等國的船隻將被禁止透過霍爾木茲海峽；與以色列有關的軍用和民用貨物不得透過該區域；參與針對“抵抗陣線”行動的船隻或貨物也將被禁止通行。方案還規定，對伊朗造成損失的國家和個人，在完成損失賠償前將無法獲得透過霍爾木茲海峽和波斯灣的許可。根據方案，對於違反相關規定者，擬處以最高相當於貨物價值20%的罰款等處罰。伊朗政府將與武裝部隊合作，承擔航行引導、船舶通行監管以及維護波斯灣安全等職責。薩利米說，這一初步文字正在議會國家安全與外交政策委員會審議，議會已邀請有關專家提出意見和建議，以進一步完善該方案。(新華社)
+
+---
+
+### 2026-08-07 08:22:25  #公司 #市場 #國際
+
+【日經指數下跌0.7% 受晶片相關股票拖累】隨著對中東衝突和能源成本的不確定性持續存在，日本股市早盤走低。晶片相關股票領跌。Lasertec下跌9.8%，軟銀集團下跌6.1%，Screen Holdings下跌4.2%。美元報158.49日元，週四東京股市收盤時為157.81日元。投資者正關注企業盈利，普利司通定於週五晚些時候公佈季度業績。日經指數下跌0.7%，報65,210.13點。
+
+---
+
+### 2026-08-07 08:21:26  #市場 #國際
+
+20年期日本國債收益率上漲2.0個基點，至3.660%。
+
+---
+
+### 2026-08-07 08:21:20  #市場
+
+“2026年春節過後，我幾乎沒有短劇可拍了。”一位中部短劇男演員向中國證券報記者感慨道。AI生成影片技術的爆發式應用正重塑短劇行業生產邏輯。Wind資料顯示，短劇遊戲概念指數7月27日以來累計上漲超17%。分析人士認為，在行業產能高速擴張與內容同質化加劇的背景下，短劇行業正從流量驅動轉向內容驅動，具備AI影片生成技術、IP儲備和精品內容製作能力的產業鏈龍頭有望率先受益。
+
+---
+
+### 2026-08-07 08:20:49  #公司 #市場
+
+【磷化銦景氣度高漲 3只概念股獲機構積極關注】近期，磷化銦價格顯著上漲。上海有色網資料顯示，4英寸磷化銦襯底8月6日均價達到6250元/片，較年初上漲約45%。磷化銦價格上漲還疊加著上游原料銦的同步暴漲，Wind資料顯示，截至8月6日，精銦報價5430元/千克，較年初的2980元/千克上漲超80%。受AI浪潮拉動，光模組對磷化銦襯底的需求急劇擴張，推動磷化銦價格攀升。磷化銦主要用在AIDC高速光模組器件中，近年來光模組速率從800G向1.6T、3.2T趨勢演進，促進磷化銦襯底持續改進，供需缺口進一步擴大。據證券時報·資料寶統計，A股中佈局磷化銦產業鏈的個股共有18只，其中12股已公佈半年度報告或業績預告，按半年報淨利潤、業績預告淨利潤下限計算，9股淨利潤實現同比增長，其中博傑股份、株冶集團、興業銀錫、雲南鍺業增幅超過100%，其他還有歐萊新材扭虧為盈。從機構關注度來看，9股獲3家及以上機構評級，佔比為總數的一半，中國鋁業、興業銀錫、華錫有色3股獲機構積極關注，評級機構家數分別為10家、7家、7家。
+
+---
+
+### 2026-08-07 08:19:25  #其他
+
+日股日經指數抹去漲幅，跌幅擴大至0.75%。
+
+---
+
+### 2026-08-07 08:18:50  #公司
+
+【天賜材料：用於資料中心的氟化液產品仍處於實驗室小試階段】天賜材料(002709)8月7日在互動平臺表示，公司用於資料中心的氟化液產品，目前仍處於實驗室小試階段。從下游電芯廠客戶的反饋看，鋰電池行業仍處於穩定發展階段，目前公司電解液產品訂單飽滿，市場份額穩定，但公司股價波動受宏觀經濟、行業週期、市場情緒等多重因素影響，請注意投資風險。
+
+---
+
+### 2026-08-07 08:18:36  #國際
+
+【我海軍83艦編隊結束對印度尼西亞友好訪問】6日上午，中國海軍83艦編隊駛離印度尼西亞泗水丹戎佩拉港，圓滿結束為期4天的友好訪問，繼續執行遠海綜合實習訪問任務。 中國駐泗水總領館工作人員，當地華人華僑、中資機構及留學生代表，以及印尼海軍官兵代表到碼頭送行。編隊實習學員在甲板分割槽列隊，向歡送人群致意。 在印尼訪問期間，編隊指揮員拜會了印尼軍政領導，出訪學員和官兵赴印尼海軍學院參加友誼運動會，與印尼海軍學員共同開展文化沙龍。雙方還組織了艦艇互訪、座談交流等活動。編隊靠泊丹戎佩拉港期間，當地民眾、華人華僑、印尼軍方代表登上戚繼光艦和崑崙山艦參觀，近距離了解中國海軍艦艇和航海文化。一系列交流活動搭建起互學互鑑平臺，推動中印尼兩軍關係繼續走深走實，進一步鞏固兩國傳統友誼。 應印尼海軍邀請，編隊駛離丹戎佩拉港後，與印尼海軍開展了海上聯合訓練。
+
+---
+
+### 2026-08-07 08:17:47  #公司 #市場
+
+軟銀集團股價下跌6.3%。
+
+---
+
+### 2026-08-07 08:17:17  #市場 #國際
+
+【日元回吐美日聯合干預帶來的近半數漲幅】日元臨近本週末，已經回吐干預行動催生的近半數漲幅，交易員紛紛猜測當局或將再度入市。週五早盤日元兌美元交投於 158.45 附近，較週一觸及的高點 155.23 明顯回落。在上週，日元一度逼近 1 美元兌 164 日元的四十年低位，隨後美日自 1998 年以來首次實施聯合買入日元操作。此番回落凸顯出干預手段難以扭轉日元長期跌勢。日美之間巨大的利差、日本高額債務負擔以及地緣政治不確定性持續壓制日元匯率。與此同時，受油價上行推動，美元週四錄得兩週以來最大單日漲幅，反映出市場對中東局勢緩和的樂觀情緒正在消退。美日官員已向投資者發出警示，必要時將堅決捍衛日元匯率。
+
+---
+
+### 2026-08-07 08:16:54  #經濟數據 #中國
+
+【上半年規模以上工業中小企業增加值同比增長5.8%】據工業和資訊化部訊息，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。今年上半年，規模以上工業中小企業增加值同比增長5.8%，營業收入同比增長7.7%，為2023年以來同期最高水平，利潤總額同比增長16.9%，為2022年以來同期最高水平，生產經營穩步向好，盈利能力持續增強。
+
+---
+
+### 2026-08-07 08:15:42  #公司
+
+【華民股份與華川半導體簽署戰略合作協議】據華民股份訊息，8月6日，華民股份與華川半導體正式簽署戰略合作協議，雙方將在半導體刻蝕裝置核心矽部件領域展開深度合作，依託各自技術優勢、產業優勢及資源優勢，共同推動半導體裝置自主化與國產替代程序。
+
+---
+
+### 2026-08-07 08:15:22  #其他
+
+【上半年規模以上工業中小企業增加值同比增長5.8%】記者今天（7日）從工業和資訊化部瞭解到，今年上半年，中小企業經濟執行總體平穩，主要指標保持較快增長，企業效益持續改善。今年上半年，規模以上工業中小企業增加值同比增長5.8%，營業收入同比增長7.7%，為2023年以來同期最高水平，利潤總額同比增長16.9%，為2022年以來同期最高水平，生產經營穩步向好，盈利能力持續增強。分行業看，31個製造業大類行業中18個行業規模以上中小企業利潤總額保持增長，計算機及通訊電子裝置、有色金屬冶煉和壓延加工業、化學原料和化學制品製造業增速較快，上游及高技術行業利潤高速增長，拉動作用明顯。資料顯示，6月份，中小企業出口指數為52.8%，連續27個月處於擴張區間，其中，專精特新“小巨人”企業表現亮眼，上半年出口交貨值同比增長21.1%，綜合競爭力進一步增強。
 
 ---
 
@@ -19313,245 +19433,5 @@ US Crude Oil Stocks Unexpectedly Rise: EIA — US crude inventories rose by 2.47
 ### 2026-08-05 22:34:16  #公司
 
 【均瑤健康：獨立董事就子公司賬外資金事項發表意見】均瑤健康公告稱，獨立董事對公司2025年度相關審計報告涉及事項進行核查並發表意見。2023年9月至2025年10月，泛緣供應鏈原總經理用個人卡收付經營性款項，資金流入4010.57萬元、流出4010.51萬元，未流向關聯方，無關聯方非經營性資金佔用。該行為反映子公司資金管控執行有短板，構成內控重要缺陷，公司已完成整改。2025年賬外收支補入賬依據充分，往期收支不構成重大會計差錯。除該事項外，其餘子公司無同類違規情形。
-
----
-
-### 2026-08-05 22:34:01  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA data show U.S. weekly diesel exports surged to a record high.
-
----
-
-### 2026-08-05 22:33:56  #國際
-
-美國能源資訊署稱，美國柴油周出口量飆升至歷史新高。
-
----
-
-### 2026-08-05 22:33:55  #市場 #焦點
-
-聚丙烯連續主力合約日內跌3%，現報7892.00元。
-
----
-
-### 2026-08-05 22:33:31  #宏觀 #國際
-
-【媒體：官員稱美財政部移除伊朗相關制裁措施並不代表政策轉變】有報道稱美國財政部從其網站上移除了與伊朗相關的制裁。一位財政部官員告訴我：“這並不代表美國對伊朗政府、革命衛隊聖城旅、任何被認定的恐怖組織或其支持者或代理人的政策發生了任何轉變。今天的移除是正常行政程式的一部分，是在審查了與巴格達航空相關的具體情況後進行的。”
-
----
-
-### 2026-08-05 22:33:06  #MKT News #Important
-
-【Fox News: Treasury official says removal of Iran-related sanctions from website does not signal policy change】Fox News reported the U.S. Treasury removed Iran-related sanctions from its website. A Treasury official said this "does not represent any change in U.S. policy toward the Iranian government, the IRGC Quds Force, any designated terrorist organization or its supporters or agents." The official said the removal was a routine administrative action following a review of a specific case involving Baghdad Airlines.
-
----
-
-### 2026-08-05 22:33:00  #國際
-
-【美國當週EIA庫存資料六大看點一覽】1. EIA報告：07月31日當週美國原油出口增加21.8萬桶/日至368.5萬桶/日。2. EIA報告：07月31日當週美國國內原油產量增加0.8萬桶至1380.4萬桶/日。3. EIA報告：除卻戰略儲備的商業原油庫存增加247.9萬桶至4.07億桶，增幅0.61%。4. EIA報告：美國原油產品四周平均供應量為2043.0萬桶/日，較去年同期減少0.9%。5. EIA報告：07月31日當週美國戰略石油儲備（SPR）庫存減少284.1萬桶至3.048億桶，降幅0.92%。6. EIA報告：07月31日當週美國除卻戰略儲備的商業原油進口619.8萬桶/日，較前一週增加51.5萬桶/日。
-
----
-
-### 2026-08-05 22:31:56  #宏觀 #公司 #焦點 #國際
-
-【美國財政部解除對巴格達航空相關制裁】當地時間8月5日，根據美國財政部外國資產控制辦公室訊息，美國將伊拉克巴格達航空從“特別指定國民和被封鎖人員名單”中移除，同時解除對該公司兩架波音737飛機的相關制裁。此前，巴格達航空因被指與伊朗伊斯蘭革命衛隊“聖城旅”有關聯而受到制裁。（央視新聞）
-
----
-
-### 2026-08-05 22:31:37  #市場 #焦點
-
-現貨黃金突破4240美元/盎司，日內漲4.03%。
-
----
-
-### 2026-08-05 22:31:37  #市場
-
-現貨黃金日內漲4%，現報4241.67美元/盎司。
-
----
-
-### 2026-08-05 22:31:30  #國際
-
-【哈薩克與韓國聯合搗毀一韓國電詐團伙】韓國警方5日說，韓方與哈薩克執法部門進行聯合行動，搗毀了一個藏身哈薩克的韓國電詐團伙，並抓獲十餘名韓籍嫌疑人。韓國警察廳當天通報，韓國一個多部門打擊跨國犯罪特別工作組7月23日在哈薩克阿拉木圖開展行動，抓獲該詐騙團伙14名成員。另外，該團伙還有5名成員在韓國被捕。在哈薩克落網的嫌疑人已於7月28日至8月5日被分批遣返回韓國。（新華社）
-
----
-
-### 2026-08-05 22:31:10  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. Strategic Petroleum Reserve fell 2.841 mln barrels in the week to July 31, compared with a 3.797 mln-barrel draw the prior week, EIA data showed.
-
----
-
-### 2026-08-05 22:31:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-EIA implied U.S. gasoline demand for the week to July 31 was 9.8383 mln b/d, down from 9.9311 mln b/d the prior week.
-
----
-
-### 2026-08-05 22:31:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. EIA implied crude oil demand for the week to July 31: 19.648 mln b/d, down from 20.503 mln b/d the prior week.
-
----
-
-### 2026-08-05 22:31:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA heating oil stocks for week to July 31: -144,000 barrels vs prior +308,000 barrels.
-
----
-
-### 2026-08-05 22:31:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-US EIA distillate fuel oil implied demand for week to July 31: 5.8251 mln b/d, prior 5.3103 mln b/d.
-
----
-
-### 2026-08-05 22:30:59  #國際
-
-EIA稱，美國上週原油庫存增加248萬桶。
-
----
-
-### 2026-08-05 22:30:57  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，1藥網跌7.51%，水滴公司跌7.41%，金生遊樂跌5.76%，阿特斯跌4.76%，新氧跌4.52%。
-
----
-
-### 2026-08-05 22:30:51  #MKT News
-
-U.S. EIA reformulated gasoline (RFG) stocks for week to July 31: 0 barrels; prior 0 barrels.
-
----
-
-### 2026-08-05 22:30:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA finished petroleum product imports: -317,000 b/d in the week to July 31, versus +186,000 b/d the prior week.
-
----
-
-### 2026-08-05 22:30:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. EIA crude inventories rose 2.479 mln barrels in the week to July 31; consensus expected a 1.506 mln-barrel draw, prior week showed a 7.167 mln-barrel draw.
-
----
-
-### 2026-08-05 22:30:50  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA gasoline inventories for the week to July 31 fell 1.643 mln barrels, versus an expected draw of 1.264 mln; prior was a 0.07 mln-barrel build.
-
----
-
-### 2026-08-05 22:30:49  #國際
-
-美國至7月31日當週EIA原油庫存 247.9萬桶，預期-150.6萬桶，前值-716.7萬桶。
-
----
-
-### 2026-08-05 22:30:49  #MKT News #WTI #Impact bearish #Brent
-
-US EIA crude oil imports for the week to July 31: 297,000 barrels; prior -237,000 barrels.
-
----
-
-### 2026-08-05 22:30:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. refinery utilization rate for the week to July 31 was 96.5% versus 96.9% expected and 97.2% prior, EIA.
-
----
-
-### 2026-08-05 22:30:45  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Distillate Fuel Implied Demand (Jul.31) | actual 5825100M | previous 5310300M
-
----
-
-### 2026-08-05 22:30:32  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Motor Gasoline Implied Demand (Jul.31) | actual 9838300M | previous 9931100M
-
----
-
-### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA weekly refined petroleum product inventories fell 3.473 mln barrels in the week to July 31, versus a market-expected 0.206 mln-barrel build and a prior increase of 1.062 mln barrels.
-
----
-
-### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-U.S. EIA weekly refined petroleum products production for the week to July 31 fell 134,000 b/d, versus a 15,000 b/d increase in the prior week.
-
----
-
-### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-US EIA gasoline production for the week to July 31 fell 309,000 b/d; prior week +178,000 b/d.
-
----
-
-### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-U.S. EIA weekly change in crude oil production for the week ended July 31: -183,000 b/d; prior +271,000 b/d.
-
----
-
-### 2026-08-05 22:30:30  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
-
-EIA Cushing, Oklahoma crude stocks for week to July 31 rose 2.356 mln barrels; prior week -0.771 mln barrels.
-
----
-
-### 2026-08-05 22:30:25  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Crude Oil Implied Demand (Jul.31) | actual 19648000M | previous 20503000M
-
----
-
-### 2026-08-05 22:30:08  #MKT News #Economic Calendar #Important
-
-United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.31) | actual -2841000M | previous -3797000M
-
----
-
-### 2026-08-05 22:30:05  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Refinery Utilization Rates (Jul.31) | actual 96.5% | consensus 96.9% | previous 97.2%
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar
-
-United States | EIA Weekly Crude Oil Imports Change (Jul.31) | actual 297000M | previous -237000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar
-
-United States | EIA Weekly Petroleum Products Imports Change (Jul.31) | actual -317000M | previous 186000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar #Important
-
-United States | EIA Weekly Distillate Stocks Change (Jul.31) | actual -3473000M | consensus 206000M | previous 1062000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar
-
-United States | EIA Weekly Heating Oil Stocks Change (Jul.31) | actual -144000M | previous 308000M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar
-
-United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Jul.31) | actual 0M | previous 0M
-
----
-
-### 2026-08-05 22:30:02  #MKT News #Economic Calendar
-
-United States | EIA Weekly Distillate Production Change (Jul.31) | actual -134000M | previous 15000M
 
 ---

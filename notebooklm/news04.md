@@ -1,7 +1,331 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-08 16:53:29_
-_本檔包含 3328 則快訊，約 597393 字_
+_更新時間：2026-08-08 17:48:15_
+_本檔包含 3357 則快訊，約 595962 字_
+
+---
+
+### 2026-08-04 21:42:16  #市場
+
+美股光學和光子學元件股票走強，Applied Optoelectronics漲16%，Lumentum漲7%，Coherent漲11%。
+
+---
+
+### 2026-08-04 21:42:16  #MKT News #AAOI.O #Impact bullish #LITE.O #COHR.O
+
+U.S. optics and photonics components stocks advanced: Applied Optoelectronics rose 16%, Lumentum gained 7% and Coherent climbed 11%.
+
+---
+
+### 2026-08-04 21:42:09  #國際
+
+市場訊息：俄羅斯聯邦獸醫和植物檢疫監督局將對來自歐盟的肉類及禽肉副產品經由俄羅斯過境實施臨時限制。
+
+---
+
+### 2026-08-04 21:41:29  #公司
+
+【包鋼股份成功獲得嘉興市域鐵路萬噸鋼軌訂單】據包鋼集團，日前，包鋼股份成功中標嘉興市域鐵路專案，成功獲得約1萬噸鋼軌供貨訂單，將為這條跨省通勤通道提供高品質軌道用材。
+
+---
+
+### 2026-08-04 21:41:17  #公司
+
+【亞馬遜跌超2%】亞馬遜跌超2%，公司創始人傑夫·貝索斯出售價值40.7億美元的股票。
+
+---
+
+### 2026-08-04 21:40:33  #市場 #焦點
+
+現貨黃金突破4090美元/盎司，日內漲0.86%。
+
+---
+
+### 2026-08-04 21:40:32  #市場
+
+馬拉松石油股價在公佈第二季度業績後下跌1.1%。
+
+---
+
+### 2026-08-04 21:40:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 1.29% Higher — The Dow Jones Index is picking up 684 points or 1.29 percent on Tuesday. Gains are led by Caterpillar (11.03%), Cisco Systems (3.89%) and Goldman Sachs (2.97%).
+
+---
+
+### 2026-08-04 21:39:33  #市場 #焦點
+
+WTI原油失守76美元/桶，日內跌5.42%。
+
+---
+
+### 2026-08-04 21:39:26  #公司 #國際
+
+【敘利亞過渡政府宣佈將恢復與俄羅斯的直飛航班】敘利亞過渡政府民航與航運總局4日宣佈，本月16日起敘利亞航空公司將恢復首都大馬士革與俄羅斯首都莫斯科之間的定期直飛航班。 敘利亞航空公司當天表示，乘客現在可透過該公司官網或應用程式預訂該航線機票。 敘過渡政府民航與航運總局局長奧馬爾·胡薩里說，該航線的恢復是敘利亞進一步“向世界開放”的新舉措，也是發展敘航空運輸業的持續努力的一部分。 據報道，敘利亞近期已開通或恢復了與荷蘭、沙特等國的多條直飛航線。 俄羅斯塔斯社報道說，2024年12月敘政局劇變後，大馬士革與莫斯科之間的直飛客運航班暫停。(新華社)
+
+---
+
+### 2026-08-04 21:39:01  #市場
+
+【中國期貨監控：期貨市場境外交易者權益規模創歷史新高】8月4日，中國期貨市場監控中心釋出資料，截至目前，境外交易者權益規模顯著增長，市場參與度持續提升，資金權益在原超千億元基礎上大幅提升，創歷史新高，較2025年末增長約六成。
+
+---
+
+### 2026-08-04 21:38:26  #MKT News #Nasdaq100 #Impact bullish #S&P500
+
+S&P 500 information technology sector hit a two-week high, up 2.2%.
+
+---
+
+### 2026-08-04 21:38:18  #市場
+
+標普 500 資訊科技板塊創兩週新高，最新上漲 2.2%。
+
+---
+
+### 2026-08-04 21:38:13  #市場 #國際
+
+銅相關股票歐洲午盤走強，Boliden、Antofagasta、英美資源和KGHM上漲5%-7.5%不等。
+
+---
+
+### 2026-08-04 21:38:01  #公司
+
+ADM 執行長：公司或將在今年評估股票回購計劃。
+
+---
+
+### 2026-08-04 21:37:56  #市場
+
+北美科技軟體股指數ETF漲2.7%，重新整理6月4日以來盤中高位至100.16美元，7月24日以來持續反彈。
+
+---
+
+### 2026-08-04 21:37:28  #市場 #焦點
+
+甲醇連續主力合約日內跌2%，現報2554.00元。
+
+---
+
+### 2026-08-04 21:37:20  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+Chinese crude-related futures most-active contracts fell sharply. Shanghai crude (SC) down 4.04% at 515.3 yuan/bbl. Low-sulfur fuel oil (LU) down 3.26% at 4,488 yuan/ton. Fuel oil down 3.10% at 3,350 yuan/ton. Asphalt down 1.71% at 4,074 yuan/ton.
+
+---
+
+### 2026-08-04 21:37:03  #其他
+
+市場訊息：全球最大託管銀行紐約梅隆銀行（BNY MELLON）將推出加密貨幣質押業務。
+
+---
+
+### 2026-08-04 21:36:51  #Trading Economics #Markets #United States #Stock Market #Importance 3
+
+US Stocks Rise to Records — US stocks rose sharply on Tuesday amid an improving macroeconomic backdrop as key earnings will offer updates on the AI trade. The S&P 500 rose 0.5% and the Dow gained 650 points to new records, while the Nasdaq 100 added 1.4%. Fuel and natural gas prices fell after Qatar signaled progress toward a short-term deal between the US and Iran, limiting inflationary risks and driving benchmark yields to hold their pullback. Palantir soared over 15% after raising its forecasts on the back of strong commercial sales. Meanwhile, industrial bellwether Caterpillar gained nearly 10% after beating its earnings estimates. AI hypersaclers were mixed following their surge yesterday, which stretched the ongoing period of outperformance to AI infrastructure companies, reversing the trend from late in June. AMD and SpaceX were higher ahead of their earnings after the bell. The former will offer more updates on compute capacity demand by AI companies, and the latter trades 40% down from its record.
+
+---
+
+### 2026-08-04 21:36:41  #市場
+
+墨西哥主要股指開盤後上漲超1%。
+
+---
+
+### 2026-08-04 21:36:18  #市場
+
+現貨白銀日內漲3%，現報59.91美元/盎司。
+
+---
+
+### 2026-08-04 21:36:11  #Trading Economics #Markets #Netherlands #stocks #Importance 0
+
+ING Stock Price Hits 25-year High — ING shares increased to 30.70 EUR, the highest since July 2001. Over the past 4 weeks, ING Group gained 6.77%, and in the last 12 months, it increased 56.18%.
+
+---
+
+### 2026-08-04 21:36:08  #其他
+
+Snap漲10%，第二季度營收超出預期。
+
+---
+
+### 2026-08-04 21:35:59  #其他
+
+【江西省發展和改革委員會原黨組成員路文革嚴重違紀違法被開除黨籍和公職】江西省紀委監委8月4日通報，經江西省委批准，江西省紀委監委對省發展和改革委員會原黨組成員，省糧食和物資儲備局原黨組書記、局長路文革嚴重違紀違法問題進行了立案審查調查。（新華社）
+
+---
+
+### 2026-08-04 21:35:57  #MKT News #SNAP.N #Impact bullish
+
+Snap (SNAP.N) shares rose 10% after second-quarter revenue beat expectations.
+
+---
+
+### 2026-08-04 21:35:25  #MKT News #DD.N #Impact bearish
+
+DuPont (DD.N) fell 4.2% after cutting its full-year sales forecast.
+
+---
+
+### 2026-08-04 21:35:10  #公司 #市場
+
+杜邦股價下跌4.2%，此前該公司下調了年度銷售預期。
+
+---
+
+### 2026-08-04 21:34:57  #市場
+
+【分析師：油價表現或側面證實霍爾木茲海峽重開訊息】Investinglive的分析師Adam Button表示，他傾向於相信此前媒體報道的關於霍爾木茲海峽全面重新開放的安排，將在數小時內或明天宣佈的訊息，哪怕這僅僅是因為過去兩天油價下跌的幅度之大。油價走勢確實像是“有人提前知道了某些訊息”，因為這次跌幅已經超過了通常所謂的“TACO”行情。但他關注的問題在於，鑑於迄今為止各方表現，任何可能的“協議”都難以被視為持久的。
+
+---
+
+### 2026-08-04 21:34:28  #市場
+
+土耳其主要股指伊斯坦布林100指數上漲1.6%，主要銀行股指數上漲2%。
+
+---
+
+### 2026-08-04 21:34:00  #市場
+
+納斯達克100指數開盤上漲1.5%。
+
+---
+
+### 2026-08-04 21:33:54  #公司
+
+【馬斯克將迎SpaceX上市首個財報拷問 火箭、星鏈、太空資料中心前景成焦點】埃隆・馬斯克旗下太空企業SpaceX登陸資本市場後首度釋出季報，投資者將於週二獲得向馬斯克提問的機會。 SpaceX股價較6月高點已經腰斬。投資者擔憂，馬斯克此前向市場描繪的未來前景或許過於樂觀。本週晚些時候，部分內部人士股票限售期（鎖定期）即將到期、獲得拋售股票資格，市場正為此做好股價劇烈波動的心理準備。 馬斯克兼具遠見工程師與股票推介者的雙重身份，投資者大機率會向他追問一系列問題：NASA計劃藉助巨型星艦火箭實現載人重返月球，該火箭測試何時收官；星鏈衛星網路後續規劃；以及將足球場大小的資料中心送入軌道專案的前景。 市場一直流傳SpaceX或將與馬斯克旗下車企特斯拉合併的傳聞，馬斯克可能被問及相關整合事宜，但預計很難披露實質資訊。兩家公司均未證實合併計劃，馬斯克此前也曾迴避相關提問，表示證券法限制他對此展開討論。
+
+---
+
+### 2026-08-04 21:33:39  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #S&P500
+
+PHLX semiconductor index (SOX) opened 4.4% higher.
+
+---
+
+### 2026-08-04 21:33:31  #公司 #市場
+
+安森美半導體股價上漲3%，此前該公司公佈第三季度營收預期高於市場預估。
+
+---
+
+### 2026-08-04 21:33:20  #市場
+
+麥當勞二季度利潤超預期，股價上漲2%。
+
+---
+
+### 2026-08-04 21:33:15  #公司 #市場 #觀點
+
+摩根大通將耐克評級下調至“減持”後，耐克股價下跌3%。
+
+---
+
+### 2026-08-04 21:33:06  #市場 #焦點
+
+PTA連續主力合約日內跌2%，現報5786.00元。
+
+---
+
+### 2026-08-04 21:32:32  #公司
+
+【FF計劃用三到四個季度將總負債降至1億美元以下】8月4日，法拉第未來（NASDAQ: FFAI） 宣佈，在供應商、債權人及其他產業合作伙伴的支援下，公司歷史遺留債務化解取得實質進展。根據已披露資料，總負債由2025年的約3.5億美元降至2026年的約2.3億美元，化債工作仍在推進。公司計劃用三到四個季度將總負債降至1億美元以下。
+
+---
+
+### 2026-08-04 21:32:27  #MKT News #SPOT.N #Impact bearish
+
+Spotify (SPOT.N) fell 4.3% after the company said it expects Q3 profit and monthly active users to be below expectations.
+
+---
+
+### 2026-08-04 21:32:26  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
+
+U.S. equities opened higher on Aug 4 (Tue): Dow Jones up 804.75 pts (+1.51%) at 53,983.16; S&P 500 up 37.92 pts (+0.50%) at 7,638.41; Nasdaq Composite up 229.10 pts (+0.88%) at 26,143.00.
+
+---
+
+### 2026-08-04 21:32:24  #市場
+
+標普 500 指數上漲 0.5%，有望創下 6 月以來首個歷史新高。
+
+---
+
+### 2026-08-04 21:32:04  #市場 #焦點
+
+納指漲1.00%，現報26173.336點；道指漲1.43%，現報53940.180點；標普500指數漲0.54%，現報7641.400點。
+
+---
+
+### 2026-08-04 21:32:03  #市場 #焦點
+
+布倫特原油價格自7月中旬以來首次跌破80美元。
+
+---
+
+### 2026-08-04 21:31:48  #市場
+
+道指、標普500指數開盤重新整理歷史新高 AI硬體個股集體走強。
+
+---
+
+### 2026-08-04 21:31:32  #公司 #市場
+
+Spotify 股價下跌 4.3%，公司給出的第三季度利潤、月活躍使用者均低於市場預期。
+
+---
+
+### 2026-08-04 21:31:25  #市場
+
+PALANTIR股價開盤飆升19%，創下2025年4月以來最大單日漲幅。
+
+---
+
+### 2026-08-04 21:31:25  #市場 #焦點
+
+納斯達克中國金龍指數跌超1%，新東方跌4.57%，小鵬汽車跌3.56%，名創優品跌3.77%，理想汽車跌3.05%，大全新能源跌2.47%。
+
+---
+
+### 2026-08-04 21:31:16  #市場
+
+【費城半導體指數開盤上漲4%】費城半導體指數開盤上漲4%。成分股方面，英偉達股價上漲1.9%，臺積電股價上漲2.24%，博通股價上漲2.97%，美光科技股價上漲4.8%，超威半導體股價上漲4.91%，阿斯麥股價上漲3.62%。
+
+---
+
+### 2026-08-04 21:31:08  #市場 #焦點
+
+乙二醇連續主力合約日內跌5%，現報4680.00元。
+
+---
+
+### 2026-08-04 21:31:07  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) shares fell 2.2% after founder Jeff Bezos said he plans to sell about $4 billion of stock.
+
+---
+
+### 2026-08-04 21:31:06  #市場 #國際
+
+【大商所乙二醇主力合約大跌5%】大商所乙二醇主力合約大跌5%，報4680元/噸。
+
+---
+
+### 2026-08-04 21:31:01  #市場
+
+卡特彼勒股價上漲 12%。
+
+---
+
+### 2026-08-04 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指齊漲】道指漲1.43%，標普500指數漲0.47%，納指漲0.83%。Palantir Technologies漲17.90%，斑馬技術漲17.52%，卡特彼勒漲11.72%，Coherent Corp漲11.26%，邁威爾科技漲9.54%。“七姐妹”方面：英偉達漲1.89%，特斯拉漲0.95%，蘋果漲0.02%，微軟跌0.62%，谷歌跌0.98%，Meta Platforms跌1.48%，亞馬遜跌2.24%。
+
+---
+
+### 2026-08-04 21:30:44  #MKT News #Important #Star Stocks #Palantir #PLTR.N #Impact bullish #AMD.O #MU.O
+
+US stocks opened higher: Dow +1.17%, S&P 500 +0.4%, Nasdaq +0.78%. Palantir (PLTR.N) surged 14.7% after sharply raising full-year revenue guidance. SpaceX (SPCX.O) and AMD (AMD.O) are due to report after the close; both gained 2.8% and 3.7% respectively. Micron (MU.O) rose 4% and Corning (GLW.N) rose 5.6%.
 
 ---
 
@@ -19900,155 +20224,5 @@ Thailand plans annual imports of 100,000 tonnes of urea from western Indonesia a
 ### 2026-08-03 19:42:40  #MKT News #Market Regions #Greater China
 
 【Fourth national proprietary Chinese medicine procurement finalised; OTC and exclusive varieties fully included】Led by the Hubei provincial medical insurance bureau, the fourth national centralised procurement for proprietary Chinese medicines published full results. The tender set 28 procurement groups and covered 89 commonly used proprietary Chinese medicines, including OTC and exclusive varieties, representing a market of more than CNY45 bln; over 40,000 public medical institutions reported purchase volumes. A total of 344 firms submitted 468 products; 243 firms with 310 product specifications won. Overall average price cuts exceeded 50%. The procurement used a composite scoring model (price 60%, technical evaluation 40%) and introduced reinstatement/supplementary lists and A/B grouping competition, moving away from lowest-price-only selection to incorporate drug quality, clinical value and supply stability. Industry analysts said the round accelerates alignment of in-hospital and retail pricing, will concentrate share with firms that have scale, supply-chain and quality-control advantages, and is likely to accelerate exit by smaller players lacking core barriers.
-
----
-
-### 2026-08-03 19:42:16  #其他
-
-【颱風白海豚7日後將趨向華東沿海】今年第13號颱風“白海豚”於7月27日生成，8月3日17時其中心位於距離琉球群島那霸市偏東方向約1890公里的西北太平洋洋麵上，中心附近最大風力15級（48米/秒，強颱風級），中心最低氣壓為945百帕。 預計“白海豚”將以每小時20～25公里的速度繼續向西偏北方向移動，強度變化不大，5日之前對我國無明顯影響；將於6日至7日穿過琉球群島移入東海，之後其路徑和對我國的影響不確定性較大。 氣象專家提醒，公眾需持續密切關注中央氣象臺釋出的最新預報預警資訊，提前做好颱風防禦準備。（中央氣象臺）
-
----
-
-### 2026-08-03 19:41:40  #其他
-
-【十銓：DRAM缺貨最嚴峻時刻預計在2027年上半年】儲存模組廠十銓科技第二季營收75.88億新臺幣，環比減少16.11%，同比增66.18%，稅後淨利潤24.12億新臺幣，環比增長5.14%，同比增長21827%。十銓表示，全球AI基礎建設建置帶動大量儲存需求，主要DRAM原廠積極擴充產能，但短期仍難有效緩解供需失衡，缺貨最嚴峻的時期預期將落在2027年上半年。
-
----
-
-### 2026-08-03 19:41:27  #國際
-
-【俄安全部門挫敗一起針對地方檢察院的恐襲圖謀】俄羅斯聯邦安全域性3日通報說，該局日前挫敗一起在斯塔夫羅波爾邊疆區皮亞季戈爾斯克市檢察院附近實施的恐襲圖謀，一名來自中亞地區的男子被捕。通報說，這名男子生於2001年，是一個國際恐怖組織的支持者，他根據這一恐怖組織的指示，企圖在皮亞季戈爾斯克市檢察院附近實施襲擊。通報還說，按照計劃，這名男子將在實施襲擊後前往敘利亞並正式加入這一恐怖組織。執法人員在搜查這名男子住所時，查獲了用於組裝自制爆炸裝置的零件、化學制劑等。（新華社）
-
----
-
-### 2026-08-03 19:41:01  #其他
-
-【法國警方逮捕涉嫌與近期山火有關的375人】當地時間8月3日，據法國內政部訊息，警方已逮捕375名涉嫌與近期山火有關的人員，其中包括142名未成年人，約佔被捕總人數的37.9%。據接近調查的訊息人士透露，目前已有36人被收監。其中，部分人員已被判處有期徒刑，並由法院下令立即收押；其餘人員則在等待審判期間被採取審前羈押措施。（央視新聞）
-
----
-
-### 2026-08-03 19:40:49  #公司 #國際
-
-【泰森食品第三財季銷售額138.7億美元，與上年同期持平】8月3日，美國肉類巨頭泰森食品（Tyson Foods）公佈2026財年第三財季業績。財報顯示，公司當季銷售額為138.68億美元，與上年同期持平；GAAP營業利潤為3.62億美元，同比增長39%；GAAP每股收益為0.52美元，同比增加0.35美元。
-
----
-
-### 2026-08-03 19:40:46  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Former Iranian foreign minister Javad Zarif warned that if Iran fails to reach a final agreement with the US within the proposed 60-day negotiating window, it could face further economic hardship, domestic unrest or a new round of military strikes.
-
----
-
-### 2026-08-03 19:40:40  #國際
-
-伊朗前外長穆罕默德·賈瓦德·扎裡夫警告，若無法在擬定的60天談判期限內與美國達成最終協議，伊朗或將遭遇更嚴峻的經濟困境、國內動盪，或是再度遭受軍事打擊。
-
----
-
-### 2026-08-03 19:40:27  #國際
-
-【西媒：美國在中期選舉前三個月啟動選舉模式】據西班牙《國家報》網站8月2日報道，美國在中期選舉前三個月啟動選舉模式。 報道稱，7月31日，美國總統特朗普在戴維營舉行了一場不同尋常的內閣公開電視會議。在團隊全員簇擁下，這位美國總統發表了一場宛如競選集會的演講。 特朗普承認自己已經開始考慮中期選舉了。在距離11月3日的中期選舉僅剩三個月之際，支援率跌至歷史新低的特朗普已進入競選模式。他奔走於美國各地之間，試圖扭轉民調劣勢。幾個月來，他一直警告稱共和黨有輸掉此次選舉的風險。於他而言，第一任期結束時國會啟動彈劾程式的情景仍然記憶猶新。 共和黨在民調中落後，正使出渾身解數，試圖在至關重要的中期選舉中取得優勢。中期選舉通常被視為對白宮主人執政表現的一次全民公投。它將選出眾議院全部435名議員和參議院100個席位中的三分之一。 據報道，民主黨目前在民調中佔據優勢。（參考訊息）
-
----
-
-### 2026-08-03 19:40:08  #公司
-
-【中集集團：運價與需求的雙重回暖正直接傳導至集裝箱製造端 目前已排產至10月末】中集集團近日在路演活動上表示，集裝箱業務方面，第一季度由於量價較上年同期均有所回落，導致該分部營業收入及淨利潤同比均出現下降。但進入第二季度以來，運價與需求的雙重回暖正直接傳導至集裝箱製造端，行業需求有所回升，目前已排產至10月末。今年整體來看，受去年高基數以及材料價格上行帶來的成本壓力影響，集裝箱板塊業績相比去年仍舊有所承壓。但集裝箱板塊培育的集裝箱儲能、模組化建築、冷鏈、模組化資料中心等新興業務，都處於積極佈局和快速發展當中，將為集裝箱板塊貢獻重要增量。
-
----
-
-### 2026-08-03 19:40:05  #公司
-
-【抖音生活服務增長超預期，年中上調全年交易額目標】得益於與主端UGC內容的協同效應，本地生活短影片和搜尋流量增長超預期，帶動抖音生活服務2026年上半年交易額同比增長超50%，超額完成既定目標。平臺已於年中上調全年交易額目標。獨立App“抖省省”成為另一關鍵增量來源。今日，抖省省上線“找店”入口，進一步強化使用者粘性與找店心智，透過“找品+找店”雙輪驅動，與抖音主端形成更多協同。目前抖省省日活躍使用者數已突破1500萬，本地生活入口心智持續增強。
-
----
-
-### 2026-08-03 19:39:27  #市場
-
-【美光科技美股盤前跌超4%】美光科技美股盤前跌超4%，現報790.1美元。
-
----
-
-### 2026-08-03 19:39:25  #公司
-
-【ST華揚：累計涉訴金額1160.91萬元 尚不確定對利潤影響】ST華揚公告稱，公司控股孫公司旗幟數字及其西安分公司涉定作合同糾紛，被一想天開（無錫）傳媒有限公司起訴，涉案本金690.52萬元，逾期違約金397.59萬元，共計1088.11萬元。截至公告發布日，公司近十二個月累計新增訴訟、仲裁3個，涉及金額1160.91萬元，佔最近一期經審計淨資產的20.67%。因部分案件未開庭、無有效判決，暫不能確定對公司利潤的影響。
-
----
-
-### 2026-08-03 19:38:55  #公司
-
-【阿斯麥核心供應商蔡司：有信心滿足需求 啟動總部擴建與新建廠】蔡司半導體制造技術部門負責人Frank Rohmund在接受採訪時明確表示，公司有信心滿足激增的需求，並已啟動“真正的、長期的”產能擴建專案。這一佈局與阿斯麥的擴產計劃緊密同步。今年7月，阿斯麥宣佈計劃大幅提高其EUV光刻機的產能，以滿足2028年大量積壓的訂單。
-
----
-
-### 2026-08-03 19:38:32  #MKT News #Market Themes #China Tech Giants #Star Stocks #Alibaba #BABA.N #Impact bullish
-
-【Qwen3.8-Max goes live on China's national supercomputing internet】Alibaba launched its next-generation base model Qwen3.8-Max with 2.4 tln parameters, marking the second Chinese model above 20 tln parameters after KimiK3. On launch day China's national supercomputing internet began offering API access to the model; developers can connect via the service's official website.
-
----
-
-### 2026-08-03 19:38:25  #公司
-
-穆迪確認星展集團及星展銀行評級，展望維持穩定。
-
----
-
-### 2026-08-03 19:38:18  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
-
-Swiss 10-Year Bond Yield Holds Near 0.4% — Switzerland's 10-year government bond yield hovered near 0.4% since July 28th as uncertainty surrounding the Middle East conflict remained elevated, while inflation concerns eased. Swiss inflation eased to 0.4% in July from 0.5%, its lowest level in four months, highlighting the limited pass-through from higher energy prices linked to geopolitical tensions. The reading contrasted with the Swiss National Bank's expectation of a modest near-term pickup in inflation, following its decision to hold its policy rate at 0%. The SNB is expected to leave borrowing costs unchanged throughout the year, with further cuts remaining a contingency rather than the base case, citing no severe damage to Swiss banks. Meanwhile, investor sentiment improved sharply in July, returning to positive territory for the first time since the conflict began. While most economists see the first SNB rate hike in early 2028, currency markets continue to price in an increase as early as March 2027.
-
----
-
-### 2026-08-03 19:37:55  #公司
-
-【鵬鼎控股：完成收購控股子公司晟新23.53%股權工商變更登記】鵬鼎控股公告稱，公司全資子公司慶鼎精密電子（淮安）有限公司擬以16087萬元收購關聯方嘉維公司所持晟新公司23.53%股權，完成後晟新公司將成全資子公司。日前，晟新公司已完成此次股權收購工商變更登記，取得2026年7月30日換髮的《營業執照》，但轉讓價款尚未支付。
-
----
-
-### 2026-08-03 19:37:33  #其他
-
-【Qwen3.8-Max上線國家超算網際網路】8月3日，阿里巴巴正式釋出新一代基座大模型Qwen3.8-Max，總引數量達到2.4萬億，成為繼KimiK3之後又一突破兩萬億引數的國產大模型。釋出當日，國家超算網際網路上線該模型API呼叫服務，開發者可透過官網直接接入。
-
----
-
-### 2026-08-03 19:37:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Rise on Monday — Futures tracking US equities were higher on Monday with support from respite for Treasury securities. The S&P 500 rose 0.6%, the Nasdaq 100 was slightly higher, and the Dow added over 400 points. The US refrained from striking Iran over the weekend and oil prices pulled back. The moves drove yields to decrease across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, and Goldman Sachs gaining 1% premarket. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 3%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow.
-
----
-
-### 2026-08-03 19:37:00  #公司
-
-【華揚聯眾：擬向控股股東進行8億元永續債權融資】華揚聯眾公告稱，為償還債務及補充流動資金，公司擬向控股股東湖南湘江新區發展集團有限公司開展永續債權融資，融資金額8億元。湘江集團持有公司19.81%股份。本次融資年化利率4%，無固定到期日，初始單個存續週期為3年。該議案已透過公司董事會審議，現提請2026年8月10日的臨時股東會以特別決議方式審議。
-
----
-
-### 2026-08-03 19:36:54  #宏觀 #市場 #國際
-
-【美財政部長期拒絕調整美債發行指引，華爾街逐漸放棄期待】美國財長貝森特的債務管理團隊長期拒絕華爾街和美國財政部借款諮詢委員會（TBAC）提出的建議，即取消未來美國國債發行計劃中的前瞻性指引。由於這一立場持續時間過長，許多交易商已不再預計財政部會在短期內改變政策。在週三公佈季度債務策略宣告前，多數交易商預計，財政部將重申其此前承諾，即“至少未來幾個季度不會增加國庫券（note）和長期債券（bond）的發行規模”。
-
----
-
-### 2026-08-03 19:36:27  #市場
-
-【美股儲存板塊盤前跌幅擴大】美光科技、閃迪、希捷科技跌超3%，西部資料跌超2%。
-
----
-
-### 2026-08-03 19:36:20  #公司
-
-【中國信達：預計上半年淨利潤同比降20%至25%】中國信達(01359.HK)公告，預計該公司今年上半年淨利潤同比下降20%至25%，歸母淨利潤同比下降60%至70%。中國信達在公告中表示，淨利潤同比下滑主要受遞延所得稅費用變動及當期應納稅收入上升影響；歸母淨利潤同比下降的主要原因是今年上半年信達地產預計同比大幅減虧，歸屬於非控制性權益的虧損同比大幅下降。
-
----
-
-### 2026-08-03 19:36:11  #市場
-
-泰森食品下調年度利潤預期後，其股價盤前下跌約3%。
-
----
-
-### 2026-08-03 19:35:53  #MKT News
-
-【Treasury under BESSENT resists removing forward guidance on bond issuance; dealers pare expectations】BESSENT’s debt management team has repeatedly rejected Wall Street and the Treasury Borrowing Advisory Committee (TBAC) requests to drop forward guidance in the Treasury’s future bond issuance plan, and many dealers now no longer expect a near-term policy change. Ahead of Wednesday’s quarterly debt strategy statement, most market participants expect the Treasury to reaffirm it will “not increase note and bond sizes for at least the next few quarters.” The guidance dates to the Biden administration; BESSENT previously criticized it as aimed at lowering long-term borrowing costs before the 2024 election. With midterms approaching, Republican officials also prefer to avoid signals that could expand auctions and push yields higher. RBC Capital Markets US rates strategist Blake Gwinn said Treasury should preserve optionality: modifying the guidance could lift yields, but the later the change, the larger the potential market impact.
 
 ---

@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 16:53:29_
-_本檔包含 3375 則快訊，約 596690 字_
+_更新時間：2026-08-08 17:48:15_
+_本檔包含 3361 則快訊，約 595871 字_
+
+---
+
+### 2026-08-05 22:34:01  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA data show U.S. weekly diesel exports surged to a record high.
+
+---
+
+### 2026-08-05 22:33:56  #國際
+
+美國能源資訊署稱，美國柴油周出口量飆升至歷史新高。
+
+---
+
+### 2026-08-05 22:33:55  #市場 #焦點
+
+聚丙烯連續主力合約日內跌3%，現報7892.00元。
+
+---
+
+### 2026-08-05 22:33:31  #宏觀 #國際
+
+【媒體：官員稱美財政部移除伊朗相關制裁措施並不代表政策轉變】有報道稱美國財政部從其網站上移除了與伊朗相關的制裁。一位財政部官員告訴我：“這並不代表美國對伊朗政府、革命衛隊聖城旅、任何被認定的恐怖組織或其支持者或代理人的政策發生了任何轉變。今天的移除是正常行政程式的一部分，是在審查了與巴格達航空相關的具體情況後進行的。”
+
+---
+
+### 2026-08-05 22:33:06  #MKT News #Important
+
+【Fox News: Treasury official says removal of Iran-related sanctions from website does not signal policy change】Fox News reported the U.S. Treasury removed Iran-related sanctions from its website. A Treasury official said this "does not represent any change in U.S. policy toward the Iranian government, the IRGC Quds Force, any designated terrorist organization or its supporters or agents." The official said the removal was a routine administrative action following a review of a specific case involving Baghdad Airlines.
+
+---
+
+### 2026-08-05 22:33:00  #國際
+
+【美國當週EIA庫存資料六大看點一覽】1. EIA報告：07月31日當週美國原油出口增加21.8萬桶/日至368.5萬桶/日。2. EIA報告：07月31日當週美國國內原油產量增加0.8萬桶至1380.4萬桶/日。3. EIA報告：除卻戰略儲備的商業原油庫存增加247.9萬桶至4.07億桶，增幅0.61%。4. EIA報告：美國原油產品四周平均供應量為2043.0萬桶/日，較去年同期減少0.9%。5. EIA報告：07月31日當週美國戰略石油儲備（SPR）庫存減少284.1萬桶至3.048億桶，降幅0.92%。6. EIA報告：07月31日當週美國除卻戰略儲備的商業原油進口619.8萬桶/日，較前一週增加51.5萬桶/日。
+
+---
+
+### 2026-08-05 22:31:56  #宏觀 #公司 #焦點 #國際
+
+【美國財政部解除對巴格達航空相關制裁】當地時間8月5日，根據美國財政部外國資產控制辦公室訊息，美國將伊拉克巴格達航空從“特別指定國民和被封鎖人員名單”中移除，同時解除對該公司兩架波音737飛機的相關制裁。此前，巴格達航空因被指與伊朗伊斯蘭革命衛隊“聖城旅”有關聯而受到制裁。（央視新聞）
+
+---
+
+### 2026-08-05 22:31:37  #市場 #焦點
+
+現貨黃金突破4240美元/盎司，日內漲4.03%。
+
+---
+
+### 2026-08-05 22:31:37  #市場
+
+現貨黃金日內漲4%，現報4241.67美元/盎司。
+
+---
+
+### 2026-08-05 22:31:30  #國際
+
+【哈薩克與韓國聯合搗毀一韓國電詐團伙】韓國警方5日說，韓方與哈薩克執法部門進行聯合行動，搗毀了一個藏身哈薩克的韓國電詐團伙，並抓獲十餘名韓籍嫌疑人。韓國警察廳當天通報，韓國一個多部門打擊跨國犯罪特別工作組7月23日在哈薩克阿拉木圖開展行動，抓獲該詐騙團伙14名成員。另外，該團伙還有5名成員在韓國被捕。在哈薩克落網的嫌疑人已於7月28日至8月5日被分批遣返回韓國。（新華社）
+
+---
+
+### 2026-08-05 22:31:10  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. Strategic Petroleum Reserve fell 2.841 mln barrels in the week to July 31, compared with a 3.797 mln-barrel draw the prior week, EIA data showed.
+
+---
+
+### 2026-08-05 22:31:09  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA implied U.S. gasoline demand for the week to July 31 was 9.8383 mln b/d, down from 9.9311 mln b/d the prior week.
+
+---
+
+### 2026-08-05 22:31:03  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA implied crude oil demand for the week to July 31: 19.648 mln b/d, down from 20.503 mln b/d the prior week.
+
+---
+
+### 2026-08-05 22:31:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA heating oil stocks for week to July 31: -144,000 barrels vs prior +308,000 barrels.
+
+---
+
+### 2026-08-05 22:31:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+US EIA distillate fuel oil implied demand for week to July 31: 5.8251 mln b/d, prior 5.3103 mln b/d.
+
+---
+
+### 2026-08-05 22:30:59  #國際
+
+EIA稱，美國上週原油庫存增加248萬桶。
+
+---
+
+### 2026-08-05 22:30:57  #市場 #焦點
+
+納斯達克中國金龍指數跌超0.5%，1藥網跌7.51%，水滴公司跌7.41%，金生遊樂跌5.76%，阿特斯跌4.76%，新氧跌4.52%。
+
+---
+
+### 2026-08-05 22:30:51  #MKT News
+
+U.S. EIA reformulated gasoline (RFG) stocks for week to July 31: 0 barrels; prior 0 barrels.
+
+---
+
+### 2026-08-05 22:30:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA finished petroleum product imports: -317,000 b/d in the week to July 31, versus +186,000 b/d the prior week.
+
+---
+
+### 2026-08-05 22:30:51  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA crude inventories rose 2.479 mln barrels in the week to July 31; consensus expected a 1.506 mln-barrel draw, prior week showed a 7.167 mln-barrel draw.
+
+---
+
+### 2026-08-05 22:30:50  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA gasoline inventories for the week to July 31 fell 1.643 mln barrels, versus an expected draw of 1.264 mln; prior was a 0.07 mln-barrel build.
+
+---
+
+### 2026-08-05 22:30:49  #國際
+
+美國至7月31日當週EIA原油庫存 247.9萬桶，預期-150.6萬桶，前值-716.7萬桶。
+
+---
+
+### 2026-08-05 22:30:49  #MKT News #WTI #Impact bearish #Brent
+
+US EIA crude oil imports for the week to July 31: 297,000 barrels; prior -237,000 barrels.
+
+---
+
+### 2026-08-05 22:30:49  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. refinery utilization rate for the week to July 31 was 96.5% versus 96.9% expected and 97.2% prior, EIA.
+
+---
+
+### 2026-08-05 22:30:45  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Fuel Implied Demand (Jul.31) | actual 5825100M | previous 5310300M
+
+---
+
+### 2026-08-05 22:30:32  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Motor Gasoline Implied Demand (Jul.31) | actual 9838300M | previous 9931100M
+
+---
+
+### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA weekly refined petroleum product inventories fell 3.473 mln barrels in the week to July 31, versus a market-expected 0.206 mln-barrel build and a prior increase of 1.062 mln barrels.
+
+---
+
+### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA weekly refined petroleum products production for the week to July 31 fell 134,000 b/d, versus a 15,000 b/d increase in the prior week.
+
+---
+
+### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA gasoline production for the week to July 31 fell 309,000 b/d; prior week +178,000 b/d.
+
+---
+
+### 2026-08-05 22:30:31  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA weekly change in crude oil production for the week ended July 31: -183,000 b/d; prior +271,000 b/d.
+
+---
+
+### 2026-08-05 22:30:30  #MKT News #Important #Commodities #Energy #WTI #Impact bearish
+
+EIA Cushing, Oklahoma crude stocks for week to July 31 rose 2.356 mln barrels; prior week -0.771 mln barrels.
+
+---
+
+### 2026-08-05 22:30:25  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Implied Demand (Jul.31) | actual 19648000M | previous 20503000M
+
+---
+
+### 2026-08-05 22:30:08  #MKT News #Economic Calendar #Important
+
+United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.31) | actual -2841000M | previous -3797000M
+
+---
+
+### 2026-08-05 22:30:05  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Refinery Utilization Rates (Jul.31) | actual 96.5% | consensus 96.9% | previous 97.2%
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Imports Change (Jul.31) | actual 297000M | previous -237000M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar
+
+United States | EIA Weekly Petroleum Products Imports Change (Jul.31) | actual -317000M | previous 186000M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Stocks Change (Jul.31) | actual -3473000M | consensus 206000M | previous 1062000M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar
+
+United States | EIA Weekly Heating Oil Stocks Change (Jul.31) | actual -144000M | previous 308000M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar
+
+United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Jul.31) | actual 0M | previous 0M
+
+---
+
+### 2026-08-05 22:30:02  #MKT News #Economic Calendar
+
+United States | EIA Weekly Distillate Production Change (Jul.31) | actual -134000M | previous 15000M
 
 ---
 
@@ -20029,329 +20269,5 @@ Philadelphia Semiconductor Index rose more than 5% intraday; Arm (ARM.O) jumped 
 ### 2026-08-04 21:42:40  #公司 #市場
 
 【費城半導體指數漲幅擴大至5%】費城半導體指數漲幅擴大至5%，報12006點。英偉達股價上漲2.17%，臺積電股價上漲2.08%，博通股價上漲4.69%，SK海力士股價上漲6.2%，美光科技股價上漲6.01%，超威半導體股價上漲6.18%，阿斯麥股價上漲3.8%，英特爾股價上漲7.59%，泛林集團股價上漲5.6%，ARM股價上漲11.67%。
-
----
-
-### 2026-08-04 21:42:16  #市場
-
-美股光學和光子學元件股票走強，Applied Optoelectronics漲16%，Lumentum漲7%，Coherent漲11%。
-
----
-
-### 2026-08-04 21:42:16  #MKT News #AAOI.O #Impact bullish #LITE.O #COHR.O
-
-U.S. optics and photonics components stocks advanced: Applied Optoelectronics rose 16%, Lumentum gained 7% and Coherent climbed 11%.
-
----
-
-### 2026-08-04 21:42:09  #國際
-
-市場訊息：俄羅斯聯邦獸醫和植物檢疫監督局將對來自歐盟的肉類及禽肉副產品經由俄羅斯過境實施臨時限制。
-
----
-
-### 2026-08-04 21:41:29  #公司
-
-【包鋼股份成功獲得嘉興市域鐵路萬噸鋼軌訂單】據包鋼集團，日前，包鋼股份成功中標嘉興市域鐵路專案，成功獲得約1萬噸鋼軌供貨訂單，將為這條跨省通勤通道提供高品質軌道用材。
-
----
-
-### 2026-08-04 21:41:17  #公司
-
-【亞馬遜跌超2%】亞馬遜跌超2%，公司創始人傑夫·貝索斯出售價值40.7億美元的股票。
-
----
-
-### 2026-08-04 21:40:33  #市場 #焦點
-
-現貨黃金突破4090美元/盎司，日內漲0.86%。
-
----
-
-### 2026-08-04 21:40:32  #市場
-
-馬拉松石油股價在公佈第二季度業績後下跌1.1%。
-
----
-
-### 2026-08-04 21:40:03  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 1.29% Higher — The Dow Jones Index is picking up 684 points or 1.29 percent on Tuesday. Gains are led by Caterpillar (11.03%), Cisco Systems (3.89%) and Goldman Sachs (2.97%).
-
----
-
-### 2026-08-04 21:39:33  #市場 #焦點
-
-WTI原油失守76美元/桶，日內跌5.42%。
-
----
-
-### 2026-08-04 21:39:26  #公司 #國際
-
-【敘利亞過渡政府宣佈將恢復與俄羅斯的直飛航班】敘利亞過渡政府民航與航運總局4日宣佈，本月16日起敘利亞航空公司將恢復首都大馬士革與俄羅斯首都莫斯科之間的定期直飛航班。 敘利亞航空公司當天表示，乘客現在可透過該公司官網或應用程式預訂該航線機票。 敘過渡政府民航與航運總局局長奧馬爾·胡薩里說，該航線的恢復是敘利亞進一步“向世界開放”的新舉措，也是發展敘航空運輸業的持續努力的一部分。 據報道，敘利亞近期已開通或恢復了與荷蘭、沙特等國的多條直飛航線。 俄羅斯塔斯社報道說，2024年12月敘政局劇變後，大馬士革與莫斯科之間的直飛客運航班暫停。(新華社)
-
----
-
-### 2026-08-04 21:39:01  #市場
-
-【中國期貨監控：期貨市場境外交易者權益規模創歷史新高】8月4日，中國期貨市場監控中心釋出資料，截至目前，境外交易者權益規模顯著增長，市場參與度持續提升，資金權益在原超千億元基礎上大幅提升，創歷史新高，較2025年末增長約六成。
-
----
-
-### 2026-08-04 21:38:26  #MKT News #Nasdaq100 #Impact bullish #S&P500
-
-S&P 500 information technology sector hit a two-week high, up 2.2%.
-
----
-
-### 2026-08-04 21:38:18  #市場
-
-標普 500 資訊科技板塊創兩週新高，最新上漲 2.2%。
-
----
-
-### 2026-08-04 21:38:13  #市場 #國際
-
-銅相關股票歐洲午盤走強，Boliden、Antofagasta、英美資源和KGHM上漲5%-7.5%不等。
-
----
-
-### 2026-08-04 21:38:01  #公司
-
-ADM 執行長：公司或將在今年評估股票回購計劃。
-
----
-
-### 2026-08-04 21:37:56  #市場
-
-北美科技軟體股指數ETF漲2.7%，重新整理6月4日以來盤中高位至100.16美元，7月24日以來持續反彈。
-
----
-
-### 2026-08-04 21:37:28  #市場 #焦點
-
-甲醇連續主力合約日內跌2%，現報2554.00元。
-
----
-
-### 2026-08-04 21:37:20  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-Chinese crude-related futures most-active contracts fell sharply. Shanghai crude (SC) down 4.04% at 515.3 yuan/bbl. Low-sulfur fuel oil (LU) down 3.26% at 4,488 yuan/ton. Fuel oil down 3.10% at 3,350 yuan/ton. Asphalt down 1.71% at 4,074 yuan/ton.
-
----
-
-### 2026-08-04 21:37:03  #其他
-
-市場訊息：全球最大託管銀行紐約梅隆銀行（BNY MELLON）將推出加密貨幣質押業務。
-
----
-
-### 2026-08-04 21:36:51  #Trading Economics #Markets #United States #Stock Market #Importance 3
-
-US Stocks Rise to Records — US stocks rose sharply on Tuesday amid an improving macroeconomic backdrop as key earnings will offer updates on the AI trade. The S&P 500 rose 0.5% and the Dow gained 650 points to new records, while the Nasdaq 100 added 1.4%. Fuel and natural gas prices fell after Qatar signaled progress toward a short-term deal between the US and Iran, limiting inflationary risks and driving benchmark yields to hold their pullback. Palantir soared over 15% after raising its forecasts on the back of strong commercial sales. Meanwhile, industrial bellwether Caterpillar gained nearly 10% after beating its earnings estimates. AI hypersaclers were mixed following their surge yesterday, which stretched the ongoing period of outperformance to AI infrastructure companies, reversing the trend from late in June. AMD and SpaceX were higher ahead of their earnings after the bell. The former will offer more updates on compute capacity demand by AI companies, and the latter trades 40% down from its record.
-
----
-
-### 2026-08-04 21:36:41  #市場
-
-墨西哥主要股指開盤後上漲超1%。
-
----
-
-### 2026-08-04 21:36:18  #市場
-
-現貨白銀日內漲3%，現報59.91美元/盎司。
-
----
-
-### 2026-08-04 21:36:11  #Trading Economics #Markets #Netherlands #stocks #Importance 0
-
-ING Stock Price Hits 25-year High — ING shares increased to 30.70 EUR, the highest since July 2001. Over the past 4 weeks, ING Group gained 6.77%, and in the last 12 months, it increased 56.18%.
-
----
-
-### 2026-08-04 21:36:08  #其他
-
-Snap漲10%，第二季度營收超出預期。
-
----
-
-### 2026-08-04 21:35:59  #其他
-
-【江西省發展和改革委員會原黨組成員路文革嚴重違紀違法被開除黨籍和公職】江西省紀委監委8月4日通報，經江西省委批准，江西省紀委監委對省發展和改革委員會原黨組成員，省糧食和物資儲備局原黨組書記、局長路文革嚴重違紀違法問題進行了立案審查調查。（新華社）
-
----
-
-### 2026-08-04 21:35:57  #MKT News #SNAP.N #Impact bullish
-
-Snap (SNAP.N) shares rose 10% after second-quarter revenue beat expectations.
-
----
-
-### 2026-08-04 21:35:25  #MKT News #DD.N #Impact bearish
-
-DuPont (DD.N) fell 4.2% after cutting its full-year sales forecast.
-
----
-
-### 2026-08-04 21:35:10  #公司 #市場
-
-杜邦股價下跌4.2%，此前該公司下調了年度銷售預期。
-
----
-
-### 2026-08-04 21:34:57  #市場
-
-【分析師：油價表現或側面證實霍爾木茲海峽重開訊息】Investinglive的分析師Adam Button表示，他傾向於相信此前媒體報道的關於霍爾木茲海峽全面重新開放的安排，將在數小時內或明天宣佈的訊息，哪怕這僅僅是因為過去兩天油價下跌的幅度之大。油價走勢確實像是“有人提前知道了某些訊息”，因為這次跌幅已經超過了通常所謂的“TACO”行情。但他關注的問題在於，鑑於迄今為止各方表現，任何可能的“協議”都難以被視為持久的。
-
----
-
-### 2026-08-04 21:34:28  #市場
-
-土耳其主要股指伊斯坦布林100指數上漲1.6%，主要銀行股指數上漲2%。
-
----
-
-### 2026-08-04 21:34:00  #市場
-
-納斯達克100指數開盤上漲1.5%。
-
----
-
-### 2026-08-04 21:33:54  #公司
-
-【馬斯克將迎SpaceX上市首個財報拷問 火箭、星鏈、太空資料中心前景成焦點】埃隆・馬斯克旗下太空企業SpaceX登陸資本市場後首度釋出季報，投資者將於週二獲得向馬斯克提問的機會。 SpaceX股價較6月高點已經腰斬。投資者擔憂，馬斯克此前向市場描繪的未來前景或許過於樂觀。本週晚些時候，部分內部人士股票限售期（鎖定期）即將到期、獲得拋售股票資格，市場正為此做好股價劇烈波動的心理準備。 馬斯克兼具遠見工程師與股票推介者的雙重身份，投資者大機率會向他追問一系列問題：NASA計劃藉助巨型星艦火箭實現載人重返月球，該火箭測試何時收官；星鏈衛星網路後續規劃；以及將足球場大小的資料中心送入軌道專案的前景。 市場一直流傳SpaceX或將與馬斯克旗下車企特斯拉合併的傳聞，馬斯克可能被問及相關整合事宜，但預計很難披露實質資訊。兩家公司均未證實合併計劃，馬斯克此前也曾迴避相關提問，表示證券法限制他對此展開討論。
-
----
-
-### 2026-08-04 21:33:39  #MKT News #Important #Market Themes #Chip Wars #Nasdaq100 #Impact bullish #S&P500
-
-PHLX semiconductor index (SOX) opened 4.4% higher.
-
----
-
-### 2026-08-04 21:33:31  #公司 #市場
-
-安森美半導體股價上漲3%，此前該公司公佈第三季度營收預期高於市場預估。
-
----
-
-### 2026-08-04 21:33:20  #市場
-
-麥當勞二季度利潤超預期，股價上漲2%。
-
----
-
-### 2026-08-04 21:33:15  #公司 #市場 #觀點
-
-摩根大通將耐克評級下調至“減持”後，耐克股價下跌3%。
-
----
-
-### 2026-08-04 21:33:06  #市場 #焦點
-
-PTA連續主力合約日內跌2%，現報5786.00元。
-
----
-
-### 2026-08-04 21:32:32  #公司
-
-【FF計劃用三到四個季度將總負債降至1億美元以下】8月4日，法拉第未來（NASDAQ: FFAI） 宣佈，在供應商、債權人及其他產業合作伙伴的支援下，公司歷史遺留債務化解取得實質進展。根據已披露資料，總負債由2025年的約3.5億美元降至2026年的約2.3億美元，化債工作仍在推進。公司計劃用三到四個季度將總負債降至1億美元以下。
-
----
-
-### 2026-08-04 21:32:27  #MKT News #SPOT.N #Impact bearish
-
-Spotify (SPOT.N) fell 4.3% after the company said it expects Q3 profit and monthly active users to be below expectations.
-
----
-
-### 2026-08-04 21:32:26  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-U.S. equities opened higher on Aug 4 (Tue): Dow Jones up 804.75 pts (+1.51%) at 53,983.16; S&P 500 up 37.92 pts (+0.50%) at 7,638.41; Nasdaq Composite up 229.10 pts (+0.88%) at 26,143.00.
-
----
-
-### 2026-08-04 21:32:24  #市場
-
-標普 500 指數上漲 0.5%，有望創下 6 月以來首個歷史新高。
-
----
-
-### 2026-08-04 21:32:04  #市場 #焦點
-
-納指漲1.00%，現報26173.336點；道指漲1.43%，現報53940.180點；標普500指數漲0.54%，現報7641.400點。
-
----
-
-### 2026-08-04 21:32:03  #市場 #焦點
-
-布倫特原油價格自7月中旬以來首次跌破80美元。
-
----
-
-### 2026-08-04 21:31:48  #市場
-
-道指、標普500指數開盤重新整理歷史新高 AI硬體個股集體走強。
-
----
-
-### 2026-08-04 21:31:32  #公司 #市場
-
-Spotify 股價下跌 4.3%，公司給出的第三季度利潤、月活躍使用者均低於市場預期。
-
----
-
-### 2026-08-04 21:31:25  #市場
-
-PALANTIR股價開盤飆升19%，創下2025年4月以來最大單日漲幅。
-
----
-
-### 2026-08-04 21:31:25  #市場 #焦點
-
-納斯達克中國金龍指數跌超1%，新東方跌4.57%，小鵬汽車跌3.56%，名創優品跌3.77%，理想汽車跌3.05%，大全新能源跌2.47%。
-
----
-
-### 2026-08-04 21:31:16  #市場
-
-【費城半導體指數開盤上漲4%】費城半導體指數開盤上漲4%。成分股方面，英偉達股價上漲1.9%，臺積電股價上漲2.24%，博通股價上漲2.97%，美光科技股價上漲4.8%，超威半導體股價上漲4.91%，阿斯麥股價上漲3.62%。
-
----
-
-### 2026-08-04 21:31:08  #市場 #焦點
-
-乙二醇連續主力合約日內跌5%，現報4680.00元。
-
----
-
-### 2026-08-04 21:31:07  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Amazon (AMZN.O) shares fell 2.2% after founder Jeff Bezos said he plans to sell about $4 billion of stock.
-
----
-
-### 2026-08-04 21:31:06  #市場 #國際
-
-【大商所乙二醇主力合約大跌5%】大商所乙二醇主力合約大跌5%，報4680元/噸。
-
----
-
-### 2026-08-04 21:31:01  #市場
-
-卡特彼勒股價上漲 12%。
-
----
-
-### 2026-08-04 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲1.43%，標普500指數漲0.47%，納指漲0.83%。Palantir Technologies漲17.90%，斑馬技術漲17.52%，卡特彼勒漲11.72%，Coherent Corp漲11.26%，邁威爾科技漲9.54%。“七姐妹”方面：英偉達漲1.89%，特斯拉漲0.95%，蘋果漲0.02%，微軟跌0.62%，谷歌跌0.98%，Meta Platforms跌1.48%，亞馬遜跌2.24%。
-
----
-
-### 2026-08-04 21:30:44  #MKT News #Important #Star Stocks #Palantir #PLTR.N #Impact bullish #AMD.O #MU.O
-
-US stocks opened higher: Dow +1.17%, S&P 500 +0.4%, Nasdaq +0.78%. Palantir (PLTR.N) surged 14.7% after sharply raising full-year revenue guidance. SpaceX (SPCX.O) and AMD (AMD.O) are due to report after the close; both gained 2.8% and 3.7% respectively. Micron (MU.O) rose 4% and Corning (GLW.N) rose 5.6%.
 
 ---
