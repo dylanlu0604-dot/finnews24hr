@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 01:01:09",
-  "count": 15853,
+  "updated": "2026-08-09 01:05:00",
+  "count": 15851,
   "items": [
+    {
+      "id": "5032074",
+      "time": "2026-08-09 01:01:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：法律人工智慧初創企業哈維（Harvey）正洽談融資，計劃至少募資5億美元，融資後估值達155億美元，較五個月前的上一輪估值溢價40%。"
+    },
     {
       "id": "mkt:019fe250-a18d-7aab-8fc5-57a2425e0b61",
       "time": "2026-08-09 00:59:22",
@@ -144442,38 +144450,6 @@
         "MKT News"
       ],
       "text": "Pulte said that after discussions with President Trump and Jay Clayton, the handover of the Director of National Intelligence (DNI) is scheduled for Monday."
-    },
-    {
-      "id": "5020534",
-      "time": "2026-08-02 01:04:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國代理國家情報總監普爾特：與特朗普、克萊頓磋商後，國家情報總監交接定於下週一開展。"
-    },
-    {
-      "id": "mkt:019fbe48-15b5-7aab-8f43-0111cf0bc0fb",
-      "time": "2026-08-02 01:03:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel's Channel 13 reported senior Israeli officials say they expect Trump to soon order a resumption of fighting. Israel has moved to highest alert."
-    },
-    {
-      "id": "mkt:019fbe45-cdcb-7aab-8f42-fb477db6075c",
-      "time": "2026-08-02 01:01:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A Jordanian official said Iraq has informed Jordan it would strike pro-Iran militias if they attack Jordan, and Jordan expects Iraq to take measures to rein in those militias."
     }
   ]
 }
