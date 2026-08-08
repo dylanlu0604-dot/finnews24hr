@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-08 18:44:42",
-  "count": 15822,
+  "updated": "2026-08-08 18:48:42",
+  "count": 15824,
   "items": [
+    {
+      "id": "5031920",
+      "time": "2026-08-08 18:47:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度總票房破240億】據燈塔專業版資料，截至8月8日，2026年度大盤票房（含預售）突破240億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《鏢人：風起大漠》《八仙！》暫列年度票房前五名。"
+    },
+    {
+      "id": "5031919",
+      "time": "2026-08-08 18:47:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理表示，新加坡經濟始終具備韌性。"
+    },
+    {
+      "id": "mkt:019fe0fb-2fbe-7aab-8fc3-c53f75f608bf",
+      "time": "2026-08-08 18:46:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE foreign ministry said using the Strait of Hormuz as a tool for coercion or extortion constitutes piracy by the Islamic Revolutionary Guard Corps."
+    },
+    {
+      "id": "mkt:019fe0fb-07e0-7aab-8fc3-baf33c1473f8",
+      "time": "2026-08-08 18:46:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "UAE Foreign Ministry said it strongly condemned Iran's attack on an Abu Dhabi National Oil Company (ADNOC) tanker."
+    },
+    {
+      "id": "5031918",
+      "time": "2026-08-08 18:44:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿聯酋譴責伊朗襲擊阿布扎比國家石油公司油輪。"
+    },
     {
       "id": "mkt:019fe0f6-0dec-7aab-8fc3-b456aea7a60b",
       "time": "2026-08-08 18:40:49",
@@ -144163,30 +144215,6 @@
         "國際"
       ],
       "text": "【一艘LNG運輸船透過霍爾木茲海峽時遭投射物擊中】根據安全情報公司和船舶追蹤資料顯示，一艘載有卡達貨物的液化天然氣運輸船在透過霍爾木茲海峽時遭到投射物擊中。安全顧問公司Vanguard Tech和Marisks證實該船為“Gaslog Shanghai”號液化天然氣運輸船。船舶追蹤資料顯示，該運輸船於7月27日左右在卡達裝載了一批液化天然氣，並於7月31日在霍爾木茲海峽西側入口附近停止傳送訊號。這艘船在霍爾木茲海峽遭到襲擊時，似乎並未傳送訊號。週六，英國海事貿易辦公室（UKMTO）在另一份警告中表示，另一艘油輪報告稱看到附近水域發生爆炸。"
-    },
-    {
-      "id": "mkt:019fbcf0-b9ec-7aab-8f41-dac968e3dcfd",
-      "time": "2026-08-01 18:48:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Tasnim News Agency, citing a provincial governor, said an explosion near Islamabad-e Gharb in western Iran was caused by an old artillery shell."
-    },
-    {
-      "id": "5020391",
-      "time": "2026-08-01 18:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地省長稱，伊朗西部伊斯拉馬巴德-E-加爾卜附近爆炸由老舊炮彈引爆所致。"
-    },
-    {
-      "id": "5020390",
-      "time": "2026-08-01 18:45:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方在聯合國舉行2026世界人工智慧大會暨人工智慧全球治理高階別會議吹風會】中國常駐聯合國代表團7月31日在聯合國總部舉行2026世界人工智慧大會暨人工智慧全球治理高階別會議吹風會。中國常駐聯合國代表傅聰表示，習近平主席在大會開幕式上圍繞全球人工智慧治理體系、以人為本和向上向善理念、幫助全球南方縮小智慧鴻溝、成立世界人工智慧合作組織、支援聯合國全球人工智慧治理程序等，系統全面提出中國方案，為全球人工智慧治理作出重要貢獻。中國將秉持開源開放、合作共贏、共商共建共享理念，在聯合國廣闊平臺上，同各方一道商討謀劃人工智慧未來全球治理重大問題。（新華社）"
     }
   ]
 }

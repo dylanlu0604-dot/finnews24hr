@@ -1,7 +1,59 @@
 {
   "date": "2026-08-08",
-  "count": 705,
+  "count": 710,
   "items": [
+    {
+      "id": "5031920",
+      "time": "2026-08-08 18:47:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度總票房破240億】據燈塔專業版資料，截至8月8日，2026年度大盤票房（含預售）突破240億，《飛馳人生3》《功夫女足》《給阿嬤的情書》《鏢人：風起大漠》《八仙！》暫列年度票房前五名。"
+    },
+    {
+      "id": "5031919",
+      "time": "2026-08-08 18:47:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡總理表示，新加坡經濟始終具備韌性。"
+    },
+    {
+      "id": "mkt:019fe0fb-2fbe-7aab-8fc3-c53f75f608bf",
+      "time": "2026-08-08 18:46:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE foreign ministry said using the Strait of Hormuz as a tool for coercion or extortion constitutes piracy by the Islamic Revolutionary Guard Corps."
+    },
+    {
+      "id": "mkt:019fe0fb-07e0-7aab-8fc3-baf33c1473f8",
+      "time": "2026-08-08 18:46:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "UAE Foreign Ministry said it strongly condemned Iran's attack on an Abu Dhabi National Oil Company (ADNOC) tanker."
+    },
+    {
+      "id": "5031918",
+      "time": "2026-08-08 18:44:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿聯酋譴責伊朗襲擊阿布扎比國家石油公司油輪。"
+    },
     {
       "id": "mkt:019fe0f6-0dec-7aab-8fc3-b456aea7a60b",
       "time": "2026-08-08 18:40:49",
