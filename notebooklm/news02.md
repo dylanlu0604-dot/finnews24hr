@@ -1,7 +1,133 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-08 11:55:14_
-_本檔包含 3315 則快訊，約 600614 字_
+_更新時間：2026-08-08 13:06:12_
+_本檔包含 3301 則快訊，約 599147 字_
+
+---
+
+### 2026-08-07 07:30:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #Nikkei 225 #Impact bearish
+
+Japan June total household spending YoY -3.3% (expected +1.0%, prior -0.4%).
+
+---
+
+### 2026-08-07 07:30:07  #MKT News #Economic Calendar #Important
+
+Japan | Expenditures for Two-or-more-person Households (MoM) (Jun) | actual -6.4% | consensus -3.1% | previous 3.7%
+
+---
+
+### 2026-08-07 07:30:03  #MKT News #Economic Calendar #Important
+
+Japan | Expenditures for Two-or-more-person Households (YoY) (Jun) | actual -3.3% | consensus 1.00% | previous -0.40%
+
+---
+
+### 2026-08-07 07:29:49  #公司
+
+【多家公司更新回購進度，8月份累計成交14.7億元】同花順資料顯示，8月以來，已有62家A股公司實施股份回購，累計成交金額約14.7億元。從上市公司釋出的公告來看，回購的股份後續去向大多包括登出、股權激勵和員工持股計劃。（證券日報）
+
+---
+
+### 2026-08-07 07:29:26  #國際
+
+特朗普在白宮活動上發表講話。
+
+---
+
+### 2026-08-07 07:29:16  #國際
+
+特朗普談霍爾木茲海峽：進展順利。
+
+---
+
+### 2026-08-07 07:28:59  #其他
+
+【私募7月調研“鍾情”科技：國產算力鏈成新共識】科技板塊的階段性調整，並未降低機構的調研熱情。電子、通訊、計算機等科技板塊依舊是私募機構重點關注方向。記者採訪發現，私募對調整後的科技板塊佈局熱情仍在，正在產業鏈內部“摸排”新的投資機會。其中，國產算力鏈憑藉產業趨勢、自主可控及長期成長空間等邏輯，有望成為下一階段私募的重點關注方向。（上海證券報）
+
+---
+
+### 2026-08-07 07:28:54  #其他
+
+新墨西哥州陪審團裁定Meta支付3.75億美元罰金，此前法院已判令Meta支付5.67億美元設立基金。
+
+---
+
+### 2026-08-07 07:28:50  #MKT News #Commodities #Energy #WTI #Impact bullish #DXY #Hang Seng Index #Impact bearish
+
+【Geopolitical risk resurfaces, weighs on Asian shares; oil jump revives inf concerns】Asian shares opened slightly lower Friday as renewed geopolitical tensions pulled U.S. stocks and Treasuries down. A jump in oil ahead of Friday’s U.S. jobs report reignited inf concerns. Markets are focused on the payrolls print for fresh clues on Fed policy; stronger-than-expected employment could reinforce the case for rates remaining higher for longer, while any further Middle East escalation could lift energy prices and amplify volatility. UBS analyst Ulrike Hoffmann said short-term risks persist, particularly if U.S. data stay firm, oil continues to stoke inf worries, or markets keep pricing a more hawkish Fed path. Interactive Brokers senior economist José Torres said Wall Street reversed after the recent rally amid lingering uncertainty over the Strait of Hormuz.
+
+---
+
+### 2026-08-07 07:28:03  #其他
+
+【可轉債一級市場正在升溫 今年以來累計發行51只同比增長104%】可轉債一級市場正在升溫。截至8月6日，今年以來累計發行51只可轉債，規模合計607億元，較上年同期分別增長104%和51%。與發行端回暖同時發生的，是存量可轉債在加速退出。資料顯示，年內已有123只可轉債離場，市場存續規模較年初減少560億元。業內人士認為，再融資政策最佳化開啟了可轉債發行通道，科技企業資本開支增加、機構配置需求旺盛，則為新券供需兩端提供了支撐。可轉債市場由此進入發行提速、結構調整的新階段。（上海證券報）
+
+---
+
+### 2026-08-07 07:26:36  #市場 #央行 #國際
+
+【全球流動性收緊節奏暫緩 券商研判下半年或出現邊際改善】國際油價大漲引發通脹資料走強，使得市場對全球流動性收緊預期不斷升溫，但隨著國際油價回落，美聯儲、日本央行、歐洲央行、英國央行等全球主要經濟體央行7月均宣佈按兵不動，一定程度上使得市場的憂慮有所降溫。下半年全球流動性環境還將出現怎樣的變化？多位業內人士對記者表示，若地緣局勢緩和帶動油價下行、通脹壓力緩解，那麼市場此前過度定價的加息預期可能會有修正，流動性收緊壓力有望得到階段性緩解。對投資者而言，科技與高階製造領域、資源品板塊、低估值高股息紅利資產等方向機遇值得關注。AI產業鏈方興未艾、高景氣度持續。黃金價格也有望回到上行通道。（中國證券報）
+
+---
+
+### 2026-08-07 07:26:06  #國際
+
+【委內瑞拉政府與反對派舉行政治對話】當地時間8月6日，委內瑞拉政府與反對派代表在首都加拉加斯啟動了由美國支援的政治對話。根據雙方釋出的議程，他們將討論委內瑞拉遭遇地震後的應對措施，以及“加強民主和政治權利”的問題。（總檯環球資訊）
+
+---
+
+### 2026-08-07 07:25:03  #公司 #市場
+
+【百餘家上市公司釋出2026年半年報 生物醫藥等行業現亮點】Wind資料顯示，截至8月6日收盤，A股共有115家上市公司對外披露2026年半年報，93家上市公司實現營業收入同比增長，86家上市公司實現淨利潤同比增長。從淨利潤增速角度看，生物醫藥、有色金屬、化工、半導體等行業上市公司業績表現相對亮眼。（中國證券報）
+
+---
+
+### 2026-08-07 07:24:44  #其他
+
+【中國駐沙特大使：目前已有約750家中企在沙運營，涉足領域廣泛】8月6日，沙特主流媒體《經濟報》發表對駐沙特大使常華的書面採訪。中國駐沙特大使常華：目前已有約750家中企在沙運營，40多家中國企業在沙特設立了區域總部。中國企業在沙涉足領域廣泛，包括工程承包、貿易物流、電子商務、電信服務、生物醫藥產業、工業投資和園區開發等。
+
+---
+
+### 2026-08-07 07:24:13  #公司
+
+【地方中小銀行紛紛推出大額存單，主打中短期產品】近期，國有大行及多家股份制銀行重啟5年期大額存單，地方中小銀行也同步密集上新大額存單。對比來看，中小銀行的大額存單利率具備明顯優勢，但產品最長僅設定3年期，整體仍以中短期產品為主。梳理中國貨幣網資料發現，7月份以來，新疆銀行、保定銀行、金臺農商銀行、嘉祥農商銀行、徐州農商銀行、玉樹農商銀行、泰順溫銀村鎮銀行等超十家地方銀行陸續釋出大額存單發行公告，部分銀行更是年內首次發行該類產品。7月份新公告發行大額存單的銀行數量、產品數量，均顯著高於6月份。（證券日報）
+
+---
+
+### 2026-08-07 07:23:47  #公司 #市場 #國際
+
+【SpaceX力抗首波股份解禁潮壓力 股價反彈成交爆量】SpaceX週四迎來第一波股份解禁潮，可供交易股份數量增加一倍以上，但股價最終收漲6.1%，成交量激增，表現超出市場預期。SpaceX的首次公開發行(IPO)創美國歷史上規模最大紀錄，但其用於公開交易的股份比例不足5%。不過，內部人士、員工及早期投資者追加售股的禁售限制，預計未來數月陸續到期。週四是首波解禁，涉及9.115億股，在IPO售出的約6.39億股以外，讓更多股份進入市場。到12月8日整體鎖定期屆滿時，SpaceX潛在可交易股份的流通比例增至總股本的40%。剩餘的60%股份（包括馬斯克持有的股份）將一直被鎖定至2027年年中。自SpaceX上市以來，其股價持續下跌。由於財報加劇市場對運營虧損及AI支出計劃的擔憂，週三暴跌約14%。
+
+---
+
+### 2026-08-07 07:22:47  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Extends Gains as Hormuz Tensions Resurface — Brent rose above $83 per barrel on Friday, building on the previous session’s gains as renewed tensions in the Strait of Hormuz unsettled markets and cast fresh doubt over efforts to fully reopen the vital shipping route. Reports indicated that Iran struck what it described as “hostile targets” in the strait after explosions were reported near Qeshm Island. Under the proposed Iran-Oman agreement governing the waterway, Tehran seeks to prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Iran has also proposed penalties equal to 20% of a vessel’s cargo value for violations and said the strait would only be fully reopened once the US maritime blockade is lifted. The Iranian parliament is currently reviewing the draft proposal, which outlines stricter conditions for commercial shipping through the Strait of Hormuz than markets anticipated.
+
+---
+
+### 2026-08-07 07:22:08  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Extends Gains as Hormuz Tensions Resurface — Crude oil rose above $78 per barrel on Friday, building on the previous session’s gains as renewed tensions in the Strait of Hormuz unsettled markets and cast fresh doubt over efforts to fully reopen the vital shipping route. Reports indicated that Iran struck what it described as “hostile targets” in the strait after explosions were reported near Qeshm Island. Under the proposed Iran-Oman agreement governing the waterway, Tehran seeks to prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Iran has also proposed penalties equal to 20% of a vessel’s cargo value for violations and said the strait would only be fully reopened once the US maritime blockade is lifted. The Iranian parliament is currently reviewing the draft proposal, which outlines stricter conditions for commercial shipping through the Strait of Hormuz than markets anticipated.
+
+---
+
+### 2026-08-07 07:22:04  #市場
+
+【搶銅潮擾動全球供應鏈 AI基建擴張之下算力金屬供應承壓】AI算力基建的“狂飆”，讓算力金屬供給側緊張程度攀升。涵蓋銅、鎢、錫、鉭等相關的有色金屬品種被市場稱為“算力金屬”。8月6日，受剛果（金）禁止銅精礦出口影響，全球銅價再次重新整理歷史高點。與此同時，國內外AI企業繼續加碼資本開支，加大AI基礎設施投入。中輝期貨研究員肖豔麗認為，市場存在AI銅需求的時間錯配風險。從礦山勘探到投產平均需要15~18年，而AI資料中心的建設週期僅為2~3年。供給側15年以上的長週期與需求側2~3年的短週期之間形成了巨大的時間差，供需剪刀差在2028年前後可能達到極致，屆時銅價面臨結構性上行壓力。（證券時報）
+
+---
+
+### 2026-08-07 07:21:12  #市場
+
+【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加42.17噸】截至2026年08月06日，全球最大的白銀ETF iShares Silver Trust持倉量為15172.99噸，較前一個交易日增加42.17噸。
+
+---
+
+### 2026-08-07 07:20:50  #Trading Economics #Economy #United States #News #Importance 1
+
+Trump to Impose 15% Tariffs on Polysilicon — The Trump administration on Thursday imposed a series of price floors and a 15% tariff on products made from polysilicon, the raw material used in semiconductors and solar panels. The proclamation, issued by U.S. President Donald Trump under Section 232 of the Trade Expansion Act of 1962, aims to protect U.S. polysilicon factories from growing Chinese ambitions in the chip supply chain. According to a White House document, the president set minimum import prices of $21 per kilogram for polysilicon, $100 per kilogram for polysilicon ingots and wafers, $0.22 per watt for solar cells, and $0.38 per watt for solar modules, or panels, as Reuters reported. The proclamation also authorizes the Commerce Department to create an incentive program for companies that invest in factories to produce polysilicon or derivative products.
 
 ---
 
@@ -19799,215 +19925,5 @@ Shopify股價在第三季度營收前景樂觀、第二季度業績公佈後大�
 ### 2026-08-05 21:31:55  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
 
 At the open on Wednesday Aug 5, the Dow Jones Industrial Average rose 381.35 points (+0.71%) to 54,467.23, the S&P 500 gained 50.32 points (+0.65%) to 7,786.81 and the Nasdaq Composite added 112.83 points (+0.42%) to 26,697.82.
-
----
-
-### 2026-08-05 21:31:47  #其他
-
-SpaceX股價暴跌12%，市值蒸發2050億美元。
-
----
-
-### 2026-08-05 21:31:37  #公司 #市場
-
-SHOPIFY股價開盤上漲25%，此前該公司公佈第二季度營收超出預期。
-
----
-
-### 2026-08-05 21:31:31  #其他
-
-MEDLINE股價暴跌13%，創下去年12月IPO以來最大跌幅。
-
----
-
-### 2026-08-05 21:31:22  #市場
-
-AMD股價在釋出第二季度業績及展望後下跌6.6%。
-
----
-
-### 2026-08-05 21:30:59  #市場
-
-禮來第二季度業績超出預期，股價上漲5.7%。
-
----
-
-### 2026-08-05 21:30:54  #市場
-
-CVS HEALTH股價下跌10%，創1月27日以來最大單日跌幅。
-
----
-
-### 2026-08-05 21:30:49  #Trading Economics #Markets #United States #stocks #Importance 1
-
-CVS Health Stock Price Hits 8-week Low — CVS Health shares decreased to 93.97 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 7.92%, and in the last 12 months, it increased 48.22%.
-
----
-
-### 2026-08-05 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指齊漲】道指漲0.70%，標普500指數漲0.65%，納指漲0.41%。Shopify漲22.77%，Arista Networks漲11.29%，國際香料香精漲9.67%，繽客漲7.32%，永利漲7.05%，紐曼礦業漲6.70%。“七姐妹”方面：英偉達漲3.18%，亞馬遜漲1.70%，Meta Platforms漲1.29%，谷歌漲0.88%，微軟漲0.85%，蘋果跌0.43%，特斯拉跌1.36%。
-
----
-
-### 2026-08-05 21:30:45  #其他
-
-INSULET股價暴跌24%，創2015年以來最大單日跌幅。
-
----
-
-### 2026-08-05 21:30:45  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #AI Revolution #AMD.O #Impact bearish #SHOP.N #Impact bullish #XAUUSD
-
-US equities opened higher: Dow +0.33%, S&P 500 +0.56%, Nasdaq +0.39%. SpaceX (SPCX.O) fell 10.5% on concerns over a surge in AI-related spending. AMD (AMD.O) dropped about 7% after weak Q2 results and a muted outlook. Shopify (SHOP.N) jumped about 20%. Gold briefly topped $4,200 intraday; miners Harmony Gold (HMY.N) rose 7.5% and Gold Fields (GFI.N) climbed 8.3%. Storage-related stocks were slightly lower.
-
----
-
-### 2026-08-05 21:30:36  #其他
-
-FISERV與STUUT達成合作，將智慧體AI應用於企業應收賬款業務。
-
----
-
-### 2026-08-05 21:30:27  #市場
-
-多倫多S&P/TSX綜合指數<.GSPTSE>開盤上漲425.00點，漲幅1.19%，報36226.59點。
-
----
-
-### 2026-08-05 21:30:21  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Walt Disney Stock Price Hits 6-week High — Walt Disney shares increased to 103.08 USD, the highest since June 2026. Over the past 4 weeks, Walt Disney gained 0.79%, and in the last 12 months, it decreased 17.02%.
-
----
-
-### 2026-08-05 21:30:08  #其他
-
-據傳 Vusion 正在評估各類方案，包括潛在出售。
-
----
-
-### 2026-08-05 21:29:23  #公司
-
-【費大廚全國小炒肉大王僅憑影片評出？中烹協回應】近日，中國烹飪協會連發公告，全面清理並撤銷此前頒發的“大師”“名師”及“美食地標城市”等各類稱號，以響應8月1日正式施行的《社會組織評比表彰活動管理辦法》。有網友發現，費大廚的“全國小炒肉大王”稱號，是在中國烹飪協會舉辦的一場線上網路投票比賽中，靠參賽照片和影片贏得的。8月5日，中國烹飪協會該賽事相關負責人表示此事時間久遠，“待檢視資料後再溝通”。對於“全國小炒肉大王”這一稱號，是否在上述清理名單中，截至發稿，未獲回應。費大廚方面對此回應稱，已關注到此事，將去核實瞭解。（中國新聞週刊）
-
----
-
-### 2026-08-05 21:28:55  #其他
-
-市場訊息：英國警方逮捕了一名女子，此前她在科文特花園刺傷三人。
-
----
-
-### 2026-08-05 21:28:28  #國際
-
-VIRTUIX：訓練系統將於第四季度交付給駐匡提科的美國海軍陸戰隊。
-
----
-
-### 2026-08-05 21:28:05  #國際
-
-VIRTUIX 選用AVRT用於美國海軍陸戰隊步兵訓練器的武器追蹤與內容方案。
-
----
-
-### 2026-08-05 21:27:57  #公司
-
-【包鋼股份耐候鋼產品成功拓展鐵路裝備用鋼新賽道】據包鋼集團，日前，包鋼股份市場開發取得新突破，成功中標鐵路車廂耐候鋼訂單，標誌著包鋼股份高階耐候鋼產品正式進入國內軌道交通主機廠供應體系。據瞭解，該訂單需求來自國內大型軌道交通裝備製造國企，業務覆蓋傳統軌道裝備、化工運儲裝備等多個領域。
-
----
-
-### 2026-08-05 21:27:51  #其他
-
-【布魯克菲爾德第二季度籌集創紀錄的770億美元資金】布魯克菲爾德公佈了截至2026年6月30日季度的財務業績。第二季度創紀錄地募集了770億美元，主要依靠私募股權、基礎設施和信貸。本季度淨收入為12億美元，過去12個月為31億美元。可分配收益（“DE”）為7.07億美元，每股0.44美元，過去十二個月為28億美元，每股1.75美元，分別增長15%和12%。
-
----
-
-### 2026-08-05 21:27:12  #其他
-
-【廣東佛山通報“廢品場有殘障務工人員”】8月5日，廣東佛山市三水區雲東海街道辦事處釋出情況通報：2026年8月4日，網路上有群眾反映雲東海街道遠坑村一廢品場涉嫌侵害殘障務工人員權益。接到線索後，街道第一時間聯合相關部門趕赴現場開展核查。經初步摸排，涉事場所現有務工人員5名，詳細情況正在深入調查取證。我們堅決維護勞動者尤其是特殊群體合法權益，對各類違法用工行為保持零容忍，如查實將依法從嚴處置。
-
----
-
-### 2026-08-05 21:26:56  #MKT News #WTI #Impact bearish #Brent #XAUUSD #Impact mixed
-
-【Expectations for Strait of Hormuz reopening rise, but Middle East conflict far from over】Austrian former defence attaché and security analyst Wolfgang Pustai said an agreement on the Strait of Hormuz could be reached today or Thursday but it is too early to conclude. He said mediators are still clarifying key terms in a weak memorandum of understanding that helped trigger renewed violence. Pustai said the US would likely accept an Iran–Oman deal that confirms no transit fees and only charges for maritime services, but would reject any Iranian attempt to levy large transit fees that would violate the UN Convention on the Law of the Sea (UNCLOS) because of the precedent it would set for other strategic chokepoints. He described Trump’s inconsistent statements as an information‑war strategy targeted at three audiences — Republican voters, Iranians and international observers — and warned that reopening the Strait would be an important step but would not resolve the wider regional conflict.
-
----
-
-### 2026-08-05 21:25:31  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact mixed #Hang Seng Index #CNH
-
-【China to issue '15th Five-Year' plan to promote SME development】China's Ministry of Industry and Information Technology, together with multiple departments, will soon publish the '15th Five-Year Plan to Promote Small and Medium-Sized Enterprise Development.' MIIT said at a January state press briefing it will continue to optimize the business environment, accelerate mechanisms to scale specialized, refined, distinctive and innovative SMEs, and improve a tiered cultivation system for SME industry clusters. Experts told China Securities Journal SMEs are a key source of economic dynamism, underpin employment, stabilize industrial chains and support new productive forces. The forthcoming plan is expected to focus on promoting specialized, refined, distinctive and innovative SMEs, optimizing the SME operating environment, establishing a tiered system to cultivate high-quality SMEs, and introducing policies to help such firms grow and achieve higher-quality development.
-
----
-
-### 2026-08-05 21:25:29  #其他
-
-【《“十五五”促進中小企業發展規劃》即將釋出】記者近日獲悉，工信部會同多個部門聯合制定的《“十五五”促進中小企業發展規劃》即將釋出。在今年1月國新辦舉行的新聞釋出會上，工信部表示，將持續最佳化企業發展環境，制定“十五五”促進中小企業發展規劃；加快構建促進專精特新中小企業發展壯大機制，健全中小企業特色產業叢集梯度培育體系。接受採訪的專家認為，中小企業是經濟活力的重要源泉，是保就業、穩產業鏈、發展新質生產力的微觀基礎。預計即將釋出的《“十五五”促進中小企業發展規劃》將以促進中小企業專精特新發展為主線，最佳化中小企業發展環境，完善優質中小企業梯度培育體系，構建促進專精特新中小企業發展壯大機制政策，推動中小企業健康發展、高質量發展。(中國證券報)
-
----
-
-### 2026-08-05 21:25:23  #其他
-
-【中國聯通標準機架規模超過110萬架 智算規模達到45EFLOPS】中國聯通表示，截至目前，中國聯通標準機架規模超過110萬架，建成7個百兆瓦級AIDC園區，智算規模達到45EFLOPS。
-
----
-
-### 2026-08-05 21:24:32  #其他
-
-CENCORA高管：我們的重點是在視網膜和腫瘤領域進行增值性補強收購。
-
----
-
-### 2026-08-05 21:24:26  #MKT News #Market Themes #AI Revolution
-
-According to The Information, ByteDance founder Zhang Yiming told employees last month the company will not use knowledge-distillation techniques to advance its AI models, even if that means temporarily falling behind domestic rivals.
-
----
-
-### 2026-08-05 21:22:51  #公司
-
-【Netlist與三星達成五年期記憶體協議】8月5日，計算機記憶體公司Netlist表示，已與三星電子達成一項為期五年的協議。根據協議條款，三星將獲得Netlist全部專利組合的使用權，包括其伺服器DIMM和高頻寬記憶體技術。三星將向Netlist供應DRAM和NAND產品。此外，雙方同意和解並相互撤銷所有未決的法律訴訟。
-
----
-
-### 2026-08-05 21:22:41  #公司 #國際
-
-【爆料：特朗普“親密盟友”，拖了“一箱證據”前往白宮】美國首都華盛頓地標建築林肯紀念堂倒影池改造引發的風波持續發酵。據《紐約時報》、美國哥倫比亞廣播公司（CBS）等美媒4日援引訊息人士的話稱，哥倫比亞特區聯邦檢察官珍尼娜·皮羅3日拖著“滿滿一箱證據”前往白宮，試圖向美國總統特朗普證明——美國林肯紀念堂倒影池底部塗層損毀部分並非人為蓄意破壞，而是由施工質量低劣造成的。美媒形容說，橢圓形辦公室當天展開了一場“激烈交鋒”。（環球網）
-
----
-
-### 2026-08-05 21:21:54  #Trading Economics #Economy #Brazil #Composite PMI #Importance 1
-
-Brazil Private Sector Contracts in July — The S&P Global Composite PMI for Brazil fell to 48.8 in July 2026 from 50.7 in June, signaling a renewed contraction in private sector activity. Although modest, the pace of reduction was the fastest since October 2025, reflecting a sharper decline in new orders and weaker output, particularly in manufacturing. Firms continued to trim workforce in response to weak demand, marking a second consecutive monthly decrease in employment. Input cost and output price inflation both eased to their lowest levels in four months but stayed high by historical standards. Cost pressures were stronger in services, while manufacturers raised selling prices more aggressively.
-
----
-
-### 2026-08-05 21:21:22  #市場 #焦點
-
-白銀連續主力合約日內漲3%，現報15157.00元。
-
----
-
-### 2026-08-05 21:21:06  #MKT News #WTI #Impact mixed #Brent #XAUUSD
-
-【Gulf official says 50-50 chance US and Iran reach deal on Friday】A senior Gulf official told CNN the probability of a US-Iran agreement on Friday is roughly 50/50, despite US President Trump indicating a deal was imminent. The official said Iran’s delegation did not include Islamic Revolutionary Guard Corps representatives; the IRGC would need to approve any interim-agreement details. Trump said US officials were having "very good discussions" but warned the US would strike "very hard" if Iranian officials "walk away" again and suggested a Strait of Hormuz agreement could be reached as soon as the day. Iran denies direct talks with Washington, saying its officials are only consulting with Oman on Strait of Hormuz shipping. Diplomats say lifting a blockade of the Strait — a key bargaining chip — could reopen broader US-Iran discussions.
-
----
-
-### 2026-08-05 21:19:00  #國際
-
-查爾斯河實驗室高管稱，繼續預計北美研究模型業務量將下降，學術和政府客戶的支出因美國國立衛生研究院預算持平及撥款審批流程放緩而受限。
-
----
-
-### 2026-08-05 21:17:31  #其他
-
-【米哈遊法務部：未經授權釋出遊戲洩密影片，洩密人員被判刑】8月5日，據米哈遊法務部訊息，米哈遊旗下游戲洩密刑事案件於近日迎來一審判決，認定B站使用者蘇某（賬號“真不想澀澀”）及吳某（賬號“風堇lover-兜兜”）侵犯著作權罪成立，分別判處有期徒刑一年二個月（適用緩刑）及有期徒刑一年（適用緩刑）。米哈遊法務部表示，本案是適用兩高發布的新司法解釋後首例遊戲洩密刑事案件：蘇某侵權影片點選量達60餘萬次、吳某達30餘萬次，均已超過司法解釋規定的刑事追訴標準，依法構成追訴條件，法院據此對兩人作出定罪判決。
-
----
-
-### 2026-08-05 21:17:23  #MKT News #Market Themes #Chip Wars #AI Revolution #NVDA.O #AMD.O
-
-【Anthropic confirms chip team to develop in‑house chips for Claude】Business Insider reports AI startup Anthropic has confirmed it is assembling an internal chip team to design custom accelerators for its Claude model. A job posting and company statement show Anthropic is hiring engineers to design bespoke chips; a spokesperson said this is the company’s first public confirmation. The spokesperson said Anthropic will co-design hardware and AI models so Claude can "run faster and more efficiently at customer scale." They added Anthropic will pursue a multi‑chip strategy and will continue to rely on hardware from AWS, Google, NVIDIA and AMD as key components when scaling compute.
 
 ---

@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-08 11:55:14_
-_本檔包含 3084 則快訊，約 600421 字_
+_更新時間：2026-08-08 13:06:12_
+_本檔包含 3086 則快訊，約 599218 字_
+
+---
+
+### 2026-08-08 12:56:28  #國際
+
+美國地質調查局（USGS）：阿拉斯加州斯克溫特納西北54公里處發生5.6級地震。
+
+---
+
+### 2026-08-08 12:52:33  #國際
+
+美國地質調查局（USGS）：阿拉斯加州斯克溫特納西北偏西59公里處發生5.5級地震。
+
+---
+
+### 2026-08-08 12:44:05  #MKT News
+
+CENC reported a magnitude-3.4 earthquake at 12:21 local time on Aug. 8 in Gong County, Yibin, Sichuan; focal depth 9 km.
+
+---
+
+### 2026-08-08 12:42:37  #MKT News #Commodities #Industrial Metals
+
+【BHP ship loaders at Port Hedland start 24-hour strike】BHP ship loaders at Port Hedland, Western Australia, began a 24-hour strike to halt loading of bulk carriers between Aug 8–9, starting at 05:30 AWST Saturday. BHP says roughly 200 of about 1,200 port employees are union members eligible to take action; two of seven operational ship loaders are fully automated and expected to be unaffected. Port Hedland handles about 500 mln tonnes of iron ore a year and is among the world’s largest export ports; any disruption could ripple through the global iron ore market. Traders are monitoring whether the dispute will escalate into a prolonged stoppage that could materially affect flows and prices.
+
+---
+
+### 2026-08-08 12:37:50  #其他
+
+【航行警告！南海部分海域進行軍事訓練 禁止駛入】據中國海事局網站訊息，三沙海事局釋出航行警告，8月9日5時至12時，南海部分海域進行軍事訓練，禁止駛入。
+
+---
+
+### 2026-08-08 12:32:24  #MKT News
+
+【August 2026 box office tops CNY 1.5 bln】Lighthouse Professional data show as of Aug 8 total August box office, including presales, exceeded CNY 1.5 bln. Top five titles are Spider-Man: A New Day; The Eight Immortals!; Kung Fu Women's Football; Annual Party Can't Stop! 2; Obsession.
+
+---
+
+### 2026-08-08 12:31:19  #MKT News #Commodities #Energy
+
+Russian operations command said the Ilsky refinery caught fire after drone wreckage fell, RIA reported.
+
+---
+
+### 2026-08-08 12:26:56  #Trading Economics #Markets #Brazil #Earnings #Importance 0
+
+Petrobras earnings above expectations at 4.08 BRL — Petrobras (PETR3) released earnings per share at 4.08 BRL, compared to market expectations of 3.27 BRL.
+
+---
+
+### 2026-08-08 12:24:59  #MKT News
+
+【Typhoon White Dolphin suspends 40 ferry routes along Fujian coast】Fujian Maritime Safety Administration said Typhoon White Dolphin had forced suspension of 40 passenger ferry routes and 76 passenger ferries along the Fujian coast; all 115 coastal maritime construction projects were halted and 290 construction vessels evacuated, as of 1200 on Aug 8.
+
+---
+
+### 2026-08-08 12:24:30  #其他
+
+【受颱風“白海豚”影響 福建沿海40條航線停航】從福建海事局瞭解到，為了防禦颱風“白海豚”，截至8日12時，福建沿海共有40條客渡運航線停運，76艘客渡船停航。福建沿海全部115個水上施工作業專案停工，撤離290艘施工作業船舶。
+
+---
+
+### 2026-08-08 12:24:06  #其他
+
+【杭臺高鐵溫玉段開通運營】據中國鐵建，8月8日，由鐵建投資作為聯合體牽頭人投資建設，鐵五院勘察設計，中鐵十四局、中鐵二十四局、中鐵建設、中國鐵建電氣化局等單位參建的杭州經紹興至台州高鐵溫嶺至玉環段（簡稱杭臺高鐵溫玉段）正式開通運營，玉環從不通鐵路直接邁入高鐵時代，杭州至玉環最快1小時47分高鐵直達，台州市實現“縣縣通鐵路”。（央視新聞）
+
+---
+
+### 2026-08-08 12:23:27  #焦點 #國際
+
+【貝森特稱霍爾木茲海峽將逐步失去戰略重要性】美國財政部長斯科特·貝森特日前在接受美國亞利桑那州地方電視臺採訪時說，隨著地緣政治局勢變化，今後越來越多能源運輸將繞過霍爾木茲海峽。他認為，霍爾木茲海峽將逐步失去戰略重要性。當地媒體報道，貝森特在採訪中說，鑑於伊朗試圖控制霍爾木茲海峽這條咽喉要道，海峽將無法回到過去的狀態。他聲稱，在接下來兩年時間裡，海峽將變成一片普通水域，逐步變得不再那麼重要。貝森特說，經由霍爾木茲海峽運輸的能源中，有超過50%甚至70%今後將逐步改由地下管道輸送。 貝森特此前曾多次表達類似觀點，即霍爾木茲海峽作為全球能源咽喉的地位被削弱。在貝森特看來，沙烏地阿拉伯、阿聯酋等國現有輸油管道的擴建與改建，以及繞過海峽的地下和陸路管網升級，會在很大程度上替代以往透過油輪穿越海峽的運輸方式。 （新華社）
+
+---
+
+### 2026-08-08 12:19:33  #市場
+
+【金飾克價重返1300元】國內黃金飾品價格對比顯示，國內多家品牌足金飾品價格重返1300元，其中周生生足金飾品報1315元/克，周大福報價1308元/克，老廟黃金報價1310元/克。
+
+---
+
+### 2026-08-08 12:14:23  #國際
+
+【美官員：預計霍爾木茲海峽協議將“很快達成”】路透社7日援引一名美國官員的話報道稱，伊朗與阿曼圍繞霍爾木茲海峽的談判“有進展”，“預計很快達成協議”。這名官員說，一旦協議達成，霍爾木茲海峽恢復商業航運，美國將解除對伊海上封鎖。這名官員同時重申，美方行動將繼續基於伊朗履行承諾的實際情況。美國阿克西奧斯新聞網站記者巴拉克·拉維德7日在社交媒體上說，一名美伊談判調解方外交官告訴他，伊朗談判代表正在等待伊朗最高國家安全委員會就協議作出最終決定，“預計很快獲得批准”。（新華社）
+
+---
+
+### 2026-08-08 12:13:45  #MKT News #CRM.O
+
+Documents show Salesforce will lay off 74 employees at its San Francisco headquarters.
+
+---
+
+### 2026-08-08 12:13:27  #MKT News
+
+【Sources: Musk refuses Ukraine request to use Starlink to strike targets inside Russia】US reports on July 7 say SpaceX founder Elon Musk explicitly refused to allow the Ukrainian military to use SpaceX’s Starlink satellite internet system to strike targets inside Russia. US outlets cited two aides to ex-Ukrainian defense minister Fedorov saying Fedorov had pushed for Starlink strikes and privately contacted Musk but was turned down. Sources say Musk has not agreed, reportedly citing concern the crisis could escalate further.
+
+---
+
+### 2026-08-08 12:11:00  #國際
+
+當地官員稱，俄羅斯伊爾斯基煉油廠遭無人機襲擊後發生火災。
+
+---
+
+### 2026-08-08 12:03:37  #宏觀
+
+【上半年製造業企業轉型升級步伐加快】市場監管總局公佈資料顯示，上半年製造業企業轉型升級步伐加快。作為實體經濟的根基，製造業穩步發展壯大，相關企業不斷向價值鏈上游攀升。一是裝備製造業向高階邁進。上半年，高階裝備製造業新設企業2.8萬戶，同比增長2.5%。其中，智慧裝備製造業增長6.4%，城市軌道裝備製造業增長4.4%。二是高技術製造業增勢強勁。截至6月底，高技術製造業企業總量達33.0萬戶，上半年新設1.5萬戶。其中，航天器及運載火箭製造業新設企業同比增長185.7%，光纖、光纜製造業增長129.4%，積體電路製造業增長24.2%。三是產能過剩行業企業有序出清。上半年，新能源汽車、光伏、鋰電池產業相關企業登出7632戶、5089戶、155戶，同比分別增長4.6%、8.3%、12.3%。
+
+---
+
+### 2026-08-08 12:02:49  #宏觀
+
+【上半年服務業新設企業395.7萬戶】市場監管總局公佈資料顯示，上半年服務業新設企業395.7萬戶，與去年同期持平。傳統消費承壓前行，新消費增長點活力顯現，持續為擴內需促消費注入新動能。一是傳統商貿企業穩中有增。上半年，批發零售業新設企業173.7萬戶，同比增長2.9%。二是新型消費業態活力迸發。“銀髮經濟”產業新設相關企業3.1萬戶，同比增長16.0%；文化旅遊產業新設相關企業147.5萬戶，保持較快增長勢頭；“名特優新”個體工商戶達到18.4萬戶。三是高技術服務業加速壯大。資訊傳輸和軟體技術服務業新設企業32.2萬戶，同比增長3.3%；檢驗檢測服務業新設企業1.6萬戶，增長43.9%；科技成果轉化服務業新設企業45.9萬戶，增長6.8%。
+
+---
+
+### 2026-08-08 12:02:05  #宏觀
+
+【新興產業新設企業40萬戶 上半年全國經營主體發展資料釋出】8月8日，市場監管總局公佈資料顯示，新產業新賽道企業蓄能成勢，服務業新消費與高技術服務業雙輪驅動，製造業轉型加快，產業發展亮點紛呈。新產業新賽道相關企業持續增動能。上半年，全國新設“8大新興產業+9大未來產業”相關企業56.1萬戶，保持穩定增長態勢，為推動新質生產力發展注入源頭活水。一是新興產業加速成長。作為構建產業鏈供應鏈韌性重要佈局的“8大新興產業”，共新設相關企業40.0萬戶，持續發揮創新引領作用。二是未來產業加快孕育。作為搶佔科技制高點前瞻佈局的“9大未來產業”，共新設相關企業20.0萬戶，展現出巨大的發展潛力和增長動能。三是部分前沿領域呈現爆發式增長。生成式人工智慧領域新設企業5.5萬戶，同比增長28.0%；人形機器人領域新設企業11.6萬戶，增長9.5%，正加速形成新的經濟增長點。
+
+---
+
+### 2026-08-08 12:00:09  #MKT News #GBPUSD #Impact bearish
+
+【Deutsche Bank: Downside risk to UK Q2 GDP has increased】Next week's key UK release is Thursday's Q2 GDP report. Deutsche Bank's UK economists expect June GDP to fall 0.1% MoM, leaving 2026 Q2 GDP growth at 0.4% QoQ, but say downside risks have increased.
+
+---
+
+### 2026-08-08 11:59:58  #其他
+
+【2026年8月票房破15億】據燈塔專業版，截至8月8日，2026年8月總票房（含預售）突破15億，《蜘蛛俠：嶄新之日》《八仙！》《功夫女足》《年會不能停！2》《痴迷》暫列8月票房榜前五。
+
+---
+
+### 2026-08-08 11:57:19  #公司 #國際
+
+【美媒：馬斯克拒絕讓烏克蘭用“星鏈”打擊俄境內目標】美國媒體7日披露，美國太空探索技術公司(SpaceX)創始人馬斯克明確拒絕允許烏克蘭軍方利用SpaceX旗下衛星網際網路系統“星鏈”打擊俄羅斯境內目標。美國《大西洋》雜誌以烏前國防部長費多羅夫兩名“身邊人”為訊息源報道，費多羅夫此前一直在推動利用“星鏈”打擊俄羅斯境內目標，曾嘗試透過私下渠道與馬斯克接觸，但遭到後者拒絕。“截至目前，（馬斯克）沒有作出同意的決定。”報道稱，馬斯克之所以拒絕烏方用“星鏈”對俄進行縱深打擊，是擔心危機進一步升級。2022年烏克蘭危機全面升級後，馬斯克曾免費向烏克蘭提供數萬個“星鏈”終端。但他後來頻頻與烏方發生爭執，敦促後者與俄方達成和平協議。（新華社）
 
 ---
 
@@ -18446,131 +18584,5 @@ Trump said progress on the Strait of Hormuz is going well.
 ### 2026-08-07 07:30:14  #MKT News #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
 
 Japan household spending MoM -6.4% in June vs -3.1% expected; May +3.7%.
-
----
-
-### 2026-08-07 07:30:12  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #Nikkei 225 #Impact bearish
-
-Japan June total household spending YoY -3.3% (expected +1.0%, prior -0.4%).
-
----
-
-### 2026-08-07 07:30:07  #MKT News #Economic Calendar #Important
-
-Japan | Expenditures for Two-or-more-person Households (MoM) (Jun) | actual -6.4% | consensus -3.1% | previous 3.7%
-
----
-
-### 2026-08-07 07:30:03  #MKT News #Economic Calendar #Important
-
-Japan | Expenditures for Two-or-more-person Households (YoY) (Jun) | actual -3.3% | consensus 1.00% | previous -0.40%
-
----
-
-### 2026-08-07 07:29:49  #公司
-
-【多家公司更新回購進度，8月份累計成交14.7億元】同花順資料顯示，8月以來，已有62家A股公司實施股份回購，累計成交金額約14.7億元。從上市公司釋出的公告來看，回購的股份後續去向大多包括登出、股權激勵和員工持股計劃。（證券日報）
-
----
-
-### 2026-08-07 07:29:26  #國際
-
-特朗普在白宮活動上發表講話。
-
----
-
-### 2026-08-07 07:29:16  #國際
-
-特朗普談霍爾木茲海峽：進展順利。
-
----
-
-### 2026-08-07 07:28:59  #其他
-
-【私募7月調研“鍾情”科技：國產算力鏈成新共識】科技板塊的階段性調整，並未降低機構的調研熱情。電子、通訊、計算機等科技板塊依舊是私募機構重點關注方向。記者採訪發現，私募對調整後的科技板塊佈局熱情仍在，正在產業鏈內部“摸排”新的投資機會。其中，國產算力鏈憑藉產業趨勢、自主可控及長期成長空間等邏輯，有望成為下一階段私募的重點關注方向。（上海證券報）
-
----
-
-### 2026-08-07 07:28:54  #其他
-
-新墨西哥州陪審團裁定Meta支付3.75億美元罰金，此前法院已判令Meta支付5.67億美元設立基金。
-
----
-
-### 2026-08-07 07:28:50  #MKT News #Commodities #Energy #WTI #Impact bullish #DXY #Hang Seng Index #Impact bearish
-
-【Geopolitical risk resurfaces, weighs on Asian shares; oil jump revives inf concerns】Asian shares opened slightly lower Friday as renewed geopolitical tensions pulled U.S. stocks and Treasuries down. A jump in oil ahead of Friday’s U.S. jobs report reignited inf concerns. Markets are focused on the payrolls print for fresh clues on Fed policy; stronger-than-expected employment could reinforce the case for rates remaining higher for longer, while any further Middle East escalation could lift energy prices and amplify volatility. UBS analyst Ulrike Hoffmann said short-term risks persist, particularly if U.S. data stay firm, oil continues to stoke inf worries, or markets keep pricing a more hawkish Fed path. Interactive Brokers senior economist José Torres said Wall Street reversed after the recent rally amid lingering uncertainty over the Strait of Hormuz.
-
----
-
-### 2026-08-07 07:28:03  #其他
-
-【可轉債一級市場正在升溫 今年以來累計發行51只同比增長104%】可轉債一級市場正在升溫。截至8月6日，今年以來累計發行51只可轉債，規模合計607億元，較上年同期分別增長104%和51%。與發行端回暖同時發生的，是存量可轉債在加速退出。資料顯示，年內已有123只可轉債離場，市場存續規模較年初減少560億元。業內人士認為，再融資政策最佳化開啟了可轉債發行通道，科技企業資本開支增加、機構配置需求旺盛，則為新券供需兩端提供了支撐。可轉債市場由此進入發行提速、結構調整的新階段。（上海證券報）
-
----
-
-### 2026-08-07 07:26:36  #市場 #央行 #國際
-
-【全球流動性收緊節奏暫緩 券商研判下半年或出現邊際改善】國際油價大漲引發通脹資料走強，使得市場對全球流動性收緊預期不斷升溫，但隨著國際油價回落，美聯儲、日本央行、歐洲央行、英國央行等全球主要經濟體央行7月均宣佈按兵不動，一定程度上使得市場的憂慮有所降溫。下半年全球流動性環境還將出現怎樣的變化？多位業內人士對記者表示，若地緣局勢緩和帶動油價下行、通脹壓力緩解，那麼市場此前過度定價的加息預期可能會有修正，流動性收緊壓力有望得到階段性緩解。對投資者而言，科技與高階製造領域、資源品板塊、低估值高股息紅利資產等方向機遇值得關注。AI產業鏈方興未艾、高景氣度持續。黃金價格也有望回到上行通道。（中國證券報）
-
----
-
-### 2026-08-07 07:26:06  #國際
-
-【委內瑞拉政府與反對派舉行政治對話】當地時間8月6日，委內瑞拉政府與反對派代表在首都加拉加斯啟動了由美國支援的政治對話。根據雙方釋出的議程，他們將討論委內瑞拉遭遇地震後的應對措施，以及“加強民主和政治權利”的問題。（總檯環球資訊）
-
----
-
-### 2026-08-07 07:25:03  #公司 #市場
-
-【百餘家上市公司釋出2026年半年報 生物醫藥等行業現亮點】Wind資料顯示，截至8月6日收盤，A股共有115家上市公司對外披露2026年半年報，93家上市公司實現營業收入同比增長，86家上市公司實現淨利潤同比增長。從淨利潤增速角度看，生物醫藥、有色金屬、化工、半導體等行業上市公司業績表現相對亮眼。（中國證券報）
-
----
-
-### 2026-08-07 07:24:44  #其他
-
-【中國駐沙特大使：目前已有約750家中企在沙運營，涉足領域廣泛】8月6日，沙特主流媒體《經濟報》發表對駐沙特大使常華的書面採訪。中國駐沙特大使常華：目前已有約750家中企在沙運營，40多家中國企業在沙特設立了區域總部。中國企業在沙涉足領域廣泛，包括工程承包、貿易物流、電子商務、電信服務、生物醫藥產業、工業投資和園區開發等。
-
----
-
-### 2026-08-07 07:24:13  #公司
-
-【地方中小銀行紛紛推出大額存單，主打中短期產品】近期，國有大行及多家股份制銀行重啟5年期大額存單，地方中小銀行也同步密集上新大額存單。對比來看，中小銀行的大額存單利率具備明顯優勢，但產品最長僅設定3年期，整體仍以中短期產品為主。梳理中國貨幣網資料發現，7月份以來，新疆銀行、保定銀行、金臺農商銀行、嘉祥農商銀行、徐州農商銀行、玉樹農商銀行、泰順溫銀村鎮銀行等超十家地方銀行陸續釋出大額存單發行公告，部分銀行更是年內首次發行該類產品。7月份新公告發行大額存單的銀行數量、產品數量，均顯著高於6月份。（證券日報）
-
----
-
-### 2026-08-07 07:23:47  #公司 #市場 #國際
-
-【SpaceX力抗首波股份解禁潮壓力 股價反彈成交爆量】SpaceX週四迎來第一波股份解禁潮，可供交易股份數量增加一倍以上，但股價最終收漲6.1%，成交量激增，表現超出市場預期。SpaceX的首次公開發行(IPO)創美國歷史上規模最大紀錄，但其用於公開交易的股份比例不足5%。不過，內部人士、員工及早期投資者追加售股的禁售限制，預計未來數月陸續到期。週四是首波解禁，涉及9.115億股，在IPO售出的約6.39億股以外，讓更多股份進入市場。到12月8日整體鎖定期屆滿時，SpaceX潛在可交易股份的流通比例增至總股本的40%。剩餘的60%股份（包括馬斯克持有的股份）將一直被鎖定至2027年年中。自SpaceX上市以來，其股價持續下跌。由於財報加劇市場對運營虧損及AI支出計劃的擔憂，週三暴跌約14%。
-
----
-
-### 2026-08-07 07:22:47  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Extends Gains as Hormuz Tensions Resurface — Brent rose above $83 per barrel on Friday, building on the previous session’s gains as renewed tensions in the Strait of Hormuz unsettled markets and cast fresh doubt over efforts to fully reopen the vital shipping route. Reports indicated that Iran struck what it described as “hostile targets” in the strait after explosions were reported near Qeshm Island. Under the proposed Iran-Oman agreement governing the waterway, Tehran seeks to prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Iran has also proposed penalties equal to 20% of a vessel’s cargo value for violations and said the strait would only be fully reopened once the US maritime blockade is lifted. The Iranian parliament is currently reviewing the draft proposal, which outlines stricter conditions for commercial shipping through the Strait of Hormuz than markets anticipated.
-
----
-
-### 2026-08-07 07:22:08  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Extends Gains as Hormuz Tensions Resurface — Crude oil rose above $78 per barrel on Friday, building on the previous session’s gains as renewed tensions in the Strait of Hormuz unsettled markets and cast fresh doubt over efforts to fully reopen the vital shipping route. Reports indicated that Iran struck what it described as “hostile targets” in the strait after explosions were reported near Qeshm Island. Under the proposed Iran-Oman agreement governing the waterway, Tehran seeks to prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Iran has also proposed penalties equal to 20% of a vessel’s cargo value for violations and said the strait would only be fully reopened once the US maritime blockade is lifted. The Iranian parliament is currently reviewing the draft proposal, which outlines stricter conditions for commercial shipping through the Strait of Hormuz than markets anticipated.
-
----
-
-### 2026-08-07 07:22:04  #市場
-
-【搶銅潮擾動全球供應鏈 AI基建擴張之下算力金屬供應承壓】AI算力基建的“狂飆”，讓算力金屬供給側緊張程度攀升。涵蓋銅、鎢、錫、鉭等相關的有色金屬品種被市場稱為“算力金屬”。8月6日，受剛果（金）禁止銅精礦出口影響，全球銅價再次重新整理歷史高點。與此同時，國內外AI企業繼續加碼資本開支，加大AI基礎設施投入。中輝期貨研究員肖豔麗認為，市場存在AI銅需求的時間錯配風險。從礦山勘探到投產平均需要15~18年，而AI資料中心的建設週期僅為2~3年。供給側15年以上的長週期與需求側2~3年的短週期之間形成了巨大的時間差，供需剪刀差在2028年前後可能達到極致，屆時銅價面臨結構性上行壓力。（證券時報）
-
----
-
-### 2026-08-07 07:21:12  #市場
-
-【全球最大的白銀ETF iShares Silver Trust持倉量較前日增加42.17噸】截至2026年08月06日，全球最大的白銀ETF iShares Silver Trust持倉量為15172.99噸，較前一個交易日增加42.17噸。
-
----
-
-### 2026-08-07 07:20:50  #Trading Economics #Economy #United States #News #Importance 1
-
-Trump to Impose 15% Tariffs on Polysilicon — The Trump administration on Thursday imposed a series of price floors and a 15% tariff on products made from polysilicon, the raw material used in semiconductors and solar panels. The proclamation, issued by U.S. President Donald Trump under Section 232 of the Trade Expansion Act of 1962, aims to protect U.S. polysilicon factories from growing Chinese ambitions in the chip supply chain. According to a White House document, the president set minimum import prices of $21 per kilogram for polysilicon, $100 per kilogram for polysilicon ingots and wafers, $0.22 per watt for solar cells, and $0.38 per watt for solar modules, or panels, as Reuters reported. The proclamation also authorizes the Commerce Department to create an incentive program for companies that invest in factories to produce polysilicon or derivative products.
 
 ---

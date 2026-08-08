@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-08 11:55:14_
-_本檔包含 3384 則快訊，約 599910 字_
+_更新時間：2026-08-08 13:06:12_
+_本檔包含 3376 則快訊，約 599353 字_
+
+---
+
+### 2026-08-05 21:31:47  #其他
+
+SpaceX股價暴跌12%，市值蒸發2050億美元。
+
+---
+
+### 2026-08-05 21:31:37  #公司 #市場
+
+SHOPIFY股價開盤上漲25%，此前該公司公佈第二季度營收超出預期。
+
+---
+
+### 2026-08-05 21:31:31  #其他
+
+MEDLINE股價暴跌13%，創下去年12月IPO以來最大跌幅。
+
+---
+
+### 2026-08-05 21:31:22  #市場
+
+AMD股價在釋出第二季度業績及展望後下跌6.6%。
+
+---
+
+### 2026-08-05 21:30:59  #市場
+
+禮來第二季度業績超出預期，股價上漲5.7%。
+
+---
+
+### 2026-08-05 21:30:54  #市場
+
+CVS HEALTH股價下跌10%，創1月27日以來最大單日跌幅。
+
+---
+
+### 2026-08-05 21:30:49  #Trading Economics #Markets #United States #stocks #Importance 1
+
+CVS Health Stock Price Hits 8-week Low — CVS Health shares decreased to 93.97 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 7.92%, and in the last 12 months, it increased 48.22%.
+
+---
+
+### 2026-08-05 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指齊漲】道指漲0.70%，標普500指數漲0.65%，納指漲0.41%。Shopify漲22.77%，Arista Networks漲11.29%，國際香料香精漲9.67%，繽客漲7.32%，永利漲7.05%，紐曼礦業漲6.70%。“七姐妹”方面：英偉達漲3.18%，亞馬遜漲1.70%，Meta Platforms漲1.29%，谷歌漲0.88%，微軟漲0.85%，蘋果跌0.43%，特斯拉跌1.36%。
+
+---
+
+### 2026-08-05 21:30:45  #其他
+
+INSULET股價暴跌24%，創2015年以來最大單日跌幅。
+
+---
+
+### 2026-08-05 21:30:45  #MKT News #Important #Market Regions #Wall Street (US) #Market Themes #AI Revolution #AMD.O #Impact bearish #SHOP.N #Impact bullish #XAUUSD
+
+US equities opened higher: Dow +0.33%, S&P 500 +0.56%, Nasdaq +0.39%. SpaceX (SPCX.O) fell 10.5% on concerns over a surge in AI-related spending. AMD (AMD.O) dropped about 7% after weak Q2 results and a muted outlook. Shopify (SHOP.N) jumped about 20%. Gold briefly topped $4,200 intraday; miners Harmony Gold (HMY.N) rose 7.5% and Gold Fields (GFI.N) climbed 8.3%. Storage-related stocks were slightly lower.
+
+---
+
+### 2026-08-05 21:30:36  #其他
+
+FISERV與STUUT達成合作，將智慧體AI應用於企業應收賬款業務。
+
+---
+
+### 2026-08-05 21:30:27  #市場
+
+多倫多S&P/TSX綜合指數<.GSPTSE>開盤上漲425.00點，漲幅1.19%，報36226.59點。
+
+---
+
+### 2026-08-05 21:30:21  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Walt Disney Stock Price Hits 6-week High — Walt Disney shares increased to 103.08 USD, the highest since June 2026. Over the past 4 weeks, Walt Disney gained 0.79%, and in the last 12 months, it decreased 17.02%.
+
+---
+
+### 2026-08-05 21:30:08  #其他
+
+據傳 Vusion 正在評估各類方案，包括潛在出售。
+
+---
+
+### 2026-08-05 21:29:23  #公司
+
+【費大廚全國小炒肉大王僅憑影片評出？中烹協回應】近日，中國烹飪協會連發公告，全面清理並撤銷此前頒發的“大師”“名師”及“美食地標城市”等各類稱號，以響應8月1日正式施行的《社會組織評比表彰活動管理辦法》。有網友發現，費大廚的“全國小炒肉大王”稱號，是在中國烹飪協會舉辦的一場線上網路投票比賽中，靠參賽照片和影片贏得的。8月5日，中國烹飪協會該賽事相關負責人表示此事時間久遠，“待檢視資料後再溝通”。對於“全國小炒肉大王”這一稱號，是否在上述清理名單中，截至發稿，未獲回應。費大廚方面對此回應稱，已關注到此事，將去核實瞭解。（中國新聞週刊）
+
+---
+
+### 2026-08-05 21:28:55  #其他
+
+市場訊息：英國警方逮捕了一名女子，此前她在科文特花園刺傷三人。
+
+---
+
+### 2026-08-05 21:28:28  #國際
+
+VIRTUIX：訓練系統將於第四季度交付給駐匡提科的美國海軍陸戰隊。
+
+---
+
+### 2026-08-05 21:28:05  #國際
+
+VIRTUIX 選用AVRT用於美國海軍陸戰隊步兵訓練器的武器追蹤與內容方案。
+
+---
+
+### 2026-08-05 21:27:57  #公司
+
+【包鋼股份耐候鋼產品成功拓展鐵路裝備用鋼新賽道】據包鋼集團，日前，包鋼股份市場開發取得新突破，成功中標鐵路車廂耐候鋼訂單，標誌著包鋼股份高階耐候鋼產品正式進入國內軌道交通主機廠供應體系。據瞭解，該訂單需求來自國內大型軌道交通裝備製造國企，業務覆蓋傳統軌道裝備、化工運儲裝備等多個領域。
+
+---
+
+### 2026-08-05 21:27:51  #其他
+
+【布魯克菲爾德第二季度籌集創紀錄的770億美元資金】布魯克菲爾德公佈了截至2026年6月30日季度的財務業績。第二季度創紀錄地募集了770億美元，主要依靠私募股權、基礎設施和信貸。本季度淨收入為12億美元，過去12個月為31億美元。可分配收益（“DE”）為7.07億美元，每股0.44美元，過去十二個月為28億美元，每股1.75美元，分別增長15%和12%。
+
+---
+
+### 2026-08-05 21:27:12  #其他
+
+【廣東佛山通報“廢品場有殘障務工人員”】8月5日，廣東佛山市三水區雲東海街道辦事處釋出情況通報：2026年8月4日，網路上有群眾反映雲東海街道遠坑村一廢品場涉嫌侵害殘障務工人員權益。接到線索後，街道第一時間聯合相關部門趕赴現場開展核查。經初步摸排，涉事場所現有務工人員5名，詳細情況正在深入調查取證。我們堅決維護勞動者尤其是特殊群體合法權益，對各類違法用工行為保持零容忍，如查實將依法從嚴處置。
+
+---
+
+### 2026-08-05 21:26:56  #MKT News #WTI #Impact bearish #Brent #XAUUSD #Impact mixed
+
+【Expectations for Strait of Hormuz reopening rise, but Middle East conflict far from over】Austrian former defence attaché and security analyst Wolfgang Pustai said an agreement on the Strait of Hormuz could be reached today or Thursday but it is too early to conclude. He said mediators are still clarifying key terms in a weak memorandum of understanding that helped trigger renewed violence. Pustai said the US would likely accept an Iran–Oman deal that confirms no transit fees and only charges for maritime services, but would reject any Iranian attempt to levy large transit fees that would violate the UN Convention on the Law of the Sea (UNCLOS) because of the precedent it would set for other strategic chokepoints. He described Trump’s inconsistent statements as an information‑war strategy targeted at three audiences — Republican voters, Iranians and international observers — and warned that reopening the Strait would be an important step but would not resolve the wider regional conflict.
+
+---
+
+### 2026-08-05 21:25:31  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact mixed #Hang Seng Index #CNH
+
+【China to issue '15th Five-Year' plan to promote SME development】China's Ministry of Industry and Information Technology, together with multiple departments, will soon publish the '15th Five-Year Plan to Promote Small and Medium-Sized Enterprise Development.' MIIT said at a January state press briefing it will continue to optimize the business environment, accelerate mechanisms to scale specialized, refined, distinctive and innovative SMEs, and improve a tiered cultivation system for SME industry clusters. Experts told China Securities Journal SMEs are a key source of economic dynamism, underpin employment, stabilize industrial chains and support new productive forces. The forthcoming plan is expected to focus on promoting specialized, refined, distinctive and innovative SMEs, optimizing the SME operating environment, establishing a tiered system to cultivate high-quality SMEs, and introducing policies to help such firms grow and achieve higher-quality development.
+
+---
+
+### 2026-08-05 21:25:29  #其他
+
+【《“十五五”促進中小企業發展規劃》即將釋出】記者近日獲悉，工信部會同多個部門聯合制定的《“十五五”促進中小企業發展規劃》即將釋出。在今年1月國新辦舉行的新聞釋出會上，工信部表示，將持續最佳化企業發展環境，制定“十五五”促進中小企業發展規劃；加快構建促進專精特新中小企業發展壯大機制，健全中小企業特色產業叢集梯度培育體系。接受採訪的專家認為，中小企業是經濟活力的重要源泉，是保就業、穩產業鏈、發展新質生產力的微觀基礎。預計即將釋出的《“十五五”促進中小企業發展規劃》將以促進中小企業專精特新發展為主線，最佳化中小企業發展環境，完善優質中小企業梯度培育體系，構建促進專精特新中小企業發展壯大機制政策，推動中小企業健康發展、高質量發展。(中國證券報)
+
+---
+
+### 2026-08-05 21:25:23  #其他
+
+【中國聯通標準機架規模超過110萬架 智算規模達到45EFLOPS】中國聯通表示，截至目前，中國聯通標準機架規模超過110萬架，建成7個百兆瓦級AIDC園區，智算規模達到45EFLOPS。
+
+---
+
+### 2026-08-05 21:24:32  #其他
+
+CENCORA高管：我們的重點是在視網膜和腫瘤領域進行增值性補強收購。
+
+---
+
+### 2026-08-05 21:24:26  #MKT News #Market Themes #AI Revolution
+
+According to The Information, ByteDance founder Zhang Yiming told employees last month the company will not use knowledge-distillation techniques to advance its AI models, even if that means temporarily falling behind domestic rivals.
+
+---
+
+### 2026-08-05 21:22:51  #公司
+
+【Netlist與三星達成五年期記憶體協議】8月5日，計算機記憶體公司Netlist表示，已與三星電子達成一項為期五年的協議。根據協議條款，三星將獲得Netlist全部專利組合的使用權，包括其伺服器DIMM和高頻寬記憶體技術。三星將向Netlist供應DRAM和NAND產品。此外，雙方同意和解並相互撤銷所有未決的法律訴訟。
+
+---
+
+### 2026-08-05 21:22:41  #公司 #國際
+
+【爆料：特朗普“親密盟友”，拖了“一箱證據”前往白宮】美國首都華盛頓地標建築林肯紀念堂倒影池改造引發的風波持續發酵。據《紐約時報》、美國哥倫比亞廣播公司（CBS）等美媒4日援引訊息人士的話稱，哥倫比亞特區聯邦檢察官珍尼娜·皮羅3日拖著“滿滿一箱證據”前往白宮，試圖向美國總統特朗普證明——美國林肯紀念堂倒影池底部塗層損毀部分並非人為蓄意破壞，而是由施工質量低劣造成的。美媒形容說，橢圓形辦公室當天展開了一場“激烈交鋒”。（環球網）
+
+---
+
+### 2026-08-05 21:21:54  #Trading Economics #Economy #Brazil #Composite PMI #Importance 1
+
+Brazil Private Sector Contracts in July — The S&P Global Composite PMI for Brazil fell to 48.8 in July 2026 from 50.7 in June, signaling a renewed contraction in private sector activity. Although modest, the pace of reduction was the fastest since October 2025, reflecting a sharper decline in new orders and weaker output, particularly in manufacturing. Firms continued to trim workforce in response to weak demand, marking a second consecutive monthly decrease in employment. Input cost and output price inflation both eased to their lowest levels in four months but stayed high by historical standards. Cost pressures were stronger in services, while manufacturers raised selling prices more aggressively.
+
+---
+
+### 2026-08-05 21:21:22  #市場 #焦點
+
+白銀連續主力合約日內漲3%，現報15157.00元。
+
+---
+
+### 2026-08-05 21:21:06  #MKT News #WTI #Impact mixed #Brent #XAUUSD
+
+【Gulf official says 50-50 chance US and Iran reach deal on Friday】A senior Gulf official told CNN the probability of a US-Iran agreement on Friday is roughly 50/50, despite US President Trump indicating a deal was imminent. The official said Iran’s delegation did not include Islamic Revolutionary Guard Corps representatives; the IRGC would need to approve any interim-agreement details. Trump said US officials were having "very good discussions" but warned the US would strike "very hard" if Iranian officials "walk away" again and suggested a Strait of Hormuz agreement could be reached as soon as the day. Iran denies direct talks with Washington, saying its officials are only consulting with Oman on Strait of Hormuz shipping. Diplomats say lifting a blockade of the Strait — a key bargaining chip — could reopen broader US-Iran discussions.
+
+---
+
+### 2026-08-05 21:19:00  #國際
+
+查爾斯河實驗室高管稱，繼續預計北美研究模型業務量將下降，學術和政府客戶的支出因美國國立衛生研究院預算持平及撥款審批流程放緩而受限。
+
+---
+
+### 2026-08-05 21:17:31  #其他
+
+【米哈遊法務部：未經授權釋出遊戲洩密影片，洩密人員被判刑】8月5日，據米哈遊法務部訊息，米哈遊旗下游戲洩密刑事案件於近日迎來一審判決，認定B站使用者蘇某（賬號“真不想澀澀”）及吳某（賬號“風堇lover-兜兜”）侵犯著作權罪成立，分別判處有期徒刑一年二個月（適用緩刑）及有期徒刑一年（適用緩刑）。米哈遊法務部表示，本案是適用兩高發布的新司法解釋後首例遊戲洩密刑事案件：蘇某侵權影片點選量達60餘萬次、吳某達30餘萬次，均已超過司法解釋規定的刑事追訴標準，依法構成追訴條件，法院據此對兩人作出定罪判決。
+
+---
+
+### 2026-08-05 21:17:23  #MKT News #Market Themes #Chip Wars #AI Revolution #NVDA.O #AMD.O
+
+【Anthropic confirms chip team to develop in‑house chips for Claude】Business Insider reports AI startup Anthropic has confirmed it is assembling an internal chip team to design custom accelerators for its Claude model. A job posting and company statement show Anthropic is hiring engineers to design bespoke chips; a spokesperson said this is the company’s first public confirmation. The spokesperson said Anthropic will co-design hardware and AI models so Claude can "run faster and more efficiently at customer scale." They added Anthropic will pursue a multi‑chip strategy and will continue to rely on hardware from AWS, Google, NVIDIA and AMD as key components when scaling compute.
 
 ---
 
@@ -20149,263 +20359,5 @@ McDonald's (MCD.N) top executive said the company expects to gradually sell comp
 ### 2026-08-04 20:49:02  #國際
 
 【美國6月貿易逆差收窄 進口自年初以來首次下降】由於進口自年初以來首次下降，美國6月貿易逆差收窄，且進口降幅涉及多個領域。美國商務部週二公佈的資料顯示，6月美國商品和服務貿易逆差較前月下降5.6%，至733億美元。其中，進口額下降1.8%，出口額下降0.9%。貿易資料顯示，本季度淨出口持續拖累經濟增長。受關稅政策不斷變化、中東戰爭帶來的供應鏈擾動，以及企業大舉投資人工智慧等因素影響，美國貿易資料近幾個月出現較大波動。儘管美國最高法院在第一季度否決了特朗普政府實施的許多進口關稅措施，但政府仍在尋求其他途徑對進口商品徵收關稅。2025年至今年初期間，隨著企業積極推進人工智慧投資，推動電腦、外圍裝置及相關零部件進口大幅增長。不過，最新貿易報告顯示，6月電腦和半導體進口有所放緩。包括相關裝置在內的更廣泛資本品類別進口，也自去年9月以來首次出現下降。
-
----
-
-### 2026-08-04 20:48:56  #MKT News
-
-【U.S. June trade deficit narrows as imports fall for first time since start of year】The U.S. goods and services trade deficit narrowed 5.6% in June to $73.3 bln, the Commerce Department said Tuesday, as imports fell 1.8% and exports fell 0.9%. Trade data show net exports continued to drag on economic growth this quarter. Recent volatility in trade flows reflects shifting tariff policy, supply‑chain disruption from the Middle East war and large corporate investment in AI. The Supreme Court struck down many Trump‑era import tariffs in Q1, though the administration is pursuing other ways to impose duties. From 2025 into early this year AI spending drove a surge in imports of computers, peripherals and related parts; the June report shows imports of computers and semiconductors slowed, and broader capital‑goods imports including related equipment fell for the first time since September last year.
-
----
-
-### 2026-08-04 20:48:30  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed's Paulson said he wants to weigh the pros and cons of holding six versus eight FOMC meetings a year.
-
----
-
-### 2026-08-04 20:48:12  #其他
-
-【世界先進：AI伺服器電源管理晶圓需求持續增長但產能受限】晶圓代工廠世界先進總經理尉濟時4日表示，AI伺服器電源管理晶圓需求持續增長，預估三季度晶圓出貨量環比增1%至3%、平均銷售單價（ASP）環比增增2%至4%，產能利用率則將進一步升至約90%；不過，部分瓶頸裝置已面臨產能限制，也壓縮出貨量進一步成長的空間。尉濟時指出，目前訂單能見度維持約四個月，主要動能來自AI伺服器電源管理，以及客戶季節性備貨需求。（科創板日報）
-
----
-
-### 2026-08-04 20:47:55  #公司
-
-Spotify聯席執行長亞歷克斯·諾斯特羅姆表示，公司正在新興市場進行產品調整，包括最佳化註冊流程以提升高質量使用者轉化率，並逐步停止對低端安卓裝置的支援。
-
----
-
-### 2026-08-04 20:47:48  #央行 #其他
-
-智利央行購入2500萬美元。
-
----
-
-### 2026-08-04 20:47:10  #Trading Economics #Economy #Canada #Balance of Trade #Importance 2
-
-Canadian Trade Surplus Rises to 4-Year High — Canada recorded a trade surplus of C$3.86 billion in June of 2026, widening from the C$3.7 billion in May to mark the largest surplus in over four years. Exports rose by 0.4% from the previous month to a record high of C$77.5 billion. Sales rose sharply for metal and non-metallic products (16.5% to C$15.02 billion) amid a 27.9% surge in sales of gold, mostly to the UK. Sales of metal ores and non-metallic minerals rose by 17.3% to C$3.14 billion with support from copper ores. These offset the 10% plunge in energy products (to C$18.37 billion) as the momentary respite in the Middle East war had lowered energy prices. Meanwhile, imports rose by 0.2% to a record of C$73.6 billion with drops in industrial machinery, equipment, and parts (-3.3% to C$7.6 billion) and metal ores and non-metallic minerals (-3.4% to C$2.81 billion). The depreciation of the Canadian dollar in the period lifted trade turnover expressed in the loonie, contributing to the rise in both imports and exports.
-
----
-
-### 2026-08-04 20:46:59  #其他
-
-羅森布拉特證券啟動覆蓋，給予SK海力士買入評級；目標價320美元。
-
----
-
-### 2026-08-04 20:46:45  #其他
-
-保爾森：希望釐清FOMC召開6次與8次會議之間的利弊取捨。
-
----
-
-### 2026-08-04 20:46:37  #其他
-
-英國石油首席財務官表示：對我而言，資產負債表的健康狀況比200億美元資產剝離計劃的完成額度更為重要。
-
----
-
-### 2026-08-04 20:46:13  #公司 #國際
-
-【英媒：深度求索新模型執行成本優勢明顯】英國路透社日前報道，在對全球多款主流人工智慧模型的最新基準測試中，中國人工智慧企業深度求索最新發布的DeepSeek-V4-Flash模型執行成本最低。報道摘要如下： 深度求索於7月31日正式釋出DeepSeek-V4-Flash模型，再次展現了其能夠以超低成本提供人工智慧替代方案。該公司推出的DeepSeek-R1模型在2025年初發布時受到全球矚目，引發了市場對美國企業在人工智慧領域鉅額投資的質疑。 美國研究機構人工智慧分析網的評估顯示，以衡量人工智慧使用量的資料單位詞元計算，DeepSeek-V4-Flash模型每百萬輸入詞元收費0.14美元，每百萬輸出詞元收費0.28美元，完成每項測試的平均成本約為0.03美元。而美國開放人工智慧研究中心（OpenAI）的GPT-5.6 Sol模型的執行成本為1.86美元，Anthropic的“克勞德-寓言5”模型為3.15美元，是DeepSeek-V4-Flash模型執行成本百倍。 人工智慧分析網所採取的比較方式不僅考慮模型定價，還納入完成任務所需處理和生成的資料量，因此更能反映實際使用成本。 在綜合程式設計、推理和模擬職場任務等9項測試結果的“智慧指數”中，DeepSeek-V4-Flash模型的得分與谷歌“雙子座3.6閃電”模型相當，但低於北京月之暗面科技有限公司的Kimi K3以及OpenAI和Anthropic的部分模型。(新華社)
-
----
-
-### 2026-08-04 20:45:29  #公司
-
-強生：湯姆·卡瓦納將接替珍妮弗·陶伯特出任創新藥物板塊執行副總裁兼全球董事長。
-
----
-
-### 2026-08-04 20:45:26  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-Fed's Paulson says the economy is strong and inflation is too high.
-
----
-
-### 2026-08-04 20:45:13  #MKT News
-
-Fed’s Paulson says monetary policy faces a complex moment.
-
----
-
-### 2026-08-04 20:45:10  #其他
-
-Microchip Technology攜手美光科技，展示面向AI與資料中心基礎設施的高效能PCIe® Gen 6儲存架構。
-
----
-
-### 2026-08-04 20:44:49  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's Paulson said policy may need to be recalibrated if there is no progress on inflation.
-
----
-
-### 2026-08-04 20:44:36  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed's Paulson said he hopes to see further progress on core inflation.
-
----
-
-### 2026-08-04 20:44:28  #市場 #觀點
-
-【加拿大連續第四個月錄得貿易順差，黃金出口抵消能源下滑】由於黃金出口增長抵消了能源出口下降，加拿大6月貿易順差小幅擴大。加拿大統計局週二公佈的資料顯示，6月加拿大進口和出口分別增長0.2%和0.4%，推動貿易順差從5月修正後的37億加元擴大至38.6億加元（約合27億美元）。加拿大出口連續第五個月增長，其中金屬及非金屬礦產品出口增長16.5%，成為主要推動因素。這一增長主要來自對英國黃金出口增加，以及6月外國居民購買加拿大持有的黃金。與此同時，由於原油價格下跌，加拿大能源出口下降10%。
-
----
-
-### 2026-08-04 20:44:13  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #XAUUSD #DXY #Impact bearish
-
-Fed's Paulson said forward guidance is appropriate when interest rates are at zero.
-
----
-
-### 2026-08-04 20:44:12  #其他
-
-匈牙利總理表示，可能需要為帕克斯核電站考慮另一套冷卻系統。
-
----
-
-### 2026-08-04 20:44:02  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY #S&P500
-
-Federal Reserve's Paulson said the Fed cannot provide rate guidance at present and remains open to options.
-
----
-
-### 2026-08-04 20:43:39  #央行 #國際
-
-美聯儲官員保爾森：重新審視美聯儲的工作運作方式是件非常有益的事。
-
----
-
-### 2026-08-04 20:43:20  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Canada posts fourth straight trade surplus in June as gold exports offset energy decline】Canada's trade surplus widened slightly in June to C$3.86 bln (about US$2.7 bln) from a revised C$3.70 bln in May, Statistics Canada said. Exports rose 0.4% and imports 0.2%. Exports grew for a fifth consecutive month, led by a 16.5% jump in metal and non-metallic mineral exports driven mainly by increased gold shipments to the UK and foreign purchases of Canadian-held gold in June. Energy exports fell 10% amid lower crude prices.
-
----
-
-### 2026-08-04 20:43:19  #央行 #國際
-
-美聯儲鮑爾森：當前環境的不確定性使得提供前瞻性指引變得困難。
-
----
-
-### 2026-08-04 20:43:14  #其他
-
-保爾森：利率處於零時，前瞻性指引是恰當的。
-
----
-
-### 2026-08-04 20:42:58  #公司
-
-【協創資料：擬使用不超70億元自有資金進行委託理財】協創資料(300857.SZ)公告稱，公司及子公司擬使用最高額度合計不超過70億元的自有資金進行委託理財，其中擬使用最高額度不超過60億元用於協定存款。額度有效期自2026年第七次臨時股東會審議透過之日起至2026年度股東會召開之日止。
-
----
-
-### 2026-08-04 20:42:41  #Trading Economics #Economy #United States #Imports #Importance 1
-
-US Imports Drop in June — US imports fell by $7.3 billion from the prior month, or 1.8%, to $388 billion in June 2026, marking the first drop since January. Imports of goods decreased $7.9 billion to $309.0 billion in June. Imports of goods on a Census basis fell $7.7 billion, led by lower purchases of capital goods (-$2.1 billion), particularly computers (-$3.0 billion), and consumer goods (-$2.1 billion), mainly pharmaceutical preparations (-$1.9 billion). These declines were partly offset by a $1.1 billion increase in telecommunications equipment imports.
-
----
-
-### 2026-08-04 20:42:27  #其他
-
-保爾森：前瞻性指引有著相當明確的含義。
-
----
-
-### 2026-08-04 20:42:07  #公司 #國際
-
-【麥當勞宣佈更換美國業務總裁】麥當勞8月4日宣佈，在公司擁有超26年工作經驗的Skye Anderson出任麥當勞美國總裁，即日起生效，接替已掌管麥當勞美國業務近7年的Joe Erlinger。麥當勞當日公佈財報顯示，二季度美國市場同店銷售額增長0.8%，為2025年年初以來最慢增速。
-
----
-
-### 2026-08-04 20:41:54  #公司
-
-【協創資料：繼續開展跨境雙向人民幣資金池業務 額度提至47億】協創資料公告稱，公司於2026年8月4日召開董事會，同意作為主辦企業在杭州銀行繼續開展跨境雙向人民幣資金池業務，並將資金池配套額度由不超18億元提升至不超47億元，額度在業務期限內可迴圈使用。該事項不構成關聯交易及重大資產重組，無需股東會審議。業務旨在提升資金使用效率，對公司無不利影響，但存在受宏觀等因素影響的風險。
-
----
-
-### 2026-08-04 20:41:42  #Trading Economics #Economy #Canada #Exports #Importance 2
-
-Canada Exports Rise to Fresh Record High — Canadian goods exports rose 0.4% month-over-month to a record CAD 77.5 billion in June 2026, marking a fifth consecutive monthly increase. Exports of metal and non-metallic mineral products jumped 16.5%, driven by a 27.9% surge in shipments of unwrought gold, silver, platinum group metals and their alloys, reflecting higher gold exports to the UK and stronger foreign demand. Exports of metal ores and non-metallic minerals also increased 7.3%, led by copper ores and concentrates (20%) and sulphur shipments. Meanwhile, exports of motor vehicles and parts rose 2.4% as higher domestic production lifted passenger car and light truck exports to their highest level since March 2025. These gains were largely offset by a 10% decline in energy product exports. Following a 4.6% increase in the first quarter, total exports advanced 13.1% in Q2, the strongest quarterly growth since the third quarter of 2020.
-
----
-
-### 2026-08-04 20:41:39  #央行 #國際
-
-美聯儲官員保爾森：若通脹未取得進展，美聯儲將需採取行動。
-
----
-
-### 2026-08-04 20:41:37  #MKT News #MCD.N #Impact bearish
-
-McDonald's (MCD.N) top executive said restaurant teams were overwhelmed by excessive deployments in Q2, reducing operating efficiency.
-
----
-
-### 2026-08-04 20:41:30  #央行 #國際
-
-美聯儲鮑爾森：透過供應衝擊看問題是正確的。
-
----
-
-### 2026-08-04 20:41:24  #其他
-
-保爾森：希望核心通脹取得更多進展。
-
----
-
-### 2026-08-04 20:41:11  #公司 #市場
-
-【通宇通訊：股價異常波動 提示多項投資風險】通宇通訊公告稱，公司股票在2026年7月31日、8月3日、8月4日連續三個交易日收盤價漲幅偏離值累計超20%，屬異常波動。公司最新滾動市盈率804.64，顯著高於行業的56.61。預計2026年半年度淨虧損2300 - 2700萬元，扣非後淨虧損4300 - 4800萬元。上半年衛星通訊板塊收入約1057.33萬元，佔比不到2%。公司提醒投資者注意交易、業績、業務拓展及投資佈局等風險。
-
----
-
-### 2026-08-04 20:40:56  #央行 #國際
-
-美聯儲官員保爾森：若通脹未取得進展，美聯儲將需採取行動。
-
----
-
-### 2026-08-04 20:40:36  #市場
-
-【Wayfair美股盤前漲超20%】Wayfair美股盤前漲超20%，現報107.5美元。
-
----
-
-### 2026-08-04 20:40:06  #央行 #國際
-
-美聯儲保爾森：聯邦公開市場委員會本次維持利率穩定的決定並非險勝。
-
----
-
-### 2026-08-04 20:39:55  #Trading Economics #Economy #United States #Balance of Trade #Importance 3
-
-US Trade Deficit Narrows in June — The US trade deficit narrowed to $73.3 billion in June 2026 from $77.6 billion in May, broadly in line with market expectations, as imports declined more sharply than exports. Over the first half of 2026, the cumulative trade gap narrowed to $371.2 billion, down from $560.5 billion during the same period a year earlier, suggesting that US trade flows are gradually normalizing following last year's tariff announcements and the front-loading of imports that preceded them. However, uncertainty surrounding US trade policy continues to cloud the outlook for global trade.
-
----
-
-### 2026-08-04 20:39:48  #央行 #國際
-
-美聯儲官員保爾森：對利率政策未來走向持開放態度。
-
----
-
-### 2026-08-04 20:39:17  #其他
-
-保爾森：經濟強勁，但通脹居高不下。
-
----
-
-### 2026-08-04 20:38:34  #央行 #國際
-
-美聯儲的保爾森：需要適度限制性的貨幣政策，美聯儲目前可能已具備這一條件。
-
----
-
-### 2026-08-04 20:38:13  #Trading Economics #Economy #Canada #Imports #Importance 1
-
-Canada Imports Hit Record High — Canada's goods imports rose 0.2% month over month to a record C$73.6 billion in June 2026, despite declines in 9 of the 11 major product categories. The increase was driven by an 11.7% jump in electronic and electrical equipment and parts, as imports of computers and computer peripherals surged 59% to a record high, largely reflecting higher purchases of processing units from the US. The gain more than offset declines in industrial machinery, equipment and parts (-3.3%), consumer goods (-1.3%), and metal ores and non-metallic minerals (-3.4%). Excluding electronic and electrical equipment and parts, total imports fell 1.3% in June.
 
 ---
