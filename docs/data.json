@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-08 21:08:45",
-  "count": 15831,
+  "updated": "2026-08-08 21:12:54",
+  "count": 15834,
   "items": [
+    {
+      "id": "5031987",
+      "time": "2026-08-08 21:09:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，船員已報平安，未對環境造成影響。"
+    },
+    {
+      "id": "5031986",
+      "time": "2026-08-08 21:09:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室（UKMTO）表示，已接到報告稱，阿曼哈薩卜以東18海里處發生一起安全事件。"
+    },
+    {
+      "id": "mkt:019fe17d-d32d-7aab-8fc4-8f10955d149f",
+      "time": "2026-08-08 21:09:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO said it had received a report of an incident 18 nautical miles east of Khasab, Oman."
+    },
     {
       "id": "5031983",
       "time": "2026-08-08 20:57:46",
