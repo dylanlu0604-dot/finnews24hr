@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-09 04:36:38",
-  "count": 15855,
+  "updated": "2026-08-09 04:40:28",
+  "count": 15856,
   "items": [
+    {
+      "id": "mkt:019fe319-1812-7aab-8fc6-977599d8c1e2",
+      "time": "2026-08-09 04:38:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Institution: US July CPI may show easing inflationary pressure】Markets expect US CPI, after June's -0.4% MoM, to rise 0.1% MoM in July. Core CPI ex-food and energy is forecast +0.2% MoM and +2.5% YoY, the smallest YoY gain since February. Following Friday's weak July nonfarm payrolls, slower inflation could help ease Fed inflation concerns; three officials voted to raise rates at the July 29 meeting. The report may show energy-price pressure has cooled after surging in the months following late‑February US‑Iran hostilities; retail gasoline fell to a near four‑month low in early July before rising above $4/gal by month‑end. It may also show airfares declined as jet‑fuel costs stabilized."
+    },
     {
       "id": "mkt:019fe30a-b873-7aab-8fc6-899e48078f13",
       "time": "2026-08-09 04:22:38",
