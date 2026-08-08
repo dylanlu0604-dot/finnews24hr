@@ -1,7 +1,20 @@
 {
   "date": "2026-08-09",
-  "count": 104,
+  "count": 105,
   "items": [
+    {
+      "id": "mkt:019fe350-838c-7aab-8fc6-ccd2041b766b",
+      "time": "2026-08-09 05:38:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "The Times reports the UK defence secretary said allies must step up support to help Ukraine through the winter."
+    },
     {
       "id": "mkt:019fe34a-7124-7aab-8fc6-c1e22213d297",
       "time": "2026-08-09 05:32:14",
