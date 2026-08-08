@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 19:28:16",
+  "updated": "2026-08-08 19:32:13",
   "count": 15826,
   "items": [
+    {
+      "id": "5031942",
+      "time": "2026-08-08 19:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉克齊稱，霍爾木茲海峽原航道分道通航制不再為德黑蘭所接受，需要開闢新航道。"
+    },
+    {
+      "id": "5031941",
+      "time": "2026-08-08 19:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長表示，重新開放霍爾木茲海峽取決於其他條件，其中包括就美國違反《伊斯蘭堡諒解備忘錄》作出賠償。"
+    },
     {
       "id": "mkt:019fe11f-f389-7aab-8fc3-d6720a010147",
       "time": "2026-08-08 19:26:35",
@@ -144193,28 +144209,6 @@
         "公司"
       ],
       "text": "【青海格爾木20兆瓦飛輪儲能專案開工建設】由中國綠髮投資集團有限公司青海分公司負責建設的20兆瓦飛輪儲能專案，8月1日在青海省海西蒙古族藏族自治州格爾木市開工建設，這個專案採用多型別飛輪協同技術，可實現毫秒級響應，建成後將助推我國新型儲能多元化、高質量發展。"
-    },
-    {
-      "id": "5020412",
-      "time": "2026-08-01 19:30:11",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【高至2萬美元 美簽證保證金將漲價並長期化】美國《聯邦政府紀事》7月31日以線上方式釋出公告說，美國國務院將把面向部分國家公民的簽證保證金制度長期化，50個國家的公民面臨高達2萬美元保證金。公告說，這項規定適用於以商務或旅遊為目的申請美國B1、B2類簽證的人員。領事官員可根據具體情況，將繳納保證金作為發放簽證的條件。新規將於8月3日在《聯邦政府紀事》正式刊登時生效。適用該制度的50個國家中有30個在非洲。（新華社）"
-    },
-    {
-      "id": "mkt:019fbd16-3d71-7aab-8f42-11cdf0e83a9c",
-      "time": "2026-08-01 19:29:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. embassy in Jordan warns Middle East tensions may escalate】On Aug. 1 the U.S. embassy in Jordan issued a security alert saying regional security remains complex and could further escalate. It advised U.S. citizens in the Middle East to remain vigilant and prepare for possible flight cancellations, temporary airspace closures and travel disruptions; those outside the region should reconsider travel or transit through the area. The embassy also urged U.S. citizens to avoid U.S. military bases in Jordan and areas with heavy security deployments."
     }
   ]
 }
