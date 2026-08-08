@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 04:40:28_
-_本檔包含 3146 則快訊，約 596967 字_
+_更新時間：2026-08-09 05:43:02_
+_本檔包含 3157 則快訊，約 597212 字_
+
+---
+
+### 2026-08-07 10:32:30  #市場 #焦點
+
+PTA連續主力合約日內漲3%，現報5832.00元。
+
+---
+
+### 2026-08-07 10:32:29  #市場 #焦點
+
+聚丙烯連續主力合約日內漲2%，現報8149.00元。
+
+---
+
+### 2026-08-07 10:32:18  #其他
+
+【前7個月我國出口機電產品11.12萬億元，增長21.2%】海關總署資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。（央視新聞）
+
+---
+
+### 2026-08-07 10:31:55  #市場
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-08-07 10:31:43  #市場
+
+滬深300指數上漲1%至4,697.91點。
+
+---
+
+### 2026-08-07 10:31:31  #其他
+
+【周新群已任中央政策研究室副主任】據“閩東日報”訊息，8月5日，中央黨的建設工作領導小組秘書組2026年聯絡點工作暨課題研究成果交流座談會在寧德召開。中央黨的建設工作領導小組秘書組組長、中央政策研究室主任唐方裕就樹立和踐行正確政績觀談了認識體會，同大家交流。福建省委副書記、福州市委書記郭寧寧致辭，交流了黨建工作經驗。中央政策研究室副主任周新群主持。福建省委常委、組織部部長苗延紅，天津市委常委、濱海新區區委書記連茂君和寧德市委領匯出席。上述訊息顯示，周新群已任中央政策研究室副主任。公開報道顯示，周新群曾任中央黨的建設工作領導小組秘書組副局長，中央政策研究室黨建研究局局長等職。（白鷺洲知政）
+
+---
+
+### 2026-08-07 10:31:13  #市場 #焦點
+
+中證500指數期貨連續主力合約日內漲1%，現報7808.00點。
+
+---
+
+### 2026-08-07 10:31:08  #經濟數據 #中國
+
+【超30萬億元！今年前7月我國貨物貿易進出口延續增長態勢】海關總署今天公佈統計資料顯示，今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。
+
+---
+
+### 2026-08-07 10:31:07  #經濟數據 #日本
+
+【日本二季度三次干預未改日元貶值趨勢】日本財務省7日公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元長期貶值趨勢。
+
+---
+
+### 2026-08-07 10:31:05  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報141800元/噸，較上日16:30價格持平。
+
+---
+
+### 2026-08-07 10:30:52  #宏觀 #資料 #焦點
+
+【超30萬億元！今年前7月我國貨物貿易進出口延續增長態勢】海關總署今天公佈統計資料顯示，今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。
+
+---
+
+### 2026-08-07 10:30:46  #經濟數據 #日本
+
+【日本實際家庭消費連續7個月同比下滑】日本總務省7日公佈的調查結果顯示，日本家庭消費持續疲軟，6月實際家庭消費支出同比、環比均出現下滑，已連續第7個月同比下滑。
+
+---
+
+### 2026-08-07 10:30:33  #宏觀
+
+【遏制非法新增！市場監管總局完善食用植物油人工增香物質檢驗技術】為築牢食品安全防線，有力打擊食用植物油非法新增行為，近日，市場監管總局釋出《食品補充檢驗方法 食用植物油中乙基麥芽酚的測定》（BJS202604）。 食用植物油是群眾日常膳食的必需品，其質量安全直接關係群眾身體健康和民生福祉。乙基麥芽酚是人工合成的食品增香新增劑，長期攝入違規新增的乙基麥芽酚，存在食品安全風險。根據我國食品新增劑使用標準規定，乙基麥芽酚嚴禁在食用植物油中新增使用。但是，在高額利益驅動下，不法商家在劣質植物油、過期翻新油脂中非法新增乙基麥芽酚，掩蓋油脂氧化變質產生的哈喇異味，偽造芝麻油、花生油等高階油品的醇厚香氣，達到以次充好、以假亂真，獲取高額不法收益的目的。新發布的補充檢驗方法最佳化了檢測流程，適配大豆油、花生油、芝麻油等主流食用植物油品類，具備檢出限低、抗干擾性強、結果穩定可靠的優勢，可實現對乙基麥芽酚的精準定性與定量檢測。 下一步，市場監管部門將強化方法應用，嚴厲打擊食用植物油非法新增、摻雜摻假違法行為，倒逼生產經營者落實食品安全主體責任，守護人民群眾“舌尖上的安全”。
+
+---
+
+### 2026-08-07 10:30:04  #公司 #國際
+
+馬來西亞航空公司將在近期發生毒品事件後對所有飛行員進行強制性藥物篩查。
+
+---
+
+### 2026-08-07 10:29:35  #國際
+
+菲律賓經濟部長：通貨膨脹將繼續呈下降趨勢。
+
+---
+
+### 2026-08-07 10:28:33  #國際
+
+菲律賓經濟部長：若我們的公共建築工程能實現零增長，經濟增速本可再提高1個百分點。
+
+---
+
+### 2026-08-07 10:26:51  #市場
+
+【港股光通訊股多數走強 海光芯正漲超12%】截至發稿，海光芯正(01191.HK)漲12.27%，劍橋科技(6166.HK)漲7.29%，中際旭創(03308.HK)漲5.82%。
+
+---
+
+### 2026-08-07 10:26:45  #市場
+
+港股大模型概念股持續拉昇，MINIMAX-W、智譜雙雙漲超15%。
+
+---
+
+### 2026-08-07 10:25:26  #市場 #國際
+
+【上證50股指期貨(IH)主力合約日內漲超1%】上證50股指期貨(IH)主力合約日內漲超1%，現報2920.4點。
+
+---
+
+### 2026-08-07 10:24:56  #公司
+
+【中電鑫龍簽約淮安漣水國際機場航站區改擴建專案】據中電鑫龍訊息，近日，中電鑫龍簽訂淮安漣水國際機場航站區改擴建工程專案合同。此次合作，公司將為新建T2航站樓提供高品質的智慧型低壓配電成套裝置。
+
+---
+
+### 2026-08-07 10:24:50  #公司 #市場
+
+【PCB概念持續走高 方邦股份等十餘股漲停】PCB概念盤中持續擴大漲幅，方邦股份20cm漲停，此前一博科技、華正新材寶鼎科技、紅板科技等多股漲停，生益科技、方正科技逼近漲停，銅冠銅箔、威爾高、逸豪新材均漲超10%。
+
+---
+
+### 2026-08-07 10:24:45  #國際
+
+菲律賓經濟部長：我們目前經歷的緩慢增長只是過渡階段。
+
+---
+
+### 2026-08-07 10:24:11  #其他
+
+Anthropic：Fable 不可用於專業藥物研發。
+
+---
+
+### 2026-08-07 10:23:47  #其他
+
+Anthropic：醫療行業專業人士將獲得更多 Fable 5 技術支援。
+
+---
+
+### 2026-08-07 10:23:28  #其他
+
+Anthropic：Fable 5 版本的調整大幅降低誤報。
+
+---
+
+### 2026-08-07 10:23:23  #市場 #焦點
+
+創業板指漲2％，上證指數漲0.32％，深證成指漲1.26％。PCB概念、CRO概念、CPO板塊漲幅居前。
+
+---
+
+### 2026-08-07 10:22:53  #其他
+
+Anthropic：Fable 5 使用者現在遇到回退攔截的情況將會減少 。
+
+---
+
+### 2026-08-07 10:22:26  #其他
+
+Anthropic：將 Fable 5 生物學相關回退觸發量削減約 85%。
+
+---
+
+### 2026-08-07 10:21:55  #其他
+
+Anthropic：改進Fable 5 模型的生物學安全防護機制。
+
+---
+
+### 2026-08-07 10:21:54  #Trading Economics #Economy #Australia #Government Bond 10Y #Importance 1
+
+AUS 10Y Yield Rises Toward Multi-Week Highs — Australia’s 10-year government bond yield rose around 5%, moving toward multi-week highs as renewed tensions in the Middle East revived inflation concerns. Oil prices climbed following reports of Iranian attacks in the Strait of Hormuz and a lack of clarity on an agreement to reopen the crucial waterway. Tehran is seeking to restrict US and Israeli vessels from using the waterway while demanding compensation from countries it considers hostile. Higher energy prices reignited inflation concerns and reinforced expectations that global interest rates could remain higher for longer. In Australia, after three rate hikes this year, markets are pricing in virtually no chance of a rate increase at the Reserve Bank's policy meeting next week following softer-than-expected second-quarter inflation data. Investors are also assigning little chance of a move in September, while pricing roughly a 60% probability of a rate hike in November if third-quarter inflation proves stronger than expected.
 
 ---
 
@@ -18883,119 +19063,5 @@ Canadian Prime Minister Carney said the government will invest CAD 2.7 bln over 
 ### 2026-08-06 02:31:23  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran deputy foreign minister: new Strait of Hormuz arrangements will close temporary transit lanes】Iran deputy foreign minister Gharibabadi said on the 5th the United States contacted Tehran 4–5 days after a new round of conflict began, seeking to resolve the issue through negotiations. He said arrangements for the Strait of Hormuz should be negotiated only between Iran and Oman and that Iran will not accept external involvement. Under the new arrangements, existing temporary transit lanes in the strait will be closed and a substantial share of vessel transits will in future pass through Iranian territorial waters.
-
----
-
-### 2026-08-06 02:31:22  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
-
-【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 3.58% to 928 yuan/gram; SHFE silver main contract rose 3.72% to 15,260 yuan/kg; SC crude main contract fell 0.58% to 510 yuan/barrel.
-
----
-
-### 2026-08-06 02:31:21  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange evening session Aug 5: Gold T+D closed up 3.4% at 925.64 yuan/gram; Silver T+D closed up 3.11% at 15,187 yuan/kg.
-
----
-
-### 2026-08-06 02:30:49  #市場 #國際
-
-美國原油期貨結算價報每桶75.22美元，下跌55美分，跌幅0.73%。
-
----
-
-### 2026-08-06 02:30:23  #焦點 #國際
-
-【伊朗副外長：霍爾木茲海峽新安排將關閉臨時航道】伊朗外交部副部長加里布阿巴迪5日表示，美國在新一輪衝突爆發4至5天后，曾向伊朗傳遞資訊，希望透過談判解決相關問題。他強調，霍爾木茲海峽相關安排應僅由伊朗和阿曼協商決定，伊方絕不接受任何外部勢力介入。根據新的安排，目前海峽內的臨時航道將被關閉，今後相當一部分船舶的進出航線將經過伊朗領海。
-
----
-
-### 2026-08-06 02:30:10  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Increases by 2.65% — Top crypto gainers are Ether (2.65%), Binance (1.24%) and Bitcoin (0.96%).
-
----
-
-### 2026-08-06 02:30:02  #市場
-
-上期所原油期貨夜盤收跌0.58%，報510.00元人民幣/桶。滬金夜盤收漲3.58%，滬銀收漲3.72%。
-
----
-
-### 2026-08-06 02:25:10  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Butter Surges by 5.20% — Top commodity gainers are Butter (5.20%) and Rubber (2.80%). Biggest loser is Lumber (-1.53%).
-
----
-
-### 2026-08-06 02:23:42  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Houthi armed group spokesman said its forces are closely monitoring movements of all Saudi oil tankers and will not allow any vessel to pass.
-
----
-
-### 2026-08-06 02:21:42  #國際
-
-美國參議院正就埃麗卡·施瓦茨出任美國疾控中心主任一職舉行確認投票。
-
----
-
-### 2026-08-06 02:20:10  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Silver Rises by 4.43% — Top commodity gainers are Silver (4.43%), Gold (4.39%) and Copper (1.64%).
-
----
-
-### 2026-08-06 02:19:01  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
-
-【Microsoft says OpenAI drove majority of AI revenue; OpenAI sales $24.1 bln in fiscal year】Microsoft disclosed most of its AI revenue came from OpenAI, reporting $24.1 bln in sales from OpenAI in the fiscal year ended June (MSFT.O). CEO NADELLA had said AI business revenue could reach about $37 bln on a full-year basis as of the end of the March quarter. The filing implies OpenAI accounted for more than half—and possibly roughly 70%—of Microsoft’s AI sales in the most recent fiscal year. Under the companies’ agreement OpenAI pays Microsoft for compute, AI model development costs and shares part of revenue.
-
----
-
-### 2026-08-06 02:18:24  #國際
-
-【俄中選委主席：全力保障國家杜馬選舉安全】俄羅斯中央選舉委員會主席帕姆菲洛娃5日在克里姆林宮向俄總統普京彙報工作時表示，俄中選委已做好準備，將全力保障今年秋季舉行的俄國家杜馬（議會下院）選舉安全。（新華社）
-
----
-
-### 2026-08-06 02:18:10  #其他
-
-葉門胡塞武裝發言人：我方部隊正嚴密監控沙特油輪的全部動向，不會允許任何此類船隻通行。
-
----
-
-### 2026-08-06 02:17:47  #國際
-
-波音：美國空軍授予波音一份7500萬美元未最終定價合同，採購BSU‑111/B彈藥投放元件（遠端型聯合直接攻擊彈藥JDAM‑LR）。
-
----
-
-### 2026-08-06 02:15:41  #MKT News #Important
-
-Yemen's Houthi forces said they attacked a Saudi oil tanker in the Gulf of Aden; Saudi authorities have not yet confirmed the report.
-
----
-
-### 2026-08-06 02:15:10  #其他
-
-葉門胡塞武裝稱，其在亞丁灣使用彈道導彈襲擊沙特油輪“黛西號”，迫使該船返航。
-
----
-
-### 2026-08-06 02:15:10  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Germany Natural Gas THE Slumps by 5.86% — Top commodity losers are Germany Natural Gas THE (-5.86%), Natural Gas EU (-4.72%), Natural Gas UK (-4.19%) and Crude Oil WTI (-0.73%). Gains are led by Coking Coal (1.18%), Heating Oil (1.04%) and Brent Crude Oil (0.07%).
-
----
-
-### 2026-08-06 02:15:04  #其他
-
-葉門胡塞武裝稱其在亞丁灣襲擊了一艘沙特石油船隻，沙特方面尚未確認這一訊息。
-
----
-
-### 2026-08-06 02:14:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says Strait of Hormuz won’t reopen until U.S. lifts maritime blockade, even if agreement with Oman reached】Iran said the Strait of Hormuz will only reopen to shipping after the U.S. ends its maritime blockade of Iranian ports, even if Tehran and Oman reach an agreement. The foreign ministry said Iran and Oman have agreed on shipping lanes through the strait and are finalizing arrangements for joint management. Iranian officials stressed reopening depends on the U.S. fulfilling its commitment to end the blockade, saying insecurity in the strait stems from U.S. maritime actions and other aggressive measures against Iran and its interests.
 
 ---

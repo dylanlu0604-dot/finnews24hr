@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 04:40:28_
-_本檔包含 3429 則快訊，約 596322 字_
+_更新時間：2026-08-09 05:43:02_
+_本檔包含 3430 則快訊，約 597435 字_
+
+---
+
+### 2026-08-06 02:31:22  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI #Impact bearish
+
+【Night session main contracts close】At the 02:30 night-session close, SHFE gold main contract rose 3.58% to 928 yuan/gram; SHFE silver main contract rose 3.72% to 15,260 yuan/kg; SC crude main contract fell 0.58% to 510 yuan/barrel.
+
+---
+
+### 2026-08-06 02:31:21  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange evening session Aug 5: Gold T+D closed up 3.4% at 925.64 yuan/gram; Silver T+D closed up 3.11% at 15,187 yuan/kg.
+
+---
+
+### 2026-08-06 02:30:49  #市場 #國際
+
+美國原油期貨結算價報每桶75.22美元，下跌55美分，跌幅0.73%。
+
+---
+
+### 2026-08-06 02:30:23  #焦點 #國際
+
+【伊朗副外長：霍爾木茲海峽新安排將關閉臨時航道】伊朗外交部副部長加里布阿巴迪5日表示，美國在新一輪衝突爆發4至5天后，曾向伊朗傳遞資訊，希望透過談判解決相關問題。他強調，霍爾木茲海峽相關安排應僅由伊朗和阿曼協商決定，伊方絕不接受任何外部勢力介入。根據新的安排，目前海峽內的臨時航道將被關閉，今後相當一部分船舶的進出航線將經過伊朗領海。
+
+---
+
+### 2026-08-06 02:30:10  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Increases by 2.65% — Top crypto gainers are Ether (2.65%), Binance (1.24%) and Bitcoin (0.96%).
+
+---
+
+### 2026-08-06 02:30:02  #市場
+
+上期所原油期貨夜盤收跌0.58%，報510.00元人民幣/桶。滬金夜盤收漲3.58%，滬銀收漲3.72%。
+
+---
+
+### 2026-08-06 02:25:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Butter Surges by 5.20% — Top commodity gainers are Butter (5.20%) and Rubber (2.80%). Biggest loser is Lumber (-1.53%).
+
+---
+
+### 2026-08-06 02:23:42  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Houthi armed group spokesman said its forces are closely monitoring movements of all Saudi oil tankers and will not allow any vessel to pass.
+
+---
+
+### 2026-08-06 02:21:42  #國際
+
+美國參議院正就埃麗卡·施瓦茨出任美國疾控中心主任一職舉行確認投票。
+
+---
+
+### 2026-08-06 02:20:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Rises by 4.43% — Top commodity gainers are Silver (4.43%), Gold (4.39%) and Copper (1.64%).
+
+---
+
+### 2026-08-06 02:19:01  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #MSFT.O #Impact bullish
+
+【Microsoft says OpenAI drove majority of AI revenue; OpenAI sales $24.1 bln in fiscal year】Microsoft disclosed most of its AI revenue came from OpenAI, reporting $24.1 bln in sales from OpenAI in the fiscal year ended June (MSFT.O). CEO NADELLA had said AI business revenue could reach about $37 bln on a full-year basis as of the end of the March quarter. The filing implies OpenAI accounted for more than half—and possibly roughly 70%—of Microsoft’s AI sales in the most recent fiscal year. Under the companies’ agreement OpenAI pays Microsoft for compute, AI model development costs and shares part of revenue.
+
+---
+
+### 2026-08-06 02:18:24  #國際
+
+【俄中選委主席：全力保障國家杜馬選舉安全】俄羅斯中央選舉委員會主席帕姆菲洛娃5日在克里姆林宮向俄總統普京彙報工作時表示，俄中選委已做好準備，將全力保障今年秋季舉行的俄國家杜馬（議會下院）選舉安全。（新華社）
+
+---
+
+### 2026-08-06 02:18:10  #其他
+
+葉門胡塞武裝發言人：我方部隊正嚴密監控沙特油輪的全部動向，不會允許任何此類船隻通行。
+
+---
+
+### 2026-08-06 02:17:47  #國際
+
+波音：美國空軍授予波音一份7500萬美元未最終定價合同，採購BSU‑111/B彈藥投放元件（遠端型聯合直接攻擊彈藥JDAM‑LR）。
+
+---
+
+### 2026-08-06 02:15:41  #MKT News #Important
+
+Yemen's Houthi forces said they attacked a Saudi oil tanker in the Gulf of Aden; Saudi authorities have not yet confirmed the report.
+
+---
+
+### 2026-08-06 02:15:10  #其他
+
+葉門胡塞武裝稱，其在亞丁灣使用彈道導彈襲擊沙特油輪“黛西號”，迫使該船返航。
+
+---
+
+### 2026-08-06 02:15:10  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Slumps by 5.86% — Top commodity losers are Germany Natural Gas THE (-5.86%), Natural Gas EU (-4.72%), Natural Gas UK (-4.19%) and Crude Oil WTI (-0.73%). Gains are led by Coking Coal (1.18%), Heating Oil (1.04%) and Brent Crude Oil (0.07%).
+
+---
+
+### 2026-08-06 02:15:04  #其他
+
+葉門胡塞武裝稱其在亞丁灣襲擊了一艘沙特石油船隻，沙特方面尚未確認這一訊息。
+
+---
+
+### 2026-08-06 02:14:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says Strait of Hormuz won’t reopen until U.S. lifts maritime blockade, even if agreement with Oman reached】Iran said the Strait of Hormuz will only reopen to shipping after the U.S. ends its maritime blockade of Iranian ports, even if Tehran and Oman reach an agreement. The foreign ministry said Iran and Oman have agreed on shipping lanes through the strait and are finalizing arrangements for joint management. Iranian officials stressed reopening depends on the U.S. fulfilling its commitment to end the blockade, saying insecurity in the strait stems from U.S. maritime actions and other aggressive measures against Iran and its interests.
 
 ---
 
@@ -20569,113 +20683,5 @@ WTI原油日內跌6%，現報75.51美元/桶。
 ### 2026-08-04 23:37:10  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
 
 European equities closed higher on Aug 4 (Tuesday): Germany’s DAX up 177.52 points (0.68%) at 26,213.35; UK’s FTSE 100 up 23.54 points (0.22%) at 10,881.24; France’s CAC 40 up 52.81 points (0.61%) at 8,666.63; Euro Stoxx 50 up 60.85 points (0.95%) at 6,487.35; Spain’s IBEX 35 up 40.62 points (0.20%) at 20,023.22; Italy’s FTSE MIB up 674.28 points (1.28%) at 53,546.00.
-
----
-
-### 2026-08-04 23:36:46  #其他
-
-馬拉松石油：隨著颶風季與裝置檢修季臨近，預計短期煉油市場波動將進一步加劇。
-
----
-
-### 2026-08-04 23:36:01  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
-
-Brent crude touched $79/bbl, down 4.91% on the day.
-
----
-
-### 2026-08-04 23:33:18  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-U.S. 6-week Treasury auction on Aug. 4 — bid-cover ratio 2.93, prior 2.93.
-
----
-
-### 2026-08-04 23:33:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
-
-U.S. 6-week Treasury auction through Aug. 4 — 79.36% of allotment awarded at the stop-out rate, prior 82.07%.
-
----
-
-### 2026-08-04 23:33:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. 6-week Treasury auction on Aug. 4 — stop-out yield 3.64%, prior 3.70%.
-
----
-
-### 2026-08-04 23:32:49  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 1-year Treasury auction on Aug 4: bid-cover ratio 3.62, prior 3.14.
-
----
-
-### 2026-08-04 23:32:47  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 1-year Treasury auction on Aug. 4 — allocation at the awarded yield 12.98%, prior 17.61%.
-
----
-
-### 2026-08-04 23:32:46  #國際
-
-馬拉松石油：汽油、柴油及航空煤油需求依舊保持韌性；美國 6 月航空煤油需求創下歷史新高。
-
----
-
-### 2026-08-04 23:32:39  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction Bid/Cover Ratio (Aug.4) | actual 3.62 | previous 3.14
-
----
-
-### 2026-08-04 23:32:36  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. 1-year Treasury auction on Aug. 4 — stop-out yield 3.88% vs 3.86% previo usly.
-
----
-
-### 2026-08-04 23:32:34  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction Accepted at High (Aug.4) | actual 12.98% | previous 17.61%
-
----
-
-### 2026-08-04 23:32:31  #宏觀 #市場 #國際
-
-美國財政部拍賣六週期國債，得標利率3.640%，投標倍數2.93。拍賣52週期國債，得標利率3.880%，投標倍數3.62。
-
----
-
-### 2026-08-04 23:32:24  #MKT News #Economic Calendar
-
-United States | 12-Month Bill Auction High Yield Rate (Aug.4) | actual 3.88% | previous 3.86%
-
----
-
-### 2026-08-04 23:31:23  #市場
-
-【銥價暴漲遠超黃金價格】據央視財經，今年以來，鉑族金屬市場走出極端分化行情。雖然全系品種都貨源緊張、存在供需缺口，但走勢完全割裂：鉑金、鈀金等傳統工業金屬大起大落、大幅回撥；而金屬銥逆勢大漲，價格一路走高，成為今年貴金屬市場的最大黑馬。貴金屬“銥”，擁有超過2400攝氏度的超高熔點，且抗腐蝕效能優異，是極少數能在2000攝氏度以上保持穩定的貴金屬。所以即便價格昂貴，銥坩堝依然是眾多超高溫特種晶體難以替代的“孵化器”。相關人士表示：“目前銥的價格還是比較高，達到2000元/克，遠超過黃金價格。”業內人士表示，AI、新能源等產業的快速發展正在為銥帶來新的需求增長。受此影響，今年以來，銥的價格快速上漲。根據國際貴金屬市場重要參考平臺莊信萬豐資料，銥價在去年12月31日的價格為4510.71美元每金衡盎司，到今年8月4日為7850美元每金衡盎司，漲幅超過70%。
-
----
-
-### 2026-08-04 23:30:50  #其他
-
-德國DAX 30指數初步收漲0.80%，報26209.07點。法國股指初步收漲0.38%，義大利股指初步收漲1.18%、銀行指數漲1.59%，英國股指初步收漲0.28%。
-
----
-
-### 2026-08-04 23:30:47  #MKT News
-
-Cape Town International Airport said a Kenya Airways aircraft has malfunctioned on the runway and is immobile; all inbound flights are being diverted to alternate airports. Domestic departures continue to operate; international departures are temporarily suspended.
-
----
-
-### 2026-08-04 23:30:45  #市場 #國際
-
-歐洲STOXX 600指數初步收漲0.75%，報656.92點，創收盤歷史新高。歐元區STOXX 50指數初步收漲0.89%，報6484.37點，創收盤歷史新高。富時泛歐績優300指數初步收漲0.80%，報2625.83點。
-
----
-
-### 2026-08-04 23:30:07  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: Brazil 10Y Bond Yield Falls by 10 bps — Majority of government bonds yields are lower on Tuesday. Top losers are Brazil 10Y (-10bps), US 10Y (-3.60bps) and Germany 10Y (-3.46bps). Gains are led by Japan 10Y (3.06bps).
 
 ---

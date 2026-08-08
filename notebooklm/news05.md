@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 04:40:28_
-_本檔包含 2830 則快訊，約 596323 字_
+_更新時間：2026-08-09 05:43:02_
+_本檔包含 2829 則快訊，約 597097 字_
+
+---
+
+### 2026-08-03 21:28:30  #MKT News #Market Regions #Europe & UK
+
+Ukraine's Dnipro regional military administration said a Russian strike on the Dnipro region set a food warehouse on fire.
+
+---
+
+### 2026-08-03 21:27:35  #國際
+
+烏克蘭方面訊息：地區軍事管理局稱，俄軍襲擊第聶伯，多處食品倉庫起火。
+
+---
+
+### 2026-08-03 21:26:03  #其他
+
+【中工國際成功簽署烏干達飲料廠專案合同】據中工國際訊息，近日，中工國際成功簽約並生效烏干達飲料廠專案商務合同。專案為水果加工廠改擴建工程，涵蓋工程施工、裝置供貨、安裝除錯等全流程一體化建設內容。烏干達水果資源豐富、品類繁多，專案建成投產後，可實現每小時1萬瓶果汁的規模化產能。
+
+---
+
+### 2026-08-03 21:25:57  #宏觀 #公司
+
+【江蘇無錫新吳區通報牛蛙涉抗生素超標：上游供應商庫存快檢陰性】江蘇無錫高新區（新吳區）市場監管局、無錫高新區（新吳區）農業農村局8月3日釋出情況通報，全文如下：8月3日上午，我區關注到有媒體報道全國多地牛蛙產品涉嫌抗生素超標問題，其中提及我區瑞勝食品（無錫）有限公司。對此，我區高度重視，第一時間成立調查組，趕赴涉事企業開展全面現場核查。經查，該企業從事水產品和食用農產品銷售等業務，現場未發現牛蛙及牛蛙製品庫存成品。調查組立即開展鏈上追溯，對上游供應商單位進行排查檢查，並對上游供應商鮮活牛蛙庫存進行快檢和抽樣檢測，快檢結果均為陰性，相關情況正在深入調查中，調查組將依據抽樣檢測結果，依法依規嚴肅處理。同時，根據上級專項部署，在全區持續深入開展專項排查，嚴厲打擊涉牛蛙產品違法行為，堅決維護消費者合法權益。（新吳監管）
+
+---
+
+### 2026-08-03 21:25:05  #其他
+
+美軍中央司令部發言人：我方部隊保持高度警惕，並已做好隨時執行任何指派任務的準備。
+
+---
+
+### 2026-08-03 21:24:13  #公司
+
+【新一代大模型公司西湖心辰完成B+輪融資，由西湖大學博導藍振忠創立】新一代大模型公司西湖心辰8月3日宣佈，公司近日完成B+輪融資，融資金額達數億元人民幣，由廣發信德領投，西湖創新投、武漢江豚基金、容億投資、南通投管等多家機構跟投，58產業基金等產業資本參與，老股東螞蟻集團、湯姆貓提供全面支援。融資資金將主要用於新一代擴散語言模型的持續研發、旗下原生多模態實時互動產品的深度迭代，以及海外市場的進一步拓展。（澎湃）
+
+---
+
+### 2026-08-03 21:23:57  #Trading Economics #Markets #Commodity #Importance 1
+
+Cocoa Rises to Over 2-Week High — Cocoa prices climbed above $5,700 per tonne, their highest level since July 15, after Ghana projected a sharp decline in cocoa production for the 2026/27 season. Market regulator COCOBOD expects output to fall by at least 16%, citing unfavorable weather, the cocoa tree's natural alternating yield cycle, disease, ageing plantations and illegal gold mining. Supply concerns were reinforced by expectations of a more than 10% decline in Ivory Coast's production next season. While crop prospects remain generally favorable, farmers said more sunshine and timely fertilizer and pesticide applications are needed, warning that excessive rainfall later in the season could increase disease risks and further tighten global cocoa supplies.
 
 ---
 
@@ -17041,53 +17083,5 @@ Hungary will fully shut down the Paks nuclear power plant on Sunday, the prime m
 ### 2026-08-02 05:43:23  #MKT News
 
 Turkey's foreign minister said today he spoke with Iranian foreign minister Araghchi to discuss the latest progress in US-Iran negotiations; Turkey will continue efforts to end regional conflict and build a lasting peace.
-
----
-
-### 2026-08-02 05:36:55  #國際
-
-土耳其外長：與伊朗外長阿拉格齊通電話。會談中雙方探討了當前（美伊）談判程序的最新態勢。土耳其將繼續付出努力，結束本地區衝突，構建持久和平。
-
----
-
-### 2026-08-02 05:27:09  #國際
-
-【伊朗外交部：將繼續抵抗直至消除敵人威脅】伊朗外交部當地時間8月1日發表宣告稱，伊朗決心繼續走抵抗與堅守之路，直至徹底消除敵人的惡行。宣告表示，當前，美國繼續違反6月18日美伊諒解備忘錄的相關條款，持續對伊朗港口和商船實施海上封鎖，並不斷對伊朗各地發動野蠻襲擊，加大經濟施壓和非法威脅，持續對伊朗實施侵略。作為回應，伊朗武裝部隊的防禦性打擊仍在全力持續進行。
-
----
-
-### 2026-08-02 05:16:40  #其他
-
-【新一輪熱浪襲擊克羅埃西亞 多地發生野火】克羅埃西亞近日遭受新一輪熱浪襲擊，紅色高溫預警1日覆蓋亞得里亞海沿岸和首都薩格勒布等地，普拉等地當天發生多起野火。克國家水文氣象局網站上的資訊顯示，亞得里亞海沿岸和薩格勒布等多地處於紅色高溫預警狀態，另有一些地區處於次一級的橙色高溫預警中。根據氣象預測，高溫天氣要持續到下週。
-
----
-
-### 2026-08-02 05:08:50  #其他
-
-市場資訊：ColdCard硬體錢包遇駭客入侵，被盜比特幣價值超8800萬美元。
-
----
-
-### 2026-08-02 05:04:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Lebanese national news agency reported Israeli forces opened fire in the Bint Jbeil area of southern Lebanon.
-
----
-
-### 2026-08-02 04:47:59  #其他
-
-伊拉克總理辦公室：伊拉克武裝部隊隨時待命，挫敗所有針對鄰國的襲擊圖謀；伊拉克再次重申承諾，絕不允許本國領土成為襲擊行動的發起據點或中轉通道，同時恪守國家主權、睦鄰友好原則與國際法。
-
----
-
-### 2026-08-02 04:46:37  #MKT News #Market Themes #The Trump Trade #DWAC.O #Impact bullish
-
-Trump's media company launched Truth API, a paid service granting subscribers earlier real‑time access to Truth Social posts than ordinary users. Monthly fee up to $100,000, marketed primarily to trading firms and corporations.
-
----
-
-### 2026-08-02 04:45:40  #市場 #焦點
-
-布倫特原油暗盤突破91美元，日內漲超3.8%。
 
 ---

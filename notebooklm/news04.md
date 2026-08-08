@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 04:40:28_
-_本檔包含 3309 則快訊，約 596758 字_
+_更新時間：2026-08-09 05:43:02_
+_本檔包含 3320 則快訊，約 597143 字_
+
+---
+
+### 2026-08-04 23:36:46  #其他
+
+馬拉松石油：隨著颶風季與裝置檢修季臨近，預計短期煉油市場波動將進一步加劇。
+
+---
+
+### 2026-08-04 23:36:01  #MKT News #Important #Commodities #Energy #Brent #Impact bearish
+
+Brent crude touched $79/bbl, down 4.91% on the day.
+
+---
+
+### 2026-08-04 23:33:18  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+U.S. 6-week Treasury auction on Aug. 4 — bid-cover ratio 2.93, prior 2.93.
+
+---
+
+### 2026-08-04 23:33:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish
+
+U.S. 6-week Treasury auction through Aug. 4 — 79.36% of allotment awarded at the stop-out rate, prior 82.07%.
+
+---
+
+### 2026-08-04 23:33:01  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
+
+U.S. 6-week Treasury auction on Aug. 4 — stop-out yield 3.64%, prior 3.70%.
+
+---
+
+### 2026-08-04 23:32:49  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 1-year Treasury auction on Aug 4: bid-cover ratio 3.62, prior 3.14.
+
+---
+
+### 2026-08-04 23:32:47  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 1-year Treasury auction on Aug. 4 — allocation at the awarded yield 12.98%, prior 17.61%.
+
+---
+
+### 2026-08-04 23:32:46  #國際
+
+馬拉松石油：汽油、柴油及航空煤油需求依舊保持韌性；美國 6 月航空煤油需求創下歷史新高。
+
+---
+
+### 2026-08-04 23:32:39  #MKT News #Economic Calendar
+
+United States | 12-Month Bill Auction Bid/Cover Ratio (Aug.4) | actual 3.62 | previous 3.14
+
+---
+
+### 2026-08-04 23:32:36  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. 1-year Treasury auction on Aug. 4 — stop-out yield 3.88% vs 3.86% previo usly.
+
+---
+
+### 2026-08-04 23:32:34  #MKT News #Economic Calendar
+
+United States | 12-Month Bill Auction Accepted at High (Aug.4) | actual 12.98% | previous 17.61%
+
+---
+
+### 2026-08-04 23:32:31  #宏觀 #市場 #國際
+
+美國財政部拍賣六週期國債，得標利率3.640%，投標倍數2.93。拍賣52週期國債，得標利率3.880%，投標倍數3.62。
+
+---
+
+### 2026-08-04 23:32:24  #MKT News #Economic Calendar
+
+United States | 12-Month Bill Auction High Yield Rate (Aug.4) | actual 3.88% | previous 3.86%
+
+---
+
+### 2026-08-04 23:31:23  #市場
+
+【銥價暴漲遠超黃金價格】據央視財經，今年以來，鉑族金屬市場走出極端分化行情。雖然全系品種都貨源緊張、存在供需缺口，但走勢完全割裂：鉑金、鈀金等傳統工業金屬大起大落、大幅回撥；而金屬銥逆勢大漲，價格一路走高，成為今年貴金屬市場的最大黑馬。貴金屬“銥”，擁有超過2400攝氏度的超高熔點，且抗腐蝕效能優異，是極少數能在2000攝氏度以上保持穩定的貴金屬。所以即便價格昂貴，銥坩堝依然是眾多超高溫特種晶體難以替代的“孵化器”。相關人士表示：“目前銥的價格還是比較高，達到2000元/克，遠超過黃金價格。”業內人士表示，AI、新能源等產業的快速發展正在為銥帶來新的需求增長。受此影響，今年以來，銥的價格快速上漲。根據國際貴金屬市場重要參考平臺莊信萬豐資料，銥價在去年12月31日的價格為4510.71美元每金衡盎司，到今年8月4日為7850美元每金衡盎司，漲幅超過70%。
+
+---
+
+### 2026-08-04 23:30:50  #其他
+
+德國DAX 30指數初步收漲0.80%，報26209.07點。法國股指初步收漲0.38%，義大利股指初步收漲1.18%、銀行指數漲1.59%，英國股指初步收漲0.28%。
+
+---
+
+### 2026-08-04 23:30:47  #MKT News
+
+Cape Town International Airport said a Kenya Airways aircraft has malfunctioned on the runway and is immobile; all inbound flights are being diverted to alternate airports. Domestic departures continue to operate; international departures are temporarily suspended.
+
+---
+
+### 2026-08-04 23:30:45  #市場 #國際
+
+歐洲STOXX 600指數初步收漲0.75%，報656.92點，創收盤歷史新高。歐元區STOXX 50指數初步收漲0.89%，報6484.37點，創收盤歷史新高。富時泛歐績優300指數初步收漲0.80%，報2625.83點。
+
+---
+
+### 2026-08-04 23:30:07  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Brazil 10Y Bond Yield Falls by 10 bps — Majority of government bonds yields are lower on Tuesday. Top losers are Brazil 10Y (-10bps), US 10Y (-3.60bps) and Germany 10Y (-3.46bps). Gains are led by Japan 10Y (3.06bps).
 
 ---
 
@@ -19885,47 +19993,5 @@ Baltic Dry Index Extends Gains to Over 2-Week High — The Baltic dry index surg
 ### 2026-08-03 21:28:36  #國際
 
 【烏克蘭國安委秘書烏梅羅夫卸任 稱任內促成逾2000名烏方人員獲釋】烏克蘭國家安全與國防委員會秘書烏梅羅夫3日發表宣告，宣佈正式結束其在該委員會的任職。他在宣告中總結了任內主要工作成果，表示過去一年間，在烏克蘭政府、議會、安全與國防力量、總統辦公室及國際夥伴的協作下，烏克蘭在前線防禦、國內穩定及國際地位方面均得到鞏固。烏梅羅夫表示，推動戰俘交換是其任核心心成果之一。透過談判程序，烏克蘭已成功接回逾2000名本國公民。他特別感謝了美國、土耳其和阿聯酋在斡旋與協助方面發揮的作用。
-
----
-
-### 2026-08-03 21:28:30  #MKT News #Market Regions #Europe & UK
-
-Ukraine's Dnipro regional military administration said a Russian strike on the Dnipro region set a food warehouse on fire.
-
----
-
-### 2026-08-03 21:27:35  #國際
-
-烏克蘭方面訊息：地區軍事管理局稱，俄軍襲擊第聶伯，多處食品倉庫起火。
-
----
-
-### 2026-08-03 21:26:03  #其他
-
-【中工國際成功簽署烏干達飲料廠專案合同】據中工國際訊息，近日，中工國際成功簽約並生效烏干達飲料廠專案商務合同。專案為水果加工廠改擴建工程，涵蓋工程施工、裝置供貨、安裝除錯等全流程一體化建設內容。烏干達水果資源豐富、品類繁多，專案建成投產後，可實現每小時1萬瓶果汁的規模化產能。
-
----
-
-### 2026-08-03 21:25:57  #宏觀 #公司
-
-【江蘇無錫新吳區通報牛蛙涉抗生素超標：上游供應商庫存快檢陰性】江蘇無錫高新區（新吳區）市場監管局、無錫高新區（新吳區）農業農村局8月3日釋出情況通報，全文如下：8月3日上午，我區關注到有媒體報道全國多地牛蛙產品涉嫌抗生素超標問題，其中提及我區瑞勝食品（無錫）有限公司。對此，我區高度重視，第一時間成立調查組，趕赴涉事企業開展全面現場核查。經查，該企業從事水產品和食用農產品銷售等業務，現場未發現牛蛙及牛蛙製品庫存成品。調查組立即開展鏈上追溯，對上游供應商單位進行排查檢查，並對上游供應商鮮活牛蛙庫存進行快檢和抽樣檢測，快檢結果均為陰性，相關情況正在深入調查中，調查組將依據抽樣檢測結果，依法依規嚴肅處理。同時，根據上級專項部署，在全區持續深入開展專項排查，嚴厲打擊涉牛蛙產品違法行為，堅決維護消費者合法權益。（新吳監管）
-
----
-
-### 2026-08-03 21:25:05  #其他
-
-美軍中央司令部發言人：我方部隊保持高度警惕，並已做好隨時執行任何指派任務的準備。
-
----
-
-### 2026-08-03 21:24:13  #公司
-
-【新一代大模型公司西湖心辰完成B+輪融資，由西湖大學博導藍振忠創立】新一代大模型公司西湖心辰8月3日宣佈，公司近日完成B+輪融資，融資金額達數億元人民幣，由廣發信德領投，西湖創新投、武漢江豚基金、容億投資、南通投管等多家機構跟投，58產業基金等產業資本參與，老股東螞蟻集團、湯姆貓提供全面支援。融資資金將主要用於新一代擴散語言模型的持續研發、旗下原生多模態實時互動產品的深度迭代，以及海外市場的進一步拓展。（澎湃）
-
----
-
-### 2026-08-03 21:23:57  #Trading Economics #Markets #Commodity #Importance 1
-
-Cocoa Rises to Over 2-Week High — Cocoa prices climbed above $5,700 per tonne, their highest level since July 15, after Ghana projected a sharp decline in cocoa production for the 2026/27 season. Market regulator COCOBOD expects output to fall by at least 16%, citing unfavorable weather, the cocoa tree's natural alternating yield cycle, disease, ageing plantations and illegal gold mining. Supply concerns were reinforced by expectations of a more than 10% decline in Ivory Coast's production next season. While crop prospects remain generally favorable, farmers said more sunshine and timely fertilizer and pesticide applications are needed, warning that excessive rainfall later in the season could increase disease risks and further tighten global cocoa supplies.
 
 ---
