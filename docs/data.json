@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-08 16:05:54",
-  "count": 15848,
+  "updated": "2026-08-08 16:14:11",
+  "count": 15845,
   "items": [
+    {
+      "id": "5031859",
+      "time": "2026-08-08 16:10:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方電氣集團黨組：堅決擁護黨中央對宋致遠進行紀律審查和監察調查的決定】8月8日，據東方電氣集團訊息，近日，東方電氣集團黨組召開會議，通報中央紀委國家監委對宋致遠涉嫌嚴重違紀違法進行紀律審查和監察調查的決定。集團公司黨組書記、董事長羅乾宜主持會議並講話。與會同志一致表示，堅決擁護黨中央決定，堅決擁護中央紀委國家監委決定。"
+    },
+    {
+      "id": "mkt:019fe068-4505-7aab-8fc3-28ed012001ac",
+      "time": "2026-08-08 16:05:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【US Senate passes stopgap funding bill, may avert government shutdown】The US Senate on Saturday approved a short-term funding measure to finance federal agencies through Dec. 11, aimed at averting a government shutdown weeks before the midterm elections. The bill passed 90-6; Senator Graham (R-S.C.) abstained. The measure lowers the risk of a shutdown on Oct. 1, the start of the new fiscal year, but does not guarantee one will be avoided — the House must reconcile the bill when it returns from recess."
+    },
     {
       "id": "5031858",
       "time": "2026-08-08 16:02:50",
@@ -144364,56 +144387,6 @@
         "其他"
       ],
       "text": "匈牙利總理：多瑙河水位偏低， 保克什核電站最快本週末就會徹底停機停運。"
-    },
-    {
-      "id": "mkt:019fbc62-e99d-7aab-8f41-2aff2f035a94",
-      "time": "2026-08-01 16:13:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwaiti military said Iran's attack struck equipment belonging to a civilian company on Bubiyan Island, causing material damage from falling shrapnel."
-    },
-    {
-      "id": "mkt:019fbc62-9940-7aab-8f41-21872e9c47a3",
-      "time": "2026-08-01 16:13:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【Hainan Mining: Xingzhihai July lithium salt output 1,869 tonnes, monthly record】Hainan Mining said Hainan Xingzhihai New Materials Co. produced 1,869 tonnes of lithium salts in July, setting a monthly production record."
-    },
-    {
-      "id": "5020310",
-      "time": "2026-08-01 16:12:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南礦業：星之海7月份鋰鹽總產量達1869噸 創月度產量新高】據海南礦業訊息，海南星之海新材料有限公司（簡稱“星之海”）7月份鋰鹽總產量達1869噸，創月度產量新高。"
-    },
-    {
-      "id": "5020309",
-      "time": "2026-08-01 16:12:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬魯蒂鈴木：馬魯蒂鈴木印度有限公司2026年7月總銷量為241,421輛。"
-    },
-    {
-      "id": "mkt:019fbc60-df54-7aab-8f41-1f3d7cc49bee",
-      "time": "2026-08-01 16:11:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Kuwaiti military says Iran's attack struck multiple key facilities, including a government agency in northern Kuwait."
     }
   ]
 }
