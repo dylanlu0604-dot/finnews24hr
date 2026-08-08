@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-08 08:45:14",
-  "count": 15972,
+  "updated": "2026-08-08 08:49:05",
+  "count": 15971,
   "items": [
+    {
+      "id": "5031748",
+      "time": "2026-08-08 08:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【近期惡劣天氣致菲律賓6人死亡 逾26萬人受災】菲律賓國家減災委釋出訊息稱，截至8日6時，受近期的颱風“白海豚”和“鯨魚”的影響，以及西南季風增強導致的降雨，菲律賓共有6人死亡，7人受傷，受災人口超過26萬。"
+    },
+    {
+      "id": "5031747",
+      "time": "2026-08-08 08:45:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星環聚能完成新一輪8.8億元融資】星環聚能宣佈，近日完成新一輪(A++輪)融資，融資金額為8.8億元人民幣。本輪融資由深投控資本、深擔創投、農銀資本、交銀投資等機構聯合投資，老股東上海科創集團旗下智慧財產權基金等機構繼續跟投。本輪融資資金將與A輪、A+輪融資資金一道，共同用於上海嘉定實驗基地建設、NTST(負三角球形託卡馬克)建造與執行、CTRFR-1(星環一號)設計建造，以及聚變堆級高溫超導磁體與AI等離子體控制等關鍵技術的持續工程化推進。"
+    },
+    {
+      "id": "5031746",
+      "time": "2026-08-08 08:45:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國安理會對葉門局勢緊張升級表示關切】當地時間8月7日，聯合國安理會成員就葉門局勢發表宣告，對近期緊張局勢升級表示關切，強調應避免採取可能破壞葉門和平程序或威脅國際和平與安全的行動。安理會成員譴責7月3日和13日分別有飛機在未經葉門政府許可和批准的情況下，降落薩那國際機場和荷臺達機場，指出有關行為違反國際民用航空規則。宣告同時譴責胡塞武裝自7月13日以來針對沙烏地阿拉伯發動導彈襲擊，以及自7月22日以來針對商船發動襲擊。"
+    },
     {
       "id": "mkt:019fded2-b947-7aab-8fc1-efa11f3f1ecf",
       "time": "2026-08-08 08:42:59",
@@ -145507,52 +145531,6 @@
         "Greater China"
       ],
       "text": "【PLA Southern Theater conducts sea‑air drills around Huangyan Island (Scarborough Shoal)】Aug 1 — The PLA Southern Theater Command conducted joint sea‑air exercises in the waters and airspace around Huangyan Island (Scarborough Shoal) in the South China Sea. The command described the drills as a necessary response to the current South China Sea situation and actions by certain regional states, aimed at testing and improving troops’ real‑combat capability to safeguard China’s territorial sovereignty and maritime rights."
-    },
-    {
-      "id": "5020110",
-      "time": "2026-08-01 08:48:25",
-      "tags": [
-        "宏觀",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元受干預行動提振上漲 訊息稱美日兩國同步進場買入日元】週五美日兩國當局持續出手託舉日元，日元兌美元、歐元匯率漲幅均超1%。 知情人士透露，日本當局週五在紐約交易時段進場買日元、賣美元。日經新聞早前報道，日本政府與日本央行連續第二日實施日元干預；另有媒體訊息稱，紐約聯邦儲備銀行代表美國財政部拋售歐元、買入日元。 該報表示，這是美日兩國近30年來首次聯合干預，共同支撐日元。美國財政部尚未就相關報道予以回應；日本財務省官員暫未置評。 兩名知情人士此前透露，紐約聯儲日內至少聯絡兩家美國大型銀行，詢盤歐元兌日元報價。連日來美日相繼採取行動，體現雙方協同遏制日元貶值。上週日元觸及1986年以來低點。油價走高、日本持續財政赤字，疊加日本與美國等主要經濟體巨大利差，持續壓制日元匯率。 道明證券新加坡經濟學家Alex Loo表示：“交易員將會警惕當局後續再度實施干預。”"
-    },
-    {
-      "id": "mkt:019fbaca-c7e9-7aab-8f3e-9a6091d239d0",
-      "time": "2026-08-01 08:47:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "EURUSD",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Reuters photo shows Bessent notebook 'buy yen $5-10bln'; FT says U.S., Japan intervened, NY Fed sold euros to buy yen via Goldman, Morgan Stanley】A Reuters photo shows Treasury Secretary Bessent's notebook containing the note \"buy yen $5-10bln.\" The Financial Times reported the U.S. intervened on Friday in coordination with Japan, marking the first joint direct yen purchase in nearly 30 years. Three people said the New York Fed, acting for the Treasury, executed an unusual operation — selling euros to buy yen — and two said the trades were routed through Goldman Sachs and Morgan Stanley. A Treasury spokesman declined to comment on the notebook or whether intervention took place; Treasury had notified several Wall Street banks it was considering action. The last U.S. operation to support the yen was in 2011, when it sold yen."
-    },
-    {
-      "id": "5020109",
-      "time": "2026-08-01 08:45:34",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【國務院國資委黨委2026年第一輪巡視完成反饋】7月30日上午，國務院國資委黨委召開2026年第一輪巡視集中反饋會議。會議指出，從本輪巡視情況看，近年來，中鹽集團、中國稀土集團、中國中車集團、中國通號、保利集團、中國電氣裝備等6家被巡視企業黨委各項工作取得了新進展新成效，但仍存在一些問題和風險。有的貫徹落實習近平總書記重要指示批示和黨中央決策部署不夠紮實；有的推進高質量發展成效不夠明顯；有的防範化解重大風險不夠有力；有的履行全面從嚴治黨責任存在不足；有的落實新時代黨的組織路線不夠到位，必須採取有力措施，下定決心加快整改。會議要求，要壓實巡視整改責任，樹立和踐行正確政績觀，在真改實改上下功夫，形成各負其責、齊抓共管的良好局面，確保整改落地見效。"
-    },
-    {
-      "id": "5020108",
-      "time": "2026-08-01 08:45:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南部戰區位黃巖島領海領空和周邊海空域組織海空聯合演訓】8月1日，中國人民解放軍南部戰區位黃巖島領海、領空和周邊海空域組織海空聯合演訓，這是針對當前南海局勢及個別域內國家破壞地區和平穩定的必要行動，旨在檢驗提升部隊維護國家領土主權和海洋權益的實戰化能力。"
     }
   ]
 }
