@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 10:55:52",
-  "count": 15956,
+  "updated": "2026-08-08 10:59:55",
+  "count": 15953,
   "items": [
+    {
+      "id": "5031793",
+      "time": "2026-08-08 10:58:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朋友圈可AI幫寫、點評？騰訊客服：AI相關功能逐步開放中】8月8日，有訊息稱微信在灰度測試朋友圈“AI幫寫”與“AI點評”兩項能力，對此記者諮詢騰訊客服後獲悉，目前朋友圈的AI相關功能仍在逐步開放中，部分智慧互動功能可能已在灰度測試階段，具體支援情況請以所使用的微信版本更新情況為準。（貝殼財經）"
+    },
     {
       "id": "5031792",
       "time": "2026-08-08 10:54:51",
@@ -145366,38 +145374,6 @@
         "MKT News"
       ],
       "text": "【South Korea's National Assembly passes amendment removing prosecutors' direct investigative powers】South Korea's National Assembly on July 31 approved an amendment to the Criminal Procedure Act that removes prosecutors' authority to conduct direct and supplementary investigations. The measure passed 175-2-1. Under the amendment, prosecutors may no longer carry out direct investigations or initiate supplementary probes themselves; if they deem further investigation necessary they can only request judicial police to conduct supplementary investigations. The change is part of broader prosecutorial reform."
-    },
-    {
-      "id": "5020170",
-      "time": "2026-08-01 10:59:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國國家博物館嚴正宣告：從未在館外開展掃碼入群、資訊採集活動】中國國家博物館網站7月31日釋出公告稱，近日，觀眾反映有社會人員冒用“國家博物館工作人員”名義從事引導公眾掃碼，收集獲取手機號碼、身份證號碼等個人資訊的活動。對此，國家博物館高度重視，特此釋出嚴正宣告：國家博物館從未授權任何機構、個人在館外公共場所開展掃碼入群、資訊採集等活動，凡是以國家博物館名義進行的此類活動，均與國家博物館無任何關聯。上述行為嚴重侵犯了國家博物館的合法權益，國家博物館將依法保留追究相關組織及個人法律責任的權利。在此，國家博物館特別提醒公眾，提高安全防範意識，妥善保管個人資訊，切勿輕易掃描來源不明的二維碼。如發現有組織或個人以國家博物館名義進行非法活動，請及時向相關執法部門舉報。"
-    },
-    {
-      "id": "mkt:019fbb42-a756-7aab-8f3f-4744fe7d99f1",
-      "time": "2026-08-01 10:58:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.8-magnitude quake offshore Aomori; no tsunami risk】A 5.8-magnitude earthquake struck offshore Aomori Prefecture at about 11:48 a.m. JST on Aug. 1, the Japan Meteorological Agency said. Maximum JMA seismic intensity was 4 and the hypocentre was 80 km deep. The agency said there is no tsunami risk."
-    },
-    {
-      "id": "mkt:019fbb40-da78-7aab-8f3f-3cc17e11a988",
-      "time": "2026-08-01 10:56:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Japan Meteorological Agency said a magnitude-5.8 earthquake struck off Aomori Prefecture on Aug. 1."
-    },
-    {
-      "id": "mkt:019fbb40-0d35-7aab-8f3f-359d17c7c529",
-      "time": "2026-08-01 10:56:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKMTO said the incident so far has not reported any casualties or environmental impact."
     }
   ]
 }
