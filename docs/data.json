@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-08 15:21:21",
-  "count": 15855,
+  "updated": "2026-08-08 15:25:28",
+  "count": 15854,
   "items": [
+    {
+      "id": "mkt:019fe040-5712-7aab-8fc3-03bf52d9f4f0",
+      "time": "2026-08-08 15:22:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. West wildfires: firefighting helicopter crashes】The U.S. Federal Aviation Administration said on the 7th a heavy firefighting helicopter crashed in Utah; two people aboard are missing. In Oregon, a bulldozer operator was killed in a wildfire."
+    },
+    {
+      "id": "5031845",
+      "time": "2026-08-08 15:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南東方市釋出暴雨紅色預警訊號】記者從海南省東方市氣象臺獲悉，8月8日11時29分，東方市變更暴雨橙色預警訊號為暴雨紅色預警訊號：受對流雲團影響，三家鎮過去12小時降雨量已達186毫米，預計未來6小時，東方市各鄉鎮仍將有30—60毫米的降水，建議有關單位和人員做好防範工作。（央視新聞）"
+    },
     {
       "id": "5031844",
       "time": "2026-08-08 15:17:27",
@@ -144451,30 +144467,6 @@
         "Chip Wars"
       ],
       "text": "【AMEC's Yin Zhiyao targets 60% coverage of high-end semiconductor equipment within five years】Aug 1 — AMEC Chairman and General Manager Yin Zhiyao said the company aims to achieve at least 60% coverage of high-end semiconductor equipment within five years, seeks to be the semiconductor-equipment firm with the highest global coverage, and targets joining the global first tier in scale and product competitiveness by 2035."
-    },
-    {
-      "id": "mkt:019fbc34-effd-7aab-8f40-daad92ff384d",
-      "time": "2026-08-01 15:23:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【PNG foreign minister reaffirms One China policy】Papua New Guinea’s foreign minister on July 31 reaffirmed the government’s firm adherence to the One China policy and said PNG will use the 50th anniversary of diplomatic ties to deepen bilateral cooperation across sectors. Speaking at an event in Port Moresby, he thanked China for long-term support for PNG’s cultural and educational development."
-    },
-    {
-      "id": "5020293",
-      "time": "2026-08-01 15:22:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蜘蛛俠嶄新之日票房破6億】據燈塔專業版實時資料，截至8月1日15時21分，影片《蜘蛛俠：嶄新之日》票房突破6億。"
-    },
-    {
-      "id": "5020292",
-      "time": "2026-08-01 15:21:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中微尹志堯：未來五年內至少覆蓋六成半導體高階裝置】8月1日，中微公司董事長兼總經理尹志堯在22週年慶典上表示，要在未來五年內至少覆蓋60%的半導體高階裝置，成為全球覆蓋率最高的半導體裝置公司，到2035年在規模、產品競爭力上成為全球第一梯隊的半導體裝置公司。（第一財經）"
     }
   ]
 }
