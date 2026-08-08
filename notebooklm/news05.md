@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 03:38:32_
-_本檔包含 2830 則快訊，約 596064 字_
+_更新時間：2026-08-09 04:01:39_
+_本檔包含 2830 則快訊，約 596650 字_
+
+---
+
+### 2026-08-03 21:17:46  #公司 #市場
+
+華納音樂集團公佈第三季度初步業績後，盤前股價上漲10%。
+
+---
+
+### 2026-08-03 21:17:38  #國際
+
+俄羅斯總統普京已抵達克拉斯諾亞爾斯克。
+
+---
+
+### 2026-08-03 21:16:14  #市場
+
+道瓊斯指數期貨漲幅進一步擴大至1.30%，報53320.760點。
+
+---
+
+### 2026-08-03 21:16:11  #公司
+
+【四川10家農商行獲批解散】8月3日，國家金融監督管理總局四川監管局批覆，同意四川平武農村商業銀行股份有限公司、四川三臺農村商業銀行股份有限公司、四川仁壽農村商業銀行股份有限公司、四川梓潼農村商業銀行股份有限公司、四川丹稜農村商業銀行股份有限公司、四川江油農村商業銀行股份有限公司、四川北川農村商業銀行股份有限公司、四川洪雅農村商業銀行股份有限公司、四川鹽亭農村商業銀行股份有限公司、四川青神農村商業銀行股份有限公司等10家農商行解散。批覆顯示，自收到批覆之日起，上述銀行立即停止一切經營活動，股東大會、董事會和高階管理層立即停止行使職權，繳回金融許可證，對外做好解散公告，並依法辦理登出登記手續。
+
+---
+
+### 2026-08-03 21:15:52  #MKT News #Market Themes #The Trump Trade
+
+White House spokesperson said President Trump will visit California on Tuesday and Nevada on Wednesday to promote economic achievements.
+
+---
+
+### 2026-08-03 21:15:49  #焦點 #國際
+
+【據悉伊朗已拒絕美國關於霍爾木茲海峽的提議】一名伊朗訊息人士報道，德黑蘭拒絕了美國的最新提議，堅持在戰爭結束前不會完全重新開放霍爾木茲海峽。該訊息人士還稱，華盛頓已在海峽南部航線的關閉問題上作出了讓步。這些說法尚未得到獨立核實。
+
+---
+
+### 2026-08-03 21:14:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Wheat Falls to 3-Week Low — Wheat prices fell to around $6.40 per bushel, the lowest in three weeks, after Russia announced measures to strengthen the security of shipping in the Azov-Black Sea basin and develop alternative cargo routes. The move follows an escalation in maritime attacks between Russia and Ukraine, which have disrupted grain exports from two of the world's leading suppliers. Russia's transport ministry said it had formed a task force to reroute cargo and enhance navigational safety, while port operators pledged to handle additional shipments where possible. Despite these efforts, industry groups in both countries warned that continued attacks on ports, export terminals and commercial vessels could severely disrupt Black Sea grain exports during the peak harvest season, threatening global food supplies. Meanwhile, hopes for easing geopolitical tensions in the Middle East also weighed on grain prices by improving the outlook for fertilizer and energy supplies.
 
 ---
 
@@ -17047,47 +17089,5 @@ Saudi outlet al-Hadath reports Iraq's armed forces commander‑in‑chief conven
 ### 2026-08-02 04:02:04  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran foreign ministry says it will continue path of resistance and steadfastness】Iran's foreign ministry said on Aug. 1 it is determined to continue a path of resistance and steadfastness until the "enemy's" malice is eradicated. It accused the United States of breaching provisions of the June 18 US‑Iran memorandum by enforcing a maritime blockade of Iranian ports and merchant shipping, launching attacks across Iran, and stepping up economic pressure and illegal threats. The statement said defensive strikes by Iran's armed forces remain ongoing at full strength. It added that the US and some regional allies used the July 8 three‑vessel "accidents" as a pretext to attack Iran and to violate Iranian sovereignty in the Strait of Hormuz.
-
----
-
-### 2026-08-02 04:00:59  #焦點 #國際
-
-【伊朗外交部：決心繼續走抵抗與堅守之路】伊朗外交部當地時間8月1日發表宣告稱，伊朗決心繼續走抵抗與堅守之路，直至徹底消除敵人的惡行。宣告表示，當前，美國繼續違反6月18日美伊諒解備忘錄的相關條款，持續對伊朗港口和商船實施海上封鎖，並不斷對伊朗各地發動野蠻襲擊，加大經濟施壓和非法威脅，持續對伊朗實施侵略。作為回應，伊朗武裝部隊的防禦性打擊仍在全力持續進行。宣告還稱，美國及其部分地區盟友以7月8日三艘船隻的所謂“事故”為藉口，對伊朗發動攻擊並持續至今，是其編造謊言、為違背雙方協議和侵犯伊朗在霍爾木茲海峽的主權尋找藉口的集中體現。
-
----
-
-### 2026-08-02 03:57:18  #MKT News
-
-【Shooting in Rochester, New York kills one】In the early hours of Aug 1 local time, a shooting in Rochester, New York killed one woman and wounded three others. Police said they are investigating leads and searching for the suspect.
-
----
-
-### 2026-08-02 03:57:00  #國際
-
-【美國紐約州羅切斯特發生槍擊事件 1人死亡】當地時間8月1日凌晨，美國紐約州羅切斯特發生一起槍擊事件，造成1名女子死亡、3人受傷。警方表示目前仍在調查案件線索，尋找嫌疑人。（央視新聞）
-
----
-
-### 2026-08-02 03:55:15  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Iran's foreign minister warned in separate calls with Turkey's foreign minister and Pakistan's army chief that the United States must not take any "adventurous actions".
-
----
-
-### 2026-08-02 03:53:48  #焦點 #國際
-
-伊朗外長在分別與土耳其外長、巴基斯坦陸軍司令通話時警告稱，美國不得采取任何“冒險行動”。
-
----
-
-### 2026-08-02 03:51:09  #國際
-
-伊朗前外長、現議員馬努切赫爾·穆塔基：任何涉及伊朗的談判，都必須獲得最高領袖穆傑塔巴批准才能開展。
-
----
-
-### 2026-08-02 03:41:39  #國際
-
-【伊朗外交部：將持續抵禦美以聯盟，全力捍衛國家安全】伊朗外交部週六警告地區各國，切勿允許美國與以色列利用其領土或設施發起針對伊朗的襲擊，並表示德黑蘭方面將會打擊發動此類襲擊的地點。伊朗外交部稱：“我方英勇武裝力量的防禦性打擊行動正在全力持續推進。”外交部提及的背景包括：伊朗港口與商業航運遭遇海上封鎖、伊朗境內遭受襲擊、所承受的經濟施壓不斷升級，以及各類非法威脅。
 
 ---

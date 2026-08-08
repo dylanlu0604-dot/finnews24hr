@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 03:38:32_
-_本檔包含 3140 則快訊，約 596214 字_
+_更新時間：2026-08-09 04:01:39_
+_本檔包含 3135 則快訊，約 596045 字_
+
+---
+
+### 2026-08-07 10:09:22  #國際
+
+菲律賓經濟部長：民間經濟指標表現向好。
+
+---
+
+### 2026-08-07 10:09:13  #國際
+
+菲律賓經濟部長：基礎設施支出將在第三季度開始回升。
+
+---
+
+### 2026-08-07 10:08:48  #國際
+
+菲律賓經濟部長：經濟可能正進入復甦初期階段。
+
+---
+
+### 2026-08-07 10:08:37  #國際
+
+菲律賓經濟部長：近期經濟指標讓我們有理由保持謹慎樂觀。
+
+---
+
+### 2026-08-07 10:07:25  #Trading Economics #Markets #Japan #Currency #Importance 1
+
+Yen Retraces Some Intervention Gains — The Japanese yen weakened past 158 per dollar on Friday, surrendering part of the gains sparked by the joint currency intervention by Tokyo and Washington, fueling speculation that authorities may step in again to support the currency. The retreat underscored doubts over the effectiveness of intervention in reversing the yen’s longer-term weakness, which continues to be driven by wide interest rate differentials, growing fiscal concerns, and persistently high energy and import costs. The yen also faced additional pressure from a stronger dollar and rebounding oil prices following renewed tensions in the Strait of Hormuz. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and highlighting continued softness in consumer demand. On the monetary policy front, investors are watching for a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week.
 
 ---
 
@@ -18901,65 +18931,5 @@ Uruguay Inflation Rises Slightly in July — Uruguay’s annual inflation rate e
 ### 2026-08-06 01:52:55  #MKT News
 
 Iran's deputy foreign minister said reports that Pakistan invited Iran's foreign minister and parliament speaker are accurate, but final arrangements have not been confirmed.
-
----
-
-### 2026-08-06 01:51:07  #國際
-
-【俄伊即將落地長期天然氣協議 亞塞拜然獲選為首選過境國】俄羅斯與伊朗即將落實一項歷經多輪談判的天然氣協議，兩國官員證實，亞塞拜然被選定為俄羅斯向伊朗出口天然氣的首選過境通道。
-
----
-
-### 2026-08-06 01:50:25  #國際
-
-特朗普：密歇根州的韋恩縣（底特律）就算算不上全世界最腐敗的投票地區，也是美國國內最腐敗的投票地區之一，完全就是第三世界水準！韋恩縣總上演各種匪夷所思的事情，其中就包括選票數量大幅超過登記選民人數。
-
----
-
-### 2026-08-06 01:49:30  #宏觀 #國際
-
-波蘭財政部長：波蘭將再度嘗試對石油企業徵收暴利稅。
-
----
-
-### 2026-08-06 01:49:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran deputy foreign minister denies US talks on Strait of Hormuz】Iran’s deputy foreign minister said on Wednesday Tehran is not negotiating with the United States over the Strait of Hormuz, calling US claims that talks are underway incorrect. He said Iran has received US communications indicating Washington is prepared to resume prior commitments, but Tehran has not decided whether to enter a second phase that would implement any US‑Iran memorandum of understanding. Earlier on Wednesday President Trump said the Strait would reopen “soon” or he would launch a new round of strikes, saying “very good discussions” were underway and warning he would resume military action if Iran reneged.
-
----
-
-### 2026-08-06 01:43:02  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) has overtaken SpaceX (SPCX.O) in market value. SpaceX slid 10.5% to $1.48 trillion; Meta fell 0.8% to $1.49 trillion.
-
----
-
-### 2026-08-06 01:42:52  #公司
-
-滙豐上調金風科技A股評級至買入，目標價26.30元人民幣。
-
----
-
-### 2026-08-06 01:37:17  #MKT News
-
-Iran says it has not yet decided on entering a second phase of talks with the United States.
-
----
-
-### 2026-08-06 01:35:48  #國際
-
-伊朗：關於美伊第二階段談判，目前還沒有決定。
-
----
-
-### 2026-08-06 01:29:34  #國際
-
-伊朗副外長：該航道（新航線）設計使得商船無論是在進入航道還是在離開航道的部分路段，都透過伊朗領海。
-
----
-
-### 2026-08-06 01:29:14  #國際
-
-伊朗副外長：新航線的很大一部分位於伊朗領海內，而另一部分位於阿曼領海內。
 
 ---

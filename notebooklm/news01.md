@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 03:38:32_
-_本檔包含 3159 則快訊，約 596971 字_
+_更新時間：2026-08-09 04:01:39_
+_本檔包含 3161 則快訊，約 597327 字_
+
+---
+
+### 2026-08-09 04:00:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
+
+Israeli energy minister says he opposes the Gaza agreement now being drafted and assesses Hamas is plotting a deception.
+
+---
+
+### 2026-08-09 04:00:46  #MKT News
+
+Israel's energy minister said Israel does not trust any agreement proposed by Hamas.
+
+---
+
+### 2026-08-09 04:00:31  #國際
+
+【美軍稱已迫使53艘商船改變航線】當地時間8月8日，美國中央司令部表示，美國海軍人員在“林肯”號航母上對F/A-18“超級大黃蜂”戰機進行維護，以確保航母打擊群的裝備保持戰備狀態，繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已使53艘商船改道，使2艘船隻喪失航行能力，並登臨檢查了2艘船隻。此外，美軍還允許30多艘運載人道主義援助物資的船隻透過封鎖區。
+
+---
+
+### 2026-08-09 03:50:40  #MKT News #WTI #Impact bullish #Brent
+
+【Vance says U.S.-Iran conflict remains "mid-game"】U.S. Vice President Vance said on the 8th that talks with Iran are ongoing and the U.S.-Iran confrontation remains in the "mid-game." He told Fox News the conflict has not ended but has moved beyond the opening phase. Washington is deploying diplomatic, economic and military measures to secure the best outcome. Vance said the U.S. priority is to maximize oil and gas flows through the Strait of Hormuz and is watching whether Iran will make the long-term changes needed to improve relations; if not, the U.S. will continue to apply pressure. He added the U.S. is working to establish a navigation mechanism to ensure safe passage for vessels, including mine-clearing, which would also require Iran to commit not to fire on merchant ships.
+
+---
+
+### 2026-08-09 03:49:52  #焦點 #國際
+
+【萬斯稱美伊衝突仍處於“博弈中段”】美國副總統萬斯8日表示，美國同伊朗正在對話，美伊衝突仍處於“博弈中段”。萬斯當天在接受美國福克斯新聞頻道採訪時說，美伊衝突還沒有結束，“但顯然已不在開局階段，而是進入了中局階段”。他稱，美國正在綜合運用外交、經濟和軍事等一系列手段，以確保最終取得最好結果。（新華社）
+
+---
+
+### 2026-08-09 03:47:29  #國際
+
+印度總理莫迪辦公室：莫迪與美國副總統萬斯通話，雙方回顧印美戰略伙伴關係取得的進展，就地區及全球局勢交換意見。
+
+---
+
+### 2026-08-09 03:39:45  #MKT News
+
+Iraqi authorities announced they dismantled an armed network plotting drone attacks.
 
 ---
 
@@ -18999,35 +19041,5 @@ Asia FX Updates: South Korean Won Rises by 0.28% — Top currency gainers are So
 ### 2026-08-07 10:10:14  #Trading Economics #Economy #Philippines #GDP Annual Growth Rate #Importance 2
 
 Philippine GDP Growth Hits Weakest Since 2009 Ex-Covid — The Philippines’ GDP expanded 2.3% year-on-year in Q2 2026, missing expectations that growth would remain at Q1’s 2.8%. This marked the softest economic expansion since Q4 2009, excluding the COVID-19 pandemic, as the country continued to contend with an energy shock stemming from the Iran war, compounded by a major corruption scandal. Growth in household consumption eased to 2.8% (vs. 3.0% in Q1), while fixed investment contracted 13.7% (vs. -2.5%), marking the sharpest decline in over five years. Meanwhile, government spending rose 8.3%, compared with 4.8% in Q1. Net trade contributed positively to GDP growth, as exports climbed 12.2% (vs. 0.8%), while imports rose at a softer 5.5% (vs. 6.8%). On the production side, industrial activity contracted 2.4% after a 0.1% rise in Q1, while services growth ticked down to 4.5% from 4.6%. Output in agriculture, forestry and fishing rebounded (2% vs -0.3%).
-
----
-
-### 2026-08-07 10:09:22  #國際
-
-菲律賓經濟部長：民間經濟指標表現向好。
-
----
-
-### 2026-08-07 10:09:13  #國際
-
-菲律賓經濟部長：基礎設施支出將在第三季度開始回升。
-
----
-
-### 2026-08-07 10:08:48  #國際
-
-菲律賓經濟部長：經濟可能正進入復甦初期階段。
-
----
-
-### 2026-08-07 10:08:37  #國際
-
-菲律賓經濟部長：近期經濟指標讓我們有理由保持謹慎樂觀。
-
----
-
-### 2026-08-07 10:07:25  #Trading Economics #Markets #Japan #Currency #Importance 1
-
-Yen Retraces Some Intervention Gains — The Japanese yen weakened past 158 per dollar on Friday, surrendering part of the gains sparked by the joint currency intervention by Tokyo and Washington, fueling speculation that authorities may step in again to support the currency. The retreat underscored doubts over the effectiveness of intervention in reversing the yen’s longer-term weakness, which continues to be driven by wide interest rate differentials, growing fiscal concerns, and persistently high energy and import costs. The yen also faced additional pressure from a stronger dollar and rebounding oil prices following renewed tensions in the Strait of Hormuz. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and highlighting continued softness in consumer demand. On the monetary policy front, investors are watching for a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week.
 
 ---

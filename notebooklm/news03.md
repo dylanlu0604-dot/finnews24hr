@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 03:38:32_
-_本檔包含 3418 則快訊，約 597282 字_
+_更新時間：2026-08-09 04:01:39_
+_本檔包含 3422 則快訊，約 597194 字_
+
+---
+
+### 2026-08-06 01:51:07  #國際
+
+【俄伊即將落地長期天然氣協議 亞塞拜然獲選為首選過境國】俄羅斯與伊朗即將落實一項歷經多輪談判的天然氣協議，兩國官員證實，亞塞拜然被選定為俄羅斯向伊朗出口天然氣的首選過境通道。
+
+---
+
+### 2026-08-06 01:50:25  #國際
+
+特朗普：密歇根州的韋恩縣（底特律）就算算不上全世界最腐敗的投票地區，也是美國國內最腐敗的投票地區之一，完全就是第三世界水準！韋恩縣總上演各種匪夷所思的事情，其中就包括選票數量大幅超過登記選民人數。
+
+---
+
+### 2026-08-06 01:49:30  #宏觀 #國際
+
+波蘭財政部長：波蘭將再度嘗試對石油企業徵收暴利稅。
+
+---
+
+### 2026-08-06 01:49:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran deputy foreign minister denies US talks on Strait of Hormuz】Iran’s deputy foreign minister said on Wednesday Tehran is not negotiating with the United States over the Strait of Hormuz, calling US claims that talks are underway incorrect. He said Iran has received US communications indicating Washington is prepared to resume prior commitments, but Tehran has not decided whether to enter a second phase that would implement any US‑Iran memorandum of understanding. Earlier on Wednesday President Trump said the Strait would reopen “soon” or he would launch a new round of strikes, saying “very good discussions” were underway and warning he would resume military action if Iran reneged.
+
+---
+
+### 2026-08-06 01:43:02  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+Meta Platforms (META.O) has overtaken SpaceX (SPCX.O) in market value. SpaceX slid 10.5% to $1.48 trillion; Meta fell 0.8% to $1.49 trillion.
+
+---
+
+### 2026-08-06 01:42:52  #公司
+
+滙豐上調金風科技A股評級至買入，目標價26.30元人民幣。
+
+---
+
+### 2026-08-06 01:37:17  #MKT News
+
+Iran says it has not yet decided on entering a second phase of talks with the United States.
+
+---
+
+### 2026-08-06 01:35:48  #國際
+
+伊朗：關於美伊第二階段談判，目前還沒有決定。
+
+---
+
+### 2026-08-06 01:29:34  #國際
+
+伊朗副外長：該航道（新航線）設計使得商船無論是在進入航道還是在離開航道的部分路段，都透過伊朗領海。
+
+---
+
+### 2026-08-06 01:29:14  #國際
+
+伊朗副外長：新航線的很大一部分位於伊朗領海內，而另一部分位於阿曼領海內。
 
 ---
 
@@ -20575,41 +20635,5 @@ US Natgas Prices Fall to Over 3-Month Low — US natural gas prices declined bel
 ### 2026-08-04 23:24:44  #MKT News #WTI #Impact mixed #Brent
 
 【Iran says Iran-Oman Strait of Hormuz talks enter new phase despite US obstruction】A senior Iranian official told Press TV that bilateral talks with Oman on future arrangements for operations in the Strait of Hormuz have entered a new phase. The official said discussions began in the days after an April 8 ceasefire between Iran and the United States and became more serious after a June 18 agreement. He said the talks demonstrate Iran’s willingness to pursue a diplomatic solution while defending its sovereign rights, but that the bilateral process between the two littoral states has been repeatedly disrupted by the United States and some US-aligned regional governments. "Their obstruction not only delayed a mutually beneficial outcome but exposed the hollowness of US influence in the region, and Iran's strategic interests here are critical and non-negotiable," the official said. He added talks moved into a new critical phase more than two weeks ago, that significant progress has been made and a bilateral deal is "within reach," and that if external interference stops Iran and Oman can finalise an arrangement that protects both parties' interests and upholds sovereignty and international law.
-
----
-
-### 2026-08-04 23:24:33  #國際
-
-烏克蘭總統澤連斯基：我們已確定與歐盟開展更深層次合作的重點領域。今年，烏克蘭加入歐盟的談判已開啟兩個議題叢集，我們正準備再開啟四個議題叢集。我方已完成全部工作，以爭取獲得積極決議。
-
----
-
-### 2026-08-04 23:23:35  #公司
-
-【安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議】據安徽建工集團官微訊息，8月4日，安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議。安徽建工集團黨委書記、董事長楊善斌表示，將充分發揮全產業鏈優勢，精準對接銅陵有色在礦山建設、新興產業等領域的需求，持續拓寬合作領域、提升合作質效。銅陵有色金屬集團黨委書記、董事長丁士啟表示，希望雙方聚焦礦山資源、新材料研發等方面深化全方位、多層次務實合作。
-
----
-
-### 2026-08-04 23:23:23  #MKT News
-
-Israeli tanks reportedly fired toward an area northwest of Beit Lahia in the northern Gaza Strip.
-
----
-
-### 2026-08-04 23:22:18  #公司
-
-寶潔CEO：我們今日將宣佈收購高階健康膳食補充劑品牌索恩。
-
----
-
-### 2026-08-04 23:21:29  #公司
-
-【霍爾木茲海峽附近貨船遇襲起火 船員棄船 一人失蹤】英國海事安全企業先鋒技術公司4日釋出報告說，一艘散貨船在霍爾木茲海峽附近水域遇襲後起火，有一名船員失蹤。英國媒體援引最新訊息報道說，船員已棄船。報告說，有不明發射物據報擊中該船機艙，導致生活區起火及一名船員失蹤。船員曾嘗試滅火併請求外部援助。船舶公開資訊顯示，這艘名為“米諾斯先鋒”號的散貨船懸掛賴比瑞亞國旗，由一家希臘公司運營。（新華社）
-
----
-
-### 2026-08-04 23:17:46  #Trading Economics #Economy #Colombia #Exports YoY #Importance 1
-
-Colombia Export Growth Slows in June — Colombia's exports rose 7% year-on-year to USD 4.23 billion in June 2026, easing from a 19.2% increase in May and marking the lowest level since the start of the year. The increase was driven by a 17.1% rise in exports of fuels and extractive industries, which accounted for 42.6% of total shipments, supported by a 17.6% increase in oil and petroleum products, although crude oil export volumes edged up just 0.2% to 13.5 million barrels. Manufactured exports increased 2.4%, led by an 18.7% rise in chemical products. In contrast, agricultural and food exports, which represented 25.8% of total exports, declined 10.8%, weighed by lower shipments of cut flowers and foliage (-22.7%) and unroasted coffee (-12.7%).
 
 ---

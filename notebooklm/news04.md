@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 03:38:32_
-_本檔包含 3314 則快訊，約 596413 字_
+_更新時間：2026-08-09 04:01:39_
+_本檔包含 3313 則快訊，約 596155 字_
+
+---
+
+### 2026-08-04 23:24:33  #國際
+
+烏克蘭總統澤連斯基：我們已確定與歐盟開展更深層次合作的重點領域。今年，烏克蘭加入歐盟的談判已開啟兩個議題叢集，我們正準備再開啟四個議題叢集。我方已完成全部工作，以爭取獲得積極決議。
+
+---
+
+### 2026-08-04 23:23:35  #公司
+
+【安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議】據安徽建工集團官微訊息，8月4日，安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議。安徽建工集團黨委書記、董事長楊善斌表示，將充分發揮全產業鏈優勢，精準對接銅陵有色在礦山建設、新興產業等領域的需求，持續拓寬合作領域、提升合作質效。銅陵有色金屬集團黨委書記、董事長丁士啟表示，希望雙方聚焦礦山資源、新材料研發等方面深化全方位、多層次務實合作。
+
+---
+
+### 2026-08-04 23:23:23  #MKT News
+
+Israeli tanks reportedly fired toward an area northwest of Beit Lahia in the northern Gaza Strip.
+
+---
+
+### 2026-08-04 23:22:18  #公司
+
+寶潔CEO：我們今日將宣佈收購高階健康膳食補充劑品牌索恩。
+
+---
+
+### 2026-08-04 23:21:29  #公司
+
+【霍爾木茲海峽附近貨船遇襲起火 船員棄船 一人失蹤】英國海事安全企業先鋒技術公司4日釋出報告說，一艘散貨船在霍爾木茲海峽附近水域遇襲後起火，有一名船員失蹤。英國媒體援引最新訊息報道說，船員已棄船。報告說，有不明發射物據報擊中該船機艙，導致生活區起火及一名船員失蹤。船員曾嘗試滅火併請求外部援助。船舶公開資訊顯示，這艘名為“米諾斯先鋒”號的散貨船懸掛賴比瑞亞國旗，由一家希臘公司運營。（新華社）
+
+---
+
+### 2026-08-04 23:17:46  #Trading Economics #Economy #Colombia #Exports YoY #Importance 1
+
+Colombia Export Growth Slows in June — Colombia's exports rose 7% year-on-year to USD 4.23 billion in June 2026, easing from a 19.2% increase in May and marking the lowest level since the start of the year. The increase was driven by a 17.1% rise in exports of fuels and extractive industries, which accounted for 42.6% of total shipments, supported by a 17.6% increase in oil and petroleum products, although crude oil export volumes edged up just 0.2% to 13.5 million barrels. Manufactured exports increased 2.4%, led by an 18.7% rise in chemical products. In contrast, agricultural and food exports, which represented 25.8% of total exports, declined 10.8%, weighed by lower shipments of cut flowers and foliage (-22.7%) and unroasted coffee (-12.7%).
 
 ---
 
@@ -19915,47 +19951,5 @@ US Dollar Extends Decline — The dollar index fell to 99.8 at the start of Augu
 ### 2026-08-03 21:18:57  #Trading Economics #Economy #Singapore #Manufacturing PMI #Importance 1
 
 Singapore Manufacturing Activity Edges Up in July — Singapore's Manufacturing PMI edged up to 51.4 in July 2026 from 51.3 in June, marking a 12th consecutive month of expansion and the highest reading since November 2018, supported by the ongoing AI-driven semiconductor boom. Growth in new orders, export demand, input purchases and employment strengthened, while factory output expanded at a slower pace (50.8 vs 51.1). Supplier deliveries remained under pressure, with the index falling to 47.8 from 48.3, indicating a seventh straight month of longer lead times amid escalating supply chain disruptions following the collapse of the Middle East ceasefire. Meanwhile, the Electronics PMI, which accounts for more than one-third of manufacturing output, rose to 52.4 from 52.2, also supported by AI-related demand. The future business index remained in expansion territory, underscoring manufacturers' continued confidence in business conditions.
-
----
-
-### 2026-08-03 21:17:46  #公司 #市場
-
-華納音樂集團公佈第三季度初步業績後，盤前股價上漲10%。
-
----
-
-### 2026-08-03 21:17:38  #國際
-
-俄羅斯總統普京已抵達克拉斯諾亞爾斯克。
-
----
-
-### 2026-08-03 21:16:14  #市場
-
-道瓊斯指數期貨漲幅進一步擴大至1.30%，報53320.760點。
-
----
-
-### 2026-08-03 21:16:11  #公司
-
-【四川10家農商行獲批解散】8月3日，國家金融監督管理總局四川監管局批覆，同意四川平武農村商業銀行股份有限公司、四川三臺農村商業銀行股份有限公司、四川仁壽農村商業銀行股份有限公司、四川梓潼農村商業銀行股份有限公司、四川丹稜農村商業銀行股份有限公司、四川江油農村商業銀行股份有限公司、四川北川農村商業銀行股份有限公司、四川洪雅農村商業銀行股份有限公司、四川鹽亭農村商業銀行股份有限公司、四川青神農村商業銀行股份有限公司等10家農商行解散。批覆顯示，自收到批覆之日起，上述銀行立即停止一切經營活動，股東大會、董事會和高階管理層立即停止行使職權，繳回金融許可證，對外做好解散公告，並依法辦理登出登記手續。
-
----
-
-### 2026-08-03 21:15:52  #MKT News #Market Themes #The Trump Trade
-
-White House spokesperson said President Trump will visit California on Tuesday and Nevada on Wednesday to promote economic achievements.
-
----
-
-### 2026-08-03 21:15:49  #焦點 #國際
-
-【據悉伊朗已拒絕美國關於霍爾木茲海峽的提議】一名伊朗訊息人士報道，德黑蘭拒絕了美國的最新提議，堅持在戰爭結束前不會完全重新開放霍爾木茲海峽。該訊息人士還稱，華盛頓已在海峽南部航線的關閉問題上作出了讓步。這些說法尚未得到獨立核實。
-
----
-
-### 2026-08-03 21:14:58  #Trading Economics #Markets #Commodity #Importance 1
-
-Wheat Falls to 3-Week Low — Wheat prices fell to around $6.40 per bushel, the lowest in three weeks, after Russia announced measures to strengthen the security of shipping in the Azov-Black Sea basin and develop alternative cargo routes. The move follows an escalation in maritime attacks between Russia and Ukraine, which have disrupted grain exports from two of the world's leading suppliers. Russia's transport ministry said it had formed a task force to reroute cargo and enhance navigational safety, while port operators pledged to handle additional shipments where possible. Despite these efforts, industry groups in both countries warned that continued attacks on ports, export terminals and commercial vessels could severely disrupt Black Sea grain exports during the peak harvest season, threatening global food supplies. Meanwhile, hopes for easing geopolitical tensions in the Middle East also weighed on grain prices by improving the outlook for fertilizer and energy supplies.
 
 ---
