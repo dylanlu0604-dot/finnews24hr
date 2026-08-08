@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08 22:26:22",
-  "count": 15847,
+  "updated": "2026-08-08 22:30:28",
+  "count": 15845,
   "items": [
     {
       "id": "mkt:019fe1c1-c465-7aab-8fc4-c274f71fcf46",
@@ -144383,28 +144383,6 @@
         "其他"
       ],
       "text": "國際原子能機構（IAEA）：扎波羅熱核電站今日因軍事衝突失去場外供電，這已是衝突發生以來的第23次。"
-    },
-    {
-      "id": "mkt:019fbdba-d046-7aab-8f42-a8f9d8a51bba",
-      "time": "2026-08-01 22:29:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "IAEA said the cause of a recent nearly two-hour loss of offsite power at the Zaporizhzhia nuclear plant remains unclear."
-    },
-    {
-      "id": "mkt:019fbdb9-b417-7aab-8f42-a567fc663d69",
-      "time": "2026-08-01 22:28:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "IAEA: ZAPORIZHZHIA NUCLEAR PLANT lost off‑site power for the 23rd time today amid military fighting."
     }
   ]
 }
