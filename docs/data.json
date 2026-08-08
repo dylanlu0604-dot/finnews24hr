@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-08 10:59:55",
-  "count": 15953,
+  "updated": "2026-08-08 11:04:00",
+  "count": 15949,
   "items": [
+    {
+      "id": "5031794",
+      "time": "2026-08-08 11:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國鐵南昌局啟動四級應急響應 全力應對臺風“白海豚”】為全力應對臺風“白海豚”登陸，國鐵南昌局今天（8日）10時起，在管內衢寧鐵路、杭深鐵路福鼎至福州南區段及相關支線、聯絡線啟動防洪防颱風四級應急響應，運用衛星雲圖、雷達圖等技術手段，實時掌握降雨趨勢和颱風路徑，及時對強降雨和可能發生災害的區段進行預警。計劃停運福州至松溪K8748次、洛陽至福州K32次等旅客列車。已購買停運列車車票的旅客，可於票面乘車日期起30日內（含當日）透過12306網站、App或車站視窗免費辦理退票手續。"
+    },
     {
       "id": "5031793",
       "time": "2026-08-08 10:58:44",
@@ -145332,48 +145340,6 @@
         "焦點"
       ],
       "text": "【長鑫科技LPDDR6接近研發驗證尾聲】8月1日，行業人士向記者透露，長鑫儲存的LPDDR6（第六代低功耗雙倍資料速率記憶體標準）已接近研發驗證尾聲，這是量產前的重要一步。今年3月便有市場訊息稱，長鑫科技旗下的長鑫儲存在積極推進LPDDR6產品落地，並已向核心客戶送樣，有望2026年下半年釋出並實現量產匯入。相關資訊稱長鑫首款LPDDR6產品的設計規格速率為12800 Mbps，與SoC（系統級晶片）協同的執行基礎速率為10667Mbps，顆粒容量16Gb，採用1295 Ball（焊球）的POP（堆疊）封裝，在低功耗設計、RAS（可靠性、可用性和可維護性）功能比LPDDR5X（LPDDR5的強化版）產品有明顯最佳化提升。（第一財經）"
-    },
-    {
-      "id": "mkt:019fbb45-08fe-7aab-8f3f-5c0e00f420e7",
-      "time": "2026-08-01 11:01:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【July likely to be hottest month on record in contiguous US】U.S. reports on July 31 say July is on track to be the hottest month on record in the contiguous United States. A new heat dome is forming in the U.S. West and high temperatures are expected to persist. As of July 29, July's average temperature was about 1.4°C above the 1991–2020 baseline; final July data will be released in early August, and media predict it could exceed the July 2012 record."
-    },
-    {
-      "id": "5020172",
-      "time": "2026-08-01 11:00:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今年7月或成美國有記錄以來最熱月份】據美國方面7月31日訊息，今年7月有望成為美國本土有記錄以來最熱的一個月份。與此同時，新一輪“熱穹頂”正在美國西部形成，高溫天氣預計還將持續。據悉，截至7月29日，美國今年7月的平均氣溫較1991年至2020年同期平均水平高約1.4攝氏度，儘管最終的7月平均氣溫資料要等到8月初才能公佈，但媒體預測這一數字有望重新整理2012年7月創下的紀錄，令今年7月成為美國本土有記錄以來最熱的一個月份。（央視新聞）"
-    },
-    {
-      "id": "5020171",
-      "time": "2026-08-01 11:00:33",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "日本財政部：貨幣當局擁有廣泛的工具來應對市場流動性需求。"
-    },
-    {
-      "id": "mkt:019fbb44-10a0-7aab-8f3f-543f26056888",
-      "time": "2026-08-01 11:00:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Japan's Finance Ministry said monetary authorities have a broad range of tools to address market liquidity needs."
-    },
-    {
-      "id": "mkt:019fbb43-cf44-7aab-8f3f-494d06d31b7d",
-      "time": "2026-08-01 11:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea's National Assembly passes amendment removing prosecutors' direct investigative powers】South Korea's National Assembly on July 31 approved an amendment to the Criminal Procedure Act that removes prosecutors' authority to conduct direct and supplementary investigations. The measure passed 175-2-1. Under the amendment, prosecutors may no longer carry out direct investigations or initiate supplementary probes themselves; if they deem further investigation necessary they can only request judicial police to conduct supplementary investigations. The change is part of broader prosecutorial reform."
     }
   ]
 }
