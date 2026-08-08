@@ -1,7 +1,37 @@
 {
   "date": "2026-08-08",
-  "count": 801,
+  "count": 804,
   "items": [
+    {
+      "id": "mkt:019fe1ab-c6cf-7aab-8fc4-b204c6016788",
+      "time": "2026-08-08 21:59:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Oman's state news agency said ongoing negotiations on arrangements for the Strait of Hormuz are positive and constructive."
+    },
+    {
+      "id": "mkt:019fe1ab-62f4-7aab-8fc4-a94496ab4de0",
+      "time": "2026-08-08 21:58:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman’s state news agency said Oman condemned Iran’s repeated attacks on vessels transiting the Strait of Hormuz."
+    },
+    {
+      "id": "5032015",
+      "time": "2026-08-08 21:58:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼稱有關霍爾木茲海峽安排的持續談判是\"積極且建設性的\"。"
+    },
     {
       "id": "5032014",
       "time": "2026-08-08 21:57:11",
