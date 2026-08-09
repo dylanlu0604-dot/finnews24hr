@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:11:28_
-_本檔包含 3349 則快訊，約 602079 字_
+_更新時間：2026-08-09 18:51:45_
+_本檔包含 3319 則快訊，約 602228 字_
+
+---
+
+### 2026-08-05 07:30:25  #國際
+
+日本6月加班工資較上年同期增加2.8%。
+
+---
+
+### 2026-08-05 07:30:14  #Trading Economics #Economy #Australia #Industry Index Construction #Importance 1
+
+Australia Construction Extends Six-Month Contraction — The Ai Group Industry Index for Australia's construction sector fell to -40.6 in July 2026 from a downwardly revised -33.3 in the previous month, marking its weakest reading since March and the sixth consecutive month of contraction, highlighting a further deterioration in business conditions. Activity remained constrained by delays in project approvals, persistent cost pressures, cautious client spending, a limited pipeline of tender opportunities, and contracts nearing completion. Businesses also cited policy and regulatory uncertainty, which compounded higher fuel-related costs. Meanwhile, ongoing labour shortages continued to limit capacity, while rising wage costs added further pressure on the sector's operating conditions.
+
+---
+
+### 2026-08-05 07:30:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY #Nikkei 225 #Impact bearish
+
+Japan June labor cash earnings YoY 3.4% (expected 3.5%); May revised to 3.3% from 3.2%.
+
+---
+
+### 2026-08-05 07:30:08  #MKT News #Market Regions #Japan & APAC
+
+Japan June overtime pay YoY 2.8%, down from 2.9% previously.
+
+---
+
+### 2026-08-05 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Cash Earnings (YoY) (Jun) | actual 3.4% | consensus 3.50% | previous 3.20%
+
+---
+
+### 2026-08-05 07:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Overtime Earnings (YoY) (Jun) | actual 2.8% | previous 2.9%
+
+---
+
+### 2026-08-05 07:29:54  #國際
+
+基輔市軍事管理部門稱，俄羅斯襲擊基輔造成一人死亡。
+
+---
+
+### 2026-08-05 07:29:44  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Extends Fall on Hormuz Deal Hopes — Crude oil fell toward $75 per barrel on Wednesday, extending losses for a third consecutive session and bringing its weekly decline to more than 10% as optimism grew over a potential agreement to reopen the Strait of Hormuz. On Tuesday, Qatar said an interim proposal had been prepared and both Washington and Tehran indicated that negotiations to restore access to the vital waterway were making progress. President Donald Trump had earlier called off planned military action against Iran to give diplomacy a chance, while reiterating his demand for the swift reopening of Hormuz. Meanwhile, Iran is reportedly weighing a proposal to allow European countries to clear mines from the strait and said discussions with Oman on securing safe shipping routes were advancing. Saudi Arabia also continued talks with Yemen’s Houthi militants through Omani mediators in an effort to keep the conflict in the Red Sea from escalating further.
+
+---
+
+### 2026-08-05 07:29:07  #其他
+
+【強對流+暴雨雙預警 部分地區將有10級以上雷暴大風】8月5日6時，中央氣象臺釋出強對流天氣藍色預警和暴雨藍色預警，部分地區將有10級以上雷暴大風，最大風力可達11級以上，需注意防範。
+
+---
+
+### 2026-08-05 07:28:32  #市場 #國際
+
+【落後產能有序出清 多晶矽價格四季度或溫和修復】系列政策落地正在攪動多晶矽市場格局，近日多晶矽期貨主力合約走高。記者採訪多位業內專家瞭解到，隨著政策逐步落地執行，高能耗落後產能或有序出清，第四季度多晶矽價格有望向成本線回升，但行業供需格局並未實現根本性反轉，或對價格修復節奏形成一定製約。（上海證券報）
+
+---
+
+### 2026-08-05 07:27:36  #公司
+
+【A股110份半年報“交卷” 多個賽道持續高景氣】A股上市公司半年報披露即將進入高峰期。據記者統計，截至8月4日20時，已有110家公司披露了半年報。其中，68家公司上半年淨利潤實現同比增長，14家實現扭虧為盈。行業需求的穩步回暖和主營業務的穩健增長，成為驅動上市公司業績向好的主要因素。記者梳理已披露的半年報發現，化工、醫藥、電力、有色等行業經營態勢持續向好。寧德時代、藥明康德等行業龍頭公司已率先發布半年報，上半年業績均實現強勁增長。（上海證券報）
+
+---
+
+### 2026-08-05 07:27:20  #公司 #市場
+
+【馬斯克：SpaceX收入或達1萬億美元】馬斯克週二為SpaceX勾勒了雄心勃勃的目標，包括在2027年將資料中心送入太空，以及實現1萬億美元的收入。這是該公司首次公開募股(IPO)以來，馬斯克首次向投資者發表講話。在這位億萬富豪企業家兼SpaceX執行長發表上述宣告之前，該公司釋出了一份財報，顯示其太空、網路連線和人工智慧(AI)這三大業務的收入均實現大幅增長。作為全球最大的火箭發射公司和衛星網際網路提供商，SpaceX第二財季總收入達到78億美元，較上年同期飆升92%。。儘管該公司在最新財季的虧損有所收窄，但鉅額資本支出依然對運營構成了重壓。當季資本支出達到184億美元，遠超上年同期的28億美元。SpaceX股價週二收盤上漲逾9%。但在財報釋出和電話會議之後，該股在盤後下跌逾8%。在與分析師長約一小時的電話會議中，馬斯克宣傳了公司的多項預期目標，例如SpaceX到2030年實現1萬億美元的收入，將原定於2031年達成該目標的時間表提前。馬斯克和其他高管還向分析師強調，這些支出對於建設AI基礎設施等公司戰略至關重要。
+
+---
+
+### 2026-08-05 07:26:49  #央行 #國際
+
+【美債收益率“狂飆”背後：市場開始質疑美聯儲信譽】意圖精簡溝通的美聯儲，卻意外引發了一次溝通“事故”。當美聯儲在7月議息會議上“按兵不動”並試圖壓縮與市場的溝通視窗時，債券投資者以一輪猛烈拋售作出回應——近日，30年期美債收益率飆升至5.27%，創下2007年以來新高；10年期美債收益率站上4.7%，重新整理年內峰值。在這輪美債市場動盪背後，真正受到衝擊的，或許並非單純的利率水平，而是美聯儲多年建立起來的政策信譽——市場不再無條件相信美聯儲能“馴服”通脹，投資者已開始為長期通脹與政策風險給出更高定價。（上海證券報）
+
+---
+
+### 2026-08-05 07:26:12  #國際
+
+【鬧劇！美海軍將領狂言“不許別國主導印太”】“美國海軍高階將領警告脅迫行為，稱沒有任何國家可以主導印太地區”，當地時間8月3日，美聯社用這樣的標題報道了美國太平洋司令部司令、海軍上將塞繆爾·帕帕羅當日的一次口出狂言。美聯社稱，這位美國將軍的言語是在針對中國，並且在報道中主動聯絡“南海局勢高度緊張”“菲律賓正在挑戰北京的主張”等內容，彷彿帕帕羅的講話就是來為菲律賓一些人站臺的。（環球網）
+
+---
+
+### 2026-08-05 07:24:28  #國際
+
+【聯合國秘書長副發言人：加沙軍事行動仍持續 平民受威脅】當地時間4日，聯合國秘書長副發言人法爾漢·哈克在紐約聯合國總部表示，目前加沙地帶槍擊及其他軍事行動仍在持續，加沙對平民而言仍然不安全。法爾漢·哈克表示，近日，在加沙城，一名小學生在一間帳篷教室內被子彈擊中受傷。在加沙北部一處地區，以色列軍隊拆除了當地最後一所仍然存在的學校。此外，以色列軍隊摧毀了近12個在學校院內避難家庭的帳篷，並在附近設定新的水泥墩。這意味著以方在加沙地帶實施准入限制的區域進一步擴大。
+
+---
+
+### 2026-08-05 07:23:51  #MKT News
+
+【Armed man arrested at California golf course ahead of Trump's appearance】U.S. media reported on April 4 that a man carrying multiple weapons appeared on April 2 at a golf course in Los Angeles County owned by President Trump and was arrested that day for suspicious behavior. Trump is scheduled to attend a fundraiser at the course later on April 4.
+
+---
+
+### 2026-08-05 07:22:59  #國際
+
+【沙特據悉嘗試透過外交手段阻止胡塞武裝襲擊升級】據知情人士透露，沙烏地阿拉伯希望透過幕後外交手段遏制與胡塞武裝分子再次爆發的衝突，以防與這個伊朗支援組織的衝突損害其石油工業和經濟。知情人士說，沙特王國已透過阿曼調解人與葉門胡塞武裝舉行了會談，並仍在準備軍事選項，以防外交努力失敗。因討論敏感資訊，知情人士要求匿名。知情人士說，沙特在7月底曾連續兩天對胡塞武裝目標實施了有限規模的空襲，但此後據信未再發動襲擊，利雅得正試圖透過外交途徑與這個伊斯蘭主義組織達成解決方案。胡塞目前控制著葉門大部分人口聚居地區。
+
+---
+
+### 2026-08-05 07:21:17  #市場
+
+【港股7月領漲全球 結構性行情折射估值修復邏輯】7月，港股市場一改6月的疲弱表現，迎來一輪強勁反彈行情。Wind資料顯示，7月恒生指數累計上漲超2800點，漲幅達13.13%，在全球主要股指中表現領先。分析人士認為，港股7月的強勢表現是估值窪地效應、全球資金再平衡與AI行情擴散三重因素共振的結果。在全球主要市場波動加劇的背景下，港股憑藉較低的絕對估值和相對清晰的產業趨勢，成為資金高低切換的重要承接平臺。不過，經歷短期快速上漲後，估值修復最順暢的階段或已過去，後續行情需要基本面資料的進一步驗證。（中國證券報）
+
+---
+
+### 2026-08-05 07:21:04  #國際
+
+巴西稱美國意圖干預巴西選舉。
+
+---
+
+### 2026-08-05 07:20:48  #公司
+
+【制度框架成型 金融機構“關鍵少數”履職有新標尺】從新《公司法》落地實施，到《上市公司治理準則》完成修訂，再到四部門近日聯合印發《關於健全金融機構治理的實施意見》，我國金融機構治理的制度框架正在加速構建成型。《意見》提出目標，到2029年，基本形成權責邊界清晰、激勵約束相容、風險管理嚴格、運轉規範高效的金融機構治理機制。分級分類監管、加強股東治理、加碼“關鍵少數”責任，是《意見》的三大核心看點。（證券時報）
+
+---
+
+### 2026-08-05 07:20:37  #公司
+
+【SpaceX攜手英偉達開發衛星計算載荷，將資料中心級算力送入太空】北京時間8月5日，交出上市後首份財報之際，SpaceX在社交媒體上宣佈，公司正與英偉達合作，共同開發設計Starmind AI1衛星計算載荷，每顆Starmind衛星都將搭載英偉達Rubin GPU和Vera CPU，實現資料中心級太空計算能力。英偉達也在社交媒體上確認了這項合作並表示：“AI基礎設施的下一個篇章，正邁向AI計算從未涉足的疆域。”（第一財經）
+
+---
+
+### 2026-08-05 07:20:04  #公司
+
+【報告：南加州愛迪生公司的輸電塔引發了造成嚴重破壞的洛杉磯縣伊頓大火】火災調查人員週二得出結論：南加州愛迪生公司（Southern California Edison）一座已停用的輸電塔產生的電火花，引發了2025年那場造成19人死亡、摧毀洛杉磯附近數千戶民宅的毀滅性野火。這一調查結果公佈於一份長達55頁的洛杉磯縣消防局報告中，可能給這家由愛迪生國際公司旗下的電力巨頭帶來重大法律後果。該公司因這場被稱為“伊頓大火”的火災，面臨著數十億美元的潛在賠償索賠。報告雖指出2025年1月7日這場大火還涉及其他因素——包括當時的強陣風——但明確將影片畫面中捕捉到的愛迪生輸電塔產生的電弧現象，認定為火災的唯一原因和起火點。報告稱，兩次“接連發生的電弧放電事件”導致“不明燃燒物”從這座已停用的輸電塔墜落至下方的乾燥植被層中，約12秒後引發了火災。愛迪生公司並未立即對報告的結論提出異議或予以認可。
 
 ---
 
@@ -19908,317 +20040,5 @@ Qatar's deputy prime minister and foreign minister held phone talks with counter
 ### 2026-08-04 02:35:12  #MKT News #WTI #Impact bearish #XAUUSD #DXY
 
 【Trump says talks with Iran ongoing; to proceed in two phases】U.S. President Trump told reporters at the White House on Aug. 3 that talks with Iran are underway and will proceed in two phases: first reopening the Strait of Hormuz, then denuclearization. He said the strait could be reopened as soon as tomorrow and that the talks were at Iran’s request with support from Saudi Arabia, the UAE and Qatar. Trump said Washington had been prepared to launch a major strike until Iran and Gulf states called to seek talks, reiterated that Iran must not possess nuclear weapons, and said he would not allow Iran to charge vessels for passage through the Strait of Hormuz, calling it "Iran's last chance."
-
----
-
-### 2026-08-04 02:34:43  #焦點 #國際
-
-【特朗普：與伊朗的談判正在進行 將分兩階段推進】當地時間8月3日，美國總統特朗普在白宮回答記者提問時表示，同伊朗的談判目前正在進行中。特朗普表示，關於與伊朗的談判，第一階段是開放霍爾木茲海峽，第二階段是無核化。特朗普稱，美國對此態度堅定，伊朗不能擁有核武器。此外，特朗普還透露了有關開放霍爾木茲海峽方面的談判進展。特朗普稱，霍爾木茲海峽可能最遲明天重開。
-
----
-
-### 2026-08-04 02:34:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Powell could become fourth Fed governor to complete full 14-year term】TIMIRAOS: The last three officials to complete full 14-year Fed governor terms were Alan Greenspan (1992-2006), George Mitchell (1962-1976) and William McChesney Martin Jr. (1956-1970). Each had previously filled an unexpired governor term before starting a full 14-year term. If Powell remains through January 2028 he would join that group. Powell has served on the Board for 14 years, but his formal 14-year term began in 2014.
-
----
-
-### 2026-08-04 02:31:48  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI
-
-【Night session main contracts close】At the 02:30 close, SHFE gold main contract fell 0.11% to 882 yuan/gram; SHFE silver main contract rose 0.34% to 14,153 yuan/kg; SC crude oil main contract fell 1.67% to 540 yuan/barrel.
-
----
-
-### 2026-08-04 02:31:03  #市場 #焦點 #國際
-
-美國原油期貨收於每桶80.34美元，下跌4.33美元，跌幅5.11%。
-
----
-
-### 2026-08-04 02:30:32  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D closed the evening session on Aug 3 (Mon) at 878.9 yuan/gram, down 0.33%. Silver T+D closed at 14,000.0 yuan/kg, down 0.85%.
-
----
-
-### 2026-08-04 02:30:01  #市場
-
-上期所原油期貨夜盤收跌1.67%，報540.30元人民幣/桶。滬金夜盤收跌0.11%，滬銀收漲0.34%。
-
----
-
-### 2026-08-04 02:29:55  #國際
-
-特朗普：我希望伊朗人能醒悟，絕不能允許他們擁有核武器，也盼他們能認清這一點。
-
----
-
-### 2026-08-04 02:29:26  #市場
-
-波音股價創下去年12月初以來最大盤中漲幅。
-
----
-
-### 2026-08-04 02:28:55  #公司 #市場 #焦點
-
-波音公司股價因獲得認證而延續漲勢，漲幅達7.1%，創盤中新高。
-
----
-
-### 2026-08-04 02:26:37  #國際
-
-特朗普談及伊朗： 他們聯絡我稱“請不要發動襲擊，我們願意達成協議。” 這就是事實，所有人都心知肚明。換作是誰，都會主動求和。
-
----
-
-### 2026-08-04 02:25:12  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-U.S. President Trump on Iran said he had no time limit.
-
----
-
-### 2026-08-04 02:25:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Surges by 9.38% — Top commodity gainers are Cocoa (9.38%) and Rubber (3.74%). Biggest losers are Coffee (-3.30%) and Lumber (-1.71%).
-
----
-
-### 2026-08-04 02:24:56  #MKT News #XAUUSD #Impact bullish #WTI #Impact mixed
-
-【Trump says he will not allow Iran to charge transit fees in the Strait of Hormuz】Asked whether Iran would restore full freedom of navigation in the Strait of Hormuz, U.S. President Trump said he would not allow Iran to charge passage fees. “This must be free navigation; I will not let them charge. If anyone were to charge, it would be us — we are the ones in full control,” he said, adding “we have something called a blockade. We are not discussing charging; there will be no charging.”
-
----
-
-### 2026-08-04 02:24:44  #國際
-
-特朗普：與伊朗達成協議不存在時間限制。
-
----
-
-### 2026-08-04 02:24:10  #國際
-
-特朗普談伊朗問題：沒有時間限制。
-
----
-
-### 2026-08-04 02:22:53  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-President Trump said he will give Iran one last chance before resorting to extreme measures and hopes Tehran will come to its senses.
-
----
-
-### 2026-08-04 02:22:51  #國際
-
-特朗普：希望伊朗能恢復理智。
-
----
-
-### 2026-08-04 02:22:41  #國際
-
-特朗普談及休達邊境問題：看到西班牙發生的情況時，我想到我們也曾面臨類似局面。在拜登以及民主黨執政時期，我們接納了2500萬人。邊境形同虛設，世界各國都把本國不願接納的人輸送到美國。
-
----
-
-### 2026-08-04 02:22:23  #國際
-
-特朗普：希望在採取極端行動前給伊朗最後的機會。
-
----
-
-### 2026-08-04 02:22:12  #其他
-
-城堡證券稱，牛市支撐因素“依舊穩固”。
-
----
-
-### 2026-08-04 02:21:36  #國際
-
-特朗普：剝奪伊朗的核能力是問題的核心，本該早就實現。
-
----
-
-### 2026-08-04 02:21:26  #MKT News #Market Regions #Europe & UK
-
-【Spanish police: about 73,500 migrants returned from Ceuta to Morocco】On Aug 3, Spanish police said about 73,500 migrants have returned from the North African autonomous city of Ceuta to Morocco. Public order in Ceuta is gradually being restored and local shops are reopening. Police said 88 migrants died attempting to swim into Ceuta during the crisis.
-
----
-
-### 2026-08-04 02:21:17  #MKT News #XAUUSD #Impact bullish #DXY
-
-The IDF said on Sunday it struck in the Dair al-Balah area, eliminating Abdullah Adnan Taha Abu Altaif, commander of Hamas's Nukhba unit.
-
----
-
-### 2026-08-04 02:21:01  #MKT News #Commodities #Energy
-
-U.S. President Trump reiterated that oil companies should do more to lower retail fuel prices.
-
----
-
-### 2026-08-04 02:20:44  #MKT News #Important
-
-Chevron (CVX.N) and Exxon Mobil (XOM.N) shares plunged, down 2.2% and 0.8% respectively, after Trump said the companies were "making too much money".
-
----
-
-### 2026-08-04 02:20:40  #MKT News
-
-【Trump says US-Iran talks 'underway', calls it Tehran's 'last chance' to reach deal】President Trump said on Monday that talks with Iran "are underway" and called the discussions Tehran's "last chance" to sign a "good deal." Earlier Iran denied any ongoing negotiations; Trump accused Iran's leadership of being "incredibly two-faced." Asked about progress, he reiterated "talks are taking place now," and said the dialogue was happening at the request of Iran, Saudi Arabia, the UAE and Qatar.
-
----
-
-### 2026-08-04 02:20:40  #MKT News
-
-US President Trump said he expects the United States to establish a very good relationship with the UK prime minister.
-
----
-
-### 2026-08-04 02:20:37  #其他
-
-【西班牙警方：約7.35萬名移民已從休達返回摩洛哥】當地時間8月3日，西班牙警方表示，約7.35萬名移民已從北非自治市休達返回摩洛哥。目前，休達社會秩序正逐步恢復，當地商鋪已陸續恢復營業。警方同時表示，此次移民危機中已有88名試圖游泳進入休達的非法移民死亡。
-
----
-
-### 2026-08-04 02:20:32  #MKT News #CVX.O #Impact bearish #XOM.O
-
-US President Trump said oil companies are earning too much and he doesn't like it, naming Chevron and ExxonMobil.
-
----
-
-### 2026-08-04 02:20:00  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Drops by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%), Lithium Carbonate (-2.10%) and Gold (-0.11%). Gains are led by Silicon (2.52%) and Copper (1.17%).
-
----
-
-### 2026-08-04 02:19:09  #國際
-
-特朗普：我們原計劃於昨日對伊朗發動打擊，且那將是有史以來最猛烈的一次。
-
----
-
-### 2026-08-04 02:19:01  #市場 #國際
-
-特朗普：等我們搞定伊朗後，油價將大幅下跌。
-
----
-
-### 2026-08-04 02:18:36  #焦點 #國際
-
-特朗普發表講話，埃克森美孚和雪佛龍股價跌幅擴大。
-
----
-
-### 2026-08-04 02:17:05  #公司 #國際
-
-特朗普：石油公司最好降低零售價格。
-
----
-
-### 2026-08-04 02:16:56  #國際
-
-特朗普：石油企業賺得盆滿缽滿，我不樂見此事。
-
----
-
-### 2026-08-04 02:16:48  #國際
-
-特朗普：雪佛龍、埃克森美孚賺得太多了。
-
----
-
-### 2026-08-04 02:16:40  #焦點 #國際
-
-伊朗專家會議表示，伊朗決心持續對抗美國，直至華盛頓停止霸凌行徑，並接受伊朗民族的合理訴求。
-
----
-
-### 2026-08-04 02:15:55  #國際
-
-特朗普： 英國如今瀕臨破產。只要放開北海石油開採，英國就能變得富庶。
-
----
-
-### 2026-08-04 02:15:05  #國際
-
-特朗普：我認為我會和英國首相保持非常好的關係。
-
----
-
-### 2026-08-04 02:14:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Plunges by 5.92% — Top commodity losers are Crude Oil WTI (-5.92%), Heating Oil (-5.56%) and Brent Crude Oil (-5.25%). Gains are led by Natural gas (0.81%).
-
----
-
-### 2026-08-04 02:13:27  #國際
-
-特朗普：伊朗無法在霍爾木茲海峽徵收費，因為我們擁有完全的海上控制權。
-
----
-
-### 2026-08-04 02:13:04  #國際
-
-特朗普：絕不允許伊朗在霍爾木茲海峽收取通行費，如果有人要收費，那收費的將是我們。
-
----
-
-### 2026-08-04 02:12:42  #國際
-
-特朗普：會談系應伊朗方面請求，並得到沙特、阿聯酋、卡達及其他國家的支援。
-
----
-
-### 2026-08-04 02:12:40  #MKT News #Important #WTI #Impact bullish #Brent
-
-US President Trump said if anyone imposes fees in the Strait of Hormuz, the US will impose fees as well.
-
----
-
-### 2026-08-04 02:12:07  #MKT News #Important #WTI #Impact bearish #Brent
-
-US President Trump said he would not allow Iran to charge fees for passage through the Strait of Hormuz.
-
----
-
-### 2026-08-04 02:11:56  #焦點 #國際
-
-特朗普：我不會允許伊朗對霍爾木茲海峽通航收費。
-
----
-
-### 2026-08-04 02:11:27  #市場
-
-納斯達克100指數漲幅擴大至盤中最高點2%。
-
----
-
-### 2026-08-04 02:11:14  #MKT News
-
-Acting US Attorney General Blanche will do well, Trump said.
-
----
-
-### 2026-08-04 02:11:13  #國際
-
-特朗普：託德·布蘭奇將會出色完成這項工作（司法部長），我不清楚他們達成了什麼協議。
-
----
-
-### 2026-08-04 02:10:40  #國際
-
-【特朗普稱當前談判是伊朗達成協議的最後機會】美國總統特朗普表示，當下的談判是伊朗達成協議的“最後機會”。特朗普在橢圓形辦公室的活動中表示：事態很快將走向其中一種結局。特朗普稱：“我們討論海峽通航事宜，實現海峽開放，力爭最遲明日全面打通航道，這是第一階段目標。”他補充道，第二階段將開展去核相關談判。
-
----
-
-### 2026-08-04 02:09:27  #國際
-
-特朗普：會談是伊朗避免美國打擊的最後機會。
-
----
-
-### 2026-08-04 02:08:37  #國際
-
-特朗普：伊朗人有時否認進行談判，儘管他們實際上花了很長時間磋商。
 
 ---

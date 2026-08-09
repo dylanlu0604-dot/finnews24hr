@@ -1,7 +1,167 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:11:28_
-_本檔包含 3097 則快訊，約 602009 字_
+_更新時間：2026-08-09 18:51:45_
+_本檔包含 3080 則快訊，約 602233 字_
+
+---
+
+### 2026-08-07 14:40:54  #市場
+
+夏普：已在業績預測中納入樹脂、燃料成本上漲帶來的影響。
+
+---
+
+### 2026-08-07 14:40:39  #國際
+
+菲律賓7月底外匯儲備降至1034億美元。
+
+---
+
+### 2026-08-07 14:40:23  #市場
+
+【創新藥板塊持續走高，泓博醫藥觸及漲停】創新藥板塊持續走高，泓博醫藥觸及漲停，昭衍新藥、普洛藥業、珍寶島等十餘股漲停，藥石科技、皓元醫藥、益諾思等多股漲超10%、
+
+---
+
+### 2026-08-07 14:40:20  #公司 #國際
+
+【SpaceX特斯拉擬建地表最大晶片廠】當地時間6日，美國企業家馬斯克旗下的太空探索技術公司SpaceX與特斯拉公司聯合宣佈，名為Terafab的大型晶片製造中心將落戶得克薩斯州的格賴姆斯縣，專案首期投資額達168億美元。 據瞭解，Terafab專案由SpaceX與特斯拉兩家馬斯克旗下公司聯合推進，旨在打造全球規模最大的晶片製造設施。按照規劃，工廠將集設計、製造、封裝和測試於一體，以實現馬斯克高階晶片內部自主供應的目標，降低對外部供應商的依賴。公告並未明確Terafab初期階段的產能目標，僅重申Terafab最終要年產“1太瓦算力”，1太瓦相當於1000吉瓦。這些算力將被用於特斯拉自動駕駛系統、“擎天柱”人形機器人及太空資料中心等場景使用。（央視財經）
+
+---
+
+### 2026-08-07 14:39:39  #其他
+
+【孟加拉國發生客車相撞事故 致8死25傷】孟加拉國警方證實，當地時間7日7時30分左右，該國達卡-錫爾赫特公路上發生一起嚴重車禍，兩輛客車迎頭相撞，造成至少8人死亡、25人受傷。（央視新聞）
+
+---
+
+### 2026-08-07 14:38:39  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact mixed
+
+【NVIDIA doubles Jetson AGX Orin price; Ligong Leike unveils domestic Shanhai edge AI modules】NVIDIA raised prices across its Jetson series; the Jetson AGX Orin module increased from $899 to $1,799, a 100% rise. Chinese firm Ligong Leike launched the Shanhai smart-compute module series as a domestic alternative for edge AI, built on local CPU and GPU platforms and advertised to deliver high-performance AI inference, multi-task parallel processing, extensive I/O and long-term stable operation in complex environments.
+
+---
+
+### 2026-08-07 14:38:20  #其他
+
+查理・哈徹擊敗田納西州共和黨眾議員安迪・奧格爾斯，贏得田納西州第 5 國會選區共和黨眾議院提名。
+
+---
+
+### 2026-08-07 14:37:53  #MKT News #Important #Macro & Rates #US Economy
+
+【Roundup: Institutional forecasts for US July unemployment rate (prior 4.2%)】National Bank of Canada is the lone 4.1% outlier. Nineteen institutions forecast 4.2% — including Deutsche Bank, Mizuho, HSBC, RBC, BNP Paribas, Wells Fargo, Berenberg, Commonwealth Bank of Australia, Oxford Economics, Pantheon Macroeconomics, Nordea, SocGen, Moody’s Analytics, Nomura, BMO, Barclays, TD Securities and High Frequency Economics. Nineteen institutions forecast 4.3% — including Sumitomo Mitsui, Morgan Stanley, JP Morgan, Daiwa Capital Markets, Lloyds, Scotiabank, Standard Chartered, Westpac, ING, Capital Economics, Citigroup, NatWest, Commerzbank, Goldman Sachs, UBS, CIBC, Bank of America and U.S. Bancorp. Reuters expectation: 4.2%.
+
+---
+
+### 2026-08-07 14:37:47  #公司 #觀點 #國際
+
+【機構前瞻美國7月失業率（前值：+4.2%）】
+1. 加拿大國民銀行：+4.1%；德意志銀行：+4.2%；瑞穗證券：+4.2%；滙豐控股：+4.2%；
+2. 加拿大皇家銀行：+4.2%；丹斯克銀行：+4.2%；法巴銀行：+4.2%；富國銀行：+4.2%；
+3. 貝倫貝格銀行：+4.2%；澳洲聯邦銀行：+4.2%；牛津經濟：+4.2%；潘森宏觀：+4.2%；
+4. 北歐斯安銀行：+4.2%；法國興業銀行：+4.2%；穆迪分析：+4.2%；野村證券：+4.2%；
+5. 蒙特利爾銀行：+4.2%；巴克萊銀行：+4.2%；道明證券：+4.2%；高頻經濟：+4.2%；
+6. 三井住友銀行：+4.3%；摩根士丹利：+4.3%；摩根大通：+4.3%；先鋒領航：+4.3%；
+7. 大和資本市場：+4.3%；勞埃德銀行：+4.3%；豐業銀行：+4.3%；渣打銀行：+4.3%；
+8. 西太平洋銀行：+4.3%；荷蘭國際：+4.3%；凱投宏觀：+4.3%；花旗集團：+4.3%；
+9. 國民西敏寺銀行：+4.3%；德商銀行：+4.3%；高盛集團：+4.3%；瑞銀集團：+4.3%；
+10. 加拿大帝商銀行：+4.3%；美銀美林：+4.3%；合眾銀行：+4.3%；[路透預期：4.2%]
+
+---
+
+### 2026-08-07 14:37:45  #其他
+
+【英偉達Jetson大幅漲價 理工雷科推出“山海”智算模組提供國產替代方案】理工雷科今日官微訊息，近日，英偉達Jetson系列產品價格出現顯著調整。其中，Jetson AGX Orin模組價格由899美元上調至1799美元，漲幅100%。事實上，受邊緣AI應用需求快速擴張以及上游部分元器件供應收緊影響，Jetson系列部分型號自去年起便已出現供貨趨緊的情況。核心計算平臺的價格異動與供應波動，直接影響企業產品BOM成本、交付節奏。理工雷科面向邊緣AI場景推出“山海”系列智算模組。該系列產品基於國產CPU與GPU構建，具備高效能AI推理、多工並行處理及豐富介面擴充套件能力，可在複雜環境下實現長期穩定執行。山海T100提供最高240 TOPS INT8 AI算力，FP32浮點算力達17.4 Tflops，可支撐複雜深度學習模型部署及大規模併發推理任務。儲存配置方面，128GB eMMC本地儲存有效降低對外部儲存的依賴，提升裝置整合度與部署靈活性。
+
+---
+
+### 2026-08-07 14:36:54  #國際
+
+據泰媒7日報道，泰國北碧府一輛轎車當天失控衝入一家兒童發展中心，初步統計造成了10人受傷。救援人員及警察已趕到現場展開救援和調查。（新華社）
+
+---
+
+### 2026-08-07 14:36:46  #市場 #國際
+
+韓國KOSPI指數本週跌超5%，連續第七週下跌，為2022年12月以來最長連跌紀錄。
+
+---
+
+### 2026-08-07 14:36:26  #MKT News #Important #Nikkei 225 #Impact bearish #Hang Seng Index #CSI300
+
+South Korea's KOSPI fell more than 5% this week, recording a seventh consecutive weekly decline — its longest losing streak since December 2022.
+
+---
+
+### 2026-08-07 14:35:52  #公司
+
+【恆隆：委任蔡德粦為行政總裁及執行董事，10月1日起生效】8月7日，恆隆集團有限公司及恆隆地產有限公司宣佈委任蔡德粦為行政總裁及執行董事，於2026年10月1日生效。蔡德粦將接替盧韋柏，盧韋柏將繼續任職行政總裁及執行董事至2026年9月30日。蔡德粦將於2026年9月7日加入恆隆，出任候任行政總裁及執行董事，並於2026年10月開始正式接替行政總裁一職。
+
+---
+
+### 2026-08-07 14:35:42  #國際
+
+日本政府養老金投資基金6月本土股票配置比例24.48%，3月為23.81%；6月本土債券配置比例25.59%，3月為26.91%。
+
+---
+
+### 2026-08-07 14:35:22  #MKT News #Market Regions #Emerging Markets #Nikkei 225 #Impact bearish #Hang Seng Index
+
+South Korea's KOSPI fell for a second straight session, down 5.1% week-to-date.
+
+---
+
+### 2026-08-07 14:35:03  #MKT News #Important #EURUSD #Impact mixed
+
+France's June trade balance due in 10 minutes.
+
+---
+
+### 2026-08-07 14:34:40  #市場 #國際
+
+【韓國另類交易平臺Nextrade將暫時禁止在當日價格上下限的訂單】根據宣告，韓國Nextrade將從8月12日起暫時禁止在當日漲停價和跌停價的訂單，以防價格失真。在9月14日引入靜態波動率中斷機制前，該臨時措施將持續有效。Nextrade表示，部分股票曾在其盤前交易時段出現以漲停價或跌停價成交的情況，比如SK海力士的股票，市場擔憂即使成交量很小，也可能導致價格失真。
+
+---
+
+### 2026-08-07 14:34:06  #國際
+
+日本政府養老金投資基金財年一季度：日本債券收益‑1.1%，境外債券收益+3.1%。
+
+---
+
+### 2026-08-07 14:34:02  #公司
+
+【空客7月完成67架飛機交付，年內累計交付418架】空中客車8月7日釋出資料顯示，公司7月共向39家客戶交付67架飛機，截至今年目前，空客累計完成418架飛機交付。
+
+---
+
+### 2026-08-07 14:33:44  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Rises Ahead of Key US Jobs Report — Gold climbed toward $4,300 an ounce on Friday, resuming its upward trend as investors awaited the closely watched US jobs report for fresh clues on labor market conditions and the outlook for Federal Reserve monetary policy. Markets remain divided over whether the US central bank will raise interest rates in September, although Fed officials have increasingly signaled a willingness to tighten policy soon amid mounting inflationary pressures. Investors also continued to monitor developments in the Middle East, as renewed tensions in the Strait of Hormuz pushed oil prices higher, reviving concerns about inflation and the prospect of near-term rate hikes. Elsewhere, data from clearing institutions showed that institutional investors in China continued to build long positions in gold-backed assets as a hedge against volatility in technology stocks, with demand also supported by continued central bank buying.
+
+---
+
+### 2026-08-07 14:33:20  #國際
+
+【德國工業生產連續第三個月增長，汽車行業成為主要驅動力】德國工業生產連續第三個月實現增長，顯示歐洲最大經濟體正在抵禦伊朗戰爭帶來的拖累影響。德國統計局週五公佈資料顯示，德國6月工業產出較前月增長0.2%。這一數字低於上月修正後的0.7%增速，但符合經濟學家的預期中值。推動工業增長的主要力量來自汽車行業。6月汽車產出較前月增長3.6%。與此同時，另一組資料顯示，德國出口連續第五個月擴大，進口也大幅增長。這使德國貿易順差達到154億歐元（約178億美元），低於5月的193億歐元。德國經濟部在一份宣告中表示：“儘管面臨外部經濟壓力，但上一季度製造業產出仍展現出相當強的韌性。”
+
+---
+
+### 2026-08-07 14:33:09  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DAX
+
+【German industrial production rises third month; autos drive gains】DESTATIS said Germany's industrial output rose 0.2% MoM in June, the third consecutive monthly increase and in line with the median economist forecast; May was revised to +0.7% MoM. Auto production led the advance, up 3.6% MoM. A separate release showed exports expanded for a fifth month and imports jumped, narrowing the trade surplus to EUR15.4 bln (about $17.8 bln) from EUR19.3 bln in May.
+
+---
+
+### 2026-08-07 14:33:07  #國際
+
+截至6月底， 日本政府養老金投資基金資產總額為317.8萬億日元。
+
+---
+
+### 2026-08-07 14:32:59  #Trading Economics #Economy #Norway #Manufacturing Production MoM #Importance 1
+
+Norway Manufacturing Output Falls 1% in June — Norway’s manufacturing production dropped 1% month-over-month in June 2026, reversing an upwardly revised 0.8% rise in the previous month. Output declined across several key industries, including food, beverages and tobacco (-0.7% vs 1.1% in May), fabricated metal products (-3.3% vs 5.2%), repair and installation of machinery (-7.0% vs 6.5%), computer and electrical equipment (-1.7% vs -0.5%), machinery and equipment (-3.4% vs 1.0%), basic metals (-1.5% vs 0.5%), and rubber, plastic and mineral products (-1.2% vs 0.5%). In contrast, production continued to rise in refined petroleum, chemicals and pharmaceuticals (1% vs 0.1%) and rebounded in ships, boats and oil platforms (2.5% vs -1.7%). On an annual basis, manufacturing output increased 0.7%, slowing from a downwardly revised 2.1% growth in May.
 
 ---
 
@@ -18428,257 +18588,5 @@ Australia Imports Inch Lower — Australia’s goods imports edged down 0.2% mon
 ### 2026-08-06 09:33:05  #市場 #焦點
 
 科創50日內跌幅達1.86%，成分股中，佰維儲存跌5.03%，瀾起科技跌3.36%，源傑科技跌3.26%，寒武紀跌2.62%。
-
----
-
-### 2026-08-06 09:32:54  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7
-
-Tongyu Communications briefly hit the daily trading limit after reports that Jiaxian Communications is participating in NVIDIA's 6G AI-RAN base station R&D and that Tongyu plans to invest 300 million yuan to acquire a 25% equity stake.
-
----
-
-### 2026-08-06 09:32:48  #市場
-
-通宇通訊短線拉昇漲停，訊息面上，佳賢通訊參與英偉達6G AI-RAN基站研發，通宇通訊擬以3億元入股25%股權。
-
----
-
-### 2026-08-06 09:32:26  #市場 #焦點
-
-創業板指跌2.00%，現報3464.289點；上證指數跌0.19%，現報3871.086點；深證成指跌1.18%，現報13977.615點。
-
----
-
-### 2026-08-06 09:32:24  #市場
-
-【小金屬板塊盤初走強，雲南鍺業漲停】小金屬板塊盤初走強，雲南鍺業漲停，中鎢高新、翔鷺鎢業、浩通科技、華陽新材、章源鎢業、東方鉭業等跟漲。
-
----
-
-### 2026-08-06 09:32:17  #市場
-
-【創新藥概念盤初活躍 百花醫藥3連板】早盤創新藥概念延續此前強勢，百花醫藥3連板，榮昌生物、睿智醫藥、萬邦醫藥、百濟神州、新贛江、三元基因漲幅靠前。
-
----
-
-### 2026-08-06 09:32:05  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Holds Losses on Hormuz Deal — The dollar index hovered around 99.6 on Thursday, remaining close to a seven-week low as the agreement to partially reopen the Strait of Hormuz weighed on oil prices, easing inflation pressures and diminishing expectations for more aggressive Federal Reserve tightening. Iran and Oman agreed to establish a shipping corridor through the strait, strengthening hopes for improved energy supplies from the Middle East. Investors have since reduced their expectations for Fed rate hikes this year, now anticipating only one increase by year-end, compared with two as recently as last week. Meanwhile, ADP data showed the US economy created just 44,000 private-sector jobs in July, marking the weakest monthly gain since January and falling well short of forecasts for 70,000. Separately, Fed Governor Lisa Cook said that she is willing to raise rates if inflation fails to moderate, cautioning that the central bank may have limited scope to delay action before returning inflation to its 2% target.
-
----
-
-### 2026-08-06 09:32:00  #市場
-
-【影視院線板塊盤初走強，北京文化漲停】影視院線板塊盤初走強，北京文化漲停，儒意電影、博納影業、中國電影、ST華誼、華智數媒、中南文化等跟漲。
-
----
-
-### 2026-08-06 09:31:50  #國際
-
-馬來西亞第二副財長：馬來西亞第二季度經濟增長“應該沒問題”。
-
----
-
-### 2026-08-06 09:31:18  #MKT News #Market Regions #Greater China #300308.SZ #Impact bearish #002475.SZ
-
-China A-share CPO sector slipped; Lianxun Instruments fell more than 5%, Ruijie Networks, Zhongji Xuchuang and Guoci Materials dropped over 4%, Guangku Technology and Luxshare Precision also declined.
-
----
-
-### 2026-08-06 09:31:16  #MKT News
-
-【China government bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) main contract up 0.01%, 5-year (TF) up 0.02%, 10-year (T) unchanged, 30-year (TL) up 0.03%.
-
----
-
-### 2026-08-06 09:31:14  #其他
-
-【佳賢通訊參與英偉達6G AI-RAN基站研發，通宇通訊擬以3億元入股25%股權】記者從通訊產業鏈核心人士處獲悉，英偉達正在加速進入電信運營商市場，並在中國尋找基站廠商合作方，開發符合海外市場要求的6G基站。該人士形容，英偉達在找端側算力的“下一個中際旭創”，因為英偉達認為，算力接下來要從資料中心傳輸到海量的AI終端和使用者，最終需要依賴基站的無線傳輸。上述人士稱，英偉達推動這一專案的節奏“比較緊迫”，希望在2027或2028年進入試驗網。記者同時獲悉，深圳佳賢通訊正參與英偉達6G AI-RAN基站合作開發。佳賢通訊內部人士向介面新聞記者確認，雙方自2025年開始接觸，目前正基於英偉達CUDA生態開展6G AI-RAN基站研發合作，雙方合作已持續半年多。（介面新聞）
-
----
-
-### 2026-08-06 09:31:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish
-
-【China stock index futures open lower in morning trade】CSI 300 index futures (IF) main contract down 0.66%; SSE 50 index futures (IH) main contract down 0.27%; CSI 500 index futures (IC) main contract down 0.77%; CSI 1000 index futures (IM) main contract down 0.63% at the morning open.
-
----
-
-### 2026-08-06 09:30:52  #市場
-
-中證轉債指數開盤持平。N曙26轉、久吾轉02、江農轉債、金25轉債、微芯轉債漲幅居前，分別漲30.00%、12.84%、8.07%、6.45%、4.61%。應流轉債、珂瑪轉債、路維轉債、聯瑞轉債、XD微導轉跌幅居前，分別跌6.16%、2.75%、2.55%、2.26%、2.13%。
-
----
-
-### 2026-08-06 09:30:26  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌1%，現報7662.20點。
-
----
-
-### 2026-08-06 09:30:26  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌1%，現報7357.00點。
-
----
-
-### 2026-08-06 09:30:24  #其他
-
-澳大利亞6月份貿易順差為19.29億澳元；預期為-10.8億澳元。
-
----
-
-### 2026-08-06 09:30:15  #MKT News
-
-Australia June imports MoM -0.2% (May +2.6%).
-
----
-
-### 2026-08-06 09:30:15  #MKT News #DXY #Impact bearish
-
-Australia June exports rose 9.6% MoM; prior -6.9%.
-
----
-
-### 2026-08-06 09:30:14  #MKT News #DXY #Impact bearish
-
-Australia June goods and services trade surplus A$1.929 bln; market expected A$1.1 bln deficit; May's deficit A$3.018 bln.
-
----
-
-### 2026-08-06 09:30:11  #資料
-
-澳大利亞6月出口月率 9.6%，前值-6.90%。澳大利亞6月進口月率 -0.2%，前值2.60%。
-
----
-
-### 2026-08-06 09:30:04  #市場 #焦點
-
-科創50日內跌幅達2.39%，成分股中，佰維儲存跌4.77%，拓荊科技跌4.70%，盛美上海跌4.43%，華虹宏力跌3.92%。
-
----
-
-### 2026-08-06 09:30:02  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.53%， 滬深300指數期貨連續跌0.68%， 中證500指數期貨連續跌0.66%， 上證50指數期貨連續跌0.41%。
-
----
-
-### 2026-08-06 09:30:02  #市場 #焦點
-
-恒生指數跌超1%，現報25609.219點；恒生科技指數現跌1.335%。
-
----
-
-### 2026-08-06 09:30:02  #市場 #焦點
-
-恒生科技指數跌超1%，現報4867.210點；恒生指數現跌0.960%。
-
----
-
-### 2026-08-06 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約漲0.04%， 10年期主力合約漲0.03%， 5年期主力合約漲0.04%， 2年期主力合約基本持平。
-
----
-
-### 2026-08-06 09:30:01  #市場
-
-布倫特原油期貨漲幅擴大至1%，報80.268美元/桶。
-
----
-
-### 2026-08-06 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Imports (MoM) (Jun) | actual -0.2% | previous 2.60%
-
----
-
-### 2026-08-06 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Exports (MoM) (Jun) | actual 9.6% | previous -6.90%
-
----
-
-### 2026-08-06 09:30:00  #MKT News #Economic Calendar #Important
-
-Australia | Goods and Services Trade Balance (Jun) | actual 1929000000B | consensus -1100000000B | previous -3018000000B
-
----
-
-### 2026-08-06 09:29:49  #其他
-
-【港股人工智慧股走弱 兆易創新跌超5%】截至發稿，兆易創新(03986.HK)跌5.35%，瀾起科技(06809.HK)跌3.77%，智譜(02513.HK)跌2.98%，滴普科技(01384.HK)跌2.64%。
-
----
-
-### 2026-08-06 09:29:39  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【Trump treats Fed chair Wosh as outside adviser; repeatedly called on economic issues】The Wall Street Journal, citing people familiar with the matter, says President Trump has phoned Fed chair Wosh repeatedly since Wosh took office, breaking customary patterns of presidential contact with central bank chiefs. Call frequency varied from multiple calls in a few days to long gaps. Trump sought Wosh's views on issues including a potential Iran war and the economic impact of rapid AI development. Insiders say it is unclear whether monetary policy was discussed; one person insisted the president never raised interest rates. Wosh reportedly expressed private economic optimism consistent with his public remarks. Trump has told allies he views Wosh as an important external economic adviser. The relationship could prompt concerns about Federal Reserve independence.
-
----
-
-### 2026-08-06 09:29:07  #MKT News #09992.HK #Impact bearish
-
-Hong Kong-listed Pop Mart (09992.HK) fell more than 3% after an HKEX filing showed Duan Yongping's stake declined to 5.55% from 7.65%.
-
----
-
-### 2026-08-06 09:28:53  #央行 #國際
-
-美聯儲戴利：應關注科技投資借貸的增長。
-
----
-
-### 2026-08-06 09:28:45  #MKT News
-
-DALY: Rising borrowing to finance technology investment merits attention.
-
----
-
-### 2026-08-06 09:28:36  #國際
-
-韓國產業通商資源部長官：美國預計將於本月宣佈產能過剩調查結果。
-
----
-
-### 2026-08-06 09:28:30  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-Shanghai crude (SC) 2609 rallied intraday, extending gains to 1.01% at 518.2 yuan/barrel. Turnover about CNY 50.485 bln; open interest rose nearly 1,500 lots intraday as volume and OI activity picked up. Front-month fuel oil contract advanced over 2.0% to 3,419.00 yuan/ton.
-
----
-
-### 2026-08-06 09:28:22  #公司 #市場
-
-【工業金屬板塊高開，盛達資源漲停】工業金屬板塊高開，盛達資源漲停，白銀有色、盛屯礦業、電工合金、鋅業股份紛紛高開。
-
----
-
-### 2026-08-06 09:28:19  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-At the open on Thursday Aug 6, China's Shanghai Composite Index was down 14.16 points (-0.36 pct) at 3,864.27; Shenzhen Composite Index was down 162.76 points (-1.15 pct) at 13,981.44; CSI 300 Index was down 36.35 points (-0.78 pct) at 4,621.80; ChiNext Index was down 63.00 points (-1.78 pct) at 3,472.15; STAR 50 Index was down 42.56 points (-2.51 pct) at 1,651.11.
-
----
-
-### 2026-08-06 09:28:14  #MKT News #01299.HK #Impact bearish
-
-Hong Kong-listed AIA Group (01299.HK) fell over 6%; turnover topped HK$300 mln.
-
----
-
-### 2026-08-06 09:27:53  #其他
-
-日經225指數跌幅擴大至2%。
-
----
-
-### 2026-08-06 09:27:35  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-China A-share precious metals sector opened higher. Xiaocheng Technology opened nearly 10% higher; Zhaojin Gold, Chifeng Gold and Sichuan Gold also opened up at the open.
-
----
-
-### 2026-08-06 09:27:34  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars #CSI300 #Impact bearish #SSE Composite
-
-China A-share storage chip sector opened lower; Puran fell more than 6%, GigaDevice, Weidao Nano and Jiangbolong dropped over 5%, Youyan Silicon and Baiwei Storage also declined.
 
 ---
