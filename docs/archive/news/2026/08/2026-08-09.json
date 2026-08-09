@@ -1,7 +1,45 @@
 {
   "date": "2026-08-09",
-  "count": 531,
+  "count": 535,
   "items": [
+    {
+      "id": "mkt:019fe5d4-0b0b-7aab-8fc8-f815034697ca",
+      "time": "2026-08-09 17:21:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【Apple removes support doc referencing Alibaba Qwen model; says integration not implemented】A support document titled Using Qianwen with Apple Intelligence on Mac briefly appeared in Apple’s Mac Simplified Chinese user guide and said Apple Intelligence could work with Alibaba’s Qwen model. The page was removed on Aug. 9 and reverted to the prior Using ChatGPT with Apple Intelligence version. Apple customer support said staff were not notified of any such feature and that integration is not implemented; rollout will take additional time."
+    },
+    {
+      "id": "5032468",
+      "time": "2026-08-09 17:19:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：胡塞武裝襲擊沙特僱傭兵陣地。"
+    },
+    {
+      "id": "5032467",
+      "time": "2026-08-09 17:19:00",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【東吳證券：大盤底部蓄勢，新一輪行情將徐徐展開】東吳證券研報表示，在經歷了7月的風格調整後，短期A股風格的再平衡，本質上是內生交易擁擠與外圍市場聯動共同驅動的資金面修正，而非產業趨勢證偽，再從市場波動、股價位置、擁擠度、融資四個維度觀察當前市場的狀態。當前市場已經進入降波築底的階段，而接下來8月的業績期將是關鍵的變奏點，AI主線有望再度走強。此外，其他景氣線索也值得關注：創新藥/CXO，業績、政策等多因素共振，景氣持續上修；電力裝置，電網、電源等環節具備出海優勢；有色金屬，降息預期再度升溫，金、銅價格修復。"
+    },
+    {
+      "id": "5032466",
+      "time": "2026-08-09 17:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門媒體：防空系統在摩卡港上空攔截了胡塞武裝的無人機。"
+    },
     {
       "id": "mkt:019fe5cc-a20c-7aab-8fc8-f7a268e0ec0e",
       "time": "2026-08-09 17:13:40",
