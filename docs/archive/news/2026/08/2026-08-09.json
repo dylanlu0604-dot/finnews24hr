@@ -1,7 +1,39 @@
 {
   "date": "2026-08-09",
-  "count": 254,
+  "count": 258,
   "items": [
+    {
+      "id": "mkt:019fe43d-0887-7aab-8fc7-caa6cb682120",
+      "time": "2026-08-09 09:57:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hunter Biden says former president Biden's prostate cancer worsening, has metastasized】Hunter Biden said in a media interview on the 8th that former US president Biden's prostate cancer has worsened, with cancer cells having spread to bone and other parts of his body, causing severe pain and materially affecting his daily life."
+    },
+    {
+      "id": "5032228",
+      "time": "2026-08-09 09:56:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯南部發生交通事故 致至少13人死亡】據秘魯方面8日訊息，該國南部庫斯科省當天發生一起汽車相撞事故，造成至少13人死亡。（央視新聞）"
+    },
+    {
+      "id": "5032227",
+      "time": "2026-08-09 09:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海升級暴雨預警為黃色】上海市氣象臺8月9日9時30分發布中心城區暴雨黃色預警：受颱風影響，預計今天和明天，中心城區大部1小時雨強將達60毫米以上，6小時累計降水量將達100毫米以上，暴雨藍色預警訊號更新為暴雨黃色預警訊號，提醒市民加強防範極端強降雨可能引發的城市積澇。"
+    },
+    {
+      "id": "5032226",
+      "time": "2026-08-09 09:55:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本前首相細川護熙批評高市早苗對華政策】據日本共同社等媒體8日報道，日本前首相細川護熙為近期將發行的月刊雜誌《文藝春秋》9月刊撰文，對現任日本首相高市早苗的對華政策等提出批評。報道提到，對於因高市早苗涉臺錯誤言論而惡化的日中關係，細川護熙表示，“為了打破僵局什麼都不做，難免會被批評不負責任”。他認為，嚴重降溫的日中關係正給國民帶來巨大損失。細川護熙補充稱，“在處理對美中兩國的距離感和如何保持平衡方面，看不出她有什麼戰略”。（環球網）"
+    },
     {
       "id": "5032225",
       "time": "2026-08-09 09:53:36",
