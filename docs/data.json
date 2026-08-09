@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-10 04:56:05",
-  "count": 15956,
+  "updated": "2026-08-10 04:59:58",
+  "count": 15955,
   "items": [
+    {
+      "id": "mkt:019fe84f-e8ca-7aab-8fcb-d0f0b12ff7e8",
+      "time": "2026-08-10 04:56:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.AS",
+        "Impact bearish"
+      ],
+      "text": "【Musk signals possible free-electron laser challenge to ASML's EUV】SpaceX said it will partner with Tesla on an initial $16.8 bln investment to build a Terafab chip facility in Texas. Posts and a blogger’s read of Terafab materials suggest the plant may adopt free-electron laser (FEL) technology as a lithography light source to challenge ASML’s LPP EUV; Musk replied with FEL FTW and the facility layout reportedly supports that reading. FEL proponents cite higher power, coherence, tunable wavelength and potentially better energy efficiency, and in theory it could push lithography wavelengths from 13.5nm toward ~6nm or shorter. Commercialisation hurdles remain significant: large accelerator systems, capital cost and production stability are the main obstacles."
+    },
     {
       "id": "5032682",
       "time": "2026-08-10 04:50:05",
@@ -145323,22 +145336,6 @@
         "國際"
       ],
       "text": "俄羅斯表示烏克蘭再度嘗試襲擊扎波羅熱核電站。"
-    },
-    {
-      "id": "5021058",
-      "time": "2026-08-03 04:56:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員舒默就臨時撥款法案表態：今日公佈的持續決議案是穩妥可行的方案。"
-    },
-    {
-      "id": "mkt:019fc443-7612-7aab-8f49-2c545ab4f4d5",
-      "time": "2026-08-03 04:56:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SCHUMER said the continuing resolution released today is the responsible choice."
     }
   ]
 }
