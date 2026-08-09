@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 8,
+  "count": 10,
   "items": [
+    {
+      "id": "5032628",
+      "time": "2026-08-10 00:27:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克訊息人士：各方已達成政治協議，將於明年9月底前將各武裝派系武器移交人民動員組織。"
+    },
+    {
+      "id": "mkt:019fe759-24f2-7aab-8fca-d9b298bbd9e7",
+      "time": "2026-08-10 00:26:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi media cite Coordination Framework sources saying a political agreement has been reached; factions will transfer weapons to the Popular Mobilization Forces by the end of September."
+    },
     {
       "id": "mkt:019fe752-17a6-7aab-8fca-d6b2fd744e32",
       "time": "2026-08-10 00:19:04",
