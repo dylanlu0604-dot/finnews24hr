@@ -1,7 +1,75 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:03:23_
-_本檔包含 3382 則快訊，約 602050 字_
+_更新時間：2026-08-10 00:48:22_
+_本檔包含 3377 則快訊，約 601888 字_
+
+---
+
+### 2026-08-06 10:40:27  #公司
+
+【MiniMax註冊資本增至55億元】企查查APP顯示，近日，MiniMax關聯公司上海稀宇極智科技有限公司發生工商變更，註冊資本由40億元增至55億元，增資15億元。此前5月，該公司註冊資本由10億元增至40億元，增資30億元。企查查資訊顯示，該公司成立於2021年，經營範圍包含：計算機系統服務；資訊系統整合服務；資訊系統執行維護服務；人工智慧基礎軟體開發；人工智慧應用軟體開發等。
+
+---
+
+### 2026-08-06 10:40:02  #市場
+
+【主力資金：長鑫科技淨賣出超17億】截至目前，今日主力資金淨流出164.50億；淨流入昨日高振幅、PCB概念、5G等板塊，其中昨日高振幅板塊淨流入64.03億；淨流出轉融券標的、融資融券、MSCI中國等板塊，其中轉融券標的板塊淨流出161.91億。
+  
+個股方面，景旺電子淨買入8.27億元位居首位，勝宏科技、方正科技、長電科技主力資金淨流入居前；長鑫科技淨賣出17.82億元位居首位，寧德時代、兆易創新、風華高科淨流出額居前。
+
+---
+
+### 2026-08-06 10:40:02  #其他
+
+【寒武紀啟動2027屆校園招聘】8月6日，寒武紀宣佈2027屆校園招聘正式啟動，面向於2026年9月-2027年8月畢業的高校應屆畢業生，招聘方向為晶片類、軟體類、職能與研發支援類，工作地點在北京、上海、深圳、合肥、西安和南京。
+
+---
+
+### 2026-08-06 10:39:54  #其他
+
+【證通電子與倍瑞思浸沒液冷試點落地 為高密度算力機房升級提供新思路】倍瑞思官微訊息，近日，倍瑞思與證通電子完成浸沒式液冷試點落地，為高密度算力機房升級打造可落地範本。本次試點核心硬體為針對浸沒場景專項研發的智算伺服器，搭載8張RTX5090算力卡，適配AI訓練、模型推理、模擬渲染等高負載工作。本次雙方合作打通定製伺服器、存量暖通複用、穩定運維完整鏈路，解決行業普遍存在的液冷改造成本高等痛點。未來雙方將基於本次試點持續最佳化，研發多機櫃並聯方案，完善不同水溫、不同算力硬體的適配標準，推動浸沒液冷從大型超算走向普惠落地。
+
+---
+
+### 2026-08-06 10:39:45  #MKT News
+
+【White House denies Trump-Hegseth clash over ammunition shortages】White House press secretary Leavitt said on Aug. 5 a Washington Post report that President Trump and Defense Secretary Hegseth argued at Camp David over severe US missile and munitions shortages tied to the Iran conflict was "fake news." Leavitt said she was at Camp David with Trump and Hegseth and the incident did not occur, and that they have repeatedly told the Washington Post the same. The Washington Post, citing sources, reported on Aug. 5 that last week Trump expressed strong displeasure at Camp David and demanded an explanation from Hegseth over an alleged weapons shortfall.
+
+---
+
+### 2026-08-06 10:39:25  #其他
+
+【中興通訊攜手Sky47建成巴基斯坦規模最大智算資料中心】據中興通訊官網，近日，由中興通訊與巴基斯坦領先雲服務商Sky47聯合承建的、巴基斯坦規模最大的通算與智算一體化的資料中心——Sky47喀喇崑崙一號（Karakoram-01） 落成典禮在伊斯蘭堡舉辦。作為巴基斯坦首座定製化AI原生Tier III級資料中心，Sky47喀喇崑崙一號總供電容量達8.5兆瓦。該中心將在巴基斯坦全國範圍內提供強大的雲端計算、資料託管與先進數字服務支援，全面滿足政府及企業在人工智慧（AI）、機器學習（ML）及高效能運算（HPC）等領域的算力需求。
+
+---
+
+### 2026-08-06 10:38:29  #國際
+
+【白宮否認特朗普與赫格塞思因彈藥庫存短缺發生爭執】當地時間8月5日，美國白宮新聞秘書萊維特表示，有關總統特朗普與國防部長赫格塞思在馬里蘭州戴維營“因伊朗戰事中美軍導彈庫存嚴重短缺而發生爭執”的報道是“假新聞”。萊維特說，當時她與特朗普及赫格塞思一同在戴維營，報道里說的情況並未發生過。他們也曾多次向《華盛頓郵報》澄清這一點。《華盛頓郵報》5日援引知情人士的話報道稱，上週，特朗普在戴維營就伊朗問題表達了強烈不滿，要求防長赫格塞思就軍火嚴重短缺問題作出解釋。
+
+---
+
+### 2026-08-06 10:38:22  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
+
+【Advanced Micro‑Fabrication Equipment establishes Central China HQ in Wuhan's Optics Valley】Advanced Micro‑Fabrication Equipment (Shanghai) Co., Ltd. has set up its Central China headquarters in Wuhan's Optics Valley, with operations due to start early next year. Its Wuhan unit was registered on July 28 with registered capital of 50 mln yuan. The project will build a Central China HQ and R&D center focused on core semiconductor equipment — thin film, etch and epitaxy — to serve key customers in Wuhan and the broader Central China region.
+
+---
+
+### 2026-08-06 10:37:58  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
+
+LME nickel down 2.00% intraday at $16,793/mt.
+
+---
+
+### 2026-08-06 10:37:47  #公司
+
+【中微半導體在光谷設立華中總部】據中國光谷公眾號，近日，中微半導體裝置（上海）股份有限公司（簡稱“中微半導體”）華中總部正式落戶光谷，預計明年初正式投入運營。中微半導體裝置（武漢）有限公司已於7月28日完成註冊，註冊資本5000萬元。專案聚焦核心半導體裝置研發，計劃建設華中總部及研發中心，開展薄膜、刻蝕、外延等核心半導體裝置的研發，服務武漢乃至華中地區重點客戶。
+
+---
+
+### 2026-08-06 10:37:35  #公司 #觀點
+
+【博視像元完成C輪融資】8月6日，積體電路光學影像部件領域企業北京博視像元科技有限公司宣佈完成C輪融資，本輪融資由中信建投投資、北京京國管股權投資基金、朗瑪峰創投三家機構聯合注資。
 
 ---
 
@@ -20283,101 +20351,5 @@ Japanese Shares Track Wall Street Higher — The Nikkei 225 Index jumped 3.3% to
 ### 2026-08-05 08:39:11  #公司 #市場
 
 【MLCC景氣度高企，概念股業績預喜比例100%】8月4日午後，MLCC概念活躍，概念指數收漲5.22%。訊息面上，村田、三星電機、太陽誘電等日韓頭部廠商先後針對AI伺服器及車規高階高容MLCC上調價格，漲幅區間達15%～30%。中國銀河證券指出，受益於AI伺服器和純電動汽車需求高增長，高容MLCC需求高速增長、交期拉長。超高容MLCC非常緊缺，MLCC龍頭小幅擴產備貨超高容產品，但產能釋放需要一年以上，超高容產品需求旺盛但供給受限的格局短期難以緩解。據證券時報·資料寶統計，MLCC概念股有19只，今年以來，股價平均上漲67.2%，昀冢科技、風華高科、三環集團、國瓷材料等6股的股價漲幅居前，年內均上漲超100%。從業績預期來看，目前5只概念股釋出上半年業績預告，業績全部預喜。按照預告下限資料來看，雙星新材業績預計扭虧，博傑股份、風華高科、三環集團、皖維高新的淨利潤均同比呈現增長。
-
----
-
-### 2026-08-05 08:35:54  #國際
-
-【美伊談判出現反差 霍爾木茲方案浮出水面】當地時間8月4日，美伊雙方圍繞談判再次出現不同表述。美國財長貝森特表示，美伊有望在未來一兩天內就恢復霍爾木茲海峽通航達成協議；美國務卿魯比奧稱，有關談判“取得進展，但尚未完成”；卡達外交部也表示，協議草案已經開始在有關各方之間流轉。然而，伊朗外交部同一天再次表示，並未與美國恢復談判。一邊不斷釋放積極訊號，一邊繼續否認直接談判，看似矛盾的兩種說法，自然引發國際輿論關注。不過，從目前公開資訊看，雙方爭議更多在於如何定義“談判”，而不是是否存在外交接觸。更值得關注的是，隨著霍爾木茲海峽逐漸成為當前外交努力的重點，美伊之間的溝通已經開始從原則性表態進入討論具體方案的新階段，相關細節也在浮出水面。（央視）
-
----
-
-### 2026-08-05 08:35:11  #市場 #央行 #國際
-
-【日本央行會議紀要：委員們認為潛在通脹存在上行風險】週三公佈的日本央行6月政策會議紀要顯示，大多數委員認為潛在通脹存在上行風險。6月15日至16日會議的紀要還顯示，如果經濟和價格走勢符合展望，委員會計劃繼續加息。一位委員表示，需要儘快將基準利率提高至更接近中性的水平。注：根據日本央行的估算，中性利率介於1.1%至2.5%。一位委員表示，應考慮每隔幾個月加息一次；一位政府代表稱，預計央行將基於對首相高市早苗增長舉措的理解，妥善實施貨幣政策；一位委員指出，如果購買日本國債被視為旨在降低長期利率，可能會對央行的信譽產生負面影響；一些委員稱，應說明暫停削減日本國債購買規模的舉措並非出於財政考慮。
-
----
-
-### 2026-08-05 08:34:28  #Trading Economics #Economy #Japan #Services PMI #Importance 2
-
-Japan Services PMI Revised Lower — Japan’s S&P Global Services PMI Business Activity Index was revised lower to 51.2 in July 2026 from 51.9 in the preliminary estimate and after a final reading of 52.2 in the previous month. Despite the slowdown, the reading marked the 16th consecutive month of expansion in the services sector. Growth in new business moderated, with new orders expanding at the slowest pace in 25 months. Employment also increased more slowly amid signs of easing capacity pressures.
-
----
-
-### 2026-08-05 08:34:22  #公司
-
-KAKAO GAMES CEO稱無與LINE GAMES合併計劃。
-
----
-
-### 2026-08-05 08:33:10  #市場
-
-【廣發證券：地產板塊估值“底背離” 核心優質房企具備長期配置價值】廣發證券研報表示，地產板塊估值“底背離”，核心優質房企具備長期配置價值。2026年上半年，SW地產板塊累計跌16.4%，跑輸大盤（滬深300）24個百分點，16家主流房企跌14.9%。當前股價中包含房價下跌預期為16%，而過去半年房價已經止跌，偏離程度達到2021年以來的最大值。短期看好板塊偏離修復的反彈機會，9、10月份後若核心城市成交中樞進一步抬升，房價加速上漲，則板塊具備價值反轉的機會。個股選擇上，短期銷售增長對股價的影響依然有效，同時要兼顧企業的投資拓展表現以及估值情況。
-
----
-
-### 2026-08-05 08:32:57  #市場 #央行 #國際
-
-【日本首相高市曾要求央行在必要時增購債券以遏制收益率升勢】日本時事新聞社週二報道稱，日本首相高市早苗在5月與日本央行總裁植田和男會晤時，要求日本央行在必要時增購政府債券，以抑制長期利率的上漲。時事社援引數名未具名訊息人士的話稱，在會晤中，高市早苗呼籲植田和男採取“適當措施穩定市場”，並在必要時增加公債購買量。時事社稱，植田回應稱，日本央行需要考慮此類措施可能引發的市場反應，但央行將在必要時作出回應。日本政府未立即回應置評請求。
-
----
-
-### 2026-08-05 08:32:48  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
-
-Japan Composite PMI Revised Downward — Japan’s S&P Global Composite PMI Business Activity Index was at 52.7 in July 2026, lower than the flash data of 53.1 and June's 52.8. Still, it was the highest reading since February, marking the 16th straight month of expansion in private sector activity.
-
----
-
-### 2026-08-05 08:32:28  #資料 #國際
-
-【PMI資料顯示：成本壓力之下日本服務業增速放緩】一項民間調查顯示，受需求走弱、企業承受巨大成本壓力影響，7月日本服務業擴張步伐放緩，銷售價格通脹創下2014年4月以來最高水平。標普全球日本服務業採購經理人指數（PMI）7月終值為51.2，低於6月的52.2，同樣不及51.9的初值。該指數連續第二個月處於擴張區間，但擴張速度遠低於2026年早些時候。指數高於50代表行業活動擴張，低於50則代表收縮。新業務增速跌至兩年低點。日本服務業海外需求連續第四個月下滑，不過收縮幅度較5、6月有所收窄。成本壓力依舊高企，投入品價格漲幅僅略低於6月創下的四年高點。調查稱，受訪企業認為中東局勢帶來的通脹環境、人力成本上升以及日元貶值是主要推動因素。
-
----
-
-### 2026-08-05 08:30:30  #經濟數據 #日本
-
-日本7月服務業PMI終值為51.2，初值51.9。日本7月綜合PMI終值為52.7，前值53.1。
-
----
-
-### 2026-08-05 08:30:09  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hong Kong S&P Global Manufacturing PMI fell to 51 in July from 52 in June.
-
----
-
-### 2026-08-05 08:30:07  #MKT News #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
-
-Japan July services PMI (final) 51.2, down from 51.9 previously.
-
----
-
-### 2026-08-05 08:30:07  #MKT News #Market Regions #Japan & APAC
-
-Japan July final composite PMI 52.7, down from 53.1 previously.
-
----
-
-### 2026-08-05 08:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Services PMI (Jul) | actual 51.2 | previous 51.9
-
----
-
-### 2026-08-05 08:30:00  #MKT News #Economic Calendar #Important
-
-Japan | Composite PMI (Jul) | actual 52.7 | previous 53.1
-
----
-
-### 2026-08-05 08:30:00  #MKT News #Economic Calendar #Important
-
-Hong Kong | Manufacturing PMI (Jul) | actual 51 | previous 52
-
----
-
-### 2026-08-05 08:29:17  #Trading Economics #Economy #South Korea #Government Bond Korea #Importance 1
-
-South Korea 10Y Bond Yield Hits 4-week Low — South Korea 10 Year Government Bond Yield decreased to 4.19%, the lowest since July 2026. Over the past 4 weeks, South Korea 10Y Bond Yield gained 5.00 basis points, and in the last 12 months, it increased 148.50 basis points.
 
 ---

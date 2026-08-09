@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:03:23_
-_本檔包含 3144 則快訊，約 602179 字_
+_更新時間：2026-08-10 00:48:22_
+_本檔包含 3151 則快訊，約 602092 字_
+
+---
+
+### 2026-08-10 00:42:40  #國際
+
+【印尼一賽車比賽發生事故 7人死亡9人重傷】當地時間8月9日，在印尼北蘇拉威西省科塔莫巴古地區舉行的賽車比賽發生嚴重事故。一輛參賽車輛起步後高速行駛，突然失控衝出賽道，撞向終點線附近的觀眾。比賽隨即被叫停，工作人員和相關部門展開救援。截至當晚21時，事故已造成7人死亡、9人重傷。賽事主辦方表示將對事故負責。
+
+---
+
+### 2026-08-10 00:40:07  #國際
+
+真主黨就以色列外交部發布包含黎巴嫩南部的地圖作出表態：黎巴嫩若繼續走妥協路線，就要承擔相應後果。
+
+---
+
+### 2026-08-10 00:39:47  #國際
+
+真主黨：以色列與黎巴嫩開展直接談判，是公然企圖爭取時間、強行製造既成事實。
+
+---
+
+### 2026-08-10 00:39:46  #國際
+
+真主黨：黎巴嫩政府必須停止與以色列直接談判，並向聯合國安理會提交緊急申訴。
+
+---
+
+### 2026-08-10 00:39:23  #MKT News
+
+HEZBOLLAH said direct talks between Israel and Lebanon are an undisguised attempt to buy time and impose new facts on the ground.
+
+---
+
+### 2026-08-10 00:38:16  #MKT News
+
+Lebanon's Hezbollah urged the government to halt direct negotiations with Israel and to lodge an urgent complaint with the UN Security Council.
+
+---
+
+### 2026-08-10 00:38:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+HEZBOLLAH said authorities should bear responsibility for pursuing a path toward compromise in response to Israel's foreign ministry publishing a map that includes southern Lebanon.
+
+---
+
+### 2026-08-10 00:36:53  #MKT News #Market Regions #Europe & UK
+
+【Shooting in Holbæk, Denmark — multiple injured; police say likely gang-related】Danish police said a shooting in Holbæk on Aug. 9 at about 15:45 local time left multiple people wounded; exact casualty figures are unknown. Police said the incident likely stemmed from a criminal gang transaction; no arrests have been made. Holbæk is about 60 km west of Copenhagen and has roughly 30,000 residents.
+
+---
+
+### 2026-08-10 00:36:13  #國際
+
+伊朗總統：我們與地區國家的溝通正在改善。對比過去，尤其是戰爭高峰期的狀況更是如此，此前我們的關係本就十分良好。巴基斯坦如今正全心全意開展合作。阿富汗的合作情況十分理想。土庫曼方面情況良好。亞塞拜然此前切斷了所有通道，還關停了我方銀行。我們致電與其交涉；經過兩小時會談後，對方重新予以開放。銀行、大使館以及各類通道全部恢復運作。
+
+---
+
+### 2026-08-10 00:32:22  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Saudi outlet Alhadath quoted Yemen's National Resistance Forces saying the Houthi movement is an Iranian proxy whose decision-making is controlled by Iran. The group said the Houthis seek to serve Iran by creating chaos and escalating tensions to relieve external pressure, called the Houthis a "war instrument" rather than a tool for peace and said peace with them is impossible, and warned their adventurism will not be tolerated.
+
+---
+
+### 2026-08-10 00:30:57  #其他
+
+【丹麥霍爾拜克市發生槍擊事件 多人受傷】當地時間8月9日，據丹麥警方訊息，該國霍爾拜克市發生一起槍擊事件，多人受傷。警方表示，在當地時間15時45分左右接到槍擊事件警報。目前尚不清楚具體受傷人數。警方稱，槍擊事件很可能由一起“犯罪團伙交易”引發，目前尚未有人被捕。
+
+---
+
+### 2026-08-10 00:29:31  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O #Impact bullish
+
+Market sources say Tesla (TSLA.O) will increase delivery locations in Japan by 60% this year.
+
+---
+
+### 2026-08-10 00:27:08  #其他
+
+伊拉克訊息人士：各方已達成政治協議，將於明年9月底前將各武裝派系武器移交人民動員組織。
+
+---
+
+### 2026-08-10 00:26:46  #MKT News
+
+Iraqi media cite Coordination Framework sources saying a political agreement has been reached; factions will transfer weapons to the Popular Mobilization Forces by the end of September.
+
+---
+
+### 2026-08-10 00:19:04  #MKT News
+
+Yemen deputy defense minister says responses to the Houthi movement will be decided based on national interest.
+
+---
+
+### 2026-08-10 00:18:19  #國際
+
+特斯拉今年將把日本的車輛交付網點數量增加60%。
+
+---
+
+### 2026-08-10 00:18:02  #MKT News
+
+【Typhoon White Dolphin rainfall triggers Jiaojiang (Zhejiang) 2026 No.2 flood】Rainfall from Typhoon White Dolphin raised the water level at Baizhizao hydrological station in Jiaojiang, Taizhou, Zhejiang to 17.03 m at 22:55 on Aug 9, 0.03 m above the 17.00 m warning level; corresponding discharge was 3,900 m3/s. Under main rivers flood numbering rules the event is designated Jiaojiang 2026 No.2 flood.
+
+---
+
+### 2026-08-10 00:14:41  #其他
+
+【浙江省椒江發生2026年第2號洪水】受今年第13號颱風“白海豚”帶來降雨的影響，8月9日22時55分，浙江椒江柏枝岙水文站（浙江台州）水位漲至17.03米，超過警戒水位（17.00米）0.03米，相應流量3900立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“椒江2026年第2號洪水”。（央視新聞）
+
+---
+
+### 2026-08-10 00:12:03  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Yemen's deputy defense minister said Houthi forces' systematic attacks on civilian targets are directed at the civilian population.
+
+---
+
+### 2026-08-10 00:11:54  #MKT News
+
+【Magnitude-4.4 quake strikes northern Shiga Prefecture, Japan】Japan Meteorological Agency said a magnitude-4.4 earthquake struck northern Shiga Prefecture at about 00:48 JST on the 10th, at a depth of 20 km. Maximum seismic intensity was 3 on the JMA scale. No tsunami risk was expected.
+
+---
+
+### 2026-08-10 00:11:12  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemen's deputy defense minister said Houthi attacks aim to draw Yemen into a regional conflict.
+
+---
+
+### 2026-08-10 00:10:56  #國際
+
+【日本滋賀縣北部發生4.4級地震】據日本氣象廳10日訊息，當地時間當天0時48分左右，日本滋賀縣北部發生4.4級地震，最大震感為震度3，震源深度20公里。本次地震沒有引發海嘯的風險。（央視新聞）
 
 ---
 
@@ -18851,95 +18983,5 @@ SK Hynix said it will expand DRAM and NAND manufacturing bases and increase capa
 ### 2026-08-07 15:21:48  #其他
 
 海力士：季度股息總額為2733.2億韓元。
-
----
-
-### 2026-08-07 15:21:48  #Trading Economics #Economy #France #Current Account #Importance 1
-
-France Current Account Deficit Largest in 4 Months — France's current account deficit widened to a seasonally adjusted €1.4 billion in June 2026 from an upwardly revised €1.2 billion in the previous month. It marked the largest shortfall since February, driven by a weaker services balance, with the surplus narrowing to €5.2 billion from €6.3 billion, while the primary income surplus edged down to €3.6 billion from €3.7 billion. Partly offsetting the decline, the goods trade deficit narrowed to €5.3 billion from €6.3 billion. Within goods trade, the deficit excluding energy eased to €1.5 billion from €1.7 billion, while the energy shortfall shrank to €3.8 billion from €4.6 billion. The secondary income deficit remained unchanged at €4.9 billion. For the first half of 2026, France recorded a cumulative current account deficit of €6.5 billion.
-
----
-
-### 2026-08-07 15:21:41  #其他
-
-SK 海力士：龍仁二期晶圓廠投資將在 2031 年前落地。
-
----
-
-### 2026-08-07 15:21:12  #國際
-
-SK海力士：計劃投資35.2萬億韓元，在韓國龍仁建造第二階段晶片工廠。投資將在2031年前完成。
-
----
-
-### 2026-08-07 15:21:10  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-SK Hynix plans to invest 35.2 trillion won in a second-phase chip fab in Yongin, South Korea.
-
----
-
-### 2026-08-07 15:20:50  #公司
-
-【東方電熱：公司智慧尾門廚房產品目前主要應用於享界G9】東方電熱8月7日在互動平臺表示，公司自主研發的智慧尾門廚房產品剛剛上市，目前主要應用於享界G9，其他客戶正在開發中。上述業務有望助力公司將單車價值量提升至千元級別，但當前產生的營業收入很少，對公司沒有重大影響。
-
----
-
-### 2026-08-07 15:20:38  #MKT News #Market Themes #Chip Wars #000660.KS
-
-SK Hynix says the investment will be completed by 2031.
-
----
-
-### 2026-08-07 15:20:29  #MKT News #000660.KS #Impact bullish
-
-SK Hynix plans to invest 19.1 trillion won in its M17 chip fab in Cheongju, South Korea.
-
----
-
-### 2026-08-07 15:20:22  #國際
-
-海力士：計劃在韓國清州M17晶片工廠投資19.1萬億韓元。
-
----
-
-### 2026-08-07 15:20:17  #公司
-
-8月7日，宇樹科技財務總監王楓網上路演時表示，2023年至2025年，公司的主營業務毛利分別是6965.75萬元、21996.62萬元和100785.07萬元。
-
----
-
-### 2026-08-07 15:20:16  #MKT News
-
-【Yushu Technology’s Wang says 2025 humanoid robot shipments exceed 5,500, claim global No.1】Wang Xingxing, chairman, general manager and CTO of Yushu Technology Co., Ltd., said in an online roadshow the company’s 2025 humanoid robot shipments have exceeded 5,500 units (pure humanoid models; excludes wheeled dual‑arm robots), making it the global leader. He attributed the position to core in‑house R&D driving early commercialization and a leading market stance in general‑purpose robots.
-
----
-
-### 2026-08-07 15:20:01  #市場 #國際
-
-美國銀行分析師表示，美日兩國協同外匯干預釋放重要訊號，下調美元兌日元三季度目標至153、年底至 149，日元走強預期升溫。
-
----
-
-### 2026-08-07 15:19:15  #公司 #國際
-
-【外媒曝泰國校園槍擊案細節：槍手開了數十槍，校園內發現一把手槍和多枚子彈】8月7日，泰國暖武裡府一所學校發生槍擊事件，造成多人傷亡。路透社、美國有線電視新聞網（CNN）等媒體曝出這起槍擊案更多細節。據路透社報道，一名學生向該媒體透露，自己最初以為是有人在放鞭炮或敲擊什麼東西。“我一開始沒覺得是槍聲。”這名學生說，“當時多次傳出槍聲：砰砰砰。安靜了一會兒後，槍聲又響了起來。”據英國廣播公司（BBC）報道，一名學生告訴該媒體，自己當時看到槍手在各個教室之間走動，然後朝一名教師開了槍。（環球網）
-
----
-
-### 2026-08-07 15:18:58  #MKT News
-
-Yemen state television reported Yemen air defense forces shot down multiple drones launched by Houthi forces over Marib.
-
----
-
-### 2026-08-07 15:18:45  #公司 #市場
-
-【內地居民的香港保險收益要繳稅？香港保監局回應】一則關於香港保險收益涉及境外收入徵稅的訊息引發市場關注。8月7日，多隻香港保險股繼續低開。而在前一日，友邦保險、保誠、富衛集團等股價大跌。此前有報道稱，部分購買香港保險的內地投保人收到境外收入繳稅通知，涉及地區包括浙江杭州、北京等。相關訊息稱，香港保險收益被納入境外所得徵收範圍，適用稅率為20%。對此，香港保險業監管局（保監局）回覆稱，政府和保監局正密切注意內地有關金融產品稅務安排的最新發展，同時會與業界保持緊密溝通。內地居民就境外投資收益必須依法申報及繳稅的要求一直存在，市場不用過度解讀或作出揣測。（澎湃新聞）
-
----
-
-### 2026-08-07 15:18:26  #Trading Economics #Economy #Austria #Balance of Trade #Importance 1
-
-Austria Trade Gap Hits 6-Month High — Austria’s trade deficit widened to EUR 635.5 million in May 2026 from EUR 476 million in the corresponding month of the previous year. The latest figure marked the largest trade deficit since December 2025, as import growth outpaced exports. Imports rose 1.1% year-on-year to EUR 16.3 billion, supported by stronger purchases from extra-EU countries, which increased 3.4%, while imports from intra-EU countries edged down 0.1%. Import growth was led by fuels and energy (+34.4%), processed goods (+4.7%), and machinery and vehicles (+4.4%), offsetting the decline in manufactured goods (-1.6%). Meanwhile, exports rose just 0.2% to EUR 15.7 billion, driven largely by higher shipments to extra-EU countries, which increased 1.8%, while exports to intra-EU countries fell 0.5%. Export growth was strongest in chemical products (+11.9%) and other goods (+12.5%), while shipments of machinery and vehicles declined 3.2%.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:03:23_
-_本檔包含 3082 則快訊，約 601711 字_
+_更新時間：2026-08-10 00:48:22_
+_本檔包含 3062 則快訊，約 602000 字_
+
+---
+
+### 2026-08-04 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | CPI (YoY) (Jul) | actual 2.8% | consensus 3.00% | previous 3.20%
+
+---
+
+### 2026-08-04 06:55:01  #其他
+
+【報道：臺積電熊本一號工廠恢復正常運營】媒體週一援引臺積電訊息稱，臺積電熊本一號工廠在地震後完成檢修與除錯工作，現已恢復正常生產。廠房安全狀況已確認，但地震導致裝置除錯工作出現延誤。
+
+---
+
+### 2026-08-04 06:53:06  #其他
+
+【多家險企上半年理賠報告出爐，消費者的獲賠率較高，重疾險和醫療險形成互補】近期多家險企陸續釋出2026年上半年理賠報告。整體來看，消費者的獲賠率較高，重疾險賠付整體佔比較高，但部分險企的醫療險賠付已經超過重疾險；同時，重疾保障缺口依然較為明顯。受訪專家認為，要填補重疾保障缺口，需要險企在產品設計和運營方面持續提升。（證券日報）
+
+---
+
+### 2026-08-04 06:52:03  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+New Zealand Shares Track Wall Street Higher — New Zealand's stocks rose 34 points, or 0.3%, to 13,809 in Tuesday morning deals, extending gains from the previous session, tracking rises on Wall Street overnight, supported by a rally in technology stocks and easing oil prices amid hopes of US-Iran peace talks. Moderating oil prices also supported sentiment, easing inflation concerns and tempering expectations of an interest rate hike. However, traders were cautious ahead of the release of New Zealand's unemployment data on Wednesday, with the market expecting it to edge up to 5.4% in Q2. Traders also anticipated the release of a slew of data from the US, including jobs data for guidance on the US economic outlook. Energy, consumer staples, healthcare, and tech sectors mainly boosted the index, with notable gains from Ebos Group (1.9%), A2 Milk (1.0%), Infratil (1.0%), Channel Infrastructure (0.9%), Fisher & Paykel Healthcare (0.8%), and Venti Services Group (0.6%).
+
+---
+
+### 2026-08-04 06:51:52  #國際
+
+【俄稱控制兩居民點 烏稱擊退俄軍進攻】俄羅斯國防部3日通報稱，過去一天，俄軍控制了哈爾科夫地區2個居民點，俄黑海艦隊摧毀1艘無人艇。通報還稱，俄軍當天使用無人機繼續打擊服務於烏軍的港口和海上目標，擊中4艘運輸軍用物資的乾貨船，其中2艘在尼古拉耶夫港卸貨時被擊中，另2艘在黑海水域航行時被擊中。烏克蘭武裝部隊總參謀部3日通報稱，過去一天，前線地區發生207次戰鬥，烏軍在多個方向擊退俄軍進攻。烏導彈和炮兵部隊對俄軍兵力集結區、無人機控制點、指揮所發動了打擊，擊落俄軍1657架無人機。此外，俄羅斯方面3日表示，烏軍無人機對弗拉基米爾州、克拉斯諾達爾邊疆區和別爾哥羅德州等地進行襲擊，造成多人死傷。（央視新聞）
+
+---
+
+### 2026-08-04 06:48:49  #市場
+
+【券商8月份金股聚焦績優龍頭品種】券商8月份的月度投資策略及月度金股陸續出爐。據記者梳理，截至8月3日發稿，已有22家券商完成8月份金股標的更新，共計篩選出181只個股納入當月金股池。券商本月配置思路趨於均衡，在科技成長、新能源、高階製造、創新藥等多個賽道均有覆蓋，選股重心落在業績確定性強的龍頭品種上，同時兼顧政策催化與估值修復機會。（證券日報）
+
+---
+
+### 2026-08-04 06:48:40  #國際
+
+【韓媒：金融動盪衝擊李在明民意支援率】韓國總統李在明3日結束對美國、巴西、智利、阿根廷和德國為期11天的海外訪問，返回韓國。韓媒稱，儘管此行在人工智慧合作、關鍵礦產供應鏈和能源多元化等領域取得一定成果，等待李在明的是“堆積如山”的國內難題。最新民調顯示，李在明施政好評率連續三週下降至45.9%，為就任以來新低。據韓聯社報道，韓國民調機構Realmeter 3日公佈的調查顯示，李在明施政差評首次突破五成，升至50.5%，並首次在誤差範圍外超過好評（45.9%）。該機構認為，股市暴跌、槓桿ETF風波、房地產稅制、修憲連任爭議等因素共同拖累好評率。（環球時報）
+
+---
+
+### 2026-08-04 06:46:49  #其他
+
+【城堡證券稱美股牛市驅動因素依然穩固 散戶槓桿押注降溫】城堡證券表示，在散戶投資者投機交易降溫之後，推動美股今年創下紀錄新高的因素依然穩固。“市場正從資金流主導的環境，重新迴歸由盈利、企業需求和宏觀背景主導的環境，”這家做市商的股票及股票衍生品策略主管Scott Rubner在給客戶的報告中寫道。根據城堡證券資料，散戶投資者上週單週股票拋售創2022年以來最大。Rubner表示，散戶拋售主要集中在科技股。Rubner稱，散戶撤退使槓桿型交易所交易基金（ETF）的資產規模下降28%，至1540億美元。與此同時，股票融資成本已經下降，這表明華爾街交易部門面臨的壓力減輕，市場對槓桿資金的需求下降。
+
+---
+
+### 2026-08-04 06:45:14  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 1.40% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.40% decrease.
 
 ---
 
@@ -18412,179 +18466,5 @@ Iran's Foreign Ministry spokesman said reopening the Strait of Hormuz is differe
 ### 2026-08-03 00:49:44  #國際
 
 伊朗外交部發言人：霍爾木茲海峽的開放與我們同阿曼蘇丹國的談判不同，因為其關閉與美國違背承諾有關。
-
----
-
-### 2026-08-03 00:48:00  #國際
-
-伊朗外交部發言人：對方清楚，一旦其針對我方採取任何冒險行動，我們必將予以強力回擊。
-
----
-
-### 2026-08-03 00:47:53  #國際
-
-市場資訊：阿聯酋近日遊說特朗普對伊朗採取更強硬行動。
-
----
-
-### 2026-08-03 00:46:30  #MKT News #WTI #Impact bullish #XAUUSD
-
-Iran's foreign ministry spokesman said friends and neighboring countries should be aware that any US attack on Iranian infrastructure would affect everyone.
-
----
-
-### 2026-08-03 00:46:16  #國際
-
-伊朗外交部發言人：伊朗與巴基斯坦、土耳其官員會談時談及美方發出的警告與威脅，美方稱若伊朗遭到襲擊，美方將採取報復行動。
-
----
-
-### 2026-08-03 00:44:23  #MKT News #Important
-
-Air-raid sirens sounded in Kyiv.
-
----
-
-### 2026-08-03 00:44:22  #國際
-
-基輔響起防空警報。
-
----
-
-### 2026-08-03 00:44:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's foreign ministry spokesman said the United States, working with certain regional forces, has forcibly opened a southern route through the Strait of Hormuz and that route is not safe.
-
----
-
-### 2026-08-03 00:43:51  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran foreign ministry spokesman said Washington did not permit shipping through the Strait of Hormuz to resume as scheduled and attacked Iran before the deadline expired.
-
----
-
-### 2026-08-03 00:42:40  #焦點 #國際
-
-伊朗外交部發言人：我們與阿曼就霍爾木茲海峽舉行的談判並非首次，我們有義務開展合作，以達成船舶通行機制。
-
----
-
-### 2026-08-03 00:42:18  #國際
-
-伊朗外交部發言人：美國與地區部分勢力合作，在霍爾木茲海峽強行開闢了一條南部航線，該航線並不安全。
-
----
-
-### 2026-08-03 00:42:05  #國際
-
-伊朗外交部發言人：華盛頓未按期允許霍爾木茲海峽航運恢復，並在期限屆滿前對我們發動攻擊。
-
----
-
-### 2026-08-03 00:41:53  #國際
-
-伊朗外交部發言人：我們目前與阿曼商討的這條路線應保障我們的共同利益。
-
----
-
-### 2026-08-03 00:41:18  #MKT News
-
-Iran's foreign ministry spokesman said an understanding with Oman on a new shipping route does not imply the opening or closure of the Strait of Hormuz.
-
----
-
-### 2026-08-03 00:41:13  #其他
-
-【希臘兩架消防直升機相撞造成2人死亡】當地時間8月2日下午，兩架消防直升機在希臘首都雅典所在的阿提卡大區西部參與救火時在空中相撞，其中一架墜毀，機上兩名乘員遇難。另一架撞機後迫降，機上兩人中有一人受傷。
-
----
-
-### 2026-08-03 00:40:54  #國際
-
-伊朗外交部發言人：與阿曼就新航線達成協議並不意味著霍爾木茲海峽正在開放或關閉。
-
----
-
-### 2026-08-03 00:39:12  #國際
-
-伊朗外交部發言人：同阿曼談判意在霍爾木茲海峽設立聯合機制。
-
----
-
-### 2026-08-03 00:39:02  #MKT News
-
-Iran's foreign ministry spokesman said talks with Oman aim to find a common mechanism for the Strait of Hormuz.
-
----
-
-### 2026-08-03 00:38:50  #國際
-
-伊朗稱正與阿曼就霍爾木茲海峽新航線進行談判。
-
----
-
-### 2026-08-03 00:38:37  #國際
-
-伊朗外交部發言人：我們重申，霍爾木茲海峽局勢無法恢復至戰前狀態。
-
----
-
-### 2026-08-03 00:38:14  #MKT News #WTI #Impact bullish #Brent
-
-Iran foreign ministry spokesman said talks with Oman are bilateral and do not involve other parties, and reiterated that the situation in the Strait of Hormuz will not return to its pre-war state.
-
----
-
-### 2026-08-03 00:36:22  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-Iran's foreign minister said talks with Oman on the Strait of Hormuz have entered their final stage.
-
----
-
-### 2026-08-03 00:34:09  #焦點 #國際
-
-【伊朗外長阿拉格齊：與阿曼談判即將敲定】在今日伊朗內閣會議伊始，外交部長阿拉格齊彙報了伊朗與阿曼談判的最新進展。他談及會談取得的成果，並表示談判步入收官階段，有望達成最終協議。
-
----
-
-### 2026-08-03 00:32:34  #國際
-
-伊朗外交部發言人：美國的威脅早已司空見慣，德黑蘭將基於自身利益採取行動，不會受各類威脅影響。
-
----
-
-### 2026-08-03 00:32:18  #MKT News
-
-Iran’s foreign ministry spokesman said U.S. threats are not new and Tehran acts in its own interests, unaffected by such threats.
-
----
-
-### 2026-08-03 00:32:12  #國際
-
-伊朗革命衛隊：將針對哈尼亞、阿亞圖拉·哈梅內伊遇襲事件實施猛烈、毀滅性報復。
-
----
-
-### 2026-08-03 00:23:34  #國際
-
-伊朗議會國家安全委員會：調停方正提供協助，以期重啟與美國的諒解備忘錄談判。各方正就所有議題交換意見。
-
----
-
-### 2026-08-03 00:19:02  #國際
-
-美國國會眾議員邁克·特納：美國正與烏克蘭商討向其轉讓“愛國者”導彈的生產技術，以便基輔能夠建立生產線並掌握相關技術。
-
----
-
-### 2026-08-03 00:11:37  #其他
-
-【巴基斯坦西北部發生爆炸致14人死亡】巴基斯坦警方2日說，該國西北部開伯爾-普什圖省一警局附近發生爆炸，造成至少14人死亡、26人受傷。（新華社）
-
----
-
-### 2026-08-03 00:05:39  #公司 #國際
-
-【葡萄牙航空一客機起飛後因突發情況緊急降落】當地時間8月2日，葡萄牙航空公司一架從里斯本飛往美國波士頓的A321客機在飛越大西洋途中發生緊急情況，並於亞速爾群島特塞拉島的拉日什機場緊急降落。據悉，該航班起飛約兩小時後決定備降，目前航空公司尚未公佈具體原因。（央視新聞）
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:03:23_
-_本檔包含 3069 則快訊，約 601495 字_
+_更新時間：2026-08-10 00:48:22_
+_本檔包含 3073 則快訊，約 602267 字_
+
+---
+
+### 2026-08-07 15:21:48  #Trading Economics #Economy #France #Current Account #Importance 1
+
+France Current Account Deficit Largest in 4 Months — France's current account deficit widened to a seasonally adjusted €1.4 billion in June 2026 from an upwardly revised €1.2 billion in the previous month. It marked the largest shortfall since February, driven by a weaker services balance, with the surplus narrowing to €5.2 billion from €6.3 billion, while the primary income surplus edged down to €3.6 billion from €3.7 billion. Partly offsetting the decline, the goods trade deficit narrowed to €5.3 billion from €6.3 billion. Within goods trade, the deficit excluding energy eased to €1.5 billion from €1.7 billion, while the energy shortfall shrank to €3.8 billion from €4.6 billion. The secondary income deficit remained unchanged at €4.9 billion. For the first half of 2026, France recorded a cumulative current account deficit of €6.5 billion.
+
+---
+
+### 2026-08-07 15:21:41  #其他
+
+SK 海力士：龍仁二期晶圓廠投資將在 2031 年前落地。
+
+---
+
+### 2026-08-07 15:21:12  #國際
+
+SK海力士：計劃投資35.2萬億韓元，在韓國龍仁建造第二階段晶片工廠。投資將在2031年前完成。
+
+---
+
+### 2026-08-07 15:21:10  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
+
+SK Hynix plans to invest 35.2 trillion won in a second-phase chip fab in Yongin, South Korea.
+
+---
+
+### 2026-08-07 15:20:50  #公司
+
+【東方電熱：公司智慧尾門廚房產品目前主要應用於享界G9】東方電熱8月7日在互動平臺表示，公司自主研發的智慧尾門廚房產品剛剛上市，目前主要應用於享界G9，其他客戶正在開發中。上述業務有望助力公司將單車價值量提升至千元級別，但當前產生的營業收入很少，對公司沒有重大影響。
+
+---
+
+### 2026-08-07 15:20:38  #MKT News #Market Themes #Chip Wars #000660.KS
+
+SK Hynix says the investment will be completed by 2031.
+
+---
+
+### 2026-08-07 15:20:29  #MKT News #000660.KS #Impact bullish
+
+SK Hynix plans to invest 19.1 trillion won in its M17 chip fab in Cheongju, South Korea.
+
+---
+
+### 2026-08-07 15:20:22  #國際
+
+海力士：計劃在韓國清州M17晶片工廠投資19.1萬億韓元。
+
+---
+
+### 2026-08-07 15:20:17  #公司
+
+8月7日，宇樹科技財務總監王楓網上路演時表示，2023年至2025年，公司的主營業務毛利分別是6965.75萬元、21996.62萬元和100785.07萬元。
+
+---
+
+### 2026-08-07 15:20:16  #MKT News
+
+【Yushu Technology’s Wang says 2025 humanoid robot shipments exceed 5,500, claim global No.1】Wang Xingxing, chairman, general manager and CTO of Yushu Technology Co., Ltd., said in an online roadshow the company’s 2025 humanoid robot shipments have exceeded 5,500 units (pure humanoid models; excludes wheeled dual‑arm robots), making it the global leader. He attributed the position to core in‑house R&D driving early commercialization and a leading market stance in general‑purpose robots.
+
+---
+
+### 2026-08-07 15:20:01  #市場 #國際
+
+美國銀行分析師表示，美日兩國協同外匯干預釋放重要訊號，下調美元兌日元三季度目標至153、年底至 149，日元走強預期升溫。
+
+---
+
+### 2026-08-07 15:19:15  #公司 #國際
+
+【外媒曝泰國校園槍擊案細節：槍手開了數十槍，校園內發現一把手槍和多枚子彈】8月7日，泰國暖武裡府一所學校發生槍擊事件，造成多人傷亡。路透社、美國有線電視新聞網（CNN）等媒體曝出這起槍擊案更多細節。據路透社報道，一名學生向該媒體透露，自己最初以為是有人在放鞭炮或敲擊什麼東西。“我一開始沒覺得是槍聲。”這名學生說，“當時多次傳出槍聲：砰砰砰。安靜了一會兒後，槍聲又響了起來。”據英國廣播公司（BBC）報道，一名學生告訴該媒體，自己當時看到槍手在各個教室之間走動，然後朝一名教師開了槍。（環球網）
+
+---
+
+### 2026-08-07 15:18:58  #MKT News
+
+Yemen state television reported Yemen air defense forces shot down multiple drones launched by Houthi forces over Marib.
+
+---
+
+### 2026-08-07 15:18:45  #公司 #市場
+
+【內地居民的香港保險收益要繳稅？香港保監局回應】一則關於香港保險收益涉及境外收入徵稅的訊息引發市場關注。8月7日，多隻香港保險股繼續低開。而在前一日，友邦保險、保誠、富衛集團等股價大跌。此前有報道稱，部分購買香港保險的內地投保人收到境外收入繳稅通知，涉及地區包括浙江杭州、北京等。相關訊息稱，香港保險收益被納入境外所得徵收範圍，適用稅率為20%。對此，香港保險業監管局（保監局）回覆稱，政府和保監局正密切注意內地有關金融產品稅務安排的最新發展，同時會與業界保持緊密溝通。內地居民就境外投資收益必須依法申報及繳稅的要求一直存在，市場不用過度解讀或作出揣測。（澎湃新聞）
+
+---
+
+### 2026-08-07 15:18:26  #Trading Economics #Economy #Austria #Balance of Trade #Importance 1
+
+Austria Trade Gap Hits 6-Month High — Austria’s trade deficit widened to EUR 635.5 million in May 2026 from EUR 476 million in the corresponding month of the previous year. The latest figure marked the largest trade deficit since December 2025, as import growth outpaced exports. Imports rose 1.1% year-on-year to EUR 16.3 billion, supported by stronger purchases from extra-EU countries, which increased 3.4%, while imports from intra-EU countries edged down 0.1%. Import growth was led by fuels and energy (+34.4%), processed goods (+4.7%), and machinery and vehicles (+4.4%), offsetting the decline in manufactured goods (-1.6%). Meanwhile, exports rose just 0.2% to EUR 15.7 billion, driven largely by higher shipments to extra-EU countries, which increased 1.8%, while exports to intra-EU countries fell 0.5%. Export growth was strongest in chemical products (+11.9%) and other goods (+12.5%), while shipments of machinery and vehicles declined 3.2%.
 
 ---
 
@@ -18460,73 +18550,5 @@ N Jinfu, a bicycle manufacturer, rallied more than 133% with trading value above
 ### 2026-08-06 10:41:48  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
 
 US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note hovered around 4.6% on Thursday, down about 10 basis points so far this week as the partial reopening of the Strait of Hormuz continued to pressure oil prices, easing inflation concerns and reducing expectations for more aggressive Federal Reserve tightening. Iran and Oman reached an agreement to establish a shipping corridor through the strait, boosting hopes for stronger energy flows from the Middle East. In response, markets pared expectations for Fed interest rate hikes this year, now pricing in just one increase by year-end, down from two as recently as last week. Meanwhile, Fed Governor Lisa Cook reiterated that she is prepared to raise rates if inflation does not continue to ease. Separately, San Francisco Fed President Mary Daly said she supported the central bank’s decision to leave rates unchanged last week, while cautioning that persistently elevated inflation may require a more forceful policy response.
-
----
-
-### 2026-08-06 10:40:27  #公司
-
-【MiniMax註冊資本增至55億元】企查查APP顯示，近日，MiniMax關聯公司上海稀宇極智科技有限公司發生工商變更，註冊資本由40億元增至55億元，增資15億元。此前5月，該公司註冊資本由10億元增至40億元，增資30億元。企查查資訊顯示，該公司成立於2021年，經營範圍包含：計算機系統服務；資訊系統整合服務；資訊系統執行維護服務；人工智慧基礎軟體開發；人工智慧應用軟體開發等。
-
----
-
-### 2026-08-06 10:40:02  #市場
-
-【主力資金：長鑫科技淨賣出超17億】截至目前，今日主力資金淨流出164.50億；淨流入昨日高振幅、PCB概念、5G等板塊，其中昨日高振幅板塊淨流入64.03億；淨流出轉融券標的、融資融券、MSCI中國等板塊，其中轉融券標的板塊淨流出161.91億。
-  
-個股方面，景旺電子淨買入8.27億元位居首位，勝宏科技、方正科技、長電科技主力資金淨流入居前；長鑫科技淨賣出17.82億元位居首位，寧德時代、兆易創新、風華高科淨流出額居前。
-
----
-
-### 2026-08-06 10:40:02  #其他
-
-【寒武紀啟動2027屆校園招聘】8月6日，寒武紀宣佈2027屆校園招聘正式啟動，面向於2026年9月-2027年8月畢業的高校應屆畢業生，招聘方向為晶片類、軟體類、職能與研發支援類，工作地點在北京、上海、深圳、合肥、西安和南京。
-
----
-
-### 2026-08-06 10:39:54  #其他
-
-【證通電子與倍瑞思浸沒液冷試點落地 為高密度算力機房升級提供新思路】倍瑞思官微訊息，近日，倍瑞思與證通電子完成浸沒式液冷試點落地，為高密度算力機房升級打造可落地範本。本次試點核心硬體為針對浸沒場景專項研發的智算伺服器，搭載8張RTX5090算力卡，適配AI訓練、模型推理、模擬渲染等高負載工作。本次雙方合作打通定製伺服器、存量暖通複用、穩定運維完整鏈路，解決行業普遍存在的液冷改造成本高等痛點。未來雙方將基於本次試點持續最佳化，研發多機櫃並聯方案，完善不同水溫、不同算力硬體的適配標準，推動浸沒液冷從大型超算走向普惠落地。
-
----
-
-### 2026-08-06 10:39:45  #MKT News
-
-【White House denies Trump-Hegseth clash over ammunition shortages】White House press secretary Leavitt said on Aug. 5 a Washington Post report that President Trump and Defense Secretary Hegseth argued at Camp David over severe US missile and munitions shortages tied to the Iran conflict was "fake news." Leavitt said she was at Camp David with Trump and Hegseth and the incident did not occur, and that they have repeatedly told the Washington Post the same. The Washington Post, citing sources, reported on Aug. 5 that last week Trump expressed strong displeasure at Camp David and demanded an explanation from Hegseth over an alleged weapons shortfall.
-
----
-
-### 2026-08-06 10:39:25  #其他
-
-【中興通訊攜手Sky47建成巴基斯坦規模最大智算資料中心】據中興通訊官網，近日，由中興通訊與巴基斯坦領先雲服務商Sky47聯合承建的、巴基斯坦規模最大的通算與智算一體化的資料中心——Sky47喀喇崑崙一號（Karakoram-01） 落成典禮在伊斯蘭堡舉辦。作為巴基斯坦首座定製化AI原生Tier III級資料中心，Sky47喀喇崑崙一號總供電容量達8.5兆瓦。該中心將在巴基斯坦全國範圍內提供強大的雲端計算、資料託管與先進數字服務支援，全面滿足政府及企業在人工智慧（AI）、機器學習（ML）及高效能運算（HPC）等領域的算力需求。
-
----
-
-### 2026-08-06 10:38:29  #國際
-
-【白宮否認特朗普與赫格塞思因彈藥庫存短缺發生爭執】當地時間8月5日，美國白宮新聞秘書萊維特表示，有關總統特朗普與國防部長赫格塞思在馬里蘭州戴維營“因伊朗戰事中美軍導彈庫存嚴重短缺而發生爭執”的報道是“假新聞”。萊維特說，當時她與特朗普及赫格塞思一同在戴維營，報道里說的情況並未發生過。他們也曾多次向《華盛頓郵報》澄清這一點。《華盛頓郵報》5日援引知情人士的話報道稱，上週，特朗普在戴維營就伊朗問題表達了強烈不滿，要求防長赫格塞思就軍火嚴重短缺問題作出解釋。
-
----
-
-### 2026-08-06 10:38:22  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
-
-【Advanced Micro‑Fabrication Equipment establishes Central China HQ in Wuhan's Optics Valley】Advanced Micro‑Fabrication Equipment (Shanghai) Co., Ltd. has set up its Central China headquarters in Wuhan's Optics Valley, with operations due to start early next year. Its Wuhan unit was registered on July 28 with registered capital of 50 mln yuan. The project will build a Central China HQ and R&D center focused on core semiconductor equipment — thin film, etch and epitaxy — to serve key customers in Wuhan and the broader Central China region.
-
----
-
-### 2026-08-06 10:37:58  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
-
-LME nickel down 2.00% intraday at $16,793/mt.
-
----
-
-### 2026-08-06 10:37:47  #公司
-
-【中微半導體在光谷設立華中總部】據中國光谷公眾號，近日，中微半導體裝置（上海）股份有限公司（簡稱“中微半導體”）華中總部正式落戶光谷，預計明年初正式投入運營。中微半導體裝置（武漢）有限公司已於7月28日完成註冊，註冊資本5000萬元。專案聚焦核心半導體裝置研發，計劃建設華中總部及研發中心，開展薄膜、刻蝕、外延等核心半導體裝置的研發，服務武漢乃至華中地區重點客戶。
-
----
-
-### 2026-08-06 10:37:35  #公司 #觀點
-
-【博視像元完成C輪融資】8月6日，積體電路光學影像部件領域企業北京博視像元科技有限公司宣佈完成C輪融資，本輪融資由中信建投投資、北京京國管股權投資基金、朗瑪峰創投三家機構聯合注資。
 
 ---

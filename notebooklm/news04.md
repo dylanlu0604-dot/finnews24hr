@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:03:23_
-_本檔包含 3322 則快訊，約 601712 字_
+_更新時間：2026-08-10 00:48:22_
+_本檔包含 3329 則快訊，約 602120 字_
+
+---
+
+### 2026-08-05 08:35:54  #國際
+
+【美伊談判出現反差 霍爾木茲方案浮出水面】當地時間8月4日，美伊雙方圍繞談判再次出現不同表述。美國財長貝森特表示，美伊有望在未來一兩天內就恢復霍爾木茲海峽通航達成協議；美國務卿魯比奧稱，有關談判“取得進展，但尚未完成”；卡達外交部也表示，協議草案已經開始在有關各方之間流轉。然而，伊朗外交部同一天再次表示，並未與美國恢復談判。一邊不斷釋放積極訊號，一邊繼續否認直接談判，看似矛盾的兩種說法，自然引發國際輿論關注。不過，從目前公開資訊看，雙方爭議更多在於如何定義“談判”，而不是是否存在外交接觸。更值得關注的是，隨著霍爾木茲海峽逐漸成為當前外交努力的重點，美伊之間的溝通已經開始從原則性表態進入討論具體方案的新階段，相關細節也在浮出水面。（央視）
+
+---
+
+### 2026-08-05 08:35:11  #市場 #央行 #國際
+
+【日本央行會議紀要：委員們認為潛在通脹存在上行風險】週三公佈的日本央行6月政策會議紀要顯示，大多數委員認為潛在通脹存在上行風險。6月15日至16日會議的紀要還顯示，如果經濟和價格走勢符合展望，委員會計劃繼續加息。一位委員表示，需要儘快將基準利率提高至更接近中性的水平。注：根據日本央行的估算，中性利率介於1.1%至2.5%。一位委員表示，應考慮每隔幾個月加息一次；一位政府代表稱，預計央行將基於對首相高市早苗增長舉措的理解，妥善實施貨幣政策；一位委員指出，如果購買日本國債被視為旨在降低長期利率，可能會對央行的信譽產生負面影響；一些委員稱，應說明暫停削減日本國債購買規模的舉措並非出於財政考慮。
+
+---
+
+### 2026-08-05 08:34:28  #Trading Economics #Economy #Japan #Services PMI #Importance 2
+
+Japan Services PMI Revised Lower — Japan’s S&P Global Services PMI Business Activity Index was revised lower to 51.2 in July 2026 from 51.9 in the preliminary estimate and after a final reading of 52.2 in the previous month. Despite the slowdown, the reading marked the 16th consecutive month of expansion in the services sector. Growth in new business moderated, with new orders expanding at the slowest pace in 25 months. Employment also increased more slowly amid signs of easing capacity pressures.
+
+---
+
+### 2026-08-05 08:34:22  #公司
+
+KAKAO GAMES CEO稱無與LINE GAMES合併計劃。
+
+---
+
+### 2026-08-05 08:33:10  #市場
+
+【廣發證券：地產板塊估值“底背離” 核心優質房企具備長期配置價值】廣發證券研報表示，地產板塊估值“底背離”，核心優質房企具備長期配置價值。2026年上半年，SW地產板塊累計跌16.4%，跑輸大盤（滬深300）24個百分點，16家主流房企跌14.9%。當前股價中包含房價下跌預期為16%，而過去半年房價已經止跌，偏離程度達到2021年以來的最大值。短期看好板塊偏離修復的反彈機會，9、10月份後若核心城市成交中樞進一步抬升，房價加速上漲，則板塊具備價值反轉的機會。個股選擇上，短期銷售增長對股價的影響依然有效，同時要兼顧企業的投資拓展表現以及估值情況。
+
+---
+
+### 2026-08-05 08:32:57  #市場 #央行 #國際
+
+【日本首相高市曾要求央行在必要時增購債券以遏制收益率升勢】日本時事新聞社週二報道稱，日本首相高市早苗在5月與日本央行總裁植田和男會晤時，要求日本央行在必要時增購政府債券，以抑制長期利率的上漲。時事社援引數名未具名訊息人士的話稱，在會晤中，高市早苗呼籲植田和男採取“適當措施穩定市場”，並在必要時增加公債購買量。時事社稱，植田回應稱，日本央行需要考慮此類措施可能引發的市場反應，但央行將在必要時作出回應。日本政府未立即回應置評請求。
+
+---
+
+### 2026-08-05 08:32:48  #Trading Economics #Economy #Japan #Composite PMI #Importance 1
+
+Japan Composite PMI Revised Downward — Japan’s S&P Global Composite PMI Business Activity Index was at 52.7 in July 2026, lower than the flash data of 53.1 and June's 52.8. Still, it was the highest reading since February, marking the 16th straight month of expansion in private sector activity.
+
+---
+
+### 2026-08-05 08:32:28  #資料 #國際
+
+【PMI資料顯示：成本壓力之下日本服務業增速放緩】一項民間調查顯示，受需求走弱、企業承受巨大成本壓力影響，7月日本服務業擴張步伐放緩，銷售價格通脹創下2014年4月以來最高水平。標普全球日本服務業採購經理人指數（PMI）7月終值為51.2，低於6月的52.2，同樣不及51.9的初值。該指數連續第二個月處於擴張區間，但擴張速度遠低於2026年早些時候。指數高於50代表行業活動擴張，低於50則代表收縮。新業務增速跌至兩年低點。日本服務業海外需求連續第四個月下滑，不過收縮幅度較5、6月有所收窄。成本壓力依舊高企，投入品價格漲幅僅略低於6月創下的四年高點。調查稱，受訪企業認為中東局勢帶來的通脹環境、人力成本上升以及日元貶值是主要推動因素。
+
+---
+
+### 2026-08-05 08:30:30  #經濟數據 #日本
+
+日本7月服務業PMI終值為51.2，初值51.9。日本7月綜合PMI終值為52.7，前值53.1。
+
+---
+
+### 2026-08-05 08:30:09  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hong Kong S&P Global Manufacturing PMI fell to 51 in July from 52 in June.
+
+---
+
+### 2026-08-05 08:30:07  #MKT News #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
+
+Japan July services PMI (final) 51.2, down from 51.9 previously.
+
+---
+
+### 2026-08-05 08:30:07  #MKT News #Market Regions #Japan & APAC
+
+Japan July final composite PMI 52.7, down from 53.1 previously.
+
+---
+
+### 2026-08-05 08:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Services PMI (Jul) | actual 51.2 | previous 51.9
+
+---
+
+### 2026-08-05 08:30:00  #MKT News #Economic Calendar #Important
+
+Japan | Composite PMI (Jul) | actual 52.7 | previous 53.1
+
+---
+
+### 2026-08-05 08:30:00  #MKT News #Economic Calendar #Important
+
+Hong Kong | Manufacturing PMI (Jul) | actual 51 | previous 52
+
+---
+
+### 2026-08-05 08:29:17  #Trading Economics #Economy #South Korea #Government Bond Korea #Importance 1
+
+South Korea 10Y Bond Yield Hits 4-week Low — South Korea 10 Year Government Bond Yield decreased to 4.19%, the lowest since July 2026. Over the past 4 weeks, South Korea 10Y Bond Yield gained 5.00 basis points, and in the last 12 months, it increased 148.50 basis points.
 
 ---
 
@@ -19988,59 +20084,5 @@ South Korea July CPI YoY 2.8% vs 3.0% expected and 3.2% prior.
 ### 2026-08-04 07:00:00  #MKT News #Economic Calendar #Important
 
 South Korea | CPI (MoM) (Jul) | actual -0.2% | consensus 0.1% | previous 0.10%
-
----
-
-### 2026-08-04 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | CPI (YoY) (Jul) | actual 2.8% | consensus 3.00% | previous 3.20%
-
----
-
-### 2026-08-04 06:55:01  #其他
-
-【報道：臺積電熊本一號工廠恢復正常運營】媒體週一援引臺積電訊息稱，臺積電熊本一號工廠在地震後完成檢修與除錯工作，現已恢復正常生產。廠房安全狀況已確認，但地震導致裝置除錯工作出現延誤。
-
----
-
-### 2026-08-04 06:53:06  #其他
-
-【多家險企上半年理賠報告出爐，消費者的獲賠率較高，重疾險和醫療險形成互補】近期多家險企陸續釋出2026年上半年理賠報告。整體來看，消費者的獲賠率較高，重疾險賠付整體佔比較高，但部分險企的醫療險賠付已經超過重疾險；同時，重疾保障缺口依然較為明顯。受訪專家認為，要填補重疾保障缺口，需要險企在產品設計和運營方面持續提升。（證券日報）
-
----
-
-### 2026-08-04 06:52:03  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Shares Track Wall Street Higher — New Zealand's stocks rose 34 points, or 0.3%, to 13,809 in Tuesday morning deals, extending gains from the previous session, tracking rises on Wall Street overnight, supported by a rally in technology stocks and easing oil prices amid hopes of US-Iran peace talks. Moderating oil prices also supported sentiment, easing inflation concerns and tempering expectations of an interest rate hike. However, traders were cautious ahead of the release of New Zealand's unemployment data on Wednesday, with the market expecting it to edge up to 5.4% in Q2. Traders also anticipated the release of a slew of data from the US, including jobs data for guidance on the US economic outlook. Energy, consumer staples, healthcare, and tech sectors mainly boosted the index, with notable gains from Ebos Group (1.9%), A2 Milk (1.0%), Infratil (1.0%), Channel Infrastructure (0.9%), Fisher & Paykel Healthcare (0.8%), and Venti Services Group (0.6%).
-
----
-
-### 2026-08-04 06:51:52  #國際
-
-【俄稱控制兩居民點 烏稱擊退俄軍進攻】俄羅斯國防部3日通報稱，過去一天，俄軍控制了哈爾科夫地區2個居民點，俄黑海艦隊摧毀1艘無人艇。通報還稱，俄軍當天使用無人機繼續打擊服務於烏軍的港口和海上目標，擊中4艘運輸軍用物資的乾貨船，其中2艘在尼古拉耶夫港卸貨時被擊中，另2艘在黑海水域航行時被擊中。烏克蘭武裝部隊總參謀部3日通報稱，過去一天，前線地區發生207次戰鬥，烏軍在多個方向擊退俄軍進攻。烏導彈和炮兵部隊對俄軍兵力集結區、無人機控制點、指揮所發動了打擊，擊落俄軍1657架無人機。此外，俄羅斯方面3日表示，烏軍無人機對弗拉基米爾州、克拉斯諾達爾邊疆區和別爾哥羅德州等地進行襲擊，造成多人死傷。（央視新聞）
-
----
-
-### 2026-08-04 06:48:49  #市場
-
-【券商8月份金股聚焦績優龍頭品種】券商8月份的月度投資策略及月度金股陸續出爐。據記者梳理，截至8月3日發稿，已有22家券商完成8月份金股標的更新，共計篩選出181只個股納入當月金股池。券商本月配置思路趨於均衡，在科技成長、新能源、高階製造、創新藥等多個賽道均有覆蓋，選股重心落在業績確定性強的龍頭品種上，同時兼顧政策催化與估值修復機會。（證券日報）
-
----
-
-### 2026-08-04 06:48:40  #國際
-
-【韓媒：金融動盪衝擊李在明民意支援率】韓國總統李在明3日結束對美國、巴西、智利、阿根廷和德國為期11天的海外訪問，返回韓國。韓媒稱，儘管此行在人工智慧合作、關鍵礦產供應鏈和能源多元化等領域取得一定成果，等待李在明的是“堆積如山”的國內難題。最新民調顯示，李在明施政好評率連續三週下降至45.9%，為就任以來新低。據韓聯社報道，韓國民調機構Realmeter 3日公佈的調查顯示，李在明施政差評首次突破五成，升至50.5%，並首次在誤差範圍外超過好評（45.9%）。該機構認為，股市暴跌、槓桿ETF風波、房地產稅制、修憲連任爭議等因素共同拖累好評率。（環球時報）
-
----
-
-### 2026-08-04 06:46:49  #其他
-
-【城堡證券稱美股牛市驅動因素依然穩固 散戶槓桿押注降溫】城堡證券表示，在散戶投資者投機交易降溫之後，推動美股今年創下紀錄新高的因素依然穩固。“市場正從資金流主導的環境，重新迴歸由盈利、企業需求和宏觀背景主導的環境，”這家做市商的股票及股票衍生品策略主管Scott Rubner在給客戶的報告中寫道。根據城堡證券資料，散戶投資者上週單週股票拋售創2022年以來最大。Rubner表示，散戶拋售主要集中在科技股。Rubner稱，散戶撤退使槓桿型交易所交易基金（ETF）的資產規模下降28%，至1540億美元。與此同時，股票融資成本已經下降，這表明華爾街交易部門面臨的壓力減輕，市場對槓桿資金的需求下降。
-
----
-
-### 2026-08-04 06:45:14  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 1.40% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.40% decrease.
 
 ---
