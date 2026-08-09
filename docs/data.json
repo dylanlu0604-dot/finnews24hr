@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-09 20:15:07",
+  "updated": "2026-08-09 20:19:03",
   "count": 16000,
   "items": [
+    {
+      "id": "mkt:019fe673-7e0c-7aab-8fca-08cd2475f907",
+      "time": "2026-08-09 20:15:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syrian Foreign Ministry said Syria and Russia will begin restructuring Russia's coastal presence in Syria under a memorandum framework, the Syrian state news agency SANA reported."
+    },
+    {
+      "id": "mkt:019fe673-5773-7aab-8fca-026ef87f45f3",
+      "time": "2026-08-09 20:15:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Houthi forces may be planning to retake strategic Yemeni port】Al Jazeera said airstrikes over the past week surprised Yemeni government forces and struck locations not hit in years, including Al-Makha port in western Taiz province. Houthi spokesman Yahya Saree said the operation used dozens of missiles and Yemeni drones against what the group called Saudi forces at Al-Makha and described it as a large-scale destructive action; the Houthis said the strikes responded to Saudi use of the port to reinforce and resupply pro-government troops in Taiz. Al-Makha provides strategic access to the southern Red Sea and visibility on tanker and ship movements from the Arabian Sea; the Houthis’ statements indicate they may be preparing to retake the port."
+    },
     {
       "id": "mkt:019fe671-3fab-7aab-8fc9-ff49e2d191a6",
       "time": "2026-08-09 20:13:29",
@@ -145699,24 +145719,6 @@
         "市場"
       ],
       "text": "本週兩融餘額增幅最大：掌閱科技兩融餘額：0.91億元，餘額增幅：115.01%；哈藥股份兩融餘額：5.39億元，餘額增幅：93.48%"
-    },
-    {
-      "id": "5020901",
-      "time": "2026-08-02 20:18:40",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【下週財報季重頭戲一覽：SpaceX，AMD，Plantir，閃迪與西部資料】 \n本週，市場將迎來一系列備受關注的公司財報。\n週一：Palantir。作為此前受AI浪潮推動最明顯的標的之一，Palantir的業績增速能否匹配其目前高企的估值，將直接反映出AI應用端的成色。投資者將重點觀察政府與商業客戶的合同擴張、AIP平臺落地進度，以及全年指引是否上調。近期股價波動較大，財報後波動率預期較高。 \n週二：AMD與SpaceX。其中，AMD的財報將成為全周的重頭戲。在儲存晶片巨頭上週釋放積極訊號後，AMD的表現將成為AI晶片需求是否持續火熱的“風向標”。而SpaceX也將釋出上市以來的首份財報，財報釋出兩天後（8月6日）還將迎來多達9.115億股股票解禁，將創美股史上最大單股解禁洪峰，對SpaceX和納斯達克構成流動性壓力測試。\n週三，禮來(LLY.US)、 諾和諾德(NVO.US)、閃迪(SNDK.US)、 西部資料(WDC.US)。前兩者於盤前釋出的財報將揭開減肥藥市場的最新戰況。而閃迪(SNDK.US)、 西部資料(WDC.US)於盤後的財報將直接影響儲存板塊情緒。閃迪此前因AI儲存需求預期大幅波動，市場預計其營收與利潤將受益於企業級SSD和HBM相關需求。西部資料則關注HDD與快閃記憶體業務的平衡，以及資料中心儲存需求的持續性。"
-    },
-    {
-      "id": "5020900",
-      "time": "2026-08-02 20:15:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 特朗普預計將於 9 月 12 日訪問愛爾蘭。"
     }
   ]
 }
