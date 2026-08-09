@@ -1,7 +1,114 @@
 {
   "date": "2026-08-10",
-  "count": 117,
+  "count": 128,
   "items": [
+    {
+      "id": "5032702",
+      "time": "2026-08-10 06:01:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報84.43美元/桶。"
+    },
+    {
+      "id": "mkt:019fe88b-c1b5-7aab-8fcc-3a44ae53f5c2",
+      "time": "2026-08-10 06:01:40",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "US stock index futures opened mixed on Monday; Nasdaq futures up 0.16%, Dow futures down 0.14%."
+    },
+    {
+      "id": "mkt:019fe88b-4a38-7aab-8fcc-36784f9a55bf",
+      "time": "2026-08-10 06:01:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold opened 0.2% higher on Monday at $4,349/oz."
+    },
+    {
+      "id": "5032701",
+      "time": "2026-08-10 06:01:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破84美元/桶，日內漲0.54%。"
+    },
+    {
+      "id": "mkt:019fe88a-dded-7aab-8fcc-2dac6b935552",
+      "time": "2026-08-10 06:00:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude opened Monday up 1.5% at $77.6/barrel."
+    },
+    {
+      "id": "5032700",
+      "time": "2026-08-10 06:00:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4350美元/盎司，日內漲0.19%。"
+    },
+    {
+      "id": "5032699",
+      "time": "2026-08-10 06:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破64美元/盎司，日內漲0.25%。"
+    },
+    {
+      "id": "5032698",
+      "time": "2026-08-10 06:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月10日06時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "5032697",
+      "time": "2026-08-10 06:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4410美元/盎司，日內漲0.24%。"
+    },
+    {
+      "id": "5032696",
+      "time": "2026-08-10 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破64美元/盎司，日內漲0.46%。"
+    },
+    {
+      "id": "5032695",
+      "time": "2026-08-10 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4400美元/盎司，日內跌0.01%。"
+    },
     {
       "id": "5032694",
       "time": "2026-08-10 05:57:02",
