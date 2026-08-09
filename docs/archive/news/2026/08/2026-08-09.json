@@ -1,7 +1,63 @@
 {
   "date": "2026-08-09",
-  "count": 461,
+  "count": 467,
   "items": [
+    {
+      "id": "5032416",
+      "time": "2026-08-09 15:45:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "別爾哥羅德州代州長通報：夜間無人機襲擊造成的受傷人數已增至25人，其中包括兩名分別4歲和9歲的兒童。"
+    },
+    {
+      "id": "mkt:019fe57a-a503-7aab-8fc8-9c71f26510a8",
+      "time": "2026-08-09 15:44:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moore Threads 1H revenue jumps 147.4%; MTTS5000 cluster reaches commercial scale】Moore Threads reported 1H26 revenue of 1.736 bln yuan, up 147.42% YoY and exceeding full-year 2025 revenue. Gross profit was 989 mln yuan, up 103.78% YoY. Parent-company net loss narrowed 95.73% YoY; parent-company net loss excluding non-recurring items narrowed 52.37% YoY. 1H26 R&D spend was 769 mln yuan, up 38.16% YoY; cumulative R&D since 2022 is nearly 5.9 bln yuan. Commercialization accelerated: the MTTS5000 intelligent computing cluster reached scaled sales and has been deployed in Beijing, Wuxi and Hangzhou; it was among the first batch to pass the national Safety and Reliability assessment. The company reports multiple breakthroughs in high-end training capability, including training domestic models on domestic chips, and is expanding penetration into internet and telecom operator clients to broaden application scenarios. The MUSA software-stack ecosystem continues to mature, with developer numbers exceeding 800,000."
+    },
+    {
+      "id": "mkt:019fe57a-9610-7aab-8fc8-90da16ccd34a",
+      "time": "2026-08-09 15:44:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "President Zelenskiy said Odesa port sustained damage in a Russian attack."
+    },
+    {
+      "id": "5032415",
+      "time": "2026-08-09 15:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧夏建材：擬1億-2億元回購股份用於登出】寧夏建材公告稱，公司擬以集中競價交易方式回購股份，資金總額不低於1億元且不超過2億元，回購價格不超過19.47元/股，回購期限為自股東會審議透過回購方案之日起3個月內。回購股份將用於登出，預計回購數量為513.61萬-1027.22萬股，佔總股本的1.07%-2.15%。本次回購尚需股東會審議，存在未透過、無法實施等風險。"
+    },
+    {
+      "id": "5032414",
+      "time": "2026-08-09 15:43:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【藥明康德：美國哥倫比亞特區聯邦地區法院就公司的初步禁令動議作出了裁決】公司於2026年6月12日釋出了《自願性公告》，就美國國防部將藥明康德列入國防部1260H名單的認定提起訴訟。繼公司於2026年6月11日對國防部提起訴訟後，公司於2026年6月29日向美國哥倫比亞特區聯邦地區法院提出了初步禁令動議，尋求禁止國防部執行、實施1260H認定或依據1260H認定採取任何其他行動。美國時間2026年8月7日，法院就公司的初步禁令動議作出了裁決。公司對法院批准公司所申請的初步禁令的裁決表示歡迎。該裁決使公司在挑戰1260H認定的司法程式期間免受該認定所帶來的即時不利影響。"
+    },
+    {
+      "id": "5032413",
+      "time": "2026-08-09 15:42:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年第16號颱風“琵鷺”生成 將向偏東方向移動強度緩慢增強】據中央氣象臺訊息，今年第16號颱風“琵鷺”（熱帶風暴級；英文名稱：PEILOU）已於8月9日在西北太平洋洋麵上生成，14時其中心位於關島塞班北偏西方向約740公里的西北太平洋洋麵上，就是北緯21.2度、東經142.6度， 中心附近最大風力有8級，18米/秒（約65公里/小時），中心最低氣壓為998百帕。預計，“琵鷺”將以每小時25-30公里的速度向偏東方向移動，強度緩慢增強。（央視新聞）"
+    },
     {
       "id": "5032412",
       "time": "2026-08-09 15:41:16",
