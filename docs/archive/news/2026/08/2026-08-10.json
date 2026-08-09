@@ -1,7 +1,22 @@
 {
   "date": "2026-08-10",
-  "count": 45,
+  "count": 46,
   "items": [
+    {
+      "id": "mkt:019fe7c6-5475-7aab-8fcb-45980a24bd95",
+      "time": "2026-08-10 02:26:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Hungary central bank official lauds euro-area entry benefits】Hungary's central bank reiterated support for the government's efforts to meet euro-area entry criteria, saying membership would benefit the economy. The central bank's deputy governor said the bank will play a constructive role in meeting entry conditions while maintaining price stability and cited the government's 2030 qualification target. Since the April election win the forint and Hungarian sovereign bond prices have risen. He said euro-area standards—fiscal stability, low inflation and low yields—are beneficial though a common currency carries trade-offs, added that inflation this year could be below 2%, and reiterated the bank would consider lowering its 3% inflation target to align with the euro area."
+    },
     {
       "id": "mkt:019fe7c2-70fb-7aab-8fcb-3e1330752078",
       "time": "2026-08-10 02:21:47",

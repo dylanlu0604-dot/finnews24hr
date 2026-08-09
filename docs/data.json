@@ -1,7 +1,22 @@
 {
-  "updated": "2026-08-10 02:23:03",
-  "count": 15962,
+  "updated": "2026-08-10 02:26:56",
+  "count": 15959,
   "items": [
+    {
+      "id": "mkt:019fe7c6-5475-7aab-8fcb-45980a24bd95",
+      "time": "2026-08-10 02:26:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Hungary central bank official lauds euro-area entry benefits】Hungary's central bank reiterated support for the government's efforts to meet euro-area entry criteria, saying membership would benefit the economy. The central bank's deputy governor said the bank will play a constructive role in meeting entry conditions while maintaining price stability and cited the government's 2030 qualification target. Since the April election win the forint and Hungarian sovereign bond prices have risen. He said euro-area standards—fiscal stability, low inflation and low yields—are beneficial though a common currency carries trade-offs, added that inflation this year could be below 2%, and reiterated the bank would consider lowering its 3% inflation target to align with the euro area."
+    },
     {
       "id": "mkt:019fe7c2-70fb-7aab-8fcb-3e1330752078",
       "time": "2026-08-10 02:21:47",
@@ -145335,38 +145350,6 @@
         "MKT News"
       ],
       "text": "Israel's foreign minister said Israel is working with the United States to continue opposing the International Criminal Court, noting several countries have recently withdrawn and urging continuation of that process in coordination with US sanctions measures."
-    },
-    {
-      "id": "mkt:019fc3ba-8f46-7aab-8f48-a33daadb9274",
-      "time": "2026-08-03 02:26:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatic determination: 02:21 on Aug 3 an earthquake of about M4.9 occurred near Gaoxian, Yibin, Sichuan (28.55N, 104.67E). Final parameters subject to official rapid bulletin."
-    },
-    {
-      "id": "5021022",
-      "time": "2026-08-03 02:26:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "週日，從加利福尼亞州至達科他地區超4500萬人收到高溫危險預警，洛杉磯等多個主要城市釋出極端高溫警報。"
-    },
-    {
-      "id": "5021021",
-      "time": "2026-08-03 02:25:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：08月03日02時21分在四川宜賓市高縣附近（北緯28.55度，東經104.67度）發生4.9級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "5021020",
-      "time": "2026-08-03 02:24:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：簽署的諒解備忘錄是沙姆成員（黎凡特地區國家）集體智慧的成果，所有成員對此表示認同。我相信這份諒解備忘錄將成為我們未來對外關係的核心。我們必須努力迫使敵人遵守其簽署的承諾。這份諒解備忘錄將提升我們國家、地區以及盟友的安全。"
     }
   ]
 }
