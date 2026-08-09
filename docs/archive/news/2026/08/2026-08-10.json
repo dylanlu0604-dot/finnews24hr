@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 95,
+  "count": 97,
   "items": [
+    {
+      "id": "5032683",
+      "time": "2026-08-10 05:02:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖任命佐勒加德爾為其政治顧問】據伊朗伊斯蘭共和國通訊社9日報道，伊朗最高領袖穆傑塔巴·哈梅內伊任命穆罕默德·巴蓋爾·佐勒加德爾為其政治顧問。佐勒加德爾此前擔任伊朗最高國家安全委員會秘書。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe852-f9a9-7aab-8fcb-dfd6baacff11",
+      "time": "2026-08-10 04:59:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's Supreme Leader Mujtaba Khamenei appoints Mohammad Bagher Zolghadr as political adviser】State media reported on the 9th that Iran's Supreme Leader Mujtaba Khamenei appointed Mohammad Bagher Zolghadr as a political adviser. Zolghadr previously served as secretary of Iran's Supreme National Security Council."
+    },
     {
       "id": "mkt:019fe84f-e8ca-7aab-8fcb-d0f0b12ff7e8",
       "time": "2026-08-10 04:56:18",
