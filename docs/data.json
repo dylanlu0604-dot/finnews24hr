@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10 01:52:27",
+  "updated": "2026-08-10 01:56:22",
   "count": 15972,
   "items": [
+    {
+      "id": "5032651",
+      "time": "2026-08-10 01:54:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們的邊境空前穩固。儘管假新聞百般說辭，驅逐出境的執行規模正創下歷史新高。"
+    },
     {
       "id": "5032650",
       "time": "2026-08-10 01:44:11",
@@ -145448,14 +145456,6 @@
         "WTI"
       ],
       "text": "Israel's Channel 12 cites sources saying that, despite a statement from Trump, the Israel Defense Forces remained on high alert today, saying Iran may carry out unexpected actions."
-    },
-    {
-      "id": "5021011",
-      "time": "2026-08-03 01:53:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度因調味新增劑違規，禁售帝亞吉歐、英布魯部分酒類產品。"
     }
   ]
 }
