@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-10 01:00:23",
-  "count": 15978,
+  "updated": "2026-08-10 01:04:21",
+  "count": 15983,
   "items": [
+    {
+      "id": "5032641",
+      "time": "2026-08-10 01:01:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：事情會得到解決，歷來都是如此。"
+    },
+    {
+      "id": "5032640",
+      "time": "2026-08-10 01:01:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將美國與伊朗之間的你來我往比作一盤國際象棋。"
+    },
+    {
+      "id": "5032639",
+      "time": "2026-08-10 01:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：德黑蘭正面臨經濟困境。"
+    },
+    {
+      "id": "5032638",
+      "time": "2026-08-10 01:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤突破2.7美元，日內漲幅0.7%。"
+    },
+    {
+      "id": "mkt:019fe778-1994-7aab-8fcb-17dfb8246e73",
+      "time": "2026-08-10 01:00:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Axios reports President Trump said on Iran, 'we are handling it quietly'."
+    },
+    {
+      "id": "5032637",
+      "time": "2026-08-10 01:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。"
+    },
     {
       "id": "5032636",
       "time": "2026-08-10 00:57:49",
@@ -145506,18 +145560,6 @@
         "其他"
       ],
       "text": "【委內瑞拉與多明尼加決定逐步恢復外交關係】委內瑞拉和多明尼加政府2日發表聯合公報稱，雙方同意逐步實現外交和領事關係正常化。宣告說，第一階段將採取必要措施恢復領事服務，隨後按照雙方商定的時間表，推進外交關係正常化。這一決定旨在加強兩國制度性溝通渠道，維護兩國公民利益，並鞏固兩國曆史友好紐帶。雙方重申，將透過對話，在相互尊重和恪守國際法原則的基礎上推動這一程序。"
-    },
-    {
-      "id": "mkt:019fc36d-5a18-7aab-8f48-37fe26220626",
-      "time": "2026-08-03 01:02:31",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran foreign ministry spokesman said discussions with Pakistani and Turkish officials addressed warnings and responses to US threats, and that Iran would retaliate if attacked."
     }
   ]
 }
