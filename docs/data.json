@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-09 23:54:37",
-  "count": 15997,
+  "updated": "2026-08-09 23:58:34",
+  "count": 15999,
   "items": [
+    {
+      "id": "5032624",
+      "time": "2026-08-09 23:56:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：託德·布蘭奇以50票贊成、49票反對的結果正式獲批出任司法部長。"
+    },
+    {
+      "id": "5032623",
+      "time": "2026-08-09 23:55:14",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【深圳飛往無錫航班遭雷擊 南航回應：機身發現雷擊點20餘處】有網友日前發文表示，自己乘坐的深圳飛往無錫的南方航空CZ3209航班，在滑行排隊起飛過程中遭遇雷擊，幾分鐘後機長廣播通知回停機位檢查，原本預計下午4點半起飛，延遲到晚上8點40，航班延誤3小時，後續安排更換飛機出行。對此，南方航空公司工作人員回應表示，8月8日，南航CZ3209深圳至無錫航班，原計劃從深圳寶安國際機場起飛，但在深圳機場滑行過程中，飛機疑似遭雷擊，隨後決策滑回檢查。經機務人員檢查確認該飛機的機腹和機翼升降舵發現雷擊點約20餘處。 (深圳廣電集團都市頻道)"
+    },
+    {
+      "id": "mkt:019fe73b-b1e8-7aab-8fca-a8d942f746db",
+      "time": "2026-08-09 23:54:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Yemeni government condemns Houthi attack on Mocha port, says Red Sea shipping at risk】The Yemeni government condemned a Houthi attack on Mocha port, calling it a terrorist act that amounts to warfare against the state and national economy. It accused the Houthis of systematically striking ports and infrastructure while alleging government siege, and blamed Iran for supplying weapons and technical support. The government warned the threat now extends to regional and international security and endangers Red Sea shipping, said it will protect strategic facilities, and urged the international community to take concrete steps to cut Houthi funding and arms flows rather than issue verbal condemnations."
+    },
     {
       "id": "mkt:019fe735-35da-7aab-8fca-a31d2bc199d4",
       "time": "2026-08-09 23:47:31",
@@ -145674,14 +145703,6 @@
         "國際"
       ],
       "text": "【葡萄牙航空一客機起飛後因突發情況緊急降落】當地時間8月2日，葡萄牙航空公司一架從里斯本飛往美國波士頓的A321客機在飛越大西洋途中發生緊急情況，並於亞速爾群島特塞拉島的拉日什機場緊急降落。據悉，該航班起飛約兩小時後決定備降，目前航空公司尚未公佈具體原因。（央視新聞）"
-    },
-    {
-      "id": "5020968",
-      "time": "2026-08-02 23:57:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "麥格理將東鵬飲料A股評級下調至中性，目標價119元人民幣。"
     }
   ]
 }
