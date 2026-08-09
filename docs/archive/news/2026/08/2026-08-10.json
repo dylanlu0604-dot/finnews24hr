@@ -1,7 +1,28 @@
 {
   "date": "2026-08-10",
-  "count": 84,
+  "count": 86,
   "items": [
+    {
+      "id": "5032675",
+      "time": "2026-08-10 04:39:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【基金投顧牌照擴容進入衝刺期 內外資公募加緊佈局謀轉型】距離8月末基金投顧牌照申報時點日漸臨近，基金投顧新一輪擴容已然進入衝刺階段。證券時報記者多方採訪瞭解到，本次申報陣營涵蓋券商、內資公募以及外資公募等多類市場主體，各家機構正緊鑼密鼓打磨申報材料，系統改造搭建、內部配套制度建設、迎接現場檢查的各項籌備工作全面鋪開，大量工作需要跨部門協同推進。（證券時報）"
+    },
+    {
+      "id": "mkt:019fe83f-af3f-7aab-8fcb-c2049279d9b2",
+      "time": "2026-08-10 04:38:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Hedge funds rapidly cut yen shorts after U.S.-Japan FX intervention】CFTC data show leveraged funds reduced net short JPY positions by 74,440 contracts over the five weeks to Aug. 4, leaving a net short of 63,600 contracts — the largest reduction in shorts since the 2008 financial crisis. At end-June leveraged funds held a net short of 138,000 contracts, the largest since 2007. The adjustments followed the first coordinated U.S.-Japan FX market intervention in 15 years."
+    },
     {
       "id": "mkt:019fe83c-7af2-7aab-8fcb-b9bf2550313d",
       "time": "2026-08-10 04:35:05",
