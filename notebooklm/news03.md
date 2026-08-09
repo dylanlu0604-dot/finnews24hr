@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-10 03:45:12_
-_本檔包含 3382 則快訊，約 601134 字_
+_更新時間：2026-08-10 04:48:23_
+_本檔包含 3384 則快訊，約 600855 字_
+
+---
+
+### 2026-08-06 11:22:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli military says two soldiers were killed in southern Lebanon.
+
+---
+
+### 2026-08-06 11:22:06  #國際
+
+以色列軍方稱，兩名以色列士兵在黎巴嫩南部喪生。
+
+---
+
+### 2026-08-06 11:21:39  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Eases as Stronger Ringgit, Inventory Outlook Weigh — Malaysian palm oil futures slipped below MYR 4,700 per tonne, reversing recent gains as a stronger ringgit and weaker Chicago soyoil prices dampened sentiment. Meanwhile, crude oil prices retreated, further weighing on palm oil as lower energy prices reduce biodiesel demand prospects. Market pressure also stemmed from Reuters forecasts that Malaysia’s palm oil inventories climbed to a five-month high in July, reflecting seasonally stronger output. Traders stayed cautious ahead of China’s July trade data, which may offer fresh demand signals from a major palm oil consumer. Still, losses were tempered by firmer edible oil prices on the Dalian exchange and solid export momentum. Cargo surveyors estimated Malaysia’s July palm oil shipments rose 12.1%–19.5% from June. In top buyer India, edible oil imports hit a 10-month peak in July as refiners stepped up palm oil and soyoil purchases to rebuild stocks before the festive season amid tightening domestic supplies.
+
+---
+
+### 2026-08-06 11:21:31  #其他
+
+【瑞薩電子將展出具身智慧機器人解決方案】Renesas（瑞薩電子）宣佈，將攜多款面向具身智慧、工業機器人、服務機器人及AI開發平臺的解決方案，首次亮相中國具身智慧機器人產業大會暨展覽會，包括感測器融合靈巧手、機器人關節、9軸電機控制、永磁同步馬達控制解決方案，以及基於瑞薩RAA2P3226雙路電渦流位置感測器的機器人關節編碼器。
+
+---
+
+### 2026-08-06 11:21:06  #MKT News
+
+【China protests U.S. blocking of China‑Argentina corporate cooperation】China’s embassy in Argentina said on Aug. 6 that the U.S. embassy in Buenos Aires has stoked “China‑threat” rhetoric, broadened national‑security claims and used visa revocations to prevent Argentine firms from normal cooperation with Huawei. China strongly opposed the move as interference with sovereignty and market principles and urged the U.S. to correct its perception of China and stop hegemonic acts and political manipulation.
+
+---
+
+### 2026-08-06 11:21:03  #MKT News
+
+Sources: Bank Indonesia interim governor Destri is a frontrunner for the permanent governor post.
+
+---
+
+### 2026-08-06 11:20:56  #公司
+
+【盛劍科技新設子公司 註冊資本3000萬元】企查查APP顯示，近日，湖北盛劍科技有限公司成立，法定代表人為常程，註冊資本為3000萬元，經營範圍包含：半導體器件專用裝置銷售；機械裝置銷售；機械零件、零部件銷售；普通機械裝置安裝服務等。企查查股權穿透顯示，該公司由盛劍科技全資持股。
+
+---
+
+### 2026-08-06 11:20:52  #公司 #國際
+
+【中方回應美方阻止中阿企業正常合作】8月6日，中國駐阿根廷使館發言人就美方肆意破壞中阿合作發表談話。近期，美國駐阿根廷使館蓄意煽炒“中國威脅論”，泛化國家安全概念，以吊銷簽證方式赤裸裸阻止阿方企業同中國華為公司開展正常合作。有關做法充分反映出美方的傲慢與偏見，是對他國主權的極大不尊重和對自由市場原則的嚴重破壞，中方堅決反對。美國一貫標榜民主自由價值觀，卻容不下一家外國民營企業在第三國的正常生存和發展，其虛偽本質暴露無遺。我們敦促美方端正對華認知，停止霸權行徑和政治操弄。（中國駐阿根廷使館）
+
+---
+
+### 2026-08-06 11:20:20  #MKT News #Market Themes #AI Revolution #01860.HK #Impact bearish #03896.HK #09988.HK
+
+Most Hong Kong AI-application stocks fell, with Mobvista (01860.HK) down nearly 8%, Kingsoft Cloud (03896.HK) off more than 6%, and CMGE (00302.HK), Baidu (09888.HK), Alibaba Group (09988.HK) and Xiaomi Group (01810.HK) all down over 3%.
+
+---
+
+### 2026-08-06 11:19:25  #公司
+
+【電魂網路成立動漫公司】企查查APP顯示，近日，深圳漫魂幻新動漫有限公司成立，法定代表人為劉玉傑，經營範圍包含：電子產品銷售；皮革製品銷售；玩具、動漫及遊藝用品銷售；動漫遊戲開發；品牌管理；工業設計服務等。企查查股權穿透顯示，該公司由電魂網路旗下上海漫魂幻新策劃設計有限公司全資持股。
+
+---
+
+### 2026-08-06 11:19:09  #公司
+
+【飛捷科思完成數億元A1輪融資】8月6日，物理智慧企業飛捷科思智慧科技（上海）有限公司宣佈完成A1輪融資。本輪由老股東泰達科投與海松資本、復旦科創共同領投，毅達資本、優勢資本、踴躍資本、匯融基金、財鑫資本、湘江國投作為新增投資方參與投資；雲啟資本、矽港資本、中贏創投、常壘創投等現有股東繼續追加投資，融資金額數億元。
+
+---
+
+### 2026-08-06 11:19:05  #其他
+
+長鑫科技成交額超200億元，現跌4.55%。
+
+---
+
+### 2026-08-06 11:18:41  #其他
+
+【第二批穩定幣牌照國慶前後發放？香港金管局：不評論市場傳聞 持開放而謹慎態度】近期有市場訊息稱，隨著首批穩定幣發行人推進測試和業務準備，香港穩定幣發行或進一步提速，第二批穩定幣發行人牌照或存在於國慶前後落地的可能性。針對上述市場傳聞，香港金管局發言人今日覆函記者稱，不對市場傳聞做出評論，但對是否增發穩定幣發行人牌照以及時間安排，金管局持開放而謹慎的態度，現階段未有明確傾向。該發言人進一步表示，目前金管局的工作重點，是推進兩家持牌穩定幣發行人開展業務準備，並在其成功發行合規穩定幣後，觀察相關應用場景落地、營運成效以及市場反應等情況。至於未來是否增發牌照，需要綜合考慮多方面因素，包括申請是否符合發牌要求、市場對穩定幣的需求、實際應用情況，以及國際層面的發展趨勢和監管討論等。 (財聯社)
+
+---
+
+### 2026-08-06 11:15:57  #央行 #國際
+
+訊息人士：印尼央行臨時行長德斯特里是行長任命的頭號熱門人選。
+
+---
+
+### 2026-08-06 11:15:50  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Tech Index down 2%; HSI down 1.86%.
+
+---
+
+### 2026-08-06 11:15:30  #市場 #焦點
+
+恒生科技指數跌超2%，現報4833.950點；恒生指數現跌1.857%。
+
+---
+
+### 2026-08-06 11:15:08  #市場
+
+中際旭創A股成交額超300億元，現漲2.14%。
+
+---
+
+### 2026-08-06 11:15:01  #公司 #市場
+
+【部分產品根據相關投資者下達的投資指令投資運作，長興萬乘私募基金被出具警示函】8月6日，浙江證監局網站釋出關於對長興萬乘私募基金管理有限公司採取出具警示函措施的決定。經查，該公司在開展私募基金業務中存在公司部分產品根據相關投資者下達的投資指令進行投資運作的問題。上述行為違反了《私募投資基金監督管理暫行辦法》第四條第一款的規定。根據《私募投資基金監督管理暫行辦法》第三十三條的規定，浙江證監局決定對該公司採取出具警示函的監督管理措施，並記入證券期貨市場誠信檔案。
+
+---
+
+### 2026-08-06 11:13:04  #公司
+
+【聚焦“AI+IT”賽道 雄安人工智慧實訓基地正式投運】雄安新區首屆人工智慧實訓班今日開班，標誌著雄安人工智慧實訓基地正式投運。該基地佔地約53畝、建築面積7萬平方米，是服務北京非首都功能疏解、支撐雄安新區人工智慧產業高質量發展的重點公共服務平臺。基地採用“運營公司+實訓基地+人才學院”三位一體模式，聯動多家頭部企業，打造全鏈條認證與賽訓體系，覆蓋從基礎技能到高階研發的全層級人才培養。未來，雄安人工智慧實訓基地將致力於為智慧經濟時代培育更多AI實戰型人才。（央視新聞）
+
+---
+
+### 2026-08-06 11:12:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+China A-share pharmaceutical distribution sector jumped; Renmin Tongtai and Hefu China both hit daily limit-up, Yaoyigou rose over 15%, and Kaikai Industrial, Jianfa Zhixin, Saili Medical and Huaren Health also advanced.
+
+---
+
+### 2026-08-06 11:11:38  #公司
+
+【騰訊自走棋遊戲《王者永珍棋》就體驗服稱號異常問題致歉】8月6日，騰訊《王者榮耀》IP自走棋遊戲《王者永珍棋》釋出公告：目前已結束臨時停機維護，伺服器現已先行開放，玩家們可正常登入遊戲進行對局，但異常問題仍未完全解決，我們會在後續的更新中修復，當前不會影響大家的正常遊戲體驗。對於此次問題給大家帶來的不便，我們深表歉意。
+
+---
+
+### 2026-08-06 11:11:22  #市場
+
+【醫藥商業板塊異動拉昇 人民同泰、合富中國雙雙漲停】醫藥商業板塊異動拉昇，人民同泰、合富中國直線漲停，藥易購漲超15%，開開實業、建發致新、塞力醫療、華人健康跟漲。
+
+---
+
+### 2026-08-06 11:10:56  #其他
+
+澳航發言人表示，目前不存在立即發生工業行動或停工的風險。
+
+---
+
+### 2026-08-06 11:10:45  #其他
+
+澳航發言人表示，這份長途航線協議覆蓋約1700名飛行員，他們負責執飛波音787、空客A330及空客A380機型。
+
+---
+
+### 2026-08-06 11:10:45  #MKT News #Commodities #Energy
+
+【CNOOC commissions China's first domestically built 16MW tension-leg floating wind platform rated for level-17 typhoon】CNOOC said on Aug 6 its domestically designed and built 16 MW tension-leg floating wind platform Haiyou Anlan was connected to the Lufeng oilfield grid and began supplying green power directly. The platform, built to withstand extreme level-17 typhoon conditions, marks a step toward world-leading Chinese deepwater floating-wind equipment technology and offers a new development pathway for offshore wind.
 
 ---
 
@@ -20239,147 +20389,5 @@ WTI crude up more than 1.00% intraday at $75.08/bbl. Brent crude's intraday gain
 ### 2026-08-05 09:10:26  #國際
 
 市場訊息：美國疾病控制和預防中心(CDC)已將已知最大規模的環孢子蟲病疫情範圍擴大至15個州，目前已有超過400人患病。
-
----
-
-### 2026-08-05 09:09:46  #其他
-
-【曹操出行與大眾交通簽署戰略合作協議】8月3日，曹操出行與大眾交通簽署戰略合作協議。雙方將圍繞Robotaxi出行服務領域開展合作探索，依託各自在智慧駕駛技術、車輛運營管理與城市交通服務等方面的優勢，共同探索上海及長三角區域Robotaxi規模化運營新模式。
-
----
-
-### 2026-08-05 09:09:17  #其他
-
-北京市氣象臺2026年8月5日09時釋出高溫黃色預警訊號：預計8月5日至7日，每日12時至18時我市平原地區最高氣溫可達36℃左右，請注意防範。
-
----
-
-### 2026-08-05 09:08:25  #公司 #觀點 #國際
-
-【高盛支援的生物科技公司Attovia在美國IPO中籌集2.89億美元】專注於高未滿足需求的免疫系統疾病領域的早期階段藥物開發商Attovia Therapeutics Inc.，在美國首次公開募股（IPO）中籌集了2.89億美元，發行價達到其定價區間的上限。 
-這家位於加利福尼亞州聖卡洛斯的生物技術公司週二早些時候擴大了融資規模，最終以每股17美元的價格出售了1700萬股股票。此前一份檔案顯示，該公司最初計劃以每股15至17美元的價格發行1250萬股股票。 
-按IPO價格計算，根據申報檔案中列出的已發行股份，Attovia的市值達到7.315億美元。Attovia 正在利用從 Alamar Biosciences Inc. 獲得許可的技術平臺和專利開發藥物。檔案顯示，截至 3 月 31 日，Attovia 已從包括高盛集團附屬公司、Deep Track Capital、Frazier Life Sciences 和 venBio 在內的投資者處籌集了 2.558 億美元資金。
-
----
-
-### 2026-08-05 09:07:23  #市場 #焦點
-
-甲醇連續主力合約日內跌2%，現報2554.00元。
-
----
-
-### 2026-08-05 09:07:15  #市場 #焦點
-
-PTA連續主力合約日內跌3%，現報5728.00元。
-
----
-
-### 2026-08-05 09:06:13  #公司
-
-【東田微成立新公司 含半導體分立器件業務】 企查查APP顯示，近日，東田微（無錫）技術有限公司成立，經營範圍包含半導體分立器件銷售；電力電子元器件製造；電力電子元器件銷售；電子元器件與機電元件裝置製造；電子元器件與機電元件裝置銷售等。企查查股權穿透顯示，該公司由東田微(301183)全資持股。
-
----
-
-### 2026-08-05 09:05:46  #公司
-
-【A股停牌提示：6股今日停牌】Wind資料顯示，8月5日，藍盾光電、瓦軸B、愛麗家居等6只個股停牌。2股今日復牌：大立科技、任子行復牌。
-
----
-
-### 2026-08-05 09:05:07  #MKT News #Market Themes #Chip Wars
-
-【Jiangsu provincial government convenes '6+6' meeting on high-quality integrated-circuit development】Aug 4 — Jiangsu provincial government held a '6+6' industry meeting on high-quality development of integrated circuits. The province instructed province–city–county coordination and fiscal–financial collaboration to increase support for R&D in base materials, core devices, frontier processes and advanced architectures to accelerate industry scale and cluster effects. It called for an integrated innovation ecosystem linking universities, research institutes and firms into industry alliances and high‑level platforms, and for a full‑chain talent policy (attract, train, deploy, retain) to import senior and leading talent and establish an IC talent hub. The meeting also directed tiered, targeted support to expand leading enterprises and segmental benchmark firms to lift overall industry capability.
-
----
-
-### 2026-08-05 09:04:07  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-WTI crude rose above $75/bbl, up 0.91% intraday.
-
----
-
-### 2026-08-05 09:03:45  #市場
-
-【習酒君品大幅領跌 白酒大單品總價創17天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月5日繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9847元，較昨日大幅下跌29元，連續兩日回落，較8月3日階段高點累計下跌54元，創下17天以來最低。今日除國窖1573與水晶劍南春小幅上漲外，其餘品種均下跌或平盤。酒市終端交投情緒繼續轉弱，空方進一步佔據上風，低位修復行情再受衝擊。
-
-今日11大白酒單品兩漲七跌兩平，輸家佔據絕對優勢。上漲方面，國窖1573與水晶劍南春均小漲1元/瓶，其中前者近期價格漲跌反覆，低位震盪特徵延續；後者自近一個月最低位微幅回升。下跌方面，習酒君品跌幅居前，大跌10元/瓶，創下近一個月最大單日跌幅，昨日重新整理今年5月19日以來最高價紀錄後技術性回落；青花郎大跌7元/瓶，跌破700元大關；古井貢古20下跌6元/瓶，重新整理近一個月最低價紀錄；精品茅臺下跌3元/瓶，遭遇三連跌，亦創下近一個月新低。五糧液普五八代與洋河夢之藍M6+均下跌2元/瓶，其中前者連續兩日回落，低位修復行情再度承壓，後者兩連跌後失守590元關口，近一個月寬幅震盪格局延續；飛天茅臺微跌1元/瓶，昨日短時小幅上漲後再度轉跌，7.18提價後的高位整理格局延續。五糧液1618與青花汾20價格環比昨日保持不變，其中前者連續兩日維持在818元/瓶，後者昨日大幅回落後企穩於372元/瓶。
-
----
-
-### 2026-08-05 09:02:09  #資料 #國際
-
-菲律賓統計局公佈，7月通脹年率為+6.2%（調查預估：+6.3%）。
-
----
-
-### 2026-08-05 09:01:29  #MKT News #Important #Market Regions #Greater China
-
-Taiwan Weighted Index (TAIEX) opened up 1,389.53 points, or 3.2%, to 44,750.19 on Wednesday, Aug. 5.
-
----
-
-### 2026-08-05 09:01:18  #市場 #焦點
-
-瓶片連續主力合約日內跌4%，現報7092.00元。
-
----
-
-### 2026-08-05 09:01:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D rose 0.64% to 887.5 yuan/gram in early trade on Wednesday, Aug 5; silver T+D rose 2.56% to 14,528.0 yuan/kg.
-
----
-
-### 2026-08-05 09:00:55  #市場 #國際
-
-韓國綜合指數回吐早盤部分漲幅；最新上漲3.6%，報6588.19點。
-
----
-
-### 2026-08-05 09:00:46  #MKT News
-
-【Chinese HIAF produces, identifies rare isotope hafnium-153】Researchers at the Institute of Modern Physics, Chinese Academy of Sciences, with collaborators using the newly completed High Intensity Heavy Ion Accelerator Facility (HIAF) have produced and identified the rare nucleus hafnium-153. This is the facility’s first physics result during commissioning and demonstrates HIAF’s capability to explore unknown nuclides and extend the nuclide chart. The results were published in the journal Science Bulletin.
-
----
-
-### 2026-08-05 09:00:30  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #Copper
-
-Early session in China futures saw mixed moves: ethylene glycol (EG), Europe-route container freight and Shanghai crude (SC) fell more than 5%; LPG, low-sulfur fuel oil (LU), fuel oil, bottle-grade PET and polypropylene dropped over 3%. On the upside, platinum and palladium rose over 4%, Shanghai silver gained more than 3%, Shanghai lead nearly 2%, urea and coking coal up over 1%, and Shanghai zinc, Shanghai gold, international copper and polysilicon up about 1%.
-
----
-
-### 2026-08-05 09:00:27  #市場
-
-臺灣證交所加權股價指數上漲3.1%至44,722.27點。
-
----
-
-### 2026-08-05 09:00:21  #市場 #焦點
-
-聚丙烯連續主力合約日內跌3%，現報8089.00元。
-
----
-
-### 2026-08-05 09:00:21  #其他
-
-【成功產生並鑑別稀有原子核！我國大國重器取得新成果】近日，中國科學院近代物理研究所科研團隊與合作者依託最新建成的大科學裝置——強流重離子加速器裝置（HIAF），成功產生並鑑別了稀有原子核：鉿-153。這是該大裝置除錯期間取得的首個物理成果，驗證了我國新一代強流重離子研究裝置已具備探索未知核素、拓展核素版圖的能力。相關成果近日在學術期刊《科學通報》發表。
-
----
-
-### 2026-08-05 09:00:13  #其他
-
-臺灣證交所加權股價指數開高1%報43,809.83。
-
----
-
-### 2026-08-05 09:00:12  #央行 #美聯儲
-
-美聯儲施密德表示，貨幣政策的前瞻性指引具有價值，具體效果取決於實際情況。
-
----
-
-### 2026-08-05 09:00:07  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-Australian Equities Hold Firm at Five-Month Peak — Australian stocks advanced 44 points or 0.5% to 9,190 on Wednesday morning deals, rising for the fourth session and hovering at their highest in five months. A solid rise in U.S. equity futures lifted sentiment after an extended rally on Wall Street overnight that pushed the broad market index to a record high, helped by upbeat earnings and speculation of a U.S.–Iran deal to reopen the Strait of Hormuz. Locally, July services activity posted its strongest growth in half a year, with the index revised upward from its flash reading. Still, caution ahead of trade data from Australia and main trading partner China capped gains. Meanwhile, July industry conditions showed ongoing weakness in manufacturing and construction. Tech, non-energy minerals, healthcare, and process industries led advances, with early standouts from South32 (3.5%), Northern Star Resources (2.8%), Qantas Airways (2.6%), and Evolution Mining (2.0%). Conversely, most major banks were subdued, and energy names lagged.
 
 ---

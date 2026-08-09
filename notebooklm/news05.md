@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-10 03:45:12_
-_本檔包含 3024 則快訊，約 600773 字_
+_更新時間：2026-08-10 04:48:23_
+_本檔包含 3021 則快訊，約 600742 字_
+
+---
+
+### 2026-08-04 07:49:08  #MKT News #Important
+
+UK Maritime Trade Operations said a merchant vessel was attacked 20 nautical miles northeast of Al Husseib in the Arabian Sea, near the Strait of Hormuz.
+
+---
+
+### 2026-08-04 07:48:57  #其他
+
+SK海力士和閃迪合作釋出首個HBF標準規範。
+
+---
+
+### 2026-08-04 07:47:17  #其他
+
+【股票私募整體倉位創近220周新高 百億私募加倉明顯】在A股震盪調整過程中，機構資金正持續提升權益倉位。私募排排網最新資料顯示，自6月下旬以來，股票私募已連續4周加倉，整體倉位創近220周新高。與此同時，百億私募不僅率先提升倉位，還透過密集自購釋放看多訊號，7月以來私募自購金額已超過14億元，其中百億私募貢獻近七成。業內人士認為，隨著市場調整釋放風險，權益資產配置價值進一步顯現，疊加半年報披露提供新的業績線索，私募機構整體保持較高倉位執行。不過，多家機構也表示，短期市場仍將維持震盪格局，投資機會更多體現在結構性行情之中。
+
+---
+
+### 2026-08-04 07:47:01  #其他
+
+英國海事貿易運營處（UKMTO）表示，一艘貨輪已透過甚高頻16頻道廣播通報，其遭未知拋射物擊中。
+
+---
+
+### 2026-08-04 07:46:09  #市場 #國際
+
+基準10年期日本公債期貨早盤上漲0.09點。
+
+---
+
+### 2026-08-04 07:46:05  #其他
+
+英國海上貿易行動辦公室（UKMTO）已收到報告，稱在阿曼哈薩卜東北20海里處發生一起安全事件。
+
+---
+
+### 2026-08-04 07:45:57  #市場 #國際
+
+日本日經指數期貨早盤下跌0.1%。
+
+---
+
+### 2026-08-04 07:45:48  #市場 #國際
+
+【在霍爾木茲海峽有望重新開放之際油價下跌】在亞洲早盤交易中，在霍爾木茲海峽有望重新開放之際，油價下跌，該海峽是一條關鍵水道，全球五分之一的石油透過該水道運輸。Tickmill的Joseph Dahrieh在一封電子郵件中表示，伊朗似乎“在霍爾木茲海峽問題上接近與阿曼達成諒解“。這位董事總經理指出，此外，“總統特朗普沒有下令在中東進行新一輪軍事行動，這增強了透過外交途徑解決問題的希望“。Dahrieh補充說，然而，“伊朗否認與美國存在談判，這可能仍會限制價格回撥的幅度“。近月西得州中質油期貨下跌0.6%，報每桶79.88美元。
+
+---
+
+### 2026-08-04 07:44:36  #公司
+
+【玻璃基封裝成產業競逐新焦點 面板廠商跨界佈局】日前，TCL科技高階副總裁、TCL華星執行長趙軍在上海ChinaJoy（中國國際數碼互動娛樂展覽會）期間透露，TCL華星已組建專業團隊推進玻璃基封裝關鍵工藝驗證，計劃下半年展示相關樣品並籌建中試線；此外，京東方9.93億元投資的玻璃基封裝載板試驗線已向國內客戶送樣，部分客戶透過概念認證進入技術測試階段；深天馬亦搭建MPG多專案玻璃基板技術平臺，將先進封裝列為重點賦能方向之一。隨著AI晶片向大尺寸、高算力、高密度互連加速演進，傳統有機載板逐步觸及效能邊界，玻璃基先進封裝正成為產業競逐的新焦點，一場由面板廠商主導的跨界佈局已然展開。
+
+---
+
+### 2026-08-04 07:44:36  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+【Japan's latest yen-support intervention may have cost $87 bln】U.S. sources said the Bank of Japan may have used about $87 bln (≈¥11 tln) in its latest FX intervention to support the yen, likely spending roughly $53 bln on July 30 and $34 bln on July 31, based on estimates derived from the Bank of Japan's latest money-market data.
+
+---
+
+### 2026-08-04 07:43:56  #其他
+
+馬斯克轉發網友評論表示： Grok 構建已更新。該網友表示，SpaceXAI 幾乎每天都在推送新的 Grok 構建更新。 Grok 構建 v0.2.120 現已上線。
+
+---
+
+### 2026-08-04 07:43:56  #央行 #日本央行
+
+【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。
+
+---
+
+### 2026-08-04 07:43:49  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Steadies on Mideast, Fed Uncertainties — Silver steadied around $58 an ounce on Tuesday after rising in the previous session, as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year.
+
+---
+
+### 2026-08-04 07:43:12  #央行 #國際
+
+【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。
+
+---
+
+### 2026-08-04 07:42:55  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies on Mideast, Fed Uncertainties — Gold steadied around $4,050 an ounce on Tuesday, trading in a narrow range as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year.
+
+---
+
+### 2026-08-04 07:40:14  #公司
+
+【兩度延期後到期失效 杭州銀行80億元定增方案終止】一項歷時三年的定增方案兩度延期後，最終以“自動失效”畫上句號。日前，杭州銀行釋出公告稱，該行募資總額不超過80億元、向特定物件發行A股股票的方案到期終止。 杭州銀行回應報記者稱，在定增方案有效期內該行持續跟蹤資本市場走勢、行業估值變化，常態化對接意向投資者，動態評估發行視窗，適時推進發行相關準備工作。伴隨可轉債轉股落地、內源利潤持續留存，杭州銀行核心資本持續夯實，現有資本儲備能夠匹配業務發展節奏。此次定增方案到期自動失效，屬於上市公司資本運作正常情形，該行選擇不再延期是結合自身實際作出的最佳化安排。(中證報）
+
+---
+
+### 2026-08-04 07:38:45  #其他
+
+【個人AI定義新一輪增長 消費電子產業鏈加速擁抱變革】榮耀首款機器人手機Robot Phone預約量已突破20萬臺，超越歷代旗艦；OPPO“小布Next計劃”開啟多機型內測，讓AI（人工智慧）助手化身“24小時待命的專家團隊”；華為新款鴻蒙摺疊電腦定檔8月5日釋出；蘋果首款摺疊屏手機將於今秋亮相，“Apple智慧”已完成國內備案……從手機到PC，從可穿戴到智慧眼鏡，一場以AI為核心引擎的產業變革正在消費電子領域全面鋪開。接受證券時報記者採訪的專家表示，構建以使用者為中心的個人AI體驗，正成為消費電子終端廠商決勝的關鍵。圍繞著這一方向，消費電子行業算力架構將走向端邊雲協同發展，而以高通、英偉達等為代表的產業鏈企業已提前佈局。
 
 ---
 
@@ -18141,125 +18243,5 @@ SCHUMER said the continuing resolution released today is the responsible choice.
 ### 2026-08-03 04:49:06  #國際
 
 以色列國防部長：我們在加沙設立安全區，範圍覆蓋加沙地帶50%至60%以上區域。該區域內所有設施均已摧毀，這是我方既定政策。區內房屋不復存在，威脅也隨之消除。
-
----
-
-### 2026-08-03 04:46:46  #MKT News
-
-【Iran foreign minister speaks by phone with Iraqi counterpart】Iranian foreign minister Araghchi spoke by phone with his Iraqi counterpart to discuss recent regional developments, measures to deepen bilateral and regional cooperation, and priority issues of mutual concern.
-
----
-
-### 2026-08-03 04:43:29  #國際
-
-【伊朗與伊拉克外長舉行電話會談】伊朗外交部長阿拉格齊與伊拉克外交部長通電話，雙方討論地區最新局勢、深化雙邊及區域合作的路徑，以及兩國之間重點共同關切議題。
-
----
-
-### 2026-08-03 04:41:37  #市場
-
-【8月A股或進入修復時間視窗 配置迴歸基本面定價邏輯】上週，A股整體呈現震盪分化格局，三大指數全周漲跌幅不一。經歷了7月的波動後，券商策略展望報告普遍認為，政策層面近期釋放出較為明確的穩增長訊號，疊加企業盈利修復與流動性適度寬裕的支撐，市場進一步下探空間有限，8月A股或將進入行情修復的有利時間視窗。（上證報）
-
----
-
-### 2026-08-03 04:39:19  #其他
-
-【7月網籤量同比增長9.8% 北京二手房市場淡季不淡】7月雖為樓市傳統淡季，但北京市二手房市場並未明顯降溫。北京市住建委官網資料顯示，當月二手住宅網籤量超1.4萬套，同比增長9.8%。拉長週期看，1—7月累計成交10.7萬套，同比增長6%，創近5年同期新高，3月以來單月成交量已連續5個月保持同比增長。業內人士認為，下半年成交有望保持一定活躍度，但進一步企穩仍有賴於多重因素的持續改善。（證券時報）
-
----
-
-### 2026-08-03 04:38:30  #市場
-
-【股票ETF7月吸金超4700億元 寬基產品成為絕對主力】7月，A股市場出現大幅回撤，但股票ETF卻迎來大規模資金湧入。 整體看，股票ETF中的寬基ETF和行業主題ETF合計吸金超4700億元。其中，寬基指數ETF成為資金買入的絕對主力，跟蹤滬深300、中證A500等核心寬基指數的ETF均獲大幅加碼，跟蹤科創50、中證1000和創業板指等寬基ETF也呈現多點開花態勢。 行業主題ETF方面，跌幅較大的半導體ETF上演越跌越買態勢，反彈較多的港股科技ETF則呈現越漲越賣態勢，可以看出資金抄底與止盈操作同時存在。其他資產方面，貨幣、商品及可轉債ETF獲得資金增配，信用債、利率債和跨境ETF則出現資金淨流出。（證券時報）
-
----
-
-### 2026-08-03 04:37:40  #其他
-
-【AI應用賽道迎底部修復 多隻主題基金單日漲幅超10%】7月最後一個交易日，科技板塊迎來強勢反彈，AI行情主線顯著切換，資金從光模組、儲存晶片等上游硬體湧向AI短劇、大模型等下游應用端，十餘隻重倉AI傳媒標的基金單日漲幅超10%；一方面是AI應用賽道基金短期回血，另一方面是前期領跑的AI硬體主題基金漲幅明顯落後，年內收益大幅縮水。劇烈輪動行情下，基金投資者持倉盈虧分化加劇。（證券時報）
-
----
-
-### 2026-08-03 04:37:18  #市場
-
-【公募前七月業績大洗牌 年內翻倍基金僅剩兩隻】伴隨7月收官，公募基金行業2026年前7個月的權益基金業績全貌揭曉。A股市場的極致結構性行情迎來階段性調整，此前引爆市場的AI、半導體成長賽道基金出現顯著淨值回撤，翻倍基金數量大幅縮水，僅易方達基金旗下兩隻產品守住翻倍收益。 Wind資料顯示，截至7月31日，年內收益率超過100%的主動權益基金僅剩2只，而上半年這一數字曾高達199只。具體來看，前7個月業績排名前20席位被科技、AI主題基金包攬，但絕大多數基金產品在近一個月出現明顯淨值回撤，資金在高位選擇兌現，紅利、醫藥、中小盤品種則迎來逆勢修復視窗。（證券時報）
-
----
-
-### 2026-08-03 04:36:49  #其他
-
-【近300只中風險基金單月暴跌超30% 基金風險評級滯後問題待解】7月科技板塊劇烈回撥之下，790只跌幅超30%的主動權益基金裡逾三分之一維持R3中風險等級，短期深度回撤未能同步反映在風險分級調整中。基金產品風險評級嚴重滯後,與真實波動大幅脫節的行業亂象隨之浮出水面。 有公募業內人士在接受證券時報記者採訪時表示，相關基金的風險等級未能及時揭示淨值下行風險，存在明顯滯後。基金風險等級劃分制度雖已施行多年，但實際執行效果仍不盡如人意：各機構評級標準與頻率不一，甚至出現“同基不同級”現象；加之機構缺乏主動調整動力，評級往往流於合規形式。要切實提升風險等級的有效性，還需從破除現實障礙、理順利益衝突入手。（證券時報）
-
----
-
-### 2026-08-03 04:27:10  #MKT News #Commodities #Energy #Brent #Impact bullish #XAUUSD
-
-【Russia, Ukraine continue reciprocal strikes on infrastructure on Sunday】The Russian military said Ukrainian drones carried out overnight strikes on an oil refinery in Saratov, triggering a fire. Ukrainian forces said they destroyed the refinery and also attacked a nearby air base that hosts Tu-95 long-range strategic bombers Russia uses to launch cruise missiles at Ukraine. Russia said its forces struck infrastructure in the Ukrainian port city of Mykolaiv, hit two vessels carrying military cargo, and struck a ship in the Black Sea. Saratov is about 730 km southeast of Moscow and more than 1,000 km from Kyiv.
-
----
-
-### 2026-08-03 04:27:02  #其他
-
-摩洛哥內政部：致力於開展國際協作，打擊非法移民並維護邊境安全。
-
----
-
-### 2026-08-03 04:26:14  #國際
-
-【美國參議員公佈臨時撥款法案，力求避免今秋政府停擺】美國參議院談判代表達成跨黨派協議，旨在避免今年秋季全美政府停擺。參議院撥款委員會主席蘇珊·柯林斯與副主席帕蒂·默裡於週日公佈法案文字。該法案將維持大部分政府機構現有資金規模，撥款期限延續至12月。參議院多數黨領袖約翰·休恩計劃在參議院8月休會前，於本週推動該法案進行表決。
-
----
-
-### 2026-08-03 04:25:07  #MKT News
-
-【Senate Appropriations Committee releases funding bill text】Semafor reports Senators Collins and Murray circulated a continuing resolution that would fund the U.S. government through Dec. 11 and blocks an Office of Management and Budget (OMB) proposed rule that would allow the administration to rescind federal grants to states, including so-called blue states. Collins said the bill "prevents the OMB proposed rule on federal financial assistance from taking effect." Murray said the CR "prevents implementation of this corrupt new OMB grants rule during the continuing resolution," adding the proposal would systemically politicize federal funds and allow Trump administration officials to cancel grants "at any time for any reason."
-
----
-
-### 2026-08-03 04:16:34  #國際
-
-奧迪釋出全新Q9三排座SUV，主攻美國市場，定位品牌旗艦車型。
-
----
-
-### 2026-08-03 04:10:11  #其他
-
-【中國地震局啟動四級應急響應 現場工作隊趕赴震區】據中國地震臺網正式測定，2026年8月3日2時21分，在四川宜賓市高縣（北緯28.54度，東經104.67度）發生4.8級地震，震源深度6公里。地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、四川省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。目前，四川省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。（央視新聞）
-
----
-
-### 2026-08-03 04:06:13  #焦點 #國際
-
-日本財務大臣：將於週一宣佈東京與華盛頓採取聯合行動遏制日元貶值。
-
----
-
-### 2026-08-03 04:05:09  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-【Netanyahu learned via President Trump's social-media post that the U.S. halted planned strikes on Iran】Multiple Israeli officials said Israel was excluded from the U.S. decision for hours and was unaware the U.S. had canceled planned strikes on Iran. A senior Israeli official said, "For several hours we were in a complete information vacuum and uncertainty; President Trump left us in the fog. Senior officers only learned of the latest developments from the president's personal social-media post."
-
----
-
-### 2026-08-03 04:04:32  #國際
-
-【以稱內塔尼亞胡透過特朗普社媒得知美叫停對伊打擊】多名以色列官員稱，在美國取消針對伊朗的既定襲擊計劃前，以方被排除在決策資訊之外長達數小時，對美方取消行動的決定毫不知情。一名以色列高階官員說，“有幾個小時，我們處於完全的資訊真空與不確定之中，特朗普總統讓我們陷入了迷霧。高階軍官們甚至是透過特朗普的個人社交媒體帖文，才獲悉最新的事態進展”。
-
----
-
-### 2026-08-03 03:57:11  #其他
-
-中國地震臺網正式測定：08月03日03時54分在四川宜賓市高縣（北緯28.55度，東經104.66度）發生3.3級地震，震源深度6千米。
-
----
-
-### 2026-08-03 03:50:28  #其他
-
-摩洛哥內政部稱，在試圖大規模越境進入休達期間，有10人溺水身亡，另有1人墜崖死亡。
-
----
-
-### 2026-08-03 03:45:38  #公司
-
-【下週美股財報提醒】週一（8月3日），Palantir、安森美半導體等將釋出業績報告；週二，SpaceX、AMD、卡特彼勒等將釋出業績報告；週三，諾和諾德、閃迪、西部資料、迪士尼等釋出業績報告。
 
 ---

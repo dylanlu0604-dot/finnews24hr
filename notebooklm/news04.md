@@ -1,7 +1,149 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-10 03:45:12_
-_本檔包含 3318 則快訊，約 600235 字_
+_更新時間：2026-08-10 04:48:23_
+_本檔包含 3324 則快訊，約 600895 字_
+
+---
+
+### 2026-08-05 09:09:46  #其他
+
+【曹操出行與大眾交通簽署戰略合作協議】8月3日，曹操出行與大眾交通簽署戰略合作協議。雙方將圍繞Robotaxi出行服務領域開展合作探索，依託各自在智慧駕駛技術、車輛運營管理與城市交通服務等方面的優勢，共同探索上海及長三角區域Robotaxi規模化運營新模式。
+
+---
+
+### 2026-08-05 09:09:17  #其他
+
+北京市氣象臺2026年8月5日09時釋出高溫黃色預警訊號：預計8月5日至7日，每日12時至18時我市平原地區最高氣溫可達36℃左右，請注意防範。
+
+---
+
+### 2026-08-05 09:08:25  #公司 #觀點 #國際
+
+【高盛支援的生物科技公司Attovia在美國IPO中籌集2.89億美元】專注於高未滿足需求的免疫系統疾病領域的早期階段藥物開發商Attovia Therapeutics Inc.，在美國首次公開募股（IPO）中籌集了2.89億美元，發行價達到其定價區間的上限。 
+這家位於加利福尼亞州聖卡洛斯的生物技術公司週二早些時候擴大了融資規模，最終以每股17美元的價格出售了1700萬股股票。此前一份檔案顯示，該公司最初計劃以每股15至17美元的價格發行1250萬股股票。 
+按IPO價格計算，根據申報檔案中列出的已發行股份，Attovia的市值達到7.315億美元。Attovia 正在利用從 Alamar Biosciences Inc. 獲得許可的技術平臺和專利開發藥物。檔案顯示，截至 3 月 31 日，Attovia 已從包括高盛集團附屬公司、Deep Track Capital、Frazier Life Sciences 和 venBio 在內的投資者處籌集了 2.558 億美元資金。
+
+---
+
+### 2026-08-05 09:07:23  #市場 #焦點
+
+甲醇連續主力合約日內跌2%，現報2554.00元。
+
+---
+
+### 2026-08-05 09:07:15  #市場 #焦點
+
+PTA連續主力合約日內跌3%，現報5728.00元。
+
+---
+
+### 2026-08-05 09:06:13  #公司
+
+【東田微成立新公司 含半導體分立器件業務】 企查查APP顯示，近日，東田微（無錫）技術有限公司成立，經營範圍包含半導體分立器件銷售；電力電子元器件製造；電力電子元器件銷售；電子元器件與機電元件裝置製造；電子元器件與機電元件裝置銷售等。企查查股權穿透顯示，該公司由東田微(301183)全資持股。
+
+---
+
+### 2026-08-05 09:05:46  #公司
+
+【A股停牌提示：6股今日停牌】Wind資料顯示，8月5日，藍盾光電、瓦軸B、愛麗家居等6只個股停牌。2股今日復牌：大立科技、任子行復牌。
+
+---
+
+### 2026-08-05 09:05:07  #MKT News #Market Themes #Chip Wars
+
+【Jiangsu provincial government convenes '6+6' meeting on high-quality integrated-circuit development】Aug 4 — Jiangsu provincial government held a '6+6' industry meeting on high-quality development of integrated circuits. The province instructed province–city–county coordination and fiscal–financial collaboration to increase support for R&D in base materials, core devices, frontier processes and advanced architectures to accelerate industry scale and cluster effects. It called for an integrated innovation ecosystem linking universities, research institutes and firms into industry alliances and high‑level platforms, and for a full‑chain talent policy (attract, train, deploy, retain) to import senior and leading talent and establish an IC talent hub. The meeting also directed tiered, targeted support to expand leading enterprises and segmental benchmark firms to lift overall industry capability.
+
+---
+
+### 2026-08-05 09:04:07  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose above $75/bbl, up 0.91% intraday.
+
+---
+
+### 2026-08-05 09:03:45  #市場
+
+【習酒君品大幅領跌 白酒大單品總價創17天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月5日繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9847元，較昨日大幅下跌29元，連續兩日回落，較8月3日階段高點累計下跌54元，創下17天以來最低。今日除國窖1573與水晶劍南春小幅上漲外，其餘品種均下跌或平盤。酒市終端交投情緒繼續轉弱，空方進一步佔據上風，低位修復行情再受衝擊。
+
+今日11大白酒單品兩漲七跌兩平，輸家佔據絕對優勢。上漲方面，國窖1573與水晶劍南春均小漲1元/瓶，其中前者近期價格漲跌反覆，低位震盪特徵延續；後者自近一個月最低位微幅回升。下跌方面，習酒君品跌幅居前，大跌10元/瓶，創下近一個月最大單日跌幅，昨日重新整理今年5月19日以來最高價紀錄後技術性回落；青花郎大跌7元/瓶，跌破700元大關；古井貢古20下跌6元/瓶，重新整理近一個月最低價紀錄；精品茅臺下跌3元/瓶，遭遇三連跌，亦創下近一個月新低。五糧液普五八代與洋河夢之藍M6+均下跌2元/瓶，其中前者連續兩日回落，低位修復行情再度承壓，後者兩連跌後失守590元關口，近一個月寬幅震盪格局延續；飛天茅臺微跌1元/瓶，昨日短時小幅上漲後再度轉跌，7.18提價後的高位整理格局延續。五糧液1618與青花汾20價格環比昨日保持不變，其中前者連續兩日維持在818元/瓶，後者昨日大幅回落後企穩於372元/瓶。
+
+---
+
+### 2026-08-05 09:02:09  #資料 #國際
+
+菲律賓統計局公佈，7月通脹年率為+6.2%（調查預估：+6.3%）。
+
+---
+
+### 2026-08-05 09:01:29  #MKT News #Important #Market Regions #Greater China
+
+Taiwan Weighted Index (TAIEX) opened up 1,389.53 points, or 3.2%, to 44,750.19 on Wednesday, Aug. 5.
+
+---
+
+### 2026-08-05 09:01:18  #市場 #焦點
+
+瓶片連續主力合約日內跌4%，現報7092.00元。
+
+---
+
+### 2026-08-05 09:01:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D rose 0.64% to 887.5 yuan/gram in early trade on Wednesday, Aug 5; silver T+D rose 2.56% to 14,528.0 yuan/kg.
+
+---
+
+### 2026-08-05 09:00:55  #市場 #國際
+
+韓國綜合指數回吐早盤部分漲幅；最新上漲3.6%，報6588.19點。
+
+---
+
+### 2026-08-05 09:00:46  #MKT News
+
+【Chinese HIAF produces, identifies rare isotope hafnium-153】Researchers at the Institute of Modern Physics, Chinese Academy of Sciences, with collaborators using the newly completed High Intensity Heavy Ion Accelerator Facility (HIAF) have produced and identified the rare nucleus hafnium-153. This is the facility’s first physics result during commissioning and demonstrates HIAF’s capability to explore unknown nuclides and extend the nuclide chart. The results were published in the journal Science Bulletin.
+
+---
+
+### 2026-08-05 09:00:30  #MKT News #Important #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #Copper
+
+Early session in China futures saw mixed moves: ethylene glycol (EG), Europe-route container freight and Shanghai crude (SC) fell more than 5%; LPG, low-sulfur fuel oil (LU), fuel oil, bottle-grade PET and polypropylene dropped over 3%. On the upside, platinum and palladium rose over 4%, Shanghai silver gained more than 3%, Shanghai lead nearly 2%, urea and coking coal up over 1%, and Shanghai zinc, Shanghai gold, international copper and polysilicon up about 1%.
+
+---
+
+### 2026-08-05 09:00:27  #市場
+
+臺灣證交所加權股價指數上漲3.1%至44,722.27點。
+
+---
+
+### 2026-08-05 09:00:21  #市場 #焦點
+
+聚丙烯連續主力合約日內跌3%，現報8089.00元。
+
+---
+
+### 2026-08-05 09:00:21  #其他
+
+【成功產生並鑑別稀有原子核！我國大國重器取得新成果】近日，中國科學院近代物理研究所科研團隊與合作者依託最新建成的大科學裝置——強流重離子加速器裝置（HIAF），成功產生並鑑別了稀有原子核：鉿-153。這是該大裝置除錯期間取得的首個物理成果，驗證了我國新一代強流重離子研究裝置已具備探索未知核素、拓展核素版圖的能力。相關成果近日在學術期刊《科學通報》發表。
+
+---
+
+### 2026-08-05 09:00:13  #其他
+
+臺灣證交所加權股價指數開高1%報43,809.83。
+
+---
+
+### 2026-08-05 09:00:12  #央行 #美聯儲
+
+美聯儲施密德表示，貨幣政策的前瞻性指引具有價值，具體效果取決於實際情況。
+
+---
+
+### 2026-08-05 09:00:07  #Trading Economics #Markets #Australia #Stock Market #Importance 1
+
+Australian Equities Hold Firm at Five-Month Peak — Australian stocks advanced 44 points or 0.5% to 9,190 on Wednesday morning deals, rising for the fourth session and hovering at their highest in five months. A solid rise in U.S. equity futures lifted sentiment after an extended rally on Wall Street overnight that pushed the broad market index to a record high, helped by upbeat earnings and speculation of a U.S.–Iran deal to reopen the Strait of Hormuz. Locally, July services activity posted its strongest growth in half a year, with the index revised upward from its flash reading. Still, caution ahead of trade data from Australia and main trading partner China capped gains. Meanwhile, July industry conditions showed ongoing weakness in manufacturing and construction. Tech, non-energy minerals, healthcare, and process industries led advances, with early standouts from South32 (3.5%), Northern Star Resources (2.8%), Qantas Airways (2.6%), and Evolution Mining (2.0%). Conversely, most major banks were subdued, and energy names lagged.
 
 ---
 
@@ -19893,107 +20035,5 @@ Japan | Base money growth rate (YoY) (Jul) | actual -13.8% | previous -13.70%
 ### 2026-08-04 07:49:16  #其他
 
 【黑龍江省呼蘭河發生2026年第1號洪水】受降雨影響，8月4日2時30分，黑龍江省松花江支流呼蘭河秦家水文站（黑龍江省綏化市）水位漲至149.56米，達到警戒水位，依據主要江河洪水編號規定，此次洪水編號為“呼蘭河2026年第1號洪水”。水利部緊盯呼蘭河汛情發展態勢，加強雨水情監測預報預警，提前啟動針對黑龍江省的洪水防禦Ⅳ級應急響應，督促指導地方強化水工程排程，落實落細洪水防禦各項措施，全力維護人民群眾生命財產安全。 目前，水利部工作組正在黑龍江省洪水防禦一線協助指導。
-
----
-
-### 2026-08-04 07:49:08  #MKT News #Important
-
-UK Maritime Trade Operations said a merchant vessel was attacked 20 nautical miles northeast of Al Husseib in the Arabian Sea, near the Strait of Hormuz.
-
----
-
-### 2026-08-04 07:48:57  #其他
-
-SK海力士和閃迪合作釋出首個HBF標準規範。
-
----
-
-### 2026-08-04 07:47:17  #其他
-
-【股票私募整體倉位創近220周新高 百億私募加倉明顯】在A股震盪調整過程中，機構資金正持續提升權益倉位。私募排排網最新資料顯示，自6月下旬以來，股票私募已連續4周加倉，整體倉位創近220周新高。與此同時，百億私募不僅率先提升倉位，還透過密集自購釋放看多訊號，7月以來私募自購金額已超過14億元，其中百億私募貢獻近七成。業內人士認為，隨著市場調整釋放風險，權益資產配置價值進一步顯現，疊加半年報披露提供新的業績線索，私募機構整體保持較高倉位執行。不過，多家機構也表示，短期市場仍將維持震盪格局，投資機會更多體現在結構性行情之中。
-
----
-
-### 2026-08-04 07:47:01  #其他
-
-英國海事貿易運營處（UKMTO）表示，一艘貨輪已透過甚高頻16頻道廣播通報，其遭未知拋射物擊中。
-
----
-
-### 2026-08-04 07:46:09  #市場 #國際
-
-基準10年期日本公債期貨早盤上漲0.09點。
-
----
-
-### 2026-08-04 07:46:05  #其他
-
-英國海上貿易行動辦公室（UKMTO）已收到報告，稱在阿曼哈薩卜東北20海里處發生一起安全事件。
-
----
-
-### 2026-08-04 07:45:57  #市場 #國際
-
-日本日經指數期貨早盤下跌0.1%。
-
----
-
-### 2026-08-04 07:45:48  #市場 #國際
-
-【在霍爾木茲海峽有望重新開放之際油價下跌】在亞洲早盤交易中，在霍爾木茲海峽有望重新開放之際，油價下跌，該海峽是一條關鍵水道，全球五分之一的石油透過該水道運輸。Tickmill的Joseph Dahrieh在一封電子郵件中表示，伊朗似乎“在霍爾木茲海峽問題上接近與阿曼達成諒解“。這位董事總經理指出，此外，“總統特朗普沒有下令在中東進行新一輪軍事行動，這增強了透過外交途徑解決問題的希望“。Dahrieh補充說，然而，“伊朗否認與美國存在談判，這可能仍會限制價格回撥的幅度“。近月西得州中質油期貨下跌0.6%，報每桶79.88美元。
-
----
-
-### 2026-08-04 07:44:36  #公司
-
-【玻璃基封裝成產業競逐新焦點 面板廠商跨界佈局】日前，TCL科技高階副總裁、TCL華星執行長趙軍在上海ChinaJoy（中國國際數碼互動娛樂展覽會）期間透露，TCL華星已組建專業團隊推進玻璃基封裝關鍵工藝驗證，計劃下半年展示相關樣品並籌建中試線；此外，京東方9.93億元投資的玻璃基封裝載板試驗線已向國內客戶送樣，部分客戶透過概念認證進入技術測試階段；深天馬亦搭建MPG多專案玻璃基板技術平臺，將先進封裝列為重點賦能方向之一。隨著AI晶片向大尺寸、高算力、高密度互連加速演進，傳統有機載板逐步觸及效能邊界，玻璃基先進封裝正成為產業競逐的新焦點，一場由面板廠商主導的跨界佈局已然展開。
-
----
-
-### 2026-08-04 07:44:36  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-【Japan's latest yen-support intervention may have cost $87 bln】U.S. sources said the Bank of Japan may have used about $87 bln (≈¥11 tln) in its latest FX intervention to support the yen, likely spending roughly $53 bln on July 30 and $34 bln on July 31, based on estimates derived from the Bank of Japan's latest money-market data.
-
----
-
-### 2026-08-04 07:43:56  #其他
-
-馬斯克轉發網友評論表示： Grok 構建已更新。該網友表示，SpaceXAI 幾乎每天都在推送新的 Grok 構建更新。 Grok 構建 v0.2.120 現已上線。
-
----
-
-### 2026-08-04 07:43:56  #央行 #日本央行
-
-【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。
-
----
-
-### 2026-08-04 07:43:49  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Steadies on Mideast, Fed Uncertainties — Silver steadied around $58 an ounce on Tuesday after rising in the previous session, as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year.
-
----
-
-### 2026-08-04 07:43:12  #央行 #國際
-
-【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。
-
----
-
-### 2026-08-04 07:42:55  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Steadies on Mideast, Fed Uncertainties — Gold steadied around $4,050 an ounce on Tuesday, trading in a narrow range as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year.
-
----
-
-### 2026-08-04 07:40:14  #公司
-
-【兩度延期後到期失效 杭州銀行80億元定增方案終止】一項歷時三年的定增方案兩度延期後，最終以“自動失效”畫上句號。日前，杭州銀行釋出公告稱，該行募資總額不超過80億元、向特定物件發行A股股票的方案到期終止。 杭州銀行回應報記者稱，在定增方案有效期內該行持續跟蹤資本市場走勢、行業估值變化，常態化對接意向投資者，動態評估發行視窗，適時推進發行相關準備工作。伴隨可轉債轉股落地、內源利潤持續留存，杭州銀行核心資本持續夯實，現有資本儲備能夠匹配業務發展節奏。此次定增方案到期自動失效，屬於上市公司資本運作正常情形，該行選擇不再延期是結合自身實際作出的最佳化安排。(中證報）
-
----
-
-### 2026-08-04 07:38:45  #其他
-
-【個人AI定義新一輪增長 消費電子產業鏈加速擁抱變革】榮耀首款機器人手機Robot Phone預約量已突破20萬臺，超越歷代旗艦；OPPO“小布Next計劃”開啟多機型內測，讓AI（人工智慧）助手化身“24小時待命的專家團隊”；華為新款鴻蒙摺疊電腦定檔8月5日釋出；蘋果首款摺疊屏手機將於今秋亮相，“Apple智慧”已完成國內備案……從手機到PC，從可穿戴到智慧眼鏡，一場以AI為核心引擎的產業變革正在消費電子領域全面鋪開。接受證券時報記者採訪的專家表示，構建以使用者為中心的個人AI體驗，正成為消費電子終端廠商決勝的關鍵。圍繞著這一方向，消費電子行業算力架構將走向端邊雲協同發展，而以高通、英偉達等為代表的產業鏈企業已提前佈局。
 
 ---

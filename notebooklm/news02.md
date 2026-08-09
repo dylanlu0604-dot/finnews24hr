@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-10 03:45:12_
-_本檔包含 3075 則快訊，約 601135 字_
+_更新時間：2026-08-10 04:48:23_
+_本檔包含 3070 則快訊，約 600790 字_
+
+---
+
+### 2026-08-07 15:40:40  #其他
+
+【華工科技與佰維儲存簽署戰略合作協議 共建“存算運”一體化解決方案】據華工科技訊息，8月6日，華工科技與佰維儲存簽署戰略合作協議。雙方將圍繞“AI儲存+計算+光互聯”融合領域，高效整合優勢資源，在技術協同、產品共創、市場共拓、生態建設方面開展深入合作，合力打造“存算運一體化”的AI基礎設施解決方案，構建互利共贏、可持續發展的戰略合作伙伴關係。
+
+---
+
+### 2026-08-07 15:40:38  #公司
+
+【世茂股份信披違法違規 時任董秘俞某被處以280萬元罰款】上海監管局認定世茂股份未按規定及時披露重大債務事項，2020年至2022年年度報告存在虛假記載；未按規定及時披露非經營性資金佔用相關關聯交易事項，且未在2020年至2022年年度報告中披露；未按規定及時披露未能清償到期重大債務違約情況，且未在2022年年度報告中披露；未按規定及時披露關聯擔保事項，且未在2020年至2022年年度報告中披露；未按規定及時披露重大訴訟、仲裁事項，且未在2022年年度報告中披露。俞某時任董事會秘書、副總經理、首席財務官，上海監管局決定對俞某給予警告，並處以280萬元罰款。（中國證券監督管理委員會上海監管局）
+
+---
+
+### 2026-08-07 15:39:39  #公司
+
+【福達合金：副總經理、董事會秘書蒙山因個人原因辭職】福達合金8月7日公告，公司董事會近日收到公司副總經理、董事會秘書蒙山的書面辭職報告，因個人原因，蒙山辭任副總經理、董事會秘書職務，辭任後不再擔任公司任何職務。在公司聘任新的董事會秘書之前，為保障董事會工作的順利開展，由公司董事長王達武代為履行董事會秘書職責。
+
+---
+
+### 2026-08-07 15:39:23  #其他
+
+【受冷空氣影響，河北唐山、滄州風暴潮預警級別為黃色】國家海洋預報臺8月7日16時釋出風暴潮黃色警報：受冷空氣的影響，預計：8月7日下午至8日中午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市和滄州市的風暴潮預警級別為黃色，天津市和山東省濱州市的風暴潮預警級別為藍色。
+
+---
+
+### 2026-08-07 15:39:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks End First Week of August on a Strong Note — Stocks in Europe traded higher on Friday, with both the STOXX 50 and STOXX 600 gaining 0.2% to reach fresh record levels once again. Earnings remained in focus while traders continued to assess developments in the Middle East. On the data front, Germany’s industrial production and exports came in better than expected. Kingspan jumped more than 12% to lead the STOXX 600 after the company raised its full-year profit guidance, while Genmab gained more than 6% following strong results. SAP shares rose almost 3%, while Rheinmetall added 2%. Novartis gained 1%, AstraZeneca rose 1.6% and Airbus advanced 0.8%. For the week, the STOXX 50 gained 2.4%, while the STOXX 600 is up 1.4%.
+
+---
+
+### 2026-08-07 15:39:08  #國際
+
+泰國警方：泰國校園槍擊事件傷亡人數修正為含槍手在內共6人死亡，23人受傷。
+
+---
+
+### 2026-08-07 15:38:51  #公司
+
+【東方電氣：王軍未減持，李建華減持15500股】東方電氣公告，公司於2026年4月10日披露高階管理人員減持股份計劃公告，高階副總裁王軍先生擬減持不超過800股，高階副總裁李建華先生擬減持不超過15500股。本次減持計劃已實施完畢：王軍先生未減持公司股份；李建華先生透過集中競價交易方式合計減持15500股，佔公司總股本的0.000448%，減持價格區間為40.48元/股，減持總金額為62.75萬元。
+
+---
+
+### 2026-08-07 15:38:27  #公司
+
+【聯環藥業：乳果糖口服溶液獲批，2025年銷售額5.63億元】聯環藥業公告，公司於近日收到國家藥監局核准簽發的乳果糖口服溶液(200ml:133.4g/15ml:10g)《藥品註冊證書》，註冊分類為化學藥品4類，視同透過仿製藥質量和療效一致性評價。該藥品適用於慢性或習慣性便秘，調節結腸的生理節律；肝性腦病，用於治療和預防肝昏迷或昏迷前狀態。2025年全國二級以上醫院該藥品銷售額達5.63億元（資料來源於摩熵·醫藥資料庫）。公司針對該藥品的研發投入約為529.70萬元（未經審計）。截至本公告披露日，公司及子公司2026年共獲得12個生產批件。
+
+---
+
+### 2026-08-07 15:38:18  #公司
+
+【柏楚電子：擬使用不超10.7億元閒置募集資金進行現金管理】柏楚電子公告稱，公司擬使用不超10.7億元暫時閒置募集資金進行現金管理，其中2019年首發募集資金4.5億元、2021年定增募集資金6.2億元，使用期限自董事會審議透過之日起12個月內，資金可迴圈滾動使用。投資產品為通知存款、結構性存款、大額存單等。公司2025年8月也曾審議透過類似議案。儘管投資產品風險較低，但仍受市場波動影響。該事項已獲董事會透過，保薦機構無異議。
+
+---
+
+### 2026-08-07 15:38:11  #公司
+
+【SK海力士：將基於與客戶的中長期需求溝通 並按客戶實際需求時點分階段擴大生產能力】SK海力士表示，公司將基於與客戶的中長期需求溝通，前瞻性佈局生產基礎設施，並按客戶實際需求時點分階段擴大生產能力。晶圓廠建設將按計劃推進，而無塵室擴建及裝置投入則將依據市場動態逐步實施，以提升投資效率。
+
+---
+
+### 2026-08-07 15:37:27  #公司 #市場
+
+【宇樹科技王興興：人形機器人毛利率回落系多重原因所致】王興興今日在宇樹科技科創板IPO網上路演中表示，公司在2023年銷售了5臺初代版本H1產品，因當時商業化人形機器人較為稀缺，該批產品的銷售單價和毛利率均較高，與後續年度不具有可比性。2025年，人形機器人的毛利率有所回落，主要原因是：一方面，公司於2024年5月自研發布了G1款中型人形機器人，並快速成為人形機器人的主力銷售機型，由於G1作為中型人形機器人的單位價格、單位成本、毛利率均低於全尺寸機器人H1，帶動了公司人形機器人整體毛利率的下降。另一方面，公司持續透過生產降本和採購降本以最佳化產品單位成本，在此基礎上，公司在2025年適當下調了產品的銷售價格。資料顯示，2023年至2025年，宇樹科技人形機器人的毛利率分別為87.67%、69.26%和63.18%，呈現逐年下滑趨勢。（科創板日報）
+
+---
+
+### 2026-08-07 15:37:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+KPLER said only six oil tankers transited the Strait of Hormuz this week.
+
+---
+
+### 2026-08-07 15:37:15  #公司
+
+【科華控股：完成2.98億股特定物件發行 募資3.26億元】科華控股公告稱，公司完成2025年度向特定物件發行股票，發行數量29,753,648股，發行價格10.96元/股，募集資金總額3.26億元，扣除發行費用後淨額3.22億元。發行物件為公司實際控制人盧紅萍、塗瀚，分別認購20,827,554股、8,926,094股，認購金額2.28億元、0.98億元，所認購股票自上市之日起36個月內不得轉讓。本次發行履行了必要決策和審批程式，符合相關規定。
+
+---
+
+### 2026-08-07 15:37:04  #國際
+
+以色列媒體報道：一名曾參與 10 月 7 日襲擊事件的人員，以援助物資卡車司機身份在拉法被捕。
+
+---
+
+### 2026-08-07 15:36:57  #其他
+
+航運追蹤機構Kpler：本週僅有6艘油輪駛過霍爾木茲海峽。
+
+---
+
+### 2026-08-07 15:36:09  #公司 #國際
+
+歐洲通訊衛星公司執行長：歐盟IRIS²專案首輪對接談判已於今日上午結束。
+
+---
+
+### 2026-08-07 15:35:46  #市場
+
+坦尚尼亞修訂外匯法規，允許非居民投資本國債券。
+
+---
+
+### 2026-08-07 15:35:13  #公司
+
+【上期能源：7月處理異常交易行為10起】上海國際能源交易中心釋出2026年7月自律監管資訊公告。2026年7月份自律監管資訊如下：異常交易行為管理方面，處理異常交易行為10起，其中，自成交超限3起，頻繁報撤單超限1起，日內開倉量超限6起，均透過會員單位對上述達到異常交易處理標準的客戶進行提示。對6個實際控制關係賬戶組採取限制開倉的監管措施並進行全市場公告。實際控制關係賬戶認定與協查方面，對346組752個客戶進行實際控制關係認定。
+
+---
+
+### 2026-08-07 15:35:10  #Trading Economics #Economy #Slovakia #Balance of Trade #Importance 1
+
+Slovakia Trade Surplus Narrows in June — Slovakia posted a trade surplus of EUR 372.9 million in June 2026, narrowing from EUR 445.8 million in the same month last year as imports outpaced exports. Exports rose 8.2% year on year to EUR 10.1 billion, supported by a more than 6% increase in motor vehicle shipments. Exports to EU member states grew by over 11%, while shipments to non-EU countries edged down 0.2%. Meanwhile, imports increased 9.5% to EUR 9.7 billion, driven by a nearly 6% rise in machinery and transport equipment imports. Imports from EU countries climbed by more than 11%, while those from non-EU countries increased by 6%. For the first half of 2026, Slovakia's trade surplus widened to EUR 1.67 billion, up from EUR 1.32 billion in the corresponding period a year earlier.
+
+---
+
+### 2026-08-07 15:34:43  #公司 #市場
+
+【Lazard新興市場股票基金抄底三星 看好記憶體晶片上行週期】Lazard Asset Management一隻規模96億美元基金的管理者，藉助三星電子7月暴跌的時機，一年多來首次將該股納入投資組合。Monika Shrestha是Lazard新興市場股票投資組合的聯席管理人，她押注推動三星錄得鉅額利潤的記憶體晶片上行週期將會持續進入2028年。資料顯示，她管理的這隻基金在過去一個月跑贏93%的同行，過去五年跑贏98%的同行。Shrestha在接受採訪時表示，三星近期股價下跌是“一個具吸引力的買入機會”。儘管交易過度擁擠及劇烈波動嚇壞了AI主題投資者，但她預計大型科技公司支出推動晶片銷售強勁增長的整體敘事仍然不變。
 
 ---
 
@@ -18412,155 +18532,5 @@ China A-share grain sector rallied intraday; Jinjian Rice Industry hit the daily
 ### 2026-08-06 11:23:36  #MKT News
 
 【Blue House says it will monitor markets, consider measures after single-stock leveraged ETF volatility】South Korea’s presidential office responded to calls to hold policy chief Kim Yong-beom responsible for recent market swings linked to the launch of single-stock leveraged ETFs, saying officials will prioritize close market monitoring and prepare appropriate responses. Communications senior secretary Seong Gi-hong said both the property and equity markets are showing elevated volatility with material effects on households, and that relevant Blue House officials are carefully reviewing situations and cautiously studying potential measures.
-
----
-
-### 2026-08-06 11:22:24  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israeli military says two soldiers were killed in southern Lebanon.
-
----
-
-### 2026-08-06 11:22:06  #國際
-
-以色列軍方稱，兩名以色列士兵在黎巴嫩南部喪生。
-
----
-
-### 2026-08-06 11:21:39  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Eases as Stronger Ringgit, Inventory Outlook Weigh — Malaysian palm oil futures slipped below MYR 4,700 per tonne, reversing recent gains as a stronger ringgit and weaker Chicago soyoil prices dampened sentiment. Meanwhile, crude oil prices retreated, further weighing on palm oil as lower energy prices reduce biodiesel demand prospects. Market pressure also stemmed from Reuters forecasts that Malaysia’s palm oil inventories climbed to a five-month high in July, reflecting seasonally stronger output. Traders stayed cautious ahead of China’s July trade data, which may offer fresh demand signals from a major palm oil consumer. Still, losses were tempered by firmer edible oil prices on the Dalian exchange and solid export momentum. Cargo surveyors estimated Malaysia’s July palm oil shipments rose 12.1%–19.5% from June. In top buyer India, edible oil imports hit a 10-month peak in July as refiners stepped up palm oil and soyoil purchases to rebuild stocks before the festive season amid tightening domestic supplies.
-
----
-
-### 2026-08-06 11:21:31  #其他
-
-【瑞薩電子將展出具身智慧機器人解決方案】Renesas（瑞薩電子）宣佈，將攜多款面向具身智慧、工業機器人、服務機器人及AI開發平臺的解決方案，首次亮相中國具身智慧機器人產業大會暨展覽會，包括感測器融合靈巧手、機器人關節、9軸電機控制、永磁同步馬達控制解決方案，以及基於瑞薩RAA2P3226雙路電渦流位置感測器的機器人關節編碼器。
-
----
-
-### 2026-08-06 11:21:06  #MKT News
-
-【China protests U.S. blocking of China‑Argentina corporate cooperation】China’s embassy in Argentina said on Aug. 6 that the U.S. embassy in Buenos Aires has stoked “China‑threat” rhetoric, broadened national‑security claims and used visa revocations to prevent Argentine firms from normal cooperation with Huawei. China strongly opposed the move as interference with sovereignty and market principles and urged the U.S. to correct its perception of China and stop hegemonic acts and political manipulation.
-
----
-
-### 2026-08-06 11:21:03  #MKT News
-
-Sources: Bank Indonesia interim governor Destri is a frontrunner for the permanent governor post.
-
----
-
-### 2026-08-06 11:20:56  #公司
-
-【盛劍科技新設子公司 註冊資本3000萬元】企查查APP顯示，近日，湖北盛劍科技有限公司成立，法定代表人為常程，註冊資本為3000萬元，經營範圍包含：半導體器件專用裝置銷售；機械裝置銷售；機械零件、零部件銷售；普通機械裝置安裝服務等。企查查股權穿透顯示，該公司由盛劍科技全資持股。
-
----
-
-### 2026-08-06 11:20:52  #公司 #國際
-
-【中方回應美方阻止中阿企業正常合作】8月6日，中國駐阿根廷使館發言人就美方肆意破壞中阿合作發表談話。近期，美國駐阿根廷使館蓄意煽炒“中國威脅論”，泛化國家安全概念，以吊銷簽證方式赤裸裸阻止阿方企業同中國華為公司開展正常合作。有關做法充分反映出美方的傲慢與偏見，是對他國主權的極大不尊重和對自由市場原則的嚴重破壞，中方堅決反對。美國一貫標榜民主自由價值觀，卻容不下一家外國民營企業在第三國的正常生存和發展，其虛偽本質暴露無遺。我們敦促美方端正對華認知，停止霸權行徑和政治操弄。（中國駐阿根廷使館）
-
----
-
-### 2026-08-06 11:20:20  #MKT News #Market Themes #AI Revolution #01860.HK #Impact bearish #03896.HK #09988.HK
-
-Most Hong Kong AI-application stocks fell, with Mobvista (01860.HK) down nearly 8%, Kingsoft Cloud (03896.HK) off more than 6%, and CMGE (00302.HK), Baidu (09888.HK), Alibaba Group (09988.HK) and Xiaomi Group (01810.HK) all down over 3%.
-
----
-
-### 2026-08-06 11:19:25  #公司
-
-【電魂網路成立動漫公司】企查查APP顯示，近日，深圳漫魂幻新動漫有限公司成立，法定代表人為劉玉傑，經營範圍包含：電子產品銷售；皮革製品銷售；玩具、動漫及遊藝用品銷售；動漫遊戲開發；品牌管理；工業設計服務等。企查查股權穿透顯示，該公司由電魂網路旗下上海漫魂幻新策劃設計有限公司全資持股。
-
----
-
-### 2026-08-06 11:19:09  #公司
-
-【飛捷科思完成數億元A1輪融資】8月6日，物理智慧企業飛捷科思智慧科技（上海）有限公司宣佈完成A1輪融資。本輪由老股東泰達科投與海松資本、復旦科創共同領投，毅達資本、優勢資本、踴躍資本、匯融基金、財鑫資本、湘江國投作為新增投資方參與投資；雲啟資本、矽港資本、中贏創投、常壘創投等現有股東繼續追加投資，融資金額數億元。
-
----
-
-### 2026-08-06 11:19:05  #其他
-
-長鑫科技成交額超200億元，現跌4.55%。
-
----
-
-### 2026-08-06 11:18:41  #其他
-
-【第二批穩定幣牌照國慶前後發放？香港金管局：不評論市場傳聞 持開放而謹慎態度】近期有市場訊息稱，隨著首批穩定幣發行人推進測試和業務準備，香港穩定幣發行或進一步提速，第二批穩定幣發行人牌照或存在於國慶前後落地的可能性。針對上述市場傳聞，香港金管局發言人今日覆函記者稱，不對市場傳聞做出評論，但對是否增發穩定幣發行人牌照以及時間安排，金管局持開放而謹慎的態度，現階段未有明確傾向。該發言人進一步表示，目前金管局的工作重點，是推進兩家持牌穩定幣發行人開展業務準備，並在其成功發行合規穩定幣後，觀察相關應用場景落地、營運成效以及市場反應等情況。至於未來是否增發牌照，需要綜合考慮多方面因素，包括申請是否符合發牌要求、市場對穩定幣的需求、實際應用情況，以及國際層面的發展趨勢和監管討論等。 (財聯社)
-
----
-
-### 2026-08-06 11:15:57  #央行 #國際
-
-訊息人士：印尼央行臨時行長德斯特里是行長任命的頭號熱門人選。
-
----
-
-### 2026-08-06 11:15:50  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Tech Index down 2%; HSI down 1.86%.
-
----
-
-### 2026-08-06 11:15:30  #市場 #焦點
-
-恒生科技指數跌超2%，現報4833.950點；恒生指數現跌1.857%。
-
----
-
-### 2026-08-06 11:15:08  #市場
-
-中際旭創A股成交額超300億元，現漲2.14%。
-
----
-
-### 2026-08-06 11:15:01  #公司 #市場
-
-【部分產品根據相關投資者下達的投資指令投資運作，長興萬乘私募基金被出具警示函】8月6日，浙江證監局網站釋出關於對長興萬乘私募基金管理有限公司採取出具警示函措施的決定。經查，該公司在開展私募基金業務中存在公司部分產品根據相關投資者下達的投資指令進行投資運作的問題。上述行為違反了《私募投資基金監督管理暫行辦法》第四條第一款的規定。根據《私募投資基金監督管理暫行辦法》第三十三條的規定，浙江證監局決定對該公司採取出具警示函的監督管理措施，並記入證券期貨市場誠信檔案。
-
----
-
-### 2026-08-06 11:13:04  #公司
-
-【聚焦“AI+IT”賽道 雄安人工智慧實訓基地正式投運】雄安新區首屆人工智慧實訓班今日開班，標誌著雄安人工智慧實訓基地正式投運。該基地佔地約53畝、建築面積7萬平方米，是服務北京非首都功能疏解、支撐雄安新區人工智慧產業高質量發展的重點公共服務平臺。基地採用“運營公司+實訓基地+人才學院”三位一體模式，聯動多家頭部企業，打造全鏈條認證與賽訓體系，覆蓋從基礎技能到高階研發的全層級人才培養。未來，雄安人工智慧實訓基地將致力於為智慧經濟時代培育更多AI實戰型人才。（央視新聞）
-
----
-
-### 2026-08-06 11:12:07  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-China A-share pharmaceutical distribution sector jumped; Renmin Tongtai and Hefu China both hit daily limit-up, Yaoyigou rose over 15%, and Kaikai Industrial, Jianfa Zhixin, Saili Medical and Huaren Health also advanced.
-
----
-
-### 2026-08-06 11:11:38  #公司
-
-【騰訊自走棋遊戲《王者永珍棋》就體驗服稱號異常問題致歉】8月6日，騰訊《王者榮耀》IP自走棋遊戲《王者永珍棋》釋出公告：目前已結束臨時停機維護，伺服器現已先行開放，玩家們可正常登入遊戲進行對局，但異常問題仍未完全解決，我們會在後續的更新中修復，當前不會影響大家的正常遊戲體驗。對於此次問題給大家帶來的不便，我們深表歉意。
-
----
-
-### 2026-08-06 11:11:22  #市場
-
-【醫藥商業板塊異動拉昇 人民同泰、合富中國雙雙漲停】醫藥商業板塊異動拉昇，人民同泰、合富中國直線漲停，藥易購漲超15%，開開實業、建發致新、塞力醫療、華人健康跟漲。
-
----
-
-### 2026-08-06 11:10:56  #其他
-
-澳航發言人表示，目前不存在立即發生工業行動或停工的風險。
-
----
-
-### 2026-08-06 11:10:45  #其他
-
-澳航發言人表示，這份長途航線協議覆蓋約1700名飛行員，他們負責執飛波音787、空客A330及空客A380機型。
-
----
-
-### 2026-08-06 11:10:45  #MKT News #Commodities #Energy
-
-【CNOOC commissions China's first domestically built 16MW tension-leg floating wind platform rated for level-17 typhoon】CNOOC said on Aug 6 its domestically designed and built 16 MW tension-leg floating wind platform Haiyou Anlan was connected to the Lufeng oilfield grid and began supplying green power directly. The platform, built to withstand extreme level-17 typhoon conditions, marks a step toward world-leading Chinese deepwater floating-wind equipment technology and offers a new development pathway for offshore wind.
 
 ---

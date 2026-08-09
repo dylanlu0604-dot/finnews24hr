@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-10 03:45:12_
-_本檔包含 3149 則快訊，約 601162 字_
+_更新時間：2026-08-10 04:48:23_
+_本檔包含 3153 則快訊，約 600948 字_
+
+---
+
+### 2026-08-10 04:47:42  #其他
+
+【醫藥基金大幅“回血” 公募持倉降至冰點後迎市場反彈】當科技賽道進入高位震盪階段，前期持續深度調整的醫藥板塊迎來一波力度可觀的估值修復行情。自6月9日探底之後，醫藥主題ETF、多隻主動權益醫藥基金淨值大幅回彈，部分產品反彈幅度突破30%。 本輪行情既是行業基本面持續向好驅動的價值迴歸，也受益於公募基金極度低配帶來的拋壓釋放。但面對板塊快速上行，公募機構內部出現明顯分歧，這究竟是階段性修復行情，還是新一輪趨勢性機會，成為當前市場熱議的焦點。（證券時報）
+
+---
+
+### 2026-08-10 04:47:28  #其他
+
+【基金投顧牌照擴容進入衝刺期 內外資公募加緊佈局謀轉型】距離8月末基金投顧牌照申報時點日漸臨近，基金投顧新一輪擴容已然進入衝刺階段。證券時報記者多方採訪瞭解到，本次申報陣營涵蓋券商、內資公募以及外資公募等多類市場主體，各家機構正緊鑼密鼓打磨申報材料，系統改造搭建、內部配套制度建設、迎接現場檢查的各項籌備工作全面鋪開，大量工作需要跨部門協同推進。 自2019年啟動試點至今，基金投顧業務走過近七年發展歷程，行業規模、客戶基數持續壯大，而本輪牌照擴容被業內普遍看作基金投顧從試點執行邁向常態化規範發展的關鍵轉折點。伴隨監管立法提速、行業人才培育體系加快構建，再疊加AI技術在客戶分層、資產配置、投資者陪伴領域的深度落地，行業期待借本次擴容契機，破解價值感知弱、收費模式單一、潛在利益衝突等現實堵點，真正推動國內買方投顧轉型走深走實。（證券時報）
+
+---
+
+### 2026-08-10 04:47:12  #其他
+
+【首批16家公募上報兩大創業板ETF “創系列”指數及產品迎擴容】8月7日，證監會網站披露，首批16家基金管理人上報創業板算力基礎設施指數ETF、創業板金融科技指數ETF產品。這標誌著“創系列”指數及產品即將迎來擴容，矩陣建設邁入新階段。 上報首批創業板算力基礎設施指數ETF的基金管理人合計10家，包括易方達基金、華夏基金、南方基金、廣發基金、富國基金、國泰基金、嘉實基金、天弘基金、鵬華基金、大成基金。上報首批創業板金融科技指數ETF的基金管理人合計6家，包括華泰柏瑞基金、景順長城基金、萬家基金、建信基金、長城基金、東財基金。（證券時報）
+
+---
+
+### 2026-08-10 04:39:03  #其他
+
+【基金投顧牌照擴容進入衝刺期 內外資公募加緊佈局謀轉型】距離8月末基金投顧牌照申報時點日漸臨近，基金投顧新一輪擴容已然進入衝刺階段。證券時報記者多方採訪瞭解到，本次申報陣營涵蓋券商、內資公募以及外資公募等多類市場主體，各家機構正緊鑼密鼓打磨申報材料，系統改造搭建、內部配套制度建設、迎接現場檢查的各項籌備工作全面鋪開，大量工作需要跨部門協同推進。（證券時報）
+
+---
+
+### 2026-08-10 04:38:35  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+【Hedge funds rapidly cut yen shorts after U.S.-Japan FX intervention】CFTC data show leveraged funds reduced net short JPY positions by 74,440 contracts over the five weeks to Aug. 4, leaving a net short of 63,600 contracts — the largest reduction in shorts since the 2008 financial crisis. At end-June leveraged funds held a net short of 138,000 contracts, the largest since 2007. The adjustments followed the first coordinated U.S.-Japan FX market intervention in 15 years.
+
+---
+
+### 2026-08-10 04:35:05  #MKT News
+
+Yemen military sources said air defences shot down six Houthi armed drones attempting to strike Mocha port.
+
+---
+
+### 2026-08-10 04:11:34  #MKT News
+
+【Iran appoints Mohsen Rezaei as secretary of Supreme National Security Council】Mahdi Tabatabai, deputy director of the presidential office for news and communications, said on the 9th that Mohsen Rezaei was appointed secretary of Iran's Supreme National Security Council.
+
+---
+
+### 2026-08-10 04:11:30  #國際
+
+【伊朗任命雷扎伊為最高國家安全委員會秘書】伊朗總統府負責新聞與通訊事務的副主任邁赫迪·塔巴塔巴伊9日宣佈，穆赫辛·雷扎伊當天被任命為伊朗最高國家安全委員會秘書。（新華社）
+
+---
+
+### 2026-08-10 04:07:54  #國際
+
+伊朗議員阿里·赫茲裡安：船隻將經由伊朗水域駛入（霍爾木茲）海峽，而出海航線將按比例分別途經伊朗與阿曼水域。
+
+---
+
+### 2026-08-10 04:07:22  #國際
+
+伊朗議員阿里·赫茲裡安：伊朗武裝部隊已掌控霍爾木茲海峽，該海峽已無法恢復戰前狀態。
+
+---
+
+### 2026-08-10 04:00:01  #公司
+
+【英偉達擬向星際之門專案背後電力企業Lancium最高投資30億美元】據三位知情交易人士透露，英偉達已同意向電力基礎設施開發商Lancium投資20億美元。該企業是得克薩斯州OpenAI與甲骨文AI園區的電力配套服務商；同時英偉達承諾，若該開發商拿到更多規劃電力資源，將再追加10億美元投資。這筆交易對Lancium及其土地、電力接入資產的企業價值估值約100億美元，估值包含本次投資及企業債務。這筆20億美元投資將讓英偉達取得這家黑石集團參股電力開發商約20%的股權。知情人士稱，一旦Lancium多個園區達到電網接入等既定條件，英偉達追加10億美元投資後，持股比例最高可升至約30%。當前AI資料中心電力供給日趨緊張，這筆交易意在幫助英偉達為晶片客戶的資料專案鎖定數吉瓦規模的待落地電力配額。
+
+---
+
+### 2026-08-10 03:59:06  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #DXY
+
+【Russian Defence Ministry says intercepted 285 Ukrainian drones, struck energy infrastructure in Ukraine】On the evening of the 9th the Russian Defence Ministry said Moscow time between 0800 and 2000 its air-defence forces intercepted and shot down 285 Ukrainian drones over multiple western regions, including Belgorod, Kursk, Bryansk and the Moscow region. The ministry said Russian forces also struck a thermal power plant and seven substations inside Ukraine and used drones to hit gas-field infrastructure in Sumy region.
+
+---
+
+### 2026-08-10 03:58:54  #公司
+
+英偉達將向黑石集團支援的電力企業蘭西姆（Lancium）最高投資30億美元，該企業為“星際之門”專案提供電力支援。英偉達首期出資20億美元獲得20%股份，若追加10億美元投資，持股比例或將升至約30%。
+
+---
+
+### 2026-08-10 03:58:06  #國際
+
+土耳其外交部長表示，土耳其‑巴基斯坦‑沙烏地阿拉伯防務協議在機制上與北約第五條條款對等，協議將設立類似北約的部長委員會以及總秘書處。
+
+---
+
+### 2026-08-10 03:57:38  #國際
+
+敘利亞與俄羅斯達成諒解備忘錄，敲定塔爾圖斯、赫梅米姆兩處俄羅斯基地的未來安排。雙方將依據這份歷經18個月密集談判達成的備忘錄，著手調整俄羅斯在敘利亞沿海的軍事部署。
+
+---
+
+### 2026-08-10 03:57:24  #國際
+
+土耳其外交部長表示，伊朗並非打擊目標；除非某國襲擊聯盟成員國，否則任何國家都不會成為目標。他補充稱，埃及在部分技術問題解決後或將加入該聯盟。
+
+---
+
+### 2026-08-10 03:57:11  #國際
+
+土耳其外交部長稱，由於紅海航運安全關乎本國利益，土耳其必須加入沙烏地阿拉伯主導的國際聯盟。
+
+---
+
+### 2026-08-10 03:56:16  #MKT News #WTI #Impact bearish #Brent
+
+Iran Chamber of Commerce head said the private sector is ready to deploy its expertise to design mechanisms to consolidate the economic benefits of any potential agreement and protect those gains. He added that deeper, balanced economic ties and shared interests between countries raise the cost of reverting to tensions.
+
+---
+
+### 2026-08-10 03:56:10  #國際
+
+俄羅斯國防部：俄軍已控制烏克蘭東部的瓦休京斯凱與託列茨克，並對蘇梅州兩座烏克蘭煉油廠實施打擊。
+
+---
+
+### 2026-08-10 03:53:47  #國際
+
+【俄國防部：攔截285架烏克蘭無人機並對烏髮動空襲】俄羅斯國防部9日晚釋出通報說，莫斯科時間當天8時至20時，俄防空部隊在俄羅斯多個地區攔截並擊落285架烏克蘭無人機。通報說，這些無人機是在別爾哥羅德州、庫爾斯克州、布良斯克州、圖拉州、利佩茨克州、梁贊州、奧廖爾州、卡盧加州以及莫斯科地區等地上空被攔截並擊落。通報還說，俄武裝部隊空襲了烏克蘭境內的熱電廠和7個變電站，並用無人機打擊烏克蘭蘇梅州一處天然氣田基礎設施。
+
+---
+
+### 2026-08-10 03:53:45  #MKT News
+
+Iran's parliament speaker Ghalibaf said the world now recognizes that Iran cannot be subdued.
+
+---
+
+### 2026-08-10 03:53:31  #MKT News
+
+Iranian parliament speaker Ghalibaf said Iran's Islamic system is at one of its most critical moments in history and plays an indispensable role in regional and global security and stability.
+
+---
+
+### 2026-08-10 03:53:04  #國際
+
+特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！
+
+---
+
+### 2026-08-10 03:45:17  #公司
+
+阿聯酋國家石油公司（ADNOC）表示，一艘船隻週六凌晨在霍爾木茲海峽航行時遭到導彈襲擊；公司稱局勢已得到控制，暫無人員受傷報告。
 
 ---
 
@@ -18851,125 +18995,5 @@ French Stocks at New Record High — The CAC 40 rose 0.3% to 8,722 on Friday, hi
 ### 2026-08-07 15:40:48  #公司
 
 【新疆天業：聘任楊友信、周德立等為公司副總經理】新疆天業8月7日公告，為加強公司經營管理，充實經營管理團隊，公司於2026年8月7日召開2026年第六次臨時董事會審議透過了《關於聘任公司副總經理的議案》。 經公司總經理提名，並經董事會提名委員會進行資格稽核，董事會同意聘任楊友信、周德立、毛明春為公司副總經理，任期自本次董事會審議透過之日起至公司第九屆董事會屆滿之日止。
-
----
-
-### 2026-08-07 15:40:40  #其他
-
-【華工科技與佰維儲存簽署戰略合作協議 共建“存算運”一體化解決方案】據華工科技訊息，8月6日，華工科技與佰維儲存簽署戰略合作協議。雙方將圍繞“AI儲存+計算+光互聯”融合領域，高效整合優勢資源，在技術協同、產品共創、市場共拓、生態建設方面開展深入合作，合力打造“存算運一體化”的AI基礎設施解決方案，構建互利共贏、可持續發展的戰略合作伙伴關係。
-
----
-
-### 2026-08-07 15:40:38  #公司
-
-【世茂股份信披違法違規 時任董秘俞某被處以280萬元罰款】上海監管局認定世茂股份未按規定及時披露重大債務事項，2020年至2022年年度報告存在虛假記載；未按規定及時披露非經營性資金佔用相關關聯交易事項，且未在2020年至2022年年度報告中披露；未按規定及時披露未能清償到期重大債務違約情況，且未在2022年年度報告中披露；未按規定及時披露關聯擔保事項，且未在2020年至2022年年度報告中披露；未按規定及時披露重大訴訟、仲裁事項，且未在2022年年度報告中披露。俞某時任董事會秘書、副總經理、首席財務官，上海監管局決定對俞某給予警告，並處以280萬元罰款。（中國證券監督管理委員會上海監管局）
-
----
-
-### 2026-08-07 15:39:39  #公司
-
-【福達合金：副總經理、董事會秘書蒙山因個人原因辭職】福達合金8月7日公告，公司董事會近日收到公司副總經理、董事會秘書蒙山的書面辭職報告，因個人原因，蒙山辭任副總經理、董事會秘書職務，辭任後不再擔任公司任何職務。在公司聘任新的董事會秘書之前，為保障董事會工作的順利開展，由公司董事長王達武代為履行董事會秘書職責。
-
----
-
-### 2026-08-07 15:39:23  #其他
-
-【受冷空氣影響，河北唐山、滄州風暴潮預警級別為黃色】國家海洋預報臺8月7日16時釋出風暴潮黃色警報：受冷空氣的影響，預計：8月7日下午至8日中午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市和滄州市的風暴潮預警級別為黃色，天津市和山東省濱州市的風暴潮預警級別為藍色。
-
----
-
-### 2026-08-07 15:39:18  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks End First Week of August on a Strong Note — Stocks in Europe traded higher on Friday, with both the STOXX 50 and STOXX 600 gaining 0.2% to reach fresh record levels once again. Earnings remained in focus while traders continued to assess developments in the Middle East. On the data front, Germany’s industrial production and exports came in better than expected. Kingspan jumped more than 12% to lead the STOXX 600 after the company raised its full-year profit guidance, while Genmab gained more than 6% following strong results. SAP shares rose almost 3%, while Rheinmetall added 2%. Novartis gained 1%, AstraZeneca rose 1.6% and Airbus advanced 0.8%. For the week, the STOXX 50 gained 2.4%, while the STOXX 600 is up 1.4%.
-
----
-
-### 2026-08-07 15:39:08  #國際
-
-泰國警方：泰國校園槍擊事件傷亡人數修正為含槍手在內共6人死亡，23人受傷。
-
----
-
-### 2026-08-07 15:38:51  #公司
-
-【東方電氣：王軍未減持，李建華減持15500股】東方電氣公告，公司於2026年4月10日披露高階管理人員減持股份計劃公告，高階副總裁王軍先生擬減持不超過800股，高階副總裁李建華先生擬減持不超過15500股。本次減持計劃已實施完畢：王軍先生未減持公司股份；李建華先生透過集中競價交易方式合計減持15500股，佔公司總股本的0.000448%，減持價格區間為40.48元/股，減持總金額為62.75萬元。
-
----
-
-### 2026-08-07 15:38:27  #公司
-
-【聯環藥業：乳果糖口服溶液獲批，2025年銷售額5.63億元】聯環藥業公告，公司於近日收到國家藥監局核准簽發的乳果糖口服溶液(200ml:133.4g/15ml:10g)《藥品註冊證書》，註冊分類為化學藥品4類，視同透過仿製藥質量和療效一致性評價。該藥品適用於慢性或習慣性便秘，調節結腸的生理節律；肝性腦病，用於治療和預防肝昏迷或昏迷前狀態。2025年全國二級以上醫院該藥品銷售額達5.63億元（資料來源於摩熵·醫藥資料庫）。公司針對該藥品的研發投入約為529.70萬元（未經審計）。截至本公告披露日，公司及子公司2026年共獲得12個生產批件。
-
----
-
-### 2026-08-07 15:38:18  #公司
-
-【柏楚電子：擬使用不超10.7億元閒置募集資金進行現金管理】柏楚電子公告稱，公司擬使用不超10.7億元暫時閒置募集資金進行現金管理，其中2019年首發募集資金4.5億元、2021年定增募集資金6.2億元，使用期限自董事會審議透過之日起12個月內，資金可迴圈滾動使用。投資產品為通知存款、結構性存款、大額存單等。公司2025年8月也曾審議透過類似議案。儘管投資產品風險較低，但仍受市場波動影響。該事項已獲董事會透過，保薦機構無異議。
-
----
-
-### 2026-08-07 15:38:11  #公司
-
-【SK海力士：將基於與客戶的中長期需求溝通 並按客戶實際需求時點分階段擴大生產能力】SK海力士表示，公司將基於與客戶的中長期需求溝通，前瞻性佈局生產基礎設施，並按客戶實際需求時點分階段擴大生產能力。晶圓廠建設將按計劃推進，而無塵室擴建及裝置投入則將依據市場動態逐步實施，以提升投資效率。
-
----
-
-### 2026-08-07 15:37:27  #公司 #市場
-
-【宇樹科技王興興：人形機器人毛利率回落系多重原因所致】王興興今日在宇樹科技科創板IPO網上路演中表示，公司在2023年銷售了5臺初代版本H1產品，因當時商業化人形機器人較為稀缺，該批產品的銷售單價和毛利率均較高，與後續年度不具有可比性。2025年，人形機器人的毛利率有所回落，主要原因是：一方面，公司於2024年5月自研發布了G1款中型人形機器人，並快速成為人形機器人的主力銷售機型，由於G1作為中型人形機器人的單位價格、單位成本、毛利率均低於全尺寸機器人H1，帶動了公司人形機器人整體毛利率的下降。另一方面，公司持續透過生產降本和採購降本以最佳化產品單位成本，在此基礎上，公司在2025年適當下調了產品的銷售價格。資料顯示，2023年至2025年，宇樹科技人形機器人的毛利率分別為87.67%、69.26%和63.18%，呈現逐年下滑趨勢。（科創板日報）
-
----
-
-### 2026-08-07 15:37:24  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-KPLER said only six oil tankers transited the Strait of Hormuz this week.
-
----
-
-### 2026-08-07 15:37:15  #公司
-
-【科華控股：完成2.98億股特定物件發行 募資3.26億元】科華控股公告稱，公司完成2025年度向特定物件發行股票，發行數量29,753,648股，發行價格10.96元/股，募集資金總額3.26億元，扣除發行費用後淨額3.22億元。發行物件為公司實際控制人盧紅萍、塗瀚，分別認購20,827,554股、8,926,094股，認購金額2.28億元、0.98億元，所認購股票自上市之日起36個月內不得轉讓。本次發行履行了必要決策和審批程式，符合相關規定。
-
----
-
-### 2026-08-07 15:37:04  #國際
-
-以色列媒體報道：一名曾參與 10 月 7 日襲擊事件的人員，以援助物資卡車司機身份在拉法被捕。
-
----
-
-### 2026-08-07 15:36:57  #其他
-
-航運追蹤機構Kpler：本週僅有6艘油輪駛過霍爾木茲海峽。
-
----
-
-### 2026-08-07 15:36:09  #公司 #國際
-
-歐洲通訊衛星公司執行長：歐盟IRIS²專案首輪對接談判已於今日上午結束。
-
----
-
-### 2026-08-07 15:35:46  #市場
-
-坦尚尼亞修訂外匯法規，允許非居民投資本國債券。
-
----
-
-### 2026-08-07 15:35:13  #公司
-
-【上期能源：7月處理異常交易行為10起】上海國際能源交易中心釋出2026年7月自律監管資訊公告。2026年7月份自律監管資訊如下：異常交易行為管理方面，處理異常交易行為10起，其中，自成交超限3起，頻繁報撤單超限1起，日內開倉量超限6起，均透過會員單位對上述達到異常交易處理標準的客戶進行提示。對6個實際控制關係賬戶組採取限制開倉的監管措施並進行全市場公告。實際控制關係賬戶認定與協查方面，對346組752個客戶進行實際控制關係認定。
-
----
-
-### 2026-08-07 15:35:10  #Trading Economics #Economy #Slovakia #Balance of Trade #Importance 1
-
-Slovakia Trade Surplus Narrows in June — Slovakia posted a trade surplus of EUR 372.9 million in June 2026, narrowing from EUR 445.8 million in the same month last year as imports outpaced exports. Exports rose 8.2% year on year to EUR 10.1 billion, supported by a more than 6% increase in motor vehicle shipments. Exports to EU member states grew by over 11%, while shipments to non-EU countries edged down 0.2%. Meanwhile, imports increased 9.5% to EUR 9.7 billion, driven by a nearly 6% rise in machinery and transport equipment imports. Imports from EU countries climbed by more than 11%, while those from non-EU countries increased by 6%. For the first half of 2026, Slovakia's trade surplus widened to EUR 1.67 billion, up from EUR 1.32 billion in the corresponding period a year earlier.
-
----
-
-### 2026-08-07 15:34:43  #公司 #市場
-
-【Lazard新興市場股票基金抄底三星 看好記憶體晶片上行週期】Lazard Asset Management一隻規模96億美元基金的管理者，藉助三星電子7月暴跌的時機，一年多來首次將該股納入投資組合。Monika Shrestha是Lazard新興市場股票投資組合的聯席管理人，她押注推動三星錄得鉅額利潤的記憶體晶片上行週期將會持續進入2028年。資料顯示，她管理的這隻基金在過去一個月跑贏93%的同行，過去五年跑贏98%的同行。Shrestha在接受採訪時表示，三星近期股價下跌是“一個具吸引力的買入機會”。儘管交易過度擁擠及劇烈波動嚇壞了AI主題投資者，但她預計大型科技公司支出推動晶片銷售強勁增長的整體敘事仍然不變。
 
 ---
