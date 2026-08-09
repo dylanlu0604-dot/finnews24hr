@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-09 20:19:03",
+  "updated": "2026-08-09 20:23:00",
   "count": 16000,
   "items": [
+    {
+      "id": "5032556",
+      "time": "2026-08-09 20:20:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週兩融餘額增幅最大：金徽股份兩融餘額：0.34億元，餘額增幅：192.49%；永安期貨兩融餘額：0.34億元，餘額增幅：59.27%"
+    },
+    {
+      "id": "5032555",
+      "time": "2026-08-09 20:19:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【招商證券： 在經歷7月的快速調整後，A股反彈視窗已經開啟 】招商證券釋出最新研報稱，外部維度，特朗普對伊朗強硬後再度TACO，疊加美國就業資料意外偏冷打壓加息預期，全球風險偏好修復。2018年以來，美國多次對非美國家科技產品實施限制。從歷史樣本的交易節奏看，歷次爭端發生之後一般呈現“短期風險集中釋放”→“雙方博弈，震盪磨底”→“重回基本面定價”的三步演繹路徑。長期股價終將回歸基本面，盈利持續增長是消化風險溢價的根本路徑。內部維度，上週融資資金活躍度回升、擔保比例修復、槓桿資金邊際淨流入，股票型ETF則在市場改善後轉為淨流出，兩者拐點附近反向切換，市場正從ETF託底向融資接力過渡。展望後市，市場情緒有望逐漸回暖並重拾上行趨勢，融資資金活躍度有望繼續回升。總體來看，在經歷7月的快速調整後，A股反彈視窗已經開啟，風格方面推薦創業板指、科創50、中證1000等成長類指數；賽道緊盯海外算力、國產算力、黃金修復；行業沿科技創新+企業出海+傳統低估值再平衡三線均衡佈局，建議重點關注電子、電力裝置、化學制藥、有色金屬、煤炭、非銀金融等。"
+    },
     {
       "id": "mkt:019fe673-7e0c-7aab-8fca-08cd2475f907",
       "time": "2026-08-09 20:15:56",
@@ -145699,26 +145716,6 @@
         "MKT News"
       ],
       "text": "【Gaza ceasefire pact deepens divisions within Israel】IRNA reports domestic divisions in Israel over the Gaza ceasefire agreement are growing. Former prime minister Ehud Barak said Prime Minister Netanyahu has lost negotiating influence with U.S. President Trump and that Israel has effectively been excluded from decisions on the pact's future."
-    },
-    {
-      "id": "mkt:019fc26a-bf50-7aab-8f46-f3c2d6b58f26",
-      "time": "2026-08-02 20:20:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's acting defense minister said Iran will not be caught off guard by its enemies and will not stand idly by."
-    },
-    {
-      "id": "5020902",
-      "time": "2026-08-02 20:20:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週兩融餘額增幅最大：掌閱科技兩融餘額：0.91億元，餘額增幅：115.01%；哈藥股份兩融餘額：5.39億元，餘額增幅：93.48%"
     }
   ]
 }
