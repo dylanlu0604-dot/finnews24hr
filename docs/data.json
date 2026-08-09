@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-09 16:58:21",
-  "count": 15969,
+  "updated": "2026-08-09 17:02:28",
+  "count": 15970,
   "items": [
+    {
+      "id": "mkt:019fe5bf-0b6b-7aab-8fc8-e6b7d5021440",
+      "time": "2026-08-09 16:58:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Hang Seng Index",
+        "Impact mixed",
+        "Brent",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Founder Securities: oversold rebound enters decisive phase; tech and cyclical sectors diverge】Founder Securities says the market’s oversold rebound has entered a decisive phase, with technology and high‑cycle (景氣) tracks diverging. It highlights three allocation themes. First, technology requires selective positioning: innovation/startup segments have rebounded roughly 10% from their lows and, versus typical oversold-theme rebounds, may have additional upside. The AI narrative shifted after US cloud service provider earnings; marginal weakening of competitive capex makes cloud businesses and healthy cash flow the differentiators. Founder advises a balanced exposure between AI hardware and applications, prioritising overseas compute names with low crowding, domestic compute plays with high visibility in semiconductor equipment and materials, and relatively depressed AI application names and Hang Seng Tech stocks. Second, with Fed rate‑hike expectations easing, seek HALO assets: beyond core resource plays (nonferrous metals and chemicals), consider oversold new and old energy segments — power grid and power equipment, coal and petrochemicals. Third, focus on pharmaceutical large caps with solid fundamentals, low crowding and easing downside pressures."
+    },
+    {
+      "id": "5032449",
+      "time": "2026-08-09 16:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金盤科技：吳清因個人原因辭任副總裁】金盤科技8月9日公告，公司董事會於2026年8月7日收到副總裁吳清的辭職報告，吳清因個人原因申請辭去公司副總裁職務，辭職報告自送達公司董事會之日起生效，吳清仍在公司擔任其他職務。"
+    },
     {
       "id": "mkt:019fe5bd-a397-7aab-8fc8-dfd4f103f617",
       "time": "2026-08-09 16:57:18",
@@ -145456,15 +145479,6 @@
         "公司"
       ],
       "text": "【易方達基金：增加誠通證券為旗下部分ETF一級交易商】易方達基金公告稱，自2026年8月3日起，增加誠通證券為旗下25只ETF的一級交易商，包括創業板新能源ETF易方達、養殖ETF易方達等。業務流程、辦理時間和方式以誠通證券規定為準。投資者可透過誠通證券或易方達基金諮詢詳情。基金投資有風險，投資者應謹慎決策。"
-    },
-    {
-      "id": "5020812",
-      "time": "2026-08-02 16:59:25",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "【央行明確下半年重點 將提高金融服務實體經濟質效 】記者8月2日從中國人民銀行瞭解到，中國人民銀行將實施好適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，紮實做好下半年各項重點工作，推動經濟持續向新向優向好發展。中國人民銀行8月1日召開2026年下半年工作會議，明確了下半年工作重點，包括繼續實施好適度寬鬆的貨幣政策、提高金融服務實體經濟質效、加快金融市場建設發展、穩妥化解重點領域風險等方面。（新華社）"
     }
   ]
 }
