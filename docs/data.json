@@ -1,7 +1,21 @@
 {
-  "updated": "2026-08-10 03:01:53",
+  "updated": "2026-08-10 03:09:59",
   "count": 15953,
   "items": [
+    {
+      "id": "mkt:019fe7e7-f1f4-7aab-8fcb-5c7d468a8c6f",
+      "time": "2026-08-10 03:02:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Former U.S. security officials warn Trump is following 'dictator's playbook', say U.S. security at risk】The Financial Times reports a former senior U.S. intelligence official warned that in a second term Donald Trump is following a 'dictator's playbook,' weakening checks on his power and degrading U.S. security. Trump, who pledged to fight the 'deep state' on returning to the White House, has sought to suppress critics and demand personal loyalty. Former CIA station chief Paul Kolbe said dictators follow a common script for seizing and exercising power that mirrors current U.S. developments. National security lawyer Mark S. Zaid, whose security clearance was revoked by the White House last year and who is in legal dispute with Trump, warned the president will continue to consolidate power: All safeguards have been removed, the worst is far from over."
+    },
     {
       "id": "mkt:019fe7e3-be02-7aab-8fcb-54dea4b439b9",
       "time": "2026-08-10 02:58:09",
@@ -145298,14 +145312,6 @@
         "國際"
       ],
       "text": "以色列總理發言人表示，以色列已就哈馬斯擬議解除武裝計劃向美國表達關切。"
-    },
-    {
-      "id": "5021031",
-      "time": "2026-08-03 03:04:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：在烏克蘭襲擊中遇襲的伊朗商船船員及遇難船員遺體已返回伊朗。"
     }
   ]
 }
