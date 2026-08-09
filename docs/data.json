@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-10 05:23:34",
-  "count": 15960,
+  "updated": "2026-08-10 05:27:23",
+  "count": 15962,
   "items": [
+    {
+      "id": "mkt:019fe86b-a85a-7aab-8fcb-f2bc4f54ac73",
+      "time": "2026-08-10 05:26:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A vessel caught fire near Kumzar on Oman's Musandam Peninsula at the entrance to the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fe86a-cd9d-7aab-8fcb-e802d99a30cc",
+      "time": "2026-08-10 05:25:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: RBA likely to hold at 4.35% with hawkish bias; watch persistent inflation】Economists and traders expect the Reserve Bank of Australia to keep the cash rate at 4.35% at Tuesday’s meeting — a second consecutive hold — while reiterating readiness to tighten further to combat persistent inflation. Markets will focus on the policy statement and updated quarterly forecasts for signals on whether the RBA has finished hiking after 75bp of moves this year or intends further tightening. Carl Ang, fixed income research at MFS Investment Management, says a hawkish pause is the base case but slow disinflation means additional tightening cannot be ruled out. Economists broadly expect an extended pause through the remainder of this year and most of next; Commonwealth Bank’s Belinda Allen expects the RBA to bring forward the forecast for inflation falling below 3% and to lift its unemployment projection."
+    },
     {
       "id": "5032687",
       "time": "2026-08-10 05:19:58",
