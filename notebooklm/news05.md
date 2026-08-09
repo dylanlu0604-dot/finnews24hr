@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 17:19:12_
-_本檔包含 2982 則快訊，約 601424 字_
+_更新時間：2026-08-09 18:11:28_
+_本檔包含 3016 則快訊，約 602148 字_
+
+---
+
+### 2026-08-04 02:07:48  #國際
+
+特朗普：正討論最遲明天開放海峽。
+
+---
+
+### 2026-08-04 02:06:06  #MKT News
+
+US President Trump said the second phase of talks with Iran is denuclearization.
+
+---
+
+### 2026-08-04 02:05:28  #MKT News #Important #WTI #Impact bearish #Brent
+
+Trump says talks are underway to reopen the Strait of Hormuz; reopening is the first phase of negotiations and could occur as soon as tomorrow.
+
+---
+
+### 2026-08-04 02:04:00  #國際
+
+特朗普：伊朗無核化階段需要“一段時間”。
+
+---
+
+### 2026-08-04 02:03:48  #國際
+
+特朗普：伊朗議題第二階段目標為去核化，前提是海峽局勢相關事宜落地。
+
+---
+
+### 2026-08-04 02:03:29  #MKT News #Market Themes #The Trump Trade
+
+U.S. President Trump said denuclearization talks will take some time.
+
+---
+
+### 2026-08-04 02:03:25  #國際
+
+特朗普：伊朗問題談判第一階段是重開霍爾木茲海峽。
+
+---
+
+### 2026-08-04 02:03:12  #MKT News #Important #WTI #Impact mixed
+
+U.S. President Trump said negotiations with Iran are progressing rapidly and that the outcome may be known today or tomorrow.
+
+---
+
+### 2026-08-04 02:02:38  #國際
+
+特朗普：海灣國家希望給談判“最後一次機會”。
+
+---
+
+### 2026-08-04 02:02:27  #焦點 #國際
+
+特朗普：你們今天或明天就會知道伊朗談判的進展情況。
+
+---
+
+### 2026-08-04 02:02:21  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+U.S. President Trump: This is Iran's last chance.
+
+---
+
+### 2026-08-04 02:02:14  #MKT News
+
+Trump says U.S. negotiations were conducted at Iran's request.
+
+---
+
+### 2026-08-04 02:01:47  #央行 #國際
+
+埃及央行：6 月埃及 M2 貨幣供應量同比增長 16.7%。
+
+---
+
+### 2026-08-04 02:01:09  #國際
+
+特朗普：這是伊朗的最後機會。
+
+---
+
+### 2026-08-04 02:00:51  #國際
+
+特朗普：美國是應伊朗的要求與伊朗進行對話的。
+
+---
+
+### 2026-08-04 02:00:44  #國際
+
+特朗普提及據稱伊朗昨日作出的表態。
+
+---
+
+### 2026-08-04 02:00:16  #國際
+
+特朗普：伊朗表示希望討論無核化問題。
+
+---
+
+### 2026-08-04 01:59:54  #焦點 #國際
+
+特朗普：伊朗表示希望就海峽問題進行對話。
+
+---
+
+### 2026-08-04 01:59:23  #MKT News #Important
+
+US President Trump says talks with Iran are ongoing.
+
+---
+
+### 2026-08-04 01:59:22  #國際
+
+特朗普：伊朗在談判時，向來不願直白表態。
+
+---
+
+### 2026-08-04 01:58:45  #國際
+
+特朗普：伊朗問題談判目前正在進行中。
+
+---
+
+### 2026-08-04 01:57:13  #公司 #國際
+
+穆斯特里安公司與三星重工簽署工程合同，雙方合作打造的首座海上浮動資料中心將落地美國。
+
+---
+
+### 2026-08-04 01:56:49  #其他
+
+墨西哥7月製造業指數為49.4。
+
+---
+
+### 2026-08-04 01:55:30  #MKT News
+
+US President Trump said Secretary of Defense Hegseth has done an excellent job.
+
+---
+
+### 2026-08-04 01:55:21  #其他
+
+委內瑞拉代總統羅德里格斯：委內瑞拉將於年底前交付4000套住房。
+
+---
+
+### 2026-08-04 01:55:11  #MKT News #XAUUSD #Impact bullish #WTI
+
+Trump said the US clash with Venezuela went very well and that its confrontation with Iran is also progressing very, very smoothly.
+
+---
+
+### 2026-08-04 01:52:15  #國際
+
+特朗普對赫格塞思表示：你工作做得非常出色。
+
+---
+
+### 2026-08-04 01:50:57  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
+
+Meta Platforms (META.O) said it has been invited to the White House on Tuesday to discuss AI safety testing with the U.S. government.
+
+---
+
+### 2026-08-04 01:50:52  #國際
+
+特朗普： 我們此前與委內瑞拉之間的爭端得到妥善解決。 眼下我們和伊朗存在分歧，局勢進展也十分順利。
+
+---
+
+### 2026-08-04 01:50:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Brazil June crude output hits record, cushions Middle East supply disruption】Brazil’s crude production reached a record in June, helping to offset supply disruptions from the war involving Iran. ANP data show June crude output rose about 19% YoY to 4.5 mln bpd and roughly 4% from May; oil and gas output totaled 5.8 mln boe/d. State-controlled Petróleo Brasileiro (Petrobras) led the increase, extracting more from fields and pushing Búzios and other deepwater platforms above nameplate capacity; ANP says Petrobras-operated fields account for about 87% of Brazil’s oil production.
+
+---
+
+### 2026-08-04 01:50:19  #國際
+
+以色列總理內塔尼亞胡：伊朗雖遭受重創，但依舊保有作戰能力。倘若伊朗襲擊以色列，將會遭到“極其沉重的打擊”。
+
+---
+
+### 2026-08-04 01:50:08  #國際
+
+以色列總理內塔尼亞胡：過去一個月伊朗沒有向以色列發動襲擊，因為伊朗清楚以色列具備強力打擊能力，足以形成威懾。
+
+---
+
+### 2026-08-04 01:48:53  #國際
+
+特朗普：與伊朗之間的衝突進展十分順利。
+
+---
+
+### 2026-08-04 01:48:41  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+President Trump said the conflict with Iran is progressing very smoothly.
+
+---
+
+### 2026-08-04 01:46:02  #MKT News
+
+U.S. President Trump signed an executive order establishing the first Presidential Military Spouse Council to support military families.
+
+---
+
+### 2026-08-04 01:45:47  #國際
+
+伊朗經濟部長：我們已制定至少為期兩年的經濟韌性計劃，有關我們無法保障預算資金的說法純屬不實。
+
+---
+
+### 2026-08-04 01:45:27  #焦點 #國際
+
+特朗普：將推出新舉措扶持軍屬，簽署行政令設立史上首個總統軍眷委員會。
+
+---
+
+### 2026-08-04 01:45:00  #國際
+
+市場資訊：特朗普簽署一項行政令。
+
+---
+
+### 2026-08-04 01:44:34  #國際
+
+【AI熱潮持續 新興市場ETF單週吸金創2月以來新高】新興市場股票交易所交易基金（ETF）上週吸引資金流入規模創2月以來新高，圍繞亞洲人工智慧（AI）概念股的投資熱潮未見降溫跡象。彙編資料顯示，截至7月31日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額約為45億美元，高於前一週逾20億美元的流入規模。這創下2月27日以來最大單週資金流入。
+
+---
+
+### 2026-08-04 01:41:42  #MKT News
+
+【Media: Iranians increasingly tune out Trump’s war rhetoric】Al Jazeera reports that after months of near‑daily statements from Trump — ranging from threats of large‑scale bombing to claims of resuming talks — many Iranians have stopped following his comments to protect their mental health. A Tehran financial‑sector employee said his remarks “do affect our lives, but I try to focus on what I can control and protect my loved ones” to escape the “toxic uncertainty.” With the war approaching its six‑month mark, public expectation and fear are noticeably lower than on April 7, when Trump warned that “the whole civilization will perish” before shortly announcing a halt to hostilities.
+
+---
+
+### 2026-08-04 01:37:41  #國際
+
+印度政府擬透過出售印度人壽（LIC）股權籌資至多33億美元。
+
+---
+
+### 2026-08-04 01:36:52  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Israel's Channel 12 reports a senior Israeli official said Israel will not withdraw forces until Hamas is disarmed under any circumstances; that condition was not part of the original Trump framework and will not change.
+
+---
+
+### 2026-08-04 01:34:46  #國際
+
+加沙和平委員會：我們重申，以色列撤至黃線以外的行動，只有在加沙實現全面解除武裝之後方可實施。
+
+---
+
+### 2026-08-04 01:34:36  #國際
+
+加沙和平委員會：我們今日與內塔尼亞胡及其團隊會面，旨在推動加沙地區解除武裝，併為過渡至文官政府做準備。
+
+---
+
+### 2026-08-04 01:33:50  #國際
+
+特朗普聲稱一項“協議即將達成”之後，伊朗外交部發言人週一表示，德黑蘭暫無與華盛頓舉行直接談判的計劃。
+
+---
+
+### 2026-08-04 01:33:45  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $2.127 billion from four counterparties in its fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-04 01:30:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Pause in US‑Iran hostilities eases Middle East supply; Venezuela July exports fall】A pause in US‑Iran hostilities has released Gulf crude back into markets, easing earlier disruptions, according to shipping reports, Kpler data and vessel tracking. Venezuela’s July crude loadings fell to 856,000 bpd, the lowest in five months and down 25% MoM; exports to India halved. Supply‑chain adjustments and alternative shipping routes have mitigated initial shocks as the Iran conflict enters its sixth month. Trump on Monday called off a planned strike on Iran to keep talks going; oil prices fell afterwards. The United States and India remain Venezuela’s largest buyers of crude.
+
+---
+
+### 2026-08-04 01:28:40  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Turkish media report President Erdogan said Israel must strictly adhere to the roadmap for the second phase of the Gaza peace plan and that Ankara is closely monitoring developments.
+
+---
+
+### 2026-08-04 01:28:38  #市場
+
+比特幣重回64000美元關口。
+
+---
+
+### 2026-08-04 01:28:22  #其他
+
+交易商稱，阿爾及利亞招標採購名義數量5萬噸軟質磨粉小麥。
+
+---
+
+### 2026-08-04 01:27:52  #MKT News #BA.N #Impact bullish #LUV.N
+
+Boeing (BA.N): Southwest Airlines is preparing to take delivery of its first 737-7.
+
+---
+
+### 2026-08-04 01:26:45  #國際
+
+美國聯邦航空管理局為波音新型737-7飛機頒發認證。
+
+---
+
+### 2026-08-04 01:26:35  #MKT News #BA.N #Impact bullish
+
+Boeing (BA.N): U.S. Federal Aviation Administration (FAA) has granted certification for the new 737-7; Boeing is preparing the first delivery of the 737-7.
+
+---
+
+### 2026-08-04 01:26:25  #國際
+
+兩名知情人士透露，美國正擬定新方案，力求於今年秋季推動烏克蘭和平程序取得突破。
+
+---
+
+### 2026-08-04 01:25:49  #其他
+
+波音準備交付首架737-7機型。
+
+---
+
+### 2026-08-04 01:24:38  #MKT News #UBS.N
+
+The US Commodity Futures Trading Commission (CFTC) ordered UBS to pay an $8 million fine for supervisory failures related to its anti‑money‑laundering trade‑monitoring system.
+
+---
+
+### 2026-08-04 01:24:26  #MKT News #UBS.N
+
+SEC says UBS will pay a $20 million civil penalty for anti-money-laundering violations.
+
+---
+
+### 2026-08-04 01:24:10  #MKT News #UBS.SW #Impact bearish
+
+US Treasury: FinCEN has imposed a $125 mln civil penalty on UBS, alleging the bank 'willfully violated' the Bank Secrecy Act.
 
 ---
 
@@ -17830,149 +18178,5 @@ Lebanese military says five soldiers were wounded in an Israeli airstrike on Kaf
 ### 2026-08-02 18:12:21  #國際
 
 【日本熊本縣發生4.3級地震】據日本氣象廳釋出的訊息，當地時間8月2日19時左右，熊本縣天草和蘆北地區發生4.3級地震，震源深度10千米，最大震感為震度3。（央視新聞）
-
----
-
-### 2026-08-02 18:07:35  #公司
-
-【邁克生物：AD檢測試劑目前收入貢獻不大】邁克生物近日在分析師會議上表示，AD（阿爾茨海默病）檢測試劑目前收入貢獻不大，公司在該領域已取得3項註冊證，主要還在市場推廣階段，預計公司將在明年取得該領域所有註冊證，公司對未來AD產品的市場判斷認為還是很有前景的。檢測產品本身也隨著藥物進入市場視線，目前在行業裡能做檢測及擁有註冊證的廠家數量偏少，其中羅氏以腦脊液檢測為主，公司是基於血液的AD檢測，市場尚處教育階段。
-
----
-
-### 2026-08-02 18:07:25  #其他
-
-【紅色山洪災害氣象預警：四川、重慶、陝西局地發生山洪災害可能性很大】水利部和中國氣象局8月2日18時聯合釋出紅色山洪災害氣象預警：預計，8月2日20時至3日20時，內蒙古東北部、四川東北部、重慶中部和南部、貴州北部、陝西東南部等地部分地區發生山洪災害可能性大（橙色預警），其中，四川東北部、重慶中部、陝西東南部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-08-02 18:06:55  #MKT News
-
-【National Flood Control and Drought Relief Headquarters, Ministry of Emergency Management activate level-4 flood emergency for Guizhou】Meteorological forecast: Aug 2–4 heavy to torrential rain will move across Guizhou from northwest to southeast, with locally extremely heavy downpours. The National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management activated a level-4 flood-control emergency response for Guizhou at 17:00 on Aug 2.
-
----
-
-### 2026-08-02 18:05:42  #其他
-
-理想汽車7月交付量30468輛，同比-0.9%。
-
----
-
-### 2026-08-02 18:00:17  #國際
-
-市場訊息：以色列無人機空襲黎巴嫩南部賓特朱拜勒地區的薩賓鎮。
-
----
-
-### 2026-08-02 18:00:02  #市場
-
-未來一週將有華之傑、朝陽科技等75家AB股公司披露業績。
-
----
-
-### 2026-08-02 17:56:08  #其他
-
-【中行上海市分行落地上海市首筆以DR001按日浮動定價試點貸款】記者從中國銀行上海市分行獲悉，近日，中行上海市分行深入落實國家利率市場化改革部署，立足自身金融創新專業能力，成功落地上海市首筆以DR001為定價基準、實行按日浮動機制的企業試點貸款。
-
----
-
-### 2026-08-02 17:53:20  #國際
-
-【韓國最高氣溫創紀錄】據韓國氣象廳訊息，韓國多地8月2日遭遇40攝氏度以上高溫天氣，慶尚南道梁山日間氣溫連續五天超過40攝氏度，2日更升至42.5攝氏度，重新整理韓國最高氣溫紀錄。據韓聯社報道，自1973年以來，韓國日間氣溫連續三天以上達到40攝氏度的情況僅出現過三次。慶尚南道地處韓國南部，該道多地2日創下有氣象觀測記錄以來本地日間氣溫最高紀錄。釜山2日氣溫也超過40攝氏度。綜合韓國媒體報道，隨著高溫天氣出現，中暑患者數量持續增加，多人出現心跳驟停甚至死亡。據韓國疾病管理廳統計，從5月15日至7月31日，全國累計報告中暑病例1781例，其中13人死亡。韓國氣象部門預計，韓國此輪高溫天氣至少還會持續數天。（新華社）
-
----
-
-### 2026-08-02 17:51:24  #MKT News #Commodities #Industrial Metals #Copper
-
-【Iran copper firm says domestic parts cut €49 mln FX outflow in 2026; plans €76 mln saving in 2027】FarsNews reported National Iranian Copper Industries Co. said localizing equipment and spare-parts production for mine and smelter expansion projects avoided about €49 mln of foreign-exchange outflows in 2026, bringing cumulative savings to roughly €125 mln. The company expects to avoid a further c.€76 mln of FX outflows from 2027 expansion projects. In 2026, 7,557 spare parts were produced domestically, valued at about 9 trillion rial; domestication item count rose 17% and domestic-contract value rose 56% YoY. The company said continued localization will reduce import dependence and boost supply-chain autonomy.
-
----
-
-### 2026-08-02 17:47:46  #其他
-
-匈牙利政府將於週日作出決定，是否從週一起對大型企業強制執行用電限制。
-
----
-
-### 2026-08-02 17:46:29  #其他
-
-【希臘多地燃起山火 狂風助推火勢失控 烈焰已逼近首都雅典】近日，希臘多地燃起山火。8月1日，其中一場山火藉助強風蔓延至首都雅典西北方向，情況危急。希臘消防部門表示，已向這處火場派遣超過300名消防員、92輛消防車、18架飛機和7架直升機進行滅火工作。（參考訊息）
-
----
-
-### 2026-08-02 17:45:02  #MKT News
-
-【Armenian president accepts Pashinyan government's resignation】On Aug 2 local time, Armenian President Vahagn Khachaturyan accepted the resignation of Prime Minister Nikol Pashinyan's government.
-
----
-
-### 2026-08-02 17:44:18  #其他
-
-匈牙利總理表示，企業、地方政府及家庭應在傍晚時段大幅削減用電或調整用電時間。
-
----
-
-### 2026-08-02 17:43:42  #其他
-
-匈牙利總理毛焦爾：保克什核電站定於週日晚些時候停機，未來五天匈牙利將面臨關鍵時期。
-
----
-
-### 2026-08-02 17:43:24  #其他
-
-匈牙利總理毛焦爾表示，受預期將到來的熱浪影響，該國電網和公共服務將承受巨大壓力。
-
----
-
-### 2026-08-02 17:43:14  #其他
-
-匈牙利總理毛爾焦爾呼籲匈牙利民眾在未來幾天進一步提高用電意識，尤其要注意晚間用電高峰時段的用電。
-
----
-
-### 2026-08-02 17:39:08  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Israel does not intend to halt strikes on Gaza unless Hamas is disarmed, Israel's Channel 12 reports.
-
----
-
-### 2026-08-02 17:38:29  #國際
-
-美國地質調查局：阿森松島北部發生 5.0 級地震。
-
----
-
-### 2026-08-02 17:37:39  #MKT News #Important
-
-【Iranian media say reports Iran agreed to reopen Strait of Hormuz are false】Fars News said some "media linked to adversaries" had reported Iran agreed to a plan to reopen the Strait of Hormuz. Sources denied the report and said Iran’s policy toward the strategic waterway has not changed.
-
----
-
-### 2026-08-02 17:33:42  #其他
-
-【降雨持續 國鐵成都局今天臨時停運列車52趟】根據氣象部門預報，8月2日至4日，川渝黔多地迎來強降雨，同時黑龍江今明兩天也有明顯降水。為保障行車安全，鐵路部門對多趟列車採取臨時停運措施。受本輪強降雨過程影響，國鐵成都局今天臨時停運列車52趟，涉及西成高鐵、新成昆鐵路、蘭渝鐵路、襄渝鐵路等線路，覆蓋重慶去往北京、廣州、烏魯木齊、貴陽，成都開往蘭州、上海、青島、福州等多個方向。（央視新聞）
-
----
-
-### 2026-08-02 17:29:12  #MKT News #Important
-
-Israel's N12 chief political analyst says Iran denies any agreement to reopen the Strait of Hormuz and calls published reports claiming such an accord false.
-
----
-
-### 2026-08-02 17:27:52  #其他
-
-【四川釋出地質災害黃色、暴雨藍色預警 48個縣市區風險較高】四川省自然資源廳、四川省氣象局2日聯合釋出地質災害黃色預警（三級預警）：8月2日20時至8月3日20時，四川48個縣市區地質災害風險較高。（央視新聞）
-
----
-
-### 2026-08-02 17:27:03  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #WTI
-
-【China International Capital Co: AI pullback mirrors 2000’s four retracements; stabilization needs three pressures to ease】China International Capital Co (CICC) says global AI-related chains have sold off sharply since mid‑late June, with Korea hardest hit where high leverage, crowding and retail exposure amplified the decline. Drivers include amplified positioning risk, macro shocks (re‑pricing of Fed rate hikes and renewed Strait of Hormuz disruption pushing oil), and renewed froth concerns (eg. cloud compute rentals, falling token spend). CICC notes the tech run-up before the 2000 crash saw at least four large, prolonged pullbacks triggered by similar factors—industry hiccups, macro headwinds and overheated sentiment—and only rebounded once those three pressures eased. By analogy, CICC says market stabilization or a fresh leg higher now requires: substantial digestion of crowding/leverage; relief or resolution of Fed tightening expectations (watch the July FOMC); and new earnings/industry catalysts during the July–August reporting season.
-
----
-
-### 2026-08-02 17:23:17  #國際
-
-【印尼附近海域一渡輪起火 已致至少5人死亡41人失蹤】印度尼西亞相關部門2日說，一艘渡輪在馬都拉島附近海域起火，已造成至少5人死亡、41人失蹤。（新華社）
 
 ---
