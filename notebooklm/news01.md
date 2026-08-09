@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 21:49:49_
-_本檔包含 3125 則快訊，約 602742 字_
+_更新時間：2026-08-09 22:46:10_
+_本檔包含 3134 則快訊，約 602081 字_
+
+---
+
+### 2026-08-09 22:41:51  #MKT News
+
+【Leisure boat capsizes near Liberty Island in New York Harbor; two dead】A leisure boat capsized near Liberty Island in New York Harbor on the evening of the 8th, killing a 27-year-old woman and a five-month-old infant. Twelve people were rescued. The NYPD and FDNY said the vessel overturned at about 22:25 local time. Authorities have not confirmed whether the victims were related and said the cause is under investigation.
+
+---
+
+### 2026-08-09 22:40:03  #國際
+
+市場訊息：日本將把網路安全納入防空體系。
+
+---
+
+### 2026-08-09 22:38:54  #國際
+
+【美國紐約一船隻傾覆致2人死亡】一艘休閒船8日晚在美國紐約港自由島附近傾覆，造成船上2人死亡，另有12人獲救。據多家媒體援引紐約市警察和消防部門訊息報道，死者為一名27歲女性和一名5個月大的嬰兒。警方尚未確認兩人是否為親屬關係。報道說，事發船隻於8日22時25分左右在自由島附近傾覆。救援人員成功救起12人。警方稱事故原因正在調查中。（新華社）
+
+---
+
+### 2026-08-09 22:37:49  #其他
+
+【APEC經濟體外國人訪深人數創歷史同期新高】隨著APEC第三十三次領導人非正式會議進入倒計時，外國人來華熱度持續攀升。深圳邊檢總站深圳機場邊檢站7日公佈的統計資料顯示，今年前七個月，經深圳機場口岸入出境的APEC成員經濟體外國人達85萬人次，同比增長32%，佔外籍人員總量近八成，創歷史同期新高。（深圳釋出）
+
+---
+
+### 2026-08-09 22:31:56  #其他
+
+【2026國際基礎科學大會在京開幕，尹力致辭，殷勇出席】據北京釋出，8月9日上午，2026國際基礎科學大會在懷柔區開幕。市委書記尹力出席開幕式並致辭，市委副書記、市長殷勇出席。本次大會以“聚焦基礎科學，引領人類未來”為主題，旨在推動國際基礎科學交流與合作，促進科學進步和造福於人類，包括多位菲爾茲獎、圖靈獎等國際大獎得主在內的世界頂級科學家和海內外專家學者等齊聚雁棲湖畔，將重點圍繞數學、物理、資訊科學和工程等基礎科學領域展開學術研討和交流。其間還頒發了基礎科學獎章和前沿科學獎。
+
+---
+
+### 2026-08-09 22:29:05  #公司
+
+【宇樹科技中籤率遠低於長鑫科技】8月9日，A股“人形機器人第一股”宇樹科技8月10日將在科創板正式開啟申購。考慮到宇樹科技本次發行流通盤規模較小，又疊加“第一股”的題材光環，多家券商綜合測算顯示，其預計中籤率在萬分之二至萬分之三之間，遠低於長鑫科技0.47%的中籤率水平。資料顯示，2026年以來A股新股上市首日平均漲幅高達276.04%，若以此測算，中一簽宇樹科技賬面盈利有望突破20萬元；若對標年內科創板新股首日466.61%的平均漲幅，單籤盈利可達35.18萬元。 (21財經)
+
+---
+
+### 2026-08-09 22:28:51  #MKT News
+
+【Syria and Russia reach MoU on management of two Russian military bases】Syria and Russia signed a memorandum of understanding confirming future management of Russia’s bases on Syria’s western coast at Khmeimim and Tartus. Under the MoU, military facilities will be converted into joint training and exercise centers while civilian facilities, including Khmeimim airport and the Tartus port pier, will be transferred to the Syrian transitional government. Conversion work is slated to be completed within three months. Syrian foreign ministry said the MoU follows 18 months of intensive talks.
+
+---
+
+### 2026-08-09 22:28:49  #國際
+
+市場訊息：埃及外交部發表宣告，就土耳其外長的通話作出表態。
+
+---
+
+### 2026-08-09 22:28:33  #國際
+
+市場訊息：埃及、土耳其外交部長就地區安全安排展開磋商。
+
+---
+
+### 2026-08-09 22:27:12  #其他
+
+OpenAI總裁布羅克曼：GPT-4在四年前的今天完成了訓練。
+
+---
+
+### 2026-08-09 22:25:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemeni government condemns Houthi militants' terrorist attack on Mocha port.
+
+---
+
+### 2026-08-09 22:22:30  #國際
+
+【木頭姐發文： 就業資料未顯衰退，AI正驅動美國經濟進入通縮與高生產率新週期 】針對近期引發市場擔憂的美國就業資料，美國知名投資機構方舟投資（ARK Invest）創始人凱西·伍德（Cathie Wood）8日表示，表面上的就業疲軟掩蓋了深層的經濟結構性變化。她指出，人工智慧（AI）等顛覆性技術正在大幅提升美國企業的生產率，當前美國經濟面臨的最大風險並非通貨膨脹，而是技術通縮。伍德強調，美國當前的宏觀經濟指標正呈現出類似20世紀80年代“里根經濟學”時期的特徵。她指出，美國國內企業稅前利潤佔國內生產總值（GDP）的比重已達13.2%，創下數十年來的新高。這一高利潤水平不僅源於疫情期間的財政與貨幣刺激，更得益於企業透過AI和自動化技術大幅提升了生產效率。她預計，隨著生產率的加速提升，美國聯邦赤字佔GDP的比重有望在年底前降至5%左右。
+
+---
+
+### 2026-08-09 22:19:40  #公司
+
+市場訊息： 隨著 Oura、谷歌、Whoop 等廠商開啟可穿戴裝置新時代，蘋果正考慮對 Apple Watch 進行重大調整。今年的機型將主要聚焦效能，以及健康、健身追蹤功能的最佳化，會推出 Ultra 4 以及 Series 12 版本。重大產品改動至少還要再等一年及以上才會落地。
+
+---
+
+### 2026-08-09 22:17:58  #國際
+
+【以色列在約旦河西岸進一步實施猶太定居點建設】近日，以色列在約旦河西岸進一步實施猶太定居點建設。近年來，以色列連續批准在約旦河西岸擴大定居點計劃，遭到國際社會的廣泛批評。以色列在包括東耶路撒冷、約旦河西岸在內的巴勒斯坦被佔領土上進行的猶太人定居點活動被認為是阻礙巴以問題獲得解決的主要障礙之一。（新華社）
+
+---
+
+### 2026-08-09 22:16:18  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Saudi outlet Hadath cites Yemeni military sources saying Houthi forces fired 30 ballistic missiles at civilian targets in al-Mukha.
+
+---
+
+### 2026-08-09 22:15:48  #其他
+
+市場訊息：一架美軍MQ-9無人機在從吉布提的“沙貝萊（Chabelley）”空軍基地起飛數分鐘後發生墜毀事故。
+
+---
+
+### 2026-08-09 22:14:32  #公司
+
+【瑞士再保險就熱浪風險發出警告】瑞士再保險執行長貝格爾（Andreas Berger）在接受瑞士《週日新蘇黎世報》（NZZ am Sonntag）採訪時表示：”熱浪及其相關死亡人數的風險被低估了。”他補充說：”我們需要提高對由此產生的危險的認識。”貝格爾是在瑞士再保險公佈2026年上半年淨利潤增長9%之後發表上述言論的，他表示現在斷言超額死亡率將如何影響這家總部位於蘇黎世的公司的財務資料還為時過早。
+
+---
+
+### 2026-08-09 22:01:23  #公司
+
+【券商綜合測算：宇樹科技中一簽或賺20萬元】8月10日，A股“人形機器人第一股”宇樹科技（688836.SH）將在科創板正式開啟申購。考慮到宇樹科技本次發行流通盤規模較小，又疊加“第一股”的題材光環，多家券商綜合測算顯示，其預計中籤率在萬分之二至萬分之三之間，遠低於長鑫科技0.47%的中籤率水平。資料顯示，2026年以來A股新股上市首日平均漲幅高達276.04%，若以此測算，中一簽宇樹科技賬面盈利有望突破20萬元；若對標年內科創板新股首日466.61%的平均漲幅，單籤盈利可達35.18萬元。（21世紀經濟報道）
+
+---
+
+### 2026-08-09 22:01:19  #MKT News
+
+【Typhoon White Dolphin triggers first numbered flood in Zhejiang canal system】Typhoon White Dolphin (the year’s 13th storm) dropped 104.8 mm of cumulative rain on the eastern Hangjiahu plain. At 20:40 on Aug 9 the Jiaxing gauge on the canal rose to 2.00 m, hitting the flood-number threshold and registering the canal system’s first numbered flood of 2026 (Hangjiahu plain Flood No.1). Forecasts call for concentrated rain over the next 24 hours; together with water-management operations, Jiaxing water level is expected to rise further.
+
+---
+
+### 2026-08-09 22:00:39  #市場
+
+【受颱風“白海豚”影響 浙江運河水系發生今年第1號洪水】受今年第13號颱風“白海豚”影響，杭嘉湖東部平原累計降雨量104.8毫米。8月9日20時40分，運河水系嘉興站水位漲至2.00米，達到洪水編號標準，運河水系發生今年第1場編號洪水（杭嘉湖平原2026年第1號洪水<0809>），氣象預報未來24小時仍有集中降雨，結合水利工程排程，預報嘉興站水位仍將上漲。（央視新聞）
+
+---
+
+### 2026-08-09 21:57:48  #國際
+
+【敘利亞與俄羅斯就兩處俄軍事基地達成諒解備忘錄】據敘利亞國家通訊社9日援引敘過渡政府外交部訊息，敘利亞與俄羅斯已達成一份諒解備忘錄，確認敘西部沿海地區赫梅米姆和塔爾圖斯兩處俄軍事基地的未來管理問題。根據這份諒解備忘錄，雙方同意調整改造俄羅斯在敘利亞沿海地區的軍事基地。具有軍事性質的設施將被改為聯合培訓和訓練中心。具有民用性質的設施將由敘過渡政府負責管理，主要包括赫梅米姆機場和塔爾圖斯港碼頭。相關改造工作將在3個月內完成。敘過渡政府外交部說，這份諒解備忘錄是雙方經過一年半的密集談判與磋商後達成的。（新華社）
+
+---
+
+### 2026-08-09 21:56:49  #公司 #國際
+
+【俄媒稱伊朗布什爾核電站新機組建設仍在繼續】據俄羅斯媒體9日報道，俄羅斯國家原子能公司執行長利哈喬夫說，伊朗布什爾核電站2號和3號機組主廠房和輔助廠房的建設仍在繼續。利哈喬夫當日接受採訪時說，俄羅斯國家原子能公司已著手將從伊朗撤離的專家派回布什爾核電站。首批5名工程技術人員已經抵達，目前在該核電站的俄羅斯專家一共25人。第二批專家將在未來兩週內派出，人數達數十人。利哈喬夫預計，如果一切順利，今年秋季在布什爾核電站工作的俄方專家人數有望達到100人。他同時強調，“這一切的前提條件是美伊能夠就停止軍事對抗達成最終協議，雙方衝突不再升級”。布什爾核電站位於伊朗南部城市布什爾城外，建於波斯灣沿岸，是伊朗境內唯一運轉的核電站。（新華社）
+
+---
+
+### 2026-08-09 21:50:46  #其他
+
+【中國創新藥企邁入價值兌現期：創新藥納保開啟確定性增長通道】兩年前，康方生物實驗室裡走出的依沃西單抗注射液（下稱“依沃西”）在國際頭對頭Ⅲ期臨床中擊敗全球原“藥王”K藥（帕博利珠單抗）。海外醫藥圈評論稱，中國生物製藥行業正在迎來“DeepSeek時刻”。 兩年過去，依沃西的兩款適應證已先後進入國家基本醫保目錄。在廣東某縣域，確診肺癌晚期的張大爺年事已高，受不了頻繁進城住院的折騰和高企的費用，也難耐傳統含化療方案的毒性。醫保政策一落地，他選了依沃西這套“去化療”一線方案，每療程自費壓到2000元上下。 從國際頂刊的學術認可，到一張普通患者的藥費清單，這是本土創新藥價值兌現的一個縮影。 近年來，創新藥從獲批到進入醫保目錄的週期已由原先的數年壓縮至1年左右，約80%的創新藥可在上市兩年內納入醫保支付範圍。一個正被反覆驗證的行業共識是：一旦國內創新藥的支付瓶頸得以打通，產品便會進入銷售放量期，並逐步轉化為持續的營收增長。今年以來，多家頭部創新藥企已憑藉自研管線實質兌現商業化收益。 但與此同時，“一個支付方”的博弈終究有邊界，本土市場的規模天花板也客觀存在。在藉助醫保解決本土患者可及性問題的同時，中國創新藥企仍需在全球市場上尋找更高維度的價值兌現場。（一財）
+
+---
+
+### 2026-08-09 21:50:41  #MKT News #Market Regions #Europe & UK #Commodities #Energy
+
+【Cyprus may begin supplying East Mediterranean gas to Europe as early as March 2028】Cyprus Energy Minister Michael Damianos told AP Cyprus could start exporting natural gas from East Mediterranean offshore fields to Europe as early as March 2028. He said the Ukraine crisis and Middle East conflict have unsettled global energy markets and accelerated European efforts to diversify supplies, bringing East Mediterranean fields into view as an alternative source.
 
 ---
 
@@ -18737,101 +18881,5 @@ Thailand's finance minister said the government is targeting a 4% potential grow
 ### 2026-08-07 15:11:30  #國際
 
 【日本“再軍事化”妄動是地區和平穩定的真正威脅】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。 記者：據報道，日本海上自衛隊近期進行“戰斧”巡航導彈實彈試射，日防衛大臣稱面對戰後最嚴峻、最複雜的安全環境，遠端導彈將成為日一種反擊手段。此外，日航空自衛隊還進行了新型導彈掛飛試驗。請問對此有何評論？ 陳曦：日方加快發展進攻性武器的動向日益猖獗、十分危險，值得地區國家高度警惕。事實已經證明，日方所謂“周邊安全威脅”只是其突破和平憲法和“專守防衛”規制，加速推進“再軍事化”的藉口。真正威脅日本安全、地區和平穩定的，恰恰是日本國內謀求擴軍備武、加速“再軍事化”的妄動。噩夢不能重演，和平需要守護。國際社會必須團結起來、行動起來，共同遏制日本“新型軍國主義”成勢為患、禍亂世界。
-
----
-
-### 2026-08-07 15:11:19  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-【HKEX: Jan–Jul IPO proceeds HKD 328.2 bln, up 154% YoY】HKEX data: Jan–Jul 2026 saw 104 new listings, up 96% YoY. IPO proceeds totalled HKD 328.2 bln, up 154% YoY. Total funds raised were HKD 528.0 bln, up 57% YoY.
-
----
-
-### 2026-08-07 15:10:43  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #US10Y
-
-【Ministry of National Defense: Chinese military will resolutely counter any maritime provocations】On the afternoon of Aug. 7, Ministry of National Defense spokesman Senior Colonel Chen Xi said Huangyan Island is China’s inherent territory and that China has continuously, peacefully and effectively exercised sovereignty and jurisdiction there. Chen said China is the only state entitled under international law to declare territorial sea baselines for Huangyan Island. He described recent Philippine actions as a serious infringement of China’s territorial sovereignty, a grave violation of international law and basic norms of international relations, and therefore illegal and invalid. Chen said China’s organization of training and drills is a stern warning against Philippine provocations and a necessary, lawful measure to safeguard Huangyan Island’s sovereignty and rights.
-
----
-
-### 2026-08-07 15:10:41  #國際
-
-【國防部：中國軍隊堅決反制任何鬧海挑釁圖謀】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。陳曦：黃巖島是中國固有領土，中方持續、和平、有效地對黃巖島行使主權和管轄權，是唯一有權依據國際法宣佈黃巖島領海基線的國家。菲方有關行徑嚴重侵犯中國領土主權，嚴重違反國際法與國際關係基本準則，是非法無效的。中方組織演訓演練活動，是對菲方侵權挑釁行徑的嚴正警告，是捍衛黃巖島主權和權益的必要舉措，完全正當合法。（國防部發布）
-
----
-
-### 2026-08-07 15:10:09  #市場
-
-【機構：Q2全球智慧手機平均售價上漲17%】Counterpoint Research釋出的市場監測報告顯示，2026年第二季度全球智慧手機行業營收同比增長7%，達到創紀錄的1090億美元。儘管同期全球智慧手機出貨量有所下滑，但營收仍創下第二季度歷史新高，這主要源於全球智慧手機平均售價的顯著上漲。 資料顯示，2026年第二季度全球智慧手機平均售價同比增長17%，達到第二季度歷史最高點400美元。這意味著消費者購買一部普通智慧手機的門檻正在顯著抬升，購機成本正在變得更高。
-
----
-
-### 2026-08-07 15:09:49  #公司
-
-SK海力士因公司準備推出股東回報方案，紐交所上市存託憑證跌幅收窄。
-
----
-
-### 2026-08-07 15:09:42  #MKT News #Market Regions #Greater China
-
-【China issues 15th Five-Year Plan for civil aviation development】China's Civil Aviation Administration, National Development and Reform Commission and Ministry of Transport jointly released the 15th Five-Year Plan for civil aviation. The plan mandates construction of a coordinated infrastructure system with moderately forward capacity planning while avoiding excessive overbuilding, and prioritizes smart, green and integrated infrastructure. It directs simultaneous upgrading of existing assets and optimization of new capacity, accelerating infrastructure renewal and digital-intelligent transformation to enhance safety and operational sustainability and achieve first-class facilities. The plan also calls for a domestically controllable innovation support system, demand-led problem solving, safe development of low-altitude civil aviation, faster civil aviation digitalization and technological self-reliance, and integrated development of education, science and talent to cultivate new productive capacity in the sector.
-
----
-
-### 2026-08-07 15:09:04  #其他
-
-【《民用航空發展“十五五”規劃》印發】中國民航局、國家發展改革委、交通運輸部近日聯合印發《民用航空發展“十五五”規劃》。規劃明確，到2030年，民航行業安全水平、服務能力、基礎設施率先邁向國際一流，技術創新、綠色低碳、治理能力實現重大突破性進展，服務國家重大戰略、促進區域經濟社會發展和滿足人民美好航空出行需要更加有力。規劃提出，“十五五”時期，圍繞上述目標，民航行業將全力推進六大體系建設。一是全力構築堅實可靠的航空安全保障體系。二是全力打造優質高效的航空運輸服務體系。三是全力建設系統協同的基礎設施體系。四是全力構建自主可控的創新支撐體系。五是全力建設可持續的綠色發展體系。六是全力構建規範有序的民航治理體系。
-
----
-
-### 2026-08-07 15:08:39  #其他
-
-【國防部：向為國鑄盾的國防科技工作者致敬 】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。 記者：據報道，國防科技大學計算機學院王戟研究員被中央宣傳部授予“時代楷模”稱號，受到全民廣泛關注、全網熱議點贊。請介紹有關情況。 陳曦：王戟研究員是我國高可信軟體領域主要開拓者，紮根軍事教學科研一線三十餘年，始終秉持立德樹人、為戰育人初心，忠實履行以戰領研、科研為戰使命。面對高位截肢、腎衰竭等重大疾病打擊，他仍以堅韌意志和樂觀精神堅守戰位、忘我奮鬥，堅定不移攻堅國防科技自主創新高地，為大國重器關鍵軟體安全可靠作出重要貢獻。眾多網友被這位“挺好的”教授所感動、所鼓勵，稱讚他“身如長戟，為國而立；胸懷赤誠，志在強軍”。 生命向前，衝鋒不止。王戟的微笑與堅守是所有國防科技工作者默默奉獻、為國鑄盾的縮影，我們向這些以身許黨許國的楷模致以崇高敬意和誠摯祝福。廣大官兵將以他們為榜樣，牢記初心使命，勠力奮鬥強軍，以嶄新政治面貌迎接建軍一百週年。
-
----
-
-### 2026-08-07 15:08:28  #公司
-
-【湖南裕能在貴州成立新能源電池材料公司】企查查APP顯示，近日，裕能甕發（貴州）新能源電池材料有限公司成立，註冊資本15億元，經營範圍包含電子專用材料製造；電子專用材料研發；電子專用材料銷售；化肥銷售。企查查股權穿透顯示，該公司由湖南裕能(301358)全資持股。
-
----
-
-### 2026-08-07 15:07:39  #宏觀
-
-【國防部：推動基本實現國防和軍隊現代化取得決定性進展】 8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。
-
-記者：近日，中共中央政治局就高質量推進國防和軍隊現代化進行第二十七次集體學習，習主席在主持學習時發表重要講話。請問軍隊將如何學習貫徹習主席重要講話精神？
-
-陳曦：習主席重要講話站在時代發展和戰略全域性的高度，深刻闡述了高質量推進國防和軍隊現代化的重大意義，全面總結了新時代以來國防和軍隊現代化建設取得的偉大成就，科學回答了高質量推進國防和軍隊現代化一系列帶方向性、根本性、全域性性的重大問題，進一步感召和激勵全軍官兵以奮鬥姿態、嶄新面貌，推動基本實現國防和軍隊現代化取得決定性進展，加快把人民軍隊建成世界一流軍隊。
-
-國防和軍隊現代化，是為實現中華民族偉大復興提供戰略支撐的現代化，是機械化資訊化智慧化融合發展的現代化，是永葆人民軍隊性質宗旨本色的現代化。新徵程上，全軍始終堅持以習近平新時代中國特色社會主義思想為指導，深入貫徹習近平強軍思想，堅持和加強黨對軍隊的絕對領導，全面落實新時代政治建軍方略；加快先進戰鬥力有效供給，逐步構建智慧化軍事體系；加強作戰能力體系整合，紮實推進練兵備戰；加強軍事治理，調動軍地各方力量，凝心聚力推動國防和軍隊現代化行穩致遠，為以中國式現代化全面推進強國建設、民族復興偉業提供堅強戰略支撐。（國防部發布）
-
----
-
-### 2026-08-07 15:07:29  #其他
-
-【港交所：證券市場市價總值7月底為46.8萬億港元，同比上升4%】8月7日，香港交易所資料顯示：證券市場市價總值於2026年7月底為46.8萬億港元，同比上升4%。2026年7月的平均每日成交金額為3072億港元，同比上升17%。2026年首七個月的平均每日成交金額為2868億港元，同比上升18%。2026年首七個月的牛熊證平均每日成交金額為131億港元，同比上升36%。2026年首七個月的交易所買賣基金平均每日成交金額為406億港元，同比上升22%。2026年首七個月的槓桿及反向產品平均每日成交金額為105億港元，同比上升169%。
-
----
-
-### 2026-08-07 15:07:16  #MKT News #Market Regions #Greater China #Market Themes #Crypto Concepts #Commodities #Precious Metals #SSE Composite #Impact bullish #SZSE Component #Copper
-
-【China A-shares close higher; major indexes up >1%, CRO and PCB sectors lead】China A-shares closed higher: Shanghai Composite +1.02%, Shenzhen Composite +1.42%, ChiNext +1.35%. CRO sector saw a wave of limit-ups, including Yiqiao Shenzhou; CPO stocks strengthened with Woge Optoelectronics posting a fourth consecutive limit-up. PCB names extended gains, with Jingwang Electronics and others hitting limit-up; minor-metals names active and China Rare Earths reached limit-up. Components, electronic chemicals, precious metals and semiconductors were among top gainers; digital currency, gaming, coal and bank sectors lagged. Over 2,800 stocks rose; total turnover exceeded 2.6 trillion yuan.
-
----
-
-### 2026-08-07 15:07:13  #其他
-
-【河南迴應帶薪錯峰休假通知引爭議：程式審籤不規範，待修改後予以印發】據河南省人力資源和社會保障廳，《關於進一步推動落實職工帶薪錯峰休假的通知》（豫人社辦〔2026〕53號）釋出後，得到社會關注，並提出意見建議。鑑於該文相關表述不夠準確，程式審籤不規範，待修改後予以印發。（新黃河）
-
----
-
-### 2026-08-07 15:07:09  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
-
-France Forex Reserves Increase in July — France’s official reserve assets increased to €357.05 billion at the end of July 2026 from an eight-month low of €355.39 billion in June, mainly driven by an increase in foreign currency reserves. Foreign currency reserves climbed to €34.37 billion from €32.42 billion in the previous month. Meanwhile, gold reserves declined to €276.79 billion from €277.03 billion, claims on the IMF fell to €39.42 billion from €39.46 billion, and other reserve assets decreased to €6.46 billion from €6.48 billion. In July 2025, total reserve assets stood at €303.04 billion.
-
----
-
-### 2026-08-07 15:06:42  #MKT News
-
-【China, Belarus to hold 'Shenying-2026' airborne joint training】China and Belarus will hold 'Shenying-2026' airborne joint training in Hubei in mid‑to‑late August, the Chinese defense ministry said. Focused on joint urban counterterrorism operations, the drills will practice reconnaissance and counter‑reconnaissance, seizure and defense, and clearing and holding. This is the fourth iteration of the series and is aimed at improving participating units' combat readiness and deepening bilateral military cooperation.
 
 ---

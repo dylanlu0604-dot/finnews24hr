@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 21:49:49_
-_本檔包含 3075 則快訊，約 602202 字_
+_更新時間：2026-08-09 22:46:10_
+_本檔包含 3091 則快訊，約 601734 字_
+
+---
+
+### 2026-08-04 06:00:06  #央行 #國際
+
+【美聯儲9月加息25個基點的機率為67.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為32.8%，累計加息25個基點的機率為67.2%。美聯儲到10月維持利率不變的機率為23.3%，累計加息25個基點的機率為57.3%，累計加息50個基點的機率為19.3%。
+
+---
+
+### 2026-08-04 06:00:03  #市場 #焦點
+
+紐約期金突破4110美元/盎司，日內漲0.48%。
+
+---
+
+### 2026-08-04 05:57:27  #MKT News #Market Themes #Chip Wars
+
+【Major electronic-packaging conference opens in China as capacity expansion accelerates】The 27th International Conference on Electronic Packaging Technology (ICEPT2026) will run Aug. 5-7 in Xi'an, showcasing advanced packaging equipment, materials and test solutions. With global advanced-packaging capacity tight, China’s assembly-and-test sector is launching a large-scale expansion; domestic leaders including JCET, Huatian Technology and Tongfu Microelectronics are expanding advanced-packaging capacity and prioritizing high-end memory, power semiconductors and high-performance computing packaging. The build-out is expected to deepen ecosystem coordination and accelerate domestic self-sufficiency in advanced packaging.
+
+---
+
+### 2026-08-04 05:53:35  #其他
+
+禮來發言人：已搭建擴大可及性專案，實現瑞塔魯肽在 FDA 獲批前供患者使用。 正積極稽核醫護機構的申請，計劃在 FDA 獲批前供應正品瑞塔魯肽。
+
+---
+
+### 2026-08-04 05:52:50  #國際
+
+【古巴國家電網癱瘓】當地時間8月3日獲悉，當天，古巴國家電網發生癱瘓。受美國製裁影響，古巴長期以來難以進口燃料及發電廠裝置，發電廠裝置老舊難更新，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）
+
+---
+
+### 2026-08-04 05:51:08  #公司 #國際
+
+禮來發言人：公司認為，在取得美國 FDA 批准前，向符合特定條件的患者提供正品瑞塔魯肽（Retatrutide）具備醫學合理性。
+
+---
+
+### 2026-08-04 05:49:30  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazil Yields Fall Ahead of BCB Meeting — Brazil's 10-year government bond yield fell to 14.56% from a nearly three-month high of 15% reached in late July as easing tensions in the Middle East pushed oil prices lower, reducing inflation concerns. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike, raising hopes for a diplomatic resolution. The decline in oil prices reinforced expectations that the BCB will cut the Selic rate from 14.25% at its August 5th meeting. The latest Focus Survey lowered the 2026 inflation forecast to 5.03% from 5.12% and reduced the year-end Selic projection to 13.75% from 14.00%. Meanwhile, consumer prices rose just 0.06% in the month to mid-July, slowing sharply from 0.41% in June and below forecasts of 0.2%.
+
+---
+
+### 2026-08-04 05:44:39  #市場 #央行 #國際
+
+【城堡證券稱市場質疑沃什政策思路 警示負反饋迴圈風險】城堡證券表示，美聯儲主席凱文·沃什承諾遏制通脹、但未解釋具體如何實施，這給投資者製造了新的不確定性。儘管沃什多次表示，美聯儲需要壓低已連續五年超過目標水平的消費者價格漲幅，但美聯儲上週再次維持利率不變，即便有三名政策制定者支援立即加息。相反，沃什認為，近期美國國債收益率上升已經收緊了金融條件，使市場發揮了部分美聯儲收緊政策的作用。他還暗示，在貨幣政策框架評估後，美聯儲可能重新考慮是否應繼續將其首選通脹指標作為當前政策基準。投資者對此作出反應，拋售長期美國國債，推高通脹預期，導致美元和股市下跌。城堡證券歐洲、中東和非洲地區固定收益銷售主管Nohshad Shah在報告中寫道，這些市場變動凸顯了“對政策框架可信度或清晰度的挑戰”。
+
+---
+
+### 2026-08-04 05:41:19  #MKT News
+
+Cuban media report the national power grid collapsed again after a blackout on Sunday.
+
+---
+
+### 2026-08-04 05:39:59  #其他
+
+古巴官方媒體：週日發生停電事故後，古巴國家電網再次全面癱瘓。
+
+---
+
+### 2026-08-04 05:36:35  #國際
+
+Palantir：歐洲業務增長 “十分糟糕”。
+
+---
+
+### 2026-08-04 05:33:51  #公司
+
+TEADS：法院裁定谷歌在部分數字廣告技術市場存在非法反競爭行為後，TEADS 提起訴訟。
+
+---
+
+### 2026-08-04 05:31:29  #國際
+
+市場訊息：伊朗總統佩澤希基揚表示，伊朗無意加劇西亞緊張局勢，但在捍衛領土完整問題上絕不妥協。
+
+---
+
+### 2026-08-04 05:28:44  #公司
+
+哥倫比亞國家石油公司（Ecopetrol）公佈第二季度淨利潤 6.06 萬億比索。
+
+---
+
+### 2026-08-04 05:26:51  #其他
+
+訊息人士稱，墨西哥最大肉類出口商蘇卡內（Sukarne）考慮出售，交易估值或超 20 億美元。
+
+---
+
+### 2026-08-04 05:21:37  #國際
+
+伊朗議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：你們被驅逐的日子不遠了，屆時你們不僅會被趕出這一地區，還將被所有設有你們軍事基地的國家驅逐。你們將不得不把維持海外基地的資源轉而用於保衛本國。
+
+---
+
+### 2026-08-04 05:17:36  #其他
+
+Snap 首席財務官：我們預計直接收入增速將持續顯著高於整體業務增速。
+
+---
+
+### 2026-08-04 05:16:05  #MKT News
+
+The US House cybersecurity subcommittee has requested OpenAI CEO Sam Altman brief lawmakers on the Hugging Face breach.
+
+---
+
+### 2026-08-04 05:15:27  #市場
+
+富時A50期指連續夜盤收漲0.42%，報14681點。
+
+---
+
+### 2026-08-04 05:15:23  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+NTT Data is considering roughly $9.0 billion of investment in Japan's data-center sector.
+
+---
+
+### 2026-08-04 05:12:34  #公司 #國際
+
+美國眾議院網路安全委員會要求 OpenAI 執行長山姆・奧特曼就 Hugging Face 遭遇攻擊事件進行情況通報。
+
+---
+
+### 2026-08-04 05:11:05  #公司
+
+Snap 執行長：公司自研 AI 程式碼審查工具目前已可稽核 Snap 內部 90% 的程式碼合併請求。
+
+---
+
+### 2026-08-04 05:08:59  #其他
+
+委內瑞拉代總統羅德里格斯： 委內瑞拉地震遇難人數升至 6125 人。
+
+---
+
+### 2026-08-04 05:08:04  #其他
+
+Palantir：在第二季度與一家科技企業簽署 3.7 億美元合同。
+
+---
+
+### 2026-08-04 05:06:10  #公司
+
+Snap執行長： 人工智慧正助力我們加快服務最佳化速度，提升使用者參與度，併為廣告主改善轉化效果。
+
+---
+
+### 2026-08-04 05:05:04  #市場
+
+週一（8月3日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7581元，較上週五紐約尾盤跌57點，日內整體交投於6.7461-6.7593元區間。
+
+---
+
+### 2026-08-04 05:04:21  #MKT News
+
+【Japan ruling party backs cut to food consumption tax to 1% as Takaichi pushes pledge】The ruling party’s tax and social security committee approved a government proposal to cut the food consumption tax from 8% to 1% from April next year for a two-year period. Cabinet approval is sought early next month and the government aims to table legislation at an autumn extraordinary Diet session; the party’s top decision body may review the draft as soon as Wednesday. From June the plan includes roughly ¥600 billion a year in cash transfers to low- and middle-income households, with payments scaled by income. Funding remains unspecified; the government plans to rely on non-tax revenue, tax receipts and savings from reviewing tax preferences and subsidies to plug the gap.
+
+---
+
+### 2026-08-04 04:59:56  #市場
+
+週一（8月3日）紐約尾盤，現貨黃金漲0.21%，報4054.95美元/盎司，亞太盤初高開至4080.87美元重新整理日高，隨後震盪下行、21:38重新整理日低至4019.30美元。COMEX黃金期貨漲0.15%，報4113美元/盎司。現貨白銀漲1.01%，報58.18美元/盎司，美股盤初也曾重新整理日低至56.5694美元。COMEX白銀期貨漲1.08%，報58.400美元/盎司。COMEX銅期貨漲0.65%，報6.5490美元/磅。現貨鉑金跌1%，現貨鈀金跌1.30%。
+
+---
+
+### 2026-08-04 04:59:09  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Nikkei reports Japan's ruling party is close to cutting the food tax rate from 8% to 1%.
+
+---
+
+### 2026-08-04 04:58:30  #Trading Economics #Economy #Paraguay #Inflation Rate #Importance 1
+
+Paraguay Inflation Eases to 1.6% — Paraguay’s annual inflation eased to 1.6% in July 2026 from 2.1% in June, moving further below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.7%), followed by education (5.9%), furniture and household goods (2.1%), healthcare (1.9%), and housing and utilities (1.8%). Meanwhile, transport prices fell 1.1% as lower oil prices, driven by easing Middle East tensions, helped curb overall inflation. Core inflation, which excludes volatile items, fell to 1.5% year-on-year from 1.7% in June. On a monthly basis, consumer prices fell 0.1%, following a 0.3% decline in the previous month.
+
+---
+
+### 2026-08-04 04:50:12  #公司
+
+【8月4日美股成交額前20：亞馬遜創歷史新高，市值突破3萬億美元】週一美股成交額第4名亞馬遜收高4.58%，成交252.87億美元。週一亞馬遜股價創歷史新高，延續上週財報釋出後的強勢行情，市值首次突破3萬億美元，成為史上第五家達成該里程碑的企業。其二季度財報顯示雲端計算業務營收增速加快。至此，亞馬遜與英偉達、Alphabet、微軟、蘋果一道，成為僅有的幾家市值站上3萬億美元大關的公司。
+
+---
+
+### 2026-08-04 04:49:55  #MKT News
+
+【CDC: Michigan reports two Cyclospora-related deaths】The US Centers for Disease Control and Prevention on the 3rd confirmed Michigan reported two deaths linked to Cyclospora; both patients had serious underlying conditions. These are the first Cyclospora-related fatalities reported since the US outbreak began spreading in May.
+
+---
+
+### 2026-08-04 04:47:50  #國際
+
+【美疾控中心：密歇根州報告兩例環孢子蟲病死亡病例】美國疾病控制和預防中心3日證實，密歇根州報告兩例環孢子蟲病相關死亡病例，兩名死者均患有嚴重基礎疾病。這是自今年5月環孢子蟲病在美持續蔓延以來首次報告相關死亡病例。（新華社）
+
+---
+
+### 2026-08-04 04:46:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+ONEOK earnings above expectations at 1.53 USD — ONEOK (OKE) released earnings per share at 1.53 USD, compared to market expectations of 1.49 USD.
+
+---
+
+### 2026-08-04 04:43:32  #其他
+
+【馬達加斯加一市場發生火災 3500人受災】馬達加斯加東部城市圖阿馬西納市政廳3日表示，當地一處市場2日晚間發生嚴重火災，至少3500人受災。（央視）
+
+---
+
+### 2026-08-04 04:42:41  #MKT News
+
+【Egypt, Qatar and Turkey say Israel violating Gaza ceasefire, demand protection for civilians and aid】Egypt, Qatar and Turkey issued a joint statement condemning Israel’s continued violations in Gaza, saying Israel must comply with its obligations under international law and honor its ceasefire commitments. The three said the actions constitute breaches of the ceasefire that undermine implementation of the second-phase truce and threaten de-escalation, and called for protection of civilians, medical facilities and humanitarian personnel and for unimpeded delivery of aid and medical supplies into Gaza.
+
+---
+
+### 2026-08-04 04:41:10  #市場 #觀點 #焦點
+
+花旗：基準情景下，金價未來一個月將維持震盪甚至下行，隨後在 2026 年第四季度上漲至每盎司 4500 美元，並於 2027 年上半年觸及每盎司 5000 美元。
+
+---
+
+### 2026-08-04 04:38:39  #國際
+
+【埃及、卡達和土耳其發表聯合宣告 譴責以色列在加沙侵犯行為】當地時間3日，埃及、卡達和土耳其三國發表聯合宣告，強烈譴責以色列在加沙地帶持續的侵犯行為。三國強調，以色列必須遵守其在國際法下的所有義務，並全面履行其在停火協議中作出的承諾。三國重申，以色列持續侵犯加沙行為構成對停火協議的違反，破壞了第二階段停火協議的實施，並威脅局勢緩解程序。三國呼籲，確保平民、醫療設施和人道主義人員得到充分保護，並保障人道主義援助和醫療物資在加沙地帶暢通無阻地運送。（央視新聞）
+
+---
+
+### 2026-08-04 04:35:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.32% Higher — The Dow Jones Index went up by 693 points or 1.32 percent on Monday to close at 53178 points. The rise was led by Boeing (7.93%), Microsoft (4.90%) and Amazon (4.64%).
+
+---
+
+### 2026-08-04 04:34:15  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Brazilian Stocks Close Flat — The Ibovespa closed flat at 178,000 on Monday as losses in heavyweight commodity stocks offset optimism over easing Middle East tensions. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike on the country. The prospect of a diplomatic solution pushed oil prices lower, easing inflation concerns and driving bond yields down. The favorable backdrop reinforced expectations that the BCB will cut the Selic rate this week from the current 14.25%. Financials advanced, with Itaú and Bradesco rising 0.6%, while utilities also gained, with Axia up 1.4%. Also, Embraer climbed 3.1% after BNDES approved R$3.3-3.7 billion in financing to support exports of up to 19 aircraft to Canada's Porter Aviation Holdings. However, Petrobras (-0.8%) and Vale (-2.1%) weighed on the index as oil and iron ore prices declined.
 
 ---
 
@@ -18385,149 +18625,5 @@ Russian Defence Ministry said it struck infrastructure at the Ukrainian port of 
 ### 2026-08-02 22:48:20  #MKT News
 
 【Magnitude-4.8 earthquake in Xinghai county, Hainan prefecture, Qinghai; 10 km depth】CENC recorded a magnitude-4.8 earthquake at 22:31 on Aug. 2 (Beijing time) in Xinghai county, Hainan prefecture, Qinghai (35.34°N, 99.50°E); focal depth 10 km.
-
----
-
-### 2026-08-02 22:45:50  #其他
-
-中國地震臺網正式測定：08月02日22時37分在青海海南州興海縣（北緯35.36度，東經99.51度）發生3.6級地震，震源深度10千米。
-
----
-
-### 2026-08-02 22:44:52  #其他
-
-巴基斯坦警方2日說，該國西北部開伯爾－普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。（新華社）
-
----
-
-### 2026-08-02 22:44:11  #MKT News #Macro & Rates #US Economy
-
-【Dongwu Securities: U.S. consumer delinquency rates near highs do not imply broad, sustained deterioration】Dongwu Securities says U.S. consumer credit delinquency rates have risen since the pandemic, with auto-loan and credit-card delinquencies near historic highs. The firm attributes much of the headline rise to technical factors — changes in statistical coverage and credit-rating migration — which amplify measured delinquency severity; alternative metrics such as new-delinquency (new-roll) rates do not show a broad, sustained deterioration in U.S. household credit. Still, Dongwu warns of persistent structural risk concentrated in subprime borrowers and lower-income households, leaving the lower end of a K-shaped recovery as a continuing vulnerability until full economic rebound.
-
----
-
-### 2026-08-02 22:41:34  #其他
-
-中國地震臺網正式測定：08月02日22時31分在青海海南州興海縣（北緯35.34度，東經99.50度）發生4.8級地震，震源深度10千米。
-
----
-
-### 2026-08-02 22:38:13  #國際
-
-美國國家颶風中心（NHC）表示，“吉納維芙”預計將於今日晚些時候減弱為後熱帶氣旋。
-
----
-
-### 2026-08-02 22:37:44  #觀點 #國際
-
-【東吳證券： 美國消費信貸逾期率近新高並不意味著美國信貸狀況全面和持續惡化】疫情危機以來，美國消費信貸嚴重逾期率持續上行，車貸與信用卡逾期率均接近歷史新高附近。我們研究發現，這背後更多是統計口徑、信用評級遷徙等技術因素放大了消費信貸逾期率的嚴重程度；以更為合理的新增逾期率等指標來看，美國居民信貸狀況並沒有全面和持續惡化。儘管如此，美國消費信貸的結構性風險仍然不可忽視，尤其是車貸、信用卡等消費信貸逾期問題集中於次級借款人、中低收入人群等群體。這意味著，美國經濟在迎來全面復甦之前，K 型分化的“下端”仍是需要持續關注的薄弱環節。
-
----
-
-### 2026-08-02 22:35:11  #其他
-
-中國地震臺網自動測定：08月02日22時31分在青海海南州興海縣附近（北緯35.38度，東經99.55度）發生4.9級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-02 22:31:12  #其他
-
-【國家疾病預防控制局和中國氣象局聯合釋出高溫健康風險預警和健康提示】國家疾病預防控制局、中國氣象局8月2日18時聯合釋出高溫健康風險預警：預計，8月2日20時至3日20時，東北地區中部和南部、華北地區東部、黃淮東部、江淮、江南東北部及新疆、內蒙古等地高溫健康風險較高（黃色預警）；遼寧、吉林、黑龍江、山東、江蘇、天津、安徽、新疆、河南、湖北等地的部分地區高溫健康風險高（橙色預警），其中，遼寧大部、吉林大部、黑龍江南部、山東北部和東部、安徽北部和東南部、新疆北部和東部等地的部分地區高溫健康風險極高（紅色預警）。請公眾及時關注預警資訊變化，保持室內涼爽，避開高溫時段外出，減少戶外活動，保證充足飲水。老人、孕婦、兒童、慢性病患者加強關注自身健康狀況，如不適及時就醫。戶外作業者注意防暑降溫。
-
----
-
-### 2026-08-02 22:30:54  #MKT News
-
-【Al-Taji ammunition depot explodes; authorities cite high temperatures, no sign of attack】Iraqi media report an explosion at an ammunition depot at the Al-Taji military base north of Baghdad. The Iraq Security Media Cell said the blast was caused by elevated internal temperatures. The base is long used by US-led coalition forces. Officials said there is no indication the incident was an attack; no further information on casualties has been released.
-
----
-
-### 2026-08-02 22:28:53  #其他
-
-【2026年江源綜合科學考察啟動】據水利部長江水利委員會長江科學院訊息，由其牽頭組織的2026年江源綜合科學考察2日在青海省玉樹藏族自治州啟動。在為期一週的綜合科學考察行程中，科考隊將深入江源高海拔腹地，摸清生態本底，為江源做系統“體檢”。（新華社）
-
----
-
-### 2026-08-02 22:27:44  #MKT News
-
-【State Grid: Multiple regions hit record electricity loads; measures deployed to secure supply】State Grid Co. said recent widespread heat drove record electricity loads across its operating area, with the North China and Northeast regional grids and provincial grids in Tianjin, northern Hebei, Jiangsu, Liaoning and eastern Inner Mongolia repeatedly hitting new peaks between July 27-31. The company said it is prioritizing supply security, intensifying use of cross-provincial/trans‑regional transmission corridors, conducting inter-regional surplus‑deficit transfers and temporal-spatial load balancing, and tightening operational responsibilities and O&M while implementing a 24-item, six-area peak-summer supply plan to safeguard grid stability and reliable power for economic and residential demand.
-
----
-
-### 2026-08-02 22:23:42  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component #CNH
-
-【Shanghai July new-home prices lead nation; Shenzhen Jan–Jul commercial apartment net sales +60.6%】Shanghai new-home prices rose 0.96% MoM in July, the largest monthly increase nationwide, with 2,796 transactions. Shanghai’s land market stayed hot: four parcels this year sold with premium rates above 35%. Market participants say high premiums on core plots underscore long-term value and may further lift buyer confidence. Shenzhen’s housing market remained active in July: net-signed sales of new-build residential units were 3,529 (+32.7% YoY); second‑hand residential net-signed sales were 4,795 (+3%), about 60% of total commodity housing transactions. Jan–Jul net-signed sales of first‑ and second‑hand commercial apartments totaled about 6,978 units, up 60.6% YoY.
-
----
-
-### 2026-08-02 22:23:42  #MKT News #Market Themes #Chip Wars #AI Revolution #Magnificent 7 #Star Stocks #Microsoft #Amazon #Nasdaq100 #Impact mixed
-
-【Analyst: Chip rebound possible after selloff but unlikely to lead next bull phase】Valueworks CIO Charles Lemonides said a strong rebound in chip stocks after this selloff would not be surprising, but they are unlikely to lead the next phase of a bull market because they have already had their run. He noted Amazon and Microsoft last week reiterated commitments to spend hundreds of billions of dollars on AI over the next year, much of it for data-center chips, but said the ensuing fundamentals are in doubt. Chip names, especially storage-focused firms, are highly cyclical and prone to boom‑and‑bust demand swings; many on Wall Street expect this cycle to be no different. Lemonides called the recent earnings surge unsustainable and flagged margin reversion toward historical norms as the key risk — the question is when that reversion occurs and how markets will price it.
-
----
-
-### 2026-08-02 22:21:21  #市場
-
-【上海新房價格漲幅領跑全國，1至7月深圳商務公寓網籤銷售量增超60%】資料顯示，7月，上海商品住宅（不含保障性住房）成交套數2796套，新建住宅價格環比上漲0.96%，漲幅居全國第一。上海土拍市場今年也維持較高熱度，四次出現溢價率突破35%的地塊。業內人士表示，核心地塊的高溢價成交凸顯上海核心區域的長期價值，土地市場的熱度有望進一步提振購房者的入市信心。 7月，深圳樓市也延續了春季的活躍態勢。深圳市住建局資料顯示，7月深圳全市新建商品住宅網籤銷售3529套，同比增長32.7%；深圳全市二手住宅網籤銷售4795套，同比增長3%，約佔商品住宅成交總量六成。今年1至7月，全市一、二手商務公寓網籤銷售近6978套，同比增長60.6%。
-
----
-
-### 2026-08-02 22:19:37  #公司
-
-【國家電網：多地用電負荷連創歷史新高 多措並舉保供電】受近期大範圍高溫天氣影響，國家電網公司經營區域多地用電負荷連創歷史新高。7月27日至31日，華北、東北2個區域電網，天津、冀北、江蘇、遼寧、蒙東5個省級電網負荷屢創新高。公司始終將電力保供作為首要政治任務，充分發揮大電網大市場優勢，高效運用跨省跨區輸電通道，積極開展餘缺互濟、時空互補，保障電網安全穩定執行與電力可靠供應。各單位壓緊壓實保供責任，全面落實迎峰度夏電力保供6方面24項工作要點，合理安排電網執行方式，強化各級電網運維保障，全力以赴保障經濟社會發展和民生用電需要。
-
----
-
-### 2026-08-02 22:18:16  #MKT News
-
-【Saudi foreign minister speaks with Qatar prime minister by phone】On Sunday Qatar's prime minister and foreign minister phoned Saudi Arabia's foreign minister to discuss bilateral cooperation and recent regional developments. They agreed on coordinated diplomatic efforts to reduce tensions and bolster regional security. Qatar urged commitment to dialogue and to implementing the consensus reached between the US and Iran, including steps to ensure freedom of navigation through the Strait of Hormuz. Qatar reiterated firm support for efforts to de-escalate and negotiate a comprehensive agreement to secure sustainable regional peace.
-
----
-
-### 2026-08-02 22:08:02  #公司
-
-【百億級私募，7月蹤跡曝光】市場震盪加劇下，百億級私募加快了“翻石頭”的步伐。私募排排網最新資料顯示，7月共有超600家證券類私募參與到A股調研活動中，合計調研頻次接近1500次。其中，百億級私募調研最為勤奮，調研方向也偏愛電子行業。在他們看來，市場槓桿風險的釋放大機率接近尾聲，疊加上市公司半年報密集披露期的到來，當下是逢低佈局的重要視窗。記者採訪獲悉，7月以來多家百億級私募啟動自購，截至發稿日，大部分管理人的自購動作均已完成。 私募排排網資料顯示，截至7月29日，7月以來共有664傢俬募證券投資基金管理人參與到A股調研活動中，覆蓋了29個申萬一級行業中的280只個股，合計調研頻次達1469次。其中，58家百億級私募參與到A股調研活動中，覆蓋到125只個股，合計調研頻次達306次。 進一步梳理資料可以發現，在69家7月調研頻次超過5次的私募中，百億級私募佔到28家。其中，盤京投資以25次的調研頻次居首，淡水泉則以20次的調研頻次緊隨其後。（上海證券報微信公眾號）
-
----
-
-### 2026-08-02 22:06:38  #國際
-
-【以軍稱在加沙地帶打死三名武裝人員】以色列國防軍2日發表宣告稱，以軍近日在加沙地帶實施空襲，打死三名巴勒斯坦武裝人員。宣告說，以軍1日在加沙城地區發動空襲，打死來自“伊斯蘭軍”組織的武裝人員阿拉丁·伊馬德·哈米斯·塔拉姆斯，以及來自巴勒斯坦伊斯蘭聖戰組織（傑哈德）的武裝人員哈桑·易卜拉欣·謝哈德·卡赫曼。此外，以軍上週在加沙地帶北部實施的一次空襲中，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）傑巴利耶營的一名指揮官艾哈邁德·胡德爾。
-
----
-
-### 2026-08-02 22:00:34  #MKT News
-
-【Navigation warning: South China Sea military exercises】Sanya Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the South China Sea will be closed for military training. Restricted periods: Aug 3–7 daily 05:00–24:00 and Aug 8 07:00–18:00; entry is prohibited.
-
----
-
-### 2026-08-02 21:59:33  #MKT News #WTI #Impact bullish #Brent
-
-【White House sees few viable options on Iran; frustration rising】Five former Trump administration officials say the White House has few good options after Iran demanded control of the Strait of Hormuz as a condition for ending hostilities. Senior U.S. officials, including Secretary of State Rubio, have warned against any deal that would allow Iran de facto control of the strait, saying it would complicate future U.S. sanctions enforcement by requiring waivers for transit payments and would weaken international pressure on Iran’s nuclear program; Rubio called it a dangerous precedent. Fractured communications among Iranian factions further complicate negotiations. The impasse arrives with U.S. midterms three months away and U.S. retail gasoline averaging $4.10/gal versus $3.85/gal a month ago. Continued concern over U.S. casualties, attacks on U.S. bases and ongoing Iranian missile threats to Gulf states risk further upward pressure on energy prices. There is no sign of an easy post-election exit. Danny Sitrenovitz, a non-resident Atlantic Council fellow, said any diplomatic settlement could require some Iranian control of the strait—politically unacceptable to many—while further military escalation would likely keep oil prices elevated without guaranteeing Iranian strategic change.
-
----
-
-### 2026-08-02 21:55:27  #其他
-
-【暑運高峰喀赤高鐵赤峰站日均旅客傳送量攀升至13000人次】7月28日，暑執行程過半，地處內蒙古自治區東南部的赤峰站客流持續高位執行。隨著京哈高鐵、喀赤高鐵相繼通車，赤峰市依託不斷織密的高鐵路網，成為今夏民眾出行的熱門目的地。暑運來臨前，赤峰站日均傳送旅客6000人次；進入暑運高峰，日均旅客傳送量攀升至13000人次。（中國經營報）
-
----
-
-### 2026-08-02 21:53:12  #公司
-
-蓋特威克機場表示，所有航空公司運營正常。
-
----
-
-### 2026-08-02 21:52:52  #其他
-
-蓋特威克機場發言人稱燃油供應出現了 “技術問題”  。
-
----
-
-### 2026-08-02 21:51:13  #其他
-
-市場訊息： 倫敦蓋特威克機場燃油供應出現問題。
 
 ---

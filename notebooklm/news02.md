@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 21:49:49_
-_本檔包含 3088 則快訊，約 602134 字_
+_更新時間：2026-08-09 22:46:10_
+_本檔包含 3075 則快訊，約 601865 字_
+
+---
+
+### 2026-08-07 15:11:19  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
+
+【HKEX: Jan–Jul IPO proceeds HKD 328.2 bln, up 154% YoY】HKEX data: Jan–Jul 2026 saw 104 new listings, up 96% YoY. IPO proceeds totalled HKD 328.2 bln, up 154% YoY. Total funds raised were HKD 528.0 bln, up 57% YoY.
+
+---
+
+### 2026-08-07 15:10:43  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #DXY #US10Y
+
+【Ministry of National Defense: Chinese military will resolutely counter any maritime provocations】On the afternoon of Aug. 7, Ministry of National Defense spokesman Senior Colonel Chen Xi said Huangyan Island is China’s inherent territory and that China has continuously, peacefully and effectively exercised sovereignty and jurisdiction there. Chen said China is the only state entitled under international law to declare territorial sea baselines for Huangyan Island. He described recent Philippine actions as a serious infringement of China’s territorial sovereignty, a grave violation of international law and basic norms of international relations, and therefore illegal and invalid. Chen said China’s organization of training and drills is a stern warning against Philippine provocations and a necessary, lawful measure to safeguard Huangyan Island’s sovereignty and rights.
+
+---
+
+### 2026-08-07 15:10:41  #國際
+
+【國防部：中國軍隊堅決反制任何鬧海挑釁圖謀】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。陳曦：黃巖島是中國固有領土，中方持續、和平、有效地對黃巖島行使主權和管轄權，是唯一有權依據國際法宣佈黃巖島領海基線的國家。菲方有關行徑嚴重侵犯中國領土主權，嚴重違反國際法與國際關係基本準則，是非法無效的。中方組織演訓演練活動，是對菲方侵權挑釁行徑的嚴正警告，是捍衛黃巖島主權和權益的必要舉措，完全正當合法。（國防部發布）
+
+---
+
+### 2026-08-07 15:10:09  #市場
+
+【機構：Q2全球智慧手機平均售價上漲17%】Counterpoint Research釋出的市場監測報告顯示，2026年第二季度全球智慧手機行業營收同比增長7%，達到創紀錄的1090億美元。儘管同期全球智慧手機出貨量有所下滑，但營收仍創下第二季度歷史新高，這主要源於全球智慧手機平均售價的顯著上漲。 資料顯示，2026年第二季度全球智慧手機平均售價同比增長17%，達到第二季度歷史最高點400美元。這意味著消費者購買一部普通智慧手機的門檻正在顯著抬升，購機成本正在變得更高。
+
+---
+
+### 2026-08-07 15:09:49  #公司
+
+SK海力士因公司準備推出股東回報方案，紐交所上市存託憑證跌幅收窄。
+
+---
+
+### 2026-08-07 15:09:42  #MKT News #Market Regions #Greater China
+
+【China issues 15th Five-Year Plan for civil aviation development】China's Civil Aviation Administration, National Development and Reform Commission and Ministry of Transport jointly released the 15th Five-Year Plan for civil aviation. The plan mandates construction of a coordinated infrastructure system with moderately forward capacity planning while avoiding excessive overbuilding, and prioritizes smart, green and integrated infrastructure. It directs simultaneous upgrading of existing assets and optimization of new capacity, accelerating infrastructure renewal and digital-intelligent transformation to enhance safety and operational sustainability and achieve first-class facilities. The plan also calls for a domestically controllable innovation support system, demand-led problem solving, safe development of low-altitude civil aviation, faster civil aviation digitalization and technological self-reliance, and integrated development of education, science and talent to cultivate new productive capacity in the sector.
+
+---
+
+### 2026-08-07 15:09:04  #其他
+
+【《民用航空發展“十五五”規劃》印發】中國民航局、國家發展改革委、交通運輸部近日聯合印發《民用航空發展“十五五”規劃》。規劃明確，到2030年，民航行業安全水平、服務能力、基礎設施率先邁向國際一流，技術創新、綠色低碳、治理能力實現重大突破性進展，服務國家重大戰略、促進區域經濟社會發展和滿足人民美好航空出行需要更加有力。規劃提出，“十五五”時期，圍繞上述目標，民航行業將全力推進六大體系建設。一是全力構築堅實可靠的航空安全保障體系。二是全力打造優質高效的航空運輸服務體系。三是全力建設系統協同的基礎設施體系。四是全力構建自主可控的創新支撐體系。五是全力建設可持續的綠色發展體系。六是全力構建規範有序的民航治理體系。
+
+---
+
+### 2026-08-07 15:08:39  #其他
+
+【國防部：向為國鑄盾的國防科技工作者致敬 】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。 記者：據報道，國防科技大學計算機學院王戟研究員被中央宣傳部授予“時代楷模”稱號，受到全民廣泛關注、全網熱議點贊。請介紹有關情況。 陳曦：王戟研究員是我國高可信軟體領域主要開拓者，紮根軍事教學科研一線三十餘年，始終秉持立德樹人、為戰育人初心，忠實履行以戰領研、科研為戰使命。面對高位截肢、腎衰竭等重大疾病打擊，他仍以堅韌意志和樂觀精神堅守戰位、忘我奮鬥，堅定不移攻堅國防科技自主創新高地，為大國重器關鍵軟體安全可靠作出重要貢獻。眾多網友被這位“挺好的”教授所感動、所鼓勵，稱讚他“身如長戟，為國而立；胸懷赤誠，志在強軍”。 生命向前，衝鋒不止。王戟的微笑與堅守是所有國防科技工作者默默奉獻、為國鑄盾的縮影，我們向這些以身許黨許國的楷模致以崇高敬意和誠摯祝福。廣大官兵將以他們為榜樣，牢記初心使命，勠力奮鬥強軍，以嶄新政治面貌迎接建軍一百週年。
+
+---
+
+### 2026-08-07 15:08:28  #公司
+
+【湖南裕能在貴州成立新能源電池材料公司】企查查APP顯示，近日，裕能甕發（貴州）新能源電池材料有限公司成立，註冊資本15億元，經營範圍包含電子專用材料製造；電子專用材料研發；電子專用材料銷售；化肥銷售。企查查股權穿透顯示，該公司由湖南裕能(301358)全資持股。
+
+---
+
+### 2026-08-07 15:07:39  #宏觀
+
+【國防部：推動基本實現國防和軍隊現代化取得決定性進展】 8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。
+
+記者：近日，中共中央政治局就高質量推進國防和軍隊現代化進行第二十七次集體學習，習主席在主持學習時發表重要講話。請問軍隊將如何學習貫徹習主席重要講話精神？
+
+陳曦：習主席重要講話站在時代發展和戰略全域性的高度，深刻闡述了高質量推進國防和軍隊現代化的重大意義，全面總結了新時代以來國防和軍隊現代化建設取得的偉大成就，科學回答了高質量推進國防和軍隊現代化一系列帶方向性、根本性、全域性性的重大問題，進一步感召和激勵全軍官兵以奮鬥姿態、嶄新面貌，推動基本實現國防和軍隊現代化取得決定性進展，加快把人民軍隊建成世界一流軍隊。
+
+國防和軍隊現代化，是為實現中華民族偉大復興提供戰略支撐的現代化，是機械化資訊化智慧化融合發展的現代化，是永葆人民軍隊性質宗旨本色的現代化。新徵程上，全軍始終堅持以習近平新時代中國特色社會主義思想為指導，深入貫徹習近平強軍思想，堅持和加強黨對軍隊的絕對領導，全面落實新時代政治建軍方略；加快先進戰鬥力有效供給，逐步構建智慧化軍事體系；加強作戰能力體系整合，紮實推進練兵備戰；加強軍事治理，調動軍地各方力量，凝心聚力推動國防和軍隊現代化行穩致遠，為以中國式現代化全面推進強國建設、民族復興偉業提供堅強戰略支撐。（國防部發布）
+
+---
+
+### 2026-08-07 15:07:29  #其他
+
+【港交所：證券市場市價總值7月底為46.8萬億港元，同比上升4%】8月7日，香港交易所資料顯示：證券市場市價總值於2026年7月底為46.8萬億港元，同比上升4%。2026年7月的平均每日成交金額為3072億港元，同比上升17%。2026年首七個月的平均每日成交金額為2868億港元，同比上升18%。2026年首七個月的牛熊證平均每日成交金額為131億港元，同比上升36%。2026年首七個月的交易所買賣基金平均每日成交金額為406億港元，同比上升22%。2026年首七個月的槓桿及反向產品平均每日成交金額為105億港元，同比上升169%。
+
+---
+
+### 2026-08-07 15:07:16  #MKT News #Market Regions #Greater China #Market Themes #Crypto Concepts #Commodities #Precious Metals #SSE Composite #Impact bullish #SZSE Component #Copper
+
+【China A-shares close higher; major indexes up >1%, CRO and PCB sectors lead】China A-shares closed higher: Shanghai Composite +1.02%, Shenzhen Composite +1.42%, ChiNext +1.35%. CRO sector saw a wave of limit-ups, including Yiqiao Shenzhou; CPO stocks strengthened with Woge Optoelectronics posting a fourth consecutive limit-up. PCB names extended gains, with Jingwang Electronics and others hitting limit-up; minor-metals names active and China Rare Earths reached limit-up. Components, electronic chemicals, precious metals and semiconductors were among top gainers; digital currency, gaming, coal and bank sectors lagged. Over 2,800 stocks rose; total turnover exceeded 2.6 trillion yuan.
+
+---
+
+### 2026-08-07 15:07:13  #其他
+
+【河南迴應帶薪錯峰休假通知引爭議：程式審籤不規範，待修改後予以印發】據河南省人力資源和社會保障廳，《關於進一步推動落實職工帶薪錯峰休假的通知》（豫人社辦〔2026〕53號）釋出後，得到社會關注，並提出意見建議。鑑於該文相關表述不夠準確，程式審籤不規範，待修改後予以印發。（新黃河）
+
+---
+
+### 2026-08-07 15:07:09  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
+
+France Forex Reserves Increase in July — France’s official reserve assets increased to €357.05 billion at the end of July 2026 from an eight-month low of €355.39 billion in June, mainly driven by an increase in foreign currency reserves. Foreign currency reserves climbed to €34.37 billion from €32.42 billion in the previous month. Meanwhile, gold reserves declined to €276.79 billion from €277.03 billion, claims on the IMF fell to €39.42 billion from €39.46 billion, and other reserve assets decreased to €6.46 billion from €6.48 billion. In July 2025, total reserve assets stood at €303.04 billion.
+
+---
+
+### 2026-08-07 15:06:42  #MKT News
+
+【China, Belarus to hold 'Shenying-2026' airborne joint training】China and Belarus will hold 'Shenying-2026' airborne joint training in Hubei in mid‑to‑late August, the Chinese defense ministry said. Focused on joint urban counterterrorism operations, the drills will practice reconnaissance and counter‑reconnaissance, seizure and defense, and clearing and holding. This is the fourth iteration of the series and is aimed at improving participating units' combat readiness and deepening bilateral military cooperation.
 
 ---
 
@@ -18468,173 +18564,5 @@ All three major A-share indices turned positive; China State Shipbuilding-linked
 ### 2026-08-06 10:25:44  #MKT News #Important #Commodities #Industrial Metals
 
 【Weda Bay Nickel granted additional c.25 mln wet tonnes RKAB nickel-ore quota】Weda Bay Nickel (WBN) has been granted an additional about 25 mln wet tonnes (wmt) RKAB nickel-ore quota for H2 2026. Including H1 approvals, WBN’s 2026 total RKAB quota rises to about 37 mln wmt; as one of Indonesia’s largest nickel-ore suppliers, the extra quota is expected to further secure feedstock for downstream smelters in H2.
-
----
-
-### 2026-08-06 10:25:35  #MKT News
-
-Fitch expects Vietnam's credit growth to reach 18% this year, above the VIETNAM CENTRAL BANK's 15% guidance.
-
----
-
-### 2026-08-06 10:25:05  #公司 #市場
-
-半導體產業鏈震盪拉昇，匯成股份、歐萊新材、甬矽電子漲超10%，有研新材此前2連板，和林微納、長電科技漲超6%。
-
----
-
-### 2026-08-06 10:24:22  #其他
-
-高市早苗：新稅收抵免制度的益處將超過減稅。
-
----
-
-### 2026-08-06 10:24:21  #MKT News
-
-Fitch says Malaysia's major banks are well positioned to withstand slower growth and profit pressure.
-
----
-
-### 2026-08-06 10:24:13  #MKT News
-
-Fitch says Vietnam's banking system faces significant stress and will need to finance the economy and provide support.
-
----
-
-### 2026-08-06 10:23:29  #國際
-
-【特朗普聲稱叫停對伊朗“二戰後最大規模打擊”】美國總統特朗普5日在美國拉斯維加斯一場活動上表示，仍願與伊朗達成協議。特朗普說，美國此前已準備對伊朗發動“二戰以來規模最大的軍事打擊”，並且過去數月已對伊朗實施多次沉重打擊。他聲稱是伊朗請求美方取消襲擊、重啟談判。事後，伊朗方面否認了相關表態，但特朗普強調美方仍在與伊朗談判。（新華社）
-
----
-
-### 2026-08-06 10:22:36  #公司 #市場
-
-【閃迪CEO：已簽署8份NBM長期協議 資料中心需求極度旺盛】美東時間週三盤後，閃迪公司管理層在財報會上宣佈，公司已與8家覆蓋資料中心、邊緣賽道的多元化客戶達成NBM長期協議，2027財年NBM協議供貨位元量佔公司總出貨位元50%以上，2028財年佔比約三分之二。公司CEO直言：“過去我們只能預判三個月以內需求，如今手握四年以上鎖定採購量與明確盈利模型，對接全球頂級科技企業，進展超乎預期…部分最大客戶簽約僅一個季度後，就主動追加未來採購需求，足以證明當下需求環境極度旺盛，資料中心賽道尤為突出。”
-
----
-
-### 2026-08-06 10:21:53  #其他
-
-【資生堂上半年利潤大增，中國市場二季度恢復增長】資生堂2026年上半年淨銷售額為4990億日元，同比增長6.2%，按可比口徑基本持平；核心營業利潤同比增長90.1%至444億日元，歸母淨利潤增長211.4%至297億日元。中國及旅遊零售業務銷售額為1914億日元，同比增長10%，按可比口徑微降0.1%。其中，中國市場二季度消費者購買額實現低個位數增長，線下渠道增長中個位數，電商增長低個位數。618期間集中投入重點產品，推動肌膚之鑰和NARS表現提速，安熱沙降幅收窄。
-
----
-
-### 2026-08-06 10:21:49  #MKT News #Important #Market Themes #AI Revolution #00100.HK #Impact bullish #02513.HK #02476.HK
-
-Hong Kong AI stocks advanced: MINIMAX-W (00100.HK) up over 15%, Zhipu (02513.HK) up over 9%, Shenghong Technology (02476.HK) up over 7%, Cambridge Technology (06166.HK) up over 3%.
-
----
-
-### 2026-08-06 10:21:38  #其他
-
-高市早苗：兩年後恢復8%的食品銷售稅並非加稅。
-
----
-
-### 2026-08-06 10:21:37  #Trading Economics #Economy #Brunei #Balance of Trade #Importance 1
-
-Brunei Trade Surplus Widens Sharply — Brunei’s trade surplus jumped to BND 457.2 million in May 2026 from BND 254.5 million in the same month a year earlier as exports grew faster than imports. Year-on-year, exports surged 52.8% to BND 1.57 billion, largely boosted by strong gains in mineral fuels (80.7%). Australia was the largest export destination, accounting for 28.3% of total shipments, followed by the Philippines (14.1%), Japan (13.0%), Singapore (11.4%), and China (9.9%). Imports grew at a milder 44.0% to BND 1.12 billion, driven by a sharp rise in mineral fuel purchases (66.7%). Malaysia was the top source of imports, supplying 69.5% of total inbound shipments, ahead of Australia (10.5%), Vietnam (4.9%), China (2.8%), and the U.S. (2.6%). For the first five months of 2026, trade surplus soared to BND 3.15 billion from BND 2.12 billion in the same period last year, as exports rose 27.7% while imports grew more slowly by 15.6%.
-
----
-
-### 2026-08-06 10:21:12  #市場
-
-中國黃金協會表示，今年上半年，重點產金省份開展礦山安全大排查大整治與專項治理等，部分礦山停產自查，在一定程度上影響了國內黃金產量。 中國黃金協會表示，隨著金價高位大幅波動疊加黃金稅收新規落地實施，國內黃金消費結構持續分化，金條、金幣成為市場熱門品類。同時，高金價推高了工業企業用金成本，工業用金量隨之下降。（新華社）
-
----
-
-### 2026-08-06 10:20:24  #MKT News
-
-【Housing consumption rises to top of big-ticket spending; hotspot cities preparing demand-support measures】Housing consumption has risen to the top of big-ticket spending, and multiple major property-market cities are preparing measures to boost housing demand. Chengdu is designing sales policies focused on optimizing supply, stimulating demand, reducing inventory and stabilizing expectations; measures remain under internal review and will be published once finalized. Hefei, aligning with national policy direction, is coordinating with relevant departments on an action plan to promote cross-sector linkage to support consumption. Wuhan is building a policy toolkit for H2 aimed at linking primary and secondary markets, accelerating commercial/office destocking (including conversions), and increasing supply of higher-quality housing. Nanjing plans timely policy tweaks to expand listings of diversified “good homes” and run trade-in-for-new programs to unlock rigid and upgrade demand. Hangzhou, Qingdao, Chongqing and Jinan say they are keeping policy reserves and will dynamically adjust measures to stabilize the real estate market.
-
----
-
-### 2026-08-06 10:20:00  #其他
-
-【滴滴旗下99與巴西汽車租賃企業Movida簽署合作協議】8月6日訊息，滴滴旗下巴西一站式本地生活服務平臺99與巴西汽車租賃企業Movida簽署合作協議，雙方將面向99平臺網約車司機推出包含新能源汽車在內的優惠租賃計劃，預計未來三年惠及至少5萬名司機。99平臺上的網約車司機可申請Movida提供的車輛租賃服務，以更優惠的價格租賃適合網約車運營的車輛。雙方預計，此次合作將幫助司機降低約25%的租車成本。
-
----
-
-### 2026-08-06 10:19:06  #市場
-
-【港股大模型概念股大幅拉昇，MINIMAX-W漲超14%】港股大模型概念股大幅拉昇，MINIMAX-W漲超14%，智譜漲超8%。
-
----
-
-### 2026-08-06 10:18:57  #宏觀
-
-【住房消費躋身大宗消費首位 多個熱點城市正研究出臺住房消費提振舉措】7月份，國務院批覆的《擴大消費“十五五”規劃》對外發布，將住房消費納入大宗耐用商品消費範疇並置於首位。有機構認為，房地產的政策定位或向“防風險與促消費並重”轉變。記者獲悉，多個熱點城市正謀劃出臺住房消費提振舉措。其中，成都著力從優供給、增需求、去庫存、穩預期方面提出住房銷售政策，包括最佳化供給促進供需平衡、支援住房消費滿足多元需求等，目前相關政策尚在內部研究中，最終確定後將第一時間公開發布；合肥正結合國家政策導向，會同相關部門統籌研究促進“大消費”部門協同聯動行動方案。另外，記者獲悉，武漢積極做好政策研究儲備工作，下半年擬從一二手房市場聯動、商辦去化、高品質住房供應等完善政策工具箱；南京將結合市場實際適時最佳化相關政策舉措，加大多樣化“好房子”上市供應，深入開展住房消費“以舊換新”等活動，進一步促進居民各類剛性和改善性住房需求有效釋放；另外，杭州、青島、重慶、濟南等熱點城市也向記者透露，將持續做好政策儲備和動態最佳化調整工作，著力穩定房地產市場。（人民財訊）
-
----
-
-### 2026-08-06 10:17:12  #其他
-
-【中國機械工業聯合會：新能源汽車上半年滲透率達49.6%】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，新能源汽車在整體汽車市場承壓背景下實現逆勢增長，市場滲透率達到49.6%，成為拉動汽車行業市場需求的重要力量。
-
----
-
-### 2026-08-06 10:17:09  #其他
-
-莫德納：預計未來幾周，流感疫苗MflusiVa將在部分零售商處供貨。
-
----
-
-### 2026-08-06 10:17:02  #國際
-
-莫德納：其流感疫苗MFLUSIVA獲美國食品藥品監督管理局批准，可用於50歲及以上成年人群接種。
-
----
-
-### 2026-08-06 10:16:55  #公司 #國際 #原創
-
-【OpenAI披露其智慧體“聯手越獄”細節 攻破Hugging Face前已協作數月】OpenAI表示，對Hugging Face發起攻擊的一組人工智慧模型，早在5月就已透過未被察覺的留言板彼此通訊，並協同合作以突破測試環境。OpenAI研究員Eric Wallace和Michael Dalton週三在一場網路安全會議上表示，多個僅限內部使用的AI智慧體和模型花費數月時間互相留便條，並逐漸圍繞一個共同目標展開合作：接入網際網路以完成被分配的任務，而其中一些任務在沒有網路連線的情況下根本無法完成。Wallace在拉斯維加斯舉行的Black Hat網路安全大會上表示：“在某個時刻，這些智慧體意識到，或許可以嘗試利用或攻擊外部基礎設施，以找到它們正在接受測試的問題答案。”研究人員披露的內容進一步揭示了Hugging Face遭入侵事件的細節。這起事件凸顯出全球日益加劇的擔憂，即前沿AI系統可能被用於發動破壞性網路攻擊。該事件以及Anthropic PBC和Meta Platforms Inc.此前披露的類似安全事故，已促使華盛頓和矽谷呼籲加強對AI模型的安全審查。
-
----
-
-### 2026-08-06 10:15:36  #MKT News
-
-【Singapore trade minister: new 12.5% US tariffs to hit S$95 billion (US$7.4 billion) of exports】Singapore Trade Minister Gan Kim Yong said about one-third of Singapore’s exports to the United States will be subject to the newly imposed 12.5% tariff, affecting roughly S$95 billion (about US$7.4 billion) of goods, including optical instruments and chemical products.
-
----
-
-### 2026-08-06 10:15:24  #MKT News #005930.KS #Impact bearish
-
-Samsung Electronics shares extended losses to 6%.
-
----
-
-### 2026-08-06 10:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-Asia FX Updates: South Korean Won Appreciates by 0.32% — Top currency gainers are South Korean Won (0.32%) and Japanese Yen (0.07%).
-
----
-
-### 2026-08-06 10:14:34  #其他
-
-【天億馬聯合華南農業大學共建積體電路專業聯合實驗室】據天億馬訊息，近日，天億馬與華南農業大學人工智慧與低空技術學院共建的“積體電路專業聯合實驗室”正式揭牌成立。雙方將聚焦智慧農業積體電路設計核心方向，圍繞課程聯合開發、實習實訓落地、科創專案孵化、人工智慧賦能實驗室建設四大板塊，聯合攻關關鍵核心技術，精準對接產業崗位能力要求，定向培育適配行業發展的高素質複合型晶片人才，打通教育鏈、人才鏈、產業鏈、創新鏈的銜接壁壘，推動高校前沿科研成果向產業端高效轉化。
-
----
-
-### 2026-08-06 10:13:54  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量645億元。
-
----
-
-### 2026-08-06 10:13:19  #經濟數據 #中國
-
-【2026年上半年我國黃金產量同比下降14.62% 消費量同比增長1.23%】據中國黃金協會最新統計資料顯示：2026年上半年，國內原料產金152.908噸，同比減少26.175噸，同比下降14.62%；進口原料產金77.080噸，同比增加3.402噸，同比增長4.62%。國內原料和進口原料共計生產黃金229.988噸，同比減少22.773噸，同比下降9.01%。2026年上半年，我國黃金消費量511.412噸，同比增長1.23%。
-
----
-
-### 2026-08-06 10:12:44  #MKT News #XAUUSD #Impact mixed
-
-【China Gold Association: 1H 2026 domestic gold ETF inflows down 66.17% YoY】China Gold Association data show domestic gold ETF inflows in 1H 2026 totaled 28.677 tonnes, down 66.17% YoY. Domestic gold ETF holdings were 276.529 tonnes at end-June 2026. China increased official gold reserves by 40.12 tonnes in 1H 2026, bringing total reserves to 2,346.45 tonnes at end-June and ranking fifth globally. China has added to official gold reserves for 20 consecutive months from November 2024 through June 2026.
-
----
-
-### 2026-08-06 10:12:10  #MKT News #300750.SZ #Impact bearish #03750.HK #CSI300
-
-CATL A-shares down more than 3%; Hong Kong-listed CATL (03750.HK) down more than 2%.
 
 ---
