@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-10 02:57:41_
-_本檔包含 3150 則快訊，約 601055 字_
+_更新時間：2026-08-10 03:45:12_
+_本檔包含 3149 則快訊，約 601162 字_
+
+---
+
+### 2026-08-10 03:43:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Yemeni sources say Houthi forces have resumed missile and drone attacks on the port of Mocha.
+
+---
+
+### 2026-08-10 03:42:38  #國際
+
+伊朗議會議長卡利巴夫：伊朗今天正處於其歷史上最敏感的階段之一，並在地區及世界安全中發揮著無與倫比的作用。
+
+---
+
+### 2026-08-10 03:42:38  #MKT News
+
+【Israel reallocates funds earmarked for Intel to add NIS1 bln to defense for urgent arms purchases】Israel approved an emergency appropriation on the 9th to reallocate funds originally earmarked for an Intel project, adding NIS1 bln to the defense budget for urgent weapons procurement. The transfer was described as a specially urgent measure tied to the current state of emergency; a ministerial procurement committee had approved the move on the 6th. Authorities said the reallocation will not breach the existing national budget framework.
+
+---
+
+### 2026-08-10 03:39:47  #其他
+
+葉門軍方發言人表示，胡塞武裝已恢復用導彈和無人機攻擊穆哈港。
+
+---
+
+### 2026-08-10 03:39:38  #市場
+
+悉尼早盤交易中，美元兌風險貨幣走強。
+
+---
+
+### 2026-08-10 03:39:31  #國際
+
+伊朗巴斯基組織副負責人：穆傑塔巴公開露面以及與指揮官舉行會議的影像資料將於後續對外公佈。
+
+---
+
+### 2026-08-10 03:38:47  #公司 #國際
+
+【以色列政府被曝將投資專款挪至國防預算 緊急採購武器】據以色列方面9日訊息，以色列政府當天批准一項緊急撥款計劃，決定挪用原定給英特爾公司的專案資金，向國防部門追加10億新謝克爾預算，用於緊急採購武器。據悉，以色列政府透過的這項提案將此次撥款描述為特別緊急的資金轉移，並稱此舉是鑑於以色列目前所處的緊急狀態。該決定此前已於6日獲得負責採購的以政府部長級委員會批准。此次追加預算不會突破現有的國家預算框架。
+
+---
+
+### 2026-08-10 03:36:40  #MKT News
+
+【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend.
+
+---
+
+### 2026-08-10 03:23:18  #國際
+
+北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。兩架飛機均被安全護送出該區域，未發生其他意外事件。
+
+---
+
+### 2026-08-10 03:22:38  #MKT News
+
+ISNA reported Iran convened the Economic Relations Coordination Council to discuss the role of northern ports in securing supplies of essential commodities.
+
+---
+
+### 2026-08-10 03:20:33  #MKT News
+
+【Netanyahu rejects Gaza peace plan; Peace Committee responds to Israeli concerns】Prime Minister Netanyahu has rejected a 15-point Gaza peace plan, Channel 12 reported. Nikolay Mladenov, the Peace Committee’s senior Gaza representative, said the plan — signed between the Peace Committee and Hamas — ties any Israeli withdrawal to phased, district-by-district demilitarization: Israeli forces would pull back only after weapons, tunnels and related infrastructure in each area are removed and Hamas transfers governance responsibilities. Mladenov said Hamas has agreed to immediately cease all military activity and warned the process would stop immediately if Hamas fails to fulfill its commitments. The Peace Committee urged Israel to give the process a chance and said consultations are ongoing.
+
+---
+
+### 2026-08-10 03:19:42  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+A Yemeni military source said citizens should avoid areas where Saudi forces are massing.
+
+---
+
+### 2026-08-10 03:02:45  #MKT News #XAUUSD #Impact bullish #DXY #Impact mixed #S&P500 #Impact bearish
+
+【Former U.S. security officials warn Trump is following 'dictator's playbook', say U.S. security at risk】The Financial Times reports a former senior U.S. intelligence official warned that in a second term Donald Trump is following a 'dictator's playbook,' weakening checks on his power and degrading U.S. security. Trump, who pledged to fight the 'deep state' on returning to the White House, has sought to suppress critics and demand personal loyalty. Former CIA station chief Paul Kolbe said dictators follow a common script for seizing and exercising power that mirrors current U.S. developments. National security lawyer Mark S. Zaid, whose security clearance was revoked by the White House last year and who is in legal dispute with Trump, warned the president will continue to consolidate power: All safeguards have been removed, the worst is far from over.
+
+---
+
+### 2026-08-10 02:58:09  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+RIA reported Russian forces struck the Odesa thermal power plant and seven Ukrainian substations.
+
+---
+
+### 2026-08-10 02:57:52  #國際
+
+白宮新聞秘書萊維特：特朗普期待週二前往俄亥俄州參加愛國者運動會。
 
 ---
 
@@ -18881,101 +18971,5 @@ Slovakia Trade Surplus Narrows in June — Slovakia posted a trade surplus of EU
 ### 2026-08-07 15:34:43  #公司 #市場
 
 【Lazard新興市場股票基金抄底三星 看好記憶體晶片上行週期】Lazard Asset Management一隻規模96億美元基金的管理者，藉助三星電子7月暴跌的時機，一年多來首次將該股納入投資組合。Monika Shrestha是Lazard新興市場股票投資組合的聯席管理人，她押注推動三星錄得鉅額利潤的記憶體晶片上行週期將會持續進入2028年。資料顯示，她管理的這隻基金在過去一個月跑贏93%的同行，過去五年跑贏98%的同行。Shrestha在接受採訪時表示，三星近期股價下跌是“一個具吸引力的買入機會”。儘管交易過度擁擠及劇烈波動嚇壞了AI主題投資者，但她預計大型科技公司支出推動晶片銷售強勁增長的整體敘事仍然不變。
-
----
-
-### 2026-08-07 15:34:23  #公司
-
-【岱美股份：子公司火災事故保險理賠完成 獲賠3937.20萬美元】岱美股份公告稱，公司墨西哥子公司岱美墨西哥一處廠房2025年5月11日發生火災，損失約3375.10萬美元（摺合人民幣2.42億元），已在2025年半年度報告中全額計提。岱美墨西哥此前申請保險理賠約4628萬美元。近日，岱美墨西哥收到最後一期1063.80萬美元賠償款，將計入2026年第三季度財務報表收益。截至公告披露日，已獲賠3937.20萬美元，理賠手續完成，賠償款已覆蓋損失。
-
----
-
-### 2026-08-07 15:34:07  #其他
-
-【“科學”號完成西太平洋共享航次科考凱旋歸港】8月7日，“科學”號綜合考察船在完成2026年度西太平洋科學考察共享航次後回到青島。（央視新聞）
-
----
-
-### 2026-08-07 15:34:00  #其他
-
-國家海洋預報臺8月7日16時釋出風暴潮黃色警報：受冷空氣的影響，預計：8月7日下午至8日中午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市和滄州市的風暴潮預警級別為黃色，天津市和山東省濱州市的風暴潮預警級別為藍色。
-
----
-
-### 2026-08-07 15:33:57  #其他
-
-上期所：本週銅庫存增加782噸，鋁庫存減少13003噸，鋅庫存增加127噸，鉛庫存減少919噸，鎳庫存增加1277噸，錫庫存增加160噸，天然橡膠庫存減少1190噸。
-
----
-
-### 2026-08-07 15:33:56  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
-
-Shanghai Futures Exchange week-on-week warehouse stocks: copper rose 782 tonnes, aluminium fell 13,003 tonnes, zinc rose 127 tonnes, lead fell 919 tonnes, nickel rose 1,277 tonnes, tin rose 160 tonnes, natural rubber fell 1,190 tonnes.
-
----
-
-### 2026-08-07 15:33:32  #公司
-
-【津藥藥業：子公司氨甲環酸氯化鈉注射液獲藥品註冊證書】津藥藥業(600488.SH)公告稱，公司子公司湖北津藥收到國家藥監局核准簽發的氨甲環酸氯化鈉注射液《藥品註冊證書》。該藥品主要用於急性或慢性、侷限性或全身性原發性纖維蛋白溶解亢進所致的各種出血，按化學藥品3類註冊申報，獲批後視為透過仿製藥質量和療效一致性評價。該藥品獲批將完善公司製劑產品群，對拓展國內製劑市場、提升業績帶來積極影響。
-
----
-
-### 2026-08-07 15:33:14  #公司
-
-【巨星農牧：7月商品肥豬銷售量33.98萬頭，同比增6.46%】巨星農牧公告，2026年7月商品肥豬銷售量33.98萬頭，同比增6.46%；當月銷售收入4.38億元，當月銷售均價9.96元/公斤。本年累計銷售量258.78萬頭，累計銷售收入34.74億元。
-
----
-
-### 2026-08-07 15:33:01  #其他
-
-【遼寧省大連市文學藝術界聯合會原主席王會軍接受審查調查】中央紀委國家監委網站8月7日通報，據大連市紀委監委訊息：遼寧省大連市文學藝術界聯合會原黨組書記、主席王會軍涉嫌嚴重違紀違法，目前正接受大連市紀委監委紀律審查和監察調查。
-
----
-
-### 2026-08-07 15:32:50  #國際
-
-【SK海力士將在韓國投資超54萬億韓元擴張晶片業務】SK海力士8月7日在韓國交易所披露，計劃2031年4月30日前在韓國清州M17晶片廠投資19.1萬億韓元，以確保中長期產能以滿足儲存器市場需求；另外計劃2031年10月31日前在龍仁半導體產業園投資35.2萬億韓元用於二期晶圓廠建設。
-
----
-
-### 2026-08-07 15:32:45  #公司 #市場
-
-【上期所：7月對11個實際控制關係賬戶組採取限制開倉監管措施】8月7日，上海期貨交易所釋出2026年7月自律監管資訊公告。2026年7月份，處理異常交易行為33起，其中自成交超限16起，頻繁報撤單超限6起，日內開倉量超限11起，均透過會員單位對上述達到異常交易處理標準的客戶進行提示。對11個實際控制關係賬戶組採取限制開倉的監管措施並進行全市場公告。實際控制關係賬戶認定與協查方面，對648組1415個客戶進行實際控制關係認定。上海期貨交易所提醒交易者在日常交易中注意合規風險並做好實際控制關係賬戶的報備。
-
----
-
-### 2026-08-07 15:32:41  #MKT News #Important #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-【SK Hynix to invest $38.4 bln to expand chip operations in South Korea】SK Hynix said it will invest $38.4 bln to expand chip operations in South Korea. It plans to put 19.1 trillion won (≈ $13.47 bln) into the M17 fab in Cheongju, with that investment to be completed by 2031, and 35.2 trillion won (≈ $24.9 bln) for construction of a second‑phase chip fab in Yongin.
-
----
-
-### 2026-08-07 15:32:39  #公司
-
-【環旭電子：7月營收55.49億元，同比增12.98%】環旭電子公告，2026年7月合併營業收入為人民幣55.49億元，較去年同期增加12.98%，較2026年6月環比增加15.52%；2026年1月至7月合併營業收入為人民幣328.85億元，較去年同期增加2.37%。
-
----
-
-### 2026-08-07 15:32:35  #公司
-
-【傲農生物：7月生豬銷售量14.2萬頭，同比-0.44%】傲農生物公告，2026年7月公司生豬銷售量14.2萬頭，同比減少0.44%，較2026年6月減少27.57%；生豬存欄96.09萬頭，同比增長69.12%，較2026年6月增加16.68%，較2025年12月末增加29.27%。
-
----
-
-### 2026-08-07 15:32:30  #其他
-
-【德國聯邦檢方接手調查萊比錫機場無人機爆炸物事件】德國聯邦檢察院6日宣佈接手調查萊比錫機場發現搭載爆炸物無人機事件，稱其涉嫌危害德國國家安全。聯邦檢察院在一份宣告中說，在萊比錫機場查獲的這架無人機搭載制式爆炸物和引爆裝置，有充分證據證明作案者企圖製造爆炸。宣告稱，這是針對德國交通和物流基礎設施的重大襲擊圖謀，一旦得逞，恐危及德國安全。（新華社）
-
----
-
-### 2026-08-07 15:32:07  #其他
-
-EKNITI：資料中心或需配套自建電力、供水設施。
-
----
-
-### 2026-08-07 15:32:05  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
-
-India 10Y Yield Rises Ahead of Bond Sale — The yield on India’s 10-year G-Sec edged up to around 6.78% on Friday, retracing part of this week's decline as a sharp rebound in oil prices dampened demand for government bonds ahead of the New Delhi's INR 320 billion debt auction. Investors closely monitored the sale of five-year and 40-year securities for cues on demand, particularly for longer-dated debt. Meanwhile, Brent crude climbed to around $83.7 per barrel, up nearly 6% amid renewed concerns over shipping through the Strait of Hormuz, raising worries over India's import bill, inflation, and the rupee. Higher oil prices also pushed the US 10-year Treasury yield up to 4.68%, reducing the appeal of emerging-market debt. Still, expectations that the Reserve Bank of India will maintain ample banking system liquidity following its dovish policy decision and lower inflation forecast continued to underpin sentiment, while reports of RBI intervention in the foreign exchange market helped limit pressure on the rupee.
 
 ---

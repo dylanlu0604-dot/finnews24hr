@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-10 02:57:41_
-_本檔包含 3033 則快訊，約 600796 字_
+_更新時間：2026-08-10 03:45:12_
+_本檔包含 3024 則快訊，約 600773 字_
+
+---
+
+### 2026-08-04 07:38:34  #資料 #市場 #央行 #國際
+
+【韓國通脹降溫幅度超預期 但不太可能改變央行緊縮立場】韓國7月消費者通脹放緩幅度超預期，回落至3%以下，這讓政策制定者鬆了一口氣。此前一個月，物價漲幅曾加速至2023年底以來的最高水平。韓國資料統計部週二公佈，7月消費者價格指數(CPI)同比上漲2.8%，為4月以來最低漲幅，6月為3.2%。 儘管最新資料可能緩解外界對通脹再次加速的擔憂，但相關數字仍遠高於韓國央行目標，因此不太可能改變其政策前景。官員們一直表示，鑑於消費者價格堅挺、經濟增長強勁以及房價高企，有必要維持緊縮傾向。
+
+---
+
+### 2026-08-04 07:37:00  #市場 #央行 #國際
+
+【美國出手干預後，投資者對日元走勢仍持懷疑態度】罕見的美日聯合干預匯市行動幫助疲軟的日元脫離了40年低點。但要維持提升後的日元匯率水平可能是一場硬仗。美國的參與為日本官方近期單方面採取的干預行動增添了分量。日本此前的干預勉強將日元匯率託底在1美元兌160日元左右，但未能為日元提供持久的提振。日本財務大臣週一表示，日本“將毫不猶豫的”與美國一道再次干預匯市。分析師表示，即使有美國的支援，如果日本央行不改變政策，日元可能再次舉步維艱。儘管面臨高於目標的通脹，但在與通縮這一截然相反的風險鬥爭了數十年之後，日本央行對加息一直持謹慎態度。這種謹慎促使投資者轉向其他貨幣，以期從短期債券中賺取更高回報。Edmond de Rothschild的基金經理納比爾.米拉利(Nabil Milali)表示：“如果日本央行不收緊貨幣政策，日元將無法維持上漲勢頭。”
+
+---
+
+### 2026-08-04 07:35:44  #公司 #國際
+
+【澳洲航空將出售捷星日本股份，預計2027財年獲利1.15億澳元】8月4日，澳洲航空公司發表宣告稱，已與日本航空公司簽訂協議，將透過股份回購方式，出售其持有的捷星日本33.32%的少數股權。  該股份回購交易估值為82億日元，預計將在2027財年為澳洲航空集團帶來約1.15億澳元的基礎專案外收益。
+
+---
+
+### 2026-08-04 07:35:35  #其他
+
+閃迪與SK海力士釋出首個開放計算專案（OCP）技術規範，推進高頻寬快閃記憶體的全球標準化程序。
+
+---
+
+### 2026-08-04 07:33:58  #國際
+
+【民調：民主黨經濟管理評價10年來首次領先共和黨】路透/益普索的一項民調顯示，美國民眾認為民主黨比共和黨更善於管理經濟，為近10年來首見；民調還顯示，民眾對總統特朗普執政表現的認可度已降至35%。這項民調於週三至週一進行，結果表明，特朗普的經濟治理表現，可能會影響共和黨11月中期選舉的勝算，而此次選舉將決定未來兩年國會控制權的歸屬。路透/益普索民調顯示，特朗普支援率從上月的37%降至35%，僅比任內支援率低位高出1個百分點。在接受民調的登記選民中，約37%認為民主黨的治理經濟路線更好，而選擇共和黨的比例為36%。另有27%的人表示不確定，或認為其他政黨會做得更好。在2017年至2021年特朗普首個總統任期的大部分時間裡，以及民主黨總統拜登執政的整個四年期間 ，共和黨在經濟議題一直獲得較高評價，並延續到特朗普第二個任期。
+
+---
+
+### 2026-08-04 07:33:08  #公司
+
+【蘋果新任CEO據悉邀請已退休的硬體部門負責人加入管理團隊】據報道，蘋果公司即將上任的執行長約翰·特納斯（John Ternus）正將一位曾在自己負責硬體工程期間共事過的得力助手重新招致麾下，加入其新的管理團隊。報道稱，特納斯已聘請勞拉·萊格羅斯加入團隊，萊格羅斯此前曾擔任硬體工程副總裁，直至2022年退休。
+
+---
+
+### 2026-08-04 07:32:47  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Decline as US-Iran Talks Eyed — Brent hovered around $83.5 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023.
+
+---
+
+### 2026-08-04 07:32:23  #市場
+
+日經指數期貨在新加坡交易所開盤跌120點，報63560點。
+
+---
+
+### 2026-08-04 07:32:02  #央行 #市場
+
+【專家：預計下一步央行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕】東方金誠首席宏觀分析師王青表示，在前期公開市場各項操作適度調減等因素帶動下，當前DR001（銀行間市場存款類機構隔夜質押回購利率）等主要市場利率已回升到政策利率附近，7月份中期流動性恢復淨投放。預計下一步中國人民銀行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕，DR001等主要市場利率持續大幅向上偏離政策利率的可能性很小。 值得一提的是，當前中國人民銀行已設立隔夜逆回購工具，並正在增加操作頻率。王青認為，這將進一步控制DR001的波動，為推動貨幣政策框架向價格型轉型創造有利條件。
+
+---
+
+### 2026-08-04 07:31:44  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Decline as US-Iran Talks Eyed — Crude oil hovered near $80 per barrel on Tuesday after tumbling about 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023.
 
 ---
 
@@ -18201,119 +18261,5 @@ SCHUMER said the continuing resolution released today is the responsible choice.
 ### 2026-08-03 03:45:38  #公司
 
 【下週美股財報提醒】週一（8月3日），Palantir、安森美半導體等將釋出業績報告；週二，SpaceX、AMD、卡特彼勒等將釋出業績報告；週三，諾和諾德、閃迪、西部資料、迪士尼等釋出業績報告。
-
----
-
-### 2026-08-03 03:41:39  #MKT News
-
-【3.3-magnitude quake in Gaoxian County, Yibin (Sichuan); depth 5 km】cenc recorded a 3.3-magnitude earthquake at 03:29 on Aug 3 in Gaoxian County, Yibin, Sichuan (28.55N, 104.67E); hypocenter depth 5 km.
-
----
-
-### 2026-08-03 03:37:19  #MKT News
-
-Morocco's interior ministry said Spain's recent ruling restricting maritime interception and immediate repatriation has encouraged some potential migrants to attempt crossings.
-
----
-
-### 2026-08-03 03:36:52  #其他
-
-摩洛哥內政部稱，10人在大規模越境進入休達事件中喪生。
-
----
-
-### 2026-08-03 03:35:58  #其他
-
-摩洛哥內政部表示，西班牙近期限制海上攔截立即遣返的裁決，助長了部分潛在移民的嘗試意願。
-
----
-
-### 2026-08-03 03:35:55  #MKT News
-
-Morocco's Interior Ministry said it will continue coordinating with Spain to combat illegal migration and secure the border.
-
----
-
-### 2026-08-03 03:34:26  #MKT News
-
-Morocco's Interior Ministry blamed social-media misinformation and human traffickers for a surge in migrants to Ceuta, saying about 40,000 people attempted to cross into the Spanish enclave.
-
----
-
-### 2026-08-03 03:33:48  #其他
-
-摩洛哥內政部表示，約4萬人試圖進入西班牙飛地休達，另有約1135人試圖進入梅利利亞。
-
----
-
-### 2026-08-03 03:32:01  #其他
-
-摩洛哥內政部宣告稱，社交媒體虛假資訊與人販子是休達移民潮激增的幕後推手。
-
----
-
-### 2026-08-03 03:31:09  #其他
-
-中國地震臺網自動測定：08月03日03時29分在四川宜賓市高縣附近（北緯28.57度，東經104.69度）發生3.3級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-03 03:30:59  #市場
-
-悉尼早盤交易中，美元兌大多數G10貨幣走低。
-
----
-
-### 2026-08-03 03:24:28  #國際
-
-【阿斯利康與百時美施貴寶洽談合併事宜】知情人士稱，阿斯利康與百時美施貴寶已展開談判，商討兩家藥企合併為單一實體的交易。談判在近數月進行，交易仍存在破裂風險，報道未披露潛在交易的架構細節。阿斯利康是倫敦證券交易所大型上市企業之一，截至上週五市值1960億英鎊（摺合2640億美元）。百時美施貴寶市值1330億美元，若達成交易，將助力阿斯利康進一步紮根美國市場。
-
----
-
-### 2026-08-03 03:23:07  #MKT News #AZN.L #Impact bullish #BMY.O
-
-【AstraZeneca in talks with Bristol Myers Squibb on near $400 bln merger】Financial Times: AstraZeneca is exploring a merger with U.S. peer Bristol Myers Squibb that would create one of the world’s largest drugmakers with a combined market value near $400 bln. The companies have held talks in recent months and could reach an agreement soon, but negotiations may also be delayed or collapse. AstraZeneca’s market cap is about £196 bln; Bristol Myers Squibb’s is about $133 bln. The transaction would further accelerate AstraZeneca’s strategic shift toward the U.S. market.
-
----
-
-### 2026-08-03 03:19:54  #國際
-
-【以軍空襲加沙致18人死亡】巴勒斯坦加沙地帶民防部門發言人馬哈茂德·巴薩勒2日在一份影片宣告中表示，以軍無人機當天襲擊加沙地帶多地，造成至少18人死亡，其中包括2名婦女和4名兒童。
-
----
-
-### 2026-08-03 03:19:40  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-【Israeli airstrikes in Gaza Strip kill 18】Palestinian civil defense spokesman Mahmoud Bassal said in a video statement on the 2nd that Israeli drones and airstrikes struck multiple locations across the Gaza Strip, killing at least 18 people, including two women and four children. Bassal said targets included residential apartments, tents sheltering displaced people, civilian vehicles and gatherings. He said an Israeli drone fired two missiles at a civilian vehicle in Gaza City in the evening, killing four; an airstrike on a tent in west Gaza City killed two, including a 13-year-old, and wounded eight. Earlier, an airstrike on a jeep in central Deir al-Balah killed two, and a strike near Jabalia refugee camp in the north killed one and wounded several.
-
----
-
-### 2026-08-03 03:17:04  #MKT News #ATKR.O #Impact bullish #PRY.MI #Impact mixed
-
-【Prysmian nearing deal to buy US electrical maker Atkore】People familiar with the matter said Italy's Prysmian is in advanced talks to acquire US electrical-products maker Atkore in an all-cash transaction and is finalizing preparations for a deal that could be announced in coming days. Sources cautioned talks could still be delayed or fall apart. Atkore shares are up about 15% year-to-date, valuing the company at roughly $2.5 billion; Prysmian's shares have risen more than a third this year, valuing the group at about €36.3 billion ($41.8 billion).
-
----
-
-### 2026-08-03 03:13:07  #MKT News
-
-【China space station reports smooth progress in first on-orbit two-generation rice cultivation experiment】After more than two months aboard China's space station, Shenzhou-23 crew members Zhu Yangzhu, Zhang Zhiyuan and Li Jiaying are in good health and multiple space science experiments are proceeding as planned; the station's first continuous on-orbit cultivation of two rice generations has progressed smoothly.
-
----
-
-### 2026-08-03 03:12:35  #國際
-
-以色列總理發言人表示，以色列已就哈馬斯擬議解除武裝計劃向美國表達關切。
-
----
-
-### 2026-08-03 03:04:56  #國際
-
-伊朗媒體：在烏克蘭襲擊中遇襲的伊朗商船船員及遇難船員遺體已返回伊朗。
-
----
-
-### 2026-08-03 02:58:55  #國際
-
-義大利全球線纜龍頭普睿司曼接近達成收購美國電氣裝置製造商安科（Atkore）的交易。
 
 ---

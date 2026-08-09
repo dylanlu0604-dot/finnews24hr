@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-10 02:57:41_
-_本檔包含 3075 則快訊，約 601032 字_
+_更新時間：2026-08-10 03:45:12_
+_本檔包含 3075 則快訊，約 601135 字_
+
+---
+
+### 2026-08-07 15:34:23  #公司
+
+【岱美股份：子公司火災事故保險理賠完成 獲賠3937.20萬美元】岱美股份公告稱，公司墨西哥子公司岱美墨西哥一處廠房2025年5月11日發生火災，損失約3375.10萬美元（摺合人民幣2.42億元），已在2025年半年度報告中全額計提。岱美墨西哥此前申請保險理賠約4628萬美元。近日，岱美墨西哥收到最後一期1063.80萬美元賠償款，將計入2026年第三季度財務報表收益。截至公告披露日，已獲賠3937.20萬美元，理賠手續完成，賠償款已覆蓋損失。
+
+---
+
+### 2026-08-07 15:34:07  #其他
+
+【“科學”號完成西太平洋共享航次科考凱旋歸港】8月7日，“科學”號綜合考察船在完成2026年度西太平洋科學考察共享航次後回到青島。（央視新聞）
+
+---
+
+### 2026-08-07 15:34:00  #其他
+
+國家海洋預報臺8月7日16時釋出風暴潮黃色警報：受冷空氣的影響，預計：8月7日下午至8日中午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市和滄州市的風暴潮預警級別為黃色，天津市和山東省濱州市的風暴潮預警級別為藍色。
+
+---
+
+### 2026-08-07 15:33:57  #其他
+
+上期所：本週銅庫存增加782噸，鋁庫存減少13003噸，鋅庫存增加127噸，鉛庫存減少919噸，鎳庫存增加1277噸，錫庫存增加160噸，天然橡膠庫存減少1190噸。
+
+---
+
+### 2026-08-07 15:33:56  #MKT News #Important #Commodities #Industrial Metals #Copper #Impact bearish
+
+Shanghai Futures Exchange week-on-week warehouse stocks: copper rose 782 tonnes, aluminium fell 13,003 tonnes, zinc rose 127 tonnes, lead fell 919 tonnes, nickel rose 1,277 tonnes, tin rose 160 tonnes, natural rubber fell 1,190 tonnes.
+
+---
+
+### 2026-08-07 15:33:32  #公司
+
+【津藥藥業：子公司氨甲環酸氯化鈉注射液獲藥品註冊證書】津藥藥業(600488.SH)公告稱，公司子公司湖北津藥收到國家藥監局核准簽發的氨甲環酸氯化鈉注射液《藥品註冊證書》。該藥品主要用於急性或慢性、侷限性或全身性原發性纖維蛋白溶解亢進所致的各種出血，按化學藥品3類註冊申報，獲批後視為透過仿製藥質量和療效一致性評價。該藥品獲批將完善公司製劑產品群，對拓展國內製劑市場、提升業績帶來積極影響。
+
+---
+
+### 2026-08-07 15:33:14  #公司
+
+【巨星農牧：7月商品肥豬銷售量33.98萬頭，同比增6.46%】巨星農牧公告，2026年7月商品肥豬銷售量33.98萬頭，同比增6.46%；當月銷售收入4.38億元，當月銷售均價9.96元/公斤。本年累計銷售量258.78萬頭，累計銷售收入34.74億元。
+
+---
+
+### 2026-08-07 15:33:01  #其他
+
+【遼寧省大連市文學藝術界聯合會原主席王會軍接受審查調查】中央紀委國家監委網站8月7日通報，據大連市紀委監委訊息：遼寧省大連市文學藝術界聯合會原黨組書記、主席王會軍涉嫌嚴重違紀違法，目前正接受大連市紀委監委紀律審查和監察調查。
+
+---
+
+### 2026-08-07 15:32:50  #國際
+
+【SK海力士將在韓國投資超54萬億韓元擴張晶片業務】SK海力士8月7日在韓國交易所披露，計劃2031年4月30日前在韓國清州M17晶片廠投資19.1萬億韓元，以確保中長期產能以滿足儲存器市場需求；另外計劃2031年10月31日前在龍仁半導體產業園投資35.2萬億韓元用於二期晶圓廠建設。
+
+---
+
+### 2026-08-07 15:32:45  #公司 #市場
+
+【上期所：7月對11個實際控制關係賬戶組採取限制開倉監管措施】8月7日，上海期貨交易所釋出2026年7月自律監管資訊公告。2026年7月份，處理異常交易行為33起，其中自成交超限16起，頻繁報撤單超限6起，日內開倉量超限11起，均透過會員單位對上述達到異常交易處理標準的客戶進行提示。對11個實際控制關係賬戶組採取限制開倉的監管措施並進行全市場公告。實際控制關係賬戶認定與協查方面，對648組1415個客戶進行實際控制關係認定。上海期貨交易所提醒交易者在日常交易中注意合規風險並做好實際控制關係賬戶的報備。
+
+---
+
+### 2026-08-07 15:32:41  #MKT News #Important #Market Themes #Chip Wars #000660.KS #Impact bullish
+
+【SK Hynix to invest $38.4 bln to expand chip operations in South Korea】SK Hynix said it will invest $38.4 bln to expand chip operations in South Korea. It plans to put 19.1 trillion won (≈ $13.47 bln) into the M17 fab in Cheongju, with that investment to be completed by 2031, and 35.2 trillion won (≈ $24.9 bln) for construction of a second‑phase chip fab in Yongin.
+
+---
+
+### 2026-08-07 15:32:39  #公司
+
+【環旭電子：7月營收55.49億元，同比增12.98%】環旭電子公告，2026年7月合併營業收入為人民幣55.49億元，較去年同期增加12.98%，較2026年6月環比增加15.52%；2026年1月至7月合併營業收入為人民幣328.85億元，較去年同期增加2.37%。
+
+---
+
+### 2026-08-07 15:32:35  #公司
+
+【傲農生物：7月生豬銷售量14.2萬頭，同比-0.44%】傲農生物公告，2026年7月公司生豬銷售量14.2萬頭，同比減少0.44%，較2026年6月減少27.57%；生豬存欄96.09萬頭，同比增長69.12%，較2026年6月增加16.68%，較2025年12月末增加29.27%。
+
+---
+
+### 2026-08-07 15:32:30  #其他
+
+【德國聯邦檢方接手調查萊比錫機場無人機爆炸物事件】德國聯邦檢察院6日宣佈接手調查萊比錫機場發現搭載爆炸物無人機事件，稱其涉嫌危害德國國家安全。聯邦檢察院在一份宣告中說，在萊比錫機場查獲的這架無人機搭載制式爆炸物和引爆裝置，有充分證據證明作案者企圖製造爆炸。宣告稱，這是針對德國交通和物流基礎設施的重大襲擊圖謀，一旦得逞，恐危及德國安全。（新華社）
+
+---
+
+### 2026-08-07 15:32:07  #其他
+
+EKNITI：資料中心或需配套自建電力、供水設施。
+
+---
+
+### 2026-08-07 15:32:05  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
+
+India 10Y Yield Rises Ahead of Bond Sale — The yield on India’s 10-year G-Sec edged up to around 6.78% on Friday, retracing part of this week's decline as a sharp rebound in oil prices dampened demand for government bonds ahead of the New Delhi's INR 320 billion debt auction. Investors closely monitored the sale of five-year and 40-year securities for cues on demand, particularly for longer-dated debt. Meanwhile, Brent crude climbed to around $83.7 per barrel, up nearly 6% amid renewed concerns over shipping through the Strait of Hormuz, raising worries over India's import bill, inflation, and the rupee. Higher oil prices also pushed the US 10-year Treasury yield up to 4.68%, reducing the appeal of emerging-market debt. Still, expectations that the Reserve Bank of India will maintain ample banking system liquidity following its dovish policy decision and lower inflation forecast continued to underpin sentiment, while reports of RBI intervention in the foreign exchange market helped limit pressure on the rupee.
 
 ---
 
@@ -18466,101 +18562,5 @@ China A-share pharmaceutical distribution sector jumped; Renmin Tongtai and Hefu
 ### 2026-08-06 11:10:45  #MKT News #Commodities #Energy
 
 【CNOOC commissions China's first domestically built 16MW tension-leg floating wind platform rated for level-17 typhoon】CNOOC said on Aug 6 its domestically designed and built 16 MW tension-leg floating wind platform Haiyou Anlan was connected to the Lufeng oilfield grid and began supplying green power directly. The platform, built to withstand extreme level-17 typhoon conditions, marks a step toward world-leading Chinese deepwater floating-wind equipment technology and offers a new development pathway for offshore wind.
-
----
-
-### 2026-08-06 11:10:32  #其他
-
-澳航發言人表示，已與澳大利亞飛行員協會(AIPA)及澳大利亞飛行員工會(AFAP)就新的長途業務協議條款達成原則性協議。
-
----
-
-### 2026-08-06 11:10:12  #國際
-
-【巴基斯坦稱將繼續為地區和平作出努力】巴基斯坦總理辦公室5日發表宣告說，巴基斯坦總理夏巴茲當天會見了由伊朗工業礦業和貿易部長阿塔巴克率領的代表團。夏巴茲表示，巴基斯坦將繼續為地區和平作出真誠努力。巴基斯坦高度重視與鄰國和兄弟國家伊朗的關係。巴伊雙方同意加強邊貿設施，保持邊境24小時開放，改善物流並協調海關程式。阿塔巴克讚揚巴基斯坦領導人和人民對伊朗的聲援和為地區和平作出的真誠外交努力。
-
----
-
-### 2026-08-06 11:09:55  #市場
-
-創業板指翻綠，現跌0.2%，此前一度漲超1%。
-
----
-
-### 2026-08-06 11:08:32  #其他
-
-【我國首座抗17級颱風高技術難度浮式風電平臺投運】中國海油8月6日宣佈，我國自主設計建造的首座16兆瓦張力腿深遠海浮式風電平臺“海油安瀾號”成功接入陸豐油田電網並直供綠電。平臺按可抵禦17級颱風極端工況設計建造，其投運標誌著我國深遠海浮式風電裝備技術走向世界前列，為我國海上風電開發探索新路線。“海油安瀾號”安裝於珠江口盆地海域，安裝位置水深136米、離岸136公里。整體高度近110層樓高，總重7800噸，掃風面積相當於7.5個標準足球場，平臺透過海底電纜接入陸豐油田電網，投產後預計每年可提供5400萬度綠色電力。
-
----
-
-### 2026-08-06 11:07:26  #公司 #市場 #國際 #原創
-
-【SK海力士在Nextrade盤前交易驚現30%閃崩 上週以來第二次出現異常波動】SK海力士約一週內第二次在Nextrade盤前交易中短暫暴跌，再度引發市場對於韓國另類交易平臺價格劇烈波動的質疑。當地時間週四上午8時，SK海力士在Nextrade以每股116.8萬韓元成交11股，較前日收盤價重挫30%，觸及當日跌停限制。50分鐘盤前交易時段結束時，跌幅收窄至約2%。當天上午在韓國交易所常規交易時段，SK海力士股價一度下跌9.8%。美國儲存晶片公司閃迪本財季營收展望不及預期後，股價在盤後交易中重挫，韓國晶片股隨之普遍走弱。此次劇烈波動與上週二的走勢高度相似。當時SK海力士也在盤前交易中一度暴跌30%，隨後收窄跌幅。
-
----
-
-### 2026-08-06 11:05:33  #宏觀 #公司 #國際
-
-【韓國對華丙烯酸丁酯作出反傾銷終裁】2026年7月23日，韓國貿易委員會發布第2026-13號公告（案件調查號23-2025-8），對原產於中國的丙烯酸丁酯（Butyl Acrylate）作出反傾銷肯定性終裁，建議韓國企劃財政部對涉案產品徵收為期五年的反傾銷稅，具體如下：泰興市昇科化工有限公司（Taixing Sunke Chemicals Co., Ltd.）及其關聯企業稅率為11.42%、上海華誼新材料有限公司（Shanghai Huayi New Material Co., Ltd.）及其關聯企業稅率為8.32%、平湖石化有限責任公司（Pinghu Petro Chemical Co., Ltd.）及其關聯企業稅率為19.17%、中國其他生產商/出口商稅率為18.69%。涉案產品的韓國稅號為2916.12.3000。（中國貿易救濟資訊網）
-
----
-
-### 2026-08-06 11:05:23  #其他
-
-【服貿會健康衛生服務專題首次設立“未來醫療科技產業前沿展區”】中國國際服務貿易交易會（簡稱“服貿會”）將於9月9日至13日在北京首鋼園區舉辦。作為服貿會核心專題之一，健康衛生服務專題將於今年連續第六年亮相首鋼園。本屆專題由北京市衛生健康委員會牽頭，專題以“全球服務 共享健康”為永久主題，將在首鋼園2號館設定專題展並同期舉辦“首都國際醫學大會”等15場各類會議、論壇和配套活動，依託服貿會平臺，著力打造為數智醫療、創新藥企、高階裝備、中醫智慧等領域連結國內資源、拓展全球市場的重要開放平臺。北京市衛生健康委員會介紹，2026年專題展覽全面提質升級，頭部集聚效應持續凸顯，世界500強及行業龍頭企業參展佔比達61.5%，展區國際化率提升至56.6%；22家國內外知名企業首次參展，眾多行業標杆企業持續亮相，多款前沿技術產品將實現全球首發、中國首展。本屆首次設立“未來醫療科技產業前沿展區”，匯聚8家精準醫療、細胞治療領域專精特新企業，為科創中小企業搭建專屬成長舞臺。
-
----
-
-### 2026-08-06 11:02:24  #市場
-
-新加坡海峽時報指數上漲1%至5,637.22點。
-
----
-
-### 2026-08-06 11:01:54  #市場
-
-【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月6日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日持平，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.30%。
-
----
-
-### 2026-08-06 11:01:45  #市場
-
-隔夜SHIBOR報1.3530%，下降0.74個基點。7天SHIBOR報1.3830%，上漲0.60個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。
-
----
-
-### 2026-08-06 11:00:46  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時放量103億元。
-
----
-
-### 2026-08-06 11:00:29  #其他
-
-【一拍無人接盤，哪吒汽車南寧工廠裝置降價20%拍賣】昔日造車新勢力“銷冠”哪吒汽車南寧工廠生產裝置一拍流拍，目前已降價進入二拍階段。據阿里司法拍賣平臺，7月27日，南寧市青秀區人民法院正式公開拍賣“存放於南寧市青秀區伶俐鎮昌隆路88號機械裝置一批”，起拍價約6030.79萬元。因無人報名，一拍最終以流拍收場。目前，上述裝置已進入二拍程式，起拍價已下調至約4824.63萬元，較一拍下調幅度超20%。開拍時間為8月12日上午10點，競價週期為1天。截至發稿，已有789次圍觀，67人設定提醒，但報名狀態列仍顯示“0人”。
-
----
-
-### 2026-08-06 10:59:39  #公司 #國際
-
-【三星全新Galaxy Z系列摺疊屏手機明日將在韓國上市】三星電子將於8月7日在韓國正式推出新一代摺疊屏機型Galaxy Z Fold8 Ultra、Galaxy Z Fold8和Galaxy Z Flip8，以及智慧手錶Galaxy Watch Ultra2和Galaxy Watch9。
-
----
-
-### 2026-08-06 10:56:27  #市場
-
-MiniMax漲幅擴大；最新上漲18%。
-
----
-
-### 2026-08-06 10:55:39  #市場
-
-【電子化學品板塊持續走高，中巨芯觸及20cm漲停】電子化學品板塊持續走高，中巨芯觸及20cm漲停，宏和科技、華特氣體、中船特氣跟漲。
-
----
-
-### 2026-08-06 10:55:04  #Trading Economics #Markets #New Zealand #Currency #Importance 1
-
-New Zealand Dollar Firms Up — The New Zealand dollar edged up to around $0.589, returning to a two-month high as improving developments in Middle East diplomacy supported risk sentiment. Iran said it had reached an agreement with Oman on the geographic route for temporary shipping through the Strait of Hormuz and that they are finalizing a draft deal for jointly managing the waterway, easing oil market tensions. The kiwi had weakened in the previous session following a softer-than-expected jobs report, which reinforced the case that any further interest rate increases would likely be gradual rather than aggressive. However, markets continued to price in a quarter-point rate hike in September after the Reserve Bank of New Zealand indicated at its latest meeting that further tightening may be needed to reduce monetary stimulus and bring inflation under control.
 
 ---

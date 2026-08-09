@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-10 02:57:41_
-_本檔包含 3312 則快訊，約 600297 字_
+_更新時間：2026-08-10 03:45:12_
+_本檔包含 3318 則快訊，約 600235 字_
+
+---
+
+### 2026-08-05 09:00:04  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌6%，現報1684.50點。
+
+---
+
+### 2026-08-05 09:00:04  #市場 #焦點
+
+甲醇連續主力合約日內跌1%，現報2560.00元。
+
+---
+
+### 2026-08-05 09:00:03  #市場 #焦點
+
+鉑連續主力合約日內漲4%，現報423.20元。
+
+---
+
+### 2026-08-05 09:00:03  #市場 #焦點
+
+聚丙烯連續主力合約日內跌2%，現報8097.00元。
+
+---
+
+### 2026-08-05 09:00:03  #市場 #焦點
+
+鈀連續主力合約日內漲4%，現報317.90元。
+
+---
+
+### 2026-08-05 09:00:03  #市場 #焦點
+
+乙二醇連續主力合約日內跌5%，現報4645.00元。
+
+---
+
+### 2026-08-05 09:00:03  #市場 #焦點
+
+上海原油連續主力合約日內跌4%，現報510.70元。
+
+---
+
+### 2026-08-05 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.02%。
+
+---
+
+### 2026-08-05 09:00:03  #市場
+
+【商品期貨開盤】集運指數歐線期貨連續跌6.21%，乙二醇連續跌5.76%，上海原油連續跌5.03%，鉑連續漲4.88%，鈀連續漲4.67%。
+
+---
+
+### 2026-08-05 08:59:32  #央行 #國際
+
+美聯儲施密德：需要解決美聯儲資產負債表中的久期問題。美聯儲自身正在影響收益率曲線的長端。
+
+---
+
+### 2026-08-05 08:59:18  #Trading Economics #Economy #Singapore #Composite PMI #Importance 1
+
+Singapore Private Sector Growth Hits 5-Month High — Singapore’s S&P Global PMI climbed to 59.2 in July 2026 from 57.4 in June, marking the strongest expansion since February as output and new orders continued to grow at elevated rates. In response, firms increased workforce levels for a second consecutive month, while purchasing activity rose at the second-fastest pace on record, behind only June's peak. Hiring was partly due to persistent capacity pressures, as reflected in the continued accumulation of backlogs. Meanwhile, average supplier lead times lengthened for the first time since February due to customs-related issues and disruptions to shipping routes and port operations. On the pricing front, input costs rose sharply, driven mainly by higher purchasing and labor costs. However, output price inflation eased to its lowest level since January. Looking ahead, Singaporean firms remained optimistic about their output over the coming year.
+
+---
+
+### 2026-08-05 08:59:15  #國際
+
+【霍爾木茲海峽能否兩日內重開 美伊說法不一】當地時間4日，伊朗與阿曼繼續就劃定霍爾木茲海峽新航線進行談判。伊朗方面稱，談判取得積極進展，雙方談判全部結束後將向外界公佈最終結果。與此同時，伊朗否認與美方舉行任何談判，並強調霍爾木茲海峽將繼續關閉。同日，美國國務卿魯比奧表示，美方正參與阿曼和伊朗之間的相關對話和談判，並稱與伊朗就重新開放霍爾木茲海峽進行的談判“已經取得進展”，但協議尚未最終敲定。美財長貝森特表示，美伊可能在當地時間4日或5日達成協議，重新開放霍爾木茲海峽。（央視）
+
+---
+
+### 2026-08-05 08:58:48  #Trading Economics #Economy #Hong Kong #Manufacturing PMI #Importance 1
+
+Hong Kong Private Sector Expansion Eases — The S&P Global Hong Kong SAR PMI fell to 51 in July 2026, from a four-month high of 52.0 in the previous month. Still, it remained in expansion territory for a third consecutive month as output growth accelerated to its fastest pace in five months. New orders also continued to expand for a third straight month, though softer overseas demand led to slower overall sales growth than in June. Meanwhile, firms continued to trim headcounts, with employment declining at the sharpest rate in three years as businesses sought to contain costs. On the pricing front, inflationary pressures softened, with input costs rising at the slowest pace since March, while output price inflation also eased at the start of the third quarter. Looking ahead, business confidence deteriorated, with companies turning more pessimistic about the year-ahead outlook amid concerns over domestic economic environment and inflationary pressures.
+
+---
+
+### 2026-08-05 08:58:37  #央行 #國際
+
+美聯儲施密德：美聯儲特別工作組將向聯邦公開市場委員會提供建議，而不是做出決策。
+
+---
+
+### 2026-08-05 08:58:13  #央行 #國際
+
+美聯儲施密德：貨幣政策前瞻性指引的價值取決於具體情況。
+
+---
+
+### 2026-08-05 08:57:26  #Trading Economics #Markets #Japan #Currency #Importance 2
+
+Yen Pauses Rally as Intervention Threat Remains — The Japanese yen traded around 157.5 per dollar on Wednesday, pausing its recent rally even as US Treasury Secretary Scott Bessent reaffirmed Washington’s ongoing support for Japan following a historic joint currency intervention. The yen had surged as much as 5% over three sessions after Tokyo and Washington carried out coordinated yen-buying on a scale not seen in decades, with both governments signaling they remain prepared to intervene again if necessary. Bank of Japan data showed Tokyo spent about ¥5.33 trillion during Friday’s operations, after reportedly conducting a record ¥8.45 trillion intervention the day before. The yen had weakened to four-decade lows last month amid higher energy costs, mounting fiscal concerns, and persistently wide interest rate differentials. Meanwhile, the latest data showed Japan’s real wages rose for a sixth consecutive month in June, reinforcing the case for additional BOJ interest rate hikes.
 
 ---
 
@@ -19899,65 +19995,5 @@ Gold Steadies on Mideast, Fed Uncertainties — Gold steadied around $4,050 an o
 ### 2026-08-04 07:38:45  #其他
 
 【個人AI定義新一輪增長 消費電子產業鏈加速擁抱變革】榮耀首款機器人手機Robot Phone預約量已突破20萬臺，超越歷代旗艦；OPPO“小布Next計劃”開啟多機型內測，讓AI（人工智慧）助手化身“24小時待命的專家團隊”；華為新款鴻蒙摺疊電腦定檔8月5日釋出；蘋果首款摺疊屏手機將於今秋亮相，“Apple智慧”已完成國內備案……從手機到PC，從可穿戴到智慧眼鏡，一場以AI為核心引擎的產業變革正在消費電子領域全面鋪開。接受證券時報記者採訪的專家表示，構建以使用者為中心的個人AI體驗，正成為消費電子終端廠商決勝的關鍵。圍繞著這一方向，消費電子行業算力架構將走向端邊雲協同發展，而以高通、英偉達等為代表的產業鏈企業已提前佈局。
-
----
-
-### 2026-08-04 07:38:34  #資料 #市場 #央行 #國際
-
-【韓國通脹降溫幅度超預期 但不太可能改變央行緊縮立場】韓國7月消費者通脹放緩幅度超預期，回落至3%以下，這讓政策制定者鬆了一口氣。此前一個月，物價漲幅曾加速至2023年底以來的最高水平。韓國資料統計部週二公佈，7月消費者價格指數(CPI)同比上漲2.8%，為4月以來最低漲幅，6月為3.2%。 儘管最新資料可能緩解外界對通脹再次加速的擔憂，但相關數字仍遠高於韓國央行目標，因此不太可能改變其政策前景。官員們一直表示，鑑於消費者價格堅挺、經濟增長強勁以及房價高企，有必要維持緊縮傾向。
-
----
-
-### 2026-08-04 07:37:00  #市場 #央行 #國際
-
-【美國出手干預後，投資者對日元走勢仍持懷疑態度】罕見的美日聯合干預匯市行動幫助疲軟的日元脫離了40年低點。但要維持提升後的日元匯率水平可能是一場硬仗。美國的參與為日本官方近期單方面採取的干預行動增添了分量。日本此前的干預勉強將日元匯率託底在1美元兌160日元左右，但未能為日元提供持久的提振。日本財務大臣週一表示，日本“將毫不猶豫的”與美國一道再次干預匯市。分析師表示，即使有美國的支援，如果日本央行不改變政策，日元可能再次舉步維艱。儘管面臨高於目標的通脹，但在與通縮這一截然相反的風險鬥爭了數十年之後，日本央行對加息一直持謹慎態度。這種謹慎促使投資者轉向其他貨幣，以期從短期債券中賺取更高回報。Edmond de Rothschild的基金經理納比爾.米拉利(Nabil Milali)表示：“如果日本央行不收緊貨幣政策，日元將無法維持上漲勢頭。”
-
----
-
-### 2026-08-04 07:35:44  #公司 #國際
-
-【澳洲航空將出售捷星日本股份，預計2027財年獲利1.15億澳元】8月4日，澳洲航空公司發表宣告稱，已與日本航空公司簽訂協議，將透過股份回購方式，出售其持有的捷星日本33.32%的少數股權。  該股份回購交易估值為82億日元，預計將在2027財年為澳洲航空集團帶來約1.15億澳元的基礎專案外收益。
-
----
-
-### 2026-08-04 07:35:35  #其他
-
-閃迪與SK海力士釋出首個開放計算專案（OCP）技術規範，推進高頻寬快閃記憶體的全球標準化程序。
-
----
-
-### 2026-08-04 07:33:58  #國際
-
-【民調：民主黨經濟管理評價10年來首次領先共和黨】路透/益普索的一項民調顯示，美國民眾認為民主黨比共和黨更善於管理經濟，為近10年來首見；民調還顯示，民眾對總統特朗普執政表現的認可度已降至35%。這項民調於週三至週一進行，結果表明，特朗普的經濟治理表現，可能會影響共和黨11月中期選舉的勝算，而此次選舉將決定未來兩年國會控制權的歸屬。路透/益普索民調顯示，特朗普支援率從上月的37%降至35%，僅比任內支援率低位高出1個百分點。在接受民調的登記選民中，約37%認為民主黨的治理經濟路線更好，而選擇共和黨的比例為36%。另有27%的人表示不確定，或認為其他政黨會做得更好。在2017年至2021年特朗普首個總統任期的大部分時間裡，以及民主黨總統拜登執政的整個四年期間 ，共和黨在經濟議題一直獲得較高評價，並延續到特朗普第二個任期。
-
----
-
-### 2026-08-04 07:33:08  #公司
-
-【蘋果新任CEO據悉邀請已退休的硬體部門負責人加入管理團隊】據報道，蘋果公司即將上任的執行長約翰·特納斯（John Ternus）正將一位曾在自己負責硬體工程期間共事過的得力助手重新招致麾下，加入其新的管理團隊。報道稱，特納斯已聘請勞拉·萊格羅斯加入團隊，萊格羅斯此前曾擔任硬體工程副總裁，直至2022年退休。
-
----
-
-### 2026-08-04 07:32:47  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Holds Decline as US-Iran Talks Eyed — Brent hovered around $83.5 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023.
-
----
-
-### 2026-08-04 07:32:23  #市場
-
-日經指數期貨在新加坡交易所開盤跌120點，報63560點。
-
----
-
-### 2026-08-04 07:32:02  #央行 #市場
-
-【專家：預計下一步央行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕】東方金誠首席宏觀分析師王青表示，在前期公開市場各項操作適度調減等因素帶動下，當前DR001（銀行間市場存款類機構隔夜質押回購利率）等主要市場利率已回升到政策利率附近，7月份中期流動性恢復淨投放。預計下一步中國人民銀行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕，DR001等主要市場利率持續大幅向上偏離政策利率的可能性很小。 值得一提的是，當前中國人民銀行已設立隔夜逆回購工具，並正在增加操作頻率。王青認為，這將進一步控制DR001的波動，為推動貨幣政策框架向價格型轉型創造有利條件。
-
----
-
-### 2026-08-04 07:31:44  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Holds Decline as US-Iran Talks Eyed — Crude oil hovered near $80 per barrel on Tuesday after tumbling about 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023.
 
 ---

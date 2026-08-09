@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-10 02:57:41_
-_本檔包含 3382 則快訊，約 601344 字_
+_更新時間：2026-08-10 03:45:12_
+_本檔包含 3382 則快訊，約 601134 字_
+
+---
+
+### 2026-08-06 11:10:32  #其他
+
+澳航發言人表示，已與澳大利亞飛行員協會(AIPA)及澳大利亞飛行員工會(AFAP)就新的長途業務協議條款達成原則性協議。
+
+---
+
+### 2026-08-06 11:10:12  #國際
+
+【巴基斯坦稱將繼續為地區和平作出努力】巴基斯坦總理辦公室5日發表宣告說，巴基斯坦總理夏巴茲當天會見了由伊朗工業礦業和貿易部長阿塔巴克率領的代表團。夏巴茲表示，巴基斯坦將繼續為地區和平作出真誠努力。巴基斯坦高度重視與鄰國和兄弟國家伊朗的關係。巴伊雙方同意加強邊貿設施，保持邊境24小時開放，改善物流並協調海關程式。阿塔巴克讚揚巴基斯坦領導人和人民對伊朗的聲援和為地區和平作出的真誠外交努力。
+
+---
+
+### 2026-08-06 11:09:55  #市場
+
+創業板指翻綠，現跌0.2%，此前一度漲超1%。
+
+---
+
+### 2026-08-06 11:08:32  #其他
+
+【我國首座抗17級颱風高技術難度浮式風電平臺投運】中國海油8月6日宣佈，我國自主設計建造的首座16兆瓦張力腿深遠海浮式風電平臺“海油安瀾號”成功接入陸豐油田電網並直供綠電。平臺按可抵禦17級颱風極端工況設計建造，其投運標誌著我國深遠海浮式風電裝備技術走向世界前列，為我國海上風電開發探索新路線。“海油安瀾號”安裝於珠江口盆地海域，安裝位置水深136米、離岸136公里。整體高度近110層樓高，總重7800噸，掃風面積相當於7.5個標準足球場，平臺透過海底電纜接入陸豐油田電網，投產後預計每年可提供5400萬度綠色電力。
+
+---
+
+### 2026-08-06 11:07:26  #公司 #市場 #國際 #原創
+
+【SK海力士在Nextrade盤前交易驚現30%閃崩 上週以來第二次出現異常波動】SK海力士約一週內第二次在Nextrade盤前交易中短暫暴跌，再度引發市場對於韓國另類交易平臺價格劇烈波動的質疑。當地時間週四上午8時，SK海力士在Nextrade以每股116.8萬韓元成交11股，較前日收盤價重挫30%，觸及當日跌停限制。50分鐘盤前交易時段結束時，跌幅收窄至約2%。當天上午在韓國交易所常規交易時段，SK海力士股價一度下跌9.8%。美國儲存晶片公司閃迪本財季營收展望不及預期後，股價在盤後交易中重挫，韓國晶片股隨之普遍走弱。此次劇烈波動與上週二的走勢高度相似。當時SK海力士也在盤前交易中一度暴跌30%，隨後收窄跌幅。
+
+---
+
+### 2026-08-06 11:05:33  #宏觀 #公司 #國際
+
+【韓國對華丙烯酸丁酯作出反傾銷終裁】2026年7月23日，韓國貿易委員會發布第2026-13號公告（案件調查號23-2025-8），對原產於中國的丙烯酸丁酯（Butyl Acrylate）作出反傾銷肯定性終裁，建議韓國企劃財政部對涉案產品徵收為期五年的反傾銷稅，具體如下：泰興市昇科化工有限公司（Taixing Sunke Chemicals Co., Ltd.）及其關聯企業稅率為11.42%、上海華誼新材料有限公司（Shanghai Huayi New Material Co., Ltd.）及其關聯企業稅率為8.32%、平湖石化有限責任公司（Pinghu Petro Chemical Co., Ltd.）及其關聯企業稅率為19.17%、中國其他生產商/出口商稅率為18.69%。涉案產品的韓國稅號為2916.12.3000。（中國貿易救濟資訊網）
+
+---
+
+### 2026-08-06 11:05:23  #其他
+
+【服貿會健康衛生服務專題首次設立“未來醫療科技產業前沿展區”】中國國際服務貿易交易會（簡稱“服貿會”）將於9月9日至13日在北京首鋼園區舉辦。作為服貿會核心專題之一，健康衛生服務專題將於今年連續第六年亮相首鋼園。本屆專題由北京市衛生健康委員會牽頭，專題以“全球服務 共享健康”為永久主題，將在首鋼園2號館設定專題展並同期舉辦“首都國際醫學大會”等15場各類會議、論壇和配套活動，依託服貿會平臺，著力打造為數智醫療、創新藥企、高階裝備、中醫智慧等領域連結國內資源、拓展全球市場的重要開放平臺。北京市衛生健康委員會介紹，2026年專題展覽全面提質升級，頭部集聚效應持續凸顯，世界500強及行業龍頭企業參展佔比達61.5%，展區國際化率提升至56.6%；22家國內外知名企業首次參展，眾多行業標杆企業持續亮相，多款前沿技術產品將實現全球首發、中國首展。本屆首次設立“未來醫療科技產業前沿展區”，匯聚8家精準醫療、細胞治療領域專精特新企業，為科創中小企業搭建專屬成長舞臺。
+
+---
+
+### 2026-08-06 11:02:24  #市場
+
+新加坡海峽時報指數上漲1%至5,637.22點。
+
+---
+
+### 2026-08-06 11:01:54  #市場
+
+【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平】TrendForce資料顯示，8月6日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日持平，DDR4 16Gb (2Gx8) 3200現貨均價較上日持平，DDR4 8Gb (1Gx8) 3200現貨均價較上日上漲0.30%。
+
+---
+
+### 2026-08-06 11:01:45  #市場
+
+隔夜SHIBOR報1.3530%，下降0.74個基點。7天SHIBOR報1.3830%，上漲0.60個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。
+
+---
+
+### 2026-08-06 11:00:46  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量103億元。
+
+---
+
+### 2026-08-06 11:00:29  #其他
+
+【一拍無人接盤，哪吒汽車南寧工廠裝置降價20%拍賣】昔日造車新勢力“銷冠”哪吒汽車南寧工廠生產裝置一拍流拍，目前已降價進入二拍階段。據阿里司法拍賣平臺，7月27日，南寧市青秀區人民法院正式公開拍賣“存放於南寧市青秀區伶俐鎮昌隆路88號機械裝置一批”，起拍價約6030.79萬元。因無人報名，一拍最終以流拍收場。目前，上述裝置已進入二拍程式，起拍價已下調至約4824.63萬元，較一拍下調幅度超20%。開拍時間為8月12日上午10點，競價週期為1天。截至發稿，已有789次圍觀，67人設定提醒，但報名狀態列仍顯示“0人”。
+
+---
+
+### 2026-08-06 10:59:39  #公司 #國際
+
+【三星全新Galaxy Z系列摺疊屏手機明日將在韓國上市】三星電子將於8月7日在韓國正式推出新一代摺疊屏機型Galaxy Z Fold8 Ultra、Galaxy Z Fold8和Galaxy Z Flip8，以及智慧手錶Galaxy Watch Ultra2和Galaxy Watch9。
+
+---
+
+### 2026-08-06 10:56:27  #市場
+
+MiniMax漲幅擴大；最新上漲18%。
+
+---
+
+### 2026-08-06 10:55:39  #市場
+
+【電子化學品板塊持續走高，中巨芯觸及20cm漲停】電子化學品板塊持續走高，中巨芯觸及20cm漲停，宏和科技、華特氣體、中船特氣跟漲。
+
+---
+
+### 2026-08-06 10:55:04  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Firms Up — The New Zealand dollar edged up to around $0.589, returning to a two-month high as improving developments in Middle East diplomacy supported risk sentiment. Iran said it had reached an agreement with Oman on the geographic route for temporary shipping through the Strait of Hormuz and that they are finalizing a draft deal for jointly managing the waterway, easing oil market tensions. The kiwi had weakened in the previous session following a softer-than-expected jobs report, which reinforced the case that any further interest rate increases would likely be gradual rather than aggressive. However, markets continued to price in a quarter-point rate hike in September after the Reserve Bank of New Zealand indicated at its latest meeting that further tightening may be needed to reduce monetary stimulus and bring inflation under control.
 
 ---
 
@@ -20285,101 +20381,5 @@ Early session in China futures saw mixed moves: ethylene glycol (EG), Europe-rou
 ### 2026-08-05 09:00:07  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Australian Equities Hold Firm at Five-Month Peak — Australian stocks advanced 44 points or 0.5% to 9,190 on Wednesday morning deals, rising for the fourth session and hovering at their highest in five months. A solid rise in U.S. equity futures lifted sentiment after an extended rally on Wall Street overnight that pushed the broad market index to a record high, helped by upbeat earnings and speculation of a U.S.–Iran deal to reopen the Strait of Hormuz. Locally, July services activity posted its strongest growth in half a year, with the index revised upward from its flash reading. Still, caution ahead of trade data from Australia and main trading partner China capped gains. Meanwhile, July industry conditions showed ongoing weakness in manufacturing and construction. Tech, non-energy minerals, healthcare, and process industries led advances, with early standouts from South32 (3.5%), Northern Star Resources (2.8%), Qantas Airways (2.6%), and Evolution Mining (2.0%). Conversely, most major banks were subdued, and energy names lagged.
-
----
-
-### 2026-08-05 09:00:04  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌6%，現報1684.50點。
-
----
-
-### 2026-08-05 09:00:04  #市場 #焦點
-
-甲醇連續主力合約日內跌1%，現報2560.00元。
-
----
-
-### 2026-08-05 09:00:03  #市場 #焦點
-
-鉑連續主力合約日內漲4%，現報423.20元。
-
----
-
-### 2026-08-05 09:00:03  #市場 #焦點
-
-聚丙烯連續主力合約日內跌2%，現報8097.00元。
-
----
-
-### 2026-08-05 09:00:03  #市場 #焦點
-
-鈀連續主力合約日內漲4%，現報317.90元。
-
----
-
-### 2026-08-05 09:00:03  #市場 #焦點
-
-乙二醇連續主力合約日內跌5%，現報4645.00元。
-
----
-
-### 2026-08-05 09:00:03  #市場 #焦點
-
-上海原油連續主力合約日內跌4%，現報510.70元。
-
----
-
-### 2026-08-05 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.02%。
-
----
-
-### 2026-08-05 09:00:03  #市場
-
-【商品期貨開盤】集運指數歐線期貨連續跌6.21%，乙二醇連續跌5.76%，上海原油連續跌5.03%，鉑連續漲4.88%，鈀連續漲4.67%。
-
----
-
-### 2026-08-05 08:59:32  #央行 #國際
-
-美聯儲施密德：需要解決美聯儲資產負債表中的久期問題。美聯儲自身正在影響收益率曲線的長端。
-
----
-
-### 2026-08-05 08:59:18  #Trading Economics #Economy #Singapore #Composite PMI #Importance 1
-
-Singapore Private Sector Growth Hits 5-Month High — Singapore’s S&P Global PMI climbed to 59.2 in July 2026 from 57.4 in June, marking the strongest expansion since February as output and new orders continued to grow at elevated rates. In response, firms increased workforce levels for a second consecutive month, while purchasing activity rose at the second-fastest pace on record, behind only June's peak. Hiring was partly due to persistent capacity pressures, as reflected in the continued accumulation of backlogs. Meanwhile, average supplier lead times lengthened for the first time since February due to customs-related issues and disruptions to shipping routes and port operations. On the pricing front, input costs rose sharply, driven mainly by higher purchasing and labor costs. However, output price inflation eased to its lowest level since January. Looking ahead, Singaporean firms remained optimistic about their output over the coming year.
-
----
-
-### 2026-08-05 08:59:15  #國際
-
-【霍爾木茲海峽能否兩日內重開 美伊說法不一】當地時間4日，伊朗與阿曼繼續就劃定霍爾木茲海峽新航線進行談判。伊朗方面稱，談判取得積極進展，雙方談判全部結束後將向外界公佈最終結果。與此同時，伊朗否認與美方舉行任何談判，並強調霍爾木茲海峽將繼續關閉。同日，美國國務卿魯比奧表示，美方正參與阿曼和伊朗之間的相關對話和談判，並稱與伊朗就重新開放霍爾木茲海峽進行的談判“已經取得進展”，但協議尚未最終敲定。美財長貝森特表示，美伊可能在當地時間4日或5日達成協議，重新開放霍爾木茲海峽。（央視）
-
----
-
-### 2026-08-05 08:58:48  #Trading Economics #Economy #Hong Kong #Manufacturing PMI #Importance 1
-
-Hong Kong Private Sector Expansion Eases — The S&P Global Hong Kong SAR PMI fell to 51 in July 2026, from a four-month high of 52.0 in the previous month. Still, it remained in expansion territory for a third consecutive month as output growth accelerated to its fastest pace in five months. New orders also continued to expand for a third straight month, though softer overseas demand led to slower overall sales growth than in June. Meanwhile, firms continued to trim headcounts, with employment declining at the sharpest rate in three years as businesses sought to contain costs. On the pricing front, inflationary pressures softened, with input costs rising at the slowest pace since March, while output price inflation also eased at the start of the third quarter. Looking ahead, business confidence deteriorated, with companies turning more pessimistic about the year-ahead outlook amid concerns over domestic economic environment and inflationary pressures.
-
----
-
-### 2026-08-05 08:58:37  #央行 #國際
-
-美聯儲施密德：美聯儲特別工作組將向聯邦公開市場委員會提供建議，而不是做出決策。
-
----
-
-### 2026-08-05 08:58:13  #央行 #國際
-
-美聯儲施密德：貨幣政策前瞻性指引的價值取決於具體情況。
-
----
-
-### 2026-08-05 08:57:26  #Trading Economics #Markets #Japan #Currency #Importance 2
-
-Yen Pauses Rally as Intervention Threat Remains — The Japanese yen traded around 157.5 per dollar on Wednesday, pausing its recent rally even as US Treasury Secretary Scott Bessent reaffirmed Washington’s ongoing support for Japan following a historic joint currency intervention. The yen had surged as much as 5% over three sessions after Tokyo and Washington carried out coordinated yen-buying on a scale not seen in decades, with both governments signaling they remain prepared to intervene again if necessary. Bank of Japan data showed Tokyo spent about ¥5.33 trillion during Friday’s operations, after reportedly conducting a record ¥8.45 trillion intervention the day before. The yen had weakened to four-decade lows last month amid higher energy costs, mounting fiscal concerns, and persistently wide interest rate differentials. Meanwhile, the latest data showed Japan’s real wages rose for a sixth consecutive month in June, reinforcing the case for additional BOJ interest rate hikes.
 
 ---
