@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10 01:24:07",
-  "count": 15983,
+  "updated": "2026-08-10 01:28:06",
+  "count": 15979,
   "items": [
+    {
+      "id": "mkt:019fe78e-f781-7aab-8fcb-240f1a1e1028",
+      "time": "2026-08-10 01:25:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor."
+    },
     {
       "id": "5032646",
       "time": "2026-08-10 01:17:31",
@@ -145517,46 +145525,6 @@
         "國際"
       ],
       "text": "【以色列對特朗普二度取消伊朗打擊行動感到失望】以色列官員感到沮喪，特朗普一週內第二次取消原定針對伊朗的打擊行動。以官員稱這種臨陣變卦擾亂軍事部署。以色列方面目前認為，相較於衝突升級，特朗普更傾向於與伊朗達成協議。"
-    },
-    {
-      "id": "5021004",
-      "time": "2026-08-03 01:27:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息人士：內塔尼亞胡及小內閣成員已從特朗普的帖文中獲悉取消對伊朗的襲擊決定。"
-    },
-    {
-      "id": "5021003",
-      "time": "2026-08-03 01:27:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相兼外交部長與埃及外交部長通電話，商討地區局勢緩和的努力。"
-    },
-    {
-      "id": "5021002",
-      "time": "2026-08-03 01:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：伊朗是我們最優先的議題，當華盛頓的立場不明確時，我們便面臨困難。"
-    },
-    {
-      "id": "mkt:019fc381-f390-7aab-8f48-4a58bcb97ece",
-      "time": "2026-08-03 01:25:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Broadcasting Corporation reported an Israeli official said Trump's handling of affairs makes serious preparation and planning for the future difficult."
-    },
-    {
-      "id": "5021001",
-      "time": "2026-08-03 01:24:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：一名以色列官員稱，以特朗普處理事務的方式，很難認真地為未來做好準備與規劃。"
     }
   ]
 }

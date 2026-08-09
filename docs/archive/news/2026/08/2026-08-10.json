@@ -1,7 +1,15 @@
 {
   "date": "2026-08-10",
-  "count": 36,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019fe78e-f781-7aab-8fcb-240f1a1e1028",
+      "time": "2026-08-10 01:25:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor."
+    },
     {
       "id": "5032646",
       "time": "2026-08-10 01:17:31",
