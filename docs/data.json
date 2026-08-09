@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 15:10:38",
+  "updated": "2026-08-09 15:14:40",
   "count": 15974,
   "items": [
+    {
+      "id": "5032383",
+      "time": "2026-08-09 15:10:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國持續高溫 電力需求創今年新高 】韓國電力交易所9日釋出的資料顯示，受持續熱浪影響，韓國電力需求近日創下今年以來新高。韓聯社援引這組資料包道，本月7日，韓國最高電力需求達到95.321吉瓦。目前備用電力為8.2吉瓦，一旦備用電力低於5.5吉瓦，將觸發電力供應緊急警報。韓國政府預期今後一週電力需求還將持續攀升。這一方面是由於高溫天氣尚無緩解跡象，另一方面是因夏季假期結束後，工業生產會加大馬力。（新華社）"
+    },
     {
       "id": "5032381",
       "time": "2026-08-09 15:05:25",
@@ -145492,17 +145500,6 @@
         "國際"
       ],
       "text": "【美國愛達荷州快餐店槍擊事件已致3死7傷】美國愛達荷州南部城市特溫福爾斯一家漢堡快餐店8月1日發生槍擊事件，已造成3人死亡、7人受傷。犯罪嫌疑人已死亡。該市政府官員約書亞·帕默說，部分傷者情況危重。警方在事發快餐店附近發現犯罪嫌疑人的屍體，目前尚不清楚是否計入已公佈的死亡人數中。該市警察局局長馬修·希克斯在新聞釋出會上表示，仍在核實嫌疑人的身份並調查其作案動機。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fc151-f6c1-7aab-8f45-d780a71f02a9",
-      "time": "2026-08-02 15:13:21",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "1810.HK"
-      ],
-      "text": "【Xiaomi raises retail prices on select smartphone models; typical increase 300 yuan】Xiaomi on Aug 2 increased official retail prices on select models via its Xiaomi Mall. Xiaomi 17 series prices were raised by 300–500 yuan per unit; Redmi’s lineup, including performance-focused Turbo 5 and K90 series variants, broadly rose about 300 yuan."
     }
   ]
 }
