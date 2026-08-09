@@ -1,7 +1,23 @@
 {
   "date": "2026-08-09",
-  "count": 545,
+  "count": 547,
   "items": [
+    {
+      "id": "mkt:019fe5ee-28c1-7aab-8fc9-1deda022eeae",
+      "time": "2026-08-09 17:50:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran detains 12 vessels off Bandar Abbas over missing documentation】Iran's Bandar Abbas coast guard said on the 9th it detained 12 vessels in waters off Bandar Abbas after they failed to produce valid documentation. Authorities have not released vessel owners or other details."
+    },
+    {
+      "id": "5032478",
+      "time": "2026-08-09 17:49:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱在阿巴斯港附近海域扣押12艘違規船隻】當地時間9日，伊朗阿巴斯港海岸警衛隊相關負責人表示，伊方在阿巴斯港附近海域扣押了12艘違規船隻。該負責人稱，這些船隻未能提供有效的證明檔案。目前，伊方尚未公佈船隻所屬方等更多資訊。（央視新聞）"
+    },
     {
       "id": "5032475",
       "time": "2026-08-09 17:42:22",
