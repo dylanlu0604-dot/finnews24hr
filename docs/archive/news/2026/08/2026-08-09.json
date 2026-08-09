@@ -1,7 +1,62 @@
 {
   "date": "2026-08-09",
-  "count": 323,
+  "count": 329,
   "items": [
+    {
+      "id": "mkt:019fe4b3-ddd9-7aab-8fc7-f7ecb83c3dda",
+      "time": "2026-08-09 12:07:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Lighthouse Pro real-time data, as of 12:04 on Aug 9 the film The Eight Immortals! has surpassed CNY1.4bn in box office."
+    },
+    {
+      "id": "5032298",
+      "time": "2026-08-09 12:06:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【U17國足vs阿森納確認取消】上海市足球協會8月9日中午在微信公眾號上釋出公告，2026上海明日之星冠軍盃男子組決賽取消。決賽對陣為中國男足U17對陣阿森納U17，受颱風影響，本場比賽現已確定取消，不延期進行。"
+    },
+    {
+      "id": "5032297",
+      "time": "2026-08-09 12:05:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國阿米爾表示，本國亟需修復公共財政狀況。"
+    },
+    {
+      "id": "5032296",
+      "time": "2026-08-09 12:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月9日12時4分，影片《八仙！》票房突破14億。"
+    },
+    {
+      "id": "5032295",
+      "time": "2026-08-09 12:04:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞媒：外界對美債信心下降】據瑞士《新蘇黎世報》網站8月5日報道，截至2025年底，美國未償國債規模達30.7萬億美元，相當於美國國內生產總值的95%左右。政府總債務甚至更高，佔國內生產總值比例超過120%，但其中一部分並未在市場上流通，而是由美國聯邦儲備委員會（美聯儲）等機構持有。（參考訊息）"
+    },
+    {
+      "id": "mkt:019fe4b1-9733-7aab-8fc7-ed53cc1b1f33",
+      "time": "2026-08-09 12:04:31",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【TASS: Kushner, US Middle East envoy may visit Kyiv and Moscow within 7–10 days】TASS, citing an official, said senior Trump adviser Jared Kushner and a US Middle East envoy may visit Kyiv and Moscow within seven to ten days, signaling a potential renewed US push to mediate Russia-Ukraine talks. The pair have visited Moscow multiple times and met President Putin and other senior Russian officials but have not been to Kyiv. The report said US attention had shifted to the Middle East earlier this year; the last US–Russia–Ukraine trilateral talks were held in Geneva in mid-February and a planned follow-up later that month was postponed after a US strike on Iran, with Ukrainian President ZELENSKIY accusing Moscow of seeking to delay talks. The White House did not immediately respond to a request for comment."
+    },
     {
       "id": "5032294",
       "time": "2026-08-09 12:01:05",
