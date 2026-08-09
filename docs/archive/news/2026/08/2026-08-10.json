@@ -1,7 +1,31 @@
 {
   "date": "2026-08-10",
-  "count": 104,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:019fe86e-7bf9-7aab-8fcb-f81cc4c92a87",
+      "time": "2026-08-10 05:29:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Will Schaff will replace David Wellington as Assistant to the President and White House counsel, effective Sept. 1."
+    },
+    {
+      "id": "5032689",
+      "time": "2026-08-10 05:29:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沃靈頓將轉赴私營部門任職。"
+    },
+    {
+      "id": "5032688",
+      "time": "2026-08-10 05:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。"
+    },
     {
       "id": "mkt:019fe86b-a85a-7aab-8fcb-f2bc4f54ac73",
       "time": "2026-08-10 05:26:37",
