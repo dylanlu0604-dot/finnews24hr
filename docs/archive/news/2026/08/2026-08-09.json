@@ -1,7 +1,27 @@
 {
   "date": "2026-08-09",
-  "count": 728,
+  "count": 730,
   "items": [
+    {
+      "id": "mkt:019fe733-4574-7aab-8fca-8eea61c380cf",
+      "time": "2026-08-09 23:45:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran army commander says forces at full readiness, warns US personnel not to enter Iranian territory】Ali Jahanshahi, commander of Iran’s army, said all forces are at \"full readiness\" and would respond decisively to any threat, Press TV reported. Speaking after inspecting ground units in southeast Iran and along the Makran coast, he said units were continuously monitoring movements, precisely tracking threats and prepared to defend the Islamic Republic’s borders. He added recent events had exposed the enemy’s \"true strength and capability\" and warned that \"if any US military personnel set foot on Iran, we will cut them off.\""
+    },
+    {
+      "id": "5032619",
+      "time": "2026-08-09 23:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部：自3月2日以來，以色列對黎巴嫩的襲擊已造成至少4335人死亡和12277人受傷。"
+    },
     {
       "id": "5032618",
       "time": "2026-08-09 23:39:48",
