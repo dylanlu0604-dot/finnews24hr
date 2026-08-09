@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09 10:31:58",
-  "count": 15945,
+  "updated": "2026-08-09 10:35:51",
+  "count": 15946,
   "items": [
+    {
+      "id": "5032254",
+      "time": "2026-08-09 10:35:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風紅色預警釋出】中央氣象臺升級釋出颱風紅色預警。預計，“白海豚”將於今天晚上至明天早晨在浙江舟山到福建福鼎一帶沿海登陸，強風雨天氣盡量減少外出！（央視新聞）"
+    },
+    {
+      "id": "5032253",
+      "time": "2026-08-09 10:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【徐志任蕪湖市委書記】日前省委決定：徐志同志任蕪湖市委書記。（安徽釋出）"
+    },
     {
       "id": "5032252",
       "time": "2026-08-09 10:29:53",
@@ -145286,14 +145302,6 @@
         "MKT News"
       ],
       "text": "【Rain warning prompts temporary suspension of some Beijing suburban rail services】China Railway Beijing Group said on Aug 2 that, due to a rainfall warning, select trains on Beijing suburban lines were temporarily suspended: Huairou–Miyun line — S503, S504, S513, S514, S517, S518, S523; S2 line — S205, S206, S287, S288."
-    },
-    {
-      "id": "5020648",
-      "time": "2026-08-02 10:34:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【因降雨預警 北京市郊鐵路部分列車臨時停運】記者從國鐵北京局瞭解到，因降雨預警，今天（8月2日）北京市郊鐵路懷密線、S2線部分列車臨時停運。具體車次為：懷柔-密雲線S503次、S504次、S513次、S514次、S517次、S518次、S523次臨時停運。S2線S205次、S206次、S287次、S288次臨時停運。（央視新聞）"
     }
   ]
 }
