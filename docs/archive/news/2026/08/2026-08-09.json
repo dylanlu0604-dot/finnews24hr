@@ -1,7 +1,15 @@
 {
   "date": "2026-08-09",
-  "count": 710,
+  "count": 711,
   "items": [
+    {
+      "id": "mkt:019fe6f9-14af-7aab-8fca-67b028c6b7db",
+      "time": "2026-08-09 22:41:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Leisure boat capsizes near Liberty Island in New York Harbor; two dead】A leisure boat capsized near Liberty Island in New York Harbor on the evening of the 8th, killing a 27-year-old woman and a five-month-old infant. Twelve people were rescued. The NYPD and FDNY said the vessel overturned at about 22:25 local time. Authorities have not confirmed whether the victims were related and said the cause is under investigation."
+    },
     {
       "id": "5032604",
       "time": "2026-08-09 22:40:03",

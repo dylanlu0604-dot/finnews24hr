@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 22:42:06",
-  "count": 16004,
+  "updated": "2026-08-09 22:46:10",
+  "count": 16002,
   "items": [
+    {
+      "id": "mkt:019fe6f9-14af-7aab-8fca-67b028c6b7db",
+      "time": "2026-08-09 22:41:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Leisure boat capsizes near Liberty Island in New York Harbor; two dead】A leisure boat capsized near Liberty Island in New York Harbor on the evening of the 8th, killing a 27-year-old woman and a five-month-old infant. Twelve people were rescued. The NYPD and FDNY said the vessel overturned at about 22:25 local time. Authorities have not confirmed whether the victims were related and said the cause is under investigation."
+    },
     {
       "id": "5032604",
       "time": "2026-08-09 22:40:03",
@@ -145718,32 +145726,6 @@
         "MKT News"
       ],
       "text": "【Magnitude-4.8 earthquake in Xinghai county, Hainan prefecture, Qinghai; 10 km depth】CENC recorded a magnitude-4.8 earthquake at 22:31 on Aug. 2 (Beijing time) in Xinghai county, Hainan prefecture, Qinghai (35.34°N, 99.50°E); focal depth 10 km."
-    },
-    {
-      "id": "5020945",
-      "time": "2026-08-02 22:45:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月02日22時37分在青海海南州興海縣（北緯35.36度，東經99.51度）發生3.6級地震，震源深度10千米。"
-    },
-    {
-      "id": "5020944",
-      "time": "2026-08-02 22:44:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦警方2日說，該國西北部開伯爾－普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019fc2ee-b4d1-7aab-8f47-656b2d03c98f",
-      "time": "2026-08-02 22:44:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【Dongwu Securities: U.S. consumer delinquency rates near highs do not imply broad, sustained deterioration】Dongwu Securities says U.S. consumer credit delinquency rates have risen since the pandemic, with auto-loan and credit-card delinquencies near historic highs. The firm attributes much of the headline rise to technical factors — changes in statistical coverage and credit-rating migration — which amplify measured delinquency severity; alternative metrics such as new-delinquency (new-roll) rates do not show a broad, sustained deterioration in U.S. household credit. Still, Dongwu warns of persistent structural risk concentrated in subprime borrowers and lower-income households, leaving the lower end of a K-shaped recovery as a continuing vulnerability until full economic rebound."
     }
   ]
 }
