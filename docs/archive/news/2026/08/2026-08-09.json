@@ -1,7 +1,69 @@
 {
   "date": "2026-08-09",
-  "count": 482,
+  "count": 489,
   "items": [
+    {
+      "id": "mkt:019fe598-1f01-7aab-8fc8-c57661a51507",
+      "time": "2026-08-09 16:16:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian foreign minister Araghchi said Iran will not negotiate so long as the United States breaches the interim agreement."
+    },
+    {
+      "id": "5032432",
+      "time": "2026-08-09 16:16:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大不列顛哥倫比亞省進入緊急狀態】加拿大不列顛哥倫比亞省政府8月8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的山火災情。不列顛哥倫比亞省省長戴維·伊比在新聞釋出會上表示，目前狀況非常危險，火勢蔓延迅速且隨時發生變化。政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中疏散受困民眾。（CCTV國際時訊）"
+    },
+    {
+      "id": "5032431",
+      "time": "2026-08-09 16:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊表示，只要美國繼續違反臨時協議，就不會進行談判。"
+    },
+    {
+      "id": "mkt:019fe596-4929-7aab-8fc8-bfb3925ec57b",
+      "time": "2026-08-09 16:14:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Mehr News Agency reported Iran is not negotiating with the United States and is only exchanging information through intermediaries."
+    },
+    {
+      "id": "5032430",
+      "time": "2026-08-09 16:14:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長阿拉格齊表示，伊美之間沒有談判，僅透過中間人互傳資訊。"
+    },
+    {
+      "id": "5032429",
+      "time": "2026-08-09 16:11:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘋果回應刪除接入千問手冊：沒收到通知，中國大陸還沒推出“Apple智慧使用千問”功能】針對刪除《在 Mac 上配合 Apple 智慧使用千問》使用文件一事，蘋果客服最新回應新浪科技稱：“我們有功能或新專案釋出時，都會提前收到通知，目前並沒有收到相關通知，中國大陸還沒推出‘Apple智慧使用千問’相關功能。”昨日，一篇名為《在 Mac 上配合 Apple 智慧使用千問》的支援文件現身蘋果官網 Mac 簡體中文使用手冊，明確提到 Apple 智慧可配合阿里巴巴千問模型工作。但該文釋出不到24小時後被蘋果方面刪除。今年7月15日，阿里巴巴方面曾回應稱，千問將作為 AI 能力整合至 Apple 智慧，覆蓋 iOS、iPadOS、macOS 及 visionOS 的中國使用者。（新浪科技）"
+    },
+    {
+      "id": "5032428",
+      "time": "2026-08-09 16:11:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：聯合航空UA3926航班飛往紐瓦克時突遇緊急情況並返回洛杉磯。"
+    },
     {
       "id": "5032427",
       "time": "2026-08-09 16:08:55",
