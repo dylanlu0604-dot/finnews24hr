@@ -1,7 +1,90 @@
 {
   "date": "2026-08-10",
-  "count": 146,
+  "count": 155,
   "items": [
+    {
+      "id": "5032724",
+      "time": "2026-08-10 07:13:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北交所公司中報密集披露 高景氣賽道業績爆發】據中證報，截至8月7日，北交所共有14家上市公司披露2026年半年報。記者梳理發現，賽道分化較為明顯。新能源汽車及儲能帶動磷酸鐵鋰回暖，AI算力與先進封裝需求增長較快，成為拉動不少公司業績增長的核心引擎；而一些傳統製造業賽道由於受到全球宏觀經濟波動、原材料成本傳導及出口節奏變化等影響，暫時遇到低谷。"
+    },
+    {
+      "id": "5032723",
+      "time": "2026-08-10 07:12:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、麥香裡的新品種（經濟新方位）；\n2、7月居民消費價格指數同比上漲0.5%；\n3、上半年 生成式人工智慧領域新設企業增長28.0%；\n4、開放共贏是人工智慧發展的必由之路（和音）；\n5、中國6G何以加速跑（新知）；\n6、推動高質量充分就業取得新進展（“十五五”開好局起好步）；\n7、以正確政績觀引領海關事業高質量發展；\n8、從上汽集團與通用汽車續約談起（經濟時評）；\n9、國家資料局印發指引 為資料出具“身份證明”；\n10、到2030年，產業總規模超過7萬億元 體育產業裡的新機遇（財米油鹽）；\n11、憑球賽門票能逛公園、遊冰雪、賞景點、看演出……“東北超”：一張票根的“連連看”（解碼·關注暑期生活）；\n12、以能源轉型支撐經濟社會發展全面綠色轉型——2026能源經濟與碳達峰碳中和高質量發展論壇綜述；\n13、構建新型能源體系 推動高質量發展——新型能源體系建設分論壇側記；\n14、“企業綠色低碳發展研究”第二階段成果釋出 新能源汽車全產業鏈低碳路徑成形；\n15、以“雙碳”目標為引領 加快建設新型能源體系——二〇二六能源經濟與碳達峰碳中和高質量發展論壇發言摘編；\n16、警惕！暑期網路消費陷阱（財經觀）；\n17、金融保障如何為受災群眾託底（財經深一度）；\n18、“新新三樣”新在哪？（創新談）。"
+    },
+    {
+      "id": "5032722",
+      "time": "2026-08-10 07:12:25",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、潮湧千帆志昂揚——黨中央、國務院邀請優秀專家人才代表北戴河休假側記；\n2、推動高質量充分就業取得新進展（“十五五”開好局起好步）；\n3、“只有我們中國共產黨人實現了”。"
+    },
+    {
+      "id": "5032720",
+      "time": "2026-08-10 07:12:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“固收+”頻頻淪為“固收-” 再度考驗基金經理資產配置能力】在近期的市場震盪中，以穩健著稱的“固收+”基金遭遇大面積回撤，超800只產品下半年以來業績告負，無奈淪為“固收-”。從原因來看，部分產品在上半年科技行情中嚐到了高權益倉位的甜頭並形成了路徑依賴，在行情轉折之際未能及時收手，導致淨值在下半年的逆風行情裡防線失守。有公募人士指出，這一現象不僅再度考驗基金經理對“固收+”產品的理解和資產配置能力，還給基金營銷端亂象敲響了警鐘；此外，在股債均處震盪區間時，多數基金經理對“固收”和“+”的行情保持了謹慎樂觀的後市展望。"
+    },
+    {
+      "id": "mkt:019fe8cb-6e21-7aab-8fcc-657510d68951",
+      "time": "2026-08-10 07:11:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple weighing Apple Watch redesign, exploring screenless devices and new form factors】Apple (AAPL.O) is considering a major redesign of the Apple Watch line to address a shift toward screenless wearables and new form factors, Bloomberg’s Mark Gurman reports. Apple’s industrial design team has spent about a year researching concepts including screenless devices, alternative screen types, different screen sizes and circular watch faces. No final plan has been chosen; Apple is evaluating both a more premium model and a lower-priced option positioned below the Apple Watch SE. The company expects upgraded AI and health features to drive wearables growth."
+    },
+    {
+      "id": "te:economy:573927",
+      "time": "2026-08-10 07:10:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Industrial Production",
+        "Importance 0"
+      ],
+      "text": "Argentina Industrial Output Rebounds in June — Argentina’s industrial production grew by 2% year-on-year in June 2026, recovering from a downwardly revised 5.6% drop in the previous month. Ten of the 16 manufacturing sectors posted annual increases. The strongest gains came from basic metals (11.8%), chemicals and chemical products (11.0%), other transport equipment (7.2%), food and beverages (6.2%), wood, paper and printing (8.4%), metal products (3.6%), petroleum refining (3.4%), furniture and other manufacturing (3.4%), and tobacco products (0.4%). Meanwhile, output declined in other equipment, appliances and instruments (-25.3%), machinery and equipment (-16.8%), textiles (-15.9%), apparel, leather and footwear (-8.4%), non-metallic mineral products (-7.2%), motor vehicles and auto parts (-3.5%), and rubber and plastic products (-2.9%). On a seasonally adjusted monthly basis, industrial production rose 0.9%, accelerating from an downwardly revised 0.3% gain in May."
+    },
+    {
+      "id": "5032719",
+      "time": "2026-08-10 07:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科技股超跌反彈仍有演繹空間，精選核心資產成下一階段關鍵】過去一週，A股市場震盪修復，主要指數全線收紅，科技板塊迎來階段性反彈。券商策略展望報告認為，A股震盪上行的大格局並未發生改變，8月修復行情有望延續。當前科技資產超跌反彈仍有演繹空間，但下一階段收益來源將更多來自板塊內部的精選，投研機構建議投資者科技持倉向核心資產集中，迴歸基本面和景氣度。（上證報）"
+    },
+    {
+      "id": "5032717",
+      "time": "2026-08-10 07:08:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "DFI零售集團計劃將中國境內的7-ELEVEN門店數量增至3000家。"
+    },
+    {
+      "id": "5032716",
+      "time": "2026-08-10 07:08:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【人民日報經濟時評：從上汽集團與通用汽車續約談起】上汽集團與通用汽車近日續約20年，通用汽車成為又一家選擇“長期繫結”中國市場的跨國車企。此前，廣汽集團與本田汽車也已簽署合資續約協議。在銷量下滑、市場份額萎縮的背景下，續約的原因值得思考。 資料顯示，廣汽本田年銷量從超80萬輛降至約35萬輛，降幅達56%；上汽通用在華銷量從200多萬輛降至2025年的53.5萬輛，流失近3/4。數字雖然冰冷，但跨國車企的選擇卻是明確的——堅決留在中國市場。 原因顯而易見：今天的中國，已不僅是汽車領域“全球最大市場”，更是“最強考場”。中國消費者對智慧座艙的配置規格要求嚴苛，對智慧輔助駕駛的期待更為高漲，對新能源轉型的接受意願強。技術快速迭代、越級配置、好而不貴……這些僅僅是一款中國暢銷車型的必備要素。跨國車企那套一款車型包打天下的“全球車”邏輯，在中國市場越來越行不通。"
+    },
     {
       "id": "5032715",
       "time": "2026-08-10 07:06:41",
