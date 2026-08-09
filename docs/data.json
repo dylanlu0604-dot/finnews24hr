@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 11:22:30",
-  "count": 15951,
+  "updated": "2026-08-09 11:26:22",
+  "count": 15950,
   "items": [
+    {
+      "id": "5032279",
+      "time": "2026-08-09 11:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：印度尼西亞薩邦西北方向180公里處發生5級地震。"
+    },
     {
       "id": "5032278",
       "time": "2026-08-09 11:20:20",
@@ -145320,27 +145328,6 @@
         "其他"
       ],
       "text": "【微信地震預警能力更新 地震預警小程式可以反饋震感了】今天，中國地震臺網小程式正式上線“震感上報”能力。當使用者收到地震預警並確認自身安全後，可進入小程式上報位置並反饋震感情況。你反饋的資訊，經處理後會形成震感分佈圖。 此外，小程式還上線了“位置更新”能力。當你的地理位置發生變化時，小程式會主動識別並提醒你將目前所在地新增為預警位置。（微信派）"
-    },
-    {
-      "id": "mkt:019fc081-9115-7aab-8f44-efa69363aa67",
-      "time": "2026-08-02 11:25:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC reported a magnitude 3.1 earthquake at 11:15 on Aug 2 in the Tangula area of Haixi Prefecture, Qinghai (33.43°N, 91.15°E); focal depth 10 km."
-    },
-    {
-      "id": "mkt:019fc081-65b6-7aab-8f44-e7501bfd5a49",
-      "time": "2026-08-02 11:25:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran’s Islamic Revolutionary Guard Corps said the US president’s claim that Iran asked to halt attacks is nonsense and a last-ditch attempt to extort and pressure Persian Gulf rulers. The IRGC said its forces are at highest readiness and prepared for any possibility; if confrontation is unavoidable, the battlefield will decide and everyone will know who holds power and the final say."
     }
   ]
 }
