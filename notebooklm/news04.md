@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 22:46:10_
-_本檔包含 3328 則快訊，約 601577 字_
+_更新時間：2026-08-09 23:42:18_
+_本檔包含 3321 則快訊，約 601893 字_
+
+---
+
+### 2026-08-05 08:27:24  #MKT News
+
+【Fed's Schmid: Core inflation ex-energy still too high; supply–demand imbalance is root cause】Fed official Schmid said inflation excluding energy remains well above 2% and is broad-based across goods and services. Monthly core inflation in the six months to June ran above the pace consistent with returning inflation to target; on a 12‑month basis core inflation is 3.2%, roughly 0.5pp higher than in June last year. While recent price pressures include supply shocks — shipping disruptions, oil and tariffs — Schmid cautioned against blaming inflation solely on supply factors, saying it reflects imbalances between supply and demand.
+
+---
+
+### 2026-08-05 08:26:46  #市場 #國際
+
+【韓國Kospi指數連續第二日上漲 晶片股漲幅居前】韓國Kospi指數一度上漲4.7%，其中晶片股領漲，隔夜美股半導體股大漲以及油價回落改善市場情緒。Kospi指數連續第二天上漲。“受油價下跌、利率走低以及美國半導體股走強等有利宏觀因素支撐，Kospi指數主要板塊可能普遍走強，並進入復甦階段，”NH Investment & Securities韓國現券股票主管Shawn Oh表示。週二費城半導體指數收盤上漲6.6%，博通和美光科技貢獻較大。有報告稱，2027年的儲存晶片產能已經售出，也進一步提振了市場情緒。
+
+---
+
+### 2026-08-05 08:25:45  #國際
+
+韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。
+
+---
+
+### 2026-08-05 08:25:27  #國際
+
+韓國交易所對韓國綜合股價指數(KOSPI)啟動邊車機制。
+
+---
+
+### 2026-08-05 08:24:50  #公司
+
+【谷歌課堂Gemini擴充套件至全年齡段學生，新增情境化引導提示】當地時間8月4日，谷歌宣佈自2026年8月10日起，Google Classroom中的Gemini功能將向全年齡段的K-12及高等教育學生開放，前提是其管理員已授予相關許可權。學生可透過Classroom中的Gemini標籤頁將課程資料轉化為抽認卡、練習測驗等互動學習工具，或將其同步至Gemini Notebook以生成學習指南及音訊概覽。此外，該更新還引入了情境化引導提示功能，允許學生選擇特定課程和作業，直接結合作業要求和教學大綱進行針對性輔導。
+
+---
+
+### 2026-08-05 08:24:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y
+
+【Fed's Schmid: Don't ease vigilance after single-month inflation dip】Fed's Schmid said his focus remains on still-elevated inflation and that the Fed defines price stability as 2% inflation. He called June's slowdown encouraging but cautioned it is too early to rely on a single data point; volatile oil prices both boosted inflation in prior months and contributed to June's pullback. With oil prices rising again, any energy-driven easing is uncertain.
+
+---
+
+### 2026-08-05 08:23:53  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+【Kansas City Fed President Schmid: Fed must tighten policy to lower inflation】Kansas City Fed President Schmid said the Fed needs tighter monetary policy to return inflation to its 2% target and that the current stance is not restrictive. He warned inflation remains too high and should not be ignored even if driven by supply shocks, that recent relief in energy prices may be temporary, and that investment in artificial intelligence is pushing up inflation.
+
+---
+
+### 2026-08-05 08:23:30  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 index rose 3.00% intraday to 65,948.00 points.
+
+---
+
+### 2026-08-05 08:22:45  #市場 #國際
+
+日本日經指數上漲3%，至65884.52點。
+
+---
+
+### 2026-08-05 08:22:11  #市場 #央行 #國際
+
+【美聯儲施密德：人工智慧領域的投資也在推高通脹 這是美聯儲無法忽視的】堪薩斯城聯邦儲備銀行行長施密德在講話中警告不要對由供給衝擊引發的通脹掉以輕心，並指出，在唐納德·特朗普總統中東戰爭局勢不斷變化的背景下，近期能源價格上漲帶來的緩解僅是曇花一現。 “儘管6月份最新的通脹資料呈現出令人鼓舞的放緩態勢，但相對於近期趨勢，過分重視單一資料點還為時過早，”這位官員表示，並補充道：“隨著油價再度上漲，能源價格緩解的態勢能持續多久尚不確定。” 施密德還指出，相對於美聯儲2%的目標而言，通脹的基本水平仍然過高，並補充說，人工智慧領域的投資也在推高通脹，這是美聯儲無法忽視的。
+
+---
+
+### 2026-08-05 08:21:50  #央行 #美聯儲
+
+美聯儲施密德稱，人工智慧投資正在推高通脹，美聯儲不應忽視這一點。近期能源價格的緩解可能是暫時的。
+
+---
+
+### 2026-08-05 08:21:19  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies as Hormuz Deal Eyed — Gold steadied near $4,100 an ounce on Wednesday as investors remained cautious while assessing reports of an imminent deal to reopen the Strait of Hormuz, which could ease inflation concerns and lower the likelihood of near-term Federal Reserve interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz, triggering a sharp decline in oil prices. Markets trimmed expectations for a September Fed rate hike to around 57%, down from 67% a day earlier. Investors are now awaiting a fresh batch of US labor market data for further clues on the Fed’s policy outlook, with ADP’s July private payrolls report due later today. Meanwhile, gold-backed exchange-traded funds in China continued to attract inflows as institutional investors maintained support for bullion above the key $4,000-an-ounce level.
 
 ---
 
@@ -19971,127 +20043,5 @@ Crypto Updates: Ether Depreciates by 1.40% — Today's cryptos market is charact
  二、AI賦能的運營與廣告變革。
 1、內部運營效率大幅提升：AI工具的引入顯著提高了研發與客服效率。每位工程師的提交程式碼量同比增加了75%，AI程式碼審查工具覆蓋了90%的Pull Request。AI客服每月處理約390萬個問題，自年初以來將工單量減少了62%。
 2、廣告轉化與自動化效果顯著：AI智慧廣告系列（Smart Campaign）降低了廣告主的獲取成本，應用安裝成本（CPI）下降8%，購買成本下降18%，應用內購買量大增128%。平臺整體廣告轉化量同比暴增56%。AI首次稽核廣告影象的自動化率從去年同期的40%提升至近90%。
-
----
-
-### 2026-08-04 06:40:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Surges by 9.41% — Top commodity gainers are Cocoa (9.41%), Rubber (3.74%) and Sugar (2.33%). Biggest losers are Coffee (-3.31%) and Lumber (-2.12%).
-
----
-
-### 2026-08-04 06:36:20  #MKT News #Star Stocks #AMZN.O #Impact bearish #Nasdaq100
-
-Amazon (AMZN.O) fell nearly 2% in after-hours trading.
-
----
-
-### 2026-08-04 06:35:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Falls by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%) and Lithium Carbonate (-2.10%). Gains are led by Silicon (2.52%), Copper (1.22%), Silver (0.90%) and Gold (0.24%).
-
----
-
-### 2026-08-04 06:35:07  #公司 #市場
-
-貝索斯提交股票出售申報後，亞馬遜美股盤後下跌 1.9%。
-
----
-
-### 2026-08-04 06:32:17  #宏觀 #國際
-
-市場訊息：韓國最快將於 8 月出臺住房供給相關措施。
-
----
-
-### 2026-08-04 06:30:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Naphtha Slumps by 5.89% — Top commodity losers are Naphtha (-5.89%), Heating Oil (-5.58%), Crude Oil WTI (-5.56%) and Brent Crude Oil (-5.03%). Gains are led by Natural gas (0.87%).
-
----
-
-### 2026-08-04 06:29:55  #公司 #市場 #焦點 #國際
-
-【週二重要財經資訊提醒（以下均為北京時間）】
-① 時間待定 AI產業年度盛會：第二十屆沙利文·GIL峰會開幕（8月4-5日）；
-② 時間待定 FMS 2026快閃記憶體峰會開幕（8月4-6日），三星、SK等儲存巨頭出席；
-③ 歐洲股市開盤之前 英國石油公司BP將釋出業績報告；
-④ 美股盤前 卡特彼勒等將釋出業績報告；
-⑤ 時間待定 美國白宮計劃召集OpenAI、Anthropic、谷歌、Meta等巨頭，討論AI模型安全測試框架；
-⑥ 20:30 美國6月貿易帳，加拿大6月貿易帳；
-⑦ 22:00 美國6月JOLTS職位空缺，6月工廠訂單，6月耐用品訂單終值；
-⑧ 美股盤後 SpaceX釋出美國IPO以來第一份業績報告，AMD等也將釋出業績報告。
-
----
-
-### 2026-08-04 06:29:11  #公司
-
-【“創新+出海”驅動，A股生物醫藥公司盈利能力提升】2026年上半年，A股生物醫藥公司整體盈利能力顯著提升，在韌性發展中交出亮眼的成績單，創新驅動與國內外市場拓展成為業績增長的核心動力。截至8月3日，104家A股生物醫藥公司披露了上半年業績情況（含半年報、業績預告等）。從預告淨利潤增幅下限來看，有67家公司預計淨利潤增長（包括扭虧、減虧）。此外，藥明康德、沃華醫藥、澤璟製藥等10家公司披露半年報，其中7家實現淨利潤同比增長或扭虧。（上證報）
-
----
-
-### 2026-08-04 06:29:06  #公司
-
-【走差異化“出海”路徑，資管機構搶籌港股基石投資】今年以來，廣發基金及廣發國際資管、博時基金（國際）、淡水泉（香港）、大成基金及大成國際資管等中資資管機構全面發力港股IPO國際配售，以基石投資者身份與全球資本同場競技，參與新經濟、硬科技等優質企業發展，提升資管行業的全球競爭力。 據統計，截至7月31日：今年以來廣發基金及廣發國際資管參與25家港股IPO公司國際配售，認購總金額達23.28億港元；高瓴旗下私募證券機構HHLR Advisors參與18家港股IPO公司國際配售，認購總金額達64.96億港元；博時基金（國際）參與5家港股IPO公司國際配售，認購總金額近8億港元。今年以來的港股IPO基石投資者名單中，還有富國基金及富國資產管理（香港）、大成基金及大成國際等，認購金額均超過3億港元。（上證報）
-
----
-
-### 2026-08-04 06:28:50  #其他
-
-【7月浮盈超過400%，公募積極“打新”增厚收益】公募機構近期掀起了一輪“打新”熱潮。7月，在長鑫科技等優質個股的吸引下，百餘家公募機構參與新股網下配售，合計投入近140億元，整體浮盈比例超過400%。隨著硬科技賽道新股的持續增加，“打新”升級為公募的常規選項，多家機構表示將繼續捕捉下半年“打新”機遇。（上證報）
-
----
-
-### 2026-08-04 06:26:57  #公司 #國際
-
-【Coatue對沖基金暴跌8%，創一年多來最大單月跌幅】Coatue Management旗下的對沖基金在7月份暴跌8.3%，成為最新一家因人工智慧（AI）股票大幅拋售而遭遇劇烈震盪的專注科技領域的資金管理公司。據知情人士透露，該基金年初至今的回報率仍為14.3%。此次虧損是Philippe Laffont執掌的該基金一年多來的最差月度表現。截至3月31日，該公司在美國市場的四大重倉多頭頭寸在7月份均遭遇了兩位數的跌幅。
-
----
-
-### 2026-08-04 06:15:38  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Amazon (AMZN.O) founder Jeff Bezos sold $4.07 billion of stock.
-
----
-
-### 2026-08-04 06:15:13  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Appreciates by 0.95% — Top currency gainers are South Korean Won (0.95%) and Dollar Index (0.08%). Biggest losers are Norwegian Krone (-0.68%), British Pound (-0.40%), Swiss Franc (-0.36%) and Euro (-0.15%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-08-04 06:11:27  #公司
-
-亞馬遜創始人傑夫·貝索斯出售價值 40.7 億美元股票。
-
----
-
-### 2026-08-04 06:08:16  #市場
-
-Coatue旗下對沖基金下跌 8%，創一年多以來最大跌幅。
-
----
-
-### 2026-08-04 06:07:46  #國際
-
-美國參議院投票，有望圍繞臨時性融資草案透過程式性投票，該權宜性融資方案將幫助特朗普的聯邦政府有資金持續運作至12月11日。
-
----
-
-### 2026-08-04 06:07:12  #公司 #市場
-
-【訂單翻倍 業績走強 船舶行業維持高景氣 】自然資源部8月3日釋出全國海洋經濟統計資料顯示，今年上半年，我國海船新承接訂單量、完工量和手持訂單量全面上漲，國際市場份額保持領先，其中新接訂單量同比增長105.2%。船舶行業延續高景氣，今年上半年，我國造船三大指標全面增長，國際市場份額保持全球領先。上市公司半年度業績預告也印證這一趨勢，多家船舶企業上半年業績大幅預增，新增訂單穩步攀升。（中證報）
-
----
-
-### 2026-08-04 06:06:49  #公司
-
-【超百家藥企釋出上半年業績預告 創新藥出海與價值兌現成主線】Wind資料顯示，截至8月3日，A股共有104家醫藥生物公司披露了2026年半年度業績預告。以預計淨利潤上限來看，58家公司預計今年上半年歸母淨利潤實現增長，其中28家預計歸母淨利潤同比增長超100%。分析人士認為，當前創新藥出海與價值兌現成為核心焦點，市場對授權合作的質量要求日趨嚴格，更關注首付款的含金量、合作方的實力及臨床資料的紮實程度。能夠憑藉領先產品實現海外商業化、並具備持續創新能力的藥企將更受市場青睞。（中證報）
-
----
-
-### 2026-08-04 06:06:19  #市場
-
-【8月首個交易日A股超4000只個股上漲 市場或迎來蓄勢上攻 】8月3日，A股市場縮量震盪，深證成指跌近1%，創業板指跌逾1%。核聚變、光伏玻璃、超導等多個板塊活躍，整個A股市場超4000只股票上漲，逾80只股票漲停。整個A股市場成交額為2.01萬億元，較前一個交易日縮量。資金面上，7月股票型ETF資金淨流入超4700億元。8月3日滬深兩市主力資金淨流出超260億元，資金情緒謹慎。分析人士認為，指數仍具備較強的內生穩定性，在政策、產業趨勢與微觀流動性共同支撐下，調整基本告一段落，市場或迎來蓄勢上攻。（中證報）
 
 ---

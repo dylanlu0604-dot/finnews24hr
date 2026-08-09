@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 22:46:10_
-_本檔包含 3134 則快訊，約 602081 字_
+_更新時間：2026-08-09 23:42:18_
+_本檔包含 3139 則快訊，約 601467 字_
+
+---
+
+### 2026-08-09 23:39:48  #其他
+
+【南非開普敦發生3起槍擊事件致11人死亡】南非警方9日說，南非立法首都開普敦8日晚至9日凌晨接連發生3起槍擊事件，共造成11人死亡。（新華社）
+
+---
+
+### 2026-08-09 23:34:12  #國際
+
+俄羅斯或於2027年將外籍車牌車輛繳納交通罰單的期限由60天縮短至1天。逾期繳納後，相關車輛將被扣留，直至罰單繳清。
+
+---
+
+### 2026-08-09 23:19:35  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran parliamentary committee approves Strait of Hormuz security and development action-plan outline】On the 9th, Iran’s parliamentary National Security and Foreign Policy Committee approved an outline of a strategic action plan to ensure the security and development of the Strait of Hormuz.
+
+---
+
+### 2026-08-09 23:15:12  #其他
+
+【新加坡舉行國慶慶典】新加坡8月9日舉行國慶慶典，慶祝獨立61週年。（新華社）
+
+---
+
+### 2026-08-09 23:13:21  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Market source: a senior Yemeni source said Saudi officers, their forces and mercenaries will not be spared from missile and drone strikes by the Yemeni military.
+
+---
+
+### 2026-08-09 23:12:10  #MKT News
+
+Israeli military said Israeli forces last week destroyed a tunnel used by Hezbollah inside Lebanon's southern security zone.
+
+---
+
+### 2026-08-09 23:11:59  #其他
+
+“木頭姐”凱西·伍德：頗具諷刺意味的是，與主流說法相反，開源權重模型恰恰成為OpenAI、Anthropic，以及在我們看來最終的SpaceXAI有望攫取絕大部分模型驅動型人工智慧營收的一大重要原因。
+
+---
+
+### 2026-08-09 23:08:18  #國際
+
+以色列總理內塔尼亞胡：必須對哈馬斯重型、中型或輕型武器進行真正拆除，而不是僅僅形式上的拆除。
+
+---
+
+### 2026-08-09 23:07:09  #焦點 #國際
+
+市場資訊：伊朗陸軍地面部隊進入全面戒備狀態。
+
+---
+
+### 2026-08-09 23:06:49  #公司
+
+OpenAI執行長奧特曼：我最為欣賞OpenAI團隊的一點，便是他們一心助力客戶與使用者取得成功，並由衷為之歡欣鼓舞。
+
+---
+
+### 2026-08-09 23:04:49  #國際
+
+美國五角大樓：財長貝森特、格雷厄姆將與防長赫格塞思於週一一同視察軍事基地。
+
+---
+
+### 2026-08-09 23:03:22  #公司
+
+【上海機場近四成航班受颱風“白海豚”影響調減取消】今日晚間上海機場集團釋出公告稱，明日（8月10日)上海浦東機場和虹橋機場通行能力將出現下降，近四成進出港航班調減取消。兩場計劃取消進出港航班943架次，其中，浦東機場取消642架次、虹橋機場取消航班301架次。機場方面提醒旅客及時向所乘航司瞭解查詢航班最新動態。
+
+---
+
+### 2026-08-09 22:59:58  #其他
+
+【“白海豚”已減弱為強熱帶風暴】據中央氣象臺訊息，“白海豚”已減弱為強熱帶風暴。8月9日22時，其中心位於浙江省溫州市文成縣境內（北緯27.6度、東經120.1度），最大風力11級。“白海豚”將以每小時20公里左右的速度向偏西方向移動，強度逐漸減弱。
+
+---
+
+### 2026-08-09 22:55:40  #焦點 #國際
+
+【伊媒說議會國家安全委員會批准霍爾木茲海峽安全綱要】據伊朗邁赫爾通訊社9日報道，伊朗議會國家安全與外交政策委員會批准了確保霍爾木茲海峽安全與發展的戰略行動計劃綱要。（新華社）
+
+---
+
+### 2026-08-09 22:49:52  #焦點 #國際
+
+據伊朗邁赫爾通訊社9日報道，伊朗議會國家安全與外交政策委員會批准了確保霍爾木茲海峽安全與發展的戰略行動計劃綱要。（新華社）
+
+---
+
+### 2026-08-09 22:48:05  #MKT News
+
+【Netanyahu says opposing Trump on Gaza plan 'no risk'】Former Israeli diplomat Alon Pinkas said Netanyahu needs a 'perpetual war' and that Israel's rejection of the Gaza plan should be read in the context of the Oct. 27 election. Pinkas said Netanyahu calculated it was 'no risk' to openly defy Trump because he assesses Trump is less concerned, timing is favorable, Hamas remains armed, and he can act without punishment, tying the stance to prolonged conflict and electoral strategy.
+
+---
+
+### 2026-08-09 22:47:48  #其他
+
+葉門政府：與胡塞武裝在塔伊茲地區使用各類武器交火，武器型別包括輕型武器和重型武器。
 
 ---
 
@@ -18809,77 +18911,5 @@ U.S. is relocating some air-to-air refueling tankers from Ben Gurion Airport in 
 ### 2026-08-07 15:16:42  #MKT News #Market Regions #Greater China
 
 【China government bond futures midday close】China government bond futures midday close: 2-year (TS) main contract +0.01%; 5-year (TF) +0.03%; 10-year (T) +0.04%; 30-year (TL) +0.29%.
-
----
-
-### 2026-08-07 15:16:04  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-The Shangai Composite Index Closes 1.04% Higher — The Shangai Composite Index rose 41 points or 1.04 percent on Friday to close at 3941 points. Leading the gains are Sanan Optoelectron (4.67%), Sh Fosun Pharma (3.73%) and Jiangsu Hengrui (3.68%).
-
----
-
-### 2026-08-07 15:15:37  #MKT News
-
-【China's Ministry of National Defense responds to Japan cruise missile live-fire test】On the afternoon of Aug. 7, China's Ministry of National Defense spokesman, Senior Colonel Chen Xi, said Japan's accelerating development of offensive weapons is increasingly rampant and dangerous and warrants high vigilance from regional states. He said Japan's claim of "peripheral security threats" is a pretext to breach its pacifist constitution and its "exclusive defense" posture and to accelerate "re-militarization." Chen said the real threat to Japan's security and regional stability is Japan's domestic push to expand its armed forces, and urged the international community to unite and act to contain Japan's "new militarism."
-
----
-
-### 2026-08-07 15:15:03  #市場
-
-【國債期貨收盤】 30年期主力合約漲0.29%， 10年期主力合約漲0.04%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。
-
----
-
-### 2026-08-07 15:14:42  #市場
-
-丹麥製藥商諾和諾德、西蘭製藥早盤交易上漲3%至4%。
-
----
-
-### 2026-08-07 15:14:38  #其他
-
-必和必拓港口聯合工會：高壓及電力工人將於8月9日開展12小時停工行動。
-
----
-
-### 2026-08-07 15:14:09  #Trading Economics #Economy #Switzerland #Consumer Confidence #Importance 2
-
-Switzerland Consumer Morale Lower than Expected — Switzerland’s consumer confidence index fell to -35 in July 2026, down from -33 a year earlier and below market expectations of -34, signaling a continued deterioration in household sentiment. Consumers became more pessimistic about their past financial situation, with the corresponding index falling to -44 from -41, while expectations for their future financial position declined to -32 from -28. Sentiment toward making major purchases also weakened significantly, dropping to -55 from -51, suggesting that households remain cautious about discretionary spending. Meanwhile, perceptions of the broader economic outlook were broadly stable, edging down only slightly to -37 from -36 a year earlier. Despite the annual deterioration, confidence improved modestly from June, when the index stood at -36.
-
----
-
-### 2026-08-07 15:13:24  #市場
-
-必和必拓港口聯合工會：必和必拓西澳大利亞鐵礦石業務的工人已通知，將於8月9日實施24小時停工。
-
----
-
-### 2026-08-07 15:12:25  #MKT News #Market Regions #Emerging Markets
-
-Thailand's finance minister said the government is targeting a 4% potential growth rate over the next four years.
-
----
-
-### 2026-08-07 15:11:59  #其他
-
-慕尼黑再保險首席財務官談法國和西班牙野火：目前尚無跡象表明這會給我們帶來重大損失事件。
-
----
-
-### 2026-08-07 15:11:52  #其他
-
-法國農產品總署估計，截至8月3日，法國糧食用玉米處於良好/優良狀況的比例為31%，前一週該比例為34%。
-
----
-
-### 2026-08-07 15:11:47  #國際
-
-泰國財長：目標未來四年實現潛在增長率4%。
-
----
-
-### 2026-08-07 15:11:30  #國際
-
-【日本“再軍事化”妄動是地區和平穩定的真正威脅】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。 記者：據報道，日本海上自衛隊近期進行“戰斧”巡航導彈實彈試射，日防衛大臣稱面對戰後最嚴峻、最複雜的安全環境，遠端導彈將成為日一種反擊手段。此外，日航空自衛隊還進行了新型導彈掛飛試驗。請問對此有何評論？ 陳曦：日方加快發展進攻性武器的動向日益猖獗、十分危險，值得地區國家高度警惕。事實已經證明，日方所謂“周邊安全威脅”只是其突破和平憲法和“專守防衛”規制，加速推進“再軍事化”的藉口。真正威脅日本安全、地區和平穩定的，恰恰是日本國內謀求擴軍備武、加速“再軍事化”的妄動。噩夢不能重演，和平需要守護。國際社會必須團結起來、行動起來，共同遏制日本“新型軍國主義”成勢為患、禍亂世界。
 
 ---

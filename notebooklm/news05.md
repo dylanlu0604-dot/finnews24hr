@@ -1,7 +1,129 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 22:46:10_
-_本檔包含 3091 則快訊，約 601734 字_
+_更新時間：2026-08-09 23:42:18_
+_本檔包含 3082 則快訊，約 600847 字_
+
+---
+
+### 2026-08-04 06:40:14  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Surges by 9.41% — Top commodity gainers are Cocoa (9.41%), Rubber (3.74%) and Sugar (2.33%). Biggest losers are Coffee (-3.31%) and Lumber (-2.12%).
+
+---
+
+### 2026-08-04 06:36:20  #MKT News #Star Stocks #AMZN.O #Impact bearish #Nasdaq100
+
+Amazon (AMZN.O) fell nearly 2% in after-hours trading.
+
+---
+
+### 2026-08-04 06:35:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Iron Ore Falls by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%) and Lithium Carbonate (-2.10%). Gains are led by Silicon (2.52%), Copper (1.22%), Silver (0.90%) and Gold (0.24%).
+
+---
+
+### 2026-08-04 06:35:07  #公司 #市場
+
+貝索斯提交股票出售申報後，亞馬遜美股盤後下跌 1.9%。
+
+---
+
+### 2026-08-04 06:32:17  #宏觀 #國際
+
+市場訊息：韓國最快將於 8 月出臺住房供給相關措施。
+
+---
+
+### 2026-08-04 06:30:13  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Naphtha Slumps by 5.89% — Top commodity losers are Naphtha (-5.89%), Heating Oil (-5.58%), Crude Oil WTI (-5.56%) and Brent Crude Oil (-5.03%). Gains are led by Natural gas (0.87%).
+
+---
+
+### 2026-08-04 06:29:55  #公司 #市場 #焦點 #國際
+
+【週二重要財經資訊提醒（以下均為北京時間）】
+① 時間待定 AI產業年度盛會：第二十屆沙利文·GIL峰會開幕（8月4-5日）；
+② 時間待定 FMS 2026快閃記憶體峰會開幕（8月4-6日），三星、SK等儲存巨頭出席；
+③ 歐洲股市開盤之前 英國石油公司BP將釋出業績報告；
+④ 美股盤前 卡特彼勒等將釋出業績報告；
+⑤ 時間待定 美國白宮計劃召集OpenAI、Anthropic、谷歌、Meta等巨頭，討論AI模型安全測試框架；
+⑥ 20:30 美國6月貿易帳，加拿大6月貿易帳；
+⑦ 22:00 美國6月JOLTS職位空缺，6月工廠訂單，6月耐用品訂單終值；
+⑧ 美股盤後 SpaceX釋出美國IPO以來第一份業績報告，AMD等也將釋出業績報告。
+
+---
+
+### 2026-08-04 06:29:11  #公司
+
+【“創新+出海”驅動，A股生物醫藥公司盈利能力提升】2026年上半年，A股生物醫藥公司整體盈利能力顯著提升，在韌性發展中交出亮眼的成績單，創新驅動與國內外市場拓展成為業績增長的核心動力。截至8月3日，104家A股生物醫藥公司披露了上半年業績情況（含半年報、業績預告等）。從預告淨利潤增幅下限來看，有67家公司預計淨利潤增長（包括扭虧、減虧）。此外，藥明康德、沃華醫藥、澤璟製藥等10家公司披露半年報，其中7家實現淨利潤同比增長或扭虧。（上證報）
+
+---
+
+### 2026-08-04 06:29:06  #公司
+
+【走差異化“出海”路徑，資管機構搶籌港股基石投資】今年以來，廣發基金及廣發國際資管、博時基金（國際）、淡水泉（香港）、大成基金及大成國際資管等中資資管機構全面發力港股IPO國際配售，以基石投資者身份與全球資本同場競技，參與新經濟、硬科技等優質企業發展，提升資管行業的全球競爭力。 據統計，截至7月31日：今年以來廣發基金及廣發國際資管參與25家港股IPO公司國際配售，認購總金額達23.28億港元；高瓴旗下私募證券機構HHLR Advisors參與18家港股IPO公司國際配售，認購總金額達64.96億港元；博時基金（國際）參與5家港股IPO公司國際配售，認購總金額近8億港元。今年以來的港股IPO基石投資者名單中，還有富國基金及富國資產管理（香港）、大成基金及大成國際等，認購金額均超過3億港元。（上證報）
+
+---
+
+### 2026-08-04 06:28:50  #其他
+
+【7月浮盈超過400%，公募積極“打新”增厚收益】公募機構近期掀起了一輪“打新”熱潮。7月，在長鑫科技等優質個股的吸引下，百餘家公募機構參與新股網下配售，合計投入近140億元，整體浮盈比例超過400%。隨著硬科技賽道新股的持續增加，“打新”升級為公募的常規選項，多家機構表示將繼續捕捉下半年“打新”機遇。（上證報）
+
+---
+
+### 2026-08-04 06:26:57  #公司 #國際
+
+【Coatue對沖基金暴跌8%，創一年多來最大單月跌幅】Coatue Management旗下的對沖基金在7月份暴跌8.3%，成為最新一家因人工智慧（AI）股票大幅拋售而遭遇劇烈震盪的專注科技領域的資金管理公司。據知情人士透露，該基金年初至今的回報率仍為14.3%。此次虧損是Philippe Laffont執掌的該基金一年多來的最差月度表現。截至3月31日，該公司在美國市場的四大重倉多頭頭寸在7月份均遭遇了兩位數的跌幅。
+
+---
+
+### 2026-08-04 06:15:38  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
+
+Amazon (AMZN.O) founder Jeff Bezos sold $4.07 billion of stock.
+
+---
+
+### 2026-08-04 06:15:13  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Appreciates by 0.95% — Top currency gainers are South Korean Won (0.95%) and Dollar Index (0.08%). Biggest losers are Norwegian Krone (-0.68%), British Pound (-0.40%), Swiss Franc (-0.36%) and Euro (-0.15%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-08-04 06:11:27  #公司
+
+亞馬遜創始人傑夫·貝索斯出售價值 40.7 億美元股票。
+
+---
+
+### 2026-08-04 06:08:16  #市場
+
+Coatue旗下對沖基金下跌 8%，創一年多以來最大跌幅。
+
+---
+
+### 2026-08-04 06:07:46  #國際
+
+美國參議院投票，有望圍繞臨時性融資草案透過程式性投票，該權宜性融資方案將幫助特朗普的聯邦政府有資金持續運作至12月11日。
+
+---
+
+### 2026-08-04 06:07:12  #公司 #市場
+
+【訂單翻倍 業績走強 船舶行業維持高景氣 】自然資源部8月3日釋出全國海洋經濟統計資料顯示，今年上半年，我國海船新承接訂單量、完工量和手持訂單量全面上漲，國際市場份額保持領先，其中新接訂單量同比增長105.2%。船舶行業延續高景氣，今年上半年，我國造船三大指標全面增長，國際市場份額保持全球領先。上市公司半年度業績預告也印證這一趨勢，多家船舶企業上半年業績大幅預增，新增訂單穩步攀升。（中證報）
+
+---
+
+### 2026-08-04 06:06:49  #公司
+
+【超百家藥企釋出上半年業績預告 創新藥出海與價值兌現成主線】Wind資料顯示，截至8月3日，A股共有104家醫藥生物公司披露了2026年半年度業績預告。以預計淨利潤上限來看，58家公司預計今年上半年歸母淨利潤實現增長，其中28家預計歸母淨利潤同比增長超100%。分析人士認為，當前創新藥出海與價值兌現成為核心焦點，市場對授權合作的質量要求日趨嚴格，更關注首付款的含金量、合作方的實力及臨床資料的紮實程度。能夠憑藉領先產品實現海外商業化、並具備持續創新能力的藥企將更受市場青睞。（中證報）
+
+---
+
+### 2026-08-04 06:06:19  #市場
+
+【8月首個交易日A股超4000只個股上漲 市場或迎來蓄勢上攻 】8月3日，A股市場縮量震盪，深證成指跌近1%，創業板指跌逾1%。核聚變、光伏玻璃、超導等多個板塊活躍，整個A股市場超4000只股票上漲，逾80只股票漲停。整個A股市場成交額為2.01萬億元，較前一個交易日縮量。資金面上，7月股票型ETF資金淨流入超4700億元。8月3日滬深兩市主力資金淨流出超260億元，資金情緒謹慎。分析人士認為，指數仍具備較強的內生穩定性，在政策、產業趨勢與微觀流動性共同支撐下，調整基本告一段落，市場或迎來蓄勢上攻。（中證報）
 
 ---
 
@@ -18457,173 +18579,5 @@ Iran’s foreign ministry spokesman said U.S. threats are not new and Tehran act
 ### 2026-08-02 23:45:32  #國際
 
 哈馬斯：以色列週日空襲加沙造成18人以上死亡。
-
----
-
-### 2026-08-02 23:42:14  #市場 #焦點
-
-暗盤白銀突破53美元/盎司，日內漲幅1%。
-
----
-
-### 2026-08-02 23:33:11  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
-
-Japan cut its holdings of US Treasuries by $96 billion over the past three months, trimming holdings to $1.14 trillion — the lowest level since April 2025.
-
----
-
-### 2026-08-02 23:28:25  #MKT News
-
-【Pashinyan reappointed as Armenian prime minister】Armenian President Vahagn Khachaturyan on the 2nd signed a decree appointing Nikol Pashinyan as prime minister, securing his reappointment.
-
----
-
-### 2026-08-02 23:28:24  #其他
-
-【帕什尼揚連任亞美尼亞總理】亞美尼亞總統哈恰圖良2日簽署法令，任命帕什尼揚為亞美尼亞新一任總理，帕什尼揚因此獲得連任。（央視新聞）
-
----
-
-### 2026-08-02 23:26:57  #其他
-
-委內瑞拉與多明尼加共和國達成協議，恢復外交關係。
-
----
-
-### 2026-08-02 23:26:38  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-CENTCOM said a US Marine Corps F-35C launched from USS Abraham Lincoln (CVN-72), which is operating in the Arabian Sea supporting US blockade operations against Iran. As of Aug. 2 it had rerouted 35 merchant vessels, rendered two inoperable and boarded and inspected two others.
-
----
-
-### 2026-08-02 23:26:14  #國際
-
-俄國防部：打擊烏克蘭尼古拉耶夫港基礎設施以及兩艘裝載軍用物資的船隻。
-
----
-
-### 2026-08-02 23:25:15  #國際
-
-美國軍方：截至8月2日，中央司令部已改變35艘商船航線，使2艘商船喪失行動能力，並登上2艘商船進行檢查。
-
----
-
-### 2026-08-02 23:24:11  #國際
-
-以色列小型內閣部長澤埃夫·埃爾金：在解除哈馬斯武裝之前，我們不會撤出加沙，而能否實現這一目標尚存疑問。
-
----
-
-### 2026-08-02 23:18:38  #其他
-
-【河南2026年“三支一扶”計劃發現有考試作弊行為】記者從河南省“三支一扶”領導小組協調辦公室獲悉，針對2026年“三支一扶”計劃招募輿情，經核查，發現有非法參與考試作弊行為。目前，已對河南省人事考試中心負責人停職調查。公安機關已成立專案組，對涉嫌違法犯罪行為進行全面偵查調查。下一步，對涉嫌違法犯罪的相關人員，河南將依法嚴厲懲處，偵查調查結果將及時公佈。（新華社）
-
----
-
-### 2026-08-02 23:16:33  #國際
-
-美國華盛頓州多處重大野火持續肆虐，已有數百棟建築被毀。
-
----
-
-### 2026-08-02 23:14:48  #公司 #市場 #國際
-
-【日本正快速減持美國國債】過去三個月，日本減持規模達960億美元，持倉降至1.14萬億美元，為2025年4月以來最低水平。
-
----
-
-### 2026-08-02 23:14:08  #MKT News #AAL.O #Impact bearish
-
-American Airlines cancels all flights from New York to Israel's Ben Gurion Airport through March 2027.
-
----
-
-### 2026-08-02 23:13:42  #其他
-
-西班牙休達市長稱，桑切斯政府在從休達遣返非法移民的人數問題上撒謊。他表示，仍有10000至15000名非法移民露宿休達街頭，其中不少人在海灘搭建臨時營地。
-
----
-
-### 2026-08-02 23:11:54  #MKT News
-
-【Explosion near police station in northwest Pakistan kills seven】Pakistan police said an explosion near a police station in Khyber Pakhtunkhwa province on the 2nd killed at least seven people and injured 18.
-
----
-
-### 2026-08-02 23:11:04  #其他
-
-【巴基斯坦西北部發生爆炸 致7人死亡】巴基斯坦警方當地時間2日說，該國西北部開伯爾-普什圖省一警局附近發生爆炸，造成至少7人死亡、18人受傷。
-
----
-
-### 2026-08-02 23:08:11  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Russian Defence Ministry said it struck infrastructure at the Ukrainian port of Mykolaiv and attacked two cargo ships carrying supplies to Ukrainian armed forces, as well as a seagoing tug used to deploy underwater drones.
-
----
-
-### 2026-08-02 23:06:03  #其他
-
-索尼新《蜘蛛俠》電影美加地區開畫票房3.55億美元。
-
----
-
-### 2026-08-02 23:05:26  #國際
-
-【海灣國家對美國缺乏針對伊朗的戰略感到沮喪】海灣國家對美國缺乏針對伊朗的戰略感到沮喪。美國在海灣的盟友要求華盛頓向它們提供更多防空攔截器，並保證美國軍隊將在打擊交換持續的情況下保護它們。並非所有海灣國家都在推動緩和緊張局勢。其中一些國家，包括阿聯酋，在最近幾天與特朗普接觸，試圖說服他採取更強硬的措施對抗伊朗。與此同時，一名伊朗外交官表示，如果外交努力失敗，革命衛隊正在考慮進行先發制人的攻擊。
-
----
-
-### 2026-08-02 23:02:42  #國際
-
-美國航空更新稱，取消飛往以色列的航線，直至2027年3月27日，即冬季航季結束。
-
----
-
-### 2026-08-02 23:00:34  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-【CSRC sanctions multiple brokerages; investment banking under continued strict oversight】On July 31 the China Securities Regulatory Commission and its local branches published multiple administrative enforcement decisions targeting investment banking conduct, holding six brokerages — GF Securities, Hongta Securities, Century Securities, Yongxing Securities, Guorong Securities and Guoyuan Securities — accountable for professional-practice and internal-control deficiencies. Regulators issued two types of measures depending on the severity of violations: warning letters and orders to rectify.
-
----
-
-### 2026-08-02 22:59:11  #國際
-
-俄羅斯國防部：烏克蘭尼古拉耶夫港港口基礎設施及兩艘載有軍用物資的船隻被擊中。
-
----
-
-### 2026-08-02 22:58:07  #公司
-
-【證監會對多家券商開出罰單 投行業務繼續嚴監管】7月31日，證監會及屬地派出機構集中披露多份投行業務相關行政監管措施決定書，對多家券商執業及內控問題進行問責。本次監管物件涵蓋廣發證券、紅塔證券、世紀證券、甬興證券、國融證券、國元證券六家券商，監管部門根據各家機構違規情節的不同，分別採取出具警示函、責令改正兩類行政監管措施。 廣發證券、紅塔證券、世紀證券三家機構被監管出具警示函，違規問題聚焦投行內控管理與執業規範短板。   甬興證券、國融證券、國元證券則被監管採取力度更嚴苛的責令改正措施。  此外，甬興證券時任投行業務負責人金勇熊、國元證券時任投行業務負責人李洲峰、國融證券時任投行業務負責人柳萌還被採取出具警示函的監管措施，認定三人對相關公司投行業務違規行為承擔管理失職責任。（央視新聞）
-
----
-
-### 2026-08-02 22:56:55  #其他
-
-【國內等級最高燃氣機組全面投產】近日，中國電建承建的四川能投德陽（中江）燃氣發電工程‌2號機組完成168小時滿負荷試執行，正式進入商業運營階段，標誌著專案順利實現雙機投運目標。該專案‌坐落於德陽市中江縣凱州新城園區，配置兩臺700兆瓦級9H級重型燃氣發電機組，是國內等級最高的燃氣機組，也是國際領先的高功率、高效率的重型燃氣機組。
-
----
-
-### 2026-08-02 22:54:10  #公司
-
-【蔚來公司與密雲文旅合作，開創汽車文旅雙向賦能新正規化】8月2日，蔚來公司宣佈與密雲文旅攜手合作，面向京津冀蔚來、樂道、firefly螢火蟲三品牌使用者打造汽車+文旅一體化出行新體驗。雙方將依託各自資源優勢與場景聯動，共同促進綠色出行與文旅消費的融合發展，開創汽車文旅雙向賦能新正規化。同日，樂道密雲門店正式開業。
-
----
-
-### 2026-08-02 22:51:01  #公司
-
-【持續發酵 歐足聯或將投票罷免因凡蒂諾】據英國方面當地時間8月1日訊息，歐足聯已要求國際足聯主席因凡蒂諾辭職。若因凡蒂諾拒絕，歐足聯準備對他發起不信任投票。據瞭解，國際足聯211個成員協會中有43家協會投票支援該不信任投票即可啟動罷免程式，歐足聯擁有55個成員協會。歐足聯的這一舉動，是由於因凡蒂諾提出希望成立一家價值200億美元（約合150億英鎊）的子公司，並透過融資42億美元（約合31.6億英鎊），出售新成立的“國際足聯前進計劃（FFE）”超過20%的股份。（央視新聞）
-
----
-
-### 2026-08-02 22:50:44  #觀點
-
-【摩根士丹利最新研判：AI投資進入“半場休整”，關注兩大新主線】據券商中國，摩根士丹利中國首席經濟學家邢自強近日在媒體溝通會上分享了其最新觀點。邢自強認為，近期AI賽道波動非基本面惡化，系交易擁擠、大廠融資抽水、油價推升加息預期共振所致。他認為AI投資進入“半場休整”，邏輯正從追逐算力晶片上游，轉向AI應用端（降本兌收）與HALO資源配套（能源、儲能、原材料）兩大新主線。
-
----
-
-### 2026-08-02 22:48:20  #MKT News
-
-【Magnitude-4.8 earthquake in Xinghai county, Hainan prefecture, Qinghai; 10 km depth】CENC recorded a magnitude-4.8 earthquake at 22:31 on Aug. 2 (Beijing time) in Xinghai county, Hainan prefecture, Qinghai (35.34°N, 99.50°E); focal depth 10 km.
 
 ---
