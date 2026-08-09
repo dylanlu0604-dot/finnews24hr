@@ -1,7 +1,46 @@
 {
   "date": "2026-08-09",
-  "count": 669,
+  "count": 673,
   "items": [
+    {
+      "id": "5032572",
+      "time": "2026-08-09 21:07:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【無人機威脅增多 德國新建機構研究應對】德國萊比錫機場發現搭載爆炸物的無人機後，內政部長亞歷山大·多布林特宣佈該國將新建一所無人機安全研究機構，以應對這類威脅。據德國《星期日圖片報》9日報道，這一新機構位於德國東部薩克森-安哈爾特州的德國航空航天中心試驗機場，將於本月18日成立。多布林特表示，該機構將致力於開發和測試無人機防範技術，整合相關科研人員，根據安全部門要求進行技術創新，加強無人機安全研究。（新華社）"
+    },
+    {
+      "id": "5032571",
+      "time": "2026-08-09 21:04:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【塞普勒斯有望2028年為歐洲供氣】塞普勒斯能源部長邁克爾·達米亞諾斯日前接受美國媒體採訪時說，塞普勒斯有望最早於2028年3月起向歐洲供應東地中海地區出產的天然氣。達米亞諾斯告訴美聯社，烏克蘭危機和中東戰事令全球能源市場動盪，促使歐洲國家推動能源來源多元化，而東地中海地區的海上氣田正逐漸進入它們的視野，成為替代供應渠道。（新華社）"
+    },
+    {
+      "id": "5032570",
+      "time": "2026-08-09 21:03:45",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【槓桿ETF規模激增放大市場波動，華爾街日內動量交易迎爆發式增長】隨著槓桿ETF資產規模的爆炸式增長，其每日機械性再平衡機制正顯著放大市場波動，進而為華爾街日內動量交易策略創造了新的獲利途徑。當前，半導體等科技板塊已成為此類短期趨勢交易的核心領域。槓桿ETF的運作機制決定了其具有天然的順週期特徵。為維持既定槓桿倍數，此類基金在市場上漲時必須追加買入，下跌時則被迫賣出。在此背景下，專注於高波動資產的日內動量策略迎來了顯著增長。資料顯示，自2024年以來，針對半導體行業的日內動量有效策略數量增長逾兩倍。這類策略透過嚴格的量化規則在價格大幅波動時捕捉短期趨勢，其風險調整後收益遠超美股整體指數表現。摩根大通策略師指出，當前市場的高波動性特徵令人回想起1998年技術革命時期，為日內動量策略提供了極佳的交易環境。"
+    },
+    {
+      "id": "mkt:019fe69f-021d-7aab-8fca-2eda20069325",
+      "time": "2026-08-09 21:03:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【July CPI expectations dip; Citi, BofA split on September hike odds】Refinitiv survey: economists expect US July headline CPI 3.4% YoY (June 3.5%); core CPI 2.5% YoY (June 2.6%). Citi economists say two consecutive months of softer inflation readings would effectively rule out a September rate hike. Citi nonetheless expects core services inflation to tick up 0.3% MoM in July after being flat in May–June. BofA analysts say a rebound in core services could keep a September hike on the table. BofA analyst Kate Duguid adds that if the latter view wins and inflation prints below expectations, a Fed hike could be delayed to December or later."
+    },
     {
       "id": "5032568",
       "time": "2026-08-09 21:03:07",
