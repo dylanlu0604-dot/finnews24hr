@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-10 04:08:41",
-  "count": 15958,
+  "updated": "2026-08-10 04:12:31",
+  "count": 15959,
   "items": [
+    {
+      "id": "mkt:019fe826-f519-7aab-8fcb-b34d971b3789",
+      "time": "2026-08-10 04:11:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran appoints Mohsen Rezaei as secretary of Supreme National Security Council】Mahdi Tabatabai, deputy director of the presidential office for news and communications, said on the 9th that Mohsen Rezaei was appointed secretary of Iran's Supreme National Security Council."
+    },
+    {
+      "id": "5032674",
+      "time": "2026-08-10 04:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗任命雷扎伊為最高國家安全委員會秘書】伊朗總統府負責新聞與通訊事務的副主任邁赫迪·塔巴塔巴伊9日宣佈，穆赫辛·雷扎伊當天被任命為伊朗最高國家安全委員會秘書。（新華社）"
+    },
     {
       "id": "5032673",
       "time": "2026-08-10 04:07:54",
@@ -145345,14 +145361,6 @@
         "國際"
       ],
       "text": "奧迪釋出全新Q9三排座SUV，主攻美國市場，定位品牌旗艦車型。"
-    },
-    {
-      "id": "5021046",
-      "time": "2026-08-03 04:10:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國地震局啟動四級應急響應 現場工作隊趕赴震區】據中國地震臺網正式測定，2026年8月3日2時21分，在四川宜賓市高縣（北緯28.54度，東經104.67度）發生4.8級地震，震源深度6公里。地震發生後，中國地震局迅速啟動四級應急響應，排程中國地震臺網中心、四川省地震局開展應急處置，要求有關單位開展聯合會商，加強震情監測和震後趨勢研判，及時報告有關情況。目前，四川省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。（央視新聞）"
     }
   ]
 }

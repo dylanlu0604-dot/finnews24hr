@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 81,
+  "count": 83,
   "items": [
+    {
+      "id": "mkt:019fe826-f519-7aab-8fcb-b34d971b3789",
+      "time": "2026-08-10 04:11:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran appoints Mohsen Rezaei as secretary of Supreme National Security Council】Mahdi Tabatabai, deputy director of the presidential office for news and communications, said on the 9th that Mohsen Rezaei was appointed secretary of Iran's Supreme National Security Council."
+    },
+    {
+      "id": "5032674",
+      "time": "2026-08-10 04:11:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗任命雷扎伊為最高國家安全委員會秘書】伊朗總統府負責新聞與通訊事務的副主任邁赫迪·塔巴塔巴伊9日宣佈，穆赫辛·雷扎伊當天被任命為伊朗最高國家安全委員會秘書。（新華社）"
+    },
     {
       "id": "5032673",
       "time": "2026-08-10 04:07:54",
