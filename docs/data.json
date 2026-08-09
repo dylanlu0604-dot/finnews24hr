@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10 06:40:50",
-  "count": 15931,
+  "updated": "2026-08-10 06:44:40",
+  "count": 15930,
   "items": [
     {
       "id": "5032710",
@@ -145117,14 +145117,6 @@
         "Important"
       ],
       "text": "New Zealand | Building Permits (MoM) (Jun) | actual -3.6% | previous -4.00%"
-    },
-    {
-      "id": "5021113",
-      "time": "2026-08-03 06:44:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
     }
   ]
 }
