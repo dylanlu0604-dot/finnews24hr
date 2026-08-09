@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-10 03:17:42",
+  "updated": "2026-08-10 03:21:34",
   "count": 15950,
   "items": [
+    {
+      "id": "mkt:019fe7f8-3df5-7aab-8fcb-6b36ddac91a5",
+      "time": "2026-08-10 03:20:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu rejects Gaza peace plan; Peace Committee responds to Israeli concerns】Prime Minister Netanyahu has rejected a 15-point Gaza peace plan, Channel 12 reported. Nikolay Mladenov, the Peace Committee’s senior Gaza representative, said the plan — signed between the Peace Committee and Hamas — ties any Israeli withdrawal to phased, district-by-district demilitarization: Israeli forces would pull back only after weapons, tunnels and related infrastructure in each area are removed and Hamas transfers governance responsibilities. Mladenov said Hamas has agreed to immediately cease all military activity and warned the process would stop immediately if Hamas fails to fulfill its commitments. The Peace Committee urged Israel to give the process a chance and said consultations are ongoing."
+    },
+    {
+      "id": "mkt:019fe7f7-7912-7aab-8fcb-601510cb8115",
+      "time": "2026-08-10 03:19:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Yemeni military source said citizens should avoid areas where Saudi forces are massing."
+    },
     {
       "id": "mkt:019fe7e7-f1f4-7aab-8fcb-5c7d468a8c6f",
       "time": "2026-08-10 03:02:45",
@@ -145264,26 +145284,6 @@
         "BMY.O"
       ],
       "text": "【AstraZeneca in talks with Bristol Myers Squibb on near $400 bln merger】Financial Times: AstraZeneca is exploring a merger with U.S. peer Bristol Myers Squibb that would create one of the world’s largest drugmakers with a combined market value near $400 bln. The companies have held talks in recent months and could reach an agreement soon, but negotiations may also be delayed or collapse. AstraZeneca’s market cap is about £196 bln; Bristol Myers Squibb’s is about $133 bln. The transaction would further accelerate AstraZeneca’s strategic shift toward the U.S. market."
-    },
-    {
-      "id": "5021033",
-      "time": "2026-08-03 03:19:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙致18人死亡】巴勒斯坦加沙地帶民防部門發言人馬哈茂德·巴薩勒2日在一份影片宣告中表示，以軍無人機當天襲擊加沙地帶多地，造成至少18人死亡，其中包括2名婦女和4名兒童。"
-    },
-    {
-      "id": "mkt:019fc3ea-ecc4-7aab-8f48-dd0322314432",
-      "time": "2026-08-03 03:19:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Israeli airstrikes in Gaza Strip kill 18】Palestinian civil defense spokesman Mahmoud Bassal said in a video statement on the 2nd that Israeli drones and airstrikes struck multiple locations across the Gaza Strip, killing at least 18 people, including two women and four children. Bassal said targets included residential apartments, tents sheltering displaced people, civilian vehicles and gatherings. He said an Israeli drone fired two missiles at a civilian vehicle in Gaza City in the evening, killing four; an airstrike on a tent in west Gaza City killed two, including a 13-year-old, and wounded eight. Earlier, an airstrike on a jeep in central Deir al-Balah killed two, and a strike near Jabalia refugee camp in the north killed one and wounded several."
     }
   ]
 }

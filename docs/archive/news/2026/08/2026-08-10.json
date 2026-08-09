@@ -1,7 +1,27 @@
 {
   "date": "2026-08-10",
-  "count": 53,
+  "count": 55,
   "items": [
+    {
+      "id": "mkt:019fe7f8-3df5-7aab-8fcb-6b36ddac91a5",
+      "time": "2026-08-10 03:20:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netanyahu rejects Gaza peace plan; Peace Committee responds to Israeli concerns】Prime Minister Netanyahu has rejected a 15-point Gaza peace plan, Channel 12 reported. Nikolay Mladenov, the Peace Committee’s senior Gaza representative, said the plan — signed between the Peace Committee and Hamas — ties any Israeli withdrawal to phased, district-by-district demilitarization: Israeli forces would pull back only after weapons, tunnels and related infrastructure in each area are removed and Hamas transfers governance responsibilities. Mladenov said Hamas has agreed to immediately cease all military activity and warned the process would stop immediately if Hamas fails to fulfill its commitments. The Peace Committee urged Israel to give the process a chance and said consultations are ongoing."
+    },
+    {
+      "id": "mkt:019fe7f7-7912-7aab-8fcb-601510cb8115",
+      "time": "2026-08-10 03:19:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Yemeni military source said citizens should avoid areas where Saudi forces are massing."
+    },
     {
       "id": "mkt:019fe7e7-f1f4-7aab-8fcb-5c7d468a8c6f",
       "time": "2026-08-10 03:02:45",
