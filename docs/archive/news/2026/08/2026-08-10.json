@@ -1,7 +1,43 @@
 {
   "date": "2026-08-10",
-  "count": 198,
+  "count": 202,
   "items": [
+    {
+      "id": "5032763",
+      "time": "2026-08-10 07:46:58",
+      "tags": [
+        "央行"
+      ],
+      "text": "【本週中國央行公開市場短期限逆回購到期規模1165億元】其中，週一至週五分別到期630億元、465億元、50億元、10億元、10億元，均為7天期。此外，週五將有10000億元182天期買斷式逆回購到期。"
+    },
+    {
+      "id": "5032762",
+      "time": "2026-08-10 07:46:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤上漲0.04點。"
+    },
+    {
+      "id": "5032761",
+      "time": "2026-08-10 07:46:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤上漲1.13%。"
+    },
+    {
+      "id": "mkt:019fe8e9-5c0f-7aab-8fcc-8c4d10d35d76",
+      "time": "2026-08-10 07:43:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【China's newly discovered germanium mineral approved by IMA】Chang'an University said a new mineral discovered and named jointly with the Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, and other institutes — the Wushe River germanium mineral — received approval from the International Mineralogical Association's Commission on New Minerals, Nomenclature and Classification in August. It is the first independently occurring germanate mineral discovered in China. Germanium is a strategic metal used in semiconductors, fiber‑optic communications, infrared optics and solar PV; it has low crustal abundance, rarely forms independent ore bodies, and has typically been recovered as an associated element in lead‑zinc ores and coal."
+    },
     {
       "id": "5032760",
       "time": "2026-08-10 07:43:32",
