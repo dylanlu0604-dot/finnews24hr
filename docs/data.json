@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-09 20:07:13",
+  "updated": "2026-08-09 20:11:13",
   "count": 15998,
   "items": [
+    {
+      "id": "5032553",
+      "time": "2026-08-09 20:10:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞典新研究：RNA預處理可助提升胰島移植效率】瑞典卡羅琳醫學院的研究人員最新開發出一種靶向核糖核酸（RNA）技術，可在胰島移植前對胰島細胞進行短暫預處理，使其移植後能更快地重建血液供應，並有望減少移植所需的供體胰島數量。對糖尿病小鼠進行的實驗證實，與移植未經處理胰島的小鼠相比，移植預處理胰島的小鼠體內，存活並能保持功能的胰島β細胞數量更多，血糖控制情況也更好。研究人員認為，如果進一步研究證實安全有效，這種RNA預處理技術有望提高有限供體胰島的利用效率，使更多患者受益。此外，該技術也有可能用於改善其他型別的細胞移植效果。相關研究成果已發表在國際學術期刊《訊號轉導與靶向治療》上。（新華社）"
+    },
+    {
+      "id": "mkt:019fe66d-36c2-7aab-8fc9-f7082578f67e",
+      "time": "2026-08-09 20:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni government media said the Hodeidah governor survived a Houthi missile attack that targeted his residence in Al-Hokh."
+    },
+    {
+      "id": "5032552",
+      "time": "2026-08-09 20:08:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門官方媒體：荷臺達省省長的住所遭到胡塞武裝使用彈道導彈襲擊 ，省長本人安然無恙。"
+    },
+    {
+      "id": "mkt:019fe66b-457c-7aab-8fc9-eae8b67ca21a",
+      "time": "2026-08-09 20:06:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Fliggy activates emergency response for Typhoon 'White Dolphin'; offers free hotel refunds in Zhejiang, Fujian, Anhui】Fliggy said on Aug 9 it has activated an emergency response for Typhoon 'White Dolphin'. For bookings made before 00:00 on Aug 9 it will allow no-penalty refunds or changes for: Zhejiang hotels with check-ins Aug 9–10; Huangshan, Anhui hotels with check-ins Aug 9–11; and Lianjiang, Fujian hotels with check-ins on Aug 9. Consumers forced to cancel or alter travel by the typhoon can apply to Fliggy for lossless refunds/changes; Fliggy will cover refund/change losses."
+    },
     {
       "id": "5032551",
       "time": "2026-08-09 20:05:33",
@@ -145667,45 +145701,6 @@
         "國際"
       ],
       "text": "市場訊息： 特朗普預計將於 9 月 12 日訪問愛爾蘭。"
-    },
-    {
-      "id": "mkt:019fc261-850b-7aab-8f46-eba89e41e163",
-      "time": "2026-08-02 20:09:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "OPEC+'s Joint Ministerial Monitoring Committee (JMMC) expressed concern about attacks targeting energy infrastructure."
-    },
-    {
-      "id": "mkt:019fc261-4252-7aab-8f46-e711e50f0d46",
-      "time": "2026-08-02 20:09:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "OPEC+ joint ministerial monitoring committee (JMMC) met on Sunday and stressed protecting international sea lanes to ensure uninterrupted energy flows."
-    },
-    {
-      "id": "5020899",
-      "time": "2026-08-02 20:07:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "石油輸出國組織（OPEC）聯合部長級監測委員會（JMMC）於週日召開會議，強調保障國際海上航道暢通對確保能源不間斷供應至關重要。"
-    },
-    {
-      "id": "5020898",
-      "time": "2026-08-02 20:07:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "石油輸出國組織（OPEC）聯合部長級監測委員會（JMMC）對針對能源基礎設施的襲擊表示擔憂。"
     }
   ]
 }
