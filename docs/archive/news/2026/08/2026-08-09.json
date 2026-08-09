@@ -1,7 +1,36 @@
 {
   "date": "2026-08-09",
-  "count": 694,
+  "count": 697,
   "items": [
+    {
+      "id": "mkt:019fe6e1-b100-7aab-8fca-4b85ea11b10f",
+      "time": "2026-08-09 22:16:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi outlet Hadath cites Yemeni military sources saying Houthi forces fired 30 ballistic missiles at civilian targets in al-Mukha."
+    },
+    {
+      "id": "5032593",
+      "time": "2026-08-09 22:15:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一架美軍MQ-9無人機在從吉布提的“沙貝萊（Chabelley）”空軍基地起飛數分鐘後發生墜毀事故。"
+    },
+    {
+      "id": "5032592",
+      "time": "2026-08-09 22:14:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞士再保險就熱浪風險發出警告】瑞士再保險執行長貝格爾（Andreas Berger）在接受瑞士《週日新蘇黎世報》（NZZ am Sonntag）採訪時表示：”熱浪及其相關死亡人數的風險被低估了。”他補充說：”我們需要提高對由此產生的危險的認識。”貝格爾是在瑞士再保險公佈2026年上半年淨利潤增長9%之後發表上述言論的，他表示現在斷言超額死亡率將如何影響這家總部位於蘇黎世的公司的財務資料還為時過早。"
+    },
     {
       "id": "5032591",
       "time": "2026-08-09 22:01:23",
