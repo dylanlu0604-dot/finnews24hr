@@ -1,7 +1,231 @@
 {
-  "updated": "2026-08-10 07:51:50",
-  "count": 15899,
+  "updated": "2026-08-10 07:55:40",
+  "count": 15918,
   "items": [
+    {
+      "id": "5032777",
+      "time": "2026-08-10 07:54:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議意見摘要：一位委員表示，我們現在所處的階段需要警惕潛在通脹可能上行的風險。"
+    },
+    {
+      "id": "mkt:019fe8f3-1642-7aab-8fcc-f0a289fb570e",
+      "time": "2026-08-10 07:54:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "Nikkei 225"
+      ],
+      "text": "Bank of Japan July meeting summary: a member said rising oil prices passing through to consumer inflation, strong global AI-driven demand and Japan’s expansionary fiscal policy boosting demand present substantial upside risks to the inflation outlook."
+    },
+    {
+      "id": "5032776",
+      "time": "2026-08-10 07:54:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行意見摘要：一位委員表示，本次會議維持利率不變是合適的，因為過去加息對通脹和國內經濟的影響存在1至1.5年的滯後期。"
+    },
+    {
+      "id": "5032775",
+      "time": "2026-08-10 07:53:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行意見摘要：一位委員表示，由於短期實際利率仍為負值，金融環境依然寬鬆。"
+    },
+    {
+      "id": "te:markets:573931",
+      "time": "2026-08-10 07:53:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower on Hormuz Uncertainty — US stock futures slipped on Monday as oil prices extended their gains amid fading hopes for a deal to reopen the Strait of Hormuz, keeping inflation risks and the interest rate outlook in focus. Iran said talks with Oman were approaching an agreement but denied holding direct negotiations with the US, despite Washington’s claims that a deal was close. Investors also turned their attention to key US inflation data due this week after July’s jobs report showed an unexpected contraction, fueling expectations that the Federal Reserve may refrain from raising interest rates. Markets now see around a 44% probability of a 25 basis point rate hike in September, down from 67% a week earlier. On the corporate front, earnings from major AI-related companies, including Applied Materials, Cisco and CoreWeave, are due this week."
+    },
+    {
+      "id": "mkt:019fe8f2-5f22-7aab-8fcc-ef511ecbc6a6",
+      "time": "2026-08-10 07:53:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "BANK OF JAPAN July meeting minutes: one member flagged upside inflation risks from a weak yen and strong AI-related demand."
+    },
+    {
+      "id": "mkt:019fe8f2-0cbc-7aab-8fcc-e666575be541",
+      "time": "2026-08-10 07:53:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan June seasonally adjusted current account JPY13.97 bln; prior JPY3,064.5 bln."
+    },
+    {
+      "id": "mkt:019fe8f2-0bd7-7aab-8fcc-da423e5803b8",
+      "time": "2026-08-10 07:53:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June trade balance -¥13.52 bln, prior +¥6.88 bln."
+    },
+    {
+      "id": "5032774",
+      "time": "2026-08-10 07:53:22",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議紀要：一位委員表示，隨著油價上漲傳導至消費通脹，加之全球人工智慧需求及日本擴張性財政政策提振需求，通脹前景面臨巨大的上行風險。"
+    },
+    {
+      "id": "5032773",
+      "time": "2026-08-10 07:53:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱控制兩個居民點 烏稱擊退俄軍進攻】俄羅斯國防部9日通報稱，俄軍控制了頓涅茨克地區的2個居民點。通報還稱，俄軍繼續對烏克蘭的港口和船隻進行打擊，其中包括敖德薩港和切爾諾莫斯克港用於裝卸和儲存燃料、軍用物資等的設施。烏克蘭武裝部隊總參謀部9日通報稱，過去一天前線地區發生231次戰鬥，烏軍在多個方向擊退俄軍進攻。烏空軍、導彈部隊和炮兵襲擊了俄軍8個人員集中區、4套火炮系統以及4個無人機指揮點。"
+    },
+    {
+      "id": "mkt:019fe8f1-da0f-7aab-8fcc-d7a00646bdce",
+      "time": "2026-08-10 07:53:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Trade Balance (Jun) | actual -13521700000.000002B | previous 6875000000B"
+    },
+    {
+      "id": "mkt:019fe8f1-d786-7aab-8fcc-cc7b13d4055a",
+      "time": "2026-08-10 07:53:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account SA (Jun) | actual 13969000000B | previous 3064500000000B"
+    },
+    {
+      "id": "mkt:019fe8f1-a348-7aab-8fcc-c3d48f4c3eab",
+      "time": "2026-08-10 07:52:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan July meeting minutes: one member said producer prices rose on higher import costs, but consumer inflation remains below 2%."
+    },
+    {
+      "id": "5032772",
+      "time": "2026-08-10 07:52:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行7月會議意見摘要：一位委員表示，中東局勢發展、人工智慧相關需求擴大、日元疲軟均推升物價。需警惕日元疲軟和人工智慧相關需求強勁帶來的通脹上行風險。"
+    },
+    {
+      "id": "mkt:019fe8f1-23d3-7aab-8fcc-bf31e014415f",
+      "time": "2026-08-10 07:52:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan July meeting summary: one member said they expect consumer-goods inflation to accelerate again in autumn."
+    },
+    {
+      "id": "mkt:019fe8f0-f204-7aab-8fcc-b078c8c8d9f7",
+      "time": "2026-08-10 07:52:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "BOJ July meeting minutes: a member said developments in the Middle East, rising AI-related demand and a weak yen are pushing up prices."
+    },
+    {
+      "id": "5032770",
+      "time": "2026-08-10 07:52:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議摘要：一名委員表示預計消費品通脹將在秋季前後重新加速。"
+    },
+    {
+      "id": "5032769",
+      "time": "2026-08-10 07:52:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議摘要：一名委員表示，儘管進口成本攀升推高生產者價格，消費者通脹仍低於2%。"
+    },
+    {
+      "id": "5032768",
+      "time": "2026-08-10 07:51:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "海外投資者7月淨買入1.298萬億日元日本股票。海外投資者7月淨賣出1.317萬億日元日本債券。日本7月淨買入1,695億日元海外股票。日本7月淨買入3,657億日元海外債券。"
+    },
+    {
+      "id": "5032767",
+      "time": "2026-08-10 07:51:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月未經調整經常帳赤字-923億日元 (調查預估為盈餘15,120億日元)，前月為盈餘39,683億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608103836049666",
+      "time": "2026-08-10 07:51:10",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月季調後銀行貸款同比增長5.4%，前值5.70%。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608103836049349",
+      "time": "2026-08-10 07:50:27",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月未季調經常帳-923億日元，預期15120億日元，前值39683億日元。"
+    },
     {
       "id": "mkt:019fe8ef-2ed4-7aab-8fcc-a8b3adaa9ddb",
       "time": "2026-08-10 07:50:16",
@@ -144803,34 +145027,6 @@
         "國際"
       ],
       "text": "10年期日本國債收益率上漲1.0個基點，至2.805%。"
-    },
-    {
-      "id": "5021198",
-      "time": "2026-08-03 07:55:02",
-      "tags": [
-        "宏觀",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通：美國財政部可動用資金有限，後續協同日本支撐日元空間受限】摩根大通稱，美國財政部可供與日本開展新一輪協同匯市干預的流動性資源有限；不過如果美方動用非常規手段，干預資金規模有望大幅擴容。策略師Junya Tanase等人在研報中寫道，截至 6 月，美國財政部外匯穩定基金持有約 130 億歐元計價資產以及 255 億美元資產。對比日本 2022 至 2026 年曆次干預規模（約 350 億–600 億美元），當前資金體量偏小。摩根大通指出，美國財政部可以透過變現所持國際貨幣基金組織特別提款權（SDR）、將外幣資產置換為美元，顯著擴充干預彈藥。在該情景下，財政部理論上最多可調動 1870 億美元資金；若美聯儲參與行動，干預規模實際上有望再翻一倍。策略師寫道：儘管如此，“我們認為美國財政部無法無限制開展干預操作，外匯穩定基金（ESF）資金規模有限，若新增資金，很可能需要國會撥款。” 報告稱，美國過往的匯市干預規模通常介於 10 億至 25 億美元之間，遠低於財政部當前持有的美元、歐元流動性資產。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608033829213587",
-      "time": "2026-08-03 07:53:33",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【經濟日報：把握當前中國經濟之勢的關鍵】中國經濟半年報顯示，上半年國內生產總值69.6萬億元，同比增長4.7%。這個4.7%怎麼看？對超大規模經濟體而言，體量越大、基數越高，每提升一個百分點難度就越大，所對應的經濟增量也更大。觀察全面轉入高質量發展軌道的中國經濟，既要看增速，更要看分量；既要看當下，更要看趨勢；既要看資料，更要看資料背後的邏輯。"
-    },
-    {
-      "id": "5021197",
-      "time": "2026-08-03 07:52:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：供需雙弱稀土價格盤整 旺季預期有望助力向上】中信建投研報表示，7月稀土各品種表現差異明顯，氧化鐠釹先揚後抑，氧化鋱跳漲後回撥，氧化鏑整體平穩。供給端，由於廢料廠原料緊張問題導致產量明顯下滑，據上海有色網，7月氧化鐠釹產量環比下降11%，8月或有邊際改善，但總體產量仍被壓制。下游高溫假期導致電機廠開工下滑，需求回落，8月仍處淡季，金九銀十是傳統消費旺季，市場對需求啟動預期依然較強，8月中下旬有望重啟下游備庫，打破供需雙弱格局，推動價格企穩向上。"
     }
   ]
 }
