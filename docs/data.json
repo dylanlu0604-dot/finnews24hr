@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-09 23:17:38",
+  "updated": "2026-08-09 23:21:45",
   "count": 15998,
   "items": [
+    {
+      "id": "mkt:019fe71b-a283-7aab-8fca-84c859d7a061",
+      "time": "2026-08-09 23:19:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran parliamentary committee approves Strait of Hormuz security and development action-plan outline】On the 9th, Iran’s parliamentary National Security and Foreign Policy Committee approved an outline of a strategic action plan to ensure the security and development of the Strait of Hormuz."
+    },
     {
       "id": "5032615",
       "time": "2026-08-09 23:15:12",
@@ -145679,14 +145692,6 @@
         "國際"
       ],
       "text": "以色列小型內閣部長澤埃夫·埃爾金：在解除哈馬斯武裝之前，我們不會撤出加沙，而能否實現這一目標尚存疑問。"
-    },
-    {
-      "id": "5020959",
-      "time": "2026-08-02 23:18:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河南2026年“三支一扶”計劃發現有考試作弊行為】記者從河南省“三支一扶”領導小組協調辦公室獲悉，針對2026年“三支一扶”計劃招募輿情，經核查，發現有非法參與考試作弊行為。目前，已對河南省人事考試中心負責人停職調查。公安機關已成立專案組，對涉嫌違法犯罪行為進行全面偵查調查。下一步，對涉嫌違法犯罪的相關人員，河南將依法嚴厲懲處，偵查調查結果將及時公佈。（新華社）"
     }
   ]
 }

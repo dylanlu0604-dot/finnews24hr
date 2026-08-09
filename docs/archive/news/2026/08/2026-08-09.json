@@ -1,7 +1,20 @@
 {
   "date": "2026-08-09",
-  "count": 725,
+  "count": 726,
   "items": [
+    {
+      "id": "mkt:019fe71b-a283-7aab-8fca-84c859d7a061",
+      "time": "2026-08-09 23:19:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran parliamentary committee approves Strait of Hormuz security and development action-plan outline】On the 9th, Iran’s parliamentary National Security and Foreign Policy Committee approved an outline of a strategic action plan to ensure the security and development of the Strait of Hormuz."
+    },
     {
       "id": "5032615",
       "time": "2026-08-09 23:15:12",
