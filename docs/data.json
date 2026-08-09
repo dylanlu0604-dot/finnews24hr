@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-09 23:46:35",
-  "count": 15992,
+  "updated": "2026-08-09 23:50:36",
+  "count": 15998,
   "items": [
+    {
+      "id": "mkt:019fe735-35da-7aab-8fca-a31d2bc199d4",
+      "time": "2026-08-09 23:47:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's health minister said an attack by Houthi forces on Mocha port killed 7 people and wounded 30."
+    },
+    {
+      "id": "5032622",
+      "time": "2026-08-09 23:47:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭緊急服務局：俄羅斯炮擊哈爾科夫州，致1人死亡、36人受傷。"
+    },
+    {
+      "id": "5032621",
+      "time": "2026-08-09 23:47:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門衛生部長：胡塞武裝襲擊馬哈港，造成7人死亡、30人受傷。"
+    },
+    {
+      "id": "5032620",
+      "time": "2026-08-09 23:46:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府譴責胡塞武裝對馬哈港發動襲擊。"
+    },
+    {
+      "id": "mkt:019fe734-76c5-7aab-8fca-9a6b21518063",
+      "time": "2026-08-09 23:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine emergency services said Russian shelling of Kharkiv region killed one and wounded 36."
+    },
+    {
+      "id": "mkt:019fe734-45dd-7aab-8fca-9280bd24ab8a",
+      "time": "2026-08-09 23:46:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese Health Ministry says Israeli attacks on Lebanon since March 2 have killed at least 4,335 people and wounded 12,277."
+    },
     {
       "id": "mkt:019fe733-4574-7aab-8fca-8eea61c380cf",
       "time": "2026-08-09 23:45:24",
