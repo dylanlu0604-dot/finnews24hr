@@ -1,7 +1,18 @@
 {
   "date": "2026-08-10",
-  "count": 115,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:019fe87e-9ba2-7aab-8fcc-2212fc365292",
+      "time": "2026-08-10 05:47:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "CENTCOM said as of Aug 9 it had rerouted 55 merchant vessels in the Strait of Hormuz, rendered two vessels inoperable and boarded two others to ensure compliance with a blockade order."
+    },
     {
       "id": "5032693",
       "time": "2026-08-10 05:41:51",
