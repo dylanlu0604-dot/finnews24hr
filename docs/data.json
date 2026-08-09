@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-09 08:46:56",
-  "count": 15902,
+  "updated": "2026-08-09 08:55:00",
+  "count": 15905,
   "items": [
+    {
+      "id": "mkt:019fe403-3756-7aab-8fc7-1f84c67d1a54",
+      "time": "2026-08-09 08:54:03",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact mixed",
+        "000660.KS"
+      ],
+      "text": "【Korean equities' most turbulent phase may be over as deleveraging pushes volatility to two‑month low】Korean equity turbulence may have peaked after a historic sell‑off cleared leveraged positions and regulatory curbs cut trading in high‑risk products. A Korean equity volatility index fell to a two‑month low last week after hitting a record high in June. Forced liquidations reduced outstanding margin debt, and tighter rules on leveraged ETFs squeezed volumes and assets linked to Samsung Electronics and SK Hynix. Morgan Stanley says deleveraging is more than half complete. The KOSPI is down nearly 40% from its June peak, and global funds have sold over $100 bln of Korean equities year‑to‑date, leaving EM fund exposure to Korea weakened."
+    },
+    {
+      "id": "5032186",
+      "time": "2026-08-09 08:52:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩大科創板IPO背後：險資重倉硬科技】8月7日下午，宇樹科技舉行科創板IPO網上路演，發行價150.80元/股，對應市值約610億元。兩週前，國產DRAM龍頭長鑫科技登陸科創板，上市首日市值站上3萬億元。兩起標誌性IPO背後，保險資金均深度參與。受訪人士表示，新質生產力產業已成為保險資金獲取成長性收益、提升投資組合長期回報的重要途徑。兩家公司IPO之後，險資一級股權投資價值將更受關注，險資長期股權資產配置能力和優質產業專案儲備價值將逐步顯性化。（上證報）"
+    },
+    {
+      "id": "5032185",
+      "time": "2026-08-09 08:48:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美銀：維持閃迪2500美元目標價，AI儲存需求或推動盈利持續增長】美國銀行在閃迪公佈最新財報後繼續維持看多評級，並表示AI基礎設施擴張可能推動儲存需求持續增長，公司盈利能力或強於市場預期。美銀重申閃迪“買入”評級，並維持2500美元目標價。該目標價基於2027年預期每股收益255美元以及約10倍市盈率估值，相較參考股價1350.5美元隱含約85%的上漲空間。美銀表示，閃迪此前被市場視為典型週期股，但隨著人工智慧發展推動資料儲存需求增加，以及企業級SSD滲透率提升，公司當前盈利水平可能具備更強持續性。財報資料顯示，閃迪第四財季營收達到89.7億美元，環比增長51%，超過公司此前77.5億-82.5億美元的指引。其中，約三分之二增長來自產品價格上漲，其餘來自儲存位元出貨量增加。同期，公司毛利率升至84.6%，高於上一季度的78.4%，並超過此前79%-81%的預期區間。美銀預計，閃迪2027財年每股收益將增長229%-233.85美元，營收增長160%-526億美元。公司預計下一財季營收為103億-108億美元，每股收益為44-46美元，毛利率維持在83%-85%。美銀表示，目前尚未看到閃迪儲存價格和盈利能力達到峰值的明顯跡象，AI基礎設施建設帶來的儲存需求增長可能繼續支撐行業景氣週期。"
+    },
+    {
+      "id": "mkt:019fe3fd-eec9-7aab-8fc7-16f3f640a80d",
+      "time": "2026-08-09 08:48:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Japan Ohi Unit 3 automatically shuts after generator fault】At about 23:55 local time on Aug. 8, Kansai Electric Power Co.'s Ohi nuclear plant Unit 3 in Fukui prefecture automatically shut down after alarms from an internal generator equipment abnormality. Kansai Electric said there is no radiological impact on the surrounding environment. Kansai Electric's Mihama plant Unit 3 in Fukui was manually shut in May after a turbine steam leak."
+    },
+    {
+      "id": "mkt:019fe3fc-82ee-7aab-8fc7-085b303a0510",
+      "time": "2026-08-09 08:46:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media posts video of Supreme Leader Mojtaba Khamenei】Iranian media posted on social media on the 8th a video featuring Iran's supreme leader Mojtaba Khamenei, Xinhua said."
+    },
+    {
+      "id": "5032184",
+      "time": "2026-08-09 08:46:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本大飯核電站3號機組因發電機異常停止執行】當地時間8月8日23時55分左右，位於日本福井縣的關西電力公司大飯核電站3號機組，因發電機內部裝置出現異常，相關警報被觸發，反應堆自動停止執行。關西電力表示，此次事故不會對周邊環境造成放射性影響。關西電力旗下同樣位於福井縣的美濱核電站3號機組，今年5月也曾出現因汽輪機發生蒸汽洩漏而採取手動停機措施的情況。（央視新聞）"
+    },
     {
       "id": "5032183",
       "time": "2026-08-09 08:44:07",
@@ -144868,30 +144922,6 @@
         "國際"
       ],
       "text": "日本經濟財政大臣城內實：日本將加強與市場的雙向溝通。"
-    },
-    {
-      "id": "5020613",
-      "time": "2026-08-02 08:53:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【五糧液普五八代大幅領漲 白酒大單品總價低位微升】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月2日低位企穩。如果主要單品各取一瓶整體打包售賣，今日總售價為9872元，較昨日微幅上漲1元，在昨日跌回近十天低點後止跌微升。縱觀全場，過去的一天酒市終端交投情緒仍顯謹慎，多空雙方繼續低位拉鋸，總價窄幅盤整格局延續。今日11大白酒單品三漲七跌一平，輸家數量佔據明顯優勢，但上漲品種的合計漲幅以1元的微弱優勢超出。上漲方面，五糧液普五八代漲幅居前，大漲10元/瓶，創近一個月最大單日漲幅，終結此前五連陰，價格自“酒價內參”去年11月有統計以來最低位啟動修復；習酒君品上漲7元/瓶，連續兩日走升，重新整理今年5月19日以來最高價紀錄；精品茅臺上漲2元/瓶，錄得二連陽，再度逼近2400元大關。下跌方面，古井貢古20跌幅居前，下跌5元/瓶；國窖1573下跌4元/瓶；青花郎下跌3元/瓶。飛天茅臺與五糧液1618均下跌2元/瓶，前者在7.18提價後的高位整理格局延續。洋河夢之藍M6+與水晶劍南春均小跌1元/瓶，其中後者兩連跌後平近一個月最低價紀錄。青花汾20價格環比昨日保持不變。"
-    },
-    {
-      "id": "mkt:019fbff1-5562-7aab-8f44-28d4b6d10ed5",
-      "time": "2026-08-02 08:48:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Spokane County wildfire spreads; multiple Level 3 evacuation orders issued】Local time Aug 1 — A fast-spreading wildfire in Spokane County, Washington, driven by extreme weather, prompted multiple Level 3 evacuation orders urging immediate evacuation. Fire crews are actively fighting the blaze; a local community college has been opened as a temporary shelter for evacuees."
-    },
-    {
-      "id": "5020612",
-      "time": "2026-08-02 08:48:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國華盛頓州山火蔓延 多地釋出最高階別疏散令】當地時間8月1日，受極端天氣影響，美國華盛頓州斯波坎縣一場山火迅速蔓延，迫使當地居民撤離。消防人員正在全力控制火勢。當地應急管理部門表示，斯波坎地區多地已釋出最高階別的三級疏散令，敦促居民立即撤離，以躲避危及生命的危險情況。當地一所社群學院已設立臨時避難所，接收撤離居民。據華盛頓州消防局稱，斯波坎地區的大火於當天中午左右燃起，起火原因正在調查中。州長辦公室表示，華盛頓州全州共有12起大火正在燃燒，過火面積超800平方公里。（央視新聞）"
     }
   ]
 }
