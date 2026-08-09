@@ -1,7 +1,23 @@
 {
   "date": "2026-08-09",
-  "count": 401,
+  "count": 403,
   "items": [
+    {
+      "id": "mkt:019fe537-95c7-7aab-8fc8-3e7a2611b3ce",
+      "time": "2026-08-09 14:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong posts highest temperature on record】Subsiding air on the periphery of strong Typhoon Baihaidun drove temperatures in Hong Kong to 36.8°C at HKO headquarters as of 13:30 on the 9th, the highest reading since observations began in 1884."
+    },
+    {
+      "id": "5032363",
+      "time": "2026-08-09 14:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港高溫重新整理歷史紀錄】受強颱風“白海豚”外圍下沉氣流影響，香港9日酷熱難耐，截至13時30分，香港天文臺總部錄得36.8℃，創下其自1884年開展觀測以來最高氣溫紀錄。（中新網）"
+    },
     {
       "id": "5032362",
       "time": "2026-08-09 14:25:34",

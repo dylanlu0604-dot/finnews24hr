@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09 14:28:16",
+  "updated": "2026-08-09 14:32:27",
   "count": 15981,
   "items": [
+    {
+      "id": "mkt:019fe537-95c7-7aab-8fc8-3e7a2611b3ce",
+      "time": "2026-08-09 14:30:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong posts highest temperature on record】Subsiding air on the periphery of strong Typhoon Baihaidun drove temperatures in Hong Kong to 36.8°C at HKO headquarters as of 13:30 on the 9th, the highest reading since observations began in 1884."
+    },
+    {
+      "id": "5032363",
+      "time": "2026-08-09 14:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港高溫重新整理歷史紀錄】受強颱風“白海豚”外圍下沉氣流影響，香港9日酷熱難耐，截至13時30分，香港天文臺總部錄得36.8℃，創下其自1884年開展觀測以來最高氣溫紀錄。（中新網）"
+    },
     {
       "id": "5032362",
       "time": "2026-08-09 14:25:34",
@@ -145566,22 +145582,6 @@
         "MKT News"
       ],
       "text": "【Ministry of Water Resources activates Level IV flood-defense emergency for Chongqing】The Ministry of Water Resources activated a Level IV flood-defense emergency response for Chongqing at 13:00 on Aug 2. Forecasts show moderate to heavy rain from Aug 2–4, with central and southeastern Chongqing liable to heavy to torrential rainfall. The upper Yangtze mainstem and tributaries including the Wujiang and Jialing are expected to register significant water rises; smaller rivers along Yangtze tributaries — Dayuxi, Bixi River, and Wujiang tributaries Jiuqu River and Ganlong River — may exceed flood-warning levels. The ministry ordered local water authorities to tighten monitoring and forecasting, maintain emergency duty and joint assessment, enhance warnings, scientifically operate hydraulic projects, and reinforce river flood control, reservoir safety, and defenses against small-river and mountain-flood hazards to protect lives and property."
-    },
-    {
-      "id": "5020708",
-      "time": "2026-08-02 14:28:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國遭遇持續酷熱天氣，已釋出高溫熱浪應急指令，東南部城市梁山觀測到當地史上最高氣溫。"
-    },
-    {
-      "id": "5020707",
-      "time": "2026-08-02 14:28:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會議員週日表態，美國終將明白快速從中東撤軍才是唯一出路，並警告抵抗力量即便當下蒙受傷亡，未來會在全球各處向美方敵人實施報復。"
     }
   ]
 }
