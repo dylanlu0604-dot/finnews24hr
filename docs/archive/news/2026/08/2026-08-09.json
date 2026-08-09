@@ -1,7 +1,19 @@
 {
   "date": "2026-08-09",
-  "count": 682,
+  "count": 683,
   "items": [
+    {
+      "id": "mkt:019fe6b7-69ee-7aab-8fca-376e6cb4acf8",
+      "time": "2026-08-09 21:30:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【WSJ: US officials say Trump patient on Iran standoff, prioritizing Strait of Hormuz shipping】The Wall Street Journal reported US officials say President Trump is taking a patient approach to the Iran standoff and expects to weather it, particularly while gasoline prices remain near current levels. A White House official said US strikes have hit all identified Iranian military targets. Trump’s immediate priority is keeping energy and other shipping through the Strait of Hormuz open; officials say the US will retain military options if Iran mounts further attacks on vessels. Officials added Trump has privately told senior aides in recent weeks that US strikes last year destroyed three major Iranian nuclear facilities and that Iran is unlikely to restart its nuclear program during his term; he believes US intelligence would detect any rebuilding and that the threat of further strikes would serve as ongoing deterrence. Officials said if the US can contain Iran’s nuclear program and the Strait reopens, Trump is more likely to extend the current ceasefire indefinitely, and that if Iran fully reopens the Strait he would lift the US military blockade of Iranian ports."
+    },
     {
       "id": "5032582",
       "time": "2026-08-09 21:24:13",

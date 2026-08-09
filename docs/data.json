@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-09 21:29:24",
-  "count": 16006,
+  "updated": "2026-08-09 21:33:26",
+  "count": 16005,
   "items": [
+    {
+      "id": "mkt:019fe6b7-69ee-7aab-8fca-376e6cb4acf8",
+      "time": "2026-08-09 21:30:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【WSJ: US officials say Trump patient on Iran standoff, prioritizing Strait of Hormuz shipping】The Wall Street Journal reported US officials say President Trump is taking a patient approach to the Iran standoff and expects to weather it, particularly while gasoline prices remain near current levels. A White House official said US strikes have hit all identified Iranian military targets. Trump’s immediate priority is keeping energy and other shipping through the Strait of Hormuz open; officials say the US will retain military options if Iran mounts further attacks on vessels. Officials added Trump has privately told senior aides in recent weeks that US strikes last year destroyed three major Iranian nuclear facilities and that Iran is unlikely to restart its nuclear program during his term; he believes US intelligence would detect any rebuilding and that the threat of further strikes would serve as ongoing deterrence. Officials said if the US can contain Iran’s nuclear program and the Strait reopens, Trump is more likely to extend the current ceasefire indefinitely, and that if Iran fully reopens the Strait he would lift the US military blockade of Iranian ports."
+    },
     {
       "id": "5032582",
       "time": "2026-08-09 21:24:13",
@@ -145741,31 +145753,6 @@
         "其他"
       ],
       "text": "希臘消防部門表示，兩架消防直升機在雅典以西相撞，目前已對機組人員展開搜救行動。"
-    },
-    {
-      "id": "5020921",
-      "time": "2026-08-02 21:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：墨西哥洛沃斯灣以西 60 公里發生 5.1 級地震。"
-    },
-    {
-      "id": "mkt:019fc2aa-a0ee-7aab-8f47-1ca85f4d0714",
-      "time": "2026-08-02 21:29:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact mixed",
-        "WTI",
-        "US10Y"
-      ],
-      "text": "【Weekly preview: US nonfarm week; China July FX reserves, CPI and trade; SpaceX Q2 results due】Mon — China July RatingDog manufacturing PMI; final July manufacturing PMIs for France, Germany, eurozone, UK and US (S&P Global); US July ISM manufacturing and June construction spending. Tue — US June trade deficit, June JOLTS job openings, June factory orders; Flash Memory Summit (Aug 4-6) with Samsung, SK and other memory suppliers; AMD and SpaceX report Q2 results Tuesday US after-market. Wed — Weekly API and EIA crude inventories (week to Jul 31) including Cushing and SPR draws; China July RatingDog services PMI; final July services PMIs for France, Germany, eurozone, UK; eurozone June PPI; US July ADP, final S&P Global services PMI and July ISM non-manufacturing. Saudi Aramco typically announces August OSP around the 5th. Thu — Swiss July seasonally adjusted unemployment; eurozone June retail sales; US July Challenger layoffs, initial jobless claims (week to Aug 1), July global supply‑chain pressure index, June wholesale sales; EIA weekly US gas stocks. SoftBank Group reports FY2026 Q1 results. Fri — France Q2 ILO unemployment; Germany June industrial output and trade balance; UK July Halifax house prices; France June trade balance; Swiss July consumer confidence; Canada July employment; US July unemployment rate, July headline and ADJ nonfarm payrolls, average hourly earnings YoY and MoM, NY Fed 1‑yr inflation expectation. China releases July trade balance (USD basis) and July foreign exchange reserves. Speeches: St. Louis Fed president (2028 FOMC voter) and Richmond Fed president (2027 FOMC voter). Sat — US Baker Hughes rig count (week to Aug 7). Sun — China July CPI YoY."
     }
   ]
 }
