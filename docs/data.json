@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 19:27:54",
+  "updated": "2026-08-09 19:31:48",
   "count": 15986,
   "items": [
+    {
+      "id": "5032527",
+      "time": "2026-08-09 19:29:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "內塔尼亞胡：當我說解除哈馬斯武裝時，我指的是所有型別的重武器和輕武器。"
+    },
+    {
+      "id": "mkt:019fe647-5e45-7aab-8fc9-a91ed7895f2c",
+      "time": "2026-08-09 19:27:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mohsen Rezaei named Supreme Leader’s representative to Iran’s Supreme National Security Council】On the 9th (local time), Iranian sources said Mohsen Rezaei has joined Iran’s Supreme National Security Council as the representative of Supreme Leader and Commander‑in‑Chief Mujtaba Khamenei on the council."
+    },
+    {
+      "id": "5032526",
+      "time": "2026-08-09 19:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【雷扎伊出任伊朗最高領袖駐最高國家安全委員會代表】當地時間9日，據伊朗方面訊息，穆赫辛·雷扎伊已加入伊朗最高國家安全委員會，擔任伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊在該委員會的代表。（央視新聞）"
+    },
     {
       "id": "5032525",
       "time": "2026-08-09 19:25:07",
@@ -145592,35 +145616,6 @@
         "公司"
       ],
       "text": "【【歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日】2026年8月2日12時許，廣西欽州靈山縣十里工業園區園園豐食品有限公司一在建樓發生火災，接報後，靈山縣消防救援、公安、應急、衛生健康等部門立即趕赴現場處置。現場造成4人被困，已全部救出，其中2人經搶救無效死亡，2人受傷已送醫院救治，無生命危險。目前，明火已經撲滅，火災後續處置工作、事件原因調查及人員資訊核查等相關工作正開展中。（央視新聞）"
-    },
-    {
-      "id": "5020881",
-      "time": "2026-08-02 19:28:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日】宣告顯示，歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日。沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼同意調整產量，並重申致力於維護市場穩定。下次會議將於9月6日舉行。"
-    },
-    {
-      "id": "mkt:019fc23b-41b8-7aab-8f46-b91206d7330b",
-      "time": "2026-08-02 19:28:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "OPEC+ statement made no mention of policy beyond September 2026."
-    },
-    {
-      "id": "mkt:019fc23b-2c23-7aab-8f46-b244ad1c219e",
-      "time": "2026-08-02 19:28:05",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "OPEC+ schedules its next meeting for Sept. 6."
     }
   ]
 }
