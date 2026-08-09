@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10 01:32:03",
-  "count": 15975,
+  "updated": "2026-08-10 01:36:00",
+  "count": 15973,
   "items": [
     {
       "id": "5032648",
@@ -145466,29 +145466,6 @@
         "MKT News"
       ],
       "text": "Israeli officials cast doubt on Iran's uranium stockpile and the Trump administration's commitments on Tehran's conduct, the Israeli Broadcasting Corporation said."
-    },
-    {
-      "id": "mkt:019fc389-cac5-7aab-8f48-6a9b4d9228de",
-      "time": "2026-08-03 01:33:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Israel's public broadcaster cited officials saying most negotiations are focused on the Strait of Hormuz; progress on other issues is unclear."
-    },
-    {
-      "id": "mkt:019fc389-0f4e-7aab-8f48-67a6bcb91abb",
-      "time": "2026-08-03 01:32:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Qatar's foreign ministry said the prime minister and foreign minister, in a call with Egypt's foreign minister, discussed efforts to ease regional tensions and urged all parties to pursue dialogue and safeguard freedom of navigation through the Strait of Hormuz."
     }
   ]
 }
