@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 21:08:52_
-_本檔包含 3130 則快訊，約 602714 字_
+_更新時間：2026-08-09 21:49:49_
+_本檔包含 3125 則快訊，約 602742 字_
+
+---
+
+### 2026-08-09 21:43:27  #其他
+
+【受颱風“白海豚”影響，上海地鐵臨時運營調整】據上海地鐵訊息，受今年第13號颱風“白海豚”影響，為確保軌道交通運營安全，8月10日運營開始起：3號線、5號線、16號線、浦江線全線停運，1、2、6、10號線縮線執行。
+
+---
+
+### 2026-08-09 21:37:26  #宏觀 #公司 #市場 #央行 #國際
+
+【美財長貝森特多舉措干預債市，華爾街擔憂“賣出美國”情緒升溫】美國財政部長貝森特近日採取聯合干預日元匯率、調整債券發行指導方針等一系列非常規舉措，試圖遏制美國長期國債收益率的飆升。然而，受財政赤字擴大、通脹高企及政策不確定性等多重因素影響，華爾街對美債市場的信心出現動儘管美國財政部動用多種工具試圖壓低借貸成本，但市場對其實際效果持謹慎態度。當前，受中東地緣衝突推高能源成本、美國政府年度預算赤字逼近2萬億美元等因素影響，30年期美國國債收益率已升至5%以上，創下2007年以來的最高水平。部分華爾街機構指出，貝森特與美聯儲在政策溝通上的不確定性構成了“雙重打擊”，導致投資者開始重新評估對美國核心資產的偏好。在此背景下，“賣出美國”交易策略在全球機構投資者中重新受到關注。該策略的核心是減持美股、美債和美元。分析人士警告，如果美國不能有效降低通脹預期並削減財政赤字，僅靠短期的外匯干預和債務期限調整難以從根本上扭轉市場信心。隨著全球資金開始重新定價美國資產，美元在未來12個月內可能面臨進一步下行壓力，美國債務市場的結構性挑戰正日益凸顯。搖，全球資本市場“賣出美國”的交易情緒再度升溫。
+
+---
+
+### 2026-08-09 21:35:10  #公司 #焦點 #國際
+
+【知情人士：蘋果測試長鑫科技儲存晶片，用於iPhone和MacBook】據《華爾街日報》8月9日報道，蘋果公司正在其iPhone和MacBook等產品線中測試長鑫儲存（CXMT）的儲存晶片，以緩解因人工智慧熱潮引發的記憶體短缺問題。報道援引知情人士稱，蘋果公司已與中國最大的晶片製造商長鑫儲存就零部件供應展開初步洽談，目標是在中國銷售的部分裝置中使用這些晶片。此外，膝上型電腦製造商惠普（HP）和宏碁（Acer）已開始在銷往美國以外市場的裝置中使用長鑫儲存的晶片，以緩解供應短缺。（中新經緯）
+
+---
+
+### 2026-08-09 21:32:48  #國際
+
+【哈馬斯稱堅持加沙停火協議路線圖】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）今天（8月9日）發表宣告，宣佈將堅持此前與相關斡旋方及“和平委員會”達成的共識，繼續推進加沙地帶停火協議第二階段路線圖。宣告說，哈馬斯重申將認真落實“十五點方案”中的各項共識，並主張為執行相關條款制定明確的時間表。宣告表示，當前階段的重中之重是確保加沙停火協議各階段內容全面執行，從而實現全面停火、結束衝突。此外，還應完成以軍撤出、口岸開放、人道援助物資運入、重建程序啟動。 宣告呼籲，相關斡旋方、擔保方及“和平委員會”應承擔各自責任，確保各方遵守已達成的共識，防止任何破壞停火協議或阻礙執行程序的行為。 宣告強調，哈馬斯將繼續以積極和負責任的態度對待相關努力，以保護巴勒斯坦人民的權益，結束當地民眾的苦難。（CCTV國際時訊）
+
+---
+
+### 2026-08-09 21:30:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【WSJ: US officials say Trump patient on Iran standoff, prioritizing Strait of Hormuz shipping】The Wall Street Journal reported US officials say President Trump is taking a patient approach to the Iran standoff and expects to weather it, particularly while gasoline prices remain near current levels. A White House official said US strikes have hit all identified Iranian military targets. Trump’s immediate priority is keeping energy and other shipping through the Strait of Hormuz open; officials say the US will retain military options if Iran mounts further attacks on vessels. Officials added Trump has privately told senior aides in recent weeks that US strikes last year destroyed three major Iranian nuclear facilities and that Iran is unlikely to restart its nuclear program during his term; he believes US intelligence would detect any rebuilding and that the threat of further strikes would serve as ongoing deterrence. Officials said if the US can contain Iran’s nuclear program and the Strait reopens, Trump is more likely to extend the current ceasefire indefinitely, and that if Iran fully reopens the Strait he would lift the US military blockade of Iranian ports.
+
+---
+
+### 2026-08-09 21:24:13  #其他
+
+哈塞特：我們看到的通脹資料正在快速回落。
+
+---
+
+### 2026-08-09 21:20:54  #其他
+
+哈塞特：牛肉及其他商品的價格依舊令我感到“震驚”。
+
+---
+
+### 2026-08-09 21:19:28  #公司 #國際
+
+【遠大醫藥：在研創新藥獲FDA快速通道認定】8月9日，遠大醫藥（00512.HK）披露公告，公司FAP靶點創新核藥GPN01530-2獲得美國FDA授予快速通道資格（FTD）。GPN01530-2目前已獲FDA批准開展用於診斷實體瘤的I/II期臨床研究，此次獲快速通道資格認定，有望加快GPN01530-2未來開發及上市程序。
+
+---
+
+### 2026-08-09 21:15:06  #國際
+
+【哈馬斯呼籲美國向內塔尼亞胡施壓，促其遵守加沙和平計劃路線圖】巴勒斯坦伊斯蘭抵抗運動(哈馬斯)一名官員9日表示，哈馬斯呼籲美國向以色列總理內塔尼亞胡施壓，要求其撤回剛宣佈的、拒絕接受美國最新提出的加沙和平計劃路線圖的決定。報道稱，該路線圖旨在推動加沙和平計劃進入第二階段。這名哈馬斯官員表示：“我們希望調解方和美國這一擔保方能夠向內塔尼亞胡及其政府施壓，促使他們遵守這一路線圖，不要因國內政治或選舉考量而阻礙這一程序。”
+
+---
+
+### 2026-08-09 21:13:51  #其他
+
+哈塞特：牛肉價格依然高企，給人們帶來問題。
+
+---
+
+### 2026-08-09 21:12:03  #其他
+
+哈塞特：牛肉價格應該很快就會有好訊息傳來。
+
+---
+
+### 2026-08-09 21:11:21  #市場
+
+哈塞特認為，瓊斯法案豁免是油價下跌的原因。
+
+---
+
+### 2026-08-09 21:10:13  #其他
+
+提示：白宮經濟顧問哈塞特接受採訪。
+
+---
+
+### 2026-08-09 21:09:54  #其他
+
+白宮顧問哈塞特：美國海軍幫助輪船透過波斯灣，已經壓低油價。
 
 ---
 
@@ -18749,119 +18833,5 @@ France Forex Reserves Increase in July — France’s official reserve assets in
 ### 2026-08-07 15:06:42  #MKT News
 
 【China, Belarus to hold 'Shenying-2026' airborne joint training】China and Belarus will hold 'Shenying-2026' airborne joint training in Hubei in mid‑to‑late August, the Chinese defense ministry said. Focused on joint urban counterterrorism operations, the drills will practice reconnaissance and counter‑reconnaissance, seizure and defense, and clearing and holding. This is the fourth iteration of the series and is aimed at improving participating units' combat readiness and deepening bilateral military cooperation.
-
----
-
-### 2026-08-07 15:06:38  #國際
-
-【國防部：中白將舉行“神鷹-2026”空降兵聯合訓練】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。陳曦：8月中下旬，中國與白俄羅斯兩國軍隊將位湖北舉行“神鷹-2026”空降兵聯合訓練。此次聯訓以聯合城鎮反恐行動為課題，主要開展偵察與反偵察、奪控與防衛、清剿與固守等演練。這是雙方第4次舉行該系列聯訓，有助於進一步提升參訓部隊實戰能力、深化兩軍務實合作。
-
----
-
-### 2026-08-07 15:06:36  #公司 #國際
-
-通用汽車有限責任公司向美國國家公路交通安全管理局提交召回備案，在美國召回10輛車輛。
-
----
-
-### 2026-08-07 15:06:15  #其他
-
-上海航運交易所資料顯示，截至8月7日，上海出口集裝箱運價指數（綜合指數）報3276.14點，與上期相比漲70.17點。中國出口集裝箱運價綜合指數CCFI報1839.61點，與上期相比跌0.9%。
-
----
-
-### 2026-08-07 15:06:08  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
-
-US Job Growth Likely Accelerated in July — The US economy likely added 80,000 jobs in July 2026, up from 57,000 in June, pointing to a modest rebound after payroll growth slowed from the stronger pace seen in the spring. The private sector is expected to have accounted for 78,000 of those gains, while government employment likely increased by 2,000. Healthcare was likely to lead job growth in July, while a rebound in leisure and hospitality payrolls was also expected. Meanwhile, the unemployment rate is expected to have remained unchanged at 4.2%, hovering near one-year lows. Average hourly earnings likely rose 0.3% from the previous month and 3.5% from a year earlier, matching June’s pace. Overall, the report is expected to point to a relatively steady labour market.
-
----
-
-### 2026-08-07 15:05:46  #其他
-
-【中汽協：2026年6月，汽車整車進口3.8萬輛】據中國汽車工業協會整理的海關總署資料顯示，2026年6月，汽車整車進口3.8萬輛，環比增長0.6%，同比下降10.1%；進口金額19.0億美元，環比增長6.0%，同比下降15.6%。2026年1-6月，汽車整車進口20.1萬輛，同比下降10.5%；進口金額94.4億美元，同比下降18.5%。
-
----
-
-### 2026-08-07 15:05:41  #公司
-
-【星星科技：目前有AR零部件及相關產品銷售，對公司業績影響較小】星星科技8月7日在互動平臺表示，公司目前有AR零部件及相關產品銷售，對公司業績影響較小。若有達到資訊披露標準的合作事項，公司將嚴格按照相關規定及時履行資訊披露義務。
-
----
-
-### 2026-08-07 15:05:29  #國際
-
-LSEG資料顯示，歐洲企業第二季度盈利預期較一週前的20.8%上調至22.4%。
-
----
-
-### 2026-08-07 15:05:23  #市場
-
-富時100指數礦業板塊開盤交易上漲0.6%。
-
----
-
-### 2026-08-07 15:05:08  #市場
-
-匈牙利福林兌歐元下跌0.2%，創4月以來新低。
-
----
-
-### 2026-08-07 15:04:42  #國際
-
-市場訊息：美國正將部分空中加油機從本・古裡安機場調離，以便在出行旺季騰出機位，保障大型商業航班通航。
-
----
-
-### 2026-08-07 15:04:07  #其他
-
-德國Tennet電網稱，預期所需股權融資已落實到位。
-
----
-
-### 2026-08-07 15:03:16  #市場
-
-戴姆勒卡車股價在業績公佈後下跌3.3%。
-
----
-
-### 2026-08-07 15:03:01  #公司 #市場
-
-朗盛集團股價在公佈第二季度業績後下跌4.4%。
-
----
-
-### 2026-08-07 15:02:44  #公司
-
-【國科軍工與軍工信航達成戰略合作】據國科軍工訊息，8月4日，國科軍工與軍工信航舉行“深化戰略協同共築發展新篇”戰略合作簽約儀式。雙方表示，將以本次戰略簽約為新起點，高效推進各項合作落地實施，積極培育軍工領域新質生產力，夯實集團內部協同發展載體，全力落地集團“12348”發展戰略，依託全省“1269”產業佈局，聚力做強江西本土航空航天產業叢集，為行業高質量發展注入強勁動力。
-
----
-
-### 2026-08-07 15:02:41  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300 #SZSE Component
-
-China's equities closed higher on Friday, Aug. 7: Shanghai Composite +1.02% to 3,940.04; Shenzhen Composite +1.42% to 14,311.01; CSI 300 Index +0.93% to 4,694.44; ChiNext Index +1.35% to 3,563.12; STAR 50 Index +2.51% to 1,744.02.
-
----
-
-### 2026-08-07 15:02:37  #資料
-
-瑞士7月消費者信心指數為-34.8。
-
----
-
-### 2026-08-07 15:02:11  #MKT News #Important
-
-Switzerland July consumer confidence index -34.8; consensus -34.0; prior -35.8.
-
----
-
-### 2026-08-07 15:02:03  #MKT News #Economic Calendar #Important
-
-Switzerland | Consumer Confidence Index (Jul) | actual -34.8 | consensus -34 | previous -35.8
-
----
-
-### 2026-08-07 15:01:58  #MKT News #Market Regions #Greater China
-
-【Shanghai and Shenzhen turnover 2.6644 tln yuan on Aug 7; Zhongji Xuchuang tops by value】Aug 7 — Shanghai and Shenzhen exchanges posted combined turnover of 2.66442 trillion yuan, up 135.64 billion yuan versus the previous trading day. Shanghai turnover was 1.20954 trillion yuan (prev. 1.16682 trillion), volume 565 million lots (prev. 589 million). Shenzhen turnover was 1.45488 trillion yuan (prev. 1.36196 trillion), volume 720 million lots (prev. 716 million). Zhongji Xuchuang led single-stock turnover at 54.67 billion yuan, followed by Zhaoyi Innovation 30.52 billion, Changxin Technology 26.70 billion, Xinyisheng 25.79 billion and Dongshan Precision 20.10 billion.
 
 ---

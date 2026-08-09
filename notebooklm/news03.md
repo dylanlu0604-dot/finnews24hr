@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 21:08:52_
-_本檔包含 3405 則快訊，約 602619 字_
+_更新時間：2026-08-09 21:49:49_
+_本檔包含 3381 則快訊，約 602513 字_
+
+---
+
+### 2026-08-06 10:12:05  #公司 #市場
+
+【PCB概念震盪反彈，方正科技等多股漲停】PCB概念震盪反彈，方正科技、寶鼎科技、景旺電子漲停，科翔股份漲超15%，威爾高、勁拓股份、中鎢高新、中富電路、本川智慧等跟漲。
+
+---
+
+### 2026-08-06 10:11:04  #經濟數據 #中國
+
+【中國黃金協會：上半年我國黃金消費量511.412噸 同比增長1.23%】據中國黃金協會最新統計資料顯示：2026年上半年，我國黃金消費量511.412噸，同比增長1.23%。其中：黃金首飾132.133噸，同比下降33.88%；金條及金幣339.336噸，同比增長28.42%；工業及其他用金39.943噸，同比下降2.90%。
+
+---
+
+### 2026-08-06 10:10:29  #經濟數據 #中國
+
+【中國機械工業聯合會：6月機械工業出廠價格上漲0.7% 結束38個月連跌態勢】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業出廠價格在上游價格持續上漲的帶動下降幅逐步收窄，5月由負轉正，6月上漲0.7%，結束了連續38個月同比下降的態勢。
+
+---
+
+### 2026-08-06 10:10:07  #市場
+
+【中國黃金協會：上半年國內黃金ETF增倉量28.677噸，同比下降66.17%】8月6日，據中國黃金協會最新統計資料顯示：2026年上半年，國內黃金ETF增倉量為28.677噸，較2025年上半年下降66.17%。至2026年6月底，國內黃金ETF持倉量為276.529噸。2026年上半年，我國增持黃金40.12噸，截至6月底，我國黃金儲備為2346.45噸，位居全球第五位。從2024年11月至2026年6月，我國已連續20個月增持黃金。
+
+---
+
+### 2026-08-06 10:09:40  #其他
+
+【純流量卡可能是物聯網絡卡 有風險】隨著三大運營商全面停止透過第三方網際網路渠道銷售號卡，一些打著“0月租”“隨充隨用”的“純流量卡”廣告，卻在部分電商平臺和社交群組悄然升溫。8月6日，記者調查發現，這類看似物美價廉的純流量卡，實為嚴禁對個人銷售的物聯網絡卡，背後暗藏斷網、限速、流量虛標等多重陷阱。 然而，所謂的“純流量卡”卻暗藏風險。物聯網絡卡是運營商面向企業批次發售的專用SIM卡，可用於共享單車、自動售賣機等智慧終端裝置聯網。根據相關規定，物聯網絡卡僅限企業使用者批次購買，不得違規插入個人手機上使用，銷售商更不能向個人使用者出售。盤古智庫高階研究員江瀚提醒，消費者購買此類卡片面臨極高風險。這些被私下轉售的卡片往往伴隨嚴重虛假宣傳和售後缺失，後臺限速、流量虛標屬於常見現象；而一旦被運營商監測到違規插入手機，使用者隨時可能遭遇斷網甚至封號封機，屆時想要維權也投訴無門。他提醒廣大使用者，切勿貪圖便宜輕信“純流量卡”的花式廣告，用卡務必選擇運營商官方正規渠道，以免貪小便宜吃大虧。（北京日報）
+
+---
+
+### 2026-08-06 10:08:37  #MKT News #Important #Market Themes #AI Revolution #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish #USDJPY #Impact bearish #DXY
+
+Nikkei reports Japanese and U.S. companies, and possibly firms from the UAE and other countries, will invest about ¥2 trillion to build Japan's largest AI data center.
+
+---
+
+### 2026-08-06 10:08:30  #市場
+
+中國黃金協會：上半年我國黃金產量同比下降14.62%。
+
+---
+
+### 2026-08-06 10:08:26  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+China Gold Association: In 1H 2026 China's gold production fell 14.62% YoY; gold consumption rose 1.23% YoY.
+
+---
+
+### 2026-08-06 10:08:10  #國際
+
+日本與美國企業，可能還有阿聯酋等國企業，將投資約2萬億日元在秋田縣建設日本最大的人工智慧資料中心。
+
+---
+
+### 2026-08-06 10:07:59  #經濟數據 #中國
+
+【中國機械工業聯合會：上半年機械工業增加值同比增長6.4%】中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業規模以上企業增加值同比增長6.4%，高於同期全國工業和製造業1個和0.8個百分點。主要涉及的五個國民經濟行業大類增加值均同比增長，通用裝置、專用裝置、汽車、電氣機械和儀器儀表製造業分別增長7.6%、8.2%、7.0%、6.1%和8.8%。
+
+---
+
+### 2026-08-06 10:07:51  #市場
+
+【算力租賃概念異動拉昇 中嘉博創直線漲停】算力租賃概念盤中異動拉昇，中嘉博創直線漲停，利通電子、寧夏建材、甘諮詢、優刻得、中貝通訊漲幅靠前。
+
+---
+
+### 2026-08-06 10:07:26  #資料 #市場 #焦點
+
+中國黃金協會：今年1-6月中國黃金消費量同比增長1.23%，至511.4噸。
+
+---
+
+### 2026-08-06 10:07:00  #其他
+
+【中國機械工業聯合會：上半年機械工業增加值同比增長6.4%，五大行業全線飄紅】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業規模以上企業增加值同比增長6.4%，高於同期全國工業和製造業1個和0.8個百分點。主要涉及的五個國民經濟行業大類增加值均同比增長，通用裝置、專用裝置、汽車、電氣機械和儀器儀表製造業分別增長7.6%、8.2%、7.0%、6.1%和8.8%。
+
+---
+
+### 2026-08-06 10:06:26  #其他
+
+【最高法：集中清理生態環境領域司法解釋和規範性檔案】從最高人民法院瞭解到，自生態環境法典頒佈後，最高人民法院堅持依法清理、全面清理、分類清理原則，對生態環境領域現行有效的26件司法解釋、35件司法規範性檔案和45件指導性案例進行集中清理。與生態環境法典規定一致的，予以保留；與生態環境法典的新規定不銜接、不適應的，根據情況予以修改或者廢止。其中，保留15件司法解釋，修改11件司法解釋，廢止司法規範性檔案1件、不再參照適用指導性案例4件。
+
+---
+
+### 2026-08-06 10:06:14  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
+
+【Daly backs July pause, says Fed must remain vigilant and ready to act】San Francisco Fed President Daly said she fully supports last week’s decision to leave rates unchanged. With inflation clearly above the 2% target, she said the Fed needs more data before the September meeting to judge whether recent inflation reflects fading supply shocks or is becoming more persistent. Daly said the Fed should closely monitor incoming information and be prepared to act if necessary. She expressed concern about public inflation expectations and warned that if inflation momentum picks up the Fed may need to take forceful steps to return price pressures to target. Daly is not currently an FOMC voter.
+
+---
+
+### 2026-08-06 10:05:40  #Trading Economics #Markets #Commodity #Importance 1
+
+European Natural Gas Rises from 3-Week Low — European natural gas prices rose toward €54 per MWh on Thursday after falling to a three-week low in the previous session, amid lingering concerns over the outlook for gas supplies. Although risk premiums eased after Iran announced it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, the market remained supported by persistent supply-side concerns. LNG shipments through the key waterway continue to face significant disruptions, delaying summer cargoes from major exporters such as Qatar. These delays have complicated Europe's winter stockpiling efforts, while strong competition from Asian buyers has further tightened LNG availability. Meanwhile, unusually hot weather across central and southern Europe has added to market pressures by increasing electricity demand for air conditioning.
 
 ---
 
@@ -20277,245 +20373,5 @@ Australia's S&P/ASX 200 index opened up 61.60 points (+0.67%) to 9,207.40 on Wed
 ### 2026-08-05 08:10:04  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #DXY #Impact bearish #WTI
 
 【Hormuz deal glimmer; spot gold trades in tight range】Wednesday Asian trade: spot gold held in a narrow range as a temporary Strait of Hormuz agreement appeared increasingly likely, easing inflation concerns and trimming Fed rate-hike odds. Qatar has drafted a proposal to normalize commercial shipping through the strait; US and Iranian officials reported progress on reopening the key energy route. Oil fell for a third day on deal optimism. Markets are now fully pricing one Fed rate hike this year, down from near two last week. A reduced chance of monetary tightening typically supports non-yielding gold. MKS Pamp head of research Nicky Shiels said gold is a liquidity sponge in commodity macro and is among the first assets hit by tightening-risk signals.
-
----
-
-### 2026-08-05 08:09:57  #公司
-
-三星還推出了業界首款V10 BV-NAND架構，該架構採用全新的晶圓鍵合技術，擁有超過400層。與上一代產品相比，儲存密度提升了近60%，同時讀寫速度也得到了提升。除了硬體方面的突破，三星還展示了產品路線圖，其中包括下一代記憶體處理晶片和高容量企業級儲存解決方案。
-
----
-
-### 2026-08-05 08:09:29  #公司
-
-【三星展示3D儲存器新架構 致力於在AI領域處於領先】三星電子展示了其最先進的記憶體硬體，並宣稱效能和能效均有所提升，擬在爭奪長期主導地位的競賽中超越競爭對手SK海力士和美光科技。三星在一份宣告中表示，這款新系統將高頻寬記憶體垂直堆疊在人工智慧加速器之上，效能約為下一代HBM5的八倍。該系統採用先進的晶圓鍵合技術，記憶體密度也將達到HBM5的十倍以上，同時還支援定製化設計。三星計劃在今年下半年提高HBM4的產量。目前尚未公佈HBM5或這項未來技術的具體時間表。
-
----
-
-### 2026-08-05 08:09:12  #其他
-
-【電影《功夫女足》總票房破22億】據貓眼專業版資料，電影《功夫女足》上映26天，總票房破22億。
-
----
-
-### 2026-08-05 08:08:50  #國際
-
-【今年第14號颱風“鯨魚”於今天凌晨生成 強度變化不大】今年第14號颱風“鯨魚”（熱帶風暴級；英文名稱：Kujira；名字來源：日本；名稱意義：鯨魚星座）於8月5日凌晨2點鐘在南海中東部海面生成，早晨5點鐘其中心位於菲律賓馬尼拉北偏西方向約305公里的海面上，就是北緯17.1度、東經119.8度，中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，7級風圈半徑為100—120公里。預計，“鯨魚”將以每小時5—10公里的速度向偏東方向緩慢移動，強度變化不大，並將於5日夜間至6日白天在菲律賓呂宋島西北部沿海登陸（15—20米/秒，7—8級，熱帶低壓或熱帶風暴級），之後強度逐漸減弱。
-
----
-
-### 2026-08-05 08:08:22  #公司 #市場
-
-軟銀集團股價上漲 1.9%。受人工智慧業務拉動，軟銀第一財季業績超預期。
-
----
-
-### 2026-08-05 08:08:11  #其他
-
-【微牛拓展AI投資生態系統，支援ChatGPT等原生連線】8月4日，線上投資平臺微牛（Webull）宣佈新增對ChatGPT、Claude和Grok的原生聯結器，推出微牛命令列介面（CLI），並升級了微牛模型上下文協議（MCP）技能庫。透過這些更新，投資者、開發者及AI代理可以更便捷地訪問微牛的市場資料、賬戶服務及研報工具。
-
----
-
-### 2026-08-05 08:08:08  #公司 #市場
-
-三星電子股價早盤上漲5.0%，至252,000韓元。
-
----
-
-### 2026-08-05 08:07:53  #市場
-
-澳大利亞S&P/ASX 200指數上漲0.7%，創下9,207.30點的歷史新高
-
----
-
-### 2026-08-05 08:07:40  #央行 #國際
-
-日本央行會議紀要：數位委員表示，本財年下半年，漲價潮範圍持續擴大，很可能會大幅推升消費者通脹。
-
----
-
-### 2026-08-05 08:07:35  #公司
-
-【信達生物：2026年上半年產品收入超82億元 同比增長55%以上】信達生物（01801.HK）釋出內幕訊息公告，於2026年上半年，公司產品收入錄得超人民幣82億元，同比增長55%以上；其中第二季度產品收入錄得超過人民幣43億元，同比增長約60%。
-
----
-
-### 2026-08-05 08:07:18  #MKT News #Market Regions #Japan & APAC
-
-MSCI Asia Pacific Index rose 1% to 270.79.
-
----
-
-### 2026-08-05 08:06:44  #其他
-
-【日經225指數漲幅擴大至2%】日經225指數漲幅擴大至2%，現報65468.69點。
-
----
-
-### 2026-08-05 08:06:43  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei index rose as much as 2.00% intraday.
-
----
-
-### 2026-08-05 08:06:36  #央行 #國際
-
-日本時事社報導，首相高市早苗要求日本央行在必要時購買更多債券。
-
----
-
-### 2026-08-05 08:06:28  #央行 #國際
-
-日本央行會議紀要：一名委員認為，企業與家庭的通脹預期已經升至2%左右的水平。
-
----
-
-### 2026-08-05 08:06:14  #市場
-
-MSCI亞太指數上漲1%至270.79點。
-
----
-
-### 2026-08-05 08:06:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
-
-Bank of Japan minutes: one member said mid-to-long-term inflation expectations are beginning to change and the market breakeven inflation rate has risen above 2%.
-
----
-
-### 2026-08-05 08:06:03  #央行 #國際
-
-日本央行會議紀要：一名委員表示，隨著市場盈虧平衡通脹率升至2%以上，中長期通脹預期正開始發生變化。
-
----
-
-### 2026-08-05 08:05:13  #市場
-
-布倫特原油日內跌1%，現報78.55美元/桶。
-
----
-
-### 2026-08-05 08:05:11  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-2028 FOMC voting member and Kansas City Fed President Schmidt will speak in ten minutes on the Federal Reserve, monetary policy and the outlook for the agricultural economy.
-
----
-
-### 2026-08-05 08:05:03  #市場
-
-澳大利亞ASX 200指數上漲0.6%，創盤中歷史新高。
-
----
-
-### 2026-08-05 08:04:53  #市場
-
-WTI原油日內跌1%，現報74.95美元/桶。
-
----
-
-### 2026-08-05 08:04:46  #公司 #市場 #國際
-
-日本製鐵股價一度上漲 3.3%，此前該公司上調了全年營業利潤預期。
-
----
-
-### 2026-08-05 08:04:22  #市場 #國際
-
-受美國股市上漲和油價下跌的提振，日經平均指數上漲超過1100點。
-
----
-
-### 2026-08-05 08:03:45  #MKT News #USDJPY
-
-Bank of Japan minutes: a Cabinet Office representative said they hope the Bank of Japan will appropriately consider government efforts to promote crisis management and growth-oriented investment when formulating policy.
-
----
-
-### 2026-08-05 08:03:31  #宏觀
-
-【8臺核電新機組獲核准 上海核電企業已承攬近500億元訂單】國務院常務會議7月31日決定核准浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期、山東萊陽核電一期4個核電專案，共8臺核電機組。這是“十五五”時期首批獲准的核電專案，據估算，上述新專案的總投資將超過1700億元。記者瞭解到，作為我國核電產業的重要承載地，上海核電充分發揮產業鏈集聚優勢，在新獲批的8臺機組前期專案招標中，上海已承接各類合同金額近500億元。（澎湃新聞）
-
----
-
-### 2026-08-05 08:03:25  #MKT News
-
-South Korean media reported the 2027 minimum hourly wage was set at 10,700 won, up 3.7% from this year.
-
----
-
-### 2026-08-05 08:03:23  #央行 #國際
-
-日本央行會議紀要：內閣辦公室代表稱，希望日本央行在制定適當政策時，能夠顧及政府在推進危機管理與增長領域投資方面所做的工作。
-
----
-
-### 2026-08-05 08:03:21  #市場
-
-澳大利亞S&P/ASX 200指數早盤上漲0.4%，報9,180.60點。
-
----
-
-### 2026-08-05 08:02:54  #央行 #國際
-
-日本央行會議紀要：內閣辦公室代表稱，日本央行必須做出適當回應以穩定市場，在其購債操作問題上，還需仔細審查資產負債表縮表可能對經濟產生何種影響。
-
----
-
-### 2026-08-05 08:02:36  #國際
-
-據韓媒報道，韓國2027年最低工資標準將上調3.7%，至10700韓元。
-
----
-
-### 2026-08-05 08:02:16  #MKT News #USDJPY #Impact bearish #DXY #Impact mixed
-
-Bank of Japan minutes: several members said discussion of reducing bond purchases is currently focused on scale, but importance is likely to shift to the maturities of government bonds purchased.
-
----
-
-### 2026-08-05 08:02:15  #公司 #國際
-
-【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報6623.97點。個股方面，SK海力士、三星電子漲超6%。
-
----
-
-### 2026-08-05 08:01:38  #MKT News #Important
-
-【KOSPI opens up 3.8%】Japan's Nikkei 225 opened above 64,000, up 1.0% on the session. South Korea's KOSPI jumped 3.8% at the open, briefly touching 6,600. SK hynix rose over 7%; Samsung Electronics advanced roughly 5%.
-
----
-
-### 2026-08-05 08:00:51  #市場 #央行 #國際
-
-日本央行會議紀要：少數成員稱，目前對日本央行購債縮減的討論聚焦於縮減規模，但未來重點大機率會轉向所購日本國債的期限層面。
-
----
-
-### 2026-08-05 08:00:37  #市場 #國際
-
-韓國綜合股價指數（KOSPI）開盤報6603.48點，上漲3.8%。
-
----
-
-### 2026-08-05 08:00:25  #市場
-
-日經225指數上午開盤報64565.27點，漲幅0.95%。
-
----
-
-### 2026-08-05 08:00:14  #MKT News #Market Regions #Japan & APAC
-
-BOJ minutes: one member said the Bank of Japan must, at some point, take economic and financial conditions into account and seek an appropriate level of reserves.
-
----
-
-### 2026-08-05 08:00:12  #公司 #國際
-
-【日本2架飛機險些空中相撞】據日媒報道，4日，在日本東京羽田機場，一架載有197名乘客的日本全日空航空公司客機準備降落時，飛機防撞系統發出警報，飛行員立即採取爬升操作。事發時，一架剛起飛的日本國土交通省的檢查飛機正在附近飛行。據瞭解，兩架飛機均按航空管制人員認可的航線飛行，但檢查飛機橫穿了全日空客機下降著陸的航線，飛機垂直高度差僅約20米，存在極高碰撞風險。目前，日本官方正對此展開調查。
-
----
-
-### 2026-08-05 07:59:56  #公司
-
-【暑期聯名經濟熱度高漲 多家公司加碼“IP+消費”】暑期消費市場熱潮湧動，星巴克、茉莉奶白、呷哺呷哺、華萊士、元氣森林等食品飲料品牌紛紛加碼“IP+消費”，密集推出跨界聯名活動，搶抓暑期旺季市場。業內人士向證券時報記者表示，暑期聯名經濟熱度高漲，背後有雙重驅動：一是傳統消費賽道競爭日趨激烈，品牌需依託IP傳遞情緒價值、升級消費體驗；二是這一模式契合消費者持續攀升的情緒消費訴求。在政策持續扶持下，“IP+消費”賽道增長空間廣闊，消費潛力有望進一步釋放。
 
 ---

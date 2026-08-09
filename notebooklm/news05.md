@@ -1,7 +1,146 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 21:08:52_
-_本檔包含 3066 則快訊，約 602536 字_
+_更新時間：2026-08-09 21:49:49_
+_本檔包含 3075 則快訊，約 602202 字_
+
+---
+
+### 2026-08-04 04:31:19  #宏觀 #央行 #國際
+
+【道明：干預勢頭可能短暫推動美元/日元跌至153】道明證券認為，干預的推動力可能會使美元/日元跌至153，但除非日本央行採取更多行動或美國財政部做出全面承諾，否則就只會暫時如此。“動能可能短暫推動美元/日元跌至153，但要沒有日本央行的行動或美國財政部的全面承諾，我們不認為該貨幣對會大幅低於該水平，” Howard Du、Gennadiy Goldberg和Molly Brooks等策略師寫道。“美日雙邊貿易動態、‘賣出美國’情緒復甦的風險、美國信譽惡化的風險、政治考量以及包括系統性衝擊在內的風險，是我們相信美國財政部不願全力託底日元的五大原因”。
+
+---
+
+### 2026-08-04 04:27:33  #公司 #國際
+
+美森輪船：截至目前，伊朗衝突尚未影響公司經營業績與服務水平，但已推高公司所有運營市場的燃油價格。持續預期在年底前收回全部燃油成本。
+
+---
+
+### 2026-08-04 04:26:16  #國際
+
+【卡達外交部：調停國聯合宣告（卡達、埃及、土耳其），針對以色列持續在加沙實施侵犯行為】卡達、埃及、土耳其以調停國身份，譴責並強烈抨擊以色列持續在加沙地帶實施各類侵犯行為，尤其是襲擊醫療設施與基礎設施，造成包括婦女、兒童在內大量平民傷亡。此類行為公然違反國際法與國際人道主義法。
+調停各方強調，以色列必須履行國際法項下全部義務，嚴格遵守停火協議各項條款。調停方指出，以色列持續實施侵權行為等同於破壞停火協議，阻礙協議第二階段落地。哈馬斯及巴勒斯坦各派系此前已同意相關路線圖，尤其就武器管控達成共識。以方行動破壞局勢緩和程序，進一步加劇加沙平民苦難。
+
+---
+
+### 2026-08-04 04:25:44  #MKT News
+
+Qatar's Foreign Ministry said Qatar, Egypt and Turkey condemned Israel's ongoing violations in the Gaza Strip, particularly attacks on medical facilities and infrastructure.
+
+---
+
+### 2026-08-04 04:21:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Diamondback Energy earnings above expectations at 6.48 USD — Diamondback Energy (FANG) released earnings per share at 6.48 USD, compared to market expectations of 6.18 USD.
+
+---
+
+### 2026-08-04 04:21:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Williams Companies earnings in line with market expectations at 0.50 USD — Williams Companies (WMB) released earnings per share at 0.50 USD, in line with market expectations.
+
+---
+
+### 2026-08-04 04:16:37  #公司
+
+【SNAP第二季度營收16億美元 高於市場預期】SNAP第二季度營收16億美元，預估15.4億美元；第二季度調整後EBITDA 2.5億美元，預估1.923億美元；第二季度日活躍使用者4.9億，預估4.9億。公司預計第三季度營收17億美元至17.4億美元。
+
+---
+
+### 2026-08-04 04:16:27  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+Wall Street Rises on Easing Middle East Tensions — US stock indices closed higher on Monday with support from a rebound in Treasury securities. The S&P 500 rose 1.5%, nearing it's record high, while the Dow added 693 points to close at a record 53,178 and the Nasdaq 100 gained 1.8%. The US refrained from striking Iran over the weekend and fuel prices pulled back, lowering yields across the curve as markets readjusted the magnitude of inflation risks. Tehran signaled progress in talks aimed at restoring shipping through the Strait of Hormuz. AI and megacap technology stocks posted gains with the rebound in risk demand, with Amazon (+4.6%) surpassing a $3 trillion market value, alongside advances in Alphabet (+4.9%), Microsoft (+4.9%), and Meta (+6%). Chipmakers also rallied, with Nvidia (+2.9%), AMD (+1.8%), and Sandisk (+6%) posting solid gains. Investors now await earnings from SpaceX (+5.7%) and AMD on Tuesday.
+
+---
+
+### 2026-08-04 04:11:55  #MKT News #SNAP.N #Impact bullish
+
+Snap (SNAP.N) shares rose more than 9% in U.S. after-hours trading.
+
+---
+
+### 2026-08-04 04:11:35  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Palantir Technologies earnings above expectations at 0.41 USD — Palantir Technologies (PLTR) released earnings per share at 0.41 USD, compared to market expectations of 0.34 USD.
+
+---
+
+### 2026-08-04 04:11:29  #MKT News #SNAP.N
+
+Snap (SNAP.N) expects third-quarter revenue of $1.7 billion to $1.74 billion.
+
+---
+
+### 2026-08-04 04:11:11  #MKT News #SNAP.N #Impact bullish
+
+Snap (SNAP.N) reported Q2 2026 revenue of $1.6 bln, above the $1.541 bln consensus and up from $1.345 bln a year earlier.
+
+---
+
+### 2026-08-04 04:09:33  #MKT News #ON.O #Impact bullish
+
+On Semiconductor (ON.O) reported Q2 2026 revenue of $1.60 billion versus a $1.59 billion consensus. It guided Q3 revenue to $1.65 billion–$1.75 billion, versus a $1.67 billion consensus.
+
+---
+
+### 2026-08-04 04:06:44  #MKT News #Star Stocks #Palantir #PLTR.N #Impact bullish
+
+Palantir (PLTR.N) shares rose about 7% in U.S. after-hours trading.
+
+---
+
+### 2026-08-04 04:06:36  #MKT News #Star Stocks #Palantir #PLTR.O #Impact bullish
+
+Palantir (PLTR.O) reported Q2 2026 revenue of $1.93 bln, above market consensus of $1.805 bln and up from $1.003 bln a year earlier.
+
+---
+
+### 2026-08-04 04:06:33  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Vertex Pharmaceuticals earnings above expectations at 4.73 USD — Vertex Pharmaceuticals (VRTX) released earnings per share at 4.73 USD, compared to market expectations of 4.72 USD.
+
+---
+
+### 2026-08-04 04:06:21  #其他
+
+Palantir二季度調整後每股收益（EPS）為0.41美元，分析師預期0.35美元。
+
+---
+
+### 2026-08-04 04:06:14  #MKT News #Star Stocks #Palantir #PLTR.N #Impact bullish
+
+Palantir (PLTR.N) expects full-year revenue of $8.15–8.16 billion, versus prior guidance of $7.65–7.66 billion.
+
+---
+
+### 2026-08-04 04:06:12  #其他
+
+安森美半導體二季度調整後每股收益（EPS）為0.74美元，分析師預期0.71美元。
+
+---
+
+### 2026-08-04 04:06:08  #其他
+
+Palantir： 持續預期本年度每個季度均可實現通用會計準則營業利潤與淨利潤。
+
+---
+
+### 2026-08-04 04:05:33  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+US equity benchmarks closed higher on Monday Aug 3: Dow Jones Industrial Average +693.38 pts (+1.32%) at 53,178.41; S&P 500 +110.78 pts (+1.48%) at 7,600.50; Nasdaq Composite +540.04 pts (+2.13%) at 25,913.90.
+
+---
+
+### 2026-08-04 04:05:32  #其他
+
+Diamondback Energy二季度調整後每股收益（EPS）為6.48美元，分析師預期6.07美元。
+
+---
+
+### 2026-08-04 04:04:19  #MKT News #DXY #Impact bearish #USDJPY #USDCHF #Impact bullish
+
+【Dollar index dips 0.02% to 99.894 at NY close】Dollar index (DXY) fell 0.02% to 99.894 at the New York close. EUR/USD 1.1514 (prev. 1.1531); GBP/USD 1.3431 (prev. 1.3482). USD/JPY 156.74 (prev. 158.90); USD/CHF 0.8101 (prev. 0.8082). USD/CAD 1.4045 (prev. 1.4019); USD/SEK 9.5557 (prev. 9.5193).
 
 ---
 
@@ -18390,89 +18529,5 @@ Russian Defence Ministry said it struck infrastructure at the Ukrainian port of 
 ### 2026-08-02 21:51:13  #其他
 
 市場訊息： 倫敦蓋特威克機場燃油供應出現問題。
-
----
-
-### 2026-08-02 21:46:21  #公司 #市場 #國際
-
-【傑富瑞旗下基金再陷“假票據”疑雲 鐵礦石貿易商Radiant World引發風險審查】美國傑富瑞金融集團（Jefferies Financial Group）正對其資產管理部門旗下Point Bonita Capital基金在鐵礦石貿易商Radiant World的風險敞口展開審查。此前，維多集團（Vitol）和嘉吉（Cargill）等大宗商品巨頭因懷疑Radiant World提供的發票等融資檔案無效，已相繼停止與其交易。此次事件使此前已因First Brands Group破產案而深陷危機的Point Bonita基金再次面臨嚴峻考驗。據知情人士透露，Point Bonita基金曾持有Radiant World的相關應收賬款，但目前該基金的付款速度已明顯放緩，最近一次收到款項約在三週前。儘管該基金的風險敞口已從峰值回落至不足3億美元，但“假票據”風波無疑為其處境雪上加霜。針對相關指控，Radiant World予以否認，並重申其貿易關係健康且未中斷。
-
----
-
-### 2026-08-02 21:45:41  #其他
-
-【航行警告！南海海域軍事訓練】據中國海事局網站訊息，三亞海事局釋出航行警告，8月3日至8月7日每日5時至24時，8月8日7時至18時，南海部分海域進行軍事訓練，禁止駛入。（央視軍事）
-
----
-
-### 2026-08-02 21:43:45  #其他
-
-希臘消防部門2日釋出訊息說，兩架消防直升機在雅典以西相撞，搜救行動正在進行中。目前事故傷亡情況不詳。（新華社）
-
----
-
-### 2026-08-02 21:42:33  #MKT News
-
-【Tianjin 11 departments issue upgraded policy to reactivate stock assets】Tianjin Planning and Resources Bureau, together with the Development and Reform Commission, Housing and Urban‑Rural Development Commission and 10 other departments, issued Opinions on Reactivating Stock Assets to Resolve Historical Project Planning Land and Real Estate Registration Issues (2026 edition). Building on a July 2024 pilot due to expire after two years, the revision expands the policy’s scope and streamlines procedures to support completion of formalities and real‑estate registration for historical projects; the Planning and Resources Bureau led the revisions to address market requests for an extension and practical issues on applicability, building‑retention verification, illegal‑construction handling and completion‑acceptance filing.
-
----
-
-### 2026-08-02 21:40:54  #其他
-
-【海南將實施98個交通樞紐重大工程】8月2日，記者從海南省交通運輸廳獲悉，為發揮交通運輸基礎性、先導性、戰略性作用，“十五五”期間，海南已制定98個自由貿易港交通樞紐體系重大工程，著力加快建設現代化綜合交通運輸體系，更好支撐海南全面深化改革開放、高標準建設自由貿易港。 （海南日報）
-
----
-
-### 2026-08-02 21:40:14  #其他
-
-【巴西總統盧拉已在高等選舉法院登記為總統候選人】巴西勞工黨主席埃迪尼奧·席爾瓦2日在勞工黨全國代表大會開始前向媒體表示，巴西總統盧拉已在高等選舉法院正式登記為該黨總統候選人。（新華社）
-
----
-
-### 2026-08-02 21:35:20  #其他
-
-希臘消防部門表示，兩架消防直升機在雅典以西相撞，目前已對機組人員展開搜救行動。
-
----
-
-### 2026-08-02 21:32:57  #國際
-
-美國地質調查局：墨西哥洛沃斯灣以西 60 公里發生 5.1 級地震。
-
----
-
-### 2026-08-02 21:29:49  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #DXY #Impact mixed #WTI #US10Y
-
-【Weekly preview: US nonfarm week; China July FX reserves, CPI and trade; SpaceX Q2 results due】Mon — China July RatingDog manufacturing PMI; final July manufacturing PMIs for France, Germany, eurozone, UK and US (S&P Global); US July ISM manufacturing and June construction spending. Tue — US June trade deficit, June JOLTS job openings, June factory orders; Flash Memory Summit (Aug 4-6) with Samsung, SK and other memory suppliers; AMD and SpaceX report Q2 results Tuesday US after-market. Wed — Weekly API and EIA crude inventories (week to Jul 31) including Cushing and SPR draws; China July RatingDog services PMI; final July services PMIs for France, Germany, eurozone, UK; eurozone June PPI; US July ADP, final S&P Global services PMI and July ISM non-manufacturing. Saudi Aramco typically announces August OSP around the 5th. Thu — Swiss July seasonally adjusted unemployment; eurozone June retail sales; US July Challenger layoffs, initial jobless claims (week to Aug 1), July global supply‑chain pressure index, June wholesale sales; EIA weekly US gas stocks. SoftBank Group reports FY2026 Q1 results. Fri — France Q2 ILO unemployment; Germany June industrial output and trade balance; UK July Halifax house prices; France June trade balance; Swiss July consumer confidence; Canada July employment; US July unemployment rate, July headline and ADJ nonfarm payrolls, average hourly earnings YoY and MoM, NY Fed 1‑yr inflation expectation. China releases July trade balance (USD basis) and July foreign exchange reserves. Speeches: St. Louis Fed president (2028 FOMC voter) and Richmond Fed president (2027 FOMC voter). Sat — US Baker Hughes rig count (week to Aug 7). Sun — China July CPI YoY.
-
----
-
-### 2026-08-02 21:27:07  #其他
-
-市場訊息： 截至目前。參議院距離休會開啟夏季假期僅剩 5 天時間用以透過《清晰法案》。
-
----
-
-### 2026-08-02 21:20:26  #宏觀
-
-【天津11部門聯合出臺意見 升級存量資產盤活政策】記者2日從天津市規劃資源局獲悉，該局聯合天津市發展改革委、市住房城鄉建設委等10部門近日印發《關於盤活存量資產解決歷史遺留專案規劃土地及不動產登記問題意見(2026版)》，在2024年試行政策基礎上進一步擴大適用範圍、最佳化辦理流程，為歷史遺留專案完善手續、辦理不動產登記提供支撐。據瞭解，原試行政策於2024年7月出臺，兩年有效期將滿。為回應市場續期期待，並針對實踐中反映的適用範圍、建築物保留論證、違法處置、竣工驗收備案等問題，天津市規劃資源局牽頭對政策進行了修訂升級。（中國新聞網）
-
----
-
-### 2026-08-02 21:20:24  #MKT News #Brent #Impact bullish #XAUUSD
-
-【Analyst: U.S. and Iran remain entrenched; risk of wider conflict persists】Abdullah Bandar Al-Etabi, assistant professor of international affairs at Qatar University, said it is too early to judge the direction after Trump’s latest Iran remarks. Both sides remain entrenched and Iran has not softened its stance on the Strait of Hormuz, so the risk of broader conflict persists. Recent developments have, however, bought diplomatic time for Iran to pursue arrangements with regional states over the Strait and for diplomacy to restart.
-
----
-
-### 2026-08-02 21:19:11  #其他
-
-市場訊息：兩架直升機在希臘火災上空相撞。
-
----
-
-### 2026-08-02 21:15:58  #國際
-
-市場訊息：以色列佔領軍向黎巴嫩南部納巴蒂耶鎮周邊發射白磷彈，以縱火製造火災。
 
 ---
