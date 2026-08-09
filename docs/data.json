@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 12:31:43",
-  "count": 15957,
+  "updated": "2026-08-09 12:35:52",
+  "count": 15956,
   "items": [
+    {
+      "id": "5032307",
+      "time": "2026-08-09 12:34:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國上財年政府補貼規模翻倍 鉅額資金重點投向能源專案】全新分析資料顯示，受益於脫歐後獲得政策自主空間，英國政府加大對各類能源專案撥款力度，上一財年納稅人承擔的政府補貼規模翻了一倍有餘。國際律所Pinsent Masons的分析報告顯示，截至 2026 年 3 月的完整財年，英國政府各類補貼總額達 1140 億英鎊；而前一財年補貼總額僅為 473 億英鎊。新增補貼資金絕大部分流向能源專案，涵蓋海上風電場開發，以及為塞茲韋爾 C 核電站撥付的超 500 億英鎊專項補助。"
+    },
     {
       "id": "mkt:019fe4c8-6dac-7aab-8fc8-041e2b5d7b31",
       "time": "2026-08-09 12:29:28",
@@ -145366,27 +145374,6 @@
         "WTI"
       ],
       "text": "【IEA says Strait of Hormuz shipping disruption lifted Japan Q2 wholesale power spot price 30% YoY】The IEA said shipping disruption in the Strait of Hormuz halted Middle East LNG flows, pushing Japan's average wholesale spot power price in Q2 to about $90 per MWh, roughly 30% above the same period last year, Kyodo reported. The IEA warned that heat-driven demand growth and a prolonged blockade could keep prices elevated and projects Japan's average wholesale power price in H2 2026 at $105 per MWh, about 40% higher YoY."
-    },
-    {
-      "id": "5020680",
-      "time": "2026-08-02 12:35:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽航運受阻致日本二季度電價同比漲30%】國際能源署近日釋出報告說，霍爾木茲海峽航運受阻導致今年二季度日本平均批發電力現貨價格達到每1000千瓦時90美元，約比去年同期上漲30%。日本共同社1日援引國際能源署的這份報告報道說，霍爾木茲海峽航運受阻導致中東產液化天然氣供應停滯並造成了上述影響。報告說，伴隨著酷暑帶來的電力需求增長以及封鎖長期化，電價可能繼續維持漲勢。報告預計，2026年下半年日本平均批發電力價格將達到每1000千瓦時105美元，同比漲幅約40%。日本資源能源廳資料顯示，以液化天然氣為燃料的火力發電量佔日本發電總量的30%左右，因此電力價格很容易受液化天然氣國際市場影響。（新華社）"
-    },
-    {
-      "id": "mkt:019fc0bf-f56d-7aab-8f45-346368baf6b7",
-      "time": "2026-08-02 12:33:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Rubio says U.S. strikes make Iran more willing to negotiate】U.S. Secretary of State Rubio told Fox News that Washington’s military strikes have made Iran more willing to negotiate on its nuclear program and the Strait of Hormuz. He said the strikes destroyed Iran’s navy, air force, missile-defense systems, launchers and weapons production facilities and “severely weakened” its defenses; Iran “still has missiles and drones” capable of causing damage but no longer possesses the conventional shield it had planned to hide behind, a shift Rubio said explains why Tehran is now, in some cases, eager to seek agreements while the U.S. deals from a position of strength rather than weakness."
     }
   ]
 }
