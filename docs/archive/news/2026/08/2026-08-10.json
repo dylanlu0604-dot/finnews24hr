@@ -1,7 +1,20 @@
 {
   "date": "2026-08-10",
-  "count": 109,
+  "count": 110,
   "items": [
+    {
+      "id": "mkt:019fe873-fef5-7aab-8fcc-09411f11bb52",
+      "time": "2026-08-10 05:35:43",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "FX market steady at Monday open: USD/JPY down 0.08%, EUR/USD up 0.03%, DXY down 0.04%."
+    },
     {
       "id": "mkt:019fe872-8338-7aab-8fcc-002e9fbeb929",
       "time": "2026-08-10 05:34:06",
