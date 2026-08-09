@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:51:45_
-_本檔包含 3080 則快訊，約 602233 字_
+_更新時間：2026-08-09 19:39:39_
+_本檔包含 3080 則快訊，約 601961 字_
+
+---
+
+### 2026-08-07 14:45:17  #其他
+
+法國6月貿易帳 -58.47億歐元，前值 -69.28億歐元。法國6月經常帳 -14億歐元，前值 -1億歐元。
+
+---
+
+### 2026-08-07 14:45:17  #MKT News #Important #EURUSD #Impact bearish #DXY #Impact bullish
+
+France June trade balance -5.847 bln euros; prior value revised from -6.928 bln euros to -7.729 bln euros.
+
+---
+
+### 2026-08-07 14:45:12  #MKT News #Market Regions #Europe & UK
+
+France June current account: -€1.4bn; May revised from -€0.1bn to -€1.2bn.
+
+---
+
+### 2026-08-07 14:45:11  #MKT News #EURUSD
+
+France June imports €60.384 bln; prior May imports revised up to €60.903 bln from €60.509 bln.
+
+---
+
+### 2026-08-07 14:45:11  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
+
+France June exports €54.537 bln; prior reading revised from €53.581 bln to €53.174 bln.
+
+---
+
+### 2026-08-07 14:45:08  #公司
+
+【宇樹科技王興興：公司採用“以銷定產+安全庫存”的生產計劃模式】宇樹科技董事長、總經理兼技術長王興興在網上路演時表示，公司採用“以銷定產+安全庫存”的生產計劃模式，每月根據銷售計劃及產品庫存情況組織召開產供銷會議制定總生產計劃，將生產計劃拆解為具體的生產任務並下發至各生產部門，生產部門根據生產任務組織安排生產。公司採取整機與核心部元件自主裝配、零部件及部分工序外採加工相結合的生產組織模式，即機器人整機及核心部元件在公司內部完成生產、裝配，非核心零部件及部分工序採用定製化採購和外協加工模式。其中，公司對大部分機械零部件採取定製化採購模式，對各批次定製件實行嚴格的來料檢驗，以保障外購定製件質量規格達到公司技術要求；公司對於大部分PCBA貼片、注塑及部分機加工等工序採取外協加工模式，由外協廠商根據公司提供的原材料及相關技術要求進行外協加工。上述生產模式，保障了公司能夠有效把控生產流程的各關鍵核心環節，實現技術進步與成本效益的最最佳化。
+
+---
+
+### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
+
+France | Current Account (Jun) | actual -1400000000B | previous -100000000B
+
+---
+
+### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
+
+France | Imports (Jun) | actual 60384000000B | previous 60509000000B
+
+---
+
+### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
+
+France | Exports (Jun) | actual 54537000000B | previous 53580999999.99999B
+
+---
+
+### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
+
+France | Trade Balance (Jun) | actual -5847000000B | previous -6928000000B
+
+---
+
+### 2026-08-07 14:44:57  #MKT News
+
+【Unitree Technology chairman Wang Xingxing says firm uses produce-to-sales + safety-stock production model】Unitree Technology chairman, CEO and CTO Wang Xingxing said the company operates a produce-to-sales plus safety-stock production-planning model. Monthly production-supply-sales meetings set total output based on the sales plan and inventory; plans are broken into specific production tasks and issued to production departments, which organise execution. Finished robots and core modules are produced and assembled in-house, while non-core parts and certain processes are obtained via customised procurement and subcontracting. Wang said the model enables control of key technical production steps and aims to optimise technological progress and cost efficiency.
+
+---
+
+### 2026-08-07 14:44:51  #國際
+
+【特朗普否認對美防長赫格塞思不滿】美國總統特朗普6日否認他對國防部長赫格塞思不滿，稱對赫格塞思所做的工作“非常滿意”。特朗普在社交媒體上發帖稱，一些媒體有關他與赫格塞思就彈藥短缺問題發生衝突的報道是“完全沒有根據的謠言”，他對赫格塞思所做的工作“非常滿意”。赫格塞思“在美軍中受到高度尊重”，並在增加參軍人數等方面取得巨大進展。特朗普抨擊發布報道的《華盛頓郵報》是“業內最糟糕的媒體之一”。他寫道：“我真的相信他們報道假新聞是叛國行為。”特朗普6日早些時候在社交媒體上發帖否認美國存在彈藥短缺問題。他在帖文中稱，美國“擁有海量的軍火彈藥，尤其是某些特定種類”，並表示將追查並嚴懲“爆料者”。不過特朗普隨後在白宮承認，儘管美國目前彈藥庫存總體充足，但“某些型別彈藥”供應“相對緊張”。（新華社）
+
+---
+
+### 2026-08-07 14:44:37  #國際
+
+【日本政府養老投資基金第一季度投資回報率達8.2%，總資產升至317.8萬億日元】日本政府養老投資基金（GPIF）8月7日釋出了2026財年第一季度（2026年4月至6月）的投資業績報告。報告顯示，得益於全球及日本股票市場的強勁表現，GPIF本季度投資回報率達到8.20%（未年化），單季度投資收益額為24.09萬億日元（其中利息與股息收入為1.98萬億日元）。截至2026財年第一季度末，GPIF管理的總資產規模已攀升至317.76萬億日元。
+
+---
+
+### 2026-08-07 14:43:38  #其他
+
+京鼎下半財年淨利潤9.839億元臺幣。
+
+---
+
+### 2026-08-07 14:43:24  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Rises Ahead of US Jobs Report — Silver climbed above $63 an ounce on Friday, reaching a six-week high as investors awaited the closely watched US jobs report for fresh clues on labor market conditions and the outlook for Federal Reserve monetary policy. Markets remain divided over whether the US central bank will raise interest rates in September, although Fed officials have increasingly signaled a willingness to tighten policy soon amid mounting inflationary pressures. Investors also monitored developments in the Middle East, as renewed tensions in the Strait of Hormuz pushed oil prices higher, reviving concerns about inflation and the prospect of near-term rate hikes. Elsewhere, industrial demand continued to underpin silver prices, with Chinese imports of silver-bearing ores surging 62.5% year-over-year in June to 219,000 tonnes.
+
+---
+
+### 2026-08-07 14:43:20  #國際
+
+國際石油開發帝石（INPEX）高管：我們按計劃推進，目標於2027年年中就印尼阿巴迪液化天然氣專案做出最終投資決定。
+
+---
+
+### 2026-08-07 14:43:12  #公司
+
+【北京利爾：洛陽利爾5800kVA脫矽鋯電熔爐產出首批成品】據北京利爾訊息，8月5日，洛陽利爾功能材料有限公司電熔鋯新車間5800kVA脫矽鋯電熔爐順利點火，配套的吹球室、迴圈水系統、除塵器、自動配料線、篩分除鐵線及乾燥線等全產線裝置聯動試執行，裝置整體工況平穩可控。熔爐點火後，生產線按既定工藝完成全流程冶煉加工，順利產出首批合格脫矽鋯成品。新產線投產後，將有效緩解公司高階脫矽鋯產品供應缺口。
+
+---
+
+### 2026-08-07 14:42:51  #市場 #其他 #焦點
+
+【中際旭創成交額達500億元】8月7日下午，中際旭創成交額達500億元，現跌4.08%。
+
+---
+
+### 2026-08-07 14:42:48  #市場 #焦點
+
+紐約期銀突破64美元/盎司，日內漲3.91%。
+
+---
+
+### 2026-08-07 14:42:38  #國際
+
+【報道：沙特警惕伊朗勢力協同襲擊 能源等關鍵設施面臨短期威脅】據報道援引一名沙特官員訊息，沙烏地阿拉伯正為本國能源設施、港口及機場遭遇伊拉克民兵與伊朗支援的胡塞武裝協同襲擊的潛在風險做準備。該官員稱，沙特、美國及其他地區國家獲取的情報顯示，在伊朗革命衛隊主導下，襲擊“極有可能在短期內”發生。這名官員表示，沙特已監測到伊拉克民兵人員、胡塞武裝分子與伊朗革命衛隊人員開展會面，同時發現無人機與導彈調動跡象。該官員表示：“沙烏地阿拉伯將採取一切必要措施應對任何侵略行為。”其補充稱，利雅得方面仍將繼續致力於緩和地區緊張局勢。
+
+---
+
+### 2026-08-07 14:42:02  #其他
+
+【上海釋出中心城區高溫黃色預警】上海市氣象臺2026年08月07日14時35分發布中心城區高溫黃色預警訊號：預計今天中心城區大部的最高氣溫將超過35℃，請注意用火用電安全，做好防暑防曬工作。
+
+---
+
+### 2026-08-07 14:41:49  #其他
+
+國際石油開發帝石（INPEX）高管：阿布扎比原油的重要性未發生改變，我們將繼續投資以提升當地產量。
+
+---
+
+### 2026-08-07 14:41:37  #其他
+
+【機構：2026年上半年全球半導體市場規模同比翻倍 超7000億美元】世界半導體貿易統計組織 (WSTS) 當地時間昨日表示，全球半導體市場規模在2026年上半年達到7020億美元，同比增幅102%。其中儲存器同比增長305%、邏輯電路同比增長45%，其餘產品類別也均錄得同比增長。
+
+---
+
+### 2026-08-07 14:41:35  #MKT News #Commodities #Energy #Brent #Impact bearish
+
+A top executive at INPEX, one of Japan's largest energy developers, said Abu Dhabi crude's importance remains unchanged and the company will continue investing to increase output in the region.
 
 ---
 
@@ -18444,149 +18588,5 @@ China A-share software development sector rallied intraday; Fanwei Network hit t
 ### 2026-08-06 09:40:10  #國際
 
 智利財長：智利將於9月1日公佈資本市場改革方案。
-
----
-
-### 2026-08-06 09:40:09  #Trading Economics #Economy #Australia #Exports #Importance 1
-
-Australia Exports Rebound in June — Australia’s goods exports grew 9.6% month-on-month to AUD 47.70 billion in June, rebounding from an upwardly revised 7.6% decline in May, primarily driven by non-monetary gold.
-
----
-
-### 2026-08-06 09:39:38  #公司 #原創
-
-【斷臂求生後重返投資 “AI股神”的對沖基金再出手押注4億美元】據知情人士稱，在“AI股神”Leopold Aschenbrenner麾下對沖基金Situational Awareness瀕臨崩潰僅僅幾天之後，他已重返投資市場，對一家非上市公司押注4億美元。這筆投資於週二完成，從中可以初步看出Aschenbrenner打算如何重整旗鼓。上週，由於華爾街貸款機構紛紛發出追加保證金通知，他的對沖基金幾近崩潰邊緣。據一位知情人士透露，在這筆投資之前，上個月Situational Awareness向同一家公司投資了1億美元。目前尚不清楚這筆額外資金流向Situational Awareness現有私募股權投資組合中的哪家公司。
-
----
-
-### 2026-08-06 09:39:03  #MKT News #WTI #Impact bullish #Brent
-
-【Tanker reports explosions in Strait of Hormuz】UK Maritime Trade Operations (UKMTO) said on the 6th that a tanker transiting the Strait of Hormuz reported hearing two explosions; the vessel and crew are reported safe. UKMTO located the incident 9 nm southeast of Kumzar, Oman. The report was received at 19:18 UTC on the 5th (03:18 Beijing time on the 6th). No further details were provided.
-
----
-
-### 2026-08-06 09:37:59  #市場
-
-【金飾克價漲至1299元，單日漲超60元】8月6日，現貨黃金一度站上4300美元/盎司關口，為今年6月18日來首次。國內黃金飾品價格對比顯示，多家黃金珠寶品牌當日公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1293元/克，單日漲56元；老廟黃金報價1299元/克，單日漲63元；周生生報價1295元/克，單日漲58元。
-
----
-
-### 2026-08-06 09:37:33  #公司 #市場
-
-【無人機概念盤初走強 大立科技、興民智通2連板】早盤無人機概念震盪走強，大立科技、興民智通走出2連板，譜尼測試、優機股份漲超10%，雷科防務、航天彩虹、久之洋、縱橫股份等跟漲。
-
----
-
-### 2026-08-06 09:37:23  #其他
-
-【霍爾木茲海峽一艘油輪報告聽到爆炸聲】英國海上貿易行動辦公室6日釋出通報說，一艘在霍爾木茲海峽航行的油輪報告聽到兩次爆炸聲，目前船隻和船員均安全。 通報顯示，事發地點位於阿曼庫姆扎爾東南9海里處。英國海上貿易行動辦公室於協調世界時5日19時18分（北京時間6日3時18分）收到這艘油輪船長的報告。通報沒有提供更多細節。
-
----
-
-### 2026-08-06 09:36:44  #市場
-
-【數字貨幣概念異動拉昇 博彥科技、新北洋等漲停】數字貨幣概念異動拉昇，截至發稿，博彥科技、新北洋等漲停，創識科技、任子行、優博訊等跟漲。
-
----
-
-### 2026-08-06 09:36:23  #市場
-
-【軟體開發板塊短線拉昇，泛微網路漲停】軟體開發板塊短線拉昇，泛微網路漲停，亞信安全、天融信、任子行、四方精創、永信至誠跟漲。
-
----
-
-### 2026-08-06 09:36:18  #Trading Economics #Economy #Australia #Balance of Trade #Importance 3
-
-Australia Unexpectedly Posts Trade Surplus — Australia unexpectedly posted a trade surplus of AUD 1.93 billion in June 2026, reversing a downwardly revised AUD 2.37 billion deficit in the previous month and defying market expectations of an AUD 1.1 billion deficit.
-
----
-
-### 2026-08-06 09:35:58  #其他
-
-【上合組織“天山-2026”聯合網路反恐演習舉行】7月23日，上海合作組織成員國主管機關“天山-2026”聯合網路反恐演習在新疆烏魯木齊舉行。各成員國派出代表團參演，上合組織地區反恐怖機構執委會為演習提供相關協助。（央視新聞）
-
----
-
-### 2026-08-06 09:35:35  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-08-06 09:35:29  #市場 #焦點
-
-南向資金淨買入額達10億港元。
-
----
-
-### 2026-08-06 09:35:26  #Trading Economics #Economy #Australia #Building Permits MoM #Importance 1
-
-Australia Building Approvals Confirm 7.2% Rise in June — Australia's seasonally adjusted dwelling approvals rose 7.2% month-over-month to a four-month high of 18,328 units in June 2026, confirming preliminary estimates and following a 1.6% fall in May. The gain was largely driven by a 17.8% increase in approvals for private sector dwellings excluding houses to 7,138 units, while approvals for private sector houses rose a modest 0.4% to 10,631. On an annual basis, total dwelling approvals were up 8.9%, reflecting a 15.8% rise in approvals for private sector houses, while approvals for private sector dwellings excluding houses declined 1.5%. In trend terms, total dwelling approvals increased 2.0% to 18,449 units. Across the states, approvals climbed in Queensland (33.4%), New South Wales (13.2%), and Western Australia (10.7%), but fell in Tasmania (-22.5%), Victoria (-13.9%), and South Australia (-11.5%).
-
----
-
-### 2026-08-06 09:35:11  #MKT News
-
-China A-share gaming sector staged a short-term rally; Caesar Culture hit the daily limit, while Shengtian Network, Zhejiang Digital Culture, Bingchuan Network, Century Huatong and Perfect World advanced.
-
----
-
-### 2026-08-06 09:35:03  #公司
-
-牛肉保障措施項下自阿根廷進口的牛肉於2026年8月5日已達到商務部公告2025年第87號明確的該國家（地區）規定數量的50%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起（含當日），將在現行適用關稅稅率基礎上加徵55%關稅。（商務部）
-
----
-
-### 2026-08-06 09:35:00  #MKT News
-
-cenc said a magnitude-3.4 earthquake struck at 09:28 Beijing time on Aug 6 in Xinghai County, Hainan prefecture, Qinghai (35.32°N, 99.54°E); depth 10 km.
-
----
-
-### 2026-08-06 09:34:38  #市場
-
-【遊戲板塊短線拉昇，凱撒文化漲停】遊戲板塊短線拉昇，凱撒文化漲停，盛天網路、浙數文化、冰川網路、世紀華通、完美世界等紛紛走高。
-
----
-
-### 2026-08-06 09:34:29  #市場
-
-【煤炭板塊盤初拉昇 昊華能源漲超7%】煤炭板塊盤初拉昇，截至發稿，昊華能源漲超7%，晉控煤業、新大洲A、大有能源等漲幅居前。
-
----
-
-### 2026-08-06 09:34:26  #MKT News #WTI #Impact bearish #Brent
-
-【Vance says talks with Iran will take time】U.S. Vice President Vance said on Aug. 5 that negotiations with Iran will be "bumpy and time-consuming" and that Iran is "very difficult to deal with." He said the U.S. aim is to manage the complexities and secure the best outcome for the American people and the president. Vance added that, although the process will be messy and take time, "oil prices will fall and remain low," "Iran will never obtain nuclear weapons," and "the U.S. will be in a stronger position." He said the parties are currently engaged in a strategic contest.
-
----
-
-### 2026-08-06 09:34:19  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4574.40點。
-
----
-
-### 2026-08-06 09:34:13  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #SSE Composite
-
-China's ChiNext Index fell more than 2%, the Shenzhen Component Index dropped 1.4% and the Shanghai Composite fell 0.25%. More than 3,100 stocks declined across the market.
-
----
-
-### 2026-08-06 09:34:00  #Trading Economics #Economy #Australia #Imports #Importance 1
-
-Australia Imports Inch Lower — Australia’s goods imports edged down 0.2% month-over-month to AUD 46.76 billion in June 2026, reversing a downwardly revised 0.9% growth in the prior month amid softening domestic demand.
-
----
-
-### 2026-08-06 09:33:28  #國際
-
-【萬斯稱與伊朗談判將需要一些時間】當地時間8月5日晚，據美國媒體報道，美國副總統萬斯當天表示，與伊朗的談判過程將“充滿波折且耗時”，並指出伊朗“極難打交道”。萬斯稱：“我們的任務是應對這些複雜局面，為美國人民，同時也為美國總統爭取最佳結果。至於最終的結局——儘管過程會很混亂也需要時間，但油價將會下降並保持低位，伊朗將永遠無法擁有核武器，而美國將處於更有利的地位。”萬斯稱，目前他們正處於博弈之中。 （CCTV國際時訊）
-
----
-
-### 2026-08-06 09:33:05  #市場 #焦點
-
-科創50日內跌幅達1.86%，成分股中，佰維儲存跌5.03%，瀾起科技跌3.36%，源傑科技跌3.26%，寒武紀跌2.62%。
 
 ---

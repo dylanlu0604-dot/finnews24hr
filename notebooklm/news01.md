@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:51:45_
-_本檔包含 3131 則快訊，約 602591 字_
+_更新時間：2026-08-09 19:39:39_
+_本檔包含 3135 則快訊，約 602389 字_
+
+---
+
+### 2026-08-09 19:38:43  #其他
+
+【離境退稅“2.0版”政策落地滿月，廣州入境消費持續升溫】離境退稅2.0版政策自7月1日正式實施以來，政策紅利持續釋放，為入境消費市場注入強勁新動能。據廣州海關統計，7月1日至8月8日，廣州白雲機場海關已驗放境外旅客離境退稅申請單約1.9萬份，申請單金額約1億元，同比分別增長約5倍、1.5倍。
+
+---
+
+### 2026-08-09 19:29:27  #其他
+
+內塔尼亞胡：當我說解除哈馬斯武裝時，我指的是所有型別的重武器和輕武器。
+
+---
+
+### 2026-08-09 19:27:44  #MKT News
+
+【Mohsen Rezaei named Supreme Leader’s representative to Iran’s Supreme National Security Council】On the 9th (local time), Iranian sources said Mohsen Rezaei has joined Iran’s Supreme National Security Council as the representative of Supreme Leader and Commander‑in‑Chief Mujtaba Khamenei on the council.
+
+---
+
+### 2026-08-09 19:27:25  #國際
+
+【雷扎伊出任伊朗最高領袖駐最高國家安全委員會代表】當地時間9日，據伊朗方面訊息，穆赫辛·雷扎伊已加入伊朗最高國家安全委員會，擔任伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊在該委員會的代表。（央視新聞）
+
+---
+
+### 2026-08-09 19:25:07  #國際
+
+【中國氣象頻道氣象分析師：颱風“白海豚”總體上對華東、華北影響會大於“巴威”】8月9日，中國氣象頻道氣象分析師信欣發文稱，今天17時30分，白海豚登陸浙江玉環坎門街道之後，18時40分前後在浙江省溫州樂清市翁垟街道沿海再次登陸，登陸時中心附近最大風力有13級（38米/秒），中心最低氣壓為950百帕。之前的颱風巴威，也是先登陸玉環坎門，再登陸樂清。兩個颱風都是超遠距離奔襲，最後登陸點重合，也是難得一見。白海豚的環流更大，強度更強，未來白海豚在登陸後的路徑總體比巴威偏西，總體上對華東、華北的影響會大於巴威。尤其是12-15日，白海豚的殘渦可能疊加冷空氣，導致河南山東河北等地出現強降雨，因此後期北方地區也要高度關注。
+
+---
+
+### 2026-08-09 19:20:17  #國際
+
+【以總理稱哈馬斯解除武裝前不撤軍】以色列總理內塔尼亞胡今天（8月9日）在每週政府會議上講話表示， 以色列拒絕“和平委員會”提出的有關加沙停火“15點方案”，在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）徹底解除武裝前，以軍不會撤退，並強調在其任內絕不允許建立巴勒斯坦國，也絕不允許伊朗擁有核武器。（CCTV國際時訊）
+
+---
+
+### 2026-08-09 19:18:59  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran supreme leader meets President Pezeshkian】State TV said Iran's supreme leader Mujtaba met President Pezeshkian as Pezeshkian begins his third term. They discussed household livelihoods, the ongoing third war of aggression, future prospects, military development and economic engagement with foreign partners.
+
+---
+
+### 2026-08-09 19:15:13  #公司 #國際
+
+俄羅斯國家原俄羅斯國家原子能公司（Rosatom）總經理：計劃儘早接回所有從伊朗撤離的專家。據他透露，如果一切順利，俄羅斯國家原子能公司將在今年秋季把布什爾核電站的工作人員數量恢復到100人。
+
+---
+
+### 2026-08-09 19:10:56  #其他
+
+【安徽多地啟動紅色山洪災害氣象預警】記者9日從安徽省水利廳瞭解到，當前安徽多地啟動紅色山洪災害氣象預警，部分地市防汛防颱風應急響應提升至三級。 據氣象部門預報，受今年第13號颱風“白海豚”影響，8月9日至11日，安徽省大別山區、沿江江南大部分地區有大到暴雨，區域性大暴雨，山洪和地質災害及城市內澇等災害風險較高。（新華社）
+
+---
+
+### 2026-08-09 19:10:21  #其他
+
+【受颱風“白海豚”影響 北京局地或將出現特大暴雨】今年第13號颱風“白海豚”（強颱風級）的中心已於9日17時30分前後在浙江省台州玉環市沿海登陸，隨後18時40分前後在浙江省溫州樂清市沿海再次登陸。北京市水務局9日傍晚釋出訊息，據最新資料研判，受颱風影響，11日夜間至15日京津冀地區將出現強降雨天氣，過程持續時間長、累計雨量大。預計，11日夜間至15日北京累計降雨量將達到大暴雨量級，山區及南部部分地區將出現特大暴雨。降雨將在11日夜間開始加強，11日夜間至12日夜間北京有暴雨，部分割槽域有大暴雨。未來臺風造成的降雨仍有不確定性，氣象部門等將密切跟蹤研判，提醒公眾關注臨近天氣預報。（央視新聞）
+
+---
+
+### 2026-08-09 19:08:43  #其他
+
+【中央氣象臺：預計颱風“琵鷺”對我國無影響】據中央氣象臺訊息，今年第16號颱風“琵鷺”（熱帶風暴級；英文名稱：PEILOU名字來源：中國澳門名稱意義：一種澳門常見的候鳥）已於8月9日在西北太平洋洋麵上生成。17時其中心距離關島塞班北偏西方向約700公里，就是北緯21.1度、東經143.4度，中心附近最大風力有8級18米/秒（約65公里/小時），中心最低氣壓為998百帕，七級風圈半徑為150至200公里。預計“琵鷺”將以每小時25至30公里的速度向偏東方向快速移動，強度緩慢增強，未來“琵鷺”對我國無影響。
+
+---
+
+### 2026-08-09 19:05:48  #MKT News
+
+Mizan, the Iranian judicial system’s news agency, cited the Basij deputy commander saying videos of Iran’s supreme leader Mujtaba in public appearances and in meetings with commanders will be released.
+
+---
+
+### 2026-08-09 19:04:20  #MKT News
+
+NETANYAHU said some elements of the U.S. 15-point Gaza plan are acceptable, while others are not.
+
+---
+
+### 2026-08-09 19:03:26  #其他
+
+【國家海洋預報臺繼續釋出風暴潮紅色警報】記者從自然資源部獲悉，今天（9日）16時，國家海洋預報臺繼續釋出風暴潮紅色警報。預計至10日下午，江蘇南通到浙江寧波沿海將出現100到250釐米的風暴增水，浙江台州到溫州沿海將出現180到350釐米的風暴增水，福建沿海將出現50到100釐米的風暴增水。浙江省寧波市、舟山市和台州市的風暴潮預警級別為紅色，上海市和浙江省嘉興市的風暴潮預警級別為橙色，浙江省溫州市的風暴潮預警級別為黃色。請沿海政府及相關部門按照職責做好防禦風暴潮的應急搶險工作，沿海低窪地區和危房戶居民應及時轉移到安全地帶；關閉沿海危險區域浴場和遊樂設施，禁止人員到海邊遊玩；漁排、漁船等海上作業人員及時上岸避險。 (央視新聞)
+
+---
+
+### 2026-08-09 19:03:01  #國際
+
+伊朗民兵組織巴斯克副指揮官稱，未來將公佈穆傑塔巴·哈梅內伊“公開露面及與指揮官會晤”的畫面。
+
+---
+
+### 2026-08-09 19:01:05  #國際
+
+內塔尼亞胡：對於美國提出的加沙問題十五點方案，其中部分提議我方可以接受，部分則不能接受。
+
+---
+
+### 2026-08-09 18:59:53  #其他
+
+內塔尼亞胡：以國防軍將挫敗針對士兵和平民的各類威脅。
+
+---
+
+### 2026-08-09 18:59:25  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli Prime Minister Netanyahu said that as long as he remains prime minister there will be no Palestinian state in Gaza or the West Bank.
+
+---
+
+### 2026-08-09 18:58:56  #國際
+
+以色列總理內塔尼亞胡表示：只要我仍擔任總理，加沙或約旦河西岸就不會出現巴勒斯坦國。
+
+---
+
+### 2026-08-09 18:58:10  #MKT News
+
+Israeli Prime Minister Netanyahu said Iran will not attack Israel because it understands that, if it did, Israel would deliver a powerful strike.
+
+---
+
+### 2026-08-09 18:57:59  #其他
+
+阿曼媒體：阿曼蘇丹訪問卡達，與埃米爾舉行雙邊會談。
+
+---
+
+### 2026-08-09 18:57:45  #MKT News #Important #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Prime Minister Netanyahu said Israel rejects a 15-point Gaza plan and will not withdraw forces from Gaza until Hamas is fully disarmed.
+
+---
+
+### 2026-08-09 18:57:32  #國際
+
+以色列總理內塔尼亞胡：在哈馬斯完全解除武裝之前，以色列不會從加沙撤出任何兵力。
+
+---
+
+### 2026-08-09 18:57:07  #國際
+
+內塔尼亞胡：以色列拒絕有關加沙的 15 點檔案。
+
+---
+
+### 2026-08-09 18:56:51  #其他
+
+【原位元組跳動機器人一號位加入小米，負責基座模型研發】從多方獨立信源處確認，原位元組跳動機器人團隊負責人孔濤已加盟小米，目前擔任小米機器人基座模型團隊負責人。多位知情人士透露，孔濤於2025年夏天就已加入小米，並帶來不少原先在位元組跳動工作的員工。加入小米機器人之後，孔濤與很多員工都進行了一對一的長談，目的是摸清小米機器人團隊在行業內的大概水準。目前，小米機器人事業部大約有200人。小米機器人事業部對機器人的本體、小腦、大腦，甚至機器人作業系統都有研究，而且不同的部門還會預研同一個方向，比如世界模型。“小米機器人的基座模型團隊很神秘。孔濤帶領的基座模型團隊有單獨的辦公地。小米高管集體在飛書上開會時，孔濤甚至不用露臉。”一位接近小米機器人的知情人士透露。小米機器人事業部對內也屬於高度保密狀態。（21財經）
+
+---
+
+### 2026-08-09 18:54:54  #市場 #焦點
+
+布倫特原油暗盤突破83美元，日內漲超1.2%。
+
+---
+
+### 2026-08-09 18:54:32  #焦點 #國際
+
+【伊朗最高領袖與總統會談】據伊朗塔斯尼姆通訊社今天（8月9日）報道，伊朗總統佩澤希齊揚與伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊舉行會談。雙方就伊朗當前經濟和軍事等問題交換意見，重點討論保障民眾基本生活需求、當前衝突局勢及未來形勢、軍事領域最新進展，以及本幣、外匯和能源資源的籌措與使用管理等問題。雙方還就伊朗與外國開展經濟合作等議題進行了討論。（CCTV國際時訊）
+
+---
+
+### 2026-08-09 18:51:27  #MKT News #Market Regions #Greater China
+
+【Typhoon Baihaitun makes second landfall in Yueqing, Zhejiang, China】The 13th typhoon of the year, Baihaitun, made a second landfall in Yueqing in China's Zhejiang province.
 
 ---
 
@@ -18725,149 +18893,5 @@ Hungary Inflation Rate Lowest Since 2016 — The annual inflation rate in Hungar
 ### 2026-08-07 14:45:37  #公司
 
 【浙商證券：維持百隆東方“買入”評級，Q3利潤高增有望延續】浙商證券研報指出，百隆東方26H1業績彈性及現金流亮麗，Q3利潤高增有望延續。26H1公司實現收入42.7億元（同比+19.0%），其中紗線業務收入39.6億元（同比+16.2%）。預計銷量增長為收入增長的主導因素。低價棉花庫存結轉帶動26H1毛利率16.4%（同比+1.2pp），毛利潤絕對值同比增加約1.6億元，是業績彈性的最主要貢獻來源。收入量增+低價庫存轉結提升毛利率+費用率有效控制+投資收益增加，共同驅動26H1歸母淨利潤5.6億元（同比+43.5%）、扣非歸母淨利潤5.3億元（同比+46.7%），落在業績預告中樞偏上；子公司百隆越南實現營收33.0億元、淨利潤4.2億元，仍為公司核心利潤來源。按照91%分紅比例估算，26年股息率7.3%，中期分紅方案落地進一步強化股東回報，高業績彈性疊加高股息，維持“買入”評級。
-
----
-
-### 2026-08-07 14:45:17  #其他
-
-法國6月貿易帳 -58.47億歐元，前值 -69.28億歐元。法國6月經常帳 -14億歐元，前值 -1億歐元。
-
----
-
-### 2026-08-07 14:45:17  #MKT News #Important #EURUSD #Impact bearish #DXY #Impact bullish
-
-France June trade balance -5.847 bln euros; prior value revised from -6.928 bln euros to -7.729 bln euros.
-
----
-
-### 2026-08-07 14:45:12  #MKT News #Market Regions #Europe & UK
-
-France June current account: -€1.4bn; May revised from -€0.1bn to -€1.2bn.
-
----
-
-### 2026-08-07 14:45:11  #MKT News #EURUSD
-
-France June imports €60.384 bln; prior May imports revised up to €60.903 bln from €60.509 bln.
-
----
-
-### 2026-08-07 14:45:11  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed
-
-France June exports €54.537 bln; prior reading revised from €53.581 bln to €53.174 bln.
-
----
-
-### 2026-08-07 14:45:08  #公司
-
-【宇樹科技王興興：公司採用“以銷定產+安全庫存”的生產計劃模式】宇樹科技董事長、總經理兼技術長王興興在網上路演時表示，公司採用“以銷定產+安全庫存”的生產計劃模式，每月根據銷售計劃及產品庫存情況組織召開產供銷會議制定總生產計劃，將生產計劃拆解為具體的生產任務並下發至各生產部門，生產部門根據生產任務組織安排生產。公司採取整機與核心部元件自主裝配、零部件及部分工序外採加工相結合的生產組織模式，即機器人整機及核心部元件在公司內部完成生產、裝配，非核心零部件及部分工序採用定製化採購和外協加工模式。其中，公司對大部分機械零部件採取定製化採購模式，對各批次定製件實行嚴格的來料檢驗，以保障外購定製件質量規格達到公司技術要求；公司對於大部分PCBA貼片、注塑及部分機加工等工序採取外協加工模式，由外協廠商根據公司提供的原材料及相關技術要求進行外協加工。上述生產模式，保障了公司能夠有效把控生產流程的各關鍵核心環節，實現技術進步與成本效益的最最佳化。
-
----
-
-### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
-
-France | Current Account (Jun) | actual -1400000000B | previous -100000000B
-
----
-
-### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
-
-France | Imports (Jun) | actual 60384000000B | previous 60509000000B
-
----
-
-### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
-
-France | Exports (Jun) | actual 54537000000B | previous 53580999999.99999B
-
----
-
-### 2026-08-07 14:45:00  #MKT News #Economic Calendar #Important
-
-France | Trade Balance (Jun) | actual -5847000000B | previous -6928000000B
-
----
-
-### 2026-08-07 14:44:57  #MKT News
-
-【Unitree Technology chairman Wang Xingxing says firm uses produce-to-sales + safety-stock production model】Unitree Technology chairman, CEO and CTO Wang Xingxing said the company operates a produce-to-sales plus safety-stock production-planning model. Monthly production-supply-sales meetings set total output based on the sales plan and inventory; plans are broken into specific production tasks and issued to production departments, which organise execution. Finished robots and core modules are produced and assembled in-house, while non-core parts and certain processes are obtained via customised procurement and subcontracting. Wang said the model enables control of key technical production steps and aims to optimise technological progress and cost efficiency.
-
----
-
-### 2026-08-07 14:44:51  #國際
-
-【特朗普否認對美防長赫格塞思不滿】美國總統特朗普6日否認他對國防部長赫格塞思不滿，稱對赫格塞思所做的工作“非常滿意”。特朗普在社交媒體上發帖稱，一些媒體有關他與赫格塞思就彈藥短缺問題發生衝突的報道是“完全沒有根據的謠言”，他對赫格塞思所做的工作“非常滿意”。赫格塞思“在美軍中受到高度尊重”，並在增加參軍人數等方面取得巨大進展。特朗普抨擊發布報道的《華盛頓郵報》是“業內最糟糕的媒體之一”。他寫道：“我真的相信他們報道假新聞是叛國行為。”特朗普6日早些時候在社交媒體上發帖否認美國存在彈藥短缺問題。他在帖文中稱，美國“擁有海量的軍火彈藥，尤其是某些特定種類”，並表示將追查並嚴懲“爆料者”。不過特朗普隨後在白宮承認，儘管美國目前彈藥庫存總體充足，但“某些型別彈藥”供應“相對緊張”。（新華社）
-
----
-
-### 2026-08-07 14:44:37  #國際
-
-【日本政府養老投資基金第一季度投資回報率達8.2%，總資產升至317.8萬億日元】日本政府養老投資基金（GPIF）8月7日釋出了2026財年第一季度（2026年4月至6月）的投資業績報告。報告顯示，得益於全球及日本股票市場的強勁表現，GPIF本季度投資回報率達到8.20%（未年化），單季度投資收益額為24.09萬億日元（其中利息與股息收入為1.98萬億日元）。截至2026財年第一季度末，GPIF管理的總資產規模已攀升至317.76萬億日元。
-
----
-
-### 2026-08-07 14:43:38  #其他
-
-京鼎下半財年淨利潤9.839億元臺幣。
-
----
-
-### 2026-08-07 14:43:24  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Rises Ahead of US Jobs Report — Silver climbed above $63 an ounce on Friday, reaching a six-week high as investors awaited the closely watched US jobs report for fresh clues on labor market conditions and the outlook for Federal Reserve monetary policy. Markets remain divided over whether the US central bank will raise interest rates in September, although Fed officials have increasingly signaled a willingness to tighten policy soon amid mounting inflationary pressures. Investors also monitored developments in the Middle East, as renewed tensions in the Strait of Hormuz pushed oil prices higher, reviving concerns about inflation and the prospect of near-term rate hikes. Elsewhere, industrial demand continued to underpin silver prices, with Chinese imports of silver-bearing ores surging 62.5% year-over-year in June to 219,000 tonnes.
-
----
-
-### 2026-08-07 14:43:20  #國際
-
-國際石油開發帝石（INPEX）高管：我們按計劃推進，目標於2027年年中就印尼阿巴迪液化天然氣專案做出最終投資決定。
-
----
-
-### 2026-08-07 14:43:12  #公司
-
-【北京利爾：洛陽利爾5800kVA脫矽鋯電熔爐產出首批成品】據北京利爾訊息，8月5日，洛陽利爾功能材料有限公司電熔鋯新車間5800kVA脫矽鋯電熔爐順利點火，配套的吹球室、迴圈水系統、除塵器、自動配料線、篩分除鐵線及乾燥線等全產線裝置聯動試執行，裝置整體工況平穩可控。熔爐點火後，生產線按既定工藝完成全流程冶煉加工，順利產出首批合格脫矽鋯成品。新產線投產後，將有效緩解公司高階脫矽鋯產品供應缺口。
-
----
-
-### 2026-08-07 14:42:51  #市場 #其他 #焦點
-
-【中際旭創成交額達500億元】8月7日下午，中際旭創成交額達500億元，現跌4.08%。
-
----
-
-### 2026-08-07 14:42:48  #市場 #焦點
-
-紐約期銀突破64美元/盎司，日內漲3.91%。
-
----
-
-### 2026-08-07 14:42:38  #國際
-
-【報道：沙特警惕伊朗勢力協同襲擊 能源等關鍵設施面臨短期威脅】據報道援引一名沙特官員訊息，沙烏地阿拉伯正為本國能源設施、港口及機場遭遇伊拉克民兵與伊朗支援的胡塞武裝協同襲擊的潛在風險做準備。該官員稱，沙特、美國及其他地區國家獲取的情報顯示，在伊朗革命衛隊主導下，襲擊“極有可能在短期內”發生。這名官員表示，沙特已監測到伊拉克民兵人員、胡塞武裝分子與伊朗革命衛隊人員開展會面，同時發現無人機與導彈調動跡象。該官員表示：“沙烏地阿拉伯將採取一切必要措施應對任何侵略行為。”其補充稱，利雅得方面仍將繼續致力於緩和地區緊張局勢。
-
----
-
-### 2026-08-07 14:42:02  #其他
-
-【上海釋出中心城區高溫黃色預警】上海市氣象臺2026年08月07日14時35分發布中心城區高溫黃色預警訊號：預計今天中心城區大部的最高氣溫將超過35℃，請注意用火用電安全，做好防暑防曬工作。
-
----
-
-### 2026-08-07 14:41:49  #其他
-
-國際石油開發帝石（INPEX）高管：阿布扎比原油的重要性未發生改變，我們將繼續投資以提升當地產量。
-
----
-
-### 2026-08-07 14:41:37  #其他
-
-【機構：2026年上半年全球半導體市場規模同比翻倍 超7000億美元】世界半導體貿易統計組織 (WSTS) 當地時間昨日表示，全球半導體市場規模在2026年上半年達到7020億美元，同比增幅102%。其中儲存器同比增長305%、邏輯電路同比增長45%，其餘產品類別也均錄得同比增長。
-
----
-
-### 2026-08-07 14:41:35  #MKT News #Commodities #Energy #Brent #Impact bearish
-
-A top executive at INPEX, one of Japan's largest energy developers, said Abu Dhabi crude's importance remains unchanged and the company will continue investing to increase output in the region.
 
 ---

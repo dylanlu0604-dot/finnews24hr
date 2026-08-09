@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:51:45_
-_本檔包含 3401 則快訊，約 602894 字_
+_更新時間：2026-08-09 19:39:39_
+_本檔包含 3406 則快訊，約 602330 字_
+
+---
+
+### 2026-08-06 09:40:09  #Trading Economics #Economy #Australia #Exports #Importance 1
+
+Australia Exports Rebound in June — Australia’s goods exports grew 9.6% month-on-month to AUD 47.70 billion in June, rebounding from an upwardly revised 7.6% decline in May, primarily driven by non-monetary gold.
+
+---
+
+### 2026-08-06 09:39:38  #公司 #原創
+
+【斷臂求生後重返投資 “AI股神”的對沖基金再出手押注4億美元】據知情人士稱，在“AI股神”Leopold Aschenbrenner麾下對沖基金Situational Awareness瀕臨崩潰僅僅幾天之後，他已重返投資市場，對一家非上市公司押注4億美元。這筆投資於週二完成，從中可以初步看出Aschenbrenner打算如何重整旗鼓。上週，由於華爾街貸款機構紛紛發出追加保證金通知，他的對沖基金幾近崩潰邊緣。據一位知情人士透露，在這筆投資之前，上個月Situational Awareness向同一家公司投資了1億美元。目前尚不清楚這筆額外資金流向Situational Awareness現有私募股權投資組合中的哪家公司。
+
+---
+
+### 2026-08-06 09:39:03  #MKT News #WTI #Impact bullish #Brent
+
+【Tanker reports explosions in Strait of Hormuz】UK Maritime Trade Operations (UKMTO) said on the 6th that a tanker transiting the Strait of Hormuz reported hearing two explosions; the vessel and crew are reported safe. UKMTO located the incident 9 nm southeast of Kumzar, Oman. The report was received at 19:18 UTC on the 5th (03:18 Beijing time on the 6th). No further details were provided.
+
+---
+
+### 2026-08-06 09:37:59  #市場
+
+【金飾克價漲至1299元，單日漲超60元】8月6日，現貨黃金一度站上4300美元/盎司關口，為今年6月18日來首次。國內黃金飾品價格對比顯示，多家黃金珠寶品牌當日公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1293元/克，單日漲56元；老廟黃金報價1299元/克，單日漲63元；周生生報價1295元/克，單日漲58元。
+
+---
+
+### 2026-08-06 09:37:33  #公司 #市場
+
+【無人機概念盤初走強 大立科技、興民智通2連板】早盤無人機概念震盪走強，大立科技、興民智通走出2連板，譜尼測試、優機股份漲超10%，雷科防務、航天彩虹、久之洋、縱橫股份等跟漲。
+
+---
+
+### 2026-08-06 09:37:23  #其他
+
+【霍爾木茲海峽一艘油輪報告聽到爆炸聲】英國海上貿易行動辦公室6日釋出通報說，一艘在霍爾木茲海峽航行的油輪報告聽到兩次爆炸聲，目前船隻和船員均安全。 通報顯示，事發地點位於阿曼庫姆扎爾東南9海里處。英國海上貿易行動辦公室於協調世界時5日19時18分（北京時間6日3時18分）收到這艘油輪船長的報告。通報沒有提供更多細節。
+
+---
+
+### 2026-08-06 09:36:44  #市場
+
+【數字貨幣概念異動拉昇 博彥科技、新北洋等漲停】數字貨幣概念異動拉昇，截至發稿，博彥科技、新北洋等漲停，創識科技、任子行、優博訊等跟漲。
+
+---
+
+### 2026-08-06 09:36:23  #市場
+
+【軟體開發板塊短線拉昇，泛微網路漲停】軟體開發板塊短線拉昇，泛微網路漲停，亞信安全、天融信、任子行、四方精創、永信至誠跟漲。
+
+---
+
+### 2026-08-06 09:36:18  #Trading Economics #Economy #Australia #Balance of Trade #Importance 3
+
+Australia Unexpectedly Posts Trade Surplus — Australia unexpectedly posted a trade surplus of AUD 1.93 billion in June 2026, reversing a downwardly revised AUD 2.37 billion deficit in the previous month and defying market expectations of an AUD 1.1 billion deficit.
+
+---
+
+### 2026-08-06 09:35:58  #其他
+
+【上合組織“天山-2026”聯合網路反恐演習舉行】7月23日，上海合作組織成員國主管機關“天山-2026”聯合網路反恐演習在新疆烏魯木齊舉行。各成員國派出代表團參演，上合組織地區反恐怖機構執委會為演習提供相關協助。（央視新聞）
+
+---
+
+### 2026-08-06 09:35:35  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-08-06 09:35:29  #市場 #焦點
+
+南向資金淨買入額達10億港元。
+
+---
+
+### 2026-08-06 09:35:26  #Trading Economics #Economy #Australia #Building Permits MoM #Importance 1
+
+Australia Building Approvals Confirm 7.2% Rise in June — Australia's seasonally adjusted dwelling approvals rose 7.2% month-over-month to a four-month high of 18,328 units in June 2026, confirming preliminary estimates and following a 1.6% fall in May. The gain was largely driven by a 17.8% increase in approvals for private sector dwellings excluding houses to 7,138 units, while approvals for private sector houses rose a modest 0.4% to 10,631. On an annual basis, total dwelling approvals were up 8.9%, reflecting a 15.8% rise in approvals for private sector houses, while approvals for private sector dwellings excluding houses declined 1.5%. In trend terms, total dwelling approvals increased 2.0% to 18,449 units. Across the states, approvals climbed in Queensland (33.4%), New South Wales (13.2%), and Western Australia (10.7%), but fell in Tasmania (-22.5%), Victoria (-13.9%), and South Australia (-11.5%).
+
+---
+
+### 2026-08-06 09:35:11  #MKT News
+
+China A-share gaming sector staged a short-term rally; Caesar Culture hit the daily limit, while Shengtian Network, Zhejiang Digital Culture, Bingchuan Network, Century Huatong and Perfect World advanced.
+
+---
+
+### 2026-08-06 09:35:03  #公司
+
+牛肉保障措施項下自阿根廷進口的牛肉於2026年8月5日已達到商務部公告2025年第87號明確的該國家（地區）規定數量的50%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起（含當日），將在現行適用關稅稅率基礎上加徵55%關稅。（商務部）
+
+---
+
+### 2026-08-06 09:35:00  #MKT News
+
+cenc said a magnitude-3.4 earthquake struck at 09:28 Beijing time on Aug 6 in Xinghai County, Hainan prefecture, Qinghai (35.32°N, 99.54°E); depth 10 km.
+
+---
+
+### 2026-08-06 09:34:38  #市場
+
+【遊戲板塊短線拉昇，凱撒文化漲停】遊戲板塊短線拉昇，凱撒文化漲停，盛天網路、浙數文化、冰川網路、世紀華通、完美世界等紛紛走高。
+
+---
+
+### 2026-08-06 09:34:29  #市場
+
+【煤炭板塊盤初拉昇 昊華能源漲超7%】煤炭板塊盤初拉昇，截至發稿，昊華能源漲超7%，晉控煤業、新大洲A、大有能源等漲幅居前。
+
+---
+
+### 2026-08-06 09:34:26  #MKT News #WTI #Impact bearish #Brent
+
+【Vance says talks with Iran will take time】U.S. Vice President Vance said on Aug. 5 that negotiations with Iran will be "bumpy and time-consuming" and that Iran is "very difficult to deal with." He said the U.S. aim is to manage the complexities and secure the best outcome for the American people and the president. Vance added that, although the process will be messy and take time, "oil prices will fall and remain low," "Iran will never obtain nuclear weapons," and "the U.S. will be in a stronger position." He said the parties are currently engaged in a strategic contest.
+
+---
+
+### 2026-08-06 09:34:19  #市場 #焦點
+
+滬深300指數期貨連續主力合約日內跌1%，現報4574.40點。
+
+---
+
+### 2026-08-06 09:34:13  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #SSE Composite
+
+China's ChiNext Index fell more than 2%, the Shenzhen Component Index dropped 1.4% and the Shanghai Composite fell 0.25%. More than 3,100 stocks declined across the market.
+
+---
+
+### 2026-08-06 09:34:00  #Trading Economics #Economy #Australia #Imports #Importance 1
+
+Australia Imports Inch Lower — Australia’s goods imports edged down 0.2% month-over-month to AUD 46.76 billion in June 2026, reversing a downwardly revised 0.9% growth in the prior month amid softening domestic demand.
+
+---
+
+### 2026-08-06 09:33:28  #國際
+
+【萬斯稱與伊朗談判將需要一些時間】當地時間8月5日晚，據美國媒體報道，美國副總統萬斯當天表示，與伊朗的談判過程將“充滿波折且耗時”，並指出伊朗“極難打交道”。萬斯稱：“我們的任務是應對這些複雜局面，為美國人民，同時也為美國總統爭取最佳結果。至於最終的結局——儘管過程會很混亂也需要時間，但油價將會下降並保持低位，伊朗將永遠無法擁有核武器，而美國將處於更有利的地位。”萬斯稱，目前他們正處於博弈之中。 （CCTV國際時訊）
+
+---
+
+### 2026-08-06 09:33:05  #市場 #焦點
+
+科創50日內跌幅達1.86%，成分股中，佰維儲存跌5.03%，瀾起科技跌3.36%，源傑科技跌3.26%，寒武紀跌2.62%。
 
 ---
 
@@ -20379,119 +20523,5 @@ US Treasury Secretary Bessent said many Asian currencies are currently tracking 
 ### 2026-08-05 07:39:38  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
 
 Australia Manufacturing Contracts Further on Weak Demand — Australia’s Ai Group Industry Index for manufacturing fell deeper into contraction in July, sliding to -19.6 from June’s upwardly revised -13.9, partly unwinding the strongest improvement in eight months. The sector remained under pressure as subdued consumer demand, rising input costs, and heavier compliance burdens squeezed margins. Upstream industries showed mixed trends: chemicals contracted at a slower pace despite cost volatility and weaker construction demand, while metals lost momentum after June’s rebound, with firms citing rising costs, customer uncertainty, labour shortages, and higher employment expenses. Downstream, machinery and equipment posted its best result since July 2024, buoyed by mining and defence orders, reduced competition, and steady customer sales. Food and beverage softened as fuel and input costs weighed on margins, though stronger export demand from Europe, Asia, and China partly offset weaker domestic orders.
-
----
-
-### 2026-08-05 07:39:31  #宏觀 #公司
-
-【澳大利亞監管機構啟動地區行動網路覆蓋調查】澳大利亞競爭與消費者委員會表示，已啟動一項調查，研判鄉村地區行動網路覆蓋情況，以及對部分移動服務的批發接入實施監管是否能夠改善消費者權益。本次調查週期約 12 個月。調查將評估澳大利亞競爭與消費者委員會是否應當對一項或多項移動批發服務作出強制公告，包括國內漫遊以及無線接入網路服務。如果調查結束後該委員會公告某項服務，則移動運營商可能需要按照委員會劃定的條件，允許其他運營商使用自身基礎設施或網路接入相關服務。澳大利亞競爭與消費者委員會專員安娜・佈雷基在宣告中稱：“本次調查將透過公開、循證、多方徵詢的流程研判當前市場現狀與新技術，以此決定是否有必要出臺監管措施。”
-
----
-
-### 2026-08-05 07:39:08  #公司
-
-【年內險資僅舉牌6次 硬科技標的仍受青睞】今年以來，險資舉牌節奏有所放緩。據記者統計，截至8月4日，年內共有3家保險公司合計舉牌6次，舉牌標的包括交通基建、銀行、保險和科技型企業等。相較於去年同期的21次舉牌，今年的險資舉牌次數有較大幅度減少。
-
----
-
-### 2026-08-05 07:38:45  #國際
-
-【美加州警方在特朗普將出席活動球場逮捕一持武器男子】當地時間8月4日，美國加利福尼亞州洛杉磯縣警局發表宣告稱，一名攜帶大量武器的男子2日出現在總統特朗普名下位於洛杉磯縣的一處高爾夫球場，因可疑行為於2日當天被捕。警方隨後對嫌疑人住所展開搜查，查獲一支非法改裝的AR式步槍、防彈衣、大容量彈匣、彈藥，以及多本寫有“令人擔憂言論”的筆記本。特朗普定於4日晚些時候在這處高爾夫球場出席募款活動。（央視）
-
----
-
-### 2026-08-05 07:38:20  #公司
-
-【多地用電負荷迭創新高 電力上市公司直面機遇與轉型考驗】近日，持續性高溫疊加工業經濟穩步復甦、新型用電業態擴容，全國電力需求持續攀升，多地電網用電負荷接連重新整理歷史紀錄。8月3日，山東、天津等地電網負荷再度創下新高，電力保供壓力持續增大。面對迎峰度夏形勢，電力產業鏈上市公司全面發力保供、穩生產。從密集披露的電力上市公司半年報或半年報業績預告來看，行業結構性分化格局顯現，水電、電力裝置、儲能賽道迎來業績紅利，傳統火電承壓轉型，新型電力系統建設持續提速。（中證報）
-
----
-
-### 2026-08-05 07:38:02  #MKT News #Market Themes #AI Revolution
-
-【Musk says Grok 4.6 due next week; entire SpaceX dataset to be used for training】On Aug. 4, SpaceX CEO Elon Musk told the company’s first earnings call that SpaceX has made significant AI progress and expects to release Grok 4.6 next week, with Grok 4.7 to follow in the coming weeks. He noted SpaceXAI rolled out Grok 4.5 last month, aimed at code generation and able to handle finance and legal tasks. Musk said SpaceX will integrate its entire dataset—basically all data SpaceX has ever generated—into Grok’s training.
-
----
-
-### 2026-08-05 07:37:16  #公司 #市場 #國際
-
-【SpaceX可能成為電信運營商的競爭對手】SpaceX正將目光瞄準美國大型電信服務商。在該公司的首次財報電話會議上，總裁格溫.肖特韋爾(Gwynne Shotwell)提到了美國電話電報公司(AT&T)、Verizon Communications和T-Mobile US的營收規模，並表示星鏈將把目標對準這些公司的使用者。“我預計我們能爭取到他們相當一部分客戶，因為我認為我們的服務會更好，”肖特韋爾說。電信和衛星行業的高管及分析師已在討論SpaceX可能對現有移動服務提供商構成的威脅。肖特韋爾表示，SpaceX可以透過直接在星鏈寬頻天線上部署蜂窩基站來擴充套件移動服務。這樣一來，該網路就可以利用地面裝置和星鏈衛星的連線。“你可以根據需要進行部署，”她說。美國電話電報公司、Verizon和T-Mobile的股價在盤後交易中走低。
-
----
-
-### 2026-08-05 07:36:49  #公司
-
-【馬斯克：Grok 4.6下週釋出，SpaceX全量資料將用於模型訓練】當地時間8月4日，SpaceX CEO馬斯克在公司首次財報電話會上表示，SpaceX在人工智慧領域取得了顯著進展，並預計於下週推出Grok 4.6模型，隨後在幾周內推出Grok 4.7。就在上個月，SpaceXAI剛釋出了主打程式碼能力、同時能處理財務和法律任務的Grok4.5模型。馬斯克提到，SpaceX將為Grok的訓練提供資料支援：“我們將把SpaceX的整個資料集——基本上是SpaceX有史以來產生的全部資料——整合到Grok的訓練中。”
-
----
-
-### 2026-08-05 07:35:48  #公司 #市場
-
-【近九成實現盈利 非上市人身險公司上半年合計淨利潤倍增】據統計，2026年上半年，58家非上市人身險公司合計實現保險業務收入近8000億元，同比增長約10%；淨利潤逾610億元，同比增長超過100%。從保險業務收入情況來看，逾六成非上市人身險公司實現正增長，主要受居民存款搬家和業務結構轉型影響，險企大力發展分紅險產品，有效滿足了消費者對投資型保險產品的需求。資料顯示，上半年，人身險公司分紅險原保險保費收入約1.01萬億元，同比增長94.4%。保險業務收入增長的同時，非上市人身險公司淨利潤表現更為亮眼。上半年，近九成非上市人身險公司實現盈利，其中10餘家險企同比實現扭虧為盈。在業內人士看來，非上市人身險公司上半年業績表現較好：一方面是受益於同期A股市場走強；另一方面是部分險企正式執行新會計準則，準備金計提壓力減小。總體來看，人身險行業馬太效應進一步加劇，未來險企經營應該注重價值轉型，更加關注業務質量、盈利能力和資本效率，而不是單純追求規模增長。（上海證券報）
-
----
-
-### 2026-08-05 07:35:42  #公司
-
-【AMD預計2027年資料中心營收將“增長逾一倍”】當地時間8月4日，AMD執行長蘇姿豐在財報電話會上表示，公司預計2027年資料中心業務收入將“增長逾一倍”。她稱，雖然無法透露具體數字，但該業務增幅最終可能“遠高於100%”。蘇姿豐表示，從長期來看，AMD有望超過此前設定的年收入增長35%、每股收益達到20美元的目標。
-
----
-
-### 2026-08-05 07:35:11  #Trading Economics #Economy #Japan #Wage Growth #Importance 1
-
-Japan Nominal Wage Growth Tops 3% for 5th Month — Average cash earnings in Japan increased by 3.4% year-on-year in June 2026, accelerating slightly from an upwardly revised 3.3% rise in May and matching market forecasts. It also marked the 54th consecutive month of nominal wage growth, with annual wage gains remaining above 3% for a fifth straight month.
-
----
-
-### 2026-08-05 07:34:53  #公司
-
-【多家北交所公司推進“小額快速”簡易程式定增】海能技術8月3日晚公告稱，簡易程式定增已完成，募資總額8900萬元。據證券時報記者統計，目前有10多家北交所公司正在推進“小額快速”的簡易程式定增，包括：禾昌聚合、三元基因、邦德股份、雅葆軒、基康技術、龍竹科技、天銘科技、華密新材等。
-
----
-
-### 2026-08-05 07:34:14  #其他
-
-【奧地利氣溫創新高 多地現火情 】奧地利4日最高氣溫創下該國有氣象觀測記錄以來的新高，持續高溫乾旱天氣引發多地野火火情。奧地利官方氣象機構奧地利地球科學研究所實時監測資料顯示，首都維也納施塔默斯多夫監測站4日測得最高氣溫41攝氏度，重新整理該國最高氣溫紀錄。當天，奧地利境內多地發生山林、草場火情。數十個監測站氣溫突破40攝氏度，維也納盆地、下奧地利州、布林根蘭州同步釋出最高階別紅色高溫預警。
-
----
-
-### 2026-08-05 07:33:16  #其他
-
-據巴西媒體報道，巴西政府決定降級與阿根廷的外交關係。
-
----
-
-### 2026-08-05 07:33:12  #市場 #央行 #國際
-
-【日本名義工資再度上漲，為日本央行加息提供支撐】受企業盈利向好、勞動力市場吃緊推動，日本工資增速保持強勁，為日本央行未來數月再度加息增添依據。日本厚生勞動省週三公佈資料，6 月名義工資同比上漲 3.4%，5 月資料經修正後為增長 3.3%。該數值與彭博經濟學家調查的預期中值一致，工資漲幅連續五個月超過 3%，創下 34 年來最長連續上漲週期。基本工資同樣上漲 3.4%；剔除獎金、加班費以及抽樣偏差的更穩定指標顯示，全職勞動者工資上漲 2.9%。實際工資增長 1.7%，實現連續六個月上漲，為 2021 年以來最長連增記錄。
-
----
-
-### 2026-08-05 07:32:35  #國際
-
-【40億次刷屏！“Chinamaxxing”全球出圈】一個熱詞正在國外媒體和社交平臺迅速傳播：Chinamaxxing。這個詞在2026年初開始在全球範圍內迅速傳播，短短幾個月，相關標籤累計瀏覽量已突破40億次。怎麼翻譯？“Maxxing”本是歐美年輕人的網路字尾，從Looksmaxxing（顏值進階）到Sleepmaxxing（睡眠拉滿），什麼都能“最大化”。而Chinamaxxing，翻譯過來就是“中國化生活方式的極致體驗”——喝熱水、練八段錦、泡腳養生、追中國劇，來中國旅行，深度融入當地日常生活。 熱詞刷屏的背後，是一場正在成形的集體行動。今年夏天，“China Cool”（清涼中國遊）和“Chinamaxxing”成為海外社交平臺高頻詞，背後是一組持續攀升的入境資料和不斷拓寬的旅行半徑。  （央視）
-
----
-
-### 2026-08-05 07:31:42  #公司
-
-【AI應用向實向深 商業化價值閉環正在形成】8月4日，A股AI應用再度爆發，傳智教育、優刻得、凱文教育等領漲，這意味著市場對AI應用商業化的預期持續升溫。產業層面上，近期國內外AI應用類公司披露的訊息顯示，AI應用已經下沉到AIGC、政企軟體、AI教育、智慧製造、智慧醫療等應用場景，正在從技術驗證邁入收入兌現階段。多位業內人士認為，AI應用已經開始從程式設計智慧體走向辦公智慧體，或先在個人應用領域爆發，進而延伸至企業組織，但最終能否形成商業閉環，取決於基於AI的新商業模式能否誕生。
-
----
-
-### 2026-08-05 07:31:21  #經濟數據 #日本
-
-日本6月加班工資同比增長2.8%，前值2.9%。
-
----
-
-### 2026-08-05 07:31:10  #其他
-
-X：收到指令，要求在土耳其限制對目前已被拘留的伊斯坦布林市長的官方總統候選人辦公室賬戶的訪問許可權。
-
----
-
-### 2026-08-05 07:30:48  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Extends Fall on Hormuz Deal Hopes — Brent fell below $79 per barrel on Wednesday, extending losses for a third consecutive session and bringing its weekly decline to more than 10% as optimism grew over a potential agreement to reopen the Strait of Hormuz. On Tuesday, Qatar said an interim proposal had been prepared and both Washington and Tehran indicated that negotiations to restore access to the vital waterway were making progress. President Donald Trump had earlier called off planned military action against Iran to give diplomacy a chance, while reiterating his demand for the swift reopening of Hormuz. Meanwhile, Iran is reportedly weighing a proposal to allow European countries to clear mines from the strait and said discussions with Oman on securing safe shipping routes were advancing. Saudi Arabia also continued talks with Yemen’s Houthi militants through Omani mediators in an effort to keep the conflict in the Red Sea from escalating further.
 
 ---

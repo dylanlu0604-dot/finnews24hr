@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:51:45_
-_本檔包含 3319 則快訊，約 602228 字_
+_更新時間：2026-08-09 19:39:39_
+_本檔包含 3306 則快訊，約 602293 字_
+
+---
+
+### 2026-08-05 07:39:31  #宏觀 #公司
+
+【澳大利亞監管機構啟動地區行動網路覆蓋調查】澳大利亞競爭與消費者委員會表示，已啟動一項調查，研判鄉村地區行動網路覆蓋情況，以及對部分移動服務的批發接入實施監管是否能夠改善消費者權益。本次調查週期約 12 個月。調查將評估澳大利亞競爭與消費者委員會是否應當對一項或多項移動批發服務作出強制公告，包括國內漫遊以及無線接入網路服務。如果調查結束後該委員會公告某項服務，則移動運營商可能需要按照委員會劃定的條件，允許其他運營商使用自身基礎設施或網路接入相關服務。澳大利亞競爭與消費者委員會專員安娜・佈雷基在宣告中稱：“本次調查將透過公開、循證、多方徵詢的流程研判當前市場現狀與新技術，以此決定是否有必要出臺監管措施。”
+
+---
+
+### 2026-08-05 07:39:08  #公司
+
+【年內險資僅舉牌6次 硬科技標的仍受青睞】今年以來，險資舉牌節奏有所放緩。據記者統計，截至8月4日，年內共有3家保險公司合計舉牌6次，舉牌標的包括交通基建、銀行、保險和科技型企業等。相較於去年同期的21次舉牌，今年的險資舉牌次數有較大幅度減少。
+
+---
+
+### 2026-08-05 07:38:45  #國際
+
+【美加州警方在特朗普將出席活動球場逮捕一持武器男子】當地時間8月4日，美國加利福尼亞州洛杉磯縣警局發表宣告稱，一名攜帶大量武器的男子2日出現在總統特朗普名下位於洛杉磯縣的一處高爾夫球場，因可疑行為於2日當天被捕。警方隨後對嫌疑人住所展開搜查，查獲一支非法改裝的AR式步槍、防彈衣、大容量彈匣、彈藥，以及多本寫有“令人擔憂言論”的筆記本。特朗普定於4日晚些時候在這處高爾夫球場出席募款活動。（央視）
+
+---
+
+### 2026-08-05 07:38:20  #公司
+
+【多地用電負荷迭創新高 電力上市公司直面機遇與轉型考驗】近日，持續性高溫疊加工業經濟穩步復甦、新型用電業態擴容，全國電力需求持續攀升，多地電網用電負荷接連重新整理歷史紀錄。8月3日，山東、天津等地電網負荷再度創下新高，電力保供壓力持續增大。面對迎峰度夏形勢，電力產業鏈上市公司全面發力保供、穩生產。從密集披露的電力上市公司半年報或半年報業績預告來看，行業結構性分化格局顯現，水電、電力裝置、儲能賽道迎來業績紅利，傳統火電承壓轉型，新型電力系統建設持續提速。（中證報）
+
+---
+
+### 2026-08-05 07:38:02  #MKT News #Market Themes #AI Revolution
+
+【Musk says Grok 4.6 due next week; entire SpaceX dataset to be used for training】On Aug. 4, SpaceX CEO Elon Musk told the company’s first earnings call that SpaceX has made significant AI progress and expects to release Grok 4.6 next week, with Grok 4.7 to follow in the coming weeks. He noted SpaceXAI rolled out Grok 4.5 last month, aimed at code generation and able to handle finance and legal tasks. Musk said SpaceX will integrate its entire dataset—basically all data SpaceX has ever generated—into Grok’s training.
+
+---
+
+### 2026-08-05 07:37:16  #公司 #市場 #國際
+
+【SpaceX可能成為電信運營商的競爭對手】SpaceX正將目光瞄準美國大型電信服務商。在該公司的首次財報電話會議上，總裁格溫.肖特韋爾(Gwynne Shotwell)提到了美國電話電報公司(AT&T)、Verizon Communications和T-Mobile US的營收規模，並表示星鏈將把目標對準這些公司的使用者。“我預計我們能爭取到他們相當一部分客戶，因為我認為我們的服務會更好，”肖特韋爾說。電信和衛星行業的高管及分析師已在討論SpaceX可能對現有移動服務提供商構成的威脅。肖特韋爾表示，SpaceX可以透過直接在星鏈寬頻天線上部署蜂窩基站來擴充套件移動服務。這樣一來，該網路就可以利用地面裝置和星鏈衛星的連線。“你可以根據需要進行部署，”她說。美國電話電報公司、Verizon和T-Mobile的股價在盤後交易中走低。
+
+---
+
+### 2026-08-05 07:36:49  #公司
+
+【馬斯克：Grok 4.6下週釋出，SpaceX全量資料將用於模型訓練】當地時間8月4日，SpaceX CEO馬斯克在公司首次財報電話會上表示，SpaceX在人工智慧領域取得了顯著進展，並預計於下週推出Grok 4.6模型，隨後在幾周內推出Grok 4.7。就在上個月，SpaceXAI剛釋出了主打程式碼能力、同時能處理財務和法律任務的Grok4.5模型。馬斯克提到，SpaceX將為Grok的訓練提供資料支援：“我們將把SpaceX的整個資料集——基本上是SpaceX有史以來產生的全部資料——整合到Grok的訓練中。”
+
+---
+
+### 2026-08-05 07:35:48  #公司 #市場
+
+【近九成實現盈利 非上市人身險公司上半年合計淨利潤倍增】據統計，2026年上半年，58家非上市人身險公司合計實現保險業務收入近8000億元，同比增長約10%；淨利潤逾610億元，同比增長超過100%。從保險業務收入情況來看，逾六成非上市人身險公司實現正增長，主要受居民存款搬家和業務結構轉型影響，險企大力發展分紅險產品，有效滿足了消費者對投資型保險產品的需求。資料顯示，上半年，人身險公司分紅險原保險保費收入約1.01萬億元，同比增長94.4%。保險業務收入增長的同時，非上市人身險公司淨利潤表現更為亮眼。上半年，近九成非上市人身險公司實現盈利，其中10餘家險企同比實現扭虧為盈。在業內人士看來，非上市人身險公司上半年業績表現較好：一方面是受益於同期A股市場走強；另一方面是部分險企正式執行新會計準則，準備金計提壓力減小。總體來看，人身險行業馬太效應進一步加劇，未來險企經營應該注重價值轉型，更加關注業務質量、盈利能力和資本效率，而不是單純追求規模增長。（上海證券報）
+
+---
+
+### 2026-08-05 07:35:42  #公司
+
+【AMD預計2027年資料中心營收將“增長逾一倍”】當地時間8月4日，AMD執行長蘇姿豐在財報電話會上表示，公司預計2027年資料中心業務收入將“增長逾一倍”。她稱，雖然無法透露具體數字，但該業務增幅最終可能“遠高於100%”。蘇姿豐表示，從長期來看，AMD有望超過此前設定的年收入增長35%、每股收益達到20美元的目標。
+
+---
+
+### 2026-08-05 07:35:11  #Trading Economics #Economy #Japan #Wage Growth #Importance 1
+
+Japan Nominal Wage Growth Tops 3% for 5th Month — Average cash earnings in Japan increased by 3.4% year-on-year in June 2026, accelerating slightly from an upwardly revised 3.3% rise in May and matching market forecasts. It also marked the 54th consecutive month of nominal wage growth, with annual wage gains remaining above 3% for a fifth straight month.
+
+---
+
+### 2026-08-05 07:34:53  #公司
+
+【多家北交所公司推進“小額快速”簡易程式定增】海能技術8月3日晚公告稱，簡易程式定增已完成，募資總額8900萬元。據證券時報記者統計，目前有10多家北交所公司正在推進“小額快速”的簡易程式定增，包括：禾昌聚合、三元基因、邦德股份、雅葆軒、基康技術、龍竹科技、天銘科技、華密新材等。
+
+---
+
+### 2026-08-05 07:34:14  #其他
+
+【奧地利氣溫創新高 多地現火情 】奧地利4日最高氣溫創下該國有氣象觀測記錄以來的新高，持續高溫乾旱天氣引發多地野火火情。奧地利官方氣象機構奧地利地球科學研究所實時監測資料顯示，首都維也納施塔默斯多夫監測站4日測得最高氣溫41攝氏度，重新整理該國最高氣溫紀錄。當天，奧地利境內多地發生山林、草場火情。數十個監測站氣溫突破40攝氏度，維也納盆地、下奧地利州、布林根蘭州同步釋出最高階別紅色高溫預警。
+
+---
+
+### 2026-08-05 07:33:16  #其他
+
+據巴西媒體報道，巴西政府決定降級與阿根廷的外交關係。
+
+---
+
+### 2026-08-05 07:33:12  #市場 #央行 #國際
+
+【日本名義工資再度上漲，為日本央行加息提供支撐】受企業盈利向好、勞動力市場吃緊推動，日本工資增速保持強勁，為日本央行未來數月再度加息增添依據。日本厚生勞動省週三公佈資料，6 月名義工資同比上漲 3.4%，5 月資料經修正後為增長 3.3%。該數值與彭博經濟學家調查的預期中值一致，工資漲幅連續五個月超過 3%，創下 34 年來最長連續上漲週期。基本工資同樣上漲 3.4%；剔除獎金、加班費以及抽樣偏差的更穩定指標顯示，全職勞動者工資上漲 2.9%。實際工資增長 1.7%，實現連續六個月上漲，為 2021 年以來最長連增記錄。
+
+---
+
+### 2026-08-05 07:32:35  #國際
+
+【40億次刷屏！“Chinamaxxing”全球出圈】一個熱詞正在國外媒體和社交平臺迅速傳播：Chinamaxxing。這個詞在2026年初開始在全球範圍內迅速傳播，短短幾個月，相關標籤累計瀏覽量已突破40億次。怎麼翻譯？“Maxxing”本是歐美年輕人的網路字尾，從Looksmaxxing（顏值進階）到Sleepmaxxing（睡眠拉滿），什麼都能“最大化”。而Chinamaxxing，翻譯過來就是“中國化生活方式的極致體驗”——喝熱水、練八段錦、泡腳養生、追中國劇，來中國旅行，深度融入當地日常生活。 熱詞刷屏的背後，是一場正在成形的集體行動。今年夏天，“China Cool”（清涼中國遊）和“Chinamaxxing”成為海外社交平臺高頻詞，背後是一組持續攀升的入境資料和不斷拓寬的旅行半徑。  （央視）
+
+---
+
+### 2026-08-05 07:31:42  #公司
+
+【AI應用向實向深 商業化價值閉環正在形成】8月4日，A股AI應用再度爆發，傳智教育、優刻得、凱文教育等領漲，這意味著市場對AI應用商業化的預期持續升溫。產業層面上，近期國內外AI應用類公司披露的訊息顯示，AI應用已經下沉到AIGC、政企軟體、AI教育、智慧製造、智慧醫療等應用場景，正在從技術驗證邁入收入兌現階段。多位業內人士認為，AI應用已經開始從程式設計智慧體走向辦公智慧體，或先在個人應用領域爆發，進而延伸至企業組織，但最終能否形成商業閉環，取決於基於AI的新商業模式能否誕生。
+
+---
+
+### 2026-08-05 07:31:21  #經濟數據 #日本
+
+日本6月加班工資同比增長2.8%，前值2.9%。
+
+---
+
+### 2026-08-05 07:31:10  #其他
+
+X：收到指令，要求在土耳其限制對目前已被拘留的伊斯坦布林市長的官方總統候選人辦公室賬戶的訪問許可權。
+
+---
+
+### 2026-08-05 07:30:48  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Extends Fall on Hormuz Deal Hopes — Brent fell below $79 per barrel on Wednesday, extending losses for a third consecutive session and bringing its weekly decline to more than 10% as optimism grew over a potential agreement to reopen the Strait of Hormuz. On Tuesday, Qatar said an interim proposal had been prepared and both Washington and Tehran indicated that negotiations to restore access to the vital waterway were making progress. President Donald Trump had earlier called off planned military action against Iran to give diplomacy a chance, while reiterating his demand for the swift reopening of Hormuz. Meanwhile, Iran is reportedly weighing a proposal to allow European countries to clear mines from the strait and said discussions with Oman on securing safe shipping routes were advancing. Saudi Arabia also continued talks with Yemen’s Houthi militants through Omani mediators in an effort to keep the conflict in the Red Sea from escalating further.
 
 ---
 
@@ -19848,197 +19962,5 @@ Iran's supreme leader's military adviser Mohsen Rezaee said Iran possesses missi
 ### 2026-08-04 03:06:57  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
 
 【U.S. Treasury raises Q3 2026 borrowing estimate to $739bn】U.S. Treasury raised its net marketable borrowing estimate for Q3 2026 (July–Sept.) to $739bn, assuming a Sept. 30 cash balance of $950bn. The estimate is $68bn higher than the May projection, primarily due to lower expected net cash inflows. The Treasury expects Q4 (Oct–Dec) financing of $628bn, assuming a Dec. 31 cash balance of $850bn. Financing for Q2 (Apr–June) 2026 was $190bn, roughly in line with May’s $189bn estimate. More details on quarterly financing will be released Aug. 5 at 8:30 a.m. ET (20:30 Beijing time).
-
----
-
-### 2026-08-04 03:06:40  #國際
-
-伊朗法爾斯通訊社訊息：伊朗將領禮薩伊稱，沙特一名官員聯絡伊朗外交部官員，表示沙特並未參與針對伊拉克的襲擊。
-
----
-
-### 2026-08-04 03:06:19  #其他
-
-OpenAI：我們下一代主要模型的一個內部版本，在數學和理論電腦科學領域長期未解決的開放問題上取得了10項新成果，所使用的計算成本約為按照GPT-5.6 Sol API費率計算的2000美元token費用。我們將釋出這些手稿、正式的Lean證明證書以及推理過程說明，供數學家們審查這些結果，並在相關研究思路基礎上進一步發展。這些成果涵蓋球體堆積、編碼理論、群論、量子複雜性、格密碼學、極值組合學等領域。其中包括：證明非sofic群的存在性，以及對高維球體堆積界限取得指數級改進。
-
----
-
-### 2026-08-04 03:05:38  #國際
-
-美國農業部：6 月用於燃料乙醇生產的玉米用量為 4.667 億蒲式耳，高於去年同期的 4.469 億蒲式耳。
-
----
-
-### 2026-08-04 03:03:58  #宏觀 #國際
-
-美國財政部公佈可交易債務融資預估。
-
----
-
-### 2026-08-04 03:03:52  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7560元，較上週五夜盤收盤跌35點。成交量390.99億美元。
-
----
-
-### 2026-08-04 03:02:14  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
-
-Hang Seng Index futures night session closed 0.06% lower at 25,981, trading 28 points below the cash close.
-
----
-
-### 2026-08-04 03:00:02  #市場
-
-恒指期貨夜盤收跌0.08%，報25976.27點，低水33.13點。
-
----
-
-### 2026-08-04 02:56:43  #MKT News
-
-OpenAI said the results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography and extremal combinatorics, including a proof of the existence of non-sofic groups and an exponential improvement in bounds for high-dimensional sphere packing.
-
----
-
-### 2026-08-04 02:56:35  #公司
-
-紅杉資本牽頭為瓦拉爾公司完成10億美元融資。這家核能初創企業表示，這筆資金將助力企業從小型反應堆示範階段轉向規模化生產。
-
----
-
-### 2026-08-04 02:55:55  #MKT News #Market Themes #AI Revolution
-
-OpenAI said an internal build of its next-generation flagship model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, at an estimated $2,000 in token fees calculated using GPT-5.6 Sol API rates.
-
----
-
-### 2026-08-04 02:55:53  #國際
-
-以色列總理內塔尼亞胡：我不隱瞞我們與特朗普在與哈馬斯協議問題上存在分歧。
-
----
-
-### 2026-08-04 02:54:00  #國際
-
-伊朗最高領袖軍事顧問：我們原本準備打擊烏克蘭境內三處目標，在烏克蘭方面致歉後，我們取消了此次打擊行動。
-
----
-
-### 2026-08-04 02:53:29  #MKT News
-
-According to Iranian media, Mohsen Rezaei, military adviser to Iran's supreme leader, said Iran had prepared strikes on three targets in Ukraine but called them off after Ukraine issued an apology.
-
----
-
-### 2026-08-04 02:53:00  #MKT News
-
-【Gaza 'Peace Committee' says Israeli forces will withdraw beyond eastern 'yellow line' after Hamas disarmament】Gaza 'Peace Committee' said Israeli forces will fully withdraw to positions beyond Gaza's eastern 'yellow line' once Hamas completes the disarmament process. The statement, reiterated after a meeting between committee director Nikolay Mladenov and Israeli Prime Minister Netanyahu, said the committee's objective is complete removal of weapons in Gaza and a transition from armed control to civilian governance. Implementation of civilian governance would be supervised by an international stabilization force and a verification committee, of which the US and the Peace Committee are members.
-
----
-
-### 2026-08-04 02:52:47  #市場
-
-布倫特原油期貨結算價報每桶83.77美元，下跌4.16美元，跌幅4.73%。
-
----
-
-### 2026-08-04 02:51:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iranian media reported Mohsen Rezaee, military adviser to Iran's supreme leader, said under no circumstances will the Strait of Hormuz be opened to any route other than Iranian shipping lanes.
-
----
-
-### 2026-08-04 02:51:31  #國際
-
-伊朗最高領袖軍事顧問：我們絕不允許霍爾木茲海峽開闢除伊朗主張航道以外的任何通道。即便美國派遣軍艦以非法航線駛入霍爾木茲海峽，我們也將予以打擊。
-
----
-
-### 2026-08-04 02:49:08  #其他
-
-義大利7月份預算盈餘134億歐元。
-
----
-
-### 2026-08-04 02:49:08  #MKT News #Market Themes #The Trump Trade #XOM.N #Impact mixed #CVX.N #WTI #Impact bullish
-
-【Trump says Exxon Mobil, Chevron "made too much" from Iran war】U.S. President Trump said on Monday at the White House that Exxon Mobil (XOM.N) and Chevron (CVX.N) "made too much money" after crude prices rose on the Iran war. He said the firms profited from a supply shortage, that he "doesn't like" it, and urged them to return part of the gains to the public and cut retail prices. Both reported strong Q2 results last Friday: Chevron profit rose nearly 400% YoY to $12.0bn from $2.5bn a year earlier; Exxon Mobil profit more than doubled to $14.5bn from $7.1bn.
-
----
-
-### 2026-08-04 02:46:51  #國際
-
-伊朗最高領袖軍事顧問：憑藉伊朗強有力的導彈與無人機反擊，特朗普速勝的幻想在17天內化為泡影。我們向美國證明，伊朗同時掌握導彈打擊能力與防禦能力。
-
----
-
-### 2026-08-04 02:43:50  #MKT News
-
-【Zelenskiy signs decree dismissing multiple Ukrainian ambassadors】On Aug 3, Ukrainian President Zelenskiy signed a presidential decree, published on the presidential website, dismissing Ukraine's ambassador to the United States, Stefanishyna. The decree also removed Omelichenko as ambassador to France and concurrent permanent representative to UNESCO, and appointed Lialina‑Boiko as Ukraine's permanent representative to UNESCO. Additional dismissals include Ukraine's ambassadors to Tunisia (also accredited to Libya), Austria, Tajikistan, Kyrgyzstan and the ambassador to Singapore (also accredited to Brunei).
-
----
-
-### 2026-08-04 02:43:41  #國際
-
-【澤連斯基簽署總統令 解除多名烏克蘭駐外大使職務】當地時間8月3日，烏克蘭總統澤連斯基簽署總統令，解除了烏克蘭駐美國大使斯特凡尼希娜的職務，相關命令已在烏總統府官網上公佈。
-
----
-
-### 2026-08-04 02:41:27  #國際
-
-卡達外交部：首相已分別與阿聯酋、沙特、科威特、阿曼和巴林的外長通話。
-
----
-
-### 2026-08-04 02:40:46  #市場
-
-標普500指數自6月3日以來首次突破7600點，現漲1.5%，距離創下紀錄新高點僅差約20點。
-
----
-
-### 2026-08-04 02:40:23  #MKT News #Important #S&P500 #Impact bullish
-
-S&P 500 topped 7,600 for the first time since June 3, trading up 1.5% and roughly 20 points below its record high.
-
----
-
-### 2026-08-04 02:39:45  #國際
-
-特朗普：（被問及美國職業棒球大聯盟薪資上限問題）情況較為複雜，後續再就此展開討論。
-
----
-
-### 2026-08-04 02:38:15  #國際
-
-市場資訊：特朗普正考量撤換聯邦檢察官皮羅，導火索為倒影池案件。
-
----
-
-### 2026-08-04 02:37:43  #國際
-
-特朗普：對伊朗的襲擊本應在昨晚實施，且將持續很長時間，幾乎不會留下任何東西。
-
----
-
-### 2026-08-04 02:37:22  #MKT News
-
-Qatar's deputy prime minister and foreign minister held phone talks with counterparts in the UAE, Saudi Arabia, Kuwait, Oman and Bahrain to review cooperation and coordinate diplomatic measures to ease regional tensions and strengthen security, the Qatari foreign ministry said.
-
----
-
-### 2026-08-04 02:36:44  #國際
-
-美國歐洲司令部宣告：美國國防部長指示歐司令部監督烏克蘭安全援助小組重組工作，並調整各分支機構以及北約烏克蘭安全援助與培訓部隊的職能權責。
-
----
-
-### 2026-08-04 02:35:57  #國際
-
-特朗普：洩密暴露了原定襲擊的規模，並讓伊朗知曉將要發生的事。
-
----
-
-### 2026-08-04 02:35:12  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-【Trump says talks with Iran ongoing; to proceed in two phases】U.S. President Trump told reporters at the White House on Aug. 3 that talks with Iran are underway and will proceed in two phases: first reopening the Strait of Hormuz, then denuclearization. He said the strait could be reopened as soon as tomorrow and that the talks were at Iran’s request with support from Saudi Arabia, the UAE and Qatar. Trump said Washington had been prepared to launch a major strike until Iran and Gulf states called to seek talks, reiterated that Iran must not possess nuclear weapons, and said he would not allow Iran to charge vessels for passage through the Strait of Hormuz, calling it "Iran's last chance."
 
 ---

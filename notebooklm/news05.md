@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 18:51:45_
-_本檔包含 3051 則快訊，約 602102 字_
+_更新時間：2026-08-09 19:39:39_
+_本檔包含 3059 則快訊，約 601901 字_
+
+---
+
+### 2026-08-04 03:06:40  #國際
+
+伊朗法爾斯通訊社訊息：伊朗將領禮薩伊稱，沙特一名官員聯絡伊朗外交部官員，表示沙特並未參與針對伊拉克的襲擊。
+
+---
+
+### 2026-08-04 03:06:19  #其他
+
+OpenAI：我們下一代主要模型的一個內部版本，在數學和理論電腦科學領域長期未解決的開放問題上取得了10項新成果，所使用的計算成本約為按照GPT-5.6 Sol API費率計算的2000美元token費用。我們將釋出這些手稿、正式的Lean證明證書以及推理過程說明，供數學家們審查這些結果，並在相關研究思路基礎上進一步發展。這些成果涵蓋球體堆積、編碼理論、群論、量子複雜性、格密碼學、極值組合學等領域。其中包括：證明非sofic群的存在性，以及對高維球體堆積界限取得指數級改進。
+
+---
+
+### 2026-08-04 03:05:38  #國際
+
+美國農業部：6 月用於燃料乙醇生產的玉米用量為 4.667 億蒲式耳，高於去年同期的 4.469 億蒲式耳。
+
+---
+
+### 2026-08-04 03:03:58  #宏觀 #國際
+
+美國財政部公佈可交易債務融資預估。
+
+---
+
+### 2026-08-04 03:03:52  #市場
+
+在岸人民幣兌美元（CNY）北京時間03:00收報6.7560元，較上週五夜盤收盤跌35點。成交量390.99億美元。
+
+---
+
+### 2026-08-04 03:02:14  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures night session closed 0.06% lower at 25,981, trading 28 points below the cash close.
+
+---
+
+### 2026-08-04 03:00:02  #市場
+
+恒指期貨夜盤收跌0.08%，報25976.27點，低水33.13點。
+
+---
+
+### 2026-08-04 02:56:43  #MKT News
+
+OpenAI said the results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography and extremal combinatorics, including a proof of the existence of non-sofic groups and an exponential improvement in bounds for high-dimensional sphere packing.
+
+---
+
+### 2026-08-04 02:56:35  #公司
+
+紅杉資本牽頭為瓦拉爾公司完成10億美元融資。這家核能初創企業表示，這筆資金將助力企業從小型反應堆示範階段轉向規模化生產。
+
+---
+
+### 2026-08-04 02:55:55  #MKT News #Market Themes #AI Revolution
+
+OpenAI said an internal build of its next-generation flagship model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, at an estimated $2,000 in token fees calculated using GPT-5.6 Sol API rates.
+
+---
+
+### 2026-08-04 02:55:53  #國際
+
+以色列總理內塔尼亞胡：我不隱瞞我們與特朗普在與哈馬斯協議問題上存在分歧。
+
+---
+
+### 2026-08-04 02:54:00  #國際
+
+伊朗最高領袖軍事顧問：我們原本準備打擊烏克蘭境內三處目標，在烏克蘭方面致歉後，我們取消了此次打擊行動。
+
+---
+
+### 2026-08-04 02:53:29  #MKT News
+
+According to Iranian media, Mohsen Rezaei, military adviser to Iran's supreme leader, said Iran had prepared strikes on three targets in Ukraine but called them off after Ukraine issued an apology.
+
+---
+
+### 2026-08-04 02:53:00  #MKT News
+
+【Gaza 'Peace Committee' says Israeli forces will withdraw beyond eastern 'yellow line' after Hamas disarmament】Gaza 'Peace Committee' said Israeli forces will fully withdraw to positions beyond Gaza's eastern 'yellow line' once Hamas completes the disarmament process. The statement, reiterated after a meeting between committee director Nikolay Mladenov and Israeli Prime Minister Netanyahu, said the committee's objective is complete removal of weapons in Gaza and a transition from armed control to civilian governance. Implementation of civilian governance would be supervised by an international stabilization force and a verification committee, of which the US and the Peace Committee are members.
+
+---
+
+### 2026-08-04 02:52:47  #市場
+
+布倫特原油期貨結算價報每桶83.77美元，下跌4.16美元，跌幅4.73%。
+
+---
+
+### 2026-08-04 02:51:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian media reported Mohsen Rezaee, military adviser to Iran's supreme leader, said under no circumstances will the Strait of Hormuz be opened to any route other than Iranian shipping lanes.
+
+---
+
+### 2026-08-04 02:51:31  #國際
+
+伊朗最高領袖軍事顧問：我們絕不允許霍爾木茲海峽開闢除伊朗主張航道以外的任何通道。即便美國派遣軍艦以非法航線駛入霍爾木茲海峽，我們也將予以打擊。
+
+---
+
+### 2026-08-04 02:49:08  #其他
+
+義大利7月份預算盈餘134億歐元。
+
+---
+
+### 2026-08-04 02:49:08  #MKT News #Market Themes #The Trump Trade #XOM.N #Impact mixed #CVX.N #WTI #Impact bullish
+
+【Trump says Exxon Mobil, Chevron "made too much" from Iran war】U.S. President Trump said on Monday at the White House that Exxon Mobil (XOM.N) and Chevron (CVX.N) "made too much money" after crude prices rose on the Iran war. He said the firms profited from a supply shortage, that he "doesn't like" it, and urged them to return part of the gains to the public and cut retail prices. Both reported strong Q2 results last Friday: Chevron profit rose nearly 400% YoY to $12.0bn from $2.5bn a year earlier; Exxon Mobil profit more than doubled to $14.5bn from $7.1bn.
+
+---
+
+### 2026-08-04 02:46:51  #國際
+
+伊朗最高領袖軍事顧問：憑藉伊朗強有力的導彈與無人機反擊，特朗普速勝的幻想在17天內化為泡影。我們向美國證明，伊朗同時掌握導彈打擊能力與防禦能力。
+
+---
+
+### 2026-08-04 02:43:50  #MKT News
+
+【Zelenskiy signs decree dismissing multiple Ukrainian ambassadors】On Aug 3, Ukrainian President Zelenskiy signed a presidential decree, published on the presidential website, dismissing Ukraine's ambassador to the United States, Stefanishyna. The decree also removed Omelichenko as ambassador to France and concurrent permanent representative to UNESCO, and appointed Lialina‑Boiko as Ukraine's permanent representative to UNESCO. Additional dismissals include Ukraine's ambassadors to Tunisia (also accredited to Libya), Austria, Tajikistan, Kyrgyzstan and the ambassador to Singapore (also accredited to Brunei).
+
+---
+
+### 2026-08-04 02:43:41  #國際
+
+【澤連斯基簽署總統令 解除多名烏克蘭駐外大使職務】當地時間8月3日，烏克蘭總統澤連斯基簽署總統令，解除了烏克蘭駐美國大使斯特凡尼希娜的職務，相關命令已在烏總統府官網上公佈。
+
+---
+
+### 2026-08-04 02:41:27  #國際
+
+卡達外交部：首相已分別與阿聯酋、沙特、科威特、阿曼和巴林的外長通話。
+
+---
+
+### 2026-08-04 02:40:46  #市場
+
+標普500指數自6月3日以來首次突破7600點，現漲1.5%，距離創下紀錄新高點僅差約20點。
+
+---
+
+### 2026-08-04 02:40:23  #MKT News #Important #S&P500 #Impact bullish
+
+S&P 500 topped 7,600 for the first time since June 3, trading up 1.5% and roughly 20 points below its record high.
+
+---
+
+### 2026-08-04 02:39:45  #國際
+
+特朗普：（被問及美國職業棒球大聯盟薪資上限問題）情況較為複雜，後續再就此展開討論。
+
+---
+
+### 2026-08-04 02:38:15  #國際
+
+市場資訊：特朗普正考量撤換聯邦檢察官皮羅，導火索為倒影池案件。
+
+---
+
+### 2026-08-04 02:37:43  #國際
+
+特朗普：對伊朗的襲擊本應在昨晚實施，且將持續很長時間，幾乎不會留下任何東西。
+
+---
+
+### 2026-08-04 02:37:22  #MKT News
+
+Qatar's deputy prime minister and foreign minister held phone talks with counterparts in the UAE, Saudi Arabia, Kuwait, Oman and Bahrain to review cooperation and coordinate diplomatic measures to ease regional tensions and strengthen security, the Qatari foreign ministry said.
+
+---
+
+### 2026-08-04 02:36:44  #國際
+
+美國歐洲司令部宣告：美國國防部長指示歐司令部監督烏克蘭安全援助小組重組工作，並調整各分支機構以及北約烏克蘭安全援助與培訓部隊的職能權責。
+
+---
+
+### 2026-08-04 02:35:57  #國際
+
+特朗普：洩密暴露了原定襲擊的規模，並讓伊朗知曉將要發生的事。
+
+---
+
+### 2026-08-04 02:35:12  #MKT News #WTI #Impact bearish #XAUUSD #DXY
+
+【Trump says talks with Iran ongoing; to proceed in two phases】U.S. President Trump told reporters at the White House on Aug. 3 that talks with Iran are underway and will proceed in two phases: first reopening the Strait of Hormuz, then denuclearization. He said the strait could be reopened as soon as tomorrow and that the talks were at Iran’s request with support from Saudi Arabia, the UAE and Qatar. Trump said Washington had been prepared to launch a major strike until Iran and Gulf states called to seek talks, reiterated that Iran must not possess nuclear weapons, and said he would not allow Iran to charge vessels for passage through the Strait of Hormuz, calling it "Iran's last chance."
 
 ---
 
@@ -18244,149 +18436,5 @@ Al Jazeera reports Israeli strikes on Gaza on Sunday killed at least 11 people.
 ### 2026-08-02 19:40:03  #其他
 
 【海空聯動、一體應對：中國海警依法加強黃巖島海域管控 】8月1日，中國海警在黃巖島海域組織維權執法管控演練，重點演練臨檢拿捕、攔阻衝闖、強制拖離等執法行動，依法加強黃巖島海域管控。（新華社）
-
----
-
-### 2026-08-02 19:34:59  #公司
-
-【【歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日】2026年8月2日12時許，廣西欽州靈山縣十里工業園區園園豐食品有限公司一在建樓發生火災，接報後，靈山縣消防救援、公安、應急、衛生健康等部門立即趕赴現場處置。現場造成4人被困，已全部救出，其中2人經搶救無效死亡，2人受傷已送醫院救治，無生命危險。目前，明火已經撲滅，火災後續處置工作、事件原因調查及人員資訊核查等相關工作正開展中。（央視新聞）
-
----
-
-### 2026-08-02 19:28:46  #國際
-
-【歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日】宣告顯示，歐佩克+同意將9月份的石油產量配額提高18.8萬桶/日。沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼同意調整產量，並重申致力於維護市場穩定。下次會議將於9月6日舉行。
-
----
-
-### 2026-08-02 19:28:11  #MKT News #Commodities #Energy #WTI #Brent
-
-OPEC+ statement made no mention of policy beyond September 2026.
-
----
-
-### 2026-08-02 19:28:05  #MKT News #Commodities
-
-OPEC+ schedules its next meeting for Sept. 6.
-
----
-
-### 2026-08-02 19:27:47  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-OPEC+: Saudi Arabia, Russia, Iraq, Kuwait, Kazakhstan, Algeria and Oman agreed to adjust output and reiterated commitment to market stability.
-
----
-
-### 2026-08-02 19:25:40  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
-
-OPEC+ agreed to raise September oil production quotas by 188,000 barrels per day, the statement said.
-
----
-
-### 2026-08-02 19:21:22  #MKT News
-
-【Ukrainian e-commerce warehouse struck; no casualties】On Aug 2, a major Ukrainian e-commerce platform said its main distribution warehouse in Brovary, Kyiv region, was struck by Russian drone attacks for the second time within 24 hours. The company reported no casualties and said operations and customer services were uninterrupted. It described the repeated strikes as targeted attacks on its logistics infrastructure; Russia had no immediate comment.
-
----
-
-### 2026-08-02 19:19:57  #國際
-
-【“若因凡蒂諾拒絕辭職，歐足聯打算罷免他，正尋找繼任者”】據英國《每日電訊報》當地時間8月1日報道，歐足聯（UEFA）正著手尋找接替因凡蒂諾擔任國際足聯（FIFA）主席的人選。此前有訊息稱，國際足聯主席因凡蒂諾曾提出一項計劃，擬向私人投資者出售世界盃部分商業權益。若他拒絕辭職，歐足聯打算透過不信任投票將其罷免。 對於“世界盃私有化計劃”，歐足聯、中北美及加勒比海足聯（CONCACAF）、亞足聯（AFC）以及南美足聯（CONMEBOL）均否決了這一構想，因凡蒂諾隨後放棄了該專案。 歐足聯認為，接替因凡蒂諾的人選應是一位能獲得各大洲國家支援的“團結型人物”。《每日電訊報》報道稱，歐足聯不考慮歐洲候選人，因為其認為歐洲候選人無法獲得足夠的選票。 目前，被提及的潛在競爭者包括中北美及加勒比海足聯主席維克多·蒙塔利亞尼（Victor Montagliani），以及曾在2016年選舉中以微弱劣勢敗給因凡蒂諾的亞足聯主席薩爾曼·本·易卜拉欣·阿勒哈利法（Sheikh Salman bin Ibrahim Al Khalifa）。 現年56歲的因凡蒂諾，於2016年當選國際足聯主席。這位義大利人接替了瑞士人布拉特，後者因國際足聯爆發多起腐敗醜聞而辭職。2019年和2023年，因凡蒂諾均在無競爭對手的情況下連任國際足聯主席。下一屆國際足聯主席選舉定於明年3月在摩洛哥拉巴特舉行。（觀察者網）
-
----
-
-### 2026-08-02 19:11:40  #MKT News
-
-【Armenian president appoints Pashinyan as prime minister】On Aug 2, Armenian President Vahagn Khachaturyan signed a decree reappointing Nikol Pashinyan as prime minister after accepting the collective resignation of Pashinyan’s government. Pashinyan had said on July 30 the cabinet would resign on Aug 2 following the formation of a new parliament. Under the Armenian constitution the president appoints the prime minister nominated by the parliamentary majority.
-
----
-
-### 2026-08-02 19:11:02  #其他
-
-【亞美尼亞總統任命帕什尼揚為該國總理】當地時間8月2日，亞美尼亞總統哈恰圖良簽署法令，再次任命帕什尼揚為該國總理。當天早些時候，亞美尼亞總統哈恰圖良接受了帕什尼揚政府辭職。7月30日，亞美尼亞總理帕什尼揚在政府會議上表示，由於新一屆議會已經組建完成，本屆政府將於8月2日集體辭職。根據亞美尼亞憲法，政府辭職後該國總統將任命由議會多數派提名的總理候選人擔任總理。（央視新聞）
-
----
-
-### 2026-08-02 19:10:48  #國際
-
-卡達內政部長與伊朗內政部長通話，就局勢進展展開磋商。
-
----
-
-### 2026-08-02 19:09:24  #國際
-
-【俄稱烏德穆爾特共和國遭烏無人機襲擊 已致3死2傷】當地時間8月2日，俄羅斯烏德穆爾特共和國代理行政長官阿布拉莫娃通報稱，當天，烏克蘭無人機對該國發動襲擊，導致當地3人死亡，另有2人受傷。烏方對此暫無回應。（央視新聞）
-
----
-
-### 2026-08-02 19:03:45  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Lebanese military says five soldiers were wounded in an Israeli airstrike on Kafr Kila in the southern Bent Jbeil area.
-
----
-
-### 2026-08-02 19:03:36  #MKT News #Star Stocks #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran says strike on Amazon data center in Bahrain was response to U.S. action】On Aug. 2 an IRGC spokesman said in a briefing on Operation Victory-2 that an Amazon data-processing center in Bahrain was designated as a strike target because it provided intelligence support, cloud computing and services linked to U.S. military command. He did not specify when the strike took place and said the action was one of Iran’s responses to U.S. attacks.
-
----
-
-### 2026-08-02 19:03:19  #公司 #國際
-
-【烏克蘭一電商倉庫遭襲 未造成人員傷亡】當地時間8月2日，烏克蘭一知名電商平臺稱，其位於基輔州布羅瓦雷的核心大型倉庫在24小時內第二次遭遇俄軍無人機襲擊。本次襲擊未造成人員傷亡，平臺各項業務正常運轉、服務未中斷。該公司稱，短時間內的兩次打擊屬於針對其電商物流基礎設施的針對性襲擊。（央視新聞）
-
----
-
-### 2026-08-02 19:02:36  #公司
-
-【山東青島黃島區一公司倉庫起火，官方通報】據“黃島釋出”，8月2日17時許，黃島區七星河路363號青島象嶼速傳供應鏈有限公司倉庫起火，目前市、區消防、公安、應急等部門正在現場組織開展滅火工作，無人員被困和傷亡，起火原因正在調查中。
-
----
-
-### 2026-08-02 19:01:37  #公司 #國際
-
-【伊朗稱打擊巴林亞馬遜資料中心是對美國行動回應】當地時間8月2日，伊朗伊斯蘭革命衛隊發言人介紹“勝利-2”行動時表示，位於巴林的美國亞馬遜公司資料處理中心因承擔情報支援、雲端計算以及與美軍指揮體系相關的服務，被列為打擊目標。該發言人沒有明確說明發動打擊的時間，但表示此次行動是伊朗對美國襲擊行動作出的回應之一。（央視新聞）
-
----
-
-### 2026-08-02 19:01:11  #其他
-
-【多瑙河水位下降匈牙利被迫關核電站】匈牙利總理毛焦爾·彼得當地時間8月1日深夜在社交媒體發文表示，由於多瑙河水位進一步下降，匈牙利保克什核電站將在其44年歷史上首次完全關閉。毛焦爾稱，8月2日，保克什核電站將完全關閉。保克什核電站是匈牙利唯一的核電站，總裝機容量約2000兆瓦，發電量約佔匈牙利總發電量的一半。由於多瑙河水位降至歷史新低，核電站冷卻水供應難以保障。7月30日，毛焦爾曾發文稱，匈牙利將面臨歷史上前所未有的能源供應危機。 多瑙河流經德國、奧地利、斯洛伐克、匈牙利等十多個國家。受5月以來多輪熱浪、降雨減少等因素影響，多瑙河部分河段水位降至歷史低位，對農業灌溉、航運、旅遊業、漁業都造成較大影響。（CCTV國際時訊）
-
----
-
-### 2026-08-02 19:00:12  #MKT News #Market Themes #China EV Leaders
-
-【GAC Group adds 10 charging stations in July】China's GAC Group said it added 10 charging stations in July, bringing its cumulative number of chargers to 27,221.
-
----
-
-### 2026-08-02 19:00:05  #國際
-
-美國地質調查局：2026 年08月02日，湯加奧霍努阿以南 265 公里處發生 5.3 級地震。
-
----
-
-### 2026-08-02 18:59:20  #公司
-
-【廣汽集團：7月新增10座充電站】廣汽集團宣佈，7月新增10座充電站，廣汽充電樁累計達27221支。
-
----
-
-### 2026-08-02 18:58:43  #市場 #觀點
-
-【中信建投：算力邏輯生變，從“漲價”到“放量”的再平衡】2026年上半年，海外雲廠商資本開支援續高增長並多次上修，AI伺服器出貨增速顯著領先整體伺服器市場，全球算力基礎設施仍處於集中建設期。與此同時，HBM對先進DRAM晶圓及封裝產能的擠佔推動儲存供需收緊，漲價進一步向覆銅板、電子布、被動元器件及其他高階零部件擴散，價格上漲和產品結構升級共同改善產業鏈盈利。但隨著儲存等漲價敏感資產經歷去槓桿和風險重定價，市場開始重新評估價格上漲斜率和高利潤率的持續性。我們認為，2026年下半年並非由漲價向放量的徹底切換，而是漲價仍在、斜率可能邊際放緩，市場定 配置上，海外優先關注先進封裝、測試與核心裝置，其次關注光通訊、交換網路、高速連線和資料中心基礎設施；AI晶片仍是資本開支的核心載體，儲存原廠重點觀察價格斜率、長協條件和產能兌現。國內重點把握全球AI供應鏈和國產半導體裝置兩條主線，關注光模組、高階PCB、高速銅連線以及刻蝕、沉積、測試和鍵合裝置；電源、液冷、半導體材料及裝置零部件可作為後續擴散方向。  價逐步提高對訂單、產能和交付兌現的關注。
-
----
-
-### 2026-08-02 18:54:48  #觀點 #國際
-
-【中信建投：8月有望開啟修復行情 重點關注AI算力等行業】中信建投研報表示，7月以來A股科技板塊受全球聯動影響經歷深度調整，呈現二三線領跌到龍頭補跌的梯度路徑。本輪調整是槓桿資金賣出主導的資金面衝擊，源頭在韓國散戶槓桿ETF負反饋，市場暫時呈現業績與股價背離。但整體來看，無差別恐慌拋售階段大機率已經結束，修復性行情有望開啟。展望8月，四大訊號指向資金面壓力緩和：韓國去槓桿最劇烈階段過去、儲存率先企穩；A股交易擁擠緩解；重大事件視窗經過，不確定性下降；市場重新為好業績定價。定價邏輯正重新轉向基本面，有望開啟修復行情。重點關注行業：AI算力、半導體裝置、有色、新能源、機械等。
-
----
-
-### 2026-08-02 18:52:52  #MKT News
-
-【72 dead in Ceuta after mass migrant crossing, Spain says】On Aug 2 local time, Spain’s government representative in Ceuta, Perez Triano, said a recent mass illegal migrant crossing into the Spanish enclave has left 72 people dead. Authorities will accelerate processing of recently arrived migrants’ paperwork to try to repatriate them to Morocco as soon as possible. Ceuta’s situation is gradually returning to normal; Spanish military and security forces continue patrols and checks to ensure remaining irregular migrants are removed.
 
 ---
