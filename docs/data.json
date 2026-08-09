@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-09 09:46:56",
-  "count": 15937,
+  "updated": "2026-08-09 09:50:51",
+  "count": 15934,
   "items": [
+    {
+      "id": "te:economy:573903",
+      "time": "2026-08-09 09:48:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "China Producer Prices Rise Less than Expected — China’s producer prices rose 3.5% year-on-year in July 2026, slowing from a 4.1% increase in the previous month, which marked the steepest rise in nearly four years. The latest reading also marked the fifth straight month of decline, coming below market forecasts of 3.8%, amid weaker commodity prices, softer domestic demand, and continued pressure from overcapacity and intense price competition across some industries."
+    },
     {
       "id": "mkt:019fe432-1999-7aab-8fc7-c018a1930f23",
       "time": "2026-08-09 09:45:16",
@@ -145208,43 +145220,6 @@
         "AI Revolution"
       ],
       "text": "OpenAI president and co‑founder Brockman said ChatGPT is a powerful amplifier of thought."
-    },
-    {
-      "id": "5020634",
-      "time": "2026-08-02 09:50:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國天然氣暗盤日內跌超1%】美國天然氣暗盤日內跌超1%，現報2.76美元。"
-    },
-    {
-      "id": "5020633",
-      "time": "2026-08-02 09:49:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "美國天然氣暗盤日內跌超1%，現報2.7564美元。"
-    },
-    {
-      "id": "mkt:019fc029-620b-7aab-8f44-922f447be932",
-      "time": "2026-08-02 09:49:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Rubio: Rebuilding Venezuela requires multi-step roadmap beyond ousting Maduro】US Secretary of State Rubio told Fox News rebuilding Venezuela is not limited to ousting President Maduro and requires a multi-step roadmap: first stabilise the country to prevent further unrest and large-scale migration; next pursue economic recovery and measures to attract investment; and finally hold legitimate democratic elections. He said durable peace after more than 25 years of political division will require national reconciliation."
-    },
-    {
-      "id": "mkt:019fc028-4cd9-7aab-8f44-89350e9e14a5",
-      "time": "2026-08-02 09:48:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Rubio: Iran has never faced a U.S. president like Trump; era of consequence-free negotiations over】U.S. Secretary of State Rubio said in a Fox News interview this weekend that under President Trump Iran is facing a fundamentally different U.S. president and can no longer expect to negotiate without consequences. Rubio said Iran \"has never faced a U.S. president like President Trump — a man who actually takes action,\" and accused Tehran of relying for decades on global leniency to lie, renege on agreements and deceive negotiators. The White House said that after alleged Iranian attacks on commercial shipping and U.S. forces following a memorandum of understanding, Iran \"will continue to pay\" until it returns to talks in a way President Trump deems \"meaningful.\""
     }
   ]
 }

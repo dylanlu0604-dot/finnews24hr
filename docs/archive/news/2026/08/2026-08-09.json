@@ -1,7 +1,19 @@
 {
   "date": "2026-08-09",
-  "count": 251,
+  "count": 252,
   "items": [
+    {
+      "id": "te:economy:573903",
+      "time": "2026-08-09 09:48:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Producer Prices Change",
+        "Importance 2"
+      ],
+      "text": "China Producer Prices Rise Less than Expected — China’s producer prices rose 3.5% year-on-year in July 2026, slowing from a 4.1% increase in the previous month, which marked the steepest rise in nearly four years. The latest reading also marked the fifth straight month of decline, coming below market forecasts of 3.8%, amid weaker commodity prices, softer domestic demand, and continued pressure from overcapacity and intense price competition across some industries."
+    },
     {
       "id": "mkt:019fe432-1999-7aab-8fc7-c018a1930f23",
       "time": "2026-08-09 09:45:16",
