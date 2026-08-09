@@ -1,7 +1,35 @@
 {
   "date": "2026-08-09",
-  "count": 586,
+  "count": 589,
   "items": [
+    {
+      "id": "5032510",
+      "time": "2026-08-09 18:54:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破83美元，日內漲超1.2%。"
+    },
+    {
+      "id": "5032509",
+      "time": "2026-08-09 18:54:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖與總統會談】據伊朗塔斯尼姆通訊社今天（8月9日）報道，伊朗總統佩澤希齊揚與伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊舉行會談。雙方就伊朗當前經濟和軍事等問題交換意見，重點討論保障民眾基本生活需求、當前衝突局勢及未來形勢、軍事領域最新進展，以及本幣、外匯和能源資源的籌措與使用管理等問題。雙方還就伊朗與外國開展經濟合作等議題進行了討論。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fe626-2649-7aab-8fc9-778bdc1523db",
+      "time": "2026-08-09 18:51:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Typhoon Baihaitun makes second landfall in Yueqing, Zhejiang, China】The 13th typhoon of the year, Baihaitun, made a second landfall in Yueqing in China's Zhejiang province."
+    },
     {
       "id": "5032508",
       "time": "2026-08-09 18:50:53",

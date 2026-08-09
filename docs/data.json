@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-09 18:51:45",
-  "count": 15982,
+  "updated": "2026-08-09 18:55:42",
+  "count": 15983,
   "items": [
+    {
+      "id": "5032510",
+      "time": "2026-08-09 18:54:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破83美元，日內漲超1.2%。"
+    },
+    {
+      "id": "5032509",
+      "time": "2026-08-09 18:54:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖與總統會談】據伊朗塔斯尼姆通訊社今天（8月9日）報道，伊朗總統佩澤希齊揚與伊朗最高領袖、武裝力量最高統帥穆傑塔巴·哈梅內伊舉行會談。雙方就伊朗當前經濟和軍事等問題交換意見，重點討論保障民眾基本生活需求、當前衝突局勢及未來形勢、軍事領域最新進展，以及本幣、外匯和能源資源的籌措與使用管理等問題。雙方還就伊朗與外國開展經濟合作等議題進行了討論。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fe626-2649-7aab-8fc9-778bdc1523db",
+      "time": "2026-08-09 18:51:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Typhoon Baihaitun makes second landfall in Yueqing, Zhejiang, China】The 13th typhoon of the year, Baihaitun, made a second landfall in Yueqing in China's Zhejiang province."
+    },
     {
       "id": "5032508",
       "time": "2026-08-09 18:50:53",
@@ -145579,23 +145607,6 @@
         "觀點"
       ],
       "text": "【中信建投：算力邏輯生變，從“漲價”到“放量”的再平衡】2026年上半年，海外雲廠商資本開支援續高增長並多次上修，AI伺服器出貨增速顯著領先整體伺服器市場，全球算力基礎設施仍處於集中建設期。與此同時，HBM對先進DRAM晶圓及封裝產能的擠佔推動儲存供需收緊，漲價進一步向覆銅板、電子布、被動元器件及其他高階零部件擴散，價格上漲和產品結構升級共同改善產業鏈盈利。但隨著儲存等漲價敏感資產經歷去槓桿和風險重定價，市場開始重新評估價格上漲斜率和高利潤率的持續性。我們認為，2026年下半年並非由漲價向放量的徹底切換，而是漲價仍在、斜率可能邊際放緩，市場定 配置上，海外優先關注先進封裝、測試與核心裝置，其次關注光通訊、交換網路、高速連線和資料中心基礎設施；AI晶片仍是資本開支的核心載體，儲存原廠重點觀察價格斜率、長協條件和產能兌現。國內重點把握全球AI供應鏈和國產半導體裝置兩條主線，關注光模組、高階PCB、高速銅連線以及刻蝕、沉積、測試和鍵合裝置；電源、液冷、半導體材料及裝置零部件可作為後續擴散方向。  價逐步提高對訂單、產能和交付兌現的關注。"
-    },
-    {
-      "id": "5020868",
-      "time": "2026-08-02 18:54:48",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：8月有望開啟修復行情 重點關注AI算力等行業】中信建投研報表示，7月以來A股科技板塊受全球聯動影響經歷深度調整，呈現二三線領跌到龍頭補跌的梯度路徑。本輪調整是槓桿資金賣出主導的資金面衝擊，源頭在韓國散戶槓桿ETF負反饋，市場暫時呈現業績與股價背離。但整體來看，無差別恐慌拋售階段大機率已經結束，修復性行情有望開啟。展望8月，四大訊號指向資金面壓力緩和：韓國去槓桿最劇烈階段過去、儲存率先企穩；A股交易擁擠緩解；重大事件視窗經過，不確定性下降；市場重新為好業績定價。定價邏輯正重新轉向基本面，有望開啟修復行情。重點關注行業：AI算力、半導體裝置、有色、新能源、機械等。"
-    },
-    {
-      "id": "mkt:019fc21a-ee61-7aab-8f46-74adbda1eec1",
-      "time": "2026-08-02 18:52:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【72 dead in Ceuta after mass migrant crossing, Spain says】On Aug 2 local time, Spain’s government representative in Ceuta, Perez Triano, said a recent mass illegal migrant crossing into the Spanish enclave has left 72 people dead. Authorities will accelerate processing of recently arrived migrants’ paperwork to try to repatriate them to Morocco as soon as possible. Ceuta’s situation is gradually returning to normal; Spanish military and security forces continue patrols and checks to ensure remaining irregular migrants are removed."
     }
   ]
 }
