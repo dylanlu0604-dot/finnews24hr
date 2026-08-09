@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09 23:25:53",
-  "count": 15996,
+  "updated": "2026-08-09 23:30:07",
+  "count": 15991,
   "items": [
     {
       "id": "mkt:019fe71b-a283-7aab-8fca-84c859d7a061",
@@ -145632,50 +145632,6 @@
         "USDJPY"
       ],
       "text": "Japan cut its holdings of US Treasuries by $96 billion over the past three months, trimming holdings to $1.14 trillion — the lowest level since April 2025."
-    },
-    {
-      "id": "mkt:019fc317-34a6-7aab-8f47-992a6f6dba60",
-      "time": "2026-08-02 23:28:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pashinyan reappointed as Armenian prime minister】Armenian President Vahagn Khachaturyan on the 2nd signed a decree appointing Nikol Pashinyan as prime minister, securing his reappointment."
-    },
-    {
-      "id": "5020964",
-      "time": "2026-08-02 23:28:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【帕什尼揚連任亞美尼亞總理】亞美尼亞總統哈恰圖良2日簽署法令，任命帕什尼揚為亞美尼亞新一任總理，帕什尼揚因此獲得連任。（央視新聞）"
-    },
-    {
-      "id": "5020963",
-      "time": "2026-08-02 23:26:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉與多明尼加共和國達成協議，恢復外交關係。"
-    },
-    {
-      "id": "mkt:019fc315-9079-7aab-8f47-9239ed3ce185",
-      "time": "2026-08-02 23:26:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "CENTCOM said a US Marine Corps F-35C launched from USS Abraham Lincoln (CVN-72), which is operating in the Arabian Sea supporting US blockade operations against Iran. As of Aug. 2 it had rerouted 35 merchant vessels, rendered two inoperable and boarded and inspected two others."
-    },
-    {
-      "id": "5020962",
-      "time": "2026-08-02 23:26:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄國防部：打擊烏克蘭尼古拉耶夫港基礎設施以及兩艘裝載軍用物資的船隻。"
     }
   ]
 }
