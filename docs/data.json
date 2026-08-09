@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-09 15:14:40",
-  "count": 15974,
+  "updated": "2026-08-09 15:18:45",
+  "count": 15973,
   "items": [
+    {
+      "id": "mkt:019fe55f-6419-7aab-8fc8-6a62a0c98819",
+      "time": "2026-08-09 15:14:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【South Korea heat wave lifts power demand to year high】Korea Power Exchange (KPX) data show peak electricity demand reached 95.321 GW on the 7th of this month; reserve capacity was 8.2 GW, with an emergency alert triggered if reserves fall below 5.5 GW. The government expects demand to rise further next week as high temperatures persist and industrial output ramps up after summer holidays, YONHAP reported."
+    },
     {
       "id": "5032383",
       "time": "2026-08-09 15:10:17",
@@ -145484,22 +145494,6 @@
         "國際"
       ],
       "text": "【哈馬斯代表：不謀求加沙未來治理職位，但願發揮任何作用】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）代表哈立德·卡杜姆（Khaled al-Kaddoum）表示，哈馬斯並不謀求在加沙地帶未來的治理架構中擔任具體職務，但願意在未來的加沙發揮任何作用。卡杜姆指出，哈馬斯目前仍保持著其作為巴勒斯坦社會重要政治力量的地位，但在當前局勢下，該組織已準備好為巴勒斯坦全國性的倡議提供機會與支援。"
-    },
-    {
-      "id": "5020731",
-      "time": "2026-08-02 15:17:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國華盛頓州發生山火迫使數千人撤離】美國西北部華盛頓州斯波坎縣8月1日發生山火，迫使數千名居民撤離。華盛頓州州長鮑勃·弗格森當天宣佈全州進入山火緊急狀態。華盛頓州自然資源部說，斯波坎縣艾爾韋高地當天中午燃起山火，受強風、高溫和植被幹燥等因素影響，火勢迅速蔓延。截至當天晚間，山火過火面積達約2500英畝（約10平方公里）。當地官員說，部分建築物遭到焚燬，但具體損失情況仍在評估中。（新華社）"
-    },
-    {
-      "id": "5020730",
-      "time": "2026-08-02 15:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國愛達荷州快餐店槍擊事件已致3死7傷】美國愛達荷州南部城市特溫福爾斯一家漢堡快餐店8月1日發生槍擊事件，已造成3人死亡、7人受傷。犯罪嫌疑人已死亡。該市政府官員約書亞·帕默說，部分傷者情況危重。警方在事發快餐店附近發現犯罪嫌疑人的屍體，目前尚不清楚是否計入已公佈的死亡人數中。該市警察局局長馬修·希克斯在新聞釋出會上表示，仍在核實嫌疑人的身份並調查其作案動機。（央視新聞）"
     }
   ]
 }
