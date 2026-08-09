@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-10 02:19:14",
+  "updated": "2026-08-10 02:23:03",
   "count": 15962,
   "items": [
+    {
+      "id": "mkt:019fe7c2-70fb-7aab-8fcb-3e1330752078",
+      "time": "2026-08-10 02:21:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran says it can outwait US in Strait of Hormuz standoff】Iran believes it can outlast the US in negotiations to reopen the Strait of Hormuz, citing strong internal backing for talks and patience over unmet commitments on frozen assets and maritime restrictions. President Pezeshkian told negotiators 12 of 13 national security council members support negotiations, exceeding the threshold set by Supreme Leader Mujtaba Khamenei. Parliamentary speaker Ghalibaf has expressed frustration at what Tehran describes as US flip‑flopping — \"raising issues, then withdrawing them\" — delaying delivery on asset unfreezing and easing of sea blockades. Iran says it is less time‑pressured than Washington, pointing to US midterm election, oil price and inflation pressures, and called the standoff a \"cat‑and‑mouse game\" to see who blinks first. Tehran is using talks with Oman to signal goodwill while pressing Washington to make the first move."
+    },
     {
       "id": "mkt:019fe7ab-901f-7aab-8fcb-33a86b4ed8fe",
       "time": "2026-08-10 01:56:48",
@@ -145356,17 +145367,6 @@
         "國際"
       ],
       "text": "伊朗總統：簽署的諒解備忘錄是沙姆成員（黎凡特地區國家）集體智慧的成果，所有成員對此表示認同。我相信這份諒解備忘錄將成為我們未來對外關係的核心。我們必須努力迫使敵人遵守其簽署的承諾。這份諒解備忘錄將提升我們國家、地區以及盟友的安全。"
-    },
-    {
-      "id": "mkt:019fc3b5-8042-7aab-8f48-9c44fad33687",
-      "time": "2026-08-03 02:21:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Israel questions Hamas disarmament pledge】Israel told the White House it has serious security concerns about a Hamas disarmament agreement. The Israeli prime minister’s office said intelligence assessments indicate Hamas plans to rebuild military capabilities rather than genuinely demilitarize. Israel said it will not withdraw from most of Gaza until Hamas completes disarmament. Hamas said it will begin disarming under Trump’s 20-point ceasefire plan, which calls for surrendering weapons and destroying tunnels and envisages Israeli withdrawal, a new technocratic Palestinian government and international security forces. A large-scale Israeli troop pullback before October elections is unlikely."
     }
   ]
 }
