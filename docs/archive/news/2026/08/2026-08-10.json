@@ -1,7 +1,69 @@
 {
   "date": "2026-08-10",
-  "count": 72,
+  "count": 79,
   "items": [
+    {
+      "id": "5032671",
+      "time": "2026-08-10 04:00:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英偉達擬向星際之門專案背後電力企業Lancium最高投資30億美元】據三位知情交易人士透露，英偉達已同意向電力基礎設施開發商Lancium投資20億美元。該企業是得克薩斯州OpenAI與甲骨文AI園區的電力配套服務商；同時英偉達承諾，若該開發商拿到更多規劃電力資源，將再追加10億美元投資。這筆交易對Lancium及其土地、電力接入資產的企業價值估值約100億美元，估值包含本次投資及企業債務。這筆20億美元投資將讓英偉達取得這家黑石集團參股電力開發商約20%的股權。知情人士稱，一旦Lancium多個園區達到電網接入等既定條件，英偉達追加10億美元投資後，持股比例最高可升至約30%。當前AI資料中心電力供給日趨緊張，這筆交易意在幫助英偉達為晶片客戶的資料專案鎖定數吉瓦規模的待落地電力配額。"
+    },
+    {
+      "id": "mkt:019fe81b-8914-7aab-8fcb-abfd43ce874d",
+      "time": "2026-08-10 03:59:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Russian Defence Ministry says intercepted 285 Ukrainian drones, struck energy infrastructure in Ukraine】On the evening of the 9th the Russian Defence Ministry said Moscow time between 0800 and 2000 its air-defence forces intercepted and shot down 285 Ukrainian drones over multiple western regions, including Belgorod, Kursk, Bryansk and the Moscow region. The ministry said Russian forces also struck a thermal power plant and seven substations inside Ukraine and used drones to hit gas-field infrastructure in Sumy region."
+    },
+    {
+      "id": "5032670",
+      "time": "2026-08-10 03:58:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達將向黑石集團支援的電力企業蘭西姆（Lancium）最高投資30億美元，該企業為“星際之門”專案提供電力支援。英偉達首期出資20億美元獲得20%股份，若追加10億美元投資，持股比例或將升至約30%。"
+    },
+    {
+      "id": "5032669",
+      "time": "2026-08-10 03:58:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長表示，土耳其‑巴基斯坦‑沙烏地阿拉伯防務協議在機制上與北約第五條條款對等，協議將設立類似北約的部長委員會以及總秘書處。"
+    },
+    {
+      "id": "5032668",
+      "time": "2026-08-10 03:57:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞與俄羅斯達成諒解備忘錄，敲定塔爾圖斯、赫梅米姆兩處俄羅斯基地的未來安排。雙方將依據這份歷經18個月密集談判達成的備忘錄，著手調整俄羅斯在敘利亞沿海的軍事部署。"
+    },
+    {
+      "id": "5032667",
+      "time": "2026-08-10 03:57:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長表示，伊朗並非打擊目標；除非某國襲擊聯盟成員國，否則任何國家都不會成為目標。他補充稱，埃及在部分技術問題解決後或將加入該聯盟。"
+    },
+    {
+      "id": "5032666",
+      "time": "2026-08-10 03:57:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "土耳其外交部長稱，由於紅海航運安全關乎本國利益，土耳其必須加入沙烏地阿拉伯主導的國際聯盟。"
+    },
     {
       "id": "mkt:019fe818-f097-7aab-8fcb-a5ada8f26d7c",
       "time": "2026-08-10 03:56:16",
