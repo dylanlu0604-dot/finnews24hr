@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-09 15:55:30",
-  "count": 15974,
+  "updated": "2026-08-09 15:59:35",
+  "count": 15973,
   "items": [
+    {
+      "id": "mkt:019fe587-8f91-7aab-8fc8-a9b385f9d446",
+      "time": "2026-08-09 15:58:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Liyuan Information: 1H net profit 298 mln yuan, +209.5% YoY】Liyuan Information reported 1H 2026 results: revenue 6.432 bln yuan, +59.46% YoY; net profit attributable to shareholders 298 mln yuan, +209.5% YoY; basic EPS 0.2585 yuan. Revenue growth driven by market improvement and strong expansion in AI, industrial & new-energy, and automotive electronics businesses, and by onboarding of new customers."
+    },
+    {
+      "id": "mkt:019fe586-42ec-7aab-8fc8-a28d018b8568",
+      "time": "2026-08-09 15:56:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax, citing the Russian Defence Ministry, said Russia struck two oil refineries in Ukraine's Sumy region."
+    },
+    {
+      "id": "5032423",
+      "time": "2026-08-09 15:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯打擊了蘇梅州境內的兩座烏克蘭煉油廠。"
+    },
     {
       "id": "5032422",
       "time": "2026-08-09 15:54:11",
@@ -145459,38 +145486,6 @@
         "國際"
       ],
       "text": "市場訊息： 巴基斯坦申請最高 100 億美元的美國兜底融資工具。"
-    },
-    {
-      "id": "5020775",
-      "time": "2026-08-02 15:59:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【約5萬人湧入 西班牙飛地成歐洲移民危機焦點】近日，約5萬名非法移民從摩洛哥方向進入西班牙位於北非的飛地休達，令當地面臨近年來最嚴峻的邊境壓力。西班牙政府調派軍隊支援邊境管控，與摩洛哥加強協調，並呼籲歐盟共同應對。（央視新聞）"
-    },
-    {
-      "id": "5020774",
-      "time": "2026-08-02 15:57:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【欣天科技：籌劃控制權變更事項完成簽約 股票8月3日起復牌】欣天科技公告稱，2026年7月31日，深圳元啟與石偉平、劉輝、薛楓、汪長華簽署《股份轉讓協議》，受讓四人合計持有的公司4342.24萬股股份，佔總股本的22.4999%。同日，石偉平出具《不謀求上市公司控制權承諾函》。本次權益變動後，公司控股股東將變更為深圳元啟，實控人將變更為劉楊。公司股票自8月3日上午開市起復牌。本次協議轉讓尚需取得深交所合規確認及辦理過戶手續，存在不確定性。"
-    },
-    {
-      "id": "5020773",
-      "time": "2026-08-02 15:57:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【欣天科技：持股5%以上股東未減持並提前終止減持計劃】欣天科技公告稱，持股5%以上股東劉輝原計劃在2026年5月20日預披露公告之日起15個交易日後3個月內，以集中競價或大宗交易方式減持不超578.97萬股（佔總股本約3%）。因劉輝與深圳元啟無限科技合夥企業簽署《股份轉讓協議》，擬協議轉讓2439.38萬股（佔總股本12.64%），其於7月31日決定提前終止減持計劃，且減持期間未減持公司股份。"
-    },
-    {
-      "id": "5020772",
-      "time": "2026-08-02 15:55:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "西捷航空（WESTJET）：停工已經開始，公司無法執飛波音737與787的定期航班。"
     }
   ]
 }
