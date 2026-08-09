@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-09 23:13:34",
-  "count": 16000,
+  "updated": "2026-08-09 23:17:38",
+  "count": 15998,
   "items": [
+    {
+      "id": "5032615",
+      "time": "2026-08-09 23:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新加坡舉行國慶慶典】新加坡8月9日舉行國慶慶典，慶祝獨立61週年。（新華社）"
+    },
+    {
+      "id": "mkt:019fe715-ed15-7aab-8fca-7fe7c8ed9e26",
+      "time": "2026-08-09 23:13:21",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Market source: a senior Yemeni source said Saudi officers, their forces and mercenaries will not be spared from missile and drone strikes by the Yemeni military."
+    },
     {
       "id": "mkt:019fe714-d6f8-7aab-8fca-764abc6f339a",
       "time": "2026-08-09 23:12:10",
@@ -145667,42 +145687,6 @@
         "其他"
       ],
       "text": "【河南2026年“三支一扶”計劃發現有考試作弊行為】記者從河南省“三支一扶”領導小組協調辦公室獲悉，針對2026年“三支一扶”計劃招募輿情，經核查，發現有非法參與考試作弊行為。目前，已對河南省人事考試中心負責人停職調查。公安機關已成立專案組，對涉嫌違法犯罪行為進行全面偵查調查。下一步，對涉嫌違法犯罪的相關人員，河南將依法嚴厲懲處，偵查調查結果將及時公佈。（新華社）"
-    },
-    {
-      "id": "5020958",
-      "time": "2026-08-02 23:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國華盛頓州多處重大野火持續肆虐，已有數百棟建築被毀。"
-    },
-    {
-      "id": "5020957",
-      "time": "2026-08-02 23:14:48",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日本正快速減持美國國債】過去三個月，日本減持規模達960億美元，持倉降至1.14萬億美元，為2025年4月以來最低水平。"
-    },
-    {
-      "id": "mkt:019fc30a-208a-7aab-8f47-8b40cc6d3541",
-      "time": "2026-08-02 23:14:08",
-      "tags": [
-        "MKT News",
-        "AAL.O",
-        "Impact bearish"
-      ],
-      "text": "American Airlines cancels all flights from New York to Israel's Ben Gurion Airport through March 2027."
-    },
-    {
-      "id": "5020956",
-      "time": "2026-08-02 23:13:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙休達市長稱，桑切斯政府在從休達遣返非法移民的人數問題上撒謊。他表示，仍有10000至15000名非法移民露宿休達街頭，其中不少人在海灘搭建臨時營地。"
     }
   ]
 }
