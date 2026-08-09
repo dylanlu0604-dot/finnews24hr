@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-10 02:00:12",
-  "count": 15971,
+  "updated": "2026-08-10 02:04:01",
+  "count": 15968,
   "items": [
     {
       "id": "mkt:019fe7ab-901f-7aab-8fcb-33a86b4ed8fe",
@@ -145416,35 +145416,6 @@
         "國際"
       ],
       "text": "俄地方州長：烏克蘭無人機襲擊造成俄羅斯境內8人死亡，並襲擊野莓（Wildberries）倉儲中心。"
-    },
-    {
-      "id": "5021013",
-      "time": "2026-08-03 02:03:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列外交部長：我們正與美國一道持續對抗國際刑事法院。近期已有多個國家退出國際刑事法院，這一程序應當持續推進，並配合美國實施的制裁舉措。"
-    },
-    {
-      "id": "mkt:019fc3a5-513f-7aab-8f48-91ad871de330",
-      "time": "2026-08-03 02:03:39",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Hamas says Israel never sought an agreement】Hamas leader Ghazi Hamad said today’s Israeli bombardment of Gaza proves Israel never genuinely sought a deal. He said Hamas has told mediators Israel is not interested in reaching an agreement and has asked them to intervene. Hamas also said it has not received Israel’s position on a second phase of a Gaza agreement and that Israel must fulfil its commitments before that phase can begin."
-    },
-    {
-      "id": "mkt:019fc3a2-fec2-7aab-8f48-8ef84f21dcb8",
-      "time": "2026-08-03 02:01:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraq denies US aircraft landed at Ain al-Asad airbase】Iraq on Sunday denied reports that US aircraft landed at the Ain al-Asad airbase in western Anbar province, calling the reports false and saying there was no official information to support the claim. Iraqi media had earlier reported that US aircraft had landed at the base."
     }
   ]
 }
