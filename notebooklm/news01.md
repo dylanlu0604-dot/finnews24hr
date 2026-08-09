@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-10 04:48:23_
-_本檔包含 3153 則快訊，約 600948 字_
+_更新時間：2026-08-10 05:42:52_
+_本檔包含 3153 則快訊，約 601949 字_
+
+---
+
+### 2026-08-10 05:41:51  #國際
+
+美國中央司令部：截至8月9日，美國中央司令部已調改55艘商船航線，使2艘船隻失去行動能力，並登臨檢查2艘船隻，確保相關船隻遵守管控要求。
+
+---
+
+### 2026-08-10 05:39:30  #MKT News
+
+【Multiple shootings in Chicago leave three dead, 10 injured】Multiple shootings in Chicago over the weekend killed at least three people and wounded 10, US media reported. Police have not arrested any suspects in the incidents.
+
+---
+
+### 2026-08-10 05:39:14  #國際
+
+【美國芝加哥市發生多起槍擊事件致三死10傷】據多家美國媒體報道，美國芝加哥市本週末發生多起槍擊事件，造成至少三人死亡、10人受傷。報道說，芝加哥市9日凌晨至早間共報告8起槍擊事件，造成三人死亡、9人受傷，其中兩人傷情嚴重。此外，還有一名男子8日凌晨在該市遭槍擊，傷情嚴重。報道說，警方尚未逮捕到上述槍擊事件的任何嫌疑人。（新華社）
+
+---
+
+### 2026-08-10 05:38:43  #國際
+
+【以媒：內塔尼亞胡曾同意從加沙部分地區撤軍 現已反悔】據以色列第12頻道電視臺9日報道，以總理內塔尼亞胡曾同意以軍從加沙地帶南部拉法附近的三個區域小範圍撤軍，但於當天“改變了主意”。報道援引以安全部門官員的話稱，內塔尼亞胡和以軍總參謀長扎米爾上週出席相關磋商，討論從拉法地區撤軍問題，以色列和美國都批准了相關撤軍計劃。但以色列國防軍和安全機構9日從媒體得知“（內塔尼亞胡）改變了主意”。以色列多家媒體9日報道，內塔尼亞胡當天在內閣會議上說，以色列拒絕美國發起的所謂“和平委員會”提出的加沙和平計劃，並稱在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）真正解除武裝之前，以軍不會撤出加沙地帶。以色列第12頻道電視臺報道說，內塔尼亞胡上述立場的變化讓以色列安全機構十分“吃驚”。（新華社）
+
+---
+
+### 2026-08-10 05:38:42  #MKT News
+
+【Netanyahu reportedly reversed approved limited IDF pullback near Rafah】Israel’s Channel 12 reported on the 9th that Prime Minister Netanyahu had agreed to a limited IDF pullback from three areas near Rafah in southern Gaza but reversed the decision the same day. Citing security officials, the report said Netanyahu and IDF Chief of Staff Zamir discussed the plan last week and that both Israel and the US had approved it; Israeli defense and security agencies learned of the reversal from the media on the 9th. At a cabinet meeting Netanyahu rejected a US-initiated “peace commission” Gaza plan and said Israeli forces will not withdraw until Hamas is fully disarmed; Channel 12 said the change surprised Israeli security agencies.
+
+---
+
+### 2026-08-10 05:35:43  #MKT News #USDJPY #Impact bearish #EURUSD #Impact bullish #DXY
+
+FX market steady at Monday open: USD/JPY down 0.08%, EUR/USD up 0.03%, DXY down 0.04%.
+
+---
+
+### 2026-08-10 05:34:06  #MKT News
+
+【Kuwait, Pakistan discuss regional situation】Kuwait's foreign minister held a phone call with Pakistan's foreign minister to discuss the latest regional situation, measures to bolster regional security and stability, and steps to deepen bilateral ties.
+
+---
+
+### 2026-08-10 05:30:53  #其他
+
+英國首相安迪・伯納姆週日表示，將打擊虛假商品折扣以及訂閱消費陷阱。
+
+---
+
+### 2026-08-10 05:29:42  #MKT News
+
+President Trump said Will Schaff will replace David Wellington as Assistant to the President and White House counsel, effective Sept. 1.
+
+---
+
+### 2026-08-10 05:29:36  #國際
+
+特朗普：沃靈頓將轉赴私營部門任職。
+
+---
+
+### 2026-08-10 05:28:26  #國際
+
+特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。
+
+---
+
+### 2026-08-10 05:26:37  #MKT News #WTI #Impact bullish #Brent
+
+A vessel caught fire near Kumzar on Oman's Musandam Peninsula at the entrance to the Strait of Hormuz.
+
+---
+
+### 2026-08-10 05:25:41  #MKT News #Macro & Rates #DXY #Impact bearish
+
+【Analyst: RBA likely to hold at 4.35% with hawkish bias; watch persistent inflation】Economists and traders expect the Reserve Bank of Australia to keep the cash rate at 4.35% at Tuesday’s meeting — a second consecutive hold — while reiterating readiness to tighten further to combat persistent inflation. Markets will focus on the policy statement and updated quarterly forecasts for signals on whether the RBA has finished hiking after 75bp of moves this year or intends further tightening. Carl Ang, fixed income research at MFS Investment Management, says a hawkish pause is the base case but slow disinflation means additional tightening cannot be ruled out. Economists broadly expect an extended pause through the remainder of this year and most of next; Commonwealth Bank’s Belinda Allen expects the RBA to bring forward the forecast for inflation falling below 3% and to lift its unemployment projection.
+
+---
+
+### 2026-08-10 05:19:58  #其他
+
+市場資訊：一艘船隻在霍爾木茲海峽入口處、阿曼穆桑代姆半島昆扎爾附近海域起火。
+
+---
+
+### 2026-08-10 05:19:13  #國際
+
+特朗普：長達51年的劣行。
+
+---
+
+### 2026-08-10 05:11:01  #MKT News
+
+Lebanese sources say there are currently no plans for a new round of Lebanon-Israel talks next month; talks may resume after the summer.
+
+---
+
+### 2026-08-10 05:10:12  #公司
+
+【強腦科技韓璧丞出席香港特首顧問團會議，向特首李家超建言】2025年6月，香港特別行政區政府宣佈新一屆特首顧問團成員名單，腦機介面領域專家、強腦科技創始人兼CEO韓璧丞獲委任為"創新與創業"領域顧問。2026年7月28日至30日，行政長官李家超一連三日與特首顧問團舉行工作午餐，聽取顧問團成員就香港第一個五年規劃、2026年施政報告及香港整體發展的意見。
+
+---
+
+### 2026-08-10 05:03:46  #國際
+
+埃及在解決相關技術問題後，或將加入土耳其‑巴基斯坦‑沙烏地阿拉伯防務協議。埃及的加入將把該機制拓展為覆蓋海灣地區、紅海、蘇伊士運河以及東地中海的更為廣泛的地區安全框架。
+
+---
+
+### 2026-08-10 05:02:54  #國際
+
+【伊朗最高領袖任命佐勒加德爾為其政治顧問】據伊朗伊斯蘭共和國通訊社9日報道，伊朗最高領袖穆傑塔巴·哈梅內伊任命穆罕默德·巴蓋爾·佐勒加德爾為其政治顧問。佐勒加德爾此前擔任伊朗最高國家安全委員會秘書。（央視新聞）
+
+---
+
+### 2026-08-10 04:59:39  #MKT News
+
+【Iran's Supreme Leader Mujtaba Khamenei appoints Mohammad Bagher Zolghadr as political adviser】State media reported on the 9th that Iran's Supreme Leader Mujtaba Khamenei appointed Mohammad Bagher Zolghadr as a political adviser. Zolghadr previously served as secretary of Iran's Supreme National Security Council.
+
+---
+
+### 2026-08-10 04:56:18  #MKT News #Important #Market Themes #Chip Wars #ASML.AS #Impact bearish
+
+【Musk signals possible free-electron laser challenge to ASML's EUV】SpaceX said it will partner with Tesla on an initial $16.8 bln investment to build a Terafab chip facility in Texas. Posts and a blogger’s read of Terafab materials suggest the plant may adopt free-electron laser (FEL) technology as a lithography light source to challenge ASML’s LPP EUV; Musk replied with FEL FTW and the facility layout reportedly supports that reading. FEL proponents cite higher power, coherence, tunable wavelength and potentially better energy efficiency, and in theory it could push lithography wavelengths from 13.5nm toward ~6nm or shorter. Commercialisation hurdles remain significant: large accelerator systems, capital cost and production stability are the main obstacles.
+
+---
+
+### 2026-08-10 04:50:05  #市場
+
+【劍指高溢價炒作 滬深交易所擬清退三類LOF】近年來，LOF產品頻繁發生的高溢價風險，持續吸引市場的關注，相關部門也開始出手整頓。一場LOF產品的“洗牌”即將到來。近日，滬深交易所分別起草《關於完善上市開放式基金相關安排的通知（徵求意見稿）》並向市場公開徵求意見。通知中提出商品期貨LOF（上交所無此類產品，故其通知中未作規定）、QDII LOF、連續六十個交易日場內資產淨值小於一千萬元的小規模LOF應當終止上市，且前兩類LOF最晚於2027年12月31日終止上市。（上證報）
+
+---
+
+### 2026-08-10 04:49:19  #公司 #央行 #國際
+
+【“流動性+業績”雙重催化 佈局海外科技股 QDII基金規模提升】北京時間8月7日晚間，美國發布的7月非農就業資料低於市場預期，強化了市場對於美聯儲貨幣政策轉向的預期，海外科技資產再度受到關注。與此同時，隨著美國科技巨頭二季度財報陸續披露，市場對於AI產業發展的關注點正從算力投入逐步轉向盈利兌現。業內人士表示：從短期來看，美聯儲政策預期變化或影響科技股估值表現；從中長期來看，AI商業化進展及科技企業盈利能力仍將成為決定相關資產走勢的重要因素。在此背景下，國內資金借道QDII基金佈局海外科技資產的熱度後續或有提升。（上證報）
+
+---
+
+### 2026-08-10 04:49:08  #MKT News
+
+【NORAD scrambles F-16s to intercept two aircraft near Trump golf club in Bedminster, New Jersey】NORAD scrambled F-16s to intercept two general aviation aircraft that violated a temporary flight restriction over Bedminster, New Jersey, while President Trump was attending an event at Trump National Golf Club. The TFR was in place for the LIV Golf New York stop at the club this weekend.
+
+---
+
+### 2026-08-10 04:48:34  #國際
+
+【北美防空司令部出動F-16攔截特朗普高爾夫俱樂部附近兩架飛機】北美防空司令部當天出動F-16戰鬥機，在美國新澤西州貝德明斯特上空攔截了兩架違反臨時飛行限制的通用航空飛機。事發時，美國總統特朗普正在當地一家高爾夫俱樂部出席活動。據悉，LIV高爾夫賽紐約站本週末在貝德明斯特的特朗普國家高爾夫俱樂部舉行，特朗普出席，該地區上空因此實施臨時飛行限制。（央視新聞）
+
+---
+
+### 2026-08-10 04:47:55  #其他
+
+【八月首周寬基ETF資金流向分化 兩類產品仍在吸金】8月第一週，寬基ETF資金流向有所分化。多類主流寬基ETF出現不同程度的資金流出，中證2000和中證A500相關ETF則錄得淨流入。從近一個月的情況看，寬基ETF仍是資金佈局權益市場的重要工具。多類寬基指數相關ETF近一個月全部獲得淨流入。滬深300、科創50和中證A500相關ETF淨流入規模均超過400億元。 兩個時間區間呈現出不同特徵，表明寬基ETF在前期大規模吸金後，短期資金進出有所反覆。中證A500和中證2000本週延續淨流入，也顯示寬基ETF內部仍存在結構性配置需求。（證券時報）
 
 ---
 
@@ -18839,161 +18995,5 @@ INDRA：歐洲安全衛星通訊系統將於2030年投入使用。
 ### 2026-08-07 15:50:27  #國際
 
 【美媒爆料：“特朗普希望萬斯贏得2028年大選”】共同社8月7日引用《華盛頓郵報》的報道稱，美國總統特朗普近日在一次私下會晤中表示，他希望副總統萬斯能夠贏得2028年總統大選。該報報道稱，大約兩週前，特朗普在白宮橢圓形辦公室會見了支持者，其間表示“我們最終要讓萬斯當選”。據接近特朗普的人士透露，雖然他內心深處已經認定支援萬斯作為共和黨總統候選人，但現在判斷萬斯何時宣佈參選或特朗普何時公開背書都還太早。8月6日，特朗普告訴記者，萬斯是一個“卓越的人”，但他否認了相關報道，稱現在正式表態“為時尚早”。（參考訊息）
-
----
-
-### 2026-08-07 15:49:51  #國際
-
-【韓政府反駁美方涉新版數字法歧視美企主張】韓國政府7日反駁美國國會眾議院共和黨籍議員所謂“韓國《資訊通訊網法修正案》可被用作政治審查”的說法。韓國外交部官員表示，該法修正案旨在應對數字環境變遷帶來的社會弊端並加大對使用者的保護力度，並不包含歧視美國企業的因素。政府將向美國眾議院司法委員會積極說明該法案的宗旨和效果。
-
----
-
-### 2026-08-07 15:49:39  #其他
-
-【東航釋出新規: 提前14天可免費退改簽】東航釋出新版《國內客票自願退票和自願變更實施細則》，對於2026年8月6日（含）以後銷售的2026年8月6日（含）以後開始旅行的國內客票，規定提前14天自願變更或自願退票均免費。新版規則分五個時間段，距離起飛時間越近，變更和退票收取的費用越高。（第一財經）
-
----
-
-### 2026-08-07 15:49:33  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-French Stocks at New Record High — The CAC 40 rose 0.3% to 8,722 on Friday, hitting a fresh record high as investors assessed key European economic data and monitored developments in the Middle East. In France, the unemployment rate edged up to 8.3% in Q2 2026 from 8.1% in the previous quarter, its highest level since Q3 2020. Meanwhile, the trade deficit narrowed more than expected to €5.8 billion in June from €7.9 billion in May, as exports increased 2.6% month-on-month to €54.5 billion while imports fell 0.9% to €60.4 billion. Geopolitical risks remained in focus after Iranian state media reported a naval operation against "hostile targets" near the Strait of Hormuz. Tehran is also reportedly seeking to restrict access to the waterway for US and Israeli vessels and require compensation from hostile nations before granting transit. Schneider Electric (0.3%), Airbus (0.9%), and Safran (0.7%) were among the top performers. For the week, the benchmark index was on track to post a third consecutive weekly gain.
-
----
-
-### 2026-08-07 15:49:25  #市場
-
-【機構：本週工業矽強預期弱現實，期現走勢背離】本週工業矽市場呈現“期貨震盪反彈、現貨止跌企穩”的分化走勢。受行業政策預期及供應端收縮訊息提振，期貨價格一度上衝至8450元/噸附近，周內整體反彈超3%；但現貨市場跟漲乏力，本週報價持穩，連續數週的下跌態勢暫告一段落。供應端收縮訊號持續強化，市場底部特徵逐步顯現。（矽業分會）
-
----
-
-### 2026-08-07 15:49:06  #公司
-
-【東傑智慧：訴訟進展暨收到撤訴裁定，原告撤訴涉案金額9800萬元】東傑智慧公告，公司於2025年8月11日收到綿陽市安州區人民法院送達的四川世通達新能源科技有限公司起訴公司及全資子公司東傑海登（常州）科技有限公司的相關材料，涉案金額9800萬元。2026年8月7日，公司收到法院出具的《民事裁定書》，原告四川世通達新能源科技有限公司提出撤訴申請，法院准許原告撤訴。本次訴訟原告已撤訴，不會對公司的日常經營產生重大不利影響，不會對本期利潤及期後利潤產生重大影響。
-
----
-
-### 2026-08-07 15:49:05  #MKT News
-
-【Yushu Technology's Wang Xingxing: high-performance general-purpose robots key to easing labor shortages】Yushu Technology chairman, general manager and CTO Wang Xingxing said in an online roadshow that population aging, rising labor costs and the need to lift productivity and quality of life make high-performance, general-purpose robots that assist humans across tasks a crucial breakthrough to relieve labor shortages and efficiency bottlenecks, implying broad market demand.
-
----
-
-### 2026-08-07 15:49:04  #公司
-
-【中國建築、華潤電力成立新能源公司】企查查APP顯示，近日，潤智新能源（寶應）有限公司成立，法定代表人為郭建強，經營範圍包含：發電業務、輸電業務、供（配）電業務；風力發電技術服務；生物質能技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由中國建築全資子公司中國建築第五工程局有限公司、華潤電力新能源投資有限公司共同持股。
-
----
-
-### 2026-08-07 15:48:53  #國際
-
-【泰國校園槍擊6死23傷】據泰國警方最新發布的修正後的資料，暖武裡府一所中學今天（8月7日）上午發生的槍擊事件造成包括槍手在內共6人死亡，而不是此前公佈的7人，受傷人數為23人。（CCTV國際時訊）
-
----
-
-### 2026-08-07 15:48:39  #公司
-
-【西部礦業等在西藏成立新公司 註冊資本1億】天眼查App顯示，近日，西藏西礦地質科技有限公司成立，法定代表人為趙福康，註冊資本1億人民幣，經營範圍包括非煤礦山礦產資源開採，金屬與非金屬礦產資源地質勘探，礦產資源勘查，有色金屬合金銷售，選礦等，由西部礦業股份有限公司等共同持股。
-
----
-
-### 2026-08-07 15:48:07  #公司
-
-【鹽湖股份：子公司鎂合金壓鑄業務仍處於培育發展階段】鹽湖股份8月7日在互動平臺表示，公司鎂資源業務佈局側重上游資源開發環節，下屬子公司特立鎂主營鎂合金壓鑄業務，目前該板塊仍處於培育發展階段，業務體量有限，對公司整體營收貢獻度較低。
-
----
-
-### 2026-08-07 15:47:47  #公司
-
-【彤程新材：發行不超7872.49萬股境外上市普通股獲證監會備案】彤程新材公告稱，公司申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市，已獲中國證監會備案。公司擬發行不超過78,724,900股境外上市普通股並在香港聯交所上市。本次發行並上市尚需取得香港相關監管機構、證券交易所的批准、核准，存在不確定性。
-
----
-
-### 2026-08-07 15:47:17  #資料 #央行 #國際
-
-【債券交易員嚴陣以待 非農就業資料或左右美聯儲9月加息前景】債券投資者正密切關注週五將公佈的美國勞動力市場資料，該資料可能緩和市場對美聯儲在9月下次會議上加息的日益升溫預期。利率掉期市場目前預計，美聯儲在9月加息25個基點的機率已超過50%。週四有報道稱，如果未來幾周通脹資料居高不下，美聯儲主席凱文·沃什準備加息，此後這一機率進一步上升。勞動力市場若出現疲軟跡象，可能緩解市場對就業過熱推高通脹的擔憂。美國7月消費者價格指數(CPI)和生產者價格指數(PPI)將於下週公佈，這些資料可能最終決定利率走勢。“如果你是美聯儲主席，你最希望看到的是‘金髮姑娘式’的就業資料，既不要太強，也不要太弱，”Haverford Trust投資策略主管Hank Smith表示。“今年大部分時間我們的基本判斷一直是12月加息一次，但我們承認，9月加息的機率已經有所上升。”經濟學家預計，7月新增非農就業人數約為8萬人，高於6月，但仍將處於今年較低水平。美國勞工統計局本週二公佈的資料則顯示，勞動力市場基本穩定，裁員規模仍然有限。
-
----
-
-### 2026-08-07 15:46:56  #公司
-
-【京基智農：7月商品肥豬銷量13.79萬頭，銷售收入2.04億元】京基智農公告，2026年7月銷售商品肥豬13.79萬頭，銷售收入2.04億元，商品肥豬銷售均價11.93元/kg；2026年1-7月累計銷售商品肥豬125.87萬頭，累計銷售收入17.01億元。
-
----
-
-### 2026-08-07 15:46:43  #宏觀 #市場
-
-【財政部擬發行2026年超長期特別國債（六期）】據財政部8月7日訊息，財政部擬發行2026年超長期特別國債（六期）。本期國債為30年期固定利率附息債。本期國債競爭性招標面值總額730億元，不進行甲類成員追加投標。招標時間為2026年8月14日上午10:35至11:35。招標結束至2026年8月17日進行分銷，8月19日起上市交易。
-
----
-
-### 2026-08-07 15:46:29  #宏觀 #市場
-
-【財政部擬發行2026年記賬式附息（十六期）國債】據財政部8月7日訊息，財政部擬發行2026年記賬式附息（十六期）國債。本期國債為10年期固定利率附息債。本期國債競爭性招標面值總額900億元，進行甲類成員追加投標。招標時間為2026年8月14日上午10:35至11:35。招標結束至2026年8月17日進行分銷，8月19日起上市交易。
-
----
-
-### 2026-08-07 15:46:13  #國際
-
-特斯拉：FSD Supervised已在歐盟19個國家累計完成220萬公里的訓練與測試，能夠處理絕大多數人一生都遇不到的極端路況。
-
----
-
-### 2026-08-07 15:45:51  #公司
-
-【葵花葯業：使用5億元閒置資金購買理財產品】葵花葯業公告稱，公司此前決定使用不超20億元閒置自有資金進行現金管理，有效期12個月。近日，公司使用5億元購買理財產品，其中2億元購買招商銀行聚益生金系列公司（35天）B款理財計劃，3億元購買信銀理財安盈象固收穩健兩個月持有期47號理財產品。截至公告日，公司現金管理未到期金額為1.68億元（含本次）。
-
----
-
-### 2026-08-07 15:45:41  #其他
-
-海力士：為滿足人工智慧領域儲存晶片需求，將在龍仁市和清州市新建晶圓廠。
-
----
-
-### 2026-08-07 15:45:34  #國際
-
-烏克蘭小麥出口量或從 1760 萬噸降至 830 萬噸。
-
----
-
-### 2026-08-07 15:44:42  #公司
-
-【公司VPD正式透過三星驗證？聚辰股份回應】針對投資者關於“ 市場傳公司VPD正式透過三星驗證，應用於企業級和CXL，該產品高單價，超高毛利，公司領先對手1年以上，未來隨著三星SSD放量，利潤彈性巨大請問以上資訊是否屬實？ ”的提問，聚辰股份8月7日在互動平臺回應稱，公司VPD晶片已順利透過目標客戶的測試認證，並將搭載在目標客戶的模組樣品上，分發給各終端客戶進行測試驗證。
-
----
-
-### 2026-08-07 15:44:21  #其他
-
-臺化上半年每股收益2.11元臺幣，上半年營收1,689.0億元臺幣。
-
----
-
-### 2026-08-07 15:42:55  #國際
-
-烏克蘭尋求歐盟提供2.2億歐元緊急援助，用於幫助農民。
-
----
-
-### 2026-08-07 15:42:28  #公司
-
-【森林包裝：5098.27萬元競得康恩貝印刷包裝100%股權】森林包裝公告稱，8月6日，公司以5098.27萬元在浙江產權交易所公開競拍，中標康恩貝持有的康恩貝印刷包裝100%股權。截至2025年12月31日，該公司淨資產4443.93萬元，評估價值為5278.27萬元。本次交易不構成關聯及重大資產重組，競拍價佔公司最近一期經審計資產的1.09%，無需提交審議。公司需於8月13日前簽署交易合同，預計對2026年及未來業績影響較小。
-
----
-
-### 2026-08-07 15:42:06  #公司
-
-【萊斯資訊：聘任孫裔申為公司總經理】萊斯資訊8月7日公告，公司當天召開第六屆董事會第八次會議，審議透過了《關於聘任公司高階管理人員的議案》。經公司董事會提名委員會對高階管理人員候選人任職資格審查，董事會同意聘任孫裔申為公司總經理，任期期限自本次董事會審議透過之日起至公司第六屆董事會任期屆滿之日止。公司常務副總經理程先峰不再代行總經理職責。
-
----
-
-### 2026-08-07 15:41:37  #公司
-
-【華能水電、通威股份投資成立新能源公司】企查查APP顯示，近日，華能瀾滄江（施甸）新能源有限公司成立，經營範圍包含：電氣裝置修理；電動汽車充電基礎設施運營；新興能源技術研發；風力發電技術服務等。企查查股權穿透顯示，該公司由華能水電全資子公司華能瀾滄江新能源有限公司、通威股份旗下通威智慧能源（四川）有限公司共同持股。
-
----
-
-### 2026-08-07 15:40:48  #公司
-
-【新疆天業：聘任楊友信、周德立等為公司副總經理】新疆天業8月7日公告，為加強公司經營管理，充實經營管理團隊，公司於2026年8月7日召開2026年第六次臨時董事會審議透過了《關於聘任公司副總經理的議案》。 經公司總經理提名，並經董事會提名委員會進行資格稽核，董事會同意聘任楊友信、周德立、毛明春為公司副總經理，任期自本次董事會審議透過之日起至公司第九屆董事會屆滿之日止。
 
 ---

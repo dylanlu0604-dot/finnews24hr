@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-10 04:48:23_
-_本檔包含 3384 則快訊，約 600855 字_
+_更新時間：2026-08-10 05:42:52_
+_本檔包含 3388 則快訊，約 601857 字_
+
+---
+
+### 2026-08-06 11:38:22  #公司
+
+【遠景科技集團：智算中心星河基地投產 規劃總容量2GW】記者從遠景科技集團獲悉，公司的大規模智算中心“遠景烏蘭察布星河基地”已正式投產，基地綠電直連比例超80%，總建築體量12萬平方米。據悉，該基地總規劃容量達2GW，是遠景戈壁使命計劃落地的首個專案。 (財聯社)
+
+---
+
+### 2026-08-06 11:36:34  #MKT News #Market Regions #Japan & APAC
+
+Japan's 30-year government bond auction bid-cover ratio was 3.86, down from 4.55 in July.
+
+---
+
+### 2026-08-06 11:36:28  #Trading Economics #Economy #Fiji #Inflation Rate #Importance 1
+
+Fiji Inflation Eases to 5.7% from Near 3-Year High — Fiji's annual inflation slowed to 5.7% in July 2026 from 6.1% in June, which was the fastest pace in nearly three years, due to significantly lower fuel prices amid declining international prices. The deceleration was mainly driven by a softer rise in transport prices (11.7% vs 19.3% in June). Inflation also moderated for housing (6.1% vs 7.2%), alcoholic beverages and tobacco (14.3% vs 14.6%), and miscellaneous goods and services (2.7% vs 3.4%), while remaining steady for education (0.4%). Meanwhile, food inflation accelerated to 4.1%, the highest since October 2024. By contrast, prices fell for clothing and footwear (-0.3% vs 0.1%), recreation and culture (-2.4% vs -3.0%), and furnishings, household equipment, and routine household maintenance (-0.6% vs -0.2%). On a monthly basis, the CPI fell 1.1% in July, reversing a 2.8% rise in June and marking the first monthly decline in six months.
+
+---
+
+### 2026-08-06 11:35:53  #市場 #國際
+
+日本30年期國債拍賣投標倍數為3.86，低於7月上一期拍賣的4.55。
+
+---
+
+### 2026-08-06 11:34:55  #焦點 #國際
+
+【是否追究金容範引入槓桿ETF責任？青瓦臺：應優先關注市場並採取對策】韓國總統府公共關係和溝通高階秘書成基鴻6日回應了外界要求就推出單一股票槓桿ETF一事追究總統辦公室政策室長金容範責任的呼聲。他表示：“目前更重要的是密切關注市場，並制定相應對策。”成基鴻當天在接受採訪時表示：“房地產市場和股票市場都存在較高波動性，對民生的影響也非常大，”並還補充道，“總統府全體官員都正在細緻審視每一種情況，並研究如何制定相關措施。”（第一財經）
+
+---
+
+### 2026-08-06 11:31:29  #市場
+
+【午評：創業板指衝高回落跌0.67%，貴金屬、煤炭開採加工板塊漲幅居前】三大指數早盤漲跌不一，截至午盤，上證指數漲0.01%，深證成指跌0.52%，創業板指跌0.67%，北證50跌0.38%，科創50指數跌0.16%。全市場成交額17651億元，較上日放量626億元，全市場超3700只個股下跌。板塊題材上，電子化學品、貴金屬、煤炭開採加工、元件、通訊裝置板塊漲幅居前；教育、汽車整車、電力、證券、港口航運板塊跌幅居前。盤面上，貴金屬板塊高開低走，漲幅收窄，招金黃金漲超5%，山金國際、西部黃金、興業銀錫漲幅居前。電子化學品板塊低開高走，江化微漲停，中巨芯盤中觸及20cm漲停，宏和科技、華特氣體、中船特氣漲幅居前。煤炭開採加工板塊震盪走高，昊華能源漲停，淮北礦業、晉控煤業、潞安環能漲幅居前。教育板塊集體回撥，凱文教育、中公教育領跌板塊，全通教育、傳智教育、昂立教育跌幅居前。汽車整車板塊持續走低，北汽藍谷、眾泰汽車、江淮汽車跌幅居前。
+
+---
+
+### 2026-08-06 11:31:21  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【China index futures morning close】China index futures morning close: CSI 300 (IF) main contract -0.43%; SSE 50 (IH) main contract -0.36%; CSI 500 (IC) main contract -0.35%; CSI 1000 (IM) main contract +0.08%.
+
+---
+
+### 2026-08-06 11:31:18  #MKT News
+
+【China government bond futures morning close】2-year (TS) main contract +0.01%; 5-year (TF) main contract -0.01%; 10-year (T) main contract -0.04%; 30-year (TL) main contract -0.11%.
+
+---
+
+### 2026-08-06 11:30:42  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #Market Regions #Greater China #XAUUSD #Impact bullish
+
+At the morning close, China’s main futures contracts were mostly higher. Shanghai gold and silver gained over 3%, red dates and iron ore rose more than 2%, coke and live hogs climbed about 2%, and platinum and palladium were up over 1%. On the downside, methanol fell more than 3%, propylene nearly 3%, Shanghai nickel, polypropylene contracts, benzene and styrene (EB) dropped over 2%, and liquefied petroleum gas (LPG) was down nearly 2%.
+
+---
+
+### 2026-08-06 11:30:04  #市場
+
+【股指期貨早盤收盤】 中證1000指數期貨連續漲0.06%， 滬深300指數期貨連續跌0.45%， 中證500指數期貨連續跌0.36%， 上證50指數期貨連續跌0.38%。
+
+---
+
+### 2026-08-06 11:30:03  #市場
+
+【國債期貨早盤收盤】 30年期主力合約跌0.13%， 10年期主力合約跌0.04%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。
+
+---
+
+### 2026-08-06 11:30:02  #市場
+
+【商品期貨早盤收盤】黃金連續漲3.71%，白銀連續漲3.15%，甲醇連續跌3.10%，丙烯連續跌2.97%，鐵礦石連續漲2.14%。
+
+---
+
+### 2026-08-06 11:28:11  #MKT News #Shennong Seed.SZ #Impact bullish #Qiule Seed.SZ #Jingliang Holdings.SZ
+
+China A-share grain sector rallied intraday; Jinjian Rice Industry hit the daily limit, while Shennong Seed, Qiule Seed, Jingliang Holdings, Xinsai and Dunhuang Seed advanced.
+
+---
+
+### 2026-08-06 11:27:32  #公司 #市場
+
+【糧食概念板塊短線拉昇，金健米業漲停】糧食概念板塊短線拉昇，金健米業漲停，神農種業、秋樂種業、京糧控股、新賽股份、敦煌種業等紛紛走高。
+
+---
+
+### 2026-08-06 11:24:05  #國際
+
+烏克蘭當地官員稱，俄羅斯對巴拉克利亞發動的襲擊造成三人死亡。
+
+---
+
+### 2026-08-06 11:23:36  #MKT News
+
+【Blue House says it will monitor markets, consider measures after single-stock leveraged ETF volatility】South Korea’s presidential office responded to calls to hold policy chief Kim Yong-beom responsible for recent market swings linked to the launch of single-stock leveraged ETFs, saying officials will prioritize close market monitoring and prepare appropriate responses. Communications senior secretary Seong Gi-hong said both the property and equity markets are showing elevated volatility with material effects on households, and that relevant Blue House officials are carefully reviewing situations and cautiously studying potential measures.
 
 ---
 
@@ -20317,77 +20413,5 @@ Hang Seng Index futures opened the day session up 0.23% at 25,893, trading 40 pt
 ### 2026-08-05 09:14:49  #公司
 
 【華秋完成數億元D輪股權融資】近日，電子產業一站式智慧基礎設施平臺——深圳華秋智聯股份有限公司（簡稱“華秋”）宣佈完成數億元D輪股權融資。本輪融資由招銀國際領投，廣新基金、成都高新、鴻石資本等多家新老股東聯合參與。本次融資將用於深化全產業鏈數字化佈局、自研工業軟體迭代、智慧製造基地升級，加速完善電子硬體創新全鏈路服務閉環。
-
----
-
-### 2026-08-05 09:14:44  #公司 #國際
-
-【SpaceX計劃最早於本月進行下一次“星艦”發射，並在陸地上回收飛船】SpaceX執行長埃隆·馬斯克週二在公司首次財報電話會議上表示，SpaceX計劃最早於本月進行下一次“星艦”飛行測試，將首批升級版“星鏈”衛星送入軌道，隨後首次讓這套巨型火箭系統的上級返回陸地著陸。“星艦”第14次試飛的目標標誌著這款可重複使用火箭自7月上次試飛以來的重大飛躍——當時“星艦”上段在印度洋上空似乎展示了更強的著陸能力。馬斯克此前曾表示，SpaceX可能在今年某個時候嘗試上段著陸回收，具體是否在第14次飛行中進行，將取決於第13次飛行是否順利。作為“星艦”核心部分的該火箭上級返回地面，對於SpaceX實現其構建全球首個完全可重複使用軌道發射系統的目標至關重要——馬斯克希望藉助該系統大幅擴充套件公司的“星鏈”寬頻網路。此次著陸測試也將受到美國宇航局的密切關注，該機構迫切希望將該火箭用作登月艙。
-
----
-
-### 2026-08-05 09:14:11  #觀點
-
-【348股獲融資買入超億元，中際旭創穫買入79.97億元居首】Wind資料顯示，A股8月4日共有3834只個股獲融資資金買入，有348股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入79.97億元、34.82億元、33.14億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中中金輻照、德爾瑪、易瑞生物融資買入額佔成交額比重排名前三，分別為36.86%、33.21%、28.72%。從融資淨買入金額來看，有32只個股獲融資淨買入超億元。其中，中際旭創、寒武紀、浪潮資訊融資淨買入金額排名前三，分別獲淨買入10.55億元、10.01億元、4.7億元。
-
----
-
-### 2026-08-05 09:13:50  #Trading Economics #Markets #Japan #Stock Market #Importance 2
-
-Asian Stocks Track Wall Street Higher — Asian equity markets advanced on Wednesday, tracking a rally on Wall Street overnight that lifted the Dow and S&P 500 to fresh record highs, supported by robust corporate earnings and a sharp drop in oil prices. Investors weighed reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz, a development that could ease inflation concerns and reduce expectations for near-term Federal Reserve interest rate hikes. Technology-heavy markets in Japan and South Korea led regional gains, with the Nikkei 225 and KOSPI Composite both surging more than 3%. Among individual stocks, Japanese tech-investing giant SoftBank Group soared more than 10%, while South Korean chipmaker SK Hynix climbed 6%.
-
----
-
-### 2026-08-05 09:13:32  #MKT News #Important
-
-Container shipping index (Europe route) most-active contract fell 7.00% intraday to 1,670.0 points.
-
----
-
-### 2026-08-05 09:13:25  #市場 #央行
-
-【華創證券：10年債利率1.7%關口約束力或軟化 多頭信心有望強化】華創證券投資交易部傳送的點評稱，債市利率選擇向下突破，反映出在總量寬鬆預期邊際開啟，7月採購經理人指數顯示基本面改善未能持續後，做多已成為債市阻力更小的方向。當前中國央行的態度或許說明10年期國債收益率小幅下破1.7%，尚在央行包容範圍內。在央行透過資金面敲打債市前，10年期國債收益率1.70%關口的約束力或逐漸軟化，做多資金可能繼續嘗試向下突破。相比之下超長債仍有利差收窄空間，節奏上需關注交易盤階段性止盈擾動。
-
----
-
-### 2026-08-05 09:13:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude up more than 1.00% intraday at $75.08/bbl. Brent crude's intraday gain widened to 1.00%, trading at $79.31/bbl.
-
----
-
-### 2026-08-05 09:13:17  #國際
-
-【美媒：美軍已消耗近80%“薩德”反導系統攔截彈】 據美國有線電視新聞網4日援引多名訊息人士的話報道，美軍已消耗“薩德”反導系統近80%的攔截彈。 報道說，自伊朗戰事開始以來，美軍已消耗了近五分之四的“薩德”反導系統導彈庫存和大約一半的“愛國者”防空系統攔截彈。用於遠端打擊的“戰斧”巡航導彈也消耗了近一半，導彈庫存處於嚴重短缺狀態。一名美軍高階指揮官警告稱，五角大樓的彈藥儲備“已降至危險的低位”。(新華社)
-
----
-
-### 2026-08-05 09:12:21  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內跌7%，現報1670.00點。
-
----
-
-### 2026-08-05 09:12:06  #其他
-
-【納芯微NovoGenius®系列電機控制Turnkey Solution獲ASPICE CL2認證】 據納芯微訊息，近日，納芯微NovoGenius®系列電機控制Turnkey Solution軟體開發專案，依據Automotive SPICE® PAM 4.0完成專業過程能力評估並達到能力等級2（Capability Level 2，簡稱“CL2”）。此次評估結果表明，該專案已建立覆蓋軟體需求、設計、開發、驗證及專案管理的受控流程，為客戶提供更加規範、穩定、可追溯的軟體支援，助力提升方案開發與量產匯入效率。
-
----
-
-### 2026-08-05 09:11:27  #MKT News #Star Stocks #Tencent
-
-【Retail money-market yield snapshot】Tencent Licaitong (current+) 7-day annualized yield: 0.7360%–1.1510%. WeChat Wallet Lingqiantong 7-day annualized yield: 0.9010%–1.0220%. Alipay Yu'ebao 7-day annualized yield: 0.9030%–1.0210%.
-
----
-
-### 2026-08-05 09:10:57  #其他
-
-【新款華為MateBook Fold今日釋出】 8月5日，華為新一代鴻蒙摺疊屏電腦全新華為MateBook Fold非凡大師將正式釋出。此前官方已披露，該機首次支援原生手寫筆功能，可實現純平書寫、分屏記錄等體驗。
-
----
-
-### 2026-08-05 09:10:26  #國際
-
-市場訊息：美國疾病控制和預防中心(CDC)已將已知最大規模的環孢子蟲病疫情範圍擴大至15個州，目前已有超過400人患病。
 
 ---

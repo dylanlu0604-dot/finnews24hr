@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-10 04:48:23_
-_本檔包含 3324 則快訊，約 600895 字_
+_更新時間：2026-08-10 05:42:52_
+_本檔包含 3329 則快訊，約 601864 字_
+
+---
+
+### 2026-08-05 09:14:44  #公司 #國際
+
+【SpaceX計劃最早於本月進行下一次“星艦”發射，並在陸地上回收飛船】SpaceX執行長埃隆·馬斯克週二在公司首次財報電話會議上表示，SpaceX計劃最早於本月進行下一次“星艦”飛行測試，將首批升級版“星鏈”衛星送入軌道，隨後首次讓這套巨型火箭系統的上級返回陸地著陸。“星艦”第14次試飛的目標標誌著這款可重複使用火箭自7月上次試飛以來的重大飛躍——當時“星艦”上段在印度洋上空似乎展示了更強的著陸能力。馬斯克此前曾表示，SpaceX可能在今年某個時候嘗試上段著陸回收，具體是否在第14次飛行中進行，將取決於第13次飛行是否順利。作為“星艦”核心部分的該火箭上級返回地面，對於SpaceX實現其構建全球首個完全可重複使用軌道發射系統的目標至關重要——馬斯克希望藉助該系統大幅擴充套件公司的“星鏈”寬頻網路。此次著陸測試也將受到美國宇航局的密切關注，該機構迫切希望將該火箭用作登月艙。
+
+---
+
+### 2026-08-05 09:14:11  #觀點
+
+【348股獲融資買入超億元，中際旭創穫買入79.97億元居首】Wind資料顯示，A股8月4日共有3834只個股獲融資資金買入，有348股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入79.97億元、34.82億元、33.14億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中中金輻照、德爾瑪、易瑞生物融資買入額佔成交額比重排名前三，分別為36.86%、33.21%、28.72%。從融資淨買入金額來看，有32只個股獲融資淨買入超億元。其中，中際旭創、寒武紀、浪潮資訊融資淨買入金額排名前三，分別獲淨買入10.55億元、10.01億元、4.7億元。
+
+---
+
+### 2026-08-05 09:13:50  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Asian Stocks Track Wall Street Higher — Asian equity markets advanced on Wednesday, tracking a rally on Wall Street overnight that lifted the Dow and S&P 500 to fresh record highs, supported by robust corporate earnings and a sharp drop in oil prices. Investors weighed reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz, a development that could ease inflation concerns and reduce expectations for near-term Federal Reserve interest rate hikes. Technology-heavy markets in Japan and South Korea led regional gains, with the Nikkei 225 and KOSPI Composite both surging more than 3%. Among individual stocks, Japanese tech-investing giant SoftBank Group soared more than 10%, while South Korean chipmaker SK Hynix climbed 6%.
+
+---
+
+### 2026-08-05 09:13:32  #MKT News #Important
+
+Container shipping index (Europe route) most-active contract fell 7.00% intraday to 1,670.0 points.
+
+---
+
+### 2026-08-05 09:13:25  #市場 #央行
+
+【華創證券：10年債利率1.7%關口約束力或軟化 多頭信心有望強化】華創證券投資交易部傳送的點評稱，債市利率選擇向下突破，反映出在總量寬鬆預期邊際開啟，7月採購經理人指數顯示基本面改善未能持續後，做多已成為債市阻力更小的方向。當前中國央行的態度或許說明10年期國債收益率小幅下破1.7%，尚在央行包容範圍內。在央行透過資金面敲打債市前，10年期國債收益率1.70%關口的約束力或逐漸軟化，做多資金可能繼續嘗試向下突破。相比之下超長債仍有利差收窄空間，節奏上需關注交易盤階段性止盈擾動。
+
+---
+
+### 2026-08-05 09:13:22  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude up more than 1.00% intraday at $75.08/bbl. Brent crude's intraday gain widened to 1.00%, trading at $79.31/bbl.
+
+---
+
+### 2026-08-05 09:13:17  #國際
+
+【美媒：美軍已消耗近80%“薩德”反導系統攔截彈】 據美國有線電視新聞網4日援引多名訊息人士的話報道，美軍已消耗“薩德”反導系統近80%的攔截彈。 報道說，自伊朗戰事開始以來，美軍已消耗了近五分之四的“薩德”反導系統導彈庫存和大約一半的“愛國者”防空系統攔截彈。用於遠端打擊的“戰斧”巡航導彈也消耗了近一半，導彈庫存處於嚴重短缺狀態。一名美軍高階指揮官警告稱，五角大樓的彈藥儲備“已降至危險的低位”。(新華社)
+
+---
+
+### 2026-08-05 09:12:21  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內跌7%，現報1670.00點。
+
+---
+
+### 2026-08-05 09:12:06  #其他
+
+【納芯微NovoGenius®系列電機控制Turnkey Solution獲ASPICE CL2認證】 據納芯微訊息，近日，納芯微NovoGenius®系列電機控制Turnkey Solution軟體開發專案，依據Automotive SPICE® PAM 4.0完成專業過程能力評估並達到能力等級2（Capability Level 2，簡稱“CL2”）。此次評估結果表明，該專案已建立覆蓋軟體需求、設計、開發、驗證及專案管理的受控流程，為客戶提供更加規範、穩定、可追溯的軟體支援，助力提升方案開發與量產匯入效率。
+
+---
+
+### 2026-08-05 09:11:27  #MKT News #Star Stocks #Tencent
+
+【Retail money-market yield snapshot】Tencent Licaitong (current+) 7-day annualized yield: 0.7360%–1.1510%. WeChat Wallet Lingqiantong 7-day annualized yield: 0.9010%–1.0220%. Alipay Yu'ebao 7-day annualized yield: 0.9030%–1.0210%.
+
+---
+
+### 2026-08-05 09:10:57  #其他
+
+【新款華為MateBook Fold今日釋出】 8月5日，華為新一代鴻蒙摺疊屏電腦全新華為MateBook Fold非凡大師將正式釋出。此前官方已披露，該機首次支援原生手寫筆功能，可實現純平書寫、分屏記錄等體驗。
+
+---
+
+### 2026-08-05 09:10:26  #國際
+
+市場訊息：美國疾病控制和預防中心(CDC)已將已知最大規模的環孢子蟲病疫情範圍擴大至15個州，目前已有超過400人患病。
 
 ---
 
@@ -19993,47 +20065,5 @@ South Korea's KOSPI rose 2.00% in early trade.
 ### 2026-08-04 07:52:33  #公司 #國際
 
 【波音737 MAX-7獲美國FAA適航認證】當地時間8月3日，美國聯邦航空管理局（FAA）正式批准波音737 MAX-7機型適航認證。FAA表示，此次認證體現了多年來為解決複雜技術問題、完成對該機型設計及配套安全分析的全面審查所付出的持續努力。FAA稱，安全檢查員將繼續駐守在波音公司位於全國各地的生產設施，密切監控制造過程，包括觀察和評估波音公司的安全管理體系 (SMS) 和安全文化。
-
----
-
-### 2026-08-04 07:52:25  #宏觀 #市場 #央行 #國際
-
-【美國財長貝森特罕見公開呼籲美聯儲擴大一項流動性工具以助力捍衛日元】美國財政部長斯科特·貝森特呼籲美聯儲擴大日本可用於支撐日元的一項工具，這再次引發外界關注這兩個通常保持獨立運作的機構之間的關係。在美國財政部與日本聯手支撐日元之後，貝森特週日讚揚了美聯儲的外國和國際貨幣當局回購機制(FIMA)，該機制允許外國政府使用其持有的美國國債作為抵押品來獲取美元。在社交媒體的貼文中，貝森特將這項美聯儲工具形容為對日本相關行動起到重要支援作用，並表示“我們將鼓勵在未來幾個月內擴大這項措施的規模”。不過，密切關注美聯儲的人士表示，財政部長很少公開敦促央行對其任何工具進行修改，尤其是一項屬於聯邦公開市場委員會決策許可權範圍內的工具。“這非常不尋常，”前財政部高階官員Mark Sobel表示。“在我那個年代，財政部長們都不願公開談論與美聯儲貨幣操作相關的問題，如果真的有必要，他們會私下與美聯儲主席溝通，在幕後處理此事。”
-
----
-
-### 2026-08-04 07:52:17  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Edge Higher After Strong Session — US stock futures ticked higher on Tuesday after the major indexes kicked off the week with solid gains, supported by falling oil prices and a strong rally in heavyweight technology stocks. During Monday's regular session, the tech-heavy Nasdaq Composite surged 2.13%, while the S&P 500 and Dow advanced 1.48% and 1.32%, respectively. Megacap technology stocks drove the gains, with Amazon soaring 4.6% to surpass a $3 trillion market capitalization for the first time. Other standout performers included Microsoft (4.9%), Nvidia (2.9%), Meta Platforms (6%), Alphabet (4.9%) and Tesla (3.5%). Investor sentiment was also lifted by a roughly 5% drop in oil prices after President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns over inflation and the outlook for interest rates. Attention now turns to another round of corporate earnings due Tuesday, including results from SpaceX, AMD, Caterpillar, Merck and McDonald’s, among others.
-
----
-
-### 2026-08-04 07:51:37  #經濟數據 #日本
-
-日本7月基礎貨幣同比下降13.8%，前值-13.70%。
-
----
-
-### 2026-08-04 07:51:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #EURUSD #Impact bullish
-
-Japan monetary base YoY -13.8% in July; previous -13.7%.
-
----
-
-### 2026-08-04 07:50:55  #MKT News #Economic Calendar #Important
-
-Japan | Base money growth rate (YoY) (Jul) | actual -13.8% | previous -13.70%
-
----
-
-### 2026-08-04 07:50:09  #國際
-
-日本7月基礎貨幣同比 -13.8%，前值 -13.7%。
-
----
-
-### 2026-08-04 07:49:16  #其他
-
-【黑龍江省呼蘭河發生2026年第1號洪水】受降雨影響，8月4日2時30分，黑龍江省松花江支流呼蘭河秦家水文站（黑龍江省綏化市）水位漲至149.56米，達到警戒水位，依據主要江河洪水編號規定，此次洪水編號為“呼蘭河2026年第1號洪水”。水利部緊盯呼蘭河汛情發展態勢，加強雨水情監測預報預警，提前啟動針對黑龍江省的洪水防禦Ⅳ級應急響應，督促指導地方強化水工程排程，落實落細洪水防禦各項措施，全力維護人民群眾生命財產安全。 目前，水利部工作組正在黑龍江省洪水防禦一線協助指導。
 
 ---

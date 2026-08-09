@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-10 04:48:23_
-_本檔包含 3070 則快訊，約 600790 字_
+_更新時間：2026-08-10 05:42:52_
+_本檔包含 3080 則快訊，約 602040 字_
+
+---
+
+### 2026-08-07 15:49:51  #國際
+
+【韓政府反駁美方涉新版數字法歧視美企主張】韓國政府7日反駁美國國會眾議院共和黨籍議員所謂“韓國《資訊通訊網法修正案》可被用作政治審查”的說法。韓國外交部官員表示，該法修正案旨在應對數字環境變遷帶來的社會弊端並加大對使用者的保護力度，並不包含歧視美國企業的因素。政府將向美國眾議院司法委員會積極說明該法案的宗旨和效果。
+
+---
+
+### 2026-08-07 15:49:39  #其他
+
+【東航釋出新規: 提前14天可免費退改簽】東航釋出新版《國內客票自願退票和自願變更實施細則》，對於2026年8月6日（含）以後銷售的2026年8月6日（含）以後開始旅行的國內客票，規定提前14天自願變更或自願退票均免費。新版規則分五個時間段，距離起飛時間越近，變更和退票收取的費用越高。（第一財經）
+
+---
+
+### 2026-08-07 15:49:33  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+French Stocks at New Record High — The CAC 40 rose 0.3% to 8,722 on Friday, hitting a fresh record high as investors assessed key European economic data and monitored developments in the Middle East. In France, the unemployment rate edged up to 8.3% in Q2 2026 from 8.1% in the previous quarter, its highest level since Q3 2020. Meanwhile, the trade deficit narrowed more than expected to €5.8 billion in June from €7.9 billion in May, as exports increased 2.6% month-on-month to €54.5 billion while imports fell 0.9% to €60.4 billion. Geopolitical risks remained in focus after Iranian state media reported a naval operation against "hostile targets" near the Strait of Hormuz. Tehran is also reportedly seeking to restrict access to the waterway for US and Israeli vessels and require compensation from hostile nations before granting transit. Schneider Electric (0.3%), Airbus (0.9%), and Safran (0.7%) were among the top performers. For the week, the benchmark index was on track to post a third consecutive weekly gain.
+
+---
+
+### 2026-08-07 15:49:25  #市場
+
+【機構：本週工業矽強預期弱現實，期現走勢背離】本週工業矽市場呈現“期貨震盪反彈、現貨止跌企穩”的分化走勢。受行業政策預期及供應端收縮訊息提振，期貨價格一度上衝至8450元/噸附近，周內整體反彈超3%；但現貨市場跟漲乏力，本週報價持穩，連續數週的下跌態勢暫告一段落。供應端收縮訊號持續強化，市場底部特徵逐步顯現。（矽業分會）
+
+---
+
+### 2026-08-07 15:49:06  #公司
+
+【東傑智慧：訴訟進展暨收到撤訴裁定，原告撤訴涉案金額9800萬元】東傑智慧公告，公司於2025年8月11日收到綿陽市安州區人民法院送達的四川世通達新能源科技有限公司起訴公司及全資子公司東傑海登（常州）科技有限公司的相關材料，涉案金額9800萬元。2026年8月7日，公司收到法院出具的《民事裁定書》，原告四川世通達新能源科技有限公司提出撤訴申請，法院准許原告撤訴。本次訴訟原告已撤訴，不會對公司的日常經營產生重大不利影響，不會對本期利潤及期後利潤產生重大影響。
+
+---
+
+### 2026-08-07 15:49:05  #MKT News
+
+【Yushu Technology's Wang Xingxing: high-performance general-purpose robots key to easing labor shortages】Yushu Technology chairman, general manager and CTO Wang Xingxing said in an online roadshow that population aging, rising labor costs and the need to lift productivity and quality of life make high-performance, general-purpose robots that assist humans across tasks a crucial breakthrough to relieve labor shortages and efficiency bottlenecks, implying broad market demand.
+
+---
+
+### 2026-08-07 15:49:04  #公司
+
+【中國建築、華潤電力成立新能源公司】企查查APP顯示，近日，潤智新能源（寶應）有限公司成立，法定代表人為郭建強，經營範圍包含：發電業務、輸電業務、供（配）電業務；風力發電技術服務；生物質能技術服務；儲能技術服務等。企查查股權穿透顯示，該公司由中國建築全資子公司中國建築第五工程局有限公司、華潤電力新能源投資有限公司共同持股。
+
+---
+
+### 2026-08-07 15:48:53  #國際
+
+【泰國校園槍擊6死23傷】據泰國警方最新發布的修正後的資料，暖武裡府一所中學今天（8月7日）上午發生的槍擊事件造成包括槍手在內共6人死亡，而不是此前公佈的7人，受傷人數為23人。（CCTV國際時訊）
+
+---
+
+### 2026-08-07 15:48:39  #公司
+
+【西部礦業等在西藏成立新公司 註冊資本1億】天眼查App顯示，近日，西藏西礦地質科技有限公司成立，法定代表人為趙福康，註冊資本1億人民幣，經營範圍包括非煤礦山礦產資源開採，金屬與非金屬礦產資源地質勘探，礦產資源勘查，有色金屬合金銷售，選礦等，由西部礦業股份有限公司等共同持股。
+
+---
+
+### 2026-08-07 15:48:07  #公司
+
+【鹽湖股份：子公司鎂合金壓鑄業務仍處於培育發展階段】鹽湖股份8月7日在互動平臺表示，公司鎂資源業務佈局側重上游資源開發環節，下屬子公司特立鎂主營鎂合金壓鑄業務，目前該板塊仍處於培育發展階段，業務體量有限，對公司整體營收貢獻度較低。
+
+---
+
+### 2026-08-07 15:47:47  #公司
+
+【彤程新材：發行不超7872.49萬股境外上市普通股獲證監會備案】彤程新材公告稱，公司申請發行境外上市股份（H股）並在香港聯交所主機板掛牌上市，已獲中國證監會備案。公司擬發行不超過78,724,900股境外上市普通股並在香港聯交所上市。本次發行並上市尚需取得香港相關監管機構、證券交易所的批准、核准，存在不確定性。
+
+---
+
+### 2026-08-07 15:47:17  #資料 #央行 #國際
+
+【債券交易員嚴陣以待 非農就業資料或左右美聯儲9月加息前景】債券投資者正密切關注週五將公佈的美國勞動力市場資料，該資料可能緩和市場對美聯儲在9月下次會議上加息的日益升溫預期。利率掉期市場目前預計，美聯儲在9月加息25個基點的機率已超過50%。週四有報道稱，如果未來幾周通脹資料居高不下，美聯儲主席凱文·沃什準備加息，此後這一機率進一步上升。勞動力市場若出現疲軟跡象，可能緩解市場對就業過熱推高通脹的擔憂。美國7月消費者價格指數(CPI)和生產者價格指數(PPI)將於下週公佈，這些資料可能最終決定利率走勢。“如果你是美聯儲主席，你最希望看到的是‘金髮姑娘式’的就業資料，既不要太強，也不要太弱，”Haverford Trust投資策略主管Hank Smith表示。“今年大部分時間我們的基本判斷一直是12月加息一次，但我們承認，9月加息的機率已經有所上升。”經濟學家預計，7月新增非農就業人數約為8萬人，高於6月，但仍將處於今年較低水平。美國勞工統計局本週二公佈的資料則顯示，勞動力市場基本穩定，裁員規模仍然有限。
+
+---
+
+### 2026-08-07 15:46:56  #公司
+
+【京基智農：7月商品肥豬銷量13.79萬頭，銷售收入2.04億元】京基智農公告，2026年7月銷售商品肥豬13.79萬頭，銷售收入2.04億元，商品肥豬銷售均價11.93元/kg；2026年1-7月累計銷售商品肥豬125.87萬頭，累計銷售收入17.01億元。
+
+---
+
+### 2026-08-07 15:46:43  #宏觀 #市場
+
+【財政部擬發行2026年超長期特別國債（六期）】據財政部8月7日訊息，財政部擬發行2026年超長期特別國債（六期）。本期國債為30年期固定利率附息債。本期國債競爭性招標面值總額730億元，不進行甲類成員追加投標。招標時間為2026年8月14日上午10:35至11:35。招標結束至2026年8月17日進行分銷，8月19日起上市交易。
+
+---
+
+### 2026-08-07 15:46:29  #宏觀 #市場
+
+【財政部擬發行2026年記賬式附息（十六期）國債】據財政部8月7日訊息，財政部擬發行2026年記賬式附息（十六期）國債。本期國債為10年期固定利率附息債。本期國債競爭性招標面值總額900億元，進行甲類成員追加投標。招標時間為2026年8月14日上午10:35至11:35。招標結束至2026年8月17日進行分銷，8月19日起上市交易。
+
+---
+
+### 2026-08-07 15:46:13  #國際
+
+特斯拉：FSD Supervised已在歐盟19個國家累計完成220萬公里的訓練與測試，能夠處理絕大多數人一生都遇不到的極端路況。
+
+---
+
+### 2026-08-07 15:45:51  #公司
+
+【葵花葯業：使用5億元閒置資金購買理財產品】葵花葯業公告稱，公司此前決定使用不超20億元閒置自有資金進行現金管理，有效期12個月。近日，公司使用5億元購買理財產品，其中2億元購買招商銀行聚益生金系列公司（35天）B款理財計劃，3億元購買信銀理財安盈象固收穩健兩個月持有期47號理財產品。截至公告日，公司現金管理未到期金額為1.68億元（含本次）。
+
+---
+
+### 2026-08-07 15:45:41  #其他
+
+海力士：為滿足人工智慧領域儲存晶片需求，將在龍仁市和清州市新建晶圓廠。
+
+---
+
+### 2026-08-07 15:45:34  #國際
+
+烏克蘭小麥出口量或從 1760 萬噸降至 830 萬噸。
+
+---
+
+### 2026-08-07 15:44:42  #公司
+
+【公司VPD正式透過三星驗證？聚辰股份回應】針對投資者關於“ 市場傳公司VPD正式透過三星驗證，應用於企業級和CXL，該產品高單價，超高毛利，公司領先對手1年以上，未來隨著三星SSD放量，利潤彈性巨大請問以上資訊是否屬實？ ”的提問，聚辰股份8月7日在互動平臺回應稱，公司VPD晶片已順利透過目標客戶的測試認證，並將搭載在目標客戶的模組樣品上，分發給各終端客戶進行測試驗證。
+
+---
+
+### 2026-08-07 15:44:21  #其他
+
+臺化上半年每股收益2.11元臺幣，上半年營收1,689.0億元臺幣。
+
+---
+
+### 2026-08-07 15:42:55  #國際
+
+烏克蘭尋求歐盟提供2.2億歐元緊急援助，用於幫助農民。
+
+---
+
+### 2026-08-07 15:42:28  #公司
+
+【森林包裝：5098.27萬元競得康恩貝印刷包裝100%股權】森林包裝公告稱，8月6日，公司以5098.27萬元在浙江產權交易所公開競拍，中標康恩貝持有的康恩貝印刷包裝100%股權。截至2025年12月31日，該公司淨資產4443.93萬元，評估價值為5278.27萬元。本次交易不構成關聯及重大資產重組，競拍價佔公司最近一期經審計資產的1.09%，無需提交審議。公司需於8月13日前簽署交易合同，預計對2026年及未來業績影響較小。
+
+---
+
+### 2026-08-07 15:42:06  #公司
+
+【萊斯資訊：聘任孫裔申為公司總經理】萊斯資訊8月7日公告，公司當天召開第六屆董事會第八次會議，審議透過了《關於聘任公司高階管理人員的議案》。經公司董事會提名委員會對高階管理人員候選人任職資格審查，董事會同意聘任孫裔申為公司總經理，任期期限自本次董事會審議透過之日起至公司第六屆董事會任期屆滿之日止。公司常務副總經理程先峰不再代行總經理職責。
+
+---
+
+### 2026-08-07 15:41:37  #公司
+
+【華能水電、通威股份投資成立新能源公司】企查查APP顯示，近日，華能瀾滄江（施甸）新能源有限公司成立，經營範圍包含：電氣裝置修理；電動汽車充電基礎設施運營；新興能源技術研發；風力發電技術服務等。企查查股權穿透顯示，該公司由華能水電全資子公司華能瀾滄江新能源有限公司、通威股份旗下通威智慧能源（四川）有限公司共同持股。
+
+---
+
+### 2026-08-07 15:40:48  #公司
+
+【新疆天業：聘任楊友信、周德立等為公司副總經理】新疆天業8月7日公告，為加強公司經營管理，充實經營管理團隊，公司於2026年8月7日召開2026年第六次臨時董事會審議透過了《關於聘任公司副總經理的議案》。 經公司總經理提名，並經董事會提名委員會進行資格稽核，董事會同意聘任楊友信、周德立、毛明春為公司副總經理，任期自本次董事會審議透過之日起至公司第九屆董事會屆滿之日止。
 
 ---
 
@@ -18436,101 +18592,5 @@ DBS Group CEO says Taiwan's technology, media and telecom sectors and its semico
 ### 2026-08-06 11:38:49  #國際
 
 【大眾員工髮長文《置身眾內》 吐槽中德造車差異】近日，一篇題為《置身眾內》的長文在社交媒體上流傳，該文作者自稱是在上汽大眾工作16年的老員工。作者在文中對大眾的困局進行了剖析，其中包括對比德國總部和中國安亭團隊的差異，德國總部的研發邏輯為：一款全新車型完整開發週期36個月，功能必須經過多輪耐久、極端工況、全球法規驗證、成熟穩定才能投放市場，寧可晚上市半年，絕不投放未完全驗證的功能。思考的底層邏輯是全球穩定存量市場、百年品牌穩健運營。 而中方安亭團隊面對的現實：中國市場智慧電車迭代週期壓縮至6到12個月，競品半年就能迭代一次座艙、智駕功能，使用者每個季度都會換新評判標準。我們晚半年上新功能，細分市場份額就會被競品徹底蠶食，面臨的是生存爭奪戰。
-
----
-
-### 2026-08-06 11:38:22  #公司
-
-【遠景科技集團：智算中心星河基地投產 規劃總容量2GW】記者從遠景科技集團獲悉，公司的大規模智算中心“遠景烏蘭察布星河基地”已正式投產，基地綠電直連比例超80%，總建築體量12萬平方米。據悉，該基地總規劃容量達2GW，是遠景戈壁使命計劃落地的首個專案。 (財聯社)
-
----
-
-### 2026-08-06 11:36:34  #MKT News #Market Regions #Japan & APAC
-
-Japan's 30-year government bond auction bid-cover ratio was 3.86, down from 4.55 in July.
-
----
-
-### 2026-08-06 11:36:28  #Trading Economics #Economy #Fiji #Inflation Rate #Importance 1
-
-Fiji Inflation Eases to 5.7% from Near 3-Year High — Fiji's annual inflation slowed to 5.7% in July 2026 from 6.1% in June, which was the fastest pace in nearly three years, due to significantly lower fuel prices amid declining international prices. The deceleration was mainly driven by a softer rise in transport prices (11.7% vs 19.3% in June). Inflation also moderated for housing (6.1% vs 7.2%), alcoholic beverages and tobacco (14.3% vs 14.6%), and miscellaneous goods and services (2.7% vs 3.4%), while remaining steady for education (0.4%). Meanwhile, food inflation accelerated to 4.1%, the highest since October 2024. By contrast, prices fell for clothing and footwear (-0.3% vs 0.1%), recreation and culture (-2.4% vs -3.0%), and furnishings, household equipment, and routine household maintenance (-0.6% vs -0.2%). On a monthly basis, the CPI fell 1.1% in July, reversing a 2.8% rise in June and marking the first monthly decline in six months.
-
----
-
-### 2026-08-06 11:35:53  #市場 #國際
-
-日本30年期國債拍賣投標倍數為3.86，低於7月上一期拍賣的4.55。
-
----
-
-### 2026-08-06 11:34:55  #焦點 #國際
-
-【是否追究金容範引入槓桿ETF責任？青瓦臺：應優先關注市場並採取對策】韓國總統府公共關係和溝通高階秘書成基鴻6日回應了外界要求就推出單一股票槓桿ETF一事追究總統辦公室政策室長金容範責任的呼聲。他表示：“目前更重要的是密切關注市場，並制定相應對策。”成基鴻當天在接受採訪時表示：“房地產市場和股票市場都存在較高波動性，對民生的影響也非常大，”並還補充道，“總統府全體官員都正在細緻審視每一種情況，並研究如何制定相關措施。”（第一財經）
-
----
-
-### 2026-08-06 11:31:29  #市場
-
-【午評：創業板指衝高回落跌0.67%，貴金屬、煤炭開採加工板塊漲幅居前】三大指數早盤漲跌不一，截至午盤，上證指數漲0.01%，深證成指跌0.52%，創業板指跌0.67%，北證50跌0.38%，科創50指數跌0.16%。全市場成交額17651億元，較上日放量626億元，全市場超3700只個股下跌。板塊題材上，電子化學品、貴金屬、煤炭開採加工、元件、通訊裝置板塊漲幅居前；教育、汽車整車、電力、證券、港口航運板塊跌幅居前。盤面上，貴金屬板塊高開低走，漲幅收窄，招金黃金漲超5%，山金國際、西部黃金、興業銀錫漲幅居前。電子化學品板塊低開高走，江化微漲停，中巨芯盤中觸及20cm漲停，宏和科技、華特氣體、中船特氣漲幅居前。煤炭開採加工板塊震盪走高，昊華能源漲停，淮北礦業、晉控煤業、潞安環能漲幅居前。教育板塊集體回撥，凱文教育、中公教育領跌板塊，全通教育、傳智教育、昂立教育跌幅居前。汽車整車板塊持續走低，北汽藍谷、眾泰汽車、江淮汽車跌幅居前。
-
----
-
-### 2026-08-06 11:31:21  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
-
-【China index futures morning close】China index futures morning close: CSI 300 (IF) main contract -0.43%; SSE 50 (IH) main contract -0.36%; CSI 500 (IC) main contract -0.35%; CSI 1000 (IM) main contract +0.08%.
-
----
-
-### 2026-08-06 11:31:18  #MKT News
-
-【China government bond futures morning close】2-year (TS) main contract +0.01%; 5-year (TF) main contract -0.01%; 10-year (T) main contract -0.04%; 30-year (TL) main contract -0.11%.
-
----
-
-### 2026-08-06 11:30:42  #MKT News #Important #Commodities #Precious Metals #Industrial Metals #Energy #Market Regions #Greater China #XAUUSD #Impact bullish
-
-At the morning close, China’s main futures contracts were mostly higher. Shanghai gold and silver gained over 3%, red dates and iron ore rose more than 2%, coke and live hogs climbed about 2%, and platinum and palladium were up over 1%. On the downside, methanol fell more than 3%, propylene nearly 3%, Shanghai nickel, polypropylene contracts, benzene and styrene (EB) dropped over 2%, and liquefied petroleum gas (LPG) was down nearly 2%.
-
----
-
-### 2026-08-06 11:30:04  #市場
-
-【股指期貨早盤收盤】 中證1000指數期貨連續漲0.06%， 滬深300指數期貨連續跌0.45%， 中證500指數期貨連續跌0.36%， 上證50指數期貨連續跌0.38%。
-
----
-
-### 2026-08-06 11:30:03  #市場
-
-【國債期貨早盤收盤】 30年期主力合約跌0.13%， 10年期主力合約跌0.04%， 5年期主力合約跌0.01%， 2年期主力合約基本持平。
-
----
-
-### 2026-08-06 11:30:02  #市場
-
-【商品期貨早盤收盤】黃金連續漲3.71%，白銀連續漲3.15%，甲醇連續跌3.10%，丙烯連續跌2.97%，鐵礦石連續漲2.14%。
-
----
-
-### 2026-08-06 11:28:11  #MKT News #Shennong Seed.SZ #Impact bullish #Qiule Seed.SZ #Jingliang Holdings.SZ
-
-China A-share grain sector rallied intraday; Jinjian Rice Industry hit the daily limit, while Shennong Seed, Qiule Seed, Jingliang Holdings, Xinsai and Dunhuang Seed advanced.
-
----
-
-### 2026-08-06 11:27:32  #公司 #市場
-
-【糧食概念板塊短線拉昇，金健米業漲停】糧食概念板塊短線拉昇，金健米業漲停，神農種業、秋樂種業、京糧控股、新賽股份、敦煌種業等紛紛走高。
-
----
-
-### 2026-08-06 11:24:05  #國際
-
-烏克蘭當地官員稱，俄羅斯對巴拉克利亞發動的襲擊造成三人死亡。
-
----
-
-### 2026-08-06 11:23:36  #MKT News
-
-【Blue House says it will monitor markets, consider measures after single-stock leveraged ETF volatility】South Korea’s presidential office responded to calls to hold policy chief Kim Yong-beom responsible for recent market swings linked to the launch of single-stock leveraged ETFs, saying officials will prioritize close market monitoring and prepare appropriate responses. Communications senior secretary Seong Gi-hong said both the property and equity markets are showing elevated volatility with material effects on households, and that relevant Blue House officials are carefully reviewing situations and cautiously studying potential measures.
 
 ---

@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-10 04:48:23_
-_本檔包含 3021 則快訊，約 600742 字_
+_更新時間：2026-08-10 05:42:52_
+_本檔包含 3015 則快訊，約 601853 字_
+
+---
+
+### 2026-08-04 07:52:25  #宏觀 #市場 #央行 #國際
+
+【美國財長貝森特罕見公開呼籲美聯儲擴大一項流動性工具以助力捍衛日元】美國財政部長斯科特·貝森特呼籲美聯儲擴大日本可用於支撐日元的一項工具，這再次引發外界關注這兩個通常保持獨立運作的機構之間的關係。在美國財政部與日本聯手支撐日元之後，貝森特週日讚揚了美聯儲的外國和國際貨幣當局回購機制(FIMA)，該機制允許外國政府使用其持有的美國國債作為抵押品來獲取美元。在社交媒體的貼文中，貝森特將這項美聯儲工具形容為對日本相關行動起到重要支援作用，並表示“我們將鼓勵在未來幾個月內擴大這項措施的規模”。不過，密切關注美聯儲的人士表示，財政部長很少公開敦促央行對其任何工具進行修改，尤其是一項屬於聯邦公開市場委員會決策許可權範圍內的工具。“這非常不尋常，”前財政部高階官員Mark Sobel表示。“在我那個年代，財政部長們都不願公開談論與美聯儲貨幣操作相關的問題，如果真的有必要，他們會私下與美聯儲主席溝通，在幕後處理此事。”
+
+---
+
+### 2026-08-04 07:52:17  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Edge Higher After Strong Session — US stock futures ticked higher on Tuesday after the major indexes kicked off the week with solid gains, supported by falling oil prices and a strong rally in heavyweight technology stocks. During Monday's regular session, the tech-heavy Nasdaq Composite surged 2.13%, while the S&P 500 and Dow advanced 1.48% and 1.32%, respectively. Megacap technology stocks drove the gains, with Amazon soaring 4.6% to surpass a $3 trillion market capitalization for the first time. Other standout performers included Microsoft (4.9%), Nvidia (2.9%), Meta Platforms (6%), Alphabet (4.9%) and Tesla (3.5%). Investor sentiment was also lifted by a roughly 5% drop in oil prices after President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns over inflation and the outlook for interest rates. Attention now turns to another round of corporate earnings due Tuesday, including results from SpaceX, AMD, Caterpillar, Merck and McDonald’s, among others.
+
+---
+
+### 2026-08-04 07:51:37  #經濟數據 #日本
+
+日本7月基礎貨幣同比下降13.8%，前值-13.70%。
+
+---
+
+### 2026-08-04 07:51:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY #EURUSD #Impact bullish
+
+Japan monetary base YoY -13.8% in July; previous -13.7%.
+
+---
+
+### 2026-08-04 07:50:55  #MKT News #Economic Calendar #Important
+
+Japan | Base money growth rate (YoY) (Jul) | actual -13.8% | previous -13.70%
+
+---
+
+### 2026-08-04 07:50:09  #國際
+
+日本7月基礎貨幣同比 -13.8%，前值 -13.7%。
+
+---
+
+### 2026-08-04 07:49:16  #其他
+
+【黑龍江省呼蘭河發生2026年第1號洪水】受降雨影響，8月4日2時30分，黑龍江省松花江支流呼蘭河秦家水文站（黑龍江省綏化市）水位漲至149.56米，達到警戒水位，依據主要江河洪水編號規定，此次洪水編號為“呼蘭河2026年第1號洪水”。水利部緊盯呼蘭河汛情發展態勢，加強雨水情監測預報預警，提前啟動針對黑龍江省的洪水防禦Ⅳ級應急響應，督促指導地方強化水工程排程，落實落細洪水防禦各項措施，全力維護人民群眾生命財產安全。 目前，水利部工作組正在黑龍江省洪水防禦一線協助指導。
 
 ---
 
@@ -18165,83 +18207,5 @@ WTI原油日內跌6%，現報79.42美元/桶。
 ### 2026-08-03 05:43:24  #焦點 #國際
 
 特朗普談日元：美方之所以干預，是因為美國與日本關係良好。
-
----
-
-### 2026-08-03 05:42:21  #國際
-
-特朗普談伊朗：我們隨時可採取行動。
-
----
-
-### 2026-08-03 05:42:10  #國際
-
-特朗普：如果沒有中止對伊朗的行動，那將是一場規模巨大的襲擊。
-
----
-
-### 2026-08-03 05:41:47  #國際
-
-特朗普：伊朗曾“強烈”要求我推遲襲擊。
-
----
-
-### 2026-08-03 05:41:37  #焦點 #國際
-
-特朗普：與伊朗的對話明天下午開始。
-
----
-
-### 2026-08-03 05:41:26  #焦點 #國際
-
-特朗普談及伊朗問題：（相關活動）將於明日下午開始。
-
----
-
-### 2026-08-03 05:41:20  #焦點 #國際
-
-特朗普談及伊朗問題：將以談判形式與伊方對話。
-
----
-
-### 2026-08-03 05:41:15  #焦點 #國際
-
-特朗普談伊朗：霍爾木茲海峽問題已達成協議，去核化問題也將達成協議。
-
----
-
-### 2026-08-03 05:38:50  #公司
-
-【業內預計可轉債全年發行規模有望突破千億元】隨著2026年再融資新規最佳化落地，疊加存量可轉債集中退出形成的市場供給缺口，A股可轉債市場迎來密集發行視窗期，一級市場供給節奏明顯加快。Wind資料顯示，以發行公告日為統計口徑，截至8月2日，2026年以來已有48只可轉債公開發行，累計募資規模達573.32億元，同比顯著增長。
-
----
-
-### 2026-08-03 05:20:12  #宏觀
-
-【多地拓寬公積金使用範圍 適配多元住房消費需求】近日，國務院常務會議審議透過《國務院關於修改〈住房公積金管理條例〉的決定（草案）》，明確指出要更好發揮住房公積金功能作用，拓寬提取和使用範圍，擴大制度覆蓋面，提升管理服務效能，更好滿足居民多樣化住房消費需求。在業內人士看來，住房公積金制度從過去單一的“購房融資工具”，加速轉型為覆蓋房屋“購、租、修、養”全生命週期的綜合性住房保障與民生支援平臺。
-
----
-
-### 2026-08-03 05:16:03  #國際
-
-俄羅斯表示烏克蘭再度嘗試襲擊扎波羅熱核電站。
-
----
-
-### 2026-08-03 04:56:39  #國際
-
-美國參議員舒默就臨時撥款法案表態：今日公佈的持續決議案是穩妥可行的方案。
-
----
-
-### 2026-08-03 04:56:23  #MKT News
-
-SCHUMER said the continuing resolution released today is the responsible choice.
-
----
-
-### 2026-08-03 04:49:06  #國際
-
-以色列國防部長：我們在加沙設立安全區，範圍覆蓋加沙地帶50%至60%以上區域。該區域內所有設施均已摧毀，這是我方既定政策。區內房屋不復存在，威脅也隨之消除。
 
 ---
