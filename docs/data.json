@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09 10:39:40",
-  "count": 15948,
+  "updated": "2026-08-09 10:43:33",
+  "count": 15949,
   "items": [
+    {
+      "id": "5032258",
+      "time": "2026-08-09 10:42:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技中一簽需繳款7.54萬元】根據安排，A股人形機器人第一股宇樹科技8月10日將開啟網上、網下申購。該公司股票的發行價格為150.80元/股，網上申購程式碼為“787836”，中一簽（500股）需繳款7.54萬元。 市場人士表示，若宇樹科技上市首日漲幅超過100%，投資者中一簽的盈利將超過7.5萬元；若上市首日漲幅超過200%，投資者中一簽的盈利將高達15萬元。 有券商指出，中長期來看，宇樹登陸A股有望牽引更多長期資金系統性配置人形機器人賽道。（券商中國）"
+    },
+    {
+      "id": "mkt:019fe465-f775-7aab-8fc7-d242d6074ed7",
+      "time": "2026-08-09 10:41:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Central Meteorological Observatory issues red typhoon warning】At 1000 CST on the 9th China's Central Meteorological Observatory upgraded its typhoon alert to red for Typhoon No.13 Baihaitun (White Dolphin). The center was at 27.9°N, 122.9°E — about 215 km east of Wenzhou in the southern East China Sea — with maximum winds near the center of 45 m/s (equivalent to 14 on the Chinese scale) and central pressure 950 hPa. Wind radii: 7-level 300–450 km, 10-level 200–250 km, 12-level 100 km. Baihaitun is moving westward at 20–25 km/h with little change in intensity forecast and is expected to make landfall along the coast between Zhoushan (Zhejiang) and Fuding (Fujian) between the evening of the 9th and early hours of the 10th, with landfall winds of 38–45 m/s (13–14); the storm should move west‑northwest inland and gradually weaken after landfall."
+    },
     {
       "id": "5032257",
       "time": "2026-08-09 10:38:06",
@@ -145311,14 +145327,6 @@
         "其他"
       ],
       "text": "【嫩江支流甘河發生2026年第1號洪水】受降雨影響，黑龍江省嫩江支流甘河加格達奇水文站（黑龍江省大興安嶺地區）8月2日9時水位漲至警戒水位（371.68米），依據主要江河洪水編號規定，此次洪水編號為“甘河2026年第1號洪水”。（中國水利）"
-    },
-    {
-      "id": "5020649",
-      "time": "2026-08-02 10:43:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "加密貨幣交易平臺交易的原油永續合約目前下跌5%。"
     }
   ]
 }
