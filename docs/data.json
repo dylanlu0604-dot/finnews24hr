@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-09 22:17:47",
-  "count": 16004,
+  "updated": "2026-08-09 22:21:52",
+  "count": 16003,
   "items": [
+    {
+      "id": "5032595",
+      "time": "2026-08-09 22:19:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 隨著 Oura、谷歌、Whoop 等廠商開啟可穿戴裝置新時代，蘋果正考慮對 Apple Watch 進行重大調整。今年的機型將主要聚焦效能，以及健康、健身追蹤功能的最佳化，會推出 Ultra 4 以及 Series 12 版本。重大產品改動至少還要再等一年及以上才會落地。"
+    },
+    {
+      "id": "5032594",
+      "time": "2026-08-09 22:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列在約旦河西岸進一步實施猶太定居點建設】近日，以色列在約旦河西岸進一步實施猶太定居點建設。近年來，以色列連續批准在約旦河西岸擴大定居點計劃，遭到國際社會的廣泛批評。以色列在包括東耶路撒冷、約旦河西岸在內的巴勒斯坦被佔領土上進行的猶太人定居點活動被認為是阻礙巴以問題獲得解決的主要障礙之一。（新華社）"
+    },
     {
       "id": "mkt:019fe6e1-b100-7aab-8fca-4b85ea11b10f",
       "time": "2026-08-09 22:16:18",
@@ -145732,30 +145748,6 @@
         "Impact mixed"
       ],
       "text": "【Analyst: Chip rebound possible after selloff but unlikely to lead next bull phase】Valueworks CIO Charles Lemonides said a strong rebound in chip stocks after this selloff would not be surprising, but they are unlikely to lead the next phase of a bull market because they have already had their run. He noted Amazon and Microsoft last week reiterated commitments to spend hundreds of billions of dollars on AI over the next year, much of it for data-center chips, but said the ensuing fundamentals are in doubt. Chip names, especially storage-focused firms, are highly cyclical and prone to boom‑and‑bust demand swings; many on Wall Street expect this cycle to be no different. Lemonides called the recent earnings surge unsustainable and flagged margin reversion toward historical norms as the key risk — the question is when that reversion occurs and how markets will price it."
-    },
-    {
-      "id": "5020936",
-      "time": "2026-08-02 22:21:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上海新房價格漲幅領跑全國，1至7月深圳商務公寓網籤銷售量增超60%】資料顯示，7月，上海商品住宅（不含保障性住房）成交套數2796套，新建住宅價格環比上漲0.96%，漲幅居全國第一。上海土拍市場今年也維持較高熱度，四次出現溢價率突破35%的地塊。業內人士表示，核心地塊的高溢價成交凸顯上海核心區域的長期價值，土地市場的熱度有望進一步提振購房者的入市信心。 7月，深圳樓市也延續了春季的活躍態勢。深圳市住建局資料顯示，7月深圳全市新建商品住宅網籤銷售3529套，同比增長32.7%；深圳全市二手住宅網籤銷售4795套，同比增長3%，約佔商品住宅成交總量六成。今年1至7月，全市一、二手商務公寓網籤銷售近6978套，同比增長60.6%。"
-    },
-    {
-      "id": "5020935",
-      "time": "2026-08-02 22:19:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電網：多地用電負荷連創歷史新高 多措並舉保供電】受近期大範圍高溫天氣影響，國家電網公司經營區域多地用電負荷連創歷史新高。7月27日至31日，華北、東北2個區域電網，天津、冀北、江蘇、遼寧、蒙東5個省級電網負荷屢創新高。公司始終將電力保供作為首要政治任務，充分發揮大電網大市場優勢，高效運用跨省跨區輸電通道，積極開展餘缺互濟、時空互補，保障電網安全穩定執行與電力可靠供應。各單位壓緊壓實保供責任，全面落實迎峰度夏電力保供6方面24項工作要點，合理安排電網執行方式，強化各級電網運維保障，全力以赴保障經濟社會發展和民生用電需要。"
-    },
-    {
-      "id": "mkt:019fc2d6-fbdb-7aab-8f47-3d9a91adf50b",
-      "time": "2026-08-02 22:18:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Saudi foreign minister speaks with Qatar prime minister by phone】On Sunday Qatar's prime minister and foreign minister phoned Saudi Arabia's foreign minister to discuss bilateral cooperation and recent regional developments. They agreed on coordinated diplomatic efforts to reduce tensions and bolster regional security. Qatar urged commitment to dialogue and to implementing the consensus reached between the US and Iran, including steps to ensure freedom of navigation through the Strait of Hormuz. Qatar reiterated firm support for efforts to de-escalate and negotiate a comprehensive agreement to secure sustainable regional peace."
     }
   ]
 }
