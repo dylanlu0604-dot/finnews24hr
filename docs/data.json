@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-10 00:32:38",
-  "count": 16004,
+  "updated": "2026-08-10 00:36:31",
+  "count": 16003,
   "items": [
+    {
+      "id": "mkt:019fe75e-4513-7aab-8fca-eaef502333d4",
+      "time": "2026-08-10 00:32:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath quoted Yemen's National Resistance Forces saying the Houthi movement is an Iranian proxy whose decision-making is controlled by Iran. The group said the Houthis seek to serve Iran by creating chaos and escalating tensions to relieve external pressure, called the Houthis a \"war instrument\" rather than a tool for peace and said peace with them is impossible, and warned their adventurism will not be tolerated."
+    },
     {
       "id": "5032629",
       "time": "2026-08-10 00:30:57",
@@ -145734,28 +145746,6 @@
         "Brent"
       ],
       "text": "Iran foreign ministry spokesman said talks with Oman are bilateral and do not involve other parties, and reiterated that the situation in the Strait of Hormuz will not return to its pre-war state."
-    },
-    {
-      "id": "mkt:019fc355-6858-7aab-8f47-a9f3a7ae66f3",
-      "time": "2026-08-03 00:36:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign minister said talks with Oman on the Strait of Hormuz have entered their final stage."
-    },
-    {
-      "id": "5020975",
-      "time": "2026-08-03 00:34:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外長阿拉格齊：與阿曼談判即將敲定】在今日伊朗內閣會議伊始，外交部長阿拉格齊彙報了伊朗與阿曼談判的最新進展。他談及會談取得的成果，並表示談判步入收官階段，有望達成最終協議。"
     }
   ]
 }

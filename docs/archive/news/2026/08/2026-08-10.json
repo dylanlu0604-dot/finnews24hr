@@ -1,7 +1,19 @@
 {
   "date": "2026-08-10",
-  "count": 12,
+  "count": 13,
   "items": [
+    {
+      "id": "mkt:019fe75e-4513-7aab-8fca-eaef502333d4",
+      "time": "2026-08-10 00:32:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath quoted Yemen's National Resistance Forces saying the Houthi movement is an Iranian proxy whose decision-making is controlled by Iran. The group said the Houthis seek to serve Iran by creating chaos and escalating tensions to relieve external pressure, called the Houthis a \"war instrument\" rather than a tool for peace and said peace with them is impossible, and warned their adventurism will not be tolerated."
+    },
     {
       "id": "5032629",
       "time": "2026-08-10 00:30:57",
