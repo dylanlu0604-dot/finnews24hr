@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-10 03:21:34",
+  "updated": "2026-08-10 03:25:32",
   "count": 15950,
   "items": [
+    {
+      "id": "5032656",
+      "time": "2026-08-10 03:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。兩架飛機均被安全護送出該區域，未發生其他意外事件。"
+    },
+    {
+      "id": "mkt:019fe7fa-2710-7aab-8fcb-72c926bdf11d",
+      "time": "2026-08-10 03:22:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reported Iran convened the Economic Relations Coordination Council to discuss the role of northern ports in securing supplies of essential commodities."
+    },
     {
       "id": "mkt:019fe7f8-3df5-7aab-8fcb-6b36ddac91a5",
       "time": "2026-08-10 03:20:33",
@@ -145265,25 +145281,6 @@
         "市場"
       ],
       "text": "悉尼早盤交易中，美元兌大多數G10貨幣走低。"
-    },
-    {
-      "id": "5021034",
-      "time": "2026-08-03 03:24:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿斯利康與百時美施貴寶洽談合併事宜】知情人士稱，阿斯利康與百時美施貴寶已展開談判，商討兩家藥企合併為單一實體的交易。談判在近數月進行，交易仍存在破裂風險，報道未披露潛在交易的架構細節。阿斯利康是倫敦證券交易所大型上市企業之一，截至上週五市值1960億英鎊（摺合2640億美元）。百時美施貴寶市值1330億美元，若達成交易，將助力阿斯利康進一步紮根美國市場。"
-    },
-    {
-      "id": "mkt:019fc3ee-1241-7aab-8f48-e7377f0adf09",
-      "time": "2026-08-03 03:23:07",
-      "tags": [
-        "MKT News",
-        "AZN.L",
-        "Impact bullish",
-        "BMY.O"
-      ],
-      "text": "【AstraZeneca in talks with Bristol Myers Squibb on near $400 bln merger】Financial Times: AstraZeneca is exploring a merger with U.S. peer Bristol Myers Squibb that would create one of the world’s largest drugmakers with a combined market value near $400 bln. The companies have held talks in recent months and could reach an agreement soon, but negotiations may also be delayed or collapse. AstraZeneca’s market cap is about £196 bln; Bristol Myers Squibb’s is about $133 bln. The transaction would further accelerate AstraZeneca’s strategic shift toward the U.S. market."
     }
   ]
 }

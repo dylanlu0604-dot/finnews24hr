@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 55,
+  "count": 57,
   "items": [
+    {
+      "id": "5032656",
+      "time": "2026-08-10 03:23:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。兩架飛機均被安全護送出該區域，未發生其他意外事件。"
+    },
+    {
+      "id": "mkt:019fe7fa-2710-7aab-8fcb-72c926bdf11d",
+      "time": "2026-08-10 03:22:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reported Iran convened the Economic Relations Coordination Council to discuss the role of northern ports in securing supplies of essential commodities."
+    },
     {
       "id": "mkt:019fe7f8-3df5-7aab-8fcb-6b36ddac91a5",
       "time": "2026-08-10 03:20:33",
