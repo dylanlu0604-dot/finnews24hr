@@ -1,7 +1,419 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 13:15:02_
-_本檔包含 3347 則快訊，約 602467 字_
+_更新時間：2026-08-09 14:24:14_
+_本檔包含 3378 則快訊，約 603148 字_
+
+---
+
+### 2026-08-05 04:42:04  #其他
+
+馬斯克：往後我們決定完全基於英偉達開展技術搭建。
+
+---
+
+### 2026-08-05 04:41:26  #其他
+
+馬斯克：人工智慧與機器人技術將大幅提升頻寬需求。
+
+---
+
+### 2026-08-05 04:41:18  #其他
+
+馬斯克：我們在Grok上正取得快速進展。
+
+---
+
+### 2026-08-05 04:41:07  #其他
+
+馬斯克：GROK 4.6 可能下週推出。
+
+---
+
+### 2026-08-05 04:41:02  #MKT News
+
+Elon Musk says Grok 4.6 is expected to be released next week.
+
+---
+
+### 2026-08-05 04:40:56  #公司
+
+Pinterest執行長：藉助開放模型，我們實現的每筆交易成本不到同類封閉專有模型成本的8%。
+
+---
+
+### 2026-08-05 04:40:25  #MKT News #Market Themes #AI Revolution
+
+Musk said they have made rapid progress on Grok.
+
+---
+
+### 2026-08-05 04:40:07  #焦點 #國際
+
+【美國導彈庫存接近臨界水平】據訊息人士稱，自伊朗戰爭爆發以來，美國已消耗近80%的薩德攔截彈以及約50%的愛國者導彈。美軍高階指揮官警告，五角大樓導彈庫存已處於“危險低位”，引發外界對美軍應對未來衝突戰備能力的擔憂。依賴美國防空體系的海灣國家盟友同樣擔心，導彈短缺或將削弱其抵禦伊朗潛在導彈與無人機襲擊的防護能力。
+
+---
+
+### 2026-08-05 04:39:41  #其他
+
+馬斯克：星鏈在10年內為全球大部分地區提供網際網路服務“並非不可能”。
+
+---
+
+### 2026-08-05 04:39:11  #國際
+
+美國國防部長赫格塞思與副部長範伯格週二上午向參議院共和黨議員舉行涉密簡報會。
+
+---
+
+### 2026-08-05 04:38:07  #其他
+
+馬斯克：SpaceX預計發射的V3衛星數量將比V2多一個數量級。
+
+---
+
+### 2026-08-05 04:37:49  #其他
+
+馬斯克：星鏈V3衛星的能力比V2高出一個數量級。
+
+---
+
+### 2026-08-05 04:37:12  #MKT News #TSLA.O #Impact mixed
+
+Musk said we encourage competitors to copy us.
+
+---
+
+### 2026-08-05 04:37:11  #MKT News
+
+Musk said SpaceX’s Starship aims to carry more than 1 mln tonnes of payload to orbit annually, with potential to reach 10 mln tonnes over time.
+
+---
+
+### 2026-08-05 04:37:01  #其他 #焦點
+
+馬斯克：星艦目標是每年向軌道輸送100萬噸以上載荷，目標上限或可達1000萬噸。
+
+---
+
+### 2026-08-05 04:36:55  #公司
+
+Pinterest執行長：我們平臺上超過96%的文字搜尋是非品牌搜尋。
+
+---
+
+### 2026-08-05 04:36:15  #其他
+
+馬斯克：SpaceX今年迄今又迎來一個里程碑年份。
+
+---
+
+### 2026-08-05 04:36:10  #MKT News
+
+Musk said SpaceX will launch the first batch of Starlink V3 satellites into orbit on the next Starship flight.
+
+---
+
+### 2026-08-05 04:35:58  #公司
+
+馬斯克：公司將在下一次星艦飛行中，將首批V3版星鏈衛星送入軌道。
+
+---
+
+### 2026-08-05 04:35:44  #MKT News #Important
+
+Musk said he will attempt to recover both the first and second stages of Starship V3 this year and may succeed on the next flight.
+
+---
+
+### 2026-08-05 04:35:39  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Gilead Sciences earnings above expectations at -6.75 USD — Gilead Sciences (GILD) released earnings per share at -6.75 USD, compared to market expectations of -7.32 USD.
+
+---
+
+### 2026-08-05 04:35:15  #公司
+
+【SpaceX公佈上市以來首份財報 營收超出華爾街預期】SpaceX公佈其6月轟轟烈烈上市後的首份季報，其中營收超過了華爾街的預期。伊隆·馬斯克旗下這個集衛星、太空和人工智慧等業務為一體的公司週二公佈78億美元的營收，而彭博調查的分析師平均預估為68.1億美元。該公司還公佈，其人工智慧業務產生了12.6億美元的經營虧損，好於虧損23.9億美元的市場共識。 SpaceX公佈這份備受期待的財報前，該公司自融資860億美元以來股價經歷了過山車式的變動。該股在後IPO震盪及人工智慧板塊的全球拋售潮中重挫，市值從峰值蒸發逾1萬億美元，也讓馬斯克失去了世界首富之位。
+
+---
+
+### 2026-08-05 04:35:15  #MKT News
+
+A senior US State Department official said the visa of a senior Brazilian diplomat posted in Washington has been revoked and will be reinstated if the matter is resolved.
+
+---
+
+### 2026-08-05 04:35:05  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 1.71% Higher — The Dow Jones Index gained 908 points or 1.71 percent on Tuesday to close at 54086 points. Gains were led by Caterpillar (5.97%), Cisco Systems (5.11%) and IBM (3.91%).
+
+---
+
+### 2026-08-05 04:34:46  #MKT News
+
+Musk said this year is another milestone for SpaceX.
+
+---
+
+### 2026-08-05 04:34:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US Energy Secretary Wright said an extension of the Jones Act waiver is likely; the waiver has already pushed down energy prices in California and on the US East Coast.
+
+---
+
+### 2026-08-05 04:32:03  #公司
+
+【SpaceX營收超預期 千億解禁潮本週將至】SpaceX釋出Q2營收（78億美元），業績超出華爾街預期（68億美元）。該公司此前透過史上規模最大的IPO募資860億美元，此後股價因IPO後波動及AI板塊整體拋售而大幅下挫，從峰值蒸發了超過1萬億美元市值，馬斯克全球首位萬億富豪的地位也隨之喪失。為該公司增添不確定性的另一因素是，本週晚些時候將有逾1000億美元市值的股票解禁，可能給股價帶來進一步下行壓力。在電話會議上，分析師很可能就公司龐大的AI支出、Starlink網際網路業務的擴張計劃，以及星艦能以多快速度發射衛星和載人等問題，向馬斯克追問細節。
+
+---
+
+### 2026-08-05 04:31:56  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US Energy Secretary Wright says fuel prices should fall in coming weeks.
+
+---
+
+### 2026-08-05 04:31:46  #國際
+
+美國能源部長賴特：《瓊斯法案》豁免期延長可能性較大，此舉已促使加利福尼亞州及美國東海岸能源價格下降。
+
+---
+
+### 2026-08-05 04:30:56  #國際
+
+卡達：一份霍爾木茲海峽臨時協議草案已經擬定；美國與伊朗官員釋放樂觀訊號，特朗普同卡達埃米爾討論局勢緩和，伊朗方面考慮允許歐洲國家在該海峽開展排雷作業。
+
+---
+
+### 2026-08-05 04:30:32  #國際
+
+美國能源部長賴特：未來幾周燃料價格應該會回落。
+
+---
+
+### 2026-08-05 04:30:13  #國際
+
+特朗普：美國的彈藥儲備遠遠超過所需。
+
+---
+
+### 2026-08-05 04:29:54  #公司 #市場 #焦點 #國際
+
+【 SpaceX二季度財報核心亮點】
+1. 總營收78億美元，去年同期41億美元，同比增長92%；
+2. 淨虧損5.41億美元，較去年同期10億美元淨虧損收窄4.67億美元；
+3. 調整後息稅折舊攤銷前利潤35億美元，去年同期12億美元，同比增長191%；
+4. 航天、衛星互聯、人工智慧三大業務板塊營收同比漲92%；
+5. 過去90天完成兩次第三代星艦試飛；
+6. 簽署多項行業頭部雲服務合作協議，新增合約銷售額141億美元；
+7. 宣佈以600億美元收購Cursor；
+8. 7月推出旗下人工智慧大模型Grok 4.5；
+9. 衛星互聯板塊營收同比增長66%、營業利潤同比提升79%；核心驅動力為星鏈使用者數量翻倍；
+10. 星盾業務獲超60億美元美國政府多年期合同。
+
+---
+
+### 2026-08-05 04:25:42  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Prudential Financial earnings above expectations at 4.08 USD — Prudential Financial (PRU) released earnings per share at 4.08 USD, compared to market expectations of 3.35 USD.
+
+---
+
+### 2026-08-05 04:23:49  #國際
+
+Stonex預計，2026年美國玉米產量將達到161.6億蒲式耳，單產為每英畝184.8蒲式耳。
+
+---
+
+### 2026-08-05 04:23:26  #國際
+
+伊朗胡齊斯坦省副省長否認了沙拉姆切口岸附近發生爆炸的相關報道。
+
+---
+
+### 2026-08-05 04:23:05  #公司 #國際
+
+【三星探索記憶體新技術：垂直堆疊於AI加速器之上 密度超傳統HBM5十倍】三星電子在美國加州聖克拉拉舉行的未來儲存與記憶體大會（FMS）上推出其V10 Bonding V-NAND，即BV-NAND原型產品。該晶片擁有超過400層結構，並採用全新的晶圓鍵合架構，以提高儲存密度並增強效能。三星表示，其BV-NAND技術較上一代V9 NAND將儲存密度提高約58%，同時提升讀取、寫入以及輸入/輸出效能，以滿足人工智慧系統對更高容量、更高能效儲存解決方案日益增長的需求。三星還展示了其稱業界首款zHBM和zNAND-O架構概念模型。該技術透過垂直堆疊儲存單元，在更小空間記憶體儲更多資料。不同於傳統HBM與AI處理器並列封裝的方式，三星的zHBM會將儲存垂直堆疊於AI加速器之上，以縮短資料傳輸距離，提高頻寬，同時提升能源效率。三星表示，其晶圓鍵合技術有望實現超過傳統HBM5記憶體10倍的儲存密度，同時將能源效率提高3倍，並將熱阻降低一半以上。
+
+---
+
+### 2026-08-05 04:22:43  #MKT News #Important #Market Themes #AI Revolution
+
+【Samsung unveils BV‑NAND prototype; proposes vertically stacked zHBM for AI, claims >10x HBM5 density】At the Future Memory & Storage conference in Santa Clara on Aug. 4, Samsung Electronics introduced a V10 Bonding V‑NAND (BV‑NAND) prototype with more than 400 layers using a new wafer‑bonding architecture. Samsung says BV‑NAND increases storage density about 58% versus its V9 NAND while improving read, write and I/O performance to address AI system demand for higher‑capacity, more energy‑efficient memory. The company also presented concept models for zHBM and zNAND‑O that vertically stack memory on top of AI accelerators rather than beside them, shortening data paths, boosting bandwidth and improving power efficiency. Samsung says its wafer‑bonding approach could deliver more than 10x the density of conventional HBM5, roughly 3x the energy efficiency and over 50% lower thermal resistance.
+
+---
+
+### 2026-08-05 04:22:09  #公司 #市場 #焦點
+
+AMD財報釋出後，戴爾、MARVELL和英特爾的股價均跟隨AMD股價下跌。
+
+---
+
+### 2026-08-05 04:21:40  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+EOG Resources earnings above expectations at 5.07 USD — EOG Resources (EOG) released earnings per share at 5.07 USD, compared to market expectations of 5.00 USD.
+
+---
+
+### 2026-08-05 04:21:31  #其他
+
+SpaceX：第二季度AI業務板塊資本開支158.3億美元，市場預期130.9億美元。
+
+---
+
+### 2026-08-05 04:20:05  #MKT News #Important #WTI #Impact mixed
+
+API report on U.S. crude inventories for the week to July 31 due in 10 minutes.
+
+---
+
+### 2026-08-05 04:19:25  #市場 #焦點
+
+SPACEX在公佈業績後盤後跌幅擴大至8.5%。
+
+---
+
+### 2026-08-05 04:19:02  #其他
+
+AMD：第二季度資本支出8.08億美元，預估2.986億美元。
+
+---
+
+### 2026-08-05 04:18:50  #其他
+
+AMD：第二季度研發支出25.3億美元，預估24.5億美元。
+
+---
+
+### 2026-08-05 04:18:32  #其他
+
+SpaceX：約56%的積壓訂單預計在一年內確認收入，約34%預計在1至3年內確認收入。
+
+---
+
+### 2026-08-05 04:18:26  #MKT News #Important #AMD.O #Impact bearish #SPCX.O
+
+Following earnings releases, AMD (AMD.O) and SpaceX (SPCX.O) shares each fell about 8% in U.S. after-hours trading.
+
+---
+
+### 2026-08-05 04:18:04  #MKT News #Important #Market Themes #Chip Wars #AMD.O #Impact bullish
+
+AMD (AMD.O) expects Q3 2026 revenue of $12.7-13.3 bln, vs. consensus $12.51 bln.
+
+---
+
+### 2026-08-05 04:17:56  #其他
+
+AMD預計第三季度經調整毛利率大約56％，預估56.2％。
+
+---
+
+### 2026-08-05 04:17:50  #其他
+
+AMD預計第三季營收在127億至133億美元，市場預估為125.1億美元。
+
+---
+
+### 2026-08-05 04:17:37  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Advanced Micro Devices earnings above expectations at 1.66 USD — Advanced Micro Devices (AMD) released earnings per share at 1.66 USD, compared to market expectations of 1.60 USD.
+
+---
+
+### 2026-08-05 04:17:28  #公司 #市場 #焦點
+
+AMD股價在第二季度財報釋出後下跌8%。
+
+---
+
+### 2026-08-05 04:16:48  #其他
+
+AMD：預計2026年下半年資料中心銷售將加速增長。
+
+---
+
+### 2026-08-05 04:16:40  #其他
+
+AMD第二季調整後每股收益1.66美元，IBES預估為1.62美元。
+
+---
+
+### 2026-08-05 04:16:35  #其他
+
+AMD第二季度資料中心部門營收為67億美元。
+
+---
+
+### 2026-08-05 04:16:29  #其他 #焦點
+
+AMD第二季度營收為115.4億美元，市場分析師一致預期（IBES）為112.8億美元。
+
+---
+
+### 2026-08-05 04:16:26  #MKT News #Important
+
+AMD (AMD.O) reported Q2 2026 revenue of $11.5 bln, above the $11.284 bln market estimate and up from $7.685 bln a year earlier.
+
+---
+
+### 2026-08-05 04:16:01  #MKT News #SPCX.O
+
+SpaceX (SPCX.O) fell more than 5% in after-hours trading.
+
+---
+
+### 2026-08-05 04:15:40  #宏觀 #國際
+
+美國國務院一名高階官員稱，若局勢得到解決，駐華盛頓的巴西高階外交官簽證將予以恢復。
+
+---
+
+### 2026-08-05 04:15:31  #焦點 #國際
+
+特朗普：隨著國防生產的增長，我們將向盟友提供更多國防物資。
+
+---
+
+### 2026-08-05 04:14:18  #宏觀 #國際
+
+美國國務院稱，美國撤銷了巴西大使的簽證。
+
+---
+
+### 2026-08-05 04:12:52  #其他
+
+SpaceX：第二季度星鏈每使用者平均收入為66美元。
+
+---
+
+### 2026-08-05 04:12:22  #其他 #焦點
+
+SpaceX：截至6月30日，SpaceX持有18712枚比特幣。
+
+---
+
+### 2026-08-05 04:12:10  #公司 #市場
+
+【SpaceX期權交易量激增，330美元看漲期權領漲】交易所資料顯示，紐約時間下午4點10分，太空探索技術公司期權交易量達到152萬份合約。看漲期權成交量813040份，看跌期權成交量711668份。2026年8月7日到期、行權價330美元看漲期權成交82360份合約；未平倉合約547933份。
+
+---
+
+### 2026-08-05 04:11:41  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Arista Networks earnings above expectations at 1.02 USD — Arista Networks (ANET) released earnings per share at 1.02 USD, compared to market expectations of 0.88 USD.
+
+---
+
+### 2026-08-05 04:11:12  #其他
+
+SpaceX目前預計Cursor合併交易將在第三季度完成。
+
+---
+
+### 2026-08-05 04:11:05  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Wall Street Reaches New Highs — US stock indices closed higher on Tuesday amid growing optimism that the US and Iran could reach an agreement to reopen the Strait of Hormuz. The S&P 500 rose 1.8% to a record close of 7,736, while the Dow added 907 points to finish at an all-time high of 54,086. The Nasdaq 100 also gained 3.3%. Hopes for an interim agreement gained momentum after Qatar said a proposal had been drafted and US officials expressed optimism about the talks. Lower fuel and natural gas prices eased inflation concerns, helping Treasury yields extend their decline. Palantir soared 29.4% after raising its guidance on strong commercial sales, while Caterpillar gained 5.4% after beating earnings estimates. AI hyperscalers extended yesterday's gains, Alphabet and Microsoft advanced 1.1% each. Chipmakers rallied, with Broadcom up 6.6%, Micron rising 7.6%, and Intel advancing 10.8%. AMD (+7%) and SpaceX (+8.9%) closed higher ahead of their earnings releases.
 
 ---
 
@@ -19944,221 +20356,5 @@ NETANYAHU said Israel is the world’s second-largest cyber superpower and now s
 ### 2026-08-03 23:10:24  #國際
 
 伊朗媒體：伊朗工業、礦業和貿易部長抵達伊斯蘭堡，出席伊巴聯合貿易委員會會議，並會見巴基斯坦高層官員。
-
----
-
-### 2026-08-03 23:09:23  #MKT News
-
-Iran's minister of industry, mines and trade arrived in Islamabad to attend an Iran-Pakistan Joint Trade Committee meeting and will meet senior Pakistani officials.
-
----
-
-### 2026-08-03 23:09:12  #國際
-
-EIA：上週美國戰略石油儲備中的原油庫存減少約285萬桶，至3.048億桶，為1983年以來最低水平。
-
----
-
-### 2026-08-03 23:08:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-EIA data show crude stocks in the US Strategic Petroleum Reserve fell about 2.85 mln bbl last week to 304.8 mln bbl, the lowest level since 1983.
-
----
-
-### 2026-08-03 23:08:13  #央行 #其他
-
-墨西哥央行調查顯示，私營部門分析師預計基準利率將在2026年底收於6.50%。
-
----
-
-### 2026-08-03 23:08:03  #央行 #其他
-
-墨西哥央行調查顯示，私營部門分析師預計，到2026年底，匯率將為1美元兌換17.88比索。
-
----
-
-### 2026-08-03 23:07:58  #央行 #其他
-
-墨西哥央行調查顯示，私營部門分析師預計基準利率將在2027年末收於6.50%。
-
----
-
-### 2026-08-03 23:07:51  #國際
-
-以色列國防軍稱在加沙擊斃一名傑哈德指揮官。
-
----
-
-### 2026-08-03 23:07:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-The Israel Defense Forces said it killed a Palestinian Islamic Jihad commander in Gaza.
-
----
-
-### 2026-08-03 23:06:11  #央行 #其他
-
-墨西哥央行調查顯示，私營部門分析師預計2026年末整體通脹率將為4.00%。
-
----
-
-### 2026-08-03 23:05:59  #央行 #其他
-
-墨西哥央行調查顯示，私營部門分析師預計2027年末整體通脹率將為3.84%。
-
----
-
-### 2026-08-03 23:05:39  #國際
-
-【日本熊本縣地震災區持續高溫】據日本共同社報道，熊本縣熊本市中央區和熊本縣菊池市3日分別記錄到40.3攝氏度和40.2攝氏度的氣溫，這是該縣首次測得40攝氏度以上的氣溫。熊本縣此前遭遇7.1級地震，當前仍面臨大範圍停水，超過8000人在避難所避難。（新華社）
-
----
-
-### 2026-08-03 23:05:27  #其他
-
-【莫三比克總統：國家外科中心是莫中衛生合作重要標誌】中國援莫三比克國家外科中心專案奠基儀式3日在莫三比克首都馬普托舉行。出席儀式的莫三比克總統查波致辭說，該專案將成為莫中兩國公共衛生領域合作的重要標誌。（新華社）
-
----
-
-### 2026-08-03 23:05:21  #MKT News #Market Regions #Greater China
-
-【Luckin Coffee Q2 revenue RMB 15.89 bln, +28.5% YoY】Luckin Coffee reported Q2 revenue of RMB 15.89 billion, up 28.5% YoY, and said it opened more than 5,000 stores in 1H. Q2 average monthly transacting customers were 112.7 million, up 22.9% YoY. Company-operated same-store sales fell 5.3% YoY in Q2, citing a high base from last year’s delivery promotions (same period in 2025: +13.8%). Q2 operating profit from company-operated stores was RMB 2.47 billion, up 25.9% YoY, with store operating margin roughly unchanged YoY. CEO Guo Jinyi said the China coffee market remains in a rapid growth phase with rising penetration and frequency, and Luckin will maintain its store-opening pace to expand market share.
-
----
-
-### 2026-08-03 23:04:57  #國際
-
-伊朗和巴基斯坦外長通話討論地區問題。
-
----
-
-### 2026-08-03 23:04:29  #國際
-
-【伊朗戰事如何繼續？美軍開始內部“求支招”】訊息人士披露，對伊朗的戰事陷入僵局之時，美軍中央司令部開始在內部廣泛徵集“有創意、非常規”的建議以開啟局面。美國有線電視新聞網（CNN）3日援引兩名訊息人士的話報道，中央司令部一名高階軍官上週在發給眾多軍方分析師的電子郵件中寫道：“我們正在尋求有創意、非常規方式，以施壓和懲罰伊朗”。（新華社）
-
----
-
-### 2026-08-03 23:03:45  #國際
-
-伊朗外交部：外長阿拉格齊與阿曼外長通電話討論地區局勢發展。
-
----
-
-### 2026-08-03 23:02:02  #MKT News #Market Themes #AI Revolution
-
-【SpaceX bets orbital AI compute as response to ground energy limits】Bernstein rates SpaceX Outperform with a $239 PT but says the valuation hinges less on rockets than on whether AI compute can move to orbit. Its model assumes about 3,600 launches a year by 2031, roughly 170,000 satellites and about 20 GW of orbital compute. The thesis: terrestrial data centres face rising constraints on power, land and cooling; if Starship achieves rapid two‑stage reusability and sharply cuts launch costs, orbit could become a compute venue. Bernstein flags new bottlenecks — chip supply, satellite thermal management, radiation hardening, communications and regulation — and notes the scale it models would demand about 2.8 mln wafers a year, or the equivalent of roughly five dedicated fabs. Conclusion: ground AI data centres remain the primary revenue stream this decade; orbital compute is a long‑dated option.
-
----
-
-### 2026-08-03 23:02:00  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-Sources said Lukoil's Volgograd refinery in Russia suspended refining operations after a drone attack on July 31.
-
----
-
-### 2026-08-03 23:01:41  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
-
-【CNY300bn invested in Chinese AI startups in 1H 2026 as VC funds accelerate into AI and hard tech】China high‑tech investment rose 4.6% YoY in 1H 2026 as venture capital activity recovered. VCs point to AI development as the main driver, with funding accelerating into AI, quantum technologies and compute. Chinese AI startup fundraising in 1H 2026 exceeded CNY300bn, surpassing full‑year 2025. Concentrated inflows have pushed valuations higher and produced a scramble for allocations in the primary market.
-
----
-
-### 2026-08-03 23:01:11  #公司 #國際
-
-印度投資與公共資產管理司（DIPAM）秘書：印度人壽保險公司（LIC）的出售要約明日對非零售投資者開放申購。
-
----
-
-### 2026-08-03 23:01:02  #國際
-
-【伊朗公佈所襲船隻畫面指其錯信美國】按照伊朗伊斯蘭革命衛隊的說法，連日來，多艘試圖取道“未申報”航線透過霍爾木茲海峽的油輪被擊中。這些油輪在美軍的“空中護航”下，不顧伊朗方面的警告，最終被擊中並截停。近日，伊朗媒體公佈了一段被襲擊油輪的畫面。（CCTV國際時訊）
-
----
-
-### 2026-08-03 23:00:55  #MKT News #Important #Market Regions #Greater China
-
-At the 23:00 close, China main futures contracts were mixed. Fuel oil fell more than 2%, low-sulfur fuel oil (LU) declined over 1% and soda ash slipped nearly 1%. Gains were led by polypropylene and its monthly-average contract, glass, plastics and methanol, each up over 1%; rapeseed oil and No.20 rubber rose about 1%.
-
----
-
-### 2026-08-03 23:00:31  #市場
-
-燃油、低硫燃油夜盤收跌超1%，鐵礦石跌0.7%。
-
----
-
-### 2026-08-03 23:00:19  #國際
-
-訊息人士稱，俄羅斯盧克石油伏爾加格勒煉油廠在遭無人機襲擊後，已於7月31日起暫停煉油作業。
-
----
-
-### 2026-08-03 23:00:12  #其他
-
-紅杉領投核技術初創企業 Valar 10 億美元融資輪。
-
----
-
-### 2026-08-03 23:00:09  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Increases by 0.90% — Top currency gainers are South Korean Won (0.90%) and Japanese Yen (0.55%). Biggest losers are Norwegian Krone (-0.58%), Swiss Franc (-0.34%), British Pound (-0.33%) and Euro (-0.09%). Meanwhile Dollar Index was little changed.
-
----
-
-### 2026-08-03 23:00:03  #市場
-
-【夜盤期貨收盤】燃料油連續跌2.44%，低硫燃料油連續跌1.61%，聚丙烯連續漲1.32%，玻璃連續漲1.15%，甲醇連續漲1.12%。
-
----
-
-### 2026-08-03 22:59:53  #國際
-
-【俄羅斯北方艦隊舉行多兵種演習 發射多枚巡航導彈】俄羅斯國防部3日釋出訊息說，俄北方艦隊近日在巴倫支海舉行的多兵種軍事演習中發射多枚導彈，摧毀海上標靶。 訊息說，“戈洛夫科海軍上將”號護衛艦和“烏斯季諾夫元帥”號巡洋艦在演習中組成海上打擊群，演習中還使用了“稜堡”導彈系統。此外，圖-142反潛機、米格-29K艦載殲擊機和伊爾-78加油機等參與演習。 演習期間，針對多個假想敵方目標，“戈洛夫科海軍上將”號護衛艦發射“口徑”巡航導彈，“烏斯季諾夫元帥”號巡洋艦發射“火山”巡航導彈，“奧廖爾”號核潛艇從水下發射“花崗岩”巡航導彈。所有假想目標均被摧毀。（新華社）
-
----
-
-### 2026-08-03 22:59:42  #市場
-
-倫敦可可期貨<LCCC1>上漲近8%，至每噸4331英鎊。
-
----
-
-### 2026-08-03 22:59:12  #公司
-
-【上半年3000億元湧入中國AI創業公司 創投資金加速湧向AI和硬科技】從下午六點，在北京中關村夢想實驗室七層，英諾基金的投資經理們圍坐在一起，梳理手頭的專案，三個多小時的會議，他們討論了30多個專案的投資價值。會議結束後，投資經理們繼續回到看專案、做盡調的狀態，公司管理合夥人周全的日程更是滿滿當當。周全告訴記者，今年3月到7月，公司已經開了10次投決會。這一數字，和去年全年持平。這期間投資專案的數量和金額，更是超過了去年全年。被投企業也同樣感受到了市場的熱度。金貽榮是一家量子科技企業的創始人，他告訴記者，前兩年想要融資，很多投資人還保持觀望態度，而今年，來企業調研的投資人變多了，也更主動了。業內人士普遍認為，AI技術的發展，是這一輪創投市場回暖的核心驅動力，資金正加快湧向AI、量子科技、算力等領域。資料顯示，2026年上半年中國AI創業公司融資總額突破3000億元，已超過2025年全年。而資金的集中湧入，帶來了估值的快速攀升，“搶額度”成了一級市場的關鍵詞。（央視財經）
-
----
-
-### 2026-08-03 22:59:08  #MKT News
-
-Iran's Mehr news agency cited sources saying Pakistan's interior minister plans to visit Iran within the next day or two.
-
----
-
-### 2026-08-03 22:59:06  #其他
-
-【莫三比克總統：國家外科中心是莫中衛生合作重要標誌】中國援莫三比克國家外科中心專案奠基儀式3日在莫三比克首都馬普托舉行。出席儀式的莫三比克總統查波致辭說，該專案將成為莫中兩國公共衛生領域合作的重要標誌。查波說，數十年來，莫中兩國建立了牢固的夥伴關係，這一關係建立在相互尊重、政治互信基礎上。中國援莫三比克國家外科中心專案將為成千上萬的莫三比克家庭帶來福祉，更多莫三比克民眾將能夠在自己的國家獲得所需的專科醫療服務。（新華社）
-
----
-
-### 2026-08-03 22:58:39  #公司 #市場
-
-【瑞和數智：擬透過雲端挖礦服務獲取比特幣 價值約2114.26萬港元】瑞和數智（03680.HK）釋出須予披露交易公告，公司於相關期間內透過與服務供應商TECNOENERGIACAPITALPARAGUAYS.A.簽訂的雲端挖礦安排，合計收取32.73枚比特幣作為挖礦獎勵，按Bitfinex及Bitstamp開盤價平均值計算，總價值約為2,707,274.95美元（相當於約2114.26萬港元）。該等交易因性質相似且於十二個月內完成，根據《上市規則》第14.22條及第14.23條合併計算後構成須予披露交易。服務費總額約為300.24萬美元（約2354.50萬港元），資金來源為集團內部資源。所獲比特幣已存入集團在持牌虛擬資產交易平臺HashKey交易所開設的錢包，並按成本與可變現淨值孰低法列賬。
-
----
-
-### 2026-08-03 22:58:18  #MKT News
-
-Market sources: Iran's foreign minister Araghchi spoke by phone with Oman's foreign minister; they exchanged views on recent regional developments.
-
----
-
-### 2026-08-03 22:58:09  #市場
-
-SWEETGREEN股價觸及當日低點，下跌2.4%。
-
----
-
-### 2026-08-03 22:57:20  #MKT News
-
-【Maritime analytics firm: Six Saudi tankers reroute around Cape of Good Hope to avoid Red Sea route】UK-based Windward ship-tracking data on the 3rd show six Saudi tankers are sailing around the Cape of Good Hope, avoiding the Bab el-Mandeb and Red Sea to mitigate security risks from Yemen’s Houthi militants to Saudi-linked vessels. Windward said the Cape route adds roughly 6–7 days for some US-bound tankers versus direct transit through the Suez Canal and Bab el-Mandeb. All six vessels chose to reroute on ballast legs, which Windward says may reflect a Saudi operational policy to keep its ships out of the area rather than a temporary, cargo-specific measure.
 
 ---

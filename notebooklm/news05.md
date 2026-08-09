@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 13:15:02_
-_本檔包含 2917 則快訊，約 602506 字_
+_更新時間：2026-08-09 14:24:14_
+_本檔包含 2929 則快訊，約 603129 字_
+
+---
+
+### 2026-08-03 23:09:23  #MKT News
+
+Iran's minister of industry, mines and trade arrived in Islamabad to attend an Iran-Pakistan Joint Trade Committee meeting and will meet senior Pakistani officials.
+
+---
+
+### 2026-08-03 23:09:12  #國際
+
+EIA：上週美國戰略石油儲備中的原油庫存減少約285萬桶，至3.048億桶，為1983年以來最低水平。
+
+---
+
+### 2026-08-03 23:08:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA data show crude stocks in the US Strategic Petroleum Reserve fell about 2.85 mln bbl last week to 304.8 mln bbl, the lowest level since 1983.
+
+---
+
+### 2026-08-03 23:08:13  #央行 #其他
+
+墨西哥央行調查顯示，私營部門分析師預計基準利率將在2026年底收於6.50%。
+
+---
+
+### 2026-08-03 23:08:03  #央行 #其他
+
+墨西哥央行調查顯示，私營部門分析師預計，到2026年底，匯率將為1美元兌換17.88比索。
+
+---
+
+### 2026-08-03 23:07:58  #央行 #其他
+
+墨西哥央行調查顯示，私營部門分析師預計基準利率將在2027年末收於6.50%。
+
+---
+
+### 2026-08-03 23:07:51  #國際
+
+以色列國防軍稱在加沙擊斃一名傑哈德指揮官。
+
+---
+
+### 2026-08-03 23:07:45  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+The Israel Defense Forces said it killed a Palestinian Islamic Jihad commander in Gaza.
+
+---
+
+### 2026-08-03 23:06:11  #央行 #其他
+
+墨西哥央行調查顯示，私營部門分析師預計2026年末整體通脹率將為4.00%。
+
+---
+
+### 2026-08-03 23:05:59  #央行 #其他
+
+墨西哥央行調查顯示，私營部門分析師預計2027年末整體通脹率將為3.84%。
+
+---
+
+### 2026-08-03 23:05:39  #國際
+
+【日本熊本縣地震災區持續高溫】據日本共同社報道，熊本縣熊本市中央區和熊本縣菊池市3日分別記錄到40.3攝氏度和40.2攝氏度的氣溫，這是該縣首次測得40攝氏度以上的氣溫。熊本縣此前遭遇7.1級地震，當前仍面臨大範圍停水，超過8000人在避難所避難。（新華社）
+
+---
+
+### 2026-08-03 23:05:27  #其他
+
+【莫三比克總統：國家外科中心是莫中衛生合作重要標誌】中國援莫三比克國家外科中心專案奠基儀式3日在莫三比克首都馬普托舉行。出席儀式的莫三比克總統查波致辭說，該專案將成為莫中兩國公共衛生領域合作的重要標誌。（新華社）
+
+---
+
+### 2026-08-03 23:05:21  #MKT News #Market Regions #Greater China
+
+【Luckin Coffee Q2 revenue RMB 15.89 bln, +28.5% YoY】Luckin Coffee reported Q2 revenue of RMB 15.89 billion, up 28.5% YoY, and said it opened more than 5,000 stores in 1H. Q2 average monthly transacting customers were 112.7 million, up 22.9% YoY. Company-operated same-store sales fell 5.3% YoY in Q2, citing a high base from last year’s delivery promotions (same period in 2025: +13.8%). Q2 operating profit from company-operated stores was RMB 2.47 billion, up 25.9% YoY, with store operating margin roughly unchanged YoY. CEO Guo Jinyi said the China coffee market remains in a rapid growth phase with rising penetration and frequency, and Luckin will maintain its store-opening pace to expand market share.
+
+---
+
+### 2026-08-03 23:04:57  #國際
+
+伊朗和巴基斯坦外長通話討論地區問題。
+
+---
+
+### 2026-08-03 23:04:29  #國際
+
+【伊朗戰事如何繼續？美軍開始內部“求支招”】訊息人士披露，對伊朗的戰事陷入僵局之時，美軍中央司令部開始在內部廣泛徵集“有創意、非常規”的建議以開啟局面。美國有線電視新聞網（CNN）3日援引兩名訊息人士的話報道，中央司令部一名高階軍官上週在發給眾多軍方分析師的電子郵件中寫道：“我們正在尋求有創意、非常規方式，以施壓和懲罰伊朗”。（新華社）
+
+---
+
+### 2026-08-03 23:03:45  #國際
+
+伊朗外交部：外長阿拉格齊與阿曼外長通電話討論地區局勢發展。
+
+---
+
+### 2026-08-03 23:02:02  #MKT News #Market Themes #AI Revolution
+
+【SpaceX bets orbital AI compute as response to ground energy limits】Bernstein rates SpaceX Outperform with a $239 PT but says the valuation hinges less on rockets than on whether AI compute can move to orbit. Its model assumes about 3,600 launches a year by 2031, roughly 170,000 satellites and about 20 GW of orbital compute. The thesis: terrestrial data centres face rising constraints on power, land and cooling; if Starship achieves rapid two‑stage reusability and sharply cuts launch costs, orbit could become a compute venue. Bernstein flags new bottlenecks — chip supply, satellite thermal management, radiation hardening, communications and regulation — and notes the scale it models would demand about 2.8 mln wafers a year, or the equivalent of roughly five dedicated fabs. Conclusion: ground AI data centres remain the primary revenue stream this decade; orbital compute is a long‑dated option.
+
+---
+
+### 2026-08-03 23:02:00  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Sources said Lukoil's Volgograd refinery in Russia suspended refining operations after a drone attack on July 31.
+
+---
+
+### 2026-08-03 23:01:41  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China
+
+【CNY300bn invested in Chinese AI startups in 1H 2026 as VC funds accelerate into AI and hard tech】China high‑tech investment rose 4.6% YoY in 1H 2026 as venture capital activity recovered. VCs point to AI development as the main driver, with funding accelerating into AI, quantum technologies and compute. Chinese AI startup fundraising in 1H 2026 exceeded CNY300bn, surpassing full‑year 2025. Concentrated inflows have pushed valuations higher and produced a scramble for allocations in the primary market.
+
+---
+
+### 2026-08-03 23:01:11  #公司 #國際
+
+印度投資與公共資產管理司（DIPAM）秘書：印度人壽保險公司（LIC）的出售要約明日對非零售投資者開放申購。
+
+---
+
+### 2026-08-03 23:01:02  #國際
+
+【伊朗公佈所襲船隻畫面指其錯信美國】按照伊朗伊斯蘭革命衛隊的說法，連日來，多艘試圖取道“未申報”航線透過霍爾木茲海峽的油輪被擊中。這些油輪在美軍的“空中護航”下，不顧伊朗方面的警告，最終被擊中並截停。近日，伊朗媒體公佈了一段被襲擊油輪的畫面。（CCTV國際時訊）
+
+---
+
+### 2026-08-03 23:00:55  #MKT News #Important #Market Regions #Greater China
+
+At the 23:00 close, China main futures contracts were mixed. Fuel oil fell more than 2%, low-sulfur fuel oil (LU) declined over 1% and soda ash slipped nearly 1%. Gains were led by polypropylene and its monthly-average contract, glass, plastics and methanol, each up over 1%; rapeseed oil and No.20 rubber rose about 1%.
+
+---
+
+### 2026-08-03 23:00:31  #市場
+
+燃油、低硫燃油夜盤收跌超1%，鐵礦石跌0.7%。
+
+---
+
+### 2026-08-03 23:00:19  #國際
+
+訊息人士稱，俄羅斯盧克石油伏爾加格勒煉油廠在遭無人機襲擊後，已於7月31日起暫停煉油作業。
+
+---
+
+### 2026-08-03 23:00:12  #其他
+
+紅杉領投核技術初創企業 Valar 10 億美元融資輪。
+
+---
+
+### 2026-08-03 23:00:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Increases by 0.90% — Top currency gainers are South Korean Won (0.90%) and Japanese Yen (0.55%). Biggest losers are Norwegian Krone (-0.58%), Swiss Franc (-0.34%), British Pound (-0.33%) and Euro (-0.09%). Meanwhile Dollar Index was little changed.
+
+---
+
+### 2026-08-03 23:00:03  #市場
+
+【夜盤期貨收盤】燃料油連續跌2.44%，低硫燃料油連續跌1.61%，聚丙烯連續漲1.32%，玻璃連續漲1.15%，甲醇連續漲1.12%。
+
+---
+
+### 2026-08-03 22:59:53  #國際
+
+【俄羅斯北方艦隊舉行多兵種演習 發射多枚巡航導彈】俄羅斯國防部3日釋出訊息說，俄北方艦隊近日在巴倫支海舉行的多兵種軍事演習中發射多枚導彈，摧毀海上標靶。 訊息說，“戈洛夫科海軍上將”號護衛艦和“烏斯季諾夫元帥”號巡洋艦在演習中組成海上打擊群，演習中還使用了“稜堡”導彈系統。此外，圖-142反潛機、米格-29K艦載殲擊機和伊爾-78加油機等參與演習。 演習期間，針對多個假想敵方目標，“戈洛夫科海軍上將”號護衛艦發射“口徑”巡航導彈，“烏斯季諾夫元帥”號巡洋艦發射“火山”巡航導彈，“奧廖爾”號核潛艇從水下發射“花崗岩”巡航導彈。所有假想目標均被摧毀。（新華社）
+
+---
+
+### 2026-08-03 22:59:42  #市場
+
+倫敦可可期貨<LCCC1>上漲近8%，至每噸4331英鎊。
+
+---
+
+### 2026-08-03 22:59:12  #公司
+
+【上半年3000億元湧入中國AI創業公司 創投資金加速湧向AI和硬科技】從下午六點，在北京中關村夢想實驗室七層，英諾基金的投資經理們圍坐在一起，梳理手頭的專案，三個多小時的會議，他們討論了30多個專案的投資價值。會議結束後，投資經理們繼續回到看專案、做盡調的狀態，公司管理合夥人周全的日程更是滿滿當當。周全告訴記者，今年3月到7月，公司已經開了10次投決會。這一數字，和去年全年持平。這期間投資專案的數量和金額，更是超過了去年全年。被投企業也同樣感受到了市場的熱度。金貽榮是一家量子科技企業的創始人，他告訴記者，前兩年想要融資，很多投資人還保持觀望態度，而今年，來企業調研的投資人變多了，也更主動了。業內人士普遍認為，AI技術的發展，是這一輪創投市場回暖的核心驅動力，資金正加快湧向AI、量子科技、算力等領域。資料顯示，2026年上半年中國AI創業公司融資總額突破3000億元，已超過2025年全年。而資金的集中湧入，帶來了估值的快速攀升，“搶額度”成了一級市場的關鍵詞。（央視財經）
+
+---
+
+### 2026-08-03 22:59:08  #MKT News
+
+Iran's Mehr news agency cited sources saying Pakistan's interior minister plans to visit Iran within the next day or two.
+
+---
+
+### 2026-08-03 22:59:06  #其他
+
+【莫三比克總統：國家外科中心是莫中衛生合作重要標誌】中國援莫三比克國家外科中心專案奠基儀式3日在莫三比克首都馬普托舉行。出席儀式的莫三比克總統查波致辭說，該專案將成為莫中兩國公共衛生領域合作的重要標誌。查波說，數十年來，莫中兩國建立了牢固的夥伴關係，這一關係建立在相互尊重、政治互信基礎上。中國援莫三比克國家外科中心專案將為成千上萬的莫三比克家庭帶來福祉，更多莫三比克民眾將能夠在自己的國家獲得所需的專科醫療服務。（新華社）
+
+---
+
+### 2026-08-03 22:58:39  #公司 #市場
+
+【瑞和數智：擬透過雲端挖礦服務獲取比特幣 價值約2114.26萬港元】瑞和數智（03680.HK）釋出須予披露交易公告，公司於相關期間內透過與服務供應商TECNOENERGIACAPITALPARAGUAYS.A.簽訂的雲端挖礦安排，合計收取32.73枚比特幣作為挖礦獎勵，按Bitfinex及Bitstamp開盤價平均值計算，總價值約為2,707,274.95美元（相當於約2114.26萬港元）。該等交易因性質相似且於十二個月內完成，根據《上市規則》第14.22條及第14.23條合併計算後構成須予披露交易。服務費總額約為300.24萬美元（約2354.50萬港元），資金來源為集團內部資源。所獲比特幣已存入集團在持牌虛擬資產交易平臺HashKey交易所開設的錢包，並按成本與可變現淨值孰低法列賬。
+
+---
+
+### 2026-08-03 22:58:18  #MKT News
+
+Market sources: Iran's foreign minister Araghchi spoke by phone with Oman's foreign minister; they exchanged views on recent regional developments.
+
+---
+
+### 2026-08-03 22:58:09  #市場
+
+SWEETGREEN股價觸及當日低點，下跌2.4%。
+
+---
+
+### 2026-08-03 22:57:20  #MKT News
+
+【Maritime analytics firm: Six Saudi tankers reroute around Cape of Good Hope to avoid Red Sea route】UK-based Windward ship-tracking data on the 3rd show six Saudi tankers are sailing around the Cape of Good Hope, avoiding the Bab el-Mandeb and Red Sea to mitigate security risks from Yemen’s Houthi militants to Saudi-linked vessels. Windward said the Cape route adds roughly 6–7 days for some US-bound tankers versus direct transit through the Suez Canal and Bab el-Mandeb. All six vessels chose to reroute on ballast legs, which Windward says may reflect a Saudi operational policy to keep its ships out of the area rather than a temporary, cargo-specific measure.
 
 ---
 
@@ -17445,149 +17661,5 @@ Japan's minister of economy, trade and industry Akazawa said August crude oil pr
 ### 2026-08-02 14:24:34  #MKT News
 
 【South Korea issues heat emergency; Yangsan records 42.5°C, highest since 1904】South Korea declared a nationwide heat emergency on Sunday as temperatures hit record highs in the southeast. The Korea Meteorological Administration issued a severe heat warning for southern regions at 1:00pm local time. Yangsan in South Gyeongsang province recorded 42.5°C (108.5°F), the highest reading since observations began in 1904. Prime Minister Han Seong-sook ordered agencies to rapidly inform the public using all available channels, including public broadcasting, emergency SMS, electronic signage and village loudspeakers. The Interior Ministry will dispatch bureau-level officials to the Seoul metropolitan area, South Gyeongsang and other southern regions to oversee operations, evaluate local heat-response measures and identify needs for additional support.
-
----
-
-### 2026-08-02 14:22:06  #MKT News
-
-【Ministry of Water Resources: 20 rivers remain above warning; issues red-level mountain flash-flood warning】The Ministry of Water Resources said after a consultation on the morning of the 2nd that 20 rivers nationwide remain above warning levels and it has issued a red-level meteorological warning for mountain flash floods.
-
----
-
-### 2026-08-02 14:21:22  #公司
-
-【祥鵬航空回應航班延誤發過期泡麵：所有餐食均回收 補償200元並致歉】8月1日，有乘客發影片說祥鵬航空一航班延誤近4小時地服發過期泡麵。該航班原計劃1日20時45分從烏魯木齊天山機場飛往成都天府機場，航班延誤後地服人員向乘客發的泡麵包裝顯示需在7月5日前食用。記者從祥鵬航空客服人員處獲悉，該航班延誤系天氣原因，航班延誤3小時55分落地成都，烏魯木齊地面代理公司提供的餐食不符合標準，工作人員對所有餐食進行了回收，過期的餐食沒有旅客食用。（新京報）
-
----
-
-### 2026-08-02 14:20:01  #MKT News #Market Themes #China EV Leaders
-
-Changan Automobile said July deliveries were 207,100 vehicles, including 96,500 new-energy vehicle (NEV) deliveries, up 28.8% YoY.
-
----
-
-### 2026-08-02 14:18:58  #其他
-
-【長安汽車：7月交付20.71萬輛】長安汽車宣佈，7月交付20.71萬輛，其中，新能源交付96500輛，同比增長28.8%。
-
----
-
-### 2026-08-02 14:15:54  #國際
-
-訊息人士稱，有人發現伊朗陸軍 T-72M1 坦克沿 39 號公路向阿巴丹機動，地點鄰近伊拉克與科威特邊境。
-
----
-
-### 2026-08-02 14:13:31  #公司 #國際
-
-【谷歌地球緊急叫停AI生圖：虛構場景可疊加衛星圖散播假資訊】谷歌推出谷歌地球（Google Earth）人工智慧（AI）影象生成功能不到48小時後，宣佈暫停服務，以加強安全防護。專家此前警告，這項工具可把虛構場景疊加在真實衛星影象上，容易被用於散播假資訊。英國廣播公司（BBC）報道，這項新功能把谷歌影象生成器Nano Banana 2整合進Google Earth。使用者只須輸入文字指令，就能在真實衛星影象、航拍影象或三維地圖上生成虛構場景，並下載後分享到其他平臺。BBC核查團隊測試時，成功生成埃菲爾鐵塔倒塌、巨大天坑吞沒埃及金字塔，以及俄軍坦克出現在基輔等假影象。專家指出，虛構內容與真實地理座標和谷歌地圖底圖結合後，容易讓人誤以為影象來自可靠衛星資料。在戰爭、災害等資訊混亂時期，這類影象尤其可能誤導記者和公眾。谷歌說，AI生成影象含隱形水印，使用者可透過Gemini或Google Lens核查。不過，BBC測試發現，部分驗證機制可被繞過，外部檢測工具有時也無法識別假圖。（澎湃）
-
----
-
-### 2026-08-02 14:12:52  #其他
-
-【水利部：20條河流仍超警 釋出紅色山洪災害氣象預警】截至今天9時，黑龍江、吉林、內蒙古、河北等地20條河流仍維持超警。據預報，未來3天（8月2日至4日），受降雨及上游來水影響，松花江支流呼蘭河將發生編號洪水，暴雨區內黑龍江省呼蘭河支流歐根河泥河、陝西漢江支流乾佑河、四川渠江支流恩陽河等中小河流可能發生超警洪水。8月2日8時至8月3日8時，廣東東南部、重慶南部、四川東部、貴州西部和北部、雲南北部、陝西南部部分地區發生山洪災害可能性大（橙色預警）；其中，四川東部、陝西南部局地發生山洪災害可能性很大（紅色預警）。水利部今天8時釋出紅色山洪災害氣象預警，維持洪水藍色預警，提醒暴雨洪水影響地區社會公眾注意防範。（央視新聞）
-
----
-
-### 2026-08-02 14:10:19  #行業
-
-【中國產品包攬全球大模型呼叫量前五】近日，全球多模型聚合平臺OpenRouter釋出最新一週AI大模型呼叫量榜單，排名前五的產品全部由中國企業研發。登頂榜單首位的是小米MiMo-V2.5，單週呼叫量達到10.5萬億Token，環比增長12%。排名第二和第五的均來自DeepSeek，兩款模型形成高低搭配，覆蓋不同開發需求，其中旗艦Pro版本在程式碼、複雜智慧體任務效能對標海外頂級閉源模型。而這些模型的共同之處，是釋出時間很短便快速上榜，位列第三的騰訊混元3，7月6日才正式開源，單週環比增幅超999%，是榜單增長勢頭最猛的模型。（央視財經）
-
----
-
-### 2026-08-02 14:02:07  #其他
-
-西捷航空空乘人員發起罷工。
-
----
-
-### 2026-08-02 13:59:15  #MKT News #Market Regions #Greater China
-
-【China Cotton Association issues statement opposing U.S. sanctions on Chinese cotton and textile firms】The China Cotton Association said U.S. allegations of "forced labor" lack factual and legal basis and that U.S. sanctions have seriously disrupted the global cotton industry and supply chains. The association said the measures infringe on Chinese firms’ legal rights and asserted China's cotton and textile sector — with the most complete global industry chain, a very large domestic market and increasingly diversified international channels — has the ability to respond. It called on domestic cotton and textile companies to strengthen cooperation, diversify markets and bolster supply-chain resilience to counter external restrictions.
-
----
-
-### 2026-08-02 13:58:43  #其他
-
-【希臘山火逼近首都雅典】近日，希臘多地燃起山火。8月1日，其中一場山火藉助強風蔓延至首都雅典西北方向，情況危急。希臘消防部門表示，已向這處火場派遣超過300名消防員、92輛消防車、18架飛機和7架直升機進行滅火工作。（CCTV國際時訊）
-
----
-
-### 2026-08-02 13:57:34  #國際
-
-市場訊息：伊朗議會國家安全委員會發言人週日表示，伊朗武裝部隊正按照最高領袖穆傑塔巴・哈梅內伊的指令管控霍爾木茲海峽及其周邊水域。
-
----
-
-### 2026-08-02 13:56:07  #國際
-
-【中國棉花協會關於反對美方制裁打壓中國棉紡織企業的宣告】2026年7月31日，美國國土安全部將包括棉紡織等在內的43家中國企業列入《維吾爾強迫勞動預防法》（UFLPA）實體清單，此舉是清單設立以來單次擴容規模最大的一次，嚴重違背了國際貿易基本準則。中國棉花協會對此表示高度關注和堅決反對。美方所謂“強迫勞動”的指控毫無事實與法理依據。中國棉花產業始終堅持市場化、現代化發展方向，新疆機採棉目前佔比已超過90%，從種植、採摘到加工、紡織，全產業鏈均實現了高度自動化與規模化。廣大棉農與產業工人的勞動權益受到中國法律的嚴格保護，就業選擇完全自由，根本不存在所謂的強迫勞動。美方無視這一客觀事實，對中國企業實施“有罪推定”，其實質是將人權議題政治化、工具化，企圖遏制中國棉紡織產業的發展。此次制裁嚴重破壞了全球棉花產業鏈與供應鏈的穩定。棉花作為全球性的大宗商品，其產業鏈已高度國際化。美方此舉損害了中國企業的合法權益。面對美方打壓，中國棉花產業有信心、有能力應對挑戰。中國擁有全球最完整的棉花及紡織產業鏈、超大規模的國內消費市場以及日益多元化的國際市場佈局。我們呼籲廣大國內棉花及紡織企業保持定力，堅定信心，加強合作，積極開拓多元化市場，增強供應鏈韌性，以高質量的產品和不可替代的產業優勢打破外部封鎖。中國棉花協會將一如既往地支援並維護中國棉花及紡織企業的合法權益。持續推進“中國棉花可持續發展專案”，堅持“環境友好、品質優良、尊重勞動、全程可追溯”的理念，做好資訊披露、企業監督，使產品的綠色屬性“看得見、算得清、可驗證、能追溯”，塑造中國棉業及紡織業高質量、可持續發展形象。（環球網）
-
----
-
-### 2026-08-02 13:55:59  #MKT News
-
-Israel Defense Forces (IDF) said it killed two Hamas commanders in Gaza over the weekend.
-
----
-
-### 2026-08-02 13:54:52  #國際
-
-市場訊息：以色列國防軍稱，週末在加沙擊斃兩名哈馬斯指揮官。
-
----
-
-### 2026-08-02 13:51:46  #MKT News
-
-EMSC reported a magnitude 4.2 earthquake in Michoacán, Mexico, at a depth of 64.3 km.
-
----
-
-### 2026-08-02 13:42:08  #國際
-
-【伊朗外長與沙特外交大臣通電話 討論地區局勢】當地時間8月2日，伊朗外交部發布訊息稱，1日晚，伊朗外交部長阿拉格齊同沙特外交大臣費薩爾通電話，就地區局勢交換意見。阿拉格齊表示，伊朗已做好維護國家主權、領土完整和國家安全的準備。任何來自美國和以色列的“侵略和敵對行動”，以及地區國家對有關行動的參與或配合，都將遭到伊朗武裝力量的“堅決回應”，相關行動的策劃者將對由此產生的後果承擔責任。（央視新聞）
-
----
-
-### 2026-08-02 13:40:37  #公司
-
-【上海港單晝夜集裝箱吞吐量創新高】記者2日從上港集團獲悉，8月1日，上海港單晝夜集裝箱吞吐量創歷史新高，達到203881標準箱(TEU)，突破此前6月9日創下的187312TEU紀錄，充分彰顯世界級樞紐港口生產韌性。（中國新聞網）
-
----
-
-### 2026-08-02 13:38:15  #其他
-
-【國慶假期火車票開啟預約】京滬高鐵、京滬鐵路的200多趟列車國慶假期的車票開啟預約，8月2日可預約9月30日的車票。旅客可透過鐵路12306App“預約購票”服務專區，在列車開車前第60天至第17天填報預約需求，每日8時起可提交開車前第60天的預約訂單，旅客可根據自身需求選擇“精確預約”與“模糊預約”。鐵路12306系統將於開車前第20天至第16天兌現預約訂單，兌現成功後，旅客需在當日23時前完成支付，逾期未支付的預約訂單將自動取消。（中國鐵路）
-
----
-
-### 2026-08-02 13:37:46  #其他
-
-【陝西兩地強降雨或致洪水 防禦三級應急響應啟動】陝西省水利廳8月2日12時啟動漢中、安康洪水防禦三級應急響應：綜合考慮氣象暴雨預警，預報漢中、安康將發生強降雨過程，可能引發大範圍中小河流洪水，山洪災害風險很高。（央視新聞）
-
----
-
-### 2026-08-02 13:36:35  #MKT News #Market Themes #The Trump Trade #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-【Analyst: Trump halt to Iran strikes linked to Saudi diplomacy, Iranian pressure】Trump canceled planned strikes on Iran after requests from Iran and other Middle Eastern states, CNN reported; sources said Saudi Crown Prince phoned Trump to express concern. Military analyst and former USAF colonel Cedric Leighton said both Saudi Arabia and Iran have incentives to avoid escalation: disruptions to the Strait of Hormuz have imposed economic strain on Saudi Arabia, and Riyadh’s diplomatic engagement likely contributed to Trump’s pause. Leighton added that after five months of conflict Iran faces economic and military pressure, and any diplomatic pressure from Tehran may reflect an effort to buy time to preserve itself.
-
----
-
-### 2026-08-02 13:36:31  #其他
-
-【受降雨影響 陝西新增轉移避險9908戶21158人】記者從陝西省應急管理廳瞭解到，8月1日6時至8月2日6時，陝西的陝北中南部、關中大部、陝南大部降大到暴雨，澄城、漢臺、南鄭、佛坪、平利5縣區降大暴雨。全省有106個縣（區）降水，其中10毫米以下22個，10—25毫米15個，25—50毫米34個，50—100毫米30個，100毫米以上5個。8月1日6時至8月2日6時，陝西省新增轉移避險9908戶21158人。（央視新聞）
-
----
-
-### 2026-08-02 13:20:40  #MKT News #Commodities #Precious Metals #XAUUSD
-
-【Iran commodity exchange posts record single-day silver inflows of 2,100 kg】Iranian news agency IRNA reported the Iran commodity exchange recorded a single-day inflow of 2,100 kg of silver bars, surpassing the previous 2,000 kg record. The exchange said the volume signals increased liquidity and greater confidence in its silver deposit certificate market. The exchange guarantees bullion authenticity and quality, and under capital market rules gold and silver funds must deposit physical bars or coins into the exchange warehouse proportional to issued fund shares.
-
----
-
-### 2026-08-02 13:20:05  #其他
-
-【中央氣象臺繼續釋出暴雨橙色預警 四川廣東等地有特大暴雨】今天（2日）上午，中央氣象臺繼續釋出暴雨橙色預警：預計，今天14時到明天14時，陝西南部、四川東部、重慶中部、貴州西部和北部、廣西南部沿海、廣東南部沿海等地部分地區有大暴雨，四川盆地東北部、廣東東南部沿海等地局地特大暴雨。（央視新聞）
 
 ---

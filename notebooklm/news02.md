@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 13:15:02_
-_本檔包含 3101 則快訊，約 602495 字_
+_更新時間：2026-08-09 14:24:14_
+_本檔包含 3111 則快訊，約 603149 字_
+
+---
+
+### 2026-08-07 13:08:52  #市場
+
+【多支創新藥ETF漲超5%】醫療服務、CRO概念持續走強，十餘隻相關個股漲停。科創創新藥ETF國泰（589720）、 科創創新藥ETF匯添富（589120）、創新藥ETF易方達（516080）等多隻ETF漲超5%
+
+---
+
+### 2026-08-07 13:08:41  #其他
+
+【胖東來鄭州二店？於東來剛剛首提弘坊專案】8月7日上午，胖東來創始人於東來在直播中提到鄭州專案時，首次提及“弘坊”專案。話音剛落，評論區便被“弘坊”刷屏。這意味著，繼鄭州東站之後，胖東來在鄭州再添新專案。（大河財立方）
+
+---
+
+### 2026-08-07 13:08:02  #MKT News #Market Regions #Greater China
+
+【2026 China summer box office tops 8.0 bln yuan】Online platform data showed the 2026 China summer box office, including presales, exceeded 8.0 bln yuan as of Aug 7.
+
+---
+
+### 2026-08-07 13:07:51  #公司 #市場
+
+【PET銅箔板塊再度走高，銅冠銅箔觸及20cm漲停】PET銅箔板塊再度走高，銅冠銅箔觸及20cm漲停，此前泰金新能、江南新材、諾德股份等多股漲停。
+
+---
+
+### 2026-08-07 13:07:25  #其他
+
+【暑期檔票房破80億】據網路平臺資料，截至8月7日，2026年暑期檔總票房（含預售）突破80億元。
+
+---
+
+### 2026-08-07 13:07:14  #國際
+
+俄羅斯國防部：俄軍在黑海擊中三艘載有烏克蘭軍用物資的船隻。
+
+---
+
+### 2026-08-07 13:07:14  #MKT News
+
+Interfax reported the Russian defence ministry said Russian forces struck three vessels in the Black Sea carrying Ukrainian military cargo.
+
+---
+
+### 2026-08-07 13:06:18  #Trading Economics #Economy #Japan #Leading Economic Index #Importance 1
+
+Japan Leading Index Holds Near 5-Year High — Japan’s leading economic index, which gauges the outlook for economic activity in the coming months using indicators such as job offers and consumer sentiment, stood at 116.4 in June 2026, unchanged from May’s revised figure, amid uncertain global conditions, according to preliminary estimates. The reading remained the highest level since July 2021, supported by the government's record fiscal budget, which included comprehensive measures to ease cost-of-living pressures and emergency energy support to cushion the impact of the Middle East conflict. Meanwhile, unemployment stood at 2.5% in June, remaining at its lowest level since July 2025, pointing to resilient labor market conditions, though employment was at its three-month low. Consumer confidence also improved to a five-month high, amid optimism about employment prospects and income growth.
+
+---
+
+### 2026-08-07 13:05:56  #國際
+
+泰國總理阿努廷對校園槍擊事件深感震驚和悲痛，他強調這正是政府拒絕續發槍支許可證的原因，並已責成相關官員對事件展開調查。（CCTV國際時訊）
+
+---
+
+### 2026-08-07 13:05:21  #央行
+
+【機構：澳大利亞央行會議仍可能提振澳元】澳大利亞金融市場反映的預期是，澳大利亞央行下週的政策會議上幾乎沒有上調利率的可能。澳新銀行外匯研究主管Mahjabeen Zaman表示，不過，該央行仍有可能釋放偏緊縮的訊號，這可能會轉化為澳元的一些上行動力。她補充說，與此同時，幾乎沒有什麼言論或行動能推動出現比市場已經反映的預期更偏寬鬆的結果。主要的意外因素可能是投票分歧。Zaman說，任何支援加息的異議都可能略微增加對偏緊縮的預期。
+
+---
+
+### 2026-08-07 13:05:00  #其他
+
+工信部公佈《享受車船稅減免優惠的節約能源使用新能源汽車車型目錄》（第八十九批），比亞迪方程豹鈦9、賽力斯問界M8等多款車型在列。
+
+---
+
+### 2026-08-07 13:04:24  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share biopharma sector spiked intraday; Yiqiao Shenzhou surged to the daily limit in a straight-line move. Earlier Jin'an Protein and Baipusais hit limit-up; Nuoweizan, Wufan Biotech, Rongchang Biotech and Changchun Gaoxin also rose.
+
+---
+
+### 2026-08-07 13:04:21  #國際
+
+【兆易創新A股成交額超200億元】兆易創新A股日內成交額超200億元，現漲7.27%。
+
+---
+
+### 2026-08-07 13:04:00  #Trading Economics #Economy #Japan #Coincident Index #Importance 1
+
+Japan Coincident Index Notches 6-Year Peak — Japan's coincident economic index, a key gauge of current economic conditions based on indicators such as industrial production, employment, and retail sales, edged up to 118.2 in June 2026 from 117.9 in the prior month, preliminary data showed. The reading was the highest since May 2019, pointing to a continued moderate economic recovery. Private consumption strengthened as improving employment and income conditions supported household spending, while consumer sentiment showed signs of stabilizing. External demand also improved, with exports rising amid subdued imports, although the outlook remained uncertain due to developments in the Middle East and other global risks. Fiscal policy continued to underpin the economy following Japan's approval of a second consecutive record-high state budget. Meanwhile, the Bank of Japan maintained an accommodative policy stance despite raising its short-term policy rate by 25bps to 1.0% in June, the highest level since September 1995.
+
+---
+
+### 2026-08-07 13:03:52  #國際
+
+【里昂證券日本策略師據悉辭職 先前已有多名主管離職】據知情人士透露，資深日本證券分析師Nicholas Smith已從里昂證券辭職。根據Smith的領英資料顯示，他於2011年加入里昂證券。他以每週釋出的“Benthos”策略報告而聞名，該報告專注於日本的價值導向投資。
+
+---
+
+### 2026-08-07 13:03:40  #市場
+
+【生物製品板塊短線衝高，義翹神州直線漲停】生物製品板塊短線衝高，義翹神州直線漲停，此前近岸蛋白、百普賽斯漲停，諾唯贊、吳帆生物、榮昌生物、長春高新跟漲。
+
+---
+
+### 2026-08-07 13:03:12  #MKT News #Market Regions #Greater China #Market Themes #China EV Leaders #1211.HK #Impact bullish
+
+China's Ministry of Industry and Information Technology published the 89th batch of its Directory of energy-saving new-energy vehicle models eligible for vehicle and vessel tax reductions/exemptions, adding models including BYD Fangchengbao Titanium 9 and SERES Wenjie M8.
+
+---
+
+### 2026-08-07 13:01:55  #其他
+
+【廣東佛山：已叫停季華中學教師招聘工作，開展全面核查】8月7日，廣東佛山市教育局釋出情況通報：針對網傳佛山市季華中學教師招聘有關情況，佛山市教育局已叫停學校招聘工作，成立專門調查組，開展全面核查，調查情況將向社會通報。感謝廣大網民的監督，我們將依法依規處置，努力營造公平公正的選人用人環境。
+
+---
+
+### 2026-08-07 13:01:11  #MKT News #Market Regions #Japan & APAC
+
+Japan's June coincident index (preliminary) 118.2, versus 118.1 expected and 117.9 prior.
+
+---
+
+### 2026-08-07 13:01:04  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
+
+Japan June leading economic index (preliminary) 116.4, vs 116.5 expected and 116.5 prior.
+
+---
+
+### 2026-08-07 13:01:01  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (Jun) | actual 118.2 | consensus 118.1 | previous 117.9
+
+---
+
+### 2026-08-07 13:00:56  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (Jun) | actual 116.4 | consensus 116.5 | previous 116.5
+
+---
+
+### 2026-08-07 13:00:46  #市場
+
+大盤主力淨流入超100億。
+
+---
+
+### 2026-08-07 13:00:21  #其他
+
+安聯保險仍然預測全年營業利潤164億歐元至184億歐元。
+
+---
+
+### 2026-08-07 13:00:07  #其他
+
+安聯保險第二季度營收456億歐元。安聯保險第二季度營業利潤48.7億歐元，預估45.8億歐元。
+
+---
+
+### 2026-08-07 13:00:07  #MKT News
+
+Japan preliminary June leading index MoM 0.0% (prev 0.4%).
+
+---
+
+### 2026-08-07 13:00:07  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #Nikkei 225 #Impact bullish
+
+Japan coincident index preliminary m/m +0.3% in June; prior -0.2%.
+
+---
+
+### 2026-08-07 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Coincident Index Flash (MoM) (Jun) | actual 0.3% | previous -0.2%
+
+---
+
+### 2026-08-07 13:00:00  #MKT News #Economic Calendar #Important
+
+Japan | Leading Index Flash (MoM) (Jun) | actual 0% | previous 0.4%
+
+---
+
+### 2026-08-07 12:58:04  #公司
+
+【剛果（金）決定徹底禁止銅精礦、鈷精礦出口，華友鈷業回應】有市場訊息稱剛果（金）已釋出最新行政指令，決定徹底禁止銅精礦與鈷精礦的出口。對此，華友鈷業公司接線工作人員表示，禁令針對的是“銅精礦”和“鈷精礦”這類初級礦產品，而華友鈷業在剛果（金）的成品為粗製氫氧化鈷（鈷的中間品）和電積銅（陰極銅），不涉及精礦出口問題，“中資企業應該都差不多”。（21財經）
+
+---
+
+### 2026-08-07 12:57:51  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+【DRC reportedly bans copper and cobalt concentrate exports; HUAYOU NICKEL BRAND says its DRC output not concentrates】Market sources said the Democratic Republic of Congo (DRC) issued an administrative directive banning exports of copper concentrates and cobalt concentrates. HUAYOU NICKEL BRAND said the measure targets primary concentrates; its DRC output is crude cobalt hydroxide (an intermediate cobalt product) and electrolytic cathode copper, not concentrates, and it said Chinese firms are likely in similar positions.
+
+---
+
+### 2026-08-07 12:56:06  #其他
+
+泰媒援引暖武裡府防災減災辦公室訊息說，7日發生的校園槍擊案已造成包括槍手在內的7人死亡、15人受傷，其中2人重傷。死者還包括3名教師和3名學生。（新華社）
+
+---
+
+### 2026-08-07 12:55:07  #國際
+
+日本能源巨頭ENEOS首席財務官：若中東局勢恢復平穩，由於中東原油具備經濟優勢，從替代供應商採購的石油佔比將會下降。
+
+---
+
+### 2026-08-07 12:55:02  #其他
+
+【上半年浙江進出口同比增長8.6%】據杭州海關統計，上半年浙江省進出口2.97萬億元，同比（下同）增長8.6%，其中出口2.26萬億元，增長9.2%；進口7031.6億元，增長6.7%。進出口、出口、進口分別佔全國的11.7%、15.4%、6.5%。出口結構加速迭代，自主品牌佔比提升。上半年，高技術產品出口2096.6億元，增長22.5%，佔全省出口比重達9.3%，其中船舶和海洋工程裝備、新材料出口分別增長27.9%、86.3%；智慧仿生機器人出口4.3億元，佔全國同類產品出口的60.2%。“新三樣”產品出口949.7億元，增長57.7%，對全省出口增長貢獻率達18.2%，其中電動汽車、鋰電池出口均增長1.1倍。同期，全省自主品牌產品出口增長22.8%，佔比達17.5%。
+
+---
+
+### 2026-08-07 12:54:09  #國際
+
+【研究顯示人類活動加劇歐洲山林大火風險】今年夏天，西班牙、法國等歐洲多國發生大面積山林大火，過火面積與蔓延速度屢創紀錄。國際科研機構“世界天氣歸因聯盟”釋出的最新報告指出，人類活動引發的氣候變化是導致大火肆虐的主要原因，如果不盡快減少對化石燃料的依賴，人類將很快觸及自身適應氣候變化能力的上限。科學家們在對地表溫度、乾旱程度、空氣溼度和風速等資料進行綜合分析後指出，全球變暖顯著增加了歐洲國家火災天氣條件出現的機率。（央視）
+
+---
+
+### 2026-08-07 12:52:54  #市場
+
+臺灣證交所加權股價指數下跌1%至43,952.54點。
+
+---
+
+### 2026-08-07 12:50:37  #公司 #國際
+
+【俄羅斯零售商Wildberries：葉卡捷琳堡物流中心遭襲擊後起火】俄羅斯線上零售商Wildberries表示，其位於葉卡捷琳堡的物流中心週五發生火災。該公司在Telegram訊息應用上的帖子中並未透露此次襲擊的詳細情況。
+
+---
+
+### 2026-08-07 12:47:07  #宏觀 #觀點 #央行 #國際
+
+【高盛：美國挺日元不會損及美元主要儲備貨幣的地位】高盛表示，美國支援日本拉抬日元的作為，不太可能損害美元作為全球最主要儲備貨幣的地位。“這似乎是過度解讀了，”Michael Cahill等策略師在一份報告中寫道，“我們不認為這會對美元的儲備貨幣地位產生負面影響。” 該銀行指出，日本當局可以動用美聯儲的“海外和國際貨幣管理當局回購交易安排”（FIMA Repo Facility），這使外國央行無需出售美債即可籌集美元。報告指出，這凸顯了美元的一大核心優勢：在常態時期，深厚的資本市場能滿足各國建立儲備的需求，而在面臨壓力的時期，又能提供獲取流動性的管道。 策略師們補充說，“我們認為，美國財政部的舉措，加上FIMA回購機制的可用性和實用性，有助於證明了目前沒有其他貨幣能與美元的實用價值、網路效應和配套基礎設施相匹敵。”
+
+---
+
+### 2026-08-07 12:45:18  #公司
+
+【大參林等成立藥業公司 含藥品網際網路資訊服務業務】企查查APP顯示，近日，宜春市大參林藥業有限公司成立，法定代表人為胡俠巾，經營範圍包含藥品零售，第三類醫療器械經營，酒類經營，食品銷售，藥品網際網路資訊服務，醫療器械網際網路資訊服務等。企查查股權穿透顯示，該公司由大參林(603233)全資子公司江西大參林藥業有限公司、江西金百合大藥房連鎖有限公司共同持股。
+
+---
+
+### 2026-08-07 12:43:29  #國際
+
+【霍爾木茲海峽本週船舶通行量下滑，市場關注伊朗阿曼會談進展】資料顯示，受市場觀望伊朗與阿曼會談能否為重開這條關鍵水道帶來進展影響，本週週一至週四，霍爾木茲海峽通行船舶數量降至 33 艘，而上週同期為 50 艘。克拉普勒（Kpler）的資料顯示，週四共計 4 艘船舶穿越海峽，其中包括超大型油輪 “尼索斯・基亞” 號，該輪裝載約 200 萬桶伊拉克巴士拉原油。其餘船舶中，2 艘裝載液化石油氣，1 艘為小型散貨船。
+
+---
+
+### 2026-08-07 12:41:16  #MKT News
+
+Russian online retailer Wildberries' logistics centre in Sverdlovsk region caught fire after an attack.
+
+---
+
+### 2026-08-07 12:39:47  #公司
+
+市場訊息：位元組跳動瞄準打造接近Anthropic公司Mythos水平的超大規模AI模型。
+
+---
+
+### 2026-08-07 12:38:26  #國際
+
+【日本熊本縣強震後 大量家庭仍處於斷水狀態】日本方面7日援引熊本縣方面的訊息稱，近期發生的強震一度導致當地超10萬戶家庭供水中斷。截至6日，八代市、宇城市等地仍有約36880戶家庭斷水。訊息稱，預計熊本縣全縣的斷水問題要到本月底才能解決。
+
+---
+
+### 2026-08-07 12:37:59  #國際
+
+【美科研團隊利用AI設計出可複製的新型噬菌體 】美國研究人員6日在美國《科學》雜誌上發表的新研究說，他們利用人工智慧（AI）設計出了全新、具有完整功能並能夠在實驗室中複製的噬菌體。這為利用AI在全基因組尺度設計生物功能奠定了基礎。研究論文摘要說，利用AI設計複雜生物系統有望徹底改變生物技術領域。此前，這一技術的發展主要侷限於單個基因和蛋白質設計，而整個基因組的設計難以實現。
+
+---
+
+### 2026-08-07 12:34:18  #MKT News #DXY #Impact bullish
+
+【Goldman says yen intervention unlikely to threaten dollar's reserve role】Goldman Sachs said US support for Japan’s yen intervention is unlikely to erode the dollar’s position as the world’s primary reserve currency. Japan is the largest foreign investor in the roughly $31 trillion US Treasury market. After last month’s coordinated US-Japan currency intervention, some market participants warned such measures—aimed at preventing sharp moves in the US bond market—could weaken confidence in dollar reserve assets. Goldman strategists, including Michael Cahill, said that argument rests on the assumption the US would try to block other countries from selling Treasuries in future, which they called "far‑fetched," and they do not expect the action to damage the dollar’s reserve status.
 
 ---
 
@@ -18480,215 +18750,5 @@ Gold Extends Gain on Hormuz Deal — Gold climbed toward $4,300 an ounce on Thur
 ### 2026-08-06 07:59:18  #MKT News
 
 【CITIC Securities: South Korean equity deleveraging not yet complete】CITIC Securities says retail leverage in South Korean equities has been rapidly unwound but risks remain. Brokerage margin balances fell 10% in a single day on July 31 — the largest drop this year — indicating on-exchange leverage is still being cut quickly. Retail forced liquidations on July 30–31 exceeded 100 bln won per day; the liquidation rate remains about 7–8%, well above the roughly 1% level seen in stable markets. Korea’s stabilization fund is limited in size and National Pension Service intervention carries moral hazard. CITIC expects market volatility to remain relatively elevated.
-
----
-
-### 2026-08-06 07:58:21  #國際
-
-【媒體：美國總統特朗普與國防部長赫格塞思在戴維營就伊朗導彈彈藥耗盡問題爆發爭執】兩名知情人士向《華盛頓郵報》透露，上週，唐納德・特朗普總統因伊朗戰事心生不滿，在戴維營向國防部長皮特・赫格塞思追問，為何自己明顯被誤導，嚴重的彈藥短缺問題如今或將限制美國針對伊朗可採取的軍事選項。據兩名瞭解此次談話的訊息人士稱，此次衝突發生於週五戴維營內閣會議的間隙。特朗普向赫格塞思大發脾氣，表示他本以為彈藥問題 “已經得到解決”。上述訊息人士與其他相關人員均因擔心遭到報復而選擇匿名受訪。其中一名訊息人士稱，遠端制導導彈與防空攔截彈的短缺，是特朗普近日暫緩對伊朗發動新一輪大規模打擊的部分原因。特朗普週一表示，他曾下令實施 “二戰以來規模最大的一次襲擊”，隨後又取消該行動，等待霍爾木茲海峽相關新一輪談判的進展。儘管美國已經就部分關鍵彈藥（例如愛國者防空導彈）達成新的生產協議，但這類彈藥的生產週期最長可達兩年，彈藥短缺的現狀短期內看不到緩解希望。《華盛頓郵報》此前報道，僅開戰首月，美軍就發射了 850 餘枚戰斧巡航導彈，以及超過 1000 枚愛國者與薩德（THAAD）系統攔截彈。
-
----
-
-### 2026-08-06 07:58:19  #MKT News
-
-【China International Capital Co: Global nuclear fusion investment surges; supply‑chain opportunities emerging】China International Capital Co said in a research note that global investment in nuclear fusion is accelerating, with multiple U.S. and Chinese projects moving toward commercialization. Financing activity in the sector is robust and supply‑chain companies are actively expanding fusion-related businesses. The firm advises monitoring commercial fusion project milestones and financing progress, and watching project tendering for mid‑ and upstream supply‑chain investment opportunities.
-
----
-
-### 2026-08-06 07:57:28  #MKT News
-
-U.S. Vice President Vance said he has no differences with President Trump on Iran and that they are working to implement the president's decisions.
-
----
-
-### 2026-08-06 07:57:18  #MKT News #WTI #Impact bearish #DXY #Impact bullish #XAUUSD
-
-U.S. Vice President Vance said energy prices will decline, Iran will not acquire nuclear weapons, and the U.S. will be in a stronger position.
-
----
-
-### 2026-08-06 07:57:18  #MKT News
-
-U.S. Vice President Vance said Iran is difficult to deal with, but its regime is showing cracks; the U.S. task is to secure the best outcome for the American people.
-
----
-
-### 2026-08-06 07:54:51  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. Vice President Vance said some within the Iranian regime want the war to end, while hardliners want it to continue.
-
----
-
-### 2026-08-06 07:54:51  #MKT News
-
-U.S. Vice President Vance said Israel is a great partner and, as with other allies, the U.S. sometimes holds different positions. He said his duty is to pursue U.S. interests and that Washington communicates with Israel to pursue shared objectives.
-
----
-
-### 2026-08-06 07:54:47  #MKT News
-
-U.S. Vice President Vance said the last meeting with Netanyahu produced no conflict and was a constructive, candid discussion.
-
----
-
-### 2026-08-06 07:54:06  #公司 #觀點 #國際
-
-【中金：全球聚變產業共振，產業鏈機遇逐步顯現】中金公司研報指出，全球核聚變投資快速增長，中美多個聚變專案商業化持續推進。另外，核聚變領域企業融資活躍，產業鏈相關公司積極推進聚變業務。建議持續關注下游核聚變商業企業的專案推進與融資進展情況，以及專案招標帶來的產業鏈中上游的投資機會。
-
----
-
-### 2026-08-06 07:53:21  #公司
-
-【Meta的AI模型在測試期間入侵了另一家公司】Meta當地時間週三表示，其一款AI模型在網路安全測試期間入侵了另一家公司，此前其測試合作伙伴因操作失誤導致該模型意外獲得了網際網路訪問許可權。此前，Anthropic上週表示其部分模型曾入侵三家公司，OpenAI也披露其一個AI代理入侵了初創公司Hugging Face，此次事件使大型開發商的人工智慧代理在測試期間入侵其他公司系統的案例清單進一步延長。Meta表示，獨立測試公司Irregular的配置錯誤在評估過程中無意中允許其一個模型訪問網際網路，並補充稱正在調查該事件。Meta在宣告中表示，該模型“利用了第三方服務中的一個安全漏洞，其方式與此前報道的其他公司案例類似”。當天早些時候，媒體援引訊息人士的話報道稱，Meta的Muse Spark 1.1模型——該公司曾將其吹捧為最擅長現實世界程式設計和代理任務的模型——入侵了一家未具名公司並篡改了其內部系統。
-
----
-
-### 2026-08-06 07:52:08  #公司
-
-【維立志博：維利信用於治療肝細胞癌的Ⅱ期研究進入擴充套件階段】8月6日早間，維立志博在港交所公告，公司自主研發的PD-L1/4-1BB雙特異性抗體奧帕替蘇米單抗（維利信™）一線治療肝細胞癌(HCC)Ⅱ期臨床研究經專家審議完成安全性匯入期評估，順利進入擴充套件階段。本研究由復旦大學附屬中山醫院院長、中國科學院院士周儉教授牽頭，初步資料研究顯示，奧帕替蘇米單抗聯合貝伐珠單抗在HCC患者中展現出明確且積極的療效訊號，整體安全性和耐受性良好。
-
----
-
-### 2026-08-06 07:51:29  #國際
-
-【霍爾木茲海峽談判取得進展 地區危機並未徹底解決】當地時間5日晚，伊朗外交部方面宣佈，伊朗與阿曼的談判富有進展，雙方就霍爾木茲海峽通航的航線相關地理座標達成一致，並正在起草聯合宣告。分析指出，鑑於伊朗與地區國家、特別是阿曼，並無根深蒂固的敵意，因此與阿曼達成諒解備忘錄不是一項難題。該諒解備忘錄將在一定程度上緩和地區的緊張局勢，為解決中東危機提供了機遇和視窗期，但這些並不意味著地區危機的徹底解決，也不意味著伊朗與美國關係走向緩和。伊朗輿論普遍認為，在與阿曼達成諒解後，美國採取何種態度和行為非常重要。如果美國繼續對伊朗抱有敵意或威脅對伊朗發動戰爭，則地區危機將無法得到實質性緩和。但如果美國履行對伊承諾，執行在巴基斯坦斡旋下達成的諒解備忘錄條款，則伊美雙方或將就更多分歧進行分階段的接觸。（央視）
-
----
-
-### 2026-08-06 07:50:37  #市場 #國際
-
-日本至7月31日當週買進外國債券 4779億日元，前值由-8114億日元修正為-8101億日元。日本至7月31日當週外資買進日股 -3925億日元，前值由9121億日元修正為9124億日元。日本至7月31日當週買進外國股票 -2764億日元，前值3202億日元。日本至7月31日當週外資買進日債 5589億日元，前值-15139億日元。
-
----
-
-### 2026-08-06 07:50:35  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Foreign investors bought 558.9 bln yen of Japanese government bonds (JGBs) in the week to July 31, versus net sales of 1,513.9 bln yen in the prior week.
-
----
-
-### 2026-08-06 07:50:33  #MKT News #Market Regions #Japan & APAC
-
-Japan's net sales of foreign equities for the week to July 31 totaled ¥276.4bn, versus net purchases of ¥320.2bn in the prior week.
-
----
-
-### 2026-08-06 07:50:25  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Bonds (Jul.31) | actual 558900000000B | previous -1513900000000B
-
----
-
-### 2026-08-06 07:50:20  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Stocks Buying (Jul.31) | actual -276400000000B | previous 320200000000B
-
----
-
-### 2026-08-06 07:50:12  #MKT News #Nikkei 225 #Impact bearish
-
-Foreign investors were net sellers of Japanese equities by 392.5 bln yen in the week through July 31; the prior week's figure was revised from 912.1 bln yen to 912.4 bln yen.
-
----
-
-### 2026-08-06 07:50:10  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #DXY
-
-Japan bought 477.9 bln yen of foreign bonds in the week to July 31; the prior week's figure was revised from -811.4 bln yen to -810.1 bln yen.
-
----
-
-### 2026-08-06 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign investment in Japanese Stocks (Jul.31) | actual -392500000000B | previous 912100000000B
-
----
-
-### 2026-08-06 07:50:00  #MKT News #Economic Calendar #Important
-
-Japan | Weekly Foreign Bonds Buying (Jul.31) | actual 477900000000B | previous -811400000000B
-
----
-
-### 2026-08-06 07:49:38  #國際
-
-【全日空、日本航空將於9月下調燃油附加費】共同社援引未具名訊息報道，受燃油成本回落影響，全日空與日本航空計劃在9‑10月下調國際航班燃油附加費。9‑10月的附加費標準將參照6‑7月燃油價格制定；美伊達成臨時停火協議後，油價出現回落。具體下調幅度將在與日本國土交通省磋商後確定。
-
----
-
-### 2026-08-06 07:48:42  #其他
-
-據共同社，全日空和日航將從9月起降低燃油附加費。
-
----
-
-### 2026-08-06 07:47:51  #觀點
-
-【中信建投：8月行業配置宜採用“防守底倉＋供給約束漲價＋科技核心修復”的槓鈴結構】7月市場由高擁擠成長向低估值價值劇烈切換，但科技板塊的調整更多源於籌碼鬆動和去槓桿，並不意味著AI產業趨勢全面逆轉。配置上，優先關注景氣、供需和價格共同驗證的造船、有色板塊。AI硬體可由低配恢復至中性，聚焦光模組、AI伺服器等確定性高的領域，並等待中報訂單、現金流及股價企穩後分批加倉。煤炭、石油石化、食品飲料等7月強勢板塊不宜追高，內部應精選上游資源及優質消費龍頭。
-
----
-
-### 2026-08-06 07:46:30  #國際
-
-【美參議院確認施瓦茨出任疾控中心主任 】美國參議院5日投票確認埃麗卡·施瓦茨出任美疾病控制和預防中心主任，結束該機構近一年沒有正式負責人的局面。美參議院當天以51票贊成、44票反對的投票結果確認施瓦茨的提名，投票結果基本按照黨派劃分。施瓦茨曾擔任美國副醫務總監，今年4月被總統特朗普提名擔任疾控中心主任。（新華社）
-
----
-
-### 2026-08-06 07:46:10  #公司 #市場
-
-【對沖基金巨頭7月遭受重創 AI股票大跌帶來衝擊】受AI股票大跌影響，多家知名對沖基金7月報告鉅額虧損，其中最引人注目的莫過於高槓杆基金Situational Awareness以極低價格將大部分股票投資組合出售給了肯·格里芬旗下的城堡。Situational Awareness上個月暴跌67%，該基金為了達到追加保證金要求，賣出大部分上市股票。投資者對企業在AI領域鉅額支出可持續性的擔憂也令該板塊承壓。其他基金雖然沒有遭受如此慘重的損失，但7月也標誌著此前一直對投資者非常有利的交易出現了明顯逆轉。據研究公司PivotalPath，對沖基金歷來高度依賴動量交易、擁擠的多頭頭寸和股票市場回報。該公司一項指數追蹤那些交易科技、媒體和電信股票的對沖基金，該指數僅上個月就下跌了10%，跌幅在該公司所有基準指數中最大。據一位知情人士透露，Whale Rock Capital Management的旗艦科技對沖基金7月下跌21.7%，抹去了今年以來約一半的漲幅。由Altimeter Capital Management運營的專注於人工智慧的對沖基金上個月下跌了11%。
-
----
-
-### 2026-08-06 07:46:01  #市場 #國際
-
-基準10年期日本公債期貨早盤上漲0.03點。
-
----
-
-### 2026-08-06 07:45:49  #市場 #國際
-
-日本日經指數期貨早盤下跌1.1%。
-
----
-
-### 2026-08-06 07:45:38  #市場 #觀點 #國際
-
-【亞洲多策略對沖基金7月出現大幅回撤，因AI概念股遭遇猛烈拋售】據接近相關基金的人士透露，由於日本、韓國等人工智慧（AI）概念股遭遇猛烈拋售，一些亞洲大型多策略基金在7月遭遇今年以來的最大回撤，抹去了上半年積累的部分收益。不過，這些多策略基金的表現仍優於整體行業。高盛估計，以選股策略為主的亞洲對沖基金7月平均下跌15.2%，創有記錄以來最大單月跌幅。
-
----
-
-### 2026-08-06 07:45:10  #國際
-
-【伊朗稱霍爾木茲海峽現有航道將關閉 】伊朗副外長加里巴巴迪當地時間8月5日晚表示，伊朗和阿曼已接近達成關於“商業船舶通行霍爾木茲海峽”的協議。屆時伊朗一側管控的北部航道和靠近阿曼一側的南部航道均將關閉——霍爾木茲海峽將建立新通行模式。根據新設定的航道，商業船舶進入霍爾木茲海峽以及駛離海峽的部分航程經過伊朗領海。但新航道同樣為臨時航道，預計可使用2至4個月。加里巴巴迪還否認有關伊美正在談判的說法，但表示伊朗已收到美方資訊，並稱美方表示“準備恢復履行此前簽署的諒解備忘錄中的承諾”。（ CCTV國際時訊  ）
-
----
-
-### 2026-08-06 07:44:24  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Tick Higher Ahead of More Earnings — US stock futures edged higher on Thursday after the major indexes finished mixed in the previous session, as investors turned their attention to another round of corporate earnings. Markets are awaiting results from major companies including ConocoPhillips, Airbnb, and Warner Bros. Discovery. Traders will also be watching SpaceX, with insider lock-up restrictions set to expire today, allowing major shareholders to sell part of their holdings in Elon Musk’s rocket company. On Wednesday, SpaceX plunged nearly 14% after reporting a sharp rise in capital expenditures, fueling concerns about heavy artificial intelligence-related spending. Meanwhile, Nvidia climbed 3.4% after Elon Musk said during SpaceX’s earnings call that the company would rely exclusively on Nvidia chips for its AI infrastructure. The gains helped lift the Dow to another record high, while the S&P 500 and Nasdaq Composite came under pressure as weakness across the broader technology sector weighed on sentiment.
-
----
-
-### 2026-08-06 07:43:13  #市場 #焦點
-
-現貨黃金突破4280美元/盎司，日內漲0.80%。
-
----
-
-### 2026-08-06 07:43:08  #公司 #觀點
-
-【中信建投：未來五年光通訊行業有望持續保持高增長態勢】中信建投研報指出，AI算力產業鏈已進入下游需求倒逼上游產能的深度爆發期。亞馬遜一季度AI年化營收突破150億美元，證明了雲巨頭在AI應用端已建立起較強的商業變現能力與確定性；而上游核心光學元件巨頭Lumentum產能可能很快提前售罄至2028年，則揭示了底層硬體支撐的緊缺與建設週期之長。這種從雲端軟體營收增速到硬體基礎設施長達數年的訂單鎖定，構成了當前AI行業最為堅實的景氣迴圈閉環。中信建投維持對全球光通訊行業高景氣度的判斷，未來五年有望持續保持高增長態勢，持續推薦光通訊板塊。
-
----
-
-### 2026-08-06 07:42:50  #市場 #焦點
-
-紐約期金突破4340美元/盎司，日內漲0.81%。
-
----
-
-### 2026-08-06 07:41:13  #公司 #觀點
-
-【中信建投：CXO板塊Beta穩中向好，AI製藥大有可為】中信建投研報指出，國內CXO行業經歷22-24年的調整階段後，受益海外投融資率先回暖，24年國內頭部CXO公司海外訂單展現復甦態勢，隨著25年國內創新藥資產實現大規模對外授權，帶動國內投融資25H2持續復甦，行業內需同樣企穩回升。26年至今國內創新藥行業的長期結構性機會持續兌現，國內投融資持續改善，新藥物形式賽道持續火熱並進一步放量，中信建投認為26年國內CRO/CDMO行業的新簽訂單及業績會加速增長，帶動CXO產業鏈進入新一輪發展階段。
 
 ---
