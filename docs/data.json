@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-10 02:50:03",
-  "count": 15949,
+  "updated": "2026-08-10 02:53:52",
+  "count": 15951,
   "items": [
+    {
+      "id": "mkt:019fe7df-2c6a-7aab-8fcb-48598b4c319c",
+      "time": "2026-08-10 02:53:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "According to the Financial Times, a former US security official warned President Trump is dismantling the US defensive shield."
+    },
+    {
+      "id": "5032653",
+      "time": "2026-08-10 02:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：在美國接受德黑蘭的條件之前，戰略要地霍爾木茲海峽不會重新開放。"
+    },
     {
       "id": "5032652",
       "time": "2026-08-10 02:31:14",
