@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-10 01:40:02_
-_本檔包含 3050 則快訊，約 601203 字_
+_更新時間：2026-08-10 02:57:41_
+_本檔包含 3033 則快訊，約 600796 字_
+
+---
+
+### 2026-08-04 07:30:49  #其他
+
+【利用率90%左右 新能源發展重心轉向消納】近日，國家發展改革委、國家能源局聯合印發《新型電力系統建設“十五五”規劃》（下稱《規劃》），提出：到2030年，新型電力系統初步建成，非化石能源發電量佔比達到50%；全國新能源利用率保持在90%左右。“《規劃》的核心是以新能源消納為先。”中國新能源電力投融資聯盟秘書長彭澎對記者表示：《規劃》透過調整新能源利用率管控標準，釋放新能源投資空間；與此同時，新能源發展重心正由電源側全面轉向用電側，鼓勵在用電側佈局儲能、虛擬電廠等主體保障消納。記者採訪獲悉，從產業機遇角度看，《規劃》有望進一步釋放主網特高壓、配網投資、儲能產業鏈、電力交易及虛擬電廠等產業發展動能。（上海證券報）
+
+---
+
+### 2026-08-04 07:29:45  #其他
+
+【7月浮盈超過400% 公募積極“打新”增厚收益】公募機構近期掀起了一輪“打新”熱潮。7月，在長鑫科技等優質個股的吸引下，百餘家公募機構參與新股網下配售，合計投入近140億元，整體浮盈比例超過400%。隨著硬科技賽道新股的持續增加，“打新”升級為公募的常規選項，多家機構表示將繼續捕捉下半年“打新”機遇。（上海證券報）
+
+---
+
+### 2026-08-04 07:29:25  #其他
+
+【夯實電力供應 到2030年新型儲能裝機規模達3億千瓦】《新型電力系統建設“十五五”規劃》昨天對外發布。規劃明確，“十五五”期間，我國將最佳化抽水蓄能、新型儲能等各類調節資源佈局，夯實電力供應保障能力。《規劃》指出，“十五五”時期，我國將最佳化各類調節資源佈局。加快抽水蓄能電站建設，推動新型儲能規模化發展，豐富新型儲能應用場景。推進新一代煤電升級改造。到2030年，全國抽水蓄能電站裝機規模達到1.6億千瓦左右，新型儲能裝機規模達到3億千瓦。車網互動聚合可調充電規模力爭達到5000萬千瓦。
+
+---
+
+### 2026-08-04 07:29:00  #央行 #中國央行
+
+【推動經濟持續向新向優向好發展 業界預計降準降息可能適時啟用】日前，中國人民銀行召開2026年下半年工作會議，總結2026年以來工作，分析當前形勢，部署下一階段工作。會議強調，實施好適度寬鬆的貨幣政策，充分發揮各項存量政策效能，及時謀劃出臺務實管用的增量政策，加大逆週期調節力度，加力擴大內需、最佳化供給，紮實做好下半年各項重點工作，推動經濟持續向新向優向好發展。多位專家預計，年內降準降息有一定可能和空間。
+
+---
+
+### 2026-08-04 07:28:19  #國際
+
+【知情人士：特朗普討論撤換哥倫比亞特區聯邦檢察官珍妮·皮羅】據知情人士透露，美國總統特朗普已討論撤換哥倫比亞特區聯邦檢察官珍妮·皮羅(Jeanine Pirro)。此前，皮羅的辦公室反駁了特朗普關於林肯紀念堂倒影池遭人故意破壞的說法。自皮羅的辦公室上週五撤銷對一名被控破壞倒影池的三屆奧運會參賽者的起訴以來，特朗普已在公開和私下場合批評皮羅。在一份法庭檔案中，皮羅的辦公室寫道，新資訊顯示，困擾這個新翻修水池的問題是由“拙劣的施工而非人為破壞”造成的。這些知情人士說，特朗普告訴顧問，他對皮羅感到憤怒，並覺得這份法庭檔案是對他的背叛。其中一名知情人士說，預計特朗普和皮羅會在週一晚些時候會面。週一在橢圓形辦公室對記者發表講話時，特朗普嚴厲批評了皮羅。“珍妮·皮羅犯了個錯誤。那是人為破壞，”特朗普週一在橢圓形辦公室說。他說他“對珍妮·皮羅感到失望……她輕易就屈服了。而那些人卻能逍遙法外。這是一種恥辱。”
+
+---
+
+### 2026-08-04 07:28:05  #其他
+
+【風險逐步釋放，公募基金新發熱情升溫】公募基金髮行持續回暖。公募排排網統計資料顯示，按認購起始日統計，本週（8月3日-8月9日），全市場共計有29家公募機構有產品發行，合計發行產品35只，環比上週增幅達118.75%，數量創下近三週新高。從投資型別來看，權益類基金佔據主導地位，本週開啟募集的權益類基金有21只，佔總量的60%。業內人士認為，市場風險得到一定程度釋放之後，公募佈局熱情有所回升。（上證報）
+
+---
+
+### 2026-08-04 07:27:51  #公司
+
+【超百家藥企釋出上半年業績預告 創新藥出海與價值兌現成主線】Wind資料顯示，截至8月3日，A股共有104家醫藥生物公司披露了2026年半年度業績預告。以預計淨利潤上限來看，58家公司預計今年上半年歸母淨利潤實現增長，其中28家預計歸母淨利潤同比增長超100%。分析人士認為，當前創新藥出海與價值兌現成為核心焦點，市場對授權合作的質量要求日趨嚴格，更關注首付款的含金量、合作方的實力及臨床資料的紮實程度。能夠憑藉領先產品實現海外商業化、並具備持續創新能力的藥企將更受市場青睞。（中國證券報）
+
+---
+
+### 2026-08-04 07:26:37  #MKT News #Market Themes #Chip Wars #TSM.N #Impact bullish
+
+【TSMC's Kumamoto Fab 1 resumes normal operations】On Aug 4, reports said TSMC's Kumamoto Fab 1 resumed normal operations after post-earthquake inspections and adjustments. The plant structure was confirmed safe, but equipment reconditioning and alignment remain delayed.
+
+---
+
+### 2026-08-04 07:23:46  #市場 #觀點
+
+【花旗：鐵礦石價格底部料在85美元左右】花旗表示，鐵礦石行業的關鍵成本支撐位在每噸85美元左右。該行表示，在這一價格水平下，約6%的海運供應將面臨減產風險，或者僅能產生低個位數的利潤率。花旗稱，鐵礦石生產商的盈虧平衡價格繼續攀升。該行估計行業盈虧平衡價格為每噸66美元，較2025年5月的上一次更新上漲了7%。“該曲線表明，儘管澳大利亞和巴西主要生產商的利潤率依然健康，但高成本生產商的盈利能力正面臨越來越大的壓力，“該行表示。花旗表示，其對近期鐵礦石走勢持中性看法，0-3個月的預測價格為每噸100美元。
+
+---
+
+### 2026-08-04 07:23:11  #市場 #央行 #國際
+
+【機構：日本動用美聯儲工具或考驗美日提振日元的決心】Evercore ISI表示，一項鮮少使用的美聯儲流動性工具，可能幫助日本避免透過拋售美國國債來支撐日元，但若長期依賴該工具，可能反而誘使市場試探美日兩國提振日元的決心。外國和國際貨幣當局回購機制允許海外機構以持有的美國國債作為抵押獲取美元，而無需在公開市場出售債券籌集現金。該工具於2020年疫情期間設立，旨在讓交易對手方獲得流動性，同時避免對美國國債市場造成過度擾動，於2021年7月轉為永久機制。不過，該工具存在侷限，對每個交易對手方的每日使用額度上限為600億美元。Evercore ISI策略師Marco Casiraghi和Gang Lyu表示，這僅略高於日本據估計上週四單日用於干預匯市的規模。兩位策略師週一在給客戶的報告中寫道，這限制了該工具在持續干預中的作用，也引發市場對美國是否願意支援反覆且大規模外匯干預的疑問。“我們認為，聚焦這一設有額度上限的美聯儲回購工具可能適得其反，誘使市場試探美日兩國在需要透過大規模拋售美國國債來提振日元時的決心，”他們表示。
+
+---
+
+### 2026-08-04 07:21:57  #公司 #國際
+
+【中國銅箔製造商龍電華鑫美國IPO目標估值最高17億美元】中國銅箔製造商龍電華鑫新能源科技集團(Londian Wason New Energy Tech)週一表示，其美國首次公開發行(IPO)對公司的目標估值最高可達17億美元。這可能成為一年多來中企在紐約進行的最大規模上市案。總部位於中國深圳的龍電華鑫計劃發行約360萬股美國存托股份(ADS)，發行價介於每股20至22美元之間，擬募資最高約7,860萬美元。
+
+---
+
+### 2026-08-04 07:21:27  #MKT News
+
+Death toll from strong earthquake in Venezuela rises to 6,125.
+
+---
+
+### 2026-08-04 07:20:03  #資料 #市場 #央行 #國際
+
+【韓國7月份通脹率從30個月高點回落 部分原因是政府採取措施抑制了燃料和電價】韓國7月份整體通脹率從6月份創下的30個月高點回落，部分原因是政府採取措施抑制了燃料和電價。然而，價格壓力持續存在，通脹率仍高於央行2%的目標。韓國統計廳週二表示，基準消費者價格指數(CPI) 7月份同比上漲2.8%，增速低於6月份的3.2%，後者是2023年12月以來的最快增速。該讀數低於媒體調查的11位經濟學家2.9%的預測中值。7月份消費者物價環比下降0.2%，而調查預測為下降0.1%。6月份消費者物價環比微升0.1%。剔除波動較大的食品和能源價格的核心CPI 7月份同比上漲2.6%，環比上漲0.4%。由於政府對零售燃油價格設定上限，並採取行動下調電費以遏制通脹，石油產品的價格漲幅有所放緩。7月份汽油和柴油價格同比分別上漲13%和22%，漲幅低於6月份的23%和34%。從環比看，這兩種價格分別下降了6.2%和6.7%。由於曠日持久的中東衝突導致油價飆升，加劇了通脹壓力，韓國央行7月份上調了利率，這是三年多來的首次加息，此舉也使其加入了其他收緊政策的央行行列。
+
+---
+
+### 2026-08-04 07:19:34  #央行 #美聯儲
+
+【美聯儲9月加息25個基點的機率為64.7%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為35.3%，累計加息25個基點的機率為64.7%。美聯儲到10月維持利率不變的機率為25.1%，累計加息25個基點的機率為56.2%，累計加息50個基點的機率為18.6%。
 
 ---
 
@@ -18231,191 +18315,5 @@ Morocco's Interior Ministry blamed social-media misinformation and human traffic
 ### 2026-08-03 02:58:55  #國際
 
 義大利全球線纜龍頭普睿司曼接近達成收購美國電氣裝置製造商安科（Atkore）的交易。
-
----
-
-### 2026-08-03 02:43:09  #MKT News #WTI #Impact bearish #S&P500 #Impact bullish #DXY
-
-Saudi foreign minister spoke by phone with Iran's foreign minister to discuss diplomatic efforts to de-escalate tensions.
-
----
-
-### 2026-08-03 02:40:22  #宏觀 #國際
-
-法國總理辦公室釋出外資監管新規宣告：非歐洲投資者若取得法國企業10%及以上股權，必須獲得法國財政部長批准。
-
----
-
-### 2026-08-03 02:39:35  #焦點 #國際
-
-【美以聯合襲伊計劃臨時取消，以官員事前未獲明確通知】以色列國防與外交官員表示，針對原定以美聯合打擊伊朗的行動計劃，各方連續數小時資訊不明；高層領導人竟是透過特朗普在真實社交平臺釋出的帖子，得知美國已取消此次行動。以官員稱，以色列仍維持高度戒備狀態，擔憂特朗普可能再度改變主意。
-
----
-
-### 2026-08-03 02:37:42  #國際
-
-法國收緊針對非歐洲主體收購法國企業股權的監管規定。
-
----
-
-### 2026-08-03 02:34:22  #其他
-
-中國地震臺網正式測定：08月03日02時21分在四川宜賓市高縣（北緯28.54度，東經104.67度）發生4.8級地震，震源深度6千米。
-
----
-
-### 2026-08-03 02:32:53  #國際
-
-特朗普：貝德明斯特俱樂部錦標賽制勝一杆！非常感謝所有參賽選手。我最終交出70杆的成績奪冠，倍感榮幸。和其他參賽球手不同，我幾乎沒有時間練球，我需要專注處理大量其他事務。這就叫天賦，我擁有天賦，而他們沒有。
-
----
-
-### 2026-08-03 02:31:57  #其他 #焦點
-
-阿斯利康與百時美施貴寶就製藥業鉅額交易進行洽談。
-
----
-
-### 2026-08-03 02:30:19  #MKT News
-
-Iran's president said the memorandum of understanding signed by Sham members (Levant countries) represents their collective judgment and has unanimous backing. He said the MoU should become the core of future external relations, urged efforts to compel adversaries to honor signed commitments, and said it will enhance the security of Iran, the region and its allies.
-
----
-
-### 2026-08-03 02:29:09  #國際
-
-以色列國防軍：今日在黎巴嫩軍隊一輛軍用車輛上爆炸的爆炸裝置並非我方所為。
-
----
-
-### 2026-08-03 02:28:54  #MKT News
-
-Israel's foreign minister dismissed claims that Israel is internationally isolated as absurd, saying many countries are seeking closer ties and noting Congo's foreign minister visited this week.
-
----
-
-### 2026-08-03 02:28:18  #MKT News
-
-Israel's foreign minister said Israel is working with the United States to continue opposing the International Criminal Court, noting several countries have recently withdrawn and urging continuation of that process in coordination with US sanctions measures.
-
----
-
-### 2026-08-03 02:26:51  #MKT News
-
-cenc automatic determination: 02:21 on Aug 3 an earthquake of about M4.9 occurred near Gaoxian, Yibin, Sichuan (28.55N, 104.67E). Final parameters subject to official rapid bulletin.
-
----
-
-### 2026-08-03 02:26:48  #其他
-
-週日，從加利福尼亞州至達科他地區超4500萬人收到高溫危險預警，洛杉磯等多個主要城市釋出極端高溫警報。
-
----
-
-### 2026-08-03 02:25:03  #其他
-
-中國地震臺網自動測定：08月03日02時21分在四川宜賓市高縣附近（北緯28.55度，東經104.67度）發生4.9級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-03 02:24:50  #國際
-
-伊朗總統：簽署的諒解備忘錄是沙姆成員（黎凡特地區國家）集體智慧的成果，所有成員對此表示認同。我相信這份諒解備忘錄將成為我們未來對外關係的核心。我們必須努力迫使敵人遵守其簽署的承諾。這份諒解備忘錄將提升我們國家、地區以及盟友的安全。
-
----
-
-### 2026-08-03 02:21:19  #MKT News #XAUUSD #Impact bullish #WTI
-
-【Israel questions Hamas disarmament pledge】Israel told the White House it has serious security concerns about a Hamas disarmament agreement. The Israeli prime minister’s office said intelligence assessments indicate Hamas plans to rebuild military capabilities rather than genuinely demilitarize. Israel said it will not withdraw from most of Gaza until Hamas completes disarmament. Hamas said it will begin disarming under Trump’s 20-point ceasefire plan, which calls for surrendering weapons and destroying tunnels and envisages Israeli withdrawal, a new technocratic Palestinian government and international security forces. A large-scale Israeli troop pullback before October elections is unlikely.
-
----
-
-### 2026-08-03 02:16:15  #公司 #國際
-
-日本電報電話公司（NTT）、豐田汽車加大人工智慧與工廠投資，引領日本企業資本開支創下年度新高。
-
----
-
-### 2026-08-03 02:15:47  #國際
-
-哈馬斯同意按特朗普停火方案解除武裝；以色列向白宮表達安全憂慮，質疑哈馬斯無誠意非軍事化。
-
----
-
-### 2026-08-03 02:11:27  #國際
-
-伊朗最高領袖：伊朗和伊拉克是兩個緊密相連的民族，彼此相連。
-
----
-
-### 2026-08-03 02:08:04  #國際
-
-沙特外交部：沙特外交大臣分別與卡達、約旦外交大臣通電話，商討各方統一立場的重要性，致力於緩和局勢，抵制一切有損地區安全的行為。
-
----
-
-### 2026-08-03 02:05:30  #國際
-
-以色列外交部長：有人稱以色列在國際上陷入孤立，這種說法十分荒謬。眾多國家主動與我方接觸，表示希望深化雙邊關係。就在本週，剛果外交部長到訪以色列。
-
----
-
-### 2026-08-03 02:04:59  #國際
-
-俄地方州長：烏克蘭無人機襲擊造成俄羅斯境內8人死亡，並襲擊野莓（Wildberries）倉儲中心。
-
----
-
-### 2026-08-03 02:03:51  #國際
-
-以色列外交部長：我們正與美國一道持續對抗國際刑事法院。近期已有多個國家退出國際刑事法院，這一程序應當持續推進，並配合美國實施的制裁舉措。
-
----
-
-### 2026-08-03 02:03:39  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-【Hamas says Israel never sought an agreement】Hamas leader Ghazi Hamad said today’s Israeli bombardment of Gaza proves Israel never genuinely sought a deal. He said Hamas has told mediators Israel is not interested in reaching an agreement and has asked them to intervene. Hamas also said it has not received Israel’s position on a second phase of a Gaza agreement and that Israel must fulfil its commitments before that phase can begin.
-
----
-
-### 2026-08-03 02:01:06  #MKT News
-
-【Iraq denies US aircraft landed at Ain al-Asad airbase】Iraq on Sunday denied reports that US aircraft landed at the Ain al-Asad airbase in western Anbar province, calling the reports false and saying there was no official information to support the claim. Iraqi media had earlier reported that US aircraft had landed at the base.
-
----
-
-### 2026-08-03 01:57:30  #其他
-
-伊拉克政府否認有關美軍飛機降落艾因・阿薩德空軍基地的報道。
-
----
-
-### 2026-08-03 01:56:34  #MKT News #XAUUSD #Impact bullish #WTI
-
-Israel's Channel 12 cites sources saying that, despite a statement from Trump, the Israel Defense Forces remained on high alert today, saying Iran may carry out unexpected actions.
-
----
-
-### 2026-08-03 01:53:15  #國際
-
-印度因調味新增劑違規，禁售帝亞吉歐、英布魯部分酒類產品。
-
----
-
-### 2026-08-03 01:49:44  #國際
-
-俄國防部：防空力量當天在俄羅斯各地區及黑海水域上空擊落了245架烏克蘭無人機。
-
----
-
-### 2026-08-03 01:43:34  #MKT News #Market Themes #The Trump Trade
-
-Israeli officials estimate Trump may again shift his stance toward Iran, Channel 12 reports.
-
----
-
-### 2026-08-03 01:42:29  #國際
-
-以色列官員估計特朗普可能會再次改變他對伊朗的立場。
 
 ---

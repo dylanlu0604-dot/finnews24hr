@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-10 01:40:02_
-_本檔包含 3156 則快訊，約 601805 字_
+_更新時間：2026-08-10 02:57:41_
+_本檔包含 3150 則快訊，約 601055 字_
+
+---
+
+### 2026-08-10 02:53:56  #國際
+
+特朗普：激進民主黨人想要開放邊境，還反對選民身份證件要求。美國民眾早已看透他們的真面目。
+
+---
+
+### 2026-08-10 02:53:10  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+According to the Financial Times, a former US security official warned President Trump is dismantling the US defensive shield.
+
+---
+
+### 2026-08-10 02:50:37  #國際
+
+伊朗革命衛隊：在美國接受德黑蘭的條件之前，戰略要地霍爾木茲海峽不會重新開放。
+
+---
+
+### 2026-08-10 02:31:14  #其他
+
+【醫藥基金大幅“回血” 公募持倉降至冰點後迎市場反彈】當科技賽道進入高位震盪階段，前期持續深度調整的醫藥板塊迎來一波力度可觀的估值修復行情。自6月9日探底之後，醫藥主題ETF、多隻主動權益醫藥基金淨值大幅回彈，部分產品反彈幅度突破30%。本輪行情既是行業基本面持續向好驅動的價值迴歸，也受益於公募基金極度低配帶來的拋壓釋放。但面對板塊快速上行，公募機構內部出現明顯分歧，這究竟是階段性修復行情，還是新一輪趨勢性機會，成為當前市場熱議的焦點。
+
+---
+
+### 2026-08-10 02:26:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact mixed #DXY #Impact bearish #US10Y
+
+【Hungary central bank official lauds euro-area entry benefits】Hungary's central bank reiterated support for the government's efforts to meet euro-area entry criteria, saying membership would benefit the economy. The central bank's deputy governor said the bank will play a constructive role in meeting entry conditions while maintaining price stability and cited the government's 2030 qualification target. Since the April election win the forint and Hungarian sovereign bond prices have risen. He said euro-area standards—fiscal stability, low inflation and low yields—are beneficial though a common currency carries trade-offs, added that inflation this year could be below 2%, and reiterated the bank would consider lowering its 3% inflation target to align with the euro area.
+
+---
+
+### 2026-08-10 02:21:47  #MKT News #WTI #Impact bullish #Brent
+
+【Iran says it can outwait US in Strait of Hormuz standoff】Iran believes it can outlast the US in negotiations to reopen the Strait of Hormuz, citing strong internal backing for talks and patience over unmet commitments on frozen assets and maritime restrictions. President Pezeshkian told negotiators 12 of 13 national security council members support negotiations, exceeding the threshold set by Supreme Leader Mujtaba Khamenei. Parliamentary speaker Ghalibaf has expressed frustration at what Tehran describes as US flip‑flopping — "raising issues, then withdrawing them" — delaying delivery on asset unfreezing and easing of sea blockades. Iran says it is less time‑pressured than Washington, pointing to US midterm election, oil price and inflation pressures, and called the standoff a "cat‑and‑mouse game" to see who blinks first. Tehran is using talks with Oman to signal goodwill while pressing Washington to make the first move.
+
+---
+
+### 2026-08-10 01:56:48  #MKT News
+
+IRNA: The presidency's deputy director for news and communications said Supreme Leader Mujtaba has appointed Mohsen Rezaee as his representative on the National Security Council.
+
+---
+
+### 2026-08-10 01:54:04  #國際
+
+特朗普：我們的邊境空前穩固。儘管假新聞百般說辭，驅逐出境的執行規模正創下歷史新高。
+
+---
+
+### 2026-08-10 01:44:11  #國際
+
+伊朗最高領袖穆傑塔巴任命穆赫辛·雷扎伊為其在國家安全委員會的代表。
+
+---
+
+### 2026-08-10 01:40:54  #MKT News
+
+Russian Defence Ministry says Russian air defenses intercepted and destroyed 285 Ukrainian drones.
 
 ---
 
@@ -18917,101 +18977,5 @@ EKNITI：資料中心或需配套自建電力、供水設施。
 ### 2026-08-07 15:32:05  #Trading Economics #Economy #India #Government Bond 10Y #Importance 1
 
 India 10Y Yield Rises Ahead of Bond Sale — The yield on India’s 10-year G-Sec edged up to around 6.78% on Friday, retracing part of this week's decline as a sharp rebound in oil prices dampened demand for government bonds ahead of the New Delhi's INR 320 billion debt auction. Investors closely monitored the sale of five-year and 40-year securities for cues on demand, particularly for longer-dated debt. Meanwhile, Brent crude climbed to around $83.7 per barrel, up nearly 6% amid renewed concerns over shipping through the Strait of Hormuz, raising worries over India's import bill, inflation, and the rupee. Higher oil prices also pushed the US 10-year Treasury yield up to 4.68%, reducing the appeal of emerging-market debt. Still, expectations that the Reserve Bank of India will maintain ample banking system liquidity following its dovish policy decision and lower inflation forecast continued to underpin sentiment, while reports of RBI intervention in the foreign exchange market helped limit pressure on the rupee.
-
----
-
-### 2026-08-07 15:32:04  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Opens 0.18% Higher — The FTSE 100 Index is gaining 19 points or 0.18 percent on Friday. Leading the gains are Fresnillo (2.63%), BAE Systems (1.91%) and Convatec Group (1.68%). Top losers are Rentokil Initial (-1.38%), Persimmon (-1.30%) and Whitbread (-0.95%).
-
----
-
-### 2026-08-07 15:31:54  #宏觀 #國際
-
-EKNITI：泰國正考慮針對資料中心出臺自建公用設施相關監管規定。
-
----
-
-### 2026-08-07 15:31:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Opens 0.51% Higher — The DAX Index is picking up 133 points or 0.51 percent on Friday. Gains are led by Rheinmetall (4.07%), SAP (3.49%) and Qiagen NV (2.70%). Biggest losers are Daimler Truck Holding AG (-2.88%), Munich RE (-2.72%) and Porsche Automobil (-1.27%).
-
----
-
-### 2026-08-07 15:30:46  #其他
-
-東芝：受鎧俠估值等因素影響，淨利潤大增30倍。
-
----
-
-### 2026-08-07 15:30:34  #國際
-
-泰國外匯儲備增至2754.5億美元。
-
----
-
-### 2026-08-07 15:30:25  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
-
-Shanghai Gold Exchange Gold T+D closed up 0.72% at 930.59 yuan/gram on Aug 7 (Fri); Silver T+D closed up 2.44% at 15,517.0 yuan/kg.
-
----
-
-### 2026-08-07 15:30:05  #其他
-
-【夏普下調全年經營利潤預期至300億日元】夏普8月7日公佈一季度經營利潤82.1億日元，預估66億日元；淨利潤31.2億日元，預估44.3億日元；預計全年經營利潤300.0億日元，此前預計490.0億日元，預估441.2億日元；預計全年淨利潤250.0億日元，此前預計420.0億日元，預估389.3億日元。
-
----
-
-### 2026-08-07 15:30:04  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Opens 0.29% Higher — The CAC 40 Index is up by 25 points or 0.29 percent on Friday. Top gainers are Dassault Systemes (2.07%), Thales (1.95%) and Pernod Ricard (1.83%). Biggest losses came from Stellantis NV (-2.94%), ArcelorMittal (-0.75%) and Bouygues (-0.67%).
-
----
-
-### 2026-08-07 15:30:01  #MKT News
-
-【Inovance Technology to raise prices on some digital energy products 5%-15% from Aug 30, 2026】Inovance Technology said it will raise prices on certain digital-energy products — including energy-storage converters, converter-boost step-up integrated units and energy-storage integrated systems — by 5%–15%, with adjustments varying by product category. The company cited ensuring product quality and supply-chain reliability; adjusted prices will apply to all new orders from 00:00 on Aug. 30, 2026.
-
----
-
-### 2026-08-07 15:29:52  #其他
-
-國際石油開發帝石（INPEX）高管： Ichthys液化天然氣專案的一座生產線將於2027年7月中旬起停產檢修，工期約一個半月。
-
----
-
-### 2026-08-07 15:29:43  #公司
-
-【匯川技術：8月30日起數字能源部分產品漲價5%-15%】匯川技術釋出產品調價函：經公司管理層慎重評估，為確保產品品質穩定及供應鏈持續可靠，決定對數字能源部分產品，包含儲能變流器、變流升壓一體機、儲能整合系統系列產品進行價格調整，整體漲幅5%-15%，不同產品品類差異化調整。鑑於工程專案規格確認需要一定週期，自2026年8月30日零時起，所有新增訂單執行調整後價格。
-
----
-
-### 2026-08-07 15:29:10  #其他
-
-【宇樹科技王興興：高效能通用機器人是破解人力短缺的重要突破口】8月7日，宇樹科技首次公開發行股票並在科創板上市網上投資者交流會在上海證券報·中國證券網、上證路演中心舉行。宇樹科技董事長、總經理兼技術長王興興表示，在人口老齡化、勞動力成本上升、提高生產效率和生活質量的多重需求驅動下，能夠輔助人類執行各類任務的高效能通用機器人成為破解人力短缺和效能瓶頸的重要突破口，蘊含廣闊的市場需求。（上證報）
-
----
-
-### 2026-08-07 15:28:59  #公司 #市場
-
-Kingspan執行長表示：預計下半年鋼價將進一步小幅上漲，化工產品價格將大體保持穩定。
-
----
-
-### 2026-08-07 15:28:44  #其他
-
-安聯：品浩7月實現“兩位數低位規模”的資金流入。
-
----
-
-### 2026-08-07 15:28:40  #其他
-
-安聯首席財務官稱，7月資產管理業務資金流入態勢延續。
-
----
-
-### 2026-08-07 15:28:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Edges Up, Set for Small Weekly Gain — The FTSE 100 traded slightly higher on Friday, remaining within a narrow range of around ±0.5% as investors stayed cautious amid uncertainty over a lasting agreement to reopen the Strait of Hormuz. Rising oil prices provided some support to energy stocks, with Brent crude climbing for a second session. BP rose more than 1%, while Shell was little changed. Precious metals miners also benefited from higher gold prices, with Fresnillo among the strongest performers, gaining more than 2.5%. Among heavyweight stocks, AstraZeneca and BAE Systems each added around 1%, while GSK and BAT also traded higher. JD Sports gained after appointing Peter Agnefjäll as chairman, effective September 1. Meanwhile, Lloyds reported that UK house prices were unchanged in July after rising 0.2% in June, leaving the average property price at £299,253. Annual growth slowed to 0.1%, its weakest pace since November 2023. The FTSE 100 remains only marginally higher for the week.
 
 ---

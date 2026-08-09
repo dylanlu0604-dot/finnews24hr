@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-10 01:40:02_
-_本檔包含 3076 則快訊，約 601368 字_
+_更新時間：2026-08-10 02:57:41_
+_本檔包含 3075 則快訊，約 601032 字_
+
+---
+
+### 2026-08-07 15:32:04  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Opens 0.18% Higher — The FTSE 100 Index is gaining 19 points or 0.18 percent on Friday. Leading the gains are Fresnillo (2.63%), BAE Systems (1.91%) and Convatec Group (1.68%). Top losers are Rentokil Initial (-1.38%), Persimmon (-1.30%) and Whitbread (-0.95%).
+
+---
+
+### 2026-08-07 15:31:54  #宏觀 #國際
+
+EKNITI：泰國正考慮針對資料中心出臺自建公用設施相關監管規定。
+
+---
+
+### 2026-08-07 15:31:03  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Opens 0.51% Higher — The DAX Index is picking up 133 points or 0.51 percent on Friday. Gains are led by Rheinmetall (4.07%), SAP (3.49%) and Qiagen NV (2.70%). Biggest losers are Daimler Truck Holding AG (-2.88%), Munich RE (-2.72%) and Porsche Automobil (-1.27%).
+
+---
+
+### 2026-08-07 15:30:46  #其他
+
+東芝：受鎧俠估值等因素影響，淨利潤大增30倍。
+
+---
+
+### 2026-08-07 15:30:34  #國際
+
+泰國外匯儲備增至2754.5億美元。
+
+---
+
+### 2026-08-07 15:30:25  #MKT News #Commodities #Precious Metals #XAUUSD #Impact mixed
+
+Shanghai Gold Exchange Gold T+D closed up 0.72% at 930.59 yuan/gram on Aug 7 (Fri); Silver T+D closed up 2.44% at 15,517.0 yuan/kg.
+
+---
+
+### 2026-08-07 15:30:05  #其他
+
+【夏普下調全年經營利潤預期至300億日元】夏普8月7日公佈一季度經營利潤82.1億日元，預估66億日元；淨利潤31.2億日元，預估44.3億日元；預計全年經營利潤300.0億日元，此前預計490.0億日元，預估441.2億日元；預計全年淨利潤250.0億日元，此前預計420.0億日元，預估389.3億日元。
+
+---
+
+### 2026-08-07 15:30:04  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Opens 0.29% Higher — The CAC 40 Index is up by 25 points or 0.29 percent on Friday. Top gainers are Dassault Systemes (2.07%), Thales (1.95%) and Pernod Ricard (1.83%). Biggest losses came from Stellantis NV (-2.94%), ArcelorMittal (-0.75%) and Bouygues (-0.67%).
+
+---
+
+### 2026-08-07 15:30:01  #MKT News
+
+【Inovance Technology to raise prices on some digital energy products 5%-15% from Aug 30, 2026】Inovance Technology said it will raise prices on certain digital-energy products — including energy-storage converters, converter-boost step-up integrated units and energy-storage integrated systems — by 5%–15%, with adjustments varying by product category. The company cited ensuring product quality and supply-chain reliability; adjusted prices will apply to all new orders from 00:00 on Aug. 30, 2026.
+
+---
+
+### 2026-08-07 15:29:52  #其他
+
+國際石油開發帝石（INPEX）高管： Ichthys液化天然氣專案的一座生產線將於2027年7月中旬起停產檢修，工期約一個半月。
+
+---
+
+### 2026-08-07 15:29:43  #公司
+
+【匯川技術：8月30日起數字能源部分產品漲價5%-15%】匯川技術釋出產品調價函：經公司管理層慎重評估，為確保產品品質穩定及供應鏈持續可靠，決定對數字能源部分產品，包含儲能變流器、變流升壓一體機、儲能整合系統系列產品進行價格調整，整體漲幅5%-15%，不同產品品類差異化調整。鑑於工程專案規格確認需要一定週期，自2026年8月30日零時起，所有新增訂單執行調整後價格。
+
+---
+
+### 2026-08-07 15:29:10  #其他
+
+【宇樹科技王興興：高效能通用機器人是破解人力短缺的重要突破口】8月7日，宇樹科技首次公開發行股票並在科創板上市網上投資者交流會在上海證券報·中國證券網、上證路演中心舉行。宇樹科技董事長、總經理兼技術長王興興表示，在人口老齡化、勞動力成本上升、提高生產效率和生活質量的多重需求驅動下，能夠輔助人類執行各類任務的高效能通用機器人成為破解人力短缺和效能瓶頸的重要突破口，蘊含廣闊的市場需求。（上證報）
+
+---
+
+### 2026-08-07 15:28:59  #公司 #市場
+
+Kingspan執行長表示：預計下半年鋼價將進一步小幅上漲，化工產品價格將大體保持穩定。
+
+---
+
+### 2026-08-07 15:28:44  #其他
+
+安聯：品浩7月實現“兩位數低位規模”的資金流入。
+
+---
+
+### 2026-08-07 15:28:40  #其他
+
+安聯首席財務官稱，7月資產管理業務資金流入態勢延續。
+
+---
+
+### 2026-08-07 15:28:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Edges Up, Set for Small Weekly Gain — The FTSE 100 traded slightly higher on Friday, remaining within a narrow range of around ±0.5% as investors stayed cautious amid uncertainty over a lasting agreement to reopen the Strait of Hormuz. Rising oil prices provided some support to energy stocks, with Brent crude climbing for a second session. BP rose more than 1%, while Shell was little changed. Precious metals miners also benefited from higher gold prices, with Fresnillo among the strongest performers, gaining more than 2.5%. Among heavyweight stocks, AstraZeneca and BAE Systems each added around 1%, while GSK and BAT also traded higher. JD Sports gained after appointing Peter Agnefjäll as chairman, effective September 1. Meanwhile, Lloyds reported that UK house prices were unchanged in July after rising 0.2% in June, leaving the average property price at £299,253. Annual growth slowed to 0.1%, its weakest pace since November 2023. The FTSE 100 remains only marginally higher for the week.
 
 ---
 
@@ -18466,107 +18562,5 @@ MiniMax漲幅擴大；最新上漲18%。
 ### 2026-08-06 10:55:04  #Trading Economics #Markets #New Zealand #Currency #Importance 1
 
 New Zealand Dollar Firms Up — The New Zealand dollar edged up to around $0.589, returning to a two-month high as improving developments in Middle East diplomacy supported risk sentiment. Iran said it had reached an agreement with Oman on the geographic route for temporary shipping through the Strait of Hormuz and that they are finalizing a draft deal for jointly managing the waterway, easing oil market tensions. The kiwi had weakened in the previous session following a softer-than-expected jobs report, which reinforced the case that any further interest rate increases would likely be gradual rather than aggressive. However, markets continued to price in a quarter-point rate hike in September after the Reserve Bank of New Zealand indicated at its latest meeting that further tightening may be needed to reduce monetary stimulus and bring inflation under control.
-
----
-
-### 2026-08-06 10:53:00  #公司 #市場
-
-【先進封裝概念持續反彈 長電科技漲停】近期先進封裝概念持續反彈，長電科技封漲停，甬矽電子、勁拓股份漲超10%，通富微電、盛合晶微、華天科技、太極實業漲超5%。
-
----
-
-### 2026-08-06 10:52:38  #MKT News
-
-STAR Market 50 Index rose nearly 2%; component stocks Yuanjie Technology jumped over 5%, Advanced Micro-Fabrication Equipment (AMEC) and Cambricon gained over 3%.
-
----
-
-### 2026-08-06 10:51:49  #國際
-
-【李在明公開點名批評駐韓美軍拖延歸還用地】綜合韓聯社、《東亞日報》等韓媒報道，韓國總統李在明5日在青瓦臺聽取外交部、統一部、國防部和國家報勳部工作彙報時，公開點名批評駐韓美軍拖延歸還韓方軍事用地，直言美方為拖延歸還土地羅列的各類理由“幾乎就是藉口”。韓國不惜斥巨資為駐韓美軍建成平澤新基地，美軍順利遷入後，美方卻遲遲不移交原有用地。李在明稱，這種情況“從常理上說不通”。 韓國國防部長安圭伯承認，美方在駐韓基地用地返還問題上態度消極，韓方在持續跟進督促。對此，李在明當場諷刺稱，“所以不能先付款”。他表示，韓國秉持國家合作互信，始終相信美方會履行土地返還承諾，但該承諾長期未能落地兌現。（環球時報）
-
----
-
-### 2026-08-06 10:51:28  #MKT News #DIS.N #Impact bearish
-
-JP Morgan cuts Disney (DIS.N) PT to $137 from $140.
-
----
-
-### 2026-08-06 10:50:26  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-China A-share market opened lower then rallied; the ChiNext index rose over 1%, the Shenzhen Component gained 0.62% and the Shanghai Composite added 0.35%.
-
----
-
-### 2026-08-06 10:50:15  #市場 #焦點
-
-南向資金淨買入額達30億港元。
-
----
-
-### 2026-08-06 10:50:14  #市場 #焦點
-
-創業板指漲1.02%，現報3571.375點；上證指數漲0.33%，現報3891.383點；深證成指漲0.67%，現報14239.128點。
-
----
-
-### 2026-08-06 10:50:10  #市場
-
-【CPO概念持續拉昇，長電科技、通宇通訊漲停】CPO概念持續拉昇，長電科技、通宇通訊漲停，聯特科技漲超10%，蘅東光、光庫科技、中富電路、長芯博創、有研粉材等跟漲。
-
----
-
-### 2026-08-06 10:49:53  #公司 #觀點
-
-【博視像元完成C輪融資】近日，北京博視像元科技有限公司（簡稱“博視像元”）宣佈完成C輪融資。本輪融資由中信建投投資、北京京國管股權投資基金、朗瑪峰創投三家重量級機構聯合注資。
-
----
-
-### 2026-08-06 10:49:45  #公司 #市場
-
-【電子特氣概念持續走強 和遠氣體2連板】電子特氣概念盤中持續走強，和遠氣體2連板，此前濱化股份漲停，中巨芯逼近20cm漲停，蜀道裝備、正帆科技、華特氣體、昊華科技、金宏氣體、中船特氣漲幅靠前。
-
----
-
-### 2026-08-06 10:49:07  #國際
-
-【日本與阿聯酋據悉洽談合作在日建2萬億日後設資料中心】據報道，日本與阿聯酋正洽談合作在秋田縣建設一座資料中心，專案規模預計達2萬億日元，最早將於2030年投運。報道稱，阿聯酋駐日本大使將於本月中旬訪問秋田縣，與該縣知事會談。
-
----
-
-### 2026-08-06 10:48:46  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 0
-
-Japan 10-Year Yield Falls for Second Session — Japan’s 10-year government bond yield eased to around 2.78% on Thursday, falling for a second consecutive session as lower oil prices following the partial reopening of the Strait of Hormuz reduced concerns over inflation and the outlook for interest rates. Iran and Oman reached an agreement to establish a shipping corridor through the strait, fueling expectations of stronger energy flows from the Middle East. Even so, Japanese bond yields continued to find support from growing expectations that the Bank of Japan will raise interest rates again. Last week, the BOJ kept its policy rate unchanged at 1%, though policymakers acknowledged upside inflation risks. Minutes from the July policy meeting also revealed that several board members expect consumer inflation to accelerate notably in the second half of the current fiscal year as companies press ahead with broad-based price increases across a wide range of goods.
-
----
-
-### 2026-08-06 10:48:04  #公司
-
-【萬華化學在濱州成立新能源公司，註冊資本4億】天眼查App顯示，8月4日，萬華（濱州沾化）新能源有限公司成立，法定代表人為王曉星，註冊資本4億人民幣，經營範圍含發電業務、輸電業務、供（配）電業務、風力發電技術服務、太陽能發電技術服務、光伏發電裝置租賃等，由萬華化學（煙臺）電池產業有限公司全資持股。
-
----
-
-### 2026-08-06 10:47:58  #市場
-
-CPO概念股震盪拉昇，聯特科技、光力科技漲超10%，中富電路、長芯博創、匯綠生態、工業富聯漲超5%。
-
----
-
-### 2026-08-06 10:47:23  #市場
-
-【多支半導體裝置ETF拉昇走強 早盤一度跌超3%】半導體板塊持續走強，科創半導體裝置ETF華夏（588170）、半導體裝置ETF易方達（159558）、半導體裝置ETF廣發（560780）等多支ETF漲超4%，此前早盤多支半導體裝置ETF一度跌超3%。
-
----
-
-### 2026-08-06 10:47:03  #公司 #國際
-
-生物科技公司Braveheart在美國IPO中籌集3.825億美元。
-
----
-
-### 2026-08-06 10:47:01  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Equities Trade Slightly Higher — Indonesian stocks edged up 19 points or 0.3% to 6,371 in early deals on Thursday, extending gains for the third straight session. The move tracked firmer U.S. equity futures amid upbeat earnings and renewed optimism over artificial intelligence, even as Wall Street had closed mostly lower overnight. Domestic sentiment was supported by stronger-than-expected Q2 annual GDP growth, with the economy expanding 5.29% yoy, slightly slower than Q1’s 5.61% but still above forecasts, bringing the first-half growth to 5.45%. Foreign investors added support, recording net purchases of IDR 1.62 trillion in July, reversing months of sustained outflows. The upside, however, was tempered by caution ahead of July forex reserves data and trade figures from top trading partner China, both due Friday. Gains were led by transport, basic materials, and financials, with notable movers including Hartadinata Abadi (6.0%), Petrindo Jaya Kreasi (3.7%), Charoen Pokphand (1.6%), and Bank Tabungan Negara (1.4%).
 
 ---

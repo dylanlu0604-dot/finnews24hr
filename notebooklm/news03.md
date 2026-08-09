@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-10 01:40:02_
-_本檔包含 3380 則快訊，約 600500 字_
+_更新時間：2026-08-10 02:57:41_
+_本檔包含 3382 則快訊，約 601344 字_
+
+---
+
+### 2026-08-06 10:53:00  #公司 #市場
+
+【先進封裝概念持續反彈 長電科技漲停】近期先進封裝概念持續反彈，長電科技封漲停，甬矽電子、勁拓股份漲超10%，通富微電、盛合晶微、華天科技、太極實業漲超5%。
+
+---
+
+### 2026-08-06 10:52:38  #MKT News
+
+STAR Market 50 Index rose nearly 2%; component stocks Yuanjie Technology jumped over 5%, Advanced Micro-Fabrication Equipment (AMEC) and Cambricon gained over 3%.
+
+---
+
+### 2026-08-06 10:51:49  #國際
+
+【李在明公開點名批評駐韓美軍拖延歸還用地】綜合韓聯社、《東亞日報》等韓媒報道，韓國總統李在明5日在青瓦臺聽取外交部、統一部、國防部和國家報勳部工作彙報時，公開點名批評駐韓美軍拖延歸還韓方軍事用地，直言美方為拖延歸還土地羅列的各類理由“幾乎就是藉口”。韓國不惜斥巨資為駐韓美軍建成平澤新基地，美軍順利遷入後，美方卻遲遲不移交原有用地。李在明稱，這種情況“從常理上說不通”。 韓國國防部長安圭伯承認，美方在駐韓基地用地返還問題上態度消極，韓方在持續跟進督促。對此，李在明當場諷刺稱，“所以不能先付款”。他表示，韓國秉持國家合作互信，始終相信美方會履行土地返還承諾，但該承諾長期未能落地兌現。（環球時報）
+
+---
+
+### 2026-08-06 10:51:28  #MKT News #DIS.N #Impact bearish
+
+JP Morgan cuts Disney (DIS.N) PT to $137 from $140.
+
+---
+
+### 2026-08-06 10:50:26  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+China A-share market opened lower then rallied; the ChiNext index rose over 1%, the Shenzhen Component gained 0.62% and the Shanghai Composite added 0.35%.
+
+---
+
+### 2026-08-06 10:50:15  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-08-06 10:50:14  #市場 #焦點
+
+創業板指漲1.02%，現報3571.375點；上證指數漲0.33%，現報3891.383點；深證成指漲0.67%，現報14239.128點。
+
+---
+
+### 2026-08-06 10:50:10  #市場
+
+【CPO概念持續拉昇，長電科技、通宇通訊漲停】CPO概念持續拉昇，長電科技、通宇通訊漲停，聯特科技漲超10%，蘅東光、光庫科技、中富電路、長芯博創、有研粉材等跟漲。
+
+---
+
+### 2026-08-06 10:49:53  #公司 #觀點
+
+【博視像元完成C輪融資】近日，北京博視像元科技有限公司（簡稱“博視像元”）宣佈完成C輪融資。本輪融資由中信建投投資、北京京國管股權投資基金、朗瑪峰創投三家重量級機構聯合注資。
+
+---
+
+### 2026-08-06 10:49:45  #公司 #市場
+
+【電子特氣概念持續走強 和遠氣體2連板】電子特氣概念盤中持續走強，和遠氣體2連板，此前濱化股份漲停，中巨芯逼近20cm漲停，蜀道裝備、正帆科技、華特氣體、昊華科技、金宏氣體、中船特氣漲幅靠前。
+
+---
+
+### 2026-08-06 10:49:07  #國際
+
+【日本與阿聯酋據悉洽談合作在日建2萬億日後設資料中心】據報道，日本與阿聯酋正洽談合作在秋田縣建設一座資料中心，專案規模預計達2萬億日元，最早將於2030年投運。報道稱，阿聯酋駐日本大使將於本月中旬訪問秋田縣，與該縣知事會談。
+
+---
+
+### 2026-08-06 10:48:46  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 0
+
+Japan 10-Year Yield Falls for Second Session — Japan’s 10-year government bond yield eased to around 2.78% on Thursday, falling for a second consecutive session as lower oil prices following the partial reopening of the Strait of Hormuz reduced concerns over inflation and the outlook for interest rates. Iran and Oman reached an agreement to establish a shipping corridor through the strait, fueling expectations of stronger energy flows from the Middle East. Even so, Japanese bond yields continued to find support from growing expectations that the Bank of Japan will raise interest rates again. Last week, the BOJ kept its policy rate unchanged at 1%, though policymakers acknowledged upside inflation risks. Minutes from the July policy meeting also revealed that several board members expect consumer inflation to accelerate notably in the second half of the current fiscal year as companies press ahead with broad-based price increases across a wide range of goods.
+
+---
+
+### 2026-08-06 10:48:04  #公司
+
+【萬華化學在濱州成立新能源公司，註冊資本4億】天眼查App顯示，8月4日，萬華（濱州沾化）新能源有限公司成立，法定代表人為王曉星，註冊資本4億人民幣，經營範圍含發電業務、輸電業務、供（配）電業務、風力發電技術服務、太陽能發電技術服務、光伏發電裝置租賃等，由萬華化學（煙臺）電池產業有限公司全資持股。
+
+---
+
+### 2026-08-06 10:47:58  #市場
+
+CPO概念股震盪拉昇，聯特科技、光力科技漲超10%，中富電路、長芯博創、匯綠生態、工業富聯漲超5%。
+
+---
+
+### 2026-08-06 10:47:23  #市場
+
+【多支半導體裝置ETF拉昇走強 早盤一度跌超3%】半導體板塊持續走強，科創半導體裝置ETF華夏（588170）、半導體裝置ETF易方達（159558）、半導體裝置ETF廣發（560780）等多支ETF漲超4%，此前早盤多支半導體裝置ETF一度跌超3%。
+
+---
+
+### 2026-08-06 10:47:03  #公司 #國際
+
+生物科技公司Braveheart在美國IPO中籌集3.825億美元。
+
+---
+
+### 2026-08-06 10:47:01  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesian Equities Trade Slightly Higher — Indonesian stocks edged up 19 points or 0.3% to 6,371 in early deals on Thursday, extending gains for the third straight session. The move tracked firmer U.S. equity futures amid upbeat earnings and renewed optimism over artificial intelligence, even as Wall Street had closed mostly lower overnight. Domestic sentiment was supported by stronger-than-expected Q2 annual GDP growth, with the economy expanding 5.29% yoy, slightly slower than Q1’s 5.61% but still above forecasts, bringing the first-half growth to 5.45%. Foreign investors added support, recording net purchases of IDR 1.62 trillion in July, reversing months of sustained outflows. The upside, however, was tempered by caution ahead of July forex reserves data and trade figures from top trading partner China, both due Friday. Gains were led by transport, basic materials, and financials, with notable movers including Hartadinata Abadi (6.0%), Petrindo Jaya Kreasi (3.7%), Charoen Pokphand (1.6%), and Bank Tabungan Negara (1.4%).
 
 ---
 
@@ -20279,95 +20381,5 @@ Hong Kong Private Sector Expansion Eases — The S&P Global Hong Kong SAR PMI fe
 ### 2026-08-05 08:57:26  #Trading Economics #Markets #Japan #Currency #Importance 2
 
 Yen Pauses Rally as Intervention Threat Remains — The Japanese yen traded around 157.5 per dollar on Wednesday, pausing its recent rally even as US Treasury Secretary Scott Bessent reaffirmed Washington’s ongoing support for Japan following a historic joint currency intervention. The yen had surged as much as 5% over three sessions after Tokyo and Washington carried out coordinated yen-buying on a scale not seen in decades, with both governments signaling they remain prepared to intervene again if necessary. Bank of Japan data showed Tokyo spent about ¥5.33 trillion during Friday’s operations, after reportedly conducting a record ¥8.45 trillion intervention the day before. The yen had weakened to four-decade lows last month amid higher energy costs, mounting fiscal concerns, and persistently wide interest rate differentials. Meanwhile, the latest data showed Japan’s real wages rose for a sixth consecutive month in June, reinforcing the case for additional BOJ interest rate hikes.
-
----
-
-### 2026-08-05 08:56:38  #公司
-
-【江豐電子、芯聯整合等在上海新設私募投資基金】企查查APP顯示，近日，上海芯聯啟辰二期私募投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江豐電子(300666)、芯聯整合(688469)全資子公司芯聯股權投資（杭州）有限公司等共同出資。
-
----
-
-### 2026-08-05 08:56:30  #其他
-
-【社交平臺X：土耳其法院下令封禁伊斯坦布林市長伊馬莫格魯的競選賬號】社交媒體平臺X週二表示，該平臺正在遵守土耳其法院的一項命令，在土耳其境內遮蔽被監禁的伊斯坦布林市長埃克雷姆·伊馬莫格魯的總統競選辦公室賬號，但正在法院對該命令提出異議。據X平臺釋出的裁決書副本顯示，伊斯坦布林一家法院為維護國家安全和公共秩序，下令X平臺限制對伊馬莫格魯該賬號的訪問，該賬號擁有約225,700名關注者。X平臺表示，根據土耳其法律，其必須執行該限制措施，但對該命令持異議，並已啟動法律程式。
-
----
-
-### 2026-08-05 08:54:39  #公司
-
-【錢江摩托：新款賽421S處於批次上市準備中】錢江摩托(000913)8月5日在互動平臺表示，新款賽421S處於批次上市準備中。
-
----
-
-### 2026-08-05 08:54:35  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Schmid said leverage in technology-sector investment warrants discussion.
-
----
-
-### 2026-08-05 08:54:12  #央行 #國際
-
-美聯儲施密德：科技投資中的槓桿水平值得探討。
-
----
-
-### 2026-08-05 08:54:05  #國際
-
-美國國務卿魯比奧將於美國東部時間上午10點會見英國外交大臣米利班德。
-
----
-
-### 2026-08-05 08:52:41  #市場 #觀點
-
-【中金財富期貨：柴油等成品油緊張局面或持續推高通脹壓力，黃金反彈幅度受到原油市場預期的明顯影響】油價回落，黃金反彈，但是幅度較為溫和。但是考慮到地緣政治情況依然複雜，即使海峽重開，庫存恢復仍需18個月，柴油等成品油緊張局面或持續推高通脹壓力，黃金反彈幅度受到原油市場預期的明顯影響。
-
----
-
-### 2026-08-05 08:52:18  #公司 #國際
-
-【泰航拒載中國乘客 機場致歉】8月4日晚，泰國素萬那普國際機場釋出宣告表示，針對執勤安保人員被拍到做出疑似歧視手勢一事，機場公開致歉，並懲處涉事工作人員。宣告介紹，7月29日23時許，搭乘泰國航空TG674航班的部分中國粉絲尾隨同機中國藝人，在不具備使用許可權的情況下進入貴賓室，被工作人員勸離。粉絲後續繼續尾隨藝人進入候機登機區域，查驗證件時拒不配合，試圖與藝人一同登機。為防止無關人員進入機艙，航司一度關閉飛機艙門，安保人員將相關人員帶回候機大廳。 宣告指出，航空公司評估認為這群粉絲未遵守安全規定，且擔心登機後可能持續滋擾，導致起飛後局面難以控制，而決定拒絕22人搭機，因此造成班機延誤。 素萬那普國際機場表示，其中12人同意解除安裝托執行李，另有10人拒絕配合，並對遭拒登機表示不滿，過程中挑釁工作人員，雙方因此發生衝突。 網路流傳的現場影片顯示，交涉衝突期間，一名機場安保人員向中國乘客做出拉扯眼角的動作，該畫面在社交平臺廣泛傳播，引發輿論爭議。 素萬那普機場在宣告中稱，安保人員攔阻旅客本為維護航空安全，但承認部分人員執勤言行不當，不符合服務標準，已對涉事人員予以懲處，並就此事件正式道歉。（中國僑網）
-
----
-
-### 2026-08-05 08:49:59  #市場 #國際
-
-【亞洲銅業股上漲 銅價創5月以來新高】亞洲銅業股早盤上漲，銅價升至5月中旬以來的最高水平。週二，倫敦金屬交易所（LME）銅價上漲1.4%，至每噸14,066.50美元。7月份，超過20萬噸銅抵達美國港口，這是IHS Markit航運資料自2014年有記錄以來的最高月度吞吐量。儘管美國對精煉銅加徵關稅的計劃存在不確定性，但美國銅進口速度仍在加快。澳大利亞市場，Capstone Copper股價上漲高達5.7%，Sandfire Resources上漲3.4%，必和必拓上漲2.8%，力拓上漲2.3%。日本市場方面，住友金屬礦業上漲4.1%，三菱材料上漲4.7%，Dowa上漲3.7%，JX先進金屬漲5.5%。
-
----
-
-### 2026-08-05 08:48:17  #央行 #美聯儲
-
-【調查：美聯儲9月加息25個基點的機率為58.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為41.6%，累計加息25個基點的機率為58.4%。美聯儲到10月維持利率不變的機率為30.5%，累計加息25個基點的機率為53.9%，累計加息50個基點的機率為15.5%。
-
----
-
-### 2026-08-05 08:48:11  #市場
-
-【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加3.43噸】截至2026年08月04日，全球最大的黃金ETF SPDR Gold Trust持倉量為1009.30噸，較前一個交易日增加3.43噸。
-
----
-
-### 2026-08-05 08:47:57  #MKT News #Market Regions #Greater China
-
-【Shanghai, Shenzhen margin balances rise 11.97 bln yuan】As of Aug 4, Shanghai Stock Exchange margin balance was 1.3294 trln yuan, up 6.15 bln yuan from the prior trading day; Shenzhen Stock Exchange margin balance was 1.2547 trln yuan, up 5.82 bln yuan; combined margin balance 2.5841 trln yuan, up 11.97 bln yuan.
-
----
-
-### 2026-08-05 08:47:30  #公司
-
-【贛鋒鋰業：剛果布穀馬鉀肥專案預計2027年投產】贛鋒鋰業在互動平臺表示，剛果布穀馬鉀肥專案是一次性建成200萬噸氯化鉀產能，預計2027年投產。
-
----
-
-### 2026-08-05 08:47:25  #其他
-
-【兩市融資餘額增加119.71億元】截至8月4日，上交所融資餘額報13294.07億元，較前一交易日增加61.49億元；深交所融資餘額報12547.38億元，較前一交易日增加58.22億元；兩市合計25841.45億元，較前一交易日增加119.71億元。
-
----
-
-### 2026-08-05 08:47:10  #其他
-
-【江蘇省政府召開積體電路產業高質量發展專題推進會：加大對基礎材料、核心器件、前沿工藝、先進架構研發的支援力度，加速形成產業規模和叢集效應】8月4日下午，江蘇省政府召開“6+6”產業（積體電路）高質量發展專題推進會，加強統籌謀劃，深化協同聯動，聚力強鏈補鏈延鏈，推動積體電路產業發展取得更大突破。省長劉小濤主持會議。會議強調，要搶抓新一輪科技革命和產業變革的歷史機遇，最佳化創新要素供給配置，堅持省市縣三級聯動、財政金融協同發力、有效市場有為政府更好結合，加大對基礎材料、核心器件、前沿工藝、先進架構研發的支援力度，加速形成產業規模和叢集效應。構建協同創新生態體系，整合高校、科研院所和企業建立產業聯盟，著力打造高能級平臺，提升產業話語權和影響力。健全人才“引、育、用、留”全鏈條政策體系，靶向引進高層次人才、領軍人才，建設積體電路人才培養主陣地。分層分類培育壯大領軍企業、細分賽道標杆企業，加大精準扶持力度，牽引帶動產業能級整體躍升。
 
 ---
