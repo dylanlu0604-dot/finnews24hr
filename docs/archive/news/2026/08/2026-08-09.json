@@ -1,7 +1,60 @@
 {
   "date": "2026-08-09",
-  "count": 420,
+  "count": 426,
   "items": [
+    {
+      "id": "5032381",
+      "time": "2026-08-09 15:05:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "颱風白海豚將於今天傍晚前後在玉環到溫嶺一帶沿海登陸。 （央視新聞）"
+    },
+    {
+      "id": "5032380",
+      "time": "2026-08-09 15:03:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【胡塞武裝稱襲擊沙特阿美公司煉油廠並“命中目標”】當地時間9日，葉門胡塞武裝稱，當天使用一架無人機對沙特阿美公司位於沙特吉讚的煉油廠實施襲擊，並稱“成功命中目標”。胡塞武裝表示，此次襲擊是對沙特“敵方”無人機進入葉門薩達省和哈傑省領空的回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe554-a7f8-7aab-8fc8-67c4bdecb7b8",
+      "time": "2026-08-09 15:02:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthi militants say they struck Saudi Aramco Jazan refinery, 'hit target'】Houthi militants said on the 9th (local time) they attacked Saudi Aramco’s Jazan refinery with a drone and \"successfully hit the target.\" The group said the strike was in response to Saudi \"enemy\" drones entering the airspace of Yemen’s Saada and Hajjah provinces."
+    },
+    {
+      "id": "5032379",
+      "time": "2026-08-09 15:02:30",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：頭部模型公司組建FDE團隊 軟體公司或迎價值躍升機遇】中信證券釋出研報稱，伴隨AI Coding滲透，新的AI商業化主線的開創至關重要，OpenAI、Anthropic等在Coding領域取得豐碩成果的模型公司開始組建FDE團隊，尋求模型能力與真實業務場景的深度結合。該行認為，軟體公司作為具備客戶卡位、交付能力、行業know-how積累的重要角色，有望成為模型公司的重要夥伴，把握FDE帶來的價值躍升機會；與此同時，借鑑Palantir，重構業務模式、建立AI工程化交付能力、探索效果計費，是軟體公司FDE轉型成功的重要標誌。建議關注以下幾類具備FDE業務發展潛力和基礎的公司：1)模型廠商；2)企業軟體廠商；3)IT服務廠商；4)垂直行業廠商。"
+    },
+    {
+      "id": "5032378",
+      "time": "2026-08-09 15:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市氣象臺：11日夜間至15日北京將出現大暴雨】截至8月9日10時，“白海豚”中心位於浙江省溫州市偏東方向約215公里的東海南部海面，強度為強颱風級。氣象部門預計，“白海豚”將以每小時20—25公里的速度向偏西方向移動，強度變化不大，將於8月9日傍晚至10日凌晨在浙江舟山到福建福鼎一帶沿海登陸，登陸時為強颱風級或颱風級，登陸後向西偏北方向移動，強度逐漸減弱，但仍會對京津冀地區帶來較大影響。 北京市氣象臺首席預報員雷蕾介紹，據最新資料研判，受其影響，8月11日夜間至15日京津冀地區將出現強降雨天氣，過程持續時間長、累計雨量大。 預計11日夜間至15日北京將出現大暴雨，山區及南部部分地區將出現特大暴雨。降雨將在11日夜間開始加強，11日夜間至12日夜間北京有暴雨，部分割槽域有大暴雨。"
+    },
+    {
+      "id": "mkt:019fe553-4e2c-7aab-8fc8-5e3f9dc400a5",
+      "time": "2026-08-09 15:01:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says Russian strikes on Odesa region cut power to parts of region】Odesa power company said early on Aug 9 local time that Russian strikes caused power outages in parts of the region; repair crews are carrying out repairs and power restoration is in progress."
+    },
     {
       "id": "mkt:019fe553-1843-7aab-8fc8-538d434a5468",
       "time": "2026-08-09 15:00:55",
