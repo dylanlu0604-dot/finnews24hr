@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-10 02:57:41",
-  "count": 15952,
+  "updated": "2026-08-10 03:01:53",
+  "count": 15953,
   "items": [
+    {
+      "id": "mkt:019fe7e3-be02-7aab-8fcb-54dea4b439b9",
+      "time": "2026-08-10 02:58:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RIA reported Russian forces struck the Odesa thermal power plant and seven Ukrainian substations."
+    },
+    {
+      "id": "5032655",
+      "time": "2026-08-10 02:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：特朗普期待週二前往俄亥俄州參加愛國者運動會。"
+    },
     {
       "id": "5032654",
       "time": "2026-08-10 02:53:56",
@@ -145283,14 +145306,6 @@
         "國際"
       ],
       "text": "伊朗媒體：在烏克蘭襲擊中遇襲的伊朗商船船員及遇難船員遺體已返回伊朗。"
-    },
-    {
-      "id": "5021030",
-      "time": "2026-08-03 02:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利全球線纜龍頭普睿司曼接近達成收購美國電氣裝置製造商安科（Atkore）的交易。"
     }
   ]
 }

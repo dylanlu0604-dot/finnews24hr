@@ -1,7 +1,30 @@
 {
   "date": "2026-08-10",
-  "count": 50,
+  "count": 52,
   "items": [
+    {
+      "id": "mkt:019fe7e3-be02-7aab-8fcb-54dea4b439b9",
+      "time": "2026-08-10 02:58:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "RIA reported Russian forces struck the Odesa thermal power plant and seven Ukrainian substations."
+    },
+    {
+      "id": "5032655",
+      "time": "2026-08-10 02:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：特朗普期待週二前往俄亥俄州參加愛國者運動會。"
+    },
     {
       "id": "5032654",
       "time": "2026-08-10 02:53:56",
