@@ -1,7 +1,124 @@
 {
   "date": "2026-08-09",
-  "count": 214,
+  "count": 226,
   "items": [
+    {
+      "id": "mkt:019fe424-bc08-7aab-8fc7-73b2d79154b2",
+      "time": "2026-08-09 09:30:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's National Bureau of Statistics said nationwide consumer prices (CPI) rose 0.5% YoY in July 2026 and fell 0.1% MoM."
+    },
+    {
+      "id": "5032210",
+      "time": "2026-08-09 09:30:29",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國7月CPI年率 0.5%，預期0.80%，前值1.00%。中國7月PPI年率 3.5%，預期3.80%，前值4.10%。"
+    },
+    {
+      "id": "mkt:019fe424-8e58-7aab-8fc7-6a9a01708b16",
+      "time": "2026-08-09 09:30:28",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "China July CPI MoM -0.1% vs. expected +0.2%; June -0.3%."
+    },
+    {
+      "id": "mkt:019fe424-8cb3-7aab-8fc7-65cbc188f5f1",
+      "time": "2026-08-09 09:30:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "China July CPI YoY 0.5% vs 0.8% expected, 1.0% prior."
+    },
+    {
+      "id": "mkt:019fe424-8354-7aab-8fc7-5ec02a9a355f",
+      "time": "2026-08-09 09:30:25",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China July PPI YoY 3.5% vs 3.8% expected, 4.1% prior."
+    },
+    {
+      "id": "mkt:019fe424-71d5-7aab-8fc7-550f5eb1f649",
+      "time": "2026-08-09 09:30:21",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (MoM) (Jul) | actual -0.1% | consensus 0.2% | previous -0.3%"
+    },
+    {
+      "id": "mkt:019fe424-64b6-7aab-8fc7-4e46c0f46927",
+      "time": "2026-08-09 09:30:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | PPI (YoY) (Jul) | actual 3.5% | consensus 3.80% | previous 4.10%"
+    },
+    {
+      "id": "mkt:019fe424-64b0-7aab-8fc7-4290412c504f",
+      "time": "2026-08-09 09:30:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | CPI (YoY) (Jul) | actual 0.5% | consensus 0.80% | previous 1.00%"
+    },
+    {
+      "id": "5032209",
+      "time": "2026-08-09 09:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【極端高溫與乾旱肆虐 波黑玉米大幅減產】今年夏天，多輪熱浪席捲歐洲東南部的巴爾幹半島。在波黑東北部地區，持續的高溫與嚴重乾旱給當地農業生產帶來了沉重打擊。作為當地最主要的農作物，玉米麵臨著大幅減產甚至絕收的風險，不少農戶被迫考慮縮減種植規模。（央視）"
+    },
+    {
+      "id": "5032208",
+      "time": "2026-08-09 09:28:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼日兩輛大巴相撞致22人死亡】當地時間8月8日，尼日交通部發布訊息稱，該國南部7日晚間發生一起嚴重交通事故，兩輛大巴迎頭相撞，造成至少22人死亡，37人受傷。據悉，事故發生地點距離尼日南部馬達瓦鎮約50公里。（央視）"
+    },
+    {
+      "id": "5032207",
+      "time": "2026-08-09 09:27:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【浙江上海等地將承接颱風“白海豚”最強風雨 華南高溫盤踞】隨著颱風“白海豚”不斷向我國靠近，昨天（8月8日）華東地區風雨漸起。今後幾天，華東地區風雨顯著增強，浙江、上海等地將承接颱風最猛烈風雨，局地有特大暴雨，當地公眾需密切關注臨近預報預警資訊，提前做好防範措施。與此同時，受冷空氣與颱風“白海豚”共同影響，中東部暑熱範圍大幅縮減，而華南多地則在臺風外圍下沉氣流影響下，高溫天氣盤踞。"
+    },
+    {
+      "id": "5032206",
+      "time": "2026-08-09 09:27:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國農產品價格暴漲 黃瓜漲價54.8%】週日行業資料顯示，受極端高溫天氣衝擊，韓國農產品價格出現暴漲。 韓國農水產食品流通公社的資料顯示，截至週五，100克菠菜零售價格較一個月前暴漲152.3%。 同期，10根黃瓜價格上漲54.8%，100克藍葉生菜價格攀升41.7%。"
+    },
     {
       "id": "5032205",
       "time": "2026-08-09 09:26:17",
