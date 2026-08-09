@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-10 01:28:06",
-  "count": 15979,
+  "updated": "2026-08-10 01:32:03",
+  "count": 15975,
   "items": [
+    {
+      "id": "5032648",
+      "time": "2026-08-10 01:30:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：當伊朗不再捲入戰爭時，將不得不直面黯淡的現實，卻無切實可行的解決方案。"
+    },
+    {
+      "id": "5032647",
+      "time": "2026-08-10 01:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：戰爭使伊朗得以迴避應對自身後果及嚴峻的經濟危機。"
+    },
     {
       "id": "mkt:019fe78e-f781-7aab-8fcb-240f1a1e1028",
       "time": "2026-08-10 01:25:34",
@@ -145473,58 +145489,6 @@
         "XAUUSD"
       ],
       "text": "Qatar's foreign ministry said the prime minister and foreign minister, in a call with Egypt's foreign minister, discussed efforts to ease regional tensions and urged all parties to pursue dialogue and safeguard freedom of navigation through the Strait of Hormuz."
-    },
-    {
-      "id": "5021008",
-      "time": "2026-08-03 01:31:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列官員：目前大部分會談都圍繞霍爾木茲海峽展開，其餘議題的走向尚不明朗。"
-    },
-    {
-      "id": "mkt:019fc387-c986-7aab-8f48-58e31c25ded0",
-      "time": "2026-08-03 01:31:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli officials said they were frustrated that Trump canceled planned strikes on Iran for the second time in a week, saying the last-minute reversals undermine military planning. Israeli officials now judge Trump is more likely to seek an agreement with Iran than to escalate the conflict."
-    },
-    {
-      "id": "5021007",
-      "time": "2026-08-03 01:30:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部：首相兼外交部長強調，各方必須堅持對話，並確保霍爾木茲海峽的航行自由。"
-    },
-    {
-      "id": "mkt:019fc386-7264-7aab-8f48-54cef06cb05a",
-      "time": "2026-08-03 01:29:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Brazil's Workers' Party formally confirms Lula as presidential candidate】On the 2nd the Workers' Party formally confirmed incumbent President Luiz Inácio Lula da Silva as its presidential candidate. Lula will run in the election again, seeking a fourth term."
-    },
-    {
-      "id": "5021006",
-      "time": "2026-08-03 01:29:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西勞工黨正式確認盧拉為總統候選人】巴西勞工黨2日正式確認現總統盧拉為該黨總統候選人。盧拉將再次參加大選，角逐其第四個總統任期。當天，巴西勞工黨全國代表大會在聖保羅舉行，會議正式批准盧拉與現任副總統熱拉爾多·阿爾克明（社會黨）再次組成競選搭檔。勞工黨主席埃迪尼奧·席爾瓦在會上宣佈，該黨已在高等選舉法院完成相關候選人登記工作。（新華社）"
-    },
-    {
-      "id": "5021005",
-      "time": "2026-08-03 01:28:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列對特朗普二度取消伊朗打擊行動感到失望】以色列官員感到沮喪，特朗普一週內第二次取消原定針對伊朗的打擊行動。以官員稱這種臨陣變卦擾亂軍事部署。以色列方面目前認為，相較於衝突升級，特朗普更傾向於與伊朗達成協議。"
     }
   ]
 }
