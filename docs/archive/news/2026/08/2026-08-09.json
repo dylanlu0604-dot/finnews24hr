@@ -1,7 +1,28 @@
 {
   "date": "2026-08-09",
-  "count": 299,
+  "count": 301,
   "items": [
+    {
+      "id": "mkt:019fe47b-85db-7aab-8fc7-d94d151e13b9",
+      "time": "2026-08-09 11:05:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "TASS reported US Middle East envoy Witkoff and Trump senior adviser Kushner may visit Kyiv and Moscow within the next seven to ten days."
+    },
+    {
+      "id": "5032271",
+      "time": "2026-08-09 11:04:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申港證券：MLCC開啟新一輪漲價，關注訂單溢位和國產替代】申港證券表示，AI對高階MLCC需求帶動日韓龍頭廠商產能轉向高階規格，以及智慧駕駛滲透率提高，國內廠商有望受益訂單溢位和國產份額替代，具備高容高壓、車規級MLCC量產能力的國產廠商有望率先受益。國產龍頭企業中報業績預告了較好的同比增長，三環集團MLCC產品部分規格價格修復至原有合理價值，銷售量和銷售額同比有較大幅度增長。風華高科得益於行業景氣度上行，MLCC等主營產品市場需求持續增長，公司主營產品銷量及單價同比上升。建議關注國產MLCC龍頭及材料環節公司風華高科、三環集團、火炬電子、博遷新材。"
+    },
     {
       "id": "5032270",
       "time": "2026-08-09 11:02:05",
