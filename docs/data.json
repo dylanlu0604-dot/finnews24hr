@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 14:40:46",
+  "updated": "2026-08-09 14:45:05",
   "count": 15983,
   "items": [
+    {
+      "id": "5032367",
+      "time": "2026-08-09 14:43:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝：此次針對行動是對沙特用無人機入侵薩達和哈傑空域的回應。"
+    },
     {
       "id": "mkt:019fe53e-7c56-7aab-8fc8-42fd9dfc5eea",
       "time": "2026-08-09 14:38:25",
@@ -145596,14 +145604,6 @@
         "MKT News"
       ],
       "text": "【Geely forms Geely Auto Group Sales Co.】Geely Holding Group senior vice president Yang Xueliang said today on Weibo that Geely Auto Group has established Geely Auto Group Sales Co. to further strengthen coordination of its brands' marketing resources, calling it the 'One Geely' strategy's implementation in the marketing system."
-    },
-    {
-      "id": "5020710",
-      "time": "2026-08-02 14:42:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "義大利計劃在 9 月底前出售所持帕斯基銀行剩餘股份。"
     }
   ]
 }
