@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:48:22_
-_本檔包含 3329 則快訊，約 602120 字_
+_更新時間：2026-08-10 01:40:02_
+_本檔包含 3311 則快訊，約 601197 字_
+
+---
+
+### 2026-08-05 08:44:57  #其他
+
+【OpenAI與Anthropic模型再曝安全評估事件，曾嘗試植入惡意程式碼】OpenAI和Anthropic的人工智慧模型近日捲入此前未公開的網路安全事件，成為近期多起AI模型潛在安全風險事件中的最新案例。測試前沿AI模型潛在風險的英國人工智慧安全研究所（AISI）當地時間8月4日表示，在一項涉及網際網路接入的網路安全評估中，Anthropic的Mythos 5和OpenAI的GPT-5.6-Sol模型“持續針對真實個人和組織實施可能造成危害的活動”。AISI稱，該團隊在注意到“異常資料傳輸”後，於7月28日發現了這一事件。AISI表示，調查發現，在評估過程中，其中一個AI模型試圖向GitHub上的一個開源軟體專案植入有害程式碼，甚至建立虛假身份來推動程式碼獲得批准。AISI寫道：“一名人工維護者發現並拒絕批准惡意程式碼。”
+
+---
+
+### 2026-08-05 08:43:48  #Trading Economics #Markets #New Zealand #Currency #Importance 1
+
+New Zealand Dollar Slips After Weak Jobs Report — The New Zealand dollar slipped to around $0.587, retreating from a two-month high after a weaker-than-expected jobs report raised doubts about how far interest rates may rise this year. New Zealand's unemployment rate climbed to 5.6% in the second quarter, the highest level since the third quarter of 2015 and above the expected 5.4%, pointing to growing slack in the labor market. Although employment increased 0.5% from the previous quarter and outpaced forecasts of a 0.1% rise, the gain was largely driven by a sharp increase in the labor force participation rate. Meanwhile, annual wage growth remained subdued at 2.0%, suggesting wage pressures are unlikely to fuel inflation and reducing the case for an aggressive tightening cycle. Still, markets continued to price in a September rate hike after the Reserve Bank of New Zealand signaled last month that further tightening would likely be needed to remove monetary stimulus and keep inflation under control.
+
+---
+
+### 2026-08-05 08:41:57  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Holds Gains as Hormuz Deal Eyed — Silver held above $59.5 an ounce on Wednesday after rising for two straight sessions, as investors assessed reports of an imminent deal to reopen the Strait of Hormuz, which could ease inflation concerns and lower the likelihood of near-term Federal Reserve interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz, triggering a sharp decline in oil prices. Markets trimmed expectations for a September Fed rate hike to around 57%, down from 67% a day earlier. Still, New York Fed President John Williams said inflation continues to move gradually lower but reiterated that the central bank stands ready to raise interest rates if price pressures persist. Investors are now awaiting a fresh batch of US labor market data for further clues on the Fed’s policy outlook, with ADP’s July private payrolls report due later today.
+
+---
+
+### 2026-08-05 08:40:18  #其他
+
+據日經新聞，貝恩資本將以超過1000億日元（約6.35億美元）收購源自中國臺灣的茶飲連鎖品牌貢茶。
+
+---
+
+### 2026-08-05 08:39:50  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Track Wall Street Higher — The Nikkei 225 Index jumped 3.3% to above 66,000, while the broader Topix Index advanced 1.2% to 4,009 on Wednesday, extending gains from the previous session as Japanese equities followed Wall Street higher after the Dow and S&P 500 closed at fresh record highs. Global market sentiment was also lifted by a sharp drop in oil prices amid rising optimism over an interim agreement between the US and Iran to reopen the Strait of Hormuz. Domestically, data showed real wages increased for a sixth consecutive month in June, reinforcing the case for additional Bank of Japan interest rate hikes. Technology stocks led the rally, with Kioxia Holdings climbing 7.4%, Ibiden Co gaining 5.1%, Advantest rising 5.7%, Lasertec adding 4.2%, and SoftBank Group jumping 7.8%. Other heavyweight stocks also posted solid gains, including JX Advanced Metals (3.8%), Mizuho Financial (1.7%), and Sony Group (2.7%).
+
+---
+
+### 2026-08-05 08:39:30  #公司
+
+【宏微科技戰略投資為光能源 佈局固態變壓器賽道】據宏微科技訊息，近日，宏微科技透過參股基金，完成對西安為光能源科技有限公司B輪融資的戰略投資。公司表示，此舉標誌著公司在固態變壓器（SST）核心賽道上的關鍵落子，為AIDC、儲能、柔性配電網、新能源併網及兆瓦超充等戰略場景的深度佈局注入動能。
+
+---
+
+### 2026-08-05 08:39:11  #公司 #市場
+
+【MLCC景氣度高企，概念股業績預喜比例100%】8月4日午後，MLCC概念活躍，概念指數收漲5.22%。訊息面上，村田、三星電機、太陽誘電等日韓頭部廠商先後針對AI伺服器及車規高階高容MLCC上調價格，漲幅區間達15%～30%。中國銀河證券指出，受益於AI伺服器和純電動汽車需求高增長，高容MLCC需求高速增長、交期拉長。超高容MLCC非常緊缺，MLCC龍頭小幅擴產備貨超高容產品，但產能釋放需要一年以上，超高容產品需求旺盛但供給受限的格局短期難以緩解。據證券時報·資料寶統計，MLCC概念股有19只，今年以來，股價平均上漲67.2%，昀冢科技、風華高科、三環集團、國瓷材料等6股的股價漲幅居前，年內均上漲超100%。從業績預期來看，目前5只概念股釋出上半年業績預告，業績全部預喜。按照預告下限資料來看，雙星新材業績預計扭虧，博傑股份、風華高科、三環集團、皖維高新的淨利潤均同比呈現增長。
 
 ---
 
@@ -19911,178 +19953,5 @@ Death toll from strong earthquake in Venezuela rises to 6,125.
 ### 2026-08-04 07:19:34  #央行 #美聯儲
 
 【美聯儲9月加息25個基點的機率為64.7%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為35.3%，累計加息25個基點的機率為64.7%。美聯儲到10月維持利率不變的機率為25.1%，累計加息25個基點的機率為56.2%，累計加息50個基點的機率為18.6%。
-
----
-
-### 2026-08-04 07:18:50  #其他
-
-【暴雨+強對流雙預警 多地有大暴雨 局地將有10級以上雷暴大風】8月4日6時，中央氣象臺繼續釋出暴雨黃色預警、強對流天氣藍色預警。預計，8月4日8時至5日8時，黑龍江中南部、陝西東南部、山西南部、河南西部、重慶東部、湖北西部、湖南西部、貴州東部和南部、雲南西部和南部、廣西北部和東南部、廣東西南部、海南島等地的部分地區有大到暴雨，其中重慶東部、湖北西南部、湖南西北部、雲南西部、廣西東南部沿海、廣東西南部、海南島北部和西南部等地局地有大暴雨（100～200毫米）；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。（央視新聞）
-
----
-
-### 2026-08-04 07:18:33  #公司 #國際
-
-【網路安全初創公司Horizon3.ai融資2.5億美元】總部位於舊金山的提供道德駭客僱傭服務的Horizon3.ai在後期融資中籌集了2.5億美元。Anthropic的Mythos和其他前沿人工智慧(AI)模型讓網路攻擊威力大增，引發了企業界的擔憂浪潮，該公司希望藉此勢頭實現發展。這筆定於週一宣佈的E輪融資，將這家成立七年的初創公司的市場估值從大約一年前的6.5億美元提升至20億美元以上。本輪融資由NightDragon和NEA共同領投，這兩家機構均曾參與早期融資，此外還有十多家新老投資者參投。Horizon3聯合創始人兼執行長斯內哈爾.安塔尼(Snehal Antani)表示，最新一筆資金注入將推動公司繼續向全球市場擴張。今年6月，該公司在阿姆斯特丹設立了歐洲總部。他表示，該公司還計劃增加在銷售、營銷和研發方面的支出。
-
----
-
-### 2026-08-04 07:14:43  #公司 #國際
-
-【澳洲航空出售Jetstar Japan股份，將獲1.15億澳元】澳洲航空(Qantas Airways)表示，已與日本航空(Japan Airlines)簽署協議，將出售其在經濟型航空公司Jetstar Japan的少數股權，此舉將帶來超過8,000萬美元的收入，澳洲航空計劃將這筆資金再投資於核心業務。澳洲航空週二表示，將透過回購方式出售其33.3%的股份，此舉將使國有的Development Bank of Japan成為新股東。澳洲航空補充說，日本航空和Tokyo Century Corp將維持其現有持股。
-
----
-
-### 2026-08-04 07:14:28  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、去年萬元國內生產總值用水量下降百分之四點五 水資源節約集約利用能力提升
-2、《新型電力系統建設“十五五”規劃》印發 到2030年非化石能源發電量佔比達五成
-3、南非標準銀行肯亞子行上線人民幣清算服務
-4、財政部會同農業農村部、水利部 下達農業防災減災和水利救災資金21.54億元 國家防減救災委辦公室、應急管理部會同國家糧食和物資儲備局向陝西調撥6.5萬件中央救災物資
-5、百日千萬招聘專項行動推出4個線上招聘專場
-6、我國第四代新型糧倉進入應用新階段 更智慧更綠色，大國糧倉這樣升級（探訪）
-7、四部門印發實施方案 加快建設統一開放的交通運輸市場
-8、我國核電裝機容量達1.35億千瓦 總規模保持世界第一
-9、天津出臺政策加力盤活存量資產
-10、實現全年經濟增長預期目標有堅實條件和支撐 我國經濟動能向新結構向優（讀數 讀勢 讀根基）
-11、夯實穩的基礎 積蓄進的動能
-12、最高法釋出典型案例，回應網路消費等社會熱點問題 依法規範平臺經營 保護消費者合法權益（法治聚焦）
-13、“小票根”解鎖“吃、住、行、遊、購、娛”多元場景 “電影+”業態，激發消費新活力（解碼·文化市場新觀察）
-14、江蘇無錫上線“詞元超市” 呼叫大模型 省錢又方便
-15、全國專業技術人才總量超8000萬 加快構建人才培養、激勵、保障服務全週期投入體系
-16、中國資環“新再生網”平臺累計商品交易總額突破1000億元
-17、韓國赴華遊客數量持續增長。
-
----
-
-### 2026-08-04 07:14:19  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、東風浩蕩開新局——習近平經濟思想指引中國經濟高質量發展行穩致遠
-2、謀復興——深刻認識“最本質的特徵”和“最大優勢”
-3、李強簽署國務院令 公佈修訂後的《積體電路布圖設計保護條例》
-4、蔡奇看望慰問北戴河暑期休假專家
-5、寧夏西吉縣弘揚偉大長征精神——講好紅色故事 發展鄉村產業（牢記初心使命 奮進復興征程）。
-
----
-
-### 2026-08-04 07:13:51  #國際
-
-【日本熊本縣發生4.1級地震】據日本氣象廳釋出的訊息，當地時間8月4日5時32分左右，北京時間今晨4時32分左右，熊本縣熊本地區發生4.1級地震，震源深度10千米，最大震感為震度4。
-
----
-
-### 2026-08-04 07:12:32  #公司 #觀點
-
-【外資機構密集調研A股公司 三大行業最受關注】7月以來，外資機構累計調研117家A股上市公司，硬科技、高階製造領域成為調研核心方向。從行業分佈觀察，電子、機械裝置、電力裝置三大行業，合計佔調研企業總數的半數以上。調研熱潮之下，摩根大通、瑞銀證券等外資機構近期相繼表態，認為AI（人工智慧）具備長期產業發展趨勢，市場對於科技板塊的盈利預期仍在持續上修。
-
----
-
-### 2026-08-04 07:11:16  #公司 #市場
-
-【亞馬遜股價盤後下跌 貝佐斯提交出售價值40.7億美元股票的申請】亞馬遜股價在盤後交易中一度下跌1.9%，董事長貝佐斯此前提交出售1500萬股、總市值 40.7億美元股票的申請。大致的出售日期為8月3日。7月30日釋出亮眼財報後，亞馬遜股價在隨後兩個交易日飆升了21%。
-
----
-
-### 2026-08-04 07:10:53  #其他
-
-【委內瑞拉強震死亡人數上升至6125人】當地時間3日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震遇難人數上升至6125人，6462人獲救。
-
----
-
-### 2026-08-04 07:10:41  #其他
-
-【臺積電熊本工廠完成地震相關檢查後恢復正常生產】共同社援引臺積電的訊息報道稱，熊本第一工廠已恢復正常生產運營。據報道地震發生後，對生產裝置進行的檢查和調查已經完成。
-
----
-
-### 2026-08-04 07:09:54  #其他
-
-臺積電熊本工廠完成地震相關檢查後恢復正常生產。
-
----
-
-### 2026-08-04 07:09:29  #其他
-
-穆迪評級機構表示，威廉姆斯收購Momentum Midstream不會影響其Baa2評級或正面展望。
-
----
-
-### 2026-08-04 07:08:42  #公司 #市場 #國際
-
-【威廉姆斯將以55億美元收購Momentum，季度業績未達預期】管道公司威廉姆斯週一表示，將收購Momentum Midstream，以此押注美國墨西哥灣沿岸液化天然氣（LNG）出口設施、發電及工業使用者日益增長的需求。該交易包括約35億美元的現金及承接債務，以及約20億美元的威廉姆斯公司股票，將擴大威廉姆斯公司在海恩斯維爾頁岩盆地的業務版圖——該地區是墨西哥灣沿岸液化天然氣終端的重要天然氣供應源。威廉姆斯公司表示，此次交易將新增超過4,000英里的管道、逾100萬英畝的專用土地，以及總日處理能力約為60億立方英尺的天然氣集輸、加工和運輸資產。這家總部位於俄克拉荷馬州塔爾薩的公司股價在盤後交易中上漲了約2%。受運營成本和利息支出增加的影響，該公司第二季度經調整後每股收益為0.50美元，低於分析師平均預期的0.51美元。
-
----
-
-### 2026-08-04 07:06:32  #市場 #央行 #國際
-
-【韓國通脹降溫幅度超預期，政策壓力有所緩解】韓國7月居民通脹回落幅度超出市場預期，同比增速回落至3%下方。上月該國物價漲幅一度升至2023年末以來最高水平，本次資料為政策制定者帶來喘息空間。韓國統計廳週二公佈資料顯示，7月消費者物價同比上漲2.8%，增速較6月的3.2%有所放緩，為4月以來最低。媒體對經濟學家調查得出的預期中值為3%。剔除波動較大的食品與能源價格後的核心通脹小幅上行至2.6%。這表明，儘管整體通脹有所降溫，但底層物價壓力大體保持穩定。雖然通脹放緩有望緩解市場對通脹再度加速上行的擔憂，但當前通脹水平仍顯著高於韓國央行2%的政策目標，因此大機率不會改變央行政策路徑。韓國官員持續表態，物價韌性、經濟增長以及高企的房價，要求央行維持偏緊縮政策傾向。這份通脹資料釋出前，韓國央行已於上月將基準利率上調25個基點至2.75%，這是2023年1月以來首次加息。央行行長申鉉松表示，受中東局勢持續影響，通脹預計在較長一段時間內持續高於2%目標；後續是否進一步加息，將取決於物價壓力、經濟增長以及金融市場穩定情況。
-
----
-
-### 2026-08-04 07:06:03  #Trading Economics #Economy #South Korea #Inflation Rate #Importance 2
-
-South Korea Inflation Rate at 3-Month Low of 2.8% — South Korea’s annual inflation rate slowed to 2.8% in July 2026, marking the softest increase since April and down from 3.2% in the previous month, which was the fastest pace since December 2023. The latest reading was below market expectations of 3.0%, though it remained above the central bank’s 2% target. On a monthly basis, consumer prices unexpectedly fell 0.2%, compared with market forecasts of a 0.1% rise, marking the first monthly decline since November 2025.
-
----
-
-### 2026-08-04 07:05:30  #國際
-
-韓元在韓國7月通脹資料公佈後變化不大。
-
----
-
-### 2026-08-04 07:05:07  #資料 #國際
-
-韓國7月CPI創2025年11月以來首次環比下降，核心CPI同比漲幅創2023年12月以來最大。
-
----
-
-### 2026-08-04 07:04:10  #其他
-
-【中央紀委國家監委通報2026年上半年對紀檢監察干部監督檢查審查調查情況】2026年上半年，各級紀檢監察機關堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平黨建思想，認真落實二十屆中央紀委五次全會工作部署，紮實開展樹立和踐行正確政績觀學習教育，以更高標準、更實舉措持續加強紀檢監察干部隊伍建設，以釘釘子精神縱深推進“三化”建設年行動，堅定不移強化制度治權、依規用權，不斷提升監督執紀執法質效，著力鍛造政治過硬、能力過硬、作風過硬、廉潔過硬的紀檢監察鐵軍。全國紀檢監察機關共接收涉及紀檢監察干部問題線索或反映1.55萬餘件次，處置涉及紀檢監察干部問題線索1.42萬餘件，談話函詢紀檢監察干部4385人次，對紀檢監察干部立案1685人，處分1535人，移送司法機關138人。其中，處分廳局級幹部59人、縣處級幹部356人。
-
----
-
-### 2026-08-04 07:03:13  #其他
-
-【2000萬觀影補貼，2026北京仲夏電影嘉年華啟動】日前，“京彩百花 全城綻放——2026北京仲夏電影嘉年華”在北京啟幕，以光影啟用首都夏日文商旅消費活力。作為第38屆大眾電影百花獎配套活動，“2026北京仲夏電影嘉年華”貫穿暑期，推動電影走出影院、融入城市街巷，豐富市民夏日文化生活。嘉年華配套2000萬元惠民觀影補貼，依託票務平臺推出購票立減、閤家歡優惠等多項福利。嘉年華期間，全市在首鋼園、798、藍色港灣等多地開展53場露天放映，3000餘個公益點位展映歷屆百花獎佳作。活動同步打造光影市集矩陣，聯動商圈、文旅點位升級“票根經濟”，延伸觀影、市集、文旅、非遺體驗等多元消費場景，持續深化“電影+”融合模式，啟用首都夏日文商旅消費活力。（央視新聞）
-
----
-
-### 2026-08-04 07:02:54  #公司 #國際
-
-澳航將出售捷星日本33.32%的股份。
-
----
-
-### 2026-08-04 07:00:54  #資料 #國際
-
-韓國 7 月核心CPI同比漲幅創 2023 年 12 月以來新高。
-
----
-
-### 2026-08-04 07:00:14  #資料 #國際
-
-韓國7月CPI年率 2.8%，預期3.00%，前值3.20%。
-韓國7月CPI月率 -0.2%，預期0.1%，前值0.10%。
-
----
-
-### 2026-08-04 07:00:13  #MKT News #Macro & Rates
-
-South Korea July CPI MoM -0.2% (consensus +0.1%, prior +0.1%).
-
----
-
-### 2026-08-04 07:00:09  #MKT News
-
-South Korea July CPI YoY 2.8% vs 3.0% expected and 3.2% prior.
-
----
-
-### 2026-08-04 07:00:00  #MKT News #Economic Calendar #Important
-
-South Korea | CPI (MoM) (Jul) | actual -0.2% | consensus 0.1% | previous 0.10%
 
 ---

@@ -1,7 +1,180 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:48:22_
-_本檔包含 3062 則快訊，約 602000 字_
+_更新時間：2026-08-10 01:40:02_
+_本檔包含 3050 則快訊，約 601203 字_
+
+---
+
+### 2026-08-04 07:18:50  #其他
+
+【暴雨+強對流雙預警 多地有大暴雨 局地將有10級以上雷暴大風】8月4日6時，中央氣象臺繼續釋出暴雨黃色預警、強對流天氣藍色預警。預計，8月4日8時至5日8時，黑龍江中南部、陝西東南部、山西南部、河南西部、重慶東部、湖北西部、湖南西部、貴州東部和南部、雲南西部和南部、廣西北部和東南部、廣東西南部、海南島等地的部分地區有大到暴雨，其中重慶東部、湖北西南部、湖南西北部、雲南西部、廣西東南部沿海、廣東西南部、海南島北部和西南部等地局地有大暴雨（100～200毫米）；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。（央視新聞）
+
+---
+
+### 2026-08-04 07:18:33  #公司 #國際
+
+【網路安全初創公司Horizon3.ai融資2.5億美元】總部位於舊金山的提供道德駭客僱傭服務的Horizon3.ai在後期融資中籌集了2.5億美元。Anthropic的Mythos和其他前沿人工智慧(AI)模型讓網路攻擊威力大增，引發了企業界的擔憂浪潮，該公司希望藉此勢頭實現發展。這筆定於週一宣佈的E輪融資，將這家成立七年的初創公司的市場估值從大約一年前的6.5億美元提升至20億美元以上。本輪融資由NightDragon和NEA共同領投，這兩家機構均曾參與早期融資，此外還有十多家新老投資者參投。Horizon3聯合創始人兼執行長斯內哈爾.安塔尼(Snehal Antani)表示，最新一筆資金注入將推動公司繼續向全球市場擴張。今年6月，該公司在阿姆斯特丹設立了歐洲總部。他表示，該公司還計劃增加在銷售、營銷和研發方面的支出。
+
+---
+
+### 2026-08-04 07:14:43  #公司 #國際
+
+【澳洲航空出售Jetstar Japan股份，將獲1.15億澳元】澳洲航空(Qantas Airways)表示，已與日本航空(Japan Airlines)簽署協議，將出售其在經濟型航空公司Jetstar Japan的少數股權，此舉將帶來超過8,000萬美元的收入，澳洲航空計劃將這筆資金再投資於核心業務。澳洲航空週二表示，將透過回購方式出售其33.3%的股份，此舉將使國有的Development Bank of Japan成為新股東。澳洲航空補充說，日本航空和Tokyo Century Corp將維持其現有持股。
+
+---
+
+### 2026-08-04 07:14:28  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、去年萬元國內生產總值用水量下降百分之四點五 水資源節約集約利用能力提升
+2、《新型電力系統建設“十五五”規劃》印發 到2030年非化石能源發電量佔比達五成
+3、南非標準銀行肯亞子行上線人民幣清算服務
+4、財政部會同農業農村部、水利部 下達農業防災減災和水利救災資金21.54億元 國家防減救災委辦公室、應急管理部會同國家糧食和物資儲備局向陝西調撥6.5萬件中央救災物資
+5、百日千萬招聘專項行動推出4個線上招聘專場
+6、我國第四代新型糧倉進入應用新階段 更智慧更綠色，大國糧倉這樣升級（探訪）
+7、四部門印發實施方案 加快建設統一開放的交通運輸市場
+8、我國核電裝機容量達1.35億千瓦 總規模保持世界第一
+9、天津出臺政策加力盤活存量資產
+10、實現全年經濟增長預期目標有堅實條件和支撐 我國經濟動能向新結構向優（讀數 讀勢 讀根基）
+11、夯實穩的基礎 積蓄進的動能
+12、最高法釋出典型案例，回應網路消費等社會熱點問題 依法規範平臺經營 保護消費者合法權益（法治聚焦）
+13、“小票根”解鎖“吃、住、行、遊、購、娛”多元場景 “電影+”業態，激發消費新活力（解碼·文化市場新觀察）
+14、江蘇無錫上線“詞元超市” 呼叫大模型 省錢又方便
+15、全國專業技術人才總量超8000萬 加快構建人才培養、激勵、保障服務全週期投入體系
+16、中國資環“新再生網”平臺累計商品交易總額突破1000億元
+17、韓國赴華遊客數量持續增長。
+
+---
+
+### 2026-08-04 07:14:19  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、東風浩蕩開新局——習近平經濟思想指引中國經濟高質量發展行穩致遠
+2、謀復興——深刻認識“最本質的特徵”和“最大優勢”
+3、李強簽署國務院令 公佈修訂後的《積體電路布圖設計保護條例》
+4、蔡奇看望慰問北戴河暑期休假專家
+5、寧夏西吉縣弘揚偉大長征精神——講好紅色故事 發展鄉村產業（牢記初心使命 奮進復興征程）。
+
+---
+
+### 2026-08-04 07:13:51  #國際
+
+【日本熊本縣發生4.1級地震】據日本氣象廳釋出的訊息，當地時間8月4日5時32分左右，北京時間今晨4時32分左右，熊本縣熊本地區發生4.1級地震，震源深度10千米，最大震感為震度4。
+
+---
+
+### 2026-08-04 07:12:32  #公司 #觀點
+
+【外資機構密集調研A股公司 三大行業最受關注】7月以來，外資機構累計調研117家A股上市公司，硬科技、高階製造領域成為調研核心方向。從行業分佈觀察，電子、機械裝置、電力裝置三大行業，合計佔調研企業總數的半數以上。調研熱潮之下，摩根大通、瑞銀證券等外資機構近期相繼表態，認為AI（人工智慧）具備長期產業發展趨勢，市場對於科技板塊的盈利預期仍在持續上修。
+
+---
+
+### 2026-08-04 07:11:16  #公司 #市場
+
+【亞馬遜股價盤後下跌 貝佐斯提交出售價值40.7億美元股票的申請】亞馬遜股價在盤後交易中一度下跌1.9%，董事長貝佐斯此前提交出售1500萬股、總市值 40.7億美元股票的申請。大致的出售日期為8月3日。7月30日釋出亮眼財報後，亞馬遜股價在隨後兩個交易日飆升了21%。
+
+---
+
+### 2026-08-04 07:10:53  #其他
+
+【委內瑞拉強震死亡人數上升至6125人】當地時間3日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震遇難人數上升至6125人，6462人獲救。
+
+---
+
+### 2026-08-04 07:10:41  #其他
+
+【臺積電熊本工廠完成地震相關檢查後恢復正常生產】共同社援引臺積電的訊息報道稱，熊本第一工廠已恢復正常生產運營。據報道地震發生後，對生產裝置進行的檢查和調查已經完成。
+
+---
+
+### 2026-08-04 07:09:54  #其他
+
+臺積電熊本工廠完成地震相關檢查後恢復正常生產。
+
+---
+
+### 2026-08-04 07:09:29  #其他
+
+穆迪評級機構表示，威廉姆斯收購Momentum Midstream不會影響其Baa2評級或正面展望。
+
+---
+
+### 2026-08-04 07:08:42  #公司 #市場 #國際
+
+【威廉姆斯將以55億美元收購Momentum，季度業績未達預期】管道公司威廉姆斯週一表示，將收購Momentum Midstream，以此押注美國墨西哥灣沿岸液化天然氣（LNG）出口設施、發電及工業使用者日益增長的需求。該交易包括約35億美元的現金及承接債務，以及約20億美元的威廉姆斯公司股票，將擴大威廉姆斯公司在海恩斯維爾頁岩盆地的業務版圖——該地區是墨西哥灣沿岸液化天然氣終端的重要天然氣供應源。威廉姆斯公司表示，此次交易將新增超過4,000英里的管道、逾100萬英畝的專用土地，以及總日處理能力約為60億立方英尺的天然氣集輸、加工和運輸資產。這家總部位於俄克拉荷馬州塔爾薩的公司股價在盤後交易中上漲了約2%。受運營成本和利息支出增加的影響，該公司第二季度經調整後每股收益為0.50美元，低於分析師平均預期的0.51美元。
+
+---
+
+### 2026-08-04 07:06:32  #市場 #央行 #國際
+
+【韓國通脹降溫幅度超預期，政策壓力有所緩解】韓國7月居民通脹回落幅度超出市場預期，同比增速回落至3%下方。上月該國物價漲幅一度升至2023年末以來最高水平，本次資料為政策制定者帶來喘息空間。韓國統計廳週二公佈資料顯示，7月消費者物價同比上漲2.8%，增速較6月的3.2%有所放緩，為4月以來最低。媒體對經濟學家調查得出的預期中值為3%。剔除波動較大的食品與能源價格後的核心通脹小幅上行至2.6%。這表明，儘管整體通脹有所降溫，但底層物價壓力大體保持穩定。雖然通脹放緩有望緩解市場對通脹再度加速上行的擔憂，但當前通脹水平仍顯著高於韓國央行2%的政策目標，因此大機率不會改變央行政策路徑。韓國官員持續表態，物價韌性、經濟增長以及高企的房價，要求央行維持偏緊縮政策傾向。這份通脹資料釋出前，韓國央行已於上月將基準利率上調25個基點至2.75%，這是2023年1月以來首次加息。央行行長申鉉松表示，受中東局勢持續影響，通脹預計在較長一段時間內持續高於2%目標；後續是否進一步加息，將取決於物價壓力、經濟增長以及金融市場穩定情況。
+
+---
+
+### 2026-08-04 07:06:03  #Trading Economics #Economy #South Korea #Inflation Rate #Importance 2
+
+South Korea Inflation Rate at 3-Month Low of 2.8% — South Korea’s annual inflation rate slowed to 2.8% in July 2026, marking the softest increase since April and down from 3.2% in the previous month, which was the fastest pace since December 2023. The latest reading was below market expectations of 3.0%, though it remained above the central bank’s 2% target. On a monthly basis, consumer prices unexpectedly fell 0.2%, compared with market forecasts of a 0.1% rise, marking the first monthly decline since November 2025.
+
+---
+
+### 2026-08-04 07:05:30  #國際
+
+韓元在韓國7月通脹資料公佈後變化不大。
+
+---
+
+### 2026-08-04 07:05:07  #資料 #國際
+
+韓國7月CPI創2025年11月以來首次環比下降，核心CPI同比漲幅創2023年12月以來最大。
+
+---
+
+### 2026-08-04 07:04:10  #其他
+
+【中央紀委國家監委通報2026年上半年對紀檢監察干部監督檢查審查調查情況】2026年上半年，各級紀檢監察機關堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平黨建思想，認真落實二十屆中央紀委五次全會工作部署，紮實開展樹立和踐行正確政績觀學習教育，以更高標準、更實舉措持續加強紀檢監察干部隊伍建設，以釘釘子精神縱深推進“三化”建設年行動，堅定不移強化制度治權、依規用權，不斷提升監督執紀執法質效，著力鍛造政治過硬、能力過硬、作風過硬、廉潔過硬的紀檢監察鐵軍。全國紀檢監察機關共接收涉及紀檢監察干部問題線索或反映1.55萬餘件次，處置涉及紀檢監察干部問題線索1.42萬餘件，談話函詢紀檢監察干部4385人次，對紀檢監察干部立案1685人，處分1535人，移送司法機關138人。其中，處分廳局級幹部59人、縣處級幹部356人。
+
+---
+
+### 2026-08-04 07:03:13  #其他
+
+【2000萬觀影補貼，2026北京仲夏電影嘉年華啟動】日前，“京彩百花 全城綻放——2026北京仲夏電影嘉年華”在北京啟幕，以光影啟用首都夏日文商旅消費活力。作為第38屆大眾電影百花獎配套活動，“2026北京仲夏電影嘉年華”貫穿暑期，推動電影走出影院、融入城市街巷，豐富市民夏日文化生活。嘉年華配套2000萬元惠民觀影補貼，依託票務平臺推出購票立減、閤家歡優惠等多項福利。嘉年華期間，全市在首鋼園、798、藍色港灣等多地開展53場露天放映，3000餘個公益點位展映歷屆百花獎佳作。活動同步打造光影市集矩陣，聯動商圈、文旅點位升級“票根經濟”，延伸觀影、市集、文旅、非遺體驗等多元消費場景，持續深化“電影+”融合模式，啟用首都夏日文商旅消費活力。（央視新聞）
+
+---
+
+### 2026-08-04 07:02:54  #公司 #國際
+
+澳航將出售捷星日本33.32%的股份。
+
+---
+
+### 2026-08-04 07:00:54  #資料 #國際
+
+韓國 7 月核心CPI同比漲幅創 2023 年 12 月以來新高。
+
+---
+
+### 2026-08-04 07:00:14  #資料 #國際
+
+韓國7月CPI年率 2.8%，預期3.00%，前值3.20%。
+韓國7月CPI月率 -0.2%，預期0.1%，前值0.10%。
+
+---
+
+### 2026-08-04 07:00:13  #MKT News #Macro & Rates
+
+South Korea July CPI MoM -0.2% (consensus +0.1%, prior +0.1%).
+
+---
+
+### 2026-08-04 07:00:09  #MKT News
+
+South Korea July CPI YoY 2.8% vs 3.0% expected and 3.2% prior.
+
+---
+
+### 2026-08-04 07:00:00  #MKT News #Economic Calendar #Important
+
+South Korea | CPI (MoM) (Jul) | actual -0.2% | consensus 0.1% | previous 0.10%
 
 ---
 
@@ -18244,227 +18417,5 @@ Israeli officials estimate Trump may again shift his stance toward Iran, Channel
 ### 2026-08-03 01:42:29  #國際
 
 以色列官員估計特朗普可能會再次改變他對伊朗的立場。
-
----
-
-### 2026-08-03 01:37:57  #MKT News
-
-Israeli officials cast doubt on Iran's uranium stockpile and the Trump administration's commitments on Tehran's conduct, the Israeli Broadcasting Corporation said.
-
----
-
-### 2026-08-03 01:33:35  #MKT News #WTI #Impact bullish #Brent
-
-Israel's public broadcaster cited officials saying most negotiations are focused on the Strait of Hormuz; progress on other issues is unclear.
-
----
-
-### 2026-08-03 01:32:47  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-Qatar's foreign ministry said the prime minister and foreign minister, in a call with Egypt's foreign minister, discussed efforts to ease regional tensions and urged all parties to pursue dialogue and safeguard freedom of navigation through the Strait of Hormuz.
-
----
-
-### 2026-08-03 01:31:58  #國際
-
-以色列官員：目前大部分會談都圍繞霍爾木茲海峽展開，其餘議題的走向尚不明朗。
-
----
-
-### 2026-08-03 01:31:23  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-Israeli officials said they were frustrated that Trump canceled planned strikes on Iran for the second time in a week, saying the last-minute reversals undermine military planning. Israeli officials now judge Trump is more likely to seek an agreement with Iran than to escalate the conflict.
-
----
-
-### 2026-08-03 01:30:51  #國際
-
-卡達外交部：首相兼外交部長強調，各方必須堅持對話，並確保霍爾木茲海峽的航行自由。
-
----
-
-### 2026-08-03 01:29:55  #MKT News
-
-【Brazil's Workers' Party formally confirms Lula as presidential candidate】On the 2nd the Workers' Party formally confirmed incumbent President Luiz Inácio Lula da Silva as its presidential candidate. Lula will run in the election again, seeking a fourth term.
-
----
-
-### 2026-08-03 01:29:46  #其他
-
-【巴西勞工黨正式確認盧拉為總統候選人】巴西勞工黨2日正式確認現總統盧拉為該黨總統候選人。盧拉將再次參加大選，角逐其第四個總統任期。當天，巴西勞工黨全國代表大會在聖保羅舉行，會議正式批准盧拉與現任副總統熱拉爾多·阿爾克明（社會黨）再次組成競選搭檔。勞工黨主席埃迪尼奧·席爾瓦在會上宣佈，該黨已在高等選舉法院完成相關候選人登記工作。（新華社）
-
----
-
-### 2026-08-03 01:28:44  #國際
-
-【以色列對特朗普二度取消伊朗打擊行動感到失望】以色列官員感到沮喪，特朗普一週內第二次取消原定針對伊朗的打擊行動。以官員稱這種臨陣變卦擾亂軍事部署。以色列方面目前認為，相較於衝突升級，特朗普更傾向於與伊朗達成協議。
-
----
-
-### 2026-08-03 01:27:49  #國際
-
-以色列訊息人士：內塔尼亞胡及小內閣成員已從特朗普的帖文中獲悉取消對伊朗的襲擊決定。
-
----
-
-### 2026-08-03 01:27:34  #國際
-
-卡達外交部：首相兼外交部長與埃及外交部長通電話，商討地區局勢緩和的努力。
-
----
-
-### 2026-08-03 01:26:51  #國際
-
-以色列官員：伊朗是我們最優先的議題，當華盛頓的立場不明確時，我們便面臨困難。
-
----
-
-### 2026-08-03 01:25:01  #MKT News
-
-Israel Broadcasting Corporation reported an Israeli official said Trump's handling of affairs makes serious preparation and planning for the future difficult.
-
----
-
-### 2026-08-03 01:24:19  #國際
-
-市場資訊：一名以色列官員稱，以特朗普處理事務的方式，很難認真地為未來做好準備與規劃。
-
----
-
-### 2026-08-03 01:17:08  #國際
-
-【伊朗重申霍爾木茲海峽不會恢復至戰前狀態】當地時間2日，伊朗外交部發言人巴加埃表示，伊方重申，霍爾木茲海峽的狀況“不會恢復到衝突爆發前的狀態”。巴加埃說，伊朗將始終根據國家整體利益採取行動，不會因其他國家的威脅或施壓而改變自身決定。他表示，地區鄰國都應認識到，美國方面任何針對伊朗基礎設施的襲擊，其後果都將波及整個地區。
-
----
-
-### 2026-08-03 01:13:01  #國際
-
-【伊朗外交部：伊阿談判旨在建立霍爾木茲海峽雙邊機制，與海峽通航狀態無關】伊朗外交部發言人巴加埃表示，伊朗與阿曼談判的目標是為霍爾木茲海峽敲定一套雙方認可的協作機制。巴加埃稱：“伊朗和阿曼就新航運通道達成的共識，和霍爾木茲海峽是否保持通航沒有關係。海峽之所以封鎖，是因為美國違背承諾、實施封鎖行動。”巴加埃還補充，伊朗與阿曼的談判屬於雙邊磋商，不牽涉其他任何國家。
-
----
-
-### 2026-08-03 01:07:35  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign ministry: Strait of Hormuz will not revert to pre-war status】Iran foreign ministry spokesman BAGHAEI said the Strait of Hormuz "will never revert to pre-war status." He said talks with Oman are bilateral and concern mechanisms to protect each side's interests, not the opening or closing of the waterway. BAGHAEI blamed the strait's closure on "US sabotage and an American maritime blockade," and said Iran will act according to national interests and will not be swayed by threats or media pressure.
-
----
-
-### 2026-08-03 01:07:01  #國際
-
-伊朗總統：將全力以赴實現持久和平、維護國家尊嚴。當下國內高層層面，團結凝聚帶來的積極成效已然凸顯。國家各核心力量同心協力，為伊朗民眾鑄就長久成果。
-
----
-
-### 2026-08-03 01:06:02  #MKT News
-
-【Venezuela, Dominican Republic agree to gradually restore diplomatic ties】Venezuela and the Dominican Republic said in a joint communique on the 2nd they have agreed to gradually normalize diplomatic and consular relations.
-
----
-
-### 2026-08-03 01:05:46  #其他
-
-【委內瑞拉與多明尼加決定逐步恢復外交關係】委內瑞拉和多明尼加政府2日發表聯合公報稱，雙方同意逐步實現外交和領事關係正常化。宣告說，第一階段將採取必要措施恢復領事服務，隨後按照雙方商定的時間表，推進外交關係正常化。這一決定旨在加強兩國制度性溝通渠道，維護兩國公民利益，並鞏固兩國曆史友好紐帶。雙方重申，將透過對話，在相互尊重和恪守國際法原則的基礎上推動這一程序。
-
----
-
-### 2026-08-03 01:02:31  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran foreign ministry spokesman said discussions with Pakistani and Turkish officials addressed warnings and responses to US threats, and that Iran would retaliate if attacked.
-
----
-
-### 2026-08-03 00:57:57  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iran's Foreign Ministry spokesperson said any country that cooperates or conspires with the United States to attack Iran will face Iran's right of self-defence, and states that provide bases or military or logistical facilities to the aggressor will be treated as aggressors.
-
----
-
-### 2026-08-03 00:56:48  #MKT News
-
-Iran's foreign ministry spokesman said the future management of the Strait of Hormuz will be negotiated between Iran and Oman.
-
----
-
-### 2026-08-03 00:55:55  #國際
-
-伊朗外交部發言人：如果美國人執意冒險，必將從我們這裡得到應有的回擊。
-
----
-
-### 2026-08-03 00:55:39  #MKT News
-
-Samir Geagea, leader of the Lebanese Forces, said Lebanon's relations with Gulf states will be restored to their previous state.
-
----
-
-### 2026-08-03 00:55:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Lebanese Forces leader Samir Geagea said the crisis can only end if the Iranian regime collapses or at least changes its behavior and influence.
-
----
-
-### 2026-08-03 00:55:23  #國際
-
-伊朗外交部發言人：在與阿曼的談判中，我們正尋求一條雙方都能達成共識、並保障伊朗利益的路徑。
-
----
-
-### 2026-08-03 00:54:01  #國際
-
-伊朗外交部發言人：霍爾木茲海峽未來的管理工作，將由伊朗與阿曼協商推進。
-
----
-
-### 2026-08-03 00:53:45  #MKT News
-
-Iran's foreign ministry spokesman said it has received calls from the UK, Ukraine and Bulgaria, each telling Tehran they will not participate in the war.
-
----
-
-### 2026-08-03 00:53:27  #國際
-
-伊朗外交部發言人：已收到來自英國、烏克蘭和保加利亞的來電，他們表示不會成為針對我們的戰爭的一部分。
-
----
-
-### 2026-08-03 00:53:00  #MKT News #WTI #Impact bearish #Brent
-
-【Araghchi: Iran-Oman talks near completion】On Aug. 2 Iran’s foreign minister Araghchi told a cabinet meeting negotiations with Oman on arrangements to manage safe navigation in the Strait of Hormuz are progressing smoothly, have entered a final stage and are nearing completion. On July 26 Iran’s foreign ministry spokesman Baghaei said talks with Oman on common principles and operational mechanisms for Strait of Hormuz maritime security were productive and had made some progress. Araghchi spoke by phone on July 27 with the foreign ministers of Oman and Saudi Arabia to discuss the Strait and stressed the need to strengthen cooperation.
-
----
-
-### 2026-08-03 00:52:36  #焦點 #國際
-
-【阿拉格齊：伊朗與阿曼談判接近完成】當地時間8月2日，伊朗外交部長阿拉格齊在政府內閣會議上介紹伊朗與阿曼談判最新進展時表示，雙方談判目前進展順利，已進入最後階段，接近完成。據伊朗方面7月26日訊息，伊朗外交部發言人巴加埃表示，伊朗與阿曼就管理霍爾木茲海峽安全航運的共同原則及操作機制進行討論，會談“富有成效並取得一些進展”。阿拉格齊27日與阿曼以及沙烏地阿拉伯外交大臣分別通話，討論霍爾木茲海峽事宜。根據伊朗外交部發表的宣告，阿拉格齊在通話中強調“加強合作的必要性”。
-
----
-
-### 2026-08-03 00:51:48  #國際
-
-伊朗外交部發言人：華盛頓不允許霍爾木茲海峽的船舶在預定時間內恢復通航，並在通航期結束前對我們發動了攻擊。
-
----
-
-### 2026-08-03 00:50:37  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iranian Foreign Ministry spokesman said the other side knows Iran will respond forcefully to any provocative action against it.
-
----
-
-### 2026-08-03 00:50:10  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Foreign Ministry spokesman said reopening the Strait of Hormuz is different from negotiations with Oman, because the strait's closure stems from US violations of its commitments.
-
----
-
-### 2026-08-03 00:49:54  #國際
-
-伊朗外交部發言人：我們致力於維護自身利益與國家安全，這是不可妥協、不受美國威脅影響的。
-
----
-
-### 2026-08-03 00:49:44  #國際
-
-伊朗外交部發言人：霍爾木茲海峽的開放與我們同阿曼蘇丹國的談判不同，因為其關閉與美國違背承諾有關。
 
 ---

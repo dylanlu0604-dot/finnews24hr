@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-10 00:48:22_
-_本檔包含 3151 則快訊，約 602092 字_
+_更新時間：2026-08-10 01:40:02_
+_本檔包含 3156 則快訊，約 601805 字_
+
+---
+
+### 2026-08-10 01:35:44  #國際
+
+俄國防部稱，防空力量當天在俄羅斯各地區擊落了285架烏克蘭無人機。
+
+---
+
+### 2026-08-10 01:30:31  #國際
+
+美國官員：當伊朗不再捲入戰爭時，將不得不直面黯淡的現實，卻無切實可行的解決方案。
+
+---
+
+### 2026-08-10 01:30:18  #國際
+
+美國官員：戰爭使伊朗得以迴避應對自身後果及嚴峻的經濟危機。
+
+---
+
+### 2026-08-10 01:25:34  #MKT News
+
+Israel's Channel 12 reported residents in Haifa and the Krayot in northern Israel heard a large explosion minutes ago and felt a strong ground tremor.
+
+---
+
+### 2026-08-10 01:17:31  #焦點 #國際
+
+【特朗普談伊朗：我們正低調處理】伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”他強調，伊朗經濟處境“十分糟糕”，連軍餉都無力支付。特朗普稱，美國海上封鎖加劇了伊朗政權的經濟危機。與此同時，特朗普表示，油價回落至略高於每桶75美元，美國民眾承受的戰爭帶來的壓力有所緩解。“事情會得到解決的，歷來都是如此。美伊之間的博弈就像一盤國際象棋。”特朗普如此評價美伊雙方的來回交鋒。
+
+---
+
+### 2026-08-10 01:15:59  #MKT News
+
+【Iran president Pezeshkian says will maintain communication but will not wait for external powers】Iranian President Pezeshkian said waiting for or relying on external powers would be self-defeating, and no force can replace Iran’s own identity and people. He said Iran will engage in communication with outside parties but will not sit idle or expect others to fulfill its aims.
+
+---
+
+### 2026-08-10 01:08:51  #國際
+
+伊朗總統談及外部大國：伊朗若是坐等、寄希望於外部勢力，便已然落敗，沒有任何力量能夠真正取代伊朗自身與本國人民。
+
+---
+
+### 2026-08-10 01:08:07  #其他
+
+市場資訊：每日有800萬桶石油經由霍爾木茲海峽南段運出波斯灣。
+
+---
+
+### 2026-08-10 01:06:36  #國際
+
+特朗普談及伊朗：我們只是在和他們進行半談判。我們正靜觀伊朗，該國正面臨嚴重通脹，並且資金匱乏。
+
+---
+
+### 2026-08-10 01:04:53  #國際
+
+美國官員稱特朗普已被說服，選擇現階段緩和局勢。
+
+---
+
+### 2026-08-10 01:01:50  #焦點 #國際
+
+特朗普談及伊朗問題：事情會得到解決，歷來都是如此。
+
+---
+
+### 2026-08-10 01:01:38  #國際
+
+特朗普將美國與伊朗之間的你來我往比作一盤國際象棋。
+
+---
+
+### 2026-08-10 01:00:54  #國際
+
+特朗普：德黑蘭正面臨經濟困境。
+
+---
+
+### 2026-08-10 01:00:48  #市場 #焦點
+
+美國天然氣暗盤突破2.7美元，日內漲幅0.7%。
+
+---
+
+### 2026-08-10 01:00:35  #MKT News #Important #XAUUSD #Impact bullish #WTI
+
+Axios reports President Trump said on Iran, 'we are handling it quietly'.
+
+---
+
+### 2026-08-10 01:00:25  #國際
+
+特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。
+
+---
+
+### 2026-08-10 00:57:49  #焦點 #國際
+
+特朗普：針對伊朗問題“我們正低調處理”。
+
+---
+
+### 2026-08-10 00:55:46  #國際
+
+特朗普：雙重司法體系即將終結。隨著託德·布蘭奇被正式確認為司法部長，他一定會確保這一切成為現實。
 
 ---
 
@@ -18905,83 +19013,5 @@ Kingspan執行長表示：預計下半年鋼價將進一步小幅上漲，化工
 ### 2026-08-07 15:28:30  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
 
 FTSE 100 Edges Up, Set for Small Weekly Gain — The FTSE 100 traded slightly higher on Friday, remaining within a narrow range of around ±0.5% as investors stayed cautious amid uncertainty over a lasting agreement to reopen the Strait of Hormuz. Rising oil prices provided some support to energy stocks, with Brent crude climbing for a second session. BP rose more than 1%, while Shell was little changed. Precious metals miners also benefited from higher gold prices, with Fresnillo among the strongest performers, gaining more than 2.5%. Among heavyweight stocks, AstraZeneca and BAE Systems each added around 1%, while GSK and BAT also traded higher. JD Sports gained after appointing Peter Agnefjäll as chairman, effective September 1. Meanwhile, Lloyds reported that UK house prices were unchanged in July after rising 0.2% in June, leaving the average property price at £299,253. Annual growth slowed to 0.1%, its weakest pace since November 2023. The FTSE 100 remains only marginally higher for the week.
-
----
-
-### 2026-08-07 15:27:38  #其他
-
-Kakao工會與管理層達成最終薪資協議，同意整體薪酬上調6.3%，避免了威脅性的總罷工。
-
----
-
-### 2026-08-07 15:27:15  #公司 #國際
-
-【政府高層呼籲加碼投資日本資產前 GPIF減持日債】在截至6月的三個月裡，日本政府養老投資基金(GPIF)減少了對日本債券的配置，之後日本財務大臣呼籲加大對本地資產的投資。根據週五在東京釋出的季度報告，日本債券佔GPIF資產的25.59%。這一比例低於3月的26.91%，但在過去六年23.64%至27.64%的區間內。日本債券是GPIF在此期間唯一減持的資產。這可能會使這個全球最大養老基金之一與首相高市早苗政府的想法背道而馳；該基金的決策會引領其他投資者的潮流——。財務大臣片山皋月7月份呼籲，GPIF等基金應增加對日本資產的投資，讓該基金的資產配置引起關注。當月晚些時候，首相高市早苗也表達了類似的觀點，她在國會強調，鼓勵家庭和GPIF增加對日本金融資產投資的重要性。
-
----
-
-### 2026-08-07 15:27:03  #其他
-
-【宇樹科技王興興：生態黏性將使新品牌消費級機器人獲客成本激增】8月7日，宇樹科技首次公開發行股票並在科創板上市網上投資者交流會在上海證券報·中國證券網、上證路演中心舉行。宇樹科技董事長、總經理兼技術長王興興表示，對於消費級應用，大量消費者優先考慮知名品牌的機器人產品，市場教育、品牌認知培養、品牌生態建設等都是競爭的關鍵環節，頭部企業加速構建“硬體+軟體+服務”三位一體的生態建設，逐步完善的生態黏性將使新品牌機器人的獲客成本激增。
-
----
-
-### 2026-08-07 15:26:36  #其他
-
-【皮克斯經典《機器人總動員》內地首度公映，定檔8月19日】由迪士尼影業出品、皮克斯動畫工作室製作的經典動畫電影《機器人總動員》（WALL·E）將在這個暑期檔登陸大銀幕，定檔8月19日七夕佳節當日正式公映，並於8月15日開啟超前點映。這也是這部誕生於2008年的奧斯卡最佳動畫長片得主，首度在中國內地上映。(澎湃新聞)
-
----
-
-### 2026-08-07 15:26:05  #其他
-
-【阿里雲：國內首個AI語音平臺！CosyVoice Studio上線】今日，阿里巴巴正式推出國內首個一站式AI語音生產力平臺CosyVoice Studio。該平臺基於自研語音模型Qwen-Audio打造，包含語音記錄CosyFlow、語音智慧體CosyAgent和音訊內容創作工具CosyCreative等功能。
-
----
-
-### 2026-08-07 15:25:29  #公司
-
-【深圳新星在浙江成立新材料科技公司】企查查APP顯示，近日，浙江新星凌川新材料科技有限公司成立，經營範圍包含新興能源技術研發；電子專用材料製造；電子專用材料研發；電子專用材料銷售等。企查查股權穿透顯示，該公司由深圳新星(603978)全資持股。
-
----
-
-### 2026-08-07 15:25:13  #市場 #焦點 #原創
-
-【8月7日滬深兩市漲停分析】三大指數均漲超1%、科創50漲2.51%，醫藥、算力硬體聯袂大漲。寶鼎科技、雲南鍺業、匯綠生態、沃格光電、百花醫藥均4連板，一圖看懂>>
-
----
-
-### 2026-08-07 15:24:18  #MKT News #000660.KS #Impact bullish
-
-SK Hynix says its Yongin plant will produce HBM and other next-generation DRAM.
-
----
-
-### 2026-08-07 15:24:00  #公司
-
-【品茗科技與中鐵一局集團智慧科技分公司簽署戰略合作協議】據品茗科技訊息，8月5日，品茗科技與中鐵一局集團有限公司智慧科技分公司在西安正式簽署戰略合作協議。雙方將聚焦智慧建造軟硬體深度應用，在聯合研發、場景落地、成果轉化及市場推廣等方面開展全方位合作，圍繞鐵路、水利、市政、房建等工程建設領域共同打造行業標杆數字化專案與智慧建造示範場景。同時，雙方將聯合構建科技創新合作平臺，實現技術、市場與品牌的多維賦能。
-
----
-
-### 2026-08-07 15:23:54  #焦點 #國際
-
-SK海力士擬在韓國投入54萬億韓元用於晶片產能擴張。
-
----
-
-### 2026-08-07 15:23:38  #其他
-
-海力士：龍仁工廠將生產高頻寬記憶體（HBM）及其他下一代動態隨機存取儲存器（DRAM）。
-
----
-
-### 2026-08-07 15:22:56  #MKT News #000660.KS #Impact bullish
-
-SK Hynix said it will expand DRAM and NAND manufacturing bases and increase capacity in line with customer demand.
-
----
-
-### 2026-08-07 15:21:48  #其他
-
-海力士：季度股息總額為2733.2億韓元。
 
 ---
