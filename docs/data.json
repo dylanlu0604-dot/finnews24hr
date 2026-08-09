@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-10 06:59:51",
-  "count": 15921,
+  "updated": "2026-08-10 07:04:40",
+  "count": 15912,
   "items": [
+    {
+      "id": "5032714",
+      "time": "2026-08-10 07:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國宣佈撥款近1.3億英鎊支援零排放汽車技術研發。"
+    },
+    {
+      "id": "te:markets:573926",
+      "time": "2026-08-10 07:00:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Higher to Start the Week — New Zealand's stocks climbed 34 points, or 0.2%, to 13,858 in Monday morning trade, halting losses in the previous two sessions, tracking a rise on Wall Street on Friday after softer-than-expected labor data dampened expectations of a Fed rate hike at the September meeting. Positive trade data from China, New Zealand's top trading partner, with export growth remaining robust, continued to help cap the losses, while inflation eased to a six-month low. However, traders anticipated the release of US inflation data this week for clues about the Fed's monetary policy at the upcoming meeting, while they continued to monitor Strait of Hormuz developments. Materials, utilities, consumer discretionary, and real estate mainly drove the index. Contact Energy rose 1.1% after posting a 27.8% jump in net profit, following the acquisition of Manawa Energy, completed in July 2025. Other early gainers included South Port NZ (0.8%), Ebos Group (0.7%), and Port of Tauranga (0.7%)."
+    },
     {
       "id": "mkt:019fe8bc-4beb-7aab-8fcc-5604f56acbac",
       "time": "2026-08-10 06:54:42",
@@ -144945,100 +144965,6 @@
         "國際"
       ],
       "text": "【特朗普稱3日與伊朗談判 以色列自曝“被盟友拋棄”】美國總統特朗普當地時間2日最新表態稱，美國將於3日與伊朗進行談判。美國日前再次上演大變臉，1日稱要對伊朗發動“迄今最猛烈的轟炸”，第二天卻“同意取消打擊”，美總統特朗普“臨陣收兵”，還稱以色列也“加入了他的承諾”。然而多名以色列官員2日透露，以方被排除在決策資訊之外長達數小時，以總理內塔尼亞胡等人均是透過特朗普社媒發文得知美方叫停打擊行動。分析稱，以色列已成為美國對伊談判的一張牌。伊朗已找到直接觸動美國利益關切的方式，以色列對美國決策的影響力正在被稀釋。"
-    },
-    {
-      "id": "5021132",
-      "time": "2026-08-03 07:04:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本財務省：日本還計劃未來使用美聯儲的外國及國際貨幣當局（FIMA）回購工具。"
-    },
-    {
-      "id": "5021130",
-      "time": "2026-08-03 07:03:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省：干預行動旨在應對近期日元過度且無序的波動。"
-    },
-    {
-      "id": "5021129",
-      "time": "2026-08-03 07:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省：將毫不猶豫與美國聯合進行進一步外匯干預。"
-    },
-    {
-      "id": "5021128",
-      "time": "2026-08-03 07:02:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：FIMA回購工具是重要的後盾，鼓勵在未來幾個月擴大其規模。"
-    },
-    {
-      "id": "5021127",
-      "time": "2026-08-03 07:02:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省表示，週五與美國進行了協調性的日元買入干預。"
-    },
-    {
-      "id": "5021125",
-      "time": "2026-08-03 07:01:26",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財長貝森特就日元表態：財政部保持關注，並與日本財務省及央行保持密切溝通。"
-    },
-    {
-      "id": "5021124",
-      "time": "2026-08-03 07:01:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特就日元表態：我們將毫不猶豫地參與進一步的聯合干預。"
-    },
-    {
-      "id": "5021123",
-      "time": "2026-08-03 07:00:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財長貝森特談日元：週五的協同外匯行動遏制了日元的無序波動。"
-    },
-    {
-      "id": "5021122",
-      "time": "2026-08-03 07:00:33",
-      "tags": [
-        "資料"
-      ],
-      "text": "標普全球澳大利亞製造業採購經理人指數（PMI）升至六個月新高。"
-    },
-    {
-      "id": "mkt:019fc4b4-c2f3-7aab-8f49-c6c697586ec5",
-      "time": "2026-08-03 07:00:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia July S&P Global manufacturing PMI (final) 52.0; expected 51.7; prior 51.7."
-    },
-    {
-      "id": "5021121",
-      "time": "2026-08-03 06:59:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "交易員同時密切關注日元走勢，尋找日美進一步聯合干預匯市的訊號。"
     }
   ]
 }
