@@ -1,7 +1,44 @@
 {
   "date": "2026-08-09",
-  "count": 535,
+  "count": 538,
   "items": [
+    {
+      "id": "mkt:019fe5d7-84f9-7aab-8fc9-00fcd6b08e75",
+      "time": "2026-08-09 17:25:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact mixed",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【Galaxy Securities: A-share market shifting from 'expectation game' to 'reality check'】Galaxy Securities says August is seeing a shift in the A-share market from expectation-driven trading to reality testing, centered on three verification lines: earnings, policy and external risk. Earnings: mid–late August is the busiest window for A-share half-year report disclosures and should drive pricing around H1 results versus expectations. Policy: the July Politburo meeting set H2 economic tasks; markets will move to test policy detail issuance and execution. External risk: the Fed's policy path remains the primary global market focus. Recommendation: maintain balanced positioning. Sector focus — secular/tech winners: semiconductors and supply chain (memory chips; semiconductor equipment & materials; advanced packaging), components, communications equipment, energy storage/power infrastructure, humanoid robots, commercial aerospace. Defensive core: coal, coal chemicals, financials, utilities, new energy. Cyclicals/resources likely to recover: nonferrous metals, basic chemicals, building materials, steel."
+    },
+    {
+      "id": "5032470",
+      "time": "2026-08-09 17:25:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【益生股份：預計2026年下半年至2027年商品代雞苗市場行情較好】益生股份在機構調研時表示，從供給端看，2025年我國祖代白羽肉雞全年進口量同比下降超過10%，疊加2026年1—5月國內引種再度中斷，祖代種雞的減少將影響14個月以後商品代雞苗的供給，預計未來優質商品代雞苗供給偏緊，市場價格行情向好；從需求端看，下游屠宰與養殖環節持續擴產，行業產能擴張意願強烈，雞苗需求量持續增加。同時市場普遍預期2027年豬肉價格回升，有望帶動雞肉價格上漲，進而傳導至商品代雞苗環節。綜上，公司預計2026年下半年至2027年商品代雞苗市場行情較好。"
+    },
+    {
+      "id": "5032469",
+      "time": "2026-08-09 17:23:05",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【銀河證券：A股市場正從“預期博弈”轉向“現實驗證”】銀河證券研報表示，8月A股市場正從“預期博弈”轉向“現實驗證”，圍繞業績、政策、外圍風險三大線索展開。一是業績驗證。8月中下旬是A股中報披露最密集的視窗，市場有望圍繞中報業績預期驗證展開定價。二是政策驗證。7月政治局會議對下半年經濟工作做出部署，後續進入政策細則出臺與執行驗證階段。三是外圍風險驗證。美聯儲政策路徑仍是全球市場關注焦點。建議均衡配置。關注一：科技景氣與產業趨勢未改。關注半導體及產業鏈（儲存晶片、半導體裝置與材料、先進封裝）、元件、通訊裝置、儲能/電力配套、人形機器人、商業航天等。關注二：重視防禦性底倉的配置價值。關注煤炭、煤化工、金融、公用事業、新能源等。輔助線：資源品與週期製造板塊有望迎來修復。關注有色金屬、基礎化工、建築材料、鋼鐵板塊等。"
+    },
     {
       "id": "mkt:019fe5d4-0b0b-7aab-8fc8-f815034697ca",
       "time": "2026-08-09 17:21:46",
