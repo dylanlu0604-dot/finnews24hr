@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 21:57:50",
-  "count": 16001,
+  "updated": "2026-08-09 22:02:03",
+  "count": 16002,
   "items": [
+    {
+      "id": "mkt:019fe6d3-f8fa-7aab-8fca-43f28d15e64e",
+      "time": "2026-08-09 22:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon White Dolphin triggers first numbered flood in Zhejiang canal system】Typhoon White Dolphin (the year’s 13th storm) dropped 104.8 mm of cumulative rain on the eastern Hangjiahu plain. At 20:40 on Aug 9 the Jiaxing gauge on the canal rose to 2.00 m, hitting the flood-number threshold and registering the canal system’s first numbered flood of 2026 (Hangjiahu plain Flood No.1). Forecasts call for concentrated rain over the next 24 hours; together with water-management operations, Jiaxing water level is expected to rise further."
+    },
+    {
+      "id": "5032590",
+      "time": "2026-08-09 22:00:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【受颱風“白海豚”影響 浙江運河水系發生今年第1號洪水】受今年第13號颱風“白海豚”影響，杭嘉湖東部平原累計降雨量104.8毫米。8月9日20時40分，運河水系嘉興站水位漲至2.00米，達到洪水編號標準，運河水系發生今年第1場編號洪水（杭嘉湖平原2026年第1號洪水<0809>），氣象預報未來24小時仍有集中降雨，結合水利工程排程，預報嘉興站水位仍將上漲。（央視新聞）"
+    },
+    {
+      "id": "5032589",
+      "time": "2026-08-09 21:57:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【敘利亞與俄羅斯就兩處俄軍事基地達成諒解備忘錄】據敘利亞國家通訊社9日援引敘過渡政府外交部訊息，敘利亞與俄羅斯已達成一份諒解備忘錄，確認敘西部沿海地區赫梅米姆和塔爾圖斯兩處俄軍事基地的未來管理問題。根據這份諒解備忘錄，雙方同意調整改造俄羅斯在敘利亞沿海地區的軍事基地。具有軍事性質的設施將被改為聯合培訓和訓練中心。具有民用性質的設施將由敘過渡政府負責管理，主要包括赫梅米姆機場和塔爾圖斯港碼頭。相關改造工作將在3個月內完成。敘過渡政府外交部說，這份諒解備忘錄是雙方經過一年半的密集談判與磋商後達成的。（新華社）"
+    },
     {
       "id": "5032588",
       "time": "2026-08-09 21:56:49",
@@ -145711,25 +145735,6 @@
         "國際"
       ],
       "text": "【以軍稱在加沙地帶打死三名武裝人員】以色列國防軍2日發表宣告稱，以軍近日在加沙地帶實施空襲，打死三名巴勒斯坦武裝人員。宣告說，以軍1日在加沙城地區發動空襲，打死來自“伊斯蘭軍”組織的武裝人員阿拉丁·伊馬德·哈米斯·塔拉姆斯，以及來自巴勒斯坦伊斯蘭聖戰組織（傑哈德）的武裝人員哈桑·易卜拉欣·謝哈德·卡赫曼。此外，以軍上週在加沙地帶北部實施的一次空襲中，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）傑巴利耶營的一名指揮官艾哈邁德·胡德爾。"
-    },
-    {
-      "id": "mkt:019fc2c6-c6b3-7aab-8f47-302fd090924a",
-      "time": "2026-08-02 22:00:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: South China Sea military exercises】Sanya Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the South China Sea will be closed for military training. Restricted periods: Aug 3–7 daily 05:00–24:00 and Aug 8 07:00–18:00; entry is prohibited."
-    },
-    {
-      "id": "mkt:019fc2c5-d850-7aab-8f47-2ce4f63fc647",
-      "time": "2026-08-02 21:59:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【White House sees few viable options on Iran; frustration rising】Five former Trump administration officials say the White House has few good options after Iran demanded control of the Strait of Hormuz as a condition for ending hostilities. Senior U.S. officials, including Secretary of State Rubio, have warned against any deal that would allow Iran de facto control of the strait, saying it would complicate future U.S. sanctions enforcement by requiring waivers for transit payments and would weaken international pressure on Iran’s nuclear program; Rubio called it a dangerous precedent. Fractured communications among Iranian factions further complicate negotiations. The impasse arrives with U.S. midterms three months away and U.S. retail gasoline averaging $4.10/gal versus $3.85/gal a month ago. Continued concern over U.S. casualties, attacks on U.S. bases and ongoing Iranian missile threats to Gulf states risk further upward pressure on energy prices. There is no sign of an easy post-election exit. Danny Sitrenovitz, a non-resident Atlantic Council fellow, said any diplomatic settlement could require some Iranian control of the strait—politically unacceptable to many—while further military escalation would likely keep oil prices elevated without guaranteeing Iranian strategic change."
     }
   ]
 }
