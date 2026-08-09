@@ -1,7 +1,47 @@
 {
   "date": "2026-08-10",
-  "count": 1,
+  "count": 5,
   "items": [
+    {
+      "id": "5032626",
+      "time": "2026-08-10 00:14:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省椒江發生2026年第2號洪水】受今年第13號颱風“白海豚”帶來降雨的影響，8月9日22時55分，浙江椒江柏枝岙水文站（浙江台州）水位漲至17.03米，超過警戒水位（17.00米）0.03米，相應流量3900立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“椒江2026年第2號洪水”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe74b-a92d-7aab-8fca-c6cbdd30d938",
+      "time": "2026-08-10 00:12:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Yemen's deputy defense minister said Houthi forces' systematic attacks on civilian targets are directed at the civilian population."
+    },
+    {
+      "id": "mkt:019fe74b-8755-7aab-8fca-bb0b45f386bc",
+      "time": "2026-08-10 00:11:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Magnitude-4.4 quake strikes northern Shiga Prefecture, Japan】Japan Meteorological Agency said a magnitude-4.4 earthquake struck northern Shiga Prefecture at about 00:48 JST on the 10th, at a depth of 20 km. Maximum seismic intensity was 3 on the JMA scale. No tsunami risk was expected."
+    },
+    {
+      "id": "mkt:019fe74a-e1cb-7aab-8fca-b06adee88f46",
+      "time": "2026-08-10 00:11:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemen's deputy defense minister said Houthi attacks aim to draw Yemen into a regional conflict."
+    },
     {
       "id": "5032625",
       "time": "2026-08-10 00:10:56",
