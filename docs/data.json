@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 21:41:38",
-  "count": 16005,
+  "updated": "2026-08-09 21:45:40",
+  "count": 16004,
   "items": [
+    {
+      "id": "5032586",
+      "time": "2026-08-09 21:43:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風“白海豚”影響，上海地鐵臨時運營調整】據上海地鐵訊息，受今年第13號颱風“白海豚”影響，為確保軌道交通運營安全，8月10日運營開始起：3號線、5號線、16號線、浦江線全線停運，1、2、6、10號線縮線執行。"
+    },
     {
       "id": "5032585",
       "time": "2026-08-09 21:37:26",
@@ -145743,22 +145751,6 @@
         "其他"
       ],
       "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，三亞海事局釋出航行警告，8月3日至8月7日每日5時至24時，8月8日7時至18時，南海部分海域進行軍事訓練，禁止駛入。（央視軍事）"
-    },
-    {
-      "id": "5020926",
-      "time": "2026-08-02 21:43:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "希臘消防部門2日釋出訊息說，兩架消防直升機在雅典以西相撞，搜救行動正在進行中。目前事故傷亡情況不詳。（新華社）"
-    },
-    {
-      "id": "mkt:019fc2b6-4987-7aab-8f47-243d83aed94f",
-      "time": "2026-08-02 21:42:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Tianjin 11 departments issue upgraded policy to reactivate stock assets】Tianjin Planning and Resources Bureau, together with the Development and Reform Commission, Housing and Urban‑Rural Development Commission and 10 other departments, issued Opinions on Reactivating Stock Assets to Resolve Historical Project Planning Land and Real Estate Registration Issues (2026 edition). Building on a July 2024 pilot due to expire after two years, the revision expands the policy’s scope and streamlines procedures to support completion of formalities and real‑estate registration for historical projects; the Planning and Resources Bureau led the revisions to address market requests for an extension and practical issues on applicability, building‑retention verification, illegal‑construction handling and completion‑acceptance filing."
     }
   ]
 }
