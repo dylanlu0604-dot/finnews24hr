@@ -1,7 +1,35 @@
 {
   "date": "2026-08-10",
-  "count": 62,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:019fe80d-7af3-7aab-8fcb-8ad8405c251d",
+      "time": "2026-08-10 03:43:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni sources say Houthi forces have resumed missile and drone attacks on the port of Mocha."
+    },
+    {
+      "id": "mkt:019fe80c-77ab-7aab-8fcb-828fb6707600",
+      "time": "2026-08-10 03:42:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel reallocates funds earmarked for Intel to add NIS1 bln to defense for urgent arms purchases】Israel approved an emergency appropriation on the 9th to reallocate funds originally earmarked for an Intel project, adding NIS1 bln to the defense budget for urgent weapons procurement. The transfer was described as a specially urgent measure tied to the current state of emergency; a ministerial procurement committee had approved the move on the 6th. Authorities said the reallocation will not breach the existing national budget framework."
+    },
+    {
+      "id": "5032661",
+      "time": "2026-08-10 03:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：伊朗今天正處於其歷史上最敏感的階段之一，並在地區及世界安全中發揮著無與倫比的作用。"
+    },
     {
       "id": "5032660",
       "time": "2026-08-10 03:39:47",

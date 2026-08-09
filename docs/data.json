@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-10 03:41:12",
-  "count": 15946,
+  "updated": "2026-08-10 03:45:12",
+  "count": 15948,
   "items": [
+    {
+      "id": "mkt:019fe80d-7af3-7aab-8fcb-8ad8405c251d",
+      "time": "2026-08-10 03:43:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni sources say Houthi forces have resumed missile and drone attacks on the port of Mocha."
+    },
+    {
+      "id": "5032661",
+      "time": "2026-08-10 03:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長卡利巴夫：伊朗今天正處於其歷史上最敏感的階段之一，並在地區及世界安全中發揮著無與倫比的作用。"
+    },
+    {
+      "id": "mkt:019fe80c-77ab-7aab-8fcb-828fb6707600",
+      "time": "2026-08-10 03:42:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel reallocates funds earmarked for Intel to add NIS1 bln to defense for urgent arms purchases】Israel approved an emergency appropriation on the 9th to reallocate funds originally earmarked for an Intel project, adding NIS1 bln to the defense budget for urgent weapons procurement. The transfer was described as a specially urgent measure tied to the current state of emergency; a ministerial procurement committee had approved the move on the 6th. Authorities said the reallocation will not breach the existing national budget framework."
+    },
     {
       "id": "5032660",
       "time": "2026-08-10 03:39:47",
@@ -145242,14 +145270,6 @@
         "公司"
       ],
       "text": "【下週美股財報提醒】週一（8月3日），Palantir、安森美半導體等將釋出業績報告；週二，SpaceX、AMD、卡特彼勒等將釋出業績報告；週三，諾和諾德、閃迪、西部資料、迪士尼等釋出業績報告。"
-    },
-    {
-      "id": "mkt:019fc3ff-0c0d-7aab-8f49-077576079da2",
-      "time": "2026-08-03 03:41:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【3.3-magnitude quake in Gaoxian County, Yibin (Sichuan); depth 5 km】cenc recorded a 3.3-magnitude earthquake at 03:29 on Aug 3 in Gaoxian County, Yibin, Sichuan (28.55N, 104.67E); hypocenter depth 5 km."
     }
   ]
 }
