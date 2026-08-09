@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-10 00:56:24",
+  "updated": "2026-08-10 01:00:23",
   "count": 15978,
   "items": [
+    {
+      "id": "5032636",
+      "time": "2026-08-10 00:57:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：針對伊朗問題“我們正低調處理”。"
+    },
+    {
+      "id": "5032635",
+      "time": "2026-08-10 00:55:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：雙重司法體系即將終結。隨著託德·布蘭奇被正式確認為司法部長，他一定會確保這一切成為現實。"
+    },
     {
       "id": "5032634",
       "time": "2026-08-10 00:42:40",
@@ -145501,26 +145518,6 @@
         "DXY"
       ],
       "text": "Iran foreign ministry spokesman said discussions with Pakistani and Turkish officials addressed warnings and responses to US threats, and that Iran would retaliate if attacked."
-    },
-    {
-      "id": "mkt:019fc369-2bd7-7aab-8f48-29424b282187",
-      "time": "2026-08-03 00:57:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Foreign Ministry spokesperson said any country that cooperates or conspires with the United States to attack Iran will face Iran's right of self-defence, and states that provide bases or military or logistical facilities to the aggressor will be treated as aggressors."
-    },
-    {
-      "id": "mkt:019fc368-1eea-7aab-8f48-230c5bb64d4b",
-      "time": "2026-08-03 00:56:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said the future management of the Strait of Hormuz will be negotiated between Iran and Oman."
     }
   ]
 }
