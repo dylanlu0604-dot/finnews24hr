@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-09 22:21:52",
+  "updated": "2026-08-09 22:26:00",
   "count": 16003,
   "items": [
+    {
+      "id": "mkt:019fe6e9-bf87-7aab-8fca-5314ed539909",
+      "time": "2026-08-09 22:25:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemeni government condemns Houthi militants' terrorist attack on Mocha port."
+    },
+    {
+      "id": "5032596",
+      "time": "2026-08-09 22:22:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【木頭姐發文： 就業資料未顯衰退，AI正驅動美國經濟進入通縮與高生產率新週期 】針對近期引發市場擔憂的美國就業資料，美國知名投資機構方舟投資（ARK Invest）創始人凱西·伍德（Cathie Wood）8日表示，表面上的就業疲軟掩蓋了深層的經濟結構性變化。她指出，人工智慧（AI）等顛覆性技術正在大幅提升美國企業的生產率，當前美國經濟面臨的最大風險並非通貨膨脹，而是技術通縮。伍德強調，美國當前的宏觀經濟指標正呈現出類似20世紀80年代“里根經濟學”時期的特徵。她指出，美國國內企業稅前利潤佔國內生產總值（GDP）的比重已達13.2%，創下數十年來的新高。這一高利潤水平不僅源於疫情期間的財政與貨幣刺激，更得益於企業透過AI和自動化技術大幅提升了生產效率。她預計，隨著生產率的加速提升，美國聯邦赤字佔GDP的比重有望在年底前降至5%左右。"
+    },
     {
       "id": "5032595",
       "time": "2026-08-09 22:19:40",
@@ -145717,37 +145737,6 @@
         "MKT News"
       ],
       "text": "【State Grid: Multiple regions hit record electricity loads; measures deployed to secure supply】State Grid Co. said recent widespread heat drove record electricity loads across its operating area, with the North China and Northeast regional grids and provincial grids in Tianjin, northern Hebei, Jiangsu, Liaoning and eastern Inner Mongolia repeatedly hitting new peaks between July 27-31. The company said it is prioritizing supply security, intensifying use of cross-provincial/trans‑regional transmission corridors, conducting inter-regional surplus‑deficit transfers and temporal-spatial load balancing, and tightening operational responsibilities and O&M while implementing a 24-item, six-area peak-summer supply plan to safeguard grid stability and reliable power for economic and residential demand."
-    },
-    {
-      "id": "mkt:019fc2db-f52f-7aab-8f47-49a8feccfda3",
-      "time": "2026-08-02 22:23:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "CNH"
-      ],
-      "text": "【Shanghai July new-home prices lead nation; Shenzhen Jan–Jul commercial apartment net sales +60.6%】Shanghai new-home prices rose 0.96% MoM in July, the largest monthly increase nationwide, with 2,796 transactions. Shanghai’s land market stayed hot: four parcels this year sold with premium rates above 35%. Market participants say high premiums on core plots underscore long-term value and may further lift buyer confidence. Shenzhen’s housing market remained active in July: net-signed sales of new-build residential units were 3,529 (+32.7% YoY); second‑hand residential net-signed sales were 4,795 (+3%), about 60% of total commodity housing transactions. Jan–Jul net-signed sales of first‑ and second‑hand commercial apartments totaled about 6,978 units, up 60.6% YoY."
-    },
-    {
-      "id": "mkt:019fc2db-f2c3-7aab-8f47-47c8e2e6721e",
-      "time": "2026-08-02 22:23:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "Amazon",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【Analyst: Chip rebound possible after selloff but unlikely to lead next bull phase】Valueworks CIO Charles Lemonides said a strong rebound in chip stocks after this selloff would not be surprising, but they are unlikely to lead the next phase of a bull market because they have already had their run. He noted Amazon and Microsoft last week reiterated commitments to spend hundreds of billions of dollars on AI over the next year, much of it for data-center chips, but said the ensuing fundamentals are in doubt. Chip names, especially storage-focused firms, are highly cyclical and prone to boom‑and‑bust demand swings; many on Wall Street expect this cycle to be no different. Lemonides called the recent earnings surge unsustainable and flagged margin reversion toward historical norms as the key risk — the question is when that reversion occurs and how markets will price it."
     }
   ]
 }
