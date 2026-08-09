@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-10 07:48:01",
-  "count": 15898,
+  "updated": "2026-08-10 07:51:50",
+  "count": 15899,
   "items": [
+    {
+      "id": "mkt:019fe8ef-2ed4-7aab-8fcc-a8b3adaa9ddb",
+      "time": "2026-08-10 07:50:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Japan June seasonally unadjusted current account: deficit ¥92.3 bln, versus forecast surplus ¥1,512.0 bln and prior surplus ¥3,968.3 bln."
+    },
+    {
+      "id": "mkt:019fe8ef-1753-7aab-8fcc-a2451a34b5d5",
+      "time": "2026-08-10 07:50:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan seasonally adjusted bank lending rose 5.4% YoY in July, down from 5.7% previously."
+    },
+    {
+      "id": "mkt:019fe8ee-f73c-7aab-8fcc-9ba7c73560b0",
+      "time": "2026-08-10 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Outstanding Bank Loan (YoY) (Jul) | actual 5.4% | previous 5.70%"
+    },
+    {
+      "id": "mkt:019fe8ee-f452-7aab-8fcc-9050144c6062",
+      "time": "2026-08-10 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Current Account USA (Jun) | actual -92300000000B | consensus 1512000000000B | previous 3968300000000B"
+    },
+    {
+      "id": "5032766",
+      "time": "2026-08-10 07:49:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【經濟日報：中國開源AI，正在惠及全球】日前，MiniMax正式開源H3模型。短短三天，它便衝上全球最大AI開源平臺Hugging Face熱度榜首，超百家企業實現“Day 0接入”，從晶片廠商到推理框架完成全鏈路適配。更耐人尋味的是，開源領域的標誌性人物、Stable Diffusion模型創始人埃馬德·莫斯塔克也罕見發聲，公開“向MiniMax致敬”。對全球開發者而言，中國開源模型提供了成本更低、價效比更高的選擇，實實在在拉低了人工智慧落地的門檻。 資料可以佐證這股助力：有美國投資機構統計，多達八成的美國AI初創公司在融資路演中會使用中國的開源模型；MiniMax服務的全球企業與開發者客戶已超百萬，較半年前增長五倍。放眼全球，中國研發的開源模型下載量已佔全球總量的41%，躍居世界第一；在全球主流大模型呼叫榜單上，排名前六的模型全部來自中國團隊。展望未來，全球AI生態仍將沿著開閉源兩條路徑快速演進。而中國AI大模型在這一程序中展現出的開放姿態與生態引力，無疑會讓它在全球創新版圖中扮演更加重要的角色。"
+    },
+    {
+      "id": "5032765",
+      "time": "2026-08-10 07:49:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首程控股：參與投資華泰三峽新能源REIT】首程控股公告，近日，本集團所屬首程基石旗下公司（本公司之全資附屬公司）參與投資華泰三峽清潔能源封閉式基礎設施證券投資基金（華泰三峽新能源REIT）。該REIT以遼寧省大連市莊河Ⅲ（300MW）海上風電場專案作為底層資產。"
+    },
+    {
+      "id": "5032764",
+      "time": "2026-08-10 07:49:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國發現稀散金屬獨立新礦物——烏斯河鍺礦】中國科學院廣州地球化學研究所訊息，近日，由長安大學、中國科學院廣州地球化學研究所、中國科學院地球化學研究所等單位科研團隊聯合發現、命名並申報的新礦物——烏斯河鍺礦（Wusiheite，編號：IMA2025-083a，礦物縮寫：Wsh），於2026年8月正式獲得國際礦物學協會新礦物命名及分類委員會批准。烏斯河鍺礦是我國發現的首個獨立鍺酸鹽礦物，其氧化鍺的平均含量高達72%，僅次於鍺石（GeO2），也是繼瑞忠鍺礦、文慶鍺礦後，在該礦區發現的第3個富鍺礦物。該發現不僅明確了烏斯河鉛鋅礦床中關鍵的富鍺載體礦物，也為揭示富鍺熱液流體演化以及稀散金屬鍺的超常富集機制提供了至關重要的礦物學直接證據。"
+    },
     {
       "id": "5032763",
       "time": "2026-08-10 07:46:58",
@@ -144761,63 +144831,6 @@
         "觀點"
       ],
       "text": "【中信建投：供需雙弱稀土價格盤整 旺季預期有望助力向上】中信建投研報表示，7月稀土各品種表現差異明顯，氧化鐠釹先揚後抑，氧化鋱跳漲後回撥，氧化鏑整體平穩。供給端，由於廢料廠原料緊張問題導致產量明顯下滑，據上海有色網，7月氧化鐠釹產量環比下降11%，8月或有邊際改善，但總體產量仍被壓制。下游高溫假期導致電機廠開工下滑，需求回落，8月仍處淡季，金九銀十是傳統消費旺季，市場對需求啟動預期依然較強，8月中下旬有望重啟下游備庫，打破供需雙弱格局，推動價格企穩向上。"
-    },
-    {
-      "id": "5021196",
-      "time": "2026-08-03 07:51:20",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率下跌1.0個基點至3.970%。"
-    },
-    {
-      "id": "mkt:019fc4e3-0556-7aab-8f4a-11bb656cc203",
-      "time": "2026-08-03 07:50:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【Huatai Securities: currently nearer to \"trading bottom emerging\"】Huatai Securities says China’s technology market is now closer to a \"trading bottom emerging.\" Rationale: 1) correction space has become ample, with core themes retracing into oversold ranges typical of high-elasticity sectors; 2) domestic and offshore leveraged trading funds have largely cleared out, reversing all Q2 inflows, and US hedge funds and Korean leveraged positions have contracted from extreme levels; 3) recent selling pressure remains heavy and no major new buying has appeared. The critical window for a sustainable rebound is late August, when interim results, NVIDIA’s earnings and redemption pressures will jointly determine whether tech can start a new primary advance. Positioning: keep dividend names as base holdings; in a tech rebound prioritize semiconductor equipment and other names with high earnings certainty; for non-core exposure focus on stocks with mid-year report improvement, such as brokerages and innovative drugmakers."
-    },
-    {
-      "id": "5021195",
-      "time": "2026-08-03 07:50:09",
-      "tags": [
-        "央行"
-      ],
-      "text": "【本週中國央行公開市場將有18420億元短期逆回購到期】其中，週一至週五分別到期9255億元、3055億元、2065億元、2705億元、1340億元。此外，週三還將有3000億元3個月期買斷式逆回購到期。中國央行此前公佈，週一將開展3000億元隔夜逆回購操作。"
-    },
-    {
-      "id": "5021194",
-      "time": "2026-08-03 07:48:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【業內預計可轉債全年發行規模有望突破千億元】隨著2026年再融資新規最佳化落地，疊加存量可轉債集中退出形成的市場供給缺口，A股可轉債市場迎來密集發行視窗期，一級市場供給節奏明顯加快。資料顯示，以發行公告日為統計口徑，截至8月2日，2026年以來已有48只可轉債公開發行，累計募資規模達573.32億元，同比顯著增長。東源投資首席分析師劉祥東判斷，下半年可轉債發行或將呈現以下特徵：一是總量維持高位，上半年已發行47只，募資超500億元，儲備專案充足，全年發行規模有望突破千億元。二是在發行節奏方面，三季度或迎密集上市，四季度隨年報審計啟動而自然回落。三是發行結構向科創傾斜，科創板及專精特新企業佔比提升，契合再融資新規對科技創新的定向支援導向。（證券日報）"
-    },
-    {
-      "id": "5021193",
-      "time": "2026-08-03 07:48:04",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：現階段更接近“交易底初現”】華泰證券研報指出，當前科技行情的核心矛盾在於其交易底是否構築完成，華泰證券認為現階段更接近“交易底初現”，判斷的支撐主要來自於：1.調整空間已較充分，主線回撤達到典型高彈性方向的超跌區間；2.境內外槓桿交易型資金已完成一定出清，槓桿資金回吐二季度全部增量，美股對沖基金和韓股槓桿資金也已從極端位置收縮；3.但市場近期賣盤拋壓仍偏強，尚未形成主要增量。趨勢性反彈的關鍵視窗在8月下旬，屆時中報、英偉達財報以及反彈過程中的贖回壓力將共同決定科技能否形成新一輪主升。配置上，紅利繼續承擔底倉，科技反彈優先圍繞原主線中業績確定性較高的半導體裝置等展開，非主線則關注中報改善的方向，如券商、創新藥等。"
-    },
-    {
-      "id": "5021192",
-      "time": "2026-08-03 07:48:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "澳大利亞證券和投資委員會（ASIC）：確認 TMX 集團收購澳大利亞芝加哥期權交易所（CBOE Australia） 。"
     }
   ]
 }
