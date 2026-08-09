@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:40:28_
-_本檔包含 2833 則快訊，約 597923 字_
+_更新時間：2026-08-09 07:59:49_
+_本檔包含 2837 則快訊，約 598209 字_
+
+---
+
+### 2026-08-03 21:35:14  #MKT News #Market Themes #The Trump Trade #Macro & Rates #US Economy
+
+TRUMP said his administration delivered the largest tax cuts and strongest jobs figures in U.S. history, record external investment, a secure border, victories in Venezuela and progress toward Iranian denuclearization, and broad international respect, and dismissed radical-left polls as fake.
+
+---
+
+### 2026-08-03 21:35:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #S&P500 #US10Y
+
+US July S&P Global Manufacturing PMI final due in 10 minutes.
+
+---
+
+### 2026-08-03 21:34:58  #國際
+
+美國總統特朗普：我真實的民調資料，絕非假新聞媒體編造出來的數字，如今處於史上最佳水平。我們推行史上規模最大的減稅政策，就業資料表現亮眼，吸引全球有史以來規模最大的外來赴美投資；邊境管控全面穩固，在委內瑞拉事務上取得重大勝利，推動伊朗實現無核化，在全球收穫前所未有的聲望與成就，還有諸多斐然成果，民調走高本就理所應當。不要相信激進左翼炮製的虛假民調。這群人弄虛作假、腐敗不堪，一心禍國的民主黨人同樣腐化卑劣。投票支援共和黨，重塑美國輝煌！感謝大家對此事的關注！
+
+---
+
+### 2026-08-03 21:34:52  #公司 #市場
+
+泰森食品股價在公司下調年度利潤預期後下跌約5%。
+
+---
+
+### 2026-08-03 21:34:43  #國際
+
+【伊朗戰事如何繼續？美軍開始內部“求支招”】訊息人士披露，對伊朗的戰事陷入僵局之時，美軍中央司令部開始在內部廣泛徵集“有創意、非常規”的建議以開啟局面。 美國有線電視新聞網（CNN）3日援引兩名訊息人士的話報道，中央司令部一名高階軍官上週在發給眾多軍方分析師的電子郵件中寫道：“我們正在尋求有創意、非常規方式，以施壓和懲罰伊朗”。 一些美軍官員表示，在美軍中傳送電子郵件廣泛徵求建議的方式並不常見。（新華社）
+
+---
+
+### 2026-08-03 21:34:23  #MKT News
+
+President Trump said his real polling figures, not those fabricated by the fake-news media, are at their best level ever and asked why that should be a problem.
+
+---
+
+### 2026-08-03 21:34:11  #其他
+
+灰石為加利福尼亞州埃爾卡洪的兩個多戶住宅社群提供了1.058億美元房地美再融資貸款。
+
+---
+
+### 2026-08-03 21:34:00  #市場
+
+維薩股價上漲1.1%；維薩將以24億美元收購Biocatch。
+
+---
+
+### 2026-08-03 21:33:47  #公司 #市場
+
+eBay股價下跌3.5%，此前富國銀行將該股評級從持平下調至減持。
+
+---
+
+### 2026-08-03 21:33:47  #MKT News #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish #Brent
+
+【Iran war leaves Belgium fully reliant on Russian LNG in July】Agency-compiled ship-tracking data show Belgium, Europe’s fifth-largest LNG importer last year, relied entirely on Russian LNG imports in July after Middle East fighting sharply reduced supplies to Europe. July LNG inflows to Belgium were down more than 40% YoY; shipments from Russia totaled about 400,000 tonnes. Disruptions to shipping through the Strait of Hormuz have kept gas prices elevated and led many European buyers to defer LNG purchases for winter storage. The reliance highlights a policy tension as the EU has decided to ban Russian LNG imports from next year. Belgium also receives pipeline gas from Norway and the UK.
 
 ---
 
@@ -17057,41 +17117,5 @@ A grid failure caused power outages in five Cuban provinces.
 ### 2026-08-02 08:00:03  #MKT News
 
 A shooting in Twin Falls, Idaho on Aug. 1 killed three people and injured at least two.
-
----
-
-### 2026-08-02 07:59:28  #MKT News
-
-【US media: Saudi crown prince urged Trump to show restraint on proposed large-scale strike on Iran】Axios reports two US officials and a person familiar said Saudi Crown Prince Mohammed bin Salman called US President Trump on Saturday to express concern about a proposed large-scale US strike on Iran targeting energy infrastructure. Media reports earlier said Trump was considering strikes in coming days in response to an Iranian missile attack on a US base in Jordan and continued disruptions to shipping in the Strait of Hormuz; no final order has been issued. A US official said Saudi Arabia asked for clarity on the plan; the crown prince urged de-escalation. Qatar, the UAE, Turkey and Pakistan have also pressed the US and Iran to calm tensions. Saudi Arabia, a key US regional ally, has influenced Trump’s Iran policy at several critical moments since the war began.
-
----
-
-### 2026-08-02 07:53:23  #國際
-
-【沙特王儲穆罕默德・本・薩勒曼特朗普計劃大規模打擊伊朗表達擔憂】據兩名美國官員以及另一位瞭解通話情況的訊息人士透露，沙特王儲穆罕默德・本・薩勒曼於週六與特朗普總統通話，對特朗普計劃針對伊朗發起新一輪大規模打擊表示擔憂。一名美國官員表示：“沙特方面表達了擔憂，並要求美方闡明行動計劃。”另一名知曉通話內容的訊息人士稱，穆罕默德・本・薩勒曼敦促特朗普緩和局勢，不要發動打擊行動。白宮與沙特駐華盛頓大使館均拒絕對此事置評。
-
----
-
-### 2026-08-02 07:51:32  #國際
-
-市場訊息：沙特親王對特朗普擬定的打擊伊朗計劃感到擔憂。
-
----
-
-### 2026-08-02 07:45:46  #國際
-
-【古巴多省發生斷電】古巴電力聯盟8月1日通報，當地時間18時7分，該國馬坦薩斯省至比那爾德里奧省一帶電力系統發生斷電。古巴電力聯盟在社交媒體上表示，斷電是線路跳閘所致。受美國製裁影響，古巴長期以來難以進口燃料及發電廠裝置，發電廠裝置老舊難更新，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）
-
----
-
-### 2026-08-02 07:45:00  #國際
-
-市場訊息：多架伊朗無人機在伊拉克庫爾德地區上空被攔截。
-
----
-
-### 2026-08-02 07:40:31  #國際
-
-【美國愛達荷州發生槍擊事件 造成3死2傷】美國愛達荷州特溫福爾斯市一家‌漢堡店附近發生槍擊事件，造成3人死亡、2人受傷。警方表示，當天下午3時左右接到報警稱事發地點發生“活躍槍手”事件。警方目前尚未公佈遇難者及傷者身份，也未確認槍手是否在死亡人員之中。據悉，事發區域附近分佈有多家大型零售商和電影院。警方已封鎖現場，並提醒民眾遠離事發區域。（央視新聞）
 
 ---

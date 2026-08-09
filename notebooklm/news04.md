@@ -1,7 +1,37 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:40:28_
-_本檔包含 3322 則快訊，約 598274 字_
+_更新時間：2026-08-09 07:59:49_
+_本檔包含 3317 則快訊，約 597714 字_
+
+---
+
+### 2026-08-04 23:54:52  #宏觀 #國際
+
+【伊朗高官：美試圖阻撓伊朗阿曼就霍爾木茲海峽談判 】伊朗新聞電視臺4日援引一名伊朗高階官員的話報道說，美國政府試圖阻撓伊朗與阿曼之間關於霍爾木茲海峽管理的持續談判。報道說，儘管遭美方阻撓，伊朗與阿曼有關霍爾木茲海峽的談判已進入“新階段”。美國國務卿魯比奧4日在美國國務院對媒體說，眼下最緊迫、最受關注的問題就是霍爾木茲海峽問題，美方正參與阿曼和伊朗之間的相關對話和談判，討論如何在短期內能讓更多船隻安全透過該海峽。（新華社）
+
+---
+
+### 2026-08-04 23:54:34  #國際
+
+【加拿大自美國進口額創新高 受資料中心建設推動】加拿大6月自美國進口額創紀錄新高，受資料中心所用計算機零部件進口激增推動。當前，加拿大正尋求擴大人工智慧基礎設施。加拿大統計局週二公佈，電子及電氣裝置和零部件進口量增加，帶動加拿大進口總額上升儘管11個產品類別中有9個類別的進口下降。6月計算機及外圍裝置進口增長59%，主要是因為從美國進口的資料中心用處理器增加。這推動加拿大自美國進口額升至紀錄高點426.3億加元（303億美元），推動加拿大對美國的貿易順差從前一個月的111億加元收窄至100億加元。
+
+---
+
+### 2026-08-04 23:53:50  #Trading Economics #Economy #New Zealand #Global Dairy Trade Price Index #Importance 1
+
+Global Dairy Trade Index Extends Gains — The Global Dairy Trade Price Index edged up 0.1% in the two weeks ended August 4, extending the previous auction's 1.5% increase, according to GlobalDairyTrade. Prices rose for lactose (+4.1%), cheddar (+3.8%), skim milk powder (+1.2%), mozzarella (+1.0%), and whole milk powder (+0.2%). These gains were partly offset by declines in buttermilk powder (-2.8%), butter (-2.3%), and anhydrous milk fat (-0.8%).
+
+---
+
+### 2026-08-04 23:53:38  #Trading Economics #Markets #United States #stocks #Importance 1
+
+AbbVie Stock Price Hits 5-week Low — AbbVie shares decreased to 243.00 USD, the lowest since June 2026. Over the past 4 weeks, AbbVie lost 4.53%, and in the last 12 months, it increased 22.5%.
+
+---
+
+### 2026-08-04 23:53:36  #MKT News
+
+Lebanese presidency said Israel did not provide a response today to Lebanon regarding a ceasefire commitment.
 
 ---
 
@@ -19950,65 +19980,5 @@ NextEra Energy Stock Price Hits 5-week Low — NextEra Energy shares decreased t
 ### 2026-08-03 21:35:24  #MKT News
 
 【Baltic Dry Index rises to highest in over two weeks】The Baltic Dry Index (BDI) rose 111 points, or 4.1%, to 2,843 — its highest since July 15 — as freight rates advanced across all vessel classes. The Capesize index (BCI) gained 268 points, or 6.2%, to 4,564; capesize daily earnings rose $2,435 to $37,892. The Panamax index (BPI) climbed 48 points, or 2.3%, to 2,135 — its highest since July 21 — with panamax daily earnings up $432 to $19,212. The Supramax index (BSI) ticked up 1 point to 1,610. The Handysize index (BHSI) fell 3 points to 884.
-
----
-
-### 2026-08-03 21:35:14  #MKT News #Market Themes #The Trump Trade #Macro & Rates #US Economy
-
-TRUMP said his administration delivered the largest tax cuts and strongest jobs figures in U.S. history, record external investment, a secure border, victories in Venezuela and progress toward Iranian denuclearization, and broad international respect, and dismissed radical-left polls as fake.
-
----
-
-### 2026-08-03 21:35:06  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact mixed #S&P500 #US10Y
-
-US July S&P Global Manufacturing PMI final due in 10 minutes.
-
----
-
-### 2026-08-03 21:34:58  #國際
-
-美國總統特朗普：我真實的民調資料，絕非假新聞媒體編造出來的數字，如今處於史上最佳水平。我們推行史上規模最大的減稅政策，就業資料表現亮眼，吸引全球有史以來規模最大的外來赴美投資；邊境管控全面穩固，在委內瑞拉事務上取得重大勝利，推動伊朗實現無核化，在全球收穫前所未有的聲望與成就，還有諸多斐然成果，民調走高本就理所應當。不要相信激進左翼炮製的虛假民調。這群人弄虛作假、腐敗不堪，一心禍國的民主黨人同樣腐化卑劣。投票支援共和黨，重塑美國輝煌！感謝大家對此事的關注！
-
----
-
-### 2026-08-03 21:34:52  #公司 #市場
-
-泰森食品股價在公司下調年度利潤預期後下跌約5%。
-
----
-
-### 2026-08-03 21:34:43  #國際
-
-【伊朗戰事如何繼續？美軍開始內部“求支招”】訊息人士披露，對伊朗的戰事陷入僵局之時，美軍中央司令部開始在內部廣泛徵集“有創意、非常規”的建議以開啟局面。 美國有線電視新聞網（CNN）3日援引兩名訊息人士的話報道，中央司令部一名高階軍官上週在發給眾多軍方分析師的電子郵件中寫道：“我們正在尋求有創意、非常規方式，以施壓和懲罰伊朗”。 一些美軍官員表示，在美軍中傳送電子郵件廣泛徵求建議的方式並不常見。（新華社）
-
----
-
-### 2026-08-03 21:34:23  #MKT News
-
-President Trump said his real polling figures, not those fabricated by the fake-news media, are at their best level ever and asked why that should be a problem.
-
----
-
-### 2026-08-03 21:34:11  #其他
-
-灰石為加利福尼亞州埃爾卡洪的兩個多戶住宅社群提供了1.058億美元房地美再融資貸款。
-
----
-
-### 2026-08-03 21:34:00  #市場
-
-維薩股價上漲1.1%；維薩將以24億美元收購Biocatch。
-
----
-
-### 2026-08-03 21:33:47  #公司 #市場
-
-eBay股價下跌3.5%，此前富國銀行將該股評級從持平下調至減持。
-
----
-
-### 2026-08-03 21:33:47  #MKT News #Commodities #Energy #EURUSD #Impact bearish #DXY #Impact bullish #Brent
-
-【Iran war leaves Belgium fully reliant on Russian LNG in July】Agency-compiled ship-tracking data show Belgium, Europe’s fifth-largest LNG importer last year, relied entirely on Russian LNG imports in July after Middle East fighting sharply reduced supplies to Europe. July LNG inflows to Belgium were down more than 40% YoY; shipments from Russia totaled about 400,000 tonnes. Disruptions to shipping through the Strait of Hormuz have kept gas prices elevated and led many European buyers to defer LNG purchases for winter storage. The reliance highlights a policy tension as the EU has decided to ban Russian LNG imports from next year. Belgium also receives pipeline gas from Norway and the UK.
 
 ---

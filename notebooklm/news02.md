@@ -1,7 +1,79 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:40:28_
-_本檔包含 3153 則快訊，約 598091 字_
+_更新時間：2026-08-09 07:59:49_
+_本檔包含 3156 則快訊，約 598305 字_
+
+---
+
+### 2026-08-07 10:37:57  #MKT News #Market Regions #Greater China
+
+Customs: China's Jan–Jul automobile exports, including chassis, totaled 6.399 million units.
+
+---
+
+### 2026-08-07 10:37:55  #MKT News
+
+CUSTOMS: China imported 63,323 tonnes of rare earths in January–July.
+
+---
+
+### 2026-08-07 10:37:48  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Holds Firm at Multi-Year High — The offshore yuan held firm around 6.74 per dollar on Friday, remaining at its strongest level since early February 2023, as Beijing's efforts to accelerate the yuan's internationalization continued to bolster the currency. A growing number of Chinese commercial banks have added roughly a dozen currencies to their direct yuan settlement and clearing networks, including the Thai baht, Brazilian real, and Kazakhstani tenge. The latest move is expected to help Chinese firms further reduce their dependence on the US dollar as the country's trade ties and overseas investments continue to expand, while also supporting President Xi Jinping's ambition to build a "powerful currency." Meanwhile, investors awaited upcoming trade data after China unveiled fresh retaliatory measures against the US, including tighter drone export controls, sanctions on seven American firms, and its first national security probe linked to foreign trade.
+
+---
+
+### 2026-08-07 10:37:46  #MKT News #Commodities #Energy
+
+Customs: China imported 10.54 mln tonnes of natural gas in July, versus 10.931 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:37:45  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
+
+China Customs reported July mobile-phone exports of 49.268 mln units, down from 53.261 mln in June.
+
+---
+
+### 2026-08-07 10:37:34  #市場 #焦點
+
+科創50日內漲幅達2.07%，成分股中，生益電子漲8.32%，源傑科技漲5.93%，華虹宏力漲4.99%，華海清科漲4.97%。
+
+---
+
+### 2026-08-07 10:37:29  #MKT News #Commodities #Energy
+
+CUSTOMS reports China imported 67.923 mln t of natural gas in Jan–Jul.
+
+---
+
+### 2026-08-07 10:37:28  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+China Customs said July exports of unwrought aluminium and aluminium products were 643,000 tonnes, down from 711,000 tonnes in June.
+
+---
+
+### 2026-08-07 10:37:13  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+CUSTOMS: China imported 2.477 mln tonnes of refined oil in July, compared with 1.737 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:37:10  #MKT News #Market Regions #Greater China
+
+CUSTOMS: China July steel exports 10.121 mln tonnes, down from June's 10.32 mln tonnes.
+
+---
+
+### 2026-08-07 10:37:07  #MKT News #Commodities #Energy
+
+CUSTOMS: China imported 19.908 mln tonnes of refined petroleum products in Jan-Jul.
+
+---
+
+### 2026-08-07 10:36:59  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China
+
+China exported 64.995 mln tonnes of steel in Jan–Jul, Customs data showed.
 
 ---
 
@@ -18985,59 +19057,5 @@ Google chief scientist Jeff Dean said tomorrow will be his last day at the compa
 ### 2026-08-06 03:23:00  #市場
 
 【飆升的科技股還能買嗎？資深策略師Yardeni認為該板塊現在是打折價】科技股7月下旬以來氣勢如虹，接下來還能漲多少？Ed Yardeni給出的答案是：這波行情離到頭還早著呢。投資者對人工智慧交易信心重燃，霍爾木茲海峽也浮現出重新開放的希望，這些因素推動納斯達克100指數四天內大漲9.3%，走出了2025年4月以來的最佳一波行情。即便如此，它基於未來12個月預期利潤的市盈率也只有22.3倍，是2017年以來對大盤估值溢價最低的水平之一。“對於一個高增長行業來說，那是比較低的估值倍數，” 身為Yardeni Research Inc.總裁兼首席投資策略師的Yardeni在電話中表示，拋售該板塊的投資者“已經發現他們實際上把這些這些股票變成了促銷品”。Yardeni表示，將納斯達克100指數推進技術性回撥的拋售也消除了其過高的估值，從而為反彈創造了條件。加之強勁的季報和持續旺盛的人工智慧需求，進一步上漲也有了穩固的基礎。
-
----
-
-### 2026-08-06 03:21:53  #其他
-
-FIRST SOLAR跌幅快速擴大至5%。
-
----
-
-### 2026-08-06 03:20:04  #公司 #國際
-
-【外媒：伊朗尋求對海峽過境船隻收取貨物價值5%至7%的費用】據路透社週三援引一名伊朗高階訊息人士和兩名地區官員稱，伊朗-阿曼擬議協議將賦予伊朗對透過霍爾木茲海峽進入海灣船隻的控制權，這是迄今伊朗獲得的最大讓步之一。伊朗隨後表示，船隻進出海灣都將經過伊朗水域。地區訊息人士表示，關於如何界定“控制權”仍有細節需要確定。伊朗訊息人士表示，目前擺在桌面上的協議文字設想，伊朗將控制透過該海峽駛入海灣的船隻，主要爭議之一是對於駛出方向船隻伊朗應發揮何種作用。伊朗副外長隨後表示：“該航線的設計方式是，商業船隻的進出航線都將透過伊朗領海。”伊朗高階官員透露，伊朗尋求向使用該海峽的船隻收取相當於貨物價值5%至7%的費用，阿曼正在討論約3%的較低費用，而華盛頓則希望完全不收取費用。名義上讓費用支付保持自願可能成為打破僵局的一種方式，不過在伊朗可能發動襲擊的威脅下，船運公司為了通行可能不得不付費。
-
----
-
-### 2026-08-06 03:18:25  #宏觀 #國際
-
-特朗普準備出臺關稅及價格下限政策，提振美國多晶矽產業。
-
----
-
-### 2026-08-06 03:17:08  #MKT News
-
-Meta Platforms (META.O) chief AI officer said Muse Code beta is live; it is the Meta Super Intelligence Lab’s (MSL) first coding agent, built on Muse Spark 1.2.
-
----
-
-### 2026-08-06 03:16:53  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Refinitiv: Iran seeks 5–7% charge on cargo value for Strait of Hormuz transits under Iran-Oman proposal】Refinitiv cites a senior Iranian source and two regional officials saying a proposed Iran-Oman agreement would give Iran control over vessels transiting the Strait of Hormuz into the Gulf, one of the largest concessions Tehran has secured to date. Officials say details of what 'control' entails remain unresolved, particularly Iran's role for ships leaving the Gulf. Iran's deputy foreign minister said the route would be arranged so commercial traffic entering and exiting passes through Iranian territorial waters. A senior Iranian official said Iran seeks to levy fees of 5–7% of cargo value on ships using the strait; Oman is discussing about 3% and Washington opposes any charge. Payments would be nominally voluntary, though regional sources say shipping firms may feel compelled to pay under the threat of Iranian attacks.
-
----
-
-### 2026-08-06 03:16:41  #其他
-
-Meta推出首款AI程式設計智慧體，正面挑戰Anthropic與OpenAI。
-
----
-
-### 2026-08-06 03:09:22  #其他
-
-加拿大總理卡尼：對國際足聯主席因凡蒂諾缺乏信任。
-
----
-
-### 2026-08-06 03:09:08  #國際
-
-墨西哥牛油果協會表示，美國發布的安全警報影響了米卻肯州的出口檢驗工作。
-
----
-
-### 2026-08-06 03:08:56  #MKT News
-
-U.S. Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention (CDC).
 
 ---

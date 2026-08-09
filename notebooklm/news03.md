@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:40:28_
-_本檔包含 3436 則快訊，約 598149 字_
+_更新時間：2026-08-09 07:59:49_
+_本檔包含 3440 則快訊，約 598675 字_
+
+---
+
+### 2026-08-06 03:21:53  #其他
+
+FIRST SOLAR跌幅快速擴大至5%。
+
+---
+
+### 2026-08-06 03:20:04  #公司 #國際
+
+【外媒：伊朗尋求對海峽過境船隻收取貨物價值5%至7%的費用】據路透社週三援引一名伊朗高階訊息人士和兩名地區官員稱，伊朗-阿曼擬議協議將賦予伊朗對透過霍爾木茲海峽進入海灣船隻的控制權，這是迄今伊朗獲得的最大讓步之一。伊朗隨後表示，船隻進出海灣都將經過伊朗水域。地區訊息人士表示，關於如何界定“控制權”仍有細節需要確定。伊朗訊息人士表示，目前擺在桌面上的協議文字設想，伊朗將控制透過該海峽駛入海灣的船隻，主要爭議之一是對於駛出方向船隻伊朗應發揮何種作用。伊朗副外長隨後表示：“該航線的設計方式是，商業船隻的進出航線都將透過伊朗領海。”伊朗高階官員透露，伊朗尋求向使用該海峽的船隻收取相當於貨物價值5%至7%的費用，阿曼正在討論約3%的較低費用，而華盛頓則希望完全不收取費用。名義上讓費用支付保持自願可能成為打破僵局的一種方式，不過在伊朗可能發動襲擊的威脅下，船運公司為了通行可能不得不付費。
+
+---
+
+### 2026-08-06 03:18:25  #宏觀 #國際
+
+特朗普準備出臺關稅及價格下限政策，提振美國多晶矽產業。
+
+---
+
+### 2026-08-06 03:17:08  #MKT News
+
+Meta Platforms (META.O) chief AI officer said Muse Code beta is live; it is the Meta Super Intelligence Lab’s (MSL) first coding agent, built on Muse Spark 1.2.
+
+---
+
+### 2026-08-06 03:16:53  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Refinitiv: Iran seeks 5–7% charge on cargo value for Strait of Hormuz transits under Iran-Oman proposal】Refinitiv cites a senior Iranian source and two regional officials saying a proposed Iran-Oman agreement would give Iran control over vessels transiting the Strait of Hormuz into the Gulf, one of the largest concessions Tehran has secured to date. Officials say details of what 'control' entails remain unresolved, particularly Iran's role for ships leaving the Gulf. Iran's deputy foreign minister said the route would be arranged so commercial traffic entering and exiting passes through Iranian territorial waters. A senior Iranian official said Iran seeks to levy fees of 5–7% of cargo value on ships using the strait; Oman is discussing about 3% and Washington opposes any charge. Payments would be nominally voluntary, though regional sources say shipping firms may feel compelled to pay under the threat of Iranian attacks.
+
+---
+
+### 2026-08-06 03:16:41  #其他
+
+Meta推出首款AI程式設計智慧體，正面挑戰Anthropic與OpenAI。
+
+---
+
+### 2026-08-06 03:09:22  #其他
+
+加拿大總理卡尼：對國際足聯主席因凡蒂諾缺乏信任。
+
+---
+
+### 2026-08-06 03:09:08  #國際
+
+墨西哥牛油果協會表示，美國發布的安全警報影響了米卻肯州的出口檢驗工作。
+
+---
+
+### 2026-08-06 03:08:56  #MKT News
+
+U.S. Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention (CDC).
 
 ---
 
@@ -20684,35 +20738,5 @@ Marathon Oil expects third-quarter product profits to be lower than second-quart
 ### 2026-08-04 23:57:18  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
 
 US 10-Year Yield Eases from 18-Month High — The yield on the 10-year US Treasury note fell to 4.65% on Tuesday from the 18-month high of 4.75% in the previous session as lower energy prices softened risks of higher inflation and a hawkish reaction by the Federal Reserve. Qatari authorities stated that the US and Iran were close to signing a short-term agreement that would pause the conflict, followed by US Treasury Secretary Bessent noting that a deal could be announced imminently. The developments drove fuel and natural gas prices to extend their declines, limiting risks that energy-driven inflation would continue to lift underlying consumer prices as observed in data from the second quarter. Rate traders trimmed positions reflecting a hike in the Federal Reserve's next meeting, although the move remained in slight consensus. Still, yields remained above levels prior to the Fed's rate hold last week, when Chair Warsh's reluctance to confirm a rate hike as his preferred tool against higher prices raised inflationary concerns.
-
----
-
-### 2026-08-04 23:54:52  #宏觀 #國際
-
-【伊朗高官：美試圖阻撓伊朗阿曼就霍爾木茲海峽談判 】伊朗新聞電視臺4日援引一名伊朗高階官員的話報道說，美國政府試圖阻撓伊朗與阿曼之間關於霍爾木茲海峽管理的持續談判。報道說，儘管遭美方阻撓，伊朗與阿曼有關霍爾木茲海峽的談判已進入“新階段”。美國國務卿魯比奧4日在美國國務院對媒體說，眼下最緊迫、最受關注的問題就是霍爾木茲海峽問題，美方正參與阿曼和伊朗之間的相關對話和談判，討論如何在短期內能讓更多船隻安全透過該海峽。（新華社）
-
----
-
-### 2026-08-04 23:54:34  #國際
-
-【加拿大自美國進口額創新高 受資料中心建設推動】加拿大6月自美國進口額創紀錄新高，受資料中心所用計算機零部件進口激增推動。當前，加拿大正尋求擴大人工智慧基礎設施。加拿大統計局週二公佈，電子及電氣裝置和零部件進口量增加，帶動加拿大進口總額上升儘管11個產品類別中有9個類別的進口下降。6月計算機及外圍裝置進口增長59%，主要是因為從美國進口的資料中心用處理器增加。這推動加拿大自美國進口額升至紀錄高點426.3億加元（303億美元），推動加拿大對美國的貿易順差從前一個月的111億加元收窄至100億加元。
-
----
-
-### 2026-08-04 23:53:50  #Trading Economics #Economy #New Zealand #Global Dairy Trade Price Index #Importance 1
-
-Global Dairy Trade Index Extends Gains — The Global Dairy Trade Price Index edged up 0.1% in the two weeks ended August 4, extending the previous auction's 1.5% increase, according to GlobalDairyTrade. Prices rose for lactose (+4.1%), cheddar (+3.8%), skim milk powder (+1.2%), mozzarella (+1.0%), and whole milk powder (+0.2%). These gains were partly offset by declines in buttermilk powder (-2.8%), butter (-2.3%), and anhydrous milk fat (-0.8%).
-
----
-
-### 2026-08-04 23:53:38  #Trading Economics #Markets #United States #stocks #Importance 1
-
-AbbVie Stock Price Hits 5-week Low — AbbVie shares decreased to 243.00 USD, the lowest since June 2026. Over the past 4 weeks, AbbVie lost 4.53%, and in the last 12 months, it increased 22.5%.
-
----
-
-### 2026-08-04 23:53:36  #MKT News
-
-Lebanese presidency said Israel did not provide a response today to Lebanon regarding a ceasefire commitment.
 
 ---

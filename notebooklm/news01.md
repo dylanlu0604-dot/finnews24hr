@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-09 07:40:28_
-_本檔包含 3138 則快訊，約 598147 字_
+_更新時間：2026-08-09 07:59:49_
+_本檔包含 3136 則快訊，約 598310 字_
+
+---
+
+### 2026-08-09 07:56:16  #其他
+
+【福建：霞浦49萬噸海洋養殖碳匯掛牌交易】8月8日，隨著滑鼠在福建省海峽資源環境交易中心繫統上輕輕一點，霞浦縣海洋養殖碳匯專案正式掛牌交易。已簽發的493931噸碳匯量被擺上“貨架”，曾經看不見、摸不著的生態效益轉化為可交易、可變現的碳匯產品。海洋養殖碳匯，是指海帶、紫菜、龍鬚菜等大型藻類以及生蠔等雙殼貝類在生長過程中吸收和固定的二氧化碳所形成的生態效益。霞浦是我省海水養殖大縣，貝藻養殖規模穩居前列。今年1月6日，該縣啟動海洋養殖碳匯開發專案，以31342.7公頃養殖海域的海帶、紫菜、龍鬚菜和生蠔為主要物件，對養殖活動的碳匯開展調查、核算和開發。（福建日報）
+
+---
+
+### 2026-08-09 07:55:35  #公司 #國際
+
+【海灣國家加速謀求霍爾木茲海峽危機管控】阿布扎比國家石油公司當地時間8日稱，旗下一艘船隻於當天在穿越霍爾木茲海峽時遭到導彈襲擊。儘管襲擊未造成人員傷亡，但阿聯酋對此強烈譴責，稱這一行為嚴重威脅商業航運安全，並要求霍爾木茲海峽全面、無條件重新開放。與此同時，伊朗與阿曼正在就新的通航機制展開談判。隨著衝突持續，海灣國家正在承受越來越直接的安全和經濟壓力，其外交與安全訴求也在發生微妙變化。（央視新聞）
+
+---
+
+### 2026-08-09 07:54:48  #宏觀
+
+【海南出臺“十五五”再生資源回收行業發展規劃】近日，省商務廳、省生態環境廳印發《海南省“十五五”再生資源回收行業發展規劃》（以下簡稱《規劃》），提出最佳化回收網路，強化規範引領，著力推動再生資源回收行業高質量發展。 《規劃》提出，緊扣“無廢島”建設和“低碳島”目標，加快構建全省再生資源回收行業新發展格局，著力推動再生資源回收行業高質量發展。到2030年，全省再生資源回收網路體系基本建成，形成“前端回收-區域分揀-省級產業園集散”三級聯動發展格局，“全島一盤棋”構建完善規範的回收拆解利用體系，廢塑膠、廢紙、廢鋼鐵、廢橡膠、廢棄電器電子等重點品類回收分揀能力大幅提升。（海南日報）
+
+---
+
+### 2026-08-09 07:52:31  #公司
+
+【5家金融租賃公司相繼落地海口江東新區】8月7日，中信金融租賃有限公司（以下簡稱中信金租）在海口江東新區完成管理型專案公司——信銀租賃（海南）有限公司的註冊設立。這是落地江東新區的第五家金融租賃管理型專案公司，標誌著融資租賃產業的集聚效應正加速形成。（海南日報）
+
+---
+
+### 2026-08-09 07:47:41  #其他
+
+【上海：保障菜籃子，生鮮商品供應穩】受颱風“白海豚”影響，上海將遭遇大風、強降雨天氣，市民群眾的菜籃子有無保障？市商務委表示，當前全市民生保供體系運轉順暢、儲備充足、調配有力，能夠應對颱風天氣下的市民物資需求。後續市商務委將持續緊盯颱風動態與市場供需變化，實時監測商品庫存、價格波動情況，動態調整備貨、調配物資資源，持續夯實保供穩價基礎。市商務委提醒廣大市民，全市生活物資保障充足、供應穩定，可結合家庭日常需求理性、適量採購，錯峰出行採購，注意風雨天氣出行安全。（解放日報）
+
+---
+
+### 2026-08-09 07:45:14  #國際
+
+【專家：多方利益交織下 霍爾木茲海峽能否重開仍不確定】中東問題專家王晉表示：霍爾木茲海峽是否能夠真的重新開放，我覺得現在還是有一些不確定性。即使阿曼和伊朗之間的對話能夠形成突破，但是不確定能否被其他有關各方所接受。我們要考慮到，霍爾木茲海峽不僅和伊朗、阿曼緊密相關，同樣也和其他幾個阿拉伯國家都緊密相關，這些國家會不會認可伊朗和阿曼所達成的協議，會不會在未來提出新的挑戰，相關機制能否有效執行，現在來看還不知道。（央視新聞）
+
+---
+
+### 2026-08-09 07:44:44  #公司
+
+【寧波公交地鐵暫停運營】記者分別從寧波市交通運輸局和寧波市軌道交通集團有限公司獲悉，受第13號颱風“白海豚”影響，自8月9日起，寧波市公交集團、城鄉公交、東方巴士、公運公交的公交線路和寧波地鐵全線網暫停運營，後續恢復運營時間視颱風動態和影響情況確定。（央廣網）
+
+---
+
+### 2026-08-09 07:44:26  #宏觀
+
+【北京首個數字經濟出海專項支援政策出臺】近日，北京市經信局釋出本市首個數字經濟出海的專項支援政策——《北京市關於加快促進數字經濟企業出海的若干措施》，用十條措施助力數字經濟企業拓展海外市場。 十條措施聚焦三大方面，首先就是企業關心的如何拓寬出海市場渠道。《若干措施》提出，支援企業連結海外資源，搭建與海外商協會等的對接渠道，鼓勵企業參與海外行、國際供需對接會等活動，助力企業連結海外市場、“借船出海”，支援企業參加重點國際性展會。 為了鼓勵發展出海服務平臺，《若干措施》還明確，健全全市出海服務平臺綜合獎勵機制，根據國際資源連結、海外服務站建設、服務企業成效等情況，單個平臺每年支援金額不超過1000萬元。（北京日報）
+
+---
+
+### 2026-08-09 07:43:41  #公司 #觀點
+
+【兩家券商收罰單！一家涉網路安全遲報，一家經紀自營雙雙違規】兩家券商收罰單。近日，陝西證監局與浙江證監局分別對開源證券、財通證券開出罰單。公告顯示，開源證券因發生網路通訊故障造成部分使用者登入異常，卻沒有及時向監管報告；而財通證券經紀業務與自營業務存在多項合規問題。近年來監管部門持續對券商合規問題保持高壓態勢，在此背景下，上述兩張罰單為行業提供了新的警示樣本。（證券時報）
+
+---
+
+### 2026-08-09 07:41:39  #公司 #國際
+
+【現代重工向美國輸出造船智慧財產權，韓華則收購美國船廠】現代重工集團將向正推進造船業復興計劃的美國輸出船廠運營以及船舶設計相關智慧財產權。韓華海洋選擇投入巨資收購當地船廠，而現代重工另闢蹊徑，依託韓國造船業成熟技術經驗同美國開展合作，該技術體系每年可高效建造約 40 艘船舶。
 
 ---
 
@@ -18842,77 +18902,5 @@ CUSTOMS: China exported 1.092 mln vehicles (including chassis) in July, up from 
 ### 2026-08-07 10:37:59  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
 
 Indonesian Stocks on Course for Fifth Weekly Rise — Indonesian shares rose 33 points, or 0.5%, to 6,377 in Friday morning trade, rebounding from a modest dip in the prior session amid sectoral gains led by energy, property, and infrastructure. The advance was tempered, however, by softer U.S. stock futures ahead of the July jobs report, while geopolitical risks lingered after Iran reportedly sought to restrict U.S. and Israeli vessels from transiting Hormuz and impose compensation demands on nations it deems hostile. Caution also grew ahead of July trade data in top trading partner China later today, with expectations of weaker exports and imports due to weather disruptions. Early standouts included Indosat (6.8%), Mitra Keluarga (4.7%), and Bumi Resources (2.8%). For the week, markets remain on track for a fifth straight gain, lifted by buying interest linked to governance reforms under President Prabowo’s flagship program. Meanwhile, July headline inflation hit a three-month low, reinforcing views that cost pressures are contained.
-
----
-
-### 2026-08-07 10:37:57  #MKT News #Market Regions #Greater China
-
-Customs: China's Jan–Jul automobile exports, including chassis, totaled 6.399 million units.
-
----
-
-### 2026-08-07 10:37:55  #MKT News
-
-CUSTOMS: China imported 63,323 tonnes of rare earths in January–July.
-
----
-
-### 2026-08-07 10:37:48  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Holds Firm at Multi-Year High — The offshore yuan held firm around 6.74 per dollar on Friday, remaining at its strongest level since early February 2023, as Beijing's efforts to accelerate the yuan's internationalization continued to bolster the currency. A growing number of Chinese commercial banks have added roughly a dozen currencies to their direct yuan settlement and clearing networks, including the Thai baht, Brazilian real, and Kazakhstani tenge. The latest move is expected to help Chinese firms further reduce their dependence on the US dollar as the country's trade ties and overseas investments continue to expand, while also supporting President Xi Jinping's ambition to build a "powerful currency." Meanwhile, investors awaited upcoming trade data after China unveiled fresh retaliatory measures against the US, including tighter drone export controls, sanctions on seven American firms, and its first national security probe linked to foreign trade.
-
----
-
-### 2026-08-07 10:37:46  #MKT News #Commodities #Energy
-
-Customs: China imported 10.54 mln tonnes of natural gas in July, versus 10.931 mln tonnes in June.
-
----
-
-### 2026-08-07 10:37:45  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
-
-China Customs reported July mobile-phone exports of 49.268 mln units, down from 53.261 mln in June.
-
----
-
-### 2026-08-07 10:37:34  #市場 #焦點
-
-科創50日內漲幅達2.07%，成分股中，生益電子漲8.32%，源傑科技漲5.93%，華虹宏力漲4.99%，華海清科漲4.97%。
-
----
-
-### 2026-08-07 10:37:29  #MKT News #Commodities #Energy
-
-CUSTOMS reports China imported 67.923 mln t of natural gas in Jan–Jul.
-
----
-
-### 2026-08-07 10:37:28  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-China Customs said July exports of unwrought aluminium and aluminium products were 643,000 tonnes, down from 711,000 tonnes in June.
-
----
-
-### 2026-08-07 10:37:13  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-CUSTOMS: China imported 2.477 mln tonnes of refined oil in July, compared with 1.737 mln tonnes in June.
-
----
-
-### 2026-08-07 10:37:10  #MKT News #Market Regions #Greater China
-
-CUSTOMS: China July steel exports 10.121 mln tonnes, down from June's 10.32 mln tonnes.
-
----
-
-### 2026-08-07 10:37:07  #MKT News #Commodities #Energy
-
-CUSTOMS: China imported 19.908 mln tonnes of refined petroleum products in Jan-Jul.
-
----
-
-### 2026-08-07 10:36:59  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China
-
-China exported 64.995 mln tonnes of steel in Jan–Jul, Customs data showed.
 
 ---
