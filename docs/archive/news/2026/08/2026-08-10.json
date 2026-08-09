@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 107,
+  "count": 109,
   "items": [
+    {
+      "id": "mkt:019fe872-8338-7aab-8fcc-002e9fbeb929",
+      "time": "2026-08-10 05:34:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kuwait, Pakistan discuss regional situation】Kuwait's foreign minister held a phone call with Pakistan's foreign minister to discuss the latest regional situation, measures to bolster regional security and stability, and steps to deepen bilateral ties."
+    },
+    {
+      "id": "5032690",
+      "time": "2026-08-10 05:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相安迪・伯納姆週日表示，將打擊虛假商品折扣以及訂閱消費陷阱。"
+    },
     {
       "id": "mkt:019fe86e-7bf9-7aab-8fcb-f81cc4c92a87",
       "time": "2026-08-10 05:29:42",
