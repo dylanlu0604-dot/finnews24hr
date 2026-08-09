@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-10 00:15:37",
-  "count": 16002,
+  "updated": "2026-08-10 00:24:47",
+  "count": 16003,
   "items": [
+    {
+      "id": "mkt:019fe752-17a6-7aab-8fca-d6b2fd744e32",
+      "time": "2026-08-10 00:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen deputy defense minister says responses to the Houthi movement will be decided based on national interest."
+    },
+    {
+      "id": "5032627",
+      "time": "2026-08-10 00:18:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉今年將把日本的車輛交付網點數量增加60%。"
+    },
+    {
+      "id": "mkt:019fe751-23be-7aab-8fca-cef6f4343dce",
+      "time": "2026-08-10 00:18:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon White Dolphin rainfall triggers Jiaojiang (Zhejiang) 2026 No.2 flood】Rainfall from Typhoon White Dolphin raised the water level at Baizhizao hydrological station in Jiaojiang, Taizhou, Zhejiang to 17.03 m at 22:55 on Aug 9, 0.03 m above the 17.00 m warning level; corresponding discharge was 3,900 m3/s. Under main rivers flood numbering rules the event is designated Jiaojiang 2026 No.2 flood."
+    },
     {
       "id": "5032626",
       "time": "2026-08-10 00:14:41",
@@ -145718,22 +145742,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：將針對哈尼亞、阿亞圖拉·哈梅內伊遇襲事件實施猛烈、毀滅性報復。"
-    },
-    {
-      "id": "5020972",
-      "time": "2026-08-03 00:23:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全委員會：調停方正提供協助，以期重啟與美國的諒解備忘錄談判。各方正就所有議題交換意見。"
-    },
-    {
-      "id": "5020971",
-      "time": "2026-08-03 00:19:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會眾議員邁克·特納：美國正與烏克蘭商討向其轉讓“愛國者”導彈的生產技術，以便基輔能夠建立生產線並掌握相關技術。"
     }
   ]
 }

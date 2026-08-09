@@ -1,7 +1,31 @@
 {
   "date": "2026-08-10",
-  "count": 5,
+  "count": 8,
   "items": [
+    {
+      "id": "mkt:019fe752-17a6-7aab-8fca-d6b2fd744e32",
+      "time": "2026-08-10 00:19:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen deputy defense minister says responses to the Houthi movement will be decided based on national interest."
+    },
+    {
+      "id": "5032627",
+      "time": "2026-08-10 00:18:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉今年將把日本的車輛交付網點數量增加60%。"
+    },
+    {
+      "id": "mkt:019fe751-23be-7aab-8fca-cef6f4343dce",
+      "time": "2026-08-10 00:18:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon White Dolphin rainfall triggers Jiaojiang (Zhejiang) 2026 No.2 flood】Rainfall from Typhoon White Dolphin raised the water level at Baizhizao hydrological station in Jiaojiang, Taizhou, Zhejiang to 17.03 m at 22:55 on Aug 9, 0.03 m above the 17.00 m warning level; corresponding discharge was 3,900 m3/s. Under main rivers flood numbering rules the event is designated Jiaojiang 2026 No.2 flood."
+    },
     {
       "id": "5032626",
       "time": "2026-08-10 00:14:41",
