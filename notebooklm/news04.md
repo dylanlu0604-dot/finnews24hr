@@ -1,7 +1,337 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 10:10:37_
-_本檔包含 3328 則快訊，約 601501 字_
+_更新時間：2026-08-09 11:41:53_
+_本檔包含 3328 則快訊，約 602059 字_
+
+---
+
+### 2026-08-05 03:02:25  #其他 #焦點
+
+納斯達克100指數漲幅擴大至3.5%。
+
+---
+
+### 2026-08-05 03:02:13  #其他
+
+國際足聯主席因凡蒂諾召集國際足聯高層職員於明日開會。
+
+---
+
+### 2026-08-05 03:02:03  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed up 0.31% at 25,914, a 61-point premium to the spot index.
+
+---
+
+### 2026-08-05 03:00:24  #市場 #焦點
+
+SPACEX股價在業績公佈前上漲9.6%，創下盤中新高。
+
+---
+
+### 2026-08-05 03:00:02  #市場
+
+恒指期貨夜盤收漲0.32%，報25916.80點，高水63.88點。
+
+---
+
+### 2026-08-05 02:58:16  #其他
+
+【利比亞西部發生激烈衝突已致5人死亡】據利比亞媒體4日報道，在該國西部扎維耶市和蘇爾曼市，從屬利比亞民族統一政府不同派系的武裝人員爆發激烈衝突，已造成至少5人死亡。（新華社）
+
+---
+
+### 2026-08-05 02:58:13  #MKT News #Brent #Impact bullish #WTI
+
+【Heavy clashes in western Libya kill at least five】Libyan media reported on the 4th that heavy clashes broke out in Zawiya and Sorman in western Libya between armed groups aligned with rival factions of the Government of National Unity, killing at least five.
+
+---
+
+### 2026-08-05 02:56:46  #MKT News #Important #WTI #Impact bearish #Brent
+
+The Daily Telegraph reports Europe may bear costs under a new plan to reopen the Strait of Hormuz.
+
+---
+
+### 2026-08-05 02:55:52  #國際
+
+據每日電訊報：重啟霍爾木茲海峽新方案或將由歐洲承擔費用。
+
+---
+
+### 2026-08-05 02:54:00  #其他
+
+【義大利政府延長柴油稅減免至8月25日】據義大利媒體La Stampa報道，義大利內閣將柴油稅減免措施延長至8月25日。在夏季出行旺季期間，該措施將繼續為柴油使用者提供價格優惠。報道稱，柴油稅減免幅度將維持在每升17歐分（包括增值稅）。目前汽油仍不在該減免措施範圍內。
+
+---
+
+### 2026-08-05 02:42:11  #市場
+
+巴西雷亞爾兌美元在即期交易中下跌1%。
+
+---
+
+### 2026-08-05 02:42:07  #MKT News #DXY #Impact bullish
+
+Brazilian real slid 1% against the dollar in spot trading.
+
+---
+
+### 2026-08-05 02:40:30  #其他
+
+土耳其部長：土耳其天然氣儲備已蓄滿，儲量約 65 億立方米。
+
+---
+
+### 2026-08-05 02:35:37  #MKT News #Star Stocks #NVDA.O #Impact bullish
+
+NVIDIA (NVDA.O) rose as much as 3%.
+
+---
+
+### 2026-08-05 02:35:34  #MKT News #WTI #Impact bearish #Brent
+
+Fars News Agency cited a source close to Iran's negotiating team saying the situation in the strait could revert to its state a month ago only if the United States stops aggression and criminal acts against Iran and its interests and meets all necessary conditions and established demands.
+
+---
+
+### 2026-08-05 02:35:00  #MKT News #WTI #Impact bullish #Brent
+
+Iranian Fars news agency cites a source close to the negotiating team saying that even if talks yield a bilateral Iran-Oman agreement, that deal alone would not provide all the conditions required to secure the Strait of Hormuz.
+
+---
+
+### 2026-08-05 02:33:21  #宏觀 #國際
+
+市場訊息：巴西政府預計美國將出臺新制裁。
+
+---
+
+### 2026-08-05 02:32:27  #市場 #國際
+
+WTI 9月原油期貨收報75.77美元/桶。中東Abu Dhabi Murban原油期貨跌4.73%，報77.22美元/桶。NYMEX 9月天然氣期貨收報2.6820美元/百萬英熱單位。NYMEX 9月汽油期貨收報2.8522美元/加侖，NYMEX 9月取暖油期貨收報3.7705美元/加侖。
+
+---
+
+### 2026-08-05 02:31:59  #MKT News #Market Themes #AI Revolution
+
+【Axios: White House will not publicly release advanced AI model evaluation framework details】Axios reported three people familiar with the discussions said the White House does not plan to publicly release the framework it has developed to evaluate advanced AI models; details will be provided only to firms participating in the review process. Firms not included in the process, policymakers, researchers and U.S. allies will not be told how the government plans to implement one of its key AI policies. The White House held a staff-level meeting with industry on Tuesday to discuss the finished framework; companies not invited still do not know its contents. It remains unclear which "trusted partners" would get early access to advanced models, including whether foreign governments would qualify. Sources said the meeting discussed open-source models and that NVIDIA staff participated.
+
+---
+
+### 2026-08-05 02:31:58  #MKT News #Commodities #Energy #Precious Metals #XAUUSD #Impact bullish #WTI
+
+【Night session main contracts close】At the 02:30 night-session close, Shanghai crude (SC) main contract fell 4.93% to 511 yuan/barrel; Shanghai silver main contract rose 3.45% to 14,593 yuan/kg; Shanghai gold main contract rose 0.87% to 891 yuan/gram.
+
+---
+
+### 2026-08-05 02:30:30  #MKT News #WTI #Impact bearish #Brent
+
+Al Jazeera cites US officials saying the Strait of Hormuz is an international waterway and no party can control its shipping lanes or right of transit.
+
+---
+
+### 2026-08-05 02:30:30  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY #Impact bearish
+
+Shanghai Gold Exchange Gold T+D closed up 0.64% at 887.48 yuan/gram in the Aug. 4 evening session (Tue); Shanghai Gold Exchange Silver T+D closed up 2.56% at 14528.0 yuan/kg.
+
+---
+
+### 2026-08-05 02:30:24  #其他
+
+據報道，白宮不打算公開發布其用於評估先進人工智慧模型的新框架。
+
+---
+
+### 2026-08-05 02:30:15  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Rises by 1.37% — Top crypto gainers are Bitcoin (1.37%) and Ether (1.03%).
+
+---
+
+### 2026-08-05 02:30:03  #公司
+
+南加州愛迪生電力公司宣告：該公司認為其裝置很可能與伊頓火災的起火存在關聯。
+
+---
+
+### 2026-08-05 02:30:02  #市場
+
+上期所原油期貨夜盤收跌4.93%，報510.50元人民幣/桶。滬金夜盤收漲0.87%，滬銀收漲3.45%。
+
+---
+
+### 2026-08-05 02:28:32  #MKT News #Market Themes #AI Revolution
+
+According to Axios, the White House does not intend to publicly release its new framework for assessing advanced AI models.
+
+---
+
+### 2026-08-05 02:26:11  #MKT News #WTI #Impact bearish #Brent
+
+【White House to extend Jones Act waiver to ease gasoline prices - Refinitiv】Refinitiv reports the White House is expected in coming days to extend a Jones Act waiver as one of the few available tools to help lower gasoline prices. The waiver, which allows non-U.S. vessels to move fuel between U.S. ports by temporarily suspending the law’s U.S.-built, -owned and -crewed requirement, is scheduled to expire on Aug. 16; an extension would be the longest pause in Jones Act enforcement. U.S. government data show the waiver was used nearly 200 times in the past 4½ months through end-July. Officials continue talks with shipping industry representatives and lawmakers on narrowing the waiver’s scope while preserving flexibility to transport critical fuel supplies. Opponents seek geographic limits and stricter per-voyage review; key Republican lawmakers are urging tighter restrictions, warning broad waivers could weaken the U.S. domestic fleet and undermine the law’s national security purpose.
+
+---
+
+### 2026-08-05 02:25:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Rubber Slumps by 5.97% — Top commodity losers are Rubber (-5.97%), Wheat (-2.06%) and Lumber (-1.80%). Gains are led by Cocoa (2.53%), Palm Oil (1.45%) and Coffee (1.11%).
+
+---
+
+### 2026-08-05 02:23:49  #國際
+
+據美國疾控中心（CDC），環孢子蟲病（cyclospora）疫情擴散至15個州。
+
+---
+
+### 2026-08-05 02:23:13  #MKT News
+
+Iran's Fars News Agency said it remains concerned that obstruction by the US or certain regional parties could prolong or disrupt the negotiation process.
+
+---
+
+### 2026-08-05 02:23:07  #MKT News
+
+Iran's Fars news agency reported that some US officials have recently sent mixed signals, directly or via regional partners, disrupting the negotiation process.
+
+---
+
+### 2026-08-05 02:22:53  #其他
+
+土耳其能源部長：土耳其正在洽談建設通往伊拉克發電廠的天然氣管道。
+
+---
+
+### 2026-08-05 02:20:24  #國際
+
+伊朗法爾斯通訊社：近日，部分美國官員直接或透過部分地區夥伴釋放相互矛盾的訊號，對談判程序造成干擾。
+
+---
+
+### 2026-08-05 02:20:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Rallies by 8.01% — Top commodity gainers are Platinum (8.01%), Silver (3.51%), Copper (1.61%) and Gold (0.79%).
+
+---
+
+### 2026-08-05 02:20:09  #MKT News #Important
+
+Refinitiv: sources say the WHITE HOUSE expects to extend the Jones Act waiver period in the coming days.
+
+---
+
+### 2026-08-05 02:19:10  #其他
+
+訊息人士：白宮預計未來數日將延長《瓊斯法案》豁免期限。
+
+---
+
+### 2026-08-05 02:18:32  #國際
+
+伊朗法爾斯通訊社：談判團隊訊息人士稱，伊朗僅與阿曼就霍爾木茲海峽未來相關安排開展談判，並未和美國進行任何談判。
+
+---
+
+### 2026-08-05 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Crude Oil WTI Plunges by 5.68% — Top commodity losers are Crude Oil WTI (-5.68%), Brent Crude Oil (-5.42%) and Natural Gas UK (-5.30%). Gains are led by Methanol (0.55%).
+
+---
+
+### 2026-08-05 02:12:31  #MKT News
+
+S&P Dow Jones Indices launched a new index series including the S&P U.S. Investment-Grade CLO (collateralized loan obligation) Index, providing a benchmark framework for market participants in one of the fastest-growing segments of the credit market.
+
+---
+
+### 2026-08-05 02:09:40  #觀點
+
+高盛高階石油交易員Madhav Janakiraman將離職。
+
+---
+
+### 2026-08-05 02:09:19  #MKT News
+
+Qatar's Emir said his call with Trump addressed recent regional developments, notably efforts to ease US-Iran tensions and bridge positions to bolster prospects for a sustainable diplomatic resolution of the crisis.
+
+---
+
+### 2026-08-05 02:08:11  #國際
+
+卡達埃米爾：接到美國總統特朗普打來的電話。 通話談及地區最新局勢，重點涉及緩和美國與伊朗之間緊張關係、彌合雙方立場分歧的相關努力，以此提升危機透過外交途徑實現可持續解決的前景。美國總統對卡達在埃米爾領導下為支援外交努力、促成各方對話所發揮的作用表示讚賞，稱卡達的工作有助於促進該地區的安全與穩定。埃米爾則強調，應繼續開展對話，採取外交手段解決分歧。他同時指出，各方均需恪守美國與伊朗諒解備忘錄框架下達成的各項約定，並支援旨在緩和緊張局勢的國際倡議，進而鞏固地區與國際層面的和平與安全。雙方還就多項共同關切議題交換意見，強調要繼續就地區及國際事態發展保持協調磋商，以維護兩個友好國家的利益。
+
+---
+
+### 2026-08-05 02:07:40  #MKT News
+
+Qatar's emir said he received a call from U.S. President Trump.
+
+---
+
+### 2026-08-05 02:07:09  #市場 #國際
+
+【Chipotle撤下與美國明尼蘇達州沙門氏菌病例相關的墨西哥胡椒】在得知墨西哥胡椒可能與美國明尼蘇達州的一起沙門氏菌疫情有關後，Chipotle Mexican Grill Inc.（墨式烤肉）從明尼蘇達州的多間門店撤下了該產品。在協助明尼蘇達州衛生部門調查此次疫情的過程中，該連鎖餐廳從所有接收過該批次的門店中撤下了疑似受汙染的墨西哥胡椒。此次沙門氏菌疫情的完整範圍和汙染源頭仍不明確。其他州也參與了調查，且有證據表明，在其他墨西哥風味餐廳就餐的顧客同樣出現了患病症狀。受此訊息影響，Chipotle的股價在紐約週二盤中一度下跌8.5%，創2025年10月30日以來的最大盤中跌幅。
+
+---
+
+### 2026-08-05 01:59:33  #其他
+
+明尼蘇達州衛生部門：正在調查與墨西哥風味快餐門店相關的賈維亞沙門氏菌疫情，懷疑傳染源為墨西哥辣椒（哈拉佩諾辣椒）。已確認本起疫情在該州造成 110 例賈維亞沙門氏菌感染病例。 即便部分感染病例發病於數週之前，預計賈維亞沙門氏菌的確診數量仍會繼續上升。
+
+---
+
+### 2026-08-05 01:59:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+【OPEC output rises in July as three Gulf producers supply almost all the gain】Bloomberg survey: OPEC crude production rose 1.16 mln b/d in July to an average 19.44 mln b/d, with Kuwait, Saudi Arabia and Iraq accounting for almost all of the increase. Iraq led the gain, up 460k b/d to 2.30 mln b/d; tanker-tracking data show Iraqi loadings rose 37% in July. Kuwait added 360k b/d to 1.57 mln b/d, with officials saying output is at its highest average since the conflict began. Saudi production increased 390k b/d to 7.40 mln b/d but remains several million barrels below pre-conflict levels, and Saudi export flows via Red Sea alternative routes have fallen amid Houthi threats to tankers.
+
+---
+
+### 2026-08-05 01:54:23  #MKT News #SPCX.O #Impact mixed
+
+Zero Hedge posted that 95% of lendable SpaceX shares have been borrowed, implying short positions equal to 34% of the float. Musk replied: "I tried to warn them, but they just doubled down." SpaceX (SPCX.O) will report Q2 after the U.S. market close today.
+
+---
+
+### 2026-08-05 01:48:56  #MKT News #Important #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+Dow and S&P 500 gains widened to 2%; Nasdaq rose 2.7%. The Philadelphia Semiconductor Index surged 7% as Arm jumped 17.4%, Intel climbed 10.9%, AMD gained 9.3%, Broadcom and Qualcomm rose over 7%, and NVIDIA added 2.5%.
+
+---
+
+### 2026-08-05 01:48:53  #市場 #焦點
+
+【美股三大指數均漲超2%】道指漲2.04%，現報54261.602點；納指漲2.74%，現報26625.090點；標普500指數漲2.00%，現報7752.590點。
+
+---
+
+### 2026-08-05 01:47:36  #市場 #焦點
+
+道指漲2.01%，現報54245.199點；納指漲2.72%，現報26618.311點；標普500指數漲1.97%，現報7750.110點。
+
+---
+
+### 2026-08-05 01:46:42  #MKT News
+
+【House Democrats Press Hegseth on Pentagon Casualty Reporting in Iran War】Two senior House Democrats, Reps. Robert Garcia (CA) and Suhas Subramanyam (VA), wrote to Defense Secretary Hegseth on Tuesday criticizing the Pentagon’s methodology for reporting US casualties in the Iran war and saying they are investigating the Defense Department’s public casualty reporting. The lawmakers cited slow publication of injured personnel figures, reliance on the Defense Casualty Analysis System (DCAS) as the sole source for updates, and incidents where death and injury entries were temporarily removed from DCAS. As of Tuesday afternoon DCAS records show 18 US service members killed and 687 wounded since the conflict began on Feb. 28.
+
+---
+
+### 2026-08-05 01:45:52  #國際
+
+巴斯勒（Basler AG）：索尼日本影象感測器產線臨時停產，供應受限狀況預計持續至 8 月中旬。
+
+---
+
+### 2026-08-05 01:44:37  #其他
+
+市場訊息：傑富瑞在陷入困境的基金中發現新的假髮票證據。
+
+---
+
+### 2026-08-05 01:44:03  #Trading Economics #Markets #commodity #Importance 0
+
+Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Orange Juice lost 4.73%, and in the last 12 months, it decreased 32.3%.
 
 ---
 
@@ -19716,335 +20046,5 @@ CAC 40 指數上漲 1.6%，創下自 2 月 26 日以來的首個盤中紀錄。
 ### 2026-08-03 22:31:09  #MKT News #Important #Market Themes #AI Revolution
 
 【White House to host AI firms Tuesday to review draft oversight framework】The Information, citing five people, reports the White House has invited OpenAI, Google and Anthropic staff to a Tuesday meeting to review a completed AI oversight framework. The draft would establish a voluntary programme requiring AI labs to submit models to government review before release to partners or the public. The meeting comes days after an Aug. 1 completion deadline set by an early‑June executive order. It is being hosted by the Office of the National Cyber Director; the invitation reportedly says the agenda will cover next steps and an unspecified related activity. Sources said companies are expected to send employee‑level representatives rather than senior executives and that the session is not a public rollout.
-
----
-
-### 2026-08-03 22:30:54  #國際
-
-【澤連斯基調整烏國家安全高層人事】烏克蘭總統網站3日釋出的資訊顯示，烏總統澤連斯基當天簽署多份總統令，對國家安全系統高層進行人事調整：任命烏內務部前部長克利緬科為烏國家安全與國防委員會秘書，國家安全與國防委員會秘書烏梅羅夫改任對外情報局局長。 該網站釋出的資訊還顯示，當天早些時候，澤連斯基簽署3份總統令，解除奧列格·盧霍夫斯基的對外情報局代理局長職務和烏梅羅夫的國家安全與國防委員會秘書職務，並任命烏梅羅夫為對外情報局局長。(新華社)
-
----
-
-### 2026-08-03 22:30:51  #國際
-
-俄羅斯莫斯科交易所：7月總交易額達210.5萬億盧布。
-
----
-
-### 2026-08-03 22:30:38  #公司
-
-【招商證券：海外廠商雲收入保持高增，AI應用有望加速發展】招商證券釋出研報稱。透過SK海力士和微軟財報，我們可以得出以下結論：AI產業當前仍然面臨真實的供給約束，尚未出現明顯全面過剩。大型科技企業仍在增加AI基礎設施投資，客戶追加供貨需求持續增長，市場對於AI算力過剩的擔憂暫時缺乏財報層面的充分證據。從微軟算力利用率和SK海力士的訂單情況看，當前產業矛盾仍然主要表現為高效能算力、先進儲存和資料中心配套供給不足，而非裝置大量閒置，因此短期投資機會仍可圍繞能夠緩解算力瓶頸的環節展開。
-
----
-
-### 2026-08-03 22:30:31  #MKT News #Important
-
-TASNIM NEWS: A Swiss foreign ministry spokesperson said Switzerland remains in contact with all relevant countries and, if both parties are willing, is prepared to provide necessary assistance to host renewed US-Iran talks.
-
----
-
-### 2026-08-03 22:27:51  #行業 #公司 #焦點 #國際
-
-【白宮將於週二召集人工智慧企業 審議AI監管框架】據五位知情人士透露，特朗普政府已邀請OpenAI、谷歌、Anthropic等大型科技企業工作人員於週二前往白宮，審議人工智慧監管框架最終版本。該框架將設立一套自願性機制，要求人工智慧實驗室在向合作方及公眾推出模型前，向政府提交相關模型。今年6月初的行政命令要求在8月1日前完成框架制定，本次會議定於該期限結束數日之後召開。另一名訊息人士稱，會議由行政分支下屬的國家網路總監辦公室主辦，邀請函寫明，會議將探討該框架後續推進方案，同時商議一項尚未披露的相關活動。 兩名知情人士表示，參會代表為企業中層工作人員，並非高管，本次會議不會對外正式釋出這套全新框架。目前尚不清楚白宮是否會在會議上收集企業意見，或是對外公佈框架終稿。 一名白宮官員週一表示，這套自願性框架已按期完成，政府正與行業各方磋商後續安排，但並未說明該框架是否已經正式生效。
-
----
-
-### 2026-08-03 22:26:56  #MKT News #Important #Market Themes #AI Revolution
-
-According to The Information, the White House will hold a meeting on AI costs on Tuesday to review relevant frameworks.
-
----
-
-### 2026-08-03 22:26:46  #公司 #國際
-
-特朗普政府週二邀請包括OpenAI、谷歌和Anthropic在內的主要科技公司員工前往白宮。
-
----
-
-### 2026-08-03 22:26:09  #市場
-
-納斯達克100指數上漲1%；羅素2000指數上漲1.5%。
-
----
-
-### 2026-08-03 22:25:55  #其他
-
-市場訊息：白宮將於週二召集人工智慧企業，審議相關監管框架。
-
----
-
-### 2026-08-03 22:25:40  #其他
-
-有贊科技預計，截至2026年6月30日止六個月，淨利潤將為6500萬元人民幣至7200萬元人民幣，截至2026年6月30日的上半年營收為7.65億元至7.75億元人民幣，同比增長7.2%至8.6%。
-
----
-
-### 2026-08-03 22:24:12  #國際
-
-【俄外交部：北約與歐盟已淪為國際恐怖主義活動幫兇】俄羅斯外交部發言人扎哈羅娃3日就烏克蘭對俄南部城市阿爾希波-奧西波夫卡發動襲擊一事發表評論，指責北約和歐盟已成為國際恐怖主義活動的組成部分。扎哈羅娃在接受採訪時指出，當前在烏克蘭境內活動著一個“佔領了國家機器的恐怖主義匪幫”。她表示，烏克蘭基輔政權對俄羅斯民用設施發動的跨境襲擊，已遠遠超出常規戰爭的範疇，具有明顯的恐怖主義特徵。扎哈羅娃強調，西方國家不僅向烏克蘭提供遠端打擊武器和軍用無人機，還透過情報共享、資金支援和政治背書，全程參與了對俄襲擊的策劃與執行。她認為，西方勢力並非僅僅在背後觀望，而是實實在在地參與了對俄羅斯的破壞行動，北約和歐盟在這一過程中扮演了縱容甚至資助恐怖主義的角色。
-
----
-
-### 2026-08-03 22:24:09  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-Euro Stoxx 50 rose 1.2% to hit its highest intraday level since July 6.
-
----
-
-### 2026-08-03 22:22:39  #MKT News
-
-Republican Senators Cornyn and Tillis have withdrawn holds on Trump’s attorney general nomination and will back Todd Blanche to serve as attorney general.
-
----
-
-### 2026-08-03 22:22:17  #其他
-
-市場訊息： 蘋果發起法律訴訟，挑戰英國最新 “後門” 法令。
-
----
-
-### 2026-08-03 22:21:46  #MKT News #Macro & Rates #Treasury Yields
-
-U.S. Treasury website: a U.S. license authorizes specific transactions related to PDVSA's 2020 8.5% bonds from Sept. 17 onward.
-
----
-
-### 2026-08-03 22:20:11  #市場 #國際
-
-歐洲斯托克 50 指數上漲 1.2%，創下 7 月 6 日以來盤中新高。
-
----
-
-### 2026-08-03 22:20:09  #MKT News #Important #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Dow #Nasdaq100
-
-S&P 500 extended gains to 1%, marking its largest advance since July 16. Dow Jones Industrial Average up 1.3%, Nasdaq Composite up 1.38%.
-
----
-
-### 2026-08-03 22:19:40  #國際
-
-共和黨參議員放棄阻攔特朗普提名的司法部長人選。
-
----
-
-### 2026-08-03 22:19:39  #經濟數據 #美國
-
-【美國製造業活動創2022年以來最快擴張 生產和就業同步走強】由於需求保持強勁，生產激增以及企業增加員工，美國7月製造業活動以逾四年來最快速度擴張。週一公佈的資料顯示，美國供應管理協會的製造業指數升至55.6，為2022年5月以來最高水平。該資料高於50表明增長，該行業已連續七個月保持擴張。
-
----
-
-### 2026-08-03 22:19:30  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N) hit a three-week high, rising 5.3% after BNP Paribas upgraded its rating.
-
----
-
-### 2026-08-03 22:19:24  #MKT News #Important #Star Stocks #Meta Platforms #Microsoft #Alphabet #Market Themes #Magnificent 7 #META.O #Impact bullish #MSFT.O #GOOGL.O
-
-U.S. tech giants rallied: Meta Platforms (META.O) rose more than 6%, Microsoft (MSFT.O) traded up nearly 5%, Alphabet Class A (GOOGL.O) gained 3.7% and Oracle (ORCL.N) added 4.6%.
-
----
-
-### 2026-08-03 22:19:23  #市場
-
-波音股價觸及三週多來新高，最新上漲5.3%；法國巴黎銀行上調該股評級。
-
----
-
-### 2026-08-03 22:19:03  #其他
-
-科寧、蒂利斯將投票推進布蘭奇司法部長提名議程。
-
----
-
-### 2026-08-03 22:18:54  #宏觀 #公司 #國際
-
-美國財政部網站：美國牌照授權自9月17日起開展與委內瑞拉國家石油公司2020年到期8.5%債券相關的特定交易。
-
----
-
-### 2026-08-03 22:18:38  #國際
-
-【伊朗公佈遇襲船隻畫面 指其“錯信美國”】伊朗伊斯蘭革命衛隊7月31日曾發表宣告稱，擊中兩艘試圖取道“未申報”航線透過霍爾木茲海峽的油輪，8月1日，伊朗媒體公佈了油輪遇襲畫面，並指認遭襲船隻因“錯誤信任美國”而忽視伊朗警告。（央視）
-
----
-
-### 2026-08-03 22:17:41  #宏觀 #公司 #國際
-
-美國財政部允許對委內瑞拉國家石油公司（PDVSA）2020年發行的8.5%債券採取一些行動。
-
----
-
-### 2026-08-03 22:17:28  #市場
-
-標普500指數上漲1%，創7月16日以來最高水平。
-
----
-
-### 2026-08-03 22:17:02  #國際
-
-美國向委內瑞拉頒發5年期通用許可證。
-
----
-
-### 2026-08-03 22:16:19  #其他 #焦點
-
-英偉達漲超2%。
-
----
-
-### 2026-08-03 22:16:02  #市場
-
-ALPHABET上漲3.7%，甲骨文上漲4.6%。
-
----
-
-### 2026-08-03 22:15:17  #公司
-
-【傳智教育：近日釋出“AI具身智慧機器人開發”新學科 首期班報名已完成】傳智教育8月3日接受機構調研時表示，公司近日正式釋出“AI具身智慧機器人開發”新學科，首期班報名已完成，將於今年10月正式開班。在培養模式上，該課程採用“理論賦能、模擬進階、真機實操”閉環教學模式，教學環節同步覆蓋工業機械臂、四足巡檢機器人、人形服務機器人三類主流裝置，並對接智元、眾擎、睿爾曼等頭部廠商的本體二次開發方案。同時，課程配套高達70%的真實落地專案，精準適配全賽道機器人崗位。
-
----
-
-### 2026-08-03 22:14:53  #公司 #市場
-
-META上漲6.1%，微軟跳升4.7%，亞馬遜攀升4.6%。
-
----
-
-### 2026-08-03 22:14:38  #國際
-
-【俄媒稱4名扎波羅熱核電站工作人員被地雷炸傷】俄羅斯媒體3日報道，4名扎波羅熱核電站的工作人員被地雷炸傷，其中2人傷勢較重。今日俄羅斯通訊社援引扎波羅熱核電站新聞處訊息報道說，烏克蘭武裝部隊3日凌晨使用無人機在通往核電站所在的埃涅爾戈達爾市的公路上、以及該市工業區所在區域投放地雷，造成4名核電站工作人員在上班途中被地雷炸傷。（新華社）
-
----
-
-### 2026-08-03 22:13:38  #其他
-
-馬士基海事資料表明，8月2日透過霍爾木茲海峽和曼德海峽的合併過境次數為39次。
-
----
-
-### 2026-08-03 22:13:27  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
-
-【US manufacturing expansion at fastest pace since 2022】In July, ISM's manufacturing PMI rose to 55.6, the highest since May 2022 and the seventh consecutive month above the 50 expansion threshold. The production index climbed to 58.5, its strongest level since late 2021, while the employment indicator showed manufacturers added workers for the first time since September 2023. New orders recovered. All surveyed sectors expanded in July except chemicals; printing, apparel and electrical equipment were among the gainers. Momentum reflects robust consumer demand, solid business investment and defense-related government spending.
-
----
-
-### 2026-08-03 22:12:37  #MKT News #RWE.DE #Impact bullish
-
-RWE expects the Crooked Creek solar project to begin commercial operations in 2028.
-
----
-
-### 2026-08-03 22:12:26  #市場 #焦點
-
-【美股三大指數均漲超1%】道指漲1.30%，現報53165.180點；納指漲1.35%，現報25716.236點；標普500指數漲1.00%，現報7564.960點。
-
----
-
-### 2026-08-03 22:12:13  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
-
-RWE and Google (GOOG.O) signed a five-year power purchase agreement for all output from the 155 MW Crooked Creek solar project in McCurtain County, Oklahoma. RWE plans to begin on-site construction later this year.
-
----
-
-### 2026-08-03 22:12:11  #市場 #國際
-
-美國股市延續漲勢，標普500指數<.SPX>上漲1.00%。
-
----
-
-### 2026-08-03 22:11:15  #公司
-
-明晟公司完成收購 First Street。
-
----
-
-### 2026-08-03 22:10:59  #其他
-
-英國氣象局：英格蘭和威爾士經歷了有記錄（1836年）以來最乾旱的7月。
-
----
-
-### 2026-08-03 22:10:52  #MKT News #Brent #Impact bullish #WTI
-
-India raised diesel export duty to 24 rupees per litre.
-
----
-
-### 2026-08-03 22:10:35  #Trading Economics #Markets #Italy #stocks #Importance 1
-
-UniCredit Stock Price Hits Near 17-year High — UniCredit shares increased to 83.89 EUR, the highest since October 2009. Over the past 4 weeks, UniCredit gained 2.51%, and in the last 12 months, it increased 30.07%.
-
----
-
-### 2026-08-03 22:10:13  #Trading Economics #Economy #United States #Construction Spending #Importance 1
-
-US Construction Spending Edges Down in June — Construction spending in the US edged down 0.1% month-over-month to a seasonally adjusted annual rate of $2,166.5 billion in June 2026, following a downwardly revised flat reading in May and missing market expectations of a 0.2% increase. Residential construction spending fell 0.3%, while nonresidential spending edged up 0.1%. Within the nonresidential sector, the largest declines were recorded in public safety (-1.8%), commercial (-1.2%), manufacturing (-1.2%) and sewage and waste disposal (-1.1%). These were partly offset by gains in conservation and development (3.6%) and office construction (2.7%). In the first half of 2026, total construction spending fell 3.5% from the same period a year earlier to $1.047 trillion.
-
----
-
-### 2026-08-03 22:10:07  #國際
-
-印度上調汽油出口稅率至每升3.5盧比。
-
----
-
-### 2026-08-03 22:10:00  #國際
-
-美國6月資料中心建設環比增長7%，同比增長45.8%。
-
----
-
-### 2026-08-03 22:09:23  #其他
-
-HF辛克萊旗下潤滑油與特種產品部門透過與SK Enmove以及雪佛龍達成協議，搭建起戰略性基礎油供應網路。
-
----
-
-### 2026-08-03 22:09:14  #其他
-
-胡塞武裝發言人表示：“儘管聯合國及其特使多次呼籲，國際社會也要求沙特解除對葉門港口與機場的封鎖，但沙特政權持續實施長達 12 年的封鎖，加劇葉門民眾的苦難。”
-
----
-
-### 2026-08-03 22:08:57  #MKT News
-
-RWE signed a power purchase agreement with Google (GOOG.O) for a solar project in Oklahoma.
-
----
-
-### 2026-08-03 22:08:42  #國際
-
-俄羅斯相關報道：克拉斯諾達爾邊疆區行動指揮部訊息，格連吉克附近阿爾希波 - 奧西波夫卡遭無人機襲擊遇難人數已升至 7 人。
-
----
-
-### 2026-08-03 22:06:40  #公司 #國際
-
-【澳大利亞新聞付費法案擬調整：稅率提高至2.5%，基數改為“數字廣告收入”】澳大利亞擬修法鼓勵科技巨頭為新聞內容付費。當地時間8月3日，據外媒報道，澳大利亞政府宣佈，即將提交審議的《新聞談判激勵法案》（News Media Bargaining Code）最終定稿。根據該法案，如果大型科技企業未與澳大利亞的媒體公司簽署內容使用授權協議，就需要按照在澳數字廣告收入的2.5%支付補貼。該稅適用於在澳大利亞擁有重要社交媒體或搜尋服務且本地收入超過2.5億澳元的公司，而AI（人工智慧）公司依然被排除在法案之外。（澎湃）
-
----
-
-### 2026-08-03 22:06:37  #MKT News #Market Themes #Magnificent 7 #Star Stocks #Amazon #AMZN.O #Impact bullish #Nasdaq100
-
-【Amazon becomes fifth company to top $3 trillion market value】On Monday morning US trade, Amazon (AMZN.O) shares rose as much as 5.3%, extending last week’s rally after Q2 results showed accelerating cloud revenue growth. The move pushed Amazon’s market value above $3 trillion, joining NVIDIA, Alphabet, Microsoft and Apple as the fifth company to reach that threshold. Last week the stock jumped more than 15%—its biggest single-day gain in over 14 years—after AWS reported its strongest revenue growth since 2021, adding roughly $400 billion to market value; the shares had fallen about 18% from the May 6 record high to a three-month low before the rebound, making Amazon the best-performing member of the Magnificent Seven year-to-date.
-
----
-
-### 2026-08-03 22:06:12  #MKT News #Market Regions #Emerging Markets
-
-【South Korea margin hike curbs leveraged ETF trading; single-stock leveraged turnover down ~90%】Within two trading days of a regulator-imposed margin increase, trading in single-stock leveraged and inverse ETFs on KOSPI has collapsed. Korea Exchange said on the 3rd that turnover in 16 KOSPI-listed single-stock leveraged/inverse ETFs tied to Samsung Electronics and SK Hynix was 1.2388 trillion won, down 58.6% from 2.9907 trillion won on the implementation day and about one-tenth of the 12.4485 trillion won traded on the last session before the change. Regulators raised the minimum cash margin for single-stock leveraged ETF investors from 10 million won to 30 million won. Retail trading in these products fell to 250.7 billion won, under a quarter of 929.9 billion won on the implementation day.
-
----
-
-### 2026-08-03 22:06:07  #Trading Economics #Economy #United States #Business Confidence #Importance 3
-
-US Manufacturing Accelerates to Fastest Pace Since 2022 — The ISM Manufacturing PMI for the US rose to 55.6 in July 2026 from 53.3 in June, beating market expectations of 54.0 and signaling the strongest expansion in factory activity since May 2022. The improvement was driven by a sharp acceleration in output (58.5 vs. 52.2) and solid growth in new orders (56.7 vs. 56.0). Employment also returned to expansion for the first time since January 2025, with the employment index rising to 52.8 from 49.7, its highest level since August 2022, pointing to strengthening labor demand across the manufacturing sector.
-
----
-
-### 2026-08-03 22:04:08  #國際
-
-【美國製造業擴張速度創2022年以來最快】美國7月份製造業活動以四年多來的最快速度擴張，這主要得益於強勁的需求、激增的產量以及企業增加僱員的舉措。美國供應管理協會（ISM）7月份製造業指數升至55.6，創2022年5月以來最高水平、已連續七個月保持在榮枯線上方。生產指數升至58.5，為2021年底以來的最高水平；就業指數也顯示，自2023年9月以來，製造商首次增加了員工人數。作為需求風向標的新訂單增長同樣有所回升。
 
 ---
