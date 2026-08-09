@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-09 17:31:18",
+  "updated": "2026-08-09 17:35:33",
   "count": 15972,
   "items": [
+    {
+      "id": "mkt:019fe5de-a355-7aab-8fc9-08389446d5ea",
+      "time": "2026-08-09 17:33:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【Chief Executive John Lee targets publication of Hong Kong's first five-year plan in Q3】Chief Executive John Lee said the Hong Kong government aims to publish the city’s first five-year plan in Q3 this year. Lee reiterated a policy focus on expanding the property ladder and said the Northern Metropolis development will provide more space and improve living conditions. The public housing waiting list has fallen from a peak of about 150,000 to roughly 100,000—a one-third decline—the government attributes this to large-scale construction of public rental housing and Home Ownership Scheme (HOS) units."
+    },
     {
       "id": "5032471",
       "time": "2026-08-09 17:29:08",
@@ -145493,14 +145505,6 @@
         "Important"
       ],
       "text": "【Iranian media say reports Iran agreed to reopen Strait of Hormuz are false】Fars News said some \"media linked to adversaries\" had reported Iran agreed to a plan to reopen the Strait of Hormuz. Sources denied the report and said Iran’s policy toward the strategic waterway has not changed."
-    },
-    {
-      "id": "5020835",
-      "time": "2026-08-02 17:33:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【降雨持續 國鐵成都局今天臨時停運列車52趟】根據氣象部門預報，8月2日至4日，川渝黔多地迎來強降雨，同時黑龍江今明兩天也有明顯降水。為保障行車安全，鐵路部門對多趟列車採取臨時停運措施。受本輪強降雨過程影響，國鐵成都局今天臨時停運列車52趟，涉及西成高鐵、新成昆鐵路、蘭渝鐵路、襄渝鐵路等線路，覆蓋重慶去往北京、廣州、烏魯木齊、貴陽，成都開往蘭州、上海、青島、福州等多個方向。（央視新聞）"
     }
   ]
 }
