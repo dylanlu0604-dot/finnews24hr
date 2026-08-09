@@ -1,7 +1,15 @@
 {
   "date": "2026-08-09",
-  "count": 189,
+  "count": 190,
   "items": [
+    {
+      "id": "mkt:019fe407-0da4-7aab-8fc7-234cfe866469",
+      "time": "2026-08-09 08:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Elon Musk says Starlink V3 will be an order-of-magnitude improvement over V2】Elon Musk said Starlink’s third-generation satellites (V3), planned to be launched by Starship, would deliver roughly an order-of-magnitude improvement in overall performance versus the current Falcon-launched second-generation (V2) fleet. He said SpaceX plans to deploy an order-of-magnitude larger V3 fleet and later iterations alongside remaining V2 and handset-direct satellites, raising total bandwidth to more than 100x that of V2. Musk forecast V2’s ARR this year at $20bn and said SpaceX’s communications revenue could exceed $200bn even if revenue per gigabit falls to one-tenth."
+    },
     {
       "id": "mkt:019fe403-3756-7aab-8fc7-1f84c67d1a54",
       "time": "2026-08-09 08:54:03",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 08:55:00",
+  "updated": "2026-08-09 08:59:03",
   "count": 15905,
   "items": [
+    {
+      "id": "mkt:019fe407-0da4-7aab-8fc7-234cfe866469",
+      "time": "2026-08-09 08:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Elon Musk says Starlink V3 will be an order-of-magnitude improvement over V2】Elon Musk said Starlink’s third-generation satellites (V3), planned to be launched by Starship, would deliver roughly an order-of-magnitude improvement in overall performance versus the current Falcon-launched second-generation (V2) fleet. He said SpaceX plans to deploy an order-of-magnitude larger V3 fleet and later iterations alongside remaining V2 and handset-direct satellites, raising total bandwidth to more than 100x that of V2. Musk forecast V2’s ARR this year at $20bn and said SpaceX’s communications revenue could exceed $200bn even if revenue per gigabit falls to one-tenth."
+    },
     {
       "id": "mkt:019fe403-3756-7aab-8fc7-1f84c67d1a54",
       "time": "2026-08-09 08:54:03",
@@ -144914,14 +144922,6 @@
         "其他"
       ],
       "text": "【今年上半年 北京“雙樞紐”機場進出口超4000億元】據北京海關統計，今年上半年，北京“雙樞紐”機場——首都國際機場和大興國際機場進出境航班6.3萬架次，進出口貨物4109.8億元，同比增長18.7%。生物醫藥、積體電路、精密裝置等進出口需求旺盛，高附加值產品成為拉動航空貨運增長的主要力量。（央視新聞）"
-    },
-    {
-      "id": "5020614",
-      "time": "2026-08-02 08:56:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：日本將加強與市場的雙向溝通。"
     }
   ]
 }
