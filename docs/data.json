@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-10 01:04:21",
-  "count": 15983,
+  "updated": "2026-08-10 01:08:17",
+  "count": 15981,
   "items": [
+    {
+      "id": "5032643",
+      "time": "2026-08-10 01:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：我們只是在和他們進行半談判。我們正靜觀伊朗，該國正面臨嚴重通脹，並且資金匱乏。"
+    },
+    {
+      "id": "5032642",
+      "time": "2026-08-10 01:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員稱特朗普已被說服，選擇現階段緩和局勢。"
+    },
     {
       "id": "5032641",
       "time": "2026-08-10 01:01:50",
@@ -145524,42 +145540,6 @@
         "國際"
       ],
       "text": "【伊朗外交部：伊阿談判旨在建立霍爾木茲海峽雙邊機制，與海峽通航狀態無關】伊朗外交部發言人巴加埃表示，伊朗與阿曼談判的目標是為霍爾木茲海峽敲定一套雙方認可的協作機制。巴加埃稱：“伊朗和阿曼就新航運通道達成的共識，和霍爾木茲海峽是否保持通航沒有關係。海峽之所以封鎖，是因為美國違背承諾、實施封鎖行動。”巴加埃還補充，伊朗與阿曼的談判屬於雙邊磋商，不牽涉其他任何國家。"
-    },
-    {
-      "id": "mkt:019fc371-ff8a-7aab-8f48-430576999831",
-      "time": "2026-08-03 01:07:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign ministry: Strait of Hormuz will not revert to pre-war status】Iran foreign ministry spokesman BAGHAEI said the Strait of Hormuz \"will never revert to pre-war status.\" He said talks with Oman are bilateral and concern mechanisms to protect each side's interests, not the opening or closing of the waterway. BAGHAEI blamed the strait's closure on \"US sabotage and an American maritime blockade,\" and said Iran will act according to national interests and will not be swayed by threats or media pressure."
-    },
-    {
-      "id": "5020998",
-      "time": "2026-08-03 01:07:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：將全力以赴實現持久和平、維護國家尊嚴。當下國內高層層面，團結凝聚帶來的積極成效已然凸顯。國家各核心力量同心協力，為伊朗民眾鑄就長久成果。"
-    },
-    {
-      "id": "mkt:019fc370-940d-7aab-8f48-3b5882fe472d",
-      "time": "2026-08-03 01:06:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Venezuela, Dominican Republic agree to gradually restore diplomatic ties】Venezuela and the Dominican Republic said in a joint communique on the 2nd they have agreed to gradually normalize diplomatic and consular relations."
-    },
-    {
-      "id": "5020997",
-      "time": "2026-08-03 01:05:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉與多明尼加決定逐步恢復外交關係】委內瑞拉和多明尼加政府2日發表聯合公報稱，雙方同意逐步實現外交和領事關係正常化。宣告說，第一階段將採取必要措施恢復領事服務，隨後按照雙方商定的時間表，推進外交關係正常化。這一決定旨在加強兩國制度性溝通渠道，維護兩國公民利益，並鞏固兩國曆史友好紐帶。雙方重申，將透過對話，在相互尊重和恪守國際法原則的基礎上推動這一程序。"
     }
   ]
 }
