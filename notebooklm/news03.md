@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-09 19:39:39_
-_本檔包含 3406 則快訊，約 602330 字_
+_更新時間：2026-08-09 19:59:27_
+_本檔包含 3408 則快訊，約 601963 字_
+
+---
+
+### 2026-08-06 09:45:15  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Fall on Tech Selloff — The benchmark KOSPI fell nearly 5% to around 6,285 on Thursday, reversing gains from the previous session, as a selloff in global technology stocks weighed heavily on semiconductor shares. SK Hynix and Samsung Electronics declined sharply by roughly 5% and 8%, respectively, after the Nasdaq retreated overnight amid profit-taking in major tech names. Losses were also recorded in SK Square (-10.2%), Hyundai Motor (-1.6%), HD Hyundai Heavy Industries (-1.2%), LS Electric (-3.8%), SK Inc (-9.1%), and LG Electronics (-2.5%). Limiting broader losses, South Korea reported a record current account surplus of $49.73 billion in June, driven by strong semiconductor exports that reinforced the country's export outlook. At the same time, reports of progress toward an interim transit arrangement between Iran and Oman eased concerns over disruptions to shipping through the Strait of Hormuz, supporting global risk sentiment.
+
+---
+
+### 2026-08-06 09:45:04  #市場
+
+【元件板塊再度拉昇，景旺電子漲停】元件板塊再度拉昇，景旺電子漲停，寶鼎科技、本川智慧、方正科技、中京電子、威爾高、泰晶科技跟漲。
+
+---
+
+### 2026-08-06 09:44:23  #市場 #焦點
+
+南向資金淨買入額達20億港元。
+
+---
+
+### 2026-08-06 09:44:08  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China shipbuilding-related A-shares rose after volatile trading; CSSC Hanguang gained nearly 13%, while Jiuzhiyang, Kunchuan Intelligent, China Power and CSSC Special Gas also advanced.
+
+---
+
+### 2026-08-06 09:43:49  #市場
+
+【消費電子板塊短線拉昇，卓翼科技漲停】消費電子板塊短線拉昇，卓翼科技漲停，碩貝德、達瑞電子、精研科技、傑美特、捷邦科技等紛紛走高。
+
+---
+
+### 2026-08-06 09:43:46  #市場
+
+【多支黃金股ETF漲幅居前】黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲近4%,訊息面上，倫敦金現突破4300美元，連續2個交易日大漲，此外，A股市場黃金ETF連續16個交易日申贖資金淨流入93億。
+
+---
+
+### 2026-08-06 09:43:16  #市場
+
+【AI應用端反覆走強 博彥科技2連板】AI應用端反覆走強，博彥科技2連板，泛微網路、天融信漲停，亞信安全、任子行漲超10%，普聯軟體、光雲科技、漢得資訊等漲幅靠前。
+
+---
+
+### 2026-08-06 09:42:48  #市場
+
+滬指翻紅，深成指、創業板指跌幅分別收窄至0.66%、1.36%。
+
+---
+
+### 2026-08-06 09:42:46  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #Impact bearish
+
+Shanghai Composite turned positive; Shenzhen Component and ChiNext declines narrowed to 0.66% and 1.36%, respectively.
+
+---
+
+### 2026-08-06 09:42:34  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量229億元。
+
+---
+
+### 2026-08-06 09:42:27  #MKT News #DXY #Impact bearish
+
+The South Korean won rose to 1,415.30 per US dollar, its highest level since mid-October 2025.
+
+---
+
+### 2026-08-06 09:42:17  #市場
+
+韓元兌美元<KRW=KFTC>升至1,415.30，創2025年10月中旬以來最高。
+
+---
+
+### 2026-08-06 09:41:13  #MKT News #USDJPY #Impact bullish #DXY
+
+Japan 20-year government bond yield fell 3.5 bps to 3.655%.
+
+---
+
+### 2026-08-06 09:40:48  #公司 #市場
+
+【數字貨幣概念表現活躍 飛天誠信20CM漲停】數字貨幣概念表現活躍，飛天誠信20CM漲停，恆寶科技漲停，楚天龍、翠微股份、四方精創、拉卡拉跟漲。
+
+---
+
+### 2026-08-06 09:40:23  #公司 #市場
+
+【泡泡瑪特盤初一度跌超3%】8月6日，港股泡泡瑪特盤初一度跌超3%。截至發稿，報155.5港元/股，跌3.66%，總市值2068億港元。訊息面上，8月5日，港交所披露一則權益變動資訊：段永平透過H&H International Investment持有的泡泡瑪特多頭倉位，於7月30日從7.65%降至5.55%，下降2.1個百分點。檔案顯示，此次多頭倉位下降的原因是：其交付了根據股本衍生工具須交付的股份或款項。對此，段永平本人在社交平臺回應稱，此次變動“就是putexpired，部分被call走了”。泡泡瑪特相關人士則向媒體表示，段永平此次持股比例下跌和他此前賣Put、賣Call相關價格設定強相關，主要由於價格區間設定比較窄，屬於短期交易行為，並非大眾理解層面的主動減持。
+
+---
+
+### 2026-08-06 09:40:16  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
+
+China A-share software development sector rallied intraday; Fanwei Network hit the daily price limit, while AsiaInfo Security, Topsec, Ren Zixing, Sifang Jingchuang and Yongxin Zhicheng also advanced.
+
+---
+
+### 2026-08-06 09:40:10  #國際
+
+智利財長：智利將於9月1日公佈資本市場改革方案。
 
 ---
 
@@ -20433,95 +20535,5 @@ Market sources: Brazil’s ambassador to Argentina will not return after Argenti
 ### 2026-08-05 07:45:54  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
 
 【Pentagon pitches "Reconciliation 4.0" to Senate Republicans, seeks large military funding and AI investment】Pentagon senior officials held a closed-door briefing Tuesday to push "Reconciliation 4.0" to Senate Republicans, urging a substantial increase in defense funding. They said needs go beyond replenishing weapons expended in the Iran and Ukraine conflicts and stressed urgent investment in artificial intelligence. Officials presented a global-threat analysis and candid, committee-level detail on US munitions stocks tied to the Iran conflict. Sources said Democrats were excluded from recent Iran briefings.
-
----
-
-### 2026-08-05 07:45:29  #其他
-
-【微芯科技與美光聯合展示高效能PCIe Gen 6儲存架構】當地時間8月4日，微芯科技（Microchip Technology）宣佈與美光科技合作，在2026年全球快閃記憶體峰會上展示了端到端的PCIe Gen 6儲存架構。該方案結合了微芯的Switchtec PCIe Gen 6交換晶片與美光的9650 NVMe固態硬碟（SSD），旨在為人工智慧、高效能運算和雲資料中心提供更高的吞吐量、更低的時延以及可擴充套件的連線能力。
-
----
-
-### 2026-08-05 07:45:29  #MKT News #Important
-
-Market sources: Brazil informed Argentina's ambassador that bilateral diplomatic relations have been downgraded to the chargé d'affaires level.
-
----
-
-### 2026-08-05 07:45:25  #公司
-
-【廣州出讓首宗現房銷售承諾制地塊】近日，廣州市規劃和自然資源局南沙區分局釋出一則國有建設用地使用權網上掛牌出讓公告，出讓2026NJY-3號地塊。該地塊包含三宗子地塊。值得注意的是，該地塊為廣州首個將“現房銷售承諾制”納入出讓條件的住宅專案。公告中明確，本專案實行現房銷售承諾制及延長土地出讓金分期繳納期限。
-
----
-
-### 2026-08-05 07:45:22  #央行 #美聯儲
-
-【中信建投：當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性】中信建投研報指出，7月FOMC會議維持聯邦基金利率目標區間不變，美聯儲延續“觀察—確認—調整”的政策節奏，未釋放明確降息訊號。6月PCE資料顯示，美國通脹繼續改善，能源價格回落推動整體價格壓力緩解，但核心通脹仍高於2%的政策目標，服務價格黏性和消費韌性限制政策快速轉向。當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性。
-
----
-
-### 2026-08-05 07:45:08  #其他
-
-訊息人士稱：巴西已告知阿根廷駐巴大使，雙邊外交關係已降級為代辦級。
-
----
-
-### 2026-08-05 07:45:00  #觀點
-
-【中信建投：家電與智慧硬體板塊正由“國記憶體量競爭”轉向“全球化擴張+科技新品類成長”】中信建投研報指出，家電與智慧硬體板塊正由“國記憶體量競爭”轉向“全球化擴張+科技新品類成長”，投資主線兼顧穩健價值與新興成長。傳統家電中，白電龍頭憑藉穩定格局、經營提效、海外擴張和高分紅，類紅利屬性強化；黑電依託大尺寸、Mini LED等結構升級與全球份額提升，盈利中樞有望上移；面板行業資本開支及折舊高峰逐步過去，進入利潤與現金流釋放期。成長方向重點關注清潔電器、智慧影像、消費級3D列印及AI NAS，低滲透率、技術迭代和海外需求擴容有望驅動行業增長，具備研發、供應鏈及全球渠道優勢的龍頭份額有望提升。
-
----
-
-### 2026-08-05 07:44:10  #觀點 #央行 #國際
-
-【中信建投：當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性】中信建投研報指出，7月FOMC會議維持聯邦基金利率目標區間不變，美聯儲延續“觀察—確認—調整”的政策節奏，未釋放明確降息訊號。6月PCE資料顯示，美國通脹繼續改善，能源價格回落推動整體價格壓力緩解，但核心通脹仍高於2%的政策目標，服務價格黏性和消費韌性限制政策快速轉向。當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性。短期內，維持限制性政策仍是基準情景，後續政策轉向仍需更多通脹和就業資料確認。
-
----
-
-### 2026-08-05 07:43:30  #觀點
-
-【中信建投：全球半導體裝置進入“量價齊升”通道，國產裝置出海程序加速】中信建投研報指出，全球半導體裝置景氣度持續上修，海外裝置、零部件已出現“量價齊升”情況，海外交期大幅延長，國產裝置、零部件經歷“十四五”期間的修煉，能力大幅提升，具備充足的出海潛力。另外一方面，除了外部制裁因素以外，全球缺貨使得國內下游客戶獲取海外裝置、零部件的難度進一步提升，我們看好國內市場的國產替代速度大幅加速。
-
----
-
-### 2026-08-05 07:42:20  #其他
-
-【今天宇樹科技IPO迎來關鍵節點】 今天是宇樹科技IPO的初步詢價日，8月10日將開放申購。
-
----
-
-### 2026-08-05 07:42:05  #MKT News #USDJPY #Impact bearish #DXY
-
-US Treasury Secretary Bessent said he has full confidence in BOJ Governor Ueda and that Ueda understands markets well.
-
----
-
-### 2026-08-05 07:41:42  #MKT News #USDJPY
-
-US Treasury Secretary Bessent said many Asian currencies are currently tracking the yen, notably the South Korean won.
-
----
-
-### 2026-08-05 07:41:40  #央行 #國際
-
-貝森特稱他對日本央行行長植田和男充滿信心，稱植田非常“深諳市場”。
-
----
-
-### 2026-08-05 07:41:22  #宏觀 #國際
-
-據日經新聞報道，美國財政部長貝森特表示，目前許多亞洲貨幣都在跟隨日元走勢，例如韓元等。
-
----
-
-### 2026-08-05 07:41:08  #市場
-
-日經指數期貨在新加坡交易所開盤上漲1740點，報65695點。
-
----
-
-### 2026-08-05 07:39:38  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
-
-Australia Manufacturing Contracts Further on Weak Demand — Australia’s Ai Group Industry Index for manufacturing fell deeper into contraction in July, sliding to -19.6 from June’s upwardly revised -13.9, partly unwinding the strongest improvement in eight months. The sector remained under pressure as subdued consumer demand, rising input costs, and heavier compliance burdens squeezed margins. Upstream industries showed mixed trends: chemicals contracted at a slower pace despite cost volatility and weaker construction demand, while metals lost momentum after June’s rebound, with firms citing rising costs, customer uncertainty, labour shortages, and higher employment expenses. Downstream, machinery and equipment posted its best result since July 2024, buoyed by mining and defence orders, reduced competition, and steady customer sales. Food and beverage softened as fuel and input costs weighed on margins, though stronger export demand from Europe, Asia, and China partly offset weaker domestic orders.
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-09 19:39:39_
-_本檔包含 3080 則快訊，約 601961 字_
+_更新時間：2026-08-09 19:59:27_
+_本檔包含 3078 則快訊，約 602459 字_
+
+---
+
+### 2026-08-07 14:49:44  #MKT News
+
+Thailand finance minister plans to cut the consumption tax on domestically produced cars.
+
+---
+
+### 2026-08-07 14:49:35  #宏觀 #國際
+
+泰國財政部長：計劃下調泰國汽車生產的消費稅。
+
+---
+
+### 2026-08-07 14:49:07  #公司
+
+【王莆中：從訂單角度看 美團是內地最大的藥品零售平臺】美團核心本地商業CEO王莆中稱，實際上，在中國大陸，從訂單角度看，美團已經是最大的藥品零售平臺，我們每天服務使用者達到數百萬。王莆中還提到，AI對健康管理的幫助非常大，最核心的是從“出現症狀才去找工具”演變成 “AI幫助做好日常的健康管理”，變成一種主動化的服務。“我們非常期待未來AI會讓醫療服務真正變成主動運轉，比如感知更多的資訊做預判，幫助使用者做好健康管理上的重要決策。美團也投資了不少具身智慧的公司，未來有很多的合作空間。”（新浪科技）
+
+---
+
+### 2026-08-07 14:48:33  #市場
+
+【電力板塊短線拉昇，華銀電力漲停】電力板塊短線拉昇，華銀電力漲停，華電遼能、晉控電力、大唐發電、京能電力、豫能控股等紛紛走高。
+
+---
+
+### 2026-08-07 14:48:11  #市場
+
+紐約期銀日內漲4%，現報64.08美元/盎司。
+
+---
+
+### 2026-08-07 14:48:07  #公司
+
+【雲鋒基金回應Corgi投資傳聞：未參與，持續深耕硬科技與人工智慧全產業鏈】針對近期市場關於“雲鋒基金投資美國AI公司Corgi”的傳聞，雲鋒基金正式稱該訊息不實，基金並未參與該專案投資。作為由阿里巴巴集團創始人馬雲與聚眾傳媒創始人虞鋒於2010年聯合發起的私募股權投資機構，雲鋒基金十六年來始終專注於全球新興產業與先進技術投資，重點佈局積體電路、人工智慧、綠色能源、醫療健康及消費科技等賽道，累計投資近300家企業，形成了清晰且堅定的投資主線。（新浪科技）
+
+---
+
+### 2026-08-07 14:47:37  #公司
+
+【王興興：機器人鐳射雷達全自研核心技術等多項核心技術已應用於公司產品】宇樹科技董事長、總經理兼技術長王興興在網上路演時表示，經過多年研發創新和技術積累，公司逐步形成了包括一體化關節整合技術、高緊湊度機器人身體整合技術、機器人鐳射雷達全自研核心技術等多項已商業化應用的核心技術並已應用於公司的高效能通用人形機器人、四足機器人等產品。在此基礎上，公司在機器人外界感知能力、環境互動能力，提升機器人關節自由度、環境適應性和應用場景的通用性等細分技術領域進行研究佈局，形成了一定的技術儲備並持續進行技術更新迭代。
+
+---
+
+### 2026-08-07 14:47:25  #其他
+
+【河北啟動重大氣象災害（暴雨）Ⅳ級應急響應】據河北省氣象災害防禦指揮部訊息，河北於8月7日9時啟動重大氣象災害（暴雨）Ⅳ級應急響應，要求相關部門密切關注此次強降水天氣過程，注意防範山區及淺山區強降水可能引發的次生災害及低窪地區積水風險，加強風險研判和安全隱患排查，適時啟動相應應急響應，做好防範應對工作。河北省氣象臺8月7日6時33分發布暴雨黃色預警，預計7日中午到8日上午，張家口東部和南部、保定、石家莊中西部、邢臺西部、邯鄲西部有較強雷雨，部分地區1小時雨量可達50毫米以上或6小時雨量可達70毫米以上，個別地點累計雨量可能超過180毫米。雷雨時大部分地區伴有短時大風等強對流天氣。
+
+---
+
+### 2026-08-07 14:47:16  #宏觀
+
+【中國建設報：順應需求更好發揮住房公積金作用】我國城市發展正從大規模增量擴張階段轉向以存量提質增效為主的階段，人民群眾住房需求總體上從有沒有轉向好不好，住房消費支出從購房、租房向修房、養房拓展，繳存人在住房裝修、更新改造、維修養護等方面的需求大幅增長，亟須擴大住房公積金使用範圍。 近日，國務院常務會議審議透過《國務院關於修改〈住房公積金管理條例〉的決定（草案）》。會議指出，要更好發揮住房公積金功能作用，拓寬提取和使用範圍，擴大制度覆蓋面，提升管理服務效能，更好滿足居民多樣化住房消費需求。這意味著住房公積金在促進住房消費、保障民生福祉方面的基礎性作用將更加凸顯。
+
+---
+
+### 2026-08-07 14:46:56  #央行 #國際
+
+印尼方面稱，德斯特里是印尼央行行長人選考慮物件之一。
+
+---
+
+### 2026-08-07 14:46:40  #市場 #焦點
+
+滬深兩市成交額超2.5萬億元，較上日此時放量1141億元。
+
+---
+
+### 2026-08-07 14:46:25  #公司
+
+【孫延文任大唐發電總經理】8月6日，大唐國際發電股份有限公司召開董事會，審議透過《關於調整公司高階管理人員的議案》，同意孫延文擔任公司總經理，任期自本次董事會審議批准之日起。同時，免去孫延文總會計師職務，其卸任自本次董事會審議批准之日起。同意在公司總會計師空缺期間，由總經理孫延文代行總會計師職責。
+
+---
+
+### 2026-08-07 14:46:12  #其他
+
+出光興產一季度營業利潤3075億日元，去年同期為‑40億日元。
+
+---
+
+### 2026-08-07 14:46:04  #Trading Economics #Economy #Hungary #Inflation Rate #Importance 1
+
+Hungary Inflation Rate Lowest Since 2016 — The annual inflation rate in Hungary slowed to 1.2% in July 2026 from 1.7% in the previous month, marking the lowest reading since November 2016. The slowdown was largely driven by declines in prices for food products (-1.1% vs 0.2%) and household energy (-4.3% vs -2.3% in June). At the same time, price growth softened alcoholic beverages, tobacco products (2.9% vs 3.1%), clothing items (0.6% vs 1.4%), consumer durables (1.8% vs 1.9%), and other goods, including fuels (0.3% vs 1.1%). On the other hand, inflation accelerated for services, climbing 4.7% from 4% in the prior month. On a monthly basis, consumer prices fell by 0.1%, after remaining unchanged for the past two months. Meanwhile, the annual core inflation rate, which excludes volatile items such as food and energy, edged up to 1.9% in July from 2% in the preceding period.
+
+---
+
+### 2026-08-07 14:45:37  #公司
+
+【浙商證券：維持百隆東方“買入”評級，Q3利潤高增有望延續】浙商證券研報指出，百隆東方26H1業績彈性及現金流亮麗，Q3利潤高增有望延續。26H1公司實現收入42.7億元（同比+19.0%），其中紗線業務收入39.6億元（同比+16.2%）。預計銷量增長為收入增長的主導因素。低價棉花庫存結轉帶動26H1毛利率16.4%（同比+1.2pp），毛利潤絕對值同比增加約1.6億元，是業績彈性的最主要貢獻來源。收入量增+低價庫存轉結提升毛利率+費用率有效控制+投資收益增加，共同驅動26H1歸母淨利潤5.6億元（同比+43.5%）、扣非歸母淨利潤5.3億元（同比+46.7%），落在業績預告中樞偏上；子公司百隆越南實現營收33.0億元、淨利潤4.2億元，仍為公司核心利潤來源。按照91%分紅比例估算，26年股息率7.3%，中期分紅方案落地進一步強化股東回報，高業績彈性疊加高股息，維持“買入”評級。
 
 ---
 
@@ -18486,107 +18576,5 @@ Aili Home resumed trading on the A‑share market today and recorded its tenth c
 ### 2026-08-06 09:45:36  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
 
 【LDP senior says BOJ ETF holdings could fund planned consumption tax cut】A senior ruling-party LDP official said Japan's BOJ ETF holdings could be used to help fund a planned cut in the food consumption tax, signaling the central bank's large equity holdings are becoming a political target. Prime Minister Takaichi has ruled out financing the tax cut with new debt and seeks non-tax revenue to fill an estimated annual shortfall of about 5 trillion yen (≈$31.7bn). Daishiro Yamagiwa, deputy head of the LDP tax research council, said proceeds from selling the BOJ's roughly 37 trillion yen of ETF holdings could be considered. At the BOJ's current disposal pace of about 330 billion yen a year, Yamagiwa noted it would take roughly a century to liquidate the position and suggested accelerating sales while equity prices are high. The BOJ says it is selling ETFs gradually to avoid disrupting the stock market.
-
----
-
-### 2026-08-06 09:45:15  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Fall on Tech Selloff — The benchmark KOSPI fell nearly 5% to around 6,285 on Thursday, reversing gains from the previous session, as a selloff in global technology stocks weighed heavily on semiconductor shares. SK Hynix and Samsung Electronics declined sharply by roughly 5% and 8%, respectively, after the Nasdaq retreated overnight amid profit-taking in major tech names. Losses were also recorded in SK Square (-10.2%), Hyundai Motor (-1.6%), HD Hyundai Heavy Industries (-1.2%), LS Electric (-3.8%), SK Inc (-9.1%), and LG Electronics (-2.5%). Limiting broader losses, South Korea reported a record current account surplus of $49.73 billion in June, driven by strong semiconductor exports that reinforced the country's export outlook. At the same time, reports of progress toward an interim transit arrangement between Iran and Oman eased concerns over disruptions to shipping through the Strait of Hormuz, supporting global risk sentiment.
-
----
-
-### 2026-08-06 09:45:04  #市場
-
-【元件板塊再度拉昇，景旺電子漲停】元件板塊再度拉昇，景旺電子漲停，寶鼎科技、本川智慧、方正科技、中京電子、威爾高、泰晶科技跟漲。
-
----
-
-### 2026-08-06 09:44:23  #市場 #焦點
-
-南向資金淨買入額達20億港元。
-
----
-
-### 2026-08-06 09:44:08  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China shipbuilding-related A-shares rose after volatile trading; CSSC Hanguang gained nearly 13%, while Jiuzhiyang, Kunchuan Intelligent, China Power and CSSC Special Gas also advanced.
-
----
-
-### 2026-08-06 09:43:49  #市場
-
-【消費電子板塊短線拉昇，卓翼科技漲停】消費電子板塊短線拉昇，卓翼科技漲停，碩貝德、達瑞電子、精研科技、傑美特、捷邦科技等紛紛走高。
-
----
-
-### 2026-08-06 09:43:46  #市場
-
-【多支黃金股ETF漲幅居前】黃金股ETF國泰（517400）、黃金股ETF華夏（518850）、黃金股ETF工銀（159315）等多支黃金股ETF漲近4%,訊息面上，倫敦金現突破4300美元，連續2個交易日大漲，此外，A股市場黃金ETF連續16個交易日申贖資金淨流入93億。
-
----
-
-### 2026-08-06 09:43:16  #市場
-
-【AI應用端反覆走強 博彥科技2連板】AI應用端反覆走強，博彥科技2連板，泛微網路、天融信漲停，亞信安全、任子行漲超10%，普聯軟體、光雲科技、漢得資訊等漲幅靠前。
-
----
-
-### 2026-08-06 09:42:48  #市場
-
-滬指翻紅，深成指、創業板指跌幅分別收窄至0.66%、1.36%。
-
----
-
-### 2026-08-06 09:42:46  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component #Impact bearish
-
-Shanghai Composite turned positive; Shenzhen Component and ChiNext declines narrowed to 0.66% and 1.36%, respectively.
-
----
-
-### 2026-08-06 09:42:34  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量229億元。
-
----
-
-### 2026-08-06 09:42:27  #MKT News #DXY #Impact bearish
-
-The South Korean won rose to 1,415.30 per US dollar, its highest level since mid-October 2025.
-
----
-
-### 2026-08-06 09:42:17  #市場
-
-韓元兌美元<KRW=KFTC>升至1,415.30，創2025年10月中旬以來最高。
-
----
-
-### 2026-08-06 09:41:13  #MKT News #USDJPY #Impact bullish #DXY
-
-Japan 20-year government bond yield fell 3.5 bps to 3.655%.
-
----
-
-### 2026-08-06 09:40:48  #公司 #市場
-
-【數字貨幣概念表現活躍 飛天誠信20CM漲停】數字貨幣概念表現活躍，飛天誠信20CM漲停，恆寶科技漲停，楚天龍、翠微股份、四方精創、拉卡拉跟漲。
-
----
-
-### 2026-08-06 09:40:23  #公司 #市場
-
-【泡泡瑪特盤初一度跌超3%】8月6日，港股泡泡瑪特盤初一度跌超3%。截至發稿，報155.5港元/股，跌3.66%，總市值2068億港元。訊息面上，8月5日，港交所披露一則權益變動資訊：段永平透過H&H International Investment持有的泡泡瑪特多頭倉位，於7月30日從7.65%降至5.55%，下降2.1個百分點。檔案顯示，此次多頭倉位下降的原因是：其交付了根據股本衍生工具須交付的股份或款項。對此，段永平本人在社交平臺回應稱，此次變動“就是putexpired，部分被call走了”。泡泡瑪特相關人士則向媒體表示，段永平此次持股比例下跌和他此前賣Put、賣Call相關價格設定強相關，主要由於價格區間設定比較窄，屬於短期交易行為，並非大眾理解層面的主動減持。
-
----
-
-### 2026-08-06 09:40:16  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SZSE Component
-
-China A-share software development sector rallied intraday; Fanwei Network hit the daily price limit, while AsiaInfo Security, Topsec, Ren Zixing, Sifang Jingchuang and Yongxin Zhicheng also advanced.
-
----
-
-### 2026-08-06 09:40:10  #國際
-
-智利財長：智利將於9月1日公佈資本市場改革方案。
 
 ---

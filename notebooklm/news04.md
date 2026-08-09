@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-09 19:39:39_
-_本檔包含 3306 則快訊，約 602293 字_
+_更新時間：2026-08-09 19:59:27_
+_本檔包含 3304 則快訊，約 602252 字_
+
+---
+
+### 2026-08-05 07:45:29  #其他
+
+【微芯科技與美光聯合展示高效能PCIe Gen 6儲存架構】當地時間8月4日，微芯科技（Microchip Technology）宣佈與美光科技合作，在2026年全球快閃記憶體峰會上展示了端到端的PCIe Gen 6儲存架構。該方案結合了微芯的Switchtec PCIe Gen 6交換晶片與美光的9650 NVMe固態硬碟（SSD），旨在為人工智慧、高效能運算和雲資料中心提供更高的吞吐量、更低的時延以及可擴充套件的連線能力。
+
+---
+
+### 2026-08-05 07:45:29  #MKT News #Important
+
+Market sources: Brazil informed Argentina's ambassador that bilateral diplomatic relations have been downgraded to the chargé d'affaires level.
+
+---
+
+### 2026-08-05 07:45:25  #公司
+
+【廣州出讓首宗現房銷售承諾制地塊】近日，廣州市規劃和自然資源局南沙區分局釋出一則國有建設用地使用權網上掛牌出讓公告，出讓2026NJY-3號地塊。該地塊包含三宗子地塊。值得注意的是，該地塊為廣州首個將“現房銷售承諾制”納入出讓條件的住宅專案。公告中明確，本專案實行現房銷售承諾制及延長土地出讓金分期繳納期限。
+
+---
+
+### 2026-08-05 07:45:22  #央行 #美聯儲
+
+【中信建投：當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性】中信建投研報指出，7月FOMC會議維持聯邦基金利率目標區間不變，美聯儲延續“觀察—確認—調整”的政策節奏，未釋放明確降息訊號。6月PCE資料顯示，美國通脹繼續改善，能源價格回落推動整體價格壓力緩解，但核心通脹仍高於2%的政策目標，服務價格黏性和消費韌性限制政策快速轉向。當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性。
+
+---
+
+### 2026-08-05 07:45:08  #其他
+
+訊息人士稱：巴西已告知阿根廷駐巴大使，雙邊外交關係已降級為代辦級。
+
+---
+
+### 2026-08-05 07:45:00  #觀點
+
+【中信建投：家電與智慧硬體板塊正由“國記憶體量競爭”轉向“全球化擴張+科技新品類成長”】中信建投研報指出，家電與智慧硬體板塊正由“國記憶體量競爭”轉向“全球化擴張+科技新品類成長”，投資主線兼顧穩健價值與新興成長。傳統家電中，白電龍頭憑藉穩定格局、經營提效、海外擴張和高分紅，類紅利屬性強化；黑電依託大尺寸、Mini LED等結構升級與全球份額提升，盈利中樞有望上移；面板行業資本開支及折舊高峰逐步過去，進入利潤與現金流釋放期。成長方向重點關注清潔電器、智慧影像、消費級3D列印及AI NAS，低滲透率、技術迭代和海外需求擴容有望驅動行業增長，具備研發、供應鏈及全球渠道優勢的龍頭份額有望提升。
+
+---
+
+### 2026-08-05 07:44:10  #觀點 #央行 #國際
+
+【中信建投：當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性】中信建投研報指出，7月FOMC會議維持聯邦基金利率目標區間不變，美聯儲延續“觀察—確認—調整”的政策節奏，未釋放明確降息訊號。6月PCE資料顯示，美國通脹繼續改善，能源價格回落推動整體價格壓力緩解，但核心通脹仍高於2%的政策目標，服務價格黏性和消費韌性限制政策快速轉向。當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性。短期內，維持限制性政策仍是基準情景，後續政策轉向仍需更多通脹和就業資料確認。
+
+---
+
+### 2026-08-05 07:43:30  #觀點
+
+【中信建投：全球半導體裝置進入“量價齊升”通道，國產裝置出海程序加速】中信建投研報指出，全球半導體裝置景氣度持續上修，海外裝置、零部件已出現“量價齊升”情況，海外交期大幅延長，國產裝置、零部件經歷“十四五”期間的修煉，能力大幅提升，具備充足的出海潛力。另外一方面，除了外部制裁因素以外，全球缺貨使得國內下游客戶獲取海外裝置、零部件的難度進一步提升，我們看好國內市場的國產替代速度大幅加速。
+
+---
+
+### 2026-08-05 07:42:20  #其他
+
+【今天宇樹科技IPO迎來關鍵節點】 今天是宇樹科技IPO的初步詢價日，8月10日將開放申購。
+
+---
+
+### 2026-08-05 07:42:05  #MKT News #USDJPY #Impact bearish #DXY
+
+US Treasury Secretary Bessent said he has full confidence in BOJ Governor Ueda and that Ueda understands markets well.
+
+---
+
+### 2026-08-05 07:41:42  #MKT News #USDJPY
+
+US Treasury Secretary Bessent said many Asian currencies are currently tracking the yen, notably the South Korean won.
+
+---
+
+### 2026-08-05 07:41:40  #央行 #國際
+
+貝森特稱他對日本央行行長植田和男充滿信心，稱植田非常“深諳市場”。
+
+---
+
+### 2026-08-05 07:41:22  #宏觀 #國際
+
+據日經新聞報道，美國財政部長貝森特表示，目前許多亞洲貨幣都在跟隨日元走勢，例如韓元等。
+
+---
+
+### 2026-08-05 07:41:08  #市場
+
+日經指數期貨在新加坡交易所開盤上漲1740點，報65695點。
+
+---
+
+### 2026-08-05 07:39:38  #Trading Economics #Economy #Australia #Industry Index Manufacturing #Importance 1
+
+Australia Manufacturing Contracts Further on Weak Demand — Australia’s Ai Group Industry Index for manufacturing fell deeper into contraction in July, sliding to -19.6 from June’s upwardly revised -13.9, partly unwinding the strongest improvement in eight months. The sector remained under pressure as subdued consumer demand, rising input costs, and heavier compliance burdens squeezed margins. Upstream industries showed mixed trends: chemicals contracted at a slower pace despite cost volatility and weaker construction demand, while metals lost momentum after June’s rebound, with firms citing rising costs, customer uncertainty, labour shortages, and higher employment expenses. Downstream, machinery and equipment posted its best result since July 2024, buoyed by mining and defence orders, reduced competition, and steady customer sales. Food and beverage softened as fuel and input costs weighed on margins, though stronger export demand from Europe, Asia, and China partly offset weaker domestic orders.
 
 ---
 
@@ -19860,107 +19950,5 @@ Top military adviser to Iran's supreme leader Mohsen Rezaei said Iran intensifie
 ### 2026-08-04 03:18:31  #MKT News #WTI #Impact bullish #Brent #DXY
 
 【Iran adviser says US must not open non‑Iranian routes in Strait of Hormuz】On Aug 3, Mohsen Rezaei, military adviser to Iran’s Supreme Leader, told media Iran will not permit the United States to open any non‑Iranian shipping lanes in the Strait of Hormuz and would regard US warships deployed on such illegal routes as targets. He added Iran had prepared strikes on three sites in Ukraine but called them off after Ukraine apologized.
-
----
-
-### 2026-08-04 03:17:53  #MKT News
-
-Saudi outlet Alhadath reports sources say Iran's foreign minister is due to visit Islamabad.
-
----
-
-### 2026-08-04 03:17:09  #國際
-
-【伊朗高階官員：不允許美在霍爾木茲海峽開闢非伊朗航線】當地時間8月3日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊在接受媒體採訪時表示，伊朗決不允許美國在霍爾木茲海峽開闢任何非伊朗的航線，即使美國在霍爾木茲海峽的非法航線上部署軍艦，伊朗也會將其作為目標。雷扎伊還表示，伊朗此前已準備好攻擊烏克蘭的三個地點，但是由於烏克蘭道歉，伊朗取消了攻擊。（央視新聞）
-
----
-
-### 2026-08-04 03:15:52  #Trading Economics #Markets #United States #stocks #Importance 1
-
-BlackRock Stock Price Hits 26-week High — BlackRock shares increased to 1125.00 USD, the highest since January 2026. Over the past 4 weeks, BlackRock gained 11.19%, and in the last 12 months, it increased 0.75%.
-
----
-
-### 2026-08-04 03:14:28  #國際
-
-伊朗最高領袖軍事顧問穆赫辛·雷扎伊：我們絕不允許在霍爾木茲海峽開闢第二條航道。若軍艦或軍事力量為此目的駛入霍爾木茲海峽，我們將對其實施打擊。
-
----
-
-### 2026-08-04 03:13:30  #MKT News
-
-New York state attorney general said Trump's new tariffs are overly broad, circumvent legal requirements for country-specific investigations, and merely replace tariffs the U.S. Supreme Court previously struck down.
-
----
-
-### 2026-08-04 03:12:12  #國際
-
-紐約州總檢察長：特朗普最新關稅僅僅是替換此前被美國最高法院裁定無效的關稅。
-
----
-
-### 2026-08-04 03:12:03  #國際
-
-紐約州總檢察長：特朗普新關稅覆蓋面寬泛程度超出法律允許範圍，規避了法律規定的針對特定國家開展調查的要求。
-
----
-
-### 2026-08-04 03:11:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's Supreme Leader's military adviser Mohsen Rezaei said Iran did not attack any US citizens, that the US attacked Iran, and that the vast majority of countries regard the US as a warmongering state.
-
----
-
-### 2026-08-04 03:11:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Mohsen Rezaei, military adviser to Iran’s supreme leader, said Iran carried out two additional days of attacks after US strikes ceased to make the United States understand the situation.
-
----
-
-### 2026-08-04 03:10:29  #國際
-
-法庭檔案顯示：美國 25 個州提起訴訟，挑戰特朗普最新關稅政策。
-
----
-
-### 2026-08-04 03:10:26  #MKT News #Important #Market Themes #The Trump Trade
-
-Court filings show 25 U.S. states have filed suit challenging Trump's latest tariff measures.
-
----
-
-### 2026-08-04 03:09:15  #MKT News
-
-EIA said ERCOT's hourly peak load reached a record 91.1 GW on July 22, based on hourly grid-monitoring data.
-
----
-
-### 2026-08-04 03:08:41  #國際
-
-伊朗最高領袖軍事顧問穆赫辛·雷扎伊：我們擁有導彈，也具備自衛能力。即使美國透過未經授權的航線派遣軍艦進入霍爾木茲海峽，我們也將對其進行打擊。美國曾在（伊斯蘭堡）諒解備忘錄框架下接受伊朗關於霍爾木茲海峽的安排，但隨後違反了該協議。美國不僅違反了諒解備忘錄，還在未先將爭端提交至指定爭端解決委員會的情況下發動了襲擊。在諒解備忘錄遭違反後的17天戰鬥中，我們對美國實施了沉重打擊。
-
----
-
-### 2026-08-04 03:08:10  #國際
-
-伊朗法爾斯通訊社：伊朗將領禮薩伊表示，在美國停止襲擊行動後，我方繼續打擊行動兩天，以此讓美方認清局勢。
-
----
-
-### 2026-08-04 03:07:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Mohsen Rezaei, military adviser to Iran’s supreme leader, said the US had accepted Iran’s arrangements for the Strait of Hormuz under a memorandum of understanding reached in Islamabad but later violated it. He accused the US of launching attacks without first submitting disputes to the designated dispute-resolution committee and said that in the 17 days of fighting after the MoU was breached Iran inflicted heavy blows on US forces.
-
----
-
-### 2026-08-04 03:07:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's supreme leader's military adviser Mohsen Rezaee said Iran possesses missiles and self‑defense capabilities and would strike U.S. warships entering the Strait of Hormuz via unauthorized routes.
-
----
-
-### 2026-08-04 03:06:57  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-【U.S. Treasury raises Q3 2026 borrowing estimate to $739bn】U.S. Treasury raised its net marketable borrowing estimate for Q3 2026 (July–Sept.) to $739bn, assuming a Sept. 30 cash balance of $950bn. The estimate is $68bn higher than the May projection, primarily due to lower expected net cash inflows. The Treasury expects Q4 (Oct–Dec) financing of $628bn, assuming a Dec. 31 cash balance of $850bn. Financing for Q2 (Apr–June) 2026 was $190bn, roughly in line with May’s $189bn estimate. More details on quarterly financing will be released Aug. 5 at 8:30 a.m. ET (20:30 Beijing time).
 
 ---

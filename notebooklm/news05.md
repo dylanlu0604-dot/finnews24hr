@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-09 19:39:39_
-_本檔包含 3059 則快訊，約 601901 字_
+_更新時間：2026-08-09 19:59:27_
+_本檔包含 3062 則快訊，約 601937 字_
+
+---
+
+### 2026-08-04 03:17:53  #MKT News
+
+Saudi outlet Alhadath reports sources say Iran's foreign minister is due to visit Islamabad.
+
+---
+
+### 2026-08-04 03:17:09  #國際
+
+【伊朗高階官員：不允許美在霍爾木茲海峽開闢非伊朗航線】當地時間8月3日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊在接受媒體採訪時表示，伊朗決不允許美國在霍爾木茲海峽開闢任何非伊朗的航線，即使美國在霍爾木茲海峽的非法航線上部署軍艦，伊朗也會將其作為目標。雷扎伊還表示，伊朗此前已準備好攻擊烏克蘭的三個地點，但是由於烏克蘭道歉，伊朗取消了攻擊。（央視新聞）
+
+---
+
+### 2026-08-04 03:15:52  #Trading Economics #Markets #United States #stocks #Importance 1
+
+BlackRock Stock Price Hits 26-week High — BlackRock shares increased to 1125.00 USD, the highest since January 2026. Over the past 4 weeks, BlackRock gained 11.19%, and in the last 12 months, it increased 0.75%.
+
+---
+
+### 2026-08-04 03:14:28  #國際
+
+伊朗最高領袖軍事顧問穆赫辛·雷扎伊：我們絕不允許在霍爾木茲海峽開闢第二條航道。若軍艦或軍事力量為此目的駛入霍爾木茲海峽，我們將對其實施打擊。
+
+---
+
+### 2026-08-04 03:13:30  #MKT News
+
+New York state attorney general said Trump's new tariffs are overly broad, circumvent legal requirements for country-specific investigations, and merely replace tariffs the U.S. Supreme Court previously struck down.
+
+---
+
+### 2026-08-04 03:12:12  #國際
+
+紐約州總檢察長：特朗普最新關稅僅僅是替換此前被美國最高法院裁定無效的關稅。
+
+---
+
+### 2026-08-04 03:12:03  #國際
+
+紐約州總檢察長：特朗普新關稅覆蓋面寬泛程度超出法律允許範圍，規避了法律規定的針對特定國家開展調查的要求。
+
+---
+
+### 2026-08-04 03:11:11  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's Supreme Leader's military adviser Mohsen Rezaei said Iran did not attack any US citizens, that the US attacked Iran, and that the vast majority of countries regard the US as a warmongering state.
+
+---
+
+### 2026-08-04 03:11:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Mohsen Rezaei, military adviser to Iran’s supreme leader, said Iran carried out two additional days of attacks after US strikes ceased to make the United States understand the situation.
+
+---
+
+### 2026-08-04 03:10:29  #國際
+
+法庭檔案顯示：美國 25 個州提起訴訟，挑戰特朗普最新關稅政策。
+
+---
+
+### 2026-08-04 03:10:26  #MKT News #Important #Market Themes #The Trump Trade
+
+Court filings show 25 U.S. states have filed suit challenging Trump's latest tariff measures.
+
+---
+
+### 2026-08-04 03:09:15  #MKT News
+
+EIA said ERCOT's hourly peak load reached a record 91.1 GW on July 22, based on hourly grid-monitoring data.
+
+---
+
+### 2026-08-04 03:08:41  #國際
+
+伊朗最高領袖軍事顧問穆赫辛·雷扎伊：我們擁有導彈，也具備自衛能力。即使美國透過未經授權的航線派遣軍艦進入霍爾木茲海峽，我們也將對其進行打擊。美國曾在（伊斯蘭堡）諒解備忘錄框架下接受伊朗關於霍爾木茲海峽的安排，但隨後違反了該協議。美國不僅違反了諒解備忘錄，還在未先將爭端提交至指定爭端解決委員會的情況下發動了襲擊。在諒解備忘錄遭違反後的17天戰鬥中，我們對美國實施了沉重打擊。
+
+---
+
+### 2026-08-04 03:08:10  #國際
+
+伊朗法爾斯通訊社：伊朗將領禮薩伊表示，在美國停止襲擊行動後，我方繼續打擊行動兩天，以此讓美方認清局勢。
+
+---
+
+### 2026-08-04 03:07:50  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Mohsen Rezaei, military adviser to Iran’s supreme leader, said the US had accepted Iran’s arrangements for the Strait of Hormuz under a memorandum of understanding reached in Islamabad but later violated it. He accused the US of launching attacks without first submitting disputes to the designated dispute-resolution committee and said that in the 17 days of fighting after the MoU was breached Iran inflicted heavy blows on US forces.
+
+---
+
+### 2026-08-04 03:07:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's supreme leader's military adviser Mohsen Rezaee said Iran possesses missiles and self‑defense capabilities and would strike U.S. warships entering the Strait of Hormuz via unauthorized routes.
+
+---
+
+### 2026-08-04 03:06:57  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+【U.S. Treasury raises Q3 2026 borrowing estimate to $739bn】U.S. Treasury raised its net marketable borrowing estimate for Q3 2026 (July–Sept.) to $739bn, assuming a Sept. 30 cash balance of $950bn. The estimate is $68bn higher than the May projection, primarily due to lower expected net cash inflows. The Treasury expects Q4 (Oct–Dec) financing of $628bn, assuming a Dec. 31 cash balance of $850bn. Financing for Q2 (Apr–June) 2026 was $190bn, roughly in line with May’s $189bn estimate. More details on quarterly financing will be released Aug. 5 at 8:30 a.m. ET (20:30 Beijing time).
 
 ---
 
@@ -18352,89 +18454,5 @@ OPEC+ joint ministerial monitoring committee (JMMC) met on Sunday and stressed p
 ### 2026-08-02 20:00:51  #焦點 #國際
 
 【8月2日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【奮力開創中國式現代化建設新局面——習近平總書記今年以來治國理政紀實】堅定不移推動高質量發展 努力實現“十五五”良好開局； 2.我國美麗鄉村建設實現良好開局； 3.我國輕工業經濟執行穩中有進； 4.傳統工業品適配新需求 老產業跑出轉型加速度； 5.新場景新體驗 暑期旅遊持續升溫； 6.守護藏羚羊遷徙之旅 人與自然和諧共生； 7.國內聯播快訊： （1）“十五五”時期國家電網特高壓建設規模持續提升； （2）上半年規模以上電子資訊製造業增加值同比增長14.8%； （3）國內外匯貸款管理政策進一步最佳化； （4）今天起華北地區迎來新一輪較強降雨過程； （5）今年上半年北京“雙樞紐”機場進出口超4000億元； （6）上海港單晝夜集裝箱吞吐量突破20萬標準箱； 8.美總統稱同意取消大規模打擊伊朗的行動 伊朗外長警告美國不要採取“冒險行動”； 9.歐洲多國遭遇乾旱 多地河流水位大幅降至歷史新低； 10.國際聯播快訊： （1）俄發動大規模空襲 俄烏打擊對方船隻； （2）西班牙首相批評部分歐盟成員國製造對立； （3）本輪疫情為剛果（金）史上最大埃博拉疫情； （4）美華盛頓州林火蔓延 進入緊急狀態。
-
----
-
-### 2026-08-02 19:59:21  #國際
-
-滙豐銀行：埃及滙豐銀行零售客戶不會立即面臨變動，其享有的滙豐產品與服務將繼續正常運營。
-
----
-
-### 2026-08-02 19:59:14  #MKT News
-
-【Moscow mayor says restaurant blast was terrorist attack】Moscow mayor Sergey Sobyanin said on social media on Aug 2 that a restaurant explosion in the city on Aug 1 was a terrorist attack, leaving 3 dead and 21 injured. Russia's National Anti-Terror Committee said a homemade explosive device caused the blast. Law enforcement agencies are investigating.
-
----
-
-### 2026-08-02 19:58:13  #其他
-
-滙豐銀行：本次出售交易預計對核心一級資本充足率影響微乎其微  。
-
----
-
-### 2026-08-02 19:57:56  #國際
-
-【俄莫斯科市長稱餐廳爆炸事件為恐怖襲擊】當地時間8月2日，俄羅斯首都莫斯科市長索比亞寧在社交媒體發文表示，1日發生在該市的餐廳爆炸事件是恐怖襲擊，並已造成多人傷亡。索比亞寧稱，執法機關正在調查事件的具體情況。當地時間8月1日，莫斯科市中心一家餐廳發生爆炸，目前已造成3人死亡、21人受傷。俄羅斯國家反恐委員會通報稱，事故系自制爆炸裝置爆炸所致。（央視新聞）
-
----
-
-### 2026-08-02 19:57:35  #國際
-
-滙豐銀行擬將埃及零售銀行業務出售給阿聯酋國民銀行（Emirates NBD），稱出售埃及零售銀行業務預計帶來約 3 億美元稅前收益。
-
----
-
-### 2026-08-02 19:52:00  #其他
-
-【住房城鄉建設部城市建設司召開燃氣安全事故防範工作約談會】近日，住房城鄉建設部城市建設司就防範燃氣安全事故，專門約談有關省市部門負責人。約談指出，燃氣安全事關人民群眾切身利益，事故發生暴露出有關省市燃氣安全工作存在明顯薄弱環節。有關省市要深刻汲取事故教訓，舉一反三，採取針對性工作措施，提升本地區燃氣安全管理水平。約談要求，有關省市要全面加強城鎮燃氣安全專項整治，抓緊推動落實瓶裝液化石油氣配送入戶、隨瓶安檢等制度，加快消除使用者端瓶管灶閥等安全隱患。要繼續發揮好城鎮燃氣安全專項整治工作專班作用，深入推進燃氣安全“一件事”全鏈條整治，加快建立健全燃氣安全管理長效機制。
-
----
-
-### 2026-08-02 19:50:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #DXY
-
-【OPEC+ modestly raises output quota, nominally offsets 2023 cuts】OPEC+ agreed to raise September crude output quotas by 188,000 b/d, a move that nominally cancels the group's 2023 voluntary cuts. The increase comes despite Iran-related hostilities constraining Middle East supply; the group has been lifting quotas monthly and plans to keep output steady for the rest of the year after September. The rise is largely symbolic for now, but normalization of Gulf flows could give Saudi Arabia scope to boost production and help rebuild depleted global inventories. Conflict-driven supply tightness is pushing up gasoline and diesel prices and raising market concerns about renewed inflationary pressure. OPEC+ will continue monthly meetings; the next is scheduled for Sept. 6.
-
----
-
-### 2026-08-02 19:45:20  #MKT News #Market Regions #Greater China
-
-【Hengli Heavy Industry books 46 newbuild orders in July; contract value tops 30 bln yuan】Hengli Group said on Aug 2 that Hengli Heavy Industry secured 46 newbuild ship orders in July across bulk carriers, containerships, tankers and gas carriers, with monthly contracted value exceeding 30 billion yuan.
-
----
-
-### 2026-08-02 19:45:01  #公司
-
-【恆力重工7月承接46艘新造船訂單，總金額超300億元】恆力集團8月2日訊息，7月，恆力重工單月承接46艘新造船訂單，覆蓋散貨、集裝箱、油輪、氣體船四大主流船型，單月經營承接總金額超300億元。
-
----
-
-### 2026-08-02 19:44:49  #其他
-
-宣告稱，歐佩克+聯合部長級監督委員會將於10月4日舉行下次會議。
-
----
-
-### 2026-08-02 19:42:10  #國際
-
-【美媒稱美軍向伊朗居民區投重磅炸彈】據CCTV國際時訊，美國《紐約時報》日前披露，多種分析結果顯示，7月30日美軍在空襲伊朗南部格什姆島期間，向一處沒有軍事設施且人口稠密的居民區投下一枚重磅炸彈，造成3人死亡。報道稱，透過對衛星影象、新聞畫面顯示的彈坑、彈藥碎片及建築受損情況等進行分析，多名軍事專家判斷，這是一枚配備衛星制導的Mark-84型炸彈，在空襲現場留下一個直徑至少9米的彈坑。據瞭解，這種炸彈重900多公斤，是美軍最大的常規炸彈之一。報道稱，美國中央司令部發言人表示，正就空襲造成平民傷亡的報道進行調查，但沒有回答美軍這次空襲的是什麼目標、使用何種彈藥、是否採取措施防止平民傷亡等問題，僅聲稱美軍的行動“從不針對平民”。
-
----
-
-### 2026-08-02 19:41:19  #國際
-
-【“歐佩克+”主要產油國宣佈9月繼續增產】當地時間8月2日，石油輸出國組織（歐佩克）釋出宣告稱，沙烏地阿拉伯、俄羅斯、伊拉克、科威特、哈薩克、阿爾及利亞和阿曼七個“歐佩克+”主要產油國舉行線上會議，審議全球石油市場形勢及前景。宣告稱，七國決定2026年9月日均增產18.8萬桶，以支援石油市場穩定。宣告還表示，此舉將為相關國家加快完成補償性減產提供機會。七國重申將全面遵守“合作宣言”及額外自願減產安排，並將繼續每月舉行一次會議評估市場狀況。下次會議將於9月6日舉行。（央視新聞）
-
----
-
-### 2026-08-02 19:40:19  #MKT News
-
-Al Jazeera reports Israeli strikes on Gaza on Sunday killed at least 11 people.
-
----
-
-### 2026-08-02 19:40:03  #其他
-
-【海空聯動、一體應對：中國海警依法加強黃巖島海域管控 】8月1日，中國海警在黃巖島海域組織維權執法管控演練，重點演練臨檢拿捕、攔阻衝闖、強制拖離等執法行動，依法加強黃巖島海域管控。（新華社）
 
 ---
