@@ -1,7 +1,15 @@
 {
   "date": "2026-08-10",
-  "count": 43,
+  "count": 44,
   "items": [
+    {
+      "id": "mkt:019fe7ab-901f-7aab-8fcb-33a86b4ed8fe",
+      "time": "2026-08-10 01:56:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: The presidency's deputy director for news and communications said Supreme Leader Mujtaba has appointed Mohsen Rezaee as his representative on the National Security Council."
+    },
     {
       "id": "5032651",
       "time": "2026-08-10 01:54:04",

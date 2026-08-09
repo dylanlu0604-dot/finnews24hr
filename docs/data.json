@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10 01:56:22",
-  "count": 15972,
+  "updated": "2026-08-10 02:00:12",
+  "count": 15971,
   "items": [
+    {
+      "id": "mkt:019fe7ab-901f-7aab-8fcb-33a86b4ed8fe",
+      "time": "2026-08-10 01:56:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: The presidency's deputy director for news and communications said Supreme Leader Mujtaba has appointed Mohsen Rezaee as his representative on the National Security Council."
+    },
     {
       "id": "5032651",
       "time": "2026-08-10 01:54:04",
@@ -145437,25 +145445,6 @@
         "MKT News"
       ],
       "text": "【Iraq denies US aircraft landed at Ain al-Asad airbase】Iraq on Sunday denied reports that US aircraft landed at the Ain al-Asad airbase in western Anbar province, calling the reports false and saying there was no official information to support the claim. Iraqi media had earlier reported that US aircraft had landed at the base."
-    },
-    {
-      "id": "5021012",
-      "time": "2026-08-03 01:57:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克政府否認有關美軍飛機降落艾因・阿薩德空軍基地的報道。"
-    },
-    {
-      "id": "mkt:019fc39e-d86d-7aab-8f48-83413c962747",
-      "time": "2026-08-03 01:56:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Israel's Channel 12 cites sources saying that, despite a statement from Trump, the Israel Defense Forces remained on high alert today, saying Iran may carry out unexpected actions."
     }
   ]
 }
