@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-09 19:47:32",
-  "count": 15987,
+  "updated": "2026-08-09 19:51:32",
+  "count": 15994,
   "items": [
+    {
+      "id": "5032542",
+      "time": "2026-08-09 19:50:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【1元撬動15.77元！銀幕之外，千億級市場全面爆發！】根據網路平臺資料，截至8月9日18時30分，2026年暑期檔電影票房（含預售）達85.24億元，同比增長3.47%；放映場次3046.3萬場，同比增長7%；觀影人次2.34億，同比增長6.85%。平均票價36.3元，同比下降3.2%。截至7月底，全國全年淨增影院363家、銀幕2215塊。電影市場的火熱，也撬動了產業鏈發展。國家電影局資料顯示，每1元票房收入可帶動15.77元的全鏈條相關產業產值。據測算，今年以來電影全產業鏈產值已突破3800億元。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fe65c-2ba3-7aab-8fc9-b8f4c64a311a",
+      "time": "2026-08-09 19:50:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said four Yemeni government soldiers were killed in an attack by Houthi forces."
+    },
+    {
+      "id": "5032541",
+      "time": "2026-08-09 19:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門媒體：葉門塔伊茲市傳出兩聲劇烈爆炸聲。"
+    },
+    {
+      "id": "5032540",
+      "time": "2026-08-09 19:48:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府就印度航空飛機事件表示，該事件已被歸類為嚴重事故徵候，目前正由英國航空事故調查局（AAIB）展開調查。"
+    },
+    {
+      "id": "5032539",
+      "time": "2026-08-09 19:48:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府就印度航空涉事飛機事件表示，兩名飛行機組人員已被印度民用航空總局（DGCA）從執飛排班中除名。"
+    },
+    {
+      "id": "5032538",
+      "time": "2026-08-09 19:48:32",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【8月9日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】豐收背後的“穩”與“進”； 2.我國加快推進算力網建設； 3.我國加強對基礎研究的長期穩定支援； 4.颱風“白海豚”登陸 各地各部門全力應對； 5.7月份居民消費價格指數保持溫和上漲； 6.我國加快自然資源“一張圖”平臺建設； 7.我國生態修復治理取得新成效； 8.【文化中國行】平遙古城活態保護煥發新光彩； 9.國內聯播快訊： （1）我國地熱資源直接利用規模穩居世界首位； （2）7月下旬全國在田蔬菜面積1.06億畝 供應充足； （3）我國渤海首個千億方大氣田一期開發專案全面投產； （4）2026“百縣對百校促就業行動”校地人才供需對接會舉行； （5）第16屆全國殘疾人健身周活動啟動； （6）《2026中國AI盛典》今晚總檯央視綜合頻道播出； 10.伊朗稱在美國接受其條件前不會重新開放霍爾木茲海峽： （1）伊媒稱有證據顯示 美軍在對伊朗的軍事行動中使用含磷彈藥； （2）美媒稱美“愛國者”導彈庫存不足1700枚； 11.加拿大不列顛哥倫比亞省因林火快速蔓延進入緊急狀態 大批居民撤離 美猶他州兩處林火仍失控 消防直升機墜毀致兩人死亡； 12.國際聯播快訊： （1）俄駐日大使稱日本謀“核”將招致反制； （2）保加利亞稱境內爆炸無人機或來自烏克蘭； （3）颱風“白海豚”在日本和菲律賓引發災情； （4）義大利埃特納火山噴發影響機場航班。"
+    },
+    {
+      "id": "5032537",
+      "time": "2026-08-09 19:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府就印度航空飛機事件表示，樣本已送至指定實驗室進行確認分析，目前等待最終報告出具。"
+    },
+    {
+      "id": "5032536",
+      "time": "2026-08-09 19:47:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府就印度航空飛機事件表示：機長的篩查檢測結果顯示需要進行確診檢測。"
+    },
     {
       "id": "5032535",
       "time": "2026-08-09 19:46:38",
@@ -145608,20 +145674,6 @@
         "其他"
       ],
       "text": "【住房城鄉建設部城市建設司召開燃氣安全事故防範工作約談會】近日，住房城鄉建設部城市建設司就防範燃氣安全事故，專門約談有關省市部門負責人。約談指出，燃氣安全事關人民群眾切身利益，事故發生暴露出有關省市燃氣安全工作存在明顯薄弱環節。有關省市要深刻汲取事故教訓，舉一反三，採取針對性工作措施，提升本地區燃氣安全管理水平。約談要求，有關省市要全面加強城鎮燃氣安全專項整治，抓緊推動落實瓶裝液化石油氣配送入戶、隨瓶安檢等制度，加快消除使用者端瓶管灶閥等安全隱患。要繼續發揮好城鎮燃氣安全專項整治工作專班作用，深入推進燃氣安全“一件事”全鏈條整治，加快建立健全燃氣安全管理長效機制。"
-    },
-    {
-      "id": "mkt:019fc24f-d50d-7aab-8f46-d1fd356a3b96",
-      "time": "2026-08-02 19:50:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【OPEC+ modestly raises output quota, nominally offsets 2023 cuts】OPEC+ agreed to raise September crude output quotas by 188,000 b/d, a move that nominally cancels the group's 2023 voluntary cuts. The increase comes despite Iran-related hostilities constraining Middle East supply; the group has been lifting quotas monthly and plans to keep output steady for the rest of the year after September. The rise is largely symbolic for now, but normalization of Gulf flows could give Saudi Arabia scope to boost production and help rebuild depleted global inventories. Conflict-driven supply tightness is pushing up gasoline and diesel prices and raising market concerns about renewed inflationary pressure. OPEC+ will continue monthly meetings; the next is scheduled for Sept. 6."
     }
   ]
 }
