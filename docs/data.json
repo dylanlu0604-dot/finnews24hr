@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 22:37:55",
-  "count": 16003,
+  "updated": "2026-08-09 22:42:06",
+  "count": 16004,
   "items": [
+    {
+      "id": "5032604",
+      "time": "2026-08-09 22:40:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本將把網路安全納入防空體系。"
+    },
+    {
+      "id": "5032603",
+      "time": "2026-08-09 22:38:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國紐約一船隻傾覆致2人死亡】一艘休閒船8日晚在美國紐約港自由島附近傾覆，造成船上2人死亡，另有12人獲救。據多家媒體援引紐約市警察和消防部門訊息報道，死者為一名27歲女性和一名5個月大的嬰兒。警方尚未確認兩人是否為親屬關係。報道說，事發船隻於8日22時25分左右在自由島附近傾覆。救援人員成功救起12人。警方稱事故原因正在調查中。（新華社）"
+    },
+    {
+      "id": "5032602",
+      "time": "2026-08-09 22:37:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【APEC經濟體外國人訪深人數創歷史同期新高】隨著APEC第三十三次領導人非正式會議進入倒計時，外國人來華熱度持續攀升。深圳邊檢總站深圳機場邊檢站7日公佈的統計資料顯示，今年前七個月，經深圳機場口岸入出境的APEC成員經濟體外國人達85萬人次，同比增長32%，佔外籍人員總量近八成，創歷史同期新高。（深圳釋出）"
+    },
     {
       "id": "5032601",
       "time": "2026-08-09 22:31:56",
@@ -145720,22 +145744,6 @@
         "US Economy"
       ],
       "text": "【Dongwu Securities: U.S. consumer delinquency rates near highs do not imply broad, sustained deterioration】Dongwu Securities says U.S. consumer credit delinquency rates have risen since the pandemic, with auto-loan and credit-card delinquencies near historic highs. The firm attributes much of the headline rise to technical factors — changes in statistical coverage and credit-rating migration — which amplify measured delinquency severity; alternative metrics such as new-delinquency (new-roll) rates do not show a broad, sustained deterioration in U.S. household credit. Still, Dongwu warns of persistent structural risk concentrated in subprime borrowers and lower-income households, leaving the lower end of a K-shaped recovery as a continuing vulnerability until full economic rebound."
-    },
-    {
-      "id": "5020943",
-      "time": "2026-08-02 22:41:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月02日22時31分在青海海南州興海縣（北緯35.34度，東經99.50度）發生4.8級地震，震源深度10千米。"
-    },
-    {
-      "id": "5020942",
-      "time": "2026-08-02 22:38:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）表示，“吉納維芙”預計將於今日晚些時候減弱為後熱帶氣旋。"
     }
   ]
 }
