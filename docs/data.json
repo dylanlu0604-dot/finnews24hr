@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09 23:30:07",
-  "count": 15991,
+  "updated": "2026-08-09 23:34:09",
+  "count": 15990,
   "items": [
     {
       "id": "mkt:019fe71b-a283-7aab-8fca-84c859d7a061",
@@ -145619,19 +145619,6 @@
         "焦點"
       ],
       "text": "暗盤白銀突破53美元/盎司，日內漲幅1%。"
-    },
-    {
-      "id": "mkt:019fc31b-8ff6-7aab-8f47-a3f6180cced8",
-      "time": "2026-08-02 23:33:11",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Japan cut its holdings of US Treasuries by $96 billion over the past three months, trimming holdings to $1.14 trillion — the lowest level since April 2025."
     }
   ]
 }
