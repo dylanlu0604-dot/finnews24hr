@@ -1,7 +1,170 @@
 {
   "date": "2026-08-10",
-  "count": 231,
+  "count": 247,
   "items": [
+    {
+      "id": "mkt:019fe8f7-3515-7aab-8fcd-304b0056dade",
+      "time": "2026-08-10 07:59:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan July meeting summary: one member said the bank must accelerate withdrawal of monetary support because the cost of delaying rate hikes is significant."
+    },
+    {
+      "id": "5032786",
+      "time": "2026-08-10 07:58:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議意見摘要：內閣府代表表示，有助於物價穩定的適當貨幣政策對實現強勁經濟非常重要。"
+    },
+    {
+      "id": "5032785",
+      "time": "2026-08-10 07:58:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議摘要：一名成員表示，日本央行必須加快貨幣支援措施的調整節奏，因為推遲加息的代價不容小覷。"
+    },
+    {
+      "id": "mkt:019fe8f6-3cb6-7aab-8fcd-29593da6220e",
+      "time": "2026-08-10 07:57:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan July meeting minutes: one board member said the Bank must make clear its resolve to prevent inflation from overshooting, as inflationary pressure may begin to emerge from the summer."
+    },
+    {
+      "id": "mkt:019fe8f5-d266-7aab-8fcd-2685d1a018e7",
+      "time": "2026-08-10 07:57:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan July meeting minutes: a member said flexible adjustment of the policy rate is important to monitor potential inflation risks."
+    },
+    {
+      "id": "mkt:019fe8f5-c063-7aab-8fcd-1eeb3c750565",
+      "time": "2026-08-10 07:57:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan July meeting minutes show one member said the bank must normalize monetary policy by raising the policy rate above the lower bound of the estimated neutral-rate range."
+    },
+    {
+      "id": "5032783",
+      "time": "2026-08-10 07:57:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行意見摘要：一位委員表示，由於通脹壓力可能從夏季開始顯現，央行必須明確其避免通脹超調的決心。"
+    },
+    {
+      "id": "5032782",
+      "time": "2026-08-10 07:57:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行意見摘要：一位委員表示，央行必須透過將政策利率推升至中性利率預估區間底部以上，來實現貨幣政策正常化。"
+    },
+    {
+      "id": "5032781",
+      "time": "2026-08-10 07:57:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行一名成員：仔細研究外匯市場動態。"
+    },
+    {
+      "id": "mkt:019fe8f4-f590-7aab-8fcd-135a7fd1e572",
+      "time": "2026-08-10 07:56:35",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Bank of Japan July meeting minutes: one member said the central bank is now in a phase requiring attention to potential upside risks to inflation."
+    },
+    {
+      "id": "mkt:019fe8f4-d3ae-7aab-8fcd-0ba03389049c",
+      "time": "2026-08-10 07:56:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "A summary of the Bank of Japan's July meeting showed one member said the bank's rate‑hike pace could be faster than markets expect, depending on economic, price and financial conditions."
+    },
+    {
+      "id": "5032780",
+      "time": "2026-08-10 07:56:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行會議意見摘要：一位委員表示，重要的是要靈活調整政策利率水平，同時留意通脹上行風險。"
+    },
+    {
+      "id": "mkt:019fe8f4-3f64-7aab-8fcd-05b6afc86b48",
+      "time": "2026-08-10 07:55:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "BANK OF JAPAN July meeting summary: one member said that, given a 1–1.5 year lag for past rate hikes to affect inf and the domestic economy, it was appropriate to keep policy rates unchanged at this meeting."
+    },
+    {
+      "id": "5032779",
+      "time": "2026-08-10 07:55:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行意見摘要：一位委員表示，根據經濟、物價和金融狀況，央行加息步伐可能快於市場預期。"
+    },
+    {
+      "id": "mkt:019fe8f4-27dd-7aab-8fcc-ff4fb827fc54",
+      "time": "2026-08-10 07:55:42",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Bank of Japan July meeting summary: one member said financial conditions remain accommodative as short-term real interest rates remain negative."
+    },
+    {
+      "id": "5032778",
+      "time": "2026-08-10 07:55:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美參議院加密監管法案投票推遲至9月 《清晰法案》落地前景不容樂觀】此前，美國參議院進入八月休會期，並未就加密貨幣監管法案舉行投票，該法案在中期選舉前獲得透過的可能性顯著下降。 加密行業仍寄望於《透明度法案》（Clarity Act）能夠在議員9月重返國會、舉行為期三週的短期會議期間在參議院闖關。該法案旨在為加密行業搭建一套監管框架。 但國會議員下月復會後待辦議程繁重；且參議院共和黨人與支援加密行業的民主黨人尚未就一項倫理條款達成共識，這一條款仍是談判的核心阻礙。 資本阿爾法諮詢董事合夥人Ian Katz接受採訪時表示：“我認為9月透過的機率會下降。審議視窗期很短，可用立法工作日不多，各類議題都會爭奪議程空間。”"
+    },
     {
       "id": "5032777",
       "time": "2026-08-10 07:54:39",
