@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-09 09:43:01",
-  "count": 15939,
+  "updated": "2026-08-09 09:46:56",
+  "count": 15937,
   "items": [
+    {
+      "id": "mkt:019fe432-1999-7aab-8fc7-c018a1930f23",
+      "time": "2026-08-09 09:45:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi Energy Ministry said a fire at an Aramco facility in Jazan, Saudi Arabia, has been extinguished."
+    },
+    {
+      "id": "5032223",
+      "time": "2026-08-09 09:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省地震局回應：宜賓高縣5.5級地震後，餘震為什麼持續不斷？】2026年6月29日，宜賓市高縣發生5.5級地震，此後餘震持續活動。截至今日（2026年8月8日），高縣5.5級地震序列共記錄到4級以上地震8次，其中包括7月8日發生的兩次5.0級，7月9日發生的4.9級，8月3日發生的4.8級以及8月7日發生的4.9級等較強有感餘震。記者從四川省地震局瞭解到，這種震級起伏、短期內連續發生的地震序列，屬於典型的震群型地震序列。（央視新聞）"
+    },
+    {
+      "id": "5032222",
+      "time": "2026-08-09 09:42:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國多家企業AI模型測試中“越界”引擔憂】美國開放人工智慧研究中心（OpenAI）釋出宣告稱，最新內部評估結果顯示，即將推出的人工智慧模型“阿斯特拉”在“網路安全活動”方面可能達到有嚴重風險的級別。該公司決定採取包括暫停涉及該模型的部分活動等安全保障措施。近期，美國多家企業陸續承認旗下人工智慧模型在測試中“越界”，引發全球業界廣泛關注。分析認為，此事除了技術失誤等因素外，也存在商業炒作嫌疑。同時，AI風險日益凸顯，全球需要加強安全監管。（央視新聞）"
+    },
     {
       "id": "te:economy:573902",
       "time": "2026-08-09 09:42:20",
@@ -145218,50 +145245,6 @@
         "DXY"
       ],
       "text": "【Rubio: Iran has never faced a U.S. president like Trump; era of consequence-free negotiations over】U.S. Secretary of State Rubio said in a Fox News interview this weekend that under President Trump Iran is facing a fundamentally different U.S. president and can no longer expect to negotiate without consequences. Rubio said Iran \"has never faced a U.S. president like President Trump — a man who actually takes action,\" and accused Tehran of relying for decades on global leniency to lie, renege on agreements and deceive negotiators. The White House said that after alleged Iranian attacks on commercial shipping and U.S. forces following a memorandum of understanding, Iran \"will continue to pay\" until it returns to talks in a way President Trump deems \"meaningful.\""
-    },
-    {
-      "id": "5020632",
-      "time": "2026-08-02 09:45:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅釋出地質災害氣象風險橙色預警】甘肅省自然資源廳、甘肅省氣象局於8月2日8時50分發布地質災害氣象風險預警：預計未來24小時內（8月2日8時50分至8月3日8時50分），隴南市（武都區、成縣、文縣、康縣、徽縣、兩當縣）發生崩塌、滑坡、泥石流等地質災害的風險高，為橙色預警。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fc025-9c48-7aab-8f44-87e84c047869",
-      "time": "2026-08-02 09:45:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "V.N",
-        "Impact mixed"
-      ],
-      "text": "Visa (V.N) plans to cut 2,600 jobs in a restructuring driven by AI adoption and cost-reduction measures."
-    },
-    {
-      "id": "5020631",
-      "time": "2026-08-02 09:45:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年暑期檔電影票房（含預售）已超71億元】網路平臺資料顯示，截至8月2日0時，2026年暑期檔電影票房（含預售）已超71億元，年度票房已超228億元。"
-    },
-    {
-      "id": "5020630",
-      "time": "2026-08-02 09:44:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Visa計劃裁員 2600 人，並推動人工智慧普及與成本削減。"
-    },
-    {
-      "id": "mkt:019fc024-667c-7aab-8f44-78f8ab369773",
-      "time": "2026-08-02 09:43:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Secretary of State Rubio on Venezuela said robust laws and regulatory frameworks are needed so US and global investors can enter and invest safely to create prosperity, and that ultimately a transition must take place."
     }
   ]
 }
