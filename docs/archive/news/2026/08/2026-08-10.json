@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 40,
+  "count": 42,
   "items": [
+    {
+      "id": "5032650",
+      "time": "2026-08-10 01:44:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴任命穆赫辛·雷扎伊為其在國家安全委員會的代表。"
+    },
+    {
+      "id": "mkt:019fe79d-032f-7aab-8fcb-2fa17aaa2227",
+      "time": "2026-08-10 01:40:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian Defence Ministry says Russian air defenses intercepted and destroyed 285 Ukrainian drones."
+    },
     {
       "id": "5032649",
       "time": "2026-08-10 01:35:44",
