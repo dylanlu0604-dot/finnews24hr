@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-10 07:04:40",
-  "count": 15912,
+  "updated": "2026-08-10 07:08:27",
+  "count": 15898,
   "items": [
+    {
+      "id": "5032715",
+      "time": "2026-08-10 07:06:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗拒絕與美國直接談判 特朗普對霍爾木茲海峽協議展現耐心】伊朗和阿曼仍未就重新開放霍爾木茲海峽達成最終協議，但美國總統唐納德·特朗普表示有耐心，稱美國可以等，讓伊朗的經濟困境迫使德黑蘭軟化立場。伊朗排除了目前與美國直接談判的可能性，該國外交部長阿拉格齊表示，原因是美方一再違反6月簽署、但維持時間短暫的臨時和平協議。根據伊朗國家電視臺援引阿拉格齊的話報道：“只要美國繼續違反諒解備忘錄，且不就其違約行為作出補救，就不可能恢復談判。”阿拉格齊還表示，伊朗與阿曼就建立一條穿越荷莫茲海峽的航運路線達成協議已“非常接近”。特朗普似乎並不在意，他在週日接受採訪時表示，美國現在正在“低調處理此事”。"
+    },
+    {
+      "id": "mkt:019fe8c4-c603-7aab-8fcc-5b7735d32c78",
+      "time": "2026-08-10 07:03:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【No progress on Strait of Hormuz deal; oil rises on Monday】Oil rose on Monday after Iran and Oman failed to reach an agreement over the weekend to reopen the Strait of Hormuz and Houthi forces claimed an attack on a Saudi refinery near the Red Sea. Brent briefly approached $84/bbl and WTI reached $78.5/bbl, both up nearly 3%. Karobar Capital CIO Haris Khurshid said: \"As long as the market is pricing a possibility of supply disruption rather than certainty of normalization, sentiment will remain bullish. I think geopolitical risk will continue to support crude until we see actual oil flows return to normal.\""
+    },
     {
       "id": "5032714",
       "time": "2026-08-10 07:01:29",
@@ -144811,160 +144832,6 @@
         "國際"
       ],
       "text": "【普睿司曼接近收購美國電氣裝置製造商Atkore】據報道，知情人士透露，總部位於義大利的電纜製造巨頭普睿司曼（Prysmian）深入洽談收購美國電氣裝置製造商Atkore，正敲定這筆全現金收購交易的最後細節，可能會在未來幾天內正式宣佈。"
-    },
-    {
-      "id": "te:economy:571898",
-      "time": "2026-08-03 07:08:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "Australia Manufacturing PMI Revised Upward — The S&P Global Australia Manufacturing PMI was revised higher to 52.0 in July 2026 from the preliminary estimate of 51.7 and after a final reading of 51.5 in the previous month. Still, it marked the strongest expansion since January, as output and new orders returned to growth. The latest reading also signaled a fourth consecutive month of expansion, with output and new orders rising for the first time in five months, although the pace of growth remained only marginal. However, export orders continued to decline, reflecting persistent weakness in external demand. Employment continued to increase for the third consecutive month, with job creation remaining solid and reaching its fastest pace since January, while backlogs of work fell for the fifteenth consecutive month as firms were again able to keep on top of workloads. On prices, input price inflation eased to a five-month low, while output price inflation slowed slightly. Looking ahead, business sentiment improved."
-    },
-    {
-      "id": "5021142",
-      "time": "2026-08-03 07:08:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【從券商調研看下半年投資機遇：硬科技與消費板塊雙向佈局】7月，券商調研頻率維持高位。Choice資料顯示，當月累計有158家券商合計開展了2751次調研，覆蓋513家上市公司。從行業分佈看，電子、機械裝置、基礎化工、醫藥生物、電力裝置穩居調研榜單前五。硬科技公司依然構成券商調研的基本盤，家用電器、農林牧漁、食品飲料等大消費板塊的關注度出現邊際升溫。（上海證券報）"
-    },
-    {
-      "id": "te:economy:571897",
-      "time": "2026-08-03 07:07:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "CoreLogic Dwelling Prices MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Home Prices See Biggest Drop Since 2022 — Australia’s Cotality Home Value Index fell 0.7% month over month in July 2026, marking the sharpest monthly decline since December 2022 as higher borrowing costs, affordability pressures, and weaker consumer sentiment continued to weigh on housing demand. The downturn broadened beyond Sydney and Melbourne, with Brisbane and Adelaide also recording a second straight monthly decline."
-    },
-    {
-      "id": "mkt:019fc4bb-159e-7aab-8f49-e13149e6101d",
-      "time": "2026-08-03 07:07:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Ministry of Finance said it remains vigilant and is in close contact with the US Treasury."
-    },
-    {
-      "id": "5021141",
-      "time": "2026-08-03 07:06:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【暴雨橙色預警繼續：重慶中部等地局地特大暴雨】中央氣象臺8月3日06時繼續釋出暴雨橙色預警：預計，8月3日08時至4日08時，黑龍江西部和南部、河北中北部、北京北部和西部、山西中南部、陝西中南部、河南西部、湖北西部、湖南西北部、四川東北部、重慶中東部、貴州東部和南部、雲南中西部和南部、西藏東南部、廣西東南部沿海、廣東中南部、海南島東北部和南部等地部分地區有大到暴雨，其中，陝西南部、重慶中部、貴州南部、廣西東南部沿海、廣東南部沿海等地部分地區有大暴雨，重慶中部等地局地特大暴雨（250～300毫米）。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
-    },
-    {
-      "id": "mkt:019fc4bb-0061-7aab-8f49-d8a83343b7e4",
-      "time": "2026-08-03 07:06:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's Ministry of Finance said its intervention was aimed at countering recent excessive, disorderly moves in the yen, that it will not hesitate to undertake further FX intervention with the United States, and that it plans to use the Federal Reserve's FIMA repo facility going forward."
-    },
-    {
-      "id": "5021140",
-      "time": "2026-08-03 07:06:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝森特：強烈支援日本的市場和貨幣政策措施。"
-    },
-    {
-      "id": "5021139",
-      "time": "2026-08-03 07:05:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【維立志博：維利信獲國家藥監局IND批准用於治療轉移性結直腸癌】8月3日，維立志博在港交所公告，國家藥監局藥品審評中心（CDE）已批准其自主研發的候選藥物維利信™（PD-L1/4-1BB雙特異性抗體奧帕替蘇米單抗，LBL-024）用於治療轉移性結直腸癌（mCRC）的新藥臨床試驗申請（IND）。該獲批的臨床試驗為一項開放標籤、多中心Ib/II期研究，旨在評估維利信™聯合用藥治療mCRC的安全性及有效性。"
-    },
-    {
-      "id": "5021138",
-      "time": "2026-08-03 07:05:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月新能源車企銷量分化，年度目標完成進度拉開差距】截至8月2日，國內新能源車7月銷量陸續出爐。零跑汽車以101267輛位居新勢力車企第一，成為當月唯一突破10萬輛的新勢力車企；鴻蒙智行交付45046輛，排名第二；小鵬汽車交付38027輛，位列第三，蔚來、極氪和理想緊隨其後。隨著前7個月銷量彙總資料出爐，車企之間的累計交付量和年度目標完成進度進一步拉開差距。（中國證券報）"
-    },
-    {
-      "id": "5021137",
-      "time": "2026-08-03 07:05:51",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、為實現全年發展目標任務夯實基礎——習近平總書記引領“十五五”開局之年中國經濟破浪前行\n2、以法治力度保障民生溫度\n3、圖片報道\n4、矢志追求真理 掌握歷史主動——以高質量發展全面推進中國式現代化的實踐思考\n5、導讀"
-    },
-    {
-      "id": "5021136",
-      "time": "2026-08-03 07:05:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "日本財務大臣片山皋月在宣告中表示：日本將繼續保持警惕，並與美國財政部官員保持密切溝通。"
-    },
-    {
-      "id": "5021135",
-      "time": "2026-08-03 07:05:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【極致行情拷問定力 基金經理反思“受迫交易”】隨著7月科技板塊明顯回落，逆勢佈局紅利、消費等資產的公募基金迎來業績修復。冰火切換的市場行情也留下了反思：火熱賽道極易催生“受迫交易”，基金經理們如何堅守投資框架、抵禦市場噪音？在二季度的極端行情中，科技板塊估值提升、資金湧入、情緒高漲，重倉科技的基金相對收益也節節攀升，不少基金經理被大勢裹挾，“受迫交易”。“看著某個方向漲了很久，周圍人都在討論，研報一篇接一篇，你手裡空著倉位，每一天的上漲都像是對你的嘲諷。你告訴自己，‘再不進場就晚了’。‘再’字一出口，交易就已經不是由你主導的了。”中泰星宇價值成長混合基金經理田瑀說，市場上最稀缺的東西不是資訊，不是認知，也不是資金，而是不做“受迫交易”的能力。（上海證券報）"
-    },
-    {
-      "id": "mkt:019fc4b9-893e-7aab-8f49-d65d2a46cc28",
-      "time": "2026-08-03 07:05:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Bessent says coordinated yen intervention with Japan last Friday】Treasury Secretary Bessent said coordinated FX action with Japan last Friday addressed disorderly yen moves. The Treasury is closely monitoring markets and in close contact with colleagues at Japan’s Ministry of Finance and the Bank of Japan, and will not hesitate to join further joint intervention. He called the FIMA repo facility an important backstop and encouraged expanding its size in the coming months. Bessent said the US strongly supports Japan’s decisive market and monetary measures to correct substantial yen undervaluation."
-    },
-    {
-      "id": "mkt:019fc4b9-8594-7aab-8f49-cf243c1d3c93",
-      "time": "2026-08-03 07:05:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's Ministry of Finance said it conducted a coordinated yen-buying intervention with the United States last Friday, with both governments jointly purchasing yen."
-    },
-    {
-      "id": "5021134",
-      "time": "2026-08-03 07:05:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月A股或進入修復時間視窗 配置迴歸基本面定價邏輯】上週，A股整體呈現震盪分化格局，三大指數全周漲跌幅不一。經歷了7月的波動後，券商策略展望報告普遍認為，政策層面近期釋放出較為明確的穩增長訊號，疊加企業盈利修復與流動性適度寬裕的支撐，市場進一步下探空間有限，8月A股或將進入行情修復的有利時間視窗。具體配置上，機構建議堅持“攻守均衡”：一方面以高股息紅利資產作為底倉，適度把握內需修復的階段性機會；另一方面可以在科技板塊內部篩選盈利兌現更具有確定性的細分領域。（上海證券報）"
-    },
-    {
-      "id": "5021133",
-      "time": "2026-08-03 07:05:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱3日與伊朗談判 以色列自曝“被盟友拋棄”】美國總統特朗普當地時間2日最新表態稱，美國將於3日與伊朗進行談判。美國日前再次上演大變臉，1日稱要對伊朗發動“迄今最猛烈的轟炸”，第二天卻“同意取消打擊”，美總統特朗普“臨陣收兵”，還稱以色列也“加入了他的承諾”。然而多名以色列官員2日透露，以方被排除在決策資訊之外長達數小時，以總理內塔尼亞胡等人均是透過特朗普社媒發文得知美方叫停打擊行動。分析稱，以色列已成為美國對伊談判的一張牌。伊朗已找到直接觸動美國利益關切的方式，以色列對美國決策的影響力正在被稀釋。"
     }
   ]
 }
