@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10 01:36:00",
+  "updated": "2026-08-10 01:40:02",
   "count": 15973,
   "items": [
+    {
+      "id": "5032649",
+      "time": "2026-08-10 01:35:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄國防部稱，防空力量當天在俄羅斯各地區擊落了285架烏克蘭無人機。"
+    },
     {
       "id": "5032648",
       "time": "2026-08-10 01:30:31",
@@ -145458,14 +145466,6 @@
         "國際"
       ],
       "text": "以色列官員估計特朗普可能會再次改變他對伊朗的立場。"
-    },
-    {
-      "id": "mkt:019fc38d-cc84-7aab-8f48-73dfaf5d92d4",
-      "time": "2026-08-03 01:37:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli officials cast doubt on Iran's uranium stockpile and the Trump administration's commitments on Tehran's conduct, the Israeli Broadcasting Corporation said."
     }
   ]
 }
