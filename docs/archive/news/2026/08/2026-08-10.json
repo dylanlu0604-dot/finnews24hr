@@ -1,7 +1,15 @@
 {
   "date": "2026-08-10",
-  "count": 83,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019fe83c-7af2-7aab-8fcb-b9bf2550313d",
+      "time": "2026-08-10 04:35:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen military sources said air defences shot down six Houthi armed drones attempting to strike Mocha port."
+    },
     {
       "id": "mkt:019fe826-f519-7aab-8fcb-b34d971b3789",
       "time": "2026-08-10 04:11:34",
