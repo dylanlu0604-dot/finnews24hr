@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-09 17:50:49",
-  "count": 15969,
+  "updated": "2026-08-09 17:54:50",
+  "count": 15968,
   "items": [
+    {
+      "id": "5032479",
+      "time": "2026-08-09 17:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國廣告協會生成式引擎最佳化（GEO）團體標準第二次徵求意見會議在北京召開】8月6日，中國廣告協會生成式引擎最佳化（GEO）團體標準第二次徵求意見會議在北京召開。中國廣告協會秘書長霍焰、副秘書長崔妍出席會議並深度參與標準研討，來自央視網、抖音集團、阿里巴巴千問大模型、搜狐、360智見、利歐數字、微盟集團、深演智慧、PureblueAI清藍、鈦鎂AI、氧氣科技、沙利文、泰和泰律所、國家廣告研究院等GEO服務企業、網際網路平臺、大模型廠商、主流媒體、專業諮詢機構、律師事務所及學術科研機構等全產業鏈各環節的專家代表參會，圍繞中國廣告協會三項GEO團體標準徵求意見稿展開全面深度研討，為標準完善建言獻策。本次會議對7月8日首次徵求意見以來GEO全產業鏈及監管部門等各方意見進行了全面系統梳理，後續協會將形成送審稿，持續推進標準完善工作，保障標準的權威性、專業性、普適性。"
+    },
     {
       "id": "mkt:019fe5ee-28c1-7aab-8fc9-1deda022eeae",
       "time": "2026-08-09 17:50:18",
@@ -145463,25 +145471,6 @@
         "其他"
       ],
       "text": "【中行上海市分行落地上海市首筆以DR001按日浮動定價試點貸款】記者從中國銀行上海市分行獲悉，近日，中行上海市分行深入落實國家利率市場化改革部署，立足自身金融創新專業能力，成功落地上海市首筆以DR001為定價基準、實行按日浮動機制的企業試點貸款。"
-    },
-    {
-      "id": "5020845",
-      "time": "2026-08-02 17:53:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國最高氣溫創紀錄】據韓國氣象廳訊息，韓國多地8月2日遭遇40攝氏度以上高溫天氣，慶尚南道梁山日間氣溫連續五天超過40攝氏度，2日更升至42.5攝氏度，重新整理韓國最高氣溫紀錄。據韓聯社報道，自1973年以來，韓國日間氣溫連續三天以上達到40攝氏度的情況僅出現過三次。慶尚南道地處韓國南部，該道多地2日創下有氣象觀測記錄以來本地日間氣溫最高紀錄。釜山2日氣溫也超過40攝氏度。綜合韓國媒體報道，隨著高溫天氣出現，中暑患者數量持續增加，多人出現心跳驟停甚至死亡。據韓國疾病管理廳統計，從5月15日至7月31日，全國累計報告中暑病例1781例，其中13人死亡。韓國氣象部門預計，韓國此輪高溫天氣至少還會持續數天。（新華社）"
-    },
-    {
-      "id": "mkt:019fc1e2-a705-7aab-8f46-4b48d8e4b6e3",
-      "time": "2026-08-02 17:51:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper"
-      ],
-      "text": "【Iran copper firm says domestic parts cut €49 mln FX outflow in 2026; plans €76 mln saving in 2027】FarsNews reported National Iranian Copper Industries Co. said localizing equipment and spare-parts production for mine and smelter expansion projects avoided about €49 mln of foreign-exchange outflows in 2026, bringing cumulative savings to roughly €125 mln. The company expects to avoid a further c.€76 mln of FX outflows from 2027 expansion projects. In 2026, 7,557 spare parts were produced domestically, valued at about 9 trillion rial; domestication item count rose 17% and domestic-contract value rose 56% YoY. The company said continued localization will reduce import dependence and boost supply-chain autonomy."
     }
   ]
 }
