@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-09 12:27:49",
-  "count": 15956,
+  "updated": "2026-08-09 12:31:43",
+  "count": 15957,
   "items": [
+    {
+      "id": "mkt:019fe4c8-6dac-7aab-8fc8-041e2b5d7b31",
+      "time": "2026-08-09 12:29:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Shanghai mayor convenes video meeting on Typhoon White Dolphin defenses】Typhoon White Dolphin is approaching; wind and rain impact on Shanghai is intensifying and the flood-control situation is severe. Deputy Party secretary and Mayor Gong Zheng on Aug 9 chaired a video command meeting to re-check, re-deploy and ensure implementation of typhoon defense measures."
+    },
+    {
+      "id": "5032306",
+      "time": "2026-08-09 12:29:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美將外國電力逆變器列入“覆蓋清單”，A股龍頭回應相關影響】美國商務部發布公告，將部分外國電力逆變器產品列入“覆蓋清單”，此舉可能影響相關產品的進口和供應鏈。國內A股逆變器龍頭企業陽光電源回應稱，目前公司出口美國的逆變器產品主要為自研品牌，且美國市場佔比不大，此次清單公佈對公司的直接影響有限。陽光電源表示，公司將繼續關注相關政策動態，積極應對市場變化。（證券時報網）"
+    },
+    {
+      "id": "5032305",
+      "time": "2026-08-09 12:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傳ALO將獨家入駐天貓，天貓官方暫無回應】8月9日，有媒體訊息稱，高階運動生活方式品牌ALO將獨家入駐天貓，於8月12日開出中國內地首家官方旗艦店。這將是ALO進入中國市場後正式開業售賣的第一家官方店鋪，也是其在中國內地唯一的官方電商渠道。對此訊息，《貴圈》欄目向天貓官方進行求證，截至發稿暫無回應。天貓客服則表示，“目前還沒有收到通知。”"
+    },
     {
       "id": "5032302",
       "time": "2026-08-09 12:13:44",
@@ -145355,22 +145387,6 @@
         "XAUUSD"
       ],
       "text": "【Rubio says U.S. strikes make Iran more willing to negotiate】U.S. Secretary of State Rubio told Fox News that Washington’s military strikes have made Iran more willing to negotiate on its nuclear program and the Strait of Hormuz. He said the strikes destroyed Iran’s navy, air force, missile-defense systems, launchers and weapons production facilities and “severely weakened” its defenses; Iran “still has missiles and drones” capable of causing damage but no longer possesses the conventional shield it had planned to hide behind, a shift Rubio said explains why Tehran is now, in some cases, eager to seek agreements while the U.S. deals from a position of strength rather than weakness."
-    },
-    {
-      "id": "5020679",
-      "time": "2026-08-02 12:30:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【倪虹出席2026中國—東盟建設部長圓桌會議】8月1日，2026中國—東盟建設部長圓桌會議在馬來西亞怡保召開。住房城鄉建設部部長倪虹率團出席會議，致開幕辭並作主題發言,介紹了中國住房城鄉建設“十五五”規劃、“好房子”建設、城市更新等方面的經驗和做法。倪虹指出，推動城市高質量發展是中國和東盟的共同目標，中方願繼續秉持睦鄰、安鄰、富鄰、親誠惠容、命運與共的理念方針，進一步加強住房和城市建設領域的合作，攜手共創更具亞太特色、更加璀璨昌盛的城市文明。（中國建設報）"
-    },
-    {
-      "id": "mkt:019fc0bc-78a7-7aab-8f45-2905b3e32657",
-      "time": "2026-08-02 12:30:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China outlines 15th Five‑Year housing plan, pledges deeper China‑ASEAN urban cooperation】On Aug. 1 in Ipoh, Malaysia, Housing and Urban‑Rural Development Minister Ni Hong presented China’s 15th Five‑Year housing and urban development blueprint, highlighting the “Good Housing” construction program and urban renewal initiatives. Ni said China will deepen cooperation with ASEAN on housing and city construction; no implementation or financing details were disclosed."
     }
   ]
 }

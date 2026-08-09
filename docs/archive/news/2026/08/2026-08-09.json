@@ -1,7 +1,39 @@
 {
   "date": "2026-08-09",
-  "count": 336,
+  "count": 339,
   "items": [
+    {
+      "id": "mkt:019fe4c8-6dac-7aab-8fc8-041e2b5d7b31",
+      "time": "2026-08-09 12:29:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "【Shanghai mayor convenes video meeting on Typhoon White Dolphin defenses】Typhoon White Dolphin is approaching; wind and rain impact on Shanghai is intensifying and the flood-control situation is severe. Deputy Party secretary and Mayor Gong Zheng on Aug 9 chaired a video command meeting to re-check, re-deploy and ensure implementation of typhoon defense measures."
+    },
+    {
+      "id": "5032306",
+      "time": "2026-08-09 12:29:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美將外國電力逆變器列入“覆蓋清單”，A股龍頭回應相關影響】美國商務部發布公告，將部分外國電力逆變器產品列入“覆蓋清單”，此舉可能影響相關產品的進口和供應鏈。國內A股逆變器龍頭企業陽光電源回應稱，目前公司出口美國的逆變器產品主要為自研品牌，且美國市場佔比不大，此次清單公佈對公司的直接影響有限。陽光電源表示，公司將繼續關注相關政策動態，積極應對市場變化。（證券時報網）"
+    },
+    {
+      "id": "5032305",
+      "time": "2026-08-09 12:28:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傳ALO將獨家入駐天貓，天貓官方暫無回應】8月9日，有媒體訊息稱，高階運動生活方式品牌ALO將獨家入駐天貓，於8月12日開出中國內地首家官方旗艦店。這將是ALO進入中國市場後正式開業售賣的第一家官方店鋪，也是其在中國內地唯一的官方電商渠道。對此訊息，《貴圈》欄目向天貓官方進行求證，截至發稿暫無回應。天貓客服則表示，“目前還沒有收到通知。”"
+    },
     {
       "id": "5032302",
       "time": "2026-08-09 12:13:44",
