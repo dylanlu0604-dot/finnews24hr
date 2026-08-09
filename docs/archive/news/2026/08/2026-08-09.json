@@ -1,7 +1,22 @@
 {
   "date": "2026-08-09",
-  "count": 342,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:019fe4d3-a891-7aab-8fc8-12b827687da8",
+      "time": "2026-08-09 12:41:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "HSBC preview of US July CPI: expects multiple core inflation components to cool more than expected, pushing both headline and core CPI below market expectations."
+    },
     {
       "id": "5032309",
       "time": "2026-08-09 12:38:19",
