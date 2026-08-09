@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-09 20:23:00",
+  "updated": "2026-08-09 20:31:18",
   "count": 16000,
   "items": [
+    {
+      "id": "5032558",
+      "time": "2026-08-09 20:27:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京君正透過港交所上市聆訊】據港交所檔案，8月9日，北京君正積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
+    {
+      "id": "mkt:019fe67e-3ffa-7aab-8fca-193cb8847e7c",
+      "time": "2026-08-09 20:27:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Beijing Junzheng IPO clears HKEX hearing】According to HKEX filings, on Aug 9 Beijing Junzheng Integrated Circuit Co. updated its post-hearing submission, indicating the company’s IPO has cleared the HKEX hearing."
+    },
+    {
+      "id": "5032557",
+      "time": "2026-08-09 20:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省甬江發生2026年第1號洪水】受今年第13號颱風“白海豚”帶來的降雨影響，8月9日19時5分，浙江省甬江姚江大閘站（浙江寧波）水位漲至1.80米，依據主要江河洪水編號規定，此次洪水編號為“甬江2026年第1號洪水”。水利部緊盯甬江汛情發展態勢，加強雨水情監測預報預警，提前針對浙江省啟動洪水防禦Ⅲ級應急響應，督促地方強化堤防巡查防守，落實落細洪水防禦各項措施，提前轉移危險區群眾，全力確保人民群眾生命安全。目前，水利部工作組正在浙江省颱風暴雨洪水防禦一線協助指導。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019fe679-c0f5-7aab-8fca-1142091cb5ea",
+      "time": "2026-08-09 20:22:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Turkish officials say ship transits to Black Sea remain smooth】Two Turkish government officials said on Sunday that, despite heightened security concerns, vessels are continuing to transit the Turkish Straits to the Black Sea. Turkey had earlier restricted commercial access after attacks on Black Sea ships, including Turkish-flagged vessels, and has repeatedly warned Moscow and Kyiv to take measures to secure navigation; on Saturday Foreign Minister Hakan Fidan said Ankara had urged both sides to declare a suspension of strikes in the Black Sea. The officials, speaking anonymously, said Ankara has implemented temporary measures amid serious security concerns but that passage remains open under the terms of the Montreux Convention."
+    },
     {
       "id": "5032556",
       "time": "2026-08-09 20:20:02",
@@ -145684,38 +145720,6 @@
         "公司"
       ],
       "text": "【超純應材：首次公開發行股票網上申購情況及中籤率公佈】超純應材公告稱，本次發行股份數量為2546.1539萬股，發行價65.99元/股。最終戰略配售數量709.2140萬股，佔比27.85%。網上定價發行有效申購戶數1467.21萬戶，有效申購股數65.17億股。因網上初步有效申購倍數超100倍，啟動回撥機制，367.40萬股由網下回撥至網上。回撥後，網下最終發行934.89萬股，網上最終發行902.05萬股，網上定價發行最終中籤率為0.0138410934%。將於8月4日公佈搖號中籤結果。"
-    },
-    {
-      "id": "5020905",
-      "time": "2026-08-02 20:30:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【全球被動元器件大廠村田業績爆發，新簽訂MLCC電容訂單同比大增85.5%】近日，全球被動元器件大廠村田釋出2026財年第一季（對應自然季度2026年第二季度）財報，受益於AI算力帶動MLCC（片式多層陶瓷電容器）需求爆發，公司各項財務指標大幅增長。公司新簽訂MLCC訂單同比大增85.5%。"
-    },
-    {
-      "id": "5020904",
-      "time": "2026-08-02 20:30:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列高階官員稱並未同意停止襲擊加沙】當地時間8月2日，以色列安全內閣成員、能源部長埃利·科恩當天在接受採訪時明確表示，以色列並未同意停止對加沙地帶的軍事打擊，以安全內閣在過去72小時內也並未就所謂的“加沙停火方案”進行過任何討論。科恩在採訪中稱，“任何參與或涉及襲擊活動的武裝人員都將被以軍消滅”。針對有關多方推動的加沙停火方案，即巴勒斯坦伊斯蘭抵抗運動（哈馬斯）解除武裝、以軍撤出加沙並由技術官僚政府接管加沙地帶的計劃，科恩聲稱，以方願意為該計劃提供成功的“機會”，但是他不相信哈馬斯會真正執行解除武裝。（央視新聞）"
-    },
-    {
-      "id": "5020903",
-      "time": "2026-08-02 20:27:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：阿森松島北部發生 5.3 級地震。"
-    },
-    {
-      "id": "mkt:019fc26e-6305-7aab-8f46-f8f361384348",
-      "time": "2026-08-02 20:24:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Gaza ceasefire pact deepens divisions within Israel】IRNA reports domestic divisions in Israel over the Gaza ceasefire agreement are growing. Former prime minister Ehud Barak said Prime Minister Netanyahu has lost negotiating influence with U.S. President Trump and that Israel has effectively been excluded from decisions on the pact's future."
     }
   ]
 }

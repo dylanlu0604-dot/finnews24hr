@@ -1,7 +1,43 @@
 {
   "date": "2026-08-09",
-  "count": 654,
+  "count": 658,
   "items": [
+    {
+      "id": "mkt:019fe67e-3ffa-7aab-8fca-193cb8847e7c",
+      "time": "2026-08-09 20:27:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Beijing Junzheng IPO clears HKEX hearing】According to HKEX filings, on Aug 9 Beijing Junzheng Integrated Circuit Co. updated its post-hearing submission, indicating the company’s IPO has cleared the HKEX hearing."
+    },
+    {
+      "id": "5032558",
+      "time": "2026-08-09 20:27:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京君正透過港交所上市聆訊】據港交所檔案，8月9日，北京君正積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。"
+    },
+    {
+      "id": "5032557",
+      "time": "2026-08-09 20:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省甬江發生2026年第1號洪水】受今年第13號颱風“白海豚”帶來的降雨影響，8月9日19時5分，浙江省甬江姚江大閘站（浙江寧波）水位漲至1.80米，依據主要江河洪水編號規定，此次洪水編號為“甬江2026年第1號洪水”。水利部緊盯甬江汛情發展態勢，加強雨水情監測預報預警，提前針對浙江省啟動洪水防禦Ⅲ級應急響應，督促地方強化堤防巡查防守，落實落細洪水防禦各項措施，提前轉移危險區群眾，全力確保人民群眾生命安全。目前，水利部工作組正在浙江省颱風暴雨洪水防禦一線協助指導。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019fe679-c0f5-7aab-8fca-1142091cb5ea",
+      "time": "2026-08-09 20:22:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Turkish officials say ship transits to Black Sea remain smooth】Two Turkish government officials said on Sunday that, despite heightened security concerns, vessels are continuing to transit the Turkish Straits to the Black Sea. Turkey had earlier restricted commercial access after attacks on Black Sea ships, including Turkish-flagged vessels, and has repeatedly warned Moscow and Kyiv to take measures to secure navigation; on Saturday Foreign Minister Hakan Fidan said Ankara had urged both sides to declare a suspension of strikes in the Black Sea. The officials, speaking anonymously, said Ankara has implemented temporary measures amid serious security concerns but that passage remains open under the terms of the Montreux Convention."
+    },
     {
       "id": "5032556",
       "time": "2026-08-09 20:20:02",
