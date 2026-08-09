@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-10 00:28:45",
-  "count": 16005,
+  "updated": "2026-08-10 00:32:38",
+  "count": 16004,
   "items": [
+    {
+      "id": "5032629",
+      "time": "2026-08-10 00:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【丹麥霍爾拜克市發生槍擊事件 多人受傷】當地時間8月9日，據丹麥警方訊息，該國霍爾拜克市發生一起槍擊事件，多人受傷。警方表示，在當地時間15時45分左右接到槍擊事件警報。目前尚不清楚具體受傷人數。警方稱，槍擊事件很可能由一起“犯罪團伙交易”引發，目前尚未有人被捕。"
+    },
+    {
+      "id": "mkt:019fe75b-a902-7aab-8fca-e4fdb955363d",
+      "time": "2026-08-10 00:29:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Tesla (TSLA.O) will increase delivery locations in Japan by 60% this year."
+    },
     {
       "id": "5032628",
       "time": "2026-08-10 00:27:08",
@@ -145734,30 +145756,6 @@
         "國際"
       ],
       "text": "【伊朗外長阿拉格齊：與阿曼談判即將敲定】在今日伊朗內閣會議伊始，外交部長阿拉格齊彙報了伊朗與阿曼談判的最新進展。他談及會談取得的成果，並表示談判步入收官階段，有望達成最終協議。"
-    },
-    {
-      "id": "5020974",
-      "time": "2026-08-03 00:32:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：美國的威脅早已司空見慣，德黑蘭將基於自身利益採取行動，不會受各類威脅影響。"
-    },
-    {
-      "id": "mkt:019fc35f-ddb3-7aab-8f47-e9c72b223d92",
-      "time": "2026-08-03 00:32:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s foreign ministry spokesman said U.S. threats are not new and Tehran acts in its own interests, unaffected by such threats."
-    },
-    {
-      "id": "5020973",
-      "time": "2026-08-03 00:32:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：將針對哈尼亞、阿亞圖拉·哈梅內伊遇襲事件實施猛烈、毀滅性報復。"
     }
   ]
 }

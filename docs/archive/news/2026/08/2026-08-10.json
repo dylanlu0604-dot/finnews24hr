@@ -1,7 +1,29 @@
 {
   "date": "2026-08-10",
-  "count": 10,
+  "count": 12,
   "items": [
+    {
+      "id": "5032629",
+      "time": "2026-08-10 00:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【丹麥霍爾拜克市發生槍擊事件 多人受傷】當地時間8月9日，據丹麥警方訊息，該國霍爾拜克市發生一起槍擊事件，多人受傷。警方表示，在當地時間15時45分左右接到槍擊事件警報。目前尚不清楚具體受傷人數。警方稱，槍擊事件很可能由一起“犯罪團伙交易”引發，目前尚未有人被捕。"
+    },
+    {
+      "id": "mkt:019fe75b-a902-7aab-8fca-e4fdb955363d",
+      "time": "2026-08-10 00:29:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources say Tesla (TSLA.O) will increase delivery locations in Japan by 60% this year."
+    },
     {
       "id": "5032628",
       "time": "2026-08-10 00:27:08",
