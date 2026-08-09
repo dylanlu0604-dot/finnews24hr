@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-10 06:52:17",
-  "count": 15925,
+  "updated": "2026-08-10 06:56:04",
+  "count": 15923,
   "items": [
+    {
+      "id": "mkt:019fe8bc-4beb-7aab-8fcc-5604f56acbac",
+      "time": "2026-08-10 06:54:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports a senior U.S. official said the White House views Netanyahu’s statements on a Gaza plan as election-season political posturing and is unconcerned. The White House understands his domestic political pressures and will not object so long as Israel complies with U.S. requests—particularly to limit strikes on Gaza."
+    },
     {
       "id": "5032713",
       "time": "2026-08-10 06:51:05",
@@ -145047,32 +145059,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Stocks Edge Higher to Start the Month — New Zealand's stocks rose 27 points, or 0.2%, to 13,726 in Monday morning trade, erasing losses from the previous session, mainly buoyed by the technology, communication services, and real estate sectors. The broader index tracked gains in US stock futures following an upbeat session on Wall Street on Friday, supported by a rally in technology stocks. However, traders remained cautious ahead of the release of New Zealand's unemployment data due later this week. Caution also prevailed ahead of the release of China's private-sector PMI, after last week's official survey showed the manufacturing sector in New Zealand's top trading partner had returned to contraction. A slew of US data will also be released this week, including jobs data. On the data front, New Zealand building permits dropped 3.6% in June after an upwardly revised 4.9% increase in May. Among the best performers were Chorus (1.4%), Colonial Motor (1.3%), Freightways Group (0.7%), Ebos Group (0.5%), and ANZ Group (0.4%)."
-    },
-    {
-      "id": "mkt:019fc4b0-0425-7aab-8f49-bdccb893ca3b",
-      "time": "2026-08-03 06:54:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Katz announces replacement of senior IDF commander; military says move not coordinated with Chief of Staff Zamir】On the evening of the 2nd (local time) Israeli defense minister Katz told a live TV program he was removing IDF Central Command commander Avi Blut and named Maj. Gen. Dado Bar Kalifa, head of the IDF Personnel Directorate, as his proposed successor. In the early hours of the 3rd the IDF issued a statement rebutting Katz’s announcement, saying the move was made without coordination with IDF Chief of Staff Zamir. The IDF said Chief of Staff Zamir has no intention of replacing commanders in key posts during this sensitive period and that any such decision would follow established approval procedures. Blut has served as Central Command commander since July 2024; the post typically carries a two- to three-year term."
-    },
-    {
-      "id": "5021119",
-      "time": "2026-08-03 06:53:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長宣佈撤換高階將領 以軍方反駁 卡茨辦公室回應】當地時間2日晚間，以色列國防部長卡茨在參加電視直播節目時，公開指責以色列國防軍中央司令部司令阿維·布盧特，並宣佈其接任人選為以軍人力局局長達多·巴爾·卡利法少將。當地時間3日凌晨，以色列國防軍發表宣告，反駁卡茨在電視直播中宣佈撤換布盧特的決定，稱該舉動“未經與以軍總參謀長扎米爾協調”。以軍在宣告中指出：“以軍總參謀長扎米爾無意在當前這一敏感時期更換關鍵職位的指揮官。如果總參謀長做出此類決定，也將嚴格按照既定程式進行審批。”3日凌晨，以國防部長卡茨的辦公室發表宣告稱，關於任命達多·巴爾·卡利法少將為新任以軍中央司令部司令的決定，是採納了以軍總參謀長扎米爾此前的建議。"
-    },
-    {
-      "id": "5021118",
-      "time": "2026-08-03 06:52:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4120美元/盎司，日內漲0.32%。"
     }
   ]
 }

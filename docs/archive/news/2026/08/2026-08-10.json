@@ -1,7 +1,19 @@
 {
   "date": "2026-08-10",
-  "count": 141,
+  "count": 142,
   "items": [
+    {
+      "id": "mkt:019fe8bc-4beb-7aab-8fcc-5604f56acbac",
+      "time": "2026-08-10 06:54:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports a senior U.S. official said the White House views Netanyahu’s statements on a Gaza plan as election-season political posturing and is unconcerned. The White House understands his domestic political pressures and will not object so long as Israel complies with U.S. requests—particularly to limit strikes on Gaza."
+    },
     {
       "id": "5032713",
       "time": "2026-08-10 06:51:05",
