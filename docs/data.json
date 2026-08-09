@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10 03:33:29",
-  "count": 15947,
+  "updated": "2026-08-10 03:37:22",
+  "count": 15942,
   "items": [
+    {
+      "id": "mkt:019fe806-fe4f-7aab-8fcb-7c19778e18e3",
+      "time": "2026-08-10 03:36:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend."
+    },
     {
       "id": "5032656",
       "time": "2026-08-10 03:23:18",
@@ -145209,54 +145217,6 @@
         "MKT News"
       ],
       "text": "【3.3-magnitude quake in Gaoxian County, Yibin (Sichuan); depth 5 km】cenc recorded a 3.3-magnitude earthquake at 03:29 on Aug 3 in Gaoxian County, Yibin, Sichuan (28.55N, 104.67E); hypocenter depth 5 km."
-    },
-    {
-      "id": "mkt:019fc3fb-129b-7aab-8f48-fe058c22ceae",
-      "time": "2026-08-03 03:37:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Morocco's interior ministry said Spain's recent ruling restricting maritime interception and immediate repatriation has encouraged some potential migrants to attempt crossings."
-    },
-    {
-      "id": "5021040",
-      "time": "2026-08-03 03:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥內政部稱，10人在大規模越境進入休達事件中喪生。"
-    },
-    {
-      "id": "5021039",
-      "time": "2026-08-03 03:35:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥內政部表示，西班牙近期限制海上攔截立即遣返的裁決，助長了部分潛在移民的嘗試意願。"
-    },
-    {
-      "id": "mkt:019fc3f9-cac0-7aab-8f48-f3ff24d237aa",
-      "time": "2026-08-03 03:35:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Morocco's Interior Ministry said it will continue coordinating with Spain to combat illegal migration and secure the border."
-    },
-    {
-      "id": "mkt:019fc3f8-7008-7aab-8f48-e808f54079d4",
-      "time": "2026-08-03 03:34:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Morocco's Interior Ministry blamed social-media misinformation and human traffickers for a surge in migrants to Ceuta, saying about 40,000 people attempted to cross into the Spanish enclave."
-    },
-    {
-      "id": "5021038",
-      "time": "2026-08-03 03:33:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "摩洛哥內政部表示，約4萬人試圖進入西班牙飛地休達，另有約1135人試圖進入梅利利亞。"
     }
   ]
 }

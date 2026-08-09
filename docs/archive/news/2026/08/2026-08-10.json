@@ -1,7 +1,15 @@
 {
   "date": "2026-08-10",
-  "count": 57,
+  "count": 58,
   "items": [
+    {
+      "id": "mkt:019fe806-fe4f-7aab-8fcb-7c19778e18e3",
+      "time": "2026-08-10 03:36:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NORAD intercepts two aircraft near Trump Bedminster golf club under FAA temporary flight restriction】NORAD said on Sunday F-16s intercepted two general aviation aircraft over Bedminster, New Jersey, after they violated an FAA temporary flight restriction for the LIV Golf event at Trump National Golf Club. Both aircraft were escorted out of the restricted airspace. The FAA had issued multiple TFRs in the area for the weekend."
+    },
     {
       "id": "5032656",
       "time": "2026-08-10 03:23:18",
