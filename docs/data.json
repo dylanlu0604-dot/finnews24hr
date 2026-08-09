@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-09 14:24:14",
+  "updated": "2026-08-09 14:28:16",
   "count": 15981,
   "items": [
+    {
+      "id": "5032362",
+      "time": "2026-08-09 14:25:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【長鑫科技或被納入全球巨頭資管產品】近日，全球資產管理機構範達高階產品經理John Patrick Lee透露，美國機構投資者開始佈局中國半導體，最早或於9月底將長鑫科技納入範達旗下ETF。 範達成立於1955年，總部位於紐約，是一家由創始家族持有的全球資產管理公司，在紐約、上海、法蘭克福、蘇黎世、阿姆斯特丹、倫敦、悉尼等地設有辦公室，旗下產品涵蓋ETF、共同基金（公募基金）和專戶等。其在中國擁有私募機構範達私募基金管理（上海）有限公司。 截至2026年6月30日，範達全球管理資產規模約2374億美元。它管理著全球規模最大的半導體ETF——SMH，截至8月初，該基金總淨資產約700億美元。今年6月，範達(VanEck)在美國推出首隻聚焦中國半導體的ETF——SMHC。（中國基金報）"
+    },
     {
       "id": "5032361",
       "time": "2026-08-09 14:17:38",
@@ -145573,14 +145582,6 @@
         "國際"
       ],
       "text": "伊朗議會國家安全委員會議員週日表態，美國終將明白快速從中東撤軍才是唯一出路，並警告抵抗力量即便當下蒙受傷亡，未來會在全球各處向美方敵人實施報復。"
-    },
-    {
-      "id": "mkt:019fc125-4b8f-7aab-8f45-801abf4aceb5",
-      "time": "2026-08-02 14:24:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea issues heat emergency; Yangsan records 42.5°C, highest since 1904】South Korea declared a nationwide heat emergency on Sunday as temperatures hit record highs in the southeast. The Korea Meteorological Administration issued a severe heat warning for southern regions at 1:00pm local time. Yangsan in South Gyeongsang province recorded 42.5°C (108.5°F), the highest reading since observations began in 1904. Prime Minister Han Seong-sook ordered agencies to rapidly inform the public using all available channels, including public broadcasting, emergency SMS, electronic signage and village loudspeakers. The Interior Ministry will dispatch bureau-level officials to the Seoul metropolitan area, South Gyeongsang and other southern regions to oversee operations, evaluate local heat-response measures and identify needs for additional support."
     }
   ]
 }
