@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-09 12:55:23",
+  "updated": "2026-08-09 12:59:16",
   "count": 15959,
   "items": [
+    {
+      "id": "mkt:019fe4e3-4dc8-7aab-8fc8-1d1eacf15e69",
+      "time": "2026-08-09 12:58:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says border region hit by large-scale Ukrainian drone attack; 13 injured】On Aug. 9 local time, Belgorod acting governor Shuvaev said the regional capital was struck by a large-scale Ukrainian drone attack, injuring 13 people; explosions set two cars alight and damaged multiple buildings and facilities. The Russian Defence Ministry said on the morning of Aug. 9 that overnight 153 Ukrainian fixed-wing drones were intercepted and destroyed over 18 regions and above the waters of the Azov and Black Seas."
+    },
+    {
+      "id": "5032317",
+      "time": "2026-08-09 12:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《歡迎來龍餐館》映前2天 ，點映及預售總票房破6000萬。"
+    },
+    {
+      "id": "5032316",
+      "time": "2026-08-09 12:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃仁勳帶崩海力士】據報道，英偉達給下一代旗艦GPU Rubin Ultra配上了更省記憶體的方案，HBM規格幾乎砍半，最依賴HBM的SK海力士首當其衝，股價單日暴跌19%。據多個信源，Rubin Ultra的HBM配置從原定12層堆疊約384GB降至8層192GB，降幅近50%，GPU芯粒也從4顆減為2顆，功耗同步下調。英偉達還在評估HBM4e 8層與HBM4 12層等組合，最終規格將在2026年下半年驗證後敲定。海力士為何如此受傷？HBM是儲存晶片中利潤最厚的品類，SK海力士佔據約70%份額，是本輪超級週期最大受益者。機構測算Rubin Ultra約佔2027年全球HBM需求兩成，視訊記憶體砍半相當於全球HBM少賣約一成，直接影響海力士的遠期銷量。"
+    },
     {
       "id": "5032315",
       "time": "2026-08-09 12:54:10",
@@ -145383,30 +145407,6 @@
         "公司"
       ],
       "text": "【世紀華通總裁謝斐：新品投入核心策略是“一切以資料為導向”，2026年將重點發力休閒品類】2026年ChinaJoy舉辦期間，世紀華通總裁謝斐與新浪科技等媒體進行對話。關於未來遊戲新品的方向，謝斐表示：“在新產品投入上，公司始終摒棄主觀判斷與選擇，核心策略是一切以資料為導向，聚焦持續迭代，最佳化產品本身。”她表示，品類佈局方面，2026年公司將重點發力休閒品類。公司在SLG賽道已積累了可觀的規模，休閒品類將成為未來業績的重要增長點。該品類雖起量相對平緩，但一旦實現規模化突破後，流水的穩定性極高，不易出現大幅波動。謝斐透露：“我們的研運體系已經標準化，形成了可以複製的方法論。其次，AI技術融入研運流程後，提升了內容更新的效率，有助於提升使用者留存。”（新浪科技）"
-    },
-    {
-      "id": "5020686",
-      "time": "2026-08-02 12:56:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯當局稱隔夜摧毀了635架烏克蘭無人機。"
-    },
-    {
-      "id": "5020685",
-      "time": "2026-08-02 12:56:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國氣象廳訊息：氣溫創下紀錄。"
-    },
-    {
-      "id": "mkt:019fc0d4-2254-7aab-8f45-41db321f1644",
-      "time": "2026-08-02 12:55:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian authorities said they destroyed 635 Ukrainian drones overnight."
     }
   ]
 }

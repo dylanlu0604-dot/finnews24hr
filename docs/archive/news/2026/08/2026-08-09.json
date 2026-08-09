@@ -1,7 +1,31 @@
 {
   "date": "2026-08-09",
-  "count": 348,
+  "count": 351,
   "items": [
+    {
+      "id": "mkt:019fe4e3-4dc8-7aab-8fc8-1d1eacf15e69",
+      "time": "2026-08-09 12:58:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says border region hit by large-scale Ukrainian drone attack; 13 injured】On Aug. 9 local time, Belgorod acting governor Shuvaev said the regional capital was struck by a large-scale Ukrainian drone attack, injuring 13 people; explosions set two cars alight and damaged multiple buildings and facilities. The Russian Defence Ministry said on the morning of Aug. 9 that overnight 153 Ukrainian fixed-wing drones were intercepted and destroyed over 18 regions and above the waters of the Azov and Black Seas."
+    },
+    {
+      "id": "5032317",
+      "time": "2026-08-09 12:57:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影《歡迎來龍餐館》映前2天 ，點映及預售總票房破6000萬。"
+    },
+    {
+      "id": "5032316",
+      "time": "2026-08-09 12:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃仁勳帶崩海力士】據報道，英偉達給下一代旗艦GPU Rubin Ultra配上了更省記憶體的方案，HBM規格幾乎砍半，最依賴HBM的SK海力士首當其衝，股價單日暴跌19%。據多個信源，Rubin Ultra的HBM配置從原定12層堆疊約384GB降至8層192GB，降幅近50%，GPU芯粒也從4顆減為2顆，功耗同步下調。英偉達還在評估HBM4e 8層與HBM4 12層等組合，最終規格將在2026年下半年驗證後敲定。海力士為何如此受傷？HBM是儲存晶片中利潤最厚的品類，SK海力士佔據約70%份額，是本輪超級週期最大受益者。機構測算Rubin Ultra約佔2027年全球HBM需求兩成，視訊記憶體砍半相當於全球HBM少賣約一成，直接影響海力士的遠期銷量。"
+    },
     {
       "id": "5032315",
       "time": "2026-08-09 12:54:10",
