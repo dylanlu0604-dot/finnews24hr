@@ -1,7 +1,229 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-11 05:51:48_
-_本檔包含 3307 則快訊，約 597793 字_
+_更新時間：2026-08-11 06:53:53_
+_本檔包含 3310 則快訊，約 597946 字_
+
+---
+
+### 2026-08-05 08:26:46  #市場 #國際
+
+【韓國Kospi指數連續第二日上漲 晶片股漲幅居前】韓國Kospi指數一度上漲4.7%，其中晶片股領漲，隔夜美股半導體股大漲以及油價回落改善市場情緒。Kospi指數連續第二天上漲。“受油價下跌、利率走低以及美國半導體股走強等有利宏觀因素支撐，Kospi指數主要板塊可能普遍走強，並進入復甦階段，”NH Investment & Securities韓國現券股票主管Shawn Oh表示。週二費城半導體指數收盤上漲6.6%，博通和美光科技貢獻較大。有報告稱，2027年的儲存晶片產能已經售出，也進一步提振了市場情緒。
+
+---
+
+### 2026-08-05 08:25:45  #國際
+
+韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。
+
+---
+
+### 2026-08-05 08:25:27  #國際
+
+韓國交易所對韓國綜合股價指數(KOSPI)啟動邊車機制。
+
+---
+
+### 2026-08-05 08:24:50  #公司
+
+【谷歌課堂Gemini擴充套件至全年齡段學生，新增情境化引導提示】當地時間8月4日，谷歌宣佈自2026年8月10日起，Google Classroom中的Gemini功能將向全年齡段的K-12及高等教育學生開放，前提是其管理員已授予相關許可權。學生可透過Classroom中的Gemini標籤頁將課程資料轉化為抽認卡、練習測驗等互動學習工具，或將其同步至Gemini Notebook以生成學習指南及音訊概覽。此外，該更新還引入了情境化引導提示功能，允許學生選擇特定課程和作業，直接結合作業要求和教學大綱進行針對性輔導。
+
+---
+
+### 2026-08-05 08:24:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #WTI #US10Y
+
+【Fed's Schmid: Don't ease vigilance after single-month inflation dip】Fed's Schmid said his focus remains on still-elevated inflation and that the Fed defines price stability as 2% inflation. He called June's slowdown encouraging but cautioned it is too early to rely on a single data point; volatile oil prices both boosted inflation in prior months and contributed to June's pullback. With oil prices rising again, any energy-driven easing is uncertain.
+
+---
+
+### 2026-08-05 08:23:53  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+【Kansas City Fed President Schmid: Fed must tighten policy to lower inflation】Kansas City Fed President Schmid said the Fed needs tighter monetary policy to return inflation to its 2% target and that the current stance is not restrictive. He warned inflation remains too high and should not be ignored even if driven by supply shocks, that recent relief in energy prices may be temporary, and that investment in artificial intelligence is pushing up inflation.
+
+---
+
+### 2026-08-05 08:23:30  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei 225 index rose 3.00% intraday to 65,948.00 points.
+
+---
+
+### 2026-08-05 08:22:45  #市場 #國際
+
+日本日經指數上漲3%，至65884.52點。
+
+---
+
+### 2026-08-05 08:22:11  #市場 #央行 #國際
+
+【美聯儲施密德：人工智慧領域的投資也在推高通脹 這是美聯儲無法忽視的】堪薩斯城聯邦儲備銀行行長施密德在講話中警告不要對由供給衝擊引發的通脹掉以輕心，並指出，在唐納德·特朗普總統中東戰爭局勢不斷變化的背景下，近期能源價格上漲帶來的緩解僅是曇花一現。 “儘管6月份最新的通脹資料呈現出令人鼓舞的放緩態勢，但相對於近期趨勢，過分重視單一資料點還為時過早，”這位官員表示，並補充道：“隨著油價再度上漲，能源價格緩解的態勢能持續多久尚不確定。” 施密德還指出，相對於美聯儲2%的目標而言，通脹的基本水平仍然過高，並補充說，人工智慧領域的投資也在推高通脹，這是美聯儲無法忽視的。
+
+---
+
+### 2026-08-05 08:21:50  #央行 #美聯儲
+
+美聯儲施密德稱，人工智慧投資正在推高通脹，美聯儲不應忽視這一點。近期能源價格的緩解可能是暫時的。
+
+---
+
+### 2026-08-05 08:21:19  #Trading Economics #Markets #Commodity #Importance 2
+
+Gold Steadies as Hormuz Deal Eyed — Gold steadied near $4,100 an ounce on Wednesday as investors remained cautious while assessing reports of an imminent deal to reopen the Strait of Hormuz, which could ease inflation concerns and lower the likelihood of near-term Federal Reserve interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz, triggering a sharp decline in oil prices. Markets trimmed expectations for a September Fed rate hike to around 57%, down from 67% a day earlier. Investors are now awaiting a fresh batch of US labor market data for further clues on the Fed’s policy outlook, with ADP’s July private payrolls report due later today. Meanwhile, gold-backed exchange-traded funds in China continued to attract inflows as institutional investors maintained support for bullion above the key $4,000-an-ounce level.
+
+---
+
+### 2026-08-05 08:20:38  #央行 #國際
+
+【美聯儲施密德呼籲收緊貨幣政策，以抑制“過高”的通脹】堪薩斯城聯邦儲備銀行行長傑夫·施密德週二表示，需要採取某種形式的貨幣政策收緊措施，才能將“過高”的通脹率拉回2%的目標水平。“除通脹這一顯著例外外，經濟表現似乎良好，”施密德在即將於該行舉辦的農業問題活動上發表的演講稿中表示。施密德表示：“我的首要關切是通脹”，鑑於近期資料，貨幣政策似乎並未採取緊縮措施來抵禦這些價格壓力。“因此，我認為要將通脹降至美聯儲2%的目標，就需要採取更緊縮的政策。”這位官員目前在負責制定利率的聯邦公開市場委員會（FOMC）中沒有投票權，他並未說明希望美聯儲何時加息或加息幅度。這是施密德自上週FOMC會議以來的首次公開表態。當時，在通脹過高的長期擔憂背景下，官員們投票決定將聯邦基金利率目標區間維持在3.5%至3.75%之間不變。
+
+---
+
+### 2026-08-05 08:19:48  #市場 #觀點 #央行 #國際
+
+【中信證券：預計年內黃金價格將回到上行通道】中信證券研報認為，今年以來黃金價格衝高後迅速下跌，但黃金仍處在大牛市，原因有美國財政赤字加速擴張、逆全球化下地緣裂痕難以彌合、全球央行購金持續託底。因此金價本輪下跌只是牛市中的暫時調整。當前的回撤幅度已逼近歷史極值，4000美元/盎司附近大機率是本輪底部區域。展望後市，預計霍爾木茲海峽局勢對黃金價格的影響將從壓制轉變為助推，美聯儲貨幣政策可能比市場預期更樂觀，疊加美國軍費暴漲推高赤字，預計年內黃金價格將回到上行通道。
+
+---
+
+### 2026-08-05 08:18:42  #Trading Economics #Markets #Australia #currency #Importance 1
+
+Australian Dollar Hits 7-week High — AUDUSD increased to 0.71, the highest since June 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 1.33%, and in the last 12 months, it increased 8.44%.
+
+---
+
+### 2026-08-05 08:18:17  #觀點
+
+【摩根大通據悉擬38億歐元收購法國供熱與冷卻網路運營商Idex】8月5日，據報道，摩根大通正接近達成一項交易，收購Antin旗下的法國供熱與冷卻網路運營商Idex。包括債務在內，該筆交易對Idex的估值約為38億歐元（約合44億美元）。
+
+---
+
+### 2026-08-05 08:17:57  #觀點
+
+【中信證券：傳統主業穩健+AI收入漸顯 美股應用軟體迎來估值修復契機】中信證券研報表示，當下“AI吞噬軟體”敘事正在逐步證偽：龍頭廠商收入與在手訂單仍保持穩健增長，應用軟體基本面尚未出現市場此前擔憂的結構性失速；同時模型廠商透過嵌入CRM、ERP、ITSM和HCM等既有工作流推進企業級落地，傳統軟體廠商的資料、行業知識及客戶服務能力仍構成核心壁壘。短期看，模型同質化屬性提升、軟體企業AI收入佔比提升等有望推動美股軟體板塊估值持續向上修復。中期維度，板塊能否由估值修復走向反轉，仍取決於AI產品能否帶動軟體企業整體營收增速回升，未來1—2個季度可能是重要觀察視窗。
+
+---
+
+### 2026-08-05 08:17:53  #公司 #市場 #國際
+
+日本晶片股大幅上漲，鎧俠股價上漲7.5%，軟銀集團上漲7.8%，愛德萬測試上漲5.8%。
+
+---
+
+### 2026-08-05 08:17:30  #央行 #焦點 #國際
+
+美聯儲施密德：近期能源價格回落可能是暫時的。當前美聯儲政策立場並非限制性。通脹“過高”且“令人擔憂”。人工智慧投資正在推高通脹，美聯儲不應忽視這一點。
+
+---
+
+### 2026-08-05 08:16:47  #市場 #國際
+
+歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.5%，富時指數期貨上漲0.2%。
+
+---
+
+### 2026-08-05 08:16:37  #央行 #美聯儲
+
+美聯儲施密德稱，需要更緊縮的貨幣政策以將通脹恢復至2%的目標。
+
+---
+
+### 2026-08-05 08:16:30  #公司 #觀點
+
+【中信證券：AI硬體品種縮圈 雲與應用吸引力提升】中信證券研報表示，過去一月全球科技板塊迎來了一輪大規模的回撥，覆盤回撥因素，可以看到AI產業的景氣度並沒有發生本質變化，也並未有公司EPS出現下修，基本面仍屬於高企而緊平衡的狀態，但是市場對於漲價的擔憂、Capex ROIC質疑、國產開源模型攪動模型格局與Token價格預期、加息擾動等負面敘事集中爆發，疊加AI硬體交易和倉位的過於擁擠以及槓桿交易逆轉最終引發了市場的踩踏。展望8月，對於整個科技板塊和AI敘事而言，籌碼結構及交易擁擠度的緩解，與上下游利潤分配與議價權的邊際變化仍將是接下來一個月影響科技板塊整體走向的主要因素，板塊大機率進入等待新敘事、科技硬體與軟體進入再平衡的階段。而從細分的交易方向來看，建議關注籌碼結構較好、估值處於低位以及在這輪迴調中整體被錯殺的方向。開源模型能力提升帶動“智慧平權”與“Token平價”，建議首先關注估值仍處於低位且AI應用生態豐富的頭部網際網路公司與雲廠商；硬體縮圈後，擴產鏈優於漲價鏈，仍建議關注景氣仍然向上的國產裝置、FAB；以及估值較低的光通訊賽道和部分中報業績向好的應用公司。
+
+---
+
+### 2026-08-05 08:16:27  #央行 #國際
+
+美聯儲施密德：PCE物價指數是衡量通脹的最佳方式。樂見近期通脹資料，但稱現在判斷通脹是否正在緩解為時過早。經濟整體表現良好，增長具韌性。
+
+---
+
+### 2026-08-05 08:16:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+Fed's Schmid said he is uneasy about assuming any inflation spike will be transitory and that inflation pressures extend beyond energy.
+
+---
+
+### 2026-08-05 08:16:07  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Energy #DXY #Impact bullish #S&P500 #Impact bearish #WTI #Impact mixed
+
+Fed's Schmid said the recent easing in energy prices may be temporary.
+
+---
+
+### 2026-08-05 08:16:04  #MKT News #Market Themes #AI Revolution #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Schmid said AI investment is pushing up inflation and the Fed should not ignore it.
+
+---
+
+### 2026-08-05 08:16:03  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Schmid said the personal consumption expenditures (PCE) price index is the best gauge of inf.
+
+---
+
+### 2026-08-05 08:16:01  #央行 #國際
+
+美聯儲施密德：我們的通脹問題不僅僅關乎能源；對假設通脹飆升將是暫時性的感到不安；就業市場似乎大致平衡。即使通脹由供應衝擊驅動，美聯儲也不應忽視。
+
+---
+
+### 2026-08-05 08:15:58  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Schmid said the Federal Reserve should not ignore inflation, even if it is driven by supply shocks.
+
+---
+
+### 2026-08-05 08:15:47  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's Schmid said the labor market appears broadly balanced.
+
+---
+
+### 2026-08-05 08:15:46  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed official Schmid welcomed recent inflation data but said it is too early to say whether inflation is slowing.
+
+---
+
+### 2026-08-05 08:15:40  #MKT News #Macro & Rates #US Economy #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Copper
+
+Fed's Schmid says the overall economy is performing well and growth is resilient.
+
+---
+
+### 2026-08-05 08:15:39  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Federal Reserve official Schmid said the Fed's current policy stance is not restrictive.
+
+---
+
+### 2026-08-05 08:15:34  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve official Schmid said inf remains too high and is concerning.
+
+---
+
+### 2026-08-05 08:15:21  #MKT News #Important #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Fed’s Schmid said tighter monetary policy is needed to restore inf to the 2% target.
+
+---
+
+### 2026-08-05 08:13:48  #MKT News #USDJPY #Impact bearish
+
+BOJ minutes: one member said Japanese inf could feed through to wages.
+
+---
+
+### 2026-08-05 08:12:11  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Nasdaq100 #Copper
+
+【CSC Financial August sector report: pricing returns to fundamentals, seize growth-repair window】CSC Financial says July saw a broad A-share pullback and deep correction in growth: China's Shanghai Composite Index fell 6.4% and the ChiNext -23.0%, with small-cap growth notably pressured; coal, oil & petrochemicals and banks outperformed. With interim results disclosure and overseas tech shocks abating, market pricing is reverting to fundamentals, creating valuation-repair opportunities in tech growth. Cyclical beaters include tech manufacturing and industrial metals: memory prices continue to rise amid higher cloud-provider capex guidance; industrial-robot output was up 28% YoY and automation capex is being realized; industrial-metal inventories remain low alongside supply constraints, supporting prices. Recommended positioning: target rebounds in July-oversold but still uptrending tech-growth names, while keeping exposure to cyclicals and manufacturing names with clearer earnings improvement.
+
+---
+
+### 2026-08-05 08:11:36  #MKT News #XAUUSD #Impact bullish
+
+【CITIC Securities: $4,000/oz area likely bottom for current gold cycle】CITIC Securities says gold remains in a bull market despite a sharp pullback this year and that the decline is likely a temporary correction. The firm cites accelerating US fiscal deficits, persistent central-bank gold buying and deglobalization-driven geopolitical fractures as structural supports. The current drawdown is approaching historical extremes and around $4,000/oz is a high-probability bottom region. Looking ahead, CITIC expects the Strait of Hormuz dynamic to shift from suppressing to supporting prices, the Fed’s monetary policy may be more optimistic than market pricing, and a surge in US defense spending will widen deficits — together likely returning gold to an upward channel within the year.
 
 ---
 
@@ -19748,224 +19970,5 @@ South Korea | CPI (YoY) (Jul) | actual 2.8% | consensus 3.00% | previous 3.20%
 ### 2026-08-04 06:55:01  #其他
 
 【報道：臺積電熊本一號工廠恢復正常運營】媒體週一援引臺積電訊息稱，臺積電熊本一號工廠在地震後完成檢修與除錯工作，現已恢復正常生產。廠房安全狀況已確認，但地震導致裝置除錯工作出現延誤。
-
----
-
-### 2026-08-04 06:53:06  #其他
-
-【多家險企上半年理賠報告出爐，消費者的獲賠率較高，重疾險和醫療險形成互補】近期多家險企陸續釋出2026年上半年理賠報告。整體來看，消費者的獲賠率較高，重疾險賠付整體佔比較高，但部分險企的醫療險賠付已經超過重疾險；同時，重疾保障缺口依然較為明顯。受訪專家認為，要填補重疾保障缺口，需要險企在產品設計和運營方面持續提升。（證券日報）
-
----
-
-### 2026-08-04 06:52:03  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-New Zealand Shares Track Wall Street Higher — New Zealand's stocks rose 34 points, or 0.3%, to 13,809 in Tuesday morning deals, extending gains from the previous session, tracking rises on Wall Street overnight, supported by a rally in technology stocks and easing oil prices amid hopes of US-Iran peace talks. Moderating oil prices also supported sentiment, easing inflation concerns and tempering expectations of an interest rate hike. However, traders were cautious ahead of the release of New Zealand's unemployment data on Wednesday, with the market expecting it to edge up to 5.4% in Q2. Traders also anticipated the release of a slew of data from the US, including jobs data for guidance on the US economic outlook. Energy, consumer staples, healthcare, and tech sectors mainly boosted the index, with notable gains from Ebos Group (1.9%), A2 Milk (1.0%), Infratil (1.0%), Channel Infrastructure (0.9%), Fisher & Paykel Healthcare (0.8%), and Venti Services Group (0.6%).
-
----
-
-### 2026-08-04 06:51:52  #國際
-
-【俄稱控制兩居民點 烏稱擊退俄軍進攻】俄羅斯國防部3日通報稱，過去一天，俄軍控制了哈爾科夫地區2個居民點，俄黑海艦隊摧毀1艘無人艇。通報還稱，俄軍當天使用無人機繼續打擊服務於烏軍的港口和海上目標，擊中4艘運輸軍用物資的乾貨船，其中2艘在尼古拉耶夫港卸貨時被擊中，另2艘在黑海水域航行時被擊中。烏克蘭武裝部隊總參謀部3日通報稱，過去一天，前線地區發生207次戰鬥，烏軍在多個方向擊退俄軍進攻。烏導彈和炮兵部隊對俄軍兵力集結區、無人機控制點、指揮所發動了打擊，擊落俄軍1657架無人機。此外，俄羅斯方面3日表示，烏軍無人機對弗拉基米爾州、克拉斯諾達爾邊疆區和別爾哥羅德州等地進行襲擊，造成多人死傷。（央視新聞）
-
----
-
-### 2026-08-04 06:48:49  #市場
-
-【券商8月份金股聚焦績優龍頭品種】券商8月份的月度投資策略及月度金股陸續出爐。據記者梳理，截至8月3日發稿，已有22家券商完成8月份金股標的更新，共計篩選出181只個股納入當月金股池。券商本月配置思路趨於均衡，在科技成長、新能源、高階製造、創新藥等多個賽道均有覆蓋，選股重心落在業績確定性強的龍頭品種上，同時兼顧政策催化與估值修復機會。（證券日報）
-
----
-
-### 2026-08-04 06:48:40  #國際
-
-【韓媒：金融動盪衝擊李在明民意支援率】韓國總統李在明3日結束對美國、巴西、智利、阿根廷和德國為期11天的海外訪問，返回韓國。韓媒稱，儘管此行在人工智慧合作、關鍵礦產供應鏈和能源多元化等領域取得一定成果，等待李在明的是“堆積如山”的國內難題。最新民調顯示，李在明施政好評率連續三週下降至45.9%，為就任以來新低。據韓聯社報道，韓國民調機構Realmeter 3日公佈的調查顯示，李在明施政差評首次突破五成，升至50.5%，並首次在誤差範圍外超過好評（45.9%）。該機構認為，股市暴跌、槓桿ETF風波、房地產稅制、修憲連任爭議等因素共同拖累好評率。（環球時報）
-
----
-
-### 2026-08-04 06:46:49  #其他
-
-【城堡證券稱美股牛市驅動因素依然穩固 散戶槓桿押注降溫】城堡證券表示，在散戶投資者投機交易降溫之後，推動美股今年創下紀錄新高的因素依然穩固。“市場正從資金流主導的環境，重新迴歸由盈利、企業需求和宏觀背景主導的環境，”這家做市商的股票及股票衍生品策略主管Scott Rubner在給客戶的報告中寫道。根據城堡證券資料，散戶投資者上週單週股票拋售創2022年以來最大。Rubner表示，散戶拋售主要集中在科技股。Rubner稱，散戶撤退使槓桿型交易所交易基金（ETF）的資產規模下降28%，至1540億美元。與此同時，股票融資成本已經下降，這表明華爾街交易部門面臨的壓力減輕，市場對槓桿資金的需求下降。
-
----
-
-### 2026-08-04 06:45:14  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Depreciates by 1.40% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.40% decrease.
-
----
-
-### 2026-08-04 06:44:28  #國際
-
-提醒：美國政府臨時融資立法草案在參議院透過程式性投票，這為參議院全體表決掃清了障礙。
-
----
-
-### 2026-08-04 06:41:05  #宏觀
-
-【業界預計降準降息可能適時啟用】 多位專家預計，年內降準降息有一定可能和空間。招聯首席經濟學家董希淼表示，從2026年下半年工作會議釋放的訊號來看，逆週期調節力度將明顯加大，下半年穩增長政策加碼，存量政策加快落地，增量政策適時出臺。當前，降準降息均有可能適時啟用。在粵開證券首席經濟學家羅志恆看來，降準降息仍是“儲備工具”，但偏向“相機抉擇”。此外，結構性貨幣政策工具或將繼續“加量降價”。（證券日報）
-
----
-
-### 2026-08-04 06:41:00  #公司 #資料
-
-【Snap分析師電話會議要點總結：預計AR眼鏡面世前將迎來強勁銷售增長】
-一、執行長斯皮格爾（Evan Spiegel）和首席財務官道格·霍特（Doug Hott）向分析師和投資者詳細闡述了公司的財務業績、AI驅動的運營模式、廣告與多元化變現進展，以及下一代增強現實（AR）眼鏡Specs的長期佈局。
-1、營收與利潤顯著改善：Q2營收同比增長19%至16億美元；其中廣告收入增長9%，其他收入飆升85%。毛利率提升至58%。調整後EBITDA達到2.50億美元。
-2、使用者基數持續擴大：月活躍使用者數（MAU）達到9.71億，日活躍使用者數（DAU）達到4.93億。北美DAU在上個季度穩定在9,200萬，且35歲及以上人群增長明顯。
-3、明確的核心財務目標：管理層強調，每股自由現金流（FCF） 將作為公司未來的首要財務指標。公司已連續八個季度實現自由現金流正數，並將透過FCF資金回購股票以抵消股權激勵帶來的稀釋，維持股本穩定。 
- 二、AI賦能的運營與廣告變革。
-1、內部運營效率大幅提升：AI工具的引入顯著提高了研發與客服效率。每位工程師的提交程式碼量同比增加了75%，AI程式碼審查工具覆蓋了90%的Pull Request。AI客服每月處理約390萬個問題，自年初以來將工單量減少了62%。
-2、廣告轉化與自動化效果顯著：AI智慧廣告系列（Smart Campaign）降低了廣告主的獲取成本，應用安裝成本（CPI）下降8%，購買成本下降18%，應用內購買量大增128%。平臺整體廣告轉化量同比暴增56%。AI首次稽核廣告影象的自動化率從去年同期的40%提升至近90%。
-
----
-
-### 2026-08-04 06:40:14  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Surges by 9.41% — Top commodity gainers are Cocoa (9.41%), Rubber (3.74%) and Sugar (2.33%). Biggest losers are Coffee (-3.31%) and Lumber (-2.12%).
-
----
-
-### 2026-08-04 06:36:20  #MKT News #Star Stocks #AMZN.O #Impact bearish #Nasdaq100
-
-Amazon (AMZN.O) fell nearly 2% in after-hours trading.
-
----
-
-### 2026-08-04 06:35:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Iron Ore Falls by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%) and Lithium Carbonate (-2.10%). Gains are led by Silicon (2.52%), Copper (1.22%), Silver (0.90%) and Gold (0.24%).
-
----
-
-### 2026-08-04 06:35:07  #公司 #市場
-
-貝索斯提交股票出售申報後，亞馬遜美股盤後下跌 1.9%。
-
----
-
-### 2026-08-04 06:32:17  #宏觀 #國際
-
-市場訊息：韓國最快將於 8 月出臺住房供給相關措施。
-
----
-
-### 2026-08-04 06:30:13  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Naphtha Slumps by 5.89% — Top commodity losers are Naphtha (-5.89%), Heating Oil (-5.58%), Crude Oil WTI (-5.56%) and Brent Crude Oil (-5.03%). Gains are led by Natural gas (0.87%).
-
----
-
-### 2026-08-04 06:29:55  #公司 #市場 #焦點 #國際
-
-【週二重要財經資訊提醒（以下均為北京時間）】
-① 時間待定 AI產業年度盛會：第二十屆沙利文·GIL峰會開幕（8月4-5日）；
-② 時間待定 FMS 2026快閃記憶體峰會開幕（8月4-6日），三星、SK等儲存巨頭出席；
-③ 歐洲股市開盤之前 英國石油公司BP將釋出業績報告；
-④ 美股盤前 卡特彼勒等將釋出業績報告；
-⑤ 時間待定 美國白宮計劃召集OpenAI、Anthropic、谷歌、Meta等巨頭，討論AI模型安全測試框架；
-⑥ 20:30 美國6月貿易帳，加拿大6月貿易帳；
-⑦ 22:00 美國6月JOLTS職位空缺，6月工廠訂單，6月耐用品訂單終值；
-⑧ 美股盤後 SpaceX釋出美國IPO以來第一份業績報告，AMD等也將釋出業績報告。
-
----
-
-### 2026-08-04 06:29:11  #公司
-
-【“創新+出海”驅動，A股生物醫藥公司盈利能力提升】2026年上半年，A股生物醫藥公司整體盈利能力顯著提升，在韌性發展中交出亮眼的成績單，創新驅動與國內外市場拓展成為業績增長的核心動力。截至8月3日，104家A股生物醫藥公司披露了上半年業績情況（含半年報、業績預告等）。從預告淨利潤增幅下限來看，有67家公司預計淨利潤增長（包括扭虧、減虧）。此外，藥明康德、沃華醫藥、澤璟製藥等10家公司披露半年報，其中7家實現淨利潤同比增長或扭虧。（上證報）
-
----
-
-### 2026-08-04 06:29:06  #公司
-
-【走差異化“出海”路徑，資管機構搶籌港股基石投資】今年以來，廣發基金及廣發國際資管、博時基金（國際）、淡水泉（香港）、大成基金及大成國際資管等中資資管機構全面發力港股IPO國際配售，以基石投資者身份與全球資本同場競技，參與新經濟、硬科技等優質企業發展，提升資管行業的全球競爭力。 據統計，截至7月31日：今年以來廣發基金及廣發國際資管參與25家港股IPO公司國際配售，認購總金額達23.28億港元；高瓴旗下私募證券機構HHLR Advisors參與18家港股IPO公司國際配售，認購總金額達64.96億港元；博時基金（國際）參與5家港股IPO公司國際配售，認購總金額近8億港元。今年以來的港股IPO基石投資者名單中，還有富國基金及富國資產管理（香港）、大成基金及大成國際等，認購金額均超過3億港元。（上證報）
-
----
-
-### 2026-08-04 06:28:50  #其他
-
-【7月浮盈超過400%，公募積極“打新”增厚收益】公募機構近期掀起了一輪“打新”熱潮。7月，在長鑫科技等優質個股的吸引下，百餘家公募機構參與新股網下配售，合計投入近140億元，整體浮盈比例超過400%。隨著硬科技賽道新股的持續增加，“打新”升級為公募的常規選項，多家機構表示將繼續捕捉下半年“打新”機遇。（上證報）
-
----
-
-### 2026-08-04 06:26:57  #公司 #國際
-
-【Coatue對沖基金暴跌8%，創一年多來最大單月跌幅】Coatue Management旗下的對沖基金在7月份暴跌8.3%，成為最新一家因人工智慧（AI）股票大幅拋售而遭遇劇烈震盪的專注科技領域的資金管理公司。據知情人士透露，該基金年初至今的回報率仍為14.3%。此次虧損是Philippe Laffont執掌的該基金一年多來的最差月度表現。截至3月31日，該公司在美國市場的四大重倉多頭頭寸在7月份均遭遇了兩位數的跌幅。
-
----
-
-### 2026-08-04 06:15:38  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bearish
-
-Amazon (AMZN.O) founder Jeff Bezos sold $4.07 billion of stock.
-
----
-
-### 2026-08-04 06:15:13  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Appreciates by 0.95% — Top currency gainers are South Korean Won (0.95%) and Dollar Index (0.08%). Biggest losers are Norwegian Krone (-0.68%), British Pound (-0.40%), Swiss Franc (-0.36%) and Euro (-0.15%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-08-04 06:11:27  #公司
-
-亞馬遜創始人傑夫·貝索斯出售價值 40.7 億美元股票。
-
----
-
-### 2026-08-04 06:08:16  #市場
-
-Coatue旗下對沖基金下跌 8%，創一年多以來最大跌幅。
-
----
-
-### 2026-08-04 06:07:46  #國際
-
-美國參議院投票，有望圍繞臨時性融資草案透過程式性投票，該權宜性融資方案將幫助特朗普的聯邦政府有資金持續運作至12月11日。
-
----
-
-### 2026-08-04 06:07:12  #公司 #市場
-
-【訂單翻倍 業績走強 船舶行業維持高景氣 】自然資源部8月3日釋出全國海洋經濟統計資料顯示，今年上半年，我國海船新承接訂單量、完工量和手持訂單量全面上漲，國際市場份額保持領先，其中新接訂單量同比增長105.2%。船舶行業延續高景氣，今年上半年，我國造船三大指標全面增長，國際市場份額保持全球領先。上市公司半年度業績預告也印證這一趨勢，多家船舶企業上半年業績大幅預增，新增訂單穩步攀升。（中證報）
-
----
-
-### 2026-08-04 06:06:49  #公司
-
-【超百家藥企釋出上半年業績預告 創新藥出海與價值兌現成主線】Wind資料顯示，截至8月3日，A股共有104家醫藥生物公司披露了2026年半年度業績預告。以預計淨利潤上限來看，58家公司預計今年上半年歸母淨利潤實現增長，其中28家預計歸母淨利潤同比增長超100%。分析人士認為，當前創新藥出海與價值兌現成為核心焦點，市場對授權合作的質量要求日趨嚴格，更關注首付款的含金量、合作方的實力及臨床資料的紮實程度。能夠憑藉領先產品實現海外商業化、並具備持續創新能力的藥企將更受市場青睞。（中證報）
-
----
-
-### 2026-08-04 06:06:19  #市場
-
-【8月首個交易日A股超4000只個股上漲 市場或迎來蓄勢上攻 】8月3日，A股市場縮量震盪，深證成指跌近1%，創業板指跌逾1%。核聚變、光伏玻璃、超導等多個板塊活躍，整個A股市場超4000只股票上漲，逾80只股票漲停。整個A股市場成交額為2.01萬億元，較前一個交易日縮量。資金面上，7月股票型ETF資金淨流入超4700億元。8月3日滬深兩市主力資金淨流出超260億元，資金情緒謹慎。分析人士認為，指數仍具備較強的內生穩定性，在政策、產業趨勢與微觀流動性共同支撐下，調整基本告一段落，市場或迎來蓄勢上攻。（中證報）
-
----
-
-### 2026-08-04 06:00:06  #央行 #國際
-
-【美聯儲9月加息25個基點的機率為67.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為32.8%，累計加息25個基點的機率為67.2%。美聯儲到10月維持利率不變的機率為23.3%，累計加息25個基點的機率為57.3%，累計加息50個基點的機率為19.3%。
-
----
-
-### 2026-08-04 06:00:03  #市場 #焦點
-
-紐約期金突破4110美元/盎司，日內漲0.48%。
-
----
-
-### 2026-08-04 05:57:27  #MKT News #Market Themes #Chip Wars
-
-【Major electronic-packaging conference opens in China as capacity expansion accelerates】The 27th International Conference on Electronic Packaging Technology (ICEPT2026) will run Aug. 5-7 in Xi'an, showcasing advanced packaging equipment, materials and test solutions. With global advanced-packaging capacity tight, China’s assembly-and-test sector is launching a large-scale expansion; domestic leaders including JCET, Huatian Technology and Tongfu Microelectronics are expanding advanced-packaging capacity and prioritizing high-end memory, power semiconductors and high-performance computing packaging. The build-out is expected to deepen ecosystem coordination and accelerate domestic self-sufficiency in advanced packaging.
-
----
-
-### 2026-08-04 05:53:35  #其他
-
-禮來發言人：已搭建擴大可及性專案，實現瑞塔魯肽在 FDA 獲批前供患者使用。 正積極稽核醫護機構的申請，計劃在 FDA 獲批前供應正品瑞塔魯肽。
-
----
-
-### 2026-08-04 05:52:50  #國際
-
-【古巴國家電網癱瘓】當地時間8月3日獲悉，當天，古巴國家電網發生癱瘓。受美國製裁影響，古巴長期以來難以進口燃料及發電廠裝置，發電廠裝置老舊難更新，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）
 
 ---

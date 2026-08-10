@@ -1,7 +1,220 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-11 05:51:48_
-_本檔包含 2956 則快訊，約 598771 字_
+_更新時間：2026-08-11 06:53:53_
+_本檔包含 2964 則快訊，約 598179 字_
+
+---
+
+### 2026-08-11 06:48:01  #公司
+
+【郭明錤稱蘋果縮減iPhone18Pro出貨計劃】天風國際證券分析師郭明錤在社交媒體釋出推文，分享了一份行業調查研究報告，指出由於DRAM記憶體短缺，蘋果公司正在縮減2026年的硬體出貨計劃。
+
+---
+
+### 2026-08-11 06:44:59  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Drops by 1.86% — Top crypto losers are Ether (-1.86%) and Bitcoin (-1.41%).
+
+---
+
+### 2026-08-11 06:42:58  #市場 #央行 #國際
+
+【週二財經資訊提醒（以下均為北京時間）】 
+① 全天 日本休市；
+② 12:30 澳洲聯儲公佈利率決議和貨幣政策宣告；
+③ 13:30 澳洲聯儲主席布洛克召開貨幣政策新聞釋出會；
+④ 港股盤後 騰訊音樂釋出業績報告；
+⑤ 時間待定 第六屆全球固態電池年度峰會在美國開幕（8月11-12日）；
+⑥ 22:00 美國7月成屋銷售總數年化；
+⑦ 23:00 美國紐約聯儲釋出信用報告；
+⑧ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；
+⑨ 美股盤後 Lumentum、CoreWeave、超微電腦等釋出業績報告。
+
+---
+
+### 2026-08-11 06:39:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Oat Rises by 4.26% — Top commodity gainers are Oat (4.26%), Barley (2%) and Cocoa (1.99%). Biggest losers are Rice (-1.97%) and Cotton (-0.75%).
+
+---
+
+### 2026-08-11 06:36:09  #其他
+
+OpenAI道德事務負責人入職不到一年後離職。
+
+---
+
+### 2026-08-11 06:35:32  #其他
+
+【土耳其議會透過法案 推動解除庫爾德工人黨武裝】土耳其議會當地時間10日晚透過一項法案，為庫爾德工人黨解除武裝和其成員重新融入社會建立法律框架，標誌著土政府推動結束持續數十年的衝突取得重要進展。該法案規定了實施下一階段庫爾德工人黨解除武裝程序的相關程式，並強調維持司法監督。土政府表示，該法案不構成全面大赦，而是建立有條件的法律機制，為符合條件的庫爾德工人黨成員返回土耳其並接受正式審查提供法律依據。根據規定，未參與嚴重暴力犯罪的低階別庫爾德工人黨成員，在符合條件的情況下，可從伊拉克北部相關據點返回土耳其。上述法案不適用於被關押的庫爾德工人黨領導人阿卜杜拉·厄賈蘭、該組織高階別成員以及正在服無期徒刑且刑罰等級較重的成員。（新華社）
+
+---
+
+### 2026-08-11 06:35:24  #MKT News
+
+【Turkish parliament passes bill creating legal framework to disarm PKK and reintegrate members】Turkish parliament on the evening of the 10th (local time) passed a bill establishing procedures, with judicial oversight, to disarm the PKK (Kurdistan Workers' Party) and reintegrate its members, a move the government described as significant progress toward ending a decades-long conflict. The law is not a blanket amnesty but a conditional mechanism allowing eligible low-level PKK members not involved in serious violent crimes to return from northern Iraq to Turkey and undergo formal review. It excludes imprisoned leader Abdullah Ocalan, senior PKK figures and members serving life or similarly heavy sentences.
+
+---
+
+### 2026-08-11 06:35:01  #國際
+
+美國能源部長賴特：特朗普總統下達振興美國核能產業的指令，正值一個關鍵時期。核能提供可靠電力，為美國的人工智慧領先地位提供支撐；與此同時，人工智慧推動下一代核能技術發展，二者相輔相成，助力美國取得能源主導地位。
+
+---
+
+### 2026-08-11 06:34:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 3.46% — Top commodity gainers are Silver (3.46%), Lithium Carbonate (1.23%) and Gold (1.14%).
+
+---
+
+### 2026-08-11 06:31:32  #市場 #焦點
+
+【ETF總規模逼近5萬億元】今年下半年以來，ETF（交易型開放式指數基金）總規模整體保持增長態勢。Wind資料顯示，截至8月10日，下半年以來ETF份額增加3742億份，達到3.4萬億份；總規模增加2534億元，達到4.99萬億元，距5萬億元僅一步之遙。資料顯示，下半年新發行48只ETF產品，總量達1629只。其中，份額增加最大的主題為金融，有31只基金跟蹤；份額增加最大的指數標的為半導體材料裝置；收益最高的指數標的為黃金股票。（證券日報）
+
+---
+
+### 2026-08-11 06:31:28  #MKT News #Market Regions #Greater China #Market Themes #Chip Wars #Commodities #Precious Metals #MCHI.O #Impact bullish #FXI.O #510300.SS
+
+【China ETF assets approach CNY5.0 trillion】As of Aug 10, China ETF assets reached CNY4.99 trillion, up CNY253.4 billion since the start of H2; ETF units rose 374.2 billion to 3.4 trillion. Forty‑eight new ETFs launched in H2, taking the total to 1,629. Largest net share gains were in financial-themed ETFs (31 funds); the single index with the biggest unit inflows was semiconductor materials & equipment; highest-return index was gold equities. Wind data.
+
+---
+
+### 2026-08-11 06:30:58  #國際
+
+美國聯邦航空管理局預計，8月23日上午10點15分至下午1點15分，里根國家機場將暫停航班執行，以配合華盛頓舉辦的自由250大獎賽街道賽。
+
+---
+
+### 2026-08-11 06:29:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Spikes by 11.32% — Top commodity gainers are Natural Gas EU (11.32%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Crude Oil WTI (5.09%) and Brent Crude Oil (4.98%).
+
+---
+
+### 2026-08-11 06:27:34  #公司
+
+谷歌AI團隊告知求職者，其人力資源篩選系統並不可靠。
+
+---
+
+### 2026-08-11 06:24:54  #其他
+
+【銀行理財機構短期限產品規模增長過快觸發監管提示】近日從業內獲悉，長三角地區一家銀行理財機構因上半年部分產品規模增長較快，收到監管部門提示函。該機構上半年整體規模增幅約為9%，位居行業前列。當前，銀行理財存續規模已達33.6萬億元。在市場擴容過程中，部分機構藉助短期限產品快速吸收資金，但投研能力、資產儲備和流動性管理未必能夠同步跟上。監管部門此次提示，意在推動銀行理財機構合理把握擴張節奏，防範資金期限縮短與資產久期拉長可能形成的錯配風險。（上證報）
+
+---
+
+### 2026-08-11 06:18:21  #公司
+
+利比亞國家石油公司：無人機襲擊扎維耶石油調合廠，未造成設施損毀及人員傷亡。
+
+---
+
+### 2026-08-11 06:16:06  #國際
+
+德國外交部長：敦促伊朗與地區國家及美國開展建設性談判，以推動結束衝突；霍爾木茲海峽必須無條件開放，保障所有船隻自由、安全通行。
+
+---
+
+### 2026-08-11 06:15:18  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Japanese Yen Depreciates by 0.97% — Top currency losers are Japanese Yen (-0.97%), South Korean Won (-0.72%), Swiss Franc (-0.28%) and Euro (-0.14%). Gains are led by Dollar Index (0.27%), Norwegian Krone (0.26%) and British Pound (0.11%).
+
+---
+
+### 2026-08-11 06:15:13  #公司
+
+【保險資管公司群體畫像新出 八千餘人管理資金超38萬億】近日，記者獲悉的行業調研資料顯示，截至2025年末，36家保險資管公司管理總規模為38.42萬億元，較2024年末增長5.12萬億元，增幅15.38%（有同比資料的34家機構，管理規模同比增長11.09%）。其中，管理保險業外資金為6.98萬億元，佔比約18.21%。在業外資金中，銀行資金3.48萬億元，佔比9.07%；養老金（含基本養老金、企業年金、職業年金）合計2.8萬億元，佔比7.31%；其他資金為0.7萬億元。 證券時報記者根據公開資訊梳理發現，2025年末，管理規模達到萬億元以上的保險資管公司增至11家，包括國壽資產、平安資管、泰康資產、太保資產、人保資產、新華資產、太平資產、長江養老、華夏久盈、華泰資產和大家資產。（證券時報）
+
+---
+
+### 2026-08-11 06:14:40  #其他
+
+【存款利率最高漲超30個基點 多家中小銀行逆勢而“上”情非得已】8月以來，湖北、廣東等地多家中小銀行紛紛上調存款利率，引發市場關注。 在宏觀市場利率整體下行、銀行業持續壓降負債成本的背景下，中小銀行針對存款利率“反其道而行之”的做法，實屬不多見。 業內人士認為，此舉具有明顯的階段性攬儲特徵，不具備普適性，且與近期部分國有大行集體重啟五年期大額存單並無直接關聯。（證券時報）
+
+---
+
+### 2026-08-11 06:11:01  #市場
+
+【多路資金買入黃金，機構熱議新“擊球區”出現】黃金近期迎來了一波強勢反攻。8月以來，COMEX黃金期貨價格突破4400美元/盎司關口，黃金ETF被淨申購近20億份，部分FOF、基金投顧等資金也迴流黃金。隨著壓制金價的政策、資金、地緣“三座大山”邊際改善，多家機構判斷黃金已迎來配置“擊球區”，建議關注階段性修復機會。（上證報）
+
+---
+
+### 2026-08-11 06:10:46  #國際
+
+【基輔遭遇彈道導彈襲擊 烏多地釋出防空警報】當地時間11日，烏克蘭基輔市長克利奇科釋出通報，基輔城區出現爆炸聲響，該市正遭受彈道導彈襲擊。目前，首都基輔及烏克蘭多地已啟動防空警戒。烏克蘭空軍提醒民眾，切勿輕視防空警報，彈道導彈威脅仍未消除。
+
+---
+
+### 2026-08-11 06:08:47  #國際
+
+當地官員稱，俄羅斯襲擊基輔引發多處火災。
+
+---
+
+### 2026-08-11 06:07:17  #央行 #國際
+
+【美聯儲9月加息25個基點的機率為51.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為48.8%，累計加息25個基點的機率為51.2%。美聯儲到10月維持利率不變的機率為34.7%，累計加息25個基點的機率為50.5%，累計加息50個基點的機率為14.7%。
+
+---
+
+### 2026-08-11 06:04:33  #公司
+
+利比亞國家石油公司：若襲擊持續，將被迫宣佈不可抗力並完全停止扎維耶煉油廠的運營。
+
+---
+
+### 2026-08-11 06:04:08  #MKT News #WTI #Impact bullish #Brent
+
+Libya's National Oil Corporation said it will be forced to declare force majeure and fully halt operations at the Zawiya refinery if attacks continue.
+
+---
+
+### 2026-08-11 06:04:01  #MKT News #Commodities #Energy
+
+Libya's National Oil Corporation (NOC) said a drone attack struck the Zawiya oil blending plant; there were no casualties or damage. It was the third attack on Zawiya oil assets over Sunday and Monday.
+
+---
+
+### 2026-08-11 06:03:24  #公司
+
+利比亞國家石油公司表示，此次最新無人機襲擊是週日至週一期間針對扎維耶石油設施發生的第三起襲擊。
+
+---
+
+### 2026-08-11 06:00:45  #市場
+
+紐約期銀日內漲1%，現報65.94美元/盎司。
+
+---
+
+### 2026-08-11 06:00:34  #其他
+
+中央氣象臺8月11日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-08-11 05:56:54  #MKT News #Star Stocks #Apple #Market Themes #Chip Wars #Magnificent 7 #AAPL.O #Impact bearish #TSM.N
+
+【Kuo denies TSMC amassed $1 bln of Apple A20 Pro chips awaiting memory】Reports said TSMC (TSM.N) had about $1 bln of A20 Pro (2nm/N2) processors for Apple (AAPL.O) stuck in-factory awaiting memory and unable to complete final packaging. Analyst Ming‑Chi Kuo said Apple did cut hardware shipments this year due to memory shortages, but Apple schedules TSMC processor production at least three months ahead based on expected memory availability rather than having TSMC prebuild large volumes of in‑process inventory. Kuo said he is not aware of TSMC accumulating roughly $1 bln of WIP that must wait for memory before packaging, and given the close supply‑chain coordination and execution at both companies such a scenario would be unusual.
+
+---
+
+### 2026-08-11 05:56:20  #MKT News #WTI #Impact bearish #Brent
+
+【Trump says US forces effectively control Strait of Hormuz, have cleared sea mines】Trump told reporters at the White House on Aug. 10 he will seek compensation from Iran after Tehran demanded reparations following a military clash, repeating earlier social media posts. He said US forces effectively control the Strait of Hormuz and have cleared Iranian-laid sea mines.
+
+---
+
+### 2026-08-11 05:54:50  #國際
+
+【烏克蘭首都基輔響起持續強烈爆炸聲】當地時間11日零時30分至36分，新華社記者在基輔聽到兩輪強烈的持續爆炸聲。基輔市長克利奇科在社交媒體上說，俄軍正在對基輔市發動彈道導彈襲擊。（新華社）
+
+---
+
+### 2026-08-11 05:54:47  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Sustained loud explosions heard in Kyiv】On the 11th at 00:30–00:36 local time, a Xinhua reporter in Kyiv heard two rounds of sustained, loud explosions. Kyiv Mayor Klitschko said on social media that Russian forces are conducting ballistic missile strikes on the city.
 
 ---
 
@@ -17655,161 +17868,5 @@ Saudi outlet Hadath cites Yemeni military sources saying Houthi forces fired 30 
 ### 2026-08-09 21:03:45  #市場 #觀點
 
 【槓桿ETF規模激增放大市場波動，華爾街日內動量交易迎爆發式增長】隨著槓桿ETF資產規模的爆炸式增長，其每日機械性再平衡機制正顯著放大市場波動，進而為華爾街日內動量交易策略創造了新的獲利途徑。當前，半導體等科技板塊已成為此類短期趨勢交易的核心領域。槓桿ETF的運作機制決定了其具有天然的順週期特徵。為維持既定槓桿倍數，此類基金在市場上漲時必須追加買入，下跌時則被迫賣出。在此背景下，專注於高波動資產的日內動量策略迎來了顯著增長。資料顯示，自2024年以來，針對半導體行業的日內動量有效策略數量增長逾兩倍。這類策略透過嚴格的量化規則在價格大幅波動時捕捉短期趨勢，其風險調整後收益遠超美股整體指數表現。摩根大通策略師指出，當前市場的高波動性特徵令人回想起1998年技術革命時期，為日內動量策略提供了極佳的交易環境。
-
----
-
-### 2026-08-09 21:03:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish
-
-【July CPI expectations dip; Citi, BofA split on September hike odds】Refinitiv survey: economists expect US July headline CPI 3.4% YoY (June 3.5%); core CPI 2.5% YoY (June 2.6%). Citi economists say two consecutive months of softer inflation readings would effectively rule out a September rate hike. Citi nonetheless expects core services inflation to tick up 0.3% MoM in July after being flat in May–June. BofA analysts say a rebound in core services could keep a September hike on the table. BofA analyst Kate Duguid adds that if the latter view wins and inflation prints below expectations, a Fed hike could be delayed to December or later.
-
----
-
-### 2026-08-09 21:03:07  #其他
-
-【法國盧瓦爾河水位低 地方政府考慮限制取水】受持續高溫乾旱天氣影響，法國盧瓦爾河水位下降嚴重，一些地方政府正考慮限制從盧瓦爾河取水飲用。 法國商業調頻電視臺9日報道，在大西洋岸盧瓦爾省盧瓦爾奧桑斯，盧瓦爾河水位比2月時低了8到9米。盧瓦爾奧桑斯市長讓-保羅·於埃表示，如果幹旱情況持續得不到改善，該市將限制居民從盧瓦爾河取水飲用。（新華社）
-
----
-
-### 2026-08-09 21:02:50  #公司
-
-【五糧液：公司持續關注低度酒、輕飲酒類的市場消費趨勢】五糧液在互動平臺表示，公司持續關注低度酒、輕飲酒類的市場消費趨勢，目前公司旗下已有29度一見傾心、果酒及氣泡酒等多款適配日常佐餐、多元場景的低度產品。
-
----
-
-### 2026-08-09 20:57:29  #國際
-
-【以色列總理拒絕“和平委員會”提出的加沙和平計劃】以色列總理內塔尼亞胡9日說，以色列拒絕美國發起的所謂“和平委員會”提出的加沙和平計劃，並稱在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）真正解除武裝之前，以軍不會撤出加沙地帶。 據以色列多家媒體報道，內塔尼亞胡當天在每週例行內閣會議開始時說，“以色列拒絕這份包含15點內容的和平計劃”。他說，哈馬斯必須解除武裝，“是所有武器，包括重型武器和輕型武器，是真正解除武裝，而不是虛假的解除武裝”。 內塔尼亞胡說，以色列正與美國進行討論，“他們（美方）有自己的想法，有些我們能接受，有些我們不能接受”。他說，“以軍將繼續挫敗針對以色列軍隊和平民的威脅”。 內塔尼亞胡還說，他永遠不會接受在加沙地帶或約旦河西岸建立巴勒斯坦國。（新華社）
-
----
-
-### 2026-08-09 20:51:58  #公司
-
-【歐菲光：澄清實控人利益輸送傳聞 已要求撤稿追責】歐菲光公告稱，個別媒體報道質疑實控人蔡榮軍向新菲光、新思考利益輸送，經核查為不實內容。公司與二者研發、經營獨立，關聯交易定價公允。近三年與新菲光僅2023年有123.48萬元出租廠房交易；與新思考的關聯交易屬正常經營所需。公司已要求媒體撤稿，停止傳播並報案追責。
-
----
-
-### 2026-08-09 20:47:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Sky News: Yemeni sources say the Houthi group's fourth wave of missile and drone strikes targeted Mocha port and government forces' positions on the city's outskirts.
-
----
-
-### 2026-08-09 20:43:25  #其他
-
-【颱風“白海豚”先後在浙江玉環和樂清登陸】據中央氣象臺訊息，今年第13號颱風“白海豚”（強颱風級）的中心於9日17時30分前後在浙江省台州玉環市坎門街道沿海登陸，登陸時中心附近最大風力有14級（42米/秒），中心最低氣壓為945百帕。登陸玉環後，“白海豚”（颱風級）的中心於9日18時40分前後在溫州樂清市翁垟街道沿海二次登陸。 浙江省氣象臺提醒，颱風“白海豚”登陸後將貫穿浙江，強風暴雨範圍廣、影響時間長，可能引發山洪、地質災害、中小河流洪水和城市積澇等次生災害，需全力做好颱風災害防禦。(新華社)
-
----
-
-### 2026-08-09 20:41:13  #其他
-
-【61%！7月挖掘機出口佔比再破紀錄，出海持續釋放增長動能】7月國內挖掘機出口佔比達61%，同比增逾兩成。中國工程機械工業協會資料顯示，2026年7月，挖掘機主要製造企業銷售各類挖掘機19521臺，同比增長13.9%。這一增速雖較6月的35.3%有所回落，但行業整體向好的勢頭並未改變。其中，國內銷量7608臺，同比增長4.13%；出口11913臺，同比增長21.2%。出口佔比達到61%。
-
----
-
-### 2026-08-09 20:39:08  #國際
-
-【沙特撲滅了吉贊煉油廠的火災】沙特能源部表示，沙烏地阿拉伯於週日凌晨撲滅了其吉贊煉油廠的一場火災。數小時後，葉門胡塞武裝稱對該設施發動了襲擊。沙特能源部在社交平臺上發文稱，此次事件未造成人員傷亡，但未提供火災原因的細節。宣告補充道，相關部門”正在完成處理該事件所需的必要程式”。隨後，葉門受伊朗支援的胡塞叛軍組織宣稱對吉贊發動了襲擊，該組織軍事發言人在平臺上也釋出了相關宣告。
-
----
-
-### 2026-08-09 20:38:58  #公司 #市場
-
-【超純應材：股票將於2026年8月11日在創業板上市】超純應材公告稱，公司發行的人民幣普通股股票將於2026年8月11日在深交所創業板上市，股票簡稱“超純應材”，股票程式碼301717。首次公開發行後總股本10,184.6154萬股，發行股票數量2,546.1539萬股。公司提醒投資者注意上市初期的投資風險，如漲跌幅限制放寬、流通股數量少、發行市盈率差異、非理性炒作、融資融券、跌破發行價、淨資產收益率下降等風險。
-
----
-
-### 2026-08-09 20:38:38  #公司
-
-【超純應材：獲深交所上市同意，股票程式碼301717】超純應材公告稱，其首次公開發行A股股票並在創業板上市已獲內部批准和授權，深交所上市稽核委員會於2026年4月30日審議透過，中國證監會於5月18日同意註冊，深交所於8月7日同意上市，證券程式碼為“301717”。發行前股本總額7638.4615萬元，發行後為10184.6154萬元。本次公開發行2546.1539萬股，佔比不低於25%。公司由華泰聯合證券保薦，袁琳翕、張冠峰為保薦代表人。
-
----
-
-### 2026-08-09 20:35:16  #國際
-
-【美國“外行任大使”現象惹質疑】美國《華盛頓郵報》近期梳理了本屆美國總統任期內已任命或提名的駐外大使名單，發現其中絕大多數要麼是助選的“金主”，要麼是政治方面的“忠實擁躉”。該報認為，這種做法違背了數十年來主要從職業外交官中挑選駐外大使的美國傳統。《華盛頓郵報》6日發表的這篇報道援引美國外交人員協會的資料，比較了自福特總統之後歷任美國總統任內國會中期選舉年份的駐外大使崗位情況。資料顯示，截至今年7月中旬的本屆美國政府任期內，在任大使90人，其中僅25人為職業外交官出身，佔比不到三分之一，其餘65人屬於“政治任命”；尚有102個大使崗位空缺，超過崗位總數一半，其中72個崗位未提名人選，另外30名大使候選人正等待國會參議院批准。（新華社）
-
----
-
-### 2026-08-09 20:27:41  #公司
-
-【北京君正透過港交所上市聆訊】據港交所檔案，8月9日，北京君正積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
-
----
-
-### 2026-08-09 20:27:41  #MKT News #Market Themes #Chip Wars
-
-【Beijing Junzheng IPO clears HKEX hearing】According to HKEX filings, on Aug 9 Beijing Junzheng Integrated Circuit Co. updated its post-hearing submission, indicating the company’s IPO has cleared the HKEX hearing.
-
----
-
-### 2026-08-09 20:24:38  #其他
-
-【浙江省甬江發生2026年第1號洪水】受今年第13號颱風“白海豚”帶來的降雨影響，8月9日19時5分，浙江省甬江姚江大閘站（浙江寧波）水位漲至1.80米，依據主要江河洪水編號規定，此次洪水編號為“甬江2026年第1號洪水”。水利部緊盯甬江汛情發展態勢，加強雨水情監測預報預警，提前針對浙江省啟動洪水防禦Ⅲ級應急響應，督促地方強化堤防巡查防守，落實落細洪水防禦各項措施，提前轉移危險區群眾，全力確保人民群眾生命安全。目前，水利部工作組正在浙江省颱風暴雨洪水防禦一線協助指導。 (央視新聞)
-
----
-
-### 2026-08-09 20:22:46  #MKT News #Market Regions #Europe & UK
-
-【Turkish officials say ship transits to Black Sea remain smooth】Two Turkish government officials said on Sunday that, despite heightened security concerns, vessels are continuing to transit the Turkish Straits to the Black Sea. Turkey had earlier restricted commercial access after attacks on Black Sea ships, including Turkish-flagged vessels, and has repeatedly warned Moscow and Kyiv to take measures to secure navigation; on Saturday Foreign Minister Hakan Fidan said Ankara had urged both sides to declare a suspension of strikes in the Black Sea. The officials, speaking anonymously, said Ankara has implemented temporary measures amid serious security concerns but that passage remains open under the terms of the Montreux Convention.
-
----
-
-### 2026-08-09 20:20:02  #市場
-
-本週兩融餘額增幅最大：金徽股份兩融餘額：0.34億元，餘額增幅：192.49%；永安期貨兩融餘額：0.34億元，餘額增幅：59.27%
-
----
-
-### 2026-08-09 20:19:53  #市場 #國際
-
-【招商證券： 在經歷7月的快速調整後，A股反彈視窗已經開啟 】招商證券釋出最新研報稱，外部維度，特朗普對伊朗強硬後再度TACO，疊加美國就業資料意外偏冷打壓加息預期，全球風險偏好修復。2018年以來，美國多次對非美國家科技產品實施限制。從歷史樣本的交易節奏看，歷次爭端發生之後一般呈現“短期風險集中釋放”→“雙方博弈，震盪磨底”→“重回基本面定價”的三步演繹路徑。長期股價終將回歸基本面，盈利持續增長是消化風險溢價的根本路徑。內部維度，上週融資資金活躍度回升、擔保比例修復、槓桿資金邊際淨流入，股票型ETF則在市場改善後轉為淨流出，兩者拐點附近反向切換，市場正從ETF託底向融資接力過渡。展望後市，市場情緒有望逐漸回暖並重拾上行趨勢，融資資金活躍度有望繼續回升。總體來看，在經歷7月的快速調整後，A股反彈視窗已經開啟，風格方面推薦創業板指、科創50、中證1000等成長類指數；賽道緊盯海外算力、國產算力、黃金修復；行業沿科技創新+企業出海+傳統低估值再平衡三線均衡佈局，建議重點關注電子、電力裝置、化學制藥、有色金屬、煤炭、非銀金融等。
-
----
-
-### 2026-08-09 20:15:56  #MKT News
-
-Syrian Foreign Ministry said Syria and Russia will begin restructuring Russia's coastal presence in Syria under a memorandum framework, the Syrian state news agency SANA reported.
-
----
-
-### 2026-08-09 20:15:46  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Houthi forces may be planning to retake strategic Yemeni port】Al Jazeera said airstrikes over the past week surprised Yemeni government forces and struck locations not hit in years, including Al-Makha port in western Taiz province. Houthi spokesman Yahya Saree said the operation used dozens of missiles and Yemeni drones against what the group called Saudi forces at Al-Makha and described it as a large-scale destructive action; the Houthis said the strikes responded to Saudi use of the port to reinforce and resupply pro-government troops in Taiz. Al-Makha provides strategic access to the southern Red Sea and visibility on tanker and ship movements from the Arabian Sea; the Houthis’ statements indicate they may be preparing to retake the port.
-
----
-
-### 2026-08-09 20:13:29  #MKT News
-
-SANA reported Syria's foreign ministry said Damascus and Moscow have reached a memorandum of understanding after 18 months of intensive negotiations to resolve the future status of Russian bases at Tartus and Hmeimim.
-
----
-
-### 2026-08-09 20:12:35  #國際
-
-據敘利亞官方媒體：敘利亞外交部表示，大馬士革與莫斯科已達成諒解備忘錄，解決塔爾圖斯和赫梅米姆的俄羅斯基地未來問題。關於俄羅斯基地的協議經過18個月的密集談判達成。
-
----
-
-### 2026-08-09 20:10:18  #其他
-
-【瑞典新研究：RNA預處理可助提升胰島移植效率】瑞典卡羅琳醫學院的研究人員最新開發出一種靶向核糖核酸（RNA）技術，可在胰島移植前對胰島細胞進行短暫預處理，使其移植後能更快地重建血液供應，並有望減少移植所需的供體胰島數量。對糖尿病小鼠進行的實驗證實，與移植未經處理胰島的小鼠相比，移植預處理胰島的小鼠體內，存活並能保持功能的胰島β細胞數量更多，血糖控制情況也更好。研究人員認為，如果進一步研究證實安全有效，這種RNA預處理技術有望提高有限供體胰島的利用效率，使更多患者受益。此外，該技術也有可能用於改善其他型別的細胞移植效果。相關研究成果已發表在國際學術期刊《訊號轉導與靶向治療》上。（新華社）
-
----
-
-### 2026-08-09 20:09:04  #MKT News
-
-Yemeni government media said the Hodeidah governor survived a Houthi missile attack that targeted his residence in Al-Hokh.
-
----
-
-### 2026-08-09 20:08:17  #其他
-
-葉門官方媒體：荷臺達省省長的住所遭到胡塞武裝使用彈道導彈襲擊 ，省長本人安然無恙。
-
----
-
-### 2026-08-09 20:06:57  #MKT News #Market Regions #Greater China
-
-【Fliggy activates emergency response for Typhoon 'White Dolphin'; offers free hotel refunds in Zhejiang, Fujian, Anhui】Fliggy said on Aug 9 it has activated an emergency response for Typhoon 'White Dolphin'. For bookings made before 00:00 on Aug 9 it will allow no-penalty refunds or changes for: Zhejiang hotels with check-ins Aug 9–10; Huangshan, Anhui hotels with check-ins Aug 9–11; and Lianjiang, Fujian hotels with check-ins on Aug 9. Consumers forced to cancel or alter travel by the typhoon can apply to Fliggy for lossless refunds/changes; Fliggy will cover refund/change losses.
 
 ---

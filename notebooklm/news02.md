@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-11 05:51:48_
-_本檔包含 3118 則快訊，約 598354 字_
+_更新時間：2026-08-11 06:53:53_
+_本檔包含 3105 則快訊，約 597854 字_
+
+---
+
+### 2026-08-09 21:03:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish
+
+【July CPI expectations dip; Citi, BofA split on September hike odds】Refinitiv survey: economists expect US July headline CPI 3.4% YoY (June 3.5%); core CPI 2.5% YoY (June 2.6%). Citi economists say two consecutive months of softer inflation readings would effectively rule out a September rate hike. Citi nonetheless expects core services inflation to tick up 0.3% MoM in July after being flat in May–June. BofA analysts say a rebound in core services could keep a September hike on the table. BofA analyst Kate Duguid adds that if the latter view wins and inflation prints below expectations, a Fed hike could be delayed to December or later.
+
+---
+
+### 2026-08-09 21:03:07  #其他
+
+【法國盧瓦爾河水位低 地方政府考慮限制取水】受持續高溫乾旱天氣影響，法國盧瓦爾河水位下降嚴重，一些地方政府正考慮限制從盧瓦爾河取水飲用。 法國商業調頻電視臺9日報道，在大西洋岸盧瓦爾省盧瓦爾奧桑斯，盧瓦爾河水位比2月時低了8到9米。盧瓦爾奧桑斯市長讓-保羅·於埃表示，如果幹旱情況持續得不到改善，該市將限制居民從盧瓦爾河取水飲用。（新華社）
+
+---
+
+### 2026-08-09 21:02:50  #公司
+
+【五糧液：公司持續關注低度酒、輕飲酒類的市場消費趨勢】五糧液在互動平臺表示，公司持續關注低度酒、輕飲酒類的市場消費趨勢，目前公司旗下已有29度一見傾心、果酒及氣泡酒等多款適配日常佐餐、多元場景的低度產品。
+
+---
+
+### 2026-08-09 20:57:29  #國際
+
+【以色列總理拒絕“和平委員會”提出的加沙和平計劃】以色列總理內塔尼亞胡9日說，以色列拒絕美國發起的所謂“和平委員會”提出的加沙和平計劃，並稱在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）真正解除武裝之前，以軍不會撤出加沙地帶。 據以色列多家媒體報道，內塔尼亞胡當天在每週例行內閣會議開始時說，“以色列拒絕這份包含15點內容的和平計劃”。他說，哈馬斯必須解除武裝，“是所有武器，包括重型武器和輕型武器，是真正解除武裝，而不是虛假的解除武裝”。 內塔尼亞胡說，以色列正與美國進行討論，“他們（美方）有自己的想法，有些我們能接受，有些我們不能接受”。他說，“以軍將繼續挫敗針對以色列軍隊和平民的威脅”。 內塔尼亞胡還說，他永遠不會接受在加沙地帶或約旦河西岸建立巴勒斯坦國。（新華社）
+
+---
+
+### 2026-08-09 20:51:58  #公司
+
+【歐菲光：澄清實控人利益輸送傳聞 已要求撤稿追責】歐菲光公告稱，個別媒體報道質疑實控人蔡榮軍向新菲光、新思考利益輸送，經核查為不實內容。公司與二者研發、經營獨立，關聯交易定價公允。近三年與新菲光僅2023年有123.48萬元出租廠房交易；與新思考的關聯交易屬正常經營所需。公司已要求媒體撤稿，停止傳播並報案追責。
+
+---
+
+### 2026-08-09 20:47:48  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Sky News: Yemeni sources say the Houthi group's fourth wave of missile and drone strikes targeted Mocha port and government forces' positions on the city's outskirts.
+
+---
+
+### 2026-08-09 20:43:25  #其他
+
+【颱風“白海豚”先後在浙江玉環和樂清登陸】據中央氣象臺訊息，今年第13號颱風“白海豚”（強颱風級）的中心於9日17時30分前後在浙江省台州玉環市坎門街道沿海登陸，登陸時中心附近最大風力有14級（42米/秒），中心最低氣壓為945百帕。登陸玉環後，“白海豚”（颱風級）的中心於9日18時40分前後在溫州樂清市翁垟街道沿海二次登陸。 浙江省氣象臺提醒，颱風“白海豚”登陸後將貫穿浙江，強風暴雨範圍廣、影響時間長，可能引發山洪、地質災害、中小河流洪水和城市積澇等次生災害，需全力做好颱風災害防禦。(新華社)
+
+---
+
+### 2026-08-09 20:41:13  #其他
+
+【61%！7月挖掘機出口佔比再破紀錄，出海持續釋放增長動能】7月國內挖掘機出口佔比達61%，同比增逾兩成。中國工程機械工業協會資料顯示，2026年7月，挖掘機主要製造企業銷售各類挖掘機19521臺，同比增長13.9%。這一增速雖較6月的35.3%有所回落，但行業整體向好的勢頭並未改變。其中，國內銷量7608臺，同比增長4.13%；出口11913臺，同比增長21.2%。出口佔比達到61%。
+
+---
+
+### 2026-08-09 20:39:08  #國際
+
+【沙特撲滅了吉贊煉油廠的火災】沙特能源部表示，沙烏地阿拉伯於週日凌晨撲滅了其吉贊煉油廠的一場火災。數小時後，葉門胡塞武裝稱對該設施發動了襲擊。沙特能源部在社交平臺上發文稱，此次事件未造成人員傷亡，但未提供火災原因的細節。宣告補充道，相關部門”正在完成處理該事件所需的必要程式”。隨後，葉門受伊朗支援的胡塞叛軍組織宣稱對吉贊發動了襲擊，該組織軍事發言人在平臺上也釋出了相關宣告。
+
+---
+
+### 2026-08-09 20:38:58  #公司 #市場
+
+【超純應材：股票將於2026年8月11日在創業板上市】超純應材公告稱，公司發行的人民幣普通股股票將於2026年8月11日在深交所創業板上市，股票簡稱“超純應材”，股票程式碼301717。首次公開發行後總股本10,184.6154萬股，發行股票數量2,546.1539萬股。公司提醒投資者注意上市初期的投資風險，如漲跌幅限制放寬、流通股數量少、發行市盈率差異、非理性炒作、融資融券、跌破發行價、淨資產收益率下降等風險。
+
+---
+
+### 2026-08-09 20:38:38  #公司
+
+【超純應材：獲深交所上市同意，股票程式碼301717】超純應材公告稱，其首次公開發行A股股票並在創業板上市已獲內部批准和授權，深交所上市稽核委員會於2026年4月30日審議透過，中國證監會於5月18日同意註冊，深交所於8月7日同意上市，證券程式碼為“301717”。發行前股本總額7638.4615萬元，發行後為10184.6154萬元。本次公開發行2546.1539萬股，佔比不低於25%。公司由華泰聯合證券保薦，袁琳翕、張冠峰為保薦代表人。
+
+---
+
+### 2026-08-09 20:35:16  #國際
+
+【美國“外行任大使”現象惹質疑】美國《華盛頓郵報》近期梳理了本屆美國總統任期內已任命或提名的駐外大使名單，發現其中絕大多數要麼是助選的“金主”，要麼是政治方面的“忠實擁躉”。該報認為，這種做法違背了數十年來主要從職業外交官中挑選駐外大使的美國傳統。《華盛頓郵報》6日發表的這篇報道援引美國外交人員協會的資料，比較了自福特總統之後歷任美國總統任內國會中期選舉年份的駐外大使崗位情況。資料顯示，截至今年7月中旬的本屆美國政府任期內，在任大使90人，其中僅25人為職業外交官出身，佔比不到三分之一，其餘65人屬於“政治任命”；尚有102個大使崗位空缺，超過崗位總數一半，其中72個崗位未提名人選，另外30名大使候選人正等待國會參議院批准。（新華社）
+
+---
+
+### 2026-08-09 20:27:41  #公司
+
+【北京君正透過港交所上市聆訊】據港交所檔案，8月9日，北京君正積體電路股份有限公司更新聆訊後資料集，意味著該公司港交所IPO透過聆訊。
+
+---
+
+### 2026-08-09 20:27:41  #MKT News #Market Themes #Chip Wars
+
+【Beijing Junzheng IPO clears HKEX hearing】According to HKEX filings, on Aug 9 Beijing Junzheng Integrated Circuit Co. updated its post-hearing submission, indicating the company’s IPO has cleared the HKEX hearing.
+
+---
+
+### 2026-08-09 20:24:38  #其他
+
+【浙江省甬江發生2026年第1號洪水】受今年第13號颱風“白海豚”帶來的降雨影響，8月9日19時5分，浙江省甬江姚江大閘站（浙江寧波）水位漲至1.80米，依據主要江河洪水編號規定，此次洪水編號為“甬江2026年第1號洪水”。水利部緊盯甬江汛情發展態勢，加強雨水情監測預報預警，提前針對浙江省啟動洪水防禦Ⅲ級應急響應，督促地方強化堤防巡查防守，落實落細洪水防禦各項措施，提前轉移危險區群眾，全力確保人民群眾生命安全。目前，水利部工作組正在浙江省颱風暴雨洪水防禦一線協助指導。 (央視新聞)
+
+---
+
+### 2026-08-09 20:22:46  #MKT News #Market Regions #Europe & UK
+
+【Turkish officials say ship transits to Black Sea remain smooth】Two Turkish government officials said on Sunday that, despite heightened security concerns, vessels are continuing to transit the Turkish Straits to the Black Sea. Turkey had earlier restricted commercial access after attacks on Black Sea ships, including Turkish-flagged vessels, and has repeatedly warned Moscow and Kyiv to take measures to secure navigation; on Saturday Foreign Minister Hakan Fidan said Ankara had urged both sides to declare a suspension of strikes in the Black Sea. The officials, speaking anonymously, said Ankara has implemented temporary measures amid serious security concerns but that passage remains open under the terms of the Montreux Convention.
+
+---
+
+### 2026-08-09 20:20:02  #市場
+
+本週兩融餘額增幅最大：金徽股份兩融餘額：0.34億元，餘額增幅：192.49%；永安期貨兩融餘額：0.34億元，餘額增幅：59.27%
+
+---
+
+### 2026-08-09 20:19:53  #市場 #國際
+
+【招商證券： 在經歷7月的快速調整後，A股反彈視窗已經開啟 】招商證券釋出最新研報稱，外部維度，特朗普對伊朗強硬後再度TACO，疊加美國就業資料意外偏冷打壓加息預期，全球風險偏好修復。2018年以來，美國多次對非美國家科技產品實施限制。從歷史樣本的交易節奏看，歷次爭端發生之後一般呈現“短期風險集中釋放”→“雙方博弈，震盪磨底”→“重回基本面定價”的三步演繹路徑。長期股價終將回歸基本面，盈利持續增長是消化風險溢價的根本路徑。內部維度，上週融資資金活躍度回升、擔保比例修復、槓桿資金邊際淨流入，股票型ETF則在市場改善後轉為淨流出，兩者拐點附近反向切換，市場正從ETF託底向融資接力過渡。展望後市，市場情緒有望逐漸回暖並重拾上行趨勢，融資資金活躍度有望繼續回升。總體來看，在經歷7月的快速調整後，A股反彈視窗已經開啟，風格方面推薦創業板指、科創50、中證1000等成長類指數；賽道緊盯海外算力、國產算力、黃金修復；行業沿科技創新+企業出海+傳統低估值再平衡三線均衡佈局，建議重點關注電子、電力裝置、化學制藥、有色金屬、煤炭、非銀金融等。
+
+---
+
+### 2026-08-09 20:15:56  #MKT News
+
+Syrian Foreign Ministry said Syria and Russia will begin restructuring Russia's coastal presence in Syria under a memorandum framework, the Syrian state news agency SANA reported.
+
+---
+
+### 2026-08-09 20:15:46  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Houthi forces may be planning to retake strategic Yemeni port】Al Jazeera said airstrikes over the past week surprised Yemeni government forces and struck locations not hit in years, including Al-Makha port in western Taiz province. Houthi spokesman Yahya Saree said the operation used dozens of missiles and Yemeni drones against what the group called Saudi forces at Al-Makha and described it as a large-scale destructive action; the Houthis said the strikes responded to Saudi use of the port to reinforce and resupply pro-government troops in Taiz. Al-Makha provides strategic access to the southern Red Sea and visibility on tanker and ship movements from the Arabian Sea; the Houthis’ statements indicate they may be preparing to retake the port.
+
+---
+
+### 2026-08-09 20:13:29  #MKT News
+
+SANA reported Syria's foreign ministry said Damascus and Moscow have reached a memorandum of understanding after 18 months of intensive negotiations to resolve the future status of Russian bases at Tartus and Hmeimim.
+
+---
+
+### 2026-08-09 20:12:35  #國際
+
+據敘利亞官方媒體：敘利亞外交部表示，大馬士革與莫斯科已達成諒解備忘錄，解決塔爾圖斯和赫梅米姆的俄羅斯基地未來問題。關於俄羅斯基地的協議經過18個月的密集談判達成。
+
+---
+
+### 2026-08-09 20:10:18  #其他
+
+【瑞典新研究：RNA預處理可助提升胰島移植效率】瑞典卡羅琳醫學院的研究人員最新開發出一種靶向核糖核酸（RNA）技術，可在胰島移植前對胰島細胞進行短暫預處理，使其移植後能更快地重建血液供應，並有望減少移植所需的供體胰島數量。對糖尿病小鼠進行的實驗證實，與移植未經處理胰島的小鼠相比，移植預處理胰島的小鼠體內，存活並能保持功能的胰島β細胞數量更多，血糖控制情況也更好。研究人員認為，如果進一步研究證實安全有效，這種RNA預處理技術有望提高有限供體胰島的利用效率，使更多患者受益。此外，該技術也有可能用於改善其他型別的細胞移植效果。相關研究成果已發表在國際學術期刊《訊號轉導與靶向治療》上。（新華社）
+
+---
+
+### 2026-08-09 20:09:04  #MKT News
+
+Yemeni government media said the Hodeidah governor survived a Houthi missile attack that targeted his residence in Al-Hokh.
+
+---
+
+### 2026-08-09 20:08:17  #其他
+
+葉門官方媒體：荷臺達省省長的住所遭到胡塞武裝使用彈道導彈襲擊 ，省長本人安然無恙。
+
+---
+
+### 2026-08-09 20:06:57  #MKT News #Market Regions #Greater China
+
+【Fliggy activates emergency response for Typhoon 'White Dolphin'; offers free hotel refunds in Zhejiang, Fujian, Anhui】Fliggy said on Aug 9 it has activated an emergency response for Typhoon 'White Dolphin'. For bookings made before 00:00 on Aug 9 it will allow no-penalty refunds or changes for: Zhejiang hotels with check-ins Aug 9–10; Huangshan, Anhui hotels with check-ins Aug 9–11; and Lianjiang, Fujian hotels with check-ins on Aug 9. Consumers forced to cancel or alter travel by the typhoon can apply to Fliggy for lossless refunds/changes; Fliggy will cover refund/change losses.
 
 ---
 
@@ -18557,239 +18713,5 @@ SK海力士因公司準備推出股東回報方案，紐交所上市存託憑證
 ### 2026-08-07 15:07:16  #MKT News #Market Regions #Greater China #Market Themes #Crypto Concepts #Commodities #Precious Metals #SSE Composite #Impact bullish #SZSE Component #Copper
 
 【China A-shares close higher; major indexes up >1%, CRO and PCB sectors lead】China A-shares closed higher: Shanghai Composite +1.02%, Shenzhen Composite +1.42%, ChiNext +1.35%. CRO sector saw a wave of limit-ups, including Yiqiao Shenzhou; CPO stocks strengthened with Woge Optoelectronics posting a fourth consecutive limit-up. PCB names extended gains, with Jingwang Electronics and others hitting limit-up; minor-metals names active and China Rare Earths reached limit-up. Components, electronic chemicals, precious metals and semiconductors were among top gainers; digital currency, gaming, coal and bank sectors lagged. Over 2,800 stocks rose; total turnover exceeded 2.6 trillion yuan.
-
----
-
-### 2026-08-07 15:07:13  #其他
-
-【河南迴應帶薪錯峰休假通知引爭議：程式審籤不規範，待修改後予以印發】據河南省人力資源和社會保障廳，《關於進一步推動落實職工帶薪錯峰休假的通知》（豫人社辦〔2026〕53號）釋出後，得到社會關注，並提出意見建議。鑑於該文相關表述不夠準確，程式審籤不規範，待修改後予以印發。（新黃河）
-
----
-
-### 2026-08-07 15:07:09  #Trading Economics #Economy #France #Foreign Exchange Reserves #Importance 1
-
-France Forex Reserves Increase in July — France’s official reserve assets increased to €357.05 billion at the end of July 2026 from an eight-month low of €355.39 billion in June, mainly driven by an increase in foreign currency reserves. Foreign currency reserves climbed to €34.37 billion from €32.42 billion in the previous month. Meanwhile, gold reserves declined to €276.79 billion from €277.03 billion, claims on the IMF fell to €39.42 billion from €39.46 billion, and other reserve assets decreased to €6.46 billion from €6.48 billion. In July 2025, total reserve assets stood at €303.04 billion.
-
----
-
-### 2026-08-07 15:06:42  #MKT News
-
-【China, Belarus to hold 'Shenying-2026' airborne joint training】China and Belarus will hold 'Shenying-2026' airborne joint training in Hubei in mid‑to‑late August, the Chinese defense ministry said. Focused on joint urban counterterrorism operations, the drills will practice reconnaissance and counter‑reconnaissance, seizure and defense, and clearing and holding. This is the fourth iteration of the series and is aimed at improving participating units' combat readiness and deepening bilateral military cooperation.
-
----
-
-### 2026-08-07 15:06:38  #國際
-
-【國防部：中白將舉行“神鷹-2026”空降兵聯合訓練】8月7日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。陳曦：8月中下旬，中國與白俄羅斯兩國軍隊將位湖北舉行“神鷹-2026”空降兵聯合訓練。此次聯訓以聯合城鎮反恐行動為課題，主要開展偵察與反偵察、奪控與防衛、清剿與固守等演練。這是雙方第4次舉行該系列聯訓，有助於進一步提升參訓部隊實戰能力、深化兩軍務實合作。
-
----
-
-### 2026-08-07 15:06:36  #公司 #國際
-
-通用汽車有限責任公司向美國國家公路交通安全管理局提交召回備案，在美國召回10輛車輛。
-
----
-
-### 2026-08-07 15:06:15  #其他
-
-上海航運交易所資料顯示，截至8月7日，上海出口集裝箱運價指數（綜合指數）報3276.14點，與上期相比漲70.17點。中國出口集裝箱運價綜合指數CCFI報1839.61點，與上期相比跌0.9%。
-
----
-
-### 2026-08-07 15:06:08  #Trading Economics #Economy #United States #Non Farm Payrolls #Importance 3
-
-US Job Growth Likely Accelerated in July — The US economy likely added 80,000 jobs in July 2026, up from 57,000 in June, pointing to a modest rebound after payroll growth slowed from the stronger pace seen in the spring. The private sector is expected to have accounted for 78,000 of those gains, while government employment likely increased by 2,000. Healthcare was likely to lead job growth in July, while a rebound in leisure and hospitality payrolls was also expected. Meanwhile, the unemployment rate is expected to have remained unchanged at 4.2%, hovering near one-year lows. Average hourly earnings likely rose 0.3% from the previous month and 3.5% from a year earlier, matching June’s pace. Overall, the report is expected to point to a relatively steady labour market.
-
----
-
-### 2026-08-07 15:05:46  #其他
-
-【中汽協：2026年6月，汽車整車進口3.8萬輛】據中國汽車工業協會整理的海關總署資料顯示，2026年6月，汽車整車進口3.8萬輛，環比增長0.6%，同比下降10.1%；進口金額19.0億美元，環比增長6.0%，同比下降15.6%。2026年1-6月，汽車整車進口20.1萬輛，同比下降10.5%；進口金額94.4億美元，同比下降18.5%。
-
----
-
-### 2026-08-07 15:05:41  #公司
-
-【星星科技：目前有AR零部件及相關產品銷售，對公司業績影響較小】星星科技8月7日在互動平臺表示，公司目前有AR零部件及相關產品銷售，對公司業績影響較小。若有達到資訊披露標準的合作事項，公司將嚴格按照相關規定及時履行資訊披露義務。
-
----
-
-### 2026-08-07 15:05:29  #國際
-
-LSEG資料顯示，歐洲企業第二季度盈利預期較一週前的20.8%上調至22.4%。
-
----
-
-### 2026-08-07 15:05:23  #市場
-
-富時100指數礦業板塊開盤交易上漲0.6%。
-
----
-
-### 2026-08-07 15:05:08  #市場
-
-匈牙利福林兌歐元下跌0.2%，創4月以來新低。
-
----
-
-### 2026-08-07 15:04:42  #國際
-
-市場訊息：美國正將部分空中加油機從本・古裡安機場調離，以便在出行旺季騰出機位，保障大型商業航班通航。
-
----
-
-### 2026-08-07 15:04:07  #其他
-
-德國Tennet電網稱，預期所需股權融資已落實到位。
-
----
-
-### 2026-08-07 15:03:16  #市場
-
-戴姆勒卡車股價在業績公佈後下跌3.3%。
-
----
-
-### 2026-08-07 15:03:01  #公司 #市場
-
-朗盛集團股價在公佈第二季度業績後下跌4.4%。
-
----
-
-### 2026-08-07 15:02:44  #公司
-
-【國科軍工與軍工信航達成戰略合作】據國科軍工訊息，8月4日，國科軍工與軍工信航舉行“深化戰略協同共築發展新篇”戰略合作簽約儀式。雙方表示，將以本次戰略簽約為新起點，高效推進各項合作落地實施，積極培育軍工領域新質生產力，夯實集團內部協同發展載體，全力落地集團“12348”發展戰略，依託全省“1269”產業佈局，聚力做強江西本土航空航天產業叢集，為行業高質量發展注入強勁動力。
-
----
-
-### 2026-08-07 15:02:41  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #CSI300 #SZSE Component
-
-China's equities closed higher on Friday, Aug. 7: Shanghai Composite +1.02% to 3,940.04; Shenzhen Composite +1.42% to 14,311.01; CSI 300 Index +0.93% to 4,694.44; ChiNext Index +1.35% to 3,563.12; STAR 50 Index +2.51% to 1,744.02.
-
----
-
-### 2026-08-07 15:02:37  #資料
-
-瑞士7月消費者信心指數為-34.8。
-
----
-
-### 2026-08-07 15:02:11  #MKT News #Important
-
-Switzerland July consumer confidence index -34.8; consensus -34.0; prior -35.8.
-
----
-
-### 2026-08-07 15:02:03  #MKT News #Economic Calendar #Important
-
-Switzerland | Consumer Confidence Index (Jul) | actual -34.8 | consensus -34 | previous -35.8
-
----
-
-### 2026-08-07 15:01:58  #MKT News #Market Regions #Greater China
-
-【Shanghai and Shenzhen turnover 2.6644 tln yuan on Aug 7; Zhongji Xuchuang tops by value】Aug 7 — Shanghai and Shenzhen exchanges posted combined turnover of 2.66442 trillion yuan, up 135.64 billion yuan versus the previous trading day. Shanghai turnover was 1.20954 trillion yuan (prev. 1.16682 trillion), volume 565 million lots (prev. 589 million). Shenzhen turnover was 1.45488 trillion yuan (prev. 1.36196 trillion), volume 720 million lots (prev. 716 million). Zhongji Xuchuang led single-stock turnover at 54.67 billion yuan, followed by Zhaoyi Innovation 30.52 billion, Changxin Technology 26.70 billion, Xinyisheng 25.79 billion and Dongshan Precision 20.10 billion.
-
----
-
-### 2026-08-07 15:01:49  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100
-
-European equities opened modestly higher on Friday, Aug 7: Germany’s DAX up 57.41 points (0.22%) at 26,222.64, UK’s FTSE 100 up 3.03 points (0.03%) at 10,870.92, France’s CAC 40 up 15.80 points (0.18%) at 8,715.51, Euro Stoxx 50 up 13.39 points (0.21%) at 6,515.95, Spain’s IBEX 35 up 6.68 points (0.03%) at 20,187.08, and Italy’s FTSE MIB up 128.28 points (0.24%) at 53,811.00.
-
----
-
-### 2026-08-07 15:01:17  #MKT News
-
-【Index futures midday close】At midday, main contracts of Chinese index futures: CSI 300 (IF) +0.95%, SSE 50 (IH) +1.36%, CSI 500 (IC) +2.12%, CSI 1000 (IM) +2.13%.
-
----
-
-### 2026-08-07 15:01:03  #MKT News #Important #WTI #Impact bullish #Brent
-
-At midday close, China’s main futures contracts were mostly higher. Ethylene glycol (EG) led gains, up more than 5%; Shanghai crude (SC) rose over 4%. Fuel oil, benzene, synthetic rubber, coking coal and PET bottle-grade chips advanced over 3%; polysilicon gained nearly 3%. Decliners included fiberboard, down more than 1%, and lithium carbonate, down about 1%.
-
----
-
-### 2026-08-07 15:01:02  #市場 #焦點
-
-A股收盤，上證指數漲1.02%，深證成指漲1.42%，創業板指漲1.35%。
-
----
-
-### 2026-08-07 15:01:00  #公司 #市場
-
-【A股收評：滬指低開高走漲超1%，創新藥、醫療服務板塊集體爆發】A股三大指數今日集體上漲，截至收盤，上證指數漲1.02%，深證成指漲1.42%，創業板指漲1.35%，北證50漲1.01%，科創50指數漲2.51%。全市場成交額26834億元，較上日放量1359億元，全市場超2800只個股上漲。板塊題材上，醫療服務、元件、創新藥、PCB概念、電子化學品板塊漲幅居前；數字貨幣、軟體開發、遊戲、資料安全、移動支付板塊跌幅居前。盤面上，創新藥板塊低開高走，持續爆發，博騰股份、百普賽斯、瑞康醫藥、哈三聯、百花醫藥等十餘股漲停，藥石科技、皓元醫藥、華蘭醫藥等十餘股漲超10%。PCB概念板塊亦表現強勢，一博科技、寶鼎科技、景旺電子、生益電子、紅板科技等十餘股漲停，勝宏科技、南亞新材、中富電路、銅冠銅箔漲幅居前。電子化學品板塊震盪走高，方邦股份漲停，唯特偶、萊特廣電、天承科技、宏昌電子漲幅居前。數字貨幣板塊表現低迷，吉大正元、高偉達、天融信跌幅居前。遊戲板塊回撥，大晟文化、凱撒文化盤中跌停，盛天網路、中青寶、電魂網路跟跌。
-
----
-
-### 2026-08-07 15:00:56  #其他
-
-豐田汽車：確定資產處置價格等相關事項。
-
----
-
-### 2026-08-07 15:00:34  #其他
-
-【瑞典武裝部隊今年徵召約9000人】瑞典武裝部隊6日釋出宣告稱，瑞典今年應徵入伍的約9000人當中，超過5000人8月將開始在瑞典全國各地的武裝部隊單位接受基礎軍事訓練。2026至2027訓練年度期間，瑞典武裝部隊總計將接收超過9000人，這是數十年來規模最大的一次。資料顯示，近年來瑞典徵兵人數呈連年遞增趨勢。（央視新聞）
-
----
-
-### 2026-08-07 15:00:30  #其他
-
-西班牙6月份房屋交易量同比增長1.6%。
-
----
-
-### 2026-08-07 15:00:17  #MKT News
-
-Switzerland's foreign-exchange reserves in July were CHF 768.26 bln; the prior reading was revised from CHF 758.8 bln to CHF 758.851 bln.
-
----
-
-### 2026-08-07 15:00:15  #市場 #國際
-
-菲律賓股指收盤上漲0.2%，報6290.35點。
-
----
-
-### 2026-08-07 15:00:08  #其他
-
-瑞士7月外匯儲備 7682.6億瑞郎，前值由7588億瑞郎修正為7588.51億瑞郎。
-
----
-
-### 2026-08-07 15:00:04  #市場
-
-歐股開盤漲跌不一，德國DAX指數漲0.05%，英國富時100指數跌0.19%，法國CAC40指數漲0.35%，歐洲斯托克50指數漲0.39%，義大利富時MIB指數漲0.44%。
-
----
-
-### 2026-08-07 15:00:03  #市場
-
-【商品期貨收盤】乙二醇連續漲5.08%，上海原油連續漲4.26%，燃料油連續漲3.17%，丁二烯橡膠連續漲3.05%，純苯連續漲3.05%，焦煤連續漲3.05%，低硫燃料油連續漲3.00%，瓶片連續漲2.95%，多晶矽連續漲2.95%，苯乙烯連續漲2.94%。
-
----
-
-### 2026-08-07 15:00:02  #市場
-
-【股指期貨午盤收盤】 中證1000指數期貨連續漲2.13%， 滬深300指數期貨連續漲0.95%， 中證500指數期貨連續漲2.13%， 上證50指數期貨連續漲1.36%。
-
----
-
-### 2026-08-07 15:00:00  #MKT News #Economic Calendar #Important
-
-Switzerland | Foreign Exchange Reserves (Jul) | actual 768260000000B | previous 758800000000B
-
----
-
-### 2026-08-07 14:59:49  #公司
-
-8月7日，宇樹科技董事長王興興網上路演時表示，報告期內，公司研發費用金額分別為4,995.18萬元、7,001.70萬元、14,496.56萬元，最近3年複合增長率達70.36%，呈快速增長趨勢，並形成多項核心技術和智慧財產權。截至2026年1月31日，公司擁有262項專利權（含境內發明專利20項）。
-
----
-
-### 2026-08-07 14:59:32  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX 200 Logs Second Straight Weekly Rise, Up 3.2% — The ASX 200 eased 0.1% to close at 9,264 on Friday, snapping a five-session run of gains as traders booked profits after the index hit fresh highs twice this week. Weaker U.S. stock futures also weighed on sentiment amid geopolitical headwinds following reports that Iran may move to restrict “hostile” vessels in the Strait of Hormuz. Commercial services, healthcare, tech, and financials slipped, offset by resilience in non-energy minerals and manufacturing. The big four banks fell between 1.0% and 1.6%, while other notable laggards included Fortescue (-2.3%) and Qantas (-1.1%). Still, markets posted a second successive weekly gain, up 3.2%, boosted by steady buying and a rebound in Australia's June exports. In top trading partner China, exports and imports continued to rise at double-digit rates in July, though both eased from June’s pace. Traders now await next week’s Reserve Bank interest rate decision as slowing activity and sticky costs persist despite three hikes this year
 
 ---
