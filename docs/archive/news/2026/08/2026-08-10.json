@@ -1,7 +1,34 @@
 {
   "date": "2026-08-10",
-  "count": 704,
+  "count": 708,
   "items": [
+    {
+      "id": "5033128",
+      "time": "2026-08-10 11:06:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【某頭部雲廠商GPU報價11天零波動 A100/A10全線售罄】SMM瞭解，某頭部雲廠商GPU報價自7月31日至8月10日連續11天維持零變動，覆蓋T4、V100、A10、A100四個型號共200個地域×例項組合，折後價區間穩定在¥1,046.50至¥74,126.65。庫存端呈現\"國內緊、海外松\"分化格局：上海、南京各斷貨2個（V100及T4/A10），新加坡斷貨2個（T4）；曼谷、香港、東京、阿什本各補貨1個。GT4（A100）16個組合及PNV4（A10）16個組合已連續兩週全線售罄，高階算力供給持續緊張。整體可售記錄數從33降至32（-1），售罄從167升至168（+1），報價體系保持穩定但庫存微幅收緊。（SMM）"
+    },
+    {
+      "id": "mkt:019fe9a2-f157-7aab-8fcf-f61653056307",
+      "time": "2026-08-10 11:06:37",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Leading cloud provider GPU prices unchanged for 11 days; A100/A10 listings sold out】A leading cloud provider kept GPU prices unchanged from July 31 to Aug. 10 — 11 consecutive days — across 200 region×instance combinations covering T4, V100, A10 and A100. Discounted prices held in a ¥1,046.50–¥74,126.65 range. Inventory shows a domestic-tight/overseas-loose split: Shanghai and Nanjing each recorded two stockouts (V100 and T4/A10), Singapore logged two T4 stockouts; Bangkok, Hong Kong, Tokyo and Ashburn each replenished one listing. A100 (GT4) 16-combo and A10 (PNV4) 16-combo groups have been fully sold out for two consecutive weeks, signaling continued tightness in high-end compute supply. Available listings fell from 33 to 32 (-1); sold-out listings rose from 167 to 168 (+1)."
+    },
+    {
+      "id": "5033127",
+      "time": "2026-08-10 11:03:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【與美競爭，歐洲敲定自家“星鏈”規劃】在歐盟委員會於2024年12月宣佈開發Iris2通訊衛星系統一年半之後，這一被視作歐盟版“星鏈”的專案終於完成了談判。當地時間7日，歐盟委員會與該系統設計和運營方SpaceRISE財團完成談判並簽署實施協議。與原定計劃相比，正式簽署的協議新增66顆低地球軌道衛星，使主星座規模達到348顆。歐盟方面表示此舉是對“不斷變化的安全環境”的回應，但德國《南德意志報》等歐洲媒體普遍認為，其另一關鍵目的是提升歐洲在太空領域的主權，避免依賴美國太空探索技術公司（SpaceX）旗下“星鏈”衛星。 歐洲航天局官網資訊顯示，348顆衛星中，330顆將被部署在近地球軌道，另外18顆部署在中地球軌道。據歐盟介紹，其將加快專案開發進度，除衛星製造外，還包括地面基礎設施以及發射服務。歐盟委員會稱，將尋找能為Iris2星座增加“直接向終端裝置傳輸”功能的供應商以提供移動服務，與“星鏈”等同類產品更直接競爭。（環球網）"
+    },
     {
       "id": "mkt:019fe99f-23a2-7aab-8fcf-ee7b21ecd3e3",
       "time": "2026-08-10 11:02:28",
@@ -193,6 +220,14 @@
         "國際"
       ],
       "text": "【美國芝加哥市多起槍擊事件已致4死12傷】據美國方面近日訊息稱，在剛剛過去的週末，美國芝加哥市發生多起槍擊事件，造成多人傷亡。據悉，截至9日，芝加哥週末發生的槍擊事件已經造成至少4人死亡、12人受傷，部分人傷情嚴重。警方尚未逮捕任何嫌疑人。美國“槍支暴力檔案”網站最新統計資料顯示，今年以來，截至8月9日，美國已有7858人死於槍支暴力，約14681人因此受傷。（央視新聞）"
+    },
+    {
+      "id": "5033111",
+      "time": "2026-08-10 10:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：西班牙決定“報復”，對來自義大利的旅客實施邊檢，意外長髮聲】“完全不可接受。”據英國《衛報》9日報道，對於西班牙決定對來自義大利的旅客實施入境檢查，義大利外長塔亞尼作出這樣的表態。近日，大量移民從摩洛哥強行湧入西班牙位於北非的飛地休達，相關事件引發歐盟內部外交摩擦。義大利宣佈暫停執行與西班牙的申根自由通行機制，西班牙隨後決定對來自義大利的旅客實施入境檢查。“政治新聞網”歐洲版8日稱，西班牙此舉顯然是對義大利自8月1日起對來自西班牙旅客實施邊檢措施的“報復”。據路透社報道，西班牙內政部8日表示，已對從義大利飛往馬德里、巴塞羅那等6地機場的199人進行了檢查。（環球網）"
     },
     {
       "id": "5033110",

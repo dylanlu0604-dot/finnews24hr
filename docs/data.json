@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-10 11:03:27",
-  "count": 15892,
+  "updated": "2026-08-10 11:07:20",
+  "count": 15887,
   "items": [
+    {
+      "id": "5033128",
+      "time": "2026-08-10 11:06:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【某頭部雲廠商GPU報價11天零波動 A100/A10全線售罄】SMM瞭解，某頭部雲廠商GPU報價自7月31日至8月10日連續11天維持零變動，覆蓋T4、V100、A10、A100四個型號共200個地域×例項組合，折後價區間穩定在¥1,046.50至¥74,126.65。庫存端呈現\"國內緊、海外松\"分化格局：上海、南京各斷貨2個（V100及T4/A10），新加坡斷貨2個（T4）；曼谷、香港、東京、阿什本各補貨1個。GT4（A100）16個組合及PNV4（A10）16個組合已連續兩週全線售罄，高階算力供給持續緊張。整體可售記錄數從33降至32（-1），售罄從167升至168（+1），報價體系保持穩定但庫存微幅收緊。（SMM）"
+    },
+    {
+      "id": "mkt:019fe9a2-f157-7aab-8fcf-f61653056307",
+      "time": "2026-08-10 11:06:37",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Leading cloud provider GPU prices unchanged for 11 days; A100/A10 listings sold out】A leading cloud provider kept GPU prices unchanged from July 31 to Aug. 10 — 11 consecutive days — across 200 region×instance combinations covering T4, V100, A10 and A100. Discounted prices held in a ¥1,046.50–¥74,126.65 range. Inventory shows a domestic-tight/overseas-loose split: Shanghai and Nanjing each recorded two stockouts (V100 and T4/A10), Singapore logged two T4 stockouts; Bangkok, Hong Kong, Tokyo and Ashburn each replenished one listing. A100 (GT4) 16-combo and A10 (PNV4) 16-combo groups have been fully sold out for two consecutive weeks, signaling continued tightness in high-end compute supply. Available listings fell from 33 to 32 (-1); sold-out listings rose from 167 to 168 (+1)."
+    },
+    {
+      "id": "5033127",
+      "time": "2026-08-10 11:03:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【與美競爭，歐洲敲定自家“星鏈”規劃】在歐盟委員會於2024年12月宣佈開發Iris2通訊衛星系統一年半之後，這一被視作歐盟版“星鏈”的專案終於完成了談判。當地時間7日，歐盟委員會與該系統設計和運營方SpaceRISE財團完成談判並簽署實施協議。與原定計劃相比，正式簽署的協議新增66顆低地球軌道衛星，使主星座規模達到348顆。歐盟方面表示此舉是對“不斷變化的安全環境”的回應，但德國《南德意志報》等歐洲媒體普遍認為，其另一關鍵目的是提升歐洲在太空領域的主權，避免依賴美國太空探索技術公司（SpaceX）旗下“星鏈”衛星。 歐洲航天局官網資訊顯示，348顆衛星中，330顆將被部署在近地球軌道，另外18顆部署在中地球軌道。據歐盟介紹，其將加快專案開發進度，除衛星製造外，還包括地面基礎設施以及發射服務。歐盟委員會稱，將尋找能為Iris2星座增加“直接向終端裝置傳輸”功能的供應商以提供移動服務，與“星鏈”等同類產品更直接競爭。（環球網）"
+    },
     {
       "id": "mkt:019fe99f-23a2-7aab-8fcf-ee7b21ecd3e3",
       "time": "2026-08-10 11:02:28",
@@ -193,6 +220,14 @@
         "國際"
       ],
       "text": "【美國芝加哥市多起槍擊事件已致4死12傷】據美國方面近日訊息稱，在剛剛過去的週末，美國芝加哥市發生多起槍擊事件，造成多人傷亡。據悉，截至9日，芝加哥週末發生的槍擊事件已經造成至少4人死亡、12人受傷，部分人傷情嚴重。警方尚未逮捕任何嫌疑人。美國“槍支暴力檔案”網站最新統計資料顯示，今年以來，截至8月9日，美國已有7858人死於槍支暴力，約14681人因此受傷。（央視新聞）"
+    },
+    {
+      "id": "5033111",
+      "time": "2026-08-10 10:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：西班牙決定“報復”，對來自義大利的旅客實施邊檢，意外長髮聲】“完全不可接受。”據英國《衛報》9日報道，對於西班牙決定對來自義大利的旅客實施入境檢查，義大利外長塔亞尼作出這樣的表態。近日，大量移民從摩洛哥強行湧入西班牙位於北非的飛地休達，相關事件引發歐盟內部外交摩擦。義大利宣佈暫停執行與西班牙的申根自由通行機制，西班牙隨後決定對來自義大利的旅客實施入境檢查。“政治新聞網”歐洲版8日稱，西班牙此舉顯然是對義大利自8月1日起對來自西班牙旅客實施邊檢措施的“報復”。據路透社報道，西班牙內政部8日表示，已對從義大利飛往馬德里、巴塞羅那等6地機場的199人進行了檢查。（環球網）"
     },
     {
       "id": "5033110",
@@ -144597,86 +144632,6 @@
         "AI Revolution"
       ],
       "text": "【Muxi Xiyun C‑series GPU completes Day‑0 adaptation for MiniMaxH3】On Aug. 3, MiniMax open‑sourced its next‑generation multimodal generative model MiniMaxH3. Muxi said its Xiyun C‑series GPUs were first to complete Day‑0 adaptation for the model. Xiyun C‑series is built on Muxi’s self‑developed GPU IP and is positioned as high energy‑efficiency and broadly compatible hardware aimed at ultra‑large parameter workloads and long‑context inference for large models."
-    },
-    {
-      "id": "5021539",
-      "time": "2026-08-03 11:06:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿達尼港口 7 月貨物吞吐量同比增長 15%。"
-    },
-    {
-      "id": "5021538",
-      "time": "2026-08-03 11:06:21",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【小摩：對光伏行業看法轉趨選擇性樂觀，升信義光能及福萊特玻璃評級至“增持”】摩根大通發表研報指，中國光伏板塊年初至今平均下跌約30%，部分股份估值已接近歷史低位，目前對該行業看法轉趨選擇性樂觀，預期下半年光伏需求將受季節性因素帶動而復甦，加上停產安排，光伏玻璃的供需前景有望改善。該行將信義光能及福萊特玻璃的評級由“中性”上調至“增持”，憧憬若行業整合，信義光能及福萊特玻璃有望取得更多市場份額；同時維持協鑫科技“增持”評級。"
-    },
-    {
-      "id": "5021537",
-      "time": "2026-08-03 11:06:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿達尼港口 7 月貨運量 4630 萬噸。"
-    },
-    {
-      "id": "te:markets:572008",
-      "time": "2026-08-03 11:06:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesia Equities Start August with Modest Gains — Indonesian stocks edged up 18 points or 0.3% to 6,256 on the first trading day of a new month, rising for the third session amid a rally in U.S. equity futures after President Trump said on Sunday he canceled a planned attack on Iran. Meanwhile, fresh data showed factory activity grew in July, with Indonesia's S&P Global Manufacturing PMI hitting a five-month high of 50.2 following a slump in June. Meanwhile, domestic fundamentals remained broadly resilient, supported by fiscal expenditure, credit expansion, and infrastructure development. In top trading partner China, the central bank signaled it will continue monetary support in H2 of 2026, pledging to maintain ample liquidity and adjust policy tools as needed. However, gains were capped by caution ahead of key data releases this week, including July inflation and May trade prints later today, and Q2 GDP in coming days. Amman Mineral Intl. gained 6.6%, followed by Mitra Adiperkasa (6.1%), Darma Henwa (3.5%), and Harum Energy (3.0%)."
-    },
-    {
-      "id": "mkt:019fc595-c47e-7aab-8f4d-ff8fcdff5c47",
-      "time": "2026-08-03 11:05:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Cuba's state power company said the national power system is down."
-    },
-    {
-      "id": "5021536",
-      "time": "2026-08-03 11:05:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "古巴國家電力公司：全國電力系統已全面斷電。"
-    },
-    {
-      "id": "5021535",
-      "time": "2026-08-03 11:05:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【埃及開羅省發生5.5級地震 暫無人員傷亡報告】埃及國家天文與地球物理研究所3日釋出宣告說，埃及開羅省當天凌晨3時許發生5.5級地震。埃及紅新月會說，截至目前尚未接到人員傷亡或財產損失報告。根據埃及國家天文與地球物理研究所資料，此次地震震中位於開羅省東部，震源深度10公里。新華社記者在埃及首都開羅感受到明顯震感。埃及紅新月會發布宣告說，已在有震感地區啟動應急預案，提醒民眾避免靠近老舊建築及出現裂縫的建築物。德國地球科學研究中心此前報道此次地震的震級為5.4級。（新華社）"
-    },
-    {
-      "id": "5021534",
-      "time": "2026-08-03 11:04:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【山東省濟南市政府原黨組成員、副市長謝堃被“雙開”】中央紀委國家監委網站8月3日通報，據山東省紀委監委訊息：經山東省委批准，山東省紀委監委對濟南市政府原黨組成員、副市長謝堃嚴重違紀違法問題進行了立案審查調查。經查，謝堃喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；違反中央八項規定精神，違規收受禮品、禮金、消費卡；廉潔底線失守，違規借用管理和服務物件錢款，違規向管理和服務物件放貸獲取大額回報，將應當由本人支付的費用由他人報銷；貪慾膨脹，將公權力異化為謀取私利的工具，大搞權錢交易，利用職務便利為他人在專案承攬、專案資金申請等方面謀利，並非法收受鉅額財物。謝堃嚴重違反黨的政治紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經山東省紀委常委會會議研究並報山東省委批准，決定給予謝堃開除黨籍處分；由山東省監委給予其開除公職處分；終止其山東省第十二次黨代會代表、濟南市第十二次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5021533",
-      "time": "2026-08-03 11:04:21",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將國民西敏寺目標價從780便士上調至790便士。"
     }
   ]
 }
