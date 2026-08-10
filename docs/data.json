@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-11 05:09:33",
-  "count": 15803,
+  "updated": "2026-08-11 05:13:32",
+  "count": 15804,
   "items": [
+    {
+      "id": "5034605",
+      "time": "2026-08-11 05:12:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美航客機遭鳥擊後返航】當地時間8月10日上午，一架原定從美國南卡羅來納州默特爾比奇飛往北卡羅來納州夏洛特的美國航空航班，起飛後遭遇鳥擊並出現發動機問題，被迫返回默特爾比奇國際機場。美國航空公司方面稱，飛機安全降落，機上172名乘客無人受傷。空管錄音顯示，飛行員曾報告“發動機出現問題”並宣佈“緊急狀態”。機場跑道上發現大量鳥類殘骸和羽毛。另有附近飛行員稱，看到這架客機撞上一群鳥後左側發動機冒煙。不過飛機落地檢查後據稱未發現起火或洩漏。美國聯邦航空局將對事件展開調查。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fed84-2f18-7aab-8fe1-3317d2e0aa6f",
+      "time": "2026-08-11 05:11:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean Copper Commission (Cochilco) said state-owned Codelco's June copper production fell 4.8% YoY to 114,400 tonnes."
+    },
+    {
+      "id": "mkt:019fed82-77a0-7aab-8fe1-2b054b63c2cc",
+      "time": "2026-08-11 05:09:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ released a consultation paper on introducing a prudential tax, proposing a full cost-recovery charge on all prudential costs and other fees."
+    },
     {
       "id": "5034604",
       "time": "2026-08-11 05:08:59",
@@ -143834,23 +143863,6 @@
         "Impact bullish"
       ],
       "text": "NTT Data is considering roughly $9.0 billion of investment in Japan's data-center sector."
-    },
-    {
-      "id": "5023232",
-      "time": "2026-08-04 05:12:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國眾議院網路安全委員會要求 OpenAI 執行長山姆・奧特曼就 Hugging Face 遭遇攻擊事件進行情況通報。"
-    },
-    {
-      "id": "5023231",
-      "time": "2026-08-04 05:11:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "Snap 執行長：公司自研 AI 程式碼審查工具目前已可稽核 Snap 內部 90% 的程式碼合併請求。"
     }
   ]
 }
