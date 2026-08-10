@@ -1,7 +1,26 @@
 {
   "date": "2026-08-10",
-  "count": 2473,
+  "count": 2475,
   "items": [
+    {
+      "id": "mkt:019fec40-f15e-7aab-8fdc-af8ee57c70ce",
+      "time": "2026-08-10 23:18:26",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Nikkei reports Japan plans to loosen lending rules to facilitate startup financing; the Financial Services Agency will discuss draft legislative amendments at a Financial System Council plenary as early as this month."
+    },
+    {
+      "id": "5034403",
+      "time": "2026-08-10 23:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本金融廳將於本月內在金融制度審議會全體會議上研討相關法律修訂。日本金融廳希望擬議修訂案於明年提交國會審議。"
+    },
     {
       "id": "5034402",
       "time": "2026-08-10 23:15:26",
