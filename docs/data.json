@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-11 03:55:40",
+  "updated": "2026-08-11 03:59:35",
   "count": 15802,
   "items": [
+    {
+      "id": "5034579",
+      "time": "2026-08-11 03:58:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉全國代表大會主席豪爾赫·羅德里格斯：委內瑞拉地震死亡人數升至6301人。"
+    },
+    {
+      "id": "5034578",
+      "time": "2026-08-11 03:57:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【克利夫蘭聯儲行長稱可能需要多次加息以遏制通脹】克利夫蘭聯儲行長貝絲·哈馬克表示，可能需要進行數次加息才能將通脹降至2%的目標，但她不想預先判斷終點會在哪裡。“總的來說，我認為一次25個基點的變動可能不會對經濟產生太大影響，”哈馬克週一接受採訪時表示。“所以可能需要一定次數，”但“我不想提前預判這個數字是多少。”"
+    },
     {
       "id": "5034577",
       "time": "2026-08-11 03:53:29",
@@ -143823,27 +143840,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收漲0.66%】大全新能源漲12.98%，金山雲漲6.64%，嘉楠科技漲5.41%，億航漲5.65%，禾賽科技漲5.21%。"
-    },
-    {
-      "id": "5023206",
-      "time": "2026-08-04 03:59:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社：哈馬斯表示，正等待調停方就停火協議作出正式答覆，且仍致力於落實第二階段停火協議。"
-    },
-    {
-      "id": "mkt:019fc932-db29-7aab-8f5f-2f3b7eeb8607",
-      "time": "2026-08-04 03:56:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Evercore: Fed liquidity tool unlikely to support prolonged yen intervention】Evercore ISI said the Fed’s foreign and international monetary authorities (FIMA) repo facility is unlikely to sustain prolonged U.S.-Japan intervention to defend the yen. The facility lets overseas holders use U.S. Treasuries as collateral to obtain dollars without selling securities in the open market, but it is capped at $60bn per counterparty per day—only slightly above Evercore’s estimate of Japan’s one-day intervention last Thursday. Strategists warned a capped repo could invite market testing of U.S. and Japanese resolve if defending the yen required large-scale Treasury sales. The facility is designed to provide short-term liquidity, not durable financing: borrowings must be rolled to persist and rates are set above private repo costs, signalling it is not intended for routine or sustained FX intervention."
     }
   ]
 }
