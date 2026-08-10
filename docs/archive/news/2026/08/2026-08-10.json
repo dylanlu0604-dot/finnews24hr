@@ -1,7 +1,192 @@
 {
   "date": "2026-08-10",
-  "count": 459,
+  "count": 478,
   "items": [
+    {
+      "id": "5032959",
+      "time": "2026-08-10 09:39:28",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【7月份北京CPI環比由降轉漲，同比漲幅回落】國家統計局北京調查總隊8月10日訊息，2026年7月份，北京市居民消費價格指數（CPI）環比由降轉漲，同比漲幅回落。從環比看，CPI由上月下降0.4%轉為上漲0.2%。其中，食品價格下降0.6%，降幅較上月收窄0.6個百分點。食品中，應季水果大量上市，帶動鮮果價格下降4.0%；雞蛋供應充足，價格下降1.7%；受生豬出欄短期調整影響，豬肉價格先漲後降，全月上漲5.1%；部分主產區降雨天氣較多，帶動鮮菜價格上漲0.9%。從同比看，CPI上漲0.2%，漲幅比上月回落0.5個百分點。其中，食品價格下降2.6%，影響CPI下降約0.33個百分點。"
+    },
+    {
+      "id": "te:markets:573967",
+      "time": "2026-08-10 09:38:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rise on Tech Gains — The benchmark KOSPI edged up 0.5% to around 6,290 on Monday, rebounding from the previous session as gains in technology stocks tracked a record-setting advance on Wall Street. The S&P 500 climbed to a fresh record while the Nasdaq advanced on Friday after a weaker-than-expected US jobs report showed an unexpected contraction in July employment, easing expectations of a September Federal Reserve rate hike. The improved rate outlook supported demand for technology stocks, with Samsung Electronics and SK hynix both rising around 1%. Other gainers included Hyundai Motor (+2.8%), Hanwha Aerospace (+4.4%), HD Hyundai Heavy Industries (+2.0%), and Doosan Enerbility (+2.1%). Meanwhile, uncertainty over a US-Iran deal to reopen the Strait of Hormuz persisted after Iran denied direct talks with Washington, tempering the broader recovery in the KOSPI. WTI crude also rose above $79 a barrel, raising concerns over higher energy costs and inflation."
+    },
+    {
+      "id": "mkt:019fe952-b23c-7aab-8fce-7056364ee4cb",
+      "time": "2026-08-10 09:38:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's ChiNext index opened over 1% lower."
+    },
+    {
+      "id": "5032958",
+      "time": "2026-08-10 09:38:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【能源金屬板塊短線走高，寒銳鈷業漲超11%】能源金屬板塊短線走高，寒銳鈷業漲超11%，騰遠鈷業、永杉鋰業、華友鈷業跟漲。"
+    },
+    {
+      "id": "5032957",
+      "time": "2026-08-10 09:38:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.02%，現報3526.691點；上證指數漲0.28%，現報3950.931點；深證成指跌0.44%，現報14247.396點。"
+    },
+    {
+      "id": "5032956",
+      "time": "2026-08-10 09:38:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "電力板塊震盪拉昇，立新能源漲停，綠髮電力、華電遼能、華銀電力、三峽水利跟漲。"
+    },
+    {
+      "id": "5032955",
+      "time": "2026-08-10 09:38:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "te:economy:573966",
+      "time": "2026-08-10 09:38:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "BoJ Sees Rising Case for Further Tightening: July Summary of Opinions — Bank of Japan’s July summary of opinions revealed policymakers see room to keep raising rates as underlying inflation nears 2% and financial conditions remain supportive. They stressed the need to judge timing and pace carefully, watching economic activity, prices, financial conditions, and external factors such as Middle East tensions, AI-driven demand, and currency moves. Several noted rising upside risks to inflation, with one view suggesting hikes could come faster than markets anticipate if conditions warrant. The summary underscored that the BoJ has entered a new phase requiring flexibility rather than a preset path, as concerns over weak growth have eased and inflationary pressures may strengthen into summer. Policymakers also emphasized the importance of clearly signaling determination to prevent excessive price gains, highlighting a shift toward more nimble, risk-aware policy management."
+    },
+    {
+      "id": "5032954",
+      "time": "2026-08-10 09:38:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江安徽等地颱風雨仍猛烈 華北到江南高溫將縮減】昨天（8月9日）下午5點30分前後，今年第13號颱風“白海豚”以強颱風級登陸浙江省台州玉環市坎門街道沿海，浙江等地現強風雨。今後三天，華東等地仍有強風雨天氣，浙江、安徽等地或現特大暴雨。同時，華北到江南的高溫天氣將縮減，不過四川盆地和華南等地仍有高溫天氣，需做好防暑降溫措施。"
+    },
+    {
+      "id": "mkt:019fe952-2060-7aab-8fce-694599aeb08b",
+      "time": "2026-08-10 09:38:21",
+      "tags": [
+        "MKT News",
+        "002558.SZ",
+        "Impact bearish",
+        "300418.SZ"
+      ],
+      "text": "China A-share gaming sector slipped at the open; Dasheng Culture and Caesar Culture fell over 6%, while Kaiying Network, Kunlun Wanwei, Shengtian Network, Century Huatong and Giant Network also declined."
+    },
+    {
+      "id": "5032953",
+      "time": "2026-08-10 09:37:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天軍工板塊盤初走弱 盛路通訊跌超4%】航天軍工板塊盤初走弱，盛路通訊跌超4%，雷科防務、電科藍天等下跌。"
+    },
+    {
+      "id": "5032952",
+      "time": "2026-08-10 09:37:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "mkt:019fe951-0d6c-7aab-8fce-651a0438d6e1",
+      "time": "2026-08-10 09:37:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Yemeni military says Houthi attack on Mocha port killed 7 and injured 30."
+    },
+    {
+      "id": "5032951",
+      "time": "2026-08-10 09:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門軍方表示，胡塞武裝對穆哈港發動的襲擊已造成7人死亡、30人受傷。"
+    },
+    {
+      "id": "5032950",
+      "time": "2026-08-10 09:36:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股醫藥外包概念股全線上漲 藥明康德漲超5%】截至發稿，藥明康德(02359.HK)漲5.04%，凱萊英(06821.HK)漲4.29%，藥明生物(02269.HK)漲3.53%。"
+    },
+    {
+      "id": "mkt:019fe950-9b79-7aab-8fce-5cc06e3cc381",
+      "time": "2026-08-10 09:36:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "00800.HK",
+        "Impact bullish",
+        "02513.HK",
+        "02026.HK"
+      ],
+      "text": "Hong Kong AI-application stocks strengthened. CHINA'S WERIDE-W (00800.HK) rose (percentage not specified); Zhipu (02513.HK) and MINIMAX-W (00100.HK) gained over 4%; China Literature (00772.HK) and Pony.ai-W (02026.HK) also advanced."
+    },
+    {
+      "id": "5032949",
+      "time": "2026-08-10 09:36:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置板塊盤初走強 中電鑫龍等多股漲停】早盤電網裝置板塊走強，中電鑫龍、京泉華、信通電子漲停，三變科技、中能電氣、安靠智電、伊戈爾等跟漲。"
+    },
+    {
+      "id": "5032948",
+      "time": "2026-08-10 09:36:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【磷化銦概念股表現活躍 先導基電漲停】磷化銦概念股表現活躍，先導基電漲停，宿遷聯盛衝擊漲停，有研新材、興發集團等股上漲。"
+    },
+    {
+      "id": "5032947",
+      "time": "2026-08-10 09:35:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【深成指轉跌】深成指轉跌，此前一度漲超0.4%；滬指漲0.16%，創業板指跌0.22%。"
+    },
     {
       "id": "5032946",
       "time": "2026-08-10 09:35:34",
