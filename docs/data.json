@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-11 02:46:26",
-  "count": 15759,
+  "updated": "2026-08-11 02:50:16",
+  "count": 15763,
   "items": [
+    {
+      "id": "5034518",
+      "time": "2026-08-11 02:49:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：目前仍未看到就業市場出現問題。"
+    },
+    {
+      "id": "mkt:019fed02-5b15-7aab-8fdf-5cbbb47de3e9",
+      "time": "2026-08-11 02:49:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Harmak said current interest rates are not materially restraining the economy, and it is time for the Fed to act."
+    },
+    {
+      "id": "5034517",
+      "time": "2026-08-11 02:49:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：不認為通脹會自行回落。"
+    },
+    {
+      "id": "5034516",
+      "time": "2026-08-11 02:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國7月平均氣溫重新整理1895年以來最高紀錄】美國國家海洋和大氣管理局（NOAA）釋出的資料顯示，7月是有記錄以來美國平均氣溫最高的一個月。當月出現了持續時間長且強度大的“熱穹頂”現象，導致從東海岸到大平原地區及西南部各州的氣溫均創下歷史新高。NOAA的氣溫記錄可追溯至1895年。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fed00-7f13-7aab-8fdf-57c453961f3b",
+      "time": "2026-08-11 02:47:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed official Harmak said several rate hikes may be required and he will not pre-judge the number of hikes or the eventual policy (terminal) rate."
+    },
+    {
+      "id": "5034515",
+      "time": "2026-08-11 02:46:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：現在正是我們開始行動的時候。"
+    },
+    {
+      "id": "5034514",
+      "time": "2026-08-11 02:46:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：當前利率並未對經濟形成實質性抑制。"
+    },
     {
       "id": "5034513",
       "time": "2026-08-11 02:45:09",
@@ -143433,37 +143507,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖軍事顧問：我們絕不允許霍爾木茲海峽開闢除伊朗主張航道以外的任何通道。即便美國派遣軍艦以非法航線駛入霍爾木茲海峽，我們也將予以打擊。"
-    },
-    {
-      "id": "5023177",
-      "time": "2026-08-04 02:49:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "義大利7月份預算盈餘134億歐元。"
-    },
-    {
-      "id": "mkt:019fc8f5-53d8-7aab-8f5e-4e027367fa38",
-      "time": "2026-08-04 02:49:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XOM.N",
-        "Impact mixed",
-        "CVX.N",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Trump says Exxon Mobil, Chevron \"made too much\" from Iran war】U.S. President Trump said on Monday at the White House that Exxon Mobil (XOM.N) and Chevron (CVX.N) \"made too much money\" after crude prices rose on the Iran war. He said the firms profited from a supply shortage, that he \"doesn't like\" it, and urged them to return part of the gains to the public and cut retail prices. Both reported strong Q2 results last Friday: Chevron profit rose nearly 400% YoY to $12.0bn from $2.5bn a year earlier; Exxon Mobil profit more than doubled to $14.5bn from $7.1bn."
-    },
-    {
-      "id": "5023176",
-      "time": "2026-08-04 02:46:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖軍事顧問：憑藉伊朗強有力的導彈與無人機反擊，特朗普速勝的幻想在17天內化為泡影。我們向美國證明，伊朗同時掌握導彈打擊能力與防禦能力。"
     }
   ]
 }

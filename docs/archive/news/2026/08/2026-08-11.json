@@ -1,7 +1,81 @@
 {
   "date": "2026-08-11",
-  "count": 158,
+  "count": 165,
   "items": [
+    {
+      "id": "mkt:019fed02-5b15-7aab-8fdf-5cbbb47de3e9",
+      "time": "2026-08-11 02:49:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Harmak said current interest rates are not materially restraining the economy, and it is time for the Fed to act."
+    },
+    {
+      "id": "5034518",
+      "time": "2026-08-11 02:49:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：目前仍未看到就業市場出現問題。"
+    },
+    {
+      "id": "5034517",
+      "time": "2026-08-11 02:49:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：不認為通脹會自行回落。"
+    },
+    {
+      "id": "5034516",
+      "time": "2026-08-11 02:48:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國7月平均氣溫重新整理1895年以來最高紀錄】美國國家海洋和大氣管理局（NOAA）釋出的資料顯示，7月是有記錄以來美國平均氣溫最高的一個月。當月出現了持續時間長且強度大的“熱穹頂”現象，導致從東海岸到大平原地區及西南部各州的氣溫均創下歷史新高。NOAA的氣溫記錄可追溯至1895年。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fed00-7f13-7aab-8fdf-57c453961f3b",
+      "time": "2026-08-11 02:47:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed official Harmak said several rate hikes may be required and he will not pre-judge the number of hikes or the eventual policy (terminal) rate."
+    },
+    {
+      "id": "5034515",
+      "time": "2026-08-11 02:46:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：現在正是我們開始行動的時候。"
+    },
+    {
+      "id": "5034514",
+      "time": "2026-08-11 02:46:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：當前利率並未對經濟形成實質性抑制。"
+    },
     {
       "id": "5034513",
       "time": "2026-08-11 02:45:09",
