@@ -1,7 +1,98 @@
 {
   "date": "2026-08-10",
-  "count": 1025,
+  "count": 1036,
   "items": [
+    {
+      "id": "5033361",
+      "time": "2026-08-10 14:05:40",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股票指數<.JKSE>在央行行長提名公佈後基本持平，尾盤下跌0.5%。"
+    },
+    {
+      "id": "5033360",
+      "time": "2026-08-10 14:05:00",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼央行行長提名公佈後，印尼盾兌美元匯率基本持平，最新報1美元兌17780印尼盾。"
+    },
+    {
+      "id": "mkt:019fea45-e89e-7aab-8fd2-aebfb7a497f8",
+      "time": "2026-08-10 14:04:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Abu Dhabi National Oil and Gas Company CEO said the firm is studying alternative routes but cannot provide further details at this time."
+    },
+    {
+      "id": "mkt:019fea45-8b7a-7aab-8fd2-a725f433c2b5",
+      "time": "2026-08-10 14:04:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ADNOC CEO said the company will continue to closely monitor developments in the Strait of Hormuz and consider a range of options."
+    },
+    {
+      "id": "5033359",
+      "time": "2026-08-10 14:04:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【萊茵河水位過低或中斷航運 航道“一分為二”】德國聯邦內河航運協會10日說，萊茵河一處關鍵河段本週或將因水位過低中斷貨運，這條重要航道相當於被分割為兩段。該協會主管延斯·施瓦寧告訴《萊茵郵報》，由於降雨不足，作為萊茵河航道關鍵卡口的考布水文站水位預計將首次降至個位數。考布水文站位於科布倫茨市以南，地處萊茵河中段水位最淺的河段之一。該河段水位曾在2018年10月低至25釐米，當時許多大型船隻難以安全透過。施瓦寧表示，如果這一河段的水位降至個位數，“將無法開展商業貨運，同時也會影響短途觀光遊船與郵輪航運”。這實際上相當於，“萊茵河不再全線貫通，航道分割為兩段”。（新華社）"
+    },
+    {
+      "id": "5033358",
+      "time": "2026-08-10 14:03:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司天然氣部門執行長：我們將繼續監控霍爾木茲海峽局勢，正在考量多種應對方案。"
+    },
+    {
+      "id": "5033357",
+      "time": "2026-08-10 14:03:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司天然氣部門執行長：正在研究替代路線，但目前無法對此進一步置評。"
+    },
+    {
+      "id": "mkt:019fea44-4981-7aab-8fd2-9c743fac4229",
+      "time": "2026-08-10 14:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shooting at Nonthaburi Provincial Administrative Organization office; chairman critically injured】Thai media reported on the 10th that a shooting occurred inside the Nonthaburi Provincial Administrative Organization office at about 11:00 local time. The organization's chairman, Thongchai, was shot in the head and is in serious condition; his private driver was also injured. Both were taken to hospital. The suspect surrendered to police and authorities are investigating."
+    },
+    {
+      "id": "5033356",
+      "time": "2026-08-10 14:02:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港金管局與迪拜金管局合辦第三屆氣候金融會議 在變局中推動轉型】香港金融管理局與迪拜金融服務管理局今日（8月10日）宣佈將於9月10日在香港合辦第三屆聯合氣候金融會議（會議）。香港金管局總裁餘偉文表示：“面對全球不確定性為綠色轉型帶來的挑戰，香港與迪拜等主要可持續金融樞紐應攜手合作，將資本引導至切實可行的方案。我們很高興能夠促成跨地區對話，並期待能將討論轉化為實際的業務和投資機遇。”迪拜金管局總裁施衛民表示：“是次會議充分體現了迪拜金管局與香港金管局之間的緊密合作伙伴關係，並提供了一個寶貴平臺，供各方交流前瞻見解、加強跨地域合作，共同推動兩地可持續金融的持續發展。”"
+    },
+    {
+      "id": "mkt:019fea44-43cd-7aab-8fd2-92e165bd338c",
+      "time": "2026-08-10 14:02:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【HKMA, DFSA to co-host 3rd Joint Climate Finance Conference in Hong Kong on Sept 10】The Hong Kong Monetary Authority (HKMA) and the Dubai Financial Services Authority (DFSA) said they will co-host the third Joint Climate Finance Conference in Hong Kong on Sept 10 to deepen cross-border sustainable finance cooperation, steer capital toward investable green projects, and convert dialogue into business and investment opportunities across the two hubs."
+    },
     {
       "id": "5033355",
       "time": "2026-08-10 14:01:18",
@@ -71,6 +162,14 @@
         "公司"
       ],
       "text": "【基金公司因產品風格漂移、無資質大V帶貨被追責】監管層近日向各家機構下發最新一期的《機構監管情況通報》，近日，C基金公司管理的部分基金產品出現“風格漂移”“大V帶貨”等問題，引發關注。監管機構第一時間組織開展現場核查，對相關機構和個人依法從嚴採取監管措施。經查，C基金公司存在投資運作不規範、宣傳推介不合規等兩方面違規問題。監管機構決定對該公司採取責令改正並暫停受理公募基金產品註冊3個月的監管措施，同步追究公司總經理、分管網路營銷副總、網路金融部負責人、基金經理等責任人員責任。《通報》也再次強調相關監管要求，包括投前審慎界定投資方向、投中加強投資風格管理、不得與無資質“大V”合作、加強從業人員管理等。"
+    },
+    {
+      "id": "5033347",
+      "time": "2026-08-10 13:58:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【數字政通等在河北成立智慧算力公司 含AI相關業務】企查查APP顯示，近日，中數政通（河北）智慧算力有限公司成立，經營範圍包含人工智慧公共資料平臺；人工智慧應用軟體開發；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由數字政通全資子公司北京政通智算科技有限公司等共同持股。"
     },
     {
       "id": "5033346",
