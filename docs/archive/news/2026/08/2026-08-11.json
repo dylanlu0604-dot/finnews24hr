@@ -1,7 +1,15 @@
 {
   "date": "2026-08-11",
-  "count": 329,
+  "count": 330,
   "items": [
+    {
+      "id": "mkt:019feda0-be53-7aab-8fe1-7283c0bbc239",
+      "time": "2026-08-11 05:42:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC recorded a magnitude-3.9 earthquake at 05:31 on Aug 11 in Gao County, Yibin, Sichuan (28.53°N, 104.66°E); focal depth 5 km."
+    },
     {
       "id": "mkt:019fed9c-ad84-7aab-8fe1-6c7dee9260b1",
       "time": "2026-08-11 05:38:15",
