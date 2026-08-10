@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-10 12:35:10",
-  "count": 15898,
+  "updated": "2026-08-10 12:39:01",
+  "count": 15896,
   "items": [
+    {
+      "id": "mkt:019fe9f7-0501-7aab-8fd1-04744a438db3",
+      "time": "2026-08-10 12:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ESA director warns Europe could face launch‑vehicle shortage around 2030】European Space Agency Director Joseph Aschbacher warned Europe could face a domestic launch‑vehicle shortage around 2030 as satellite launch demand rises. ESA is assessing future launch needs and projects total launch requirements from current and planned constellations and missions will peak around 2029–2031. Aschbacher said he will raise the issue with ESA member states to ensure Europe can use domestically produced rockets to meet demand."
+    },
+    {
+      "id": "5033236",
+      "time": "2026-08-10 12:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長：五架飛向莫斯科的無人機已被擊落。"
+    },
+    {
+      "id": "5033235",
+      "time": "2026-08-10 12:37:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受黑海地區供應中斷影響 小麥價格創一週新高】受黑海航運受阻，這一重要糧食產區或出現供應短缺影響，美國小麥期貨漲至一週多以來最高水平。因俄烏衝突帶來安全風險加劇，土耳其上週末暫停本國船隻在黑海通行。土耳其外長哈坎・菲丹呼籲該地區實施襲擊“暫停令”。此前烏克蘭於週五釋出公告稱，受俄羅斯襲擊影響，其2026‑2027銷售年度農產品出口量或將較此前預期下滑超半數。烏克蘭政府表示，烏克蘭是全球主要農產品出口國之一，糧食可供給約4億人口。芝加哥交投最活躍的小麥期貨週一最大漲幅達1.8%，創下7月30日以來新高，帶動整個穀物板塊上行。硬紅冬小麥合約漲幅更為迅猛，主力合約最高上漲2.4%。"
+    },
+    {
+      "id": "mkt:019fe9f4-c189-7aab-8fd0-f980cf4890d7",
+      "time": "2026-08-10 12:35:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raised its year-end 2026 S&P 500 target to 8,000 from 7,800."
+    },
+    {
+      "id": "5033234",
+      "time": "2026-08-10 12:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日聯科技第10000臺智檢裝備成功交付】近日，日聯科技舉辦第10000臺智慧檢測裝備交付活動，相關智慧檢測裝備成功交付安捷利電子。日聯科技業務現已拓展至半導體先進封裝、儲存晶片、光模組、商業航天、固態電池等前沿產業領域。"
+    },
     {
       "id": "5033233",
       "time": "2026-08-10 12:34:21",
@@ -144641,67 +144685,6 @@
         "國際"
       ],
       "text": "印尼統計局：6月進口同比增長34.27%（調查預估為增長25.30%）。"
-    },
-    {
-      "id": "5021648",
-      "time": "2026-08-03 12:37:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興發集團成立生態科技公司】企查查APP顯示，近日，湖北興美生態科技有限公司成立，法定代表人為張橋，註冊資本為1億元，經營範圍包含：生物農藥技術研發；肥料銷售；農用薄膜銷售；非金屬礦及製品銷售；肥料生產；農藥批發等。企查查股權穿透顯示，該公司由興發集團間接全資持股。"
-    },
-    {
-      "id": "5021647",
-      "time": "2026-08-03 12:37:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：價值增長已成為全球智慧手機市場增長核心】8月3日，Counterpoint Research釋出最新市場監測報告，Counterpoint Research高階分析師Shilpi Jain在報告中表示，全球智慧手機市場已進入一個新階段，出貨量不再是增長的主要驅動力，價值增長已成為市場增長的核心，而持續上漲的零部件成本則進一步加速了這一趨勢。展望未來，隨著儲存供應緊張及成本上漲短期內難以緩解，預計OEM將繼續提價，供應正逐漸成為制約行業發展的關鍵因素，智慧手機行業在2026年下半年可能會面臨更嚴重的出貨量下滑。因此，預計未來幾個季度ASP（平均售價）也將隨之繼續上漲。"
-    },
-    {
-      "id": "5021646",
-      "time": "2026-08-03 12:36:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【迅策一度飆漲26.3% 料上半年同比扭虧為盈】為金融機構開發資料整理與分析平臺的軟體開發商--迅策週一早盤一度飆升26.3%。該公司此前公告稱，預計上半年母公司擁有人應占利潤約7,251萬元人民幣，而上年同期為母公司擁有人應占虧損8,943萬元。同比扭虧為盈主要因為高盈利業務的利潤佔比穩步擴大；平臺化與模組化的產品架構規模效應釋放，運營效率提升；研發費用、銷售費用及行政管理費用佔比較去年同期最佳化；及資金管理效率提升，投資收益貢獻增量收益，增厚期內利潤。*迅策今年迄今暴漲134.3%，同期恒生指數.HSI上揚1%。"
-    },
-    {
-      "id": "te:economy:572028",
-      "time": "2026-08-03 12:36:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Exports YoY",
-        "Importance 1"
-      ],
-      "text": "Indonesia Exports Rise More Than Expected — Indonesia's exports surged 8.84% year-on-year in June 2026, recovering from a 5.73% decline in May, which was the steepest fall in six months, and surpassing market forecasts of a 0.25% increase. It marked the fourth increase in exports so far this year."
-    },
-    {
-      "id": "5021645",
-      "time": "2026-08-03 12:36:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【正泰電器成立新能源公司 含多項太陽能熱相關業務】企查查APP顯示，近日，浙江盛清泰新能源有限公司成立，法定代表人為盧凱，註冊資本為2000萬元，經營範圍包含：光伏裝置及元器件銷售；充電樁銷售；太陽能熱發電產品銷售；太陽能熱發電裝備銷售等。企查查股權穿透顯示，該公司由正泰電器旗下正泰安能數字能源（浙江）股份有限公司全資持股。"
-    },
-    {
-      "id": "5021644",
-      "time": "2026-08-03 12:35:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全紅嬋官宣成為朵薇品牌代言人】8月3日，黃子韜主理的衛生巾品牌“朵薇”官宣品牌代言人為全紅嬋。"
-    },
-    {
-      "id": "5021643",
-      "time": "2026-08-03 12:35:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "EchoStar旗下子公司休斯衛星系統申請破產，列報資產負債10億至100億美元。"
     }
   ]
 }

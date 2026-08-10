@@ -1,7 +1,51 @@
 {
   "date": "2026-08-10",
-  "count": 846,
+  "count": 851,
   "items": [
+    {
+      "id": "mkt:019fe9f7-0501-7aab-8fd1-04744a438db3",
+      "time": "2026-08-10 12:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ESA director warns Europe could face launch‑vehicle shortage around 2030】European Space Agency Director Joseph Aschbacher warned Europe could face a domestic launch‑vehicle shortage around 2030 as satellite launch demand rises. ESA is assessing future launch needs and projects total launch requirements from current and planned constellations and missions will peak around 2029–2031. Aschbacher said he will raise the issue with ESA member states to ensure Europe can use domestically produced rockets to meet demand."
+    },
+    {
+      "id": "5033236",
+      "time": "2026-08-10 12:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "莫斯科市長：五架飛向莫斯科的無人機已被擊落。"
+    },
+    {
+      "id": "5033235",
+      "time": "2026-08-10 12:37:01",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【受黑海地區供應中斷影響 小麥價格創一週新高】受黑海航運受阻，這一重要糧食產區或出現供應短缺影響，美國小麥期貨漲至一週多以來最高水平。因俄烏衝突帶來安全風險加劇，土耳其上週末暫停本國船隻在黑海通行。土耳其外長哈坎・菲丹呼籲該地區實施襲擊“暫停令”。此前烏克蘭於週五釋出公告稱，受俄羅斯襲擊影響，其2026‑2027銷售年度農產品出口量或將較此前預期下滑超半數。烏克蘭政府表示，烏克蘭是全球主要農產品出口國之一，糧食可供給約4億人口。芝加哥交投最活躍的小麥期貨週一最大漲幅達1.8%，創下7月30日以來新高，帶動整個穀物板塊上行。硬紅冬小麥合約漲幅更為迅猛，主力合約最高上漲2.4%。"
+    },
+    {
+      "id": "mkt:019fe9f4-c189-7aab-8fd0-f980cf4890d7",
+      "time": "2026-08-10 12:35:59",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raised its year-end 2026 S&P 500 target to 8,000 from 7,800."
+    },
+    {
+      "id": "5033234",
+      "time": "2026-08-10 12:34:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日聯科技第10000臺智檢裝備成功交付】近日，日聯科技舉辦第10000臺智慧檢測裝備交付活動，相關智慧檢測裝備成功交付安捷利電子。日聯科技業務現已拓展至半導體先進封裝、儲存晶片、光模組、商業航天、固態電池等前沿產業領域。"
+    },
     {
       "id": "5033233",
       "time": "2026-08-10 12:34:21",
