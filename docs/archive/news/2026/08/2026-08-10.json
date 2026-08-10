@@ -1,7 +1,287 @@
 {
   "date": "2026-08-10",
-  "count": 2483,
+  "count": 2510,
   "items": [
+    {
+      "id": "mkt:019fec53-bbcb-7aab-8fdd-66c541221298",
+      "time": "2026-08-10 23:38:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Supreme Leader appoints Abdollahi as chief of staff of the armed forces."
+    },
+    {
+      "id": "mkt:019fec52-9888-7aab-8fdd-5ccaafe839f0",
+      "time": "2026-08-10 23:37:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equity closes Aug 10 (Mon): Germany DAX down 26.68 pts (-0.10%) at 26,328.67; UK FTSE 100 down 39.27 pts (-0.36%) at 10,861.82; France CAC 40 up 11.10 pts (+0.13%) at 8,726.03; Euro Stoxx 50 up 10.39 pts (+0.16%) at 6,534.25; Spain IBEX 35 down 31.41 pts (-0.16%) at 20,155.69; Italy FTSE MIB down 83.19 pts (-0.15%) at 53,634.00."
+    },
+    {
+      "id": "mkt:019fec52-4a2e-7aab-8fdd-545eed788c4f",
+      "time": "2026-08-10 23:37:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Iran's Supreme Leader has appointed six new military commanders."
+    },
+    {
+      "id": "mkt:019fec51-b8b1-7aab-8fdd-4bebece02d46",
+      "time": "2026-08-10 23:36:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 2-year/10-year Treasury yield curve steepened to its steepest since late May, with the 10s-2s spread at 45.7bps."
+    },
+    {
+      "id": "5034415",
+      "time": "2026-08-10 23:36:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【日央行公佈會議意見 多名委員呼籲加快加息】當地時間10日，日本央行公佈了今年7月30日至31日的貨幣政策會議上出現的主要意見。儘管此次會議後，日本央行將政策利率維持在1%不變，但部分政策委員警告稱，不能忽視通脹超過2%的風險，並提出應當加快加息步伐。日本內閣府7月24日釋出的2026財年經濟財政白皮書指出，由於中東局勢帶來輸入性通脹壓力，同時勞動力短缺等結構性問題持續存在，日本經濟復甦仍面臨多重挑戰。（央視新聞）"
+    },
+    {
+      "id": "5034414",
+      "time": "2026-08-10 23:35:48",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部 2 年期‑10 年期國債收益率曲線創 5 月末以來最陡水平，最新利差 45.7 個基點。"
+    },
+    {
+      "id": "mkt:019fec50-bf52-7aab-8fdd-46cd93c1f6d2",
+      "time": "2026-08-10 23:35:42",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【RMB cross-border payment system launched in Namibia】Standard Bank's Namibian unit announced on the 10th it has gone live with the RMB Cross-border Interbank Payment System (CIPS), becoming the first bank in Namibia to offer direct RMB settlement. CEO Erwin Chipuka said the service will speed settlement, reduce FX risk and give companies trading with China a competitive edge."
+    },
+    {
+      "id": "5034413",
+      "time": "2026-08-10 23:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人民幣跨境支付系統在奈米比亞啟動 】標準銀行奈米比亞子行10日宣佈正式啟動人民幣跨境支付系統（CIPS）服務，成為奈米比亞首家提供該服務的銀行。（新華社）"
+    },
+    {
+      "id": "5034412",
+      "time": "2026-08-10 23:34:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖任命六名新軍事指揮官。"
+    },
+    {
+      "id": "mkt:019fec4f-3d80-7aab-8fdd-3d9ead636197",
+      "time": "2026-08-10 23:34:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury bill auction on Aug. 10: bid-cover ratio 2.85, prior 2.98."
+    },
+    {
+      "id": "mkt:019fec4f-1fd8-7aab-8fdd-3461e7df2f6a",
+      "time": "2026-08-10 23:33:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 6-month Treasury auction through Aug 10: percentage of awards at the stop-out yield 96.11%, prior 65.4%."
+    },
+    {
+      "id": "mkt:019fec4f-0ce9-7aab-8fdd-2dc248fa4262",
+      "time": "2026-08-10 23:33:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 3-month Treasury auction as of Aug. 10 — share of issue allocated at the awarded yield 82.94%, prior 10.13%."
+    },
+    {
+      "id": "mkt:019fec4f-0b6b-7aab-8fdd-26a2bcceb62d",
+      "time": "2026-08-10 23:33:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 3-month Treasury auction to Aug. 10: bid-cover ratio 2.88, prior 2.61."
+    },
+    {
+      "id": "mkt:019fec4f-0b58-7aab-8fdd-1db49003eb77",
+      "time": "2026-08-10 23:33:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US 6-month Treasury auction on Aug 10: stop-out yield 3.83%, prior 3.86%."
+    },
+    {
+      "id": "mkt:019fec4e-cfbe-7aab-8fdd-14b55e06816e",
+      "time": "2026-08-10 23:33:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Aug.10) | actual 2.85 | previous 2.98"
+    },
+    {
+      "id": "mkt:019fec4e-cf68-7aab-8fdd-0ffb7063b894",
+      "time": "2026-08-10 23:33:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Aug.10) | actual 96.11% | previous 65.4%"
+    },
+    {
+      "id": "mkt:019fec4e-cf58-7aab-8fdd-041183c574b5",
+      "time": "2026-08-10 23:33:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Aug.10) | actual 3.83% | previous 3.86%"
+    },
+    {
+      "id": "mkt:019fec4e-cf1d-7aab-8fdc-fbcbecccc57b",
+      "time": "2026-08-10 23:33:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Aug.10) | actual 2.88 | previous 2.61"
+    },
+    {
+      "id": "mkt:019fec4e-cf06-7aab-8fdc-f59b82b9c930",
+      "time": "2026-08-10 23:33:35",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Aug.10) | actual 82.94% | previous 10.13%"
+    },
+    {
+      "id": "mkt:019fec4e-a8ae-7aab-8fdc-ef8d0aa87be2",
+      "time": "2026-08-10 23:33:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "U.S. 3-month Treasury auction on Aug. 10: stop-out yield 3.735% vs 3.75% prior."
+    },
+    {
+      "id": "mkt:019fec4e-808c-7aab-8fdc-e4068caa6463",
+      "time": "2026-08-10 23:33:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Aug.10) | actual 3.735% | previous 3.75%"
+    },
+    {
+      "id": "5034411",
+      "time": "2026-08-10 23:32:33",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.735%，投標倍數2.88。拍賣六個月期國債，得標利率3.830%，投標倍數2.85。"
+    },
+    {
+      "id": "5034410",
+      "time": "2026-08-10 23:30:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "德國DAX 30指數初步收漲0.15%，報26359.10點，有望延續非農日創收盤歷史新高的表現。法國股指初步收漲0.12%，義大利股指初步收跌0.15%、銀行指數漲0.07%，英國股指初步收跌0.38%。"
+    },
+    {
+      "id": "5034409",
+      "time": "2026-08-10 23:30:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.02%，報660.37點。歐元區STOXX 50指數初步收漲0.21%，報6537.28點，整體衝高回落。富時泛歐績優300指數初步收漲0.04%，報2640.09點。"
+    },
+    {
+      "id": "mkt:019fec4b-b0f0-7aab-8fdc-dc9244a1ba31",
+      "time": "2026-08-10 23:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude climbed above $86/bbl for the first time since July 31, up 5.53% intraday. WTI crude gained 5.3%."
+    },
+    {
+      "id": "mkt:019fec4a-38ab-7aab-8fdc-d76ca6c971a6",
+      "time": "2026-08-10 23:28:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European natural gas prices rose 10.1% to €61.14/MWh."
+    },
+    {
+      "id": "5034408",
+      "time": "2026-08-10 23:28:28",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲天然氣價格漲10.1%，報 61.14 歐元 / 兆瓦時。"
+    },
     {
       "id": "5034407",
       "time": "2026-08-10 23:27:58",
