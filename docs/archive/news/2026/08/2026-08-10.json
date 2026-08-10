@@ -1,7 +1,153 @@
 {
   "date": "2026-08-10",
-  "count": 1504,
+  "count": 1519,
   "items": [
+    {
+      "id": "mkt:019feaed-398d-7aab-8fd6-58f6ddcf589c",
+      "time": "2026-08-10 17:07:23",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "PBOC said under the Memorandum between the People's Bank of China and the Deutsche Bundesbank it has authorized Deutsche Bank AG to serve as the renminbi clearing bank in Frankfurt."
+    },
+    {
+      "id": "5033686",
+      "time": "2026-08-10 17:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "根據《中國人民銀行與德意志聯邦銀行備忘錄》，中國人民銀行決定授權德意志銀行股份有限公司擔任法蘭克福人民幣清算行。"
+    },
+    {
+      "id": "mkt:019feaec-e968-7aab-8fd6-551e4507cf46",
+      "time": "2026-08-10 17:07:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "【Senator Sanders urges AI firms to pause development, warns Congress may act】Axios reports Senator Bernie Sanders has sent letters to OpenAI CEO Sam Altman, ANTHROPIC CEO Dario Amodei and Mark Zuckerberg urging a pause in AI development and warning that lawmakers will intervene if they do not. Sanders wrote: “At a time when we have already seen humans lose control and produce potentially dangerous viruses, your companies are still racing—pouring tens of billions of dollars into a technology no one can fully understand, predict or control.” Axios adds that major AI legislation, particularly progressive-led efforts, is unlikely to pass this Congress; expect symbolic bills and public pressure now, but if Democrats retake either chamber Congress could pursue investigations and subpoenas of tech CEOs."
+    },
+    {
+      "id": "5033685",
+      "time": "2026-08-10 17:06:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：推動算力和基礎大模型擴大境外呼叫 支援智慧體、多模態生成等模型產品出口】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》。其中指出，佈局與人工智慧產業協同發展的服務貿易。吸引企業和機構設立人工智慧研發中心、開源平臺和合作實驗室。推動算力和基礎大模型擴大境外呼叫，支援智慧體、多模態生成等模型產品出口。推動具身智慧等智慧終端企業拓展全週期服務新模式。支援人工智慧賦能醫療、教育、專業服務等行業。辦好世界人工智慧大會和全球開發者活動，加快世界人工智慧合作組織總部建設。支援浦東新區建設人工智慧創新應用先導區，支援徐彙區建設“模速空間”大模型創新生態社群。探索建立人工智慧全球治理體系。"
+    },
+    {
+      "id": "te:economy:574112",
+      "time": "2026-08-10 17:06:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Czech Unemployment Rate Rises to 5% in July — Czech Republic’s unemployment rate rose to 5.0% in July 2026 from 4.8% in June, exceeding market expectations of 4.9% and marking the highest level in recent months. The number of unemployed increased by 7,162 from the previous month and by 2,896 year-on-year to 367,000. Women accounted for 54.5% of the total, while men represented 45.5%. Meanwhile, 35,386 applicants left the records, 6,768 fewer than in June but 5,720 more than a year earlier. A total of 23,975 applicants found new jobs. At the end of July, employment offices registered 16,379 school graduates and young people, accounting for 4.5% of total unemployment, up from 4.4% in June and 3.9% a year earlier. Job vacancies rose by 1,078 to 100,932."
+    },
+    {
+      "id": "5033684",
+      "time": "2026-08-10 17:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芳源股份：2026年上半年營收14.66億元 同比增長62.87%】芳源股份公告稱，2026年上半年，公司實現營業收入14.66億元，同比增長62.87%；綜合毛利率達11.14%，較2025年末增長4.96個百分點。分產品線來看，前驅體、碳酸鋰產品出貨量增長，硫酸鹽類產品出貨量有降有升，高純電子化學品尚處初期。公司已實現戰略轉型，上半年回收料採購總量約2萬噸，佔主原料採購金額比重提升至約80%。此外，公司新增授權發明專利3項、發明專利申請2項，積極與投資者溝通，未來將探索多元化回報路徑。"
+    },
+    {
+      "id": "5033683",
+      "time": "2026-08-10 17:06:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：美國獨立參議員桑德斯敦促領先的人工智慧公司CEO們暫停人工智慧開發，並警告說，如果不採取行動，立法者將介入。"
+    },
+    {
+      "id": "5033682",
+      "time": "2026-08-10 17:05:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞富時吉隆坡綜合指數收盤基本持平，報1735.37點。"
+    },
+    {
+      "id": "mkt:019feaeb-20c0-7aab-8fd6-4f6d29ad3a58",
+      "time": "2026-08-10 17:05:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Shanghai targets services trade above $300 billion by 2030】Shanghai Municipal Commission of Commerce and six other municipal departments issued a plan to build a national services-trade innovation demonstration zone, coordinating the city's 'five centers' construction and prioritizing demand-led measures, reform, technology enablement and greater openness to expand, upgrade and internationalize services trade. The plan sets a citywide services-trade target of $270 billion by 2027 and above $300 billion by 2030, and calls for a more optimized trade structure, greater concentration of trade participants, freer factor mobility and stronger international competitiveness of service brands as part of positioning Shanghai as a national demonstration and a global services-trade hub."
+    },
+    {
+      "id": "5033681",
+      "time": "2026-08-10 17:05:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "BTG Pactual/Nexus 巴西大選民調：第二輪模擬投票盧拉 47%，弗拉維奧 44%。"
+    },
+    {
+      "id": "mkt:019feaeb-0e85-7aab-8fd6-46905921c873",
+      "time": "2026-08-10 17:05:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Axios reported U.S. independent Senator Sanders urged CEOs of leading AI firms to pause AI development, warning lawmakers would intervene if companies do not act."
+    },
+    {
+      "id": "5033680",
+      "time": "2026-08-10 17:04:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶光股份：聘任楊逍為公司副總經理】寶光股份公告稱，公司於2026年8月10日召開董事會會議，同意聘任楊逍擔任公司副總經理，分管投融資等工作，聘期至第八屆董事會任期屆滿。截至公告日，楊逍未持有公司股份，與公司其他董監高、控股股東及持股5%以上股東無關聯關係，符合任職資格。其曾任職於德勤、明陽智慧能源等公司。"
+    },
+    {
+      "id": "5033679",
+      "time": "2026-08-10 17:04:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯宇製藥：注射用帕瑞昔布鈉等產品獲德、荷、西上市許可】匯宇製藥公告稱，子公司Seacross (Europe) Pharma Ltd.近期獲德國、荷蘭、西班牙藥品監管部門核准簽發的注射用帕瑞昔布鈉、唑來膦酸注射液上市許可。注射用帕瑞昔布鈉用於成人術後短期疼痛治療，唑來膦酸注射液用於預防骨轉移患者骨骼相關事件等。此次獲批利於豐富國際產品管線，但受競爭等因素影響，未來能否產生較大收入不確定，短期內對業績無重大影響。"
+    },
+    {
+      "id": "5033678",
+      "time": "2026-08-10 17:04:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【德爾未來：股價異常波動 目前業績仍處虧損狀態】德爾未來公告稱，2026年8月6日、8日7日、8月10日，公司股票連續三個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。公司2025年度營收11.66億元，同比降23.53%，淨虧損2.21億元，同比降146.77%；2026年上半年預計淨虧損1700萬 - 2500萬元。目前業績仍虧損，股價或有估值迴歸風險。經自查，公司不存在應披露未披露重大事項，生產經營正常。"
+    },
+    {
+      "id": "5033677",
+      "time": "2026-08-10 17:03:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Kalshi與納斯達克市場監控達成合作 加強對旗下市場交易活動的監管】事件預測平臺Kalshi與納斯達克市場監控達成多年期合作伙伴關係，以加強對旗下市場交易活動的監管。"
+    },
     {
       "id": "mkt:019feae9-b4e3-7aab-8fd6-3aa3e0472a61",
       "time": "2026-08-10 17:03:32",
