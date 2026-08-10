@@ -1,7 +1,94 @@
 {
-  "updated": "2026-08-10 15:20:22",
-  "count": 15965,
+  "updated": "2026-08-10 15:24:20",
+  "count": 15959,
   "items": [
+    {
+      "id": "5033457",
+      "time": "2026-08-10 15:23:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部表示，受出口中斷影響，今年秋季烏克蘭糧食倉儲缺口或將達到1100萬噸。"
+    },
+    {
+      "id": "te:economy:574060",
+      "time": "2026-08-10 15:23:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Austria Industrial Output Unchanged in June — Industrial production in Austria was unchanged in June 2026 from the same month a year earlier, following a flat reading in May. The industry sector continued to contract (-1.5% vs -0.7% in May), while construction activity grew at a faster pace (5.6% vs 3.1%). Among the main industrial groupings, consumer non-durables declined further (-7.0% vs -3.0%), while growth in intermediate goods slowed (0.5% vs 1.3%). Meanwhile, energy production fell at a softer pace (-4.6% vs -7.8%), whereas output for capital goods edged up (0.1% vs -0.7%) and consumer durables rose sharply (12.4% vs 9.6%). On a seasonally adjusted monthly basis, industrial production rose by 0.5%, rebounding from a 0.3% fall in the previous month."
+    },
+    {
+      "id": "5033456",
+      "time": "2026-08-10 15:22:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指<.JKSE>走勢反轉，最新上漲0.1%。"
+    },
+    {
+      "id": "5033455",
+      "time": "2026-08-10 15:22:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月10日滬深兩市漲停分析】滬指震盪反彈漲0.67%，醫藥、消費股集體走強。寶鼎科技、百花醫藥均5連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019fea8c-ca36-7aab-8fd3-fbb7a36bbcd5",
+      "time": "2026-08-10 15:22:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225"
+      ],
+      "text": "【Market pricing lifts September BOJ rate-hike odds to 66%; JGB yields rise】Investors, after release of the Bank of Japan’s policy meeting minutes, are increasingly focused on a faster-than-expected tightening path, boosting JGB yields on Monday. The 10-year JGB yield rose about 2.5bps to 2.810%; the 2-year hit a roughly 31-year high of 1.620%; the 5-year reached a record 2.090%. Totan Research and Totan ICAP show market-implied September rate-hike odds at 66% as of Monday afternoon, up from about 30% at month-end."
+    },
+    {
+      "id": "5033454",
+      "time": "2026-08-10 15:21:15",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本日經225指數因人工智慧漲勢創近四周最高收盤價】日本日經指數週一上漲 逾2%，創下近四周來最高收盤價，受人工智慧和晶片相關股票推動，此前華爾街週五反彈，但對中東局勢的擔憂限制了整體漲幅。 日經225指數上漲 2.08%，收於 66970.22 點，創下自 7 月 15 日以來的最高收盤點位。更廣泛的東證指數上漲 0.63%，收於 4100.61 點。 大和證券高階策略師橋 Daisuke Hashizume表示：\"晶片相關股票的上漲支撐了日經指數。對美聯儲加息的預期減弱是推動因素。\"晶片相關企業愛德萬測試和東京電子分別上漲 6.43%和 4.13%。藤倉上漲 7.62%，延續了上週五這家光纖電纜製造商上調年度淨利潤預期後的強勁漲勢。作為人工智慧風向標英偉達供應商的揖斐電上漲 4.03%。瑞可利控股 （Recruit Holdings）飆升 22.79%，觸及 16165 日元的單日漲停上限，此前這家人力資源服務公司上調的年度業績預測超出市場預期。優衣庫品牌所有者迅銷集團下跌 0.74%。 鋰離子電池材料製造商三井金屬礦業在修訂後的年度淨利潤預測未能達到市場預期後，股價暴跌 13.55%。"
+    },
+    {
+      "id": "5033453",
+      "time": "2026-08-10 15:20:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25925.410點；恒生科技指數現漲1.047%。"
+    },
+    {
+      "id": "mkt:019fea8b-b1cf-7aab-8fd3-f00fcf3f51d8",
+      "time": "2026-08-10 15:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman urged regional countries to strengthen ties, build mutual trust and safeguard security without external interference."
+    },
+    {
+      "id": "em:qqyh_mlc:202608103836552732",
+      "time": "2026-08-10 15:19:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【澳洲國民銀行外匯策略師：美聯儲短期大機率維持觀望 保持利率不變】澳洲國民銀行外匯策略師認為，美國通脹環境依舊錯綜複雜，美聯儲短期大機率維持觀望，保持利率不變，繼續等待更多經濟訊號。"
+    },
     {
       "id": "mkt:019fea8a-114c-7aab-8fd3-ef265ebcc9b3",
       "time": "2026-08-10 15:19:04",
@@ -145207,149 +145294,6 @@
         "其他"
       ],
       "text": "黎巴嫩總統府：約瑟夫·奧恩總統與機場安全部隊指揮官法迪·克福裡准將一起審視了拉菲克·哈里里國際機場的局勢，並讚揚了他在部隊所承擔任務框架內所付出的努力，重申他對採取的維護機場安全以及旅客、抵達者和工作人員安全的措施的支援。"
-    },
-    {
-      "id": "5021858",
-      "time": "2026-08-03 15:24:16",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【機構：AI半導體基本面未變 韓股短期或緩慢回升】未來資產證券認為，當前韓國本土股市已接近底部區間。機構指出，近期人工智慧（AI）基礎設施相關個股大幅下跌，並非企業基本面遭到破壞，而是由持倉頭寸集中平倉所導致。 不過，對於股價恢復速度，未來資產證券參考過去市場大跌後的恢復階段，認為此次走勢可能更接近2022年美聯儲加息週期期間的市場修復過程。 該機構表示，在市場持續警惕利率上漲的環境下，很難期待估值水平快速提升，因此相比快速反彈的V型走勢，更可能出現漸進式恢復。券商同時判斷，對韓國本土股市影響力極大的外資後續追加拋售壓力將較為有限。年初至今外資在韓國綜合股價指數累計淨賣出金額達160萬億韓元，創下歷史最高值。上月外資三個月滾動累計淨賣出額佔日均總市值比重為-1.8%，拋售規模與2020年新冠疫情時期、2008至2009年全球金融危機時期處於同一水平。據此未來資產證券預測，本月韓國股市將進入溫和修復階段，核心邏輯為市場估值吸引力提升，且企業盈利並未出現實質性受損。"
-    },
-    {
-      "id": "5021857",
-      "time": "2026-08-03 15:23:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST惠倫成立電子公司 含電子元器件零售業務】企查查APP顯示，近日，上海惠聯互通電子有限公司成立，法定代表人為李召華，註冊資本為1000萬元，經營範圍包含：電子元器件批發；電子元器件零售；行動通訊裝置銷售；通訊裝置銷售；模具銷售等。企查查股權穿透顯示，該公司由ST惠倫全資持股。"
-    },
-    {
-      "id": "5021856",
-      "time": "2026-08-03 15:23:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【8月3日滬深兩市漲停分析】科創50指數低開低走跌超5%，核電板塊逆勢走強。傳智教育6連板，一鳴食品5連板，一圖看懂>>"
-    },
-    {
-      "id": "te:economy:572110",
-      "time": "2026-08-03 15:23:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Fall as Lower Oil Prices Ease Inflation Concerns — UK 10-year gilt yields fell to 4.99% as declining oil prices eased concerns over inflation and the need for higher interest rates. Crude prices dropped on hopes that the US and Iran could reach an agreement to reopen the Strait of Hormuz after the US canceled planned strikes against Iran. President Donald Trump also said negotiations with Tehran would resume on Monday, reducing fears of further escalation in the conflict. Meanwhile, the Bank of England's policy meeting last week reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to scale back bets on interest rate hikes in 2026."
-    },
-    {
-      "id": "mkt:019fc681-59e1-7aab-8f50-e5bec74fe457",
-      "time": "2026-08-03 15:23:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's Ministry of Agriculture launches 100-day campaign at national autumn-grain meeting to bolster field management and disaster response】The Ministry of Agriculture held a national autumn-grain production on-site meeting in Dezhou, Shandong, saying autumn grain accounts for the bulk of annual output and the current period is critical for flood/drought control and yield formation. It ordered a 100-day campaign to strengthen field management and disaster resilience, requiring crop- and region-specific fertilizer and water management and 'one-spray, multi-promotion' measures to upgrade seedling conditions. Provinces were told to implement flood-season agricultural disaster-prevention plans, focus on heavy rain/flooding, drought, heat and typhoons, strengthen monitoring and early warning, and use agricultural disaster-relief funds to minimize losses. The ministry also prioritized intensified control of major pests and diseases — rice borers and 'two-migration' migratory pests, corn borers and southern rust — advancing integrated, coordinated and emergency prevention-and-control measures."
-    },
-    {
-      "id": "5021855",
-      "time": "2026-08-03 15:22:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：兩名俄公民在泰國遇害，泰國總理道歉，俄方敦促公正調查】綜合泰國《曼谷郵報》等媒體8月2日報道，對於兩名俄羅斯公民近期在泰國遇害，泰國總理阿努廷作出表態並進行道歉。據泰國媒體報道，一對俄羅斯姐弟於7月26日在泰國春武里府失蹤，他們的屍體在一片樹林中被發現。警方在沙繳府逮捕了兩名嫌疑人，後者承認殺害了這對俄羅斯姐弟。另據俄新社7月31日報道，俄羅斯駐泰國大使館對該媒體稱，希望泰方對這一案件進行公正調查，並以公正方式懲罰兇手。（環球網）"
-    },
-    {
-      "id": "5021854",
-      "time": "2026-08-03 15:21:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "伊藤忠商事首席財務官：中東戰爭對公司4-6月盈利產生了50億日元的正向影響，但由於樹脂原材料與電力成本上漲，我們仍預計全年將受到75億日元的負面影響。"
-    },
-    {
-      "id": "mkt:019fc680-3a2e-7aab-8f50-de6ecd5ac379",
-      "time": "2026-08-03 15:21:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman Baghaei said Iran's issues with the United States should be resolved at a later stage."
-    },
-    {
-      "id": "5021853",
-      "time": "2026-08-03 15:21:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人巴加埃： 伊美相關問題應留待後續階段處理。"
-    },
-    {
-      "id": "te:economy:572108",
-      "time": "2026-08-03 15:21:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Turkey Inflation Rate Hits 4-Month Low — The annual inflation rate eased to 31.75% in July 2026 from 32.11% in the previous month, slightly below market expectations of 31.8%. It marked the lowest reading since March, as prices slowed for housing and utilities (40.32% vs 45.14% in June), transport (30.83% vs 31.15%), alcoholic beverages and tobacco (29.38% vs 34.15%), information and communication (23.97% vs 25.57%), recreation, sport and culture (23.36% vs 25.39%), education (44.18% vs 46.10%), insurance and financial services (25.64% vs 28.07%), and miscellaneous goods and services (21.74% vs 22.71%). Meanwhile, inflation accelerated for food and non-alcoholic beverages (37.53% vs 35.45%), clothing and footwear (16.48% vs 14.18%), furniture and household goods (22.41% vs 22.32%), health (43.89% vs 33.62%), and restaurants and hotels (31.65% vs 31.61%). On a monthly basis, consumer prices rose to a three-month high of 1.78%, from 0.99% in June, though slightly below market forecasts of 1.83%."
-    },
-    {
-      "id": "5021852",
-      "time": "2026-08-03 15:21:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達50億港元。"
-    },
-    {
-      "id": "5021851",
-      "time": "2026-08-03 15:20:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "據烏克蘭方面報道，切爾尼戈夫的一家企業因襲擊而受損。"
-    },
-    {
-      "id": "mkt:019fc67e-ef11-7aab-8f50-d314976446f4",
-      "time": "2026-08-03 15:20:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian foreign ministry spokesman BAGHAEI said an agreement with Oman on air routes is insufficient to reopen the Strait of Hormuz, and the situation will remain unchanged as long as US \"aggression\" continues."
-    },
-    {
-      "id": "te:economy:572107",
-      "time": "2026-08-03 15:20:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Georgia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Georgia Inflation Eases to 4-Month Low — Georgia's annual inflation rate eased to 5.5% in July 2025, the lowest level in four months, from 5.8% in June. The main downward pressure came from softer price increases for food and non-alcoholic beverages (4.9% vs 5.6% in June) and transport (14.2% vs 16.5%). Price growth also slowed for restaurants and hotels (7.9% vs 8.4%) and clothing and footwear (1.1% vs 2.1%), while remaining unchanged for health (4.7%) and education (2.4%). Meanwhile, prices continued to decline for furnishings, household equipment and routine household maintenance (-2.4% vs -2.2%) and communication (-6.3% vs -6.4%). In contrast, inflation rose for housing and utilities (8.3% vs 7.2%), recreation and culture (1.0% vs 0.9%), miscellaneous goods and services (7.6% vs 7.3%), and alcoholic beverages and tobacco (5.6% vs 5.4%). On a monthly basis, consumer prices decreased by 0.4% in July, after rising 0.1% in June and marking the first monthly fall since last December."
-    },
-    {
-      "id": "5021850",
-      "time": "2026-08-03 15:20:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴加埃表示，只要美國的\"侵略\"行為持續，與阿曼就航線達成協議不足以促成海峽重新開放，局勢將維持現狀。"
     }
   ]
 }
