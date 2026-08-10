@@ -1,7 +1,234 @@
 {
   "date": "2026-08-10",
-  "count": 2235,
+  "count": 2257,
   "items": [
+    {
+      "id": "mkt:019febe0-5b37-7aab-8fda-b94906729d71",
+      "time": "2026-08-10 21:32:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) shares rose 1.8% to trade back above the $135 IPO price."
+    },
+    {
+      "id": "mkt:019febe0-237d-7aab-8fda-b069086b0ed6",
+      "time": "2026-08-10 21:32:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "TASS, citing a Russian diplomat, said Moscow will regard any military provocations along the banks of the Dniester River as an attack on Russia."
+    },
+    {
+      "id": "mkt:019febdf-f557-7aab-8fda-a85de41c472c",
+      "time": "2026-08-10 21:32:30",
+      "tags": [
+        "MKT News",
+        "ACHR.N",
+        "Impact bullish"
+      ],
+      "text": "Archer Aviation shares rose 14% after reports it would acquire Boeing subsidiaries Wisk Aero, Insitu and SkyGrid."
+    },
+    {
+      "id": "5034261",
+      "time": "2026-08-10 21:32:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數和納斯達克100指數開盤變化不大。"
+    },
+    {
+      "id": "mkt:019febdf-b1e6-7aab-8fda-a0c42fb99f16",
+      "time": "2026-08-10 21:32:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the open on Monday, Aug. 10, the Dow Jones fell 17.50 points, or 0.03%, to 54,019.43; the S&P 500 dropped 1.00 point, or 0.01%, to 7,756.46; the Nasdaq Composite slipped 19.93 points, or 0.08%, to 26,670.69."
+    },
+    {
+      "id": "5034260",
+      "time": "2026-08-10 21:32:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿徹航空股份上漲14%，此前該公司將收購波音旗下威斯克航空、因西圖（Insitu）及SkyGrid三家子公司；波音將對該公司投資並開展合作。"
+    },
+    {
+      "id": "mkt:019febdf-8e68-7aab-8fda-9bc58c28c8e6",
+      "time": "2026-08-10 21:32:04",
+      "tags": [
+        "MKT News",
+        "TENX.O",
+        "Impact bearish"
+      ],
+      "text": "Tenax Therapeutics shares plunged 87.2% after the company said its cardiac drug failed to meet the primary endpoint in a late-stage trial."
+    },
+    {
+      "id": "5034259",
+      "time": "2026-08-10 21:31:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交官表態：莫斯科將德涅斯特河沿岸地區的任何軍事挑釁都視為對俄羅斯的襲擊。"
+    },
+    {
+      "id": "5034258",
+      "time": "2026-08-10 21:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "SPACEX股價上漲1.8%，重回135美元IPO發行價上方。"
+    },
+    {
+      "id": "5034257",
+      "time": "2026-08-10 21:31:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英特爾股價在公司宣佈150億美元股票發售計劃後下跌4.4%。"
+    },
+    {
+      "id": "5034256",
+      "time": "2026-08-10 21:31:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Meta股價上漲1.4%，此前該公司推出全新人工智慧模型。"
+    },
+    {
+      "id": "mkt:019febde-c248-7aab-8fda-94058856dd37",
+      "time": "2026-08-10 21:31:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "META.O"
+      ],
+      "text": "Microsoft (MSFT.O) shares rose 1.4% after the company said it will sharply ramp up production of AI chips. Meta Platforms (META.O) shares rose 1.16% after launching a lightweight AI model, Muse Glimmer."
+    },
+    {
+      "id": "te:markets:574146",
+      "time": "2026-08-10 21:30:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 16-week High — Lockheed Martin shares increased to 595.00 USD, the highest since April 2026. Over the past 4 weeks, Lockheed Martin gained 13.68%, and in the last 12 months, it increased 38.86%."
+    },
+    {
+      "id": "te:economy:574145",
+      "time": "2026-08-10 21:30:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Tanzania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Tanzania Inflation Edges Higher in July — Tanzania’s annual inflation rate rose to 4.2% in July 2026 from 4.0% in June, returning to the level last seen in May, which was the highest since January 2023. The acceleration was mainly driven by higher inflation for transport (13.8% vs 13.6%), housing and utilities (1.6% vs 1.2%), restaurants and hotels (2.7% vs 1.9%), health (1.4% vs 1.3%), recreation and culture (0.7% vs 0.5%), education (2.8% vs 2.7%) and clothing and footwear (1.6% vs 1.3%). Meanwhile, inflation for food and alcoholic beverages and tobacco stood at 4.1% and 1.9%, respectively. In contrast, inflation eased for furnishings (2.2% vs 2.5%) and information and communication (0.6% vs 0.5%). On a monthly basis, consumer prices fell 0.1%, reversing a 0.1% increase in June."
+    },
+    {
+      "id": "mkt:019febde-70a5-7aab-8fda-8b90aa870ed9",
+      "time": "2026-08-10 21:30:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: South China Sea military training】Qinglan Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for military training on Aug 11 from 06:00 to 15:00; entry is prohibited."
+    },
+    {
+      "id": "mkt:019febde-6e95-7aab-8fda-81c9b876fb01",
+      "time": "2026-08-10 21:30:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "INTC.O",
+        "S&P500"
+      ],
+      "text": "U.S. stocks opened lower: the Dow fell 0.1%, the S&P 500 fell 0.06% and the Nasdaq fell 0.06%. Apple (AAPL.O) dropped 2.1% after Jefferies cut its rating. Intel (INTC.O) fell 4% after announcing plans for a $15 billion common stock offering."
+    },
+    {
+      "id": "5034255",
+      "time": "2026-08-10 21:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部開展深化掃黑除惡專項鬥爭第一輪集中收網行動】為深入貫徹落實黨中央關於開展深化掃黑除惡專項鬥爭的決策部署和全國掃黑除惡專項鬥爭視訊會議要求，近日，公安部指揮全國公安機關同步開展深化掃黑除惡專項鬥爭第一輪集中收網行動，成功打掉各類犯罪團伙1000餘個，抓獲犯罪嫌疑人8200餘名，破獲各類刑事案件5400餘起。（新華社）"
+    },
+    {
+      "id": "5034254",
+      "time": "2026-08-10 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌0.09%，標普500指數跌0.07%，納指跌0.04%。英特爾跌4.36%，Verisk Analytics跌4.21%，希捷跌3.17%，艾利跌2.90%。“七姐妹”方面：微軟漲1.45%，Meta Platforms漲1.21%，亞馬遜漲0.55%，谷歌漲0.30%，特斯拉跌0.23%，英偉達跌0.31%，蘋果跌1.92%。"
+    },
+    {
+      "id": "te:markets:574144",
+      "time": "2026-08-10 21:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Oracle Stock Price Hits 4-week High — Oracle shares increased to 148.92 USD, the highest since July 2026. Over the past 4 weeks, Oracle gained 12.37%, and in the last 12 months, it decreased 41.5%."
+    },
+    {
+      "id": "5034253",
+      "time": "2026-08-10 21:30:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月11日6時至15時，南海部分海域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "5034252",
+      "time": "2026-08-10 21:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯官方訊息稱，無人機襲擊俄羅斯下卡姆斯克造成的13名遇難者中，有9人死於一家旅館。"
+    },
+    {
+      "id": "5034251",
+      "time": "2026-08-10 21:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "布萊克博德透過Raiser's Edge NXT®與微軟365 AI助手實現整合，提升了籌款情報獲取的靈活性。"
+    },
     {
       "id": "5034250",
       "time": "2026-08-10 21:28:36",
