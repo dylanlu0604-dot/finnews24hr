@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-11 03:32:36",
-  "count": 15782,
+  "updated": "2026-08-11 03:36:24",
+  "count": 15793,
   "items": [
+    {
+      "id": "5034564",
+      "time": "2026-08-11 03:35:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：幾天前與美聯儲主席沃什進行了交談。"
+    },
+    {
+      "id": "mkt:019fed2b-da2d-7aab-8fe0-4af3ce21d54c",
+      "time": "2026-08-11 03:35:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said only the United States can control the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019fed2b-c586-7aab-8fe0-46f17247d3f3",
+      "time": "2026-08-11 03:34:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the US has cleared mines across the entire Strait of Hormuz."
+    },
+    {
+      "id": "5034563",
+      "time": "2026-08-11 03:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：由於偶爾有水雷，（霍爾木茲）海峽的情況有點複雜。"
+    },
+    {
+      "id": "5034562",
+      "time": "2026-08-11 03:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗問題：美國已完成整個（霍爾木茲）海峽的排雷工作。"
+    },
+    {
+      "id": "mkt:019fed2b-0630-7aab-8fe0-3e1388ea9af3",
+      "time": "2026-08-11 03:34:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump: The Strait of Hormuz is now open, we control it."
+    },
+    {
+      "id": "5034561",
+      "time": "2026-08-11 03:34:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：只有美國（能）掌控霍爾木茲海峽。"
+    },
+    {
+      "id": "5034560",
+      "time": "2026-08-11 03:33:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及霍爾木茲海峽：目前航道處於開放狀態。"
+    },
+    {
+      "id": "mkt:019fed2a-af8a-7aab-8fe0-3720232e6cda",
+      "time": "2026-08-11 03:33:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ECOPETROL: crude oil production, refining and fuel supply unaffected after earthquake."
+    },
+    {
+      "id": "5034559",
+      "time": "2026-08-11 03:32:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【因伊朗提出戰爭賠償 特朗普稱也要向伊朗索賠】美國總統特朗普10日在社交媒體發文稱，在伊朗要求美國就軍事衝突進行賠償後，他也要向伊朗提出索賠，並已指示美方談判代表將這一要求明確納入今後所有談判議程中。"
+    },
+    {
+      "id": "5034558",
+      "time": "2026-08-11 03:32:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞總統：強震已致111死87傷】哥倫比亞總統德拉埃斯普列亞10日在首都波哥大通報說，該國西部當天發生的強震已造成全國111人死亡、87人受傷。"
+    },
+    {
+      "id": "mkt:019fed29-6b7e-7aab-8fe0-28dc7e5bcad9",
+      "time": "2026-08-11 03:32:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up on 10th】Dollar index rose 0.27% to 99.809 at the New York close on the 10th. EUR/USD fell to 1.1542 from 1.1564; GBP/USD rose to 1.3509 from 1.3499. USD/JPY climbed to 159.24 from 157.55; USD/CHF 0.8101 from 0.8076; USD/CAD 1.3942 from 1.3937; USD/SEK 9.5016 from 9.4701."
+    },
     {
       "id": "5034557",
       "time": "2026-08-11 03:31:04",
@@ -143662,15 +143778,6 @@
         "其他"
       ],
       "text": "哥倫比亞央行在提交國會的報告中稱，央行技術團隊預測 2027 年國內生產總值增速為 1.9%，此前預期為 2.1%。"
-    },
-    {
-      "id": "5023201",
-      "time": "2026-08-04 03:33:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【塔可鍾在召回生菜前數週已就寄生蟲疫情與美國密歇根州展開溝通】美國密歇根州衛生部門在7月初就一種寄生蟲疫情與塔可鍾（Taco Bell）母公司百勝餐飲集團（Yum! Brands Inc.）取得了聯絡，這比該公司正式向消費者發出警告早了數週。7月2日，密歇根州衛生與公眾服務部與百勝餐飲集團討論了環孢子蟲病（cyclospora）問題，並要求與該公司的供應鏈質量保證及公關團隊進行對接。塔可鐘錶示，公司根據密歇根州的指導迅速採取了行動，從部分門店撤下了可能受影響的食材，但直到7月14日才公開證實了這一舉措。"
     }
   ]
 }
