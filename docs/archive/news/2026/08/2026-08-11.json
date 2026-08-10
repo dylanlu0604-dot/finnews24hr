@@ -1,7 +1,43 @@
 {
   "date": "2026-08-11",
-  "count": 43,
+  "count": 47,
   "items": [
+    {
+      "id": "mkt:019fec94-0d4b-7aab-8fdd-eee8fe272820",
+      "time": "2026-08-11 00:49:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces chief of staff said the military is well prepared for defense and remains ready to resume high-intensity combat at any time."
+    },
+    {
+      "id": "5034453",
+      "time": "2026-08-11 00:49:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯最高法院禁止Yabloko黨派參與杜馬選舉。"
+    },
+    {
+      "id": "5034452",
+      "time": "2026-08-11 00:47:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國32所高校被指控招生過程相互合謀】當地時間8月10日，美國一位法官裁定，包括杜克大學、康奈爾大學和西北大學在內的32所美國主要高校必須面對一項擬議的集體訴訟。該訴訟指控這些學校合謀，利用廣受歡迎的“提前錄取”招生程式，抬高了數萬名學生的學費成本。馬薩諸塞州聯邦地區法官安吉爾·凱利表示，原告（其中包括兩名衛斯理大學的前學生）提出的指控具有合理依據。這些指控稱，各校之間存在合謀行為，即同意互不爭搶透過彼此“提前錄取”專案錄取的學生。原告於去年對這些學校提起訴訟，聲稱它們違反了聯邦反壟斷法，並透過“提前錄取”招生程式抬高了數萬名學生的學費。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fec90-a93d-7aab-8fdd-e7f8e6b15718",
+      "time": "2026-08-11 00:45:31",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish",
+        "Dow",
+        "S&P500"
+      ],
+      "text": "U.S. equity indices fell: Nasdaq Composite down 0.51%, Dow Jones Industrial Average down 0.25%, S&P 500 down 0.17%."
+    },
     {
       "id": "5034451",
       "time": "2026-08-11 00:38:56",
