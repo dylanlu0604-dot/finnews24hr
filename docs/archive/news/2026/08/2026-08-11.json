@@ -1,7 +1,42 @@
 {
   "date": "2026-08-11",
-  "count": 354,
+  "count": 357,
   "items": [
+    {
+      "id": "5034630",
+      "time": "2026-08-11 06:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【ETF總規模逼近5萬億元】今年下半年以來，ETF（交易型開放式指數基金）總規模整體保持增長態勢。Wind資料顯示，截至8月10日，下半年以來ETF份額增加3742億份，達到3.4萬億份；總規模增加2534億元，達到4.99萬億元，距5萬億元僅一步之遙。資料顯示，下半年新發行48只ETF產品，總量達1629只。其中，份額增加最大的主題為金融，有31只基金跟蹤；份額增加最大的指數標的為半導體材料裝置；收益最高的指數標的為黃金股票。（證券日報）"
+    },
+    {
+      "id": "mkt:019fedcd-6329-7aab-8fe1-aab63a71245d",
+      "time": "2026-08-11 06:31:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "Commodities",
+        "Precious Metals",
+        "MCHI.O",
+        "Impact bullish",
+        "FXI.O",
+        "510300.SS"
+      ],
+      "text": "【China ETF assets approach CNY5.0 trillion】As of Aug 10, China ETF assets reached CNY4.99 trillion, up CNY253.4 billion since the start of H2; ETF units rose 374.2 billion to 3.4 trillion. Forty‑eight new ETFs launched in H2, taking the total to 1,629. Largest net share gains were in financial-themed ETFs (31 funds); the single index with the biggest unit inflows was semiconductor materials & equipment; highest-return index was gold equities. Wind data."
+    },
+    {
+      "id": "5034629",
+      "time": "2026-08-11 06:30:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局預計，8月23日上午10點15分至下午1點15分，里根國家機場將暫停航班執行，以配合華盛頓舉辦的自由250大獎賽街道賽。"
+    },
     {
       "id": "te:markets:574206",
       "time": "2026-08-11 06:29:58",
