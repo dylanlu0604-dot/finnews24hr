@@ -1,7 +1,109 @@
 {
   "date": "2026-08-10",
-  "count": 766,
+  "count": 776,
   "items": [
+    {
+      "id": "mkt:019fe9c0-ad40-7aab-8fd0-613c7837019b",
+      "time": "2026-08-10 11:39:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【SSE and SZSE seek comments on LOF delisting rules; Global Chip LOF hits limit down, silver LOF plunges】Early trading saw multiple previously high‑premium LOFs sell off. Global Chip LOF hit the down‑limit while its secondary‑market premium remained near 18%; SDIC Silver LOF fell over 8% intraday and its premium also breached ~18%. The moves followed a joint Shanghai and Shenzhen exchanges consultation draft issued last weekend that sets out two mandatory delisting scenarios for LOFs, explicitly targeting persistent high‑premium speculation, mini‑fund liquidity failures and price manipulation. A Shanghai public fund manager said delisting expectations could directly curb speculative demand for high‑premium QDII and commodity‑futures LOFs."
+    },
+    {
+      "id": "mkt:019fe9c0-7b96-7aab-8fd0-5b00f50ba691",
+      "time": "2026-08-10 11:38:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【How Trump may react to Netanyahu rejecting Gaza peace plan】Al Jazeera reporter Patty Culhane says President Trump typically reacts badly to public rebuffs and could respond if Netanyahu rejects a Gaza peace plan by withdrawing or curtailing Republican-driven US political and financial support for Israel. Culhane notes US aid to Israel now rests largely with Republicans and that Trump claims near-total control of the MAGA base and congressional Republicans; she adds prior instances of Netanyahu defying Trump, including on Lebanon and US‑Iran memoranda, produced no clear consequences."
+    },
+    {
+      "id": "5033179",
+      "time": "2026-08-10 11:38:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【退市新規徵求意見，全球晶片LOF跌停，白銀LOF重挫】週一早盤，多隻前期高溢價LOF同步回撥。其中，全球晶片LOF跌停，但溢價仍居高不下、維持在18%；國投白銀LOF盤中一度大跌超8%，溢價率同樣突破18%。行情異動或源於上週末的重磅監管新規。滬深交易所聯合釋出LOF退市新規徵求意見稿，明確兩類產品強制退市情形，精準直擊場內LOF長期存在的高溢價投機炒作、迷你基金流動性枯竭、價格易被操縱等市場頑疾。滬上一位公募人士受訪稱，對於當前溢價率較高的QDII或商品期貨LOF，退市預期或將直接打擊投機情緒。（第一財經）"
+    },
+    {
+      "id": "5033178",
+      "time": "2026-08-10 11:38:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【離岸人民幣同業拆息利率多數上行，一年期拆息創三週新高】離岸人民幣香港銀行同業拆息(CNH HIBOR)週一顯示：主要期限利率多數上行；其中一年期Hibor小漲至1.70682%，創7月20日以來新高。隔夜Hibor回落至1.34439%，一週期Hibor小跌至1.40636%，兩週期Hibor升至1.43515%。"
+    },
+    {
+      "id": "5033177",
+      "time": "2026-08-10 11:37:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大麥娛樂(01060)漲近4% 《歡迎來龍餐館》明日全國上映 預售票房已破億】大麥娛樂(01060)漲近4%，截至發稿，漲3.74%，報0.555港元，成交額1.19億港元。訊息面上，由沈騰主演的電影《歡迎來龍餐館》將於8月11日全國上映。截至8月9日，影片《歡迎來龍餐館》點映及預售總票房突破1億。大摩指出，大麥是該片的主要出品方之一。預計大麥娛樂股價未來15天內股價上升，發生機率料70%至80%以上，將上映的《歡迎來龍餐館》可成為短期股價催化劑。"
+    },
+    {
+      "id": "5033176",
+      "time": "2026-08-10 11:37:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶第二批未來產業標誌性產品名單出爐 30款硬核科技產品集中亮相】據重慶市經濟資訊委訊息，近日，重慶市經濟資訊委公佈了第二批未來產業標誌性產品名單，涉及前沿新材料、新型儲能、低空經濟等多個前沿賽道，一批本土企業自主研製的30款硬核科技產品集中亮相。"
+    },
+    {
+      "id": "5033175",
+      "time": "2026-08-10 11:36:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥在上海新設子公司】企查查APP顯示，近日，恆瑞遠核（上海）醫藥有限公司成立，法定代表人為盧韻，註冊資本為5000萬元，經營範圍包含藥品生產；藥品委託生產；藥品零售；藥品進出口等。企查查股權穿透顯示，該公司由恆瑞醫藥全資持股。"
+    },
+    {
+      "id": "5033174",
+      "time": "2026-08-10 11:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“泡菜基因”在韓國出現突變】在韓國國內和海外常有一種說法——“泡菜是刻在韓國人日常生活裡的文化基因”。但近年來，韓國人愛吃泡菜的傳統似乎發生了變化。 據韓聯社9日報道，近15年來韓國人的泡菜食用量大降。不僅如此，韓國人吃泡菜的方式也發生了改變——泡菜逐漸從小菜變成了配料。（環球網）"
+    },
+    {
+      "id": "te:markets:573993",
+      "time": "2026-08-10 11:36:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Softens After Persistent Decline in Consumer Confidence — The Indonesian rupiah edged lower on Monday, hovering near IDR 17,820 per U.S. dollar after firming to around IDR 17,780 in the prior session. Sentiment was weighed by fresh data showing consumer sentiment fell for a third straight month to a 15-month low in July, amid sustained concerns over current economic conditions and the job outlook. Caution also prevailed ahead of June retail sales data due Tuesday, after sales posted their steepest drop in three years in May due to elevated inflation and higher non-subsidised fuel prices. Still, losses were limited as the U.S. dollar index eased after weaker-than-expected U.S. job data eased bets of further tightening. Locally, foreign investors returned to Indonesian government bonds and equities in July, ending months of sustained selling and providing some support for the rupiah. Traders also remained focused on President Prabowo Subianto’s choice of the next Bank Indonesia governor following Perry Warjiyo’s abrupt departure last month."
+    },
+    {
+      "id": "mkt:019fe9bd-cb65-7aab-8fd0-50afca0023fc",
+      "time": "2026-08-10 11:35:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "【A-shares midday: ChiNext down >2% as livestock and innovative drugs outperform】A-shares diverged in morning trade. Shanghai Composite +0.2% at midday, Shenzhen Composite -1.13%, ChiNext -2.18%. Combined turnover on the Shanghai and Shenzhen bourses topped CNY1.8 trillion. More than 3,200 stocks advanced. Military and livestock farming sectors led gains; medical services and innovative-drug stocks were active, with Baihua Pharma recording a fifth consecutive daily limit-up. Advanced packaging and CPO sectors were among the biggest decliners; optical/component names weakened, with Guangxun Technology touching limit-down and several chip/optical suppliers under pressure."
+    },
     {
       "id": "mkt:019fe9bd-5b04-7aab-8fd0-4d2f29f1369b",
       "time": "2026-08-10 11:35:28",
