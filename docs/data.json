@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-11 04:26:34",
-  "count": 15795,
+  "updated": "2026-08-11 04:30:24",
+  "count": 15798,
   "items": [
+    {
+      "id": "mkt:019fed5d-65cb-7aab-8fe0-e84cd919b2ba",
+      "time": "2026-08-11 04:29:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Applied Compute valuation could double to about $3bn in new funding】The Information reports one‑year‑old Applied Compute is in talks on a new funding round that could value the company at roughly $3bn, more than double its valuation four months ago. The startup helps enterprises run and customize open‑source models on proprietary data. Insiders say annualized revenue is about $50m, nearly 4x the level CEO Yash Patil disclosed in November. Investor Elad Gil is reportedly in talks to lead the round, which is expected to raise several hundred million dollars; it is unclear whether the valuation includes the new capital. The round has not closed and terms may change."
+    },
+    {
+      "id": "mkt:019fed5c-fee5-7aab-8fe0-e0d9ede066b5",
+      "time": "2026-08-11 04:28:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Trump says he has spoken only once briefly with Fed chair Warsh since Warsh took office, denies frequent contact】President Trump said on Monday he has spoken only once briefly with Federal Reserve Chair Warsh since Warsh took office, disputing reports of frequent communications. White House National Economic Council director Hassett last week said the two \"often discuss economic issues,\" but other people familiar with the matter said calls have been irregular and infrequent. Reports said Trump contacted Warsh multiple times after Warsh's May confirmation to ask about the economic outlook; Trump reiterated his preference for lower interest rates, said he \"100% supports\" Warsh and stressed Fed policy is determined collectively by the Board."
+    },
+    {
+      "id": "5034590",
+      "time": "2026-08-11 04:27:32",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "【英偉達將與6家金融公司合作 籌集逾5000億美元用於AI計算】英偉達宣佈與Apollo、貝萊德、黑石、博楓、高盛和KKR合作，設立獨立的算力融資平臺，為AI基礎設施建設籌集逾5,000億美元第三方資本。英偉達8月10日已與這六家金融機構簽署諒解備忘錄。相關合作仍需簽署最終協議後方可生效。英偉達將與這些公司合作，設立專門的大規模資金池，以具有吸引力的融資利率為英偉達客戶提供資金支援。"
+    },
+    {
+      "id": "mkt:019fed5b-76a8-7aab-8fe0-dc10915e4458",
+      "time": "2026-08-11 04:27:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA CEO Jensen Huang said transactions tied to a proposed $500 billion AI infrastructure financing plan will support broad adoption of AI, and that all funding will come from third-party capital."
+    },
     {
       "id": "mkt:019fed5a-18ad-7aab-8fe0-d70db935ef3f",
       "time": "2026-08-11 04:25:32",
@@ -143749,15 +143792,6 @@
         "國際"
       ],
       "text": "【道明：干預勢頭可能短暫推動美元/日元跌至153】道明證券認為，干預的推動力可能會使美元/日元跌至153，但除非日本央行採取更多行動或美國財政部做出全面承諾，否則就只會暫時如此。“動能可能短暫推動美元/日元跌至153，但要沒有日本央行的行動或美國財政部的全面承諾，我們不認為該貨幣對會大幅低於該水平，” Howard Du、Gennadiy Goldberg和Molly Brooks等策略師寫道。“美日雙邊貿易動態、‘賣出美國’情緒復甦的風險、美國信譽惡化的風險、政治考量以及包括系統性衝擊在內的風險，是我們相信美國財政部不願全力託底日元的五大原因”。"
-    },
-    {
-      "id": "5023219",
-      "time": "2026-08-04 04:27:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美森輪船：截至目前，伊朗衝突尚未影響公司經營業績與服務水平，但已推高公司所有運營市場的燃油價格。持續預期在年底前收回全部燃油成本。"
     }
   ]
 }
