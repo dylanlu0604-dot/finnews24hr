@@ -1,7 +1,163 @@
 {
-  "updated": "2026-08-10 14:59:37",
-  "count": 15973,
+  "updated": "2026-08-10 15:04:16",
+  "count": 15966,
   "items": [
+    {
+      "id": "mkt:019fea7b-4dda-7aab-8fd3-80d60c1c5cea",
+      "time": "2026-08-10 15:02:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Shanghai Composite Index closed up 26.56 points (+0.67%) at 3,966.59 on Monday, Aug 10; Shenzhen Composite closed up 5.95 points (+0.04%) at 14,316.96. CSI 300 Index closed up 7.59 points (+0.16%) at 4,702.02; ChiNext Index closed down 25.90 points (-0.73%) at 3,537.21; Sci‑Tech Innovation 50 Index closed down 6.25 points (-0.36%) at 1,737.77."
+    },
+    {
+      "id": "5033423",
+      "time": "2026-08-10 15:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "Robinhood：加密貨幣交易本週將開始面向符合條件的英國客戶推出。"
+    },
+    {
+      "id": "5033422",
+      "time": "2026-08-10 15:02:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "Robinhood：推出零手續費加密貨幣交易服務，不收取賬戶維護費及託管費。"
+    },
+    {
+      "id": "mkt:019fea7a-ebae-7aab-8fd3-7e88c0623895",
+      "time": "2026-08-10 15:02:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bearish",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "European opens on Aug 10 (Mon): FTSE 100 opened down 2.94 points (-0.03%) at 10,898.15; CAC 40 opened down 2.74 points (-0.03%) at 8,712.19; STOXX Europe 50 opened up 5.89 points (+0.09%) at 6,529.75; IBEX 35 opened down 29.50 points (-0.15%) at 20,157.60; FTSE MIB opened up 0.81 points (0.00%) at 53,718.00; DAX opened up 12.15 points (+0.05%) at 26,367.50."
+    },
+    {
+      "id": "5033421",
+      "time": "2026-08-10 15:02:03",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【吉林省吉林市政協黨組書記、主席李富民接受紀律審查和監察調查】據吉林省紀委監委訊息：吉林省吉林市政協黨組書記、主席李富民涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受吉林省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019fea7a-01cc-7aab-8fd3-707fef89ea7b",
+      "time": "2026-08-10 15:01:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Stock index futures midday close】At midday, China index futures: CSI 300 main contract (IF) +0.19%; SSE 50 main contract (IH) +0.39%; CSI 500 main contract (IC) +0.33%; CSI 1000 main contract (IM) +0.56%."
+    },
+    {
+      "id": "5033420",
+      "time": "2026-08-10 15:01:19",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【收評：滬指高開高走漲0.67%，醫療服務、能源金屬、養雞板塊漲幅居前】A股三大指數收盤漲跌不一，截至收盤，上證指數漲0.67%，深證成指漲0.04%，創業板指跌0.73%，北證50跌1%，科創50指數跌0.36%。全市場成交額25387億元，較上日縮量1447億元，全市場超4000只個股上漲。板塊題材上，兵裝重組概念、能源金屬、醫療服務、貴金屬、養雞、豬肉板塊漲幅居前；CPO、元件、通訊裝置、保險、AI PC板塊跌幅居前。盤面上，豬肉板塊全天強勢，益生股份漲停，大禹生物、天域生物、神農集團漲幅居前。影視院線板塊午後衝高，儒意電影、北京文化漲停，華智數媒、幸福藍海、博納影業漲幅居前。小金屬板塊臨近尾盤走高，翔鷺鎢業漲停，中鎢高新、西部材料、章源鎢業漲幅居前。CPO板塊全天水下震盪，長盈通、武漢凡谷、泰金新能、炬光科技、光迅科技跌幅居前。元件板塊表現疲軟，威爾高、迅捷興、生益電子跌幅居前。"
+    },
+    {
+      "id": "te:markets:574052",
+      "time": "2026-08-10 15:01:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Prices Advance — UK natural gas prices rose above 140 pence per therm on Monday, recovering part of the losses from the previous week amid uncertainty over the normalization of shipping through the Strait of Hormuz. Iran and Oman remained short of a final agreement over the weekend after Tehran renewed a lengthy list of demands for Washington as conditions for a full reopening of the strategic waterway, indicating any immediate relief for gas supplies could remain limited. Although Iran indicated that a deal was close, it cautioned that this did not mean the strait would reopen imminently, while again ruling out any direct negotiations with the US. With a deal still elusive, disruptions to LNG shipments through the key waterway are likely to persist, delaying cargoes from major exporters such as Qatar. The ongoing delays have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts."
+    },
+    {
+      "id": "mkt:019fea79-adb0-7aab-8fd3-6e35ebdb9303",
+      "time": "2026-08-10 15:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "At the midday close, China’s most-active futures were mixed. SHFE silver and soda ash rose over 3%; lithium carbonate and SHFE gold gained over 2%. Propylene, fuel oil, benzene and coking coal advanced more than 1.4%. Container shipping Europe route tumbled over 4%; polysilicon fell over 2%; PTA dropped nearly 2%."
+    },
+    {
+      "id": "5033419",
+      "time": "2026-08-10 15:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲0.67%，深證成指漲0.04%，創業板指跌0.73%。"
+    },
+    {
+      "id": "5033418",
+      "time": "2026-08-10 15:00:27",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "日月光投控：7月銷售額737.8億元新臺幣，同比增長43.2%。"
+    },
+    {
+      "id": "5033417",
+      "time": "2026-08-10 15:00:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1608億元。"
+    },
+    {
+      "id": "5033416",
+      "time": "2026-08-10 15:00:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指收盤基本持平，報6289.21點。"
+    },
+    {
+      "id": "5033415",
+      "time": "2026-08-10 15:00:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】集運指數歐線期貨連續跌4.49%，白銀連續漲3.34%，純鹼連續漲3.21%，碳酸鋰連續漲2.85%，多晶矽連續跌2.52%。"
+    },
+    {
+      "id": "5033414",
+      "time": "2026-08-10 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲0.58%， 滬深300指數期貨連續漲0.19%， 中證500指數期貨連續漲0.33%， 上證50指數期貨連續漲0.39%。"
+    },
+    {
+      "id": "5033413",
+      "time": "2026-08-10 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲0.69%，英國富時100指數漲0.31%，法國CAC40指數漲0.17%，歐洲斯托克50指數漲0.33%，義大利富時MIB指數漲0.06%。"
+    },
     {
       "id": "mkt:019fea76-c812-7aab-8fd3-63962e0d089f",
       "time": "2026-08-10 14:58:00",
@@ -145219,238 +145375,6 @@
         "Emerging Markets"
       ],
       "text": "India's Nifty Midcap 100 index rose 1%."
-    },
-    {
-      "id": "5021821",
-      "time": "2026-08-03 15:04:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國國債全線高開；10年期國債收益率下跌7個基點至4.98%。"
-    },
-    {
-      "id": "mkt:019fc66e-cf7b-7aab-8f50-5d4bc7bbf6d8",
-      "time": "2026-08-03 15:02:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "At Monday close in China (Aug 3), the CSI 300 index fell 45.02 points (-0.98%) to 4,543.18; China’s Shanghai Composite Index dropped 22.60 points (-0.59%) to 3,809.66; Shenzhen Composite Index fell 130.64 points (-0.96%) to 13,448.29; ChiNext index declined 41.41 points (-1.24%) to 3,302.55; STAR 50 index fell 83.07 points (-5.08%) to 1,552.89."
-    },
-    {
-      "id": "mkt:019fc66e-c652-7aab-8f50-51ad7665c784",
-      "time": "2026-08-03 15:02:56",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Tesla's new-car registrations in Sweden fell 60% YoY in July."
-    },
-    {
-      "id": "5021819",
-      "time": "2026-08-03 15:02:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永贏基金儲可凡：國產模型密集迭代，港股網際網路板塊活躍】近期，港股網際網路板塊成交活躍，國產大模型集中釋出形成直接催化。7月31日，SeeDance 2.5釋出，影片生成時長提至30秒，畫質最佳化更近實拍的影視質感；同日DeepSeek-V4-Flash正式版API開啟公測，模型能力提升且綜合token價格降低，價效比凸顯；8月3日，Minimax H3開源，成為該公司首款開源的多模態生成模型。展望後市，國產模型仍處於快速迭代週期，價效比與效能提升並進，港股網際網路板塊匯聚AI產業鏈中下游模型與應用公司，有望持續受益於國產大模型的更新迭代。"
-    },
-    {
-      "id": "mkt:019fc66e-25df-7aab-8f50-4be16ab5304b",
-      "time": "2026-08-03 15:02:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai and Shenzhen turnover RMB 1.9974 trillion; Changxin Technology highest turnover】Aug 3 — Shanghai and Shenzhen combined turnover totaled RMB 1.9974 trillion, down RMB 544.56 billion from the previous trading day. Shanghai turnover was RMB 952.26 billion (previous: RMB 1,187.68 billion) with trading volume 525 million lots; Shenzhen turnover was RMB 1,045.13 billion (previous: RMB 1,354.27 billion) with trading volume 619 million lots. Changxin Technology led by turnover at RMB 29.99 billion, followed by Zhongji Xuchuang RMB 29.14 billion, GigaDevice RMB 23.03 billion, Xinyisheng RMB 15.89 billion and Cambricon RMB 14.60 billion."
-    },
-    {
-      "id": "5021818",
-      "time": "2026-08-03 15:02:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【ETF兩市成交額報4641.49億元，較上一交易日此時縮量1260.56億元】截至目前，ETF兩市成交額報4641.49億元，較上一交易日此時縮量1260.56億元，分型別來看，股票型ETF成交額1669.44億元，債券型ETF成交額1881.33億元，貨幣型ETF成交額277.1億元，商品型ETF成交額60.47億元，QDII型ETF成交額753.15億元。"
-    },
-    {
-      "id": "5021817",
-      "time": "2026-08-03 15:01:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "奈及利亞稱，43家保險公司符合新的最低資本門檻。"
-    },
-    {
-      "id": "mkt:019fc66d-b450-7aab-8f50-46b6fffcae2e",
-      "time": "2026-08-03 15:01:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European equities opened higher on Aug. 3: DAX up 282.83 pts (+1.10%) at 25,913.61; FTSE 100 up 4.20 pts (+0.04%) at 10,872.25; CAC 40 up 65.89 pts (+0.77%) at 8,575.53; Euro Stoxx 50 up 47.39 pts (+0.75%) at 6,405.40; IBEX 35 up 148.10 pts (+0.75%) at 19,931.00; FTSE MIB up 397.47 pts (+0.76%) at 52,570.00."
-    },
-    {
-      "id": "5021816",
-      "time": "2026-08-03 15:01:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF收評：線上消費ETF領漲3.67%，科創半導體裝置ETF領跌10.0%】ETF收盤漲跌不一，線上消費ETF（159793）領漲3.67%，中概網際網路ETF（513050）漲3.06%，港股通網際網路ETF（520650）漲2.82%，科創半導體裝置ETF（589020）領跌10.0%，科創半導體裝置ETF（588710）跌9.93%，科創半導體ETF（588170）跌9.89%。"
-    },
-    {
-      "id": "5021814",
-      "time": "2026-08-03 15:01:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【收評：科創50指數持續走低跌5.08%，算力硬體股領跌】A股三大指數今日集體下跌，截至收盤，上證指數跌0.59%，深證成指跌0.96%，創業板指跌1.24%，北證50跌0.71%，科創50指數跌5.08%，全市場超4000只個股上漲。板塊題材上，電網裝置、可控核聚變、光伏裝置、種植業與林業、造紙漲幅居前；電子化學品、半導體、儲存晶片、光刻機、油氣開採及服務板塊跌幅居前。盤面上，電網裝置板塊高開高走表現強勢，久盛電氣、百利電氣、長城電工等多股漲停，中超控股、凱發電氣、新特電氣漲幅居前。造紙板塊午後持續走強，宜賓紙業、凱恩股份漲停，青山紙業、恆達新材、五洲特紙漲幅居前。光伏裝置板塊震盪走高，福萊特、國晟科技、通威股份漲停，國際實業、大全能源、亞瑪頓漲幅居前。半導體板塊今日大幅回撥，兆易創新、先導基電等股跌停，中科飛測、長川科技、拓荊科技均大幅下跌。電子化學品板塊亦表現低迷，宏和科技跌停，三孚新科、鼎龍股份、安集科技跌幅居前。"
-    },
-    {
-      "id": "mkt:019fc66d-7d58-7aab-8f50-3e34d73d0c8c",
-      "time": "2026-08-03 15:01:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China index futures midday close】CSI 300 index futures (IF main contract) down 0.78%; SSE 50 index futures (IH main contract) down 1.26%; CSI 500 index futures (IC main contract) down 1.09%; CSI 1000 index futures (IM main contract) down 0.17%."
-    },
-    {
-      "id": "mkt:019fc66d-6745-7aab-8f50-338e3bcde736",
-      "time": "2026-08-03 15:01:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "At midday, China's main futures contracts were mostly lower. Jujube fell over 5%, fuel oil dropped nearly 5%, urea declined about 4% and Shanghai crude (SC) eased more than 3%. Iron ore, soda ash and low-sulfur fuel oil (LU) slid over 2%; Shanghai nickel was down nearly 2%. On the upside, polysilicon hit the daily limit, rising 9%; container freight on the Europe route climbed over 3%; eggs gained more than 2%; industrial silicon and Shanghai zinc were up around 2%; PTA and rapeseed meal rose roughly 1%."
-    },
-    {
-      "id": "te:economy:572099",
-      "time": "2026-08-03 15:01:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sweden",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Sweden Manufacturing Growth Eases to 7-Month Low — Sweden’s Swedbank Manufacturing PMI fell to 55.8 in July 2026 from a downwardly revised 58 in the previous month, marking the lowest level since December 2025 but remaining above its long term average of 54.3. The slowdown was mainly due to weaker order intake (57.5 vs 58.8 in June), production (56.9 vs 59.4), and employment (55.9 vs 57.3). Moreover, suppliers’ delivery times shortened to 60 from 62.7, while inventories increased to 58.2 from 53.6. Export and domestic orders also declined to 54.5 and 54.6, respectively. On the price front, the index measuring suppliers’ raw material and input prices declined sharply to 67.3 from 80.4 a month ago. Manufacturers also became less optimistic, with the production plan index dropping to 65.7 from 68.3, below the 70 threshold, amid concerns that renewed Middle East tensions could reignite cost pressures despite easing input prices."
-    },
-    {
-      "id": "5021813",
-      "time": "2026-08-03 15:01:11",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【跨越11城、惠及6000餘名從業者！食品行業檢驗檢測能力建設與提升培訓計劃收官】7月31日，市場監管總局（國家認監委）與聯合國工業發展組織（UNIDO）聯合指導實施的“提質護航·絲路共信”食品行業檢驗檢測能力建設與提升培訓計劃在北京收官。該培訓計劃旨在深入踐行共建“一帶一路”倡議，推進食品安全國際協同治理。 該培訓計劃是雙方提升中國食品檢驗檢測機構能力、深化共建“一帶一路”國家貿易信任合作的核心舉措。課程設定緊扣政策前沿與技術實戰，涵蓋世界貿易組織（WTO）框架下《技術性貿易壁壘協定》（TBT）和《實施衛生與植物衛生措施協定》（SPS）協議解讀、國際標準化組織（ISO）合格評定標準培訓、食品檢驗檢測監管政策與合規應對、實驗室資質認定及數字化轉型等核心內容。自2025年6月以來，培訓足跡遍佈北京、重慶、西安、南寧、瀋陽、成都、西雙版納、廣州、青島、海口、昆明11座城市，累計線下培訓食品行業檢驗檢測從業人員近1300人，線上培訓學員超過5000人。"
-    },
-    {
-      "id": "5021812",
-      "time": "2026-08-03 15:01:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "A股收盤，上證指數跌0.59%，深證成指跌0.96%，創業板指跌1.24%。"
-    },
-    {
-      "id": "mkt:019fc66c-8028-7aab-8f50-28503c5e5f88",
-      "time": "2026-08-03 15:00:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bearish"
-      ],
-      "text": "Compiler Mobility Sweden data showed Tesla's new vehicle registrations in Sweden fell 60% YoY in July."
-    },
-    {
-      "id": "te:markets:572098",
-      "time": "2026-08-03 15:00:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 24.46 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 11.21%, and in the last 12 months, it increased 70.05%."
-    },
-    {
-      "id": "5021810",
-      "time": "2026-08-03 15:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱日聯第一季度淨利潤8,094.3億日元，預估6,334.1億日元。"
-    },
-    {
-      "id": "5021809",
-      "time": "2026-08-03 15:00:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度國家證券交易所Nifty IT指數漲幅擴大，最新上漲2%。"
-    },
-    {
-      "id": "5021808",
-      "time": "2026-08-03 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨收盤】多晶矽連續漲8.99%，紅棗連續跌5.35%，燃料油連續跌4.98%，尿素連續跌3.81%，上海原油連續跌3.58%。"
-    },
-    {
-      "id": "5021807",
-      "time": "2026-08-03 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續跌0.17%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌1.09%， 上證50指數期貨連續跌1.26%。"
-    },
-    {
-      "id": "5021806",
-      "time": "2026-08-03 15:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐股開盤漲跌不一，德國DAX指數漲0.07%，英國富時100指數跌0.27%，法國CAC40指數漲0.28%，歐洲斯托克50指數漲0.21%，義大利富時MIB指數漲0.13%。"
-    },
-    {
-      "id": "5021805",
-      "time": "2026-08-03 14:59:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典移動出行資料彙編機構Mobility Sweden稱，特斯拉7月在瑞典的新車註冊量同比下降60%。"
     }
   ]
 }
