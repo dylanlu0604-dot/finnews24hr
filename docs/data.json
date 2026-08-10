@@ -1,7 +1,93 @@
 {
-  "updated": "2026-08-10 20:21:55",
-  "count": 15924,
+  "updated": "2026-08-10 20:25:50",
+  "count": 15929,
   "items": [
+    {
+      "id": "mkt:019feba2-5a67-7aab-8fd9-a2f3573ef943",
+      "time": "2026-08-10 20:25:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Chile will announce a new deputy finance minister today, the president said."
+    },
+    {
+      "id": "5034146",
+      "time": "2026-08-10 20:25:08",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "智利總統： 智利今日將公佈新任財政部副部長人選。"
+    },
+    {
+      "id": "5034145",
+      "time": "2026-08-10 20:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "嘉信理財公司：宣佈發行2032年和2037年到期的兩部分固息轉浮息優先票據，規模未披露。"
+    },
+    {
+      "id": "5034144",
+      "time": "2026-08-10 20:23:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子能源：首套解決方案包將於2027年底交付給SBM離岸公司，最終交付工作計劃在2028年全年完成。"
+    },
+    {
+      "id": "5034143",
+      "time": "2026-08-10 20:23:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "西門子能源：該專案將創造400個直接就業崗位與500個間接就業崗位。"
+    },
+    {
+      "id": "5034142",
+      "time": "2026-08-10 20:23:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "Moderna美股盤前漲超2.4%，公司的mRNA流感疫苗獲得了美國FDA的正式批准上市，這是全球首款獲批的mRNA流感疫苗。"
+    },
+    {
+      "id": "5034141",
+      "time": "2026-08-10 20:23:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "西門子能源股份公司為巴西國家石油公司平臺供應裝置，推進巴西離岸業務擴張。"
+    },
+    {
+      "id": "5034140",
+      "time": "2026-08-10 20:23:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗說地區國家認識到美國靠不住】伊朗外交部發言人巴加埃今天（8月10日）主持例行記者會。對於土耳其、沙烏地阿拉伯和巴基斯坦8月7日簽署共同防務協議，巴加埃指出，近兩三年來，地區各國已經逐漸認識到，地區安全“不是一種可以從不可靠的中間商那裡購買的商品”，“不能再幻想靠美國實現安全”。巴加埃說，伊朗鼓勵地區國家“開展合作、加強互信，以實現內生的安全，而不是依靠外部力量”。 巴加埃還指出，美國自身就是地區不安全的原因之一，而如果沒有美國對以色列的全方位支援，以色列也絕對不可能肆無忌憚、有恃無恐地在地區持續犯下罪行。（CCTV國際時訊）"
+    },
+    {
+      "id": "5034139",
+      "time": "2026-08-10 20:21:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【江西釋出中小河流洪水和山洪氣象風險黃色預警】今天（10日）17時36分，江西省水文監測中心與江西省氣象臺聯合釋出中小河流洪水和山洪氣象風險黃色預警訊號：預計8月10日20時至11日20時，九江市中東部、西部可能發生中小河流洪水及山洪災害，其中九江市中部發生中小河流洪水及山洪災害可能性較大。請上述地區注意做好短歷時強降雨引發的中小河流洪水及山洪災害防範工作。（央視新聞）"
+    },
+    {
+      "id": "te:markets:574140",
+      "time": "2026-08-10 20:21:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Stable Near Records — Futures tracking US equity indices were muted on Monday, holding the rallies from last as markets awaited catalysts that may shape energy prices and global interest rates. The S&P 500 and the Dow were flat at their records, while the Nasdaq 100 was also stable. Rate futures show that a slight majority of the market swung to price a rate hold by the Federal Reserve next month. Nonfarm payrolls unexpectedly declined in July to challenge the view of a robust labor market, which was commonly cited by hawkish FOMC members following multiple dissents in the central bank's last meeting. Meanwhile, fuel costs remained below recent peaks despite risks of prolonged supply setbacks of oil from the Persian Gulf. Tech giants were mostly higher premarket after a group of brokers signaled strong demand for cloud services, with Meta, Amazon, and SpaceX in the green. On the other hand, Intel fell over 3% premarket as it will be offering $15 billion in stock."
+    },
     {
       "id": "5034138",
       "time": "2026-08-10 20:19:51",
@@ -144965,50 +145051,6 @@
         "國際"
       ],
       "text": "ParaZero獲歐洲頂級防務製造商首筆DefendAir自主反無人機平臺訂單。"
-    },
-    {
-      "id": "5022675",
-      "time": "2026-08-03 20:25:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯里蘭卡電力監管機構：第三季度電價維持不變。"
-    },
-    {
-      "id": "5022674",
-      "time": "2026-08-03 20:25:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞總理表示，能源缺口給該地區的電力進口帶來了壓力，近日羅馬尼亞每日進口發電量為2000至2500兆瓦。"
-    },
-    {
-      "id": "5022673",
-      "time": "2026-08-03 20:24:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國內地量子領域規格最高會議在深舉辦】為期三天的“第五屆CCF量子計算大會暨大灣區量子科學論壇”(下稱“量子計算大會”)3日在深圳開幕。此次大會是中國內地量子領域規格最高、貫通創新鏈與產業鏈的年度綜合會議。大會以“量與智相融合，量超智共融算”為主題，由中國科學院院士、圖靈獎獲得者姚期智與中國科學院院士、國家最高科學技術獎獲得者薛其坤共同擔任大會主席，匯聚中國近千家高校、科研院所、領軍企業、初創企業及創投機構約2400人。與會者共話量子科技前沿成果，推動量子科技創新與產業創新深度融合，推動產學研融通創新。(深圳釋出)"
-    },
-    {
-      "id": "5022672",
-      "time": "2026-08-03 20:24:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "荷蘭勞工總會（FNV）釋出宣告稱，鹿特丹、阿姆斯特丹以及澤蘭港口的工人定於9月4日舉行罷工，抗議政府計劃削減社保開支。"
-    },
-    {
-      "id": "te:economy:572204",
-      "time": "2026-08-03 20:22:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Mexico Manufacturing Confidence Remains Unchanged in July — Mexico's manufacturing business confidence held steady at 48.0 in July 2026, remaining below the 50-point threshold for the 17th consecutive month. Firms' assessment of the country's current economic situation edged up 0.2 points to 48.3, while expectations for the economy improved 0.3 points to 52.1. However, the \"right time to invest\" indicator fell 1.4 points to 32.9. Meanwhile, manufacturers' assessment of their current business conditions rose 0.2 points to 50.5, and expectations for future business conditions increased 0.5 points to 56.2."
     }
   ]
 }
