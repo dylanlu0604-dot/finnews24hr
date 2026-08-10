@@ -1,7 +1,28 @@
 {
   "date": "2026-08-10",
-  "count": 2524,
+  "count": 2526,
   "items": [
+    {
+      "id": "mkt:019fec63-b3e2-7aab-8fdd-8b1c40e25071",
+      "time": "2026-08-10 23:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian and Pakistani foreign ministers discussed negotiations over the Strait of Hormuz and a defence pact in a phone call."
+    },
+    {
+      "id": "mkt:019fec62-d553-7aab-8fdd-809f0e3eea68",
+      "time": "2026-08-10 23:55:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shipping risk in the Strait of Hormuz is lifting oil-tanker charter costs; daily hires for Middle East routes are approaching $500,000."
+    },
     {
       "id": "5034425",
       "time": "2026-08-10 23:50:42",

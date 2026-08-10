@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-10 23:53:45",
+  "updated": "2026-08-10 23:57:44",
   "count": 15825,
   "items": [
+    {
+      "id": "mkt:019fec63-b3e2-7aab-8fdd-8b1c40e25071",
+      "time": "2026-08-10 23:56:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian and Pakistani foreign ministers discussed negotiations over the Strait of Hormuz and a defence pact in a phone call."
+    },
+    {
+      "id": "mkt:019fec62-d553-7aab-8fdd-809f0e3eea68",
+      "time": "2026-08-10 23:55:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shipping risk in the Strait of Hormuz is lifting oil-tanker charter costs; daily hires for Middle East routes are approaching $500,000."
+    },
     {
       "id": "5034425",
       "time": "2026-08-10 23:50:42",
@@ -144001,23 +144022,6 @@
         "國際"
       ],
       "text": "【伊朗革命衛隊稱具備全面情報掌控力】伊朗伊斯蘭革命衛隊地面部隊司令穆罕默德·卡拉米8月3日視察伊朗西北作戰區的備戰情況時表示，“革命衛隊在全國各作戰區均具備全面的情報掌控力與作戰準備，隨時可對任何威脅作出堅決回應。”"
-    },
-    {
-      "id": "5023034",
-      "time": "2026-08-03 23:56:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普：與伊朗的談判已開始 計劃近期舉行更多會談】當地時間8月3日，美國總統特朗普在社交平臺“真實社交”（Truth Social）發文稱，與伊朗的談判已開始，後續會談也已提上日程。（央視新聞）"
-    },
-    {
-      "id": "5023033",
-      "time": "2026-08-03 23:54:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【喀麥隆高官：喀中合作助力培養喀本土基建人才】喀麥隆高等教育國務部長雅克·法姆·恩東戈3日在雅溫得說，中國企業不僅幫助喀麥隆建設基礎設施，還為喀麥隆培養高水平工程技術人才提供重要支援，喀中雙方的合作將助力喀方逐步實現基礎設施建設領域技術自主。（新華社）"
     }
   ]
 }
