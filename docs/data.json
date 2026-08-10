@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-11 04:03:30",
-  "count": 15799,
+  "updated": "2026-08-11 04:07:20",
+  "count": 15790,
   "items": [
+    {
+      "id": "mkt:019fed47-d637-7aab-8fe0-902f6a57f9ac",
+      "time": "2026-08-11 04:05:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity close Monday, Aug. 10: Dow Jones Industrial Average down 61.30 pts (-0.11%) to 53,975.63; S&P 500 down 4.62 pts (-0.06%) to 7,753.02; Nasdaq Composite down 85.26 pts (-0.32%) to 26,605.36."
+    },
+    {
+      "id": "5034583",
+      "time": "2026-08-11 04:04:29",
+      "tags": [
+        "觀點",
+        "焦點"
+      ],
+      "text": "英偉達將聯合KKR、高盛、布魯克菲爾德等六家機構，籌集超5000億美元用於AI算力建設。"
+    },
     {
       "id": "mkt:019fed44-ee24-7aab-8fe0-8ac4466272c1",
       "time": "2026-08-11 04:02:25",
@@ -143685,121 +143708,6 @@
         "Impact bullish"
       ],
       "text": "On Semiconductor (ON.O) reported Q2 2026 revenue of $1.60 billion versus a $1.59 billion consensus. It guided Q3 revenue to $1.65 billion–$1.75 billion, versus a $1.67 billion consensus."
-    },
-    {
-      "id": "mkt:019fc93c-5f7a-7aab-8f5f-6914cca27eda",
-      "time": "2026-08-04 04:06:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Palantir",
-        "PLTR.N",
-        "Impact bullish"
-      ],
-      "text": "Palantir (PLTR.N) shares rose about 7% in U.S. after-hours trading."
-    },
-    {
-      "id": "mkt:019fc93c-40da-7aab-8f5f-66e8477c287f",
-      "time": "2026-08-04 04:06:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Palantir",
-        "PLTR.O",
-        "Impact bullish"
-      ],
-      "text": "Palantir (PLTR.O) reported Q2 2026 revenue of $1.93 bln, above market consensus of $1.805 bln and up from $1.003 bln a year earlier."
-    },
-    {
-      "id": "te:markets:572271",
-      "time": "2026-08-04 04:06:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Vertex Pharmaceuticals earnings above expectations at 4.73 USD — Vertex Pharmaceuticals (VRTX) released earnings per share at 4.73 USD, compared to market expectations of 4.72 USD."
-    },
-    {
-      "id": "5023216",
-      "time": "2026-08-04 04:06:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "Palantir二季度調整後每股收益（EPS）為0.41美元，分析師預期0.35美元。"
-    },
-    {
-      "id": "mkt:019fc93b-eb5a-7aab-8f5f-5da7e198f222",
-      "time": "2026-08-04 04:06:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Palantir",
-        "PLTR.N",
-        "Impact bullish"
-      ],
-      "text": "Palantir (PLTR.N) expects full-year revenue of $8.15–8.16 billion, versus prior guidance of $7.65–7.66 billion."
-    },
-    {
-      "id": "5023215",
-      "time": "2026-08-04 04:06:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "安森美半導體二季度調整後每股收益（EPS）為0.74美元，分析師預期0.71美元。"
-    },
-    {
-      "id": "5023214",
-      "time": "2026-08-04 04:06:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Palantir： 持續預期本年度每個季度均可實現通用會計準則營業利潤與淨利潤。"
-    },
-    {
-      "id": "mkt:019fc93b-4a47-7aab-8f5f-5541926b32cc",
-      "time": "2026-08-04 04:05:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "US equity benchmarks closed higher on Monday Aug 3: Dow Jones Industrial Average +693.38 pts (+1.32%) at 53,178.41; S&P 500 +110.78 pts (+1.48%) at 7,600.50; Nasdaq Composite +540.04 pts (+2.13%) at 25,913.90."
-    },
-    {
-      "id": "5023213",
-      "time": "2026-08-04 04:05:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "Diamondback Energy二季度調整後每股收益（EPS）為6.48美元，分析師預期6.07美元。"
-    },
-    {
-      "id": "mkt:019fc93a-27d8-7aab-8f5f-496b56fa1a06",
-      "time": "2026-08-04 04:04:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "USDCHF",
-        "Impact bullish"
-      ],
-      "text": "【Dollar index dips 0.02% to 99.894 at NY close】Dollar index (DXY) fell 0.02% to 99.894 at the New York close. EUR/USD 1.1514 (prev. 1.1531); GBP/USD 1.3431 (prev. 1.3482). USD/JPY 156.74 (prev. 158.90); USD/CHF 0.8101 (prev. 0.8082). USD/CAD 1.4045 (prev. 1.4019); USD/SEK 9.5557 (prev. 9.5193)."
-    },
-    {
-      "id": "5023212",
-      "time": "2026-08-04 04:03:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數3日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.02%，在匯市尾市收於99.894。截至紐約匯市尾市，1歐元兌換1.1514美元，低於前一交易日的1.1531美元；1英鎊兌換1.3431美元，低於前一交易日的1.3482美元。1美元兌換156.74日元，低於前一交易日的158.90日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8082瑞士法郎；1美元兌換1.4045加元，高於前一交易日的1.4019加元；1美元兌換9.5557瑞典克朗，高於前一交易日的9.5193瑞典克朗。"
     }
   ]
 }
