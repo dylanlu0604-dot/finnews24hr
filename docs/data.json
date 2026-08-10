@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11 01:25:33",
-  "count": 15801,
+  "updated": "2026-08-11 01:29:22",
+  "count": 15794,
   "items": [
+    {
+      "id": "5034474",
+      "time": "2026-08-11 01:28:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍非洲司令部證實8月9日一架軍機在吉布提墜毀。"
+    },
     {
       "id": "5034473",
       "time": "2026-08-11 01:21:54",
@@ -143766,79 +143774,6 @@
         "Brent"
       ],
       "text": "【Pause in US‑Iran hostilities eases Middle East supply; Venezuela July exports fall】A pause in US‑Iran hostilities has released Gulf crude back into markets, easing earlier disruptions, according to shipping reports, Kpler data and vessel tracking. Venezuela’s July crude loadings fell to 856,000 bpd, the lowest in five months and down 25% MoM; exports to India halved. Supply‑chain adjustments and alternative shipping routes have mitigated initial shocks as the Iran conflict enters its sixth month. Trump on Monday called off a planned strike on Iran to keep talks going; oil prices fell afterwards. The United States and India remain Venezuela’s largest buyers of crude."
-    },
-    {
-      "id": "mkt:019fc8ab-a798-7aab-8f5d-1eee2d4c3b6b",
-      "time": "2026-08-04 01:28:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Turkish media report President Erdogan said Israel must strictly adhere to the roadmap for the second phase of the Gaza peace plan and that Ankara is closely monitoring developments."
-    },
-    {
-      "id": "5023104",
-      "time": "2026-08-04 01:28:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "比特幣重回64000美元關口。"
-    },
-    {
-      "id": "5023103",
-      "time": "2026-08-04 01:28:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "交易商稱，阿爾及利亞招標採購名義數量5萬噸軟質磨粉小麥。"
-    },
-    {
-      "id": "mkt:019fc8aa-ec15-7aab-8f5d-15f2b784ab5b",
-      "time": "2026-08-04 01:27:52",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish",
-        "LUV.N"
-      ],
-      "text": "Boeing (BA.N): Southwest Airlines is preparing to take delivery of its first 737-7."
-    },
-    {
-      "id": "5023102",
-      "time": "2026-08-04 01:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局為波音新型737-7飛機頒發認證。"
-    },
-    {
-      "id": "mkt:019fc8a9-c021-7aab-8f5d-0d7c4a34cfb6",
-      "time": "2026-08-04 01:26:35",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N): U.S. Federal Aviation Administration (FAA) has granted certification for the new 737-7; Boeing is preparing the first delivery of the 737-7."
-    },
-    {
-      "id": "5023101",
-      "time": "2026-08-04 01:26:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名知情人士透露，美國正擬定新方案，力求於今年秋季推動烏克蘭和平程序取得突破。"
-    },
-    {
-      "id": "5023100",
-      "time": "2026-08-04 01:25:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音準備交付首架737-7機型。"
     }
   ]
 }
