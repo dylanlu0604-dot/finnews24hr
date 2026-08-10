@@ -1,7 +1,103 @@
 {
   "date": "2026-08-10",
-  "count": 397,
+  "count": 407,
   "items": [
+    {
+      "id": "5032913",
+      "time": "2026-08-10 09:23:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江防總、長江委啟動Ⅳ級應急響應】8月7日，長江委組織會商，針對性安排部署颱風暴雨洪水防禦工作。會商指出，受颱風“白海豚”影響，8月9日至12日，長江中下游幹流及兩湖水系有一次強降雨過程。預計長江下游幹流及附近青弋水陽江、滁河、巢湖水系等支流，鄱陽湖五河、洞庭湖湘江上游和陸水等長江中游幹流附近支流將發生漲水過程，區域性強降雨引發山洪災害的風險高，部分中小河流可能發生超警及以上洪水。長江防總、長江委於8月7日21時對江西、安徽、江蘇、上海4省（市）分別啟動防汛Ⅳ級應急響應和洪水防禦Ⅳ級應急響應，並向湖北、湖南、江西、安徽、江蘇、上海6省（市）釋出汛情通報，提醒近期颱風強降雨過程，要求針對性做好颱風暴雨洪水防禦工作，全力保障人民群眾生命財產安全。長江委已預置2個工作組，根據颱風“白海豚”防禦需要，隨時趕赴一線做好技術支撐。"
+    },
+    {
+      "id": "5032912",
+      "time": "2026-08-10 09:22:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝西造大型離心壓縮機組為西氣東輸添動力】8月6日，據省國資委訊息：近日，由陝西鼓風機（集團）有限公司（以下簡稱“陝鼓”）負責的多套大型離心壓縮機組在國家重大能源基礎設施工程西氣東輸壓氣站全面投入執行。這批機組各項效能指標優異，實現了“一次投產成功”的目標。（陝西釋出）"
+    },
+    {
+      "id": "5032911",
+      "time": "2026-08-10 09:22:07",
+      "tags": [
+        "央行"
+      ],
+      "text": "中國央行公開市場今日淨回籠450.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019fe942-8407-7aab-8fcd-e66f93c15db7",
+      "time": "2026-08-10 09:21:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) opened up 137.15 pts (+0.53%) at 25,805.18 on Monday, Aug 10; Hang Seng Tech Index opened up 41.22 pts (+0.85%) at 4,899.51; Hang Seng China Enterprises Index (HSCEI) opened up 52.24 pts (+0.61%) at 8,583.82; Red Chips Index opened up 4.13 pts (+0.10%) at 4,125.14."
+    },
+    {
+      "id": "5032910",
+      "time": "2026-08-10 09:21:15",
+      "tags": [],
+      "text": "港股恒指高開漲0.53％，國企指數漲0.61％，科指開漲0.85%，國泰君安國際今日復牌開漲37.02%。"
+    },
+    {
+      "id": "mkt:019fe942-49ac-7aab-8fcd-dabac2f70ecb",
+      "time": "2026-08-10 09:21:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "01788.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hong Kong open: Hang Seng +0.53%, Hang Seng Tech Index +0.85%. Guotai Junan International (01788.HK) resumed trading, opening up 37.02% after Guotai Haitong (02611.HK) proposed a take-private at about a 44.2% premium."
+    },
+    {
+      "id": "5032909",
+      "time": "2026-08-10 09:20:58",
+      "tags": [
+        "央行",
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "中國央行：今日開展180億元7天逆回購操作，投標量180億元，中標量180億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "5032908",
+      "time": "2026-08-10 09:20:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海機場今天取消航班近千架次#】受今年第13號颱風“白海豚”影響，上海兩機場今日近四成進出港航班取消，其中浦東機場取消642架次、虹橋機場取消航班301架次。 滬昆高鐵等多條線路列車今日陸續恢復開行。（第一財經）"
+    },
+    {
+      "id": "mkt:019fe942-2e0f-7aab-8fcd-d49a93736911",
+      "time": "2026-08-10 09:20:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 7-day reverse repo of 18.0 bln yuan today; bids and allotments were 18.0 bln yuan and the rate was 1.40%, unchanged."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608103836077346",
+      "time": "2026-08-10 09:20:54",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "中國央行今日開展180億元人民幣7天期逆回購操作，利率1.40%。"
+    },
     {
       "id": "te:markets:573958",
       "time": "2026-08-10 09:20:01",
