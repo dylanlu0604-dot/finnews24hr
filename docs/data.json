@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-11 00:30:07",
-  "count": 15807,
+  "updated": "2026-08-11 00:34:09",
+  "count": 15809,
   "items": [
+    {
+      "id": "5034448",
+      "time": "2026-08-11 00:33:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：已指示我的代表，將此項內容堅決納入今後所有談判當中。"
+    },
+    {
+      "id": "mkt:019fec85-38f5-7aab-8fdd-d642f1e9e88c",
+      "time": "2026-08-11 00:33:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) fell to an intraday low, down 2.6% on the day."
+    },
+    {
+      "id": "5034447",
+      "time": "2026-08-11 00:32:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我同樣要求伊朗賠償。"
+    },
+    {
+      "id": "5034446",
+      "time": "2026-08-11 00:32:45",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗正要求就過去五個月軍事衝突中自身遭受的損失獲得賠償。"
+    },
+    {
+      "id": "5034445",
+      "time": "2026-08-11 00:32:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破87美元/桶，日內漲4.26%。"
+    },
+    {
+      "id": "mkt:019fec83-7f4d-7aab-8fdd-cde250c861d5",
+      "time": "2026-08-11 00:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's supreme leader announces six armed forces leadership appointments】On the 10th Iran's supreme leader Mojtaba Khamenei announced six armed forces appointments: Air Force Major General Ali Abdollahi was named chief of the general staff; Brigadier General Ahmad Vahidi was promoted to major general and appointed commander of the Islamic Revolutionary Guard Corps (IRGC); Brigadier General Keyumars Heidari was named deputy chief of the general staff; Major General Mostafa Izadi was appointed deputy commander of the IRGC; Brigadier General Ali Azmai was named IRGC navy commander; and Hossein Taeb was appointed head of the Basij militia."
+    },
+    {
+      "id": "5034444",
+      "time": "2026-08-11 00:30:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府：英格蘭近四分之三地區目前遭遇乾旱。"
+    },
+    {
+      "id": "5034443",
+      "time": "2026-08-11 00:30:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：現於紐約約克敦高地，與 IBM 執行長會面。"
+    },
+    {
+      "id": "5034442",
+      "time": "2026-08-11 00:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Meta否認推遲社交媒體成癮案開庭時間."
+    },
     {
       "id": "5034441",
       "time": "2026-08-11 00:29:04",
@@ -143823,62 +143905,6 @@
         "META.O"
       ],
       "text": "Politico reports Meta Platforms (META.O) will attend a White House AI meeting tomorrow."
-    },
-    {
-      "id": "mkt:019fc879-864b-7aab-8f5c-65b3701e5881",
-      "time": "2026-08-04 00:33:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK data regulator ICO, regarding OpenAI and ANTHROPIC, said it has noted recent hacking incidents affecting the sector and is closely monitoring developments."
-    },
-    {
-      "id": "5023069",
-      "time": "2026-08-04 00:33:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta、谷歌將於週二出席白宮人工智慧會議，研討白宮人工智慧框架。"
-    },
-    {
-      "id": "mkt:019fc879-5d8e-7aab-8f5c-5d2d75bb59f0",
-      "time": "2026-08-04 00:33:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. officials say no plan for new Iran talks】CBS, citing U.S. officials, says there are currently no plans for a new round of negotiations with Iran, contradicting Trump’s earlier claim that talks would start Monday afternoon (local time). Only ongoing mediated discussions are underway between Middle East envoy Witkoff, Kushner and the U.S. negotiating team with Iranian counterparts."
-    },
-    {
-      "id": "5023068",
-      "time": "2026-08-04 00:33:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國資料監管機構資訊專員辦公室（ICO）就OpenAI與Anthropic事件發表宣告：我們已知悉近期影響該行業的駭客攻擊事件，正密切監控事態發展。"
-    },
-    {
-      "id": "5023067",
-      "time": "2026-08-04 00:33:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局將持續派員駐場波音生產廠區。"
-    },
-    {
-      "id": "5023066",
-      "time": "2026-08-04 00:33:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局向波音737 MAX-7頒發修訂型號合格證。"
-    },
-    {
-      "id": "5023065",
-      "time": "2026-08-04 00:33:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局釋出波音737 MAX-7型號審定相關宣告。"
     }
   ]
 }
