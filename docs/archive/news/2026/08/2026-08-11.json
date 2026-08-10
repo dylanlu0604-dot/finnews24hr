@@ -1,7 +1,39 @@
 {
   "date": "2026-08-11",
-  "count": 326,
+  "count": 329,
   "items": [
+    {
+      "id": "mkt:019fed9c-ad84-7aab-8fe1-6c7dee9260b1",
+      "time": "2026-08-11 05:38:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Advisor to Ukraine's interior minister said Russia launched ballistic strikes against Kyiv, Zaporizhia and Dnipropetrovsk regions; multiple explosions reported in Kyiv."
+    },
+    {
+      "id": "5034612",
+      "time": "2026-08-11 05:37:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團即將達成一筆20億美元交易，收購加拿大航空Aeroplan忠誠度專案的少數股權。"
+    },
+    {
+      "id": "mkt:019fed9a-ef8c-7aab-8fe1-62c0cb2b2bac",
+      "time": "2026-08-11 05:36:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says explosions have occurred in the capital and the city is under ballistic missile attack; residents are urged to remain in shelters."
+    },
     {
       "id": "5034611",
       "time": "2026-08-11 05:34:22",

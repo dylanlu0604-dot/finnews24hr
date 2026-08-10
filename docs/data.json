@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-11 05:36:32",
-  "count": 15805,
+  "updated": "2026-08-11 05:40:20",
+  "count": 15806,
   "items": [
+    {
+      "id": "mkt:019fed9c-ad84-7aab-8fe1-6c7dee9260b1",
+      "time": "2026-08-11 05:38:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Advisor to Ukraine's interior minister said Russia launched ballistic strikes against Kyiv, Zaporizhia and Dnipropetrovsk regions; multiple explosions reported in Kyiv."
+    },
+    {
+      "id": "5034612",
+      "time": "2026-08-11 05:37:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團即將達成一筆20億美元交易，收購加拿大航空Aeroplan忠誠度專案的少數股權。"
+    },
+    {
+      "id": "mkt:019fed9a-ef8c-7aab-8fe1-62c0cb2b2bac",
+      "time": "2026-08-11 05:36:21",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv mayor says explosions have occurred in the capital and the city is under ballistic missile attack; residents are urged to remain in shelters."
+    },
     {
       "id": "5034611",
       "time": "2026-08-11 05:34:22",
@@ -143870,22 +143902,6 @@
         "MKT News"
       ],
       "text": "Cuban media report the national power grid collapsed again after a blackout on Sunday."
-    },
-    {
-      "id": "5023242",
-      "time": "2026-08-04 05:39:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "古巴官方媒體：週日發生停電事故後，古巴國家電網再次全面癱瘓。"
-    },
-    {
-      "id": "5023241",
-      "time": "2026-08-04 05:36:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "Palantir：歐洲業務增長 “十分糟糕”。"
     }
   ]
 }
