@@ -1,7 +1,914 @@
 {
   "date": "2026-08-10",
-  "count": 1260,
+  "count": 1359,
   "items": [
+    {
+      "id": "mkt:019feabe-700b-7aab-8fd5-4d3c577e4356",
+      "time": "2026-08-10 16:16:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Index Academy: Local SOE-backed long-term rental apartment openings steady with modest increase】China Index Academy’s July 2026 housing rental enterprise scale ranking shows TOP30 centralized long-term rental apartment operators had 1.471 mln opened units in July, up 23,000 MoM. Local state-owned enterprise–backed chains’ share within the TOP30 rose to 30%. Graduation-season leasing demand widened the MoM increase in 50-city average residential rents in July."
+    },
+    {
+      "id": "5033565",
+      "time": "2026-08-10 16:15:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：地方國企系長租公寓開業規模穩中有增】中指研究院最新發布《2026年7月中國住房租賃企業規模排行榜》，據中指研究院統計，2026年7月，TOP30集中式長租公寓企業累計開業房源量為147.1萬間，較6月增加2.3萬間；具體來看，地方國企系開業規模穩中有增，在TOP30中的規模佔比提升至30%。市場執行方面，受畢業季租賃需求持續釋放影響，2026年7月50城住宅平均租金環比漲幅有所擴大。"
+    },
+    {
+      "id": "5033564",
+      "time": "2026-08-10 16:14:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商港口：2025年度第二期超短期融資券到期兌付20億元】招商港口公告稱，公司2025年11月12日發行的2025年度第二期超短期融資券（“25招商局港SCP002”），發行規模20億元，期限267天，票面利率1.58%。該融資券已於2026年8月7日到期，公司已在到期日兌付本息。"
+    },
+    {
+      "id": "5033563",
+      "time": "2026-08-10 16:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理醫療團隊表示，總理目前正在醫學專家的監督下接受物理治療。"
+    },
+    {
+      "id": "5033562",
+      "time": "2026-08-10 16:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞總理醫療團隊表示：總理安瓦爾已成功完成擇期腹腔鏡手術，治療臍旁疝。"
+    },
+    {
+      "id": "5033561",
+      "time": "2026-08-10 16:13:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：有序拓展煤炭原料化利用】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，強化煤種分類管理，因地制宜推進煉焦煤、富油煤等分質利用，推動煤炭向燃料和原料並重轉變。科學規劃煤制油氣產能和佈局，有序推進內蒙古鄂爾多斯、陝西榆林、新疆準東、新疆哈密等煤制油氣戰略基地建設，加強煤制油氣產能和技術儲備。推進煤制芳烴、煤基生物可降解材料等實現產業化突破。"
+    },
+    {
+      "id": "5033560",
+      "time": "2026-08-10 16:12:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加強煤層氣（煤礦瓦斯）規模化開發利用】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，鞏固拓展沁水盆地、鄂爾多斯盆地東部兩大煤層氣產業基地建設成效，實施重點區域煤層氣增儲上產工作方案，穩定淺層、中層成熟區塊產量，推動深層煤層氣區塊快速上產。推廣煤礦瓦斯井上下聯合抽採，加大地面預抽力度，提高井下抽採瓦斯濃度和穩定性。加強瓦斯全濃度利用，因地制宜發展發電、供熱等利用方式。穩步推進煤炭行業甲烷控排。"
+    },
+    {
+      "id": "mkt:019feabb-379d-7aab-8fd5-421311193fc9",
+      "time": "2026-08-10 16:12:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Hong Kong close: Hang Seng up 1.05%; livestock, precious metals lead】Hong Kong stocks closed higher. Hang Seng Index +1.05% at 25,937.49; Hang Seng Tech Index +1.26% at 4,919.46. Market turnover HKD 240.3 bln, down from HKD 259.7 bln on prior session. Precious metals and livestock sectors led gains; coal also strong. Innovative-drug names spiked then retreated; new-consumer stocks firmed in the afternoon. Compute-hardware, optical-communications and storage sectors underperformed. Selected movers: 06181.HK +12.39%, 06885.HK +20.00%, 02714.HK +5.18%, 02259.HK +5.03%, 02359.HK +2.96%; 03308.HK -6.94%, 03986.HK -5.11%."
+    },
+    {
+      "id": "5033559",
+      "time": "2026-08-10 16:12:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月11日傍晚至13日白天 北京局地將有大暴雨特大暴雨】8月10日上午，北京市氣象臺釋出暴雨橙色預警訊號，房山、大興、通州、門頭溝、懷柔、豐臺、經開區已釋出暴雨紅色預警訊號。北京全市擬於11日上午啟動防汛二級應急響應。北京市氣象臺預報員介紹，根據最新資料研判，受“白海豚”外圍偏南水汽輸送和高空槽冷空氣共同影響，北京地區11日傍晚至13日白天將有一次明顯的降雨過程，最強降雨時段為12日凌晨至夜間。預計本次累計降雨量將達到暴雨，其中，南部、西部北部山區將達到大暴雨，房山、大興、通州、門頭溝部分地區將達到特大暴雨。（央視新聞）"
+    },
+    {
+      "id": "te:economy:574093",
+      "time": "2026-08-10 16:12:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Construction Output Growth Picks Up in June — Construction output in Bulgaria rose 4.4% year-on-year in June 2026, following a downwardly revised 4% gain in the previous month, which marked the weakest growth since January. Growth in building construction picked up (11.9% vs 9.6% in May), while it remained steady for civil engineering (at 3.6%). On a seasonally adjusted monthly basis, construction output increased 0.9%."
+    },
+    {
+      "id": "te:markets:574092",
+      "time": "2026-08-10 16:11:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Firms at Over 3-Week High — The euro remained above $1.155, close to a three-week high, as investors weighed mixed signals from the US and Iran over the prospects for reopening the Strait of Hormuz. Iran’s Foreign Minister said an agreement with Oman to establish a shipping route through the strait was “very close,” but cautioned that it would not immediately restore shipping flows. Meanwhile, the Euro Area outlook has improved, with recent economic resilience prompting analysts to become more optimistic about growth. Second estimates later this week are expected to confirm the Eurozone economy expanded by 0.4% in Q2, the most since early 2025. Looking ahead, growth is projected to moderate in the near term before gradually gaining momentum. On the monetary policy front, the European Central Bank left interest rates unchanged in July following a 25bps increase in June, its first hike in three years, while expectations of a near-term Federal Reserve rate hike eased following weaker-than-expected employment data."
+    },
+    {
+      "id": "mkt:019feab9-ef45-7aab-8fd5-3de74311152f",
+      "time": "2026-08-10 16:11:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "HSTECH",
+        "HSCEI"
+      ],
+      "text": "Hong Kong's Hang Seng Index (HSI) closed up 269.46 points (+1.05%) at 25,937.49 on Monday, Aug. 10. The Hang Seng Tech Index closed up 61.17 points (+1.26%) at 4,919.46. The Hang Seng China Enterprises Index (HSCEI) closed up 90.26 points (+1.06%) at 8,621.84, and the Hang Seng Red Chip Index closed up 21.84 points (+0.53%) at 4,142.85."
+    },
+    {
+      "id": "5033558",
+      "time": "2026-08-10 16:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：積極推動煤炭清潔替代】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，以碳達峰碳中和為牽引，在保障能源安全供應前提下，推動煤炭消費順利達峰。推進煤炭消費轉型升級，重點保障國家重大戰略、重大專案等用煤需要，有效滿足電煤合理增量需求。加快推進重點用煤行業節能降耗，推動燃煤鍋爐、工業窯爐關停整合或清潔能源替代，加快推廣餘熱餘壓供暖，推廣可再生能源供熱供暖。提升煤炭集中化利用水平，壓減散煤使用。推動原料燃料用煤替代減量，在鋼鐵、建材等行業推廣電鋼爐、電鍋爐、電窯爐、電加熱等技術，提升電力替代燃煤比例。"
+    },
+    {
+      "id": "5033557",
+      "time": "2026-08-10 16:10:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ALO入華首日成績單：官宣入駐天貓6小時，僅售出2筆預售訂單】今日，淘寶官方賬號發文表示：“今天，我們迎來一位新夥伴：ALO。ALO天貓官方旗艦店即日開啟預售，8月12日正式開業。作為ALO在中國的獨家官方電商平臺，天貓將與品牌全球同步上新，首批商品涵蓋明星同款系列、爆款單品ALO SUNSET德訓鞋等。”據瞭解，這也是ALO進入中國市場後正式開業售賣的第一家官方店鋪，也是其在中國內地唯一的官方電商渠道。值得關注的是，自今日上午10時淘寶官方賬號發文官宣以來，截至發稿已過去6小時，但ALO此次上線的約320件單品僅錄得2筆預售訂單，且均為消費者支付的定金訂單，尾款支付視窗將於8月12日00:30開啟。（貴圈）"
+    },
+    {
+      "id": "5033556",
+      "time": "2026-08-10 16:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加快實施煤電轉型升級】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，持續推進新一代煤電升級專項行動，積極有序推進現役及新建機組實施新一代煤電改造建設。大力推動煤電節能降碳改造，推廣高效燃燒、餘熱利用、智慧調控等技術，加快風機、熱泵、鍋爐、汽輪機、變壓器等用能裝置更新升級。推動現役煤電機組透過耦合新能源、摻燒生物質、建設儲能（儲熱）設施等方式實施低碳化改造，降低煤電機組碳排放水平。鼓勵煤電與新能源融合發展，實現新能源和煤電優勢互補。"
+    },
+    {
+      "id": "mkt:019feab9-093a-7aab-8fd5-33a3473d5be3",
+      "time": "2026-08-10 16:10:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration push AI+ in coal sector; mandate coal AI data aggregation】CHINA STATE PLANNER and the National Energy Administration released the coal industry's 15th Five-Year Plan, directing an accelerated rollout of AI+ across the coal sector. The plan mandates strengthened aggregation of coal-sector AI data and systematic AI deployment in exploration and design, construction and production, operations and maintenance, and safety management. It calls for fast-tracked R&D and deployment of coal-specific large models, targeting breakthroughs in intelligent sensing, autonomous decision-making and intelligent control. Authorities will build AI-integrated pilot mines to raise safety standards, accelerate intelligent retrofits of disaster-prone and major-accident mines, and promote robotic replacement of hazardous, high-risk roles."
+    },
+    {
+      "id": "5033555",
+      "time": "2026-08-10 16:10:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加強煤礦職業健康防護】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，完善煤礦職業病危害防治體系，圍繞煤礦企業重點環節、重點崗位、重點人員，加強職業健康危害源頭防控，全面落實職業健康監護制度。推動企業落實粉塵防治主體責任，改善煤礦作業環境，建立完善職工職業健康檔案，保障職工工傷保險待遇，健全職業健康管理機構與制度體系，切實維護煤礦從業人員安全健康權益。"
+    },
+    {
+      "id": "te:markets:574091",
+      "time": "2026-08-10 16:09:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Rises by 2.66% — Top commodity gainers are Oat (2.66%), Wheat (2.36%) and Palm Oil (0.77%). Biggest losers are Sugar (-0.55%) and Rapeseed (-0.55%)."
+    },
+    {
+      "id": "mkt:019feab8-8b5d-7aab-8fd5-28e028867918",
+      "time": "2026-08-10 16:09:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran is prepared to step up its capabilities at any time to respond to any eventuality."
+    },
+    {
+      "id": "5033554",
+      "time": "2026-08-10 16:09:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：深化煤礦重大災害防治】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，強化煤礦隱蔽致災因素動態普查，實施重大災害專項設計、分割槽治理、超前管控，提高安全生產風險防範水平。深入推進重大災害治理，加快淘汰高風險技術工藝和落後技術裝備，推廣應用智慧化防控與先進治災技術，加強露天煤礦邊坡穩定性監測與滑坡防治，增強源頭防控能力。開展煤礦衝擊地壓機理研究，健全完善衝擊地壓防治技術體系。推動多災種協同治理，全面提升重大災害防治能力。"
+    },
+    {
+      "id": "mkt:019feab8-504c-7aab-8fd5-2328614132d2",
+      "time": "2026-08-10 16:09:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration roll out coal industry 15th Five-Year plan — orderly release of advanced capacity】CHINA STATE PLANNER and the National Energy Administration issued the Coal Industry 15th Five-Year Plan, directing stronger measures to stabilise coal production and supply, optimise production organisation and orderly release advanced capacity. The plan calls for studying a coordinated-production mechanism among key coal provinces to smooth market functioning, strengthening supply-demand monitoring and production dispatch, and enforcing signing and performance of mid-to-long-term power-coal contracts. It mandates enhanced regional mutual aid and multi-energy complementarity to raise peak summer and winter supply capacity, stabilise supply in the Two Lakes and One River region, the Northeast and the Southwest, deepen supply‑demand linkages and strategic cooperation between producing and consuming areas, optimise coal reserve-base layout, lift power-plant coal stocks and prioritise household coal needs."
+    },
+    {
+      "id": "5033553",
+      "time": "2026-08-10 16:09:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：萊茵金屬與波音將就戰鬥機能力問題開展合作。萊茵金屬將在德國建立MQ-28飛機獨立系統整合中心，可立即開展國家層面的能力研發、測試和整合工作。"
+    },
+    {
+      "id": "5033552",
+      "time": "2026-08-10 16:09:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永茂泰：擬以1.5億元-3億元回購公司股份】永茂泰公告，擬以1.5億元-3億元回購公司股份，回購價格不超過22.8元/股。回購股份的用途為維護公司價值及股東權益，將在披露回購結果暨股份變動公告12個月後採用集中競價交易方式全部出售。回購資金來源為公司自有資金和自籌資金，其中公司已取得中國銀行上海長三角一體化示範區分行不超過2.7億元的貸款承諾函。回購期限為董事會審議透過之日起3個月。"
+    },
+    {
+      "id": "5033551",
+      "time": "2026-08-10 16:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省濮陽市人大常委會原副主任馬宜品被開除黨籍】中央紀委國家監委網站8月10日通報，據河南省紀委監委訊息：經中共河南省委批准，河南省紀委監委對濮陽市人大常委會原副主任馬宜品嚴重違紀違法問題進行了立案審查調查。經查，馬宜品喪失理想信念，背棄初心使命，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品；違背組織原則，不按規定報告個人有關事項，在組織函詢時不如實說明問題，利用職權為他人謀取人事利益；廉潔底線失守，透過民間借貸獲取大額回報，違規從事營利活動，違規使用商人車輛；喪失紀法底線，大搞權錢交易，利用職務便利為他人在企業改制、專案建設等方面謀取利益，非法收受鉅額財物。馬宜品嚴重違反黨的政治紀律、組織紀律、廉潔紀律和生活紀律，構成嚴重職務違法並涉嫌受賄、鉅額財產來源不明犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經河南省紀委常委會會議研究並報中共河南省委批准，決定給予馬宜品開除黨籍處分；按規定取消其享受的待遇；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
+    },
+    {
+      "id": "5033550",
+      "time": "2026-08-10 16:09:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：已收到巴基斯坦對伊朗外長阿拉格齊和伊朗議會議長卡利巴夫的邀請】伊朗外交部發言人：作為關係密切且不斷發展的兩個鄰國，伊朗與巴基斯坦之間的互訪和會晤是完全自然的事情。就此，近日，伊朗工業、科學和內政部長已赴巴基斯坦，就各項專業議題進行了磋商。已收到巴基斯坦對伊朗外長阿拉格齊和伊朗議會議長卡利巴夫的邀請，訪問將在適當的時候進行。德黑蘭與伊斯蘭堡之間的雙邊關係，特別是在近幾個月來，變得越來越重要，這些互訪是兩國鄰邦關係不斷發展過程中自然而然的一部分。"
+    },
+    {
+      "id": "5033549",
+      "time": "2026-08-10 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲1.050%，恒生科技指數漲1.259%】老鋪黃金漲12.614%，周大福漲6.628%，翰森製藥漲5.103%，農夫山泉漲4.823%，申洲國際漲4.065%，康師傅控股漲3.625%，吉利汽車漲3.420%。"
+    },
+    {
+      "id": "mkt:019feab7-acad-7aab-8fd5-1da61f199f83",
+      "time": "2026-08-10 16:08:53",
+      "tags": [
+        "MKT News",
+        "RHM.DE",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Rheinmetall will establish an independent MQ-28 systems-integration center in Germany, enabling immediate national-level capability R&D, testing and integration."
+    },
+    {
+      "id": "mkt:019feab7-938c-7aab-8fd5-12ed192d1b9e",
+      "time": "2026-08-10 16:08:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02714.HK"
+      ],
+      "text": "Hong Kong stocks closed higher. Hang Seng Index rose 1.05% and the Hang Seng TECH Index gained 1.26%. Livestock/breeding sector led gains; Muyuan Foods (02714.HK) advanced 5.18%."
+    },
+    {
+      "id": "mkt:019feab7-5d54-7aab-8fd5-0c8b31689fee",
+      "time": "2026-08-10 16:08:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China State Planner, National Energy Administration push orderly exit of backward coal capacity under 15th Five-Year Plan】China State Planner and the National Energy Administration issued the 15th Five-Year Plan for coal industry development, calling for accelerated structural upgrades and orderly withdrawal of backward and inefficient coal capacity. The agencies require an establish-before-shutdown approach, coordinating mine closures with regional supply security and implementing exits under market-based, rule-of-law principles. Regional measures: western China to optimize production and speed removal of mines with outdated technology or overlapping ecologically sensitive areas; east-central China to prudently withdraw disaster-prone mines that cannot be effectively remediated and exhausted deposits while addressing legacy liabilities and worker resettlement; southwest and northeast to set region-specific standards to steer small, low-resource, low-safety mines out and use policy guidance and market measures to ensure long-term suspended or halted mines are exited."
+    },
+    {
+      "id": "5033548",
+      "time": "2026-08-10 16:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：積極開展國際交流合作】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，充分利用國際國內兩個市場、兩種資源，鞏固完善進口通道格局。加強國際煤炭生產及貿易趨勢研究。擴大技術諮詢服務貿易。搭建國際合作交流平臺，分享煤炭綠色低碳轉型經驗"
+    },
+    {
+      "id": "5033547",
+      "time": "2026-08-10 16:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏回族自治區第十一屆人大常委會原委員張志敏接受審查調查】中央紀委國家監委網站8月10日通報，據寧夏回族自治區紀委監委訊息：寧夏回族自治區第十一屆人大常委會原委員張志敏涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "5033546",
+      "time": "2026-08-10 16:08:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：促進煤炭企業改革發展】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，深化煤炭行業國資國企改革。支援煤炭企業發揮自身優勢，與電力、新能源、化工等企業重組整合，培育戰略性新興產業和未來產業，建設一流綜合能源生產服務商。支援民營企業公平參與煤炭資源開發，規範開展股權合作與資源整合。深入推進行業精神文明建設，打造特色文化品牌，豐富職工精神文化生活。"
+    },
+    {
+      "id": "5033545",
+      "time": "2026-08-10 16:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委 國家能源局有關負責同志就《煤炭工業發展“十五五”規劃》答記者問】問：《規劃》將《煤層氣（煤礦瓦斯）開發利用方案》作為附件一併印發，請介紹一下“十五五”時期煤層氣（煤礦瓦斯）開發利用的總體考慮？\n\n答：開發利用煤層氣（煤礦瓦斯）具有保障煤礦安全生產、增加清潔能源供應、減少溫室氣體排放等多重效益。為加快推進煤層氣勘探開發、煤礦瓦斯抽採利用，按照既往工作慣例，專門編制《煤層氣（煤礦瓦斯）開發利用方案》（以下簡稱《方案》）作為規劃附件。《方案》統籌能源安全穩定供應和綠色低碳轉型，大力推動煤層氣產業基地增產提效，持續深化煤礦瓦斯治理方式創新，積極構建瓦斯利用與甲烷控排協同推進局面，為煤炭高質量發展提供有力支撐，助力新型能源體系建設和能源強國目標實現。《方案》提出，到2030年，煤層氣產量260億立方米，瓦斯利用量65億立方米。\n\n《方案》提出四個方面重點任務。在煤層氣勘探開發方面，推動沁水盆地煤層氣產業基地穩產增產，推進鄂爾多斯盆地東部煤層氣產業基地快速上產，加快新疆煤層氣產業化發展，積極拓展其他資源開發區域。在煤礦瓦斯抽採利用方面，深化煤炭與煤礦瓦斯共採，強化煤礦瓦斯全濃度利用，穩步推進煤炭行業甲烷控排。在產業科技創新方面，加強煤層氣勘探開發技術攻關，加快煤礦瓦斯抽採利用技術攻關，完善科技創新協同推進機制。在煤層氣外輸管網建設方面，銜接天然氣“全國一張網”規劃佈局，統籌規劃建設各區域煤層氣輸氣管網。"
+    },
+    {
+      "id": "5033544",
+      "time": "2026-08-10 16:07:57",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【兩部門：健全行業管理制度體系】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，積極推進煤炭法修訂，完善煤炭行業標準（MT）體系。強化煤炭礦區總體規劃管理，嚴格落實礦區總體規劃確定的開發方案，提高資源集約高效開發水平。加強產能“一本賬”管理，適時調整完善產能置換政策，強化產能登記公告管理，促進建設生產平穩有序。強化煤礦關閉退出計劃管理，引導企業平穩轉型，穩妥做好人員安置、債務處置、生態修復等工作。健全煤炭產供儲銷統計體系，強化能源、安監、稅務等部門資訊共享和協同監管，加強煤炭生產監督管理，嚴厲打擊煤礦超產行為，規範煤炭市場秩序。研究出臺規範煤炭產能管理長效機制。健全完善行業教育培訓體系，加強專業技術人才培養，提升從業人員能力素質。"
+    },
+    {
+      "id": "5033543",
+      "time": "2026-08-10 16:07:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委 國家能源局有關負責同志就《煤炭工業發展“十五五”規劃》答記者問】問：《規劃》部署了哪些重點任務？\n\n答：《規劃》統籌能源安全與綠色轉型，聚焦建設現代煤炭產業體系這一主線，提出九個方面重點任務。一是最佳化煤炭開發空間佈局。鞏固最佳化東中西梯級開發格局，有序推進接續產能建設，協調推動重點區域資源開發，完善煤炭跨區調運格局。二是加快煤炭產業結構最佳化升級。提高資源開發准入標準，積極發展優質先進產能，推動落後無效產能退出，穩慎推進深部資源開採。三是加強煤炭產供儲銷體系建設。持續加強穩產穩供，最佳化完善煤炭運輸體系，加快儲備能力建設，提升應急保障水平。四是推動煤礦智慧化迭代升級。分類分級縱深推進智慧化建設，加快人工智慧場景化應用，提升煤礦智慧化執行效能。五是加快煤炭綠色低碳轉型。提高資源綠色開採水平，強化全過程節能降碳，加強煤層氣（煤礦瓦斯）規模化開發利用，促進煤炭與新能源融合發展。六是加強煤炭清潔高效利用。積極推動煤炭清潔替代，大力提升商品煤質量，加快實施煤電轉型升級，有序拓展煤炭原料化利用。七是增強煤炭科技創新能力。加強產業應用基礎研究，推動先進技術裝備研發應用，完善煤炭科技創新體系。八是強化煤炭安全生產管理。夯實煤礦安全生產基礎，深化煤礦重大災害防治，加強煤礦職業健康防護。九是提升行業治理現代化水平。持續推進現代煤炭市場建設，健全行業管理制度體系，促進煤炭企業改革發展，積極開展國際交流合作。\n\n同時，《規劃》注重發揮“三個重大”牽引帶動作用，部署了煤炭供應保障基地建設、煤礦智慧化建設迭代升級、煤炭與新能源融合發展、商品煤質量提升、煤炭技術裝備創新等5方面重大工程，作為推動規劃落地實施的重要載體和有效舉措；提出強化煤炭礦區總體規劃管理、加強產能“一本賬”管理、完善煤炭行業標準體系、完善煤炭價格區間調控政策等多項重大政策和重大改革，有力支撐規劃目標實現。"
+    },
+    {
+      "id": "5033542",
+      "time": "2026-08-10 16:07:42",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【兩部門：持續推進現代煤炭市場建設】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，積極發展全國統一煤炭交易市場，完善基礎制度和規則，健全資訊共享機制，進一步發揮全國煤炭交易中心作用。完善電煤保供中長期合同制度，推進煤炭交易合同規範化標準化，加強合同簽約履約監管。健全煤炭市場價格形成機制，結合市場形勢和成本變化適時完善煤炭價格區間調控政策，規範價格指數行為。"
+    },
+    {
+      "id": "mkt:019feab6-40a8-7aab-8fd5-03c922fc5840",
+      "time": "2026-08-10 16:07:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China State Planner, National Energy Administration: New coal-mine capacity must strictly follow capacity replacement policy】China State Planner and the National Energy Administration issued the coal industry '15th Five-Year' plan requiring orderly continuation of replacement-capacity construction, stepped-up resource exploration and reserve upgrades to secure coal continuity. They tighten total capacity control, aligning new capacity with resource potential and regional supply–demand balance, and confine new builds mainly to five major supply bases while prioritizing upstream–downstream integrated projects and cross-regional supply-security schemes. During the '15th Five-Year' period, new capacity must be entered into the central capacity ledger before implementation; all types of coal mines must strictly comply with the capacity replacement policy."
+    },
+    {
+      "id": "mkt:019feab6-31c0-7aab-8fd4-f849ef9bd47f",
+      "time": "2026-08-10 16:07:16",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "RHM.DE"
+      ],
+      "text": "Rheinmetall and Boeing will cooperate on fighter capability issues, market sources say."
+    },
+    {
+      "id": "mkt:019feab6-2173-7aab-8fd4-f0bc20a32d83",
+      "time": "2026-08-10 16:07:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine may face severe grain-storage shortfall this autumn】Ukraine's agriculture ministry said on Monday that with Black Sea port exports effectively stalled, the country may face a severe grain storage shortfall this autumn. Black Sea ports previously handled about 90% of Ukraine's grain export shipments. The ministry estimated the storage gap could reach 11 mln t and has asked the US for help procuring equipment for temporary on-farm grain storage."
+    },
+    {
+      "id": "mkt:019feab5-c404-7aab-8fd4-ec08954eb7a1",
+      "time": "2026-08-10 16:06:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【CHINA STATE PLANNER, National Energy Administration: Coal supply backstop capacity to strengthen further by 2030】CHINA STATE PLANNER and the National Energy Administration issued the Coal Industry Development “15th Five-Year” Plan. By 2030 the plan targets a stronger coal supply backstop, optimized production layout and a higher share of advanced capacity; nationwide large modern coal mines to account for 87% of capacity and intelligent/automated mine capacity to rise to 75%. The plan also seeks materially improved safety, greener and more efficient coal use, accelerated development of coal‑based diversified industries, a coal consumption peak with enhanced dynamic supply‑demand balancing and storage/distribution systems, and upgraded industry governance to establish a modern coal sector and advance high‑quality development."
+    },
+    {
+      "id": "5033541",
+      "time": "2026-08-10 16:06:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鑫科材料：2026年上半年營收27.23億元 淨利潤同比增115.97%】鑫科材料公告稱，2026年上半年，公司營收27.23億元，同比增長25.55%；利潤總額6040.96萬元，同比增長170.66%；歸屬於上市公司股東的淨利潤4261.15萬元，同比增長115.97%。截至報告期末，公司總資產46.99億元，較上年度末增長5.25%；歸屬於上市公司股東的淨資產15.02億元，較上年度末增長2.92%。"
+    },
+    {
+      "id": "5033540",
+      "time": "2026-08-10 16:06:43",
+      "tags": [
+        "行業",
+        "其他",
+        "焦點"
+      ],
+      "text": "【兩部門：深入實施“人工智慧+”行動，加強煤炭領域人工智慧資料歸集】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，深入實施“人工智慧+”行動，加強煤炭領域人工智慧資料歸集，推進人工智慧在勘探設計、建設生產、運營維護、安全管理等重點場景系統化應用。加快研發推廣煤炭領域專用大模型，重點突破智慧感知、自主決策、智慧控制等關鍵技術瓶頸，培育建設一批人工智慧融合應用試點煤礦，促進煤礦安全生產水平提高。大力實施災害嚴重礦井、發生較大及以上事故礦井智慧化改造，推動危險繁重崗位機器人作業替代。"
+    },
+    {
+      "id": "5033539",
+      "time": "2026-08-10 16:06:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加強煤層氣勘探開發技術攻關】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，依託沁水盆地重點開展淺層、中層水平井高效鑽完井和老井精細開發、儲集層改造、補射新層等技術裝備研究，提高儲量控制程度和採收率。依託鄂爾多斯盆地東部區域重點開展深層煤層氣資源分類評價、賦存特徵、成藏機理、有利區優選、優快鑽完井、高效生產等技術裝備研究，夯實深層煤層氣持續增儲上產基礎。依託新疆地區重點開展急傾斜厚煤層、低煤階煤層儲層評價、增產改造等技術裝備研究，推動規模化開發。依託四川盆地、黔西盆地重點開展海陸過渡相疊置多薄層儲層評價、複雜構造區高效開發等技術裝備研究，推動區域煤層氣增產。依託渤海灣盆地重點開展強改造型盆地低—中階煤層氣資源分類評價、薄煤層優快鑽井及壓裂等技術裝備研究，實現勘探開發新突破。"
+    },
+    {
+      "id": "5033538",
+      "time": "2026-08-10 16:06:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加強骨幹煤炭鐵路運輸通道建設，完善“西煤東運”“北煤南運”多式聯運系統】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，加強骨幹煤炭鐵路運輸通道建設，完善“西煤東運”“北煤南運”多式聯運系統，補強重點運輸通道配套集疏運體系。加快“疆煤外運”通道能力建設，構建形成“一軸兩翼多聯”疆煤出區鐵路通道體系。推進中長距離煤炭運輸“公轉鐵”“公轉水”，積極發展“水水中轉”、鐵路“重去重回”運輸組織模式，推廣輸煤廊道、新能源重卡等短途運輸清潔替代，提升綠色運輸比重。"
+    },
+    {
+      "id": "5033537",
+      "time": "2026-08-10 16:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：持續深化供給側結構性改革求】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，持續深化供給側結構性改革，以五大煤炭供應保障基地為重點，合理佈局建設技術裝備先進、安全保障可靠、環保標準更高的煤礦叢集，提高先進產能比重。新建煤礦專案原則上一次規劃、一次設計、一次建設到位，符合條件的應按智慧化標準設計建設。新建、改擴建煤礦應配套建設相應規模選煤廠（選煤設施），新建選煤廠原則上按智慧化標準建設。推動煤礦按照“一井一面”“一井兩面”模式建設生產，最佳化生產開拓佈局，實現減人提效。"
+    },
+    {
+      "id": "te:markets:574087",
+      "time": "2026-08-10 16:05:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 1.23% — Top commodity gainers are Lithium Carbonate (1.23%), Silver (1.17%), Copper (0.86%) and Gold (0.27%)."
+    },
+    {
+      "id": "5033536",
+      "time": "2026-08-10 16:05:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：健全完善煤炭產業政策，嚴格產業准入要求】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，健全完善煤炭產業政策，嚴格產業准入要求，加強負面清單管理，原則上停止新建、改擴建以下煤礦：山西、內蒙古、陝西、新疆（除南疆外）產能低於 120 萬噸/年的煤礦，寧夏產能低於60萬噸/年的煤礦，其他地區產能低於 30 萬噸/年的煤礦。停止新建產能低於 90 萬噸/年的煤與瓦斯突出、衝擊地壓、水文地質型別極複雜的煤礦。停止新建第一水平開採深度超1000 米和改擴建開採深度超 1200 米的煤礦，停止新建和改擴建開採深度超過600 米的小型煤礦。禁止在生態保護紅線、自然保護地、飲用水水源保護區等生態敏感區內規劃新建煤礦。"
+    },
+    {
+      "id": "mkt:019feab4-4f8e-7aab-8fd4-e727470c90ee",
+      "time": "2026-08-10 16:05:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Maersk announced its AE19 service will be rerouted via the Suez Canal rather than the Cape of Good Hope, effective immediately."
+    },
+    {
+      "id": "5033535",
+      "time": "2026-08-10 16:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：持續最佳化“西煤東運”“北煤南運”運輸體系，提升煤炭跨區調運能力】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，持續最佳化“西煤東運”“北煤南運”運輸體系，提升煤炭跨區調運能力。東南沿海地區國內供應以山西、蒙西、陝北基地為主，透過大秦、朔黃、瓦日等通道運至北方港口下水調入，合理利用進口煤保障供應。“兩湖一江”（湖北、湖南、江西）地區重點透過浩吉、焦柳等通道及鐵水聯運網路，從蒙西、陝北、山西基地調入。東北地區主要依託蒙東基地供應，少量從蒙西、山西基地調入。西南地區立足本區域供應，部分透過西康、蘭渝等通道從陝北、蒙西基地調入，穩步提升從新疆基地調入比例。"
+    },
+    {
+      "id": "mkt:019feab3-a2a3-7aab-8fd4-dad14639d3e5",
+      "time": "2026-08-10 16:04:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Tehran and Islamabad's bilateral ties, especially in recent months, have become increasingly important, and that mutual visits are a natural part of the evolving neighborly relationship."
+    },
+    {
+      "id": "mkt:019feab3-a1d2-7aab-8fd4-d6851aa27e87",
+      "time": "2026-08-10 16:04:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said it has received an invitation for Foreign Minister Araghchi and Parliament Speaker Ghalibaf; the visit will take place at an appropriate time."
+    },
+    {
+      "id": "5033534",
+      "time": "2026-08-10 16:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《煤炭工業發展“十五五”規劃》印發：2030年 五大煤炭供應保障基地產量佔全國比重超80%】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中指出，統籌資源開發條件、市場需求、運輸通道、環境約束等因素，有序推進煤炭資源開發。西部資源富集地區強化開發整體規劃，完善上下游開發利用體系，提升跨區域協同保障能力。持續推進山西、蒙西、蒙東、陝北、新疆煤炭供應保障基地建設，高標準規劃建設一批大型現代化煤礦，提升規模化集約化開發水平，2030年，五大煤炭供應保障基地產量佔全國比重超80%。東中部地區統籌本地區用能需求，合理控制開發節奏，根據資源條件加強評估論證，適度建設接續煤礦。"
+    },
+    {
+      "id": "5033533",
+      "time": "2026-08-10 16:04:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：該變更將立即生效，從“馬士基柏林”號輪西行航線628W航次、東行航線637E航次開始執行。"
+    },
+    {
+      "id": "5033532",
+      "time": "2026-08-10 16:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：AE19航線將改經蘇伊士運河航行，不再途經好望角。"
+    },
+    {
+      "id": "5033531",
+      "time": "2026-08-10 16:03:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：統籌煤礦關閉退出與區域供應保障 推動落後產能煤礦有序退出】國家發展改革委、國家能源局印發《煤炭工業發展“十五五”規劃》。其中提到，提高資源開發准入標準。堅持先立後破，統籌煤礦關閉退出與區域供應保障，按照市場化法治化原則，推動落後產能煤礦有序退出。西部地區最佳化生產結構，加快淘汰技術裝備差、與生態敏感區重疊煤礦。東中部地區穩妥推進災害嚴重不能有效治理、資源枯竭煤礦退出，妥善做好遺留問題處置和職工安置。西南、東北等地區因地制宜設定政策標準，合理引導資源條件差、安全保障程度低的中小煤礦退出，運用政策引導、市場手段等加快推動長期停產停建煤礦應退盡退。"
+    },
+    {
+      "id": "mkt:019feab2-dfe9-7aab-8fd4-ccabfd8ba5f0",
+      "time": "2026-08-10 16:03:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "CHINA STATE PLANNER issued the Coal Industry Development 15th Five-Year Plan."
+    },
+    {
+      "id": "5033530",
+      "time": "2026-08-10 16:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海河流域部分河流將發生編號洪水 應急響應啟動】8月11日—14日，海河流域中南部將出現大到暴雨，局地大暴雨，漳衛河、子牙河將出現明顯漲水過程，部分河流將發生編號洪水。根據《海河防汛抗旱總指揮部防汛應急響應預案》和《水利部海河水利委員會水旱災害防禦應急響應工作規程》有關規定，經研究，自8月10日15時起，海河防總啟動防汛Ⅳ級應急響應，海委啟動洪水防禦Ⅳ級應急響應，海河防總、海委將密切關注雨水情發展，加密滾動會商，切實做好暴雨洪水防禦各項工作。（央視新聞）"
+    },
+    {
+      "id": "mkt:019feab2-c54e-7aab-8fd4-c2984d092505",
+      "time": "2026-08-10 16:03:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesman said the ministers of industry, science and interior recently visited Pakistan to hold consultations on various sectoral issues."
+    },
+    {
+      "id": "mkt:019feab2-745e-7aab-8fd4-ba08adc6dc56",
+      "time": "2026-08-10 16:03:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Foreign Ministry spokesperson said visits and meetings between Iran and Pakistan are entirely natural given the two are closely linked, developing neighbors."
+    },
+    {
+      "id": "5033529",
+      "time": "2026-08-10 16:02:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【完成天使輪融資 橡木果釋出全球首個具身本能模型】8月10日，橡木果機器人正式釋出Natus AGE-0具身本能模型。這是全球首個以觸覺感知為核心、復刻人類操作機理的通用操作基座模型。同日，橡木果披露完成由招商局創投和蔚來資本共同領投的天使輪融資，資金將主要用於面向工業柔性生產的機器人產品研發、品牌體系構建與市場拓展。"
+    },
+    {
+      "id": "mkt:019feab1-835b-7aab-8fd4-b397ef6c5052",
+      "time": "2026-08-10 16:02:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【State Administration for Market Regulation and MIIT open 2026 metrology project call to support new industrial productivity】China's State Administration for Market Regulation and the Ministry of Industry and Information Technology have issued a public call for 2026 projects to advance metrology support for new-quality industrial productivity, in line with the 2025–2030 Metrology Support Action Plan. The solicitation targets urgent measurement needs in strategic emerging and future industries—next‑generation information technology, artificial intelligence, aerospace, new energy, new materials, high‑end equipment, biomedicine, quantum technology, integrated circuits and instrumentation—prioritizing development of key common metrology equipment, measurement technology R&D, commercialization and industry applications that resolve critical chokepoints, enable domestic substitution and fill gaps in domestic and international capabilities."
+    },
+    {
+      "id": "5033527",
+      "time": "2026-08-10 16:01:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500微型股指期貨上漲0.2%，納斯達克股指期貨上漲0.4%，道瓊斯股指期貨持平。"
+    },
+    {
+      "id": "5033526",
+      "time": "2026-08-10 16:01:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前普漲，SpaceX漲1%】美股大型科技股盤前普漲，SpaceX漲1%，特斯拉、美光科技漲0.9%，英偉達漲0.5%，SK海力士、谷歌A漲0.4%，Meta漲0.2%，亞馬遜、微軟、蘋果持平。"
+    },
+    {
+      "id": "5033525",
+      "time": "2026-08-10 16:01:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，貝殼漲2%】美股中概股盤前多數上漲，貝殼漲2%，百濟神州漲0.8%，阿里巴巴漲0.7%，京東漲0.4%，攜程漲0.3%，拼多多漲0.2%，理想汽車、網易跌1%。"
+    },
+    {
+      "id": "mkt:019feab0-5461-7aab-8fd4-ad29f408207a",
+      "time": "2026-08-10 16:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Lead",
+        "Aluminium"
+      ],
+      "text": "LME stocks: zinc +50 tonnes, lead -2,775 tonnes, copper -4,675 tonnes, aluminium -1,500 tonnes, tin -100 tonnes; nickel unchanged."
+    },
+    {
+      "id": "5033524",
+      "time": "2026-08-10 16:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋅庫存增加50噸，鉛庫存減少2775噸，銅庫存減少4675噸，鋁庫存減少1500噸，錫庫存減少100噸，鎳庫存持平。"
+    },
+    {
+      "id": "5033523",
+      "time": "2026-08-10 16:00:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【陽光照明：向泰國子公司增資3.24億 推進海外生產基地建設】陽光照明公告稱，公司於2026年3月6日決定以自有資金向全資子公司泰國陽光增資3.24億元，建設泰國生產基地。目前已完成境外投資備案登記，確定在泰國春武里府愛馬仕園區建設，土地面積約107.3畝，泰國陽光已簽署《土地買賣協議》並支付定金，權屬轉移登記預計9月15日前完成。截至公告日，公司已支付增資款1億元。本次交易不構成關聯和重大資產重組，但存在審批、經營及匯率風險。"
+    },
+    {
+      "id": "te:markets:574085",
+      "time": "2026-08-10 16:00:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Rises by 3.94% — Top commodity gainers are Natural Gas UK (3.94%), Natural Gas EU (3.50%), Natural gas (3.40%), Brent Crude Oil (0.25%) and Crude Oil WTI (0.07%)."
+    },
+    {
+      "id": "te:markets:574084",
+      "time": "2026-08-10 16:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rises to Fresh High — The DAX 40 edged up 0.2% to around 26,360 in early trading on Monday, extending the previous week’s gains and reaching a fresh all-time high. Still, investors remained alert to developments in the Middle East amid uncertainty over the reopening of the Strait of Hormuz. Iran and Oman remained short of a final deal, with Tehran demanding major concessions before agreeing to reopen the critical waterway. Siemens Energy rose 2.5%, while Infineon gained 3.0%, supported by continued strength in the technology and industrial sectors. Allianz advanced 1.4%, Merck gained 1.2%, and Qiagen NV climbed 2.6%. On the other hand, sharp losses were seen in Porsche Automobil (-2.5%), Siemens Healthineers (-1.3%), and Brenntag (-1.5%)."
+    },
+    {
+      "id": "5033522",
+      "time": "2026-08-10 15:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中礦資源：子公司兩條高純鋰鹽生產線恢復生產】中礦資源公告，公司全資子公司江西中礦鋰業此前因鋰精礦運輸與生產排程錯配，自2026年6月30日起對“年產3萬噸高純鋰鹽”和“年產3.5萬噸高純鋰鹽”生產線臨時停產檢修。截至公告披露日，檢修工作已完成，公司決定“年產3萬噸高純鋰鹽”生產線於2026年8月10日恢復生產，“年產3.5萬噸高純鋰鹽”生產線計劃於2026年8月中旬逐步恢復生產。"
+    },
+    {
+      "id": "mkt:019feaae-851f-7aab-8fd4-a61390120a3b",
+      "time": "2026-08-10 15:58:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran says no current discussion on Hormuz transit fees; proposed accord would include related provisions】IRNA: Foreign Ministry spokesperson Baghaei said at a press briefing that Iran and Oman have not yet discussed fee details for a proposed new Strait of Hormuz shipping route and discussions are ongoing. He said the parties have agreed on route proposals but technical issues remain on a joint statement and are under negotiation. While fee details have not been settled, a mechanism will be set up to ensure safe navigation and to arrange environmental protection, maritime-service cooperation and anti-crime measures, and maritime services are expected to be compensated."
+    },
+    {
+      "id": "5033521",
+      "time": "2026-08-10 15:58:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST啟環：持股5%以上股東部分股份將被第四次拍賣】*ST啟環公告稱，股東桑德集團及其一致行動人桑德投資合計持有公司股份102,338,553股，佔總股本7.18%。本次擬第四次拍賣其合計持有的50,713,780股股份，佔其持股總數的49.55%，佔公司總股本3.56%。拍賣事項尚處公示階段，結果存在不確定性，所導致的被動減持不會對公司治理及經營產生重大影響，也不會導致公司控制權變更。"
+    },
+    {
+      "id": "5033520",
+      "time": "2026-08-10 15:58:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部針對冀魯豫鄂4省啟動洪水防禦Ⅳ級應急響應】據預報，受第13號颱風“白海豚”和冷空氣共同影響，8月10日至16日，湖北、河南、河北、山東將先後出現大到暴雨，其中湖北西北部、河南東南部和北部、河北中部南部等地部分地區將有大暴雨，區域性將有特大暴雨。受降雨影響，長江中游幹流及支流漢江，淮河上中游干支流及沂沭泗水系，黃河中下游幹流及支流伊洛河、沁河，海河流域漳衛河、徒駭馬頰河、子牙河、大清河等主要河流將出現明顯漲水過程；其中沙潁河、伊洛河、黃河、衛河等主要河流可能發生編號洪水，湖北漢江支流北河，河南沙潁河上游支流北汝河、伊洛河支流蠻峪河、衛河支流淇河，河北滏陽河水系李陽河，山東沭河支流雞龍河等中小河流可能發生較大洪水。依據《水利部水旱災害防禦應急響應工作規程》，水利部於8月10日14時針對河北、山東、河南、湖北省啟動洪水防禦Ⅳ級應急響應。"
+    },
+    {
+      "id": "5033519",
+      "time": "2026-08-10 15:57:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將諾和諾德目標價從200丹麥克朗上調至203丹麥克朗。"
+    },
+    {
+      "id": "te:markets:574081",
+      "time": "2026-08-10 15:57:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Hits 7-Week Peak as BI Nomination Boosts Confidence — The Indonesian rupiah firmed to around IDR 17,760 per U.S. dollar on Monday afternoon, rising for a second straight session to a seven-week high. Momentum was lifted by President Prabowo Subianto’s nomination of acting Bank Indonesia Governor Destry Damayanti as the sole candidate to succeed Perry Warjiyo, who stepped down in late July. State Secretary Prasetyo Hadi confirmed the submission to parliament, with approval expected to take several weeks. Meanwhile, foreign inflows into Indonesian bonds and equities in July eased months of selling pressure, providing relief for the currency. Market focus now shifts to June retail sales data due Tuesday after May’s weak reading. Externally, the U.S. dollar index softened as below-forecast jobs data tempered expectations of further tightening, adding support to the rupiah’s advance."
+    },
+    {
+      "id": "5033518",
+      "time": "2026-08-10 15:57:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體報道：“德黑蘭省：驅逐無證移民的相關計劃並未中止。”"
+    },
+    {
+      "id": "5033517",
+      "time": "2026-08-10 15:56:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【倍杰特：子公司5434萬元收購金鑫冶金55%股權完成工商變更】倍杰特公告稱，公司全資子公司倍杰特新材料以5434萬元透過股權轉讓及增資擴股取得金鑫冶金55%股權。其中，3089萬元收購41%股權，再以2345萬元增資。近日，金鑫冶金完成工商變更登記，倍杰特新材料將直接持有其55%股權，金鑫冶金納入合併報表範圍。"
+    },
+    {
+      "id": "5033516",
+      "time": "2026-08-10 15:56:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【軍信股份：調整公司秘書人選及相關授權人士以推進H股上市】軍信股份公告稱，公司第三屆董事會第九次會議審議多項議案。為推進境外首次公開發行H股並在港交所主機板上市，擬將公司秘書黃慧兒調整為賴天恩，覃事順、賴天恩擔任聯席公司秘書，戴道國、覃事順等為授權代表。同時，因聯席公司秘書人選調整，同步調整公司在港接受法律程式檔案及通知書送達的授權人士，並確認公司在港主要營業地址。上述議案表決結果均為11票同意、0票反對、0票棄權。"
+    },
+    {
+      "id": "5033515",
+      "time": "2026-08-10 15:55:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部副部長加盧津表示，澤連斯基的行動讓莫斯科別無選擇，只能繼續特別軍事行動。"
+    },
+    {
+      "id": "5033513",
+      "time": "2026-08-10 15:55:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富淼科技：擬6.96億元收購股權並推進限制性股票激勵計劃】富淼科技公告稱，2026年第二次臨時股東會將於8月17日召開，將審議多項議案。公司擬6.96億元收購上海隆霖沃格材料集團有限公司100%股權及嘉興沃特泰科環保科技股份有限公司5.2428%股份，合計取得其51.1649%股權實現控制。此外，還將審議《2026年第二期限制性股票激勵計劃（草案）》及其考核管理辦法，以及提請股東會授權董事會辦理相關事宜的議案。"
+    },
+    {
+      "id": "5033512",
+      "time": "2026-08-10 15:55:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳航空增資至212.4億 增幅約127%】天眼查App顯示，近日，深圳航空有限責任公司發生工商變更，註冊資本由約93.5億人民幣增至約212.4億人民幣，增幅約127%。該公司成立於1989年10月，法定代表人為李樹興，經營範圍包括國內定期、不定期航空客、貨、郵、行李運輸等。"
+    },
+    {
+      "id": "5033511",
+      "time": "2026-08-10 15:55:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普洛藥業：子公司獲己酮可可鹼緩釋片藥品註冊證書，規格0.4g】普洛藥業公告，公司控股子公司浙江普洛康裕製藥有限公司收到國家藥品監督管理局簽發的己酮可可鹼緩釋片《藥品註冊證書》。該藥品規格0.4g，註冊分類為化學藥品3類，上市許可持有人及生產企業均為浙江普洛康裕製藥有限公司。己酮可可鹼緩釋片為周圍血管擴張藥，根據相關資料顯示，該產品2025年度國內市場規模約為5227萬片，銷售金額約為2.62億元。公司該產品以化學藥品3類獲批，視同透過仿製藥一致性評價。"
+    },
+    {
+      "id": "te:markets:574079",
+      "time": "2026-08-10 15:55:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Down on Monday — The FTSE 100 traded flat to slightly lower on Monday as investors awaited further developments in the Middle East and assessed mixed signals from the US and Iran over the prospects of reopening the Strait of Hormuz. Market activity was subdued, with gains in technology stocks offset by weakness among major defensive names. BAT, Unilever and Diageo all declined, weighing on the index, while a modest rise in oil prices provided some support to energy-related stocks. More broadly, Plus500 was among the stronger performers after its latest trading update showed first-half growth driven by higher trading income. Pharos Energy was one of the biggest fallers after confirming it would not increase its offer for the oil and gas company, while Vistry declined following reports that its insurer was reducing coverage for the housebuilder’s suppliers."
+    },
+    {
+      "id": "5033510",
+      "time": "2026-08-10 15:54:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST廣糖：2026年上半年營收15.82億元 淨虧損1602.86萬元】*ST廣糖公告稱，2026年上半年營收15.82億元，同比增長17.39%；歸屬於上市公司股東的淨利潤虧損1602.86萬元，同比下降275.69%。此外，公司第二大股東5995.49萬股股份於2026年3月3日完成無償劃轉；主動終止2023年度向特定物件發行股票事項；因涉嫌資訊披露違法違規，於6月被證監會立案；7月收到廣西監管局的《行政處罰事先告知書》。"
+    },
+    {
+      "id": "5033509",
+      "time": "2026-08-10 15:54:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體報道：“一位以色列高階官員：‘卡達或土耳其不可能被允許監視我們在加沙地帶活動。’”"
+    },
+    {
+      "id": "5033508",
+      "time": "2026-08-10 15:54:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德豪潤達：聘任郝守超為高階副總經理、強媛媛為財務總監】德豪潤達公告稱，公司第八屆董事會第十八次會議於2026年8月10日召開，審議透過聘任郝守超為高階副總經理、強媛媛為財務總監的議案。表決結果為同意5票、反對0票、棄權0票。二人任職資格符合相關要求。"
+    },
+    {
+      "id": "mkt:019feaa9-8a6b-7aab-8fd4-99ae085230e9",
+      "time": "2026-08-10 15:53:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry spokesman said reopening the Strait of Hormuz requires the United States to lift its blockade and provide compensation; an agreement with Oman includes charging maritime service fees."
+    },
+    {
+      "id": "5033507",
+      "time": "2026-08-10 15:53:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST人福：控股子公司枸櫞酸舒芬太尼注射液獲臨床試驗批准】ST人福公告稱，其控股子公司宜昌人福（持股80%）近日收到國家藥監局核准簽發的枸櫞酸舒芬太尼注射液《藥物臨床試驗批准通知書》，同意開展“作為鎮痛劑與布比卡因聯合硬膜外給藥用於分娩鎮痛”的臨床試驗。該注射液於2005年獲批上市，2020年透過一致性評價，此次為申請增加新適應症。截至目前，宜昌人福在該專案累計研發投入約30萬元。後續需開展臨床研究，再申報生產上市，提醒投資者注意風險。"
+    },
+    {
+      "id": "5033506",
+      "time": "2026-08-10 15:53:14",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【敷爾佳：2025年營收18.93億元 同比下降6.14%】敷爾佳公告稱，中信證券對其2025年度持續督導工作進行現場檢查。2025年，公司實現營收18.93億元，同比下降6.14%，主要因主動開展銷售渠道最佳化與產品價格梳理工作；淨利潤4.33億元，同比下降34.56%，系線上渠道加大營銷推廣力度所致。檢查顯示，公司在公司治理、內部控制、關聯交易、募集資金使用等方面均符合相關要求，且無現場檢查發現的問題。"
+    },
+    {
+      "id": "5033505",
+      "time": "2026-08-10 15:53:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇州市釋出京杭運河蘇州段洪水紅色預警】蘇州市水務局8月10日15時釋出京杭運河蘇州段洪水紅色預警。提醒影響區域各級政府及有關部門密切關注水雨情變化，加強應急值守和分析研判，組織巡堤查險，做好應急搶險準備。（央視新聞）"
+    },
+    {
+      "id": "mkt:019feaa7-7d07-7aab-8fd4-93b3d262f196",
+      "time": "2026-08-10 15:51:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iran's Foreign Ministry spokesperson said management and security of the Strait of Hormuz are Iran's responsibility."
+    },
+    {
+      "id": "5033503",
+      "time": "2026-08-10 15:51:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中瓷電子：目前訂單飽滿 產能利用率維持在較高水平】有投資者問，目前公司電子陶瓷材料及元件、第三代半導體器件及模組（氮化鎵、碳化矽）業務經營狀況究竟是處於怎祥的情況？中瓷電子在互動平臺表示，公司生產經營正常，公司及子公司目前訂單飽滿，目前產能利用率維持在較高的水平。"
+    },
+    {
+      "id": "mkt:019feaa7-339e-7aab-8fd4-8df62956cd5a",
+      "time": "2026-08-10 15:50:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry spokesman said the southern channel of the Strait of Hormuz is illegal, unsafe and violates a memorandum of understanding."
+    },
+    {
+      "id": "5033502",
+      "time": "2026-08-10 15:50:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中曼石油：1000萬元認購天誠基金10%份額】中曼石油公告稱，公司作為有限合夥人，以自有資金1000萬元參與認購天誠基金份額，該基金認繳出資總額為1億元，公司出資金額佔比10%。本次交易不構成關聯交易和重大資產重組，無需提交董事會、股東會審議。基金尚需完成工商登記和協會備案，投資可能面臨回收期長、收益不達預期或本金損失等風險。"
+    },
+    {
+      "id": "5033501",
+      "time": "2026-08-10 15:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【東航有序恢復上海、浙江等地航班運力】隨著颱風“白海豚”對華東沿海地區的影響逐漸減弱，目前，東航正分階段有序恢復上海、浙江等地的航班。記者獲悉，截至8月10日14時，東航已在上海虹橋和浦東兩大機場完成進出港航班70餘架次，預計下午和晚間執行航班可達400餘架次。與此同時，浙江寧波、杭州、台州等地也已開始恢復航班執行。東航正根據各地天氣實時變化和機場適航條件，分批次、分割槽域推進航班恢復工作。針對此前受颱風影響取消的航班，東航正統籌安排補班與增班計劃，加快疏運滯留旅客。（澎湃新聞）"
+    },
+    {
+      "id": "5033500",
+      "time": "2026-08-10 15:48:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧夏7月外送電量、外送新能源電量雙創新高】記者8月10日從寧夏電力交易中心有限公司獲悉，寧夏7月外送電量112.59億千瓦時，同比增長5.3%；外送新能源電量32.72億千瓦時，同比增長12.7%，單月外送電量、新能源外送電量均創新高。與此同時，8月10日，寧夏首次成交8月外送蒙東地區電量0.02億千瓦時，今年寧夏至此已實現向福建、廣東等4省區首次送電，外送範圍由19個省份擴充套件至23個省份。據介紹，為完成年度外送目標，寧夏電力交易中心有限公司全力增加外送方向及規模，多部門協同配合滾動開展電網平衡測算，釋放晚峰送電能力，跟蹤購電省購電意向，拓展新增外送方向，搶抓各直流通道送電空間。（新華社）"
+    },
+    {
+      "id": "mkt:019feaa5-400e-7aab-8fd4-8456e55f73fb",
+      "time": "2026-08-10 15:48:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "S&P500"
+      ],
+      "text": "【AI chip demand fuels growth momentum; economists raise South Korea growth forecasts】A survey of institutions found economists raised South Korea growth forecasts as strong global semiconductor demand, led by AI-chip uptake, boosts activity. Respondents now expect GDP to expand 3.3% in 2026, up from 2.8% in the July survey. Forecasts were also nudged higher to 2.3% in 2027 and 2.1% in 2028. The 2026 survey projection of 3.3% exceeds the South Korean government’s 3.0% forecast published last month, which followed stronger-than-expected Q2 GDP."
+    },
+    {
+      "id": "te:markets:574073",
+      "time": "2026-08-10 15:48:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Flat — The FTSE MIB was nearly flat at around 53,600 on Monday but remained close to record levels as investors weighed mixed signals over the prospects of a US-Iran agreement and the reopening of the Strait of Hormuz. Iranian Foreign Minister Abbas Araghchi said a deal with Oman to establish a shipping route through the strait was “very close,” but ruled out direct negotiations with Washington for now and warned that any agreement would not lead to an immediate resumption of shipping. Across the bourse, tech-related stocks were outperforming, with STMicroelectronics and Prysmian rising more than 2% each. Luxury names such as Moncler (+0.7%) and Brunello Cucinelli (+0.9%) were also trading higher. Meanwhile, most financial stocks were in the red as investors awaited further developments on banking consolidation."
+    },
+    {
+      "id": "mkt:019feaa4-acc5-7aab-8fd4-7d5c652cb2f7",
+      "time": "2026-08-10 15:48:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Weipaige Holdings' precision drill-bit unit to reach 5.0 mln units/month by end-2026】Shanghai Weipaige Environmental Protection Technology, a wholly owned unit of Weipaige Holdings, has increased its investment in Anhui Timan Technology, a PCB precision drill-bit manufacturer, with an additional 50 mln yuan via capital increase and equity expansion. Anhui Timan's current capacity is about 1.0 mln drill bits/month. Of the 50 mln yuan, 12.5 mln yuan will be recorded as registered capital; proceeds will fund new production-line equipment, key raw-material inventory and hiring to expand capacity. A person close to Weipaige said Anhui Timan is expected to scale micro and high-end micro-drill output to 5.0 mln units/month by end-2026 and 20.0 mln units/month by end-2027."
+    },
     {
       "id": "te:markets:574072",
       "time": "2026-08-10 15:46:43",
