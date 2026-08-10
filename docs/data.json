@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11 01:44:45",
-  "count": 15797,
+  "updated": "2026-08-11 01:48:34",
+  "count": 15794,
   "items": [
+    {
+      "id": "5034481",
+      "time": "2026-08-11 01:46:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：里根國家機場預計將於 8 月 23 日上午 10 點 15 分至下午 1 點 15 分暫停航班運營，以保障 Freedom 250 汽車賽事開展。"
+    },
     {
       "id": "5034480",
       "time": "2026-08-11 01:43:41",
@@ -143769,39 +143777,6 @@
         "DXY"
       ],
       "text": "President Trump said the conflict with Iran is progressing very smoothly."
-    },
-    {
-      "id": "mkt:019fc8bb-8c25-7aab-8f5d-467c14d4be57",
-      "time": "2026-08-04 01:46:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump signed an executive order establishing the first Presidential Military Spouse Council to support military families."
-    },
-    {
-      "id": "5023112",
-      "time": "2026-08-04 01:45:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗經濟部長：我們已制定至少為期兩年的經濟韌性計劃，有關我們無法保障預算資金的說法純屬不實。"
-    },
-    {
-      "id": "5023111",
-      "time": "2026-08-04 01:45:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：將推出新舉措扶持軍屬，簽署行政令設立史上首個總統軍眷委員會。"
-    },
-    {
-      "id": "5023110",
-      "time": "2026-08-04 01:45:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：特朗普簽署一項行政令。"
     }
   ]
 }
