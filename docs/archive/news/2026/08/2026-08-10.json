@@ -1,7 +1,65 @@
 {
   "date": "2026-08-10",
-  "count": 1195,
+  "count": 1202,
   "items": [
+    {
+      "id": "5033463",
+      "time": "2026-08-10 15:27:08",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "華碩：7月銷售額841.3億元新臺幣，同比增長53.3%。"
+    },
+    {
+      "id": "5033462",
+      "time": "2026-08-10 15:26:46",
+      "tags": [
+        "資料"
+      ],
+      "text": "AMSPEC農業資料顯示，馬來西亞8月1日至10日棕櫚油出口量預計為432,742噸，7月同期出口量為396,261噸。"
+    },
+    {
+      "id": "5033461",
+      "time": "2026-08-10 15:25:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：呼籲地區各國在沒有外部勢力介入的情況下加強關係】伊朗外交部發言人：我們呼籲地區各國在沒有外部勢力介入的情況下加強關係、增進互信並維護安全。（就麥加防禦協定回應稱）過去三年間，地區各國已意識到，安全絕非是可以從欺詐性中間商那裡購買的商品。任何基於現實、正確識別敵人與威脅的計劃，都有助於維護地區安全，並防止以色列製造動盪。"
+    },
+    {
+      "id": "5033460",
+      "time": "2026-08-10 15:25:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網傳“凌海市高溫致28名務農人員中暑死亡” 官方：純屬謠言】近日，網傳“遼寧省凌海市高溫天氣導致28名務農人員中暑死亡”的訊息在網路平臺傳播，引發公眾關注。經當地衛健、公安部門核實，凌海市轄區內未發生務農人員集中高溫中暑死亡事件，網傳內容無任何事實依據，純屬謠言。相關部門鄭重提醒廣大網民：網路不是法外之地，釋出、傳播網路資訊應當遵守法律法規，恪守真實、客觀、準確的原則。請廣大網民自覺抵制不實資訊，做到不造謠、不信謠、不傳謠，共同維護清朗有序的網路空間。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fea8f-cfdb-7aab-8fd4-0a9799eb0b00",
+      "time": "2026-08-10 15:25:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's Ministry of Agriculture said export disruptions could create a grain storage capacity shortfall of about 11 mln tonnes this autumn."
+    },
+    {
+      "id": "mkt:019fea8f-7ae6-7aab-8fd4-022533fbdf92",
+      "time": "2026-08-10 15:24:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman, responding to the Mecca defense pact, said regional states over the past three years have realized security is not a commodity to be bought from fraudulent middlemen. He said any plan grounded in reality and correctly identifying enemies and threats would help maintain regional security and prevent Israel from creating turmoil."
+    },
+    {
+      "id": "5033459",
+      "time": "2026-08-10 15:24:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【景順集團首席全球市場策略師布萊恩·萊維特：中國資產具備可持續重估空間】近日，全球資管巨頭景順集團首席全球市場策略師、策略部負責人布萊恩·萊維特（Brian Levitt）在北京接受了記者專訪。布萊恩·萊維特表示：中國市場估值吸引力突出，有望迎來可持續的估值重估，AI、高階製造、電動車是核心受益賽道。在經濟下行環境中，大盤成長資產具備韌性，成長資產集中在美國與中國，且以科技賽道為主。短期而言，也就是從現在至今年底、明年初，科技主線行情佔優，美國與中國將是主要受益市場。此前多重因素把中國市場估值壓制到較低水平，如今海外投資者看到可以用相對低廉的估值佈局一批長期結構性賽道，如AI、高階製造、機器人、電動車，較美國同類資產更具估值價效比，這一重估過程具備持續性。從十年回報維度看，估值對最終收益解釋力很強，我們看好中國市場長期回報。（中國基金報）"
+    },
     {
       "id": "5033457",
       "time": "2026-08-10 15:23:39",
