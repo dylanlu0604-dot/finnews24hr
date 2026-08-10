@@ -1,7 +1,69 @@
 {
   "date": "2026-08-11",
-  "count": 72,
+  "count": 78,
   "items": [
+    {
+      "id": "mkt:019fecad-1ac4-7aab-8fde-54dbf8e1b15e",
+      "time": "2026-08-11 01:16:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5034471",
+      "time": "2026-08-11 01:16:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。"
+    },
+    {
+      "id": "5034470",
+      "time": "2026-08-11 01:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。"
+    },
+    {
+      "id": "mkt:019fecac-99e1-7aab-8fde-4b4c28d032d7",
+      "time": "2026-08-11 01:16:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes."
+    },
+    {
+      "id": "mkt:019fecab-80a8-7aab-8fde-44ebd495fe92",
+      "time": "2026-08-11 01:14:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump extends Jones Act waiver 90 days, narrows scope to energy shipments】President Trump extended the Jones Act waiver allowing foreign vessels to move oil and other goods in U.S. waters for 90 days, but narrowed the exemption to energy cargoes after Iran-related disruptions to crude flows pushed fuel costs higher. The new waiver targets gasoline, jet fuel, crude, napatha, LNG, soybean oil and fertilizer. The Pentagon must consult the U.S. Maritime Administration before approving waivers for individual voyages. The White House said the move secures supplies for the military and key industries and increases domestic transport of gasoline, diesel and jet fuel; U.S. shipbuilders and some members of Congress say the waiver weakens protections for the domestic shipping industry."
+    },
+    {
+      "id": "mkt:019fecaa-4b4b-7aab-8fde-3b4f4d2b4728",
+      "time": "2026-08-11 01:13:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia earthquake kills 77; government declares national disaster】An earthquake on the 10th killed 77 people in Colombia; the government declared a \"state of national disaster\". Valle del Cauca department reported 27 fatalities."
+    },
     {
       "id": "mkt:019feca8-147b-7aab-8fde-34513c8551a2",
       "time": "2026-08-11 01:11:05",

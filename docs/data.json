@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-11 01:13:47",
-  "count": 15804,
+  "updated": "2026-08-11 01:17:43",
+  "count": 15806,
   "items": [
+    {
+      "id": "mkt:019fecad-1ac4-7aab-8fde-54dbf8e1b15e",
+      "time": "2026-08-11 01:16:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "5034471",
+      "time": "2026-08-11 01:16:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。"
+    },
+    {
+      "id": "5034470",
+      "time": "2026-08-11 01:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。"
+    },
+    {
+      "id": "mkt:019fecac-99e1-7aab-8fde-4b4c28d032d7",
+      "time": "2026-08-11 01:16:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes."
+    },
+    {
+      "id": "mkt:019fecab-80a8-7aab-8fde-44ebd495fe92",
+      "time": "2026-08-11 01:14:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump extends Jones Act waiver 90 days, narrows scope to energy shipments】President Trump extended the Jones Act waiver allowing foreign vessels to move oil and other goods in U.S. waters for 90 days, but narrowed the exemption to energy cargoes after Iran-related disruptions to crude flows pushed fuel costs higher. The new waiver targets gasoline, jet fuel, crude, napatha, LNG, soybean oil and fertilizer. The Pentagon must consult the U.S. Maritime Administration before approving waivers for individual voyages. The White House said the move secures supplies for the military and key industries and increases domestic transport of gasoline, diesel and jet fuel; U.S. shipbuilders and some members of Congress say the waiver weakens protections for the domestic shipping industry."
+    },
+    {
+      "id": "mkt:019fecaa-4b4b-7aab-8fde-3b4f4d2b4728",
+      "time": "2026-08-11 01:13:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia earthquake kills 77; government declares national disaster】An earthquake on the 10th killed 77 people in Colombia; the government declared a \"state of national disaster\". Valle del Cauca department reported 27 fatalities."
+    },
     {
       "id": "mkt:019feca8-147b-7aab-8fde-34513c8551a2",
       "time": "2026-08-11 01:11:05",
@@ -143824,43 +143886,6 @@
         "國際"
       ],
       "text": "【伊朗正與阿曼就霍爾木茲海峽通航進行磋商】當地時間3日，伊朗外交部發言人巴加埃就地區局勢、伊美關係等熱點問題舉行新聞釋出會。巴加埃強調，伊朗沒有與美國舉行談判，但正在就霍爾木茲海峽問題與阿曼進行談判。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fc8a1-3f74-7aab-8f5c-db32f315163e",
-      "time": "2026-08-04 01:17:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CBS: Iran leadership views Trump as unwilling to widen the war after repeated threats and backtracks】CBS reports Iran is growing skeptical of Trump’s “carrot-and-stick” diplomacy. In April Trump warned Tehran it must agree to a ceasefire or “the entire civilization will perish,” then extended the deadline; he used similar tactics in May and June. Iranian insiders say those moves strengthened a belief that Trump is not seeking to expand the conflict but is bargaining for leverage. Tehran believes it can absorb pressure and raise costs to Washington via proxies (eg, Yemen’s Houthi) and threats to global shipping until the US concludes there is no military solution; its current assessment is that time is on its side."
-    },
-    {
-      "id": "5023096",
-      "time": "2026-08-04 01:16:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗認為特朗普傾向談判而非局勢升級】伊朗領導層判斷，特朗普意在藉助軍事威脅獲取籌碼，而非發動大規模戰爭。德黑蘭方面認為，可以依託地區代理人、持續對全球航運施加壓力來承受外部壓力，直至美方轉向外交途徑。儘管特朗普多次發出採取軍事行動的警告，但伊朗形成了上述判斷，同時伊朗強調，目前暫無與美國開展直接談判的安排。"
-    },
-    {
-      "id": "5023095",
-      "time": "2026-08-04 01:16:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週一（8月3日），美聯儲隔夜逆回購協議（RRP）使用規模為21.27億美元（交易對手4家），上個交易日報21.51億美元。"
-    },
-    {
-      "id": "5023093",
-      "time": "2026-08-04 01:15:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "西捷航空空乘公會主席表示，協議必須在30天內獲得批准。"
     }
   ]
 }
