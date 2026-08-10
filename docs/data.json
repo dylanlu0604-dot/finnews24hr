@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-11 03:17:26",
-  "count": 15763,
+  "updated": "2026-08-11 03:21:12",
+  "count": 15764,
   "items": [
+    {
+      "id": "5034540",
+      "time": "2026-08-11 03:20:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨金漲近1%，報每盎司4,382.91美元。"
+    },
+    {
+      "id": "mkt:019fed1e-7466-7aab-8fdf-e3ccd0d63597",
+      "time": "2026-08-11 03:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Todd Blanche sworn in as US attorney general】Todd Blanche was sworn in as US attorney general on Aug 10. President Trump announced on April 2 that Pam Bondi would no longer serve and that Blanche would act as attorney general. The White House submitted Blanche’s nomination to the Senate on June 8. The Senate confirmed him in the early hours of Aug 8 by a 50-49 vote."
+    },
+    {
+      "id": "5034539",
+      "time": "2026-08-11 03:19:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報66.05美元/盎司。"
+    },
+    {
+      "id": "mkt:019fed1c-9549-7aab-8fdf-d9672b528c2d",
+      "time": "2026-08-11 03:18:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI said the country will not be \"strangled\" by measures such as economic sanctions that are already ineffective."
+    },
+    {
+      "id": "mkt:019fed1c-14c6-7aab-8fdf-d43f5b6f2d0f",
+      "time": "2026-08-11 03:17:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI said the U.S. Treasury Secretary had boasted of 'strangling' Iran with economic sanctions, which BAGHAEI said exposed Washington's coercive reliance on sanctions."
+    },
+    {
+      "id": "5034538",
+      "time": "2026-08-11 03:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：數十年來，伊朗已經證明，不會被這些老調重彈的（制裁）手段扼殺。美國政客固守這一惡習，反而會親手葬送自己從這場自作自受的危機中體面脫身的僅剩機會。"
+    },
     {
       "id": "5034537",
       "time": "2026-08-11 03:16:50",
@@ -143463,57 +143514,6 @@
         "市場"
       ],
       "text": "【紐約可可期貨漲約9.4%】週一（8月3日）紐約尾盤，ICE原糖期貨漲2.39%，ICE白糖期貨漲1.84%。ICE阿拉比卡咖啡期貨跌3.30%，咖啡“C”期貨跌2.89%。羅布斯塔咖啡期貨跌0.08%。紐約可可期貨漲9.38%，報5903美元/噸，北京時間16:45“開盤”以來持續走高。倫敦可可期貨漲9.05%。芝加哥WCE雙低油菜籽期貨漲0.24%。ICE棉花期貨漲0.73%。"
-    },
-    {
-      "id": "mkt:019fc912-9bdc-7aab-8f5e-d95f3df251ce",
-      "time": "2026-08-04 03:21:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says it has at least two-year economic resilience plan】Iran's economy minister Ali Madanizadeh told state media the government has a resilience plan to sustain the economy for at least two years and has prepared responses to any 'plots' by adversaries."
-    },
-    {
-      "id": "5023196",
-      "time": "2026-08-04 03:19:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥玉米、小麥期貨漲超1.9%】週一（8月3日）紐約尾盤，彭博穀物分類指數漲1.30%，報31.4812點，美股開盤之前維持微幅下跌狀態、持穩於30.90點附近，之後持續上揚。CBOT玉米期貨漲1.94%，報4.73美元/蒲式耳。CBOT小麥期貨漲1.92%，報6.5150美元/蒲式耳。CBOT大豆期貨漲0.40%，報11.9225美元/蒲式耳，豆粕期貨漲0.09%，豆油期貨漲1.84%。CBOT瘦肉豬期貨跌1.41%，活牛期貨跌0.10%，飼牛期貨跌0.14%。"
-    },
-    {
-      "id": "mkt:019fc910-dcb9-7aab-8f5e-d25cd25e149b",
-      "time": "2026-08-04 03:19:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "CNH",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【Hugging Face CEO: China leads in open-weight models and could match US on frontier models by year-end】Hugging Face CEO Clement Delangue told CNBC China currently dominates open-weight/open-source models and, at the current pace, could match U.S. model developers in frontier models by year-end or early next year. He attributed the gap to China’s collaborative, open ecosystem versus U.S. firms operating independently, which he said risks U.S. lag. On last month’s OpenAI agent breach of Hugging Face’s training environment, Delangue blamed an engineering error and said his firm used Chinese open-source models to mitigate the incident."
-    },
-    {
-      "id": "mkt:019fc910-3b44-7aab-8f5e-c8db02eaef45",
-      "time": "2026-08-04 03:18:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran adviser says US must not open non‑Iranian routes in Strait of Hormuz】On Aug 3, Mohsen Rezaei, military adviser to Iran’s Supreme Leader, told media Iran will not permit the United States to open any non‑Iranian shipping lanes in the Strait of Hormuz and would regard US warships deployed on such illegal routes as targets. He added Iran had prepared strikes on three sites in Ukraine but called them off after Ukraine apologized."
-    },
-    {
-      "id": "mkt:019fc90f-a511-7aab-8f5e-c328a2021be1",
-      "time": "2026-08-04 03:17:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi outlet Alhadath reports sources say Iran's foreign minister is due to visit Islamabad."
     }
   ]
 }

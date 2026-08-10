@@ -1,7 +1,58 @@
 {
   "date": "2026-08-11",
-  "count": 198,
+  "count": 204,
   "items": [
+    {
+      "id": "mkt:019fed1e-7466-7aab-8fdf-e3ccd0d63597",
+      "time": "2026-08-11 03:20:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Todd Blanche sworn in as US attorney general】Todd Blanche was sworn in as US attorney general on Aug 10. President Trump announced on April 2 that Pam Bondi would no longer serve and that Blanche would act as attorney general. The White House submitted Blanche’s nomination to the Senate on June 8. The Senate confirmed him in the early hours of Aug 8 by a 50-49 vote."
+    },
+    {
+      "id": "5034540",
+      "time": "2026-08-11 03:20:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "現貨金漲近1%，報每盎司4,382.91美元。"
+    },
+    {
+      "id": "5034539",
+      "time": "2026-08-11 03:19:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報66.05美元/盎司。"
+    },
+    {
+      "id": "mkt:019fed1c-9549-7aab-8fdf-d9672b528c2d",
+      "time": "2026-08-11 03:18:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI said the country will not be \"strangled\" by measures such as economic sanctions that are already ineffective."
+    },
+    {
+      "id": "mkt:019fed1c-14c6-7aab-8fdf-d43f5b6f2d0f",
+      "time": "2026-08-11 03:17:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman BAGHAEI said the U.S. Treasury Secretary had boasted of 'strangling' Iran with economic sanctions, which BAGHAEI said exposed Washington's coercive reliance on sanctions."
+    },
+    {
+      "id": "5034538",
+      "time": "2026-08-11 03:17:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：數十年來，伊朗已經證明，不會被這些老調重彈的（制裁）手段扼殺。美國政客固守這一惡習，反而會親手葬送自己從這場自作自受的危機中體面脫身的僅剩機會。"
+    },
     {
       "id": "5034537",
       "time": "2026-08-11 03:16:50",
