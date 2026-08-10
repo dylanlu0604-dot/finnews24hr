@@ -1,7 +1,103 @@
 {
-  "updated": "2026-08-10 13:15:29",
-  "count": 15900,
+  "updated": "2026-08-10 13:19:22",
+  "count": 15905,
   "items": [
+    {
+      "id": "mkt:019fea1c-150d-7aab-8fd1-bdab825f3b9e",
+      "time": "2026-08-10 13:18:56",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "KBW raises PT for Berkshire Hathaway (BRK.A.N) to $735,000 from $695,000."
+    },
+    {
+      "id": "5033280",
+      "time": "2026-08-10 13:18:38",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通將美國汽車零件供應商博格華納目標價從75美元上調至85美元。"
+    },
+    {
+      "id": "5033279",
+      "time": "2026-08-10 13:17:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無錫所有客運班線暫停，地鐵部分路段和站點暫停運營】8月10日，受颱風影響，無錫地鐵釋出通告，部分路段和站點暫停運營。此外，無錫汽車客運站釋出公告：受第13號颱風“白海豚”的影響，為切實做好極端天氣防禦工作，保障廣大旅客出行安全，無錫汽車客運站即時起暫停所有班線執行。已經購買車票的旅客，可透過原購票渠道辦理無損退票或在臺風結束後三天內到車站視窗進行免費退票。具體班線恢復時間將根據颱風影響情況，及時調整。無錫公交部分公交線路臨時停運。新區公交線路暫停運營。"
+    },
+    {
+      "id": "mkt:019fea1a-49f1-7aab-8fd1-b6957ab164b3",
+      "time": "2026-08-10 13:16:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary central bank governor said the central bank must cooperate in any process if the government deems joining the euro area appropriate."
+    },
+    {
+      "id": "mkt:019fea19-efd0-7aab-8fd1-af6fdf9a6ccf",
+      "time": "2026-08-10 13:16:36",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share baijiu sector extended gains in afternoon trade; Yingjia Gongjiu rose more than 8%, Gujing Gongjiu rose over 5%, Kweichow Moutai rose above 3%, with Shanxi Fenjiu and Huangtai Liquor also higher."
+    },
+    {
+      "id": "5033278",
+      "time": "2026-08-10 13:16:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長表示，如果政府認為加入歐元區是合理之舉，央行必須在這一程序中予以配合。"
+    },
+    {
+      "id": "5033277",
+      "time": "2026-08-10 13:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "KBW將 伯克希爾哈撒韋  目標股價從69.5萬美元上調至73.5萬美元。"
+    },
+    {
+      "id": "5033276",
+      "time": "2026-08-10 13:15:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.05%，成分股中，戈碧迦跌8.77%，則成電子跌5.27%，萬源通跌3.56%，並行科技跌3.22%。"
+    },
+    {
+      "id": "mkt:019fea18-b46b-7aab-8fd1-a06116d11326",
+      "time": "2026-08-10 13:15:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Composite slipped into negative territory in the afternoon after earlier gains of about 0.6%."
+    },
+    {
+      "id": "te:markets:574006",
+      "time": "2026-08-10 13:15:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.60% — Top currency losers are South Korean Won (-0.60%), Japanese Yen (-0.38%) and Euro (-0.07%). Gains are led by Brazilian Real (0.27%) and Dollar Index (0.18%). Meanwhile British Pound was little changed."
+    },
     {
       "id": "mkt:019fea18-4de9-7aab-8fd1-9b916e0f5596",
       "time": "2026-08-10 13:14:49",
@@ -144664,57 +144760,6 @@
         "公司"
       ],
       "text": "【安徽潛山農村商業銀行股份有限公司痘姆支行原行長餘本江接受紀律審查和監察調查】8月3日，據安慶紀檢監察網站訊息，安徽潛山農村商業銀行股份有限公司痘姆支行原行長餘本江涉嫌嚴重違紀違法，目前正接受安徽省紀委監委駐省農信社紀檢監察組紀律審查；經安慶市監委指定管轄，接受望江縣監察委員會監察調查。"
-    },
-    {
-      "id": "te:economy:572046",
-      "time": "2026-08-03 13:18:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Tourist Arrivals",
-        "Importance 1"
-      ],
-      "text": "Indonesia Tourist Arrivals Rise 2.15% YoY in June — Foreign tourist arrivals to Indonesia increased by 2.15% year-on-year to 1.38 million in June 2026, slowing from a 5.83% rise in the previous month amid persistent global headwinds and weaker travel demand from Europe."
-    },
-    {
-      "id": "5021688",
-      "time": "2026-08-03 13:17:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美助日穩定匯率出於自身利益考量】美國財長貝森特和日本財務大臣片山皋月今天（8月3日）證實，美日聯手干預匯市，支撐日元匯率。中國社會科學院美國研究所助理研究員馬偉指出，日本是美國國債最大的海外持有國，美國之所以出手，主要是出於政治、維護自身利益以及縮小貿易逆差這三個層面的考量。#美日證實聯手干預匯市# 就效果來說，短期內應該還是比較顯著的。但從中長期來看，日元匯率這種下行的趨勢很難透過兩國的聯合干預而有根本性的改變。（CCTV國際時訊 ）"
-    },
-    {
-      "id": "5021687",
-      "time": "2026-08-03 13:16:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將雪佛龍目標價從221美元下調至218美元。"
-    },
-    {
-      "id": "5021686",
-      "time": "2026-08-03 13:16:31",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利：美國財政部預計將堅持可預測的發行策略】摩根士丹利策略師在一份報告中表示，美國財政部料將維持常規且可預測的發行策略，依靠美國短期國債發行將付息國債[美國國庫券和國債發行]的增加至少推遲到2027年2月。他們表示：“健康的市場運作和富有韌性的需求表明，投資者應減少對整體赤字的關注，而更多地關注發行構成。“他們稱，預計美國財政部將在2027年2月之前保持付息國庫券和國債發行穩定，採取較小幅度的增加，並分散在更長的時期內。美國財政部包含舉債規模預估的季度再融資公告定於週一釋出，再融資政策宣告和拍賣細節將於週三公佈。"
-    },
-    {
-      "id": "5021685",
-      "time": "2026-08-03 13:15:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國煉油商S-Oil公佈穩健業績，預計原油供應將持續緊張】韓國煉油商S-Oil公佈了穩健的第二季度業績，主要得益於曠日持久的中東衝突使能源價格居高不下、煉油利潤率擴大。該公司預計，今年剩餘時間石油供應將持續緊張。這家由Saudi Aramco控股的煉油商的展望表明，其可能繼續受益於可觀的裂解價差（即原油和成品油之間的價差）。該業績公佈的背景是，繼6月份霍爾木茲海峽封鎖暫時緩解導致油價下跌後，上個月中東緊張局勢再度升溫，推動原油價格反彈。S-Oil週一預測，受亞洲夏季駕車出行旺季需求、酷熱天氣下製冷需求增加以及一些國家出口限制的支撐，第三季度區域煉油利潤率將保持堅挺。該公司表示，由於上半年供應中斷導致全球原油和成品油庫存大幅消耗，供應緊張的局面可能會持續下去，從而為下半年的堅挺市場狀況提供支撐。在截至6月的三個月裡，S-Oil的淨利潤為5,145.8億韓元（相當於3.566億美元）。該數字低於FactSet編制的6,090.2億韓元的平均預期，但與上年同期的虧損相比實現了強勁反彈。收入大增41%，至11.343萬億韓元。營業利潤為9,650.2億韓元，同樣扭轉了上年的虧損局面。"
     }
   ]
 }
