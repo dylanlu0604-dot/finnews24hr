@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-11 03:40:13",
+  "updated": "2026-08-11 03:47:55",
   "count": 15800,
   "items": [
+    {
+      "id": "5034574",
+      "time": "2026-08-11 03:45:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【特朗普稱曾與美聯儲主席沃什通話】特朗普表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。"
+    },
+    {
+      "id": "mkt:019fed34-0b16-7aab-8fe0-7ddee8f45787",
+      "time": "2026-08-11 03:43:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he has a very good relationship with Netanyahu."
+    },
+    {
+      "id": "mkt:019fed33-eb39-7aab-8fe0-74422ba7dc49",
+      "time": "2026-08-11 03:43:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Axios: US, Israel and Syria reach understanding; IAEA to remove nuclear material from secret Syrian site】Axios reports US and Israeli officials say the IAEA will soon remove nuclear material stored at a secret Syrian site after a diplomatic understanding among the Trump administration, Israel and Syria. The Trump administration and the IAEA expedited talks to secure the material and prevent escalation involving Israel, Syria and Turkey. US officials say the episode validates Trump’s Syria policy and demonstrates US use of close ties with Syria’s new government to defuse a potential crisis. Months of behind-the-scenes threats and diplomatic wrangling preceded a solution reached weeks ago."
+    },
+    {
+      "id": "mkt:019fed32-f514-7aab-8fe0-690867419b1a",
+      "time": "2026-08-11 03:42:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International crude futures settle about 5% higher】NYMEX September light sweet crude settled up $3.95 at $82.13/bbl (+5.05%); ICE Brent October settled up $4.17 at $87.72/bbl (+4.99%)."
+    },
+    {
+      "id": "5034573",
+      "time": "2026-08-11 03:42:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際原油期貨結算價上漲5%】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲3.95美元，收於每桶82.13美元，漲幅為5.05%；10月交貨的倫敦布倫特原油期貨價格上漲4.17美元，收於每桶87.72美元，漲幅為4.99%。"
+    },
+    {
+      "id": "5034572",
+      "time": "2026-08-11 03:41:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱霍爾木茲海峽目前處於開放狀態】特朗普表示，霍爾木茲海峽現已開放，且僅由美國海軍掌控。特朗普在橢圓形辦公室稱：“我們實施的封鎖萬無一失。這是一道鋼鐵之牆，只允許我們想放行的船隻通行。”"
+    },
+    {
+      "id": "5034571",
+      "time": "2026-08-11 03:40:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，美國對伊朗港口的封鎖行動堪稱完美，將其比作環繞伊朗的一道“鋼鐵之牆”。"
+    },
     {
       "id": "mkt:019fed30-3648-7aab-8fe0-61714b21e3ac",
       "time": "2026-08-11 03:39:47",
@@ -143765,78 +143830,6 @@
         "Energy"
       ],
       "text": "Iran's Bushehr governor said 60 million cubic meters of natural gas production capacity at the South Pars field has resumed production."
-    },
-    {
-      "id": "mkt:019fc92a-b749-7aab-8f5f-1cea69f90ee6",
-      "time": "2026-08-04 03:47:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【Castle Securities: forces driving US stocks to fresh highs remain intact】Castle Securities says that despite a cooling in retail speculation, the forces pushing US equities to record highs remain intact. The firm’s head of equity and equity derivatives strategy, Scott Rubner, says the market is shifting from a flow-driven regime toward one increasingly determined by earnings, corporate demand and the macro backdrop. Its data show retail withdrawal cut leveraged-ETF assets by 28% to $154.0 bln. Concurrently, lower financing costs for equity positions have eased pressure on Wall Street trading desks and reduced demand for leverage. A recent run of strong earnings continues to support the market: earnings are delivering upside surprises, valuations look more attractive, and share-buyback activity should accelerate as blackout periods end."
-    },
-    {
-      "id": "5023205",
-      "time": "2026-08-04 03:47:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國財政部將季度借款預估上調至7390億美元】美國財政部上調對本季度聯邦借款規模的預估，主要原因是淨現金流預期調低。財政部週一在宣告中表示，目前預計7月至9月淨借款規模為7390億美元，較5月預估的6710億美元增加680億美元。該預估假設9月底現金餘額為9500億美元，高於6月底的9190億美元。對於10月至12月期間，財政部預計借款規模為6280億美元，目標是12月底現金餘額8500億美元。"
-    },
-    {
-      "id": "5023204",
-      "time": "2026-08-04 03:44:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗布什爾省省長：南帕爾斯氣田已有 6000 萬立方米天然氣產能恢復生產。"
-    },
-    {
-      "id": "mkt:019fc927-724b-7aab-8f5f-15019acdaae8",
-      "time": "2026-08-04 03:43:53",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Saudi outlet Alhadath reported Hamas said it and its factions will adhere to the previously agreed consensus on implementing phase two of the Gaza agreement."
-    },
-    {
-      "id": "mkt:019fc926-73d1-7aab-8f5f-0c5cf639982e",
-      "time": "2026-08-04 03:42:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he will approve $24.5 mln in federal assistance to help Missouri respond to severe storms, high winds, tornadoes and flooding."
-    },
-    {
-      "id": "5023203",
-      "time": "2026-08-04 03:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：批准撥付 2450 萬美元，用於密蘇里州風暴、洪澇災害救災。"
-    },
-    {
-      "id": "mkt:019fc924-4235-7aab-8f5f-067197e806f8",
-      "time": "2026-08-04 03:40:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Saudi state television reported cautious optimism that US‑Iran talks could produce a breakthrough. Discussions on halting military operations and fully reopening the Strait of Hormuz were described as positive. Mediators said they need time to agree on an imminent ceasefire statement."
     }
   ]
 }
