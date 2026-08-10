@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-10 23:41:33",
-  "count": 15835,
+  "updated": "2026-08-10 23:45:37",
+  "count": 15839,
   "items": [
+    {
+      "id": "mkt:019fec59-0c64-7aab-8fdd-792b656cd3d1",
+      "time": "2026-08-10 23:44:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Iranian foreign minister Araghchi discussed bilateral, regional and international developments with Germany's foreign minister."
+    },
+    {
+      "id": "5034421",
+      "time": "2026-08-10 23:44:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長與德國外交部長舉行電話會談，雙方就雙邊、地區及國際局勢交換意見。後續細節將擇機公佈。"
+    },
+    {
+      "id": "5034420",
+      "time": "2026-08-10 23:44:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報86.89美元/桶。"
+    },
+    {
+      "id": "mkt:019fec58-0a84-7aab-8fdd-7165575ba250",
+      "time": "2026-08-10 23:43:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Iran's foreign minister spoke by phone with Germany's foreign minister."
+    },
+    {
+      "id": "5034419",
+      "time": "2026-08-10 23:42:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美方正在密切關注哥倫比亞發生的地震。"
+    },
+    {
+      "id": "mkt:019fec57-47fe-7aab-8fdd-6e68bd273930",
+      "time": "2026-08-10 23:42:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Secretary of State Rubio; the U.S. is monitoring the earthquake disaster in Colombia."
+    },
+    {
+      "id": "5034418",
+      "time": "2026-08-10 23:42:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報81.31美元/桶。"
+    },
+    {
+      "id": "5034417",
+      "time": "2026-08-10 23:42:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖對武裝部隊進行新任命】伊朗最高領袖穆傑塔巴·哈梅內伊今天（8月10日）對伊朗軍隊和伊斯蘭革命衛隊進行6項新任命。（CCTV國際時訊）"
+    },
+    {
+      "id": "5034416",
+      "time": "2026-08-10 23:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【據報道蘋果取消全玻璃版 iPhone】傑富瑞供應鏈調研顯示，因生產良率不佳，蘋果已取消原計劃推出的二十週年全玻璃版 iPhone。這款機型原預計 2027 年 9 月釋出，預估平均售價 2600 美元。傑富瑞認為，在儲存晶片成本飆升的背景下，該專案叫停將制約蘋果進一步抬升 iPhone 售價與利潤率的空間。該機構將蘋果評級下調至跑輸大盤，並將目標價下調至 263.66 美元。"
+    },
     {
       "id": "mkt:019fec53-bbcb-7aab-8fdd-66c541221298",
       "time": "2026-08-10 23:38:58",
@@ -144083,56 +144155,6 @@
         "市場"
       ],
       "text": "紐約可可期貨漲幅超10%。"
-    },
-    {
-      "id": "5023020",
-      "time": "2026-08-03 23:44:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：原始碼即將變得和組合語言一樣。下一步將徹底摒棄“原始碼”，直接藉助AI生成高效二進位制程式。"
-    },
-    {
-      "id": "mkt:019fc84b-021a-7aab-8f5b-aec120343588",
-      "time": "2026-08-03 23:43:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "UK new registrations of battery-electric vehicles in July totaled 43,547 vehicles, up from 29,226 a year earlier."
-    },
-    {
-      "id": "5023019",
-      "time": "2026-08-03 23:43:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "瑞銀因違反反洗錢規定被美國監管機構罰款1.25億美元。"
-    },
-    {
-      "id": "5023018",
-      "time": "2026-08-03 23:42:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "西捷航空空乘人員罷工，長週末逾300架航班取消停飛。"
-    },
-    {
-      "id": "mkt:019fc84a-1cac-7aab-8f5b-a0ab6d4c96f8",
-      "time": "2026-08-03 23:42:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Iraq's State Oil Marketing Organization (SOMO) head said Iraq sold 35.5 mln barrels of crude from its southern ports and 7.0 mln barrels from the Ceyhan terminal in July."
     }
   ]
 }
