@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-10 10:27:30",
-  "count": 15889,
+  "updated": "2026-08-10 10:31:30",
+  "count": 15883,
   "items": [
+    {
+      "id": "5033061",
+      "time": "2026-08-10 10:30:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞交易報告與分析中心（AUSTRAC）下令關停 Cryptolink 的加密 ATM 機。"
+    },
+    {
+      "id": "5033060",
+      "time": "2026-08-10 10:29:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通證券：首予英矽智慧“增持”評級 目標價73.23港元】國泰海通證券釋出研報稱，預計英矽智慧(03696)2026-2028年營業收入分別為189.47/246.05/326.04百萬美元，分別同比增長232%/32%/33%。該行認為公司Pharma.AI平臺多個產出分子已經與海內外醫藥公司達成系列授權交易，且MMAIGym有望推動公司從AI藥物發現專案型合作，進一步延伸至\"模型訓練基礎設施+資料/模型授權+雲端呼叫\"的平臺化變現模式。參考可比公司，該行給予公司2026年P/S 29倍，目標價為73.23港元，給予\"增持\"評級。"
+    },
+    {
+      "id": "mkt:019fe981-2912-7aab-8fcf-97af55bd9ab6",
+      "time": "2026-08-10 10:29:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Chinese AI models top global call volumes for 15th week; DeepSeek‑V4‑Flash official release ranks first】Per OpenRouter estimates, global AI model calls reached 69 trillion tokens in the week of Aug 3-9, up 21.48% WoW. Chinese models accounted for 34.25 trillion tokens, up 21.76% WoW; US models logged 9.17 trillion tokens, up 109.36% WoW. Chinese models have led US weekly call volumes for 15 consecutive weeks. DeepSeek‑V4‑Flash‑0731 (official DeepSeek‑V4‑Flash release) ranked first with 8.83 trillion tokens, up 570% WoW; Tencent Hy3 was second at 8.05 trillion tokens, up 67% WoW."
+    },
+    {
+      "id": "5033059",
+      "time": "2026-08-10 10:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國AI大模型呼叫量連續十五週領跑：環比增長570%，DeepSeek-V4-Flash正式版登頂】根據OpenRouter最新資料測算，上週（8月3日至8月9日）全球AI大模型總呼叫量為69萬億Token，環比增長21.48%。其中，上榜的AI大模型中，中國AI大模型周呼叫量達34.25萬億Token，環比增長21.76%；同期美國AI大模型周呼叫量為9.17萬億Token，環比增長109.36%。中國大模型周呼叫量連續十五週超過美國，穩居全球首位。上週，全球呼叫量排名前四均為中國AI大模型。其中，DeepSeek-V4-Flash-0731（即DeepSeek-V4-Flash正式版）位居第一，周呼叫量達8.83萬億Token，環比增長570%；騰訊Hy3位居第二，周呼叫量達8.05萬億Token，環比增長67%；DeepSeek-V4-Flash-0423（即DeepSeek-V4-Flash預覽版）排名第三，周呼叫量達5.88萬億Token，環比下滑19%；小米MiMo-V2.5掉到第四，周呼叫量達5.39萬億Token，環比下滑14%。（每經）"
+    },
+    {
+      "id": "5033058",
+      "time": "2026-08-10 10:28:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市金山區氣象臺2026年08月10日09時57分更新暴雨橙色預警訊號為暴雨紅色預警訊號。"
+    },
     {
       "id": "5033057",
       "time": "2026-08-10 10:26:14",
@@ -144583,117 +144627,6 @@
         "宏觀"
       ],
       "text": "【詞元服務工作組：將研製合規與技術雙重標準規範，推進Token跨境流動】近日，人工智慧產業發展聯盟（AIIA）詞元服務工作組（籌）組織召開“Token跨境流動與開放合作專題”閉門研討會。下一步，詞元服務工作組將從以下五方面系統推進Token跨境流動與開放合作機制建設：一是系統開展跨境流動機制研究。編制《Token跨境流動發展研究報告》，梳理全球主要市場監管政策與技術約束，釐清合規邊界、風險點與可行路徑；二是同步研製合規與技術雙重標準規範。推進《人工智慧 詞元（Token）跨境流動 合規指南》與《人工智慧 詞元（Token）跨境流動 技術要求》編制，明確資料出境、技術出口等合規要求，統一跨域傳輸與算力排程介面規範；三是面向新興市場開展試點示範。依託面向東盟、金磚等新興市場的多雙邊機制以及自貿試驗區先行先試優勢，開展“合規入境+境內處理+合規出境”閉環驗證，測試技術方案的穩定性與合規機制的有效性；四是建設跨境服務供需對接平臺；五是構建Token跨境流動服務體系。"
-    },
-    {
-      "id": "5021481",
-      "time": "2026-08-03 10:31:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數早盤收盤下跌 2.2%，報 3916.61 點。"
-    },
-    {
-      "id": "5021480",
-      "time": "2026-08-03 10:31:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數早盤收盤下跌 1.7%，報 63240.51 點。"
-    },
-    {
-      "id": "5021479",
-      "time": "2026-08-03 10:31:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "大和證券：完成收購歐力士銀行。"
-    },
-    {
-      "id": "5021478",
-      "time": "2026-08-03 10:30:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "大和證券維持本財年股息預期為 44.00 日元。"
-    },
-    {
-      "id": "5021477",
-      "time": "2026-08-03 10:30:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "大和證券一季度淨利潤 564.1 億日元。"
-    },
-    {
-      "id": "mkt:019fc575-5111-7aab-8f4d-730f5fedd59a",
-      "time": "2026-08-03 10:30:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact mixed"
-      ],
-      "text": "【Gurman says iPhone price likely to rise $100-$200】Tech reporter Mark Gurman wrote on Sunday that Apple is likely to increase iPhone prices by $100–$200 (about 675–1,350 yuan), citing shortages of memory chips and the main SoC, higher costs from a new camera system on the iPhone 18 Pro and Pro Max, and the greater expense of a first foldable iPhone. Gurman noted recent $100–$200 price increases for multiple iPad and Mac models as a precedent and said a foldable iPhone could carry a starting price of at least $2,000."
-    },
-    {
-      "id": "te:markets:571996",
-      "time": "2026-08-03 10:29:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Rises to 6-Week High — Platinum futures rose above $1,660 an ounce, touching a six-week high as precious metals broadly advanced after oil prices fall amid renewed hopes of a peace deal in the Middle East. US President Trump said talks with Iran will resume and revealed he had called off a planned large-scale attack following requests from regional allies. Additional support came from a weaker dollar after Japan intervened to support the yen, making dollar-priced metals more attractive to overseas buyers. Meanwhile, markets continued to price in a Federal Reserve rate hike later this year despite policymakers leaving interest rates unchanged last week, as several officials warned that waiting too long could require more aggressive tightening. Platinum's gains were also tempered by expectations of weaker industrial and automotive demand, particularly as the shift toward electric vehicles reduces the need for autocatalysts, even though the market is expected to post a fourth consecutive annual supply deficit."
-    },
-    {
-      "id": "5021475",
-      "time": "2026-08-03 10:28:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "穆迪評級向淡馬錫擬發行的新加坡元票據授予 Aaa 評級。"
-    },
-    {
-      "id": "te:economy:571995",
-      "time": "2026-08-03 10:28:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Balance of Trade",
-        "Importance 2"
-      ],
-      "text": "Vietnam Trade Balance Swings to Deficit — Vietnam recorded a trade deficit of USD 3.6 billion in July 2026, shifting from a surplus of USD 2.3 billion in the corresponding month a year earlier. Exports rose 25% year-on-year to USD 53.1 billion, while imports jumped 41.4% to USD 56.7 billion. In the January-July period, the country posted a trade deficit of USD 20.5 billion, with exports increased 21.7% to USD 319.53 billion, while imports climbed 34.8% to USD 340.1billion. The cumulative deficit has already exceeded previous full-year record of about USD 18 billion set in 2008, with higher fuel costs contributing to import growth. Processed industrial goods accounted for an estimated USD 287.9 billion, or 90.1% of total exports. The US remained the largest export market, with exports estimated at USD 104.7 billion. Meanwhile, imports of production materials were estimated at USD 320 billion, representing 94.1% of total imports. China remained the largest source of imports, with import turnover estimated at USD 138.6 billion."
-    },
-    {
-      "id": "mkt:019fc572-e3bf-7aab-8f4d-6ae2338f7d14",
-      "time": "2026-08-03 10:27:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300",
-        "SZSE Component"
-      ],
-      "text": "China A-share nuclear power sector extended intraday gains; Jiusheng Electric hit the daily limit. Earlier more than a dozen stocks including China Nuclear Construction, Jiangsu Shentong, Heduan Intelligent, Baili Electric and Libote hit limit-up. Hahan Huatong, Changfu, Ruiqi Manufacturing and Tianli Composite each rose over 10%."
-    },
-    {
-      "id": "5021474",
-      "time": "2026-08-03 10:27:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【核電板塊持續走高 久盛電氣等十餘股漲停】核電板塊盤中持續走高，久盛電氣20cm漲停，此前中國核建、江蘇神通、合鍛智慧、百利電氣、利柏特等十餘股漲停，哈焊華通、常輔股份、瑞奇智造、天力複合均漲超10%。"
     }
   ]
 }
