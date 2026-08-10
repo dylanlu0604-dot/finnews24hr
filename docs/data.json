@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-11 04:07:20",
-  "count": 15790,
+  "updated": "2026-08-11 04:11:12",
+  "count": 15791,
   "items": [
+    {
+      "id": "mkt:019fed4b-2782-7aab-8fe0-a96b5e29dd73",
+      "time": "2026-08-11 04:09:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The SEC filed suit against Adit Ventures Management and others, alleging they defrauded investors and misused client funds in pre-IPO investments in SpaceX and Klarna.com."
+    },
+    {
+      "id": "mkt:019fed4a-58f6-7aab-8fe0-a0dae48cc845",
+      "time": "2026-08-11 04:08:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O): new financing platform aims to convert the company’s compute and full‑stack AI infrastructure into an asset class investable by global capital."
+    },
+    {
+      "id": "mkt:019fed49-6f5d-7aab-8fe0-9de6a792ea19",
+      "time": "2026-08-11 04:07:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O): The company and partners will establish dedicated capital pools to finance AI infrastructure customers."
+    },
     {
       "id": "mkt:019fed47-d637-7aab-8fe0-902f6a57f9ac",
       "time": "2026-08-11 04:05:35",
@@ -143688,26 +143725,6 @@
         "SNAP.N"
       ],
       "text": "Snap (SNAP.N) expects third-quarter revenue of $1.7 billion to $1.74 billion."
-    },
-    {
-      "id": "mkt:019fc940-723f-7aab-8f5f-7b91802bfba2",
-      "time": "2026-08-04 04:11:11",
-      "tags": [
-        "MKT News",
-        "SNAP.N",
-        "Impact bullish"
-      ],
-      "text": "Snap (SNAP.N) reported Q2 2026 revenue of $1.6 bln, above the $1.541 bln consensus and up from $1.345 bln a year earlier."
-    },
-    {
-      "id": "mkt:019fc93e-f36a-7aab-8f5f-767b10efc88f",
-      "time": "2026-08-04 04:09:33",
-      "tags": [
-        "MKT News",
-        "ON.O",
-        "Impact bullish"
-      ],
-      "text": "On Semiconductor (ON.O) reported Q2 2026 revenue of $1.60 billion versus a $1.59 billion consensus. It guided Q3 revenue to $1.65 billion–$1.75 billion, versus a $1.67 billion consensus."
     }
   ]
 }
