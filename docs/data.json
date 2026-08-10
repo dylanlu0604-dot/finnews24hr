@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-11 05:13:32",
-  "count": 15804,
+  "updated": "2026-08-11 05:17:26",
+  "count": 15803,
   "items": [
+    {
+      "id": "mkt:019fed87-11cc-7aab-8fe1-407715849ca5",
+      "time": "2026-08-11 05:14:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chilean Copper Commission (Cochilco): Collahuasi mine copper output rose 1.7% YoY to 34,900 tonnes in June."
+    },
+    {
+      "id": "mkt:019fed87-04bd-7aab-8fe1-38cef82430a1",
+      "time": "2026-08-11 05:14:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chile's National Copper Commission: Escondida copper mine produced 111,400 tonnes of copper in June, up 45.8% YoY."
+    },
     {
       "id": "5034605",
       "time": "2026-08-11 05:12:34",
@@ -143835,34 +143859,6 @@
         "其他"
       ],
       "text": "Snap 首席財務官：我們預計直接收入增速將持續顯著高於整體業務增速。"
-    },
-    {
-      "id": "mkt:019fc97b-db49-7aab-8f5f-c5787732b315",
-      "time": "2026-08-04 05:16:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The US House cybersecurity subcommittee has requested OpenAI CEO Sam Altman brief lawmakers on the Hugging Face breach."
-    },
-    {
-      "id": "5023233",
-      "time": "2026-08-04 05:15:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.42%，報14681點。"
-    },
-    {
-      "id": "mkt:019fc97b-380f-7aab-8f5f-bd0fa53f13f9",
-      "time": "2026-08-04 05:15:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "NTT Data is considering roughly $9.0 billion of investment in Japan's data-center sector."
     }
   ]
 }
