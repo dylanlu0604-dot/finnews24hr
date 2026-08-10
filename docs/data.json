@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-10 10:19:36",
-  "count": 15886,
+  "updated": "2026-08-10 10:23:33",
+  "count": 15891,
   "items": [
+    {
+      "id": "te:markets:573977",
+      "time": "2026-08-10 10:22:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains Under Pressure — The Japanese yen weakened past 158 per dollar on Monday, reversing gains from the previous session as a recent joint intervention by Tokyo and Washington failed to sustain the rally amid persistent structural pressure on the currency. The yen remained weighed down by wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Latest data also showed Japan’s current account surplus narrowed in June, as strong exports of AI-related electronics were offset by higher imports driven by increased crude oil purchases. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting the pace of interest rate hikes could quicken. On Friday, the yen strengthened sharply against the dollar after weaker-than-expected US jobs data prompted traders to reduce expectations for a near-term Federal Reserve interest rate hike."
+    },
+    {
+      "id": "5033052",
+      "time": "2026-08-10 10:22:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026國際基礎科學大會專場沙龍今起密集舉行】2026國際基礎科學大會正在北京舉行，今天起，“數學之夜”“物理之夜”“工程之夜”“基礎科學與人工智慧論壇”等多場專場沙龍將密集舉行，匯聚多位菲爾茲獎、圖靈獎等國際大獎得主，共話學科前沿趨勢。今年大會主題為“聚焦基礎科學，引領人類未來”，共有千餘名中外科學家、科研工作者和青年學子參會，大會將持續到8月21日。（央視新聞）"
+    },
+    {
+      "id": "te:markets:573975",
+      "time": "2026-08-10 10:22:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Taiwan Stocks Rise to Near 4-Week High — The TAIEX, Taiwan’s benchmark stock index, advanced 933 points, or 2.1%, to 45,159 in Monday morning trade, erasing losses from the previous two sessions and tracking a rally on Wall Street on Friday after weaker-than-expected jobs data eased concerns over Fed rate hikes at the upcoming meeting. The broader index hit its highest level since July 16 after consolidating in the previous session amid concerns over massive spending on AI. The increase was mainly driven by electronic technology stocks, which rose 2.7%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, climbed 1.1%, while MediaTek rose 1.3%, and Delta Electronics surged 10.0%. However, rising oil prices limited the gains, as concerns over inflation raised expectations of interest rate hikes. Traders also anticipated the release of US inflation data due this week for clues about the Fed's monetary policy decision at its upcoming meeting."
+    },
+    {
+      "id": "5033051",
+      "time": "2026-08-10 10:22:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒關注：中國對日美稀土出口大幅下降，6月對日釔出口降至零】日本經濟新聞8月8日基於中國海關總署貿易資料分析，今年1至6月，中國對七種受管制稀土礦物的對日出口同比下降51%，對美出口下降28%，全球整體出口下降16%。報道稱，這一資料反映出中國依法對稀土等戰略資源實施出口管制的政策成效。（觀察者網）"
+    },
+    {
+      "id": "5033050",
+      "time": "2026-08-10 10:22:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅馬仕等被執行2056萬】天眼查App顯示，近日，深圳羅馬仕科技有限公司等新增一則被執行人資訊，執行標的2056萬餘元，執行法院為深圳市福田區人民法院。該公司成立於2012年3月，法定代表人為雷秀容，註冊資本600萬人民幣。"
+    },
+    {
+      "id": "5033049",
+      "time": "2026-08-10 10:21:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓從美國獲得高達6億美元的衛生部門贈款。"
+    },
+    {
+      "id": "5033048",
+      "time": "2026-08-10 10:21:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【第一三共：與信達生物關於維復泰在中國大陸達成商業化合作】據第一三共中國訊息，8月10日，第一三共與信達生物製藥集團宣佈就維復泰（鹽酸奎扎替尼片）在中國大陸市場的商業化達成獨家委託推廣協議。根據協議，第一三共將負責鹽酸奎扎替尼片的臨床開發、生產與供應，而信達生物取得鹽酸奎扎替尼片在中國的獨家推廣權利，主導在中國市場的推廣工作。"
+    },
+    {
+      "id": "mkt:019fe979-10bd-7aab-8fcf-7939cd2e8d5b",
+      "time": "2026-08-10 10:20:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "AUDUSD",
+        "Impact mixed"
+      ],
+      "text": "【Westpac: Downside risks realised, CPI cools; RBA likely to hold in August】Westpac expects the RBA to keep the cash rate at 4.35% in August after Q2 headline and trimmed-mean CPI printed below forecasts, a call consistent with Commonwealth Bank of Australia. Westpac says the RBA board will remain hawkish. Both banks note pass-through from Middle East-related energy costs to consumer prices has not persisted in recent months; June inflation showed higher input costs did not broadly reach consumers. They expect the RBA to retain hawkish wording even if it holds rates, so a mere pause may have limited impact on the AUD — market focus will be whether the board shifts clearly dovish or keeps a cautious tone."
+    },
+    {
+      "id": "5033047",
+      "time": "2026-08-10 10:20:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念股表現疲軟 麥捷科技、昀冢科技跌超5%】MLCC概念股盤中表現疲軟，麥捷科技、昀冢科技跌超5%，三環集團、東材科技等跟跌。"
+    },
+    {
+      "id": "5033046",
+      "time": "2026-08-10 10:20:34",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員不肯建倉以押注原油價格持續上漲】在霍爾木茲海峽重開問題上，剛剛過去的週末仍無進展，週一原油價格走強，但交易員對油價能否持續上漲持懷疑態度。原油淨多頭頭寸7月份僅溫和反彈，但目前各原油合約的淨多頭頭寸正在縮減。投資者將有關特朗普總統採取“低調處理”和與伊朗“半談判”策略的報道，視為談判中新的審慎路線。美國經濟資料也起到了作用。近期疲軟的就業報告令那些寄望於美國經濟表現優於全球其他經濟體的投資者大受打擊。而本週的CPI資料預計將顯示核心通脹持續放緩，這將削弱原油期貨被用來對沖美聯儲提前加息風險的吸引力。"
+    },
+    {
+      "id": "5033045",
+      "time": "2026-08-10 10:19:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "5033044",
+      "time": "2026-08-10 10:19:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【創新新材等成立光電科技新公司】企查查APP顯示，近日，深圳新盛無疆光電科技有限公司成立，經營範圍包含光通訊裝置銷售；光電子器件銷售；塑膠製品銷售；電子元器件批發等。企查查股權穿透顯示，該公司由創新新材等共同持股。"
+    },
     {
       "id": "5033043",
       "time": "2026-08-10 10:18:35",
@@ -144609,77 +144721,6 @@
         "國際"
       ],
       "text": "菲律賓基準股指上漲多達1.1%，至6304.99點。"
-    },
-    {
-      "id": "5021469",
-      "time": "2026-08-03 10:22:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：日美就匯率問題保持密切溝通。"
-    },
-    {
-      "id": "mkt:019fc56e-19a6-7aab-8f4d-4c81a5c28192",
-      "time": "2026-08-03 10:22:34",
-      "tags": [
-        "MKT News",
-        "Penghua Sci-Tech Semiconductor Equipment ETF",
-        "Impact bearish",
-        "Huaxia Semiconductor Equipment ETF",
-        "GF Semiconductor Equipment ETF"
-      ],
-      "text": "China A-share semiconductor equipment sector slid through the session; Penghua Sci-Tech Semiconductor Equipment ETF, Huaxia Semiconductor Equipment ETF and GF Semiconductor Equipment ETF each fell more than 8%, while China Merchants Semiconductor Equipment ETF dropped 7.7%."
-    },
-    {
-      "id": "te:economy:571989",
-      "time": "2026-08-03 10:22:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Vietnam Industrial Output Growth Hits Six-Month High — Vietnam's industrial production expanded 14.5% year-on-year in July 2026, accelerating from an upwardly revised 12.9% increase in June and marking its strongest growth in six months, since January 2026. The pickup was driven by faster growth in manufacturing and processing (15.0% vs. 12.8% in June) and water supply, waste management, and wastewater treatment (14.9% vs. 10.1%). Meanwhile, growth in mining and quarrying was unchanged at 10.4%. In contrast, electricity production and distribution growth eased to 12.5% from 15.2%. On a monthly basis, industrial output rose 1.2%, signaling continued strength in the sector. For the January-July period, industrial production increased 11.4% compared with the same period a year earlier."
-    },
-    {
-      "id": "te:markets:571988",
-      "time": "2026-08-03 10:22:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Zinc Climbs to Over 4-Year High — Zinc futures climbed above $3,650 per tonne, the highest level since June 2022, as prospects of reduced Chinese mine and smelter production heightened concerns over near-term supply. Production adjustments at a zinc mine in Southwest China are expected to reduce zinc concentrate output by around 1,000 tonnes in August, while scheduled maintenance at a major smelter in Central China could cut production by 1,000-1,500 tonnes, further limiting concentrate availability. Among key producers, Glencore reported a 21% year-on-year decline in own-sourced zinc production in the first half of 2026, although it maintained its full-year production guidance. Boliden’s zinc concentrate production dropped 16.8% quarter-on-quarter, while MMG fell 1% year-on-year in the second quarter. Prices were also supported by a weaker US dollar, making greenback-priced commodities more attractive to overseas buyers."
-    },
-    {
-      "id": "te:economy:571987",
-      "time": "2026-08-03 10:21:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Approaches 1-Year Low — China's 10-year government bond yield dropped to around 1.70% on Monday, approaching its lowest level in a year as the launch of government bond futures in Hong Kong boosted efforts to deepen market access. In its third attempt, China launched five-year government bond futures, with the September contract opening at 106.685 yuan per contract and a notional value of 500,000 yuan ($74,058). The launch marks another step in China's efforts to attract overseas investors and promote yuan internationalization. Separately, the PBoC reiterated its commitment to supporting the real economy by maintaining a moderately loose monetary stance, adjusting policy tools as needed, and ensuring ample liquidity. On the economic front, the latest PMI data highlighted renewed challenges for China's manufacturing sector. A private-sector survey showed that the manufacturing PMI fell to a four-month low in July 2026, while official data indicated that it contracted for the first time since February."
-    },
-    {
-      "id": "5021467",
-      "time": "2026-08-03 10:20:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【秘魯瓦努科大區發生5.7級地震】秘魯國家地球物理研究所報告稱，當地時間8月2日20時42分，瓦努科大區萊昂西奧普拉多省的奧凱亞庫東北53公里處發生5.7級地震。本次地震震源深度為152公里，目前暫無人員傷亡或財產損失報告。（央視新聞）"
-    },
-    {
-      "id": "5021466",
-      "time": "2026-08-03 10:19:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官木原稔：將毫不猶豫採取進一步外匯干預行動。"
     }
   ]
 }
