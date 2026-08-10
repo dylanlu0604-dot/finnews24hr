@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-10 10:35:23",
-  "count": 15883,
+  "updated": "2026-08-10 10:39:22",
+  "count": 15881,
   "items": [
+    {
+      "id": "5033076",
+      "time": "2026-08-10 10:38:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巡天千河：XS-01星今日出徵】據巡天千河訊息，2026年8月10日，上海巡天千河空間技術有限公司研製的XS-01衛星舉行出征儀式。XS-01衛星是由巡天千河研製的最新智慧計算衛星，該衛星由AI驅動，內部部署AI大模型，可對衛星在軌任務執行、遙感資料處理和健康狀態等各環節進行智慧監測與管理，使衛星具備健康自主管理、在軌任務的自主規劃和執行能力。XS-01衛星是巡天千河公司抓總研製的第12顆衛星，為“星樞計劃”太空算力星座的批次化研製開展相關新技術在軌驗證。"
+    },
+    {
+      "id": "5033075",
+      "time": "2026-08-10 10:38:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寶鼎科技5連板 總市值突破200億元】8月10日早盤，寶鼎科技再度漲停，盤中雖幾度開板，但隨後迅速回封，收穫“5連板”。截至上午10點19分，公司股價報52.36元/股，近5個交易日累計漲幅約61%，總市值突破200億元。"
+    },
+    {
+      "id": "5033073",
+      "time": "2026-08-10 10:37:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九識智慧生產製造基地專案落戶海口 全面達產後預計年產1萬臺無人車產品】8月7日，海口國家高新區管委會與九識智慧科技有限公司在海口進行交流座談，並正式簽署合作協議，標誌著九識智慧生產製造基地專案落戶海口國家高新區，先進製造業再添強勁引擎。 據悉，九識智慧生產製造基地專案選址於高新區美安科技新城康迪基地，計劃總投資約1億元，分兩期建設。首期擬委託園區生產製造企業承接年產2000臺功能型無人車本地生產任務；二期將選取約1萬平方米合適廠房及測試場自建產線，全面達產後預計年產1萬臺無人車產品，實現年產值約3億元。專案落地後，將充分聯動海南自貿港政策優勢，打造面向華南及東南亞市場的智慧物流裝備生產樞紐。 據瞭解，九識智慧（Zelos）成立於2021年，運營總部位於蘇州，致力於L4級自動駕駛技術研發及在城配物流等多場景的商業化落地應用。目前，九識智慧已運營車輛數超過1.6萬臺。（海南日報）"
+    },
+    {
+      "id": "5033072",
+      "time": "2026-08-10 10:36:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年海南醫藥品出口6.4億元，增長21.4%】據海口海關統計，今年上半年海南企業出口醫藥品6.4億元，同比增長21.4%。"
+    },
+    {
+      "id": "5033071",
+      "time": "2026-08-10 10:36:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾因智慧完成5億元人民幣天使++輪融資】8月10日，消費級具身智慧大模型公司諾因智慧宣佈完成單筆5億元人民幣天使++輪融資。本輪融資由經緯創投領投，紅點創投、商湯國香資本、華登科技、L2F光源創業者基金跟投。本輪融資將重點投入更強泛化的具身大模型研發、GLOW生成式世界模型持續迭代，以及產品驗證與量產提速。"
+    },
+    {
+      "id": "5033070",
+      "time": "2026-08-10 10:35:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【光啟技術：已首次斬獲無人機採購訂單】光啟技術釋出投資者關係管理資訊顯示，8月7日，公司在佛山709基地接待了中金公司、銀河證券等55位機構投資者的調研，公司董事會秘書周建林與機構投資者進行了互動交流。周建林介紹了公司主營業務、超材料技術的發展情況、公司產業基地佈局和建設情況、第二增長曲線業務發展及其他通用領域業務佈局，重點介紹了無人機業務的發展情況，7大能力平臺建設和產業化應用的相關情況。同時，周建林還介紹了人工智慧在超材料研發設計、智慧製造和運營管理等環節的融合應用情況，公司超材料技術的代際發展歷程和下一代超材料的研究方向，並向投資機構全面客觀介紹了公司的經營情況、行業現狀以及超材料發展和應用趨勢。"
+    },
     {
       "id": "5033069",
       "time": "2026-08-10 10:34:42",
@@ -144556,82 +144606,6 @@
         "市場"
       ],
       "text": "【吳清：研究擴大兩地證券期貨專業人員資格互認範圍】中國證監會主席吳清在香港推出人民幣國債期貨上市儀式上的致辭中表示，香港一直是內地金融機構走向世界的“橋頭堡”。我們將支援更多優質證券基金公司在港展業興業、走向世界，建設一流投資銀行和投資機構，為中國企業和投資者全球化佈局提供更加高效適配的金融服務。研究擴大兩地證券期貨專業人員資格互認範圍，便利優秀專業人才兩地就業執業。我們將和香港監管部門進一步加強監管協作，深化發行上市、中介機構、監管執法等領域合作，同時不斷完善風險監測和資訊共享機制，加強資本跨境流動風險監測和協同應對，防範系統性風險。（證監會）"
-    },
-    {
-      "id": "5021493",
-      "time": "2026-08-03 10:39:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【協鑫光電完成D1輪超億元融資】日前，協鑫集團旗下崑山協鑫光電材料有限公司（下稱“協鑫光電”）完成D1輪超億元融資。本輪融資由金信資本領投，紅杉中國、翔安創投、蘇州資管等跟投。協鑫光電錶示，本輪資金將重點用於支援公司地面光伏電站商業化交付及太空光伏應用驗證，高度回饋資本市場對協鑫光電長期技術積澱與產業化能力的認可。"
-    },
-    {
-      "id": "5021492",
-      "time": "2026-08-03 10:39:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱霍爾木茲海峽回不到戰前狀態】據伊朗媒體報道，伊朗外交部發言人巴加埃8月2日表示，霍爾木茲海峽不會回到戰前狀態。巴加埃稱，伊朗與阿曼圍繞霍爾木茲海峽未來的討論已經進行了一段時間，目的是達成一個具體的框架，以確保該地區的海上航行安全。而伊朗與阿曼商定的新霍爾木茲海峽航道既不是現有的北部航道，也不是現有的南部航道，而是一條由雙方協商一致確定的新航道。"
-    },
-    {
-      "id": "mkt:019fc57d-213d-7aab-8f4d-9e70a993e534",
-      "time": "2026-08-03 10:38:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【CSRC's Wu Qing says studying expansion of mutual recognition of securities and futures qualifications with Hong Kong】CSRC chairman Wu Qing, speaking at the RMB government bond futures listing ceremony in Hong Kong, said Hong Kong remains a bridgehead for mainland financial institutions and that the regulator will support more qualified securities and fund firms to operate and list in Hong Kong. He said the CSRC is studying expansion of mutual recognition of securities and futures professional qualifications between the mainland and Hong Kong to facilitate cross-border employment. The CSRC will deepen regulatory cooperation with Hong Kong on issuance and listings, intermediaries and enforcement, improve risk monitoring and information sharing, and strengthen coordinated surveillance of cross-border capital flows to guard against systemic risk."
-    },
-    {
-      "id": "te:economy:571998",
-      "time": "2026-08-03 10:38:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10Y Yield Rises in Rate Hike Bets — Japan's 10-year government bond yield rose above 2.8% on Monday, reaching its highest level in three weeks as investors increased bets on another Bank of Japan interest rate hike. Last week, the BOJ left its policy rate unchanged at 1%, in line with expectations, keeping borrowing costs at their highest level since September 1995 after delivering a 25-basis-point rate hike in June. Policymakers nevertheless acknowledged upside inflation risks stemming from demand-driven price pressures linked to the conflict in the Middle East. BOJ Governor Kazuo Ueda also said it is \"more necessary than ever\" to remain vigilant about the risk of higher inflation given its potential adverse effects on the economy. Still, he reiterated that the central bank expects underlying inflation to remain consistent with its 2% price stability target from the second half of fiscal 2026 through the following fiscal year."
-    },
-    {
-      "id": "mkt:019fc57c-2f48-7aab-8f4d-95a145e360a1",
-      "time": "2026-08-03 10:37:57",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Roundhill Memory ETF re-adds Chinese chipmaker Changxin Technology】At end-July, Roundhill Memory ETF (DRAM) rebalanced and re-added A-share Changxin Technology with a 2.52% weight, making it the fund's eighth-largest holding. GigaDevice dropped to the 10th slot with a 1.51% weight after being first included in June at 2.91%. The ETF's current top-10 holdings include Samsung Electronics, Micron Technology, SK Hynix, Seagate Technology, Western Digital Corp, SanDisk, Kioxia, Changxin Technology, Nanya Technology and GigaDevice."
-    },
-    {
-      "id": "5021491",
-      "time": "2026-08-03 10:37:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美格智慧釋出具身智慧資料採集終端解決方案】近期，美格智慧正式釋出兩款具身智慧資料採集解決方案，以AI模組為核心引擎，面向人形機器人、工業機器人、服務機器人等具身智慧場景，聚焦“多路感測器時間同步、高幀率原始資料採集、多模態融合、低功耗無線傳輸”等核心能力，提供從可穿戴動作捕捉到多視角視覺採集的資料錄製採集方案。"
-    },
-    {
-      "id": "mkt:019fc57b-6b2e-7aab-8f4d-8e0b06c94686",
-      "time": "2026-08-03 10:37:07",
-      "tags": [
-        "MKT News",
-        "8002.T",
-        "Impact bullish"
-      ],
-      "text": "Marubeni's CFO said the impact of the Middle East conflict on earnings so far has been smaller than initially expected."
-    },
-    {
-      "id": "5021490",
-      "time": "2026-08-03 10:36:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【再次納入中國晶片龍頭 全球最火儲存ETF納入長鑫科技】7月底，全球“最火”記憶體ETF——Roundhill Memory ETF（DRAM）進行了調倉，再度納入A股公司長鑫科技，權重為2.52%，為該ETF的第8大重倉股，兆易創新降至為該ETF的第10大重倉股，權重為1.51%（兆易創新6月首次被納入，當時權重為2.91%） 。目前，DRAM前十大持倉包括三星電子、美光科技、SK海力士、希捷科技、西部資料、閃迪、希捷科技、鎧俠控股、長鑫科技、南亞科技、兆易創新等全球晶片龍頭。"
     }
   ]
 }
