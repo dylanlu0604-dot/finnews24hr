@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-10 10:23:33",
-  "count": 15891,
+  "updated": "2026-08-10 10:27:30",
+  "count": 15889,
   "items": [
+    {
+      "id": "5033057",
+      "time": "2026-08-10 10:26:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寵物經濟概念震盪反彈 源飛寵物漲停】寵物經濟概念盤中震盪反彈，源飛寵物漲停，創源股份、天元寵物、德藝文創、依依股份、中寵股份等跟漲。訊息面上，據《2026中國寵物行業白皮書》資料，2025年國內城鎮犬貓消費市場規模已突破3126億元，城鎮犬貓存量超1.26億隻，養寵家庭滲透率達24%，預計2027年市場規模將突破4000億元。"
+    },
+    {
+      "id": "5033056",
+      "time": "2026-08-10 10:25:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國首相宣佈將打擊“虛假折扣”等誤導性定價行為】據英國方面訊息稱，英國首相伯納姆8月9日宣佈，政府計劃加強監管零售商“虛假折扣”等誤導性定價行為，重點打擊商家透過人為抬高商品原價或所謂“此前價格”、使用誤導性建議零售價等方式、使消費者產生商品大幅降價的錯覺。（央視新聞）"
+    },
+    {
+      "id": "5033055",
+      "time": "2026-08-10 10:24:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【預製菜概念持續拉昇，華天酒店漲停】預製菜概念持續拉昇，華天酒店漲停，惠發食品、大東方、紫燕食品、益客食品、巴比食品、中水漁業等跟漲。"
+    },
+    {
+      "id": "5033054",
+      "time": "2026-08-10 10:24:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議會委員會批准霍爾木茲安全綱要】伊朗議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲當地時間8月9日晚證實，伊朗議會此前提出的《確保霍爾木茲海峽安全與發展的戰略行動計劃》總體框架已獲該委員會透過。 阿齊茲稱，該計劃根據伊朗最高領袖穆傑塔巴·哈梅內伊的指示以及相關機構和部門的口頭及書面意見制定，旨在捍衛伊朗國家利益。相關總體框架在該委員會上全票透過。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019fe97c-2821-7aab-8fcf-8978bb249c52",
+      "time": "2026-08-10 10:24:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share travel and hotel sector rose; Huatian Hotel hit the daily trading limit, while Jinjiang Hotels, Jinling Hotel, Junting Hotel and BTG Hotels also advanced."
+    },
+    {
+      "id": "mkt:019fe97b-fd70-7aab-8fcf-82f69b9ead5b",
+      "time": "2026-08-10 10:24:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【South Korea's Lee to review progress of AI-related investment plan】Yonhap reports President Lee will chair a meeting at 1400 local time Monday to push rapid implementation of a large-scale investment plan covering semiconductor manufacturing facilities and AI data centers. It is the second such follow-up since the government unveiled its \"three major projects\" in late June. The plan targets semiconductor production clusters, physical AI and regional AI data centers; the presidential office said Monday's meeting will focus on accelerating rollout and ensuring investment gains reach all regions and the broader industry ecosystem."
+    },
+    {
+      "id": "5033053",
+      "time": "2026-08-10 10:23:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【旅遊及酒店板塊走高，華天酒店漲停】旅遊及酒店板塊走高，華天酒店漲停，錦江酒店、金陵飯店、君亭酒店、首旅酒店跟漲。"
+    },
+    {
+      "id": "te:economy:573978",
+      "time": "2026-08-10 10:23:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Foreign Exchange Reserves",
+        "Importance 0"
+      ],
+      "text": "South Africa Forex Reserves Fall to 8-Month Low — Gross foreign exchange reserves in South Africa fell to USD 73.45 billion in July 2026 from USD 74.11 billion in the previous month, marking the lowest level since November last year. The decline was mainly driven by lower foreign currency reserves, which fell to USD 50.41 billion from USD 51.22 billion. In contrast, gold reserves increased to USD 16.38 billion from USD 16.26 billion, while SDR holdings rose to USD 6.67 billion from USD 6.63 billion. The forward position increased to USD 1.19 billion from USD 0.59 billion, while foreign currency deposits received by the central bank declined to USD 2.88 billion from USD 3.36 billion. The South African Reserve Bank said the changes reflected a USD 150 million foreign loan from the OPEC Fund, higher US dollar gold prices and valuation adjustments, partly offset by government foreign exchange payments, including repayment of a USD 574 million foreign loan."
+    },
     {
       "id": "te:markets:573977",
       "time": "2026-08-10 10:22:56",
@@ -144621,106 +144694,6 @@
         "市場"
       ],
       "text": "【核電板塊持續走高 久盛電氣等十餘股漲停】核電板塊盤中持續走高，久盛電氣20cm漲停，此前中國核建、江蘇神通、合鍛智慧、百利電氣、利柏特等十餘股漲停，哈焊華通、常輔股份、瑞奇智造、天力複合均漲超10%。"
-    },
-    {
-      "id": "mkt:019fc572-8e08-7aab-8f4d-67c531047f2b",
-      "time": "2026-08-03 10:27:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【5.7 magnitude earthquake strikes Huánuco region, Peru】The Geophysical Institute of Peru reported a magnitude-5.7 earthquake at 20:42 local time on Aug. 2, about 53 km northeast of Ocayacu in Leoncio Prado province, Huánuco. Depth 152 km; no casualties or damage reported."
-    },
-    {
-      "id": "te:economy:571994",
-      "time": "2026-08-03 10:26:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "MI Inflation Gauge MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Inflation Gauge Rebounds as Core Price Pressures Linger — Australia's Melbourne Institute Monthly Inflation Gauge rose 1.0% month-on-month in July 2026, reversing a 0.4% decline in June and marking its first increase since April, pointing to renewed inflationary pressures. The reading aligns with the Reserve Bank of Australia's June meeting minutes, which indicated that underlying price pressures were expected to intensify in the June quarter. Official data showed headline inflation eased to 4.0% in May from 4.2%, mainly due to lower fuel prices. However, underlying inflation remained persistent, with the trimmed mean accelerating to 3.6% from 3.4% as businesses passed through higher costs linked to Middle East tensions. Governor Michele Bullock recently reiterated that underlying inflation remains too high and warned it could rise further as higher oil prices stemming from the Iran conflict feed into broader prices, reinforcing expectations that the RBA will remain cautious on policy easing."
-    },
-    {
-      "id": "te:economy:571993",
-      "time": "2026-08-03 10:26:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Vietnam Inflation Eases to 4.45% in July — Vietnam’s inflation rate eased to 4.45% year-on-year in July 2026 from 4.69% in the previous month. Price growth grew at a softer pace in food and non-alcoholic beverages (4.63% vs 4.89% in June), alcoholic beverages and tobacco (4.13% vs 4.21%), housing and utilities (6.71% vs 7.17%), and transportation (3.66% vs 5.29%). On the other hand, costs increased in clothing and footwear (2.29% vs 2.19%), education (3.63% vs 3.39%), household equipment (3.21% vs 3.17%), health (1.24% vs 1.20%), information and communication (0.38% vs 0.13%), recreation and culture (3.65% vs 3.32%), and miscellaneous goods and services (5.91% vs 4.08%). On a monthly basis, consumer prices fell 0.12% in July, slowing from a 0.39% drop in the preceding period. Meanwhile, annual core inflation grew 4.63%, up from 4.50% a month earlier."
-    },
-    {
-      "id": "mkt:019fc571-1cc4-7aab-8f4d-5abc9d45acfe",
-      "time": "2026-08-03 10:25:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Philippine benchmark stock index rose 1%."
-    },
-    {
-      "id": "5021473",
-      "time": "2026-08-03 10:25:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：陣痛期已過 右側機會來臨 看好8月新車催化期的表現】中信證券研報指出，A股智選標的在上半年受鴻蒙體系內部分流加劇、儲存和碳酸鋰等漲價等因素影響，量、價、利均有明顯壓力，疊加資金面受AI板塊虹吸影響，股價經歷了漫長的陣痛期。近期中報利空落地，且隨著市場資金面在AI和非AI板塊的再平衡，反彈幅度超出預期，中信證券看好8月新車催化期的表現。"
-    },
-    {
-      "id": "mkt:019fc570-a10c-7aab-8f4d-53a288c0ae15",
-      "time": "2026-08-03 10:25:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【CITIC Securities: pain period over, right-side buying opportunity; positive on August new-car catalysts】CITIC Securities says A-share smart-selection stocks endured a prolonged correction in 1H after HarmonyOS-driven ecosystem diversion and higher memory and lithium carbonate prices squeezed volumes, prices and margins, while AI-driven fund inflows drained liquidity. With interim-report headwinds largely priced in and capital rebalancing from AI into non-AI names, the rebound has exceeded expectations. CITIC views this as a right-side buying opportunity and expects August’s new-car catalyst window to support performance."
-    },
-    {
-      "id": "te:economy:571992",
-      "time": "2026-08-03 10:25:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Eases Ahead of Jobs Data — The yield on the US 10-year Treasury note slipped to around 4.7% on Monday, retreating from an 18-month high as investors awaited a busy week of labor market data, highlighted by Friday's closely watched monthly US jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that waiting too long to act could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September. Meanwhile, reports indicated that Fed Chair Kevin Warsh is considering reducing the number of policy meetings from the current eight per year. Investors have criticized Warsh's efforts to limit forward guidance on the path of interest rates, while the Fed continues to face mounting pressure to do more to rein in inflation."
-    },
-    {
-      "id": "5021472",
-      "time": "2026-08-03 10:24:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿里巴巴釋出千問3.8-MAX人工智慧模型，擁有2.4萬億個引數。"
-    },
-    {
-      "id": "5021471",
-      "time": "2026-08-03 10:24:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量3440億元。"
-    },
-    {
-      "id": "5021470",
-      "time": "2026-08-03 10:24:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓基準股指上漲多達1.1%，至6304.99點。"
     }
   ]
 }
