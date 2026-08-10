@@ -1,7 +1,44 @@
 {
   "date": "2026-08-10",
-  "count": 789,
+  "count": 793,
   "items": [
+    {
+      "id": "5033189",
+      "time": "2026-08-10 11:50:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【8月10日午間漲停分析】創業板指半日跌逾2%，醫藥、大消費板塊逆勢走強。寶鼎科技、百花醫藥均5連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019fe9ca-5d6d-7aab-8fd0-9ec3cbbb2b6e",
+      "time": "2026-08-10 11:49:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report that despite NETANYAHU's opposition to a 15-point plan, a US-led unit based in Kiryat Gat is continuing preparations for the next phase of a Gaza agreement; construction of the first multinational force base in Rafah is expected to begin on Aug 30."
+    },
+    {
+      "id": "mkt:019fe9c9-1ed5-7aab-8fd0-924c7096fec8",
+      "time": "2026-08-10 11:48:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ADNOC Gas said increased UAE oil output has bolstered supply confidence."
+    },
+    {
+      "id": "5033188",
+      "time": "2026-08-10 11:48:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出中心城區暴雨橙色預警 多區釋出大風橙色預警訊號】上海市氣象臺2026年8月10日10時54分更新中心城區暴雨黃色預警訊號為暴雨橙色預警訊號：預計未來12小時內，中心城區大部6小時累計降水量將達150毫米以上，暴雨黃色預警訊號更新為暴雨橙色預警訊號，強降雨可能引發城市積澇、交通擁堵等情況，請特別加強防範極端強降雨。此外，金山、青浦、松江、浦東釋出大風橙色預警訊號。此前釋出的颱風、黃浦江高潮位、海浪預警訊號依舊高掛。"
+    },
     {
       "id": "5033187",
       "time": "2026-08-10 11:47:25",
