@@ -1,7 +1,40 @@
 {
   "date": "2026-08-11",
-  "count": 27,
+  "count": 30,
   "items": [
+    {
+      "id": "5034441",
+      "time": "2026-08-11 00:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖公佈多項任命 調整武裝力量領導層】當地時間10日，伊朗最高領袖穆傑塔巴·哈梅內伊對伊朗武裝力量進行6項新的人事任命，其中包括：任命阿里·阿卜杜拉希空軍少將為伊朗武裝部隊總參謀長；艾哈邁德·瓦希迪准將晉升少將，被任命為伊朗伊斯蘭革命衛隊總司令。此外，准將凱尤馬爾斯·海達裡出任武裝力量副總參謀長，少將穆斯塔法·伊扎迪出任革命衛隊副總司令，准將阿里·阿茲馬伊出任革命衛隊海軍司令，侯賽因·塔伊卜出任巴斯基民兵組織負責人。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fec80-4588-7aab-8fdd-c5daeb96bc8c",
+      "time": "2026-08-11 00:27:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Financial Times reports multiple Wall Street firms are partnering with NVIDIA (NVDA.O) on a $500 billion AI financing initiative."
+    },
+    {
+      "id": "5034440",
+      "time": "2026-08-11 00:25:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：由阿波羅、黑石、貝萊德旗下部門、布魯克菲爾德、高盛以及 KKR 組成的財團，將與英偉達建立合作關係。"
+    },
     {
       "id": "5034439",
       "time": "2026-08-11 00:24:16",

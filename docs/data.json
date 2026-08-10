@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-11 00:26:05",
-  "count": 15810,
+  "updated": "2026-08-11 00:30:07",
+  "count": 15807,
   "items": [
+    {
+      "id": "5034441",
+      "time": "2026-08-11 00:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖公佈多項任命 調整武裝力量領導層】當地時間10日，伊朗最高領袖穆傑塔巴·哈梅內伊對伊朗武裝力量進行6項新的人事任命，其中包括：任命阿里·阿卜杜拉希空軍少將為伊朗武裝部隊總參謀長；艾哈邁德·瓦希迪准將晉升少將，被任命為伊朗伊斯蘭革命衛隊總司令。此外，准將凱尤馬爾斯·海達裡出任武裝力量副總參謀長，少將穆斯塔法·伊扎迪出任革命衛隊副總司令，准將阿里·阿茲馬伊出任革命衛隊海軍司令，侯賽因·塔伊卜出任巴斯基民兵組織負責人。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fec80-4588-7aab-8fdd-c5daeb96bc8c",
+      "time": "2026-08-11 00:27:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Financial Times reports multiple Wall Street firms are partnering with NVIDIA (NVDA.O) on a $500 billion AI financing initiative."
+    },
+    {
+      "id": "5034440",
+      "time": "2026-08-11 00:25:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：由阿波羅、黑石、貝萊德旗下部門、布魯克菲爾德、高盛以及 KKR 組成的財團，將與英偉達建立合作關係。"
+    },
     {
       "id": "5034439",
       "time": "2026-08-11 00:24:16",
@@ -143846,68 +143879,6 @@
         "國際"
       ],
       "text": "美國聯邦航空管理局釋出波音737 MAX-7型號審定相關宣告。"
-    },
-    {
-      "id": "mkt:019fc875-fb3a-7aab-8f5c-544fc9f5a399",
-      "time": "2026-08-04 00:30:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【Four tankers load Kazakh crude at key CPC terminal; flows still below normal】Ship-tracking data and foreign reports show four crude tankers loaded at a Black Sea-area terminal crucial for Kazakh exports over the past few days; two of those vessels have departed waters off the Russian CPC (Caspian Pipeline Consortium) terminal since last Friday. At least three additional tankers are waiting to load, status unclear. Continued loading via CPC should provide some near-term relief to global crude supply; the CPC system moves Kazakh volumes produced in JVs with majors including Chevron and normally accounts for about 2% of global supply. Kazakhstan is the second-largest crude supplier to Europe. Kazakh authorities said over the weekend producers are still delivering crude to the terminal but flows remain below normal. The terminal is prepared to load at pre-attack rates, though export throughput will depend on available tonnage and weather conditions."
-    },
-    {
-      "id": "5023064",
-      "time": "2026-08-04 00:29:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯利康投資者對巨型併購談判表達擔憂。"
-    },
-    {
-      "id": "5023063",
-      "time": "2026-08-04 00:29:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "惠譽評級：7月份對115家歐洲上市公司進行了評級審查，評級未發生任何變化。"
-    },
-    {
-      "id": "mkt:019fc874-fc4b-7aab-8f5c-4a642bbde586",
-      "time": "2026-08-04 00:28:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Market sources say seaborne crude exports from Russia's western ports in August are expected to increase 4% month-on-month from July."
-    },
-    {
-      "id": "5023062",
-      "time": "2026-08-04 00:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "交易商稱，俄羅斯西部港口海運原油出口量8月較7月預計增長4%。"
-    },
-    {
-      "id": "5023061",
-      "time": "2026-08-04 00:27:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "META漲幅擴大至盤中最高點7.2%。"
     }
   ]
 }
