@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-11 04:22:45",
-  "count": 15792,
+  "updated": "2026-08-11 04:26:34",
+  "count": 15795,
   "items": [
+    {
+      "id": "mkt:019fed5a-18ad-7aab-8fe0-d70db935ef3f",
+      "time": "2026-08-11 04:25:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DJT.O",
+        "Impact bearish"
+      ],
+      "text": "Trump Media & Technology Group (DJT.O) reported second-quarter revenue of $1.7 million, a net loss of $238.1 million and an adjusted EBITDA loss of $223.5 million."
+    },
+    {
+      "id": "5034589",
+      "time": "2026-08-11 04:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，烏克蘭與摩爾多瓦考慮經摩爾多瓦開闢烏克蘭糧食鐵路運輸線路。"
+    },
+    {
+      "id": "mkt:019fed58-2eb6-7aab-8fe0-cdf3c4952aa5",
+      "time": "2026-08-11 04:23:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Ukraine and Moldova are considering shipping Ukrainian grain via Moldova's rail network."
+    },
+    {
+      "id": "5034588",
+      "time": "2026-08-11 04:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普媒體科技二季度淨虧損2.38億美元，上年同期淨虧損2000萬美元；每股虧損86美分，上年同期每股虧損8美分。"
+    },
+    {
+      "id": "5034587",
+      "time": "2026-08-11 04:22:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：相關交易將支援AI的大範圍建設。"
+    },
     {
       "id": "5034586",
       "time": "2026-08-11 04:22:16",
@@ -143714,22 +143758,6 @@
         "國際"
       ],
       "text": "美森輪船：截至目前，伊朗衝突尚未影響公司經營業績與服務水平，但已推高公司所有運營市場的燃油價格。持續預期在年底前收回全部燃油成本。"
-    },
-    {
-      "id": "5023218",
-      "time": "2026-08-04 04:26:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達外交部：調停國聯合宣告（卡達、埃及、土耳其），針對以色列持續在加沙實施侵犯行為】卡達、埃及、土耳其以調停國身份，譴責並強烈抨擊以色列持續在加沙地帶實施各類侵犯行為，尤其是襲擊醫療設施與基礎設施，造成包括婦女、兒童在內大量平民傷亡。此類行為公然違反國際法與國際人道主義法。\n調停各方強調，以色列必須履行國際法項下全部義務，嚴格遵守停火協議各項條款。調停方指出，以色列持續實施侵權行為等同於破壞停火協議，阻礙協議第二階段落地。哈馬斯及巴勒斯坦各派系此前已同意相關路線圖，尤其就武器管控達成共識。以方行動破壞局勢緩和程序，進一步加劇加沙平民苦難。"
-    },
-    {
-      "id": "mkt:019fc94d-c1fb-7aab-8f5f-94104853c516",
-      "time": "2026-08-04 04:25:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Foreign Ministry said Qatar, Egypt and Turkey condemned Israel's ongoing violations in the Gaza Strip, particularly attacks on medical facilities and infrastructure."
     }
   ]
 }
