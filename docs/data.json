@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-10 08:38:28",
-  "count": 15880,
+  "updated": "2026-08-10 08:42:15",
+  "count": 15881,
   "items": [
+    {
+      "id": "5032841",
+      "time": "2026-08-10 08:41:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【澳大利亞富人區受房價下跌打擊最嚴重】澳大利亞房地產市場的回落對最昂貴的郊區影響最大。較高的利率和對房地產投資者較不利的稅務安排，導致悉尼Point Piper、Mosman、Vaucluse、Hunters Hills和Woolahra等高檔郊區的房價受到重創。房地產研究機構Cotality的這一資料發表在《澳大利亞金融評論報》上。在墨爾本，Toorak和Kew East首當其衝地受到了房地產低迷的影響。悉尼北部海灘的North Curl Curl領跌全國房價，其住宅價值中位數較2025年9月410萬澳元的峰值暴跌19.4%，至7月份的330萬澳元。"
+    },
+    {
+      "id": "5032840",
+      "time": "2026-08-10 08:41:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲1.5個基點，至2.090%。"
+    },
+    {
+      "id": "mkt:019fe91d-d864-7aab-8fcd-8de281f30c55",
+      "time": "2026-08-10 08:41:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI pulled back from intraday highs, with gains narrowing to 0.75%; SK Hynix rose 1.8% and Samsung Electronics gained 1.0%."
+    },
+    {
+      "id": "5032838",
+      "time": "2026-08-10 08:40:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【黃金ETF連續18個交易日申贖資金淨流入】據同花順iFinD資料，上週五黃金ETF持續淨流入15.19億元，自7月15日以來，黃金ETF呈現連續18個交易日申贖資金淨流入狀態，累計超126億元。其中華安黃金ETF（518880）累計申贖淨流入85.72億元，華夏黃金ETF（518550）累計申贖淨流入11.43億元，易方達黃金ETF（159934）累計申贖淨流入10.53億元。"
+    },
+    {
+      "id": "5032837",
+      "time": "2026-08-10 08:40:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【根據颱風“白海豚”最新變化 滬昆高鐵等多條線路列車陸續恢復開行】據上鐵集團訊息，根據颱風“白海豚”最新路徑變化和影響情況，鐵路部門擴大旅客列車恢復開行範圍，計劃8月10日8時起對途經杭深鐵路杭州東至蒼南段、杭衢高鐵、合福高鐵，8時30分起對途經金溫鐵路，9時起對途經杭臺高鐵（含溫玉段）、杭溫高鐵、杭昌高鐵、宣績高鐵、池黃高鐵，10時起對途經滬昆高鐵杭州東至江山段等線路旅客列車陸續恢復開行，更好滿足旅客出行需求。"
+    },
+    {
+      "id": "5032836",
+      "time": "2026-08-10 08:38:31",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美國7月超150個城鎮和縣出臺資料中心禁令】今年夏季，美國地方政府抵制資料中心建設的趨勢持續加劇，這對Anthropic、谷歌、OpenAI等大型人工智慧企業而言是預警訊號——這些公司正依靠擴建資料中心實現算力擴張目標。 僅7月一個月，就有超過150個城鎮和縣出臺資料中心臨時或永久禁令，不少禁令透過緊急會議倉促表決落地。分析顯示：截至8月初，全美現行有效的資料中心禁令數量已突破500項。6月末首次上線禁令追蹤統計時，統計數量僅300餘項。 美國各縣、城鎮叫停相關專案，源於當地居民多重顧慮：資料中心推高居民電費、消耗稀缺水資源、產生大量噪音。專案支援方則反駁，這類工程可為鄉村、工業區創造就業、吸引投資、推動基礎設施升級，居民部分擔憂存在誇大。但相關觀點未能遏制禁令出臺的浪潮。"
+    },
+    {
+      "id": "5032835",
+      "time": "2026-08-10 08:38:18",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【東吳證券：8月業績期將是關鍵變奏點 AI主線有望再度走強】東吳證券研報稱，從市場波動、股價位置、擁擠度、融資四個維度來看，東吳證券認為當前市場已經進入降波築底的階段，而接下來8月的業績期將是關鍵的變奏點，AI主線有望再度走強。"
+    },
+    {
+      "id": "5032834",
+      "time": "2026-08-10 08:38:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江深化工業網際網路與人工智慧融合賦能】近日，浙江省經濟和資訊化廳、省通訊管理局印發《浙江省推進工業網際網路與人工智慧融合賦能行動方案》，提出到2028年，工業網際網路與人工智慧融合發展水平顯著提升，打造具有國內影響力的工業網際網路平臺50個，形成高質量行業資料集、高水平工業智慧體各100個，培育一批具有行業影響力的工業模型，推動產業模式、企業形態和服務正規化加速變革。"
+    },
     {
       "id": "5032833",
       "time": "2026-08-10 08:36:44",
@@ -144609,77 +144682,6 @@
         "公司"
       ],
       "text": "【銳奇股份、力芯微等新設創投合夥企業 出資額約10億元】企查查APP顯示，近日，悅來港君信戰新（上海）創業投資合夥企業（有限合夥）成立，出資額10.3億元，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由銳奇股份、力芯微等共同出資。"
-    },
-    {
-      "id": "te:economy:571924",
-      "time": "2026-08-03 08:42:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Vietnam Manufacturing Expands Most in 5 Months — The S&P Global Vietnam Manufacturing PMI rose to 52.9 in July 2026 from 51.8 in June, marking the strongest expansion since February. Output and new orders accelerated, supported by stronger domestic and foreign demand, with export sales rising at the fastest pace since July 2024. Manufacturers also ramped up purchasing activity at the sharpest rate in almost four-and-a-half years to meet higher production requirements, while employment increased for the first time in five months. Meanwhile, input inventories and finished goods stocks declined as firms used existing inventories to support production and fulfill orders. Supply-chain disruptions eased further, with supplier delivery delays the least pronounced since May 2025. Input cost and output price inflation both slowed to their weakest rates since September 2025, while business confidence climbed to a five-month high, supported by expectations of stronger orders and expanded production capacity."
-    },
-    {
-      "id": "5021285",
-      "time": "2026-08-03 08:40:45",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信建投：科技板塊修復性行情有望開啟】中信建投證券表示，近期A股科技板塊受全球科技聯動影響經歷一輪深度調整，整體呈現二三線標的領跌到核心龍頭補跌的梯度路徑，調整較為充分。本輪調整是槓桿資金賣出主導的資金面衝擊，而非產業趨勢的破壞。整體來看，無差別恐慌拋售階段大機率已經結束，修復性行情有望開啟。展望8月，四大訊號指向資金面壓力開始緩和：一是韓國去槓桿最劇烈階段已經過去，儲存板塊率先企穩；二是A股內部資金擔憂集中落地，交易擁擠明顯緩解；三是美聯儲議息等事件視窗相繼經過，不確定性下降；四是市場開始重新給予好業績正面定價。核心龍頭補跌通常是一輪調整的尾聲訊號，隨著二三線標的和核心龍頭均完成風險釋放，板塊做空動能明顯衰竭，市場定價邏輯正重新轉向業績基本面，修復性行情有望開啟。行業配置上，重點關注調整較充分且業績確定性高的算力核心資產與受益於全球半導體資本開支的方向，同時關注持續漲價的有色品種、盈利修復的新能源板塊與機械板塊。"
-    },
-    {
-      "id": "te:markets:571923",
-      "time": "2026-08-03 08:40:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Tumbles After Trump Cancels Attack on Iran — European natural gas prices declined more than 4% to around €56 per MWh on the first trading day of August after President Donald Trump called off a planned weekend attack on Iran, saying Tehran and other Middle Eastern nations had assured him they were working toward a deal. Trump said that negotiations between the parties are set to begin on Monday. The announcement provided some relief after days of escalating tensions that had driven energy prices sharply higher. European natural gas prices surged 36% in July as the conflict heightened concerns over LNG supplies from the Gulf and Europe's ability to replenish gas inventories ahead of winter. European gas facilities ended last month about 55% full, well below both the five-year average and the level recorded at the same time last year, leaving storage levels behind the pace needed to meet pre-winter inventory targets before the heating season begins in November 1."
-    },
-    {
-      "id": "5021284",
-      "time": "2026-08-03 08:39:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及宣告：沙姆沙伊赫東北61公里處發生5.6級地震。"
-    },
-    {
-      "id": "5021283",
-      "time": "2026-08-03 08:39:18",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗：汽車股空頭回補料持續 新能源汽車銷量明顯提升等利好支撐】花旗預計，在新能源車批發銷量顯著提升、行業庫存去化明顯等利好推動下，中國汽車板塊的空頭回補勢頭將持續。分析師Jeff Chung等人在報告中稱，其餘的利好包括：出口佔比提升增強部分車企下半年盈利能見度、車企之間出現明顯分化、財報季臨近帶來上行機會、汽車行業正進入銷售旺季。在納入已公佈的品牌資料後，預計7月新能源汽車行業批發銷量環比增長1%，同比增長23%，優於市場預期。以下品牌7月新能源汽車銷量表現跑贏行業：零跑汽車（環比+8%）、比亞迪（環比+4%）、廣汽埃安（環比+4%）、極氪（環比+2%）。"
-    },
-    {
-      "id": "5021282",
-      "time": "2026-08-03 08:38:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗預計，在新能源車批發銷量顯著提升、行業庫存去化明顯等利好推動下，中國汽車板塊的空頭回補勢頭將持續。"
-    },
-    {
-      "id": "te:markets:571921",
-      "time": "2026-08-03 08:38:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Yen Extends Rally as Japan Confirms Intervention — The Japanese yen strengthened past 156 per dollar on Monday, bringing its gains to nearly 5% over three sessions, after the Finance Ministry confirmed it carried out coordinated yen-buying operations with the US Treasury last week following the currency's slide to 40-year lows. Japanese authorities also warned they stand ready to conduct additional coordinated interventions if needed, adding that they remain in close contact with their US counterparts. US Treasury Secretary Scott Bessent also confirmed the joint action to counter disorderly moves in the yen, while President Donald Trump previously said the US joined last week's coordinated intervention as a show of support for Japan and to help safeguard global economic stability. The yen had fallen to four-decade lows last month amid pressure from elevated energy costs, mounting fiscal concerns, and persistently wide interest rate differentials."
     }
   ]
 }
