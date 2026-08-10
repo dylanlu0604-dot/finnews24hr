@@ -1,7 +1,190 @@
 {
   "date": "2026-08-10",
-  "count": 2022,
+  "count": 2044,
   "items": [
+    {
+      "id": "mkt:019feb8c-60bb-7aab-8fd9-34ff5f1a3ee5",
+      "time": "2026-08-10 20:01:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ASML (ASML.O) disclosed transactions under its current share buyback program."
+    },
+    {
+      "id": "mkt:019feb8c-49e1-7aab-8fd9-2eb1827cb77f",
+      "time": "2026-08-10 20:01:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 0.11% at the opening of the evening session on Monday Aug 10, trading at 940.11 yuan/gram. Silver T+D rose 2.67% to 15,640.0 yuan/kg at the same session open."
+    },
+    {
+      "id": "mkt:019feb8c-255b-7aab-8fd9-253351067d43",
+      "time": "2026-08-10 20:00:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Romania's central bank kept its policy rate at 6.50%, in line with market expectations."
+    },
+    {
+      "id": "5034101",
+      "time": "2026-08-10 20:00:46",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大至8月7日全國經濟信心指數 53，前值52.8。"
+    },
+    {
+      "id": "mkt:019feb8b-a2a2-7aab-8fd9-1ea50d9fe0b3",
+      "time": "2026-08-10 20:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada national economic confidence index 53 as of Aug. 7; prior 52.8."
+    },
+    {
+      "id": "mkt:019feb8b-86e2-7aab-8fd9-16ade94861a7",
+      "time": "2026-08-10 20:00:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | National Economic Confidence Index (Aug.7) | actual 53 | previous 52.8"
+    },
+    {
+      "id": "5034100",
+      "time": "2026-08-10 20:00:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "Anthropic將為消費者承擔電價上漲帶來的成本。"
+    },
+    {
+      "id": "5034099",
+      "time": "2026-08-10 20:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅馬尼亞國家銀行維持基準利率在6.50%不變；預計利率為6.50%。"
+    },
+    {
+      "id": "mkt:019feb8a-e11c-7aab-8fd9-0958b68f255e",
+      "time": "2026-08-10 19:59:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC, Macquarie Asset Management and Singapore's GIC announce strategic partnership."
+    },
+    {
+      "id": "5034098",
+      "time": "2026-08-10 19:59:29",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【江波龍：2026年上半年營收240.88億元 同比增長136.26%】江波龍公告稱，2026年半年度，公司實現營業收入240.88億元，達上市以來同期峰值，同比增長136.26%。上半年研發投入8.51億元，同比增長91.02%，推出mSSD、AILPBGA、AIDIMM等新產品，車規級UFS 4.1儲存產品也已釋出。公司還完善治理結構、加強投資者溝通，2026年上半年舉辦業績說明會及調研活動33場，回覆互動易問題276次。2026年6月2日完成利潤分配，每10股派發現金紅利9.91元（含稅）。"
+    },
+    {
+      "id": "mkt:019feb8a-7173-7aab-8fd9-05f46c13101e",
+      "time": "2026-08-10 19:59:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Jiangbolong reported 1H2026 net profit attributable to owners of the parent of 10.577 billion yuan, a 71,528.66% YoY increase."
+    },
+    {
+      "id": "5034097",
+      "time": "2026-08-10 19:58:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【遊戲驛站考慮撤回 560 億美元收購 eBay 的要約】遊戲驛站執行長瑞安・科恩正考慮撤回公司對 eBay 價值 560 億美元的收購要約。取而代之，遊戲驛站或將提議建立合作關係，藉助其在美國約 1600 家門店，擴大兩家公司在交易卡牌與收藏品領域的業務佈局。報道稱，持有 eBay 9.75% 股份的遊戲驛站，希望依據該合作協議獲得董事會席位。目前尚未作出最終決定。"
+    },
+    {
+      "id": "5034096",
+      "time": "2026-08-10 19:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問辦公助理收費 會員套餐分旗艦、精英、高階三檔】記者獲悉，千問辦公助理推出收費服務。千問App的App Store頁面顯示，其辦公助理會員套餐共分旗艦、精英、高階三檔。其中旗艦套餐月付價128元/月、年付價1499元/年；精英套餐月付價49元/月、年付價568元/年；高階套餐年付價200元/年。同時，影片生成額度10個/50個/100個/200個/500個對應價格在26元至968元不等。針對千問辦公助理收費，截至發稿，阿里方面暫無回應。"
+    },
+    {
+      "id": "5034095",
+      "time": "2026-08-10 19:57:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科磁業：擬發行不超6.09億元可轉債用於稀土永磁專案】中科磁業公告，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過6.09億元（含），扣除發行費用後擬用於熱管理系統與機器人用高效能稀土永磁元件智慧製造及產業化專案（投資額49,729.37萬元，擬投入45,905.38萬元）及補充流動資金（15,000.00萬元）。本次發行已獲公司第三屆董事會第十次會議審議透過，尚需經股東會審議、深交所稽核及中國證監會註冊後方可實施。"
+    },
+    {
+      "id": "5034094",
+      "time": "2026-08-10 19:57:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "麥格理集團：各方將攜手識別並開發新地塊，由Anthropic公司作為主承租商戶，初期重點聚焦美國市場。"
+    },
+    {
+      "id": "5034093",
+      "time": "2026-08-10 19:57:40",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【江波龍：擬以4億元-8億元回購公司股份】江波龍公告，擬以不低於人民幣4億元（含本數）且不超過人民幣8億元（含本數）的自有資金或自籌資金回購公司股份，回購價格不超過735元/股。回購股份將用於股權激勵或員工持股計劃，若公司未能在股份回購實施結果暨股份變動公告日後三年內使用完畢，尚未使用的已回購股份將依法予以登出。"
+    },
+    {
+      "id": "5034092",
+      "time": "2026-08-10 19:57:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聚飛光電光耦產品獲德國VDE官方認證】聚飛光電光耦產品透過DIN EN IEC 60747-5-5（VDE 0884-5:2021-10）、EN IEC 60747-5-5:2020最新標準，獲VDE認證。據悉，VDE（德國電氣電子及資訊科技協會）認證是全球電氣領域最具公信力的安全認證之一。(人民財訊)"
+    },
+    {
+      "id": "mkt:019feb89-06ee-7aab-8fd8-fda8b7dd71da",
+      "time": "2026-08-10 19:57:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jufei Optoelectronics optocouplers receive VDE certification】Jufei Optoelectronics said its optocoupler products have passed DIN EN IEC 60747-5-5 (VDE 0884-5:2021-10) and EN IEC 60747-5-5:2020 standards and obtained VDE certification. VDE is among the world's most authoritative electrical safety certifications."
+    },
+    {
+      "id": "5034091",
+      "time": "2026-08-10 19:57:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪表示，因擔憂與泰勒農場召回事件相關的沙門氏菌風險，已下架受影響的含墨西哥辣椒的預製食品。"
+    },
+    {
+      "id": "mkt:019feb88-d16a-7aab-8fd8-f4420e19bbc7",
+      "time": "2026-08-10 19:57:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Ukraine has lowered its grain export forecast after Russian attacks on its ports."
+    },
+    {
+      "id": "5034090",
+      "time": "2026-08-10 19:57:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "遊戲驛站（GameStop）的科恩正考慮提議建立合作關係或組建合資企業。"
+    },
+    {
+      "id": "5034089",
+      "time": "2026-08-10 19:56:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭農業部長表示，因該國港口遇襲，烏克蘭已將2026/27作物年度穀物出口預測從此前的4300萬噸下調至3800萬至4000萬噸。"
+    },
     {
       "id": "5034088",
       "time": "2026-08-10 19:56:51",
