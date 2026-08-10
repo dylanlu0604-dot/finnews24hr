@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-11 06:42:13",
+  "updated": "2026-08-11 06:46:07",
   "count": 15810,
   "items": [
+    {
+      "id": "te:markets:574209",
+      "time": "2026-08-11 06:44:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 1.86% — Top crypto losers are Ether (-1.86%) and Bitcoin (-1.41%)."
+    },
+    {
+      "id": "5034634",
+      "time": "2026-08-11 06:42:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週二財經資訊提醒（以下均為北京時間）】 \n① 全天 日本休市；\n② 12:30 澳洲聯儲公佈利率決議和貨幣政策宣告；\n③ 13:30 澳洲聯儲主席布洛克召開貨幣政策新聞釋出會；\n④ 港股盤後 騰訊音樂釋出業績報告；\n⑤ 時間待定 第六屆全球固態電池年度峰會在美國開幕（8月11-12日）；\n⑥ 22:00 美國7月成屋銷售總數年化；\n⑦ 23:00 美國紐約聯儲釋出信用報告；\n⑧ 次日00:00 美國能源資訊署（EIA）釋出短期能源展望報告（STEO）；\n⑨ 美股盤後 Lumentum、CoreWeave、超微電腦等釋出業績報告。"
+    },
     {
       "id": "te:markets:574208",
       "time": "2026-08-11 06:39:59",
@@ -143918,25 +143939,6 @@
         "其他"
       ],
       "text": "【城堡證券稱美股牛市驅動因素依然穩固 散戶槓桿押注降溫】城堡證券表示，在散戶投資者投機交易降溫之後，推動美股今年創下紀錄新高的因素依然穩固。“市場正從資金流主導的環境，重新迴歸由盈利、企業需求和宏觀背景主導的環境，”這家做市商的股票及股票衍生品策略主管Scott Rubner在給客戶的報告中寫道。根據城堡證券資料，散戶投資者上週單週股票拋售創2022年以來最大。Rubner表示，散戶拋售主要集中在科技股。Rubner稱，散戶撤退使槓桿型交易所交易基金（ETF）的資產規模下降28%，至1540億美元。與此同時，股票融資成本已經下降，這表明華爾街交易部門面臨的壓力減輕，市場對槓桿資金的需求下降。"
-    },
-    {
-      "id": "te:markets:572287",
-      "time": "2026-08-04 06:45:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Depreciates by 1.40% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.40% decrease."
-    },
-    {
-      "id": "5023266",
-      "time": "2026-08-04 06:44:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "提醒：美國政府臨時融資立法草案在參議院透過程式性投票，這為參議院全體表決掃清了障礙。"
     }
   ]
 }
