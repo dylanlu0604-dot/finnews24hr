@@ -1,7 +1,29 @@
 {
   "date": "2026-08-11",
-  "count": 321,
+  "count": 323,
   "items": [
+    {
+      "id": "5034609",
+      "time": "2026-08-11 05:28:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔響起防空警報。"
+    },
+    {
+      "id": "mkt:019fed94-1770-7aab-8fe1-55673c1b40ce",
+      "time": "2026-08-11 05:28:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Air-raid sirens sounded in Kyiv, Ukraine."
+    },
     {
       "id": "mkt:019fed93-b31c-7aab-8fe1-4853e9090bdf",
       "time": "2026-08-11 05:28:27",
