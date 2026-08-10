@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-10 14:51:19",
-  "count": 15973,
+  "updated": "2026-08-10 14:55:33",
+  "count": 15972,
   "items": [
+    {
+      "id": "5033408",
+      "time": "2026-08-10 14:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東物流與迅銷集團達成戰略合作 將共建全球物流供應鏈網路】據“京東物流黑板報”，近日，京東物流與迅銷集團達成戰略合作，雙方將攜手共建全球物流供應鏈網路，全面提升供應鏈自動化、數字化與可持續發展水平。京東物流將為迅銷集團旗下品牌打造海外配送服務體系，助力其電商物流進一步實現降本增效。"
+    },
+    {
+      "id": "5033407",
+      "time": "2026-08-10 14:54:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【鴿子飛進車廂致日本新幹線緊急停車】據日本媒體報道，今天（8月10日）上午，日本東北新幹線開往新青森站的一列列車車廂內闖入了一位“不速之客”：一隻鴿子，引發騷動。列車緊急臨時停車。工作人員手持捕網進入車廂追趕鴿子。鴿子時而鑽進行李架，時而在乘客間穿梭，最終被捕獲。這起小意外導致列車晚點了大約8分鐘。目前還不清楚這隻鴿子究竟是何時、以何種方式進入車廂內的。（CCTV國際時訊）"
+    },
+    {
+      "id": "5033406",
+      "time": "2026-08-10 14:53:03",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通依舊看好全球股市 認為週期股將領漲】摩根大通策略師仍看好全球股市，並預計下半年上漲行情將擴大；隨著企業盈利和經濟活動指標改善，週期股有望重新取得領先地位，跑贏低波動股票。Mislav Matejka帶領的團隊在報告中寫道，預計指數將在下半年創新高，並表示倉位遠未達到極端水平，且第二季度財報季令人安心。週期性板塊中，他們重點關注銀行、奢侈品、建築材料、採礦、工業和週期性消費行業；青睞新興市場和歐元區市場。科技和半導體板塊在近期上漲勢頭消退後可能會趨於穩定，但不會引領市場反彈；也不太青睞能源、必需消費品、軟體和媒體板塊。通脹風險低於2022年，勞動力市場資料走軟將減輕美聯儲面臨的壓力；美元走軟將對股市，尤其是國際股市構成支撐。"
+    },
+    {
+      "id": "mkt:019fea71-45cf-7aab-8fd3-5ed6d6901a48",
+      "time": "2026-08-10 14:51:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "RIA reported that Ukraine launched a drone strike on Nizhnekamsk, Russia, killing 12 and injuring 39."
+    },
+    {
+      "id": "te:markets:574049",
+      "time": "2026-08-10 14:51:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Retreats After Inflation Data — The offshore yuan weakened to around 6.74 per dollar on Monday, retreating from a more than three-year high reached in the previous session, as softer inflation data underscored persistent weakness in domestic demand. Annual consumer inflation eased to a six-month low of 0.5% in July, reflecting declines in food prices and slower growth in non-food costs. Producer price inflation also moderated to 3.5% from 4.1%, marking its first slowdown since returning to positive territory in March amid an oil-price surge triggered by Middle East tensions. Meanwhile, the Political Bureau of the Communist Party of China Central Committee recently pledged more proactive and effective macroeconomic policies, including the faster deployment of fiscal funds and bond proceeds, while continuing to support large-scale equipment upgrades and consumer goods trade-in programs. It also emphasized the need to boost domestic demand as consumer spending remains subdued despite solid exports and industrial output."
+    },
+    {
+      "id": "5033405",
+      "time": "2026-08-10 14:51:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄新社：烏克蘭無人機襲擊俄羅斯下卡姆斯克，造成12人死亡、39人受傷。"
+    },
     {
       "id": "5033404",
       "time": "2026-08-10 14:50:03",
@@ -145385,64 +145443,6 @@
         "PFE.O"
       ],
       "text": "【Chinese tech sector increasingly crossing the 'visible line'】Pfizer struck a collaboration with Cinda Biopharma on 12 early-stage and de novo oncology R&D projects, with an upfront payment of $650m. In July, Moonshot AI released KimiK3 and DeepSeek rolled out the DeepSeek-V4-Flash API in public beta. Chinese advanced robotics equipment has also attracted heightened international attention. Jiang Zhao, deputy researcher at MOFCOM's Research Institute of International Trade and Economic Cooperation, said shorter industry iteration cycles reflect both faster global tech commercialization and a shift in China’s innovation capacity—domestic development is moving into sync with global frontiers and showing faster, more proactive autonomous iteration."
-    },
-    {
-      "id": "5021800",
-      "time": "2026-08-03 14:55:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【山火致美國華盛頓州6萬人撤離】美國官員2日說，西北部華盛頓州斯波坎縣發生的山火正威脅該縣斯波坎市，大約6萬名居民接到撤離指令。包括民宅和商鋪在內，大約600座建築物遭焚燬。暫無人員傷亡報告。（央視新聞）"
-    },
-    {
-      "id": "5021799",
-      "time": "2026-08-03 14:55:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫療保障局面向社會公開徵集醫保數字人形象】為進一步做好醫保宣傳與便民服務工作，推動人工智慧技術與醫保服務深度融合，打造醫保系統親民、專業、高效的數字服務形象，現面向社會公開徵集醫保數字人形象設計方案。具體通知如下。本次徵集內容為國家醫保數字人整體形象設計方案，具體要求包括：數字人的整體視覺形象，端莊、大方、健康，積極向上且有活力與親和力，體態勻稱，青年男女各一人。（國家醫保局）"
-    },
-    {
-      "id": "5021798",
-      "time": "2026-08-03 14:53:26",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【玉淵譚天：中國科技產業，正在批次越過“可見線”】最近有個現象值得注意，不同領域的中國科技產業，接連進入全球市場和國際媒體的視野。\n\n剛剛過去的7月，中國大模型公司月之暗面釋出Kimi K3；DeepSeek-V4-Flash正式版API上線公測。兩次模型更新之外，中國先進機器人裝置同樣成為國際社會的關注焦點之一。此前不久，美國生物製藥公司輝瑞又與中國信達生物製藥就12個腫瘤早期及源頭創新研發專案達成合作，首付款達到6.5億美元。\n\n這背後，是中國長期積累的產業能力，正在集中越過“可見線”。"
-    },
-    {
-      "id": "5021797",
-      "time": "2026-08-03 14:52:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鎧俠：子公司被美法院判賠2.29億美元，不可接受、將採取一切可行法律手段】鎧俠8月3日釋出公告稱，旗下子公司在涉及美國衛星通訊企業Viasat的訴訟中被美國得州西區聯邦地區法院判付2.29億美元賠償金，已在第一季度計提訴訟損失準備金。鎧俠表示，公司認為Viasat的主張及該判決完全不可接受，並打算採取一切可行的法律手段，包括在必要時提起上訴。"
-    },
-    {
-      "id": "mkt:019fc664-c902-7aab-8f50-19521dca4c84",
-      "time": "2026-08-03 14:52:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Government Offices Administration: asset verification and remediation at central administrative institutions largely completed】The National Government Offices Administration said it recently completed verification and remediation of housing, land and official-vehicle assets at central administrative and public institutions, establishing a baseline inventory and resolving a number of long-standing legacy issues. The agency said the work lays a firm foundation for mobilizing and sharing the stock of state-owned assets in administrative and public institutions during the 15th Five-Year Plan period."
-    },
-    {
-      "id": "5021796",
-      "time": "2026-08-03 14:51:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商證券： 建議重點關注科技方向的修復以及新能源與資源品等業績高增方向 】招商證券研報稱：展望8月，我們判斷A股仍處於盈利驅動的上行第三階段，以科技為代表的業績高增方向，將完成從敘事到財報、由估值至盈利的驗證。近期科技方向調整較大，是典型的流動性衝擊，在政策、產業趨勢與微觀流動性共同支撐下，我們認為調整基本告一段落，市場將迎來蓄勢上攻。方向選擇上，建議重點關注科技方向的修復以及新能源與資源品等業績高增方向。"
-    },
-    {
-      "id": "5021795",
-      "time": "2026-08-03 14:51:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿斯利康股價在Tradegate交易所下跌2.75%。"
     }
   ]
 }
