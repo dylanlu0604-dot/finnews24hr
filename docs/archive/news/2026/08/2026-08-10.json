@@ -1,7 +1,83 @@
 {
   "date": "2026-08-10",
-  "count": 257,
+  "count": 265,
   "items": [
+    {
+      "id": "5032798",
+      "time": "2026-08-10 08:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國今年內氣溫達到或超30攝氏度天數創新高】截至當地時間9日，英國今年內氣溫達到或超過30攝氏度的天數累計已達35天，打破1995年創下的34天紀錄。英國氣象部門表示，該國即將迎來今年第五輪高溫天氣，預計下週東部和東南部部分地區氣溫將升至36攝氏度。今年夏季，英國已出現多輪高溫天氣，諾福克郡記錄的38攝氏度為今年最高氣溫。7月則成為英格蘭和威爾士有記錄以來最乾燥的7月之一，乾旱和山火風險隨之上升。"
+    },
+    {
+      "id": "mkt:019fe8fc-479d-7aab-8fcd-4c4a2576a9ba",
+      "time": "2026-08-10 08:04:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan July meeting summary: a Cabinet Office representative said appropriate monetary policy is essential for a robust economy and price stability, and expressed hope the BOJ will adopt suitable policy and closely coordinate policy with the government."
+    },
+    {
+      "id": "5032797",
+      "time": "2026-08-10 08:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【上週ETF資金整體淨流出743.59億元】據同花順iFinD資料顯示，8月3日-8月7日，ETF資金整體淨流出743.59億元，股票型淨流出762.76億元，寬基型淨流出471.63億元。當週ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出75.94億元，易方達創業板ETF（159915）淨流出72.02億元，華泰柏瑞滬深300ETF（510300）淨流出63.38億元。當週ETF日均成交額榜單排名前3依次為：海富通中證短融etf（511360）日均成交額222.10億元，華泰柏瑞中證韓交所中韓半導體etf(qdii)（513310）日均成交額198.12億元，銀華日利（511880）日均成交額158.38億元。"
+    },
+    {
+      "id": "5032796",
+      "time": "2026-08-10 08:03:14",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行"
+      ],
+      "text": "【機構：澳大利亞央行料將在政策會議上保持冷靜並觀察資料】就在幾周前，澳大利亞央行8月份的政策會議似乎還充滿爭議。但在第二季度CPI報告表現疲軟之後，市場預期已趨於一致，認為週二極有可能做出維持利率不變的決定。摩根大通首席經濟學家Ben Jarman表示，澳大利亞央行在今年早些時候針對供應衝擊採取了積極的緊縮政策，由於通脹大幅低於預期，該行現在有空間按兵不動。他補充說，通脹回升僅集中在商品和能源領域，這支援了5月份的加息將是本週期最後一次加息的觀點。"
+    },
+    {
+      "id": "mkt:019fe8fa-c6b2-7aab-8fcd-42505cce2adc",
+      "time": "2026-08-10 08:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened 34.58 points higher on Monday, Aug. 10, at 6,293.35, up 0.55%."
+    },
+    {
+      "id": "mkt:019fe8fa-c67e-7aab-8fcd-39eaed7c93eb",
+      "time": "2026-08-10 08:02:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened 332.18 points higher, or 0.51%, at 65,938.89 on Aug. 10 (Monday)."
+    },
+    {
+      "id": "te:economy:573932",
+      "time": "2026-08-10 08:02:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Eases in July — Japan’s bank lending rose 5.4% year-on-year in July 2026, slowing from a five-year high of 5.7% increase in the previous month. Outstanding loans at major, regional, and shinkin banks averaged JPY 679.2 trillion, up from JPY 679.0 trillion in June. Lending at major and regional banks increased 5.9%, easing from 6.2% in June, with major-bank lending growth slowing to 8.0% from 8.6%, while regional-bank lending remained unchanged at 4.2%. Within regional banks, lending growth was steady at 4.6% for regional banks I and 2.4% for regional banks II. Meanwhile, lending by shinkin banks accelerated to 1.9% from 1.7%, marking the strongest growth since early 2023."
+    },
+    {
+      "id": "5032795",
+      "time": "2026-08-10 08:02:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Uber CEO: Robotaxi正在迎來商業化時刻。"
+    },
     {
       "id": "5032794",
       "time": "2026-08-10 08:02:42",

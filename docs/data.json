@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-10 08:03:15",
-  "count": 15924,
+  "updated": "2026-08-10 08:07:04",
+  "count": 15922,
   "items": [
+    {
+      "id": "5032798",
+      "time": "2026-08-10 08:05:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國今年內氣溫達到或超30攝氏度天數創新高】截至當地時間9日，英國今年內氣溫達到或超過30攝氏度的天數累計已達35天，打破1995年創下的34天紀錄。英國氣象部門表示，該國即將迎來今年第五輪高溫天氣，預計下週東部和東南部部分地區氣溫將升至36攝氏度。今年夏季，英國已出現多輪高溫天氣，諾福克郡記錄的38攝氏度為今年最高氣溫。7月則成為英格蘭和威爾士有記錄以來最乾燥的7月之一，乾旱和山火風險隨之上升。"
+    },
+    {
+      "id": "mkt:019fe8fc-479d-7aab-8fcd-4c4a2576a9ba",
+      "time": "2026-08-10 08:04:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan July meeting summary: a Cabinet Office representative said appropriate monetary policy is essential for a robust economy and price stability, and expressed hope the BOJ will adopt suitable policy and closely coordinate policy with the government."
+    },
+    {
+      "id": "5032797",
+      "time": "2026-08-10 08:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【上週ETF資金整體淨流出743.59億元】據同花順iFinD資料顯示，8月3日-8月7日，ETF資金整體淨流出743.59億元，股票型淨流出762.76億元，寬基型淨流出471.63億元。當週ETF資金淨流出榜單排名前3依次為：南方中證1000ETF（512100）淨流出75.94億元，易方達創業板ETF（159915）淨流出72.02億元，華泰柏瑞滬深300ETF（510300）淨流出63.38億元。當週ETF日均成交額榜單排名前3依次為：海富通中證短融etf（511360）日均成交額222.10億元，華泰柏瑞中證韓交所中韓半導體etf(qdii)（513310）日均成交額198.12億元，銀華日利（511880）日均成交額158.38億元。"
+    },
+    {
+      "id": "5032796",
+      "time": "2026-08-10 08:03:14",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行"
+      ],
+      "text": "【機構：澳大利亞央行料將在政策會議上保持冷靜並觀察資料】就在幾周前，澳大利亞央行8月份的政策會議似乎還充滿爭議。但在第二季度CPI報告表現疲軟之後，市場預期已趨於一致，認為週二極有可能做出維持利率不變的決定。摩根大通首席經濟學家Ben Jarman表示，澳大利亞央行在今年早些時候針對供應衝擊採取了積極的緊縮政策，由於通脹大幅低於預期，該行現在有空間按兵不動。他補充說，通脹回升僅集中在商品和能源領域，這支援了5月份的加息將是本週期最後一次加息的觀點。"
+    },
+    {
+      "id": "mkt:019fe8fa-c6b2-7aab-8fcd-42505cce2adc",
+      "time": "2026-08-10 08:02:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI opened 34.58 points higher on Monday, Aug. 10, at 6,293.35, up 0.55%."
+    },
+    {
+      "id": "mkt:019fe8fa-c67e-7aab-8fcd-39eaed7c93eb",
+      "time": "2026-08-10 08:02:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened 332.18 points higher, or 0.51%, at 65,938.89 on Aug. 10 (Monday)."
+    },
+    {
+      "id": "5032795",
+      "time": "2026-08-10 08:02:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Uber CEO: Robotaxi正在迎來商業化時刻。"
+    },
+    {
+      "id": "te:economy:573932",
+      "time": "2026-08-10 08:02:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Loan Growth",
+        "Importance 1"
+      ],
+      "text": "Japan Bank Lending Growth Eases in July — Japan’s bank lending rose 5.4% year-on-year in July 2026, slowing from a five-year high of 5.7% increase in the previous month. Outstanding loans at major, regional, and shinkin banks averaged JPY 679.2 trillion, up from JPY 679.0 trillion in June. Lending at major and regional banks increased 5.9%, easing from 6.2% in June, with major-bank lending growth slowing to 8.0% from 8.6%, while regional-bank lending remained unchanged at 4.2%. Within regional banks, lending growth was steady at 4.6% for regional banks I and 2.4% for regional banks II. Meanwhile, lending by shinkin banks accelerated to 1.9% from 1.7%, marking the strongest growth since early 2023."
+    },
     {
       "id": "5032794",
       "time": "2026-08-10 08:02:42",
@@ -145002,91 +145078,6 @@
         "其他"
       ],
       "text": "【浙江印發實施方案，進一步強化企業主導的產學研融通創新】近日，浙江省科技廳印發《關於創新聯合實驗室建設機制 提升融合協同質效的實施方案》，自2026年9月1日起施行。《實施方案》提出，到2030年，全省選樹300家左右標杆型聯合實驗室；依託聯合實驗室定向佈局重大科技攻關專案，突破500項以上關鍵核心技術難題。《實施方案》明確，多維度評價遴選一批示範效應突出的標杆聯合實驗室；聯動推進聯合實驗室建設與“科技副總”派駐，協助企業凝練需求、“精準出題”；對於企業實際投入1000萬元及以上，且符合戰略導向、預期可取得重大成果的攻關任務，可定向委託該聯合實驗室或牽頭企業實施。"
-    },
-    {
-      "id": "5021221",
-      "time": "2026-08-03 08:07:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1%至267.04點。"
-    },
-    {
-      "id": "5021220",
-      "time": "2026-08-03 08:06:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國地球科學研究中心（GFZ）：埃及發生5.39級地震。"
-    },
-    {
-      "id": "5021219",
-      "time": "2026-08-03 08:06:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱美伊今天談判】美國總統特朗普當地時間8月2日稱，美國將於次日（8月3日）和伊朗進行談判。伊朗方面尚未對此作回應。當被問及為何取消原定打擊行動時，特朗普說，“那本來會是一場大規模的打擊行動，將是自二戰以來規模最大的一次”，但沙烏地阿拉伯、阿聯酋、卡達等盟友請求取消行動，他也認為美伊能就霍爾木茲海峽達成協議，還會就伊朗核問題達成協議。 特朗普說，伊朗方面也請求美國取消原定的打擊行動，並表示“我們現在正在以談判的形式與他們對話”。他還補充道，“談判將於明天（8月3日）下午開始”。 （CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019fc4f1-514a-7aab-8f4a-33856740aed8",
-      "time": "2026-08-03 08:06:17",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【JP Morgan: US Treasury's firepower to intervene in yen limited】JP Morgan says the US Treasury has limited liquidity to support coordinated yen intervention with Japan, though unconventional steps could materially expand capacity. Strategists Junya Tanase et al. note the Treasury's Exchange Stabilization Fund held about €13bn of euro assets and $25.5bn of other foreign assets as of June, small versus Japan's roughly $35–60bn intervention scale in 2022–26. Converting IMF Special Drawing Rights into dollars and swapping foreign-currency assets into dollars could, in theory, boost Treasury firepower to about $187bn; Federal Reserve participation could effectively double that. JP Morgan adds it does not expect unlimited Treasury intervention because ESF resources are finite and additional funding would likely require congressional appropriation."
-    },
-    {
-      "id": "5021218",
-      "time": "2026-08-03 08:06:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價下跌3%。"
-    },
-    {
-      "id": "5021217",
-      "time": "2026-08-03 08:06:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "受日元走強和半導體行業前景擔憂的影響，日經平均指數下跌超過1200點。"
-    },
-    {
-      "id": "5021216",
-      "time": "2026-08-03 08:05:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "東京電子股價下跌4.7%。"
-    },
-    {
-      "id": "5021215",
-      "time": "2026-08-03 08:04:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西湖心辰完成數億元B+輪融資】8月3日，大模型公司西湖心辰宣佈已完成B+輪融資，融資金額達數億元人民幣，由廣發信德領投，西湖創新投、武漢江豚基金、容億投資、南通投管等多家機構跟投，獵聘戰投、58產業基金等產業資本參與，老股東螞蟻集團、湯姆貓提供全面支援。融資資金將主要用於新一代擴散語言模型的持續研發、旗下原生多模態實時互動產品的深度迭代，以及海外市場的進一步拓展。"
-    },
-    {
-      "id": "5021214",
-      "time": "2026-08-03 08:04:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利將關閉唯一核電站】匈牙利總理毛焦爾·彼得日前表示，由於多瑙河水位降至歷史新低、冷卻水源不足，該國唯一的核電站——保克什核電站將首次完全關閉。匈牙利將面臨歷史上前所未有的能源供應危機。"
-    },
-    {
-      "id": "5021213",
-      "time": "2026-08-03 08:03:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【訊息人士：阿斯利康與百時美施貴寶就一筆4000億美元的鉅額交易進行了磋商】據一位知情人士透露，阿斯利康與百時美施貴寶就潛在合併事宜進行了初步磋商，若交易達成，將締造一家總市值近4000億美元的全球最大製藥公司之一。該匿名人士表示，由於外界擔憂在唐納德·特朗普總統領導下的美國反壟斷機構將如何評估這筆交易，潛在的合併交易將面臨監管風險。特朗普一直致力於推動該行業的國內投資並擴大美國製造業規模。儘管阿斯利康去年公佈了 計劃，擬在美國直接上市，旨在利用美國市場更高的估值，但此類交易意味著一家總部位於英國的公司實際上將收購一家美國製藥巨頭。"
     }
   ]
 }
