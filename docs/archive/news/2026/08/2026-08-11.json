@@ -1,7 +1,104 @@
 {
   "date": "2026-08-11",
-  "count": 165,
+  "count": 174,
   "items": [
+    {
+      "id": "mkt:019fed05-3ba3-7aab-8fdf-8dc50b14bef6",
+      "time": "2026-08-11 02:52:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【U.S. federal deficit for first 10 months of fiscal 2026 at $1.8 trillion】Aug 10 — The Congressional Budget Office estimates the U.S. federal budget deficit for the first 10 months of fiscal 2026 at $1.8 trillion, $169 billion wider YoY as receipts rose $139 billion (3%) while outlays rose $308 billion (5%)."
+    },
+    {
+      "id": "mkt:019fed05-1154-7aab-8fdf-858a380ec8ef",
+      "time": "2026-08-11 02:52:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $87.72/bbl, up $4.17 or 4.99%."
+    },
+    {
+      "id": "5034521",
+      "time": "2026-08-11 02:52:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元上漲1%，報159.32。"
+    },
+    {
+      "id": "mkt:019fed04-7a9c-7aab-8fdf-7bf84be6eddf",
+      "time": "2026-08-11 02:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. July average temperature highest on record since 1895】NOAA data show July was the hottest month on record for the contiguous U.S., with the lower 48 averaging 3.3°F above 20th-century levels. A prolonged, intense heat dome drove record monthly highs from the East Coast through the Great Plains and the Southwest; July’s nationwide average was roughly 0.1–0.2°F higher than previous record months in July 1936 and July 2012."
+    },
+    {
+      "id": "mkt:019fed04-6f6f-7aab-8fdf-7636000c2947",
+      "time": "2026-08-11 02:51:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's HAMMACK said markets are a complement to the Fed, not a substitute."
+    },
+    {
+      "id": "mkt:019fed03-a606-7aab-8fdf-688df48acf47",
+      "time": "2026-08-11 02:51:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Hammack said the labor market still shows no signs of problems."
+    },
+    {
+      "id": "mkt:019fed03-4e1d-7aab-8fdf-64ea244661c9",
+      "time": "2026-08-11 02:50:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack said he does not expect inf to fall on its own."
+    },
+    {
+      "id": "5034520",
+      "time": "2026-08-11 02:50:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：我們必須以行動兌現言辭。"
+    },
+    {
+      "id": "5034519",
+      "time": "2026-08-11 02:50:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：市場是美聯儲的補充，而非替代品。"
+    },
     {
       "id": "mkt:019fed02-5b15-7aab-8fdf-5cbbb47de3e9",
       "time": "2026-08-11 02:49:42",
