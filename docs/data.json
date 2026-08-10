@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-10 16:25:28",
-  "count": 15925,
+  "updated": "2026-08-10 16:29:54",
+  "count": 15915,
   "items": [
+    {
+      "id": "5033589",
+      "time": "2026-08-10 16:27:27",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【孫碩鵬任民政部副部長】據人社部網站2026年8月10日訊息，國務院任免國家工作人員。任命孫碩鵬為民政部副部長；任命蔣瑋（女）為中國老齡協會會長。免去羅文的國家市場監督管理總局局長職務；免去孫碩鵬的中國老齡協會會長職務。（澎湃新聞）"
+    },
+    {
+      "id": "5033588",
+      "time": "2026-08-10 16:26:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱眾股份：累計回購股份佔總股本1.05% 金額近2800萬元】凱眾股份公告稱，截至2026年8月7日，公司以集中競價交易方式累計回購股份279.9398萬股，佔總股本的1.05%，較上次披露增加0.61%。回購價格在9.59元/股至10.30元/股之間，已支付總金額約2797.32萬元。公司於2026年7月21日透過回購議案，預計回購金額3000萬元（含）至6000萬元（含），回購期限至2027年7月20日，回購股份用於員工持股計劃或股權激勵。"
+    },
+    {
+      "id": "5033587",
+      "time": "2026-08-10 16:26:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江榮泰增資至4.7億 增幅約30%】天眼查App顯示，近日，浙江榮泰電工器材股份有限公司發生工商變更，註冊資本由約3.6億人民幣增至約4.7億人民幣，增幅約30%。該公司成立於1998年4月，法定代表人為曹梅盛，經營範圍包括汽車零部件及配件製造、雲母製品製造、隔熱和隔音材料製造等。"
+    },
+    {
+      "id": "5033586",
+      "time": "2026-08-10 16:25:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濰柴重機：2025年度利潤分配方案將實施 每10股派1.16元】濰柴重機公告稱，2025年度利潤分配方案已獲2026年6月29日股東會透過，將以總股本4.64億股為基數，向全體股東每10股派發現金紅利1.16元（含稅），不送紅股，不轉增股本。股權登記日為2026年8月17日，除權除息日為8月18日。委託中國結算深圳分公司代派的A股股東現金紅利將於8月18日到賬，濰柴控股集團等2家A股股東現金紅利由公司自行派發。"
+    },
+    {
+      "id": "mkt:019feac6-cedf-7aab-8fd5-86c3a0034bd0",
+      "time": "2026-08-10 16:25:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesperson said the closure of the Strait of Hormuz was not caused by a dispute between Iran and Oman."
+    },
     {
       "id": "5033585",
       "time": "2026-08-10 16:24:36",
@@ -144826,142 +144866,6 @@
         "Important"
       ],
       "text": "United Kingdom | Manufacturing PMI (Jul) | actual 51.9 | consensus 52.8 | previous 52.8"
-    },
-    {
-      "id": "5022025",
-      "time": "2026-08-03 16:29:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長與軍方就撤換高階將領發生公開衝突】以色列國防部長卡茨與軍方就撤換一名高階將領發生“非同尋常的公開衝突”。卡茨2日晚在電視節目上公開宣佈撤換以國防軍中央司令部司令布盧特，以軍方則隨後表態稱，布盧特將留任，總參謀長扎米爾無意調整以軍關鍵指揮官職務。（新華社）"
-    },
-    {
-      "id": "te:economy:572164",
-      "time": "2026-08-03 16:28:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Eurozone Manufacturing Growth Strengthens to Highest Since April — The S&P Global Eurozone Manufacturing PMI rose to 51.9 in July 2026 from 51.4 in June, broadly matching the preliminary estimate of 52.0 and signaling the strongest improvement in factory conditions since April. Manufacturing output expanded at its fastest pace since March 2022, supported by the completion of backlogged orders and a modest increase in new business. However, demand remained subdued, with new orders rising only marginally and export orders declining again. Backlogs of work fell for a third consecutive month, recording the sharpest depletion since January, while manufacturers continued to cut jobs and reduce purchasing activity. Cost pressures remained elevated but eased to a five-month low, allowing factory gate price inflation to soften to its weakest level since March. Meanwhile, business confidence improved to its highest level since February, although it remained below its long-run average."
-    },
-    {
-      "id": "5022024",
-      "time": "2026-08-03 16:27:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【普洛藥業：與劑泰科技簽訂五年期戰略合作框架協議】普洛藥業公告，公司與劑泰科技（北京）股份有限公司於近日簽訂《戰略合作框架協議》，雙方結成戰略合作伙伴，開展CDMO等相關專案的長期合作。合作內容包括CDMO服務合作、潛在的資本與產業協同合作及改良型新藥聯合開發。本協議為框架性協議，不涉及實質性交易，不構成關聯交易，也不構成重大資產重組。協議有效期五年，對公司本年度經營業績不構成重大影響。"
-    },
-    {
-      "id": "5022023",
-      "time": "2026-08-03 16:27:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【潤都股份：雙氯芬酸鈉緩釋片擬中選第十二批國家藥品集採】潤都股份公告，公司參加第十二批全國藥品集中採購投標工作，根據聯採辦2026年7月31日釋出的擬中選結果公示，公司產品雙氯芬酸鈉緩釋片（75mg和100mg）擬中選本次集中採購，採購週期自中選結果執行之日起至2029年12月31日。"
-    },
-    {
-      "id": "5022022",
-      "time": "2026-08-03 16:27:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天順股份：重大訴訟一審勝訴，獲賠代償款5516.24萬元】天順股份公告，公司就與比利時航空公司包機合同糾紛仲裁事宜，向烏魯木齊市頭屯河區人民法院提起對新疆天順中運航空服務有限責任公司的追償訴訟。2026年7月31日，公司收到法院《民事判決書》，判決被告向公司支付代償款人民幣5516.24萬元及資金佔用利息，案件受理費人民幣31.97萬元由被告負擔。本次判決為一審判決，最終結果尚存在不確定性。"
-    },
-    {
-      "id": "mkt:019fc6bb-de41-7aab-8f52-6a7c36eede20",
-      "time": "2026-08-03 16:27:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Mobile plans to publish 2026 interim report on Aug 13, 2026】China Mobile said it plans to publish its 2026 interim report on August 13, 2026, and intends to hold a results briefing the same day from 17:00 to 18:30 to answer investor questions."
-    },
-    {
-      "id": "5022021",
-      "time": "2026-08-03 16:27:00",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【高盛：人工智慧板塊或將迎來盤整階段】高盛策略師表示，經歷近期一輪震盪行情後，人工智慧板塊前景有所好轉。策略師預計，強勁的盈利表現以及投資者持倉回落，將緩解市場劇烈波動。由本・斯奈德牽頭的高盛團隊在研報中指出，人工智慧相關個股在一波強勢趨勢上漲後或將持續波動，但靚麗的二季度業績疊加近期投資者去槓桿，預示市場將進入盤整期，這有望抵消市場對於資本開支攀升的擔憂。斯奈德寫道，AI 板塊波動走勢與以往趨勢性上漲行情規律一致，大漲之後通常會迎來盤整。"
-    },
-    {
-      "id": "5022020",
-      "time": "2026-08-03 16:26:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球記憶體短缺波及蘋果MacBook Air】據科技記者馬克・古爾曼訊息，全球儲存晶片短缺正在影響蘋果這款最熱銷Mac機型的供貨。 古爾曼表示，此次短缺源於各類對晶片需求龐大的AI企業。缺貨問題此前已經衝擊蘋果相對小眾的Mac mini與Mac Studio機型。如今蘋果連MacBook Air都難以維持庫存，多家零售商稱，供應緊張程度達到前所未有的水平。 事實也印證了這一點：消費者如果在蘋果官網訂購MacBook Air，交貨需要等到8月下旬，部分配置機型甚至要等到9月。"
-    },
-    {
-      "id": "mkt:019fc6bb-a84d-7aab-8f52-63cc85196445",
-      "time": "2026-08-03 16:26:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "AI Revolution",
-        "Hang Seng Index"
-      ],
-      "text": "【Moonshot AI may file for Hong Kong IPO this month, could raise about $3bn】Refinitiv IFR reports AI startup Moonshot AI could submit an IPO application to the HKEX as early as this month, seeking roughly $3.0bn (about HK$23.4bn)."
-    },
-    {
-      "id": "mkt:019fc6bb-0c22-7aab-8f52-5d1869956031",
-      "time": "2026-08-03 16:26:14",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Bank of Japan warns AI demand may boost inflation】The Bank of Japan said on Monday global AI-related demand could place sustained upward pressure on Japanese inflation, a development that could reinforce the case for its recent policy tightening. It noted that while AI adoption should raise productivity over the medium to long term and exert downward pressure on prices as firms and workers adjust, in the short term AI-driven investment could lift demand and push prices higher, potentially outweighing productivity gains. The BOJ flagged rising global producer prices partly driven by Middle East-related oil moves and partly by a positive global demand shock for AI-related goods, and said those spillovers, combined with import-cost increases from yen depreciation, could keep domestic inflation elevated for some time."
-    },
-    {
-      "id": "5022019",
-      "time": "2026-08-03 16:26:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產：預計2026/27財年美元兌日元平均匯率為150日元，此前預期同樣為150日元。"
-    },
-    {
-      "id": "5022018",
-      "time": "2026-08-03 16:26:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產：預計2026/27財年全球零售銷量為315萬輛，此前預期為330萬輛。"
-    },
-    {
-      "id": "5022017",
-      "time": "2026-08-03 16:25:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產汽車第一季度淨利潤37.6億日元，預估虧損88.5億日元。"
-    },
-    {
-      "id": "5022015",
-      "time": "2026-08-03 16:25:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產汽車仍然預測全年淨利潤200.0億日元，預估319.8億日元。"
-    },
-    {
-      "id": "5022014",
-      "time": "2026-08-03 16:25:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華北製藥：8個藥品擬中選第十二批全國藥品集中採購】華北製藥公告，公司及下屬子公司華民公司、南方公司參加第十二批全國藥品集中採購投標，環孢素軟膠囊、他克莫司膠囊等8個藥品擬中選本次集中採購，擬中選結果公示期為2026年7月31日至2026年8月5日。其中環孢素軟膠囊2025年度銷售收入1.52億元，佔公司同期營業收入比例1.65%；2026年第一季度銷售收入2826.58萬元，佔比1.31%。採購週期自中選結果執行之日起至2029年12月31日。"
     }
   ]
 }
