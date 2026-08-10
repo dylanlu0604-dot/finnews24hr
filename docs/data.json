@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-10 11:44:10",
-  "count": 15899,
+  "updated": "2026-08-10 11:48:02",
+  "count": 15895,
   "items": [
+    {
+      "id": "5033187",
+      "time": "2026-08-10 11:47:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【退市新規徵求意見，全球晶片LOF跌停，白銀LOF重挫】週一早盤，多隻前期高溢價LOF同步回撥。其中，全球晶片LOF跌停，但溢價仍居高不下、維持在18%；國投白銀LOF盤中一度大跌超8%，溢價率同樣突破18%。行情異動或源於上週末的重磅監管新規。滬深交易所聯合釋出LOF退市新規徵求意見稿，明確兩類產品強制退市情形，精準直擊場內LOF長期存在的高溢價投機炒作、迷你基金流動性枯竭、價格易被操縱等市場頑疾。滬上一位公募人士受訪稱，對於當前溢價率較高的QDII或商品期貨LOF，退市預期或將直接打擊投機情緒。（第一財經）"
+    },
+    {
+      "id": "mkt:019fe9c7-a3c4-7aab-8fd0-8e8fd89d72d9",
+      "time": "2026-08-10 11:46:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Satcom joins MIIT IMT-2030 (6G) non‑terrestrial networks working group】The Department of Information and Communication Development at the Ministry of Industry and Information Technology (MIIT) has established the IMT-2030 (6G) promotion group's non‑terrestrial networks (NTN) working group in Beijing. China Satcom was invited as one of the initial member units. The NTN group will steer and support domestic organizations in developing international technical standards, coordinate the overall layout of 6G satellite-terrestrial integrated networks, cultivate core 6G satellite communications technologies, and promote industry‑academia‑research‑use coordination. Its remit covers satellite air-interface access, satellite terminal technologies, satellite-terrestrial network integration, and operations, maintenance and application technologies."
+    },
+    {
+      "id": "mkt:019fe9c7-8b15-7aab-8fd0-85a07c014626",
+      "time": "2026-08-10 11:46:36",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "【Shenzhen ports post record cross-border passenger flows year-to-date】Ahead of the 33rd APEC informal leaders' meeting, Shenzhen's cross-border passenger traffic has climbed further. Shenzhen border inspection authority said as of Aug 4 foreign entries and exits via Shenzhen ports exceeded 5.0 mln, reaching the milestone 58 days earlier than in 2025. Visa-free inbound entries by foreign nationals totaled 1.269 mln, accounting for 50.9% of inbound foreign arrivals and up 47.5% YoY."
+    },
+    {
+      "id": "mkt:019fe9c7-7c91-7aab-8fd0-7cb29b9c8e29",
+      "time": "2026-08-10 11:46:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Company (ADNOC) says it will advance phases 2 and 3 of its rich-gas development."
+    },
+    {
+      "id": "mkt:019fe9c7-2e2a-7aab-8fd0-713448ee4699",
+      "time": "2026-08-10 11:46:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Company (ADNOC) will invest over $8 billion to expand production capacity."
+    },
+    {
+      "id": "5033186",
+      "time": "2026-08-10 11:45:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年以來深圳各口岸出入境客流屢創新高】隨著亞太經合組織（APEC）第三十三次領導人非正式會議進入倒計時，深圳口岸出入境客流持續攀升。據深圳邊檢總站統計，截至8月4日，經深圳口岸入出境外國人已突破500萬人次，較2025年提前58天達成。（央視新聞）"
+    },
+    {
+      "id": "5033185",
+      "time": "2026-08-10 11:44:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將特斯拉目標股價從400美元下調至350美元。"
+    },
+    {
+      "id": "5033184",
+      "time": "2026-08-10 11:43:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【科士達：逆變器銷往美國規模較小 相關限制措施對整體業務基本無影響】科士達(002518)8月10日在互動平臺表示，公司逆變器銷往美國規模較小，相關限制措施對公司整體業務基本無影響。"
+    },
     {
       "id": "mkt:019fe9c4-d6e1-7aab-8fd0-6d51c620d0db",
       "time": "2026-08-10 11:43:39",
@@ -144614,110 +144689,6 @@
         "觀點"
       ],
       "text": "【小摩：降三星電子目標價至40萬韓元，建議在股價疲弱時累積股份】摩根大通維持三星電子“增持”評級，但將目標價由48萬韓元下調至40萬韓元，以反映目前市場環境下儲存器下行週期敘事，並將估值目標倍數由8倍下調至6倍。該行指出，管理層在業績電話會議中提供清晰長約(LTA)資訊，並對HBM及晶圓代工執行能力改善充滿信心，同時對前景看法樂觀。管理層透露，未來儲存器(包括DRAM及NAND)產能中，60%至70%已由長約鎖定，合約年期以五年為基礎，每年可選擇延長一年，並設有最低價格保障，以確保足夠回報及激勵投資。管理層亦表示，已與五家主要CSP客戶完成長約簽訂，另有五家主要AI客戶合約正在洽談。截至第二季末已收取超過四分一長約預付款項。該行認為，三星在HBM4及HBM4E樣品進展順利，預計今年下半年HBM4(12Hi方案)銷售將增長3%，佔2026年HBM銷售60%，並預期2027年HBM市佔率可與整體DRAM市佔率看齊。晶圓代工方面，近期獲得AVGO約2000億美元訂單，並持續有2nm訂單勝出，包括博通N/W晶片、三星自家SoC及特斯拉AI晶片等，該行預期晶圓代工組合質素將明顯改善。管理層預期今年eSSD銷售佔比將超過60%，QLC bit出貨量下半年將較上半年倍增，V10 NAND(300+層)已於8月量產。該行認為，在12個月投資期內風險回報可變得極具吸引力，建議投資者在股價疲弱時累積股份。"
-    },
-    {
-      "id": "5021598",
-      "time": "2026-08-03 11:47:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "訊息稱馬來西亞頭部銀行即將收購安聯保險集團所持 Etiqa 股權。"
-    },
-    {
-      "id": "5021597",
-      "time": "2026-08-03 11:47:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度國家證券交易所Nifty金屬指數上漲1.55%。"
-    },
-    {
-      "id": "5021596",
-      "time": "2026-08-03 11:47:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "Roth MKM將亞馬遜目標股價從300美元上調至325美元。"
-    },
-    {
-      "id": "mkt:019fc5bb-2a36-7aab-8f4e-52d1b2366f05",
-      "time": "2026-08-03 11:46:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Italy says navy intercepted EU‑sanctioned Russian 'shadow fleet' tanker in Mediterranean】Italy's defense ministry said its navy, operating as part of an EU long-running military operation in the Mediterranean, intercepted an EU‑sanctioned Russian 'shadow fleet' tanker west of Pantelleria. The tanker captain refused to cooperate and an Italian boarding team conducted an inspection, supported by a Greek navy vessel and a Polish maritime patrol aircraft."
-    },
-    {
-      "id": "te:markets:572017",
-      "time": "2026-08-03 11:46:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Marubeni earnings above expectations at 114.19 JPY — Marubeni (8002) released earnings per share at 114.19 JPY, compared to market expectations of 103.09 JPY."
-    },
-    {
-      "id": "5021595",
-      "time": "2026-08-03 11:46:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：伊朗與阿曼達成航運相關共識，但這不代表霍爾木茲海峽通航重啟獲得許可。"
-    },
-    {
-      "id": "5021594",
-      "time": "2026-08-03 11:45:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【意軍方稱在地中海攔截一艘俄“影子艦隊”油輪】義大利國防部2日發表宣告說，在地中海執行歐盟長期軍事行動的義大利海軍當天攔截一艘受制裁的俄羅斯“影子艦隊”油輪。意國防部在宣告中說，這艘受歐盟制裁的油輪在地中海潘泰萊里亞以西海域被攔截。該油輪船長拒絕配合，義大利軍方小組對其進行登船檢查。行動得到一艘希臘海軍艦艇和一架波蘭海上巡邏機的支援。宣告說，該船懸掛喀麥隆國旗，7月16日從貝南科托努港出發，目的地為土耳其伊斯坦布林。登船檢查後獲取的資訊和檔案正在審查中。西方國家指責俄羅斯利用油輪等商用船隻逃避西方制裁，將這些商用船隻稱為“影子艦隊”。（新華社）"
-    },
-    {
-      "id": "5021593",
-      "time": "2026-08-03 11:45:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軍信股份：發行境外上市外資股（H股）獲中國證監會備案】軍信股份公告稱，公司申請發行境外上市外資股（H股）並在香港聯交所主機板掛牌上市，近日收到中國證監會備案通知書。公司擬發行不超2.21億股境外上市普通股並在港交所上市。本次境外發行上市尚需取得香港相關政府機關、監管機構及證券交易所批准，存在不確定性，公司將及時披露進展。"
-    },
-    {
-      "id": "5021592",
-      "time": "2026-08-03 11:44:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【立方製藥：部分產品擬中選第12批國家藥品集採】立方製藥公告稱，公司參與國家組織藥品集中帶量採購（第12批）申報，甲磺酸多沙唑嗪緩釋片、美阿沙坦鉀片擬中選。2025年甲磺酸多沙唑嗪緩釋片銷售收入10340.95萬元，佔當年營收6.66%；美阿沙坦鉀片於2026年5月19日獲批上市，尚未產生收入。採購週期自中選結果執行日至2029年12月31日。若後續簽訂採購合同並實施，將對公司業績有積極影響。不過，擬中選結果尚需公示確認，後續事項有不確定性。"
-    },
-    {
-      "id": "5021591",
-      "time": "2026-08-03 11:44:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科源製藥：子公司藥品獲批且參與集採擬中選】科源製藥公告稱，近日，其全資子公司力諾製藥收到藥品補充申請批准通知書，鹽酸倍他司汀片上市許可持有人變更為力諾製藥。同時，力諾製藥參加第12批國家組織藥品集中帶量採購投標，注射用硫酸艾沙康唑等產品擬中選，鹽酸倍他司汀片擬中選企業後期也將變更為力諾製藥。採購週期自中選結果執行日起至2029年12月31日。此次獲批及擬中選或提升業績，但後續仍存不確定性。"
-    },
-    {
-      "id": "5021590",
-      "time": "2026-08-03 11:44:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海市新增11款已完成登記的生成式人工智慧服務】據網信上海公眾號，截至至8月3日，上海市新增11款已完成登記的生成式人工智慧服務，累計已完成211款生成式人工智慧服務登記。"
-    },
-    {
-      "id": "5021589",
-      "time": "2026-08-03 11:44:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【8月3日午間漲停分析】科創50指數半日跌3.73%，核電板塊逆勢走強。傳智教育6連板，一圖看懂>>"
     }
   ]
 }
