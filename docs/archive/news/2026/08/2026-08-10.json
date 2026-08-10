@@ -1,7 +1,57 @@
 {
   "date": "2026-08-10",
-  "count": 898,
+  "count": 903,
   "items": [
+    {
+      "id": "te:economy:574005",
+      "time": "2026-08-10 13:10:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Economy Watchers Survey",
+        "Importance 1"
+      ],
+      "text": "Japan Services Sentiment Rises to 5-Month High — Japan’s services sector sentiment index rose to 45.7 in July 2026 from 44.0 in the previous month, reaching its highest level since February and exceeding market expectations of 44.0. The latest reading marked the third consecutive month of improvement, supported by stronger sentiment among household-related businesses, particularly those in the food and beverage sector. Corporate confidence also strengthened, led mainly by the non-manufacturing sector, while labor market conditions continued to firm. Meanwhile, the economic outlook index, which measures business expectations for the months ahead, edged up to 45.8 from 45.7 in June, hitting a five-month high and rising for a third straight month. The improvement suggested businesses expect economic conditions to stabilize despite lingering downward pressure from the Middle East conflict."
+    },
+    {
+      "id": "5033271",
+      "time": "2026-08-10 13:10:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明敦促加快HONAM晶片叢集專案的實施。"
+    },
+    {
+      "id": "mkt:019fea13-ceb9-7aab-8fd1-7aa310c4534d",
+      "time": "2026-08-10 13:09:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share coal-chemical sector rose; Jinniu Chemical hit the daily limit. Jiangsu Sopo, Huachang Chemical, Chengzhi, Baofeng Energy and Luxi Chemical also advanced."
+    },
+    {
+      "id": "5033270",
+      "time": "2026-08-10 13:08:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤化工板塊走高，金牛化工漲停】煤化工板塊走高，金牛化工漲停，江蘇索普、華昌化工、誠志股份、寶豐能源、魯西化工等紛紛走高。"
+    },
+    {
+      "id": "5033269",
+      "time": "2026-08-10 13:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【颱風過境暴雨來襲 交通運輸部對重點地區開展排程】8月10日，交通運輸部影片排程浙江、江西、安徽、湖北、江蘇、河南、山東、河北省交通運輸主管部門及省交投集團、高速集團，長江海事局。排程要求，要強化底線思維、極限思維，繼續做好動態會商研判工作，堅決落實主動防禦措施，督促落實落細預警叫應機制和巡查管控措施。"
+    },
     {
       "id": "5033268",
       "time": "2026-08-10 13:06:39",

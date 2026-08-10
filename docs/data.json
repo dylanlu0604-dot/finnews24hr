@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-10 13:07:37",
-  "count": 15904,
+  "updated": "2026-08-10 13:11:35",
+  "count": 15903,
   "items": [
+    {
+      "id": "te:economy:574005",
+      "time": "2026-08-10 13:10:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Economy Watchers Survey",
+        "Importance 1"
+      ],
+      "text": "Japan Services Sentiment Rises to 5-Month High — Japan’s services sector sentiment index rose to 45.7 in July 2026 from 44.0 in the previous month, reaching its highest level since February and exceeding market expectations of 44.0. The latest reading marked the third consecutive month of improvement, supported by stronger sentiment among household-related businesses, particularly those in the food and beverage sector. Corporate confidence also strengthened, led mainly by the non-manufacturing sector, while labor market conditions continued to firm. Meanwhile, the economic outlook index, which measures business expectations for the months ahead, edged up to 45.8 from 45.7 in June, hitting a five-month high and rising for a third straight month. The improvement suggested businesses expect economic conditions to stabilize despite lingering downward pressure from the Middle East conflict."
+    },
+    {
+      "id": "5033271",
+      "time": "2026-08-10 13:10:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明敦促加快HONAM晶片叢集專案的實施。"
+    },
+    {
+      "id": "mkt:019fea13-ceb9-7aab-8fd1-7aa310c4534d",
+      "time": "2026-08-10 13:09:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share coal-chemical sector rose; Jinniu Chemical hit the daily limit. Jiangsu Sopo, Huachang Chemical, Chengzhi, Baofeng Energy and Luxi Chemical also advanced."
+    },
+    {
+      "id": "5033270",
+      "time": "2026-08-10 13:08:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤化工板塊走高，金牛化工漲停】煤化工板塊走高，金牛化工漲停，江蘇索普、華昌化工、誠志股份、寶豐能源、魯西化工等紛紛走高。"
+    },
+    {
+      "id": "5033269",
+      "time": "2026-08-10 13:08:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【颱風過境暴雨來襲 交通運輸部對重點地區開展排程】8月10日，交通運輸部影片排程浙江、江西、安徽、湖北、江蘇、河南、山東、河北省交通運輸主管部門及省交投集團、高速集團，長江海事局。排程要求，要強化底線思維、極限思維，繼續做好動態會商研判工作，堅決落實主動防禦措施，督促落實落細預警叫應機制和巡查管控措施。"
+    },
     {
       "id": "5033268",
       "time": "2026-08-10 13:06:39",
@@ -144697,65 +144747,6 @@
         "公司"
       ],
       "text": "【順為資本與經緯創投領投破殼機器人Pre-A輪融資】8月3日，通用具身智慧公司破殼機器人（PokeBot）完成億美元級Pre-A輪融資。本輪融資由順為資本與經緯創投共同領投，九坤創投、鈞山資本、SEEFund、獵聘投資、元諾資本、鐘鼎資本等多家財務及產業投資機構參與，雲啟資本、小米戰投、弘暉基金、英諾天使基金、東方嘉富等老股東持續加註。"
-    },
-    {
-      "id": "mkt:019fc608-49dd-7aab-8f4e-f18fe7fc31d0",
-      "time": "2026-08-03 13:10:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc measured a magnitude 4.2 earthquake at 13:00 Beijing time on Aug 3 near Gao County, Yibin, Sichuan (28.55°N, 104.67°E); epicentral depth 5 km."
-    },
-    {
-      "id": "mkt:019fc608-134f-7aab-8f4e-ec57a3c121aa",
-      "time": "2026-08-03 13:10:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share coal mining and processing sector rallied; Xindazhou A hit the daily limit-up, while Huadian Energy, Antai Group, Hengyuan Coal & Power, Kailuan and Meijin Energy also advanced."
-    },
-    {
-      "id": "5021676",
-      "time": "2026-08-03 13:10:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭開採加工拉昇，新大洲A漲停】煤炭開採加工拉昇，新大洲A漲停，華電能源、安泰集團、恆源煤電、開灤股份、美錦能源跟漲。"
-    },
-    {
-      "id": "mkt:019fc606-da0e-7aab-8f4e-e1cce3eced71",
-      "time": "2026-08-03 13:09:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share PEEK materials concept staged a choppy rebound; Baihehua hit the daily trading limit, while Hengbo, Chongde Technology, Guoen, Xinhan New Materials, Zhongyan and Chaojie also gained."
-    },
-    {
-      "id": "te:economy:572041",
-      "time": "2026-08-03 13:09:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "India Manufacturing Expands Least in Nearly 5 Years — India's HSBC Manufacturing PMI eased to 53.5 in July 2026 from 54.2 in June, revised down from the preliminary estimate of 53.9, and marking the weakest growth since August 2021. Output and new orders continued to expand, although total sales grew at one of the slowest rates in over four years amid challenging market conditions and softer client demand. Export orders, however, accelerated, supported by stronger demand from Canada, Egypt, Indonesia, Kenya, Nepal, South Africa, Thailand and the UAE. Softer domestic demand also slowed growth in purchasing activity and employment, while input buying rose at the weakest pace in 31 months. Supply-chain conditions improved markedly, with delivery times shortening at a near-record pace. On prices, input cost inflation eased to a five-month low, while output price inflation remained moderate. Business confidence recovered on expectations of stronger demand and infrastructure spending."
-    },
-    {
-      "id": "5021675",
-      "time": "2026-08-03 13:08:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PEEK材料概念震盪反彈，百合花漲停】PEEK材料概念震盪反彈，百合花漲停，恆勃股份、崇德科技、國恩股份、新瀚新材、中研股份、超捷股份等跟漲。"
     }
   ]
 }
