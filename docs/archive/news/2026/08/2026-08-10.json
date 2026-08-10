@@ -1,7 +1,45 @@
 {
   "date": "2026-08-10",
-  "count": 2519,
+  "count": 2523,
   "items": [
+    {
+      "id": "te:markets:574174",
+      "time": "2026-08-10 23:48:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Heating Oil Soars by Over 7% — US heating oil prices surged more than 7% to around $4.19 per gallon after Iran-backed Houthi militants claimed an attack on Saudi Arabia’s Jazan refinery near the Red Sea. Saudi authorities said the resulting fire was extinguished early Sunday, without providing further details. The incident added to pressure on an already tight global diesel market, as disruptions to shipping through the Strait of Hormuz compounded the impact of Russia’s fuel export restrictions. Refinery capacity is also under strain as fuel demand continues to outpace supply, with US refiners processing crude at the highest seasonal rate since 2018 despite capacity having fallen by nearly 600,000 barrels per day over the same period. Meanwhile, Iran and Oman have yet to finalize a deal to reopen Hormuz. Iran said the agreement was “very close,” but insisted that the US must lift its blockade and provide compensation before reopening the waterway."
+    },
+    {
+      "id": "5034424",
+      "time": "2026-08-10 23:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，IBM自2012年以來首次在加拿大債券市場融資，發行四年期、八年期債券。"
+    },
+    {
+      "id": "5034423",
+      "time": "2026-08-10 23:45:47",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【裕信銀行與德國商業銀行據悉就監管控制變化舉行首次正式磋商】裕信銀行和德國商業銀行就如何應對後者預計將發生的監管控制變化舉行了首次正式磋商。德國商業銀行的立場正從試圖阻止，轉向為過渡提供便利。知情人士稱，上週五，裕信銀行執行長Andrea Orcel與德國商業銀行執行長Bettina Orlopp通話，重點討論一旦歐洲央行將德國商業銀行視為裕信銀行的子公司、並要求實施合併監管後，將產生的會計、法律和風險管理影響。知情人士稱，雙方還有數位其他高管參加了此次會議，為未來幾個月進一步磋商鋪平了道路。"
+    },
+    {
+      "id": "5034422",
+      "time": "2026-08-10 23:45:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：7 月非金融企業外匯淨賣出規模達 222 億美元。"
+    },
     {
       "id": "mkt:019fec59-0c64-7aab-8fdd-792b656cd3d1",
       "time": "2026-08-10 23:44:46",

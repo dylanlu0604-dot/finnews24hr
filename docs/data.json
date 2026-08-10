@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-10 23:45:37",
-  "count": 15839,
+  "updated": "2026-08-10 23:49:40",
+  "count": 15832,
   "items": [
+    {
+      "id": "te:markets:574174",
+      "time": "2026-08-10 23:48:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Heating Oil Soars by Over 7% — US heating oil prices surged more than 7% to around $4.19 per gallon after Iran-backed Houthi militants claimed an attack on Saudi Arabia’s Jazan refinery near the Red Sea. Saudi authorities said the resulting fire was extinguished early Sunday, without providing further details. The incident added to pressure on an already tight global diesel market, as disruptions to shipping through the Strait of Hormuz compounded the impact of Russia’s fuel export restrictions. Refinery capacity is also under strain as fuel demand continues to outpace supply, with US refiners processing crude at the highest seasonal rate since 2018 despite capacity having fallen by nearly 600,000 barrels per day over the same period. Meanwhile, Iran and Oman have yet to finalize a deal to reopen Hormuz. Iran said the agreement was “very close,” but insisted that the US must lift its blockade and provide compensation before reopening the waterway."
+    },
+    {
+      "id": "5034424",
+      "time": "2026-08-10 23:46:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "據知情人士透露，IBM自2012年以來首次在加拿大債券市場融資，發行四年期、八年期債券。"
+    },
+    {
+      "id": "5034423",
+      "time": "2026-08-10 23:45:47",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【裕信銀行與德國商業銀行據悉就監管控制變化舉行首次正式磋商】裕信銀行和德國商業銀行就如何應對後者預計將發生的監管控制變化舉行了首次正式磋商。德國商業銀行的立場正從試圖阻止，轉向為過渡提供便利。知情人士稱，上週五，裕信銀行執行長Andrea Orcel與德國商業銀行執行長Bettina Orlopp通話，重點討論一旦歐洲央行將德國商業銀行視為裕信銀行的子公司、並要求實施合併監管後，將產生的會計、法律和風險管理影響。知情人士稱，雙方還有數位其他高管參加了此次會議，為未來幾個月進一步磋商鋪平了道路。"
+    },
+    {
+      "id": "5034422",
+      "time": "2026-08-10 23:45:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行：7 月非金融企業外匯淨賣出規模達 222 億美元。"
+    },
     {
       "id": "mkt:019fec59-0c64-7aab-8fdd-792b656cd3d1",
       "time": "2026-08-10 23:44:46",
@@ -144056,105 +144094,6 @@
         "Brent"
       ],
       "text": "Shipping data show Venezuela's crude exports fell slightly in July to 1.16 mln bpd; shipments to the US rose to about 786,000 bpd while shipments to Europe fell to roughly 82,200 bpd."
-    },
-    {
-      "id": "5023029",
-      "time": "2026-08-03 23:49:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "AWS執行長：AI業務重心正從模型訓練轉向推理業務。"
-    },
-    {
-      "id": "5023028",
-      "time": "2026-08-03 23:48:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "AWS執行長認為AI行業潛在市場規模極其龐大。"
-    },
-    {
-      "id": "5023027",
-      "time": "2026-08-03 23:48:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料顯示，7月委內瑞拉對歐洲的石油出口降至每日約8.22萬桶。"
-    },
-    {
-      "id": "mkt:019fc850-2624-7aab-8f5b-bde9db2c34af",
-      "time": "2026-08-03 23:48:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Amazon",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon Web Services CEO says AI business potential is 'immense'."
-    },
-    {
-      "id": "5023026",
-      "time": "2026-08-03 23:48:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "航運資料顯示，7月委內瑞拉對美石油出口量升至約78.6萬桶/日。"
-    },
-    {
-      "id": "5023025",
-      "time": "2026-08-03 23:48:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "航運資料顯示，7月委內瑞拉對印度的石油出口降至每日約17.8萬桶。"
-    },
-    {
-      "id": "5023024",
-      "time": "2026-08-03 23:48:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "航運資料顯示，委內瑞拉7月石油出口小幅下滑至每日116萬桶。"
-    },
-    {
-      "id": "mkt:019fc84f-be78-7aab-8f5b-b452f6231d10",
-      "time": "2026-08-03 23:48:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AMZN.O"
-      ],
-      "text": "AWS CEO says AI business is shifting from model training to inference workloads."
-    },
-    {
-      "id": "5023023",
-      "time": "2026-08-03 23:47:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部稱，從未針對眾議員盧娜開展內幕交易相關調查。"
-    },
-    {
-      "id": "5023022",
-      "time": "2026-08-03 23:47:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗領導層口是心非】美國總統特朗普今天（8月3日）在社交媒體平臺發帖稱，“伊朗領導層極其口是心非，他們懇求——有人說是‘乞求’會談，而談判已經開啟，後續議程也已排定，他們卻又公然得意地宣稱：根本沒在談，什麼都沒討論，只跟阿曼打交道。”特朗普還指責伊朗“老調重彈，說霍爾木茲海峽將由他們強力掌控——可事實上，那裡早已由美國海軍完全掌控，在我們的封鎖、或者說在美國‘鋼鐵壁壘’控制之下。除非我們首肯，否則任何東西都別想運進運出伊朗，除非達成交易，或是他們徹底投降。不管伊朗承不承認，我們正在商討解決的，正是他們幾十年來一手釀成的禍患。道理很簡單：伊朗絕不可能擁有核武器！” （CCTV國際時訊）"
-    },
-    {
-      "id": "5023021",
-      "time": "2026-08-03 23:46:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約可可期貨漲幅超10%。"
     }
   ]
 }
