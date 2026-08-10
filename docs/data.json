@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-11 01:52:24",
-  "count": 15790,
+  "updated": "2026-08-11 01:56:14",
+  "count": 15789,
   "items": [
+    {
+      "id": "mkt:019fecce-3b90-7aab-8fde-9ff1441e724f",
+      "time": "2026-08-11 01:52:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time."
+    },
+    {
+      "id": "te:markets:574189",
+      "time": "2026-08-11 01:52:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%."
+    },
     {
       "id": "5034483",
       "time": "2026-08-11 01:50:00",
@@ -143709,33 +143731,6 @@
         "其他"
       ],
       "text": "墨西哥7月製造業指數為49.4。"
-    },
-    {
-      "id": "mkt:019fc8c4-37de-7aab-8f5d-6bf644f53220",
-      "time": "2026-08-04 01:55:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Secretary of Defense Hegseth has done an excellent job."
-    },
-    {
-      "id": "5023118",
-      "time": "2026-08-04 01:55:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：委內瑞拉將於年底前交付4000套住房。"
-    },
-    {
-      "id": "mkt:019fc8c3-ef93-7aab-8f5d-658283bf9a1c",
-      "time": "2026-08-04 01:55:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Trump said the US clash with Venezuela went very well and that its confrontation with Iran is also progressing very, very smoothly."
     }
   ]
 }

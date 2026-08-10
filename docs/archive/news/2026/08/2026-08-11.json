@@ -1,7 +1,29 @@
 {
   "date": "2026-08-11",
-  "count": 99,
+  "count": 101,
   "items": [
+    {
+      "id": "mkt:019fecce-3b90-7aab-8fde-9ff1441e724f",
+      "time": "2026-08-11 01:52:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time."
+    },
+    {
+      "id": "te:markets:574189",
+      "time": "2026-08-11 01:52:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%."
+    },
     {
       "id": "5034483",
       "time": "2026-08-11 01:50:00",
