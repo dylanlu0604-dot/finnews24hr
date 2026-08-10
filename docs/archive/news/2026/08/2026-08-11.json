@@ -1,7 +1,42 @@
 {
   "date": "2026-08-11",
-  "count": 272,
+  "count": 275,
   "items": [
+    {
+      "id": "te:markets:574198",
+      "time": "2026-08-11 04:13:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Simon Property earnings below expectations at 1.49 USD — Simon Property (SPG) released earnings per share at 1.49 USD, compared to market expectations of 1.61 USD."
+    },
+    {
+      "id": "mkt:019fed4e-725a-7aab-8fe0-b417794d39db",
+      "time": "2026-08-11 04:12:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "German foreign minister Wadephul told Iranian foreign minister Araghchi in a call he urged Iran to enter constructive talks with regional neighbors and the US to end the conflict. He said the Strait of Hormuz must be unconditionally open to ensure all vessels can navigate freely and safely."
+    },
+    {
+      "id": "te:markets:574197",
+      "time": "2026-08-11 04:10:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Retreat on Fed Hike Concerns — US stock indices closed slightly lower on Monday as markets assessed the outlook for interest rates this year. The S&P 500 lost 0.1%, the Nasdaq retreated 0.3%, and the Dow shed 61 points. A rally in oil prices pushed bond yields higher on concerns over energy-driven inflation, just days ahead of the CPI report. Higher energy costs raised fears that the Federal Reserve may need to raise rates this year despite a cooling labor market. Credit-sensitive stocks were mixed, with financials mostly lower. Visa shed 0.3%, Amex lost 0.6%, and Morgan Stanley fell 0.5%. Chipmakers tumbled, with Nvidia down 2.9% amid reports that Wall Street giants are working with the company on a $500 billion AI funding package. Intel fell 4.1% as it prepares to offer $15 billion in stock. Apple also declined 1.5% after Jefferies downgraded the stock to underperform. Meanwhile, hyperscalers mostly gained after brokers signaled strong demand for cloud services, with Microsoft up 1.2% and SpaceX advancing 4.2%."
+    },
     {
       "id": "mkt:019fed4b-2782-7aab-8fe0-a96b5e29dd73",
       "time": "2026-08-11 04:09:13",
