@@ -1,7 +1,44 @@
 {
   "date": "2026-08-11",
-  "count": 338,
+  "count": 342,
   "items": [
+    {
+      "id": "5034618",
+      "time": "2026-08-11 06:04:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：若襲擊持續，將被迫宣佈不可抗力並完全停止扎維耶煉油廠的運營。"
+    },
+    {
+      "id": "mkt:019fedb4-601f-7aab-8fe1-a4cc71837d3d",
+      "time": "2026-08-11 06:04:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said it will be forced to declare force majeure and fully halt operations at the Zawiya refinery if attacks continue."
+    },
+    {
+      "id": "mkt:019fedb4-4218-7aab-8fe1-9f2cb356dbe2",
+      "time": "2026-08-11 06:04:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Libya's National Oil Corporation (NOC) said a drone attack struck the Zawiya oil blending plant; there were no casualties or damage. It was the third attack on Zawiya oil assets over Sunday and Monday."
+    },
+    {
+      "id": "5034617",
+      "time": "2026-08-11 06:03:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司表示，此次最新無人機襲擊是週日至週一期間針對扎維耶石油設施發生的第三起襲擊。"
+    },
     {
       "id": "5034616",
       "time": "2026-08-11 06:00:45",
