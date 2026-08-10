@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-11 04:45:50",
-  "count": 15802,
+  "updated": "2026-08-11 04:49:42",
+  "count": 15801,
   "items": [
+    {
+      "id": "mkt:019fed6d-a076-7aab-8fe1-04710eba01cd",
+      "time": "2026-08-11 04:46:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Morgan Stanley launches $1.5 trillion US innovation infrastructure initiative focused on AI, semiconductors】Morgan Stanley said it will launch a US Innovation Infrastructure Initiative to mobilize about $1.5 trillion of capital raising, financing, advisory and related investment activity over the next 10 years to support companies, technologies and platforms seen as critical to the US economy and national security. The plan targets AI, advanced computing, quantum, semiconductors, data infrastructure, cybersecurity, aerospace and defense, and critical minerals, and aims to accelerate digital, physical and energy infrastructure buildout by integrating the firm’s investment banking, capital markets, wealth and asset-management capabilities to back firms from startup through scale."
+    },
     {
       "id": "5034596",
       "time": "2026-08-11 04:44:57",
@@ -143809,26 +143822,6 @@
         "MKT News"
       ],
       "text": "【CDC: Michigan reports two Cyclospora-related deaths】The US Centers for Disease Control and Prevention on the 3rd confirmed Michigan reported two deaths linked to Cyclospora; both patients had serious underlying conditions. These are the first Cyclospora-related fatalities reported since the US outbreak began spreading in May."
-    },
-    {
-      "id": "5023224",
-      "time": "2026-08-04 04:47:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美疾控中心：密歇根州報告兩例環孢子蟲病死亡病例】美國疾病控制和預防中心3日證實，密歇根州報告兩例環孢子蟲病相關死亡病例，兩名死者均患有嚴重基礎疾病。這是自今年5月環孢子蟲病在美持續蔓延以來首次報告相關死亡病例。（新華社）"
-    },
-    {
-      "id": "te:markets:572280",
-      "time": "2026-08-04 04:46:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "ONEOK earnings above expectations at 1.53 USD — ONEOK (OKE) released earnings per share at 1.53 USD, compared to market expectations of 1.49 USD."
     }
   ]
 }
