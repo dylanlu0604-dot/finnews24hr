@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-11 00:10:09",
-  "count": 15820,
+  "updated": "2026-08-11 00:14:07",
+  "count": 15815,
   "items": [
+    {
+      "id": "5034434",
+      "time": "2026-08-11 00:13:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "哥倫比亞外交部長：哥倫比亞承認以色列對戈蘭高地擁有主權。"
+    },
+    {
+      "id": "te:markets:574183",
+      "time": "2026-08-11 00:13:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close at Records — European stocks closed slightly higher at new records on Monday with broad support from most major sectors. The Euro STOXX 50 added 0.3% to 6,540 and the STOXX Europe 600 inched higher to 661, both at record highs. Markets looked past a rebound in sovereign yields as uncertainty on the restart of energy exports from the Middle East maintained inflationary risks. TotalEnergies and ENI rose 2% and 1.5%, respectively, amid the slight rebound for fuel and natural gas prices. Tech stocks also rose, tracking the support from US counterparts on positive signals for cloud services. SAP, ASML, and Infineon rose around 1%. Also, the heavyweight financial sector also closed slightly higher, with Allianz and Deutsche Bank adding more than 1%."
+    },
+    {
+      "id": "mkt:019fec72-e58f-7aab-8fdd-aabbe3f1d655",
+      "time": "2026-08-11 00:13:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's foreign minister said the country recognizes Israel's sovereignty over the Golan Heights."
+    },
+    {
+      "id": "te:markets:574182",
+      "time": "2026-08-11 00:12:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.10% Lower — The FTSE MIB Index decreased 53 points or 0.10 percent on Monday to close at 53664 points. The decline was led by Italgas (-1.54%), Poste Italiane (-1.36%) and Nexi (-1.34%). On the upside, the strongest performers were Stellantis N.V. (1.71%), Saipem (1.60%) and Amplifon (1.30%)."
+    },
+    {
+      "id": "te:markets:574181",
+      "time": "2026-08-11 00:11:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.02% Higher — The DAX Index rose 4 points or 0.02 percent on Monday to close at 26324 points. Leading the gains are Qiagen NV (5.07%), Adidas (2.01%) and Scout24 (1.75%). Top losers were Deutsche Telekom (-3.24%), Beiersdorf (-2.22%) and Brenntag (-1.34%)."
+    },
+    {
+      "id": "te:markets:574180",
+      "time": "2026-08-11 00:10:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.13% Higher — The CAC 40 Index gained 11 points or 0.13 percent on Monday to close at 8726 points. Gains were led by ArcelorMittal (1.97%), Credit Agricole (1.66%) and TotalEnergies SE (1.64%). Biggest losers were TP (-2.37%), Orange (-2.19%) and Edenred (-2.11%)."
+    },
     {
       "id": "mkt:019fec6e-d4fe-7aab-8fdd-a3602f70e2bc",
       "time": "2026-08-11 00:08:34",
@@ -143886,108 +143950,6 @@
         "其他"
       ],
       "text": "FS MVP私募市場基金擬回購至多5%的淨資產，截至6月30日對應規模為9247萬美元。"
-    },
-    {
-      "id": "5023050",
-      "time": "2026-08-04 00:14:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "特斯拉7月在義大利新車銷量同比下降77%。"
-    },
-    {
-      "id": "mkt:019fc867-383a-7aab-8f5c-27bd5f8db630",
-      "time": "2026-08-04 00:13:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CME has officially launched single-stock futures contracts."
-    },
-    {
-      "id": "5023049",
-      "time": "2026-08-04 00:12:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列一名資深政界訊息人士表示，以色列在加沙問題上“不會改變當前立場”。"
-    },
-    {
-      "id": "te:markets:572260",
-      "time": "2026-08-04 00:12:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.34% Higher — The FTSE MIB Index went up by 699 points or 1.34 percent on Monday to close at 52872 points. The rise was led by Brunello Cucinelli (5.30%), Diasorin (4.59%) and Avio (4.34%)."
-    },
-    {
-      "id": "mkt:019fc865-a728-7aab-8f5c-19802e9eeed0",
-      "time": "2026-08-04 00:12:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SEC filing shows FSMVP private-market fund proposed repurchase of up to 5% of NAV, which equaled $92.47 mln as of June 30."
-    },
-    {
-      "id": "5023048",
-      "time": "2026-08-04 00:11:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱2029年前控制格陵蘭島】美國總統特朗普日前在接受採訪時聲稱，格陵蘭島將在他本屆總統任期結束、即2029年1月前由美國“控制”。（環球時報）"
-    },
-    {
-      "id": "te:markets:572259",
-      "time": "2026-08-04 00:11:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.45% Higher — The DAX Index rose 372 points or 1.45 percent on Monday to close at 26001 points. Leading the gains are Siemens Healthineers (6.16%), Deutsche Telekom (4.93%) and SAP (4.91%)."
-    },
-    {
-      "id": "5023047",
-      "time": "2026-08-04 00:10:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "遊戲驛站股價跌幅進一步擴大，最新下跌12.8%。"
-    },
-    {
-      "id": "mkt:019fc864-4572-7aab-8f5c-10c2d6dedfd6",
-      "time": "2026-08-04 00:10:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ACAP: Portugal July new registrations of light battery-electric vehicles rose 54.3% YoY."
-    },
-    {
-      "id": "5023046",
-      "time": "2026-08-04 00:10:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "葡萄牙汽車協會（ACAP）資料顯示，7月葡萄牙輕型純電動汽車新增上牌量同比增長54.3%。"
-    },
-    {
-      "id": "te:markets:572258",
-      "time": "2026-08-04 00:10:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 1.40% Higher — The CAC 40 Index gained 119 points or 1.40 percent on Monday to close at 8629 points. Gains were led by Capgemini (4.59%), Renault (4.40%) and Essilor (3.95%)."
     }
   ]
 }
