@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-11 02:57:50",
-  "count": 15765,
+  "updated": "2026-08-11 03:02:01",
+  "count": 15771,
   "items": [
+    {
+      "id": "5034527",
+      "time": "2026-08-11 03:00:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：兒童疫苗仍將由保險承保。"
+    },
+    {
+      "id": "5034526",
+      "time": "2026-08-11 03:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國科學家首次揭示冰室氣候下極熱事件完整圖景】記者從中國科學院南京地質古生物研究所獲悉，該所晚古生代研究團隊要樂副研究員、王秋來副研究員牽頭與國內外科研機構合作，首次系統揭示了地球倒數第二次大冰期中一次極熱事件的完整圖景。研究顯示，在約3億年前的冰室氣候背景下，地球曾經歷過一次快速升溫事件，全球平均地表溫度升高約7.5℃，大氣CO2濃度飆升。相關成果近日在《美國國家科學院院刊》發表。（央視新聞）"
+    },
+    {
+      "id": "5034525",
+      "time": "2026-08-11 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.09%，報25971.30點，高水33.81點。"
+    },
+    {
+      "id": "mkt:019fed0a-fbfe-7aab-8fdf-ab94f41111e3",
+      "time": "2026-08-11 02:59:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said he will no longer recommend universal childhood vaccination against hepatitis B, COVID-19 and influenza."
+    },
+    {
+      "id": "5034524",
+      "time": "2026-08-11 02:58:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：乙肝、新冠、流感等疫苗，不再建議所有兒童接種。"
+    },
+    {
+      "id": "mkt:019fed0a-24df-7aab-8fdf-a4c46301ad8e",
+      "time": "2026-08-11 02:58:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the U.S. government recognizes only 11 core vaccines in its childhood immunization recommendations."
+    },
+    {
+      "id": "5034523",
+      "time": "2026-08-11 02:57:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：政府僅認可 11 種核心疫苗的兒童接種建議。"
+    },
     {
       "id": "mkt:019fed08-820a-7aab-8fdf-9c0ca22f661b",
       "time": "2026-08-11 02:56:25",
@@ -143534,14 +143590,6 @@
         "Impact bearish"
       ],
       "text": "Hang Seng Index futures night session closed 0.06% lower at 25,981, trading 28 points below the cash close."
-    },
-    {
-      "id": "5023183",
-      "time": "2026-08-04 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.08%，報25976.27點，低水33.13點。"
     }
   ]
 }
