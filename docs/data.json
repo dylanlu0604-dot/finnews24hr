@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11 04:30:24",
+  "updated": "2026-08-11 04:34:14",
   "count": 15798,
   "items": [
+    {
+      "id": "5034591",
+      "time": "2026-08-11 04:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "成立一年的初創企業Applied Compute正洽談數億美元融資，目標估值約30億美元。"
+    },
     {
       "id": "mkt:019fed5d-65cb-7aab-8fe0-e84cd919b2ba",
       "time": "2026-08-11 04:29:08",
@@ -143782,16 +143790,6 @@
         "Importance 1"
       ],
       "text": "Brazilian Stocks Close Flat — The Ibovespa closed flat at 178,000 on Monday as losses in heavyweight commodity stocks offset optimism over easing Middle East tensions. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike on the country. The prospect of a diplomatic solution pushed oil prices lower, easing inflation concerns and driving bond yields down. The favorable backdrop reinforced expectations that the BCB will cut the Selic rate this week from the current 14.25%. Financials advanced, with Itaú and Bradesco rising 0.6%, while utilities also gained, with Axia up 1.4%. Also, Embraer climbed 3.1% after BNDES approved R$3.3-3.7 billion in financing to support exports of up to 19 aircraft to Canada's Porter Aviation Holdings. However, Petrobras (-0.8%) and Vale (-2.1%) weighed on the index as oil and iron ore prices declined."
-    },
-    {
-      "id": "5023220",
-      "time": "2026-08-04 04:31:19",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【道明：干預勢頭可能短暫推動美元/日元跌至153】道明證券認為，干預的推動力可能會使美元/日元跌至153，但除非日本央行採取更多行動或美國財政部做出全面承諾，否則就只會暫時如此。“動能可能短暫推動美元/日元跌至153，但要沒有日本央行的行動或美國財政部的全面承諾，我們不認為該貨幣對會大幅低於該水平，” Howard Du、Gennadiy Goldberg和Molly Brooks等策略師寫道。“美日雙邊貿易動態、‘賣出美國’情緒復甦的風險、美國信譽惡化的風險、政治考量以及包括系統性衝擊在內的風險，是我們相信美國財政部不願全力託底日元的五大原因”。"
     }
   ]
 }
