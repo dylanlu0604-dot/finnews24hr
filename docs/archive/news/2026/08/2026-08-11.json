@@ -1,7 +1,104 @@
 {
   "date": "2026-08-11",
-  "count": 212,
+  "count": 223,
   "items": [
+    {
+      "id": "5034553",
+      "time": "2026-08-11 03:28:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就敘利亞秘密核設施促成一項協議。"
+    },
+    {
+      "id": "mkt:019fed25-5fd0-7aab-8fe0-111bdd126a67",
+      "time": "2026-08-11 03:27:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports the International Atomic Energy Agency (IAEA) is set to remove nuclear material stored at a secret site in Syria."
+    },
+    {
+      "id": "5034552",
+      "time": "2026-08-11 03:27:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，他的目標是降低自閉症發病率，同時承認“尚不完全清楚自閉症的確切致病原因”。"
+    },
+    {
+      "id": "mkt:019fed24-b3f8-7aab-8fe0-09de2ed3bcc0",
+      "time": "2026-08-11 03:27:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Attorney General Branch will decide the future of weaponized funds."
+    },
+    {
+      "id": "5034551",
+      "time": "2026-08-11 03:26:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：武器化基金的未來將由司法部長布蘭奇決定。"
+    },
+    {
+      "id": "5034550",
+      "time": "2026-08-11 03:26:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回司法部對印度億萬富翁高塔姆·阿達尼的刑事訴訟。"
+    },
+    {
+      "id": "5034549",
+      "time": "2026-08-11 03:26:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本宇宙航空研究開發機構（JAXA）在鹿兒島縣種子島宇宙中心的吉信發射場發射一顆地理定位衛星。"
+    },
+    {
+      "id": "mkt:019fed22-caf1-7aab-8fe0-0263201352d6",
+      "time": "2026-08-11 03:25:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "President Trump said the US still has the ability to escalate the conflict with Iran and will demand Iran compensate for damages caused."
+    },
+    {
+      "id": "5034548",
+      "time": "2026-08-11 03:24:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破66美元/盎司，日內漲3.92%。"
+    },
+    {
+      "id": "5034547",
+      "time": "2026-08-11 03:24:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗問題：美國將要求伊朗賠償其所造成的損失。"
+    },
+    {
+      "id": "mkt:019fed22-6320-7aab-8fdf-f869badbd3fb",
+      "time": "2026-08-11 03:24:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver touched $66/oz, up 3.89% intraday."
+    },
     {
       "id": "5034546",
       "time": "2026-08-11 03:24:12",
