@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-10 22:39:53",
+  "updated": "2026-08-10 22:43:57",
   "count": 15872,
   "items": [
+    {
+      "id": "5034368",
+      "time": "2026-08-10 22:43:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "ZEN TECHNOLOGIES：從印度國防部獲得價值29.5億盧比的模擬器供應訂單。"
+    },
+    {
+      "id": "mkt:019fec1f-9409-7aab-8fdc-181e848aadc8",
+      "time": "2026-08-10 22:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The mayor of Pereira, Colombia said the earthquake has killed 18 people."
+    },
+    {
+      "id": "5034367",
+      "time": "2026-08-10 22:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄反戰政黨亞博盧黨透過第三方接受了來自美國和德國的資金。"
+    },
+    {
+      "id": "mkt:019fec1e-edff-7aab-8fdc-1383c383d9e0",
+      "time": "2026-08-10 22:41:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera cited Iranian President Pezeshkian saying the US and Israel are using artificial intelligence and data to attack Iran."
+    },
+    {
+      "id": "5034366",
+      "time": "2026-08-10 22:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞西南部考卡山谷省衛生官員10日對當地媒體表示，當日發生的地震已致該省2人死亡、3人受傷。（新華社）"
+    },
+    {
+      "id": "5034365",
+      "time": "2026-08-10 22:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京洪水預報預見期提至12小時以上】記者8月10日獲悉，北京市水務局提升監測預報預警能力，初步形成了首都雨水情監測預報三道防線。推進水務“北京模型”體系建設，洪水預報預見期提升至12小時以上。 北京地處海河流域，山區約佔62%，6-8月汛期降雨佔全年80%以上。（新京報）"
+    },
+    {
+      "id": "te:markets:574170",
+      "time": "2026-08-10 22:40:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Sugar Climbs to 10-Month High — Sugar prices climbed above 16 cents per pound, the highest level in ten months, as concerns over the global supply outlook intensified. Brazil’s suspension of its biweekly harvest and production reports had already increased uncertainty among traders before the latest data released on August 6th showed June sugar output fell 15% year-on-year. Unseasonably heavy rains linked to El Niño disrupted cane harvesting and milling, reinforcing expectations of a global deficit in the 2026/27 season. Market participants are also monitoring Brazil’s sugar-ethanol mix, with nearly 58% of cane juice diverted to ethanol in June. The country raised its mandatory ethanol blend to 32% in late July from 30% a month earlier and 27% a year earlier, potentially reducing sugar availability. Meanwhile, India is considering limiting cane use for ethanol from October and bringing forward the crushing season to increase supply and contain record prices, as demand from the Indian festival season gathers pace."
+    },
+    {
+      "id": "5034364",
+      "time": "2026-08-10 22:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交發言人：我們與阿曼可以達成諒解，這並不遙遠。"
+    },
+    {
+      "id": "5034363",
+      "time": "2026-08-10 22:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆榮聯合控股有限公司遞表港交所】據港交所檔案，8月10日，恆榮聯合控股有限公司向港交所提交上市申請書，獨家保薦人為工銀國際融資有限公司。"
+    },
+    {
+      "id": "5034362",
+      "time": "2026-08-10 22:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統：“我正在前往波哥大，專注於應對我們國家面臨的緊急情況。我已在國家災害風險管理單位設立了統一指揮中心，我將親自從那裡領導援助喬科省、咖啡種植區以及所有受影響地區的行動。今天正在經歷困難時刻的哥倫比亞人民，我想對你們說：你們並不孤單。你們有一位深切關懷人民、將不惜一切保護你們、支援你們，並與你們共同推進受災地區重建的總統。”"
+    },
+    {
+      "id": "mkt:019fec1c-f5cf-7aab-8fdc-0fa28044cda0",
+      "time": "2026-08-10 22:39:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian President De la Espriella will travel to Bogotá to coordinate the earthquake response."
+    },
     {
       "id": "5034361",
       "time": "2026-08-10 22:38:41",
@@ -144366,99 +144460,6 @@
         "其他"
       ],
       "text": "墨西哥6月份海外匯款54.72億美元；預計為54.4億美元。"
-    },
-    {
-      "id": "5022936",
-      "time": "2026-08-03 22:43:55",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：高收益率吸引資金流入 美投資級信用債利差有望進一步收窄】摩根大通最新發布的美國投資級信用債展望報告指出，當前美國投資級信用債的高收益率已對買家形成強勁吸引力，在持續存在的宏觀不確定性與企業強勁基本面的共同作用下，預計信用利差將進一步收窄。摩根大通策略師納撒尼爾·羅森鮑姆在報告中表示，美國投資級信用債的收益率目前已達到5.4%的較高水平，這一水平自2023年11月以來首次出現。報告認為，高收益率與強勁的信用基本面正共同推動利差收窄。資料顯示，只要資金流的年化回報率超過1%，就會開始吸引大量資金流入。基於此，摩根大通預測，到2026年底，美國投資級信用債的信用利差預計將從當前的96個基點收窄至85個基點，整體回報率有望達到4.5%。報告強調，當前企業信用基本面依然強勁。2026年投資級公司的總槓桿率預計將降至歷史最低水平，而利息覆蓋率將達到歷史高位。特別是超大規模企業，其平均總槓桿率僅為1.8倍，利息覆蓋率高達64.4倍，且營收增速強勁。從行業分佈看，科技公司佔比最大，其次是受監管的公用事業，這些行業的公司大多現金流穩定，違約風險相對較低。"
-    },
-    {
-      "id": "5022935",
-      "time": "2026-08-03 22:43:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿斯利康下跌近8%，有望創2025年4月以來最大單日跌幅。"
-    },
-    {
-      "id": "5022934",
-      "time": "2026-08-03 22:43:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Meta領漲科技七巨頭 亞馬遜市值首破3萬億美元】美股科技七巨頭週一普遍走高，其中Meta領漲。與此同時，亞馬遜市值首次突破3萬億美元。這家電商和雲端計算巨頭在公佈雲業務收入連續第五個季度加速增長後，股價延續漲勢。科技七巨頭股價表現：Meta上漲6.6%，微軟上漲5.2%，亞馬遜上漲4.6%，Alphabet上漲4.0%，特斯拉上漲2.2%，英偉達上漲0.6%，蘋果下跌1.3%過去三個交易日，亞馬遜市值累計增加約6200億美元；同期，微軟市值增加約7400億美元"
-    },
-    {
-      "id": "5022933",
-      "time": "2026-08-03 22:42:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿瑞斯資產管理（Ares Management）股價觸及6月17日以來新高，在至少六家券商上調目標價後，最新上漲5.2%。"
-    },
-    {
-      "id": "mkt:019fc813-7b5f-7aab-8f5a-806e296ad8ab",
-      "time": "2026-08-03 22:42:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin appointed Dmitry Dogadkin as ambassador to Syria."
-    },
-    {
-      "id": "5022932",
-      "time": "2026-08-03 22:41:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾魯正式更改國名】亞倫訊息：諾魯共和國政府日前在社交媒體上釋出公告說，該國國名已由“Nauru”正式更改為“Naoero”。聯合國已接到諾魯的相關通知並在其官網進行了更改，其中涉及英語、法語等語言，但該國中文名“諾魯”維持不變。 公告說，諾魯總統阿迪昂於7月20日在議會發表講話說，在經過廣泛討論後決定恢復國家傳統名稱“Naoero”，同時不就此事進行全民公決。阿迪昂表示，新國名是國民的身份認同，早已出現在國徽上，是憲法所允許的。這一決定無關政治，而關乎身份認同、歷史傳承。 公告還說，諾魯已正式向國際組織及世界各國發出了更名通知。 今年5月，諾魯議會透過了更改國名的憲法修正案。當時諾魯政府表示該修正案還需經全民公投透過。 諾魯位於中太平洋，由一個獨立的珊瑚礁島及周邊海域構成。該國陸地面積21.1平方公里，人口約1.3萬人。英語為官方語言，通用諾魯語。(新華社)"
-    },
-    {
-      "id": "mkt:019fc812-940e-7aab-8f5a-7cb750501e6c",
-      "time": "2026-08-03 22:41:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu told the Supreme Court he intends to appoint an interior minister during the election period."
-    },
-    {
-      "id": "5022931",
-      "time": "2026-08-03 22:41:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江多地釋出暴雨預警訊號】黑龍江省氣象臺2026年8月3日22時釋出暴雨紅色預警訊號：過去1小時黑龍江省大慶市肇州縣南部鄉鎮降水量40~60毫米，未來2小時仍有20~40毫米的降水，瞬時降水強度大，預計累計雨量將超過100毫米，請注意防範。哈爾濱市氣象臺2026年8月3日21時釋出暴雨橙色預警訊號：過去1小時呼蘭部分站點降雨量已達20~30毫米，預計未來3小時，哈爾濱主城區、呼蘭區、巴彥縣、賓縣、阿城區降雨仍將持續，累計降水量將達60~70毫米，個別鄉鎮可能達80~100毫米，最大陣風8~9級，另外雙城區有30~50毫米降水，可能造成城市局地積澇、低窪地帶積水，請注意防範。（央視新聞）"
-    },
-    {
-      "id": "5022930",
-      "time": "2026-08-03 22:40:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國巴黎銀行將希捷科技目標股價從1050美元上調至1275美元。"
-    },
-    {
-      "id": "mkt:019fc811-8b47-7aab-8f5a-7669868dbe8d",
-      "time": "2026-08-03 22:40:20",
-      "tags": [
-        "MKT News",
-        "WDC.O",
-        "Impact bullish"
-      ],
-      "text": "BNP Paribas raised its price target on WESTERN DIGITAL CORP (WDC.O) to $1,275 from $1,050."
-    },
-    {
-      "id": "5022929",
-      "time": "2026-08-03 22:39:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡對最高法院：“我打算在選舉期間任命一名內政部長。”"
     }
   ]
 }

@@ -1,7 +1,101 @@
 {
   "date": "2026-08-10",
-  "count": 2411,
+  "count": 2422,
   "items": [
+    {
+      "id": "5034368",
+      "time": "2026-08-10 22:43:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "ZEN TECHNOLOGIES：從印度國防部獲得價值29.5億盧比的模擬器供應訂單。"
+    },
+    {
+      "id": "mkt:019fec1f-9409-7aab-8fdc-181e848aadc8",
+      "time": "2026-08-10 22:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The mayor of Pereira, Colombia said the earthquake has killed 18 people."
+    },
+    {
+      "id": "5034367",
+      "time": "2026-08-10 22:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄反戰政黨亞博盧黨透過第三方接受了來自美國和德國的資金。"
+    },
+    {
+      "id": "mkt:019fec1e-edff-7aab-8fdc-1383c383d9e0",
+      "time": "2026-08-10 22:41:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Al Jazeera cited Iranian President Pezeshkian saying the US and Israel are using artificial intelligence and data to attack Iran."
+    },
+    {
+      "id": "5034366",
+      "time": "2026-08-10 22:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞西南部考卡山谷省衛生官員10日對當地媒體表示，當日發生的地震已致該省2人死亡、3人受傷。（新華社）"
+    },
+    {
+      "id": "5034365",
+      "time": "2026-08-10 22:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京洪水預報預見期提至12小時以上】記者8月10日獲悉，北京市水務局提升監測預報預警能力，初步形成了首都雨水情監測預報三道防線。推進水務“北京模型”體系建設，洪水預報預見期提升至12小時以上。 北京地處海河流域，山區約佔62%，6-8月汛期降雨佔全年80%以上。（新京報）"
+    },
+    {
+      "id": "te:markets:574170",
+      "time": "2026-08-10 22:40:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Sugar Climbs to 10-Month High — Sugar prices climbed above 16 cents per pound, the highest level in ten months, as concerns over the global supply outlook intensified. Brazil’s suspension of its biweekly harvest and production reports had already increased uncertainty among traders before the latest data released on August 6th showed June sugar output fell 15% year-on-year. Unseasonably heavy rains linked to El Niño disrupted cane harvesting and milling, reinforcing expectations of a global deficit in the 2026/27 season. Market participants are also monitoring Brazil’s sugar-ethanol mix, with nearly 58% of cane juice diverted to ethanol in June. The country raised its mandatory ethanol blend to 32% in late July from 30% a month earlier and 27% a year earlier, potentially reducing sugar availability. Meanwhile, India is considering limiting cane use for ethanol from October and bringing forward the crushing season to increase supply and contain record prices, as demand from the Indian festival season gathers pace."
+    },
+    {
+      "id": "5034364",
+      "time": "2026-08-10 22:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交發言人：我們與阿曼可以達成諒解，這並不遙遠。"
+    },
+    {
+      "id": "5034363",
+      "time": "2026-08-10 22:40:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆榮聯合控股有限公司遞表港交所】據港交所檔案，8月10日，恆榮聯合控股有限公司向港交所提交上市申請書，獨家保薦人為工銀國際融資有限公司。"
+    },
+    {
+      "id": "5034362",
+      "time": "2026-08-10 22:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統：“我正在前往波哥大，專注於應對我們國家面臨的緊急情況。我已在國家災害風險管理單位設立了統一指揮中心，我將親自從那裡領導援助喬科省、咖啡種植區以及所有受影響地區的行動。今天正在經歷困難時刻的哥倫比亞人民，我想對你們說：你們並不孤單。你們有一位深切關懷人民、將不惜一切保護你們、支援你們，並與你們共同推進受災地區重建的總統。”"
+    },
+    {
+      "id": "mkt:019fec1c-f5cf-7aab-8fdc-0fa28044cda0",
+      "time": "2026-08-10 22:39:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian President De la Espriella will travel to Bogotá to coordinate the earthquake response."
+    },
     {
       "id": "mkt:019fec1c-8ca2-7aab-8fdc-040426742168",
       "time": "2026-08-10 22:38:41",
