@@ -1,7 +1,87 @@
 {
   "date": "2026-08-11",
-  "count": 1,
+  "count": 9,
   "items": [
+    {
+      "id": "5034433",
+      "time": "2026-08-11 00:04:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "奈飛：2026 年美國廣告預售簽約額近乎翻倍。"
+    },
+    {
+      "id": "5034432",
+      "time": "2026-08-11 00:04:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，中進醫療漲63.38%，中比能源漲15.77%，陸金所控股漲13.00%，搜狐漲6.60%，海天網路漲5.49%。"
+    },
+    {
+      "id": "te:markets:574178",
+      "time": "2026-08-11 00:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Monday — The FTSE 100 fell on Monday as weakness in several heavyweight stocks outweighed gains in energy and mining shares. Imperial Brands dropped more than 5% following reports that the tobacco company is preparing to cut thousands of jobs across key markets, including the US and Europe. British American Tobacco also fell more than 4%, while HSBC, Unilever and GSK declined between 0.4% and 1.8%. In contrast, oil majors Shell and BP gained 0.7% and 1.5%, respectively, as crude prices extended their recent advance amid uncertainty over a potential US-Iran agreement to end the conflict and reopen the Strait of Hormuz. Mining stocks also benefited from stronger metals prices, with Fresnillo rising 3.3% and Glencore gaining 2.2%. Elsewhere, Plus500's trading update showed stronger first-half growth driven by higher trading income. Pharos Energy confirmed it would not increase its offer, while Vistry reduced coverage for the housebuilder’s suppliers."
+    },
+    {
+      "id": "5034431",
+      "time": "2026-08-11 00:03:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【英國國債收益率普遍漲約6個基點】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，英國10年期國債收益率漲6.7個基點，報4.989%。兩年期英債收益率漲6.0個基點，報4.341%。30年期英債收益率漲5.9個基點，50年期英債收益率漲6.0個基點。2/10年期英債收益率利差漲0.709個基點，報+64.543個基點。"
+    },
+    {
+      "id": "5034430",
+      "time": "2026-08-11 00:03:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報65.41美元/盎司。"
+    },
+    {
+      "id": "mkt:019fec69-b56a-7aab-8fdd-9d51fbb91f59",
+      "time": "2026-08-11 00:02:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "A U.S. appeals court refused to pause thousands of social-media addiction lawsuits against Meta Platforms (META.O), TikTok and other companies."
+    },
+    {
+      "id": "5034429",
+      "time": "2026-08-11 00:01:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院拒絕叫停針對Meta及其他多家企業的數千起社交媒體成癮相關訴訟。"
+    },
+    {
+      "id": "te:markets:574177",
+      "time": "2026-08-11 00:01:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Netflix Stock Price Hits 4-week High — Netflix shares increased to 75.40 USD, the highest since July 2026. Over the past 4 weeks, Netflix gained 1.75%, and in the last 12 months, it decreased 38.34%."
+    },
     {
       "id": "mkt:019fec67-47e8-7aab-8fdd-92f4a3afe304",
       "time": "2026-08-11 00:00:19",
