@@ -1,7 +1,50 @@
 {
   "date": "2026-08-11",
-  "count": 86,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019fecc2-e3ea-7aab-8fde-7efc0759ca77",
+      "time": "2026-08-11 01:40:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A minister said the Chilean government will recapitalize 100% of state-owned copper producer Codelco's 2025 profits."
+    },
+    {
+      "id": "5034478",
+      "time": "2026-08-11 01:39:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗應為黎巴嫩和加沙的損失負責。"
+    },
+    {
+      "id": "mkt:019fecc1-fcc0-7aab-8fde-709d227c186f",
+      "time": "2026-08-11 01:39:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations."
+    },
+    {
+      "id": "te:markets:574188",
+      "time": "2026-08-11 01:38:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline is up by 5% — Gasoline increased 5% to 3.1346 USD/Gal"
+    },
+    {
+      "id": "5034477",
+      "time": "2026-08-11 01:37:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 就人工智慧基礎設施事宜致函得克薩斯州州長，闡述對負責任開發的相關承諾。"
+    },
     {
       "id": "5034476",
       "time": "2026-08-11 01:35:58",
