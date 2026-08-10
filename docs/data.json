@@ -1,7 +1,83 @@
 {
-  "updated": "2026-08-11 03:36:24",
-  "count": 15793,
+  "updated": "2026-08-11 03:40:13",
+  "count": 15800,
   "items": [
+    {
+      "id": "mkt:019fed30-3648-7aab-8fe0-61714b21e3ac",
+      "time": "2026-08-11 03:39:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's parliament passed a bill to advance the peace process with the Kurdistan Workers' Party (PKK)."
+    },
+    {
+      "id": "5034570",
+      "time": "2026-08-11 03:38:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：伊朗人造成數十萬人死亡。如今他們正在付出代價。"
+    },
+    {
+      "id": "mkt:019fed2e-d7ba-7aab-8fe0-5b4c5acea1a4",
+      "time": "2026-08-11 03:38:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he has spoken with Walsh only once since his appointment, denying Wall Street Journal reports they have been in frequent contact."
+    },
+    {
+      "id": "5034569",
+      "time": "2026-08-11 03:38:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普：自從沃什接任（美聯儲主席）以來，和他談過一次。"
+    },
+    {
+      "id": "5034568",
+      "time": "2026-08-11 03:37:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談內塔尼亞胡：（我們）關係良好。"
+    },
+    {
+      "id": "5034567",
+      "time": "2026-08-11 03:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我非常尊重沃什。"
+    },
+    {
+      "id": "mkt:019fed2d-93ad-7aab-8fe0-55a90d696c78",
+      "time": "2026-08-11 03:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he spoke with Federal Reserve Chair Kevin Warsh a few days ago."
+    },
+    {
+      "id": "5034566",
+      "time": "2026-08-11 03:36:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其議會透過標誌性法案，推進庫爾德工人黨和平程序。"
+    },
+    {
+      "id": "5034565",
+      "time": "2026-08-11 03:36:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談沃什：我知道我想要什麼，但得由沃什來主持運作。"
+    },
     {
       "id": "5034564",
       "time": "2026-08-11 03:35:31",
@@ -143761,23 +143837,6 @@
         "DXY"
       ],
       "text": "Saudi state television reported cautious optimism that US‑Iran talks could produce a breakthrough. Discussions on halting military operations and fully reopening the Strait of Hormuz were described as positive. Mediators said they need time to agree on an imminent ceasefire statement."
-    },
-    {
-      "id": "mkt:019fc923-f877-7aab-8f5e-ff74491d32c5",
-      "time": "2026-08-04 03:40:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Colombia's central bank forecasts 2027 GDP growth at 1.9%, down from 2.1% previously."
-    },
-    {
-      "id": "5023202",
-      "time": "2026-08-04 03:39:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行在提交國會的報告中稱，央行技術團隊預測 2027 年國內生產總值增速為 1.9%，此前預期為 2.1%。"
     }
   ]
 }
