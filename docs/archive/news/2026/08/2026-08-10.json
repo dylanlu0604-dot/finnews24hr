@@ -1,7 +1,43 @@
 {
   "date": "2026-08-10",
-  "count": 290,
+  "count": 293,
   "items": [
+    {
+      "id": "mkt:019fe90b-40a9-7aab-8fcd-6ff07357cb50",
+      "time": "2026-08-10 08:20:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "【Guojin Securities: Commodity rebound confirmed, energy and metals entering broad uptrend】Guojin Securities warns markets have focused on macro tensions and may have overlooked AI supply‑chain shifts; while investors debate AI’s path, non‑AI real assets and export sectors could become the primary market driver. The firm says the commodity rebound is established and the energy+metals complex is shifting from the downtrend since March into a broad upswing. Preferred resource ranking: non‑ferrous metals (gold, copper, aluminium) first, then energy (coal, oil and petrochemicals). Watch construction machinery, power‑grid equipment and refining/petrochemical stocks as demand from southern markets aligns with Chinese manufacturing. High‑dividend, low‑volatility, stable cash‑flow dividend names are likely targets for absolute‑return investors’ reallocation."
+    },
+    {
+      "id": "5032819",
+      "time": "2026-08-10 08:20:56",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：一線需求紮實，地產政策態度積極】中信證券研報指出，一線城市自住需求紮實，住宅空置率相對較低，租金也明顯走穩。2026年2月、4月和8月，上海、深圳和北京陸續出臺政策，內容主要涉及公積金貸款額度的提升，以及限購的進一步寬鬆。相比年初上海的政策，北京政策的內容更加豐富了一些，預計有助於真實需求從低總價段開始穩步釋放。"
+    },
+    {
+      "id": "5032818",
+      "time": "2026-08-10 08:19:01",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：美日短期干預匯市有助於穩定市場預期 日元持續大幅升值的空間有限】中信證券研報指出，美日聯合干預外匯市場，旨在防範日元持續貶值引發風險外溢。日本面臨的主要困境在於，其國內通脹持續低於日銀目標水平，貨幣政策加息意願有限，同時高市早苗內閣減稅計劃可能進一步擴大日本財政缺口，削弱投資者對日元資產的信心。而美國的擔憂則在於，日本為穩定匯率或減持美國國債，在美債供給維持高位的背景下可能進一步推升長端利率。總體來看，美日短期干預匯市有助於穩定市場預期，但在兩國利差仍處高位的情況下，日元持續大幅升值的空間有限。相較於日本股市，美股在盈利增長、行業結構及AI產業鏈方面仍具備更顯著的優勢。"
+    },
     {
       "id": "5032817",
       "time": "2026-08-10 08:16:43",

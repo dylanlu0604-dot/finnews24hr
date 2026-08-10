@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-10 08:18:43",
-  "count": 15917,
+  "updated": "2026-08-10 08:22:35",
+  "count": 15908,
   "items": [
+    {
+      "id": "5032819",
+      "time": "2026-08-10 08:20:56",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【中信證券：一線需求紮實，地產政策態度積極】中信證券研報指出，一線城市自住需求紮實，住宅空置率相對較低，租金也明顯走穩。2026年2月、4月和8月，上海、深圳和北京陸續出臺政策，內容主要涉及公積金貸款額度的提升，以及限購的進一步寬鬆。相比年初上海的政策，北京政策的內容更加豐富了一些，預計有助於真實需求從低總價段開始穩步釋放。"
+    },
+    {
+      "id": "mkt:019fe90b-40a9-7aab-8fcd-6ff07357cb50",
+      "time": "2026-08-10 08:20:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "【Guojin Securities: Commodity rebound confirmed, energy and metals entering broad uptrend】Guojin Securities warns markets have focused on macro tensions and may have overlooked AI supply‑chain shifts; while investors debate AI’s path, non‑AI real assets and export sectors could become the primary market driver. The firm says the commodity rebound is established and the energy+metals complex is shifting from the downtrend since March into a broad upswing. Preferred resource ranking: non‑ferrous metals (gold, copper, aluminium) first, then energy (coal, oil and petrochemicals). Watch construction machinery, power‑grid equipment and refining/petrochemical stocks as demand from southern markets aligns with Chinese manufacturing. High‑dividend, low‑volatility, stable cash‑flow dividend names are likely targets for absolute‑return investors’ reallocation."
+    },
+    {
+      "id": "5032818",
+      "time": "2026-08-10 08:19:01",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：美日短期干預匯市有助於穩定市場預期 日元持續大幅升值的空間有限】中信證券研報指出，美日聯合干預外匯市場，旨在防範日元持續貶值引發風險外溢。日本面臨的主要困境在於，其國內通脹持續低於日銀目標水平，貨幣政策加息意願有限，同時高市早苗內閣減稅計劃可能進一步擴大日本財政缺口，削弱投資者對日元資產的信心。而美國的擔憂則在於，日本為穩定匯率或減持美國國債，在美債供給維持高位的背景下可能進一步推升長端利率。總體來看，美日短期干預匯市有助於穩定市場預期，但在兩國利差仍處高位的情況下，日元持續大幅升值的空間有限。相較於日本股市，美股在盈利增長、行業結構及AI產業鏈方面仍具備更顯著的優勢。"
+    },
     {
       "id": "5032817",
       "time": "2026-08-10 08:16:43",
@@ -144917,117 +144953,6 @@
         "公司"
       ],
       "text": "【英矽智慧：ISM8969/HT-001獲國家藥監局新藥臨床試驗批准，用於治療帕金森病】8月3日，英矽智慧在港交所公告，公司與深圳衡泰生物科技有限公司共同開發的創新口服NLRP3抑制劑ISM8969/HT-001已獲得中國國家藥品監督管理局新藥臨床試驗批准，用於治療帕金森病。"
-    },
-    {
-      "id": "5021255",
-      "time": "2026-08-03 08:22:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "鎧俠控股宣佈股票拆分和股票回購計劃後，其股價飆升7.3%。"
-    },
-    {
-      "id": "te:markets:571912",
-      "time": "2026-08-03 08:22:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Gains as Markets Watch US-Iran Talks — Silver climbed above $58 an ounce on Monday, recovering losses from the previous session after President Donald Trump said peace talks with Iran will resume today, sending oil prices lower and easing concerns over inflation and the interest rate outlook. Trump said key Middle Eastern allies, including Saudi Arabia, urged him to suspend planned strikes and pursue a diplomatic agreement instead, while reiterating his call for the swift reopening of the Strait of Hormuz. Investors also turned their focus to a packed week of US labor market data, highlighted by Friday’s closely watched monthly jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that delaying action for too long could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September."
-    },
-    {
-      "id": "5021254",
-      "time": "2026-08-03 08:21:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國石油和煉油公司S-OIL：受駕駛季需求、極端高溫天氣下電力需求增強以及部分國家出口限制的支撐，第三季度煉油利潤率預計將保持堅挺。"
-    },
-    {
-      "id": "5021253",
-      "time": "2026-08-03 08:21:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京升級釋出山洪災害風險黃色預警】北京市水務局與市氣象局2026年8月3日8時聯合升級釋出山洪災害風險黃色預警：預計8月3日8時至4日8時，北京市房山區、門頭溝區、懷柔區、密雲區發生山洪災害可能性較大（黃色風險）,延慶區、平谷區、昌平區可能發生山洪災害（藍色風險）。請公眾遠離山洪溝道，暫停涉山涉水戶外活動，防範山洪災害。"
-    },
-    {
-      "id": "5021252",
-      "time": "2026-08-03 08:21:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "發那科股價一度下跌 12%，創下自 2013 年 4 月以來的最大單日跌幅。"
-    },
-    {
-      "id": "te:markets:571911",
-      "time": "2026-08-03 08:21:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Rises as US-Iran Peace Talks Eyed — Gold climbed above $4,050 an ounce on Monday, recovering losses from the previous session after President Donald Trump said peace talks with Iran will resume today, sending oil prices lower and easing concerns over inflation and the interest rate outlook. Trump said key Middle Eastern allies, including Saudi Arabia, urged him to suspend planned strikes and pursue a diplomatic agreement instead, while reiterating his call for the swift reopening of the Strait of Hormuz. Investors also turned their focus to a packed week of US labor market data, highlighted by Friday’s closely watched monthly jobs report. Last week, the Federal Reserve left interest rates unchanged, although three officials dissented, warning that delaying action for too long could eventually require more aggressive policy tightening. Markets are currently pricing in about a 68% chance of a 25 basis point Fed rate hike in September."
-    },
-    {
-      "id": "5021251",
-      "time": "2026-08-03 08:20:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "鎧俠股價收復失地，轉為上漲逾7%。"
-    },
-    {
-      "id": "5021250",
-      "time": "2026-08-03 08:20:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京地鐵14號線下行一列車出現故障退出運營正線】據京港地鐵8月3日訊息，目前，地鐵14號線下行（開往張郭莊方向）一列車在東風北橋至棗營站區間出現故障，經工作人員及時處置後，故障列車退出運營正線，運營秩序逐步恢復正常。您可透過京港地鐵官網、微信、小程式、微博等線上方式獲取延誤告知，也可透過車站領取，給您出行帶來不便敬請諒解。"
-    },
-    {
-      "id": "5021249",
-      "time": "2026-08-03 08:20:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美國國債收益率全線下跌 特朗普稱美伊將重啟談判】美國國債收益率全線走低，此前美國總統唐納德·特朗普取消了對伊朗的打擊計劃，並表示談判將於週一恢復，油價下跌。美國10年期國債收益率下降4個基點至4.69%，2年期國債收益率下降5個基點至4.25%。30年期國債收益率下跌3個基點至5.24%。"
-    },
-    {
-      "id": "5021248",
-      "time": "2026-08-03 08:19:27",
-      "tags": [
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通將美聯儲加息時點預期提前至12月 10年期美債收益率料在4.85%】摩根大通美國利率策略主管Jay Barry和Molly Herckis在日期為7月31日的報告中寫道，將下一次美聯儲加息時點的預測從2027年下半年提前至今年12月，並預計此後政策利率將維持在3.75%-4.0%區間不變。報告稱，如果通脹很快再度升溫，9月加息也存在風險，“我們預計美國7月失業率小幅升至4.3%，新增非農就業人數為7.5萬人”。美聯儲主席沃什的講話表明資產負債表政策可能發揮更大作用，2%通脹目標承諾可能減弱，收益率曲線進一步熊市陡化的風險正在上升，建議建立2年期/10年期國債收益率曲線陡峭化交易。摩根大通還將2026年底美國10年期國債收益率預測從4.70%上調至4.85%，將30年期國債收益率目標從5.20%上調至5.40%。該行稱，此舉主要反映其重新看好盈虧平衡通脹率，並預計期限溢價將有所上升。"
-    },
-    {
-      "id": "mkt:019fc4fd-58f8-7aab-8f4a-7156d07f7965",
-      "time": "2026-08-03 08:19:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's top foreign-exchange official MIMURA said limits on FIMA tools do not mean overall foreign-exchange intervention is constrained."
-    },
-    {
-      "id": "5021247",
-      "time": "2026-08-03 08:18:54",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【經濟日報：客觀看待存量時代房地產投資縮減】今年上半年，全國二手房網籤面積同比增長10.2%，二手房在新房和二手房交易總量中的佔比達到50.4%，北京、上海、江蘇、廣東等18個省（區、市）二手住宅交易面積超過新建商品住宅。 二手房市場活躍度較高，是我國房地產進入存量時代的表現。存量時代，房地產交易將從以新房銷售為主的增量交易，加快向新房和二手房並舉轉變。過去，房地產對經濟增長的貢獻很大程度上體現在房地產開發投資的快速增長。存量時代，將不再過度依賴房地產拉動經濟增長。應客觀看待開發投資、新開工面積、新房銷售面積等指標的下降。隨著各地積極出臺“控增量、去庫存、優供給”的政策舉措，房地產開發等指標下降，是各地落實中央關於嚴控增量要求的反映，也是市場快速形成供求平衡的表現。房地產行業將向精細化、高品質、可持續的良性發展邁進，助力實現人居環境持續提升和城市高質量發展。"
     }
   ]
 }
