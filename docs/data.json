@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-11 03:59:35",
-  "count": 15802,
+  "updated": "2026-08-11 04:03:30",
+  "count": 15799,
   "items": [
+    {
+      "id": "mkt:019fed44-ee24-7aab-8fe0-8ac4466272c1",
+      "time": "2026-08-11 04:02:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "AAPL.O",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【U.S. close: major indexes down; Nasdaq Golden Dragon China Index +1.65%】U.S. equities closed lower Monday: Dow -0.10%, S&P 500 -0.06%, Nasdaq -0.32%. Apple (AAPL.O) -1.5%, SpaceX (SPCX.O) +4.0%, SK Hynix (SKHY.O) -1.9%, Intel (INTC.O) -4.0%. Nasdaq Golden Dragon China Index +1.65%; Alibaba (BABA.N) +3.0%."
+    },
+    {
+      "id": "5034582",
+      "time": "2026-08-11 04:01:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500能源指數上漲4.6%，創2025年4月以來最佳單日表現。"
+    },
+    {
+      "id": "mkt:019fed44-126d-7aab-8fe0-871336e9a156",
+      "time": "2026-08-11 04:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interim Venezuelan President Rodriguez said the earthquake death toll has risen to 6,301."
+    },
+    {
+      "id": "5034581",
+      "time": "2026-08-11 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.11%，標普500指數跌0.06%，納指跌0.32%。Coherent Corp跌14.23%，Lumentum Holdings Inc. Common Stock When Issued跌8.56%，Ciena科技跌5.98%，Verisk Analytics跌5.55%，Arm Holdings Plc跌5.23%。“七姐妹”方面：亞馬遜漲1.30%，微軟漲1.23%，特斯拉漲0.70%，谷歌漲0.69%，Meta Platforms漲0.48%，蘋果跌1.56%，英偉達跌2.87%。"
+    },
+    {
+      "id": "5034580",
+      "time": "2026-08-11 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.59%】中進醫療漲36.74%，中比能源漲17.00%，陸金所控股漲11.33%，BOSS直聘漲5.92%，中汽系統漲5.59%。"
+    },
     {
       "id": "5034579",
       "time": "2026-08-11 03:58:47",
@@ -143752,94 +143800,6 @@
         "市場"
       ],
       "text": "【美元指數3日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.02%，在匯市尾市收於99.894。截至紐約匯市尾市，1歐元兌換1.1514美元，低於前一交易日的1.1531美元；1英鎊兌換1.3431美元，低於前一交易日的1.3482美元。1美元兌換156.74日元，低於前一交易日的158.90日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8082瑞士法郎；1美元兌換1.4045加元，高於前一交易日的1.4019加元；1美元兌換9.5557瑞典克朗，高於前一交易日的9.5193瑞典克朗。"
-    },
-    {
-      "id": "mkt:019fc939-22da-7aab-8f5f-437f77e25ff1",
-      "time": "2026-08-04 04:03:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices tumble on 3rd】By the close, NYMEX September light sweet crude futures fell $4.33 to settle at $80.34/bbl, down 5.11%. ICE Brent October futures fell $4.16 to settle at $83.77/bbl, down 4.73%."
-    },
-    {
-      "id": "mkt:019fc938-da16-7aab-8f5f-3d388de34f1d",
-      "time": "2026-08-04 04:02:53",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "Boeing (BA.N) shares surged 8%, their largest single-day gain since December 2025."
-    },
-    {
-      "id": "5023211",
-      "time": "2026-08-04 04:02:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價3日大幅下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌4.33美元，收於每桶80.34美元，跌幅為5.11%；10月交貨的倫敦布倫特原油期貨價格下跌4.16美元，收於每桶83.77美元，跌幅為4.73%。"
-    },
-    {
-      "id": "5023210",
-      "time": "2026-08-04 04:01:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音漲8%，創2025年12月份以來最大單日漲幅。"
-    },
-    {
-      "id": "mkt:019fc937-8c99-7aab-8f5f-35bdd29bf873",
-      "time": "2026-08-04 04:01:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Microsoft",
-        "Alphabet",
-        "Meta Platforms",
-        "Tesla",
-        "Alibaba",
-        "Market Themes",
-        "Magnificent 7",
-        "Dow",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "【US close: Dow hits record, Nasdaq up over 2%】U.S. equities closed Monday: Dow Jones Industrial Average up 1.3% to a record closing high; S&P 500 +1.48%; Nasdaq Composite +2.1%. Microsoft (MSFT.O) and Alphabet (GOOG.O) rose nearly 5%; Meta (META.O) gained about 6%; Tesla (TSLA.O) and NVIDIA (NVDA.O) around 3%. SanDisk (SNDK.O) +6%; SK Hynix (SKHY.O) −0.7%. Nasdaq Golden Dragon Index +0.75%; Alibaba (BABA.N) +4%."
-    },
-    {
-      "id": "5023209",
-      "time": "2026-08-04 04:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國科技股七巨頭指數漲3.6%，創3月31日以來最大單日漲幅。"
-    },
-    {
-      "id": "5023208",
-      "time": "2026-08-04 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲1.32%，標普500指數漲1.48%，納指漲2.13%。第一太陽能漲10.28%，Coherent Corp漲9.62%，Lumentum Holdings Inc. Common Stock When Issued漲9.22%，甲骨文漲9.22%，Axon Enterprise漲9.13%。“七姐妹”方面：Meta Platforms漲5.97%，微軟漲4.82%，亞馬遜漲4.61%，谷歌漲4.37%，特斯拉漲3.48%，英偉達漲2.90%，蘋果跌1.84%。"
-    },
-    {
-      "id": "5023207",
-      "time": "2026-08-04 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.66%】大全新能源漲12.98%，金山雲漲6.64%，嘉楠科技漲5.41%，億航漲5.65%，禾賽科技漲5.21%。"
     }
   ]
 }
