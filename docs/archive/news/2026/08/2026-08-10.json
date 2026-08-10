@@ -1,7 +1,35 @@
 {
   "date": "2026-08-10",
-  "count": 319,
+  "count": 322,
   "items": [
+    {
+      "id": "mkt:019fe921-4f3e-7aab-8fcd-97e3fb3a2fef",
+      "time": "2026-08-10 08:45:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China gold ETFs draw over CNY10bn since July; asset managers see short-term consolidation but long-term gold bull intact】Spot gold in London topped $4,300/oz on Aug 7 after posting the largest single-day H2 gain a day earlier. As prices recovered, domestic gold ETFs accelerated allocations: since July mainstream products have seen net inflows of more than CNY10bn, and HuaAn’s gold ETF recorded 18 consecutive trading days of net inflows. Gold has retraced over 26% from this year’s peak, with shifts in liquidity conditions cited as the primary driver of the correction. Supported by ongoing central-bank purchases, public fund managers expect further near-term bottoming but say the long-term structural bull case for gold remains intact."
+    },
+    {
+      "id": "5032843",
+      "time": "2026-08-10 08:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【上半年空調出口1079億元：歐洲“一機難求”，中國製造送去清涼】今年上半年，我國空調、電扇、冰箱等家電合計出口1079.1億元。從國別來看，今年前5個月，中國對法國、荷蘭、比利時等國家的空調出口額同比大幅增長。多款中國空調一經上市就被搶購，在一些國家甚至一度“一機難求”。空調熱銷歐洲，一方面是今年歐洲大範圍長時間出現高溫天氣，一方面是全歐家庭空調普及率不高，供需缺口很大。滾滾熱浪下，中國製造又一次接住了集中爆發的巨大需求，為歐洲消費者送去清涼和舒適。（新華社）"
+    },
+    {
+      "id": "5032842",
+      "time": "2026-08-10 08:43:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "三井金屬公佈第一季度業績後，股價下跌 19%。"
+    },
     {
       "id": "5032841",
       "time": "2026-08-10 08:41:34",

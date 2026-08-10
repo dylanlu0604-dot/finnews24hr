@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-10 08:42:15",
-  "count": 15881,
+  "updated": "2026-08-10 08:46:01",
+  "count": 15878,
   "items": [
+    {
+      "id": "mkt:019fe921-4f3e-7aab-8fcd-97e3fb3a2fef",
+      "time": "2026-08-10 08:45:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【China gold ETFs draw over CNY10bn since July; asset managers see short-term consolidation but long-term gold bull intact】Spot gold in London topped $4,300/oz on Aug 7 after posting the largest single-day H2 gain a day earlier. As prices recovered, domestic gold ETFs accelerated allocations: since July mainstream products have seen net inflows of more than CNY10bn, and HuaAn’s gold ETF recorded 18 consecutive trading days of net inflows. Gold has retraced over 26% from this year’s peak, with shifts in liquidity conditions cited as the primary driver of the correction. Supported by ongoing central-bank purchases, public fund managers expect further near-term bottoming but say the long-term structural bull case for gold remains intact."
+    },
+    {
+      "id": "5032843",
+      "time": "2026-08-10 08:44:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【上半年空調出口1079億元：歐洲“一機難求”，中國製造送去清涼】今年上半年，我國空調、電扇、冰箱等家電合計出口1079.1億元。從國別來看，今年前5個月，中國對法國、荷蘭、比利時等國家的空調出口額同比大幅增長。多款中國空調一經上市就被搶購，在一些國家甚至一度“一機難求”。空調熱銷歐洲，一方面是今年歐洲大範圍長時間出現高溫天氣，一方面是全歐家庭空調普及率不高，供需缺口很大。滾滾熱浪下，中國製造又一次接住了集中爆發的巨大需求，為歐洲消費者送去清涼和舒適。（新華社）"
+    },
+    {
+      "id": "5032842",
+      "time": "2026-08-10 08:43:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "三井金屬公佈第一季度業績後，股價下跌 19%。"
+    },
     {
       "id": "5032841",
       "time": "2026-08-10 08:41:34",
@@ -144627,61 +144655,6 @@
         "市場"
       ],
       "text": "日元兌美元短線持續拉昇，日內上漲200多點或1.4%，報155.30。"
-    },
-    {
-      "id": "5021290",
-      "time": "2026-08-03 08:45:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【東方財富陳果：海外波動加劇並未改變A股內部再平衡方向】8月3日，東方財富策略陳果團隊釋出最新研報指出，海外波動加劇並未改變A股內部再平衡方向。7月以來，A股個股收益分佈逐步右移，主動偏股基金收益分佈有所左移，煤炭、石油石化、銀行、食品飲料等前期滯漲行業明顯修復，市場機會正在擴散到更多碳基與矽基下游行業。矽基上游成交佔比仍處高位，配置上完成再平衡預計也仍需時間。配置上，繼續維持“配置再平衡、積極佈局反攻”的思路。繼續關注新能源、有色、非銀等具備景氣邏輯的藍籌價值方向，科技中更關注AI應用，重點關注港股網際網路、計算機、傳媒等；最後，可按照“配置再平衡”原則，如果矽基上游配置在較低水平，也可關注調整充分、估值合理、競爭壁壘清晰的國產“真科技”龍頭。"
-    },
-    {
-      "id": "5021289",
-      "time": "2026-08-03 08:45:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【亞市早盤金價因技術性反彈走高】亞洲早盤金價走高。XS.com市場分析師Linh Tran表示，美元走勢、美債收益率以及即將公佈的美國勞動力市場資料對未來幾個交易日金價走勢的影響，將超過傳統的避險敘事。該分析師表示，地緣政治風險不再意味著金價會出現單向反應，因為中東緊張局勢既能推高油價和通脹預期，也能增強避險需求。該分析師補充說，黃金目前正處於過渡階段，近期的上漲看起來更像是技術性反彈。現貨黃金上漲0.4%，報每盎司4,058.79美元。"
-    },
-    {
-      "id": "5021288",
-      "time": "2026-08-03 08:43:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今天全國仍有大範圍降雨 東北至江南高溫悶熱持續】今天（8月3日），全國仍有大範圍降雨，強降雨主要出現在華南和西南地區東部至華北、東北一帶，明天起降水強度將有所減弱。在副熱帶高壓的掌控下，從東北至江南高溫悶熱天氣持續，不少地方從早熱到晚，猶如蒸桑拿。"
-    },
-    {
-      "id": "te:economy:571926",
-      "time": "2026-08-03 08:43:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Taiwan Manufacturing Growth Maintains Momentum — The S&P Global Taiwan Manufacturing PMI edged down to 55.1 in July 2026 from 55.2 in the previous month, marking its weakest reading since March. However, it remained firmly in expansion territory for an eighth consecutive month, as output increased for the eighth straight month and remained above its long-run average. Moreover, new export orders expanded for a seventh month running, although the pace of growth softened slightly from the previous month. In the labor market, Taiwanese manufacturers returned to hiring for the first time since February, though employment growth was only marginal. On the price front, input cost inflation eased to its weakest level since January, while output charge inflation slowed to a five-month low, indicating a moderation in pricing pressures. Looking ahead, Taiwanese manufacturers remained optimistic about the outlook for production over the next 12 months, though still slipped to its lowest level since April."
-    },
-    {
-      "id": "5021287",
-      "time": "2026-08-03 08:43:33",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：A股本輪調整更多是擁擠交易的修正，而非韓國式的去槓桿衝擊】中信證券研報稱，A股本輪調整更多是擁擠交易的修正，而非韓國式的去槓桿衝擊，這體現在：1）整體槓桿情況比較安全，7月上漲股票數量接近全A一半，明顯超過6月；2）相比全球歷史上典型的去槓桿行情，當前的融資回落幅度並不算大；3）ETF市場呈現持續的資金流入，科技類ETF的流入提供了充足流動性支援。當然，區域性的流動性壓力依然存在，尤其是部分非核心AI股，這些個股的調整影響到了科技板塊內部的持倉調整，造成核心標的定價短暫失效，不過我們認為目前該影響已基本消除。8月普遍修復的機率還在提升，但並非簡單超跌反彈，非AI板塊的負面敘事有邊際好轉，資金環境也支援適當修復。配置上，建議增配能化、有色、非銀和創新藥，科技內部需要借反彈更加聚焦持倉。"
-    },
-    {
-      "id": "5021286",
-      "time": "2026-08-03 08:42:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【銳奇股份、力芯微等新設創投合夥企業 出資額約10億元】企查查APP顯示，近日，悅來港君信戰新（上海）創業投資合夥企業（有限合夥）成立，出資額10.3億元，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由銳奇股份、力芯微等共同出資。"
     }
   ]
 }
