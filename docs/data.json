@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11 02:00:02",
-  "count": 15783,
+  "updated": "2026-08-11 02:03:56",
+  "count": 15771,
   "items": [
+    {
+      "id": "5034484",
+      "time": "2026-08-11 02:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮稱特朗普今天將簽署疫苗行政命令。"
+    },
     {
       "id": "mkt:019fecce-3b90-7aab-8fde-9ff1441e724f",
       "time": "2026-08-11 01:52:46",
@@ -143564,122 +143572,6 @@
         "國際"
       ],
       "text": "特朗普：伊朗無核化階段需要“一段時間”。"
-    },
-    {
-      "id": "5023132",
-      "time": "2026-08-04 02:03:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗議題第二階段目標為去核化，前提是海峽局勢相關事宜落地。"
-    },
-    {
-      "id": "mkt:019fc8cb-8667-7aab-8f5d-938ad6bdd80e",
-      "time": "2026-08-04 02:03:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said denuclearization talks will take some time."
-    },
-    {
-      "id": "5023131",
-      "time": "2026-08-04 02:03:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗問題談判第一階段是重開霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019fc8cb-45f1-7aab-8f5d-88a94d536ede",
-      "time": "2026-08-04 02:03:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "U.S. President Trump said negotiations with Iran are progressing rapidly and that the outcome may be known today or tomorrow."
-    },
-    {
-      "id": "5023130",
-      "time": "2026-08-04 02:02:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海灣國家希望給談判“最後一次機會”。"
-    },
-    {
-      "id": "5023129",
-      "time": "2026-08-04 02:02:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：你們今天或明天就會知道伊朗談判的進展情況。"
-    },
-    {
-      "id": "mkt:019fc8ca-7c52-7aab-8f5d-82fd68681120",
-      "time": "2026-08-04 02:02:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. President Trump: This is Iran's last chance."
-    },
-    {
-      "id": "mkt:019fc8ca-64db-7aab-8f5d-787c518f71c0",
-      "time": "2026-08-04 02:02:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says U.S. negotiations were conducted at Iran's request."
-    },
-    {
-      "id": "5023128",
-      "time": "2026-08-04 02:01:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "埃及央行：6 月埃及 M2 貨幣供應量同比增長 16.7%。"
-    },
-    {
-      "id": "5023127",
-      "time": "2026-08-04 02:01:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：這是伊朗的最後機會。"
-    },
-    {
-      "id": "5023126",
-      "time": "2026-08-04 02:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國是應伊朗的要求與伊朗進行對話的。"
-    },
-    {
-      "id": "5023125",
-      "time": "2026-08-04 02:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普提及據稱伊朗昨日作出的表態。"
-    },
-    {
-      "id": "5023124",
-      "time": "2026-08-04 02:00:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗表示希望討論無核化問題。"
     }
   ]
 }
