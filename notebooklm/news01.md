@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-11 04:57:25_
-_本檔包含 2944 則快訊，約 598473 字_
+_更新時間：2026-08-11 05:51:48_
+_本檔包含 2956 則快訊，約 598771 字_
+
+---
+
+### 2026-08-11 05:51:05  #MKT News
+
+Blackstone is set to acquire a minority stake in Air Canada’s Aeroplan loyalty program for $2 billion, injecting fresh capital to help Air Canada offset rising fuel costs and weaker U.S. travel demand.
+
+---
+
+### 2026-08-11 05:48:49  #宏觀
+
+【劉海星率中共代表團訪問古巴並出席首屆“菲德爾國際對話”】8月8日至10日，中共中央對外聯絡部部長劉海星率中共代表團訪問古巴並出席首屆“菲德爾國際對話”。其間，同古共中央第一書記、古巴國家主席迪亞斯-卡內爾，古共中央政治局委員、中央組織書記莫拉萊斯，古共中央國際關係部部長洛薩達等會見交流。雙方表示，將共同落實好兩黨兩國最高領導人達成的重要共識，賡續傳統友誼，深化黨際交往，加強戰略溝通與協作，攜手推進各自國家社會主義事業，為中古命運共同體建設作出更大貢獻。（新華社）
+
+---
+
+### 2026-08-11 05:42:42  #MKT News
+
+CENC recorded a magnitude-3.9 earthquake at 05:31 on Aug 11 in Gao County, Yibin, Sichuan (28.53°N, 104.66°E); focal depth 5 km.
+
+---
+
+### 2026-08-11 05:38:15  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Advisor to Ukraine's interior minister said Russia launched ballistic strikes against Kyiv, Zaporizhia and Dnipropetrovsk regions; multiple explosions reported in Kyiv.
+
+---
+
+### 2026-08-11 05:37:27  #公司
+
+黑石集團即將達成一筆20億美元交易，收購加拿大航空Aeroplan忠誠度專案的少數股權。
+
+---
+
+### 2026-08-11 05:36:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Kyiv mayor says explosions have occurred in the capital and the city is under ballistic missile attack; residents are urged to remain in shelters.
+
+---
+
+### 2026-08-11 05:34:22  #其他
+
+中國地震臺網自動測定：08月11日05時31分在四川宜賓市高縣附近（北緯28.55度，東經104.67度）發生4.2級左右地震，最終結果以正式速報為準。
+
+---
+
+### 2026-08-11 05:33:41  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
+
+Middle East media report a U.S. general is set to assume command in the Gaza Strip within weeks.
+
+---
+
+### 2026-08-11 05:32:34  #國際
+
+【特朗普稱美軍實際控制霍爾木茲】美國總統特朗普當地時間6月10日下午在白宮對媒體稱，在伊朗要求美國就軍事衝突進行賠償後，他也要向伊朗提出索賠——這一說法與他幾個小時前在社交媒體發帖內容一致。 特朗普還稱，美國實際控制著霍爾木茲海峽，並已在該戰略石油水道清除了伊朗佈設的水雷。
+
+---
+
+### 2026-08-11 05:28:57  #國際
+
+基輔響起防空警報。
+
+---
+
+### 2026-08-11 05:28:53  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #WTI
+
+Air-raid sirens sounded in Kyiv, Ukraine.
+
+---
+
+### 2026-08-11 05:28:27  #MKT News
+
+Libya's military intelligence chief Fawzi Mansouri was targeted in an assassination incident in Benghazi, Saudi outlet Alhadath reported.
+
+---
+
+### 2026-08-11 05:22:11  #國際
+
+特朗普：伊朗已經“囊中羞澀”，在約300%的通脹背景下無力給士兵發放軍餉。
+
+---
+
+### 2026-08-11 05:18:56  #市場
+
+富時A50期指連續夜盤收跌0.23%，報15010點。
+
+---
+
+### 2026-08-11 05:14:39  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Chilean Copper Commission (Cochilco): Collahuasi mine copper output rose 1.7% YoY to 34,900 tonnes in June.
+
+---
+
+### 2026-08-11 05:14:36  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+Chile's National Copper Commission: Escondida copper mine produced 111,400 tonnes of copper in June, up 45.8% YoY.
+
+---
+
+### 2026-08-11 05:12:34  #公司 #國際
+
+【美航客機遭鳥擊後返航】當地時間8月10日上午，一架原定從美國南卡羅來納州默特爾比奇飛往北卡羅來納州夏洛特的美國航空航班，起飛後遭遇鳥擊並出現發動機問題，被迫返回默特爾比奇國際機場。美國航空公司方面稱，飛機安全降落，機上172名乘客無人受傷。空管錄音顯示，飛行員曾報告“發動機出現問題”並宣佈“緊急狀態”。機場跑道上發現大量鳥類殘骸和羽毛。另有附近飛行員稱，看到這架客機撞上一群鳥後左側發動機冒煙。不過飛機落地檢查後據稱未發現起火或洩漏。美國聯邦航空局將對事件展開調查。（CCTV國際時訊）
+
+---
+
+### 2026-08-11 05:11:30  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+Chilean Copper Commission (Cochilco) said state-owned Codelco's June copper production fell 4.8% YoY to 114,400 tonnes.
+
+---
+
+### 2026-08-11 05:09:38  #MKT News
+
+RBNZ released a consultation paper on introducing a prudential tax, proposing a full cost-recovery charge on all prudential costs and other fees.
+
+---
+
+### 2026-08-11 05:08:59  #公司
+
+紐西蘭儲備銀行釋出新審慎徵費的諮詢檔案。該項徵費將適用於銀行、非銀行存款機構、保險公司以及金融市場基礎設施。
+
+---
+
+### 2026-08-11 05:07:46  #其他
+
+【委內瑞拉地震遇難人數升至6301人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯10日說，6月24日地震造成的遇難人數已升至6301人。（新華社）
+
+---
+
+### 2026-08-11 05:03:23  #市場
+
+【國際金價週一漲1.1%，現貨白銀漲3.2%】週一紐約尾盤，現貨黃金漲1.10%，報4389.38美元/盎司。COMEX黃金期貨漲1.10%，報4448.20美元/盎司，逼近6月17日頂部4465.90美元和6月4日頂部4607.40美元。現貨白銀漲3.20%，報65.7089美元/盎司。COMEX白銀期貨漲3.80%，報65.910美元/盎司。COMEX銅期貨漲0.68%，報6.6360美元/磅。現貨鉑金漲0.32%，現貨鈀金漲0.33%。
+
+---
+
+### 2026-08-11 05:02:52  #國際
+
+伊朗外交部長表示，國際社會應當就霍爾木茲海峽封鎖所帶來的安全與經濟後果追究美國的責任，並指責美國與以色列造成這條戰略水道局勢動盪。
+
+---
+
+### 2026-08-11 05:00:06  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【IRGC Quds Force commander visits Baghdad, meets Iraqi political bloc and militia leaders】On the evening of the 10th (local time), Iran’s Islamic Revolutionary Guard Corps Quds Force commander Kani arrived in Baghdad and met with the Coordination Framework Alliance, leaders of the Popular Mobilization Forces and commanders of various Iraqi militias. Discussions covered national weapons control and related security issues.
+
+---
+
+### 2026-08-11 04:59:19  #國際
+
+【伊朗“聖城旅”指揮官到訪巴格達 同伊拉克多方會晤】當地時間10日晚，伊拉克安全部門訊息人士稱，伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼當晚抵達巴格達，與伊拉克國民議會最大黨團“協調框架聯盟”、“人民動員組織”及伊拉克各民兵組織領導人舉行會晤，會晤涉及伊拉克國家武器管控等議題。
 
 ---
 
@@ -17661,83 +17811,5 @@ Yemeni government media said the Hodeidah governor survived a Houthi missile att
 ### 2026-08-09 20:06:57  #MKT News #Market Regions #Greater China
 
 【Fliggy activates emergency response for Typhoon 'White Dolphin'; offers free hotel refunds in Zhejiang, Fujian, Anhui】Fliggy said on Aug 9 it has activated an emergency response for Typhoon 'White Dolphin'. For bookings made before 00:00 on Aug 9 it will allow no-penalty refunds or changes for: Zhejiang hotels with check-ins Aug 9–10; Huangshan, Anhui hotels with check-ins Aug 9–11; and Lianjiang, Fujian hotels with check-ins on Aug 9. Consumers forced to cancel or alter travel by the typhoon can apply to Fliggy for lossless refunds/changes; Fliggy will cover refund/change losses.
-
----
-
-### 2026-08-09 20:05:33  #其他
-
-【途家：福建、浙江及安徽黃山景區民宿訂單均可免費取消】8月9日，受颱風“白海豚”影響，途家民宿宣佈，已對福建、浙江及安徽黃山景區啟動應急保障措施。其中，入住日期為2026年8月9日的福建連江縣途家民宿訂單，使用者均可申請免費取消；凡在8月9日0:00前預訂，且入住日期為8月9日至8月10日的浙江省途家民宿訂單，使用者均可申請免費取消；凡在8月9日11:00前預訂，且入住日期為8月9日至8月11日的黃山景區途家民宿訂單，使用者均可申請免費取消。
-
----
-
-### 2026-08-09 20:05:29  #其他
-
-【飛豬：啟動颱風“白海豚”應急響應機制，浙江、福建、安徽等地酒店可免費退改】受颱風“白海豚”影響，飛豬8月9日宣佈，已啟動應急響應機制，針對8月9日0時前預訂的入住日期為8月9日至8月10日的浙江省內酒店訂單、入住日期為8月9日至8月11日的安徽黃山酒店訂單、入住日期為8月9日的福建連江酒店訂單，消費者如受颱風影響被迫取消或改變行程，可向飛豬申請無損退改，飛豬將為消費者兜底退改損失。
-
----
-
-### 2026-08-09 20:04:43  #其他
-
-【湖北釋出黃色山洪災害氣象預警】湖北省防汛抗旱指揮部辦公室2026年8月9日20時釋出黃色山洪災害氣象預警。預計2026年8月9日20時至8月10日20時，下列地區存在山洪災害風險：黃色預警區域（山洪災害可能性較大）：黃岡市（羅田縣、英山縣）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。（央視新聞）
-
----
-
-### 2026-08-09 20:03:51  #MKT News
-
-A Yemeni military spokesman said a Houthi attack on Mocha port killed seven people.
-
----
-
-### 2026-08-09 20:02:57  #其他
-
-葉門軍方發言人稱，摩卡港遇襲造成七人死亡。
-
----
-
-### 2026-08-09 20:01:50  #MKT News
-
-Hamas senior official Basem Naim said the group remains committed to the roadmap agreed with mediators and peace committee representatives in Cairo 10 days ago.
-
----
-
-### 2026-08-09 20:01:08  #其他
-
-【國家防總對上海江西啟動防汛防颱風四級應急響應】8月9日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房城鄉建設部、交通運輸部等部門以及浙江、江蘇、安徽等重點省份聯合會商，研判颱風“白海豚”發展趨勢，部署防範應對工作。（央視新聞）
-
----
-
-### 2026-08-09 20:00:04  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-【CITIC Securities: Downside likely priced in, supporting extended Hong Kong equity gains】CITIC Securities says the Hang Seng Composite Index has seen an earnings-expectations reversal over the past month; interim results beats and positive profit guidance have driven upward revisions to full-year earnings. The Hang Seng TECH index is lagging, hit by divergent passenger-car profitability and higher capex at leading internet platforms that compress near-term margins. Sector outlook: upgrades for healthcare (CXO and large-cap pharma), financials (broker asset management and insurers), utilities and cyclical transport; downgrades for consumer, property and information technology. Flow pattern is two-pronged: capital rotating into oversold low-base sectors while momentum trades target names with strong earnings trajectories. Against a dense earnings calendar and global macro volatility, the firm favors a dividend-defense plus growth-optionalilty barbell: defensive allocation to high-dividend, low-beta, bond-like stocks; offensive exposure to internet giants, robotics and biotech benefiting from two-way capital flows, and tech hardware/AI applications, with selective positions in innovative drugs and industrial metals for near-term catalysts.
-
----
-
-### 2026-08-09 19:59:52  #其他
-
-【颱風“白海豚”已登陸浙江沿海 國家防辦、應急管理部持續會商部署防範應對工作】8月9日，國家防總辦公室、應急管理部組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房城鄉建設部、交通運輸部等部門以及浙江、江蘇、安徽等重點省份聯合會商，研判颱風“白海豚”發展趨勢，部署防範應對工作。颱風“白海豚”於9日傍晚在浙江沿海兩次登陸。會商指出，颱風登陸期間風雨猛烈，近岸風險管控、海堤水閘安全面臨嚴峻挑戰，城鎮洪澇、山洪和地質災害等可能多發重發，其殘餘環流可能與北方冷渦結合，給華北、山東半島甚至東北等地帶來降雨，防汛防颱風工作形勢嚴峻複雜。（央視新聞）
-
----
-
-### 2026-08-09 19:55:19  #其他
-
-阿拉伯媒體訊息：在葉門對摩卡地區沙特僱傭軍的襲擊中，截至目前已造成7人死亡，35名僱傭軍受傷。
-
----
-
-### 2026-08-09 19:54:44  #其他
-
-哈馬斯高階官員巴塞姆·納伊姆：我們仍致力於10天前在開羅與調解方及和平委員會代表達成的路線圖協議。
-
----
-
-### 2026-08-09 19:53:34  #MKT News
-
-Sky News, citing sources, said Houthi militants fired a missile at a hospital staff dormitory in southwest Yemen.
-
----
-
-### 2026-08-09 19:53:21  #MKT News
-
-Hamas senior official Basem Naim said he expects mediators and the US to pressure Israeli Prime Minister Netanyahu and his government to comply with the roadmap.
 
 ---
