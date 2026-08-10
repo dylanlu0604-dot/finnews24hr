@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-11 01:40:52",
-  "count": 15796,
+  "updated": "2026-08-11 01:44:45",
+  "count": 15797,
   "items": [
+    {
+      "id": "5034480",
+      "time": "2026-08-11 01:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "嘉能可支援的一個美國投資者團體考慮拯救鈷冶煉商Sherritt。"
+    },
+    {
+      "id": "mkt:019fecc5-bebe-7aab-8fde-82886bd0ef4c",
+      "time": "2026-08-11 01:43:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "On Iran talks, U.S. President Trump said Iran should be held responsible for the damage and deaths it has caused to the people of Lebanon, Syria, Yemen and Gaza."
+    },
     {
       "id": "mkt:019fecc2-e3ea-7aab-8fde-7efc0759ca77",
       "time": "2026-08-11 01:40:23",
@@ -9,6 +29,14 @@
         "MKT News"
       ],
       "text": "A minister said the Chilean government will recapitalize 100% of state-owned copper producer Codelco's 2025 profits."
+    },
+    {
+      "id": "5034479",
+      "time": "2026-08-11 01:40:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗也應對其給周邊國家造成的損害承擔責任，伊朗也應該為葉門和敘利亞的損失負責。"
     },
     {
       "id": "5034478",
@@ -143774,22 +143802,6 @@
         "國際"
       ],
       "text": "市場資訊：特朗普簽署一項行政令。"
-    },
-    {
-      "id": "5023109",
-      "time": "2026-08-04 01:44:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【AI熱潮持續 新興市場ETF單週吸金創2月以來新高】新興市場股票交易所交易基金（ETF）上週吸引資金流入規模創2月以來新高，圍繞亞洲人工智慧（AI）概念股的投資熱潮未見降溫跡象。彙編資料顯示，截至7月31日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額約為45億美元，高於前一週逾20億美元的流入規模。這創下2月27日以來最大單週資金流入。"
-    },
-    {
-      "id": "mkt:019fc8b7-9798-7aab-8f5d-3fb9c81d1d5c",
-      "time": "2026-08-04 01:41:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Media: Iranians increasingly tune out Trump’s war rhetoric】Al Jazeera reports that after months of near‑daily statements from Trump — ranging from threats of large‑scale bombing to claims of resuming talks — many Iranians have stopped following his comments to protect their mental health. A Tehran financial‑sector employee said his remarks “do affect our lives, but I try to focus on what I can control and protect my loved ones” to escape the “toxic uncertainty.” With the war approaching its six‑month mark, public expectation and fear are noticeably lower than on April 7, when Trump warned that “the whole civilization will perish” before shortly announcing a halt to hostilities."
     }
   ]
 }
