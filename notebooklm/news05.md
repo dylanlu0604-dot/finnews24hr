@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-11 00:57:39_
-_本檔包含 3374 則快訊，約 598368 字_
+_更新時間：2026-08-11 02:00:02_
+_本檔包含 3349 則快訊，約 597742 字_
+
+---
+
+### 2026-08-05 07:11:15  #央行 #其他
+
+哥倫比亞央行將2026年通脹預期上調至6.9%。
+
+---
+
+### 2026-08-05 07:10:28  #公司 #觀點 #國際
+
+【花旗集團為KKR收購Integer籌備24.5 億美元的債務融資】據知情人士透露，花旗集團正牽頭籌備一筆24.5億美元的債務融資，用於支援KKR集團收購醫療器械廠商Integer控股公司。不願具名的知情人士稱，該筆融資包含21億美元七年期定期貸款的實放債務，以及3.5億美元未動用迴圈信貸額度。除花旗集團外，巴克萊、瑞銀集團以及傑富瑞金融集團也將為本交易提供債務資金。知情人士補充，這筆債務或將在9月於美國槓桿貸款市場向投資者發售，交易條款仍在磋商，存在變動可能。KKR的代表拒絕置評，花旗集團與Integer暫未回應置評請求。
+
+---
+
+### 2026-08-05 07:07:38  #公司 #國際
+
+【三星釋出下一代AI儲存路線圖，展示zHBM和400層以上V10 NAND技術】當地時間8月4日， 三星電子在美國聖克拉拉舉行的2026年未來儲存與記憶體大會（FMS）上，公佈面向AI基礎設施的下一代儲存技術路線，首次展示zHBM、zNAND-O概念產品，並推出採用晶圓鍵合技術的400層以上V10 BV-NAND。三星表示，zHBM旨在透過將HBM垂直堆疊於AI加速器上方，縮短處理器與記憶體之間的資料傳輸距離，以提升AI訓練和推理效能。搭載下一代介面系統的zHBM預計效能可達到HBM5的約8倍，同時藉助新型晶圓鍵合技術，實現超過HBM5 10倍的記憶體密度，並提升能效表現。在NAND領域，三星首次釋出V10 BV-NAND架構，透過晶圓鍵合技術堆疊儲存單元，層數超過400層，較上一代V9產品記憶體密度提升約58%，同時改善讀寫和輸入輸出效能。
+
+---
+
+### 2026-08-05 07:07:28  #市場
+
+【分紅回購持續推進，券商多管齊下增強投資者信心】8月以來，南向資金延續淨流入態勢，港股市場資金面持續改善。今年以來，除5月出現階段性淨流出外，南向資金整體保持較強配置力度，6月、7月淨買入額分別達到271.11億港元、628.69億港元，資金迴流趨勢明顯。與此同時，港股主要指數近期持續修復，自6月26日以來，截至8月4日，恒生指數、恒生科技指數分別累計上漲12.03%、10.89%，市場風險偏好逐步回升。分析人士認為，隨著外資流向改善、南向資金持續加碼以及港股估值修復推進，資金面正在成為支撐港股行情的重要因素。當前資金重點流向資訊科技業、非必需性消費、金融等板塊，科技成長與核心資產仍是資金佈局的重要方向。不過，機構也提示，海外流動性變化、AI產業鏈交易驗證以及全球風險因素仍可能對市場形成擾動，短期港股或仍呈現震盪修復格局，後續需關注資金流向變化帶來的結構性機會。（中證報）
+
+---
+
+### 2026-08-05 07:06:05  #公司 #國際
+
+【迪士尼退出A+E 媒體集團赫斯特以12億美元交易獲得其全部股權】美國私營媒體集團赫斯特（Hearst）週二達成一項協議，將以約12億美元現金收購迪士尼旗下持有的A+E Global Media 50%股權，從而全資擁有該電視及內容業務。迪士尼退出A+E的決定，是該公司致力於優先發展流媒體和ESPN業務的一部分，儘管在有線電視訂閱量持續下滑的背景下，迪士尼仍在評估 (link) 旗下部分傳統線性電視資產的作用。赫斯特集團在宣告中表示，該交易預計將於9月完成。屆時，A+E將成為赫斯特娛樂集團旗下的一家全資子公司。A+E此前是赫斯特與迪士尼各持50%股份的合資企業，旗下運營的電視品牌包括A&E、Lifetime、歷史頻道（The History Channel）、LMN、FYI和Vice TV。其覆蓋範圍遍及200個地區，以40種語言向超過4.14億戶家庭提供服務。
+
+---
+
+### 2026-08-05 07:04:15  #公司 #國際
+
+【特朗普顧問告知人工智慧公司，他們不會對開放權重模型進行安全性測試】據兩位熟悉相關討論的訊息人士透露，特朗普政府週二向人工智慧開發者表示，不會對開放權重的人工智慧模型進行自願性安全測試。開放式模型（包括英偉達的Nemotron和Meta的Llama）是指其核心元件對公眾開放的人工智慧系統。封閉式模型則由特定公司控制。美國主要的封閉式模型開發商包括OpenAI、谷歌和Anthropic。據五位知情人士透露，白宮就尚未公佈的測試規則與Meta 、Anthropic、谷歌、英偉達和OpenAI的員工進行了討論。此次會議召開前，OpenAI和Anthropic曾披露，其AI工具曾入侵其他公司的系統。這些入侵事件引發了美國議員的擔憂，即功能日益強大的AI模型是否會被用於實施或協助網路攻擊。OpenAI週二表示，該公司在測試期間的模型捲入了一起網路安全事件，該事件涉及AI系統訪問網際網路。白宮新聞辦公室未回應路透就此次會議提出的置評請求。
+
+---
+
+### 2026-08-05 07:02:20  #市場
+
+紐約期銀日內跌1%，現報59.64美元/盎司。
+
+---
+
+### 2026-08-05 07:02:05  #國際
+
+【人民日報鐘聲：中美經貿需要“合作清單” 而非“覆蓋清單”】人民日報鐘聲文章指出，中美應當拉長的是互利共贏的“合作清單”，而不是人為設限的所謂“覆蓋清單”。保護主義提升不了競爭力，築牆設壘換不來安全。中方敦促美方正視兩國業界呼聲，尊重市場經濟規律和公平競爭原則，立即停止錯誤做法，撤銷相關歧視性限制措施。如果美方一意孤行，中方將堅決予以反制。希望美方切實落實兩國元首重要共識，摒棄零和博弈思維，迴歸理性務實軌道，同中方相向而行，推動中美經貿合作健康穩定發展，為中美建設性戰略穩定關係注入更多正能量。
+
+---
+
+### 2026-08-05 07:01:25  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
+
+NZX 50 Nears Record High, Tracks Wall Street Higher — New Zealand's stocks rose 70 points, or 0.5%, to 13,973 in Wednesday morning trade, up for the third consecutive session, tracking a rally on Wall Street overnight, buoyed by strong corporate earnings and lower oil prices. The broader index closed near its record high of 13,977, reached on July 29, mainly supported by gains in the financial, consumer staples, and technology sectors. Further moderating oil prices amid optimism over US-Iran peace talks also lifted sentiment, as easing inflation concerns tempered expectations of an interest rate hike. However, the latest data capped the gains, as New Zealand's unemployment rate increased to 5.6%, the highest since Q3 2015, raising expectations that the RBNZ will tighten its monetary policy. Among the early gainers were Summerset Group (2.0%), Infratil (1.4%), A2 Milk (0.9%), Westpac Banking Corp. (0.6%), Fisher & Paykel (0.5%), and Ebos Group (0.3%).
+
+---
+
+### 2026-08-05 07:01:12  #其他
+
+【三項光伏能耗能效強制性國標明年1月起正式實施】記者昨天（4日）從國家標準委瞭解到，三項光伏領域能耗能效強制性國家標準明年一月起正式實施，三項標準將從源頭嚴控低效產品入市、推動光伏產業技術迭代與綠色升級。（央視新聞）
+
+---
+
+### 2026-08-05 07:00:12  #MKT News #AUDUSD #Impact bearish #DXY #Impact bullish
+
+Australia July AIG/PwC Manufacturing Performance Index -19.6; prior -16.8.
+
+---
+
+### 2026-08-05 07:00:10  #MKT News #Copper #Impact bearish #DXY #Impact bullish
+
+Australia AIG Construction Performance Index fell to -40.6 in July from -38.1 previously.
+
+---
+
+### 2026-08-05 07:00:10  #MKT News #AUDUSD #Impact bullish
+
+Australia July S&P Global Services PMI (final) 53.6; prior 53.0.
+
+---
+
+### 2026-08-05 07:00:10  #MKT News #AUDUSD #Impact bullish #DXY #Impact bearish
+
+Australia July S&P Global Composite PMI (final) 53.2, prior 52.6.
+
+---
+
+### 2026-08-05 07:00:01  #MKT News #Economic Calendar #Important
+
+Australia | Ai Group Australian PMI (manufacturing) (Jul) | actual -19.6 | previous -16.8
+
+---
+
+### 2026-08-05 07:00:01  #MKT News #Economic Calendar #Important
+
+Australia | Ai Group Australian PCI (construction) (Jul) | actual -40.6 | previous -38.1
+
+---
+
+### 2026-08-05 06:59:08  #公司 #焦點
+
+【國內航線燃油附加費今起再次下調】從多家航空公司瞭解到，從今天（5日）起銷售的國內航線機票燃油附加費再次下調。調整後的國內航線燃油附加費標準為：800公里以上航線每位成人旅客收取70元燃油附加費，800公里（含）以下航線每位成人旅客收取40元燃油附加費，相較於調整前分別降低了30元和10元。這是今年6月以來第三次下調國內航線燃油附加費，進一步降低旅客出行成本。（央視新聞）
+
+---
+
+### 2026-08-05 06:59:04  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact mixed
+
+【China cuts domestic air fuel surcharge again, effective today】Multiple Chinese carriers said fuel surcharges on domestic tickets fall effective today. New rates: routes over 800 km 70 yuan per adult (down 30 yuan); routes 800 km or less 40 yuan per adult (down 10 yuan). This is the third reduction since June and lowers passenger travel costs.
+
+---
+
+### 2026-08-05 06:57:55  #國際
+
+一名38歲的武裝嫌疑人珍妮娜·約翰·泰萊涉嫌監視特朗普到訪前的安保籌備工作，於特朗普國家高爾夫球場被捕。美國警方表示，之後在其住所搜出一支非法改裝的AR式步槍、防彈衣、大容量彈匣、彈藥，以及寫有“令人擔憂言論”的多本筆記本。
+
+---
+
+### 2026-08-05 06:55:07  #央行 #國際
+
+【能源衝擊拖累招聘 紐西蘭失業率升至11年高點】由於全球能源衝擊擠壓了企業利潤並限制了招聘，紐西蘭失業率在第二季上升到了11年以來的最高水平。紐西蘭統計局週三在惠靈頓公佈的資料顯示，失業率從三個月前修正的5.4%上升至5.6%。預估中值為5.4%。就業環比增長0.5%，高於預估的0.1%。紐西蘭的經濟復甦依然脆弱，因美國和伊朗的戰爭等地緣政治動盪推高了成本且削弱了企業信心。該國央行上個月開始提高利率來應對通脹壓力，預示著企業在短期內仍將對招聘持謹慎態度。
+
+---
+
+### 2026-08-05 06:54:24  #國際
+
+特朗普：美國出口勢頭火熱。美國商品出口額已連續五個月突破2000億美元，今年商品出口有望接近2.5萬億美元。
+
+---
+
+### 2026-08-05 06:54:22  #Trading Economics #Economy #New Zealand #Unemployment Rate #Importance 2
+
+New Zealand Jobless Rate Highest Since 2015 — New Zealand's seasonally adjusted unemployment rate increased to 5.6% in the June 2026 quarter, higher than both the upwardly revised figure in the previous quarter and market expectations of 5.4%. It was the highest reading since the third quarter of 2015 as the number of unemployed individuals rose by 7,000 from the prior quarter to 171,000. At the same time, employment increased by 13,000 to 2.91 million during the quarter, bringing the employment rate to 66.7%, unchanged from Q1.
+
+---
+
+### 2026-08-05 06:53:57  #市場 #國際
+
+特朗普：製造業蓬勃發展，股市不斷重新整理紀錄，美國正在取得勝利。這是黃金時代，最重大的勝利還在前方。
+
+---
+
+### 2026-08-05 06:52:32  #宏觀
+
+【市場監管總局：我國量子資訊產業質量強鏈取得階段性成果】量子科技是前沿科技競爭的核心賽道，產業標準化、質量體系建設是產業化落地的關鍵。記者今天（5日）瞭解到，市場監管總局實施的量子資訊產業質量強鏈專項行動取得系列階段性成果。本次專項行動在標準體系建設上，依託全國量子技術標準化技術委員會已成功研製5項量子核心器件國家標準，填補了國家標準空白。（央視新聞）
+
+---
+
+### 2026-08-05 06:47:50  #其他
+
+紐西蘭失業率升至11年高點5.6%。
+
+---
+
+### 2026-08-05 06:47:45  #MKT News
+
+New Zealand average hourly earnings rose 1.4% QoQ in Q2, up from 0.2% previously.
+
+---
+
+### 2026-08-05 06:47:35  #MKT News #Economic Calendar #Important
+
+New Zealand | Average Hourly Earnings (QoQ) (Q2) | actual 1.4% | previous 0.20%
+
+---
+
+### 2026-08-05 06:45:23  #其他
+
+紐西蘭第二季度經季節調整後就業人數環比增長0.5%，路透調查預期為增長0.2%。
+
+---
+
+### 2026-08-05 06:45:19  #MKT News
+
+New Zealand Q2 employment-to-population ratio 70.7%, expected 70.3%, prior 70.40%.
+
+---
+
+### 2026-08-05 06:45:16  #MKT News
+
+New Zealand Q2 labour cost index YoY 2.1% vs 2.0% expected, 2.0% prior.
+
+---
+
+### 2026-08-05 06:45:13  #MKT News #Macro & Rates #DXY #Impact bullish
+
+New Zealand unemployment rate rose to 5.6% in Q2, above the 5.4% consensus and up from the prior 5.3%.
+
+---
+
+### 2026-08-05 06:45:09  #MKT News #DXY #Impact bearish
+
+New Zealand Q2 employment +0.5% QoQ vs +0.2% expected; Q1 revised down to +0.1% from +0.2%.
+
+---
+
+### 2026-08-05 06:45:09  #MKT News #Macro & Rates
+
+New Zealand Q2 Labour Cost Index q/q 0.7% (consensus 0.6%; prior 0.5%).
+
+---
+
+### 2026-08-05 06:45:08  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Bitcoin Increases by 1.11% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.11% increase.
+
+---
+
+### 2026-08-05 06:45:01  #MKT News #Economic Calendar #Important
+
+New Zealand | Labor Cost Index (YoY) (Q2) | actual 2.1% | consensus 2% | previous 2%
+
+---
+
+### 2026-08-05 06:45:01  #MKT News #Economic Calendar #Important
+
+New Zealand | Labor Force Participation Rate (Q2) | actual 70.7% | consensus 70.3% | previous 70.40%
+
+---
+
+### 2026-08-05 06:45:01  #MKT News #Economic Calendar #Important
+
+New Zealand | Labor Cost Index (QoQ) (Q2) | actual 0.7% | consensus 0.60% | previous 0.50%
+
+---
+
+### 2026-08-05 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Employment Change (QoQ) (Q2) | actual 0.5% | consensus 0.2% | previous 0.20%
+
+---
+
+### 2026-08-05 06:45:00  #MKT News #Economic Calendar #Important
+
+New Zealand | Unemployment Rate (Q2) | actual 5.6% | consensus 5.40% | previous 5.30%
+
+---
+
+### 2026-08-05 06:44:15  #MKT News #Star Stocks #NVIDIA #Market Themes #Chip Wars #Magnificent 7 #AMD.O #Impact bearish
+
+【AMD falls after hours as revenue guide disappoints; Wall Street wanted more than "beats"】AMD fell about 9% in after-hours trading after its revenue outlook disappointed some investors. The company guided Q3 revenue to $13.0bn +/- $0.3bn; analysts’ mean was $12.5bn but Bloomberg shows some Wall Street forecasts exceeded $13.0bn. Post-earnings weakness despite beats has become common for AMD. Shares have more than doubled this year as AMD has emerged as NVIDIA’s main challenger in AI processors. CEO Lisa Su told analysts she expects data-center revenue to "more than double" by 2027 and said the company could exceed its prior targets of 35% annual revenue growth and $20 EPS over the longer term.
 
 ---
 
@@ -19950,395 +20190,5 @@ Trump says U.S. negotiations were conducted at Iran's request.
 ### 2026-08-04 02:00:16  #國際
 
 特朗普：伊朗表示希望討論無核化問題。
-
----
-
-### 2026-08-04 01:59:54  #焦點 #國際
-
-特朗普：伊朗表示希望就海峽問題進行對話。
-
----
-
-### 2026-08-04 01:59:23  #MKT News #Important
-
-US President Trump says talks with Iran are ongoing.
-
----
-
-### 2026-08-04 01:59:22  #國際
-
-特朗普：伊朗在談判時，向來不願直白表態。
-
----
-
-### 2026-08-04 01:58:45  #國際
-
-特朗普：伊朗問題談判目前正在進行中。
-
----
-
-### 2026-08-04 01:57:13  #公司 #國際
-
-穆斯特里安公司與三星重工簽署工程合同，雙方合作打造的首座海上浮動資料中心將落地美國。
-
----
-
-### 2026-08-04 01:56:49  #其他
-
-墨西哥7月製造業指數為49.4。
-
----
-
-### 2026-08-04 01:55:30  #MKT News
-
-US President Trump said Secretary of Defense Hegseth has done an excellent job.
-
----
-
-### 2026-08-04 01:55:21  #其他
-
-委內瑞拉代總統羅德里格斯：委內瑞拉將於年底前交付4000套住房。
-
----
-
-### 2026-08-04 01:55:11  #MKT News #XAUUSD #Impact bullish #WTI
-
-Trump said the US clash with Venezuela went very well and that its confrontation with Iran is also progressing very, very smoothly.
-
----
-
-### 2026-08-04 01:52:15  #國際
-
-特朗普對赫格塞思表示：你工作做得非常出色。
-
----
-
-### 2026-08-04 01:50:57  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) said it has been invited to the White House on Tuesday to discuss AI safety testing with the U.S. government.
-
----
-
-### 2026-08-04 01:50:52  #國際
-
-特朗普： 我們此前與委內瑞拉之間的爭端得到妥善解決。 眼下我們和伊朗存在分歧，局勢進展也十分順利。
-
----
-
-### 2026-08-04 01:50:39  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Brazil June crude output hits record, cushions Middle East supply disruption】Brazil’s crude production reached a record in June, helping to offset supply disruptions from the war involving Iran. ANP data show June crude output rose about 19% YoY to 4.5 mln bpd and roughly 4% from May; oil and gas output totaled 5.8 mln boe/d. State-controlled Petróleo Brasileiro (Petrobras) led the increase, extracting more from fields and pushing Búzios and other deepwater platforms above nameplate capacity; ANP says Petrobras-operated fields account for about 87% of Brazil’s oil production.
-
----
-
-### 2026-08-04 01:50:19  #國際
-
-以色列總理內塔尼亞胡：伊朗雖遭受重創，但依舊保有作戰能力。倘若伊朗襲擊以色列，將會遭到“極其沉重的打擊”。
-
----
-
-### 2026-08-04 01:50:08  #國際
-
-以色列總理內塔尼亞胡：過去一個月伊朗沒有向以色列發動襲擊，因為伊朗清楚以色列具備強力打擊能力，足以形成威懾。
-
----
-
-### 2026-08-04 01:48:53  #國際
-
-特朗普：與伊朗之間的衝突進展十分順利。
-
----
-
-### 2026-08-04 01:48:41  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump said the conflict with Iran is progressing very smoothly.
-
----
-
-### 2026-08-04 01:46:02  #MKT News
-
-U.S. President Trump signed an executive order establishing the first Presidential Military Spouse Council to support military families.
-
----
-
-### 2026-08-04 01:45:47  #國際
-
-伊朗經濟部長：我們已制定至少為期兩年的經濟韌性計劃，有關我們無法保障預算資金的說法純屬不實。
-
----
-
-### 2026-08-04 01:45:27  #焦點 #國際
-
-特朗普：將推出新舉措扶持軍屬，簽署行政令設立史上首個總統軍眷委員會。
-
----
-
-### 2026-08-04 01:45:00  #國際
-
-市場資訊：特朗普簽署一項行政令。
-
----
-
-### 2026-08-04 01:44:34  #國際
-
-【AI熱潮持續 新興市場ETF單週吸金創2月以來新高】新興市場股票交易所交易基金（ETF）上週吸引資金流入規模創2月以來新高，圍繞亞洲人工智慧（AI）概念股的投資熱潮未見降溫跡象。彙編資料顯示，截至7月31日當週，在美國上市、投資於多個發展中國家以及特定國家的新興市場ETF資金流入總額約為45億美元，高於前一週逾20億美元的流入規模。這創下2月27日以來最大單週資金流入。
-
----
-
-### 2026-08-04 01:41:42  #MKT News
-
-【Media: Iranians increasingly tune out Trump’s war rhetoric】Al Jazeera reports that after months of near‑daily statements from Trump — ranging from threats of large‑scale bombing to claims of resuming talks — many Iranians have stopped following his comments to protect their mental health. A Tehran financial‑sector employee said his remarks “do affect our lives, but I try to focus on what I can control and protect my loved ones” to escape the “toxic uncertainty.” With the war approaching its six‑month mark, public expectation and fear are noticeably lower than on April 7, when Trump warned that “the whole civilization will perish” before shortly announcing a halt to hostilities.
-
----
-
-### 2026-08-04 01:37:41  #國際
-
-印度政府擬透過出售印度人壽（LIC）股權籌資至多33億美元。
-
----
-
-### 2026-08-04 01:36:52  #MKT News #XAUUSD #Impact bullish #WTI #S&P500 #Impact bearish
-
-Israel's Channel 12 reports a senior Israeli official said Israel will not withdraw forces until Hamas is disarmed under any circumstances; that condition was not part of the original Trump framework and will not change.
-
----
-
-### 2026-08-04 01:34:46  #國際
-
-加沙和平委員會：我們重申，以色列撤至黃線以外的行動，只有在加沙實現全面解除武裝之後方可實施。
-
----
-
-### 2026-08-04 01:34:36  #國際
-
-加沙和平委員會：我們今日與內塔尼亞胡及其團隊會面，旨在推動加沙地區解除武裝，併為過渡至文官政府做準備。
-
----
-
-### 2026-08-04 01:33:50  #國際
-
-特朗普聲稱一項“協議即將達成”之後，伊朗外交部發言人週一表示，德黑蘭暫無與華盛頓舉行直接談判的計劃。
-
----
-
-### 2026-08-04 01:33:45  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $2.127 billion from four counterparties in its fixed-rate reverse repurchase operation.
-
----
-
-### 2026-08-04 01:30:33  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Pause in US‑Iran hostilities eases Middle East supply; Venezuela July exports fall】A pause in US‑Iran hostilities has released Gulf crude back into markets, easing earlier disruptions, according to shipping reports, Kpler data and vessel tracking. Venezuela’s July crude loadings fell to 856,000 bpd, the lowest in five months and down 25% MoM; exports to India halved. Supply‑chain adjustments and alternative shipping routes have mitigated initial shocks as the Iran conflict enters its sixth month. Trump on Monday called off a planned strike on Iran to keep talks going; oil prices fell afterwards. The United States and India remain Venezuela’s largest buyers of crude.
-
----
-
-### 2026-08-04 01:28:40  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Turkish media report President Erdogan said Israel must strictly adhere to the roadmap for the second phase of the Gaza peace plan and that Ankara is closely monitoring developments.
-
----
-
-### 2026-08-04 01:28:38  #市場
-
-比特幣重回64000美元關口。
-
----
-
-### 2026-08-04 01:28:22  #其他
-
-交易商稱，阿爾及利亞招標採購名義數量5萬噸軟質磨粉小麥。
-
----
-
-### 2026-08-04 01:27:52  #MKT News #BA.N #Impact bullish #LUV.N
-
-Boeing (BA.N): Southwest Airlines is preparing to take delivery of its first 737-7.
-
----
-
-### 2026-08-04 01:26:45  #國際
-
-美國聯邦航空管理局為波音新型737-7飛機頒發認證。
-
----
-
-### 2026-08-04 01:26:35  #MKT News #BA.N #Impact bullish
-
-Boeing (BA.N): U.S. Federal Aviation Administration (FAA) has granted certification for the new 737-7; Boeing is preparing the first delivery of the 737-7.
-
----
-
-### 2026-08-04 01:26:25  #國際
-
-兩名知情人士透露，美國正擬定新方案，力求於今年秋季推動烏克蘭和平程序取得突破。
-
----
-
-### 2026-08-04 01:25:49  #其他
-
-波音準備交付首架737-7機型。
-
----
-
-### 2026-08-04 01:24:38  #MKT News #UBS.N
-
-The US Commodity Futures Trading Commission (CFTC) ordered UBS to pay an $8 million fine for supervisory failures related to its anti‑money‑laundering trade‑monitoring system.
-
----
-
-### 2026-08-04 01:24:26  #MKT News #UBS.N
-
-SEC says UBS will pay a $20 million civil penalty for anti-money-laundering violations.
-
----
-
-### 2026-08-04 01:24:10  #MKT News #UBS.SW #Impact bearish
-
-US Treasury: FinCEN has imposed a $125 mln civil penalty on UBS, alleging the bank 'willfully violated' the Bank Secrecy Act.
-
----
-
-### 2026-08-04 01:23:38  #MKT News #UBS.O #Impact bearish
-
-FINRA fined UBS Financial Services $20 million for anti-money laundering (AML) violations, saying the firm failed to reasonably monitor more than 60,000 transactions totaling about $10 billion.
-
----
-
-### 2026-08-04 01:23:12  #國際
-
-以色列高階官員：在哈馬斯解除武裝之前，我們絕不會撤軍。特朗普最初框架協議中並未包含此項安排，此事絕不可能發生。
-
----
-
-### 2026-08-04 01:21:44  #MKT News #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
-
-Dollar index (DXY) rose above 100, up 0.26% intraday.
-
----
-
-### 2026-08-04 01:20:51  #其他
-
-土耳其總統府：總統埃爾多安與沙特王儲穆罕默德·本·薩勒曼通電話。雙方在通話中探討了土耳其與沙特雙邊關係，以及地區和國際議題。
-
----
-
-### 2026-08-04 01:18:33  #國際
-
-【伊朗正與阿曼就霍爾木茲海峽通航進行磋商】當地時間3日，伊朗外交部發言人巴加埃就地區局勢、伊美關係等熱點問題舉行新聞釋出會。巴加埃強調，伊朗沒有與美國舉行談判，但正在就霍爾木茲海峽問題與阿曼進行談判。（央視新聞）
-
----
-
-### 2026-08-04 01:17:18  #MKT News #WTI #Impact mixed #Brent #XAUUSD
-
-【CBS: Iran leadership views Trump as unwilling to widen the war after repeated threats and backtracks】CBS reports Iran is growing skeptical of Trump’s “carrot-and-stick” diplomacy. In April Trump warned Tehran it must agree to a ceasefire or “the entire civilization will perish,” then extended the deadline; he used similar tactics in May and June. Iranian insiders say those moves strengthened a belief that Trump is not seeking to expand the conflict but is bargaining for leverage. Tehran believes it can absorb pressure and raise costs to Washington via proxies (eg, Yemen’s Houthi) and threats to global shipping until the US concludes there is no military solution; its current assessment is that time is on its side.
-
----
-
-### 2026-08-04 01:16:44  #國際
-
-【伊朗認為特朗普傾向談判而非局勢升級】伊朗領導層判斷，特朗普意在藉助軍事威脅獲取籌碼，而非發動大規模戰爭。德黑蘭方面認為，可以依託地區代理人、持續對全球航運施加壓力來承受外部壓力，直至美方轉向外交途徑。儘管特朗普多次發出採取軍事行動的警告，但伊朗形成了上述判斷，同時伊朗強調，目前暫無與美國開展直接談判的安排。
-
----
-
-### 2026-08-04 01:16:23  #央行 #國際
-
-週一（8月3日），美聯儲隔夜逆回購協議（RRP）使用規模為21.27億美元（交易對手4家），上個交易日報21.51億美元。
-
----
-
-### 2026-08-04 01:15:41  #其他
-
-西捷航空空乘公會主席表示，協議必須在30天內獲得批准。
-
----
-
-### 2026-08-04 01:13:28  #其他
-
-西捷航空空乘人員工會主席表示，談判委員會不會在沒有高度信心確保成員批准的情況下，將這份提議提交給成員表決。
-
----
-
-### 2026-08-04 01:12:28  #MKT News
-
-Ukraine's prime minister said today the government approved an initial emergency support decision for farmers, temporarily adjusting minimum export prices for certain agricultural products to prevent disruptions to grain and oilseed exports during a stabilization period. He ordered an urgent plan to expand domestic agricultural processing to increase in‑country production and processing and said additional measures to stabilize the agricultural sector are being prepared.
-
----
-
-### 2026-08-04 01:11:47  #其他
-
-西捷航空空乘工會表示，將在向會員提交協議後，才會公開披露協議細節。
-
----
-
-### 2026-08-04 01:11:33  #國際
-
-【委內瑞拉石油出口量創五個月低點】委內瑞拉7月原油出口量下降25%，至每日85.6萬桶，為五個月以來最低水平。出口下滑主要源於印度需求萎縮。隨著伊朗衝突暫歇、中東原油供應恢復，印度自委內瑞拉原油進口量減半。美國與印度依舊是委內瑞拉最大買家。
-
----
-
-### 2026-08-04 01:11:01  #國際
-
-一名美國政府高階官員透露，特朗普將 “竭盡所能” 幫助國際足聯主席詹尼・因凡蒂諾應對日益高漲的逼宮辭職呼聲。
-
----
-
-### 2026-08-04 01:10:33  #MKT News
-
-Israeli media report the Prime Minister's Office is holding a security meeting attended by Defense Minister KATZ and IDF Chief of Staff Zamir.
-
----
-
-### 2026-08-04 01:07:48  #MKT News
-
-Reuters White House reporter: the DOE will host a mining-focused workforce event this Friday, with representatives from all 14 federally certified mining schools attending. The event aims to raise awareness of mining careers and underscore the need to recruit more students into the sector.
-
----
-
-### 2026-08-04 01:06:50  #國際
-
-市場資訊：印度政府考慮將生產裝置及零部件進口免稅政策延長至2041年，蘋果在印度的iPhone生產將獲得進一步推動。
-
----
-
-### 2026-08-04 01:04:08  #MKT News
-
-【Schumer says Trump launched Iran war to benefit oil-industry allies】Schumer called Trump’s action against Iran an illegal war and said it was a gift to oil-industry allies who funded his campaign and expected large profits; he added U.S. pump gasoline prices have topped $4/gal and energy costs are rising.
-
----
-
-### 2026-08-04 01:01:10  #公司
-
-超級區塊公司與亞馬遜雲科技簽署多年雲端計算合作協議。
-
----
-
-### 2026-08-04 01:00:22  #國際
-
-伊拉克真主黨旅秘書長：我們堅守武裝力量，並致力於發展、強化軍備。美國與沙特針對我方民眾採取的行動危險且前所未有，或將推動地區局勢邁入新階段。
-
----
-
-### 2026-08-04 01:00:17  #MKT News #C.O
-
-Memo shows Citigroup has hired BofA's Rohan Sen to lead technology-services banking coverage.
-
----
-
-### 2026-08-04 01:00:03  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.51%，滬銅收漲0.43%，滬鋁收漲0.61%，滬鋅收跌0.82%，滬鉛收跌1.17%，滬鎳收漲1.13%，滬錫收漲0.44%。氧化鋁夜盤收跌0.08%，鋁合金收漲0.24%。不鏽鋼夜盤收漲3.09%。
-
----
-
-### 2026-08-04 00:59:33  #公司 #觀點 #國際
-
-備忘錄顯示，花旗集團已聘用美國銀行的羅漢·森負責牽頭科技服務銀行業務覆蓋工作。
-
----
-
-### 2026-08-04 00:59:21  #國際
-
-特朗普社交媒體發圖文：特朗普是正確的。
 
 ---

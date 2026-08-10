@@ -1,7 +1,253 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-11 00:57:39_
-_本檔包含 2865 則快訊，約 598976 字_
+_更新時間：2026-08-11 02:00:02_
+_本檔包含 2875 則快訊，約 598342 字_
+
+---
+
+### 2026-08-11 01:52:46  #MKT News #Market Themes #The Trump Trade
+
+CBS cited sources saying President Trump plans to sign an executive order on childhood vaccination policy on Monday local time.
+
+---
+
+### 2026-08-11 01:52:13  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ConocoPhillips Stock Price Hits 11-week High — ConocoPhillips shares increased to 122.38 USD, the highest since May 2026. Over the past 4 weeks, ConocoPhillips gained 8.4%, and in the last 12 months, it increased 30.79%.
+
+---
+
+### 2026-08-11 01:50:00  #市場 #焦點
+
+上海原油連續主力合約日內漲4%，現報553.40元。
+
+---
+
+### 2026-08-11 01:49:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DAX
+
+【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs.
+
+---
+
+### 2026-08-11 01:49:10  #國際
+
+市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。
+
+---
+
+### 2026-08-11 01:48:12  #MKT News
+
+FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race.
+
+---
+
+### 2026-08-11 01:46:10  #國際
+
+美國聯邦航空管理局：里根國家機場預計將於 8 月 23 日上午 10 點 15 分至下午 1 點 15 分暫停航班運營，以保障 Freedom 250 汽車賽事開展。
+
+---
+
+### 2026-08-11 01:43:41  #國際
+
+嘉能可支援的一個美國投資者團體考慮拯救鈷冶煉商Sherritt。
+
+---
+
+### 2026-08-11 01:43:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+On Iran talks, U.S. President Trump said Iran should be held responsible for the damage and deaths it has caused to the people of Lebanon, Syria, Yemen and Gaza.
+
+---
+
+### 2026-08-11 01:40:23  #MKT News
+
+A minister said the Chilean government will recapitalize 100% of state-owned copper producer Codelco's 2025 profits.
+
+---
+
+### 2026-08-11 01:40:22  #國際
+
+特朗普：伊朗也應對其給周邊國家造成的損害承擔責任，伊朗也應該為葉門和敘利亞的損失負責。
+
+---
+
+### 2026-08-11 01:39:37  #國際
+
+特朗普：伊朗應為黎巴嫩和加沙的損失負責。
+
+---
+
+### 2026-08-11 01:39:23  #MKT News
+
+【Heavy snow, freezing rain disrupt transport in parts of South Africa】Heavy snow, freezing rain and strong winds on the 10th hit multiple South African regions, with severe accumulation in KwaZulu‑Natal highlands forcing road closures, stranding vehicles and disrupting transport. Road traffic authorities warned high‑altitude areas could face continued low temperatures and snowfall over the coming days and advised against non‑essential travel; emergency teams have launched de‑icing and rescue operations.
+
+---
+
+### 2026-08-11 01:38:53  #Trading Economics #Markets #commodity #Importance 0
+
+Gasoline is up by 5% — Gasoline increased 5% to 3.1346 USD/Gal
+
+---
+
+### 2026-08-11 01:37:48  #其他
+
+OpenAI 就人工智慧基礎設施事宜致函得克薩斯州州長，闡述對負責任開發的相關承諾。
+
+---
+
+### 2026-08-11 01:35:58  #其他
+
+【南非多地遭遇持續強降雪 交通嚴重受阻】南非多地10日持續遭遇強降雪、凍雨和大風天氣，誇祖魯-納塔爾省山區積雪嚴重，部分道路被迫關閉，大量車輛滯留，交通運輸受到影響。南非道路交通管理部門當天警告，未來幾天部分高海拔地區仍將面臨低溫、降雪天氣，民眾非必要請勿前往受影響地區。有關部門已啟動應急響應，開展道路除冰和救援工作。 (央視新聞)
+
+---
+
+### 2026-08-11 01:35:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+WTI crude rose 6.0% intraday to $80.93/bbl.
+
+---
+
+### 2026-08-11 01:34:51  #其他
+
+巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。
+
+---
+
+### 2026-08-11 01:29:43  #MKT News #Important #Commodities #Energy #Brent
+
+Barclays maintains Brent price forecasts at $96/bbl for 2026 and $85/bbl for 2027.
+
+---
+
+### 2026-08-11 01:28:43  #其他
+
+美軍非洲司令部證實8月9日一架軍機在吉布提墜毀。
+
+---
+
+### 2026-08-11 01:21:54  #公司 #國際
+
+【比特幣資金流入創四個月新高，駭客事件動搖持有者信心】美國上市的比特幣交易所交易基金（ETFs）錄得自4月以來最強勁的單週資金流入，上週吸引超過8.5億美元資金。此次資金流入激增，正值加拿大公司Coinkite製造的Coldcard錢包被曝存在安全漏洞、約1.3億美元比特幣被盜事件被披露之後。這起駭客事件促使部分分析師認為，投資者可能正轉向華爾街受監管的加密產品（如現貨比特幣ETF），將其視為更具吸引力的選擇。
+
+---
+
+### 2026-08-11 01:21:16  #MKT News #Important #Market Themes #AI Revolution
+
+OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work.
+
+---
+
+### 2026-08-11 01:18:40  #其他
+
+OpenAI：我們正在擴充套件我們的網路安全計劃 Daybreak，並推出 GPT-5.6-Cyber，這是一個專為高階授權網路安全工作設計的新模型。
+
+---
+
+### 2026-08-11 01:16:35  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $975 million from two counterparties in its fixed-rate reverse repurchase operation.
+
+---
+
+### 2026-08-11 01:16:10  #央行 #國際
+
+週一（8月10日），美聯儲隔夜逆回購協議（RRP）使用規模為9.75億美元（交易對手2家），上個交易日報14.50億美元。
+
+---
+
+### 2026-08-11 01:16:06  #國際
+
+伊朗革命衛隊海軍司令：我們將果斷對付任何覬覦伊朗島嶼的勢力。
+
+---
+
+### 2026-08-11 01:16:02  #MKT News #Brent #Impact bullish #DXY #S&P500 #Impact bearish
+
+The IRGC's naval commander warned any party attempting to seize Iranian islands will face decisive military strikes.
+
+---
+
+### 2026-08-11 01:14:50  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+【Trump extends Jones Act waiver 90 days, narrows scope to energy shipments】President Trump extended the Jones Act waiver allowing foreign vessels to move oil and other goods in U.S. waters for 90 days, but narrowed the exemption to energy cargoes after Iran-related disruptions to crude flows pushed fuel costs higher. The new waiver targets gasoline, jet fuel, crude, napatha, LNG, soybean oil and fertilizer. The Pentagon must consult the U.S. Maritime Administration before approving waivers for individual voyages. The White House said the move secures supplies for the military and key industries and increases domestic transport of gasoline, diesel and jet fuel; U.S. shipbuilders and some members of Congress say the waiver weakens protections for the domestic shipping industry.
+
+---
+
+### 2026-08-11 01:13:31  #MKT News
+
+【Colombia earthquake kills 77; government declares national disaster】An earthquake on the 10th killed 77 people in Colombia; the government declared a "state of national disaster". Valle del Cauca department reported 27 fatalities.
+
+---
+
+### 2026-08-11 01:11:05  #MKT News
+
+White House official said President TRUMP extended a waiver to the Jones Act but imposed additional restrictions.
+
+---
+
+### 2026-08-11 01:10:18  #國際
+
+白宮官員：特朗普延長《瓊斯法案》豁免並附加部分限制條件。
+
+---
+
+### 2026-08-11 01:04:59  #國際
+
+美國得州州長Abbott：OpenAI承諾將遵守本地資料中心標準。
+
+---
+
+### 2026-08-11 01:04:49  #其他
+
+【哥倫比亞因地震進入災難狀態】因受8月10日地震影響，哥倫比亞政府宣佈進入“國家災難狀態”。（CCTV國際時訊）
+
+---
+
+### 2026-08-11 01:03:16  #MKT News #Important #Market Themes #The Trump Trade #WTI #Brent
+
+U.S. President Trump said he will extend and narrow Jones Act transportation waivers, limiting them to energy commodities and fertilizer.
+
+---
+
+### 2026-08-11 01:02:55  #國際
+
+美國五角大樓和海事機構將就個案救濟進行磋商。
+
+---
+
+### 2026-08-11 01:02:34  #國際
+
+特朗普將航運豁免範圍限制在能源大宗商品和化肥領域。
+
+---
+
+### 2026-08-11 01:02:22  #其他
+
+《瓊斯法案》豁免延長90天，重點轉向能源領域。
+
+---
+
+### 2026-08-11 01:00:15  #焦點 #國際
+
+特朗普延長並收緊美國《瓊斯法案》航運豁免條款。
+
+---
+
+### 2026-08-11 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收跌0.02%，滬銅收漲0.16%，滬鋁收漲0.64%，滬鋅收漲0.35%，滬鉛收漲0.51%，滬鎳收跌0.42%，滬錫收跌0.46%。氧化鋁夜盤收跌0.45%，鋁合金收漲0.28%。不鏽鋼夜盤收跌0.62%。
+
+---
+
+### 2026-08-11 01:00:01  #公司
+
+谷歌：期待與阿博特州長、得州電力可靠性委員會、公共事業委員會開展合作。
+
+---
+
+### 2026-08-11 00:59:29  #公司
+
+谷歌：確信自身符合得克薩斯州資料中心相關標準。
 
 ---
 
@@ -17079,191 +17325,5 @@ Canadian Natural Resources earnings above expectations at 2.15 CAD — Canadian 
 ### 2026-08-09 16:32:40  #焦點 #國際
 
 【伊朗外長強調霍爾木茲海峽未重新開放】當地時間9日，伊朗外長阿拉格齊表示，伊朗正與阿曼就調整霍爾木茲海峽航道進行磋商，目前已進入最後階段。他同時強調，即使雙方就航道調整達成協議，也不意味著霍爾木茲海峽重新開放，海峽重新開放仍需滿足一系列條件。阿拉格齊稱，目前，雙方討論以新航道取代原有航道，相關專家正在開展技術工作。（央視新聞）
-
----
-
-### 2026-08-09 16:30:33  #國際
-
-伊朗外長阿拉格齊：談判代表正努力創造一個良好的談判環境。
-
----
-
-### 2026-08-09 16:26:49  #國際
-
-伊朗外長阿拉格齊：我們正與阿曼就霍爾木茲海峽新航道的劃定進行談判，目前正處於最後階段。舊航線將被新航線取代。相關專家正在對各條航線開展工作。當然，這並不意味著霍爾木茲海峽將被開啟。這一協議有可能達成，但海峽是否開放仍然取決於多個條件。
-
----
-
-### 2026-08-09 16:26:26  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's foreign minister Araghchi said some mediating countries are still trying to create conditions for renegotiation, and that, in his view, talks cannot resume until the US ends and remedies its violations of the Islamabad memorandum.
-
----
-
-### 2026-08-09 16:25:23  #公司
-
-【映翰通：擬以2000萬元-3000萬元回購公司股份】映翰通公告，擬以自有資金不低於2000萬元（含）、不超過3000萬元（含）回購公司股份，回購價格不超過56元/股（含），所回購股份將用於登出並相應減少註冊資本。回購期限為自股東會審議透過之日起6個月。本次回購方案尚需提交公司股東會審議。
-
----
-
-### 2026-08-09 16:22:01  #國際
-
-【伊朗外長再重申目前未與美國談判】伊朗外長阿拉格齊今天（8月9日）表示，目前伊朗與美國之間沒有進行任何談判，但斡旋方仍在努力尋找恢復談判的途徑。伊朗認為，在美國就此前違反相關承諾的行為作出彌補之前，不具備重新啟動談判的條件。 (CCTV國際時訊)
-
----
-
-### 2026-08-09 16:16:19  #MKT News #WTI #Impact bullish #Brent
-
-Iranian foreign minister Araghchi said Iran will not negotiate so long as the United States breaches the interim agreement.
-
----
-
-### 2026-08-09 16:16:16  #其他
-
-【加拿大不列顛哥倫比亞省進入緊急狀態】加拿大不列顛哥倫比亞省政府8月8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的山火災情。不列顛哥倫比亞省省長戴維·伊比在新聞釋出會上表示，目前狀況非常危險，火勢蔓延迅速且隨時發生變化。政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中疏散受困民眾。（CCTV國際時訊）
-
----
-
-### 2026-08-09 16:15:01  #國際
-
-伊朗外長阿拉格齊表示，只要美國繼續違反臨時協議，就不會進行談判。
-
----
-
-### 2026-08-09 16:14:19  #MKT News #WTI #Impact bullish #Brent
-
-Mehr News Agency reported Iran is not negotiating with the United States and is only exchanging information through intermediaries.
-
----
-
-### 2026-08-09 16:14:07  #國際
-
-市場訊息：伊朗外長阿拉格齊表示，伊美之間沒有談判，僅透過中間人互傳資訊。
-
----
-
-### 2026-08-09 16:11:51  #其他
-
-【蘋果回應刪除接入千問手冊：沒收到通知，中國大陸還沒推出“Apple智慧使用千問”功能】針對刪除《在 Mac 上配合 Apple 智慧使用千問》使用文件一事，蘋果客服最新回應新浪科技稱：“我們有功能或新專案釋出時，都會提前收到通知，目前並沒有收到相關通知，中國大陸還沒推出‘Apple智慧使用千問’相關功能。”昨日，一篇名為《在 Mac 上配合 Apple 智慧使用千問》的支援文件現身蘋果官網 Mac 簡體中文使用手冊，明確提到 Apple 智慧可配合阿里巴巴千問模型工作。但該文釋出不到24小時後被蘋果方面刪除。今年7月15日，阿里巴巴方面曾回應稱，千問將作為 AI 能力整合至 Apple 智慧，覆蓋 iOS、iPadOS、macOS 及 visionOS 的中國使用者。（新浪科技）
-
----
-
-### 2026-08-09 16:11:12  #其他
-
-市場訊息：聯合航空UA3926航班飛往紐瓦克時突遇緊急情況並返回洛杉磯。
-
----
-
-### 2026-08-09 16:08:55  #其他
-
-【浙江推進醫療器械臨床創新成果轉化】近日，省藥品監管局等3部門印發《浙江省推進醫療器械臨床創新成果轉化“春雨行動”實施方案》，提出建立健全“徵集篩選—對接匹配—輔導培育—轉化落地—臨床應用”全鏈條工作機制，構建“臨床創意源頭供給—醫工協同技術攻關—三醫聯動培育賦能”的創新生態，力爭在三年內，推動一批具有顯著臨床應用價值的醫工融合產品上市，進一步提升浙江醫療器械創新能力，更好滿足人民群眾健康需求。（浙江釋出）
-
----
-
-### 2026-08-09 16:03:34  #其他
-
-【暑期大學生扎堆當景區 NPC 一大批新型暑期兼職火了】隨著文旅市場的持續升溫和人工智慧行業的興起，景區裡與遊客互動的NPC非玩家角色扮演、資料採集等工作受到不少暑期工的青睞。 大學生演員正成為暑期文旅市場的一股新鮮力量。許多遊客正是衝著與這些“高顏值、高互動性”的NPC打卡合影而來，拉動了客流，也為景區帶來了可觀的復購率。南京海底世界負責人表示：“今年暑期招了十幾個NPC在館內互動，暑假正好是客流高峰，我們推出這樣特色的活動，正好和大學生放假時間匹配上，也正好給他們提供一個平臺，對於雙方來說是互惠互利。” 除了景區的NPC崗位，隨著人工智慧、具身機器人等行業的興起，資料採集、模型驗證等基礎實操崗位需求快速增長，因為操作流程標準化，在校學生也能夠快速熟悉業務投入實踐。 景區NPC角色扮演、人工智慧資料採集等這些新興崗位為暑期工提供了更多選擇，不過，人社部門也提醒，學生群體社會經驗不足，易遭遇虛假招聘、權益無保障等風險，要注意提高自身勞動權益保護意識。 （央視財經）
-
----
-
-### 2026-08-09 16:02:13  #國際
-
-【俄羅斯外交部發言人：按照高市早苗的發言，向廣島和長崎投放原子彈的可能是外星人】俄羅斯外交部發言人扎哈羅娃發文表示，日本首相高市早苗在長崎悲劇週年紀念日之際，並未提及究竟是誰投下了原子彈。“81年前，長崎市被一枚原子彈徹底摧毀，”她在悼念儀式上表示。她附言道：換言之，按照日本現任領導層的觀點，落在廣島和長崎的的原子彈難道是外星人投放的嗎？
-
----
-
-### 2026-08-09 15:59:55  #MKT News
-
-WHO director-general Tedros said a WHO humanitarian warehouse in Dnipro, Ukraine was attacked and destroyed last Friday; no casualties have been reported.
-
----
-
-### 2026-08-09 15:59:11  #Trading Economics #Markets #Egypt #Stock Market #Importance 0
-
-Stocks in Egypt Hit All-time High — EGX 30 increased to an all-time high of 55005.00 Index Points. Over the past 4 weeks, Egyptian Exchange Index gained 5.24%, and in the last 12 months, it increased 52.29%.
-
----
-
-### 2026-08-09 15:59:03  #國際
-
-世衛組織幹事譚德塞發言：上週五，世界衛生組織位於烏克蘭第聶伯羅的人道主義倉庫遭擊中被毀；目前尚無人員傷亡報告。
-
----
-
-### 2026-08-09 15:58:14  #MKT News
-
-【Liyuan Information: 1H net profit 298 mln yuan, +209.5% YoY】Liyuan Information reported 1H 2026 results: revenue 6.432 bln yuan, +59.46% YoY; net profit attributable to shareholders 298 mln yuan, +209.5% YoY; basic EPS 0.2585 yuan. Revenue growth driven by market improvement and strong expansion in AI, industrial & new-energy, and automotive electronics businesses, and by onboarding of new customers.
-
----
-
-### 2026-08-09 15:56:49  #MKT News #WTI #Impact bullish #Brent
-
-Interfax, citing the Russian Defence Ministry, said Russia struck two oil refineries in Ukraine's Sumy region.
-
----
-
-### 2026-08-09 15:55:22  #國際
-
-俄羅斯國防部：俄羅斯打擊了蘇梅州境內的兩座烏克蘭煉油廠。
-
----
-
-### 2026-08-09 15:54:11  #公司
-
-【葉門胡塞武裝稱襲擊沙特阿美公司煉油廠】薩那訊息：葉門胡塞武裝9日稱，該組織使用無人機對位於沙烏地阿拉伯吉讚的沙特阿美公司煉油廠發動了“精準打擊”。 胡塞武裝發言人葉海亞·薩雷亞在宣告中說，此次打擊是為了回應不久前沙特無人機侵犯葉門領空的行為。 沙烏地阿拉伯能源部9日早些時候在社交媒體上說，位於吉讚的沙特阿美公司煉油廠的一處設施當天凌晨發生火災。該公司工業安全消防隊已將火災撲滅，事故未造成人員傷亡。(新華社)
-
----
-
-### 2026-08-09 15:53:34  #國際
-
-【極端天氣已致菲律賓逾38萬人受災、6人死亡】據菲律賓通訊社9日報道，受本月1日開始的極端天氣影響，該國已有超過38萬居民遭遇暴雨、山體滑坡等災害，相關自然災害已造成6人死亡。 報道說，8月以來，西南季風增強及熱帶氣旋疊加導致菲極端天氣，引發強降雨、山體滑坡等自然災害。受災地區主要集中在呂宋島及棉蘭老島等地，受災家庭達至少11萬戶。極端天氣已造成148棟房屋受損，其中138棟部分損壞、10棟完全損毀。 菲律賓國家減災與管理委員會官方統計顯示，6名遇難者中，有2人因強降雨引發的山體滑坡喪生，2人死於山區滾石，另外2人分別因極端暴雨天氣溺水和觸電身亡。該委員會表示，目前已啟用86處疏散中心，安置2200戶家庭、約7300人。(新華社)
-
----
-
-### 2026-08-09 15:53:09  #國際
-
-【俄官員稱羅馬尼亞向烏提供“直接軍事後勤支援”】當地時間9日，俄羅斯外交部第二歐洲司司長皮利普松表示，羅馬尼亞正向烏克蘭提供直接軍事後勤支援，此舉透過位於摩爾多瓦的多瑙河港口久爾久列什蒂國際自由港完成。對此，羅馬尼亞方面和烏克蘭方面暫無回應。（央視新聞）
-
----
-
-### 2026-08-09 15:51:12  #公司
-
-【*ST發展：與預重整投資人簽署重整投資協議，股票復牌】8月9日，*ST發展釋出公告，公司於2026年8月7日與預重整牽頭投資人天津景行新能企業管理諮詢有限公司、共青城景行新能產業投資合夥企業（有限合夥）共同簽署了《財信地產發展集團股份有限公司重整投資協議》。根據協議，公司以總股本11億股為基數，按每10股轉增約5.96113176702839股的比例實施資本公積金轉增股票，共計轉增6.56億股。轉增完成後，總股本將增加至17.56億股。前述轉增股票不向原股東進行分配。乙方（天津景行與共青城景行）與全部聯合體投資人合計受讓6.26億股轉增股票，其中乙方受讓3.43億股。重整投資款合計6.26億元，受讓價格為1元/股。公司股票將於2026年8月10日上午開市起復牌。公告提示，雖然《重整投資協議》已簽署，但仍可能存在協議被終止、解除、撤銷、認定無效或不能履行等風險。此外，淨資產轉正安排、營業收入達標安排存在無法實現的風險，如相關指標未達標，公司股票將被終止上市。公司能否被法院受理重整、後續是否進入重整程式均存在不確定性。
-
----
-
-### 2026-08-09 15:50:26  #國際
-
-伊朗伊斯蘭革命衛隊發言人：我們的戰略是維持對海峽的控制，直到敵方同意我們的所有條件。
-
----
-
-### 2026-08-09 15:48:53  #其他
-
-【加拿大一省野火失控 逾2萬人連夜逃離】加拿大不列顛哥倫比亞省境內野火快速蔓延，當地政府8日宣佈啟動緊急狀態。超過2萬名民眾零時左右收到緊急疏散令，連夜撤離家園。部分民眾一度受困，當局出動直升機等進行營救，場面頗為兇險。尤其讓人擔憂的是，野火催生的火積雲產生閃電，劈向地面後誘發次生野火，導致火勢更加迅猛且走向難測。目前野火仍處於失控狀態，當地官員說滅火“存在巨大挑戰”。（新華社）
-
----
-
-### 2026-08-09 15:45:12  #其他
-
-別爾哥羅德州代州長通報：夜間無人機襲擊造成的受傷人數已增至25人，其中包括兩名分別4歲和9歲的兒童。
-
----
-
-### 2026-08-09 15:44:07  #MKT News #Market Themes #AI Revolution
-
-【Moore Threads 1H revenue jumps 147.4%; MTTS5000 cluster reaches commercial scale】Moore Threads reported 1H26 revenue of 1.736 bln yuan, up 147.42% YoY and exceeding full-year 2025 revenue. Gross profit was 989 mln yuan, up 103.78% YoY. Parent-company net loss narrowed 95.73% YoY; parent-company net loss excluding non-recurring items narrowed 52.37% YoY. 1H26 R&D spend was 769 mln yuan, up 38.16% YoY; cumulative R&D since 2022 is nearly 5.9 bln yuan. Commercialization accelerated: the MTTS5000 intelligent computing cluster reached scaled sales and has been deployed in Beijing, Wuxi and Hangzhou; it was among the first batch to pass the national Safety and Reliability assessment. The company reports multiple breakthroughs in high-end training capability, including training domestic models on domestic chips, and is expanding penetration into internet and telecom operator clients to broaden application scenarios. The MUSA software-stack ecosystem continues to mature, with developer numbers exceeding 800,000.
-
----
-
-### 2026-08-09 15:44:03  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-President Zelenskiy said Odesa port sustained damage in a Russian attack.
-
----
-
-### 2026-08-09 15:43:53  #公司
-
-【寧夏建材：擬1億-2億元回購股份用於登出】寧夏建材公告稱，公司擬以集中競價交易方式回購股份，資金總額不低於1億元且不超過2億元，回購價格不超過19.47元/股，回購期限為自股東會審議透過回購方案之日起3個月內。回購股份將用於登出，預計回購數量為513.61萬-1027.22萬股，佔總股本的1.07%-2.15%。本次回購尚需股東會審議，存在未透過、無法實施等風險。
 
 ---
