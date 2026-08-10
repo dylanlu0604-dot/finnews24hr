@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-10 08:26:24",
-  "count": 15904,
+  "updated": "2026-08-10 08:34:38",
+  "count": 15886,
   "items": [
+    {
+      "id": "5032827",
+      "time": "2026-08-10 08:30:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFETS： 人民幣匯率指數按周跌 0.16 至 102.03。"
+    },
+    {
+      "id": "mkt:019fe912-6996-7aab-8fcd-8529d87bde5c",
+      "time": "2026-08-10 08:28:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Advanced packaging to drive high-end chip upgrades; glass substrates set for faster adoption】CITIC Securities research says advanced packaging will be a key route to sustaining steep performance upgrades for high-end chips. Glass substrates are expected to address current advanced-packaging bottlenecks — large-format scaling, higher-density/high-speed integration and yield/throughput — and are likely to enter an accelerated maturity and volume-ramp phase. Glass carrier-board penetration is clear and has high growth elasticity; the firm highlights supply-chain investment opportunities, notably in glass interposers, glass carriers and glass bridges."
+    },
+    {
+      "id": "5032825",
+      "time": "2026-08-10 08:28:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【夏普股價下跌8% 此前下調全年營業利潤預期】由於夏普公司下調了全年營業利潤預期，其股價一度下跌8%。夏普公司預計全年營業利潤預期為300億日元，低於此前預期的490億日元和市場預期的441.2億日元，公司預計淨利潤250.0億日元，此前預計420.0億日元，預估389.3億日元。"
+    },
+    {
+      "id": "5032824",
+      "time": "2026-08-10 08:28:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京經開區釋出“創新生態十條”】據“北京亦莊”公眾號訊息，近日，《北京經濟技術開發區關於進一步最佳化科技創新生態的若干措施》（簡稱“創新生態十條”）正式釋出。作為北京經開區“十五五”開局之年推動科技創新與產業創新深度融合的重要抓手，該政策系統部署十大計劃，形成“重大攻關有支撐、成果轉化有通道、場景示範有資金、創新風險有保障、專業服務有培育”的完整政策閉環，助力構建協同高效、開放融通、活力迸發的科技產業創新生態，築牢新質生產力生態根基。"
+    },
+    {
+      "id": "5032823",
+      "time": "2026-08-10 08:28:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受全年業績預期上調的影響，日本Recruit Holdings 的股價飆升超過 22%，觸及漲停板。"
+    },
+    {
+      "id": "5032822",
+      "time": "2026-08-10 08:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受颱風北側螺旋雨帶影響今晨上海風雨明顯，多區釋出暴雨橙色預警】據“上海市天氣”微博訊息，受其北側螺旋雨帶影響，早晨到中午上海又風又雨。7時55分，“上海市天氣”微博稱，過去的1小時，明顯降水主要出現在嘉定南部、青浦南部、金山大部，浦東北部、中心城區北部以及寶山南部雨量也較大。陸上最大陣風出現在奉賢海灣鎮達10級。  記者注意到，目前上海青浦區、嘉定區、金山區、閔行區、浦東新區釋出暴雨橙色預警。此外，上海市颱風藍色預警仍在生效中。（澎湃）"
+    },
+    {
+      "id": "5032821",
+      "time": "2026-08-10 08:26:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：3.2T速率時代將至 提前佈局薄膜鈮酸鋰（TFLN）賽道】中信證券研報表示，3.2T速率時代將至，純矽方案逼近頻寬物理極限，薄膜鈮酸鋰（TFLN）有望成為下一代主流調製器方案。 AI算力瓶頸正從\"單卡\"轉向\"叢集\"，光互聯價值量佔比隨埠速率升級顯著提升。當前AI大模型的規模以約10x/yr的速度擴張，對應訓練叢集從2024年萬卡級躍遷至2026年的十萬卡級（xAI Colossus 10萬+GPU），叢集互聯中GPU/光模組配比由1:3.5進一步升至1:5帶動光價值量上升。與此同時，MoE模型通訊開銷佔整體時延高達約40%—50%，隨著Vera Rubin等新一代機櫃加速部署，計算節點間同時面臨功耗牆與網路牆兩大約束，共同指向更高頻寬、更低功耗、更低延遲的光互聯方案。中信證券認為在400G/lane節點上，材料體系將取代封裝工藝成為競爭核心，TFLN憑藉Pockels效應的先天優勢有望在3.2T時代實現份額躍升。"
+    },
+    {
+      "id": "te:markets:573944",
+      "time": "2026-08-10 08:26:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gain After Weak US Jobs Report — Silver traded near $64 an ounce on Monday after surging more than 10% last week, supported by an unexpected contraction in the US labor market that led traders to reduce expectations for a near-term Federal Reserve interest rate hike. Data released Friday showed the US economy unexpectedly lost 23K jobs in July, following a downwardly revised 20K increase in June and falling well short of forecasts for an 80K gain. Markets now price around a 44% chance of a 25 basis point rate hike in September, down from 67% a week earlier. Silver also held its gains even after oil prices climbed higher as uncertainty persisted over efforts to reopen the Strait of Hormuz. Iran said talks with Oman were close to an agreement but denied holding direct negotiations with the US, despite Washington’s claims that a deal was imminent."
+    },
     {
       "id": "te:markets:573943",
       "time": "2026-08-10 08:25:22",
@@ -144679,251 +144752,6 @@
         "國際"
       ],
       "text": "日本日經225指數日內跌幅達2%。"
-    },
-    {
-      "id": "5021275",
-      "time": "2026-08-03 08:34:12",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：雲廠商強勁開支利好中國光模組公司 半年報披露或為買入時機】 花旗稱，美國四大雲廠商二季度資本開支同比強勁增長79%並小幅上調全年指引，表明需求可見度已明確延伸至2028年，這為AI基礎設施供應鏈公司提供了結構性利好。中國光通訊板塊的佈局機會或出現在2026年上半年業績釋出前後，近期催化劑包括9月的CIOE（中國光博會）、雲棲大會、ECOC（歐洲光通訊展）。"
-    },
-    {
-      "id": "te:economy:571916",
-      "time": "2026-08-03 08:33:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Japan Manufacturing PMI Revised Downward — The S&P Global Japan Manufacturing PMI was revised lower to 54.5 in July 2026 from the preliminary estimate of 54.7, following a final reading of 54.8 in the previous month. It marked the seventh straight month of expansion in factory activity, supported by faster increases in output, while new orders grew at the fastest pace in four-and-a-half years. Employment increased solidly, while backlogs of work rose for the seventh consecutive month and at the fastest pace since February 2014. Purchasing activity rose for the fourth consecutive month, with the rate of accumulation being the sharpest since May 2024, while stocks of finished goods neared stabilisation. Meanwhile, suppliers' delivery times lengthened markedly. On the price front, input price inflation eased to a four-month low, while output prices rose sharply. Finally, business sentiment improved to its highest level in four months, supported by hopes of stronger demand, particularly for semiconductors."
-    },
-    {
-      "id": "5021274",
-      "time": "2026-08-03 08:33:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元下跌0.7%，至156.37。"
-    },
-    {
-      "id": "5021273",
-      "time": "2026-08-03 08:33:26",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "華僑銀行策略師Moh Siong Sim：鑑於與美國的聯合行動仍在進行中，如果止損單被觸發，美元/日元可能會跌破155。但干預能否成功扭轉日元疲軟的局面，取決於干預措施是日本央行更鷹派立場的補充，還是替代。"
-    },
-    {
-      "id": "5021272",
-      "time": "2026-08-03 08:32:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元一度上漲0.6%，至156.52。"
-    },
-    {
-      "id": "te:economy:571915",
-      "time": "2026-08-03 08:31:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Indonesia Manufacturing PMI Rises to 5-Month High — Indonesia's S&P Global Manufacturing PMI rose to 50.2 in July 2026 from 46.9 in June, marking its highest reading since February. Output rose after four months of decline, though growth was marginal, while new orders steadied following June’s sharp drop. Meanwhile, export sales remained weak, falling for a fifth month. Rising workloads drove the strongest backlog buildup since November 2025, prompting firms to add staff for the first time in five months, albeit modestly. Purchasing activity slipped again, though only fractionally. Delivery times lengthened for a tenth month due to shipping delays, but the deterioration was the mildest in the current sequence as material availability improved. Input cost inflation eased to a four-month low yet stayed elevated on pricier raw materials, leading to another sharp rise in selling prices. Finally, sentiment hit its highest since January, supported by expectations of firmer sales, improving customer sentiment, and softer cost pressures."
-    },
-    {
-      "id": "5021271",
-      "time": "2026-08-03 08:31:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國產高效能碳纖維及航空制動材料實現突破】 中簡科技成功實現國產溼法T1100級碳纖維高效規模化製備，打破國外壟斷。中國航空工業集團自主研發的碳/陶剎車材料，成本較國外降低70%，應用邊界持續拓寬。（新華社）"
-    },
-    {
-      "id": "5021270",
-      "time": "2026-08-03 08:31:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "CFETS：7月31日人民幣匯率指數按周跌0.56至102.19。"
-    },
-    {
-      "id": "5021269",
-      "time": "2026-08-03 08:30:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌日元匯率突然進一步下挫，目前跌幅達0.5%，報156.64。"
-    },
-    {
-      "id": "5021268",
-      "time": "2026-08-03 08:30:49",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "採購經理人指數（PMI）資料顯示，日本7月工廠產出飆升至近12年來高位。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608033829239740",
-      "time": "2026-08-03 08:30:47",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月製造業PMI終值為54.5，預期54.7，前值54.7。"
-    },
-    {
-      "id": "5021267",
-      "time": "2026-08-03 08:30:24",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "越南7月製造業PMI 52.9，前值 51.8。\n日本7月製造業PMI終值 54.5，初值 54.7。\n韓國7月製造業PMI 53.1，前值 52.1。"
-    },
-    {
-      "id": "mkt:019fc507-3701-7aab-8f4a-ccb52097de24",
-      "time": "2026-08-03 08:30:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Nikkei Manufacturing PMI 55.1 in July, down from 55.2 in June."
-    },
-    {
-      "id": "mkt:019fc507-23c7-7aab-8f4a-c1bec02e64d8",
-      "time": "2026-08-03 08:30:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "S&P Global Vietnam Manufacturing PMI 52.9 in July, up from 51.8 previously."
-    },
-    {
-      "id": "mkt:019fc507-229a-7aab-8f4a-b96d1e2b1d5f",
-      "time": "2026-08-03 08:30:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan July final manufacturing PMI 54.5, versus 54.7 expected and 54.7 prior."
-    },
-    {
-      "id": "mkt:019fc507-224f-7aab-8f4a-b7b4915f2d56",
-      "time": "2026-08-03 08:30:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea HSBC manufacturing PMI for July 53.1, up from 52.1 in June."
-    },
-    {
-      "id": "mkt:019fc507-098e-7aab-8f4a-abd1a0ee1bdb",
-      "time": "2026-08-03 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Taiwan | Manufacturing PMI (Jul) | actual 55.1 | previous 55.2"
-    },
-    {
-      "id": "mkt:019fc507-0980-7aab-8f4a-a2c72d481ed8",
-      "time": "2026-08-03 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Manufacturing PMI (Jul) | actual 53.1 | previous 52.1"
-    },
-    {
-      "id": "mkt:019fc507-0970-7aab-8f4a-98c3bbe6db3b",
-      "time": "2026-08-03 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Manufacturing PMI Final (Jul) | actual 54.5 | consensus 54.7 | previous 54.7"
-    },
-    {
-      "id": "5021266",
-      "time": "2026-08-03 08:29:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元對美元大幅走強。"
-    },
-    {
-      "id": "5021265",
-      "time": "2026-08-03 08:29:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普說美伊將談判 伊朗稱在霍爾木茲海峽劃新航線 】美國總統特朗普8月2日宣佈，美國將於3日和伊朗進行談判。與此同時，伊朗外交部發言人巴加埃表示，伊朗正與阿曼討論在霍爾木茲海峽劃定一條新航線，但新航線並不意味著霍爾木茲海峽開放或關閉。（新華社）"
-    },
-    {
-      "id": "mkt:019fc506-9509-7aab-8f4a-94a1b6e13949",
-      "time": "2026-08-03 08:29:30",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY extended an intraday decline of about 100 pips to 156.65."
-    },
-    {
-      "id": "mkt:019fc505-b4e2-7aab-8f4a-8eceb6413c00",
-      "time": "2026-08-03 08:28:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY dropped roughly 70 pips in a brief move and is trading at 157."
-    },
-    {
-      "id": "5021264",
-      "time": "2026-08-03 08:27:51",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數下跌 三星和SK海力士均跌超7%】韓國股市基準指數Kospi一度下跌5%，三星電子和SK海力士領跌，兩家公司股價均跌超7%。上週五週五韓國Kospi指數創紀錄上漲18%，其中SK海力士股價上漲30%。根據交易所資料，週一早盤外資成為Kospi成份股最大的淨賣方；散戶投資者則買入，本地基金也出現賣出。"
-    },
-    {
-      "id": "5021263",
-      "time": "2026-08-03 08:27:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及紅新月會表示，在發生5.3級地震後，目前尚未收到任何人員傷亡或財產損失的報告。"
-    },
-    {
-      "id": "5021262",
-      "time": "2026-08-03 08:27:09",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "安永預計，英國央行今年將維持利率不變，明年則將在4月和7月分別降息，使利率從3.75%下調至3.25%。"
     }
   ]
 }
