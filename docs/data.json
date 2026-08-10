@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-11 00:14:07",
-  "count": 15815,
+  "updated": "2026-08-11 00:18:07",
+  "count": 15809,
   "items": [
+    {
+      "id": "5034436",
+      "time": "2026-08-11 00:16:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【德國兩年期國債收益率漲約5個基點，非農過後，投資者關注油價漲勢】週一（8月10日，美國非農就業報告發布之後一個交易日）歐市尾盤，德國10年期國債收益率漲4.6個基點，報3.179%，日內交投於3.125%-3.182%區間，北京時間14:30“開盤”以來、至20:33呈現出平坦的W形走勢，持穩於3.135%附近，之後擴大漲幅。兩年期德債收益率漲5.2個基點，報2.801%，日內交投於2.749%-2.804%區間，幾乎全天處於上漲狀態；30年期德債收益率漲3.2個基點，報3.672%。2/10年期德債收益率利差跌0.453個基點，報+37.533個基點。法國10年期國債收益率漲6.4個基點，報3.981%；兩年期法債收益率漲5.9個基點，30年期法債收益率漲4.6個基點。義大利10年期國債收益率漲6.4個基點，報3.965%。西班牙10年期國債收益率漲5.8個基點，報3.618%。希臘10年期國債收益率漲6.4個基點，報3.863%。"
+    },
+    {
+      "id": "5034435",
+      "time": "2026-08-11 00:15:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版實時資料，截至8月11日0時10分，影片《奧德賽》點映及預售總票房突破8000萬。"
+    },
+    {
+      "id": "mkt:019fec73-8c9c-7aab-8fdd-b79e0ee29c39",
+      "time": "2026-08-11 00:13:43",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) hit an intraday high, trading up more than 2% on the session."
+    },
     {
       "id": "5034434",
       "time": "2026-08-11 00:13:24",
@@ -143865,91 +143892,6 @@
         "Dow"
       ],
       "text": "Nasdaq extends gains to 2%, S&P 500 up 1.3%, Dow up 1%."
-    },
-    {
-      "id": "5023056",
-      "time": "2026-08-04 00:17:39",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美銀看多英國利率期貨、做空歐元區利率期貨】美國銀行利率策略師斯菲亞·薩利姆傾向做多英國利率期貨、相對做空歐元區利率期貨，她認為市場高估了英國央行的加息幅度。薩利姆建議，在利差約139個基點時，做多英國3個月利率期貨、做空歐元區3個月利率期貨，目標利差120個基點；當前二者利差約132個基點。她在週一研報中寫道：“我們認為兩大央行的政策表態分歧正在擴大，自6月以來英國央行的鷹派傾向明顯降溫。”各大發達市場的央行政策定價當前“高度趨同”，其中歐洲央行與英國央行的市場預期，和該行模型預測偏離程度“最為顯著”。"
-    },
-    {
-      "id": "5023055",
-      "time": "2026-08-04 00:17:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲2.00%，現報25882.567點；道指漲1.01%，現報53013.070點；標普500指數漲1.29%，現報7586.350點。"
-    },
-    {
-      "id": "te:markets:572261",
-      "time": "2026-08-04 00:17:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Rise to Records — European stocks rose to record highs on Monday as lower energy prices drove benchmark borrowing costs to drop. The Euro STOXX 50 gained 1.2% to close at 6,440 and the STOXX Europe 600 gained 0.4% to 652. Oil and natural gas prices fell sharply after the US refrained from attacking Iran over the weekend and US President Trump signaled willingness for a ceasefire. Sovereign yields fell and softened soaring credit costs, aiding banks and insurers with UniCredit, Santander, BBVA, and BNP Paribas gaining over 2%. Meanwhile, Intesa Sanpaolo rose 2.4% as talks between Banca MPS and Banco BPM for a merger of equals collapsed, reigniting Intesa's odds for an acquisition of the latter. Software companies also closed higher, tracking US counterparts with SAP adding 4.4%. Meanwhile, Deutsche Telekom rose 5% ahead of its earnings."
-    },
-    {
-      "id": "mkt:019fc869-c799-7aab-8f5c-3514fc70bb0c",
-      "time": "2026-08-04 00:16:43",
-      "tags": [
-        "MKT News",
-        "HMC.O",
-        "Impact bullish"
-      ],
-      "text": "Honda U.S. sales rose 12.8% YoY in July to 136,549 units, the strongest monthly result since 2019."
-    },
-    {
-      "id": "5023054",
-      "time": "2026-08-04 00:16:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國本田：7月銷量增長12.8%，至136549輛，創2019年以來同期最佳水平。"
-    },
-    {
-      "id": "5023053",
-      "time": "2026-08-04 00:16:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部：已達成協議，將“愛國者”3型防空導彈的產量提高至原來的3倍，並將“薩德”系統的產量提高至原來的4倍。"
-    },
-    {
-      "id": "mkt:019fc868-9300-7aab-8f5c-2ca10f5e532b",
-      "time": "2026-08-04 00:15:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Refinitiv: Sources say Trump is expected to attend a mining executives roundtable at the U.S. State Department on Friday."
-    },
-    {
-      "id": "5023052",
-      "time": "2026-08-04 00:15:12",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "據訊息人士透露，特朗普預計將於週五在美國國務院出席一場礦業高管圓桌會議。"
-    },
-    {
-      "id": "5023051",
-      "time": "2026-08-04 00:14:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "FS MVP私募市場基金擬回購至多5%的淨資產，截至6月30日對應規模為9247萬美元。"
     }
   ]
 }
