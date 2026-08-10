@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-11 05:48:00",
+  "updated": "2026-08-11 05:51:48",
   "count": 15805,
   "items": [
+    {
+      "id": "mkt:019feda8-6c4b-7aab-8fe1-7df3d353a72b",
+      "time": "2026-08-11 05:51:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Blackstone is set to acquire a minority stake in Air Canada’s Aeroplan loyalty program for $2 billion, injecting fresh capital to help Air Canada offset rising fuel costs and weaker U.S. travel demand."
+    },
+    {
+      "id": "5034613",
+      "time": "2026-08-11 05:48:49",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【劉海星率中共代表團訪問古巴並出席首屆“菲德爾國際對話”】8月8日至10日，中共中央對外聯絡部部長劉海星率中共代表團訪問古巴並出席首屆“菲德爾國際對話”。其間，同古共中央第一書記、古巴國家主席迪亞斯-卡內爾，古共中央政治局委員、中央組織書記莫拉萊斯，古共中央國際關係部部長洛薩達等會見交流。雙方表示，將共同落實好兩黨兩國最高領導人達成的重要共識，賡續傳統友誼，深化黨際交往，加強戰略溝通與協作，攜手推進各自國家社會主義事業，為中古命運共同體建設作出更大貢獻。（新華社）"
+    },
     {
       "id": "mkt:019feda0-be53-7aab-8fe1-7283c0bbc239",
       "time": "2026-08-11 05:42:42",
@@ -143871,27 +143887,6 @@
         "國際"
       ],
       "text": "【古巴國家電網癱瘓】當地時間8月3日獲悉，當天，古巴國家電網發生癱瘓。受美國製裁影響，古巴長期以來難以進口燃料及發電廠裝置，發電廠裝置老舊難更新，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）"
-    },
-    {
-      "id": "5023244",
-      "time": "2026-08-04 05:51:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "禮來發言人：公司認為，在取得美國 FDA 批准前，向符合特定條件的患者提供正品瑞塔魯肽（Retatrutide）具備醫學合理性。"
-    },
-    {
-      "id": "te:markets:572282",
-      "time": "2026-08-04 05:49:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Brazil Yields Fall Ahead of BCB Meeting — Brazil's 10-year government bond yield fell to 14.56% from a nearly three-month high of 15% reached in late July as easing tensions in the Middle East pushed oil prices lower, reducing inflation concerns. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike, raising hopes for a diplomatic resolution. The decline in oil prices reinforced expectations that the BCB will cut the Selic rate from 14.25% at its August 5th meeting. The latest Focus Survey lowered the 2026 inflation forecast to 5.03% from 5.12% and reduced the year-end Selic projection to 13.75% from 14.00%. Meanwhile, consumer prices rose just 0.06% in the month to mid-July, slowing sharply from 0.41% in June and below forecasts of 0.2%."
     }
   ]
 }
