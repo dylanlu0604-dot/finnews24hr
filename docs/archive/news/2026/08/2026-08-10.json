@@ -1,7 +1,31 @@
 {
   "date": "2026-08-10",
-  "count": 2466,
+  "count": 2469,
   "items": [
+    {
+      "id": "5034399",
+      "time": "2026-08-10 23:10:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極端乾旱蔓延 斯洛伐克近六成國土受影響】當地時間8月10日，斯洛伐克水文氣象研究所釋出的最新監測資料顯示，極端乾旱已影響全國約59%的國土面積，影響範圍較一週前繼續擴大；異常至極端乾旱已覆蓋全國約95%國土，幾乎波及全國所有地區。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fec38-5dda-7aab-8fdc-99dafe2ca721",
+      "time": "2026-08-10 23:09:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Zhongxing-4B launch fails】On Aug 10 at 20:02 Beijing time China launched the Zhongxing-4B satellite from Wenchang using a modified Long March-7 launch vehicle; the rocket experienced an in-flight anomaly and the mission failed. Authorities say the cause is under investigation."
+    },
+    {
+      "id": "5034398",
+      "time": "2026-08-10 23:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中星4B衛星發射失利 】8月10日20時02分，我國在文昌航天發射場使用長征七號改運載火箭發射中星4B衛星，火箭飛行異常，發射任務失利。具體原因正在進一步分析排查。（新華社）"
+    },
     {
       "id": "5034397",
       "time": "2026-08-10 23:06:04",
