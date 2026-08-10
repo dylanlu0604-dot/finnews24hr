@@ -1,7 +1,32 @@
 {
   "date": "2026-08-11",
-  "count": 422,
+  "count": 426,
   "items": [
+    {
+      "id": "5034680",
+      "time": "2026-08-11 07:34:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國證交會：金融科技公司Netcapital藉助虛假交易虛增營收】美國證券交易委員會對Netcapital公司及其五名高管提起訴訟，指控其透過偽造諮詢協議虛增1400萬美元公司營收，該行為違反聯邦證券法。美國證券交易委員會於週一向馬薩諸塞州聯邦地區法院提交的起訴狀顯示，被指控的舞弊行為在2021年10月至2024年1月期間，將Netcapital的營收虛高345%。時任高管之一、納普斯特（Napster）創始董事長約翰・範寧，被指控操控多家空殼公司，與Netcapital子公司簽訂多份虛假諮詢協議，每份協議金額100萬至200萬美元。Netcapital運營著一個線上投資平臺，可供私營企業開展融資。"
+    },
+    {
+      "id": "5034679",
+      "time": "2026-08-11 07:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CoreWeave完成26億美元AI基礎設施貸款融資】8月10日，CoreWeave宣佈完成26億美元延期提款定期貸款融資，以支援其AI雲平臺的持續擴張及已承諾的客戶部署專案，融資期限約為五年。融資所得資金將用於採購和部署專用於客戶合同的高效能運算（HPC）基礎設施。"
+    },
+    {
+      "id": "5034678",
+      "time": "2026-08-11 07:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本宇宙航空研究開發機構（JAXA）：確認準天頂衛星系統（QZSS）的 “Michibiki No. 7”已進入預定軌道。"
+    },
     {
       "id": "5034677",
       "time": "2026-08-11 07:30:30",
@@ -39,6 +64,15 @@
         "Importance 1"
       ],
       "text": "UK Retail Sales Growth Slows to 5-Month Low — UK retail sales rose by 1% year-on-year on a like-for-like basis in July 2026, falling short of market expectations for a 1.5% gain and slowing from a 1.7% increase in the previous month. The latest figure also marked the softest growth since February, as consumers remained wary of big outlays despite support from England's run to the World Cup semi-finals and a prolonged heatwave. Food sales rose 3.8% while non-food sales declined 0.7%. Clothing sales benefited from hot weather, although footwear sales fell. Barclays' broader measure of consumer spending rose 2%, slightly faster than June's 1.9% increase, with essential spending up 2.9% and non-essential spending increasing 1.6%. Pub transactions jumped 10% during the month, supported by World Cup matches, while travel spending shifted toward domestic staycations as airline spending fell 6%. Barclays' consumer confidence measure also reached its most optimistic level about the UK economy in 21 months."
+    },
+    {
+      "id": "em:qqyh_mlc:202608113837037030",
+      "time": "2026-08-11 07:28:23",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【特朗普稱曾與美聯儲主席沃什有過簡短交談】據報道，美國總統特朗普8月10日表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。"
     },
     {
       "id": "5034674",

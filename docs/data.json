@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-11 07:31:32",
-  "count": 15820,
+  "updated": "2026-08-11 07:35:28",
+  "count": 15818,
   "items": [
+    {
+      "id": "5034680",
+      "time": "2026-08-11 07:34:19",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國證交會：金融科技公司Netcapital藉助虛假交易虛增營收】美國證券交易委員會對Netcapital公司及其五名高管提起訴訟，指控其透過偽造諮詢協議虛增1400萬美元公司營收，該行為違反聯邦證券法。美國證券交易委員會於週一向馬薩諸塞州聯邦地區法院提交的起訴狀顯示，被指控的舞弊行為在2021年10月至2024年1月期間，將Netcapital的營收虛高345%。時任高管之一、納普斯特（Napster）創始董事長約翰・範寧，被指控操控多家空殼公司，與Netcapital子公司簽訂多份虛假諮詢協議，每份協議金額100萬至200萬美元。Netcapital運營著一個線上投資平臺，可供私營企業開展融資。"
+    },
+    {
+      "id": "5034679",
+      "time": "2026-08-11 07:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CoreWeave完成26億美元AI基礎設施貸款融資】8月10日，CoreWeave宣佈完成26億美元延期提款定期貸款融資，以支援其AI雲平臺的持續擴張及已承諾的客戶部署專案，融資期限約為五年。融資所得資金將用於採購和部署專用於客戶合同的高效能運算（HPC）基礎設施。"
+    },
+    {
+      "id": "5034678",
+      "time": "2026-08-11 07:32:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本宇宙航空研究開發機構（JAXA）：確認準天頂衛星系統（QZSS）的 “Michibiki No. 7”已進入預定軌道。"
+    },
     {
       "id": "5034677",
       "time": "2026-08-11 07:30:30",
@@ -39,6 +64,15 @@
         "Importance 1"
       ],
       "text": "UK Retail Sales Growth Slows to 5-Month Low — UK retail sales rose by 1% year-on-year on a like-for-like basis in July 2026, falling short of market expectations for a 1.5% gain and slowing from a 1.7% increase in the previous month. The latest figure also marked the softest growth since February, as consumers remained wary of big outlays despite support from England's run to the World Cup semi-finals and a prolonged heatwave. Food sales rose 3.8% while non-food sales declined 0.7%. Clothing sales benefited from hot weather, although footwear sales fell. Barclays' broader measure of consumer spending rose 2%, slightly faster than June's 1.9% increase, with essential spending up 2.9% and non-essential spending increasing 1.6%. Pub transactions jumped 10% during the month, supported by World Cup matches, while travel spending shifted toward domestic staycations as airline spending fell 6%. Barclays' consumer confidence measure also reached its most optimistic level about the UK economy in 21 months."
+    },
+    {
+      "id": "em:qqyh_mlc:202608113837037030",
+      "time": "2026-08-11 07:28:23",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【特朗普稱曾與美聯儲主席沃什有過簡短交談】據報道，美國總統特朗普8月10日表示，上週他與美聯儲主席凱文·沃什有過簡短交談，但強調沃什必須與美聯儲全體理事會成員協同開展工作。特朗普暗示，如果沃什擁有完全決策權，其傾向的政策方向或將有所不同，但並未具體說明這位美聯儲主席支援何種舉措。"
     },
     {
       "id": "5034674",
@@ -143983,61 +144017,6 @@
         "其他"
       ],
       "text": "閃迪與SK海力士釋出首個開放計算專案（OCP）技術規範，推進高頻寬快閃記憶體的全球標準化程序。"
-    },
-    {
-      "id": "5023309",
-      "time": "2026-08-04 07:33:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【民調：民主黨經濟管理評價10年來首次領先共和黨】路透/益普索的一項民調顯示，美國民眾認為民主黨比共和黨更善於管理經濟，為近10年來首見；民調還顯示，民眾對總統特朗普執政表現的認可度已降至35%。這項民調於週三至週一進行，結果表明，特朗普的經濟治理表現，可能會影響共和黨11月中期選舉的勝算，而此次選舉將決定未來兩年國會控制權的歸屬。路透/益普索民調顯示，特朗普支援率從上月的37%降至35%，僅比任內支援率低位高出1個百分點。在接受民調的登記選民中，約37%認為民主黨的治理經濟路線更好，而選擇共和黨的比例為36%。另有27%的人表示不確定，或認為其他政黨會做得更好。在2017年至2021年特朗普首個總統任期的大部分時間裡，以及民主黨總統拜登執政的整個四年期間 ，共和黨在經濟議題一直獲得較高評價，並延續到特朗普第二個任期。"
-    },
-    {
-      "id": "5023308",
-      "time": "2026-08-04 07:33:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果新任CEO據悉邀請已退休的硬體部門負責人加入管理團隊】據報道，蘋果公司即將上任的執行長約翰·特納斯（John Ternus）正將一位曾在自己負責硬體工程期間共事過的得力助手重新招致麾下，加入其新的管理團隊。報道稱，特納斯已聘請勞拉·萊格羅斯加入團隊，萊格羅斯此前曾擔任硬體工程副總裁，直至2022年退休。"
-    },
-    {
-      "id": "te:markets:572294",
-      "time": "2026-08-04 07:32:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Decline as US-Iran Talks Eyed — Brent hovered around $83.5 per barrel on Tuesday after tumbling nearly 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023."
-    },
-    {
-      "id": "5023307",
-      "time": "2026-08-04 07:32:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤跌120點，報63560點。"
-    },
-    {
-      "id": "5023306",
-      "time": "2026-08-04 07:32:02",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【專家：預計下一步央行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕】東方金誠首席宏觀分析師王青表示，在前期公開市場各項操作適度調減等因素帶動下，當前DR001（銀行間市場存款類機構隔夜質押回購利率）等主要市場利率已回升到政策利率附近，7月份中期流動性恢復淨投放。預計下一步中國人民銀行將綜合運用各類短、中、長期流動性管理工具，保持流動性充裕，DR001等主要市場利率持續大幅向上偏離政策利率的可能性很小。 值得一提的是，當前中國人民銀行已設立隔夜逆回購工具，並正在增加操作頻率。王青認為，這將進一步控制DR001的波動，為推動貨幣政策框架向價格型轉型創造有利條件。"
-    },
-    {
-      "id": "te:markets:572293",
-      "time": "2026-08-04 07:31:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Holds Decline as US-Iran Talks Eyed — Crude oil hovered near $80 per barrel on Tuesday after tumbling about 5% in the previous session, as investors monitored renewed US-Iran negotiations for signs the two sides could reach an agreement on fully reopening the Strait of Hormuz. President Donald Trump said his proposal for talks represents Tehran’s final opportunity to strike a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are progressing. Elsewhere, Turkey and Iraq extended a key oil pipeline agreement by another year, bolstering alternative export routes, while Kazakhstan resumed crude flows through the Caspian Pipeline Consortium following a brief disruption. Meanwhile, OPEC+ approved another modest output increase, completing the planned restoration of production cuts introduced in 2023."
     }
   ]
 }
