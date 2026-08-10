@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-10 17:32:41",
-  "count": 15938,
+  "updated": "2026-08-10 17:36:45",
+  "count": 15933,
   "items": [
+    {
+      "id": "5033751",
+      "time": "2026-08-10 17:34:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江鹽集團：持股5%以上股東減持股份致權益變動觸及1%刻度】江鹽集團公告稱，股東寧波信達漢石龍脊股權投資合夥企業（有限合夥）因經營業務發展需要，自2026年7月14日起15個交易日後3個月內，擬集中競價減持不超642.78萬股。截至8月10日，其已減持169萬股，佔總股本0.26%，權益變動後持股比例從12.13%降至11.87%，觸及1%刻度線。本次減持未實施完畢，不會導致實控人變更，不觸及要約收購。"
+    },
+    {
+      "id": "te:economy:574123",
+      "time": "2026-08-10 17:34:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mongolia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Mongolia Inflation Rate Hits Over 3-Year High — The annual inflation rate in Mongolia rose to 13.0% year-on-year in July 2026 from 12.0% in the previous month, reaching its highest level since December 2022. Prices accelerated for food and non-alcoholic beverages (25.5% vs 24.8% in June), alcoholic beverages and tobacco (12.6% vs 12.0%), transport (10.0% vs 5.7%), clothing and footwear (7.2% vs 7.0%), furnishings, household equipment and tools (8.7% vs 8.0%), health (7.5% vs 7.2%), recreation and culture (6.6% vs 5.5%), restaurants and hotels (16.2% vs 15.2%), and miscellaneous goods and services (9.8% vs 9.1%). Meanwhile, inflation eased slightly for housing and utilities (5.1% vs 5.3%) while remaining unchanged for communication (1.6%), education (12.8%), and insurance and financial services (17.0%). On a monthly basis, consumer prices rose 0.9% in July, edging down from 1.0% in the previous month."
+    },
+    {
+      "id": "5033750",
+      "time": "2026-08-10 17:33:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局批准釋出一批重要國家標準】近日，市場監管總局（國家標準委）批准釋出338項重要國家標準。其中，強制性國家標準15項，推薦性國家標準323項，涉及高新技術領域、傳統產業、安全生產、百姓生活等方面。該批標準釋出後將在推動產業高質量發展、提升人民群眾生活品質、保障生命財產安全等方面發揮重要作用。"
+    },
+    {
+      "id": "mkt:019feb04-e13c-7aab-8fd6-d4b2aff7a11c",
+      "time": "2026-08-10 17:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India proposes law to limit state mining taxes, centralise regulation】The Modi government has introduced a bill in parliament to restrict states' powers to regulate or tax mineral rights and mineral-bearing land and to impose nationwide, uniform mining rules. Under the draft legislation New Delhi would be able to set conditions and caps on taxes and other charges levied by regional authorities, saying cumulative levies should not be disproportionate to a mine's economic value and profitability. The proposal notes that despite adequate domestic resources, domestic mineral supply has become costly and there is a risk of rising imports. The move could curtail a material revenue source for mineral-rich states and heighten tensions between New Delhi and state governments."
+    },
+    {
+      "id": "5033749",
+      "time": "2026-08-10 17:32:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海期貨交易所：對部分客戶採取限制開倉監管措施】上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告：2026年8月10日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
+    },
+    {
+      "id": "5033748",
+      "time": "2026-08-10 17:32:20",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀：7月CPI重要性高於就業報告 仍預計美聯儲9月啟動加息】美國銀行在最新研報中表示，7月就業報告整體略偏“鴿派”，但不足以改變美聯儲的政策路徑，接下來公佈的7月消費者價格指數（CPI）將成為更重要的政策訊號。該行維持美聯儲從9月開始、累計加息75個基點的預測。"
+    },
+    {
+      "id": "mkt:019feb04-0da0-7aab-8fd6-c84c3f0e51e1",
+      "time": "2026-08-10 17:32:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Ukrainian military says it struck the Taneco refinery in Russia's Republic of Tatarstan."
+    },
     {
       "id": "mkt:019feb03-c7d7-7aab-8fd6-c3aeefefd5e0",
       "time": "2026-08-10 17:32:01",
@@ -9,6 +75,15 @@
         "MKT News"
       ],
       "text": "Southbound Stock Connect net inflow CNY 2.021 bln today. Via Shanghai Connect, one stock and Zhipu net bought HKD 833 mln and HKD 560 mln respectively; SMIC was the largest net seller at HKD 139 mln. Via Shenzhen Connect, GenScript Biotech and Xiaomi Corp -W net bought HKD 472 mln and HKD 195 mln respectively; SMIC led net selling with HKD 313 mln."
+    },
+    {
+      "id": "5033747",
+      "time": "2026-08-10 17:31:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”\n2、特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。\n3、近日，美國白宮國家經濟委員會主任凱文·哈西特在接受採訪時證實，美國總統特朗普與新任美聯儲主席凱文·沃什經常通話討論經濟問題。\n4、以色列總理本傑明·內塔尼亞胡拒絕了由美國支援的調解方提出的哈馬斯解除武裝提議，此前他對以色列應以分階段從加沙撤軍作為回應的建議表示了疑慮，此後其立場進一步強硬。\n5、美國媒體9日援引一名美國高階官員的話報道稱，白宮“並不在意”以色列總理內塔尼亞胡拒絕接受加沙和平計劃，並稱他的這一表態是出於選舉週期中的“政治需要”。\n6、北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。\n7、特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！\n8、特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。"
     },
     {
       "id": "5033746",
@@ -144986,113 +145061,6 @@
         "市場"
       ],
       "text": "【7月第5周生豬和豬肉價格有所下跌】據農業農村部對500個縣集貿市場和採集點監測，上週（7月第5周，7月27日—8月2日，下同），全國活豬價格為11.22元/公斤，環比跌2.0%；豬肉集貿市場價格為20.90元/公斤，環比跌0.3%。據農業農村部對200個批發市場監測排程，上週全國豬肉批發市場均價為15.81元/公斤，環比跌0.8%，同比低22.7%。專家分析認為，上週生豬養殖主體、屠宰企業加快出欄、收購、屠宰節奏，市場供應充裕，全國多數地區出現高溫天氣，消費處於淡季，生豬和豬肉價格有所下跌。展望後市，預計本週生豬和豬肉價格以窄幅調整為主。(農業農村部)"
-    },
-    {
-      "id": "5022271",
-      "time": "2026-08-03 17:36:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【呷哺呷哺：預計2026年上半年虧損29-3900萬元，2025年同期虧損約8100萬元】呷哺呷哺公告，預計截至2026年6月30日止六個月收入約人民幣15億元，較截至2025年6月30日止六個月收入減少約23%；預期淨虧損介乎約人民幣2900萬元至3900萬元，而2025年同期淨虧損約人民幣8100萬元，虧損降幅介乎約64%至51%。虧損大幅減少主要由於公司推行多維度提質增效舉措，預計對關閉及持續虧損餐廳的資產減值損失計提金額較2025年同期減少約30%。"
-    },
-    {
-      "id": "5022270",
-      "time": "2026-08-03 17:36:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國改革黨副領袖理查德·泰斯因未申報利益接受議會道德監督機構調查。"
-    },
-    {
-      "id": "5022269",
-      "time": "2026-08-03 17:36:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【榮耀Robot Phone全渠道預約量突破25萬臺，橫店48小時片場創作賽成片釋出】近日，榮耀於橫店影視城啟動48小時創意拍攝挑戰賽，集結多支創作者隊伍，全程使用榮耀Robot Phone進行專業片場拍攝，完成從指令碼構思到成片輸出的全流程極限創作。以實戰場景的表現，驗證該機電影工業級的影像實力。榮耀Robot Phone憑藉輕便雲臺機身、硬核物理防抖、多元運鏡模式，以及全鏈路融入ARRI電影工作流，在移動端即可實現完整電影級創作，證明了移動影像在專業創作領域的無限可能。截至目前，該機全渠道預約量已突破25萬臺。參賽作品已開啟線上人氣評選，優秀作品將於8月12日榮耀Robot Phone釋出會上正式展映。（新浪科技）"
-    },
-    {
-      "id": "5022268",
-      "time": "2026-08-03 17:35:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：印度航空與亞塞拜然航空公司達成程式碼共享合作協議。"
-    },
-    {
-      "id": "5022267",
-      "time": "2026-08-03 17:35:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【恆銀科技：股價異常波動 不存在應披露未披露重大資訊】恆銀科技公告稱，公司股票於2026年7月31日、8月3日連續兩個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查及問詢，公司、控股股東及實控人不存在應披露未披露重大資訊，目前生產經營正常，內外部環境無重大變化。截至8月3日收盤，公司靜態市盈率約124.77，高於行業的67.36，股價或有短期下跌風險，提醒投資者注意。"
-    },
-    {
-      "id": "5022266",
-      "time": "2026-08-03 17:35:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東軟集團、中國通號等成立新公司 含AI相關業務】企查查APP顯示，近日，瀋陽暢聯智通技術工程有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧硬體銷售；數字影片監控系統銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由中國通號全資子公司中國鐵路通訊訊號上海工程局集團有限公司、東軟集團等共同持股。"
-    },
-    {
-      "id": "5022265",
-      "time": "2026-08-03 17:34:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外國企業對特定二次圓柱形電池、電池元件及包含該元件的產品提起337調查申請】據中國貿易救濟局，2026年7月21日，韓國LG Energy Solution Ltd.、美國LG Energy Solution Arizona, Inc.根據《美國1930年關稅法》第337節規定，向美國國際貿易委員會提出申請，指控對美出口、在美進口或在美銷售的特定二次圓柱形電池、電池元件及包含該元件的產品（Certain Secondary Cylindrical Batteries, Components Thereof, and Products Containing the Same）侵犯其專利權，請求發起337調查併發布有限排除令和禁止令。其中，中國三家企業涉案。"
-    },
-    {
-      "id": "5022264",
-      "time": "2026-08-03 17:34:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國政府發言人就休達問題表態：此事表明歐盟外部邊境局勢動盪，歐洲需共同協作應對。"
-    },
-    {
-      "id": "5022263",
-      "time": "2026-08-03 17:34:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海格通訊：擬對部分募投專案實施主體進行股權結構調整】海格通訊公告稱，公司全資子公司天騰產業透過公開掛牌方式增資擴股，工融金投二號基金以7.99億元成功摘牌。天騰產業是“無人資訊產業基地專案”實施主體，增資完成後，公司持股比例降至56.5693%，天騰產業將由全資子公司變為控股子公司。本次調整不影響募投專案實施，不構成重大資產重組，尚需股東會審議。"
-    },
-    {
-      "id": "5022261",
-      "time": "2026-08-03 17:33:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海格通訊：全資子公司增資擴股 引入7.99億元戰略投資】海格通訊公告稱，全資子公司天騰產業擬透過公開掛牌增資擴股引入戰略投資者，公司曾於2026年7月6日將其掛牌價格調整為不低於10.42億元。近日，工融金投二號基金以7.99億元成功摘牌，各方簽訂《投資協議》。增資完成後，天騰產業註冊資本增至15.91億元，公司持股56.57%，仍為控股股東。此次增資有利於加快產業基地建設，增強企業核心競爭力。"
-    },
-    {
-      "id": "5022260",
-      "time": "2026-08-03 17:33:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗處決兩名為以色列提供情報的間諜】伊朗司法部門3日釋出訊息說，兩名被控為以色列提供情報的間諜當天已被處決。伊朗司法部門說，這兩人在2025年6月和2026年2月至4月伊朗同以色列發生衝突期間，透過向以色列情報和特勤局（摩薩德）官員及關聯通訊渠道傳送伊朗軍事與安全中心座標、影象及相關情報，為以色列提供協助。（新華社）"
-    },
-    {
-      "id": "5022259",
-      "time": "2026-08-03 17:33:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【持續乾旱致河流水位下降 荷蘭多條渡輪航線停運】總檯記者8月3日獲悉，由於持續乾旱導致河流水位過低，荷蘭海爾德蘭省多條渡輪航線已暫停運營。據瞭解，海爾德蘭省及其與上艾瑟爾省交界地區渡輪停運，與萊茵河水位持續偏低，以及萊茵河瓦爾河支流和艾瑟爾河支流流量減少有關。萊茵河水位上週創歷史新低。（央視新聞）"
-    },
-    {
-      "id": "5022258",
-      "time": "2026-08-03 17:32:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中核建投資公司增資至10億 增幅100%】天眼查App顯示，近日，中核建投資有限公司發生工商變更，註冊資本由5億人民幣增至10億人民幣，增幅100%。該公司成立於2022年11月，法定代表人為彭獻武，經營範圍包含投資管理、以自有資金從事投資活動等。股東資訊顯示，該公司由中國核工業建設股份有限公司全資持股。"
     }
   ]
 }

@@ -1,7 +1,73 @@
 {
   "date": "2026-08-10",
-  "count": 1598,
+  "count": 1606,
   "items": [
+    {
+      "id": "5033751",
+      "time": "2026-08-10 17:34:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江鹽集團：持股5%以上股東減持股份致權益變動觸及1%刻度】江鹽集團公告稱，股東寧波信達漢石龍脊股權投資合夥企業（有限合夥）因經營業務發展需要，自2026年7月14日起15個交易日後3個月內，擬集中競價減持不超642.78萬股。截至8月10日，其已減持169萬股，佔總股本0.26%，權益變動後持股比例從12.13%降至11.87%，觸及1%刻度線。本次減持未實施完畢，不會導致實控人變更，不觸及要約收購。"
+    },
+    {
+      "id": "te:economy:574123",
+      "time": "2026-08-10 17:34:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mongolia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Mongolia Inflation Rate Hits Over 3-Year High — The annual inflation rate in Mongolia rose to 13.0% year-on-year in July 2026 from 12.0% in the previous month, reaching its highest level since December 2022. Prices accelerated for food and non-alcoholic beverages (25.5% vs 24.8% in June), alcoholic beverages and tobacco (12.6% vs 12.0%), transport (10.0% vs 5.7%), clothing and footwear (7.2% vs 7.0%), furnishings, household equipment and tools (8.7% vs 8.0%), health (7.5% vs 7.2%), recreation and culture (6.6% vs 5.5%), restaurants and hotels (16.2% vs 15.2%), and miscellaneous goods and services (9.8% vs 9.1%). Meanwhile, inflation eased slightly for housing and utilities (5.1% vs 5.3%) while remaining unchanged for communication (1.6%), education (12.8%), and insurance and financial services (17.0%). On a monthly basis, consumer prices rose 0.9% in July, edging down from 1.0% in the previous month."
+    },
+    {
+      "id": "5033750",
+      "time": "2026-08-10 17:33:43",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局批准釋出一批重要國家標準】近日，市場監管總局（國家標準委）批准釋出338項重要國家標準。其中，強制性國家標準15項，推薦性國家標準323項，涉及高新技術領域、傳統產業、安全生產、百姓生活等方面。該批標準釋出後將在推動產業高質量發展、提升人民群眾生活品質、保障生命財產安全等方面發揮重要作用。"
+    },
+    {
+      "id": "mkt:019feb04-e13c-7aab-8fd6-d4b2aff7a11c",
+      "time": "2026-08-10 17:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India proposes law to limit state mining taxes, centralise regulation】The Modi government has introduced a bill in parliament to restrict states' powers to regulate or tax mineral rights and mineral-bearing land and to impose nationwide, uniform mining rules. Under the draft legislation New Delhi would be able to set conditions and caps on taxes and other charges levied by regional authorities, saying cumulative levies should not be disproportionate to a mine's economic value and profitability. The proposal notes that despite adequate domestic resources, domestic mineral supply has become costly and there is a risk of rising imports. The move could curtail a material revenue source for mineral-rich states and heighten tensions between New Delhi and state governments."
+    },
+    {
+      "id": "5033749",
+      "time": "2026-08-10 17:32:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海期貨交易所：對部分客戶採取限制開倉監管措施】上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告：2026年8月10日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
+    },
+    {
+      "id": "5033748",
+      "time": "2026-08-10 17:32:20",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【美銀：7月CPI重要性高於就業報告 仍預計美聯儲9月啟動加息】美國銀行在最新研報中表示，7月就業報告整體略偏“鴿派”，但不足以改變美聯儲的政策路徑，接下來公佈的7月消費者價格指數（CPI）將成為更重要的政策訊號。該行維持美聯儲從9月開始、累計加息75個基點的預測。"
+    },
+    {
+      "id": "mkt:019feb04-0da0-7aab-8fd6-c84c3f0e51e1",
+      "time": "2026-08-10 17:32:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Ukrainian military says it struck the Taneco refinery in Russia's Republic of Tatarstan."
+    },
     {
       "id": "mkt:019feb03-c7d7-7aab-8fd6-c3aeefefd5e0",
       "time": "2026-08-10 17:32:01",
@@ -9,6 +75,15 @@
         "MKT News"
       ],
       "text": "Southbound Stock Connect net inflow CNY 2.021 bln today. Via Shanghai Connect, one stock and Zhipu net bought HKD 833 mln and HKD 560 mln respectively; SMIC was the largest net seller at HKD 139 mln. Via Shenzhen Connect, GenScript Biotech and Xiaomi Corp -W net bought HKD 472 mln and HKD 195 mln respectively; SMIC led net selling with HKD 313 mln."
+    },
+    {
+      "id": "5033747",
+      "time": "2026-08-10 17:31:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”\n2、特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。\n3、近日，美國白宮國家經濟委員會主任凱文·哈西特在接受採訪時證實，美國總統特朗普與新任美聯儲主席凱文·沃什經常通話討論經濟問題。\n4、以色列總理本傑明·內塔尼亞胡拒絕了由美國支援的調解方提出的哈馬斯解除武裝提議，此前他對以色列應以分階段從加沙撤軍作為回應的建議表示了疑慮，此後其立場進一步強硬。\n5、美國媒體9日援引一名美國高階官員的話報道稱，白宮“並不在意”以色列總理內塔尼亞胡拒絕接受加沙和平計劃，並稱他的這一表態是出於選舉週期中的“政治需要”。\n6、北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。\n7、特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！\n8、特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。"
     },
     {
       "id": "5033746",
