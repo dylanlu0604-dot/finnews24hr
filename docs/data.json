@@ -1,7 +1,187 @@
 {
-  "updated": "2026-08-10 09:47:38",
-  "count": 15876,
+  "updated": "2026-08-10 09:56:42",
+  "count": 15871,
   "items": [
+    {
+      "id": "5032987",
+      "time": "2026-08-10 09:55:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源企業運鑽探裝置赴格陵蘭島 遭嚴正警告】據英國方面當地時間9日訊息，丹麥格陵蘭島自治領地方面日前向一家美國能源企業發出“嚴正警告”，要求該企業不得在未經許可的情況下在當地開展石油鑽探活動。據悉，這家總部位於美國得克薩斯的能源企業近日將鑽探裝置運抵格陵蘭島，引發當地關注。（央視新聞）"
+    },
+    {
+      "id": "5032986",
+      "time": "2026-08-10 09:54:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國泰君安國際漲超35% 獲國泰海通溢價44%建議私有化】截至發稿，國泰君安國際(01788.HK)漲35.10%。訊息面上，公司及控股股東國泰海通聯合公佈，國泰海通作為要約人建議把國泰君安國際私有化及撤銷上市地位，每股登出價3港元，比國泰君安國際停牌報收報2.08港元溢價約44.23%。"
+    },
+    {
+      "id": "mkt:019fe960-2b5e-7aab-8fce-e668cb2df284",
+      "time": "2026-08-10 09:53:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 exceeded 67,000 points, rising 2.13% intraday."
+    },
+    {
+      "id": "5032985",
+      "time": "2026-08-10 09:53:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股有色金屬股走強 贛鋒鋰業漲超6%】截至發稿，贛鋒鋰業(01772.HK)漲6.05%，天齊鋰業(09696.HK)漲5.48%，力勤資源(02245.HK)漲3.72%。"
+    },
+    {
+      "id": "mkt:019fe95f-cd69-7aab-8fce-d85a63bf43e7",
+      "time": "2026-08-10 09:53:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600519.SS",
+        "Impact bullish",
+        "000596.SZ",
+        "000568.SZ"
+      ],
+      "text": "China A-share liquor sector staged an intraday rally; Kuaijishan and Yingjia Gongjiu rose more than 5%, Kweichow Moutai gained over 2%, Gujing Gongjiu and Luzhou Laojiao also climbed."
+    },
+    {
+      "id": "5032984",
+      "time": "2026-08-10 09:53:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股白酒板塊短線走強，會稽山、迎駕貢酒漲超5%，貴州茅臺漲超2%，古井貢酒、瀘州老窖等跟漲。"
+    },
+    {
+      "id": "mkt:019fe95f-4de6-7aab-8fce-d27f46f24db9",
+      "time": "2026-08-10 09:52:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share semiconductor equipment sector rallied again; Shengmei Shanghai climbed over 10%, while Torrance, Weidao Nano, Hengyunchang, Fuchuang Precision and Zhichun Technology also advanced."
+    },
+    {
+      "id": "5032983",
+      "time": "2026-08-10 09:52:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "珀斯鑄幣局（Perth Mint）7月黃金銷量升至30,871盎司。"
+    },
+    {
+      "id": "5032982",
+      "time": "2026-08-10 09:51:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊再度拉昇，盛美上海漲超10%】半導體裝置板塊再度拉昇，盛美上海漲超10%，託倫斯、微導奈米、恆運昌、富創精密、至純科技等跟漲。"
+    },
+    {
+      "id": "5032981",
+      "time": "2026-08-10 09:51:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "養殖板塊震盪拉昇，益生股份漲停，大禹生物漲超10%，立華股份、牧原股份、溫氏股份、湘佳股份跟漲。"
+    },
+    {
+      "id": "5032980",
+      "time": "2026-08-10 09:51:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【草甘膦板塊盤初走高】興發集團上漲8.61%，和邦生物上漲3.32%，揚農化工上漲1.34%。"
+    },
+    {
+      "id": "5032979",
+      "time": "2026-08-10 09:51:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI醫療概念盤中持續走高，金域醫學、貝瑞基因、瑞康醫藥漲停，近岸蛋觸及20cm漲停，義翹神州、成都先導、美迪西漲超10%。"
+    },
+    {
+      "id": "5032978",
+      "time": "2026-08-10 09:51:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5032977",
+      "time": "2026-08-10 09:50:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【晶片股拉動 日本日經指數漲2%】受華爾街人工智慧及晶片相關股票上漲的提振，日本日經平均指數週一走高，但中東衝突的不確定性限制了漲幅。日經225指數上漲2%，報66,927.61點；東證指數微漲0.44%，至4,092.93點。大和證券高階策略師Daisuke Hashizume表示：“晶片相關股票的上漲支撐了日經指數。市場對美聯儲加息預期的降溫是主要推動力。”晶片相關個股愛德萬測試和東京電子分別上漲5.3%和3.4%。"
+    },
+    {
+      "id": "5032976",
+      "time": "2026-08-10 09:49:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石油石化板塊走強，貝肯能源漲停】石油石化板塊走強，貝肯能源漲停，恆逸石化、東方盛虹、桐昆股份、廣匯能源、中國海油、榮盛石化等跟漲。"
+    },
+    {
+      "id": "5032975",
+      "time": "2026-08-10 09:48:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西菱動力：汽車零部件業務產銷量從整體上看仍然保持穩健增長】西菱動力(300733)8月7日在機構調研時表示，公司汽車零部件業務產銷量從整體上看仍然保持穩健增長，但產品價格的下降短期對汽車零部件業務的盈利能力造成不利影響。中長期來看，公司汽車零部件產品具備強勁的競爭力，公司將嚴格貫徹董事會汽車零部件出海戰略，開拓國際市場；同時公司將持續推進公司新產品研發，進一步豐富汽車零部件產品矩陣。"
+    },
+    {
+      "id": "mkt:019fe95b-226a-7aab-8fce-cdfe6e71e1ff",
+      "time": "2026-08-10 09:48:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage-chip sector slid; Netac Technology fell more than 13%, with Purun, Tuolunsi, Shengbang, Beijing Junzheng and Baiwei Storage also declining."
+    },
+    {
+      "id": "5032974",
+      "time": "2026-08-10 09:47:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川全球首創新能源電動機-發電機（M-G）同步併網裝備技術成果釋出】近日，位於四川的東方電氣集團東方電機有限公司與國網江蘇省電力有限公司在江蘇鹽城聯合釋出新能源電動機-發電機（M-G）同步併網裝備技術成果。據現場釋出，應用該技術的世界首套兆瓦級M-G同步併網裝備已在鹽城大豐海上風電試驗基地穩定執行超過2000小時，經受住高溫、高溼、鹽霧等複雜環境考驗，併網裝備的核心指標均達設計預期。（四川日報）"
+    },
+    {
+      "id": "mkt:019fe95a-623c-7aab-8fce-c2181a76100b",
+      "time": "2026-08-10 09:47:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US fighters intercept aircraft near Trump's golf course】US media reported that on Aug. 9 local time at least three aircraft violated a temporary flight restriction near Bedminster, New Jersey, where President Trump was at Trump National Golf Club for the weekend during a golf event. NORAD dispatched F-16s to intercept and escort the first two aircraft out of the restricted zone and established communications with a third to ensure compliance. The third incident reportedly delayed Trump’s return to the White House by more than ten minutes."
+    },
     {
       "id": "mkt:019fe959-ecfe-7aab-8fce-bb6fa7387361",
       "time": "2026-08-10 09:46:52",
@@ -144371,247 +144551,6 @@
         "SSE Composite"
       ],
       "text": "China A-share gas-turbine theme outperforms; Feiwo Technology up over 10%, Qilun Technology, Dongfang Electric, Wanze, Changbao and Yingliu also advanced."
-    },
-    {
-      "id": "mkt:019fc556-6768-7aab-8f4c-cc72a53f4157",
-      "time": "2026-08-03 09:56:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "000858.SZ"
-      ],
-      "text": "【Wuliangye says production and operations normal after 4.8 quake in Yibin, Sichuan】cenc recorded a 4.8 magnitude earthquake in Gao County, Yibin, Sichuan at 02:21 on Aug 3, 2026. An investor contact said Wuliangye was not affected and its production and operations are normal."
-    },
-    {
-      "id": "5021423",
-      "time": "2026-08-03 09:56:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【DeepSeek-V4-Flash正式版上線，Agent能力逼近旗艦！港股通網際網路ETF永贏盤中漲超2%，港股科網股繼續活躍】8月3日，港股科技板塊延續強勢，AI應用概念股走俏，港股通網際網路ETF永贏（159170）盤中漲超2%。成分股阿里巴巴-W、東方甄選漲超6%，金山雲、商湯-W漲超5%，美圖公司、騰訊控股、嗶哩嗶哩-W、京東健康等個股跟漲。"
-    },
-    {
-      "id": "mkt:019fc556-34de-7aab-8f4c-c16634551b2b",
-      "time": "2026-08-03 09:56:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【KOSDAQ rebound triggers buy-side sidecar; KOSPI remains weak】Korea Exchange data show a sharp KOSDAQ rally activated the buy-side sidecar, temporarily suspending buy-quote validity in programmatic trading for five minutes around 10:28:08 a.m. KST (09:28 Beijing). At trigger, KOSDAQ 150 futures were up 75.80 points (+6.41%) and the KOSDAQ 150 index was up 38.12 points (+3.13%). The sidecar was lifted at 10:37 a.m. KST (09:37 Beijing), with the KOSDAQ at 743.92, up 3.36% (24.16 points). By contrast, the KOSPI was down sharply, -5.03% (-331.51 points) at 6,263.94."
-    },
-    {
-      "id": "5021422",
-      "time": "2026-08-03 09:56:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【橫向通用軟體板塊短線拉昇，泛微網路漲停】橫向通用軟體板塊短線拉昇，泛微網路漲停，致遠互聯、鼎捷數智、用友網路、三六零、福昕軟體等紛紛走高。"
-    },
-    {
-      "id": "mkt:019fc555-66b8-7aab-8f4c-bef816996bfe",
-      "time": "2026-08-03 09:55:36",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "【Average equity private fund positions hit highest in over four years】Domestic equity private funds raised exposure for four consecutive weeks from June 26, lifting average equity positions by 2.12 percentage points to 84.12% as of July 24 — a 4+-year high (last above 84.12% was 84.30% on April 1, 2022). Funds holding >80% positions now account for 70.43% of equity private funds. Equity private funds with ≥¥10bn AUM averaged 88.64% as of July 24, the highest level year-to-date and the top among size cohorts."
-    },
-    {
-      "id": "5021421",
-      "time": "2026-08-03 09:55:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【途虎養車：將排查、整改並清退觸碰經營紅線的加盟商】8月3日，途虎養車宣佈正式啟動常態化加盟商體系建設和治理。平臺將透過主動巡檢，排查、整改並清退觸碰經營紅線的加盟商，本次治理重點排查侵害車主切身利益的違規行為，包括：無故拒絕履約服務、不誠信施工、虛增專案收費、擅自違規售賣預付儲值卡、繞過平臺私收客戶賬款等。一經核實門店存在上述違規行為，平臺將依據加盟商管理規範對加盟商約談整改；情節嚴重的，直接終止合作並清退。"
-    },
-    {
-      "id": "5021420",
-      "time": "2026-08-03 09:54:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【股票私募平均倉位創逾4年新高】記者8月3日從第三方機構私募排排網獨家獲悉，自6月26日以來，國內股票私募已連續4周保持加倉態勢，平均倉位累計上升2.12個百分點。截至7月24日，股票私募平均倉位已攀升至84.12%，較前一週微漲0.02個百分點。這一資料不僅延續了穩步上行的趨勢，更意味著7月24日的平均倉位已創下4年多以來的新高。回溯歷史，上一次股票私募平均倉位高於84.12%，還要追溯到2022年4月1日，當時股票私募平均倉位為84.30%，略高於目前水平。在近四周持續加倉的推動下，股票私募的倉位分佈結構進一步向高倉位集中，重倉或滿倉狀態已成為市場主流。私募排排網資料顯示，截至7月24日，重倉或滿倉（倉位＞80%）的股票私募佔比已高達70.43%。此外，截至7月24日，百億級股票私募的平均倉位已攀升至88.64%，不僅在不同規模股票私募中位居首位，更一舉創下今年以來的新高。(中證金牛座)"
-    },
-    {
-      "id": "5021419",
-      "time": "2026-08-03 09:54:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電力板塊震盪反彈 新能股份2連板】電力板塊震盪反彈，新能股份2連板，深南電A觸及漲停，電投產融、華銀電力、大連熱電、嘉澤新能、協鑫能科、華電遼能等跟漲。訊息面上，7月31日，江蘇電網最高用電負荷首次突破1.6億千瓦，達1.609億千瓦，今夏第四次重新整理歷史紀錄！至此，江蘇電網成為國家電網系統內首個最高用電負荷突破1.6億千瓦的省級電網，負荷規模居長三角地區首位。"
-    },
-    {
-      "id": "mkt:019fc554-4b1d-7aab-8f4c-b01bf3649ffc",
-      "time": "2026-08-03 09:54:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "03986.HK",
-        "Impact bearish",
-        "06809.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong-listed semiconductor stocks fell: 03986.HK and 06809.HK dropped more than 6%, 03661.HK fell over 3%, and SMIC (00981.HK) declined over 2%."
-    },
-    {
-      "id": "5021418",
-      "time": "2026-08-03 09:54:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應對降雨 陝西全省新增轉移避險8130戶18063人】記者從陝西省應急管理廳瞭解到，8月2日6時至8月3日6時，陝西的陝北中南部、關中大部、陝南大部降大到暴雨，宜川、佛坪、漢濱、紫陽、旬陽、山陽、鎮安7縣區降大暴雨。7月30日6時至8月3日6時，陝西省共組織36612戶87987人轉移避險。其中8月2日6時至8月3日6時，陝西省新增轉移避險8130戶18063人。（央視新聞）"
-    },
-    {
-      "id": "te:economy:571960",
-      "time": "2026-08-03 09:54:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Manufacturing PMI",
-        "Importance 3"
-      ],
-      "text": "China Factory Activity Growth at 4-Month Low — The RatingDog China Manufacturing PMI declined to a four-month low of 51.5 in July 2026 from 51.7 in June, falling below market forecasts of 51.5. It marked the joint-longest period of expansion in five years, matching the sequence from November 2023 to June 2024. New orders rose for the fourteenth consecutive month, the longest since 2018, boosted by foreign sales."
-    },
-    {
-      "id": "5021417",
-      "time": "2026-08-03 09:53:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達4.03%，成分股中，華海清科跌12.36%，拓荊科技跌9.62%，中科飛測跌8.69%，華虹宏力跌8.15%。"
-    },
-    {
-      "id": "5021416",
-      "time": "2026-08-03 09:53:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大模型公司西湖心辰完成B+輪數億元融資】大模型公司西湖心辰8月宣佈，公司近日完成B+輪融資，融資金額達數億元人民幣，由廣發信德領投，西湖創新投、武漢江豚基金、容億投資、南通投管等多家機構跟投，獵聘戰投、58產業基金等產業資本參與，老股東螞蟻集團、湯姆貓提供全面支援。融資資金將主要用於新一代擴散語言模型的持續研發、旗下原生多模態實時互動產品的深度迭代，以及海外市場的進一步拓展。（科創板日報）"
-    },
-    {
-      "id": "5021415",
-      "time": "2026-08-03 09:53:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【么正量子完成數億元融資，社保基金、協鑫能科等參投】合肥么正量子科技有限公司宣佈於近日完成數億元A輪融資。本輪融資由深創投領投，社保基金灣區科技創新股權投資基金（深圳）合夥企業（有限合夥）與深圳市創新資本投資有限公司聯合出資，廣發信德、京銘資本、普華資本、首程控股、協鑫能科等多家機構跟投。據悉，么正量子成立於2022年，孵化自中科大郭光燦院士團隊，是國內QCCD（量子電荷耦合器件）技術路線離子阱量子計算的領軍企業。"
-    },
-    {
-      "id": "5021414",
-      "time": "2026-08-03 09:53:11",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "菲律賓綜合股指上漲 1.1%，報 6304.74 點。"
-    },
-    {
-      "id": "te:markets:571959",
-      "time": "2026-08-03 09:53:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Rises to 2-Month High — The New Zealand dollar rose to around $0.589 on the first trading day of August, reaching a two-month high, as a fresh wave of yen buying weighed broadly on the US dollar, while fresh negotiations in the Middle East lifted risk appetite. The greenback extended its decline after Japan confirmed it had engaged in joint yen-buying intervention with the US on Friday. Meanwhile, President Donald Trump said new talks with Iran would begin on Monday after he canceled a weekend attack against Tehran, raising hopes for progress toward resolving the months-long conflict. Improving domestic sentiment, with New Zealand businesses and consumers becoming more optimistic, also underpinned the kiwi. Currently, markets are almost fully pricing in a quarter-point rate hike by the Reserve Bank of New Zealand in September."
-    },
-    {
-      "id": "mkt:019fc552-ca18-7aab-8f4c-ad98cd37b7dc",
-      "time": "2026-08-03 09:52:44",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share consumer electronics sector rallied briefly; Kaiwang Technology hit the daily trading limit. Peers Zhi Dongli, Hongfuhan, Aoni Electronics, Yingshi Innovation and Gongda Diansheng also rose."
-    },
-    {
-      "id": "5021413",
-      "time": "2026-08-03 09:52:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【燃氣輪機概念表現活躍 飛沃科技漲超10%】燃氣輪機概念表現活躍，飛沃科技漲超10%，汽輪科技、東方電氣、萬澤股份、常寶股份、應流股份跟漲。訊息面上，飛沃科技近期表示，公司已經與GEV簽署燃氣輪機領域合作MOU。公司還與貝克休斯簽署五年期的戰略供貨協議，產品類別涵蓋緊韌體、鈑金件、精密機械加工件、管路件等，已經從產品認證向批次出貨邁進。"
-    },
-    {
-      "id": "5021412",
-      "time": "2026-08-03 09:52:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【消費電子板塊短線拉昇，凱旺科技漲停】消費電子板塊短線拉昇，凱旺科技漲停，智動力、鴻富瀚、奧尼電子、影石創新、共達電聲等跟漲。"
-    },
-    {
-      "id": "mkt:019fc551-c3cc-7aab-8f4c-a3c00adb2174",
-      "time": "2026-08-03 09:51:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【China auto dealers' inventory warning index 61.1% in July】China Automobile Dealers Association said its dealer inventory warning index was 61.1% in July 2026, up 3.9 percentage points YoY and MoM and remaining above the 50% expansion-contraction threshold. Dealers expect August to remain seasonally weak as nationwide heat suppresses showroom traffic and keeps consumers cautious, though concentrated graduation and back-to-school demand should provide some lift and sales are expected to be stronger than July."
-    },
-    {
-      "id": "mkt:019fc551-0768-7aab-8f4c-9c3f4678d76f",
-      "time": "2026-08-03 09:50:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "【July RatingDog China Manufacturing PMI 50.9; eighth month of expansion, ties five-year record】RatingDog China manufacturing PMI fell to 50.9 in July, down 0.8 percentage points from June, marking the eighth consecutive month of expansion and tying the longest expansion cycle in five years. Expansion continued but slowed: new orders rose and cost pressures eased, while new export orders returned to expansion. Purchasing activity declined and firms’ input inventories continued to accumulate—risks to monitor for downstream demand and production activity."
-    },
-    {
-      "id": "mkt:019fc550-a0ab-7aab-8f4c-94555b477c84",
-      "time": "2026-08-03 09:50:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【KOSPI volatility drains investors' brokerage cash pool】KOSPI volatility since July has sharply depleted investor cash held at brokerages, shrinking a key liquidity pool, the Korean Financial Investment Association (KOFIA) said. Average daily investor deposits fell by nearly 20 tln won month‑on‑month last month and are about 10 tln won lower than in March, when a US‑Iran military clash triggered a market correction. Deposits stood at 104.6584 tln won as of the 30th of last month (the day KOSPI hit a local low), down from a record 139.6948 tln won on June 4 — a drop of more than 35 tln won in roughly two months. Investor deposits are funds in securities accounts used to buy stocks; the decline reduces potential buying power and weakens market supply‑demand momentum."
-    },
-    {
-      "id": "5021411",
-      "time": "2026-08-03 09:50:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓股震盪嚇退投資者，市場“彈藥庫”縮水】據韓媒報道，隨著韓國綜合股價指數（KOSPI）自7月以來劇烈震盪，就連作為股市觀望資金池的投資者存款也正在快速減少。上個月，投資者日均存款規模較前一個月驟降近20萬億韓元。這一水平較今年3月少約10萬億韓元。當時，由於美國與伊朗爆發軍事衝突，KOSPI經歷了一輪調整。根據韓國金融投資協會3日公佈的資料，截至上月30日，即KOSPI指數創下階段性低點當天，投資者存款規模為104.6584萬億韓元。相比6月4日創下歷史最高紀錄的139.6948萬億韓元，僅約兩個月時間便減少超過35萬億韓元。投資者存款是指投資者存入證券公司賬戶用於購買股票的資金。資金池越大，市場流動性增加的可能性就越高。存款減少時，市場的供求動能必然減弱。"
-    },
-    {
-      "id": "mkt:019fc54e-25fe-7aab-8f4c-8ff6a3248b61",
-      "time": "2026-08-03 09:47:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "A-share AI application stocks rallied again. Jihong hit the daily limit. Chuanzhi Education recorded a sixth consecutive limit-up; Tianyu Shuke and Hengyin Technology posted second straight limit-ups. Foxit Software, Yidian Tianxia, Fengzhushou, Leo Group and BlueFocus also rose."
     }
   ]
 }

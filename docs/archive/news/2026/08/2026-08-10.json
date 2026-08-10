@@ -1,7 +1,187 @@
 {
   "date": "2026-08-10",
-  "count": 503,
+  "count": 522,
   "items": [
+    {
+      "id": "5032987",
+      "time": "2026-08-10 09:55:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源企業運鑽探裝置赴格陵蘭島 遭嚴正警告】據英國方面當地時間9日訊息，丹麥格陵蘭島自治領地方面日前向一家美國能源企業發出“嚴正警告”，要求該企業不得在未經許可的情況下在當地開展石油鑽探活動。據悉，這家總部位於美國得克薩斯的能源企業近日將鑽探裝置運抵格陵蘭島，引發當地關注。（央視新聞）"
+    },
+    {
+      "id": "5032986",
+      "time": "2026-08-10 09:54:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【國泰君安國際漲超35% 獲國泰海通溢價44%建議私有化】截至發稿，國泰君安國際(01788.HK)漲35.10%。訊息面上，公司及控股股東國泰海通聯合公佈，國泰海通作為要約人建議把國泰君安國際私有化及撤銷上市地位，每股登出價3港元，比國泰君安國際停牌報收報2.08港元溢價約44.23%。"
+    },
+    {
+      "id": "mkt:019fe960-2b5e-7aab-8fce-e668cb2df284",
+      "time": "2026-08-10 09:53:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 exceeded 67,000 points, rising 2.13% intraday."
+    },
+    {
+      "id": "5032985",
+      "time": "2026-08-10 09:53:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股有色金屬股走強 贛鋒鋰業漲超6%】截至發稿，贛鋒鋰業(01772.HK)漲6.05%，天齊鋰業(09696.HK)漲5.48%，力勤資源(02245.HK)漲3.72%。"
+    },
+    {
+      "id": "mkt:019fe95f-cd69-7aab-8fce-d85a63bf43e7",
+      "time": "2026-08-10 09:53:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600519.SS",
+        "Impact bullish",
+        "000596.SZ",
+        "000568.SZ"
+      ],
+      "text": "China A-share liquor sector staged an intraday rally; Kuaijishan and Yingjia Gongjiu rose more than 5%, Kweichow Moutai gained over 2%, Gujing Gongjiu and Luzhou Laojiao also climbed."
+    },
+    {
+      "id": "5032984",
+      "time": "2026-08-10 09:53:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股白酒板塊短線走強，會稽山、迎駕貢酒漲超5%，貴州茅臺漲超2%，古井貢酒、瀘州老窖等跟漲。"
+    },
+    {
+      "id": "mkt:019fe95f-4de6-7aab-8fce-d27f46f24db9",
+      "time": "2026-08-10 09:52:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share semiconductor equipment sector rallied again; Shengmei Shanghai climbed over 10%, while Torrance, Weidao Nano, Hengyunchang, Fuchuang Precision and Zhichun Technology also advanced."
+    },
+    {
+      "id": "5032983",
+      "time": "2026-08-10 09:52:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "珀斯鑄幣局（Perth Mint）7月黃金銷量升至30,871盎司。"
+    },
+    {
+      "id": "5032982",
+      "time": "2026-08-10 09:51:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體裝置板塊再度拉昇，盛美上海漲超10%】半導體裝置板塊再度拉昇，盛美上海漲超10%，託倫斯、微導奈米、恆運昌、富創精密、至純科技等跟漲。"
+    },
+    {
+      "id": "5032981",
+      "time": "2026-08-10 09:51:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "養殖板塊震盪拉昇，益生股份漲停，大禹生物漲超10%，立華股份、牧原股份、溫氏股份、湘佳股份跟漲。"
+    },
+    {
+      "id": "5032980",
+      "time": "2026-08-10 09:51:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【草甘膦板塊盤初走高】興發集團上漲8.61%，和邦生物上漲3.32%，揚農化工上漲1.34%。"
+    },
+    {
+      "id": "5032979",
+      "time": "2026-08-10 09:51:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "AI醫療概念盤中持續走高，金域醫學、貝瑞基因、瑞康醫藥漲停，近岸蛋觸及20cm漲停，義翹神州、成都先導、美迪西漲超10%。"
+    },
+    {
+      "id": "5032978",
+      "time": "2026-08-10 09:51:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5032977",
+      "time": "2026-08-10 09:50:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【晶片股拉動 日本日經指數漲2%】受華爾街人工智慧及晶片相關股票上漲的提振，日本日經平均指數週一走高，但中東衝突的不確定性限制了漲幅。日經225指數上漲2%，報66,927.61點；東證指數微漲0.44%，至4,092.93點。大和證券高階策略師Daisuke Hashizume表示：“晶片相關股票的上漲支撐了日經指數。市場對美聯儲加息預期的降溫是主要推動力。”晶片相關個股愛德萬測試和東京電子分別上漲5.3%和3.4%。"
+    },
+    {
+      "id": "5032976",
+      "time": "2026-08-10 09:49:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石油石化板塊走強，貝肯能源漲停】石油石化板塊走強，貝肯能源漲停，恆逸石化、東方盛虹、桐昆股份、廣匯能源、中國海油、榮盛石化等跟漲。"
+    },
+    {
+      "id": "5032975",
+      "time": "2026-08-10 09:48:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西菱動力：汽車零部件業務產銷量從整體上看仍然保持穩健增長】西菱動力(300733)8月7日在機構調研時表示，公司汽車零部件業務產銷量從整體上看仍然保持穩健增長，但產品價格的下降短期對汽車零部件業務的盈利能力造成不利影響。中長期來看，公司汽車零部件產品具備強勁的競爭力，公司將嚴格貫徹董事會汽車零部件出海戰略，開拓國際市場；同時公司將持續推進公司新產品研發，進一步豐富汽車零部件產品矩陣。"
+    },
+    {
+      "id": "mkt:019fe95b-226a-7aab-8fce-cdfe6e71e1ff",
+      "time": "2026-08-10 09:48:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share storage-chip sector slid; Netac Technology fell more than 13%, with Purun, Tuolunsi, Shengbang, Beijing Junzheng and Baiwei Storage also declining."
+    },
+    {
+      "id": "5032974",
+      "time": "2026-08-10 09:47:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四川全球首創新能源電動機-發電機（M-G）同步併網裝備技術成果釋出】近日，位於四川的東方電氣集團東方電機有限公司與國網江蘇省電力有限公司在江蘇鹽城聯合釋出新能源電動機-發電機（M-G）同步併網裝備技術成果。據現場釋出，應用該技術的世界首套兆瓦級M-G同步併網裝備已在鹽城大豐海上風電試驗基地穩定執行超過2000小時，經受住高溫、高溼、鹽霧等複雜環境考驗，併網裝備的核心指標均達設計預期。（四川日報）"
+    },
+    {
+      "id": "mkt:019fe95a-623c-7aab-8fce-c2181a76100b",
+      "time": "2026-08-10 09:47:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US fighters intercept aircraft near Trump's golf course】US media reported that on Aug. 9 local time at least three aircraft violated a temporary flight restriction near Bedminster, New Jersey, where President Trump was at Trump National Golf Club for the weekend during a golf event. NORAD dispatched F-16s to intercept and escort the first two aircraft out of the restricted zone and established communications with a third to ensure compliance. The third incident reportedly delayed Trump’s return to the White House by more than ten minutes."
+    },
     {
       "id": "mkt:019fe959-ecfe-7aab-8fce-bb6fa7387361",
       "time": "2026-08-10 09:46:52",
