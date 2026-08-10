@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-11 07:43:12",
-  "count": 15819,
+  "updated": "2026-08-11 07:47:06",
+  "count": 15814,
   "items": [
+    {
+      "id": "mkt:019fee11-f3ef-7aab-8fe2-03b5a1ebd000",
+      "time": "2026-08-11 07:46:21",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Joint Forces on the west coast said Houthi fighters carried out their tenth drone attack on Mocha port."
+    },
+    {
+      "id": "te:markets:574219",
+      "time": "2026-08-11 07:44:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Lackluster Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, as persistent uncertainty over a US-Iran deal and expectations for tighter monetary policy weighed on sentiment. In regular trading on Monday, the Dow fell 0.11%, while the S&P 500 and Nasdaq Composite declined 0.06% and 0.32%, respectively. Oil prices rallied sharply as uncertainty surrounding the Middle East conflict continued to weigh on markets, pushing Treasury yields higher and raising concerns that the Federal Reserve may need to raise interest rates soon despite signs of a cooling labor market. Investors now await key inflation data due this week for further clues on the monetary policy outlook. On the corporate front, earnings are due today from Cardinal Health, CoreWeave and Super Micro Computer, among others."
+    },
+    {
+      "id": "5034691",
+      "time": "2026-08-11 07:44:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【委內瑞拉代總統會見了美國官員】委內瑞拉代總統德爾西·羅德里格斯在加拉加斯會見了美國財政部和州政府官員。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608113837006293",
+      "time": "2026-08-11 07:44:12",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【控通脹還是穩增長：歐洲央行左右為難】在製造業、服務業和主要國家經濟增長資料的帶動下，7月歐元區經濟出現緩慢回暖跡象。然而，8月以來，受極端天氣和中東局勢動盪持續影響，歐元區通脹走高、能源供應吃緊，增添了歐洲央行9月加息決策的難度和不確定性。"
+    },
+    {
+      "id": "5034690",
+      "time": "2026-08-11 07:42:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "電商物流供給穩定向好。7月份，企業庫存流轉效率進一步提升，庫存週轉率指數環比回升0.4點，連續三個月回升。自2月份起，物流時效、履約率、滿意率三項指數連續回升，物流服務質量穩步最佳化。另外，成本指數環比回落0.3點，企業經營壓力有所緩解。"
+    },
+    {
+      "id": "5034689",
+      "time": "2026-08-11 07:42:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【執行基本盤穩固 7月份中國電商物流指數公佈】中國物流與採購聯合會今天（11日）公佈7月份中國電商物流指數。電商物流供給穩定向好，企業庫存流轉效率進一步提升。7月份中國電商物流指數為111.2點，環比回落0.2點。電商物流迎來季節性調整，平臺集中促銷效應逐步消退，電商市場迴歸常態化執行，電商物流需求有所回落，但行業執行基本盤依舊穩固。7月份，電商物流總業務量與農村業務量均保持20%以上的同比增速。分地區看，西部、東北部電商物流農村業務量指數持續向好。"
+    },
     {
       "id": "5034688",
       "time": "2026-08-11 07:42:26",
@@ -143920,107 +143978,6 @@
         "其他"
       ],
       "text": "【股票私募整體倉位創近220周新高 百億私募加倉明顯】在A股震盪調整過程中，機構資金正持續提升權益倉位。私募排排網最新資料顯示，自6月下旬以來，股票私募已連續4周加倉，整體倉位創近220周新高。與此同時，百億私募不僅率先提升倉位，還透過密集自購釋放看多訊號，7月以來私募自購金額已超過14億元，其中百億私募貢獻近七成。業內人士認為，隨著市場調整釋放風險，權益資產配置價值進一步顯現，疊加半年報披露提供新的業績線索，私募機構整體保持較高倉位執行。不過，多家機構也表示，短期市場仍將維持震盪格局，投資機會更多體現在結構性行情之中。"
-    },
-    {
-      "id": "5023323",
-      "time": "2026-08-04 07:47:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易運營處（UKMTO）表示，一艘貨輪已透過甚高頻16頻道廣播通報，其遭未知拋射物擊中。"
-    },
-    {
-      "id": "5023322",
-      "time": "2026-08-04 07:46:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本公債期貨早盤上漲0.09點。"
-    },
-    {
-      "id": "5023321",
-      "time": "2026-08-04 07:46:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）已收到報告，稱在阿曼哈薩卜東北20海里處發生一起安全事件。"
-    },
-    {
-      "id": "5023320",
-      "time": "2026-08-04 07:45:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數期貨早盤下跌0.1%。"
-    },
-    {
-      "id": "5023319",
-      "time": "2026-08-04 07:45:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【在霍爾木茲海峽有望重新開放之際油價下跌】在亞洲早盤交易中，在霍爾木茲海峽有望重新開放之際，油價下跌，該海峽是一條關鍵水道，全球五分之一的石油透過該水道運輸。Tickmill的Joseph Dahrieh在一封電子郵件中表示，伊朗似乎“在霍爾木茲海峽問題上接近與阿曼達成諒解“。這位董事總經理指出，此外，“總統特朗普沒有下令在中東進行新一輪軍事行動，這增強了透過外交途徑解決問題的希望“。Dahrieh補充說，然而，“伊朗否認與美國存在談判，這可能仍會限制價格回撥的幅度“。近月西得州中質油期貨下跌0.6%，報每桶79.88美元。"
-    },
-    {
-      "id": "5023318",
-      "time": "2026-08-04 07:44:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【玻璃基封裝成產業競逐新焦點 面板廠商跨界佈局】日前，TCL科技高階副總裁、TCL華星執行長趙軍在上海ChinaJoy（中國國際數碼互動娛樂展覽會）期間透露，TCL華星已組建專業團隊推進玻璃基封裝關鍵工藝驗證，計劃下半年展示相關樣品並籌建中試線；此外，京東方9.93億元投資的玻璃基封裝載板試驗線已向國內客戶送樣，部分客戶透過概念認證進入技術測試階段；深天馬亦搭建MPG多專案玻璃基板技術平臺，將先進封裝列為重點賦能方向之一。隨著AI晶片向大尺寸、高算力、高密度互連加速演進，傳統有機載板逐步觸及效能邊界，玻璃基先進封裝正成為產業競逐的新焦點，一場由面板廠商主導的跨界佈局已然展開。"
-    },
-    {
-      "id": "mkt:019fca03-d658-7aab-8f60-181e9d1324f2",
-      "time": "2026-08-04 07:44:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Japan's latest yen-support intervention may have cost $87 bln】U.S. sources said the Bank of Japan may have used about $87 bln (≈¥11 tln) in its latest FX intervention to support the yen, likely spending roughly $53 bln on July 30 and $34 bln on July 31, based on estimates derived from the Bank of Japan's latest money-market data."
-    },
-    {
-      "id": "5023317",
-      "time": "2026-08-04 07:43:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克轉發網友評論表示： Grok 構建已更新。該網友表示，SpaceXAI 幾乎每天都在推送新的 Grok 構建更新。 Grok 構建 v0.2.120 現已上線。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608043830283836",
-      "time": "2026-08-04 07:43:56",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。"
-    },
-    {
-      "id": "te:markets:572296",
-      "time": "2026-08-04 07:43:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Steadies on Mideast, Fed Uncertainties — Silver steadied around $58 an ounce on Tuesday after rising in the previous session, as investors tracked developments in US-Iran talks for clues on the potential reopening of the Strait of Hormuz, while continuing to evaluate the outlook for US Federal Reserve monetary policy. President Donald Trump said his offer of talks represents Tehran’s final opportunity to reach a deal and expressed confidence that Hormuz will reopen soon. Iran, however, denied that any direct talks with the US are underway, though it said discussions with Oman aimed at increasing shipping through the strait are making progress. Meanwhile, markets are pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year."
-    },
-    {
-      "id": "5023316",
-      "time": "2026-08-04 07:43:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本新一輪救匯行動或已耗資870億美元】美國方面近日稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了約870億美元，相當於11萬億日元的資金。訊息稱，根據日本央行的最新貨幣市場資料推算，日本央行在7月30日和31日的外匯干預中，很可能分別動用了530億美元和340億美元，總共870億美元、相當於11萬億日元的資金來買入日元，以支撐日元匯率。"
     }
   ]
 }

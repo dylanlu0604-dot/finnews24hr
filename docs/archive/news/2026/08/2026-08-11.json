@@ -1,7 +1,65 @@
 {
   "date": "2026-08-11",
-  "count": 434,
+  "count": 440,
   "items": [
+    {
+      "id": "mkt:019fee11-f3ef-7aab-8fe2-03b5a1ebd000",
+      "time": "2026-08-11 07:46:21",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemen's Joint Forces on the west coast said Houthi fighters carried out their tenth drone attack on Mocha port."
+    },
+    {
+      "id": "te:markets:574219",
+      "time": "2026-08-11 07:44:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Lackluster Session — US stock futures were little changed on Tuesday after the major averages started the week on a sour note, as persistent uncertainty over a US-Iran deal and expectations for tighter monetary policy weighed on sentiment. In regular trading on Monday, the Dow fell 0.11%, while the S&P 500 and Nasdaq Composite declined 0.06% and 0.32%, respectively. Oil prices rallied sharply as uncertainty surrounding the Middle East conflict continued to weigh on markets, pushing Treasury yields higher and raising concerns that the Federal Reserve may need to raise interest rates soon despite signs of a cooling labor market. Investors now await key inflation data due this week for further clues on the monetary policy outlook. On the corporate front, earnings are due today from Cardinal Health, CoreWeave and Super Micro Computer, among others."
+    },
+    {
+      "id": "5034691",
+      "time": "2026-08-11 07:44:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【委內瑞拉代總統會見了美國官員】委內瑞拉代總統德爾西·羅德里格斯在加拉加斯會見了美國財政部和州政府官員。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202608113837006293",
+      "time": "2026-08-11 07:44:12",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【控通脹還是穩增長：歐洲央行左右為難】在製造業、服務業和主要國家經濟增長資料的帶動下，7月歐元區經濟出現緩慢回暖跡象。然而，8月以來，受極端天氣和中東局勢動盪持續影響，歐元區通脹走高、能源供應吃緊，增添了歐洲央行9月加息決策的難度和不確定性。"
+    },
+    {
+      "id": "5034690",
+      "time": "2026-08-11 07:42:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "電商物流供給穩定向好。7月份，企業庫存流轉效率進一步提升，庫存週轉率指數環比回升0.4點，連續三個月回升。自2月份起，物流時效、履約率、滿意率三項指數連續回升，物流服務質量穩步最佳化。另外，成本指數環比回落0.3點，企業經營壓力有所緩解。"
+    },
+    {
+      "id": "5034689",
+      "time": "2026-08-11 07:42:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【執行基本盤穩固 7月份中國電商物流指數公佈】中國物流與採購聯合會今天（11日）公佈7月份中國電商物流指數。電商物流供給穩定向好，企業庫存流轉效率進一步提升。7月份中國電商物流指數為111.2點，環比回落0.2點。電商物流迎來季節性調整，平臺集中促銷效應逐步消退，電商市場迴歸常態化執行，電商物流需求有所回落，但行業執行基本盤依舊穩固。7月份，電商物流總業務量與農村業務量均保持20%以上的同比增速。分地區看，西部、東北部電商物流農村業務量指數持續向好。"
+    },
     {
       "id": "5034688",
       "time": "2026-08-11 07:42:26",
