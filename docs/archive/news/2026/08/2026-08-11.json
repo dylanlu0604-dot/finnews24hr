@@ -1,7 +1,123 @@
 {
   "date": "2026-08-11",
-  "count": 119,
+  "count": 131,
   "items": [
+    {
+      "id": "mkt:019feced-6e45-7aab-8fdf-0c291938bff1",
+      "time": "2026-08-11 02:26:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said it will require all personal accounts on Daybreak to enable hardware security keys from Sept. 1, 2026."
+    },
+    {
+      "id": "mkt:019feced-4ec8-7aab-8fdf-07c42eebadb2",
+      "time": "2026-08-11 02:26:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI strongly recommends Daybreak customers using Codex switch 'Full Access Mode' to 'Auto-Moderation Mode' via default settings and the user interface."
+    },
+    {
+      "id": "te:markets:574194",
+      "time": "2026-08-11 02:25:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Approaches $88 — Brent rose approached $88 a barrel on Monday, extending gains for a fourth consecutive session and reaching its highest level in almost two weeks, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues."
+    },
+    {
+      "id": "te:markets:574193",
+      "time": "2026-08-11 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Gains by 4.05% — Top commodity gainers are Oat (4.05%), Cocoa (2.11%) and Canola (1.75%). Biggest losers are Rice (-1.34%) and Cotton (-0.69%)."
+    },
+    {
+      "id": "mkt:019feceb-278f-7aab-8fde-fc298501f2cd",
+      "time": "2026-08-11 02:24:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian president says earthquake injured 87 people and caused 61 buildings to collapse."
+    },
+    {
+      "id": "te:markets:574192",
+      "time": "2026-08-11 02:23:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Above $82 — Crude oil rose above $82 a barrel on Monday, extending gains for a third consecutive session and reaching its highest level in a week, as uncertainty mounted over a deal between the US and Iran to end the war and reopen the Strait of Hormuz. US President Trump lashed out at Iran’s demands for war compensation as part of negotiations to wind down the conflict. Tehran has said the US must lift its blockade before it would agree to fully reopen Hormuz. Trump also signaled on Sunday that he was prepared to allow economic pressure on Iran to intensify rather than launch fresh military strikes. Elsewhere, Houthi militants claimed responsibility for an attack on Saudi Arabia’s Jazan refinery, while a tanker operated by Abu Dhabi National Oil Co. came under attack in the Strait of Hormuz over the weekend. Meanwhile, crude inventories held in the US Strategic Petroleum Reserve have fallen below 300 million barrels, the lowest level since 1983, as the conflict continues."
+    },
+    {
+      "id": "mkt:019fecea-7b09-7aab-8fde-f39c444b6823",
+      "time": "2026-08-11 02:23:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's president said rescuing earthquake victims is the immediate priority; the death toll has reached 111."
+    },
+    {
+      "id": "mkt:019fece9-727b-7aab-8fde-ede5512fc7f6",
+      "time": "2026-08-11 02:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reported the Trump administration is drafting an executive order that would split the childhood measles, mumps and rubella vaccine into three separate shots and require them to be administered at separate medical visits."
+    },
+    {
+      "id": "5034494",
+      "time": "2026-08-11 02:22:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府正在擬定一項行政令，擬將兒童麻疹‑腮腺炎‑風疹（MMR）聯合疫苗拆分為三針，安排在不同就診時段分別接種。"
+    },
+    {
+      "id": "mkt:019fece7-8e7c-7aab-8fde-e4c3841781a9",
+      "time": "2026-08-11 02:20:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose above $87/bbl, up 6.77% intraday."
+    },
+    {
+      "id": "te:markets:574191",
+      "time": "2026-08-11 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 2.40% — Top commodity gainers are Silver (2.40%), Lithium Carbonate (1.23%) and Gold (0.45%). Biggest loser is Platinum (-0.55%)."
+    },
+    {
+      "id": "mkt:019fece6-58be-7aab-8fde-da21f60f4c19",
+      "time": "2026-08-11 02:19:06",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "Refinitiv cited two sources saying a fuel tank at Libya's Zawiya refinery exploded; the nature and cause of the blast were unclear."
+    },
     {
       "id": "5034493",
       "time": "2026-08-11 02:18:13",
