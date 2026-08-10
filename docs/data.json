@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-10 10:15:44",
-  "count": 15882,
+  "updated": "2026-08-10 10:19:36",
+  "count": 15886,
   "items": [
+    {
+      "id": "5033043",
+      "time": "2026-08-10 10:18:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "藥明康德A股漲7.5%，港股上漲6.1%。"
+    },
+    {
+      "id": "5033042",
+      "time": "2026-08-10 10:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼股指創5月20日以來新高。"
+    },
+    {
+      "id": "5033041",
+      "time": "2026-08-10 10:17:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國總統李在明將視察AI相關投資計劃進展】韓國總統李在明定於週一（10日）主持召開會議，探討如何迅速落實針對半導體制造設施和人工智慧（AI）資料中心的大規模投資計劃。定於當日下午2時舉行的此次會議，是李在明政府6月底公佈“三大超級專案”以來的第二次同類會議。該“三大超級專案”規劃了在地方地區對半導體生產叢集、物理AI以及AI資料中心進行大規模投資。韓國總統府表示，本次會議將討論支援投資計劃迅速落實的相關事宜，並探討如何將投資紅利惠及全國各地區及整個產業生態系統。總統秘書室室長姜勳植、政策室長金容範、國務總理韓成淑、各政府部門長官，以及三星電子和SK集團的高管將出席此次會議。"
+    },
+    {
+      "id": "mkt:019fe976-4aea-7aab-8fcf-70644f56b544",
+      "time": "2026-08-10 10:17:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's Jakarta Composite Index rose as much as 0.7% to 6,454.388, its highest level since May 20."
+    },
+    {
+      "id": "5033040",
+      "time": "2026-08-10 10:17:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體板塊震盪下挫 鍇威特、炬光科技跌超9%】半導體板塊震盪下挫，鍇威特、炬光科技跌超9%，富信科技、普冉股份、芯原股份、寒武紀等股跌幅居前。"
+    },
+    {
+      "id": "5033039",
+      "time": "2026-08-10 10:16:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【記憶體價格貴回2007年 DDR5每GB賣到90塊】加拿大魁北克大學電腦科學教授丹尼爾·勒米爾近日表示，受AI需求持續拉昇帶動，按單位容量計價，記憶體價格已漲回接近2007年水平，相當於把近20年的降價成果基本抹平，屬於歷史罕見的行業異動。斯坦福大學DAM專案彙總的價格序列給出量化錨點，眼下DDR5每GB約11.41至13.28美元(約合人民幣77至90元)，與2008年前後DDR2價位帶高度重合，按通脹折算約回到2011年DDR3水平。"
+    },
+    {
+      "id": "mkt:019fe975-5eaa-7aab-8fcf-6e428b88ef40",
+      "time": "2026-08-10 10:16:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Memory prices back to 2007 levels; DDR5 at $11.41–13.28/GB (77–90 yuan)】AI-driven demand has pushed memory prices per GB back near 2007 levels, effectively erasing about two decades of price declines, Daniel Lemire, a computer science professor in Quebec, said, calling it a rare industry anomaly. A Stanford DAM project price series shows DDR5 trading at $11.41–13.28 per GB (about 77–90 yuan/GB), overlapping DDR2 price bands from around 2008; on an inflation-adjusted basis the series is roughly back to 2011 DDR3 levels."
+    },
+    {
+      "id": "5033038",
+      "time": "2026-08-10 10:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數開盤小幅變動，報1768.06點。"
+    },
     {
       "id": "5033037",
       "time": "2026-08-10 10:15:09",
@@ -20,6 +89,14 @@
         "Importance 1"
       ],
       "text": "Asia FX Updates: South Korean Won Drops by 0.57% — Top currency losers are South Korean Won (-0.57%) and Japanese Yen (-0.33%). Meanwhile Chinese Yuan was little changed."
+    },
+    {
+      "id": "5033036",
+      "time": "2026-08-10 10:15:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小紅書再陷期權爭議：前員工稱期權歸屬僅剩8天，遭遇公司“踩點辭退”】8月10日訊息，近日，有媒體訊息稱，繼原小紅書商業化華南直銷負責人陳浩公開期權維權經歷後，又一名前小紅書員工姜東透過公開平臺發文，披露其與小紅書之間一場持續多年的期權訴訟爭議。\n\n據姜東講述，他於2018年9月入職書行科技（北京）有限公司（小紅書旗下公司），擔任首席技術專家，後擔任媒體智慧團隊負責人。姜東稱，自己入職時獲承諾授予80萬股境外公司期權，約定工作滿2年歸屬50%。在職期間，姜東於2020年1月被額外授予6萬股期權。但7個月後，小紅書突然解除了與姜東的勞動關係。按姜東說法，此時距離他入職滿兩年、首批50%期權歸屬僅剩8天。\n\n此後，姜東與小紅書圍繞解約及期權歸屬問題進入司法程式，姜東要求小紅書兌其期權權益。判決書顯示，小紅書一方辯稱，（姜東）第一次行權需在授予日滿2年，即2020年10月30日，但（姜東）的勞動關係已於2020年8月25日合法解除。此外，小紅書還提出與姜東解除勞動關係是因其曠工等。最終，法院認定公司解除勞動關係合法，駁回姜東全部訴訟請求。\n\n姜東則認為，小紅書解除員工勞動關係的時間節點是“經過精心算計”。據姜東講述，大量同事都在關鍵行權節點前，被公司以不同理由辭退，他所在的同事群中，有幾十人都是這種情況。\n\n對此情況，新浪科技向小紅書官方進行求證，截至發稿暫無回應。（新浪科技）"
     },
     {
       "id": "5033035",
@@ -291,6 +368,14 @@
         "MKT News"
       ],
       "text": "【Japan to use advanced AI models in proactive cyber defense as AI-enabled attack risk rises】KYODO reported a senior government official said Japan is considering deploying cutting-edge AI systems under its 'proactive cyber defense' policy to counter attack risks from advanced models such as ANTHROPIC's Claude MYTHOS. National cybersecurity director Yoichi Iida said using advanced AI is \"unavoidable\" and warned the time from discovering a vulnerability to exploiting it could plausibly shrink to 1% or 0.1% of previous lengths. The cabinet led by Prime Minister TAKAICHI decided in March that, from Oct. 1, the government may take proactive cyber-defense measures to preempt severe attacks on critical infrastructure, economic activity and livelihoods."
+    },
+    {
+      "id": "5033016",
+      "time": "2026-08-10 10:05:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月10日10時繼續釋出颱風藍色預警。"
     },
     {
       "id": "mkt:019fe96a-938e-7aab-8fcf-2a9c2a503b7e",
@@ -144595,72 +144680,6 @@
         "國際"
       ],
       "text": "日本內閣官房長官木原稔：將毫不猶豫採取進一步外匯干預行動。"
-    },
-    {
-      "id": "mkt:019fc56a-2855-7aab-8f4d-45a367729cfe",
-      "time": "2026-08-03 10:18:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O",
-        "Impact bullish",
-        "AMD.O",
-        "AVGO.O"
-      ],
-      "text": "【TSMC 3nm monthly 180,000‑wafer target likely to be met early】TSMC's 3nm process, originally slated to reach monthly production of 180,000 wafers by year-end, is now expected to hit the target in early Q4 as NVIDIA, AMD and Broadcom aggressively secure capacity. Orders for TSMC's 2nm process are also accelerating; monthly wafer shipments are on track to approach 100,000 by year-end as planned."
-    },
-    {
-      "id": "mkt:019fc569-ec43-7aab-8f4d-3d2a97206fb0",
-      "time": "2026-08-03 10:18:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【MORGAN STANLEY raises South Korea equities to overweight; sees 36% upside after deleveraging】MORGAN STANLEY upgraded South Korea equities to overweight from neutral, saying recent deleveraging improves entry points for AI and an industrial supercycle trade. Strategists led by Daniel K Blake estimate KOSPI has about 36% upside to their 9,000 target after large unwinds of crowded and leveraged positions. The index fell as much as 5.5% on Monday following a record 18% jump on Friday. Morgan Stanley describes the recent sell-off as mainly technical and says deleveraging of leveraged ETFs, hedge-fund leverage and retail margin trading is more than half complete. It sees KOSPI trading in a 5,500–10,500 range near term, and expects Samsung Electronics and SK Hynix to provide valuation support; industrials, defense and financials are likely beneficiaries."
-    },
-    {
-      "id": "5021465",
-      "time": "2026-08-03 10:17:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【臺積電3奈米月產18萬片目標有望提前達成】在英偉達、AMD、博通等主要客戶積極搶佔產能的推動下，臺積電3奈米制程原定於年底實現的月產18萬片晶圓目標，預計將提前至第四季度初達成。與此同時，2奈米制程訂單也在快速升溫，到今年年底其月度晶圓出貨量有望按計劃接近10萬片。（科創板日報）"
-    },
-    {
-      "id": "5021464",
-      "time": "2026-08-03 10:17:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米集團-W港股跌超5%】小米集團-W港股跌5.42%，報27.22港元。"
-    },
-    {
-      "id": "te:economy:571983",
-      "time": "2026-08-03 10:17:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Vietnam Retail Sales Growth Slows in July — Retail sales in Vietnam rose by 14.5% year-on-year in July 2026, easing slightly from a 14.8% increase in the previous month. Growth moderated across most major categories, with service-related segments such as accommodation and food services slowing to 19.0% from 19.7% in June, travel and tourism services easing to 24.3% from 24.9%, and other services decelerating to 14.1% from 17.9%. In contrast, retail sales of goods remained resilient, accounting for 75.5% of total activity and rising 13.6% after a 13.4% increase in June. In the first seven months of 2026, total retail sales increased 13.1% compared with the same period a year earlier."
-    },
-    {
-      "id": "5021463",
-      "time": "2026-08-03 10:16:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中孚資訊自研終端獲得山東省首件套電子產品認定】近日，山東省工業和資訊化廳公示“第三批山東省首件套電子產品”認定名單。中孚資訊自主研發的“中孚文印互動終端”成功入選該名單。中孚文印互動終端是基於國產化平臺文印任務互動管理的智慧終端裝置，能夠與列印影印裝置、燒錄裝置、掃描裝置、檔案回收裝置無縫對接，支援多種認證方式，觸屏互動開箱即用，提供輕便易用的管控方案。"
     }
   ]
 }
