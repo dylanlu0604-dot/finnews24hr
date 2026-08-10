@@ -1,7 +1,78 @@
 {
-  "updated": "2026-08-10 14:14:37",
+  "updated": "2026-08-10 14:18:35",
   "count": 15977,
   "items": [
+    {
+      "id": "5033377",
+      "time": "2026-08-10 14:16:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "英飛凌<IFXGn.DE>宣佈股票回購計劃後，法蘭克福早盤股價上漲1.9%。"
+    },
+    {
+      "id": "te:markets:574025",
+      "time": "2026-08-10 14:16:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were poised for a subdued open on Monday as investors assessed lingering uncertainty over efforts to reopen the Strait of Hormuz, keeping inflation risks and the interest rate outlook firmly in focus. Iran said talks with Oman were approaching an agreement but denied holding any direct negotiations with the US, despite Washington’s claims that a deal was close. Meanwhile, the economic calendar remains light, with investors instead turning their attention to earnings from Alcon, GEA Group and Sisecam, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures hovered near the flatline, though both benchmarks remained close to record highs after posting strong gains last week."
+    },
+    {
+      "id": "5033376",
+      "time": "2026-08-10 14:16:05",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【光大期貨：非農創年內新低，黃金底部區間更穩固】下半年以來黃金價格走勢與美伊地緣存在脫敏跡象，市場博弈點主要放在美聯儲是否“敢於”加息上。此前美國經濟資料表現韌性，但通脹資料略顯頑固，加息預期一度佔據主導，特別是美聯儲9月議息會議加息機率不斷走高；但隨著美股高位表現偏弱，以及就業資料表現出來的不穩定性，市場對美聯儲特別是沃什“鷹派”作風表現質疑，而非農就業資料的意外走弱直接擊穿了此前市場對9月加息的定價，美債收益率和美元同步走弱，也強化了美國在高債務與頑固通脹間舉步維艱的觀點。另外，此前黃金ETF再次流出給予市場一定打擊，但世界黃金協會資料顯示，央行二季度淨買入289噸黃金創歷史紀錄，特別是中國央行連續5個月加大購金量再次提振市場信心。因此總體來看，當前位置為黃金底部區間的觀點或更加穩固，宜逢低配置，階段性關注黃金在連續衝高後是否存在短線情緒亢奮獲利了結的風險。（光大期貨）"
+    },
+    {
+      "id": "te:economy:574023",
+      "time": "2026-08-10 14:15:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Denmark Inflation Eases to 1.7% in July — The annual inflation rate in Denmark eased to 1.7% in July 2026 from 1.9% in each of the previous two months. The main downward pressures came from housing and utilities, where prices were unchanged (0% vs 0.5% in June), and a sharper decline in food prices (-1.6% vs -0.9%). Price growth also softened for personal care and miscellaneous goods and services (1.5% vs 1.8%), leisure, sports and culture (0.8% vs 2.8%), and clothing and footwear (0.9% vs 2.3%). On a monthly basis, consumer prices increased by 1.3%, following a 0.2% rise in the previous month."
+    },
+    {
+      "id": "5033375",
+      "time": "2026-08-10 14:14:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "小馬智行：小馬智行全球自動駕駛里程突破1億公里。"
+    },
+    {
+      "id": "te:economy:574020",
+      "time": "2026-08-10 14:14:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Norway Producer Inflation Picks Up in July — Producer prices in Norway surged 23.4% year-on-year in July 2026, picking up from a four-month low of 14.9% in the previous month. The increase was driven mainly by a sharp acceleration in energy-related prices, with costs for the extraction of oil and natural gas jumping to 38.2% from 15.2% in June, while energy goods inflation climbed to 39.8% from 23.9%. In contrast, price growth eased in manufacturing (6.4% vs 8.6%) and in electricity, gas, and steam (41.0% vs 68.8%). Excluding energy goods, producer price inflation was unchanged at 5.3%, indicating more moderate underlying price pressures. On a monthly basis, producer prices rose 8.9%, rebounding strongly from a 7.1% decline in June."
+    },
+    {
+      "id": "mkt:019fea4e-ca87-7aab-8fd2-cee6dbc10098",
+      "time": "2026-08-10 14:14:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share tungsten-mining stocks rallied in afternoon trade; Xianglu Tungsten hit the daily limit, China Tungsten High-Tech rose over 9%, and Xiamen Tungsten and Zhangyuan Tungsten also advanced."
+    },
     {
       "id": "te:economy:574019",
       "time": "2026-08-10 14:14:03",
@@ -145396,62 +145467,6 @@
         "國際"
       ],
       "text": "【伊朗一公路發生交通事故 致3人死亡】總檯記者獲悉，當地時間8月3日，伊朗一條公路上發生公交車與小轎車相撞的嚴重交通事故，造成3人死亡，另有1名兒童受傷。（央視新聞）"
-    },
-    {
-      "id": "5021750",
-      "time": "2026-08-03 14:18:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "三菱商事首席財務官：若銅價、油價與匯率當前趨勢持續，全年盈利或超出我們的預期。"
-    },
-    {
-      "id": "5021749",
-      "time": "2026-08-03 14:18:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江新能、錢江水利等成立水電運營新公司】企查查APP顯示，近日，浙江珊溪水利水電運營有限責任公司成立，經營範圍包含：水資源管理；酒店管理；水利相關諮詢服務；物業管理等。企查查股權穿透顯示，該公司由浙江新能、錢江水利等共同持股。"
-    },
-    {
-      "id": "5021748",
-      "time": "2026-08-03 14:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯交通部：俄羅斯正在採取措施，以確保亞速-黑海盆地航行安全和船舶保護，以應對無人機襲擊。"
-    },
-    {
-      "id": "5021747",
-      "time": "2026-08-03 14:16:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄電商平臺“野莓”倉庫再遭襲】俄羅斯弗拉基米爾州州長阿夫傑耶夫3日通報，該州索賓卡區一處倉庫遭烏方無人機襲擊，建築受損起火，2人受傷。俄電商平臺“野莓”隨後通報，其位於弗拉基米爾州的物流設施遭襲，貨物接收和訂單發運已轉移至其他設施。（央視新聞）"
-    },
-    {
-      "id": "5021746",
-      "time": "2026-08-03 14:16:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "【永輝呼和浩特首店連續18天銷售破百萬】永輝超市披露資料稱，永輝呼和浩特首店業績持續走強，7月16日至8月2日，該店累計銷售額超2500萬元，連續18天單日銷售突破100萬元，累計客流超26萬人次。"
-    },
-    {
-      "id": "5021745",
-      "time": "2026-08-03 14:15:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【研究揭示遺傳如何影響DNA損傷致癌的過程】英國劍橋大學日前釋出的一項研究揭示，個體遺傳基因會與後天獲得的基因突變相互作用，這會影響腫瘤形成和演化。這項發現有助於解釋為何吸菸、紫外線等造成的脫氧核糖核酸（DNA）損傷可能會使一些人患癌，另一些人則不會。（新華社）"
-    },
-    {
-      "id": "5021744",
-      "time": "2026-08-03 14:15:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【尤拉汽車7月銷量10820臺，同比增長152%】8月3日，長城汽車旗下尤拉汽車公佈，7月銷量10820臺，同比增長152%，其中尤拉5銷售9596臺。尤拉汽車全球累計銷量達59.49萬臺。"
     }
   ]
 }
