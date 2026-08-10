@@ -1,7 +1,185 @@
 {
-  "updated": "2026-08-10 19:41:48",
-  "count": 15907,
+  "updated": "2026-08-10 19:45:43",
+  "count": 15912,
   "items": [
+    {
+      "id": "5034060",
+      "time": "2026-08-10 19:44:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：我接替莉薩・庫克進入美聯儲委員會一事 “不會發生”。"
+    },
+    {
+      "id": "mkt:019feb7d-33a7-7aab-8fd8-8cfb3ea6a9c9",
+      "time": "2026-08-10 19:44:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House National Economic Council Director HASSETT said the U.S. government is carefully studying AI safety issues."
+    },
+    {
+      "id": "5034059",
+      "time": "2026-08-10 19:44:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申科股份：2026年上半年營收1.56億元 淨利潤同比增197.51%】申科股份公告稱，2026年上半年營收1.56億元，同比增長11.49%；歸屬於上市公司股東的淨利潤978.99萬元，同比增長197.51%；扣除非經常性損益的淨利潤926.49萬元，同比增長354.39%。經營活動產生的現金流量淨額-5033.17萬元，同比下降50.47%。報告期末總資產7.29億元，較上年度末增長9.94%；歸屬於上市公司股東的淨資產3.55億元，較上年度末下降16.47%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "mkt:019feb7c-be80-7aab-8fd8-839f20567bc6",
+      "time": "2026-08-10 19:44:08",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "Intel (INTC.O) said the offering is intended to support the company's growth."
+    },
+    {
+      "id": "5034058",
+      "time": "2026-08-10 19:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：政府正在審慎研究人工智慧安全相關問題。"
+    },
+    {
+      "id": "mkt:019feb7c-7689-7aab-8fd8-7b3d3b7fc0c7",
+      "time": "2026-08-10 19:43:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "HASSETT, director of the White House National Economic Council, said AI may be the most important policy issue over the next two years."
+    },
+    {
+      "id": "5034057",
+      "time": "2026-08-10 19:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：工智慧或許是未來兩年最重要的政策議題。"
+    },
+    {
+      "id": "5034056",
+      "time": "2026-08-10 19:43:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：人工智慧領域的進展帶來重大增長機遇。"
+    },
+    {
+      "id": "mkt:019feb7b-fc6b-7aab-8fd8-7732a99ec763",
+      "time": "2026-08-10 19:43:18",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O): Progress in artificial intelligence represents a significant growth opportunity."
+    },
+    {
+      "id": "mkt:019feb7b-de42-7aab-8fd8-68772565c7e6",
+      "time": "2026-08-10 19:43:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) said it has invested unprecedented amounts in AI computing."
+    },
+    {
+      "id": "5034055",
+      "time": "2026-08-10 19:42:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾稱人工智慧算力領域迎來空前規模投資。"
+    },
+    {
+      "id": "5034054",
+      "time": "2026-08-10 19:42:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【玉溪一交通事故致3人死亡，雲南省安委會掛牌督辦】近日，雲南省安全生產委員會發布較大生產安全事故查處掛牌督辦通知書（雲安事故督辦〔2026〕13號）。通知書指出，2026年8月2日，玉溪市紅塔區發生一起涉十二類車輛的道路交通事故，造成3人死亡。根據《較大事故查處掛牌督辦辦法》，省安委會決定對該起事故查處進行掛牌督辦。"
+    },
+    {
+      "id": "mkt:019feb7b-1969-7aab-8fd8-6680415afd29",
+      "time": "2026-08-10 19:42:20",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) shares fell about 3% in premarket trading after the company announced a planned $15 billion common stock offering."
+    },
+    {
+      "id": "5034052",
+      "time": "2026-08-10 19:42:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：截至7月31日，印度廣義貨幣供應量<INM3MS=ECI>同比增長14.7%。"
+    },
+    {
+      "id": "5034051",
+      "time": "2026-08-10 19:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杉杉股份：控股股東上層股權結構變更完成 海螺集團成間接控股股東】杉杉股份公告稱，2026年1月29日，海螺集團、皖維集團等簽署相關協議，海螺集團擬現金增資49.78億元獲皖維集團60%股權，省投資集團、省國控集團擬無償劃轉各獲20%股權。7月20日，公司控股股東變更為皖維集團，實控人變為安徽省國資委。近日，皖維集團完成工商變更登記，海螺集團成為公司間接控股股東，實控人不變，未對公司日常經營產生實質影響。"
+    },
+    {
+      "id": "5034050",
+      "time": "2026-08-10 19:42:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：本次發行包含 22.5 億美元承銷商超額配售選擇權。"
+    },
+    {
+      "id": "5034049",
+      "time": "2026-08-10 19:41:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "投資研究機構ARGUS RESEARCH將閃迪評級上調至“買入”。"
+    },
+    {
+      "id": "5034048",
+      "time": "2026-08-10 19:41:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾股價盤前跌幅擴大至3%。"
+    },
+    {
+      "id": "mkt:019feb7a-88ad-7aab-8fd8-5e5b538e8dd4",
+      "time": "2026-08-10 19:41:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Canhong moving toward Japan’s east coast; Typhoon Pilu not expected to affect China】China’s Central Meteorological Observatory: at 17:00 Beijing time on Aug 10 Typhoon Canhong’s centre was about 780 km east of Tokyo (35.1°N, 148.3°E). Maximum winds near the centre 18 m/s, central pressure 998 hPa; radius of force‑7 winds 200–400 km. Canhong is moving west‑northwest at 25–30 km/h with little change in intensity, gradually approaching Japan’s eastern coast. At 17:00 Beijing time on Aug 10 Typhoon Pilu’s centre was about 920 km northeast of Saipan (21.4°N, 151.6°E). Maximum winds near the centre 20 m/s, central pressure 995 hPa; radius of force‑7 winds 160–180 km. Pilu is moving east‑northeast at 30–35 km/h with little change in intensity and is not expected to affect China."
+    },
+    {
+      "id": "mkt:019feb7a-5543-7aab-8fd8-53a8f7924793",
+      "time": "2026-08-10 19:41:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "【Jefferies downgrades Apple to Underperform, cuts PT to $263.66】Jefferies downgraded Apple Inc (AAPL.O) to Underperform from Hold and cut its price target to $263.66 from $285.56, implying roughly 16% downside to last Friday’s close. Analyst Edison Lee said Apple has cancelled a planned all‑glass 20th‑anniversary iPhone due to poor yields; the model was estimated to carry a blended ASP of $2,060 and Apple had planned to extend all‑glass features to future iPhone Pro/Pro Max models to lift ASPs and margins. Jefferies called the cancellation a major setback to Apple’s push for higher‑priced iPhones amid surging memory costs, lowering its iPhone ASP CAGR for FY2026–31 to 6.8% from 9.0% and trimming FY2028 EPS by 2.1%."
+    },
     {
       "id": "mkt:019feb79-dc85-7aab-8fd8-4ca3f9be9ef0",
       "time": "2026-08-10 19:40:59",
@@ -144714,137 +144892,6 @@
         "MKT News"
       ],
       "text": "Thailand plans annual imports of 100,000 tonnes of urea from western Indonesia and said it is prepared to act as a reliable rice supplier to Indonesia, Thai and Indonesian leaders said at a Jakarta meeting."
-    },
-    {
-      "id": "5022588",
-      "time": "2026-08-03 19:45:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國與印尼領導人於雅加達舉行會晤並展開交談。"
-    },
-    {
-      "id": "mkt:019fc771-a70e-7aab-8f56-c6173a30f177",
-      "time": "2026-08-03 19:45:42",
-      "tags": [
-        "MKT News",
-        "Commodities"
-      ],
-      "text": "【Northern Rare Earth makes breakthrough in praseodymium metal market】Northern Rare Earth said this year its international trading arm has aligned with the permanent-magnet materials sector’s technology shift and downstream demand for lighter magnets, opening a new application path for light rare earths in heavy-rare-earth-free magnet materials and achieving bulk praseodymium metal sales in 1H."
-    },
-    {
-      "id": "5022587",
-      "time": "2026-08-03 19:45:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "禮來藥物Olomorasib獲美國食品藥品監督管理局突破性療法認定。"
-    },
-    {
-      "id": "5022586",
-      "time": "2026-08-03 19:45:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國計劃每年從印尼進口10萬噸尿素。"
-    },
-    {
-      "id": "5022585",
-      "time": "2026-08-03 19:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國：願成為印尼可靠大米供應方。"
-    },
-    {
-      "id": "5022584",
-      "time": "2026-08-03 19:44:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【嘉陵江四川南充段出現入汛以來最大洪峰】受上游降雨及亭子口水庫調蓄影響，8月3日，嘉陵江四川南充段水位大幅上漲，今年入汛以來最大洪峰於當天上午過境主城區。洪峰水位最高達265.86米，比平時水位高4米左右，流量每秒達8450立方米。南充市高坪區沿江各地迅速行動做好防範，全力保障洪峰安全過境。（央視新聞）"
-    },
-    {
-      "id": "5022583",
-      "time": "2026-08-03 19:44:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北方稀土金屬鐠市場開拓實現新突破】據北方稀土訊息，今年以來，北方稀土國貿公司緊扣稀土永磁材料行業技術變革趨勢，精準對接下游磁材企業輕量化發展需求，成功開闢輕稀土在無重稀土磁材領域全新應用賽道，上半年實現金屬鐠批次銷售。"
-    },
-    {
-      "id": "5022582",
-      "time": "2026-08-03 19:44:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列財長竟稱不存在巴勒斯坦人】以色列財長、極右翼政治人士斯莫特里赫在8月2日播出的一檔播客節目中，竟然聲稱“根本不存在所謂的‘巴勒斯坦人’，歷史上也從未有過這樣的概念，這是虛構出來的，旨在對抗以色列”。斯莫特里赫還稱，希望以色列征服整個（巴勒斯坦）加沙地帶，並建立軍事管轄，讓猶太人重新定居，以實現所謂“徹底的勝利”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fc76f-bd9a-7aab-8f56-b9873285ae69",
-      "time": "2026-08-03 19:43:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact mixed"
-      ],
-      "text": "【Tesla July European registrations diverge】Tesla's July registrations jumped 86% in France and 52% in Denmark, but plunged 97% in Norway and fell 81% in Spain and 60% in Sweden. Investors await Germany and UK registration releases later this week."
-    },
-    {
-      "id": "5022581",
-      "time": "2026-08-03 19:43:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【第四批中成藥集採落地：OTC與獨家品種全面入局】近日，第四批全國中成藥聯盟集中採購正式公佈完整中選結果，本輪由湖北省醫保局牽頭組織，共設定28個採購組，納入89種臨床常用中成藥，覆蓋市場規模超450億元，全國4萬餘家公立醫療機構同步報量採購。本次集採共有344家企業468個產品參與投標，最終243家企業310個品規成功中選，整體平均降幅超50%。相較於前三批中成藥集採，本次規則大幅最佳化，採用“價格得分60%+技術評價40%”綜合評審模式，增設復活增補、A/B分組競爭機制，摒棄“唯低價中標”導向，兼顧藥品質量、臨床價值與供應穩定。此前就有業內分析人士指出，第四批集採落地標誌著中成藥集採告別單一院內處方藥時代，院內外價格體系加速並軌，行業利潤分配、競爭邏輯迎來根本性重構，龍頭企業依託產能、供應鏈、質控優勢持續集中份額，缺乏核心壁壘的中小藥企加速出清。（21財經）"
-    },
-    {
-      "id": "5022580",
-      "time": "2026-08-03 19:43:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏軍襲擊俄多地致8人死亡】俄羅斯方面3日表示，烏克蘭軍隊對弗拉基米爾州、克拉斯諾達爾邊疆區和別爾哥羅德州等地進行襲擊，造成至少8人死亡、13人受傷。俄羅斯弗拉基米爾州州長阿夫傑耶夫3日在社交媒體上說，烏克蘭軍隊使用無人機襲擊了該州的一處倉庫，導致倉庫起火，並造成3人受傷。俄偵查委員會發言人彼得連科同日表示，已就烏軍相關襲擊展開調查。（新華社）"
-    },
-    {
-      "id": "mkt:019fc76f-1b96-7aab-8f56-b543963d7a62",
-      "time": "2026-08-03 19:42:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CIMC Group: Freight-rate and demand rebound passing through to container manufacturing; production booked through end-October】CIMC Group said its container division posted YoY declines in Q1 revenue and net profit as both volumes and prices fell. Since Q2, a concurrent recovery in freight rates and demand has transmitted to container manufacturing, lifting industry demand and leaving production booked through end-October. For the year the segment remains under pressure versus last year due to a high base and rising material costs. CIMC said emerging businesses—container energy storage, modular buildings, cold chain and modular data centers—are being actively deployed and developing rapidly and will provide material incremental contributions to the segment."
-    },
-    {
-      "id": "5022579",
-      "time": "2026-08-03 19:42:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【震安科技：二次修訂發行股票預案 擬向實控人等定增募資不超6.3億元】震安科技(300767)8月3日披露二次修訂後的向特定物件發行股票預案，此次修訂調整了發行募集資金總額、寧花香女士及深圳東創數智技術有限公司（簡稱“東創數智”）認購資金數額。二次修訂後的預案顯示，公司擬向寧花香、東創數智發行股票募資不超過6.3億元（含），用於補充流動資金和償還銀行貸款。寧花香為公司共同實控人之一，東創數智為公司實控人寧花香、周建旗夫婦共同控制的其他企業。"
-    },
-    {
-      "id": "mkt:019fc76e-e072-7aab-8f56-a8c76e590806",
-      "time": "2026-08-03 19:42:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Fourth national proprietary Chinese medicine procurement finalised; OTC and exclusive varieties fully included】Led by the Hubei provincial medical insurance bureau, the fourth national centralised procurement for proprietary Chinese medicines published full results. The tender set 28 procurement groups and covered 89 commonly used proprietary Chinese medicines, including OTC and exclusive varieties, representing a market of more than CNY45 bln; over 40,000 public medical institutions reported purchase volumes. A total of 344 firms submitted 468 products; 243 firms with 310 product specifications won. Overall average price cuts exceeded 50%. The procurement used a composite scoring model (price 60%, technical evaluation 40%) and introduced reinstatement/supplementary lists and A/B grouping competition, moving away from lowest-price-only selection to incorporate drug quality, clinical value and supply stability. Industry analysts said the round accelerates alignment of in-hospital and retail pricing, will concentrate share with firms that have scale, supply-chain and quality-control advantages, and is likely to accelerate exit by smaller players lacking core barriers."
-    },
-    {
-      "id": "5022578",
-      "time": "2026-08-03 19:42:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風白海豚7日後將趨向華東沿海】今年第13號颱風“白海豚”於7月27日生成，8月3日17時其中心位於距離琉球群島那霸市偏東方向約1890公里的西北太平洋洋麵上，中心附近最大風力15級（48米/秒，強颱風級），中心最低氣壓為945百帕。 預計“白海豚”將以每小時20～25公里的速度繼續向西偏北方向移動，強度變化不大，5日之前對我國無明顯影響；將於6日至7日穿過琉球群島移入東海，之後其路徑和對我國的影響不確定性較大。 氣象專家提醒，公眾需持續密切關注中央氣象臺釋出的最新預報預警資訊，提前做好颱風防禦準備。（中央氣象臺）"
     }
   ]
 }
