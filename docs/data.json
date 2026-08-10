@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-11 03:05:48",
-  "count": 15769,
+  "updated": "2026-08-11 03:09:37",
+  "count": 15764,
   "items": [
+    {
+      "id": "5034531",
+      "time": "2026-08-11 03:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生部長小羅伯特·肯尼迪：正在評估孕期接種的疫苗。"
+    },
+    {
+      "id": "5034530",
+      "time": "2026-08-11 03:08:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭空軍一架米格-29戰機墜毀】烏克蘭空軍當地時間10日在社交媒體發文說，當晚，烏空軍一架米格-29戰機在敖德薩州空域執行戰鬥任務時突發緊急狀況墜毀。烏空軍稱，初步調查結果顯示，該戰機在發射導彈時起火，隨後失控，飛行員彈射逃生並被送醫。事故原因還在進一步調查中。"
+    },
+    {
+      "id": "5034529",
+      "time": "2026-08-11 03:07:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破66美元/盎司，日內漲3.94%。"
+    },
     {
       "id": "5034528",
       "time": "2026-08-11 03:02:42",
@@ -143495,84 +143520,6 @@
         "The Trump Trade"
       ],
       "text": "Court filings show 25 U.S. states have filed suit challenging Trump's latest tariff measures."
-    },
-    {
-      "id": "mkt:019fc907-bd83-7aab-8f5e-9adaac97d906",
-      "time": "2026-08-04 03:09:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EIA said ERCOT's hourly peak load reached a record 91.1 GW on July 22, based on hourly grid-monitoring data."
-    },
-    {
-      "id": "5023190",
-      "time": "2026-08-04 03:08:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖軍事顧問穆赫辛·雷扎伊：我們擁有導彈，也具備自衛能力。即使美國透過未經授權的航線派遣軍艦進入霍爾木茲海峽，我們也將對其進行打擊。美國曾在（伊斯蘭堡）諒解備忘錄框架下接受伊朗關於霍爾木茲海峽的安排，但隨後違反了該協議。美國不僅違反了諒解備忘錄，還在未先將爭端提交至指定爭端解決委員會的情況下發動了襲擊。在諒解備忘錄遭違反後的17天戰鬥中，我們對美國實施了沉重打擊。"
-    },
-    {
-      "id": "5023189",
-      "time": "2026-08-04 03:08:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社：伊朗將領禮薩伊表示，在美國停止襲擊行動後，我方繼續打擊行動兩天，以此讓美方認清局勢。"
-    },
-    {
-      "id": "mkt:019fc906-7104-7aab-8f5e-9644ba131cc2",
-      "time": "2026-08-04 03:07:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mohsen Rezaei, military adviser to Iran’s supreme leader, said the US had accepted Iran’s arrangements for the Strait of Hormuz under a memorandum of understanding reached in Islamabad but later violated it. He accused the US of launching attacks without first submitting disputes to the designated dispute-resolution committee and said that in the 17 days of fighting after the MoU was breached Iran inflicted heavy blows on US forces."
-    },
-    {
-      "id": "mkt:019fc905-f81f-7aab-8f5e-8db89bba211d",
-      "time": "2026-08-04 03:07:19",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's supreme leader's military adviser Mohsen Rezaee said Iran possesses missiles and self‑defense capabilities and would strike U.S. warships entering the Strait of Hormuz via unauthorized routes."
-    },
-    {
-      "id": "mkt:019fc905-a21e-7aab-8f5e-8682d9375058",
-      "time": "2026-08-04 03:06:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【U.S. Treasury raises Q3 2026 borrowing estimate to $739bn】U.S. Treasury raised its net marketable borrowing estimate for Q3 2026 (July–Sept.) to $739bn, assuming a Sept. 30 cash balance of $950bn. The estimate is $68bn higher than the May projection, primarily due to lower expected net cash inflows. The Treasury expects Q4 (Oct–Dec) financing of $628bn, assuming a Dec. 31 cash balance of $850bn. Financing for Q2 (Apr–June) 2026 was $190bn, roughly in line with May’s $189bn estimate. More details on quarterly financing will be released Aug. 5 at 8:30 a.m. ET (20:30 Beijing time)."
-    },
-    {
-      "id": "5023188",
-      "time": "2026-08-04 03:06:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社訊息：伊朗將領禮薩伊稱，沙特一名官員聯絡伊朗外交部官員，表示沙特並未參與針對伊拉克的襲擊。"
-    },
-    {
-      "id": "5023187",
-      "time": "2026-08-04 03:06:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：我們下一代主要模型的一個內部版本，在數學和理論電腦科學領域長期未解決的開放問題上取得了10項新成果，所使用的計算成本約為按照GPT-5.6 Sol API費率計算的2000美元token費用。我們將釋出這些手稿、正式的Lean證明證書以及推理過程說明，供數學家們審查這些結果，並在相關研究思路基礎上進一步發展。這些成果涵蓋球體堆積、編碼理論、群論、量子複雜性、格密碼學、極值組合學等領域。其中包括：證明非sofic群的存在性，以及對高維球體堆積界限取得指數級改進。"
     }
   ]
 }
