@@ -1,7 +1,61 @@
 {
   "date": "2026-08-10",
-  "count": 1102,
+  "count": 1108,
   "items": [
+    {
+      "id": "5033401",
+      "time": "2026-08-10 14:45:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【豬肉價格轉漲點燃板塊熱情 農業ETF易方達漲2.81% 養殖鏈全線走強】農業ETF易方達(562900)上漲2.81%，報0.695元，盤中最高觸及0.695元，最低下探至0.676元，午後維持高位執行，全日成交額已達1320萬元。"
+    },
+    {
+      "id": "mkt:019fea6b-8d9b-7aab-8fd3-45fa2a8961e2",
+      "time": "2026-08-10 14:45:44",
+      "tags": [
+        "MKT News",
+        "562900.SH",
+        "Impact bullish"
+      ],
+      "text": "【Pork price rebound lifts sector; E Fund agricultural ETF up 2.81%, livestock-chain stocks rally】Pork prices turned higher, fueling sector gains. E Fund Agricultural ETF (562900) rose 2.81% to 0.695 yuan, with an intraday high of 0.695 and low of 0.676; it held elevated levels in the afternoon. Daily turnover reached 13.2 mln yuan. Livestock-chain stocks rallied broadly."
+    },
+    {
+      "id": "5033400",
+      "time": "2026-08-10 14:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【住友商事收購英國Gwynt Glas海上風電專案33.3%股權】8月10日，住友商事宣佈收購英國Gwynt Glas海上風電專案33.3%的股權，並作為戰略合作伙伴加入該專案。該專案由EDF電力解決方案英國及愛爾蘭公司（EDF power solutions UK and Ireland）和愛爾蘭電力供應委員會（ESB）共同開發。Gwynt Glas專案位於英國凱爾特海，距離英國海岸約40公里，計劃建設裝機容量最高達1.5吉瓦的浮式海上風電場。專案預計於2028年提交許可申請，並計劃於2030年代後期投入商業運營。"
+    },
+    {
+      "id": "5033399",
+      "time": "2026-08-10 14:44:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本GMO網際網路將採購英偉達B300 GPU伺服器，金額為101億日元。"
+    },
+    {
+      "id": "5033398",
+      "time": "2026-08-10 14:44:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其官員否認黑海通航受限】土耳其政府官員9日證實，經土耳其海峽進入黑海的航線目前仍然暢通。美國媒體早些時候報道稱，由於近期黑海商船遭襲事件增多，土方已限制商船進入黑海。兩名不願公開姓名的土耳其官員告訴路透社記者，土方確實因安全擔憂實施了部分臨時措施，但黑海通航並未受阻。他們沒有說明土方採取了哪些具體措施。（新華社）"
+    },
+    {
+      "id": "te:economy:574039",
+      "time": "2026-08-10 14:44:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "New Orders",
+        "Importance 1"
+      ],
+      "text": "Sweden Posts Strongest Order Growth Since 2022 — Total orders received by Sweden jumped 29.9% year-on-year in June 2026, marking the sharpest rise since December 2022 and accelerating from an upwardly revised 1.6% increase in the previous month. Orders from customers abroad surged by 57.6% (vs. 3.3% in May), which more than offset a 7.4% decline in domestic demand (vs. -0.9%). Among industrial groupings, orders for capital goods (50.7% vs -3.6%) and intermediate goods (30.6% vs -3.1%) recorded the strongest growth. Meanwhile, orders for non-durable consumer goods increased at a slower pace (1.0% vs 12.6%), while durable consumer goods fell 4.3% (vs -4.0%). Energy-related goods excluding durable goods also remained in contraction (-3.5% vs -7.9%). On a monthly basis, total orders surged by 32.3%, rebounding sharply from a 3.2% fall in May. For the January–June period, total orders were 4% higher than the corresponding period a year ago, as domestic demand was unchanged while the export market has increased."
+    },
     {
       "id": "5033397",
       "time": "2026-08-10 14:42:31",
