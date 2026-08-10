@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-11 02:27:27",
+  "updated": "2026-08-11 02:31:16",
   "count": 15753,
   "items": [
+    {
+      "id": "te:markets:574196",
+      "time": "2026-08-11 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 1.98% — Top crypto losers are Ether (-1.98%) and Bitcoin (-1.54%)."
+    },
+    {
+      "id": "5034499",
+      "time": "2026-08-11 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲4.06%，報553.70元人民幣/桶。滬金夜盤收漲0.66%，滬銀收漲1.89%。"
+    },
+    {
+      "id": "mkt:019fecee-8c88-7aab-8fdf-12f8abd8d20c",
+      "time": "2026-08-11 02:28:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said GPT-5.6-Cyber did not participate in exploiting a vulnerability to attack Hugging Face, and no other upcoming models were involved in the incident."
+    },
+    {
+      "id": "5034497",
+      "time": "2026-08-11 02:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：GPT‑5.6‑CYBER 並未被用於攻擊 Hugging Face，計劃即將釋出的其他模型也未參與此事。"
+    },
+    {
+      "id": "5034496",
+      "time": "2026-08-11 02:27:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統阿韋拉多·德拉埃斯普列亞當地時間8月10日下午表示，當天早上發生的強烈地震已造成111人遇難。（CCTV國際時訊）"
+    },
+    {
+      "id": "5034495",
+      "time": "2026-08-11 02:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：強烈建議使用Codex的Daybreak客戶，透過應用預設設定和介面功能，將“完全訪問模式”切換至“自動審查模式”。自2026年9月1日起，要求Daybreak中的所有個人賬戶啟用硬體安全金鑰。"
+    },
     {
       "id": "mkt:019feced-6e45-7aab-8fdf-0c291938bff1",
       "time": "2026-08-11 02:26:50",
@@ -143350,62 +143403,6 @@
         "WTI"
       ],
       "text": "【Night session main contracts close】At the 02:30 close, SHFE gold main contract fell 0.11% to 882 yuan/gram; SHFE silver main contract rose 0.34% to 14,153 yuan/kg; SC crude oil main contract fell 1.67% to 540 yuan/barrel."
-    },
-    {
-      "id": "5023166",
-      "time": "2026-08-04 02:31:03",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國原油期貨收於每桶80.34美元，下跌4.33美元，跌幅5.11%。"
-    },
-    {
-      "id": "mkt:019fc8e4-4b61-7aab-8f5e-12370c898f67",
-      "time": "2026-08-04 02:30:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed the evening session on Aug 3 (Mon) at 878.9 yuan/gram, down 0.33%. Silver T+D closed at 14,000.0 yuan/kg, down 0.85%."
-    },
-    {
-      "id": "5023165",
-      "time": "2026-08-04 02:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.67%，報540.30元人民幣/桶。滬金夜盤收跌0.11%，滬銀收漲0.34%。"
-    },
-    {
-      "id": "5023164",
-      "time": "2026-08-04 02:29:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我希望伊朗人能醒悟，絕不能允許他們擁有核武器，也盼他們能認清這一點。"
-    },
-    {
-      "id": "5023163",
-      "time": "2026-08-04 02:29:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "波音股價創下去年12月初以來最大盤中漲幅。"
-    },
-    {
-      "id": "5023162",
-      "time": "2026-08-04 02:28:55",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "波音公司股價因獲得認證而延續漲勢，漲幅達7.1%，創盤中新高。"
     }
   ]
 }
