@@ -1,7 +1,68 @@
 {
   "date": "2026-08-10",
-  "count": 1906,
+  "count": 1914,
   "items": [
+    {
+      "id": "5034010",
+      "time": "2026-08-10 19:21:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列部隊出動軍用車輛入侵敘利亞庫奈特拉鄉村地區，發動最新一輪越境行動。"
+    },
+    {
+      "id": "5034009",
+      "time": "2026-08-10 19:20:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然國家統計委員會公佈，該國今年1-7月國內生產總值同比增長1.4%。"
+    },
+    {
+      "id": "5034008",
+      "time": "2026-08-10 19:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家發展改革委緊急安排2億元支援浙江颱風災害災後應急恢復】8月9日晚，今年第13號颱風“白海豚”先後在浙江省台州玉環市、溫州樂清市沿海登陸，對浙江省造成嚴重影響。8月10日，國家防減救災委、應急管理部啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和浙江省災害損失情況，國家發展改革委緊急安排中央預算內投資2億元，支援浙江省做好颱風災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（央視新聞）"
+    },
+    {
+      "id": "mkt:019feb66-a010-7aab-8fd8-16b3f686b231",
+      "time": "2026-08-10 19:19:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact mixed"
+      ],
+      "text": "【Hang Seng Indexes Company seeks market input on potential Hang Seng TECH Index revisions】Hang Seng Indexes Company published a consultation paper on potential revisions to the Hang Seng TECH Index, citing an expanding technology segment on the Hong Kong market. Proposed changes would broaden the index's technology thematic scope, revise constituent selection methodology and increase the number of constituents to preserve representativeness. The firm expects to announce the proposed revisions by end-September 2026 and implement them as part of the index review ending September 30, 2026, subject to final approval by the Index Advisory Committee after considering consultation feedback. Any constituent changes would take effect in the December 2026 rebalancing."
+    },
+    {
+      "id": "5034007",
+      "time": "2026-08-10 19:19:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恒生指數公司：就恒生科技指數可能作出的修訂方案徵詢市場意見】恒生指數公司今日刊發諮詢檔案，就恒生科技指數可能作出的修訂方案徵詢市場意見。因應香港股票市場科技板塊持續擴闊，有關修訂旨在擴大指數的科技主題範圍、調整成份股挑選機制，以及增加成份股數目，以緊貼科技發展，保持該指數的代表性。就恒生科技指數可能作出的修訂，預計將於2026年9月底公佈，並於截至2026年9月30日之指數檢討中實施，仍須指數顧問委員會在考慮諮詢意見後作出最終決定。任何相應的指數成份股變動將於2026年12月的指數調整生效。"
+    },
+    {
+      "id": "5034006",
+      "time": "2026-08-10 19:19:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科飛測：持股 5%以上股東減持致權益變動觸及 1%刻度】中科飛測公告稱，2026 年 5 月 19 日至 8 月 10 日，股東國投創業基金透過集中競價交易和大宗交易方式減持公司股份 279.71 萬股，且因公司限制性股票歸屬登記致總股本增加，其持股比例被動稀釋。該股東持股比例由 7.79%降至 6.95%，權益變動觸及 1%刻度。本次減持系履行已披露計劃，不觸及要約收購，未實施完畢，不會導致控股股東、實控人變化。"
+    },
+    {
+      "id": "5034005",
+      "time": "2026-08-10 19:18:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "崔斯塔證券將康菲石油目標股價從115美元上調至130美元。"
+    },
     {
       "id": "5034004",
       "time": "2026-08-10 19:17:18",
@@ -17,6 +78,14 @@
         "市場"
       ],
       "text": "標普 500 指數期貨抹去此前漲幅，轉為持平。"
+    },
+    {
+      "id": "5034002",
+      "time": "2026-08-10 19:15:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓碧瑤市山體滑坡事故遇難人數升至7人】據菲律賓碧瑤市政府訊息，碧瑤市的吉薩德蘇隆村於9日晚間發生一起山體滑坡，導致3間房屋被掩埋，有十餘人被困。截至10日17時30分，此次事故的遇難人數上升至7人，有3人獲救，另有3人失蹤。目前搜救行動仍在進行中。（央視新聞）"
     },
     {
       "id": "5034001",
