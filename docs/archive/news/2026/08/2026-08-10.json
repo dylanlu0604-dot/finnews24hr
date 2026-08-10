@@ -1,7 +1,77 @@
 {
   "date": "2026-08-10",
-  "count": 926,
+  "count": 933,
   "items": [
+    {
+      "id": "mkt:019fea22-ce01-7aab-8fd1-eb193342b1f2",
+      "time": "2026-08-10 13:26:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan raises year-end S&P 500 target to 8,000】JP Morgan on Monday raised its year-end S&P 500 target to 8,000, citing strong corporate profits and signs that major cloud providers' AI spending will soon accelerate revenue growth. The new target implies roughly 3.12% upside from the S&P's close at 7,757.64 last Friday."
+    },
+    {
+      "id": "mkt:019fea22-cce1-7aab-8fd1-e2f93383f972",
+      "time": "2026-08-10 13:26:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Interfax reports Kazakhstan is considering using the Baku-Tbilisi-Ceyhan (BTC) and Baku-Supsa oil pipelines, and trans-Caspian transport routes via Azerbaijan, as additional crude export routes to respond to a disruption of Caspian Pipeline Consortium (CPC) operations."
+    },
+    {
+      "id": "5033287",
+      "time": "2026-08-10 13:25:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克正考慮將 BTC 輸油管線、巴庫-蘇普薩輸油管線以及經亞塞拜然的跨裡海運輸作為補充石油出口路線，以應對裡海石油管道財團（CPC）運營中斷的影響。"
+    },
+    {
+      "id": "mkt:019fea21-82f1-7aab-8fd1-dba9139aacd9",
+      "time": "2026-08-10 13:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Swiss National Bank hike timing pushed back; earliest now seen after June next year】Economists have delayed expectations for a Swiss National Bank rate rise; a monthly survey shows the earliest timing is now judged to be after June next year. Respondents who had expected borrowing costs to rise this year largely now see the SNB holding off until 2027, and a majority expect the first hike only in early 2028. The shift follows reports that SNB staff internally expect the policy rate to remain at 0% through end‑2027 and rise only thereafter, conditional on no new major shocks."
+    },
+    {
+      "id": "5033286",
+      "time": "2026-08-10 13:24:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：黃河、太湖、滁河等河流可能發生編號洪水】今天上午，水利部舉行會商，分析研判全國的防汛形勢，未來兩天，黃河、太湖、滁河等主要河流可能發生編號洪水，安徽西南部局地需防範山洪災害。"
+    },
+    {
+      "id": "mkt:019fea20-95e0-7aab-8fd1-d44c9a7795e0",
+      "time": "2026-08-10 13:23:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reported Kazakhstan diverted some July oil exports to alternative routes after an operational disruption at the Caspian Pipeline Consortium (CPC)."
+    },
+    {
+      "id": "5033285",
+      "time": "2026-08-10 13:23:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防禦颱風“白海豚” 福建轉移16.79萬人】為防禦今年第13號颱風“白海豚”帶來的風雨浪影響，福建各地各部門部署防範措施，組織轉移避險，做好應對工作。據福建省防汛辦統計，截至8月10日7時，福建省共下沉幹部5.1萬人次，轉移海上、陸上危險區域人員16.79萬人。"
+    },
     {
       "id": "mkt:019fea1f-16f7-7aab-8fd1-c95d002b604e",
       "time": "2026-08-10 13:22:13",

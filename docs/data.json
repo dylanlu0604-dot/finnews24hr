@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-10 13:23:18",
-  "count": 15903,
+  "updated": "2026-08-10 13:27:14",
+  "count": 15905,
   "items": [
+    {
+      "id": "mkt:019fea22-ce01-7aab-8fd1-eb193342b1f2",
+      "time": "2026-08-10 13:26:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan raises year-end S&P 500 target to 8,000】JP Morgan on Monday raised its year-end S&P 500 target to 8,000, citing strong corporate profits and signs that major cloud providers' AI spending will soon accelerate revenue growth. The new target implies roughly 3.12% upside from the S&P's close at 7,757.64 last Friday."
+    },
+    {
+      "id": "mkt:019fea22-cce1-7aab-8fd1-e2f93383f972",
+      "time": "2026-08-10 13:26:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Interfax reports Kazakhstan is considering using the Baku-Tbilisi-Ceyhan (BTC) and Baku-Supsa oil pipelines, and trans-Caspian transport routes via Azerbaijan, as additional crude export routes to respond to a disruption of Caspian Pipeline Consortium (CPC) operations."
+    },
+    {
+      "id": "5033287",
+      "time": "2026-08-10 13:25:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克正考慮將 BTC 輸油管線、巴庫-蘇普薩輸油管線以及經亞塞拜然的跨裡海運輸作為補充石油出口路線，以應對裡海石油管道財團（CPC）運營中斷的影響。"
+    },
+    {
+      "id": "mkt:019fea21-82f1-7aab-8fd1-dba9139aacd9",
+      "time": "2026-08-10 13:24:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Swiss National Bank hike timing pushed back; earliest now seen after June next year】Economists have delayed expectations for a Swiss National Bank rate rise; a monthly survey shows the earliest timing is now judged to be after June next year. Respondents who had expected borrowing costs to rise this year largely now see the SNB holding off until 2027, and a majority expect the first hike only in early 2028. The shift follows reports that SNB staff internally expect the policy rate to remain at 0% through end‑2027 and rise only thereafter, conditional on no new major shocks."
+    },
+    {
+      "id": "5033286",
+      "time": "2026-08-10 13:24:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：黃河、太湖、滁河等河流可能發生編號洪水】今天上午，水利部舉行會商，分析研判全國的防汛形勢，未來兩天，黃河、太湖、滁河等主要河流可能發生編號洪水，安徽西南部局地需防範山洪災害。"
+    },
+    {
+      "id": "mkt:019fea20-95e0-7aab-8fd1-d44c9a7795e0",
+      "time": "2026-08-10 13:23:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reported Kazakhstan diverted some July oil exports to alternative routes after an operational disruption at the Caspian Pipeline Consortium (CPC)."
+    },
+    {
+      "id": "5033285",
+      "time": "2026-08-10 13:23:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防禦颱風“白海豚” 福建轉移16.79萬人】為防禦今年第13號颱風“白海豚”帶來的風雨浪影響，福建各地各部門部署防範措施，組織轉移避險，做好應對工作。據福建省防汛辦統計，截至8月10日7時，福建省共下沉幹部5.1萬人次，轉移海上、陸上危險區域人員16.79萬人。"
+    },
     {
       "id": "mkt:019fea1f-16f7-7aab-8fd1-c95d002b604e",
       "time": "2026-08-10 13:22:13",
@@ -144712,47 +144782,6 @@
         "其他"
       ],
       "text": "【滬深京三市成交額超1.5萬億元，較上日此時縮量4606億元】滬深京三市成交額超1.5萬億元，較上日此時縮量4606億元，預計全天成交金額約1.9萬億元。截至目前，滬市成交額7049億元，深市成交額7847億元，北證50成交額104億元。"
-    },
-    {
-      "id": "5021700",
-      "time": "2026-08-03 13:26:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【小摩：滙豐出售澳洲零售業務推進精簡戰略，重申“增持”評級】滙豐控股宣佈將其360億澳元(約249億美元)的澳洲住宅及個人貸款組合出售予黑石管理的基金，並將於未來18個月內逐步結束其澳洲零售業務的其餘部分。摩根大通發表研報指，交易屬預期之內，並認為出售為輕微正面，因標誌著管理層精簡戰略進一步推進，財務影響輕微，預計對2027年普通股權一級資本比率(CET1)影響僅約3個基點，2026至2028年累計虧損約6億美元，僅相當於期內市場預期稅前利潤約0.5%。摩通認為，出售讓滙豐可專注於具更強競爭優勢及增長機會的業務，重申“增持”評級，目標價200港元。"
-    },
-    {
-      "id": "5021699",
-      "time": "2026-08-03 13:25:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數午後轉跌，恒生科技指數漲幅收窄至0.44%，智譜跌8%，中芯國際、理想汽車跌超2%。"
-    },
-    {
-      "id": "5021698",
-      "time": "2026-08-03 13:25:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【強降雨引發8處地質災害，四川提前避險轉移40249人】據四川省地質災害防治指揮部辦公室訊息，8月2日8時—8月3日8時，四川盆地西北部、盆地東北部及瀘州等地降大雨到暴雨，區域性大暴雨，最大降雨為廣安市廣安區東嶽鄉農新村站192毫米。強降雨引發8處地質災害，其中宜賓市3處、資陽市2處、眉山市2處、廣元市1處，無人員傷亡，當地已採取防範措施。四川省提前轉移受地質災害威脅群眾，成功避險5起地質災害，共避免12人可能的因災傷亡。截至8月3日7時，24小時內四川20個市（州）83個縣（市、區）共提前轉移避險40249人。至此，入汛以來，四川全省共提前轉移避險922058人次。（央視新聞）"
-    },
-    {
-      "id": "5021697",
-      "time": "2026-08-03 13:24:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek模型單日吞下8萬億Token OpenAI打折追趕】北京時間8月3日，海外開發者開源專案團隊OpenCode發文稱，其平臺上DeepSeekV4Flash的呼叫量大幅飆升，單日處理達8T（萬億）Token。其中5T為免費試用額度消耗，3T為開發者透過OpenCode平臺付費使用。與此同時，模型API分發平臺OpenRouter最新資料顯示，上週（7月27日至8月2日）DeepSeek V4 Flash以7.22萬億Token的周呼叫量位居第一。"
-    },
-    {
-      "id": "5021696",
-      "time": "2026-08-03 13:23:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普睿司曼官宣收購美國電氣裝置製造商Atkore】8月3日，總部位於義大利的電纜製造巨頭普睿司曼宣佈已達成最終合併協議，以每股95美元現金收購美國電氣裝置製造商Atkore。根據交易條款，Atkore的隱含企業價值約為38億美元（33億歐元）。該交易將擴大普睿司曼在北美的業務版圖，加速其向全面電氣解決方案提供商的轉型。"
     }
   ]
 }
