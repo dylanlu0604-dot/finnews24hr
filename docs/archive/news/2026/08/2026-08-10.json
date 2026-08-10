@@ -1,7 +1,88 @@
 {
   "date": "2026-08-10",
-  "count": 275,
+  "count": 284,
   "items": [
+    {
+      "id": "mkt:019fe904-e110-7aab-8fcd-5e1c463dc225",
+      "time": "2026-08-10 08:13:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "KOSPI",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI index rose as much as 2.00% intraday."
+    },
+    {
+      "id": "5032815",
+      "time": "2026-08-10 08:13:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的白銀ETF iShares Silver Trust持倉量較前日持平】截至2026年08月07日，全球最大的白銀ETF iShares Silver Trust持倉量為15172.99噸，較前一個交易日持平。"
+    },
+    {
+      "id": "5032814",
+      "time": "2026-08-10 08:13:34",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【國金證券：大宗商品反彈已確立，能源+金屬組合將進入整體上行時期】國金證券研報表示，3月以來，市場聚焦宏觀矛盾，卻忽視了AI產業鏈的變化是資產定價核心；當下映象錯誤可能在重演，當市場投資者還在糾結AI產業未來走勢時，可能會發現非AI領域（實物資產、出口出海）反而成為了核心矛盾。基於以上內容，推薦：第一，大宗商品反彈已經確立，能源+金屬的組合將從3月以來整體下行轉換進入整體上行時期，當前資源品排序：有色金屬（金、銅、鋁）、能源（煤炭、石油石化）；第二，南方國家故事與中國製造的共振正在孕育，關注工程機械、電網裝置、煉化等方向。第三，紅利風格受益於絕對收益者的切換，高股息+低波動+穩定現金流的紅利資產仍是絕對收益資金的核心迴流方向。"
+    },
+    {
+      "id": "5032812",
+      "time": "2026-08-10 08:13:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加2.82噸】截至2026年08月07日，全球最大的黃金ETF SPDR Gold Trust持倉量為1017.54噸，較前一個交易日增加2.82噸。"
+    },
+    {
+      "id": "5032811",
+      "time": "2026-08-10 08:13:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲2.2%，至6394.06點。"
+    },
+    {
+      "id": "5032810",
+      "time": "2026-08-10 08:12:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康諾亞-B：CM512(TSLP x IL-13雙抗)注射液用於慢性鼻竇炎伴鼻息肉患者的II期臨床試驗達到所有研究終點】康諾亞-B(02162)釋出公告，公司自主研發的1類新藥CM512注射液治療慢性鼻竇炎伴鼻息肉(CRSwNP)的II期臨床研究已完成資料揭盲及初步統計分析。結果顯示：1、CM512達到了全部研究終點，各劑量組療效表現相當。CM512快速起效，給藥第4周即可快速縮小鼻息肉同時顯著改善鼻塞，並促進嗅覺功能恢復。給藥一針療效可維持半年，24周鼻息肉評分(NPS)較基線變化顯著優於對照組，同時明顯減輕整體鼻竇腔炎症。2、在CRSwNP患者中，CM512所有劑量組均展現出良好的安全性和耐受性，抗藥抗體(ADA)的發生率極低。治療期間不良事件(TEAEs)發生率與安慰劑組相當，CM512組未發生嚴重不良事件。詳細資料未來將於國際學術期刊或學術會議進一步公佈。基於此II期結果，公司正在快速啟動CM512注射液治療CRSwNP的臨床III期研究，並明確300mg，半年給藥一次(Q24W)為用藥方案。"
+    },
+    {
+      "id": "mkt:019fe903-07d2-7aab-8fcd-50203cff9d39",
+      "time": "2026-08-10 08:11:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 4.90 points, or 0.05%, at 9,258.70 on Monday, Aug. 10."
+    },
+    {
+      "id": "te:economy:573934",
+      "time": "2026-08-10 08:11:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Japan Current Account Surplus Below Estimates — Japan’s current account surplus decreased to JPY 923.0 billion in June 2026 from JPY 1,281.8 billion in the same month a year earlier, missing market expectations for a JPY 1,512 billion surplus. The goods account swung to a JPY 135.2 billion deficit from a JPY 467.3 billion surplus, as exports rose 16.3%, trailing a 24.3% increase in imports. Meanwhile, the services deficit widened to JPY 228.5 billion from JPY 160.6 billion. The primary income surplus also fell sharply to JPY 380.1 billion from JPY 1,444.9 billion. In contrast, the secondary income deficit narrowed to JPY 108.6 billion from JPY 469.8 billion."
+    },
+    {
+      "id": "5032809",
+      "time": "2026-08-10 08:11:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲1.0個基點，至1.615%。"
+    },
     {
       "id": "5032808",
       "time": "2026-08-10 08:10:10",
