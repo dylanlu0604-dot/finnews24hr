@@ -1,7 +1,151 @@
 {
   "date": "2026-08-10",
-  "count": 1573,
+  "count": 1589,
   "items": [
+    {
+      "id": "te:economy:574121",
+      "time": "2026-08-10 17:27:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cyprus",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Cyprus Trade Deficit Widens in June — Cyprus’ trade deficit widened to EUR 826.3 million in June 2026 from EUR 638.1 million in the same month a year earlier, preliminary estimates showed. Imports rose 11.9% year-on-year to EUR 1,289.3 million, driven by higher purchases from both EU countries (18.8%) and non-EU countries (4.0%). Imports included the transfer of economic ownership of vessels valued at EUR 117.8 million, up from EUR 55.8 million in June last year. Meanwhile, exports fell 9.9% to EUR 463.0 million, weighed down by a decline in shipments to non-EU countries (-31.3%), while exports to third countries grew 42.3%. Vessel and aircraft transfers were valued at EUR 77.3 million, up from EUR 68.5 million. For the January-June period, the trade shortfall widened to EUR 4,679.1 million from EUR 4,055.1 million in the same period last year."
+    },
+    {
+      "id": "5033738",
+      "time": "2026-08-10 17:27:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭稱打擊了俄羅斯韃靼斯坦的塔內科煉油廠。"
+    },
+    {
+      "id": "mkt:019feaff-4b36-7aab-8fd6-b8268bd2fb84",
+      "time": "2026-08-10 17:27:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukraine intensifies strikes on Russian refineries】Drones struck Russia's petrochemical hub Nizhnekamsk, killing 13 people, including a child, and injuring about 40, foreign media report. Ukraine has stepped up attacks on Russian oil-processing facilities this month after a lull in late July when refineries carried out repairs and boosted nationwide fuel output to ease shortages. Last week Kyiv struck five Russian refineries, adding fresh pressure on domestic gasoline and diesel supplies."
+    },
+    {
+      "id": "5033737",
+      "time": "2026-08-10 17:26:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中交設計：閒置募集資金現金管理部分到期贖回 獲本息4.51億元】中交設計公告稱，公司於2026年5月8日購買的華夏銀行和交通銀行“3個月定期存款”已贖回，共獲本金及收益45,113.16萬元，其中華夏銀行產品贖回35,087.60萬元、收益87.60萬元，交通銀行產品贖回10,025.56萬元、收益25.56萬元。截至公告日，公司最近12個月現金管理已收回全部本金，收益816.02萬元，使用餘額為0，未超董事會授權範圍，無逾期未收回情況，未使用額度10億元。"
+    },
+    {
+      "id": "5033736",
+      "time": "2026-08-10 17:26:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠威科技：截至8月7日回購股份151.59萬股 耗資2451.23萬元】惠威科技公告稱，公司於2026年7月23日擬以4000萬-8000萬元自有資金回購股份，用於維護公司價值及股東權益（出售），回購價不超18.5元/股，期限3個月。截至8月7日，公司已回購1,515,900股，佔總股本1.03%，最高成交價17.65元/股，最低14.70元/股，支付總金額24,512,255元。後續將繼續實施回購並依規披露。"
+    },
+    {
+      "id": "5033735",
+      "time": "2026-08-10 17:26:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海鷗股份：2025年資料中心冷卻塔營業收入佔比不足1.5%，核電領域未形成收入】海鷗股份公告，公司股票於2026年8月6日、8月7日、8月10日連續三個交易日收盤價格漲幅偏離值累計超過20%，屬於股票交易異常波動。公司下游主要客戶涵蓋石化化工、火電等領域；2025年度，公司來自資料中心領域冷卻塔業務營業收入佔比不足1.5%，金額佔比較小；來自核電領域冷卻塔業務未形成收入。此外，金敖大減持計劃尚未實施完畢，2026年8月5日已減持285.49萬股。"
+    },
+    {
+      "id": "5033734",
+      "time": "2026-08-10 17:26:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興齊眼藥：完成240.50萬股回購股份登出 總股本減少】興齊眼藥公告稱，公司本次登出回購股份240.50萬股，佔登出前總股本的0.67%，涉及金額約1億元。經稽核，回購股份登出事宜於2026年8月7日生效。登出完成後，公司總股本由3.57億股減至3.55億股。本次回購股份登出不會對公司產生重大影響，後續將辦理註冊資本變更等相關工作。"
+    },
+    {
+      "id": "5033733",
+      "time": "2026-08-10 17:26:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天士力：部分董事及高管變更，席凱擬任總經理，蔡金勇任董事長】天士力公告稱，因工作調整，鍾江不再擔任公司第九屆董事會非獨立董事，在股東會選舉產生新任董事前繼續履職；席凱不再擔任職工代表董事，擬被增補為非獨立董事，同時被聘任為公司總經理；蔡金勇不再擔任總經理，被推舉為公司第九屆董事會董事長。上述人員任期至第九屆董事會屆滿。截至公告日，三人未持有公司股票，無未履行承諾事項。"
+    },
+    {
+      "id": "5033732",
+      "time": "2026-08-10 17:25:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海優新材：擬向全資子公司泰州海優威增資4500萬元】海優新材公告，公司擬以自有資金或自籌資金向全資子公司泰州海優威應用材料有限公司增資人民幣4500萬元。本次增資事項已經公司第四屆董事會第三十八次會議審議透過，無需提交公司股東會審議。增資完成後泰州海優威註冊資本將由人民幣1.5億元增至1.95億元，公司持股比例保持100%。本次增資不構成關聯交易，亦不構成重大資產重組。"
+    },
+    {
+      "id": "mkt:019feafd-d4b2-7aab-8fd6-b09002b0a40b",
+      "time": "2026-08-10 17:25:31",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bearish"
+      ],
+      "text": "Foxconn's electric-vehicle unit Foxtron reported a Jan–June net loss of NT$2.01 billion, or a NT$1.15 loss per share."
+    },
+    {
+      "id": "5033731",
+      "time": "2026-08-10 17:25:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行稱，各銀行向其存入2萬億歐元隔夜存款。"
+    },
+    {
+      "id": "te:economy:574119",
+      "time": "2026-08-10 17:25:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Greece Industrial Production Expands for 10th Month — Industrial output in Greece rose by 1.1% from the previous year in June of 2026, slowing from the downwardly revised 3.7% in the previous month. Still, it marked ten consecutive months of growth despite turbulent macroeconomic conditions in the period due to the war in the Middle East and its impact on higher energy prices for goods producers. Growth was supported by manufacturing (2.4%) amid higher output for machinery and equipment (5%), fabricated metal products (2.2%), printing and reproduction of recorded products (8.1%), textiles (2.2%), and food (2.2%). In turn, production fell for mining and quarrying (-3%), electricity supply (-3.8%), and water supply (-2.6%). From the previous month, industrial production eased by 0.4%."
+    },
+    {
+      "id": "5033730",
+      "time": "2026-08-10 17:25:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【依頓電子：控股股東九洲集團首次增持330萬股】依頓電子公告，控股股東四川九洲投資控股集團有限公司於2026年8月10日透過上海證券交易所集中競價交易方式首次增持公司股份330萬股，佔公司總股本比例約為0.33%，增持金額為人民幣3784.25萬元。根據此前披露的增持計劃，九洲集團擬自2026年8月8日起3個月內增持公司股份，累計增持數量不低於總股本的1%且不超過總股本的2%。本次增持前，九洲集團持有公司股份3億股，佔公司總股本的30.00000%。"
+    },
+    {
+      "id": "5033729",
+      "time": "2026-08-10 17:24:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥：8月10日回購85萬股 耗資1518.45萬元】海螺水泥公告稱，8月10日，公司透過上海證券交易所回購85萬股股份，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.0215%，每股回購價在17.83-17.94元之間，付出的價格總額為1518.45萬元，回購股份將被持作庫存股份。截至8月10日，公司庫存股份為2721.98萬股。"
+    },
+    {
+      "id": "5033728",
+      "time": "2026-08-10 17:24:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄石化重鎮遭烏無人機襲擊 俄偵委稱以恐襲立案偵查】當地時間8月10日，俄羅斯聯邦偵查委員會通報稱，已經以恐怖襲擊對下卡姆斯克市遭無人機襲擊一事立案偵查。俄偵委會表示，遭襲目標均為與軍事行動無關的平民，死者中有一名兒童。截至目前，據俄韃靼斯坦共和國官方通報，烏克蘭方面對下卡姆斯克市的無人機襲擊已造成13人死亡。烏克蘭方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5033727",
+      "time": "2026-08-10 17:23:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【德銀Q2增持美光科技 英偉達位列第一重倉股】根據美國證監會(SEC)披露，德意志銀行二季度持倉總市值達3440億美元，上一季度總市值為3030億美元，環比增長13.5%。在前十大重倉股中：英偉達躍居第一位，持倉9195.4萬股，持倉市值約183.99億美元，佔投資組合比重為5.34%。從持倉比例變化來看，前五大買入標的分別是：美光科技、谷歌-A、邁威爾科技、谷歌-C、亞馬遜。"
+    },
     {
       "id": "5033726",
       "time": "2026-08-10 17:23:13",
