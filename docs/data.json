@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-11 03:09:37",
-  "count": 15764,
+  "updated": "2026-08-11 03:13:38",
+  "count": 15761,
   "items": [
+    {
+      "id": "5034533",
+      "time": "2026-08-11 03:12:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會副議長阿里·尼克扎德表示，美國必須接受伊朗在霍爾木茲海峽確立的相關安排，這些安排促成了波斯灣全新的政治與軍事格局。"
+    },
+    {
+      "id": "mkt:019fed16-fece-7aab-8fdf-c1ebe9d517c8",
+      "time": "2026-08-11 03:12:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr news agency: Bushehr provincial governor said unexploded ordnance left from US and Israeli strikes will be cleared and destroyed near Bushehr airbase on Tuesday between 08:00 and 12:00 Iran local time. Explosions will be controlled detonations; residents need not be concerned."
+    },
+    {
+      "id": "5034532",
+      "time": "2026-08-11 03:12:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美政府自去年初以來已吊銷逾17.5萬份非移民簽證】美國國務院當地時間10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。"
+    },
+    {
+      "id": "mkt:019fed15-2c33-7aab-8fdf-bec0e4b8bc03",
+      "time": "2026-08-11 03:10:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Cleveland Fed's Hammack: multiple rate hikes may be needed to curb inflation】Cleveland Fed President Hammack said inflation remains above target and the Fed may need multiple rate hikes to bring it down. She said a 25bp hike would not have a material economic impact but would not predict the number of moves or the terminal rate. Hammack judged the current 3.50%-3.75% policy range is not clearly restrictive and said businesses have not cut growth investment, arguing prompt action is preferable because delays make returning to 2% harder. She added the labor market shows no obvious problems and July payrolls will not change her inflation focus. Hammack dissented at July’s FOMC, preferring a 25bp increase, and said markets can only assist—not substitute for—Fed policy action."
+    },
     {
       "id": "5034531",
       "time": "2026-08-11 03:08:47",
@@ -143453,73 +143494,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖軍事顧問穆赫辛·雷扎伊：我們絕不允許在霍爾木茲海峽開闢第二條航道。若軍艦或軍事力量為此目的駛入霍爾木茲海峽，我們將對其實施打擊。"
-    },
-    {
-      "id": "mkt:019fc90b-a181-7aab-8f5e-b87310bb3630",
-      "time": "2026-08-04 03:13:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York state attorney general said Trump's new tariffs are overly broad, circumvent legal requirements for country-specific investigations, and merely replace tariffs the U.S. Supreme Court previously struck down."
-    },
-    {
-      "id": "5023193",
-      "time": "2026-08-04 03:12:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐約州總檢察長：特朗普最新關稅僅僅是替換此前被美國最高法院裁定無效的關稅。"
-    },
-    {
-      "id": "5023192",
-      "time": "2026-08-04 03:12:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐約州總檢察長：特朗普新關稅覆蓋面寬泛程度超出法律允許範圍，規避了法律規定的針對特定國家開展調查的要求。"
-    },
-    {
-      "id": "mkt:019fc909-8358-7aab-8f5e-b55056915f11",
-      "time": "2026-08-04 03:11:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's Supreme Leader's military adviser Mohsen Rezaei said Iran did not attack any US citizens, that the US attacked Iran, and that the vast majority of countries regard the US as a warmongering state."
-    },
-    {
-      "id": "mkt:019fc909-6e43-7aab-8f5e-aa8c96d58865",
-      "time": "2026-08-04 03:11:06",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Mohsen Rezaei, military adviser to Iran’s supreme leader, said Iran carried out two additional days of attacks after US strikes ceased to make the United States understand the situation."
-    },
-    {
-      "id": "5023191",
-      "time": "2026-08-04 03:10:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "法庭檔案顯示：美國 25 個州提起訴訟，挑戰特朗普最新關稅政策。"
-    },
-    {
-      "id": "mkt:019fc908-d396-7aab-8f5e-a326c6b497e2",
-      "time": "2026-08-04 03:10:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Court filings show 25 U.S. states have filed suit challenging Trump's latest tariff measures."
     }
   ]
 }
