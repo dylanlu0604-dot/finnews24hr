@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-11 05:51:48",
+  "updated": "2026-08-11 05:55:35",
   "count": 15805,
   "items": [
+    {
+      "id": "5034614",
+      "time": "2026-08-11 05:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭首都基輔響起持續強烈爆炸聲】當地時間11日零時30分至36分，新華社記者在基輔聽到兩輪強烈的持續爆炸聲。基輔市長克利奇科在社交媒體上說，俄軍正在對基輔市發動彈道導彈襲擊。（新華社）"
+    },
+    {
+      "id": "mkt:019fedab-cff4-7aab-8fe1-864df8140b55",
+      "time": "2026-08-11 05:54:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Sustained loud explosions heard in Kyiv】On the 11th at 00:30–00:36 local time, a Xinhua reporter in Kyiv heard two rounds of sustained, loud explosions. Kyiv Mayor Klitschko said on social media that Russian forces are conducting ballistic missile strikes on the city."
+    },
     {
       "id": "mkt:019feda8-6c4b-7aab-8fe1-7df3d353a72b",
       "time": "2026-08-11 05:51:05",
@@ -143871,22 +143891,6 @@
         "Chip Wars"
       ],
       "text": "【Major electronic-packaging conference opens in China as capacity expansion accelerates】The 27th International Conference on Electronic Packaging Technology (ICEPT2026) will run Aug. 5-7 in Xi'an, showcasing advanced packaging equipment, materials and test solutions. With global advanced-packaging capacity tight, China’s assembly-and-test sector is launching a large-scale expansion; domestic leaders including JCET, Huatian Technology and Tongfu Microelectronics are expanding advanced-packaging capacity and prioritizing high-end memory, power semiconductors and high-performance computing packaging. The build-out is expected to deepen ecosystem coordination and accelerate domestic self-sufficiency in advanced packaging."
-    },
-    {
-      "id": "5023246",
-      "time": "2026-08-04 05:53:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來發言人：已搭建擴大可及性專案，實現瑞塔魯肽在 FDA 獲批前供患者使用。 正積極稽核醫護機構的申請，計劃在 FDA 獲批前供應正品瑞塔魯肽。"
-    },
-    {
-      "id": "5023245",
-      "time": "2026-08-04 05:52:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴國家電網癱瘓】當地時間8月3日獲悉，當天，古巴國家電網發生癱瘓。受美國製裁影響，古巴長期以來難以進口燃料及發電廠裝置，發電廠裝置老舊難更新，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）"
     }
   ]
 }
