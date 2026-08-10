@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-10 22:31:30",
-  "count": 15874,
+  "updated": "2026-08-10 22:35:34",
+  "count": 15876,
   "items": [
+    {
+      "id": "5034357",
+      "time": "2026-08-10 22:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊總司令祝賀新任最高國家安全委員會秘書】據伊朗媒體報道，伊朗伊斯蘭革命衛隊總司令艾哈邁德·瓦希迪10日向伊朗新任最高國家安全委員會秘書穆赫辛·雷扎伊表示祝賀。(新華社)"
+    },
+    {
+      "id": "5034356",
+      "time": "2026-08-10 22:32:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "惠譽確認阿布扎比國家石油公司穆爾班原油評級為AA，展望穩定。"
+    },
+    {
+      "id": "5034355",
+      "time": "2026-08-10 22:32:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【據港交所檔案：Ever Glory United Holdings Limited向港交所提交上市申請書】據港交所檔案：Ever Glory United Holdings Limited向港交所提交上市申請書。"
+    },
+    {
+      "id": "5034354",
+      "time": "2026-08-10 22:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯公共交通領域正在出現積極趨勢，但仍存在許多問題。"
+    },
+    {
+      "id": "5034353",
+      "time": "2026-08-10 22:32:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞地震已致多人遇難】哥倫比亞馬尼薩萊斯市長稱，地震已造成當地2人死亡。地震還造成薩爾薩爾2人死亡、埃爾凱羅3人受傷。（CCTV國際時訊）"
+    },
+    {
+      "id": "5034352",
+      "time": "2026-08-10 22:31:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超0.5%，中進醫療漲59.54%，陸金所控股漲13.85%，中比能源漲11.57%，海天網路漲10.20%，搜狐漲7.37%。"
+    },
+    {
+      "id": "te:markets:574169",
+      "time": "2026-08-10 22:30:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 6-week High — HRC Steel increased to 1204.00 USD/T, the highest since June 2026. Over the past 4 weeks, Hot-Rolled Coil Steel gained 2.04%, and in the last 12 months, it increased 44.07%."
+    },
     {
       "id": "5034351",
       "time": "2026-08-10 22:30:38",
@@ -144430,52 +144491,6 @@
         "MKT News"
       ],
       "text": "Swedish Foreign Ministry summoned a Russian diplomat."
-    },
-    {
-      "id": "5022923",
-      "time": "2026-08-03 22:34:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "CAC 40 指數上漲 1.6%，創下自 2 月 26 日以來的首個盤中紀錄。"
-    },
-    {
-      "id": "mkt:019fc80b-bad7-7aab-8f5a-49c9b25a3a2f",
-      "time": "2026-08-03 22:33:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【China Merchants Securities: Overseas cloud vendors' cloud revenue remains high-growth; AI application rollout set to accelerate】China Merchants Securities, citing Microsoft and SK Hynix results, concludes the AI sector still faces genuine supply constraints and shows no clear signs of broad overcapacity. Large tech firms are increasing AI infrastructure investment and customer follow-on orders are rising; earnings do not yet provide solid evidence of an AI compute glut. Microsoft compute utilization and SK Hynix order flows indicate the current imbalance is shortages of high-performance compute, advanced storage and data-center support capacity rather than widespread equipment idling. Near-term investment opportunities are likely to center on segments that alleviate AI compute bottlenecks."
-    },
-    {
-      "id": "5022922",
-      "time": "2026-08-03 22:33:54",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券： 核電機組年內首次核准落地，板塊穩增長趨勢下有望迎多維估值重構】中信證券釋出研報稱，年內首次8臺核電機組核准落地，自主可控邏輯及AI需求刺激下，核電建設有望成為新基建，我們認為全球範圍核心電產業有望迎來複興，國內方面核電機組的有序推進有望拉動零部件訂單增長，四代堆及小堆接連取得突破，出口及核聚變等開啟行業天花板，我們建議關注SMR龍頭；在手訂單飽滿的核電閥門龍頭；在三/四代核電領域實現國產化的特種電機龍頭；核電用特種焊材龍頭；具備高階密封產品優勢的機械密封龍頭；受益乏燃料貯運及後處理需求的龍頭；核級海綿鋯龍頭；擁有控制棒驅動機構、核主泵、堆內構件製造資質的公司。"
-    },
-    {
-      "id": "5022921",
-      "time": "2026-08-03 22:33:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國散戶情緒低迷 佔比較年初下降超16個百分點】散戶投資情緒低迷，韓國股市中個人投資者影響力快速下降。 今年年初，個人投資者還曾承接外資拋售壓力，貢獻了接近一半的交易金額。但進入7月後，其交易佔比已下降至30%出頭。有分析認為，隨著股市等待資金也在減少，這不僅是交易主體的簡單轉換，更意味著個人投資者自身的“彈藥”在枯竭。 據韓國交易所3日訊息，7月韓國綜合股價指數（KOSPI）市場中，個人投資者交易金額佔比為31.58%。 相較1月的48.11%，這一比例7個月內大幅下降16.53個百分點。 同期，外資交易金額佔比達到37.91%，領先個人投資者6.33個百分點。"
-    },
-    {
-      "id": "5022920",
-      "time": "2026-08-03 22:32:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：巴基斯坦外長邀請伊拉克儘早訪問巴基斯坦。"
     }
   ]
 }
