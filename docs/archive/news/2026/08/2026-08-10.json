@@ -1,7 +1,105 @@
 {
   "date": "2026-08-10",
-  "count": 2257,
+  "count": 2268,
   "items": [
+    {
+      "id": "5034269",
+      "time": "2026-08-10 21:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "錫耶納治療公司股價暴跌91%，原因是該公司實驗性藥物未達中期試驗目標。"
+    },
+    {
+      "id": "mkt:019febe3-89c0-7aab-8fda-cb7d89fd1950",
+      "time": "2026-08-10 21:36:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "GOLD.O",
+        "Impact bearish"
+      ],
+      "text": "Barrick Gold fell 8% after Q2 profit missed expectations."
+    },
+    {
+      "id": "mkt:019febe2-f350-7aab-8fda-c146c75f401d",
+      "time": "2026-08-10 21:35:46",
+      "tags": [
+        "MKT News",
+        "BRK.A.O",
+        "Impact bearish"
+      ],
+      "text": "Michael Burry, described as the \"big short,\" said he does not view Berkshire Hathaway as an attractive investment going forward."
+    },
+    {
+      "id": "5034268",
+      "time": "2026-08-10 21:35:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "META股價上漲2.1%，創兩週以來新高。"
+    },
+    {
+      "id": "5034267",
+      "time": "2026-08-10 21:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲迎來今年第五輪熱浪 河流、電力和農作物面臨壓力】本週又一輪強烈熱浪將席捲已經十分乾旱的歐洲，不僅將加劇野火風險、威脅農作物，還會進一步導致流域乾涸，而這些流域正為歐洲一些水位已降至極低水平的河流提供水源。法國氣象局預計，高壓形成的“熱穹頂”將推動法國北部氣溫在週二升至接近40攝氏度。歐洲中期天氣預報中心的資料顯示，英格蘭南部氣溫可能升至35攝氏度左右，德國法蘭克福週五則可能達到38攝氏度。這將可能是歐洲今年遭遇的第五輪大範圍熱浪。持續的高壓天氣可能阻擋攜帶水汽的雲系進入，使萊茵河、波河和多瑙河等河流難以獲得降水補給。"
+    },
+    {
+      "id": "5034266",
+      "time": "2026-08-10 21:34:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超5.00%，現報2.796美元/百萬英熱。"
+    },
+    {
+      "id": "te:markets:574149",
+      "time": "2026-08-10 21:34:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "US Natgas Prices Rise on Strong LNG Demand — US natural gas prices rose more than 4% to $2.785 per MMBtu on Monday, supported by stronger demand from liquefied natural gas (LNG) export facilities. Daily flows to the nine major US LNG export plants were on track to reach a one-month high of 17.9 bcfd. Also, average feedgas demand stood at 17.2 bcfd in July, just below June’s monthly record of 17.4 bcfd. Meanwhile, natural gas production in the Lower 48 states averaged a record 111.2 bcfd in August, up from 110.7 bcfd in July. Strong output and relatively mild weather earlier this year have kept inventories above the five-year average since March. Analysts expect the storage surplus to narrow slightly to 6.6% above normal for the week ending August 7. However, forecasts point to continued above-normal temperatures through August 25, which should sustain gas demand from power generators as air-conditioning use remains elevated."
+    },
+    {
+      "id": "5034265",
+      "time": "2026-08-10 21:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "安全港遊艇碼頭公司（Safe Harbor Marinas）接近以15億美元收購海夢公司（MarineMax）後，海夢股價暴漲45%。"
+    },
+    {
+      "id": "5034264",
+      "time": "2026-08-10 21:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "AAON股價在公佈第二季度業績後下跌2.8%。"
+    },
+    {
+      "id": "5034263",
+      "time": "2026-08-10 21:33:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價下跌2.5%；傑富瑞將其評級由持有下調至弱於大盤。"
+    },
+    {
+      "id": "5034262",
+      "time": "2026-08-10 21:33:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴里克黃金（Barrick Mining）<ABX.TO>股價因季度利潤不及預期下跌5.5%。"
+    },
     {
       "id": "mkt:019febe0-5b37-7aab-8fda-b94906729d71",
       "time": "2026-08-10 21:32:56",

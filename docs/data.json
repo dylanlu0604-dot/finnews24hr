@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-10 21:33:25",
-  "count": 15901,
+  "updated": "2026-08-10 21:37:37",
+  "count": 15894,
   "items": [
+    {
+      "id": "5034269",
+      "time": "2026-08-10 21:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "錫耶納治療公司股價暴跌91%，原因是該公司實驗性藥物未達中期試驗目標。"
+    },
+    {
+      "id": "mkt:019febe3-89c0-7aab-8fda-cb7d89fd1950",
+      "time": "2026-08-10 21:36:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "GOLD.O",
+        "Impact bearish"
+      ],
+      "text": "Barrick Gold fell 8% after Q2 profit missed expectations."
+    },
+    {
+      "id": "mkt:019febe2-f350-7aab-8fda-c146c75f401d",
+      "time": "2026-08-10 21:35:46",
+      "tags": [
+        "MKT News",
+        "BRK.A.O",
+        "Impact bearish"
+      ],
+      "text": "Michael Burry, described as the \"big short,\" said he does not view Berkshire Hathaway as an attractive investment going forward."
+    },
+    {
+      "id": "5034268",
+      "time": "2026-08-10 21:35:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "META股價上漲2.1%，創兩週以來新高。"
+    },
+    {
+      "id": "5034267",
+      "time": "2026-08-10 21:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲迎來今年第五輪熱浪 河流、電力和農作物面臨壓力】本週又一輪強烈熱浪將席捲已經十分乾旱的歐洲，不僅將加劇野火風險、威脅農作物，還會進一步導致流域乾涸，而這些流域正為歐洲一些水位已降至極低水平的河流提供水源。法國氣象局預計，高壓形成的“熱穹頂”將推動法國北部氣溫在週二升至接近40攝氏度。歐洲中期天氣預報中心的資料顯示，英格蘭南部氣溫可能升至35攝氏度左右，德國法蘭克福週五則可能達到38攝氏度。這將可能是歐洲今年遭遇的第五輪大範圍熱浪。持續的高壓天氣可能阻擋攜帶水汽的雲系進入，使萊茵河、波河和多瑙河等河流難以獲得降水補給。"
+    },
+    {
+      "id": "5034266",
+      "time": "2026-08-10 21:34:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超5.00%，現報2.796美元/百萬英熱。"
+    },
+    {
+      "id": "te:markets:574149",
+      "time": "2026-08-10 21:34:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "US Natgas Prices Rise on Strong LNG Demand — US natural gas prices rose more than 4% to $2.785 per MMBtu on Monday, supported by stronger demand from liquefied natural gas (LNG) export facilities. Daily flows to the nine major US LNG export plants were on track to reach a one-month high of 17.9 bcfd. Also, average feedgas demand stood at 17.2 bcfd in July, just below June’s monthly record of 17.4 bcfd. Meanwhile, natural gas production in the Lower 48 states averaged a record 111.2 bcfd in August, up from 110.7 bcfd in July. Strong output and relatively mild weather earlier this year have kept inventories above the five-year average since March. Analysts expect the storage surplus to narrow slightly to 6.6% above normal for the week ending August 7. However, forecasts point to continued above-normal temperatures through August 25, which should sustain gas demand from power generators as air-conditioning use remains elevated."
+    },
+    {
+      "id": "5034265",
+      "time": "2026-08-10 21:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "安全港遊艇碼頭公司（Safe Harbor Marinas）接近以15億美元收購海夢公司（MarineMax）後，海夢股價暴漲45%。"
+    },
+    {
+      "id": "5034264",
+      "time": "2026-08-10 21:34:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "AAON股價在公佈第二季度業績後下跌2.8%。"
+    },
+    {
+      "id": "5034263",
+      "time": "2026-08-10 21:33:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "蘋果股價下跌2.5%；傑富瑞將其評級由持有下調至弱於大盤。"
+    },
+    {
+      "id": "5034262",
+      "time": "2026-08-10 21:33:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴里克黃金（Barrick Mining）<ABX.TO>股價因季度利潤不及預期下跌5.5%。"
+    },
     {
       "id": "mkt:019febe0-5b37-7aab-8fda-b94906729d71",
       "time": "2026-08-10 21:32:56",
@@ -144617,183 +144715,6 @@
         "其他"
       ],
       "text": "瑞銀將Unity目標價從28美元上調至32美元。"
-    },
-    {
-      "id": "te:markets:572227",
-      "time": "2026-08-03 21:37:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Flat as Weaker Dollar Counters Easing Geopolitical Risks — Gold was little changed at around $4,030 an ounce on Monday as investors balanced support from a weaker US dollar against reduced safe-haven demand amid easing geopolitical tensions. Oil prices tumbled after optimism grew over a potential US-Iran agreement, reducing inflation concerns and expectations that interest rates will remain elevated for longer. US President Donald Trump said fresh talks with Iran would begin on Monday after holding off on a new attack, although Iran denied that negotiations with Washington were underway. Additional support came from a softer US dollar, which fell to its lowest level since mid-June after authorities intervened in the foreign exchange market to support the yen. Investors are now awaiting a series of US labor market reports, culminating in Friday's nonfarm payrolls release, for further clues on the Federal Reserve's policy path."
-    },
-    {
-      "id": "te:markets:572226",
-      "time": "2026-08-03 21:36:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "NextEra Energy Stock Price Hits 5-week Low — NextEra Energy shares decreased to 86.01 USD, the lowest since June 2026. Over the past 4 weeks, NextEra Energy gained 0.64%, and in the last 12 months, it increased 23.47%."
-    },
-    {
-      "id": "5022829",
-      "time": "2026-08-03 21:36:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【谷歌總市值超過蘋果升至全球第二 達4.51萬億美元】美股市值排行再度發生變化，谷歌超過蘋果升至全球第二。截至發稿，英偉達股價下跌1.03%，總市值報4.81萬億美元。谷歌-A股價上漲3.5%，總市值報4.51萬億美元。蘋果股價下跌0.7%，總市值報4.48萬億美元。"
-    },
-    {
-      "id": "5022828",
-      "time": "2026-08-03 21:35:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4030美元/盎司，日內跌0.46%。"
-    },
-    {
-      "id": "mkt:019fc7d6-1611-7aab-8f58-aadb20ce2c4c",
-      "time": "2026-08-03 21:35:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index rises to highest in over two weeks】The Baltic Dry Index (BDI) rose 111 points, or 4.1%, to 2,843 — its highest since July 15 — as freight rates advanced across all vessel classes. The Capesize index (BCI) gained 268 points, or 6.2%, to 4,564; capesize daily earnings rose $2,435 to $37,892. The Panamax index (BPI) climbed 48 points, or 2.3%, to 2,135 — its highest since July 21 — with panamax daily earnings up $432 to $19,212. The Supramax index (BSI) ticked up 1 point to 1,610. The Handysize index (BHSI) fell 3 points to 884."
-    },
-    {
-      "id": "mkt:019fc7d5-f0b4-7aab-8f58-a74187e76602",
-      "time": "2026-08-03 21:35:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "TRUMP said his administration delivered the largest tax cuts and strongest jobs figures in U.S. history, record external investment, a secure border, victories in Venezuela and progress toward Iranian denuclearization, and broad international respect, and dismissed radical-left polls as fake."
-    },
-    {
-      "id": "mkt:019fc7d5-d06a-7aab-8f58-9d65420fb407",
-      "time": "2026-08-03 21:35:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "US July S&P Global Manufacturing PMI final due in 10 minutes."
-    },
-    {
-      "id": "5022827",
-      "time": "2026-08-03 21:34:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：我真實的民調資料，絕非假新聞媒體編造出來的數字，如今處於史上最佳水平。我們推行史上規模最大的減稅政策，就業資料表現亮眼，吸引全球有史以來規模最大的外來赴美投資；邊境管控全面穩固，在委內瑞拉事務上取得重大勝利，推動伊朗實現無核化，在全球收穫前所未有的聲望與成就，還有諸多斐然成果，民調走高本就理所應當。不要相信激進左翼炮製的虛假民調。這群人弄虛作假、腐敗不堪，一心禍國的民主黨人同樣腐化卑劣。投票支援共和黨，重塑美國輝煌！感謝大家對此事的關注！"
-    },
-    {
-      "id": "5022826",
-      "time": "2026-08-03 21:34:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "泰森食品股價在公司下調年度利潤預期後下跌約5%。"
-    },
-    {
-      "id": "5022825",
-      "time": "2026-08-03 21:34:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗戰事如何繼續？美軍開始內部“求支招”】訊息人士披露，對伊朗的戰事陷入僵局之時，美軍中央司令部開始在內部廣泛徵集“有創意、非常規”的建議以開啟局面。 美國有線電視新聞網（CNN）3日援引兩名訊息人士的話報道，中央司令部一名高階軍官上週在發給眾多軍方分析師的電子郵件中寫道：“我們正在尋求有創意、非常規方式，以施壓和懲罰伊朗”。 一些美軍官員表示，在美軍中傳送電子郵件廣泛徵求建議的方式並不常見。（新華社）"
-    },
-    {
-      "id": "mkt:019fc7d5-2922-7aab-8f58-960c0b406c26",
-      "time": "2026-08-03 21:34:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said his real polling figures, not those fabricated by the fake-news media, are at their best level ever and asked why that should be a problem."
-    },
-    {
-      "id": "5022824",
-      "time": "2026-08-03 21:34:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "灰石為加利福尼亞州埃爾卡洪的兩個多戶住宅社群提供了1.058億美元房地美再融資貸款。"
-    },
-    {
-      "id": "5022823",
-      "time": "2026-08-03 21:34:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "維薩股價上漲1.1%；維薩將以24億美元收購Biocatch。"
-    },
-    {
-      "id": "5022822",
-      "time": "2026-08-03 21:33:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "eBay股價下跌3.5%，此前富國銀行將該股評級從持平下調至減持。"
-    },
-    {
-      "id": "mkt:019fc7d4-9e70-7aab-8f58-8be1bf743e27",
-      "time": "2026-08-03 21:33:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran war leaves Belgium fully reliant on Russian LNG in July】Agency-compiled ship-tracking data show Belgium, Europe’s fifth-largest LNG importer last year, relied entirely on Russian LNG imports in July after Middle East fighting sharply reduced supplies to Europe. July LNG inflows to Belgium were down more than 40% YoY; shipments from Russia totaled about 400,000 tonnes. Disruptions to shipping through the Strait of Hormuz have kept gas prices elevated and led many European buyers to defer LNG purchases for winter storage. The reliance highlights a policy tension as the EU has decided to ban Russian LNG imports from next year. Belgium also receives pipeline gas from Norway and the UK."
-    },
-    {
-      "id": "5022821",
-      "time": "2026-08-03 21:33:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗戰爭使比利時在7月完全依賴俄羅斯供應的液化天然氣】由於中東戰爭導致對歐洲的供應急劇減少，比利時上個月在液化天然氣進口方面完全依賴俄羅斯。此外，由於霍爾木茲海峽航運受阻導致天然氣價格持續高企，歐洲大多數買家一直推遲購買液化天然氣用於冬季儲備。儘管比利時從俄羅斯進口的液化天然氣數量低於今年早些時候，但這一情況令歐盟能源政策陷入尷尬。此前，歐盟已決定從明年開始禁止進口俄羅斯液化天然氣。據機構彙編的船舶追蹤資料，去年作為歐洲第五大液化天然氣進口國的比利時，7月份液化天然氣進口量同比下降超過40%。資料顯示，該國當月從俄羅斯購買了約40萬噸液化天然氣。此外，比利時還透過管道從挪威和英國獲得天然氣。"
-    },
-    {
-      "id": "te:markets:572224",
-      "time": "2026-08-03 21:33:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Gain on Monday — US stocks rose on Monday with support from a rebound in Treasury securities. The S&P 500 rose 0.5%, the Dow added over 600 points, and the Nasdaq inched higher. The US refrained from striking Iran over the weekend and fuel prices pulled back. The moves drove yields to decline across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, Visa, and Goldman Sachs gaining over 1%. Large-cap tech companies also gained, with Amazon soaring 5%. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 4%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow."
-    },
-    {
-      "id": "5022820",
-      "time": "2026-08-03 21:33:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非汽車協會：南非 7 月新車銷量 57708 輛，同比下降 11.9%。"
     }
   ]
 }
