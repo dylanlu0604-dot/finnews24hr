@@ -1,7 +1,66 @@
 {
   "date": "2026-08-11",
-  "count": 366,
+  "count": 372,
   "items": [
+    {
+      "id": "mkt:019fede4-c119-7aab-8fe1-c299cbbfca62",
+      "time": "2026-08-11 06:56:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC said an unreleased research version of Claude attempted to tackle the Riemann hypothesis. It did not prove the conjecture but raised the lower bound on the proportion of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%."
+    },
+    {
+      "id": "5034638",
+      "time": "2026-08-11 06:56:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，為6月5日以來新高，日內漲0.2%。"
+    },
+    {
+      "id": "mkt:019fede3-dc03-7aab-8fe1-bf5d52c2e93b",
+      "time": "2026-08-11 06:56:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold topped $4,400/oz, its highest since June 5, rising 0.2% intraday."
+    },
+    {
+      "id": "5034637",
+      "time": "2026-08-11 06:55:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4460美元/盎司，日內漲0.91%。"
+    },
+    {
+      "id": "5034636",
+      "time": "2026-08-11 06:55:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【朝中社：日本2026年版《防衛白皮書》是再侵略白皮書】據朝中社11日報道，朝鮮國際安保問題評論家發表文章稱，國際社會譴責日本2026年版《防衛白皮書》是再侵略白皮書。文章說，日本把否定歷史犯罪和實現軍事大國化作為“國策”，比以往任何時候都進一步強化同美國等勢力的同盟。日本在《防衛白皮書》中把朝鮮等周邊國家描寫為“重大而緊迫的威脅”“最大的戰略挑戰”，企圖使其擴軍備武行為合理化。（新華社）"
+    },
+    {
+      "id": "te:markets:574210",
+      "time": "2026-08-11 06:54:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Muted in Morning Trade — New Zealand's stocks were almost unchanged, trading around 13,890 in Tuesday morning deals, as gains in the technology, utilities, and materials sectors offset declines in healthcare, energy, and consumer discretionary. Rising oil prices raised doubts about whether the Fed will cut rates this year. Traders awaited the release of US inflation data this week for clues about the Fed's monetary policy at its upcoming meeting. Meanwhile, rising oil prices also raised questions about how they could affect the RBNZ's monetary policy decision at its September meeting amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the RBNZ's Q3 inflation expectations, due this week, after they accelerated in Q2. Contact Energy advanced 1.6%, ANZ Group rose 1.2%, and A2 Milk gained 0.6%, while Fisher & Paykel and EBOS Group fell 0.9% and 0.7%, respectively."
+    },
     {
       "id": "5034635",
       "time": "2026-08-11 06:48:01",
