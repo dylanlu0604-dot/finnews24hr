@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-10 21:21:07",
-  "count": 15901,
+  "updated": "2026-08-10 21:25:18",
+  "count": 15899,
   "items": [
+    {
+      "id": "mkt:019febd8-a11e-7aab-8fda-73f326a8ae63",
+      "time": "2026-08-10 21:24:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local officials said an earthquake in Colombia caused severe damage and casualties in Pereira."
+    },
+    {
+      "id": "5034245",
+      "time": "2026-08-10 21:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "省長表示，哥倫比亞佩雷拉市地震造成嚴重破壞和傷亡。"
+    },
+    {
+      "id": "5034244",
+      "time": "2026-08-10 21:22:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我已與最高領袖會面，我們就各項議題進行了交流，他身體狀況完全健康。"
+    },
+    {
+      "id": "mkt:019febd6-9dee-7aab-8fda-6ba211b07599",
+      "time": "2026-08-10 21:22:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian President Pezeshkian says Iran's Supreme Leader is in very good health."
+    },
+    {
+      "id": "5034243",
+      "time": "2026-08-10 21:21:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匯天工廠第1000套電推進單元下線，創全球eVTOL行業800V電推進單元最大規模紀錄】8月10日，匯天飛行汽車量產工廠陸地航母飛行器第1000套電推進單元正式下線，這也創下了全球eVTOL行業800V電推進單元最大規模生產紀錄。據介紹，電推進單元是飛行器的“動力心臟”，包含電動發動機和螺旋槳，負責將電能轉化為飛行所需的升力與推力，其效能直接關係飛行器能否安全、穩定、高效地飛行。此次陸地航母飛行器第1000套電推進單元下線，也意味著該廠商已具備飛行器核心動力部件規模化、標準化生產能力。"
+    },
+    {
+      "id": "5034242",
+      "time": "2026-08-10 21:21:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將伯克希爾哈撒韋目標股價從877848美元上調至906011美元。"
+    },
     {
       "id": "5034241",
       "time": "2026-08-10 21:19:58",
@@ -144718,77 +144766,6 @@
         "公司"
       ],
       "text": "【江蘇無錫新吳區通報牛蛙涉抗生素超標：上游供應商庫存快檢陰性】江蘇無錫高新區（新吳區）市場監管局、無錫高新區（新吳區）農業農村局8月3日釋出情況通報，全文如下：8月3日上午，我區關注到有媒體報道全國多地牛蛙產品涉嫌抗生素超標問題，其中提及我區瑞勝食品（無錫）有限公司。對此，我區高度重視，第一時間成立調查組，趕赴涉事企業開展全面現場核查。經查，該企業從事水產品和食用農產品銷售等業務，現場未發現牛蛙及牛蛙製品庫存成品。調查組立即開展鏈上追溯，對上游供應商單位進行排查檢查，並對上游供應商鮮活牛蛙庫存進行快檢和抽樣檢測，快檢結果均為陰性，相關情況正在深入調查中，調查組將依據抽樣檢測結果，依法依規嚴肅處理。同時，根據上級專項部署，在全區持續深入開展專項排查，嚴厲打擊涉牛蛙產品違法行為，堅決維護消費者合法權益。（新吳監管）"
-    },
-    {
-      "id": "5022799",
-      "time": "2026-08-03 21:25:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍中央司令部發言人：我方部隊保持高度警惕，並已做好隨時執行任何指派任務的準備。"
-    },
-    {
-      "id": "5022798",
-      "time": "2026-08-03 21:24:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新一代大模型公司西湖心辰完成B+輪融資，由西湖大學博導藍振忠創立】新一代大模型公司西湖心辰8月3日宣佈，公司近日完成B+輪融資，融資金額達數億元人民幣，由廣發信德領投，西湖創新投、武漢江豚基金、容億投資、南通投管等多家機構跟投，58產業基金等產業資本參與，老股東螞蟻集團、湯姆貓提供全面支援。融資資金將主要用於新一代擴散語言模型的持續研發、旗下原生多模態實時互動產品的深度迭代，以及海外市場的進一步拓展。（澎湃）"
-    },
-    {
-      "id": "te:markets:572222",
-      "time": "2026-08-03 21:23:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Cocoa Rises to Over 2-Week High — Cocoa prices climbed above $5,700 per tonne, their highest level since July 15, after Ghana projected a sharp decline in cocoa production for the 2026/27 season. Market regulator COCOBOD expects output to fall by at least 16%, citing unfavorable weather, the cocoa tree's natural alternating yield cycle, disease, ageing plantations and illegal gold mining. Supply concerns were reinforced by expectations of a more than 10% decline in Ivory Coast's production next season. While crop prospects remain generally favorable, farmers said more sunshine and timely fertilizer and pesticide applications are needed, warning that excessive rainfall later in the season could increase disease risks and further tighten global cocoa supplies."
-    },
-    {
-      "id": "5022797",
-      "time": "2026-08-03 21:23:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【嫦娥六號月壤新發現：月球背面更兇險】月球的正面和背面，空間環境差別大嗎？基地建在正面和建在背面，面臨的挑戰有何不同？2026年7月，我國科研團隊依託嫦娥六號帶回的1935克月背土壤樣本，給出了部分答案。詳情發表在國際頂級期刊《自然·地球科學》。團隊透過分析月壤裡稀有氣體的“化學指紋”，證實了困擾科學界數十年的猜想：地球龐大的磁層會給太陽風減速，造成月球正面、背面遭受的宇宙粒子轟擊強度天差地別，月壤這份天然宇宙檔案，第一次完整記錄下地月空間環境的半球差異。（央視）"
-    },
-    {
-      "id": "5022796",
-      "time": "2026-08-03 21:22:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "追蹤資料顯示，過去幾天，6艘沙特巨型油輪改變航線，避開亞丁灣，駛往南非。"
-    },
-    {
-      "id": "mkt:019fc7ca-4cb4-7aab-8f58-559971b4e19c",
-      "time": "2026-08-03 21:22:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot palladium fell more than 4.00% intraday to $1,241.75/oz. Spot gold turned lower intraday."
-    },
-    {
-      "id": "5022795",
-      "time": "2026-08-03 21:22:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【瑞銀：美國AI資料中心建設不會停擺 監管重點轉向電力與成本分擔】瑞銀在最新報告中指出，美國AI資料中心建設不太可能停止，但地方居民對電價、水資源和土地佔用的擔憂，以及州政府對審批、稅收優惠和基礎設施成本的重新審視，將迫使行業改變發展方式。瑞銀預計，到2027年，美國在AI計算能力方面的投資可能達到國內經濟產出的約3%，其中相當部分將用於資料中心及相關基礎設施建設。"
-    },
-    {
-      "id": "5022794",
-      "time": "2026-08-03 21:21:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮發言人：美國總統特朗普將於週二訪問加利福尼亞州，週三前往內華達州，宣傳經濟成就。"
     }
   ]
 }
