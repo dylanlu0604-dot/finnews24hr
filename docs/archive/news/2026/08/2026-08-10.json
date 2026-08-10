@@ -1,7 +1,111 @@
 {
   "date": "2026-08-10",
-  "count": 2370,
+  "count": 2381,
   "items": [
+    {
+      "id": "mkt:019fec0d-d70f-7aab-8fdb-d70f5d16d941",
+      "time": "2026-08-10 22:22:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Rezaei appointment signals tighter coordination among Iran's military, political and religious leadership】Former IRGC commander Mohsen Rezaei’s appointment as Iran’s new national security chief marks a rise in hardline influence and closer coordination between the IRGC, the Supreme Leader’s office and the presidency, security analyst Wolfgang Pustai said. He added that, although some hardliners and moderates have sought negotiation, Rezaei’s selection clearly signals Tehran intends to press its strategic posture in the Strait of Hormuz and its nuclear programme on its own terms and to handle the current situation in its preferred way."
+    },
+    {
+      "id": "mkt:019fec0d-916c-7aab-8fdb-cc534a13046c",
+      "time": "2026-08-10 22:22:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Zhipu API users near 7 mln; over 50k domestic compute chips activated】Sources say Zhipu's MaaS open platform has nearly 7 mln registered API users, up about 2 mln since early July, including roughly 23k enterprise clients. Developer product ZCode, positioned against CODEX, surpassed 1 mln users within a month. Zhipu's ARR has risen about 15-fold YTD; sources add ARR growth was unaffected by launches of Kimi and Alibaba's new models. One investor told reporters ARR has reached $2 bln, a claim Zhipu denies; people close to the company say the true figure is likely higher. Market reports from July 21 indicate Zhipu has built roughly 1 GW of domestic AI compute infrastructure, with more than 50k domestically produced compute chips activated to handle rising inference demand. On July 31 Zhipu reopened purchases of its long-locked Coding Plan after a substantial price increase."
+    },
+    {
+      "id": "5034338",
+      "time": "2026-08-10 22:22:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜API使用者數近700萬，新啟用超5萬塊國產算力晶片】據悉，智譜MaaS開放平臺註冊使用者（即API使用者）近700萬，相比七月初增長約200萬，其中包括2.3萬家企業客戶，對標Codex的開發者產品ZCode上線1個月使用者突破百萬。今年以來，智譜ARR增長15倍，根據我們瞭解，在Kimi和阿里新模型釋出後，智譜ARR增速沒有受影響。有投資人透露目前ARR來到20億美元，但智譜官方已經否認，接近公司的人表示，實際數字應該更高。7月21日，市場傳出智譜已建成規模1GW的國產AI算力基礎設施，據瞭解，有超過5萬塊國產算力晶片已經啟用，以緩解日益增長的推理需求，7月31日，智譜長期限售的Coding Plan在大幅漲價後已開放購買。（晚點）"
+    },
+    {
+      "id": "5034337",
+      "time": "2026-08-10 22:22:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部滾動會商部署颱風“白海豚”暴雨洪水防禦工作】新華社北京8月10日電（記者魏弘毅）記者從水利部瞭解到，水利部10日舉行專題會商，滾動分析研判今年第13號颱風“白海豚”發展態勢及影響，對臺風暴雨洪水防禦工作再部署、再落實。"
+    },
+    {
+      "id": "5034336",
+      "time": "2026-08-10 22:21:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Anthropic攜手麥格理和GIC建設AI資料中心 初期聚焦美國】Anthropic PBC與麥格理資產管理和新加坡主權財富基金GIC建立戰略合作伙伴關係，為這家Claude開發商建設資料中心。這些公司週一表示，新成立的實體名為Theseus Infrastructure，將作為開發人工智慧計算設施的平臺，“初期重點”放在美國。麥格理和GIC承諾為每個專案提供大部分股權資金，而Anthropic承諾承擔這些設施可能導致的任何居民電價上漲。各方沒有透露計劃投資金額或專案規模的任何細節。"
+    },
+    {
+      "id": "5034335",
+      "time": "2026-08-10 22:21:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的置業：擬派發2026年中期股息每股0.12港元，持續兌現股東回報】8月10日，美的置業（3990.HK）釋出2026中期業績公告。公司上半年實現營業收入18.8億元，毛利6.3億元，同比增長2.6%，毛利率為33.5%，增長2.7個百分點，核心淨利潤2.6億元，宣派中期股息每股0.12港元。財務指標方面，公司淨資產達50.6億元，現金及銀行存款總計11.7億元，資本結構保持健康水平，資金儲備充裕。自2018年上市以來，美的置業連續8年在行業內保持具有競爭力的派息政策，中期派息率達58%，持續兌現股東回報承諾，以穩健的財務底盤和充裕的現金儲備，為持續高分紅政策提供堅實保障。"
+    },
+    {
+      "id": "mkt:019fec0c-3876-7aab-8fdb-c48d6ec1f0f2",
+      "time": "2026-08-10 22:20:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Haitong Development on H2 dry-bulk outlook】At an Aug. 10 results briefing, Haitong Development said rising short-term El Niño risk is boosting summer coal demand but is disrupting Panama Canal transit. Middle East tensions have lifted oil and gas prices and, combined with higher US hydrocarbon exports, increased tanker traffic through the Canal. Daily transit capacity is limited and congestion has already emerged; bulk carriers unable to pay queue-jump fees have been forced to reroute. El Niño is also lowering Panama water levels and reducing transit efficiency. The company expects congestion to worsen after Sep. 2026 when the North American grain season and US soybean exports ramp up. Looking to Q4, the end of the West African rainy season should allow a sharp recovery in shipments."
+    },
+    {
+      "id": "5034334",
+      "time": "2026-08-10 22:19:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【對下半年幹散貨行情如何展望？海通發展回應】關於“公司對下半年幹散貨行情如何展望”的問題，海通發展8月10日在業績說明會表示，短期來看，超級厄爾尼諾風險正在提升，一方面提振夏季煤炭需求，另一方面將對巴拿馬運河通行產生影響。今年以來，中東局勢推高油氣價格，美國油氣出口增加導致大量油輪走巴拿馬運河，而巴拿馬運河日通行量有限，目前已出現擁堵，散貨船無法承擔插隊費只能繞行；另外，厄爾尼諾會導致巴拿馬運河水位降低，整體通行效率下降，預計2026年9月北美糧季、美國大豆出口啟動後，擁堵情況會進一步加劇。展望四季度，西非雨季屆時將結束，發運量將迎來大幅恢復。"
+    },
+    {
+      "id": "mkt:019fec0b-29b2-7aab-8fdb-bff1bdd399f7",
+      "time": "2026-08-10 22:19:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【U.S. natural gas futures surge as heat forecast and rising Gulf Coast LNG flows tighten market】U.S. natural gas futures posted their largest gain in over two months after weather models turned sharply warmer. The Weather Company said forecasts show much warmer conditions over the next few weeks, especially across the U.S. Midwest and South, likely boosting electric cooling demand and gas-fired power burn. Pipeline flows to Gulf Coast LNG terminals jumped to the highest level in more than a month as some facilities appear to have completed seasonal maintenance, reducing domestic surplus; those bullish factors prompted hedge funds to buy gas futures aggressively."
+    },
+    {
+      "id": "mkt:019fec0a-7070-7aab-8fdb-b16cf23b515f",
+      "time": "2026-08-10 22:18:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan, Iran foreign ministers speak by phone on regional situation】On Aug. 10 Pakistan’s deputy prime minister and foreign minister spoke by phone with Iran’s foreign minister to exchange views on regional and international developments, focusing on recent regional developments and efforts to promote peace and stability. Pakistan briefed Iran on the main terms of the Mecca joint defense pact recently signed by Pakistan, Saudi Arabia and Turkey, saying the agreement aims to deepen strategic cooperation and contribute to regional peace and security. Iran’s foreign minister thanked Pakistan and both agreed to maintain close contact on shared concerns."
+    },
+    {
+      "id": "5034333",
+      "time": "2026-08-10 22:18:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦與伊朗外長通話 就地區局勢交換意見】當地時間8月10日，巴基斯坦外交部通報，巴基斯坦副總理兼外交部長達爾與伊朗外交部長阿拉格齊通電話。雙方就地區和國際形勢交換了意見，重點討論了地區局勢的最新發展，以及推動和平與穩定的相關努力。達爾還向阿拉格齊介紹了巴基斯坦、沙烏地阿拉伯和土耳其近期簽署的《麥加共同防務協議》的主要內容，並強調該協定旨在加強戰略合作，為地區和平與安全作出貢獻。阿拉格齊對達爾的介紹表示感謝。兩國外長同意，就共同關心的問題繼續保持密切聯絡。（央視）"
+    },
     {
       "id": "5034332",
       "time": "2026-08-10 22:18:12",
