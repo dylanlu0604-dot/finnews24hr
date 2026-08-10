@@ -1,7 +1,144 @@
 {
-  "updated": "2026-08-10 15:16:20",
-  "count": 15963,
+  "updated": "2026-08-10 15:20:22",
+  "count": 15965,
   "items": [
+    {
+      "id": "mkt:019fea8a-114c-7aab-8fd3-ef265ebcc9b3",
+      "time": "2026-08-10 15:19:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's prime minister said rising Danube water levels have allowed the Paks nuclear power plant to begin reverting one turbine to its original state."
+    },
+    {
+      "id": "5033452",
+      "time": "2026-08-10 15:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理表示，隨著多瑙河水位上漲，帕克什核電站其中一臺渦輪機已啟動恢復重啟作業。"
+    },
+    {
+      "id": "mkt:019fea89-6817-7aab-8fd3-e41f9f9d345b",
+      "time": "2026-08-10 15:18:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【July IPO registration approvals hit highest monthly level this year】July saw a supply peak in China’s IPO market: 21 firms received registration approvals — the highest monthly tally year-to-date — with the Beijing Stock Exchange accounting for over half. The Sci‑Tech Innovation Board (STAR Market) approved four firms. On the issuance front, 20 IPOs began prospectus/bookbuilding in July, lifting aggregate fundraising to a year-to-date record; Changxin Technology raised 57.92 bln yuan, the largest A‑share IPO since the registration-based system was adopted."
+    },
+    {
+      "id": "mkt:019fea88-f80b-7aab-8fd3-dea9b152319c",
+      "time": "2026-08-10 15:17:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09866.HK",
+        "Impact bullish",
+        "00992.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Tech Index rose more than 1% at the close; Nio-SW (09866.HK) and Lenovo Group (00992.HK) led component gains. The Hang Seng Index traded up nearly 1%."
+    },
+    {
+      "id": "5033451",
+      "time": "2026-08-10 15:17:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日元貶值紅利釋放 日本企業出現上調業績潮】據報道，日元走弱正為日本跨國企業帶來顯著商業利好，許多企業在最新一輪財報季中上調了業績預期。儘管日本政府近期採取了干預措施，市場預計日元仍將承壓。因此，包括豐田汽車（Toyota Motor）、本田汽車（Honda Motor）、索尼（Sony）以及無印良品母公司株式會社良品計劃等海外業務佔比較高的企業，紛紛上調了業績展望。根據岡三證券報告，在東證指數約1600家成分股公司中，自7月1日以來，已有159家公司上調財年業績預期，僅12家公司下調預期。整體業績預期調整比例達到86%，為2016財年以來最高水平。"
+    },
+    {
+      "id": "mkt:019fea88-dbb1-7aab-8fd3-d7657ff6fbc7",
+      "time": "2026-08-10 15:17:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "【Yen weakness sparks wave of earnings upgrades among Japanese exporters】Japanese media report the weaker yen is providing a material tailwind to multinational exporters, prompting a wave of fiscal-year earnings upgrades this reporting season. Despite recent government FX intervention, markets expect the yen to remain under pressure. Export-heavy firms including Toyota Motor, Honda Motor, Sony and Muji parent Ryohin Keikaku have raised profit outlooks. Okasan Securities says that among TOPIX’s roughly 1,600 constituents, since July 1, 159 firms have upgraded fiscal-year forecasts and 12 have cut them; the overall forecast-revision ratio reached 86%, the highest since FY2016."
+    },
+    {
+      "id": "mkt:019fea88-6254-7aab-8fd3-ca478ea8785b",
+      "time": "2026-08-10 15:17:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ex-US Air Force secretary accused of disclosing Air Force One classified details; clearance revoked】Former US Air Force secretary Frank Kendall, a Democrat who served under President Biden, is accused of disclosing classified details about Air Force One to reporters and has had his security clearance revoked. In a recent interview Kendall said a Boeing 747 reportedly gifted by Qatar to current Republican President Donald Trump has security shortcomings; he said he was \"surprised\" the plane would be used outside the US, described the refit as rushed and questioned whether security features had been \"maximized.\" Pentagon spokesman Sean Parnell said on social media Kendall \"unauthorizedly disclosed classified information\" about Air Force One’s capabilities, and that Kendall’s access to classified information has been revoked and he is barred from sensitive positions."
+    },
+    {
+      "id": "5033450",
+      "time": "2026-08-10 15:17:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4907.270點；恒生指數現漲0.965%。"
+    },
+    {
+      "id": "5033449",
+      "time": "2026-08-10 15:17:02",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【7月IPO註冊批文創年內單月新高】7月IPO市場迎來年內供給高峰，根據記者統計，在註冊端，共有21家IPO企業披露註冊批文，創下年內單月新高。其中北交所貢獻佔比過半；科創板保持年內相對較高的註冊節奏，當月共有4家獲批。在發行端，7月共有20家IPO企業啟動招股工作，在年內處於高位水平，合計募資規模重新整理年內紀錄。其中長鑫科技以579.19億元的實際募資額，成為註冊制以來A股最大IPO。（證券時報）"
+    },
+    {
+      "id": "te:economy:574059",
+      "time": "2026-08-10 15:16:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Slovakia Industrial Output Rebounds in June — Industrial production in Slovakia increased by 2.1% year-on-year in June 2026, defying expectations of a 0.6% fall, ending a four-month period of decline and marking the second increase this year. The recovery was supported by higher output in 10 of the 15 monitored industrial sectors, led by the manufacture of basic metals, which rose 6.6% and made the largest positive contribution to overall growth. Output also increased sharply in the manufacture of chemicals and chemical products (30.8%) and machinery and equipment n.e.c. (6.6%), while the manufacture of motor vehicles returned to growth after four months of decline, rising 1.7%. By contrast, the manufacture of computer, electronic and optical products fell 36.5%, making the largest negative contribution to industrial production. On a seasonally adjusted monthly basis, industrial production decreased 0.7%. In the first half of 2026, industrial production declined 0.8% year-on-year."
+    },
+    {
+      "id": "mkt:019fea87-972a-7aab-8fd3-c3f8fc18f193",
+      "time": "2026-08-10 15:16:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】Most-active 2-year (TS) contract fell 0.01%, 5-year (TF) rose 0.02%, 10-year (T) rose 0.04% and 30-year (TL) rose 0.32%."
+    },
+    {
+      "id": "te:markets:574058",
+      "time": "2026-08-10 15:16:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.67% Higher — The Shangai Composite Index gained 27 points or 0.67 percent on Monday to close at 3967 points. Gains were led by Avic Shenyang Aircraft (5.97%), Shaanxi Coal (3.87%) and Kweichow Moutai (2.99%). Biggest losers were Sanan Optoelectron (-3.82%), China Life Insurance (-2.49%) and China Pacific Insu (-1.84%)."
+    },
+    {
+      "id": "mkt:019fea87-5f02-7aab-8fd3-bfd46c47fb24",
+      "time": "2026-08-10 15:16:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 30-year bond yield rose 5 bps to 3.98%."
+    },
     {
       "id": "te:economy:574057",
       "time": "2026-08-10 15:15:04",
@@ -145213,114 +145350,6 @@
         "其他"
       ],
       "text": "巴加埃表示，只要美國的\"侵略\"行為持續，與阿曼就航線達成協議不足以促成海峽重新開放，局勢將維持現狀。"
-    },
-    {
-      "id": "5021849",
-      "time": "2026-08-03 15:19:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美、布兩油短線小幅走高，伊朗方面表示沒有在與美國進行對話。"
-    },
-    {
-      "id": "5021848",
-      "time": "2026-08-03 15:19:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部召開全國秋糧生產現場推進會 強調統籌抓好田間管理和農業防災減災救災】近日，全國秋糧生產現場推進會在山東德州召開。會議指出，秋糧是全年糧食生產的大頭，奪取豐收關鍵在秋糧。當前，全國進入防汛抗旱關鍵期，也是秋糧產量形成關鍵期。要深刻認識抓好秋糧田管和防災減災的重要性緊迫性，切實增強責任感使命感，盯緊盯牢關鍵環節，落實落細關鍵措施，全面夯實秋糧生產基礎。會議強調，要紮實推進奮戰100天強田管抗災害奪秋糧豐收行動，分作物分割槽域落實肥水管理、“一噴多促”等措施，促進苗情轉化升級。要落實汛期農業防災減災預案，盯牢暴雨洪澇、乾旱、高溫熱害、颱風等災害，加強監測預警，及早防範應對，用好農業生產救災資金，最大程度減輕災害損失。要盯緊水稻二化螟和“兩遷”害蟲、玉米螟和南方鏽病等重大病蟲害，推進統防統治、聯防聯控、應急防控，全力打好重大病蟲害防控攻堅戰。河北、內蒙古等13個糧食主產省（區）作了重點交流發言。會議代表觀摩了德州市陵城區“噸半糧”建設和禹城市大豆玉米帶狀複合種植示範現場，有關專家開展了田間課堂技術講解。(農業農村部)"
-    },
-    {
-      "id": "mkt:019fc67e-155f-7aab-8f50-c9e7991b598d",
-      "time": "2026-08-03 15:19:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "U.S. (WTI) and Brent crude futures edged up briefly; Iran’s foreign minister said Tehran is not in talks with the US."
-    },
-    {
-      "id": "5021847",
-      "time": "2026-08-03 15:19:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部等三部門開展碳效領跑者企業遴選】工業和資訊化部等三部門日前聯合印發《關於組織開展2026年度重點行業能效、碳效領跑者企業推薦工作的通知》，旨在促進工業企業實施節能降碳改造，推動重點行業綠色低碳轉型。這是我國首次開展碳效領跑者企業遴選。通知提出，進一步擴大重點行業能效領跑者覆蓋行業範圍，新增工業硫酸、工業冰醋酸、甲醛、苯乙烯和單晶矽等細分行業，推薦範圍拓展至43個細分行業。在能效領跑者工作基礎上，此次還創新開展碳效領跑者推薦工作，並將電解鋁、水泥熟料、合成氨、乙烯、甲醇等5個行業作為首批碳效領跑者企業推薦範圍。（新華社）"
-    },
-    {
-      "id": "mkt:019fc67d-1f68-7aab-8f50-c113b260f4e2",
-      "time": "2026-08-03 15:18:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran Foreign Ministry spokesman Baghaei said Iran is working with Oman to establish a temporary security corridor in the Strait of Hormuz."
-    },
-    {
-      "id": "5021846",
-      "time": "2026-08-03 15:18:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民爆光電：當前公司訂單飽滿】民爆光電8月3日在互動平臺表示，公司目前已完成發行股份購買資產相關材料的申報；目前公司擴產進展順利，預計到2026年底產能將突破4000萬支/月；當前公司訂單飽滿。"
-    },
-    {
-      "id": "mkt:019fc67c-c7e5-7aab-8f50-bb563a2e113f",
-      "time": "2026-08-03 15:18:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian foreign ministry spokesman Baghaei said Iran is not currently in dialogue with the United States and is holding talks with Oman on the Strait of Hormuz."
-    },
-    {
-      "id": "5021845",
-      "time": "2026-08-03 15:17:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：伊朗目前未與美國進行任何談判】伊朗外交部發言人巴加埃表示，伊朗目前未與美國進行任何談判，目前正在與阿曼就霍爾木茲海峽問題開展對話。正與阿曼合作在霍爾木茲海峽開闢臨時安全通道。"
-    },
-    {
-      "id": "te:markets:572106",
-      "time": "2026-08-03 15:17:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX 40 Hits Record High as Falling Oil Prices Lift Market Sentiment — Frankfurt's DAX 40 rose more than 1% to a record high of 25,910 points in the first trading session of August, as a sharp drop in oil prices lifted risk appetite by easing concerns over inflation and higher interest rates. Crude prices fell on hopes of renewed US-Iran talks after President Donald Trump said negotiations would begin on Monday, though he gave no deadline for a deal. Markets were also supported by mostly upbeat corporate earnings and a continued recovery in global AI-related stocks. Corporate news was limited ahead of a busier earnings calendar later this week. Stabilus gained more than 1% after its detailed quarterly results confirmed preliminary figures, while E.ON rose 1.5% after Jefferies upgraded the stock to \"Buy\" from \"Hold\" and raised its price target to €22.70 from €17.40."
-    },
-    {
-      "id": "5021844",
-      "time": "2026-08-03 15:17:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體，洛雷斯坦省教育廳廳長表示，在戰爭期間，該省94所受損學校中，有11所遭受嚴重破壞。受損學校的修復和新建工作正在優先推進，以在新學年開學前完成。"
-    },
-    {
-      "id": "5021843",
-      "time": "2026-08-03 15:16:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "HUMAIN：對Mozn進行投資並達成合作，將在全球及本地市場聯合打造企業級人工智慧解決方案。"
     }
   ]
 }

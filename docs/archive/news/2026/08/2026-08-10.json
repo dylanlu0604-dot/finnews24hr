@@ -1,7 +1,144 @@
 {
   "date": "2026-08-10",
-  "count": 1173,
+  "count": 1186,
   "items": [
+    {
+      "id": "mkt:019fea8a-114c-7aab-8fd3-ef265ebcc9b3",
+      "time": "2026-08-10 15:19:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's prime minister said rising Danube water levels have allowed the Paks nuclear power plant to begin reverting one turbine to its original state."
+    },
+    {
+      "id": "5033452",
+      "time": "2026-08-10 15:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "匈牙利總理表示，隨著多瑙河水位上漲，帕克什核電站其中一臺渦輪機已啟動恢復重啟作業。"
+    },
+    {
+      "id": "mkt:019fea89-6817-7aab-8fd3-e41f9f9d345b",
+      "time": "2026-08-10 15:18:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【July IPO registration approvals hit highest monthly level this year】July saw a supply peak in China’s IPO market: 21 firms received registration approvals — the highest monthly tally year-to-date — with the Beijing Stock Exchange accounting for over half. The Sci‑Tech Innovation Board (STAR Market) approved four firms. On the issuance front, 20 IPOs began prospectus/bookbuilding in July, lifting aggregate fundraising to a year-to-date record; Changxin Technology raised 57.92 bln yuan, the largest A‑share IPO since the registration-based system was adopted."
+    },
+    {
+      "id": "mkt:019fea88-f80b-7aab-8fd3-dea9b152319c",
+      "time": "2026-08-10 15:17:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "09866.HK",
+        "Impact bullish",
+        "00992.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Tech Index rose more than 1% at the close; Nio-SW (09866.HK) and Lenovo Group (00992.HK) led component gains. The Hang Seng Index traded up nearly 1%."
+    },
+    {
+      "id": "5033451",
+      "time": "2026-08-10 15:17:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日元貶值紅利釋放 日本企業出現上調業績潮】據報道，日元走弱正為日本跨國企業帶來顯著商業利好，許多企業在最新一輪財報季中上調了業績預期。儘管日本政府近期採取了干預措施，市場預計日元仍將承壓。因此，包括豐田汽車（Toyota Motor）、本田汽車（Honda Motor）、索尼（Sony）以及無印良品母公司株式會社良品計劃等海外業務佔比較高的企業，紛紛上調了業績展望。根據岡三證券報告，在東證指數約1600家成分股公司中，自7月1日以來，已有159家公司上調財年業績預期，僅12家公司下調預期。整體業績預期調整比例達到86%，為2016財年以來最高水平。"
+    },
+    {
+      "id": "mkt:019fea88-dbb1-7aab-8fd3-d7657ff6fbc7",
+      "time": "2026-08-10 15:17:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY"
+      ],
+      "text": "【Yen weakness sparks wave of earnings upgrades among Japanese exporters】Japanese media report the weaker yen is providing a material tailwind to multinational exporters, prompting a wave of fiscal-year earnings upgrades this reporting season. Despite recent government FX intervention, markets expect the yen to remain under pressure. Export-heavy firms including Toyota Motor, Honda Motor, Sony and Muji parent Ryohin Keikaku have raised profit outlooks. Okasan Securities says that among TOPIX’s roughly 1,600 constituents, since July 1, 159 firms have upgraded fiscal-year forecasts and 12 have cut them; the overall forecast-revision ratio reached 86%, the highest since FY2016."
+    },
+    {
+      "id": "mkt:019fea88-6254-7aab-8fd3-ca478ea8785b",
+      "time": "2026-08-10 15:17:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ex-US Air Force secretary accused of disclosing Air Force One classified details; clearance revoked】Former US Air Force secretary Frank Kendall, a Democrat who served under President Biden, is accused of disclosing classified details about Air Force One to reporters and has had his security clearance revoked. In a recent interview Kendall said a Boeing 747 reportedly gifted by Qatar to current Republican President Donald Trump has security shortcomings; he said he was \"surprised\" the plane would be used outside the US, described the refit as rushed and questioned whether security features had been \"maximized.\" Pentagon spokesman Sean Parnell said on social media Kendall \"unauthorizedly disclosed classified information\" about Air Force One’s capabilities, and that Kendall’s access to classified information has been revoked and he is barred from sensitive positions."
+    },
+    {
+      "id": "5033450",
+      "time": "2026-08-10 15:17:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超1%，現報4907.270點；恒生指數現漲0.965%。"
+    },
+    {
+      "id": "5033449",
+      "time": "2026-08-10 15:17:02",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【7月IPO註冊批文創年內單月新高】7月IPO市場迎來年內供給高峰，根據記者統計，在註冊端，共有21家IPO企業披露註冊批文，創下年內單月新高。其中北交所貢獻佔比過半；科創板保持年內相對較高的註冊節奏，當月共有4家獲批。在發行端，7月共有20家IPO企業啟動招股工作，在年內處於高位水平，合計募資規模重新整理年內紀錄。其中長鑫科技以579.19億元的實際募資額，成為註冊制以來A股最大IPO。（證券時報）"
+    },
+    {
+      "id": "te:economy:574059",
+      "time": "2026-08-10 15:16:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Slovakia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Slovakia Industrial Output Rebounds in June — Industrial production in Slovakia increased by 2.1% year-on-year in June 2026, defying expectations of a 0.6% fall, ending a four-month period of decline and marking the second increase this year. The recovery was supported by higher output in 10 of the 15 monitored industrial sectors, led by the manufacture of basic metals, which rose 6.6% and made the largest positive contribution to overall growth. Output also increased sharply in the manufacture of chemicals and chemical products (30.8%) and machinery and equipment n.e.c. (6.6%), while the manufacture of motor vehicles returned to growth after four months of decline, rising 1.7%. By contrast, the manufacture of computer, electronic and optical products fell 36.5%, making the largest negative contribution to industrial production. On a seasonally adjusted monthly basis, industrial production decreased 0.7%. In the first half of 2026, industrial production declined 0.8% year-on-year."
+    },
+    {
+      "id": "mkt:019fea87-972a-7aab-8fd3-c3f8fc18f193",
+      "time": "2026-08-10 15:16:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】Most-active 2-year (TS) contract fell 0.01%, 5-year (TF) rose 0.02%, 10-year (T) rose 0.04% and 30-year (TL) rose 0.32%."
+    },
+    {
+      "id": "te:markets:574058",
+      "time": "2026-08-10 15:16:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.67% Higher — The Shangai Composite Index gained 27 points or 0.67 percent on Monday to close at 3967 points. Gains were led by Avic Shenyang Aircraft (5.97%), Shaanxi Coal (3.87%) and Kweichow Moutai (2.99%). Biggest losers were Sanan Optoelectron (-3.82%), China Life Insurance (-2.49%) and China Pacific Insu (-1.84%)."
+    },
+    {
+      "id": "mkt:019fea87-5f02-7aab-8fd3-bfd46c47fb24",
+      "time": "2026-08-10 15:16:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 30-year bond yield rose 5 bps to 3.98%."
+    },
     {
       "id": "te:economy:574057",
       "time": "2026-08-10 15:15:04",
