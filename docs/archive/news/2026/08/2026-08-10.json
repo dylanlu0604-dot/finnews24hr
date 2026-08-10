@@ -1,7 +1,108 @@
 {
   "date": "2026-08-10",
-  "count": 1202,
+  "count": 1212,
   "items": [
+    {
+      "id": "te:markets:574065",
+      "time": "2026-08-10 15:31:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.11% Higher — The DAX Index is up by 29 points or 0.11 percent on Monday. Top gainers are Infineon (2.67%), Qiagen NV (2.61%) and Siemens Energy (2.18%). Biggest losses came from Porsche Automobil (-2.81%), Siemens Healthineers (-1.16%) and Brenntag (-1.06%)."
+    },
+    {
+      "id": "5033467",
+      "time": "2026-08-10 15:30:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美議員稱美伊協議很糟但必須籤】美國民主黨籍聯邦參議員克里斯·墨菲當地時間8月9日接受採訪時表示，美國實際上“已經輸掉了對伊朗的戰爭”，美國急需結束戰事並恢復霍爾木茲海峽通航，“戰事多拖延一天，美國就會更弱，伊朗則會更加強大”。墨菲還說，儘管美國在現階段可能達成的協議“極不划算”且令伊朗“大獲全勝”，但美國必須接受這份協議，儘快從戰事中抽身。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:economy:574064",
+      "time": "2026-08-10 15:30:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10-Year Gilt Yield Edges Up on Monday — The UK 10-year gilt yield rose to 4.92% on Monday, recovering from a 3-basis-point decline on Friday and remaining above the three-week low of 4.891% reached on August 4. The move came as optimism over a potential US-Iran agreement to reopen the Strait of Hormuz faded after Iran denied holding direct talks with Washington on the issue. An agreement between Iran and Oman to restore shipping through the waterway has yet to materialise, while renewed Houthi attacks added to regional tensions. Meanwhile, weaker-than-expected US jobs data reduced expectations of further Federal Reserve rate hikes. In the UK, the Bank of England left rates unchanged in July, with Governor Andrew Bailey saying disinflation remained on track. The latest KPMG/REC survey showed signs of improvement in the UK labour market, with permanent hiring stabilising and temporary vacancies rising. However, starting salary growth accelerated to a six-month high, potentially complicating the BoE’s policy outlook."
+    },
+    {
+      "id": "mkt:019fea94-6afe-7aab-8fd4-1a8f87c9eec5",
+      "time": "2026-08-10 15:30:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 1.93% at 944.33 yuan/gram on Monday Aug 10. Silver T+D closed up 2.67% at 15,640 yuan/kg."
+    },
+    {
+      "id": "te:markets:574063",
+      "time": "2026-08-10 15:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.02% Lower — The CAC 40 Index is dropping 1 points. Leading the losses are Orange (-1.19%), Edenred (-1.14%) and Publicis (-1.14%). Top gainers were STMicroelectronics (1.96%), LVMH (1.27%) and Hermes International (1.04%)."
+    },
+    {
+      "id": "5033466",
+      "time": "2026-08-10 15:29:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鄭州啟動防汛三級應急響應】8月10日，記者從鄭州市防汛抗旱指揮部獲悉，據市氣象局預報，今年第13號颱風“白海豚”已於9日下午17時30分前後在浙江省台州玉環市坎門街道沿海登陸。10日6時，颱風中心位於浙江省麗水市慶元縣境內，中心附近最大風力9級（23米/秒），預計將以每小時20至25公里的速度向西北方向移動。 受其影響，鄭州市11日至13日將出現暴雨、大暴雨天氣，降水極端性顯著增強。主要降水時段在11日8時至13日8時，過程累計降水量250到400毫米，局地500毫米以上。最大小時降水量60到90毫米，局地100到120毫米。10日夜裡至13日，鄭州市有4級左右東北風，陣風7到8級，局地9級以上。為切實做好第13號颱風“白海豚”引發的強降水災害防範應對工作，根據《鄭州市防汛應急預案》相關規定，經綜合會商研判，市防汛抗旱指揮部決定於8月10日14時30分啟動防汛三級應急響應。 （鄭州釋出）"
+    },
+    {
+      "id": "5033465",
+      "time": "2026-08-10 15:29:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電在武漢成立半導體公司】企查查APP顯示，近日，凱世通半導體（武漢）有限公司成立，法定代表人為餘舒婷，註冊資本為1000萬元，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；機械零件、零部件加工；機械裝置研發等。企查查股權穿透顯示，該公司由先導基電旗下上海凱世通半導體股份有限公司全資持股。"
+    },
+    {
+      "id": "te:economy:574062",
+      "time": "2026-08-10 15:28:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "India 10Y Yield Holds as Fed Bets Ease — The yield on India’s 10-year G-Sec hovered around 6.76%, steadying after rising in the previous session as softer US jobs data and reduced expectations of a September Federal Reserve rate hike supported demand for longer-duration Indian debt, while rising oil prices tempered risk appetite. US employers unexpectedly shed 23,000 jobs in July, versus expectations for an 80,000 increase, prompting investors to cut the odds of a September Fed rate hike to 42% from 55% before the data. US Treasury yields also eased following the release. Meanwhile, Brent crude rose 0.4% to $83.90 a barrel, extending gains for a fourth day and limiting appetite for Indian bonds amid concerns over global inflation. The RBI kept its policy rate unchanged last week, while lowering its core inflation forecast by 40 bps to 4.3% and its headline inflation projection by 10 bps to 5%. Traders are also awaiting July CPI data on Wednesday, with inflation forecast to rise to 4.50% from 4.38% in June."
+    },
+    {
+      "id": "5033464",
+      "time": "2026-08-10 15:28:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南航：預計16時後上海兩大機場航班可基本恢復正常起降】8月10日，受今年第13號颱風“白海豚”外圍及殘餘環流影響的上海航空執行正逐步緩慢恢復。記者從南航上海分公司獲悉，今日中午12:30，南航CZ6998航班（虹橋-烏魯木齊）已從上海虹橋機場順利起飛，標誌著受颱風影響的南航上海地區航班正式開啟逐步恢復模式。截至目前，南航已有CZ3554（虹橋-深圳）、CZ3966（虹橋-深圳）、CZ313（浦東-首爾）、CZ6077（浦東-胡志明）等多個航班陸續順利起飛，後續更多航班正按計劃逐步安排起降。根據氣象部門最新研判，預計今日16:00後臺風帶來的風雨影響將基本好轉，上海兩大機場航班預計可基本恢復正常起降。據南航上海分公司介紹，今日南航在上海地區計劃執行68班進出港航班，其中虹橋24班、浦東44班，此前受颱風影響已取消39班。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019fea92-ba9e-7aab-8fd4-148ff2a7ea99",
+      "time": "2026-08-10 15:28:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Malaysia's palm oil exports from Aug 1-10 totaled 432,742 tonnes, up 9.2% from 396,261 tonnes in the same period in July, AmSpec said."
+    },
     {
       "id": "5033463",
       "time": "2026-08-10 15:27:08",
