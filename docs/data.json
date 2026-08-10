@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-11 04:49:42",
-  "count": 15801,
+  "updated": "2026-08-11 04:53:35",
+  "count": 15803,
   "items": [
+    {
+      "id": "mkt:019fed72-7171-7aab-8fe1-1094abf331f0",
+      "time": "2026-08-11 04:52:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said AI labs and AI startups need compute capacity."
+    },
+    {
+      "id": "5034598",
+      "time": "2026-08-11 04:51:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：人工智慧實驗室及AI初創企業存在算力需求。"
+    },
+    {
+      "id": "mkt:019fed71-d2b4-7aab-8fe1-0872d9585435",
+      "time": "2026-08-11 04:51:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said no one has turned down the new AI financing plan."
+    },
+    {
+      "id": "5034597",
+      "time": "2026-08-11 04:49:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達CEO黃仁勳：對於新一輪人工智慧融資計劃，無人拒絕。"
+    },
     {
       "id": "mkt:019fed6d-a076-7aab-8fe1-04710eba01cd",
       "time": "2026-08-11 04:46:52",
@@ -143806,22 +143851,6 @@
         "Importance 1"
       ],
       "text": "Paraguay Inflation Eases to 1.6% — Paraguay’s annual inflation eased to 1.6% in July 2026 from 2.1% in June, moving further below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.7%), followed by education (5.9%), furniture and household goods (2.1%), healthcare (1.9%), and housing and utilities (1.8%). Meanwhile, transport prices fell 1.1% as lower oil prices, driven by easing Middle East tensions, helped curb overall inflation. Core inflation, which excludes volatile items, fell to 1.5% year-on-year from 1.7% in June. On a monthly basis, consumer prices fell 0.1%, following a 0.3% decline in the previous month."
-    },
-    {
-      "id": "5023225",
-      "time": "2026-08-04 04:50:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【8月4日美股成交額前20：亞馬遜創歷史新高，市值突破3萬億美元】週一美股成交額第4名亞馬遜收高4.58%，成交252.87億美元。週一亞馬遜股價創歷史新高，延續上週財報釋出後的強勢行情，市值首次突破3萬億美元，成為史上第五家達成該里程碑的企業。其二季度財報顯示雲端計算業務營收增速加快。至此，亞馬遜與英偉達、Alphabet、微軟、蘋果一道，成為僅有的幾家市值站上3萬億美元大關的公司。"
-    },
-    {
-      "id": "mkt:019fc963-e814-7aab-8f5f-a39430445575",
-      "time": "2026-08-04 04:49:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CDC: Michigan reports two Cyclospora-related deaths】The US Centers for Disease Control and Prevention on the 3rd confirmed Michigan reported two deaths linked to Cyclospora; both patients had serious underlying conditions. These are the first Cyclospora-related fatalities reported since the US outbreak began spreading in May."
     }
   ]
 }
