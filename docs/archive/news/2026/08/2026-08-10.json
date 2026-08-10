@@ -1,7 +1,46 @@
 {
   "date": "2026-08-10",
-  "count": 2469,
+  "count": 2473,
   "items": [
+    {
+      "id": "5034402",
+      "time": "2026-08-10 23:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本擬放寬放貸規定，以此改善初創企業融資環境。"
+    },
+    {
+      "id": "5034401",
+      "time": "2026-08-10 23:15:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴里克（Barrick）與紐蒙特（Newmont）的交易價值大約40億美元。巴里克今年不會啟動Reko Diq建設。"
+    },
+    {
+      "id": "mkt:019fec3d-42ce-7aab-8fdc-a17d99466d25",
+      "time": "2026-08-10 23:14:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA-backed AI cloud provider Lambda is marketing a $917 million leveraged loan to finance GPU purchases."
+    },
+    {
+      "id": "5034400",
+      "time": "2026-08-10 23:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：伊朗外長同巴基斯坦外長討論地區與國際局勢。雙方就地區及國際事態交換看法，重點圍繞地區局勢演變以及維護和平穩定的各項努力。巴外長與阿拉格齊覆盤巴、土、沙三方《麥加協議》的各項條款，並著重強調該協議對促進地區和平安全的目標。"
+    },
     {
       "id": "5034399",
       "time": "2026-08-10 23:10:11",

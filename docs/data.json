@@ -1,7 +1,46 @@
 {
-  "updated": "2026-08-10 23:12:42",
-  "count": 15855,
+  "updated": "2026-08-10 23:16:55",
+  "count": 15852,
   "items": [
+    {
+      "id": "5034402",
+      "time": "2026-08-10 23:15:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本擬放寬放貸規定，以此改善初創企業融資環境。"
+    },
+    {
+      "id": "5034401",
+      "time": "2026-08-10 23:15:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴里克（Barrick）與紐蒙特（Newmont）的交易價值大約40億美元。巴里克今年不會啟動Reko Diq建設。"
+    },
+    {
+      "id": "mkt:019fec3d-42ce-7aab-8fdc-a17d99466d25",
+      "time": "2026-08-10 23:14:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA-backed AI cloud provider Lambda is marketing a $917 million leveraged loan to finance GPU purchases."
+    },
+    {
+      "id": "5034400",
+      "time": "2026-08-10 23:12:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦外交部：伊朗外長同巴基斯坦外長討論地區與國際局勢。雙方就地區及國際事態交換看法，重點圍繞地區局勢演變以及維護和平穩定的各項努力。巴外長與阿拉格齊覆盤巴、土、沙三方《麥加協議》的各項條款，並著重強調該協議對促進地區和平安全的目標。"
+    },
     {
       "id": "5034399",
       "time": "2026-08-10 23:10:11",
@@ -144248,74 +144287,6 @@
         "國際"
       ],
       "text": "訊息人士：巴基斯坦計劃邀請伊朗首席談判代表外長阿拉格齊與議會議長卡利巴夫前往伊斯蘭堡，商討伊美相關談判事宜。"
-    },
-    {
-      "id": "te:economy:572248",
-      "time": "2026-08-03 23:16:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Mexico Manufacturing PMI Holds Steady in July — The S&P Global Mexico Manufacturing PMI held at 51.3 in July 2026, signalling a second consecutive monthly improvement in operating conditions. New orders rose at the fastest pace since November 2023, driven by stronger domestic demand, while export orders slipped back into contraction. Factory output remained in decline, extending a downturn that began two years ago, amid weakness in the automotive and construction sectors and plant maintenance. Finished goods inventories fell, while pre-production stocks declined due to supplier delivery delays. Vendor performance deteriorated further amid shipping bottlenecks, supplier shortages and the Middle East conflict, prompting firms to raise input purchases at the fastest pace in nearly two-and-a-half years. Input cost inflation remained elevated, driven by higher fuel, material and transport costs and tariffs. Business confidence stayed subdued amid concerns over cash flow, insecurity, international competition and geopolitical risks."
-    },
-    {
-      "id": "5022987",
-      "time": "2026-08-03 23:15:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受伊朗談判前景樂觀推動油價下跌，歐元區債券收益率走低。"
-    },
-    {
-      "id": "te:markets:572247",
-      "time": "2026-08-03 23:14:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Urea Extends Decline as Supply Concerns Ease — Urea futures fell to around $420 per tonne, down more than 40% from the three-and-a-half-year high above $700 reached on April 15, as concerns over prolonged supply disruptions in the Middle East continued to ease. Prices came under pressure after signs of progress in negotiations aimed at restoring shipping through the Strait of Hormuz reduced fears of disruptions to fertilizer trade. The decline was also driven by China's decision to relax urea export restrictions, increasing global supply, while the market adjusted to cargoes previously delayed around the Strait of Hormuz. Seasonal demand has also weakened as planting across much of the Northern Hemisphere draws to a close. In addition, Brazil, one of the world's largest fertilizer importers, postponed purchases and imported less urea than a year earlier, further weighing on prices. Despite the sharp correction from April's peak, urea futures remain roughly 9% higher since the start of the year."
-    },
-    {
-      "id": "5022986",
-      "time": "2026-08-03 23:14:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京任命俄羅斯駐敘利亞大使】俄羅斯總統普京當地時間8月3日簽署總統令，任命德米特里·多加德金為俄聯邦駐敘利亞特命全權大使。俄外交部網站顯示，多加德金1990年起從事外交工作，曾在俄外交部本部和駐外使領館擔任多個職務。2010年至2013年，他任俄聯邦駐敘利亞大使館公使銜參贊。7月10日，普京簽署總統令，解除了多加德金的駐卡達大使職務。"
-    },
-    {
-      "id": "te:economy:572246",
-      "time": "2026-08-03 23:13:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Colombia Factory Growth Moderates in July — Colombia’s Davivienda Manufacturing PMI edged down to 52.7 in July 2026 from 53.7 in June, signaling another solid expansion in factory activity. New orders grew strongly, although production increased only marginally, while finished goods inventories declined for a fifth consecutive month. To replenish stocks, manufacturers stepped up input purchases despite supply delays caused by port disruptions, supplier shortages, and traffic congestion. Vendor delivery times continued to worsen, though at the slowest pace since February. Pre-production inventories also rose for a second straight month as previously ordered materials arrived. Employment increased as firms worked to clear backlogs and meet demand, with outstanding business falling for a sixth consecutive month. Cost pressures remained elevated but eased to a six-month low, while output price inflation slowed to its weakest pace this year. Business confidence stayed positive."
-    },
-    {
-      "id": "5022985",
-      "time": "2026-08-03 23:13:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國產水上運動裝備訂單暴漲 衝浪板全球爆單】水上運動的消費熱潮也從體驗端傳導到上游製造端。在一家動力衝浪板的生產車間內，工人正加緊趕製要交付的訂單，目前他們的排單已排至半個月之後。據瞭解，中國是全球最大的體育用品出口國，佔全球出口比重超過四成。隨著衝浪等戶外水上運動熱度走高，衝浪帽、防水包等周邊配飾銷量暴漲，線上店鋪多款產品缺貨，工廠正在加急補貨。上半年，中國體育用品及裝置總出口額達675.3億元人民幣。隨著全球戶外運動場景越來越多元化，槳板等水上運動器械出口額達47.7億元人民幣。"
-    },
-    {
-      "id": "5022984",
-      "time": "2026-08-03 23:13:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們需要與阿拉伯國家構建聯盟。"
     }
   ]
 }
