@@ -1,7 +1,27 @@
 {
   "date": "2026-08-11",
-  "count": 307,
+  "count": 309,
   "items": [
+    {
+      "id": "mkt:019fed79-bfe1-7aab-8fe1-2253709619e8",
+      "time": "2026-08-11 05:00:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC Quds Force commander visits Baghdad, meets Iraqi political bloc and militia leaders】On the evening of the 10th (local time), Iran’s Islamic Revolutionary Guard Corps Quds Force commander Kani arrived in Baghdad and met with the Coordination Framework Alliance, leaders of the Popular Mobilization Forces and commanders of various Iraqi militias. Discussions covered national weapons control and related security issues."
+    },
+    {
+      "id": "5034600",
+      "time": "2026-08-11 04:59:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗“聖城旅”指揮官到訪巴格達 同伊拉克多方會晤】當地時間10日晚，伊拉克安全部門訊息人士稱，伊朗伊斯蘭革命衛隊“聖城旅”指揮官卡尼當晚抵達巴格達，與伊拉克國民議會最大黨團“協調框架聯盟”、“人民動員組織”及伊拉克各民兵組織領導人舉行會晤，會晤涉及伊拉克國家武器管控等議題。"
+    },
     {
       "id": "5034599",
       "time": "2026-08-11 04:56:01",
