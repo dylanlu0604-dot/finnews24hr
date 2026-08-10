@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-11 01:48:34",
-  "count": 15794,
+  "updated": "2026-08-11 01:52:24",
+  "count": 15790,
   "items": [
+    {
+      "id": "5034483",
+      "time": "2026-08-11 01:50:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報553.40元。"
+    },
+    {
+      "id": "mkt:019feccb-529f-7aab-8fde-936bdd42c80c",
+      "time": "2026-08-11 01:49:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs."
+    },
+    {
+      "id": "5034482",
+      "time": "2026-08-11 01:49:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。"
+    },
+    {
+      "id": "mkt:019fecca-0f3d-7aab-8fde-8c29603ec337",
+      "time": "2026-08-11 01:48:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race."
+    },
     {
       "id": "5034481",
       "time": "2026-08-11 01:46:10",
@@ -143698,85 +143736,6 @@
         "WTI"
       ],
       "text": "Trump said the US clash with Venezuela went very well and that its confrontation with Iran is also progressing very, very smoothly."
-    },
-    {
-      "id": "5023117",
-      "time": "2026-08-04 01:52:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普對赫格塞思表示：你工作做得非常出色。"
-    },
-    {
-      "id": "mkt:019fc8c0-0cb2-7aab-8f5d-593244b1db2b",
-      "time": "2026-08-04 01:50:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) said it has been invited to the White House on Tuesday to discuss AI safety testing with the U.S. government."
-    },
-    {
-      "id": "5023116",
-      "time": "2026-08-04 01:50:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 我們此前與委內瑞拉之間的爭端得到妥善解決。 眼下我們和伊朗存在分歧，局勢進展也十分順利。"
-    },
-    {
-      "id": "mkt:019fc8bf-c663-7aab-8f5d-57f135aa40ee",
-      "time": "2026-08-04 01:50:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Brazil June crude output hits record, cushions Middle East supply disruption】Brazil’s crude production reached a record in June, helping to offset supply disruptions from the war involving Iran. ANP data show June crude output rose about 19% YoY to 4.5 mln bpd and roughly 4% from May; oil and gas output totaled 5.8 mln boe/d. State-controlled Petróleo Brasileiro (Petrobras) led the increase, extracting more from fields and pushing Búzios and other deepwater platforms above nameplate capacity; ANP says Petrobras-operated fields account for about 87% of Brazil’s oil production."
-    },
-    {
-      "id": "5023115",
-      "time": "2026-08-04 01:50:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：伊朗雖遭受重創，但依舊保有作戰能力。倘若伊朗襲擊以色列，將會遭到“極其沉重的打擊”。"
-    },
-    {
-      "id": "5023114",
-      "time": "2026-08-04 01:50:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：過去一個月伊朗沒有向以色列發動襲擊，因為伊朗清楚以色列具備強力打擊能力，足以形成威懾。"
-    },
-    {
-      "id": "5023113",
-      "time": "2026-08-04 01:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與伊朗之間的衝突進展十分順利。"
-    },
-    {
-      "id": "mkt:019fc8bd-fc40-7aab-8f5d-4f0638f99b35",
-      "time": "2026-08-04 01:48:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the conflict with Iran is progressing very smoothly."
     }
   ]
 }

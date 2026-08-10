@@ -1,7 +1,45 @@
 {
   "date": "2026-08-11",
-  "count": 95,
+  "count": 99,
   "items": [
+    {
+      "id": "5034483",
+      "time": "2026-08-11 01:50:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報553.40元。"
+    },
+    {
+      "id": "mkt:019feccb-529f-7aab-8fde-936bdd42c80c",
+      "time": "2026-08-11 01:49:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Western Europe endures sustained extreme heat and drought this summer】The WMO said on July 10 that Copernicus Climate Change Service (ECMWF) data show Western Europe experienced sustained extreme heat and drought in July 2026. June–July average temperature across Western Europe was 21.62°C, 2.79°C above the 1991–2020 mean; July brought the third and fourth heatwaves since May. Precipitation and soil moisture were abnormally low in parts of France, Spain, the UK and Germany, and flows on the Seine, Rhine and Danube fell sharply, weighing on water supply, agricultural irrigation, inland shipping and energy production. Heat and drought also drove wildfire activity to abnormal levels. Globally, July mean land surface temperature was 16.90°C, 1.47°C above pre‑industrial levels—among the warmest Julys on record—and sea surface temperatures along the European Atlantic coast and western Mediterranean set period highs."
+    },
+    {
+      "id": "5034482",
+      "time": "2026-08-11 01:49:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普將於當地時間週一簽署關於兒童接種疫苗的行政命令。"
+    },
+    {
+      "id": "mkt:019fecca-0f3d-7aab-8fde-8c29603ec337",
+      "time": "2026-08-11 01:48:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA says it is expected to suspend flight operations at Reagan National Airport on Aug. 23 from 10:15 a.m. to 1:15 p.m. local time to support the Freedom250 car race."
+    },
     {
       "id": "5034481",
       "time": "2026-08-11 01:46:10",
