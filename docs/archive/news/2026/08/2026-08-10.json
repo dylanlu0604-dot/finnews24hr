@@ -1,7 +1,23 @@
 {
   "date": "2026-08-10",
-  "count": 2481,
+  "count": 2483,
   "items": [
+    {
+      "id": "5034407",
+      "time": "2026-08-10 23:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面報道：胡齊斯坦、伊拉姆、洛雷斯坦三省交界附近，侯賽尼耶鎮周邊發生里氏 4.7 級地震。"
+    },
+    {
+      "id": "mkt:019fec46-e001-7aab-8fdc-c88892e2e7f4",
+      "time": "2026-08-10 23:24:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's supreme leader to appoint several senior military commanders】The Supreme Leader's office said on the 10th that Supreme Leader Mujtaba will sign appointment orders for several senior commanders of the Iranian armed forces."
+    },
     {
       "id": "5034406",
       "time": "2026-08-10 23:22:47",
