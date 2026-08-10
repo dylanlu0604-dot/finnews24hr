@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-10 22:15:26",
-  "count": 15870,
+  "updated": "2026-08-10 22:19:33",
+  "count": 15866,
   "items": [
+    {
+      "id": "5034332",
+      "time": "2026-08-10 22:18:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SHEIN以低於300億美元的估值向投資者推介IPO。"
+    },
+    {
+      "id": "5034331",
+      "time": "2026-08-10 22:17:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【增量資金來了，單日28只產品上報】新基金髮行掀起小高潮。今年以來新基金髮行規模超7200億元。更多增量資金可期，當前超140只基金正在或即將發行。與此同時，新產品密集上報，僅8月7日單日便有28只新基金集中上報，涵蓋首批創業板算力基礎設施ETF，首批創業板金融科技ETF。（上海證券報微信公眾號）"
+    },
+    {
+      "id": "mkt:019fec08-e07c-7aab-8fdb-aee9e63ce51c",
+      "time": "2026-08-10 22:17:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya TV reported the Yemeni army engaged Houthi drones in the Mocha region."
+    },
+    {
+      "id": "mkt:019fec08-16ad-7aab-8fdb-a5feb58bba88",
+      "time": "2026-08-10 22:16:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea to enact special law to clear obstacles for three \"super projects\" including semiconductors】South Korea plans to draft a special law by year-end to back three government \"super projects\" aimed at boosting competitiveness in semiconductors, physical AI and AI data centers. The law would shorten approval and environmental-impact-assessment procedures and accelerate construction of power, water, transport, housing and education infrastructure. The government aims to complete relocation and temporary dispersal of military facilities by H2 2028 to free a military airport site for a semiconductor industrial park. Beyond the current 8.3 mln sqm candidate national industrial park, additional nearby land may be designated after assessing corporate demand. Authorities will pursue treated/recycled water and nearby-dam schemes to secure supply and measures to ensure adequate power. Seoul will consult the US on US facilities at Gwangju military airport; the presidential office says the US has so far responded positively."
+    },
+    {
+      "id": "mkt:019fec07-b296-7aab-8fdb-9c2ef3352954",
+      "time": "2026-08-10 22:15:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Airports in multiple Colombian cities damaged in earthquake】A strong earthquake on Aug. 10 damaged airports in Pereira, Manizales and Quibdó, with terminal operations suspended, Colombia's civil aviation authority said. Cali, Colombia's third-largest city and capital of Valle del Cauca, reported about 20 buildings collapsed and people trapped in rubble, the mayor said."
+    },
+    {
+      "id": "5034330",
+      "time": "2026-08-10 22:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞多地機場地震中受損】據哥倫比亞民航部門訊息，今天（8月10日）的強烈地震中，佩雷拉、馬尼薩萊斯、基布多等多座城市的機場均報告受損，這些機場的航站樓已暫停運營。哥倫比亞第三大城市、西部考卡山谷省首府卡利市市長稱，該市大約20棟建築坍塌，有人被困於倒塌建築中。（CCTV國際時訊）"
+    },
+    {
+      "id": "5034329",
+      "time": "2026-08-10 22:14:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哥倫比亞強震多地建築嚴重損毀】據CCTV國際時訊，據中國地震臺網正式測定，當地時間今天（8月10日）早上7點34分，北京時間晚上8點34分，哥倫比亞發生7.5級地震，震源深度80公里。震中位於西部喬科省。喬科省省長稱，地震造成震中及省會城市基布多等多地建築嚴重損毀。除了喬科省外，鄰近的裡薩拉爾達省、卡爾達斯省等多個省份也出現災情。人員傷亡情況暫不清楚。目前正在統計受災情況。美國海嘯預警中心稱，本次地震無引發海嘯風險。"
+    },
     {
       "id": "5034328",
       "time": "2026-08-10 22:12:53",
@@ -144353,112 +144411,6 @@
         "美國"
       ],
       "text": "【美國製造業活動創2022年以來最快擴張 生產和就業同步走強】由於需求保持強勁，生產激增以及企業增加員工，美國7月製造業活動以逾四年來最快速度擴張。週一公佈的資料顯示，美國供應管理協會的製造業指數升至55.6，為2022年5月以來最高水平。該資料高於50表明增長，該行業已連續七個月保持擴張。"
-    },
-    {
-      "id": "mkt:019fc7fe-77e4-7aab-8f5a-0cd065841d81",
-      "time": "2026-08-03 22:19:30",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) hit a three-week high, rising 5.3% after BNP Paribas upgraded its rating."
-    },
-    {
-      "id": "mkt:019fc7fe-61a2-7aab-8f5a-079c8d2f0da7",
-      "time": "2026-08-03 22:19:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Microsoft",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish",
-        "MSFT.O",
-        "GOOGL.O"
-      ],
-      "text": "U.S. tech giants rallied: Meta Platforms (META.O) rose more than 6%, Microsoft (MSFT.O) traded up nearly 5%, Alphabet Class A (GOOGL.O) gained 3.7% and Oracle (ORCL.N) added 4.6%."
-    },
-    {
-      "id": "5022906",
-      "time": "2026-08-03 22:19:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "波音股價觸及三週多來新高，最新上漲5.3%；法國巴黎銀行上調該股評級。"
-    },
-    {
-      "id": "5022905",
-      "time": "2026-08-03 22:19:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "科寧、蒂利斯將投票推進布蘭奇司法部長提名議程。"
-    },
-    {
-      "id": "5022904",
-      "time": "2026-08-03 22:18:54",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "美國財政部網站：美國牌照授權自9月17日起開展與委內瑞拉國家石油公司2020年到期8.5%債券相關的特定交易。"
-    },
-    {
-      "id": "5022903",
-      "time": "2026-08-03 22:18:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗公佈遇襲船隻畫面 指其“錯信美國”】伊朗伊斯蘭革命衛隊7月31日曾發表宣告稱，擊中兩艘試圖取道“未申報”航線透過霍爾木茲海峽的油輪，8月1日，伊朗媒體公佈了油輪遇襲畫面，並指認遭襲船隻因“錯誤信任美國”而忽視伊朗警告。（央視）"
-    },
-    {
-      "id": "5022902",
-      "time": "2026-08-03 22:17:41",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "美國財政部允許對委內瑞拉國家石油公司（PDVSA）2020年發行的8.5%債券採取一些行動。"
-    },
-    {
-      "id": "5022901",
-      "time": "2026-08-03 22:17:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數上漲1%，創7月16日以來最高水平。"
-    },
-    {
-      "id": "5022900",
-      "time": "2026-08-03 22:17:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國向委內瑞拉頒發5年期通用許可證。"
-    },
-    {
-      "id": "5022899",
-      "time": "2026-08-03 22:16:19",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英偉達漲超2%。"
-    },
-    {
-      "id": "5022898",
-      "time": "2026-08-03 22:16:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "ALPHABET上漲3.7%，甲骨文上漲4.6%。"
     }
   ]
 }
