@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-10 23:00:33",
-  "count": 15866,
+  "updated": "2026-08-10 23:04:40",
+  "count": 15867,
   "items": [
+    {
+      "id": "5034394",
+      "time": "2026-08-10 23:03:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所資料顯示：英國近月天然氣上漲 10.12%，報每熱姆 149.71 便士。"
+    },
+    {
+      "id": "mkt:019fec33-4ed7-7aab-8fdc-8eb92effb74c",
+      "time": "2026-08-10 23:03:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran president Pezeshkian says US, Israeli strikes rely on AI data; plots foiled】Iranian President Pezeshkian said US and Israeli strikes are based on artificial-intelligence data, espionage networks, mercenaries and domestic agents, but their plans have been thwarted one by one, according to Mehr news agency. He made the remarks at a Tehran University meeting."
+    },
+    {
+      "id": "mkt:019fec31-bc29-7aab-8fdc-87879b69b750",
+      "time": "2026-08-10 23:01:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran: Strait of Hormuz situation depends on US actions】An Iranian foreign ministry spokesperson said: \"Talks with Oman are progressing smoothly, but some parties are attempting to obstruct the process. The situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations. A maritime blockade against Iran is an act of aggression. The Strait of Hormuz remained open from antiquity until the war that began this year.\""
+    },
+    {
+      "id": "5034393",
+      "time": "2026-08-10 23:01:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元兌美元一度下跌0.8%，至159.06，在十國集團中表現墊底，美國和日本歷史性聯手干預激發的漲幅已半數回吐。週二是日本的公眾假期，交易員擔心減弱的流動性可能為新一輪干預創造條件。儘管如此，近期的干預似乎難以改變日元的疲態，因其面臨諸多重大不利因素，例如市場擔心日本可能增加財政支出。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。"
+    },
+    {
+      "id": "mkt:019fec30-c83c-7aab-8fdc-7b31ed3b3575",
+      "time": "2026-08-10 23:00:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "By 23:00 local close, China's most-active futures contracts were mostly higher. Fuel oil and low-sulfur fuel oil (LU) climbed nearly 3%; propylene, coking coal, polypropylene (including monthly-average contract), asphalt and synthetic rubber rose more than 1%. PTA fell over 1%; pulp and caustic soda were down nearly 1%."
+    },
+    {
+      "id": "te:markets:574173",
+      "time": "2026-08-10 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Drops by 0.74% — Top currency losers are Japanese Yen (-0.74%), South Korean Won (-0.72%) and Euro (-0.06%). Gains are led by British Pound (0.20%) and Dollar Index (0.19%)."
+    },
+    {
+      "id": "5034392",
+      "time": "2026-08-10 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續漲2.89%，燃料油連續漲2.36%，瀝青連續漲1.37%，聚丙烯連續漲1.19%，焦煤連續漲1.14%。"
+    },
+    {
+      "id": "5034391",
+      "time": "2026-08-10 22:59:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：日元貶值壓力恐將隨著時間的推移再次出現】“日本要過盂蘭盆節了，市場參與可能會受到限制，而且國內事件日程也相對清淡，” 野村證券策略師Yujiro Goto在一份研報中報告寫道，“焦點還是會在日本和美國當局的干預立場上，投資者會密切關注官員們的表態。”此次逆轉凸顯了在日元貶值背後的驅動因素基本保持不變的情況下，干預措施在改變整體走勢方面的侷限性。儘管東京和華盛頓都警告稱，若有必要他們準備再次採取行動，但與美國之間巨大的利差、對日本財政前景的擔憂以及地緣政治的不確定性仍然對日元構成壓力。“我們認為，市場對此次干預相對平淡的回應反映了貨幣疲軟的根本原因，” 高盛集團Kamakshya Trivedi等策略師在一份報告中預計，“除非全球形勢發生變化或出現意外政策，否則貶值壓力將隨著時間的推移再次出現”。"
+    },
+    {
+      "id": "5034390",
+      "time": "2026-08-10 22:59:47",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【能耗考核讓司機不敢開空調 蘭州公交：已暫停】近期，甘肅蘭州有公交車司機表示，由於公司實施的考核辦法把車輛的能耗和績效掛鉤，如果超出了規定的能耗標準，將按一定比例扣除司機的績效工資，導致個別司機不願在行駛過程中開空調，從而影響乘客體驗。蘭州公交集團第六客運公司工作人員表示，出臺考核辦法的初衷是引導駕駛員愛車護車、安全行駛，助力企業降本增效。辦法制定階段已兼顧車型、車況、線路差異，以平均能耗作為考核基準，考核數值每月動態調整，也考慮到高溫開啟空調帶來的能耗上漲因素。（央視新聞）"
+    },
     {
       "id": "5034389",
       "time": "2026-08-10 22:57:43",
@@ -144337,85 +144427,6 @@
         "國際"
       ],
       "text": "伊朗和巴基斯坦外長通話討論地區問題。"
-    },
-    {
-      "id": "5022971",
-      "time": "2026-08-03 23:04:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗戰事如何繼續？美軍開始內部“求支招”】訊息人士披露，對伊朗的戰事陷入僵局之時，美軍中央司令部開始在內部廣泛徵集“有創意、非常規”的建議以開啟局面。美國有線電視新聞網（CNN）3日援引兩名訊息人士的話報道，中央司令部一名高階軍官上週在發給眾多軍方分析師的電子郵件中寫道：“我們正在尋求有創意、非常規方式，以施壓和懲罰伊朗”。（新華社）"
-    },
-    {
-      "id": "5022970",
-      "time": "2026-08-03 23:03:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：外長阿拉格齊與阿曼外長通電話討論地區局勢發展。"
-    },
-    {
-      "id": "mkt:019fc825-68c2-7aab-8f5a-c367894d322d",
-      "time": "2026-08-03 23:02:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【SpaceX bets orbital AI compute as response to ground energy limits】Bernstein rates SpaceX Outperform with a $239 PT but says the valuation hinges less on rockets than on whether AI compute can move to orbit. Its model assumes about 3,600 launches a year by 2031, roughly 170,000 satellites and about 20 GW of orbital compute. The thesis: terrestrial data centres face rising constraints on power, land and cooling; if Starship achieves rapid two‑stage reusability and sharply cuts launch costs, orbit could become a compute venue. Bernstein flags new bottlenecks — chip supply, satellite thermal management, radiation hardening, communications and regulation — and notes the scale it models would demand about 2.8 mln wafers a year, or the equivalent of roughly five dedicated fabs. Conclusion: ground AI data centres remain the primary revenue stream this decade; orbital compute is a long‑dated option."
-    },
-    {
-      "id": "mkt:019fc825-60dd-7aab-8f5a-bdd93ad88971",
-      "time": "2026-08-03 23:02:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Sources said Lukoil's Volgograd refinery in Russia suspended refining operations after a drone attack on July 31."
-    },
-    {
-      "id": "mkt:019fc825-1590-7aab-8f5a-b4585caeb024",
-      "time": "2026-08-03 23:01:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【CNY300bn invested in Chinese AI startups in 1H 2026 as VC funds accelerate into AI and hard tech】China high‑tech investment rose 4.6% YoY in 1H 2026 as venture capital activity recovered. VCs point to AI development as the main driver, with funding accelerating into AI, quantum technologies and compute. Chinese AI startup fundraising in 1H 2026 exceeded CNY300bn, surpassing full‑year 2025. Concentrated inflows have pushed valuations higher and produced a scramble for allocations in the primary market."
-    },
-    {
-      "id": "5022969",
-      "time": "2026-08-03 23:01:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度投資與公共資產管理司（DIPAM）秘書：印度人壽保險公司（LIC）的出售要約明日對非零售投資者開放申購。"
-    },
-    {
-      "id": "5022968",
-      "time": "2026-08-03 23:01:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗公佈所襲船隻畫面指其錯信美國】按照伊朗伊斯蘭革命衛隊的說法，連日來，多艘試圖取道“未申報”航線透過霍爾木茲海峽的油輪被擊中。這些油輪在美軍的“空中護航”下，不顧伊朗方面的警告，最終被擊中並截停。近日，伊朗媒體公佈了一段被襲擊油輪的畫面。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019fc824-63fa-7aab-8f5a-a93597185a44",
-      "time": "2026-08-03 23:00:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "At the 23:00 close, China main futures contracts were mixed. Fuel oil fell more than 2%, low-sulfur fuel oil (LU) declined over 1% and soda ash slipped nearly 1%. Gains were led by polypropylene and its monthly-average contract, glass, plastics and methanol, each up over 1%; rapeseed oil and No.20 rubber rose about 1%."
     }
   ]
 }

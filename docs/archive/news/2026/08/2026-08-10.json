@@ -1,7 +1,97 @@
 {
   "date": "2026-08-10",
-  "count": 2453,
+  "count": 2462,
   "items": [
+    {
+      "id": "5034394",
+      "time": "2026-08-10 23:03:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所資料顯示：英國近月天然氣上漲 10.12%，報每熱姆 149.71 便士。"
+    },
+    {
+      "id": "mkt:019fec33-4ed7-7aab-8fdc-8eb92effb74c",
+      "time": "2026-08-10 23:03:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran president Pezeshkian says US, Israeli strikes rely on AI data; plots foiled】Iranian President Pezeshkian said US and Israeli strikes are based on artificial-intelligence data, espionage networks, mercenaries and domestic agents, but their plans have been thwarted one by one, according to Mehr news agency. He made the remarks at a Tehran University meeting."
+    },
+    {
+      "id": "mkt:019fec31-bc29-7aab-8fdc-87879b69b750",
+      "time": "2026-08-10 23:01:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran: Strait of Hormuz situation depends on US actions】An Iranian foreign ministry spokesperson said: \"Talks with Oman are progressing smoothly, but some parties are attempting to obstruct the process. The situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations. A maritime blockade against Iran is an act of aggression. The Strait of Hormuz remained open from antiquity until the war that began this year.\""
+    },
+    {
+      "id": "5034393",
+      "time": "2026-08-10 23:01:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元兌美元一度下跌0.8%，至159.06，在十國集團中表現墊底，美國和日本歷史性聯手干預激發的漲幅已半數回吐。週二是日本的公眾假期，交易員擔心減弱的流動性可能為新一輪干預創造條件。儘管如此，近期的干預似乎難以改變日元的疲態，因其面臨諸多重大不利因素，例如市場擔心日本可能增加財政支出。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。"
+    },
+    {
+      "id": "mkt:019fec30-c83c-7aab-8fdc-7b31ed3b3575",
+      "time": "2026-08-10 23:00:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "By 23:00 local close, China's most-active futures contracts were mostly higher. Fuel oil and low-sulfur fuel oil (LU) climbed nearly 3%; propylene, coking coal, polypropylene (including monthly-average contract), asphalt and synthetic rubber rose more than 1%. PTA fell over 1%; pulp and caustic soda were down nearly 1%."
+    },
+    {
+      "id": "te:markets:574173",
+      "time": "2026-08-10 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Drops by 0.74% — Top currency losers are Japanese Yen (-0.74%), South Korean Won (-0.72%) and Euro (-0.06%). Gains are led by British Pound (0.20%) and Dollar Index (0.19%)."
+    },
+    {
+      "id": "5034392",
+      "time": "2026-08-10 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續漲2.89%，燃料油連續漲2.36%，瀝青連續漲1.37%，聚丙烯連續漲1.19%，焦煤連續漲1.14%。"
+    },
+    {
+      "id": "5034391",
+      "time": "2026-08-10 22:59:59",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：日元貶值壓力恐將隨著時間的推移再次出現】“日本要過盂蘭盆節了，市場參與可能會受到限制，而且國內事件日程也相對清淡，” 野村證券策略師Yujiro Goto在一份研報中報告寫道，“焦點還是會在日本和美國當局的干預立場上，投資者會密切關注官員們的表態。”此次逆轉凸顯了在日元貶值背後的驅動因素基本保持不變的情況下，干預措施在改變整體走勢方面的侷限性。儘管東京和華盛頓都警告稱，若有必要他們準備再次採取行動，但與美國之間巨大的利差、對日本財政前景的擔憂以及地緣政治的不確定性仍然對日元構成壓力。“我們認為，市場對此次干預相對平淡的回應反映了貨幣疲軟的根本原因，” 高盛集團Kamakshya Trivedi等策略師在一份報告中預計，“除非全球形勢發生變化或出現意外政策，否則貶值壓力將隨著時間的推移再次出現”。"
+    },
+    {
+      "id": "5034390",
+      "time": "2026-08-10 22:59:47",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場"
+      ],
+      "text": "【能耗考核讓司機不敢開空調 蘭州公交：已暫停】近期，甘肅蘭州有公交車司機表示，由於公司實施的考核辦法把車輛的能耗和績效掛鉤，如果超出了規定的能耗標準，將按一定比例扣除司機的績效工資，導致個別司機不願在行駛過程中開空調，從而影響乘客體驗。蘭州公交集團第六客運公司工作人員表示，出臺考核辦法的初衷是引導駕駛員愛車護車、安全行駛，助力企業降本增效。辦法制定階段已兼顧車型、車況、線路差異，以平均能耗作為考核基準，考核數值每月動態調整，也考慮到高溫開啟空調帶來的能耗上漲因素。（央視新聞）"
+    },
     {
       "id": "5034389",
       "time": "2026-08-10 22:57:43",
