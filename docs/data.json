@@ -1,7 +1,163 @@
 {
-  "updated": "2026-08-10 16:34:12",
-  "count": 15913,
+  "updated": "2026-08-10 16:38:17",
+  "count": 15908,
   "items": [
+    {
+      "id": "5033612",
+      "time": "2026-08-10 16:37:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "盧安達統計局公佈資料：7月盧安達通脹率同比上漲14.5%。"
+    },
+    {
+      "id": "te:markets:574098",
+      "time": "2026-08-10 16:37:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Berkshire Hathaway earnings above expectations at 6.02 USD — Berkshire Hathaway (BRKB) released earnings per share at 6.02 USD, compared to market expectations of 4.92 USD."
+    },
+    {
+      "id": "5033611",
+      "time": "2026-08-10 16:36:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭華股份：持股5%以上股東協議轉讓9906.54萬股股份過戶完成】杭華股份公告稱，持股5%以上股東株式會社T&K TOKA於6月11日與青雲匯（杭州）科技產業發展有限公司簽署股份轉讓協議，擬6.904元/股轉讓99,065,424股，佔公司股份總數23.36%，轉讓總價款6.84億元。本次協議轉讓已獲上交所合規確認，8月7日完成過戶。青雲匯承諾18個月內不轉讓受讓股份。本次轉讓不涉及控制權變更，對公司治理及經營無重大影響。"
+    },
+    {
+      "id": "5033610",
+      "time": "2026-08-10 16:36:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中熔電氣：完成募集資金專用賬戶銷戶手續】中熔電氣公告稱，公司近日完成募集資金專用賬戶登出手續。此前，公司首次公開發行股票募集資金總額4.44億元，扣除發行費用後，實際募集資金淨額3.96億元。公司曾設立3個募集資金專用賬戶，並與相關銀行及保薦機構簽訂三方監管協議。截至公告披露日，3個賬戶（分別在浙商銀行西安分行營業部、招商銀行西安分行楓林綠洲支行、上海浦東發展銀行西安未央路支行）均已登出，三方監管協議也相應終止。"
+    },
+    {
+      "id": "5033609",
+      "time": "2026-08-10 16:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度外貿總局取消紙質關稅繳納憑證。"
+    },
+    {
+      "id": "5033608",
+      "time": "2026-08-10 16:36:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【錯過數十億市值？大疆曾入股宇樹科技後2019年退出，大疆不予置評】今日，宇樹科技正式啟動網上網下申購。其發行價為150.80元/股，發行後總市值約609.93億元，募資總額接近61億元，發行市盈率達到219.23倍。值得關注的是，這家公司早期曾獲得大疆投資，不過這筆入股最終以大疆減資退出告終。據瞭解，王興興創業前曾短暫在大疆入職，但不久就辭職創業。2018年大疆一度以1012.86萬元的價格拿下宇樹科技約17%的股份，按此計算當時的估值約6000萬元。大疆入股宇樹科技一度還辦理好了工商登記，並一躍成為宇樹科技最大的外部股東，但是大疆在2019年減資，退出了宇樹科技的股東名單。據測算，若大疆當時順利投資並直接持有到現在，其手中市值或將達到數十億元。對此訊息，大疆方面表示不予置評。（新浪科技）"
+    },
+    {
+      "id": "5033606",
+      "time": "2026-08-10 16:36:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯導科技：召開2026年第二次臨時股東會 審議重大資產重組議案】芯導科技公告稱，公司將於2026年8月26日14點召開2026年第二次臨時股東會，地點為上海市浦東新區公司會議室，採用現場投票和網路投票相結合方式。本次會議將審議《關於使用部分超募資金支付重大資產重組現金對價的議案》，該議案已獲公司第三屆董事會第七次會議透過，相關公告已於8月11日披露。股權登記日為8月19日，登記時間為8月20日，登記地點在公司證券部。"
+    },
+    {
+      "id": "5033605",
+      "time": "2026-08-10 16:35:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）資料顯示，英國近月天然氣價格上漲5.1%，報每千卡熱量142.89便士。"
+    },
+    {
+      "id": "mkt:019fead0-3a25-7aab-8fd5-ddf2f9f15d61",
+      "time": "2026-08-10 16:35:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ICE data shows UK near-month gas futures up 5.1%."
+    },
+    {
+      "id": "te:markets:574097",
+      "time": "2026-08-10 16:35:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Japan Post earnings above expectations at 45.07 JPY — Japan Post (6178) released earnings per share at 45.07 JPY, compared to market expectations of 36.14 JPY."
+    },
+    {
+      "id": "te:markets:574096",
+      "time": "2026-08-10 16:35:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "KDDI earnings above expectations at 51.34 JPY — KDDI (9433) released earnings per share at 51.34 JPY, compared to market expectations of 43.97 JPY."
+    },
+    {
+      "id": "5033604",
+      "time": "2026-08-10 16:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元兌日元USD/JPY日內漲超0.50%，現報158.57。"
+    },
+    {
+      "id": "te:economy:574095",
+      "time": "2026-08-10 16:35:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Industrial Output Falls at Softer Pace — Bulgaria's industrial production fell 2.5% year-on-year in June 2026, easing from a 4.8% decline in the previous month. The slowdown in the contraction was largely driven by a rebound in manufacturing output (1.3% vs -3.9% in May), supported by gains in the manufacture of food products (4.6%), beverages (2.2%), and tobacco products (17.8%). In addition, production growth in electricity, gas, steam, and air-conditioning supply accelerated (10% vs 8.8%). On the other hand, the downturn in mining and quarrying deepened sharply (-49.1% vs -33%). By main industrial grouping, investment goods output rebounded strongly (7.7% vs -18.2%), and the decline in consumer durables eased (-0.2% vs -12.5%). In contrast, growth in energy goods moderated (6.5% vs 9.1%), while consumer non-durables swung into contraction (-5.9% vs 0.4%). On a seasonally adjusted monthly basis, industrial production rose 0.4%, recovering from a 0.2% decline in May."
+    },
+    {
+      "id": "5033603",
+      "time": "2026-08-10 16:35:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局印發《廣告業統計調查制度》】近日，市場監管總局釋出關於印發《廣告業統計調查制度》的通知。通知指出，各地市場監管部門要嚴格按照統計調查制度開展廣告業統計調查，認真做好名錄更新、資料稽核、資料包送、資料分析等工作；要加強統計資料全流程質量管理，確保統計資料真實、準確、及時、可靠；要嚴守統計工作紀律，杜絕統計造假、弄虛作假等違法違規行為。"
+    },
+    {
+      "id": "mkt:019feacf-026a-7aab-8fd5-d344e3c1d4fa",
+      "time": "2026-08-10 16:34:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY trades up more than 0.50% intraday at 158.57."
+    },
+    {
+      "id": "mkt:019feace-c3ea-7aab-8fd5-ccf6856f2e8a",
+      "time": "2026-08-10 16:34:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【Euro-area investor confidence returns to positive; fourth month of improvement】Sentix data show euro-area investor confidence returned to positive territory in August and rose for a fourth consecutive month. The improvement was driven by a marked rebound in investors’ assessment of current conditions and a pickup in expectations. Sentix said the confidence shock from the Iran war appears partly absorbed, though high energy costs and weak order books continue to weigh on the outlook. Germany’s economy looks set to further stabilize after firmer data and Q2 GDP growth of 0.2%, which helped the country avoid another recession."
+    },
     {
       "id": "5033602",
       "time": "2026-08-10 16:32:54",
@@ -144654,203 +144810,6 @@
         "國際"
       ],
       "text": "印尼財政部維持2026財年GDP增長預期在5.6%-6%之間。"
-    },
-    {
-      "id": "mkt:019fc6c5-eb0f-7aab-8f52-e7f29eaa3724",
-      "time": "2026-08-03 16:38:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Financial Conduct Authority (FCA) will shorten the window for correcting historical reporting errors from five years to three years."
-    },
-    {
-      "id": "mkt:019fc6c5-c1ca-7aab-8f52-d892c36d4078",
-      "time": "2026-08-03 16:37:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Financial Conduct Authority (FCA) said new transaction reporting rules will take effect on 3 April 2028."
-    },
-    {
-      "id": "mkt:019fc6c5-ab9a-7aab-8f52-d32ad36e3e43",
-      "time": "2026-08-03 16:37:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【CHINA STATE PLANNER, National Energy Administration target ~110 GW nuclear capacity by 2030】CHINA STATE PLANNER and the National Energy Administration issued the New Power System Construction 15th Five-Year Plan, targeting about 110 GW of nuclear capacity by 2030 and roughly 65 GW of combined biomass, concentrated solar (CSP), geothermal and ocean power capacity. The plan calls for defining coastal nuclear-base layouts and construction sequencing, scaling nuclear builds, advancing R&D, demonstration and deployment of next‑generation nuclear technologies, lowering small modular reactor (SMR) costs, promoting nuclear cogeneration and commercial-model innovation, and accelerating large-scale CSP, regionally tailored biomass and geothermal projects and marine-energy utilization."
-    },
-    {
-      "id": "5022051",
-      "time": "2026-08-03 16:37:48",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩部門：增強電力供應保障能力，滿足各類算力設施高可靠供電需要】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，增強電力供應保障能力，滿足各類算力設施高可靠供電需要。統籌能源資源配置與算力設施建設，協同規劃佈局算力、電力專案，做到以電強算、以算促電。依託算力設施發展源網荷儲一體化、綠電直連等新模式，實現綠電聚合交易、就地消納，提高算力設施綠電佔比。加強算力設施餘熱資源回收利用。"
-    },
-    {
-      "id": "mkt:019fc6c5-8bee-7aab-8f52-cf6d9d5c9358",
-      "time": "2026-08-03 16:37:42",
-      "tags": [
-        "MKT News",
-        "FTSE100",
-        "Impact bullish"
-      ],
-      "text": "The UK's Financial Conduct Authority has finalised rules that will cut firms' transaction-reporting costs by more than £100 million a year."
-    },
-    {
-      "id": "5022050",
-      "time": "2026-08-03 16:37:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：到2030年，西電東送規模超過4.2億千瓦】國家發展改革委、國家能源局印發《新型電力系統建設“十五五”規劃》。其中提出，著力推動電力流向佈局最佳化。推動存量直流輸電通道改造升級。落實國家區域發展戰略和全國電力流向最佳化佈局總體方案，逐步形成東北、中北、西北“沙戈荒”基地群和西南水風光一體化基地群向東中部、川渝和南方負荷中心地區送電，海上風電基地和沿海核電基地就近消納的電力流向總體格局。加快推動“十四五”時期已納規輸電通道盡早建成投運。到2030年，西電東送規模超過4.2億千瓦。開展“沙戈荒”等100%新能源外送輸電工程試點。"
-    },
-    {
-      "id": "5022049",
-      "time": "2026-08-03 16:37:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：推動電力與交通融合發展】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，推動電力與交通基礎設施共享通道、管廊、杆塔等資源，依託周邊用地開發新能源，最佳化配置靈活調節資源，協同佈局輸電網路。有序推動交通運輸電氣化和低碳化轉型，發展依託新能源的岸電系統和港口微電網。"
-    },
-    {
-      "id": "mkt:019fc6c5-246b-7aab-8f52-c51d1e9af927",
-      "time": "2026-08-03 16:37:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UBS Global Wealth Management downgraded South Korea equities from Attractive to Neutral."
-    },
-    {
-      "id": "mkt:019fc6c5-0728-7aab-8f52-b81e8df2951b",
-      "time": "2026-08-03 16:37:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CNH",
-        "Impact mixed",
-        "SSE Composite"
-      ],
-      "text": "【China state planner and National Energy Administration target about 410 GW of conventional hydropower by 2030】China's state planner and the National Energy Administration issued the 15th Five-Year plan for building a new-type power system, directing commissioning of hydropower projects in key basins including the upper Jinsha, upper Lancang, middle Yalong and Dadu rivers, and calling for safe, orderly advancement of major works on the lower Yarlung Tsangpo. The plan seeks to strengthen hydropower's peaking, regulation and stability roles and to widen dispatchable and flexible output, targeting roughly 410 GW of conventional hydropower installed capacity by 2030."
-    },
-    {
-      "id": "5022048",
-      "time": "2026-08-03 16:36:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南大理州洱源縣發生3.2級地震 震源深度7公里】中國地震臺網正式測定：8月3日16時25分，在雲南大理州洱源縣（北緯26.13度，東經99.86度）發生3.2級地震，震源深度7公里。（央視新聞）"
-    },
-    {
-      "id": "5022047",
-      "time": "2026-08-03 16:36:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門：完善新型主體參與電力市場的制度】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，健全“1+N”電力市場基礎規則體系。強化地方規則與國家規則的對接和統一。完善新型主體參與電力市場的制度。持續完善跨電網經營區常態化交易。逐步縮小代理購電規模。完善輔助服務市場機制，探索容量市場機制建設。深化電力價格機制改革。推進水電、核電、氣電上網電價市場化改革。探索跨省區專項工程實行兩部制或單一容量制輸電價格。落實支援新能源就近消納的價格機制。完善輸配電價對電網投資激勵約束機制。研究海上風電送出工程相關價格機制。最佳化居民階梯電價制度，推廣居民分時電價機制。"
-    },
-    {
-      "id": "5022046",
-      "time": "2026-08-03 16:36:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【歐足聯：將就國際足聯商業計劃採取法律行動】歐足聯當地時間8月3日表示，將就國際足聯此前擬出售世界盃等賽事商業權益部分股權的改革計劃採取法律行動。國際足聯主席因凡蒂諾已於日前宣佈擱置該計劃，但圍繞該計劃的爭議仍在持續。 (央視新聞)"
-    },
-    {
-      "id": "mkt:019fc6c4-83f9-7aab-8f52-b5ad7a3a8ffa",
-      "time": "2026-08-03 16:36:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Russia's Foreign Intelligence Service (SVR) says the EU plans to let Kyiv participate in European security policy discussions but without voting rights."
-    },
-    {
-      "id": "5022045",
-      "time": "2026-08-03 16:36:20",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委兩部門：到2030年新型電力系統初步建成，非化石能源發電量佔比達到50%】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦以上新能源高水平消納，建成可支撐超過1.1億輛電動汽車出行的充電基礎設施網路。新型電力系統體制機制更加完善，全國統一電力市場體系基本建成。"
-    },
-    {
-      "id": "mkt:019fc6c4-0393-7aab-8f52-adf47f1a025f",
-      "time": "2026-08-03 16:36:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "【CHINA STATE PLANNER, National Energy Administration set 2030 new power system plan; 50% non-fossil generation target】CHINA STATE PLANNER and the National Energy Administration issued a plan to preliminarily build a new power system by 2030, targeting non‑fossil sources to supply 50% of electricity generation. The plan calls for a secure, low‑carbon, resilient and smart grid, stronger supply capacity and improved system flexibility to keep power adequacy at reasonable levels for economic and social needs. It aims to enable high‑level integration and utilization of renewables—accommodating more than 2.8 billion kW (≈2,800 GW) of new energy capacity—and to build charging infrastructure to support over 110 million electric vehicles. Institutional reforms include more complete system mechanisms and the basic establishment of a nationwide unified electricity market."
-    },
-    {
-      "id": "5022044",
-      "time": "2026-08-03 16:35:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新型電力系統建設“十五五”規劃：積極安全有序發展核電 到2030年核電裝機約1.1億千瓦】國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，規劃提出，積極安全有序發展核電，科學確定沿海核電基地佈局和建設時序。推動核電規模化建設，積極推進新一代核電技術研發示範和推廣應用。多措並舉降低小型堆成本，加強核能綜合利用和商業模式創新。到2030年，核電裝機約1.1億千瓦。"
-    },
-    {
-      "id": "mkt:019fc6c3-8192-7aab-8f52-a2b8847c2c22",
-      "time": "2026-08-03 16:35:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Russia's foreign intelligence service (SVR) says European leaders are explicitly denying the prospect of Ukraine joining the EU, citing concerns that Ukrainian integration would impose excessive economic and political risks on a \"unified Europe\"."
-    },
-    {
-      "id": "5022043",
-      "time": "2026-08-03 16:34:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局：將歷史報告錯誤更正期限從5年縮短至3年。"
-    },
-    {
-      "id": "5022042",
-      "time": "2026-08-03 16:34:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮昌生物：累計回購13000股，支付142.82萬元】榮昌生物公告，公司於2026年7月19日審議透過回購方案，擬以不低於2500萬元且不超過5000萬元回購股份，用於員工持股計劃或股權激勵，回購價格不超過149元/股。截至2026年7月31日，公司累計回購股份13000股，佔總股本比例0.0023%，成交最高價109.99元/股，最低價109元/股，支付資金總額142.82萬元（不含交易費用）。"
-    },
-    {
-      "id": "5022041",
-      "time": "2026-08-03 16:34:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【姚記科技：截至7月底累計回購1999.77萬元股份】姚記科技公告稱，公司於2026年5月21日經2025年年度股東會審議透過回購股份方案，擬以3000萬-5000萬元回購股份用於登出並減少註冊資本。截至2026年7月31日，公司累計回購股份106.58萬股，約佔總股本的0.26%，最高成交價為20.39元/股，最低成交價為17.84元/股，成交總金額為1999.77萬元（不含交易費用）。後續將繼續實施回購方案並及時披露。"
-    },
-    {
-      "id": "5022040",
-      "time": "2026-08-03 16:34:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【海利得：截至7月底累計耗資1.06億元回購1.75%股份】海利得公告稱，公司於2026年6月1日透過以集中競價交易方式回購股份方案，回購總額不低於1.5億元（含）且不超過3億元（含）。截至7月31日收盤，公司累計回購股份2031.92萬股，佔公司目前總股本的1.75%，成交金額為1.06億元（不含交易費用），最高成交價為5.51元/股，最低成交價為5.08元/股。後續將根據市場情況擇機實施回購計劃。"
     }
   ]
 }
