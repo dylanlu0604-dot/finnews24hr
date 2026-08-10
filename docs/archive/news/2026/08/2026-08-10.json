@@ -1,7 +1,101 @@
 {
   "date": "2026-08-10",
-  "count": 625,
+  "count": 635,
   "items": [
+    {
+      "id": "5033069",
+      "time": "2026-08-10 10:34:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國有色金屬工業協會：7月中國銅產業月度景氣指數為48.5】中國有色金屬工業協會：中國銅產業月度景氣指數監測模型結果顯示，7月，中國銅產業月度景氣指數為48.5，較6月上升0.9個點，景氣燈繼續處於“正常”區間；先行合成指數為89.6，較6月上升1個點；一致合成指數為85.5，較6月下降1.3個點。景氣指數連續2個月回升，表明銅產業整體執行平穩向好；先行指數小幅上升，預示短期擴張動能將持續釋放。近13個月中國銅產業月度景氣指數見下表。"
+    },
+    {
+      "id": "5033068",
+      "time": "2026-08-10 10:34:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【松延動力成立智服科技公司 含多項AI業務】企查查APP顯示，近日，松延智服（煙臺）科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧通用應用系統；人工智慧硬體銷售等。企查查股權穿透顯示，該公司由北京松延動力科技集團股份有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019fe985-336d-7aab-8fcf-9cbf6a49c0cb",
+      "time": "2026-08-10 10:34:08",
+      "tags": [
+        "MKT News",
+        "4568.T",
+        "Impact bullish",
+        "1801.HK"
+      ],
+      "text": "【Daiichi Sankyo, Innovent Biologics sign exclusive mainland China commercialization deal for Vifutai (quizartinib hydrochloride tablets)】Daiichi Sankyo said Aug 10 it and Innovent Biologics have signed an exclusive entrusted promotion agreement for Vifutai (quizartinib hydrochloride tablets) in mainland China. Under the deal, Daiichi Sankyo will be responsible for clinical development, manufacturing and supply, while Innovent obtains exclusive rights to promote and will lead commercialization in the China market."
+    },
+    {
+      "id": "5033067",
+      "time": "2026-08-10 10:34:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【PCB概念股震盪走弱】泰金新能跌超10%，威爾高、本川智慧、東山精密、歐克科技、光華科技、德福科技、順絡電子等跌幅居前。"
+    },
+    {
+      "id": "te:markets:573979",
+      "time": "2026-08-10 10:34:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Shares Rise Hover at Over 2-Week Peak — Indonesian equities rose 47 points or 0.7% to 6,455 in early deals on Monday, extending last week’s momentum. Gains were broad-based across cyclicals, basic materials, energy, and financials, lifting the market to its highest level in more than two weeks. Sentiment was supported by stronger-than-expected Q2 GDP growth and a sizeable IDR 70 trillion liquidity injection into state-owned banks. Meanwhile, July’s forex reserves held steady around USD 145 billion, underscoring resilient external buffers. However, caution lingered after weak CPI and PPI readings from top trading partner China signaled fragile demand, even as easing oil shocks from the Middle East conflict tempered cost pressures. Among notable movers were Hartadinata Abadi (5.6%), Indosat (2.8%), Vale Indonesia (1.9%), and Perusahaan Gas Negara (1.0%). Traders now brace for Indonesia's July consumer sentiment after June's figures slipped to a nine-month low."
+    },
+    {
+      "id": "5033066",
+      "time": "2026-08-10 10:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "工業母機概念盤中震盪拉昇，恆進感應、華中數控漲超10%，科德數控、秦川機床、華東數控、瀋陽機床等漲幅靠前。"
+    },
+    {
+      "id": "5033065",
+      "time": "2026-08-10 10:32:48",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "摩根資產管理投資組合經理Priya Misra表示，美聯儲和財政部肯定開始擔心長端利率的水準了。與日本聯手干預匯市、力挺沃什以及可能減少長債供應，都可能是美國財政部試圖釋出訊號，表明他們注意到了利率市場的走勢，而且不會猶豫使用手中各種工具。"
+    },
+    {
+      "id": "5033064",
+      "time": "2026-08-10 10:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報144150元/噸，較上日16:30價格上漲1600元/噸。"
+    },
+    {
+      "id": "5033063",
+      "time": "2026-08-10 10:31:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數（TOPIX）午盤收盤上漲0.8%，至4,107.14點；日本日經指數午盤收盤上漲2%，至66,931.48點。"
+    },
+    {
+      "id": "5033062",
+      "time": "2026-08-10 10:30:59",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【貝森特多管齊下力阻美債收益率攀升 華爾街嗅到政策訊號】華爾街交易員和策略師表示，美國財政部長斯科特·貝森特正在釋放新訊號：他亟欲避免債券收益率進一步急升。他在一週內接連出招，市場人士認為，這些舉措旨在緩解美國國債市場的壓力；此前，長期收益率飆升至19年來高點，推升從購屋族到美國企業界廣泛領域的融資成本。首先，他出手安排了美國自1998年以來首次干預匯市，以支撐日元，降低日本拋售美債以籌集美元買進日元的風險。他還提及，日本未來可以動用美聯儲一項融資機制。然後是上週的季度發債公告，貝森特負責的財政部對其指引做出一項細微且出乎意料的調整，被市場解讀為替未來可能削減長天期公債發行量開啟大門。貝森特近期也頻頻透過電視訪問和社群媒體，為美聯儲主席凱文·沃什新的溝通策略辯護。美聯儲上個月會議之後，沃什未能說明該央行將如何或何時採取行動來壓低通脹，導致收益率上揚。"
+    },
     {
       "id": "5033061",
       "time": "2026-08-10 10:30:11",
