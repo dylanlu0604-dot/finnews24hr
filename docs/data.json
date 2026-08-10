@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-10 15:36:35",
-  "count": 15951,
+  "updated": "2026-08-10 15:40:31",
+  "count": 15948,
   "items": [
+    {
+      "id": "mkt:019fea9d-1d64-7aab-8fd4-44b3f75b5eb1",
+      "time": "2026-08-10 15:39:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesman said talks with Oman aim to determine navigation routes through the Strait of Hormuz."
+    },
+    {
+      "id": "5033484",
+      "time": "2026-08-10 15:39:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓智庫：半導體推動經濟改善勢頭擴大】韓國開發研究院（KDI）10日釋出《經濟動向》8月刊指出，半導體出口和裝置投資增加推動韓國經濟改善勢頭進一步擴大。據報告，出口和裝置投資以半導體為中心大幅增加，耐用品推動消費增幅進一步擴大。但在美國實施關稅措施、中東局勢持續不穩的情況下，物價漲幅仍高企，僱傭步伐放緩，對內外不確定性因素猶存。"
+    },
+    {
+      "id": "mkt:019fea9c-358a-7aab-8fd4-3d5dbec9ab6c",
+      "time": "2026-08-10 15:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Lebanese presidential office said the president received a briefing from the head of the negotiating delegation and other officials on last week's Lebanon-US-Israel talks in Rome, and issued instructions for the next phase of work."
+    },
+    {
+      "id": "5033483",
+      "time": "2026-08-10 15:37:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器：擬變更H股發行並上市審計機構為德勤香港】正泰電器公告稱，為推進H股發行並上市後續事項，公司擬變更審計機構。原審計機構為天健國際會計師事務所有限公司，擬聘請德勤‧關黃陳方會計師行（德勤香港）。公司已與原機構充分溝通，對方無異議。8月10日，董事會審議透過該議案，尚需2026年第二次臨時股東會審議，透過後生效。"
+    },
+    {
+      "id": "mkt:019fea9a-5b37-7aab-8fd4-35de4523aae8",
+      "time": "2026-08-10 15:36:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Shenzhen August new-home and resale transactions rise in tandem】Beike Research Institute data show Shenzhen’s new-home and resale markets warmed in August. Resale contract signings at Beike’s Shenzhen partner stores rose 13% week-on-week last week; average daily resale signings in August were 9% higher than July, with Aug. 9 the highest daily level since June. New-home subscription volumes increased 14% week-on-week last week; average daily new-home subscriptions in August were up 40% versus July, indicating earlier pent-up demand is being released."
+    },
+    {
+      "id": "5033482",
+      "time": "2026-08-10 15:36:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊：日本投資者拋售美債、買入歐洲債券】巴克萊資料顯示，上月日本投資者為境外債券淨買入方，買入歐洲發達市場債券，同時拋售美國國債；海外投資者則持續拋售日本國債。包括門田真一郎在內的巴克萊策略師在研報中寫道：“7 月海外利率持續上行，日本投資者重新淨買入境外債券，不過規模有限，達 4000 億日元。”"
+    },
+    {
+      "id": "5033481",
+      "time": "2026-08-10 15:36:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【比亞迪“RACCO”在日本上市兩週訂單破千】“RACCO”於7月28日在日本上市，截至8月9日，訂單量達到1002輛，上市兩週便超過最初設定的1000輛訂單目標。"
+    },
     {
       "id": "5033480",
       "time": "2026-08-10 15:35:40",
@@ -145113,95 +145176,6 @@
         "MKT News"
       ],
       "text": "【Ant Lingbo confirms investor talks, will focus on general‑purpose robot brain and speed industrial rollout】Media reported on Aug 3 that Ant Lingbo has launched a first financing round seeking 1.5 bln yuan and aims to complete a second-round financing by year-end. Ant Lingbo said it is in contact with investors and, as Ant’s core deployment in the embodied robotics field, will continue to focus on a general-purpose robot brain, increase investment in embodied-native technologies and accelerate industrial deployment."
-    },
-    {
-      "id": "5021889",
-      "time": "2026-08-03 15:40:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其部長公佈：7月出口額達256億美元。"
-    },
-    {
-      "id": "mkt:019fc690-cbaa-7aab-8f51-41f10183244b",
-      "time": "2026-08-03 15:40:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "DAX"
-      ],
-      "text": "Final July manufacturing PMI readings for France, Germany and the euro area are due in 10 minutes."
-    },
-    {
-      "id": "5021888",
-      "time": "2026-08-03 15:40:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【螞蟻靈波確認融資傳聞：將持續聚焦通用機器人大腦，加大對具身原生技術路線投入】有報道稱，螞蟻靈波已啟動首輪融資，擬募資15億元，目標在今年年底完成二輪融資。該融資若如期完成，將突破具身領域創業公司的融資速度。對於該情況，螞蟻靈波向新浪科技表示：“確實在跟投資人接觸，螞蟻靈波作為螞蟻在具身領域的核心佈局，將持續聚焦通用機器人大腦，加大對具身原生技術路線的投入，加速產業落地。”（新浪科技）"
-    },
-    {
-      "id": "mkt:019fc690-2ae9-7aab-8f51-39169555d528",
-      "time": "2026-08-03 15:39:24",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian foreign ministry spokesman Baghaei said there are no plans in the \"coming days\" to receive a U.S. delegation or to send an Iranian delegation for talks."
-    },
-    {
-      "id": "5021887",
-      "time": "2026-08-03 15:39:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【摩洛哥內政部：休達移民危機致11人死亡】摩洛哥內政部2日釋出宣告說，休達發生的非法移民越境事件導致11人死亡。 這是摩洛哥方面首次公佈休達移民危機死亡人數，摩方釋出的資料明顯低於西班牙方面的資料。西班牙《國家報》2日援引休達當地官員訊息說，西班牙位於北非的飛地休達移民危機已造成至少72人死亡。 摩內政部表示，11名死者中，有10人因溺水身亡，另有一人從岩石區域墜亡。摩方正與西班牙方面合作，核對死亡資料並確認遺體身份。 摩內政部還說，此次共有近4萬人非法進入休達。摩內政部將此次非法越境事件歸咎於“惡意利用”社交媒體、“誤導性資訊的傳播”以及“對法律條款的誤解”。(新華社)"
-    },
-    {
-      "id": "5021886",
-      "time": "2026-08-03 15:38:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達70億港元。"
-    },
-    {
-      "id": "5021885",
-      "time": "2026-08-03 15:37:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日媒：熊本氣溫首破40度達危險水平，氣象廳呼籲當地民眾警惕中暑】據日本《每日新聞》8月3日報道，日本熊本縣3日歷史上首次觀測到氣溫超過40度。日本氣象廳呼籲當地民眾警惕中暑。據報道，當地時間3日下午2時左右，熊本市中央區氣溫觀測值為40.3度，這是熊本縣內有記錄以來首次觀測到氣溫超過40度。接近地震震源的甲佐町氣溫達39.8度，斷水仍然持續的八代市氣溫達38度。報道稱，對受到地震災害影響的熊本地區而言，這種酷暑十分危險。（環球網）"
-    },
-    {
-      "id": "5021884",
-      "time": "2026-08-03 15:37:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度南部暴雨已致9人死亡】印度媒體3日報道，印度南部喀拉拉邦日前遭暴雨侵襲，截至3日上午，已造成至少9人死亡。另有當地媒體2日晚報道說，截至2日晚間，喀拉拉邦有8人因暴雨失蹤，13人受傷，5792人被疏散轉移。（新華社）"
-    },
-    {
-      "id": "mkt:019fc68d-bab4-7aab-8f51-308f71170857",
-      "time": "2026-08-03 15:36:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Foreign Ministry spokesman Baghaei said the ministry will not adjust its stance to cater to political factions."
-    },
-    {
-      "id": "5021883",
-      "time": "2026-08-03 15:36:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長電科技設立海外財資中心 強化全球財資管理佈局】據長電科技訊息，近日，長電科技海外財資中心（Finance and Treasury Centre，FTC）透過新加坡經濟發展局（EDB）稽核，正式獲批設立；公司的海外司庫管理平臺歷經半年建設同步成功上線。依託新設立的海外財資中心，長電科技將集中開展資金、融資、結算和分析等業務，統籌海外經營主體的財資管理職能，進一步提升全球資金的集中化、精細化管理水平和運營效率。同時，將加強境內外財務資源協同，為公司全球業務拓展、海外經營主體運營以及重點專案實施提供更加靈活、高效的資金保障。"
     }
   ]
 }
