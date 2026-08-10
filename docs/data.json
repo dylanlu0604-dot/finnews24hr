@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-10 09:56:42",
-  "count": 15871,
+  "updated": "2026-08-10 10:00:38",
+  "count": 15868,
   "items": [
+    {
+      "id": "5032995",
+      "time": "2026-08-10 10:00:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【黃金概念持續走強，潮宏基等多股漲停】黃金概念持續走強，潮宏基、寶鼎科技、鵬欣資源漲停，華鈺礦業、招金黃金、菜百股份、西部黃金、盛屯礦業、盛達資源等跟漲。"
+    },
+    {
+      "id": "5032994",
+      "time": "2026-08-10 09:59:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紡服行業板塊震盪反彈，富春染織漲停】紡服行業板塊震盪反彈，富春染織漲停，雲中馬、比音勒芬、萬里馬、百隆東方、ST如意、報喜鳥等跟漲。"
+    },
+    {
+      "id": "5032993",
+      "time": "2026-08-10 09:58:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股寒武紀跌超5%，成交額超100億元。"
+    },
+    {
+      "id": "mkt:019fe964-c8b0-7aab-8fce-f1179a818b64",
+      "time": "2026-08-10 09:58:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "688256.SH",
+        "Impact bearish"
+      ],
+      "text": "Cambricon shares on the A-share market fell more than 5% as turnover topped 10 billion yuan."
+    },
+    {
+      "id": "5032992",
+      "time": "2026-08-10 09:58:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲3%，現報965.00元。"
+    },
+    {
+      "id": "5032991",
+      "time": "2026-08-10 09:58:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "軍工板塊異動拉昇，長城軍工直線漲停，北方長龍漲超10%，湖南天雁、建設工業、東安動力衝高。"
+    },
+    {
+      "id": "5032990",
+      "time": "2026-08-10 09:57:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高爭民爆漲停走出3連板】高爭民爆漲停走出3連板，3天累計漲幅達33.11%。"
+    },
+    {
+      "id": "5032989",
+      "time": "2026-08-10 09:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Polymarket預測市場認為：AI泡沫在年底前破裂的機率為14%。"
+    },
+    {
+      "id": "mkt:019fe962-9801-7aab-8fce-e99f3a67144f",
+      "time": "2026-08-10 09:56:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US energy firm ships drilling equipment to Greenland; authorities issue stern warning】Greenland’s autonomous government issued a stern warning to a Texas-headquartered US energy firm after the company recently transported drilling equipment to Greenland, saying it must not undertake oil drilling without proper permits."
+    },
+    {
+      "id": "5032988",
+      "time": "2026-08-10 09:56:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【遠大醫藥(00512)早盤漲超5% 自研GPN01530-2斬獲美國FDA快速通道資格】遠大醫藥(00512)早盤漲超5%，截至發稿，漲5.35%，報5.515港元，成交額1337.45萬港元。訊息面上，8月9日，遠大醫藥釋出公告，集團自主研發的用於診斷實體瘤的全球創新放射性核素偶聯藥物 (“RDC”) GPN01530-2近日獲得美國食品藥品監督管理局(“FDA”)授予的快速通道資格(Fast Track Designation，“FTD”)。FDA 設立快速通道機制，旨在加速和促進用於治療當前並無有效治療方案的嚴重或危及生命的疾病、且展示出有滿足這一疾病當前未被滿足的醫療需求潛力的新藥的評審過程。"
+    },
     {
       "id": "5032987",
       "time": "2026-08-10 09:55:15",
@@ -144434,123 +144525,6 @@
         "市場"
       ],
       "text": "【吳清：積極支援符合條件的內地企業在香港上市】中國證監會主席吳清8月3日在香港交易所舉行的五年期中國國債期貨上市儀式上表示，在支援企業赴港上市方面，大力最佳化境外上市備案工作流程，提升規範化和透明度，積極支援符合條件的內地企業在香港上市。（中國證券報）"
-    },
-    {
-      "id": "5021433",
-      "time": "2026-08-03 10:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高法釋出5起典型案例 規範平臺經營】今天（8月3日），最高人民法院釋出5起依法規範平臺經營、保護消費者合法權益典型案例。平臺經濟是數字經濟的重要組成部分，是發展新質生產力的重要載體。近年來，直播電商、短影片運營、平臺代運營等新業態快速發展，在關鍵領域“大顯身手”，但也出現了主體權責邊界模糊、競爭規則適配不足、依法經營指引不夠清晰、虛擬財產保護缺位等突出問題，既損害消費者合法權益，也影響市場經濟秩序。本次釋出的5起案例，覆蓋直播電商、平臺依法經營，市場競爭秩序維護，虛擬財產交易等多個場景，集中體現了人民法院依法規範平臺經營、保護消費者合法權益的鮮明態度，為各類市場主體明確行為規則、穩定經營預期提供清晰指引。（央視新聞）"
-    },
-    {
-      "id": "5021432",
-      "time": "2026-08-03 09:59:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【種植業與林業板塊走高，新賽股份漲停】種植業與林業板塊走高，新賽股份漲停，海南橡膠、新農開發、神農種業、敦煌種業、平潭發展跟漲。"
-    },
-    {
-      "id": "5021431",
-      "time": "2026-08-03 09:59:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：秘魯聖亞歷杭德羅西北偏西 66 公里處發生 5.2 級地震。"
-    },
-    {
-      "id": "te:markets:571966",
-      "time": "2026-08-03 09:58:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Begin Month Higher — The Hang Seng Index edged up 0.4%, or 94 points, to 25,978 on Monday, tracking gains across global markets as investor sentiment improved on optimism over renewed US-Iran talks. Oil prices declined while US equity-index futures advanced after US President Donald Trump announced that fresh negotiations with Iran would begin on Monday, raising hopes of easing tensions in the Middle East and the eventual reopening of the Strait of Hormuz. In addition, Hong Kong Financial Secretary Paul Chan signaled that the government is expected to raise its 2026 GDP growth forecast later this month following stronger-than-expected economic performance, while the launch of offshore China Government Bond Futures reinforced the city's role as an international financial hub. Notable movers included Tencent (2.1%), Semiconductor Manufacturing International Corporation (0.5%), Kuaishou (1.2%), Lenovo (0.5%), and Shenzhen Xunce (15.8%)."
-    },
-    {
-      "id": "5021430",
-      "time": "2026-08-03 09:58:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星重工簽署價值 2680 億韓元合約。"
-    },
-    {
-      "id": "5021429",
-      "time": "2026-08-03 09:58:19",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：先進封裝持續迭代升級，玻璃基板大有可為】中信證券研報稱，我們看好未來在AI產業浪潮下高階晶片效能持續提升的趨勢，其中玻璃基板的應用有望成為核心解決方案之一。當前我們認為玻璃基載板兼具趨勢高確定性和市場彈性，有望率先量產落地，成為未來先進封裝升級的重要方向，而玻璃中介層等方案的逐步落地，或進一步擴充玻璃基板應用的潛在空間。當前客戶需求迫切，且眾多產業大廠均已切入佈局，商業化程序有望提速，我們重點看好玻璃基載板的發展及投資機會，建議重點關注各環節受益機會明確廠商：1）中游製造環節，技術能力、客戶卡位、產品開發相對領先的公司；2）上游材料及裝置環節，產品迭代升級幅度大、國產替代空間廣闊的產業環節，建議關注以下方向，玻璃原片；TGV成孔；電鍍；PVD；曝光；CMP。未來若玻璃中介層大規模應用，上述環節公司亦存在切入受益機會，同時我們也看到玻璃載體、玻璃橋等技術方向亦有較大增長放量機會。"
-    },
-    {
-      "id": "mkt:019fc557-bced-7aab-8f4c-d9ce2aa528de",
-      "time": "2026-08-03 09:58:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share lithium-mining stocks traded higher after choppy session; Jiangte Electric hit the daily up-limit, with Tiantie Technology and Yongxing Materials among the top gainers."
-    },
-    {
-      "id": "5021428",
-      "time": "2026-08-03 09:58:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1%至43,552.65點。"
-    },
-    {
-      "id": "5021427",
-      "time": "2026-08-03 09:57:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元/日元<JPY=EBS>最新下跌0.64%，報156.36。"
-    },
-    {
-      "id": "5021426",
-      "time": "2026-08-03 09:57:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【鋰礦概念震盪走高 江特電機漲停】鋰礦概念震盪走高，江特電機漲停，天鐵科技、永興材料等漲幅居前。"
-    },
-    {
-      "id": "5021425",
-      "time": "2026-08-03 09:56:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【宜賓地震，五糧液回應來了】據中國地震臺網正式測定，2026年8月3日2時21分，四川宜賓市高縣發生4.8級地震。記者以投資者身份瞭解到，五糧液未受地震影響，生產經營正常。（第一財經記者）"
-    },
-    {
-      "id": "5021424",
-      "time": "2026-08-03 09:56:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄媒：俄單日擊落固定翼無人機數量創紀錄】據俄羅斯國防部2日釋出的戰報，俄防空兵當天在多地共擊落1158架固定翼無人機。今日俄羅斯通訊社報道說，這是特別軍事行動以來俄軍擊落該型別無人機最多的一天。今日俄羅斯通訊社彙總資料顯示，俄軍當天擊落的固定翼無人機數量重新整理了此前於7月25日擊落1060架的紀錄。俄軍戰報顯示，1日夜間到2日凌晨，位於俄西部的布良斯克州、伏爾加格勒州、別爾哥羅德州等十多個地區遭到烏軍無人機攻擊。俄羅斯國家原子能公司執行長利哈喬夫2日在社交媒體上說，一架烏軍無人機1日晚撞擊了距離扎波羅熱核電站3號機組幾米遠的一段走廊，所幸該無人機沒有爆炸，未造成損失。俄方已向國際原子能機構通報了這一事件。通報還說，俄軍無人機當天擊毀一艘為烏軍運送物資的船舶、3臺為烏軍運送物資和彈藥的遙控無人運輸載具和一座為烏軍服務的汽車加油站，打擊了一座烏軍雷達站。俄軍機當天摧毀了位於烏克蘭哈爾科夫州的兩座烏軍無人機操控站。（新華社）"
-    },
-    {
-      "id": "mkt:019fc556-82f3-7aab-8f4c-d6c9605ee832",
-      "time": "2026-08-03 09:56:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share gas-turbine theme outperforms; Feiwo Technology up over 10%, Qilun Technology, Dongfang Electric, Wanze, Changbao and Yingliu also advanced."
     }
   ]
 }

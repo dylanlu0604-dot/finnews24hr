@@ -1,7 +1,98 @@
 {
   "date": "2026-08-10",
-  "count": 522,
+  "count": 532,
   "items": [
+    {
+      "id": "5032995",
+      "time": "2026-08-10 10:00:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【黃金概念持續走強，潮宏基等多股漲停】黃金概念持續走強，潮宏基、寶鼎科技、鵬欣資源漲停，華鈺礦業、招金黃金、菜百股份、西部黃金、盛屯礦業、盛達資源等跟漲。"
+    },
+    {
+      "id": "5032994",
+      "time": "2026-08-10 09:59:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紡服行業板塊震盪反彈，富春染織漲停】紡服行業板塊震盪反彈，富春染織漲停，雲中馬、比音勒芬、萬里馬、百隆東方、ST如意、報喜鳥等跟漲。"
+    },
+    {
+      "id": "5032993",
+      "time": "2026-08-10 09:58:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股寒武紀跌超5%，成交額超100億元。"
+    },
+    {
+      "id": "mkt:019fe964-c8b0-7aab-8fce-f1179a818b64",
+      "time": "2026-08-10 09:58:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "688256.SH",
+        "Impact bearish"
+      ],
+      "text": "Cambricon shares on the A-share market fell more than 5% as turnover topped 10 billion yuan."
+    },
+    {
+      "id": "5032992",
+      "time": "2026-08-10 09:58:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲3%，現報965.00元。"
+    },
+    {
+      "id": "5032991",
+      "time": "2026-08-10 09:58:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "軍工板塊異動拉昇，長城軍工直線漲停，北方長龍漲超10%，湖南天雁、建設工業、東安動力衝高。"
+    },
+    {
+      "id": "5032990",
+      "time": "2026-08-10 09:57:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高爭民爆漲停走出3連板】高爭民爆漲停走出3連板，3天累計漲幅達33.11%。"
+    },
+    {
+      "id": "5032989",
+      "time": "2026-08-10 09:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "Polymarket預測市場認為：AI泡沫在年底前破裂的機率為14%。"
+    },
+    {
+      "id": "mkt:019fe962-9801-7aab-8fce-e99f3a67144f",
+      "time": "2026-08-10 09:56:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【US energy firm ships drilling equipment to Greenland; authorities issue stern warning】Greenland’s autonomous government issued a stern warning to a Texas-headquartered US energy firm after the company recently transported drilling equipment to Greenland, saying it must not undertake oil drilling without proper permits."
+    },
+    {
+      "id": "5032988",
+      "time": "2026-08-10 09:56:14",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【遠大醫藥(00512)早盤漲超5% 自研GPN01530-2斬獲美國FDA快速通道資格】遠大醫藥(00512)早盤漲超5%，截至發稿，漲5.35%，報5.515港元，成交額1337.45萬港元。訊息面上，8月9日，遠大醫藥釋出公告，集團自主研發的用於診斷實體瘤的全球創新放射性核素偶聯藥物 (“RDC”) GPN01530-2近日獲得美國食品藥品監督管理局(“FDA”)授予的快速通道資格(Fast Track Designation，“FTD”)。FDA 設立快速通道機制，旨在加速和促進用於治療當前並無有效治療方案的嚴重或危及生命的疾病、且展示出有滿足這一疾病當前未被滿足的醫療需求潛力的新藥的評審過程。"
+    },
     {
       "id": "5032987",
       "time": "2026-08-10 09:55:15",
