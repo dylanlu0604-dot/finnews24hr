@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-11 05:01:19",
-  "count": 15804,
+  "updated": "2026-08-11 05:09:33",
+  "count": 15803,
   "items": [
+    {
+      "id": "5034604",
+      "time": "2026-08-11 05:08:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐西蘭儲備銀行釋出新審慎徵費的諮詢檔案。該項徵費將適用於銀行、非銀行存款機構、保險公司以及金融市場基礎設施。"
+    },
+    {
+      "id": "5034603",
+      "time": "2026-08-11 05:07:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震遇難人數升至6301人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯10日說，6月24日地震造成的遇難人數已升至6301人。（新華社）"
+    },
+    {
+      "id": "5034602",
+      "time": "2026-08-11 05:03:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際金價週一漲1.1%，現貨白銀漲3.2%】週一紐約尾盤，現貨黃金漲1.10%，報4389.38美元/盎司。COMEX黃金期貨漲1.10%，報4448.20美元/盎司，逼近6月17日頂部4465.90美元和6月4日頂部4607.40美元。現貨白銀漲3.20%，報65.7089美元/盎司。COMEX白銀期貨漲3.80%，報65.910美元/盎司。COMEX銅期貨漲0.68%，報6.6360美元/磅。現貨鉑金漲0.32%，現貨鈀金漲0.33%。"
+    },
+    {
+      "id": "5034601",
+      "time": "2026-08-11 05:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部長表示，國際社會應當就霍爾木茲海峽封鎖所帶來的安全與經濟後果追究美國的責任，並指責美國與以色列造成這條戰略水道局勢動盪。"
+    },
     {
       "id": "mkt:019fed79-bfe1-7aab-8fe1-2253709619e8",
       "time": "2026-08-11 05:00:06",
@@ -143819,46 +143851,6 @@
         "公司"
       ],
       "text": "Snap 執行長：公司自研 AI 程式碼審查工具目前已可稽核 Snap 內部 90% 的程式碼合併請求。"
-    },
-    {
-      "id": "5023230",
-      "time": "2026-08-04 05:08:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯： 委內瑞拉地震遇難人數升至 6125 人。"
-    },
-    {
-      "id": "5023229",
-      "time": "2026-08-04 05:08:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "Palantir：在第二季度與一家科技企業簽署 3.7 億美元合同。"
-    },
-    {
-      "id": "5023228",
-      "time": "2026-08-04 05:06:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "Snap執行長： 人工智慧正助力我們加快服務最佳化速度，提升使用者參與度，併為廣告主改善轉化效果。"
-    },
-    {
-      "id": "5023227",
-      "time": "2026-08-04 05:05:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "週一（8月3日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7581元，較上週五紐約尾盤跌57點，日內整體交投於6.7461-6.7593元區間。"
-    },
-    {
-      "id": "mkt:019fc971-1daf-7aab-8f5f-b4f4ba745110",
-      "time": "2026-08-04 05:04:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan ruling party backs cut to food consumption tax to 1% as Takaichi pushes pledge】The ruling party’s tax and social security committee approved a government proposal to cut the food consumption tax from 8% to 1% from April next year for a two-year period. Cabinet approval is sought early next month and the government aims to table legislation at an autumn extraordinary Diet session; the party’s top decision body may review the draft as soon as Wednesday. From June the plan includes roughly ¥600 billion a year in cash transfers to low- and middle-income households, with payments scaled by income. Funding remains unspecified; the government plans to rely on non-tax revenue, tax receipts and savings from reviewing tax preferences and subsidies to plug the gap."
     }
   ]
 }
