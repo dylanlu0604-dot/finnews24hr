@@ -1,7 +1,58 @@
 {
   "date": "2026-08-10",
-  "count": 921,
+  "count": 926,
   "items": [
+    {
+      "id": "mkt:019fea1f-16f7-7aab-8fd1-c95d002b604e",
+      "time": "2026-08-10 13:22:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Copper",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Copper steadies after six-week rally as supply squeeze and cooling Fed rate-hike bets underpin prices】After a six-week rally, copper is trading in a narrow range as supply tightness and softer US rate-hike expectations keep prices elevated. LME copper topped $14,000/ton last week, reaching the highest level since late-January. Market expectations that the WHITE HOUSE will impose import tariffs have driven large copper flows into the US, tightening available supply elsewhere and supporting LME prices. Softer Fed tightening odds were reinforced by weaker-than-expected US jobs data on Friday, easing inf concerns and bolstering risk assets. CITIC Futures expects copper to remain elevated with heightened volatility in the near term."
+    },
+    {
+      "id": "5033283",
+      "time": "2026-08-10 13:22:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣哈通訊建設大灣區首個智慧指揮排程專業化基地】廣哈通訊公眾號訊息，8月7日上午，廣哈通訊智慧指揮排程產業園專案啟動儀式在廣州市黃埔區順利舉行。該產業園由廣哈通訊投資建設，預計2028年12月全面竣工交付。園區科學佈局科技創新研發、智慧化生產製造、綜合運營服務三大核心功能板塊，著力打造粵港澳大灣區首個深耕智慧指揮排程垂直領域的專業化產業基地。"
+    },
+    {
+      "id": "5033282",
+      "time": "2026-08-10 13:21:39",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通將標普500指數年末目標位上調至8,000點】摩根大通週一將標普500指數年末目標位上調至8,000點，理由是企業盈利強勁，且有跡象表明大型雲服務提供商（hyperscaler）的AI投資即將推動營收實現更快增長。這一新目標較上週五7,757.64點的收盤價意味著約3.12%的上漲空間。"
+    },
+    {
+      "id": "mkt:019fea1d-a0d7-7aab-8fd1-c50d2c291dba",
+      "time": "2026-08-10 13:20:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's central bank governor said the bank's previous forecast of 1.8% inflation for 2026 remains achievable."
+    },
+    {
+      "id": "5033281",
+      "time": "2026-08-10 13:20:33",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗研究首次覆蓋領益智造，給予中性初始評級，將公司A股目標價定為13.00元，將H股目標價定為8.00港元。"
+    },
     {
       "id": "mkt:019fea1c-150d-7aab-8fd1-bdab825f3b9e",
       "time": "2026-08-10 13:18:56",
