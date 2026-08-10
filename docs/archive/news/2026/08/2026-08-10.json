@@ -1,7 +1,132 @@
 {
   "date": "2026-08-10",
-  "count": 489,
+  "count": 503,
   "items": [
+    {
+      "id": "mkt:019fe959-ecfe-7aab-8fce-bb6fa7387361",
+      "time": "2026-08-10 09:46:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "A-share morning session cobalt-mining stocks rallied: Hanrui Cobalt rose over 10%, Pengxin Resources hit the daily limit, and Tengyuan Cobalt, HUAYOU NICKEL BRAND, Zhongkuang Resources, GEM and Shengtun Mining also advanced."
+    },
+    {
+      "id": "5032973",
+      "time": "2026-08-10 09:46:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "儲存晶片板塊震盪走低，朗科科技跌超13%，普冉股份、託倫斯、聖邦股份、北京君正、佰維儲存跟跌。"
+    },
+    {
+      "id": "5032972",
+      "time": "2026-08-10 09:46:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料新設子公司 含多項AI相關業務】企查查APP顯示，近日，崑山奧朗資料科技有限公司成立，經營範圍包含網際網路資料服務；人工智慧應用軟體開發；人工智慧基礎資源與技術平臺；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由奧飛資料全資持股。"
+    },
+    {
+      "id": "mkt:019fe958-fdfc-7aab-8fce-b021891c407f",
+      "time": "2026-08-10 09:45:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China STAR 50 Index extended losses to 1%."
+    },
+    {
+      "id": "mkt:019fe958-cfd2-7aab-8fce-a8ba6f59db2a",
+      "time": "2026-08-10 09:45:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share-listed Zhongji Xuchuang fell more than 3% in early trade, with turnover topping 11 billion yuan."
+    },
+    {
+      "id": "5032971",
+      "time": "2026-08-10 09:45:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠光軟體中標國家管網集團財務資料治理專案】據遠光軟體訊息，近日，遠光軟體成功中標國家石油天然氣管網集團有限公司“財務資料治理及產品化建設專案（標段一）”，實現了公司在央企資料類業務領域的重大突破。"
+    },
+    {
+      "id": "5032970",
+      "time": "2026-08-10 09:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創跌超3% 成交額超110億元】中際旭創成交額超110億元，現跌超3%；新易盛成交額超70億元，現跌超5%；天孚通訊成交額超20億元，現跌超1%。"
+    },
+    {
+      "id": "5032969",
+      "time": "2026-08-10 09:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美戰機攔截特朗普球場附近飛機】據美國媒體報道，當地時間8月9日，至少三架飛機在新澤西州貝德明斯特附近“違反了臨時飛行限制”。當時美國總統特朗普正在當地的“特朗普高爾夫俱樂部”度週末，那裡正舉行高爾夫球賽。北美防空司令部出動F-16戰鬥機，對前兩架飛機進行了攔截，將其護送出限飛區，並與第三架飛機“建立了通訊使其合規飛行”。不過據報道，第三起事件似乎還是導致特朗普出發返回白宮的行程延誤了十多分鐘。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:573969",
+      "time": "2026-08-10 09:44:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hitachi Stock Price Hits 25-week High — Hitachi shares increased to 5665.00 JPY, the highest since February 2026. Over the past 4 weeks, Hitachi gained 20%, and in the last 12 months, it increased 31.82%."
+    },
+    {
+      "id": "mkt:019fe957-9afe-7aab-8fce-a7116903fae8",
+      "time": "2026-08-10 09:44:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "002466.SZ",
+        "Impact bullish",
+        "002460.SZ",
+        "603993.SS"
+      ],
+      "text": "China A-share lithium-mining sector rallied. Yongshan Lithium hit its daily price limit; Rongjie, Tianqi Lithium, Ganfeng Lithium, Yongxing Materials and Shengxin Lithium Energy also advanced."
+    },
+    {
+      "id": "5032968",
+      "time": "2026-08-10 09:44:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農藥概念持續走強，美邦股份漲停】農藥概念持續走強，美邦股份漲停，興發集團、聯化科技、天禾股份、和邦生物、穎泰生物、輝隆股份等跟漲。"
+    },
+    {
+      "id": "mkt:019fe957-1d5a-7aab-8fce-9b1f4c88d3df",
+      "time": "2026-08-10 09:43:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni military said it has the resolve and capability to contain sources of threat and prevent them from carrying out further hostile actions."
+    },
+    {
+      "id": "mkt:019fe956-d641-7aab-8fce-90ce49821f0e",
+      "time": "2026-08-10 09:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【July Beijing CPI reverses to MoM rise; YoY inflation eases】NBS Beijing survey team on Aug 10 said July Beijing CPI rose 0.2% MoM (June -0.4%) and rose 0.2% YoY, a 0.5 ppt slowdown from June. Food prices fell 0.6% MoM, a 0.6 ppt narrower decline than last month. By item: seasonal fruit supply pushed fresh fruit down 4.0%; eggs fell 1.7% on ample supply; pork rose early in the month then eased but ended up 5.1% for July; fresh vegetables rose 0.9% amid heavy rain in key producing areas. Food prices were down 2.6% YoY, subtracting roughly 0.33 ppt from headline CPI."
+    },
     {
       "id": "5032967",
       "time": "2026-08-10 09:43:11",
@@ -84,6 +209,15 @@
         "其他"
       ],
       "text": "【2026年深圳APEC峰會進入倒計時100天】今天，亞太經合組織（APEC）第三十三次領導人非正式會議進入倒計時100天。今年11月，亞太經合組織第三十三次領導人非正式會議將在深圳召開，這是中國第三次擔任APEC會議東道主，承辦城市深圳正以“開放、創新、合作”為主題，全面進入籌備衝刺階段。此前，深圳已舉辦林業部長級會議、中小企業工商論壇等多場預熱活動。（央視新聞）"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608103836167648",
+      "time": "2026-08-10 09:40:14",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【7月份北京CPI環比由降轉漲 同比漲幅回落】國家統計局北京調查總隊8月10日訊息，2026年7月份，北京市居民消費價格指數（CPI）環比由降轉漲，同比漲幅回落。"
     },
     {
       "id": "5032961",

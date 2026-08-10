@@ -1,7 +1,132 @@
 {
-  "updated": "2026-08-10 09:43:52",
-  "count": 15875,
+  "updated": "2026-08-10 09:47:38",
+  "count": 15876,
   "items": [
+    {
+      "id": "mkt:019fe959-ecfe-7aab-8fce-bb6fa7387361",
+      "time": "2026-08-10 09:46:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "A-share morning session cobalt-mining stocks rallied: Hanrui Cobalt rose over 10%, Pengxin Resources hit the daily limit, and Tengyuan Cobalt, HUAYOU NICKEL BRAND, Zhongkuang Resources, GEM and Shengtun Mining also advanced."
+    },
+    {
+      "id": "5032973",
+      "time": "2026-08-10 09:46:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "儲存晶片板塊震盪走低，朗科科技跌超13%，普冉股份、託倫斯、聖邦股份、北京君正、佰維儲存跟跌。"
+    },
+    {
+      "id": "5032972",
+      "time": "2026-08-10 09:46:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧飛資料新設子公司 含多項AI相關業務】企查查APP顯示，近日，崑山奧朗資料科技有限公司成立，經營範圍包含網際網路資料服務；人工智慧應用軟體開發；人工智慧基礎資源與技術平臺；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由奧飛資料全資持股。"
+    },
+    {
+      "id": "mkt:019fe958-fdfc-7aab-8fce-b021891c407f",
+      "time": "2026-08-10 09:45:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China STAR 50 Index extended losses to 1%."
+    },
+    {
+      "id": "mkt:019fe958-cfd2-7aab-8fce-a8ba6f59db2a",
+      "time": "2026-08-10 09:45:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A-share-listed Zhongji Xuchuang fell more than 3% in early trade, with turnover topping 11 billion yuan."
+    },
+    {
+      "id": "5032971",
+      "time": "2026-08-10 09:45:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠光軟體中標國家管網集團財務資料治理專案】據遠光軟體訊息，近日，遠光軟體成功中標國家石油天然氣管網集團有限公司“財務資料治理及產品化建設專案（標段一）”，實現了公司在央企資料類業務領域的重大突破。"
+    },
+    {
+      "id": "5032970",
+      "time": "2026-08-10 09:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創跌超3% 成交額超110億元】中際旭創成交額超110億元，現跌超3%；新易盛成交額超70億元，現跌超5%；天孚通訊成交額超20億元，現跌超1%。"
+    },
+    {
+      "id": "5032969",
+      "time": "2026-08-10 09:44:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美戰機攔截特朗普球場附近飛機】據美國媒體報道，當地時間8月9日，至少三架飛機在新澤西州貝德明斯特附近“違反了臨時飛行限制”。當時美國總統特朗普正在當地的“特朗普高爾夫俱樂部”度週末，那裡正舉行高爾夫球賽。北美防空司令部出動F-16戰鬥機，對前兩架飛機進行了攔截，將其護送出限飛區，並與第三架飛機“建立了通訊使其合規飛行”。不過據報道，第三起事件似乎還是導致特朗普出發返回白宮的行程延誤了十多分鐘。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:573969",
+      "time": "2026-08-10 09:44:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Hitachi Stock Price Hits 25-week High — Hitachi shares increased to 5665.00 JPY, the highest since February 2026. Over the past 4 weeks, Hitachi gained 20%, and in the last 12 months, it increased 31.82%."
+    },
+    {
+      "id": "mkt:019fe957-9afe-7aab-8fce-a7116903fae8",
+      "time": "2026-08-10 09:44:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "002466.SZ",
+        "Impact bullish",
+        "002460.SZ",
+        "603993.SS"
+      ],
+      "text": "China A-share lithium-mining sector rallied. Yongshan Lithium hit its daily price limit; Rongjie, Tianqi Lithium, Ganfeng Lithium, Yongxing Materials and Shengxin Lithium Energy also advanced."
+    },
+    {
+      "id": "5032968",
+      "time": "2026-08-10 09:44:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【農藥概念持續走強，美邦股份漲停】農藥概念持續走強，美邦股份漲停，興發集團、聯化科技、天禾股份、和邦生物、穎泰生物、輝隆股份等跟漲。"
+    },
+    {
+      "id": "mkt:019fe957-1d5a-7aab-8fce-9b1f4c88d3df",
+      "time": "2026-08-10 09:43:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni military said it has the resolve and capability to contain sources of threat and prevent them from carrying out further hostile actions."
+    },
+    {
+      "id": "mkt:019fe956-d641-7aab-8fce-90ce49821f0e",
+      "time": "2026-08-10 09:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【July Beijing CPI reverses to MoM rise; YoY inflation eases】NBS Beijing survey team on Aug 10 said July Beijing CPI rose 0.2% MoM (June -0.4%) and rose 0.2% YoY, a 0.5 ppt slowdown from June. Food prices fell 0.6% MoM, a 0.6 ppt narrower decline than last month. By item: seasonal fruit supply pushed fresh fruit down 4.0%; eggs fell 1.7% on ample supply; pork rose early in the month then eased but ended up 5.1% for July; fresh vegetables rose 0.9% amid heavy rain in key producing areas. Food prices were down 2.6% YoY, subtracting roughly 0.33 ppt from headline CPI."
+    },
     {
       "id": "5032967",
       "time": "2026-08-10 09:43:11",
@@ -93,6 +218,15 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超5000億元，較上日此時放量740億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202608103836167648",
+      "time": "2026-08-10 09:40:14",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【7月份北京CPI環比由降轉漲 同比漲幅回落】國家統計局北京調查總隊8月10日訊息，2026年7月份，北京市居民消費價格指數（CPI）環比由降轉漲，同比漲幅回落。"
     },
     {
       "id": "5032960",
@@ -144478,135 +144612,6 @@
         "CSI300"
       ],
       "text": "A-share AI application stocks rallied again. Jihong hit the daily limit. Chuanzhi Education recorded a sixth consecutive limit-up; Tianyu Shuke and Hengyin Technology posted second straight limit-ups. Foxit Software, Yidian Tianxia, Fengzhushou, Leo Group and BlueFocus also rose."
-    },
-    {
-      "id": "mkt:019fc54d-c7d9-7aab-8f4c-8449ddf1a478",
-      "time": "2026-08-03 09:47:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share electronic specialty gases sector weakened; CSSC Special Gas fell more than 10%, Zhengfan Technology dropped nearly 10%, with Yake Technology, Haohua Technology, Chengzhi, Guanggang Gas and Heyuan Gas also declining."
-    },
-    {
-      "id": "5021410",
-      "time": "2026-08-03 09:46:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI應用端再度走強 吉宏股份等多股漲停】早盤AI應用端再度走強，吉宏股份漲停，此前傳智教育6連板，天娛數科、恆銀科技2連板，福昕軟體、易點天下、蜂助手、利歐股份、藍色游標等跟漲。訊息面上，全球多模型聚合平臺OpenRouter釋出最新一週AI大模型呼叫量榜單，排名前五的產品全部由中國企業研發。登頂榜單首位的是小米MiMo-V2.5，單週呼叫量達到10.5萬億Token，環比增長12%。排名第二和第五的均來自DeepSeek。"
-    },
-    {
-      "id": "mkt:019fc54d-65ca-7aab-8f4c-7a5390155b22",
-      "time": "2026-08-03 09:46:51",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China STAR 50 Index losses widened to 4%."
-    },
-    {
-      "id": "mkt:019fc54c-49e8-7aab-8f4c-77373f5c34e7",
-      "time": "2026-08-03 09:45:38",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China A-share humanoid-robot concept stocks rallied; Zhongda Lide hit the daily trading limit, while Fengguang Precision, Fulai New Materials and Orbbec also advanced as of press time."
-    },
-    {
-      "id": "5021409",
-      "time": "2026-08-03 09:45:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "mkt:019fc54b-e2f2-7aab-8f4c-6c2a5ea077de",
-      "time": "2026-08-03 09:45:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "Shenzhen Composite Index losses widened to 1%; ChiNext Index fell 1.59%; China's Shanghai Composite Index fell 0.6%."
-    },
-    {
-      "id": "mkt:019fc54b-e18c-7aab-8f4c-63a905afff7e",
-      "time": "2026-08-03 09:45:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "China July RatingDog manufacturing PMI eased to 50.9 from 51.7 previously, remaining above the 50 expansion threshold."
-    },
-    {
-      "id": "5021408",
-      "time": "2026-08-03 09:45:09",
-      "tags": [
-        "資料",
-        "焦點"
-      ],
-      "text": "中國7月RatingDog製造業PMI 50.9，前值 51.7。"
-    },
-    {
-      "id": "mkt:019fc54b-b2a1-7aab-8f4c-59541f304bc6",
-      "time": "2026-08-03 09:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | S&P Global/Ratingdog China General Manufacturing PMI (Jul) | actual 50.9 | previous 51.7"
-    },
-    {
-      "id": "5021407",
-      "time": "2026-08-03 09:44:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量2073億元。"
-    },
-    {
-      "id": "5021406",
-      "time": "2026-08-03 09:44:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.00%，現報13442.995點；上證指數跌0.62%，現報3808.681點；創業板指跌1.56%，現報3291.930點。"
-    },
-    {
-      "id": "5021405",
-      "time": "2026-08-03 09:44:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "淡馬錫金融一號發行 10 年期新加坡元計價淡馬錫債券。"
-    },
-    {
-      "id": "5021404",
-      "time": "2026-08-03 09:44:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國汽車流通協會：7月汽車經銷商庫存預警指數為61.1%】8月3日，中國汽車流通協會發布的最新一期“汽車經銷商庫存預警指數調查”VIA顯示，2026年7月汽車經銷商庫存預警指數為61.1%，同比上升3.9個百分點，環比上升3.9個百分點，庫存預警指數位於榮枯線之上。經銷商預期，8月車市預計延續淡季弱勢執行。全國大部分地區高溫酷暑抑制線下客流，消費者觀望情緒不會明顯改善。但畢業季和開學季購車需求集中釋放，對市場需求有一定的拉動作用，銷量預計好於7月。"
     }
   ]
 }
