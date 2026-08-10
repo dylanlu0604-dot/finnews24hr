@@ -1,7 +1,170 @@
 {
-  "updated": "2026-08-10 09:24:42",
-  "count": 15868,
+  "updated": "2026-08-10 09:28:35",
+  "count": 15875,
   "items": [
+    {
+      "id": "mkt:019fe948-6b62-7aab-8fce-1c6ec3a20421",
+      "time": "2026-08-10 09:27:45",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share film and cinema sector opened higher; Beijing Culture hit the daily limit-up, Huazhi Digital Media approached a 20% limit-up, and Ruyi Film, Happiness Blue Ocean and Bona Film Group opened sharply higher."
+    },
+    {
+      "id": "mkt:019fe948-63e1-7aab-8fce-14ddfe2e0ad0",
+      "time": "2026-08-10 09:27:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "CRO names in China A-shares opened sharply higher; Yiqiao Shenzhou jumped over 10%, Baihua Pharmaceutical hit the limit-up in the opening auction, Zhaoyan New Drug rose about 4%+, and Kailaiying and WuXi AppTec also advanced."
+    },
+    {
+      "id": "5032923",
+      "time": "2026-08-10 09:27:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股CRO概念多股高開，義翹神州漲超10%，百花醫藥競價漲停，昭衍新藥漲超4%，凱萊英、藥明康德等跟漲。"
+    },
+    {
+      "id": "mkt:019fe948-3b43-7aab-8fce-0f848999a627",
+      "time": "2026-08-10 09:27:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened up 3.78 pts (+0.10%) at 3,943.82 on Aug 10 (Mon); Shenzhen Composite Index opened up 37.94 pts (+0.27%) at 14,348.95; CSI 300 Index opened up 4.38 pts (+0.09%) at 4,698.82; ChiNext Index opened up 3.93 pts (+0.11%) at 3,567.05; STAR 50 Index opened down 3.88 pts (-0.22%) at 1,740.14."
+    },
+    {
+      "id": "5032922",
+      "time": "2026-08-10 09:27:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寶鼎科技漲停走出5連板】寶鼎科技漲停走出5連板，5天累計漲幅達61.06%。"
+    },
+    {
+      "id": "5032921",
+      "time": "2026-08-10 09:27:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊高開，北京文化漲停】影視院線板塊高開，北京文化漲停，華智數媒逼近20cm漲停，儒意電影、幸福藍海、博納影業紛紛高開。"
+    },
+    {
+      "id": "mkt:019fe947-c101-7aab-8fce-050d246dbbf4",
+      "time": "2026-08-10 09:27:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiangsu's Kunshan upgrades rainstorm warning to red】At 07:58 on Aug 10 Kunshan Meteorological Observatory upgraded the rainstorm warning to red. Typhoon White Dolphin (No.13) is expected to produce intense precipitation in Kunshan, with hourly rainfall forecast above 100 mm during daytime today. Kunshan Water Affairs, Emergency and Meteorological bureaus issued a joint notice urging strengthened precautions."
+    },
+    {
+      "id": "5032920",
+      "time": "2026-08-10 09:26:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "江蘇崑山升級釋出暴雨紅色預警。"
+    },
+    {
+      "id": "5032919",
+      "time": "2026-08-10 09:26:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2%至45,110.97點。"
+    },
+    {
+      "id": "mkt:019fe946-9a63-7aab-8fcd-fed48c8431be",
+      "time": "2026-08-10 09:25:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KYODO reports Japan plans to deploy cutting-edge AI technologies under a preemptive cyber-defense policy framework."
+    },
+    {
+      "id": "mkt:019fe946-995e-7aab-8fcd-f6ba7e3e1da2",
+      "time": "2026-08-10 09:25:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose as much as 2.00% intraday."
+    },
+    {
+      "id": "mkt:019fe946-4da5-7aab-8fcd-e823cfe88b82",
+      "time": "2026-08-10 09:25:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China A-shares: Shanghai Composite Index up 0.10%, Shenzhen Composite Index up 0.27%, ChiNext Index up 0.11%."
+    },
+    {
+      "id": "5032918",
+      "time": "2026-08-10 09:25:18",
+      "tags": [],
+      "text": "三大股指高開，滬指漲0.1％，深成指漲0.27％，創業板漲0.11％。"
+    },
+    {
+      "id": "5032917",
+      "time": "2026-08-10 09:25:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲2%，至66,922.84點。"
+    },
+    {
+      "id": "5032916",
+      "time": "2026-08-10 09:24:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇州：“白海豚”影響期間外賣配送因惡劣天氣超時，騎手免責】今年第13號颱風“白海豚”來襲，蘇州市委社會工作部、市市場監督管理局推動各外賣配送平臺實施“‘蘇’緩一刻”關愛舉措，對因惡劣天氣造成的配送超時免罰、免扣分；主要快遞企業也已啟動快件投遞時效順延，根據防颱風應急響應等級，放寬直至免除快遞員的簽收率考核。（澎湃）"
+    },
+    {
+      "id": "5032915",
+      "time": "2026-08-10 09:24:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【今日匯率】中國人民銀行授權中國外匯交易中心公佈，2026年8月10日銀行間外匯市場人民幣匯率中間價為：1美元對人民幣6.7884元，1歐元對人民幣7.8171元，100日元對人民幣4.2867元，1港元對人民幣0.86536元，1英鎊對人民幣9.1234元，1澳大利亞元對人民幣4.7757元，1紐西蘭元對人民幣3.9792元，1新加坡元對人民幣5.2921元，1瑞士法郎對人民幣8.3699元，1加拿大元對人民幣4.8453元，人民幣1元對1.1908澳門元，人民幣1元對0.60366馬來西亞林吉特，人民幣1元對12.1726俄羅斯盧布，人民幣1元對2.3871南非蘭特，人民幣1元對208.99韓元，人民幣1元對0.54349阿聯酋迪拉姆，人民幣1元對0.55558沙特里亞爾，人民幣1元對46.4930匈牙利福林，人民幣1元對0.54929波蘭茲羅提，人民幣1元對0.9566丹麥克朗，人民幣1元對1.4026瑞典克朗，人民幣1元對1.4053挪威克朗，人民幣1元對7.05203土耳其里拉，人民幣1元對2.5298墨西哥比索，人民幣1元對4.8851泰銖。"
+    },
+    {
+      "id": "5032914",
+      "time": "2026-08-10 09:24:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓碧瑤市發生一起山體滑坡 已致4人死亡】據菲律賓碧瑤市政府訊息，碧瑤市吉薩德蘇隆村9日晚間發生一起山體滑坡，導致3間房屋被掩埋，有13人被困。截至10日凌晨5時35分，事件已造成4人死亡、6人失蹤，有3人獲救。目前搜救行動仍在進行中。（央視新聞）"
+    },
     {
       "id": "5032913",
       "time": "2026-08-10 09:23:48",
@@ -97,6 +260,14 @@
         "中國央行"
       ],
       "text": "中國央行今日開展180億元人民幣7天期逆回購操作，利率1.40%。"
+    },
+    {
+      "id": "5032907",
+      "time": "2026-08-10 09:20:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國科天成等成立新公司 含AI及積體電路晶片業務】企查查APP顯示，近日，北京國科天建科技有限公司成立，經營範圍包含積體電路晶片設計及服務；積體電路晶片及產品銷售；人工智慧公共服務平臺技術諮詢服務；人工智慧公共資料平臺；人工智慧雙創服務平臺等。企查查股權穿透顯示，該公司由國科天成等共同持股。"
     },
     {
       "id": "te:markets:573958",
@@ -144444,106 +144615,6 @@
         "國際"
       ],
       "text": "韓國交易所啟動熔斷機制，暫停科斯達克程式化買入委託。"
-    },
-    {
-      "id": "mkt:019fc53b-4cac-7aab-8f4b-be6efa41c8e7",
-      "time": "2026-08-03 09:27:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indonesian officials said rare-earth export policy has been clarified: the ban applies only to a single product, and exports of minerals not containing rare earths resumed on Sunday."
-    },
-    {
-      "id": "5021361",
-      "time": "2026-08-03 09:27:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【ETF開盤：碳中和ETF領漲6.30%，新能源電池ETF領跌9.11%】ETF開盤漲跌不一，碳中和ETF（560550）領漲6.30%，港股通消費ETF（159268）漲4.16%，物聯網ETF（516260）漲3.29%，新能源電池ETF（159071）領跌9.11%，家電ETF（159730）跌5.01%，科創人工智慧ETF（589310）跌4.6%。"
-    },
-    {
-      "id": "5021360",
-      "time": "2026-08-03 09:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【鎧俠計劃今年量產下一代AI NAND產品】日本鎧俠正瞄準下一代人工智慧(AI)NAND市場，其計劃今年量產最新的標準NAND解決方案，包括“PCIe（PCIExpress）6.0”和“UFS（UniversalFlashStorage）5.0”。"
-    },
-    {
-      "id": "5021359",
-      "time": "2026-08-03 09:26:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【鴻鵠航空科技完成7000萬元A輪融資】8月3日，青島鴻鵠航空科技有限公司宣佈完成7000萬元A輪融資。本輪募集資金將重點投入四大方向：加速推進歐洲適航認證（EASA）取證、擴大溫控集裝箱產能與市場投放規模、拓展全球簽約航司數量、持續建設擴增海外運營站點。"
-    },
-    {
-      "id": "5021358",
-      "time": "2026-08-03 09:26:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "北交所新股N聚仁開盤大漲324.11%。"
-    },
-    {
-      "id": "mkt:019fc53a-b82f-7aab-8f4b-b30ec1c9f47a",
-      "time": "2026-08-03 09:26:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Beijing Stock Exchange new listing N Juren surged 324.11% at the open."
-    },
-    {
-      "id": "mkt:019fc53a-1cc7-7aab-8f4b-ab40732b5156",
-      "time": "2026-08-03 09:25:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【PBOC nets CNY562.5 bln in open-market operations】PBOC conducted CNY63 bln of 7-day reverse repos and CNY300 bln of overnight reverse repos. With CNY325.5 bln of 7-day and CNY600 bln of overnight reverse repos maturing today, the operations resulted in a net injection of CNY562.5 bln."
-    },
-    {
-      "id": "5021357",
-      "time": "2026-08-03 09:25:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【豪森智慧簽約三一索特新一代變速箱智慧量產線專案】據豪森智慧訊息，近日，豪森智慧成功簽約三一集團旗下索特傳動裝置有限公司（簡稱“三一索特”）新一代變速箱智慧量產線專案。這是豪森智慧與三一索特的首次合作，也是豪森智慧在工程裝備領域拓展上的新突破。"
-    },
-    {
-      "id": "mkt:019fc539-a933-7aab-8f4b-a7c491cb03ca",
-      "time": "2026-08-03 09:25:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "China A-share market opened lower: Shanghai Composite down 0.51%, Shenzhen Composite Index down 0.60%, ChiNext down 0.71%. MLCC and storage-chip stocks led declines."
-    },
-    {
-      "id": "5021356",
-      "time": "2026-08-03 09:25:12",
-      "tags": [],
-      "text": "三大股指低開，滬指跌0.51％，深成指跌0.6％，創業板跌0.71％。"
-    },
-    {
-      "id": "5021355",
-      "time": "2026-08-03 09:25:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "多晶矽連續主力合約日內漲5%，現報34600.00元。"
     }
   ]
 }
