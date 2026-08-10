@@ -1,7 +1,139 @@
 {
   "date": "2026-08-10",
-  "count": 445,
+  "count": 459,
   "items": [
+    {
+      "id": "5032946",
+      "time": "2026-08-10 09:35:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉釋出超大規模AI晶片製造專案Terafab 概念影片。"
+    },
+    {
+      "id": "5032945",
+      "time": "2026-08-10 09:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南首款地方豬育種晶片問世】從河南省農業科學院獲悉，該院畜牧獸醫研究所豬育種團隊近日重磅釋出了“豫豬一號”河南地方豬15K育種晶片，標誌著河南地方豬育種開啟了基因級精準保種與選育的新時代。"
+    },
+    {
+      "id": "5032944",
+      "time": "2026-08-10 09:34:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【房地產板塊開盤活躍 京投發展漲停】房地產板塊開盤活躍，京投發展漲停，城建發展、我愛我家、金融街、三湘印象、大悅城跟漲。"
+    },
+    {
+      "id": "5032943",
+      "time": "2026-08-10 09:34:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【部分港股PCB股走強 廣合科技漲超6%】截至發稿，廣合科技(01989.HK)漲6.04%，建滔集團(00148.HK)漲1.78%，建滔積層板(01888.HK)漲1.04%。"
+    },
+    {
+      "id": "5032942",
+      "time": "2026-08-10 09:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【威剛7月營收再創新高 同比增長331.3%】威剛公佈7月營收，單月合併營收達183.8億新臺幣，環比增長25.4%，同比暴增331.3%，連續第5個月改寫歷史新高。從產品組合來看，DRAM營收達140.8億新臺幣，佔整體比重76.6%；SSD佔比20.1%，儲存卡、隨身碟及其他產品則佔3.3%。今年前7個月累計合併營收達826.5億新臺幣，同比增長206.7%，已大幅超越2025年全年營收。"
+    },
+    {
+      "id": "mkt:019fe94e-2fa5-7aab-8fce-51b71b96c24d",
+      "time": "2026-08-10 09:34:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share pharmaceutical distribution sector spiked briefly; Kaikai Industrial hit the daily limit, while Ruikang Pharmaceutical, C&D Zhixin, Yaoyigou, Hefu China and Dajia Weikang also advanced."
+    },
+    {
+      "id": "mkt:019fe94e-24ee-7aab-8fce-4bead6f5a80a",
+      "time": "2026-08-10 09:34:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02359.HK",
+        "Impact bullish",
+        "09926.HK",
+        "02269.HK"
+      ],
+      "text": "Hong Kong biotech sector strengthened; WuXi AppTec (02359.HK) rose more than 5%, Akeso (09926.HK) gained over 3%, with WuXi Biologics (02269.HK) and Junshi Biosciences (01877.HK) also advancing."
+    },
+    {
+      "id": "5032941",
+      "time": "2026-08-10 09:33:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽重開前景未明 分析人士稱替代方案面臨多重困難】伊朗近日對美國提出了重開霍爾木茲海峽的前提條件，分析人士認為，霍爾木茲海峽是伊朗爭取戰略利益的重要籌碼，海峽能否正常通航仍取決於美伊雙方的博弈。在海峽重開前景撲朔迷離的背景下，地區多國選擇繞過海峽出口能源。不過專家指出，這一“能源咽喉”既是美伊當前“繞不開”的核心議題，也是全球能源供應體系中難以替代的關鍵節點。一方面，伊朗不會輕易放棄“海峽籌碼”。分析人士一致認為，伊朗尋求將其在戰事期間形成的海峽管控能力，轉化為對這一重要航道的長期管控安排，以便為自己爭取更多的利益，在自身訴求得到滿足前不會急於推動霍爾木茲海峽全面恢復通航。另一方面，美國難以接受伊朗提出的海峽重開條件，可以預見的是，美方短期內不會作出重大讓步，雙方後續還將就各自訴求“議價”，甚至不排除再度出現軍事衝突的可能。（央視）"
+    },
+    {
+      "id": "te:markets:573965",
+      "time": "2026-08-10 09:33:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Gains for Third Session — US gasoline futures rose above $3 per gallon on Monday, gaining for a third consecutive session, as uncertainty persisted over the reopening of the Strait of Hormuz. Iran said an agreement with Oman on new shipping routes was close to being finalized but warned that reopening the waterway remained conditional on Washington meeting additional demands. Tehran also ruled out direct talks with the US for now, saying it would not engage while Washington continues to violate an interim agreement reached in June, despite US assertions that a deal is close. Oil supply risks were further underscored by claims from Iran-aligned Houthis that they had struck Saudi Aramco’s Jazan refinery. Elsewhere, escalating attacks between Russia and Ukraine have increased the threat of further strikes on energy facilities, following Ukraine’s recent long-range drone attack on a major Russian refinery. Moscow has since extended its ban on gasoline and diesel exports through January 2027."
+    },
+    {
+      "id": "5032940",
+      "time": "2026-08-10 09:33:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥商業板塊短線拉昇，開開實業漲停】醫藥商業板塊短線拉昇，開開實業漲停，瑞康醫藥、建發致新、藥易購、合富中國、達嘉維康等紛紛走高。"
+    },
+    {
+      "id": "5032939",
+      "time": "2026-08-10 09:33:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股大模型概念股走強，MINIMAX-W漲超6%】港股大模型概念股走強，MINIMAX-W漲超6%，智譜漲超4%。"
+    },
+    {
+      "id": "5032938",
+      "time": "2026-08-10 09:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遊戲板塊短線走低，大晟文化跌超6%】遊戲板塊短線走低，大晟文化跌超6%，凱撒文化、愷英網路、崑崙萬維、盛天網路等跟跌。"
+    },
+    {
+      "id": "mkt:019fe94c-74a2-7aab-8fce-44ffd8aee36f",
+      "time": "2026-08-10 09:32:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Japan's Ministry of Finance will issue 2.5 trillion yen of 5-year government bonds on August 18."
+    },
+    {
+      "id": "5032937",
+      "time": "2026-08-10 09:32:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏利基金宣佈升級管理團隊：李輝擬任公司總經理】千億外資公募宏利基金人事調整落地。8月10日，21世紀經濟報道記者獲悉，原興業基金總經理李輝已於今日正式加入宏利基金，擬任公司總經理。目前，該任命尚需經過公司董事會審議透過，並需完成監管備案。與此同時，原宏利基金總經理丁聞聰將調任集團區域市場相關崗位。（21財經）"
+    },
     {
       "id": "5032936",
       "time": "2026-08-10 09:31:48",
