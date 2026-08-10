@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-11 06:34:27",
-  "count": 15810,
+  "updated": "2026-08-11 06:38:22",
+  "count": 15812,
   "items": [
+    {
+      "id": "5034633",
+      "time": "2026-08-11 06:36:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI道德事務負責人入職不到一年後離職。"
+    },
+    {
+      "id": "5034632",
+      "time": "2026-08-11 06:35:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【土耳其議會透過法案 推動解除庫爾德工人黨武裝】土耳其議會當地時間10日晚透過一項法案，為庫爾德工人黨解除武裝和其成員重新融入社會建立法律框架，標誌著土政府推動結束持續數十年的衝突取得重要進展。該法案規定了實施下一階段庫爾德工人黨解除武裝程序的相關程式，並強調維持司法監督。土政府表示，該法案不構成全面大赦，而是建立有條件的法律機制，為符合條件的庫爾德工人黨成員返回土耳其並接受正式審查提供法律依據。根據規定，未參與嚴重暴力犯罪的低階別庫爾德工人黨成員，在符合條件的情況下，可從伊拉克北部相關據點返回土耳其。上述法案不適用於被關押的庫爾德工人黨領導人阿卜杜拉·厄賈蘭、該組織高階別成員以及正在服無期徒刑且刑罰等級較重的成員。（新華社）"
+    },
+    {
+      "id": "mkt:019fedd0-feda-7aab-8fe1-b4d898028433",
+      "time": "2026-08-11 06:35:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkish parliament passes bill creating legal framework to disarm PKK and reintegrate members】Turkish parliament on the evening of the 10th (local time) passed a bill establishing procedures, with judicial oversight, to disarm the PKK (Kurdistan Workers' Party) and reintegrate its members, a move the government described as significant progress toward ending a decades-long conflict. The law is not a blanket amnesty but a conditional mechanism allowing eligible low-level PKK members not involved in serious violent crimes to return from northern Iraq to Turkey and undergo formal review. It excludes imprisoned leader Abdullah Ocalan, senior PKK figures and members serving life or similarly heavy sentences."
+    },
+    {
+      "id": "5034631",
+      "time": "2026-08-11 06:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：特朗普總統下達振興美國核能產業的指令，正值一個關鍵時期。核能提供可靠電力，為美國的人工智慧領先地位提供支撐；與此同時，人工智慧推動下一代核能技術發展，二者相輔相成，助力美國取得能源主導地位。"
+    },
+    {
+      "id": "te:markets:574207",
+      "time": "2026-08-11 06:34:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 3.46% — Top commodity gainers are Silver (3.46%), Lithium Carbonate (1.23%) and Gold (1.14%)."
+    },
     {
       "id": "5034630",
       "time": "2026-08-11 06:31:32",
@@ -143911,38 +143954,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Surges by 9.41% — Top commodity gainers are Cocoa (9.41%), Rubber (3.74%) and Sugar (2.33%). Biggest losers are Coffee (-3.31%) and Lumber (-2.12%)."
-    },
-    {
-      "id": "mkt:019fc9c5-567a-7aab-8f5f-e3d1aa6301d9",
-      "time": "2026-08-04 06:36:20",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "AMZN.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Amazon (AMZN.O) fell nearly 2% in after-hours trading."
-    },
-    {
-      "id": "te:markets:572285",
-      "time": "2026-08-04 06:35:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore Falls by 4.43% — Top commodity losers are Iron Ore (-4.43%), Iron Ore CNY (-2.51%) and Lithium Carbonate (-2.10%). Gains are led by Silicon (2.52%), Copper (1.22%), Silver (0.90%) and Gold (0.24%)."
-    },
-    {
-      "id": "5023262",
-      "time": "2026-08-04 06:35:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "貝索斯提交股票出售申報後，亞馬遜美股盤後下跌 1.9%。"
     }
   ]
 }
