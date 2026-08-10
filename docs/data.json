@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11 05:25:07",
-  "count": 15803,
+  "updated": "2026-08-11 05:28:55",
+  "count": 15802,
   "items": [
+    {
+      "id": "mkt:019fed93-b31c-7aab-8fe1-4853e9090bdf",
+      "time": "2026-08-11 05:28:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Libya's military intelligence chief Fawzi Mansouri was targeted in an assassination incident in Benghazi, Saudi outlet Alhadath reported."
+    },
     {
       "id": "5034607",
       "time": "2026-08-11 05:22:11",
@@ -143843,22 +143851,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗總統佩澤希基揚表示，伊朗無意加劇西亞緊張局勢，但在捍衛領土完整問題上絕不妥協。"
-    },
-    {
-      "id": "5023238",
-      "time": "2026-08-04 05:28:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "哥倫比亞國家石油公司（Ecopetrol）公佈第二季度淨利潤 6.06 萬億比索。"
-    },
-    {
-      "id": "5023237",
-      "time": "2026-08-04 05:26:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，墨西哥最大肉類出口商蘇卡內（Sukarne）考慮出售，交易估值或超 20 億美元。"
     }
   ]
 }

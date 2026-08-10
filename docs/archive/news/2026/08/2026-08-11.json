@@ -1,7 +1,15 @@
 {
   "date": "2026-08-11",
-  "count": 320,
+  "count": 321,
   "items": [
+    {
+      "id": "mkt:019fed93-b31c-7aab-8fe1-4853e9090bdf",
+      "time": "2026-08-11 05:28:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Libya's military intelligence chief Fawzi Mansouri was targeted in an assassination incident in Benghazi, Saudi outlet Alhadath reported."
+    },
     {
       "id": "5034607",
       "time": "2026-08-11 05:22:11",
