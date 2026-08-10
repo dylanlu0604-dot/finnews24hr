@@ -1,7 +1,123 @@
 {
   "date": "2026-08-10",
-  "count": 1248,
+  "count": 1260,
   "items": [
+    {
+      "id": "te:markets:574072",
+      "time": "2026-08-10 15:46:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Trade Flat — The CAC 40 traded flat around 8,714 on Monday, hovering near record highs as investors turned cautious amid ongoing uncertainty over the reopening of the Strait of Hormuz. US President Donald Trump said Washington was only \"semi-negotiating\" with Tehran and would wait for economic pressure on Iran to intensify. Meanwhile, Iranian Foreign Minister Abbas Araghchi denied any direct talks with the US and reiterated that the Strait would remain closed until Tehran's demands, including the lifting of the naval blockade are met. The impasse kept concerns over energy supplies, inflationary pressures, and the interest-rate outlook firmly in focus. Luxury stocks outperformed, with LVMH (+1.3%), Hermès (+0.6%), and Kering (+0.5%) leading gains. On the downside, Airbus (-0.4%), Safran (-0.5%), and BNP Paribas (-0.8%) were among the decliners."
+    },
+    {
+      "id": "5033499",
+      "time": "2026-08-10 15:46:12",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗外交部發言人：與阿曼已就航運過境路線圖達成共識】伊朗外交部發言人：伊朗與阿曼雙方已就航運過境路線圖達成共識，目前正在就聯合宣告中的一些技術細節進行磋商以最終敲定；協議包含海事服務相關費用條款。根據已達成的協議，將建立相關機制，以保障安全通航、保護環境並打擊海上犯罪。"
+    },
+    {
+      "id": "mkt:019feaa2-5a09-7aab-8fd4-7114d9eb15e3",
+      "time": "2026-08-10 15:45:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold broke above $4,360/oz, up 0.45% intraday."
+    },
+    {
+      "id": "5033498",
+      "time": "2026-08-10 15:45:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4360美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "te:markets:574071",
+      "time": "2026-08-10 15:45:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Hover Near Records — European stocks opened the second week of August on a mixed-to-positive note, with the STOXX 50 edging 0.2% higher to set a new record, while the STOXX 600 traded around the flatline, remaining close to the record levels reached last week. The indices gained 2.6% and 1.7%, respectively, in the previous week. Investor sentiment remained cautious amid ongoing uncertainty in the Middle East, with markets awaiting further clarity on the prospects of a deal between the US and Iran. The technology sector was among the top performers, with ASML Holding rising 1.5% and Infineon Technologies gaining 2.1%. Luxury stocks also advanced, with LVMH up 1% and Hermes adding 0.4%. On the downside, Vistry plunged more than 8% to the bottom of the STOXX 600 after the FT reported that Allianz Trade is reducing the credit cover it provides to Vistry’s suppliers. The move could further intensify pressure on the cash flow of the struggling UK housebuilder."
+    },
+    {
+      "id": "mkt:019feaa2-13f3-7aab-8fd4-69a27592d2a5",
+      "time": "2026-08-10 15:45:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign ministry spokesman said under an agreement reached, mechanisms will be established to ensure safe navigation, protect the environment and combat maritime crime."
+    },
+    {
+      "id": "5033497",
+      "time": "2026-08-10 15:45:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4420美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "mkt:019feaa1-dec3-7aab-8fd4-61c3b066fb99",
+      "time": "2026-08-10 15:45:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesperson said Iran and Oman have reached agreement on a shipping transit roadmap and are negotiating technical details of a joint statement to finalize it."
+    },
+    {
+      "id": "5033496",
+      "time": "2026-08-10 15:44:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【石藥創新：控股子公司猴痘mRNA疫苗獲美國臨床試驗批准】石藥創新公告稱，公司控股子公司巨石生物近日收到美國FDA通知，其與中科院微生物所合作開發的SYS6037注射液（猴痘mRNA疫苗）藥品臨床試驗申請獲批准，可在美國開展臨床試驗。該疫苗為多抗原猴痘疫苗，技術利於質量控制、降低成本，臨床前研究顯示免疫原性和保護效力更優。不過，藥物研發有高投入、高風險等特點，存在臨床試驗效果不及預期等風險，短期對業績無重大影響。"
+    },
+    {
+      "id": "5033495",
+      "time": "2026-08-10 15:44:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海倫哲：近日取得兩項發明專利證書】海倫哲公告稱，公司近日收到國家智慧財產權局頒發的兩項發明專利證書，分別為“一種廢舊電纜自動回收作業車”和“一種帶起重功能的伸縮臂式高空作業車及其控制方法”，專利號分別為ZL 2025 1 0621169.7、ZL 2025 1 1507391.0，申請日分別為2025年5月14日、2025年10月21日，授權公告日均為2026年7月。上述專利已應用到產品上，不會對短期業績產生重大影響，但利於完善智慧財產權保護體系，增強核心競爭力。"
+    },
+    {
+      "id": "5033494",
+      "time": "2026-08-10 15:44:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊美藥業：獲得吸入用乙醯半胱氨酸溶液《藥品註冊證書》】萊美藥業公告稱，公司近日收到國家藥監局核准簽發的吸入用乙醯半胱氨酸溶液（3ml:0.3g）《藥品註冊證書》，批准文號有效期至2031年8月3日。該藥品適用於呼吸道疾病。2024 - 2026年Q1，其在中國醫院（全終端）市場銷售額分別為23.39億元、19.36億元、5.34億元。此次獲證將豐富公司產品線、提升競爭力，但藥品產銷存不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "te:markets:574069",
+      "time": "2026-08-10 15:44:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "IDX Composite Trims Early Gains after BI Pick, Weak Consumer Mood — Indonesia’s IDX Composite pared morning gains on Monday afternoon, hovering near 6,417 as traders weighed President Prabowo Subianto’s nomination of acting BI Governor Destry Damayanti as the sole candidate to lead the central bank. State Secretary Prasetyo Hadi confirmed the submission to parliament, a process expected to take weeks. Meanwhile, domestic sentiment remained fragile, with July’s consumer confidence slipping for a third month to a 15-month low, underscoring concerns over economic conditions and job prospects. Caution also grew ahead of June retail sales data due Tuesday, after a notable contraction in May due to elevated inflation and higher non-subsidised fuel. Externally, Dow futures eased ahead of key U.S. inflation data later this week, while geopolitical tensions flared as Iran pressed Washington for war-damage compensation in peace talks. Notable movers included ESSA Industries (7.1%), Merdeka Copper Gold (4.1%), United Tractors (2.5%), and Bumi Resources (1.6%)."
+    },
     {
       "id": "mkt:019feaa0-caf6-7aab-8fd4-5c2f9a3e8254",
       "time": "2026-08-10 15:43:53",
