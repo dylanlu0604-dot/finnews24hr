@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-11 03:28:49",
-  "count": 15778,
+  "updated": "2026-08-11 03:32:36",
+  "count": 15782,
   "items": [
+    {
+      "id": "5034557",
+      "time": "2026-08-11 03:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數10日上漲】美元指數10日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於99.809。截至紐約匯市尾市，1歐元兌換1.1542美元，低於前一交易日的1.1564美元；1英鎊兌換1.3509美元，高於前一交易日的1.3499美元。1美元兌換159.24日元，高於前一交易日的157.55日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8076瑞士法郎；1美元兌換1.3942加元，高於前一交易日的1.3937加元；1美元兌換9.5016瑞典克朗，高於前一交易日的9.4701瑞典克朗。"
+    },
+    {
+      "id": "mkt:019fed26-dfe9-7aab-8fe0-234b9257ce6a",
+      "time": "2026-08-11 03:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US judge dismissed the Department of Justice's criminal charges against Indian billionaire Gautam Adani."
+    },
+    {
+      "id": "5034556",
+      "time": "2026-08-11 03:29:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4450美元/盎司，日內漲1.14%。"
+    },
+    {
+      "id": "mkt:019fed26-1b83-7aab-8fe0-1fa86cf0fa4d",
+      "time": "2026-08-11 03:28:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump, when asked what would happen next in a war with Iran, said you will know soon."
+    },
+    {
+      "id": "5034555",
+      "time": "2026-08-11 03:28:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲1.14%。"
+    },
+    {
+      "id": "5034554",
+      "time": "2026-08-11 03:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際原子能機構（IAEA）即將轉移存放在敘利亞一處秘密設施內的核材料。"
+    },
     {
       "id": "5034553",
       "time": "2026-08-11 03:28:06",
@@ -143617,24 +143671,6 @@
         "國際"
       ],
       "text": "【塔可鍾在召回生菜前數週已就寄生蟲疫情與美國密歇根州展開溝通】美國密歇根州衛生部門在7月初就一種寄生蟲疫情與塔可鍾（Taco Bell）母公司百勝餐飲集團（Yum! Brands Inc.）取得了聯絡，這比該公司正式向消費者發出警告早了數週。7月2日，密歇根州衛生與公眾服務部與百勝餐飲集團討論了環孢子蟲病（cyclospora）問題，並要求與該公司的供應鏈質量保證及公關團隊進行對接。塔可鐘錶示，公司根據密歇根州的指導迅速採取了行動，從部分門店撤下了可能受影響的食材，但直到7月14日才公開證實了這一舉措。"
-    },
-    {
-      "id": "5023200",
-      "time": "2026-08-04 03:32:14",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【投行：日本使用美聯儲工具或將考驗日元決心】Evercore ISI表示，一項極少被使用的美聯儲流動性工具或許能避免日本透過拋售美國國債來支撐日元，但長期依賴該工具可能會鼓勵市場去試探美國和日本的決心。“外國和國際貨幣當局回購工具”（FIMA Repo Facility）允許海外機構將其持有的美國國債作為抵押品來獲取美元，從而避免在公開市場上拋售債券來籌集現金。該工具於2020年新冠疫情期間設立，旨在讓交易對手在不嚴重擾亂美債市場的情況下獲取流動性，隨後於2021年7月轉為永久性工具。"
-    },
-    {
-      "id": "mkt:019fc919-d44a-7aab-8f5e-f047a941a6dd",
-      "time": "2026-08-04 03:29:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【25 U.S. states sue administration over new tariffs】Court filings show 25 U.S. states, led by Democrats, sued the U.S. government to block the administration’s latest tariffs on goods from 60 trading partners. The states allege the president exceeded statutory authority, that the tariffs are an unlawful, overly broad substitute for measures the U.S. Supreme Court struck down, and that the move circumvents required country-specific investigation procedures."
     }
   ]
 }
