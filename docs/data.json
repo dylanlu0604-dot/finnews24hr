@@ -1,7 +1,120 @@
 {
-  "updated": "2026-08-10 10:43:22",
-  "count": 15886,
+  "updated": "2026-08-10 10:47:16",
+  "count": 15889,
   "items": [
+    {
+      "id": "mkt:019fe990-bfe4-7aab-8fcf-b9ebd2e7f15b",
+      "time": "2026-08-10 10:46:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Several high-premium LOFs on China’s A-share market plunged; Global Chip LOF (501225) hit the daily limit-down and currently trades at an 18.02% premium to NAV. Guotou Silver LOF (161226) is down 5.9% and currently trades at a 19.55% premium to NAV."
+    },
+    {
+      "id": "5033096",
+      "time": "2026-08-10 10:46:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天貓官宣成為ALO中國獨家電商平臺】今日，淘寶官方賬號發文表示：“今天，我們迎來一位新夥伴：ALO。ALO天貓官方旗艦店即日開啟預售，8月12日正式開業。”淘寶方面稱，“作為ALO在中國的獨家官方電商平臺，天貓將與品牌全球同步上新，首批商品涵蓋明星同款系列、爆款單品ALO SUNSET德訓鞋等。”（新浪科技）"
+    },
+    {
+      "id": "5033095",
+      "time": "2026-08-10 10:46:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國投證券：豬週期反轉漸近 建議積極關注養殖股】國投證券釋出研報稱，參考農業農村部設定的能繁母豬正常保有量(3750萬頭)，結合該行對於市場化力量和政策引導或雙管齊下帶動生豬產能非線性加速去化的判斷，該行預計26Q3生豬養殖行業或逐步進入母豬超淘階段，相應帶動2027年豬週期反轉(盈利口徑)。建議積極關注養殖股。"
+    },
+    {
+      "id": "5033094",
+      "time": "2026-08-10 10:46:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國聯通在廣東成立終端智慧運營公司】企查查APP顯示，近日，聯通（廣東）終端智慧運營有限公司成立，法定代表人為吳偉斌，註冊資本為5000萬元，經營範圍包含人工智慧行業應用系統整合服務；人工智慧應用軟體開發；網路與資訊保安軟體開發；大資料服務等。企查查股權穿透顯示，該公司由中國聯合網路通訊有限公司旗下聯通數字科技有限公司全資持股。"
+    },
+    {
+      "id": "5033093",
+      "time": "2026-08-10 10:46:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【多支高溢價LOF大幅下跌】全球晶片LOF（501225）觸及跌停，當前溢價率為18.02%。國投白銀LOF（161226）當前跌幅為5.9%，當前溢價率為19.55%。"
+    },
+    {
+      "id": "5033092",
+      "time": "2026-08-10 10:45:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：白宮“並不在意”以總理拒絕加沙和平計劃】美國媒體9日援引一名美國高階官員的話報道稱，白宮“並不在意”以色列總理內塔尼亞胡拒絕接受加沙和平計劃，並稱他的這一表態是出於選舉週期中的“政治需要”。美國阿克西奧斯新聞網站記者巴拉克·拉維德當天在社交媒體上釋出帖文稱，這名高階官員告訴他，白宮“理解內塔尼亞胡的政治需要”。這名官員說，“我們對此沒有意見，只要他（內塔尼亞胡）繼續按我們的要求行事——尤其是剋制對加沙的打擊。”帖文還援引另一名美國官員的訊息稱，內塔尼亞胡上週同美國總統特朗普女婿庫什納通電話時說，儘管他持懷疑態度，但仍“願意給‘15點計劃’一個機會”，並承諾會遏制對加沙的打擊，以便加沙去軍事化程序得以啟動。（新華社）"
+    },
+    {
+      "id": "mkt:019fe98f-cc28-7aab-8fcf-b2af57ac9539",
+      "time": "2026-08-10 10:45:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "ChiNext fell more than 2%, the Shenzhen Composite Index dropped over 1%, while the Shanghai Composite's gain narrowed to 0.3%. CPO and advanced packaging sectors were among the biggest decliners."
+    },
+    {
+      "id": "5033091",
+      "time": "2026-08-10 10:45:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前7個月泉州出口休閒食品21.4億元】近日，經泉州海關監管，泉州泓一食品有限公司生產的3萬枚流心蛋黃酥順利出口越南，直接進入商超供應海外節慶市場。今年前7個月，泉州海關共監管出口休閒食品21.4億元，同比增長22.7%，熱銷五大洲100多個國家和地區。（福建日報）"
+    },
+    {
+      "id": "5033090",
+      "time": "2026-08-10 10:44:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.00%，現報14167.521點；上證指數漲0.27%，現報3950.608點；創業板指跌2.08%，現報3489.132點。"
+    },
+    {
+      "id": "5033089",
+      "time": "2026-08-10 10:44:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3491.835點；上證指數漲0.29%，現報3951.595點；深證成指跌0.95%，現報14175.524點。"
+    },
+    {
+      "id": "te:economy:573981",
+      "time": "2026-08-10 10:43:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Pressured by Soft Jobs Data — The yield on the US 10-year Treasury note held around 4.66% on Monday but remained subdued after weaker-than-expected US employment data lowered expectations for a near-term Federal Reserve interest rate hike. Nonfarm payrolls unexpectedly declined by 23,000 in July, while sizeable downward revisions to the previous two months reinforced signs of a weakening labor market. Markets now price around a 44% chance of a 25 basis point rate hike in September, down from 67% a week earlier. Investors are turning their attention to key inflation data due this week for further clues on the monetary policy outlook. Meanwhile, markets continued to track developments in the Middle East as Iran denied holding direct talks with the US, despite Washington’s claims that a deal was close. Tehran also maintained its demands for an end to the US naval blockade, the lifting of sanctions and compensation for war-related damage before any agreement."
+    },
+    {
+      "id": "5033088",
+      "time": "2026-08-10 10:43:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤邦股份：子公司潤邦海洋第七艘SPP40平臺供應船順利上船臺】據潤邦股份訊息，近日，子公司潤邦海洋第七艘SPP40平臺供應船順利完成上船臺作業，正式邁入船臺總段合攏、全船搭載攻堅的關鍵階段。上船臺是船舶建造過程中承前啟後的核心節點，標誌著船體分段建造工作圓滿收官，意味著專案全面轉入總裝搭載施工新階段。"
+    },
     {
       "id": "5033087",
       "time": "2026-08-10 10:42:17",
@@ -144542,96 +144655,6 @@
         "00100.HK"
       ],
       "text": "【MiniMax open-sources new-generation video model MiniMax H3】MiniMax (00100.HK) said it has open-sourced its new-generation general video model, MiniMax H3. The company says the model unifies multimodal context across text, images, video and audio, and can generate videos up to 2K resolution, up to 15 seconds long, with native stereo audio."
-    },
-    {
-      "id": "5021504",
-      "time": "2026-08-03 10:46:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【中國證監會與香港證監會聯合公佈深化兩地市場務實合作與密切協同發展的新舉措】中國證監會與香港證監會聯合公佈一系列進一步深化兩地市場務實合作、密切協同發展的新舉措。涵蓋上市融資、指數合作、期貨產品、交易所買賣基金（ETF）、金融機構國際化、綠色金融及專業資格便利化等多個範疇，具體舉措包括：繼續支援符合條件的境內企業赴港上市融資；支援兩地指數公司加強合作，推出更多基於中國資產的指數，提升中國指數和中國資產國際影響力；深化兩地期貨市場合作，支援香港推出更多人民幣計價結算的期貨品種；支援兩地機構推出更多基於兩地市場、佈局中國現代化產業體系的ETF產品，對常規股票ETF產品實施快速序號產生器制等等。"
-    },
-    {
-      "id": "5021503",
-      "time": "2026-08-03 10:46:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國ITC釋出對智慧可穿戴裝置、系統及其元件的337部分終裁】據中國貿易救濟資訊網，7月31日，美國國際貿易委員會（ITC）釋出公告稱，對特定智慧可穿戴裝置、系統及其元件（Certain Smart Wearable Devices, Systems, and Components Thereof，調查編碼：337-TA-1468）作出337部分終裁：對本案行政法官於2026年7月1日作出的初裁（No.22）不予複審，即申請方滿足美國國內產業地位的經濟要素要求。"
-    },
-    {
-      "id": "te:economy:572002",
-      "time": "2026-08-03 10:45:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Job Advertisements",
-        "Importance 1"
-      ],
-      "text": "Australia Job Ads Rebound in July — Australia’s ANZ–Indeed Job Ads increased 2.0% month-over-month in July 2026, reversing a 0.2% decline in the previous month and marking the fourth monthly rise so far this year. The upturn suggested labor demand remained resilient despite elevated interest rates and a softer economic backdrop, pointing to continued strength in hiring activity. The latest increase also indicated that employers are still looking to fill vacancies, supporting expectations that labor market conditions remain relatively tight. Even so, the pace of job creation has moderated from previous years, consistent with the Reserve Bank of Australia's efforts to ease inflationary pressures while steering the economy toward a more balanced growth path."
-    },
-    {
-      "id": "5021502",
-      "time": "2026-08-03 10:45:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "尿素連續主力合約日內跌4%，現報1662.00元。"
-    },
-    {
-      "id": "5021501",
-      "time": "2026-08-03 10:45:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "大和證券首席財務官：本季度市場業務開局表現弱於一季度。"
-    },
-    {
-      "id": "mkt:019fc583-108d-7aab-8f4d-c18bc29739ac",
-      "time": "2026-08-03 10:45:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "CSI300"
-      ],
-      "text": "The CSRC and Hong Kong's SFC jointly announced new measures to deepen pragmatic cooperation and tighter coordination between the mainland and Hong Kong markets, covering listings and fundraising, index collaboration, futures products, ETFs, internationalization of financial institutions, green finance and streamlined professional qualification recognition."
-    },
-    {
-      "id": "5021500",
-      "time": "2026-08-03 10:44:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里Qwen3.8釋出：總引數量2.4萬億，程式設計與辦公再進化】新浪科技訊 8月3日上午訊息，阿里巴巴釋出新一代基座大模型Qwen3.8，總引數量2.4萬億，在程式設計（Coding）和專業辦公（Cowork）方面能力大幅提升。在今日放榜的權威三方榜單Arena中，阿里Qwen模型僅次於Anthropic的Claude系列，整體效能處於全球大模型第一梯隊。目前，Qwen3.8的API已上線千問AI平臺，並接入阿里今日同步推出的Agent產品“千問辦公”。Qwen3.8-Max預計下週開源，同時還將開源 Qwen3.8-27B。（新浪科技）"
-    },
-    {
-      "id": "mkt:019fc582-2e2d-7aab-8f4d-bb0b537cd629",
-      "time": "2026-08-03 10:44:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "A-share MLCC-related stocks rebounded intraday; Yuxing rose more than 10%, with Fenghua High-Tech, Lihexing, Torch Electronics and Sanhuan Group among the top gainers."
-    },
-    {
-      "id": "5021499",
-      "time": "2026-08-03 10:43:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【MLCC概念震盪回升 裕興股份漲超10%】MLCC概念盤中震盪回升，裕興股份漲超10%，風華高科、利和興、火炬電子、三環集團等漲幅靠前。訊息面上，繼村田、國巨7月MLCC漲價之後，太陽誘電近日致函客戶，宣佈自今年9月起上調MLCC產品價格，這是太陽誘電今年第二次提價，具體漲幅並未披露。三星電機也決定自9月1日起上調所有MLCC產品價格30%。"
     }
   ]
 }
