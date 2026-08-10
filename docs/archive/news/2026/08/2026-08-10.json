@@ -1,7 +1,59 @@
 {
   "date": "2026-08-10",
-  "count": 933,
+  "count": 939,
   "items": [
+    {
+      "id": "5033292",
+      "time": "2026-08-10 13:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電7月營業額按年變動+44.7％。"
+    },
+    {
+      "id": "5033291",
+      "time": "2026-08-10 13:30:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "臺灣積體電路製造股份有限公司7月銷售額4,675.8億元臺幣。"
+    },
+    {
+      "id": "5033290",
+      "time": "2026-08-10 13:29:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【印度央行或在進行干預以支撐盧比匯率】四位交易員表示，鑑於中東衝突帶來的不確定性持續存在，印度央行週一可能在外匯市場進行了干預，以支撐盧比匯率。印度央行近幾個交易日頻繁進行干預，交易員認為此舉旨在鞏固盧比自7月下旬接近紀錄低位以來的反彈勢頭。交易員稱，已觀察到國有銀行在拋售美元，很可能是代表印度央行進行操作。"
+    },
+    {
+      "id": "5033289",
+      "time": "2026-08-10 13:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【李在明呼籲迅速推進Honam半導體產業叢集的建設】韓國總統李在明在主持召開會議審查該超級專案的進展時，呼籲迅速推進Honam半導體產業叢集的建設。他表示，Honam晶片叢集的建設應像日本熊本半導體樞紐那樣迅速推進。他呼籲採取措施，以便儘早啟用光州軍用機場原址用於該晶片叢集專案；同時，電力和供水計劃必須在不發生中斷的情況下提前做好準備。"
+    },
+    {
+      "id": "mkt:019fea25-66f4-7aab-8fd1-f1b3c1e5323f",
+      "time": "2026-08-10 13:29:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Reserve Bank of India may have intervened to support rupee】Four traders said the Reserve Bank of India may have intervened in the FX market on Monday to support the rupee amid persistent uncertainty from the Middle East conflict. Traders said the RBI has been intervening frequently in recent sessions, apparently to consolidate the rupee’s rebound since late July from near-record lows. They observed state-owned banks selling dollars, likely on behalf of the RBI."
+    },
+    {
+      "id": "5033288",
+      "time": "2026-08-10 13:27:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "經濟學家們推遲了對瑞士央行加息時點的預期，目前預計最早也要到明年6月之後才會加息。"
+    },
     {
       "id": "mkt:019fea22-ce01-7aab-8fd1-eb193342b1f2",
       "time": "2026-08-10 13:26:17",
