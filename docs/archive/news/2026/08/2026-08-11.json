@@ -1,7 +1,34 @@
 {
   "date": "2026-08-11",
-  "count": 334,
+  "count": 336,
   "items": [
+    {
+      "id": "mkt:019fedad-bed3-7aab-8fe1-9270cef27b46",
+      "time": "2026-08-11 05:56:54",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "TSM.N"
+      ],
+      "text": "【Kuo denies TSMC amassed $1 bln of Apple A20 Pro chips awaiting memory】Reports said TSMC (TSM.N) had about $1 bln of A20 Pro (2nm/N2) processors for Apple (AAPL.O) stuck in-factory awaiting memory and unable to complete final packaging. Analyst Ming‑Chi Kuo said Apple did cut hardware shipments this year due to memory shortages, but Apple schedules TSMC processor production at least three months ahead based on expected memory availability rather than having TSMC prebuild large volumes of in‑process inventory. Kuo said he is not aware of TSMC accumulating roughly $1 bln of WIP that must wait for memory before packaging, and given the close supply‑chain coordination and execution at both companies such a scenario would be unusual."
+    },
+    {
+      "id": "mkt:019fedad-39b9-7aab-8fe1-8ccd7b26f453",
+      "time": "2026-08-11 05:56:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says US forces effectively control Strait of Hormuz, have cleared sea mines】Trump told reporters at the White House on Aug. 10 he will seek compensation from Iran after Tehran demanded reparations following a military clash, repeating earlier social media posts. He said US forces effectively control the Strait of Hormuz and have cleared Iranian-laid sea mines."
+    },
     {
       "id": "5034614",
       "time": "2026-08-11 05:54:50",
