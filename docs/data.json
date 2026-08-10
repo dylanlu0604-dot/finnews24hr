@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-11 00:34:09",
-  "count": 15809,
+  "updated": "2026-08-11 00:38:05",
+  "count": 15808,
   "items": [
+    {
+      "id": "5034450",
+      "time": "2026-08-11 00:35:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌0.1%，觸及至盤中低點。"
+    },
+    {
+      "id": "mkt:019fec86-adcf-7aab-8fdd-da5eaae68248",
+      "time": "2026-08-11 00:34:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US President Trump said Iran is demanding compensation for losses from military clashes over the past five months; he said he likewise demands Iran compensate and has instructed his representatives to press that point in any future negotiations."
+    },
+    {
+      "id": "5034449",
+      "time": "2026-08-11 00:33:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：對抗議者的賠償應納入與伊朗的談判，應該向抗議者家屬支付賠償。"
+    },
     {
       "id": "5034448",
       "time": "2026-08-11 00:33:25",
@@ -143867,44 +143896,6 @@
         "其他"
       ],
       "text": "美方稱其部隊已在霍爾木茲海峽引導44艘船隻調整航線。"
-    },
-    {
-      "id": "5023072",
-      "time": "2026-08-04 00:37:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【針對“有執法人員查獲瞞報運輸危險貨物遭遇立案難”等問題 海口官方通報】海南省海口市聯合調查組8月3日晚釋出情況通報：近日，有網友在網路社交平臺發帖，反映“有執法人員查獲瞞報運輸危險貨物遭遇立案難”“港口安全生產監管存在漏洞”“執法人員遭不公正待遇”等問題。對此，海口成立由公安、司法、應急、海事及組織人事等部門組成的聯合調查組開展調查核查工作。\n\n針對執法人員查獲瞞報運輸危險貨物，公安機關今年6月已依法立案查處；針對海口港安全生產風險隱患，海口市相關部門在常態化監管的基礎上，正在開展“清源除患”百日專項整治，嚴查嚴打嚴管；針對反映的個人問題，調查組正在核查瞭解。\n\n調查組表示，將加強部門協同配合，堅決堵塞漏洞，加大立案打擊力度，從嚴壓實企業主體責任，堅決築牢港口安全生產屏障。（央視新聞）"
-    },
-    {
-      "id": "5023071",
-      "time": "2026-08-04 00:36:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克漲幅擴大，最新上漲2.1%。"
-    },
-    {
-      "id": "5023070",
-      "time": "2026-08-04 00:34:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員表示，儘管特朗普發表相關言論，但暫無開展新一輪談判的計劃。"
-    },
-    {
-      "id": "mkt:019fc879-f8fe-7aab-8f5c-6cae77adebdc",
-      "time": "2026-08-04 00:34:24",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Politico reports Meta Platforms (META.O) will attend a White House AI meeting tomorrow."
     }
   ]
 }
