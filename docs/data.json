@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-10 21:58:15",
-  "count": 15894,
+  "updated": "2026-08-10 22:02:20",
+  "count": 15872,
   "items": [
+    {
+      "id": "mkt:019febfa-2201-7aab-8fdb-59f6f4f1bfd9",
+      "time": "2026-08-10 22:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone government bond yields continued to rise; German 2-year government bond yield climbed 5.13 bps to 2.7835%."
+    },
+    {
+      "id": "5034307",
+      "time": "2026-08-10 22:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區國債收益率延續升勢，德國兩年期國債收益率最新上漲5.13個基點，報2.7835%。"
+    },
+    {
+      "id": "5034306",
+      "time": "2026-08-10 22:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月諮商會就業趨勢指數 107.71，前值106.69。"
+    },
+    {
+      "id": "mkt:019febf9-a630-7aab-8fdb-51c96b616e4f",
+      "time": "2026-08-10 22:00:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Conference Board Employment Trends Index rose to 107.71 in July from 106.69 previously."
+    },
+    {
+      "id": "mkt:019febf9-78ad-7aab-8fdb-4bc7c66c2533",
+      "time": "2026-08-10 22:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (Jul) | actual 107.71 | previous 106.69"
+    },
+    {
+      "id": "mkt:019febf8-b63b-7aab-8fdb-428280e4ad06",
+      "time": "2026-08-10 21:59:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan raises S&P 500 end-2026 target to 8,000】JP Morgan on the 10th raised its S&P 500 end-2026 target to 8,000 from 7,800, citing robust corporate earnings outlook and faster revenue growth as large tech firms ramp AI investment. The new target is about 3% above last Friday's close. At least seven brokerages now forecast the S&P 500 at 8,000 by end-2026. JP Morgan analysts say cloud backlog converting into revenue should sustain strong growth, validate AI capex and ease investor concern over returns on deployed capital. LSEG data show 85.1% of 436 S&P 500 companies that reported Q2 results beat analyst estimates, versus a 1994–present average of 68%. The S&P 500 is up roughly 13% year-to-date, driven by AI-related optimism."
+    },
+    {
+      "id": "mkt:019febf7-4527-7aab-8fdb-39730d929f2f",
+      "time": "2026-08-10 21:57:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $80.00/barrel, the strongest level since Aug. 4, gaining 4.78% intraday."
+    },
     {
       "id": "5034305",
       "time": "2026-08-10 21:56:50",
@@ -144412,293 +144490,6 @@
         "其他"
       ],
       "text": "【多地發文鼓勵居民裝修既有住房】根據行業統計，當前，中國家裝市場規模已超3.2萬億元。隨著存量房時代到來，每年因二次裝修產生的需求可高達1.5萬億元。但這一具備較大增長潛力的房地產細分賽道，卻長期面臨三重結構性矛盾：標準體系缺位引發的工程質量隱患、資金監管欠缺放大了消費者資金風險，以及行業集中度低滋生的惡性競爭。伴隨“好房子”建設深入推進，新材料、新技術、新產品加速普及，部分企業卻藉機炒作概念、虛假宣傳、低價引流、惡意增項，新老問題疊加共振，進一步影響消費者預期。在此背景下，行業治理的重點正指向補齊前端標準短板和健全後端調解機制。（第一財經）"
-    },
-    {
-      "id": "5022874",
-      "time": "2026-08-03 22:02:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "7月ISM製造業指數強勁後，美國國債漲幅收窄。"
-    },
-    {
-      "id": "5022873",
-      "time": "2026-08-03 22:02:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國萊茵集團（RWE AG）：谷歌將根據一項為期15年的協議，包銷該公司克魯克德溪155兆瓦太陽能專案的全部發電量。"
-    },
-    {
-      "id": "5022872",
-      "time": "2026-08-03 22:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯反壟斷監管機構：蘋果未遵守關於在iOS系統預安裝俄版郵件應用Messager和俄羅斯應用商店的警告。"
-    },
-    {
-      "id": "mkt:019fc7ee-5dfd-7aab-8f59-bb1c1d553413",
-      "time": "2026-08-03 22:01:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y"
-      ],
-      "text": "US ISM output index for July 58.5, prior 52.2."
-    },
-    {
-      "id": "mkt:019fc7ee-3ca9-7aab-8f59-b49d40e6e88a",
-      "time": "2026-08-03 22:01:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US ISM Inventories Index (July) 51.2, prior 51.4."
-    },
-    {
-      "id": "mkt:019fc7ee-389e-7aab-8f59-ac9237cdb8cf",
-      "time": "2026-08-03 22:01:45",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Production Index (Jul) | actual 58.5 | previous 52.2"
-    },
-    {
-      "id": "mkt:019fc7ee-1d46-7aab-8f59-a4750c74590f",
-      "time": "2026-08-03 22:01:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Inventory Index (Jul) | actual 51.2 | previous 51.4"
-    },
-    {
-      "id": "mkt:019fc7ed-ff59-7aab-8f59-995128de4961",
-      "time": "2026-08-03 22:01:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "RIA reported Russia's antitrust regulator has opened an investigation into Apple (AAPL.O)."
-    },
-    {
-      "id": "5022871",
-      "time": "2026-08-03 22:01:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海軍事演習】據中國海事局網站訊息，葫蘆島海事局釋出航行警告，8月4日8時至14時，渤海部分海域進行軍事演習，禁止駛入。（央視軍事）"
-    },
-    {
-      "id": "mkt:019fc7ed-ce79-7aab-8f59-9020ba66679e",
-      "time": "2026-08-03 22:01:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: Bohai Sea military exercise】China Maritime Safety Administration posted that Huludao Maritime Safety Administration issued a navigation warning banning entry to parts of the Bohai Sea for a military exercise from 08:00–14:00 on Aug. 4."
-    },
-    {
-      "id": "mkt:019fc7ed-52a5-7aab-8f59-8c729a4e91a0",
-      "time": "2026-08-03 22:00:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Haohua Technology: multi-product portfolio for AI liquid-cooled servers】Haohua Technology said on its investor platform it has built a multi-product portfolio for AI liquid-cooled servers, including phase-change immersion coolant YL-10, single-phase immersion coolant YL-70, phase-change cold-plate coolant HP-1 and HFC-134a refrigerant. The company said it is developing and stocking additional new coolants to suit downstream applications, and is working with multiple industry-leading customers to advance product validation and commercial rollout."
-    },
-    {
-      "id": "em:jjsj_mgsj:202608033830070411",
-      "time": "2026-08-03 22:00:31",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月份ISM製造業指數升至55.6】美國7月份ISM製造業指數升至55.6，預估為53.9。"
-    },
-    {
-      "id": "5022870",
-      "time": "2026-08-03 22:00:19",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月營建支出月率 -0.1%，預期0.2%，前值由0.10%修正為0%。"
-    },
-    {
-      "id": "mkt:019fc7ec-e0ec-7aab-8f59-81318a59f4ee",
-      "time": "2026-08-03 22:00:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US ISM manufacturing PMI (July) 55.6; consensus 54.0; prior 53.3."
-    },
-    {
-      "id": "mkt:019fc7ec-df64-7aab-8f59-7944d2838999",
-      "time": "2026-08-03 22:00:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US June construction spending MoM -0.1% vs +0.2% expected; May revised to 0.0% from +0.1%."
-    },
-    {
-      "id": "mkt:019fc7ec-c8bb-7aab-8f59-76566a9129c1",
-      "time": "2026-08-03 22:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US July ISM employment index 52.8, expected 50.0, prior 49.7."
-    },
-    {
-      "id": "5022869",
-      "time": "2026-08-03 22:00:10",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國7月ISM製造業PMI 55.6，預期54，前值53.3。"
-    },
-    {
-      "id": "mkt:019fc7ec-c736-7aab-8f59-6ce956d72755",
-      "time": "2026-08-03 22:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US ISM new orders index (July) 56.7, matching consensus 56.7; prior 56.0."
-    },
-    {
-      "id": "mkt:019fc7ec-c727-7aab-8f59-66fc9278ea73",
-      "time": "2026-08-03 22:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US July ISM Manufacturing Prices Paid Index 71.1 (expected 71; prior 73)."
-    },
-    {
-      "id": "mkt:019fc7ec-a1fb-7aab-8f59-5ae8f2eea63e",
-      "time": "2026-08-03 22:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Construction Spending (MoM) (Jun) | actual -0.1% | consensus 0.2% | previous 0.10%"
-    },
-    {
-      "id": "mkt:019fc7ec-9d5b-7aab-8f59-405800749022",
-      "time": "2026-08-03 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Manufacturing PMI (Jul) | actual 55.6 | consensus 54 | previous 53.3"
-    },
-    {
-      "id": "mkt:019fc7ec-9dbc-7aab-8f59-503e9b78e194",
-      "time": "2026-08-03 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Employment Index (Jul) | actual 52.8 | consensus 50 | previous 49.7"
-    },
-    {
-      "id": "mkt:019fc7ec-9d5d-7aab-8f59-4bbbc12d5826",
-      "time": "2026-08-03 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM New Orders Index (Jul) | actual 56.7 | consensus 56.7 | previous 56"
-    },
-    {
-      "id": "mkt:019fc7ec-9d3f-7aab-8f59-38395909c5a9",
-      "time": "2026-08-03 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Manufacturing Prices Paid Index (Jul) | actual 71.1 | consensus 71 | previous 73"
-    },
-    {
-      "id": "5022868",
-      "time": "2026-08-03 21:59:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月重點城市新房成交同比增長】中指資料顯示，7月上海、深圳、杭州、成都、合肥等重點城市均有優質樓盤入市，帶動百城新房價格結構性上漲，百城新建住宅均價為17229元/平方米，環比上漲0.26%；受多數城市二手房價格調整影響，同期百城二手住宅均價為12584元/平方米，環比下跌0.44%。 在市場成交方面，7月市場進入傳統淡季，新房、二手房成交環比有所回落，但同比來看，市場交易仍保持一定活躍度。據前述機構資料，7月重點100城新房銷售面積環比下降17%，同比增長4%，其中一線城市、二線城市、三四線城市同比增速分別為14%、9%和-5%；在二手房市場，重點20城二手住宅成交12.5萬套，環比下降6%，同比增長9.3%。（21財經）"
-    },
-    {
-      "id": "5022867",
-      "time": "2026-08-03 21:59:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【昊華科技：針對AI液冷伺服器已佈局形成多產品矩陣】昊華科技(600378)8月3日晚間在互動易平臺表示，目前，公司針對AI液冷伺服器已佈局形成多產品矩陣，產品包括相變浸沒液冷冷卻液YL-10、單相浸沒液冷冷卻液YL-70、相變冷板液冷冷卻液HP-1和HFC-134a等。同時，公司研發並儲備多款新型冷卻液產品以適配下游應用和需求。在客戶合作方面，公司積極推進產品在下游領域的應用，與多家行業頭部客戶開展深入合作，積極推動產品的驗證與應用推廣。"
-    },
-    {
-      "id": "5022866",
-      "time": "2026-08-03 21:59:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【新規落地 韓國個股槓桿ETF交易額驟降九成】韓國金融監管當局提高單一標的槓桿、反向ETF投資門檻的新規正式實施後，相關交易規模急劇萎縮。基礎保證金由原先1000萬韓元上調至3000萬韓元僅兩天，交易額就萎縮至新規落地前的十分之一。大量個人投資者集中兌現收益，市場過熱態勢迅速降溫。 韓國交易所8月3日資料顯示：以三星電子、SK海力士為底層資產的16只單一標的槓桿/反向ETF合計交易額約1.2萬億韓元。而上調保證金前最後一個交易日（上月30日）交易額高達12.4萬億韓元，當前規模僅為當時的十分之一；即便對比新規實施首個交易日（上月31日，約3萬億韓元），也縮水一半以上。 當日沒有任何一隻品種交易額突破1萬億韓元。"
-    },
-    {
-      "id": "5022865",
-      "time": "2026-08-03 21:58:50",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點",
-        "A股"
-      ],
-      "text": "【8月3日增減持彙總（表）】8月3日盤後，據不完全統計，遠翔新材、晨光新材等兩家A股上市公司披露擬減持情況，東吳證券、飛鹿股份等披露擬增持情況。"
-    },
-    {
-      "id": "mkt:019fc7eb-3c5e-7aab-8f59-35b32b9b9551",
-      "time": "2026-08-03 21:58:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Met Office says England and Wales experienced their driest July on record."
     }
   ]
 }

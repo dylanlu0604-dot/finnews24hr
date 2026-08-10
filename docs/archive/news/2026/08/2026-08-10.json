@@ -1,7 +1,85 @@
 {
   "date": "2026-08-10",
-  "count": 2325,
+  "count": 2332,
   "items": [
+    {
+      "id": "mkt:019febfa-2201-7aab-8fdb-59f6f4f1bfd9",
+      "time": "2026-08-10 22:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Eurozone government bond yields continued to rise; German 2-year government bond yield climbed 5.13 bps to 2.7835%."
+    },
+    {
+      "id": "5034307",
+      "time": "2026-08-10 22:00:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元區國債收益率延續升勢，德國兩年期國債收益率最新上漲5.13個基點，報2.7835%。"
+    },
+    {
+      "id": "5034306",
+      "time": "2026-08-10 22:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月諮商會就業趨勢指數 107.71，前值106.69。"
+    },
+    {
+      "id": "mkt:019febf9-a630-7aab-8fdb-51c96b616e4f",
+      "time": "2026-08-10 22:00:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Conference Board Employment Trends Index rose to 107.71 in July from 106.69 previously."
+    },
+    {
+      "id": "mkt:019febf9-78ad-7aab-8fdb-4bc7c66c2533",
+      "time": "2026-08-10 22:00:22",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Conference Board Employment Trends Index (Jul) | actual 107.71 | previous 106.69"
+    },
+    {
+      "id": "mkt:019febf8-b63b-7aab-8fdb-428280e4ad06",
+      "time": "2026-08-10 21:59:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【JP Morgan raises S&P 500 end-2026 target to 8,000】JP Morgan on the 10th raised its S&P 500 end-2026 target to 8,000 from 7,800, citing robust corporate earnings outlook and faster revenue growth as large tech firms ramp AI investment. The new target is about 3% above last Friday's close. At least seven brokerages now forecast the S&P 500 at 8,000 by end-2026. JP Morgan analysts say cloud backlog converting into revenue should sustain strong growth, validate AI capex and ease investor concern over returns on deployed capital. LSEG data show 85.1% of 436 S&P 500 companies that reported Q2 results beat analyst estimates, versus a 1994–present average of 68%. The S&P 500 is up roughly 13% year-to-date, driven by AI-related optimism."
+    },
+    {
+      "id": "mkt:019febf7-4527-7aab-8fdb-39730d929f2f",
+      "time": "2026-08-10 21:57:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $80.00/barrel, the strongest level since Aug. 4, gaining 4.78% intraday."
+    },
     {
       "id": "5034305",
       "time": "2026-08-10 21:56:50",
