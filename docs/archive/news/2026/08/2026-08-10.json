@@ -1,7 +1,73 @@
 {
   "date": "2026-08-10",
-  "count": 903,
+  "count": 911,
   "items": [
+    {
+      "id": "mkt:019fea18-4de9-7aab-8fd1-9b916e0f5596",
+      "time": "2026-08-10 13:14:49",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share cinema exhibition sector extended gains in the afternoon. Ruyi Film hit the daily limit-up, Xingfu Lanhai rose over 8%, Beijing Culture had earlier hit the limit-up, Huazhi Digital Media jumped over 15%, and Jinyi Cinemas and China Film gained more than 3%."
+    },
+    {
+      "id": "mkt:019fea18-3bdd-7aab-8fd1-9037d27f4d19",
+      "time": "2026-08-10 13:14:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's central bank governor said if Hungary seeks to join the euro area, it would be reasonable for the MPC to reassess the central bank's current inflation target."
+    },
+    {
+      "id": "5033275",
+      "time": "2026-08-10 13:14:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾報告9例乙腦死亡病例】）據尼泊爾《加德滿都郵報》10日報道，在不到一個月的時間裡，尼泊爾至少有9人死於流行性乙型腦炎（乙腦），乙腦感染病例達到37例。據報道，尼泊爾9例乙腦死亡病例中，6例在戈希省，2例在馬德西省，1例在藍毗尼省。該國衛生官員警告說，隨著蚊媒疾病高峰期臨近，死亡人數可能進一步上升。去年，尼泊爾有182人感染乙腦，其中41人死亡，疫情蔓延至45個縣，病死率約為23%。"
+    },
+    {
+      "id": "5033274",
+      "time": "2026-08-10 13:14:03",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長安班代·巴奈表示，如果匈牙利想要加入歐元區，由貨幣政策委員會審議央行當前通脹目標的設定水平是合理之舉。"
+    },
+    {
+      "id": "mkt:019fea16-1645-7aab-8fd1-89e660d94b28",
+      "time": "2026-08-10 13:12:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thailand's Nonthaburi deputy governor said the shooting suspect has been detained."
+    },
+    {
+      "id": "5033273",
+      "time": "2026-08-10 13:11:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【白酒概念股午後繼續走強 迎駕貢酒漲超8%】白酒概念股午後繼續走強，迎駕貢酒漲超8%，古井貢酒、貴州茅臺、今世緣等上漲。"
+    },
+    {
+      "id": "mkt:019fea15-9772-7aab-8fd1-863721bba0a1",
+      "time": "2026-08-10 13:11:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nonthaburi deputy governor said a Thai official was hospitalized after being shot inside the provincial government office building."
+    },
+    {
+      "id": "5033272",
+      "time": "2026-08-10 13:11:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊衝高，儒意電影漲停】影視院線板塊衝高，儒意電影漲停，幸福藍海漲超8%，北京文化此前漲停，華智數媒漲超15%，金逸影視、中國電影漲超3%。"
+    },
     {
       "id": "te:economy:574005",
       "time": "2026-08-10 13:10:54",
