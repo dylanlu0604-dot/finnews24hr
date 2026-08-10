@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-11 02:03:56",
-  "count": 15771,
+  "updated": "2026-08-11 02:07:44",
+  "count": 15777,
   "items": [
+    {
+      "id": "mkt:019fecdb-0be6-7aab-8fde-c0b11a035943",
+      "time": "2026-08-11 02:06:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures rose $4/bbl after Iran and the U.S. exchanged compensation demands, weakening prospects for a swift reopening of the Strait of Hormuz."
+    },
+    {
+      "id": "5034488",
+      "time": "2026-08-11 02:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：特朗普將於下午2:45簽署有關“疫苗靈活性”的行政令。"
+    },
+    {
+      "id": "mkt:019fecda-21ce-7aab-8fde-bccfad4710c6",
+      "time": "2026-08-11 02:05:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gaza Peace Committee official says Gaza plan continues to be implemented effectively."
+    },
+    {
+      "id": "mkt:019fecd9-dabe-7aab-8fde-b60cb9ce4a7d",
+      "time": "2026-08-11 02:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Gaza Peace Committee official said the committee will not ask Israel to rely on trust or to take irreversible actions until verified, on‑the‑ground steps are taken."
+    },
+    {
+      "id": "mkt:019fecd9-3300-7aab-8fde-a9fd7780fdb1",
+      "time": "2026-08-11 02:04:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Gaza Peace Committee official said the Gaza roadmap was jointly formulated by the committee and Hamas, and consultations with Israel are ongoing."
+    },
+    {
+      "id": "5034487",
+      "time": "2026-08-11 02:04:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油期貨每桶上漲 4 美元，伊朗與美國互相提出賠償要求，霍爾木茲海峽局勢緩和的預期消退。"
+    },
+    {
+      "id": "5034486",
+      "time": "2026-08-11 02:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙和平委員會官員：並未要求以色列僅憑信任行事，也不要求其在實地落實經核實的舉措之前採取不可逆轉的行動。"
+    },
+    {
+      "id": "mkt:019fecd8-8d41-7aab-8fde-a036ba8e6419",
+      "time": "2026-08-11 02:04:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Hill reported that the Trump administration revoked more than 175,000 visas."
+    },
+    {
+      "id": "5034485",
+      "time": "2026-08-11 02:03:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "加沙和平委員會官員：加沙路線圖由和平委員會與哈馬斯雙方擬定，同以色列的磋商仍在進行。"
+    },
     {
       "id": "5034484",
       "time": "2026-08-11 02:03:17",
@@ -143544,34 +143619,6 @@
         "國際"
       ],
       "text": "特朗普：正討論最遲明天開放海峽。"
-    },
-    {
-      "id": "mkt:019fc8cd-edad-7aab-8f5d-a54210dc9934",
-      "time": "2026-08-04 02:06:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the second phase of talks with Iran is denuclearization."
-    },
-    {
-      "id": "mkt:019fc8cd-583a-7aab-8f5d-9a98c9ad05e5",
-      "time": "2026-08-04 02:05:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump says talks are underway to reopen the Strait of Hormuz; reopening is the first phase of negotiations and could occur as soon as tomorrow."
-    },
-    {
-      "id": "5023133",
-      "time": "2026-08-04 02:04:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗無核化階段需要“一段時間”。"
     }
   ]
 }
