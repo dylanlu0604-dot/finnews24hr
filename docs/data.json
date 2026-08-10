@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-10 12:08:10",
-  "count": 15890,
+  "updated": "2026-08-10 12:12:02",
+  "count": 15887,
   "items": [
+    {
+      "id": "mkt:019fe9dd-d732-7aab-8fd0-b2d7c1bee0f1",
+      "time": "2026-08-10 12:10:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【German economy minister warns AfD rise could deter investors】Economy Minister Katherina Reiche warned the far‑right Alternative for Germany (AfD)'s rising support could deter potential investors, saying the party's platform appears anti–market and lacks a coherent economic policy. Germany is seeking to attract at least €3.75 trillion in private capital by 2040 and will hold its first investment summit in Berlin in October. Recent polls show the AfD may win an absolute majority in the September state election in Saxony‑Anhalt. The head of the Federation of German Industries said AfD participation in state government would be disastrous, creating uncertainty and weakening Germany's appeal as an investment destination."
+    },
+    {
+      "id": "5033211",
+      "time": "2026-08-10 12:10:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國神華在內蒙古成立煤炭技術研究院公司】企查查APP顯示，近日，國能（內蒙古）煤炭技術研究院有限公司成立，註冊資本10億元，經營範圍包含工程和技術研究和試驗發展；規劃設計管理；碳減排、碳轉化、碳捕捉、碳封存技術研發等。企查查股權穿透顯示，該公司由中國神華全資持股。"
+    },
+    {
+      "id": "5033210",
+      "time": "2026-08-10 12:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南：支援“投貸聯動” 重點培育一批具有影響力的創業投資機構】海南省人民政府辦公廳近日印發《海南省關於進一步深化投融資改革的若干舉措》，其中提出，提升創業投資便利化。支援“投貸聯動”，重點培育一批具有影響力的創業投資機構；鼓勵銀行機構加強與創業投資機構合作，為企業提供“股權+債權”全生命週期金融服務。符合條件的外商投資企業從事創業投資，依法依規享受相關稅收優惠政策，吸引境內外知名創業投資機構落戶。"
+    },
+    {
+      "id": "5033209",
+      "time": "2026-08-10 12:09:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國導彈與無人機攔截器初創企業劍橋航空航天公司以34億美元的估值融資3億美元。"
+    },
     {
       "id": "5033207",
       "time": "2026-08-10 12:06:58",
@@ -144562,72 +144599,6 @@
         "國際"
       ],
       "text": "【比特幣下跌，在Strategy需求下降、美國加密貨幣法案停滯之際】比特幣在亞洲交易時段下跌。CoinMarketCap分析師Ray Salmond表示，在美聯儲如市場預期維持利率不變後，該加密貨幣處於區間震盪。然而，比特幣最大的企業持有者Strategy已暗示對增加美元儲備持開放態度，即將進行的籌資活動的募資額不太可能用於購買數字貨幣。Salmond補充說，這一訊號強化了這樣一種觀點，即比特幣需求的一個關鍵來源實際上已經暫停。與此同時，推進美國加密貨幣監管法案《清晰法案》的努力已經停滯，這似乎是因為圍繞道德和消費者保護的問題尚未解決；該法案受到支援加密貨幣的團體和華爾街的擁護。不過，該分析師表示，加密貨幣的更廣泛市場結構仍在持續改善。比特幣最新下跌1.0%，報62,814.37美元。"
-    },
-    {
-      "id": "5021624",
-      "time": "2026-08-03 12:11:29",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【世界銀行下調菲律賓2027年經濟增長預期至5.2%】世界銀行集團將菲律賓明年經濟增長預期下調至5.2%，但該行預計投資將會回暖，菲律賓央行重啟寬鬆政策。世界銀行在年中版《菲律賓經濟展望》中表示：“基準情景預測，隨著治理環境趨於穩定、公共投資逐步復甦，菲律賓央行重啟寬鬆政策，2027年經濟增速回升至5.2%。”注：最新2027年增長預測低於6月《全球經濟展望》給出的5.6%。世界銀行指出：“在基準情景下，隨著投資迴歸常態、金融環境寬鬆，2027年至2028年經濟增長有望向潛在增速靠攏。”世界銀行預計菲律賓2026年經濟增速為3.7%。"
-    },
-    {
-      "id": "te:markets:572024",
-      "time": "2026-08-03 12:10:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Extends Gains — The South Korean won strengthened to around 1,430 per dollar, extending its July recovery, supported by strong foreign inflows and improving trade fundamentals. The currency benefited from dollar inflows linked to SK Hynix's ADR offering, as proceeds from the transaction were converted into won for domestic semiconductor investment, while renewed foreign demand for Korean assets also supported the recovery. Additionally, Korea's external outlook improved, with July exports surging 62.9% year-on-year to $98.89 billion as semiconductor shipments jumped 179% to $41 billion, lifting the trade surplus to $30.32 billion. This reinforced expectations for a recovery in growth, with manufacturing sentiment improving as companies benefited from robust chip demand. Separately, US President Donald Trump called off a planned strike on Iran, pushing oil prices lower and easing Middle East tensions."
-    },
-    {
-      "id": "5021623",
-      "time": "2026-08-03 12:10:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾稱日本生戰愚蠢至極 】今年6月，美軍首次將“堤豐”中程導彈系統部署至日本鹿兒島縣的海上自衛隊鹿屋基地，參加由美國主導的“勇敢之盾2026”聯合軍演，並計劃繼續參加9月舉行的“東方之盾”日美聯合演習。8月2日，鹿兒島民眾在鹿屋基地附近集會，反對日美聯合軍演，反對日本政府的擴軍修憲動向。"
-    },
-    {
-      "id": "mkt:019fc5d0-96f8-7aab-8f4e-8490d0460e3b",
-      "time": "2026-08-03 12:10:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vietnam posts eighth consecutive monthly trade deficit】Vietnam recorded its eighth consecutive monthly trade deficit in July as factories expanded capacity and imports surged. July exports rose 25% YoY to $53.1bn, broadly in line with economists' 25.5% forecast, while imports climbed 41.4% YoY—above the 36.7% consensus—producing a $3.59bn deficit. Data show the US remained Vietnam's largest export market in the first seven months of 2026, with Vietnam's trade surplus with the US up 22.6% to $91.4bn; the export-dependent economy is facing renewed pressure from US tariff policy."
-    },
-    {
-      "id": "5021622",
-      "time": "2026-08-03 12:10:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "世界銀行將菲律賓2027年經濟增長預期下調至5.2%。"
-    },
-    {
-      "id": "5021621",
-      "time": "2026-08-03 12:09:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "理文造紙：出口增長、市場需求改善以及成本下降提振運營業績。"
-    },
-    {
-      "id": "te:markets:572023",
-      "time": "2026-08-03 12:08:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Near Four-Week High — The Indian rupee climbed to around 95.1 per dollar, extending last week's gains to a near four-week high as lower oil prices reinforced optimism from the Reserve Bank of India's sustained market intervention. Brent crude prices fell 4.7% to below $84 a barrel after US President Donald Trump said plans for an attack on Iran had been shelved to allow negotiations on a nuclear deal, easing concerns over India's import bill and inflation outlook. The rupee rallied 1.2% last week, its strongest weekly gain since March, as the RBI's near-daily dollar sales eased fears of a slide beyond 97 per dollar. Additional support came after RBI data showed measures to attract capital inflows had brought in about $41 billion, including $36.7 billion through foreign currency non-resident deposits, bolstering the central bank's capacity to defend the rupee. Meanwhile, the RBI's net foreign exchange forward book narrowed slightly to $103.3 billion in June, reflecting lower near-term dollar liabilities."
     }
   ]
 }
