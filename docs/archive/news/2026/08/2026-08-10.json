@@ -1,7 +1,154 @@
 {
   "date": "2026-08-10",
-  "count": 1997,
+  "count": 2013,
   "items": [
+    {
+      "id": "5034079",
+      "time": "2026-08-10 19:52:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潔美科技：擬發行股份收購埃福思科技100%股權，交易作價9.15億元】潔美科技公告，公司擬以發行股份方式購買周林、遠致星火、丁傑、陶尚、陳永富持有的埃福思科技100.00%股權，交易金額為9.15億元。同時，公司擬向不超過35名特定投資者發行股份募集配套資金不超過2.28億元。本次交易不構成關聯交易及重組上市。標的公司主營超高精度光學元件確定性拋光裝置的研發、生產、銷售。"
+    },
+    {
+      "id": "5034078",
+      "time": "2026-08-10 19:52:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【崑崙萬維：籌劃發行H股並在港交所上市，董事會已審議透過相關議案】崑崙萬維公告，公司計劃發行境外上市外資股（H股）股票並申請在香港聯交所主機板掛牌上市。2026年8月10日，公司第六屆董事會第二次會議審議透過了關於發行H股並上市的相關議案。目前，公司正積極與中介機構商討具體工作，但具體細節尚未確定，本次發行並上市尚需提交股東會審議，並取得中國證監會和香港聯交所等批准，存在重大不確定性。"
+    },
+    {
+      "id": "5034077",
+      "time": "2026-08-10 19:51:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【8月10日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】加快構建城鄉融合發展新格局； 2.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】共享智造助力河北啟用產業叢集新活力； 3.南水北調東中線一期工程調水突破900億立方米； 4.7月先行指標折射經濟穩中向優態勢明顯； 5.各地各部門多舉措應對臺風“白海豚”影響； 6.我國已建成國家慢性病綜合防控示範區578個； 7.服務消費拓展就業新空間； 8.我國國際航線網路持續最佳化 更好滿足入境遊需求； 9.【一線調研】公園拓展消費新場景； 10.國內聯播快訊： （1）我國已建成綠色燃料產能約800萬噸； （2）港珠澳大橋珠海公路口岸進出境車輛累計突破2500萬輛次； （3）中國第16次北冰洋考察隊開展冰站調查作業； （4）瀕危物種林麝現身重慶巫溪； 11.日本民眾舉行集會抗議高市政權擴軍修憲的危險動向； 12.以色列總理稱拒絕美支援的加沙和平計劃 美媒稱白宮“不在意”； 13.胡塞武裝稱襲擊葉門政府軍目標及沙特煉油廠； 14.國際聯播快訊： （1）美媒稱美總統傾向對伊朗施加經濟壓力； （2）俄稱控制更多區域 烏稱敖德薩遭襲斷電； （3）丹麥民眾舉行皮艇集會 支援格陵蘭島； （4）北美和歐洲多地林火持續蔓延。"
+    },
+    {
+      "id": "mkt:019feb83-b36b-7aab-8fd8-ea0dda35fe44",
+      "time": "2026-08-10 19:51:44",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "HASSETT said President Trump will decide how long to hold Intel (INTC.O) shares."
+    },
+    {
+      "id": "5034076",
+      "time": "2026-08-10 19:51:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "備忘錄顯示，沙特阿美公司將日產能40萬桶的吉贊煉油廠的重啟時間推遲15天至8月30日。"
+    },
+    {
+      "id": "5034075",
+      "time": "2026-08-10 19:51:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將康菲石油目標股價從121美元上調至129美元。"
+    },
+    {
+      "id": "mkt:019feb83-529b-7aab-8fd8-e425c8b9c285",
+      "time": "2026-08-10 19:51:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A memo showed ARAMCO pushed back the restart of the 400,000 bpd Jazan refinery by 15 days to Aug. 30."
+    },
+    {
+      "id": "mkt:019feb83-39c4-7aab-8fd8-dcc30c690f2a",
+      "time": "2026-08-10 19:51:13",
+      "tags": [
+        "MKT News",
+        "EBAY.O",
+        "Impact bearish",
+        "GME.N",
+        "Impact bullish"
+      ],
+      "text": "Pre-market: eBay (EBAY.O) shares down 2.5%; GameStop (GME.N) up 3.7%."
+    },
+    {
+      "id": "5034074",
+      "time": "2026-08-10 19:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：特朗普將自行決定持有英特爾股票的時長。"
+    },
+    {
+      "id": "5034073",
+      "time": "2026-08-10 19:50:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX美股盤前漲超4%】SpaceX美股盤前漲超4%，現報138.45美元。"
+    },
+    {
+      "id": "mkt:019feb82-a3f4-7aab-8fd8-d205ccbd83f6",
+      "time": "2026-08-10 19:50:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, said there is no need to invent a US Treasuries theory to stabilize the yen."
+    },
+    {
+      "id": "5034072",
+      "time": "2026-08-10 19:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "福克斯集團提交混合證券儲架發行備案。"
+    },
+    {
+      "id": "mkt:019feb81-fc85-7aab-8fd8-cb643b2d711e",
+      "time": "2026-08-10 19:49:52",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "White House National Economic Council Director Hassett said a stable yen exchange rate would help prevent volatility from spilling over."
+    },
+    {
+      "id": "5034071",
+      "time": "2026-08-10 19:49:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：無需為穩定日元而炮製美債理論。"
+    },
+    {
+      "id": "mkt:019feb81-937b-7aab-8fd8-c12db666fc0a",
+      "time": "2026-08-10 19:49:25",
+      "tags": [
+        "MKT News",
+        "EBAY.O",
+        "Impact bearish",
+        "GME.N"
+      ],
+      "text": "GameStop (GME.N) CEO Ryan Cohen is reportedly considering withdrawing his $56 billion bid to acquire eBay."
+    },
+    {
+      "id": "5034070",
+      "time": "2026-08-10 19:49:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "EBAY股價盤前下跌2.5%，GAMESTOP股價盤前上漲3.7%。"
+    },
     {
       "id": "5034069",
       "time": "2026-08-10 19:48:57",
