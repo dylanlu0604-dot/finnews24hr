@@ -1,7 +1,158 @@
 {
-  "updated": "2026-08-10 08:57:25",
-  "count": 15874,
+  "updated": "2026-08-10 09:01:55",
+  "count": 15871,
   "items": [
+    {
+      "id": "mkt:019fe92f-b9e7-7aab-8fcd-a9461cf3589a",
+      "time": "2026-08-10 09:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE China A50 index futures opened 0.17% higher."
+    },
+    {
+      "id": "5032868",
+      "time": "2026-08-10 09:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1%至44,683.14點。"
+    },
+    {
+      "id": "5032867",
+      "time": "2026-08-10 09:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌0.29%。"
+    },
+    {
+      "id": "5032866",
+      "time": "2026-08-10 09:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "*臺灣證交所加權股價指數開高0.7%報44,540.71。"
+    },
+    {
+      "id": "5032865",
+      "time": "2026-08-10 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.7%報44,540.71."
+    },
+    {
+      "id": "5032864",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續漲3.06%，純鹼連續漲2.99%，上海原油連續漲2.02%，燃料油連續漲1.92%，焦煤連續漲1.83%。"
+    },
+    {
+      "id": "5032863",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲2%，現報964.00元。"
+    },
+    {
+      "id": "5032862",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報893.00元。"
+    },
+    {
+      "id": "5032861",
+      "time": "2026-08-10 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報4881.00元。"
+    },
+    {
+      "id": "5032860",
+      "time": "2026-08-10 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.20%。"
+    },
+    {
+      "id": "5032859",
+      "time": "2026-08-10 08:59:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士韓股上漲 該公司之前確定了股東回報細節的公佈時間】SK海力士韓股一度上漲4.6%，此前這家晶片製造商確定將於第三季度公佈股東回報細節，並宣佈了擴大國內工廠的計劃。NH Investment & Securities的一名韓國股票銷售助理Peter Park在給客戶的報告中寫道，有傳言稱該公司正在準備100萬億韓元（710億美元）的宏大股東回報計劃，並可能提前至8月下旬披露。韓國基準股指KOSPI一度上漲2.2%，隨後收窄漲幅；SK海力士ADR上週五收跌3.9%。"
+    },
+    {
+      "id": "5032858",
+      "time": "2026-08-10 08:58:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢威科技等成立數智科技新公司】企查查APP顯示，近日，河南漢威數智科技有限公司成立，經營範圍包含物聯網裝置製造；物聯網裝置銷售；物聯網技術服務；物聯網技術研發；物聯網應用服務等。企查查股權穿透顯示，該公司由漢威科技等共同持股。"
+    },
+    {
+      "id": "te:markets:573951",
+      "time": "2026-08-10 08:58:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Rise as Supply Concerns Persist — Wheat prices rose to around $6.40 per bushel, remaining above a four-week low reached on August 6, as concerns over tightening global supplies outweighed improved crop prospects in Australia. Grain exports from the Black Sea region have been disrupted by intensified attacks on port infrastructure linked to the Russia–Ukraine war, while severe heatwaves across the US, Canada, and Europe have heightened concerns over crop yields and quality. In France, extreme temperatures are expected to reduce wheat production, while Canadian wheat acreage has declined from a year earlier. Meanwhile, timely rainfall across key growing regions in New South Wales, Queensland, and Victoria has boosted yield expectations, prompting Rabobank to raise its production forecast to as much as 30 million tons. Bendigo Bank Agribusiness has also upgraded its outlook to around 30 million tons, with output potentially reaching 33 million tons."
+    },
+    {
+      "id": "5032857",
+      "time": "2026-08-10 08:57:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康諾亞-B：CM512 II期臨床試驗達到所有研究終點，將啟動III期研究並明確300mg半年給藥方案】康諾亞-B公告，公司自主研發的1類新藥CM512注射液治療慢性鼻竇炎伴鼻息肉(CRSwNP)的II期臨床研究已完成資料揭盲及初步統計分析，達到全部研究終點，各劑量組療效表現相當。基於此II期結果，公司正在快速啟動CM512注射液治療CRSwNP的臨床III期研究，並明確300mg，半年給藥一次(Q24W)為用藥方案。"
+    },
+    {
+      "id": "5032856",
+      "time": "2026-08-10 08:57:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江溫州城區交通有序恢復】溫州市防指辦會商決定，溫州城區（鹿城區、龍灣區、甌海區）計程車、網約車於8月10日8時恢復執行，8月10日10時城市公交線路逐步恢復執行。山區公交待防颱Ⅰ級應急響應解除後視情恢復執行。軌道交通待完成安全檢查、試車和各項準備工作後，於8月10日12點開始執行。其他縣（市、區）、溫州海經區公共交通恢復可根據自身防颱響應等級和風雨情參照執行。截至8月10日7時30分，全市9條高速公路全部恢復通行，72處高速收費站全部開啟（其中瀋海高速蒲岐收費站因積水通行緩慢）。溫州城區城市道路北口大橋、南口大橋、靈昆特大橋（宏豐碼頭積水已在處置）、七都大橋、北汊橋、甌越大橋、東甌大橋、甌江特大橋、六岙大橋均已恢復通行，靈霓大堤主線已恢復通行（老堤因積水管制中）。"
+    },
+    {
+      "id": "te:economy:573950",
+      "time": "2026-08-10 08:57:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Holds RBA Decision Looms — Australia’s 10-year government bond yield held above 4.9%, moving near multi-week highs as investors looked ahead to the Reserve Bank of Australia’s monetary policy decision on Tuesday. The central bank is widely expected to keep its cash rate unchanged at 4.35% for a second straight meeting, although policymakers are expected to maintain a hawkish stance as inflation remains elevated. Markets are pricing around a 50% probability of another 25-basis-point rate hike by year-end, while traders will closely watch the RBA’s updated forecasts and Governor Michele Bullock’s comments for clues on the future policy path. Elsewhere, persistent uncertainty over efforts to reopen the Strait of Hormuz drove oil prices higher and fueled concerns over elevated inflation. Iran said talks with Oman on a shipping route through the strait were nearing an agreement, but stressed that the waterway would not reopen immediately., while Tehran also rejected direct talks with the US for now."
+    },
+    {
+      "id": "5032855",
+      "time": "2026-08-10 08:57:09",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：黃金連續大幅回升】黃金連續大幅回升，兌現了我們之前的看漲預期。黃金的反彈行情除了拉垮的非農資料之外，也包括沃什越來越明顯的降息預期，以及之前的邏輯如美債信用風險等因素。目前金價維持強勢，建議多單可繼續持有，適當注意美伊衝突再起情況下油價回升的風險。（中金財富期貨）"
+    },
     {
       "id": "5032854",
       "time": "2026-08-10 08:56:51",
@@ -144428,206 +144579,6 @@
         "國際"
       ],
       "text": "新加坡海峽時報指數開盤下跌0.4%，至5604.08點。馬來西亞吉隆坡綜合指數開盤變化不大，報1725.26。"
-    },
-    {
-      "id": "mkt:019fc524-2b45-7aab-8f4b-1874973698f3",
-      "time": "2026-08-03 09:01:49",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia July TD-MI inflation index month-on-month +1.0% (June -0.4%)."
-    },
-    {
-      "id": "mkt:019fc524-0ac7-7aab-8f4b-116066dca9d6",
-      "time": "2026-08-03 09:01:41",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia July TD-MI inflation index YoY 4.0%, prior 3.9%."
-    },
-    {
-      "id": "te:markets:571942",
-      "time": "2026-08-03 09:01:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Drop as Yen Strengthens — The Nikkei 225 Index dropped 2% toward 63,000, while the broader Topix Index declined 2.5% to 3,902 on Monday, reversing the previous session's gains as the yen extended its rally after Japan confirmed it had conducted coordinated yen-buying operations with the US Treasury. The Finance Ministry also warned it stands ready to carry out additional coordinated interventions if necessary, adding that it remains in close contact with US authorities. A stronger yen clouds the earnings outlook for Japan's export-oriented industries and makes domestic equities less attractive to foreign investors. Heavy losses were recorded across financial, consumer, and technology stocks, with Mitsubishi UFJ (-2.9%), Toyota Motor (-5.2%), and Advantest (-2.7%) among the biggest decliners. In corporate news, Fanuc shares plunged more than 17% despite the factory automation company raising its full-year guidance on the back of robust sales and profit growth."
-    },
-    {
-      "id": "mkt:019fc524-0198-7aab-8f4b-09563725ed9c",
-      "time": "2026-08-03 09:01:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | TD-MI Inflation Gauge (MoM) (Jul) | actual 1% | previous -0.40%"
-    },
-    {
-      "id": "mkt:019fc523-e8f1-7aab-8f4b-02f4aa65398a",
-      "time": "2026-08-03 09:01:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | TD-MI Inflation Gauge (YoY) (Jul) | actual 4% | previous 3.90%"
-    },
-    {
-      "id": "5021318",
-      "time": "2026-08-03 09:01:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央網信辦從嚴處置一批違規網路娛樂團播賬號】近期，中央網信辦深入推進“清朗·網路娛樂團播亂象整治”專項行動，針對團播違規PK刺激打賞、不當玩法誘導打賞、場景內容低俗不良、侵害未成年人權益等問題，指導督促網站平臺加強團播內容管理，依法依約處置違規網路團播賬號1840餘個。現將部分典型案例通報如下：\n\n1.團播賬號“神威空間”“紅黃綠的綠”“洲羽”“Ct-摘星樓”“Lz-天上人間001”“金麥姐妹花（招人）”“GJ-江詩月”等，團播成員穿著暴露，頻繁展示抖胸、挺胯等帶有性暗示的動作，演繹低俗內容，或刻意採用昏暗燈光，透過朦朧光影烘托曖昧、軟色情氛圍，已予以禁言或限期封禁直播許可權處置。\n\n2.團播賬號“生活磨平了蛋的妙脆角”存在未成年人參與團播問題，已予以關閉賬號處置，其所在MCN機構由平臺予以清退處置。團播賬號“澤宇”“渝禧200”等，透過模仿未成年人語氣、穿校服直播等方式誘導打賞，已予以限期封禁直播許可權處置。\n\n3.團播賬號“Dorx-0230”“VG舞-08”“請叫我楊粒航℡”等，使用“解鎖福利”等暗語，以口播話術刺激使用者轉賬送禮，或引導粉絲開展線下接觸等方式誘導打賞，已予以禁言或永久封禁直播許可權處置。\n\n4.團播賬號“ZL-元氣少女”“草莓甜心101”“BRI火墨”“RED-9”“沐陽”“貝拉Lala”等，在PK過程中操控團播成員開展低俗惡俗、帶有人身侮辱性質的懲罰，或密集進行“幫我組一組”“就差最後一點”等喊話，進行無實質內容PK誘導打賞，已予以限期封禁直播許可權或限流處置。"
-    },
-    {
-      "id": "mkt:019fc522-eabe-7aab-8f4a-fd8d84168ca0",
-      "time": "2026-08-03 09:00:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "China's domestic futures main contracts opened mostly lower. Plastics' month-to-date average fell over 5%; fuel oil down nearly 4%; SC crude futures down more than 3%; iron ore down nearly 3%. Ethylene glycol, styrene and lithium carbonate declined over 2%; benzene fell about 2%; low-sulfur fuel oil (LU) down over 1%. On the upside, polysilicon rose more than 2%; p-xylene, propylene, PTA and polypropylene month-to-date averages were up over 1%; short fiber, Shanghai zinc and Shanghai tin gained roughly 1%."
-    },
-    {
-      "id": "mkt:019fc522-c40b-7aab-8f4a-f2797f29c9ef",
-      "time": "2026-08-03 09:00:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures opened down 0.21%."
-    },
-    {
-      "id": "5021317",
-      "time": "2026-08-03 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.8%報42,780.42。"
-    },
-    {
-      "id": "5021316",
-      "time": "2026-08-03 09:00:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2541.00元。"
-    },
-    {
-      "id": "5021315",
-      "time": "2026-08-03 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "螺紋鋼連續主力合約日內跌1%，現報2982.00元。"
-    },
-    {
-      "id": "5021314",
-      "time": "2026-08-03 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4110美元/盎司，日內漲0.07%。"
-    },
-    {
-      "id": "5021313",
-      "time": "2026-08-03 09:00:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌2%，現報1172.50元。"
-    },
-    {
-      "id": "5021312",
-      "time": "2026-08-03 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】燃料油連續跌3.92%，上海原油連續跌3.78%，多晶矽連續漲3.19%，鐵礦石連續跌2.99%，乙二醇連續跌2.90%。"
-    },
-    {
-      "id": "5021311",
-      "time": "2026-08-03 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌4%，現報3431.00元。"
-    },
-    {
-      "id": "5021310",
-      "time": "2026-08-03 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報4847.00元。"
-    },
-    {
-      "id": "5021309",
-      "time": "2026-08-03 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.19%。"
-    },
-    {
-      "id": "te:markets:571936",
-      "time": "2026-08-03 08:58:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Shares Trade Lower as New Month Begins — Australian shares eased 27 points, or 0.3%, to 8,950 on the first trading day of August, reversing the prior session’s gain as investors turned cautious ahead of key domestic releases this week, including June household spending, trade data, and July job ads. Focus also extends to top trading partner China, where PMI readings from a private survey and trade figures are due this week. Firmer U.S. equity futures tempered losses after President Trump signaled restraint on further Iran strikes, raising hopes for progress in the five-month conflict. Locally, factory activity in July was revised upward amid easing inflation, while June private credit posted its strongest rise in six months. Energy minerals, consumer services, and healthcare weighed, though utilities and consumer non-durables offered support. Three of the four major banks slipped, while energy names Woodside (-1.5%) and Santos (-1.4%) retreated. In contrast, Wisetech (1.3%), Evolution Mining (1.2%), and QBE (0.7%) advanced."
-    },
-    {
-      "id": "te:markets:571935",
-      "time": "2026-08-03 08:57:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Hits 3-Week Low — US gasoline futures fell toward $3.0 per gallon in early August, declining for the third consecutive session to a three-week low after President Donald Trump canceled a planned attack on Iran, easing some concerns over supply disruptions in the region. Trump said Saudi Arabia and other key Middle Eastern allies had urged him to suspend the planned strikes in favor of renewed negotiations, while reiterating his call for the swift reopening of the Strait of Hormuz. Meanwhile, Gulf producers continued seeking alternative export routes, with Turkey and Iraq extending a pipeline agreement, while Iran said talks with Oman on a new route through the Strait of Hormuz were in their final stages. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted amid continued Ukrainian strikes on major oil refineries."
-    },
-    {
-      "id": "5021308",
-      "time": "2026-08-03 08:57:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【墨西哥國家石油公司關閉KREM-1油井 並處理附近環境損害問題】墨西哥國家石油公司（Pemex）表示，已關閉了Krem-1勘探井，該井此前曾發生長達數月的洩漏。它正與有關部門合作，努力減少對附近社群的環境損害，並賠償損失。"
     }
   ]
 }

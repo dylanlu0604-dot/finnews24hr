@@ -1,7 +1,158 @@
 {
   "date": "2026-08-10",
-  "count": 337,
+  "count": 354,
   "items": [
+    {
+      "id": "mkt:019fe92f-b9e7-7aab-8fcd-a9461cf3589a",
+      "time": "2026-08-10 09:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FTSE China A50 index futures opened 0.17% higher."
+    },
+    {
+      "id": "5032868",
+      "time": "2026-08-10 09:00:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1%至44,683.14點。"
+    },
+    {
+      "id": "5032867",
+      "time": "2026-08-10 09:00:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4330美元/盎司，日內跌0.29%。"
+    },
+    {
+      "id": "5032866",
+      "time": "2026-08-10 09:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "*臺灣證交所加權股價指數開高0.7%報44,540.71。"
+    },
+    {
+      "id": "5032865",
+      "time": "2026-08-10 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.7%報44,540.71."
+    },
+    {
+      "id": "5032864",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】乙二醇連續漲3.06%，純鹼連續漲2.99%，上海原油連續漲2.02%，燃料油連續漲1.92%，焦煤連續漲1.83%。"
+    },
+    {
+      "id": "5032863",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲2%，現報964.00元。"
+    },
+    {
+      "id": "5032862",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報893.00元。"
+    },
+    {
+      "id": "5032861",
+      "time": "2026-08-10 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報4881.00元。"
+    },
+    {
+      "id": "5032860",
+      "time": "2026-08-10 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.20%。"
+    },
+    {
+      "id": "5032859",
+      "time": "2026-08-10 08:59:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士韓股上漲 該公司之前確定了股東回報細節的公佈時間】SK海力士韓股一度上漲4.6%，此前這家晶片製造商確定將於第三季度公佈股東回報細節，並宣佈了擴大國內工廠的計劃。NH Investment & Securities的一名韓國股票銷售助理Peter Park在給客戶的報告中寫道，有傳言稱該公司正在準備100萬億韓元（710億美元）的宏大股東回報計劃，並可能提前至8月下旬披露。韓國基準股指KOSPI一度上漲2.2%，隨後收窄漲幅；SK海力士ADR上週五收跌3.9%。"
+    },
+    {
+      "id": "5032858",
+      "time": "2026-08-10 08:58:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢威科技等成立數智科技新公司】企查查APP顯示，近日，河南漢威數智科技有限公司成立，經營範圍包含物聯網裝置製造；物聯網裝置銷售；物聯網技術服務；物聯網技術研發；物聯網應用服務等。企查查股權穿透顯示，該公司由漢威科技等共同持股。"
+    },
+    {
+      "id": "te:markets:573951",
+      "time": "2026-08-10 08:58:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Rise as Supply Concerns Persist — Wheat prices rose to around $6.40 per bushel, remaining above a four-week low reached on August 6, as concerns over tightening global supplies outweighed improved crop prospects in Australia. Grain exports from the Black Sea region have been disrupted by intensified attacks on port infrastructure linked to the Russia–Ukraine war, while severe heatwaves across the US, Canada, and Europe have heightened concerns over crop yields and quality. In France, extreme temperatures are expected to reduce wheat production, while Canadian wheat acreage has declined from a year earlier. Meanwhile, timely rainfall across key growing regions in New South Wales, Queensland, and Victoria has boosted yield expectations, prompting Rabobank to raise its production forecast to as much as 30 million tons. Bendigo Bank Agribusiness has also upgraded its outlook to around 30 million tons, with output potentially reaching 33 million tons."
+    },
+    {
+      "id": "5032857",
+      "time": "2026-08-10 08:57:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康諾亞-B：CM512 II期臨床試驗達到所有研究終點，將啟動III期研究並明確300mg半年給藥方案】康諾亞-B公告，公司自主研發的1類新藥CM512注射液治療慢性鼻竇炎伴鼻息肉(CRSwNP)的II期臨床研究已完成資料揭盲及初步統計分析，達到全部研究終點，各劑量組療效表現相當。基於此II期結果，公司正在快速啟動CM512注射液治療CRSwNP的臨床III期研究，並明確300mg，半年給藥一次(Q24W)為用藥方案。"
+    },
+    {
+      "id": "5032856",
+      "time": "2026-08-10 08:57:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江溫州城區交通有序恢復】溫州市防指辦會商決定，溫州城區（鹿城區、龍灣區、甌海區）計程車、網約車於8月10日8時恢復執行，8月10日10時城市公交線路逐步恢復執行。山區公交待防颱Ⅰ級應急響應解除後視情恢復執行。軌道交通待完成安全檢查、試車和各項準備工作後，於8月10日12點開始執行。其他縣（市、區）、溫州海經區公共交通恢復可根據自身防颱響應等級和風雨情參照執行。截至8月10日7時30分，全市9條高速公路全部恢復通行，72處高速收費站全部開啟（其中瀋海高速蒲岐收費站因積水通行緩慢）。溫州城區城市道路北口大橋、南口大橋、靈昆特大橋（宏豐碼頭積水已在處置）、七都大橋、北汊橋、甌越大橋、東甌大橋、甌江特大橋、六岙大橋均已恢復通行，靈霓大堤主線已恢復通行（老堤因積水管制中）。"
+    },
+    {
+      "id": "te:economy:573950",
+      "time": "2026-08-10 08:57:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Holds RBA Decision Looms — Australia’s 10-year government bond yield held above 4.9%, moving near multi-week highs as investors looked ahead to the Reserve Bank of Australia’s monetary policy decision on Tuesday. The central bank is widely expected to keep its cash rate unchanged at 4.35% for a second straight meeting, although policymakers are expected to maintain a hawkish stance as inflation remains elevated. Markets are pricing around a 50% probability of another 25-basis-point rate hike by year-end, while traders will closely watch the RBA’s updated forecasts and Governor Michele Bullock’s comments for clues on the future policy path. Elsewhere, persistent uncertainty over efforts to reopen the Strait of Hormuz drove oil prices higher and fueled concerns over elevated inflation. Iran said talks with Oman on a shipping route through the strait were nearing an agreement, but stressed that the waterway would not reopen immediately., while Tehran also rejected direct talks with the US for now."
+    },
+    {
+      "id": "5032855",
+      "time": "2026-08-10 08:57:09",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中金財富期貨：黃金連續大幅回升】黃金連續大幅回升，兌現了我們之前的看漲預期。黃金的反彈行情除了拉垮的非農資料之外，也包括沃什越來越明顯的降息預期，以及之前的邏輯如美債信用風險等因素。目前金價維持強勢，建議多單可繼續持有，適當注意美伊衝突再起情況下油價回升的風險。（中金財富期貨）"
+    },
     {
       "id": "5032854",
       "time": "2026-08-10 08:56:51",
