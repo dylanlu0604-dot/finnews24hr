@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-11 04:15:03",
-  "count": 15791,
+  "updated": "2026-08-11 04:18:53",
+  "count": 15793,
   "items": [
+    {
+      "id": "mkt:019fed53-9ed3-7aab-8fe0-c45537c3ea6d",
+      "time": "2026-08-11 04:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NVIDIA partners with six financial firms to mobilize over $500bn for AI infrastructure financing】NVIDIA (NVDA.O) said it has formed strategic partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create an independent compute‑financing platform designed to mobilize more than $500 billion of third‑party capital over the long term to build AI infrastructure. The platform will convert NVIDIA compute and full‑stack AI infrastructure into an investable asset class, broaden access to AI factories, generate usage‑linked long‑term revenue streams and support NVIDIA’s hardware sales and software ecosystem growth."
+    },
+    {
+      "id": "5034585",
+      "time": "2026-08-11 04:16:36",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利計劃未來十年促成最高1.5萬億美元資金，用於美國創新基建計劃，涵蓋AI、半導體等戰略領域。"
+    },
+    {
+      "id": "5034584",
+      "time": "2026-08-11 04:15:29",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利啟動美國創新基礎設施計劃，將重點關注人工智慧、基礎設施和國防領域。"
+    },
+    {
+      "id": "mkt:019fed50-93a9-7aab-8fe0-b9f230856be7",
+      "time": "2026-08-11 04:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley launched a US Innovation Infrastructure Program aiming to facilitate about $1.5 trillion of capital raising, financing, advisory and related investment activities over the next 10 years."
+    },
     {
       "id": "te:markets:574198",
       "time": "2026-08-11 04:13:53",
@@ -143709,26 +143746,6 @@
         "Importance 0"
       ],
       "text": "Williams Companies earnings in line with market expectations at 0.50 USD — Williams Companies (WMB) released earnings per share at 0.50 USD, in line with market expectations."
-    },
-    {
-      "id": "5023217",
-      "time": "2026-08-04 04:16:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SNAP第二季度營收16億美元 高於市場預期】SNAP第二季度營收16億美元，預估15.4億美元；第二季度調整後EBITDA 2.5億美元，預估1.923億美元；第二季度日活躍使用者4.9億，預估4.9億。公司預計第三季度營收17億美元至17.4億美元。"
-    },
-    {
-      "id": "te:markets:572275",
-      "time": "2026-08-04 04:16:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Wall Street Rises on Easing Middle East Tensions — US stock indices closed higher on Monday with support from a rebound in Treasury securities. The S&P 500 rose 1.5%, nearing it's record high, while the Dow added 693 points to close at a record 53,178 and the Nasdaq 100 gained 1.8%. The US refrained from striking Iran over the weekend and fuel prices pulled back, lowering yields across the curve as markets readjusted the magnitude of inflation risks. Tehran signaled progress in talks aimed at restoring shipping through the Strait of Hormuz. AI and megacap technology stocks posted gains with the rebound in risk demand, with Amazon (+4.6%) surpassing a $3 trillion market value, alongside advances in Alphabet (+4.9%), Microsoft (+4.9%), and Meta (+6%). Chipmakers also rallied, with Nvidia (+2.9%), AMD (+1.8%), and Sandisk (+6%) posting solid gains. Investors now await earnings from SpaceX (+5.7%) and AMD on Tuesday."
     }
   ]
 }

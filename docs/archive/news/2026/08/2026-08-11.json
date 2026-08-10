@@ -1,7 +1,44 @@
 {
   "date": "2026-08-11",
-  "count": 275,
+  "count": 279,
   "items": [
+    {
+      "id": "mkt:019fed53-9ed3-7aab-8fe0-c45537c3ea6d",
+      "time": "2026-08-11 04:18:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NVIDIA partners with six financial firms to mobilize over $500bn for AI infrastructure financing】NVIDIA (NVDA.O) said it has formed strategic partnerships with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to create an independent compute‑financing platform designed to mobilize more than $500 billion of third‑party capital over the long term to build AI infrastructure. The platform will convert NVIDIA compute and full‑stack AI infrastructure into an investable asset class, broaden access to AI factories, generate usage‑linked long‑term revenue streams and support NVIDIA’s hardware sales and software ecosystem growth."
+    },
+    {
+      "id": "5034585",
+      "time": "2026-08-11 04:16:36",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利計劃未來十年促成最高1.5萬億美元資金，用於美國創新基建計劃，涵蓋AI、半導體等戰略領域。"
+    },
+    {
+      "id": "5034584",
+      "time": "2026-08-11 04:15:29",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利啟動美國創新基礎設施計劃，將重點關注人工智慧、基礎設施和國防領域。"
+    },
+    {
+      "id": "mkt:019fed50-93a9-7aab-8fe0-b9f230856be7",
+      "time": "2026-08-11 04:15:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley launched a US Innovation Infrastructure Program aiming to facilitate about $1.5 trillion of capital raising, financing, advisory and related investment activities over the next 10 years."
+    },
     {
       "id": "te:markets:574198",
       "time": "2026-08-11 04:13:53",
