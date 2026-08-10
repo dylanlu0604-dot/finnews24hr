@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-10 21:50:01",
-  "count": 15891,
+  "updated": "2026-08-10 21:54:11",
+  "count": 15890,
   "items": [
+    {
+      "id": "5034296",
+      "time": "2026-08-10 21:52:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST惠倫：公司基於原材料價格上漲等原因對產品價格進行了相應調整】就投資者“公司最近產品大幅漲價是否屬實？”的提問，ST惠倫在互動平臺回覆稱，公司主要產品為SMD諧振器、TSX熱敏晶體、TCXO振盪器和OSC振盪器。公司基於原材料價格上漲等原因對產品價格進行了相應調整。公司會時刻關注行業狀態、市場需求、原材料價格等情況，綜合確定產品售價。"
+    },
+    {
+      "id": "mkt:019febf1-bea0-7aab-8fdb-34b37cf39bd7",
+      "time": "2026-08-10 21:51:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "USD/CHF rose to 0.81, up 0.26% on the day."
+    },
+    {
+      "id": "5034295",
+      "time": "2026-08-10 21:51:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報86.06美元/桶。"
+    },
+    {
+      "id": "5034294",
+      "time": "2026-08-10 21:51:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破86美元/桶，日內漲2.98%。"
+    },
+    {
+      "id": "5034293",
+      "time": "2026-08-10 21:51:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報80.54美元/桶。"
+    },
+    {
+      "id": "mkt:019febf1-20eb-7aab-8fdb-2c87be71e899",
+      "time": "2026-08-10 21:51:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reported that as of Aug. 10 Russia's wheat harvest has exceeded 60 mln tonnes."
+    },
+    {
+      "id": "5034292",
+      "time": "2026-08-10 21:51:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部訊息稱，大豐收即將到來。"
+    },
+    {
+      "id": "5034291",
+      "time": "2026-08-10 21:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "截至8月10日，俄羅斯小麥收割量超過6000萬噸。"
+    },
+    {
+      "id": "mkt:019febf0-8e6e-7aab-8fdb-25bd0fe9bd00",
+      "time": "2026-08-10 21:50:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of England's £600 mln 7-20-year bond auction had a bid-cover ratio of 1.81."
+    },
+    {
+      "id": "5034290",
+      "time": "2026-08-10 21:50:31",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【今年標普500指數已上漲約13% 多家券商上調年底標普500指數至8000點】摩根大通10日正式將標普500指數2026年底目標點位從7800點上調至8000點，主要理由是企業盈利前景穩健，同時大型科技公司加大AI投資有望顯著加快營收增長。這一目標點位較標普500上週五收盤點位還有約3%的上行空間。目前至少已有七家券商預計標普500將在2026年底達到8000點。摩根大通分析師表示，隨著積壓訂單轉化為實際收入，雲端計算業務有望保持強勁增長，這將驗證AI資本支出的合理性，並進一步緩解市場對投入資本回報率的擔憂。根據倫敦證交所集團的資料，已披露二季度財報的436家標普500成分公司中，85.1%的業績超出分析師預期，顯著高於1994年以來68%的長期平均比例。今年以來，在AI相關樂觀情緒推動下，標普500指數已累計上漲約13%。（央視財經）"
+    },
+    {
+      "id": "te:markets:574160",
+      "time": "2026-08-10 21:49:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cocoa Traders Balance Crop Risks and Supply Outlook — Cocoa prices eased to around $5,630 per tonne, leaving the market little changed for the year as traders continued to assess crop prospects and weather risks. Attention remained focused on the outlook for the 2026/27 season, with expectations of lower production potentially helping to rebalance the market following a substantial global surplus in 2025/26. Production forecasts for major growers Ivory Coast and Ghana have already been reduced, while adverse weather is adding to concerns over the next crop. In Ivory Coast, below-average rainfall, overcast conditions and a recent spell of colder weather have raised concerns about the development of the September-to-February main crop, according to farmers. Supply risks are also emerging elsewhere, with estimates suggesting that Ecuador, Peru and Southeast Asia could collectively produce around 100,000 tonnes less cocoa next season."
+    },
     {
       "id": "5034289",
       "time": "2026-08-10 21:49:15",
@@ -144559,130 +144659,6 @@
         "其他"
       ],
       "text": "瑞銀已投入大量資金完善反洗錢合規體系。"
-    },
-    {
-      "id": "mkt:019fc7e7-2abe-7aab-8f59-2391145b4c16",
-      "time": "2026-08-03 21:54:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【US July PMI steady but report flags warning signs】S&P Global Market Intelligence chief business economist Chris Williamson said the US July PMI held steady, but survey internals point to near-term downside risks to growth. Production growth slowed sharply in July, linked to a third consecutive month of weak new orders and inventory drawdown after unusually strong precautionary stockbuilding in Q2. Worsening supply-chain delays, falling exports and increasing customer resistance to high prices added pressure. Input-cost inf eased slightly, but elevated energy prices and tariffs keep overall inf high. Firms are either trying to raise prices to protect margins or boosting efficiency; factory-gate price inf remained elevated and employment growth moderated. Business optimism on the outlook fell to its lowest since October last year."
-    },
-    {
-      "id": "5022857",
-      "time": "2026-08-03 21:52:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：雪佛龍執行長今天忘了提我的政府。"
-    },
-    {
-      "id": "5022856",
-      "time": "2026-08-03 21:52:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：各大石油公司也一樣…… 立刻下調面向消費者的成品油零售價格！"
-    },
-    {
-      "id": "5022855",
-      "time": "2026-08-03 21:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：俄軍打擊了烏克蘭尼古拉耶夫地區的兩艘船隻。"
-    },
-    {
-      "id": "mkt:019fc7e4-eb57-7aab-8f59-1d3b51f8a96b",
-      "time": "2026-08-03 21:51:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump called on oil companies to lower their prices."
-    },
-    {
-      "id": "5022854",
-      "time": "2026-08-03 21:51:25",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：石油公司，降低油價。"
-    },
-    {
-      "id": "mkt:019fc7e4-ab07-7aab-8f59-13b6342e48cc",
-      "time": "2026-08-03 21:51:19",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Interfax reported the Russian defence ministry said Russian forces struck two more vessels in the Black Sea."
-    },
-    {
-      "id": "5022853",
-      "time": "2026-08-03 21:50:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 俄羅斯稱在黑海襲擊兩艘乾貨船。"
-    },
-    {
-      "id": "mkt:019fc7e3-f3f1-7aab-8f59-0fe6f794be1e",
-      "time": "2026-08-03 21:50:32",
-      "tags": [
-        "MKT News",
-        "JPM.O"
-      ],
-      "text": "JP Morgan aims to increase housing investment to $750 bln by 2035 under its \"American Dream\" plan, more than $200 bln above its prior target."
-    },
-    {
-      "id": "5022852",
-      "time": "2026-08-03 21:50:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金健米業新建3萬噸小麥儲備倉及配套專案全面竣工】據金健米業訊息，7月30日，金健米業旗下湖南金健儲備糧管理有限公司新建3萬噸小麥儲備倉及配套專案全面竣工。該專案總投資約4500萬元。專案涵蓋淺圓倉、提升塔、裝置用房及全套配套土建裝飾工程，所有儲糧工藝、消防安防裝置均完成安裝除錯，目前整體裝置執行狀態平穩，已進入正常試執行階段。"
-    },
-    {
-      "id": "te:economy:572234",
-      "time": "2026-08-03 21:50:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "US Manufacturing Sector Expansion Holds Steady — The S&P Global US Manufacturing PMI was revised slightly higher to 53.9 in July 2026 from the preliminary estimate of 53.8, matching June's reading and signaling another month of solid expansion in factory activity. Operating conditions have now improved for 12 consecutive months, although momentum softened. Output growth eased to its weakest pace since March, while new orders increased at a slower rate for the third straight month. Export orders continued to decline amid tariff pressures and subdued overseas demand. Supply chain disruptions remained severe, with supplier delivery times deteriorating at one of the fastest rates in four years, contributing to material shortages. Input cost inflation, driven by higher energy prices and tariffs, eased to a four-month low but remained elevated, prompting manufacturers to continue raising selling prices. Business confidence stayed positive but slipped to its weakest level since October 2025."
-    },
-    {
-      "id": "mkt:019fc7e3-8a52-7aab-8f59-01ed546f09c8",
-      "time": "2026-08-03 21:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "US July ISM manufacturing PMI and June construction spending MoM due in ten minutes."
     }
   ]
 }
