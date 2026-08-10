@@ -1,7 +1,130 @@
 {
   "date": "2026-08-10",
-  "count": 1919,
+  "count": 1932,
   "items": [
+    {
+      "id": "te:markets:574137",
+      "time": "2026-08-10 19:28:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Holds at 7-Week High — Silver prices were above $63.5 per ounce on Monday, the highest in seven weeks, amid the view that the Federal Reserve is less likely to raise interest rates this year. Nonfarm payrolls unexpectedly dropped in July as the labor force declined. Lesser bets of a rate hike were also supported by oil prices remaining well below their Iran war peaks this year, easing energy inflation. Expectations that financial conditions will not tighten significantly benefited precious metals by decreasing the opportunity cost of holding non-yielding assets. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th."
+    },
+    {
+      "id": "5034024",
+      "time": "2026-08-10 19:28:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今天國際：擬1000萬元參與設立1.4億元投資基金】今天國際公告稱，公司第六屆董事會第三次會議審議透過與專業投資機構合作投資設立投資基金的議案。該基金規模1.4億元，公司作為有限合夥人擬以自有資金認繳1000萬元，佔比7.14%。本次投資符合公司發展戰略和投資方向，不影響正常生產經營，也不與主營業務構成同業競爭。"
+    },
+    {
+      "id": "5034023",
+      "time": "2026-08-10 19:27:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SK海力士美股盤前跌超2%】SK海力士美股盤前跌超2%，現報135.123美元。"
+    },
+    {
+      "id": "5034022",
+      "time": "2026-08-10 19:27:17",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【頻準鐳射中籤號出爐：共有6423個】頻準鐳射(688826.SH)披露首次公開發行股票網上中籤結果，中籤號碼共有6423個，每個中籤號碼只能認購500股頻準鐳射A股股票。頻準鐳射發行價為186.88元/股，是A股今年以來發行價最高的新股，中一簽需繳款9.34萬元。"
+    },
+    {
+      "id": "5034021",
+      "time": "2026-08-10 19:26:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家將巴西2027年GDP增速預期從此前的1.57%下調至1.52%。"
+    },
+    {
+      "id": "5034020",
+      "time": "2026-08-10 19:26:32",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年底巴西雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，與前次預期一致。"
+    },
+    {
+      "id": "mkt:019feb6c-8572-7aab-8fd8-24a140c10b66",
+      "time": "2026-08-10 19:26:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Japan economy minister says spending plan will provide long-term support for yen】Economy Minister Minoru Kiuchi said in a Monday interview Japan’s spending plan will provide long-term support for the yen, rejecting market concerns about the country’s fiscal position. He said fiscal policy “is not as expansionary as you think,” stressing sustainability and calling the approach responsible and proactive. Kiuchi said higher investment and greater demand for yen assets should lift yen demand and that the BOJ has acted appropriately. Market participants remain skeptical about the size of the large spending package and potential government influence on the BOJ. The government’s end-June growth roadmap covers 17 sectors but has not disclosed how much investment will be public versus private."
+    },
+    {
+      "id": "5034019",
+      "time": "2026-08-10 19:26:25",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行調查：經濟學家預測2027年底巴西雷亞爾兌美元匯率將為5.28雷亞爾兌1美元，與此前預期一致。"
+    },
+    {
+      "id": "5034018",
+      "time": "2026-08-10 19:26:10",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年底Selic基準利率為13.75%，與前次預估持平。"
+    },
+    {
+      "id": "5034017",
+      "time": "2026-08-10 19:26:06",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2026年巴西國內生產總值將增長1.98%，此前預期為1.99%。"
+    },
+    {
+      "id": "5034016",
+      "time": "2026-08-10 19:25:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2027年底Selic基準利率為12.00%，與此前預期一致。"
+    },
+    {
+      "id": "te:economy:574136",
+      "time": "2026-08-10 19:25:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belarus",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Belarus Inflation Edges Up in July — Belarus’s annual inflation rate edged up to 4.4% in July 2026 from 4.3% in June, driven by faster price growth across several categories. Inflation accelerated for transport (5.3% vs 4.7%), clothing and footwear (2.9% vs 1.9%), furnishings (2.8% vs 2.5%), health (2.8% vs 2.6%), information and communication (1.8% vs 1.3%), recreation, sports and culture (8.4% vs 7.7%) and restaurants and hotels (6.8% vs 6.4%). Meanwhile, inflation held at 10.3% for housing and utilities and 7% for alcoholic beverages and tobacco. In contrast, food inflation eased to 2.3% from 2.7%, while inflation for insurance and financial services slowed slightly to 3.7% from 3.8%. On a monthly basis, consumer prices rose 0.3%, matching the previous month’s increase."
+    },
+    {
+      "id": "5034015",
+      "time": "2026-08-10 19:25:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行調查：經濟學家預計2027年IPCA年度通脹率將達4.22%，與前次預測持平。"
+    },
     {
       "id": "5034014",
       "time": "2026-08-10 19:25:13",
