@@ -1,7 +1,23 @@
 {
   "date": "2026-08-11",
-  "count": 111,
+  "count": 113,
   "items": [
+    {
+      "id": "5034489",
+      "time": "2026-08-11 02:09:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼：我們正在降低加拿大鋼鐵運輸成本，讓更多加拿大鋼材能夠運往全國各地的建設專案現場，同時加強國內供應鏈。"
+    },
+    {
+      "id": "mkt:019fecdd-7559-7aab-8fde-c949784eeb7a",
+      "time": "2026-08-11 02:09:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said the government is cutting steel transport costs to move more Canadian steel to construction sites nationwide and to strengthen domestic supply chains."
+    },
     {
       "id": "mkt:019fecdb-0be6-7aab-8fde-c0b11a035943",
       "time": "2026-08-11 02:06:46",
