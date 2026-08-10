@@ -1,7 +1,29 @@
 {
   "date": "2026-08-11",
-  "count": 9,
+  "count": 11,
   "items": [
+    {
+      "id": "mkt:019fec6e-d4fe-7aab-8fdd-a3602f70e2bc",
+      "time": "2026-08-11 00:08:34",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O): U.S. ad commitments for 2026 nearly doubled."
+    },
+    {
+      "id": "te:markets:574179",
+      "time": "2026-08-11 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.32% Lower — The FTSE 100 Index decreased 35 points or 0.32 percent on Monday to close at 10867 points. The decline was led by Imperial Brands (-5.28%), Coca-Cola (-4.40%) and British American Tobacco (-4.05%). On the upside, the strongest performers were Fresnillo (3.25%), Metlen Energy & Metals (2.52%) and Glencore (2.21%)."
+    },
     {
       "id": "5034433",
       "time": "2026-08-11 00:04:39",

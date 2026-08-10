@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-11 00:06:15",
-  "count": 15828,
+  "updated": "2026-08-11 00:10:09",
+  "count": 15820,
   "items": [
+    {
+      "id": "mkt:019fec6e-d4fe-7aab-8fdd-a3602f70e2bc",
+      "time": "2026-08-11 00:08:34",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O): U.S. ad commitments for 2026 nearly doubled."
+    },
+    {
+      "id": "te:markets:574179",
+      "time": "2026-08-11 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.32% Lower — The FTSE 100 Index decreased 35 points or 0.32 percent on Monday to close at 10867 points. The decline was led by Imperial Brands (-5.28%), Coca-Cola (-4.40%) and British American Tobacco (-4.05%). On the upside, the strongest performers were Fresnillo (3.25%), Metlen Energy & Metals (2.52%) and Glencore (2.21%)."
+    },
     {
       "id": "5034433",
       "time": "2026-08-11 00:04:39",
@@ -143966,95 +143988,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 1.40% Higher — The CAC 40 Index gained 119 points or 1.40 percent on Monday to close at 8629 points. Gains were led by Capgemini (4.59%), Renault (4.40%) and Essilor (3.95%)."
-    },
-    {
-      "id": "5023045",
-      "time": "2026-08-04 00:09:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "葡萄牙汽車協會（ACAP）資料顯示，7月份特斯拉新車在葡萄牙的登記量同比下降68.7%，1-7月累計登記量同比上升45.6%。"
-    },
-    {
-      "id": "mkt:019fc863-114a-7aab-8f5c-0f35ae220ecc",
-      "time": "2026-08-04 00:09:23",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Portugal auto association ACAP said Tesla (TSLA.O) new registrations in July fell 68.7% YoY, while cumulative Jan–Jul registrations rose 45.6%."
-    },
-    {
-      "id": "5023044",
-      "time": "2026-08-04 00:09:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普今日擬簽署涉及軍人家屬的行政命令。"
-    },
-    {
-      "id": "5023043",
-      "time": "2026-08-04 00:08:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "伊拉克石油市場輸出組織（SOMO）負責人表示，關稅涵蓋土耳其國有能源公司博塔斯（BOTAS）對輸油管道的運營與維護。"
-    },
-    {
-      "id": "mkt:019fc861-ef79-7aab-8f5c-032a6eb1a860",
-      "time": "2026-08-04 00:08:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The head of Iraq's State Oil Marketing Organization (SOMO) said the fee includes Turkish state energy company BOTAŞ's operation and maintenance costs for the pipeline."
-    },
-    {
-      "id": "5023042",
-      "time": "2026-08-04 00:07:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆釋出山區旅遊景區及古道暴雨洪水預警】8月3日，新疆維吾爾自治區水利廳、文化和旅遊廳、體育局、氣象局聯合釋出汛期山區旅遊景區及古道暴雨洪水專題預警，預計8月3日20時至8月4日20時博爾塔拉蒙古自治州博樂市、溫泉縣，伊犁哈薩克自治州霍城縣景區、古道可能發生暴雨洪水。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fc861-2764-7aab-8f5b-fc113929703f",
-      "time": "2026-08-04 00:07:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Head of Iraq's State Organization for Marketing of Oil (SOMO) said the tariff for transporting crude via Turkey is $1.62 per barrel."
-    },
-    {
-      "id": "5023041",
-      "time": "2026-08-04 00:07:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克石油銷售組織（SOMO）主管表示，經土耳其運輸原油的關稅為每桶1.62美元。"
-    },
-    {
-      "id": "te:markets:572257",
-      "time": "2026-08-04 00:07:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.14% Lower — The FTSE 100 Index decreased 15 points or 0.14 percent on Monday to close at 10853 points. The decline was led by AstraZeneca (-9.25%), IG Group Holdings (-3.46%) and Coca-Cola (-2.71%). On the upside, the strongest performers were ICG (3.65%), Smith & Nephew (3.43%) and Barratt Redrow (3.38%)."
-    },
-    {
-      "id": "5023040",
-      "time": "2026-08-04 00:06:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "KKR達成收購協議，將全盤收購美國醫療器械企業Integer控股公司，交易估值約57億美元。"
     }
   ]
 }
