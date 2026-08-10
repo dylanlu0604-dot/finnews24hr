@@ -1,7 +1,93 @@
 {
   "date": "2026-08-11",
-  "count": 142,
+  "count": 151,
   "items": [
+    {
+      "id": "5034507",
+      "time": "2026-08-11 02:38:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內漲0.92%。"
+    },
+    {
+      "id": "mkt:019fecf7-6d09-7aab-8fdf-4451cf51bc04",
+      "time": "2026-08-11 02:37:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Todd Blanche was formally sworn in as U.S. attorney general."
+    },
+    {
+      "id": "5034506",
+      "time": "2026-08-11 02:37:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業機構：用於防治螺旋蠅的得克薩斯州不育蠅設施將於 2027 年春季啟用。"
+    },
+    {
+      "id": "mkt:019fecf6-722b-7aab-8fdf-38abe9d72221",
+      "time": "2026-08-11 02:36:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of 02:30 close, SHFE gold front contract rose 0.66% to 950 yuan/gram; SHFE silver front contract rose 1.89% to 15,884 yuan/kg; Shanghai crude (SC) front contract rose 4.06% to 554 yuan/barrel."
+    },
+    {
+      "id": "5034505",
+      "time": "2026-08-11 02:35:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：布蘭奇已宣誓就任美國司法部長。"
+    },
+    {
+      "id": "mkt:019fecf5-afaf-7aab-8fdf-300985777b92",
+      "time": "2026-08-11 02:35:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.69% at 947.62 yuan/gram in Monday evening trade on Aug 10; Shanghai Gold Exchange Silver T+D closed up 1.79% at 15,830 yuan/kg."
+    },
+    {
+      "id": "mkt:019fecf4-bd6c-7aab-8fdf-2f52aafa1182",
+      "time": "2026-08-11 02:34:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday gain widened to 3.00%, trading at $65.44/oz."
+    },
+    {
+      "id": "5034504",
+      "time": "2026-08-11 02:34:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4380美元/盎司，日內漲0.90%。"
+    },
+    {
+      "id": "5034503",
+      "time": "2026-08-11 02:34:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報65.44美元/盎司。"
+    },
     {
       "id": "mkt:019fecf4-5a71-7aab-8fdf-234c6ec47f96",
       "time": "2026-08-11 02:34:24",
