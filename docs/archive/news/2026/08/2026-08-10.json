@@ -1,7 +1,26 @@
 {
   "date": "2026-08-10",
-  "count": 793,
+  "count": 795,
   "items": [
+    {
+      "id": "te:markets:573996",
+      "time": "2026-08-10 11:55:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Pulls Back from Record Highs — Copper futures slipped below $6.6 per pound on Monday, retreating from record levels reached last week as traders took profits while weighing signs of tightening global supply. Concerns over potential supply disruptions from the Democratic Republic of Congo’s copper concentrate export ban also eased, with Goldman Sachs saying it expected the measure to have no significant impact on global copper balances. However, traders remained cautious over possible US import tariffs on copper, which continued to redirect metal from international markets into US warehouses. On the demand front, data released over the weekend showed both consumer and producer inflation in top consumer China slowed in July, pointing to persistently weak domestic demand. Data on Friday also showed China’s imports of unwrought copper and copper products dropped 11.5% year on year to 425,000 tonnes in July, while imports for January-July fell 6.2% to 2.92 million tonnes."
+    },
+    {
+      "id": "5033191",
+      "time": "2026-08-10 11:54:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【普洛斯上海多園區拓展半導體晶片產業客戶 】8月10日，據普洛斯訊息，當前，上海正深入實施“人工智慧+”行動，加快建設人工智慧高地和世界級產業叢集。近期，普洛斯上海浦東新區、奉賢區、臨港新片區等地多處園區成功拓展半導體晶片產業客戶，服務領域涵蓋晶片設計、半導體裝置及相關產業供應鏈運營。具體來看，普洛斯上海南匯園中物流園迎來國內領先的模擬晶片設計企業思瑞浦；普洛斯上海奉城物流園與半導體產業供應鏈服務商泓明供應鏈達成新的租賃合作；普洛斯上海合慶物流園引入一家國內半導體裝置頭部企業；普洛斯臨港科創稜鏡產業園迎來半導體裝置頭部企業盛美半導體入駐。（澎湃新聞）"
+    },
     {
       "id": "5033189",
       "time": "2026-08-10 11:50:40",
