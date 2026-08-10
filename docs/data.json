@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-11 02:15:21",
-  "count": 15764,
+  "updated": "2026-08-11 02:19:08",
+  "count": 15763,
   "items": [
+    {
+      "id": "5034493",
+      "time": "2026-08-11 02:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "據兩位訊息人士透露：利比亞扎維耶煉油廠燃料罐發生爆炸，爆炸起因不明。"
+    },
+    {
+      "id": "5034492",
+      "time": "2026-08-11 02:18:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲5%，現報87.74美元/桶。"
+    },
+    {
+      "id": "5034491",
+      "time": "2026-08-11 02:18:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報82.09美元/桶。"
+    },
+    {
+      "id": "mkt:019fece5-6e46-7aab-8fde-d6b8d4b892fe",
+      "time": "2026-08-11 02:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration revokes over 175,000 foreign visas】The US State Department says the Trump administration has revoked more than 175,000 foreign visas, citing criminal activity, visa violations and violent rhetoric toward US citizens. Most revocations stem from “law enforcement contact records,” including assault, DUI, theft and drug offenses. Visa cancellations have risen sharply in 2026, with monthly revocations exceeding 10,000 year-to-date. The action is described as part of an ongoing review mechanism to ensure visa holders comply and do not threaten US security; immigration lawyers warn revocations may follow minor enforcement contacts or unproven allegations. The State Department said a US visa is “a privilege, not a right.”"
+    },
+    {
+      "id": "5034490",
+      "time": "2026-08-11 02:16:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內漲4.93%。"
+    },
+    {
+      "id": "te:markets:574190",
+      "time": "2026-08-11 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rallies by 11.16% — Top commodity gainers are Natural Gas EU (11.16%), Natural Gas UK (11.03%), Germany Natural Gas THE (9.12%), Brent Crude Oil (4.63%) and Crude Oil WTI (4.58%)."
+    },
     {
       "id": "5034489",
       "time": "2026-08-11 02:09:57",
@@ -143443,66 +143495,6 @@
         "國際"
       ],
       "text": "特朗普：我們原計劃於昨日對伊朗發動打擊，且那將是有史以來最猛烈的一次。"
-    },
-    {
-      "id": "5023151",
-      "time": "2026-08-04 02:19:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：等我們搞定伊朗後，油價將大幅下跌。"
-    },
-    {
-      "id": "5023150",
-      "time": "2026-08-04 02:18:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普發表講話，埃克森美孚和雪佛龍股價跌幅擴大。"
-    },
-    {
-      "id": "5023149",
-      "time": "2026-08-04 02:17:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：石油公司最好降低零售價格。"
-    },
-    {
-      "id": "5023148",
-      "time": "2026-08-04 02:16:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：石油企業賺得盆滿缽滿，我不樂見此事。"
-    },
-    {
-      "id": "5023147",
-      "time": "2026-08-04 02:16:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：雪佛龍、埃克森美孚賺得太多了。"
-    },
-    {
-      "id": "5023146",
-      "time": "2026-08-04 02:16:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗專家會議表示，伊朗決心持續對抗美國，直至華盛頓停止霸凌行徑，並接受伊朗民族的合理訴求。"
-    },
-    {
-      "id": "5023145",
-      "time": "2026-08-04 02:15:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 英國如今瀕臨破產。只要放開北海石油開採，英國就能變得富庶。"
     }
   ]
 }
