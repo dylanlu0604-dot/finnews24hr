@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-10 23:04:40",
-  "count": 15867,
+  "updated": "2026-08-10 23:08:36",
+  "count": 15860,
   "items": [
+    {
+      "id": "5034397",
+      "time": "2026-08-10 23:06:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美國政府檔案顯示美聯儲主席沃什已完成所承諾的投資權益剝離】一項政府記錄顯示，美聯儲主席凱文·沃什表示，他已賣出了此前承諾剝離的全部金融持倉。沃什簽署了一份美國政府道德辦公室的道德協議合規認證檔案，日期標註為上週四。該檔案於週六在該機構網站公開。5月份正式上任的沃什此前已向該辦公室提交資產剝離證明，顯示他已經出售了承諾處置的大部分持倉。最新的披露顯示，他已出售協議所涵蓋的剩餘權益。"
+    },
+    {
+      "id": "mkt:019fec35-1cd1-7aab-8fdc-9592cd4ec3ac",
+      "time": "2026-08-10 23:05:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude oil up 5.00% intraday at $80.17/bbl; Brent crude up 5.00% intraday at $85.58/bbl."
+    },
+    {
+      "id": "5034396",
+      "time": "2026-08-10 23:05:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯方面報道：下卡姆斯克遭無人機襲擊，78 人受傷，其中 25 人住院。"
+    },
+    {
+      "id": "5034395",
+      "time": "2026-08-10 23:05:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破81美元/桶，日內漲3.64%。"
+    },
     {
       "id": "5034394",
       "time": "2026-08-10 23:03:35",
@@ -144327,106 +144367,6 @@
         "Brent"
       ],
       "text": "EIA data show crude stocks in the US Strategic Petroleum Reserve fell about 2.85 mln bbl last week to 304.8 mln bbl, the lowest level since 1983."
-    },
-    {
-      "id": "5022980",
-      "time": "2026-08-03 23:08:13",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營部門分析師預計基準利率將在2026年底收於6.50%。"
-    },
-    {
-      "id": "5022979",
-      "time": "2026-08-03 23:08:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營部門分析師預計，到2026年底，匯率將為1美元兌換17.88比索。"
-    },
-    {
-      "id": "5022978",
-      "time": "2026-08-03 23:07:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營部門分析師預計基準利率將在2027年末收於6.50%。"
-    },
-    {
-      "id": "5022977",
-      "time": "2026-08-03 23:07:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱在加沙擊斃一名傑哈德指揮官。"
-    },
-    {
-      "id": "mkt:019fc82a-a47f-7aab-8f5a-d4e67d6c2e86",
-      "time": "2026-08-03 23:07:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "The Israel Defense Forces said it killed a Palestinian Islamic Jihad commander in Gaza."
-    },
-    {
-      "id": "5022976",
-      "time": "2026-08-03 23:06:11",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營部門分析師預計2026年末整體通脹率將為4.00%。"
-    },
-    {
-      "id": "5022975",
-      "time": "2026-08-03 23:05:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "墨西哥央行調查顯示，私營部門分析師預計2027年末整體通脹率將為3.84%。"
-    },
-    {
-      "id": "5022974",
-      "time": "2026-08-03 23:05:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本熊本縣地震災區持續高溫】據日本共同社報道，熊本縣熊本市中央區和熊本縣菊池市3日分別記錄到40.3攝氏度和40.2攝氏度的氣溫，這是該縣首次測得40攝氏度以上的氣溫。熊本縣此前遭遇7.1級地震，當前仍面臨大範圍停水，超過8000人在避難所避難。（新華社）"
-    },
-    {
-      "id": "5022973",
-      "time": "2026-08-03 23:05:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【莫三比克總統：國家外科中心是莫中衛生合作重要標誌】中國援莫三比克國家外科中心專案奠基儀式3日在莫三比克首都馬普托舉行。出席儀式的莫三比克總統查波致辭說，該專案將成為莫中兩國公共衛生領域合作的重要標誌。（新華社）"
-    },
-    {
-      "id": "mkt:019fc828-71f1-7aab-8f5a-c97bc158b715",
-      "time": "2026-08-03 23:05:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Luckin Coffee Q2 revenue RMB 15.89 bln, +28.5% YoY】Luckin Coffee reported Q2 revenue of RMB 15.89 billion, up 28.5% YoY, and said it opened more than 5,000 stores in 1H. Q2 average monthly transacting customers were 112.7 million, up 22.9% YoY. Company-operated same-store sales fell 5.3% YoY in Q2, citing a high base from last year’s delivery promotions (same period in 2025: +13.8%). Q2 operating profit from company-operated stores was RMB 2.47 billion, up 25.9% YoY, with store operating margin roughly unchanged YoY. CEO Guo Jinyi said the China coffee market remains in a rapid growth phase with rising penetration and frequency, and Luckin will maintain its store-opening pace to expand market share."
-    },
-    {
-      "id": "5022972",
-      "time": "2026-08-03 23:04:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗和巴基斯坦外長通話討論地區問題。"
     }
   ]
 }
