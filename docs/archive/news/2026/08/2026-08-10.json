@@ -1,7 +1,131 @@
 {
   "date": "2026-08-10",
-  "count": 939,
+  "count": 953,
   "items": [
+    {
+      "id": "5033303",
+      "time": "2026-08-10 13:33:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯韃靼斯坦共和國下卡姆斯克遭烏克蘭大規模無人機襲擊，已造成人員死亡。"
+    },
+    {
+      "id": "5033302",
+      "time": "2026-08-10 13:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "無人機襲擊俄羅斯下卡姆斯克的工業與民用設施。"
+    },
+    {
+      "id": "5033301",
+      "time": "2026-08-10 13:33:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【費大廚回應門店撤下“全國小炒肉大王”稱號】據中國新聞週刊報道，8月9日晚，費大廚辣椒炒肉北京朝陽合生匯店宣傳語已經撤下此前使用多年的“全國小炒肉大王”稱號，更換為“精選黑豬肉，專業大廚炒”。對此，8月10日，費大廚回應稱：“響應新規，費大廚所有門店正在換新調整，從“全國小炒肉大王”煥新為“精選黑豬肉·專業大廚炒”，預計8月底完成。”介面新聞還獲悉，8月9日，費大廚創始人費良慧在公司內部發布《針對近期事宜致全體費大廚夥伴的一封信》，稱完全理解並支援國家規範社會組織評比表彰活動的方向，公司當即就召開門店陳列升級專題會議並在8月3日確認升級方案，各門店已開始有序執行。（介面）"
+    },
+    {
+      "id": "5033300",
+      "time": "2026-08-10 13:33:02",
+      "tags": [],
+      "text": "臺積電：7月營收為4675.8億新臺幣，同比增長44.7％。"
+    },
+    {
+      "id": "5033299",
+      "time": "2026-08-10 13:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯下卡姆斯克市遭到大規模無人機襲擊。"
+    },
+    {
+      "id": "5033298",
+      "time": "2026-08-10 13:32:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股AI應用板塊持續回落，MINIMAX-W(00100.HK)跌超5%，智譜(02513.HK)跌近3%，金山雲(03896.HK)、中國軟體國際(00354.HK)等跟跌。"
+    },
+    {
+      "id": "mkt:019fea28-74c1-7aab-8fd2-0389ee53c947",
+      "time": "2026-08-10 13:32:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "00100.HK",
+        "Impact bearish",
+        "02513.HK",
+        "03896.HK"
+      ],
+      "text": "Hong Kong AI application stocks extended losses, with MINIMAX-W (00100.HK) down more than 5%, Zhipu AI (02513.HK) down about 3%, and Kingsoft Cloud (03896.HK) and ChinaSoft International (00354.HK) also down."
+    },
+    {
+      "id": "5033297",
+      "time": "2026-08-10 13:32:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾報告9例乙腦死亡病例】據尼泊爾方面10日訊息稱，在不到一個月的時間裡，尼泊爾至少有9人死於流行性乙型腦炎（乙腦），乙腦感染病例達到37例。據悉，尼泊爾9例乙腦死亡病例中，6例在戈希省，2例在馬德西省，1例在藍毗尼省。該國衛生官員警告說，隨著蚊媒疾病高峰期臨近，死亡人數可能進一步上升。去年，尼泊爾有182人感染乙腦，其中41人死亡，疫情蔓延至45個縣，病死率約為23%。（央視新聞）"
+    },
+    {
+      "id": "5033296",
+      "time": "2026-08-10 13:31:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電累計銷售額按年變動+37％。"
+    },
+    {
+      "id": "5033295",
+      "time": "2026-08-10 13:31:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣聯航空等在寧波成立精密製造公司】企查查APP顯示，近日，廣聯啟航（寧波）精密製造有限公司成立，經營範圍包含半導體器件專用裝置製造；機械零件、零部件加工；金屬結構製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由廣聯航空全資子公司廣聯航空裝備（寧波）有限公司等共同持股。"
+    },
+    {
+      "id": "te:markets:574007",
+      "time": "2026-08-10 13:31:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Rises on Export Strength, Firmer Edible Oils — Malaysian palm oil futures were notably higher, trading near MYR 4,720 per tonne and snapping recent losses, as firmer edible oil prices in Dalian and Chicago supported sentiment. Strong export demand added momentum, with a monthly report from the Malaysian Palm Oil Board showing July shipments up 14.5% from June to 1.39 million tonnes. Demand prospects in top buyer India also improved, as edible oil imports hit a 10-month high in July, with refiners stocking up on palm oil and soyoil ahead of the festive season. However, a stronger ringgit capped the gain. Meantime, Malaysia’s palm oil stocks rose 3.32% mom to 2.63 million tonnes in July, while production grew 9.41% to 1.79 million tonnes, highlighting ample near-term supply. In China, a key palm oil consumer, both CPI and PPI inflation eased in July, underscoring persistently weak domestic demand. Traders now await export estimates for August 1-10 from cargo surveyors after July shipments rose 12.1%-19.5% from June."
+    },
+    {
+      "id": "5033294",
+      "time": "2026-08-10 13:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌2%，現報5664.00元。"
+    },
+    {
+      "id": "mkt:019fea27-1847-7aab-8fd1-fb370f81c079",
+      "time": "2026-08-10 13:30:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.O"
+      ],
+      "text": "TSMC (NYSE:TSM) reported July revenue of NT$467.58 billion."
+    },
+    {
+      "id": "5033293",
+      "time": "2026-08-10 13:30:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電（TSMC）年初至今（YTD）的累計銷售額為2.87萬億新臺幣。"
+    },
     {
       "id": "5033292",
       "time": "2026-08-10 13:30:34",
