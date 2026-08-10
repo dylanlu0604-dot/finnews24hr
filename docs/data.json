@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-11 02:42:40",
-  "count": 15756,
+  "updated": "2026-08-11 02:46:26",
+  "count": 15759,
   "items": [
+    {
+      "id": "5034513",
+      "time": "2026-08-11 02:45:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：不想預先判定加息次數以及最終利率點位。"
+    },
+    {
+      "id": "mkt:019fecfd-f6ce-7aab-8fdf-4da334dd5f62",
+      "time": "2026-08-11 02:44:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to a statement, a fire has broken out in diesel tanks at Libya's Zawiya oil depot; cause and extent unknown."
+    },
+    {
+      "id": "5034512",
+      "time": "2026-08-11 02:44:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：可能需要進行 “一定次數” 的加息。"
+    },
+    {
+      "id": "5034511",
+      "time": "2026-08-11 02:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國2026財年前10個月聯邦赤字為1.8萬億美元】據美國國會預算辦公室估算，2026財年前10個月，美國聯邦預算赤字總額為1.8萬億美元。這一數字比上一財年同期的赤字高出1690億美元，收入增加了1390億美元（增幅為3%），支出增加了3080億美元（增幅為5%）。"
+    },
+    {
+      "id": "5034510",
+      "time": "2026-08-11 02:43:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗總統與最高領袖會談七八個小時】伊朗總統佩澤希齊揚8月10日表示，他近日與伊朗最高領袖穆傑塔巴·哈梅內伊舉行會談，“會談持續了七八個小時，穆傑塔巴哈健康狀況很好”。據伊朗國家媒體8月9日報道，穆傑塔巴與佩澤希齊揚舉行了會談，深入探討了伊朗當前面臨的各項挑戰，包括民生需求、伊朗所遭遇的持續不斷的侵略戰爭、未來前景、軍事發展以及與外國夥伴的經濟合作。（CCTV國際時訊）"
+    },
     {
       "id": "5034509",
       "time": "2026-08-11 02:41:55",
@@ -143421,22 +143464,6 @@
         "國際"
       ],
       "text": "伊朗最高領袖軍事顧問：憑藉伊朗強有力的導彈與無人機反擊，特朗普速勝的幻想在17天內化為泡影。我們向美國證明，伊朗同時掌握導彈打擊能力與防禦能力。"
-    },
-    {
-      "id": "mkt:019fc8f0-7aad-7aab-8f5e-45976660c430",
-      "time": "2026-08-04 02:43:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy signs decree dismissing multiple Ukrainian ambassadors】On Aug 3, Ukrainian President Zelenskiy signed a presidential decree, published on the presidential website, dismissing Ukraine's ambassador to the United States, Stefanishyna. The decree also removed Omelichenko as ambassador to France and concurrent permanent representative to UNESCO, and appointed Lialina‑Boiko as Ukraine's permanent representative to UNESCO. Additional dismissals include Ukraine's ambassadors to Tunisia (also accredited to Libya), Austria, Tajikistan, Kyrgyzstan and the ambassador to Singapore (also accredited to Brunei)."
-    },
-    {
-      "id": "5023175",
-      "time": "2026-08-04 02:43:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基簽署總統令 解除多名烏克蘭駐外大使職務】當地時間8月3日，烏克蘭總統澤連斯基簽署總統令，解除了烏克蘭駐美國大使斯特凡尼希娜的職務，相關命令已在烏總統府官網上公佈。"
     }
   ]
 }
