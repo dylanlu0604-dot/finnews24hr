@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-11 01:33:13",
-  "count": 15794,
+  "updated": "2026-08-11 01:37:02",
+  "count": 15792,
   "items": [
+    {
+      "id": "5034476",
+      "time": "2026-08-11 01:35:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非多地遭遇持續強降雪 交通嚴重受阻】南非多地10日持續遭遇強降雪、凍雨和大風天氣，誇祖魯-納塔爾省山區積雪嚴重，部分道路被迫關閉，大量車輛滯留，交通運輸受到影響。南非道路交通管理部門當天警告，未來幾天部分高海拔地區仍將面臨低溫、降雪天氣，民眾非必要請勿前往受影響地區。有關部門已啟動應急響應，開展道路除冰和救援工作。 (央視新聞)"
+    },
+    {
+      "id": "mkt:019fecbe-6f52-7aab-8fde-6a49ec0bef0a",
+      "time": "2026-08-11 01:35:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose 6.0% intraday to $80.93/bbl."
+    },
+    {
+      "id": "5034475",
+      "time": "2026-08-11 01:34:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊銀行維持其對布倫特原油的價格預測不變：2026年為每桶96美元，2027年為每桶85美元。"
+    },
     {
       "id": "mkt:019fecb9-2238-7aab-8fde-6348ab3fb587",
       "time": "2026-08-11 01:29:43",
@@ -143726,53 +143755,6 @@
         "國際"
       ],
       "text": "印度政府擬透過出售印度人壽（LIC）股權籌資至多33億美元。"
-    },
-    {
-      "id": "mkt:019fc8b3-2814-7aab-8f5d-3050775b5bb1",
-      "time": "2026-08-04 01:36:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Israel's Channel 12 reports a senior Israeli official said Israel will not withdraw forces until Hamas is disarmed under any circumstances; that condition was not part of the original Trump framework and will not change."
-    },
-    {
-      "id": "5023107",
-      "time": "2026-08-04 01:34:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙和平委員會：我們重申，以色列撤至黃線以外的行動，只有在加沙實現全面解除武裝之後方可實施。"
-    },
-    {
-      "id": "5023106",
-      "time": "2026-08-04 01:34:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "加沙和平委員會：我們今日與內塔尼亞胡及其團隊會面，旨在推動加沙地區解除武裝，併為過渡至文官政府做準備。"
-    },
-    {
-      "id": "5023105",
-      "time": "2026-08-04 01:33:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普聲稱一項“協議即將達成”之後，伊朗外交部發言人週一表示，德黑蘭暫無與華盛頓舉行直接談判的計劃。"
-    },
-    {
-      "id": "mkt:019fc8b0-4ed1-7aab-8f5d-2e273d4b4b24",
-      "time": "2026-08-04 01:33:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $2.127 billion from four counterparties in its fixed-rate reverse repurchase operation."
     }
   ]
 }
