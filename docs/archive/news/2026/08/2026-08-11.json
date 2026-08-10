@@ -1,7 +1,27 @@
 {
   "date": "2026-08-11",
-  "count": 79,
+  "count": 81,
   "items": [
+    {
+      "id": "5034473",
+      "time": "2026-08-11 01:21:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【比特幣資金流入創四個月新高，駭客事件動搖持有者信心】美國上市的比特幣交易所交易基金（ETFs）錄得自4月以來最強勁的單週資金流入，上週吸引超過8.5億美元資金。此次資金流入激增，正值加拿大公司Coinkite製造的Coldcard錢包被曝存在安全漏洞、約1.3億美元比特幣被盜事件被披露之後。這起駭客事件促使部分分析師認為，投資者可能正轉向華爾街受監管的加密產品（如現貨比特幣ETF），將其視為更具吸引力的選擇。"
+    },
+    {
+      "id": "mkt:019fecb1-64b4-7aab-8fde-583ace2ec202",
+      "time": "2026-08-11 01:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work."
+    },
     {
       "id": "5034472",
       "time": "2026-08-11 01:18:40",

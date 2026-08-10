@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-11 01:21:38",
-  "count": 15805,
+  "updated": "2026-08-11 01:25:33",
+  "count": 15801,
   "items": [
+    {
+      "id": "5034473",
+      "time": "2026-08-11 01:21:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【比特幣資金流入創四個月新高，駭客事件動搖持有者信心】美國上市的比特幣交易所交易基金（ETFs）錄得自4月以來最強勁的單週資金流入，上週吸引超過8.5億美元資金。此次資金流入激增，正值加拿大公司Coinkite製造的Coldcard錢包被曝存在安全漏洞、約1.3億美元比特幣被盜事件被披露之後。這起駭客事件促使部分分析師認為，投資者可能正轉向華爾街受監管的加密產品（如現貨比特幣ETF），將其視為更具吸引力的選擇。"
+    },
+    {
+      "id": "mkt:019fecb1-64b4-7aab-8fde-583ace2ec202",
+      "time": "2026-08-11 01:21:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI is expanding its Daybreak cybersecurity program and launching a new model, GPT-5.6-Cyber, for advanced, authorized cybersecurity work."
+    },
     {
       "id": "5034472",
       "time": "2026-08-11 01:18:40",
@@ -143819,65 +143839,6 @@
         "其他"
       ],
       "text": "波音準備交付首架737-7機型。"
-    },
-    {
-      "id": "mkt:019fc8a7-f629-7aab-8f5d-019235ad351a",
-      "time": "2026-08-04 01:24:38",
-      "tags": [
-        "MKT News",
-        "UBS.N"
-      ],
-      "text": "The US Commodity Futures Trading Commission (CFTC) ordered UBS to pay an $8 million fine for supervisory failures related to its anti‑money‑laundering trade‑monitoring system."
-    },
-    {
-      "id": "mkt:019fc8a7-c818-7aab-8f5c-f85537d93744",
-      "time": "2026-08-04 01:24:26",
-      "tags": [
-        "MKT News",
-        "UBS.N"
-      ],
-      "text": "SEC says UBS will pay a $20 million civil penalty for anti-money-laundering violations."
-    },
-    {
-      "id": "mkt:019fc8a7-8817-7aab-8f5c-f45acc06b1f9",
-      "time": "2026-08-04 01:24:10",
-      "tags": [
-        "MKT News",
-        "UBS.SW",
-        "Impact bearish"
-      ],
-      "text": "US Treasury: FinCEN has imposed a $125 mln civil penalty on UBS, alleging the bank 'willfully violated' the Bank Secrecy Act."
-    },
-    {
-      "id": "mkt:019fc8a7-0c50-7aab-8f5c-ea80f8813b05",
-      "time": "2026-08-04 01:23:38",
-      "tags": [
-        "MKT News",
-        "UBS.O",
-        "Impact bearish"
-      ],
-      "text": "FINRA fined UBS Financial Services $20 million for anti-money laundering (AML) violations, saying the firm failed to reasonably monitor more than 60,000 transactions totaling about $10 billion."
-    },
-    {
-      "id": "5023099",
-      "time": "2026-08-04 01:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列高階官員：在哈馬斯解除武裝之前，我們絕不會撤軍。特朗普最初框架協議中並未包含此項安排，此事絕不可能發生。"
-    },
-    {
-      "id": "mkt:019fc8a5-4d62-7aab-8f5c-e7aefaae89b4",
-      "time": "2026-08-04 01:21:44",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Dollar index (DXY) rose above 100, up 0.26% intraday."
     }
   ]
 }
