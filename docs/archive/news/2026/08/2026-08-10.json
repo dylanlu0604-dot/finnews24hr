@@ -1,7 +1,65 @@
 {
   "date": "2026-08-10",
-  "count": 2439,
+  "count": 2446,
   "items": [
+    {
+      "id": "mkt:019fec2c-39f4-7aab-8fdc-5ececcb0adda",
+      "time": "2026-08-10 22:55:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Iran is set to announce appointments of several senior military commanders signed by Iran's Supreme Leader."
+    },
+    {
+      "id": "5034385",
+      "time": "2026-08-10 22:55:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數迅速回吐漲幅，納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:019fec2b-8ca7-7aab-8fdc-562de1715cbc",
+      "time": "2026-08-10 22:55:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas, citing Israel's Channel 12, reported US personnel assigned to aerial refuelling number about 20, close to levels during the ceasefire."
+    },
+    {
+      "id": "5034384",
+      "time": "2026-08-10 22:54:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國在中東的加油人員規模接近停火時期水平，約為 20 人。"
+    },
+    {
+      "id": "5034383",
+      "time": "2026-08-10 22:53:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【SOFR期權市場出現對2026年12月和2027年3月美聯儲降息押注的需求】週一（美國非農就業報告發布“次日”），SOFR期權交易流中，至少出現了兩筆引人注目的押注，押注美聯儲降息預期正被計入2026年12月和2027年3月到期的期貨合約中。在2026年12月到期的期權中，SFRZ6 96.50⁄97.00看漲期權價差以1個點的價格買入了2萬手；較低的行權價對應3.50%的利率；今年以來大多數交易日有效聯邦基金利率為3.63%，而12月到期期貨合約當前價格對應的利率為4.005%。在2027年3月到期的期權中，SFRH7 98.50看漲期權以1.25個點的價格買入了7000手，對應1.5%的利率，而當前期貨利率為4.10%。"
+    },
+    {
+      "id": "5034382",
+      "time": "2026-08-10 22:51:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哥倫比亞強震已致超20人死亡】哥倫比亞發生強烈地震，該國太平洋沿岸多省震感明顯。地震造成多地人員傷亡和重大財產損失。據各地報告，裡薩拉爾達省省會佩雷拉市多棟建築物嚴重受損，市長證實已有18人死亡；喬科省政府通報稱省會基布多已有人員受傷；考卡山谷省卡利市市長亞歷杭德羅·埃德爾表示，該市至少20棟建築倒塌，有人員被困，已請求救援隊協助。此外，地震還造成馬尼薩萊斯市和薩爾薩爾市4人死亡，多人受傷。哥倫比亞地質部門將此次地震震級修正為7.4級，震源深度96公里。美國海嘯預警中心稱，本次地震無引發海嘯風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fec28-9271-7aab-8fdc-48630db89575",
+      "time": "2026-08-10 22:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadath, citing Israel's Channel 12, reported the US is continuing to reduce the number of refueling vehicles at Israel's Ben Gurion Airport."
+    },
     {
       "id": "5034381",
       "time": "2026-08-10 22:50:18",

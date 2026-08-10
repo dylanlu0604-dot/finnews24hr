@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-10 22:52:31",
-  "count": 15875,
+  "updated": "2026-08-10 22:56:27",
+  "count": 15873,
   "items": [
+    {
+      "id": "mkt:019fec2c-39f4-7aab-8fdc-5ececcb0adda",
+      "time": "2026-08-10 22:55:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Iran is set to announce appointments of several senior military commanders signed by Iran's Supreme Leader."
+    },
+    {
+      "id": "5034385",
+      "time": "2026-08-10 22:55:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數迅速回吐漲幅，納斯達克100指數轉跌。"
+    },
+    {
+      "id": "mkt:019fec2b-8ca7-7aab-8fdc-562de1715cbc",
+      "time": "2026-08-10 22:55:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadas, citing Israel's Channel 12, reported US personnel assigned to aerial refuelling number about 20, close to levels during the ceasefire."
+    },
+    {
+      "id": "5034384",
+      "time": "2026-08-10 22:54:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國在中東的加油人員規模接近停火時期水平，約為 20 人。"
+    },
+    {
+      "id": "5034383",
+      "time": "2026-08-10 22:53:56",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【SOFR期權市場出現對2026年12月和2027年3月美聯儲降息押注的需求】週一（美國非農就業報告發布“次日”），SOFR期權交易流中，至少出現了兩筆引人注目的押注，押注美聯儲降息預期正被計入2026年12月和2027年3月到期的期貨合約中。在2026年12月到期的期權中，SFRZ6 96.50⁄97.00看漲期權價差以1個點的價格買入了2萬手；較低的行權價對應3.50%的利率；今年以來大多數交易日有效聯邦基金利率為3.63%，而12月到期期貨合約當前價格對應的利率為4.005%。在2027年3月到期的期權中，SFRH7 98.50看漲期權以1.25個點的價格買入了7000手，對應1.5%的利率，而當前期貨利率為4.10%。"
+    },
+    {
+      "id": "5034382",
+      "time": "2026-08-10 22:51:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【哥倫比亞強震已致超20人死亡】哥倫比亞發生強烈地震，該國太平洋沿岸多省震感明顯。地震造成多地人員傷亡和重大財產損失。據各地報告，裡薩拉爾達省省會佩雷拉市多棟建築物嚴重受損，市長證實已有18人死亡；喬科省政府通報稱省會基布多已有人員受傷；考卡山谷省卡利市市長亞歷杭德羅·埃德爾表示，該市至少20棟建築倒塌，有人員被困，已請求救援隊協助。此外，地震還造成馬尼薩萊斯市和薩爾薩爾市4人死亡，多人受傷。哥倫比亞地質部門將此次地震震級修正為7.4級，震源深度96公里。美國海嘯預警中心稱，本次地震無引發海嘯風險。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fec28-9271-7aab-8fdc-48630db89575",
+      "time": "2026-08-10 22:51:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Hadath, citing Israel's Channel 12, reported the US is continuing to reduce the number of refueling vehicles at Israel's Ben Gurion Airport."
+    },
     {
       "id": "5034381",
       "time": "2026-08-10 22:50:18",
@@ -144410,84 +144468,6 @@
         "MKT News"
       ],
       "text": "【Maritime analytics firm: Six Saudi tankers reroute around Cape of Good Hope to avoid Red Sea route】UK-based Windward ship-tracking data on the 3rd show six Saudi tankers are sailing around the Cape of Good Hope, avoiding the Bab el-Mandeb and Red Sea to mitigate security risks from Yemen’s Houthi militants to Saudi-linked vessels. Windward said the Cape route adds roughly 6–7 days for some US-bound tankers versus direct transit through the Suez Canal and Bab el-Mandeb. All six vessels chose to reroute on ballast legs, which Windward says may reflect a Saudi operational policy to keep its ships out of the area rather than a temporary, cargo-specific measure."
-    },
-    {
-      "id": "5022957",
-      "time": "2026-08-03 22:56:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長與巴基斯坦副總理兼外長通電話 就地區局勢交換意見】據伊朗外交部訊息，伊朗外交部長阿拉格齊3日與巴基斯坦副總理兼外交部長達爾舉行電話會談，雙方就當前地區局勢及外交進展交換意見。兩國外長在通話中回顧了近期地區形勢的最新動態以及當前外交程序的發展情況，強調雙方將繼續保持密切溝通與協調，共同致力於推動實現地區持久和平與穩定。此次通話是近期伊巴兩國外互動動的一部分。據伊朗方面訊息，阿拉格齊在8月1日至2日期間還與沙特外交大臣費薩爾、土耳其外長費丹以及巴基斯坦陸軍參謀長穆尼爾等進行了密集通話，旨在透過雙邊協調與多邊共識，構建地區安全緩衝帶，防止局勢進一步升級。巴基斯坦方面此前也表示，對話和外交仍是解決爭端、實現地區持久和平與穩定的唯一途徑，願繼續為促進和維護地區和平穩定發揮建設性作用。"
-    },
-    {
-      "id": "5022956",
-      "time": "2026-08-03 22:55:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "百勝餐飲集團股價轉跌；此前股價曾上漲0.4%。"
-    },
-    {
-      "id": "te:markets:572244",
-      "time": "2026-08-03 22:54:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Lithium Falls to 6-Month Low — Lithium carbonate prices fell to CNY 140,000 in August, their lowest in nearly six months, as downside consumption risks combined with higher global supply. China said it would end tax exemptions for lithium-ion batteries to rein in a race to the bottom between manufacturers. Industry reports in China indicated that competition between EV battery producers to retain market share drove companies to increase their production schedules, leading to higher lithium sourcing before the announcement. In turn, CATL's Jianxiawo mine, among the largest in the world, cleared security permits to restore activity following its prolonged suspension. On top of that, higher lithium prices since the start of the year drove Australian miners to restore operations. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere."
-    },
-    {
-      "id": "5022955",
-      "time": "2026-08-03 22:54:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【百億級私募倉位創年內新高】私募排排網最新資料顯示，截至7月24日，股票私募倉位指數升至84.12%，連續4周倉位上漲。其中，百億級私募成為近期的加倉主力。截至7月24日，百億級私募倉位創下今年以來新高。"
-    },
-    {
-      "id": "5022954",
-      "time": "2026-08-03 22:54:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心稱已獲悉兩例與環孢子蟲病相關死亡病例。"
-    },
-    {
-      "id": "5022953",
-      "time": "2026-08-03 22:53:42",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行：將8月4日盧布兌美元官方匯率設定為1美元兌80.0687盧布（此前匯率為1美元兌79.4637盧布）。"
-    },
-    {
-      "id": "5022952",
-      "time": "2026-08-03 22:53:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "密歇根州衛生部：截至8月3日，共報告11234例環孢子蟲病病例。"
-    },
-    {
-      "id": "5022951",
-      "time": "2026-08-03 22:53:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部今日早些時候釋出照片：一名陸軍傘兵（大機率隸屬於駐地義大利維琴察的第 173 空降機動旅戰鬥隊），正在中東一處未公開地點參與實彈演習。"
-    },
-    {
-      "id": "5022950",
-      "time": "2026-08-03 22:53:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "睿和資料科技：收到挖礦獎勵32.73枚比特幣，價值271萬美元。"
     }
   ]
 }
