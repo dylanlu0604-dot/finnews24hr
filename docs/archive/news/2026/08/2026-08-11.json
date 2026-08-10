@@ -1,7 +1,23 @@
 {
   "date": "2026-08-11",
-  "count": 70,
+  "count": 72,
   "items": [
+    {
+      "id": "mkt:019feca8-147b-7aab-8fde-34513c8551a2",
+      "time": "2026-08-11 01:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official said President TRUMP extended a waiver to the Jones Act but imposed additional restrictions."
+    },
+    {
+      "id": "5034469",
+      "time": "2026-08-11 01:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普延長《瓊斯法案》豁免並附加部分限制條件。"
+    },
     {
       "id": "5034468",
       "time": "2026-08-11 01:04:59",

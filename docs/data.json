@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-11 01:09:56",
-  "count": 15808,
+  "updated": "2026-08-11 01:13:47",
+  "count": 15804,
   "items": [
+    {
+      "id": "mkt:019feca8-147b-7aab-8fde-34513c8551a2",
+      "time": "2026-08-11 01:11:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House official said President TRUMP extended a waiver to the Jones Act but imposed additional restrictions."
+    },
+    {
+      "id": "5034469",
+      "time": "2026-08-11 01:10:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮官員：特朗普延長《瓊斯法案》豁免並附加部分限制條件。"
+    },
     {
       "id": "5034468",
       "time": "2026-08-11 01:04:59",
@@ -143845,54 +143861,6 @@
         "其他"
       ],
       "text": "西捷航空空乘公會主席表示，協議必須在30天內獲得批准。"
-    },
-    {
-      "id": "5023092",
-      "time": "2026-08-04 01:13:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "西捷航空空乘人員工會主席表示，談判委員會不會在沒有高度信心確保成員批准的情況下，將這份提議提交給成員表決。"
-    },
-    {
-      "id": "mkt:019fc89c-d470-7aab-8f5c-d1e4ec06919b",
-      "time": "2026-08-04 01:12:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's prime minister said today the government approved an initial emergency support decision for farmers, temporarily adjusting minimum export prices for certain agricultural products to prevent disruptions to grain and oilseed exports during a stabilization period. He ordered an urgent plan to expand domestic agricultural processing to increase in‑country production and processing and said additional measures to stabilize the agricultural sector are being prepared."
-    },
-    {
-      "id": "5023091",
-      "time": "2026-08-04 01:11:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "西捷航空空乘工會表示，將在向會員提交協議後，才會公開披露協議細節。"
-    },
-    {
-      "id": "5023090",
-      "time": "2026-08-04 01:11:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉石油出口量創五個月低點】委內瑞拉7月原油出口量下降25%，至每日85.6萬桶，為五個月以來最低水平。出口下滑主要源於印度需求萎縮。隨著伊朗衝突暫歇、中東原油供應恢復，印度自委內瑞拉原油進口量減半。美國與印度依舊是委內瑞拉最大買家。"
-    },
-    {
-      "id": "5023089",
-      "time": "2026-08-04 01:11:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國政府高階官員透露，特朗普將 “竭盡所能” 幫助國際足聯主席詹尼・因凡蒂諾應對日益高漲的逼宮辭職呼聲。"
-    },
-    {
-      "id": "mkt:019fc89b-1057-7aab-8f5c-ca40790ef02e",
-      "time": "2026-08-04 01:10:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli media report the Prime Minister's Office is holding a security meeting attended by Defense Minister KATZ and IDF Chief of Staff Zamir."
     }
   ]
 }
