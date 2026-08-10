@@ -1,7 +1,165 @@
 {
   "date": "2026-08-10",
-  "count": 2044,
+  "count": 2063,
   "items": [
+    {
+      "id": "5034114",
+      "time": "2026-08-10 20:04:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滬浙皖蘇已啟動颱風“白海豚”損失保險理賠】據浙江、安徽、江蘇、上海三省一市金融監管部門訊息，各地保險業在臺風“白海豚”造成的災害發生後，已第一時間啟動了保險理賠。（央視新聞）"
+    },
+    {
+      "id": "5034113",
+      "time": "2026-08-10 20:04:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "ARCHER航空擬收購波音旗下威斯克航空、SkyGrid 以及因西圖公司。"
+    },
+    {
+      "id": "mkt:019feb8e-dfc9-7aab-8fd9-64f0a3a91e21",
+      "time": "2026-08-10 20:03:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Korean investors lead net buying of Zhongji Xuchuang H-shares】Korea Securities Depository (KSD) unit SEIBro shows Korean investors settled USD 45.07m in buys and USD 1.67m in sells of Zhongji Xuchuang H-shares from July 8–Aug 7, for a net buy of USD 43.39m (about HKD 340m), the largest net inflow into a Hong Kong stock by Korean investors over the period. Zhongji Xuchuang H-shares began trading on July 30; in seven trading days its net buy was almost four times that of the second-ranked stock."
+    },
+    {
+      "id": "5034112",
+      "time": "2026-08-10 20:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Finster AI 獲得瑞銀投資，用於投行業務人工智慧專案。"
+    },
+    {
+      "id": "5034111",
+      "time": "2026-08-10 20:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原力靈機完成股份制改造 估值已破200億】8月10日，具身智慧大模型企業原力靈機正式完成股份制改造，更名為\"原力靈機（重慶）智慧科技股份有限公司\"，標誌著其上市籌備進入實質性階段。記者獲悉，公司最新估值已突破200億元，其投資方涵蓋阿里巴巴、啟明創投、蔚來資本、智譜等頭部機構和頭部大模型企業。（科創板日報）"
+    },
+    {
+      "id": "5034110",
+      "time": "2026-08-10 20:03:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家人工智慧應用中試基地（農業領域農作物種植方向）啟動】據“九天人工智慧”公眾號訊息，8月9日，黑龍江省“人工智慧+”賦能行業高質量發展峰會暨國家人工智慧應用中試基地（農業領域農作物種植方向）啟動大會於哈爾濱順利舉辦。種植中試基地，是貫徹落實國家糧食安全戰略和“人工智慧+”行動的重要抓手，是國家級人工智慧應用創新載體。基地將聚焦行業共性技術難題，打造可複製推廣的典型場景，著力築成國內一流智慧農業創新高地。"
+    },
+    {
+      "id": "mkt:019feb8e-762e-7aab-8fd9-59a8712a14b7",
+      "time": "2026-08-10 20:03:29",
+      "tags": [
+        "MKT News",
+        "ACHR.O",
+        "Impact bullish"
+      ],
+      "text": "Boeing plans to acquire a stake in Archer Aviation; Archer shares jumped about 15% in premarket trading."
+    },
+    {
+      "id": "5034109",
+      "time": "2026-08-10 20:03:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "STRATEGY ：根據提交給美國證券交易委員會(SEC)的檔案，在2026年8月3日至9日期間，以均價64,262美元出售了1,690枚比特幣，總價值1.086億美元。"
+    },
+    {
+      "id": "mkt:019feb8e-17ca-7aab-8fd9-52c4113afd11",
+      "time": "2026-08-10 20:03:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ANTHROPIC has reached a data-center platform agreement with Macquarie and GIC."
+    },
+    {
+      "id": "5034108",
+      "time": "2026-08-10 20:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：將保留對Wisk核心自主飛行技術的使用權，用於當前及下一代商用與防務飛機。"
+    },
+    {
+      "id": "5034107",
+      "time": "2026-08-10 20:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：交易預計將於2026年底前完成交割。"
+    },
+    {
+      "id": "5034106",
+      "time": "2026-08-10 20:02:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【愛麗家居：股價異動累積風險 8月11日起停牌核查】愛麗家居公告稱，公司股票自2026年7月21日至8月10日，累計11個交易日漲停，股價漲185.56%，已累積巨大交易風險，嚴重偏離基本面。公司股票將於8月11日開市起停牌，自披露核查公告後復牌。公司提醒，目前基本面未變，但股價已嚴重脫離基本面，剩餘外部流通盤小、近期交易放量，或存在非理性炒作。此外，公司擬現金收購歐康諾不低於77.08%股權，控股股東擬轉讓部分股份，相關事項均存不確定性。"
+    },
+    {
+      "id": "mkt:019feb8d-20af-7aab-8fd9-4e77f741bb0c",
+      "time": "2026-08-10 20:02:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Aili Home: trading suspended from market open August 11 pending investigation after abnormal stock trading volatility."
+    },
+    {
+      "id": "5034105",
+      "time": "2026-08-10 20:01:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數下跌0.19%，至3083點。"
+    },
+    {
+      "id": "mkt:019feb8c-e4f6-7aab-8fd9-465681ab1dfa",
+      "time": "2026-08-10 20:01:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 0.19% to 3,083."
+    },
+    {
+      "id": "5034104",
+      "time": "2026-08-10 20:01:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音將保留獲取威斯克核心自動駕駛技術的許可權。"
+    },
+    {
+      "id": "5034103",
+      "time": "2026-08-10 20:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥格理：各方將物色、開發新場地。"
+    },
+    {
+      "id": "mkt:019feb8c-8fa2-7aab-8fd9-3e69b85c473d",
+      "time": "2026-08-10 20:01:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【One second of computing power equals 200 years of human computation】The National Development and Reform Commission said China’s compute base has been strengthened this year as a domestically produced 100,000‑GPU AI supercluster at the National Supercomputing Internet’s Zhengzhou core node entered service. Staff said the cluster’s peak per‑second compute capacity is equivalent to 200 years of continuous human computation and it is now supporting more than 300 computing tasks across 26 fields, including new materials, innovative drugs and artificial intelligence."
+    },
     {
       "id": "mkt:019feb8c-60bb-7aab-8fd9-34ff5f1a3ee5",
       "time": "2026-08-10 20:01:13",
@@ -9,6 +167,14 @@
         "MKT News"
       ],
       "text": "ASML (ASML.O) disclosed transactions under its current share buyback program."
+    },
+    {
+      "id": "5034102",
+      "time": "2026-08-10 20:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音將對 ARCHER  進行投資並開展合作。"
     },
     {
       "id": "mkt:019feb8c-49e1-7aab-8fd9-2eb1827cb77f",
