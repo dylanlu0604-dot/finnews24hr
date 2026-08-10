@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-10 21:04:05",
-  "count": 15907,
+  "updated": "2026-08-10 21:08:39",
+  "count": 15908,
   "items": [
+    {
+      "id": "5034222",
+      "time": "2026-08-10 21:07:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "Coinbase全球公司：已知部分使用者在STORY網路上發生轉賬收發延遲的情況。"
+    },
+    {
+      "id": "5034221",
+      "time": "2026-08-10 21:07:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "麥德林市長古鐵雷斯稱暫無人員受傷報告。"
+    },
+    {
+      "id": "5034220",
+      "time": "2026-08-10 21:06:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Socket Mobile與3Eye科技達成合作，面向基於蘋果裝置的一線運營拓展工業移動解決方案。"
+    },
+    {
+      "id": "5034219",
+      "time": "2026-08-10 21:06:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【知情人士確認億緯鋰能兩類電池將漲價 業內稱不排除影響後續電車定價】受消費稅新政等影響，有電池廠商醞釀漲價。近日，記者從億緯鋰能多方確認，該公司將進行價格調整，自9月1日起部分國內銷售電池產品，將在原不含稅供貨價格基礎上增加2%的消費稅成本。據知情人士告訴記者，此次漲價主要涉及鋰原電池、鋰離子蓄電池產品。另有億緯鋰能相關內部人士對記者稱，消費電池、動力電池、儲能電池三大業務板塊下游客戶均會受到不同程度影響。不過，對於率先漲價會否影響後續訂單或市場份額，其予以否認，並回應稱，公司目前訂單超過現有產能情況，相關價格調整整體不算非常敏感，預計對整體客戶影響較小。真鋰研究創始人、總裁墨柯在接受記者採訪時表示，消費稅由電池廠代繳，只要出庫開票，都需要繳納消費稅。從長遠來看，消費稅新政將重塑產業鏈議價格局，訂單飽滿、話語權強的頭部企業或可順暢消化或傳導成本，中小電池廠商利潤進一步被壓縮，行業加速優勝劣汰，產業發展從單純規模擴張轉向提質增效。 (藍鯨新聞)"
+    },
+    {
+      "id": "5034218",
+      "time": "2026-08-10 21:05:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Meta在盤前交易中股價上漲1.9%，此前該公司推出了全新人工智慧模型。"
+    },
+    {
+      "id": "mkt:019febc6-c503-7aab-8fda-41d1800095c7",
+      "time": "2026-08-10 21:05:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) up 0.93% in premarket trading."
+    },
+    {
+      "id": "5034217",
+      "time": "2026-08-10 21:04:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "北美建築工會、貝萊德與人工智慧基礎設施夥伴關係啟動戰略協作，助力美國基礎設施建設勞動力發展。"
+    },
+    {
+      "id": "mkt:019febc6-20f9-7aab-8fda-3c447998ed3b",
+      "time": "2026-08-10 21:04:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "TSM.O"
+      ],
+      "text": "The Information says Microsoft has been negotiating with TSMC to secure production capacity for more than 300,000 MAIA chips, with delivery scheduled in 2027."
+    },
+    {
+      "id": "5034216",
+      "time": "2026-08-10 21:03:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟股價快速飆升 0.7%，抹平此前跌幅。"
+    },
+    {
+      "id": "mkt:019febc5-51bd-7aab-8fda-330dde693a0c",
+      "time": "2026-08-10 21:03:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Microsoft will sharply ramp up production of artificial intelligence chips."
+    },
+    {
+      "id": "5034215",
+      "time": "2026-08-10 21:03:06",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【微軟計劃於9月釋出其下一代MAIA 300人工智慧晶片】據兩位直接瞭解該計劃的人士透露，Microsoft計劃明年大幅增加其自設計的下一代AI晶片產量，以說服像Anthropic這樣的大型雲客戶使用這些晶片。儘管目前Microsoft設計的晶片——被稱為Maia 200——的採用速度緩慢，這一成績依然存在。一位知情人士表示，Microsoft計劃今年秋季公開發布其新款Maia 300晶片，可能最快下個月。"
+    },
+    {
+      "id": "5034214",
+      "time": "2026-08-10 21:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 微軟將於明年提升下一代人工智慧晶片產量。"
+    },
+    {
+      "id": "mkt:019febc4-9e4e-7aab-8fda-2950b0d3a2ed",
+      "time": "2026-08-10 21:02:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "According to The Information, Microsoft believes the MAIA chip can run both its own and OpenAI's models at lower cost."
+    },
+    {
+      "id": "5034213",
+      "time": "2026-08-10 21:02:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月10日20時34分在哥倫比亞（北緯4.85度，西經76.15度）發生7.5級地震，震源深度80千米。"
+    },
     {
       "id": "mkt:019febc4-6c36-7aab-8fda-2636de8065b7",
       "time": "2026-08-10 21:02:26",
@@ -9,6 +149,14 @@
         "MKT News"
       ],
       "text": "The Information reports Microsoft plans to expand internal deployment of its MAIA model and intensify efforts to win large enterprise customers."
+    },
+    {
+      "id": "5034212",
+      "time": "2026-08-10 21:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟認為Maia晶片能以更低成本執行內部及OpenAI模型。"
     },
     {
       "id": "5034211",
@@ -144709,129 +144857,6 @@
         "MKT News"
       ],
       "text": "State Dept official: U.S. Secretary of State Rubio has no plans to speak with FIFA president Infantino."
-    },
-    {
-      "id": "5022768",
-      "time": "2026-08-03 21:08:25",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "美國國務院官員：美國國務卿魯比奧沒有計劃與國際足聯主席因凡蒂諾進行對話。"
-    },
-    {
-      "id": "5022767",
-      "time": "2026-08-03 21:07:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【凱斯紐美股盤前漲超10%】凱斯紐美股盤前漲超10%，現報11.3美元。"
-    },
-    {
-      "id": "5022766",
-      "time": "2026-08-03 21:07:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金戈新材：擬投資約5億元建設功能性粉體新材料智慧製造基地專案】8月3日，金戈新材公告，公司擬在廣東省佛山市三水區白坭鎮投資建設“功能性粉體新材料智慧製造基地專案”，本專案預計總投資約5億元，擬透過購置約150畝工業用地，新建標準化生產廠房及配套設施，實施產能升級。"
-    },
-    {
-      "id": "mkt:019fc7bc-50a2-7aab-8f58-3065fd6f71b4",
-      "time": "2026-08-03 21:07:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Sources said Kazakhstan's July crude and condensate production fell 14% month-on-month after exports via the Caspian Pipeline Consortium were disrupted."
-    },
-    {
-      "id": "5022765",
-      "time": "2026-08-03 21:07:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "哥倫比亞比索在利率維持不變和外匯交易計劃啟動後下跌1.5%。"
-    },
-    {
-      "id": "5022764",
-      "time": "2026-08-03 21:06:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "奧德賽公司斬獲美國空軍9.34億美元合同，負責空軍網路安全測試運營業務。"
-    },
-    {
-      "id": "mkt:019fc7ba-bace-7aab-8f58-2c9db283b55d",
-      "time": "2026-08-03 21:05:31",
-      "tags": [
-        "MKT News",
-        "APO.O"
-      ],
-      "text": "Texas governor says Apollo Global Management will establish a new strategic center in Austin."
-    },
-    {
-      "id": "5022763",
-      "time": "2026-08-03 21:05:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，受裡海管道聯盟（CPC）出口中斷影響，哈薩克7月石油與凝析氣產量較6月下降14%。"
-    },
-    {
-      "id": "5022762",
-      "time": "2026-08-03 21:05:14",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）責令瑞銀金融服務公司因旗下反洗錢交易監控系統存在監管失職支付800萬美元罰款。"
-    },
-    {
-      "id": "mkt:019fc7ba-72d5-7aab-8f58-23312ae3e75b",
-      "time": "2026-08-03 21:05:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian President Putin has arrived in Krasnoyarsk."
-    },
-    {
-      "id": "5022761",
-      "time": "2026-08-03 21:04:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "星巴克：南瓜香料拿鐵將於 8 月 25 日迴歸上市。"
-    },
-    {
-      "id": "5022760",
-      "time": "2026-08-03 21:04:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "帕洛阿爾託網路與谷歌雲達成合作，共同防範人工智慧生成的惡意軟體。"
-    },
-    {
-      "id": "5022759",
-      "time": "2026-08-03 21:04:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息： 波切蒂諾與美國國家男子足球隊達成一份四年合約。"
-    },
-    {
-      "id": "5022758",
-      "time": "2026-08-03 21:04:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守57美元/盎司，日內跌1.36%。"
     }
   ]
 }
