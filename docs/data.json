@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-10 08:46:01",
-  "count": 15878,
+  "updated": "2026-08-10 08:49:49",
+  "count": 15874,
   "items": [
+    {
+      "id": "te:markets:573948",
+      "time": "2026-08-10 08:48:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Track Wall Street Higher — The Nikkei 225 Index climbed 1.4% to above 66,500 while the broader Topix Index advanced 0.5% to 4,095 on Monday, with Japanese equities reaching multi-week highs and following Wall Street higher after weaker-than-expected US jobs data reduced expectations for a near-term Federal Reserve interest rate hike. Investors also remained focused on developments in the Middle East as Iran denied holding direct negotiations with the US, despite Washington’s claims that a deal was close. Domestically, data showed Japan’s current account surplus narrowed in June, as strong exports of AI-related electronics were offset by a rise in imports amid increased crude oil purchases. Technology and AI-linked stocks spearheaded the gains, with Fujikura (5.1%), Furukawa Electric (6.5%), Advantest (3.4%), Ibiden Co (9.3%) and Tokyo Electron (3.2%) posting notable advances."
+    },
+    {
+      "id": "mkt:019fe923-fd67-7aab-8fcd-995bd8afc606",
+      "time": "2026-08-10 08:47:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin financing balances across both exchanges rise 6.992 bln yuan】As of Aug 7, Shanghai Stock Exchange margin financing balance was 1.344618 tln yuan, up 4.341 bln yuan from the previous trading day. Shenzhen Stock Exchange margin financing balance was 1.269644 tln yuan, up 2.651 bln yuan. Combined margin financing across both exchanges totaled 2.614262 tln yuan, up 6.992 bln yuan from the prior trading day."
+    },
+    {
+      "id": "5032844",
+      "time": "2026-08-10 08:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額增加69.92億元】截至8月7日，上交所融資餘額報13446.18億元，較前一交易日增加43.41億元；深交所融資餘額報12696.44億元，較前一交易日增加26.51億元；兩市合計26142.62億元，較前一交易日增加69.92億元。"
+    },
+    {
+      "id": "te:markets:573947",
+      "time": "2026-08-10 08:47:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Nears 8-Week High — The Australian dollar held above $0.706, approaching an eight-week high as investors looked ahead to the Reserve Bank of Australia’s monetary policy decision on Tuesday. The central bank is widely expected to keep its cash rate unchanged at 4.35% for a second straight meeting, although policymakers are expected to maintain a hawkish stance as inflation remains elevated. Markets are pricing around a 50% probability of another 25-basis-point rate hike by year-end, while traders will closely watch the RBA’s updated forecasts and Governor Michele Bullock’s comments for clues on the future policy path. Elsewhere, the US dollar weakened against major currencies, after US employment unexpectedly declined in July, reducing expectations for the Federal Reserve to raise interest rates. The Aussie is also poised to climb back toward a thirty-five-year high against the yen as the impact of Tokyo’s currency intervention fades and the RBA’s hawkish stance bolsters the exchange rate."
+    },
     {
       "id": "mkt:019fe921-4f3e-7aab-8fcd-97e3fb3a2fef",
       "time": "2026-08-10 08:45:01",
@@ -144586,75 +144632,6 @@
         "觀點"
       ],
       "text": "【中信證券：陣痛期已過 右側機會來臨 看好8月新車催化期的表現】中信證券研報稱，A股智選標的在26H1受鴻蒙體系內部分流加劇、儲存和碳酸鋰等漲價等因素影響，量、價、利均有明顯壓力，疊加資金面受AI板塊虹吸影響，股價經歷了漫長的陣痛期。近期中報利空落地，且隨著市場資金面在AI和非AI板塊的再平衡，反彈幅度超出我們預期，我們看好8月新車催化期的表現。"
-    },
-    {
-      "id": "5021297",
-      "time": "2026-08-03 08:48:48",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：短期無論美聯儲9月加息與否，美股估值均面臨壓力】中信證券研報稱，美股短期不確定性與長期機遇並存，加息落地後方見曙光。錯過此輪加息時點後，短期無論美聯儲9月加息與否，美股估值均面臨壓力，但中長期看，加息落地有望釋放估值壓制，疊加“生產力與就業工作組”對AI的積極取向，美股AI敘事有望長期延續。7月29日FOMC連續第五次按兵不動，三位票委投票支援加息25bps，聯儲內部分歧公開化，市場呈“短端鴿、長端鷹”的割裂反應，通脹預期上行壓制美元併為日本財務省干預匯市提供視窗，CSP雲業務的高增速一定程度上緩解了AI三重資本開支可持續性擔憂。短期利率敏感行業、高估值低增長板塊及小盤股承壓，下一個流動性預期轉向視窗關注8月末Jackson Hole大會或9月議息會議。"
-    },
-    {
-      "id": "5021296",
-      "time": "2026-08-03 08:47:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日增加46.57億元】截至7月31日，上交所融資餘額報13273.98億元，較前一交易日增加51.86億元；深交所融資餘額報12535.70億元，較前一交易日減少5.29億元；兩市合計25809.68億元，較前一交易日增加46.57億元。"
-    },
-    {
-      "id": "5021295",
-      "time": "2026-08-03 08:47:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【方石機器人完成數千萬元A+輪融資】8月3日，北京方石機器人有限公司宣佈完成數千萬元A+輪融資，本輪投資方為濟南鵲華科創投，融資資金將主要用於新生產基地建設和產能擴充。"
-    },
-    {
-      "id": "mkt:019fc516-b95d-7aab-8f4a-ebdc2f2839a0",
-      "time": "2026-08-03 08:47:08",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "【Two exchanges' margin financing balances up 4.66 bln yuan】Margin financing on China's two main stock exchanges rose 46.58 billion yuan to 25,809.68 billion yuan on July 31. Shanghai Stock Exchange balance was 13,273.98 billion yuan, up 51.86 billion yuan from the previous session; Shenzhen Stock Exchange was 12,535.70 billion yuan, down 5.28 billion yuan."
-    },
-    {
-      "id": "5021294",
-      "time": "2026-08-03 08:47:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯芸科技新設微電子公司 含積體電路晶片業務】企查查APP顯示，近日，武漢昂彤微電子有限公司成立，經營範圍包含：積體電路設計；積體電路銷售；積體電路晶片及產品銷售；積體電路晶片設計及服務等。企查查股權穿透顯示，該公司由聯芸科技全資持股。"
-    },
-    {
-      "id": "5021293",
-      "time": "2026-08-03 08:46:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格力博：儲能業務整體尚處於前期佈局與技術研發階段】格力博(301260)8月3日在互動平臺表示，公司儲能業務整體尚處於前期佈局與技術研發階段，後續隨著市場渠道拓展與產品打磨深入，訂單規模有望穩步釋放。"
-    },
-    {
-      "id": "5021292",
-      "time": "2026-08-03 08:46:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺：取消黃色暴雨警告訊號。"
-    },
-    {
-      "id": "5021291",
-      "time": "2026-08-03 08:46:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元短線持續拉昇，日內上漲200多點或1.4%，報155.30。"
     }
   ]
 }
