@@ -1,7 +1,193 @@
 {
   "date": "2026-08-10",
-  "count": 1391,
+  "count": 1411,
   "items": [
+    {
+      "id": "5033602",
+      "time": "2026-08-10 16:32:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【在岸人民幣兌美元收盤報6.7442】8月10日訊息，在岸人民幣兌美元收盤報6.7442，較上一交易日上漲59點。"
+    },
+    {
+      "id": "mkt:019feacd-9dfd-7aab-8fd5-c6134dd3906e",
+      "time": "2026-08-10 16:32:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.O",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "【Alibaba Cloud plans to more than double global data center capacity】Alibaba Cloud said it has cut delivery time for large AIDC data centers to 100 days using a full modular design, while reducing overall construction costs by more than 10% despite the faster build. The company plans to expand global capacity of its modular data centers by more than twofold this year."
+    },
+    {
+      "id": "5033600",
+      "time": "2026-08-10 16:32:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺華新材：擬4000萬至8000萬元回購股份用於激勵】臺華新材公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於4000萬元且不超過8000萬元，回購價格不超12.7元/股，預計回購數量314.96萬股至629.92萬股，佔總股本0.35%至0.71%。回購股份擬用於員工持股計劃或股權激勵，若36個月內未使用完畢則登出。回購期限自董事會審議透過之日起12個月內。公司董監高、控股股東等未來3個月、6個月暫不存在減持計劃。本次回購存在多種實施風險。"
+    },
+    {
+      "id": "5033599",
+      "time": "2026-08-10 16:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞通精工：1.10億股首發限售股8月17日上市流通】亞通精工公告稱，本次上市流通的限售股為首次公開發行限售股，涉及焦召明等4名股東，數量為1.10億股，佔公司目前總股本（1.74億股）的63.34%，將於2026年8月17日起上市流通。原鎖定期36個月，因上市後股價表現，股東自願延長6個月。截至核查意見出具日，股東嚴格履行承諾，公司不存在控股股東及其關聯方佔用資金情況。"
+    },
+    {
+      "id": "5033598",
+      "time": "2026-08-10 16:31:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST帥電：股價異常波動 擬4.1億元購惠嘉科技100%股權】*ST帥電公告稱，公司股票於2026年8月6日、7日、10日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。公司擬4.1億元現金購買惠嘉科技股東李連強、斯應昌持有的100%股權，已籤協議。2026年一季度，公司營收2349.88萬元，同比降51.99%；淨虧損720.14萬元，同比增虧591.30萬元。本次交易尚需股東會審議及主管部門審批，存在不確定性。"
+    },
+    {
+      "id": "5033597",
+      "time": "2026-08-10 16:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲計劃將全球資料中心產能提升兩倍以上】8月10日，記者獲悉，基於全模組化設計架構，阿里雲已將大型AIDC資料中心的交付工期縮短至100天。據瞭解，在大幅縮短工期的同時，阿里雲資料中心整體建設成本反而降低10%以上。今年，阿里雲正計劃將模組化資料中心的全球產能提升兩倍以上。"
+    },
+    {
+      "id": "5033596",
+      "time": "2026-08-10 16:31:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝鼓動力：擬發行股份購秦風氣體36.06%股權 股票已復牌】陝鼓動力公告稱，公司擬發行股份購買秦風氣體少數股東持有的合計36.06%股權，交易構成關聯交易，預計不構成重大資產重組及重組上市。公司股票6月29日起停牌，7月13日起復牌。截至公告披露日，相關審計、評估等工作正穩步推進，交易方案尚需公司董事會、股東會及監管機構批准，能否獲批及時間存在不確定性。"
+    },
+    {
+      "id": "mkt:019feacc-5153-7aab-8fd5-bc5e1a76ef37",
+      "time": "2026-08-10 16:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran is holding talks with all regional countries to build trust and develop homegrown security mechanisms."
+    },
+    {
+      "id": "mkt:019feacc-2720-7aab-8fd5-b49701eca85e",
+      "time": "2026-08-10 16:31:15",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Onshore yuan (CNY) closed at 6.7442 per dollar at 16:30 on Aug 10, up 59 pips from the previous trading day."
+    },
+    {
+      "id": "mkt:019feacb-cff7-7aab-8fd5-af57a63dc63d",
+      "time": "2026-08-10 16:30:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Foreign Ministry spokesperson said Tehran does not accept reports about US military strength, positive or negative, and that Iran's priority is to maintain maximum combat readiness."
+    },
+    {
+      "id": "5033595",
+      "time": "2026-08-10 16:30:52",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區8月Sentix投資者信心指數 0.9，預期-0.5，前值-3.1。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608103836621120",
+      "time": "2026-08-10 16:30:27",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區8月Sentix投資者信心指數為0.9 預期-0.5】歐元區8月Sentix投資者信心指數為0.9，預期-0.5，前值-3.1。"
+    },
+    {
+      "id": "mkt:019feacb-1e86-7aab-8fd5-a06fb24615a6",
+      "time": "2026-08-10 16:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Eurozone Sentix investor confidence index for August 0.9, versus consensus -0.5 and July -3.1."
+    },
+    {
+      "id": "mkt:019feacb-002c-7aab-8fd5-9e80b07b0f41",
+      "time": "2026-08-10 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Sentix Investor Confidence Index (Aug) | actual 0.9 | consensus -0.5 | previous -3.1"
+    },
+    {
+      "id": "mkt:019feaca-fd6f-7aab-8fd5-978e9a94f0ab",
+      "time": "2026-08-10 16:29:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【CBA expects RBA to keep rates unchanged for remainder of year】Commonwealth Bank of Australia expects the Reserve Bank of Australia to leave the cash rate unchanged for the rest of the year while keeping hawkish language. That hold-without-a-dovish-pivot limits the rate decision's near-term directional signal for the AUD; more market-relevant will be forecast revisions. CBA expects the RBA to raise its unemployment projection and lower both headline and core inflation forecasts — a material downward revision to inflation would be interpreted by markets as opening the door to later easing even if rhetoric stays hawkish. Escalation in the Middle East could add cost pass-through in Q3, an uncertainty that may force the RBA into a more hawkish stance than data alone imply."
+    },
+    {
+      "id": "5033593",
+      "time": "2026-08-10 16:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲維股份：重大資產重組工作仍在推進 能否實施存不確定性】雲維股份公告稱，公司擬透過發行股份及支付現金方式購買雲能（紅河）發電有限公司100%股權，該交易構成關聯交易及重大資產重組，不會導致公司實際控制人變更。公司股票於2024年12月9日起停牌，12月23日起復牌。截至公告披露日，公司正積極推進相關工作，但交易各方尚未簽署正式協議，尚需履行必要程式並獲監管批准，能否實施存在重大不確定性。"
+    },
+    {
+      "id": "5033592",
+      "time": "2026-08-10 16:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：無論是談判秘密進行還是公開進行，伊朗人都是高明的“棋手”。"
+    },
+    {
+      "id": "mkt:019feaca-c21d-7aab-8fd5-8afaab2bca48",
+      "time": "2026-08-10 16:29:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesman said whether negotiations are held secretly or publicly, Iranians are skilled \"chess players\"."
+    },
+    {
+      "id": "5033591",
+      "time": "2026-08-10 16:29:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：“根據中央選舉委員會的資料，將在152個國家開設319個投票站，以便海外公民能夠在國家杜馬選舉中投票。”"
+    },
+    {
+      "id": "5033590",
+      "time": "2026-08-10 16:29:35",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【《天津市智慧機器人產業創新發展行動方案（2026—2028年）》印發 2028年全市智慧機器人產業核心產值突破200億元】今天，市工業和資訊化局、市發展改革委、市科技局聯合印發《天津市智慧機器人產業創新發展行動方案（2026—2028年）》（以下簡稱《行動方案》），提出到2028年底，全市智慧機器人產業核心產值突破200億元，產值年均增速超過15%，京津冀區域配套率提升至60%以上，形成“研發—製造—應用—服務”全環節、“決策及控制—本體—核心零部件—整合服務”全鏈條產業生態。屆時，全市將建成1個智慧機器人創新聯合體，爭創1至2家國家級創新平臺，攻關智慧機器人主控晶片、作業系統、減速器、伺服電機等方面核心技術，形成20項技術產品；培育產值超10億元企業3家以上、國家級專精特新“小巨人”企業20家；建設天津市智慧機器人創新中心、天津市智慧機器人敏捷智造中心，打造一批展示體驗中心；建設不少於20個實景實訓空間，在工業製造、特種作業、民生服務等領域形成100個以上示範應用場景。"
+    },
     {
       "id": "5033589",
       "time": "2026-08-10 16:27:27",

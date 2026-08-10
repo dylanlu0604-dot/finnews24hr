@@ -1,7 +1,193 @@
 {
-  "updated": "2026-08-10 16:29:54",
-  "count": 15915,
+  "updated": "2026-08-10 16:34:12",
+  "count": 15913,
   "items": [
+    {
+      "id": "5033602",
+      "time": "2026-08-10 16:32:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【在岸人民幣兌美元收盤報6.7442】8月10日訊息，在岸人民幣兌美元收盤報6.7442，較上一交易日上漲59點。"
+    },
+    {
+      "id": "mkt:019feacd-9dfd-7aab-8fd5-c6134dd3906e",
+      "time": "2026-08-10 16:32:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.O",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "【Alibaba Cloud plans to more than double global data center capacity】Alibaba Cloud said it has cut delivery time for large AIDC data centers to 100 days using a full modular design, while reducing overall construction costs by more than 10% despite the faster build. The company plans to expand global capacity of its modular data centers by more than twofold this year."
+    },
+    {
+      "id": "5033600",
+      "time": "2026-08-10 16:32:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臺華新材：擬4000萬至8000萬元回購股份用於激勵】臺華新材公告稱，公司擬以集中競價交易方式回購股份，回購金額不低於4000萬元且不超過8000萬元，回購價格不超12.7元/股，預計回購數量314.96萬股至629.92萬股，佔總股本0.35%至0.71%。回購股份擬用於員工持股計劃或股權激勵，若36個月內未使用完畢則登出。回購期限自董事會審議透過之日起12個月內。公司董監高、控股股東等未來3個月、6個月暫不存在減持計劃。本次回購存在多種實施風險。"
+    },
+    {
+      "id": "5033599",
+      "time": "2026-08-10 16:32:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞通精工：1.10億股首發限售股8月17日上市流通】亞通精工公告稱，本次上市流通的限售股為首次公開發行限售股，涉及焦召明等4名股東，數量為1.10億股，佔公司目前總股本（1.74億股）的63.34%，將於2026年8月17日起上市流通。原鎖定期36個月，因上市後股價表現，股東自願延長6個月。截至核查意見出具日，股東嚴格履行承諾，公司不存在控股股東及其關聯方佔用資金情況。"
+    },
+    {
+      "id": "5033598",
+      "time": "2026-08-10 16:31:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST帥電：股價異常波動 擬4.1億元購惠嘉科技100%股權】*ST帥電公告稱，公司股票於2026年8月6日、7日、10日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。公司擬4.1億元現金購買惠嘉科技股東李連強、斯應昌持有的100%股權，已籤協議。2026年一季度，公司營收2349.88萬元，同比降51.99%；淨虧損720.14萬元，同比增虧591.30萬元。本次交易尚需股東會審議及主管部門審批，存在不確定性。"
+    },
+    {
+      "id": "5033597",
+      "time": "2026-08-10 16:31:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲計劃將全球資料中心產能提升兩倍以上】8月10日，記者獲悉，基於全模組化設計架構，阿里雲已將大型AIDC資料中心的交付工期縮短至100天。據瞭解，在大幅縮短工期的同時，阿里雲資料中心整體建設成本反而降低10%以上。今年，阿里雲正計劃將模組化資料中心的全球產能提升兩倍以上。"
+    },
+    {
+      "id": "5033596",
+      "time": "2026-08-10 16:31:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陝鼓動力：擬發行股份購秦風氣體36.06%股權 股票已復牌】陝鼓動力公告稱，公司擬發行股份購買秦風氣體少數股東持有的合計36.06%股權，交易構成關聯交易，預計不構成重大資產重組及重組上市。公司股票6月29日起停牌，7月13日起復牌。截至公告披露日，相關審計、評估等工作正穩步推進，交易方案尚需公司董事會、股東會及監管機構批准，能否獲批及時間存在不確定性。"
+    },
+    {
+      "id": "mkt:019feacc-5153-7aab-8fd5-bc5e1a76ef37",
+      "time": "2026-08-10 16:31:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry spokesman said Iran is holding talks with all regional countries to build trust and develop homegrown security mechanisms."
+    },
+    {
+      "id": "mkt:019feacc-2720-7aab-8fd5-b49701eca85e",
+      "time": "2026-08-10 16:31:15",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "Onshore yuan (CNY) closed at 6.7442 per dollar at 16:30 on Aug 10, up 59 pips from the previous trading day."
+    },
+    {
+      "id": "mkt:019feacb-cff7-7aab-8fd5-af57a63dc63d",
+      "time": "2026-08-10 16:30:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Foreign Ministry spokesperson said Tehran does not accept reports about US military strength, positive or negative, and that Iran's priority is to maintain maximum combat readiness."
+    },
+    {
+      "id": "5033595",
+      "time": "2026-08-10 16:30:52",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區8月Sentix投資者信心指數 0.9，預期-0.5，前值-3.1。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202608103836621120",
+      "time": "2026-08-10 16:30:27",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區8月Sentix投資者信心指數為0.9 預期-0.5】歐元區8月Sentix投資者信心指數為0.9，預期-0.5，前值-3.1。"
+    },
+    {
+      "id": "mkt:019feacb-1e86-7aab-8fd5-a06fb24615a6",
+      "time": "2026-08-10 16:30:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Eurozone Sentix investor confidence index for August 0.9, versus consensus -0.5 and July -3.1."
+    },
+    {
+      "id": "mkt:019feacb-002c-7aab-8fd5-9e80b07b0f41",
+      "time": "2026-08-10 16:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Sentix Investor Confidence Index (Aug) | actual 0.9 | consensus -0.5 | previous -3.1"
+    },
+    {
+      "id": "mkt:019feaca-fd6f-7aab-8fd5-978e9a94f0ab",
+      "time": "2026-08-10 16:29:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【CBA expects RBA to keep rates unchanged for remainder of year】Commonwealth Bank of Australia expects the Reserve Bank of Australia to leave the cash rate unchanged for the rest of the year while keeping hawkish language. That hold-without-a-dovish-pivot limits the rate decision's near-term directional signal for the AUD; more market-relevant will be forecast revisions. CBA expects the RBA to raise its unemployment projection and lower both headline and core inflation forecasts — a material downward revision to inflation would be interpreted by markets as opening the door to later easing even if rhetoric stays hawkish. Escalation in the Middle East could add cost pass-through in Q3, an uncertainty that may force the RBA into a more hawkish stance than data alone imply."
+    },
+    {
+      "id": "5033593",
+      "time": "2026-08-10 16:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲維股份：重大資產重組工作仍在推進 能否實施存不確定性】雲維股份公告稱，公司擬透過發行股份及支付現金方式購買雲能（紅河）發電有限公司100%股權，該交易構成關聯交易及重大資產重組，不會導致公司實際控制人變更。公司股票於2024年12月9日起停牌，12月23日起復牌。截至公告披露日，公司正積極推進相關工作，但交易各方尚未簽署正式協議，尚需履行必要程式並獲監管批准，能否實施存在重大不確定性。"
+    },
+    {
+      "id": "5033592",
+      "time": "2026-08-10 16:29:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部發言人：無論是談判秘密進行還是公開進行，伊朗人都是高明的“棋手”。"
+    },
+    {
+      "id": "mkt:019feaca-c21d-7aab-8fd5-8afaab2bca48",
+      "time": "2026-08-10 16:29:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry spokesman said whether negotiations are held secretly or publicly, Iranians are skilled \"chess players\"."
+    },
+    {
+      "id": "5033591",
+      "time": "2026-08-10 16:29:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：“根據中央選舉委員會的資料，將在152個國家開設319個投票站，以便海外公民能夠在國家杜馬選舉中投票。”"
+    },
+    {
+      "id": "5033590",
+      "time": "2026-08-10 16:29:35",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【《天津市智慧機器人產業創新發展行動方案（2026—2028年）》印發 2028年全市智慧機器人產業核心產值突破200億元】今天，市工業和資訊化局、市發展改革委、市科技局聯合印發《天津市智慧機器人產業創新發展行動方案（2026—2028年）》（以下簡稱《行動方案》），提出到2028年底，全市智慧機器人產業核心產值突破200億元，產值年均增速超過15%，京津冀區域配套率提升至60%以上，形成“研發—製造—應用—服務”全環節、“決策及控制—本體—核心零部件—整合服務”全鏈條產業生態。屆時，全市將建成1個智慧機器人創新聯合體，爭創1至2家國家級創新平臺，攻關智慧機器人主控晶片、作業系統、減速器、伺服電機等方面核心技術，形成20項技術產品；培育產值超10億元企業3家以上、國家級專精特新“小巨人”企業20家；建設天津市智慧機器人創新中心、天津市智慧機器人敏捷智造中心，打造一批展示體驗中心；建設不少於20個實景實訓空間，在工業製造、特種作業、民生服務等領域形成100個以上示範應用場景。"
+    },
     {
       "id": "5033589",
       "time": "2026-08-10 16:27:27",
@@ -144665,207 +144851,6 @@
         "市場"
       ],
       "text": "【海利得：截至7月底累計耗資1.06億元回購1.75%股份】海利得公告稱，公司於2026年6月1日透過以集中競價交易方式回購股份方案，回購總額不低於1.5億元（含）且不超過3億元（含）。截至7月31日收盤，公司累計回購股份2031.92萬股，佔公司目前總股本的1.75%，成交金額為1.06億元（不含交易費用），最高成交價為5.51元/股，最低成交價為5.08元/股。後續將根據市場情況擇機實施回購計劃。"
-    },
-    {
-      "id": "5022039",
-      "time": "2026-08-03 16:34:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比依股份：擬500萬元認購私募基金3.33%份額】比依股份公告稱，公司擬以自有資金500萬元認購廈門星奇明圖創業投資合夥企業有限合夥份額，佔比3.3333%。該合夥企業主要對新興領域創業企業進行股權投資，基金規模1.5億元。本次交易不構成關聯交易和重大資產重組，已透過公司總經辦會議審議。不過，相關協議尚未簽署，合夥企業需完成備案，且投資存在無法達預期等風險，公司風險敞口不超500萬元。"
-    },
-    {
-      "id": "5022038",
-      "time": "2026-08-03 16:34:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞銀環球財富管理將韓國股票評級從“看好”下調至“中性”。"
-    },
-    {
-      "id": "5022037",
-      "time": "2026-08-03 16:34:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "日產維持本財年匯率假設：1 美元兌 150 日元。"
-    },
-    {
-      "id": "mkt:019fc6c2-157f-7aab-8f52-9f68988c58d5",
-      "time": "2026-08-03 16:33:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "China's National Development and Reform Commission and National Energy Administration released the 15th Five-Year Plan for New Power System Construction."
-    },
-    {
-      "id": "5022036",
-      "time": "2026-08-03 16:33:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局最終敲定新規，每年可為企業削減逾1億英鎊的交易報告成本。"
-    },
-    {
-      "id": "5022035",
-      "time": "2026-08-03 16:33:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽特新材：累計斥資5001.58萬元回購1.23%股份】賽特新材公告稱，公司2026年7月6日至7月21日，以集中競價交易方式累計回購股份207萬股，佔總股本1.23%，成交最高價25.63元/股、最低價18.59元/股，已支付總金額5001.58萬元（不含交易費用）。本次回購用於員工持股計劃或股權激勵，期限自2026年6月22日至2027年6月15日，擬回購資金5000萬元至10000萬元。"
-    },
-    {
-      "id": "mkt:019fc6c1-8252-7aab-8f52-969ecfd78655",
-      "time": "2026-08-03 16:33:18",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bearish"
-      ],
-      "text": "Micron Technology (MU.O) shares down 1.5% in pre-market trading."
-    },
-    {
-      "id": "5022034",
-      "time": "2026-08-03 16:33:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "美光科技股價盤前階段最新下跌1.5%。"
-    },
-    {
-      "id": "5022033",
-      "time": "2026-08-03 16:32:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富淼科技：截至7月31日累計回購1999.55萬元股份】富淼科技公告稱，公司於2026年7月22日透過以集中競價方式回購股份的議案，預計回購2000萬元-4000萬元，用於員工持股計劃或股權激勵、維護公司價值及股東權益。截至7月31日，公司累計回購股份706,919股，佔總股本的0.49%，支付資金總額1999.55萬元，回購價格26.92元/股-29.18元/股，符合相關規定。公司將按規實施回購並及時披露進展。"
-    },
-    {
-      "id": "5022032",
-      "time": "2026-08-03 16:32:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【徐工機械：截至7月底累計斥資3.42億元回購股份】徐工機械公告稱，公司擬以自有資金3000萬元-6億元，不超14.8元/股回購股份用於減少註冊資本，實施期限自2026年5月28日起不超12個月。截至7月31日，公司已累計回購股份3642.69萬股，佔總股本0.31%，最高成交價9.99元/股，最低成交價8.67元/股，成交總額3.42億元（不含交易費用）。後續將根據市場情況繼續實施回購。"
-    },
-    {
-      "id": "5022031",
-      "time": "2026-08-03 16:32:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新朋股份：回購公司股份比例達2% 成交金額1.12億元】新朋股份公告稱，截至2026年7月31日，公司以集中競價交易方式累計回購股份1545萬股，佔總股本的2.00%，最高成交價9.31元/股，最低成交價5.88元/股，成交總金額1.12億元（不含交易費用）。本次回購股份資金源於自有及自籌資金，價格未超上限，符合方案及法規要求。公司後續將按市場情況實施回購並依規披露。"
-    },
-    {
-      "id": "mkt:019fc6c0-ccd6-7aab-8f52-888a380ad93d",
-      "time": "2026-08-03 16:32:31",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "Onshore yuan (CNY) closed at 6.7543 per dollar at 16:30 on Aug 3, down 67 pips from the previous session."
-    },
-    {
-      "id": "5022030",
-      "time": "2026-08-03 16:32:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST萃華：未披露定期報告 股票或被終止上市】*ST萃華公告稱，公司未在2026年4月30日披露2025年年度報告和2026年第一季度報告，股票於5月6日起停牌，7月7日起被實施退市風險警示。若在被實施退市風險警示之日起兩個月內仍未披露過半數董事保證真實、準確、完整的2025年年度報告，深交所將決定終止其股票上市交易。此外，公司因涉嫌資訊披露違法違規等被證監會立案調查，若觸及重大違法強制退市情形，股票將被強制退市。"
-    },
-    {
-      "id": "5022029",
-      "time": "2026-08-03 16:32:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家發展改革委、國家能源局關於印發《新型電力系統建設“十五五”規劃》，到2030年，新型電力系統初步建成：綠色低碳的電力供給格局基本形成，非化石能源發電量佔比達到50%；電力供應能力持續增強，電力系統互補互濟和安全韌性水平大幅提升，電力供應充裕度保持合理水平，有效滿足經濟社會發展和人民群眾美好生活的用電需要；初步建成安全可靠、綠色低碳、堅強韌性、智慧靈活的新型電網，資源配置平臺作用和服務功能充分發揮，實現28億千瓦。"
-    },
-    {
-      "id": "em:jjsj_ygsj:202608033829805341",
-      "time": "2026-08-03 16:31:50",
-      "tags": [
-        "經濟數據",
-        "英國"
-      ],
-      "text": "【英國7月製造業採購經理指數報51.9】標普全球8月3日釋出資料顯示，英國7月製造業採購經理指數報51.9。"
-    },
-    {
-      "id": "5022028",
-      "time": "2026-08-03 16:31:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新華保險：2026年7月法定/註冊股本總額31.20億元未變】新華保險公告稱，截至2026年7月31日，公司法定/註冊股本總額為31.20億元，其中H股法定/註冊股份數目為10.34億股，A股為20.85億股，本月均無變動。已發行股份方面，H股和A股分別為10.34億股和20.85億股，庫存股份均為0，也無變動，且H股已符合適用的公眾持股量要求。"
-    },
-    {
-      "id": "mkt:019fc6bf-89f8-7aab-8f52-87deb0e47540",
-      "time": "2026-08-03 16:31:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Phase I of Greater Bay Area's first Hualong One nuclear project completed】CGN’s Taipingling Unit 2 entered commercial operation, completing phase I of the Greater Bay Area’s first Hualong One deployment. The 1,200 MW unit uses China’s domestically developed Gen‑III Hualong One technology with core equipment localization above 90%. Taipingling is planned as a six‑unit Hualong One complex; at full build‑out it is expected to supply about 55 bln kWh/year, displace roughly 16.52 mln tonnes of standard coal and cut CO2 emissions by about 50.82 mln tonnes annually."
-    },
-    {
-      "id": "5022027",
-      "time": "2026-08-03 16:31:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【粵港澳大灣區首個“華龍一號”專案一期工程全面建成】今日，中廣核廣東太平嶺核電專案2號機組正式投產發電，標誌著粵港澳大灣區首個“華龍一號”核電專案一期工程全面建成投產。此次投產發電的2號機組，採用我國具有完全自主智慧財產權的三代核電“華龍一號”技術，核心裝置國產化率超90%，單臺機組額定電功率約1200兆瓦。據瞭解，太平嶺核電專案規劃建設6臺“華龍一號”核電機組，六臺機組全部建成後，每年可清潔供電約550億千瓦時，等效減少標煤消耗約1652萬噸、減排二氧化碳約5082萬噸。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fc6be-af9b-7aab-8f52-78ca58202324",
-      "time": "2026-08-03 16:30:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "UK July manufacturing PMI (final) 51.9; consensus 52.8; prior 52.8."
-    },
-    {
-      "id": "5022026",
-      "time": "2026-08-03 16:30:11",
-      "tags": [
-        "資料"
-      ],
-      "text": "英國7月製造業採購經理人指數（PMI）為51.9，6月為52.5；初值為52.8。"
-    },
-    {
-      "id": "te:markets:572165",
-      "time": "2026-08-03 16:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Drops by 2.70% — Top crypto losers are Ether (-2.70%), Bitcoin (-1.93%) and Binance (-1.13%)."
-    },
-    {
-      "id": "mkt:019fc6be-7c9b-7aab-8f52-7425cd471330",
-      "time": "2026-08-03 16:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United Kingdom | Manufacturing PMI (Jul) | actual 51.9 | consensus 52.8 | previous 52.8"
     }
   ]
 }
