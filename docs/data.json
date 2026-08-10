@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-10 11:32:24",
-  "count": 15893,
+  "updated": "2026-08-10 11:36:18",
+  "count": 15895,
   "items": [
+    {
+      "id": "mkt:019fe9bd-5b04-7aab-8fd0-4d2f29f1369b",
+      "time": "2026-08-10 11:35:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea, Sweden deepen nuclear cooperation; regulators meet Monday】South Korean and Swedish nuclear regulators will meet Monday in Seoul to discuss policy and regulatory issues including high-level radioactive waste (HLW) disposal and small modular reactors (SMRs), YONHAP reports. The meeting is part of cooperation under a 2014 memorandum of understanding. Sweden, a leader in HLW disposal technology, is the second country after Finland to build a deep geological repository. South Korea's nuclear regulator said it plans to use the collaboration to strengthen oversight capacity for HLW disposal facilities."
+    },
+    {
+      "id": "5033173",
+      "time": "2026-08-10 11:35:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果摺疊iPhone已規劃到第三代，今年全球份額或超華為】8月10日，據知名科技記者馬克·古爾曼在最新一期《Power On》通訊中披露，蘋果已經敲定摺疊iPhone完整三年迭代路線，第三代機型有望最早在2028年推出。古爾曼此前發文稱，蘋果首款摺疊iPhone計劃在2026年秋季正式登場，產品暫定命名為iPhone Ultra，採用書本式向內摺疊方案。硬體層面，初代摺疊iPhone將搭載7.8英寸內屏、5.5英寸外屏，放棄Face ID，改用機身Touch ID，內建A20晶片搭配C2自研基帶，主打超薄機身設計。在定價上，該機起步價格或將達到2000美元，摺合人民幣約13530元，不排除部分版本售價進一步走高。該機構判斷，三星將在2026年繼續保持全球摺疊屏智慧手機市場領先地位，市場份額預計為32%。不過，隨著蘋果正式入局，加之華為（尤其是在中國市場）保持強勁勢頭，2026年的市場格局將與2025年大不相同。機構預計蘋果將在 2026年佔據25%的市場份額，華為預計佔24%，摩托羅拉和榮耀緊隨其後，分別佔據8%和3%。（介面）"
+    },
+    {
+      "id": "mkt:019fe9bc-f535-7aab-8fd0-448a24e7b3c0",
+      "time": "2026-08-10 11:35:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Satcom joins MIIT 6G push group's satellite‑terrestrial (NTN) working group】China Satcom said the IMT‑2030 (6G) push group's satellite‑terrestrial integration non‑terrestrial network (NTN) working group was formally established in Beijing under guidance from the Ministry of Industry and Information Technology's Department of Information and Communication Development, and China Satcom was invited as a first‑batch member. The NTN group will lead and support domestic organizations in developing international technical standards, coordinate the overall layout of 6G satellite‑terrestrial networks, cultivate core 6G satellite communications technologies, and promote industry‑academia‑research‑user collaboration. Its remit covers satellite air‑interface access, satellite terminal technology, satellite‑terrestrial integrated network technology, and operations, maintenance and application technologies."
+    },
+    {
+      "id": "5033171",
+      "time": "2026-08-10 11:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國衛通加入工信部6G推進組星地融合工作組】據中國衛通訊息，日前，在工業和資訊化部資訊通訊發展司指導下，IMT-2030（6G）推進組星地融合（NTN）工作組（簡稱“NTN工作組”）在北京正式成立，中國衛通作為首批成員單位受邀加入工作組。NTN工作組主要職責是牽引支撐國內組織開展國際技術標準研製，統籌推進6G星地融合網路總體佈局，培育6G衛星通訊核心技術，推動產學研用各方協同聯動。工作範圍涵蓋衛星空口接入技術、衛星終端技術、星地融合網路技術和運維與應用技術。"
+    },
+    {
+      "id": "5033170",
+      "time": "2026-08-10 11:33:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "藍海雲軟體技術解決方案：旗下部門與馬斯克旗下SpaceX國際部門簽署價值1.5億美元的工程服務訂單（SOW）。"
+    },
+    {
+      "id": "5033169",
+      "time": "2026-08-10 11:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報3061.31億元，較上一交易日此時縮量420.84億元】截至目前，ETF兩市成交額報3061.31億元，較上一交易日此時縮量420.84億元，分型別來看，股票型ETF成交額1078.88億元，債券型ETF成交額1287.32億元，貨幣型ETF成交額134.38億元，商品型ETF成交額53.28億元，QDII型ETF成交額507.05億元。"
+    },
+    {
+      "id": "5033168",
+      "time": "2026-08-10 11:32:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗銀行將長期最優惠利率從3.15%上調至3.25%。"
+    },
+    {
+      "id": "te:economy:573992",
+      "time": "2026-08-10 11:32:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "China 10Y Yield Returns to 1-Year Low — China’s 10-year government bond yield fell to around 1.70% on Monday, returning to its lowest level since August 2025, as softer inflation data reinforced expectations that Beijing has greater flexibility to provide additional policy support in the remainder of the year. Annual consumer inflation eased to a six-month low of 0.5% in July, reflecting further declines in food prices and slower growth in non-food costs. Producer prices also slowed to 3.5% from 4.1%, marking its first deceleration since turning positive in March following the oil-price surge linked to tensions in the Middle East. At a recent meeting, the Political Bureau of the Communist Party of China Central Committee pledged more proactive and effective macroeconomic policies, faster deployment of fiscal funds and bond proceeds, and continued support for equipment upgrades and consumer goods trade-ins. It also stressed boosting domestic demand amid weak consumer spending, despite strong exports and industrial activity."
+    },
     {
       "id": "5033167",
       "time": "2026-08-10 11:31:33",
@@ -144611,63 +144679,6 @@
         "國際"
       ],
       "text": "印度國家證券交易所Nifty 50指數盤前交易上漲0.78%。"
-    },
-    {
-      "id": "mkt:019fc5b0-7a27-7aab-8f4e-3c918033cdd0",
-      "time": "2026-08-03 11:35:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【DeepSeek-V4-Flash official API debuts on China's National Supercomputing Internet】DeepSeek-V4-Flash official API has entered public beta and China’s National Supercomputing Internet simultaneously launched model API-call and download services. Users can access the API via the National Supercomputing Internet website service panel or download the model from the Supercomputing Internet AI community. A trusted Notebook environment is provided to support end-to-end fine-tuning, deployment and adaptation workflows."
-    },
-    {
-      "id": "5021580",
-      "time": "2026-08-03 11:34:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【壁仞科技完成MiniMax H3大模型推理驗證】8月3日，壁仞科技宣佈，基於SGLang推理框架，完成MiniMax H3在旗艦通用GPU產品壁礪™系列上的“Day0”適配與調優。"
-    },
-    {
-      "id": "mkt:019fc5b0-32ca-7aab-8f4e-3386740bd52b",
-      "time": "2026-08-03 11:34:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【China A-shares midday: Shanghai -0.59%; semiconductors, electronic chemicals lag; power-grid, fusion and PV lead】China A-shares fell at midday: Shanghai Composite -0.59%, Shenzhen Component -0.45%, ChiNext -0.44%. Power-grid equipment led gains, with Jiusheng Electric, Baili Electric and Changlan Technology hitting daily limits; Yikun Electric and Xinte Electric also advanced. Controllable nuclear fusion names were active — China Nuclear Construction, Heduan Intelligent and Zhongyan Dadi hit limits; Hahan Huatong and Changfu Co. outperformed. PV equipment continued to rally, with Guosheng Technology and Fulait hitting daily limits and Daqian Energy, International Industry and Yubang New Materials up. The semiconductor sector extended losses, though Longchuan Technology, Xinyuan Micro and Tuojing Technology were among the better performers within the group. Electronic chemicals underperformed, led lower by Sanfu Xinke, Honghe Technology and Xingfu Electronics."
-    },
-    {
-      "id": "5021579",
-      "time": "2026-08-03 11:34:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中宏保險第二季度個險賠付金額達1.9億元】中宏保險近日釋出的《2026年第二季度個險理賠服務報告》顯示，2026年第二季度，中宏保險個險理賠服務繼續提質增效，期間累計處理個險理賠案件16,493件，同比增長6.5%；賠付金額達1.9億元，同比增長14.9%；整體獲賠率99.8%，同比提升0.1%。（介面新聞記者 馮麗君）"
-    },
-    {
-      "id": "5021578",
-      "time": "2026-08-03 11:34:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股午評：科創50指數低開低走跌3.73%，算力硬體股集體回撥】A股三大指數早盤集體下跌，截至午盤，上證指數跌0.59%，深證成指跌0.45%，創業板指跌0.44%，北證50跌0.66%，科創50指數跌3.73%。全市場成交額13747億元，較上日縮量4233億元，全市場超3700只個股上漲。板塊題材上，電網裝置、可控核聚變、光伏裝置、種植業與林業、電機板塊漲幅居前；電子化學品、半導體、儲存晶片、光刻機、油氣開採及服務板塊跌幅居前。盤面上，電網裝置板塊高開高走，久盛電氣、百利電氣、長纜科技等股漲停，益坤電氣、新特電氣漲幅居前。可控核聚變板塊表現活躍，中國核建、合鍛智慧、中巖大地等多股漲停，哈焊華通、常輔股份漲幅居前。光伏裝置板塊早盤持續拉昇，國晟科技、福萊特漲停，大全能源、國際實業、宇邦新材漲幅居前。半導體板塊早盤持續走低，長川科技、芯源微、拓荊科技漲幅居前。電子化學品板塊表現疲軟，三孚新科、宏和科技、興福電子跌幅居前。"
-    },
-    {
-      "id": "5021577",
-      "time": "2026-08-03 11:33:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總、應急管理部針對雲南啟動防汛四級應急響應】據氣象部門預報，8月3日至6日，雲南持續多降雨，部分地區有大到暴雨、局地大暴雨，山洪和地質災害、中小河流洪水等風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月3日9時針對雲南啟動防汛四級應急響應。（央視新聞）"
     }
   ]
 }
