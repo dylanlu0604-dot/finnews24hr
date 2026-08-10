@@ -1,7 +1,95 @@
 {
   "date": "2026-08-10",
-  "count": 1043,
+  "count": 1053,
   "items": [
+    {
+      "id": "te:economy:574019",
+      "time": "2026-08-10 14:14:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Denmark Current Account Surplus Hits 3-Month High — Denmark’s seasonally adjusted current account surplus rose to DKK 32.5 billion in June 2026 from a downwardly revised DKK 25.7 billion in the previous month, marking the largest increase in three months. The goods account surplus widened to DKK 23.5 billion from DKK 22.5 billion, lifted by a 0.4% rise in exports while imports fell by 0.5%. Additionally, the services account surplus increased to DKK 5.3 billion from DKK 3.3 billion, while the primary income surplus also grew to DKK 7.3 billion from DKK 3.1 billion a month earlier. In contrast, the secondary income deficit increased to DKK 3.6 billion from DKK 3.3 billion."
+    },
+    {
+      "id": "5033374",
+      "time": "2026-08-10 14:13:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“大空頭”邁克爾·伯裡：不再認為伯克希爾·哈撒韋是未來有吸引力的投資】“大空頭”邁克爾·伯裡表示，他當初對伯克希爾·哈撒韋最大的擔憂是，等巴菲特最終退下來時，繼任者會年齡太大，而且終究不是巴菲特，因此不會像他那樣有耐心等待“最佳擊球點”。他表示：我相信這個擔憂已經成為現實。“展望未來，我認為伯克希爾不再是一項有吸引力的投資”。"
+    },
+    {
+      "id": "mkt:019fea4d-e774-7aab-8fd2-c52411006280",
+      "time": "2026-08-10 14:13:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Uzbekistan central bank: July gold and foreign-exchange reserves stood at $64.347 bln, up from $63.757 bln previously."
+    },
+    {
+      "id": "5033373",
+      "time": "2026-08-10 14:13:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.3%，報9232.60點。"
+    },
+    {
+      "id": "5033372",
+      "time": "2026-08-10 14:12:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股機器人概念股表現活躍，北投科技直線漲停，華中數控、百達精工、建設工業、東土科技、捷強裝備漲幅居前。"
+    },
+    {
+      "id": "5033371",
+      "time": "2026-08-10 14:12:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鎢概念震盪回升 翔鷺鎢業漲停】午後有色·鎢概念震盪回升，翔鷺鎢業漲停，中鎢高新、亞盛集團、章源鎢業、廈門鎢業衝高。訊息面上，章源鎢業公佈2026年8月上半月長單採購報價，55%黑鎢精礦41.20萬元/標噸；55%白鎢精礦41.10萬元/標噸；仲鎢酸銨（國標零級）60.60萬元/噸，較2026年7月下半月長單採購報價有所上調。"
+    },
+    {
+      "id": "5033370",
+      "time": "2026-08-10 14:11:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額超230億元，現跌超7%；天孚通訊成交額超90億元，現跌超5%。"
+    },
+    {
+      "id": "5033369",
+      "time": "2026-08-10 14:10:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【民調：李在明施政好評率降至43.3%創任內新低】韓國民調機構Realmeter10日釋出的民調結果顯示，總統李在明的施政好評率降至43.3%，連續第四周下降，創下其任內新低。Realmeter受日刊《能源經濟新聞》委託，本月3日至7日對全國18歲以上2514人進行調查。結果顯示，李在明施政好評率較前一週下降2.6個百分點，為43.3%。差評率上升2.5個百分點，為53%。Realmeter分析認為，政府出臺房地產稅新規，旨在廢除檢方偵查權的新版《刑訴法》在執政黨主導下獲得國會透過，李在明提及軍事政變風險並要求加快推進陸海空三軍軍校整合，這些因素引發輿論爭議，加上高溫天氣持續、經濟不確定性加劇，導致支援率連續四周呈現下降趨勢。"
+    },
+    {
+      "id": "5033368",
+      "time": "2026-08-10 14:10:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能瀾滄江（施甸）新能源有限公司成立，註冊資本2.4億】天眼查App顯示，近日，華能瀾滄江（施甸）新能源有限公司成立，法定代表人為何偉，註冊資本2.4億人民幣，經營範圍包括髮電業務、輸電業務、供（配）電業務，新興能源技術研發，風力發電技術服務，太陽能發電技術服務等，由華能瀾滄江新能源有限公司、通威智慧能源（四川）有限公司共同持股。"
+    },
+    {
+      "id": "5033367",
+      "time": "2026-08-10 14:10:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：轉融券標的板塊淨流出超519億】截至目前，今日主力資金淨流出511.31億；淨流入半導體裝置、半導體裝置、大消費等板塊，其中半導體裝置板塊淨流入27.59億；淨流出轉融券標的、融資融券、TMT等板塊，其中轉融券標的板塊淨流出519.44億。\n  \n個股方面，貴州茅臺淨買入8.34億元位居首位，中微公司、江波龍、仕佳光子主力資金淨流入居前；中際旭創淨賣出67.74億元位居首位，新易盛、兆易創新、長鑫科技淨流出額居前。"
+    },
     {
       "id": "5033366",
       "time": "2026-08-10 14:10:01",
