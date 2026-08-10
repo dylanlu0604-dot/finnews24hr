@@ -1,7 +1,48 @@
 {
   "date": "2026-08-10",
-  "count": 2151,
+  "count": 2155,
   "items": [
+    {
+      "id": "mkt:019febb7-ac23-7aab-8fd9-db2db9e0a2eb",
+      "time": "2026-08-10 20:48:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Hassett hopes Fed governor Cook is innocent; says he would not take Cook’s Fed seat】White House National Economic Council director Hassett said on Monday he hopes Fed governor Cook is innocent and declined to comment on any charges, calling it a law-enforcement matter. He said he would not replace Cook if Cook were removed. Hassett added that, were he on the Fed board, he would favor keeping rates unchanged or cutting, citing strong supply-side forces and recent inflation prints showing prices easing. He described Fed chair Kevin Warsh as famously independent."
+    },
+    {
+      "id": "5034188",
+      "time": "2026-08-10 20:48:29",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國地震臺網自動測定：08月10日20時34分在哥倫比亞附近（北緯5.20度，西經76.51度）發生7.2級左右地震，最終結果以正式速報為準。"
+    },
+    {
+      "id": "5034187",
+      "time": "2026-08-10 20:48:08",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "據德國地球科學研究中心訊息，哥倫比亞10日發生7.4級地震。 （新華社）"
+    },
+    {
+      "id": "5034186",
+      "time": "2026-08-10 20:46:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行買入 2500 萬美元。"
+    },
     {
       "id": "5034185",
       "time": "2026-08-10 20:44:58",
