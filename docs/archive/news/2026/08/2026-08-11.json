@@ -1,7 +1,58 @@
 {
   "date": "2026-08-11",
-  "count": 137,
+  "count": 142,
   "items": [
+    {
+      "id": "mkt:019fecf4-5a71-7aab-8fdf-234c6ec47f96",
+      "time": "2026-08-11 02:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $82.13/bbl, up $3.95 or 5.05%."
+    },
+    {
+      "id": "mkt:019fecf2-6583-7aab-8fdf-1e801342cc08",
+      "time": "2026-08-11 02:32:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $15 intraday to trade above $4,380/oz, up 0.90% on the day."
+    },
+    {
+      "id": "5034502",
+      "time": "2026-08-11 02:31:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4370美元/盎司，日內漲0.67%。"
+    },
+    {
+      "id": "5034501",
+      "time": "2026-08-11 02:31:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4430美元/盎司，日內漲0.75%。"
+    },
+    {
+      "id": "5034500",
+      "time": "2026-08-11 02:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 9月原油期貨收報82.13美元/桶。NYMEX 9月天然氣期貨收報2.7940美元/百萬英熱單位。NYMEX 9月汽油期貨收報3.1354美元/加侖，NYMEX 9月取暖油期貨收報4.1898美元/加侖。"
+    },
     {
       "id": "te:markets:574196",
       "time": "2026-08-11 02:30:07",
