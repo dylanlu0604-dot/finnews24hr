@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-11 00:53:41",
-  "count": 15808,
+  "updated": "2026-08-11 00:57:39",
+  "count": 15807,
   "items": [
+    {
+      "id": "5034459",
+      "time": "2026-08-11 00:55:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲84美元，報14160美元/噸。LME期鋁收漲38美元，報3318美元/噸。LME期鋅收漲30美元，報3738美元/噸。LME期鉛收漲16美元，報1903美元/噸。LME期鎳收跌79美元，報16925美元/噸。LME期錫收漲222美元，報55752美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
     {
       "id": "mkt:019fec97-a6cb-7aab-8fde-222df297555e",
       "time": "2026-08-11 00:53:09",
@@ -143874,28 +143882,6 @@
         "國際"
       ],
       "text": "特朗普社交媒體發圖文：特朗普是正確的。"
-    },
-    {
-      "id": "mkt:019fc88f-3b26-7aab-8f5c-ab6d35fe1318",
-      "time": "2026-08-04 00:57:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's ambassador to the United States, Olga Stefanishyna, was dismissed by President Zelenskiy."
-    },
-    {
-      "id": "mkt:019fc88c-f4ce-7aab-8f5c-a407772bd745",
-      "time": "2026-08-04 00:55:08",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "【Amazon cloud head: AI demand boosting inference compute; 2026 capex seen at $220bn】Amazon Web Services CEO Matt Garman said customers are shifting from using AWS to train large AI models toward embedding those models in their own workflows, driving increased demand for inference compute even as some companies continue to run large training clusters. He called the AI business potential \"very large\" and said Amazon will keep raising capital spending to meet demand. Amazon last week said it now expects 2026 capital expenditure of $220bn, up from a prior $200bn forecast; the higher plan reflects rising prices for storage chips and other data‑center components."
     }
   ]
 }
