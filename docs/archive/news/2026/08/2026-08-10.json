@@ -1,7 +1,62 @@
 {
   "date": "2026-08-10",
-  "count": 2475,
+  "count": 2481,
   "items": [
+    {
+      "id": "5034406",
+      "time": "2026-08-10 23:22:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國上週戰略石油儲備（SPR）原油庫存減少約610萬桶，至2.987億桶，為1983年以來的最低水平。"
+    },
+    {
+      "id": "5034405",
+      "time": "2026-08-10 23:22:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖將任命數名高階軍事指揮官】據伊朗最高領袖辦公室10日訊息，伊朗最高領袖穆傑塔巴將簽署對數名伊朗武裝部隊高階指揮官的任命令。（新華社）"
+    },
+    {
+      "id": "mkt:019fec44-67dd-7aab-8fdc-c68fcf62918a",
+      "time": "2026-08-10 23:22:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 6.1 mln barrels last week to 298.7 mln barrels, the lowest level since 1983."
+    },
+    {
+      "id": "mkt:019fec43-cbaf-7aab-8fdc-bad3fa520778",
+      "time": "2026-08-10 23:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index slips as capesize rates soften】The Baltic Dry Index (BDI) fell 6 points, or 0.19%, to 3,083, retreating from a June 3 peak as weaker capesize rates offset panamax gains. The capesize index (BCI) dropped 23 points, or 0.5%, to 5,105; capesize daily earnings fell $212 to $42,797. The panamax index (BPI) rose 8 points, or 0.4%, to 2,306, marking the highest level since June 2; panamax daily earnings gained $71 to $20,755. The supramax index (BSI) was steady at 1,603. The handysize index (BHSI) slipped 2 points to 872."
+    },
+    {
+      "id": "mkt:019fec43-3039-7aab-8fdc-b48380396624",
+      "time": "2026-08-10 23:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. actor Leonardo DiCaprio urged Chilean authorities to protect a critically endangered frog from a proposed power transmission project, bringing Hollywood pressure into the environmental dispute."
+    },
+    {
+      "id": "5034404",
+      "time": "2026-08-10 23:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗學生通訊社(ISNA)：大部分船舶已取道霍爾木茲海峽的伊朗航線通行。"
+    },
     {
       "id": "mkt:019fec40-f15e-7aab-8fdc-af8ee57c70ce",
       "time": "2026-08-10 23:18:26",

@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-10 23:20:57",
-  "count": 15849,
+  "updated": "2026-08-10 23:25:02",
+  "count": 15850,
   "items": [
+    {
+      "id": "5034406",
+      "time": "2026-08-10 23:22:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國上週戰略石油儲備（SPR）原油庫存減少約610萬桶，至2.987億桶，為1983年以來的最低水平。"
+    },
+    {
+      "id": "5034405",
+      "time": "2026-08-10 23:22:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖將任命數名高階軍事指揮官】據伊朗最高領袖辦公室10日訊息，伊朗最高領袖穆傑塔巴將簽署對數名伊朗武裝部隊高階指揮官的任命令。（新華社）"
+    },
+    {
+      "id": "mkt:019fec44-67dd-7aab-8fdc-c68fcf62918a",
+      "time": "2026-08-10 23:22:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 6.1 mln barrels last week to 298.7 mln barrels, the lowest level since 1983."
+    },
+    {
+      "id": "mkt:019fec43-cbaf-7aab-8fdc-bad3fa520778",
+      "time": "2026-08-10 23:21:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index slips as capesize rates soften】The Baltic Dry Index (BDI) fell 6 points, or 0.19%, to 3,083, retreating from a June 3 peak as weaker capesize rates offset panamax gains. The capesize index (BCI) dropped 23 points, or 0.5%, to 5,105; capesize daily earnings fell $212 to $42,797. The panamax index (BPI) rose 8 points, or 0.4%, to 2,306, marking the highest level since June 2; panamax daily earnings gained $71 to $20,755. The supramax index (BSI) was steady at 1,603. The handysize index (BHSI) slipped 2 points to 872."
+    },
+    {
+      "id": "mkt:019fec43-3039-7aab-8fdc-b48380396624",
+      "time": "2026-08-10 23:20:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. actor Leonardo DiCaprio urged Chilean authorities to protect a critically endangered frog from a proposed power transmission project, bringing Hollywood pressure into the environmental dispute."
+    },
+    {
+      "id": "5034404",
+      "time": "2026-08-10 23:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗學生通訊社(ISNA)：大部分船舶已取道霍爾木茲海峽的伊朗航線通行。"
+    },
     {
       "id": "mkt:019fec40-f15e-7aab-8fdc-af8ee57c70ce",
       "time": "2026-08-10 23:18:26",
@@ -144219,50 +144274,6 @@
         "其他"
       ],
       "text": "【中國科學家首獲威廉·諾德伯格獎章】當地時間8月3日，在義大利佛羅倫薩舉辦的第46屆國際空間研究委員會（COSPAR）科學大會上，中國氣象局王勁松研究員榮獲威廉·諾德伯格獎章。威廉·諾德伯格獎章用以表彰獲獎者在空間科學應用領域的突出成就與卓越貢獻。自1988年獎章設立以來，王勁松是首位獲此殊榮的中國科學家，並同步獲得一顆小行星命名。此次獲獎，表明我國空間科學與應用領域研究成果獲得國際學術界高度認可。（央視新聞）"
-    },
-    {
-      "id": "5022995",
-      "time": "2026-08-03 23:24:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "Hugging Face執行長克萊姆·德朗格：OpenAI遭駭客入侵事件本可以避免。"
-    },
-    {
-      "id": "te:markets:572249",
-      "time": "2026-08-03 23:24:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Monday — The FTSE 100 edged lower on Monday, pressured by a 9% decline in AstraZeneca shares, after reports that the British drugmaker had held merger discussions with US-based Bristol Myers Squibb. Analysts questioned the potential deal, arguing that it lacks both strategic and financial justification. Energy stocks also weighed on the index after Brent crude slipped below $84 per barrel amid optimism that negotiations could help restore shipping through the Strait of Hormuz, easing concerns over Middle East supply disruptions. BP shares declined more than 0.5% in response. In contrast, homebuilders outperformed, with Barratt Redrow rising over 3% and Persimmon gaining more than 2.5%, as investors pared expectations for further Bank of England interest rate hikes. Banking stocks also advanced, while Rolls-Royce added around 2%. Meanwhile, final data showed UK manufacturing activity continued to expand in July, although the pace of growth slowed despite stronger new orders."
-    },
-    {
-      "id": "5022994",
-      "time": "2026-08-03 23:23:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果公司就英國要求設定“後門”的命令提起新的法律挑戰】蘋果公司已針對英國政府要求設定“後門”以訪問加密使用者資料的計劃提起新的法律訴訟。此案涉及英國政府訪問英國使用者的加密雲端資料備份。"
-    },
-    {
-      "id": "5022993",
-      "time": "2026-08-03 23:22:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【城堡證券：預計晶片融資未來三年內將迎來5000億美元債務狂潮】信貸市場可能已經對資料中心創紀錄的借貸感到滿足，但科技公司尚未止步。城堡證券預測，到2028年公共和私人市場將再發行超過5000億美元的債務，用於資助人工智慧（AI）園區內的晶片。該公司投資級交易臺主管分析師Jeff Eason預計，大部分發行可能是較短期的——大約三到五年——以匹配晶片的壽命，其中一部分可能以 144A 私募發行的形式發行；這有可能成為投資級信貸中最大的新領域之一，供應的湧入可能會重塑投資級信貸投資組合。"
-    },
-    {
-      "id": "5022992",
-      "time": "2026-08-03 23:21:12",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根士丹利：日元走勢預示歐元或將成為主要套利融資貨幣】摩根士丹利表示，日元潛在進一步干預風險，或將促使投資者不再將日元作為套利交易融資貨幣，轉而選擇歐元與瑞郎。策略師大衛·亞當斯、安德魯·沃特魯斯、莫莉·尼科林等人撰文稱：“倘若干預風險短期內持續令投資者趨於謹慎，市場或將撤出日元融資頭寸，轉而尋找新的融資貨幣。”分析師指出：“日元干預預期意味著歐元、瑞郎有望成為首選新型融資貨幣。考慮到地緣衝突會催生避險買盤，做空瑞郎存在突發風險，歐元的受歡迎程度或將更高。”"
     }
   ]
 }
