@@ -1,7 +1,182 @@
 {
   "date": "2026-08-10",
-  "count": 425,
+  "count": 445,
   "items": [
+    {
+      "id": "5032936",
+      "time": "2026-08-10 09:31:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽省防災減災救災委員會啟動四級救災應急響應】據安徽省應急管理廳訊息，今年第13號颱風“白海豚”對安徽省產生較大風雨影響，根據颱風災害發展趨勢，依據《安徽省自然災害救助應急預案》規定，省防災減災救災委員會於8月10日9時對六安、宣城、池州、安慶、黃山市啟動安徽省四級救災應急響應。"
+    },
+    {
+      "id": "mkt:019fe94b-a49d-7aab-8fce-3478cb909d9a",
+      "time": "2026-08-10 09:31:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China bond futures open — morning session】China government bond futures opened in the morning session: 2-year (TS) main contract down 0.01%, 5-year (TF) down 0.02%, 10-year (T) down 0.02%, 30-year (TL) down 0.03%."
+    },
+    {
+      "id": "mkt:019fe94b-a308-7aab-8fce-286bef983247",
+      "time": "2026-08-10 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open morning session】CSI 300 index futures (IF) main contract up 0.45 pct; SSE 50 futures (IH) main contract up 0.47 pct; CSI 500 futures (IC) main contract up 0.66 pct; CSI 1000 futures (IM) main contract up 0.61 pct."
+    },
+    {
+      "id": "5032935",
+      "time": "2026-08-10 09:31:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市開盤下跌0.3%，至6273.62點。"
+    },
+    {
+      "id": "5032934",
+      "time": "2026-08-10 09:31:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本擬引入前沿AI強化主動網路防禦】一位日本政府高階官員表示，面對美國初創公司 Anthropic 的 Claude Mythos 等先進人工智慧模型可能帶來的攻擊風險，日本正考慮在其“主動網路防禦”政策中引入前沿的人工智慧系統。隨著人們對具備高能力安全漏洞探測功能的 AI 模型發動網路攻擊的擔憂日益加劇，日本國家網路總監Yoichi Iida表示，日本使用尖端 AI 技術是“不可避免的”。"
+    },
+    {
+      "id": "5032933",
+      "time": "2026-08-10 09:30:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本將於8月18日發行2.5萬億日元5年期國債。"
+    },
+    {
+      "id": "te:markets:573962",
+      "time": "2026-08-10 09:30:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "SSE Commodity Index Hits 12-week High — SSE Commodity Index increased to 7558.00 Index Points, the highest since May 2026. Over the past 4 weeks, SSE Consume Commodity Index gained 10.17%, and in the last 12 months, it decreased 8.3%."
+    },
+    {
+      "id": "mkt:019fe94a-da5b-7aab-8fce-27a47b7b8485",
+      "time": "2026-08-10 09:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver dipped to $63/oz, down 0.84% intraday."
+    },
+    {
+      "id": "5032932",
+      "time": "2026-08-10 09:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4320美元/盎司，日內跌0.55%。"
+    },
+    {
+      "id": "5032931",
+      "time": "2026-08-10 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.85%， 滬深300指數期貨連續漲0.45%， 中證500指數期貨連續漲0.42%， 上證50指數期貨連續漲0.18%。"
+    },
+    {
+      "id": "5032930",
+      "time": "2026-08-10 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.03%， 10年期主力合約基本持平， 5年期主力合約跌0.01%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5032929",
+      "time": "2026-08-10 09:29:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4380美元/盎司，日內跌0.49%。"
+    },
+    {
+      "id": "5032928",
+      "time": "2026-08-10 09:29:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "關西電力：事件原因仍在調查中。"
+    },
+    {
+      "id": "5032927",
+      "time": "2026-08-10 09:29:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥板塊高開，百花醫藥5連板】創新藥板塊高開，百花醫藥5連板，哈藥股份2連板，百普賽斯漲超18%，泓博醫藥、哈三聯、海正藥業、譽衡藥業、凱萊英跟漲。"
+    },
+    {
+      "id": "5032926",
+      "time": "2026-08-10 09:29:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交通運輸部檢查指導組在廣西檢查時發現，部分企業安全生產主體責任落實存在短板】交通運輸部檢查指導組赴廣西壯族自治區南寧、貴港、來賓、玉林、柳州、欽州、北海等7個地級市22個縣（市、區），開展汛期暑期交通運輸安全生產重大風險隱患排查整治指導工作，共發現問題隱患93項，其中突出問題4項。檢查指導組在博白縣致遠運輸有限公司檢查時發現，動態監控平臺顯示，該企業普貨運輸車輛在2026年1月1日至6月24日期間存在33起超速行為。其中，2026年2月23日該車輛因超速被公安交管部門處罰，但運輸過程中企業未及時提醒糾正、運輸行為結束後一個月內未嚴肅處理。此外，2025年以來該車輛被公安交管部門處罰13起，其中超速2起。檢查指導組還發現，359國道、304省道存在邊溝堵塞無法排水等問題。"
+    },
+    {
+      "id": "5032925",
+      "time": "2026-08-10 09:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "關西電力公司大飯核電站3號核反應堆已自動停機。"
+    },
+    {
+      "id": "5032924",
+      "time": "2026-08-10 09:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "關西電力：周邊環境未受到放射性影響。"
+    },
+    {
+      "id": "te:markets:573961",
+      "time": "2026-08-10 09:28:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises for 4th Session — US heating oil futures rose to around $3.96 per gallon on Monday, gaining for a fourth consecutive session, driven by uncertainty over the reopening of the Strait of Hormuz. Iran said a deal with Oman to establish new shipping lanes was nearing completion but stressed that the waterway would only reopen if Washington met additional conditions. Tehran also said it was not engaged in direct negotiations with the US and would not initiate talks while Washington continues to breach an interim deal signed in June, despite US claims that an agreement is near. Supply concerns were further heightened after Iran-aligned Houthis said they attacked Saudi Aramco’s Jazan refinery. Meanwhile, Russia and Ukraine have stepped up attacks on each other, raising the risk of further strikes on energy facilities after Ukraine recently carried out a long-range drone attack on a major Russian oil refinery. Against this backdrop, Moscow extended its gasoline and diesel export ban through January 2027."
+    },
+    {
+      "id": "te:markets:573960",
+      "time": "2026-08-10 09:28:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Rises Amid Uncertainty Over Hormuz — European natural gas prices rose above €56 per MWh on Monday, recouping part of the losses from the previous week amid uncertainty over the normalization of shipping through the Strait of Hormuz. Iran and Oman remained short of a final agreement over the weekend after Tehran renewed a lengthy list of demands for Washington as conditions for a full reopening of the strategic waterway, indicating any immediate relief for gas supplies could remain limited. Although Iran indicated that a deal was close, it cautioned that this did not mean the strait would reopen imminently and continued to reject direct negotiations with the US. With a deal still elusive, disruptions to LNG shipments through the key waterway are likely to persist, delaying cargoes from major exporters such as Qatar. The ongoing delays have kept global supply balances tight, intensifying competition with Asian buyers for available cargoes and hampering Europe's winter stockpiling efforts."
+    },
     {
       "id": "mkt:019fe948-6b62-7aab-8fce-1c6ec3a20421",
       "time": "2026-08-10 09:27:45",
@@ -688,6 +863,15 @@
         "其他"
       ],
       "text": "臺灣證交所加權股價指數開高0.7%報44,540.71."
+    },
+    {
+      "id": "mkt:019fe94c-290e-7aab-8fce-3fd2cb3e44b8",
+      "time": "2026-08-10 09:00:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the morning open, China’s main futures contracts were mixed. Soda ash and ethylene glycol (EG) gained over 3%, fuel oil rose more than 2%, and Shanghai silver, SC crude and coking coal rallied around 2%. Decliners: monthly-average PVC fell over 2%; Shanghai tin, Shanghai zinc, lithium carbonate, Europe-route container freight and international copper dropped more than 1%."
     },
     {
       "id": "5032864",
