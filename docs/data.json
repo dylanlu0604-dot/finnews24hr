@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-10 23:49:40",
-  "count": 15832,
+  "updated": "2026-08-10 23:53:45",
+  "count": 15825,
   "items": [
+    {
+      "id": "5034425",
+      "time": "2026-08-10 23:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海關與邊境保護局將航空貨物預申報篩查期限延長至 2027 年 5 月 1 日。"
+    },
     {
       "id": "te:markets:574174",
       "time": "2026-08-10 23:48:10",
@@ -144010,90 +144018,6 @@
         "其他"
       ],
       "text": "【喀麥隆高官：喀中合作助力培養喀本土基建人才】喀麥隆高等教育國務部長雅克·法姆·恩東戈3日在雅溫得說，中國企業不僅幫助喀麥隆建設基礎設施，還為喀麥隆培養高水平工程技術人才提供重要支援，喀中雙方的合作將助力喀方逐步實現基礎設施建設領域技術自主。（新華社）"
-    },
-    {
-      "id": "te:markets:572254",
-      "time": "2026-08-03 23:53:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises on Middle East Peace Optimism — The CAC 40 rose 1.2% to close at 8,614 on Monday as investors welcomed renewed hopes for diplomacy after US President Donald Trump announced that talks with Iran would resume following his decision to cancel a planned military strike. Easing geopolitical tensions pushed oil prices lower and reduced expectations of further ECB tightening, although a September rate hike remains widely anticipated. Sentiment was also supported by a fresh round of corporate earnings. Luxury stocks advanced, with LVMH (+2.5%), Hermès (+1.9%), and Kering (+1.5%) gaining after Kering reported 1% first-half revenue growth as Gucci's sales decline moderated. Industrial stocks also outperformed, led by Schneider Electric, Airbus (+2.9%), and Safran (+3.8%), following Airbus' strong first-half results and progress in resolving its Pratt & Whitney dispute."
-    },
-    {
-      "id": "mkt:019fc854-2c87-7aab-8f5b-d97f84ca8330",
-      "time": "2026-08-03 23:53:07",
-      "tags": [
-        "MKT News",
-        "DELL.N",
-        "Impact bullish"
-      ],
-      "text": "Dell (DELL.N): new investors view business scaling as an investment opportunity."
-    },
-    {
-      "id": "mkt:019fc853-c797-7aab-8f5b-d4d7fde0c8f5",
-      "time": "2026-08-03 23:52:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Nikkei reports Suzuki plans to price a lightweight mini electric vehicle in the UK below £20,000."
-    },
-    {
-      "id": "5023032",
-      "time": "2026-08-03 23:52:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國鈴木汽車輕型迷你電動車售價預計低於2萬英鎊。"
-    },
-    {
-      "id": "mkt:019fc853-55f0-7aab-8f5b-cac2fe81b489",
-      "time": "2026-08-03 23:52:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Shipping data show Venezuela's oil exports to India fell to about 178,000 barrels per day in July."
-    },
-    {
-      "id": "5023031",
-      "time": "2026-08-03 23:51:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "鈴木汽車最早將於2027年向歐洲出口電動微型車。"
-    },
-    {
-      "id": "5023030",
-      "time": "2026-08-03 23:50:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "全新《蜘蛛俠》影片創下好萊塢影史最高首映票房紀錄。"
-    },
-    {
-      "id": "mkt:019fc851-5e63-7aab-8f5b-c2d87ee73bf2",
-      "time": "2026-08-03 23:50:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Wall Street (US)",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Shipping data show Venezuela's crude exports fell slightly in July to 1.16 mln bpd; shipments to the US rose to about 786,000 bpd while shipments to Europe fell to roughly 82,200 bpd."
     }
   ]
 }
