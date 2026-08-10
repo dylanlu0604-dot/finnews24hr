@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-11 06:15:12",
-  "count": 15808,
+  "updated": "2026-08-11 06:19:03",
+  "count": 15811,
   "items": [
+    {
+      "id": "5034626",
+      "time": "2026-08-11 06:18:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：無人機襲擊扎維耶石油調合廠，未造成設施損毀及人員傷亡。"
+    },
+    {
+      "id": "5034625",
+      "time": "2026-08-11 06:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國外交部長：敦促伊朗與地區國家及美國開展建設性談判，以推動結束衝突；霍爾木茲海峽必須無條件開放，保障所有船隻自由、安全通行。"
+    },
+    {
+      "id": "te:markets:574205",
+      "time": "2026-08-11 06:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Japanese Yen Depreciates by 0.97% — Top currency losers are Japanese Yen (-0.97%), South Korean Won (-0.72%), Swiss Franc (-0.28%) and Euro (-0.14%). Gains are led by Dollar Index (0.27%), Norwegian Krone (0.26%) and British Pound (0.11%)."
+    },
+    {
+      "id": "5034624",
+      "time": "2026-08-11 06:15:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保險資管公司群體畫像新出 八千餘人管理資金超38萬億】近日，記者獲悉的行業調研資料顯示，截至2025年末，36家保險資管公司管理總規模為38.42萬億元，較2024年末增長5.12萬億元，增幅15.38%（有同比資料的34家機構，管理規模同比增長11.09%）。其中，管理保險業外資金為6.98萬億元，佔比約18.21%。在業外資金中，銀行資金3.48萬億元，佔比9.07%；養老金（含基本養老金、企業年金、職業年金）合計2.8萬億元，佔比7.31%；其他資金為0.7萬億元。 證券時報記者根據公開資訊梳理發現，2025年末，管理規模達到萬億元以上的保險資管公司增至11家，包括國壽資產、平安資管、泰康資產、太保資產、人保資產、新華資產、太平資產、長江養老、華夏久盈、華泰資產和大家資產。（證券時報）"
+    },
+    {
+      "id": "5034623",
+      "time": "2026-08-11 06:14:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【存款利率最高漲超30個基點 多家中小銀行逆勢而“上”情非得已】8月以來，湖北、廣東等地多家中小銀行紛紛上調存款利率，引發市場關注。 在宏觀市場利率整體下行、銀行業持續壓降負債成本的背景下，中小銀行針對存款利率“反其道而行之”的做法，實屬不多見。 業內人士認為，此舉具有明顯的階段性攬儲特徵，不具備普適性，且與近期部分國有大行集體重啟五年期大額存單並無直接關聯。（證券時報）"
+    },
     {
       "id": "5034622",
       "time": "2026-08-11 06:11:01",
@@ -143902,31 +143945,6 @@
         "國際"
       ],
       "text": "【Coatue對沖基金暴跌8%，創一年多來最大單月跌幅】Coatue Management旗下的對沖基金在7月份暴跌8.3%，成為最新一家因人工智慧（AI）股票大幅拋售而遭遇劇烈震盪的專注科技領域的資金管理公司。據知情人士透露，該基金年初至今的回報率仍為14.3%。此次虧損是Philippe Laffont執掌的該基金一年多來的最差月度表現。截至3月31日，該公司在美國市場的四大重倉多頭頭寸在7月份均遭遇了兩位數的跌幅。"
-    },
-    {
-      "id": "mkt:019fc9b2-621c-7aab-8f5f-dc41025ee939",
-      "time": "2026-08-04 06:15:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "Amazon (AMZN.O) founder Jeff Bezos sold $4.07 billion of stock."
-    },
-    {
-      "id": "te:markets:572283",
-      "time": "2026-08-04 06:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Appreciates by 0.95% — Top currency gainers are South Korean Won (0.95%) and Dollar Index (0.08%). Biggest losers are Norwegian Krone (-0.68%), British Pound (-0.40%), Swiss Franc (-0.36%) and Euro (-0.15%). Meanwhile Japanese Yen was little changed."
     }
   ]
 }
