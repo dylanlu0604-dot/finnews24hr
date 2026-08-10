@@ -1,7 +1,110 @@
 {
   "date": "2026-08-11",
-  "count": 47,
+  "count": 59,
   "items": [
+    {
+      "id": "mkt:019fec97-a6cb-7aab-8fde-222df297555e",
+      "time": "2026-08-11 00:53:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Plant operator said Hungary's Paks nuclear power plant has begun increasing output from Unit 2; Unit 2 is expected to reach full power at 20:00 GMT."
+    },
+    {
+      "id": "mkt:019fec96-f59c-7aab-8fde-1e036a29eb4f",
+      "time": "2026-08-11 00:52:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said its new Premium Seat offers a usage allowance five times that of the standard tier, removes the 5-hour usage cap and introduces a predictable weekly usage-quota reset."
+    },
+    {
+      "id": "mkt:019fec96-e6c2-7aab-8fde-100c8d9f2885",
+      "time": "2026-08-11 00:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI is offering a limited-time promotion: eligible workspace administrators will receive a $100 account credit for each additional Premium Seat added, capped at five seats (maximum $500)."
+    },
+    {
+      "id": "5034458",
+      "time": "2026-08-11 00:52:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：新版高階席位使用許可權較標準版提升五倍，無五小時使用上限，每週使用額度按固定週期重置。"
+    },
+    {
+      "id": "5034457",
+      "time": "2026-08-11 00:51:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：限時活動期間，符合條件的工作區所有者每新增一個高階席位，即可獲得價值 100 美元的額度，新增五個席位最高可獲 500 美元。"
+    },
+    {
+      "id": "mkt:019fec96-431d-7aab-8fde-0d65bad95e4f",
+      "time": "2026-08-11 00:51:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI prices Premium Seats at $125 per user per month billed monthly, or $100 per user per month billed annually."
+    },
+    {
+      "id": "mkt:019fec96-10a4-7aab-8fde-015c47eba1d4",
+      "time": "2026-08-11 00:51:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI launches Premium Seats for ChatGPT Business."
+    },
+    {
+      "id": "5034456",
+      "time": "2026-08-11 00:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：高階席位每位使用者每月 125 美元，按年計費則每位使用者每月 100 美元。"
+    },
+    {
+      "id": "mkt:019fec95-9550-7aab-8fdd-f8be8896a9de",
+      "time": "2026-08-11 00:50:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.L"
+      ],
+      "text": "Sources said BP will sell a 20% stake in the Cocuina gas field in Venezuela to the National Gas Company of Trinidad and Tobago. Around 70% of the gas is planned for LNG production, with the remainder for petrochemicals. A final investment decision could be taken before year-end."
+    },
+    {
+      "id": "5034455",
+      "time": "2026-08-11 00:50:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出 ChatGPT 企業版高階席位。"
+    },
+    {
+      "id": "5034454",
+      "time": "2026-08-11 00:50:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士：英國石油公司擬將其位於委內瑞拉的科庫伊納氣田 20% 的股份出售給特立尼達國家天然氣公司。70% 的天然氣將用於生產液化天然氣，剩餘部分供給石化產業。最終投資決定或將於年底前作出。"
+    },
+    {
+      "id": "mkt:019fec94-5f7f-7aab-8fdd-f5d1d178956b",
+      "time": "2026-08-11 00:49:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Supreme Court has barred the anti-war Yabloko party from participating in parliamentary elections."
+    },
     {
       "id": "mkt:019fec94-0d4b-7aab-8fdd-eee8fe272820",
       "time": "2026-08-11 00:49:13",
