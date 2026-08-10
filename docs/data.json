@@ -1,7 +1,150 @@
 {
-  "updated": "2026-08-10 18:54:22",
-  "count": 15904,
+  "updated": "2026-08-10 18:58:11",
+  "count": 15907,
   "items": [
+    {
+      "id": "5033950",
+      "time": "2026-08-10 18:57:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪鵬科技：定增申請獲中國證監會同意註冊批覆】豪鵬科技公告，公司於2026年8月10日收到中國證監會出具的《關於同意深圳市豪鵬科技股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，批覆自同意註冊之日起12個月內有效。"
+    },
+    {
+      "id": "5033949",
+      "time": "2026-08-10 18:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益生股份：2026年7月白羽肉雞苗銷量5543.03萬隻，銷售收入2.14億元同比增112.79%】益生股份公告，2026年7月白羽肉雞苗銷售數量5543.03萬隻，銷售收入2.14億元，同比變動分別為-2.69%、112.79%，環比變動分別為-1.99%、4.54%；益生909小型白羽肉雞苗銷售數量786.96萬隻，銷售收入1490.7萬元，同比變動分別為53.73%、194.72%；種豬銷售數量6091頭，銷售收入1558.72萬元，同比變動分別為-25.46%、-19.98%。"
+    },
+    {
+      "id": "5033948",
+      "time": "2026-08-10 18:56:50",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【立訊精密：8月10日行使超額配股權發行1254.19萬股H股】立訊精密公告稱，2026年8月10日，公司根據部分行使超額配股許可權，發行及配發1254.19萬股H股，每股發行價63.28港元，佔發行前現有已發行股份（不包括庫存股份）數目百分比為3.27%。發行後，公司已發行股份（不包括庫存股份）總數由3.83億股增至3.96億股。"
+    },
+    {
+      "id": "5033947",
+      "time": "2026-08-10 18:56:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒙特利爾銀行將愛彼迎目標價從146美元上調至165美元。"
+    },
+    {
+      "id": "5033946",
+      "time": "2026-08-10 18:56:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉戎技術：回覆發行股份購買資產並募資稽核問詢函】嘉戎技術公告稱，公司擬發行股份購買廈門溥玉等19名交易對方持有的杭州藍然技術股份有限公司100%股份，並向廈門溥玉發行股份募集配套資金。7月3日，公司收到深交所稽核問詢函，會同中介機構進行核查、分析和研究後已完成回覆。公司對相關報告書草案及其摘要進行了修訂。本次交易尚需透過深交所稽核並獲證監會同意註冊批覆，能否透過及時間存在不確定性。"
+    },
+    {
+      "id": "5033945",
+      "time": "2026-08-10 18:55:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世聯行：持股5%以上股東擬協議轉讓5.02%股份】世聯行公告稱，持股5%以上股東世聯中國與前海誠域於2026年8月9日簽署協議，擬以2.08元/股的價格，透過協議轉讓方式將1億股（佔總股本5.02%）無限售流通股轉給前海誠域，總價款2.08億元。本次轉讓不觸及要約收購，不會導致控股權變化。該事項尚需深交所稽核及中登公司辦理過戶，結果存在不確定性。"
+    },
+    {
+      "id": "mkt:019feb50-6fb4-7aab-8fd7-c338c7755e2e",
+      "time": "2026-08-10 18:55:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "【Zuckerberg outlines AI vision: resume open-weight releases, seek earlier govt cooperation, $1bn data-center community fund】Meta will resume publishing open-weight models and supports allowing model distillation, reversing a pause after last year’s AI reorganization, Zuckerberg says. He proposes closer, proactive cooperation between frontier AI labs and government rather than a fixed 30-day voluntary review window, and urges sharing intermediate training checkpoints with regulators during model training for assessment. Meta plans a $1 billion Future Is For Everyone Fund to compensate communities hosting its data centers and says sustainable infrastructure must deliver local benefits. Internally, Meta will give its board authority to approve safety standards and decide whether new models meet those standards, and Zuckerberg calls for similar board-level and industry-wide governance across the sector. He reiterates a vision of personal AI agents controlled by users—users, not developers, should set an agent’s values—and advocates a fully private mode where Meta or other providers cannot access or grant third-party access to user data."
+    },
+    {
+      "id": "mkt:019feb50-4ab1-7aab-8fd7-bbcc5107f85a",
+      "time": "2026-08-10 18:55:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Changsha lists price-capped land parcel; official responds】Changsha has listed a price-capped residential land parcel on its online land-trading system, explicitly capping sale price for bare-shell units at 6,200 yuan/sq m — the first price-capped plot since September 2023. Officials said the site is an affordable-housing parcel and the city has no immediate plan to roll out more similar price-capped plots. Changsha said it is seeking to bolster developer confidence to buy land while stabilizing housing-price expectations to keep the property market steady."
+    },
+    {
+      "id": "5033943",
+      "time": "2026-08-10 18:55:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【清水源：2026年上半年淨利潤虧損175.98萬元】清水源公告，2026年上半年營業收入4.93億元，同比增長18.37%。歸屬於上市公司股東的淨利潤虧損175.98萬元，上年同期虧損2576.11萬元。歸屬於上市公司股東的扣除非經常性損益的淨利潤虧損297.17萬元。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "te:economy:574133",
+      "time": "2026-08-10 18:54:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 11-week High — Canada 10 Year Government Bond Yield increased to 3.67%, the highest since May 2026. Over the past 4 weeks, Canada 10Y Bond Yield gained 10.50 basis points, and in the last 12 months, it increased 27.40 basis points."
+    },
+    {
+      "id": "5033942",
+      "time": "2026-08-10 18:54:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破85美元/桶，日內漲1.88%。"
+    },
+    {
+      "id": "5033941",
+      "time": "2026-08-10 18:54:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST美晨：推進出售賽石園林100%股權 往來款方案待確定】ST美晨公告稱，公司擬非公開協議轉讓方式出售所持賽石園林100%股權，交易預計構成重大資產重組，但不構成重組上市。截至目前，獨立財務顧問、律所、會計師事務所和評估機構等相關工作正按既定步驟推進；已初步形成賽石園林與上市公司歷史大額往來款解決方案，細節正與多方同步核驗、測算、推動，最終方案實施尚存不確定性。交易各方未簽署正式協議，具體方案尚需提交董事會、股東會審議，能否獲批不確定。"
+    },
+    {
+      "id": "5033940",
+      "time": "2026-08-10 18:54:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧拓電子：擬以1000萬元-2000萬元回購公司股份】奧拓電子公告，擬使用自有資金以集中競價交易方式回購公司股份，回購資金總額不低於1000萬元且不超過2000萬元，回購價格不超過8元/股。回購股份將用於實施員工持股計劃或股權激勵，若未能在回購完成之後三年內實施完畢，未使用部分將依法予以登出。回購期限為自董事會審議透過本次回購方案之日起不超過12個月。"
+    },
+    {
+      "id": "5033939",
+      "time": "2026-08-10 18:54:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巨力索具：補繳稅款及滯納金合計702.32萬元】巨力索具公告，公司近期根據稅務機關要求對涉稅事項開展自查，需補繳稅費677.85萬元、滯納金24.47萬元，稅費及滯納金合計702.32萬元。本次補繳稅款事項不涉及行政處罰。上述補繳稅款及滯納金將計入公司2026年度當期損益，對公司2026年度歸屬於上市公司股東的淨利潤的具體影響以2026年度經審計的財務報表為準。"
+    },
+    {
+      "id": "5033938",
+      "time": "2026-08-10 18:54:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金銀河：持股5%以上股東張啟發解除質押1012.31萬股】金銀河公告稱，近日，公司持股5%以上股東張啟發解除質押1012.31萬股，佔其所持股份比例23.50%，佔公司總股本比例4.48%，質權人為國泰海通證券股份有限公司，解除日期為2026年8月7日。截至公告披露日，張啟發累計質押股份620.23萬股，佔其所持股份比例14.40%，佔公司總股本比例2.74%。"
+    },
+    {
+      "id": "mkt:019feb4f-336e-7aab-8fd7-b3fec27c222e",
+      "time": "2026-08-10 18:54:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market sources: EU imposes anti-dumping duties on imports of purified terephthalic acid (PTA) originating in South Korea and Mexico."
+    },
     {
       "id": "5033937",
       "time": "2026-08-10 18:53:08",
@@ -144675,123 +144818,6 @@
         "公司"
       ],
       "text": "【駭客攻破比特幣“最安全保險箱” 持續洗劫使用者資產】駭客發現一款比特幣“冷錢包”軟體存在漏洞。這類錢包一直被認為是存放加密貨幣最安全的方式之一，但攻擊者正利用這一漏洞持續盜走價值數千萬美元的加密貨幣。加拿大公司Coinkite Inc.上週末通知Coldcard硬體錢包使用者，保護其比特幣的金鑰生成機制存在安全漏洞，部分錢包已受到影響。Galaxy Research的資料顯示，截至週一，攻擊者已從約5000個錢包中轉走超過1755枚比特幣，按當時市值計算約合1.1億美元。Coldcard是一款硬體錢包，使用者可藉助該裝置將比特幣存放在所謂的“冷錢包”中。由於冷錢包與網際網路隔離，長期以來一直被認為是儲存加密貨幣最安全的方式。"
-    },
-    {
-      "id": "5022476",
-      "time": "2026-08-03 18:58:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本自民黨擬推進食品消費稅實質歸零 儘管資金來源引發財政憂慮】日本執政黨自民黨勢將推進暫停對食品徵收消費稅的計劃，儘管一位前首相及其他官員因擔憂減稅措施的資金來源而表示反對。自民黨稅制調查會會長小野寺五典週一在與黨內議員開會後表示：“目前許多人正承受生活成本上漲的壓力。我們打算按照選舉期間作出的承諾，設計一套實際上將消費稅率降至零的制度。”部分自民黨人士明確反對這一計劃，理由是擔憂日本財政狀況。主持會議的自民黨資深議員Shigeyuki Goto表示，在會上發言的議員中，65人贊成、9人反對，另有1人持中立立場。不過，黨內反對意見不太可能阻止減稅計劃繼續推進。"
-    },
-    {
-      "id": "5022475",
-      "time": "2026-08-03 18:57:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股盤前費城半導體走勢：整體下跌，美光與泛林領跌】經歷上週AI相關財報提振後的大幅反彈，費城半導體板塊在8月3日盤前出現小幅回撥，儲存與裝置股承壓較為明顯。截至發稿，美光科技下跌2.52%，泛林下跌2.20%，邁威爾下跌1.46%，科磊下跌1.25%，應用材料下跌1.23%，英特爾下跌1.06%，AMD下跌0.99%，臺積電下跌0.80%，英偉達下跌0.28%，博通下跌0.05%。"
-    },
-    {
-      "id": "5022474",
-      "time": "2026-08-03 18:57:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "WINGSTOP股價盤前下跌1.2%，此前BERNSTEIN將其評級下調至\"與大盤持平\"。"
-    },
-    {
-      "id": "5022473",
-      "time": "2026-08-03 18:57:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光明肉業：擬接受關聯方2億元財務資助】光明肉業公告稱，公司擬接受控股股東益民食品向控股子公司光明農牧提供的2億元財務資助，借款期限一年，利率不高於貸款市場報價利率，無需提供擔保。本次交易構成關聯交易，但可免於按關聯交易方式審議和披露，不構成重大資產重組。該事項已透過第十屆董事會第十二次會議審議，無需提交股東會。此次資助有助於緩解公司資金壓力、降低財務成本，利於長遠發展。"
-    },
-    {
-      "id": "5022472",
-      "time": "2026-08-03 18:57:02",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【三菱日聯：美國支援日本穩匯率有助於緩解美債的拋壓】三菱日聯認為，美國支援日本穩定日元的行動，應有助於限制美債的拋售，減輕對債券市場的衝擊，並最終減少所需的行動規模。“美國擔心，如果日本持續干預匯市涉及直接出售美國國債，可能會擾亂美債市場，”三菱日聯外匯分析師Lee Hardman表示，他提到日本可能使用美聯儲的外國和國際貨幣當局回購便利(FIMA)。Hardman寫道，如果聯合干預更為有效，“這可能意味著最終所需的干預規模更小，從而降低出售美債的必要性。”"
-    },
-    {
-      "id": "5022471",
-      "time": "2026-08-03 18:56:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鵬華基金債券指數基金規模接近800億元】2026年二季度，債券指數投資表現出明顯的增長勢頭。據華福證券資料，截至2026年二季度末，全市場被動指數型債券基金規模19615.86億元，較上季度顯著增長了3542.41億元，環比增幅22.04%。其中，截至2026年二季度末，鵬華基金債券指數基金規模達792.20億元，二季度規模增長112.68億元。基金二季報資料顯示，截至2026年二季度末，鵬華基金旗下共有6只債券指數基金規模突破50億元，且有3只產品規模超過100億元。（上證報）"
-    },
-    {
-      "id": "mkt:019fc744-7954-7aab-8f56-3011ebe1f55b",
-      "time": "2026-08-03 18:56:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Penghua bond index funds near CNY79.2 bln】Passive index bond funds in China rose to CNY1.962 tln at end-Q2 2026, up CNY354.24 bln QoQ (+22.04%), Huafu Securities data show. Penghua Fund’s bond index funds reached CNY79.22 bln at end-Q2 after CNY11.27 bln in quarterly growth; six Penghua bond index funds now exceed CNY5 bln and three exceed CNY10 bln in size."
-    },
-    {
-      "id": "5022470",
-      "time": "2026-08-03 18:56:14",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利策略師Wilson：盈利穩定的公司料推動美股輪動】摩根士丹利策略師認為，美國股市的領頭羊應該轉向那些盈利穩定、利潤率高、運營效率強的公司。Michael Wilson領導的團隊稱，高質量股票佔標普500指數的42%，而低質量股票僅佔28%。他認為，隨著盈利預期上調範圍擴大，標普500指數成份股中位數公司的盈利增速將達到14%。他在報告中寫道，“這一格局應有助於增強指數韌性、擴大市場參與度，並推動標普500指數在年底前升至8000點。”"
-    },
-    {
-      "id": "mkt:019fc743-ed26-7aab-8f56-2c15af24aa7f",
-      "time": "2026-08-03 18:55:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CVX.N",
-        "Impact bullish"
-      ],
-      "text": "Bernstein raises Chevron (CVX.N) PT to $209 from $204."
-    },
-    {
-      "id": "mkt:019fc743-9c14-7aab-8f56-262a3c3cc2ed",
-      "time": "2026-08-03 18:55:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ZELENSKIY convened a special meeting of the National Security and Defense Council to discuss Ukraine's winter preparedness."
-    },
-    {
-      "id": "5022469",
-      "time": "2026-08-03 18:54:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【暴雨黃色預警 交通運輸部調整強降雨防禦響應至三級】中央氣象臺8月3日18時釋出暴雨黃色預警，交通運輸部調整強降雨防禦響應至三級。中央氣象臺預計，8月3日20時至4日20時，陝西東南部、山西南部、河南西部、重慶中部和東南部、湖北西部、湖南西部、貴州東部、雲南西部和南部、西藏東南部、廣西北部和東南部、廣東西南部、海南島東部和南部以及河北中北部、天津北部、北京北部和南部等地部分地區有大到暴雨，其中，陝西東南部、重慶中部和東南部、湖北西南部、貴州東南部、雲南西部、廣西東南部沿海、海南島東北部等地部分地區有大暴雨，局地特大暴雨（250～260毫米）；上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
-    },
-    {
-      "id": "mkt:019fc742-e6b5-7aab-8f56-1a8f6ade9eab",
-      "time": "2026-08-03 18:54:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Xinghe Power Aerospace says reusable rocket to launch opportunistically in near term】Xinghe Power Aerospace said it will opportunistically carry out a commercial launch of Zhishenxing-1 (Yao-1) in the near term. Zhishenxing-1 is the company’s core commercial launch vehicle, uses LOX/kerosene propellant, is reusable and is designed for up to 25 reuses."
-    },
-    {
-      "id": "mkt:019fc742-c08c-7aab-8f56-10e2084299b4",
-      "time": "2026-08-03 18:54:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hungary expects to record a budget surplus in July despite the energy crisis."
     }
   ]
 }
