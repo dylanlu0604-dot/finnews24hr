@@ -1,7 +1,140 @@
 {
-  "updated": "2026-08-10 19:37:52",
-  "count": 15909,
+  "updated": "2026-08-10 19:41:48",
+  "count": 15907,
   "items": [
+    {
+      "id": "mkt:019feb79-dc85-7aab-8fd8-4ca3f9be9ef0",
+      "time": "2026-08-10 19:40:59",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council Director Hassett said if he were at the Fed now he would keep rates unchanged or cut."
+    },
+    {
+      "id": "5034047",
+      "time": "2026-08-10 19:40:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨漲超4.00%，現報2.771美元/百萬英熱。"
+    },
+    {
+      "id": "5034046",
+      "time": "2026-08-10 19:40:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：在資本配置方面將繼續保持審慎。"
+    },
+    {
+      "id": "5034045",
+      "time": "2026-08-10 19:40:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾擬將所得資金用於一般企業用途。"
+    },
+    {
+      "id": "mkt:019feb79-2b91-7aab-8fd8-43b7a2df8486",
+      "time": "2026-08-10 19:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tyumen region governor said multiple drones crashed into industrial facilities, sparking fires."
+    },
+    {
+      "id": "5034044",
+      "time": "2026-08-10 19:39:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯秋明州州長表示，數架無人機撞擊該州一處工業設施場地後引發火災。"
+    },
+    {
+      "id": "5034043",
+      "time": "2026-08-10 19:39:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "白宮國家經濟委員會主任哈塞特：如果我現在在美聯儲任職，我會維持利率不變或者降息。"
+    },
+    {
+      "id": "mkt:019feb78-473f-7aab-8fd8-3943a972bd98",
+      "time": "2026-08-10 19:39:16",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) announced plans to issue $15 billion of common stock."
+    },
+    {
+      "id": "5034042",
+      "time": "2026-08-10 19:39:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Meta釋出可單卡執行輕量AI模型 扎克伯格描繪“個人賦能新時代”】Meta .推出了一款新的人工智慧模型，其體量足夠輕量，可以在單臺電腦上執行，使用者能夠下載並根據自己的需求進行定製。Meta週一表示，這款名為Muse Glimmer的新模型是該公司Muse Spark 1.2模型的蒸餾版本，設計重點是提高效率、儘可能降低對計算機系統配置的要求。Muse Glimmer擁有300億個引數，規模“小到”只需要一張顯示卡就能執行。Meta稱，該模型將主要用於具有智慧體特徵的人工智慧任務，例如日程管理和檔案整理。Muse Glimmer的模型權重 —— 也就是幫助人工智慧系統作出決策的一系列數值引數 —— 將在Hugging Face上開放。Meta還計劃開放效能更強的Muse Spark某個版本的模型權重。Meta此次選擇以寬鬆許可證釋出這些人工智慧模型。Meta執行長馬克·扎克伯格週一發表了一篇內容廣泛、涉及多項政策主張的文章。他表示，“與其把超級智慧集中在少數人手中，我們更應該讓它廣泛普及，讓每個人都有能力使用和駕馭它。這有望開啟一個個人賦能的新時代，讓每個人都能利用這一強大的新能力，充分發揮自身潛能。”扎克伯格還將Meta的發展路線與美國競爭對手作了對比。他表示，其他公司“專注於為企業、政府或其他機構開發人工智慧”，而Meta致力於打造“人人都能擁有的個人超級智慧”。"
+    },
+    {
+      "id": "te:markets:574138",
+      "time": "2026-08-10 19:39:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Ticks Higher, Still Near 2-Month Low — The dollar index edged up to 99.7 on Monday, following a 0.4% decline last week that pushed the greenback to a two-month low. Traders are now awaiting this week’s CPI report for further clues on inflationary pressures, after Friday’s weaker-than-expected jobs report reduced expectations for a Fed rate hike in September. The odds of such a move currently stand at around 46%, down from approximately 64% a week ago, while the probability of the Fed holding rates is seen at about 54%. Meanwhile, traders continued to assess developments in the Middle East and ongoing talks to reopen the Strait of Hormuz, although a deal between the US and Iran appears unlikely in the near term. The dollar was mostly higher against the yen, with the Japanese currency giving back some of its intervention-driven gains while remaining well above the multi-decade low hit late last month."
+    },
+    {
+      "id": "5034041",
+      "time": "2026-08-10 19:38:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：宣佈擬進行150億美元普通股發行。"
+    },
+    {
+      "id": "5034040",
+      "time": "2026-08-10 19:38:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬裡軍方稱打死50餘名恐怖分子】當地時間8月10日，馬裡武裝部隊總參謀部釋出通告稱，8月9日凌晨，大批恐怖分子對馬裡武裝部隊第23步兵團駐地發動突襲。駐守部隊迅速展開協同反擊，接連擊退多輪進攻，最終奪回營地控制權。經初步核查，已有50餘名恐怖分子被打死。截至通告發布時，馬裡軍方仍在事發區域持續搜捕追擊逃竄的恐怖分子。（央視新聞）"
+    },
+    {
+      "id": "5034039",
+      "time": "2026-08-10 19:38:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中晟高科：擬設兩全資子公司投建新專案，合計出資5000萬元】中晟高科公告，公司擬以自有資金或自籌資金出資3000萬元在福清市江陰鎮設立全資子公司“景晟(福建)新材料有限公司”，投資建設“景晟（福建）新材料聚丙烯深加工專案”；擬以實物及現金出資2000萬元在福州市羅源縣設立全資子公司“福建晟灝新材料有限公司”，投資建設“高分子新材料專案”。兩個專案均從事改性塑膠新材料領域生產與銷售，投資總額分別為5000萬元和3500萬元，資金來源為自有資金。"
+    },
+    {
+      "id": "mkt:019feb77-26e8-7aab-8fd8-374b6e1a6c18",
+      "time": "2026-08-10 19:38:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "【40°C heat returns to Europe: rivers critical, wildfire risk high, power grids under strain】A fresh heatwave will sweep drought-hit Europe this week, raising wildfire risk, threatening crops and further depleting already record-low river levels. France’s weather service expects a high-pressure heat dome to push northern France toward 40°C on Tuesday; southern UK around 35°C; Frankfurt may reach 38°C on Friday. The heat could block moisture-bearing clouds and hinder replenishment of major waterways — the Rhine, Po and Danube — whose low flows have already disrupted navigation and power generation. Higher temperatures and continued dryness are adding stress to grids, cutting hydropower output and suppressing agricultural yields; EU Joint Research Centre models show elevated fire risk this week across the UK, Spain, France, Germany and Italy."
+    },
     {
       "id": "mkt:019feb75-3b3f-7aab-8fd8-2d58ae7df2c1",
       "time": "2026-08-10 19:35:56",
@@ -144712,149 +144845,6 @@
         "其他"
       ],
       "text": "【颱風白海豚7日後將趨向華東沿海】今年第13號颱風“白海豚”於7月27日生成，8月3日17時其中心位於距離琉球群島那霸市偏東方向約1890公里的西北太平洋洋麵上，中心附近最大風力15級（48米/秒，強颱風級），中心最低氣壓為945百帕。 預計“白海豚”將以每小時20～25公里的速度繼續向西偏北方向移動，強度變化不大，5日之前對我國無明顯影響；將於6日至7日穿過琉球群島移入東海，之後其路徑和對我國的影響不確定性較大。 氣象專家提醒，公眾需持續密切關注中央氣象臺釋出的最新預報預警資訊，提前做好颱風防禦準備。（中央氣象臺）"
-    },
-    {
-      "id": "5022577",
-      "time": "2026-08-03 19:41:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【十銓：DRAM缺貨最嚴峻時刻預計在2027年上半年】儲存模組廠十銓科技第二季營收75.88億新臺幣，環比減少16.11%，同比增66.18%，稅後淨利潤24.12億新臺幣，環比增長5.14%，同比增長21827%。十銓表示，全球AI基礎建設建置帶動大量儲存需求，主要DRAM原廠積極擴充產能，但短期仍難有效緩解供需失衡，缺貨最嚴峻的時期預期將落在2027年上半年。"
-    },
-    {
-      "id": "5022576",
-      "time": "2026-08-03 19:41:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄安全部門挫敗一起針對地方檢察院的恐襲圖謀】俄羅斯聯邦安全域性3日通報說，該局日前挫敗一起在斯塔夫羅波爾邊疆區皮亞季戈爾斯克市檢察院附近實施的恐襲圖謀，一名來自中亞地區的男子被捕。通報說，這名男子生於2001年，是一個國際恐怖組織的支持者，他根據這一恐怖組織的指示，企圖在皮亞季戈爾斯克市檢察院附近實施襲擊。通報還說，按照計劃，這名男子將在實施襲擊後前往敘利亞並正式加入這一恐怖組織。執法人員在搜查這名男子住所時，查獲了用於組裝自制爆炸裝置的零件、化學制劑等。（新華社）"
-    },
-    {
-      "id": "5022575",
-      "time": "2026-08-03 19:41:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國警方逮捕涉嫌與近期山火有關的375人】當地時間8月3日，據法國內政部訊息，警方已逮捕375名涉嫌與近期山火有關的人員，其中包括142名未成年人，約佔被捕總人數的37.9%。據接近調查的訊息人士透露，目前已有36人被收監。其中，部分人員已被判處有期徒刑，並由法院下令立即收押；其餘人員則在等待審判期間被採取審前羈押措施。（央視新聞）"
-    },
-    {
-      "id": "5022574",
-      "time": "2026-08-03 19:40:49",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【泰森食品第三財季銷售額138.7億美元，與上年同期持平】8月3日，美國肉類巨頭泰森食品（Tyson Foods）公佈2026財年第三財季業績。財報顯示，公司當季銷售額為138.68億美元，與上年同期持平；GAAP營業利潤為3.62億美元，同比增長39%；GAAP每股收益為0.52美元，同比增加0.35美元。"
-    },
-    {
-      "id": "mkt:019fc76d-24f0-7aab-8f56-a3e4dc02c023",
-      "time": "2026-08-03 19:40:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Former Iranian foreign minister Javad Zarif warned that if Iran fails to reach a final agreement with the US within the proposed 60-day negotiating window, it could face further economic hardship, domestic unrest or a new round of military strikes."
-    },
-    {
-      "id": "5022573",
-      "time": "2026-08-03 19:40:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗前外長穆罕默德·賈瓦德·扎裡夫警告，若無法在擬定的60天談判期限內與美國達成最終協議，伊朗或將遭遇更嚴峻的經濟困境、國內動盪，或是再度遭受軍事打擊。"
-    },
-    {
-      "id": "5022572",
-      "time": "2026-08-03 19:40:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【西媒：美國在中期選舉前三個月啟動選舉模式】據西班牙《國家報》網站8月2日報道，美國在中期選舉前三個月啟動選舉模式。 報道稱，7月31日，美國總統特朗普在戴維營舉行了一場不同尋常的內閣公開電視會議。在團隊全員簇擁下，這位美國總統發表了一場宛如競選集會的演講。 特朗普承認自己已經開始考慮中期選舉了。在距離11月3日的中期選舉僅剩三個月之際，支援率跌至歷史新低的特朗普已進入競選模式。他奔走於美國各地之間，試圖扭轉民調劣勢。幾個月來，他一直警告稱共和黨有輸掉此次選舉的風險。於他而言，第一任期結束時國會啟動彈劾程式的情景仍然記憶猶新。 共和黨在民調中落後，正使出渾身解數，試圖在至關重要的中期選舉中取得優勢。中期選舉通常被視為對白宮主人執政表現的一次全民公投。它將選出眾議院全部435名議員和參議院100個席位中的三分之一。 據報道，民主黨目前在民調中佔據優勢。（參考訊息）"
-    },
-    {
-      "id": "5022571",
-      "time": "2026-08-03 19:40:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中集集團：運價與需求的雙重回暖正直接傳導至集裝箱製造端 目前已排產至10月末】中集集團近日在路演活動上表示，集裝箱業務方面，第一季度由於量價較上年同期均有所回落，導致該分部營業收入及淨利潤同比均出現下降。但進入第二季度以來，運價與需求的雙重回暖正直接傳導至集裝箱製造端，行業需求有所回升，目前已排產至10月末。今年整體來看，受去年高基數以及材料價格上行帶來的成本壓力影響，集裝箱板塊業績相比去年仍舊有所承壓。但集裝箱板塊培育的集裝箱儲能、模組化建築、冷鏈、模組化資料中心等新興業務，都處於積極佈局和快速發展當中，將為集裝箱板塊貢獻重要增量。"
-    },
-    {
-      "id": "5022570",
-      "time": "2026-08-03 19:40:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【抖音生活服務增長超預期，年中上調全年交易額目標】得益於與主端UGC內容的協同效應，本地生活短影片和搜尋流量增長超預期，帶動抖音生活服務2026年上半年交易額同比增長超50%，超額完成既定目標。平臺已於年中上調全年交易額目標。獨立App“抖省省”成為另一關鍵增量來源。今日，抖省省上線“找店”入口，進一步強化使用者粘性與找店心智，透過“找品+找店”雙輪驅動，與抖音主端形成更多協同。目前抖省省日活躍使用者數已突破1500萬，本地生活入口心智持續增強。"
-    },
-    {
-      "id": "5022569",
-      "time": "2026-08-03 19:39:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美光科技美股盤前跌超4%】美光科技美股盤前跌超4%，現報790.1美元。"
-    },
-    {
-      "id": "5022568",
-      "time": "2026-08-03 19:39:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST華揚：累計涉訴金額1160.91萬元 尚不確定對利潤影響】ST華揚公告稱，公司控股孫公司旗幟數字及其西安分公司涉定作合同糾紛，被一想天開（無錫）傳媒有限公司起訴，涉案本金690.52萬元，逾期違約金397.59萬元，共計1088.11萬元。截至公告發布日，公司近十二個月累計新增訴訟、仲裁3個，涉及金額1160.91萬元，佔最近一期經審計淨資產的20.67%。因部分案件未開庭、無有效判決，暫不能確定對公司利潤的影響。"
-    },
-    {
-      "id": "5022567",
-      "time": "2026-08-03 19:38:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿斯麥核心供應商蔡司：有信心滿足需求 啟動總部擴建與新建廠】蔡司半導體制造技術部門負責人Frank Rohmund在接受採訪時明確表示，公司有信心滿足激增的需求，並已啟動“真正的、長期的”產能擴建專案。這一佈局與阿斯麥的擴產計劃緊密同步。今年7月，阿斯麥宣佈計劃大幅提高其EUV光刻機的產能，以滿足2028年大量積壓的訂單。"
-    },
-    {
-      "id": "mkt:019fc76b-1878-7aab-8f56-9fe5125a5c63",
-      "time": "2026-08-03 19:38:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bullish"
-      ],
-      "text": "【Qwen3.8-Max goes live on China's national supercomputing internet】Alibaba launched its next-generation base model Qwen3.8-Max with 2.4 tln parameters, marking the second Chinese model above 20 tln parameters after KimiK3. On launch day China's national supercomputing internet began offering API access to the model; developers can connect via the service's official website."
-    },
-    {
-      "id": "5022566",
-      "time": "2026-08-03 19:38:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "穆迪確認星展集團及星展銀行評級，展望維持穩定。"
-    },
-    {
-      "id": "te:economy:572197",
-      "time": "2026-08-03 19:38:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Switzerland",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Swiss 10-Year Bond Yield Holds Near 0.4% — Switzerland's 10-year government bond yield hovered near 0.4% since July 28th as uncertainty surrounding the Middle East conflict remained elevated, while inflation concerns eased. Swiss inflation eased to 0.4% in July from 0.5%, its lowest level in four months, highlighting the limited pass-through from higher energy prices linked to geopolitical tensions. The reading contrasted with the Swiss National Bank's expectation of a modest near-term pickup in inflation, following its decision to hold its policy rate at 0%. The SNB is expected to leave borrowing costs unchanged throughout the year, with further cuts remaining a contingency rather than the base case, citing no severe damage to Swiss banks. Meanwhile, investor sentiment improved sharply in July, returning to positive territory for the first time since the conflict began. While most economists see the first SNB rate hike in early 2028, currency markets continue to price in an increase as early as March 2027."
-    },
-    {
-      "id": "5022565",
-      "time": "2026-08-03 19:37:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬鼎控股：完成收購控股子公司晟新23.53%股權工商變更登記】鵬鼎控股公告稱，公司全資子公司慶鼎精密電子（淮安）有限公司擬以16087萬元收購關聯方嘉維公司所持晟新公司23.53%股權，完成後晟新公司將成全資子公司。日前，晟新公司已完成此次股權收購工商變更登記，取得2026年7月30日換髮的《營業執照》，但轉讓價款尚未支付。"
     }
   ]
 }
