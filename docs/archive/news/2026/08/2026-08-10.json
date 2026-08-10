@@ -1,7 +1,62 @@
 {
   "date": "2026-08-10",
-  "count": 1167,
+  "count": 1173,
   "items": [
+    {
+      "id": "te:economy:574057",
+      "time": "2026-08-10 15:15:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Turkey Industrial Output Falls the Most in 5 Months — Industrial production in Turkey dropped 1.4% year-on-year in June 2026, deepening from a revised 0.1% decline in May and marking the second consecutive month of contraction. It was also the steepest drop since January, as manufacturing output fell for the first time in three months (-1.5% vs 0.2%), weighed down by weaker production of tobacco products, wearing apparel, leather and related products, printing, and rubber and plastic products. Meanwhile, mining and quarrying activity continued to contract, although the pace of decline eased (-1.6% vs -5.5%). In contrast, electricity, gas, steam, and air-conditioning supply continued to expand, accelerating slightly to 1.1% from 1.0%. On a monthly basis, industrial production edged up 0.1%, reversing a revised 3.0% decline in May."
+    },
+    {
+      "id": "5033448",
+      "time": "2026-08-10 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.32%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5033447",
+      "time": "2026-08-10 15:14:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率上升5個基點至3.98%。"
+    },
+    {
+      "id": "5033446",
+      "time": "2026-08-10 15:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛凱材料：目前公司業務暫不涉及ALD鉬前驅體】飛凱材料(300398)8月10日在互動平臺回覆稱，目前公司業務暫不涉及ALD鉬前驅體。"
+    },
+    {
+      "id": "5033445",
+      "time": "2026-08-10 15:12:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海期貨交易所：對2家公司、1名個人暫停開倉交易12個月】8月10日，上海期貨交易所釋出違規處理決定公告：經查明，2025年11月14日，張勇操作無錫名思匯智科技合夥企業（有限合夥）和海南慧定思網路科技有限責任公司在bu2602P2650合約實施事先約定的相互交易、轉移資金的行為。上述行為已構成《上海期貨交易所違規處理辦法》第三十二條第一款第三項規定的違規行為，依據該辦法第三十二條，本所決定：1.給予無錫名思匯智、海南慧定思、張勇通報批評處分。2.責令改正，給予無錫名思匯智、海南慧定思、張勇自收到違規處理決定書次日起暫停開倉交易12個月的處分。相關違規處罰決定記入證券期貨市場誠信檔案資料庫。"
+    },
+    {
+      "id": "5033443",
+      "time": "2026-08-10 15:11:41",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【京北方中標某金融資產登記交易機構新一代核心業務系統專案】據京北方公眾號訊息，京北方中標某金融資產登記交易機構新一代核心業務系統專案。該專案將圍繞金融資管產品全生命週期（登記、交易、存續管理、資訊披露）打造一體化平臺，重點實現三大目標：全面重構核心業務能力；築牢信創合規底座；重塑使用者體驗與管理效能。"
+    },
     {
       "id": "5033442",
       "time": "2026-08-10 15:11:34",

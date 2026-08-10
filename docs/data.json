@@ -1,7 +1,62 @@
 {
-  "updated": "2026-08-10 15:12:23",
-  "count": 15968,
+  "updated": "2026-08-10 15:16:20",
+  "count": 15963,
   "items": [
+    {
+      "id": "te:economy:574057",
+      "time": "2026-08-10 15:15:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Turkey Industrial Output Falls the Most in 5 Months — Industrial production in Turkey dropped 1.4% year-on-year in June 2026, deepening from a revised 0.1% decline in May and marking the second consecutive month of contraction. It was also the steepest drop since January, as manufacturing output fell for the first time in three months (-1.5% vs 0.2%), weighed down by weaker production of tobacco products, wearing apparel, leather and related products, printing, and rubber and plastic products. Meanwhile, mining and quarrying activity continued to contract, although the pace of decline eased (-1.6% vs -5.5%). In contrast, electricity, gas, steam, and air-conditioning supply continued to expand, accelerating slightly to 1.1% from 1.0%. On a monthly basis, industrial production edged up 0.1%, reversing a revised 3.0% decline in May."
+    },
+    {
+      "id": "5033448",
+      "time": "2026-08-10 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.32%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5033447",
+      "time": "2026-08-10 15:14:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率上升5個基點至3.98%。"
+    },
+    {
+      "id": "5033446",
+      "time": "2026-08-10 15:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛凱材料：目前公司業務暫不涉及ALD鉬前驅體】飛凱材料(300398)8月10日在互動平臺回覆稱，目前公司業務暫不涉及ALD鉬前驅體。"
+    },
+    {
+      "id": "5033445",
+      "time": "2026-08-10 15:12:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【上海期貨交易所：對2家公司、1名個人暫停開倉交易12個月】8月10日，上海期貨交易所釋出違規處理決定公告：經查明，2025年11月14日，張勇操作無錫名思匯智科技合夥企業（有限合夥）和海南慧定思網路科技有限責任公司在bu2602P2650合約實施事先約定的相互交易、轉移資金的行為。上述行為已構成《上海期貨交易所違規處理辦法》第三十二條第一款第三項規定的違規行為，依據該辦法第三十二條，本所決定：1.給予無錫名思匯智、海南慧定思、張勇通報批評處分。2.責令改正，給予無錫名思匯智、海南慧定思、張勇自收到違規處理決定書次日起暫停開倉交易12個月的處分。相關違規處罰決定記入證券期貨市場誠信檔案資料庫。"
+    },
+    {
+      "id": "5033443",
+      "time": "2026-08-10 15:11:41",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【京北方中標某金融資產登記交易機構新一代核心業務系統專案】據京北方公眾號訊息，京北方中標某金融資產登記交易機構新一代核心業務系統專案。該專案將圍繞金融資管產品全生命週期（登記、交易、存續管理、資訊披露）打造一體化平臺，重點實現三大目標：全面重構核心業務能力；築牢信創合規底座；重塑使用者體驗與管理效能。"
+    },
     {
       "id": "5033442",
       "time": "2026-08-10 15:11:34",
@@ -145266,117 +145321,6 @@
         "其他"
       ],
       "text": "HUMAIN：對Mozn進行投資並達成合作，將在全球及本地市場聯合打造企業級人工智慧解決方案。"
-    },
-    {
-      "id": "mkt:019fc67b-0168-7aab-8f50-b6910be4126a",
-      "time": "2026-08-03 15:16:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures midday close】2-year bond futures (TS) most-active contract down 0.03%, 5-year (TF) down 0.05%, 10-year (T) down 0.04%, 30-year (TL) up 0.05%."
-    },
-    {
-      "id": "te:markets:572105",
-      "time": "2026-08-03 15:16:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.68% Lower — The Shangai Composite Index dropped 26 points or 0.68 percent on Monday to close at 3806 points. Losses were led by China Construction Bank (-3.69%), China Shenhua Engy (-3.55%) and Fuyao Glass Indu (-3.08%). Offsetting the fall, top gainers were Datang Intl (4.06%), Avic Aviation Engine (3.80%) and NARI Technology (2.83%)."
-    },
-    {
-      "id": "5021842",
-      "time": "2026-08-03 15:15:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【燦芯股份、雅創電子等新設私募投資基金】企查查APP顯示，近日，上海智貿嘉創私募投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由燦芯股份、雅創電子等共同出資。"
-    },
-    {
-      "id": "mkt:019fc679-efef-7aab-8f50-ab532d16c131",
-      "time": "2026-08-03 15:15:07",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Spain July manufacturing PMI 50.2, consensus 50.0, June 49.7."
-    },
-    {
-      "id": "5021841",
-      "time": "2026-08-03 15:15:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.05%， 10年期主力合約跌0.04%， 5年期主力合約跌0.05%， 2年期主力合約跌0.03%。"
-    },
-    {
-      "id": "5021840",
-      "time": "2026-08-03 15:15:02",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中金：AI之外買什麼？從“只買勝率”轉向“兼顧賠率”】中金公司最新研報指出，2026上半年全球市場在AI主線上的極致分化帶來了擁擠與透支。雖然AI產業趨勢未變，長期勝率依然很高，但短期面臨去槓桿和宏觀擾動，市場風格正從“只買勝率”向“兼顧賠率”轉變。研報認為，當前去槓桿已進入中後段，若9月美聯儲加息落地可視作利空出盡，但產業層面仍需等待新場景催化。在此背景下，資金可能流向賠率高且基本面有一定確認度的方向。基於“勝率-賠率”模型，研報給出了以下配置建議：1. 行業配置（MSCI中國）：建議關注綜合打分靠前的五個行業：保險、原材料、電氣裝置、創新藥、電信。2. 跨資產配置：模型顯示，截至7月底打分靠前的資產包括：標普500、納斯達克100、道瓊斯、M7、長端美債、創業板50。"
-    },
-    {
-      "id": "mkt:019fc679-d2a6-7aab-8f50-a50bf3338e38",
-      "time": "2026-08-03 15:15:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Spain | Manufacturing PMI (Jul) | actual 50.2 | consensus 50 | previous 49.7"
-    },
-    {
-      "id": "5021839",
-      "time": "2026-08-03 15:14:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "ZEPHIRIN集團將SpaceX目標價從310美元下調至190美元。"
-    },
-    {
-      "id": "mkt:019fc679-1ef3-7aab-8f50-9c26142b855a",
-      "time": "2026-08-03 15:14:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "Germany's DAX rose 1.1%, marking its highest intraday level since July 6."
-    },
-    {
-      "id": "mkt:019fc678-d609-7aab-8f50-915dd45d5372",
-      "time": "2026-08-03 15:13:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Swiss July CPI slows to four-month low; Swiss National Bank seen keeping rates at zero】Swiss consumer prices rose 0.4% YoY in July, down from 0.5% in June and matching median economist forecasts, the Swiss Federal Statistical Office said. Core inflation excluding energy held at 0.3%. Higher diesel and heating-oil costs were offset by price declines in clothing, car rentals and other goods and services. The print contrasts with the Swiss National Bank’s earlier view of a mild, temporary uptick in inflation. Insiders said SNB staff expect policy rates to remain at zero through the end of next year absent new shocks."
-    },
-    {
-      "id": "te:economy:572104",
-      "time": "2026-08-03 15:13:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Austria",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Austria Jobless Rate Holds at 6.9% in July — Austria’s unemployment rate remained unchanged at 6.9% in July 2026 from the previous month, while edging up from 6.7% in the corresponding month a year earlier. The total number of unemployed persons rose by 8,917 year-on-year to 298,885. Among them, the female unemployment rate went up by 0.3 percentage points to 6.9%, with the number of unemployed women increasing by 8,038 to 142,244, while the rate for men and other genders remained broadly steady at 6.8%, with the number of unemployed individuals increasing by 879 to 156,641. Dependent employment increased by 9,000 from a year earlier to 4,044,000. Employment among women rose by 6,000 to 1,901,000, whereas employment among men and other genders increase by 3,000 to 2,143,000. Including training participants, the total number of unemployed persons and those enrolled in labour market programs reached 364,202, up by 4,828 from the previous year."
     }
   ]
 }
