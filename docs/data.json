@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-11 00:38:05",
-  "count": 15808,
+  "updated": "2026-08-11 00:41:58",
+  "count": 15803,
   "items": [
+    {
+      "id": "5034451",
+      "time": "2026-08-11 00:38:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普要求伊朗賠償】美國總統特朗普當地時間8月10日在社交媒體發帖稱，他注意到，伊朗正在要求就過去五個月軍事衝突中遭受的損失獲得賠償。特朗普稱，“我同樣要求伊朗進行賠償，我已指示我的代表們將這一要求明確納入未來所有談判之中。”（CCTV國際時訊）"
+    },
     {
       "id": "5034450",
       "time": "2026-08-11 00:35:15",
@@ -143845,57 +143854,6 @@
         "國際"
       ],
       "text": "美國參議院領袖達成兩黨協議，確保政府資金維持至2026年中期選舉之後，但該法案仍需先在眾議院獲得透過。"
-    },
-    {
-      "id": "5023076",
-      "time": "2026-08-04 00:41:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基任命烏克蘭首席談判代表烏梅羅夫執掌對外情報局局長。"
-    },
-    {
-      "id": "5023075",
-      "time": "2026-08-04 00:41:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "專注腫瘤領域的生物技術公司BlossomHill Therapeutics計劃透過首次公開募股募資約1.328億美元。"
-    },
-    {
-      "id": "5023074",
-      "time": "2026-08-04 00:39:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美軍持續嚴格執行美國對伊朗實施的封鎖措施。截至8月3日，中央司令部已引導44艘商船變更航線，迫使2艘船隻停航，並登臨檢查2艘船隻。"
-    },
-    {
-      "id": "mkt:019fc87d-fd18-7aab-8f5c-76ae99170e01",
-      "time": "2026-08-04 00:38:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM: As of Aug 3, CENTCOM had re-routed 44 merchant vessels, rendered two vessels inoperable and boarded and inspected two vessels."
-    },
-    {
-      "id": "te:markets:572262",
-      "time": "2026-08-04 00:38:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Lumber Falls to One-Month Low — Lumber prices fell below $600 per thousand board feet, reaching a one-month low as weaker US housing demand and heightened trade uncertainty weighed on the market. US construction spending unexpectedly declined in June, with spending on lumber-intensive single-family housing falling 0.6% from the previous month and 3.3% from a year earlier, pointing to softer demand for construction timber. Although Canadian softwood lumber was exempt from Washington's new 50% tariffs, it remains subject to existing duties of nearly 35%, continuing to pressure producers' margins. The Forest Products Association of Canada said the trade measures dealt a further blow to the forestry sector, where mills are already operating below capacity following production curtailments and closures, including the Fox Creek mill. Meanwhile, the US Lumber Coalition argued that Canada's excess production capacity continues to distort the market, while Ottawa has extended support measures for the industry."
-    },
-    {
-      "id": "5023073",
-      "time": "2026-08-04 00:38:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "美方稱其部隊已在霍爾木茲海峽引導44艘船隻調整航線。"
     }
   ]
 }
