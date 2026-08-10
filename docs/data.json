@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-11 02:54:02",
-  "count": 15766,
+  "updated": "2026-08-11 02:57:50",
+  "count": 15765,
   "items": [
+    {
+      "id": "mkt:019fed08-820a-7aab-8fdf-9c0ca22f661b",
+      "time": "2026-08-11 02:56:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump announced US recommendations on childhood vaccinations, including a vaccine for autism."
+    },
+    {
+      "id": "5034522",
+      "time": "2026-08-11 02:56:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普宣佈“美國疫苗推薦”。"
+    },
+    {
+      "id": "mkt:019fed08-32d1-7aab-8fdf-97bbc65d8620",
+      "time": "2026-08-11 02:56:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump signed an executive order on vaccines."
+    },
     {
       "id": "mkt:019fed05-3ba3-7aab-8fdf-8dc50b14bef6",
       "time": "2026-08-11 02:52:50",
@@ -143518,40 +143542,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收跌0.08%，報25976.27點，低水33.13點。"
-    },
-    {
-      "id": "mkt:019fc8fc-437e-7aab-8f5e-7712dcc89c15",
-      "time": "2026-08-04 02:56:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said the results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography and extremal combinatorics, including a proof of the existence of non-sofic groups and an exponential improvement in bounds for high-dimensional sphere packing."
-    },
-    {
-      "id": "5023182",
-      "time": "2026-08-04 02:56:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "紅杉資本牽頭為瓦拉爾公司完成10億美元融資。這家核能初創企業表示，這筆資金將助力企業從小型反應堆示範階段轉向規模化生產。"
-    },
-    {
-      "id": "mkt:019fc8fb-892b-7aab-8f5e-6fe05124c6fa",
-      "time": "2026-08-04 02:55:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said an internal build of its next-generation flagship model produced 10 new results on long-standing open problems in mathematics and theoretical computer science, at an estimated $2,000 in token fees calculated using GPT-5.6 Sol API rates."
-    },
-    {
-      "id": "5023181",
-      "time": "2026-08-04 02:55:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我不隱瞞我們與特朗普在與哈馬斯協議問題上存在分歧。"
     }
   ]
 }

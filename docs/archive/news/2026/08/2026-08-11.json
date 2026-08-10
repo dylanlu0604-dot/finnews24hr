@@ -1,7 +1,31 @@
 {
   "date": "2026-08-11",
-  "count": 174,
+  "count": 177,
   "items": [
+    {
+      "id": "mkt:019fed08-820a-7aab-8fdf-9c0ca22f661b",
+      "time": "2026-08-11 02:56:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump announced US recommendations on childhood vaccinations, including a vaccine for autism."
+    },
+    {
+      "id": "5034522",
+      "time": "2026-08-11 02:56:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普宣佈“美國疫苗推薦”。"
+    },
+    {
+      "id": "mkt:019fed08-32d1-7aab-8fdf-97bbc65d8620",
+      "time": "2026-08-11 02:56:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump signed an executive order on vaccines."
+    },
     {
       "id": "mkt:019fed05-3ba3-7aab-8fdf-8dc50b14bef6",
       "time": "2026-08-11 02:52:50",
