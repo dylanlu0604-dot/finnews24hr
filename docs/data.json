@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-11 03:02:01",
-  "count": 15771,
+  "updated": "2026-08-11 03:05:48",
+  "count": 15769,
   "items": [
+    {
+      "id": "5034528",
+      "time": "2026-08-11 03:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：微軟希望在僅生產數萬個當前一代Maia人工智慧晶片後，大幅擴大該晶片的產能。"
+    },
+    {
+      "id": "mkt:019fed0e-1882-7aab-8fdf-b7fca11f6e58",
+      "time": "2026-08-11 03:02:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.07% at 25,966, trading a 29-point premium to the cash index."
+    },
     {
       "id": "5034527",
       "time": "2026-08-11 03:00:36",
@@ -143553,43 +143573,6 @@
         "其他"
       ],
       "text": "OpenAI：我們下一代主要模型的一個內部版本，在數學和理論電腦科學領域長期未解決的開放問題上取得了10項新成果，所使用的計算成本約為按照GPT-5.6 Sol API費率計算的2000美元token費用。我們將釋出這些手稿、正式的Lean證明證書以及推理過程說明，供數學家們審查這些結果，並在相關研究思路基礎上進一步發展。這些成果涵蓋球體堆積、編碼理論、群論、量子複雜性、格密碼學、極值組合學等領域。其中包括：證明非sofic群的存在性，以及對高維球體堆積界限取得指數級改進。"
-    },
-    {
-      "id": "5023186",
-      "time": "2026-08-04 03:05:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：6 月用於燃料乙醇生產的玉米用量為 4.667 億蒲式耳，高於去年同期的 4.469 億蒲式耳。"
-    },
-    {
-      "id": "5023185",
-      "time": "2026-08-04 03:03:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部公佈可交易債務融資預估。"
-    },
-    {
-      "id": "5023184",
-      "time": "2026-08-04 03:03:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7560元，較上週五夜盤收盤跌35點。成交量390.99億美元。"
-    },
-    {
-      "id": "mkt:019fc901-5103-7aab-8f5e-7a19b68e413e",
-      "time": "2026-08-04 03:02:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures night session closed 0.06% lower at 25,981, trading 28 points below the cash close."
     }
   ]
 }
