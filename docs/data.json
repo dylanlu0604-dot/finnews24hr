@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-11 07:55:11",
+  "updated": "2026-08-11 07:59:05",
   "count": 15805,
   "items": [
+    {
+      "id": "5034697",
+      "time": "2026-08-11 07:57:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：果斷的買盤壓力鑄就黃金漲勢】Pepperstone研究主管Chris Weston表示，黃金已重新牢牢回到交易員的視線中。他說，在突破了從6月下旬一直維持到8月3日的盤整區間後，黃金和白銀都出現了上漲，目前金價正在測試每盎司4,400美元。Weston表示，突破7月高點伴隨著果斷的買盤壓力，隨後的勢頭表明多頭佔據了主導地位。客戶活動也有所增加，頭寸偏向多頭。他補充說，目前所有未平倉黃金頭寸中有60%是多頭。"
+    },
+    {
+      "id": "5034696",
+      "time": "2026-08-11 07:55:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優必選：建議採納H股激勵計劃，擬申請不超26億元銀行信貸】優必選：董事會已於2026年8月10日舉行的董事會會議上決議建議採納H股激勵計劃，授予價每股激勵股份人民幣1元。董事會已決議，本公司擬申請銀行信貸，總計不超過2,600百萬元人民幣。配售事項所得款項未動用部分約為439.43百萬港元。董事會已決議將386.77百萬港元由「投資或收購本集團業務價值鏈內潛在的上游或下游目標，或與相關行業整合或成立合資企業」類別重新分配至「向供應商及服務提供商付款」類別。"
+    },
+    {
+      "id": "mkt:019fee19-e487-7aab-8fe2-0a10795cb206",
+      "time": "2026-08-11 07:55:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Danube levels rise, Hungary's Paks plant begins phased power restoration】Paks nuclear power plant said on the 10th that recent slow rises in Danube water levels improved cooling-water conditions and the plant began a phased power restoration that evening. The plant said it has started raising output at Unit 2. Hungarian Prime Minister Magyar earlier said Danube levels are about 19 cm above last week’s low, enabling the restart procedure."
+    },
     {
       "id": "5034695",
       "time": "2026-08-11 07:53:47",
@@ -143859,36 +143885,6 @@
         "國際"
       ],
       "text": "10年期日本國債收益率下跌1.5個基點至2.805%。"
-    },
-    {
-      "id": "mkt:019fca10-bbfb-7aab-8f60-3951a6c97caf",
-      "time": "2026-08-04 07:58:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "MSFT.O",
-        "Impact bullish",
-        "AMZN.O",
-        "GOOGL.O"
-      ],
-      "text": "【CITIC Securities: North American cloud vendors' capex remains high; monitor oversold compute and high-dividend names】CITIC Securities says in 2Q26 leading North American cloud vendors’ capital spending remains elevated. Combined 2026 capex guidance from four major North American cloud providers is about $720–745 billion, signaling continued AI infrastructure expansion. The firm views the AI compute supply chain as still healthy but notes recent market adjustments that may have produced an oversell. Key near-term monitor points: ARR of large models—particularly Coding-use-case ARR—since recent price cuts by major models in North America could, if ARR growth stalls, weigh on expectations for future compute demand; rollout and adoption of large models beyond Coding scenarios; the price path across the compute-cost/inflation chain; and financing conditions and market risk appetite across AI-industry segments. Given heavy Q2 industry exposures and recent market weakness, CITIC recommends watching low-valuation, high-dividend names."
-    },
-    {
-      "id": "5023334",
-      "time": "2026-08-04 07:58:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴西總統盧拉宣佈競選連任】當地時間2日，在巴西聖保羅舉行的巴西勞工黨全國代表大會上，巴西總統盧拉正式被確認為該黨總統候選人，將再次參加大選以角逐其第四個總統任期。會議正式批准盧拉與現任副總統阿爾克明再次組成競選搭檔，並稱已在高等選舉法院完成登記工作。巴西G1網站報道稱，盧拉在演講中表示，雖然自己已經80歲，但身體狀況仍然良好，完全有資格參加連任競選。他還表示，如果自己此次獲勝，將不會再謀求第五個任期。（環球時報）"
-    },
-    {
-      "id": "5023333",
-      "time": "2026-08-04 07:56:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報58.44美元/盎司。"
     }
   ]
 }
