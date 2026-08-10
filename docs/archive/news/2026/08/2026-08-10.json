@@ -1,7 +1,131 @@
 {
   "date": "2026-08-10",
-  "count": 1519,
+  "count": 1533,
   "items": [
+    {
+      "id": "mkt:019feaf1-053c-7aab-8fd6-7bac8cbe07a7",
+      "time": "2026-08-10 17:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Emirates News Agency said the UAE thwarted cyberattacks targeting the aviation, energy and education sectors."
+    },
+    {
+      "id": "5033696",
+      "time": "2026-08-10 17:11:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋訊息，阿聯酋挫敗了針對航空、能源與教育領域的網路攻擊。"
+    },
+    {
+      "id": "5033695",
+      "time": "2026-08-10 17:11:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東鈳銳鍶數控技術股份有限公司首發申請8月17日上會】上海證券交易所上市稽核委員會定於2026年8月17日召開2026年第47次上市稽核委員會審議會議。審議廣東鈳銳鍶數控技術股份有限公司的首發申請。"
+    },
+    {
+      "id": "mkt:019feaf0-9b2b-7aab-8fd6-71b9c5d96103",
+      "time": "2026-08-10 17:11:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said over the past 24 hours its air defences shot down 1,134 drones and 11 precision-guided aerial bombs. It said Russian forces struck Ukrainian energy and transport infrastructure, logistics hubs and drone assembly and storage facilities in the area of the special military operation."
+    },
+    {
+      "id": "5033694",
+      "time": "2026-08-10 17:10:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：完善與積體電路產業配套的服務貿易】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》，建設方案提出，完善與積體電路產業配套的服務貿易。推動積體電路“設計+製造”融合，在臨港新片區建設國際聯合設計中心。支援積體電路企業實現全產業鏈突破，培育一批具有國際競爭力的領軍企業。按規定對綜合保稅區內進口檢測用消耗性材料根據實際檢測耗用核銷，對綜合保稅區外開展“兩頭在外”的積體電路檢測業務試點實施保稅監管。支援積體電路企業開展國際貿易分撥業務。"
+    },
+    {
+      "id": "5033693",
+      "time": "2026-08-10 17:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏達電子：放棄參股公司46.75%股權轉讓優先購買權】宏達電子公告稱，公司於8月10日召開董事會，審議透過放棄參股公司宏訊微46.75%股權轉讓優先購買權暨關聯交易的議案。宏芯創融擬1486萬元將該部分股權轉給公司原董事胥遷均，公司持股29.75%不變。宏訊微2026年上半年營收861.59萬元、淨虧損423.67萬元。年初至公告披露日，公司與胥遷均另有超千萬元關聯交易。本次放棄優先購買權不影響合併報表範圍，對財務和經營無重大不利影響。"
+    },
+    {
+      "id": "5033692",
+      "time": "2026-08-10 17:09:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美的、光峰科技等成立創業投資合夥企業 出資額9286萬】天眼查App顯示，近日，寧波美和南旅創業投資合夥企業（有限合夥）成立，執行事務合夥人為美的創業投資管理有限公司，出資額9286萬人民幣，經營範圍為創業投資，由江西南旅投資集團有限公司、深圳光峰科技股份有限公司等共同出資。"
+    },
+    {
+      "id": "5033691",
+      "time": "2026-08-10 17:09:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST利源：駁回北信瑞豐訴訟請求 多起訴訟有新進展】*ST利源公告稱，近日收到法院送達的法律文書，駁回原告北信瑞豐基金管理有限公司的訴訟請求，此前原告已將訴請金額由6352.81萬元變更為2.09億元。此外，新增分期付款買賣合同糾紛等多起訴訟仲裁事項，涉及金額從3.28萬元到1386.39萬元不等。截至2026年8月7日，公司及控股子公司累計被凍結銀行賬戶32個，累計被申請凍結金額9254.80萬元，實際被凍結金額590.68萬元。"
+    },
+    {
+      "id": "mkt:019feaee-c89e-7aab-8fd6-6a93226c465b",
+      "time": "2026-08-10 17:09:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai to expand cross‑border compute use and back export of base-model AI products】Shanghai Municipal Commission of Commerce and six other departments issued a plan to build a national service‑trade innovation demonstration zone. The plan aims to attract AI R&D centers, open‑source platforms and joint labs. It calls for expanding cross‑border invocation of computing power and base large models and explicitly supports export of model products, including intelligent agents and multimodal generation systems. The plan encourages embodied‑intelligence and smart‑terminal firms to roll out full‑lifecycle service models and promotes AI adoption in healthcare, education and professional services. It also backs hosting the World Artificial Intelligence Conference and global developer events, accelerating a World AI Cooperation Organization headquarters, designating Pudong as an AI innovation application pilot zone, and supporting Xuhui district’s “Mosu Space” large‑model innovation community. The plan includes exploring a global AI governance framework."
+    },
+    {
+      "id": "5033690",
+      "time": "2026-08-10 17:08:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST威領：股票交易異常波動 不存在應披露未披露事項】*ST威領公告稱，公司股票在2026年8月6日、8月7日、8月10日連續3個交易日收盤價格漲幅累計偏離值達20%，屬於異常波動。經核查，公司2025年度經審計淨資產為負，股票被實施退市及其他風險警示；存在重大訴訟、銀行賬戶被凍結、子公司資產將司法拍賣等情況；對相關會計差錯進行更正。公司生產經營正常，不存在應披露未披露重大事項，控股股東及實控人期間未買賣公司股票。"
+    },
+    {
+      "id": "5033689",
+      "time": "2026-08-10 17:08:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康尼機電：證券虛假陳述糾紛部分案件二審判決結果公佈】康尼機電公告稱，近日收到江蘇高院送達的2名機構投資者訴公司證券虛假陳述責任糾紛案件的二審《民事判決書》。其中一案駁回上訴，維持原判，公司負擔二審案件受理費87,733元；另一案撤銷一審判決，公司需賠償上訴人投資損失9979.93萬元，國泰海通等相關方承擔連帶責任，公司合計負擔案件受理費104.11萬元。本次判決為終審判決，公司已履行部分賠付，前期已計提預計負債，對利潤無重大影響。剩餘3名自然人投資者索賠訴訟正在二審中。"
+    },
+    {
+      "id": "5033688",
+      "time": "2026-08-10 17:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：支援企業研發的創新藥、現代中藥和高階醫療器械全球註冊認證並在當地實現銷售】上海市商務委等七部門印發《上海市國家服務貿易創新發展示範區建設方案》。其中指出，支援生物醫藥產業創新發展。支援企業研發的創新藥、現代中藥和高階醫療器械全球註冊認證並在當地實現銷售。擴大生物醫藥創新成果國際合作業務。支援具有成熟生產經驗的合同研發生產組織和生產企業承接委託生產活動。在自貿試驗區開展基因診斷與治療技術開發和應用擴大開放試點。在虹橋國際中央商務區、東方樞紐國際商務合作區建設國際醫療器械展覽、培訓、交易相關平臺。重點佈局浦東新區、閔行區、嘉定區，加快建設世界級生物醫藥產業叢集。"
+    },
+    {
+      "id": "mkt:019feaed-bf20-7aab-8fd6-660cdc97d7b7",
+      "time": "2026-08-10 17:07:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai to Back Integrated Circuit Firms in Achieving Full Industry-Chain Breakthroughs, Cultivate Internationally Competitive Leaders】Shanghai issued a plan to develop a national service-trade innovation demonstration zone, calling for stronger service-trade support for the integrated circuit sector. It will promote design+manufacturing integration and build an international joint design center in the Lingang New Area. The plan backs IC firms to achieve full industry‑chain breakthroughs and to cultivate internationally competitive leading companies. Customs and trade measures include allowing write‑off of imported consumable testing materials in comprehensive bonded zones based on actual consumption, piloting bonded supervision for IC testing operations with cross‑border inputs and outputs conducted outside comprehensive bonded zones, and supporting IC companies to operate international trade/distribution services."
+    },
+    {
+      "id": "5033687",
+      "time": "2026-08-10 17:07:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【甘李藥業：與Menarini簽署博凡格魯肽授權許可協議，首付款6200萬歐元】甘李藥業公告，公司近日與Menarini達成獨家許可協議，授予Menarini在歐盟27國及英國等39個歐洲國家和地區對博凡格魯肽超重或肥胖適應症的上市註冊及商業化權利。Menarini將支付不可退還的首付款6200萬歐元，累計最高可達6.64億歐元的里程碑付款，以及按最高雙位數比例支付的梯度特許權使用費。"
+    },
     {
       "id": "mkt:019feaed-398d-7aab-8fd6-58f6ddcf589c",
       "time": "2026-08-10 17:07:23",
