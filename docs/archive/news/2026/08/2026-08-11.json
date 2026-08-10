@@ -1,7 +1,50 @@
 {
   "date": "2026-08-11",
-  "count": 372,
+  "count": 377,
   "items": [
+    {
+      "id": "mkt:019fede8-8ce9-7aab-8fe1-db9250f78a09",
+      "time": "2026-08-11 07:01:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK July BRC same-store retail sales YoY 1.0%, down from 1.7% prior."
+    },
+    {
+      "id": "mkt:019fede8-6d13-7aab-8fe1-d78e5ee72be9",
+      "time": "2026-08-11 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Like-for-like Retail Sales (YoY) (Jul) | actual 1% | previous 1.70%"
+    },
+    {
+      "id": "5034640",
+      "time": "2026-08-11 07:00:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴任命六名高階軍事指揮官後，外交部長阿拉格齊發文稱，這六名指揮官在“近期兩場強加於伊朗的戰爭”中展現出實戰經驗。"
+    },
+    {
+      "id": "5034639",
+      "time": "2026-08-11 06:57:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，日內漲0.22%。"
+    },
+    {
+      "id": "mkt:019fede5-22c3-7aab-8fe1-cf689485ddd3",
+      "time": "2026-08-11 06:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US official said they are optimistic about progress in Lebanon-Israel talks but acknowledged persistent difficulties. The US held separate talks with the Lebanese delegation on reconstruction; Lebanon and Israel discussed third-party demining operations. The official said Hezbollah continues to try to undermine the negotiations."
+    },
     {
       "id": "mkt:019fede4-c119-7aab-8fe1-c299cbbfca62",
       "time": "2026-08-11 06:56:59",

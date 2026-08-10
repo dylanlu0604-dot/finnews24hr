@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-11 06:57:46",
-  "count": 15810,
+  "updated": "2026-08-11 07:04:31",
+  "count": 15806,
   "items": [
+    {
+      "id": "mkt:019fede8-8ce9-7aab-8fe1-db9250f78a09",
+      "time": "2026-08-11 07:01:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK July BRC same-store retail sales YoY 1.0%, down from 1.7% prior."
+    },
+    {
+      "id": "mkt:019fede8-6d13-7aab-8fe1-d78e5ee72be9",
+      "time": "2026-08-11 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | BRC Like-for-like Retail Sales (YoY) (Jul) | actual 1% | previous 1.70%"
+    },
+    {
+      "id": "5034640",
+      "time": "2026-08-11 07:00:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴任命六名高階軍事指揮官後，外交部長阿拉格齊發文稱，這六名指揮官在“近期兩場強加於伊朗的戰爭”中展現出實戰經驗。"
+    },
+    {
+      "id": "5034639",
+      "time": "2026-08-11 06:57:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，日內漲0.22%。"
+    },
+    {
+      "id": "mkt:019fede5-22c3-7aab-8fe1-cf689485ddd3",
+      "time": "2026-08-11 06:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US official said they are optimistic about progress in Lebanon-Israel talks but acknowledged persistent difficulties. The US held separate talks with the Lebanese delegation on reconstruction; Lebanon and Israel discussed third-party demining operations. The official said Hezbollah continues to try to undermine the negotiations."
+    },
     {
       "id": "mkt:019fede4-c119-7aab-8fe1-c299cbbfca62",
       "time": "2026-08-11 06:56:59",
@@ -143866,86 +143909,6 @@
         "國際"
       ],
       "text": "韓國7月CPI創2025年11月以來首次環比下降，核心CPI同比漲幅創2023年12月以來最大。"
-    },
-    {
-      "id": "5023278",
-      "time": "2026-08-04 07:04:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央紀委國家監委通報2026年上半年對紀檢監察干部監督檢查審查調查情況】2026年上半年，各級紀檢監察機關堅持以習近平新時代中國特色社會主義思想為指導，深入學習貫徹習近平黨建思想，認真落實二十屆中央紀委五次全會工作部署，紮實開展樹立和踐行正確政績觀學習教育，以更高標準、更實舉措持續加強紀檢監察干部隊伍建設，以釘釘子精神縱深推進“三化”建設年行動，堅定不移強化制度治權、依規用權，不斷提升監督執紀執法質效，著力鍛造政治過硬、能力過硬、作風過硬、廉潔過硬的紀檢監察鐵軍。全國紀檢監察機關共接收涉及紀檢監察干部問題線索或反映1.55萬餘件次，處置涉及紀檢監察干部問題線索1.42萬餘件，談話函詢紀檢監察干部4385人次，對紀檢監察干部立案1685人，處分1535人，移送司法機關138人。其中，處分廳局級幹部59人、縣處級幹部356人。"
-    },
-    {
-      "id": "5023276",
-      "time": "2026-08-04 07:03:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2000萬觀影補貼，2026北京仲夏電影嘉年華啟動】日前，“京彩百花 全城綻放——2026北京仲夏電影嘉年華”在北京啟幕，以光影啟用首都夏日文商旅消費活力。作為第38屆大眾電影百花獎配套活動，“2026北京仲夏電影嘉年華”貫穿暑期，推動電影走出影院、融入城市街巷，豐富市民夏日文化生活。嘉年華配套2000萬元惠民觀影補貼，依託票務平臺推出購票立減、閤家歡優惠等多項福利。嘉年華期間，全市在首鋼園、798、藍色港灣等多地開展53場露天放映，3000餘個公益點位展映歷屆百花獎佳作。活動同步打造光影市集矩陣，聯動商圈、文旅點位升級“票根經濟”，延伸觀影、市集、文旅、非遺體驗等多元消費場景，持續深化“電影+”融合模式，啟用首都夏日文商旅消費活力。（央視新聞）"
-    },
-    {
-      "id": "5023275",
-      "time": "2026-08-04 07:02:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "澳航將出售捷星日本33.32%的股份。"
-    },
-    {
-      "id": "5023274",
-      "time": "2026-08-04 07:00:54",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國 7 月核心CPI同比漲幅創 2023 年 12 月以來新高。"
-    },
-    {
-      "id": "5023273",
-      "time": "2026-08-04 07:00:14",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "韓國7月CPI年率 2.8%，預期3.00%，前值3.20%。\n韓國7月CPI月率 -0.2%，預期0.1%，前值0.10%。"
-    },
-    {
-      "id": "mkt:019fc9db-326a-7aab-8f60-07a1a1e21f4a",
-      "time": "2026-08-04 07:00:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "South Korea July CPI MoM -0.2% (consensus +0.1%, prior +0.1%)."
-    },
-    {
-      "id": "mkt:019fc9db-224e-7aab-8f5f-f9dcb408ad57",
-      "time": "2026-08-04 07:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea July CPI YoY 2.8% vs 3.0% expected and 3.2% prior."
-    },
-    {
-      "id": "mkt:019fc9db-0117-7aab-8f5f-f1a72d0fec7e",
-      "time": "2026-08-04 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | CPI (MoM) (Jul) | actual -0.2% | consensus 0.1% | previous 0.10%"
-    },
-    {
-      "id": "mkt:019fc9db-004a-7aab-8f5f-e9729fcf05a2",
-      "time": "2026-08-04 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | CPI (YoY) (Jul) | actual 2.8% | consensus 3.00% | previous 3.20%"
     }
   ]
 }
