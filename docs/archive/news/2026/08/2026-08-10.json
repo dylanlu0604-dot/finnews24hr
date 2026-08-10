@@ -1,7 +1,67 @@
 {
   "date": "2026-08-10",
-  "count": 2063,
+  "count": 2069,
   "items": [
+    {
+      "id": "5034118",
+      "time": "2026-08-10 20:09:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "ARCHER：波音同意交易完成後對價股份實施12個月禁售期。"
+    },
+    {
+      "id": "mkt:019feb92-b76e-7aab-8fd9-725eaad6e170",
+      "time": "2026-08-10 20:08:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "KYODO reports that signals the Bank of Japan may raise rates in September prompted U.S. intervention."
+    },
+    {
+      "id": "5034117",
+      "time": "2026-08-10 20:08:01",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：日本央行9月加息訊號促成美日聯合干預匯市。"
+    },
+    {
+      "id": "5034116",
+      "time": "2026-08-10 20:07:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：高快速路解除管控，東海大橋繼續封閉，長江大橋限速60公里/小時】據“上海釋出”微信公眾號8月10日19時36分訊息，市公安局交通管理總隊介紹，當前暴雨、颱風更新為藍色預警。公安交管部門針對上海市高快速路解除管控措施，恢復正常通行。東海大橋風力9級以上，繼續採取封閉措施。長江大橋風力7-8級，限速60公里/小時。"
+    },
+    {
+      "id": "mkt:019feb91-64cd-7aab-8fd9-6d922275b0f6",
+      "time": "2026-08-10 20:06:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) supports Texas Governor Abbott's scrutiny of data centers."
+    },
+    {
+      "id": "5034115",
+      "time": "2026-08-10 20:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta支援阿博特州長對得克薩斯州資料中心開展審查。"
+    },
     {
       "id": "5034114",
       "time": "2026-08-10 20:04:50",
