@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-10 22:02:26",
+  "updated": "2026-08-10 22:11:24",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 405,
+  "count": 406,
   "history_summary": {
     "cached": 405,
-    "fetched": 0,
+    "fetched": 1,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 185,
+      "count": 186,
       "dates": [
         {
           "date": "2026-08-09",
@@ -260,7 +260,7 @@
         },
         {
           "date": "2026-08-10",
-          "count": 13,
+          "count": 14,
           "events": [
             {
               "id": "capital:1174471",
@@ -783,6 +783,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-08-02 00:04:22"
+            },
+            {
+              "id": "capital:1185118",
+              "fid": "1185118",
+              "interval": "this_week",
+              "date": "2026-08-10",
+              "time": "22:00",
+              "datetime": "2026-08-10 22:00:00",
+              "display_time": "08/10 22:00",
+              "country": "美國",
+              "title": "美國7月諮商會就業趨勢指數",
+              "importance": 1,
+              "previous": "106.69",
+              "forecast": "--",
+              "actual": "107.71",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185118",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/06",
+                  "actual": "106.69",
+                  "forecast": "-",
+                  "previous": "107.01"
+                },
+                {
+                  "date": "06/08",
+                  "actual": "107.01",
+                  "forecast": "-",
+                  "previous": "105.77"
+                },
+                {
+                  "date": "05/11",
+                  "actual": "105.77",
+                  "forecast": "-",
+                  "previous": "105.72"
+                },
+                {
+                  "date": "04/06",
+                  "actual": "105.72",
+                  "forecast": "-",
+                  "previous": "105.37"
+                },
+                {
+                  "date": "03/09",
+                  "actual": "105.37",
+                  "forecast": "-",
+                  "previous": "105.06"
+                },
+                {
+                  "date": "02/17",
+                  "actual": "105.06",
+                  "forecast": "-",
+                  "previous": "104.27"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-10 22:11:22"
             },
             {
               "id": "capital:1174478",
@@ -24162,6 +24220,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-08-02 00:04:22"
+    },
+    {
+      "id": "capital:1185118",
+      "fid": "1185118",
+      "interval": "this_week",
+      "date": "2026-08-10",
+      "time": "22:00",
+      "datetime": "2026-08-10 22:00:00",
+      "display_time": "08/10 22:00",
+      "country": "美國",
+      "title": "美國7月諮商會就業趨勢指數",
+      "importance": 1,
+      "previous": "106.69",
+      "forecast": "--",
+      "actual": "107.71",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185118",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/06",
+          "actual": "106.69",
+          "forecast": "-",
+          "previous": "107.01"
+        },
+        {
+          "date": "06/08",
+          "actual": "107.01",
+          "forecast": "-",
+          "previous": "105.77"
+        },
+        {
+          "date": "05/11",
+          "actual": "105.77",
+          "forecast": "-",
+          "previous": "105.72"
+        },
+        {
+          "date": "04/06",
+          "actual": "105.72",
+          "forecast": "-",
+          "previous": "105.37"
+        },
+        {
+          "date": "03/09",
+          "actual": "105.37",
+          "forecast": "-",
+          "previous": "105.06"
+        },
+        {
+          "date": "02/17",
+          "actual": "105.06",
+          "forecast": "-",
+          "previous": "104.27"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-10 22:11:22"
     },
     {
       "id": "capital:1174478",
