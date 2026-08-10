@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-10 19:33:59",
-  "count": 15912,
+  "updated": "2026-08-10 19:37:52",
+  "count": 15909,
   "items": [
+    {
+      "id": "mkt:019feb75-3b3f-7aab-8fd8-2d58ae7df2c1",
+      "time": "2026-08-10 19:35:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "LLY.N",
+        "Impact bullish"
+      ],
+      "text": "UK approves Eli Lilly (LLY.N) drug FOUNDAYO for weight management and treatment of type 2 diabetes."
+    },
+    {
+      "id": "5034038",
+      "time": "2026-08-10 19:35:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博睿資料：持股5%以上股東孟曦東及其一致行動人減持股份】博睿資料公告稱，2026年8月4日至8月5日元亨利匯透過集中競價累計減持193,390股，佔總股本0.44%；8月10日孟曦東透過大宗交易減持441,000股，佔總股本0.99%。本次權益變動後，孟曦東及其一致行動人合計持股比例由10.00%降至8.57%。此次減持系履行已披露計劃，不會導致控股股東及實控人變化，不觸及要約收購等。"
+    },
+    {
+      "id": "5034037",
+      "time": "2026-08-10 19:35:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國批准禮來的 Foundayo 用於體重管理及 2 型糖尿病治療。"
+    },
+    {
+      "id": "5034036",
+      "time": "2026-08-10 19:34:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外交部：奉勸美方儘早解除對古巴的制裁封鎖 不要一再向他人“潑髒水”】8月10日外交部發言人郭嘉昆答記者問。據報道，美國最近再次以中俄與古巴的軍事合作為藉口，對更多古巴公司和個人實施制裁。中方如何看待這些新的單邊制裁，以及美方試圖干涉中國與古巴正常合作的行徑？郭嘉昆表示，中方已經多次就有關問題闡明立場。我們奉勸美方儘早解除對古巴的制裁封鎖，不要一再向他人“潑髒水”。中古合作光明正大，中方將繼續堅定支援古巴維護國家主權、反對外來干涉。（央視新聞）"
+    },
+    {
+      "id": "5034035",
+      "time": "2026-08-10 19:34:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿聯酋擬擲數十億美元建新LNG出口終端 謀求規避霍爾木茲海峽風險】阿布扎比國家石油公司旗下天然氣子公司Adnoc Gas Plc正考慮在霍爾木茲海峽以外地區新建一座液化天然氣(LNG)出口設施。此舉是阿聯酋為繞過這一關鍵水道而建設基礎設施的最新舉措。"
+    },
+    {
+      "id": "5034034",
+      "time": "2026-08-10 19:33:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體週一報道，根據一項新規定，伊朗各行政機構不得再自行封禁、暫停或限制網路平臺及數字業務，此類決定必須獲得伊朗總統佩澤希基揚批准。"
+    },
     {
       "id": "5034033",
       "time": "2026-08-10 19:32:56",
@@ -144802,85 +144855,6 @@
         "公司"
       ],
       "text": "【鵬鼎控股：完成收購控股子公司晟新23.53%股權工商變更登記】鵬鼎控股公告稱，公司全資子公司慶鼎精密電子（淮安）有限公司擬以16087萬元收購關聯方嘉維公司所持晟新公司23.53%股權，完成後晟新公司將成全資子公司。日前，晟新公司已完成此次股權收購工商變更登記，取得2026年7月30日換髮的《營業執照》，但轉讓價款尚未支付。"
-    },
-    {
-      "id": "5022564",
-      "time": "2026-08-03 19:37:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Qwen3.8-Max上線國家超算網際網路】8月3日，阿里巴巴正式釋出新一代基座大模型Qwen3.8-Max，總引數量達到2.4萬億，成為繼KimiK3之後又一突破兩萬億引數的國產大模型。釋出當日，國家超算網際網路上線該模型API呼叫服務，開發者可透過官網直接接入。"
-    },
-    {
-      "id": "te:markets:572196",
-      "time": "2026-08-03 19:37:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rise on Monday — Futures tracking US equities were higher on Monday with support from respite for Treasury securities. The S&P 500 rose 0.6%, the Nasdaq 100 was slightly higher, and the Dow added over 400 points. The US refrained from striking Iran over the weekend and oil prices pulled back. The moves drove yields to decrease across the curve as markets readjusted inflationary risks, supporting credit-sensitive equity sectors. Bank holding companies were higher, with JPMorgan, Bank of America, and Goldman Sachs gaining 1% premarket. Meanwhile, Bristol-Myers Squibb surged nearly 10% amid reports that it could be acquired by AstraZeneca. In turn, chip producers extended their volatile momentum as markets consistently reconsider their speculative exposure and overleveraged investors liquidate positions at likely discounts. Micron and Sandisk dropped over 3%, setting the pace for memory chip producers. Meanwhile, SpaceX and AMD were 1% down ahead of their earnings tomorrow."
-    },
-    {
-      "id": "5022563",
-      "time": "2026-08-03 19:37:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華揚聯眾：擬向控股股東進行8億元永續債權融資】華揚聯眾公告稱，為償還債務及補充流動資金，公司擬向控股股東湖南湘江新區發展集團有限公司開展永續債權融資，融資金額8億元。湘江集團持有公司19.81%股份。本次融資年化利率4%，無固定到期日，初始單個存續週期為3年。該議案已透過公司董事會審議，現提請2026年8月10日的臨時股東會以特別決議方式審議。"
-    },
-    {
-      "id": "5022562",
-      "time": "2026-08-03 19:36:54",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【美財政部長期拒絕調整美債發行指引，華爾街逐漸放棄期待】美國財長貝森特的債務管理團隊長期拒絕華爾街和美國財政部借款諮詢委員會（TBAC）提出的建議，即取消未來美國國債發行計劃中的前瞻性指引。由於這一立場持續時間過長，許多交易商已不再預計財政部會在短期內改變政策。在週三公佈季度債務策略宣告前，多數交易商預計，財政部將重申其此前承諾，即“至少未來幾個季度不會增加國庫券（note）和長期債券（bond）的發行規模”。"
-    },
-    {
-      "id": "5022561",
-      "time": "2026-08-03 19:36:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤前跌幅擴大】美光科技、閃迪、希捷科技跌超3%，西部資料跌超2%。"
-    },
-    {
-      "id": "5022560",
-      "time": "2026-08-03 19:36:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國信達：預計上半年淨利潤同比降20%至25%】中國信達(01359.HK)公告，預計該公司今年上半年淨利潤同比下降20%至25%，歸母淨利潤同比下降60%至70%。中國信達在公告中表示，淨利潤同比下滑主要受遞延所得稅費用變動及當期應納稅收入上升影響；歸母淨利潤同比下降的主要原因是今年上半年信達地產預計同比大幅減虧，歸屬於非控制性權益的虧損同比大幅下降。"
-    },
-    {
-      "id": "5022559",
-      "time": "2026-08-03 19:36:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "泰森食品下調年度利潤預期後，其股價盤前下跌約3%。"
-    },
-    {
-      "id": "mkt:019fc768-ac99-7aab-8f56-94ff4a972ebd",
-      "time": "2026-08-03 19:35:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Treasury under BESSENT resists removing forward guidance on bond issuance; dealers pare expectations】BESSENT’s debt management team has repeatedly rejected Wall Street and the Treasury Borrowing Advisory Committee (TBAC) requests to drop forward guidance in the Treasury’s future bond issuance plan, and many dealers now no longer expect a near-term policy change. Ahead of Wednesday’s quarterly debt strategy statement, most market participants expect the Treasury to reaffirm it will “not increase note and bond sizes for at least the next few quarters.” The guidance dates to the Biden administration; BESSENT previously criticized it as aimed at lowering long-term borrowing costs before the 2024 election. With midterms approaching, Republican officials also prefer to avoid signals that could expand auctions and push yields higher. RBC Capital Markets US rates strategist Blake Gwinn said Treasury should preserve optionality: modifying the guidance could lift yields, but the later the change, the larger the potential market impact."
-    },
-    {
-      "id": "em:qqyh_mlc:202608033829941725",
-      "time": "2026-08-03 19:34:17",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【三菱日聯預計美聯儲或於2027年降息】8月3日，三菱日聯金融集團分析師德里克·哈爾佩尼表示，美聯儲的下一步政策行動可能是在2027年降息。"
     }
   ]
 }
