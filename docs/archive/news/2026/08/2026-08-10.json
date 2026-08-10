@@ -1,7 +1,115 @@
 {
   "date": "2026-08-10",
-  "count": 983,
+  "count": 994,
   "items": [
+    {
+      "id": "5033330",
+      "time": "2026-08-10 13:49:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【橡木果釋出Natus具身本能模型】具身操作公司橡木果機器人（Acorn Robot）正式釋出“Natus AGE-0具身本能模型”，同步宣佈完成天使輪融資。本輪融資由招商局創投、蔚來資本共同領投，水木清華校友種子基金跟投。"
+    },
+    {
+      "id": "mkt:019fea38-6783-7aab-8fd2-53da8a5945b0",
+      "time": "2026-08-10 13:49:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE silver 2610 jumped 3.09% intraday to 15,668 yuan/kg; turnover about 167.12 billion yuan; open interest rose roughly 200 lots intraday."
+    },
+    {
+      "id": "mkt:019fea38-40d7-7aab-8fd2-49ca56f5b3ad",
+      "time": "2026-08-10 13:49:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai gold main contract intraday gain widened to 2.00%, trading at 946.10 yuan/gram."
+    },
+    {
+      "id": "mkt:019fea37-d65c-7aab-8fd2-45bc4f4158ca",
+      "time": "2026-08-10 13:49:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "688256.SS",
+        "Impact bearish"
+      ],
+      "text": "Cambricon Technologies on China’s A-share market recorded turnover above 20 bln yuan and was trading down more than 6%."
+    },
+    {
+      "id": "mkt:019fea37-30e2-7aab-8fd2-38779e7a2c6f",
+      "time": "2026-08-10 13:48:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $64.17/oz."
+    },
+    {
+      "id": "5033329",
+      "time": "2026-08-10 13:48:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報64.17美元/盎司。"
+    },
+    {
+      "id": "5033328",
+      "time": "2026-08-10 13:48:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【臺積電7月營業額同比躍增45% 顯示AI硬體需求不墜】臺積電公佈7月份營業額同比增長45%，顯示儘管市場波動，但對AI硬體的需求仍然強勁。這家英偉達和蘋果公司首選的晶片製造商7月營收達4,675.8億元臺幣(145億美元)。上個月，臺積電上調年度支出和營收預測，反映出其對AI晶片強勁增長動能將持續到2027年及之後的信心。臺積電目前預計，2026年資本支出將達到創紀錄的600億-640億美元，並預測以美元計的全年營收增幅將略高於40%。科技股估值在7月陷入停滯，外界持續擔心資料中心產能過剩，並質疑數以萬億美元計的AI相關支出能否帶來實質回報。臺積電股價較6月末的高點下跌約5%，但今年以來累計上漲超過50%。"
+    },
+    {
+      "id": "5033327",
+      "time": "2026-08-10 13:47:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報15660.00元。"
+    },
+    {
+      "id": "5033326",
+      "time": "2026-08-10 13:47:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量553億元。"
+    },
+    {
+      "id": "mkt:019fea35-e1b3-7aab-8fd2-355371d39ad8",
+      "time": "2026-08-10 13:47:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "A-share gold and jewelry stocks strengthened in afternoon trade; Zhaojin Gold jumped over 9%, while Mankalong, Western Gold and Hunan Gold also rose."
+    },
+    {
+      "id": "5033325",
+      "time": "2026-08-10 13:46:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技納入MSCI中國全股票指數，今日生效】國際指數編制公司MSCI此前釋出的調整公告正式落地。8月10日，長鑫科技被納入MSCI中國全股票指數（MSCI CHINA ALL SHARES INDEX） 正式生效。截至發稿，長鑫科技跌超3%，報50.86元/股，總市值3.4萬億元。"
+    },
     {
       "id": "5033324",
       "time": "2026-08-10 13:46:07",
