@@ -1,7 +1,151 @@
 {
   "date": "2026-08-10",
-  "count": 2268,
+  "count": 2283,
   "items": [
+    {
+      "id": "mkt:019febe7-bdc9-7aab-8fda-ee01b0894513",
+      "time": "2026-08-10 21:41:00",
+      "tags": [
+        "MKT News",
+        "NET.N",
+        "Impact bearish"
+      ],
+      "text": "Cloudflare (NET.N) shares fell 2.3% after the company announced plans for a private placement of $2.175 billion of convertible bonds."
+    },
+    {
+      "id": "5034278",
+      "time": "2026-08-10 21:40:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破80美元/桶，日內漲2.34%。"
+    },
+    {
+      "id": "5034277",
+      "time": "2026-08-10 21:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "Cloudflare宣佈擬私募發行21.75億美元可轉換票據後，股價下跌2.3%。"
+    },
+    {
+      "id": "5034276",
+      "time": "2026-08-10 21:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞，聖何塞‑德爾帕爾馬以西16公里處發生5.0級地震。"
+    },
+    {
+      "id": "te:markets:574153",
+      "time": "2026-08-10 21:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.17% Lower — The Dow Jones Index is falling 89 points. Losses were driven by Apple (-2.38%), Sherwin-Williams (-1.53%) and Home Depot (-1.51%). Biggest rises came from Chevron (2.24%), Cisco Systems (1.53%) and UnitedHealth (1.18%)."
+    },
+    {
+      "id": "te:markets:574152",
+      "time": "2026-08-10 21:39:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Muted on Monday — US stock indices were muted on Monday, holding recent rallies as markets assessed the outlook on interest rates for this year. The S&P 500 and Dow were flat near their records and the Nasdaq 100 inched down. A small majority of the market positioned in accordance with a rate hold by the Federal Reserve next month. Nonfarm payrolls unexpectedly declined in July to challenge the view of a robust labor market, which was commonly cited by hawkish FOMC members following multiple dissents in the central bank's last meeting. Meanwhile, fuel costs remained below recent peaks despite risks of prolonged supply setbacks of oil from the Persian Gulf. Tech giants were mostly higher after a group of brokers signaled strong demand for cloud services, with Meta, Microsoft, and SpaceX adding around 1% each. On the other hand, Intel fell over 3% as it will be offering $15 billion in stock. Also, Apple fell by 2.5% after being downgraded to underperform by Jefferies."
+    },
+    {
+      "id": "5034275",
+      "time": "2026-08-10 21:39:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本連續兩個月破產企業超千家】據新華社，日本東京商工調查公司10日釋出的報告顯示，日本7月共有1028家企業破產，繼6月後再次超過1000家。這是日本14年來首次出現連續兩個月破產企業逾千家的情況。該公司分析，日元貶值推高物價以及勞動力短缺是導致破產企業增多的主要原因。 資料顯示，日本7月破產企業數量較去年同期增加6.9%，為今年以來單月最高值。這些企業負債總額為2363億日元（1美元約合159日元），較去年同期激增41.4%。其中，總部位於大阪的信用卡結算代理公司“全東信”負債額為1151.6億日元，可能是今年以來負債規模最大的日本破產企業。 從破產原因看，因日元貶值、物價上漲而破產的企業有93家，為2022年以來單月最高。另有63家企業因勞動力短缺和人力成本增高破產。從行業看，10個主要行業中有7個行業破產企業數量同比增加，包括建築業、零售業和運輸業。 東京商工調查公司表示，在日本物價和勞動力成本持續上漲背景下，利息負擔不斷加重，預計破產企業數量可能持續增加。 該公司7月釋出資料顯示，日本6月共有1021家企業破產；今年上半年，日本負債1000萬日元以上並破產的企業共有5346家，連續5年同比增加，時隔12年再次超過5000家。"
+    },
+    {
+      "id": "5034274",
+      "time": "2026-08-10 21:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統：要求相關部門提交地震後的詳細報告。"
+    },
+    {
+      "id": "mkt:019febe5-3498-7aab-8fda-e425af15ac56",
+      "time": "2026-08-10 21:38:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose about 5% to a two-week high after LNG export flows reached their highest level in a month."
+    },
+    {
+      "id": "mkt:019febe5-187f-7aab-8fda-dd9dd5d2bf11",
+      "time": "2026-08-10 21:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian President De la Espriella said he will travel to Pereira to inspect the area after an earthquake."
+    },
+    {
+      "id": "5034273",
+      "time": "2026-08-10 21:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部：我們將查明所有參與對別爾哥羅德和下卡姆斯克發動襲擊的烏克蘭人員身份。"
+    },
+    {
+      "id": "mkt:019febe4-f056-7aab-8fda-d04f6d6f7dba",
+      "time": "2026-08-10 21:37:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "TSM.N"
+      ],
+      "text": "【Microsoft Maia 300 AI chip could debut as early as September; engaged TSMC for >300,000-unit capacity】The Information reports Microsoft (MSFT.O) plans to unveil its next‑generation Maia 300 AI chip this autumn, possibly as early as September. To meet 2027 delivery needs, Microsoft has engaged TSMC (TSM.N) to secure manufacturing capacity for more than 300,000 units."
+    },
+    {
+      "id": "5034272",
+      "time": "2026-08-10 21:37:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨延續漲勢，價格上漲5%觸及兩週高點，因液化天然氣出口量創下一個月新高。"
+    },
+    {
+      "id": "5034271",
+      "time": "2026-08-10 21:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【市預警釋出中心】浦東新區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。"
+    },
+    {
+      "id": "5034270",
+      "time": "2026-08-10 21:37:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【市預警釋出中心】青浦區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。"
+    },
     {
       "id": "5034269",
       "time": "2026-08-10 21:36:32",

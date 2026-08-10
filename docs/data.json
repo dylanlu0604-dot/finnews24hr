@@ -1,7 +1,151 @@
 {
-  "updated": "2026-08-10 21:37:37",
-  "count": 15894,
+  "updated": "2026-08-10 21:41:47",
+  "count": 15892,
   "items": [
+    {
+      "id": "mkt:019febe7-bdc9-7aab-8fda-ee01b0894513",
+      "time": "2026-08-10 21:41:00",
+      "tags": [
+        "MKT News",
+        "NET.N",
+        "Impact bearish"
+      ],
+      "text": "Cloudflare (NET.N) shares fell 2.3% after the company announced plans for a private placement of $2.175 billion of convertible bonds."
+    },
+    {
+      "id": "5034278",
+      "time": "2026-08-10 21:40:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破80美元/桶，日內漲2.34%。"
+    },
+    {
+      "id": "5034277",
+      "time": "2026-08-10 21:40:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "Cloudflare宣佈擬私募發行21.75億美元可轉換票據後，股價下跌2.3%。"
+    },
+    {
+      "id": "5034276",
+      "time": "2026-08-10 21:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞，聖何塞‑德爾帕爾馬以西16公里處發生5.0級地震。"
+    },
+    {
+      "id": "te:markets:574153",
+      "time": "2026-08-10 21:40:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.17% Lower — The Dow Jones Index is falling 89 points. Losses were driven by Apple (-2.38%), Sherwin-Williams (-1.53%) and Home Depot (-1.51%). Biggest rises came from Chevron (2.24%), Cisco Systems (1.53%) and UnitedHealth (1.18%)."
+    },
+    {
+      "id": "te:markets:574152",
+      "time": "2026-08-10 21:39:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Muted on Monday — US stock indices were muted on Monday, holding recent rallies as markets assessed the outlook on interest rates for this year. The S&P 500 and Dow were flat near their records and the Nasdaq 100 inched down. A small majority of the market positioned in accordance with a rate hold by the Federal Reserve next month. Nonfarm payrolls unexpectedly declined in July to challenge the view of a robust labor market, which was commonly cited by hawkish FOMC members following multiple dissents in the central bank's last meeting. Meanwhile, fuel costs remained below recent peaks despite risks of prolonged supply setbacks of oil from the Persian Gulf. Tech giants were mostly higher after a group of brokers signaled strong demand for cloud services, with Meta, Microsoft, and SpaceX adding around 1% each. On the other hand, Intel fell over 3% as it will be offering $15 billion in stock. Also, Apple fell by 2.5% after being downgraded to underperform by Jefferies."
+    },
+    {
+      "id": "5034275",
+      "time": "2026-08-10 21:39:03",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日本連續兩個月破產企業超千家】據新華社，日本東京商工調查公司10日釋出的報告顯示，日本7月共有1028家企業破產，繼6月後再次超過1000家。這是日本14年來首次出現連續兩個月破產企業逾千家的情況。該公司分析，日元貶值推高物價以及勞動力短缺是導致破產企業增多的主要原因。 資料顯示，日本7月破產企業數量較去年同期增加6.9%，為今年以來單月最高值。這些企業負債總額為2363億日元（1美元約合159日元），較去年同期激增41.4%。其中，總部位於大阪的信用卡結算代理公司“全東信”負債額為1151.6億日元，可能是今年以來負債規模最大的日本破產企業。 從破產原因看，因日元貶值、物價上漲而破產的企業有93家，為2022年以來單月最高。另有63家企業因勞動力短缺和人力成本增高破產。從行業看，10個主要行業中有7個行業破產企業數量同比增加，包括建築業、零售業和運輸業。 東京商工調查公司表示，在日本物價和勞動力成本持續上漲背景下，利息負擔不斷加重，預計破產企業數量可能持續增加。 該公司7月釋出資料顯示，日本6月共有1021家企業破產；今年上半年，日本負債1000萬日元以上並破產的企業共有5346家，連續5年同比增加，時隔12年再次超過5000家。"
+    },
+    {
+      "id": "5034274",
+      "time": "2026-08-10 21:38:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統：要求相關部門提交地震後的詳細報告。"
+    },
+    {
+      "id": "mkt:019febe5-3498-7aab-8fda-e425af15ac56",
+      "time": "2026-08-10 21:38:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose about 5% to a two-week high after LNG export flows reached their highest level in a month."
+    },
+    {
+      "id": "mkt:019febe5-187f-7aab-8fda-dd9dd5d2bf11",
+      "time": "2026-08-10 21:38:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombian President De la Espriella said he will travel to Pereira to inspect the area after an earthquake."
+    },
+    {
+      "id": "5034273",
+      "time": "2026-08-10 21:38:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部：我們將查明所有參與對別爾哥羅德和下卡姆斯克發動襲擊的烏克蘭人員身份。"
+    },
+    {
+      "id": "mkt:019febe4-f056-7aab-8fda-d04f6d6f7dba",
+      "time": "2026-08-10 21:37:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "TSM.N"
+      ],
+      "text": "【Microsoft Maia 300 AI chip could debut as early as September; engaged TSMC for >300,000-unit capacity】The Information reports Microsoft (MSFT.O) plans to unveil its next‑generation Maia 300 AI chip this autumn, possibly as early as September. To meet 2027 delivery needs, Microsoft has engaged TSMC (TSM.N) to secure manufacturing capacity for more than 300,000 units."
+    },
+    {
+      "id": "5034272",
+      "time": "2026-08-10 21:37:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國天然氣期貨延續漲勢，價格上漲5%觸及兩週高點，因液化天然氣出口量創下一個月新高。"
+    },
+    {
+      "id": "5034271",
+      "time": "2026-08-10 21:37:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【市預警釋出中心】浦東新區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。"
+    },
+    {
+      "id": "5034270",
+      "time": "2026-08-10 21:37:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【市預警釋出中心】青浦區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。"
+    },
     {
       "id": "5034269",
       "time": "2026-08-10 21:36:32",
@@ -144553,168 +144697,6 @@
         "其他"
       ],
       "text": "南非7月新車銷量同比增長11.9%。"
-    },
-    {
-      "id": "mkt:019fc7db-d95a-7aab-8f58-c74004ca5631",
-      "time": "2026-08-03 21:41:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "XPEV.N",
-        "Impact mixed"
-      ],
-      "text": "XPeng Inc (XPEV.N) shares fell more than 4% intraday. Deliveries of new vehicles in July rose about 4% YoY."
-    },
-    {
-      "id": "5022840",
-      "time": "2026-08-03 21:41:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "krystal生物科技公司股價在公佈第二季度業績後下跌7.2%。"
-    },
-    {
-      "id": "te:markets:572232",
-      "time": "2026-08-03 21:40:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Slips as Easing Geopolitical Risks Offset Weaker Dollar — Silver fell below $57 an ounce on Monday as easing geopolitical tensions weighed on demand for safe-haven assets, offsetting support from a weaker US dollar. Oil prices tumbled after optimism grew over renewed US-Iran negotiations, easing concerns about inflation and the prospect of higher-for-longer interest rates. US President Donald Trump said fresh talks with Iran would begin on Monday, although Tehran denied that negotiations with Washington were underway. Meanwhile, the US dollar weakened to its lowest level since mid-June after authorities intervened in the foreign exchange market to support the yen, limiting silver's losses. Investors are now awaiting a series of US labor market reports, including Friday's nonfarm payrolls data, for further clues on the Federal Reserve's policy outlook."
-    },
-    {
-      "id": "te:markets:572231",
-      "time": "2026-08-03 21:40:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mastercard Stock Price Hits 29-week High — Mastercard shares increased to 582.67 USD, the highest since January 2026. Over the past 4 weeks, Mastercard gained 11.41%, and in the last 12 months, it increased 3.96%."
-    },
-    {
-      "id": "5022839",
-      "time": "2026-08-03 21:40:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "小鵬汽車美股上市股價在月度車輛交付資料公佈後下跌4.3%。"
-    },
-    {
-      "id": "te:markets:572229",
-      "time": "2026-08-03 21:40:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 1.22% Higher — The Dow Jones Index is up by 640 points or 1.22 percent on Monday. Top gainers are Microsoft (5.21%), Amazon (5.09%) and Alphabet (3.98%)."
-    },
-    {
-      "id": "5022838",
-      "time": "2026-08-03 21:39:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽力斯：2026年7月新能源汽車產銷量同比下滑】賽力斯公告稱，2026年7月，公司新能源汽車產量24577輛，同比降44.47%；銷量24229輛，同比降45.65%。其中，賽力斯汽車產量20931輛，同比降50.52%；銷量20480輛，同比降50.86%。其他車型產量2995輛，同比增32.58%；銷量2450輛，同比降27.13%。本年累計來看，公司汽車產銷量均有不同程度下滑。"
-    },
-    {
-      "id": "5022837",
-      "time": "2026-08-03 21:39:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迅遊科技：股東袁旭司法拍賣減持 海運天成第一大股東】迅遊科技公告稱，股東袁旭持有的830.54萬股公司股份於7月31日被司法拍賣，由淄博盈安投資合夥企業以2.96億元拍得並完成過戶。袁旭持股比例由8.83%降至4.74%，不再是第一大股東及持股5%以上股東。海運天及其一致行動人海行天被動成為第一大股東，合計持股1544.06萬股，佔總股本7.60%。本次權益變動不觸及要約收購，不影響控制權和公司正常經營。"
-    },
-    {
-      "id": "5022836",
-      "time": "2026-08-03 21:39:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽力斯：截至7月底累計斥資5.87億元回購0.52%股份】賽力斯公告稱，公司於2026年3月30日、4月22日分別召開董事會和股東會，同意以10-20億元自有資金回購股份並減少註冊資本，實施期限為2026年4月22日-2027年4月21日。7月，公司回購481.01萬股，佔總股本0.28%，支付金額2.60億元。截至2026年7月31日，累計回購897.55萬股，佔總股本0.52%，累計支付金額5.87億元，回購價52.08-91.00元/股。"
-    },
-    {
-      "id": "mkt:019fc7d9-ad4f-7aab-8f58-bebcb15c0d3a",
-      "time": "2026-08-03 21:39:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold extended losses, slipping below $4,020/oz and down 0.59% intraday."
-    },
-    {
-      "id": "5022835",
-      "time": "2026-08-03 21:39:18",
-      "tags": [
-        "觀點"
-      ],
-      "text": "瑞銀將摩根士丹利目標股價從255美元上調至260美元。"
-    },
-    {
-      "id": "5022834",
-      "time": "2026-08-03 21:39:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "瑞銀將花旗目標股價從150美元下調至142美元。"
-    },
-    {
-      "id": "5022833",
-      "time": "2026-08-03 21:38:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞銀將美國運通目標股價從386美元下調至384美元。"
-    },
-    {
-      "id": "mkt:019fc7d9-41cf-7aab-8f58-b30b4566d929",
-      "time": "2026-08-03 21:38:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "SHFE silver main contract fell 2.00% intraday to 13,820 yuan/kg."
-    },
-    {
-      "id": "5022832",
-      "time": "2026-08-03 21:38:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4020美元/盎司，日內跌0.67%。"
-    },
-    {
-      "id": "5022831",
-      "time": "2026-08-03 21:38:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4080美元/盎司，日內跌0.72%。"
-    },
-    {
-      "id": "5022830",
-      "time": "2026-08-03 21:38:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將Unity目標價從28美元上調至32美元。"
     }
   ]
 }
