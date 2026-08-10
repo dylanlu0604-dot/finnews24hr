@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-10 20:09:49",
-  "count": 15933,
+  "updated": "2026-08-10 20:13:49",
+  "count": 15931,
   "items": [
+    {
+      "id": "5034123",
+      "time": "2026-08-10 20:12:35",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨漲跌不一，道指期貨跌0.07%，標普500指數期貨漲0.06%，納指期貨漲0.10%。\n②德國DAX指數漲0.34%，英國富時100指數跌0.16%，法國CAC40指數漲0.16%，歐洲斯托克50指數漲0.51%。\n③WTI原油漲1.66%，報79.48美元/桶。布倫特原油漲1.69%，報84.96美元/桶。\n④本週伊始，美國國債收益率小幅走低。投資者將迎來密集經濟資料周，市場焦點集中在等待7 月核心通脹資料。\n⑤暢銷書作家羅伯特・清崎稱，美國或將瀕臨“大蕭條”，大量配置股票的美國退休賬戶持有者，將極易遭遇市場暴跌衝擊。\n⑥美國參議院多數黨領袖宣佈，在8月休會前不會對《數字資產市場清晰法案》舉行程式性投票，這使得該法案今年內成為法律的可能性進一步降低。\n⑦Meta盤前股價上漲 2.9%，此前該公司釋出可單卡執行的輕量AI模型Muse Glimmer。\n⑧巴里克黃金礦業在美上市股價盤前下跌5%，因該公司第二季度利潤不及預期。\n⑨SIONNA Therapeutics 公佈主要終點更新資料後，盤前股價暴跌 87%。"
+    },
+    {
+      "id": "5034122",
+      "time": "2026-08-10 20:12:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美元兌日元USD/JPY一度下挫約40點，最低至158.41，現回升至158.67。"
+    },
+    {
+      "id": "mkt:019feb96-7c6f-7aab-8fd9-889ce6c7df5e",
+      "time": "2026-08-10 20:12:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "USD/JPY briefly fell about 40 pips to a low of 158.41, now trading at 158.67."
+    },
+    {
+      "id": "mkt:019feb96-2d16-7aab-8fd9-8475309d319d",
+      "time": "2026-08-10 20:11:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Multiple 'Sorry' ransomware attacks detected in China】The National Computer Virus Emergency Response Center and the National Engineering Laboratory for Computer Virus Prevention and Control, via the national computer virus collaborative analysis platform (https://virus.cverc.org.cn), have detected multiple 'Sorry' ransomware incidents in China. Victims' important files are encrypted and renamed with a .sorry suffix; attackers leave ransom notes demanding victims download an encrypted communication tool to contact them."
+    },
+    {
+      "id": "mkt:019feb95-d512-7aab-8fd9-7b8b268792bd",
+      "time": "2026-08-10 20:11:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said a meeting with the supreme leader lasted 7-8 hours."
+    },
+    {
+      "id": "5034121",
+      "time": "2026-08-10 20:11:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯成真空：擬定增募資不超過9.55億元用於超精密半導體及連續式PVD裝置產業化等專案】匯成真空公告，公司2026年度擬向特定物件發行A股股票，募集資金總額不超過人民幣9.55億元（含本數），扣除發行費用後擬全部用於超精密半導體及連續式PVD裝置產業化專案（擬投入66,861.68萬元）及補充流動資金（擬投入28,638.32萬元）。本次發行物件不超過35名，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，發行股票數量不超過3000萬股（含本數），即不超過發行前公司總股本的30%。"
+    },
+    {
+      "id": "5034120",
+      "time": "2026-08-10 20:11:11",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日媒：植田暗示9月加息促成美日聯合買入日元】多位日本政府官員10日透露，日美兩國政府於美國東部時間7月31日實施了一次異乎尋常的聯合日元買入干預，這是28年來首次此類行動。其決定性因素在於，日本央行行長植田和男在當日（7月31日）的記者會上強烈暗示，將在9月及之後儘早提高政策利率。植田明確表示，如有必要將“加快加息步伐”。美方對此給予積極評價，雙方在阻止日元過度貶值方面步調一致。這是因為美國擔憂，日本加息遲緩已導致日元過度貶值，進而引發物價進一步上漲和長期利率攀升，這可能波及全球金融市場。一位日本政府高官透露：“植田行長的表態對美方極具說服力。同時，這也意味著日本央行在（9月17-18日的）下次政策會議上，除了加息已別無選擇。”"
+    },
+    {
+      "id": "5034119",
+      "time": "2026-08-10 20:09:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【警惕！我國境內發現多起“Sorry”勒索病毒攻擊事件】近日，國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）在我國境內發現多起使用者遭“Sorry”勒索病毒攻擊事件。使用者重要檔案被加密後檔名被更改為原檔名+“.sorry”字尾字串，攻擊者還在使用者主機上留下勒索信，要求使用者下載加密通訊工具與其聯絡。（央視新聞）"
+    },
     {
       "id": "5034118",
       "time": "2026-08-10 20:09:00",
@@ -145000,93 +145075,6 @@
         "國際"
       ],
       "text": "【美股盤前要聞速遞】\n①美股盤前，道指期貨跌1.02%，標普500指數期貨漲0.45%，納指期貨漲0.02%。\n②德國DAX指數漲1.49%，英國富時100指數漲0.24%，法國CAC40指數漲1.35%，歐洲斯托克50指數漲0.77%。\n③WTI原油跌6.74%，報78.96美元/桶。布倫特原油跌5.80%，報82.83美元/桶。\n④紐約聯邦儲備銀行行長威廉姆斯表示，鑑於通脹預計將在今年下半年放緩，當前利率水平仍處於良好位置。\n⑤高盛策略師表示，經歷近期一輪震盪行情後，人工智慧板塊前景有所好轉。策略師預計，強勁的盈利表現以及投資者持倉回落，將緩解市場劇烈波動。\n⑥曾經爭相引進資料中心的美國各州州長與州議會，如今紛紛著手取消銷售稅減免政策。此舉或將導致每吉瓦 AI 算力專案成本增加數十億美元，裝置購置成本最高上浮 7% 以上。\n⑦GAMESTOP股價盤前跌幅擴大至12%，此前該公司宣佈將以14億美元的可轉換票據進行私募換股。\n⑧CIRCLE盤前下跌5.9%，此前摩根士丹利將其股票評級下調至減持。\n⑨eBay股價盤前下跌2.7%，此前富國銀行將其股票評級從持股持平下調至減持。"
-    },
-    {
-      "id": "5022652",
-      "time": "2026-08-03 20:13:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "Edible Garden簽下多年自有品牌供應協議，擴大與美國中西部大型倉儲式零售商的合作關係。"
-    },
-    {
-      "id": "5022651",
-      "time": "2026-08-03 20:12:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【ChatGPT Atlas 瀏覽器將於 8 月 9 日停止服務，使用者需抓緊匯出書籤資料】OpenAI 旗下 ChatGPT Atlas 瀏覽器將於 8 月 9 日停止服務，往後將不再有功能和安全更新。這款瀏覽器最初於 2025 年 10 月 21 日登陸 macOS 平臺，上線距今不到 10 個月。"
-    },
-    {
-      "id": "5022650",
-      "time": "2026-08-03 20:12:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列議會批准將以色列國防軍緊急動員令延長兩個月，授權軍方可徵召至多 24 萬名預備役人員，有效期至 9 月 30 日。"
-    },
-    {
-      "id": "mkt:019fc789-cfa5-7aab-8f57-2e85851f0f1e",
-      "time": "2026-08-03 20:12:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Powerus wins up to $90 mln indefinite-delivery/indefinite-quantity (IDIQ) contract from the US Air Force for air-denial missions."
-    },
-    {
-      "id": "5022649",
-      "time": "2026-08-03 20:11:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧德時代：2026年中期A股分紅61.80億元 8月10日發放】寧德時代公告稱，2026年中期A股分紅派息方案為，以43.80億股為基數，向全體股東每10股派現金14.11元（含稅），實際派發61.80億元。股權登記日為8月7日，除權除息及現金紅利發放日為8月10日。此外，因分紅，21、22年激勵計劃股票期權7月29日至8月7日暫停行權，回購價格上限將調整為571.60元/股。"
-    },
-    {
-      "id": "5022648",
-      "time": "2026-08-03 20:10:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國信通院：2025年我國人工智慧產業規模超1.2萬億元】中國資訊通訊研究院持續開展人工智慧產業研究，並開展2025年人工智慧產業規模測算。經測算，2025年我國人工智慧產業規模超1.2萬億元，同比增長40%。截至2026年6月，人工智慧企業數量超6600家，全球佔比達到15%，已形成覆蓋基礎底座、模型框架、行業應用的完整產業體系。人工智慧產業鏈分為基礎層、模型框架層和應用層。2025年，我國人工智慧基礎層產業規模同比增長59%，佔比為38%；人工智慧模型框架層規模同比增長189%，佔比為7%；人工智慧應用層規模同比增長22%，佔比為55%。下一步，中國信通院將持續夯實產業監測基礎，明晰產業發展格局，實時掌握產業發展動態，精準識別風險與機遇，為政府科學決策和行業健康發展提供有力支撐。（中國信通院）"
-    },
-    {
-      "id": "mkt:019fc788-c097-7aab-8f57-265cc132bc12",
-      "time": "2026-08-03 20:10:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【CAICT: China's AI industry to exceed 1.2 tln yuan in 2025】China Academy of Information and Communications Technology (CAICT) estimates China's AI industry will exceed 1.2 tln yuan in 2025, up 40% YoY. As of June 2026 there are over 6,600 AI firms in China, about 15% of the global total. CAICT divides the industry into base, model/framework and application layers: in 2025 the base layer grew 59% YoY and accounted for 38% of the industry, the model/framework layer grew 189% YoY and accounted for 7%, and the application layer grew 22% YoY and accounted for 55%."
-    },
-    {
-      "id": "5022647",
-      "time": "2026-08-03 20:10:31",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利預計雲端計算支出將激增至1.2萬億美元】摩根士丹利預計，全球雲端計算資本支出將在2027年達到1.2萬億美元，同比增長30%，較第二季度前估算高出1700億美元。該公司表示，美國四大主要超大規模雲服務提供商仍面臨容量限制，因為人工智慧需求持續超過供應。Alphabet 、Amazon 和Meta均上調了2026年資本支出指引，而 Microsoft維持了其支出展望。"
-    },
-    {
-      "id": "5022646",
-      "time": "2026-08-03 20:10:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中證協：券商不得因過度追求短期利潤、業務擴張放鬆流動性管理】記者瞭解到，中證協近期對《證券公司流動性風險管理指引》進行了修訂，目前正就修訂稿徵求行業意見。修訂的《指引》要求，券商應在內部定價以及考核激勵等相關制度中充分考慮流動性風險因素，引導建立穩健的資產配置結構，避免因過度追求業務擴張和短期利潤而放鬆流動性風險管理。"
-    },
-    {
-      "id": "mkt:019fc787-dc47-7aab-8f57-1e4c29f82f77",
-      "time": "2026-08-03 20:09:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Allianz chief economic adviser Mohamed El-Erian said the KOSPI fell 5% today; while large in absolute terms, the decline is relatively mild compared with recent extreme volatility."
     }
   ]
 }
