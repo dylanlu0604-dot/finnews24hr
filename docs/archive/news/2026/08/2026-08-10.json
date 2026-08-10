@@ -1,7 +1,27 @@
 {
   "date": "2026-08-10",
-  "count": 1456,
+  "count": 1458,
   "items": [
+    {
+      "id": "mkt:019feadd-6698-7aab-8fd6-006c819e8c44",
+      "time": "2026-08-10 16:50:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran army chief warns U.S. against landing, says forces at full readiness】During an Aug. 9 inspection of units in southeast Iran and the Makran coast, Iran Army commander Ali Jahanshahi warned Iran is \"ready to defend\" and said \"if U.S. forces dare to set foot on Iranian territory, we will cut off their legs.\" He added the army is monitoring movements and potential threats, is at full combat readiness, and has deployed rapid-reaction and special forces to border areas."
+    },
+    {
+      "id": "mkt:019feadb-2bb1-7aab-8fd5-fe5f15e6b5b6",
+      "time": "2026-08-10 16:47:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Guotou Silver LOF said trading will be suspended from the market open on Aug. 10, 2026 and will resume at 10:30 local time the same day."
+    },
     {
       "id": "5033638",
       "time": "2026-08-10 16:45:25",
