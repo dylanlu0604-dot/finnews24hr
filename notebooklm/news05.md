@@ -1,7 +1,391 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-11 03:59:35_
-_本檔包含 3289 則快訊，約 597630 字_
+_更新時間：2026-08-11 04:57:25_
+_本檔包含 3311 則快訊，約 598368 字_
+
+---
+
+### 2026-08-05 08:06:43  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
+
+Japan's Nikkei index rose as much as 2.00% intraday.
+
+---
+
+### 2026-08-05 08:06:36  #央行 #國際
+
+日本時事社報導，首相高市早苗要求日本央行在必要時購買更多債券。
+
+---
+
+### 2026-08-05 08:06:28  #央行 #國際
+
+日本央行會議紀要：一名委員認為，企業與家庭的通脹預期已經升至2%左右的水平。
+
+---
+
+### 2026-08-05 08:06:14  #市場
+
+MSCI亞太指數上漲1%至270.79點。
+
+---
+
+### 2026-08-05 08:06:09  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact mixed
+
+Bank of Japan minutes: one member said mid-to-long-term inflation expectations are beginning to change and the market breakeven inflation rate has risen above 2%.
+
+---
+
+### 2026-08-05 08:06:03  #央行 #國際
+
+日本央行會議紀要：一名委員表示，隨著市場盈虧平衡通脹率升至2%以上，中長期通脹預期正開始發生變化。
+
+---
+
+### 2026-08-05 08:05:13  #市場
+
+布倫特原油日內跌1%，現報78.55美元/桶。
+
+---
+
+### 2026-08-05 08:05:11  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+2028 FOMC voting member and Kansas City Fed President Schmidt will speak in ten minutes on the Federal Reserve, monetary policy and the outlook for the agricultural economy.
+
+---
+
+### 2026-08-05 08:05:03  #市場
+
+澳大利亞ASX 200指數上漲0.6%，創盤中歷史新高。
+
+---
+
+### 2026-08-05 08:04:53  #市場
+
+WTI原油日內跌1%，現報74.95美元/桶。
+
+---
+
+### 2026-08-05 08:04:46  #公司 #市場 #國際
+
+日本製鐵股價一度上漲 3.3%，此前該公司上調了全年營業利潤預期。
+
+---
+
+### 2026-08-05 08:04:22  #市場 #國際
+
+受美國股市上漲和油價下跌的提振，日經平均指數上漲超過1100點。
+
+---
+
+### 2026-08-05 08:03:45  #MKT News #USDJPY
+
+Bank of Japan minutes: a Cabinet Office representative said they hope the Bank of Japan will appropriately consider government efforts to promote crisis management and growth-oriented investment when formulating policy.
+
+---
+
+### 2026-08-05 08:03:31  #宏觀
+
+【8臺核電新機組獲核准 上海核電企業已承攬近500億元訂單】國務院常務會議7月31日決定核准浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期、山東萊陽核電一期4個核電專案，共8臺核電機組。這是“十五五”時期首批獲准的核電專案，據估算，上述新專案的總投資將超過1700億元。記者瞭解到，作為我國核電產業的重要承載地，上海核電充分發揮產業鏈集聚優勢，在新獲批的8臺機組前期專案招標中，上海已承接各類合同金額近500億元。（澎湃新聞）
+
+---
+
+### 2026-08-05 08:03:25  #MKT News
+
+South Korean media reported the 2027 minimum hourly wage was set at 10,700 won, up 3.7% from this year.
+
+---
+
+### 2026-08-05 08:03:23  #央行 #國際
+
+日本央行會議紀要：內閣辦公室代表稱，希望日本央行在制定適當政策時，能夠顧及政府在推進危機管理與增長領域投資方面所做的工作。
+
+---
+
+### 2026-08-05 08:03:21  #市場
+
+澳大利亞S&P/ASX 200指數早盤上漲0.4%，報9,180.60點。
+
+---
+
+### 2026-08-05 08:02:54  #央行 #國際
+
+日本央行會議紀要：內閣辦公室代表稱，日本央行必須做出適當回應以穩定市場，在其購債操作問題上，還需仔細審查資產負債表縮表可能對經濟產生何種影響。
+
+---
+
+### 2026-08-05 08:02:36  #國際
+
+據韓媒報道，韓國2027年最低工資標準將上調3.7%，至10700韓元。
+
+---
+
+### 2026-08-05 08:02:16  #MKT News #USDJPY #Impact bearish #DXY #Impact mixed
+
+Bank of Japan minutes: several members said discussion of reducing bond purchases is currently focused on scale, but importance is likely to shift to the maturities of government bonds purchased.
+
+---
+
+### 2026-08-05 08:02:15  #公司 #國際
+
+【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報6623.97點。個股方面，SK海力士、三星電子漲超6%。
+
+---
+
+### 2026-08-05 08:01:38  #MKT News #Important
+
+【KOSPI opens up 3.8%】Japan's Nikkei 225 opened above 64,000, up 1.0% on the session. South Korea's KOSPI jumped 3.8% at the open, briefly touching 6,600. SK hynix rose over 7%; Samsung Electronics advanced roughly 5%.
+
+---
+
+### 2026-08-05 08:00:51  #市場 #央行 #國際
+
+日本央行會議紀要：少數成員稱，目前對日本央行購債縮減的討論聚焦於縮減規模，但未來重點大機率會轉向所購日本國債的期限層面。
+
+---
+
+### 2026-08-05 08:00:37  #市場 #國際
+
+韓國綜合股價指數（KOSPI）開盤報6603.48點，上漲3.8%。
+
+---
+
+### 2026-08-05 08:00:25  #市場
+
+日經225指數上午開盤報64565.27點，漲幅0.95%。
+
+---
+
+### 2026-08-05 08:00:14  #MKT News #Market Regions #Japan & APAC
+
+BOJ minutes: one member said the Bank of Japan must, at some point, take economic and financial conditions into account and seek an appropriate level of reserves.
+
+---
+
+### 2026-08-05 08:00:12  #公司 #國際
+
+【日本2架飛機險些空中相撞】據日媒報道，4日，在日本東京羽田機場，一架載有197名乘客的日本全日空航空公司客機準備降落時，飛機防撞系統發出警報，飛行員立即採取爬升操作。事發時，一架剛起飛的日本國土交通省的檢查飛機正在附近飛行。據瞭解，兩架飛機均按航空管制人員認可的航線飛行，但檢查飛機橫穿了全日空客機下降著陸的航線，飛機垂直高度差僅約20米，存在極高碰撞風險。目前，日本官方正對此展開調查。
+
+---
+
+### 2026-08-05 07:59:56  #公司
+
+【暑期聯名經濟熱度高漲 多家公司加碼“IP+消費”】暑期消費市場熱潮湧動，星巴克、茉莉奶白、呷哺呷哺、華萊士、元氣森林等食品飲料品牌紛紛加碼“IP+消費”，密集推出跨界聯名活動，搶抓暑期旺季市場。業內人士向證券時報記者表示，暑期聯名經濟熱度高漲，背後有雙重驅動：一是傳統消費賽道競爭日趨激烈，品牌需依託IP傳遞情緒價值、升級消費體驗；二是這一模式契合消費者持續攀升的情緒消費訴求。在政策持續扶持下，“IP+消費”賽道增長空間廣闊，消費潛力有望進一步釋放。
+
+---
+
+### 2026-08-05 07:59:40  #央行 #國際
+
+日本央行會議紀要：一名成員表示，日本央行必須在某個時點，結合經濟與金融發展形勢，尋求合適的準備金水平。
+
+---
+
+### 2026-08-05 07:59:32  #MKT News #USDJPY #Impact bullish #DXY
+
+Bank of Japan meeting minutes said some members viewed the decision to pause tapering of bond purchases as not driven by fiscal-policy considerations but intended to avoid instability in the Japanese government bond (JGB) market.
+
+---
+
+### 2026-08-05 07:59:06  #央行 #國際
+
+日本央行：如果政府債券購買被視為降低長期利率的舉措，將會對市場信心產生負面影響。
+
+---
+
+### 2026-08-05 07:58:53  #央行 #國際
+
+日本央行會議紀要：一名委員稱穩步縮減日本央行資產負債表至關重要。
+
+---
+
+### 2026-08-05 07:58:20  #央行 #國際
+
+日本央行會議紀要：幾名委員表示，日本央行決定暫停縮減購債規模並非為了配合財政政策，而是為了避免債券市場出現動盪。
+
+---
+
+### 2026-08-05 07:58:17  #公司 #市場 #國際
+
+【一加手機退出北美市場，當地官網最後一批手機售罄】據外媒 GSM Arena 報道，一加目前已正式退出北美市場，官網上銷售的最後一批手機目前已經售罄。 目前，一加美國官網商城已沒有多少商品可供購買，一加 15 和一加 15R 均已顯示缺貨狀態，平板電腦和智慧手錶全部下架，就連部分耳機和其他配件也所剩無幾。 加拿大一加官網的情況更加冷清，目前甚至連 OnePlus Buds 系列耳機也已經售罄。墨西哥官網則連購買按鈕都已經消失。 對於美國使用者來說，如果仍希望購買官方面向美國市場銷售的一加手機，可能只能在亞馬遜等第三方零售渠道尋找少量庫存。不過，這些裝置基本屬於最後庫存。 如果海外使用者打算未來繼續購買一加新機，也需要注意運營商相容性問題。由於美國運營商通常會限制支援的裝置型號，進口手機可能需要依賴運營商白名單才能正常使用。 參考此前報道，OPPO 官宣子品牌全球產品策略，realme 新品將聚焦海外市場，在中國市場暫停產品更新；一加則將在保持印度市場產品更新不變的情況下，主力發展中國市場，並暫停在歐洲和北美髮布新品。（IT之家）
+
+---
+
+### 2026-08-05 07:57:28  #其他
+
+【賦予機器人精細“手感” 觸覺感知正孕育增長迅猛細分賽道】機器人插接零件時在邊緣反覆摩擦卻難以入位，拿捏塑膠瓶時用力失衡致瓶身凹陷——工業場景中，具身智慧機器人“翻車”屢見不鮮。癥結在於，機器人和物理世界互動不能只靠視覺感知，觸覺等多模態資訊同樣舉足輕重。讓機器人從“看見”世界邁向“觸控”世界，觸覺感知正孕育出增長迅猛的細分賽道。據不完全統計，今年前7個月該領域新增融資超70億元，至少兩家企業躋身新晉獨角獸。證券時報記者採訪瞭解到，將觸覺資訊融入具身智慧大模型以提升機器人柔性操作能力，已成為業內主流探索方向之一。依託視觸融合等技術成果，機器人工業柔性操作已誕生應用測試場景，規模化量產有望上線。但因觸覺資料具有不可替代性，資料缺口仍是阻礙機器人規模化落地的核心瓶頸之一。業內呼籲，在強化多模態資料真實採集的同時，進一步完善資料模擬等技術路線；觸覺感測器等核心零部件則需在耐用性、資料一致性等方面精益求精。
+
+---
+
+### 2026-08-05 07:56:44  #央行 #國際
+
+日本央行多數委員：潛在通脹存在上行風險。
+
+---
+
+### 2026-08-05 07:56:05  #市場 #觀點 #國際
+
+【華泰證券：機器人行業正從主題定價轉向量產與需求驗證定價】華泰證券研報表示，上週智駕與機器人板塊超跌反彈，但7月份仍分別下跌12.61%、10.91%，華泰證券認為近期上漲以估值修復與資金輪動為主。機器人領域，行業正從主題定價轉向量產與需求驗證定價，建議觀察國產鏈與特斯拉鍊兩條主線——國產鏈短期以宇樹上市為催化，特斯拉鍊則跟蹤Optimus投產與展示效果，當前量產時點臨近而市場預期偏低。智駕領域，近期Robotaxi右舵市場破冰，政策端中美同步提速，NHTSA加速推動Robotaxi商業化，國內強制性國標進入執行準備階段、吉利與比亞迪、奇瑞三家首批透過體系認證。L2智駕標的前期跌幅較大，有望隨行業β預期改善觸底反彈。
+
+---
+
+### 2026-08-05 07:56:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
+
+Bank of Japan minutes show one member said the central bank must raise policy rates at a pace of roughly once every few months.
+
+---
+
+### 2026-08-05 07:55:59  #央行 #國際
+
+日本央行會議紀要：一名成員表示，日本央行必須以大約每數月一次的節奏加息。
+
+---
+
+### 2026-08-05 07:55:53  #央行 #日本央行
+
+【日本央行成員一致認為日本央行繼續加息是合適的】日本央行6月會議紀要顯示，成員一致認為日本央行繼續加息是合適的。多數委員認為經濟正按照基準情景執行，但基礎通脹存在可能超過日本央行2%目標的風險。
+
+---
+
+### 2026-08-05 07:55:26  #MKT News #USDJPY #Impact bearish #DXY #XAUUSD #Impact bullish
+
+Bank of Japan minutes: some members said the central bank must maintain policy guidance and would continue raising rates if economic and price developments align with its projections.
+
+---
+
+### 2026-08-05 07:55:23  #MKT News #USDJPY #Impact bearish
+
+Bank of Japan minutes: one member said moving the policy rate closer to a neutral level would help secure long-term economic and price stability.
+
+---
+
+### 2026-08-05 07:55:17  #MKT News #Macro & Rates #USDJPY #Impact bearish
+
+Bank of Japan minutes: members unanimously judged further rate increases appropriate.
+
+---
+
+### 2026-08-05 07:55:06  #央行 #國際
+
+日本央行會議紀要：數位委員表示，日本央行必須維持當前指引，即若經濟和物價走勢符合央行預期，日本央行將繼續加息。
+
+---
+
+### 2026-08-05 07:54:53  #MKT News #USDJPY #Impact mixed
+
+Bank of Japan minutes: most members said the economy is evolving broadly in line with the baseline scenario, but core inflation could exceed the BOJ's 2% target.
+
+---
+
+### 2026-08-05 07:54:52  #MKT News #USDJPY #Impact bearish #DXY
+
+Bank of Japan minutes: a member said Japan's real rates are unusually low by global standards and, given upside inflation risks, need to be adjusted.
+
+---
+
+### 2026-08-05 07:54:41  #MKT News #USDJPY #Impact bullish
+
+Bank of Japan June minutes: one member said exchange-rate movements are pushing up import prices and weighing on small firms.
+
+---
+
+### 2026-08-05 07:54:21  #央行 #國際
+
+日本央行會議紀要：成員一致認為日本央行應繼續加息，這一做法是適當的。
+
+---
+
+### 2026-08-05 07:54:02  #央行 #國際
+
+日本央行會議紀要：一名成員表示，將日本央行政策利率調至更接近中性水平，將有助於長期實現經濟與物價穩定。
+
+---
+
+### 2026-08-05 07:53:21  #其他
+
+【全球最小GPU透過實測：24萬電晶體TinyGPU v2.0已可渲染3D圖形】8月5日訊息，業餘ASIC/FPGA設計師Pongsagon Vichit開發的全球最小GPU晶片——TinyGPU v2.0已成功透過實測。該晶片依託Tiny Tapeout社群的SKY 25b工藝製造，內部包含約24萬個電晶體。在實際測試中，它能夠處理高達1000個多邊形或三角形的平滑著色、背面剔除以及仿射紋理對映等計算，併成功實時渲染出3D模型及旋轉的地球模型，執行幀率維持在7.5至15 FPS。TinyGPU v3.0預計將於2026年12月推出。v3.0版本最大的技術亮點是引入了受DirectX 8 PS 1.1啟發的可程式設計畫素著色器，支援SIMD 4畫素平行計算及26種指令集，這將帶來顯著的畫質與細節表現提升。
+
+---
+
+### 2026-08-05 07:53:16  #央行 #國際
+
+日本央行會議紀要：一名成員表示，按全球標準衡量，日本實際利率處於極低水平，考慮到通脹上行風險，必須對利率進行調整。
+
+---
+
+### 2026-08-05 07:53:03  #央行 #國際
+
+日本央行會議紀要：一名委員認為匯率因素推高進口價格，對中小企業造成損害。
+
+---
+
+### 2026-08-05 07:52:59  #市場
+
+【7月份大宗商品價格指數同比增長15.5%】中國物流與採購聯合會今天（5日）公佈7月份中國大宗商品價格指數。從指數執行情況看，大宗商品價格指數環比小幅回落，同比保持較大漲幅，市場執行基礎總體穩固。7月份中國大宗商品價格指數為128.6點，環比回落1.3%，同比增長15.5%。在中國物流與採購聯合會重點監測的50種大宗商品中，7月價格環比上漲的大宗商品有14種。其中，焦炭、氧化鐠釹和瓦楞紙漲幅居前，環比分別上漲7.1%、6.4%和5.6%。
+
+---
+
+### 2026-08-05 07:52:49  #公司
+
+【科技新貴紛紛下場做VC 產業資本啟用創新資本正迴圈】一級市場頻現“創而優則投”的故事。近期，GPU（圖形處理器）企業沐曦股份旗下全資子公司沐曦數智出資3600萬元，設立了淮安沐騰晨曦創業投資基金合夥企業（有限合夥），該基金總認繳規模2億元，由上海萬昂投資管理有限公司擔任GP（普通合夥人）。據記者梳理，今年以來，長鑫科技、兆易創新、長電科技等多家頂流科技公司都先後下場佈局一級市場投資，成為市場上新一波新貴LP（有限合夥）。多年前，這些公司還是各大VC/PE（風險投資機構）爭搶的優質賽道標的，一路依靠外部資本完成技術迭代與規模擴張，如今羽翼豐滿後反向賦能一級市場。新型產業LP群體的崛起，也意味著一個全新的資本迴圈正在形成。（人民財訊）
+
+---
+
+### 2026-08-05 07:52:25  #央行 #國際
+
+日本央行委員：密切關注中東局勢影響，權衡政策調整步伐。
+
+---
+
+### 2026-08-05 07:52:01  #央行 #國際
+
+日本央行6月貨幣政策會議紀要：多數成員一致認為經濟正按基線情景發展，存在潛在通脹可能超出日本央行2%目標的風險。
+
+---
+
+### 2026-08-05 07:51:53  #央行 #國際
+
+日本央行公佈6月15日至16日政策會議紀要。
+
+---
+
+### 2026-08-05 07:51:45  #Trading Economics #Economy #Australia #Composite PMI #Importance 1
+
+Australia Composite PMI Revised Higher — Australia’s S&P Global Composite PMI was revised up to 53.2 in July from the flash 52.6, accelerating from June’s 50.4 to the highest since January. The reading signaled a second consecutive month of private-sector expansion, underpinned by the strongest services growth in six months and a return to manufacturing output gains. New orders rose for the first time in five months, while the decline in export sales eased. Employment climbed at a solid pace for a second month, though stronger demand drove a renewed buildup of backlogs, highlighting capacity pressures. On inflation, input costs continued to rise sharply but eased to a five-month low from April’s peak. In contrast, output price inflation picked up at the start of Q3, returning to levels close to those seen in April and May. Business confidence rebounded from June’s 31-month low to its strongest level since just before the Middle East conflict in February, signaling improved sentiment heading into the second half of the year.
+
+---
+
+### 2026-08-05 07:51:21  #觀點 #國際
+
+【華泰證券：電網裝置板塊估值修復與催化空間並存】華泰證券研報表示，電網裝置板塊前期伴隨出口海外市場高景氣+國內“十五五”四萬億投資規劃落地，市場對於板塊業績預期與估值定價不斷上修，並於今年3月初創下新高；此後受到中東衝突、市場風格轉換以及板塊業績承壓等影響，進入持續的調整階段。當前認為市場對於二季報的業績預期交易已經相對充分，板塊整體估值已處低位。再次強調電網裝置出海的中長期邏輯依然堅挺，企業訂單層面表現較好，部分標的有望加速突破海外市場；同時國內主網標的二季報業績與中期訂單均存在較強支撐；板塊整體估值修復與催化空間並存。（第一財經）
+
+---
+
+### 2026-08-05 07:51:15  #市場 #國際
+
+10年期日本國債收益率下跌1.5個基點至2.830%。
+
+---
+
+### 2026-08-05 07:51:10  #央行 #國際
+
+日本央行委員：如果經濟和物價符合預期，將繼續加息。
+
+---
+
+### 2026-08-05 07:50:18  #國際
+
+科羅拉多州衛生部門發言人發表宣告稱，科羅拉多州正與美國疾病控制與預防中心和食品藥品監督管理局聯合調查沙門氏菌JAVIANA疫情。科羅拉多州已有110例與疫情相關的病例。
+
+---
+
+### 2026-08-05 07:49:18  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Futures Steady After Record Rally — US stock futures were little changed on Wednesday after the major indexes surged to fresh record highs in the previous session, supported by strong corporate earnings and rising optimism over an imminent deal to reopen the Strait of Hormuz. In extended trading, SpaceX plunged 7% despite reporting better-than-expected second-quarter revenue in its first earnings release as a public company, as investors remained concerned about the company's heavy spending on artificial intelligence infrastructure. AMD also fell 9% after the chipmaker delivered only a modest earnings beat. During Tuesday’s regular session, the Dow and S&P 500 climbed 1.71% and 1.79%, respectively, with both benchmarks closing at new record highs. The tech-heavy Nasdaq Composite jumped 2.59%. Investors are now awaiting another round of corporate earnings on Wednesday, including results from Eli Lilly, AppLovin, Walt Disney, Uber, and Sandisk.
+
+---
+
+### 2026-08-05 07:49:00  #經濟數據 #中國
+
+【專家預計7月份金融資料總體保持平穩】今年以來，中國人民銀行繼續實施適度寬鬆的貨幣政策，各項舉措已加快推進並落地顯效，為經濟平穩增長、高質量發展和金融市場穩定執行創造了適宜的貨幣金融環境。中信證券首席經濟學家明明在接受《證券日報》記者採訪時表示，信貸方面，7月份為傳統的信貸小月，單月增量可能出現季節性回落。
 
 ---
 
@@ -19607,258 +19991,5 @@ Nikkei reports Japan's ruling party is close to cutting the food tax rate from 8
 ### 2026-08-04 04:58:30  #Trading Economics #Economy #Paraguay #Inflation Rate #Importance 1
 
 Paraguay Inflation Eases to 1.6% — Paraguay’s annual inflation eased to 1.6% in July 2026 from 2.1% in June, moving further below the central bank’s 3.5% target. The largest price increases were recorded in restaurants and hotels (9.7%), followed by education (5.9%), furniture and household goods (2.1%), healthcare (1.9%), and housing and utilities (1.8%). Meanwhile, transport prices fell 1.1% as lower oil prices, driven by easing Middle East tensions, helped curb overall inflation. Core inflation, which excludes volatile items, fell to 1.5% year-on-year from 1.7% in June. On a monthly basis, consumer prices fell 0.1%, following a 0.3% decline in the previous month.
-
----
-
-### 2026-08-04 04:50:12  #公司
-
-【8月4日美股成交額前20：亞馬遜創歷史新高，市值突破3萬億美元】週一美股成交額第4名亞馬遜收高4.58%，成交252.87億美元。週一亞馬遜股價創歷史新高，延續上週財報釋出後的強勢行情，市值首次突破3萬億美元，成為史上第五家達成該里程碑的企業。其二季度財報顯示雲端計算業務營收增速加快。至此，亞馬遜與英偉達、Alphabet、微軟、蘋果一道，成為僅有的幾家市值站上3萬億美元大關的公司。
-
----
-
-### 2026-08-04 04:49:55  #MKT News
-
-【CDC: Michigan reports two Cyclospora-related deaths】The US Centers for Disease Control and Prevention on the 3rd confirmed Michigan reported two deaths linked to Cyclospora; both patients had serious underlying conditions. These are the first Cyclospora-related fatalities reported since the US outbreak began spreading in May.
-
----
-
-### 2026-08-04 04:47:50  #國際
-
-【美疾控中心：密歇根州報告兩例環孢子蟲病死亡病例】美國疾病控制和預防中心3日證實，密歇根州報告兩例環孢子蟲病相關死亡病例，兩名死者均患有嚴重基礎疾病。這是自今年5月環孢子蟲病在美持續蔓延以來首次報告相關死亡病例。（新華社）
-
----
-
-### 2026-08-04 04:46:44  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-ONEOK earnings above expectations at 1.53 USD — ONEOK (OKE) released earnings per share at 1.53 USD, compared to market expectations of 1.49 USD.
-
----
-
-### 2026-08-04 04:43:32  #其他
-
-【馬達加斯加一市場發生火災 3500人受災】馬達加斯加東部城市圖阿馬西納市政廳3日表示，當地一處市場2日晚間發生嚴重火災，至少3500人受災。（央視）
-
----
-
-### 2026-08-04 04:42:41  #MKT News
-
-【Egypt, Qatar and Turkey say Israel violating Gaza ceasefire, demand protection for civilians and aid】Egypt, Qatar and Turkey issued a joint statement condemning Israel’s continued violations in Gaza, saying Israel must comply with its obligations under international law and honor its ceasefire commitments. The three said the actions constitute breaches of the ceasefire that undermine implementation of the second-phase truce and threaten de-escalation, and called for protection of civilians, medical facilities and humanitarian personnel and for unimpeded delivery of aid and medical supplies into Gaza.
-
----
-
-### 2026-08-04 04:41:10  #市場 #觀點 #焦點
-
-花旗：基準情景下，金價未來一個月將維持震盪甚至下行，隨後在 2026 年第四季度上漲至每盎司 4500 美元，並於 2027 年上半年觸及每盎司 5000 美元。
-
----
-
-### 2026-08-04 04:38:39  #國際
-
-【埃及、卡達和土耳其發表聯合宣告 譴責以色列在加沙侵犯行為】當地時間3日，埃及、卡達和土耳其三國發表聯合宣告，強烈譴責以色列在加沙地帶持續的侵犯行為。三國強調，以色列必須遵守其在國際法下的所有義務，並全面履行其在停火協議中作出的承諾。三國重申，以色列持續侵犯加沙行為構成對停火協議的違反，破壞了第二階段停火協議的實施，並威脅局勢緩解程序。三國呼籲，確保平民、醫療設施和人道主義人員得到充分保護，並保障人道主義援助和醫療物資在加沙地帶暢通無阻地運送。（央視新聞）
-
----
-
-### 2026-08-04 04:35:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 1.32% Higher — The Dow Jones Index went up by 693 points or 1.32 percent on Monday to close at 53178 points. The rise was led by Boeing (7.93%), Microsoft (4.90%) and Amazon (4.64%).
-
----
-
-### 2026-08-04 04:34:15  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Brazilian Stocks Close Flat — The Ibovespa closed flat at 178,000 on Monday as losses in heavyweight commodity stocks offset optimism over easing Middle East tensions. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike on the country. The prospect of a diplomatic solution pushed oil prices lower, easing inflation concerns and driving bond yields down. The favorable backdrop reinforced expectations that the BCB will cut the Selic rate this week from the current 14.25%. Financials advanced, with Itaú and Bradesco rising 0.6%, while utilities also gained, with Axia up 1.4%. Also, Embraer climbed 3.1% after BNDES approved R$3.3-3.7 billion in financing to support exports of up to 19 aircraft to Canada's Porter Aviation Holdings. However, Petrobras (-0.8%) and Vale (-2.1%) weighed on the index as oil and iron ore prices declined.
-
----
-
-### 2026-08-04 04:31:19  #宏觀 #央行 #國際
-
-【道明：干預勢頭可能短暫推動美元/日元跌至153】道明證券認為，干預的推動力可能會使美元/日元跌至153，但除非日本央行採取更多行動或美國財政部做出全面承諾，否則就只會暫時如此。“動能可能短暫推動美元/日元跌至153，但要沒有日本央行的行動或美國財政部的全面承諾，我們不認為該貨幣對會大幅低於該水平，” Howard Du、Gennadiy Goldberg和Molly Brooks等策略師寫道。“美日雙邊貿易動態、‘賣出美國’情緒復甦的風險、美國信譽惡化的風險、政治考量以及包括系統性衝擊在內的風險，是我們相信美國財政部不願全力託底日元的五大原因”。
-
----
-
-### 2026-08-04 04:27:33  #公司 #國際
-
-美森輪船：截至目前，伊朗衝突尚未影響公司經營業績與服務水平，但已推高公司所有運營市場的燃油價格。持續預期在年底前收回全部燃油成本。
-
----
-
-### 2026-08-04 04:26:16  #國際
-
-【卡達外交部：調停國聯合宣告（卡達、埃及、土耳其），針對以色列持續在加沙實施侵犯行為】卡達、埃及、土耳其以調停國身份，譴責並強烈抨擊以色列持續在加沙地帶實施各類侵犯行為，尤其是襲擊醫療設施與基礎設施，造成包括婦女、兒童在內大量平民傷亡。此類行為公然違反國際法與國際人道主義法。
-調停各方強調，以色列必須履行國際法項下全部義務，嚴格遵守停火協議各項條款。調停方指出，以色列持續實施侵權行為等同於破壞停火協議，阻礙協議第二階段落地。哈馬斯及巴勒斯坦各派系此前已同意相關路線圖，尤其就武器管控達成共識。以方行動破壞局勢緩和程序，進一步加劇加沙平民苦難。
-
----
-
-### 2026-08-04 04:25:44  #MKT News
-
-Qatar's Foreign Ministry said Qatar, Egypt and Turkey condemned Israel's ongoing violations in the Gaza Strip, particularly attacks on medical facilities and infrastructure.
-
----
-
-### 2026-08-04 04:21:43  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Diamondback Energy earnings above expectations at 6.48 USD — Diamondback Energy (FANG) released earnings per share at 6.48 USD, compared to market expectations of 6.18 USD.
-
----
-
-### 2026-08-04 04:21:43  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Williams Companies earnings in line with market expectations at 0.50 USD — Williams Companies (WMB) released earnings per share at 0.50 USD, in line with market expectations.
-
----
-
-### 2026-08-04 04:16:37  #公司
-
-【SNAP第二季度營收16億美元 高於市場預期】SNAP第二季度營收16億美元，預估15.4億美元；第二季度調整後EBITDA 2.5億美元，預估1.923億美元；第二季度日活躍使用者4.9億，預估4.9億。公司預計第三季度營收17億美元至17.4億美元。
-
----
-
-### 2026-08-04 04:16:27  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-Wall Street Rises on Easing Middle East Tensions — US stock indices closed higher on Monday with support from a rebound in Treasury securities. The S&P 500 rose 1.5%, nearing it's record high, while the Dow added 693 points to close at a record 53,178 and the Nasdaq 100 gained 1.8%. The US refrained from striking Iran over the weekend and fuel prices pulled back, lowering yields across the curve as markets readjusted the magnitude of inflation risks. Tehran signaled progress in talks aimed at restoring shipping through the Strait of Hormuz. AI and megacap technology stocks posted gains with the rebound in risk demand, with Amazon (+4.6%) surpassing a $3 trillion market value, alongside advances in Alphabet (+4.9%), Microsoft (+4.9%), and Meta (+6%). Chipmakers also rallied, with Nvidia (+2.9%), AMD (+1.8%), and Sandisk (+6%) posting solid gains. Investors now await earnings from SpaceX (+5.7%) and AMD on Tuesday.
-
----
-
-### 2026-08-04 04:11:55  #MKT News #SNAP.N #Impact bullish
-
-Snap (SNAP.N) shares rose more than 9% in U.S. after-hours trading.
-
----
-
-### 2026-08-04 04:11:35  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Palantir Technologies earnings above expectations at 0.41 USD — Palantir Technologies (PLTR) released earnings per share at 0.41 USD, compared to market expectations of 0.34 USD.
-
----
-
-### 2026-08-04 04:11:29  #MKT News #SNAP.N
-
-Snap (SNAP.N) expects third-quarter revenue of $1.7 billion to $1.74 billion.
-
----
-
-### 2026-08-04 04:11:11  #MKT News #SNAP.N #Impact bullish
-
-Snap (SNAP.N) reported Q2 2026 revenue of $1.6 bln, above the $1.541 bln consensus and up from $1.345 bln a year earlier.
-
----
-
-### 2026-08-04 04:09:33  #MKT News #ON.O #Impact bullish
-
-On Semiconductor (ON.O) reported Q2 2026 revenue of $1.60 billion versus a $1.59 billion consensus. It guided Q3 revenue to $1.65 billion–$1.75 billion, versus a $1.67 billion consensus.
-
----
-
-### 2026-08-04 04:06:44  #MKT News #Star Stocks #Palantir #PLTR.N #Impact bullish
-
-Palantir (PLTR.N) shares rose about 7% in U.S. after-hours trading.
-
----
-
-### 2026-08-04 04:06:36  #MKT News #Star Stocks #Palantir #PLTR.O #Impact bullish
-
-Palantir (PLTR.O) reported Q2 2026 revenue of $1.93 bln, above market consensus of $1.805 bln and up from $1.003 bln a year earlier.
-
----
-
-### 2026-08-04 04:06:33  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Vertex Pharmaceuticals earnings above expectations at 4.73 USD — Vertex Pharmaceuticals (VRTX) released earnings per share at 4.73 USD, compared to market expectations of 4.72 USD.
-
----
-
-### 2026-08-04 04:06:21  #其他
-
-Palantir二季度調整後每股收益（EPS）為0.41美元，分析師預期0.35美元。
-
----
-
-### 2026-08-04 04:06:14  #MKT News #Star Stocks #Palantir #PLTR.N #Impact bullish
-
-Palantir (PLTR.N) expects full-year revenue of $8.15–8.16 billion, versus prior guidance of $7.65–7.66 billion.
-
----
-
-### 2026-08-04 04:06:12  #其他
-
-安森美半導體二季度調整後每股收益（EPS）為0.74美元，分析師預期0.71美元。
-
----
-
-### 2026-08-04 04:06:08  #其他
-
-Palantir： 持續預期本年度每個季度均可實現通用會計準則營業利潤與淨利潤。
-
----
-
-### 2026-08-04 04:05:33  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-US equity benchmarks closed higher on Monday Aug 3: Dow Jones Industrial Average +693.38 pts (+1.32%) at 53,178.41; S&P 500 +110.78 pts (+1.48%) at 7,600.50; Nasdaq Composite +540.04 pts (+2.13%) at 25,913.90.
-
----
-
-### 2026-08-04 04:05:32  #其他
-
-Diamondback Energy二季度調整後每股收益（EPS）為6.48美元，分析師預期6.07美元。
-
----
-
-### 2026-08-04 04:04:19  #MKT News #DXY #Impact bearish #USDJPY #USDCHF #Impact bullish
-
-【Dollar index dips 0.02% to 99.894 at NY close】Dollar index (DXY) fell 0.02% to 99.894 at the New York close. EUR/USD 1.1514 (prev. 1.1531); GBP/USD 1.3431 (prev. 1.3482). USD/JPY 156.74 (prev. 158.90); USD/CHF 0.8101 (prev. 0.8082). USD/CAD 1.4045 (prev. 1.4019); USD/SEK 9.5557 (prev. 9.5193).
-
----
-
-### 2026-08-04 04:03:56  #市場
-
-【美元指數3日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.02%，在匯市尾市收於99.894。截至紐約匯市尾市，1歐元兌換1.1514美元，低於前一交易日的1.1531美元；1英鎊兌換1.3431美元，低於前一交易日的1.3482美元。1美元兌換156.74日元，低於前一交易日的158.90日元；1美元兌換0.8101瑞士法郎，高於前一交易日的0.8082瑞士法郎；1美元兌換1.4045加元，高於前一交易日的1.4019加元；1美元兌換9.5557瑞典克朗，高於前一交易日的9.5193瑞典克朗。
-
----
-
-### 2026-08-04 04:03:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices tumble on 3rd】By the close, NYMEX September light sweet crude futures fell $4.33 to settle at $80.34/bbl, down 5.11%. ICE Brent October futures fell $4.16 to settle at $83.77/bbl, down 4.73%.
-
----
-
-### 2026-08-04 04:02:53  #MKT News #BA.N #Impact bullish #Dow
-
-Boeing (BA.N) shares surged 8%, their largest single-day gain since December 2025.
-
----
-
-### 2026-08-04 04:02:14  #市場
-
-【國際油價3日大幅下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌4.33美元，收於每桶80.34美元，跌幅為5.11%；10月交貨的倫敦布倫特原油期貨價格下跌4.16美元，收於每桶83.77美元，跌幅為4.73%。
-
----
-
-### 2026-08-04 04:01:41  #其他
-
-波音漲8%，創2025年12月份以來最大單日漲幅。
-
----
-
-### 2026-08-04 04:01:28  #MKT News #Important #Star Stocks #NVIDIA #Microsoft #Alphabet #Meta Platforms #Tesla #Alibaba #Market Themes #Magnificent 7 #Dow #Impact bullish #Nasdaq100 #S&P500
-
-【US close: Dow hits record, Nasdaq up over 2%】U.S. equities closed Monday: Dow Jones Industrial Average up 1.3% to a record closing high; S&P 500 +1.48%; Nasdaq Composite +2.1%. Microsoft (MSFT.O) and Alphabet (GOOG.O) rose nearly 5%; Meta (META.O) gained about 6%; Tesla (TSLA.O) and NVIDIA (NVDA.O) around 3%. SanDisk (SNDK.O) +6%; SK Hynix (SKHY.O) −0.7%. Nasdaq Golden Dragon Index +0.75%; Alibaba (BABA.N) +4%.
-
----
-
-### 2026-08-04 04:01:14  #國際
-
-美國科技股七巨頭指數漲3.6%，創3月31日以來最大單日漲幅。
-
----
-
-### 2026-08-04 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲1.32%，標普500指數漲1.48%，納指漲2.13%。第一太陽能漲10.28%，Coherent Corp漲9.62%，Lumentum Holdings Inc. Common Stock When Issued漲9.22%，甲骨文漲9.22%，Axon Enterprise漲9.13%。“七姐妹”方面：Meta Platforms漲5.97%，微軟漲4.82%，亞馬遜漲4.61%，谷歌漲4.37%，特斯拉漲3.48%，英偉達漲2.90%，蘋果跌1.84%。
-
----
-
-### 2026-08-04 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收漲0.66%】大全新能源漲12.98%，金山雲漲6.64%，嘉楠科技漲5.41%，億航漲5.65%，禾賽科技漲5.21%。
 
 ---
