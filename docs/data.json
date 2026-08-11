@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-11 08:10:33",
-  "count": 15816,
+  "updated": "2026-08-11 08:14:30",
+  "count": 15824,
   "items": [
+    {
+      "id": "mkt:019fee2b-0330-7aab-8fe2-5ecf1014ef36",
+      "time": "2026-08-11 08:13:43",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index",
+        "S&P500"
+      ],
+      "text": "Korea Customs Service said exports from Aug. 1-10 rose 45.3% YoY and imports rose 23.1% YoY; preliminary trade surplus was $1.8 billion."
+    },
+    {
+      "id": "mkt:019fee2b-0323-7aab-8fe2-5658b0b16706",
+      "time": "2026-08-11 08:13:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's Ministry of Trade and Industry (MTI) raised its 2026 non-oil domestic exports growth forecast to 14.0%-16.0% from 3.0%-5.0%."
+    },
+    {
+      "id": "5034728",
+      "time": "2026-08-11 08:13:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐哥倫比亞使館：暫未接到中國公民傷亡報告 】中國駐哥倫比亞大使館10日釋出訊息說，哥倫比亞當天發生7.4級強震後，使館第一時間啟動應急機制，全面排查在哥中國公民受災情況，目前尚未接到中國公民傷亡報告。"
+    },
+    {
+      "id": "5034727",
+      "time": "2026-08-11 08:12:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：金價可能測試並突破最新高點】Pepperstone研究主管Chris Weston表示，頭寸狀況改善、資金流向動態提供支撐、實際收益率下降、收益率曲線變陡、對美聯儲降息的預期升溫以及央行持續買入，這些因素共同推動金價回升至每盎司4,400美元附近。現在的問題是，市場是否有足夠的動力突破每盎司4,500美元，並最終挑戰4月和5月出現的接近每盎司4,800美元的高點。他補充說，沒有人知道答案，但當技術突破與有利的宏觀基本面和強勁的資金流向動態相一致時，趨勢往往會比許多人預期的延伸得更遠。"
+    },
+    {
+      "id": "5034726",
+      "time": "2026-08-11 08:12:17",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭】華泰證券研報稱，基礎模型競爭正由產品探索逐步走向高價值場景、企業市場與使用量驅動的商業化競爭。OpenAI早期依託相對自下而上的產品創新機制，透過ChatGPT建立大規模C端入口；Anthropic則持續聚焦模型能力、Coding和企業API，並隨著Coding場景成熟逐步體現資源集中優勢。與此同時，智譜、MiniMax亦逐步向API、Coding和Agent收斂。華泰證券認為，基礎模型行業的競爭維度正在由模型能力和使用者規模進一步擴充套件至高價值Token消耗、企業滲透、單位經濟性及產品分發能力。"
+    },
+    {
+      "id": "5034725",
+      "time": "2026-08-11 08:12:12",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價觸及每盎司4400美元 市場目光轉向美國通脹資料】美國即將釋出關鍵的通脹報告之際，金價週二盤中突破了每盎司4400美元。這份報告可能會提供有關美聯儲加息意願的新線索。繼之前兩個交易日累計上漲3.6%之後，金價早盤小幅走高。其週一突破100日移動均線，引發技術性買盤，繼抄底買家出現、中國黃金ETF獲得資金流入後再添復甦跡象。交易員們正將目光轉向週三將公佈的最新美國通脹資料。根據接受媒體調查的經濟學家的預測中值，備受關注的CPI 7月料上升0.1%，此前一個月為下降0.4%。在美國上週五公佈了疲軟的就業報告之後，物價漲幅溫和可能有助於緩解美聯儲的通脹焦慮。"
+    },
+    {
+      "id": "5034724",
+      "time": "2026-08-11 08:11:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1395.50美元/盎司。"
+    },
+    {
+      "id": "mkt:019fee28-c974-7aab-8fe2-4a774d8884f4",
+      "time": "2026-08-11 08:11:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's Ministry of Trade and Industry (MTI) raised its 2026 GDP growth forecast to 4.5%-5.5% from 2.0%-4.0%."
+    },
+    {
+      "id": "5034723",
+      "time": "2026-08-11 08:11:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡將2026年非石油國內出口增長預測從3.0%-5.0%上調至14.0%-16.0%。"
+    },
+    {
+      "id": "5034722",
+      "time": "2026-08-11 08:10:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：矽基材料行業靜待修復 下游高增領域受益】中信證券研報表示，矽基材料行業目前處於週期底部盤整，供給端目前已經實質性放緩，但行業未經歷深度虧損，行業自發出清困難，當前“反內卷”力度或對價格支撐有限，2026下半年更加考驗供給與需求矛盾，預計2026下半年有機矽價格在11500—13000元/噸，仍處於相對低位。建議關注矽基材料行業向下遊高景氣賽道延伸拓展的公司。"
+    },
+    {
+      "id": "5034721",
+      "time": "2026-08-11 08:10:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）週一在一份新聞稿中表示，已就對Adit Ventures Management及其創始人、三名合夥人提起的涉及Klarna和SpaceX等公司的IPO前投資的欺詐指控達成和解。美國證券交易委員會指控該投資顧問公司曾利用“虛假陳述和承諾”招攬對Adit管理基金的投資，並將客戶資金用於公司自身利益，包括在未向客戶披露的情況下，以優惠條件獲取無擔保貸款。美國證券交易委員會表示，Adit Ventures 雖未承認相關指控，但已同意接受一項同意令，其中包括支付追繳款和民事罰款。該同意令尚需聯邦法官批准。"
+    },
+    {
+      "id": "mkt:019fee27-c1f3-7aab-8fe2-44fedeed2007",
+      "time": "2026-08-11 08:10:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 8.3 points (+0.09%) at 9,240.90 on Aug 11 (Tuesday)."
+    },
+    {
+      "id": "5034720",
+      "time": "2026-08-11 08:10:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：算力突破電力邊界 SST開啟矽進銅退新週期】中信證券研報表示，AI晶片效能與密度提高帶來智算中心（AIDC）功耗躍升，傳統不間斷電源（UPS）架構在能耗、佔地等多方面已觸及瓶頸，AIDC供配電加速向高壓直流化演進。短期內，高壓直流輸電（HVDC）系統、巴拿馬電源有望作為過渡方案，長期看，800VDC+固態變壓器（SST）憑藉中壓直入、高頻隔離及“矽進銅退”優勢，或成為高密算力供電的終局解決方案。建議關注SST整機及SiC、高頻磁件、電容和固態斷路器等核心環節。"
+    },
     {
       "id": "5034719",
       "time": "2026-08-11 08:08:55",
@@ -143917,58 +144031,6 @@
         "SSE Composite"
       ],
       "text": "【CITIC Securities: Banks' full-year absolute return potential to persist】CITIC Securities says on fundamentals it expects Q2 net interest margins to be strong and capital markets and wealth-management activity to lift non-interest income, keeping banks' revenue growth stable and likely nudging profit growth higher. From an investment angle the sector extended its positive trend since July last week but experienced large index swings amid style rotation; CITIC expects A-share volatility to remain elevated over the next two weeks and banks' relative performance may weaken. Nevertheless, stable operating profiles and an ongoing macro narrative support continued full-year absolute return potential."
-    },
-    {
-      "id": "5023351",
-      "time": "2026-08-04 08:14:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲0.4%，受晶片股領漲提振】繼隔夜美國科技股走高後，日本股市早盤走高。晶片股領漲。鎧俠上漲3.0%，Lasertec上漲4.7%。美元報157.40日元，週一東京股市收盤時報156.63日元。在伊朗週一表示目前沒有與美國進行任何談判後，投資者正密切關注中東局勢的發展。企業季度盈利也是關注焦點。日經指數上漲0.4%，報63,987.36點。"
-    },
-    {
-      "id": "5023350",
-      "time": "2026-08-04 08:13:47",
-      "tags": [
-        "宏觀",
-        "觀點"
-      ],
-      "text": "【中信證券：政策或將持續利好特高壓、配網智慧化、各類儲能/虛擬電廠等靈活調節資源、清潔電源開發及電力數字化領域】中信證券研報指出，2026年8月3日，國家發改委、能源局釋出《新型電力系統建設“十五五”規劃》。作為電力領域頂層檔案，《規劃》與《可再生能源“十五五”規劃》《新型能源體系建設“十五五”規劃》等形成配套，以“源網荷儲”一體化協同為主線，推動電力行業從單一新增新能源裝機轉向全域統籌。《規劃》圍繞電源、電網、調節資源、負荷、市場等設定量化目標，力爭2030年初步建成新型電力系統，非化石能源發電量佔比升至50%。我們認為，政策或將持續利好特高壓、配網智慧化、各類儲能/虛擬電廠等靈活調節資源、清潔電源開發及電力數字化領域，並加速容量補償機制及容量市場等電改政策落地。1）電網基礎設施建設。在《規劃》指引下，我們預計特高壓交直流輸電通道、區域主幹網架升級、智慧化配網改造、微電網系統建設或將迎來持續提振。建議關注輸電裝置、配電自動化、電網數字化智慧化裝備；同時，配網承載能力提升將充分釋放分散式光伏開發空間，分散式開發與運維主體或將受益。2）各型別靈活調節資源。一是儲能領域，抽水蓄能加速開工建設，獨立儲能、使用者側新型儲能需求持續釋放；二是靈活性電源改造，存量煤電靈活性改造、燃氣調峰機組有序推進；三是負荷側調節資源，虛擬電廠平臺、負荷聚合服務商、車網互動、智慧充放電裝置具備長期成長機會。3）清潔電源協同開發。依託跨省跨區輸電通道規劃，“三北”風光大基地、海上風電開發建設節奏有望提速；同時，核電有序擴容、光熱、生物質等具備調節屬性的可再生能源或迎來更多政策支援。4）電力市場與數字化。我們預計在置信出力、頂峰供電能力考核要求進一步明確的政策之下，電力容量市場建設或為下一階段電力市場化改革重心。同時，建議關注電力交易平臺、負荷管理系統、電力模擬排程系統、能源數字化平臺需求。"
-    },
-    {
-      "id": "te:markets:572302",
-      "time": "2026-08-04 08:13:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Mitsubishi UFJ Financial earnings above expectations at 71.77 JPY — Mitsubishi UFJ Financial (8306) released earnings per share at 71.77 JPY, compared to market expectations of 56.17 JPY."
-    },
-    {
-      "id": "te:markets:572300",
-      "time": "2026-08-04 08:11:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "WuXi AppTec earnings above expectations at 2.18 CNY — WuXi AppTec (603259) released earnings per share at 2.18 CNY, compared to market expectations of 1.59 CNY."
-    },
-    {
-      "id": "mkt:019fca1c-4383-7aab-8f60-57d97b0a6412",
-      "time": "2026-08-04 08:11:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Australia's S&P/ASX 200 index opened up 19.10 points, or 0.21%, at 9,038.40 on Tuesday, Aug 4."
     }
   ]
 }
