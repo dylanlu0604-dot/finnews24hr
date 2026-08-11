@@ -1,7 +1,26 @@
 {
   "date": "2026-08-12",
-  "count": 448,
+  "count": 450,
   "items": [
+    {
+      "id": "te:markets:574530",
+      "time": "2026-08-12 07:21:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Advance as US-Iran Deal Eyed — Crude oil held above $83 per barrel on Wednesday after rising for four consecutive sessions, as investors assessed mixed signals surrounding a potential deal between the US and Iran. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have entered an advanced stage. However, the positive developments followed a tougher stance from President Donald Trump this week, who said Tehran should pay reparations for those killed in attacks linked to the Islamic Republic. His remarks came in response to a series of demands issued by Iran over the weekend, including war compensation for the US and Israeli military operation in the country. Meanwhile, industry data showed US crude inventories rose by 9.1 million barrels last week, marking their largest increase since February."
+    },
+    {
+      "id": "5036460",
+      "time": "2026-08-12 07:18:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港IPO集資額已達410億美元 港交所料今年再創紀錄】據信報援引港交所CEO陳翊庭的話報道稱，截至8月初，香港首次公開募股(IPO)集資額已達410億美元，料今年再創紀錄。 陳翊庭在吉隆坡出席活動時表示，今年IPO集資額已突破去年透過120家公司上市集資的395億美元。"
+    },
     {
       "id": "5036459",
       "time": "2026-08-12 07:17:26",
