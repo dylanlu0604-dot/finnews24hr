@@ -1,7 +1,141 @@
 {
   "date": "2026-08-11",
-  "count": 2060,
+  "count": 2074,
   "items": [
+    {
+      "id": "5035793",
+      "time": "2026-08-11 19:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "ETORO將收購TRADEZERO以加速美國擴張。"
+    },
+    {
+      "id": "5035792",
+      "time": "2026-08-11 19:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非6月製造業同比下降1.7%；預期下降3.7%。"
+    },
+    {
+      "id": "5035791",
+      "time": "2026-08-11 18:59:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度證券交易委員會提議：外國證券投資者須在合約到期前三個交易日強制平倉或展期頭寸。"
+    },
+    {
+      "id": "5035790",
+      "time": "2026-08-11 18:58:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【名臣健康：控股股東部分股份解除質押及再質押】名臣健康公告稱，公司控股股東陳勤發近日將其所持公司部分股份辦理解除質押及再質押業務。陳勤發解除質押300萬股，佔其所持股份3.21%，佔公司總股本1.13%；再質押540萬股，佔其所持股份5.78%，佔公司總股本2.03%。截至公告披露日，陳勤發累計質押2474.4萬股，佔其持股總數26.51%，佔公司總股本9.3%，不存在被強制平倉風險，對公司無實質性影響。"
+    },
+    {
+      "id": "5035789",
+      "time": "2026-08-11 18:58:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞太藥業：完成1999.8萬元股份回購 用於激勵或員工持股】亞太藥業公告稱，公司於2026年8月11日首次實施回購股份，已完成回購。本次回購334.45萬股，佔總股本0.45%，最高成交價6.03元/股，最低成交價5.91元/股，成交總金額1999.8萬元（不含交易費用）。回購符合既定方案，不會對公司經營等產生重大影響。回購股份將存放於專用賬戶，用於實施股權激勵或員工持股計劃，若三年內未使用將依法登出。"
+    },
+    {
+      "id": "te:markets:574423",
+      "time": "2026-08-11 18:57:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Rises to Near 2-Month High — Aluminum futures in the UK rose to $3,380 per tonne in August, the highest in nearly two months, on declining supply from key producers. The Alunorte plant in Brazil, the world's largest alumina plant outside of China, was forced to cut operations to half capacity amid the lack of natural gas from its supplier. The developments deepened the detriment to Norsk Hydro, the main client for Alunorte. The firm had already declared two force majeures on aluminum sales after its joint Qatari venture Qatalum plant was forced to shut off production on natural gas shortages after Iran had damaged energy and metallurgy infrastructure in the Middle East. Supply from nations in the Persian Gulf has been hampered since the start of the US-Iran conflict in March, due to both direct destruction of plants and blockades on trade routs for exports. The region is responsible for around 10% of global production pre-war. Still, futures are below four-year peaks from this year on softening Chinese demand."
+    },
+    {
+      "id": "5035788",
+      "time": "2026-08-11 18:57:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度證券交易委員會：提議允許外國證券投資者參與非農業指數衍生品合約交易。"
+    },
+    {
+      "id": "5035787",
+      "time": "2026-08-11 18:57:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士議會發言人表示，原定於週二下午由議會委員會就瑞士銀行監管議題舉行的新聞釋出會目前已被取消。"
+    },
+    {
+      "id": "mkt:019ff078-3ca7-7aab-8ff0-2b6ea5c45f29",
+      "time": "2026-08-11 18:57:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "UKMTO said it received a report of an incident off Mocha, Yemen, in which a cargo ship was struck by an unidentified missile, resulting in casualties."
+    },
+    {
+      "id": "5035786",
+      "time": "2026-08-11 18:57:14",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【大摩：美國通脹降溫若不及預期或加劇加息擔憂】摩根士丹利E*TRADE交易與投資管理總監克里斯·拉金表示，標普500指數從近兩個月的交易區間中突破，本週可能面臨通脹和地緣政治的考驗。就業報告或許緩解了人們對下月美聯儲加息的擔憂，但如果本週通脹資料降溫幅度不及預期，擔憂程度恐再加深。"
+    },
+    {
+      "id": "te:markets:574422",
+      "time": "2026-08-11 18:57:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Extends Rally on US-Iran Deal Uncertainty — Brent crude oil rose to around $89 per barrel on Tuesday, rising for the fifth straight session as hopes for a US-Iran agreement to fully reopen the Strait of Hormuz continued to fade. President Donald Trump introduced new demands on Tehran, further complicating negotiations over the strategic waterway. Trump said that Iran would be required to provide compensation for people it has killed in conflicts as part of future negotiations, following Tehran’s own calls for reparations related to the war. Meanwhile, a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Oil prices were also supported by concerns over US inventories, with the latest data showing that crude stocks held in the Strategic Petroleum Reserve had fallen to their lowest level in more than four decades."
+    },
+    {
+      "id": "mkt:019ff078-0576-7aab-8ff0-22dd8e836f1c",
+      "time": "2026-08-11 18:57:05",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Morgan Stanley: US inflation cooling that falls short of expectations could heighten Fed rate-hike concerns】Morgan Stanley E*TRADE trading and investment management director Chris Lakin said the S&P 500, after breaking out of a near two-month range, may be tested this week by inflation prints and geopolitical developments. He said the jobs report could ease fears of a Fed rate hike next month, but if this week's inflation cools less than expected those concerns could intensify."
+    },
+    {
+      "id": "5035785",
+      "time": "2026-08-11 18:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室  ：葉門附近貨輪遇襲，已造成人員傷亡。"
+    },
+    {
+      "id": "5035784",
+      "time": "2026-08-11 18:56:44",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【春光集團：開立閒置募集資金現金管理專用結算賬戶】春光集團公告稱，公司於2026年7月9日同意使用不超3.8億元閒置資金進行現金管理，其中閒置募集資金不超3億元、閒置自有資金不超0.8億元，額度有效期12個月。近日，因募集資金現金管理需要，公司新開立3個閒置募集資金現金管理專用結算賬戶，分別在中國中金財富證券、中信證券（山東）、中國銀行開立。該賬戶僅用於閒置募集資金現金管理結算，不會影響募集資金使用及專案建設，利於資金保值增值。"
+    },
     {
       "id": "5035783",
       "time": "2026-08-11 18:56:18",
