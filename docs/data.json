@@ -1,7 +1,172 @@
 {
-  "updated": "2026-08-11 16:04:45",
-  "count": 15850,
+  "updated": "2026-08-11 16:08:41",
+  "count": 15848,
   "items": [
+    {
+      "id": "5035357",
+      "time": "2026-08-11 16:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中郵科技：核心技術人員徐玲退休離任 不影響公司研發實力】中郵科技公告稱，核心技術人員徐玲因達到法定退休年齡，近期辦理退休離任手續，不再擔任公司任何職務。截至公告披露日，徐玲間接持有公司股份92,971股，佔總股本的0.068%。其任職期間成果屬公司，且嚴格遵守保密和競業限制協議。公司稱已構建完備研發體系，徐玲原承擔專案已由團隊承接，其離任不會對公司整體研發實力及持續創新能力產生重大不利影響。"
+    },
+    {
+      "id": "te:markets:574384",
+      "time": "2026-08-11 16:07:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 24.92 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 10.81%, and in the last 12 months, it increased 57.42%."
+    },
+    {
+      "id": "5035356",
+      "time": "2026-08-11 16:07:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【高市早苗送禮反被澳總理侮辱？日方回應曝光】據澳大利亞SBS電視臺等澳媒報道，今年7月初，澳大利亞總理阿爾巴尼斯在節目中的一段講話被指侮辱日本首相高市早苗。而澳媒8月10日披露了日本政府對此事的正式回應：淡化處理。 報道稱，當時在一檔播客節目中，阿爾巴尼斯談及高市早苗5月訪澳時贈送給他的高檔哈密瓜，主持人尼基·奧斯本詢問日方如何將水果帶過澳大利亞海關，問道：“她是（將哈密瓜）走私進來的嗎？”阿爾巴尼斯回答“我不知道”，並稱高市當時“帶了兩個哈密瓜”，同時模仿主持人的手勢在胸前比劃…… 阿爾巴尼斯此番肢體動作和言論被一些人解讀為低俗玩笑。澳大利亞反對黨自由黨領導人安格斯·泰勒要求阿爾巴尼斯為此道歉，稱“這些言論具有侮辱性，總理應該親自道歉”。自由黨副黨魁簡·休姆也批評上述言論“粗俗”和“不恰當”。 阿爾巴尼斯的發言人則表示，外界對澳總理相關手勢的解讀“是不正確的”。 據澳大利亞新聞集團旗下網站news.com.au報道，日本前駐澳大利亞大使山上信吾撰文批評阿爾巴尼斯，稱這不是政治問題，而是“禮節、外交禮儀和相互尊重的問題”。他寫道：“我認為，無論是在澳大利亞、日本，還是其他任何地方，你都不應該拿朋友精心準備並友好贈送的禮物開玩笑。”山上還稱，皇冠哈密瓜是日本珍貴的水果，並經過特殊溫室精心培育。（環球時報）"
+    },
+    {
+      "id": "5035355",
+      "time": "2026-08-11 16:06:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "火箭實驗室盤前股價下跌8.3%，此前公司認為中子火箭今年實現首飛的可能性下降，同時公佈二季度業績。"
+    },
+    {
+      "id": "5035354",
+      "time": "2026-08-11 16:06:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "RIOT股價盤前上漲22.5%，此前有報道稱Anthropic與該公司達成90億美元交易，並公佈第二季度業績。"
+    },
+    {
+      "id": "mkt:019fefdb-c129-7aab-8fec-c2242057d59e",
+      "time": "2026-08-11 16:06:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude up 2.00% intraday at $83.08/bbl; Brent crude up 1.82% at $88.48/bbl."
+    },
+    {
+      "id": "5035353",
+      "time": "2026-08-11 16:06:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【強調開源重要性 扎克伯格呼籲美政府重新審視AI模型蒸餾政策】美國“元”公司執行長馬克·扎克伯格10日在公司官網上發文強調開源人工智慧（AI）的重要性，並呼籲美國政府“重新審視模型蒸餾和訓練資料使用等方面的政策”，保護讓模型在研發過程中能夠向其他模型學習的原則。扎克伯格在題為《未來屬於每個人》的文章中說，模型能夠向其他模型學習是開源生態系統執行的重要原則。所有人工智慧模型都源於人類知識。一些人試圖將蒸餾描述為有害行為，但他認為，應當保護“可以從任何能夠觀察到的事物中學習”這一原則。模型蒸餾是人工智慧模型研發領域的一項基礎技術，通常指將較大型的人工智慧模型所包含的知識高效遷移至輕量級模型。隨著生成式人工智慧研發競爭加劇，模型蒸餾也成為行業關注和爭議的話題。扎克伯格表示，美國實驗室在訓練資料方面受到更多限制。美國如果希望本國開源模型長期保持領先，就應減少這些額外的障礙。限制外國開源模型並非有效解決辦法。他認為，限制個人和企業使用領先的開源模型，無論這些模型來自哪裡，都會降低使用者能夠獲得的人工智慧的質量，並使人工智慧進一步集中化，而非賦予人們更多權利。扎克伯格還說，“元”公司將繼續堅定支援開源，包括開源人工智慧模型。隨著公司的超級智慧實驗室投入執行，公司將恢復釋出開源模型。（央視新聞）"
+    },
+    {
+      "id": "5035352",
+      "time": "2026-08-11 16:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安徽建工集團股份有限公司黨委委員、副總經理何洪春接受紀律審查和監察調查】安徽紀檢監察網8月11日通報，安徽建工集團股份有限公司黨委委員、副總經理何洪春涉嫌嚴重違紀違法，目前正接受安徽建工集團控股有限公司紀委紀律審查；經安徽省監委指定管轄，接受淮南市監委監察調查。"
+    },
+    {
+      "id": "5035351",
+      "time": "2026-08-11 16:05:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博深股份：投資設立控股子公司完成工商註冊登記】博深股份公告稱，公司於2026年8月3日同意與山東萬昌舜環保科技有限公司共同出資2億元設立合資公司山東山鐵新材料科技有限公司，公司出資1.4億元，佔比70%。近日，山鐵新材已完成工商註冊登記，取得《營業執照》，成立日期為2026年8月10日，法定代表人為張金剛。山鐵新材將按約定購買合作方及其關聯企業的經營性資產。"
+    },
+    {
+      "id": "mkt:019fefdb-23f2-7aab-8fec-be13a016130c",
+      "time": "2026-08-11 16:05:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese Health Ministry reported an Israeli drone strike on Nabatieh wounded two people."
+    },
+    {
+      "id": "5035350",
+      "time": "2026-08-11 16:05:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩衛生部表示，以色列無人機襲擊納巴泰，造成兩人受傷。"
+    },
+    {
+      "id": "5035349",
+      "time": "2026-08-11 16:05:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩軍方：軍隊多支部隊在多地落實安保措施，開展突擊搜查、設定臨時檢查站，用以追捕擾亂治安人員、打擊毒品走私行動。行動共拘留 10 名本國公民、1 名巴勒斯坦人以及 131 名敘利亞人。"
+    },
+    {
+      "id": "mkt:019fefda-d170-7aab-8fec-b73c2e1385ab",
+      "time": "2026-08-11 16:05:22",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow",
+        "Impact bearish"
+      ],
+      "text": "S&P 500 futures gained 0.02%, Nasdaq futures rose 0.17% and Dow futures slipped 0.08%."
+    },
+    {
+      "id": "5035348",
+      "time": "2026-08-11 16:05:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大連重工：子公司仲裁案債務重組執行完畢 預計增利2165.75萬元】大連重工公告稱，全資子公司華銳國際與DFA公司合同履行糾紛仲裁案，新加坡仲裁機構已終局裁決。2026年8月10日，華銳國際收到剩餘全部清償款6,087,544.95澳元（摺合人民幣2898.16萬元），債務重組最終債權分配執行完畢。公司前期已對剩餘未回收款項全額計提壞賬準備，此次將核銷剩餘計提金額5191.27萬元，預計增加當期利潤總額2165.75萬元，最終以審計結果為準。"
+    },
+    {
+      "id": "te:markets:574380",
+      "time": "2026-08-11 16:05:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 1.67% — Top commodity losers are Silver (-1.67%) and Gold (-0.64%). Gains are led by Iron Ore CNY (1.40%), Steel Rebar (0.70%) and Copper (0.69%)."
+    },
+    {
+      "id": "mkt:019fefda-3bf2-7aab-8fec-ac819a184299",
+      "time": "2026-08-11 16:04:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【CPCA: July passenger car exports 918,000 units, +87.8% YoY】CPCA data: July passenger car exports, including complete vehicles and CKD, totaled 918,000 units, up 87.8% YoY and 4.9% MoM, accounting for 41% of passenger carmakers' sales (June: 37%; 2025 same period: 21%). New energy vehicles comprised 58.8% of exports, +14 percentage points YoY. Independent brands exported 775,000 units, +87% YoY; joint-venture and luxury brands exported 143,000 units, +108% YoY."
+    },
+    {
+      "id": "5035347",
+      "time": "2026-08-11 16:04:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-迷你股指期貨上漲0.02%，納斯達克100股指期貨上漲0.17%，道瓊斯股指期貨下跌0.08%。"
+    },
     {
       "id": "5035346",
       "time": "2026-08-11 16:04:03",
@@ -144227,174 +144392,6 @@
         "00981.HK"
       ],
       "text": "Hong Kong close: Hang Seng index fell 0.6%; Hang Seng TECH rose 0.21%. Optical-communications, pharma outsourcing and PCB stocks led gains. WuXi AppTec (02359.HK) rose about 11%, Zhipu (02513.HK) gained over 7%, and SMIC (00981.HK) was up about 5%."
-    },
-    {
-      "id": "5024047",
-      "time": "2026-08-04 16:08:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【先進能源工業美股盤前漲超10%】先進能源工業美股盤前漲超10%，現報327.0美元。"
-    },
-    {
-      "id": "5024046",
-      "time": "2026-08-04 16:08:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前多數下跌，理想汽車跌2%】美股中概股盤前多數下跌，盛美漲2%，阿里巴巴漲0.6%，京東跌0.6%，貝殼跌0.7%，嗶哩嗶哩、拼多多、攜程跌1%，理想汽車跌2%。"
-    },
-    {
-      "id": "5024045",
-      "time": "2026-08-04 16:08:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數上漲，美光科技漲2%】美股大型科技股盤前多數上漲，SK海力士、美光科技漲2%，SpaceX漲1%，特斯拉漲0.8%，英偉達漲0.6%，蘋果持平，Meta跌0.1%，微軟、谷歌A跌0.7%，亞馬遜跌1%。"
-    },
-    {
-      "id": "5024044",
-      "time": "2026-08-04 16:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬來西亞考慮對電動汽車銷售徵稅，用於擴大公共充電網路】馬來西亞投資、貿易和工業部部長佐哈里8月4日稱，該國正考慮對電動汽車銷售徵稅，以建立專門基金用於擴大公共充電網路。佐哈里表示，馬來西亞政府此前已給予整車進口電動汽車為期四年的進口關稅和銷售稅等減免優惠，旨在刺激市場增長並吸引投資，這些措施導致該國損失33億林吉特（約合8.06億美元）稅收收入。"
-    },
-    {
-      "id": "mkt:019fcbd0-a499-7aab-8f69-17d25bf1f127",
-      "time": "2026-08-04 16:07:56",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Samsung Electro-Mechanics to fast-track Philippines MLCC plant】Samsung Electro-Mechanics plans to begin operating a new multilayer ceramic capacitor (MLCC) plant in the Philippines by end‑Q1 next year, South Korean media report. The company started investment negotiations with local authorities at the end of last year and completed talks in about 15 months. Analysts say the move marks a full launch of an \"order‑linked rapid expansion\" strategy, leveraging long‑term agreements (LTAs) with large global tech customers to accelerate mass production."
-    },
-    {
-      "id": "5024043",
-      "time": "2026-08-04 16:07:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星源材質：董事長重點督導聚合物鉭電容建設進度 力爭今年四季度完成試樣送測】據星源材質訊息，近日，星源材質董事長陳秀峰帶隊視察旗下南通鼎源精密科技有限公司聚合物鉭電容專案現場，重點督導聚合物鉭電容建設進度。聚合物鉭電容憑藉低ESR、高穩定特性，為算力資料中心、消費電子、汽車電子等提供高精度穩壓濾波，是高階裝備不可或缺的基礎無源元件。陳秀峰現場梳理建設要點，要求倒排工期，加快裝置除錯與工藝磨合，力爭今年四季度完成試樣送測，明年一季度開啟小批次試產。"
-    },
-    {
-      "id": "5024042",
-      "time": "2026-08-04 16:07:24",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【今日特朗普要聞】\n1、特朗普於美東時間8月3日下午表示，當前與伊朗的談判是伊朗達成協議的最後機會，並威脅美軍仍保留對伊朗實施大規模打擊的選項，打算在發動 “斬首行動” 前給予伊朗此次談判機會，事態很快將迎來結果，談判分為兩階段，第一階段目標是打通霍爾木茲海峽航道，力爭最遲明日全面開放，第二階段推進去核相關磋商。\n2、特朗普於美東時間8月3日中午在社交平臺發文稱，與伊朗的談判已開始，後續會談也已提上日程。\n3、特朗普8月3日在社交媒體發文指責伊朗領導層口是心非，稱伊朗一面尋求談判一面否認與美方磋商，宣稱美國海軍已完全掌控霍爾木茲海峽，將封鎖伊朗對外通道，並重申伊朗絕不允許擁有核武器。\n4、特朗普稱2029年前控制格陵蘭島。\n5、特朗普在社交平臺發文批評雪佛龍等美國石油企業隻字不提其政府政策帶來的發展紅利、獨享發展成果，並直接喊話各大石油公司立刻下調面向消費者的零售油價。\n6、特朗普週二邀請包括OpenAI、谷歌和Anthropic在內的主要科技公司員工前往白宮。\n7、特朗普討論撤換哥倫比亞特區聯邦檢察官珍妮·皮羅。\n8、特朗普將於週二訪問加利福尼亞州，週三前往內華達州，宣傳經濟成就。\n9、特朗普預計將於週五在美國國務院出席一場礦業高管圓桌會議。\n10、特朗普宣稱自己的真實民調處於歷史最佳水平，列舉減稅、穩定就業、嚴控邊境、外交突破等諸多執政成果，斥責民主黨，並呼籲民眾投票支援共和黨、重振美國輝煌。\n11、特朗普將 “竭盡所能” 幫助國際足聯主席詹尼・因凡蒂諾應對日益高漲的逼宮辭職呼聲。"
-    },
-    {
-      "id": "mkt:019fcbcf-d936-7aab-8f69-09183f64ab88",
-      "time": "2026-08-04 16:07:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Korea passes bill removing prosecutors' investigative powers】South Korea's cabinet, meeting on the 4th and chaired by President Lee Jae‑myung, approved an amendment to the Criminal Procedure Act that fully removes prosecutors' authority to conduct direct and supplementary investigations, a major change to a criminal-justice system in place for more than 70 years."
-    },
-    {
-      "id": "mkt:019fcbcf-7757-7aab-8f69-027ec64d88f5",
-      "time": "2026-08-04 16:06:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shanghai Pudong Zhangjiang residential plot sells at 26.92% premium】A Pudong Zhangjiang residential plot with planned GFA 18,458.11 sqm and FAR 2.2 sold to Lianfa Group for 816 mln yuan, a 26.92% premium to the 643 mln yuan opening bid. Winning floor price was 44,191 yuan/sqm versus an initial 34,818 yuan/sqm; three bidders participated."
-    },
-    {
-      "id": "5024041",
-      "time": "2026-08-04 16:06:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國透過法案全面取消檢察機關偵查權】韓國政府4日召開由總統李在明主持的國務會議，審議並透過《刑事訴訟法》修正案，全面取消檢察機關直接偵查和補充偵查的許可權。這意味著韓國延續70餘年的刑事司法體系出現重大調整。（新華社）"
-    },
-    {
-      "id": "5024040",
-      "time": "2026-08-04 16:06:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞斯康達：聘任謝燕根為公司副總經理】瑞斯康達8月4日公告，公司第六屆董事會第十三次會議審議透過，聘任謝燕根為公司副總經理，任期自本次董事會審議透過之日起至第六屆董事會屆滿之日止。"
-    },
-    {
-      "id": "5024039",
-      "time": "2026-08-04 16:06:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊板塊盤前延續漲勢 邁威爾科技漲超5%】美股光通訊板塊盤前延續漲勢，邁威爾科技漲超5%，Lumentum漲近5%，Coherent、康寧漲超4%，Credo漲超3%。"
-    },
-    {
-      "id": "5024038",
-      "time": "2026-08-04 16:05:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海浦東張江宅地溢價26.92%成交】8月4日，上海七批次土拍正式開拍，其中，浦東張江宅地規劃建築面積18458.11㎡，容積率2.2，起始價6.43億元，起始樓面價34818元/㎡。該地塊吸引了3家競買人參與現場競價，最終聯發集團以總價8.16億元競得該地塊，成交樓面價44191元/㎡，溢價率26.92%。"
-    },
-    {
-      "id": "te:markets:572435",
-      "time": "2026-08-04 16:05:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 2.91% — Top commodity gainers are Platinum (2.91%), Silver (2.49%), Copper (1.57%) and Gold (0.38%)."
-    },
-    {
-      "id": "mkt:019fcbcd-fde3-7aab-8f68-fd6900cc074f",
-      "time": "2026-08-04 16:05:02",
-      "tags": [
-        "MKT News",
-        "SNAP.N",
-        "Impact bullish"
-      ],
-      "text": "Snap (SNAP.N) shares rose 8% after the company reported Q2 revenue above expectations."
-    },
-    {
-      "id": "5024037",
-      "time": "2026-08-04 16:04:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "snap股票盤前上漲8.1%，此前該公司第二季度營收超出市場預期。"
-    },
-    {
-      "id": "5024036",
-      "time": "2026-08-04 16:04:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬華化學：煙臺110萬噸/年MDI裝置8月10日起檢修45天】萬華化學公告，根據化工企業生產工藝特點及年度檢修計劃，公司煙臺產業園110萬噸/年MDI裝置及相關配套裝置將於2026年8月10日開始停產檢修，預計檢修45天左右。本次停產檢修是根據年度計劃進行的例行檢修，對公司的生產經營不會產生重大影響。"
-    },
-    {
-      "id": "mkt:019fcbcd-d79d-7aab-8f68-f410c3d5fa3c",
-      "time": "2026-08-04 16:04:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "LME three-month copper rose 0.9% to breach $14,000/ton for the first time since June 3."
-    },
-    {
-      "id": "5024035",
-      "time": "2026-08-04 16:04:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "LME三個月期銅自6月3日以來首次突破14,000美元/噸，上漲0.9%。"
     }
   ]
 }
