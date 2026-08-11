@@ -1,7 +1,153 @@
 {
-  "updated": "2026-08-11 22:06:30",
-  "count": 15591,
+  "updated": "2026-08-11 22:11:23",
+  "count": 15597,
   "items": [
+    {
+      "id": "mkt:019ff128-af6e-7aab-8ff4-9b4fa42a3715",
+      "time": "2026-08-11 22:10:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Eleven French nationals detained in Thailand on suspicion of drug trafficking."
+    },
+    {
+      "id": "5036120",
+      "time": "2026-08-11 22:09:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【何小鵬談電池和自動駕駛新國標：確保不只有長板，更重要的是沒有短板】在小鵬G9L全球首秀暨預售釋出會後，小鵬集團董事長、CEO何小鵬與媒體對話。談及動力電池安全和自動駕駛安全兩個新國標，何小鵬表示，小鵬也是標準的參與者、制定者。以自動駕駛為例，小鵬和其它造車新勢力在2020年左右，就將高速的輔助駕駛帶到了中國，甚至能夠走向全球。現在也看到有越來越多的車廠都能夠把自動輔助駕駛當做一個標配，這是一個非常好的事情，因為不管是中國客戶還是全球客戶都有需求。他同時指出，有非常多的細節場景，很多車主朋友們不一定知道哪些是自動輔助駕駛能力強的，哪些是能力弱的，能力弱的時候該怎麼辦？這個時候就需要制定一個更全面體系的強制標準，這個標準要確保不光你有長板，更重要的是你沒有短板，還重要的是你能夠在整個體系規劃裡把中板補結實，這是我們一直在強標裡期望去做的事情。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ff128-572b-7aab-8ff4-928268b87fc1",
+      "time": "2026-08-11 22:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said the United States does not lack missiles or munitions."
+    },
+    {
+      "id": "mkt:019ff128-1b46-7aab-8ff4-8fad59a36aa4",
+      "time": "2026-08-11 22:09:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the U.S. controls Iran’s funds and has full control over them."
+    },
+    {
+      "id": "mkt:019ff127-7d31-7aab-8ff4-864bbf950761",
+      "time": "2026-08-11 22:08:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the US could use \"powerful force\" to strike Iran."
+    },
+    {
+      "id": "te:economy:574458",
+      "time": "2026-08-11 22:08:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Existing Home Sales",
+        "Importance 2"
+      ],
+      "text": "US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 1.7% from the previous month to a seasonally adjusted, annualized rate of 4.06 units in July of 2026, relatively close to market expectations of 4.06 million. “Home sales have been remarkably stable, even amid the rising mortgage rate environment of the past few months,” said NAR Chief Economist Lawrence Yun. “Year-to-date sales are up 2.4% and there’s no doubt that the housing market would be thriving if average mortgage rates were to return near 6%.”"
+    },
+    {
+      "id": "5036119",
+      "time": "2026-08-11 22:08:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國交通運輸聯合會（CNT）首輪民調：盧拉支援率 42.4%，弗拉維奧・博索納羅 28.7% 。"
+    },
+    {
+      "id": "5036118",
+      "time": "2026-08-11 22:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普表示，伊朗通貨膨脹率高達300%，其貨幣一文不值。美國可以用“巨大力量”打擊伊朗。"
+    },
+    {
+      "id": "mkt:019ff126-c6e5-7aab-8ff4-7c9f6ff5b6ef",
+      "time": "2026-08-11 22:07:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iran's inflation is as high as 300% and its currency is effectively worthless."
+    },
+    {
+      "id": "mkt:019ff126-6925-7aab-8ff4-7048ee76a7ad",
+      "time": "2026-08-11 22:07:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Iranians do not pay soldiers' salaries."
+    },
+    {
+      "id": "5036117",
+      "time": "2026-08-11 22:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：蘋果大幅提升印度地區 iPhone 產能。"
+    },
+    {
+      "id": "mkt:019ff125-7b80-7aab-8ff4-69bc5b324a6e",
+      "time": "2026-08-11 22:06:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US existing‑home sales fall to three‑month low as high prices, mortgage rates suppress market】Existing‑home sales in the US fell 1.7% MoM in July to a 4.06 mln annualized pace, a three‑month low and in line with the median economist forecast, the National Association of Realtors said. The report said persistently high listing prices and rising mortgage borrowing costs continue to deter buyers. The resale market has hovered around a roughly 4.0 mln annualized pace since late‑2022. NAR chief economist Lawrence Yun said sales have been very steady and that if average mortgage rates returned near 6% the market would undoubtedly boom."
+    },
+    {
+      "id": "5036116",
+      "time": "2026-08-11 22:06:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國化學工程東華公司簽訂西部新材年產5萬噸聚烯烴彈性體產業示範專案總承包合同】據東華科技訊息，8月5日，中國化學工程東華公司與中國化學工程西部新材舉行年產5萬噸聚烯烴彈性體產業示範專案總承包合同簽約儀式及開工會。專案採用科研總院和東華公司自主研發的高溫溶液聚合法生產工藝和茂金屬催化劑，可生產乙烯-丁烯共聚POE（C4）和乙烯-辛烯共聚POE（C8）兩大體系產品。"
+    },
+    {
+      "id": "mkt:019ff124-fc40-7aab-8ff4-62251ef6e65d",
+      "time": "2026-08-11 22:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. officials said Russia released former Marine Robert Gilman."
+    },
+    {
+      "id": "mkt:019ff124-d1d6-7aab-8ff4-58e23b0d0740",
+      "time": "2026-08-11 22:05:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Iranians are very shrewd negotiators."
+    },
+    {
+      "id": "5036115",
+      "time": "2026-08-11 22:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部：俄羅斯與伊朗討論伊核計劃解決前景】俄羅斯外交部表示，俄羅斯與伊朗舉行了軍控、裁軍和防擴散議題外交部間磋商，雙方討論了伊朗核計劃解決前景。"
+    },
     {
       "id": "mkt:019ff123-afd1-7aab-8ff4-55c16b809427",
       "time": "2026-08-11 22:04:35",
@@ -141874,89 +142020,6 @@
         "其他"
       ],
       "text": "德國經濟部表示：德國仍有意推動KNDS儘快上市並保留政府持股，同時將遵循6月達成的相關流程。"
-    },
-    {
-      "id": "5025033",
-      "time": "2026-08-04 22:10:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元即期指數下跌 0.1%，跌至盤中低點。"
-    },
-    {
-      "id": "te:markets:572605",
-      "time": "2026-08-04 22:10:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Heating Oil is down by 5.02% — Heating Oil decreased 5.02% to 3.6825 USD/Gal"
-    },
-    {
-      "id": "5025032",
-      "time": "2026-08-04 22:10:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： 斯特拉電力公司獲得卡特彼勒的渦輪機訂單。"
-    },
-    {
-      "id": "5025031",
-      "time": "2026-08-04 22:09:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【IPO監管升級！保薦盡調規則重構，從嚴整治偽創新與形式化盡調】記者從券商處瞭解到，近日，中國證券業協會就《證券業務示範實踐第3號——保薦人盡職調查（徵求意見稿）》面向證券行業徵求意見，意見反饋截至8月25日。新規亮點之一是建立四大上市板塊差異化核查標準，同時細化第三方機構意見採信、財務資料核驗、股權穿透核查等全流程實操細則，補齊新型銷售模式等專項盡調規則空白，全方位壓實保薦機構風控主體責任，為IPO前端稽核築牢合規防線。此前2022年版盡調規則僅劃定保薦機構基礎履職邊界，整體偏向宏觀框架指導，缺乏適配不同上市場景、企業型別、執業階段的差異化核查規範。在實務操作中，這一短板導致行業核查尺度模糊、作業標準同質化，盡調工作普遍陷入模板化、形式化的困境。針對上述行業痛點，本次修訂將零散、籠統的準則拆解細化、落地具象，搭建起覆蓋上市輔導、專案申報、持續督導全週期的精細化執業體系，讓保薦盡調各環節作業均有細則可依、有標準可考。 (21世紀經濟報道)"
-    },
-    {
-      "id": "5025030",
-      "time": "2026-08-04 22:09:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部將對底特律、蘭辛、東蘭辛、哈姆特拉米克的投票站進行監督。"
-    },
-    {
-      "id": "5025029",
-      "time": "2026-08-04 22:09:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：上訴法院駁回了活動團體針對蓋特威克機場擴建專案司法挑戰被駁回後的上訴許可申請。"
-    },
-    {
-      "id": "5025028",
-      "time": "2026-08-04 22:08:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部今日將對密歇根州四座城市的投票站點開展監督。"
-    },
-    {
-      "id": "5025027",
-      "time": "2026-08-04 22:07:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：蓋特威克機場擴建後的北跑道將於2030年迎來首架航班起降，擴建後每年將新增10萬個航班架次。"
-    },
-    {
-      "id": "5025026",
-      "time": "2026-08-04 22:07:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：蓋特威克機場擴建專案將創造1.4萬個新增就業崗位，每年可為經濟帶來10億英鎊收益。"
-    },
-    {
-      "id": "5025025",
-      "time": "2026-08-04 22:06:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：TGS 預計，阿根廷價值 30 億美元的頁岩天然氣凝析液專案將於 2030 年 3 月實現投產（COD）。"
     }
   ]
 }
