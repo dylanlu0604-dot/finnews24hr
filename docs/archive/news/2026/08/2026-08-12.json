@@ -1,7 +1,33 @@
 {
   "date": "2026-08-12",
-  "count": 143,
+  "count": 146,
   "items": [
+    {
+      "id": "mkt:019ff1cd-e44e-7aab-8ff8-46486344d320",
+      "time": "2026-08-12 01:10:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Ministry of Defense said the Bahrain Defence Force chief of general staff met the UK deputy chief of the defence staff for strategy and operations and a visiting delegation to discuss bilateral defence cooperation and regional security."
+    },
+    {
+      "id": "5036291",
+      "time": "2026-08-12 01:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震已致234人死亡】根據哥倫比亞市政聯合會當地時間11日通報，該國8月10日發生的強震死亡人數已上升為234人。"
+    },
+    {
+      "id": "5036290",
+      "time": "2026-08-12 01:06:55",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【英偉達信用風險指標回落 CEO澄清5000億美元融資計劃】一項與英偉達相關的信用風險指標週二回落，此前該公司表示將限制自身在一項5000億美元融資計劃中的風險敞口。該計劃旨在為人工智慧投資提供融資，而這類投資正推動對英偉達晶片的需求。英偉達票息5.625%、2056年到期債券的收益率較可比美國國債高113個基點，利差收窄2個基點。與此同時，根據ICE Data Services的資料，5年期信用違約掉期報價一度收窄5個基點，至72.11個基點。"
+    },
     {
       "id": "5036289",
       "time": "2026-08-12 01:05:15",
