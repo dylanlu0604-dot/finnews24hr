@@ -1,7 +1,164 @@
 {
   "date": "2026-08-11",
-  "count": 2610,
+  "count": 2627,
   "items": [
+    {
+      "id": "5036161",
+      "time": "2026-08-11 22:43:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "肯亞貨幣政策委員會預計短期消費者物價指數將維持在目標區間內。"
+    },
+    {
+      "id": "mkt:019ff146-42f6-7aab-8ff5-24581b34631d",
+      "time": "2026-08-11 22:42:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Market sources said roughly one-third (about 33%) of subscription orders for Intel's share offering went unallotted."
+    },
+    {
+      "id": "5036160",
+      "time": "2026-08-11 22:42:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "肯亞央行預計短期內通脹將處於目標區間內。"
+    },
+    {
+      "id": "mkt:019ff145-a4fa-7aab-8ff5-1effe321891b",
+      "time": "2026-08-11 22:41:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The ACLU and other legal groups asked a U.S. judge to block Trump's latest action to restrict \"birthright citizenship\"."
+    },
+    {
+      "id": "5036159",
+      "time": "2026-08-11 22:41:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【TD SYNNEX將IBM分銷業務擴充套件至20個新國家】8月11日，全球IT分銷商及解決方案聚合商TD SYNNEX宣佈擴大IBM產品分銷覆蓋範圍，將業務拓展至歐洲、亞太地區（馬來西亞市場以Tech Data和Tec-D品牌運營）以及拉丁美洲的20個新國家。"
+    },
+    {
+      "id": "5036158",
+      "time": "2026-08-11 22:41:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國公民自由聯盟及其他法律團體請求美國法官阻止特朗普總統限制出生公民權的最新行動。"
+    },
+    {
+      "id": "5036157",
+      "time": "2026-08-11 22:40:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：漢諾威機場因發現無人機蹤跡被迫關閉。"
+    },
+    {
+      "id": "5036156",
+      "time": "2026-08-11 22:40:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "據傳英特爾本次配售中約 33% 的申購訂單未獲分配股票 。"
+    },
+    {
+      "id": "mkt:019ff144-7a35-7aab-8ff5-14e86b2c7b36",
+      "time": "2026-08-11 22:40:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China Southern Power Grid load hits 278 GW; August peak seen at 283 GW, +12.9% YoY】China Southern Power Grid said at 17:16 on Aug 11 its system load reached 278 GW, the fifth record high this year. Guangdong's midday peak hit 176 GW, with Yangjiang, Shantou, Jieyang and Chaozhou recording local highs. The grid forecasts August peak could reach 283 GW, up 12.9% YoY."
+    },
+    {
+      "id": "5036155",
+      "time": "2026-08-11 22:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南方電網用電負荷今年五創新高 突破2.78億千瓦】據南方電網訊息，8月11日17時16分，南方電網用電負荷突破2.78億千瓦，今年第五次創歷史新高。當天中午，廣東最高用電負荷達1.76億千瓦，今年第四次創新高，廣東省內陽江、汕頭、揭陽、潮州等地市用電負荷創歷史新高。據南方電網預測，8月份，南方電網用電負荷仍將持續高位執行，最高負荷或達2.83億千瓦，較去年同期增長12.9%。"
+    },
+    {
+      "id": "5036154",
+      "time": "2026-08-11 22:39:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：該指南代表本機構目前關於防控鮮切農產品汙染相關問題的最新思路。"
+    },
+    {
+      "id": "5036153",
+      "time": "2026-08-11 22:39:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "肯亞央行維持基準利率在8.75%不變；預計利率為8.75%。"
+    },
+    {
+      "id": "mkt:019ff143-8e55-7aab-8ff5-0fe21fc57c58",
+      "time": "2026-08-11 22:39:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Atlanta Fed first vice president Venable said there are \"subtle risks\" to the Fed's inflation and employment mandates."
+    },
+    {
+      "id": "5036152",
+      "time": "2026-08-11 22:39:07",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "亞特蘭大聯儲第一副總裁維納布林：美聯儲的通脹與就業使命存在“細微風險。"
+    },
+    {
+      "id": "5036151",
+      "time": "2026-08-11 22:39:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局根據《人類食品預防性控制規則》敲定即食鮮切農產品生產操作指南。"
+    },
+    {
+      "id": "mkt:019ff142-e81a-7aab-8ff5-043fc32007ff",
+      "time": "2026-08-11 22:38:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Atlanta Fed first vice president Venable said the Fed’s assessment of maximum employment is being affected by a stagnating labor supply, which is \"an unusual situation\" for the United States."
+    },
+    {
+      "id": "5036150",
+      "time": "2026-08-11 22:38:36",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "亞特蘭大聯儲第一副總裁維納布林：最大化就業的理解受到勞動力供應停滯的影響，這對美國而言是一種“異常情況”。"
+    },
     {
       "id": "mkt:019ff142-86da-7aab-8ff4-fe21ab9d796d",
       "time": "2026-08-11 22:38:16",
