@@ -1,7 +1,199 @@
 {
   "date": "2026-08-11",
-  "count": 622,
+  "count": 642,
   "items": [
+    {
+      "id": "5034829",
+      "time": "2026-08-11 09:32:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商業航天板塊走低，斯瑞新材、超捷股份跌超10%】商業航天板塊走低，斯瑞新材、超捷股份跌超10%，神劍股份、天力複合、電科藍天、中國衛星、飛沃科技跟跌。"
+    },
+    {
+      "id": "5034828",
+      "time": "2026-08-11 09:31:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國際足聯更換因凡蒂諾將是一個巨大的錯誤。"
+    },
+    {
+      "id": "mkt:019fee72-8b5b-7aab-8fe3-b3e20108de6c",
+      "time": "2026-08-11 09:31:51",
+      "tags": [
+        "MKT News",
+        "563230.SZ",
+        "Impact bearish",
+        "512630.SZ",
+        "563530.SZ"
+      ],
+      "text": "Multiple A-share satellite ETFs, including Fullgoal (563230), GF Fund (512630) and E Fund (563530), fell more than 3% in early trade."
+    },
+    {
+      "id": "5034827",
+      "time": "2026-08-11 09:31:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4420美元/盎司，日內漲0.69%。"
+    },
+    {
+      "id": "mkt:019fee72-073d-7aab-8fe3-a9b4df5cd7fd",
+      "time": "2026-08-11 09:31:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open (morning)】At the morning open, China government bond futures' most-active contracts: 2-year (TS) down 0.02% (-2 bps); 5-year (TF) down 0.02% (-2 bps); 10-year (T) down 0.02% (-2 bps); 30-year (TL) down 0.12% (-12 bps)."
+    },
+    {
+      "id": "5034826",
+      "time": "2026-08-11 09:31:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【六九一二成立新公司 含多項衛星相關業務】企查查APP顯示，近日，四川惟拓科技有限公司成立，經營範圍包含積體電路晶片設計及服務；衛星技術綜合應用系統整合；衛星導航多模增強應用服務系統整合；衛星導航服務等。企查查股權穿透顯示，該公司由六九一二全資持股。"
+    },
+    {
+      "id": "mkt:019fee71-f607-7aab-8fe3-a1aa3d647ad2",
+      "time": "2026-08-11 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures morning open】China's CSI 300 index futures (IF) front-month contract up 0.16%; SSE 50 index futures (IH) front-month down 0.01%; CSI 500 futures (IC) front-month down 0.01%; CSI 1000 futures (IM) front-month down 0.19%."
+    },
+    {
+      "id": "5034825",
+      "time": "2026-08-11 09:31:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.03%，成分股中，天力複合跌8.03%，星圖測控跌7.17%，富士達跌3.31%，天工股份跌2.19%。"
+    },
+    {
+      "id": "5034824",
+      "time": "2026-08-11 09:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多支衛星ETF跌超3%】商業航天板塊遭重挫，衛星ETF富國（563230）、 衛星ETF廣發（512630）、 衛星ETF易方達（563530）等多支ETF跌超3%。"
+    },
+    {
+      "id": "5034823",
+      "time": "2026-08-11 09:30:10",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞7月NAB商業信心指數 -6，前值-5。澳大利亞7月NAB商業景氣指數 4，前值3。"
+    },
+    {
+      "id": "mkt:019fee70-f38e-7aab-8fe3-9c693e64b332",
+      "time": "2026-08-11 09:30:07",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July NAB business confidence index 4, prior 3."
+    },
+    {
+      "id": "mkt:019fee70-ef32-7aab-8fe3-93e3dfa50126",
+      "time": "2026-08-11 09:30:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Australia July NAB Business Confidence index -6, previous -5."
+    },
+    {
+      "id": "5034822",
+      "time": "2026-08-11 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.16%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5034821",
+      "time": "2026-08-11 09:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.22%， 滬深300指數期貨連續漲0.06%， 中證500指數期貨連續跌0.09%， 上證50指數期貨連續跌0.10%。"
+    },
+    {
+      "id": "5034820",
+      "time": "2026-08-11 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.30%，成分股中，國博電子跌3.96%，中科星圖跌3.80%，中微公司跌2.82%，源傑科技跌2.48%。"
+    },
+    {
+      "id": "mkt:019fee70-d6b8-7aab-8fe3-8f5dcc6c5013",
+      "time": "2026-08-11 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business conditions Index (Jul) | actual 4 | previous 3"
+    },
+    {
+      "id": "mkt:019fee70-d6ac-7aab-8fe3-86df81730aca",
+      "time": "2026-08-11 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business Confidence Index (Jul) | actual -6 | previous -5"
+    },
+    {
+      "id": "mkt:019fee70-667c-7aab-8fe3-7b3da8657943",
+      "time": "2026-08-11 09:29:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "A-share gold sector stocks opened higher. Zhaojin Gold rose over 5%; Chifeng Gold and Shandong Gold rose more than 2%; Zhongjin Gold and Shanjin International also advanced."
+    },
+    {
+      "id": "te:markets:574235",
+      "time": "2026-08-11 09:28:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Extends Rally — European natural gas prices climbed to €61.5 per MWh on Tuesday, extending the previous session’s rally, as hopes for a deal to reopen the Strait of Hormuz faded amid demands from the US and Iran. President Trump on Monday called for Iran to compensate for people it has killed in conflicts, after Tehran sought compensation for damage caused by US and Israeli attacks. The standoff has reduced expectations of an immediate resolution that would restore LNG flows through the Persian Gulf. The ongoing disruption has tightened global LNG supplies, intensifying competition with Asian buyers and hampering Europe’s efforts to replenish gas stockpiles ahead of winter. European gas storage sites recently fell to their lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Traders are also monitoring extended supply cuts at Norway’s Ormen Lange gas field, Europe’s largest pipeline supplier, as further disruptions could amplify price volatility."
+    },
+    {
+      "id": "mkt:019fee6f-ab0c-7aab-8fe3-703fb85f3313",
+      "time": "2026-08-11 09:28:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share cinema exhibitors sector opened higher; Beijing Culture recorded a second consecutive limit-up. Huazhi Digital Media, Ruyi Film and Jinyi Film & TV also opened higher."
+    },
     {
       "id": "5034819",
       "time": "2026-08-11 09:28:05",
