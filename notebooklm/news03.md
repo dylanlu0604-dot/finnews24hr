@@ -1,7 +1,154 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-12 00:31:46_
-_本檔包含 3128 則快訊，約 597111 字_
+_更新時間：2026-08-12 01:34:44_
+_本檔包含 3123 則快訊，約 596712 字_
+
+---
+
+### 2026-08-09 09:14:00  #公司 #市場
+
+【下週29股面臨解禁】據資料寶統計，下週將有29股解禁，按照最新收盤價計算，合計解禁市值達272億元。陸家嘴 下週將有7.79億股上市流通，主要為定向增發機構配售股份，解禁市值達71.1億元。盟固利 的解禁規模次之，下週將有1.87億股上市流通，解禁股主要為首發原股東限售股份，解禁市值達30.58億元。凌瑋科技、華能蒙電、廣東建科、江淮汽車、志高機械 的解禁市值規模也居前。相比之下， 西大門、大洋生物、新巨豐、有方科技、漢鑫科技 的解禁壓力較小，解禁市值均不足千萬元。從解禁比例來看，下週面臨解禁的個股中， 志高機械 的解禁比例最高，達68.8%； 盟固利、廣東建科、凌瑋科技、紫建電子、鼎佳精密 的解禁比例居前，均超20%。
+
+---
+
+### 2026-08-09 09:13:12  #其他
+
+【颱風“白海豚”路徑變化 鐵路部門動態調整列車開行方案】為確保鐵路運輸和旅客出行安全，鐵路部門密切關注颱風“白海豚”路徑變化和後續影響，今天（9日）進一步動態調整列車開行方案。8月9日12時起，國鐵南昌局將衢寧鐵路、杭深鐵路福鼎至福州南區段及相關支線、聯絡線防颱風應急響應等級由Ⅳ級提升為Ⅲ級。受颱風影響部分列車停運。主要涉及8月9日至10日，D3104次莆田至上海虹橋、G1608次廈門北至杭州東、D3302次廈門北至寧波、D3102次福州至上海虹橋、D3296次武平至南京南、D3324次景德鎮北至上海虹橋、D158次福州至衢州、D6205次福州南至莆田等旅客列車。（央視新聞）
+
+---
+
+### 2026-08-09 09:10:27  #MKT News
+
+A fire broke out at a gas facility in Jubail Industrial City, Saudi Arabia, market sources said.
+
+---
+
+### 2026-08-09 09:10:18  #市場 #焦點 #原創
+
+【精品茅臺、普五八代領漲名酒板塊 洋河夢之藍M6+重跌】新浪財經“酒價內參”過去24小時收集的資料顯示，8月9日11大白酒單品六漲五跌，多數品牌止跌回暖，漲跌分化依然顯著。上漲方面，精品茅臺上漲8元/瓶，終端零售均價來到2410元，創下近一個月新高；五糧液普五八代上漲7元至798元，創下月內次高逼近800元重要關口；五糧液1618同步上漲1元；青花汾20大幅上漲9元，青花郎大漲10元，兩支次高階單品價格上行，前者更是連創近一個月最高價；習酒君品、水晶劍南春分別上漲4元、2元，近期價盤均報價平穩。下跌方面，飛天茅臺小幅回落2元，終端售價為1773元，延續高位窄幅震盪；國窖1573與古井貢古20小幅下跌3元；洋河夢之藍M6+大幅下挫8元，陷入月內低價區間。
+
+整價方面，白酒市場主要大單品的終端零售總價今日再度走高。如果11大單品各取一瓶整體打包售賣，總售價為9933元，較昨日大幅上漲25元，創下今年5月底以來價格新高，白酒市場的整體回暖行情繼續推進，終端看漲情緒穩步升溫，此前震盪磨底的行情暫告結束。
+
+---
+
+### 2026-08-09 09:10:00  #國際
+
+【日本長野縣發生山體滑坡 約400人被困】總檯記者8月9日獲悉，日本長野縣安曇野市和大町市8日晚發生山體滑坡，當地道路被泥土和砂石阻斷，預計兩地約有400人被困。目前，兩處山體滑坡的規模以及被困人員的具體情況等均尚未掌握。當地政府和警方等部門從9日早晨開始進一步確認相關情況。據悉，發生山體滑坡的地區從8日下午開始出現大雨。（央視新聞）
+
+---
+
+### 2026-08-09 09:08:15  #其他
+
+市場訊息：沙烏地阿拉伯朱拜勒地區聽到巨大爆炸聲。
+
+---
+
+### 2026-08-09 09:08:01  #公司
+
+【火箭殘骸撞月影片，假的】2026年8月5日，埃隆·馬斯克旗下太空探索技術公司（SpaceX）一枚“獵鷹9號”火箭二級殘骸，已按預測撞擊月球表面。然而，經馬斯克轉發的一段聲稱捕捉到這一瞬間的影片實為虛假畫面。該影片已經在多家海外社交媒體平臺上迅速傳播，並出現了西班牙語、中文、阿拉伯語和印地語等多個語言版本，但實際上，目前尚無衛星從太空直接拍攝到撞擊過程的真實影片。（央視新聞）
+
+---
+
+### 2026-08-09 09:06:44  #其他
+
+【阿維塔王輝：華為乾崑智駕里程突破137億公里】阿維塔科技董事長王輝在阿維塔07L的釋出會上透露，截止到8月8日，華為乾崑智駕里程突破137億公里。目前華為乾崑智駕已經最新迭代到了ADS 5，阿維塔07L也是首批搭載華為乾崑智駕ADS 5的車型。
+
+---
+
+### 2026-08-09 09:05:55  #公司 #市場 #國際
+
+【歐洲烈焰不斷 保險業面臨巨災風險重估】歐洲大陸正經歷全球最快升溫速度，保險行業也開始迎接一個歐洲巨災風險的新時代。保險公司、再保險公司及保險經紀機構均預計，未來與自然災害相關的保費將上漲，損失規模也會擴大。更重要的是，它們並不認為近期頻發的極端高溫只是短期衝擊，而視之為一種長期趨勢。全球第二大保險經紀公司怡安集團(Aon Plc)全球氣候風險諮詢負責人威爾·布魯斯(Will Bruce)表示，行業正“積極研判”氣溫上升究竟在多大程度上“代表著歐洲巨災風險格局的根本性轉變”。
+
+---
+
+### 2026-08-09 09:04:05  #其他
+
+【7 月流行計算機病毒當心中招】國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺捕獲發現下列計算機病毒程式，並總結2026年7月流行計算機病毒特點如下：1一是仿冒主流熱門軟體。仿冒物件非常廣泛，全面覆蓋即時通訊類、裝機類、辦公類、網路瀏覽類、網路購物類、網路遊戲類、人工智慧類等流行軟體。2二是仿冒所謂“啟用工具”。仿冒盜版作業系統啟用工具，明顯針對新裝機使用者或重灌系統使用者。3三是仿冒公文。“銀狐”系列木馬病毒繼續使用“裁員”“違紀”等人事敏感話題偽造公文欺騙誘導使用者。4四是仿冒暑期培訓教育類應用。多款手機和PC木馬病毒變種偽裝成暑期培訓教育類軟體針對家長和學生群體定向傳播。廣大計算機使用者可透過國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）檢索詳細資訊並上傳檢測可疑檔案，建議單位網路管理員根據有關檔案特徵加強本單位計算機病毒防治措施。
+
+---
+
+### 2026-08-09 08:59:47  #國際
+
+調研顯示，七成韓國民眾認為理想狀態下至少生育兩個孩子，但受經濟壓力等多重因素影響，多數人最終只生育一胎。
+
+---
+
+### 2026-08-09 08:58:15  #MKT News
+
+【Elon Musk says Starlink V3 will be an order-of-magnitude improvement over V2】Elon Musk said Starlink’s third-generation satellites (V3), planned to be launched by Starship, would deliver roughly an order-of-magnitude improvement in overall performance versus the current Falcon-launched second-generation (V2) fleet. He said SpaceX plans to deploy an order-of-magnitude larger V3 fleet and later iterations alongside remaining V2 and handset-direct satellites, raising total bandwidth to more than 100x that of V2. Musk forecast V2’s ARR this year at $20bn and said SpaceX’s communications revenue could exceed $200bn even if revenue per gigabit falls to one-tenth.
+
+---
+
+### 2026-08-09 08:54:03  #MKT News #005930.KS #Impact mixed #000660.KS
+
+【Korean equities' most turbulent phase may be over as deleveraging pushes volatility to two‑month low】Korean equity turbulence may have peaked after a historic sell‑off cleared leveraged positions and regulatory curbs cut trading in high‑risk products. A Korean equity volatility index fell to a two‑month low last week after hitting a record high in June. Forced liquidations reduced outstanding margin debt, and tighter rules on leveraged ETFs squeezed volumes and assets linked to Samsung Electronics and SK Hynix. Morgan Stanley says deleveraging is more than half complete. The KOSPI is down nearly 40% from its June peak, and global funds have sold over $100 bln of Korean equities year‑to‑date, leaving EM fund exposure to Korea weakened.
+
+---
+
+### 2026-08-09 08:52:26  #公司
+
+【兩大科創板IPO背後：險資重倉硬科技】8月7日下午，宇樹科技舉行科創板IPO網上路演，發行價150.80元/股，對應市值約610億元。兩週前，國產DRAM龍頭長鑫科技登陸科創板，上市首日市值站上3萬億元。兩起標誌性IPO背後，保險資金均深度參與。受訪人士表示，新質生產力產業已成為保險資金獲取成長性收益、提升投資組合長期回報的重要途徑。兩家公司IPO之後，險資一級股權投資價值將更受關注，險資長期股權資產配置能力和優質產業專案儲備價值將逐步顯性化。（上證報）
+
+---
+
+### 2026-08-09 08:48:58  #公司 #市場 #國際
+
+【美銀：維持閃迪2500美元目標價，AI儲存需求或推動盈利持續增長】美國銀行在閃迪公佈最新財報後繼續維持看多評級，並表示AI基礎設施擴張可能推動儲存需求持續增長，公司盈利能力或強於市場預期。美銀重申閃迪“買入”評級，並維持2500美元目標價。該目標價基於2027年預期每股收益255美元以及約10倍市盈率估值，相較參考股價1350.5美元隱含約85%的上漲空間。美銀表示，閃迪此前被市場視為典型週期股，但隨著人工智慧發展推動資料儲存需求增加，以及企業級SSD滲透率提升，公司當前盈利水平可能具備更強持續性。財報資料顯示，閃迪第四財季營收達到89.7億美元，環比增長51%，超過公司此前77.5億-82.5億美元的指引。其中，約三分之二增長來自產品價格上漲，其餘來自儲存位元出貨量增加。同期，公司毛利率升至84.6%，高於上一季度的78.4%，並超過此前79%-81%的預期區間。美銀預計，閃迪2027財年每股收益將增長229%-233.85美元，營收增長160%-526億美元。公司預計下一財季營收為103億-108億美元，每股收益為44-46美元，毛利率維持在83%-85%。美銀表示，目前尚未看到閃迪儲存價格和盈利能力達到峰值的明顯跡象，AI基礎設施建設帶來的儲存需求增長可能繼續支撐行業景氣週期。
+
+---
+
+### 2026-08-09 08:48:17  #MKT News
+
+【Japan Ohi Unit 3 automatically shuts after generator fault】At about 23:55 local time on Aug. 8, Kansai Electric Power Co.'s Ohi nuclear plant Unit 3 in Fukui prefecture automatically shut down after alarms from an internal generator equipment abnormality. Kansai Electric said there is no radiological impact on the surrounding environment. Kansai Electric's Mihama plant Unit 3 in Fukui was manually shut in May after a turbine steam leak.
+
+---
+
+### 2026-08-09 08:46:44  #MKT News
+
+【Iranian media posts video of Supreme Leader Mojtaba Khamenei】Iranian media posted on social media on the 8th a video featuring Iran's supreme leader Mojtaba Khamenei, Xinhua said.
+
+---
+
+### 2026-08-09 08:46:29  #公司 #國際
+
+【日本大飯核電站3號機組因發電機異常停止執行】當地時間8月8日23時55分左右，位於日本福井縣的關西電力公司大飯核電站3號機組，因發電機內部裝置出現異常，相關警報被觸發，反應堆自動停止執行。關西電力表示，此次事故不會對周邊環境造成放射性影響。關西電力旗下同樣位於福井縣的美濱核電站3號機組，今年5月也曾出現因汽輪機發生蒸汽洩漏而採取手動停機措施的情況。（央視新聞）
+
+---
+
+### 2026-08-09 08:44:07  #公司 #國際
+
+【派拉蒙擬承諾收購華納後每年院線發行30部影片】據知情人士透露，派拉蒙天空之舞集團同意與主要院線簽署合同，若完成對華納兄弟探索公司的收購，將保證每年在影院上映30部電影。因協議尚未公開，知情人士要求匿名。知情人士表示，派拉蒙已向全球兩大院線——AMC娛樂控股以及Cineworld集團旗下的帝王影院提供為期三年的協議，要求影片院線獨家放映期不少於45天，同時影片上線流媒體平臺的時間不得早於90天。派拉蒙執行長戴維・埃利森此前已經公開發表過類似表態，而這份書面承諾可以確保他後續不會更改立場。知情人士稱，如果派拉蒙未能履行義務，將會面臨處罰。
+
+---
+
+### 2026-08-09 08:44:04  #其他
+
+【今天北京晴到多雲為主 明天傍晚起雷陣雨再次來襲】今天（8月9日），北京以晴或多雲為主；明天白天晴轉多雲，傍晚至後天有雷陣雨。此外，北京氣溫將再次上升，明天最高氣溫會升至34℃，需做好防暑降溫措施。
+
+---
+
+### 2026-08-09 08:38:29  #其他
+
+【紹興提升防颱風應急響應至Ⅰ級】根據《紹興市防汛防颱抗旱應急預案》規定，經會商研判，市防指決定自8月9日8時提升防颱風應急響應至Ⅰ級，並提升防禦地質災害應急響應至Ⅰ級。各地各部門要高度重視，密切監視颱風動向，按預案方案全力做好防颱工作，必要時宣佈進入緊急防汛期，採取停止戶外集體活動、停工、停課、停業、停運和封閉交通道路等措施。
+
+---
+
+### 2026-08-09 08:37:57  #其他
+
+派拉蒙將向院線出具書面檔案，落實30部影片的發行承諾。
+
+---
+
+### 2026-08-09 08:37:28  #公司 #市場 #國際
+
+【人均浮虧22萬！槓桿ETF緣何突然走紅，讓韓國70萬散戶深陷泥潭？】5月27日，首批16只錨定三星電子與SK海力士的個股槓桿及反向ETF在韓國交易所正式上市交易，產品上市後便引爆零售市場。由於買入此類產品所需的門檻要求極低，操作極其便利，外加營銷的無孔不入，數十萬散戶湧入，散戶持倉佔比超九成，大量資產微薄的年輕人成為交易主力。
+
+上述槓桿ETF突然走紅，有三大原因：
+一是槓桿的便利性。該類產品最大的特點是操作股票化，像買賣股票一樣簡單，只要輸入程式碼和價格，就可以進行交易，看多買入正向產品、看空買入反向產品。
+
+二是槓桿的低門檻。在韓國5—7月的舊規則中，賬戶滿足1000萬韓元（合計47000元人民幣）基礎保證金即可交易，允許證券資產按70%折算保證金，這也意味著，賬戶僅持有1430萬韓元（約67210元人民幣）的股票，即便沒有現金，也可以獲得2倍個股槓桿ETF的交易資格。
+
+三是營銷的誤導性。這批個股槓桿ETF上市初期，基金、券商透過APP彈窗、短影片等社交渠道進行推廣，再疊加財經網紅、股票社群傳播，渲染“押注半導體國運、博取兩倍收益”，風險提示被嚴重弱化。很多投資者被“小錢博取高收益”敘事吸引，混淆“每日兩倍波動”與“長期兩倍收益”，對每日重置槓桿的波動損耗幾乎一無所知。（券商中國）
 
 ---
 
@@ -18684,173 +18831,5 @@ SC crude 2609 contract surged intraday, up 5.16% to 536 yuan/barrel; turnover ex
 ### 2026-08-07 11:11:37  #市場 #國際 #原創
 
 【亞洲煉油商據悉採購美國原油 將於9月裝船】據知情交易員透露，亞洲煉油商近日採購了數船美國原油，將於9月裝船，每筆採購量約為200萬桶。買家包括泰國PTT和韓國SK Energy。據悉，日本煉油商Idemitsu也採購了一些美國原油，但相關貨物的最終目的地尚不清楚。
-
----
-
-### 2026-08-07 11:11:11  #其他
-
-【影石產品將上線AI語音助手，分割槽域接入阿里千問和Gemini模型】影石Insta360將於8月7日為GO Ultra拇指相機上線AI語音助手。該功能按區域採用不同大模型方案：中國大陸地區接入阿里千問大模型，中國港澳臺及海外地區使用Google Gemini，翻譯結果可透過機身揚聲器直接播報。據瞭解，此次AI語音助手以影石自研為核心，融合阿里千問大模型的多模態能力及千問App的拍照問答能力。端側完成聲紋識別、意圖判斷，雲端則承擔問答、模式切換、翻譯等複雜任務。(新浪科技)
-
----
-
-### 2026-08-07 11:10:24  #公司
-
-【汪峰已成立科技公司 名下多家音樂公司已登出】據媒體報道，近日，歌手汪峰在節目中自曝，其公司因全面引入Al技術，團隊規模已從1100人最佳化至400人，相關話題引發熱議。天眼查App顯示，汪峰名下關聯超20家企業，其中多家企業處於存續狀態，包括南京果醬文化發展有限公司、江西斐耳科技有限公司等。
-
----
-
-### 2026-08-07 11:10:16  #市場
-
-隔夜SHIBOR報1.3610%，上漲0.80個基點。7天SHIBOR報1.3910%，上漲0.80個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。
-
----
-
-### 2026-08-07 11:09:29  #Trading Economics #Economy #Indonesia #Foreign Exchange Reserves #Importance 1
-
-Indonesia Forex Reserves Fall in July — Indonesia's foreign exchange reserves fell to USD 145.3 billion in July 2026 from USD 145.6 billion in June. The decline was mainly driven by government foreign debt repayments and Bank Indonesia's currency market interventions to support the rupiah amid renewed volatility in global financial markets, despite inflows from tax and service revenues and the issuance of government global bonds. The reserves remained robust, covering 5.5 months of imports or 5.3 months of imports and government external debt repayments, comfortably above the international adequacy benchmark of around three months. Bank Indonesia said the reserve buffer remains sufficient to safeguard external sector stability and support overall macroeconomic and financial system resilience. Looking ahead, the central bank expects the external sector to remain resilient, underpinned by ample foreign exchange reserves and sustained capital inflows.
-
----
-
-### 2026-08-07 11:09:27  #其他
-
-本田中國1-7月汽車銷量230870輛，同比下降35.9%。
-
----
-
-### 2026-08-07 11:08:08  #其他
-
-【臺積電研發二維電晶體新技術，突破先進半導體材料介面瓶頸】臺灣陽明交通大學與臺積電企業研發團隊在二維半導體領域取得新進展，提出一種原子級介面工程技術，可在縮小電晶體尺寸的同時保持高電氣效能，有望推動下一代低功耗半導體技術發展。相關研究成果發表於《自然·電子學》。研究團隊表示，二維半導體材料僅有單原子厚度，具備優異電學特性，被視為超越矽基晶片限制的潛在材料。但在製造電晶體時，超薄絕緣層與半導體之間的介面容易產生缺陷，導致電子散射，使電晶體效能提升面臨瓶頸。研究人員透過在單層二硫化鉬（MoS₂）半導體表面構建超薄氧化鋁介面層，再結合高介電常數氧化鉿柵介質，改善材料介面質量，使電晶體同時實現更強電控能力和較高載流子遷移效能。
-
----
-
-### 2026-08-07 11:07:49  #其他
-
-本田中國7月汽車銷量25052輛，同比下降44.1%。
-
----
-
-### 2026-08-07 11:06:58  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量523億元。
-
----
-
-### 2026-08-07 11:05:19  #公司
-
-【張朝陽：人更需要出來交流，AI讓內容產生了塑膠感】搜狐創始人、董事局主席兼執行長張朝陽在接受採訪時表示，真人互動與真實內容是AI永遠替代不了的。資訊獲取和真人的溝通是兩回事，AI目前取代不了人類交流。在資訊海洋裡，人更需要出來交流。AI時代，真實互動的環境更加難能可貴。聊到內容從業者的AI焦慮，他用一個比喻做了回應：“現在AI產生的東西，讓媒體和內容產生了塑膠的感覺。就像化肥催出來的西紅柿，看著光鮮，吃著一點味道都沒有；帶點泥的胡蘿蔔，看著不是那麼好看，但是很好吃、有味道。”（介面新聞）
-
----
-
-### 2026-08-07 11:05:18  #MKT News
-
-【Reported detention of ex-ultimate controller Ai Luming; SanTe Cableway says unaware, operations normal】SanTe Cableway said it is unaware of reports that former ultimate controller Ai Luming has been criminally detained, that Ai has no control or controlled relationship with the company, and that operations are normal. The company said all non-operating fund occupancies, together with corresponding interest, were repaid in cash in April 2022. SanTe Cableway returned to state ownership in 2023 and has reported three consecutive years of net profit growth. Media reports on Aug. 5 cited a lawyer saying Ai was detained on suspicion of illegally absorbing public deposits; the lawyer’s post has been deleted.
-
----
-
-### 2026-08-07 11:04:07  #公司
-
-【北汽集團成立元啟物理智慧科技公司】企查查APP顯示，近日，北京元啟物理智慧科技有限公司成立，法定代表人為張焱，註冊資本為8億元，經營範圍包含新能源汽車整車銷售；汽車零部件研發；智慧車載裝置製造；智慧機器人的研發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由北京汽車集團有限公司全資持股。
-
----
-
-### 2026-08-07 11:03:38  #公司
-
-【原實控人艾路明被刑事拘留？三特索道：無從知曉 經營一切正常】就“艾路明被刑事拘留”情況是否屬實及進展，三特索道對記者回應稱，公司無從知曉該事項情況，艾路明與公司不存在控制與被控制關係。目前公司經營一切正常。此前有報道稱，“律師稱湖北前首富艾路明被刑拘，涉嫌非法吸收公眾存款”。目前，該律師相關發文已刪除。 (貝殼財經)
-
----
-
-### 2026-08-07 11:02:52  #公司
-
-【揚子江船業上半年淨利潤54億元 創歷史新高】據揚子江船業7日訊息，揚子江船業近日釋出2026年上半年度財務報告，公司營業收入及盈利能力均創歷史新高。得益於集團造船核心業務的強勁增長，報告期內實現營業收入175億元，同比增長36.2%，其中核心造船業務佔總營收比重約94%；毛利潤達63億元，同比增長42.8%；實現淨利潤54億元，同比增長28.4%。
-
----
-
-### 2026-08-07 11:02:37  #其他
-
-【哨點醫院新冠陽性率衝到22.3%仍排第一，但升勢在趨緩了】中國疾病預防控制中心最新發布的全國急性呼吸道傳染病哨點監測情況顯示：2026年第31周，全國哨點醫院門急診流感樣病例呼吸道樣本檢測陽性率前三位病原體中，新冠依舊排在第一位，陽性率達到22.3%，較前一週環比增加1.9個百分點。緊接著是流感病毒和腸道病毒，陽性率分別為13.3%、4.1%，較前一週分別環比下降0.9個百分點、1.8個百分點。住院嚴重急性呼吸道感染病例呼吸道樣本檢測陽性率前三位病原體中，新冠同樣繼續排在第一位，陽性率為8.2%，較前一週環比下降1.3個百分點；流感排在第二位，陽性率為5.8%，環比減少0.4個百分點；人偏肺病毒排在第三位，陽性率為5.5%，環比增加1.3個百分點。（第一財經）
-
----
-
-### 2026-08-07 11:01:30  #央行 #國際
-
-【日本二季度3次干預外匯市場未改日元貶值趨勢】日本財務省7日公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。資料顯示，日本政府和央行於4月30日、5月4日和5月6日實施買入日元、賣出美元操作，累計干預規模達11.73萬億日元。其中，4月30日單日干預規模達6.28萬億日元，超過2024年4月29日創下的5.92萬億日元紀錄，創日本有統計以來單日匯率干預規模新高。在上述干預措施實施前，日元對美元匯率一度跌至1美元兌換160日元區間。干預後日元匯率一度回升，但漲勢未能持續。7月下旬，日元匯率一度逼近1美元兌換164日元。分析人士普遍認為，如果不改變基本面，單靠匯率干預難以扭轉日元頹勢。
-
----
-
-### 2026-08-07 11:00:46  #MKT News
-
-Indonesia's foreign exchange reserves fell to $100 mln at end-July.
-
----
-
-### 2026-08-07 11:00:31  #其他
-
-零跑汽車：零跑A10第10萬臺量產車正式下線。
-
----
-
-### 2026-08-07 10:59:52  #國際
-
-印尼7月底外匯儲備降至1453億美元。
-
----
-
-### 2026-08-07 10:57:18  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Climbs as Oil Prices Rebound — Japan’s 10-year government bond yield rose to around 2.78% on Friday, snapping a two-session decline as rebounding oil prices, driven by renewed tensions in the Strait of Hormuz, reignited concerns about inflation and the interest rate outlook. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and underscoring continued weakness in consumer demand. On the monetary policy front, investors are looking toward a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week. Minutes from the July policy meeting showed that several board members expect consumer inflation to accelerate significantly in the second half of the current fiscal year as companies continue implementing broad-based price increases across a wide range of goods.
-
----
-
-### 2026-08-07 10:56:01  #公司
-
-【維宏股份：已推出用於玻璃基板加工的切裂一體化產品】維宏股份(300508)8月7日在互動平臺表示，伴隨中國製造業轉型升級，公司自2024年開始調整戰略，聚焦高階金屬切削核心賽道，集中資源攻堅五軸、車銑複合等主流裝備控制系統，突破高階技術壁壘，今年四季度有幾款重磅產品面市。在鐳射切割市場，除現有光纖鐳射市場外，公司佈局超快鐳射加工，目前已經推出了一款用於玻璃基板加工的切裂一體化產品。
-
----
-
-### 2026-08-07 10:53:59  #其他
-
-海關總署公佈的資料顯示，中國7月積體電路出口金額達387.4億美元；1-7月累計出口金額達2160億美元，同比增長99.5%。
-
----
-
-### 2026-08-07 10:53:53
-
-【海關總署：1至7月積體電路累計出口同比增長99.5％】海關總署公佈的資料顯示，中國7月積體電路出口金額達387.4億美元，1至7月累計出口金額達2160億美元，同比增長99.5％。
-
----
-
-### 2026-08-07 10:53:31  #MKT News #Important #Market Themes #Chip Wars #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-【China Customs: Jan–Jul cumulative integrated circuit exports up 99.5% YoY】China Customs data show July integrated circuit exports totaled $38.74 billion; Jan–Jul cumulative exports reached $216.0 billion, up 99.5% YoY.
-
----
-
-### 2026-08-07 10:53:09  #國際
-
-【菲律賓地震首都馬尼拉有震感】據菲律賓火山地震研究所訊息，今天（8月7日）上午10點38分左右，菲律賓西民都洛省附近發生5.8級地震，震源深度10公里。目擊者稱，首都馬尼拉有震感。（CCTV國際時訊）
-
----
-
-### 2026-08-07 10:52:07  #公司
-
-【天鐵科技等成立智算科技新公司 含AI相關業務】企查查APP顯示，近日，杭州天鐵智算科技有限公司成立，經營範圍包含人工智慧硬體銷售；基於雲平臺的業務外包服務；人工智慧基礎資源與技術平臺；積體電路晶片設計及服務；積體電路銷售等。企查查股權穿透顯示，該公司由天鐵科技(300587)等共同持股。
-
----
-
-### 2026-08-07 10:51:43  #其他
-
-【江蘇：上半年省重大專案投資完成率58.8%】從江蘇省發展改革委獲悉，截至6月底，550個省重大專案完成投資3909億元，同比增加302億元，投資完成率58.8%，較去年同期高出3.5個百分點；269個計劃新開工專案已開工222個，開工率82.5%，順利完成“上半年開工率75%、投資過半”的階段性目標。產業、民生環保、基礎設施專案投資完成率分別達64%、57.7%、54.3%，均實現進度“過半”。
-
----
-
-### 2026-08-07 10:51:43  #Trading Economics #Economy #China #Balance of Trade #Importance 2
-
-China Trade Surplus Exceeds Forecasts — China’s trade surplus widened to USD 112.5 billion in July 2026, up from USD 97.70 billion a year earlier and exceeding forecasts of USD 107 billion, as exports grew more than expected, fueled by soaring chip prices and global demand for AI data center hardware. Exports jumped 23.9% from a year earlier to $397.85 billion, while imports surged 27.7% to $285.35 billion. China’s trade surplus with the US slightly declined to $28.03 billion in July from $28.9 billion in June. In the first seven months of 2026, China’s trade surplus reached USD 687.37 billion, up from USD 683.5 billion a year earlier, with exports and imports rising 18.5% and 26.7%, respectively.
-
----
-
-### 2026-08-07 10:51:42  #MKT News
-
-The Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported a magnitude-5.8 earthquake hit near Occidental Mindoro at about 10:38 a.m. local time on Aug. 7, with a focal depth of 10 km.
 
 ---

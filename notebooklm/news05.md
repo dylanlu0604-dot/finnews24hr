@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-12 00:31:46_
-_本檔包含 3458 則快訊，約 597109 字_
+_更新時間：2026-08-12 01:34:44_
+_本檔包含 3423 則快訊，約 596400 字_
+
+---
+
+### 2026-08-06 04:51:43  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Allstate earnings above expectations at 8.99 USD — Allstate (ALL) released earnings per share at 8.99 USD, compared to market expectations of 5.14 USD.
+
+---
+
+### 2026-08-06 04:51:19  #其他
+
+可口可樂合併報表口徑，仍預計全年資本支出約 3 億美元。
+
+---
+
+### 2026-08-06 04:49:13  #公司 #市場
+
+【8月6日美股成交額前20：馬斯克稱SpaceX未來AI基建只用英偉達晶片】週三美股成交額第1名英偉達收高3.43%，成交342.56億美元。截止週三收盤，英偉達股價已經連續五個交易日上漲，股價創兩個月來新高。在前期板塊短暫回撥後，這家算力龍頭再度強勢反攻，給全球AI硬體產業鏈帶來明顯情緒提振。埃隆-馬斯克週三表示，SpaceX未來在建設人工智慧計算基礎設施時將只使用英偉達處理器。在SpaceX財報電話會議上，他表示英偉達擁有“最好的人工智慧計算機”，並補充道“我們只選用英偉達”。
+
+---
+
+### 2026-08-06 04:45:46  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Occidental Petroleum earnings above expectations at 2.40 USD — Occidental Petroleum (OXY) released earnings per share at 2.40 USD, compared to market expectations of 1.84 USD.
+
+---
+
+### 2026-08-06 04:45:30  #MKT News
+
+Sequoia Capital has closed a new $10 billion fundraising round.
+
+---
+
+### 2026-08-06 04:44:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Edges Lower Ahead of Rate Decision — The Ibovespa edged down 0.1% to close at 177,726 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Markets expect Copom to cut the Selic rate by 25 basis points to 14.0%, with attention focused on the accompanying statement for clues on whether another cut could follow in September. Financial stocks were mostly lower, with Bradesco down 0.8% and BB Seguridade losing 0.9%. In contrast, Itaú gained 0.7% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Gerdau rebounded 1.7% after posting stronger-than-expected 2Q26 results, while RD Saúde led gains, rising 5.9% following its earnings release. Petrobras fell 1.3% as oil prices declined. Bradesco, Axia (0%), Auren (-1.1%), Brava (+2.6%), and Engie (-1%) are set to report earnings after the close.
+
+---
+
+### 2026-08-06 04:39:43  #市場 #央行 #國際
+
+【美聯儲理事庫克警告通脹固化風險 稱必要時將支援加息】美聯儲理事麗莎·庫克重申，如果通脹不能放緩，她準備好支援加息，並警告稱，決策者可能沒有足夠時間等待通脹回落至2%的目標。儘管庫克支援美聯儲7月會議維持利率不變的決定，但她提醒稱，通脹持續高於美聯儲目標的時間越長，未來遏制通脹的難度就越大。“如果我不能很快看到通脹持續回落的跡象，我準備好採取行動，”庫克週三在阿拉斯加一場活動發表講話時表示。“通脹連續五年高於目標水平，意味著高通脹固化到企業定價和工資設定行為中的風險上升，從而導致頑固通脹，屆時我們將更難加以遏制。”庫克表示，關稅影響減弱、油價可能下跌以及人工智慧熱潮相關的壓力有所緩和，這些因素都可能有助於降低通脹，從而消除收緊政策的必要性。儘管如此，庫克強調，她的首要任務仍是推動通脹回到美聯儲的目標水平。“如果大家從今天的講話中只記住一點，我希望那就是，我堅定致力於恢復價格穩定，”庫克表示。“首先也是最重要的是讓通脹回到目標水平，這對於實現國會賦予美聯儲的雙重使命至關重要。”
+
+---
+
+### 2026-08-06 04:37:46  #市場 #國際
+
+美國芝加哥期權交易所（CBOE）7月期貨日均成交量（DTV）增長16.1%。7月指數期權日均成交量增長34%。7月跨交易所期權日均成交量增長28.4%。
+
+---
+
+### 2026-08-06 04:36:32  #其他
+
+紅杉資本完成100億美元新一輪融資。今年已經向（除了SpaceX之外的）投資者回報50億美元。
+
+---
+
+### 2026-08-06 04:36:08  #其他
+
+法拉第未來：將為現有可轉換債券設定 5 美元的最低轉換底價，並計劃在四個季度內，將截至一季度末 2.3 億美元的負債降至 1 億美元以下。
+
+---
+
+### 2026-08-06 04:35:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Closes 0.63% Higher — The Dow Jones Index rose 342 points or 0.63 percent on Wednesday to close at 54428 points. Leading the gains are Amgen (5.16%), Nvidia (3.84%) and Walt Disney (3.83%). Top losers were Alphabet (-4.58%), Chevron (-2.05%) and Amazon (-1.66%).
+
+---
+
+### 2026-08-06 04:35:02  #國際
+
+CF 工業控股：受伊朗衝突影響，中東、非洲地區貿易流通的氮素供應減少約 400‑450 萬噸尿素以及約 100 萬噸氨。
+
+---
+
+### 2026-08-06 04:33:38  #MKT News #FFIE.O #Impact bullish
+
+Faraday Future (FFIE.O) plans to cut liabilities of $230m as of end‑Q1 to below $100m within four quarters.
+
+---
+
+### 2026-08-06 04:32:12  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Hits Second Straight Record — The S&P/TSX Composite Index rose 1% to close at a record 36,146 on Wednesday, marking its second consecutive record close. Shopify led gains, soaring 16.5% for its biggest one-day advance in a year after issuing an upbeat revenue outlook that signaled its AI initiatives were attracting more merchants to its e-commerce platform. Mining stocks also rallied as gold prices surged on hopes of a US-Iran peace deal, easing inflation concerns. Agnico Eagle jumped 9.6%, Barrick gained 7.2%, WPM rose 7.2%, Kinross advanced 8.6%, and Eldorado Gold climbed 12.8%, while other miners gained between 1.2% and 10%. Meanwhile, Thomson Reuters fell 10.2% despite beating second-quarter profit and revenue estimates and raising its annual revenue growth forecast. Manulife Financial (-0.9%) and Nutrien (-0.3%) edged lower ahead of their earnings.
+
+---
+
+### 2026-08-06 04:32:02  #公司 #觀點
+
+摩根大通CEO戴蒙：AI TOKEN 相關支出 “將得到管控”。
+
+---
+
+### 2026-08-06 04:29:49  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Realty Income earnings below expectations at 0.37 USD — Realty Income (O) released earnings per share at 0.37 USD, compared to market expectations of 0.41 USD.
+
+---
+
+### 2026-08-06 04:29:05  #MKT News #Brent #Impact bullish #WTI
+
+【Iran says near deal with Oman to close two Strait of Hormuz lanes】IRNA reported Iran deputy foreign minister Gharibabadi said Tehran and Muscat are close to finalizing an agreement that would close the Strait of Hormuz’s two existing commercial transit lanes — the northern lane under Iranian control and the southern lane adjacent to Omani waters. Under the proposed passage regime, parts of commercial vessels’ entry to and exit from the strait would transit Iranian territorial waters. The arrangement is described as temporary and expected to be usable for about 2–4 months. Gharibabadi denied reports of direct US‑Iran negotiations but said Iran received US messages and that Washington indicated readiness to resume commitments under a previously signed memorandum of understanding.
+
+---
+
+### 2026-08-06 04:28:45  #公司 #觀點
+
+摩根大通CEO戴蒙：市場槓桿越高，發生市場動盪的機率就越大。
+
+---
+
+### 2026-08-06 04:28:31  #公司 #觀點
+
+摩根大通CEO戴蒙：市場槓桿水平相當高。
+
+---
+
+### 2026-08-06 04:27:56  #MKT News #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+【Dollar index down 0.18% on 5th】The dollar index, which measures the dollar against six major currencies, fell 0.18% to 99.676 at the New York close on the 5th. EUR/USD 1.1553, up from 1.1533; GBP/USD 1.3469, up from 1.3452. USD/JPY 157.67, up from 157.66. USD/CHF 0.8069, down from 0.8092. USD/CAD 1.4008, down from 1.4066. USD/SEK 9.4832, down from 9.5192.
+
+---
+
+### 2026-08-06 04:27:19  #其他
+
+【Applovin2026年Q2營收19.24億美元 同比增長53%】Applovin2026年Q2營收19.24億美元，同比增長53%；稀釋後EPS3.76美元。
+
+---
+
+### 2026-08-06 04:25:46  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+DoorDash earnings in line with market expectations at 0.46 USD — DoorDash (DASH) released earnings per share at 0.46 USD, in line with market expectations.
+
+---
+
+### 2026-08-06 04:23:48  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+MetLife earnings above expectations at 2.43 USD — MetLife (MET) released earnings per share at 2.43 USD, compared to market expectations of 2.36 USD.
+
+---
+
+### 2026-08-06 04:21:14  #市場 #焦點
+
+比特幣升破65000美元，日內漲1.41%。
+
+---
+
+### 2026-08-06 04:16:14  #MKT News
+
+【Fed governor Cook prepared to support rate hike if inf does not ease】Fed governor Cook said she is prepared to support further rate hikes if inf does not ease, warning policymakers may not have room to wait for inf to return to the Fed's 2% target. She supported the Fed's decision to keep rates unchanged at the July meeting but said the longer inf remains above target the harder it will be to rein in, and she would act if she does not soon see sustained declines. Cook warned five consecutive years of above-target inf raises the risk it becomes entrenched in price- and wage-setting. She added that fading tariff effects, potential oil-price declines and easing AI-related cost pressures could provide a buffer that might reduce the need for additional tightening, but her top priority remains returning inf to the Fed's target.
+
+---
+
+### 2026-08-06 04:14:15  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+McKesson earnings above expectations at 9.93 USD — McKesson (MCK) released earnings per share at 9.93 USD, compared to market expectations of 9.65 USD.
+
+---
+
+### 2026-08-06 04:12:39  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+Wall Street Closes Near Record Highs — US stocks closed near record levels on Wednesday as an improving macroeconomic backdrop and strong corporate earnings supported sentiment. The S&P 500 inched down 0.2%, closing near yesterday's record. while the Dow added 263 points to reach a record 54,349. Crude oil prices extended their decline after Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, while US officials signaled progress in talks aimed at restoring trade flows through the region, easing concerns over energy-driven inflation. Credit sensitive sectors, including major banks, outperformed. Arista Networks rose 3.6% after reporting stronger-than-expected revenue. Eli Lilly gained 4.9% after beating revenue estimates and raising its full-year guidance. In contrast, the Nasdaq slipped 0.8%. SpaceX slumped 13.6%, giving back the previous session's gains, while AMD dropped 7% despite doubling data center revenue.
 
 ---
 
@@ -20475,377 +20637,5 @@ Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the 
 ### 2026-08-05 01:34:45  #其他
 
 調查結果顯示，石油輸出國組織（OPEC，歐佩克）7月石油產量增加116萬桶/日，至產出1944萬桶/日，科威特、沙特、伊拉克增產明顯。
-
----
-
-### 2026-08-05 01:34:06  #國際
-
-白宮：CLAYTON宣誓就任美國國家情報總監。
-
----
-
-### 2026-08-05 01:29:17  #MKT News #WTI #Impact bearish #Brent
-
-【Iran says "positive progress" in talks with Oman on Strait of Hormuz】IRNA reported on the 4th that Iranian foreign ministry spokesman Baghaei said Iran is negotiating with Oman on the Strait of Hormuz and has made "positive progress" at technical and political levels. Talks are focused on defining safe navigation routes; Iran and Oman are jointly developing the "necessary mechanisms" to manage shipping through the strait, with final outcomes to be announced after negotiations conclude.
-
----
-
-### 2026-08-05 01:28:51  #國際
-
-【伊朗：與阿曼就霍爾木茲海峽談判取得“積極進展” 】伊朗外交部發言人巴加埃4日說，伊朗仍在與阿曼就霍爾木茲海峽進行談判，談判在技術和政治層面取得“積極進展”。據伊朗伊斯蘭共和國通訊社報道，巴加埃說，此次談判重點是確定船舶可安全行駛的航道。伊朗正與阿曼合作制定管理該海峽航運的“必要機制”，雙方談判全部結束後將向外界公佈最終結果。（新華社）
-
----
-
-### 2026-08-05 01:27:32  #MKT News #Macro & Rates #US Economy
-
-Fitch Ratings says new U.S. student-visa rules will put pressure on some universities.
-
----
-
-### 2026-08-05 01:22:45  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver traded above $60/oz for the first time since July 27, rising 3.14% on the day.
-
----
-
-### 2026-08-05 01:21:33  #市場 #焦點
-
-現貨白銀突破60美元/盎司，日內漲3.16%。
-
----
-
-### 2026-08-05 01:21:14  #MKT News #WTI #Impact bullish #Brent
-
-American Petroleum Institute (API) CEO said roughly 7 mln barrels per day of oil transit the Strait of Hormuz.
-
----
-
-### 2026-08-05 01:20:07  #公司 #國際
-
-美國石油協會（API）執行長：霍爾木茲海峽每日石油運量約 700 萬桶。
-
----
-
-### 2026-08-05 01:17:16  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $2.551 billion from three counterparties in its fixed-rate reverse repurchase operations.
-
----
-
-### 2026-08-05 01:16:52  #MKT News
-
-【Chanel H1 sales rise double digits; comparable revenue +16%, US >25%】Foreign media citing a person familiar with results said Chanel’s H1 sales rose by double digits, with comparable revenue up about 16%. The company’s largest business, its fashion division, saw similar growth. US sales led regional gains, rising more than 25%. The source said the momentum continued into July but stronger year-ago comparisons could leave full-year growth below the H1 pace. Chanel reports annually; its May disclosure showed 2025 sales up 1.8% to $19.3bn. The person said Chanel outpaced luxury peers including LVMH.
-
----
-
-### 2026-08-05 01:16:23  #央行 #國際
-
-週二（8月4日），美聯儲隔夜逆回購協議（RRP）使用規模為22.51億美元（交易對手3家），上個交易日報21.27億美元。
-
----
-
-### 2026-08-05 01:15:50  #MKT News
-
-CENTCOM said as of Aug. 4 US forces had diverted 45 merchant vessels, rendered two merchant vessels inoperable, and boarded and inspected two merchant vessels to ensure compliance with applicable rules.
-
----
-
-### 2026-08-05 01:13:55  #國際
-
-美國中央司令部： 截至 8 月 4 日，美軍已勒令 45 艘商船改變航向，使 2 艘船隻失去行動能力，並登船檢查 2 艘，以確保相關船隻遵守管控要求。
-
----
-
-### 2026-08-05 01:11:30  #公司 #國際
-
-【蘋果啟動9月釋出會籌備 零售員工開放抽籤參與現場工作】據知名科技記者Mark Gurman報道，隨著蘋果(AAPL.O)今年規模最大的產品釋出活動臨近，公司正面向希望參與線下釋出會工作的美國零售員工開放抽籤報名。內部備忘錄顯示，該抽籤允許零售員工申請參與活動現場工作，員工將協助組織排隊、登記訪客、迎接參會者、提供指引，並支援安保團隊工作。公司告知員工，此次釋出活動將在9月上半月舉行，但未提供更具體日期。歷史上蘋果的iPhone釋出會通常安排在當月第二個星期二或星期三舉行。由於美國勞動節假期落在9月7日星期一，因此星期三舉行釋出會的可能性略高。今年9月的釋出會將是執行長John Ternus領導下的首次重大產品釋出活動。Ternus將於9月1日起接替蒂姆·庫克出任蘋果執行長。
-
----
-
-### 2026-08-05 01:11:27  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
-
-【Apple opens lottery for US retail staff to work September product event】Apple (AAPL.O) has opened a lottery for US retail employees to work on its September product event, journalist Mark Gurman reports. An internal memo says selected staff will assist with queue management, guest registration, ushering and support for security. Apple told employees the event will occur in the first half of September but gave no firm date. Historically iPhone launches fall on the second Tuesday or Wednesday of the month; with US Labor Day on Sept. 7 (Monday) a Wednesday event is marginally more likely. The September launch will be the first major product event under CEO John Ternus, who succeeds Tim Cook on Sept. 1.
-
----
-
-### 2026-08-05 01:05:01  #市場 #焦點
-
-紐約期金突破4160美元/盎司，日內漲1.71%。
-
----
-
-### 2026-08-05 01:04:43  #市場 #焦點
-
-現貨黃金突破4100美元/盎司，日內漲1.14%。
-
----
-
-### 2026-08-05 01:04:41  #MKT News #Important #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-Nasdaq-100 extended gains to 3%, hitting a session high.
-
----
-
-### 2026-08-05 01:04:16  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold touched $4,100/oz, up 1.11% intraday.
-
----
-
-### 2026-08-05 01:03:13  #MKT News #Copper
-
-Codelco said it detected a newly emerging seismic phenomenon distinct from previously known risks.
-
----
-
-### 2026-08-05 01:01:32  #市場
-
-納斯達克100指數漲幅擴大至3%，創下盤中新高。
-
----
-
-### 2026-08-05 01:01:28  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Codelco said it has taken precautionary safety measures and temporarily suspended the Andes Norte project.
-
----
-
-### 2026-08-05 01:01:05  #MKT News
-
-The U.S. State Department said a new round of U.S.-facilitated talks between Israel and Lebanon began in Rome today and will run through Aug. 6.
-
----
-
-### 2026-08-05 01:00:57  #市場
-
-現貨黃金日內漲1%，現報4096.27美元/盎司。
-
----
-
-### 2026-08-05 01:00:52  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold rose 1.00% intraday to $4,096.28/oz.
-
----
-
-### 2026-08-05 01:00:50  #宏觀 #國際
-
-美國國務院：由美國斡旋的以黎最新一輪談判今日在羅馬啟動，將持續至 8 月 6 日。
-
----
-
-### 2026-08-05 01:00:48  #MKT News #PG.N #Impact mixed
-
-Thorne and Procter & Gamble (PG.N) reached a definitive acquisition agreement.
-
----
-
-### 2026-08-05 01:00:36  #國際
-
-美國方面：以色列與黎巴嫩談判於今日啟動，將持續至 8 月 6 日。
-
----
-
-### 2026-08-05 01:00:14  #MKT News #IDEX.PA #Impact bullish
-
-JP Morgan's purchase of an Antin unit is expected to set Idex's enterprise value, including debt, at about €3.8bln; the deal may be announced in the coming days.
-
----
-
-### 2026-08-05 01:00:02  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.76%，滬銅收漲0.68%，滬鋁收漲0.08%，滬鋅收漲0.84%，滬鉛收漲1.79%，滬鎳收跌0.75%，滬錫收漲0.63%。氧化鋁夜盤收漲0.19%，鋁合金收漲0.09%。不鏽鋼夜盤收跌1.25%。
-
----
-
-### 2026-08-05 00:59:34  #MKT News #NVO.N #Impact bullish
-
-【Novo Nordisk raises guidance for second time this year】Novo Nordisk (NVO.N) raised its full-year guidance for the second time this year, citing higher sales expectations for its obesity and diabetes medicines. Adjusted operating profit for Q2 2026 was DKK 33.389bn. The company now expects maximum declines in sales and profit of 6% this year at constant currency, narrowed from a prior worst-case of a 12% decline. Novo Nordisk said it is competing with Eli Lilly (LLY.N) in the obesity market, which it expects could reach about $120bn a year by 2030.
-
----
-
-### 2026-08-05 00:58:08  #MKT News #Market Regions #Europe & UK #JPM.N
-
-Market sources say JP Morgan (JPM.N) is close to agreeing a deal to acquire Antin's French district-cooling network supplier.
-
----
-
-### 2026-08-05 00:56:58  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-Chilean media report state miner Codelco has temporarily suspended the El Teniente expansion project citing seismic risk.
-
----
-
-### 2026-08-05 00:56:05  #公司
-
-市場訊息：智利國家銅業公司（Codelco）因地震地質風險，臨時暫停埃爾特尼恩特（El Teniente）銅礦擴建專案。
-
----
-
-### 2026-08-05 00:53:24  #市場
-
-據悉，香奈兒上半年銷售額受新品系列推動上漲 16%。
-
----
-
-### 2026-08-05 00:52:30  #MKT News #Market Regions #Europe & UK #NVO.DE #Impact bearish
-
-Novo Nordisk shares listed in Frankfurt fell 6.6% after the company released second-quarter results.
-
----
-
-### 2026-08-05 00:52:20  #其他
-
-LME期銅收漲196美元，報14066美元/噸。LME期鋁收漲2美元，報3223美元/噸。LME期鋅收漲32美元，報3674美元/噸。LME期鉛收漲29美元，報1896美元/噸。LME期鎳收漲133美元，報17193美元/噸。LME期錫收漲543美元，報55989美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-08-05 00:50:24  #MKT News
-
-Anthropic said it has appointed Mariano-Florentino Cuéllar as its first head of global affairs.
-
----
-
-### 2026-08-05 00:49:50  #MKT News
-
-India's shipping minister said all 14 crew members, including 13 Indian nationals, were safely rescued by the Yemeni coast guard and taken to Mocha port.
-
----
-
-### 2026-08-05 00:49:33  #國際
-
-印度航運部長：全部 14 名海員（含 13 名印度籍）已由葉門海岸警衛隊安全營救，並轉移至穆哈港。
-
----
-
-### 2026-08-05 00:49:25  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-India's shipping minister said the Indian-flagged vessel MSV Faize Noore Oliya was struck by a projectile near Yemeni waters, capsized and sank.
-
----
-
-### 2026-08-05 00:49:15  #國際
-
-印度航運部長：印度商船 “ Faize Noore Oliya” 號在葉門水域附近被擊中，船舶傾覆沉沒。
-
----
-
-### 2026-08-05 00:48:22  #觀點
-
-市場訊息：摩根大通資產管理即將收購 Antin 旗下的 IDEX。
-
----
-
-### 2026-08-05 00:47:23  #MKT News
-
-【Iran says talks with Oman on Strait of Hormuz progress 'positive'】Iran's foreign ministry said Iran and Oman are continuing negotiations to secure shipping through the Strait of Hormuz, focusing on delineating safe transit lanes. Foreign ministry spokesman Baghaei told Iranian state TV the talks have received "positive" assessments on both technical and political levels. Iran said it is working to establish the mechanisms needed to manage shipping in the strait.
-
----
-
-### 2026-08-05 00:45:15  #市場
-
-諾和諾德ADR下跌3.3%，抹去了早盤漲幅。
-
----
-
-### 2026-08-05 00:43:46  #市場
-
-現貨鉑金上漲超過7%，報1,745.93美元/盎司。
-
----
-
-### 2026-08-05 00:43:16  #其他
-
-Argus Media 估算： 法國玉米產量降至 690 萬噸，創 50 年新低。
-
----
-
-### 2026-08-05 00:42:47  #公司 #國際
-
-淡水河谷CEO：伊朗戰爭造成諸多專案的速度放緩。
-
----
-
-### 2026-08-05 00:42:43  #國際
-
-Argus Media 估算：受高溫熱浪及乾旱衝擊，歐盟 2026‑2027 作物年度玉米產量下滑約 20%，至 4800 萬噸。
-
----
-
-### 2026-08-05 00:41:55  #MKT News #Important #Commodities #Precious Metals
-
-Spot platinum rose more than 7% to $1,745.93/oz.
-
----
-
-### 2026-08-05 00:41:01  #MKT News #NVO.N #Impact bearish
-
-NOVO NORDISK (NVO.N): Q2 operating profit was negatively affected by reversal of US 340B rebate provisions.
-
----
-
-### 2026-08-05 00:38:10  #MKT News
-
-Argentina port workers' strike is affecting more than 45 vessels, the Argentine Chamber of Exports and Processors (CIARA-CEC) said.
-
----
-
-### 2026-08-05 00:36:26  #其他
-
-諾和諾德：上調業績預期，源於對 GLP‑1 類產品銷售預期提升。
-
----
-
-### 2026-08-05 00:36:22  #MKT News #NVO.CO #Impact bearish
-
-Novo Nordisk (NVO.N) said Q2 2026 adjusted sales were DKK 78.49 bln and adjusted operating profit DKK 33.39 bln. It took a one-time, non-cash impairment charge of DKK 6.3 bln in Q2 2026 related to intangible pipeline assets.
-
----
-
-### 2026-08-05 00:35:48  #公司 #市場
-
-諾和諾德釋出財報後，禮來股價上漲1.3%。
-
----
-
-### 2026-08-05 00:35:46  #MKT News #NVO.N #Impact bullish
-
-Novo Nordisk (NVO.N) raised its earnings guidance, citing higher expected sales of GLP‑1 products as the primary driver.
-
----
-
-### 2026-08-05 00:35:32  #MKT News #NVO.N #Impact bullish
-
-Novo Nordisk (NVO.N) raised its 2026 adjusted sales and adjusted operating profit guidance but still expects fiscal-year adjusted EBIT growth of -6% to 0%. Q2 2026 adjusted sales rose 7% at constant exchange rates (CER); adjusted operating profit rose 11% CER.
-
----
-
-### 2026-08-05 00:35:18  #其他
-
-諾和諾德：2026 年第二季度調整後銷售額 784.9 億丹麥克朗；調整後營業利潤 333.9 億丹麥克朗。
-
----
-
-### 2026-08-05 00:34:57  #其他
-
-諾和諾德預計本財年固定匯率口徑調整後銷售額同比‑6% 至 0%，市場預期為‑5.9%。
-
----
-
-### 2026-08-05 00:34:23  #其他
-
-諾和諾德：2026 年第二季度固定匯率下調整後銷售額增長 7%；固定匯率下調整後營業利潤增長 11%。
-
----
-
-### 2026-08-05 00:34:03  #其他
-
-諾和諾德上調 2026 年調整後銷售額及調整後營業利潤預期。
-
----
-
-### 2026-08-05 00:32:52  #央行 #國際
-
-【“新美聯儲通訊社”：貝森特政策反應函式轉向不再那麼鴿派】“新美聯儲通訊社”Nick Timiraos認為，美國財長貝森特的政策反應函式已轉向不再那麼鴿派。他今年的言論暗示，美聯儲應繼續維持利率不變。今年早些時候，貝森特曾援引模型稱，美聯儲利率水平較中性利率高出幅度可能從超過25個基點到超過100個基點不等。今天（8月4日）他提出了兩個觀點。 他首先為沃什上週決定不闡述任何政策反應函式進行了辯護：“我認為每次會議都應該是開放的，市場參與者應該自行判斷……我認為沃什希望保留選擇空間，以實現最佳結果。”其次，他確實提出了一套可以被視為鴿派的政策反應函式，並主張應忽略近期衝擊：“短期利率上升究竟會帶來什麼影響？我們將拭目以待。”他提出了這一問題，但隨後透過指出基礎通脹“非常溫和……非常平穩”來作出回應。“核心通脹中，剔除受能源影響較大的波動項後，其餘部分一直非常平穩。我認為這種情況將會持續。”
 
 ---

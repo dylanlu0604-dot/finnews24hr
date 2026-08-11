@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-12 00:31:46_
-_本檔包含 3155 則快訊，約 598113 字_
+_更新時間：2026-08-12 01:34:44_
+_本檔包含 3180 則快訊，約 596827 字_
+
+---
+
+### 2026-08-12 01:34:05  #MKT News
+
+Venezuelan government said it has reached an agreement with Israel to establish a coordination mechanism to provide consular services.
+
+---
+
+### 2026-08-12 01:32:50  #MKT News
+
+Iran's Fars News, citing sources, reports two more explosions struck Saudi mercenaries' positions in Marib, Yemen.
+
+---
+
+### 2026-08-12 01:30:59  #宏觀
+
+哥倫比亞財政部長：哥倫比亞不會透過增稅來應對財政危機。
+
+---
+
+### 2026-08-12 01:27:58  #MKT News #GOOG.O
+
+Google (GOOG.O) to add video-on-demand service to Google TV Freeplay.
+
+---
+
+### 2026-08-12 01:27:36  #國際
+
+委內瑞拉政府表示已與以色列達成協議，將設立協調機制以提供領事服務。
+
+---
+
+### 2026-08-12 01:27:29  #公司
+
+谷歌：將影片點播引入谷歌電視免費播放平臺。
+
+---
+
+### 2026-08-12 01:25:53  #宏觀
+
+哥倫比亞財政部長：哥倫比亞尋求世界銀行4億美元貸款以應對緊急情況。
+
+---
+
+### 2026-08-12 01:24:59  #宏觀
+
+哥倫比亞財政部長：哥倫比亞或於今日宣佈進入經濟緊急狀態。
+
+---
+
+### 2026-08-12 01:22:51  #國際
+
+伊朗總統府：巴基斯坦內政部長表示，此行旨在跟進伊朗人員訪巴期間達成的共識。
+
+---
+
+### 2026-08-12 01:19:54  #MKT News
+
+State broadcaster IRIB reported the Iranian president met Pakistan's interior minister.
+
+---
+
+### 2026-08-12 01:18:39  #MKT News
+
+Tasnim News reported sounds of explosions in Marib, Yemen.
+
+---
+
+### 2026-08-12 01:18:33  #其他
+
+納斯達克100指數跌幅擴大至0.5%。
+
+---
+
+### 2026-08-12 01:16:30  #央行 #國際
+
+2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。
+
+---
+
+### 2026-08-12 01:16:15  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-12 01:15:40  #MKT News
+
+【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234.
+
+---
+
+### 2026-08-12 01:10:30  #MKT News
+
+Bahrain's Ministry of Defense said the Bahrain Defence Force chief of general staff met the UK deputy chief of the defence staff for strategy and operations and a visiting delegation to discuss bilateral defence cooperation and regional security.
+
+---
+
+### 2026-08-12 01:10:21  #其他
+
+【哥倫比亞強震已致234人死亡】根據哥倫比亞市政聯合會當地時間11日通報，該國8月10日發生的強震死亡人數已上升為234人。
+
+---
+
+### 2026-08-12 01:06:55  #公司 #市場 #國際
+
+【英偉達信用風險指標回落 CEO澄清5000億美元融資計劃】一項與英偉達相關的信用風險指標週二回落，此前該公司表示將限制自身在一項5000億美元融資計劃中的風險敞口。該計劃旨在為人工智慧投資提供融資，而這類投資正推動對英偉達晶片的需求。英偉達票息5.625%、2056年到期債券的收益率較可比美國國債高113個基點，利差收窄2個基點。與此同時，根據ICE Data Services的資料，5年期信用違約掉期報價一度收窄5個基點，至72.11個基點。
+
+---
+
+### 2026-08-12 01:05:15  #市場 #國際
+
+美國三年期國債收益率在三年期國債標售過後縮小跌幅；最新報4.289%，較前值下跌1.6個基點。
+
+---
+
+### 2026-08-12 01:05:14  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #S&P500
+
+US three-year Treasury yield trimmed losses after a three-year note auction, falling 1.6 bps to 4.289%.
+
+---
+
+### 2026-08-12 01:05:06  #公司 #市場 #央行 #國際
+
+【巴克萊：美債對價格敏感型買家的依賴顯著上升 料使收益率維持高位】巴克萊表示，美國國債買家結構正在轉向更注重價值的共同基金、家庭和其他私人投資者，這一變化幫助推動30年期美債收益率升至數十年來高位。策略師Demi Hu和Anshul Pradan在一份報告中寫道，只要通脹持續存在，這些買家就會要求越來越高的補償，才願意持有長期債券。兩位策略師表示：“美國國債的買家基礎已經發生變化。”自2022年美聯儲開始縮減持倉以來，外國央行和美聯儲等官方部門的需求持續減弱，使得“私人投資者成為吸收新增供應的邊際買家”。
+
+---
+
+### 2026-08-12 01:03:41  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+US 3-year Treasury auction on Aug. 11: share of awards at the stop-out yield 18.31% vs 2.17% previously.
+
+---
+
+### 2026-08-12 01:03:33  #MKT News #Economic Calendar
+
+United States | 3-Year Note Auction Accepted at High (Aug.11) | actual 18.31% | previous 2.17%
+
+---
+
+### 2026-08-12 01:03:24  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. 3-year Treasury auction on Aug. 11 — awarded yield 4.291%, up from 4.18% at the prior auction.
+
+---
+
+### 2026-08-12 01:03:17  #MKT News #Economic Calendar
+
+United States | 3-Year Note Auction High Yield Rate (Aug.11) | actual 4.291% | previous 4.18%
+
+---
+
+### 2026-08-12 01:02:58  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 3-year Treasury auction on Aug 11 posted a bid-cover ratio of 2.71, versus 2.6 previously.
+
+---
+
+### 2026-08-12 01:02:48  #MKT News #Economic Calendar
+
+United States | 3-Year Note Auction Bid/Cover Ratio (Aug.11) | actual 2.71 | previous 2.6
+
+---
+
+### 2026-08-12 01:02:44  #市場 #國際
+
+美國3年期國債中標收益率4.291%，發行前虛盤交易收益率為4.296%。
+
+---
+
+### 2026-08-12 01:02:23  #宏觀 #市場 #國際
+
+美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。
+
+---
+
+### 2026-08-12 01:02:05  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #Brent #DXY
+
+Romanian defence minister said Romanian forces destroyed two "Gerbera"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project.
+
+---
+
+### 2026-08-12 01:01:45  #其他
+
+Meta：Threads現已在Meta Quest上作為原生VR應用推出。
+
+---
+
+### 2026-08-12 01:01:20  #市場
+
+巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。
+
+---
+
+### 2026-08-12 01:00:55  #MKT News #WTI #Impact bullish #Brent
+
+Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks.
+
+---
+
+### 2026-08-12 01:00:15  #MKT News
+
+IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million.
+
+---
+
+### 2026-08-12 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。
+
+---
+
+### 2026-08-12 00:59:48  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels.
+
+---
+
+### 2026-08-12 00:58:47  #MKT News
+
+SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS.
+
+---
+
+### 2026-08-12 00:58:42  #焦點 #國際
+
+美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。
+
+---
+
+### 2026-08-12 00:58:35  #其他
+
+國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。
+
+---
+
+### 2026-08-12 00:56:31  #MKT News #Market Themes #AI Revolution
+
+SPACEXAI launched Grok bot.
+
+---
+
+### 2026-08-12 00:56:29  #其他
+
+SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。
+
+---
+
+### 2026-08-12 00:56:05  #MKT News #Market Themes #The Trump Trade
+
+CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week.
+
+---
+
+### 2026-08-12 00:55:47  #公司
+
+利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。
+
+---
+
+### 2026-08-12 00:55:05  #MKT News #Important #WTI #Impact bearish #Brent
+
+The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production.
+
+---
+
+### 2026-08-12 00:54:12  #焦點 #國際
+
+美國能源資訊署（EIA）目前認為，近期途經曼德海峽運輸沙特石油的船隻遭遇的威脅並未導致產油設施停產。
+
+---
+
+### 2026-08-12 00:54:04  #國際
+
+加拿大與美國貿易官員正在擬定潛在協議，計劃下週提交給特朗普。
+
+---
+
+### 2026-08-12 00:53:49  #其他
+
+羅馬尼亞國防部長稱，在黑海專屬經濟區內、靠近海王星深海海上天然氣專案的空域擊落兩架無人機。
+
+---
+
+### 2026-08-12 00:52:21  #國際
+
+美國能源資訊署預計，7月份中東原油停產規模平均為每日550萬桶。
+
+---
+
+### 2026-08-12 00:49:50  #其他
+
+英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。
+
+---
+
+### 2026-08-12 00:43:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d.
+
+---
+
+### 2026-08-12 00:41:20  #焦點 #國際
+
+美國能源資訊署（EIA）預計，2026年全球石油產量將為每日1.008億桶，此前預測為每日1.019億桶；2027年全球石油產量預計為每日1.097億桶，此前預測為每日1.098億桶。
+
+---
+
+### 2026-08-12 00:39:05  #其他
+
+哥倫比亞國家咖啡聯合會負責人：地震發生後哥倫比亞咖啡出口基本陷入停滯。
+
+---
+
+### 2026-08-12 00:37:42  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+Peru's Ministry of Energy and Mines said June copper production fell 4.7% YoY to 218,232 tonnes.
+
+---
+
+### 2026-08-12 00:37:37  #國際
+
+巴基斯坦內政部長賽義德·穆赫辛·納克維抵達德黑蘭，與伊朗官員舉行會談。
+
+---
+
+### 2026-08-12 00:36:00  #其他
+
+秘魯能源和礦業部：6月秘魯銅產量同比下降4.7%，至218,232噸。
+
+---
+
+### 2026-08-12 00:35:56  #其他
+
+OpenAI特別專案負責人布拉德·萊特卡普離職。
+
+---
+
+### 2026-08-12 00:34:49  #國際
+
+OpenAI：ChatGPT廣告現已登陸英國、墨西哥、巴西、日本、韓國。
+
+---
+
+### 2026-08-12 00:34:28  #其他
+
+OpenAI：今年將繼續向更多市場拓展業務。
+
+---
+
+### 2026-08-12 00:34:23  #國際
+
+美國能源資訊署（EIA）目前預計，2027年布倫特原油現貨均價將為每桶69.39美元，此前的預測值為每桶64.76美元。
+
+---
+
+### 2026-08-12 00:32:09  #MKT News #Market Themes #AI Revolution
+
+The Information reports OpenAI special projects head and former chief operating officer Brad Lightcap is set to depart the company.
+
+---
+
+### 2026-08-12 00:32:06  #國際
+
+美國能源資訊署(EIA)目前預計，2027年美國WTI原油現貨均價為每桶65.39美元，此前預測為每桶60.76美元。
 
 ---
 
@@ -18792,221 +19158,5 @@ U.S. stocks opened lower: the Dow fell 0.1%, the S&P 500 fell 0.06% and the Nasd
 ### 2026-08-10 21:30:12  #Trading Economics #Markets #United States #stocks #Importance 1
 
 Oracle Stock Price Hits 4-week High — Oracle shares increased to 148.92 USD, the highest since July 2026. Over the past 4 weeks, Oracle gained 12.37%, and in the last 12 months, it decreased 41.5%.
-
----
-
-### 2026-08-10 21:30:10  #其他
-
-【航行警告！南海海域軍事訓練】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月11日6時至15時，南海部分海域進行軍事訓練，禁止駛入。
-
----
-
-### 2026-08-10 21:29:46  #國際
-
-俄羅斯官方訊息稱，無人機襲擊俄羅斯下卡姆斯克造成的13名遇難者中，有9人死於一家旅館。
-
----
-
-### 2026-08-10 21:28:56  #其他
-
-布萊克博德透過Raiser's Edge NXT®與微軟365 AI助手實現整合，提升了籌款情報獲取的靈活性。
-
----
-
-### 2026-08-10 21:28:36  #國際
-
-【烏克蘭想自產“愛國者”，特朗普表態前後不一】美國是否會授權烏克蘭生產“愛國者”防空系統攔截彈，近期備受輿論關注。美國《大西洋》雜誌9日報道，美國兩家軍工企業將正式向美國政府說明它們在相關生產技術轉讓和智慧財產權風險方面的擔憂。這兩家軍工企業均生產“愛國者”攔截彈。美國國會訊息人士說，這兩家企業真正擔心的是，烏克蘭將對攔截彈作出改進，而後以更快速度更低造價大批次生產。這是美國當前生產線無法辦到的。現階段，烏克蘭要求獲得更多攔截彈，以滿足防空需求；美國被曝在伊朗戰事中大量消耗該型攔截彈，自顧不暇；美國的海灣和歐洲盟友基於自身需求，要麼看緊庫存、要麼也想“補貨”。烏克蘭總統澤連斯基7月28日訪美時表示，他與美國總統特朗普討論了烏克蘭生產“愛國者”攔截彈等議題。兩人同月8日在土耳其安卡拉北約峰會期間會晤，特朗普當時稱將授權烏克蘭生產。但特朗普日前改口稱，美方尚未同意授權烏克蘭生產該型攔截彈。相關討論在進行中，轉讓這類技術“必須非常謹慎”。（環球網）
-
----
-
-### 2026-08-10 21:28:15  #其他
-
-【官方通報“2人將生活垃圾倒進大海”】8月10日，汕頭市潮南區隴田鎮人民政府釋出情況通報：近日，網傳“兩名男子將生活垃圾倒進大海”相關影片，我鎮立即開展核查處置，現將有關情況通報如下：經核查，8月9日23時許，隴田鎮石坑村村民林某、方某兩人，酒後在海邊將生活垃圾傾倒入海。事件發生後，我鎮迅速組織人員對現場垃圾全面清理、徹底清運，目前已清運完畢。同時，執法部門對林某、方某兩人開展調查取證，依法給予行政處罰，並對其進行嚴肅批評教育。下一步，我鎮將持續壓實管護責任，加密巡查頻次，強化群眾普法教育，堅決杜絕亂傾倒生活垃圾等行為，切實維護環境整潔。
-
----
-
-### 2026-08-10 21:27:55  #公司
-
-【中文線上攜手火山引擎探索AI與IP內容融合路徑】8月10日，中文線上宣佈，公司與火山引擎近日達成深度業務合作。雙方將圍繞影片生成模型Seedance落地、IP內容開發、海內外內容供給以及雲服務等方向展開協同，探索生成式AI與優質IP結合的可行路徑。
-
----
-
-### 2026-08-10 21:27:41  #MKT News
-
-Saudi outlet Hadaath, citing sources, reported Iran's parliament speaker Ghalibaf has delayed a planned visit to Baghdad until next week.
-
----
-
-### 2026-08-10 21:26:56  #國際
-
-黎巴嫩訊息人士：以色列敵軍對黎巴嫩南部曼蘇里（Al-Mansouri）鎮發動了火炮襲擊。
-
----
-
-### 2026-08-10 21:25:44  #國際
-
-【印度東北部洪災遇難人數已達100人】據印度媒體10日報道，印度東北部阿薩姆邦災害管理局9日晚釋出通報說，該邦自7月中下旬開始的洪災已造成100人死亡。通報說，截至9日晚，該邦逾13.7萬人受災，456個村莊被淹，近1.2萬公頃農田受損。該邦災害管理局一名官員表示，多條河流的水位超過警戒線。自7月中下旬以來，受強降雨影響，印度北部和東北部地區接連遭遇洪澇、山體滑坡等災害。（新華社）
-
----
-
-### 2026-08-10 21:24:30  #MKT News
-
-Local officials said an earthquake in Colombia caused severe damage and casualties in Pereira.
-
----
-
-### 2026-08-10 21:24:19  #其他
-
-省長表示，哥倫比亞佩雷拉市地震造成嚴重破壞和傷亡。
-
----
-
-### 2026-08-10 21:22:49  #國際
-
-伊朗總統：我已與最高領袖會面，我們就各項議題進行了交流，他身體狀況完全健康。
-
----
-
-### 2026-08-10 21:22:18  #MKT News
-
-Iranian President Pezeshkian says Iran's Supreme Leader is in very good health.
-
----
-
-### 2026-08-10 21:21:44  #其他
-
-【匯天工廠第1000套電推進單元下線，創全球eVTOL行業800V電推進單元最大規模紀錄】8月10日，匯天飛行汽車量產工廠陸地航母飛行器第1000套電推進單元正式下線，這也創下了全球eVTOL行業800V電推進單元最大規模生產紀錄。據介紹，電推進單元是飛行器的“動力心臟”，包含電動發動機和螺旋槳，負責將電能轉化為飛行所需的升力與推力，其效能直接關係飛行器能否安全、穩定、高效地飛行。此次陸地航母飛行器第1000套電推進單元下線，也意味著該廠商已具備飛行器核心動力部件規模化、標準化生產能力。
-
----
-
-### 2026-08-10 21:21:04  #其他
-
-瑞銀將伯克希爾哈撒韋目標股價從877848美元上調至906011美元。
-
----
-
-### 2026-08-10 21:19:58  #國際
-
-【聯合國稱呼臺灣為中國臺灣省】8月10日，中國駐日本大使館發言人就臺灣地區所謂“駐日代表”宣告答記者問。 問：臺灣地區所謂“駐日代表”日前聲稱，“國格”與地位遭到刻意矮化，令人遺憾且失望，還說提出了"嚴正抗議”。請問發言人對此有何評論？ 答：臺灣不是一個國家，不存在“國格”一說。自不量力四處刷存在感，只會自取其辱。世界上只有一箇中國，臺灣是中國領土不可分割的一部分，中華人民共和國政府是代表全中國的唯一合法政府。這是國際社會的基本共識。補充一個小常識，聯合國對臺灣的稱謂是：“中國臺灣省”。（央視網）
-
----
-
-### 2026-08-10 21:19:13  #其他
-
-【國家防總增派工作組赴河北河南】8月10日，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、工業和資訊化部、住房城鄉建設部、交通運輸部等部門以及浙江、江蘇、安徽、河南、江西等重點省份聯合會商，研判颱風“白海豚”和近期強降雨發展趨勢，部署防範應對工作。國家防總、應急管理部維持針對浙江的防汛防颱風三級應急響應，以及針對上海、江蘇、安徽、江西的防汛防颱風四級應急響應，針對黑龍江、湖北、山東、河北、河南的防汛四級應急響應，向河北、河南增派2個工作組，前期派出的工作組繼續在浙江、福建、黑龍江一線協助指導防汛防颱風工作。
-
----
-
-### 2026-08-10 21:19:08  #MKT News
-
-【Shanghai lifts blue typhoon warning】Shanghai Meteorological Observatory lifted the city's blue typhoon warning at 21:00 on Aug 10. The 13th typhoon of the year, "White Dolphin", has moved away from the city.
-
----
-
-### 2026-08-10 21:19:04  #其他
-
-【上海解除颱風藍色預警訊號】上海市氣象臺08月10日21時解除上海市颱風藍色預警訊號：今年第13號颱風“白海豚”已遠離本市，本市颱風藍色預警訊號解除。
-
----
-
-### 2026-08-10 21:18:49  #其他
-
-【上海：到2026年底，健康副校（園）長制度覆蓋全市幼兒園、中小學校】據上海市衛健委、上海市中醫藥管理局官網8月10日訊息，近日，由上海市疾控局、市衛生健康委、市教委聯合制定的《上海市深化“健康副校（園）長”制度工作方案》（以下簡稱《工作方案》）釋出。《工作方案》提出，到2026年底，健康副校（園）長制度覆蓋全市幼兒園、中小學校（含中等職業學校）；並明確五項工作目標：一是進一步健全健康副校（園）長管理制度，基本形成職責清晰、運轉高效、保障有力的長效工作機制。二是進一步完善工作網路，做強市、區兩級多學科專家團隊並實現支援服務全覆蓋，積極培育數量充足、結構合理、素質優良的健康副校（園）長隊伍。三是進一步強化“家—校—社—醫”聯動機制，依託有效監測資訊予以綜合評價，協同實施全週期、整合式健康服務管理。四是進一步強化學生常見病防控，提升綜合防控能力，鞏固多病同防共管機制，助力實現兒童青少年“五健”促進行動目標。五是加強效果評估，推動學校突發公共衛生事件預防及應急處置能力進一步增強、學生主要健康監測指標持續改善、學校健康管理能力明顯提高。到2030年，健康學校建設覆蓋每所學校。（澎湃）
-
----
-
-### 2026-08-10 21:15:25  #國際
-
-【氫電協同還需過幾關 】中國經濟資訊社刊發的《中經社訊號|氫電協同還需過幾關》報道稱，近期，內蒙古烏蘭察布至京津冀地區氫氣輸送管道示範工程又有新進展。這條總長1100餘公里，年輸氫量近期10萬噸、遠期50萬噸的輸氫管道，其天津段已啟動路徑規劃、用地預審等前期招標工作。此外，國家電投3750噸“氫洲・綠氨”也於近期從連雲港啟航銷往韓國，創下單批次綠氨出口紀錄。這些氫能專案的進展釋放出鮮明訊號：風光氫電協同將成長為萬億元級長線賽道，在“十五五”氫能產業化關鍵視窗期到來之際，氫電協同的產業邏輯已達成共識。（新華社）
-
----
-
-### 2026-08-10 21:15:05  #其他
-
-【2026服貿會服務機器人將在重點區域“上崗”】北京市石景山區副區長鬍浩8月10日在2026年中國國際服務貿易交易會倒計時一個月新聞釋出會上介紹，本屆服貿會將發揮科技創新優勢，在首鋼園重點區域部署服務機器人，打造智慧化場景與沉浸式互動體驗。
-
----
-
-### 2026-08-10 21:14:57  #MKT News #Market Regions #Greater China #0511.HK
-
-【TVB to form JV to offer compute services】TVB said its board on Aug. 10 intends to form a joint venture with Jihui Capital to provide compute services. Ordinary voting shares in the JV are proposed to be held 51% by TVB and 49% by Jihui Capital. The project will be implemented in phases over the coming years. Funding will include up to HKD 2.0 bln of equity from Jihui Capital, project bank financing and the group's internal resources.
-
----
-
-### 2026-08-10 21:14:39  #國際
-
-【霍爾木茲海峽航運流量進一步減弱】儘管有跡象顯示伊朗和阿曼即將達成一項航行協議，但根據Kpler的資料，週末透過霍爾木茲海峽的交通狀況仍進一步惡化。 確認的過境次數從週五的15次下降到週六的11次，週日僅為6次。 這一中斷對能源市場仍然至關重要，因為全球大約五分之一的原油通常透過這條戰略要道。
-
----
-
-### 2026-08-10 21:13:50  #國際
-
-美國衛生與公眾服務部：小羅伯特·F·肯尼迪宣佈華盛頓州進入公共衛生緊急狀態，以協助應對野火的醫療救護工作。
-
----
-
-### 2026-08-10 21:13:40  #公司
-
-【TVB擬成立合營公司，提供算力服務】無線集團有限公司（又稱“無線集團”，TVB）董事局8月10日宣佈，擬與基匯資本成立合營公司以提供算力服務。合營公司的普通投票權股份建議由無線集團及基匯資本分別持有51%及49%。專案將於未來數年分階段實施，資金來源包括基匯資本向合營公司投入最高港幣20億元的股本投資、專案銀行融資及本集團內部資源。（第一財經）
-
----
-
-### 2026-08-10 21:12:15  #市場
-
-【在岸人民幣對美元匯率盤中創2023年2月6日以來新高】8月10日，在岸人民幣對美元匯率盤中創2023年2月6日以來新高。Wind資料顯示，截至16時30分，在岸人民幣對美元匯率收盤價報6.7442元，較前收盤價上漲59個基點，盤中最高報6.7432元。中國工商銀行（亞洲）研究報告表示，展望下半年，人民幣對美元匯率大機率延續波動、緩步走升態勢。主要影響因素在於，下半年我國出口預計延續韌性增長，國際資金增配人民幣資產，資金淨流入支援人民幣中樞走強。此外，需關注地緣風險及關稅政策對出口產品和地區結構、量價關係分化等影響。（中證金牛座）
-
----
-
-### 2026-08-10 21:12:10  #公司 #市場
-
-巴西航空工業公司股價在公佈第二季度業績後上漲7%。
-
----
-
-### 2026-08-10 21:11:56  #公司
-
-【新恆匯：擬用超募資金1.3億元投建蝕刻及封測擴產專案】新恆匯公告稱，公司計劃使用首次公開發行股票部分超募資金8781.65萬元及自有資金4218.35萬元，投資1.3億元建設蝕刻引線框架生產車間擴建及物聯網eSIM晶片封測擴產專案，專案建設期16個月。物聯網eSIM晶片封測擴產子專案達產年營業收入2200萬元，淨利潤568.76萬元。該事項已透過董事會和審計委員會審議，尚需股東會審議。
-
----
-
-### 2026-08-10 21:11:39  #公司
-
-【新恆匯：擬使用超募資金8781.65萬元建新專案，透過2026年限制性股票激勵計劃】新恆匯公告，公司第二屆董事會第二十次會議審議透過《關於使用超募資金投資建設新專案的議案》，擬使用首次公開發行股票超募資金合計8781.65萬元及自有資金4218.35萬元用於蝕刻引線框架生產車間擴建及物聯網eSIM晶片封測擴產專案；會議還審議透過《關於公司及其摘要的議案》《關於公司的議案》及《關於提請股東會授權董事會辦理2026年限制性股票激勵計劃相關事宜的議案》。上述議案均尚需提交股東會審議。
-
----
-
-### 2026-08-10 21:10:57  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Sources said Kazakhstan's oil and natural gas condensate output on Aug. 9 rose 40% versus July 31.
-
----
-
-### 2026-08-10 21:10:52  #公司
-
-訊息人士稱，8月9日田吉茲雪佛龍石油公司的石油產量較7月31日翻倍。
-
----
-
-### 2026-08-10 21:10:45  #市場
-
-訊息人士稱，8月9日哈薩克石油與凝析油產量較7月31日上漲40%。
-
----
-
-### 2026-08-10 21:10:30  #國際
-
-【特朗普說正在低調處理伊朗問題，特朗普對伊朗態度一週內大轉彎】據美國阿克西奧斯新聞網當地時間9日報道，美國總統特朗普表示，美國目前正對伊朗“低調處理”，並暗示相比重新發動大規模軍事行動，他更傾向於讓伊朗所面臨的經濟壓力繼續累積。特朗普當天在接受阿克西奧斯新聞網電話採訪時表示，美國正與伊朗處於半談判狀態，對伊朗保持觀察。他稱伊朗通脹高企、財政拮据，甚至無力支付軍費，美國的海上封鎖進一步加劇了伊朗經濟危機。特朗普將美伊局勢比作棋局，稱事態最終會得到解決。報道透露，就在一週前，特朗普還一度接近下令恢復針對伊朗的大規模軍事行動，但隨後被說服暫時降級局勢。（央視財經）
-
----
-
-### 2026-08-10 21:09:58  #國際
-
-以色列外長：“我們關切地關注著關於襲擊哥倫比亞的地震的報道。我向我的同事、哥倫比亞外長建議，我們提供以色列所能提供的任何援助。以色列準備好根據需要向哥倫比亞提供儘可能多的援助。在這個困難時期，我的心與哥倫比亞人民同在，我的祈禱也與他們同在。”
-
----
-
-### 2026-08-10 21:09:48  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Futures Steady as Earnings Take Focus — Futures tracking the S&P/TSX Composite Index were little changed on Monday after the index reached a record high in the previous session, amid uncertainty surrounding US-Iran talks and a fresh batch of corporate earnings. Barrick traded lower in US pre-market trading after reporting second-quarter earnings and revenue below expectations. Franco-Nevada and Constellation Software are scheduled to report earnings tomorrow. The market is also pricing in last week's stronger-than-expected Canadian jobs report, which showed employment rising by 75,100 in July while the unemployment rate fell for the third consecutive month to 6.4%. The resilient labor market could support a more hawkish stance from the Bank of Canada. Meanwhile, oil prices rose as uncertainty persisted over efforts to reopen the Strait of Hormuz, while gold prices edged lower.
 
 ---

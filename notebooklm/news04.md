@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-12 00:31:46_
-_本檔包含 3125 則快訊，約 597378 字_
+_更新時間：2026-08-12 01:34:44_
+_本檔包含 3126 則快訊，約 596962 字_
+
+---
+
+### 2026-08-07 11:11:11  #其他
+
+【影石產品將上線AI語音助手，分割槽域接入阿里千問和Gemini模型】影石Insta360將於8月7日為GO Ultra拇指相機上線AI語音助手。該功能按區域採用不同大模型方案：中國大陸地區接入阿里千問大模型，中國港澳臺及海外地區使用Google Gemini，翻譯結果可透過機身揚聲器直接播報。據瞭解，此次AI語音助手以影石自研為核心，融合阿里千問大模型的多模態能力及千問App的拍照問答能力。端側完成聲紋識別、意圖判斷，雲端則承擔問答、模式切換、翻譯等複雜任務。(新浪科技)
+
+---
+
+### 2026-08-07 11:10:24  #公司
+
+【汪峰已成立科技公司 名下多家音樂公司已登出】據媒體報道，近日，歌手汪峰在節目中自曝，其公司因全面引入Al技術，團隊規模已從1100人最佳化至400人，相關話題引發熱議。天眼查App顯示，汪峰名下關聯超20家企業，其中多家企業處於存續狀態，包括南京果醬文化發展有限公司、江西斐耳科技有限公司等。
+
+---
+
+### 2026-08-07 11:10:16  #市場
+
+隔夜SHIBOR報1.3610%，上漲0.80個基點。7天SHIBOR報1.3910%，上漲0.80個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。
+
+---
+
+### 2026-08-07 11:09:29  #Trading Economics #Economy #Indonesia #Foreign Exchange Reserves #Importance 1
+
+Indonesia Forex Reserves Fall in July — Indonesia's foreign exchange reserves fell to USD 145.3 billion in July 2026 from USD 145.6 billion in June. The decline was mainly driven by government foreign debt repayments and Bank Indonesia's currency market interventions to support the rupiah amid renewed volatility in global financial markets, despite inflows from tax and service revenues and the issuance of government global bonds. The reserves remained robust, covering 5.5 months of imports or 5.3 months of imports and government external debt repayments, comfortably above the international adequacy benchmark of around three months. Bank Indonesia said the reserve buffer remains sufficient to safeguard external sector stability and support overall macroeconomic and financial system resilience. Looking ahead, the central bank expects the external sector to remain resilient, underpinned by ample foreign exchange reserves and sustained capital inflows.
+
+---
+
+### 2026-08-07 11:09:27  #其他
+
+本田中國1-7月汽車銷量230870輛，同比下降35.9%。
+
+---
+
+### 2026-08-07 11:08:08  #其他
+
+【臺積電研發二維電晶體新技術，突破先進半導體材料介面瓶頸】臺灣陽明交通大學與臺積電企業研發團隊在二維半導體領域取得新進展，提出一種原子級介面工程技術，可在縮小電晶體尺寸的同時保持高電氣效能，有望推動下一代低功耗半導體技術發展。相關研究成果發表於《自然·電子學》。研究團隊表示，二維半導體材料僅有單原子厚度，具備優異電學特性，被視為超越矽基晶片限制的潛在材料。但在製造電晶體時，超薄絕緣層與半導體之間的介面容易產生缺陷，導致電子散射，使電晶體效能提升面臨瓶頸。研究人員透過在單層二硫化鉬（MoS₂）半導體表面構建超薄氧化鋁介面層，再結合高介電常數氧化鉿柵介質，改善材料介面質量，使電晶體同時實現更強電控能力和較高載流子遷移效能。
+
+---
+
+### 2026-08-07 11:07:49  #其他
+
+本田中國7月汽車銷量25052輛，同比下降44.1%。
+
+---
+
+### 2026-08-07 11:06:58  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時縮量523億元。
+
+---
+
+### 2026-08-07 11:05:19  #公司
+
+【張朝陽：人更需要出來交流，AI讓內容產生了塑膠感】搜狐創始人、董事局主席兼執行長張朝陽在接受採訪時表示，真人互動與真實內容是AI永遠替代不了的。資訊獲取和真人的溝通是兩回事，AI目前取代不了人類交流。在資訊海洋裡，人更需要出來交流。AI時代，真實互動的環境更加難能可貴。聊到內容從業者的AI焦慮，他用一個比喻做了回應：“現在AI產生的東西，讓媒體和內容產生了塑膠的感覺。就像化肥催出來的西紅柿，看著光鮮，吃著一點味道都沒有；帶點泥的胡蘿蔔，看著不是那麼好看，但是很好吃、有味道。”（介面新聞）
+
+---
+
+### 2026-08-07 11:05:18  #MKT News
+
+【Reported detention of ex-ultimate controller Ai Luming; SanTe Cableway says unaware, operations normal】SanTe Cableway said it is unaware of reports that former ultimate controller Ai Luming has been criminally detained, that Ai has no control or controlled relationship with the company, and that operations are normal. The company said all non-operating fund occupancies, together with corresponding interest, were repaid in cash in April 2022. SanTe Cableway returned to state ownership in 2023 and has reported three consecutive years of net profit growth. Media reports on Aug. 5 cited a lawyer saying Ai was detained on suspicion of illegally absorbing public deposits; the lawyer’s post has been deleted.
+
+---
+
+### 2026-08-07 11:04:07  #公司
+
+【北汽集團成立元啟物理智慧科技公司】企查查APP顯示，近日，北京元啟物理智慧科技有限公司成立，法定代表人為張焱，註冊資本為8億元，經營範圍包含新能源汽車整車銷售；汽車零部件研發；智慧車載裝置製造；智慧機器人的研發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由北京汽車集團有限公司全資持股。
+
+---
+
+### 2026-08-07 11:03:38  #公司
+
+【原實控人艾路明被刑事拘留？三特索道：無從知曉 經營一切正常】就“艾路明被刑事拘留”情況是否屬實及進展，三特索道對記者回應稱，公司無從知曉該事項情況，艾路明與公司不存在控制與被控制關係。目前公司經營一切正常。此前有報道稱，“律師稱湖北前首富艾路明被刑拘，涉嫌非法吸收公眾存款”。目前，該律師相關發文已刪除。 (貝殼財經)
+
+---
+
+### 2026-08-07 11:02:52  #公司
+
+【揚子江船業上半年淨利潤54億元 創歷史新高】據揚子江船業7日訊息，揚子江船業近日釋出2026年上半年度財務報告，公司營業收入及盈利能力均創歷史新高。得益於集團造船核心業務的強勁增長，報告期內實現營業收入175億元，同比增長36.2%，其中核心造船業務佔總營收比重約94%；毛利潤達63億元，同比增長42.8%；實現淨利潤54億元，同比增長28.4%。
+
+---
+
+### 2026-08-07 11:02:37  #其他
+
+【哨點醫院新冠陽性率衝到22.3%仍排第一，但升勢在趨緩了】中國疾病預防控制中心最新發布的全國急性呼吸道傳染病哨點監測情況顯示：2026年第31周，全國哨點醫院門急診流感樣病例呼吸道樣本檢測陽性率前三位病原體中，新冠依舊排在第一位，陽性率達到22.3%，較前一週環比增加1.9個百分點。緊接著是流感病毒和腸道病毒，陽性率分別為13.3%、4.1%，較前一週分別環比下降0.9個百分點、1.8個百分點。住院嚴重急性呼吸道感染病例呼吸道樣本檢測陽性率前三位病原體中，新冠同樣繼續排在第一位，陽性率為8.2%，較前一週環比下降1.3個百分點；流感排在第二位，陽性率為5.8%，環比減少0.4個百分點；人偏肺病毒排在第三位，陽性率為5.5%，環比增加1.3個百分點。（第一財經）
+
+---
+
+### 2026-08-07 11:01:30  #央行 #國際
+
+【日本二季度3次干預外匯市場未改日元貶值趨勢】日本財務省7日公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。資料顯示，日本政府和央行於4月30日、5月4日和5月6日實施買入日元、賣出美元操作，累計干預規模達11.73萬億日元。其中，4月30日單日干預規模達6.28萬億日元，超過2024年4月29日創下的5.92萬億日元紀錄，創日本有統計以來單日匯率干預規模新高。在上述干預措施實施前，日元對美元匯率一度跌至1美元兌換160日元區間。干預後日元匯率一度回升，但漲勢未能持續。7月下旬，日元匯率一度逼近1美元兌換164日元。分析人士普遍認為，如果不改變基本面，單靠匯率干預難以扭轉日元頹勢。
+
+---
+
+### 2026-08-07 11:00:46  #MKT News
+
+Indonesia's foreign exchange reserves fell to $100 mln at end-July.
+
+---
+
+### 2026-08-07 11:00:31  #其他
+
+零跑汽車：零跑A10第10萬臺量產車正式下線。
+
+---
+
+### 2026-08-07 10:59:52  #國際
+
+印尼7月底外匯儲備降至1453億美元。
+
+---
+
+### 2026-08-07 10:57:18  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Climbs as Oil Prices Rebound — Japan’s 10-year government bond yield rose to around 2.78% on Friday, snapping a two-session decline as rebounding oil prices, driven by renewed tensions in the Strait of Hormuz, reignited concerns about inflation and the interest rate outlook. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and underscoring continued weakness in consumer demand. On the monetary policy front, investors are looking toward a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week. Minutes from the July policy meeting showed that several board members expect consumer inflation to accelerate significantly in the second half of the current fiscal year as companies continue implementing broad-based price increases across a wide range of goods.
+
+---
+
+### 2026-08-07 10:56:01  #公司
+
+【維宏股份：已推出用於玻璃基板加工的切裂一體化產品】維宏股份(300508)8月7日在互動平臺表示，伴隨中國製造業轉型升級，公司自2024年開始調整戰略，聚焦高階金屬切削核心賽道，集中資源攻堅五軸、車銑複合等主流裝備控制系統，突破高階技術壁壘，今年四季度有幾款重磅產品面市。在鐳射切割市場，除現有光纖鐳射市場外，公司佈局超快鐳射加工，目前已經推出了一款用於玻璃基板加工的切裂一體化產品。
+
+---
+
+### 2026-08-07 10:53:59  #其他
+
+海關總署公佈的資料顯示，中國7月積體電路出口金額達387.4億美元；1-7月累計出口金額達2160億美元，同比增長99.5%。
+
+---
+
+### 2026-08-07 10:53:53
+
+【海關總署：1至7月積體電路累計出口同比增長99.5％】海關總署公佈的資料顯示，中國7月積體電路出口金額達387.4億美元，1至7月累計出口金額達2160億美元，同比增長99.5％。
+
+---
+
+### 2026-08-07 10:53:31  #MKT News #Important #Market Themes #Chip Wars #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【China Customs: Jan–Jul cumulative integrated circuit exports up 99.5% YoY】China Customs data show July integrated circuit exports totaled $38.74 billion; Jan–Jul cumulative exports reached $216.0 billion, up 99.5% YoY.
+
+---
+
+### 2026-08-07 10:53:09  #國際
+
+【菲律賓地震首都馬尼拉有震感】據菲律賓火山地震研究所訊息，今天（8月7日）上午10點38分左右，菲律賓西民都洛省附近發生5.8級地震，震源深度10公里。目擊者稱，首都馬尼拉有震感。（CCTV國際時訊）
+
+---
+
+### 2026-08-07 10:52:07  #公司
+
+【天鐵科技等成立智算科技新公司 含AI相關業務】企查查APP顯示，近日，杭州天鐵智算科技有限公司成立，經營範圍包含人工智慧硬體銷售；基於雲平臺的業務外包服務；人工智慧基礎資源與技術平臺；積體電路晶片設計及服務；積體電路銷售等。企查查股權穿透顯示，該公司由天鐵科技(300587)等共同持股。
+
+---
+
+### 2026-08-07 10:51:43  #其他
+
+【江蘇：上半年省重大專案投資完成率58.8%】從江蘇省發展改革委獲悉，截至6月底，550個省重大專案完成投資3909億元，同比增加302億元，投資完成率58.8%，較去年同期高出3.5個百分點；269個計劃新開工專案已開工222個，開工率82.5%，順利完成“上半年開工率75%、投資過半”的階段性目標。產業、民生環保、基礎設施專案投資完成率分別達64%、57.7%、54.3%，均實現進度“過半”。
+
+---
+
+### 2026-08-07 10:51:43  #Trading Economics #Economy #China #Balance of Trade #Importance 2
+
+China Trade Surplus Exceeds Forecasts — China’s trade surplus widened to USD 112.5 billion in July 2026, up from USD 97.70 billion a year earlier and exceeding forecasts of USD 107 billion, as exports grew more than expected, fueled by soaring chip prices and global demand for AI data center hardware. Exports jumped 23.9% from a year earlier to $397.85 billion, while imports surged 27.7% to $285.35 billion. China’s trade surplus with the US slightly declined to $28.03 billion in July from $28.9 billion in June. In the first seven months of 2026, China’s trade surplus reached USD 687.37 billion, up from USD 683.5 billion a year earlier, with exports and imports rising 18.5% and 26.7%, respectively.
+
+---
+
+### 2026-08-07 10:51:42  #MKT News
+
+The Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported a magnitude-5.8 earthquake hit near Occidental Mindoro at about 10:38 a.m. local time on Aug. 7, with a focal depth of 10 km.
 
 ---
 
@@ -18710,167 +18878,5 @@ Motorola Solutions Msi earnings above expectations at 4.41 USD — Motorola Solu
 ### 2026-08-06 04:56:43  #市場
 
 【國際金價漲超4%，重返4200美元上方】週三（8月5日）紐約尾盤，現貨黃金漲4.11%，報4245.39美元/盎司，亞太盤初以來持續上漲，北京時間23:00以來高位窄幅震盪、02:23重新整理日高至4267.78美元。現貨白銀漲4.12%，報62.0075美元/盎司，亞太盤初以來也持續走高、22:10重新整理日高至62.7770美元。COMEX銅期貨漲1.47%，報6.7410美元/磅，02:30曾漲至6.7650美元。現貨鉑金跌0.10%，現貨鈀金漲1.33%。在美股時段交易的費城金銀指數收漲6.86%，報345.93點，美股盤初持續上漲、22:00以來高位震盪。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲7.33%，報2395.57點，亞太盤初以來維持微幅上漲狀態、持穩於2250點附近，美股開盤時跳空走高至2350點上方、隨後高位震盪。在美股時段交易的原材料指數收漲1.62%，金屬與礦業指數收漲1.42%。
-
----
-
-### 2026-08-06 04:51:43  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Allstate earnings above expectations at 8.99 USD — Allstate (ALL) released earnings per share at 8.99 USD, compared to market expectations of 5.14 USD.
-
----
-
-### 2026-08-06 04:51:19  #其他
-
-可口可樂合併報表口徑，仍預計全年資本支出約 3 億美元。
-
----
-
-### 2026-08-06 04:49:13  #公司 #市場
-
-【8月6日美股成交額前20：馬斯克稱SpaceX未來AI基建只用英偉達晶片】週三美股成交額第1名英偉達收高3.43%，成交342.56億美元。截止週三收盤，英偉達股價已經連續五個交易日上漲，股價創兩個月來新高。在前期板塊短暫回撥後，這家算力龍頭再度強勢反攻，給全球AI硬體產業鏈帶來明顯情緒提振。埃隆-馬斯克週三表示，SpaceX未來在建設人工智慧計算基礎設施時將只使用英偉達處理器。在SpaceX財報電話會議上，他表示英偉達擁有“最好的人工智慧計算機”，並補充道“我們只選用英偉達”。
-
----
-
-### 2026-08-06 04:45:46  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Occidental Petroleum earnings above expectations at 2.40 USD — Occidental Petroleum (OXY) released earnings per share at 2.40 USD, compared to market expectations of 1.84 USD.
-
----
-
-### 2026-08-06 04:45:30  #MKT News
-
-Sequoia Capital has closed a new $10 billion fundraising round.
-
----
-
-### 2026-08-06 04:44:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Edges Lower Ahead of Rate Decision — The Ibovespa edged down 0.1% to close at 177,726 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Markets expect Copom to cut the Selic rate by 25 basis points to 14.0%, with attention focused on the accompanying statement for clues on whether another cut could follow in September. Financial stocks were mostly lower, with Bradesco down 0.8% and BB Seguridade losing 0.9%. In contrast, Itaú gained 0.7% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Gerdau rebounded 1.7% after posting stronger-than-expected 2Q26 results, while RD Saúde led gains, rising 5.9% following its earnings release. Petrobras fell 1.3% as oil prices declined. Bradesco, Axia (0%), Auren (-1.1%), Brava (+2.6%), and Engie (-1%) are set to report earnings after the close.
-
----
-
-### 2026-08-06 04:39:43  #市場 #央行 #國際
-
-【美聯儲理事庫克警告通脹固化風險 稱必要時將支援加息】美聯儲理事麗莎·庫克重申，如果通脹不能放緩，她準備好支援加息，並警告稱，決策者可能沒有足夠時間等待通脹回落至2%的目標。儘管庫克支援美聯儲7月會議維持利率不變的決定，但她提醒稱，通脹持續高於美聯儲目標的時間越長，未來遏制通脹的難度就越大。“如果我不能很快看到通脹持續回落的跡象，我準備好採取行動，”庫克週三在阿拉斯加一場活動發表講話時表示。“通脹連續五年高於目標水平，意味著高通脹固化到企業定價和工資設定行為中的風險上升，從而導致頑固通脹，屆時我們將更難加以遏制。”庫克表示，關稅影響減弱、油價可能下跌以及人工智慧熱潮相關的壓力有所緩和，這些因素都可能有助於降低通脹，從而消除收緊政策的必要性。儘管如此，庫克強調，她的首要任務仍是推動通脹回到美聯儲的目標水平。“如果大家從今天的講話中只記住一點，我希望那就是，我堅定致力於恢復價格穩定，”庫克表示。“首先也是最重要的是讓通脹回到目標水平，這對於實現國會賦予美聯儲的雙重使命至關重要。”
-
----
-
-### 2026-08-06 04:37:46  #市場 #國際
-
-美國芝加哥期權交易所（CBOE）7月期貨日均成交量（DTV）增長16.1%。7月指數期權日均成交量增長34%。7月跨交易所期權日均成交量增長28.4%。
-
----
-
-### 2026-08-06 04:36:32  #其他
-
-紅杉資本完成100億美元新一輪融資。今年已經向（除了SpaceX之外的）投資者回報50億美元。
-
----
-
-### 2026-08-06 04:36:08  #其他
-
-法拉第未來：將為現有可轉換債券設定 5 美元的最低轉換底價，並計劃在四個季度內，將截至一季度末 2.3 億美元的負債降至 1 億美元以下。
-
----
-
-### 2026-08-06 04:35:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.63% Higher — The Dow Jones Index rose 342 points or 0.63 percent on Wednesday to close at 54428 points. Leading the gains are Amgen (5.16%), Nvidia (3.84%) and Walt Disney (3.83%). Top losers were Alphabet (-4.58%), Chevron (-2.05%) and Amazon (-1.66%).
-
----
-
-### 2026-08-06 04:35:02  #國際
-
-CF 工業控股：受伊朗衝突影響，中東、非洲地區貿易流通的氮素供應減少約 400‑450 萬噸尿素以及約 100 萬噸氨。
-
----
-
-### 2026-08-06 04:33:38  #MKT News #FFIE.O #Impact bullish
-
-Faraday Future (FFIE.O) plans to cut liabilities of $230m as of end‑Q1 to below $100m within four quarters.
-
----
-
-### 2026-08-06 04:32:12  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Hits Second Straight Record — The S&P/TSX Composite Index rose 1% to close at a record 36,146 on Wednesday, marking its second consecutive record close. Shopify led gains, soaring 16.5% for its biggest one-day advance in a year after issuing an upbeat revenue outlook that signaled its AI initiatives were attracting more merchants to its e-commerce platform. Mining stocks also rallied as gold prices surged on hopes of a US-Iran peace deal, easing inflation concerns. Agnico Eagle jumped 9.6%, Barrick gained 7.2%, WPM rose 7.2%, Kinross advanced 8.6%, and Eldorado Gold climbed 12.8%, while other miners gained between 1.2% and 10%. Meanwhile, Thomson Reuters fell 10.2% despite beating second-quarter profit and revenue estimates and raising its annual revenue growth forecast. Manulife Financial (-0.9%) and Nutrien (-0.3%) edged lower ahead of their earnings.
-
----
-
-### 2026-08-06 04:32:02  #公司 #觀點
-
-摩根大通CEO戴蒙：AI TOKEN 相關支出 “將得到管控”。
-
----
-
-### 2026-08-06 04:29:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Realty Income earnings below expectations at 0.37 USD — Realty Income (O) released earnings per share at 0.37 USD, compared to market expectations of 0.41 USD.
-
----
-
-### 2026-08-06 04:29:05  #MKT News #Brent #Impact bullish #WTI
-
-【Iran says near deal with Oman to close two Strait of Hormuz lanes】IRNA reported Iran deputy foreign minister Gharibabadi said Tehran and Muscat are close to finalizing an agreement that would close the Strait of Hormuz’s two existing commercial transit lanes — the northern lane under Iranian control and the southern lane adjacent to Omani waters. Under the proposed passage regime, parts of commercial vessels’ entry to and exit from the strait would transit Iranian territorial waters. The arrangement is described as temporary and expected to be usable for about 2–4 months. Gharibabadi denied reports of direct US‑Iran negotiations but said Iran received US messages and that Washington indicated readiness to resume commitments under a previously signed memorandum of understanding.
-
----
-
-### 2026-08-06 04:28:45  #公司 #觀點
-
-摩根大通CEO戴蒙：市場槓桿越高，發生市場動盪的機率就越大。
-
----
-
-### 2026-08-06 04:28:31  #公司 #觀點
-
-摩根大通CEO戴蒙：市場槓桿水平相當高。
-
----
-
-### 2026-08-06 04:27:56  #MKT News #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-【Dollar index down 0.18% on 5th】The dollar index, which measures the dollar against six major currencies, fell 0.18% to 99.676 at the New York close on the 5th. EUR/USD 1.1553, up from 1.1533; GBP/USD 1.3469, up from 1.3452. USD/JPY 157.67, up from 157.66. USD/CHF 0.8069, down from 0.8092. USD/CAD 1.4008, down from 1.4066. USD/SEK 9.4832, down from 9.5192.
-
----
-
-### 2026-08-06 04:27:19  #其他
-
-【Applovin2026年Q2營收19.24億美元 同比增長53%】Applovin2026年Q2營收19.24億美元，同比增長53%；稀釋後EPS3.76美元。
-
----
-
-### 2026-08-06 04:25:46  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-DoorDash earnings in line with market expectations at 0.46 USD — DoorDash (DASH) released earnings per share at 0.46 USD, in line with market expectations.
-
----
-
-### 2026-08-06 04:23:48  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-MetLife earnings above expectations at 2.43 USD — MetLife (MET) released earnings per share at 2.43 USD, compared to market expectations of 2.36 USD.
-
----
-
-### 2026-08-06 04:21:14  #市場 #焦點
-
-比特幣升破65000美元，日內漲1.41%。
-
----
-
-### 2026-08-06 04:16:14  #MKT News
-
-【Fed governor Cook prepared to support rate hike if inf does not ease】Fed governor Cook said she is prepared to support further rate hikes if inf does not ease, warning policymakers may not have room to wait for inf to return to the Fed's 2% target. She supported the Fed's decision to keep rates unchanged at the July meeting but said the longer inf remains above target the harder it will be to rein in, and she would act if she does not soon see sustained declines. Cook warned five consecutive years of above-target inf raises the risk it becomes entrenched in price- and wage-setting. She added that fading tariff effects, potential oil-price declines and easing AI-related cost pressures could provide a buffer that might reduce the need for additional tightening, but her top priority remains returning inf to the Fed's target.
-
----
-
-### 2026-08-06 04:14:15  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-McKesson earnings above expectations at 9.93 USD — McKesson (MCK) released earnings per share at 9.93 USD, compared to market expectations of 9.65 USD.
-
----
-
-### 2026-08-06 04:12:39  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Wall Street Closes Near Record Highs — US stocks closed near record levels on Wednesday as an improving macroeconomic backdrop and strong corporate earnings supported sentiment. The S&P 500 inched down 0.2%, closing near yesterday's record. while the Dow added 263 points to reach a record 54,349. Crude oil prices extended their decline after Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, while US officials signaled progress in talks aimed at restoring trade flows through the region, easing concerns over energy-driven inflation. Credit sensitive sectors, including major banks, outperformed. Arista Networks rose 3.6% after reporting stronger-than-expected revenue. Eli Lilly gained 4.9% after beating revenue estimates and raising its full-year guidance. In contrast, the Nasdaq slipped 0.8%. SpaceX slumped 13.6%, giving back the previous session's gains, while AMD dropped 7% despite doubling data center revenue.
 
 ---
