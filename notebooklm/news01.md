@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-12 05:26:47_
-_本檔包含 3170 則快訊，約 596266 字_
+_更新時間：2026-08-12 06:21:30_
+_本檔包含 3174 則快訊，約 595369 字_
+
+---
+
+### 2026-08-12 06:20:37  #公司
+
+【央企“瘦身健體”改革攻堅提速，上市公司產權最佳化與總部架構重塑同步推進】央企控股上市公司股份無償劃轉近期再添新案例。8月初，華電新能控股股東華電福瑞與母公司中國華電集團簽署協議，將所持29%股份無償劃轉至集團總部，華電新能產權層級由三級提升至二級。據統計，2026年已披露及正在推進的央企控股上市公司股權無償劃轉案例已超過10起。 上市公司的股權最佳化是中央企業“瘦身健體”、壓縮管理層級改革的重要一環。2026年以來，中建集團、中國石化、中國能建等多家央企相繼啟動較大規模的總部機構改革，透過壓縮層級、整合部門、新設戰略性新興產業機構等方式，推動總部向價值化、扁平化方向改革。（上證報）
+
+---
+
+### 2026-08-12 06:19:22  #公司 #市場
+
+【深度參與明星IPO專案，券商“投資+投行”模式加速兌現紅利】近日，宇樹科技同步開啟網上、網下申購。此次發行價格為150.80元/股，預計募集資金總額約60.99億元。天眼查App顯示，有十餘家券商透過另類投資子公司、私募股權基金、產業基金等不同方式現身宇樹科技的股權架構中。從宇樹科技到此前登陸科創板的長鑫科技，券商用真金白銀“下場”投資，越來越早地介入硬科技企業成長過程。業內人士認為，這種“投資+投行”的業務協同正成為券商服務科技企業的重要路徑，也成為拉動券商盈利的動能。（上證報）
+
+---
+
+### 2026-08-12 06:15:06  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Drops by 1.06% — Top currency loser is Brazilian Real (-1.06%). Gains are led by Mexican Peso (0.37%) and South Korean Won (0.37%). Meanwhile, British Pound and Japanese Yen were little changed.
+
+---
+
+### 2026-08-12 06:02:27  #央行 #國際
+
+【美聯儲9月加息25個基點的機率為48%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為52%，累計加息25個基點的機率為48%。美聯儲到10月維持利率不變的機率為38.7%，累計加息25個基點的機率為49%，累計加息50個基點的機率為12.2%。
+
+---
+
+### 2026-08-12 06:00:35  #市場 #焦點
+
+現貨白銀突破65美元/盎司，日內漲0.09%。
+
+---
+
+### 2026-08-12 06:00:03  #市場 #焦點
+
+紐約期金突破4430美元/盎司，日內跌0.22%。
+
+---
+
+### 2026-08-12 06:00:03  #市場 #焦點
+
+紐約期銀突破65美元/盎司，日內跌0.04%。
+
+---
+
+### 2026-08-12 05:57:45  #其他
+
+加拿大航空預期：2028 年營業收入約 300 億加元。設定 2030 年目標：營業收入超 300 億加元；調整後息稅折舊攤銷前利潤率 18%-20%。
+
+---
+
+### 2026-08-12 05:52:11  #其他
+
+【哥倫比亞強震死亡人數升至188人】哥倫比亞全國首府協會11日釋出最新統計顯示，10日在該國西部發生的7.4級強震已造成188人死亡、1677人受傷。（新華社）
+
+---
+
+### 2026-08-12 05:51:36  #MKT News #Star Stocks #Amazon #Market Themes #AI Revolution #Magnificent 7 #AMZN.O #Impact bullish
+
+AWS: OpenAI's Daybreak Red and Daybreak Blue are now available to eligible customers on Amazon Bedrock.
+
+---
+
+### 2026-08-12 05:50:44  #公司
+
+亞馬遜：OpenAI Daybreak 模型現已在亞馬遜 Bedrock 向符合條件的客戶開放。
+
+---
+
+### 2026-08-12 05:49:56  #公司
+
+OpenAI向亞馬遜Redrock開放Daybreak許可權。
+
+---
+
+### 2026-08-12 05:48:30  #其他
+
+【葉門胡塞武裝表示願與沙特對話 】葉門胡塞武裝11日表示，願與沙烏地阿拉伯保持對話，但同時稱，除非有關要求得到滿足，否則將繼續對沙特相關船隻以及沙特支援的軍事目標發動襲擊。胡塞武裝首席談判代表兼發言人穆罕默德·阿卜杜勒薩拉姆當天在社交媒體平臺發表宣告說，胡塞武裝談判代表團正就當前局勢與地區及國際各方保持聯絡並舉行會談，“我們沒有關閉對話和談判大門”。但宣告同時指責沙特拒絕談判並準備在葉門採取進一步軍事行動。（新華社）
+
+---
+
+### 2026-08-12 05:48:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Yemeni Houthi militia says willing to dialogue with Saudi Arabia】On the 11th the Houthi militia said it is willing to hold dialogue with Saudi Arabia but warned it will continue attacks on Saudi-linked vessels and Saudi-backed military targets unless its demands are met.
+
+---
+
+### 2026-08-12 05:46:58  #其他
+
+穆迪評級：南亞仍易受能源價格衝擊，但抗風險能力較以往有所增強。
+
+---
+
+### 2026-08-12 05:46:40  #其他
+
+巴西證券交易所第二季度淨利潤為17億雷亞爾，高於市場預期的16.1億雷亞爾。
+
+---
+
+### 2026-08-12 05:46:36  #公司
+
+黑石集團、魁北克儲蓄投資集團向加拿大航空 Aeroplan 投資 25 億加元。
+
+---
+
+### 2026-08-12 05:43:43  #MKT News #CRWV.O
+
+CoreWeave (CRWV.O) CFO expects Q3 revenue of $3.45–3.6 bln and capex of $11.5–13.5 bln.
+
+---
+
+### 2026-08-12 05:42:41  #MKT News #CRWV.O #Impact bullish
+
+CoreWeave (CRWV.O) CFO expects active compute capacity to exceed 1.85 GW by year-end, above prior guidance of >1.7 GW.
+
+---
+
+### 2026-08-12 05:40:05  #MKT News #CRWV.O #Impact bullish
+
+CoreWeave (CRWV.O) CFO said the company raised its full-year 2026 revenue forecast to $12.4-$13.2 billion.
+
+---
+
+### 2026-08-12 05:39:20  #MKT News #CRWV.O #Impact mixed
+
+CoreWeave (CRWV.O) CFO says the company currently expects 2026 capital expenditures of $35–39 billion.
+
+---
+
+### 2026-08-12 05:38:09  #MKT News
+
+The Information reports prediction-market platform Kalshi's annualized revenue has topped $4.0 billion and the company is seeking a $40 billion valuation.
+
+---
+
+### 2026-08-12 05:37:23  #其他
+
+CoreWeave 首席財務官：上調 2026 全年營收指引至 124 億‑132 億美元。目前預計 2026 年資本支出介於 350 億‑390 億美元區間。
+
+---
+
+### 2026-08-12 05:36:35  #其他
+
+CoreWeave 首席財務官：預計第三季度營收介於 34.5 億至 36 億美元區間。
+
+---
+
+### 2026-08-12 05:36:11  #其他
+
+CoreWeave 首席財務官： 預計年末在用電力規模將超過 1.85 吉瓦，高於此前給出的超 1.7 吉瓦指引。
+
+---
+
+### 2026-08-12 05:32:18  #其他
+
+CoreWeave 首席財務官： 現有待交付訂單中，超 50% 對應的合同已啟動向客戶交付。
+
+---
+
+### 2026-08-12 05:31:33  #其他
+
+澳大利亞聯邦銀行全財年淨利潤108.7億澳元，預估107.5億澳元。
+
+---
+
+### 2026-08-12 05:31:02  #MKT News
+
+【U.S. judge blocks USPS from enforcing Trump order to curb mailed ballots】On the 11th, a U.S. federal judge ordered the U.S. Postal Service barred from enforcing President Trump’s executive order that would restrict mailed ballots. Trump issued the order on March 31 directing the Department of Homeland Security and the Social Security Administration to compile state-by-state lists of citizens eligible to vote and prohibiting the USPS from processing ballots from voters not on those lists. Twenty-three Democratic-led states and Washington, D.C., sued, arguing the order is unconstitutional. A Boston federal judge enjoined the order on June 25; the U.S. Court of Appeals for the First Circuit upheld that injunction on July 25. The administration subsequently filed an emergency appeal to the U.S. Supreme Court.
+
+---
+
+### 2026-08-12 05:30:05  #國際
+
+【美法官叫停美郵政局執行特朗普涉限制郵寄選票的行政令】美國一名聯邦法官下令，禁止美國郵政總署依據美國總統特朗普的行政命令限制郵寄投票。美國共和黨籍總統特朗普3月31日頒佈行政令，責成國土安全部和社會保障管理局以州為單位編纂具備合法投票資格的公民名單，同時禁止美國郵政局處理非名單內選民寄出的選票。民主黨主政的23個州和首都華盛頓隨後以違憲為由對行政令提起訴訟。6月25日，美國波士頓地區一位聯邦法官叫停了特朗普此項行政令的實施。7月25日，美國第一聯邦巡迴上訴法院維持原判，繼續禁止行政令實施。特朗普政府隨後向聯邦最高法院提出緊急申請。 (央視新聞)
+
+---
+
+### 2026-08-12 05:29:57  #公司
+
+CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。
+
+---
+
+### 2026-08-12 05:29:44  #MKT News #SMCI.O #Impact bullish
+
+Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25.
+
+---
+
+### 2026-08-12 05:29:42  #MKT News #SMCI.O #Impact bullish
+
+Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4.
+
+---
+
+### 2026-08-12 05:29:06  #其他
+
+CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。
+
+---
+
+### 2026-08-12 05:28:30  #其他
+
+CoreWeave 首席財務官：第二季度是我們利潤率出現拐點的季度，正如過去幾個季度所討論的，利潤率實現環比擴張。
+
+---
+
+### 2026-08-12 05:27:23  #其他
+
+市場訊息：Kalshi 年化營收突破 40 億美元。Kalshi 正洽談融資，目標估值 400 億美元。
 
 ---
 
@@ -18921,191 +19131,5 @@ European natural gas prices rose 10.1% to €61.14/MWh.
 ### 2026-08-10 23:27:58  #國際
 
 伊朗方面報道：胡齊斯坦、伊拉姆、洛雷斯坦三省交界附近，侯賽尼耶鎮周邊發生里氏 4.7 級地震。
-
----
-
-### 2026-08-10 23:24:55  #MKT News
-
-【Iran's supreme leader to appoint several senior military commanders】The Supreme Leader's office said on the 10th that Supreme Leader Mujtaba will sign appointment orders for several senior commanders of the Iranian armed forces.
-
----
-
-### 2026-08-10 23:22:47  #焦點 #國際
-
-美國上週戰略石油儲備（SPR）原油庫存減少約610萬桶，至2.987億桶，為1983年以來的最低水平。
-
----
-
-### 2026-08-10 23:22:43  #焦點 #國際
-
-【伊朗最高領袖將任命數名高階軍事指揮官】據伊朗最高領袖辦公室10日訊息，伊朗最高領袖穆傑塔巴將簽署對數名伊朗武裝部隊高階指揮官的任命令。（新華社）
-
----
-
-### 2026-08-10 23:22:13  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
-
-U.S. Strategic Petroleum Reserve crude stocks fell about 6.1 mln barrels last week to 298.7 mln barrels, the lowest level since 1983.
-
----
-
-### 2026-08-10 23:21:33  #MKT News
-
-【Baltic Dry Index slips as capesize rates soften】The Baltic Dry Index (BDI) fell 6 points, or 0.19%, to 3,083, retreating from a June 3 peak as weaker capesize rates offset panamax gains. The capesize index (BCI) dropped 23 points, or 0.5%, to 5,105; capesize daily earnings fell $212 to $42,797. The panamax index (BPI) rose 8 points, or 0.4%, to 2,306, marking the highest level since June 2; panamax daily earnings gained $71 to $20,755. The supramax index (BSI) was steady at 1,603. The handysize index (BHSI) slipped 2 points to 872.
-
----
-
-### 2026-08-10 23:20:53  #MKT News
-
-U.S. actor Leonardo DiCaprio urged Chilean authorities to protect a critically endangered frog from a proposed power transmission project, bringing Hollywood pressure into the environmental dispute.
-
----
-
-### 2026-08-10 23:20:34  #國際
-
-據伊朗學生通訊社(ISNA)：大部分船舶已取道霍爾木茲海峽的伊朗航線通行。
-
----
-
-### 2026-08-10 23:18:26  #MKT News #Nikkei 225 #Impact bullish #USDJPY
-
-Nikkei reports Japan plans to loosen lending rules to facilitate startup financing; the Financial Services Agency will discuss draft legislative amendments at a Financial System Council plenary as early as this month.
-
----
-
-### 2026-08-10 23:16:31  #國際
-
-市場訊息：日本金融廳將於本月內在金融制度審議會全體會議上研討相關法律修訂。日本金融廳希望擬議修訂案於明年提交國會審議。
-
----
-
-### 2026-08-10 23:15:26  #國際
-
-市場訊息：日本擬放寬放貸規定，以此改善初創企業融資環境。
-
----
-
-### 2026-08-10 23:15:05  #其他
-
-巴里克（Barrick）與紐蒙特（Newmont）的交易價值大約40億美元。巴里克今年不會啟動Reko Diq建設。
-
----
-
-### 2026-08-10 23:14:25  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-NVIDIA-backed AI cloud provider Lambda is marketing a $917 million leveraged loan to finance GPU purchases.
-
----
-
-### 2026-08-10 23:12:21  #國際
-
-巴基斯坦外交部：伊朗外長同巴基斯坦外長討論地區與國際局勢。雙方就地區及國際事態交換看法，重點圍繞地區局勢演變以及維護和平穩定的各項努力。巴外長與阿拉格齊覆盤巴、土、沙三方《麥加協議》的各項條款，並著重強調該協議對促進地區和平安全的目標。
-
----
-
-### 2026-08-10 23:10:11  #其他
-
-【極端乾旱蔓延 斯洛伐克近六成國土受影響】當地時間8月10日，斯洛伐克水文氣象研究所釋出的最新監測資料顯示，極端乾旱已影響全國約59%的國土面積，影響範圍較一週前繼續擴大；異常至極端乾旱已覆蓋全國約95%國土，幾乎波及全國所有地區。（央視新聞）
-
----
-
-### 2026-08-10 23:09:04  #MKT News
-
-【China's Zhongxing-4B launch fails】On Aug 10 at 20:02 Beijing time China launched the Zhongxing-4B satellite from Wenchang using a modified Long March-7 launch vehicle; the rocket experienced an in-flight anomaly and the mission failed. Authorities say the cause is under investigation.
-
----
-
-### 2026-08-10 23:08:48  #其他
-
-【中星4B衛星發射失利 】8月10日20時02分，我國在文昌航天發射場使用長征七號改運載火箭發射中星4B衛星，火箭飛行異常，發射任務失利。具體原因正在進一步分析排查。（新華社）
-
----
-
-### 2026-08-10 23:06:04  #央行 #國際
-
-【美國政府檔案顯示美聯儲主席沃什已完成所承諾的投資權益剝離】一項政府記錄顯示，美聯儲主席凱文·沃什表示，他已賣出了此前承諾剝離的全部金融持倉。沃什簽署了一份美國政府道德辦公室的道德協議合規認證檔案，日期標註為上週四。該檔案於週六在該機構網站公開。5月份正式上任的沃什此前已向該辦公室提交資產剝離證明，顯示他已經出售了承諾處置的大部分持倉。最新的披露顯示，他已出售協議所涵蓋的剩餘權益。
-
----
-
-### 2026-08-10 23:05:31  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude oil up 5.00% intraday at $80.17/bbl; Brent crude up 5.00% intraday at $85.58/bbl.
-
----
-
-### 2026-08-10 23:05:26  #國際
-
-俄羅斯方面報道：下卡姆斯克遭無人機襲擊，78 人受傷，其中 25 人住院。
-
----
-
-### 2026-08-10 23:05:08  #市場 #焦點
-
-WTI原油突破81美元/桶，日內漲3.64%。
-
----
-
-### 2026-08-10 23:03:35  #市場
-
-洲際交易所資料顯示：英國近月天然氣上漲 10.12%，報每熱姆 149.71 便士。
-
----
-
-### 2026-08-10 23:03:33  #MKT News
-
-【Iran president Pezeshkian says US, Israeli strikes rely on AI data; plots foiled】Iranian President Pezeshkian said US and Israeli strikes are based on artificial-intelligence data, espionage networks, mercenaries and domestic agents, but their plans have been thwarted one by one, according to Mehr news agency. He made the remarks at a Tehran University meeting.
-
----
-
-### 2026-08-10 23:01:50  #MKT News #WTI #Impact bullish #Brent
-
-【Iran: Strait of Hormuz situation depends on US actions】An Iranian foreign ministry spokesperson said: "Talks with Oman are progressing smoothly, but some parties are attempting to obstruct the process. The situation in the Strait of Hormuz depends on US actions and on whether the US reverses its violations. A maritime blockade against Iran is an act of aggression. The Strait of Hormuz remained open from antiquity until the war that began this year."
-
----
-
-### 2026-08-10 23:01:23  #公司 #市場 #國際
-
-【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元兌美元一度下跌0.8%，至159.06，在十國集團中表現墊底，美國和日本歷史性聯手干預激發的漲幅已半數回吐。週二是日本的公眾假期，交易員擔心減弱的流動性可能為新一輪干預創造條件。儘管如此，近期的干預似乎難以改變日元的疲態，因其面臨諸多重大不利因素，例如市場擔心日本可能增加財政支出。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。
-
----
-
-### 2026-08-10 23:00:47  #MKT News #Important #Commodities #Energy #CNH #Impact bullish #Copper
-
-By 23:00 local close, China's most-active futures contracts were mostly higher. Fuel oil and low-sulfur fuel oil (LU) climbed nearly 3%; propylene, coking coal, polypropylene (including monthly-average contract), asphalt and synthetic rubber rose more than 1%. PTA fell over 1%; pulp and caustic soda were down nearly 1%.
-
----
-
-### 2026-08-10 23:00:18  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Japanese Yen Drops by 0.74% — Top currency losers are Japanese Yen (-0.74%), South Korean Won (-0.72%) and Euro (-0.06%). Gains are led by British Pound (0.20%) and Dollar Index (0.19%).
-
----
-
-### 2026-08-10 23:00:02  #市場
-
-【夜盤期貨收盤】低硫燃料油連續漲2.89%，燃料油連續漲2.36%，瀝青連續漲1.37%，聚丙烯連續漲1.19%，焦煤連續漲1.14%。
-
----
-
-### 2026-08-10 22:59:59  #公司 #觀點 #國際
-
-【高盛：日元貶值壓力恐將隨著時間的推移再次出現】“日本要過盂蘭盆節了，市場參與可能會受到限制，而且國內事件日程也相對清淡，” 野村證券策略師Yujiro Goto在一份研報中報告寫道，“焦點還是會在日本和美國當局的干預立場上，投資者會密切關注官員們的表態。”此次逆轉凸顯了在日元貶值背後的驅動因素基本保持不變的情況下，干預措施在改變整體走勢方面的侷限性。儘管東京和華盛頓都警告稱，若有必要他們準備再次採取行動，但與美國之間巨大的利差、對日本財政前景的擔憂以及地緣政治的不確定性仍然對日元構成壓力。“我們認為，市場對此次干預相對平淡的回應反映了貨幣疲軟的根本原因，” 高盛集團Kamakshya Trivedi等策略師在一份報告中預計，“除非全球形勢發生變化或出現意外政策，否則貶值壓力將隨著時間的推移再次出現”。
-
----
-
-### 2026-08-10 22:59:47  #宏觀 #公司 #市場
-
-【能耗考核讓司機不敢開空調 蘭州公交：已暫停】近期，甘肅蘭州有公交車司機表示，由於公司實施的考核辦法把車輛的能耗和績效掛鉤，如果超出了規定的能耗標準，將按一定比例扣除司機的績效工資，導致個別司機不願在行駛過程中開空調，從而影響乘客體驗。蘭州公交集團第六客運公司工作人員表示，出臺考核辦法的初衷是引導駕駛員愛車護車、安全行駛，助力企業降本增效。辦法制定階段已兼顧車型、車況、線路差異，以平均能耗作為考核基準，考核數值每月動態調整，也考慮到高溫開啟空調帶來的能耗上漲因素。（央視新聞）
-
----
-
-### 2026-08-10 22:57:43  #市場 #國際
-
-【NYMEX取暖油主力合約大漲6%】NYMEX取暖油主力合約大漲6%，現報4.14美元/加侖。
-
----
-
-### 2026-08-10 22:57:19  #公司 #市場 #國際
-
-【日元頹勢加深 美日歷史性干預帶來的半數漲幅已消失殆盡】日元跌勢擴大，美國和日本歷史性聯手干預激發的漲幅已半數回吐。該貨幣兌美元週一下跌多達0.8%，觸及159.06，在十國集團中表現墊底。日元兌美元跌至近40年來低點164附近後，日本和美國在本月初左右啟動了1998年以來的首次聯合買入日元行動。此次干預一度推動日元走強至155附近，但漲勢隨後開始減退。
 
 ---
