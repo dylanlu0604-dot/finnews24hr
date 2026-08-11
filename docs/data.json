@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-11 10:03:55",
-  "count": 15833,
+  "updated": "2026-08-11 10:07:52",
+  "count": 15831,
   "items": [
+    {
+      "id": "5034892",
+      "time": "2026-08-11 10:06:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普力挺因凡蒂諾 警告國際足聯不要考慮更換主席】當地時間8月10日，美國總統特朗普發文表示，國際足聯如果因任何原因考慮更換主席因凡蒂諾，將犯下“嚴重錯誤”。特朗普稱，因凡蒂諾“非常出色”，剛剛主持了“有史以來最成功的世界盃”，並稱其成功程度達到以往的“四倍”。他還表示，如果因凡蒂諾離任，世界盃將“再也不會像現在這樣成功或盈利”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fee92-46b0-7aab-8fe4-9886c375f060",
+      "time": "2026-08-11 10:06:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "USO",
+        "Impact bullish",
+        "BNO"
+      ],
+      "text": "【Crude ETF holdings report live; WTI (USO) up, Brent (BNO) unchanged】Aug 10 — WTI (USO) nominal exposure ~26.13 mln bbl, +0.47 mln bbl on the day. Brent (BNO) futures holdings ~7.23 mln bbl, unchanged on the day."
+    },
     {
       "id": "5034891",
       "time": "2026-08-11 10:02:09",
@@ -144058,44 +144079,6 @@
         "SSE Composite"
       ],
       "text": "A-share storage and chip stocks rose amid volatility; Woge Optoelectronics, Shengshi Technology and Zhongjing Electronics hit daily limit-up, while Weice Technology and Shengyi Technology climbed over 7%."
-    },
-    {
-      "id": "mkt:019fca86-fa03-7aab-8f62-3e82dd3df860",
-      "time": "2026-08-04 10:07:51",
-      "tags": [
-        "MKT News",
-        "TSM.O"
-      ],
-      "text": "TSMC said it will donate JPY250 million to Kumamoto earthquake relief and recovery efforts."
-    },
-    {
-      "id": "te:markets:572333",
-      "time": "2026-08-04 10:06:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Snap Six-Day Winning Streak — The Hang Seng Index fell 0.5%, or 123 points, to 25,885 on Tuesday, snapping a six consecutive sessions of gains, as investors took profits and sentiment weakened during the session. Initial optimism over Beijing's latest measures to strengthen Hong Kong's role as an international financial hub, including expanding yuan-denominated investment products and cross-border market access, faded as selling emerged in heavyweight technology and financial stocks. The benchmark's decline also reflected lingering caution over China's economic outlook and corporate earnings, prompting investors to lock in gains after the early rally. Moreover, investors remained cautious ahead of China's trade figures due later this week. Notable losers included Tencent (-0.7%), Xiaomi (-1.3%), GoFintech Quantum Innovation (-7.7%), Geely Automobile (3.1%), and AIA (-0.5%)."
-    },
-    {
-      "id": "5023518",
-      "time": "2026-08-04 10:06:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AI語料板塊短線拉昇，貝瑞基因漲停】AI語料板塊短線拉昇，貝瑞基因漲停，普聯軟體、值得買、拓爾思、崑崙萬維、當虹科技等紛紛走高。"
-    },
-    {
-      "id": "5023517",
-      "time": "2026-08-04 10:04:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元在早盤交易中走弱至18,020。"
     }
   ]
 }
