@@ -1,7 +1,70 @@
 {
   "date": "2026-08-11",
-  "count": 1327,
+  "count": 1335,
   "items": [
+    {
+      "id": "5035242",
+      "time": "2026-08-11 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.04%， 5年期主力合約跌0.05%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "5035241",
+      "time": "2026-08-11 15:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哥倫比亞對原產於中國的檸檬酸啟動反傾銷調查】近日，哥倫比亞貿工旅遊部在官方公報釋出2026年第548號公告，應哥倫比亞生產商SUCROAL S.A.申請，對原產於中國的檸檬酸啟動反傾銷調查。本案傾銷調查期為2025年3月19日至2026年3月18日。涉案產品的哥倫比亞稅號為2918.14.00.00。公告自發布之日起生效。"
+    },
+    {
+      "id": "te:markets:574350",
+      "time": "2026-08-11 15:14:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Gains on Supply Concerns — Iron ore futures climbed above CNY 720 per ton, reaching near two-week highs as signs of tightening near-term supply and possible disruptions supported prices. Industry data showed global iron ore shipments declined by 1.38 million tons in the week through August 9 to around 32 million tons, while shipments arriving at Chinese ports dropped by 13.1 million tons to 18.9 million tons. Supply concerns also increased after more workers joined a strike at BHP’s Port Hedland iron ore export hub in Western Australia, although vessel loading operations have continued. Meanwhile, China imported 108.086 million tons of iron ore and concentrates in July, down 4.09% from June but up 3.5% from a year earlier, according to recent data. Figures released over the weekend also showed China’s consumer and producer inflation slowed in July, highlighting continued weakness in domestic demand."
+    },
+    {
+      "id": "5035240",
+      "time": "2026-08-11 15:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”過境後 寧波舟山港生產作業有序恢復】8月10日20時，隨著颱風“白海豚”過境後首艘大型集裝箱船——“誠達”輪平穩駛入港區，緩緩靠泊北侖第二集裝箱碼頭2號泊位，寧波舟山港外貿海運作業有序恢復。“誠達”輪船舶總長255米，本次靠泊期間，預計該輪將在寧波舟山港完成裝卸2232標準箱作業。為保障颱風後首艘大型船舶安全進港作業，寧波海事執法人員及時向船舶播報港區通航資訊、釋出安全提醒，動態關注周邊通航環境及水流變化，為船舶全程護航。（新華社）"
+    },
+    {
+      "id": "te:economy:574349",
+      "time": "2026-08-11 15:13:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Turkey Retail Sales Growth Eases in June — Retail sales in Turkey rose 11.8% year-on-year in June 2026, easing from a downwardly revised 12.8% increase in the previous month. Sales growth slowed for food, beverages, and tobacco (2.9% vs 8.8%) and automotive fuel (1.1% vs 2.8%). Meanwhile, non-food sales accelerated to 17.6% from 16.3%, supported by stronger demand for computers, peripheral equipment, software, books, and telecommunications products (28.8% vs 23.8%), pharmaceutical, medical, orthopedic, cosmetic, and personal care products (16.9% vs 12.6%), as well as mail-order and online sales (22.4% vs 13.0%). However, sales in textiles, clothing, and footwear sales moderated to 3.9% from 11.5%. On a seasonally adjusted monthly basis, retail sales increased 0.7%, slowing from a downwardly revised 2.1% rise in May."
+    },
+    {
+      "id": "5035239",
+      "time": "2026-08-11 15:13:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局：已結束對美國境內232221輛福特Flex車型的初步評估，該車型問題為B柱飾件可能在行駛過程中從車身脫落。"
+    },
+    {
+      "id": "5035238",
+      "time": "2026-08-11 15:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：‘簽署合作諒解備忘錄：協同外交與衛生，重建戰爭造成的破壞’。"
+    },
     {
       "id": "mkt:019fefa9-5f3d-7aab-8feb-42bc4ff4779a",
       "time": "2026-08-11 15:11:22",
@@ -64,6 +127,15 @@
         "國際"
       ],
       "text": "澤連斯基：從昨晚開始，我們一直在努力消除俄羅斯對扎波羅熱攻擊的後果。目前，該市已有6人死亡、19人受傷的報告。"
+    },
+    {
+      "id": "5035232",
+      "time": "2026-08-11 15:08:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美不斷收緊移民政策，今年以來吊銷17.5萬份簽證】美國國務院10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。宣告說，美國務院針對各類危害美國公民、宣揚暴力傷害美國人、組織非法生育旅遊、實施詐騙的犯罪分子吊銷簽證，並將動用“一切可用手段”打擊濫用美國簽證的人。（新華社）"
     },
     {
       "id": "mkt:019fefa6-2b8f-7aab-8feb-3654afb90c33",

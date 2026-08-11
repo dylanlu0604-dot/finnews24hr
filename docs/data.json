@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-11 15:12:11",
-  "count": 15874,
+  "updated": "2026-08-11 15:16:11",
+  "count": 15867,
   "items": [
+    {
+      "id": "5035242",
+      "time": "2026-08-11 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.15%， 10年期主力合約跌0.04%， 5年期主力合約跌0.05%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "5035241",
+      "time": "2026-08-11 15:14:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【哥倫比亞對原產於中國的檸檬酸啟動反傾銷調查】近日，哥倫比亞貿工旅遊部在官方公報釋出2026年第548號公告，應哥倫比亞生產商SUCROAL S.A.申請，對原產於中國的檸檬酸啟動反傾銷調查。本案傾銷調查期為2025年3月19日至2026年3月18日。涉案產品的哥倫比亞稅號為2918.14.00.00。公告自發布之日起生效。"
+    },
+    {
+      "id": "te:markets:574350",
+      "time": "2026-08-11 15:14:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Gains on Supply Concerns — Iron ore futures climbed above CNY 720 per ton, reaching near two-week highs as signs of tightening near-term supply and possible disruptions supported prices. Industry data showed global iron ore shipments declined by 1.38 million tons in the week through August 9 to around 32 million tons, while shipments arriving at Chinese ports dropped by 13.1 million tons to 18.9 million tons. Supply concerns also increased after more workers joined a strike at BHP’s Port Hedland iron ore export hub in Western Australia, although vessel loading operations have continued. Meanwhile, China imported 108.086 million tons of iron ore and concentrates in July, down 4.09% from June but up 3.5% from a year earlier, according to recent data. Figures released over the weekend also showed China’s consumer and producer inflation slowed in July, highlighting continued weakness in domestic demand."
+    },
+    {
+      "id": "5035240",
+      "time": "2026-08-11 15:14:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風“白海豚”過境後 寧波舟山港生產作業有序恢復】8月10日20時，隨著颱風“白海豚”過境後首艘大型集裝箱船——“誠達”輪平穩駛入港區，緩緩靠泊北侖第二集裝箱碼頭2號泊位，寧波舟山港外貿海運作業有序恢復。“誠達”輪船舶總長255米，本次靠泊期間，預計該輪將在寧波舟山港完成裝卸2232標準箱作業。為保障颱風後首艘大型船舶安全進港作業，寧波海事執法人員及時向船舶播報港區通航資訊、釋出安全提醒，動態關注周邊通航環境及水流變化，為船舶全程護航。（新華社）"
+    },
+    {
+      "id": "te:economy:574349",
+      "time": "2026-08-11 15:13:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Turkey Retail Sales Growth Eases in June — Retail sales in Turkey rose 11.8% year-on-year in June 2026, easing from a downwardly revised 12.8% increase in the previous month. Sales growth slowed for food, beverages, and tobacco (2.9% vs 8.8%) and automotive fuel (1.1% vs 2.8%). Meanwhile, non-food sales accelerated to 17.6% from 16.3%, supported by stronger demand for computers, peripheral equipment, software, books, and telecommunications products (28.8% vs 23.8%), pharmaceutical, medical, orthopedic, cosmetic, and personal care products (16.9% vs 12.6%), as well as mail-order and online sales (22.4% vs 13.0%). However, sales in textiles, clothing, and footwear sales moderated to 3.9% from 11.5%. On a seasonally adjusted monthly basis, retail sales increased 0.7%, slowing from a downwardly revised 2.1% rise in May."
+    },
+    {
+      "id": "5035239",
+      "time": "2026-08-11 15:13:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局：已結束對美國境內232221輛福特Flex車型的初步評估，該車型問題為B柱飾件可能在行駛過程中從車身脫落。"
+    },
+    {
+      "id": "5035238",
+      "time": "2026-08-11 15:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：‘簽署合作諒解備忘錄：協同外交與衛生，重建戰爭造成的破壞’。"
+    },
     {
       "id": "mkt:019fefa9-5f3d-7aab-8feb-42bc4ff4779a",
       "time": "2026-08-11 15:11:22",
@@ -64,6 +127,15 @@
         "國際"
       ],
       "text": "澤連斯基：從昨晚開始，我們一直在努力消除俄羅斯對扎波羅熱攻擊的後果。目前，該市已有6人死亡、19人受傷的報告。"
+    },
+    {
+      "id": "5035232",
+      "time": "2026-08-11 15:08:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美不斷收緊移民政策，今年以來吊銷17.5萬份簽證】美國國務院10日發表宣告說，自特朗普2025年1月開始其第二個總統任期以來，美國政府已吊銷逾17.5萬份非移民簽證。宣告說，大部分外籍人員簽證被吊銷的原因包括襲擊、酒後駕駛、盜竊和毒品犯罪，另有相當一部分簽證因魯莽駕駛、性犯罪、虐待兒童、欺詐和挪用公款等被吊銷。宣告說，美國務院針對各類危害美國公民、宣揚暴力傷害美國人、組織非法生育旅遊、實施詐騙的犯罪分子吊銷簽證，並將動用“一切可用手段”打擊濫用美國簽證的人。（新華社）"
     },
     {
       "id": "mkt:019fefa6-2b8f-7aab-8feb-3654afb90c33",
@@ -144468,138 +144540,6 @@
         "國際"
       ],
       "text": "【日產汽車全球設計高階副總裁阿爾拜薩將於10月卸任】日產汽車8月4日宣佈，公司全球設計高階副總裁阿方索·阿爾拜薩（Alfonso Albaisa）將於今年10月1日卸任，並擔任顧問至12月31日，屆時他將正式退休。現任高階設計總監馬修·韋弗（Matthew Weaver）將接替阿爾拜薩出任全球設計負責人。韋弗於2001年加入日產，曾參與研發逍客（Qashqai）、Juke以及其他在歐洲和日本市場的重要車型。"
-    },
-    {
-      "id": "5023913",
-      "time": "2026-08-04 15:16:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "可口可樂歐太平洋公司股價在業績公佈後下跌4%。"
-    },
-    {
-      "id": "5023912",
-      "time": "2026-08-04 15:16:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【如果業績持續增長 滙豐控股將考慮提高獎金池】滙豐控股集團行政總裁艾橋智表示，如果業績持續強勁增長，將考慮提高銀行家的獎金池。艾橋智在週二與媒體討論第二季度收益的電話會議上說道：“如果我們繼續看到這種勢頭延續到下半年，那麼我們肯定會考慮透過提高浮動薪酬池來獎勵同事們的出色表現。”"
-    },
-    {
-      "id": "te:markets:572412",
-      "time": "2026-08-04 15:16:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.37% Higher — The Shangai Composite Index rose 14 points or 0.37 percent on Tuesday to close at 3824 points. Leading the gains are China Fortune (6.60%), Sanan Optoelectron (3.76%) and Kangmei Pharma (2.17%). Top losers were Agricultural Bank of China (-3.92%), Great Wall Motor (-3.83%) and ICBC (-3.77%)."
-    },
-    {
-      "id": "mkt:019fcba1-1f14-7aab-8f67-a4c37c788abf",
-      "time": "2026-08-04 15:16:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reports Russian online retailer Wildberries expects its new warehouse in Kazakhstan to become operational in Q1 2027."
-    },
-    {
-      "id": "5023911",
-      "time": "2026-08-04 15:15:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海虹口北外灘地塊38.45億元底價成交】8月4日，上海七批次土拍正式開啟。其中，虹口北外灘綜合用地規劃建築面積106685平方米（商業55%，住宅30%，辦公15%），容積率7.3，建築限高249米，起始價38.45億元，起始樓面價36045元/平方米。最終青山實業以底價38.45億元競得該地塊。"
-    },
-    {
-      "id": "5023910",
-      "time": "2026-08-04 15:15:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯線上零售商Wildberries正在哈薩克建設26萬平方米的新倉庫容量。"
-    },
-    {
-      "id": "mkt:019fcba0-9aa1-7aab-8f67-9f9558d5e40b",
-      "time": "2026-08-04 15:15:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reports Russian online retailer Wildberries is building 260,000 sq m of new warehouse space in Kazakhstan."
-    },
-    {
-      "id": "5023909",
-      "time": "2026-08-04 15:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨收盤】 30年期主力合約漲0.18%， 10年期主力合約漲0.09%， 5年期主力合約漲0.07%， 2年期主力合約漲0.02%。"
-    },
-    {
-      "id": "5023908",
-      "time": "2026-08-04 15:14:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "現貨鈀金日內漲超2.00%，現報1289.74美元/盎司。"
-    },
-    {
-      "id": "mkt:019fcb9f-f3b6-7aab-8f67-92024ee1b02b",
-      "time": "2026-08-04 15:14:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium up more than 2.00% intraday, trading at $1,289.74/oz."
-    },
-    {
-      "id": "mkt:019fcb9f-012f-7aab-8f67-8c221f800c74",
-      "time": "2026-08-04 15:13:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Lijidian said the overall market environment remains favorable for semiconductor firms and it expects revenue and profit to be strong this year."
-    },
-    {
-      "id": "5023907",
-      "time": "2026-08-04 15:13:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "為保障套利指令平穩上線，上海期貨交易所將於2026年8月8日（週六）和8月15日（週六）開展全市場測試。"
-    },
-    {
-      "id": "5023906",
-      "time": "2026-08-04 15:13:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成都1宗宅地5.76億元底價成交】8月4日，成都出讓1宗崔家店24.55畝宅地，規劃建築面積38901.54平方米，容積率2.38，起拍樓面價14800元/平方米，摺合起始總價5.76億元。最終成華髮展和遠東宏信聯合體以樓面價14800元/平方米競得該地塊。"
-    },
-    {
-      "id": "5023905",
-      "time": "2026-08-04 15:13:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "力積電錶示，整體市場環境對半導體企業依然有利，預計今年營收與獲利將表現強勁。"
-    },
-    {
-      "id": "5023904",
-      "time": "2026-08-04 15:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【優刻得“算力出海解決方案”入選工信部典型案例】據優刻得訊息，近日，工信部組織開展的2025年度算力基礎設施典型案例遴選結果公佈，優刻得“面向中小企業的一站式跨境算力出海解決方案”入選。該方案以“基礎設施全球化、服務能力全鏈路、安全合規一體化”為核心理念，面向跨境電商、遊戲、智慧硬體、AI應用等行業，構建覆蓋資源、網路、安全、模型服務和行業應用的綜合能力矩陣。"
     }
   ]
 }
