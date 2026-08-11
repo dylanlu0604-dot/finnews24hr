@@ -1,7 +1,112 @@
 {
   "date": "2026-08-11",
-  "count": 706,
+  "count": 717,
   "items": [
+    {
+      "id": "5034879",
+      "time": "2026-08-11 09:55:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿達尼綠色能源：高塔姆·阿達尼需繳納600萬美元民事罰款，薩加爾·阿達尼需繳納1200萬美元民事罰款。"
+    },
+    {
+      "id": "5034878",
+      "time": "2026-08-11 09:55:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "mkt:019fee87-ebad-7aab-8fe4-7791b43e5350",
+      "time": "2026-08-11 09:55:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium touched $1,400/oz, up 1.38% intraday."
+    },
+    {
+      "id": "5034877",
+      "time": "2026-08-11 09:55:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金上漲1%，報每盎司4430.15美元。"
+    },
+    {
+      "id": "5034876",
+      "time": "2026-08-11 09:54:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "安靠科技（Amkor Technology）據悉正考慮出售其價值15億美元的中國子公司股份。"
+    },
+    {
+      "id": "mkt:019fee86-b142-7aab-8fe4-6be96be7d7d5",
+      "time": "2026-08-11 09:53:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "A-share power-grid equipment sector weakened in early trade; Jingquan Hua hit limit-down, while Beijing Kerui, Zhongneng Electric, Xintong Electronics and Hualing Cable fell more than 5%."
+    },
+    {
+      "id": "5034875",
+      "time": "2026-08-11 09:53:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4430美元/盎司，日內漲0.92%。"
+    },
+    {
+      "id": "5034874",
+      "time": "2026-08-11 09:53:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4490美元/盎司，日內漲1.59%。"
+    },
+    {
+      "id": "mkt:019fee86-3f15-7aab-8fe4-60a93a041fcf",
+      "time": "2026-08-11 09:53:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "China A-share compute-power leasing sector jumped intraday, led by Alibaba Cloud-linked names. Hanggang and Hongbo hit daily limit-up; Langyuan climbed over 10%. Jialitu, Meiliyun, Tongniu Information and DataPort also advanced."
+    },
+    {
+      "id": "5034873",
+      "time": "2026-08-11 09:52:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念異動拉昇 杭鋼股份、鴻博股份直線漲停】算力租賃概念盤中異動拉昇，阿里雲方向領漲，杭鋼股份、鴻博股份直線漲停，朗源股份漲超10%，佳力圖、美利雲、銅牛資訊、資料港等跟漲。"
+    },
+    {
+      "id": "5034872",
+      "time": "2026-08-11 09:52:15",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【裕信銀行與德國商業銀行據悉首次就監管控制變化正式磋商】知情人士稱，上週五，裕信銀行執行長Andrea Orcel與德國商業銀行執行長Bettina Orlopp通話，重點討論一旦歐洲央行將德國商業銀行視為裕信銀行的子公司、並要求實施合併監管後，將產生的會計、法律和風險管理影響。據悉，雙方還有數位其他高管參加了此次會議，為未來幾個月進一步磋商鋪平了道路。"
+    },
     {
       "id": "te:markets:574240",
       "time": "2026-08-11 09:51:42",
