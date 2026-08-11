@@ -1,7 +1,72 @@
 {
   "date": "2026-08-11",
-  "count": 896,
+  "count": 903,
   "items": [
+    {
+      "id": "te:economy:574270",
+      "time": "2026-08-11 12:08:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Malaysia Jobless Rate Holds Steady at 3% — Malaysia’s unemployment rate held steady at 3.0% in June 2026, unchanged from the previous month and remaining at its highest level since October 2025. The number of unemployed persons increased to 517.8 thousand from 513.4 thousand in the previous month, indicating continued softness in the labor market. Meanwhile, total employment was little changed at 16.83 million. The labor force was unchanged at 17.34 million, with the labor force participation rate remaining stable at 70.9%. The number of people outside the labor force was little changed at 7.11 million."
+    },
+    {
+      "id": "te:economy:574269",
+      "time": "2026-08-11 12:07:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Indonesia Retail Sales Fall the Least in 3 Months — Indonesia’s retail sales dropped 3.0% year-on-year in June 2026, easing from a 3.9% decline in the prior month and marking the mildest fall since the downturn began in April. The softer decrease reflected the initial impact of government support measures aimed at cushioning households from persistent cost pressures and encouraging spending. Sectoral performance stayed uneven: food, beverages and tobacco sales slipped 3.6% (vs -4.1% in May), clothing fell 3.1% (vs -12.0%), and information and communication equipment plunged 20.2% (vs -18.4%). Recreational goods dropped 6.2% after a slight gain previously, while fuel sales reversed into a 1.5% decline. In contrast, household equipment rebounded 2.8% (vs -0.9%), and automotive parts surged 18.8% (vs 11.2%). On a monthly basis, retail sales rose 0.7%, the first rise in three months. With fiscal support measures gaining traction, retail activity is expected to strengthen in July, offering tentative signs of stabilisation in consumer demand."
+    },
+    {
+      "id": "5035005",
+      "time": "2026-08-11 12:07:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風白海豚已減弱為熱帶低壓】據中央氣象臺訊息，8月11日11時，颱風“白海豚”已減弱為熱帶低壓，位於湖北黃岡境內。（中央氣象臺）"
+    },
+    {
+      "id": "5035004",
+      "time": "2026-08-11 12:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津海事局啟動轄區河道行洪洩洪四級響應】根據最新氣象資訊，受颱風“白海豚”殘渦北上影響，預計8月11日夜間至13日，天津將出現大到暴雨，局地特大暴雨，海河流域上游洩洪風險與颱風帶來的風雨影響持續疊加，為切實做好防禦工作，天津海事部門落實天津市防汛響應工作部署，於8月11日啟動轄區河道行洪洩洪四級響應。目前轄區旅遊客船、渡船、遊艇等各類涉客船舶已嚴格落實“應停盡停、應關盡關、應撤盡撤”要求，全部停航避洪。"
+    },
+    {
+      "id": "mkt:019feeff-9fb6-7aab-8fe5-fbc1d088c58d",
+      "time": "2026-08-11 12:05:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At 11:00 on Aug 11, China's Central Meteorological Observatory said Typhoon \"Baihaidun\" had weakened to a tropical depression and was located over Huanggang, Hubei province."
+    },
+    {
+      "id": "5035003",
+      "time": "2026-08-11 12:05:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵塔：2026年上半年淨利潤74.89億元，同比增長30.1%】中國鐵塔公告，2026年上半年營業收入486.93億元，同比下降1.8%。歸屬於本公司股東的利潤為74.89億元，同比增長30.1%。董事會決定派發中期股息每股人民幣0.19122元（稅前）。"
+    },
+    {
+      "id": "5035002",
+      "time": "2026-08-11 12:05:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "派傑投資將美國再保險集團目標價從261美元上調至274美元。"
+    },
     {
       "id": "5035001",
       "time": "2026-08-11 12:04:42",

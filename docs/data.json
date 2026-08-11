@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-11 12:05:28",
+  "updated": "2026-08-11 12:09:23",
   "count": 15818,
   "items": [
+    {
+      "id": "te:economy:574270",
+      "time": "2026-08-11 12:08:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "Malaysia Jobless Rate Holds Steady at 3% — Malaysia’s unemployment rate held steady at 3.0% in June 2026, unchanged from the previous month and remaining at its highest level since October 2025. The number of unemployed persons increased to 517.8 thousand from 513.4 thousand in the previous month, indicating continued softness in the labor market. Meanwhile, total employment was little changed at 16.83 million. The labor force was unchanged at 17.34 million, with the labor force participation rate remaining stable at 70.9%. The number of people outside the labor force was little changed at 7.11 million."
+    },
+    {
+      "id": "te:economy:574269",
+      "time": "2026-08-11 12:07:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Indonesia Retail Sales Fall the Least in 3 Months — Indonesia’s retail sales dropped 3.0% year-on-year in June 2026, easing from a 3.9% decline in the prior month and marking the mildest fall since the downturn began in April. The softer decrease reflected the initial impact of government support measures aimed at cushioning households from persistent cost pressures and encouraging spending. Sectoral performance stayed uneven: food, beverages and tobacco sales slipped 3.6% (vs -4.1% in May), clothing fell 3.1% (vs -12.0%), and information and communication equipment plunged 20.2% (vs -18.4%). Recreational goods dropped 6.2% after a slight gain previously, while fuel sales reversed into a 1.5% decline. In contrast, household equipment rebounded 2.8% (vs -0.9%), and automotive parts surged 18.8% (vs 11.2%). On a monthly basis, retail sales rose 0.7%, the first rise in three months. With fiscal support measures gaining traction, retail activity is expected to strengthen in July, offering tentative signs of stabilisation in consumer demand."
+    },
+    {
+      "id": "5035005",
+      "time": "2026-08-11 12:07:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颱風白海豚已減弱為熱帶低壓】據中央氣象臺訊息，8月11日11時，颱風“白海豚”已減弱為熱帶低壓，位於湖北黃岡境內。（中央氣象臺）"
+    },
+    {
+      "id": "5035004",
+      "time": "2026-08-11 12:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天津海事局啟動轄區河道行洪洩洪四級響應】根據最新氣象資訊，受颱風“白海豚”殘渦北上影響，預計8月11日夜間至13日，天津將出現大到暴雨，局地特大暴雨，海河流域上游洩洪風險與颱風帶來的風雨影響持續疊加，為切實做好防禦工作，天津海事部門落實天津市防汛響應工作部署，於8月11日啟動轄區河道行洪洩洪四級響應。目前轄區旅遊客船、渡船、遊艇等各類涉客船舶已嚴格落實“應停盡停、應關盡關、應撤盡撤”要求，全部停航避洪。"
+    },
+    {
+      "id": "mkt:019feeff-9fb6-7aab-8fe5-fbc1d088c58d",
+      "time": "2026-08-11 12:05:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "At 11:00 on Aug 11, China's Central Meteorological Observatory said Typhoon \"Baihaidun\" had weakened to a tropical depression and was located over Huanggang, Hubei province."
+    },
+    {
+      "id": "5035003",
+      "time": "2026-08-11 12:05:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵塔：2026年上半年淨利潤74.89億元，同比增長30.1%】中國鐵塔公告，2026年上半年營業收入486.93億元，同比下降1.8%。歸屬於本公司股東的利潤為74.89億元，同比增長30.1%。董事會決定派發中期股息每股人民幣0.19122元（稅前）。"
+    },
+    {
+      "id": "5035002",
+      "time": "2026-08-11 12:05:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "派傑投資將美國再保險集團目標價從261美元上調至274美元。"
+    },
     {
       "id": "5035001",
       "time": "2026-08-11 12:04:42",
@@ -143920,66 +143985,6 @@
         "其他"
       ],
       "text": "【中企承建非洲首條沙漠過載鐵路 “三電”工程啟動】非洲首條沙漠過載鐵路——阿爾及利亞西部鐵路礦業線2日正式啟動通訊、訊號及電力系統工程建設。該鐵路礦業線全長950公里，中國鐵建與當地國有企業承建其中的575公里。這是中企在阿承建的最大基建工程。專案自今年2月通車以來，完善了阿爾及利亞國家鐵路網，助力阿西南部省份互聯互通和經濟發展。（新華社）"
-    },
-    {
-      "id": "mkt:019fcaf5-dc1e-7aab-8f63-ee55712d794f",
-      "time": "2026-08-04 12:08:57",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【South Korea to cover up to 100% of infrastructure costs for designated semiconductor clusters】South Korea will use national fiscal funds to cover up to 100% of power, water and related infrastructure costs for areas designated as semiconductor industry clusters, under implementing rules of the Special Semiconductor Act. The rules specify governance of the Special Committee on Semiconductor Industry Competitiveness, cluster designation procedures and support measures, talent-development programs, and operation of a dedicated industry-competitiveness account. Central and local governments will jointly finance industrial infrastructure at a minimum 50% share of project costs and up to 100%. The government will also prioritise recruitment matching, local specialist training and job re-skilling for semiconductor firms outside the Seoul capital region."
-    },
-    {
-      "id": "5023638",
-      "time": "2026-08-04 12:08:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【城堡證券預計AI熱潮下的晶片需求將掀起5000億美元債務融資熱潮】信貸市場對資料中心創紀錄的融資活動可能已感到厭倦，但科技公司尚未停下腳步。城堡證券預測，截止到2028年，它們還將在公開市場和私募市場進行超過5000億美元的債務融資，為人工智慧(AI)園區建設所需晶片提供資金。該公司投資級債券部門首席分析師Jeff Eason表示，這一金額相當於彭博美國投資級債券指數總規模的5%以上。他預計，大部分所發債券的期限將較短，約三至五年，匹配晶片的使用壽命，其中一部分可能會以144A私募形式發行。Eason指出，這一預測仍可能偏保守。"
-    },
-    {
-      "id": "mkt:019fcaf5-0834-7aab-8f63-e3b7c9fba572",
-      "time": "2026-08-04 12:08:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zelenskiy relieves Ukraine's ambassador to the U.S.】The Ukrainian presidential office said on the 3rd that President Zelenskiy had relieved Ukraine’s ambassador to the U.S., Olyga Stefanishina, of her duties. Stefanishina was appointed to the post in Aug. 2025; she said on social media she requested the relief and had completed the main tasks she set out to achieve on taking up the post."
-    },
-    {
-      "id": "5023637",
-      "time": "2026-08-04 12:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，希音（SHEIN）計劃在預計於8月份進行的香港首次公開募股（IPO）中尋求300億至400億美元估值。"
-    },
-    {
-      "id": "5023636",
-      "time": "2026-08-04 12:06:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "雅馬哈發動機株式會社：目標在2027財年實現盈利大幅改善，並在2028財年使OLV業務恢復盈利。"
-    },
-    {
-      "id": "5023635",
-      "time": "2026-08-04 12:06:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【原成都城投君茂置業有限公司總經理雷洪接受監察調查】8月4日，據“中化清風線上”微信公眾號訊息，中國中化控股有限責任公司下屬中國金茂所屬原成都城投君茂置業有限公司總經理雷洪涉嫌嚴重違法，目前正接受四川省成都市龍泉驛區監察委員會監察調查。"
-    },
-    {
-      "id": "5023634",
-      "time": "2026-08-04 12:05:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構釋出二季度DRAM市場格局 長鑫儲存增長迅速】8月4日，Counterpoint Research釋出最新全球儲存追蹤報告顯示，2026年第二季度，三星以39%的市場份額重回全球DRAM市場榜首，恢復至2024年水平，SK海力士、美光緊隨其後，市場份額分別26%、25%。而長鑫儲存成為全球增長最快的DRAM廠商，營收同比增長716%，主要受益於中國市場傳統DRAM需求旺盛及產能持續擴張。Counterpoint Research研究副總裁Neil Shah表示，2026年下半年，如果長鑫儲存能夠擴大產能，滿足國內外市場需求，其市場份額有望進一步提升，市場格局也可能隨之發生變化。"
     }
   ]
 }
