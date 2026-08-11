@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-12 04:37:04",
-  "count": 15620,
+  "updated": "2026-08-12 04:40:53",
+  "count": 15615,
   "items": [
+    {
+      "id": "5036384",
+      "time": "2026-08-12 04:39:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "CoreWeave盤後漲幅擴大至10%。"
+    },
+    {
+      "id": "mkt:019ff28c-fec2-7aab-8ffb-12f8f759cb92",
+      "time": "2026-08-12 04:39:14",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) U.S. shares rose 10% in after-hours trading."
+    },
+    {
+      "id": "mkt:019ff28a-c4db-7aab-8ffb-092b0e5a5875",
+      "time": "2026-08-12 04:36:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "American Petroleum Institute (API) weekly data: U.S. refinery crude runs +34,000 bpd in the week to Aug. 7; prior -112,000 bpd."
+    },
     {
       "id": "mkt:019ff28a-8d49-7aab-8ffb-03d339e76488",
       "time": "2026-08-12 04:36:34",
@@ -142253,75 +142284,6 @@
         "公司"
       ],
       "text": "Pinterest執行長：藉助開放模型，我們實現的每筆交易成本不到同類封閉專有模型成本的8%。"
-    },
-    {
-      "id": "mkt:019fce81-9183-7aab-8f77-2f8de5f11427",
-      "time": "2026-08-05 04:40:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk said they have made rapid progress on Grok."
-    },
-    {
-      "id": "5025321",
-      "time": "2026-08-05 04:40:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國導彈庫存接近臨界水平】據訊息人士稱，自伊朗戰爭爆發以來，美國已消耗近80%的薩德攔截彈以及約50%的愛國者導彈。美軍高階指揮官警告，五角大樓導彈庫存已處於“危險低位”，引發外界對美軍應對未來衝突戰備能力的擔憂。依賴美國防空體系的海灣國家盟友同樣擔心，導彈短缺或將削弱其抵禦伊朗潛在導彈與無人機襲擊的防護能力。"
-    },
-    {
-      "id": "5025320",
-      "time": "2026-08-05 04:39:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：星鏈在10年內為全球大部分地區提供網際網路服務“並非不可能”。"
-    },
-    {
-      "id": "5025319",
-      "time": "2026-08-05 04:39:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思與副部長範伯格週二上午向參議院共和黨議員舉行涉密簡報會。"
-    },
-    {
-      "id": "5025318",
-      "time": "2026-08-05 04:38:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SpaceX預計發射的V3衛星數量將比V2多一個數量級。"
-    },
-    {
-      "id": "5025317",
-      "time": "2026-08-05 04:37:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：星鏈V3衛星的能力比V2高出一個數量級。"
-    },
-    {
-      "id": "mkt:019fce7e-9f94-7aab-8f77-274f9338021d",
-      "time": "2026-08-05 04:37:12",
-      "tags": [
-        "MKT News",
-        "TSLA.O",
-        "Impact mixed"
-      ],
-      "text": "Musk said we encourage competitors to copy us."
-    },
-    {
-      "id": "mkt:019fce7e-9985-7aab-8f77-1f41f2901ced",
-      "time": "2026-08-05 04:37:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said SpaceX’s Starship aims to carry more than 1 mln tonnes of payload to orbit annually, with potential to reach 10 mln tonnes over time."
     }
   ]
 }

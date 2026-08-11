@@ -1,7 +1,38 @@
 {
   "date": "2026-08-12",
-  "count": 336,
+  "count": 339,
   "items": [
+    {
+      "id": "5036384",
+      "time": "2026-08-12 04:39:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "CoreWeave盤後漲幅擴大至10%。"
+    },
+    {
+      "id": "mkt:019ff28c-fec2-7aab-8ffb-12f8f759cb92",
+      "time": "2026-08-12 04:39:14",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) U.S. shares rose 10% in after-hours trading."
+    },
+    {
+      "id": "mkt:019ff28a-c4db-7aab-8ffb-092b0e5a5875",
+      "time": "2026-08-12 04:36:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "American Petroleum Institute (API) weekly data: U.S. refinery crude runs +34,000 bpd in the week to Aug. 7; prior -112,000 bpd."
+    },
     {
       "id": "mkt:019ff28a-8d49-7aab-8ffb-03d339e76488",
       "time": "2026-08-12 04:36:34",
