@@ -1,7 +1,49 @@
 {
   "date": "2026-08-12",
-  "count": 100,
+  "count": 105,
   "items": [
+    {
+      "id": "5036268",
+      "time": "2026-08-12 00:34:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：ChatGPT廣告現已登陸英國、墨西哥、巴西、日本、韓國。"
+    },
+    {
+      "id": "5036267",
+      "time": "2026-08-12 00:34:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：今年將繼續向更多市場拓展業務。"
+    },
+    {
+      "id": "5036266",
+      "time": "2026-08-12 00:34:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）目前預計，2027年布倫特原油現貨均價將為每桶69.39美元，此前的預測值為每桶64.76美元。"
+    },
+    {
+      "id": "mkt:019ff1aa-c976-7aab-8ff7-b63e6256cd30",
+      "time": "2026-08-12 00:32:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Information reports OpenAI special projects head and former chief operating officer Brad Lightcap is set to depart the company."
+    },
+    {
+      "id": "5036265",
+      "time": "2026-08-12 00:32:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署(EIA)目前預計，2027年美國WTI原油現貨均價為每桶65.39美元，此前預測為每桶60.76美元。"
+    },
     {
       "id": "5036264",
       "time": "2026-08-12 00:29:40",
