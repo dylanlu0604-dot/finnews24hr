@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-11 18:29:54",
+  "updated": "2026-08-11 18:33:46",
   "count": 15865,
   "items": [
+    {
+      "id": "te:economy:574418",
+      "time": "2026-08-11 18:33:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Latvia Trade Deficit Widens in June — Latvia’s trade deficit widened slightly to EUR 476 million in June 2026 from EUR 474.2 million in the same month a year earlier. Exports jumped 18.6% year-on-year to EUR 1,695.6 million, driven largely by higher shipments of minerals fuels, oils, and products of their distillation (+42.8%), pharmaceutical products (+34.5%), and electrical machinery and equipment (+27.8%). By destination, exports rose to EU countries (19.0%), CIS countries (27.5%), and other countries (14.7%). Meanwhile, imports grew by 14.1% to EUR 2,171.6 million, supported by increased purchases of iron and steel (+42.7%), vehicles other than railway or tramway rolling stock, and parts and accessories thereof (+25.7%), and plastics and articles thereof (+21.9%). Imports from EU countries (13.4%) and other countries (19.5%) saw gains, while purchases from CIS countries declined by 8.6%. In the January–June period, the country’s cumulative trade deficit totaled EUR 1,959.8 million."
+    },
+    {
+      "id": "mkt:019ff061-430b-7aab-8fef-aeb1d5efadf4",
+      "time": "2026-08-11 18:32:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent and U.S. crude pared some gains. A Qatari government spokesman said talks between Oman and Iran have entered a senior-level stage."
+    },
+    {
+      "id": "te:economy:574417",
+      "time": "2026-08-11 18:31:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Latvia Annual Inflation Slows in July — Latvia’s annual inflation rate eased to 2.6% in July 2026 from 3.4% in June, the lowest since February. The slowdown was mainly driven by a sharper decline in food prices, which fell 3.1% after a 0.9% drop in June. Inflation also eased for housing and utilities (6.8% vs 7.2%), transport (4.8% vs 7.1%), restaurants and hotels (6.9% vs 7.9%), healthcare (3.8% vs 4%), information and communications (1.5% vs 2.1%) and furnishings (1.1% vs 1.4%). Meanwhile, inflation stood at 4.8% for recreation, sports and culture and 3.5% for education. In contrast, price growth accelerated for insurance and financial services (5.9% vs 5.2%) and alcoholic beverages and tobacco (1.1% vs 0.9%). On a monthly basis, consumer prices fell 0.7%, following a flat reading in June."
+    },
+    {
+      "id": "5035739",
+      "time": "2026-08-11 18:31:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SEA LTD ADR盤前股價上漲5%，此前該公司公佈第二季度營收超出預期。"
+    },
+    {
+      "id": "mkt:019ff060-535a-7aab-8fef-a124e75dffdd",
+      "time": "2026-08-11 18:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar foreign ministry spokesperson said Qatar supports any measures that ensure security and freedom of navigation in the Strait of Hormuz and prevent the waterway from being used as a tool of political pressure."
+    },
+    {
+      "id": "5035738",
+      "time": "2026-08-11 18:30:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "超大規模資料董事會正考慮所有能最大化股東價值的方案，其中包括出售其位於密歇根州的資料中心的可能性。"
+    },
+    {
+      "id": "5035737",
+      "time": "2026-08-11 18:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【碳酸鋰現貨成交偏弱但遠端預期修復 預計下半年逐月去庫】碳酸鋰短期在13-16萬元/噸區間震盪。現貨成交偏弱，但遠端預期修復，月間價差收窄。供給端生產去庫、貿易累庫，倉單高位壓制反彈；8月排產環比增加。需求端鐵鋰訂單飽滿，電池排產走高，步入旺季備貨週期。政策方面，9月起鋰電池徵收消費稅，長期將抬升成本並加速產能出清。預計下半年逐月去庫，年底庫銷比下行。 (Mysteel)"
+    },
+    {
+      "id": "te:markets:574416",
+      "time": "2026-08-11 18:30:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.49% Lower — The SENSEX Index decreased 388 points or 0.49 percent on Tuesday to close at 78154 points. The decline was led by Nestle India (-2.32%), UltraTech Cement (-2.23%) and Indusind Bank (-1.79%). On the upside, the strongest performers were Tata Consultancy (0.68%), Infosys (0.65%) and HCL Tech (0.60%)."
+    },
+    {
+      "id": "5035736",
+      "time": "2026-08-11 18:30:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晉西車軸：2026年上半年淨利潤1977.5萬元，同比增長42.26%】晉西車軸公告，2026年上半年營業收入6.63億元，同比增長9.11%。歸屬於上市公司股東的淨利潤1977.5萬元，同比增長42.26%；扣除非經常性損益的淨利潤202.83萬元，上年同期為-80.8萬元。"
+    },
+    {
+      "id": "5035735",
+      "time": "2026-08-11 18:30:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "光大銀行：本行執行董事、副行長楊兵兵先生因工作調整向本行董事會提交辭呈，辭去本行執行董事，董事會社會責任、普惠金融發展和消費者權益保護委員會委員及副行長職務。"
+    },
+    {
+      "id": "5035734",
+      "time": "2026-08-11 18:29:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【加拿大一省野火失控，逾2萬人撤離 加防長：軍方已進入待命狀態】據美聯社報道，加拿大軍隊當地時間10日已進入待命狀態，準備協助撲滅該國不列顛哥倫比亞省內的致命野火。此前，一名女子已在災情中死亡，逾2萬人連夜撤離家園。 加拿大不列顛哥倫比亞省境內野火快速蔓延，當地政府8日宣佈全省進入緊急狀態。疏散令涵蓋薩默蘭、皮奇蘭等多個地區，逾2萬人連夜逃命。美聯社在11日的最新報道中稱，這場野火被稱為“禿山野火”，至今仍未得到控制。不列顛哥倫比亞省相關機構表示，此次火災面積已擴大至約60平方英里（約155平方公里）。 美聯社報道稱，加拿大國防部長戴維·麥金蒂表示，加拿大武裝部隊與省政府和聯邦政府官員保持密切聯絡，如果不列顛哥倫比亞省正式請求援助，加拿大武裝部隊已做好準備。（環球網）"
+    },
     {
       "id": "mkt:019ff05e-7b46-7aab-8fef-99213e776607",
       "time": "2026-08-11 18:29:11",
@@ -144409,106 +144516,6 @@
         "其他"
       ],
       "text": "【青島出海中心正式啟動】月3日上午，青島市商務局聯合市北區政府舉辦青島出海中心啟動儀式。當日，青島出海中心與首批6家合作企業完成入駐簽約，並迎來首批6家專業服務機構入駐。作為服務企業全球化發展的開放型賦能平臺，青島出海中心將圍繞企業出海過程中面臨的市場準入、合規運營、本地化營銷、品牌建設和跨境協同管理等多重挑戰，聯動政府部門、平臺機構、企業及微軟、藍色游標等生態夥伴，藉助微軟廣告的技術、平臺及開放生態資源，致力於打造成為山東省及沿黃經濟帶企業連結全球市場的重要樞紐與“一站式”出海賦能平臺。（青島日報）"
-    },
-    {
-      "id": "5024426",
-      "time": "2026-08-04 18:33:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡特彼勒公司：預計2026財年銷售額及收入較2025財年將實現百分之十幾到接近20%的增長。"
-    },
-    {
-      "id": "te:markets:572502",
-      "time": "2026-08-04 18:33:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Tin Rises to 2-Month High — Tin futures in the UK rose to $55,450 per tonne in August, the highest since June, benefiting from long positions in AI infrastructure and limited supply. Equities for chip producers and data center developers remained under pressure in the US and Korea, but Chinese investors maintained their bullish calls on the sector after CXMT's stellar IPO. The movements reflect long bets on datacenter development, an increasing source of tin demand due to its soldering utility. Industry players forecasting that tin demand in AI servers is due to triple by 2030. Meanwhile, supply from major producer Indonesia remained low as Jakarta pulled back on the issuance of export licenses. Exports out of the country totaled 3,000 tonnes in June, a 33% decline from the previous year. On top of that, Jakarta further tightened mining permits and seized 500 tonnes of metal from mines without licences."
-    },
-    {
-      "id": "mkt:019fcc54-4975-7aab-8f6b-db028516595a",
-      "time": "2026-08-04 18:31:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China launches 23 LEO satellites for satellite-internet constellation】On the 4th at 16:52, China launched 23 low-Earth-orbit satellites for a satellite-internet constellation using a Long March-8A rocket from the Hainan commercial space launch site; all satellites reached their planned orbit and the mission was successful."
-    },
-    {
-      "id": "5024424",
-      "time": "2026-08-04 18:31:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國成功發射衛星網際網路低軌23組衛星】4日16時52分，我國在海南商業航天發射場使用長征八號甲運載火箭，成功將衛星網際網路低軌23組衛星發射升空，衛星順利進入預定軌道，發射任務獲得圓滿成功。（新華社）"
-    },
-    {
-      "id": "te:markets:572501",
-      "time": "2026-08-04 18:31:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Duke Energy earnings above expectations at 1.43 USD — Duke Energy (DUK) released earnings per share at 1.43 USD, compared to market expectations of 1.32 USD."
-    },
-    {
-      "id": "5024423",
-      "time": "2026-08-04 18:31:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡特彼勒股價上漲5.8%，此前該公司公佈第二季度營收超出預期。"
-    },
-    {
-      "id": "5024422",
-      "time": "2026-08-04 18:31:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡特彼勒第二季度調整後每股收益 8.17 美元，預計 6.17 美元。"
-    },
-    {
-      "id": "5024421",
-      "time": "2026-08-04 18:30:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構： 截止到2026年6月全網月活躍使用者規模達到12.82億】QuestMobile資料顯示，截止到2026年6月，全網月活躍使用者規模達到12.82億，同比增長1.2%；同時，使用者黏性持續增長，全網使用者月人均使用時長及次數分別為189.3小時和2691次，同比分別增長了7.4%、3.1%。這當中，45歲以上使用者佔比達到39.5%，三線、四線使用者比例佔比達到41.5%，同比分別增長了2.4%和0.7%，成為使用者結構性變化的關鍵因素。2026年6月，騰訊控股、阿里巴巴、抖音集團企業去重流量分別為12.81億、12.65億、12.59億，穩居第一陣營；百度集團、京東、螞蟻集團、拼多多、美團企業去重流量分別為11.01億、10.66億、9.55億、8.92億、8.51億，構成了第二陣營。"
-    },
-    {
-      "id": "5024420",
-      "time": "2026-08-04 18:30:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：默克公司預計本財年銷售額為663億美元至673億美元，此前預測為658億美元至670億美元。"
-    },
-    {
-      "id": "te:markets:572500",
-      "time": "2026-08-04 18:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The SENSEX Index Closes 0.40% Lower — The SENSEX Index decreased 314 points or 0.40 percent on Tuesday to close at 78325 points. The decline was led by Hindustan Unilever (-2.67%), Nestle India (-2.61%) and NTPC (-2.55%). On the upside, the strongest performers were Eternal Limited (0.34%)."
-    },
-    {
-      "id": "5024419",
-      "time": "2026-08-04 18:30:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：全球基金在交易日前淨買入價值143億盧比的印度股票。"
     }
   ]
 }
