@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-11 11:25:33",
-  "count": 15825,
+  "updated": "2026-08-11 11:29:29",
+  "count": 15828,
   "items": [
+    {
+      "id": "5034967",
+      "time": "2026-08-11 11:27:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【禾望電氣等在新疆成立新公司 含電氣裝置銷售業務】企查查APP顯示，近日，禾望電氣（新疆）有限公司成立，法定代表人為楊湘，註冊資本為2000萬元，經營範圍包含電氣裝置銷售；電器輔件銷售；機械電氣裝置銷售；風電場相關裝備銷售；風電場相關係統研發等。企查查股權穿透顯示，該公司由禾望電氣全資子公司深圳市禾望科技有限公司等共同持股。"
+    },
+    {
+      "id": "5034966",
+      "time": "2026-08-11 11:27:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報901.00元。"
+    },
+    {
+      "id": "mkt:019feedc-89d5-7aab-8fe5-9206aa909c54",
+      "time": "2026-08-11 11:27:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China Index Academy: Jan–Jul nationwide judicial-auction residential sales +42.7% YoY; avg price -9.1%】China Index Academy data show Jan–Jul nationwide judicial-auction residential listings 245,000 units, up 23.1% YoY; sold units 89,000, up 42.7% YoY. Clearance rate 36.2%, up 4.97 ppt YoY. Total transaction value 96.98 bln yuan, up 21.04% YoY. Average transaction price 8,081 yuan/sq m, down 9.1% YoY."
+    },
+    {
+      "id": "5034965",
+      "time": "2026-08-11 11:27:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中指研究院：前7個月全國法拍住宅成交同比增長超四成】中指研究院釋出的資料顯示，1—7月全國法拍住宅掛拍房源數量24.5萬套，同比增加23.1%；成交拍品8.9萬套，同比增加42.7%；清倉率36.2%，較上年提升4.97個百分點；成交總金額969.75億元，同比增加21.04%。1—7月法拍住宅成交均價8081元/㎡，同比下降9.1%。"
+    },
+    {
+      "id": "te:markets:574264",
+      "time": "2026-08-11 11:26:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Extends Strength Despite Ample Supply — Malaysian palm oil futures pushed higher, hovering above MYR 4,740 per tonne and marking the strongest level in more than two weeks, as a softer ringgit boosted export competitiveness and firmer palm olein prices on the Dalian exchange also lent support. Export estimates reinforced the bullish tone, with cargo surveyors reporting Malaysian palm oil shipments increased between 2.6% and 14.8% in the first 10 days of August. Demand prospects in top consumer India also improved, with July edible oil imports climbing to a 10-month high as refiners stepped up palm oil and soyoil purchases ahead of the festive season. However, gains were capped by signs of ample supply. Malaysia’s July inventories rose 3.32% month-on-month to 2.63 million tonnes, while production jumped 9.41% to 1.79 million tonnes. Meanwhile, in China, another key buyer, both consumer and producer price inflation eased in July, underscoring weak domestic demand that could limit further upside in palm oil."
+    },
+    {
+      "id": "5034964",
+      "time": "2026-08-11 11:25:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2163億元。"
+    },
     {
       "id": "mkt:019feed9-e10f-7aab-8fe5-8af4ca45d816",
       "time": "2026-08-11 11:24:44",
@@ -144024,36 +144083,6 @@
         "MKT News"
       ],
       "text": "【Russia's domestically produced MC-21-310 completes maiden flight】Russia's Industry and Trade Ministry said on the 3rd that a fully domestically produced MC-21-310 completed its maiden flight at the Irkutsk aircraft plant airfield. The flight lasted 1 hour 23 minutes, reached 6,000 meters and a maximum speed of 600 km/h; all planned flight objectives were met. Russian media report the type is expected to receive airworthiness certification by end-2027."
-    },
-    {
-      "id": "mkt:019fcad0-bf25-7aab-8f63-620b187fbf02",
-      "time": "2026-08-04 11:28:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister KATAYAMA said she had nothing further to add on Japan-US joint foreign-exchange intervention."
-    },
-    {
-      "id": "mkt:019fcacf-dd22-7aab-8f63-5c0db4a05c17",
-      "time": "2026-08-04 11:27:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "【South Korea leveraged ETF volumes plunge as new rules curb speculation】South Korean regulators' measures to curb leveraged-ETF demand that recently amplified market swings have sharply reduced trading in leveraged ETFs tied to the country's two major chip firms. The KODEX single-stock leveraged ETF tracking SK Hynix, one of South Korea's largest single-stock leveraged ETFs, saw volume fall to 59.0 mln shares on Monday, the lowest since June 4; a Samsung Electronics-linked leveraged ETF also logged its lowest volume since its late-May launch. NH Investment Securities Korea equity sales assistant Peter Park said speculative leveraged activity in major tech names has been suppressed on both rallies and sell-offs: investors can sell existing positions freely, but new purchases face high cash-deposit requirements, effectively ending retail speculative leverage."
-    },
-    {
-      "id": "5023596",
-      "time": "2026-08-04 11:26:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月天氣最新預測：將有2到3個颱風登陸或明顯影響我國】中國氣象局召開釋出會，會上釋出了7月全國天氣氣候特徵以及8月氣候趨勢預測及氣象服務提示。降水方面：東北地區、華北東部、華東大部、華中南部、華南、西南地區南部、西藏西部、新疆西部等地降水較常年同期偏多，全國其餘地區降水接近常年同期到偏少。預計有6次明顯降水天氣過程，發生的時段分別為8月3日—6日、8日—10日、12日—15日、18日—21日、24日—25日和30日—31日。氣溫方面：全國大部地區氣溫較常年同期偏高，其中內蒙古中西部、北京、天津、河北中西部、山西、山東、江蘇北部、安徽北部、河南、湖北中西部、四川中北部、重慶、西藏中北部、青海、甘肅、寧夏、陝西、新疆等地氣溫偏高1～2℃。預計有4次明顯高溫過程影響我國，發生的時段分別為8月7日—9日、11日—14日、22日—25日和29日—31日。颱風方面：西北太平洋和南海海域有6～7個颱風生成，較常年同期（5.6個）偏多；有2～3個颱風登陸或明顯影響我國，接近常年同期（2.3個）；強度總體偏強，存在較強颱風北上影響我國北方地區的風險。"
     }
   ]
 }
