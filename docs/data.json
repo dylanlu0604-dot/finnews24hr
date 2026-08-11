@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-12 03:31:33",
+  "updated": "2026-08-12 03:35:20",
   "count": 15646,
   "items": [
+    {
+      "id": "mkt:019ff250-2576-7aab-8ff9-f280336ecd93",
+      "time": "2026-08-12 03:32:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CME, Silicon Data to launch ComputeFutures on Oct. 5】CME Group and Silicon Data will launch ComputeFutures on Oct. 5, offering two contracts—Silicon Data H100 Lease Index futures and Silicon Data B200 Lease Index futures—that track hourly rental-cost indices for GPUs. The products are aimed at providing hedging and investment tools for firms seeking to manage compute costs. Contracts will be listed on CME and governed by NYMEX rules, effective only after regulatory approval."
+    },
+    {
+      "id": "mkt:019ff24f-a4ad-7aab-8ff9-ef5a12718fb0",
+      "time": "2026-08-12 03:32:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Houthi movement says it struck multiple Saudi-linked military targets in Yemen】Houthi spokesman Yahya Sarea said on the 11th the movement deployed large numbers of ballistic missiles and unmanned aerial vehicles to hit Saudi-supported personnel concentrations, weapons depots and command posts in the Mocha area and the Tadaween military base in Marib province. He said the strikes \"precisely hit targets,\" causing dozens of casualties including Saudi personnel, and added that Saudi military buildups aim to escalate the situation and control Yemen; the Houthis will continue to strike such positions."
+    },
     {
       "id": "mkt:019ff24e-38f8-7aab-8ff9-e448401f3c62",
       "time": "2026-08-12 03:30:40",
@@ -142529,23 +142548,6 @@
         "WBD.O"
       ],
       "text": "A judge has scheduled a trial for March 2027 to hear a challenge to Paramount (PSKY.O)'s acquisition of Warner Bros. Discovery (WBD.O)."
-    },
-    {
-      "id": "5025257",
-      "time": "2026-08-05 03:32:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：每顆星智衛星都將搭載英偉達Rubin GPU和Vera CPU，實現資料中心級太空計算能力。"
-    },
-    {
-      "id": "5025256",
-      "time": "2026-08-05 03:32:31",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX正與英偉達合作開發「星智AI1」（Starmind AI1）衛星計算載荷。"
     }
   ]
 }
