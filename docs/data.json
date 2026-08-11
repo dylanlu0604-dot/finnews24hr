@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-11 20:21:49",
-  "count": 15689,
+  "updated": "2026-08-11 20:25:48",
+  "count": 15695,
   "items": [
+    {
+      "id": "mkt:019ff0c8-736d-7aab-8ff1-b60a248d7231",
+      "time": "2026-08-11 20:24:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, US officials said a US military helicopter fired at the rudder of a Panama‑flagged vessel after the ship's crew ignored warnings from US personnel."
+    },
+    {
+      "id": "mkt:019ff0c8-4773-7aab-8ff1-ad66b6f099b4",
+      "time": "2026-08-11 20:24:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Inflation data key for markets; US stocks hold near highs awaiting Fed cues】US equity futures were slightly higher in pre-market trade while oil pared earlier gains after Pakistan signaled a near-term US‑Iran agreement that could ease energy-market tensions. Traders await key inflation data for guidance on Fed policy. Capital.com senior market analyst Daniela Hathorn said: \"Investors are increasingly pricing a scenario in which inflation continues to slow, the Fed stays patient, and earnings growth supports elevated valuations; a soft CPI would reinforce that narrative and extend the rally, while a hotter-than-expected print would lift Treasury yields and the dollar and force markets to reassess recent optimism on policy and valuations.\""
+    },
+    {
+      "id": "5035941",
+      "time": "2026-08-11 20:24:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員訊息：美國軍用直升機向這艘懸掛巴拿馬國旗船隻的舵開火，此前船員無視美方人員的警告。"
+    },
+    {
+      "id": "mkt:019ff0c7-91c3-7aab-8ff1-a556b097a281",
+      "time": "2026-08-11 20:23:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing shows the Swiss National Bank reported holding 1.5 million Class A shares of SpaceX (SPCX.O) as of June 30."
+    },
+    {
+      "id": "mkt:019ff0c6-a744-7aab-8ff1-99296b19034f",
+      "time": "2026-08-11 20:22:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Wall Street Journal cites US officials saying US military fired on a Panama-flagged vessel attempting to break an Iranian port blockade."
+    },
+    {
+      "id": "5035940",
+      "time": "2026-08-11 20:22:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國向一艘破壞其對伊朗封鎖的懸掛巴拿馬國旗船隻開火。"
+    },
+    {
+      "id": "5035939",
+      "time": "2026-08-11 20:22:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【騰訊音樂美股盤前跌超10%】騰訊音樂美股盤前跌超10%，現報8.89美元。"
+    },
+    {
+      "id": "mkt:019ff0c5-d05f-7aab-8ff1-9430deb5ce88",
+      "time": "2026-08-11 20:22:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola outbreak deaths top 2,000】DRC health ministry data on the 11th show deaths in the current Ebola outbreak have exceeded 2,000, with roughly half occurring in the past 20 days, UN senior Ebola coordinator Julian Hennis said on social media. The outbreak is caused by the Bundibugyo ebolavirus; there is currently no licensed vaccine or specific therapy for this strain. Candidate vaccines and treatments are undergoing clinical trials. Hennis urged immediate additional action to save lives and contain the outbreak."
+    },
+    {
+      "id": "5035938",
+      "time": "2026-08-11 20:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士國家銀行提交給美國證交會(SEC)的檔案顯示，截至6月30日，該行持有SpaceX 150萬股A類股。"
+    },
     {
       "id": "5035937",
       "time": "2026-08-11 20:21:01",
@@ -142881,31 +142964,6 @@
         "國際"
       ],
       "text": "【日本東京羽田機場兩架飛機在空中發生危險接近】據日本共同社報道，4日清晨，在日本東京的羽田機場有兩架飛機飛行航線出現交叉，在空中發生危險接近，其中一架飛機的防撞系統發出警報。 報道稱，當地時間5時44分（北京時間4時44分）左右，日本全日空航空公司968次航班準備在羽田機場降落時，飛機防撞系統發出警報，飛行員採取爬升操作以避免碰撞。事發時，一架剛起飛的日本國土交通省的檢查飛機正在附近飛行。檢查飛機的主要任務是從空中驗證地面的無線電和雷達系統等設施執行狀況。 報道援引國土交通省等方面的訊息說，這兩架飛機均按航空管制人員認可的航線飛行，但檢查飛機橫穿了全日空客機下降著陸的航線。 上述全日空客機於當地時間6時過後降落，機上197名乘客和機組人員無人受傷。（新華社）"
-    },
-    {
-      "id": "5024773",
-      "time": "2026-08-04 20:25:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油執行長表示，已有其他公司表達了收購阿基亞能源（Archaea Energy）的意向。"
-    },
-    {
-      "id": "5024772",
-      "time": "2026-08-04 20:25:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美軍據報耗盡大部分高精度遠端導彈】據路透社今天（8月4日）援引多名知情人士訊息報道，美軍在與伊朗的戰爭中，已消耗掉大部分高精度遠端導彈庫存——這些導彈主要是美軍的地對地武器，也就是“陸軍戰術導彈系統”和“精確打擊導彈”。訊息人士稱這兩類武器已“幾乎耗盡”，不過拒絕透露這兩類彈藥的具體剩餘數量。 分析指出，庫存的下降，反映出特朗普政府決定避免使用風險更高的方式攻擊伊朗目標，例如派遣有人駕駛戰機投彈。 目前，生產“陸軍戰術導彈系統”、“精確打擊導彈”的洛克希德·馬丁公司，沒有立即回應有關供應水平的問題。 白宮在被問及庫存資料時，以總統特朗普的宣告予以回應：美國擁有的“彈藥遠超世界上任何國家”，“也遠超美國所需”。 對此，分析人士指出，包括炮彈和數種導彈在內的特定彈藥產量“可能確實正處於歷史高位”，但其供應量可能仍“遠不足以支撐一場持久戰爭”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5024771",
-      "time": "2026-08-04 20:22:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博深股份：擬設立合資公司併購買經營性資產開展保溫管道業務】博深股份(002282)8月4日公告，公司擬與山東萬昌舜環保科技有限公司（簡稱“萬昌舜”）共同投資設立合資公司，公司出資1.4億元持股70%。合資公司成立後，將以現金方式購買萬昌舜及其關聯企業的經營性資產，承接其原有產能、客戶與技術資源，開展防腐保溫管道相關業務。"
     }
   ]
 }

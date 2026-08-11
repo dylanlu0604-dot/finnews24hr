@@ -1,7 +1,90 @@
 {
   "date": "2026-08-11",
-  "count": 2266,
+  "count": 2275,
   "items": [
+    {
+      "id": "mkt:019ff0c8-736d-7aab-8ff1-b60a248d7231",
+      "time": "2026-08-11 20:24:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, US officials said a US military helicopter fired at the rudder of a Panama‑flagged vessel after the ship's crew ignored warnings from US personnel."
+    },
+    {
+      "id": "mkt:019ff0c8-4773-7aab-8ff1-ad66b6f099b4",
+      "time": "2026-08-11 20:24:45",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【Inflation data key for markets; US stocks hold near highs awaiting Fed cues】US equity futures were slightly higher in pre-market trade while oil pared earlier gains after Pakistan signaled a near-term US‑Iran agreement that could ease energy-market tensions. Traders await key inflation data for guidance on Fed policy. Capital.com senior market analyst Daniela Hathorn said: \"Investors are increasingly pricing a scenario in which inflation continues to slow, the Fed stays patient, and earnings growth supports elevated valuations; a soft CPI would reinforce that narrative and extend the rally, while a hotter-than-expected print would lift Treasury yields and the dollar and force markets to reassess recent optimism on policy and valuations.\""
+    },
+    {
+      "id": "5035941",
+      "time": "2026-08-11 20:24:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員訊息：美國軍用直升機向這艘懸掛巴拿馬國旗船隻的舵開火，此前船員無視美方人員的警告。"
+    },
+    {
+      "id": "mkt:019ff0c7-91c3-7aab-8ff1-a556b097a281",
+      "time": "2026-08-11 20:23:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing shows the Swiss National Bank reported holding 1.5 million Class A shares of SpaceX (SPCX.O) as of June 30."
+    },
+    {
+      "id": "mkt:019ff0c6-a744-7aab-8ff1-99296b19034f",
+      "time": "2026-08-11 20:22:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Wall Street Journal cites US officials saying US military fired on a Panama-flagged vessel attempting to break an Iranian port blockade."
+    },
+    {
+      "id": "5035940",
+      "time": "2026-08-11 20:22:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國向一艘破壞其對伊朗封鎖的懸掛巴拿馬國旗船隻開火。"
+    },
+    {
+      "id": "5035939",
+      "time": "2026-08-11 20:22:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【騰訊音樂美股盤前跌超10%】騰訊音樂美股盤前跌超10%，現報8.89美元。"
+    },
+    {
+      "id": "mkt:019ff0c5-d05f-7aab-8ff1-9430deb5ce88",
+      "time": "2026-08-11 20:22:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola outbreak deaths top 2,000】DRC health ministry data on the 11th show deaths in the current Ebola outbreak have exceeded 2,000, with roughly half occurring in the past 20 days, UN senior Ebola coordinator Julian Hennis said on social media. The outbreak is caused by the Bundibugyo ebolavirus; there is currently no licensed vaccine or specific therapy for this strain. Candidate vaccines and treatments are undergoing clinical trials. Hennis urged immediate additional action to save lives and contain the outbreak."
+    },
+    {
+      "id": "5035938",
+      "time": "2026-08-11 20:22:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "瑞士國家銀行提交給美國證交會(SEC)的檔案顯示，截至6月30日，該行持有SpaceX 150萬股A類股。"
+    },
     {
       "id": "5035937",
       "time": "2026-08-11 20:21:01",
