@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-12 05:38:18",
+  "updated": "2026-08-12 05:42:08",
   "count": 15527,
   "items": [
+    {
+      "id": "mkt:019ff2c4-b6f4-7aab-8ffb-6959f814a7af",
+      "time": "2026-08-12 05:40:05",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) CFO said the company raised its full-year 2026 revenue forecast to $12.4-$13.2 billion."
+    },
+    {
+      "id": "mkt:019ff2c4-0649-7aab-8ffb-62c9f8487fb5",
+      "time": "2026-08-12 05:39:20",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact mixed"
+      ],
+      "text": "CoreWeave (CRWV.O) CFO says the company currently expects 2026 capital expenditures of $35–39 billion."
+    },
+    {
+      "id": "mkt:019ff2c2-f01c-7aab-8ffb-5e408a68c4b6",
+      "time": "2026-08-12 05:38:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports prediction-market platform Kalshi's annualized revenue has topped $4.0 billion and the company is seeking a $40 billion valuation."
+    },
     {
       "id": "5036410",
       "time": "2026-08-12 05:37:23",
@@ -141464,31 +141492,6 @@
         "國際"
       ],
       "text": "【特朗普稱民調資料創歷史新高】美國總統特朗普在社交媒體發文表示，他的“真實”民調支援率達到歷史最高水平，並稱媒體民調是“虛假的”。他將自己獲得的支援歸功於減稅、就業、邊境安全、外來投資、委內瑞拉以及伊朗相關成果。他呼籲美國人“投票給共和黨，共創美國輝煌”。"
-    },
-    {
-      "id": "5025408",
-      "time": "2026-08-05 05:41:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "基輔市長克利奇科稱，俄羅斯軍隊使用彈道導彈襲擊烏克蘭首都基輔。"
-    },
-    {
-      "id": "mkt:019fceb9-0416-7aab-8f78-5da96b233558",
-      "time": "2026-08-05 05:40:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth denied CNN's claim that U.S. forces expended nearly 80% of THAAD interceptors during the Iran conflict."
-    },
-    {
-      "id": "5025407",
-      "time": "2026-08-05 05:39:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "訊息人士透露，特朗普政府將在企業的參與下選定合作方，獲選方可提前接觸具備高階駭客能力的人工智慧模型。"
     }
   ]
 }
