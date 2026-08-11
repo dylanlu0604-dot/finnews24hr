@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-12 05:07:46",
-  "count": 15555,
+  "updated": "2026-08-12 05:11:35",
+  "count": 15551,
   "items": [
+    {
+      "id": "5036394",
+      "time": "2026-08-12 05:08:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 執行長： 短期算力產能實際上已全部售罄，由此達成的簽約承諾，合同條款正變得愈發有利。"
+    },
+    {
+      "id": "5036393",
+      "time": "2026-08-12 05:07:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 執行長：第二季度簽署的客戶合同預期貢獻利潤率較近幾個季度新增合同高出 5‑10 個百分點。"
+    },
     {
       "id": "5036392",
       "time": "2026-08-12 05:07:07",
@@ -141697,56 +141713,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Inches Lower Ahead of Copom Decision — The Ibovespa edged down 0.1% to close at 177,895 on Tuesday, pressured by losses in financial and energy stocks. Petrobras fell 1.3% as crude oil prices declined on optimism that the US and Iran could reach an agreement to reopen the Strait of Hormuz. Financials weakened ahead of Wednesday's Copom interest rate decision, with Itaú down 2.5%, Bradesco losing 1.8%, and Itaúsa retreating 1.7%. In contrast, BB Seguridade rose 1.7% after reporting in-line 2Q26 results. Investors also awaited Itaú's earnings, due later in the day. Telecom stocks underperformed, with Vivo down 2% and TIM falling 2.3%. Meanwhile, Vale gained 2.2% as iron ore prices edged higher, while Gerdau rose 3.1% ahead of its earnings. RD Saúde (+3%) and Prio (-0.1%) are also set to report results later today. WEG (+2%) and Sabesp (+1.6%) were among the other gainers."
-    },
-    {
-      "id": "5025371",
-      "time": "2026-08-05 05:10:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SpaceX在2029年實現1萬億美元營收的可能性“非零”。"
-    },
-    {
-      "id": "mkt:019fce9c-f91f-7aab-8f78-1057c8f8c603",
-      "time": "2026-08-05 05:10:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk says SpaceX (SPCX.O) now targets $1 trillion in revenue by 2030, not 2031."
-    },
-    {
-      "id": "5025370",
-      "time": "2026-08-05 05:10:03",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：SpaceX現目標2030年實現萬億美元營收，而非2031年。"
-    },
-    {
-      "id": "5025369",
-      "time": "2026-08-05 05:09:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官：從資本支出水平來看，未來兩個季度與當前季度非常相似。"
-    },
-    {
-      "id": "5025368",
-      "time": "2026-08-05 05:09:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX預計第三、四季度資本開支將與二季度支出水平相當。"
-    },
-    {
-      "id": "mkt:019fce9b-c41c-7aab-8f78-0cb98e5e4bdd",
-      "time": "2026-08-05 05:09:02",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) CFO said Q3 and Q4 capex will be similar to Q2 levels."
     }
   ]
 }
