@@ -1,7 +1,53 @@
 {
   "date": "2026-08-12",
-  "count": 184,
+  "count": 189,
   "items": [
+    {
+      "id": "te:markets:574500",
+      "time": "2026-08-12 02:13:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Back Above $88 — Brent prices remained volatile on Tuesday, swinging between gains and losses before rising above $88 a barrel as traders weighed conflicting signals over developments in the Middle East. Prices initially came under pressure after Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the US and Iran were “close to some sort of arrangement,” with conditions appearing to move in favor of peace. Reports that talks between Iran and Oman on reopening the Strait of Hormuz to some maritime shipping had reached an advanced stage also fueled optimism. However, the gains were tempered by uncertainty over whether the strategic waterway will actually reopen. A senior Iranian official said the Strait of Hormuz would remain closed until Tehran’s conditions are met by Washington. On Monday, US President Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
+    },
+    {
+      "id": "5036313",
+      "time": "2026-08-12 02:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美方評估認為，伊朗的優先事項已從核武器轉向霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019ff206-bc63-7aab-8ff8-d76a049d42cd",
+      "time": "2026-08-12 02:12:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister said military institutions' capabilities must be strengthened to ensure domestic stability."
+    },
+    {
+      "id": "te:markets:574499",
+      "time": "2026-08-12 02:11:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Swing — Crude oil prices remained volatile on Tuesday, swinging between gains and losses before rising above $83 a barrel as traders weighed conflicting signals over developments in the Middle East. Prices initially came under pressure after Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the US and Iran were “close to some sort of arrangement,” with conditions appearing to move in favor of peace. Reports that talks between Iran and Oman on reopening the Strait of Hormuz to some maritime shipping had reached an advanced stage also fueled optimism. However, the gains were tempered by uncertainty over whether the strategic waterway will actually reopen. A senior Iranian official said the Strait of Hormuz would remain closed until Tehran’s conditions are met by Washington. On Monday, US President Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
+    },
+    {
+      "id": "5036312",
+      "time": "2026-08-12 02:10:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理：必須增強軍事機構的實力，以確保國內穩定。"
+    },
     {
       "id": "5036311",
       "time": "2026-08-12 02:08:11",
