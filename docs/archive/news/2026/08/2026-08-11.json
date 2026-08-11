@@ -1,7 +1,98 @@
 {
   "date": "2026-08-11",
-  "count": 678,
+  "count": 687,
   "items": [
+    {
+      "id": "mkt:019fee81-3e78-7aab-8fe4-37814a3e21ba",
+      "time": "2026-08-11 09:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of Australia likely to hold rates, says it still has 'big stick'】Reserve Bank of Australia is expected to hold the official cash rate at its policy decision due 12:30 Beijing time; Governor Michele Bullock is likely to signal that further rate increases remain possible. The RBA will welcome recent signs of cooling inflation but say the fight against price pressures is not won and express concern about the pace of house-price declines. Officials are also likely to warn the Middle East conflict could become a source of another supply shock."
+    },
+    {
+      "id": "mkt:019fee80-651e-7aab-8fe4-2aedf5f00f05",
+      "time": "2026-08-11 09:46:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "00883.HK",
+        "Impact bullish",
+        "00857.HK",
+        "00386.HK"
+      ],
+      "text": "Hong Kong-listed major oil names strengthened: CNOOC (00883.HK) up over 4%, PetroChina (00857.HK) up over 3%, Sinopec (00386.HK) up over 1%."
+    },
+    {
+      "id": "5034858",
+      "time": "2026-08-11 09:46:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7個月天津口岸鉻礦、錳礦進口量居全國居首】據天津日報，今年1至7月，天津口岸共監管進口金屬礦及其礦砂7595.08萬噸，同比增長6.44%。其中，鉻礦、錳礦進口量居全國首位。"
+    },
+    {
+      "id": "mkt:019fee7f-3be2-7aab-8fe4-2154bb09e62f",
+      "time": "2026-08-11 09:45:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Apple's 20th‑anniversary glass iPhone design not canceled; launch expected in 2027】Insiders told foreign media Apple still plans a glass‑centric redesign for its 20th‑anniversary iPhone, contradicting analyst reports that the project was scrapped. Apple expects to launch next year (2027) an iPhone Pro with a new glass exterior on both front and back that curves to the sides with a metal midframe; internal codenames are V73 and V74. A more radical, near‑all‑glass variant was abandoned in early development after engineers could not meet mass‑production requirements for joining the glass panels."
+    },
+    {
+      "id": "5034857",
+      "time": "2026-08-11 09:45:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【食品飲料概念反覆活躍 一鳴食品2連板】食品飲料概念反覆活躍，一鳴食品2連板，此前皇氏集團漲停，熊貓乳業、歡樂家、陽光乳業跟漲。"
+    },
+    {
+      "id": "5034856",
+      "time": "2026-08-11 09:45:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1858億元。"
+    },
+    {
+      "id": "mkt:019fee7e-1de0-7aab-8fe4-1f06d6596700",
+      "time": "2026-08-11 09:44:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active polysilicon contract fell 2.0% intraday to 35,915 yuan/ton."
+    },
+    {
+      "id": "5034855",
+      "time": "2026-08-11 09:44:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【建築材料板塊走弱，寧夏建材跌停】建築材料板塊走弱，寧夏建材跌停，西藏天路、中材科技、宏和科技、中國巨石、法獅龍、再升科技等跟跌。"
+    },
+    {
+      "id": "5034854",
+      "time": "2026-08-11 09:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局8月11日8時聯合釋出橙色地質災害氣象風險預警：2026年8月11日8時至12日8時，北京西南部、河北中部、浙江大部、安徽西部和東南區域性、河南中部區域性發生地質災害的風險較高（黃色預警）；浙江東部和西北區域性發生地質災害的風險高（橙色預警）。"
+    },
     {
       "id": "5034853",
       "time": "2026-08-11 09:43:07",

@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-11 09:44:32",
-  "count": 15825,
+  "updated": "2026-08-11 09:48:28",
+  "count": 15822,
   "items": [
+    {
+      "id": "mkt:019fee81-3e78-7aab-8fe4-37814a3e21ba",
+      "time": "2026-08-11 09:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of Australia likely to hold rates, says it still has 'big stick'】Reserve Bank of Australia is expected to hold the official cash rate at its policy decision due 12:30 Beijing time; Governor Michele Bullock is likely to signal that further rate increases remain possible. The RBA will welcome recent signs of cooling inflation but say the fight against price pressures is not won and express concern about the pace of house-price declines. Officials are also likely to warn the Middle East conflict could become a source of another supply shock."
+    },
+    {
+      "id": "mkt:019fee80-651e-7aab-8fe4-2aedf5f00f05",
+      "time": "2026-08-11 09:46:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "00883.HK",
+        "Impact bullish",
+        "00857.HK",
+        "00386.HK"
+      ],
+      "text": "Hong Kong-listed major oil names strengthened: CNOOC (00883.HK) up over 4%, PetroChina (00857.HK) up over 3%, Sinopec (00386.HK) up over 1%."
+    },
+    {
+      "id": "5034858",
+      "time": "2026-08-11 09:46:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7個月天津口岸鉻礦、錳礦進口量居全國居首】據天津日報，今年1至7月，天津口岸共監管進口金屬礦及其礦砂7595.08萬噸，同比增長6.44%。其中，鉻礦、錳礦進口量居全國首位。"
+    },
+    {
+      "id": "mkt:019fee7f-3be2-7aab-8fe4-2154bb09e62f",
+      "time": "2026-08-11 09:45:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Apple's 20th‑anniversary glass iPhone design not canceled; launch expected in 2027】Insiders told foreign media Apple still plans a glass‑centric redesign for its 20th‑anniversary iPhone, contradicting analyst reports that the project was scrapped. Apple expects to launch next year (2027) an iPhone Pro with a new glass exterior on both front and back that curves to the sides with a metal midframe; internal codenames are V73 and V74. A more radical, near‑all‑glass variant was abandoned in early development after engineers could not meet mass‑production requirements for joining the glass panels."
+    },
+    {
+      "id": "5034857",
+      "time": "2026-08-11 09:45:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【食品飲料概念反覆活躍 一鳴食品2連板】食品飲料概念反覆活躍，一鳴食品2連板，此前皇氏集團漲停，熊貓乳業、歡樂家、陽光乳業跟漲。"
+    },
+    {
+      "id": "5034856",
+      "time": "2026-08-11 09:45:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1858億元。"
+    },
+    {
+      "id": "mkt:019fee7e-1de0-7aab-8fe4-1f06d6596700",
+      "time": "2026-08-11 09:44:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active polysilicon contract fell 2.0% intraday to 35,915 yuan/ton."
+    },
+    {
+      "id": "5034855",
+      "time": "2026-08-11 09:44:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【建築材料板塊走弱，寧夏建材跌停】建築材料板塊走弱，寧夏建材跌停，西藏天路、中材科技、宏和科技、中國巨石、法獅龍、再升科技等跟跌。"
+    },
+    {
+      "id": "5034854",
+      "time": "2026-08-11 09:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局8月11日8時聯合釋出橙色地質災害氣象風險預警：2026年8月11日8時至12日8時，北京西南部、河北中部、浙江大部、安徽西部和東南區域性、河南中部區域性發生地質災害的風險較高（黃色預警）；浙江東部和西北區域性發生地質災害的風險高（橙色預警）。"
+    },
     {
       "id": "5034853",
       "time": "2026-08-11 09:43:07",
@@ -143907,118 +143998,6 @@
         "Impact bullish"
       ],
       "text": "ChiNext rose over 3%; Shenzhen Component up 1.7%. More than 3,600 stocks advanced market-wide. Leading sectors: compute-capacity leasing, semiconductors and pharmaceuticals/biotech."
-    },
-    {
-      "id": "5023492",
-      "time": "2026-08-04 09:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。"
-    },
-    {
-      "id": "5023491",
-      "time": "2026-08-04 09:48:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流入超100億。"
-    },
-    {
-      "id": "5023490",
-      "time": "2026-08-04 09:48:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達2.06%，成分股中，源傑科技漲12.69%，生益電子漲6.20%，瀾起科技漲4.53%，芯原股份漲4.48%。"
-    },
-    {
-      "id": "5023489",
-      "time": "2026-08-04 09:48:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國首爾綜指轉漲，稍早一度跌近3%。此前韓國財長表示，將致力於改善股市結構和穩定性。"
-    },
-    {
-      "id": "5023488",
-      "time": "2026-08-04 09:47:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲3.00%，現報3401.703點；上證指數跌0.08%，現報3806.501點；深證成指漲1.62%，現報13666.716點。"
-    },
-    {
-      "id": "5023487",
-      "time": "2026-08-04 09:47:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【劃分21個重點防治區 “十五五”全國地質災害防治部署來了】自然資源部今天（4日）介紹，《全國地質災害防治“十五五”實施方案》近日釋出。“十五五”期間，我國地質災害防治工作將以“提升氣候變化應對能力、減輕地質災害風險”為主線，在全國劃分21個地質災害重點防治區，進一步擴大管控範圍，推動地質災害防治工作向精細化、智慧化邁進，最大限度減少人員傷亡和財產損失。"
-    },
-    {
-      "id": "te:markets:572323",
-      "time": "2026-08-04 09:47:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Tencent Holdings Stock Price Hits 14-week High — Tencent Holdings shares increased to 494.80 HKD, the highest since April 2026. Over the past 4 weeks, Tencent Holdings gained 8.72%, and in the last 12 months, it decreased 10.65%."
-    },
-    {
-      "id": "5023486",
-      "time": "2026-08-04 09:47:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時縮量665億元。"
-    },
-    {
-      "id": "5023485",
-      "time": "2026-08-04 09:46:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【CPO板塊持續走高，光庫科技漲超14%】CPO板塊持續走高，光庫科技漲超14%，源傑科技、仕佳光子、天孚通訊均漲超10%。"
-    },
-    {
-      "id": "5023484",
-      "time": "2026-08-04 09:45:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪人集團成立能源投資公司】企查查APP顯示，近日，福建雪人能源投資有限公司成立，經營範圍包含以自有資金從事投資活動；石油天然氣技術服務；新興能源技術研發；合同能源管理等。企查查股權穿透顯示，該公司由雪人集團(002639)全資持股。"
-    },
-    {
-      "id": "te:markets:572321",
-      "time": "2026-08-04 09:45:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Extend Decline — The benchmark KOSPI edged down to around 6,230 on Tuesday, extending losses for a second straight session, as technology heavyweights remained under pressure. Samsung Electronics and SK Hynix both fell more than 3%. Other notable losses included Hyundai Motor (-3.3%), Samsung Electro-Mechanics (-3.6%), KB Financial Group (-0.7%), Kia Corporation (-1.4%), Shinhan Financial Group (-1.6%), and Hyundai Mobis (-5.1%). Meanwhile, South Korea's annual inflation rate eased to 2.8% in July from 3.2% in June, below market expectations of 3.0%, though a pickup in core inflation reinforced expectations that the Bank of Korea will maintain a restrictive monetary policy stance. Investors also monitored developments in the Middle East after US President Donald Trump said talks with Iran on reopening the Strait of Hormuz were underway, while uncertainty over the outcome of the negotiations kept risk appetite in check."
-    },
-    {
-      "id": "mkt:019fca72-628a-7aab-8f61-f5298605d2f6",
-      "time": "2026-08-04 09:45:21",
-      "tags": [
-        "MKT News",
-        "06869.HK",
-        "Impact bullish",
-        "06166.HK",
-        "01729.HK"
-      ],
-      "text": "Hong Kong optical-communications stocks mostly rose. Yangtze Optical Fibre & Cable (06869.HK) and Cambridge Technology (06166.HK) advanced over 8%, Huiju Technology (01729.HK) climbed more than 6%, and Lens Technology (06613.HK) gained just over 2%."
     }
   ]
 }
