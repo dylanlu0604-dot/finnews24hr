@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-12 01:19:11",
-  "count": 15624,
+  "updated": "2026-08-12 01:23:06",
+  "count": 15621,
   "items": [
+    {
+      "id": "mkt:019ff1d6-8287-7aab-8ff8-647ff7fa948a",
+      "time": "2026-08-12 01:19:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State broadcaster IRIB reported the Iranian president met Pakistan's interior minister."
+    },
     {
       "id": "mkt:019ff1d5-5c79-7aab-8ff8-580d381f0362",
       "time": "2026-08-12 01:18:39",
@@ -142287,46 +142295,6 @@
         "US Economy"
       ],
       "text": "Fitch Ratings says new U.S. student-visa rules will put pressure on some universities."
-    },
-    {
-      "id": "mkt:019fcdcc-98c5-7aab-8f75-4608f6397411",
-      "time": "2026-08-05 01:22:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver traded above $60/oz for the first time since July 27, rising 3.14% on the day."
-    },
-    {
-      "id": "5025204",
-      "time": "2026-08-05 01:21:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破60美元/盎司，日內漲3.16%。"
-    },
-    {
-      "id": "mkt:019fcdcb-369e-7aab-8f75-3bfdf9c2ec64",
-      "time": "2026-08-05 01:21:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "American Petroleum Institute (API) CEO said roughly 7 mln barrels per day of oil transit the Strait of Hormuz."
-    },
-    {
-      "id": "5025203",
-      "time": "2026-08-05 01:20:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國石油協會（API）執行長：霍爾木茲海峽每日石油運量約 700 萬桶。"
     }
   ]
 }

@@ -1,7 +1,15 @@
 {
   "date": "2026-08-12",
-  "count": 151,
+  "count": 152,
   "items": [
+    {
+      "id": "mkt:019ff1d6-8287-7aab-8ff8-647ff7fa948a",
+      "time": "2026-08-12 01:19:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State broadcaster IRIB reported the Iranian president met Pakistan's interior minister."
+    },
     {
       "id": "mkt:019ff1d5-5c79-7aab-8ff8-580d381f0362",
       "time": "2026-08-12 01:18:39",
