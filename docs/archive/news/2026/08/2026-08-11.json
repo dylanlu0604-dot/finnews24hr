@@ -1,7 +1,76 @@
 {
   "date": "2026-08-11",
-  "count": 2715,
+  "count": 2722,
   "items": [
+    {
+      "id": "mkt:019ff185-90d0-7aab-8ff5-f83f1d527bf5",
+      "time": "2026-08-11 23:51:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951."
+    },
+    {
+      "id": "5036220",
+      "time": "2026-08-11 23:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）"
+    },
+    {
+      "id": "mkt:019ff184-3e50-7aab-8ff5-f124bcad7869",
+      "time": "2026-08-11 23:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes."
+    },
+    {
+      "id": "mkt:019ff183-fdf1-7aab-8ff5-ecee9f51fb6a",
+      "time": "2026-08-11 23:49:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya."
+    },
+    {
+      "id": "5036219",
+      "time": "2026-08-11 23:49:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。"
+    },
+    {
+      "id": "5036218",
+      "time": "2026-08-11 23:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。"
+    },
+    {
+      "id": "5036217",
+      "time": "2026-08-11 23:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。"
+    },
     {
       "id": "5036216",
       "time": "2026-08-11 23:47:53",

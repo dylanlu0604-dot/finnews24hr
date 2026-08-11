@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-11 23:49:09",
-  "count": 15567,
+  "updated": "2026-08-11 23:53:16",
+  "count": 15570,
   "items": [
+    {
+      "id": "mkt:019ff185-90d0-7aab-8ff5-f83f1d527bf5",
+      "time": "2026-08-11 23:51:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951."
+    },
+    {
+      "id": "5036220",
+      "time": "2026-08-11 23:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）"
+    },
+    {
+      "id": "mkt:019ff184-3e50-7aab-8ff5-f124bcad7869",
+      "time": "2026-08-11 23:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes."
+    },
+    {
+      "id": "mkt:019ff183-fdf1-7aab-8ff5-ecee9f51fb6a",
+      "time": "2026-08-11 23:49:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya."
+    },
+    {
+      "id": "5036219",
+      "time": "2026-08-11 23:49:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。"
+    },
+    {
+      "id": "5036218",
+      "time": "2026-08-11 23:49:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。"
+    },
+    {
+      "id": "5036217",
+      "time": "2026-08-11 23:48:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。"
+    },
     {
       "id": "5036216",
       "time": "2026-08-11 23:47:53",
@@ -141677,47 +141746,6 @@
         "MKT News"
       ],
       "text": "Lebanese presidency said Israel did not provide a response today to Lebanon regarding a ceasefire commitment."
-    },
-    {
-      "id": "mkt:019fcd79-ff85-7aab-8f73-deb4d05e0b46",
-      "time": "2026-08-04 23:52:32",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "EURUSD"
-      ],
-      "text": "Stoxx Europe 600 rose 0.7%, closing at its highest level since July 3."
-    },
-    {
-      "id": "mkt:019fcd78-cc8b-7aab-8f73-d471931835e1",
-      "time": "2026-08-04 23:51:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "Marathon Oil (MRO.N) expects more Venezuelan crude to enter the US market, which it says will pressure Western Canadian Select prices."
-    },
-    {
-      "id": "5025152",
-      "time": "2026-08-04 23:50:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【葉門政府軍說救起紅海遇襲沉沒貨船上14名船員 】葉門政府軍4日表示，一艘貨船在葉門西部紅海海域被載有爆炸物的船隻襲擊後沉沒，船上14名船員均由政府軍救援。葉門政府下屬的“國家抵抗力量”當天發表宣告說，海岸警衛隊和海軍部隊聯合開展救援行動，在葉門胡塞武裝控制的荷臺達港以南約13海里處，成功救起遭襲貨船“FAIZE NOORE OLIYA”號上的全部船員。（新華社）"
-    },
-    {
-      "id": "5025151",
-      "time": "2026-08-04 23:49:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "光通訊概念股普遍上漲，其中，光模組與光器件供應商Lumentum漲超10.5%，高意公司/相干公司Coherent重新漲超14%，Applied Optoelectronics漲超20%，Fabrinet漲幅重新擴大至約16%。\n光通訊晶片供應商博通漲超5.2%，邁威爾科技/美滿電子漲約13%，MACOM Technology一度漲超6%，Credo Technology Group重新漲超7%。\n網路裝置與系統供應商思科漲幅重新擴大至4%，Ciena漲幅重新擴大至6.4%。\n光纖纜線與基礎連線供應商康寧公司Corning漲幅重新擴大至6.7%。"
     }
   ]
 }
