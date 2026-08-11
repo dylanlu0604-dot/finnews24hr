@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-12 02:59:56",
-  "count": 15646,
+  "updated": "2026-08-12 03:04:17",
+  "count": 15643,
   "items": [
+    {
+      "id": "mkt:019ff234-2bce-7aab-8ff9-7263a076b22c",
+      "time": "2026-08-12 03:02:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Space Force General Gatlin said funding for the 'Golden Dome' must be resolved for 2027."
+    },
+    {
+      "id": "5036340",
+      "time": "2026-08-12 03:02:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥商業交易所集團（CME）將推出國家冰球聯盟（NHL）冰球期貨。"
+    },
+    {
+      "id": "mkt:019ff233-3c28-7aab-8ff9-6d81646cb66d",
+      "time": "2026-08-12 03:01:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. MILITARY says the vessel is no longer violating the U.S. blockade en route to Iran."
+    },
+    {
+      "id": "mkt:019ff232-f15f-7aab-8ff9-64cd369277b4",
+      "time": "2026-08-12 03:00:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. military said a U.S. Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the cargo ship Vilanova."
+    },
+    {
+      "id": "mkt:019ff232-3144-7aab-8ff9-582076b820b3",
+      "time": "2026-08-12 03:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. military said earlier today that U.S. Central Command forces disabled the steering system of the Panama‑flagged cargo ship Villanova."
+    },
+    {
+      "id": "5036339",
+      "time": "2026-08-12 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.37%，報25531.96點，低水120.86點。"
+    },
     {
       "id": "mkt:019ff231-ac15-7aab-8ff9-541dd9d2579d",
       "time": "2026-08-12 02:59:29",
@@ -142435,89 +142488,6 @@
         "Impact bullish"
       ],
       "text": "SpaceX (SPCX.O) rose 9.8% ahead of Q2 results, hitting an intraday high."
-    },
-    {
-      "id": "5025239",
-      "time": "2026-08-05 03:04:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SpaceX股價上漲10%。"
-    },
-    {
-      "id": "5025238",
-      "time": "2026-08-05 03:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：伊朗正在考慮根據一項重新開放霍爾木茲海峽的方案，向歐洲國家收取維護該戰略水道的費用。"
-    },
-    {
-      "id": "5025237",
-      "time": "2026-08-05 03:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國食品藥品監督管理局（FDA）授權4款新型尼古丁袋上市。"
-    },
-    {
-      "id": "mkt:019fce28-8f79-7aab-8f76-190ce84f2c07",
-      "time": "2026-08-05 03:03:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【British media: Iran weighing fees for European states to fund Strait of Hormuz maintenance】British media report Iran is considering charging European countries under a plan to reopen and fund maintenance of the Strait of Hormuz. The proposal would create a voluntary fund financed by Gulf states and some European members of the International Maritime Organization (IMO). Proposed voluntary fees would pay for navigation management, environmental protection, search-and-rescue and other services in the strait, Gulf and European sources say. Oman believes energy-dependent countries and shipowners would be willing to contribute. Italy, Belgium and France are among the European states most reliant on Gulf oil and LNG imports. The UK government says only about 1% of crude refined in the UK in 2025 comes from the Middle East."
-    },
-    {
-      "id": "5025236",
-      "time": "2026-08-05 03:02:25",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "納斯達克100指數漲幅擴大至3.5%。"
-    },
-    {
-      "id": "5025235",
-      "time": "2026-08-05 03:02:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯主席因凡蒂諾召集國際足聯高層職員於明日開會。"
-    },
-    {
-      "id": "mkt:019fce27-8109-7aab-8f76-17e8e3d040ec",
-      "time": "2026-08-05 03:02:03",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.31% at 25,914, a 61-point premium to the spot index."
-    },
-    {
-      "id": "5025234",
-      "time": "2026-08-05 03:00:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價在業績公佈前上漲9.6%，創下盤中新高。"
-    },
-    {
-      "id": "5025233",
-      "time": "2026-08-05 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.32%，報25916.80點，高水63.88點。"
     }
   ]
 }

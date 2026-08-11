@@ -1,7 +1,60 @@
 {
   "date": "2026-08-12",
-  "count": 235,
+  "count": 241,
   "items": [
+    {
+      "id": "mkt:019ff234-2bce-7aab-8ff9-7263a076b22c",
+      "time": "2026-08-12 03:02:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Space Force General Gatlin said funding for the 'Golden Dome' must be resolved for 2027."
+    },
+    {
+      "id": "5036340",
+      "time": "2026-08-12 03:02:04",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國芝加哥商業交易所集團（CME）將推出國家冰球聯盟（NHL）冰球期貨。"
+    },
+    {
+      "id": "mkt:019ff233-3c28-7aab-8ff9-6d81646cb66d",
+      "time": "2026-08-12 03:01:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. MILITARY says the vessel is no longer violating the U.S. blockade en route to Iran."
+    },
+    {
+      "id": "mkt:019ff232-f15f-7aab-8ff9-64cd369277b4",
+      "time": "2026-08-12 03:00:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. military said a U.S. Navy MH-60 helicopter fired two Hellfire missiles into the engine room of the cargo ship Vilanova."
+    },
+    {
+      "id": "mkt:019ff232-3144-7aab-8ff9-582076b820b3",
+      "time": "2026-08-12 03:00:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. military said earlier today that U.S. Central Command forces disabled the steering system of the Panama‑flagged cargo ship Villanova."
+    },
+    {
+      "id": "5036339",
+      "time": "2026-08-12 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.37%，報25531.96點，低水120.86點。"
+    },
     {
       "id": "mkt:019ff231-ac15-7aab-8ff9-541dd9d2579d",
       "time": "2026-08-12 02:59:29",
