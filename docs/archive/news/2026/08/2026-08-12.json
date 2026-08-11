@@ -1,7 +1,23 @@
 {
   "date": "2026-08-12",
-  "count": 273,
+  "count": 275,
   "items": [
+    {
+      "id": "mkt:019ff25a-2c84-7aab-8ff9-fe9a19cd1cee",
+      "time": "2026-08-12 03:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq condemns Colombia's recognition of Israeli \"sovereignty\" over Golan Heights】Iraq's foreign ministry on the 11th strongly condemned Colombia's decision to recognize Israeli \"sovereignty\" over the occupied Golan Heights, saying the territory is Syrian and that no party may change its legal status or confer legitimacy on the occupier. The ministry said Colombia's move has no legal force and does not alter the fact that the Golan Heights are an inseparable part of Syrian territory."
+    },
+    {
+      "id": "5036359",
+      "time": "2026-08-12 03:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：由於《明晰法案》推進受阻，美國證券交易委員會即將公佈加密領域重大方案。"
+    },
     {
       "id": "5036358",
       "time": "2026-08-12 03:41:25",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-12 03:43:01",
+  "updated": "2026-08-12 03:46:50",
   "count": 15646,
   "items": [
+    {
+      "id": "mkt:019ff25a-2c84-7aab-8ff9-fe9a19cd1cee",
+      "time": "2026-08-12 03:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraq condemns Colombia's recognition of Israeli \"sovereignty\" over Golan Heights】Iraq's foreign ministry on the 11th strongly condemned Colombia's decision to recognize Israeli \"sovereignty\" over the occupied Golan Heights, saying the territory is Syrian and that no party may change its legal status or confer legitimacy on the occupier. The ministry said Colombia's move has no legal force and does not alter the fact that the Golan Heights are an inseparable part of Syrian territory."
+    },
+    {
+      "id": "5036359",
+      "time": "2026-08-12 03:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：由於《明晰法案》推進受阻，美國證券交易委員會即將公佈加密領域重大方案。"
+    },
     {
       "id": "5036358",
       "time": "2026-08-12 03:41:25",
@@ -142529,22 +142545,6 @@
         "XAUUSD"
       ],
       "text": "【Netanyahu: No Israeli withdrawal from Gaza until Hamas fully disarmed】Israeli Prime Minister Netanyahu said Israeli forces will not withdraw from their current Gaza front lines until Hamas is fully disarmed. He said Trump and his team believe Hamas can be fully disarmed and Gaza demilitarized and that Israel is studying the proposal. Netanyahu said Israel rejected a draft sent by the U.S. team and submitted its own response before the matter was reported in the media."
-    },
-    {
-      "id": "5025260",
-      "time": "2026-08-05 03:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：以色列軍隊“不會撤出加沙當前戰線”。"
-    },
-    {
-      "id": "5025259",
-      "time": "2026-08-05 03:44:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美方稱已迫使45艘商船改變航線】美軍中央司令部當地時間8月4日表示，美軍繼續嚴格執行對伊朗的海上封鎖。截至8月4日，美軍已迫使45艘商船改變航線，令2艘船隻喪失航行能力，並對2艘船隻進行了登船檢查。"
     }
   ]
 }
