@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-12 03:12:22",
+  "updated": "2026-08-12 03:16:14",
   "count": 15651,
   "items": [
+    {
+      "id": "mkt:019ff240-5add-7aab-8ff9-b5b69c3fc472",
+      "time": "2026-08-12 03:15:31",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Bank of France sees Q3 GDP +0.2%】Bank of France expects Q3 GDP to rise 0.2%, unchanged from Q2 and slightly above market consensus of 0.1%. Services — notably transport, information and communications — should continue to support activity; manufacturing rebounded in August. Energy output is expected to expand, while construction may weaken further amid fewer public project contracts. A survey of about 8,500 firms showed slower July increases in raw material costs and selling prices, suggesting the pass-through of spring input-cost rises to final prices may be near completion. The bank flagged significant uncertainty from Middle East geopolitics and extreme weather and noted mixed signals ahead of the presidential election: a Q2 rebound alongside unemployment at a near six-year high and persistent budget deficit pressures."
+    },
+    {
+      "id": "5036348",
+      "time": "2026-08-12 03:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人：葉門武裝部隊襲擊了麥哈以及馬裡卜省境內的沙特軍隊集結點、武器庫與指揮總部。"
+    },
+    {
+      "id": "mkt:019ff23f-cb32-7aab-8ff9-a800e19784a6",
+      "time": "2026-08-12 03:14:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Houthi spokesman said Houthi forces will continue operations to strike any Saudi troops attempting to escalate the situation via Saudi troop assembly areas or to seize control of Yemen."
+    },
     {
       "id": "mkt:019ff23b-71f1-7aab-8ff9-a0d973c66189",
       "time": "2026-08-12 03:10:09",
@@ -142543,31 +142574,6 @@
         "市場"
       ],
       "text": "訊息人士透露，史蒂夫·科恩旗下的Point72對沖基金7月份淨值下跌3.3%，今年迄今累計上漲10.9%。"
-    },
-    {
-      "id": "5025245",
-      "time": "2026-08-05 03:15:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "寶潔敲定38億美元收購膳食補充劑企業索恩（Thorne）的交易。"
-    },
-    {
-      "id": "5025244",
-      "time": "2026-08-05 03:14:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AMD財報將揭示多家晶片廠商的行業趨勢】AMD將於週二晚些時候公佈財報，這份財報將為高效能晶片的需求與定價提供線索，進而判斷近期晶片板塊股價反彈究竟具備多大合理性。當下AI晶片廠商的一大核心驅動力是智慧自主AI（agentic AI）。相較於以往模型，智慧自主AI對CPU的需求佔比很可能高於GPU。行業格局或將隨之發生轉變，話語權會從GPU巨頭英偉達這類企業，向英特爾等CPU廠商傾斜。AMD同時佈局CPU、GPU兩大賽道，因此該公司對CPU市場發展的表述具備廣泛參考意義。AMD此前預估，未來三至四年，CPU潛在市場規模將增長至2000億美元，公司計劃拿下其中50%的市場份額。該預期若出現任何變動，都可能引發市場波動。與此同時，AMD此前給出指引，第二季度CPU銷售額同比將增長70%，其中約三分之二來自銷量提升，其餘部分由漲價貢獻。AMD同時也是儲存晶片採購方，其供應商包括SK海力士、三星電子，因此其銷售表現能夠反映儲存晶片成本對整個行業帶來的影響。AMD人工智慧基礎設施平臺Helios的量產推進時間，若有最新訊息，同樣會影響公司股價，Anthropic、OpenAI、Meta均為該平臺客戶。"
-    },
-    {
-      "id": "5025243",
-      "time": "2026-08-05 03:12:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國司法部週二表示，OpenAI及其一家子公司將支付320萬美元，以和解美國政府對其在招聘和錄用過程中偏袒持有臨時工作簽證的外國工人、並歧視美國求職者的指控。"
     }
   ]
 }

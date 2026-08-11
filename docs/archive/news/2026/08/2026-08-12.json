@@ -1,7 +1,38 @@
 {
   "date": "2026-08-12",
-  "count": 253,
+  "count": 256,
   "items": [
+    {
+      "id": "mkt:019ff240-5add-7aab-8ff9-b5b69c3fc472",
+      "time": "2026-08-12 03:15:31",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Bank of France sees Q3 GDP +0.2%】Bank of France expects Q3 GDP to rise 0.2%, unchanged from Q2 and slightly above market consensus of 0.1%. Services — notably transport, information and communications — should continue to support activity; manufacturing rebounded in August. Energy output is expected to expand, while construction may weaken further amid fewer public project contracts. A survey of about 8,500 firms showed slower July increases in raw material costs and selling prices, suggesting the pass-through of spring input-cost rises to final prices may be near completion. The bank flagged significant uncertainty from Middle East geopolitics and extreme weather and noted mixed signals ahead of the presidential election: a Q2 rebound alongside unemployment at a near six-year high and persistent budget deficit pressures."
+    },
+    {
+      "id": "5036348",
+      "time": "2026-08-12 03:15:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門胡塞武裝發言人：葉門武裝部隊襲擊了麥哈以及馬裡卜省境內的沙特軍隊集結點、武器庫與指揮總部。"
+    },
+    {
+      "id": "mkt:019ff23f-cb32-7aab-8ff9-a800e19784a6",
+      "time": "2026-08-12 03:14:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "A Houthi spokesman said Houthi forces will continue operations to strike any Saudi troops attempting to escalate the situation via Saudi troop assembly areas or to seize control of Yemen."
+    },
     {
       "id": "mkt:019ff23b-71f1-7aab-8ff9-a0d973c66189",
       "time": "2026-08-12 03:10:09",
