@@ -1,7 +1,81 @@
 {
   "date": "2026-08-11",
-  "count": 2190,
+  "count": 2198,
   "items": [
+    {
+      "id": "mkt:019ff0ae-fa43-7aab-8ff1-1740d358bf57",
+      "time": "2026-08-11 19:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Russia hold 24th consular consultations】BEIJING, Aug 11 — Long Zhou, director-general of China’s Ministry of Foreign Affairs Department of Consular Affairs, and his Russian counterpart Klimov co‑chaired the 24th China‑Russia consular consultations in Beijing. They exchanged views on consular relations, facilitating travel and protecting the safety and legal rights of each country’s citizens and institutions. Both sides agreed to implement leaders’ prior consensus, strengthen consular communication and cooperation, and create safe, convenient conditions to support bilateral practical cooperation and people‑to‑people exchanges."
+    },
+    {
+      "id": "5035887",
+      "time": "2026-08-11 19:57:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港西九龍“空鐵聯運”自動駕駛車輛先導牌照測試專案獲批】香港特區政府運輸署11日公佈，已根據《道路交通（自動駕駛車輛）規例》，批准往來高鐵香港西九龍站與機場快線九龍站的自動駕駛車輛（自動車）測試專案。 據介紹，專案涉及4輛以自動駕駛操作的私家車。測試期間，車上會長駐後備操作員，在有需要時可以接管車輛操控。（新華社）"
+    },
+    {
+      "id": "5035886",
+      "time": "2026-08-11 19:54:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鵬飛綠能：控股子公司獲413.57萬元政府補助】鵬飛綠能公告稱，公司控股子公司於2026年8月11日收到政府補助款413.57萬元，佔公司最近一期經審計歸屬於上市公司股東淨利潤的10.77%。該補助為現金形式，與日常經營活動有關，不具可持續性。依據會計準則，補助將全部計入其他收益，最終以審計結果為準。"
+    },
+    {
+      "id": "mkt:019ff0ac-6699-7aab-8ff1-0ac91c608b02",
+      "time": "2026-08-11 19:54:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said the government's debt-to-GDP ratio has fallen to 81.8–82% and is expected to drop below 80% next year."
+    },
+    {
+      "id": "mkt:019ff0ac-64da-7aab-8ff1-07187b5082c2",
+      "time": "2026-08-11 19:54:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Analyst: escalation in settler attacks linked to end‑October Israeli election】Ubay Abdi, former executive director of the Bisan Center for Research and Development, said recent escalation in Israeli settler attacks on Palestinians appears backed by officials and is closely tied to the end‑October Israeli election. He said politicians in the current government are relaxing constraints on settlers and at times encouraging large-scale attacks to secure votes; settlers, fearing a post‑October cabinet will be less tolerant, are accelerating efforts aimed at displacing Palestinians from their homes. Abdi added that through government policy and support for settler militias Israel has long sought to drive Palestinians off their land and render them refugees."
+    },
+    {
+      "id": "5035885",
+      "time": "2026-08-11 19:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及總理：埃及債務佔GDP比率降至81.8%-82%，預計明年債務佔GDP比重降至80%以下。"
+    },
+    {
+      "id": "5035884",
+      "time": "2026-08-11 19:53:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇省與中國大唐集團簽署戰略合作協議】據新華日報，8月11日，江蘇省與中國大唐集團簽署戰略合作協議。江蘇省委書記信長星、省長劉小濤會見中國大唐集團董事長呂軍、總經理李向良。信長星說，希望雙方以此次簽約為新起點，更加緊密攜手，加快重大能源專案建設，提高綠電供給能力，推動能源科技創新和產業發展，更好服務全國發展大局。呂軍、李向良表示，大唐集團與江蘇合作基礎良好，將認真落實國家新型能源體系和新型電力系統建設“十五五”規劃，緊扣江蘇發展所需，持續深化務實合作，為江蘇高質量發展注入新動能。"
+    },
+    {
+      "id": "mkt:019ff0ab-b37e-7aab-8ff0-fa49770d6208",
+      "time": "2026-08-11 19:53:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Glenmede: Fed has ample time to assess whether energy-driven inflation is contained】Glenmede strategist said investors expect a relatively mild July US CPI, forecasting headline CPI up 3.4% YoY and core price pressures remaining contained. Rising US–Iran tensions lifted oil in July, creating upside risk from energy, but market reaction has been muted after policy responses and strategic reserve releases stabilized supply. The Fed has ample time before its next meeting to assess two inflation prints and judge whether energy pressure is sustainably contained or beginning to broaden, a distinction likely to influence policy direction."
+    },
     {
       "id": "mkt:019ff0aa-e92b-7aab-8ff0-f4df418f306c",
       "time": "2026-08-11 19:52:40",
