@@ -1,7 +1,130 @@
 {
-  "updated": "2026-08-11 22:35:05",
-  "count": 15571,
+  "updated": "2026-08-11 22:39:53",
+  "count": 15577,
   "items": [
+    {
+      "id": "mkt:019ff142-86da-7aab-8ff4-fe21ab9d796d",
+      "time": "2026-08-11 22:38:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Atlanta Fed first vice president Venable said the key question is whether price pressures will ease over the coming months, which will largely depend on the outcome of the Middle East conflict."
+    },
+    {
+      "id": "te:markets:574473",
+      "time": "2026-08-11 22:38:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Intuit Stock Price Hits 10-week High — Intuit shares increased to 337.05 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 16.27%, and in the last 12 months, it decreased 52.78%."
+    },
+    {
+      "id": "mkt:019ff142-591d-7aab-8ff4-f6c51bce10a2",
+      "time": "2026-08-11 22:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Atlanta Fed first vice president said the U.S. labor market is broadly stable."
+    },
+    {
+      "id": "mkt:019ff142-584c-7aab-8ff4-eac93313b25f",
+      "time": "2026-08-11 22:38:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Atlanta Fed first vice president Venable said inflation remains too high and contacts in the Southeast report the same."
+    },
+    {
+      "id": "5036149",
+      "time": "2026-08-11 22:37:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所倫敦可可期貨<LCCc2>下跌近6%，至每噸4038英鎊。"
+    },
+    {
+      "id": "5036148",
+      "time": "2026-08-11 22:37:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "火箭實驗室執行長：從未見過火箭行業處境如此窘迫。"
+    },
+    {
+      "id": "5036147",
+      "time": "2026-08-11 22:37:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "亞特蘭大聯儲銀行維納布林：核心問題在於未來數月價格壓力是否會緩解，而局勢走向很大程度上取決於中東衝突的結局。"
+    },
+    {
+      "id": "mkt:019ff140-d34f-7aab-8ff4-e48fe0e89f7a",
+      "time": "2026-08-11 22:36:25",
+      "tags": [
+        "MKT News",
+        "RKLB.O",
+        "Impact bullish"
+      ],
+      "text": "Rocket Lab says it aims to complete the maiden launch of its Neutron rocket this year."
+    },
+    {
+      "id": "5036146",
+      "time": "2026-08-11 22:35:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞特蘭大聯儲銀行維納布林：通脹水平仍過高，東南部各受訪機構反饋一致。"
+    },
+    {
+      "id": "5036145",
+      "time": "2026-08-11 22:35:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所紐約可可期貨<CCc2>跌幅近7%，跌至每噸5,536美元。"
+    },
+    {
+      "id": "5036144",
+      "time": "2026-08-11 22:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯釋放自 2022 年起在俄服刑的前美國海軍陸戰隊士兵。"
+    },
+    {
+      "id": "5036143",
+      "time": "2026-08-11 22:34:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "火箭實驗室：力爭今年完成中子火箭首次發射。"
+    },
+    {
+      "id": "mkt:019ff13e-5f70-7aab-8ff4-d9944f7626d6",
+      "time": "2026-08-11 22:33:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China rejects U.S. 'microphone diplomacy' over missile test criticism】On Aug. 11 at the Conference on Disarmament in Geneva, the U.S. and other countries issued a joint 'ballistic missile launch notification' statement criticizing China’s July submarine-launched intercontinental ballistic missile test. China’s disarmament ambassador Li Chijiang strongly rejected the criticism, saying Beijing had given advance notice of the test, accusing the U.S. of enlisting non-members, abusing the forum for political manipulation and applying double standards, and calling the move 'microphone diplomacy' that China will not accept."
+    },
     {
       "id": "5036142",
       "time": "2026-08-11 22:32:32",
@@ -141718,72 +141841,6 @@
         "國際"
       ],
       "text": "賽諾菲印度公司6月季度利潤為8.35億盧比。第一財季運營收入為43.8億盧比。"
-    },
-    {
-      "id": "5025082",
-      "time": "2026-08-04 22:39:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首席投資官警示：AI 行情依賴投資者信心】赫特爾公司首席投資官布拉德・康格警示，AI 交易正進入 “陌生人善意” 階段，大型雲服務商自由現金流走弱，越來越依靠舉債維持運轉。他表示，投資者預設未來現金流將會回暖，而這種想法或許只是一種 “自我慰藉的錯覺”。AI 相關債務規模已達約 5700 億美元，城堡投資預測，到 2028 年該債務還將再增加 5000 億美元以上。康格同時警告，鉅額 AI 資本開支將帶來高額折舊費用，會在未來數年內壓制企業盈利。"
-    },
-    {
-      "id": "mkt:019fcd36-e194-7aab-8f72-b50cceff4fe7",
-      "time": "2026-08-04 22:39:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Russian crude exports fall to lowest since mid-June as refinery attacks pause】A temporary shift in Ukrainian drone targets has reduced strikes on refineries, boosting domestic refining runs and cutting Russian crude exports. Industry-compiled tanker shipping data show four-week exports to Aug. 2 fell to 3.9m bpd — the first time in six weeks below 4.0m bpd and the lowest level since mid-June. If Ukrainian attacks on refining facilities resume, Russian crude exports could rebound in the coming weeks."
-    },
-    {
-      "id": "5025081",
-      "time": "2026-08-04 22:37:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：知情人士透露，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道相關談判已進入新階段。"
-    },
-    {
-      "id": "5025080",
-      "time": "2026-08-04 22:37:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭必須儘快完成全部籌備工作，在本國境內實現防空系統、導彈以及其他配套武器的本土化生產。"
-    },
-    {
-      "id": "5025079",
-      "time": "2026-08-04 22:37:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浪潮集團與山東省地震局簽署戰略合作協議】8月4日，浪潮集團與山東省地震局在浪潮科技園簽署戰略合作協議。下一步，雙方將全面開展戰略合作，加快推動新一代資訊科技與防震減災工作需求深度融合，推進人工智慧技術在防震減災領域落地見效。"
-    },
-    {
-      "id": "mkt:019fcd34-6de0-7aab-8f72-a85e95123c07",
-      "time": "2026-08-04 22:36:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian President Zelenskiy said Kyiv must step up defenses against Russian cyber threats and counter Russian disinformation and information warfare."
-    },
-    {
-      "id": "mkt:019fcd34-4c0d-7aab-8f72-a68780f19584",
-      "time": "2026-08-04 22:36:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine must urgently complete preparations to domestically produce air-defense systems, missiles and other weapons."
     }
   ]
 }
