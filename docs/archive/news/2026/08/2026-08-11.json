@@ -1,7 +1,189 @@
 {
   "date": "2026-08-11",
-  "count": 1134,
+  "count": 1154,
   "items": [
+    {
+      "id": "mkt:019fef6d-ce39-7aab-8fe9-2d75edabb655",
+      "time": "2026-08-11 14:06:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia says it struck Kyiv and other sites; Ukraine reports six dead in Zaporizhia】Ukraine’s Zaporizhia military-civil administration said on 11 that Russian forces struck Zaporizhia city in the early hours with missiles and guided aerial bombs, killing six and wounding 19; four apartment blocks and other buildings were damaged and all wounded have been attended to. The Russian Defence Ministry said on 11 that it used land-based high-precision weapons in the early hours to strike military-industrial enterprises and logistics centres in Kyiv and Zaporizhia."
+    },
+    {
+      "id": "mkt:019fef6d-7e1d-7aab-8fe9-220e25b3d3b8",
+      "time": "2026-08-11 14:05:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India governor said cross-border payments are a focus for BRICS given potential to lower costs and increase speed."
+    },
+    {
+      "id": "5035138",
+      "time": "2026-08-11 14:05:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱對基輔等地發動打擊 烏稱襲擊已致6人死亡】烏克蘭扎波羅熱州軍政管理局當地時間11日通報稱，俄羅斯當天凌晨使用導彈和制導航空炸彈對扎波羅熱市發動大規模組合式襲擊，截至目前已造成6人死亡、19人受傷。襲擊造成4棟住宅樓及非住宅建築受損，目前所有傷者均已獲得救助。俄羅斯國防部11日通報，當天凌晨，俄軍使用陸基高精度武器，對基輔市和扎波羅熱市的軍工企業及物流中心發動了打擊。（央視新聞）"
+    },
+    {
+      "id": "5035137",
+      "time": "2026-08-11 14:05:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "鋁價連續第七天上漲，因迅速達成重啟霍爾木茲海峽協議的前景愈發渺茫，加劇了市場對中東供應在可預見的未來仍將受限的擔憂。"
+    },
+    {
+      "id": "mkt:019fef6c-ee06-7aab-8fe9-1f7979500c97",
+      "time": "2026-08-11 14:05:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Aluminum rises for seventh day as slim hopes for Strait of Hormuz reopening heighten supply concerns】Aluminum climbed for a seventh straight session as prospects for a rapid reopening of the Strait of Hormuz faded, raising concern that Middle East supply will remain constrained. US and Iranian positions have hardened, implying negotiations to restore flows could be prolonged and dampening hopes of near-term normalization; global inventories sit near multi-decade lows and the region accounted for roughly 10% of pre-conflict global output. Prices initially spiked at the outbreak of hostilities, eased during early talks and have resumed gains, up more than 8% since late June as delayed conflict resolution coincides with reduced market bets on further US rate hikes, supporting a broader rally in base metals."
+    },
+    {
+      "id": "mkt:019fef6c-3e95-7aab-8fe9-11d5fa110c3e",
+      "time": "2026-08-11 14:04:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "Euro Stoxx 50 futures fell 0.02%, Germany's DAX futures rose 0.05% and the FTSE 100 futures fell 0.11%."
+    },
+    {
+      "id": "5035136",
+      "time": "2026-08-11 14:04:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報1521.50點。"
+    },
+    {
+      "id": "5035135",
+      "time": "2026-08-11 14:03:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行高階副行長：央行更關注需求側通脹壓力，而非供給側。將會有額外的加息。美元兌韓元匯率仍在1400區間，依然“非常高”。"
+    },
+    {
+      "id": "mkt:019fef6b-720a-7aab-8fe9-0a0a421aba62",
+      "time": "2026-08-11 14:03:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said he is not concerned about vulnerabilities in private credit."
+    },
+    {
+      "id": "mkt:019fef6b-39b9-7aab-8fe9-0382a6625995",
+      "time": "2026-08-11 14:03:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A local governor said an industrial plant in Russia's Orenburg region caught fire after being struck by an \"enemy drone\"."
+    },
+    {
+      "id": "5035134",
+      "time": "2026-08-11 14:03:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“雪龍”號順利完成12個冰站作業任務】由自然資源部組織的中國第16次北冰洋考察冰站調查作業正在開展。目前，“雪龍”號12個冰站調查作業任務已完成。本次考察，“雪龍”號共開展了12個冰站作業，為歷次北冰洋考察單船之最。在現場冰情和作業條件雙重限制下，考察隊透過周密籌劃，完成全部冰面科考物資的運輸保障，布放各類冰基浮標30餘套。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fef6a-e348-7aab-8fe8-fa22baa69871",
+      "time": "2026-08-11 14:03:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of Korea senior deputy governor: USD/KRW remains in the 1,400 range and is still \"very high\"."
+    },
+    {
+      "id": "5035132",
+      "time": "2026-08-11 14:02:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新里程在山東成立智慧機器人公司 註冊資本1.35億元】企查查APP顯示，山東新里程智慧機器人有限公司成立，法定代表人為朱鈿，註冊資本為1.35億元，經營範圍包含：智慧機器人的研發；智慧機器人銷售；數控機床製造；工業機器人制造；服務消費機器人制造等。企查查股權穿透顯示，該公司由新里程間接全資持股。"
+    },
+    {
+      "id": "mkt:019fef6a-8759-7aab-8fe8-f2303ecc53c1",
+      "time": "2026-08-11 14:02:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Korea senior deputy governor said the central bank is more focused on demand-side inflationary pressure than supply-side factors and that further rate hikes will occur."
+    },
+    {
+      "id": "5035131",
+      "time": "2026-08-11 14:02:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50指數期貨下跌0.02%，德國DAX指數期貨上漲0.05%，富時指數期貨下跌0.11%。"
+    },
+    {
+      "id": "5035130",
+      "time": "2026-08-11 14:01:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻利秉一：成為南京匯聚MLCC一級代理商】鴻利智匯參股公司鴻利秉一官微訊息，鴻利秉一正式獲得南京淳瓷電子科技有限公司授權，成為匯聚品牌電子零件全系列MLCC貼片疊層陶瓷電容器一級代理商。"
+    },
+    {
+      "id": "5035129",
+      "time": "2026-08-11 14:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江波龍成交額超100億元】8月11日下午，江波龍成交額超100億元，現漲1.53%。"
+    },
+    {
+      "id": "mkt:019fef67-ad06-7aab-8fe8-ef6526c6b2dc",
+      "time": "2026-08-11 13:59:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bullish",
+        "000001.SS",
+        "399001.SZ"
+      ],
+      "text": "China A-share reducer makers extended gains: Siling Zhiqu hit the daily limit; Fengguang Precision and Ruidi Zhiqu jumped more than 15%; Lvde Xiebo and Hongchang Technology rose over 10%; Kedali, Zhongda Lide and Haozhi Jidian also advanced."
+    },
+    {
+      "id": "5035128",
+      "time": "2026-08-11 13:58:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【減速器板塊持續走高，綠的諧波漲超10%】減速器板塊持續走高，斯菱智驅漲停，豐光精密、瑞迪智驅漲超15%，綠的諧波、宏昌科技漲超10%，科達利、中大力德、昊志機電跟漲。"
+    },
     {
       "id": "mkt:019fef65-913c-7aab-8fe8-e62c528c37ab",
       "time": "2026-08-11 13:57:18",
@@ -23,6 +205,15 @@
         "MKT News"
       ],
       "text": "Reserve Bank of Australia Governor Bullock said the weak housing market does not pose a material risk to financial stability."
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837768714",
+      "time": "2026-08-11 13:55:57",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "澳洲聯儲主席布洛克表示，很可能需要再次提高利率。"
     },
     {
       "id": "5035127",
