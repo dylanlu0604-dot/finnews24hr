@@ -1,7 +1,19 @@
 {
   "date": "2026-08-12",
-  "count": 256,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:019ff241-001d-7aab-8ff9-bb3f0b610c1c",
+      "time": "2026-08-12 03:16:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Houthi spokesperson said Yemeni armed forces attacked Saudi military assembly points, weapons depots and command headquarters in Mecca Province and Marib Province."
+    },
     {
       "id": "mkt:019ff240-5add-7aab-8ff9-b5b69c3fc472",
       "time": "2026-08-12 03:15:31",

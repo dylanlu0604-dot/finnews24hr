@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-12 03:16:14",
-  "count": 15651,
+  "updated": "2026-08-12 03:20:04",
+  "count": 15650,
   "items": [
+    {
+      "id": "mkt:019ff241-001d-7aab-8ff9-bb3f0b610c1c",
+      "time": "2026-08-12 03:16:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A Houthi spokesperson said Yemeni armed forces attacked Saudi military assembly points, weapons depots and command headquarters in Mecca Province and Marib Province."
+    },
     {
       "id": "mkt:019ff240-5add-7aab-8ff9-b5b69c3fc472",
       "time": "2026-08-12 03:15:31",
@@ -142558,22 +142570,6 @@
         "公司"
       ],
       "text": "英偉達CEO黃仁勳：誰正在贏得人工智慧競賽。不是OpenAI，不是Anthropic，也不是谷歌。是馬斯克。"
-    },
-    {
-      "id": "mkt:019fce36-829d-7aab-8f76-32ef0f03da5f",
-      "time": "2026-08-05 03:18:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources said Steve Cohen's Point72 hedge fund fell 3.3% in July and is up 10.9% year-to-date."
-    },
-    {
-      "id": "5025246",
-      "time": "2026-08-05 03:17:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "訊息人士透露，史蒂夫·科恩旗下的Point72對沖基金7月份淨值下跌3.3%，今年迄今累計上漲10.9%。"
     }
   ]
 }
