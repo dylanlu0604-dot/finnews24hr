@@ -1,7 +1,50 @@
 {
   "date": "2026-08-12",
-  "count": 146,
+  "count": 151,
   "items": [
+    {
+      "id": "mkt:019ff1d5-5c79-7aab-8ff8-580d381f0362",
+      "time": "2026-08-12 01:18:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News reported sounds of explosions in Marib, Yemen."
+    },
+    {
+      "id": "5036293",
+      "time": "2026-08-12 01:18:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "5036292",
+      "time": "2026-08-12 01:16:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。"
+    },
+    {
+      "id": "mkt:019ff1d3-2852-7aab-8ff8-52465535ff09",
+      "time": "2026-08-12 01:16:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019ff1d2-9f12-7aab-8ff8-49f3032b42bc",
+      "time": "2026-08-12 01:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234."
+    },
     {
       "id": "mkt:019ff1cd-e44e-7aab-8ff8-46486344d320",
       "time": "2026-08-12 01:10:30",

@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-12 01:15:19",
-  "count": 15623,
+  "updated": "2026-08-12 01:19:11",
+  "count": 15624,
   "items": [
+    {
+      "id": "mkt:019ff1d5-5c79-7aab-8ff8-580d381f0362",
+      "time": "2026-08-12 01:18:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News reported sounds of explosions in Marib, Yemen."
+    },
+    {
+      "id": "5036293",
+      "time": "2026-08-12 01:18:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至0.5%。"
+    },
+    {
+      "id": "5036292",
+      "time": "2026-08-12 01:16:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "2 家交易對手在美聯儲逆回購操作中獲得 12.5 億美元。"
+    },
+    {
+      "id": "mkt:019ff1d3-2852-7aab-8ff8-52465535ff09",
+      "time": "2026-08-12 01:16:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $1.25 billion from two counterparties in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019ff1d2-9f12-7aab-8ff8-49f3032b42bc",
+      "time": "2026-08-12 01:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Colombia quake death toll rises to 234】Colombia's Municipal Federation said on Aug. 11 local time the death toll from the strong Aug. 10 earthquake has risen to 234."
+    },
     {
       "id": "mkt:019ff1cd-e44e-7aab-8ff8-46486344d320",
       "time": "2026-08-12 01:10:30",
@@ -142284,41 +142327,6 @@
         "國際"
       ],
       "text": "美國石油協會（API）執行長：霍爾木茲海峽每日石油運量約 700 萬桶。"
-    },
-    {
-      "id": "mkt:019fcdc7-9227-7aab-8f75-379cf0416eb5",
-      "time": "2026-08-05 01:17:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve accepted $2.551 billion from three counterparties in its fixed-rate reverse repurchase operations."
-    },
-    {
-      "id": "mkt:019fcdc7-36e7-7aab-8f75-2fec792105d4",
-      "time": "2026-08-05 01:16:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chanel H1 sales rise double digits; comparable revenue +16%, US >25%】Foreign media citing a person familiar with results said Chanel’s H1 sales rose by double digits, with comparable revenue up about 16%. The company’s largest business, its fashion division, saw similar growth. US sales led regional gains, rising more than 25%. The source said the momentum continued into July but stronger year-ago comparisons could leave full-year growth below the H1 pace. Chanel reports annually; its May disclosure showed 2025 sales up 1.8% to $19.3bn. The person said Chanel outpaced luxury peers including LVMH."
-    },
-    {
-      "id": "5025202",
-      "time": "2026-08-05 01:16:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週二（8月4日），美聯儲隔夜逆回購協議（RRP）使用規模為22.51億美元（交易對手3家），上個交易日報21.27億美元。"
-    },
-    {
-      "id": "mkt:019fcdc6-4223-7aab-8f75-215d19bf85b4",
-      "time": "2026-08-05 01:15:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said as of Aug. 4 US forces had diverted 45 merchant vessels, rendered two merchant vessels inoperable, and boarded and inspected two merchant vessels to ensure compliance with applicable rules."
     }
   ]
 }
