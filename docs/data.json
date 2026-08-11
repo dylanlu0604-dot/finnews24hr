@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-11 10:23:47",
-  "count": 15828,
+  "updated": "2026-08-11 10:27:42",
+  "count": 15826,
   "items": [
+    {
+      "id": "mkt:019feea4-df5a-7aab-8fe4-e9764ed91622",
+      "time": "2026-08-11 10:26:50",
+      "tags": [
+        "MKT News",
+        "03330.HK",
+        "Impact bearish",
+        "02899.HK",
+        "06693.HK"
+      ],
+      "text": "Hong Kong-listed gold stocks opened higher before sliding: Lingbao Gold (03330.HK) fell over 4%, Zijin Mining (02899.HK) dropped more than 3%, with Zhaojin Mining (01818.HK) and Chifeng Gold (06693.HK) also lower."
+    },
+    {
+      "id": "5034906",
+      "time": "2026-08-11 10:26:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【防範登革熱、猴痘等疾病 中疾控釋出健康風險提示】中國疾病預防控制中心提示，今年8月需關注登革熱、基孔肯雅熱、寨卡病毒病等蚊媒傳染病，埃博拉病毒病，發熱伴血小板減少綜合徵，猴痘，食物中毒，高溫中暑以及洪澇災害可能衍生的公共衛生風險。提醒大家，避免蚊蟲叮咬，儘量避免前往存在埃博拉病毒病疫情流行風險的國家和地區，提高主動就醫意識。另外，8月，我國仍處於主汛期，易發生洪澇災害。為減少洪澇災害期間疾病發生，中國疾控中心溫馨提示，洪澇災區人員需注意飲食飲水安全、環境和個人衛生，做好病媒生物控制。（央視新聞）"
+    },
+    {
+      "id": "mkt:019feea3-c810-7aab-8fe4-e5e9e5f56b45",
+      "time": "2026-08-11 10:25:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext continued to strengthen, rising over 1% intraday as MLCC and innovative-drug sectors led gains."
+    },
+    {
+      "id": "mkt:019feea3-86f0-7aab-8fe4-da1e8b905e16",
+      "time": "2026-08-11 10:25:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Citigroup: AI usage costs falling while GPU compute prices remain firm】Citigroup says enterprise AI user costs are dropping even as underlying compute prices hold up. Its usage-weighted token expenditures are down about 37.5% from the May peak, while NVIDIA Blackwell GPU rental rates have risen roughly 15.2% over the past three months. Citigroup attributes the unit-cost decline mainly to model selection, smart routing and inference-efficiency gains rather than GPU price cuts. The shift suggests AI commercialization is moving from raw compute scaling toward higher utilization—firms can lower per-call costs by invoking lighter models for simpler tasks despite tight compute supply. NVIDIA has demonstrated quantization and other optimizations on Blackwell that materially raise inference throughput and reduce hardware occupancy, highlighting software and model-layer improvements as a key lever to cut inference costs."
+    },
+    {
+      "id": "5034905",
+      "time": "2026-08-11 10:25:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.02%，現報3573.380點；上證指數跌0.30%，現報3954.535點；深證成指漲0.23%，現報14350.403點。"
+    },
+    {
+      "id": "mkt:019feea1-e855-7aab-8fe4-d6f6c297b014",
+      "time": "2026-08-11 10:23:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Autumn IPO Looms: ANTHROPIC Reassures Investors Ahead of Potential Record Listing】The Wall Street Journal reports ANTHROPIC is meeting potential investors to shore confidence ahead of a possible September or early-October IPO that could be the largest on record; the company is said to be valued at about $965bn. Investors raised concerns about the rise of low-cost AI systems, tensions with the Trump administration and growing local opposition to data center construction; sources said ANTHROPIC executives downplayed the competitive threat and stressed a focus on cutting-edge models. The company told some investors it plans to expand further into healthcare and biology AI applications; no pricing or firm timetable has been disclosed."
+    },
+    {
+      "id": "5034904",
+      "time": "2026-08-11 10:23:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【通訊裝置板塊異動拉昇 移遠通訊、銳捷網路漲超5%】通訊裝置板塊異動拉昇，移遠通訊、銳捷網路漲超5%，廣和通、新易盛、長芯博創等股上漲。"
+    },
     {
       "id": "mkt:019feea1-6483-7aab-8fe4-cdc56784f07e",
       "time": "2026-08-11 10:23:02",
@@ -143951,88 +144026,6 @@
         "國際"
       ],
       "text": "【本輪強降雨影響重慶17個區縣 多條中小河流出現漲水過程】據重慶市水文監測總站監測，8月3日8時至4日8時，重慶中東部中到大雨、局中到大雨、局地暴雨到大暴雨。萬州、開州、城口、雲陽、奉節、巫溪、梁平、墊江、忠縣、涪陵、綦江、豐都、石柱、黔江、秀山、酉陽、彭水等17個區縣出現暴雨，其中萬州、開州、雲陽、巫溪、梁平、豐都、忠縣、石柱、酉陽、彭水等10個區縣出現大暴雨，萬州出現特大暴雨，最大日降雨量出現在萬州區雙河口街道龍寶村，為250毫米。（央視新聞）"
-    },
-    {
-      "id": "te:markets:572338",
-      "time": "2026-08-04 10:27:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed as AI Concerns Persist — The Shanghai Composite edged down 0.1% to 3,805 on Tuesday, while the Shenzhen Component gained 1.3% to 13,626, as investors weighed persistent US-China technology frictions. While Beijing seeks to maintain stable ties ahead of President Xi Jinping’s planned September 24 visit to Washington, reports indicate that China views some advanced US AI models, including Anthropic's Mythos, as potential national security risks, and Washington remains concerned that Chinese firms may be leveraging leading US AI systems to develop competing models. Domestically, investors looked ahead to key economic releases, including trade and inflation data, after the central bank reaffirmed its commitment to supporting the economy through a moderately accommodative monetary policy, ample liquidity, and balanced credit growth. Financial stocks remained under pressure, particularly Industrial and Commercial Bank of China (-2.1%), Agricultural Bank of China (-2.5%), and China Construction Bank (-1.8%)."
-    },
-    {
-      "id": "mkt:019fca98-c706-7aab-8f62-b71c5272e56f",
-      "time": "2026-08-04 10:27:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan Chief Cabinet Secretary Kihara said the government will tap ¥24.2 billion in reserve funds to finance rescue and recovery operations in Kumamoto following the earthquake."
-    },
-    {
-      "id": "mkt:019fca98-8aa0-7aab-8f62-afe9d20c8462",
-      "time": "2026-08-04 10:27:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc automatic determination: at 10:25 on Aug 4 a preliminary magnitude ~3.3 earthquake occurred near Gaoxian, Yibin, Sichuan (28.53°N, 104.67°E). Final magnitude will be confirmed in the official rapid report."
-    },
-    {
-      "id": "5023533",
-      "time": "2026-08-04 10:26:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時縮量167億元。"
-    },
-    {
-      "id": "mkt:019fca96-ccd9-7aab-8f62-a0f5f3197b47",
-      "time": "2026-08-04 10:25:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan finance minister Kiuchi said he will not comment on specific FX levels but will closely monitor FX volatility’s impact on the economy and prices."
-    },
-    {
-      "id": "mkt:019fca95-dcab-7aab-8f62-9b3c0e5cad35",
-      "time": "2026-08-04 10:24:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Kiuchi said he wants the Bank of Japan and the Japanese government to maintain close communication on policy guidance."
-    },
-    {
-      "id": "5023532",
-      "time": "2026-08-04 10:24:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中證協啟動2026年券商投行業務三項質量評價，評價結果對應差異化監管安排】從業內獲悉，中國證券業協會近日在行業內同步啟動2026年證券公司投行業務及債券業務、重大資產重組財務顧問業務兩個單項業務質量評價工作，評價期均為2025年1月1日至12月31日。關於評價結果的運用，中證協擬將評價結果報送中國證監會，供監管機構在日常監管工作中參考使用。為更好地激勵約束券商開展債券業務，在日常監管中，相關監管機構將根據券商債券業務執業質量評價結果，採取差異化的監管安排，加強分類監管，以提高監管精準性和有效性。（中證金牛座）"
-    },
-    {
-      "id": "mkt:019fca95-c442-7aab-8f62-9154dd4db7d3",
-      "time": "2026-08-04 10:24:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Securities Association launches 2026 quality reviews of securities firms' IB, bond and major-asset-restructuring advisory businesses】China Securities Association has launched industry-wide quality assessments of securities firms' investment-banking, bond and major-asset-restructuring financial advisory businesses, covering the 2025 calendar year (Jan. 1–Dec. 31, 2025). The association will report results to the CSRC for reference in routine supervision. Regulators will use the bond-business assessment to implement differentiated, classified supervisory measures aimed at better incentivizing and constraining securities firms and improving regulatory precision and effectiveness."
-    },
-    {
-      "id": "5023531",
-      "time": "2026-08-04 10:23:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "木原稔：日本將動用242億日元儲備金用於熊本地震救災。"
     }
   ]
 }
