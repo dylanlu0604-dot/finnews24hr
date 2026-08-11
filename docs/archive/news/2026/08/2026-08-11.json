@@ -1,7 +1,72 @@
 {
   "date": "2026-08-11",
-  "count": 2667,
+  "count": 2674,
   "items": [
+    {
+      "id": "mkt:019ff169-9f34-7aab-8ff5-60de8e7b525a",
+      "time": "2026-08-11 23:20:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index hits five-day low as capesize demand weakens】BDI fell 37 pts (1.2%) to 3,046, a five-day low, as capesize and supramax rates retreated, offsetting a tenth consecutive daily rise in panamax rates. The capesize index (BCI) dropped 104 pts (2.04%) to 5,001; capesize average daily earnings fell $941 to $41,856. The panamax index (BPI) rose 6 pts (0.26%) to 2,312, its highest since June 2 and marking a 10th straight gain; panamax daily earnings increased $58 to $20,813. The supramax index (BSI) slid 3 pts (0.19%) to 1,600, the lowest since June 8."
+    },
+    {
+      "id": "te:markets:574482",
+      "time": "2026-08-11 23:20:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "XRP /USD traded above 1 — The Xrp exchange rate rose above 1 US Dollars in the foreign exchange interbank market."
+    },
+    {
+      "id": "mkt:019ff168-56f0-7aab-8ff5-5a3c090ac2de",
+      "time": "2026-08-11 23:19:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "New York Fed quarterly report shows U.S. household loan delinquencies have eased."
+    },
+    {
+      "id": "5036193",
+      "time": "2026-08-11 23:19:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "負責美國貿易關係的加拿大部長將於週二與美國貿易代表格里爾會面。"
+    },
+    {
+      "id": "5036192",
+      "time": "2026-08-11 23:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非西北省一礦區塌方致14人死亡】南非西北省警方11日釋出宣告說，勒斯滕堡附近一處礦區發生塌方事故，造成14名非法採礦人員死亡、8人受傷。"
+    },
+    {
+      "id": "5036191",
+      "time": "2026-08-11 23:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣：已向以色列外長強調，必須停止約旦河西岸的暴力行為，並解除對加沙援助的封鎖。"
+    },
+    {
+      "id": "5036190",
+      "time": "2026-08-11 23:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府軍：胡塞武裝今日連續發動襲擊，動用了10枚導彈和4架無人機，目標為西海岸多處據點。"
+    },
     {
       "id": "5036189",
       "time": "2026-08-11 23:15:31",

@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-11 23:18:50",
-  "count": 15574,
+  "updated": "2026-08-11 23:23:38",
+  "count": 15577,
   "items": [
+    {
+      "id": "mkt:019ff169-9f34-7aab-8ff5-60de8e7b525a",
+      "time": "2026-08-11 23:20:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index hits five-day low as capesize demand weakens】BDI fell 37 pts (1.2%) to 3,046, a five-day low, as capesize and supramax rates retreated, offsetting a tenth consecutive daily rise in panamax rates. The capesize index (BCI) dropped 104 pts (2.04%) to 5,001; capesize average daily earnings fell $941 to $41,856. The panamax index (BPI) rose 6 pts (0.26%) to 2,312, its highest since June 2 and marking a 10th straight gain; panamax daily earnings increased $58 to $20,813. The supramax index (BSI) slid 3 pts (0.19%) to 1,600, the lowest since June 8."
+    },
+    {
+      "id": "te:markets:574482",
+      "time": "2026-08-11 23:20:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "XRP /USD traded above 1 — The Xrp exchange rate rose above 1 US Dollars in the foreign exchange interbank market."
+    },
+    {
+      "id": "mkt:019ff168-56f0-7aab-8ff5-5a3c090ac2de",
+      "time": "2026-08-11 23:19:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "New York Fed quarterly report shows U.S. household loan delinquencies have eased."
+    },
+    {
+      "id": "5036193",
+      "time": "2026-08-11 23:19:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "負責美國貿易關係的加拿大部長將於週二與美國貿易代表格里爾會面。"
+    },
+    {
+      "id": "5036192",
+      "time": "2026-08-11 23:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非西北省一礦區塌方致14人死亡】南非西北省警方11日釋出宣告說，勒斯滕堡附近一處礦區發生塌方事故，造成14名非法採礦人員死亡、8人受傷。"
+    },
+    {
+      "id": "5036191",
+      "time": "2026-08-11 23:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交大臣：已向以色列外長強調，必須停止約旦河西岸的暴力行為，並解除對加沙援助的封鎖。"
+    },
+    {
+      "id": "5036190",
+      "time": "2026-08-11 23:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府軍：胡塞武裝今日連續發動襲擊，動用了10枚導彈和4架無人機，目標為西海岸多處據點。"
+    },
     {
       "id": "5036189",
       "time": "2026-08-11 23:15:31",
@@ -141762,38 +141827,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：我們已確定與歐盟開展更深層次合作的重點領域。今年，烏克蘭加入歐盟的談判已開啟兩個議題叢集，我們正準備再開啟四個議題叢集。我方已完成全部工作，以爭取獲得積極決議。"
-    },
-    {
-      "id": "5025123",
-      "time": "2026-08-04 23:23:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議】據安徽建工集團官微訊息，8月4日，安徽建工集團與銅陵有色金屬集團簽訂戰略合作協議。安徽建工集團黨委書記、董事長楊善斌表示，將充分發揮全產業鏈優勢，精準對接銅陵有色在礦山建設、新興產業等領域的需求，持續拓寬合作領域、提升合作質效。銅陵有色金屬集團黨委書記、董事長丁士啟表示，希望雙方聚焦礦山資源、新材料研發等方面深化全方位、多層次務實合作。"
-    },
-    {
-      "id": "mkt:019fcd5f-50ab-7aab-8f73-22d283b36101",
-      "time": "2026-08-04 23:23:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli tanks reportedly fired toward an area northwest of Beit Lahia in the northern Gaza Strip."
-    },
-    {
-      "id": "5025122",
-      "time": "2026-08-04 23:22:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "寶潔CEO：我們今日將宣佈收購高階健康膳食補充劑品牌索恩。"
-    },
-    {
-      "id": "5025121",
-      "time": "2026-08-04 23:21:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【霍爾木茲海峽附近貨船遇襲起火 船員棄船 一人失蹤】英國海事安全企業先鋒技術公司4日釋出報告說，一艘散貨船在霍爾木茲海峽附近水域遇襲後起火，有一名船員失蹤。英國媒體援引最新訊息報道說，船員已棄船。報告說，有不明發射物據報擊中該船機艙，導致生活區起火及一名船員失蹤。船員曾嘗試滅火併請求外部援助。船舶公開資訊顯示，這艘名為“米諾斯先鋒”號的散貨船懸掛賴比瑞亞國旗，由一家希臘公司運營。（新華社）"
     }
   ]
 }
