@@ -1,7 +1,27 @@
 {
   "date": "2026-08-12",
-  "count": 195,
+  "count": 197,
   "items": [
+    {
+      "id": "5036316",
+      "time": "2026-08-12 02:20:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：被告（歌利亞風投）涉嫌以加密貨幣交易為名非法募集資金，要求追繳贓款並申請永久禁令。"
+    },
+    {
+      "id": "te:markets:574506",
+      "time": "2026-08-12 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 1.72% — Top commodity losers are Silver (-1.72%) and Gold (-0.55%). Gains are led by Iron Ore CNY (1.12%), Silicon (0.58%) and Steel Rebar (0.53%)."
+    },
     {
       "id": "mkt:019ff20a-f847-7aab-8ff8-e51e95c8c7d5",
       "time": "2026-08-12 02:17:12",

@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-12 02:17:56",
-  "count": 15639,
+  "updated": "2026-08-12 02:21:46",
+  "count": 15636,
   "items": [
+    {
+      "id": "5036316",
+      "time": "2026-08-12 02:20:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會：被告（歌利亞風投）涉嫌以加密貨幣交易為名非法募集資金，要求追繳贓款並申請永久禁令。"
+    },
+    {
+      "id": "te:markets:574506",
+      "time": "2026-08-12 02:20:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 1.72% — Top commodity losers are Silver (-1.72%) and Gold (-0.55%). Gains are led by Iron Ore CNY (1.12%), Silicon (0.58%) and Steel Rebar (0.53%)."
+    },
     {
       "id": "mkt:019ff20a-f847-7aab-8ff8-e51e95c8c7d5",
       "time": "2026-08-12 02:17:12",
@@ -142434,50 +142454,6 @@
         "其他"
       ],
       "text": "土耳其能源部長：土耳其正在洽談建設通往伊拉克發電廠的天然氣管道。"
-    },
-    {
-      "id": "5025220",
-      "time": "2026-08-05 02:20:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社：近日，部分美國官員直接或透過部分地區夥伴釋放相互矛盾的訊號，對談判程序造成干擾。"
-    },
-    {
-      "id": "te:markets:572668",
-      "time": "2026-08-05 02:20:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rallies by 8.01% — Top commodity gainers are Platinum (8.01%), Silver (3.51%), Copper (1.61%) and Gold (0.79%)."
-    },
-    {
-      "id": "mkt:019fce01-261d-7aab-8f75-99f698c0ef15",
-      "time": "2026-08-05 02:20:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv: sources say the WHITE HOUSE expects to extend the Jones Act waiver period in the coming days."
-    },
-    {
-      "id": "5025219",
-      "time": "2026-08-05 02:19:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：白宮預計未來數日將延長《瓊斯法案》豁免期限。"
-    },
-    {
-      "id": "5025218",
-      "time": "2026-08-05 02:18:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社：談判團隊訊息人士稱，伊朗僅與阿曼就霍爾木茲海峽未來相關安排開展談判，並未和美國進行任何談判。"
     }
   ]
 }
