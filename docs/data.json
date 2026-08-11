@@ -1,7 +1,97 @@
 {
-  "updated": "2026-08-11 09:56:10",
-  "count": 15833,
+  "updated": "2026-08-11 09:59:59",
+  "count": 15829,
   "items": [
+    {
+      "id": "5034887",
+      "time": "2026-08-11 09:59:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊震盪反彈 華能蒙電漲停】電力板塊震盪反彈，華能蒙電漲停，此前兆新股份漲停，立新能源、京能電力、百通能源、華電遼能跟漲。"
+    },
+    {
+      "id": "5034886",
+      "time": "2026-08-11 09:59:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊持續走強，華智數媒20cm漲停】影視院線板塊持續走強，華智數媒20cm漲停，北京文化、文投控股此前漲停，儒意電影、上海電影、幸福藍海、金逸影視、中國電影、橫店影視等跟漲。"
+    },
+    {
+      "id": "5034885",
+      "time": "2026-08-11 09:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京大興、房山啟動防汛一級應急響應】大興區啟動防汛一級應急響應：8月11日9時00分啟動全區防汛一級應急響應，請各有關單位按照預案落實降雨防範應對措施，密切關注局地短時強降雨過程，做好防汛工作。房山區啟動防汛一級加強應急響應：房山區氣象臺於8月10日10時10分發布暴雨紅色預警訊號，全區於8月11日9時啟動防汛一級加強應急響應。請各有關單位按照預案落實各項預防行動措施，做好降雨防範應對相關工作。"
+    },
+    {
+      "id": "5034884",
+      "time": "2026-08-11 09:57:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對用於液晶顯示器的玻璃基板等的337部分終裁】8月7日，美國國際貿易委員會（ITC）釋出公告稱，對特定用於液晶顯示器的玻璃基板及其下游產品和製造此類基板的方法作出337部分終裁：本案行政法官於2026年7月23日作出最終初裁併於2026年8月6日釋出建議救濟措施，具體為如果本案存在侵權，建議向經由列名被告彩虹顯示器件股份有限公司、咸陽彩虹光電科技有限公司、華星光電技術有限公司、美國TTE Technology對美出口、在美進口和在美銷售的侵權產品釋出有限排除令，，向美國TTE Technology釋出禁止令。"
+    },
+    {
+      "id": "5034883",
+      "time": "2026-08-11 09:57:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿達尼綠色能源：判決對公司無重大不利影響。"
+    },
+    {
+      "id": "te:markets:574242",
+      "time": "2026-08-11 09:57:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Fall on Geopolitical Jitters, AI Weakness — The Shanghai Composite fell 0.4% to 3,951 on Tuesday, while the Shenzhen Component declined 0.5% to 14,249, as investor sentiment weakened amid fading optimism over a near-term easing of US-Iran tensions. Market caution intensified after US President Donald Trump demanded that Iran compensate victims of conflicts involving Tehran, while Iranian officials sought reparations for damage caused by recent US and Israeli strikes. The renewed diplomatic impasse dampened expectations for a swift reopening of the Strait of Hormuz, raising concerns that disruptions to shipping through the waterway could persist and continue to weigh on global risk appetite. Market sentiment was also pressured by renewed selling in AI-related stocks, as investors rotated into more defensive sectors amid increasing volatility in the AI trade. Leading declines included Zhongji Innolight (-6.0%), Eoptolink Technology (-5.1%), Cambricon Technologies (-2.1%), Hygon Information Technology (-1.6%), and SMIC (-1.1%)."
+    },
+    {
+      "id": "5034882",
+      "time": "2026-08-11 09:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿達尼綠色能源：法院判決駁回美國證券交易委員會的民事訴訟。"
+    },
+    {
+      "id": "5034881",
+      "time": "2026-08-11 09:56:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞吉明生物完成新一輪數千萬融資】8月11日，瑞吉明（山東）生物科技有限公司宣佈完成新一輪數千萬融資，本輪融資由楚昌基金投資，君屹資本擔任本輪投資顧問。楚昌基金為九州通創始人旗下唯一的全資私募股權投資平臺。"
+    },
+    {
+      "id": "mkt:019fee88-7f9a-7aab-8fe4-78e8a8457f91",
+      "time": "2026-08-11 09:55:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures' intraday gain widened to 1.00%, trading at $4,493.10/oz."
+    },
+    {
+      "id": "5034880",
+      "time": "2026-08-11 09:55:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿達尼綠色能源：美國紐約東區法院已於2026年8月10日經雙方同意作出終局判決。"
+    },
     {
       "id": "5034879",
       "time": "2026-08-11 09:55:32",
@@ -143969,137 +144059,6 @@
         "Importance 1"
       ],
       "text": "Australian Dollar Remains Firm — The Australian dollar traded around $0.70, near multi-week highs as stronger-than-expected household spending reinforced signs of resilient domestic demand ahead of the Reserve Bank’s monetary policy meeting next week. Household spending rose 0.8% in June, well above forecasts of 0.2%, driven by another increase in discretionary spending, while annual growth accelerated to 6.0%, also exceeding expectations. The data supported the central bank’s view that consumer activity remains firm despite weak sentiment, although recent softer inflation and a cooling housing market have strengthened expectations that the central bank will leave its 4.35% cash rate unchanged next week. Markets are also pricing little chance of a rate hike in September, while assigning roughly a 50% probability of a move in November if third-quarter inflation proves stronger than expected. Investors now await upcoming final PMI figures and trade balance data this week for further clues on the economy’s health."
-    },
-    {
-      "id": "5023515",
-      "time": "2026-08-04 09:59:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "5023514",
-      "time": "2026-08-04 09:58:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中際旭創盤中漲超10%】A股中際旭創盤中漲10.01%，現報992.86元。"
-    },
-    {
-      "id": "mkt:019fca7e-3598-7aab-8f62-32d3faeb969d",
-      "time": "2026-08-04 09:58:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China STAR 50 Index rose more than 3%; Yuanjie Technology gained over 14%, leading constituents."
-    },
-    {
-      "id": "5023513",
-      "time": "2026-08-04 09:58:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銅箔/覆銅板概念持續走強，沃格光電漲停】銅箔/覆銅板概念持續走強，沃格光電漲停，生益科技、東材科技、銅冠銅箔、寶鼎科技、南亞新材、華正新材等跟漲。"
-    },
-    {
-      "id": "5023512",
-      "time": "2026-08-04 09:58:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達3.05%，成分股中，源傑科技漲14.90%，生益電子漲8.30%，芯原股份漲7.40%，華虹宏力漲6.67%。"
-    },
-    {
-      "id": "5023511",
-      "time": "2026-08-04 09:57:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.01%，現報13718.096點；上證指數跌0.07%，現報3807.091點；創業板指漲3.82%，現報3428.781點。"
-    },
-    {
-      "id": "mkt:019fca7d-c346-7aab-8f62-2f8e6bc0bd34",
-      "time": "2026-08-04 09:57:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "Shenzhen Component Index rose more than 2%. Constituents: Guangku Technology up over 17%, Xiechuang Data up over 12%, Tianfu Communications up over 11%."
-    },
-    {
-      "id": "te:economy:572327",
-      "time": "2026-08-04 09:57:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Household Spending MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Personal Spending Slows, Still Beats Forecasts — Household spending in Australia rose 0.8% month-on-month in June 2026, slowing from a marginally revised 1.2% gain in the previous month and marking the weakest pace since February. Still, the latest figure exceeded market expectations of 0.2%. Spending growth eased for food (0.3% vs 1.1% in May) and furnishings (0.6% vs 0.8%), while declines were seen in clothing and footwear (-0.7% vs 2.4%), hotels, cafes, and restaurants (-0.1% vs 1.8%), and miscellaneous goods and services (-0.6% vs 2.2%). By contrast, spending accelerated in alcohol and tobacco (1.0%), health (0.3%), transport (3.0%), and recreation (1.4%). Regionally, all states and territories recorded gains: New South Wales (1.0%), Victoria (0.6%), Queensland (0.4%), South Australia (0.5%), Western Australia (1.3%), Tasmania (1.6%), the Northern Territory (0.2%), and the Australian Capital Territory (1.4%). On an annual basis, household spending climbed 6.0%, up from 5.5% in May, pointing to the fastest pace in three months."
-    },
-    {
-      "id": "5023510",
-      "time": "2026-08-04 09:56:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特發生多起爆炸 當地一美軍基地遭襲】據伊朗方面訊息，科威特4日凌晨發生多起爆炸。初步報告顯示，位於科威特的一個美軍基地遭到襲擊，科威特中部可以看到濃煙和火光。訊息稱，伊拉克南部也能聽見爆炸聲。對於相關訊息，目前科威特和美軍方面沒有作出回應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fca7c-bed3-7aab-8f62-25a6a2664e34",
-      "time": "2026-08-04 09:56:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Multiple explosions in Kuwait; US base in Kuwait reportedly attacked】Iranian sources report multiple explosions in Kuwait in the early hours of April 4. Initial reports say a US military base in Kuwait was attacked; smoke and flames were visible in central Kuwait and blasts were heard in southern Iraq. Kuwait and the US military have not responded to the reports."
-    },
-    {
-      "id": "5023509",
-      "time": "2026-08-04 09:56:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股算力硬體股拉昇，中際旭創一度漲近17%】港股算力硬體股拉昇，中際旭創一度漲近17%，劍橋科技漲超10%，兆易創新、華虹宏力跟漲。"
-    },
-    {
-      "id": "mkt:019fca7c-7b22-7aab-8f62-1d71e045c0e2",
-      "time": "2026-08-04 09:56:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【State Administration for Market Regulation names 20 regions, including Beijing and Shanghai, as national trade-secret protection innovation pilots】The State Administration for Market Regulation issued a notice promoting nationwide best practices in trade-secret protection and designated 20 locales as the first batch of national trade-secret protection innovation pilots: Beijing (Haidian and Tongzhou districts), Tianjin Binhai New Area, Shanghai (Pudong New Area and Fengxian District), Nanjing, Wuxi, Suzhou, Hangzhou, Ningbo, Wenzhou, Hefei, Xiamen Haicang District, Wuhan, Changsha, Guangzhou, Shenzhen, Foshan, Chongqing Jiangjin District, and Chengdu Wuhou District."
-    },
-    {
-      "id": "5023508",
-      "time": "2026-08-04 09:56:14",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數日內再度漲超1%，此前韓國財政部長承諾緩解股市波動。"
-    },
-    {
-      "id": "mkt:019fca7c-5204-7aab-8f62-13a714137cc8",
-      "time": "2026-08-04 09:56:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI rose more than 1% intraday again after the finance minister pledged to ease equity-market volatility."
     }
   ]
 }

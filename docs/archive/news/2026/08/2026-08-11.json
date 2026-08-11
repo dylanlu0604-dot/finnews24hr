@@ -1,7 +1,97 @@
 {
   "date": "2026-08-11",
-  "count": 717,
+  "count": 727,
   "items": [
+    {
+      "id": "5034887",
+      "time": "2026-08-11 09:59:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊震盪反彈 華能蒙電漲停】電力板塊震盪反彈，華能蒙電漲停，此前兆新股份漲停，立新能源、京能電力、百通能源、華電遼能跟漲。"
+    },
+    {
+      "id": "5034886",
+      "time": "2026-08-11 09:59:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊持續走強，華智數媒20cm漲停】影視院線板塊持續走強，華智數媒20cm漲停，北京文化、文投控股此前漲停，儒意電影、上海電影、幸福藍海、金逸影視、中國電影、橫店影視等跟漲。"
+    },
+    {
+      "id": "5034885",
+      "time": "2026-08-11 09:58:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京大興、房山啟動防汛一級應急響應】大興區啟動防汛一級應急響應：8月11日9時00分啟動全區防汛一級應急響應，請各有關單位按照預案落實降雨防範應對措施，密切關注局地短時強降雨過程，做好防汛工作。房山區啟動防汛一級加強應急響應：房山區氣象臺於8月10日10時10分發布暴雨紅色預警訊號，全區於8月11日9時啟動防汛一級加強應急響應。請各有關單位按照預案落實各項預防行動措施，做好降雨防範應對相關工作。"
+    },
+    {
+      "id": "5034884",
+      "time": "2026-08-11 09:57:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對用於液晶顯示器的玻璃基板等的337部分終裁】8月7日，美國國際貿易委員會（ITC）釋出公告稱，對特定用於液晶顯示器的玻璃基板及其下游產品和製造此類基板的方法作出337部分終裁：本案行政法官於2026年7月23日作出最終初裁併於2026年8月6日釋出建議救濟措施，具體為如果本案存在侵權，建議向經由列名被告彩虹顯示器件股份有限公司、咸陽彩虹光電科技有限公司、華星光電技術有限公司、美國TTE Technology對美出口、在美進口和在美銷售的侵權產品釋出有限排除令，，向美國TTE Technology釋出禁止令。"
+    },
+    {
+      "id": "5034883",
+      "time": "2026-08-11 09:57:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿達尼綠色能源：判決對公司無重大不利影響。"
+    },
+    {
+      "id": "te:markets:574242",
+      "time": "2026-08-11 09:57:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "China Stocks Fall on Geopolitical Jitters, AI Weakness — The Shanghai Composite fell 0.4% to 3,951 on Tuesday, while the Shenzhen Component declined 0.5% to 14,249, as investor sentiment weakened amid fading optimism over a near-term easing of US-Iran tensions. Market caution intensified after US President Donald Trump demanded that Iran compensate victims of conflicts involving Tehran, while Iranian officials sought reparations for damage caused by recent US and Israeli strikes. The renewed diplomatic impasse dampened expectations for a swift reopening of the Strait of Hormuz, raising concerns that disruptions to shipping through the waterway could persist and continue to weigh on global risk appetite. Market sentiment was also pressured by renewed selling in AI-related stocks, as investors rotated into more defensive sectors amid increasing volatility in the AI trade. Leading declines included Zhongji Innolight (-6.0%), Eoptolink Technology (-5.1%), Cambricon Technologies (-2.1%), Hygon Information Technology (-1.6%), and SMIC (-1.1%)."
+    },
+    {
+      "id": "5034882",
+      "time": "2026-08-11 09:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿達尼綠色能源：法院判決駁回美國證券交易委員會的民事訴訟。"
+    },
+    {
+      "id": "5034881",
+      "time": "2026-08-11 09:56:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞吉明生物完成新一輪數千萬融資】8月11日，瑞吉明（山東）生物科技有限公司宣佈完成新一輪數千萬融資，本輪融資由楚昌基金投資，君屹資本擔任本輪投資顧問。楚昌基金為九州通創始人旗下唯一的全資私募股權投資平臺。"
+    },
+    {
+      "id": "mkt:019fee88-7f9a-7aab-8fe4-78e8a8457f91",
+      "time": "2026-08-11 09:55:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures' intraday gain widened to 1.00%, trading at $4,493.10/oz."
+    },
+    {
+      "id": "5034880",
+      "time": "2026-08-11 09:55:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿達尼綠色能源：美國紐約東區法院已於2026年8月10日經雙方同意作出終局判決。"
+    },
     {
       "id": "5034879",
       "time": "2026-08-11 09:55:32",
