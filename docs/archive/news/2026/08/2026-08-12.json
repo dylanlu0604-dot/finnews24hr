@@ -1,7 +1,250 @@
 {
   "date": "2026-08-12",
-  "count": 74,
+  "count": 98,
   "items": [
+    {
+      "id": "te:markets:574496",
+      "time": "2026-08-12 00:26:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Climbs to Fresh Record — The DAX rose 0.3% to a record of 26,385 on Tuesday as gains for utilities offset losses elsewhere. Siemens Energy led the advance, rising 3.2% after reports that the company booked the most gas-turbine orders in the second quarter. The company continued to trade in tandem with AI infrastructure companies amid the development of power-hungry data centers. Likewise, data center projects were due to boost RWE (1.7%) and E.ON (0.9%) ahead of their earnings this week. Auto stocks also outperformed following data showing US auto loans at record levels. BMW rose 1.2% and Volkswagen gained 0.1%, while Daimler Truck Holdings fell 1.9% as rising Middle East tensions pushed fuel prices higher and concerns over the shift toward electric vehicles weighed on sentiment. Adidas dropped 3% after On Holding missed estimates for second-quarter net sales, highlighting a tougher macroeconomic environment. Zalando fell 2.6%."
+    },
+    {
+      "id": "mkt:019ff1a4-8cac-7aab-8ff7-ae70f3691092",
+      "time": "2026-08-12 00:25:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's GOOLSBEE said the biggest problem facing the economy is inflation."
+    },
+    {
+      "id": "mkt:019ff1a4-56e3-7aab-8ff7-a6888caee9af",
+      "time": "2026-08-12 00:25:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's GOOLSBEE said the economy will remain healthy so long as consumption remains resilient."
+    },
+    {
+      "id": "5036262",
+      "time": "2026-08-12 00:24:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門海岸警衛隊稱胡塞武裝襲擊商船致6人死亡】當地時間11日，葉門海岸警衛隊發表宣告說，胡塞武裝當天上午在曼德海峽對一艘名為“塔哈馬”號的商船發動導彈襲擊，造成包括船員和葉門武裝人員在內的6人死亡、10人受傷。"
+    },
+    {
+      "id": "5036261",
+      "time": "2026-08-12 00:24:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "ZoomInfo資料現已接入微軟Copilot Studio，可在微軟365 Copilot、Dynamics 365、Excel以及Word中使用。"
+    },
+    {
+      "id": "mkt:019ff1a3-70d5-7aab-8ff7-980952e2d63f",
+      "time": "2026-08-12 00:24:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's GOOLSBEE said prices and affordability are the biggest problem the Fed currently faces."
+    },
+    {
+      "id": "5036260",
+      "time": "2026-08-12 00:23:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：物價與可負擔性，這是我們當前面臨的最大問題。"
+    },
+    {
+      "id": "mkt:019ff1a2-f2ca-7aab-8ff7-91febb700575",
+      "time": "2026-08-12 00:23:35",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) hit an intraday low, down more than 5% on the session."
+    },
+    {
+      "id": "mkt:019ff1a2-dd80-7aab-8ff7-8e7067bae0f5",
+      "time": "2026-08-12 00:23:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EIA expects U.S. commercial crude inventories to stay below five-year lows through end-2026】The EIA expects U.S. commercial crude inventories to remain below the five‑year low for the comparable 2021–25 period through the end of 2026. Inventories have fallen since mid‑April amid higher exports, lower imports and elevated refinery runs. Strong international demand for U.S. crude means net U.S. crude imports are forecast to stay below average through 2027."
+    },
+    {
+      "id": "5036259",
+      "time": "2026-08-12 00:22:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲古爾斯比稱通脹是經濟面臨的最大難題】芝加哥聯邦儲備銀行行長奧斯坦·古爾斯比表示，“當前我國經濟面臨的最大問題”是通脹。古爾斯比周二稱，各項指標表明“勞動力市場趨於穩定，但狀態並不理想”。古爾斯比表示：“只要消費者保持穩健，我認為經濟就會維持良好態勢。”"
+    },
+    {
+      "id": "mkt:019ff1a1-a2c9-7aab-8ff7-873283f1d84c",
+      "time": "2026-08-12 00:22:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chile's Copper Commission Cochilco forecasts copper production at 5.55 mln tonnes in 2027, up 5.2% from 2026."
+    },
+    {
+      "id": "mkt:019ff1a1-61f8-7aab-8ff7-7b8e9001dc42",
+      "time": "2026-08-12 00:21:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK Prime Minister Burnham said fiscal space for government support is limited. He faces a severe fiscal outlook and will not propose any measures he cannot fund."
+    },
+    {
+      "id": "5036258",
+      "time": "2026-08-12 00:21:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思將於週三前往巴拿馬，與穆利諾總統會面。"
+    },
+    {
+      "id": "5036257",
+      "time": "2026-08-12 00:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX跌超5%。"
+    },
+    {
+      "id": "5036256",
+      "time": "2026-08-12 00:21:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國消費者金融保護局阻止加薪及獎金的訴求已提交仲裁。"
+    },
+    {
+      "id": "mkt:019ff1a0-6ba8-7aab-8ff7-715ad7b073eb",
+      "time": "2026-08-12 00:20:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "BBC reports UK Prime Minister Burnham says the government is considering additional support for businesses."
+    },
+    {
+      "id": "5036255",
+      "time": "2026-08-12 00:20:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長：週日有2000萬桶石油從海灣地區流出，這一數量高於衝突爆發前的平均水平。"
+    },
+    {
+      "id": "mkt:019ff1a0-55c3-7aab-8ff7-6c2e549c8359",
+      "time": "2026-08-12 00:20:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA projects Texas electricity load will rise 6% in 2027, down from the 14% increase forecast in July’s Short-Term Energy Outlook (STEO)."
+    },
+    {
+      "id": "5036254",
+      "time": "2026-08-12 00:20:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "英國首相伯納姆表示，政府正考慮為企業出臺更多支援措施。"
+    },
+    {
+      "id": "5036253",
+      "time": "2026-08-12 00:20:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：我正面臨嚴峻財政前景，不會推出任何超出我財力範圍的措施。"
+    },
+    {
+      "id": "5036252",
+      "time": "2026-08-12 00:20:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆：我目前所處境況下，在爭取政府支援方面的操作空間十分有限。"
+    },
+    {
+      "id": "5036251",
+      "time": "2026-08-12 00:19:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計，中東原油日產約60萬桶的供應中斷將持續至2027年底。"
+    },
+    {
+      "id": "5036250",
+      "time": "2026-08-12 00:18:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署(EIA)在8月短期能源展望(STEO)中預計，2027年德克薩斯州電力負荷將增長6%，低於7月14%的先前預測增幅。"
+    },
+    {
+      "id": "mkt:019ff19e-614b-7aab-8ff7-60f08996974d",
+      "time": "2026-08-12 00:18:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The EIA expects a sustained disruption to Middle East crude output of about 600,000 barrels per day to persist through the end of 2027."
+    },
     {
       "id": "mkt:019ff19e-2239-7aab-8ff7-5a3a616ac4e0",
       "time": "2026-08-12 00:18:20",
