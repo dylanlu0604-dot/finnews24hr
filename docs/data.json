@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-11 13:38:54",
+  "updated": "2026-08-11 13:42:48",
   "count": 15871,
   "items": [
+    {
+      "id": "5035105",
+      "time": "2026-08-11 13:42:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金溢科技在襄陽成立車路通科技公司】企查查APP顯示，近日，襄陽市車路通科技有限公司成立，法定代表人為吳國慶，註冊資本為1000萬元，經營範圍包含人工智慧應用軟體開發；物聯網技術研發；智慧車載裝置製造；通訊裝置製造；汽車零部件研發等。企查查股權穿透顯示，該公司由金溢科技間接全資持股。"
+    },
+    {
+      "id": "mkt:019fef57-6636-7aab-8fe8-6b3efe7a91ba",
+      "time": "2026-08-11 13:41:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Analyst: Multiple indicators show Reserve Bank of Australia nearing end of tightening cycle】Analyst James Glynn says revised Reserve Bank of Australia forecasts point to a policy setting close to comfortable. The RBA has raised its unemployment path to 4.5% by December from 4.3% previously, cut its headline CPI forecast to 3.6% by December from 4.0%, and lowered trimmed‑mean inflation to 3.3% by December from 3.5%, with trimmed mean expected to reach 2.4% by June 2028. Glynn says the direction of these revisions is consistent with the RBA nearing the end of its tightening cycle."
+    },
+    {
+      "id": "mkt:019fef56-fe6b-7aab-8fe8-668e619f8672",
+      "time": "2026-08-11 13:41:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "JD.com",
+        "Xiaomi",
+        "09618.HK",
+        "Impact bearish",
+        "01810.HK",
+        "09888.HK"
+      ],
+      "text": "Hong Kong-listed tech shares weakened in choppy trading; JD.com (09618.HK) and Xiaomi Group (01810.HK) fell more than 3%, while Kuaishou (01024.HK) and Baidu (09888.HK) also slipped."
+    },
+    {
+      "id": "mkt:019fef56-11d1-7aab-8fe8-59e950c50ad1",
+      "time": "2026-08-11 13:40:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the board is carefully weighing the timing of a rate increase."
+    },
+    {
+      "id": "5035104",
+      "time": "2026-08-11 13:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：委員會正在認真考慮何時可能適合加息。"
+    },
+    {
+      "id": "5035103",
+      "time": "2026-08-11 13:38:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "布洛克：首要考慮的是通貨膨脹、中東衝突和人工智慧熱潮。"
+    },
     {
       "id": "mkt:019fef54-1ec6-7aab-8fe8-57375344422a",
       "time": "2026-08-11 13:38:15",
@@ -116,6 +177,15 @@
         "其他"
       ],
       "text": "布洛克：委員會不排除進一步加息的可能性，需要更多資訊。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608113837760536",
+      "time": "2026-08-11 13:34:12",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【澳洲聯儲主席布洛克：委員會認為通脹存在上行風險】澳洲聯儲主席布洛克表示，委員會認為通脹存在上行風險，預計需要一段時間的經濟增長放緩才能降低通脹，如有必要，將再次加息。"
     },
     {
       "id": "5035097",
@@ -144423,71 +144493,6 @@
         "公司"
       ],
       "text": "RBC資本市場首予SK海力士“跑贏大盤”評級；目標價200美元。"
-    },
-    {
-      "id": "5023727",
-      "time": "2026-08-04 13:42:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興業科技成立半導體公司 註冊資本1億元】企查查APP顯示，江蘇興光半導體有限公司成立，法定代表人為吳國仕，註冊資本為1億元，經營範圍包含電子專用材料製造；電子專用材料研發；電子專用材料銷售；新材料技術研發等。企查查股權穿透顯示，該公司由興業科技(002674)間接全資持股。"
-    },
-    {
-      "id": "5023726",
-      "time": "2026-08-04 13:42:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【DeepSeek API出現效能下降情況，現已恢復】8月4日，海外開源AI Coding Agent平臺OpenCode發文稱：DeepSeek V4 Flash當前因前所未有的訪問量而出現容量不足問題，可能會遇到報錯，正在緊急修復中。也有網友發文表示：DeepSeek V4 Flash官方API上午幾乎不可用，和Kimi K3剛釋出時情況差不多，國產模型能力趕上來了，但可用性與容量仍有改善空間。DeepSeek官方披露，今日上午DeepSeek V4 Flash API出現效能下降情況，目前問題已解決，服務已恢復。（第一財經）"
-    },
-    {
-      "id": "mkt:019fcb49-162a-7aab-8f65-2ba63fcce081",
-      "time": "2026-08-04 13:39:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share electronic components sector extended gains; Dongjing Electronics hit the daily limit, Hongban Technology, Shennan Circuit and Dongshan Precision had earlier hit limit-up, while Nanya New Materials and Zhongfu Circuit rose over 10%."
-    },
-    {
-      "id": "5023725",
-      "time": "2026-08-04 13:39:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【元件板塊持續走高，東晶電子直線漲停】元件板塊持續走高，東晶電子直線漲停，紅板科技、深南電路、東山精密等股此前漲停，南亞新材、中富電路漲超10%。"
-    },
-    {
-      "id": "te:economy:572384",
-      "time": "2026-08-04 13:39:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Job Advertisements",
-        "Importance 1"
-      ],
-      "text": "Australia Job Ads Rebound in July — Australia’s ANZ–Indeed Job Ads increased 0.8% month-over-month in July 2026, reversing an upwardly revised 0.1% decline in the previous month and marking the fourth monthly rise so far this year. The resilience in job ads is consistent with the continued strength of the labour market, according to ANZ economist Aaron Luk. \"Following the release of June quarter inflation data, we remain of the view that the RBA will keep rates on hold at 4.35%, he added. That said, the trajectory of the monthly trimmed mean does suggest there remains the risk of a rate hike in November. Indeed senior economist Callam Pickering noted gains were relatively broad-based in July, led by management and physician & surgeon opportunities. Those two occupations, along with nursing, have been the fastest-growing roles over the past year. Compared with a year earlier, job ads increased 2.1% and remained 16.2% above their decade average."
-    },
-    {
-      "id": "5023724",
-      "time": "2026-08-04 13:39:25",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛亞太首席策略師：仍看好韓國股票，維持12000點目標】高盛亞太區首席股票策略師蒂莫西·莫伊表示，仍然看好遭受重創的韓國股市，並維持其對韓國綜合股價指數（KOSPI）12000點的目標。 莫伊表示：“如果波動效能夠下降，那麼我們認為基本面將會重新發揮作用，而且我們認為這些基本面非常有吸引力。”他說：“目前預期市盈率五倍的市場被嚴重低估，市場實際上是在表示它不相信半導體儲存器週期能夠持續下去，而我們認為可以。我們認為我們目前所處的半導體週期比通常情況更大、更長。”"
-    },
-    {
-      "id": "5023723",
-      "time": "2026-08-04 13:39:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特阿美：最大限度地提高西海岸煉油廠運營效率，以實現更高利潤。"
     }
   ]
 }
