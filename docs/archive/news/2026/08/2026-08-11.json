@@ -1,7 +1,85 @@
 {
   "date": "2026-08-11",
-  "count": 888,
+  "count": 896,
   "items": [
+    {
+      "id": "5035001",
+      "time": "2026-08-11 12:04:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【訊息人士：阿布扎比國家石油公司6月以來第8次招標出售現貨原油】貿易訊息人士稱，阿布扎比國家石油公司（ADNOC）正在透過招標出售現貨原油，這是自6月初以來該公司的第八次招標。這家阿聯酋國有石油企業正致力於轉運霍爾木茲海峽內的原油。阿布扎比國家石油公司週一放出上扎庫姆、烏姆露露以及達斯原油，裝船期為10月和11月。投標截止時間為8月13日，投標有效期至8月14日。這三類原油均產自海灣油田，經由霍爾木茲海峽出口。訊息人士表示，阿布扎比國家石油公司本次最新招標並未放出穆爾班原油。與此前招標條件一致，買家可選擇在阿聯酋富查伊拉倉儲區、澤爾庫島或達斯島按船上交貨價採購。買家也可選擇在富查伊拉‑蘇哈爾海域區間或馬來西亞海域開展船對船過駁作業。"
+    },
+    {
+      "id": "5035000",
+      "time": "2026-08-11 12:03:54",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "哈薩克央行：7月哈薩克淨黃金外匯儲備環比增長3.18%，達到617.24億美元。"
+    },
+    {
+      "id": "mkt:019feefd-a2ec-7aab-8fe5-f42fed2efadb",
+      "time": "2026-08-11 12:03:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "09688.HK",
+        "Impact bullish",
+        "00883.HK",
+        "09866.HK",
+        "Impact bearish"
+      ],
+      "text": "【Hong Kong midday: Hang Seng falls 0.63% after early spike above 26,000; innovative drugs lead】Hang Seng opened higher, briefly topped 26,000 before reversing and closed down 0.63% at 25,773.56, trading back beneath its 250-day moving average. The Hang Seng Tech Index underperformed, down 1.27% at 4,857.12. Market turnover was HKD 115.84 bln. Innovative drug names led gains, memory-chip plays showed recovery, oil stocks were among top advancers, gold opened strong then faded and autos lagged. Notable moves: Zai Lab (09688.HK) +5.34%, WuXi AppTec (02359.HK) +2.02%, CNOOC (00883.HK) +3.76%, Lanqi Technology (06809.HK) +4.97%, Zijin Mining (02899.HK) -3.51%, NIO-SW (09866.HK) -3.11%."
+    },
+    {
+      "id": "mkt:019feefd-7c32-7aab-8fe5-eafe604efe60",
+      "time": "2026-08-11 12:03:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Kazakhstan's central bank said net FX and gold reserves were $61.724 billion in July, a month-on-month change of 3.2%."
+    },
+    {
+      "id": "5034999",
+      "time": "2026-08-11 12:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：中央處理器或成為臺積電的新增長動力】Bernstein分析師在一份研究報告中表示，隨著今年早些時候智慧體化AI的起飛，中央處理器市場料將加快增長，並可能成為臺積電的新增長動力。Bernstein的分析師目前預計，到2027年，臺積電的CPU收入將達到300億美元區間的高階，佔其總收入的15%左右。因此，就2027年的晶圓收入貢獻而言，CPU可能與包括GPU和ASIC在內的AI加速器一樣重要。Bernstein將臺積電的目標價從新臺幣2,780元上調至新臺幣3,300元，並指出與同行相比，其估值偏低。"
+    },
+    {
+      "id": "5034997",
+      "time": "2026-08-11 12:01:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "渣打銀行：渣打銀行牽手安聯全球投資者，推出新合作基金佈局黃金賽道。"
+    },
+    {
+      "id": "5034996",
+      "time": "2026-08-11 12:01:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.63%，恒生科技指數跌1.27%】港股午間收盤，恒生指數跌0.63%，恒生科技指數跌1.27%。恒指港股通ETF銀華（159318）跌0.08%，港股通科技ETF鵬華（159751）跌0.43%。板塊方面，被動元件、模擬晶片設計板塊漲幅靠前；電能綜合服務、焦炭加工Ⅲ板塊跌幅靠前。個股方面，邁威生物-B漲11.91%，聖邦股份漲9.69%，康龍化成漲9.61%，三環集團漲9.43%，金斯瑞生物科技漲8.44%；鴻騰精密跌13.39%，晉景新能跌7.1%，金風科技跌7.0%，天數智芯跌6.83%，凱樂士科技跌6.47%。"
+    },
+    {
+      "id": "5034995",
+      "time": "2026-08-11 12:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國鐵塔上半年營運收入486.9億元，淨利潤74.9億元。"
+    },
     {
       "id": "5034994",
       "time": "2026-08-11 11:59:01",
