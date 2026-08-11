@@ -1,7 +1,44 @@
 {
   "date": "2026-08-11",
-  "count": 642,
+  "count": 646,
   "items": [
+    {
+      "id": "mkt:019fee74-5fc5-7aab-8fe3-ce857c9831a0",
+      "time": "2026-08-11 09:33:51",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "A-share industrial machine-tool names extended yesterday’s gains; Huadong CNC hit a second straight daily limit, while Huazhong CNC, Shenyang Machine Tool, Kede CNC and Hengjin Induction rose."
+    },
+    {
+      "id": "5034830",
+      "time": "2026-08-11 09:33:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【博時ETF王者挑戰賽正式開賽！】8月10日至11月13日，100萬初始虛擬資金，體驗ETF模擬交易。周榜現金紅包、月榜實物好禮、總榜精彩大獎等你來贏！立即報名，和全網選手同臺競技。本活動為模擬交易比賽，活動環節不涉及真實證券/基金賬戶開立、申贖或交易行為，不涉及真實資金操作。模擬交易成績不代表實際投資收益。市場有風險，投資需謹慎。"
+    },
+    {
+      "id": "mkt:019fee74-0026-7aab-8fe3-c14b3917b493",
+      "time": "2026-08-11 09:33:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's State Council Information Office will hold a 'Kickoff of the 15th Five-Year Plan' press briefing at 10:00 a.m. Beijing time on Thursday, Aug. 13, 2026. Minister of Ecology and Environment Huang Runqiu will outline plans to advance the Beautiful China initiative and take questions."
+    },
+    {
+      "id": "mkt:019fee73-69cb-7aab-8fe3-b88e09bd38b1",
+      "time": "2026-08-11 09:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said any FIFA move to replace president Gianni Infantino would be a huge mistake. He called Infantino outstanding, said he recently presided over the most successful World Cup ever—four times the success of previous tournaments—and warned that if Infantino departs the World Cup will not be able to achieve the same level of success or profitability."
+    },
     {
       "id": "5034829",
       "time": "2026-08-11 09:32:03",
