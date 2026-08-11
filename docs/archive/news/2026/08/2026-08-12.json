@@ -1,7 +1,20 @@
 {
   "date": "2026-08-12",
-  "count": 111,
+  "count": 112,
   "items": [
+    {
+      "id": "mkt:019ff1b5-0121-7aab-8ff7-c5fb36e9cd45",
+      "time": "2026-08-12 00:43:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d."
+    },
     {
       "id": "5036273",
       "time": "2026-08-12 00:41:20",

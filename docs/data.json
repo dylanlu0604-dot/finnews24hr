@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-12 00:43:29",
-  "count": 15622,
+  "updated": "2026-08-12 00:47:23",
+  "count": 15621,
   "items": [
+    {
+      "id": "mkt:019ff1b5-0121-7aab-8ff7-c5fb36e9cd45",
+      "time": "2026-08-12 00:43:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EIA cuts 2026 global oil production forecast, raises 2027 demand】EIA’s Short-Term Energy Outlook cuts 2026 global oil production to 100.8 mln b/d from 101.9 mln b/d; 2027 production is 109.7 mln b/d (prior 109.8 mln b/d). The report lowers 2026 global oil demand to 102.7 mln b/d from 102.8 mln b/d and raises 2027 demand to 105.0 mln b/d from 104.8 mln b/d."
+    },
     {
       "id": "5036273",
       "time": "2026-08-12 00:41:20",
@@ -142279,22 +142292,6 @@
         "MKT News"
       ],
       "text": "【Iran says talks with Oman on Strait of Hormuz progress 'positive'】Iran's foreign ministry said Iran and Oman are continuing negotiations to secure shipping through the Strait of Hormuz, focusing on delineating safe transit lanes. Foreign ministry spokesman Baghaei told Iranian state TV the talks have received \"positive\" assessments on both technical and political levels. Iran said it is working to establish the mechanisms needed to manage shipping in the strait."
-    },
-    {
-      "id": "5025186",
-      "time": "2026-08-05 00:45:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "諾和諾德ADR下跌3.3%，抹去了早盤漲幅。"
-    },
-    {
-      "id": "5025185",
-      "time": "2026-08-05 00:43:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金上漲超過7%，報1,745.93美元/盎司。"
     }
   ]
 }
