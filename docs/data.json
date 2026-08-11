@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-12 03:27:44",
+  "updated": "2026-08-12 03:31:33",
   "count": 15646,
   "items": [
+    {
+      "id": "mkt:019ff24e-38f8-7aab-8ff9-e448401f3c62",
+      "time": "2026-08-12 03:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices rose on the 11th】At the close, NYMEX September light crude settled up $1.07 at $83.20 a barrel, +1.3 pct; ICE Brent October settled up $1.19 at $88.91 a barrel, +1.36 pct."
+    },
+    {
+      "id": "5036356",
+      "time": "2026-08-12 03:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝稱打擊葉門多地的與沙特相關軍事目標】葉門胡塞武裝發言人葉海亞11日表示，胡塞武裝動用大量彈道導彈和無人機，對沙特支援、在摩卡地區以及馬裡卜省塔達溫軍事基地的人員集結、武器庫和指揮部實施打擊。葉海亞稱，相關打擊“精準命中目標”，造成數十人死傷，其中包括沙特人員。他還表示，沙特方面的各類軍事集結旨在升級局勢並控制葉門，胡塞武裝將繼續對其實施打擊。（央視新聞）"
+    },
+    {
+      "id": "5036355",
+      "time": "2026-08-12 03:29:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價11日上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲1.07美元，收於每桶83.20美元，漲幅為1.3%；10月交貨的倫敦布倫特原油期貨價格上漲1.19美元，收於每桶88.91美元，漲幅為1.36%。"
+    },
+    {
+      "id": "mkt:019ff24d-1e56-7aab-8ff9-dfdf1d2596bd",
+      "time": "2026-08-12 03:29:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【US dollar index up on 11th】The US dollar index, tracking the dollar against six major currencies, rose 0.02% to 99.828 at the New York FX close. EUR/USD 1.1540, down from 1.1542; GBP/USD 1.3503, down from 1.3509; USD/JPY 159.26, up from 159.24; USD/CHF 0.8112, up from 0.8101; USD/CAD 1.3920, down from 1.3942; USD/SEK 9.5244, up from 9.5016."
+    },
+    {
+      "id": "mkt:019ff24c-f3e9-7aab-8ff9-d34d15688418",
+      "time": "2026-08-12 03:29:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Libya western refinery hit by drone attack again】Libya National Oil Corporation said a tank at its Zawiya refinery, about 40 km west of Tripoli, was struck by a drone on Tuesday — the fifth such attack since Sunday. The strike caused a small fire that firefighters extinguished and the refinery remained operational; a separate attack occurred in the early hours of the same day. NOC said fuel supply was unaffected and daily deliveries to petrol stations continued as planned."
+    },
+    {
+      "id": "5036353",
+      "time": "2026-08-12 03:28:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數11日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.02%，在匯市尾市收於99.828。截至紐約匯市尾市，1歐元兌換1.1540美元，低於前一交易日的1.1542美元；1英鎊兌換1.3503美元，低於前一交易日的1.3509美元。1美元兌換159.26日元，高於前一交易日的159.24日元；1美元兌換0.8112瑞士法郎，高於前一交易日的0.8101瑞士法郎；1美元兌換1.3920加元，低於前一交易日的1.3942加元；1美元兌換9.5244瑞典克朗，高於前一交易日的9.5016瑞典克朗。"
+    },
     {
       "id": "5036352",
       "time": "2026-08-12 03:26:17",
@@ -142486,64 +142546,6 @@
         "焦點"
       ],
       "text": "SpaceX正與英偉達合作開發「星智AI1」（Starmind AI1）衛星計算載荷。"
-    },
-    {
-      "id": "mkt:019fce42-636d-7aab-8f76-6ba19f3fe9df",
-      "time": "2026-08-05 03:31:25",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bearish"
-      ],
-      "text": "【Shorts surge ahead of SpaceX first public earnings and large lock-up expiry】Short interest in SpaceX (SPCX.O) has surged ahead of the company’s first public earnings report and a large lock-up expiry in two days, S3 Partners data shows. As of July 29, shorts stood at 219.3 mln shares, about 34% of the free float; they were 23.3 mln shares when first disclosed on June 16. The current bearish position now exceeds the size of shorts against Tesla. S3 research head Sam Pierson said the big bet centers on the impending unlock, with markets pricing that the earnings release is unlikely to offset the impact of a large volume of shares hitting the market. SpaceX currently has roughly 640 mln tradable shares, about 5% of total outstanding; S3 estimates the initial lock-up expiry will push that to roughly 12%—more than doubling tradable supply."
-    },
-    {
-      "id": "5025255",
-      "time": "2026-08-05 03:30:56",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "谷歌DeepMind戰略主管：遞迴自我迭代是人工智慧行業投入邏輯的核心。如若無法實現該目標，谷歌每年約2000億美元的資本開支，或得不到當前營收水平的支撐。"
-    },
-    {
-      "id": "mkt:019fce41-95b8-7aab-8f76-677da4677754",
-      "time": "2026-08-05 03:30:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Dow",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【Wells Fargo: AI investment boom spilling into traditional industrials】Wells Fargo strategist Ohsung Kwon says rising data‑center construction will boost the industrial sector. Capital‑goods firms that make machines, equipment and tools for data‑center builds are among the stocks “closest to the AI theme,” he said. Wells Fargo estimates manufacturing activity expanded in July at the fastest pace in over four years and non‑AI capex is up about 10% YoY; commercial and industrial loan growth has also accelerated. Traders rotating into so‑called traditional‑economy sectors have lifted industrials roughly 20% YTD, trailing only energy and information technology. Kwon estimates about 40 hyperscale data centers are under construction and more than 100 are planned, concentrated in Texas, Georgia, Virginia and Pennsylvania. He adds that if local economic spillovers from operational data centers become a trend, the market is at a very early stage of that effect."
-    },
-    {
-      "id": "mkt:019fce41-88d2-7aab-8f76-5ce9b06a1fea",
-      "time": "2026-08-05 03:30:29",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bearish"
-      ],
-      "text": "DownDetector shows user reports of issues at U.S. Netflix (NFLX.O)."
-    },
-    {
-      "id": "5025254",
-      "time": "2026-08-05 03:29:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "Downdetector：使用者報告顯示奈飛在美國出現服務問題。"
-    },
-    {
-      "id": "5025253",
-      "time": "2026-08-05 03:28:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員：霍爾木茲海峽臨時航線免許可免收費，特朗普對伊朗談判大門仍敞開】一名美國官員表示，霍爾木茲海峽的所有臨時航運航線均暢通無阻，無需辦理許可、審批，也不用繳納任何費用。這名官員駁斥了相關報道，即伊朗或將根據潛在協議掌控海峽航運。他表示，霍爾木茲海峽屬於國際水道，任何一方都無權管控航道或船舶通行。一名白宮官員稱，特朗普“手握全部籌碼”，並應美國地區盟友的請求，保留了與伊朗開展談判的可能性。"
     }
   ]
 }
