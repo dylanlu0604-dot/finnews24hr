@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-12 05:45:53",
-  "count": 15525,
+  "updated": "2026-08-12 05:53:56",
+  "count": 15529,
   "items": [
+    {
+      "id": "5036417",
+      "time": "2026-08-12 05:52:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震死亡人數升至188人】哥倫比亞全國首府協會11日釋出最新統計顯示，10日在該國西部發生的7.4級強震已造成188人死亡、1677人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019ff2cf-3fa5-7aab-8ffb-8ab1576ae20f",
+      "time": "2026-08-12 05:51:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "AWS: OpenAI's Daybreak Red and Daybreak Blue are now available to eligible customers on Amazon Bedrock."
+    },
+    {
+      "id": "5036416",
+      "time": "2026-08-12 05:50:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：OpenAI Daybreak 模型現已在亞馬遜 Bedrock 向符合條件的客戶開放。"
+    },
+    {
+      "id": "5036415",
+      "time": "2026-08-12 05:49:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI向亞馬遜Redrock開放Daybreak許可權。"
+    },
+    {
+      "id": "5036414",
+      "time": "2026-08-12 05:48:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝表示願與沙特對話 】葉門胡塞武裝11日表示，願與沙烏地阿拉伯保持對話，但同時稱，除非有關要求得到滿足，否則將繼續對沙特相關船隻以及沙特支援的軍事目標發動襲擊。胡塞武裝首席談判代表兼發言人穆罕默德·阿卜杜勒薩拉姆當天在社交媒體平臺發表宣告說，胡塞武裝談判代表團正就當前局勢與地區及國際各方保持聯絡並舉行會談，“我們沒有關閉對話和談判大門”。但宣告同時指責沙特拒絕談判並準備在葉門採取進一步軍事行動。（新華社）"
+    },
+    {
+      "id": "mkt:019ff2cc-20fb-7aab-8ffb-8257e2bb2aa5",
+      "time": "2026-08-12 05:48:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Yemeni Houthi militia says willing to dialogue with Saudi Arabia】On the 11th the Houthi militia said it is willing to hold dialogue with Saudi Arabia but warned it will continue attacks on Saudi-linked vessels and Saudi-backed military targets unless its demands are met."
+    },
+    {
+      "id": "5036413",
+      "time": "2026-08-12 05:46:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級：南亞仍易受能源價格衝擊，但抗風險能力較以往有所增強。"
+    },
+    {
+      "id": "5036412",
+      "time": "2026-08-12 05:46:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西證券交易所第二季度淨利潤為17億雷亞爾，高於市場預期的16.1億雷亞爾。"
+    },
+    {
+      "id": "5036411",
+      "time": "2026-08-12 05:46:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團、魁北克儲蓄投資集團向加拿大航空 Aeroplan 投資 25 億加元。"
+    },
     {
       "id": "mkt:019ff2c8-082c-7aab-8ffb-7e75ee9c6a69",
       "time": "2026-08-12 05:43:43",
@@ -141432,53 +141515,6 @@
         "MKT News"
       ],
       "text": "【U.S. revokes visa of Brazil's ambassador to the U.S.】The U.S. has revoked the visa of Brazil's ambassador to the United States in retaliation for Brazil's recent refusal to issue visas to two State Department officials and for delaying acceptance of President Trump's nominee for U.S. ambassador to Brazil, the AP reported citing a State Department official. The official described the move as a reciprocal response and said Washington had postponed action to give LULA room to change course; the measure can be quickly rescinded if Brazil grants the visas and accepts the U.S. nominee."
-    },
-    {
-      "id": "mkt:019fcec2-1b48-7aab-8f78-710e180f6558",
-      "time": "2026-08-05 05:50:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Loud explosions reported in Kyiv and toward Brovary】At 00:21–00:33 on the 5th local time, multiple loud explosions were heard in Kyiv and toward Brovary in Kyiv region. The Ukrainian Air Force said Russian forces were carrying out a new round of ballistic missile strikes on Kyiv."
-    },
-    {
-      "id": "5025414",
-      "time": "2026-08-05 05:50:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭首都基輔等地傳出強烈爆炸聲】當地時間5日零時21分至33分，烏克蘭首都基輔市和基輔州布羅瓦雷方向傳出多輪強烈爆炸聲。烏空軍稱俄軍正在對基輔市發動新一輪彈道導彈襲擊。（新華社）"
-    },
-    {
-      "id": "5025413",
-      "time": "2026-08-05 05:49:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：田納西州全新落成的特朗普總統大橋，這是莫大的榮幸。"
-    },
-    {
-      "id": "5025412",
-      "time": "2026-08-05 05:47:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會檔案顯示，伯克希爾哈撒韋以每股199.55美元的平均價格出售了182980股達維塔公司股票，目前仍持有約2870萬股達維塔股票。"
-    },
-    {
-      "id": "mkt:019fcebd-8ef1-7aab-8f78-68d28fb5db6a",
-      "time": "2026-08-05 05:45:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【Trump says internal polling at record highs】Trump said his internal polling is at record highs and dismissed mainstream polls as fake. He credited record tax cuts, job gains, large external investment into the US, secure borders, a victory in Venezuela and progress on Iranian denuclearization, and urged voters to back Republicans."
     }
   ]
 }
