@@ -1,7 +1,256 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-12 03:43:01_
-_本檔包含 3184 則快訊，約 597517 字_
+_更新時間：2026-08-12 04:21:18_
+_本檔包含 3192 則快訊，約 597800 字_
+
+---
+
+### 2026-08-12 04:20:47  #MKT News #SPCX.O
+
+SEC filings show Musk close associate Gracias held a 6.5% passive ownership stake in SpaceX (SPCX.O) as of June 30, 2026.
+
+---
+
+### 2026-08-12 04:20:32  #央行 #國際
+
+【法國央行預計第三季度經濟增長0.2%】當地時間8月11日，法國央行釋出最新經濟調查報告，預計法國今年第三季度國內生產總值（GDP）環比增長0.2%，與第二季度增速持平。法國央行表示，第三季度經濟增長預計主要受到市場服務業活動支撐。7月份，法國工業和市場服務業活動繼續增長，建築業活動總體保持穩定。法國央行預計，能源行業在連續兩個季度下滑後有望於第三季度反彈。法國央行同時指出，目前這一預測仍存在較大不確定性。未來可能出現的新一輪高溫天氣、中東局勢以及目前可獲得的三季度經濟資料仍較有限等因素，都可能影響經濟表現。法國國家統計與經濟研究所此前預計，法國第三季度GDP將增長0.1%。（央視新聞）
+
+---
+
+### 2026-08-12 04:20:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
+
+API weekly U.S. crude stock report for week ended Aug. 7 is due in 10 minutes.
+
+---
+
+### 2026-08-12 04:18:52  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Slip as Oil Rebounds — US stocks closed lower on Tuesday as markets assessed energy prices and the prospects of a Federal Reserve rate hike this year. The S&P 500 lost 0.3%, the Nasdaq fell 0.3%, and the Dow shed 184 points. Crude oil prices were volatile amid conflicting signals over developments in the Middle East, paring earlier losses after Iran reiterated that it would keep the Strait of Hormuz closed until its demands are met. Treasury yields eased, but credit-sensitive hyperscalers declined, with Alphabet down 3.8%, Oracle losing 3.7%, Amazon shedding 2.1%, and SpaceX falling 3.9%. Intel (+0.2%) rose its planned stock offering by $5 billion to $20 billion. Nvidia (-0%) reportedly secured $500 billion in private financing from banks for AI infrastructure, increasing leverage across the sector. Investors now await Wednesday's CPI report after several FOMC members signaled a possible rate hike next month. SMCI (+0.4%) and CoreWeave (+2.4%) are scheduled to report after the bell.
+
+---
+
+### 2026-08-12 04:18:51  #其他
+
+通用汽車將在貸款協議中鎖定至多45億美元供應商庫存，以防供應紊亂。
+
+---
+
+### 2026-08-12 04:16:18  #MKT News
+
+Canada's minister for U.S.-Canada trade LeBlanc met U.S. Trade Representative Greer in Washington on Tuesday and said Canada remains committed to negotiations and will continue to press and defend Canadian interests.
+
+---
+
+### 2026-08-12 04:14:55  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100 #Dow
+
+U.S. stocks closed lower on Tuesday, Aug. 11: Dow Jones Industrial Average fell 184.07 points (-0.34%) to 53,791.91; S&P 500 down 25.00 points (-0.32%) to 7,728.11; Nasdaq Composite declined 159.91 points (-0.60%) to 26,445.45.
+
+---
+
+### 2026-08-12 04:14:50  #市場
+
+Firefly Aerospace二季度營收1.177億美元，上年同期虧損0.155億美元。
+二季度調整後EBITDA虧損0.612億美元，分析師預期虧損0.479億美元。
+二季度每股虧損0.57美元，上年同期虧損5.78美元。
+Firefly美股盤後跌3.6%。
+
+---
+
+### 2026-08-12 04:13:44  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+CoreWeave earnings below expectations at -1.14 USD — CoreWeave (CRWV) released earnings per share at -1.14 USD, compared to market expectations of 0.03 USD.
+
+---
+
+### 2026-08-12 04:11:21  #其他
+
+截至 6 月 30 日，CoreWeave 營收待交付訂單約 1040 億美元。
+
+---
+
+### 2026-08-12 04:11:12  #MKT News #ORCL.O #Impact mixed
+
+Business Insider reports Oracle may cut headcount in some business teams by double-digit percentages.
+
+---
+
+### 2026-08-12 04:10:37  #其他
+
+CoreWeave二季度營收25.8億美元，分析師預期25.6億美元。
+
+---
+
+### 2026-08-12 04:09:33  #公司 #國際
+
+美國參議院Sanders發函，要求OpenAI、Anthropic、Meta等眾多AI公司暫停開發。
+
+---
+
+### 2026-08-12 04:09:16  #其他
+
+市場訊息：Oracle 部分團隊裁員比例或將達到兩位數。
+
+---
+
+### 2026-08-12 04:08:58  #MKT News #ORCL.N #Impact bearish
+
+Business Insider cites sources saying Oracle (ORCL.N) has drawn up a new round of layoffs, slated to be implemented this month.
+
+---
+
+### 2026-08-12 04:07:08  #其他
+
+市場訊息：Anthropic 將向 EROCK 採購約 470 兆瓦電力裝置。
+
+---
+
+### 2026-08-12 04:06:54  #MKT News
+
+【Pezeshkian says strengthening ties with Pakistan would help regional security】Iranian President Pezeshkian, after meeting Pakistan Interior Minister Naqvi, said Tehran is willing to deepen relations with Islamabad across political, economic, trade, cultural and security fields and that stronger bilateral cooperation would "enhance regional stability and security." Naqvi called Iran-Pakistan ties "firm and unbreakable" and said Islamabad is determined to expand relations with Tehran.
+
+---
+
+### 2026-08-12 04:06:03  #MKT News
+
+【Mali military says killed more than 1,800 terrorists in two months】Mali's military said on the 11th that between June 1 and July 31 its forces killed 1,850 terrorists and destroyed 45 terrorist bases. The air force flew 1,545 sorties and carried out 307 air strikes, the military press office said at a briefing in Bamako.
+
+---
+
+### 2026-08-12 04:05:52  #公司 #其他 #焦點 #國際
+
+超微電腦第四財季淨銷售111.2億美元，分析師預期112.6億美元。
+第四財季調整後每股收益（EPS）為1.70美元，分析師預期1.59美元。
+預計第一財季淨銷售145億-155億美元，分析師預期119.9億美元。
+預計第一財季調整後EPS為1.01-1.10美元，分析師預期0.74美元。
+超微電腦美股盤後漲8%。
+
+---
+
+### 2026-08-12 04:05:42  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Lumentum Holdings Inc earnings above expectations at 3.23 USD — Lumentum Holdings Inc (LITE) released earnings per share at 3.23 USD, compared to market expectations of 2.71 USD.
+
+---
+
+### 2026-08-12 04:05:22  #MKT News
+
+Sources said Flavio Bolsonaro, son of Brazil’s former president and a senator, is drafting a campaign fiscal framework that would seek a constitutional amendment to cap government spending growth and set fiscal constraints and targets tied to public debt levels.
+
+---
+
+### 2026-08-12 04:03:52  #其他
+
+Lumentum第四財季淨營收10.1億美元，分析師預期9.90億美元，上年同期4.807億美元。
+第四財季元件與零部件營收6.494億美元，分析師預期6.369億美元，上年同期3.204億美元。
+第四財季系統營收3.569億美元，分析師預期3.504億美元，上年同期1.603億美元。
+
+---
+
+### 2026-08-12 04:03:11  #市場
+
+KKR週二收盤上漲6.9%，創4月13日以來最大單日漲幅。
+
+---
+
+### 2026-08-12 04:01:25  #MKT News #Important #JD.O #Impact bearish #NTES.O #NIO.N
+
+【US stocks close lower; Nasdaq Golden Dragon China Index down about 3%】US equities closed lower on Tuesday. The Dow Jones Industrial Average fell 0.34%, the S&P 500 lost 0.30% and the Nasdaq Composite dropped 0.60%. SK Hynix (SKHY.O) rose 4.7%, SpaceX (SPCX.O) fell 3.9% and Apple (AAPL.O) slipped 1.0%. The Nasdaq Golden Dragon China Index closed down 2.95%; JD.com (JD.O), NetEase (NTES.O) and NIO (NIO.N) each fell about 4%.
+
+---
+
+### 2026-08-12 04:01:21  #其他
+
+Apollo Global收漲6.3%，創2025年5月份以來最佳單日表現。
+
+---
+
+### 2026-08-12 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體收跌】道指跌0.34%，標普500指數跌0.32%，納指跌0.60%。APP AppLovin跌5.99%，芬塔公司跌5.42%，Datadog跌5.37%，霍尼韋爾跌5.30%。“七姐妹”方面：Meta Platforms漲0.71%，特斯拉漲0.58%，英偉達跌0.02%，微軟跌0.44%，蘋果跌1.09%，亞馬遜跌2.09%，谷歌跌3.61%。
+
+---
+
+### 2026-08-12 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收跌2.95%】騰訊音樂跌11.92%，1藥網跌8.05%，信也科技跌6.04%，嗶哩嗶哩跌5.21%，海天網路跌5.20%。
+
+---
+
+### 2026-08-12 03:58:57  #國際
+
+伊朗將軍納赫迪：即使衝突持續數年，伊朗也能維持導彈和無人機的生產。伊朗將保持發射彈道導彈的能力，直至戰爭結束。
+
+---
+
+### 2026-08-12 03:58:50  #其他
+
+市場訊息：巴西參議員弗拉維奧・博索納羅的總統競選團隊正透過憲法修正案起草全新財政框架。草案提案將依據公共債務水平收緊巴西政府的支出上限，博索納羅競選團隊擬定的財政框架草案將包含支出增長上限及財政目標。
+
+---
+
+### 2026-08-12 03:58:47  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Gen. Nahdi said Iran can sustain missile and drone production even if the conflict lasts years, and will retain the ability to launch ballistic missiles until the war ends.
+
+---
+
+### 2026-08-12 03:56:43  #MKT News
+
+Colombia's Congressional Economic Committee voted to send the 2027 budget proposal back to the incoming government for revisions.
+
+---
+
+### 2026-08-12 03:56:40  #MKT News #ORCL.N #Impact bullish
+
+Oracle (ORCL.N): Under the partnership agreement, Oracle Cloud Infrastructure customers will have direct access to Quantinum's Helios platform.
+
+---
+
+### 2026-08-12 03:55:27  #MKT News #ORCL.N #Impact bullish
+
+Quantum computing firm Quantinum has partnered with Oracle (ORCL.N) to accelerate adoption of hybrid quantum computing on Oracle Cloud Infrastructure.
+
+---
+
+### 2026-08-12 03:55:07  #其他
+
+哥倫比亞國會經濟委員會投票決定，將 2027 年預算草案退回新一屆政府進行調整。
+
+---
+
+### 2026-08-12 03:54:51  #公司
+
+甲骨文公司：根據本次合作協議，OCI 客戶將可直接訪問 Quantinuum 的 Helios。
+
+---
+
+### 2026-08-12 03:53:55  #其他
+
+Quantinuum 與 Oracle 達成合作，推動 Oracle 雲基礎設施上混合量子計算的落地應用。
+
+---
+
+### 2026-08-12 03:53:22  #MKT News #Market Themes #AI Revolution
+
+Business Insider reports people familiar with the matter say former OpenAI chief product officer Kevin Weil is seeking a valuation of at least $750 mln for his newly founded AI science startup.
+
+---
+
+### 2026-08-12 03:50:03  #Trading Economics #Economy #Uruguay #Industrial Production #Importance 1
+
+Uruguay Industrial Output Rebounds in June — Uruguay's industrial production rose 5.4% year-on-year in June 2026 after falling 3.5% in the previous month, marking a strong rebound in manufacturing activity. The increase was driven primarily by a 7.8% rise in food products manufacturing, which contributed 3.2 percentage points to overall growth. Other food products manufacturing increased 6.3%. On a seasonally adjusted basis, industrial output climbed 8.0% month-on-month. Meanwhile, hours worked in the industrial sector rose 0.3% from a year earlier, while industrial employment declined 3.0%. On a year-to-date basis, industrial production increased 2.9%, while hours worked and employment fell 1.7% and 1.9%, respectively.
+
+---
+
+### 2026-08-12 03:43:43  #MKT News
+
+【Iraq condemns Colombia's recognition of Israeli "sovereignty" over Golan Heights】Iraq's foreign ministry on the 11th strongly condemned Colombia's decision to recognize Israeli "sovereignty" over the occupied Golan Heights, saying the territory is Syrian and that no party may change its legal status or confer legitimacy on the occupier. The ministry said Colombia's move has no legal force and does not alter the fact that the Golan Heights are an inseparable part of Syrian territory.
+
+---
+
+### 2026-08-12 03:42:44  #國際
+
+市場訊息：由於《明晰法案》推進受阻，美國證券交易委員會即將公佈加密領域重大方案。
 
 ---
 
@@ -18990,197 +19239,5 @@ Texas government says Meta Platforms (META.O) has committed to comply with state
 ### 2026-08-10 22:22:16  #公司
 
 【智譜API使用者數近700萬，新啟用超5萬塊國產算力晶片】據悉，智譜MaaS開放平臺註冊使用者（即API使用者）近700萬，相比七月初增長約200萬，其中包括2.3萬家企業客戶，對標Codex的開發者產品ZCode上線1個月使用者突破百萬。今年以來，智譜ARR增長15倍，根據我們瞭解，在Kimi和阿里新模型釋出後，智譜ARR增速沒有受影響。有投資人透露目前ARR來到20億美元，但智譜官方已經否認，接近公司的人表示，實際數字應該更高。7月21日，市場傳出智譜已建成規模1GW的國產AI算力基礎設施，據瞭解，有超過5萬塊國產算力晶片已經啟用，以緩解日益增長的推理需求，7月31日，智譜長期限售的Coding Plan在大幅漲價後已開放購買。（晚點）
-
----
-
-### 2026-08-10 22:22:06  #其他
-
-【水利部滾動會商部署颱風“白海豚”暴雨洪水防禦工作】新華社北京8月10日電（記者魏弘毅）記者從水利部瞭解到，水利部10日舉行專題會商，滾動分析研判今年第13號颱風“白海豚”發展態勢及影響，對臺風暴雨洪水防禦工作再部署、再落實。
-
----
-
-### 2026-08-10 22:21:59  #公司 #市場 #國際
-
-【Anthropic攜手麥格理和GIC建設AI資料中心 初期聚焦美國】Anthropic PBC與麥格理資產管理和新加坡主權財富基金GIC建立戰略合作伙伴關係，為這家Claude開發商建設資料中心。這些公司週一表示，新成立的實體名為Theseus Infrastructure，將作為開發人工智慧計算設施的平臺，“初期重點”放在美國。麥格理和GIC承諾為每個專案提供大部分股權資金，而Anthropic承諾承擔這些設施可能導致的任何居民電價上漲。各方沒有透露計劃投資金額或專案規模的任何細節。
-
----
-
-### 2026-08-10 22:21:20  #公司
-
-【美的置業：擬派發2026年中期股息每股0.12港元，持續兌現股東回報】8月10日，美的置業（3990.HK）釋出2026中期業績公告。公司上半年實現營業收入18.8億元，毛利6.3億元，同比增長2.6%，毛利率為33.5%，增長2.7個百分點，核心淨利潤2.6億元，宣派中期股息每股0.12港元。財務指標方面，公司淨資產達50.6億元，現金及銀行存款總計11.7億元，資本結構保持健康水平，資金儲備充裕。自2018年上市以來，美的置業連續8年在行業內保持具有競爭力的派息政策，中期派息率達58%，持續兌現股東回報承諾，以穩健的財務底盤和充裕的現金儲備，為持續高分紅政策提供堅實保障。
-
----
-
-### 2026-08-10 22:20:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Haitong Development on H2 dry-bulk outlook】At an Aug. 10 results briefing, Haitong Development said rising short-term El Niño risk is boosting summer coal demand but is disrupting Panama Canal transit. Middle East tensions have lifted oil and gas prices and, combined with higher US hydrocarbon exports, increased tanker traffic through the Canal. Daily transit capacity is limited and congestion has already emerged; bulk carriers unable to pay queue-jump fees have been forced to reroute. El Niño is also lowering Panama water levels and reducing transit efficiency. The company expects congestion to worsen after Sep. 2026 when the North American grain season and US soybean exports ramp up. Looking to Q4, the end of the West African rainy season should allow a sharp recovery in shipments.
-
----
-
-### 2026-08-10 22:19:52  #公司 #國際
-
-【對下半年幹散貨行情如何展望？海通發展回應】關於“公司對下半年幹散貨行情如何展望”的問題，海通發展8月10日在業績說明會表示，短期來看，超級厄爾尼諾風險正在提升，一方面提振夏季煤炭需求，另一方面將對巴拿馬運河通行產生影響。今年以來，中東局勢推高油氣價格，美國油氣出口增加導致大量油輪走巴拿馬運河，而巴拿馬運河日通行量有限，目前已出現擁堵，散貨船無法承擔插隊費只能繞行；另外，厄爾尼諾會導致巴拿馬運河水位降低，整體通行效率下降，預計2026年9月北美糧季、美國大豆出口啟動後，擁堵情況會進一步加劇。展望四季度，西非雨季屆時將結束，發運量將迎來大幅恢復。
-
----
-
-### 2026-08-10 22:19:42  #MKT News #Commodities #Energy
-
-【U.S. natural gas futures surge as heat forecast and rising Gulf Coast LNG flows tighten market】U.S. natural gas futures posted their largest gain in over two months after weather models turned sharply warmer. The Weather Company said forecasts show much warmer conditions over the next few weeks, especially across the U.S. Midwest and South, likely boosting electric cooling demand and gas-fired power burn. Pipeline flows to Gulf Coast LNG terminals jumped to the highest level in more than a month as some facilities appear to have completed seasonal maintenance, reducing domestic surplus; those bullish factors prompted hedge funds to buy gas futures aggressively.
-
----
-
-### 2026-08-10 22:18:54  #MKT News
-
-【Pakistan, Iran foreign ministers speak by phone on regional situation】On Aug. 10 Pakistan’s deputy prime minister and foreign minister spoke by phone with Iran’s foreign minister to exchange views on regional and international developments, focusing on recent regional developments and efforts to promote peace and stability. Pakistan briefed Iran on the main terms of the Mecca joint defense pact recently signed by Pakistan, Saudi Arabia and Turkey, saying the agreement aims to deepen strategic cooperation and contribute to regional peace and security. Iran’s foreign minister thanked Pakistan and both agreed to maintain close contact on shared concerns.
-
----
-
-### 2026-08-10 22:18:42  #國際
-
-【巴基斯坦與伊朗外長通話 就地區局勢交換意見】當地時間8月10日，巴基斯坦外交部通報，巴基斯坦副總理兼外交部長達爾與伊朗外交部長阿拉格齊通電話。雙方就地區和國際形勢交換了意見，重點討論了地區局勢的最新發展，以及推動和平與穩定的相關努力。達爾還向阿拉格齊介紹了巴基斯坦、沙烏地阿拉伯和土耳其近期簽署的《麥加共同防務協議》的主要內容，並強調該協定旨在加強戰略合作，為地區和平與安全作出貢獻。阿拉格齊對達爾的介紹表示感謝。兩國外長同意，就共同關心的問題繼續保持密切聯絡。（央視）
-
----
-
-### 2026-08-10 22:18:12  #其他
-
-市場訊息：SHEIN以低於300億美元的估值向投資者推介IPO。
-
----
-
-### 2026-08-10 22:17:52  #其他
-
-【增量資金來了，單日28只產品上報】新基金髮行掀起小高潮。今年以來新基金髮行規模超7200億元。更多增量資金可期，當前超140只基金正在或即將發行。與此同時，新產品密集上報，僅8月7日單日便有28只新基金集中上報，涵蓋首批創業板算力基礎設施ETF，首批創業板金融科技ETF。（上海證券報微信公眾號）
-
----
-
-### 2026-08-10 22:17:12  #MKT News
-
-Al Arabiya TV reported the Yemeni army engaged Houthi drones in the Mocha region.
-
----
-
-### 2026-08-10 22:16:20  #MKT News #Market Themes #Chip Wars
-
-【South Korea to enact special law to clear obstacles for three "super projects" including semiconductors】South Korea plans to draft a special law by year-end to back three government "super projects" aimed at boosting competitiveness in semiconductors, physical AI and AI data centers. The law would shorten approval and environmental-impact-assessment procedures and accelerate construction of power, water, transport, housing and education infrastructure. The government aims to complete relocation and temporary dispersal of military facilities by H2 2028 to free a military airport site for a semiconductor industrial park. Beyond the current 8.3 mln sqm candidate national industrial park, additional nearby land may be designated after assessing corporate demand. Authorities will pursue treated/recycled water and nearby-dam schemes to secure supply and measures to ensure adequate power. Seoul will consult the US on US facilities at Gwangju military airport; the presidential office says the US has so far responded positively.
-
----
-
-### 2026-08-10 22:15:55  #MKT News
-
-【Airports in multiple Colombian cities damaged in earthquake】A strong earthquake on Aug. 10 damaged airports in Pereira, Manizales and Quibdó, with terminal operations suspended, Colombia's civil aviation authority said. Cali, Colombia's third-largest city and capital of Valle del Cauca, reported about 20 buildings collapsed and people trapped in rubble, the mayor said.
-
----
-
-### 2026-08-10 22:15:13  #其他
-
-【哥倫比亞多地機場地震中受損】據哥倫比亞民航部門訊息，今天（8月10日）的強烈地震中，佩雷拉、馬尼薩萊斯、基布多等多座城市的機場均報告受損，這些機場的航站樓已暫停運營。哥倫比亞第三大城市、西部考卡山谷省首府卡利市市長稱，該市大約20棟建築坍塌，有人被困於倒塌建築中。（CCTV國際時訊）
-
----
-
-### 2026-08-10 22:14:46  #國際
-
-【哥倫比亞強震多地建築嚴重損毀】據CCTV國際時訊，據中國地震臺網正式測定，當地時間今天（8月10日）早上7點34分，北京時間晚上8點34分，哥倫比亞發生7.5級地震，震源深度80公里。震中位於西部喬科省。喬科省省長稱，地震造成震中及省會城市基布多等多地建築嚴重損毀。除了喬科省外，鄰近的裡薩拉爾達省、卡爾達斯省等多個省份也出現災情。人員傷亡情況暫不清楚。目前正在統計受災情況。美國海嘯預警中心稱，本次地震無引發海嘯風險。
-
----
-
-### 2026-08-10 22:12:53  #其他
-
-【西瓜價格跌至一毛多一斤】河南是全國西瓜種植面積最大的省份，連續多年位居全國第一，其中一半以上是露天瓜。根據河南省農業農村廳資料，今年河南省西瓜種植面積達370萬畝，產量預計1400萬噸。然而豐收之下，河南西瓜低價滯銷的訊息一度刷屏，網紅、明星和企業紛紛來到產地助農，幫瓜農把堆在路邊的西瓜運出去。 在河南做西瓜經紀人12年的馬永，也是第一次碰上這樣的場面：瓜價從去年的五六毛跌到兩三毛，甚至一毛多一斤。擴大種植、氣候導致的品質問題和多地集中上市，多重因素趕在了一起導致了西瓜價格的暴跌。多年跑在產地與市場之間，觀察各個西瓜產地的生產模式，馬永越來越覺得，助農能解一時之急，但要把瓜真正賣得長久，還是得從種植和銷售渠道上把品質做出來。 種好瓜不容易。這件事有人懂，有人不懂。我們驗瓜都要過手，達到八成熟以上才上車，八成熟以下都打下來。有的農戶一千斤瓜，能打掉三五個，有的一車能打掉一兩百斤。種植的密度，選的秧苗，地裡還套種了其他作物，這些都有影響，農戶的水平也參差不齊。（三聯生活週刊）
-
----
-
-### 2026-08-10 22:12:34  #其他
-
-迪士尼：迪士尼+、Hulu與iHeartMedia宣佈達成影片播客合作協議。
-
----
-
-### 2026-08-10 22:12:09  #其他
-
-Simfabric 擴大亞洲出版協議範圍，新增Xbox One與Xbox Series X|S產品線。
-
----
-
-### 2026-08-10 22:11:42  #國際
-
-市場訊息：韓國將頒佈特別法，加快半導體、人工智慧大型專案建設。
-
----
-
-### 2026-08-10 22:11:12  #MKT News #Market Themes #Chip Wars #AI Revolution #Nasdaq100 #Impact bullish #S&P500
-
-South Korea will enact a special law to accelerate construction of major semiconductor and AI projects.
-
----
-
-### 2026-08-10 22:10:17  #MKT News #MU.O #Impact bullish
-
-Micron Technology (MU.O) extends gains to 1.4%.
-
----
-
-### 2026-08-10 22:10:16  #其他
-
-哥倫比亞卡利市市長表示，地震已造成20棟建築倒塌。
-
----
-
-### 2026-08-10 22:09:52  #MKT News
-
-Colombia's Cali mayor says people are trapped in collapsed buildings after an earthquake.
-
----
-
-### 2026-08-10 22:09:38  #市場
-
-美光股價上漲至1.3%，管理層在KEYBANC論壇上發表講話。
-
----
-
-### 2026-08-10 22:09:09  #其他
-
-【上半年深圳結婚登記數量位列省內第一】日前，廣東省民政廳官網釋出廣東民政事業統計季報（2026年第二季度）。統計季報顯示，今年上半年，廣東結婚登記28.8萬對。從各地市情況來看，今年上半年，廣州、深圳、佛山、東莞等市結婚登記量超過2萬對。其中，深圳57181對、廣州52435對、東莞23855對、佛山21691對。(深圳釋出)
-
----
-
-### 2026-08-10 22:08:40  #MKT News #Macro & Rates #Treasury Yields #GBPUSD #Impact bullish #FTSE100 #Impact bearish
-
-UK 10-year bond yield rose to 4.988%, a six-day high.
-
----
-
-### 2026-08-10 22:08:25  #市場
-
-美股儲存股短線拉昇，閃迪漲超4.2%，西部資料漲2.2%，美光科技漲近2%。
-
----
-
-### 2026-08-10 22:08:09  #其他
-
-【自然資源部部署加強颱風“白海豚”影響省份地質災害防範應對工作】8月10日下午，自然資源部召開臺風“白海豚”影響省份地質災害防範應對工作排程影片會，會商研判風險趨勢，再次部署重點省份加強防範應對災害工作。會議指出，颱風“白海豚”具有超長週期、超大環流、水汽充沛、移動緩慢、內陸持久致災等特點，衍生的次生災害風險遠超普通颱風。其中，要高度重視內陸持續性暴雨可能引發的地質災害，特別是浙江、安徽、湖北、河南、河北、北京、天津、山東、遼寧等省（市）將成為未來一段時間地質災害防禦的主戰場。
-
----
-
-### 2026-08-10 22:07:09  #公司 #國際
-
-【中國駐菲律賓大使館：重大涉詐逃犯檀某落網】據中國駐菲律賓大使館訊息，近日，中菲兩國執法部門合作抓獲並遣返一名涉嫌詐騙罪，掩飾、隱瞞犯罪所得罪的逃犯檀某。檀某系跨境犯罪集團核心成員，其集團長期在越南、寮國從事電信詐騙及洗錢等活動，被國內多地公安機關網上通緝，涉案金額達一千餘萬元人民幣。
-
----
-
-### 2026-08-10 22:06:29  #市場
-
-標普500指數和納斯達克100指數轉漲。
-
----
-
-### 2026-08-10 22:06:23  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Southern Stock Price Hits 8-week Low — Southern shares decreased to 91.24 USD, the lowest since June 2026. Over the past 4 weeks, Southern Co. lost 5.21%, and in the last 12 months, it decreased 3.52%.
-
----
-
-### 2026-08-10 22:05:21  #國際
-
-據訊息稱，帝國品牌計劃在美國、歐洲裁員數千人。
 
 ---

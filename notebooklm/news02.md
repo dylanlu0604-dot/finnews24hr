@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-12 03:43:01_
-_本檔包含 2806 則快訊，約 597765 字_
+_更新時間：2026-08-12 04:21:18_
+_本檔包含 2811 則快訊，約 598080 字_
+
+---
+
+### 2026-08-10 22:22:06  #其他
+
+【水利部滾動會商部署颱風“白海豚”暴雨洪水防禦工作】新華社北京8月10日電（記者魏弘毅）記者從水利部瞭解到，水利部10日舉行專題會商，滾動分析研判今年第13號颱風“白海豚”發展態勢及影響，對臺風暴雨洪水防禦工作再部署、再落實。
+
+---
+
+### 2026-08-10 22:21:59  #公司 #市場 #國際
+
+【Anthropic攜手麥格理和GIC建設AI資料中心 初期聚焦美國】Anthropic PBC與麥格理資產管理和新加坡主權財富基金GIC建立戰略合作伙伴關係，為這家Claude開發商建設資料中心。這些公司週一表示，新成立的實體名為Theseus Infrastructure，將作為開發人工智慧計算設施的平臺，“初期重點”放在美國。麥格理和GIC承諾為每個專案提供大部分股權資金，而Anthropic承諾承擔這些設施可能導致的任何居民電價上漲。各方沒有透露計劃投資金額或專案規模的任何細節。
+
+---
+
+### 2026-08-10 22:21:20  #公司
+
+【美的置業：擬派發2026年中期股息每股0.12港元，持續兌現股東回報】8月10日，美的置業（3990.HK）釋出2026中期業績公告。公司上半年實現營業收入18.8億元，毛利6.3億元，同比增長2.6%，毛利率為33.5%，增長2.7個百分點，核心淨利潤2.6億元，宣派中期股息每股0.12港元。財務指標方面，公司淨資產達50.6億元，現金及銀行存款總計11.7億元，資本結構保持健康水平，資金儲備充裕。自2018年上市以來，美的置業連續8年在行業內保持具有競爭力的派息政策，中期派息率達58%，持續兌現股東回報承諾，以穩健的財務底盤和充裕的現金儲備，為持續高分紅政策提供堅實保障。
+
+---
+
+### 2026-08-10 22:20:51  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Haitong Development on H2 dry-bulk outlook】At an Aug. 10 results briefing, Haitong Development said rising short-term El Niño risk is boosting summer coal demand but is disrupting Panama Canal transit. Middle East tensions have lifted oil and gas prices and, combined with higher US hydrocarbon exports, increased tanker traffic through the Canal. Daily transit capacity is limited and congestion has already emerged; bulk carriers unable to pay queue-jump fees have been forced to reroute. El Niño is also lowering Panama water levels and reducing transit efficiency. The company expects congestion to worsen after Sep. 2026 when the North American grain season and US soybean exports ramp up. Looking to Q4, the end of the West African rainy season should allow a sharp recovery in shipments.
+
+---
+
+### 2026-08-10 22:19:52  #公司 #國際
+
+【對下半年幹散貨行情如何展望？海通發展回應】關於“公司對下半年幹散貨行情如何展望”的問題，海通發展8月10日在業績說明會表示，短期來看，超級厄爾尼諾風險正在提升，一方面提振夏季煤炭需求，另一方面將對巴拿馬運河通行產生影響。今年以來，中東局勢推高油氣價格，美國油氣出口增加導致大量油輪走巴拿馬運河，而巴拿馬運河日通行量有限，目前已出現擁堵，散貨船無法承擔插隊費只能繞行；另外，厄爾尼諾會導致巴拿馬運河水位降低，整體通行效率下降，預計2026年9月北美糧季、美國大豆出口啟動後，擁堵情況會進一步加劇。展望四季度，西非雨季屆時將結束，發運量將迎來大幅恢復。
+
+---
+
+### 2026-08-10 22:19:42  #MKT News #Commodities #Energy
+
+【U.S. natural gas futures surge as heat forecast and rising Gulf Coast LNG flows tighten market】U.S. natural gas futures posted their largest gain in over two months after weather models turned sharply warmer. The Weather Company said forecasts show much warmer conditions over the next few weeks, especially across the U.S. Midwest and South, likely boosting electric cooling demand and gas-fired power burn. Pipeline flows to Gulf Coast LNG terminals jumped to the highest level in more than a month as some facilities appear to have completed seasonal maintenance, reducing domestic surplus; those bullish factors prompted hedge funds to buy gas futures aggressively.
+
+---
+
+### 2026-08-10 22:18:54  #MKT News
+
+【Pakistan, Iran foreign ministers speak by phone on regional situation】On Aug. 10 Pakistan’s deputy prime minister and foreign minister spoke by phone with Iran’s foreign minister to exchange views on regional and international developments, focusing on recent regional developments and efforts to promote peace and stability. Pakistan briefed Iran on the main terms of the Mecca joint defense pact recently signed by Pakistan, Saudi Arabia and Turkey, saying the agreement aims to deepen strategic cooperation and contribute to regional peace and security. Iran’s foreign minister thanked Pakistan and both agreed to maintain close contact on shared concerns.
+
+---
+
+### 2026-08-10 22:18:42  #國際
+
+【巴基斯坦與伊朗外長通話 就地區局勢交換意見】當地時間8月10日，巴基斯坦外交部通報，巴基斯坦副總理兼外交部長達爾與伊朗外交部長阿拉格齊通電話。雙方就地區和國際形勢交換了意見，重點討論了地區局勢的最新發展，以及推動和平與穩定的相關努力。達爾還向阿拉格齊介紹了巴基斯坦、沙烏地阿拉伯和土耳其近期簽署的《麥加共同防務協議》的主要內容，並強調該協定旨在加強戰略合作，為地區和平與安全作出貢獻。阿拉格齊對達爾的介紹表示感謝。兩國外長同意，就共同關心的問題繼續保持密切聯絡。（央視）
+
+---
+
+### 2026-08-10 22:18:12  #其他
+
+市場訊息：SHEIN以低於300億美元的估值向投資者推介IPO。
+
+---
+
+### 2026-08-10 22:17:52  #其他
+
+【增量資金來了，單日28只產品上報】新基金髮行掀起小高潮。今年以來新基金髮行規模超7200億元。更多增量資金可期，當前超140只基金正在或即將發行。與此同時，新產品密集上報，僅8月7日單日便有28只新基金集中上報，涵蓋首批創業板算力基礎設施ETF，首批創業板金融科技ETF。（上海證券報微信公眾號）
+
+---
+
+### 2026-08-10 22:17:12  #MKT News
+
+Al Arabiya TV reported the Yemeni army engaged Houthi drones in the Mocha region.
+
+---
+
+### 2026-08-10 22:16:20  #MKT News #Market Themes #Chip Wars
+
+【South Korea to enact special law to clear obstacles for three "super projects" including semiconductors】South Korea plans to draft a special law by year-end to back three government "super projects" aimed at boosting competitiveness in semiconductors, physical AI and AI data centers. The law would shorten approval and environmental-impact-assessment procedures and accelerate construction of power, water, transport, housing and education infrastructure. The government aims to complete relocation and temporary dispersal of military facilities by H2 2028 to free a military airport site for a semiconductor industrial park. Beyond the current 8.3 mln sqm candidate national industrial park, additional nearby land may be designated after assessing corporate demand. Authorities will pursue treated/recycled water and nearby-dam schemes to secure supply and measures to ensure adequate power. Seoul will consult the US on US facilities at Gwangju military airport; the presidential office says the US has so far responded positively.
+
+---
+
+### 2026-08-10 22:15:55  #MKT News
+
+【Airports in multiple Colombian cities damaged in earthquake】A strong earthquake on Aug. 10 damaged airports in Pereira, Manizales and Quibdó, with terminal operations suspended, Colombia's civil aviation authority said. Cali, Colombia's third-largest city and capital of Valle del Cauca, reported about 20 buildings collapsed and people trapped in rubble, the mayor said.
+
+---
+
+### 2026-08-10 22:15:13  #其他
+
+【哥倫比亞多地機場地震中受損】據哥倫比亞民航部門訊息，今天（8月10日）的強烈地震中，佩雷拉、馬尼薩萊斯、基布多等多座城市的機場均報告受損，這些機場的航站樓已暫停運營。哥倫比亞第三大城市、西部考卡山谷省首府卡利市市長稱，該市大約20棟建築坍塌，有人被困於倒塌建築中。（CCTV國際時訊）
+
+---
+
+### 2026-08-10 22:14:46  #國際
+
+【哥倫比亞強震多地建築嚴重損毀】據CCTV國際時訊，據中國地震臺網正式測定，當地時間今天（8月10日）早上7點34分，北京時間晚上8點34分，哥倫比亞發生7.5級地震，震源深度80公里。震中位於西部喬科省。喬科省省長稱，地震造成震中及省會城市基布多等多地建築嚴重損毀。除了喬科省外，鄰近的裡薩拉爾達省、卡爾達斯省等多個省份也出現災情。人員傷亡情況暫不清楚。目前正在統計受災情況。美國海嘯預警中心稱，本次地震無引發海嘯風險。
+
+---
+
+### 2026-08-10 22:12:53  #其他
+
+【西瓜價格跌至一毛多一斤】河南是全國西瓜種植面積最大的省份，連續多年位居全國第一，其中一半以上是露天瓜。根據河南省農業農村廳資料，今年河南省西瓜種植面積達370萬畝，產量預計1400萬噸。然而豐收之下，河南西瓜低價滯銷的訊息一度刷屏，網紅、明星和企業紛紛來到產地助農，幫瓜農把堆在路邊的西瓜運出去。 在河南做西瓜經紀人12年的馬永，也是第一次碰上這樣的場面：瓜價從去年的五六毛跌到兩三毛，甚至一毛多一斤。擴大種植、氣候導致的品質問題和多地集中上市，多重因素趕在了一起導致了西瓜價格的暴跌。多年跑在產地與市場之間，觀察各個西瓜產地的生產模式，馬永越來越覺得，助農能解一時之急，但要把瓜真正賣得長久，還是得從種植和銷售渠道上把品質做出來。 種好瓜不容易。這件事有人懂，有人不懂。我們驗瓜都要過手，達到八成熟以上才上車，八成熟以下都打下來。有的農戶一千斤瓜，能打掉三五個，有的一車能打掉一兩百斤。種植的密度，選的秧苗，地裡還套種了其他作物，這些都有影響，農戶的水平也參差不齊。（三聯生活週刊）
+
+---
+
+### 2026-08-10 22:12:34  #其他
+
+迪士尼：迪士尼+、Hulu與iHeartMedia宣佈達成影片播客合作協議。
+
+---
+
+### 2026-08-10 22:12:09  #其他
+
+Simfabric 擴大亞洲出版協議範圍，新增Xbox One與Xbox Series X|S產品線。
+
+---
+
+### 2026-08-10 22:11:42  #國際
+
+市場訊息：韓國將頒佈特別法，加快半導體、人工智慧大型專案建設。
+
+---
+
+### 2026-08-10 22:11:12  #MKT News #Market Themes #Chip Wars #AI Revolution #Nasdaq100 #Impact bullish #S&P500
+
+South Korea will enact a special law to accelerate construction of major semiconductor and AI projects.
+
+---
+
+### 2026-08-10 22:10:17  #MKT News #MU.O #Impact bullish
+
+Micron Technology (MU.O) extends gains to 1.4%.
+
+---
+
+### 2026-08-10 22:10:16  #其他
+
+哥倫比亞卡利市市長表示，地震已造成20棟建築倒塌。
+
+---
+
+### 2026-08-10 22:09:52  #MKT News
+
+Colombia's Cali mayor says people are trapped in collapsed buildings after an earthquake.
+
+---
+
+### 2026-08-10 22:09:38  #市場
+
+美光股價上漲至1.3%，管理層在KEYBANC論壇上發表講話。
+
+---
+
+### 2026-08-10 22:09:09  #其他
+
+【上半年深圳結婚登記數量位列省內第一】日前，廣東省民政廳官網釋出廣東民政事業統計季報（2026年第二季度）。統計季報顯示，今年上半年，廣東結婚登記28.8萬對。從各地市情況來看，今年上半年，廣州、深圳、佛山、東莞等市結婚登記量超過2萬對。其中，深圳57181對、廣州52435對、東莞23855對、佛山21691對。(深圳釋出)
+
+---
+
+### 2026-08-10 22:08:40  #MKT News #Macro & Rates #Treasury Yields #GBPUSD #Impact bullish #FTSE100 #Impact bearish
+
+UK 10-year bond yield rose to 4.988%, a six-day high.
+
+---
+
+### 2026-08-10 22:08:25  #市場
+
+美股儲存股短線拉昇，閃迪漲超4.2%，西部資料漲2.2%，美光科技漲近2%。
+
+---
+
+### 2026-08-10 22:08:09  #其他
+
+【自然資源部部署加強颱風“白海豚”影響省份地質災害防範應對工作】8月10日下午，自然資源部召開臺風“白海豚”影響省份地質災害防範應對工作排程影片會，會商研判風險趨勢，再次部署重點省份加強防範應對災害工作。會議指出，颱風“白海豚”具有超長週期、超大環流、水汽充沛、移動緩慢、內陸持久致災等特點，衍生的次生災害風險遠超普通颱風。其中，要高度重視內陸持續性暴雨可能引發的地質災害，特別是浙江、安徽、湖北、河南、河北、北京、天津、山東、遼寧等省（市）將成為未來一段時間地質災害防禦的主戰場。
+
+---
+
+### 2026-08-10 22:07:09  #公司 #國際
+
+【中國駐菲律賓大使館：重大涉詐逃犯檀某落網】據中國駐菲律賓大使館訊息，近日，中菲兩國執法部門合作抓獲並遣返一名涉嫌詐騙罪，掩飾、隱瞞犯罪所得罪的逃犯檀某。檀某系跨境犯罪集團核心成員，其集團長期在越南、寮國從事電信詐騙及洗錢等活動，被國內多地公安機關網上通緝，涉案金額達一千餘萬元人民幣。
+
+---
+
+### 2026-08-10 22:06:29  #市場
+
+標普500指數和納斯達克100指數轉漲。
+
+---
+
+### 2026-08-10 22:06:23  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Southern Stock Price Hits 8-week Low — Southern shares decreased to 91.24 USD, the lowest since June 2026. Over the past 4 weeks, Southern Co. lost 5.21%, and in the last 12 months, it decreased 3.52%.
+
+---
+
+### 2026-08-10 22:05:21  #國際
+
+據訊息稱，帝國品牌計劃在美國、歐洲裁員數千人。
 
 ---
 
@@ -16765,167 +16957,5 @@ Indonesia's Meteorology, Climatology and Geophysics Agency said a magnitude-5.7 
 ### 2026-08-09 11:19:45  #市場 #國際
 
 【滬深交易所出手，QDII、國投白銀等LOF將退市】8月7日下午，滬深交易所就《關於完善上市開放式基金相關安排的通知（徵求意見稿）》（下稱“意見稿”）同步向社會公開徵求意見。意見稿明確了LOF（上市開放式基金）的退市標準及實施流程。根據Wind資料統計，按品種強制退市類產品共34只，場內資產淨值合計約246億元，佔全部LOF場內規模約45%。圖片結構上以QDII股票型為主，另包括QDII另類（原油、黃金、大宗商品主題等）、QDII債券型，以及1只商品期貨LOF（國投瑞銀白銀期貨）。其中場內規模居前的產品包括：國投瑞銀白銀期貨、易方達標普資訊科技、工銀印度市場、海富通美元收益、嘉實原油、南方原油等。部分產品目前仍呈現高溢價狀態。景順長城全球半導體晶片產業LOF溢價率達32%，國投瑞銀白銀期貨溢價率27%，南方原油溢價率22%，易方達原油溢價率21%。從全市場LOF來看，目前高溢價主要集中在場外額度受限的產品，包括QDII額度不足、申購限購等因素切斷了套利供給，二級市場價格相對淨值持續升水。業內人士分析，這與LOF交易機制有關：場內價格可實時成交，場外申贖受確認週期、額度、限購等約束。當場外難以按淨值大量增加份額時，二級市場價格容易相對淨值溢價。原油、白銀及部分海外權益主題LOF在階段性行情中多次出現較高溢價。（《財經》）
-
----
-
-### 2026-08-09 11:18:33  #其他
-
-【上海釋出暴雨紅色預警訊號】上海市氣象臺8月9日10時30分更新中心城區暴雨橙色預警訊號為暴雨紅色預警訊號：預計未來6小時內，上海中心城區大部6小時累計降水量將達220毫米以上，暴雨橙色預警訊號更新為暴雨紅色預警訊號，強降雨較大可能引發城市積澇、交通擁堵等情況，請特別加強防範極端強降雨。上海市防汛指揮部將防汛防颱應急響應行動更新為二級：預計未來6小時內，上海中心城區大部6小時累計降水量將達150毫米以上，上海市防汛指揮部決定將中心城區防汛防颱Ⅲ級響應行動更新為防汛防颱Ⅱ級響應行動。（央視新聞）
-
----
-
-### 2026-08-09 11:17:54  #其他
-
-【7月居民置業改善動力小幅走弱】中指研究院發文稱，整體來看，7月居民置業改善動力小幅走弱，居民觀望特徵相對明顯，購房增強佔比從穩定狀態出現下降，購房減弱佔比持續中高位水平，在市場持續築底階段居民購房信心修復較慢。一線城市購房置業意願保持相對穩定，二線城市居民購房信心出現小幅下降，三四線城市購房信心快速回落。（新華財經）
-
----
-
-### 2026-08-09 11:14:45  #其他
-
-【首個全國產10萬卡AI超叢集投用 全國算力“一張網”加速成形】記者從國家發展改革委瞭解到，今年以來，我國算力底座進一步夯實，首個全國產10萬卡人工智慧超叢集日前正式投用。標誌著我國算力基礎設施建設邁入10萬卡級部署新階段。全國多個算力節點迎來新一輪算力擴容。在國家超算網際網路鄭州核心節點，首個全國產10萬卡人工智慧超叢集投入執行。工作人員告訴記者，這裡的特別之處在於，科學計算加智慧計算的融合算力，為未來可能出現的新型計算需求做了前瞻佈局。（央視新聞）
-
----
-
-### 2026-08-09 11:08:57  #國際
-
-【伊朗：重開霍爾木茲海峽需美國滿足5個條件】伊朗最高國家安全委員會秘書佐勒加德爾表示，如果美國不改變其行為，霍爾木茲海峽將維持關閉狀態，重開霍爾木茲海峽的前提是美國滿足永久停止對伊軍事行動等5個條件。這些條件包括永久停止對伊朗及其地區盟友的軍事行動，停止威脅或侮辱伊朗，解除對伊朗海上封鎖和全部制裁，歸還伊朗被凍結資產，賠償相關軍事行動給伊朗造成的損失。伊朗外長阿拉格齊表示，伊朗與阿曼“接近”達成協議，但並不意味著重新開放霍爾木茲海峽，“海峽的開放還取決於其他條件，這包括美國違反諒解備忘錄應作出賠償”。（新華社）
-
----
-
-### 2026-08-09 11:07:05  #公司
-
-【招商證券：市場調整基本告一段落，將迎來蓄勢上攻】招商證券表示，對於8月市場，招商證券判斷A股仍處於盈利驅動的上行第三階段，以科技為代表的業績高增方向，將完成從敘事到財報、由估值至盈利的驗證。近期科技方向調整較大，是典型的流動性衝擊，在政策、產業趨勢與微觀流動性共同支撐下，調整基本告一段落，市場將迎來蓄勢上攻。方向選擇上，建議重點關注科技方向的修復以及新能源與資源品等業績高增方向。
-
----
-
-### 2026-08-09 11:05:28  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #WTI
-
-TASS reported US Middle East envoy Witkoff and Trump senior adviser Kushner may visit Kyiv and Moscow within the next seven to ten days.
-
----
-
-### 2026-08-09 11:04:29  #公司
-
-【申港證券：MLCC開啟新一輪漲價，關注訂單溢位和國產替代】申港證券表示，AI對高階MLCC需求帶動日韓龍頭廠商產能轉向高階規格，以及智慧駕駛滲透率提高，國內廠商有望受益訂單溢位和國產份額替代，具備高容高壓、車規級MLCC量產能力的國產廠商有望率先受益。國產龍頭企業中報業績預告了較好的同比增長，三環集團MLCC產品部分規格價格修復至原有合理價值，銷售量和銷售額同比有較大幅度增長。風華高科得益於行業景氣度上行，MLCC等主營產品市場需求持續增長，公司主營產品銷量及單價同比上升。建議關注國產MLCC龍頭及材料環節公司風華高科、三環集團、火炬電子、博遷新材。
-
----
-
-### 2026-08-09 11:02:05  #公司 #市場 #央行 #國際
-
-【現貨黃金週漲超7%站上4300美元 瑞銀：主要源於霍爾木茲海峽重開預期提振】現貨黃金單週漲幅超7%站上4300美元/盎司。訊息面上，當地時間8月7日，美國勞工統計局公佈的美國7月非農就業人數大幅低於預期。市場對美聯儲9月維持利率不變的預期升溫，美元指數應聲下跌，推動金價和銀價顯著上漲。嘉盛集團資深分析師Razan Hilal表示，黃金是繼續反彈還是繼續回撥，很大程度上將取決於原油價格走勢、圍繞美伊衝突及霍爾木茲海峽局勢的進展以及美聯儲政策展望及美國國債收益率。瑞銀的觀點指出，金價大幅反彈主要源於市場對霍爾木茲海峽重開預期日益增強的提振。與此同時，瑞銀認為，中國買盤興趣、ETF資金淨流入、利率環境趨於寬鬆、以及市場重新關注儲備多元化等因素也有所助力。另一方面，美國和日本政府在上週為穩定日元而採取的聯合措施，或已避免美國國債遭遇拋售，也為金價提供了支撐。（澎湃）
-
----
-
-### 2026-08-09 11:00:01  #其他
-
-【受颱風影響，上海外灘景區觀光平臺臨時封閉】據“上海黃浦”微信公眾號2026年8月9日訊息，受今年第13號颱風“白海豚”影響，上海市氣象臺已釋出暴雨橙色預警訊號。根據響應行動要求，為全面確保市民遊客的人身安全，現對黃浦外灘景區觀光平臺進行臨時封閉。待颱風影響減弱後，平臺會及時開放。感謝廣大市民遊客的諒解和支援 。
-
----
-
-### 2026-08-09 10:59:08  #市場
-
-【全國用電負荷四創新高， 25個省區市累計78次創新高】記者從國家能源局獲悉，8月7日，全國用電負荷入夏以來第四次創歷史新高，達到15.57億千瓦，較上一次創新高數值上漲約480萬千瓦。7月29日以來，全國用電負荷持續高位執行，日最大負荷（除週末假期外）均超過去年極值15.08億千瓦，尖峰負荷呈現明顯“平臺化”特徵。今年以來，全國用電需求保持旺盛增長態勢。華北、東北、華東等6個區域電網21次創歷史新高，北京、遼寧、江蘇、江西、四川、甘肅等25個省（自治區、直轄市）用電負荷累計78次創新高。
-
----
-
-### 2026-08-09 10:52:49  #國際
-
-【受高溫影響 韓國用電量創下本年度峰值】週日行業資料顯示，受持續熱浪影響，韓國近日用電量創下本年度峰值。韓國電力交易所資料顯示，週五全國最高電力負荷達到953.21萬千瓦，備用容量為820萬千瓦。一旦備用容量低於550萬千瓦，就將釋出電力應急供應警報。
-
----
-
-### 2026-08-09 10:51:32  #國際
-
-【韓國旅遊收支創下疫情以來順差新高】週日行業資料顯示，得益於本國流行文化的海外熱度，韓國旅遊收支創下新冠疫情之後的最高順差水平。 韓國觀光公社資料顯示，6月韓國旅遊賬戶實現順差5.966億美元，對比去年同期8.468億美元的逆差，出現大幅反轉。 該6月順差數值為2008年10月（當時旅遊順差6.615億美元）之後的第二高位。
-
----
-
-### 2026-08-09 10:50:19  #公司
-
-【“只失業了一秒鐘”，Jeff Dean離開谷歌後首談創業】“準確地說，我只失業了一秒鐘。”在斯坦福大學的一場活動上，剛剛告別谷歌近27年生涯的Jeff Dean這樣調侃自己從科技巨頭高管到創業者的身份切換，這距離他離職大約過去12個半小時的時間。這是他宣佈離開谷歌後的首次公開露面。此前，他與Sanjay Ghemawat、Oriol Vinyals和Quoc Le宣佈共同創辦AI公司Discovery Loop。現場，一個幾乎無法迴避的問題拋給Jeff Dean：有什麼事情，是離開谷歌後能做、而在谷歌內部做不了的？他沒有批評老東家，而是首先談到了“專注”。在他看來，小公司的一個優勢，是所有人都可以圍繞同一個目標工作，把注意力集中在一件事情上，而不需要同時面對大型組織中的其他事項和干擾。而另一個讓今天的AI創業與過去不同的變化，則是雲端計算。過去，只有谷歌這樣的科技巨頭才能擁有支撐大規模機器學習研究所需要的計算基礎設施；如今，一個規模很小但資金充足的團隊，也可以透過雲端計算獲得大量算力。“小團隊+大算力”的組合，也是Discovery Loop成立背後的重要邏輯。（第一財經）
-
----
-
-### 2026-08-09 10:49:36  #其他
-
-【“白海豚”5次“眼壁置換”仍維持較強級別 浙江溫州全力防範】截至今早8時，颱風“白海豚”距離浙江溫州還有大約260公里，那裡風雨影響情況如何？總檯記者宋飛京正在溫州樂清市發回報道。颱風“白海豚”昨夜移速緩慢，對浙江溫州造成明顯影響。據當地氣象部門監測，溫州今晨測得最大陣風達11級。為應對臺風，溫州市已啟動“五停”措施（停課、停工、停產、停運、停業），並對漁港碼頭的大型裝置進行錨定加固，確保安全。氣象部門預計，颱風登陸點北側區域將成為強降雨主要落區，需重點防範城鄉積澇、山洪及地質災害等次生風險。目前溫州各地正嚴陣以待，全力做好防禦工作。（央視新聞）
-
----
-
-### 2026-08-09 10:48:57  #市場
-
-【中指研究院：7月50城住宅租金環比漲幅擴大】中指研究院發文稱，7月，高校畢業季租賃需求集中釋放，全國住房租賃市場進入傳統旺季，50城住宅平均租金延續上漲態勢，環比漲幅進一步擴大。一線城市租金漲幅繼續保持領先，其中上海漲幅已連續4個月居50城首位；二線及三四線代表城市止跌企穩態勢也開始顯現。
-
----
-
-### 2026-08-09 10:46:54  #市場 #焦點
-
-紐約原油暗盤突破77美元，日內漲超1%。
-
----
-
-### 2026-08-09 10:46:34  #其他
-
-【8月8日北京新房網籤141套、二手房網籤126套】北京市住建委官網資料顯示，8月8日北京新房網籤141套，網籤面積10681.85平方米，其中住宅網籤78套，網籤面積8962.4平方米；二手房網籤126套，網籤面積10482.91平方米，其中住宅網籤113套，網籤面積9751.65平方米。
-
----
-
-### 2026-08-09 10:45:26  #其他
-
-【上海中心城區暴雨預警由橙變紅】上海市氣象臺10時30分更新中心城區暴雨橙色預警訊號為暴雨紅色預警訊號：預計未來6小時內，中心城區大部6小時累積降水量將達220毫米以上，暴雨橙色預警訊號更新為暴雨紅色預警訊號，強降雨較大可能引發城市積澇、交通擁堵等情況，請特別加強防範極端強降雨。 目前，上海“海浪橙+颱風藍＋黃浦江高潮位藍”三預警高掛，中心城區“暴雨紅+雷電黃”雙預警同時線上，請大家務必加強防範！
-
----
-
-### 2026-08-09 10:45:11  #公司
-
-【BBA逼近虧損邊緣】豪華車曾經是汽車行業利潤最豐厚的生意之一。賓士、寶馬和奧迪這三家一線豪華品牌享有豐厚的品牌聲譽，在全球市場可以同時獲得規模和溢價，賣出一輛車能夠帶來的利潤遠高於普通汽車品牌。最新一輪半年報顯示，這三家企業的主營汽車業務也瀕臨虧損邊緣。今年上半年，賓士、寶馬、奧迪全球汽車銷量和營收規模同步下滑，三家營收創下2022年來新低，汽車銷量也創下2023年來新低。利潤方面，賓士、寶馬更是達到2021年來低點，奧迪也處於過去六年的低谷。中國市場表現乏力成了三家公司業績同步下滑的關鍵原因。在三家公司中，賓士上半年營收規模最高，達到636.6億歐元，但較去年同期下降4.1%，連續三年下滑。賓士同期息稅前利潤（EBIT）為34.5億歐元，去年同期是35.6億歐元，這一表現較2023年巔峰時期跌去67.1%。（介面）
-
----
-
-### 2026-08-09 10:42:32  #公司
-
-【宇樹科技中一簽需繳款7.54萬元】根據安排，A股人形機器人第一股宇樹科技8月10日將開啟網上、網下申購。該公司股票的發行價格為150.80元/股，網上申購程式碼為“787836”，中一簽（500股）需繳款7.54萬元。 市場人士表示，若宇樹科技上市首日漲幅超過100%，投資者中一簽的盈利將超過7.5萬元；若上市首日漲幅超過200%，投資者中一簽的盈利將高達15萬元。 有券商指出，中長期來看，宇樹登陸A股有望牽引更多長期資金系統性配置人形機器人賽道。（券商中國）
-
----
-
-### 2026-08-09 10:41:55  #MKT News
-
-【China's Central Meteorological Observatory issues red typhoon warning】At 1000 CST on the 9th China's Central Meteorological Observatory upgraded its typhoon alert to red for Typhoon No.13 Baihaitun (White Dolphin). The center was at 27.9°N, 122.9°E — about 215 km east of Wenzhou in the southern East China Sea — with maximum winds near the center of 45 m/s (equivalent to 14 on the Chinese scale) and central pressure 950 hPa. Wind radii: 7-level 300–450 km, 10-level 200–250 km, 12-level 100 km. Baihaitun is moving westward at 20–25 km/h with little change in intensity forecast and is expected to make landfall along the coast between Zhoushan (Zhejiang) and Fuding (Fujian) between the evening of the 9th and early hours of the 10th, with landfall winds of 38–45 m/s (13–14); the storm should move west‑northwest inland and gradually weaken after landfall.
-
----
-
-### 2026-08-09 10:38:06  #國際
-
-【美媒爆“美副防長致信國防業界領袖，勒令其21天內提交增產計劃”，五角大樓回應】據美國《華盛頓郵報》當地時間8日援引其獲得的一份美國防部備忘錄報道，在美國面臨嚴重彈藥短缺問題之際，五角大樓正要求美國國防企業迅速提高武器生產和交付能力，包括因與伊朗戰事而極度短缺的彈藥。報道稱，美國防部副部長史蒂夫·範伯格5日曾致信業界領袖，稱他們必須在21天內提交計劃，以“大幅推進更快、更積極的交付進度，從而提高關鍵（武器）能力的產量”。“長達數年的研發週期是不可接受的。我們必須立即大幅加快專案進度，並擴大生產能力。”範伯格寫道。同時，範伯格認為，在2028財年預算審查中有幾個武器專案至關重要，並相應地“正在考慮加快推進或增加採購”。這些專案包括“下一代攔截器”導彈防禦系統、“國家先進地空導彈系統”、移動式防空雷達系統、先進飛行員訓練系統和天基導彈跟蹤系統。針對上述報道，五角大樓首席發言人肖恩·帕內爾在一份宣告中表示，“直接與業界領袖合作以加快（武器）生產並非新鮮事。從一開始，這便是總統和這位（副）部長的明確目的。”他還說，有關範伯格的備忘錄“是真實的”,且“將為提交給國會以獲得撥款的2028財年預算提供參考”。（環球網）
-
----
-
-### 2026-08-09 10:37:32  #觀點
-
-【中金：百濟神州“跑贏行業”維持評級 目標價升至266港元】中金髮布研究報告稱，綜合考慮澤布替尼高增長以及費用控制，上調百濟神州(06160）今年盈利預測34%至8.71億美元，並調升2027年盈測38%至12億美元。該行維持其“跑贏行業”評級，H股目標價升6.4%至266港元。
-
----
-
-### 2026-08-09 10:36:52  #其他 #焦點
-
-【中央氣象臺升級釋出颱風紅色預警】中央氣象臺今天上午10時升級釋出颱風紅色預警：今年第13號颱風“白海豚”（強颱風級）的中心今天（9日）上午10點鐘位於浙江省溫州市偏東方向大約215公里的東海南部海面上，就是北緯27.9度、東經122.9度，中心附近最大風力有14級（45米/秒），中心最低氣壓為950百帕，七級風圈半徑為300-450公里，十級風圈半徑為200-250公里，十二級風圈半徑為100公里。預計，“白海豚”將以每小時20-25公里的速度向偏西方向移動，強度變化不大，將於9日傍晚至10日凌晨在浙江舟山到福建福鼎一帶沿海登陸（38-45米/秒，13-14級，強颱風級或颱風級），最大可能在浙江三門到福建福鼎一帶沿海登陸，登陸後向西偏北方向移動，強度逐漸減弱。
-
----
-
-### 2026-08-09 10:35:02  #其他
-
-【颱風紅色預警釋出】中央氣象臺升級釋出颱風紅色預警。預計，“白海豚”將於今天晚上至明天早晨在浙江舟山到福建福鼎一帶沿海登陸，強風雨天氣盡量減少外出！（央視新聞）
-
----
-
-### 2026-08-09 10:34:32  #其他
-
-【徐志任蕪湖市委書記】日前省委決定：徐志同志任蕪湖市委書記。（安徽釋出）
-
----
-
-### 2026-08-09 10:29:53  #公司
-
-【呼叫CPU要排隊數日？AWS整頓算力浪費 擬批次關停虛擬伺服器】據報道，亞馬遜旗下AWS正徹查工程師對其內部算力資源的浪費問題。今年5月，其已向內部工程團隊發出預警，要求各團隊嚴控算力消耗，保障業務能夠持續承接客戶的算力需求。為此，工程師正在批次關停此前用於軟體開發的EC2虛擬伺服器。 值得注意的是，此番算力節流不僅針對AI專用晶片，矛頭同樣對準了長期支撐網路運營的傳統CPU伺服器。 一名AWS員工透露，過去申請CPU伺服器資源幾小時內就能審批到位，如今往往要等待數天，這種資源排隊的情況十分罕見，甚至會直接拖慢專案推進節奏。對此，AWS回應稱，雖然市場算力需求規模巨大，但公司依然可以滿足絕大多數內外部客戶的算力訴求。
 
 ---

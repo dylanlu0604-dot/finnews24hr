@@ -1,7 +1,158 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-12 03:43:01_
-_本檔包含 3428 則快訊，約 597057 字_
+_更新時間：2026-08-12 04:21:18_
+_本檔包含 3388 則快訊，約 597792 字_
+
+---
+
+### 2026-08-06 07:30:19  #公司 #國際
+
+【貝索斯年內首次減持亞馬遜股票，套現近3.5億美元】當地時間8月5日向美國證監會（SEC）提交的Form 4申報檔案顯示，亞馬遜創始人傑夫·貝索斯出售價值近3.5億美元的亞馬遜股票，為其今年首次出售該公司股份。亞馬遜當地時間3日向SEC提交文披露，貝索斯擬出售1500萬股股票，價值超40億美元。
+
+---
+
+### 2026-08-06 07:28:50  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Holds Decline on Partial Hormuz Reopening — Brent traded near $79 per barrel on Thursday, holding recent losses as Iran and Oman reached an agreement on a shipping route through the Strait of Hormuz, fueling expectations of increased energy flows from the Middle East. A joint statement from both countries is currently under review and in the final drafting stage, with the proposed route expected to remain operational for two to four months, although Tehran stressed that the agreement does not amount to a full reopening of the strategic waterway. Meanwhile, US officials continued to express confidence that a deal with Iran was nearing, though investors remained cautious about the durability of any lasting peace in the region. Iran-backed Houthi militants in Yemen also claimed they had targeted a Saudi oil tanker in the Gulf of Aden and threatened other vessels in the Red Sea, underscoring ongoing risks to regional shipping.
+
+---
+
+### 2026-08-06 07:28:38  #公司 #國際
+
+【從被制裁的瓜子到“新新三樣”圈粉世界 “中國智造”硬核突圍】幾天前，美國國土安全部宣佈將43家中國企業列入所謂涉疆法案實體清單。不僅有生產瓜子、水餃的食品企業，還有服裝公司。這也是該清單設立以來單次擴容數量最多的一次。美國的這波操作讓不少網友笑了，“美國是怕嗑瓜子嗑壞牙齒嗎？”更可笑的是，美國給的理由是這些企業從新疆採購瓜子，服裝用了新疆長絨棉，就憑這些它們就被美國簡單粗暴又毫無實據地捏造了一頂所謂“強迫勞動”的帽子，打算對中國企業實施單邊制裁。從晶片、光刻機，到瓜子、水餃，美方選的制裁物件愈發細碎離譜，最終恐怕又是要搬起石頭砸自己的腳。層層加碼的技術封鎖，反讓中國科技加速自立自強。海關總署資料顯示，2026年上半年我國貨物貿易進出口25.47萬億元，首超25萬億元，同比增長16.9%，穩居全球貨物貿易第一大國地位。 今年以來，被稱為“新新三樣”的人工智慧、機器人、創新藥迅猛發展，有望形成新的支柱產業。  （央視）
+
+---
+
+### 2026-08-06 07:27:36  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Holds Decline on Partial Hormuz Reopening — Crude oil traded around $75 per barrel on Thursday after falling for three straight sessions, as Iran and Oman reached an agreement on a shipping route through the Strait of Hormuz, fueling expectations of increased energy flows from the Middle East. A joint statement from both countries is currently under review and in the final drafting stage, with the proposed route expected to remain operational for two to four months, although Tehran stressed that the agreement does not amount to a full reopening of the strategic waterway. Meanwhile, US officials continued to express confidence that a deal with Iran was nearing, though investors remained cautious about the durability of any lasting peace in the region. Iran-backed Houthi militants in Yemen also claimed they had targeted a Saudi oil tanker in the Gulf of Aden and threatened other vessels in the Red Sea, underscoring ongoing risks to regional shipping.
+
+---
+
+### 2026-08-06 07:27:22  #市場
+
+【西部資料美股盤後跌逾10%】截至發稿，西部資料美股盤後跌逾10%。
+
+---
+
+### 2026-08-06 07:26:02  #公司
+
+【上半年分紅險保費劇增九成 火爆背後仍存“剛兌”隱憂】上半年，分紅險保費收入突破1萬億元，同比增幅超九成，充分體現出人身險公司向分紅險轉型的力度。記者瞭解到，壽險公司力推分紅險，既是主動佈局，也有現實被動因素。當前傳統型保險收益水平偏低，對消費者吸引力有限。不過，分紅險銷售仍然不容易，也有潛在隱憂。部分銷售環節沿用固定收益產品的推廣思路，把分紅險演示收益當作預期收益，使得消費者產生分紅可穩定兌付的預判。
+
+---
+
+### 2026-08-06 07:25:06  #宏觀 #公司 #國際
+
+【美國批准向挪威出售價值2.7億美元的155毫米炮彈】美國國務院週三在一份宣告中表示，已批准向挪威出售155毫米M795高爆炮彈及相關支援裝備，交易價值2.7億美元。宣告稱，此次軍售的主要承包商為美國軍械公司（American Ordnance）和通用動力公司（General Dynamics）。
+
+---
+
+### 2026-08-06 07:23:56  #公司 #市場
+
+【eBay預測第三季度營收將表現強勁 高價值品類正推動業務增長勢頭】eBay 週三預測第三季度營收將高於華爾街預期，公司正依託其在認證奢侈品、收藏品和翻新產品領域的佈局，吸引更多高價值買家進入其線上市場。這是該公司駁回GameStop約560億美元的非邀約收購要約 ——稱其“既不可信也不具吸引力”——以來的首份財報。不過，GameStop執行長科恩（Ryan Cohen）表示，他計劃繼續尋求合併。eBay 進一步加碼其“重點品類”，瞄準那些重視商品選擇和專業服務的愛好者買家，這一戰略使其在競爭對手中脫穎而出。以14億美元收購時尚轉售平臺Depop的舉措也帶來了提振，不僅擴大了公司在年輕消費者中的覆蓋範圍，還鞏固了其在快速增長的二手電商市場中的地位。該公司預計第三季度營收將在30.7億美元至31.2億美元之間，而分析師的預期為29.7億美元。這家線上零售商的股價今年已上漲逾25%，在盤後交易中上漲1%。
+
+---
+
+### 2026-08-06 07:23:18  #公司
+
+【國家清退梯次利用企業資質 動力電池回收行業迎來結構性洗牌】近日，工業和資訊化部發布《關於廢止和修訂新能源汽車廢舊動力電池“梯次利用”相關政策標準以及規範有關行業活動的公告》，廢止“梯次利用”有關條款，不再開展“梯次利用”企業公告管理，並將已公告的100家“梯次利用”企業移出行業規範名單，涵蓋比亞迪、蜂巢能源、國軒高科等一眾頭部企業。此次政策調整終結沿用梯次利用專項監管模式，行業將迎來全方位結構性洗牌。
+
+---
+
+### 2026-08-06 07:23:13  #市場 #焦點
+
+現貨黃金突破4260美元/盎司，日內漲0.35%。
+
+---
+
+### 2026-08-06 07:22:18  #公司
+
+【MLCC產業鏈“漲”聲不斷 產品銷量快速增長】近期，MLCC（多層片式陶瓷電容器）產業鏈的“漲”聲不斷，以風華高科、三環集團等為代表的上市公司的股價表現搶眼。證券時報記者綜合多方資訊發現，行業景氣度提升，MLCC產業鏈的相關產品銷量快速增長，擴產潮正在蔓延。
+
+---
+
+### 2026-08-06 07:21:48  #市場 #央行 #國際
+
+【城堡證券稱市場質疑沃什政策思路 警示負反饋迴圈風險】城堡證券表示，美聯儲主席凱文·沃什承諾遏制通脹、但未解釋具體如何實施，這給投資者製造了新的不確定性。儘管沃什多次表示，美聯儲需要壓低已連續五年超過目標水平的消費者價格漲幅，但美聯儲上週再次維持利率不變，即便有三名政策制定者支援立即加息。相反，沃什認為，近期美國國債收益率上升已經收緊了金融條件，使市場發揮了部分美聯儲收緊政策的作用。他還暗示，在貨幣政策框架評估後，美聯儲可能重新考慮是否應繼續將其首選通脹指標作為當前政策基準。投資者對此作出反應，拋售長期美國國債，推高通脹預期，導致美元和股市下跌。城堡證券歐洲、中東和非洲地區固定收益銷售主管Nohshad Shah在報告中寫道，這些市場變動凸顯了“對政策框架可信度或清晰度的挑戰”。Shah在報告中表示，依賴市場收緊金融條件存在形成負反饋迴圈的風險。長期借貸成本上升會促使美聯儲等待更長時間再加息，而這反過來可能導致投資者要求更高的通脹溢價和期限溢價，進一步推高收益率。“美聯儲維持利率不變，是因為市場已經收緊；而市場收緊，又是因為美聯儲維持利率不變，”他寫道。
+
+---
+
+### 2026-08-06 07:19:22  #公司 #市場 #國際
+
+【美國光模組“禁令”傳聞擾動 業內人士：實際落地難度大】儘管美國擬禁止進口中國新款光模組的傳聞引發擔憂，但8月5日A股光模組展現韌性，板塊指數收漲超3%，“易中天”走勢分化，中際旭創和新易盛收跌，天孚通訊上漲2.29%。相關光模組上市公司表示對傳聞不予回應，並稱公司運營正常。另外，業內人士向證券時報記者預估，考慮產能差距、技術迭代、原材料等因素，該“禁令”傳聞實際落地難度大。
+
+---
+
+### 2026-08-06 07:18:39  #市場 #焦點
+
+紐約期金突破4320美元/盎司，日內漲0.35%。
+
+---
+
+### 2026-08-06 07:18:34  #公司 #市場
+
+【多家期貨公司終止居間人合作 行業獲客進入專業價值比拼新階段】8月以來，一德期貨、信達期貨、中原期貨、紅塔期貨、國聯期貨等期貨公司紛紛釋出公告：終止與全部居間人的居間業務合作，禁止任何機構或個人以公司居間人名義從事相關活動；原居間人介紹客戶的日常服務，轉為公司客戶經理或官方客服人員直接對接處理。中國期貨業協會最新資料顯示，截至8月4日，期貨公司的存續居間人數量僅剩36人，較高峰時期的4萬餘人大幅縮減，表明行業“去居間化”程序已近尾聲。對此，受訪人士表示，這是期貨行業發展從“規模導向”轉向“質量導向”的必然結果。隨著監管層對適當性管理、投資者保護的要求越來越高，以及期貨經營機構推進高質量發展，行業獲客渠道將邁入專業價值比拼的新階段。（上海證券報）
+
+---
+
+### 2026-08-06 07:18:31  #國際
+
+【中方代表：防止“三股勢力”藉助新興技術蔓延滲透 】中國常駐聯合國代表團臨時代辦孫磊5日在安理會反恐問題公開會上發言，呼籲加強對新興技術的有效管控，防止“三股勢力”藉助新興技術蔓延滲透。孫磊說，恐怖組織利用網際網路、人工智慧、無人機等新興技術開展煽動、招募、融資活動和實施襲擊，給反恐行動帶來新的挑戰。中方支援聯合國和國際社會加強新興技術治理，強化風險評估與監管體系，防止暴力恐怖、民族分裂、宗教極端“三股勢力”藉助新興技術蔓延滲透。國際社會要幫助發展中國家提升反恐能力，築牢反恐防線。
+
+---
+
+### 2026-08-06 07:17:56  #市場
+
+【7月銀行理財規模增長6500億元 固收類產品仍為主力】最新資料顯示，7月銀行理財規模延續穩步上行態勢，環比增加約6500億元。產品結構方面，固收類產品仍為主力，規模佔比近八成。業內人士認為，在“資產荒”與市場波動並行的背景下，銀行理財機構應在提升投研能力和加強投資者陪伴方面持續深耕。（上海證券報）
+
+---
+
+### 2026-08-06 07:17:53  #國際
+
+【巴西降級與阿根廷關係 阿稱駐巴大使將“回國休假”  】阿根廷外交部長巴勃羅·基爾諾5日說，阿根廷駐巴西大使丹尼爾·雷蒙迪將於近日“回國休假”。此前一天，巴西外交部長召見雷蒙迪，表示巴西政府決定將巴阿外交關係降至代辦級，並要求其返回阿根廷。
+
+---
+
+### 2026-08-06 07:17:15  #MKT News
+
+【Brazil downgrades ties with Argentina; Argentina says ambassador to Brazil will "return home on leave"】Argentina's foreign minister Pablo Kierno said on the 5th that Argentina's ambassador to Brazil, Daniel Raimondi, will shortly "return home on leave." The comment followed Brazil's foreign minister summoning Raimondi and announcing the Brazilian government had downgraded bilateral relations to the chargé d'affaires level and asked him to return to Argentina. The diplomatic dispute follows President Javier Milei's July 25 criticism of President Lula at a Liberal Party national congress in São Paulo and Milei's protest over a Brazilian Supreme Court judge blocking his visit to jailed ex‑president Jair Bolsonaro; Brazil recalled its ambassador to Argentina the next day in protest.
+
+---
+
+### 2026-08-06 07:16:37  #觀點
+
+摩根士丹利將必和必拓目標股價下調0.7%，至每股67.00澳元。
+
+---
+
+### 2026-08-06 07:15:18  #宏觀 #國際
+
+美國國務院：已批准向挪威出售155毫米M795高爆彈及相關裝備的潛在軍售專案，預估金額為2.7億美元。
+
+---
+
+### 2026-08-06 07:14:27  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、深圳3D列印產業不斷實現高效生產與快速迭代 “時間是最寶貴的資源”（高質量發展微視角）
+2、上半年我國服務出口增長17.6%
+3、從“製造”到“智造”——外企見證中國先進製造業水平不斷提升
+4、向新而行，共拓全球發展新機遇（和音）
+5、中國對美國聯邦通訊委員會、美國土安全部系列涉華消極措施實施反制
+6、中國發起首例對外貿易國家安全調查
+7、外交部：堅決反對美方濫用國家力量無理打壓中國企業
+8、聚“綠”成勢，結構轉型活力足（評論員觀察）——2026中國經濟年中觀察④
+9、駕馭好人工智慧這匹千里馬（微觀）
+10、今年上半年 北京超二十八萬戶經營主體完成信用修復
+11、以全鏈條全生命週期金融服務賦能科技創新（有的放矢）
+12、利用資源稟賦 攻克關鍵技術 實現多元發展 延伸鏈條，老區“長”出新產業（經濟聚焦·老區新產業）
+13、深耕摩托車產業轉型升級之路（感言）
+14、市場監管總局 進一步完善經營者集中委託審查制度
+15、7月中國物流業景氣指數為50.4% 總體保持擴張
+16、AI客服承諾不實怎麼辦（有問有答）
+17、上半年國開行發放農業貸款同比增長111%
+18、雄安新區完善智慧財產權多元協同保護機制
+19、市場監管總局公佈食品安全監督抽檢情況 上半年總體不合格率為2.22% 已針對不合格食品及時開展核查處置。
 
 ---
 
@@ -20314,377 +20465,5 @@ EOG Resources earnings above expectations at 5.07 USD — EOG Resources (EOG) re
 ### 2026-08-05 04:21:31  #其他
 
 SpaceX：第二季度AI業務板塊資本開支158.3億美元，市場預期130.9億美元。
-
----
-
-### 2026-08-05 04:20:05  #MKT News #Important #WTI #Impact mixed
-
-API report on U.S. crude inventories for the week to July 31 due in 10 minutes.
-
----
-
-### 2026-08-05 04:19:25  #市場 #焦點
-
-SPACEX在公佈業績後盤後跌幅擴大至8.5%。
-
----
-
-### 2026-08-05 04:19:02  #其他
-
-AMD：第二季度資本支出8.08億美元，預估2.986億美元。
-
----
-
-### 2026-08-05 04:18:50  #其他
-
-AMD：第二季度研發支出25.3億美元，預估24.5億美元。
-
----
-
-### 2026-08-05 04:18:32  #其他
-
-SpaceX：約56%的積壓訂單預計在一年內確認收入，約34%預計在1至3年內確認收入。
-
----
-
-### 2026-08-05 04:18:26  #MKT News #Important #AMD.O #Impact bearish #SPCX.O
-
-Following earnings releases, AMD (AMD.O) and SpaceX (SPCX.O) shares each fell about 8% in U.S. after-hours trading.
-
----
-
-### 2026-08-05 04:18:04  #MKT News #Important #Market Themes #Chip Wars #AMD.O #Impact bullish
-
-AMD (AMD.O) expects Q3 2026 revenue of $12.7-13.3 bln, vs. consensus $12.51 bln.
-
----
-
-### 2026-08-05 04:17:56  #其他
-
-AMD預計第三季度經調整毛利率大約56％，預估56.2％。
-
----
-
-### 2026-08-05 04:17:50  #其他
-
-AMD預計第三季營收在127億至133億美元，市場預估為125.1億美元。
-
----
-
-### 2026-08-05 04:17:37  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Advanced Micro Devices earnings above expectations at 1.66 USD — Advanced Micro Devices (AMD) released earnings per share at 1.66 USD, compared to market expectations of 1.60 USD.
-
----
-
-### 2026-08-05 04:17:28  #公司 #市場 #焦點
-
-AMD股價在第二季度財報釋出後下跌8%。
-
----
-
-### 2026-08-05 04:16:48  #其他
-
-AMD：預計2026年下半年資料中心銷售將加速增長。
-
----
-
-### 2026-08-05 04:16:40  #其他
-
-AMD第二季調整後每股收益1.66美元，IBES預估為1.62美元。
-
----
-
-### 2026-08-05 04:16:35  #其他
-
-AMD第二季度資料中心部門營收為67億美元。
-
----
-
-### 2026-08-05 04:16:29  #其他 #焦點
-
-AMD第二季度營收為115.4億美元，市場分析師一致預期（IBES）為112.8億美元。
-
----
-
-### 2026-08-05 04:16:26  #MKT News #Important
-
-AMD (AMD.O) reported Q2 2026 revenue of $11.5 bln, above the $11.284 bln market estimate and up from $7.685 bln a year earlier.
-
----
-
-### 2026-08-05 04:16:01  #MKT News #SPCX.O
-
-SpaceX (SPCX.O) fell more than 5% in after-hours trading.
-
----
-
-### 2026-08-05 04:15:40  #宏觀 #國際
-
-美國國務院一名高階官員稱，若局勢得到解決，駐華盛頓的巴西高階外交官簽證將予以恢復。
-
----
-
-### 2026-08-05 04:15:31  #焦點 #國際
-
-特朗普：隨著國防生產的增長，我們將向盟友提供更多國防物資。
-
----
-
-### 2026-08-05 04:14:18  #宏觀 #國際
-
-美國國務院稱，美國撤銷了巴西大使的簽證。
-
----
-
-### 2026-08-05 04:12:52  #其他
-
-SpaceX：第二季度星鏈每使用者平均收入為66美元。
-
----
-
-### 2026-08-05 04:12:22  #其他 #焦點
-
-SpaceX：截至6月30日，SpaceX持有18712枚比特幣。
-
----
-
-### 2026-08-05 04:12:10  #公司 #市場
-
-【SpaceX期權交易量激增，330美元看漲期權領漲】交易所資料顯示，紐約時間下午4點10分，太空探索技術公司期權交易量達到152萬份合約。看漲期權成交量813040份，看跌期權成交量711668份。2026年8月7日到期、行權價330美元看漲期權成交82360份合約；未平倉合約547933份。
-
----
-
-### 2026-08-05 04:11:41  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Arista Networks earnings above expectations at 1.02 USD — Arista Networks (ANET) released earnings per share at 1.02 USD, compared to market expectations of 0.88 USD.
-
----
-
-### 2026-08-05 04:11:12  #其他
-
-SpaceX目前預計Cursor合併交易將在第三季度完成。
-
----
-
-### 2026-08-05 04:11:05  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Wall Street Reaches New Highs — US stock indices closed higher on Tuesday amid growing optimism that the US and Iran could reach an agreement to reopen the Strait of Hormuz. The S&P 500 rose 1.8% to a record close of 7,736, while the Dow added 907 points to finish at an all-time high of 54,086. The Nasdaq 100 also gained 3.3%. Hopes for an interim agreement gained momentum after Qatar said a proposal had been drafted and US officials expressed optimism about the talks. Lower fuel and natural gas prices eased inflation concerns, helping Treasury yields extend their decline. Palantir soared 29.4% after raising its guidance on strong commercial sales, while Caterpillar gained 5.4% after beating earnings estimates. AI hyperscalers extended yesterday's gains, Alphabet and Microsoft advanced 1.1% each. Chipmakers rallied, with Broadcom up 6.6%, Micron rising 7.6%, and Intel advancing 10.8%. AMD (+7%) and SpaceX (+8.9%) closed higher ahead of their earnings releases.
-
----
-
-### 2026-08-05 04:10:56  #MKT News #Market Themes #AI Revolution #SPCX.O
-
-SpaceX (SPCX.O) said AI revenue for Q2 2026 was $2.561 bln.
-
----
-
-### 2026-08-05 04:10:50  #公司 #市場
-
-SpaceX盤後股價在第二季度財報釋出後下跌2%。
-
----
-
-### 2026-08-05 04:10:10  #其他
-
-SpaceX：第二季度研發費用同比增加15.9億美元，增幅81.2%。
-
----
-
-### 2026-08-05 04:09:48  #其他
-
-SpaceX：第二季度航天業務調整後EBITDA虧損2.05億美元，市場預期虧損4.099億美元。
-
----
-
-### 2026-08-05 04:09:40  #其他
-
-SpaceX：第二季度火箭發射次數38次，市場預期43次。
-
----
-
-### 2026-08-05 04:09:39  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Emerson Electric earnings below expectations at 1.52 USD — Emerson Electric (EMR) released earnings per share at 1.52 USD, compared to market expectations of 1.68 USD.
-
----
-
-### 2026-08-05 04:08:58  #其他
-
-SpaceX：擁有大量投資於星艦、星鏈寬頻和移動衛星以及人工智慧平臺的能力。
-
----
-
-### 2026-08-05 04:08:15  #其他 #焦點
-
-SpaceX：第二季度末現金、現金等價物及有價證券總額達到1000億美元。
-
----
-
-### 2026-08-05 04:07:59  #其他
-
-SpaceX：第二季度人工智慧板塊資本支出為158.28億美元。
-
----
-
-### 2026-08-05 04:07:43  #其他
-
-SpaceX第二季度末積壓訂單規模為475億美元。
-
----
-
-### 2026-08-05 04:07:39  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Amgen earnings above expectations at 6.29 USD — Amgen (AMGN) released earnings per share at 6.29 USD, compared to market expectations of 5.59 USD.
-
----
-
-### 2026-08-05 04:07:19  #其他
-
-SpaceX第二季度研發費用35.5億美元，市場預期43.9億美元。
-
----
-
-### 2026-08-05 04:06:17  #公司 #市場
-
-SpaceX釋出季度財報後，盤後交易股價上漲2%。
-
----
-
-### 2026-08-05 04:05:36  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-SpaceX earnings in line with market expectations at -0.09 USD — SpaceX (SPCX) released earnings per share at -0.09 USD.
-
----
-
-### 2026-08-05 04:05:36  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International crude falls sharply on 4th; WTI $75.77, Brent $79.36】At the close on the 4th, NYMEX September WTI fell $4.57 to $75.77 a barrel, down 5.69%. ICE October Brent fell $4.41 to $79.36 a barrel, down 5.26%.
-
----
-
-### 2026-08-05 04:05:28  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Nasdaq100
-
-Aug 4 (Tue) close: Dow Jones +907.53 pts (+1.71%) to 54,085.94; S&P 500 +136.02 pts (+1.79%) to 7,736.52; Nasdaq Composite +671.10 pts (+2.59%) to 26,584.99.
-
----
-
-### 2026-08-05 04:04:42  #MKT News
-
-SpaceX (SPCX.O) reported Q2 capex of $18.369 bln and a net loss of $541 mln.
-
----
-
-### 2026-08-05 04:04:02  #MKT News #SPCX.O #Impact bullish
-
-SpaceX (SPCX.O) U.S. shares rose more than 1% in after-hours trading.
-
----
-
-### 2026-08-05 04:03:40  #其他 #焦點
-
-SpaceX：第二季度AI業務板塊經營虧損12.6億美元，市場預期虧損23.9億美元。
-
----
-
-### 2026-08-05 04:03:34  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Booking Holdings earnings above expectations at 2.54 USD — Booking Holdings (BKNG) released earnings per share at 2.54 USD, compared to market expectations of 2.44 USD.
-
----
-
-### 2026-08-05 04:03:24  #其他
-
-派拉蒙預計到2026年底實現年執行率成本節約達27億美元，高於此前目標的25億美元。
-
----
-
-### 2026-08-05 04:02:58  #MKT News #Important #SPCX.O #Impact bullish
-
-SpaceX (SPCX.O) reported Q2 2026 revenue of $7.8 bln, versus market expectation of $6.934 bln.
-
----
-
-### 2026-08-05 04:02:28  #其他 #焦點
-
-SpaceX：二季度營收78億美元，市場預期68.1億美元。
-
----
-
-### 2026-08-05 04:01:54  #市場
-
-標普500指數6月以來首次收於紀錄高點。
-
----
-
-### 2026-08-05 04:01:22  #市場
-
-【國際油價4日大幅下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌4.57美元，收於每桶75.77美元，跌幅為5.69%；10月交貨的倫敦布倫特原油期貨價格下跌4.41美元，收於每桶79.36美元，跌幅為5.26%。
-
----
-
-### 2026-08-05 04:01:12  #MKT News #Important #Market Regions #Wall Street (US) #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #S&P500 #Impact bullish #NVDA.O #MU.O
-
-【US close: Dow, S&P 500 hit record highs; SK Hynix up 8%】U.S. stocks closed higher Tuesday: Dow Jones prelim. +1.70% and S&P 500 +1.73%, both at record highs; Nasdaq +2.59%. SK Hynix (SKHY.O) +8.0%, Micron Technology (MU.O) +7.6%, SanDisk (SNDK.O) +10.8%, NVIDIA (NVDA.O) just over +2%, SpaceX (SPCX.O) +9.4%. Nasdaq Golden Dragon China Index -0.35%; Alibaba (BABA.N) +1.0%.
-
----
-
-### 2026-08-05 04:00:53  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲1.71%，標普500指數漲1.79%，納指漲2.60%。Palantir Technologies漲29.45%，斑馬技術漲26.62%，加特納漲23.05%，Arm Holdings Plc漲17.39%，邁威爾科技漲12.79%，Coherent Corp漲12.36%。“七姐妹”方面：英偉達漲2.58%，蘋果漲1.96%，特斯拉漲1.63%，微軟漲1.05%，谷歌漲0.77%，Meta Platforms跌0.39%，亞馬遜跌2.34%。
-
----
-
-### 2026-08-05 04:00:46  #公司 #市場 #焦點
-
-SpaceX股價在財報釋出前收盤上漲9.4%。
-
----
-
-### 2026-08-05 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.22%】逸仙電商跌8.87%，盛豐物流跌6.74%，叮咚買菜跌5.65%，優品車跌5.18%，新東方跌4.82%。
-
----
-
-### 2026-08-05 03:59:56  #公司
-
-谷歌：Gemini課堂版K‑12及以上版本將於8月10日開始推出。
-
----
-
-### 2026-08-05 03:57:38  #國際
-
-【美國民警衛隊在華盛頓特區部署延至2029年1月】美國國防部表示，國民警衛隊在華盛頓特區的部署延長至2029年1月，預計將在2027至2029財年耗資約14億美元。
-
----
-
-### 2026-08-05 03:55:04  #國際
-
-【以總理稱哈馬斯徹底解除武裝前不會從加沙撤軍】以色列總理內塔尼亞胡表示，其明確拒絕了美方提出的加沙解除武裝路線圖草案，並強調在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）徹底解除武裝之前，以色列軍隊不會撤出當前防線。他表示，其正指示以軍士兵採取一切必要措施，以保護自身以及以色列的安全。
-
----
-
-### 2026-08-05 03:54:52  #國際
-
-美國國務卿魯比奧與巴拉圭簽署一份重要核問題備忘錄。
-
----
-
-### 2026-08-05 03:48:25  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Netanyahu: No Israeli withdrawal from Gaza until Hamas fully disarmed】Israeli Prime Minister Netanyahu said Israeli forces will not withdraw from their current Gaza front lines until Hamas is fully disarmed. He said Trump and his team believe Hamas can be fully disarmed and Gaza demilitarized and that Israel is studying the proposal. Netanyahu said Israel rejected a draft sent by the U.S. team and submitted its own response before the matter was reported in the media.
-
----
-
-### 2026-08-05 03:46:25  #國際
-
-以色列總理內塔尼亞胡：以色列軍隊“不會撤出加沙當前戰線”。
-
----
-
-### 2026-08-05 03:44:07  #國際
-
-【美方稱已迫使45艘商船改變航線】美軍中央司令部當地時間8月4日表示，美軍繼續嚴格執行對伊朗的海上封鎖。截至8月4日，美軍已迫使45艘商船改變航線，令2艘船隻喪失航行能力，並對2艘船隻進行了登船檢查。
 
 ---
