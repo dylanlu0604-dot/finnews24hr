@@ -1,7 +1,25 @@
 {
   "date": "2026-08-12",
-  "count": 212,
+  "count": 214,
   "items": [
+    {
+      "id": "mkt:019ff21e-9d19-7aab-8ff9-1101ee8d94a4",
+      "time": "2026-08-12 02:38:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Hungary president-elect Andras Boka pledges to rebuild ties with international allies】In a speech after a parliamentary vote on the 11th, president-elect Andras Boka said rebuilding partnerships with international allies will be a key task during his term."
+    },
+    {
+      "id": "5036325",
+      "time": "2026-08-12 02:37:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利當選總統鮑卡：將重建與國際盟友的夥伴關係】匈牙利新當選總統鮑卡·安德拉什11日在國會表決後的演說中表示，重建與國際盟友的夥伴關係將成為其總統任期內的重要任務。（新華社）"
+    },
     {
       "id": "5036324",
       "time": "2026-08-12 02:34:45",
