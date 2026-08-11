@@ -1,7 +1,31 @@
 {
   "date": "2026-08-12",
-  "count": 290,
+  "count": 293,
   "items": [
+    {
+      "id": "mkt:019ff26d-fd5e-7aab-8ffa-340e5a0a3c14",
+      "time": "2026-08-12 04:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Flavio Bolsonaro, son of Brazil’s former president and a senator, is drafting a campaign fiscal framework that would seek a constitutional amendment to cap government spending growth and set fiscal constraints and targets tied to public debt levels."
+    },
+    {
+      "id": "5036369",
+      "time": "2026-08-12 04:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lumentum第四財季淨營收10.1億美元，分析師預期9.90億美元，上年同期4.807億美元。\n第四財季元件與零部件營收6.494億美元，分析師預期6.369億美元，上年同期3.204億美元。\n第四財季系統營收3.569億美元，分析師預期3.504億美元，上年同期1.603億美元。"
+    },
+    {
+      "id": "5036368",
+      "time": "2026-08-12 04:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "KKR週二收盤上漲6.9%，創4月13日以來最大單日漲幅。"
+    },
     {
       "id": "mkt:019ff26a-5f9b-7aab-8ffa-2b761c232697",
       "time": "2026-08-12 04:01:25",

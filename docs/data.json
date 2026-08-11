@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-12 04:02:08",
-  "count": 15650,
+  "updated": "2026-08-12 04:05:57",
+  "count": 15643,
   "items": [
+    {
+      "id": "mkt:019ff26d-fd5e-7aab-8ffa-340e5a0a3c14",
+      "time": "2026-08-12 04:05:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Flavio Bolsonaro, son of Brazil’s former president and a senator, is drafting a campaign fiscal framework that would seek a constitutional amendment to cap government spending growth and set fiscal constraints and targets tied to public debt levels."
+    },
+    {
+      "id": "5036369",
+      "time": "2026-08-12 04:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lumentum第四財季淨營收10.1億美元，分析師預期9.90億美元，上年同期4.807億美元。\n第四財季元件與零部件營收6.494億美元，分析師預期6.369億美元，上年同期3.204億美元。\n第四財季系統營收3.569億美元，分析師預期3.504億美元，上年同期1.603億美元。"
+    },
+    {
+      "id": "5036368",
+      "time": "2026-08-12 04:03:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "KKR週二收盤上漲6.9%，創4月13日以來最大單日漲幅。"
+    },
     {
       "id": "mkt:019ff26a-5f9b-7aab-8ffa-2b761c232697",
       "time": "2026-08-12 04:01:25",
@@ -142473,112 +142497,6 @@
         "市場"
       ],
       "text": "SpaceX釋出季度財報後，盤後交易股價上漲2%。"
-    },
-    {
-      "id": "te:markets:572672",
-      "time": "2026-08-05 04:05:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "SpaceX earnings in line with market expectations at -0.09 USD — SpaceX (SPCX) released earnings per share at -0.09 USD."
-    },
-    {
-      "id": "mkt:019fce61-b1d1-7aab-8f76-ac0c79bf9cfe",
-      "time": "2026-08-05 04:05:36",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International crude falls sharply on 4th; WTI $75.77, Brent $79.36】At the close on the 4th, NYMEX September WTI fell $4.57 to $75.77 a barrel, down 5.69%. ICE October Brent fell $4.41 to $79.36 a barrel, down 5.26%."
-    },
-    {
-      "id": "mkt:019fce61-9358-7aab-8f76-a16e335b0e37",
-      "time": "2026-08-05 04:05:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Aug 4 (Tue) close: Dow Jones +907.53 pts (+1.71%) to 54,085.94; S&P 500 +136.02 pts (+1.79%) to 7,736.52; Nasdaq Composite +671.10 pts (+2.59%) to 26,584.99."
-    },
-    {
-      "id": "mkt:019fce60-dec0-7aab-8f76-9dbef16da503",
-      "time": "2026-08-05 04:04:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) reported Q2 capex of $18.369 bln and a net loss of $541 mln."
-    },
-    {
-      "id": "mkt:019fce60-413b-7aab-8f76-93f1c6ed9021",
-      "time": "2026-08-05 04:04:02",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) U.S. shares rose more than 1% in after-hours trading."
-    },
-    {
-      "id": "5025272",
-      "time": "2026-08-05 04:03:40",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX：第二季度AI業務板塊經營虧損12.6億美元，市場預期虧損23.9億美元。"
-    },
-    {
-      "id": "te:markets:572671",
-      "time": "2026-08-05 04:03:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Booking Holdings earnings above expectations at 2.54 USD — Booking Holdings (BKNG) released earnings per share at 2.54 USD, compared to market expectations of 2.44 USD."
-    },
-    {
-      "id": "5025271",
-      "time": "2026-08-05 04:03:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙預計到2026年底實現年執行率成本節約達27億美元，高於此前目標的25億美元。"
-    },
-    {
-      "id": "mkt:019fce5f-47c6-7aab-8f76-8e40b3f3b186",
-      "time": "2026-08-05 04:02:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "SpaceX (SPCX.O) reported Q2 2026 revenue of $7.8 bln, versus market expectation of $6.934 bln."
-    },
-    {
-      "id": "5025270",
-      "time": "2026-08-05 04:02:28",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX：二季度營收78億美元，市場預期68.1億美元。"
     }
   ]
 }
