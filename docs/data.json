@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-11 13:46:45",
-  "count": 15875,
+  "updated": "2026-08-11 13:50:35",
+  "count": 15880,
   "items": [
+    {
+      "id": "mkt:019fef5e-8c60-7aab-8fe8-96838f909102",
+      "time": "2026-08-11 13:49:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia governor Bullock said the board has decided to wait for further information; a rate hike remains the primary consideration."
+    },
+    {
+      "id": "5035115",
+      "time": "2026-08-11 13:49:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：委員會決定等待更多資訊，加息仍在考慮之中。"
+    },
+    {
+      "id": "5035114",
+      "time": "2026-08-11 13:48:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "布洛克：衝突持續時間越長，企業越有可能將價格上漲轉嫁到產品中。"
+    },
+    {
+      "id": "5035113",
+      "time": "2026-08-11 13:48:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲4%，現報998.00元。"
+    },
+    {
+      "id": "5035112",
+      "time": "2026-08-11 13:48:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克母子盛讚中國】8月11日，埃隆・馬斯克在社交平臺發文盛讚中國：“中國太棒了。我強烈鼓勵大家去那裡旅遊。”隨後，他的母親梅耶・馬斯克也在這條動態下留言表示贊同，並在評論中細緻描述了自己到訪中國的直觀體驗。 她提到，國內每一座城市都各具風情，擁有豐富多樣的人文古蹟可供遊覽。城市建築與街道環境乾淨整潔，基礎設施維護到位。當地民眾待人謙和有禮，勤懇務實，整體氛圍讓她充滿安全感，這也是她十分樂於到訪中國的重要原因。"
+    },
+    {
+      "id": "mkt:019fef5d-36c2-7aab-8fe8-8964c42e8213",
+      "time": "2026-08-11 13:48:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said reasons for raising rates include inf remaining too high and upside risks from the Middle East."
+    },
+    {
+      "id": "mkt:019fef5c-29fd-7aab-8fe8-8080a5321606",
+      "time": "2026-08-11 13:47:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA Governor Bullock said the housing market will not constrain rate hikes."
+    },
+    {
+      "id": "5035111",
+      "time": "2026-08-11 13:46:59",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "澳洲聯儲主席布洛克： 擔憂經濟若要提速，就難免引發物價上漲。"
+    },
     {
       "id": "mkt:019fef5b-56a9-7aab-8fe8-7b7ca4a84871",
       "time": "2026-08-11 13:46:08",
@@ -144507,34 +144582,6 @@
         "國際"
       ],
       "text": "【馬來西亞考慮對電動汽車銷售徵稅以建設充電站】馬來西亞投資、貿易和工業部喬哈里·阿卜杜勒·加尼週二表示，馬來西亞正在考慮對電動汽車銷售徵稅，以擴大其公共充電網路。 他說，政府不能再繼續等待電動汽車製造商或經銷商投資建設公共充電站了。政府可以對每輛售出的電動汽車徵稅，並將所得款項納入基金，用於建設公共充電站。截至5月31日，馬來西亞共有6416個公共充電樁。"
-    },
-    {
-      "id": "te:markets:572385",
-      "time": "2026-08-04 13:49:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Ends 0.9% Higher, Near Record High — New Zealand's stocks added 129 points, or 0.9%, to close at 13,903 on Tuesday, extending gains from the previous two sessions, buoyed by gains in the tech, healthcare, materials, and financial sectors. The broader index closed close to its record high of 13,977, touched on July 29, tracking gains on Wall Street overnight, supported by a rally in technology stocks and easing oil prices amid hopes of US-Iran peace talks. Further moderating oil prices also supported sentiment, as inflation concerns eased, tempering expectations of an interest rate hike. However, traders remained cautious ahead of the release of New Zealand's unemployment data on Wednesday, with the market expecting it to edge up to 5.4% in Q2. Traders also anticipated the release of a slew of US data, including jobs data, for guidance on the US economic outlook. Among the top gainers were Fisher & Paykel (2.8%), Westpac Banking Corp. (2.3%), Meridian Energy (2.3%), Infratil (2.0%), Freightways Group (1.1%)."
-    },
-    {
-      "id": "5023734",
-      "time": "2026-08-04 13:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯特維爾州州長稱，無人機襲擊導致Wildberries倉庫受損。"
-    },
-    {
-      "id": "5023733",
-      "time": "2026-08-04 13:46:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "三井物產首席財務官：在對長期脫碳拍賣計劃的細節進行分析後，我們將評估位於新潟的海上風電專案的經濟可行性。"
     }
   ]
 }
