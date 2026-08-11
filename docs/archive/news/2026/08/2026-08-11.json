@@ -1,7 +1,92 @@
 {
   "date": "2026-08-11",
-  "count": 1125,
+  "count": 1134,
   "items": [
+    {
+      "id": "mkt:019fef65-913c-7aab-8fe8-e62c528c37ab",
+      "time": "2026-08-11 13:57:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【July inf emerges as key variable for Fed policy; analysts split on further hikes】Last week's mixed July jobs report raised the market importance of July inf, analysts say. LPL Financial chief economist Jeffrey Roach said the Fed's rate path will depend on how long inf stays elevated; with the labor market cooling, inf could become the swing factor. A less certain inf outlook could support one hike this year but makes multiple hikes unlikely. Vanguard analyst Hicklin said July payrolls plus expected inf improvement bolster the case for the Fed to leave rates unchanged through year-end. Recent data have shifted Fed focus toward balancing labor-market signals and inf, increasing confidence policymakers will hold rates this year."
+    },
+    {
+      "id": "mkt:019fef65-05f0-7aab-8fe8-dca256d01df8",
+      "time": "2026-08-11 13:56:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the weak housing market does not pose a material risk to financial stability."
+    },
+    {
+      "id": "5035127",
+      "time": "2026-08-11 13:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜：ZCode全面升級 GLM Coding Plan全體使用者額度已於今天13:00統一重置】智譜8月11日宣佈，今天，ZCode迎來重大升級，Goal、Subagents、Remote Control與閒時任務四大功能正式上線。作為百萬使用者里程碑的特別回饋，GLM Coding Plan全體使用者額度已於今天13:00統一重置，屆時全員額度全部回滿。"
+    },
+    {
+      "id": "mkt:019fef64-1f37-7aab-8fe8-d3a5769f961c",
+      "time": "2026-08-11 13:55:43",
+      "tags": [
+        "MKT News",
+        "02513.HK"
+      ],
+      "text": "【Zhipu (02513.HK) upgrades ZCode; resets GLM Coding Plan quotas for all users to full at 13:00】Zhipu (02513.HK) said on Aug. 11 it rolled out a major upgrade to its ZCode platform, launching four features: Goal, Subagents, Remote Control and idle-time tasks. As a one‑million‑user milestone reward, the company said GLM Coding Plan quotas for all users were uniformly reset to full at 13:00 today."
+    },
+    {
+      "id": "mkt:019fef63-3e4a-7aab-8fe8-c9f997e01c50",
+      "time": "2026-08-11 13:54:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coke main contract up >2.0% intraday, trading at 1,910 yuan/ton."
+    },
+    {
+      "id": "mkt:019fef62-d3ae-7aab-8fe8-c44bcfa00f8c",
+      "time": "2026-08-11 13:54:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA Governor BULLOCK said the bank may need to raise rates again."
+    },
+    {
+      "id": "5035126",
+      "time": "2026-08-11 13:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：我們很可能需要再次提高利率。"
+    },
+    {
+      "id": "5035125",
+      "time": "2026-08-11 13:54:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：近期資本流動措施對印度經濟有利。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837767795",
+      "time": "2026-08-11 13:53:51",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳洲聯儲主席布洛克：若無物價上漲支撐 經濟難以提速增長】澳洲聯儲主席布洛克表示，若無物價上漲支撐，經濟難以提速增長；戰爭持續越久，企業越容易將漲價常態化、固化進定價體系；目前依舊認為現金利率水平略微偏緊。"
+    },
     {
       "id": "5035124",
       "time": "2026-08-11 13:53:32",

@@ -1,7 +1,92 @@
 {
-  "updated": "2026-08-11 13:54:29",
-  "count": 15892,
+  "updated": "2026-08-11 13:58:22",
+  "count": 15895,
   "items": [
+    {
+      "id": "mkt:019fef65-913c-7aab-8fe8-e62c528c37ab",
+      "time": "2026-08-11 13:57:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【July inf emerges as key variable for Fed policy; analysts split on further hikes】Last week's mixed July jobs report raised the market importance of July inf, analysts say. LPL Financial chief economist Jeffrey Roach said the Fed's rate path will depend on how long inf stays elevated; with the labor market cooling, inf could become the swing factor. A less certain inf outlook could support one hike this year but makes multiple hikes unlikely. Vanguard analyst Hicklin said July payrolls plus expected inf improvement bolster the case for the Fed to leave rates unchanged through year-end. Recent data have shifted Fed focus toward balancing labor-market signals and inf, increasing confidence policymakers will hold rates this year."
+    },
+    {
+      "id": "mkt:019fef65-05f0-7aab-8fe8-dca256d01df8",
+      "time": "2026-08-11 13:56:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the weak housing market does not pose a material risk to financial stability."
+    },
+    {
+      "id": "5035127",
+      "time": "2026-08-11 13:55:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜：ZCode全面升級 GLM Coding Plan全體使用者額度已於今天13:00統一重置】智譜8月11日宣佈，今天，ZCode迎來重大升級，Goal、Subagents、Remote Control與閒時任務四大功能正式上線。作為百萬使用者里程碑的特別回饋，GLM Coding Plan全體使用者額度已於今天13:00統一重置，屆時全員額度全部回滿。"
+    },
+    {
+      "id": "mkt:019fef64-1f37-7aab-8fe8-d3a5769f961c",
+      "time": "2026-08-11 13:55:43",
+      "tags": [
+        "MKT News",
+        "02513.HK"
+      ],
+      "text": "【Zhipu (02513.HK) upgrades ZCode; resets GLM Coding Plan quotas for all users to full at 13:00】Zhipu (02513.HK) said on Aug. 11 it rolled out a major upgrade to its ZCode platform, launching four features: Goal, Subagents, Remote Control and idle-time tasks. As a one‑million‑user milestone reward, the company said GLM Coding Plan quotas for all users were uniformly reset to full at 13:00 today."
+    },
+    {
+      "id": "mkt:019fef63-3e4a-7aab-8fe8-c9f997e01c50",
+      "time": "2026-08-11 13:54:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Coke main contract up >2.0% intraday, trading at 1,910 yuan/ton."
+    },
+    {
+      "id": "mkt:019fef62-d3ae-7aab-8fe8-c44bcfa00f8c",
+      "time": "2026-08-11 13:54:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RESERVE BANK OF AUSTRALIA Governor BULLOCK said the bank may need to raise rates again."
+    },
+    {
+      "id": "5035126",
+      "time": "2026-08-11 13:54:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：我們很可能需要再次提高利率。"
+    },
+    {
+      "id": "5035125",
+      "time": "2026-08-11 13:54:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：近期資本流動措施對印度經濟有利。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837767795",
+      "time": "2026-08-11 13:53:51",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳洲聯儲主席布洛克：若無物價上漲支撐 經濟難以提速增長】澳洲聯儲主席布洛克表示，若無物價上漲支撐，經濟難以提速增長；戰爭持續越久，企業越容易將漲價常態化、固化進定價體系；目前依舊認為現金利率水平略微偏緊。"
+    },
     {
       "id": "5035124",
       "time": "2026-08-11 13:53:32",
@@ -144654,55 +144739,6 @@
         "國際"
       ],
       "text": "【巴基斯坦外長邀請伊朗外長儘早訪巴】巴基斯坦外交部3日發表宣告說，巴基斯坦副總理兼外交部長達爾當天與伊朗外交部長阿拉格齊通電話，達爾邀請阿拉格齊在方便時儘早訪問巴基斯坦。宣告說，雙方就地區和國際局勢交換了意見。"
-    },
-    {
-      "id": "5023742",
-      "time": "2026-08-04 13:58:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，Shein擬八月份在香港進行首次公開募股，目標估值為300億至400億美元，"
-    },
-    {
-      "id": "5023741",
-      "time": "2026-08-04 13:57:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄太平洋艦隊啟動大規模演習 約60艘艦船參演】8月4日，俄羅斯國防部通報，俄太平洋艦隊當天起在日本海、鄂霍次克海及西北太平洋水域啟動大規模軍事演習，大量艦艇、飛機及萬餘兵力參演。通報稱，此次演習旨在檢驗艦隊指揮員在責任區內指揮兵力叢集及解決非常規作戰任務的能力，並將演練高精度武器和新型武器裝備的綜合運用。參演力量包括約60艘水面艦艇、潛艇及保障船隻，約30架飛機、直升機及無人系統，以及超過1.3萬名軍人。通報表示，太平洋艦隊兵力已向指定海域機動，掃雷艦艇編隊、搜尋突擊編隊、導彈快艇突擊編隊及以“瓦良格”號近衛導彈巡洋艦為首的艦艇突擊編隊已開始執行任務。岸防部隊“稜堡”和“舞會”岸基導彈系統班組已向陣地地域行軍，佔領發射陣位。俄國防部表示，此次演習將與其他強力部門和聯邦執行權力機構協同進行。"
-    },
-    {
-      "id": "5023740",
-      "time": "2026-08-04 13:56:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田汽車：將透過股票回購提高資本效率。"
-    },
-    {
-      "id": "5023739",
-      "time": "2026-08-04 13:56:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱烏克蘭道歉後取消報復計劃 原計劃打擊烏三處目標】據今日俄羅斯電視臺（RT）、伊朗法爾斯通訊社等多家媒體3日報道，伊朗最高領袖軍事顧問、伊斯蘭革命衛隊前總司令穆赫辛·雷扎伊表示，伊朗原本準備對烏克蘭境內三處目標實施報復打擊，但在烏方“道歉”後，伊朗取消了這一計劃。報道提到，伊朗外交部在7月25日表示，烏克蘭無人機襲擊裡海水域的一艘伊朗船隻，造成一名水手死亡。烏克蘭方面稱，該船運送軍事裝備前往俄羅斯。伊朗方面則指出，該船運輸的是民用貨物，並譴責襲擊是“侵略行為”。俄方確認，遭襲船隻為民用貨船“安娜”號。當地時間8月3日，雷扎伊在伊朗電視節目中說，伊朗“原計劃對烏克蘭境內三處目標實施打擊，但在烏克蘭道歉後取消了”。雷扎伊表示，烏方在事後主動聯絡稱“那是一個錯誤，我們犯了錯誤”，伊朗已決定對此說法展開調查，“即便真是誤擊，也必將承擔後果”。在收到解釋後，伊朗方面沒有再繼續推進報復計劃。 (環球時報)"
-    },
-    {
-      "id": "5023738",
-      "time": "2026-08-04 13:55:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念板塊持續走強，滬電股份漲停】PCB概念板塊持續走強，滬電股份、興森科技、東材科技、華正新材等20餘股漲停。"
-    },
-    {
-      "id": "5023737",
-      "time": "2026-08-04 13:55:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特阿美：第二季度下游供應可靠性維持在98.4%。"
     }
   ]
 }
