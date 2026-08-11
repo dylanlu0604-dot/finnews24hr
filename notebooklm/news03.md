@@ -1,7 +1,259 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-12 02:29:23_
-_本檔包含 3121 則快訊，約 596813 字_
+_更新時間：2026-08-12 03:43:01_
+_本檔包含 3132 則快訊，約 597290 字_
+
+---
+
+### 2026-08-09 10:29:22  #國際
+
+【巴黎奧運會後 塞納河再迎賽事】當地時間7日至8日，第38屆歐洲游泳錦標賽高臺跳水比賽在法國巴黎塞納河上舉行。這是繼2024年巴黎夏季奧運會後，塞納河再度成為體育賽事場地，並且是塞納河首次舉辦高臺跳水比賽。（央視新聞）
+
+---
+
+### 2026-08-09 10:28:05  #市場 #觀點
+
+【中金：看好阿里巴巴-W雲板塊收入加速以及利潤率提升趨勢】中金髮布研究報告稱，阿里巴巴-W（09988）於8月3日正式釋出新一代旗艦模型Qwen3.8-Max，並同日開啟企業級代理產品千問辦公公測。此前一週，海外超大規模雲廠商因二季度業績上漲引領積極集體重估雲板塊的定價邏輯出現明顯切換。 該行指，阿里雲在國內是唯一同時具備規模效應、自研晶片與一線自研模型的雲廠商，中短期業績有望超出市場預期。作為國內最大的雲廠商，阿里雲在力算上已經形成了規模效應，同時作為國內唯一的全棧AI，擁有平頭哥自研晶片與位居第一梯隊的Qwen模型。基於晶片、推理平臺和模型的聯合最佳化，有效提升模型推理效率。該行看好阿里雲營收加速與利潤率提升的趨勢時序。
+
+---
+
+### 2026-08-09 10:26:57  #公司 #觀點
+
+【大摩：聯想集團維持“增持”評級 目標價升至34港元】摩根士丹利釋出研報稱，聯想集團（00992）將於下週公佈截至今年6月底止2027財年首季度業績，預測受基礎設施方案業務收入及利潤率上升帶動，經調整純利將達到約7.88億美元，同比增長102%，按季增長41%，較市場預期高約12%。該行對聯想2027至2029財年經調整純利的預測較市場預期高14%、20%及25%，目標價由30港元上調至34港元，維持“增持”評級。
+
+---
+
+### 2026-08-09 10:22:09  #公司 #資料
+
+【權益投資信心邊際修復 險資下半年配置展望來了】近日，中國銀行保險資產管理業協會公佈了2026年第2期銀行保險資產管理業資產配置展望調查結果，為外界瞭解銀行理財和保險資金下半年配置策略提供了參考。 調查結果顯示，大類資產配置方面，股票、證券投資基金和債券是保險機構普遍看好的境內投資資產，其中人身險公司對股票和證券投資基金的偏好明顯強於財產險公司，權益類資產配置意願更高。銀行理財最看好固收+類資產，其次是債券和股票。 同時，2026年第三季度銀行保險資產管理行業投資信心指數為56.66，較二季度有所回升，顯示行業對權益市場的信心邊際修復。權益投資的風險偏好與配置意願同步回升，結構性機會共識增強。（券商中國）
+
+---
+
+### 2026-08-09 10:21:10  #公司 #國際
+
+【部分社交媒體因休達危機被歐盟委員會約談】歐盟委員會負責技術主權等事務的執行副主席漢娜·維爾庫寧8月7日在社交媒體上表示，歐盟委員會當天就西班牙飛地休達局勢約談短影片平臺TikTok和美國元公司（Meta），要求平臺在危機期間加強內容監測並採取果斷措施。（新華社）
+
+---
+
+### 2026-08-09 10:20:32  #公司 #國際
+
+【三星得州工廠即將投產，首批實習生招聘正式啟動】三星電子即將為其位於得克薩斯州的先進晶圓代工廠開啟首屆實習生招募，該工廠計劃於今年年底正式投產。訊息顯示，三星電子近期啟動美國泰勒工廠明年夏季的實習生招聘。三星每年都會在全球主要基地開展實習專案，泰勒工廠首次被納入明年實習計劃。實習週期為 11 周，實習生可跟隨在職工程師，參與產品、工藝、技術相關實操專案。
+
+---
+
+### 2026-08-09 10:17:34  #國際
+
+伊朗議會國家安全與外交政策委員會主席：這份週五簽署的防務協議表明，該地區阿拉伯國家已經認識到，安全只能依靠地區合作來實現。 簽約各方尚未找到搭建持久地區安全框架的正確路徑。
+
+---
+
+### 2026-08-09 10:15:37  #國際
+
+【長崎核爆81週年 日本民眾將舉行活動反對政府涉核動向】2026年8月9日是日本長崎市遭原子彈爆炸襲擊81週年的日子。日本民眾將舉行集會和相關紀念活動，抗議高市早苗政府的涉核危險動向，呼籲堅守和平主義理念。（央視新聞）
+
+---
+
+### 2026-08-09 10:15:01  #國際
+
+【中央氣象臺8月9日10時繼續釋出暴雨橙色預警】預計，8月9日14時至10日14時，浙江、上海、福建北部、江西東北部、安徽中南部、江蘇中南部和東部、雲南南部和中部及海南島、臺灣島等地有大到暴雨，其中浙江大部、上海、福建北部、江西東北部、安徽南部、江蘇南部等地有大暴雨，浙江中東部部分地區有特大暴雨(250-500毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風等強對流天氣。
+
+---
+
+### 2026-08-09 10:12:56  #國際
+
+美國眾議員托馬斯・馬西周六表示，在中東挑起戰爭將會成為特朗普政府 “代價最高、後果最嚴重的重大失誤”，並批評其一系列政策存在疏漏。
+
+---
+
+### 2026-08-09 10:11:33  #其他
+
+上海市水文總站2026年08月09日10時00分發布黃浦江高潮位藍色預警訊號：受第13號颱風“白海豚”影響，預計9日22時45分、10日23時35分黃浦江蘇州河口最高潮位達到4.60米左右，上海市水文總站於2026年8月9日10時釋出黃浦江高潮位藍色預警訊號。市防汛指揮部要求各級防汛機構、沿江沿河各單位檢查落實防範措施。
+
+---
+
+### 2026-08-09 10:10:04  #其他
+
+自然資源部與中國氣象局8月9日08時聯合釋出橙色地質災害氣象風險預警：預計，8月9日08時至10日08時，浙江大部、安徽東南部、雲南西南部發生地質災害的氣象風險較高（黃色預警）；其中，浙江東部發生地質災害的氣象風險高（橙色預警）。
+
+---
+
+### 2026-08-09 10:08:26  #其他
+
+【普睿數智丁祖昱：樓市“底部確認中”，多項核心資料回升】“一系列重要資料正在說明，中國房地產處於‘底部確認進行時’。”近日，普睿數智董事長、上海易居房地產研究院院長丁祖昱在對上半年樓市資料進行分析時表示，今年上半年房地產市場並未出現重磅調控政策，但市場成交端已經出現積極變化，普睿數智研究資料顯示，今年上半年，全國重點20個城市購房總需求穩中有升，一二手房成交總面積同比增長4%，創下近三年同期新高。其中，二手房市場表現更為突出，上半年成交面積同比增長13%，環比增長22%，成交規模創近四年同期新高。與此同時，新房市場也出現企穩跡象。全國重點50城上半年新房成交環比微增1%，同比跌幅收窄至11%；二季度新房成交規模較一季度環比增長41%。“從成交資料來看，今年上半年房地產市場出現了比較明顯的修復。”丁祖昱認為，過去幾年市場調整主要集中在需求端和信心端，而隨著政策環境持續最佳化、核心城市限制性政策逐步調整，市場正在逐漸尋找新的平衡點。（第一財經）
+
+---
+
+### 2026-08-09 10:06:41  #其他
+
+蔚來：截至今日，蔚來全國建成9,183座充換電站，其中換電站4,011座，充電站5,172座、充電樁29,853根，累計提供超1.2億次換電，持續建設，讓加電比加油更方便！
+
+---
+
+### 2026-08-09 10:04:18  #市場
+
+【最近一週電子、通訊兩大板塊主力資金合計淨流入近600億元】最近一週（8月3日—8月7日），A股市場震盪反彈，三大指數週線均實現上漲，科技成長板塊表現尤為強勢。資金面上，當週滬深兩市主力資金合計淨流入664.04億元。電子、通訊、有色金屬板塊獲主力資金大幅淨買入，電子、通訊兩大板塊主力資金合計淨流入近600億元；傳媒、計算機板塊遭主力資金淨流出。分析人士認為，當前市場資金情緒明顯修復，科技板塊在經歷前期調整後，估值壓力有所釋放，吸引資金再度大幅迴流。CPO、PCB等AI算力相關細分方向成為資金重點佈局的物件。（中國證券報）
+
+---
+
+### 2026-08-09 10:02:35  #市場
+
+世界最大鐵礦石出口樞紐於當地凌晨 5 點 30 分約有 100 名工人停工，參與罷工總人數達到約 150 人。
+
+---
+
+### 2026-08-09 10:02:16  #市場
+
+工會發言人表示，週日更多工人加入必和必拓西黑德蘭港作業區的罷工。這是這座鐵礦石出口樞紐 25 年來首次大規模勞資行動。
+
+---
+
+### 2026-08-09 10:01:41  #其他
+
+【2026年四川核醫療產值預計超百億 加速構建產業全鏈條版圖】今年上半年，四川省地區生產總值突破33629億元，規模以上工業戰略性新興產業企業增加值增長7.6%，在新興產業的成績單上，核醫療增量突出，預計2026年產值將超100億元。在夾江核技術應用產業園的一家“鏈主”企業，記者瞭解到，這裡的生產線近期正在製備醫用同位素鎦‑177，幾天內就將發運到全國6家生物製藥企業。（央視新聞）
+
+---
+
+### 2026-08-09 10:00:26  #其他
+
+【上海更新中心城區暴雨黃色預警訊號為暴雨橙色預警訊號】上海市氣象臺2026年08月09日09時52分更新中心城區暴雨黃色預警訊號為暴雨橙色預警訊號：預計未來6小時內，中心城區大部6小時累積降水量將達150毫米以上，暴雨黃色預警訊號更新為暴雨橙色預警訊號，強降雨可能引發城市積澇、交通擁堵等情況，請特別加強防範極端強降雨。
+
+---
+
+### 2026-08-09 09:58:26  #其他
+
+【多家機場航班全取消】截至8月9日9時，據飛常準颱風路徑與機場影響預報圖顯示，預計8月9日-11日受颱風“白海豚”影響機場38座。8月9日寧波櫟社機場、台州路橋機場、麗水機場航班已全部取消。溫州龍灣機場和舟山普陀山機場航班近乎全部取消，上海浦東機場和上海虹橋機場近八成航班被取消。杭州機場稱取消9日進出港航班270架次，主要集中在12:00以後時段。預計今日下午開始，颱風外圍天氣逐步影響機場執行。（第一財經）
+
+---
+
+### 2026-08-09 09:58:05  #其他
+
+【江西啟動防汛四級應急響應】鑑於當前防汛形勢，根據《江西省防汛抗旱應急預案》規定，經研究，江西省防汛抗旱指揮部決定自8月9日9時起啟動防汛四級應急響應。
+
+---
+
+### 2026-08-09 09:57:12  #MKT News
+
+【Hunter Biden says former president Biden's prostate cancer worsening, has metastasized】Hunter Biden said in a media interview on the 8th that former US president Biden's prostate cancer has worsened, with cancer cells having spread to bone and other parts of his body, causing severe pain and materially affecting his daily life.
+
+---
+
+### 2026-08-09 09:56:20  #其他
+
+【秘魯南部發生交通事故 致至少13人死亡】據秘魯方面8日訊息，該國南部庫斯科省當天發生一起汽車相撞事故，造成至少13人死亡。（央視新聞）
+
+---
+
+### 2026-08-09 09:55:48  #其他
+
+【上海升級暴雨預警為黃色】上海市氣象臺8月9日9時30分發布中心城區暴雨黃色預警：受颱風影響，預計今天和明天，中心城區大部1小時雨強將達60毫米以上，6小時累計降水量將達100毫米以上，暴雨藍色預警訊號更新為暴雨黃色預警訊號，提醒市民加強防範極端強降雨可能引發的城市積澇。
+
+---
+
+### 2026-08-09 09:55:10  #國際
+
+【日本前首相細川護熙批評高市早苗對華政策】據日本共同社等媒體8日報道，日本前首相細川護熙為近期將發行的月刊雜誌《文藝春秋》9月刊撰文，對現任日本首相高市早苗的對華政策等提出批評。報道提到，對於因高市早苗涉臺錯誤言論而惡化的日中關係，細川護熙表示，“為了打破僵局什麼都不做，難免會被批評不負責任”。他認為，嚴重降溫的日中關係正給國民帶來巨大損失。細川護熙補充稱，“在處理對美中兩國的距離感和如何保持平衡方面，看不出她有什麼戰略”。（環球網）
+
+---
+
+### 2026-08-09 09:53:36  #其他
+
+沙特阿美工業安保部門在事件發生後持續開展處置工作。
+
+---
+
+### 2026-08-09 09:53:03  #其他
+
+【福建省提升防颱風應急響應至二級】記者從福建省防汛抗旱指揮部瞭解到，今年第13號颱風“白海豚”今天8時中心距離浙江省溫州市偏東方向約260公里，中心附近最大風力14級。預計“白海豚”將於今天傍晚至10日凌晨在浙江舟山到福建福鼎一帶沿海登陸。福建省防指於9日9時提升防颱風應急響應至二級。各地各部門需密切關注颱風“白海豚”動態與風、雨、浪的影響，及時調整響應，周密部署防範措施，組織轉移避險，做好應對工作。（央視新聞）
+
+---
+
+### 2026-08-09 09:48:42  #Trading Economics #Economy #China #Producer Prices Change #Importance 2
+
+China Producer Prices Rise Less than Expected — China’s producer prices rose 3.5% year-on-year in July 2026, slowing from a 4.1% increase in the previous month, which marked the steepest rise in nearly four years. The latest reading also marked the fifth straight month of decline, coming below market forecasts of 3.8%, amid weaker commodity prices, softer domestic demand, and continued pressure from overcapacity and intense price competition across some industries.
+
+---
+
+### 2026-08-09 09:45:16  #MKT News #Commodities #Energy
+
+Saudi Energy Ministry said a fire at an Aramco facility in Jazan, Saudi Arabia, has been extinguished.
+
+---
+
+### 2026-08-09 09:43:50  #其他
+
+【四川省地震局回應：宜賓高縣5.5級地震後，餘震為什麼持續不斷？】2026年6月29日，宜賓市高縣發生5.5級地震，此後餘震持續活動。截至今日（2026年8月8日），高縣5.5級地震序列共記錄到4級以上地震8次，其中包括7月8日發生的兩次5.0級，7月9日發生的4.9級，8月3日發生的4.8級以及8月7日發生的4.9級等較強有感餘震。記者從四川省地震局瞭解到，這種震級起伏、短期內連續發生的地震序列，屬於典型的震群型地震序列。（央視新聞）
+
+---
+
+### 2026-08-09 09:42:38  #公司 #國際
+
+【美國多家企業AI模型測試中“越界”引擔憂】美國開放人工智慧研究中心（OpenAI）釋出宣告稱，最新內部評估結果顯示，即將推出的人工智慧模型“阿斯特拉”在“網路安全活動”方面可能達到有嚴重風險的級別。該公司決定採取包括暫停涉及該模型的部分活動等安全保障措施。近期，美國多家企業陸續承認旗下人工智慧模型在測試中“越界”，引發全球業界廣泛關注。分析認為，此事除了技術失誤等因素外，也存在商業炒作嫌疑。同時，AI風險日益凸顯，全球需要加強安全監管。（央視新聞）
+
+---
+
+### 2026-08-09 09:42:20  #Trading Economics #Economy #China #Food Inflation #Importance 1
+
+China Food Prices Fall for Fourth Straight Month — China's food prices dropped 1.5% year-on-year in July 2026, following a 1.6% decline in the previous month and marking the fourth straight month of fall.
+
+---
+
+### 2026-08-09 09:42:00  #MKT News #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Impact bullish #Hang Seng Index
+
+【NBS: July PPI YoY increase eased】NBS urban statistics chief Dong Lijuan said July PPI rose 3.5% YoY, the YoY gain narrowing 0.6 ppts from June. By industry, major upward contributors included oil and gas extraction (+3.2%), petroleum/coal and other fuel processing (+8.2%), chemical raw materials and chemical products manufacturing (+9.1%), non-ferrous metal ore mining and dressing (+22.6%), non-ferrous metal smelting and rolling (+20.2%) and ferrous metal smelting and rolling (+2.7%) — these six industries together added ~2.55 ppts to PPI YoY. Coal mining and washing (+27.1%), electrical machinery and equipment manufacturing (+5.7%) and computer, communications and other electronic equipment manufacturing (+4.4%) together added ~1.53 ppts. The combined upward pull from these nine industries fell by 0.56 ppts versus June. The largest downward drags were electricity and heat production and supply, automobile manufacturing, non-metallic mineral products, pharmaceutical manufacturing and beverages/refined tea (declines 2.3%–5.7%), which together subtracted ~0.76 ppts from PPI YoY, a 0.05 ppt smaller drag than in June.
+
+---
+
+### 2026-08-09 09:41:39  #MKT News #Market Regions #Greater China #CNH #Impact bearish #Copper #Hang Seng Index
+
+【NBS: July PPI down 0.7% MoM】China's producer price index fell 0.7% MoM in July, a 0.4 percentage-point larger decline than June, NBS urban statistics chief Dong Lijuan said. Input-driven falls were the main drag: oil extraction -11.8%, refined petroleum products manufacturing -8.4%, organic chemical raw materials manufacturing -4.2%; non‑ferrous ore mining -2.1% and non‑ferrous metal smelting & rolling -1.7%; those five sectors reduced MoM PPI by about 0.65ppt. Seasonal/weather effects also weighed: construction slowdowns cut prices in ferrous metal smelting & rolling (-0.8%) and non‑metallic mineral products (-0.5%); higher hydropower and wind output pushed hydropower -10.3% and wind power -3.9%; those four sectors lowered MoM PPI by roughly 0.11ppt. Offsetting price gains were seen in new-economy and quality-consumption sectors: smart UAV manufacturing +2.5%, new carbon materials +0.4%, shipbuilding & related equipment manufacturing +0.3%; smart home devices +3.4% and skincare cosmetics manufacturing +0.7%.
+
+---
+
+### 2026-08-09 09:40:28  #市場
+
+【相距僅數米 澳大利亞悉尼機場兩架客機險相撞】當地時間8月9日早晨，澳大利亞悉尼機場發生一起地面險情：一架準備飛往黃金海岸的捷星航空客機，在滑行過程中與一架正在牽引移動的卡達航空客機險些發生碰撞，兩機一度相距僅數米。捷星客機飛行員發現情況後緊急制動，一名正在進行起飛前檢查的乘務員摔倒受傷，機上100多名乘客無人受傷。涉事卡達航空客機並未搭載乘客。據悉，連日來，由於機場塔臺人員不足，悉尼機場實施空中交通管制措施，大量進出港航班延誤。（央視新聞）
+
+---
+
+### 2026-08-09 09:40:22  #MKT News #Market Regions #Greater China #XAUUSD #Impact bullish #CNH
+
+【NBS: China July CPI +0.5% YoY; gold jewelry +24.6%】National Bureau of Statistics urban division chief statistician Dong Lijuan said China’s CPI rose 0.5% YoY in July, a 0.5ppt slowdown from June. The moderation was mainly driven by weaker gasoline inflation: gasoline prices rose 1.0% YoY, with the rate down 16.0ppt month-on-month, cutting CPI’s upward pull by about 0.45ppt and bringing energy price growth to 0.6%. Excluding energy, industrial consumer goods rose 1.5% YoY, down 0.2ppt and contributing roughly 0.37ppt to CPI. Gold jewelry prices increased 24.6%; personal-care goods +1.7%; household appliances +0.2%; these decelerations together added about 0.13ppt. Computers, tablets and mobile phones rose 17.4%, 17.2% and 8.5% YoY, respectively.
+
+---
+
+### 2026-08-09 09:39:33  #其他
+
+【馬斯克釋出Terafab 渲染影片】馬斯克在 X 平臺釋出特斯拉 Terafab 新影片，影片中 Optimus 人形機器人和 Robovan 無人車首次同框亮相。Robovan 可載客 20 人或運貨，Optimus 量產線已在改造中，目標 2027 年夏季大規模量產。
+
+---
+
+### 2026-08-09 09:39:23  #Trading Economics #Economy #China #Inflation Rate #Importance 3
+
+China Inflation Rate Hits 6-Month Low — China’s annual inflation rate eased to 0.5% in July 2026 from 1.0% in the previous month, falling short of market expectations of 0.8%. It was the lowest reading since January, as food prices continued to decline while non-food inflation slowed. On a monthly basis, consumer prices fell 0.1%, defying expectations for a 0.2% increase and following a 0.3% decline in June.
+
+---
+
+### 2026-08-09 09:38:38  #MKT News
+
+【China July CPI MoM decline narrows to -0.1% - NBS】NBS urban statistics chief statistician Dong Lijuan said July national CPI fell 0.1% MoM, a narrowing of 0.2 percentage points from June. International price swings drove domestic gasoline down 10.7% MoM — a 5.8ppt larger decline than in June — subtracting about 0.35ppt from July MoM CPI. AI-led product upgrades raised consumer electronics prices: tablets +11.3%, computers +5.5%, mobile phones +1.0%, together adding roughly 0.03ppt to MoM CPI. Summer travel demand lifted service prices — travel agencies +7.2%, hotels +6.5%, airfares +4.2%, vehicle rental +3.6% — contributing about 0.10ppt to MoM CPI.
+
+---
+
+### 2026-08-09 09:36:38  #其他
+
+沙特能源部：消防員已撲滅吉贊地區阿美煉油廠一處設施的火情，目前無人員傷亡報告。
+
+---
+
+### 2026-08-09 09:36:00  #MKT News #Market Regions #Greater China #CNH #Impact mixed #CSI300 #SSE Composite
+
+【NBS: Core CPI up 0.3% MoM, 0.9% YoY in July】NBS chief statistician Dong Lijuan said July headline CPI fell 0.1% MoM and rose 0.5% YoY; core CPI (ex-food and energy) rose 0.3% MoM and 0.9% YoY. Some domestic-sector demand increased, but imported and seasonal factors weighed on producer prices: PPI fell 0.7% MoM and rose 3.5% YoY, with the YoY gain 0.6ppt lower than June.
+
+---
+
+### 2026-08-09 09:34:55  #MKT News #Macro & Rates #CNH #Impact mixed
+
+【National Bureau of Statistics: July month-on-month price changes for goods and services】In July, food, tobacco & alcohol and catering away from home prices were flat month-on-month. Within food, meat prices rose 1.9% MoM, adding about 0.07 percentage point to CPI; pork rose 4.1%. Fresh vegetables rose 1.3% MoM, adding ~0.02 ppt to CPI; fresh fruit fell 3.8% MoM, subtracting ~0.07 ppt; eggs fell 1.7% MoM, subtracting ~0.01 ppt. Of the seven other major categories, education, culture & recreation, medical & healthcare, and household goods & services rose 1.0%, 0.8% and 0.4% MoM respectively; housing and other goods & services were unchanged; transport & communication fell 2.2% and clothing fell 0.4% MoM.
 
 ---
 
@@ -18633,191 +18885,5 @@ Copper Scales Record Levels on Supply Risks — Copper futures climbed above $6.
 ### 2026-08-07 12:00:47  #其他
 
 【半月內兩起兒童基因編輯試驗死亡事件曝光，業內警示：追求“全球首創”不能忽視臨床安全與合規要求】 繼7月下旬一名6歲女童在接受“全球首例腦部基因編輯”治療後死亡的事件被曝光後，8月5日，一家總部位於上海的基因療法企業輝大基因披露情況說明稱，2025年8月，在一項針對杜氏肌營養不良症（DMD）的首次人體臨床試驗中，一名高劑量組受試者在接受HG302給藥後不幸離世，該受試者的死亡原因為“在接受高劑量腺相關病毒（AAV）載體全身給藥後，在補體與細胞因子嚴重啟用的背景下發生急性呼吸窘迫綜合徵（ARDS）”。短短半個月內，兩起發生在2025年的兒童死亡事件相繼公之於眾，均指向了在研究者發起的臨床試驗（IIT）中，為追求“全球首創”而可能存在的冒進風險。多位業內專家表示，這兩起不幸事件暴露出國內部分IIT試驗存在推進過快、風險認識不足、合規性不足等問題。（每日經濟新聞）
-
----
-
-### 2026-08-07 12:00:31  #央行 #國際
-
-【機構：協同外匯干預支撐看漲日元的觀點】日本和美國近期協同進行的外匯干預支援了美銀全球研究對日元的看漲觀點。這些策略師在一份報告中表示：“這種罕見的協同干預的訊號效應是顯著的。“他們表示：“日本和美國政府的首要長期目標應該是恢復信譽並穩定日元。“該團隊補充道：“協同意味著日本和美國已經就共同目標和實現該目標的計劃達成了一致。“由於日本央行加快加息的可能性上升等因素，美銀將其對第三季度美元兌日元的預測從154日元下調至153日元，並將年底的預測從152日元下調至149日元。
-
----
-
-### 2026-08-07 12:00:25  #公司
-
-【中科奧格完成超2億元A3輪融資】8月7日，據聯想創投訊息，中國異種移植領域的企業成都中科奧格生物科技有限公司於2026年8月宣佈完成超2億元A3輪融資。本輪融資由中科創星領投，聯想創投、牧原集團、威高血淨、華立集團、華方資本、成都科創投跟投，老股東貝達基金、光合創投持續加註。凱乘資本擔任獨家財務顧問。本輪資金將主要用於異種移植產品的臨床試驗申報與推進、DPF級醫用供體豬產能擴建、產業基地建設及新一代多基因編輯供體豬開發。
-
----
-
-### 2026-08-07 12:00:09  #公司
-
-【金河生物：向特定物件發行股票獲證監會同意註冊批覆】金河生物公告，公司於近日收到中國證監會出具的《關於同意金河生物科技股份有限公司向特定物件發行股票註冊的批覆》，同意公司向特定物件發行股票的註冊申請，公司應在批覆作出十個工作日內完成發行繳款。
-
----
-
-### 2026-08-07 12:00:07  #公司
-
-【東方鋯業：向特定物件發行股票申請獲深交所受理】東方鋯業公告，公司於近日收到深圳證券交易所出具的《關於受理廣東東方鋯業科技股份有限公司向特定物件發行股票申請檔案的通知》，深交所對公司報送的申請檔案進行了核對，認為申請檔案齊備，決定予以受理。本次發行尚需透過深交所稽核及獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。
-
----
-
-### 2026-08-07 11:59:27  #公司
-
-【午間公告：金河生物向特定物件發行股票申請獲證監會同意註冊批覆】①金河生物：2025年度以簡易程式向特定物件發行股票申請獲證監會同意註冊批覆。②東方鋯業：向特定物件發行股票申請獲深交所受理。
-
----
-
-### 2026-08-07 11:58:21  #其他
-
-【里昂：微升太古A目標價至114港元，維持“跑贏大市”評級】里昂發表研報指，太古上半年經常性溢利同比增長48%，相當於該行及市場全年預測的57%及62%。期內，除國泰航空貢獻外，太古地產中國業務、港機及太古可口可樂的經營表現均顯著改善。里昂上調太古2026及27年經常性溢利預測4%及2%，分別至127億及140億港元，同時上調年度常規股息預測至每股4.2及4.4港元。該行維持太古A“跑贏大市”評級，目標價由113港元輕微上調至114港元。
-
----
-
-### 2026-08-07 11:57:29  #國際
-
-【俄羅斯無人機襲擊了烏克蘭東部的農業倉庫】當地政府在電報平臺表示，俄羅斯無人機襲擊致使烏克蘭東部哈爾科夫州巴拉克利亞社群一家農業企業的倉庫起火，當局未指明該設施名稱，並補充稱暫無人員傷亡。烏克蘭澤連斯基週四承諾向遭受俄羅斯襲擊的農民提供援助。莫斯科方面近期開始打擊黑海區域的烏克蘭農產品出口設施與商用船隻。
-
----
-
-### 2026-08-07 11:56:09  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-【Tight supply, rising demand bets push LME copper toward record close】LME copper rose 0.6% to $14,193.50/ton, surpassing the mid‑May closing high and heading for a record close. Optimism about data‑centre and grid demand is supporting prices, while supply has tightened after large shipments to the US this year amid expectations of a Trump tariff decision, drawing down LME‑tracked inventories. The spot vs three‑month spread widened above $150/ton on Thursday, the largest since October, producing a pronounced backwardation that signals short‑term buyer pressure.
-
----
-
-### 2026-08-07 11:55:37  #國際
-
-烏克蘭官員稱，俄羅斯無人機襲擊了烏克蘭東部的農業倉庫。
-
----
-
-### 2026-08-07 11:55:25  #MKT News
-
-Caitong Fuxin interval-open hybrid fund will suspend trading from the start of the afternoon session on 7 Aug 2026 until market close that day.
-
----
-
-### 2026-08-07 11:55:08  #Trading Economics #Economy #China #Government Bond 10Y #Importance 1
-
-China 10Y Yield Hovers Near 1-Year Low — China’s 10-year government bond yield held around 1.70% on Friday, hovering near its lowest level in nearly a year as strong trade data underscored the resilience of the country’s external sector. While both export and import growth eased in July, they remained robust amid strong demand for AI-related technology products. Exports rose 23.9% year-on-year to USD 397.85 billion, surpassing market expectations, while imports climbed 27.5% to USD 285.35 billion, broadly in line with forecasts. As a result, China’s trade surplus widened to USD 112.5 billion from USD 97.7 billion a year earlier, above market expectations. Beijing recently unveiled fresh retaliatory measures against Washington, including tighter controls on drone and related technology exports, sanctions on seven US firms, and its first national security investigation tied to foreign trade. The move highlights persistent trade tensions ahead of a planned September meeting between Presidents Xi Jinping and Donald Trump.
-
----
-
-### 2026-08-07 11:54:57  #MKT News #Market Themes #Chip Wars
-
-Global Chip LOF will suspend trading from the start of the afternoon session on Aug 7, 2026 through market close the same day. Redemption requests will be processed as normal during the suspension.
-
----
-
-### 2026-08-07 11:54:28  #市場
-
-【8月7日午間漲停分析】創業板指縮量上漲1.75%，醫藥、算力硬體股持續爆發。寶鼎科技、雲南鍺業、匯綠生態、沃格光電、百花醫藥均4連板，一圖看懂>>
-
----
-
-### 2026-08-07 11:53:25  #其他
-
-【大興機場臨空經濟區中歐班列服務中心正式啟用】今天（7日），大興機場臨空經濟區中歐班列服務中心正式啟用，北京與河北實現臨空經濟區與中歐班列集結中心業務貫通，打造出一條空陸多式聯運新通道。
-
----
-
-### 2026-08-07 11:53:00  #公司
-
-【深圳市投資促進局：對符合條件的在深跨國公司中國區總部、亞太區總部、事業部全球總部，一次性給予最高800萬元的能級獎勵】深圳市投資促進局釋出關於受理2026年利用外資獎勵計劃（廣東省跨國公司總部能級獎勵）的通知。支援物件：在深圳市內依法登記設立的跨國公司承擔總部管理職能的外商投資企業或其分支機構，經廣東省商務主管部門認定，符合跨國公司中國區總部、亞太區總部，以及事業部全球總部有關標準的市場主體，不含金融業、房地產業企業。支援標準：對符合條件的在深跨國公司中國區總部、亞太區總部、事業部全球總部，一次性給予最高800萬元的能級獎勵。
-
----
-
-### 2026-08-07 11:51:08  #Trading Economics #Markets #India #Currency #Importance 1
-
-Indian Rupee Falls on Higher Crude — The Indian rupee fell to around 95.25 per dollar, retreating from four-week highs as a rebound in oil prices revived concerns over India's import bill and inflation outlook. Brent crude rebounded above $83 a barrel, extending gains for a third straight session after rising about 4% on Thursday. The move followed a proposal by Iran and Oman to restrict vessels deemed hostile, stoking fears over supply disruptions. Investors also turned cautious ahead of the US July nonfarm payrolls report, with economists expecting 80,000 jobs to have been added after 57,000 in June and the unemployment rate to remain at 4.2%, as the data could influence expectations for further Federal Reserve rate hikes. Meanwhile, traders monitored the Reserve Bank of India, whose recent dollar sales had helped lift the rupee to a one-month high, though persistent underlying demand for dollars suggested the currency's near-term direction would continue to depend on the extent of RBI support.
-
----
-
-### 2026-08-07 11:50:15  #MKT News
-
-【Haichen Energy Storage's Wang Pengcheng: driving global lithium long-duration storage into large-scale delivery era】Haichen Energy Storage’s Heze plant has begun mass production, completing a full-chain rollout from materials and cells to modules, systems and delivery. The base, with total investment exceeding 13 billion yuan, targets annual output at full capacity of 30 GWh of 1,175 Ah long-duration cells and 20 GWh of systems built from 6.25 MWh units. The facility uses fifth-generation smart manufacturing lines and, the company says, has achieved an industry-first single-line capacity above 15 GWh. Haichen, which focuses on 4–8 hour applications, said its scale will push global lithium long-duration energy storage into large-scale deliveries.
-
----
-
-### 2026-08-07 11:49:58  #公司
-
-【香港2026年選舉委員會界別分組一般選舉11月22日投票】香港特區政府發言人今日（7日）表示，行政長官已根據《行政長官選舉條例》附表第16條，指明2026年11月22日為2026年選舉委員會界別分組一般選舉的投票日期，以選出新一屆選舉委員會的選任委員。相關公告已於今日的憲報刊登。 此外，選舉的提名期將於10月7日開始，至10月20日結束。總選舉事務主任會適時刊登公告指明呈交提名錶格的限期和地點，以及公佈相關細節。 特區政府會繼續與選舉管理委員會緊密合作，積極進行籌備工作，務求令到選舉得以在公開、誠實、公平、安全有序、高效和人性化的情況下順利舉行。
-
----
-
-### 2026-08-07 11:47:24  #MKT News
-
-【HK insurance industry body rebuts rumours of 20% PIT on overseas policy gains】The Hong Kong Federation of Insurers said relevant Mainland authorities have not issued any formal policy documents or implementation rules regarding reports that Mainland China will levy a 20% personal income tax on gains from overseas life insurance policies. The federation said it is monitoring developments, will not speculate, and expects continued client demand for protection, wealth transfer and asset allocation; it added Hong Kong’s insurance market remains attractive due to flexible product design, multi-currency options and wealth-transfer services.
-
----
-
-### 2026-08-07 11:46:59  #Trading Economics #Economy #Indonesia #House Price Index YoY #Importance 1
-
-Indonesia Home Price Growth Picks Up in Q2 — Residential property prices in Indonesia rose by 0.69% year-on-year in the second quarter of 2026, following a 0.62% increase in the previous quarter, which had marked the softest growth since the data series began in 2003. The modest pickup was driven by stronger gains in several cities, although trends across housing segments remained mixed. Annual price growth slowed for small houses to 0.49% (vs. 0.61% in Q1) and for medium-sized houses to 0.83% (vs. 0.88%), while large houses accelerated to 0.68% (vs. 0.50%). Among the 18 cities included in the survey, 10 reported faster annual house price growth, with the sharpest acceleration seen in Samarinda, where prices rose 3.23% after edging down 0.03% in the previous quarter. Meanwhile, Pontianak remained the weakest market, with prices falling 0.10% after a 0.27% decline in Q1, while Batam continued to record one of the strongest annual increases at 2.63%.
-
----
-
-### 2026-08-07 11:43:15  #國際
-
-【澤連斯基要導彈，特朗普最新表態：我們也想要】綜合烏克蘭《基輔獨立報》等媒體報道，對於烏克蘭總統澤連斯基呼籲向烏方提供更多導彈，美國總統特朗普當地時間8月6日作出最新表態。根據白宮社交媒體賬號釋出的影片，有記者6日提到，澤連斯基發表烏克蘭迫切需要遠端導彈或者“愛國者”導彈系統的言論。特朗普對此回應稱，“我們也想要導彈”。（環球網）
-
----
-
-### 2026-08-07 11:41:10  #行業 #焦點
-
-【專家闢謠車市半年發了五六百款新車】針對上半年上市新車超500款的行業熱議資料，中國汽車流通協會專家李顏偉今日在社交平臺上表示，2026年1-6月國內全新車型僅約165款，市面流傳500至600款的說法並不嚴謹。 李顏偉解釋，500多款是車型+各類配置、衍生款的合併統計。“比如新上市一款車型，有三個配置，這可以算作是1款車型，3個款型；如果上半年這165款車型，加上不同配置，或許能有500~600個款型；但是說成500-600款車型就不嚴謹了。” 此前多家媒體採用寬口徑統計，稱1-5月新車550款、上半年超600款，引發行業內卷討論。（一財）
-
----
-
-### 2026-08-07 11:40:22  #公司
-
-【瑞銀：上調太古目標價至95港元，維持“中性”評級】瑞銀髮表研報指，太古上半年經常性基本溢利70億港元，同比增長48%，較該行預測高出9%，中期息同比增長15%至每股1.5港元，派息比率29%。該行上調太古2026至28年各年盈測介乎11%至13%，維持“中性”評級，目標價由87港元上調9%至95港元。該行表示，太古的淨負債及淨負債比率均較半年前有所改善，主要是由於航空及飲料業務的強勁現金流，相信這亦是公司承諾維持50%派息比率的原因。
-
----
-
-### 2026-08-07 11:39:39  #公司
-
-【隆華科技等成立晶瓷電子材料公司】企查查APP顯示，近日，廣西晶瓷電子材料有限公司成立，法定代表人為趙光政，註冊資本為1000萬元，經營範圍包含電子專用材料研發；電子專用材料製造；新型陶瓷材料銷售；特種陶瓷製品製造；新材料技術研發等。企查查股權穿透顯示，該公司由隆華科技(300263)旗下豐聯科光電（洛陽）股份有限公司等共同持股。
-
----
-
-### 2026-08-07 11:39:27  #國際
-
-泰國警方：校園槍擊事件已造成人員死亡。
-
----
-
-### 2026-08-07 11:39:01  #其他
-
-【香港保險業聯會回應 “內地對境外保單收益徵收20%個人所得稅”傳聞 ：有關部門尚未釋出正式政策檔案，港險市場仍具競爭力】針對近日市場熱議的“內地對境外保單收益徵收20%個人所得稅”傳聞，香港保險業聯會（HKFI）今日作出回應。保聯表示，截至目前為止，有關部門尚未釋出正式政策檔案或執行細則，保聯正持續瞭解及密切關注相關發展。因此，對有關討論及傳聞，保聯暫不作揣測或評論。保聯在回應中強調，預期客戶對保障、財富傳承及資產配置的需求仍然殷切。香港作為國際金融中心，保險產品具備產品設計靈活、多元貨幣配置、財富傳承規劃及服務專業到位等優勢。保聯認為，對有相關需求的客戶而言，香港保險市場整體仍具吸引力及競爭力。（第一財經）
-
----
-
-### 2026-08-07 11:37:04  #Trading Economics #Markets #Philippines #Currency #Importance 1
-
-Philippine Peso Falls Back Toward 61 Mark — The Philippine peso weakened back toward the 61-per-dollar mark in early August after briefly touching a six-week high earlier this week, as markets reassessed the country’s economic outlook amid slowing growth and persistent inflation pressures. Philippine GDP expanded 2.3% year-on-year in Q2, the slowest pace since Q4 2009 excluding the COVID-19 period, as the economy faced an energy shock stemming from the Iran war and the fallout from a major corruption scandal. The weaker-than-expected growth came after the government’s DBCC revised down its 2026 growth target in June. Meanwhile, inflation remained elevated at 6.2% in July despite easing for a third consecutive month, staying above the BSP’s 3% target and keeping expectations for further tightening intact. The BSP has raised rates by 50 bps since April, with analysts expecting another 50 bps of hikes this year via two 25 bps increases at the August and October meetings.
-
----
-
-### 2026-08-07 11:36:45  #觀點 #國際
-
-【中信建投：海外倉模式將取代直郵成為主流 具全鏈條能力端到端整合者將最終勝出】中信建投釋出研報稱，跨境電商物流正經歷從“跨境”到“本地化”的深刻轉變。海外倉模式預計在2026年首次反超直郵，成為主流，其驅動力主要來自歐美關稅新政(美國取消800美元免稅、歐盟取消150歐元免稅)對直郵價效比的衝擊，倒逼平臺和賣家採用本地化履約。此外，美國尾程配送因傳統巨頭(UPS/FedEx/USPS)戰略性撤退而出現結構性缺口，已成為跨境電商物流的核心競爭壁壘。未來，單一環節的物流商將面臨壓力，具備“中國段直郵+海外倉+本土末端”全鏈條能力的端到端整合者將最終勝出。
-
----
-
-### 2026-08-07 11:35:52  #MKT News #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
-
-【A-share midday: ChiNext +1.75%; rare-earth permanent magnets, PCB sectors rally】Markets rose in morning trade. At midday, Shanghai Composite +0.49%, Shenzhen Composite Index +1.31%, ChiNext +1.75%. CRO stocks led gains with Baihua Pharmaceuticals posting a fourth consecutive daily limit-up. PCB names saw multiple limit-ups, including Jingwang Electronics and Hongban Technology. Rare-earth permanent-magnet names were active, with China Rare Earth hitting the daily limit. CPO, minor metals, components and electronic chemicals outperformed. Digital currency, grain, property, coal and gaming sectors lagged. About 3,000 stocks declined and half-day turnover exceeded 1.6 trillion yuan.
-
----
-
-### 2026-08-07 11:35:39  #國際
-
-【泰國校園槍擊事件造成至少4人受傷】據泰國媒體7日報道，泰國暖武裡府一所學校當天發生槍擊事件，造成至少4人受傷，初步調查顯示槍手為學生。（新華社）
-
----
-
-### 2026-08-07 11:32:45  #其他
-
-【國家能源局：加大關鍵電力裝備自主研發 推動電力晶片、特高壓組部件等關鍵技術突破】國家能源局印發《電力安全生產“十五五”行動計劃》，其中提出，加強“人工智慧+”安全治理，創新裝置高精度故障預測及健康管理方法，推動人工智慧技術嵌入智慧安全工器具，研究基於人工智慧大模型的電力安全生產輔助決策技術。加大關鍵電力裝備自主研發，加強新型防護材料研發，設立電力裝備核心部件技術攻關專項計劃，推動電力晶片、特高壓組部件等關鍵技術突破。推動電力建設工程安全質量管控技術創新，研究建設電力建設工程智慧化監管體系，運用人工智慧、大資料等手段加強重點電力工程非現場監管和質量監督工作。
 
 ---
