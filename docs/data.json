@@ -1,7 +1,224 @@
 {
-  "updated": "2026-08-12 04:33:14",
-  "count": 15612,
+  "updated": "2026-08-12 04:37:04",
+  "count": 15620,
   "items": [
+    {
+      "id": "mkt:019ff28a-8d49-7aab-8ffb-03d339e76488",
+      "time": "2026-08-12 04:36:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Aug.7) | actual 34000M | previous -112000M"
+    },
+    {
+      "id": "mkt:019ff28a-88d0-7aab-8ffa-fc577ba1a900",
+      "time": "2026-08-12 04:36:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "API: US refined product imports in the week to Aug. 7 at 196,000 bpd, prior -206,000 bpd."
+    },
+    {
+      "id": "mkt:019ff28a-6639-7aab-8ffa-f5eff3e99bdb",
+      "time": "2026-08-12 04:36:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Aug.7) | actual 196000M | previous -206000M"
+    },
+    {
+      "id": "mkt:019ff28a-5f74-7aab-8ffa-edda4ffefbc3",
+      "time": "2026-08-12 04:36:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US API crude imports for the week ended Aug. 7: 835,000 barrels, up from 172,000 barrels the prior week."
+    },
+    {
+      "id": "mkt:019ff28a-456a-7aab-8ffa-e48ed0ba86a8",
+      "time": "2026-08-12 04:36:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Aug.7) | actual 835000M | previous 172000M"
+    },
+    {
+      "id": "mkt:019ff28a-3ed7-7aab-8ffa-df8d7aada08c",
+      "time": "2026-08-12 04:36:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API weekly heating oil stocks rose 424,000 barrels in the week ended Aug. 7, following a 118,000-barrel draw in the prior week."
+    },
+    {
+      "id": "te:markets:574515",
+      "time": "2026-08-12 04:36:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Reaches Fresh Record — The S&P/TSX Composite Index edged higher to close at 36,476 on Tuesday, reaching a fresh record slightly above the previous session's high, supported by energy stocks. The energy sector advanced as crude oil prices pared earlier losses after Iran reiterated that it would keep the Strait of Hormuz closed until its demands are met. Canadian Natural gained 0.7%, Suncor rose 0.9%, Imperial Oil added 0.5%, and Cenovus advanced 0.9%. Financials were mixed, with Brookfield Asset Management jumping 4.6% on strong fee revenue growth and a major fundraising effort, while major banks mostly declined. Investors now await Wednesday's US CPI report for fresh clues on the Fed's policy outlook, while strong Canadian labor data from last week kept expectations for a hawkish BoC in focus. Among miners, Franco-Nevada fell 0.2% ahead of its earnings report, while investors continued to digest Barrick's (-2.1%) results. In tech, Shopify shed 1.8% and Constellation Software lost 2.5% ahead of its earnings."
+    },
+    {
+      "id": "mkt:019ff28a-21f6-7aab-8ffa-d4dc66755af8",
+      "time": "2026-08-12 04:36:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Aug.7) | actual 424000M | previous -118000M"
+    },
+    {
+      "id": "mkt:019ff28a-16b9-7aab-8ffa-c87d4e741a5d",
+      "time": "2026-08-12 04:36:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API Cushing crude inventories 1.571 mln barrels in the week to Aug. 7; prior 2.358 mln barrels."
+    },
+    {
+      "id": "mkt:019ff289-f8b1-7aab-8ffa-c66aca0eb2ce",
+      "time": "2026-08-12 04:35:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Aug.7) | actual 1571000M | previous 2358000M"
+    },
+    {
+      "id": "mkt:019ff289-f82d-7aab-8ffa-bf059d96fc0d",
+      "time": "2026-08-12 04:35:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined-product inventories for week to Aug 7 fell 596,000 bbl; market had expected a 1.6 mln-bbl draw; prior draw was 1.232 mln bbl."
+    },
+    {
+      "id": "mkt:019ff289-cde5-7aab-8ffa-b57d93f24058",
+      "time": "2026-08-12 04:35:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Aug.7) | actual -596000M | consensus -1600000M | previous -1232000M"
+    },
+    {
+      "id": "mkt:019ff289-9897-7aab-8ffa-ac7bdde52605",
+      "time": "2026-08-12 04:35:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "American Petroleum Institute weekly US gasoline stocks fell 1.531 mln barrels in the week to Aug. 7, versus an expected draw of 1.578 mln barrels and a prior build of 0.156 mln barrels."
+    },
+    {
+      "id": "mkt:019ff289-7967-7aab-8ffa-a485bc022ca1",
+      "time": "2026-08-12 04:35:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Aug.7) | actual -1531000M | consensus -1578000M | previous 156000M"
+    },
+    {
+      "id": "5036383",
+      "time": "2026-08-12 04:35:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至8月7日當週API原油庫存 907.2萬桶，預期-50萬桶，前值269萬桶。"
+    },
+    {
+      "id": "mkt:019ff289-6a69-7aab-8ffa-9ad291e77476",
+      "time": "2026-08-12 04:35:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API weekly US crude stocks rose 9.072 mln bbl in the week to Aug. 7, versus a -0.5 mln bbl draw expected; prior +2.69 mln bbl."
+    },
+    {
+      "id": "mkt:019ff289-4dcc-7aab-8ffa-94edf6da2006",
+      "time": "2026-08-12 04:35:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Aug.7) | actual 9072000M | consensus -500000M | previous 2690000M"
+    },
+    {
+      "id": "te:markets:574514",
+      "time": "2026-08-12 04:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.41% Lower — The Dow Jones Index dropped 224 points or 0.41 percent on Tuesday to close at 53752 points. Losses were led by Honeywell International (-4.45%), Alphabet (-4.10%) and Amazon (-2.11%). Offsetting the fall, top gainers were IBM (0.99%), Caterpillar (0.90%) and Chevron (0.87%)."
+    },
+    {
+      "id": "mkt:019ff289-035c-7aab-8ffa-8e2e25ffa36d",
+      "time": "2026-08-12 04:34:53",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM (GM.N) sets up a $4.5 bln program to secure supply of critical components."
+    },
+    {
+      "id": "mkt:019ff288-becb-7aab-8ffa-81e2ca357548",
+      "time": "2026-08-12 04:34:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "AI cloud-services provider CoreWeave (CRWV.O) reported Q2 revenue $2.58bn vs. consensus $2.56bn and a Q2 net loss of $626m vs. consensus loss $757.1m. Contract backlog was about $104bn as of June 30, 2026."
+    },
     {
       "id": "5036382",
       "time": "2026-08-12 04:32:19",
@@ -142105,117 +142322,6 @@
         "MKT News"
       ],
       "text": "Musk said SpaceX’s Starship aims to carry more than 1 mln tonnes of payload to orbit annually, with potential to reach 10 mln tonnes over time."
-    },
-    {
-      "id": "5025316",
-      "time": "2026-08-05 04:37:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：星艦目標是每年向軌道輸送100萬噸以上載荷，目標上限或可達1000萬噸。"
-    },
-    {
-      "id": "5025315",
-      "time": "2026-08-05 04:36:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "Pinterest執行長：我們平臺上超過96%的文字搜尋是非品牌搜尋。"
-    },
-    {
-      "id": "5025314",
-      "time": "2026-08-05 04:36:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SpaceX今年迄今又迎來一個里程碑年份。"
-    },
-    {
-      "id": "mkt:019fce7d-ad5f-7aab-8f77-11398dc5a799",
-      "time": "2026-08-05 04:36:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said SpaceX will launch the first batch of Starlink V3 satellites into orbit on the next Starship flight."
-    },
-    {
-      "id": "5025313",
-      "time": "2026-08-05 04:35:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克：公司將在下一次星艦飛行中，將首批V3版星鏈衛星送入軌道。"
-    },
-    {
-      "id": "mkt:019fce7d-4759-7aab-8f77-0ac7457fcd5a",
-      "time": "2026-08-05 04:35:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Musk said he will attempt to recover both the first and second stages of Starship V3 this year and may succeed on the next flight."
-    },
-    {
-      "id": "te:markets:572689",
-      "time": "2026-08-05 04:35:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Gilead Sciences earnings above expectations at -6.75 USD — Gilead Sciences (GILD) released earnings per share at -6.75 USD, compared to market expectations of -7.32 USD."
-    },
-    {
-      "id": "5025312",
-      "time": "2026-08-05 04:35:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX公佈上市以來首份財報 營收超出華爾街預期】SpaceX公佈其6月轟轟烈烈上市後的首份季報，其中營收超過了華爾街的預期。伊隆·馬斯克旗下這個集衛星、太空和人工智慧等業務為一體的公司週二公佈78億美元的營收，而彭博調查的分析師平均預估為68.1億美元。該公司還公佈，其人工智慧業務產生了12.6億美元的經營虧損，好於虧損23.9億美元的市場共識。 SpaceX公佈這份備受期待的財報前，該公司自融資860億美元以來股價經歷了過山車式的變動。該股在後IPO震盪及人工智慧板塊的全球拋售潮中重挫，市值從峰值蒸發逾1萬億美元，也讓馬斯克失去了世界首富之位。"
-    },
-    {
-      "id": "mkt:019fce7c-d5f0-7aab-8f77-0592c4f57005",
-      "time": "2026-08-05 04:35:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior US State Department official said the visa of a senior Brazilian diplomat posted in Washington has been revoked and will be reinstated if the matter is resolved."
-    },
-    {
-      "id": "te:markets:572688",
-      "time": "2026-08-05 04:35:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.71% Higher — The Dow Jones Index gained 908 points or 1.71 percent on Tuesday to close at 54086 points. Gains were led by Caterpillar (5.97%), Cisco Systems (5.11%) and IBM (3.91%)."
-    },
-    {
-      "id": "mkt:019fce7c-6360-7aab-8f76-f8df5ff81749",
-      "time": "2026-08-05 04:34:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Musk said this year is another milestone for SpaceX."
-    },
-    {
-      "id": "mkt:019fce7c-2107-7aab-8f76-f2acc3c25821",
-      "time": "2026-08-05 04:34:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright said an extension of the Jones Act waiver is likely; the waiver has already pushed down energy prices in California and on the US East Coast."
     }
   ]
 }
