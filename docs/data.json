@@ -1,7 +1,168 @@
 {
-  "updated": "2026-08-11 16:12:37",
+  "updated": "2026-08-11 16:16:38",
   "count": 15840,
   "items": [
+    {
+      "id": "mkt:019fefe4-2e01-7aab-8fed-264506b01796",
+      "time": "2026-08-11 16:15:36",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Copper",
+        "02899.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng down 1.1% after intraday rally; non‑ferrous metals lead losses】Hong Kong stocks fell after an early rally. The Hang Seng Index slipped 1.1% to 25,652.82 and the Hang Seng Tech Index fell 1.93% to 4,824.42. Market turnover was HK$210.9 billion versus HK$240.3 billion in the prior session. Oil and gas names outperformed; innovative drug names rallied intraday then retreated. Non‑ferrous metals were the weakest sector and led losses; new consumer, commercial aerospace, autos and defence also underperformed. Notable movers: CNOOC (00883.HK) +3.59%, Zai Lab (09688.HK) +5.28%, Laopu Gold (06181.HK) -8.49%, Zijin Mining (02899.HK) -5.80%, China Eastern Airlines (00670.HK) -5.57%, BYD Co. (01211.HK) -2.82%."
+    },
+    {
+      "id": "mkt:019fefe3-d424-7aab-8fed-1dfa72d26782",
+      "time": "2026-08-11 16:15:13",
+      "tags": [
+        "MKT News",
+        "SREN.SW",
+        "Impact bearish"
+      ],
+      "text": "Swiss Re estimates natural disasters caused $100bn in economic losses in 1H 2026."
+    },
+    {
+      "id": "5035373",
+      "time": "2026-08-11 16:15:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【黃仁勳否認迴圈融資】當地時間8月10日，英偉達正式官宣重磅合作，與阿波羅、貝萊德、黑石、博楓、高盛、KKR六大全球頂級資管機構簽署諒解備忘錄，聯合搭建獨立算力融資平臺，計劃長期調動超5000億美元第三方資本，專門供給雲廠商、AI實驗室與實體企業，用於採購英偉達晶片、建設大型資料中心AI工廠。儘管英偉達和高盛、貝萊德在內的金融巨頭都對這一合作前景信心滿滿，但資本市場上關於“迴圈融資”泡沫的質疑聲浪卻快速湧來。面對質疑，英偉達CEO黃仁勳努力否認關於“迴圈融資”的質疑，並在訪談中強調，當前AI算力已經成為新時代剛需基礎設施，搭建融資平臺背後代表著市場對於AI基建的“真實而長期的需求”，並非資本單純炒作催生的泡沫需求。"
+    },
+    {
+      "id": "5035372",
+      "time": "2026-08-11 16:14:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST萬邦：子公司產品石杉鹼甲注射液中選省際聯盟採購】ST萬邦公告稱，公司全資子公司萬邦德製藥參加省際聯盟集中帶量採購投標，其產品石杉鹼甲注射液中選。本輪採購週期2年，參與省份眾多。該產品為公司核心獨家劑型，2018年獲註冊證，核心成分有多項榮譽及多國專利。公司為唯一生產廠家，有原料藥+製劑一體化優勢。中選利於拓寬渠道、擴大銷售、提升佔有率和品牌影響力，但後續執行和銷售受政策、市場影響，對業績影響有不確定性。"
+    },
+    {
+      "id": "5035371",
+      "time": "2026-08-11 16:14:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國日前基荷電力價格上漲23.6%，至139.4歐元/兆瓦時。"
+    },
+    {
+      "id": "5035370",
+      "time": "2026-08-11 16:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【可租賃可定製 青島首家機器人6S體驗店開業】近日，山東省青島市首家機器人6S體驗店開業，吸引眾多消費者前來參觀體驗。該店採用“六位一體”模式，整合銷售、零配件、售後服務、資訊反饋、租賃、個性化定製六大功能，助力機器人從實驗室走向日常生活。（新華社）"
+    },
+    {
+      "id": "mkt:019fefe3-2c0a-7aab-8fed-14daf340282b",
+      "time": "2026-08-11 16:14:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Lianxin Bank: July inflation data likely to matter more for next Fed decision than this month's jobs report】Lianxin Bank chief economist Bill Adams said July CPI (Wednesday) and PPI (Thursday) will likely carry more weight for the Fed's next decision than this month's jobs report. Economists expect July CPI YoY to slow to 3.4% from 3.5% in June (4.2% in May); weaker gasoline-price volatility is a key driver. Stable oil-product prices should also slightly cool PPI, and core CPI may improve as housing inflation moderates. If the prints match expectations, they would support a Fed pause at the Sept. 16 meeting, though August jobs and CPI data — due before the meeting — could still change that outlook."
+    },
+    {
+      "id": "5035369",
+      "time": "2026-08-11 16:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓媒：韓國宣佈將不會向烏克蘭提供武器】據俄羅斯衛星社網站8月11日報道，《韓民族日報》援引韓國外交部發言人的話報道稱，韓國將不會向烏克蘭提供武器，因為韓國法律禁止向正在發生激烈戰鬥衝突的國家提供致命性武器。8月8日，烏克蘭總統澤連斯基在接受烏克蘭媒體影片採訪時公開要求韓國提供防空系統。據該報報道，韓國外交部發言人在回答記者關於澤連斯基要求提供國防產品的問題時表示：“我國向各國交付國防產品一直以來都遵守相關國內法律和國家政策。”（參考訊息）"
+    },
+    {
+      "id": "mkt:019fefe2-31a8-7aab-8fed-0cbbbede4639",
+      "time": "2026-08-11 16:13:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【CPCA: July new-energy passenger car exports 540,000 units, up 147.8% YoY】CPCA data show July 2026 exports of Chinese new-energy passenger vehicles totaled 540,000 units, up 147.8% YoY and 8.1% MoM. NEVs comprised 58.8% of passenger-car exports, +14 ppt YoY. Battery-electric vehicles accounted for 59.5% of NEV exports (65.1% a year earlier); A00 and A0-class BEVs made up 42.2% of BEV exports (36.6%). Narrow plug-in hybrids were 35.9% of NEV exports (32.4%); range-extended models 4.6% (2.5%)."
+    },
+    {
+      "id": "5035368",
+      "time": "2026-08-11 16:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特里貝卡開發商創始人：在目前已公佈的海得拉巴特朗普大廈專案之後，我們將計劃在該城市開發另一個專案，同時也在考察班加羅爾的機會。"
+    },
+    {
+      "id": "mkt:019fefe1-6921-7aab-8fed-02c1b24bea7e",
+      "time": "2026-08-11 16:12:34",
+      "tags": [
+        "MKT News",
+        "Nickel",
+        "Impact bearish",
+        "Lead",
+        "Impact bullish",
+        "Aluminium"
+      ],
+      "text": "【LME on-warrants and canceled warrants daily】LME on-warrants and canceled warrants (t): Copper on-warrants 90,025t, +50t; canceled warrants 124,525t, -3,800t. Aluminium on-warrants 244,550t, -100t; canceled warrants 8,850t, -1,400t. Zinc on-warrants 74,725t, unchanged; canceled warrants 22,350t, -50t. Nickel on-warrants 256,188t, +300t; canceled warrants 8,556t, unchanged. Lead on-warrants 361,025t, -500t; canceled warrants 59,275t, -1,000t. Tin on-warrants 4,775t, -10t; canceled warrants 865t, +865t."
+    },
+    {
+      "id": "5035367",
+      "time": "2026-08-11 16:12:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LME有色金屬庫存日報】倫敦金屬交易所（LME）有色金屬庫存及變化如下：1. 銅庫存214550噸，減少3750噸。2. 鋁庫存253400噸，減少1500噸。3. 鋅庫存97075噸，減少50噸。4. 鎳庫存264744噸，增加300噸。5. 鉛庫存420300噸，減少1500噸。6. 錫庫存5640噸，增加50噸。"
+    },
+    {
+      "id": "mkt:019fefe1-4bad-7aab-8fec-fb3d62916165",
+      "time": "2026-08-11 16:12:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【LME base metals stocks (daily)】LME base metals stocks: copper 214,550 t, down 3,750 t; aluminium 253,400 t, down 1,500 t; zinc 97,075 t, down 50 t; nickel 264,744 t, up 300 t; lead 420,300 t, down 1,500 t; tin 5,640 t, up 50 t."
+    },
+    {
+      "id": "mkt:019fefe1-4901-7aab-8fec-f2d50d4a148a",
+      "time": "2026-08-11 16:12:26",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong HSI closed down 284.67 points, or 1.10%, at 25,652.82 on Aug 11. Hang Seng Tech fell 95.04 points, or 1.93%, to 4,824.42. Hang Seng China Enterprises Index (HSCEI) dropped 93.74 points, or 1.09%, to 8,528.10. Hang Seng Red-Chip Index slipped 20.92 points, or 0.50%, to 4,121.93."
+    },
+    {
+      "id": "5035366",
+      "time": "2026-08-11 16:12:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【同力天啟：股價異常波動 上半年淨利潤預降82.39%】同力天啟公告稱，公司股票於2026年8月10日、8月11日連續2個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大資訊。公司預計2026年半年度淨利潤2039.70萬元左右，同比減少9544.93萬元，降幅82.39%；扣非淨利潤2162.73萬元左右，同比減少9133萬元，降幅80.85%，存在業績下滑風險。"
+    },
+    {
+      "id": "5035365",
+      "time": "2026-08-11 16:12:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浦東金橋：成功發行7億元中期票據 期限3年票面利率1.68%】浦東金橋公告稱，公司於2026年8月收到交易商協會接受中期票據註冊的通知，註冊金額15.3億元，有效期2年。8月7日，公司發行2026年度第二期中期票據，實際發行金額7億元，期限3年，起息日為8月10日，兌付日為2029年8月10日，票面利率1.68%，募集資金已於8月10日全額到賬。中國民生銀行為簿記管理人和主承銷商，招商銀行為聯席主承銷商。"
+    },
     {
       "id": "mkt:019fefe0-e465-7aab-8fec-eff893b91940",
       "time": "2026-08-11 16:12:00",
@@ -144184,150 +144345,6 @@
         "公司"
       ],
       "text": "【鈦能化學：2026年上半年淨利潤4.2億元同比增61.93%】鈦能化學公告，2026年上半年營業收入45.57億元，同比增長20.89%。歸屬於上市公司股東的淨利潤4.2億元，同比增長61.93%。扣非淨利潤3.64億元，同比增長65.20%。利潤分配預案為每10股派發現金紅利0.2元（含稅）。"
-    },
-    {
-      "id": "5024073",
-      "time": "2026-08-04 16:16:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油首席財務官拒絕公佈重啟股票回購的方案。"
-    },
-    {
-      "id": "5024072",
-      "time": "2026-08-04 16:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月清理13300餘條AI魔改違規影片】記者從國家廣播電視總局獲悉，部分重點網路視聽平臺今天公佈7月“AI魔改”影片專項治理工作的處置情況，共清理違規影片13300餘條、處置違規賬號30餘個。 廣電總局督導各主要網路視聽平臺進一步深化落實主體責任，加強日常排查，重點清理基於四大名著、歷史題材、革命題材、英模人物等經典影視作品進行“AI魔改”的違規影片，並同步清理各類邪典動畫，持續營造健康的網路視聽生態環境。（央視新聞）"
-    },
-    {
-      "id": "5024071",
-      "time": "2026-08-04 16:15:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德源藥業：5個產品擬中選第十二批全國藥品集採】德源藥業公告，公司參與第十二批全國藥品集中帶量採購，根據聯採辦釋出的《第12批國家組織藥品集中帶量採購擬中選結果表》，公司西格列汀二甲雙胍緩釋片、達格列淨二甲雙胍緩釋片（Ⅰ）、吡格列酮二甲雙胍片、非諾貝特膠囊、比索洛爾氨氯地平片共5個產品擬中選，採購週期自中選結果執行之日起至2029年12月31日。"
-    },
-    {
-      "id": "te:economy:572451",
-      "time": "2026-08-04 16:15:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "Italy Retail Sales Fall 0.1% in June — Italy's retail sales edged down 0.1% month-on-month in June 2026, reversing a 0.2% increase in May and falling short of market expectations for a 0.1% gain. Food sales decreased 0.4% after rising 0.1% in the previous month, while growth in non-food sales was steady at 0.2%. On an annual basis, retail sales rose 3.1% in June, accelerating from a 2.2% increase in May, supported by stronger growth in non-food sales (4.0% vs 2.2%) and continued expansion in food sales (1.9%). Among non-food products, gains were recorded across all categories except footwear, leather goods, and travel goods, which declined 1.2%. The largest increases were seen in household appliances, radios, televisions, and recording equipment (14.2%), as well as IT, telecommunications, and telephone equipment (12.6%). The value of retail sales increased across all distribution channels, notably online commerce (26.7%)."
-    },
-    {
-      "id": "mkt:019fcbd7-a075-7aab-8f69-446fd380e7de",
-      "time": "2026-08-04 16:15:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "BP CEO said offshore oil that existed when the conflict began is now being depleted."
-    },
-    {
-      "id": "5024070",
-      "time": "2026-08-04 16:15:10",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "南非財政部：本國財政戰略仍按計劃推進。"
-    },
-    {
-      "id": "5024069",
-      "time": "2026-08-04 16:14:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國石油首席財務官表示，目前用於履行我們財務義務的資金要多於回報股東的資金。假以時日，我們會調整這種資金分配格局。"
-    },
-    {
-      "id": "te:markets:572449",
-      "time": "2026-08-04 16:14:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Holds Near Seven-Week High — The euro traded just above $1.15, hovering near its highest level since June 16 as easing geopolitical tensions supported risk sentiment. The currency drew support after US President Donald Trump called off planned strikes on Iran, signaling that a diplomatic resolution to the conflict remained possible, although uncertainty persisted after Tehran denied any ongoing or planned negotiations. The common currency was also underpinned by stronger-than-expected eurozone economic data, reinforcing expectations that the European Central Bank could raise interest rates at its next meeting. The eurozone economy grew 0.4% in the second quarter, twice the pace forecast and the strongest expansion since early 2025. Meanwhile, annual inflation accelerated to 2.9% in July, with both core and services inflation also picking up."
-    },
-    {
-      "id": "5024068",
-      "time": "2026-08-04 16:14:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江化微：多位董監高因工作變動辭職】江化微公告稱，8月4日公司收到殷福華、蔣濤等8人書面辭職報告。殷福華辭去董事長等職；蔣濤、徐嘯飛等辭去董事等職；費祝海辭去財務總監職務。因辭職將致董事會成員低於規定人數，在選舉出新任人員前，相關人員將繼續履職。公司將盡快完成選聘工作。截至披露日，殷福華、姚瑋持有公司股份且存在未履行完畢的公開承諾。"
-    },
-    {
-      "id": "mkt:019fcbd6-32c3-7aab-8f69-3bbf3d6c031a",
-      "time": "2026-08-04 16:14:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hong Kong close: HSI down 0.6%, Hang Seng Tech up 0.21%】Hong Kong close — HSI fell 0.6%; Hang Seng Tech Index rose 0.21%. Market turnover HKD 257.82 billion. Sector winners: optical communications, pharma outsourcing, PCB, memory. Sector laggards: domestic banks, online education, pork. Notable stock moves: 09630.HK +22%; 06166.HK +20%; 03308.HK +17%; WuXi AppTec (02359.HK) +11%; 03986.HK +8%; MINIMAX-W (00100.HK) -7%; XPeng (09868.HK) -4%; China Construction Bank (00939.HK) and Industrial & Commercial Bank of China (01398.HK) down ~3%."
-    },
-    {
-      "id": "5024067",
-      "time": "2026-08-04 16:14:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【澳洲礦商Global Lithium Manna鋰礦提前獲批 2027年投產】Global Lithium（LAC）公告稱，公司位於西澳的Manna鋰礦專案已獲得西澳礦業、石油與勘探部批准《礦山開發與閉礦方案》，較公司內部計劃提前完成審批，為專案開發再添重要里程碑。"
-    },
-    {
-      "id": "5024066",
-      "time": "2026-08-04 16:13:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海安集團：累計回購18.14萬股，成交總金額787.06萬元】海安集團公告，公司於2026年7月14日審議透過回購方案，擬以自有資金及回購專項貸款回購公司股份，回購資金總額不低於人民幣5000萬元（含）且不超過人民幣1億元（含），回購價格不超過人民幣71.04元/股（含），用於維護公司價值及股東權益。截至2026年7月31日，公司透過回購專用證券賬戶以集中競價交易方式累計回購公司股份18.14萬股，佔公司目前總股本的比例約為0.10%，最高成交價為44.83元/股，最低成交價為42.68元/股，成交總金額為787.06萬元（不含交易費用）。"
-    },
-    {
-      "id": "5024065",
-      "time": "2026-08-04 16:13:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興齊眼藥：回購實施完畢，累計回購240.5萬股支付9998萬元】興齊眼藥公告，公司此前披露擬以不低於8000萬元且不超過1億元回購股份，回購價格不超過58元/股，用於登出並減少註冊資本。截至2026年8月4日，公司累計回購股份240.5萬股，佔公司總股本的0.67%，支付總金額9998萬元（不含交易費用），回購方案已實施完畢。"
-    },
-    {
-      "id": "5024064",
-      "time": "2026-08-04 16:13:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦商業部長：我們決心最終敲定與伊朗的自由貿易協議。"
-    },
-    {
-      "id": "5024063",
-      "time": "2026-08-04 16:12:48",
-      "tags": [
-        "央行",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛指出，日本強化外匯干預有望提升日央行政策自由度，美日聯合干預或緩解來自政府的加息壓力。"
-    },
-    {
-      "id": "mkt:019fcbd5-077e-7aab-8f69-302a8c400f50",
-      "time": "2026-08-04 16:12:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "BP.L"
-      ],
-      "text": "BP CEO said the company can ship diesel from U.S. West Coast refineries to Australia and has adjusted refinery operations to maximize jet fuel output."
     }
   ]
 }

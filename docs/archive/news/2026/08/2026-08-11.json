@@ -1,7 +1,168 @@
 {
   "date": "2026-08-11",
-  "count": 1525,
+  "count": 1541,
   "items": [
+    {
+      "id": "mkt:019fefe4-2e01-7aab-8fed-264506b01796",
+      "time": "2026-08-11 16:15:36",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Copper",
+        "02899.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng down 1.1% after intraday rally; non‑ferrous metals lead losses】Hong Kong stocks fell after an early rally. The Hang Seng Index slipped 1.1% to 25,652.82 and the Hang Seng Tech Index fell 1.93% to 4,824.42. Market turnover was HK$210.9 billion versus HK$240.3 billion in the prior session. Oil and gas names outperformed; innovative drug names rallied intraday then retreated. Non‑ferrous metals were the weakest sector and led losses; new consumer, commercial aerospace, autos and defence also underperformed. Notable movers: CNOOC (00883.HK) +3.59%, Zai Lab (09688.HK) +5.28%, Laopu Gold (06181.HK) -8.49%, Zijin Mining (02899.HK) -5.80%, China Eastern Airlines (00670.HK) -5.57%, BYD Co. (01211.HK) -2.82%."
+    },
+    {
+      "id": "mkt:019fefe3-d424-7aab-8fed-1dfa72d26782",
+      "time": "2026-08-11 16:15:13",
+      "tags": [
+        "MKT News",
+        "SREN.SW",
+        "Impact bearish"
+      ],
+      "text": "Swiss Re estimates natural disasters caused $100bn in economic losses in 1H 2026."
+    },
+    {
+      "id": "5035373",
+      "time": "2026-08-11 16:15:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【黃仁勳否認迴圈融資】當地時間8月10日，英偉達正式官宣重磅合作，與阿波羅、貝萊德、黑石、博楓、高盛、KKR六大全球頂級資管機構簽署諒解備忘錄，聯合搭建獨立算力融資平臺，計劃長期調動超5000億美元第三方資本，專門供給雲廠商、AI實驗室與實體企業，用於採購英偉達晶片、建設大型資料中心AI工廠。儘管英偉達和高盛、貝萊德在內的金融巨頭都對這一合作前景信心滿滿，但資本市場上關於“迴圈融資”泡沫的質疑聲浪卻快速湧來。面對質疑，英偉達CEO黃仁勳努力否認關於“迴圈融資”的質疑，並在訪談中強調，當前AI算力已經成為新時代剛需基礎設施，搭建融資平臺背後代表著市場對於AI基建的“真實而長期的需求”，並非資本單純炒作催生的泡沫需求。"
+    },
+    {
+      "id": "5035372",
+      "time": "2026-08-11 16:14:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST萬邦：子公司產品石杉鹼甲注射液中選省際聯盟採購】ST萬邦公告稱，公司全資子公司萬邦德製藥參加省際聯盟集中帶量採購投標，其產品石杉鹼甲注射液中選。本輪採購週期2年，參與省份眾多。該產品為公司核心獨家劑型，2018年獲註冊證，核心成分有多項榮譽及多國專利。公司為唯一生產廠家，有原料藥+製劑一體化優勢。中選利於拓寬渠道、擴大銷售、提升佔有率和品牌影響力，但後續執行和銷售受政策、市場影響，對業績影響有不確定性。"
+    },
+    {
+      "id": "5035371",
+      "time": "2026-08-11 16:14:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國日前基荷電力價格上漲23.6%，至139.4歐元/兆瓦時。"
+    },
+    {
+      "id": "5035370",
+      "time": "2026-08-11 16:14:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【可租賃可定製 青島首家機器人6S體驗店開業】近日，山東省青島市首家機器人6S體驗店開業，吸引眾多消費者前來參觀體驗。該店採用“六位一體”模式，整合銷售、零配件、售後服務、資訊反饋、租賃、個性化定製六大功能，助力機器人從實驗室走向日常生活。（新華社）"
+    },
+    {
+      "id": "mkt:019fefe3-2c0a-7aab-8fed-14daf340282b",
+      "time": "2026-08-11 16:14:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Lianxin Bank: July inflation data likely to matter more for next Fed decision than this month's jobs report】Lianxin Bank chief economist Bill Adams said July CPI (Wednesday) and PPI (Thursday) will likely carry more weight for the Fed's next decision than this month's jobs report. Economists expect July CPI YoY to slow to 3.4% from 3.5% in June (4.2% in May); weaker gasoline-price volatility is a key driver. Stable oil-product prices should also slightly cool PPI, and core CPI may improve as housing inflation moderates. If the prints match expectations, they would support a Fed pause at the Sept. 16 meeting, though August jobs and CPI data — due before the meeting — could still change that outlook."
+    },
+    {
+      "id": "5035369",
+      "time": "2026-08-11 16:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓媒：韓國宣佈將不會向烏克蘭提供武器】據俄羅斯衛星社網站8月11日報道，《韓民族日報》援引韓國外交部發言人的話報道稱，韓國將不會向烏克蘭提供武器，因為韓國法律禁止向正在發生激烈戰鬥衝突的國家提供致命性武器。8月8日，烏克蘭總統澤連斯基在接受烏克蘭媒體影片採訪時公開要求韓國提供防空系統。據該報報道，韓國外交部發言人在回答記者關於澤連斯基要求提供國防產品的問題時表示：“我國向各國交付國防產品一直以來都遵守相關國內法律和國家政策。”（參考訊息）"
+    },
+    {
+      "id": "mkt:019fefe2-31a8-7aab-8fed-0cbbbede4639",
+      "time": "2026-08-11 16:13:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【CPCA: July new-energy passenger car exports 540,000 units, up 147.8% YoY】CPCA data show July 2026 exports of Chinese new-energy passenger vehicles totaled 540,000 units, up 147.8% YoY and 8.1% MoM. NEVs comprised 58.8% of passenger-car exports, +14 ppt YoY. Battery-electric vehicles accounted for 59.5% of NEV exports (65.1% a year earlier); A00 and A0-class BEVs made up 42.2% of BEV exports (36.6%). Narrow plug-in hybrids were 35.9% of NEV exports (32.4%); range-extended models 4.6% (2.5%)."
+    },
+    {
+      "id": "5035368",
+      "time": "2026-08-11 16:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特里貝卡開發商創始人：在目前已公佈的海得拉巴特朗普大廈專案之後，我們將計劃在該城市開發另一個專案，同時也在考察班加羅爾的機會。"
+    },
+    {
+      "id": "mkt:019fefe1-6921-7aab-8fed-02c1b24bea7e",
+      "time": "2026-08-11 16:12:34",
+      "tags": [
+        "MKT News",
+        "Nickel",
+        "Impact bearish",
+        "Lead",
+        "Impact bullish",
+        "Aluminium"
+      ],
+      "text": "【LME on-warrants and canceled warrants daily】LME on-warrants and canceled warrants (t): Copper on-warrants 90,025t, +50t; canceled warrants 124,525t, -3,800t. Aluminium on-warrants 244,550t, -100t; canceled warrants 8,850t, -1,400t. Zinc on-warrants 74,725t, unchanged; canceled warrants 22,350t, -50t. Nickel on-warrants 256,188t, +300t; canceled warrants 8,556t, unchanged. Lead on-warrants 361,025t, -500t; canceled warrants 59,275t, -1,000t. Tin on-warrants 4,775t, -10t; canceled warrants 865t, +865t."
+    },
+    {
+      "id": "5035367",
+      "time": "2026-08-11 16:12:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【LME有色金屬庫存日報】倫敦金屬交易所（LME）有色金屬庫存及變化如下：1. 銅庫存214550噸，減少3750噸。2. 鋁庫存253400噸，減少1500噸。3. 鋅庫存97075噸，減少50噸。4. 鎳庫存264744噸，增加300噸。5. 鉛庫存420300噸，減少1500噸。6. 錫庫存5640噸，增加50噸。"
+    },
+    {
+      "id": "mkt:019fefe1-4bad-7aab-8fec-fb3d62916165",
+      "time": "2026-08-11 16:12:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【LME base metals stocks (daily)】LME base metals stocks: copper 214,550 t, down 3,750 t; aluminium 253,400 t, down 1,500 t; zinc 97,075 t, down 50 t; nickel 264,744 t, up 300 t; lead 420,300 t, down 1,500 t; tin 5,640 t, up 50 t."
+    },
+    {
+      "id": "mkt:019fefe1-4901-7aab-8fec-f2d50d4a148a",
+      "time": "2026-08-11 16:12:26",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong HSI closed down 284.67 points, or 1.10%, at 25,652.82 on Aug 11. Hang Seng Tech fell 95.04 points, or 1.93%, to 4,824.42. Hang Seng China Enterprises Index (HSCEI) dropped 93.74 points, or 1.09%, to 8,528.10. Hang Seng Red-Chip Index slipped 20.92 points, or 0.50%, to 4,121.93."
+    },
+    {
+      "id": "5035366",
+      "time": "2026-08-11 16:12:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【同力天啟：股價異常波動 上半年淨利潤預降82.39%】同力天啟公告稱，公司股票於2026年8月10日、8月11日連續2個交易日內收盤價格漲幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大資訊。公司預計2026年半年度淨利潤2039.70萬元左右，同比減少9544.93萬元，降幅82.39%；扣非淨利潤2162.73萬元左右，同比減少9133萬元，降幅80.85%，存在業績下滑風險。"
+    },
+    {
+      "id": "5035365",
+      "time": "2026-08-11 16:12:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浦東金橋：成功發行7億元中期票據 期限3年票面利率1.68%】浦東金橋公告稱，公司於2026年8月收到交易商協會接受中期票據註冊的通知，註冊金額15.3億元，有效期2年。8月7日，公司發行2026年度第二期中期票據，實際發行金額7億元，期限3年，起息日為8月10日，兌付日為2029年8月10日，票面利率1.68%，募集資金已於8月10日全額到賬。中國民生銀行為簿記管理人和主承銷商，招商銀行為聯席主承銷商。"
+    },
     {
       "id": "mkt:019fefe0-e465-7aab-8fec-eff893b91940",
       "time": "2026-08-11 16:12:00",
