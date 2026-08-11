@@ -1,7 +1,54 @@
 {
   "date": "2026-08-11",
-  "count": 531,
+  "count": 536,
   "items": [
+    {
+      "id": "mkt:019fee4a-5658-7aab-8fe2-a478ad84ec6d",
+      "time": "2026-08-11 08:47:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Mainland China margin financing balance up CNY 14.03 bln】As of Aug. 10, Shanghai Stock Exchange margin financing balance was CNY 1.3501 tln, up CNY 5.47 bln from the prior trading day; Shenzhen Stock Exchange stood at CNY 1.2782 tln, up CNY 8.56 bln; combined margin financing across both exchanges was CNY 2.6283 tln, up CNY 14.03 bln."
+    },
+    {
+      "id": "5034761",
+      "time": "2026-08-11 08:47:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日增加140.31億元】截至8月10日，上交所融資餘額報13500.88億元，較前一交易日增加54.71億元；深交所融資餘額報12782.04億元，較前一交易日增加85.60億元；兩市合計26282.92億元，較前一交易日增加140.31億元。"
+    },
+    {
+      "id": "5034760",
+      "time": "2026-08-11 08:47:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡表示，餐飲行業正受高成本拖累陷入經營困境。"
+    },
+    {
+      "id": "5034759",
+      "time": "2026-08-11 08:46:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【受AI相關需求持續提振 新加坡上調2026年出口增長預測】新加坡已上調其2026年非石油國內出口的增長預測，理由是人工智慧相關需求持續。新加坡企業發展局(Enterprise Singapore)週二表示，由於上半年在電子產品需求激增的帶動下表現強於預期，預計今年該城邦的非石油國內出口將增長14.0%至16.0%。這較此前3.0%至5.0%的預測區間大幅上調。新加坡企業發展局預計，出口將繼續受到AI相關需求的支撐。該機構表示，主要電子公司給出的積極展望以及關鍵電子產品價格走堅，也應會為這些出口帶來提振。不過，新加坡企業發展局表示，高基數效應可能會抑制今年下半年的出口增長。該機構還提示了其展望面臨的風險，如曠日持久的中東衝突以及美國加徵更高關稅。"
+    },
+    {
+      "id": "5034758",
+      "time": "2026-08-11 08:45:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡貿易官員：不會將我國的增長特點描述為範圍相當狹窄、僅依賴人工智慧發展。"
+    },
     {
       "id": "5034757",
       "time": "2026-08-11 08:44:44",
