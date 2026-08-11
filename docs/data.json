@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-12 00:35:44",
-  "count": 15626,
+  "updated": "2026-08-12 00:43:29",
+  "count": 15622,
   "items": [
+    {
+      "id": "5036273",
+      "time": "2026-08-12 00:41:20",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）預計，2026年全球石油產量將為每日1.008億桶，此前預測為每日1.019億桶；2027年全球石油產量預計為每日1.097億桶，此前預測為每日1.098億桶。"
+    },
+    {
+      "id": "5036272",
+      "time": "2026-08-12 00:39:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞國家咖啡聯合會負責人：地震發生後哥倫比亞咖啡出口基本陷入停滯。"
+    },
+    {
+      "id": "mkt:019ff1af-dff2-7aab-8ff7-bdf2e34fa264",
+      "time": "2026-08-12 00:37:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Peru's Ministry of Energy and Mines said June copper production fell 4.7% YoY to 218,232 tonnes."
+    },
+    {
+      "id": "5036271",
+      "time": "2026-08-12 00:37:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦內政部長賽義德·穆赫辛·納克維抵達德黑蘭，與伊朗官員舉行會談。"
+    },
+    {
+      "id": "5036270",
+      "time": "2026-08-12 00:36:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯能源和礦業部：6月秘魯銅產量同比下降4.7%，至218,232噸。"
+    },
+    {
+      "id": "5036269",
+      "time": "2026-08-12 00:35:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI特別專案負責人布拉德·萊特卡普離職。"
+    },
     {
       "id": "5036268",
       "time": "2026-08-12 00:34:49",
@@ -142242,97 +142295,6 @@
         "市場"
       ],
       "text": "現貨鉑金上漲超過7%，報1,745.93美元/盎司。"
-    },
-    {
-      "id": "5025184",
-      "time": "2026-08-05 00:43:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "Argus Media 估算： 法國玉米產量降至 690 萬噸，創 50 年新低。"
-    },
-    {
-      "id": "5025183",
-      "time": "2026-08-05 00:42:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "淡水河谷CEO：伊朗戰爭造成諸多專案的速度放緩。"
-    },
-    {
-      "id": "5025182",
-      "time": "2026-08-05 00:42:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "Argus Media 估算：受高溫熱浪及乾旱衝擊，歐盟 2026‑2027 作物年度玉米產量下滑約 20%，至 4800 萬噸。"
-    },
-    {
-      "id": "mkt:019fcda7-3785-7aab-8f74-9066e259161a",
-      "time": "2026-08-05 00:41:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum rose more than 7% to $1,745.93/oz."
-    },
-    {
-      "id": "mkt:019fcda6-62b6-7aab-8f74-8836c16544fb",
-      "time": "2026-08-05 00:41:01",
-      "tags": [
-        "MKT News",
-        "NVO.N",
-        "Impact bearish"
-      ],
-      "text": "NOVO NORDISK (NVO.N): Q2 operating profit was negatively affected by reversal of US 340B rebate provisions."
-    },
-    {
-      "id": "mkt:019fcda3-c759-7aab-8f74-8253ba827606",
-      "time": "2026-08-05 00:38:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina port workers' strike is affecting more than 45 vessels, the Argentine Chamber of Exports and Processors (CIARA-CEC) said."
-    },
-    {
-      "id": "5025181",
-      "time": "2026-08-05 00:36:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德：上調業績預期，源於對 GLP‑1 類產品銷售預期提升。"
-    },
-    {
-      "id": "mkt:019fcda2-22ea-7aab-8f74-788742b045f4",
-      "time": "2026-08-05 00:36:22",
-      "tags": [
-        "MKT News",
-        "NVO.CO",
-        "Impact bearish"
-      ],
-      "text": "Novo Nordisk (NVO.N) said Q2 2026 adjusted sales were DKK 78.49 bln and adjusted operating profit DKK 33.39 bln. It took a one-time, non-cash impairment charge of DKK 6.3 bln in Q2 2026 related to intangible pipeline assets."
-    },
-    {
-      "id": "5025180",
-      "time": "2026-08-05 00:35:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "諾和諾德釋出財報後，禮來股價上漲1.3%。"
-    },
-    {
-      "id": "mkt:019fcda1-95a7-7aab-8f74-7160f0ae6776",
-      "time": "2026-08-05 00:35:46",
-      "tags": [
-        "MKT News",
-        "NVO.N",
-        "Impact bullish"
-      ],
-      "text": "Novo Nordisk (NVO.N) raised its earnings guidance, citing higher expected sales of GLP‑1 products as the primary driver."
     }
   ]
 }
