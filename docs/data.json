@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-11 10:15:51",
-  "count": 15829,
+  "updated": "2026-08-11 10:19:52",
+  "count": 15830,
   "items": [
+    {
+      "id": "5034900",
+      "time": "2026-08-11 10:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢海爾追加投資建零部件新工廠，預計年內全面投產】8月10日，武漢經開區海爾工業園智慧化車間內，四條柔性總裝線滿負荷運轉。“上半年產量已完成全年目標的59%，超額完成任務。”武漢海爾空調工廠智造生產平臺長李娟接受採訪時稱，今年已在武漢追加投資建零部件新工廠，自主生產管組、注鈑、電腦板等配套零部件，預計年內全面投產。（長江日報）"
+    },
+    {
+      "id": "5034899",
+      "time": "2026-08-11 10:17:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國海油在海南成立服務發展公司】企查查APP顯示，近日，中海油（海南）服務發展有限公司成立，法定代表人為向東，註冊資本為3000萬元，經營範圍包含通訊裝置修理；通訊裝置銷售；機械裝置銷售；石油鑽採專用裝置銷售；儀器儀表銷售等。企查查股權穿透顯示，該公司由中國海洋石油集團有限公司旗下中海實業有限責任公司全資持股。"
+    },
+    {
+      "id": "5034898",
+      "time": "2026-08-11 10:17:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江西海中貿易有限責任公司原總經理王道俊接受紀律審查和監察調查】安徽紀檢監察網8月11日通報，江西海中貿易有限責任公司原總經理王道俊涉嫌嚴重違紀違法，目前正接受安徽海螺集團有限責任公司紀委紀律審查和蕪湖市監委監察調查。"
+    },
+    {
+      "id": "te:economy:574245",
+      "time": "2026-08-11 10:17:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Business Confidence",
+        "Importance 2"
+      ],
+      "text": "Australia Business Sentiment Stays Weak — Australia’s NAB Business Confidence Index held at -6 in July 2026, unchanged from a revised reading in the previous month and remaining well below the level recorded in February before the U.S.-Israeli war on Iran began. Meanwhile, business conditions edged up (4 vs 3 in June, but stayed below the long-run average of 7. Employment and profitability improved, while sales were unchanged. Capacity utilisation rose sharply to 83.0%, led by the finance, business and property, and wholesale industries. NAB said that despite improved outcomes from the peak impact of the Middle East crisis, “elevated uncertainty has continued to weigh on business confidence.” It also noted that cost pressures alongside a softer outlook for forward demand were likely to keep margins under pressure. Final prices and purchase costs increased, driven largely by swings in fuel prices, with transport and utilities among the key contributors."
+    },
     {
       "id": "mkt:019fee99-fdaf-7aab-8fe4-bd3f158e4a84",
       "time": "2026-08-11 10:14:57",
@@ -144019,35 +144055,6 @@
         "市場"
       ],
       "text": "【液冷伺服器概念震盪拉昇 冰輪環境逼近漲停】液冷伺服器概念震盪拉昇，冰輪環境逼近漲停，川環科技、申菱環境、大元泵業、飛龍股份、英維克、新朋股份跟漲。"
-    },
-    {
-      "id": "mkt:019fca91-d9b6-7aab-8f62-73800e5fdc68",
-      "time": "2026-08-04 10:19:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "KIUCHI said Japan's June overall CPI showed prices rose YoY at a moderate pace."
-    },
-    {
-      "id": "mkt:019fca90-b11d-7aab-8f62-6eb4aba6229b",
-      "time": "2026-08-04 10:18:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's economic and fiscal minister Kiuchi said pass-through of higher commodity prices into costs remains limited so far."
-    },
-    {
-      "id": "5023525",
-      "time": "2026-08-04 10:17:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古爾曼：帶攝像頭AirPods有望年內釋出】科技記者古爾曼發文稱，儘管代號為B798的帶攝像頭AirPods耳機已推遲至2027年釋出，但蘋果同時也在開發另一個代號為B790的帶攝像頭AirPods耳機版本，B790似乎進展更快：iOS27的程式碼中已經出現了該產品的相關資訊，而且它已被列入蘋果的內部路線圖，最早可能在今年釋出。"
     }
   ]
 }
