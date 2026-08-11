@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-11 12:59:39",
-  "count": 15886,
+  "updated": "2026-08-11 13:03:32",
+  "count": 15876,
   "items": [
+    {
+      "id": "mkt:019fef33-e909-7aab-8fe7-72e8dba9b008",
+      "time": "2026-08-11 13:03:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【VinSpace signs SpaceX deal for 2027 Transporter rideshare to launch first Vietnamese satellites】VinSpace has signed an agreement with SpaceX to launch its first satellites on a Transporter rideshare in 2027. VinSpace will be responsible for satellite R&D, manufacturing and on‑orbit operations. The satellites are intended to validate indigenous technologies, boost VinSpace’s satellite engineering capability and underpin future commercial space services. The agreement marks a concrete step in Vietnam’s push to build a domestic end‑to‑end satellite value chain from design and manufacture to launch and operations."
+    },
+    {
+      "id": "5035064",
+      "time": "2026-08-11 13:00:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普稱美國百分百控制霍爾木茲海峽 霍爾木茲海峽通行量持續低迷】美國總統特朗普10日表示，美國“百分百”控制霍爾木茲海峽。特朗普稱霍爾木茲海峽“航道暢通”，“目前唯一掌控霍爾木茲海峽的是美國海軍”。他還說，美軍對伊朗實施海上封鎖，只允許那些美方“想放行的船隻透過”。但他同時承認，霍爾木茲海峽“情況有點複雜”，伊朗“會投放水雷”；不過，他還稱美軍已對整個海峽進行了掃雷。 美國有線電視新聞網10日援引船舶追蹤機構克普勒公司的資料包道，過去一週霍爾木茲海峽的通行量一直處於“低迷”狀態，並“在週末進一步減弱”。透過該海峽的船隻7日為15艘，8日降至11艘，9日則降至6艘。 此前伊朗方面表示，如果美國不改變其行為，霍爾木茲海峽將維持關閉狀態，重開霍爾木茲海峽的前提是美國滿足伊朗全部條件。（央視財經）"
+    },
     {
       "id": "5035063",
       "time": "2026-08-11 12:57:14",
@@ -144529,113 +144546,6 @@
         "Brent"
       ],
       "text": "ARAMCO said its east-west pipelines, storage and transport capacity and export terminals enable it to sustain production and exports."
-    },
-    {
-      "id": "5023680",
-      "time": "2026-08-04 13:03:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲3.00%，現報13852.400點；上證指數漲0.23%，現報3818.546點；創業板指漲5.26%，現報3476.134點。"
-    },
-    {
-      "id": "5023679",
-      "time": "2026-08-04 13:02:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田汽車：將登出2億股股票，佔已發行總股本的1.37%。"
-    },
-    {
-      "id": "5023678",
-      "time": "2026-08-04 13:02:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田汽車將回購至多1萬億日元的股票。"
-    },
-    {
-      "id": "5023677",
-      "time": "2026-08-04 13:02:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "漢莎航空預計全年調整後EBIT為17億至22億歐元，市場預估17.9億歐元。"
-    },
-    {
-      "id": "mkt:019fcb26-9221-7aab-8f64-369ec5aad0c4",
-      "time": "2026-08-04 13:02:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "09868.HK",
-        "Impact bearish",
-        "09927.HK",
-        "02015.HK"
-      ],
-      "text": "Hong Kong-listed auto shares mostly fell. XPeng Inc. (09868.HK) fell more than 5%, SERES (09927.HK) fell over 4%, and Li Auto (02015.HK) and Chery Automobile (09973.HK) fell more than 3%."
-    },
-    {
-      "id": "5023676",
-      "time": "2026-08-04 13:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：土耳其是新興市場主要債務發行國，也是伊斯蘭債券發行國；外國投資者需求依然旺盛。"
-    },
-    {
-      "id": "5023675",
-      "time": "2026-08-04 13:01:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田汽車第一季度經營利潤1.06萬億日元，預估1.07萬億日元。豐田汽車第一季度淨利潤1.48萬億日元，預估1.04萬億日元。"
-    },
-    {
-      "id": "5023674",
-      "time": "2026-08-04 13:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田汽車預計全年經營利潤3.40萬億日元，此前預計3.00萬億日元。"
-    },
-    {
-      "id": "mkt:019fcb25-5b57-7aab-8f64-2b9168e35899",
-      "time": "2026-08-04 13:00:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【ChiNext Index up more than 5% in afternoon trade】By afternoon trade China’s ChiNext Index was up more than 5.0%; the Shenzhen Component gained 2.75% and the Shanghai Composite rose 0.16%. More than 3,700 A-share stocks advanced."
-    },
-    {
-      "id": "5023673",
-      "time": "2026-08-04 13:00:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田汽車 仍然預測全年全球汽車銷量1,118萬輛。"
-    },
-    {
-      "id": "5023672",
-      "time": "2026-08-04 13:00:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲5.02%，現報3468.383點；上證指數漲0.14%，現報3815.035點；深證成指漲2.81%，現報13826.128點。"
-    },
-    {
-      "id": "mkt:019fcb24-f127-7aab-8f64-21a9f4f330f4",
-      "time": "2026-08-04 13:00:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Kioxia launches GP1 SSD series targeting AI storage market】Kioxia has launched the KIOXIA GP1 SSD series, its first drives to support GPU direct access to high‑speed flash, claiming up to 100M IOPS random read. The GP1 is positioned for emerging AI storage architectures that bring high‑speed flash into GPU memory systems, allowing GPUs to access larger datasets at far lower cost than adding HBM and improving GPU utilization."
     }
   ]
 }
