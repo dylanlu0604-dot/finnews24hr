@@ -1,7 +1,122 @@
 {
   "date": "2026-08-11",
-  "count": 2047,
+  "count": 2060,
   "items": [
+    {
+      "id": "5035783",
+      "time": "2026-08-11 18:56:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金馬遊樂：更新向特定物件發行股票申請檔案並調整方案】金馬遊樂公告稱，公司於2026年8月4日收到深交所關於向特定物件發行股票的第二輪稽核問詢函，並會同中介機構進行回覆。8月11日，公司召開董事會，審議透過調整2026年度向特定物件發行股票方案，對募集資金用途及數額進行調整。同時，公司會同中介機構修訂上一輪問詢函回覆內容，更新募集說明書等申請檔案。本次發行尚需透過深交所稽核及獲中國證監會同意註冊，存在不確定性。"
+    },
+    {
+      "id": "te:markets:574421",
+      "time": "2026-08-11 18:56:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Extends Rally on US-Iran Deal Uncertainty — Crude oil rose above $83 per barrel on Tuesday, extending gains for a fourth consecutive session as hopes for a US-Iran agreement to fully reopen the Strait of Hormuz continued to fade. President Donald Trump introduced new demands on Tehran, further complicating negotiations over the strategic waterway. Trump said that Iran would be required to provide compensation for people it has killed in conflicts as part of future negotiations, following Tehran’s own calls for reparations related to the war. Meanwhile, a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Oil prices were also supported by concerns over US inventories, with the latest data showing that crude stocks held in the Strategic Petroleum Reserve had fallen to their lowest level in more than four decades."
+    },
+    {
+      "id": "5035782",
+      "time": "2026-08-11 18:56:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室：紅海南部一艘船舶遭不明拋射物襲擊。"
+    },
+    {
+      "id": "mkt:019ff076-d58d-7aab-8ff0-1e6b3240afc6",
+      "time": "2026-08-11 18:55:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "France's National News Information Alliance filed a complaint with the French antitrust regulator against Google (GOOG.O) over its AI business."
+    },
+    {
+      "id": "5035781",
+      "time": "2026-08-11 18:55:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：就外國投資組合投資者參與交易所交易商品衍生品(ETCD)業務釋出諮詢檔案。"
+    },
+    {
+      "id": "5035780",
+      "time": "2026-08-11 18:55:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【下游補庫意願增強 國內市場煉焦煤價格延續偏強上漲】今日國內市場煉焦煤價格延續偏強上漲，臨汾安澤市場煉焦煤價格漲10元/噸，低硫主焦精煤A9、S0.5、V20、G85出廠價現金含稅2010元/噸。供應方面，目前焦煤供給缺口依舊存在，尤其煤種的結構性問題難改，國內安監嚴格的背景下，焦煤產量恢復十分緩慢。需求方面，鐵水產量回升，焦炭短期止跌企穩，市場心態邊際提振，下游適當補庫意願增強，對焦煤價格形成一定支撐。整體來看，短期內焦煤受供應偏緊主導，仍將維持震盪偏強執行格局。 (我的鋼鐵網)"
+    },
+    {
+      "id": "mkt:019ff076-6ae6-7aab-8ff0-13a3369a9f6b",
+      "time": "2026-08-11 18:55:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Houthi militants clashed with Yemeni forces in the Balag area, with more than 15 Houthi fighters killed or wounded."
+    },
+    {
+      "id": "5035779",
+      "time": "2026-08-11 18:55:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【源傑科技：擬投資約42.68億元建設半導體科技產業園專案】源傑科技公告，公司擬投資建設源傑半導體科技產業園專案，投資總額約為42.68億元人民幣（含土地出讓金）。該專案旨在突破現有產能瓶頸，擴大高階鐳射器晶片生產規模，建設地點位於陝西省西鹹新區灃西新城，專案建設期為24個月。本次投資事項已獲公司董事會審議透過，尚需提交股東會審議。"
+    },
+    {
+      "id": "5035778",
+      "time": "2026-08-11 18:54:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國媒體機構綜合新聞聯盟已就谷歌人工智慧相關事項向法國反壟斷監管機構提出申訴。"
+    },
+    {
+      "id": "5035777",
+      "time": "2026-08-11 18:53:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：瑞士聯邦院小組推遲就瑞銀資本監管規則作出決議。"
+    },
+    {
+      "id": "mkt:019ff074-d3ab-7aab-8ff0-094264909f25",
+      "time": "2026-08-11 18:53:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish presidential office says Palestinian President Mahmoud Abbas will make an official visit to Turkey from Aug 11-13, 2026; talks will cover the latest Palestinian situation, bilateral ties and regional developments."
+    },
+    {
+      "id": "5035776",
+      "time": "2026-08-11 18:53:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鵬鼎控股：子公司擬向銀行申請最高約25.98億元授信額度】鵬鼎控股公告稱，公司於8月11日召開董事會會議，審議透過全資/控股子公司向銀行申請授信額度的議案。其中，慶鼎精密電子（淮安）有限公司擬向招商銀行深圳分行申請24億元人民幣授信，為新增額度；泰國子公司向渣打銀行（泰國）等三家銀行分別申請6000萬美元、10000萬美元、11000萬美元，分別為續約或增額。最終以銀行審批為準，董事會授權董事長沈慶芳或其指定代表人簽署相關檔案。"
+    },
+    {
+      "id": "5035775",
+      "time": "2026-08-11 18:52:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【君逸數碼：變更募投專案為智算中心建設及運營專案】君逸數碼公告稱，公司擬將“地下綜合管廊智慧管理運營平臺升級建設專案”等三個原募投專案終止，變更為“智算中心建設及運營專案”，並將原擬投入上述專案尚未使用的募集資金及其孳息18,422.00萬元投入新專案。新專案計劃投資總額20,545.79萬元，建設期一年，預計年均營收約9627.53萬元，靜態投資回收期5.15年。該事項已獲董事會透過，保薦機構無異議。"
+    },
     {
       "id": "mkt:019ff074-311e-7aab-8ff0-0026a2c44a13",
       "time": "2026-08-11 18:52:54",
