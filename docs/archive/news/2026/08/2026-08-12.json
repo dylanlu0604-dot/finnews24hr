@@ -1,7 +1,72 @@
 {
   "date": "2026-08-12",
-  "count": 293,
+  "count": 300,
   "items": [
+    {
+      "id": "5036373",
+      "time": "2026-08-12 04:09:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Oracle 部分團隊裁員比例或將達到兩位數。"
+    },
+    {
+      "id": "mkt:019ff271-4b95-7aab-8ffa-4e2f3d2afd57",
+      "time": "2026-08-12 04:08:58",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Business Insider cites sources saying Oracle (ORCL.N) has drawn up a new round of layoffs, slated to be implemented this month."
+    },
+    {
+      "id": "5036372",
+      "time": "2026-08-12 04:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic 將向 EROCK 採購約 470 兆瓦電力裝置。"
+    },
+    {
+      "id": "mkt:019ff26f-63e8-7aab-8ffa-4453e9bc5c26",
+      "time": "2026-08-12 04:06:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pezeshkian says strengthening ties with Pakistan would help regional security】Iranian President Pezeshkian, after meeting Pakistan Interior Minister Naqvi, said Tehran is willing to deepen relations with Islamabad across political, economic, trade, cultural and security fields and that stronger bilateral cooperation would \"enhance regional stability and security.\" Naqvi called Iran-Pakistan ties \"firm and unbreakable\" and said Islamabad is determined to expand relations with Tehran."
+    },
+    {
+      "id": "mkt:019ff26e-9f13-7aab-8ffa-3b1abbe04527",
+      "time": "2026-08-12 04:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mali military says killed more than 1,800 terrorists in two months】Mali's military said on the 11th that between June 1 and July 31 its forces killed 1,850 terrorists and destroyed 45 terrorist bases. The air force flew 1,545 sorties and carried out 307 air strikes, the military press office said at a briefing in Bamako."
+    },
+    {
+      "id": "5036370",
+      "time": "2026-08-12 04:05:52",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "超微電腦第四財季淨銷售111.2億美元，分析師預期112.6億美元。\n第四財季調整後每股收益（EPS）為1.70美元，分析師預期1.59美元。\n預計第一財季淨銷售145億-155億美元，分析師預期119.9億美元。\n預計第一財季調整後EPS為1.01-1.10美元，分析師預期0.74美元。\n超微電腦美股盤後漲8%。"
+    },
+    {
+      "id": "te:markets:574510",
+      "time": "2026-08-12 04:05:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lumentum Holdings Inc earnings above expectations at 3.23 USD — Lumentum Holdings Inc (LITE) released earnings per share at 3.23 USD, compared to market expectations of 2.71 USD."
+    },
     {
       "id": "mkt:019ff26d-fd5e-7aab-8ffa-340e5a0a3c14",
       "time": "2026-08-12 04:05:22",

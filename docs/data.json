@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-12 04:05:57",
-  "count": 15643,
+  "updated": "2026-08-12 04:09:48",
+  "count": 15641,
   "items": [
+    {
+      "id": "5036373",
+      "time": "2026-08-12 04:09:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Oracle 部分團隊裁員比例或將達到兩位數。"
+    },
+    {
+      "id": "mkt:019ff271-4b95-7aab-8ffa-4e2f3d2afd57",
+      "time": "2026-08-12 04:08:58",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "Business Insider cites sources saying Oracle (ORCL.N) has drawn up a new round of layoffs, slated to be implemented this month."
+    },
+    {
+      "id": "5036372",
+      "time": "2026-08-12 04:07:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic 將向 EROCK 採購約 470 兆瓦電力裝置。"
+    },
+    {
+      "id": "mkt:019ff26f-63e8-7aab-8ffa-4453e9bc5c26",
+      "time": "2026-08-12 04:06:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pezeshkian says strengthening ties with Pakistan would help regional security】Iranian President Pezeshkian, after meeting Pakistan Interior Minister Naqvi, said Tehran is willing to deepen relations with Islamabad across political, economic, trade, cultural and security fields and that stronger bilateral cooperation would \"enhance regional stability and security.\" Naqvi called Iran-Pakistan ties \"firm and unbreakable\" and said Islamabad is determined to expand relations with Tehran."
+    },
+    {
+      "id": "mkt:019ff26e-9f13-7aab-8ffa-3b1abbe04527",
+      "time": "2026-08-12 04:06:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mali military says killed more than 1,800 terrorists in two months】Mali's military said on the 11th that between June 1 and July 31 its forces killed 1,850 terrorists and destroyed 45 terrorist bases. The air force flew 1,545 sorties and carried out 307 air strikes, the military press office said at a briefing in Bamako."
+    },
+    {
+      "id": "5036370",
+      "time": "2026-08-12 04:05:52",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "超微電腦第四財季淨銷售111.2億美元，分析師預期112.6億美元。\n第四財季調整後每股收益（EPS）為1.70美元，分析師預期1.59美元。\n預計第一財季淨銷售145億-155億美元，分析師預期119.9億美元。\n預計第一財季調整後EPS為1.01-1.10美元，分析師預期0.74美元。\n超微電腦美股盤後漲8%。"
+    },
+    {
+      "id": "te:markets:574510",
+      "time": "2026-08-12 04:05:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lumentum Holdings Inc earnings above expectations at 3.23 USD — Lumentum Holdings Inc (LITE) released earnings per share at 3.23 USD, compared to market expectations of 2.71 USD."
+    },
     {
       "id": "mkt:019ff26d-fd5e-7aab-8ffa-340e5a0a3c14",
       "time": "2026-08-12 04:05:22",
@@ -142415,88 +142480,6 @@
         "其他"
       ],
       "text": "SpaceX：第二季度航天業務調整後EBITDA虧損2.05億美元，市場預期虧損4.099億美元。"
-    },
-    {
-      "id": "5025279",
-      "time": "2026-08-05 04:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：第二季度火箭發射次數38次，市場預期43次。"
-    },
-    {
-      "id": "te:markets:572678",
-      "time": "2026-08-05 04:09:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Emerson Electric earnings below expectations at 1.52 USD — Emerson Electric (EMR) released earnings per share at 1.52 USD, compared to market expectations of 1.68 USD."
-    },
-    {
-      "id": "5025278",
-      "time": "2026-08-05 04:08:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：擁有大量投資於星艦、星鏈寬頻和移動衛星以及人工智慧平臺的能力。"
-    },
-    {
-      "id": "5025277",
-      "time": "2026-08-05 04:08:15",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX：第二季度末現金、現金等價物及有價證券總額達到1000億美元。"
-    },
-    {
-      "id": "5025276",
-      "time": "2026-08-05 04:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：第二季度人工智慧板塊資本支出為158.28億美元。"
-    },
-    {
-      "id": "5025275",
-      "time": "2026-08-05 04:07:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX第二季度末積壓訂單規模為475億美元。"
-    },
-    {
-      "id": "te:markets:572673",
-      "time": "2026-08-05 04:07:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Amgen earnings above expectations at 6.29 USD — Amgen (AMGN) released earnings per share at 6.29 USD, compared to market expectations of 5.59 USD."
-    },
-    {
-      "id": "5025274",
-      "time": "2026-08-05 04:07:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX第二季度研發費用35.5億美元，市場預期43.9億美元。"
-    },
-    {
-      "id": "5025273",
-      "time": "2026-08-05 04:06:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SpaceX釋出季度財報後，盤後交易股價上漲2%。"
     }
   ]
 }
