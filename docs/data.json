@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-12 02:02:36",
-  "count": 15631,
+  "updated": "2026-08-12 02:06:25",
+  "count": 15634,
   "items": [
+    {
+      "id": "5036310",
+      "time": "2026-08-12 02:03:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胡塞武裝在曼德海峽打擊一艘運輸沙特軍事裝備的船隻】葉門胡塞武裝控制的馬西拉電視臺11日報道稱，當天胡塞武裝在曼德海峽對一艘運輸沙特軍事裝備的船隻實施了打擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff1fd-95ff-7aab-8ff8-cecb12056e2d",
+      "time": "2026-08-12 02:02:35",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Banque de France expects France's economy to grow 0.2% in Q3."
+    },
+    {
+      "id": "mkt:019ff1fd-82c5-7aab-8ff8-c221dbbbfcf6",
+      "time": "2026-08-12 02:02:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Houthi-controlled Saba news agency said Houthi forces attacked a Saudi vessel carrying military equipment in the Bab al-Mandeb Strait."
+    },
     {
       "id": "te:markets:574498",
       "time": "2026-08-12 02:01:50",
