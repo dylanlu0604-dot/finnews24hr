@@ -1,7 +1,59 @@
 {
   "date": "2026-08-11",
-  "count": 741,
+  "count": 746,
   "items": [
+    {
+      "id": "mkt:019fee99-fdaf-7aab-8fe4-bd3f158e4a84",
+      "time": "2026-08-11 10:14:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold's intraday gain widened to 1.00%, trading at $4,434.15/oz."
+    },
+    {
+      "id": "5034897",
+      "time": "2026-08-11 10:13:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "深證成指盤中轉漲，創業板指現漲0.4%。"
+    },
+    {
+      "id": "mkt:019fee98-cc19-7aab-8fe4-b10b73c7d427",
+      "time": "2026-08-11 10:13:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Composite Index turned positive intraday; ChiNext Index up 0.4%."
+    },
+    {
+      "id": "5034896",
+      "time": "2026-08-11 10:12:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股指下跌1%至6301.01點。"
+    },
+    {
+      "id": "te:markets:574244",
+      "time": "2026-08-11 10:11:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Hover Near Flatline — The Hang Seng Index was little changed on Tuesday, edging up 0.1% to 26,015, as investors turned cautious ahead of the US July CPI report later in the day. Sentiment remained supported by continued interest in Chinese equities and solid corporate earnings, but weakness in technology shares weighed on the market after semiconductor stocks led Wall Street lower overnight. Techtronic Industries remained in focus after the power-tool maker reported first-half profit above market expectations, with gross margin rising to a record 42.9%. Investors also watched Creality following its Hong Kong listing, as the Shenzhen-based 3D-printer maker seeks to move toward higher-value, easier-to-use products, while robust IPO activity continued to underpin market sentiment. Among notable movers, Meituan (2.3%), MiniMax (2.4%), Zijin Gold International (0.8%), Wuxi Biologics (2.0%), and XtalPi Holdings (4.2%)."
+    },
     {
       "id": "5034895",
       "time": "2026-08-11 10:10:50",
