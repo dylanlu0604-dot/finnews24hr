@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-12 01:38:36",
-  "count": 15624,
+  "updated": "2026-08-12 01:42:30",
+  "count": 15626,
   "items": [
+    {
+      "id": "mkt:019ff1e8-c738-7aab-8ff8-9577942df2b2",
+      "time": "2026-08-12 01:39:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's finance minister said the government will declare an economic state of emergency following the earthquake."
+    },
+    {
+      "id": "mkt:019ff1e7-9ab1-7aab-8ff8-8d2651cc5c4d",
+      "time": "2026-08-12 01:38:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Colombia's finance minister says the country is facing the most severe economic crisis in its history."
+    },
+    {
+      "id": "mkt:019ff1e7-5d3e-7aab-8ff8-836df026dc41",
+      "time": "2026-08-12 01:38:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Libya's National Oil Corporation said a fire at a fuel tank at the Zawiya refinery has been brought under control."
+    },
     {
       "id": "5036300",
       "time": "2026-08-12 01:36:55",
@@ -142303,18 +142336,6 @@
         "Importance 0"
       ],
       "text": "Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Orange Juice lost 4.73%, and in the last 12 months, it decreased 32.3%."
-    },
-    {
-      "id": "mkt:019fcddb-3ba8-7aab-8f75-5cb9a19751dd",
-      "time": "2026-08-05 01:38:44",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Turkey warns Russia-Ukraine spillover threatens Black Sea civilian shipping】Turkey on the 4th said it is seriously concerned after two commercial freighters, Yasar and Nadezhda, were struck by drone attacks on the Black Sea after sailing from Russia’s Novorossiysk on the 3rd; multiple crew were injured. Turkey’s foreign ministry warned the conflict’s spillover now threatens civilian shipping and regional stability, and called for urgent, concrete measures from all parties, particularly Russia and Ukraine, to safeguard maritime navigation and prevent further attacks on commercial vessels."
     }
   ]
 }
