@@ -1,7 +1,130 @@
 {
   "date": "2026-08-11",
-  "count": 1755,
+  "count": 1769,
   "items": [
+    {
+      "id": "5035565",
+      "time": "2026-08-11 17:23:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【波蘭國防部：波蘭申請歐盟其他國家未使用的武器採購貸款】波蘭國防部副部長帕維爾·扎列夫斯基在波蘭廣播電臺節目中表示，波蘭正在尋求其他國家未使用的貸款，以便根據“歐洲安全行動”（Security Action for Europe）計劃購買武器。"
+    },
+    {
+      "id": "5035564",
+      "time": "2026-08-11 17:23:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根士丹利給予SpaceX 300美元目標價】摩根士丹利針對 SpaceX 擬以 600 億美元收購 AI 程式碼平臺 Cursor 一事，維持 300 美元目標價，樂觀情景估值為 600 美元。財富 500 強企業中超過 64% 以及 5 萬家企業正在使用 Cursor。摩根士丹利預計 Cursor 年度經常性收入年底將達到 80 億美元，2030 年約為 330 億美元。主要催化因素包括第三季度披露資訊、即將推出的 Grok 4.6/4.7、Grok 5、潛在的 Composer 3 以及年度經常性收入最新資料。"
+    },
+    {
+      "id": "5035563",
+      "time": "2026-08-11 17:22:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF嘉實：二級市場價格溢價 8月12日開市起停牌】納指ETF嘉實公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，8月11日收盤價為2.087元，收盤時基金份額參考淨值為1.8826元。為保護投資者利益，基金於8月12日開市起停牌，自10:30起復牌，停牌期間贖回業務照常辦理。若8月12日溢價幅度未有效回落，基金有權申請相關停牌措施。"
+    },
+    {
+      "id": "5035562",
+      "time": "2026-08-11 17:21:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天合光能：江蘇盤基投資、高紀凡詢價轉讓定價12.59元/股】天合光能公告，根據2026年8月11日詢價申購情況，公司股東江蘇盤基投資有限公司、高紀凡本次詢價轉讓初步確定的轉讓價格為12.59元/股。參與本次詢價轉讓報價及申購的機構投資者家數為33家，合計有效認購股份數量為1.04億股，有效認購倍數為2.9倍。本次詢價轉讓擬轉讓股份已獲全額認購，初步確定受讓方為9家機構投資者，擬受讓股份總數為3630萬股。"
+    },
+    {
+      "id": "5035561",
+      "time": "2026-08-11 17:21:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF大成：提示二級市場交易價格溢價風險】納斯達克100ETF大成公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。8月11日，其二級市場收盤價為1.805元，收盤時基金份額參考淨值為1.6751元。若8月12日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "5035560",
+      "time": "2026-08-11 17:21:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數收盤上漲1%，報5754.17點。"
+    },
+    {
+      "id": "mkt:019ff020-7830-7aab-8fee-39944ef1aead",
+      "time": "2026-08-11 17:21:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Harvest Nasdaq ETF will be suspended from market open on Aug 12, 2026, and will resume trading at 10:30."
+    },
+    {
+      "id": "mkt:019ff020-3c0b-7aab-8fee-3302cbd832a2",
+      "time": "2026-08-11 17:21:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix to raise China NAND capacity about 50% as Dalian Phase II restarts】SK Hynix plans to restart construction of Phase II at its Dalian NAND flash plant, increasing China NAND capacity by roughly 50%. The project, halted four years ago amid a weak memory cycle, is being reactivated; the company plans to complete semiconductor equipment imports this year and to begin production in 1H next year. SK Hynix cited surging enterprise SSD demand from AI data center adoption and a near tenfold rise in NAND prices over the past year."
+    },
+    {
+      "id": "mkt:019ff020-204e-7aab-8fee-2a099e096f8d",
+      "time": "2026-08-11 17:21:04",
+      "tags": [
+        "MKT News",
+        "QTEC"
+      ],
+      "text": "Invesco Nasdaq Technology ETF will be suspended from market open on Aug 12, 2026 and is scheduled to resume trading at 10:30 a.m. on the same day."
+    },
+    {
+      "id": "mkt:019ff020-1fef-7aab-8fee-27919e3b2df1",
+      "time": "2026-08-11 17:21:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GF Fund’s Nasdaq-tracking ETF will suspend trading from market open on Aug 12, 2026 and will resume trading at 10:30 on Aug 12, 2026. Redemption services will continue to operate normally during the suspension."
+    },
+    {
+      "id": "te:economy:574403",
+      "time": "2026-08-11 17:20:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "South Africa Unemployment Rate Rises to 2022-Highs — South Africa’s unemployment rate rose to 33.6% in second quarter of 2026 from 32.7% in the first quarter, the highest since the second quarter of 2022. The number of unemployed people increased 4.2% to 8.481 million, while employment edged down 0.1% to 16.739 million. The labor force grew 1.3% to 25.220 million, although the participation rate slipped to 59.6%. The potential labor force, comprising people available but not seeking work or seeking work but unavailable, fell by 280,000 to 4.571 million, while those outside the labor force for other reasons increased by 72,000 to 12.519 million. Labor underutilization worsened, with the combined unemployment and time-related underemployment rate rising to 36.6% from 35.9%. The combined rate of unemployment and the potential labor force edged up to 43.8% from 43.7%, while the broader measure of labor underutilization remained at 46.3%."
+    },
+    {
+      "id": "5035559",
+      "time": "2026-08-11 17:20:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【共達電聲：控股股東一致行動人韋豪創芯增持1.49%股份，成為第一大股東】共達電聲公告，控股股東無錫韋感的一致行動人上海韋豪創芯投資管理有限公司於2026年8月7日、8月10日透過集中競價交易方式累計增持公司股份543.52萬股，佔公司總股本的1.49%，成交總金額為人民幣1.63億元（不含交易費用）。本次增持後，韋豪創芯持有公司股份3227.48萬股，佔總股本8.85%，成為公司第一大股東；控股股東無錫韋感及其一致行動人韋豪創芯合計持股比例由15.00%增加至16.49%，權益變動觸及1%整數倍。本次增持不會導致公司控股股東、實際控制人發生變化。"
+    },
+    {
+      "id": "5035558",
+      "time": "2026-08-11 17:20:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【第一醫藥：股票交易異常波動 不存在應披露未披露重大事項】第一醫藥公告稱，2026年8月7日、8月10日、8月11日，公司股票連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司經營活動正常，業務未變，行業政策無重大調整。公司及控股股東不存在應披露而未披露的重大資訊，未發現董監高、控股股東及其一致行動人買賣公司股票情況。提醒投資者注意風險，理性投資。"
+    },
+    {
+      "id": "5035557",
+      "time": "2026-08-11 17:20:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羚銳製藥：上半年歸母淨利潤同比增長4.36%】羚銳製藥8月11日披露半年報，公司上半年實現營業收入21.48億元，同比增長2.32%；歸屬於上市公司股東的淨利潤4.95億元，同比增長4.36%；基本每股收益0.874元/股。"
+    },
     {
       "id": "5035555",
       "time": "2026-08-11 17:19:34",
