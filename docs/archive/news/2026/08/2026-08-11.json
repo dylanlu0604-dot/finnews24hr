@@ -1,7 +1,743 @@
 {
   "date": "2026-08-11",
-  "count": 921,
+  "count": 999,
   "items": [
+    {
+      "id": "te:economy:574280",
+      "time": "2026-08-11 12:42:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Dutch July Inflation Revised Slightly Up to 3.2% — The annual inflation rate in the Netherlands for July 2026 was revised slightly upward to 3.2% from a preliminary estimate of 3.1%, compared with 2.9% in June. The main upward pressure came from a faster increase in motor fuel prices (22% vs 17.3% in June) and a rebound in energy costs (1.1% vs -1.8%). The expansion of import duties on consumer goods ordered from outside the European Union also contributed to higher inflation. Meanwhile, housing price growth slowed to 4.3% from 4.7%. On a monthly basis, consumer prices rose 1.6%, rebounding from a 0.6% fall in the previous month."
+    },
+    {
+      "id": "5035052",
+      "time": "2026-08-11 12:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【官方：網傳“九龍坡區搶銀行事件”系謠言】重慶市九龍坡區網信辦官方賬號8月11日發文：近日，有網民在網際網路平臺釋出“九龍坡區搶銀行事件”的相關帖文，引發網民關注。經核實，網傳資訊系謠言。經向相關部門核實，九龍坡區近期未發生此類事件，網傳資訊不實。網信九龍坡提醒，網民在網路上釋出資訊，要真實、客觀、準確。不造謠、不信謠、不傳謠，共同營造清朗網路空間。"
+    },
+    {
+      "id": "5035051",
+      "time": "2026-08-11 12:41:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【財通福鑫定開混合：將於8月11日下午開盤起至當日收盤停牌】財通基金管理有限公司公告，截至2026年8月11日上海證券交易所午間收盤，旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年8月11日下午開盤起至當日收盤停牌。"
+    },
+    {
+      "id": "5035050",
+      "time": "2026-08-11 12:41:11",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【澳大利亞聯儲維持政策利率目標在4.35%不變 符合預期】澳大利亞聯儲在8月政策會議結束後發表宣告稱：委員會仍致力於確保高通脹不會固化。今年以來，現金利率目標已三次上調，目前金融環境比之前更緊，經濟增速看起來也如預期般放緩。但通脹率仍然過高。預計通脹率要到2027年底才能回落至目標區間中點附近，而且這一預測面臨上行風險鑑於貨幣政策被認為具有一定限制性，委員會決定在評估經濟發展形勢的同時，維持現金利率目標不變。委員會將繼續採取一切必要措施，確保通脹率可持續地迴歸目標水平，包括在上行風險成為現實時進一步提高現金利率目標。今天的政策決定獲得全體一致同意。"
+    },
+    {
+      "id": "5035049",
+      "time": "2026-08-11 12:40:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI與通用汽車簽署電動汽車電池聯合開發協議。"
+    },
+    {
+      "id": "5035048",
+      "time": "2026-08-11 12:40:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行：國內經濟和通脹前景依然不明朗。"
+    },
+    {
+      "id": "te:markets:574278",
+      "time": "2026-08-11 12:39:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Decline on Oil Concerns — India’s BSE Sensex fell about 0.5% to 78,187 on Tuesday, extending its decline for a third straight day, as rising crude oil prices weighed on investor sentiment and heightened concerns over inflation and corporate earnings. Brent crude climbed to a one-week high of $87.7 per barrel amid renewed geopolitical tensions and fading hopes of a near-term US-Iran agreement, raising concerns for oil-importing India. Among individual stocks, BSE remained in focus after the National Stock Exchange said the exchange operator would replace Wipro in the benchmark Nifty 50 index from September 30. Meanwhile, Adani Group stocks may gain after a US judge dismissed the fraud and bribery case against Gautam Adani while criticizing the Justice Department’s decision to drop the charges. Notable laggards included Bharat Forge (-2.2%), Himadri (-1.5%), Bajaj Finance (-1.1%), BSE Ltd (-1.0%), and Vedanta (-1.0%)."
+    },
+    {
+      "id": "5035047",
+      "time": "2026-08-11 12:39:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯沃羅涅日地區遭無人機襲擊，造成一人死亡，多處倉庫起火。"
+    },
+    {
+      "id": "5035046",
+      "time": "2026-08-11 12:38:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華峰集團等成立前沿智算私募投資基金】企查查APP顯示，近日，華峰前沿智算（上海）私募投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由華峰集團有限公司、北京九章雲極科技股份有限公司等共同出資。"
+    },
+    {
+      "id": "5035045",
+      "time": "2026-08-11 12:38:49",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲因企業投資增強和人口增長而上調GDP預期。"
+    },
+    {
+      "id": "5035044",
+      "time": "2026-08-11 12:38:29",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲下調通脹預期，預計失業率將略有上升。"
+    },
+    {
+      "id": "mkt:019fef1d-1ab3-7aab-8fe7-55b5d638eaac",
+      "time": "2026-08-11 12:38:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin Fixed-Open Mixed Fund will suspend trading from the afternoon open on 11 August 2026 through that day’s market close."
+    },
+    {
+      "id": "mkt:019fef1c-f0b7-7aab-8fe7-4b13b28cc461",
+      "time": "2026-08-11 12:37:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Treasurer Chalmers said the Reserve Bank of Australia’s decision to hold interest rates steady amid rising global uncertainty and persistent domestic pressure was welcome."
+    },
+    {
+      "id": "mkt:019fef1c-c09a-7aab-8fe7-416ad2210cab",
+      "time": "2026-08-11 12:37:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Reserve Bank of Australia holds rates for second meeting to assess developments】Reserve Bank of Australia held its policy rate unchanged for a second consecutive meeting, in line with economists’ and money-market expectations, saying it would pause to assess developments. Renewed Middle East conflict lifted oil prices, but July inflation undershot forecasts, removing market odds of an August hike and giving the board room to wait on Strait of Hormuz developments. RBA forecasts show inflation remaining above 2.5% until early 2028. The bank warned a rapidly deteriorating housing market — prices have started to fall after three hikes in 1H and the downturn accelerated after the federal budget tightened tax concessions for property investors — could hit household consumption and GDP; larger-than-expected house-price falls would further weaken growth."
+    },
+    {
+      "id": "5035043",
+      "time": "2026-08-11 12:37:46",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "澳元兌美元在短暫下跌後持穩於0.7050美元，此前澳洲聯儲一如預期維持利率不變。"
+    },
+    {
+      "id": "te:economy:574277",
+      "time": "2026-08-11 12:37:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "RBA Holds Key Rate Steady — The Reserve Bank of Australia kept its cash rate unchanged at 4.35% in a unanimous decision at its August 2026 meeting, in line with market expectations. Policymakers noted that financial conditions have tightened following three rate increases earlier this year. They also noted that inflation remains too high, with capacity pressures contributing to the pickup in H2 2025 and higher oil and related commodity prices linked to the Middle East conflict adding pressure. Higher fuel costs are also passing through to other goods and services, while short-term inflation expectations, though easing, remain elevated. Meanwhile, consumer spending growth is slowing, housing momentum has weakened and labour market conditions have eased more than expected. The Board expects inflation to remain high and return to around the midpoint of the target range in late 2027, with upside risks. Policymakers held rates while assessing incoming data but may raise the cash rate if inflation risks materialise."
+    },
+    {
+      "id": "mkt:019fef1c-66f4-7aab-8fe7-38a711b18541",
+      "time": "2026-08-11 12:37:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA says the Middle East conflict's impact on inf has so far been smaller than expected, but overall inf remains too high."
+    },
+    {
+      "id": "mkt:019fef1c-3c47-7aab-8fe7-364458a0dae4",
+      "time": "2026-08-11 12:37:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Reserve Bank of Australia says global oil supply disruptions are directly lifting inflation."
+    },
+    {
+      "id": "mkt:019fef1c-14d9-7aab-8fe7-291bf5b955f3",
+      "time": "2026-08-11 12:37:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of Australia said the cash rate target has been raised in three consecutive moves since the start of the year, financial conditions are tighter than before, and the economy appears to be slowing as expected."
+    },
+    {
+      "id": "mkt:019fef1b-d58c-7aab-8fe7-2230448e4c9d",
+      "time": "2026-08-11 12:36:46",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia says financial conditions are tighter than previously and the economy appears to be slowing as expected."
+    },
+    {
+      "id": "te:markets:574276",
+      "time": "2026-08-11 12:36:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Singapore Stocks Hit Record High After GDP Data — Singapore's stocks rose 47 points, or 0.8%, to 5,745 around noon, as the market resumed trading after closing for a holiday, extending gains for a third consecutive session, supported by strong economic data. The latest data showed that Singapore's Q2 GDP was revised higher to 5.9% from 5.7%, buoyed by AI-related demand, though slower than the 6.3% growth in Q1. The broader index hit a record high, mainly supported by gains in the communications, energy minerals, producer manufacturing, and financial sectors. However, a downbeat session on Wall Street overnight capped gains amid rising oil prices and weakness in the technology sector. Traders also awaited the release of US inflation data this week for clues about the Fed's monetary policy decision at its upcoming meeting. Among the best performers were Yangzijiang Shipbuilding Holdings (9.1%), OCBC (3.8%), Hongkong Land Holdings (2.5%), and DBS (1.0%)."
+    },
+    {
+      "id": "mkt:019fef1b-a6b0-7aab-8fe7-1be736c04203",
+      "time": "2026-08-11 12:36:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reserve Bank of Australia said monetary policy is considered slightly restrictive, and the Board has decided to leave the cash rate target unchanged to assess economic progress."
+    },
+    {
+      "id": "mkt:019fef1b-5c0d-7aab-8fe7-14eac33360f0",
+      "time": "2026-08-11 12:36:15",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia: labour-market leading indicators point to only limited easing in the near term."
+    },
+    {
+      "id": "mkt:019fef1b-3d80-7aab-8fe7-0f6ec146a721",
+      "time": "2026-08-11 12:36:07",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia: inflation remains too high."
+    },
+    {
+      "id": "mkt:019fef1b-3431-7aab-8fe7-040b56b44cc9",
+      "time": "2026-08-11 12:36:05",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia says short-term inflation expectations have eased but remain above start-of-year levels."
+    },
+    {
+      "id": "mkt:019fef1a-f019-7aab-8fe6-fd3521a5e1d8",
+      "time": "2026-08-11 12:35:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Reserve Bank of Australia said its Board will continue to take necessary steps to ensure inflation returns sustainably to target, including further increases in the cash rate target if upside risks emerge."
+    },
+    {
+      "id": "mkt:019fef1a-a7a1-7aab-8fe6-f70603472345",
+      "time": "2026-08-11 12:35:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia said trimmed mean inflation remains elevated and was little changed from the March quarter."
+    },
+    {
+      "id": "mkt:019fef1a-540e-7aab-8fe6-ed6309579d04",
+      "time": "2026-08-11 12:35:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia said its board remains focused on ensuring high inflation does not become entrenched."
+    },
+    {
+      "id": "mkt:019fef1a-219a-7aab-8fe6-e0c7582e351c",
+      "time": "2026-08-11 12:34:54",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia says inflation will rise markedly in H2 2025; data since early this year confirm part of the increase is due to rising capacity pressures."
+    },
+    {
+      "id": "5035042",
+      "time": "2026-08-11 12:34:49",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行：CPI到2027年末前不會回到目標中點。"
+    },
+    {
+      "id": "mkt:019fef19-c7d9-7aab-8fe6-d90e336f1212",
+      "time": "2026-08-11 12:34:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia: the committee will monitor incoming data and changes in the outlook and risk assessment to guide policy decisions."
+    },
+    {
+      "id": "5035041",
+      "time": "2026-08-11 12:34:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳大利亞財長查默斯：在全球不確定性加劇且國內壓力持續之際，澳洲央行維持利率不變的決定令人欣慰。"
+    },
+    {
+      "id": "5035040",
+      "time": "2026-08-11 12:34:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞儲備銀行：房地產市場動能已經發生轉變，部分首府城市房價下跌，新增住房貸款降幅顯著。"
+    },
+    {
+      "id": "mkt:019fef19-79ac-7aab-8fe6-d40c3fcde841",
+      "time": "2026-08-11 12:34:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reserve Bank of Australia says today's policy decision was unanimous."
+    },
+    {
+      "id": "mkt:019fef19-4dcc-7aab-8fe6-c87ecabd9cd9",
+      "time": "2026-08-11 12:34:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia says housing market is weaker than expected and loan growth will slow further."
+    },
+    {
+      "id": "mkt:019fef19-423a-7aab-8fe6-c6cd6885c77e",
+      "time": "2026-08-11 12:33:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AUDUSD",
+        "Impact bullish",
+        "S&P500",
+        "Copper"
+      ],
+      "text": "Reserve Bank of Australia upgrades global growth outlook, citing the AI boom and resilience to the Gulf conflict."
+    },
+    {
+      "id": "5035039",
+      "time": "2026-08-11 12:33:57",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數在央行維持利率不變後擴大漲幅，最新上漲0.5%，報9,282.90點。"
+    },
+    {
+      "id": "mkt:019fef19-0add-7aab-8fe6-b860d976b4c3",
+      "time": "2026-08-11 12:33:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia: recent government budget has not changed the outlook for public demand."
+    },
+    {
+      "id": "mkt:019fef18-fbf2-7aab-8fe6-b58a8c97e358",
+      "time": "2026-08-11 12:33:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia says the labour market remains slightly tight and is expected to stay stable in the near term before gradually easing."
+    },
+    {
+      "id": "5035038",
+      "time": "2026-08-11 12:33:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行：全球石油供應中斷正在直接加劇通脹。"
+    },
+    {
+      "id": "mkt:019fef18-ddc9-7aab-8fe6-ab643cd68b06",
+      "time": "2026-08-11 12:33:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Reserve Bank of Australia says its forecasts are based on technical assumptions that the cash rate will be 4.4% in Q4 2026, 4.5% in Q4 2027 and 4.4% in Q4 2028."
+    },
+    {
+      "id": "mkt:019fef18-8001-7aab-8fe6-a5c395d3e08c",
+      "time": "2026-08-11 12:33:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia projects revised average inflation will remain above 3% through mid-2027 and decline to 2.5% in early 2028."
+    },
+    {
+      "id": "mkt:019fef18-7f51-7aab-8fe6-9a783bd831b3",
+      "time": "2026-08-11 12:33:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia says resolution of the Middle East conflict remains uncertain; scenarios include inflation running above expectations and economic activity below expectations."
+    },
+    {
+      "id": "mkt:019fef18-45f2-7aab-8fe6-940dce0f889a",
+      "time": "2026-08-11 12:32:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia expects inflation to return to the midpoint of its target range only by end‑2027 and says there is upside risk to that outlook."
+    },
+    {
+      "id": "mkt:019fef18-110f-7aab-8fe6-8a2c8eb1f557",
+      "time": "2026-08-11 12:32:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia says inflation remains elevated and risks are skewed to the upside."
+    },
+    {
+      "id": "5035037",
+      "time": "2026-08-11 12:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）：如果通脹上行風險成為現實，將提高利率。"
+    },
+    {
+      "id": "mkt:019fef17-d42a-7aab-8fe6-85823b7101b0",
+      "time": "2026-08-11 12:32:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia projects unemployment at 4.5% in Q4 2026, 4.7% in Q4 2027 and 4.8% in Q4 2028."
+    },
+    {
+      "id": "5035036",
+      "time": "2026-08-11 12:32:22",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）：自年初以來，三次上調現金利率目標後，目前金融條件已較此前收緊，經濟增速也如預期呈現放緩態勢。"
+    },
+    {
+      "id": "mkt:019fef17-b6e7-7aab-8fe6-7bbe4eeb708e",
+      "time": "2026-08-11 12:32:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia expects CPI inflation of 3.6% in Q4 2027, 2.6% in Q4 2028 and 2.4% in Q4 2029."
+    },
+    {
+      "id": "em:jjsj_ozsj:202608113837718060",
+      "time": "2026-08-11 12:32:13",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳洲聯儲預計2026年第四季度GDP增速為1.4%，2027年第四季度為1.6%，2028年第四季度為1.8%。"
+    },
+    {
+      "id": "5035035",
+      "time": "2026-08-11 12:32:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行：整體通脹率仍過高。"
+    },
+    {
+      "id": "mkt:019fef17-6d56-7aab-8fe6-72b15b262401",
+      "time": "2026-08-11 12:31:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reserve Bank of Australia projects GDP growth of 1.4% in Q4 2026, 1.6% in Q4 2027 and 1.8% in Q4 2028."
+    },
+    {
+      "id": "5035034",
+      "time": "2026-08-11 12:31:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行（RBA）：截尾平均通脹率仍處於高位，較去年第三季度基本未變。"
+    },
+    {
+      "id": "5035033",
+      "time": "2026-08-11 12:31:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行：央行董事會仍將重點放在防止高通脹根深蒂固上。"
+    },
+    {
+      "id": "mkt:019fef17-083c-7aab-8fe6-6ddbd3053cb7",
+      "time": "2026-08-11 12:31:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia expects average inflation of 3.3% in Q4 2026, 2.6% in Q4 2027 and 2.4% in Q4 2028."
+    },
+    {
+      "id": "5035032",
+      "time": "2026-08-11 12:31:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞儲備銀行：今日的政策決定一致透過。儘管中東衝突對通脹的影響目前來看低於預期，但標題通脹率（Headline Inflation）依然過高。委員會將密切關注資料以及對前景和風險的動態評估，以此指導未來決策。"
+    },
+    {
+      "id": "mkt:019fef16-f3ef-7aab-8fe6-679d94915488",
+      "time": "2026-08-11 12:31:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Following the Reserve Bank of Australia's rate decision, AUD/USD briefly fell about 20 pips to 0.7043."
+    },
+    {
+      "id": "mkt:019fef16-ab88-7aab-8fe6-581799168558",
+      "time": "2026-08-11 12:31:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia said it has slightly raised its assumed rate of potential economic growth, citing population growth."
+    },
+    {
+      "id": "mkt:019fef16-71dc-7aab-8fe6-56937f46fd16",
+      "time": "2026-08-11 12:30:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia expects the Australian economy to return to balance in 2027, slightly earlier than previously estimated."
+    },
+    {
+      "id": "5035031",
+      "time": "2026-08-11 12:30:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI：具體投資計劃變更尚未最終確定。"
+    },
+    {
+      "id": "mkt:019fef16-2fd7-7aab-8fe6-496bed142136",
+      "time": "2026-08-11 12:30:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Reserve Bank of Australia adjusted its inflation expectations and expects the unemployment rate to rise slightly."
+    },
+    {
+      "id": "5035030",
+      "time": "2026-08-11 12:30:30",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行：董事會在今日召開的會議上決定，將現金利率目標維持在4.35%不變。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837717840",
+      "time": "2026-08-11 12:30:28",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "澳大利亞央行現金利率目標維持在4.35%，預估為4.35%。"
+    },
+    {
+      "id": "5035029",
+      "time": "2026-08-11 12:30:20",
+      "tags": [
+        "資料",
+        "央行",
+        "焦點"
+      ],
+      "text": "澳大利亞央行現金利率目標維持在4.35%，預估為4.35%。"
+    },
+    {
+      "id": "mkt:019fef15-e8c2-7aab-8fe6-415be97319cf",
+      "time": "2026-08-11 12:30:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD"
+      ],
+      "text": "【Reserve Bank of Australia holds cash rate at 4.35% as expected】The Reserve Bank of Australia kept its cash rate at 4.35% unchanged for a second consecutive meeting, in line with market expectations."
+    },
+    {
+      "id": "mkt:019fef15-d364-7aab-8fe6-3978dbfe1bbe",
+      "time": "2026-08-11 12:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AUDUSD"
+      ],
+      "text": "Reserve Bank of Australia policy rate to Aug 11: 4.35% actual, 4.35% expected, 4.35% prior."
+    },
+    {
+      "id": "mkt:019fef15-b346-7aab-8fe6-365e7130f52b",
+      "time": "2026-08-11 12:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | RBA Interest Rate Decision (Aug.11) | actual 4.35% | consensus 4.35% | previous 4.35%"
+    },
+    {
+      "id": "5035028",
+      "time": "2026-08-11 12:29:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星SDI：將與通用汽車就SDI-GM Synergy Cells Holdings簽署合資協議。"
+    },
+    {
+      "id": "5035027",
+      "time": "2026-08-11 12:29:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "九龍倉集團 每股中期派息0.20港元。"
+    },
+    {
+      "id": "5035026",
+      "time": "2026-08-11 12:28:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國信證券：腔鏡手術機器人國產崛起 進口替代與出海並進】國信證券釋出研報稱，腔鏡手術機器人是手術機器人商業化最成熟、臨床確定性最強的核心賽道，行業由進口絕對主導轉向國產多元競爭。配置證由甲類調整為乙類、\"十四五\"配額擴容，2026年1月手術機器人收費標準確立並明確四級加收體系，北京服務性租賃試點落地，醫院端匯入門檻持續降低，裝機放量有望加速。國產品牌憑藉更具價效比的裝置及遠端手術資質快速切入海外市場，出海邁入加速期。關注具備\"技術對標國際+價效比優勢+商業化領先\"三重屬性的頭部企業。"
+    },
+    {
+      "id": "mkt:019fef13-e407-7aab-8fe6-2ea7ca941578",
+      "time": "2026-08-11 12:28:05",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Vietnam, Australia to deepen defence and critical minerals cooperation】In a joint statement on Tuesday, Australian Prime Minister Albanese and the Vietnam president agreed to further strengthen defence and security cooperation and to step up efforts against transnational organised crime and people‑smuggling. During the Vietnam president's first visit to Australia, both sides pledged to increase trade and investment and to support \"resilient supply chains in critical minerals, semiconductors and clean energy.\""
+    },
+    {
+      "id": "5035024",
+      "time": "2026-08-11 12:27:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深圳市與沃爾瑪中國簽署戰略合作框架協議】據深視新聞，8月11日，深圳市人民政府與沃爾瑪（中國）投資有限公司簽署戰略合作框架協議。根據協議，雙方將在總部經濟提質擴容、全域全業態商業網路佈局、門店數字化升級與促消費聯動、跨境電商與進出口等多領域開展戰略合作。"
+    },
+    {
+      "id": "5035023",
+      "time": "2026-08-11 12:27:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "九龍倉集團上半年營收53.4億港元，上半年淨利潤4,800萬港元。"
+    },
+    {
+      "id": "mkt:019fef13-37fc-7aab-8fe6-226302fb5b1e",
+      "time": "2026-08-11 12:27:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01857.HK",
+        "Impact bearish"
+      ],
+      "text": "China Everbright Water (01857.HK) reported 1H revenue of HK$2.39 bln, down 27% YoY; profit attributable to equity holders was HK$517 mln, down 8% YoY."
+    },
+    {
+      "id": "5035022",
+      "time": "2026-08-11 12:27:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員稱，印度央行在外匯市場拋售美元以支撐盧比。"
+    },
+    {
+      "id": "5035021",
+      "time": "2026-08-11 12:26:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【申萬宏源：重視鋼鐵行業積極變化 頭部企業具備不錯向上彈性】申萬宏源釋出研報稱，當前鋼鐵行業基本面、估值、機構持倉均處於底部區域，重視行業積極變化。行業兼併重組也有望推動未來集中度的提升，預計供給格局整體將有所最佳化。該行預計後續鐵礦石價格中樞回落，推動鋼企利潤修復。綜合來看，當前週期底部情況下，頭部企業整體利潤均有一定支撐，且成本改善預期下，也有不錯向上彈性。"
+    },
+    {
+      "id": "mkt:019fef12-0172-7aab-8fe6-180d7b23331f",
+      "time": "2026-08-11 12:26:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doubao PR says hotel commission not an advertising fee, does not affect recommendation ranking】Douyin Life Services has set an independent rate for the Doubao channel's hotel orders: a software service fee of 11.4% plus a 0.6% payment fee, totaling 12%. After online debate over whether this is a fee for hotel recommendations or advertising, Doubao PR head Liu Xing said Doubao Life Services currently has no paid-promotion program; recommended hotels are not charged advertising fees; merchants cannot pay to influence recommendations or ranking; channel service fees are payable only after an order is completed."
+    },
+    {
+      "id": "5035020",
+      "time": "2026-08-11 12:25:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據塔斯社：俄羅斯共青城煉油廠發生火災；共青城煉油廠未停止運營。"
+    },
     {
       "id": "5035019",
       "time": "2026-08-11 12:23:55",
