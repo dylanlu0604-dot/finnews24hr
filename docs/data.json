@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-11 09:59:59",
-  "count": 15829,
+  "updated": "2026-08-11 10:03:55",
+  "count": 15833,
   "items": [
+    {
+      "id": "5034891",
+      "time": "2026-08-11 10:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪能股份等在瀘州成立新材料科技公司】企查查APP顯示，近日，豪能梯愛司新材料科技（瀘州）有限公司成立，經營範圍包含表面功能材料銷售；金屬表面處理及熱處理加工；真空鍍膜加工；新型膜材料製造等。企查查股權穿透顯示，該公司由豪能股份等共同持股。"
+    },
+    {
+      "id": "mkt:019fee8d-f84d-7aab-8fe4-908a47b466d8",
+      "time": "2026-08-11 10:01:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China's STAR 50 Index weakened in early trade, down more than 2%; constituent Zhongyuanjie Technology led decliners, falling over 8%."
+    },
+    {
+      "id": "mkt:019fee8d-e2dd-7aab-8fe4-8d7b3bce6ae8",
+      "time": "2026-08-11 10:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Front-month contract of the shipping index (European route) fell more than 5.00% intraday to 1,554.5 points."
+    },
+    {
+      "id": "5034890",
+      "time": "2026-08-11 10:01:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報1554.50點。"
+    },
+    {
+      "id": "5034889",
+      "time": "2026-08-11 10:01:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，源傑科技跌8.34％，盛美上海跌5.39％，中科飛測跌4.64％，中微公司跌4.28％。"
+    },
+    {
+      "id": "mkt:019fee8d-b8d8-7aab-8fe4-80065449d4e3",
+      "time": "2026-08-11 10:01:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing activates city-wide level-2 flood emergency response】Beijing is expected to receive heavy rain from the evening of Aug 11 through daytime Aug 13, with 6-hour accumulations of 100 mm or more and 24-hour totals of 150 mm or more across most of the municipality. Tongzhou, Daxing, Fangshan, Mentougou, Jingkai, Huairou and Fengtai could see 6-hour totals above 150 mm and 24-hour totals above 200 mm. At 09:00 on Aug 11 the Beijing flood control and drought relief headquarters activated a city-wide level-2 flood emergency response and mobilized city resources for flood control."
+    },
+    {
+      "id": "5034888",
+      "time": "2026-08-11 10:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【石油天然氣板塊震盪走強 ST洲際漲超9%】石油天然氣板塊震盪走強，ST洲際漲超9%，中國海油、中國石油、首華燃氣等上 漲。"
+    },
     {
       "id": "5034887",
       "time": "2026-08-11 09:59:22",
@@ -144027,38 +144096,6 @@
         "國際"
       ],
       "text": "印尼盾兌美元在早盤交易中走弱至18,020。"
-    },
-    {
-      "id": "5023516",
-      "time": "2026-08-04 10:03:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一艘土耳其貨船在黑海遭無人機襲擊 3人重傷】據土耳其伊赫拉斯通訊社3日報道，一艘土耳其貨船在黑海遭無人機襲擊，3名船員受重傷。報道說，這艘貨船裝載新鮮蔬菜和水果，從土耳其薩姆松港出發前往俄羅斯新羅西斯克港途中，在黑海海域遭襲。貨船在襲擊中起火，4名船員受傷，其中3人傷勢嚴重。另據當地媒體援引土耳其海事總局的訊息報道，貨輪遇襲地點距離俄羅斯新羅西斯克港大約20海里。這艘貨船懸掛喀麥隆國旗。船上所有23名船員已被俄海軍帶往新羅西斯克港。土耳其海事總局沒有指認襲擊方。當地媒體援引遇襲貨船船長的話說，多架烏克蘭無人機對貨船發動了襲擊。（新華社）"
-    },
-    {
-      "id": "te:markets:572330",
-      "time": "2026-08-04 10:03:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Steadies as Markets Assess Fed Outlook — The dollar index hovered near 100 on Tuesday after rebounding in the previous session, as investors continued to evaluate the outlook for Federal Reserve monetary policy amid ongoing uncertainty in the Middle East. Markets are currently pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. Bank of New York Fed President John Williams monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year. Investors are now awaiting the latest JOLTS job openings report and international trade data due later today for further insight into the strength of the US economy. Elsewhere, the dollar regained some ground against the yen after the US and Japan confirmed coordinated efforts to support the Japanese currency, though the possibility of additional interventions continues to keep markets on edge."
-    },
-    {
-      "id": "te:markets:572329",
-      "time": "2026-08-04 10:00:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Remains Firm — The Australian dollar traded around $0.70, near multi-week highs as stronger-than-expected household spending reinforced signs of resilient domestic demand ahead of the Reserve Bank’s monetary policy meeting next week. Household spending rose 0.8% in June, well above forecasts of 0.2%, driven by another increase in discretionary spending, while annual growth accelerated to 6.0%, also exceeding expectations. The data supported the central bank’s view that consumer activity remains firm despite weak sentiment, although recent softer inflation and a cooling housing market have strengthened expectations that the central bank will leave its 4.35% cash rate unchanged next week. Markets are also pricing little chance of a rate hike in September, while assigning roughly a 50% probability of a move in November if third-quarter inflation proves stronger than expected. Investors now await upcoming final PMI figures and trade balance data this week for further clues on the economy’s health."
     }
   ]
 }

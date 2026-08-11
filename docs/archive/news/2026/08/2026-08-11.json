@@ -1,7 +1,76 @@
 {
   "date": "2026-08-11",
-  "count": 727,
+  "count": 734,
   "items": [
+    {
+      "id": "5034891",
+      "time": "2026-08-11 10:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豪能股份等在瀘州成立新材料科技公司】企查查APP顯示，近日，豪能梯愛司新材料科技（瀘州）有限公司成立，經營範圍包含表面功能材料銷售；金屬表面處理及熱處理加工；真空鍍膜加工；新型膜材料製造等。企查查股權穿透顯示，該公司由豪能股份等共同持股。"
+    },
+    {
+      "id": "mkt:019fee8d-f84d-7aab-8fe4-908a47b466d8",
+      "time": "2026-08-11 10:01:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China's STAR 50 Index weakened in early trade, down more than 2%; constituent Zhongyuanjie Technology led decliners, falling over 8%."
+    },
+    {
+      "id": "mkt:019fee8d-e2dd-7aab-8fe4-8d7b3bce6ae8",
+      "time": "2026-08-11 10:01:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Front-month contract of the shipping index (European route) fell more than 5.00% intraday to 1,554.5 points."
+    },
+    {
+      "id": "5034890",
+      "time": "2026-08-11 10:01:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報1554.50點。"
+    },
+    {
+      "id": "5034889",
+      "time": "2026-08-11 10:01:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，源傑科技跌8.34％，盛美上海跌5.39％，中科飛測跌4.64％，中微公司跌4.28％。"
+    },
+    {
+      "id": "mkt:019fee8d-b8d8-7aab-8fe4-80065449d4e3",
+      "time": "2026-08-11 10:01:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing activates city-wide level-2 flood emergency response】Beijing is expected to receive heavy rain from the evening of Aug 11 through daytime Aug 13, with 6-hour accumulations of 100 mm or more and 24-hour totals of 150 mm or more across most of the municipality. Tongzhou, Daxing, Fangshan, Mentougou, Jingkai, Huairou and Fengtai could see 6-hour totals above 150 mm and 24-hour totals above 200 mm. At 09:00 on Aug 11 the Beijing flood control and drought relief headquarters activated a city-wide level-2 flood emergency response and mobilized city resources for flood control."
+    },
+    {
+      "id": "5034888",
+      "time": "2026-08-11 10:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【石油天然氣板塊震盪走強 ST洲際漲超9%】石油天然氣板塊震盪走強，ST洲際漲超9%，中國海油、中國石油、首華燃氣等上 漲。"
+    },
     {
       "id": "5034887",
       "time": "2026-08-11 09:59:22",
