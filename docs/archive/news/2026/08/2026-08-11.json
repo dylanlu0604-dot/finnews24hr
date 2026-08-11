@@ -1,7 +1,120 @@
 {
   "date": "2026-08-11",
-  "count": 1335,
+  "count": 1346,
   "items": [
+    {
+      "id": "5035247",
+      "time": "2026-08-11 15:19:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌0.69%。"
+    },
+    {
+      "id": "5035246",
+      "time": "2026-08-11 15:19:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【澳央行維持利率不變 警告通脹風險猶存】澳大利亞儲備銀行（央行）11日宣佈將基準利率維持在4.35%不變，符合市場預期。這是澳央行再次維持利率不變，但同時也警告通脹風險猶存。 澳大利亞央行當天發表宣告說，貨幣政策委員會一致作出上述決定。宣告指出，儘管中東衝突對通脹的影響迄今為止低於預期，但澳大利亞總體通脹率仍然過高，經濟活動和通脹前景都存在不確定性。 澳大利亞統計局資料顯示，該國消費者價格指數同比漲幅從今年5月的4.0%回落至6月的3.8%，仍高於澳央行設定的2%至3%的目標區間。 澳央行今年以來已召開5次貨幣政策會議，2月、3月和5月分別將基準利率上調25個基點，6月維持利率不變。澳央行貨幣政策委員會下一次會議將於9月舉行。(新華社)"
+    },
+    {
+      "id": "mkt:019fefaf-8bd9-7aab-8feb-6ead4501066b",
+      "time": "2026-08-11 15:18:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian Students' News Agency (ISNA) reported on the 11th that a Saudi Arabian vessel was attacked in the Bab el-Mandeb Strait, with at least three people killed."
+    },
+    {
+      "id": "mkt:019fefaf-4bda-7aab-8feb-6394488fea66",
+      "time": "2026-08-11 15:17:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "According to Tradeweb data, the UK 10-year government bond yield rose to 5.024%, the highest in about 1.5 weeks."
+    },
+    {
+      "id": "5035245",
+      "time": "2026-08-11 15:17:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗學生通訊社11日報道，一艘沙烏地阿拉伯船隻在曼德海峽遭到襲擊，至少3人死亡。（新華社）"
+    },
+    {
+      "id": "5035244",
+      "time": "2026-08-11 15:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "據Tradeweb資料：英國10年期金邊債券收益率觸及一週半新高，報5.024%。"
+    },
+    {
+      "id": "mkt:019fefae-9bda-7aab-8feb-5cada5471464",
+      "time": "2026-08-11 15:17:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump says US has three 'strategies' for Iran】Al Jazeera reported on the 11th that President Trump told Real America’s Voice the US has three strategies toward Iran: monitor how severely the situation deteriorates, strike it hard, or apply economic pressure. He added the US controls large amounts of Iranian funds and assets, \"completely under our control\"."
+    },
+    {
+      "id": "mkt:019fefae-6515-7aab-8feb-5772700fd5c3",
+      "time": "2026-08-11 15:16:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran analyst: Strait of Hormuz standoff hinges on which side endures longer】Iranian political analyst Hussein Ruivalan said the outcome of the Strait of Hormuz standoff will depend on which side can endure longer, framing it as a contest between closing the strait and blockading Iran. He said the US is feeling the pain of higher oil prices, rising inflation and living costs, which has reduced domestic appetite for war, while Iranians view the conflict as an imposed defensive action and can tolerate it longer. Ruivalan warned a protracted conflict could have domestic political costs for the US president and Republicans if no solution is found. He denied US reports of Iranian supply shortages, saying Caspian ports are meeting domestic demand, and argued Iran’s roughly 7,000 km land borders and 3,000 km coastline make a true blockade infeasible."
+    },
+    {
+      "id": "mkt:019fefae-15c9-7aab-8feb-4fd7b2cb3c81",
+      "time": "2026-08-11 15:16:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【China bond futures midday close】2-year bond futures most-active contract (TS) fell 0.02% at midday; 5-year (TF) fell 0.05%; 10-year (T) fell 0.04%; 30-year (TL) fell 0.15%."
+    },
+    {
+      "id": "5035243",
+      "time": "2026-08-11 15:16:18",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普稱美國對伊朗有三種“策略”】據卡達半島電視臺11日報道，美國總統特朗普在接受真實美國聲音網採訪時稱，美國對伊朗有三種“策略”：一是監測其處境惡化程度，二是對其進行猛烈打擊，三是經濟施壓。特朗普還稱，美國掌控著伊朗大量資金和資產，“這些完全在我們的控制之下”。（新華社）"
+    },
+    {
+      "id": "te:markets:574351",
+      "time": "2026-08-11 15:16:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.83% Lower — The Shangai Composite Index fell 33 points or 0.83 percent on Tuesday to close at 3934 points. Leading the losses are China Molybdenum (-7.81%), Zijin Mining (-6.38%) and Sany Heavy Industry (-3.29%). Top gainers were Kangmei Pharma (4.41%), Petrochina (1.66%) and Jiangsu Hengrui (1.27%)."
+    },
     {
       "id": "5035242",
       "time": "2026-08-11 15:15:02",
