@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-12 02:56:05",
-  "count": 15642,
+  "updated": "2026-08-12 02:59:56",
+  "count": 15646,
   "items": [
+    {
+      "id": "mkt:019ff231-ac15-7aab-8ff9-541dd9d2579d",
+      "time": "2026-08-12 02:59:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "As of Aug. 11 local time, the U.S. military said U.S. Central Command had redirected 55 merchant vessels attempting to breach the blockade, disabled three non-compliant ships and boarded and inspected two."
+    },
+    {
+      "id": "5036338",
+      "time": "2026-08-12 02:58:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：（遭到攻擊後）該船隻不再違反美國封鎖令駛往伊朗。"
+    },
+    {
+      "id": "5036337",
+      "time": "2026-08-12 02:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：截至8月11日，中央司令部已引導55艘試圖突破封鎖的商船改變航線，迫使3艘違規船隻喪失航行能力，並對2艘船隻實施了登船檢查。"
+    },
+    {
+      "id": "5036336",
+      "time": "2026-08-12 02:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍：今日早些時候，中央司令部部隊癱瘓了懸掛巴拿馬國旗的“維拉諾瓦”號貨輪的轉向系統。"
+    },
+    {
+      "id": "5036335",
+      "time": "2026-08-12 02:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍：美國海軍MH-60直升機向“維拉諾瓦”號機艙發射了兩枚“地獄火”導彈。"
+    },
+    {
+      "id": "5036334",
+      "time": "2026-08-12 02:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍摧毀了一艘懸掛巴拿馬國旗的船隻的轉向裝置。"
+    },
+    {
+      "id": "5036333",
+      "time": "2026-08-12 02:57:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國太空部隊蓋特萊因將軍：我們需要落實2027年“金色穹頂”專案的資金。"
+    },
     {
       "id": "5036332",
       "time": "2026-08-12 02:54:57",
@@ -142462,37 +142518,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲0.32%，報25916.80點，高水63.88點。"
-    },
-    {
-      "id": "5025232",
-      "time": "2026-08-05 02:58:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【利比亞西部發生激烈衝突已致5人死亡】據利比亞媒體4日報道，在該國西部扎維耶市和蘇爾曼市，從屬利比亞民族統一政府不同派系的武裝人員爆發激烈衝突，已造成至少5人死亡。（新華社）"
-    },
-    {
-      "id": "mkt:019fce24-019c-7aab-8f76-0d855bc319bb",
-      "time": "2026-08-05 02:58:13",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Heavy clashes in western Libya kill at least five】Libyan media reported on the 4th that heavy clashes broke out in Zawiya and Sorman in western Libya between armed groups aligned with rival factions of the Government of National Unity, killing at least five."
-    },
-    {
-      "id": "mkt:019fce22-ac8a-7aab-8f76-077847436be3",
-      "time": "2026-08-05 02:56:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The Daily Telegraph reports Europe may bear costs under a new plan to reopen the Strait of Hormuz."
     }
   ]
 }
