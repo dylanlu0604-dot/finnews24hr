@@ -1,7 +1,101 @@
 {
   "date": "2026-08-11",
-  "count": 999,
+  "count": 1010,
   "items": [
+    {
+      "id": "mkt:019fef25-8da7-7aab-8fe7-624d7d4d9868",
+      "time": "2026-08-11 12:47:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pezeshkian says talks with Supreme Leader were very successful】Iranian President Pezeshkian said on Aug. 10 that recent talks with Supreme Leader Mojtaba Khamenei lasted seven to eight hours and covered a wide range of issues in depth. He said preventing internal division is currently the top priority and accused external adversaries of seeking to sow discord inside Iran. Pezeshkian also said Mojtaba Khamenei’s health is good."
+    },
+    {
+      "id": "5035060",
+      "time": "2026-08-11 12:46:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【淘寶閃購在上海、杭州內測到家餐飲專案】據悉，目前該專案已與12個餐飲品牌展開合作，覆蓋超過20家門店。此前，“家宴”已在成都、深圳進行首輪外部測試。接近該專案的人士向記者表示，“家宴”主要面向家庭宴請、商務宴請等場景，並非傳統外賣的簡單升級。與即時配送模式不同，使用者需至少提前一天預約下單，由合作餐廳現制菜品，再透過定製包裝、恆溫配送等方式送達。淘寶閃購方面試圖以此探索高階餐飲品牌的到家服務模式。（科創板日報）"
+    },
+    {
+      "id": "5035059",
+      "time": "2026-08-11 12:46:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江寧波專項特許捕撈今日將啟動】經過三個多月的休漁期，8月11日14時，東海海域刺網、桁杆拖蝦、籠壺類、燈光圍（敷）網4類漁船完成申報審批後便可出海作業，2026年東海專項特許捕撈將正式拉開帷幕。屆時，寧波市1465艘特許捕撈漁船將踏浪揚帆、出海逐鮮，一大批銀鯧、龍頭魚、海蝦、梭子蟹陸續“奔赴餐桌”。（央視）"
+    },
+    {
+      "id": "mkt:019fef24-eef8-7aab-8fe7-5af832a31ba3",
+      "time": "2026-08-11 12:46:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of Australia holds key rate, says rising unemployment and weak housing will curb inflation】Reserve Bank of Australia held the cash rate unchanged on Wednesday, saying a rising unemployment rate and a weak housing market should be sufficient to dampen activity and inflation. Markets will watch Governor Bullock’s afternoon press conference for further guidance. The statement said the committee remains focused on preventing high inflation from becoming entrenched and, with policy judged to be somewhat restrictive, will continue to take necessary actions to return inflation to target, including further increases in the cash rate if upside risks materialize. Australia’s four major banks view the tightening cycle as complete and expect a pause before any easing. Westpac said higher borrowing costs and the end of tax concessions for property investors are weighing on the housing market, illustrating a strong fiscal–monetary interaction. RBA quarterly forecasts show unemployment is projected slightly higher than three months ago, though the labour market remains a touch tight."
+    },
+    {
+      "id": "5035058",
+      "time": "2026-08-11 12:46:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星SDI將完全接管與通用汽車在美合資企業，同意聯合開發下一代電動汽車電池】8月11日，三星SDI宣佈與通用汽車達成協議，共同開發下一代電動汽車電池。根據該協議開發的稜柱形電池產品預計將應用於通用汽車的下一代電動汽車車型。三星SDI還同意收購通用汽車在美國印第安納州合資企業SynergyCells中所持全部股份，並接管該公司。Synergy Cells設計年產能為27GWh，計劃投資額35億美元，工廠目前正在建設中。"
+    },
+    {
+      "id": "5035057",
+      "time": "2026-08-11 12:46:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "受收購通用汽車電池合資公司股份訊息影響，三星SDI股價下跌近5%。"
+    },
+    {
+      "id": "te:markets:574286",
+      "time": "2026-08-11 12:45:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Retreats on Weak Domestic Data, BI Continuity in Focus — The Indonesian rupiah slipped back toward IDR 17,810 per U.S. dollar on Tuesday, easing from a near seven-week high and reversing gains from the prior two sessions. Pressure stemmed from soft domestic data, with retail sales declining for a third month in July and consumer confidence sliding to a 15-month low. Still, losses were cushioned by expectations of policy continuity at Bank Indonesia after acting Governor Destry Damayanti was named the sole candidate to lead the central bank. Lawmakers are set to reconvene later this week for the 2027 budget presentation ahead of Independence Day, and her approval is expected to proceed smoothly. The central bank is likely to keep its focus on rupiah stability and inflation control while supporting growth where space allows. Meanwhile, the U.S. dollar index steadied as investors weighed the Fed’s policy outlook before key inflation data, following a weaker-than-expected July jobs report."
+    },
+    {
+      "id": "5035056",
+      "time": "2026-08-11 12:45:14",
+      "tags": [
+        "央行"
+      ],
+      "text": "【澳洲聯儲因企業投資增強和人口增長而上調GDP預期 同時下調通脹預期】澳大利亞儲備銀行因企業投資增強和人口增長而上調GDP預期。該行預計2026年第四季GDP增速為1.4%，2027年第四季為1.6%，2028年第四季為1.8%；該行預計2027年第四季通脹率為3.6%，2028年第四季為2.6%，2028年第四季為2.4%。澳洲聯儲預計2026年第四季失業率為4.5%，2027年第四季為4.7%，2028年第四季為4.8%。澳洲聯儲預計經濟將於2027年恢復平衡，略早於此前預期。"
+    },
+    {
+      "id": "5035055",
+      "time": "2026-08-11 12:45:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據菲律賓國家減災委員會11日通報，受熱帶氣旋和西南季風引發的極端降雨影響，菲律賓近期頻發山體滑坡等災害，截至11日早上，極端降雨天氣導致的死亡人數已升至19人，約227萬人受災。"
+    },
+    {
+      "id": "5035054",
+      "time": "2026-08-11 12:44:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英格蘭近四分之三地區進入乾旱狀態 】英國環境局等部門10日釋出公告說，8月以來持續少雨，英格蘭乾旱形勢惡化，目前近四分之三的地區處於乾旱狀態，波及約4500萬人口，超過2700萬人用水受限。 公告介紹，英國政府為應對乾旱而設立的協調機構“國家乾旱小組”10日召開會議並警告說，英格蘭所有地區的水資源均面臨壓力，對農業、公共供水、航運和環境的影響日益加劇。 公告說，8月以來，英格蘭降雨量僅為預期的5%。7月，英格蘭水庫蓄水量下降16%，為至少30年來7月最大降幅。目前，僅有14%的河流水量處於正常水平，22%的河流水量處於“異常低”水平。8家供水企業已在全部或部分服務區實施臨時用水限制措施。"
+    },
+    {
+      "id": "5035053",
+      "time": "2026-08-11 12:44:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行：預計經濟將於2027年恢復平衡，略早於此前預期。"
+    },
     {
       "id": "te:economy:574280",
       "time": "2026-08-11 12:42:15",
