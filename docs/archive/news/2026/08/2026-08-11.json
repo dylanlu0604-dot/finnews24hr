@@ -1,7 +1,121 @@
 {
   "date": "2026-08-11",
-  "count": 2469,
+  "count": 2481,
   "items": [
+    {
+      "id": "te:markets:574453",
+      "time": "2026-08-11 21:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.31% Higher — The Dow Jones Index is picking up 167 points or 0.31 percent on Tuesday. Gains are led by Caterpillar (1.90%), Boeing (1.67%) and Home Depot (1.14%). Biggest losers are Nike (-1.95%), Alphabet (-1.72%) and Cisco Systems (-1.46%)."
+    },
+    {
+      "id": "5036078",
+      "time": "2026-08-11 21:39:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【連日高溫晴熱 河西走廊農作物受影響 旱情或將持續】甘肅省河西走廊連日來的高溫晴熱天氣，對農作物灌溉產生不利影響。張掖市種植玉米160餘萬畝，其中制種玉米110萬畝左右。總檯記者在甘州區一處制種玉米種植基地看到，受高溫少雨缺水多因素影響，農作物生長狀況欠佳。在一些田塊，處於灌漿後期的玉米苞葉乾枯，籽粒數量少於往年。據甘肅省氣象局8月11日訊息，7月中旬以來，甘肅省大部氣溫偏高，降水整體偏多，但空間分佈不均。預計未來30天，河西山旱地和白銀市大部有輕度乾旱風險。為了保障作物生長，張掖市農業部門已採取舉措應對旱情。全市選派60餘名市級專業技術人員組建6支抗旱科技小分隊，以縣區為單位深入田間地頭，開展抗旱管護、田間保墒等技術指導服務，緩解乾旱影響、減少農業損失。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff10d-1316-7aab-8ff3-8a6cf6b9665e",
+      "time": "2026-08-11 21:39:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Sources say Russia's SIBUR-owned petrochemical plant ZapSibNeftekhim was struck by drones on Monday and has suspended operations."
+    },
+    {
+      "id": "5036077",
+      "time": "2026-08-11 21:39:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "費城半導體指數漲幅擴大至1.5%，半導體裝置板塊強勢領漲，臺積電股價上漲0.41%，阿斯麥股價上漲3.69%，應用材料股價上漲1.73%，科磊股價上漲3.6%。"
+    },
+    {
+      "id": "5036076",
+      "time": "2026-08-11 21:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，俄羅斯西布林旗下的扎普西伯石油化工石化企業週一遭無人機襲擊，目前已停止運營。"
+    },
+    {
+      "id": "5036075",
+      "time": "2026-08-11 21:38:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商局集團與中國長安汽車簽署戰略合作框架協議】8月11日，招商局集團與中國長安汽車在深圳簽署戰略合作框架協議。根據協議，雙方本著開放公平、優勢互補、互利共贏、市場化運作及長期穩定合作的原則，圍繞物流運輸、汽車檢測認證、綜合金融、物業管理、新能源與綠色低碳等領域開展戰略合作。"
+    },
+    {
+      "id": "te:markets:574452",
+      "time": "2026-08-11 21:38:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Mixed — US stocks were mixed on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly higher, with the former testing a record high. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened and lent respite to banks, with JPMorgan and Goldman Sachs inching up. Nvidia jumped 1.5% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. Contrarily, Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell."
+    },
+    {
+      "id": "5036074",
+      "time": "2026-08-11 21:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：面向人工智慧職業證書推出全新Vibe程式設計課程。"
+    },
+    {
+      "id": "mkt:019ff109-ef00-7aab-8ff3-857f72e18275",
+      "time": "2026-08-11 21:36:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Google launches new VIBE coding course targeting AI professional certification."
+    },
+    {
+      "id": "5036073",
+      "time": "2026-08-11 21:36:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "Metinvest：烏克蘭扎波羅熱鋼鐵廠在俄羅斯襲擊後停產。"
+    },
+    {
+      "id": "5036072",
+      "time": "2026-08-11 21:36:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊音樂一度跌約17%，公司公佈了二季度財報】騰訊音樂第二季度總收入為人民幣89.3億元（13.2億美元），同比增長5.8%。音樂相關服務收入同比增長11.0%至人民幣76.1億元（11.2億美元），音樂相關會員服務收入同比增長8.1%至人民幣47.9億元（7.06億美元）。"
+    },
+    {
+      "id": "5036071",
+      "time": "2026-08-11 21:36:01",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通繼續看好SK海力士：市場擔憂過度 三大催化劑將至】摩根大通在研報中表示，部分擔憂已經被市場過度放大，近期最嚴重的負面情緒可能已經過去。該行指出，接下來一至兩個月，新的股東回報政策、HBM合同價格以及Solidigm上市計劃更新，將成為影響SK海力士股價的三大關鍵催化劑。摩根大通維持SK海力士“增持”評級，2027年6月目標價275萬韓元，基於2026年至2027年平均每股收益的7倍市盈率。主要下行風險仍是DRAM價格和利潤率低於預期，以及終端需求與庫存惡化；若需求繼續超預期並推動DRAM價格進一步上漲，則可能形成新的上行催化劑。"
+    },
     {
       "id": "5036070",
       "time": "2026-08-11 21:35:12",
