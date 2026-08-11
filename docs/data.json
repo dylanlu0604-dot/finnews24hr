@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-12 03:46:50",
+  "updated": "2026-08-12 03:50:38",
   "count": 15646,
   "items": [
+    {
+      "id": "te:economy:574509",
+      "time": "2026-08-12 03:50:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Uruguay Industrial Output Rebounds in June — Uruguay's industrial production rose 5.4% year-on-year in June 2026 after falling 3.5% in the previous month, marking a strong rebound in manufacturing activity. The increase was driven primarily by a 7.8% rise in food products manufacturing, which contributed 3.2 percentage points to overall growth. Other food products manufacturing increased 6.3%. On a seasonally adjusted basis, industrial output climbed 8.0% month-on-month. Meanwhile, hours worked in the industrial sector rose 0.3% from a year earlier, while industrial employment declined 3.0%. On a year-to-date basis, industrial production increased 2.9%, while hours worked and employment fell 1.7% and 1.9%, respectively."
+    },
     {
       "id": "mkt:019ff25a-2c84-7aab-8ff9-fe9a19cd1cee",
       "time": "2026-08-12 03:43:43",
@@ -142533,18 +142545,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧與巴拉圭簽署一份重要核問題備忘錄。"
-    },
-    {
-      "id": "mkt:019fce51-f4ec-7aab-8f76-79fa3fea89d1",
-      "time": "2026-08-05 03:48:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Netanyahu: No Israeli withdrawal from Gaza until Hamas fully disarmed】Israeli Prime Minister Netanyahu said Israeli forces will not withdraw from their current Gaza front lines until Hamas is fully disarmed. He said Trump and his team believe Hamas can be fully disarmed and Gaza demilitarized and that Israel is studying the proposal. Netanyahu said Israel rejected a draft sent by the U.S. team and submitted its own response before the matter was reported in the media."
     }
   ]
 }

@@ -1,7 +1,19 @@
 {
   "date": "2026-08-12",
-  "count": 275,
+  "count": 276,
   "items": [
+    {
+      "id": "te:economy:574509",
+      "time": "2026-08-12 03:50:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Uruguay",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Uruguay Industrial Output Rebounds in June — Uruguay's industrial production rose 5.4% year-on-year in June 2026 after falling 3.5% in the previous month, marking a strong rebound in manufacturing activity. The increase was driven primarily by a 7.8% rise in food products manufacturing, which contributed 3.2 percentage points to overall growth. Other food products manufacturing increased 6.3%. On a seasonally adjusted basis, industrial output climbed 8.0% month-on-month. Meanwhile, hours worked in the industrial sector rose 0.3% from a year earlier, while industrial employment declined 3.0%. On a year-to-date basis, industrial production increased 2.9%, while hours worked and employment fell 1.7% and 1.9%, respectively."
+    },
     {
       "id": "mkt:019ff25a-2c84-7aab-8ff9-fe9a19cd1cee",
       "time": "2026-08-12 03:43:43",
