@@ -1,7 +1,35 @@
 {
   "date": "2026-08-11",
-  "count": 2725,
+  "count": 2728,
   "items": [
+    {
+      "id": "te:markets:574489",
+      "time": "2026-08-11 23:59:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Retreats From Record High — The CAC 40 edged 0.1% lower to close at 8,715 on Tuesday, retreating from the record high reached in the previous session amid renewed geopolitical tensions. US President Donald Trump called on Iran to compensate victims of conflicts involving Tehran, following Iranian demands for reparations over damage caused by recent US and Israeli strikes. The escalating rhetoric reduced expectations of a near-term breakthrough and dimmed hopes for the reopening of the Strait of Hormuz, fueling concerns over continued energy supply disruptions and energy-driven inflation. Luxury stocks declined amid increased risk aversion, with LVMH down 0.8% and L’Oréal losing 1.2%. Industrial shares also fell, with Airbus shedding 1% and Safran down 0.5%, while financials weakened, led by a 1% decline in BNP Paribas. In contrast, TotalEnergies advanced 1.4% on higher oil prices."
+    },
+    {
+      "id": "5036225",
+      "time": "2026-08-11 23:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人：今日波斯灣海域沒有美國軍艦部署。"
+    },
+    {
+      "id": "5036224",
+      "time": "2026-08-11 23:57:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。"
+    },
     {
       "id": "5036223",
       "time": "2026-08-11 23:55:16",
