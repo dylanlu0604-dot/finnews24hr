@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-11 22:01:25",
-  "count": 15592,
+  "updated": "2026-08-11 22:06:30",
+  "count": 15591,
   "items": [
+    {
+      "id": "mkt:019ff123-afd1-7aab-8ff4-55c16b809427",
+      "time": "2026-08-11 22:04:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market note: Trump said the U.S. ammunition shortage is caused by Biden sending $300 billion in aid to Ukraine."
+    },
+    {
+      "id": "5036114",
+      "time": "2026-08-11 22:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們彈藥庫存減少的原因，是喬・拜登向烏克蘭提供了 3000 億美元援助。"
+    },
+    {
+      "id": "5036113",
+      "time": "2026-08-11 22:03:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國全國房地產經紀人協會首席經濟學家勞倫斯·雲（Lawrence Yun）：“即便在過去幾個月房貸利率上升的環境下，房屋銷售依然保持了驚人的穩定性。”“毫無疑問，如果平均房貸利率能回落到6%附近，房地產市場將會蓬勃發展。”"
+    },
+    {
+      "id": "mkt:019ff122-d70c-7aab-8ff4-4a701cf9d488",
+      "time": "2026-08-11 22:03:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. median existing-home price in July was $434,100, up 2.0% from July 2025."
+    },
+    {
+      "id": "5036112",
+      "time": "2026-08-11 22:03:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭已不再通報俄羅斯襲擊期間發射的導彈數量。"
+    },
+    {
+      "id": "5036111",
+      "time": "2026-08-11 22:03:12",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國7月成屋銷售中位價創歷史同期新高】美國7月成屋銷售降至三個月低點，居高不下的房價和房貸利率繼續給房地產市場帶來壓力。根據美國全國房地產經紀人協會（NAR）的資料，7月合同成交量環比下降1.7%，摺合年率為406萬套。銷售中位價同比上漲2%，達到434,100美元，創下有記錄以來7月份的最高售價。"
+    },
+    {
+      "id": "5036110",
+      "time": "2026-08-11 22:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Trajectory 完成紅杉資本融資。"
+    },
+    {
+      "id": "5036109",
+      "time": "2026-08-11 22:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國交通部仍計劃在民主黨參議員提出投訴後釋出關於部長美洲公路之旅的宣傳短片。"
+    },
+    {
+      "id": "5036108",
+      "time": "2026-08-11 22:02:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普談及伊朗時表示，“如果我沒有那樣做，他們現在就已經擁有核武器了，而你們現在就要稱呼他們為‘先生’了。”"
+    },
+    {
+      "id": "mkt:019ff121-194a-7aab-8ff4-441b03b08320",
+      "time": "2026-08-11 22:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said of Iran, \"If I hadn't done that, they'd already have nuclear weapons and you'd be calling them 'Mr.' now.\""
+    },
+    {
+      "id": "em:jjsj_mgsj:202608113838203391",
+      "time": "2026-08-11 22:00:46",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月成屋銷售年化總數降至406萬戶，預期為405萬戶。"
+    },
+    {
+      "id": "mkt:019ff120-0ba4-7aab-8ff4-3e62f3bb9691",
+      "time": "2026-08-11 22:00:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. State Department official said Lebanon and Israel are expected to resume negotiations in Rome in early September."
+    },
+    {
+      "id": "5036107",
+      "time": "2026-08-11 22:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯認為敘利亞基地協議保障了其非洲行動的樞紐點位。"
+    },
+    {
+      "id": "5036106",
+      "time": "2026-08-11 22:00:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 7 月成屋銷售折年數降至 406 萬戶；預期 405 萬戶。"
+    },
     {
       "id": "mkt:019ff11f-9f76-7aab-8ff4-36620bb78673",
       "time": "2026-08-11 22:00:09",
@@ -141840,146 +141957,6 @@
         "其他"
       ],
       "text": "市場訊息：TGS 預計，阿根廷價值 30 億美元的頁岩天然氣凝析液專案將於 2030 年 3 月實現投產（COD）。"
-    },
-    {
-      "id": "5025024",
-      "time": "2026-08-04 22:06:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：政府贏得法律訴訟，蓋特威克機場將啟用第二條跑道。"
-    },
-    {
-      "id": "5025023",
-      "time": "2026-08-04 22:04:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "達納天然氣與新月石油開始從霍爾穆爾氣田供氣。"
-    },
-    {
-      "id": "mkt:019fcd16-959a-7aab-8f72-43b5c40c00c3",
-      "time": "2026-08-04 22:03:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Secretary of State Rubio said there is no final outcome yet on the Strait of Hormuz issue, but he hopes an agreement will be reached soon."
-    },
-    {
-      "id": "5025022",
-      "time": "2026-08-04 22:03:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿盧比奧：霍爾木茲海峽相關事宜尚未敲定，希望能在極短時間內達成協議。"
-    },
-    {
-      "id": "te:economy:572602",
-      "time": "2026-08-04 22:03:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Offers",
-        "Importance 2"
-      ],
-      "text": "US Job Openings Below Forecasts — Job openings in the US decreased by 178,000 to 7.359 million in June 2026, below market expectations of 7.40 million. The number of job openings decreased in healthcare (-147,000), leisure and hospitality (-86,000), wholesale trade (-74,000), and business services (-71,000). Job openings also fell in nondurable goods manufacturing (-55,000), and mining and logging (-9,000), but rose in transportation, warehousing, and utilities (+97,000) and in federal government (+39,000). Regionally, openings fell in the Northeast (-62,000), the South (-50,000), and the Midwest (-97,000), but rose in the West (32,000). Over the month, hires were unchanged at 5.3 million, while total separations changed little at 5.4 million. Within separations, quits (3.2 million) and layoffs and discharges (1.8 million) were unchanged."
-    },
-    {
-      "id": "mkt:019fcd15-e5ab-7aab-8f72-3f7c3d4558ab",
-      "time": "2026-08-04 22:03:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Market sources say Saudi Arabia is using diplomatic channels to try to prevent an escalation of Houthi attacks."
-    },
-    {
-      "id": "5025021",
-      "time": "2026-08-04 22:02:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：敘利亞經濟復甦勢頭正在增強，預計2026年將實現兩位數增長，2027年將繼續保持強勁增長。"
-    },
-    {
-      "id": "5025020",
-      "time": "2026-08-04 22:02:51",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：伊朗相關談判已取得進展，有望重新開放霍爾木茲海峽。"
-    },
-    {
-      "id": "5025019",
-      "time": "2026-08-04 22:02:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【8月4日增減持彙總（表）】8月4日盤後，據不完全統計，引力傳媒、技源集團等兩家A股公司披露擬減持情況，當日暫無A股公司披露擬增持情況。"
-    },
-    {
-      "id": "5025018",
-      "time": "2026-08-04 22:02:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：IMF工作人員結束對敘利亞的工作訪問。"
-    },
-    {
-      "id": "mkt:019fcd14-c0ee-7aab-8f72-32e504c7d6a3",
-      "time": "2026-08-04 22:01:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF staff have concluded a visit to Syria."
-    },
-    {
-      "id": "5025017",
-      "time": "2026-08-04 22:01:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【傳智教育：股票交易異常波動 預計上半年扭虧為盈】傳智教育公告稱，公司股票在2026年7月31日至8月4日連續3個交易日收盤價格漲跌幅偏離值累計達20%，屬異常波動。截至8月4日，公司靜態、滾動市盈率與行業差異大，股價快速上漲、成交量大，或存在炒作。公司經營及內外部環境未變，無應披露未披露重大事項。預計2026年半年度淨利潤2800萬元 - 4000萬元，同比增長488.72% - 655.32%，實現扭虧為盈。"
-    },
-    {
-      "id": "te:markets:572599",
-      "time": "2026-08-04 22:01:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "TransDigm earnings above expectations at 10.87 USD — TransDigm (TDG) released earnings per share at 10.87 USD, compared to market expectations of 10.29 USD."
-    },
-    {
-      "id": "em:jjsj_mgsj:202608043831479714",
-      "time": "2026-08-04 22:01:33",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月耐用品訂單環比終值增長0.5%，預期增長0.3%，初值增長0.3%。"
-    },
-    {
-      "id": "5025015",
-      "time": "2026-08-04 22:01:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "油價延續跌勢，觸及盤中低點；布倫特原油最新下跌4.7%，西德克薩斯中質原油下跌5.4%。"
     }
   ]
 }
