@@ -1,7 +1,181 @@
 {
-  "updated": "2026-08-11 21:56:35",
-  "count": 15598,
+  "updated": "2026-08-11 22:01:25",
+  "count": 15592,
   "items": [
+    {
+      "id": "mkt:019ff11f-9f76-7aab-8ff4-36620bb78673",
+      "time": "2026-08-11 22:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US existing home sales (July) annualized monthly rate -1.7% vs -1.0% expected; June revised to -1.4% from -2.4%."
+    },
+    {
+      "id": "mkt:019ff11f-9d69-7aab-8ff4-2d2ab80d8e92",
+      "time": "2026-08-11 22:00:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. existing-home sales in July annualized 4.06 mln units, vs 4.05 mln expected; June revised up to 4.13 mln from 4.09 mln."
+    },
+    {
+      "id": "mkt:019ff11f-7c65-7aab-8ff4-225bfcf989ec",
+      "time": "2026-08-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales Total SAAR (Jul) | actual 4060000M | consensus 4050000M | previous 4090000M"
+    },
+    {
+      "id": "mkt:019ff11f-7c63-7aab-8ff4-1da313eff8b0",
+      "time": "2026-08-11 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales SAAR (MoM) (Jul) | actual -1.7% | consensus -1% | previous -2.40%"
+    },
+    {
+      "id": "5036105",
+      "time": "2026-08-11 21:58:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【六款未釋出iPhone曝光】8月11日，據科技媒體報道，蘋果向開發者推送 iOS 27 Beta 5 作業系統，帶來許多調整和最佳化，六臺未釋出的 iPhone 新機也首次在系統程式碼中出現。 據報道，這些程式碼出現在 iPhone 電池驅動程式和“電池智慧”功能資料夾中，具體代號和對應機型如下： V62：iPhone Air 2 V63：iPhone 18 Pro V64：iPhone 18 Pro Max V67：iPhone 18 V68：iPhone Ultra V69：iPhone 18e 蘋果今年的新品釋出週期將改變過往節奏，採取“分階段釋出”策略。iPhone 18 Pro、iPhone 18 Pro Max 和摺疊屏新機 iPhone Ultra 將於今年 9 月亮相；而 iPhone 18 標準版則是會在明年春季，與 iPhone 18e、iPhone Air 2 一同推出。"
+    },
+    {
+      "id": "mkt:019ff11e-3150-7aab-8ff4-12bd7ea10c6f",
+      "time": "2026-08-11 21:58:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's trade minister will meet U.S. Trade Representative Greer on Tuesday at 13:30 New York time (13:30 ET)."
+    },
+    {
+      "id": "5036104",
+      "time": "2026-08-11 21:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗科智慧：公司間接持有宇樹科技的股份比例約為0.0379%】朗科智慧在互動平臺表示，截至2026年8月10日，根據最新的工商登記資訊及宇樹科技上市招股意向書，公司投資的江蘇疌泉紅土智慧創業投資基金（有限合夥）持有宇樹科技股份有限公司0.5934%的股份，股權穿透後公司間接持有宇樹科技的股份比例約為0.0379%；公司與宇樹科技暫無其他業務合作。"
+    },
+    {
+      "id": "5036103",
+      "time": "2026-08-11 21:58:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報886.00元。"
+    },
+    {
+      "id": "mkt:019ff11d-6b7d-7aab-8ff4-0e93f7359960",
+      "time": "2026-08-11 21:57:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Trump: Iran 'plays tricks' at talks; oil prices lower than under Biden】US President Trump said \"If we don't strike Iran, it will obtain nuclear weapons,\" adding \"this war is to prevent Iran from having nuclear weapons.\" He said he was frustrated with Iran's negotiating style, accusing Iranians of \"agreeing at the table, then turning to the media to refuse,\" and called \"Iran's economy...in chaos.\" On oil, Trump said \"oil prices are lower than during Biden's administration.\""
+    },
+    {
+      "id": "5036102",
+      "time": "2026-08-11 21:57:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院一名官員表示：黎巴嫩‑以色列談判軌道將於 9 月初在羅馬重啟，在此期間，貝魯特、耶路撒冷以及華盛頓也將接續開展會談。"
+    },
+    {
+      "id": "mkt:019ff11c-9ef2-7aab-8ff4-0372f0c62dd4",
+      "time": "2026-08-11 21:56:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Market sources: U.S. President Trump said Iranians agreed with the U.S. in talks but later denied it in the media, calling it \"playing us\"."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608113838202130",
+      "time": "2026-08-11 21:56:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【紐約聯儲：上個交易日（8月10日）擔保隔夜融資利率（SOFR）報3.63%】據美國紐約聯儲資料，上個交易日（8月10日）擔保隔夜融資利率（SOFR）報3.63%，之前一天報3.62%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5036101",
+      "time": "2026-08-11 21:56:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大貿易部長將與美國貿易代表格里爾於紐約時間週二 1 點 30 分會晤。"
+    },
+    {
+      "id": "5036100",
+      "time": "2026-08-11 21:56:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：油價比拜登執政時期還要低。如果不打擊伊朗，它就會獲得核武器。這場戰爭是為了防止伊朗擁有核武器。對伊朗的談判風格感到沮喪。伊朗經濟正處於混亂狀態。"
+    },
+    {
+      "id": "mkt:019ff11c-3161-7aab-8ff3-f85a904fc212",
+      "time": "2026-08-11 21:56:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources: US President TRUMP said Iran's economy is in chaos."
+    },
+    {
+      "id": "mkt:019ff11b-f87b-7aab-8ff3-f65bb11fd235",
+      "time": "2026-08-11 21:56:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US President Trump said he is frustrated with Iran's negotiating style."
+    },
+    {
+      "id": "mkt:019ff11b-5cd4-7aab-8ff3-ea7083aaf9e2",
+      "time": "2026-08-11 21:55:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the war is intended to prevent Iran from acquiring nuclear weapons."
+    },
+    {
+      "id": "mkt:019ff11a-fe93-7aab-8ff3-e52f0a913258",
+      "time": "2026-08-11 21:55:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Trump said if the U.S. does not strike Iran, Iran will acquire nuclear weapons."
+    },
     {
       "id": "mkt:019ff11a-9539-7aab-8ff3-dd07911f4b23",
       "time": "2026-08-11 21:54:38",
@@ -141806,266 +141980,6 @@
         "市場"
       ],
       "text": "油價延續跌勢，觸及盤中低點；布倫特原油最新下跌4.7%，西德克薩斯中質原油下跌5.4%。"
-    },
-    {
-      "id": "5025014",
-      "time": "2026-08-04 22:01:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：沙烏地阿拉伯開展外交斡旋，力圖遏制胡塞武裝襲擊事態升級。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608043831479152",
-      "time": "2026-08-04 22:00:55",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月JOLTs職位空缺數為735.9萬，低於市場預期的745.4萬。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608043831479373",
-      "time": "2026-08-04 22:00:48",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月工廠訂單環比下降0.3%，預期增長0.2%，前值下降1.3%。"
-    },
-    {
-      "id": "5025013",
-      "time": "2026-08-04 22:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月工廠訂單剔除運輸後環比下降0.4%。"
-    },
-    {
-      "id": "5025012",
-      "time": "2026-08-04 22:00:24",
-      "tags": [
-        "資料",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國6月工廠訂單月率 -0.3%，預期0.2%，前值由-1.30%修正為-1.1%。"
-    },
-    {
-      "id": "mkt:019fcd13-58ae-7aab-8f72-2ff8848f3cfd",
-      "time": "2026-08-04 22:00:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "US June factory orders excluding defense fell 0.4% MoM; prior -1.2%."
-    },
-    {
-      "id": "mkt:019fcd13-3f5a-7aab-8f72-26c976562f4d",
-      "time": "2026-08-04 22:00:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US factory orders excluding transportation -0.4% MoM in June; May revised to 2.0% from 1.9%."
-    },
-    {
-      "id": "mkt:019fcd13-3989-7aab-8f72-1cc12fcb65f5",
-      "time": "2026-08-04 22:00:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US June durable goods orders final MoM +0.5% (prior +0.3%)."
-    },
-    {
-      "id": "mkt:019fcd13-3458-7aab-8f72-14406f25cb81",
-      "time": "2026-08-04 22:00:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Factory Orders Excluding Defense (MoM) (Jun) | actual -0.4% | previous -1.2%"
-    },
-    {
-      "id": "5025011",
-      "time": "2026-08-04 22:00:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國6月份職位空缺735.9萬個；預計為745.4萬個。"
-    },
-    {
-      "id": "mkt:019fcd13-28a1-7aab-8f72-0b6d124ee671",
-      "time": "2026-08-04 22:00:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "US JOLTS job openings for June 7.359 mln vs 7.40 mln expected; May revised to 7.537 mln from 7.594 mln."
-    },
-    {
-      "id": "mkt:019fcd13-2849-7aab-8f72-05549d2119f6",
-      "time": "2026-08-04 22:00:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US June factory orders MoM -0.3% vs. +0.2% expected; May revised to -1.1% from -1.3%."
-    },
-    {
-      "id": "mkt:019fcd13-1af6-7aab-8f71-fabca2a2dae8",
-      "time": "2026-08-04 22:00:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Durable Goods Orders Revised (MoM) (Jun) | actual 0.5% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019fcd13-1aaa-7aab-8f71-f4fd56680d17",
-      "time": "2026-08-04 22:00:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Factory Orders Excluding Transportation (MoM) (Jun) | actual -0.4% | previous 1.90%"
-    },
-    {
-      "id": "mkt:019fcd13-0163-7aab-8f71-eb7aac410b84",
-      "time": "2026-08-04 22:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | JOLTS Job Openings (Jun) | actual 7359000K | consensus 7400000K | previous 7594000K"
-    },
-    {
-      "id": "mkt:019fcd12-f910-7aab-8f71-e7201bec3284",
-      "time": "2026-08-04 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Factory Orders (MoM) (Jun) | actual -0.3% | consensus 0.2% | previous -1.30%"
-    },
-    {
-      "id": "5025010",
-      "time": "2026-08-04 21:59:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "AI應用公司Palantir漲幅擴大至22%。"
-    },
-    {
-      "id": "te:markets:572595",
-      "time": "2026-08-04 21:59:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Jumps as Easing Geopolitical Risks Support Metals — Palladium futures climbed above $1,300 per ounce, reaching their highest level since mid-June as precious metals advanced on optimism surrounding diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain underway, with de-escalation and reopening the vital waterway remaining the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook."
-    },
-    {
-      "id": "mkt:019fcd12-8251-7aab-8f71-dbbe1aef072f",
-      "time": "2026-08-04 21:59:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "US plans to ban imports of Chinese next-generation data center equipment; Chinese embassy urged the US to stop smearing Chinese firms and threatening sanctions."
-    },
-    {
-      "id": "5025009",
-      "time": "2026-08-04 21:59:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三亞啟動防汛防風Ⅳ級應急響應】8月4日，三亞市防災減災救災和安全生產委員會發布關於啟動防汛防風Ⅳ級應急響應的通知。根據氣象預報，8月4日—7日，北部灣海面季風擾動活躍，受其影響，三亞市有一次強降水天氣過程。預計，4日11時至8日8時累計雨量：200～350毫米，區域性400～500毫米。（央視新聞）"
-    },
-    {
-      "id": "5025008",
-      "time": "2026-08-04 21:59:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度在第 15 輪商業招標中拍賣 6 個煤礦區塊。"
-    },
-    {
-      "id": "te:markets:572593",
-      "time": "2026-08-04 21:58:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Platinum Climbs as US-Iran Talks Lift Sentiment — Platinum futures climbed above $1,700 per ounce, reaching their highest level since mid-June as gains across precious metals were supported by diplomatic efforts to ease US-Iran tensions. US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be reached as soon as today or tomorrow, while Qatari Foreign Ministry spokesperson Majed al-Ansari said negotiations remain ongoing, with de-escalation and reopening the vital waterway as the top priorities. The developments prompted markets to lower expectations for a September Fed rate hike, as easing oil prices could reduce inflationary pressures. Investors are now awaiting upcoming US labor market data for further clues on the Fed's policy outlook."
-    },
-    {
-      "id": "5025007",
-      "time": "2026-08-04 21:57:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "Wayfair股價在第二季度利潤與收入均超出預期後上漲約27%。"
-    },
-    {
-      "id": "mkt:019fcd10-dd0f-7aab-8f71-d027dd620a05",
-      "time": "2026-08-04 21:57:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "PLTR.N",
-        "Impact bullish"
-      ],
-      "text": "Palantir (PLTR.N) extended gains to 21%."
     }
   ]
 }
