@@ -1,7 +1,123 @@
 {
   "date": "2026-08-12",
-  "count": 62,
+  "count": 74,
   "items": [
+    {
+      "id": "mkt:019ff19e-2239-7aab-8ff7-5a3a616ac4e0",
+      "time": "2026-08-12 00:18:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA says Strait of Hormuz shipments remain severely constrained and now expects Middle East oil supply disruptions to be larger than its July forecast. It projects most Middle East crude output will recover to near pre-conflict levels by early 2027, but estimates disruptions will persist through end-2027 at about 600,000 bpd."
+    },
+    {
+      "id": "5036249",
+      "time": "2026-08-12 00:18:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅委員會預計，智利2027年銅產量將達555萬噸，較2026年增長5.2%。"
+    },
+    {
+      "id": "5036248",
+      "time": "2026-08-12 00:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列與委內瑞拉自2009年斷交以來，首次建立官方溝通協調渠道。"
+    },
+    {
+      "id": "5036247",
+      "time": "2026-08-12 00:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔釋出防空警報。"
+    },
+    {
+      "id": "5036246",
+      "time": "2026-08-12 00:17:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會考慮為高成本的市場追蹤資料庫提供直接資金支援。"
+    },
+    {
+      "id": "5036245",
+      "time": "2026-08-12 00:17:12",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：當前經濟面臨的最大問題是通脹。"
+    },
+    {
+      "id": "mkt:019ff19c-b4a9-7aab-8ff7-55c702788844",
+      "time": "2026-08-12 00:16:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Cochilco forecasts Chile's 2026 copper production at 5.27 million tonnes, down 2.6% YoY from 2025."
+    },
+    {
+      "id": "5036244",
+      "time": "2026-08-12 00:16:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：只要消費者保持穩健，經濟就會維持向好。"
+    },
+    {
+      "id": "mkt:019ff19c-344a-7aab-8ff7-483e4ef67acc",
+      "time": "2026-08-12 00:16:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The EIA lowered its forecast for Texas electricity demand after the Texas governor announced a pause on new data center development."
+    },
+    {
+      "id": "mkt:019ff19b-67c6-7aab-8ff7-44d11c78d260",
+      "time": "2026-08-12 00:15:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chilean Copper Commission Cochilco expects global copper production to reach 24.5 mln tonnes in 2027."
+    },
+    {
+      "id": "mkt:019ff19b-2538-7aab-8ff7-3f8ec37fac8f",
+      "time": "2026-08-12 00:15:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chile's copper commission Cochilco forecasts global copper output of 23.5 mln tonnes in 2026, up 0.2% from 2025."
+    },
+    {
+      "id": "5036243",
+      "time": "2026-08-12 00:14:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅委員會預計，2026年全球銅礦產量將達到2350萬噸，較2025年增長0.2%。"
+    },
     {
       "id": "5036242",
       "time": "2026-08-12 00:13:22",

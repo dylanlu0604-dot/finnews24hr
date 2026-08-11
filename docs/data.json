@@ -1,7 +1,123 @@
 {
-  "updated": "2026-08-12 00:14:17",
-  "count": 15608,
+  "updated": "2026-08-12 00:19:05",
+  "count": 15616,
   "items": [
+    {
+      "id": "mkt:019ff19e-2239-7aab-8ff7-5a3a616ac4e0",
+      "time": "2026-08-12 00:18:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA says Strait of Hormuz shipments remain severely constrained and now expects Middle East oil supply disruptions to be larger than its July forecast. It projects most Middle East crude output will recover to near pre-conflict levels by early 2027, but estimates disruptions will persist through end-2027 at about 600,000 bpd."
+    },
+    {
+      "id": "5036249",
+      "time": "2026-08-12 00:18:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅委員會預計，智利2027年銅產量將達555萬噸，較2026年增長5.2%。"
+    },
+    {
+      "id": "5036248",
+      "time": "2026-08-12 00:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列與委內瑞拉自2009年斷交以來，首次建立官方溝通協調渠道。"
+    },
+    {
+      "id": "5036247",
+      "time": "2026-08-12 00:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔釋出防空警報。"
+    },
+    {
+      "id": "5036246",
+      "time": "2026-08-12 00:17:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會考慮為高成本的市場追蹤資料庫提供直接資金支援。"
+    },
+    {
+      "id": "5036245",
+      "time": "2026-08-12 00:17:12",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：當前經濟面臨的最大問題是通脹。"
+    },
+    {
+      "id": "mkt:019ff19c-b4a9-7aab-8ff7-55c702788844",
+      "time": "2026-08-12 00:16:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Cochilco forecasts Chile's 2026 copper production at 5.27 million tonnes, down 2.6% YoY from 2025."
+    },
+    {
+      "id": "5036244",
+      "time": "2026-08-12 00:16:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：只要消費者保持穩健，經濟就會維持向好。"
+    },
+    {
+      "id": "mkt:019ff19c-344a-7aab-8ff7-483e4ef67acc",
+      "time": "2026-08-12 00:16:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The EIA lowered its forecast for Texas electricity demand after the Texas governor announced a pause on new data center development."
+    },
+    {
+      "id": "mkt:019ff19b-67c6-7aab-8ff7-44d11c78d260",
+      "time": "2026-08-12 00:15:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chilean Copper Commission Cochilco expects global copper production to reach 24.5 mln tonnes in 2027."
+    },
+    {
+      "id": "mkt:019ff19b-2538-7aab-8ff7-3f8ec37fac8f",
+      "time": "2026-08-12 00:15:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Chile's copper commission Cochilco forecasts global copper output of 23.5 mln tonnes in 2026, up 0.2% from 2025."
+    },
+    {
+      "id": "5036243",
+      "time": "2026-08-12 00:14:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利銅委員會預計，2026年全球銅礦產量將達到2350萬噸，較2025年增長0.2%。"
+    },
     {
       "id": "5036242",
       "time": "2026-08-12 00:13:22",
@@ -142106,43 +142222,6 @@
         "MKT News"
       ],
       "text": "According to Iranian state media, Iran’s Foreign Ministry spokesman said talks with Oman on transit through the Strait of Hormuz remain ongoing."
-    },
-    {
-      "id": "5025167",
-      "time": "2026-08-05 00:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "海運追蹤機構克普勒（Kpler）週二表示，7 月 4 日至 8 月 4 日期間，伊拉克經霍爾木茲海峽出口原油超 3000 萬桶，較戰前月均 1.05 億桶的水平下降約 71%。"
-    },
-    {
-      "id": "5025166",
-      "time": "2026-08-05 00:15:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國兩年期國債收益率跌6個基點，投資者關注油價下跌】週二（8月4日）歐市尾盤，德國10年期國債收益率跌4.5個基點，報3.107%，日內交投於3.163%-3.102%區間。兩年期德債收益率跌6.0個基點，報2.717%，日內交投於2.787%-2.711%區間；30年期德債收益率跌2.2個基點，報3.633%。2/10年期德債收益率利差漲1.502個基點，報+38.851個基點。法國10年期國債收益率跌5.4個基點，報3.884%；兩年期法債收益率跌6.1個基點，30年期法債收益率跌2.9個基點。義大利10年期國債收益率跌7.3個基點，報3.863%。西班牙10年期國債收益率跌5.5個基點，報3.535%。希臘10年期國債收益率跌7.1個基點，報3.766%。"
-    },
-    {
-      "id": "5025165",
-      "time": "2026-08-05 00:15:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本古河電工宣佈投資1000億日元擴大光纖產能 目標產能翻倍】日本古河電工（Furukawa Electric）週二釋出公告稱，為了響應超大規模資料中心的旺盛需求，擬投資1000億日元將現有產能翻倍。公司預計，對高品質光纖光纜的需求將在中長期大幅增長。而在作出此次投資決定時，已確認獲得包括長期採購承諾在內的客戶採購承諾。對於新產能上線的時間，公司預計將在2028財年下半年陸續量產。因此，這項投資對截至2027年3月財年的業績影響較小。除了光纖主業外，古河電工也在佈局資料中心冷卻零部件產品。公司正在亞洲多地推進550億日元的相關投資。"
-    },
-    {
-      "id": "mkt:019fcd8e-5fa8-7aab-8f74-266b98b0ec07",
-      "time": "2026-08-05 00:14:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EZJ.L",
-        "Impact bearish"
-      ],
-      "text": "EasyJet's French cabin crew union filed a strike notice; all cabin crew will strike from Aug. 7 to Sept. 2."
     }
   ]
 }
