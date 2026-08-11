@@ -1,7 +1,103 @@
 {
-  "updated": "2026-08-11 19:49:50",
-  "count": 15741,
+  "updated": "2026-08-11 19:53:50",
+  "count": 15728,
   "items": [
+    {
+      "id": "mkt:019ff0aa-e92b-7aab-8ff0-f4df418f306c",
+      "time": "2026-08-11 19:52:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY: 18 of 22 bond strategists say the US 10-year Treasury yield is more likely to be higher than expected over the next three months than lower."
+    },
+    {
+      "id": "mkt:019ff0aa-c186-7aab-8ff0-eefd168faf46",
+      "time": "2026-08-11 19:52:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Reuters survey: US 2-year Treasury yield is forecast to fall to 4.07% in three months, 3.92% in six months and 3.80% in one year, versus July survey forecasts of 4.00%, 3.90% and 3.85%."
+    },
+    {
+      "id": "mkt:019ff0aa-5813-7aab-8ff0-e29b32cf5d8e",
+      "time": "2026-08-11 19:52:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "REUTERS SURVEY: US 10-year Treasury yield expected to fall to 4.50% in three months, remain at that level through six months, and decline to 4.34% in one year. July survey: 4.48%, 4.48% and 4.39%."
+    },
+    {
+      "id": "5035883",
+      "time": "2026-08-11 19:51:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "路透調查：22位債券策略師中有18位表示，未來三個月美國10年期國債收益率更有可能高於預期，而非低於預期。"
+    },
+    {
+      "id": "5035882",
+      "time": "2026-08-11 19:51:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "路透調查：預計美國10年期國債收益率三個月後將降至4.50%，隨後三個月維持該水平，一年後降至4.34%（7月調查對應預期分別為4.48%、4.48%、4.39%）"
+    },
+    {
+      "id": "5035881",
+      "time": "2026-08-11 19:51:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【分析：伊美透過外交途徑達成和解的可能性愈發渺茫】半島電視臺表示，種種跡象表明雙方分歧持續拉大，透過外交方式達成和解的可能性正變得越來越小。當前局勢雖暫時處於類似停火的狀態，但無法排除新一輪衝突爆發的風險。美伊雙方持續進行軍事姿態展示，進一步增加了再度對峙的機率。"
+    },
+    {
+      "id": "5035880",
+      "time": "2026-08-11 19:51:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "路透調查：預計美國2年期國債收益率三個月後將降至4.07%，六個月後降至3.92%，一年後降至3.80%（7月調查對應預期分別為4.00%、3.90%、3.85%）"
+    },
+    {
+      "id": "5035879",
+      "time": "2026-08-11 19:50:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國合署發言人：中國願向哥倫比亞提供人道主義地震救災援助】2026年8月11日，國家國際發展合作署新聞發言人湯瑛表示，哥倫比亞近日發生強震，造成重大人員傷亡和財產損失。中方密切關注地震災害，願根據哥方需要，以適當方式提供力所能及的幫助，支援哥地震救災。（新華社）"
+    },
+    {
+      "id": "5035878",
+      "time": "2026-08-11 19:50:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣聚能源：修正2026年上半年業績預告 淨利潤同比大增】廣聚能源公告稱，修正2026年半年度業績預告，預計歸屬於上市公司股東的淨利潤為6555.96 - 6856.42萬元，同比增長603.02% - 635.24%；扣非淨利潤為6401.19 - 6701.65萬元，同比增長3247.38% - 3404.50%。業績同向上升主要因參股企業媽灣電力提前分紅，增加投資收益4039.04萬元。此外，公司全資子公司重大貿易合同風險調查仍在進行，若需補充計提減值損失，或影響業績。"
+    },
     {
       "id": "5035876",
       "time": "2026-08-11 19:47:01",
@@ -143221,216 +143317,6 @@
         "公司"
       ],
       "text": "【小紅書：上半年來配合警方抓捕以批次造假註冊文旅票務、房地產、金融等行業專業號黑灰產團隊四個，嫌疑人共計14名】8月4日，小紅書釋出關於暑期安全旅行專項的治理公告：近期全國迎來暑期出遊高峰，小紅書從嚴治理社群內文旅行業內容與經營生態，主動提交黑灰產線索配合警方打擊。今年4月，平臺啟動強迫購物整治專項，從嚴整治無資質旅遊招徠和虛假宣傳資訊。七月以來，小紅書持續加強對出行類相關內容和經營環境專項巡查，對“飛拉達““雙石門““賽里木湖““英山斗笠溝“等熱門戶外景點做風險提示和搜尋保障、針對以“旅行搭子““拼車拼團“等名義所虛假引流、欺詐產業鏈做線索摸排，對無資質經營的旅行社、工作室、個人賬號從嚴巡查清理。上半年來，小紅書配合多地警方抓捕以批次造假註冊文旅票務、房地產、金融等行業專業號（企業號）黑灰產團隊四個，嫌疑人共計14名。"
-    },
-    {
-      "id": "5024693",
-      "time": "2026-08-04 19:53:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌4%，現報77.12美元/桶。"
-    },
-    {
-      "id": "5024691",
-      "time": "2026-08-04 19:53:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【菜鳥“關倉一體”英國倉正式運營】8月3日，菜鳥英國倫敦口岸倉正式開倉運營。據介紹，此前該倉已歷經數月試運營，“關倉一體”模式經實際業務檢驗，把清關、查驗、末端派送收攏進同一套體系，讓跨境包裹落地後最快24小時可完成末端派送，即便大促高峰也能穩住時效，為英國“3日達”提供核心支撐。據瞭解，該倉由菜鳥自主運營，與合作伙伴協同完成清關。“我們之所以選擇在英國自建口岸倉，就是想聯合合作伙伴，把清關和交郵這段最容易卡時效的口岸環節，牢牢抓在自己手裡。”菜鳥集團跨境物流歐洲負責人李碩表示，“只有做到關倉一體、全程強控，才能給商家一個穩定可預期的落地時效，讓物流從出海生意的不確定項，變成可以依靠的確定項。”（新浪科技）"
-    },
-    {
-      "id": "5024690",
-      "time": "2026-08-04 19:53:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥當勞預計全年資本支出37億美元至39億美元，市場預估37.3億美元。"
-    },
-    {
-      "id": "mkt:019fcc9e-854f-7aab-8f6e-5ba75b6708df",
-      "time": "2026-08-04 19:52:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures slid 3.00% intraday to $77.65/bbl."
-    },
-    {
-      "id": "5024689",
-      "time": "2026-08-04 19:52:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌3%，現報81.25美元/桶。"
-    },
-    {
-      "id": "mkt:019fcc9e-577b-7aab-8f6e-554633d8618a",
-      "time": "2026-08-04 19:52:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude fell below $81/bbl, down 2.49% intraday; WTI fell 2.8% to $76.53/bbl."
-    },
-    {
-      "id": "mkt:019fcc9e-339f-7aab-8f6e-4a6b9a501be1",
-      "time": "2026-08-04 19:52:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "US Treasury Secretary Bessent said interest rates are rising and AI capex has not slowed."
-    },
-    {
-      "id": "5024688",
-      "time": "2026-08-04 19:52:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：我們已看到利率持續上調，而人工智慧資本支出仍未有放緩跡象。"
-    },
-    {
-      "id": "5024687",
-      "time": "2026-08-04 19:52:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4140美元/盎司，日內漲1.22%。"
-    },
-    {
-      "id": "5024686",
-      "time": "2026-08-04 19:51:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4080美元/盎司，日內漲0.62%。"
-    },
-    {
-      "id": "5024685",
-      "time": "2026-08-04 19:51:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【應用材料美股盤前漲超5%】應用材料美股盤前漲超5%，現報544.5美元。"
-    },
-    {
-      "id": "mkt:019fcc9d-7991-7aab-8f6e-44040150085c",
-      "time": "2026-08-04 19:51:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said core inflation excluding energy-driven components has remained very steady."
-    },
-    {
-      "id": "5024684",
-      "time": "2026-08-04 19:51:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：剔除受能源影響板塊後的核心通脹表現十分平穩。"
-    },
-    {
-      "id": "mkt:019fcc9d-1e48-7aab-8f6e-3afb89d2319c",
-      "time": "2026-08-04 19:51:16",
-      "tags": [
-        "MKT News",
-        "MCD.N"
-      ],
-      "text": "McDonald's (MCD.N) aims to expand its global restaurant count to 50,000 by 2028."
-    },
-    {
-      "id": "5024683",
-      "time": "2026-08-04 19:51:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：我認為這種情況會持續下去。"
-    },
-    {
-      "id": "5024682",
-      "time": "2026-08-04 19:50:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：核心通脹資料相當溫和。"
-    },
-    {
-      "id": "mkt:019fcc9c-721e-7aab-8f6e-316e0f047920",
-      "time": "2026-08-04 19:50:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said there are many short-term indicators."
-    },
-    {
-      "id": "5024681",
-      "time": "2026-08-04 19:50:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "貝森特：目前存在大量短期指標。"
-    },
-    {
-      "id": "mkt:019fcc9c-54b3-7aab-8f6e-2c37c8138af6",
-      "time": "2026-08-04 19:50:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Japan is poised for strong growth and its technology sector is very strong."
-    },
-    {
-      "id": "mkt:019fcc9c-206d-7aab-8f6e-243cbfee68f2",
-      "time": "2026-08-04 19:50:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Treasury Secretary Bessent: Wash wants to keep options open."
-    },
-    {
-      "id": "5024679",
-      "time": "2026-08-04 19:49:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智動力：擬3億元投建光通訊及銦錫鎵鉍系列產品專案】智動力公告稱，公司於2026年8月3日召開董事會會議，審議透過對外投資議案。公司與蒙自經開區紅河綜保區管委會簽訂協議，計劃總投資約3億元，分兩期建設光通訊、算力熱控及ITO用電子專用材料產業化等專案，由新成立的二級控股子公司負責實施。一期投資6000萬元，2026年10月31日前分步投產；二期投資2.4億元，力爭2027年6月30日前分步投產。兩期達標達產後年產值約10億元，年繳稅約2000萬元。該投資短期預計不影響財務和經營，存在一定風險。"
-    },
-    {
-      "id": "mkt:019fcc9b-cd54-7aab-8f6e-1d2ff91157f1",
-      "time": "2026-08-04 19:49:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said Federal Reserve Chair Kevin Warsh will help the Fed balance growth and inflation targets."
     }
   ]
 }
