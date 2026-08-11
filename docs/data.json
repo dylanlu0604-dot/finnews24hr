@@ -1,7 +1,145 @@
 {
-  "updated": "2026-08-11 13:50:35",
-  "count": 15880,
+  "updated": "2026-08-11 13:54:29",
+  "count": 15892,
   "items": [
+    {
+      "id": "5035124",
+      "time": "2026-08-11 13:53:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【悍高集團：隨著原材料價格走勢趨於平穩 公司盈利能力將得到進一步改善】悍高集團(001221)8月10日在電話會議中表示，當前下游家居五金行業正處於深度調整階段，市場呈現明顯結構性變化。隨著家居建材市場日趨成熟，存量房翻新及區域性改造需求逐步成為新的增長極。國產高階品牌憑藉較強的渠道滲透力與產品適應性，迎來良好發展機遇，國產替代程序全面加速，長期來看，市場資源向頭部企業集中將成為趨勢。此外，公司表示，下半年，公司經營目標將同時兼顧營業收入的增長與毛利率、淨利率等盈利指標的提升。隨著原材料價格走勢趨於平穩，並伴隨多款高階新品集中交付，公司盈利能力將得到進一步改善。"
+    },
+    {
+      "id": "5035123",
+      "time": "2026-08-11 13:53:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲3%，現報2593.00元。"
+    },
+    {
+      "id": "mkt:019fef61-5b6d-7aab-8fe8-bc92c6b6647b",
+      "time": "2026-08-11 13:52:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Soda ash most-active futures contract touched CNY1,000/tonne, up 4.28% intraday, the highest since July 27."
+    },
+    {
+      "id": "mkt:019fef60-e719-7aab-8fe8-b2533a1fdce7",
+      "time": "2026-08-11 13:52:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "China A-shares weakened in the afternoon as the non-ferrous metals sector slid, led by precious metals. Luoyang Molybdenum, Western Mining and Chifeng Gold fell more than 6%; Zijin Mining, Zangge Mining, Sichuan Gold and Pengxin Resources were also among the largest decliners."
+    },
+    {
+      "id": "mkt:019fef60-9206-7aab-8fe8-ad0a4e412076",
+      "time": "2026-08-11 13:51:51",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the economy needs to slow and labour-market tightness must ease."
+    },
+    {
+      "id": "5035122",
+      "time": "2026-08-11 13:51:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皇氏集團成立智慧牧業公司】企查查APP顯示，近日，河南臻牛智慧牧業有限公司成立，法定代表人為石愛萍，註冊資本為3000萬元，經營範圍包含：牲畜飼養；牲畜銷售；穀物種植；蔬菜種植；油料種植；豆類種植；薯類種植；畜牧漁業飼料銷售等。企查查股權穿透顯示，該公司由皇氏集團旗下皇氏乳業集團有限公司及廣西臻牛畜牧有限公司共同持股。"
+    },
+    {
+      "id": "5035121",
+      "time": "2026-08-11 13:51:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有色板塊持續走弱 洛陽鉬業等多股跌超5%】午後有色板塊持續走弱，貴金屬方向領跌，洛陽鉬業、西部礦業、赤峰黃金跌超6%，紫金礦業、藏格礦業、四川黃金、鵬欣資源等跌幅靠前。"
+    },
+    {
+      "id": "5035120",
+      "time": "2026-08-11 13:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：需要更低經濟增長、更高失業率來壓低通脹。"
+    },
+    {
+      "id": "mkt:019fef5f-cda2-7aab-8fe8-a0535e16ed7b",
+      "time": "2026-08-11 13:51:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Spot gold extended losses, slipping below $4,370/oz and down 0.46% intraday."
+    },
+    {
+      "id": "5035119",
+      "time": "2026-08-11 13:50:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌0.47%。"
+    },
+    {
+      "id": "5035118",
+      "time": "2026-08-11 13:50:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4430美元/盎司，日內漲0.23%。"
+    },
+    {
+      "id": "mkt:019fef5f-3aab-7aab-8fe8-9dc9b098e149",
+      "time": "2026-08-11 13:50:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Tencent's WorkBuddy upgrades cross-device sync capabilities】WorkBuddy said it upgraded multi-end synchronization to enable real-time syncing of tasks, conversation records and outputs across PC, mobile app and mini-program, and to allow remote authorization and termination of PC tasks from mobile phones."
+    },
+    {
+      "id": "5035117",
+      "time": "2026-08-11 13:50:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊WorkBuddy升級多端同步能力】騰訊WorkBuddy宣佈升級多端同步功能，實現了PC、App、小程式三端的任務、對話記錄與產物的實時同步，並支援手機上遠端對電腦端任務進行授權與停止。"
+    },
+    {
+      "id": "5035116",
+      "time": "2026-08-11 13:50:14",
+      "tags": [
+        "資料"
+      ],
+      "text": "布洛克：仍認為現金利率水平略偏緊縮。"
+    },
     {
       "id": "mkt:019fef5e-8c60-7aab-8fe8-96838f909102",
       "time": "2026-08-11 13:49:38",
@@ -144565,23 +144703,6 @@
         "其他"
       ],
       "text": "沙特阿美：第二季度下游供應可靠性維持在98.4%。"
-    },
-    {
-      "id": "5023736",
-      "time": "2026-08-04 13:53:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI語料板塊走高，天娛數科漲停】AI語料板塊走高，天娛數科漲停，貝瑞基因此前封板，捷成股份、拓爾思漲超10%，中廣天擇、值得買、開普雲、視覺中國等跟漲。"
-    },
-    {
-      "id": "5023735",
-      "time": "2026-08-04 13:52:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【馬來西亞考慮對電動汽車銷售徵稅以建設充電站】馬來西亞投資、貿易和工業部喬哈里·阿卜杜勒·加尼週二表示，馬來西亞正在考慮對電動汽車銷售徵稅，以擴大其公共充電網路。 他說，政府不能再繼續等待電動汽車製造商或經銷商投資建設公共充電站了。政府可以對每輛售出的電動汽車徵稅，並將所得款項納入基金，用於建設公共充電站。截至5月31日，馬來西亞共有6416個公共充電樁。"
     }
   ]
 }
