@@ -1,7 +1,28 @@
 {
   "date": "2026-08-11",
-  "count": 1010,
+  "count": 1012,
   "items": [
+    {
+      "id": "te:markets:574292",
+      "time": "2026-08-11 12:51:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Extends Gains — The South Korean won traded around 1,414 per dollar, remaining near an over ten-month high touched last week, supported by persistent dollar-selling flows. The currency continued to benefit from the conversion of SK hynix's ADR proceeds into won, which has been a key factor behind its sharp appreciation in recent weeks. Additionally, chip exports surged 155.4% year-on-year in the first 10 days of August to $9.95 billion, reinforcing the won's underlying support from Korea's strong semiconductor-driven external position and robust global AI demand. Meanwhile, expectations for a September Federal Reserve rate hike have increased, lending some support to the dollar and limiting the won's gains ahead of key US inflation data. At the same time, uncertainty over the Strait of Hormuz and higher oil prices remained a headwind, raising concerns over Korea's import costs and inflation."
+    },
+    {
+      "id": "5035061",
+      "time": "2026-08-11 12:49:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄遠東共青城煉油廠發生火災】據塔斯社援引企業新聞部門訊息，俄羅斯哈巴羅夫斯克邊疆區的共青城煉油廠突發火災。企業表示無人員受傷，煉油廠並未停工。起火部位為輔助裝置。注：俄羅斯石油公司旗下共青城煉油廠是俄遠東地區規模最大的煉油廠，也是該地區燃料產品的主要供應方；年加工產能約 800 萬噸（摺合 5850 萬桶）。該煉油廠坐落於阿穆爾河畔共青城，距離烏克蘭邊境約 6000 公里；火災起因暫未公佈。"
+    },
     {
       "id": "mkt:019fef25-8da7-7aab-8fe7-624d7d4d9868",
       "time": "2026-08-11 12:47:23",
