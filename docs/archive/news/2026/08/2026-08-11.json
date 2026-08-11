@@ -1,7 +1,255 @@
 {
   "date": "2026-08-11",
-  "count": 1939,
+  "count": 1967,
   "items": [
+    {
+      "id": "5035717",
+      "time": "2026-08-11 18:20:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "五礦資源上半年營收45.4億美元，上半年EBITDA 27.3億美元，上半年淨利潤8.972億美元。"
+    },
+    {
+      "id": "mkt:019ff056-92a8-7aab-8fef-6809377c8848",
+      "time": "2026-08-11 18:20:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Preview: 2026 China Computing Power Conference to be held Sept 11-13 in Langfang, Hebei】The 2026 China Computing Power Conference will run Sept 11-13 in Langfang, Hebei. Theme: “Weaving a Compute Network, Igniting a New Intelligent Future”. For the first time the event will host an inaugural “Compute First-Release Launch” with separate technology and industry tracks to unveil a batch of first-release compute hardware and software. The showcase will emphasize domestic compute chips, intelligent agents and green computing breakthroughs."
+    },
+    {
+      "id": "5035716",
+      "time": "2026-08-11 18:20:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽意資訊：首次回購股份54.91萬股，支付1500.57萬元】賽意資訊公告，公司此前審議透過回購方案，擬以不低於3000萬元且不超過6000萬元的自有或自籌資金回購公司股份，回購價格不超過40元/股，用於實施股權激勵或員工持股計劃。2026年8月11日，公司首次透過集中競價交易方式回購股份54.91萬股，佔公司總股本的0.1344%，最高成交價格27.4元/股，最低成交價格27.23元/股，成交總金額1500.57萬元（不含交易費用）。"
+    },
+    {
+      "id": "5035715",
+      "time": "2026-08-11 18:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【預告：2026中國算力大會將於9月11日至13日在河北廊坊舉行】2026中國算力大會將於9月11日至13日在河北省廊坊市舉行，大會主題為“共織算力網 智啟新未來”。大會首次舉辦“算力首創首發釋出會”，設定技術、產業兩大單元，將集中釋出一批首創首發算力軟硬體新品，重點展示國產算力晶片、智慧體、綠色算力等突破性成果。"
+    },
+    {
+      "id": "5035714",
+      "time": "2026-08-11 18:18:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東望時代：股東新嶺科技減持332.06萬股 持股降至3%】東望時代公告稱，股東新嶺科技於2026年7月7日至8月11日，透過集中競價及大宗交易方式合計減持公司股份332.06萬股，佔總股本的0.39%，減持總金額為1285.25萬元。本次權益變動後，其持股比例由3.39%降至3.00%，觸及1%刻度。本次減持與此前計劃一致，不觸及要約收購，未實施完畢，不會導致公司實控人變化及對經營產生重大影響。"
+    },
+    {
+      "id": "te:markets:574415",
+      "time": "2026-08-11 18:18:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Serbia",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "Stocks in Serbia Hit Near 18-year High — BELEX 15 increased to 1302.00 Index Points, the highest since September 2008. Over the past 4 weeks, Belgrade Stock Exchange 15 gained 6.19%, and in the last 12 months, it increased 5.49%."
+    },
+    {
+      "id": "5035713",
+      "time": "2026-08-11 18:18:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技：至今未發生任何算力裝置及相關商品被海關扣留、滯留等無法通關的情形】行雲科技(300209.SZ)公告稱，公司關注到網路平臺出現“算力卡被卡在海關”等不實言論，經核查確認相關傳言均不屬實。公司所有算力裝置海外採購及進口清關均嚴格遵守法律法規，未發生被海關扣留或滯留情形，供應鏈穩定有序。截至公告日，公司在手算力長期訂單規模約150.82億元，均按合同正常履約。公司已啟動資訊溯源核查並報警，將依法追究法律責任。"
+    },
+    {
+      "id": "mkt:019ff054-a811-7aab-8fef-63627796b83a",
+      "time": "2026-08-11 18:18:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sony will appoint the joint venture's representative director."
+    },
+    {
+      "id": "5035712",
+      "time": "2026-08-11 18:18:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【繼Seed、Flow後，位元組又成立一個AI一級部門，直指“資料”】從多個獨立信源處獲悉，位元組跳動近期成立了一個新的一級部門——AI資料與安全，與Seed、Flow、抖音等部門平行，負責人為王贏磊（Adam Wang）。這是繼2023年底成立Seed和Flow兩個AI一級部門後，位元組圍繞AI業務成立的又一個一級部門。負責人王贏磊此前為TikTok平臺責任負責人和TikTok直播負責人。“王贏磊負責的直播業務曾是TikTok最主要的營收來源之一，在位元組內部有過赫赫戰功。”一位接近位元組的人士表示。就上述訊息向位元組求證，截止發稿，暫無回覆。（36氪）"
+    },
+    {
+      "id": "5035711",
+      "time": "2026-08-11 18:17:44",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日元跌向1美元兌160重要關口 干預憂慮進一步升溫】日元小幅走弱，兌美元逼近一個關鍵水平，可能加劇市場對日本當局再次出手支撐日元的猜測。由於東京市場週二因假日休市，市場波動較為溫和，但交易員正為日元跌向1美元兌160日元做準備。160是一個關鍵水平，過去曾對日元進一步貶值形成制約。倫敦交易時段，日元一度下跌0.1%，至1美元兌159.39。週一，日元創2月中旬以來最大單日跌幅，下跌1%，當日美元兌多數十國集團貨幣走強。日元目前已經抹去7月31日以來近一半的漲幅。當時，日本和美國實施了自1998年以來首次協調幹預，以支撐日元。瑞穗銀行高階策略師Masayuki Nakajima在一份報告中寫道：“如果美元/日元明確突破具有重要心理意義的160關口，市場對干預的擔憂可能進一步升溫。”"
+    },
+    {
+      "id": "5035710",
+      "time": "2026-08-11 18:17:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【貴陽市破獲特大製售偽劣醬香白酒案】貴陽市場監管官微8月11日訊息，7月1日，隨著法槌落下，一場歷時近兩年、橫跨省市區三級市場監管部門、公安機關深度參與的特大製售偽劣醬香型白酒案件在貴陽市花溪區人民法院迎來終審。主犯韓某被判處有期徒刑十二年，並處罰金217萬元；胡某被判處有期徒刑七年，罰金26萬元；彭某被判處有期徒刑一年、緩刑二年，罰金10萬元。全案共查扣假冒偽劣產品近2萬件，涉案貨值約800萬元，銷售網路覆蓋廣東、天津、浙江、上海等15個省市。韓某等人以20元至30元一件的低端酒精“串酒”，冒充正品系列醬香型白酒，在直播間以399元的價格銷售。鉅額利潤的背後，是對消費者權益的嚴重損害，更是對貴州醬香白酒品牌形象和市場秩序的嚴重破壞。"
+    },
+    {
+      "id": "5035709",
+      "time": "2026-08-11 18:16:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【招商銀行零售AUM突破18萬億元】2026年招商銀行財富合作伙伴論壇在廣州舉行。記者獲悉，招商銀行宣佈該行管理零售客戶總資產（AUM）突破18萬億元。此前，招行2025年年報顯示，去年末該行管理零售客戶總資產（AUM）為17.08萬億元。（南方財經）"
+    },
+    {
+      "id": "mkt:019ff053-1a24-7aab-8fef-5ef52c6891bb",
+      "time": "2026-08-11 18:16:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Al Jazeera reports Israeli forces advancing near Aita al-Jabbar village in southern Lebanon."
+    },
+    {
+      "id": "mkt:019ff052-debb-7aab-8fef-56707c2f54d8",
+      "time": "2026-08-11 18:16:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese president said the Lebanese are united on Israeli withdrawal, the release of prisoners of war and reconstruction, and vowed never to allow Israel to occupy an inch of Lebanese territory."
+    },
+    {
+      "id": "mkt:019ff052-b33e-7aab-8fef-484ee2ef7e5a",
+      "time": "2026-08-11 18:16:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Container ship attacked in Gulf of Oman, crew report】On the 11th a seafarer said a container ship on the eastern edge of the Gulf of Oman came under attack; crew issued a distress call, prepared to abandon ship, and said the vessel, with 17 crew aboard, was reportedly attacked by a helicopter. UK Maritime Trade Operations also reported on the 11th an incident in the Gulf of Oman involving a container ship and military forces."
+    },
+    {
+      "id": "5035708",
+      "time": "2026-08-11 18:15:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘集裝箱船在阿曼灣遇襲】一名海員11日告訴新華社記者，一艘集裝箱船在阿曼灣海域遇襲，船員緊急呼叫救援並準備棄船。據這名海員透露，被襲船隻上的船員透過船舶間無線電公共頻道通報，事發地點位於阿曼灣東部邊緣，船上共17人，疑似被“直升機襲擊”。英國海上貿易行動辦公室11日也釋出通報說，阿曼灣海域發生一起涉及集裝箱船與軍方力量的事件。（新華社）"
+    },
+    {
+      "id": "5035707",
+      "time": "2026-08-11 18:15:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華曙高科：2026年上半年淨利潤843.48萬元，同比增長87.09%】華曙高科公告，2026年上半年營業收入3.41億元，同比增長42.27%。歸屬於上市公司股東的淨利潤843.48萬元，同比增長87.09%。扣除非經常性損益的淨利潤366.45萬元，同比增長115.78%。"
+    },
+    {
+      "id": "5035706",
+      "time": "2026-08-11 18:15:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九聯科技：核心技術人員調整 新增吳開鋼、鄧崇旺】九聯科技公告稱，公司於2026年8月10日對核心技術人員進行調整。原核心技術人員許華、何雲華因工作內容調整，不再認定為核心技術人員，但仍繼續在公司任職；新增認定吳開鋼、鄧崇旺為核心技術人員。調整後，公司核心技術人員共4名。此次調整不存在職務發明專利權屬糾紛，不會對公司產生實質不利影響，新增人員有助於推進研發專案。"
+    },
+    {
+      "id": "mkt:019ff051-878a-7aab-8fef-403cdc27e46c",
+      "time": "2026-08-11 18:15:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Maritime security sources said a container ship in the Gulf of Oman off Pakistan was reportedly struck by a suspected missile."
+    },
+    {
+      "id": "5035705",
+      "time": "2026-08-11 18:14:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九聯科技：2026年上半年淨利潤3511.02萬元，實現扭虧為盈】九聯科技公告，2026年上半年營業收入14.42億元，同比增長30.92%。歸屬於上市公司股東的淨利潤3511.02萬元，上年同期淨利潤虧損1.23億元，實現扭虧為盈。"
+    },
+    {
+      "id": "5035704",
+      "time": "2026-08-11 18:14:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易行動辦公室（UKMTO）稱，已將阿曼灣涉事船隻型別從油輪更正為集裝箱船。"
+    },
+    {
+      "id": "mkt:019ff051-3c67-7aab-8fef-39193b165e7d",
+      "time": "2026-08-11 18:14:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said it has reclassified the vessel involved in the Gulf of Oman incident from an oil tanker to a container ship."
+    },
+    {
+      "id": "5035703",
+      "time": "2026-08-11 18:14:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【李開復說中國開源模型讓美國擔憂】零一萬物創始人兼執行長、創新工場董事長李開復近日在北大國發院釋出新書《AI未來已來》時表示，在中美人工智慧競賽中，憑藉低廉的成本和接近美國先進閉源模型的能力，越來越多美國公司開始用中國的開源產品，中國的開源模型正讓美國人感到擔憂。（北京日報）"
+    },
+    {
+      "id": "5035702",
+      "time": "2026-08-11 18:13:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "北陸電力最佳化海龍海上風電專案債務融資，專案債務融資規模增加9億美元。"
+    },
+    {
+      "id": "mkt:019ff050-43e3-7aab-8fef-321e050b1392",
+      "time": "2026-08-11 18:13:39",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【China-Laos railway Jan–Jul import-export cargo value up 29.9% YoY】Cargo value moved on the China-Laos railway in Jan–Jul exceeded 20 billion yuan, up 29.9% YoY. Since opening in 2021 the line has carried over 94 billion yuan of cross-border goods across more than 3,900 product types to 19 countries and regions."
+    },
+    {
+      "id": "5035701",
+      "time": "2026-08-11 18:13:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【漢邦科技：持股5%以上股東合計持股比例降至8%】漢邦科技公告稱，2026年8月7日至11日，股東杭州清科致盛投資合夥企業（有限合夥）透過集中競價交易減持283,138股，佔總股本0.25%。本次權益變動後，其與一致行動人上海清科共創投資合夥企業（有限合夥）、倪正東合計持股比例由8.25%降至8.00%，觸及1%刻度。此次減持系履行此前計劃，尚未實施完畢，不會導致實控人變化，對公司無重大影響。"
+    },
+    {
+      "id": "5035700",
+      "time": "2026-08-11 18:13:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【一鳴食品：股票交易異常波動 提醒投資者注意風險】一鳴食品公告稱，公司股票在2026年8月7日、8月10日、8月11日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司經營正常，無應披露未披露重大事項。近三個交易日換手率分別為10.0625%、7.7402%、10.3738%，累計28.1765%，交易量大幅增加。公司市盈率、市淨率均明顯高於行業水平，提醒投資者注意交易、估值、產品質量、門店經營、原材料價格波動等風險。"
+    },
+    {
+      "id": "5035699",
+      "time": "2026-08-11 18:13:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【立新能源：電力現貨及中長期市場價格受供需和競價機制影響，電價短期呈下降態勢】立新能源釋出異動公告，公司股票於2026年8月10日、8月11日連續兩個交易日收盤價格漲幅偏離值累計超過20%，根據《深圳證券交易所交易規則》的相關規定，屬於股票交易異常波動的情形。受電力體制改革深化及可再生能源補貼退坡等政策因素影響，新能源電力已全面進入電力市場交易，市場化交易電量佔比持續提升，電力現貨及中長期市場價格受供需和競價機制影響，電價短期呈下降態勢。若未來市場化交易規模進一步擴大、電價持續下行，公司平均上網電價存在下滑風險，進而對經營業績產生不利影響。近期公司股價波動主要受市場資金炒作、迎峰度夏用電預期等情緒因素驅動，公司日常生產經營、內外經營環境未發生重大實質性變化，股價存在快速回撥、大幅震盪的風險。"
+    },
     {
       "id": "mkt:019ff04f-475e-7aab-8fef-2e3c59cee17b",
       "time": "2026-08-11 18:12:35",
