@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-12 06:56:15",
+  "updated": "2026-08-12 07:02:36",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 410,
+  "count": 412,
   "history_summary": {
     "cached": 410,
-    "fetched": 0,
+    "fetched": 2,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -18,7 +18,7 @@
       "interval": "this_week",
       "label": "本週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "count": 190,
+      "count": 192,
       "dates": [
         {
           "date": "2026-08-09",
@@ -2186,7 +2186,7 @@
         },
         {
           "date": "2026-08-12",
-          "count": 56,
+          "count": 58,
           "events": [
             {
               "id": "capital:1174528",
@@ -3275,6 +3275,122 @@
               "history_checked_at": "2026-08-05 12:36:00"
             },
             {
+              "id": "capital:1185126",
+              "fid": "1185126",
+              "interval": "this_week",
+              "date": "2026-08-12",
+              "time": "07:00",
+              "datetime": "2026-08-12 07:00:00",
+              "display_time": "08/12 07:00",
+              "country": "日本",
+              "title": "日本8月路透短觀製造業景氣判斷指數",
+              "importance": 1,
+              "previous": "13",
+              "forecast": "--",
+              "actual": "18",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185126",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "13",
+                  "forecast": "-",
+                  "previous": "13"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "13",
+                  "forecast": "-",
+                  "previous": "8"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "8",
+                  "forecast": "-",
+                  "previous": "7"
+                },
+                {
+                  "date": "04/15",
+                  "actual": "7",
+                  "forecast": "-",
+                  "previous": "18"
+                },
+                {
+                  "date": "03/18",
+                  "actual": "18",
+                  "forecast": "-",
+                  "previous": "13"
+                },
+                {
+                  "date": "02/18",
+                  "actual": "13",
+                  "forecast": "-",
+                  "previous": "7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-12 07:02:35"
+            },
+            {
+              "id": "capital:1185127",
+              "fid": "1185127",
+              "interval": "this_week",
+              "date": "2026-08-12",
+              "time": "07:00",
+              "datetime": "2026-08-12 07:00:00",
+              "display_time": "08/12 07:00",
+              "country": "日本",
+              "title": "日本8月路透短觀非製造業景氣判斷指數",
+              "importance": 1,
+              "previous": "25",
+              "forecast": "--",
+              "actual": "28",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185127",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "07/15",
+                  "actual": "25",
+                  "forecast": "-",
+                  "previous": "32"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "32",
+                  "forecast": "-",
+                  "previous": "29"
+                },
+                {
+                  "date": "05/20",
+                  "actual": "29",
+                  "forecast": "-",
+                  "previous": "31"
+                },
+                {
+                  "date": "04/15",
+                  "actual": "31",
+                  "forecast": "-",
+                  "previous": "25"
+                },
+                {
+                  "date": "03/18",
+                  "actual": "25",
+                  "forecast": "-",
+                  "previous": "25"
+                },
+                {
+                  "date": "02/18",
+                  "actual": "25",
+                  "forecast": "-",
+                  "previous": "32"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-08-12 07:02:35"
+            },
+            {
               "id": "capital:1174500",
               "fid": "1174500",
               "interval": "this_week",
@@ -3286,8 +3402,8 @@
               "title": "韓國7月失業率",
               "importance": 1,
               "previous": "2.7 %",
-              "forecast": "-- %",
-              "actual": "-- %",
+              "forecast": "2.7 %",
+              "actual": "2.8 %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174500",
               "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
@@ -26932,6 +27048,122 @@
       "history_checked_at": "2026-08-05 12:36:00"
     },
     {
+      "id": "capital:1185126",
+      "fid": "1185126",
+      "interval": "this_week",
+      "date": "2026-08-12",
+      "time": "07:00",
+      "datetime": "2026-08-12 07:00:00",
+      "display_time": "08/12 07:00",
+      "country": "日本",
+      "title": "日本8月路透短觀製造業景氣判斷指數",
+      "importance": 1,
+      "previous": "13",
+      "forecast": "--",
+      "actual": "18",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185126",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "13",
+          "forecast": "-",
+          "previous": "13"
+        },
+        {
+          "date": "06/17",
+          "actual": "13",
+          "forecast": "-",
+          "previous": "8"
+        },
+        {
+          "date": "05/20",
+          "actual": "8",
+          "forecast": "-",
+          "previous": "7"
+        },
+        {
+          "date": "04/15",
+          "actual": "7",
+          "forecast": "-",
+          "previous": "18"
+        },
+        {
+          "date": "03/18",
+          "actual": "18",
+          "forecast": "-",
+          "previous": "13"
+        },
+        {
+          "date": "02/18",
+          "actual": "13",
+          "forecast": "-",
+          "previous": "7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-12 07:02:35"
+    },
+    {
+      "id": "capital:1185127",
+      "fid": "1185127",
+      "interval": "this_week",
+      "date": "2026-08-12",
+      "time": "07:00",
+      "datetime": "2026-08-12 07:00:00",
+      "display_time": "08/12 07:00",
+      "country": "日本",
+      "title": "日本8月路透短觀非製造業景氣判斷指數",
+      "importance": 1,
+      "previous": "25",
+      "forecast": "--",
+      "actual": "28",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1185127",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "07/15",
+          "actual": "25",
+          "forecast": "-",
+          "previous": "32"
+        },
+        {
+          "date": "06/17",
+          "actual": "32",
+          "forecast": "-",
+          "previous": "29"
+        },
+        {
+          "date": "05/20",
+          "actual": "29",
+          "forecast": "-",
+          "previous": "31"
+        },
+        {
+          "date": "04/15",
+          "actual": "31",
+          "forecast": "-",
+          "previous": "25"
+        },
+        {
+          "date": "03/18",
+          "actual": "25",
+          "forecast": "-",
+          "previous": "25"
+        },
+        {
+          "date": "02/18",
+          "actual": "25",
+          "forecast": "-",
+          "previous": "32"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-08-12 07:02:35"
+    },
+    {
       "id": "capital:1174500",
       "fid": "1174500",
       "interval": "this_week",
@@ -26943,8 +27175,8 @@
       "title": "韓國7月失業率",
       "importance": 1,
       "previous": "2.7 %",
-      "forecast": "-- %",
-      "actual": "-- %",
+      "forecast": "2.7 %",
+      "actual": "2.8 %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1174500",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",

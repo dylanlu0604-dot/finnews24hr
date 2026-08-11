@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-12 06:56:09",
-  "count": 15498,
+  "updated": "2026-08-12 07:02:29",
+  "count": 15486,
   "items": [
+    {
+      "id": "te:markets:574524",
+      "time": "2026-08-12 06:57:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Edges Higher in Morning Trade — New Zealand's stocks rose 28 points, or 0.2%, to 13,889 in Wednesday morning trade, after retreating in the previous session, mainly boosted by consumer discretionary, consumer staples, and utilities. However, rising oil prices amid uncertainty over the reopening of the Strait of Hormuz capped the gain, raising concerns over inflation and also raising questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the US inflation data for clues about the Fed's monetary policy decision at its upcoming meeting. Traders also awaited the release of the RBNZ's business inflation expectations for Q3, due on Thursday, after accelerating slightly in Q2. Among the early gainers were A2 Milk (1.2%), Infratil (0.9%), Westpac Banking Corp. (0.9%), Channel Infrastructure (0.6%), EBOS Group (0.5%), and F&C Investment (0.4%)."
+    },
     {
       "id": "5036437",
       "time": "2026-08-12 06:51:42",
@@ -141093,138 +141105,6 @@
         "國際"
       ],
       "text": "【特朗普顧問告知人工智慧公司，他們不會對開放權重模型進行安全性測試】據兩位熟悉相關討論的訊息人士透露，特朗普政府週二向人工智慧開發者表示，不會對開放權重的人工智慧模型進行自願性安全測試。開放式模型（包括英偉達的Nemotron和Meta的Llama）是指其核心元件對公眾開放的人工智慧系統。封閉式模型則由特定公司控制。美國主要的封閉式模型開發商包括OpenAI、谷歌和Anthropic。據五位知情人士透露，白宮就尚未公佈的測試規則與Meta 、Anthropic、谷歌、英偉達和OpenAI的員工進行了討論。此次會議召開前，OpenAI和Anthropic曾披露，其AI工具曾入侵其他公司的系統。這些入侵事件引發了美國議員的擔憂，即功能日益強大的AI模型是否會被用於實施或協助網路攻擊。OpenAI週二表示，該公司在測試期間的模型捲入了一起網路安全事件，該事件涉及AI系統訪問網際網路。白宮新聞辦公室未回應路透就此次會議提出的置評請求。"
-    },
-    {
-      "id": "5025452",
-      "time": "2026-08-05 07:02:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報59.64美元/盎司。"
-    },
-    {
-      "id": "5025451",
-      "time": "2026-08-05 07:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報鐘聲：中美經貿需要“合作清單” 而非“覆蓋清單”】人民日報鐘聲文章指出，中美應當拉長的是互利共贏的“合作清單”，而不是人為設限的所謂“覆蓋清單”。保護主義提升不了競爭力，築牆設壘換不來安全。中方敦促美方正視兩國業界呼聲，尊重市場經濟規律和公平競爭原則，立即停止錯誤做法，撤銷相關歧視性限制措施。如果美方一意孤行，中方將堅決予以反制。希望美方切實落實兩國元首重要共識，摒棄零和博弈思維，迴歸理性務實軌道，同中方相向而行，推動中美經貿合作健康穩定發展，為中美建設性戰略穩定關係注入更多正能量。"
-    },
-    {
-      "id": "te:markets:572702",
-      "time": "2026-08-05 07:01:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Nears Record High, Tracks Wall Street Higher — New Zealand's stocks rose 70 points, or 0.5%, to 13,973 in Wednesday morning trade, up for the third consecutive session, tracking a rally on Wall Street overnight, buoyed by strong corporate earnings and lower oil prices. The broader index closed near its record high of 13,977, reached on July 29, mainly supported by gains in the financial, consumer staples, and technology sectors. Further moderating oil prices amid optimism over US-Iran peace talks also lifted sentiment, as easing inflation concerns tempered expectations of an interest rate hike. However, the latest data capped the gains, as New Zealand's unemployment rate increased to 5.6%, the highest since Q3 2015, raising expectations that the RBNZ will tighten its monetary policy. Among the early gainers were Summerset Group (2.0%), Infratil (1.4%), A2 Milk (0.9%), Westpac Banking Corp. (0.6%), Fisher & Paykel (0.5%), and Ebos Group (0.3%)."
-    },
-    {
-      "id": "5025450",
-      "time": "2026-08-05 07:01:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三項光伏能耗能效強制性國標明年1月起正式實施】記者昨天（4日）從國家標準委瞭解到，三項光伏領域能耗能效強制性國家標準明年一月起正式實施，三項標準將從源頭嚴控低效產品入市、推動光伏產業技術迭代與綠色升級。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fcf01-89f3-7aab-8f79-439b8ee52cac",
-      "time": "2026-08-05 07:00:12",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia July AIG/PwC Manufacturing Performance Index -19.6; prior -16.8."
-    },
-    {
-      "id": "mkt:019fcf01-847b-7aab-8f79-3a0e2fdec086",
-      "time": "2026-08-05 07:00:10",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Australia AIG Construction Performance Index fell to -40.6 in July from -38.1 previously."
-    },
-    {
-      "id": "mkt:019fcf01-81c3-7aab-8f79-3126d98f0fbc",
-      "time": "2026-08-05 07:00:10",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish"
-      ],
-      "text": "Australia July S&P Global Services PMI (final) 53.6; prior 53.0."
-    },
-    {
-      "id": "mkt:019fcf01-815d-7aab-8f79-297e6ba9a537",
-      "time": "2026-08-05 07:00:10",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Australia July S&P Global Composite PMI (final) 53.2, prior 52.6."
-    },
-    {
-      "id": "mkt:019fcf01-5f72-7aab-8f79-23980a9527a7",
-      "time": "2026-08-05 07:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Ai Group Australian PMI (manufacturing) (Jul) | actual -19.6 | previous -16.8"
-    },
-    {
-      "id": "mkt:019fcf01-5f6d-7aab-8f79-1b190f64148c",
-      "time": "2026-08-05 07:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Australia | Ai Group Australian PCI (construction) (Jul) | actual -40.6 | previous -38.1"
-    },
-    {
-      "id": "5025449",
-      "time": "2026-08-05 06:59:08",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【國內航線燃油附加費今起再次下調】從多家航空公司瞭解到，從今天（5日）起銷售的國內航線機票燃油附加費再次下調。調整後的國內航線燃油附加費標準為：800公里以上航線每位成人旅客收取70元燃油附加費，800公里（含）以下航線每位成人旅客收取40元燃油附加費，相較於調整前分別降低了30元和10元。這是今年6月以來第三次下調國內航線燃油附加費，進一步降低旅客出行成本。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fcf00-82db-7aab-8f79-12aba6ad8b34",
-      "time": "2026-08-05 06:59:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed"
-      ],
-      "text": "【China cuts domestic air fuel surcharge again, effective today】Multiple Chinese carriers said fuel surcharges on domestic tickets fall effective today. New rates: routes over 800 km 70 yuan per adult (down 30 yuan); routes 800 km or less 40 yuan per adult (down 10 yuan). This is the third reduction since June and lowers passenger travel costs."
-    },
-    {
-      "id": "5025448",
-      "time": "2026-08-05 06:57:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名38歲的武裝嫌疑人珍妮娜·約翰·泰萊涉嫌監視特朗普到訪前的安保籌備工作，於特朗普國家高爾夫球場被捕。美國警方表示，之後在其住所搜出一支非法改裝的AR式步槍、防彈衣、大容量彈匣、彈藥，以及寫有“令人擔憂言論”的多本筆記本。"
     }
   ]
 }
