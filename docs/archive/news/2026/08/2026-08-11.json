@@ -1,7 +1,89 @@
 {
   "date": "2026-08-11",
-  "count": 2687,
+  "count": 2695,
   "items": [
+    {
+      "id": "5036203",
+      "time": "2026-08-11 23:40:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1367.11美元/盎司。"
+    },
+    {
+      "id": "5036202",
+      "time": "2026-08-11 23:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約市公寓附加稅是一項危險的試驗。"
+    },
+    {
+      "id": "mkt:019ff17b-1a7d-7aab-8ff5-b4605093d771",
+      "time": "2026-08-11 23:40:04",
+      "tags": [
+        "MKT News",
+        "SLG.O",
+        "Impact bearish",
+        "EQR.O",
+        "VNO.O"
+      ],
+      "text": "President Trump said New York City's apartment tax is a dangerous experiment."
+    },
+    {
+      "id": "mkt:019ff17a-a8ea-7aab-8ff5-ac82a99e7598",
+      "time": "2026-08-11 23:39:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "Aug 11 (Tue) European close: Germany's DAX up 44.25 pts (+0.17%) at 26,399.32; UK's FTSE 100 down 17.90 pts (-0.16%) at 10,844.60; France's CAC 40 down 11.09 pts (-0.13%) at 8,714.94; Euro Stoxx 50 up 16.23 pts (+0.25%) at 6,551.85; Spain's IBEX 35 up 30.99 pts (+0.15%) at 20,213.89; Italy's FTSE MIB up 67.12 pts (+0.13%) at 53,731.00."
+    },
+    {
+      "id": "mkt:019ff17a-94cb-7aab-8ff5-a68ded00d705",
+      "time": "2026-08-11 23:39:30",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Semafor reports U.S. Commerce Secretary Lutnick supports the idea of Intel conducting a secondary share offering."
+    },
+    {
+      "id": "5036201",
+      "time": "2026-08-11 23:39:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英特爾CEO陳立武尋求美國方面批准英特爾二次增發，美國商務部長盧特尼克曾認可英特爾二次增發這一構想。但美國政府 決定不參與英特爾本次二次增發。"
+    },
+    {
+      "id": "mkt:019ff17a-160f-7aab-8ff5-9a1b8937211a",
+      "time": "2026-08-11 23:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Semafor reports the U.S. government has decided not to participate in Intel's follow-on offering."
+    },
+    {
+      "id": "mkt:019ff179-2c3f-7aab-8ff5-94aa889b9370",
+      "time": "2026-08-11 23:37:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Semafor reported that Intel CEO Chen Liwu had sought U.S. approval for a secondary offering of Intel (INTC.O) shares."
+    },
     {
       "id": "mkt:019ff177-2a62-7aab-8ff5-88a9bdfa3394",
       "time": "2026-08-11 23:35:46",

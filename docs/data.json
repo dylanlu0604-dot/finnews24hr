@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-11 23:37:17",
-  "count": 15561,
+  "updated": "2026-08-11 23:41:16",
+  "count": 15560,
   "items": [
+    {
+      "id": "5036203",
+      "time": "2026-08-11 23:40:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1367.11美元/盎司。"
+    },
+    {
+      "id": "5036202",
+      "time": "2026-08-11 23:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約市公寓附加稅是一項危險的試驗。"
+    },
+    {
+      "id": "mkt:019ff17b-1a7d-7aab-8ff5-b4605093d771",
+      "time": "2026-08-11 23:40:04",
+      "tags": [
+        "MKT News",
+        "SLG.O",
+        "Impact bearish",
+        "EQR.O",
+        "VNO.O"
+      ],
+      "text": "President Trump said New York City's apartment tax is a dangerous experiment."
+    },
+    {
+      "id": "mkt:019ff17a-a8ea-7aab-8ff5-ac82a99e7598",
+      "time": "2026-08-11 23:39:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "Aug 11 (Tue) European close: Germany's DAX up 44.25 pts (+0.17%) at 26,399.32; UK's FTSE 100 down 17.90 pts (-0.16%) at 10,844.60; France's CAC 40 down 11.09 pts (-0.13%) at 8,714.94; Euro Stoxx 50 up 16.23 pts (+0.25%) at 6,551.85; Spain's IBEX 35 up 30.99 pts (+0.15%) at 20,213.89; Italy's FTSE MIB up 67.12 pts (+0.13%) at 53,731.00."
+    },
+    {
+      "id": "mkt:019ff17a-94cb-7aab-8ff5-a68ded00d705",
+      "time": "2026-08-11 23:39:30",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Semafor reports U.S. Commerce Secretary Lutnick supports the idea of Intel conducting a secondary share offering."
+    },
+    {
+      "id": "5036201",
+      "time": "2026-08-11 23:39:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "英特爾CEO陳立武尋求美國方面批准英特爾二次增發，美國商務部長盧特尼克曾認可英特爾二次增發這一構想。但美國政府 決定不參與英特爾本次二次增發。"
+    },
+    {
+      "id": "mkt:019ff17a-160f-7aab-8ff5-9a1b8937211a",
+      "time": "2026-08-11 23:38:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Semafor reports the U.S. government has decided not to participate in Intel's follow-on offering."
+    },
+    {
+      "id": "mkt:019ff179-2c3f-7aab-8ff5-94aa889b9370",
+      "time": "2026-08-11 23:37:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Semafor reported that Intel CEO Chen Liwu had sought U.S. approval for a secondary offering of Intel (INTC.O) shares."
+    },
     {
       "id": "mkt:019ff177-2a62-7aab-8ff5-88a9bdfa3394",
       "time": "2026-08-11 23:35:46",
@@ -141584,90 +141666,6 @@
         "其他"
       ],
       "text": "【海南啟動防汛防風四級應急響應】海南省防災減災救災委員會發布關於啟動防汛防風四級應急響應的通知，根據氣象預報，受季風槽影響，預計4日夜間到5日白天，海南的樂東、三亞、保亭、東方、五指山、陵水和昌江等7個市縣的部分鄉鎮將出現80~150毫米的強降水；萬寧、瓊中、儋州、白沙、臨高、屯昌、海口和文昌等8個市縣的部分鄉鎮將出現50~80毫米的降水。"
-    },
-    {
-      "id": "5025144",
-      "time": "2026-08-04 23:40:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌6%，現報78.74美元/桶。"
-    },
-    {
-      "id": "5025143",
-      "time": "2026-08-04 23:40:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報510.10元。"
-    },
-    {
-      "id": "5025142",
-      "time": "2026-08-04 23:40:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所（LME）：自 2026 年 11 月 4 日起，將不再接受嘉能可 Nikkelverk AS 生產的 FHG 品牌 A 級銅用於生成 LME 倉單。"
-    },
-    {
-      "id": "mkt:019fcd6e-773c-7aab-8f73-a11dbb201c20",
-      "time": "2026-08-04 23:39:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Bloomberg reports Iran is considering allowing European countries to clear sea mines in the Strait of Hormuz."
-    },
-    {
-      "id": "5025141",
-      "time": "2026-08-04 23:39:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本大型石油企業引能仕（ENEOS）在收購雪佛龍旗下業務後，計劃將全球增長投資規模提升至 1 萬億日元。引能仕總裁表示，日本引能仕將整體探尋燃料、天然氣以及石化領域的投資機遇。"
-    },
-    {
-      "id": "mkt:019fcd6d-b029-7aab-8f73-9bd503b25a89",
-      "time": "2026-08-04 23:39:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude down 5.00% intraday, trading at $74.66/bbl."
-    },
-    {
-      "id": "5025140",
-      "time": "2026-08-04 23:38:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守79美元/桶，日內跌5.76%。"
-    },
-    {
-      "id": "5025139",
-      "time": "2026-08-04 23:38:45",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：伊朗考慮允許歐洲在霍爾木茲海峽開展排雷作業。"
-    },
-    {
-      "id": "5025138",
-      "time": "2026-08-04 23:38:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌6%，現報75.51美元/桶。"
     }
   ]
 }
