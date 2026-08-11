@@ -1,7 +1,42 @@
 {
   "date": "2026-08-12",
-  "count": 300,
+  "count": 304,
   "items": [
+    {
+      "id": "5036376",
+      "time": "2026-08-12 04:11:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至 6 月 30 日，CoreWeave 營收待交付訂單約 1040 億美元。"
+    },
+    {
+      "id": "mkt:019ff273-539f-7aab-8ffa-53635766626c",
+      "time": "2026-08-12 04:11:12",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact mixed"
+      ],
+      "text": "Business Insider reports Oracle may cut headcount in some business teams by double-digit percentages."
+    },
+    {
+      "id": "5036375",
+      "time": "2026-08-12 04:10:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave二季度營收25.8億美元，分析師預期25.6億美元。"
+    },
+    {
+      "id": "5036374",
+      "time": "2026-08-12 04:09:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國參議院Sanders發函，要求OpenAI、Anthropic、Meta等眾多AI公司暫停開發。"
+    },
     {
       "id": "5036373",
       "time": "2026-08-12 04:09:16",
