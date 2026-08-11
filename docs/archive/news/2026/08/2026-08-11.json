@@ -1,7 +1,186 @@
 {
   "date": "2026-08-11",
-  "count": 1300,
+  "count": 1319,
   "items": [
+    {
+      "id": "mkt:019fefa5-9ac7-7aab-8feb-28eff50f4f19",
+      "time": "2026-08-11 15:07:15",
+      "tags": [
+        "MKT News",
+        "RIVN.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration said Rivian (RIVN.O) is recalling 3,829 U.S. vehicles because turn signals do not function properly, increasing the risk of a collision."
+    },
+    {
+      "id": "5035231",
+      "time": "2026-08-11 15:06:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【芬蘭研究機構：歐盟仍是俄天然氣最大買家】芬蘭能源與清潔空氣研究中心10日釋出的報告顯示，儘管歐盟持續減少對俄羅斯能源的依賴，但仍是俄羅斯液化天然氣和管道天然氣的最大買家。報告說，以7月為例，俄液化天然氣出口總量的49%流向歐盟。在管道天然氣方面，歐盟進口占比為32%。資料顯示，歐盟7月支付俄羅斯約15億歐元（1歐元約合7.78元人民幣），是俄化石燃料第四大買家。在俄能源出口收入中，管道天然氣和液化天然氣分別貢獻5.61億歐元和5.26億歐元。（央視新聞）"
+    },
+    {
+      "id": "mkt:019fefa4-f846-7aab-8feb-24642a18d003",
+      "time": "2026-08-11 15:06:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Highway Traffic Safety Administration said Tesla (TSLA.O) is recalling 20,349 U.S. vehicles because low-beam headlights may be excessively bright, potentially reducing visibility for oncoming drivers and increasing collision risk."
+    },
+    {
+      "id": "5035230",
+      "time": "2026-08-11 15:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年度電影總票房突破245億 國產電影強勢領跑】據網路平臺資料，截至8月11日，2026年度電影總票房（含預售）突破245億元，《飛馳人生3》《功夫女足》《給阿嬤的情書》暫列2026年度電影票房榜前三。（央視財經）"
+    },
+    {
+      "id": "mkt:019fefa4-7336-7aab-8feb-19fe92132f0e",
+      "time": "2026-08-11 15:05:59",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【China's 2026 box office surpasses 24.5 bln yuan; domestic films lead】Online platform data show that as of Aug 11, 2026 China’s total 2026 box office (including presales) exceeded 24.5 billion yuan. Domestic releases Pegasus 3, Kung Fu Women's Football and A Letter to Grandma rank first through third on the 2026 box-office chart."
+    },
+    {
+      "id": "mkt:019fefa3-9e96-7aab-8feb-106abca1642e",
+      "time": "2026-08-11 15:05:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The National Institute of Economic Research (NIER) expects Sweden's CPIF inflation at 1.3% in 2026, unchanged from its June forecast, and at 2.1% in 2027, down from June's 2.2%."
+    },
+    {
+      "id": "5035229",
+      "time": "2026-08-11 15:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【路易威登位於K11 MUSEA的旗艦店申請酒牌】奢侈品牌巨頭路易威登位於尖沙咀K11 MUSEA的旗艦店已申請酒牌。該旗艦店佔地4萬平方英尺，預計將於今年年底開業。酒牌申請人為JUDEAUX, VICTOR BERNARD，其職務為LV現任北亞區款待業務總監。尖沙咀店預計將開設香港首家Le Café及LV The Place Hong Kong。路易威登已在曼谷和首爾開設了類似的概念店。"
+    },
+    {
+      "id": "mkt:019fefa3-44eb-7aab-8feb-0f5dc53496d3",
+      "time": "2026-08-11 15:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sweden's National Institute of Economic Research (NIER) forecasts 2.8% GDP growth in 2027, unchanged from its June projection."
+    },
+    {
+      "id": "5035228",
+      "time": "2026-08-11 15:04:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利埃尼集團股價早盤上漲1.8%。"
+    },
+    {
+      "id": "te:markets:574338",
+      "time": "2026-08-11 15:04:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "US Heating Oil Extends Rally — US heating oil prices extended their rally above $4.20 per gallon, moving back toward a four-month high as prospects for a deal to reopen the Strait of Hormuz dimmed. President Donald Trump made demands on Iran, further dimming hopes for an agreement to reopen the waterway. This followed Iran’s statement that a deal with Oman on new shipping routes was close to being finalized, while warning that reopening the waterway remained conditional on Washington meeting additional demands. Meanwhile, an attack claimed by Iran-backed Houthi militants on Saudi Arabia’s Jazan refinery in the Red Sea compounded supply concerns. Saudi authorities said the fire was extinguished early Sunday but gave no further details. Russia’s fuel export restrictions have also added to supply concerns. Refinery capacity remains strained as demand outpaces supply, with US refiners processing crude at the highest seasonal pace since 2018 despite capacity having fallen by 600,000 barrels per day over the same period."
+    },
+    {
+      "id": "mkt:019fefa3-1844-7aab-8feb-04a070d01323",
+      "time": "2026-08-11 15:04:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The Swedish National Institute of Economic Research (NIER) now projects 2026 GDP growth of 2.4%, up from its June forecast of 2.2%."
+    },
+    {
+      "id": "mkt:019fefa2-dcbe-7aab-8fea-fc2e6737e080",
+      "time": "2026-08-11 15:04:15",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China's Shanghai Composite Index closed down 32.5 points (-0.82%) at 3,934.09 on Tuesday; Shenzhen Composite Index fell 57.52 points (-0.40%) to 14,259.44; CSI 300 Index dropped 38.24 points (-0.81%) to 4,663.79; ChiNext Index rose 11.95 points (+0.34%) to 3,549.16; China's STAR 50 Index fell 28.27 points (-1.63%) to 1,709.50."
+    },
+    {
+      "id": "mkt:019fefa2-d379-7aab-8fea-f09fd044d2e9",
+      "time": "2026-08-11 15:04:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai and Shenzhen turnover CNY 2.321 trillion; Zhongji Xuchuang top by turnover】Total turnover on the Shanghai and Shenzhen exchanges on Aug 11 was CNY 2.321 trillion, down CNY 202.12 billion from the prior session. Shanghai turnover was CNY 1.067 trillion (prior CNY 1.167 trillion), volume 529 mln lots (prior 542 mln lots). Shenzhen turnover was CNY 1.254 trillion (prior CNY 1.356 trillion), volume 643 mln lots (prior 688 mln lots). Top stock by turnover was Zhongji Xuchuang CNY 29.959 billion, followed by Xinyisheng CNY 19.977 billion, Zhaoyi Innovation CNY 17.721 billion, Dongshan Precision CNY 17.589 billion and Fenghua Hi‑Tech CNY 17.293 billion. Data flagged as possibly erroneous; manual verification required."
+    },
+    {
+      "id": "mkt:019fefa2-a3fd-7aab-8fea-e8788cd0bfbd",
+      "time": "2026-08-11 15:04:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank of Korea senior deputy governor says further rate hikes are necessary and the pace of additional tightening should be data-dependent."
+    },
+    {
+      "id": "mkt:019fefa2-0cae-7aab-8fea-e23535df1489",
+      "time": "2026-08-11 15:03:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "Bank of Korea senior deputy governor: strong semiconductor market is boosting wages and domestic demand."
+    },
+    {
+      "id": "mkt:019fefa1-d437-7aab-8fea-dac674c4788d",
+      "time": "2026-08-11 15:03:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Bank of Korea senior deputy governor said the direct impact of higher oil prices and indirect effects through the value chain are still ongoing."
+    },
+    {
+      "id": "mkt:019fefa1-8b06-7aab-8fea-d3a5186d755b",
+      "time": "2026-08-11 15:02:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea senior deputy governor: South Korea's inf is currently driven by both demand and supply factors."
+    },
+    {
+      "id": "5035227",
+      "time": "2026-08-11 15:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "Uniper已確定歐洲約10處可用於出售或出租、開發資料中心的地點。"
+    },
+    {
+      "id": "5035226",
+      "time": "2026-08-11 15:02:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "Uniper執行長被問及政府計劃退出持股一事時表示：我只能重申，柏林方面正在推進雙線方案，最終可能選擇出售股權或進行 IPO。"
+    },
     {
       "id": "mkt:019fefa0-f95b-7aab-8fea-cfaf259dd224",
       "time": "2026-08-11 15:02:11",
