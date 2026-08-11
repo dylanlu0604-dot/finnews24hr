@@ -1,7 +1,107 @@
 {
   "date": "2026-08-11",
-  "count": 521,
+  "count": 531,
   "items": [
+    {
+      "id": "5034757",
+      "time": "2026-08-11 08:44:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪精密與東方電子簽署戰略合作協議】據“艾迪精密”公眾號訊息，8月10日，艾迪精密與東方電子股份有限公司（簡稱“東方電子”）達成戰略合作。雙方將充分發揮各自在高階裝備製造、工業機器人、儲能裝備、電力裝置、能源管理及系統整合等領域的產業和技術優勢，建立長期、穩定、互利共贏的戰略合作伙伴關係。基於本次戰略合作框架，雙方簽署艾迪奧朗9MW分散式光伏電站投資建設運營合作協議。"
+    },
+    {
+      "id": "5034756",
+      "time": "2026-08-11 08:44:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元/日元下跌0.21%，報158.94。"
+    },
+    {
+      "id": "5034755",
+      "time": "2026-08-11 08:43:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡維持2026年通脹預測。"
+    },
+    {
+      "id": "mkt:019fee45-dbad-7aab-8fe2-98c8ed6f3be1",
+      "time": "2026-08-11 08:43:03",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY fell below 159, down 0.17% intraday."
+    },
+    {
+      "id": "te:markets:574229",
+      "time": "2026-08-11 08:42:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Extends Gains on Precious Metals Rally — Silver climbed to around $66 an ounce on Tuesday, hitting a seven-week high and tracking a rally in gold fueled by improving investment demand for precious metals despite rising inflationary risks and expectations for interest rate hikes amid surging oil prices. The white metal also continued to benefit from robust industrial demand tied to expanding production of solar panels and electricity grids. Recent data showed Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. Meanwhile, uncertainty persisted over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz, keeping markets wary of inflation and the outlook for interest rates. Investors also awaited a key US inflation reading this week for fresh clues on the Federal Reserve’s policy outlook."
+    },
+    {
+      "id": "5034754",
+      "time": "2026-08-11 08:42:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "新加坡央行官員：當前貨幣政策立場仍屬恰當。"
+    },
+    {
+      "id": "mkt:019fee44-bec8-7aab-8fe2-91526a16e446",
+      "time": "2026-08-11 08:41:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Singapore's Ministry of Trade and Industry said falling oil inventories and an influx of alternative energy will restrain upward pressure on global energy prices."
+    },
+    {
+      "id": "mkt:019fee44-49e3-7aab-8fe2-8a468648f6d1",
+      "time": "2026-08-11 08:41:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Singapore trade official said an anticipated 12.5% US tariff on Singapore exports is not expected to affect trade flows."
+    },
+    {
+      "id": "mkt:019fee44-3b95-7aab-8fe2-8456cd717dcf",
+      "time": "2026-08-11 08:41:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qianwen Office Assistant launches paid tiers; top annual price 1,499 yuan】On the evening of Aug 10 the Qianwen app rolled out paid plans for its Office Assistant aimed at professional users. Three tiers are offered: Flagship (128 yuan/month or 1,499 yuan/year, auto-renew) with a 20x usage quota; Elite (49 yuan/month or 568 yuan/year) with a 5x quota; Advanced (19 yuan/month or 200 yuan/year) with a 2x quota. Qianwen says core features remain free and routine use will not be affected."
+    },
+    {
+      "id": "te:markets:574228",
+      "time": "2026-08-11 08:40:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Mixed Sector Moves Hold ASX Steady Before RBA Rate Decision — Australian shares steadied in early Tuesday trade, hovering near 9,237 after two sessions of weakness. Traders kept a cautious stance ahead of the Reserve Bank’s policy decision later today, with consensus pointing to rates staying at 4.35% following three hikes this year aimed at cooling inflation amid global uncertainty. Attention also turned to July’s NAB business sentiment survey after June marked a four-month high. Offshore sentiment weighed, as U.S. futures eased after Wall Street losses overnight due to higher oil and tech sector drag. Logistics, consumer durables, tech, and industrial services fell, while energy minerals, non-energy minerals, and healthcare offered support. Standout gainers included Santos (4.1%), Woodside (2.6%), and CSL (1.5%). The big banks mostly slipped, down between 0.3% and 0.8%, with Westpac’s earnings disappointing. Other notable laggards were SGH Ltd. (-6.7%), CAR Group (-3.4%), and Qantas Airways (-2.2%)."
+    },
     {
       "id": "5034752",
       "time": "2026-08-11 08:40:44",
