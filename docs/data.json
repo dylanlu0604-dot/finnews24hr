@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-12 04:21:18",
-  "count": 15624,
+  "updated": "2026-08-12 04:25:10",
+  "count": 15618,
   "items": [
+    {
+      "id": "5036380",
+      "time": "2026-08-12 04:22:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐交所（NYSE）母公司洲際交易所（ICE）發行投資級債券，為收購MarketAxess融資37.5億美元。"
+    },
     {
       "id": "mkt:019ff27c-1d04-7aab-8ffa-71b25df3a202",
       "time": "2026-08-12 04:20:47",
@@ -142263,72 +142271,6 @@
         "Importance 0"
       ],
       "text": "Prudential Financial earnings above expectations at 4.08 USD — Prudential Financial (PRU) released earnings per share at 4.08 USD, compared to market expectations of 3.35 USD."
-    },
-    {
-      "id": "5025305",
-      "time": "2026-08-05 04:23:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "Stonex預計，2026年美國玉米產量將達到161.6億蒲式耳，單產為每英畝184.8蒲式耳。"
-    },
-    {
-      "id": "5025304",
-      "time": "2026-08-05 04:23:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗胡齊斯坦省副省長否認了沙拉姆切口岸附近發生爆炸的相關報道。"
-    },
-    {
-      "id": "5025303",
-      "time": "2026-08-05 04:23:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星探索記憶體新技術：垂直堆疊於AI加速器之上 密度超傳統HBM5十倍】三星電子在美國加州聖克拉拉舉行的未來儲存與記憶體大會（FMS）上推出其V10 Bonding V-NAND，即BV-NAND原型產品。該晶片擁有超過400層結構，並採用全新的晶圓鍵合架構，以提高儲存密度並增強效能。三星表示，其BV-NAND技術較上一代V9 NAND將儲存密度提高約58%，同時提升讀取、寫入以及輸入/輸出效能，以滿足人工智慧系統對更高容量、更高能效儲存解決方案日益增長的需求。三星還展示了其稱業界首款zHBM和zNAND-O架構概念模型。該技術透過垂直堆疊儲存單元，在更小空間記憶體儲更多資料。不同於傳統HBM與AI處理器並列封裝的方式，三星的zHBM會將儲存垂直堆疊於AI加速器之上，以縮短資料傳輸距離，提高頻寬，同時提升能源效率。三星表示，其晶圓鍵合技術有望實現超過傳統HBM5記憶體10倍的儲存密度，同時將能源效率提高3倍，並將熱阻降低一半以上。"
-    },
-    {
-      "id": "mkt:019fce71-5d5b-7aab-8f76-e191b907d916",
-      "time": "2026-08-05 04:22:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Samsung unveils BV‑NAND prototype; proposes vertically stacked zHBM for AI, claims >10x HBM5 density】At the Future Memory & Storage conference in Santa Clara on Aug. 4, Samsung Electronics introduced a V10 Bonding V‑NAND (BV‑NAND) prototype with more than 400 layers using a new wafer‑bonding architecture. Samsung says BV‑NAND increases storage density about 58% versus its V9 NAND while improving read, write and I/O performance to address AI system demand for higher‑capacity, more energy‑efficient memory. The company also presented concept models for zHBM and zNAND‑O that vertically stack memory on top of AI accelerators rather than beside them, shortening data paths, boosting bandwidth and improving power efficiency. Samsung says its wafer‑bonding approach could deliver more than 10x the density of conventional HBM5, roughly 3x the energy efficiency and over 50% lower thermal resistance."
-    },
-    {
-      "id": "5025302",
-      "time": "2026-08-05 04:22:09",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "AMD財報釋出後，戴爾、MARVELL和英特爾的股價均跟隨AMD股價下跌。"
-    },
-    {
-      "id": "te:markets:572685",
-      "time": "2026-08-05 04:21:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "EOG Resources earnings above expectations at 5.07 USD — EOG Resources (EOG) released earnings per share at 5.07 USD, compared to market expectations of 5.00 USD."
-    },
-    {
-      "id": "5025301",
-      "time": "2026-08-05 04:21:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：第二季度AI業務板塊資本開支158.3億美元，市場預期130.9億美元。"
     }
   ]
 }
