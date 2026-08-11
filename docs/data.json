@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-12 05:15:22",
-  "count": 15543,
+  "updated": "2026-08-12 05:19:11",
+  "count": 15541,
   "items": [
+    {
+      "id": "mkt:019ff2b0-fefb-7aab-8ffb-2dfd3f6150d9",
+      "time": "2026-08-12 05:18:33",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LMT.O"
+      ],
+      "text": "【US $185bn 'Golden Dome' space missile-defence program posts early progress】SpaceX and Northrop Grumman completed initial critical tests for the Trump-era $185 billion 'Golden Dome' space-based missile-defence program, including sensor-to-interceptor data links and spacecraft propulsion demonstrations, the US Space Force said. The project will enter a next phase to validate operation in the space environment, a Space Force admiral added. In April the Space Force awarded armed-satellite development contracts to 12 firms, including RTX, Anduril and Lockheed Martin; the government has invested $3.2 billion to date and future contract value could reach hundreds of billions of dollars."
+    },
+    {
+      "id": "5036395",
+      "time": "2026-08-12 05:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.09%，報14925點。"
+    },
     {
       "id": "5036394",
       "time": "2026-08-12 05:08:29",
@@ -141601,42 +141620,6 @@
         "其他"
       ],
       "text": "AMD預計長期每股收益將超20美元，有望超出長期營收目標。"
-    },
-    {
-      "id": "5025380",
-      "time": "2026-08-05 05:17:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.02%，報14755點。"
-    },
-    {
-      "id": "5025379",
-      "time": "2026-08-05 05:16:22",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "阿根廷政府表示，已與海事引航員達成臨時協議，將費用削減20%，以換取船舶航行恢復。"
-    },
-    {
-      "id": "mkt:019fcea2-4368-7aab-8f78-27755adbe14f",
-      "time": "2026-08-05 05:16:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Axios reports the White House will exclude open-source models from its framework for testing advanced AI capabilities."
-    },
-    {
-      "id": "5025378",
-      "time": "2026-08-05 05:16:05",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "白宮將開放模型排除在其測試先進人工智慧能力的框架之外。"
     }
   ]
 }

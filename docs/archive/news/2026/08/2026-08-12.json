@@ -1,7 +1,26 @@
 {
   "date": "2026-08-12",
-  "count": 355,
+  "count": 357,
   "items": [
+    {
+      "id": "mkt:019ff2b0-fefb-7aab-8ffb-2dfd3f6150d9",
+      "time": "2026-08-12 05:18:33",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish",
+        "LMT.O"
+      ],
+      "text": "【US $185bn 'Golden Dome' space missile-defence program posts early progress】SpaceX and Northrop Grumman completed initial critical tests for the Trump-era $185 billion 'Golden Dome' space-based missile-defence program, including sensor-to-interceptor data links and spacecraft propulsion demonstrations, the US Space Force said. The project will enter a next phase to validate operation in the space environment, a Space Force admiral added. In April the Space Force awarded armed-satellite development contracts to 12 firms, including RTX, Anduril and Lockheed Martin; the government has invested $3.2 billion to date and future contract value could reach hundreds of billions of dollars."
+    },
+    {
+      "id": "5036395",
+      "time": "2026-08-12 05:15:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收跌0.09%，報14925點。"
+    },
     {
       "id": "5036394",
       "time": "2026-08-12 05:08:29",
