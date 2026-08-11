@@ -1,7 +1,199 @@
 {
   "date": "2026-08-11",
-  "count": 573,
+  "count": 595,
   "items": [
+    {
+      "id": "mkt:019fee64-d969-7aab-8fe3-2979dbccf917",
+      "time": "2026-08-11 09:16:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesian Automotive Industry Association said Indonesia's July vehicle sales rose 33.3% YoY."
+    },
+    {
+      "id": "mkt:019fee64-58e0-7aab-8fe3-27432b82ab3f",
+      "time": "2026-08-11 09:16:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China's most-active palladium futures contract rose more than 3% to 334.95 yuan/gram."
+    },
+    {
+      "id": "5034803",
+      "time": "2026-08-11 09:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯：越南與澳大利亞全面戰略伙伴關係深化取得實質性進展。"
+    },
+    {
+      "id": "mkt:019fee64-1ea6-7aab-8fe3-1d40ba65f911",
+      "time": "2026-08-11 09:16:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian Prime Minister Albanese said progress has been significant in deepening the comprehensive strategic partnership between Vietnam and Australia."
+    },
+    {
+      "id": "mkt:019fee63-e380-7aab-8fe3-15cfbdda3806",
+      "time": "2026-08-11 09:15:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A South Korean minister said investment in single-stock leveraged ETFs has been reduced."
+    },
+    {
+      "id": "mkt:019fee63-c253-7aab-8fe3-0c44d9bd9a01",
+      "time": "2026-08-11 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session 0.17% higher at 25,991, trading a 57-point premium to the cash index."
+    },
+    {
+      "id": "mkt:019fee63-9176-7aab-8fe3-061eddf6c159",
+      "time": "2026-08-11 09:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A South Korean minister said authorities will take all possible policy measures to reduce market volatility."
+    },
+    {
+      "id": "5034802",
+      "time": "2026-08-11 09:15:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7900，較上日調低16點】人民幣兌美元中間價報6.7900，較上日調低16點。"
+    },
+    {
+      "id": "5034801",
+      "time": "2026-08-11 09:15:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7900元。"
+    },
+    {
+      "id": "5034800",
+      "time": "2026-08-11 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.25%，報26012.90點，高水75.41點。"
+    },
+    {
+      "id": "5034799",
+      "time": "2026-08-11 09:14:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼協會資料：7月汽車銷量同比增長33.3%。"
+    },
+    {
+      "id": "mkt:019fee62-bdb1-7aab-8fe2-ff5e44250795",
+      "time": "2026-08-11 09:14:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【1H2026 global humanoid robot shipments near 19,100; China manufacturers >97% — Smart Analytics Global】Independent market researcher Smart Analytics Global estimates global humanoid robot shipments in 1H2026 at about 19,100 units, nearly 3x YoY. China-based manufacturers accounted for over 97% of shipments. Zhiyuan Robotics overtook Yushu Technology for the first time, shipping 8,400 units (44% of global shipments) versus Yushu’s 5,900. Shipments significantly exceeded volumes from Tesla and Figure AI. Industrial and commercial applications comprised over 70% of shipments, up from about 50% a year earlier."
+    },
+    {
+      "id": "5034798",
+      "time": "2026-08-11 09:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "韓部長：單一股票槓桿ETF投資規模已縮減。"
+    },
+    {
+      "id": "5034797",
+      "time": "2026-08-11 09:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國部長：將採取一切可行政策措施緩解市場波動。"
+    },
+    {
+      "id": "5034796",
+      "time": "2026-08-11 09:11:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部公開徵求《面向車路協同的車雲通訊安全技術要求》等50項通訊行業標準報批意見】工信部：根據行業標準制修訂計劃，相關標準化技術組織已完成《面向車路協同的車雲通訊安全技術要求》等50項通訊行業標準。為進一步聽取社會各界意見，現予以公示。以上標準報批稿請登入“工業和資訊化標準資訊服務平臺”網站（https://std.miit.gov.cn）“專案公示”欄目閱覽，如有意見請於公示期內反饋。公示時間：2026年8月12日—2026年9月10日。"
+    },
+    {
+      "id": "mkt:019fee5f-4321-7aab-8fe2-f0d562631627",
+      "time": "2026-08-11 09:10:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's Ministry of Industry and Information Technology (MIIT) opened a public consultation on draft approvals for 50 telecom industry standards, including Technical Requirements for Vehicle‑Cloud Communication Security for Vehicle‑Road Collaboration."
+    },
+    {
+      "id": "5034795",
+      "time": "2026-08-11 09:10:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華宏科技：目前暫未從事新能源汽車廢舊電池拆解業務】華宏科技(002645)8月11日在互動平臺表示，公司目前暫未從事新能源汽車廢舊電池拆解業務。但公司將持續關注該行業的發展動態與政策導向，並結合公司整體戰略規劃與實際經營需要，決定後續是否開展相關業務。"
+    },
+    {
+      "id": "te:markets:574230",
+      "time": "2026-08-11 09:10:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Gives Back Half of Intervention Gains — The Japanese yen weakened past 159 per dollar on Tuesday, retracing about half of the gains from its recent intervention-driven rally and testing the resolve of both Tokyo and Washington to support the currency. Japan and the US carried out a record coordinated yen-buying operation at the end of July as the currency fell to 40-year lows and raised concerns about global economic stability, but disappointed markets by not following up with additional measures. The yen remained under pressure from longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate."
+    },
+    {
+      "id": "5034794",
+      "time": "2026-08-11 09:09:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【西子航空啟動IPO輔導】證監會網站披露，浙江西子航空工業集團股份有限公司（簡稱“西子航空”）於2026年8月10日在浙江證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。輔導備案報告顯示，西子航空控股股東為西子聯合控股有限公司，持股比例為57.54%。"
+    },
+    {
+      "id": "5034793",
+      "time": "2026-08-11 09:09:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Strategy上週出售價值超1.08億美元的比特幣】8月10日，Strategy披露上週出售價值1.086億美元的比特幣，同時出售660萬股普通股，價值約6.53億美元，並回購價值1.086億美元的Stretch優先股（STRC）。"
+    },
+    {
+      "id": "5034792",
+      "time": "2026-08-11 09:09:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度砸8400億盧比，支援該國迄今規模最大海上油氣勘探計劃】面對高企的能源進口依賴成本和地緣衝突帶來的供應風險，印度正將目光投向海洋深處。據《印度教徒報》等媒體日前報道，印度政府近期批准“攪動乳海”國家近海勘探計劃，擬投入8400億盧比（約合88億美元）支援印度發展深水油氣勘探開發。(環球時報)"
+    },
+    {
+      "id": "5034791",
+      "time": "2026-08-11 09:09:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Anthropic在重磅IPO之前與潛在投資者會面以穩定投資者信心】據報道，人工智慧初創公司Anthropic正與潛在投資者會面，為計劃於9月或10月初啟動的IPO提振市場信心。投資者就多項挑戰向Anthropic施壓，包括成本更低的AI系統、特朗普政府帶來的緊張局勢，以及資料中心建設遭遇的阻力。Anthropic向部分投資者透露，計劃進一步拓展醫療與生物領域業務。"
+    },
     {
       "id": "mkt:019fee5d-5828-7aab-8fe2-e97087061307",
       "time": "2026-08-11 09:08:42",
