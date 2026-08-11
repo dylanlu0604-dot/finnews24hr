@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-11 15:08:12",
-  "count": 15875,
+  "updated": "2026-08-11 15:12:11",
+  "count": 15874,
   "items": [
+    {
+      "id": "mkt:019fefa9-5f3d-7aab-8feb-42bc4ff4779a",
+      "time": "2026-08-11 15:11:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mammoth, Shandong Taikoo to build China’s first Boeing 777 P2F conversion line in Qingdao; first unit due Sep 2026】US Mammoth Cargo and Shandong Taikoo Aircraft Engineering will build China’s first Boeing 777 passenger-to-freighter (P2F) conversion line at Qingdao Jiaodong International Airport. Mammoth plans nine global P2F lines: Fort Worth 5, Manchester 2 and Qingdao 2; the first Qingdao line is scheduled to enter production in Sept 2026, the second in 2027."
+    },
+    {
+      "id": "5035236",
+      "time": "2026-08-11 15:10:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團資料：法國日前基荷電力上漲 20.5%，報 141 歐元 / 兆瓦時。"
+    },
+    {
+      "id": "5035235",
+      "time": "2026-08-11 15:10:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【波音777寬體客機改裝貨機生產線落地青島，計劃9月投產】據山東省交通運輸廳訊息，近日，美國猛獁貨機公司與山東太古飛機工程有限公司達成戰略合作，將在青島膠東國際機場建設中國首條波音777寬體客機改裝貨機生產線。根據規劃，猛獁在全球共佈局9條客改貨生產線，其中美國沃斯堡5條、英國曼徹斯特2條、中國青島2條（首條計劃2026年9月正式投產，第二條預計2027年建成投用）。"
+    },
+    {
+      "id": "mkt:019fefa8-37e9-7aab-8feb-3be2f456e9b6",
+      "time": "2026-08-11 15:10:06",
+      "tags": [
+        "MKT News",
+        "UN01.DE"
+      ],
+      "text": "Uniper expects to disclose details of discussions on a data-center transaction within the next 18 months."
+    },
+    {
+      "id": "5035234",
+      "time": "2026-08-11 15:09:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特斯拉、Rivian、豐田在美召回部分車輛】美國國家公路交通安全管理局：特斯拉正在召回20,349輛美國車輛，原因是前大燈近光燈過亮，可能會降低迎面而來的駕駛員的能見度，從而增加發生碰撞的風險；Rivian正在召回3,829輛美國車輛，因轉向訊號燈無法正常工作，從而增加了發生碰撞的風險；豐田汽車工程製造公司正在召回508354輛美國市場車輛，原因是儀表盤無法顯示關鍵安全資訊，會提升碰撞事故及人員受傷風險。"
+    },
+    {
+      "id": "te:markets:574347",
+      "time": "2026-08-11 15:09:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Gas Prices Rise Further — UK natural gas prices extended sharp gains on Tuesday, rising to 151 pence per therm, as the prospect of a deal to reopen the Strait of Hormuz faded amid demands from the US and Iran. President Trump on Monday called for Iran to compensate for people it has killed in conflicts, after Tehran sought compensation for damage caused by US and Israeli attacks. This tempered hopes for an immediate resolution that would restore LNG flows through the Persian Gulf. The ongoing disruption has tightened global LNG supplies, intensifying competition with Asian buyers and hampering Europe’s efforts to replenish gas stockpiles ahead of winter. European gas storage sites recently fell to their lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Traders are also monitoring extended supply cuts at Norway’s Ormen Lange gas field, Europe’s largest pipeline supplier, as further disruptions could amplify price volatility."
+    },
+    {
+      "id": "5035233",
+      "time": "2026-08-11 15:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：從昨晚開始，我們一直在努力消除俄羅斯對扎波羅熱攻擊的後果。目前，該市已有6人死亡、19人受傷的報告。"
+    },
+    {
+      "id": "mkt:019fefa6-2b8f-7aab-8feb-3654afb90c33",
+      "time": "2026-08-11 15:07:52",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "【China A-shares close: Shanghai Composite Index down 0.82%; robotics spike in afternoon】China A-shares reversed early gains to close lower: Shanghai Composite Index -0.82%, Shenzhen Composite Index -0.40%, ChiNext Index +0.34%. Turnover on the two exchanges topped 2.3 trillion yuan and more than 3,500 stocks fell. Innovative-drug names were intermittently active, with Baihua Medical posting a sixth straight daily limit-up. Robotics stocks surged in the afternoon and MLCC names led sector gains. Non-ferrous metals fell broadly; Luoyang Molybdenum, Zijin Mining and Chifeng Gold were notable decliners."
+    },
     {
       "id": "mkt:019fefa5-9ac7-7aab-8feb-28eff50f4f19",
       "time": "2026-08-11 15:07:15",
@@ -144526,80 +144600,6 @@
         "其他"
       ],
       "text": "【優刻得“算力出海解決方案”入選工信部典型案例】據優刻得訊息，近日，工信部組織開展的2025年度算力基礎設施典型案例遴選結果公佈，優刻得“面向中小企業的一站式跨境算力出海解決方案”入選。該方案以“基礎設施全球化、服務能力全鏈路、安全合規一體化”為核心理念，面向跨境電商、遊戲、智慧硬體、AI應用等行業，構建覆蓋資源、網路、安全、模型服務和行業應用的綜合能力矩陣。"
-    },
-    {
-      "id": "5023903",
-      "time": "2026-08-04 15:12:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "力積電錶示與美光的合作將按計劃進行。"
-    },
-    {
-      "id": "5023902",
-      "time": "2026-08-04 15:11:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "力積電錶示管理團隊保持穩定。"
-    },
-    {
-      "id": "5023901",
-      "time": "2026-08-04 15:11:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行會議紀要：除最近的加息外，可能還需要採取進一步行動。一位成員表示，基於實際經濟發展和通脹指標，適宜確定貨幣政策的未來方向。"
-    },
-    {
-      "id": "5023900",
-      "time": "2026-08-04 15:10:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國銀行：美元/日元期權資金流動顯示市場對該貨幣對缺乏共識】據美國銀行，近期美元兌日元期權交易活動在長期資金賬戶和短期資金賬戶中表現不一。駐倫敦的G10外匯期權交易主管Julian Weiss週一表示，顯而易見的是，對於美元前景，市場仍未達成廣泛共識，“我們看到一些投資者透過槓桿美元看漲期權結構來規避近期美元/日元的走勢，而另一些投資者則建立了新的中期頭寸，預期美元將進一步走弱”。"
-    },
-    {
-      "id": "5023899",
-      "time": "2026-08-04 15:10:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海嘉定宅地12.04億元底價成交】8月4日，上海七批次土拍正式開啟。其中，嘉定主城宅地規劃建築面積66163.94平方米，容積率2.0，起始價12.04億元，起始樓面價18200元/平方米。最終綠城以底價12.04億元競得該地塊。"
-    },
-    {
-      "id": "5023898",
-      "time": "2026-08-04 15:10:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI回應商業糾紛案】針對蘋果公司就商業秘密案件昨日（8 月 3 日）向美國法院申請臨時禁令，OpenAI 公司釋出回應文章《蘋果對此事的處理有誤》（Apple is getting this wrong）。"
-    },
-    {
-      "id": "mkt:019fcb9b-d960-7aab-8f67-83642530bf9a",
-      "time": "2026-08-04 15:10:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea minutes: one member said future monetary policy direction should be determined based on actual economic developments and inflation indicators."
-    },
-    {
-      "id": "5023897",
-      "time": "2026-08-04 15:09:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩軍方稱繳獲了從敘利亞走私的“冰雹”火箭彈。"
-    },
-    {
-      "id": "mkt:019fcb9a-9538-7aab-8f67-780c68adf573",
-      "time": "2026-08-04 15:08:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump 'threat-then-withdraw' cycle wearing thin, weakening negotiating credibility】Trita Parsi, executive vice president of the Quincy Institute for Responsible Statecraft, said on Monday that Trump’s repeated pattern of escalating military threats against Iran and then canceling attacks has damaged prospects for a negotiated settlement. “It has become a tiresome pattern. If it continues, ultimately all negotiating credibility will be lost. People will question whether agreements will be honored and whether offered incentives are credible — and the credibility of the threats themselves will be eroded,” she said."
     }
   ]
 }
