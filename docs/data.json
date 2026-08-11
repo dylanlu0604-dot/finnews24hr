@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-12 04:17:26",
-  "count": 15630,
+  "updated": "2026-08-12 04:21:18",
+  "count": 15624,
   "items": [
+    {
+      "id": "mkt:019ff27c-1d04-7aab-8ffa-71b25df3a202",
+      "time": "2026-08-12 04:20:47",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SEC filings show Musk close associate Gracias held a 6.5% passive ownership stake in SpaceX (SPCX.O) as of June 30, 2026."
+    },
+    {
+      "id": "5036379",
+      "time": "2026-08-12 04:20:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【法國央行預計第三季度經濟增長0.2%】當地時間8月11日，法國央行釋出最新經濟調查報告，預計法國今年第三季度國內生產總值（GDP）環比增長0.2%，與第二季度增速持平。法國央行表示，第三季度經濟增長預計主要受到市場服務業活動支撐。7月份，法國工業和市場服務業活動繼續增長，建築業活動總體保持穩定。法國央行預計，能源行業在連續兩個季度下滑後有望於第三季度反彈。法國央行同時指出，目前這一預測仍存在較大不確定性。未來可能出現的新一輪高溫天氣、中東局勢以及目前可獲得的三季度經濟資料仍較有限等因素，都可能影響經濟表現。法國國家統計與經濟研究所此前預計，法國第三季度GDP將增長0.1%。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff27b-78f0-7aab-8ffa-6c51fa84b297",
+      "time": "2026-08-12 04:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "API weekly U.S. crude stock report for week ended Aug. 7 is due in 10 minutes."
+    },
+    {
+      "id": "te:markets:574512",
+      "time": "2026-08-12 04:18:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Slip as Oil Rebounds — US stocks closed lower on Tuesday as markets assessed energy prices and the prospects of a Federal Reserve rate hike this year. The S&P 500 lost 0.3%, the Nasdaq fell 0.3%, and the Dow shed 184 points. Crude oil prices were volatile amid conflicting signals over developments in the Middle East, paring earlier losses after Iran reiterated that it would keep the Strait of Hormuz closed until its demands are met. Treasury yields eased, but credit-sensitive hyperscalers declined, with Alphabet down 3.8%, Oracle losing 3.7%, Amazon shedding 2.1%, and SpaceX falling 3.9%. Intel (+0.2%) rose its planned stock offering by $5 billion to $20 billion. Nvidia (-0%) reportedly secured $500 billion in private financing from banks for AI infrastructure, increasing leverage across the sector. Investors now await Wednesday's CPI report after several FOMC members signaled a possible rate hike next month. SMCI (+0.4%) and CoreWeave (+2.4%) are scheduled to report after the bell."
+    },
+    {
+      "id": "5036378",
+      "time": "2026-08-12 04:18:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車將在貸款協議中鎖定至多45億美元供應商庫存，以防供應紊亂。"
+    },
     {
       "id": "mkt:019ff278-02a5-7aab-8ffa-63c3dcdab45b",
       "time": "2026-08-12 04:16:18",
@@ -142278,113 +142329,6 @@
         "其他"
       ],
       "text": "SpaceX：第二季度AI業務板塊資本開支158.3億美元，市場預期130.9億美元。"
-    },
-    {
-      "id": "mkt:019fce6e-f3c8-7aab-8f76-da7bf6256a0f",
-      "time": "2026-08-05 04:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "API report on U.S. crude inventories for the week to July 31 due in 10 minutes."
-    },
-    {
-      "id": "5025300",
-      "time": "2026-08-05 04:19:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX在公佈業績後盤後跌幅擴大至8.5%。"
-    },
-    {
-      "id": "5025299",
-      "time": "2026-08-05 04:19:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD：第二季度資本支出8.08億美元，預估2.986億美元。"
-    },
-    {
-      "id": "5025298",
-      "time": "2026-08-05 04:18:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD：第二季度研發支出25.3億美元，預估24.5億美元。"
-    },
-    {
-      "id": "5025297",
-      "time": "2026-08-05 04:18:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：約56%的積壓訂單預計在一年內確認收入，約34%預計在1至3年內確認收入。"
-    },
-    {
-      "id": "mkt:019fce6d-6f01-7aab-8f76-d54396a3c294",
-      "time": "2026-08-05 04:18:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "AMD.O",
-        "Impact bearish",
-        "SPCX.O"
-      ],
-      "text": "Following earnings releases, AMD (AMD.O) and SpaceX (SPCX.O) shares each fell about 8% in U.S. after-hours trading."
-    },
-    {
-      "id": "mkt:019fce6d-1adc-7aab-8f76-cef10c74cbf8",
-      "time": "2026-08-05 04:18:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish"
-      ],
-      "text": "AMD (AMD.O) expects Q3 2026 revenue of $12.7-13.3 bln, vs. consensus $12.51 bln."
-    },
-    {
-      "id": "5025296",
-      "time": "2026-08-05 04:17:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD預計第三季度經調整毛利率大約56％，預估56.2％。"
-    },
-    {
-      "id": "5025295",
-      "time": "2026-08-05 04:17:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD預計第三季營收在127億至133億美元，市場預估為125.1億美元。"
-    },
-    {
-      "id": "te:markets:572684",
-      "time": "2026-08-05 04:17:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Advanced Micro Devices earnings above expectations at 1.66 USD — Advanced Micro Devices (AMD) released earnings per share at 1.66 USD, compared to market expectations of 1.60 USD."
-    },
-    {
-      "id": "5025294",
-      "time": "2026-08-05 04:17:28",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "AMD股價在第二季度財報釋出後下跌8%。"
     }
   ]
 }
