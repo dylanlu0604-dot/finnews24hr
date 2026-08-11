@@ -1,7 +1,107 @@
 {
-  "updated": "2026-08-11 22:21:13",
-  "count": 15576,
+  "updated": "2026-08-11 22:30:08",
+  "count": 15571,
   "items": [
+    {
+      "id": "5036137",
+      "time": "2026-08-11 22:28:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：安森基金敦促獅門影業考慮出售公司。"
+    },
+    {
+      "id": "5036136",
+      "time": "2026-08-11 22:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯國防部通報，俄武裝力量對敖德薩南部一艘巡邏艇實施打擊。該艇用於護送向烏克蘭港口運送供烏武裝部隊武器的貨船。"
+    },
+    {
+      "id": "mkt:019ff138-9435-7aab-8ff4-d20a184c08bf",
+      "time": "2026-08-11 22:27:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Manus to resume independent operations; some users' data to be deleted】On Aug 11 Manus said it will resume operating as an independent company. As part of that transition and to comply with regulatory requirements in certain jurisdictions, data for some users created on or after Dec 29, 2025 will be deleted starting 08:00 SGT on Aug 23, 2026 and through Aug 24, 2026. Affected users can back up data until 07:59 SGT on Aug 23, 2026 and may restore data from 08:00 SGT on Aug 25, 2026. Unaffected users can continue using Manus with no action required."
+    },
+    {
+      "id": "5036135",
+      "time": "2026-08-11 22:27:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "獅門影業股價最高暴漲 6%。"
+    },
+    {
+      "id": "mkt:019ff138-3aa4-7aab-8ff4-cd3351176fbd",
+      "time": "2026-08-11 22:27:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Russian Defence Ministry said Russian forces sank a patrol boat in waters south of Odesa. The vessel had been escorting a freighter transporting weapons to Ukrainian ports for the Ukrainian armed forces."
+    },
+    {
+      "id": "5036134",
+      "time": "2026-08-11 22:26:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊與巴基斯坦內政部長舉行會談。"
+    },
+    {
+      "id": "5036133",
+      "time": "2026-08-11 22:25:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "3M 印度公司稱艾哈邁達巴德工廠已全面恢復生產。"
+    },
+    {
+      "id": "5036132",
+      "time": "2026-08-11 22:23:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【拉脫維亞啟動全國協同行動遏制非法移民】拉脫維亞政府11日啟動代號“狼人行動”的全國協同行動，以遏制該國與白俄羅斯接壤的邊境非法移民活動。據拉脫維亞總理府釋出的新聞公告，此次行動由總理安德里斯·庫爾貝格斯發起，總理府危機管理中心協調內政部下屬邊防警衛隊、國家警察局以及國家武裝部隊等多方聯合行動，計劃持續到8月底。自2021年以來，拉脫維亞方面因移民強行越境持續收緊與白俄羅斯交界處的邊境管制政策，帕特涅基口岸現僅允許機動車通行。拉脫維亞政府7月1日決定將拉白邊境地區的強化警戒狀態延長至今年年底。據當地媒體報道，今年以來，拉脫維亞邊防人員已攔截近9500次非法越境企圖。（新華社）"
+    },
+    {
+      "id": "mkt:019ff134-cec3-7aab-8ff4-c1dd24fe53b0",
+      "time": "2026-08-11 22:23:17",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish"
+      ],
+      "text": "Texas governor says Oracle has pledged to comply with data-center standards."
+    },
+    {
+      "id": "mkt:019ff133-cecd-7aab-8ff4-be4c4e059294",
+      "time": "2026-08-11 22:22:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Pakistan's interior minister to meet Iran's foreign minister."
+    },
+    {
+      "id": "te:markets:574467",
+      "time": "2026-08-11 22:20:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Falls for 2nd Session — The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the supramax index went down 0.2% to 1,600, the lowest in nine weeks. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.3% to 2,312, its highest level since June 2."
+    },
     {
       "id": "mkt:019ff131-dc14-7aab-8ff4-b7d2db6b26b8",
       "time": "2026-08-11 22:20:04",
@@ -141684,154 +141784,6 @@
         "國際"
       ],
       "text": "市場訊息：俄羅斯總統普京與巴西總統通電話。"
-    },
-    {
-      "id": "te:economy:572621",
-      "time": "2026-08-04 22:29:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Economic Optimism Index",
-        "Importance 1"
-      ],
-      "text": "US Economic Sentiment Slips In August — The RealClearMarkets/TIPP Economic Optimism Index edged down to 45.1 in August 2026 from 45.5 in July, missing market expectations of 47.5 and remaining below the neutral 50 mark. The Six-Month Economic Outlook index fell to 39.9 from 42.1, reflecting weaker expectations for the economy. Meanwhile, the Personal Financial Outlook, which measures households' expectations for their finances over the next six months, rose to 53 from 52.2, remaining the only component above the neutral threshold. Confidence in Federal Economic Policies, a measure of views on the effectiveness of government economic policies, also improved slightly, edging up to 42.3 from 42.1."
-    },
-    {
-      "id": "5025075",
-      "time": "2026-08-04 22:29:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "跨山輸油管道 8 月配額分配為零。"
-    },
-    {
-      "id": "5025074",
-      "time": "2026-08-04 22:29:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "PALANTIR股價漲幅擴大至26%。"
-    },
-    {
-      "id": "5025073",
-      "time": "2026-08-04 22:28:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【黑石集團為Anthropic晶片交易推銷鉅額債務融資方案】黑石集團已與投資者進行初步討論，以評估他們對第二筆鉅額債務融資方案的興趣，該方案旨在為Anthropic PBC使用Alphabet旗下谷歌公司的晶片提供資金。據知情人士透露，一項初步提議涉及至少360億美元的債務，這將超過阿波羅全球管理公司（Apollo Global Management Inc.）和黑石集團大約兩個月前敲定的350億美元債務規模。這一潛在的新融資輪次緊隨 Anthropic 秘密提交美國首次公開募股（IPO）申請之後，該公司正試圖趕在競爭對手OpenAI之前登陸公開市場"
-    },
-    {
-      "id": "5025072",
-      "time": "2026-08-04 22:27:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統：我正式任命伊霍爾・克利緬科出任烏克蘭國家安全與國防委員會新任秘書。"
-    },
-    {
-      "id": "5025071",
-      "time": "2026-08-04 22:26:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【義大利 6 月自利比亞、美國、伊拉克的原油進口量增加】據媒體整理的義大利政府部門資料，義大利 6 月從利比亞、美國、伊拉克等多個供應國的原油進口量有所提升。來自美國的進口量升至去年 10 月以來最高。伊拉克的到貨量為去年 12 月以來最高。沙烏地阿拉伯的進口規模則跌至去年 12 月以來最低。利比亞連續第 12 個月成為義大利第一大原油供應國。6 月其餘主要供應國依次為亞塞拜然、哈薩克以及伊拉克。"
-    },
-    {
-      "id": "5025070",
-      "time": "2026-08-04 22:25:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "KRAKEN：正在調查導致加密貨幣和法定貨幣提現延遲的問題。"
-    },
-    {
-      "id": "5025069",
-      "time": "2026-08-04 22:25:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，一艘位於荷臺達海岸外 13 英里處的印度船隻遭無人艇襲擊後沉沒。"
-    },
-    {
-      "id": "5025068",
-      "time": "2026-08-04 22:25:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【煉油廠遇襲頻次下降，俄羅斯石油流量跌至七週低位】由於烏克蘭無人機襲擊目標發生臨時轉移，俄羅斯煉油廠壓力有所緩解，但海外原油出貨量出現下滑；不過未來數週，一旦針對煉油設施的襲擊重啟，該國原油出口或將再度回升。媒體整理的油輪運輸資料顯示，截至 8 月 2 日的四周內，俄羅斯原油出口量降至每日 390 萬桶，六週來首次跌破 400 萬桶關口。7 月下旬，基輔方面轉而襲擊黑海、亞速海油輪以及俄羅斯西部地區的倉庫，俄羅斯煉油廠獲得短暫喘息，得以開展檢修，並在近幾周提高加工負荷。"
-    },
-    {
-      "id": "mkt:019fcd2a-2135-7aab-8f72-8d90d7efd47f",
-      "time": "2026-08-04 22:25:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Reports said an Indian vessel sank 13 miles off the coast of Hodeidah after an attack by an unmanned surface vessel."
-    },
-    {
-      "id": "5025067",
-      "time": "2026-08-04 22:23:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《八仙！》累計票房超12.34億，進入中國影史動畫片票房榜前十。"
-    },
-    {
-      "id": "5025066",
-      "time": "2026-08-04 22:22:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國務卿稱有關重開霍爾木茲海峽的協議尚未敲定】當地時間8月4日，美國國務卿魯比奧表示，與伊朗就重新開放霍爾木茲海峽進行的談判“已經取得進展”，但協議尚未最終敲定，希望協議“很快能夠達成”。（央視新聞）"
-    },
-    {
-      "id": "5025065",
-      "time": "2026-08-04 22:22:11",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通：美國高等級外幣債券需求升至年內高點】摩根大通週二研報顯示，外國投資者對美國投資級企業債的吸引力達到 2025 年 4 月以來最高水平。包括納撒尼爾・羅森鮑姆在內的策略師寫道，該行追蹤美元高等級債券吸引力的指數週環比上行 12 個基點，報 61 個基點，為去年 4 月以來的最高值。該變化源於上週歐洲、中東、非洲地區全部幣種以及亞太地區多數幣種的對沖成本下行，平均下降 10.4 個基點。此前美聯儲最新會議過後，市場已消化掉美聯儲短期加息預期，美元短期利率隨之回落。美元高等級債券收益率小幅上行 1.4 個基點，也助推了其對外吸引力。日本投資者短端債券的利差收益自 2025 年 4 月以來首次轉正，上行 13 個基點；10 年期債券利差收益改善 16 個基點。"
-    },
-    {
-      "id": "5025064",
-      "time": "2026-08-04 22:21:59",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "馬達加斯加央行將利率從 12% 上調至 12.5%。"
-    },
-    {
-      "id": "5025063",
-      "time": "2026-08-04 22:21:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "突尼西亞央行維持關鍵利率在 7% 不變。"
-    },
-    {
-      "id": "te:markets:572611",
-      "time": "2026-08-04 22:21:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Canadian Shares Rise on Lower Oil Prices — The S&P/TSX Composite Index rose nearly 1% to trade above the 35,500 mark on Tuesday after Monday's Civic Holiday, supported by lower oil prices and broad-based gains. Crude prices fell after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about inflation and the higher interest rate outlook. Financial stocks advanced, with RBC, TD Bank, BMO, CIBC, and Scotiabank all gaining about 1%. Brookfield Asset Management jumped more than 6% after completing its acquisition of Oaktree. Meanwhile, firmer gold and copper prices fueled a rally in mining shares, with Agnico Eagle up over 5%, Barrick adding nearly 5%, WPM rising more than 6%, and Franco-Nevada, Teck Resources, First Quantum, Lundin Mining and other peers climbing between 3% and 10%. Shopify gained nearly 1.5% ahead of earnings on Wednesday. In contrast, energy stocks declined on weaker oil prices, with Suncor and Canadian Natural down 4%."
     }
   ]
 }
