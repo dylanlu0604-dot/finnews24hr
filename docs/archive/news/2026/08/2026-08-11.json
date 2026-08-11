@@ -1,7 +1,130 @@
 {
   "date": "2026-08-11",
-  "count": 1408,
+  "count": 1422,
   "items": [
+    {
+      "id": "te:economy:574369",
+      "time": "2026-08-11 15:43:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10-Year Gilt Yield Tops 5% — The UK 10-year gilt yield rose above 5% as a sharp increase in oil prices revived concerns over inflation and the outlook for monetary policy. Brent crude climbed above $89 per barrel as tensions between the US and Iran intensified and prospects for a Middle East agreement became less certain. President Donald Trump has issued tougher demands on Tehran, while Iran continues to seek reparations as part of negotiations to end the conflict. Higher energy costs are particularly concerning for the UK, a net oil importer that has struggled with persistent inflation, increasing expectations that the Bank of England may need to keep rates higher for longer. Markets are now more than fully pricing in a rate hike by December and another by spring. Meanwhile, UK retail sales rose 1.3% year-on-year in July, below the 12-month average, while Barclays data showed consumer spending increased 2%, its strongest growth this year."
+    },
+    {
+      "id": "5035296",
+      "time": "2026-08-11 15:43:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞洲航空：正與相關主管部門密切監控局勢，以保障安全飛行條件。"
+    },
+    {
+      "id": "5035295",
+      "time": "2026-08-11 15:42:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞航：吉隆坡強降雨及雷暴天氣導致多個航班受影響。"
+    },
+    {
+      "id": "5035294",
+      "time": "2026-08-11 15:42:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新北洋：中標中國郵政1.1億元郵件處理中心裝置採購專案】新北洋公告稱，公司近日收到《中標通知書》，成為“中國郵政速遞物流股份有限公司濟寧、漯河郵件處理中心工程工藝裝置採購專案”獨家中標人，預計專案總額約1.1億元。本次中標印證公司產品及實施能力獲認可，有助於提升競爭力與市場地位。後續簽約及專案具體實施內容以正式合同為準，存在不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019fefc5-a609-7aab-8fec-1e2b69fef5f1",
+      "time": "2026-08-11 15:42:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. Africa Command confirms military aircraft crash in Djibouti】U.S. Africa Command posted on X on the 11th that a military aircraft crashed near an airport in Djibouti on the 9th. The incident is under investigation; no casualties or property damage have been reported so far, and preliminary findings show no evidence of external interference."
+    },
+    {
+      "id": "5035293",
+      "time": "2026-08-11 15:42:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據一位知情官員透露，泰國計劃警告特朗普政府，高額美國關稅可能迫使泰國縮減軍事合作。"
+    },
+    {
+      "id": "mkt:019fefc5-7392-7aab-8fec-171067fb8954",
+      "time": "2026-08-11 15:42:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Thailand may cut military cooperation to pressure US to lower tariffs】An official said Thailand plans to warn the Trump administration that high US tariffs could force Bangkok to scale back military cooperation, including Cobra Gold — Southeast Asia’s largest annual multinational exercise. Thailand will include the position in a proposal when it resumes reciprocal trade talks later this month. The official said the clause will be broadly worded but that, if higher tariffs inflict material economic harm, Thailand could reconsider participation in joint military activities."
+    },
+    {
+      "id": "5035292",
+      "time": "2026-08-11 15:41:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "北交所：2026年8月11日，上海珈凱生物股份有限公司（證券程式碼：920165）在北交所上市。"
+    },
+    {
+      "id": "5035291",
+      "time": "2026-08-11 15:41:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【石大勝華：擬投資三專案並增加日常關聯交易額度 待股東會審議】石大勝華公告稱，2026年第六次臨時股東會將於8月19日召開，將審議多項議案。包括全資子公司東營勝華利達化工科技有限公司投資7.22億元建設20萬噸/年電解液專案；東營石大勝華新能源有限公司投資19.00億元建設23萬噸/年液態鋰鹽專案；勝華新能源科技(東營)有限公司投資2.86億元建設1.2萬噸/年新增劑專案；以及增加公司本年度日常關聯交易預計額度3.37億元。上述議案均已透過公司第八屆董事會第三十二次會議審議。"
+    },
+    {
+      "id": "5035290",
+      "time": "2026-08-11 15:41:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【啟明資訊：董事長張志剛因工作調整辭職】啟明資訊公告稱，公司董事長張志剛因工作調整，辭去董事長及董事會戰略與科技創新委員會主席職務，辭職後不在公司擔任其他職務。其原定任期至2029年6月11日，截至公告披露日未持股，無未履行承諾事項。其辭職報告送達董事會之日起生效，公司將盡快完成董事長補選工作。"
+    },
+    {
+      "id": "5035289",
+      "time": "2026-08-11 15:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝藍股份：首次回購85900股，成交總金額999.22萬元】勝藍股份公告，公司於2026年7月31日審議透過回購方案，擬使用自有資金及自籌資金以集中競價交易方式回購公司A股股份，用於實施股權激勵或員工持股計劃、可轉債轉股，回購資金總額不低於1億元且不超過2億元，回購價格不超過195.18元/股。2026年8月10日，公司首次透過股份回購專用證券賬戶以集中競價交易方式實施回購，回購股份數量85900股，佔公司總股本的0.0525%，最高成交價121.57元/股，最低成交價113元/股，成交總金額999.22萬元（不含交易費用）。"
+    },
+    {
+      "id": "mkt:019fefc4-c153-7aab-8fec-0d7230145dee",
+      "time": "2026-08-11 15:41:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DeepSeek launches DeepSeek Harness public WeChat account】DeepSeek has launched a DeepSeek Harness public WeChat account registered to Beijing DeepSeek AI Basic Technology Research Co., Ltd., which is 100% owned by Hangzhou DeepSeek AI Basic Technology Research Co., Ltd. In late June the head of the DeepSeek Harness team, Cui Tianyi, said on social media the unit is newly established, short-staffed and actively recruiting."
+    },
+    {
+      "id": "mkt:019fefc4-a462-7aab-8fec-00415b92acb9",
+      "time": "2026-08-11 15:41:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Al Arabiya TV said the Houthis struck a merchant vessel in the Bab al-Mandeb Strait with a ballistic missile today, killing three foreign nationals."
+    },
+    {
+      "id": "5035288",
+      "time": "2026-08-11 15:41:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【交易員扎堆交易MiniMax期權】Minimax期權交易熱度高漲。期權成交量達17300張合約，其中看漲期權9100張，看跌期權8200張成交。絕大部分成交量集中於3月到期、行權價320港元與330港元的看漲及看跌期權，上述合約各自成交超3000張。該標的期權躋身香港市場十大活躍期權之列。"
+    },
     {
       "id": "5035287",
       "time": "2026-08-11 15:39:52",
