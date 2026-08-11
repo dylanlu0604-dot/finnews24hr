@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-12 07:41:25",
-  "count": 15475,
+  "updated": "2026-08-12 07:45:13",
+  "count": 15470,
   "items": [
+    {
+      "id": "te:markets:574537",
+      "time": "2026-08-12 07:43:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady Ahead of Key Inflation Data — US stock futures were little changed on Wednesday as investors awaited a key inflation reading that could shape the Federal Reserve’s next policy decision. The consumer price index report is due later today, followed by producer inflation data on Thursday. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing expectations for a more hawkish stance. In corporate news, CoreWeave surged more than 14% in extended trading after the artificial intelligence spending boom lifted the company’s sales outlook. Super Micro Computer also jumped more than 7% after the data center infrastructure provider issued upbeat guidance for first-quarter earnings and revenue. Investors now turn their attention to more earnings reports on Wednesday from Cisco Systems, Cerebras and Enersys, among others."
+    },
+    {
+      "id": "mkt:019ff334-1db1-7aab-8ffb-ebde2949f02d",
+      "time": "2026-08-12 07:41:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China International Capital Co: high-end photosensitive dry‑film demand expanding; long-term investment case】China International Capital Co. says acceleration in China’s PCB industry is creating openings for domestic dry‑film manufacturers; high technical barriers plus sustained demand underpin a long‑term investment case. CICC estimates the photosensitive dry‑film market at $2.333 bln in 2026, rising to $3.348 bln by 2030 (CAGR 9.44%). Prismark data: global PCB market $85.8 bln in 2025 (+16.7% YoY), about $102.0 bln this year (+19% YoY) and c.$144.6 bln by 2030. Rapid AI-driven demand for higher‑end boards—multilayer, HDI and packaging substrates—will lift corresponding dry‑film markets: CICC forecasts 2030 sizes up 45.2%, 50.6% and 54.4% versus 2026, respectively."
+    },
+    {
+      "id": "5036483",
+      "time": "2026-08-12 07:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暴雨、雷電預警生效中 北京最明顯降雨時段在今晨至白天】雖然颱風“白海豚”已停編，但它帶來的降雨影響仍在持續。今天（8月12日）早晨至明天白天，北京強降雨持續，最明顯降雨時段在今天早晨至白天，夜間開始降雨將逐漸減弱。受冷空氣和颱風外圍水汽輸送的共同影響，昨天開始，北京迎來一次強降雨過程。監測顯示，11日12時至12日06時，北京市平均降雨量達16.6毫米，城區平均12.3毫米；最大降雨出現在延慶區石佛寺，達175.6毫米。今天早晨至白天是北京此次降雨過程中降雨最明顯時段，夜間至明天白天降雨將逐漸減弱，目前北京市暴雨橙色和雷電黃色預警訊號正在生效中。（央視）"
+    },
     {
       "id": "5036482",
       "time": "2026-08-12 07:40:25",
@@ -140959,77 +140989,6 @@
         "美聯儲"
       ],
       "text": "【中信建投：當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性】中信建投研報指出，7月FOMC會議維持聯邦基金利率目標區間不變，美聯儲延續“觀察—確認—調整”的政策節奏，未釋放明確降息訊號。6月PCE資料顯示，美國通脹繼續改善，能源價格回落推動整體價格壓力緩解，但核心通脹仍高於2%的政策目標，服務價格黏性和消費韌性限制政策快速轉向。當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性。"
-    },
-    {
-      "id": "5025511",
-      "time": "2026-08-05 07:45:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱：巴西已告知阿根廷駐巴大使，雙邊外交關係已降級為代辦級。"
-    },
-    {
-      "id": "5025510",
-      "time": "2026-08-05 07:45:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：家電與智慧硬體板塊正由“國記憶體量競爭”轉向“全球化擴張+科技新品類成長”】中信建投研報指出，家電與智慧硬體板塊正由“國記憶體量競爭”轉向“全球化擴張+科技新品類成長”，投資主線兼顧穩健價值與新興成長。傳統家電中，白電龍頭憑藉穩定格局、經營提效、海外擴張和高分紅，類紅利屬性強化；黑電依託大尺寸、Mini LED等結構升級與全球份額提升，盈利中樞有望上移；面板行業資本開支及折舊高峰逐步過去，進入利潤與現金流釋放期。成長方向重點關注清潔電器、智慧影像、消費級3D列印及AI NAS，低滲透率、技術迭代和海外需求擴容有望驅動行業增長，具備研發、供應鏈及全球渠道優勢的龍頭份額有望提升。"
-    },
-    {
-      "id": "5025509",
-      "time": "2026-08-05 07:44:10",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信建投：當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性】中信建投研報指出，7月FOMC會議維持聯邦基金利率目標區間不變，美聯儲延續“觀察—確認—調整”的政策節奏，未釋放明確降息訊號。6月PCE資料顯示，美國通脹繼續改善，能源價格回落推動整體價格壓力緩解，但核心通脹仍高於2%的政策目標，服務價格黏性和消費韌性限制政策快速轉向。當前美聯儲更加關注通脹回落的持續性以及貨幣政策框架調整後的有效性。短期內，維持限制性政策仍是基準情景，後續政策轉向仍需更多通脹和就業資料確認。"
-    },
-    {
-      "id": "5025508",
-      "time": "2026-08-05 07:43:30",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：全球半導體裝置進入“量價齊升”通道，國產裝置出海程序加速】中信建投研報指出，全球半導體裝置景氣度持續上修，海外裝置、零部件已出現“量價齊升”情況，海外交期大幅延長，國產裝置、零部件經歷“十四五”期間的修煉，能力大幅提升，具備充足的出海潛力。另外一方面，除了外部制裁因素以外，全球缺貨使得國內下游客戶獲取海外裝置、零部件的難度進一步提升，我們看好國內市場的國產替代速度大幅加速。"
-    },
-    {
-      "id": "5025507",
-      "time": "2026-08-05 07:42:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【今天宇樹科技IPO迎來關鍵節點】 今天是宇樹科技IPO的初步詢價日，8月10日將開放申購。"
-    },
-    {
-      "id": "mkt:019fcf27-e27f-7aab-8f79-8d516b11189d",
-      "time": "2026-08-05 07:42:05",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "US Treasury Secretary Bessent said he has full confidence in BOJ Governor Ueda and that Ueda understands markets well."
-    },
-    {
-      "id": "mkt:019fcf27-8895-7aab-8f79-81599f1e86b4",
-      "time": "2026-08-05 07:41:42",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "US Treasury Secretary Bessent said many Asian currencies are currently tracking the yen, notably the South Korean won."
-    },
-    {
-      "id": "5025506",
-      "time": "2026-08-05 07:41:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "貝森特稱他對日本央行行長植田和男充滿信心，稱植田非常“深諳市場”。"
     }
   ]
 }
