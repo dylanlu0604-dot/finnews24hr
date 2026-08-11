@@ -1,7 +1,100 @@
 {
-  "updated": "2026-08-11 14:35:00",
-  "count": 15874,
+  "updated": "2026-08-11 14:38:59",
+  "count": 15876,
   "items": [
+    {
+      "id": "mkt:019fef8a-4c59-7aab-8fe9-db676be07567",
+      "time": "2026-08-11 14:37:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) said it has upsized and priced a $20 billion common stock offering, issuing 210,526,315 shares at $95 per share."
+    },
+    {
+      "id": "5035191",
+      "time": "2026-08-11 14:36:25",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "英特爾宣佈擴大並定價200億美元普通股發行，公司將以每股95美元的價格發行210,526,315股。"
+    },
+    {
+      "id": "5035190",
+      "time": "2026-08-11 14:36:07",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊維持看好美國成長板塊，預計歐洲動量行情緩慢修復】巴克萊策略師維持對美國成長股及大盤股的配置偏好，人工智慧領域支出對企業盈利形成支撐；歐洲方面，機構繼續看好價值股，並表示在經歷大幅拋售之後，動量行情或將逐步回暖。維努・克里希納牽頭的研究團隊稱，美國成長板塊表現依舊向好，儘管市場波動加劇，但人工智慧相關投資對盈利形成支撐；在通脹預期走弱、經濟增速放緩的背景下，機構對低價股維持中性立場。機構依舊看好大盤股，該類個股盈利表現更為強勁，而小盤企業面臨債務高企、融資環境收緊的困境。防禦型策略上漲空間有限，投資者已大幅減持重倉的人工智慧相關頭寸。歐洲動量板塊經歷大幅拋售，擁擠持倉得到充分出清，後續或緩慢修復；巴克萊依舊看好歐洲市場的價值股。"
+    },
+    {
+      "id": "te:markets:574319",
+      "time": "2026-08-11 14:35:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Pulls Back as Investors Take Profits — Silver slipped toward $64 an ounce on Tuesday, erasing earlier gains as investors took profits following a strong rally and assessed the potential impact of surging oil prices on inflation and the interest rate outlook. Earlier in the session, the metal climbed to a seven-week high, tracking gains in gold as investment demand for precious metals improved. Silver also remained supported by solid industrial consumption, particularly from expanding solar panel manufacturing and electricity grid development. Recent data showed Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes. Meanwhile, uncertainty remained over a potential US-Iran agreement to end the war and reopen the Strait of Hormuz, keeping markets cautious about inflation and interest rates. Investors also awaited key US inflation data this week for fresh signals on the Federal Reserve’s policy outlook."
+    },
+    {
+      "id": "mkt:019fef88-d198-7aab-8fe9-d1a0311fb0b4",
+      "time": "2026-08-11 14:35:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China wholesale pork price +0.2% to 15.73 yuan/kg (Aug 11, 14:00)】Ministry of Agriculture and Rural Affairs monitoring: Agricultural wholesale price 200 index 114.27 on Aug 11, up 0.09 points day-on-day; wholesale \"basket\" index 114.55, +0.10 points. As of 14:00 national wholesale average prices: pork 15.73 yuan/kg, +0.2% day-on-day; beef 67.45 yuan/kg, +0.5%; mutton 64.74 yuan/kg, +0.1%; whole chicken 17.18 yuan/kg, +0.6%; eggs 9.94 yuan/kg, -0.1%."
+    },
+    {
+      "id": "te:markets:574318",
+      "time": "2026-08-11 14:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Inches Higher at Finish — Australia’s ASX 200 edged up 18 points, or 0.2%, to close at 9,251 on Tuesday, snapping a two-day losing streak. Sentiment improved after the Reserve Bank of Australia unanimously held cash rates at 4.35%, as expected, while reiterating its vigilance against entrenched inflation with earlier three hikes still filtering through the economy. Traders largely brushed aside July’s weak business confidence, which remains well below pre-conflict levels seen in February before the U.S.–Israeli war on Iran. U.S. futures also firmed ahead of Wednesday’s inflation data. Gains in energy minerals, healthcare, technology, and consumer durables outweighed declines in logistics and retail. BHP rose 0.7%, and Rio Tinto added 0.5%, while Woodside Energy surged 3.8% and Santos jumped 5.4%. Austral soared 17.5% after South Korea’s Hanwha offered to acquire its U.S. shipbuilding arm for up to USD 1.2 billion, underscoring strong deal activity in the sector."
+    },
+    {
+      "id": "5035188",
+      "time": "2026-08-11 14:34:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【淘淘氧棉回應衛生巾“蟲卵”風波：已向政府監管部門報備並介入調解，推動事件妥善解決】8月11日下午，淘淘氧棉釋出宣告：近期有消費者反饋其購買的公司產品在開封后發現疑似蟲卵的資訊，公司已將該批次產品向第三方權威檢測機構送檢，結果顯示合格。鑑於其反饋的產品外包裝處於開封儲存狀態，公司已主動提出前往市場監督部門做產品分析或共同委託雙方認可的第三方權威機構檢測，但消費者未提供樣本送檢，無法判定異物來源。公司理解消費者對樣本保管和檢測公正性的關切，目前已向政府監管部門報備並介入調解，推動事件妥善解決。"
+    },
+    {
+      "id": "5035187",
+      "time": "2026-08-11 14:34:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美國ITC作出金屬矽雙反產業損害終裁】8月4日，美國國際貿易委員會（ITC）投票對進口自澳大利亞和挪威的金屬矽作出反傾銷和反補貼產業損害肯定性終裁，認定被主張存在傾銷和補貼行為的涉案產品對美國產業造成了實質性損害。基於美國國際貿易委員會的肯定性終裁，美國商務部將對上述涉案產品頒佈反傾銷和反補貼徵稅令。本案主要涉及美國海關編碼2804.69.1000和2804.69.5000項下產品。"
+    },
+    {
+      "id": "mkt:019fef87-ac2f-7aab-8fe9-cb810f03ff81",
+      "time": "2026-08-11 14:34:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude up 1.00% intraday at $87.79/bbl."
+    },
     {
       "id": "5035186",
       "time": "2026-08-11 14:34:05",
@@ -144540,72 +144633,6 @@
         "其他"
       ],
       "text": "【8月4日：“農產品批發價格200指數”比昨天上升0.10個點】據農業農村部監測，8月4日“農產品批發價格200指數”為113.42，比昨天上升0.10個點，“菜籃子”產品批發價格指數為113.54，比昨天上升0.12個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.77元/公斤，比昨天上升0.4%；牛肉67.38元/公斤，比昨天上升0.7%；羊肉64.72元/公斤，比昨天上升0.3%；雞蛋9.84元/公斤，與昨天持平；白條雞17.18元/公斤，比昨天下降0.5%。重點監測的28種蔬菜平均價格為4.43元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為6.90元/公斤，比昨天下降1.3%。鯽魚20.42元/公斤，比昨天上升0.5%；鯉魚14.60元/公斤，比昨天上升2.5%；白鰱魚10.00元/公斤，比昨天下降3.2%；大帶魚43.86元/公斤，比昨天上升3.8%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是大帶魚、白蘿蔔、茄子、青椒和鯉魚，幅度分別為3.8%、3.2%、3.1%、2.8%和2.5%；價格降幅前五名的是巨峰葡萄、白鰱魚、菜花、洋白菜和平菇，幅度分別為4.5%、3.2%、2.3%、2.0%和1.9%。"
-    },
-    {
-      "id": "5023836",
-      "time": "2026-08-04 14:38:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特能源公司：本季度運營資產規模實現增長，將為供電可靠性提供支撐。"
-    },
-    {
-      "id": "5023835",
-      "time": "2026-08-04 14:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【8月3日：“農產品批發價格200指數”比上週五下降0.29個點】據農業農村部監測，8月3日“農產品批發價格200指數”為113.32，比上週五下降0.29個點，“菜籃子”產品批發價格指數為113.42，比上週五下降0.35個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.70元/公斤，比上週五下降0.8%；牛肉66.93元/公斤，比上週五下降0.3%；羊肉64.53元/公斤，比上週五下降0.6%；雞蛋9.84元/公斤，比上週五下降0.9%；白條雞17.26元/公斤，比上週五上升0.8%。重點監測的28種蔬菜平均價格為4.40元/公斤，比上週五上升0.2%；重點監測的6種水果平均價格為6.99元/公斤，比上週五上升3.4%。鯽魚20.31元/公斤，比上週五上升1.5%；鯉魚14.24元/公斤，比上週五下降0.2%；白鰱魚10.33元/公斤，比上週五上升2.4%；大帶魚42.27元/公斤，比上週五上升6.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與上週五相比價格升幅前五名的是巨峰葡萄、大帶魚、菠蘿、花鰱魚和菠菜，幅度分別為6.7%、6.1%、5.1%、2.8%和2.7%；價格降幅前五名的是菜花、西瓜、大蔥、黃瓜和西葫蘆，幅度分別為3.0%、2.8%、2.7%、2.6%和2.4%。"
-    },
-    {
-      "id": "5023834",
-      "time": "2026-08-04 14:36:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【穆傑塔巴顧問稱伊朗取消打擊烏克蘭】據俄羅斯《訊息報》網站8月3日報道，伊朗原本準備對烏克蘭境內三處目標實施打擊，但在收到對方道歉後放棄了相關計劃。伊朗最高領袖穆傑塔巴·哈梅內伊的顧問穆赫辛·雷扎伊於8月3日對外公佈了這一訊息。伊朗伊斯蘭共和國廣播電視臺在“電報”社交平臺上援引了他的表態：“我們已準備好襲擊烏克蘭境內三處目標，但在該國作出道歉後，我們取消了打擊行動。”伊朗之所以計劃襲擊烏克蘭目標，是為了報復伊朗船隻在裡海遭到襲擊一事。（參考訊息）"
-    },
-    {
-      "id": "5023833",
-      "time": "2026-08-04 14:35:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國野火區發現數百枚二戰彈藥】法國西南部吉倫特省近日遭遇嚴重森林火災，該省勒波日鎮的一些二戰遺留彈藥被火引爆。排爆人員發現約400枚被歲月遺忘的炮彈、手榴彈等。勒波日鎮位於大西洋沿岸，距離吉倫特省首府波爾多市不遠。本輪野火肆虐期間，勒波日鎮不斷傳出爆炸聲，工作人員由此發現這批彈藥。“上週我們執行任務時找到這片區域，現場清理出75枚彈藥。”波爾多市爆炸物處理部門負責人菲利普·德勒莫特3日告訴法國新聞廣播電臺：“今天我們等候了一段時間，待場地降溫後才進入。短短幾分鐘內，我們又在這裡找到了更多同類彈藥。”這批彈藥為二戰期間法軍與德軍所遺留，以迫擊炮彈為主，另有一些反坦克高爆彈和手榴彈。（新華社）"
-    },
-    {
-      "id": "te:economy:572396",
-      "time": "2026-08-04 14:35:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Romania Producer Inflation Highest in Over 3 Years — Romania’s producer inflation climbed 12.69% year-on-year in June 2026, following a downwardly revised 11.86% rise in the previous month and marking the highest reading since March 2023. Prices accelerated in the manufacturing sector (9.09% vs 8.89% in May), driven by faster inflation in beverages, tobacco, textiles, wearing apparel, wood and wood products, paper and paper products, chemicals and chemical products, rubber and plastic products, fabricated metal products, electrical equipment, and machinery and equipment not elsewhere classified. Additionally, costs increased at a faster pace in mining and quarrying (8.25% vs 7.79%), electricity, gas, steam, and air-conditioning supply (23.32% vs 21.33%), and water supply, sewerage, waste management, and remediation activities (14.2% vs 13.74%). On a monthly basis, producer prices rose 0.84% in June 2026, easing from 1.41% in the previous month."
-    },
-    {
-      "id": "mkt:019fcb7b-dbf3-7aab-8f66-b95ae2d68154",
-      "time": "2026-08-04 14:35:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Bank of Japan said its holdings of Japanese government bonds remain large and continue to depress the term premium in the JGB market."
-    },
-    {
-      "id": "5023832",
-      "time": "2026-08-04 14:35:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時放量1905億元。"
     }
   ]
 }
