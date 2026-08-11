@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-12 01:34:44_
-_本檔包含 2774 則快訊，約 596772 字_
+_更新時間：2026-08-12 02:29:23_
+_本檔包含 2779 則快訊，約 595865 字_
+
+---
+
+### 2026-08-10 21:39:03  #公司 #市場 #國際
+
+【日本連續兩個月破產企業超千家】據新華社，日本東京商工調查公司10日釋出的報告顯示，日本7月共有1028家企業破產，繼6月後再次超過1000家。這是日本14年來首次出現連續兩個月破產企業逾千家的情況。該公司分析，日元貶值推高物價以及勞動力短缺是導致破產企業增多的主要原因。 資料顯示，日本7月破產企業數量較去年同期增加6.9%，為今年以來單月最高值。這些企業負債總額為2363億日元（1美元約合159日元），較去年同期激增41.4%。其中，總部位於大阪的信用卡結算代理公司“全東信”負債額為1151.6億日元，可能是今年以來負債規模最大的日本破產企業。 從破產原因看，因日元貶值、物價上漲而破產的企業有93家，為2022年以來單月最高。另有63家企業因勞動力短缺和人力成本增高破產。從行業看，10個主要行業中有7個行業破產企業數量同比增加，包括建築業、零售業和運輸業。 東京商工調查公司表示，在日本物價和勞動力成本持續上漲背景下，利息負擔不斷加重，預計破產企業數量可能持續增加。 該公司7月釋出資料顯示，日本6月共有1021家企業破產；今年上半年，日本負債1000萬日元以上並破產的企業共有5346家，連續5年同比增加，時隔12年再次超過5000家。
+
+---
+
+### 2026-08-10 21:38:33  #其他
+
+哥倫比亞總統：要求相關部門提交地震後的詳細報告。
+
+---
+
+### 2026-08-10 21:38:14  #MKT News #Commodities #Energy
+
+U.S. natural gas futures rose about 5% to a two-week high after LNG export flows reached their highest level in a month.
+
+---
+
+### 2026-08-10 21:38:07  #MKT News
+
+Colombian President De la Espriella said he will travel to Pereira to inspect the area after an earthquake.
+
+---
+
+### 2026-08-10 21:38:00  #國際
+
+俄羅斯外交部：我們將查明所有參與對別爾哥羅德和下卡姆斯克發動襲擊的烏克蘭人員身份。
+
+---
+
+### 2026-08-10 21:37:57  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O #Impact bullish #TSM.N
+
+【Microsoft Maia 300 AI chip could debut as early as September; engaged TSMC for >300,000-unit capacity】The Information reports Microsoft (MSFT.O) plans to unveil its next‑generation Maia 300 AI chip this autumn, possibly as early as September. To meet 2027 delivery needs, Microsoft has engaged TSMC (TSM.N) to secure manufacturing capacity for more than 300,000 units.
+
+---
+
+### 2026-08-10 21:37:52  #市場 #國際
+
+美國天然氣期貨延續漲勢，價格上漲5%觸及兩週高點，因液化天然氣出口量創下一個月新高。
+
+---
+
+### 2026-08-10 21:37:26  #其他
+
+【市預警釋出中心】浦東新區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。
+
+---
+
+### 2026-08-10 21:37:15  #其他
+
+【市預警釋出中心】青浦區氣象臺2026年08月10日21時30分繼續釋出暴雨藍色預警訊號：受第13號颱風“白海豚”環流影響，預計明天上午以前，本區大部分街鎮仍將出現1小時雨量40毫米以上或6小時累積降水量達70毫米以上的降水天氣，請注意防範強降雨可能引發的城市積澇。
+
+---
+
+### 2026-08-10 21:36:32  #公司
+
+錫耶納治療公司股價暴跌91%，原因是該公司實驗性藥物未達中期試驗目標。
+
+---
+
+### 2026-08-10 21:36:25  #MKT News #Commodities #Precious Metals #GOLD.O #Impact bearish
+
+Barrick Gold fell 8% after Q2 profit missed expectations.
+
+---
+
+### 2026-08-10 21:35:46  #MKT News #BRK.A.O #Impact bearish
+
+Michael Burry, described as the "big short," said he does not view Berkshire Hathaway as an attractive investment going forward.
+
+---
+
+### 2026-08-10 21:35:12  #市場
+
+META股價上漲2.1%，創兩週以來新高。
+
+---
+
+### 2026-08-10 21:34:53  #國際
+
+【歐洲迎來今年第五輪熱浪 河流、電力和農作物面臨壓力】本週又一輪強烈熱浪將席捲已經十分乾旱的歐洲，不僅將加劇野火風險、威脅農作物，還會進一步導致流域乾涸，而這些流域正為歐洲一些水位已降至極低水平的河流提供水源。法國氣象局預計，高壓形成的“熱穹頂”將推動法國北部氣溫在週二升至接近40攝氏度。歐洲中期天氣預報中心的資料顯示，英格蘭南部氣溫可能升至35攝氏度左右，德國法蘭克福週五則可能達到38攝氏度。這將可能是歐洲今年遭遇的第五輪大範圍熱浪。持續的高壓天氣可能阻擋攜帶水汽的雲系進入，使萊茵河、波河和多瑙河等河流難以獲得降水補給。
+
+---
+
+### 2026-08-10 21:34:48  #市場 #焦點
+
+美國天然氣期貨漲超5.00%，現報2.796美元/百萬英熱。
+
+---
+
+### 2026-08-10 21:34:42  #Trading Economics #Markets #Commodity #Importance 2
+
+US Natgas Prices Rise on Strong LNG Demand — US natural gas prices rose more than 4% to $2.785 per MMBtu on Monday, supported by stronger demand from liquefied natural gas (LNG) export facilities. Daily flows to the nine major US LNG export plants were on track to reach a one-month high of 17.9 bcfd. Also, average feedgas demand stood at 17.2 bcfd in July, just below June’s monthly record of 17.4 bcfd. Meanwhile, natural gas production in the Lower 48 states averaged a record 111.2 bcfd in August, up from 110.7 bcfd in July. Strong output and relatively mild weather earlier this year have kept inventories above the five-year average since March. Analysts expect the storage surplus to narrow slightly to 6.6% above normal for the week ending August 7. However, forecasts point to continued above-normal temperatures through August 25, which should sustain gas demand from power generators as air-conditioning use remains elevated.
+
+---
+
+### 2026-08-10 21:34:11  #公司
+
+安全港遊艇碼頭公司（Safe Harbor Marinas）接近以15億美元收購海夢公司（MarineMax）後，海夢股價暴漲45%。
+
+---
+
+### 2026-08-10 21:34:04  #市場
+
+AAON股價在公佈第二季度業績後下跌2.8%。
+
+---
+
+### 2026-08-10 21:33:51  #市場
+
+蘋果股價下跌2.5%；傑富瑞將其評級由持有下調至弱於大盤。
+
+---
+
+### 2026-08-10 21:33:10  #市場
+
+巴里克黃金（Barrick Mining）<ABX.TO>股價因季度利潤不及預期下跌5.5%。
+
+---
+
+### 2026-08-10 21:32:56  #MKT News
+
+SpaceX (SPCX.O) shares rose 1.8% to trade back above the $135 IPO price.
+
+---
+
+### 2026-08-10 21:32:42  #MKT News #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+TASS, citing a Russian diplomat, said Moscow will regard any military provocations along the banks of the Dniester River as an attack on Russia.
+
+---
+
+### 2026-08-10 21:32:30  #MKT News #ACHR.N #Impact bullish
+
+Archer Aviation shares rose 14% after reports it would acquire Boeing subsidiaries Wisk Aero, Insitu and SkyGrid.
+
+---
+
+### 2026-08-10 21:32:27  #市場
+
+標普500指數和納斯達克100指數開盤變化不大。
+
+---
+
+### 2026-08-10 21:32:13  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
+
+At the open on Monday, Aug. 10, the Dow Jones fell 17.50 points, or 0.03%, to 54,019.43; the S&P 500 dropped 1.00 point, or 0.01%, to 7,756.46; the Nasdaq Composite slipped 19.93 points, or 0.08%, to 26,670.69.
+
+---
+
+### 2026-08-10 21:32:12  #公司 #市場
+
+阿徹航空股份上漲14%，此前該公司將收購波音旗下威斯克航空、因西圖（Insitu）及SkyGrid三家子公司；波音將對該公司投資並開展合作。
+
+---
+
+### 2026-08-10 21:32:04  #MKT News #TENX.O #Impact bearish
+
+Tenax Therapeutics shares plunged 87.2% after the company said its cardiac drug failed to meet the primary endpoint in a late-stage trial.
+
+---
+
+### 2026-08-10 21:31:55  #國際
+
+俄羅斯外交官表態：莫斯科將德涅斯特河沿岸地區的任何軍事挑釁都視為對俄羅斯的襲擊。
+
+---
+
+### 2026-08-10 21:31:40  #市場
+
+SPACEX股價上漲1.8%，重回135美元IPO發行價上方。
+
+---
+
+### 2026-08-10 21:31:24  #公司 #市場
+
+英特爾股價在公司宣佈150億美元股票發售計劃後下跌4.4%。
+
+---
+
+### 2026-08-10 21:31:16  #公司 #市場
+
+Meta股價上漲1.4%，此前該公司推出全新人工智慧模型。
+
+---
+
+### 2026-08-10 21:31:10  #MKT News #Important #Star Stocks #Microsoft #Meta Platforms #Market Themes #AI Revolution #Chip Wars #Magnificent 7 #MSFT.O #Impact bullish #META.O
+
+Microsoft (MSFT.O) shares rose 1.4% after the company said it will sharply ramp up production of AI chips. Meta Platforms (META.O) shares rose 1.16% after launching a lightweight AI model, Muse Glimmer.
+
+---
+
+### 2026-08-10 21:30:58  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Lockheed Martin Stock Price Hits 16-week High — Lockheed Martin shares increased to 595.00 USD, the highest since April 2026. Over the past 4 weeks, Lockheed Martin gained 13.68%, and in the last 12 months, it increased 38.86%.
+
+---
+
+### 2026-08-10 21:30:52  #Trading Economics #Economy #Tanzania #Inflation Rate #Importance 1
+
+Tanzania Inflation Edges Higher in July — Tanzania’s annual inflation rate rose to 4.2% in July 2026 from 4.0% in June, returning to the level last seen in May, which was the highest since January 2023. The acceleration was mainly driven by higher inflation for transport (13.8% vs 13.6%), housing and utilities (1.6% vs 1.2%), restaurants and hotels (2.7% vs 1.9%), health (1.4% vs 1.3%), recreation and culture (0.7% vs 0.5%), education (2.8% vs 2.7%) and clothing and footwear (1.6% vs 1.3%). Meanwhile, inflation for food and alcoholic beverages and tobacco stood at 4.1% and 1.9%, respectively. In contrast, inflation eased for furnishings (2.2% vs 2.5%) and information and communication (0.6% vs 0.5%). On a monthly basis, consumer prices fell 0.1%, reversing a 0.1% increase in June.
+
+---
+
+### 2026-08-10 21:30:51  #MKT News
+
+【Navigation warning: South China Sea military training】Qinglan Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the South China Sea will be closed to navigation for military training on Aug 11 from 06:00 to 15:00; entry is prohibited.
+
+---
+
+### 2026-08-10 21:30:50  #MKT News #Important #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish #INTC.O #S&P500
+
+U.S. stocks opened lower: the Dow fell 0.1%, the S&P 500 fell 0.06% and the Nasdaq fell 0.06%. Apple (AAPL.O) dropped 2.1% after Jefferies cut its rating. Intel (INTC.O) fell 4% after announcing plans for a $15 billion common stock offering.
+
+---
+
+### 2026-08-10 21:30:49  #其他
+
+【公安部開展深化掃黑除惡專項鬥爭第一輪集中收網行動】為深入貫徹落實黨中央關於開展深化掃黑除惡專項鬥爭的決策部署和全國掃黑除惡專項鬥爭視訊會議要求，近日，公安部指揮全國公安機關同步開展深化掃黑除惡專項鬥爭第一輪集中收網行動，成功打掉各類犯罪團伙1000餘個，抓獲犯罪嫌疑人8200餘名，破獲各類刑事案件5400餘起。（新華社）
+
+---
+
+### 2026-08-10 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指齊跌】道指跌0.09%，標普500指數跌0.07%，納指跌0.04%。英特爾跌4.36%，Verisk Analytics跌4.21%，希捷跌3.17%，艾利跌2.90%。“七姐妹”方面：微軟漲1.45%，Meta Platforms漲1.21%，亞馬遜漲0.55%，谷歌漲0.30%，特斯拉跌0.23%，英偉達跌0.31%，蘋果跌1.92%。
+
+---
+
+### 2026-08-10 21:30:12  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Oracle Stock Price Hits 4-week High — Oracle shares increased to 148.92 USD, the highest since July 2026. Over the past 4 weeks, Oracle gained 12.37%, and in the last 12 months, it decreased 41.5%.
 
 ---
 
@@ -16531,209 +16765,5 @@ China Inflation Rate Hits 6-Month Low — China’s annual inflation rate eased 
 ### 2026-08-09 09:34:55  #MKT News #Macro & Rates #CNH #Impact mixed
 
 【National Bureau of Statistics: July month-on-month price changes for goods and services】In July, food, tobacco & alcohol and catering away from home prices were flat month-on-month. Within food, meat prices rose 1.9% MoM, adding about 0.07 percentage point to CPI; pork rose 4.1%. Fresh vegetables rose 1.3% MoM, adding ~0.02 ppt to CPI; fresh fruit fell 3.8% MoM, subtracting ~0.07 ppt; eggs fell 1.7% MoM, subtracting ~0.01 ppt. Of the seven other major categories, education, culture & recreation, medical & healthcare, and household goods & services rose 1.0%, 0.8% and 0.4% MoM respectively; housing and other goods & services were unchanged; transport & communication fell 2.2% and clothing fell 0.4% MoM.
-
----
-
-### 2026-08-09 09:34:43  #市場
-
-國家統計局：工業生產者購進價格中，有色金屬材料及電線類價格上漲19.0%，燃料動力類、化工原料類價格均上漲9.3%，紡織原料類價格上漲3.2%，黑色金屬材料類價格上漲1.4%；建築材料及非金屬類價格下降4.1%，農副產品類價格下降0.8%。
-
----
-
-### 2026-08-09 09:34:19  #市場
-
-國家統計局：工業生產者購進價格中，燃料動力類、化工原料類價格均下降2.6%，有色金屬材料及電線類價格下降1.4%，黑色金屬材料類、紡織原料類價格均下降0.2%，建築材料及非金屬類價格下降0.1%；農副產品類價格上漲0.5%。
-
----
-
-### 2026-08-09 09:34:08  #MKT News
-
-【China NBS: July pork prices down 13.3% YoY】China's National Bureau of Statistics said July food, tobacco and dining prices fell 0.8% YoY, subtracting about 0.22 ppt from CPI. Food: meat prices fell 6.0% YoY, reducing CPI by about 0.25 ppt; pork down 13.3% YoY. Dairy -1.5% YoY (-0.02 ppt); fresh fruit -1.1% YoY (-0.02 ppt); eggs +14.4% YoY (+0.07 ppt). Among the seven other major CPI groups, six rose and one fell: other goods & services +5.8% YoY; healthcare +2.9%; clothing +1.4%; education, culture & entertainment +1.3%; household goods & services +0.8%; transport & communication +0.4%; housing -0.3%.
-
----
-
-### 2026-08-09 09:33:53  #公司
-
-【宇樹科技明天申購】8月10日，宇樹科技將在科創板開啟申購，A股“人形機器人第一股”正式登場。宇樹科技證券程式碼688836，網上申購程式碼787836。發行價格為150.80元/股，對應上市時市值約609.93億元，對應2025財年發行後市盈率為219倍。根據公告，宇樹科技網上、網下申購日均為8月10日，繳款截止日均為8月12日，首發募資約61億元。中一簽（500股）需繳款7.54萬元。
-
----
-
-### 2026-08-09 09:31:41  #資料 #市場
-
-【國家統計局： PPI環比下降，同比漲幅有所回落】從環比看，全國PPI下降0.7%，降幅比上月擴大0.4個百分點。本月PPI環比執行的主要特點：一是輸入性因素影響國內相關行業價格下行。石油開採、精煉石油產品製造、有機化學原料製造價格分別下降11.8%、8.4%和4.2%；有色金屬礦採選業、有色金屬冶煉和壓延加工業價格分別下降2.1%和1.7%，5個行業合計影響PPI環比下降約0.65個百分點。二是季節性因素影響部分行業價格下降。7月份高溫、雨水及颱風天氣較多，建築專案施工進度放緩，黑色金屬冶煉和壓延加工業、非金屬礦物製品業價格分別下降0.8%和0.5%；水力發電、風力發電增加，價格分別下降10.3%和3.9%，4個行業合計影響PPI環比下降約0.11個百分點。三是產業轉型升級和消費提質擴容帶動部分行業需求增加、價格上漲。新動能成長壯大，人工智慧、高階裝備、新材料等領域蓬勃發展，智慧無人飛行器製造、碳素新材料、船舶及相關裝置製造價格分別上漲2.5%、0.4%和0.3%。品質類消費較快增長，智慧家庭消費裝置、護膚用化妝品製造價格分別上漲3.4%和0.7%。 從同比看，全國PPI上漲3.5%，漲幅比上月回落0.6個百分點。分行業看，價格上漲的主要行業中，石油和天然氣開採業、石油煤炭及其他燃料加工業、化學原料和化學制品製造業分別上漲3.2%、8.2%和9.1%，有色金屬礦採選業、有色金屬冶煉和壓延加工業分別上漲22.6%和20.2%，黑色金屬冶煉和壓延加工業上漲2.7%，漲幅比上月均回落，6個行業合計影響PPI同比上漲約2.55個百分點；煤炭開採和洗選業上漲27.1%，電氣機械和器材製造業上漲5.7%，計算機通訊和其他電子裝置製造業上漲4.4%，漲幅比上月均擴大，3個行業合計影響PPI同比上漲約1.53個百分點。上述9個行業對PPI的上拉影響較上月減少0.56個百分點。價格下拉影響最大的5個行業為：電力熱力生產和供應業、汽車製造業、非金屬礦物製品業、醫藥製造業、酒飲料和精製茶製造業，降幅在2.3%—5.7%之間，合計影響PPI同比下降約0.76個百分點，較上月減少0.05個百分點。
-
----
-
-### 2026-08-09 09:31:26  #資料 #市場
-
-【國家統計局城市司首席統計師董莉娟解讀2026年7月份CPI和PPI資料】從同比看，全國CPI上漲0.5%，保持溫和上漲。CPI同比漲幅比上月回落0.5個百分點，主要是受汽油價格漲幅回落影響。汽油價格上漲1.0%，漲幅比上月回落16.0個百分點，對CPI的上拉影響比上月減少約0.45個百分點，帶動能源價格漲幅回落至0.6%。扣除能源的工業消費品價格上漲1.5%，漲幅比上月回落0.2個百分點，影響CPI同比上漲約0.37個百分點。其中，黃金飾品、個人護理用品和家用器具價格分別上漲24.6%、1.7%和0.2%，漲幅均有回落，合計影響CPI同比上漲約0.13個百分點；計算機、平板電腦和行動電話機價格分別上漲17.4%、17.2%和8.5%，漲幅均有擴大，合計影響CPI同比上漲約0.14個百分點。服務價格上漲0.7%，漲幅比上月回落0.1個百分點，影響CPI同比上漲約0.36個百分點。服務中，醫療服務價格上漲4.3%，漲幅比上月擴大0.9個百分點，影響CPI同比上漲約0.28個百分點；家政服務、在外餐飲和教育服務價格分別上漲1.3%、1.0%和0.6%，漲幅總體穩定。食品價格下降1.5%，降幅比上月收窄0.1個百分點，影響CPI同比下降約0.25個百分點。食品中，豬肉價格下降13.3%，降幅比上月收窄2.6個百分點，影響CPI同比下降約0.25個百分點；鮮菜、鮮果、糧食、食用油、奶類價格降幅在0.3%—1.5%之間；雞蛋價格上漲17.8%，漲幅比上月回落2.2個百分點；羊肉、牛肉和禽肉類價格漲幅在1.6%—6.2%之間。
-
----
-
-### 2026-08-09 09:31:18  #資料 #市場
-
-【國家統計局城市司首席統計師董莉娟解讀2026年7月份CPI和PPI資料】從環比看，全國CPI下降0.1%，降幅比上月收窄0.2個百分點。國際市場價格波動影響國內汽油價格下降10.7%，降幅比上月擴大5.8個百分點，影響CPI環比下降約0.35個百分點。食品價格與上月持平，低於季節性水平0.6個百分點。食品中，鮮菜價格上漲1.3%，雞蛋價格下降2.1%，均明顯低於季節性水平；應季水果大量上市，市場供應充足，鮮果價格下降3.8%，影響CPI環比下降約0.07個百分點；生豬產能綜合調控政策效應顯現，疊加部分地區高溫、強降雨等極端天氣頻發推高運輸成本等因素，豬肉價格由上月下降0.8%轉為上漲4.1%，影響CPI環比上漲約0.07個百分點。人工智慧推動消費電子產品迭代升級，相關產品需求增加、價格上漲，平板電腦、計算機和行動電話機價格分別上漲11.3%、5.5%和1.0%，合計影響CPI環比上漲約0.03個百分點。服務價格由上月持平轉為上漲0.4%，影響CPI環比上漲約0.21個百分點。服務中，暑期出行需求增加，旅行社收費、賓館住宿、飛機票、交通工具租賃價格分別上漲7.2%、6.5%、4.2%和3.6%，合計影響CPI環比上漲約0.10個百分點；部分地區政策性調價持續推進，醫療服務價格上漲1.1%，影響CPI環比上漲約0.07個百分點。
-
----
-
-### 2026-08-09 09:31:11  #MKT News #CNH #Impact bearish #Copper
-
-China July PPI MoM -0.7%, prior -0.3%.
-
----
-
-### 2026-08-09 09:31:04  #MKT News #Economic Calendar #Important
-
-China | PPI (MoM) (Jul) | actual -0.7% | previous -0.3%
-
----
-
-### 2026-08-09 09:30:57  #市場 #焦點
-
-【2026年7月份工業生產者出廠價格同比上漲3.5%】2026年7月份，全國工業生產者出廠價格同比上漲3.5%，環比下降0.7%。工業生產者購進價格同比上漲5.5%，環比下降1.0%。1—7月平均，工業生產者出廠價格比上年同期上漲1.8%，工業生產者購進價格上漲2.8%。 7月份，工業生產者出廠價格中，生產資料價格同比上漲4.8%，影響工業生產者出廠價格總水平上漲約3.72個百分點。其中，採掘工業價格上漲16.4%，原材料工業價格上漲6.1%，加工工業價格上漲3.1%。生活資料價格下降0.8%，影響工業生產者出廠價格總水平下降約0.17個百分點。其中，食品價格下降2.1%，衣著價格下降1.1%，一般日用品價格下降1.0%，耐用消費品價格上漲0.4%。
-
----
-
-### 2026-08-09 09:30:40  #MKT News #Important
-
-China's National Bureau of Statistics said nationwide consumer prices (CPI) rose 0.5% YoY in July 2026 and fell 0.1% MoM.
-
----
-
-### 2026-08-09 09:30:39  #市場 #焦點
-
-【2026年7月份居民消費價格同比上漲0.5%】2026年7月份，全國居民消費價格同比上漲0.5%。其中，城市上漲0.5%，農村上漲0.4%；食品價格下降1.5%，非食品價格上漲0.9%；消費品價格上漲0.2%，服務價格上漲0.7%。1­­—7月平均，全國居民消費價格比上年同期上漲0.9%。 7月份，全國居民消費價格環比下降0.1%。其中，城市下降0.1%，農村下降0.2%；食品價格持平，非食品價格下降0.1%；消費品價格下降0.6%，服務價格上漲0.4%。
-
----
-
-### 2026-08-09 09:30:29  #資料
-
-中國7月CPI年率 0.5%，預期0.80%，前值1.00%。中國7月PPI年率 3.5%，預期3.80%，前值4.10%。
-
----
-
-### 2026-08-09 09:30:28  #MKT News #CNH #Impact bearish #Copper #CSI300
-
-China July CPI MoM -0.1% vs. expected +0.2%; June -0.3%.
-
----
-
-### 2026-08-09 09:30:28  #MKT News #Important #CNH #Impact bearish #CSI300 #Impact mixed
-
-China July CPI YoY 0.5% vs 0.8% expected, 1.0% prior.
-
----
-
-### 2026-08-09 09:30:25  #MKT News #CNH #Impact bearish #CSI300 #Copper
-
-China July PPI YoY 3.5% vs 3.8% expected, 4.1% prior.
-
----
-
-### 2026-08-09 09:30:21  #MKT News #Economic Calendar #Important
-
-China | CPI (MoM) (Jul) | actual -0.1% | consensus 0.2% | previous -0.3%
-
----
-
-### 2026-08-09 09:30:18  #MKT News #Economic Calendar #Important
-
-China | PPI (YoY) (Jul) | actual 3.5% | consensus 3.80% | previous 4.10%
-
----
-
-### 2026-08-09 09:30:18  #MKT News #Economic Calendar #Important
-
-China | CPI (YoY) (Jul) | actual 0.5% | consensus 0.80% | previous 1.00%
-
----
-
-### 2026-08-09 09:28:57  #國際
-
-【極端高溫與乾旱肆虐 波黑玉米大幅減產】今年夏天，多輪熱浪席捲歐洲東南部的巴爾幹半島。在波黑東北部地區，持續的高溫與嚴重乾旱給當地農業生產帶來了沉重打擊。作為當地最主要的農作物，玉米麵臨著大幅減產甚至絕收的風險，不少農戶被迫考慮縮減種植規模。（央視）
-
----
-
-### 2026-08-09 09:28:29  #其他
-
-【尼日兩輛大巴相撞致22人死亡】當地時間8月8日，尼日交通部發布訊息稱，該國南部7日晚間發生一起嚴重交通事故，兩輛大巴迎頭相撞，造成至少22人死亡，37人受傷。據悉，事故發生地點距離尼日南部馬達瓦鎮約50公里。（央視）
-
----
-
-### 2026-08-09 09:27:19  #國際
-
-【浙江上海等地將承接颱風“白海豚”最強風雨 華南高溫盤踞】隨著颱風“白海豚”不斷向我國靠近，昨天（8月8日）華東地區風雨漸起。今後幾天，華東地區風雨顯著增強，浙江、上海等地將承接颱風最猛烈風雨，局地有特大暴雨，當地公眾需密切關注臨近預報預警資訊，提前做好防範措施。與此同時，受冷空氣與颱風“白海豚”共同影響，中東部暑熱範圍大幅縮減，而華南多地則在臺風外圍下沉氣流影響下，高溫天氣盤踞。
-
----
-
-### 2026-08-09 09:27:06  #市場 #國際
-
-【韓國農產品價格暴漲 黃瓜漲價54.8%】週日行業資料顯示，受極端高溫天氣衝擊，韓國農產品價格出現暴漲。 韓國農水產食品流通公社的資料顯示，截至週五，100克菠菜零售價格較一個月前暴漲152.3%。 同期，10根黃瓜價格上漲54.8%，100克藍葉生菜價格攀升41.7%。
-
----
-
-### 2026-08-09 09:26:17  #國際
-
-據報道，一名以色列空軍軍官披露了2025年“雄獅崛起行動”打擊伊朗的更多細節：防空系統從發現威脅到完成攔截的最快響應時間僅14秒。
-
----
-
-### 2026-08-09 09:26:10  #MKT News
-
-Real-time ticketing platform data show the film Odyssey's preview screenings and presales have exceeded 60 mln yuan in total box office as of 09:19 on Aug 9.
-
----
-
-### 2026-08-09 09:21:10  #央行 #國際
-
-【特朗普拒絕讓最高法院一錘定音】本週，針對終止出生公民權、解僱美聯儲理事兩項訴求遭遇司法敗訴，總統採取反擊舉措，同時又就白宮宴會廳專案尋求大法官的支援。本週，唐納德・特朗普總統針對最高法院作出的兩項重大敗訴判決展開行動。在他看來，大法官對總統權力作出的司法界定只是新的阻礙，而非最終裁決。最高法院在 6 月結束的本司法年度中接連駁回特朗普兩項訴求：否決其終止出生公民權的行政令，同時阻止他罷免美聯儲理事麗莎・庫克。本週，特朗普在兩件事上再度出手。週三，白宮致函庫克，稱總統正基於此前相同指控考慮將其解職，並給予她 21 天時間作出回應。這份週五對外曝光的信函援引法院判決，指出在罷免庫克之前，必須履行告知程式，並給予其申辯機會。週四，特朗普簽署兩項新行政令，意在限制部分在美國境內出生兒童自動獲得公民身份。專家認為，這兩份檔案同樣很難在新一輪法律訴訟中站得住腳。週五，上訴法院裁定，在國會完成專案授權前，白宮宴會廳工程必須停工。特朗普隨即表示，他將請求最高法院介入，推動該宴會廳專案完工。
-
----
-
-### 2026-08-09 09:20:14  #其他
-
-據燈塔專業版實時資料，截至8月9日9時18分，影片《奧德賽》點映及預售總票房突破6000萬。
-
----
-
-### 2026-08-09 09:20:04  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed
-
-China's July CPI YoY due in 10 minutes.
-
----
-
-### 2026-08-09 09:19:52  #其他
-
-中國氣象局於9日8時10分升級調整重大氣象災害（颱風、暴雨、強對流）三級應急響應為二級應急響應。（新華社）
-
----
-
-### 2026-08-09 09:18:49  #其他
-
-【多地創新高 今年前7個月我國區域外貿增勢穩健】我國多個區域今年前7個月的外貿成績單近期陸續出爐，各區域發揮區位資源和產業優勢，貨物貿易進出口呈現穩步增長態勢。黃河流域9省區進出口值已經連續17個月超過5000億元，連續9個月保持正增長。以外貿規模居區域首位的山東為例，出口結構向新向優，是託舉外貿穩健增長的重要支撐。最新的外貿成績單中，作為老牌工業區的東北地區今年前7個月貨物貿易進出口總值7732.5億元，外貿規模創歷史同期新高。特別是出口表現亮眼，歷史同期首次突破3800億元，其中機電產品佔出口整體近五成。（央視新聞）
-
----
-
-### 2026-08-09 09:17:31  #其他
-
-賈躍亭：FF EAI Patrol系統--廠區自主巡檢、點位核驗、全量取證留檔。
-
----
-
-### 2026-08-09 09:16:28  #其他
-
-【陝西到2027年將形成3個千億級消費領域】近日，據省工信廳訊息：省工信廳、省發展改革委、省商務廳等日前聯合印發《關於增強消費品供需適配性進一步促進消費的行動方案》。行動方案顯示，到2027年，陝西將形成3個千億級消費領域和10個高品質消費熱點。 “該行動方案緊扣省委、省政府‘打好提振消費硬仗’工作部署和‘質量強省、品牌強省、文化強省’建設目標，並結合陝西產業基礎和消費特色，以技術為核心引導消費升級。”省工信廳消費品工業處負責人介紹。 行動方案主要目標為：到2027年，陝西將形成綠色食品、智慧消費品、生態康養3個千億級消費領域，同時形成白酒、富硒產品、乳製品、紡織服裝、秦藥康養、戶外用品、嬰童用品、適老化產品、數字文創、汽車後市場10個高品質消費熱點。培育10家以上人工智慧、機器人、無人機/無人車等智慧消費標杆企業，打造20個元宇宙消費示範場景；培育30個以上全國知名消費品品牌；“陝西臻品”公共品牌國內重點市場認知度在50%以上。到2030年，陝西供給與消費良性互動的高質量發展格局基本形成，元宇宙、人工智慧、資料要素等對消費的牽引作用充分釋放，智慧裝備消費應用場景全面普及。陝西將建成西部消費強省，消費對經濟增長的基礎性作用持續增強。 行動方案重點任務包括：加速新技術新模式創新應用，啟用產業升級新動能，佈局新領域新賽道。陝西將依託創新平臺，聚焦人工智慧+智慧網聯新能源汽車、智慧家居、消費電子等重點行業，開展“雙百創新應用”專項行動，支援企業加強新產品開發和打造新產品首用場景；在生物製造、高效能纖維、生物醫藥等領域建設3個省級中試基地，探索建立消費品行業資料要素交易試點。同時，將擴大特色和新型產品供給；不斷培育消費新場景新業態，拓展消費增長空間；持續營造良好發展環境，強化消費保障支撐。（陝西釋出）
-
----
-
-### 2026-08-09 09:15:34  #國際
-
-【美媒：中國在AI競賽中有獨特優勢】美國消費者新聞與商業頻道近日刊文稱，中國人工智慧企業正縮小與美國前沿實驗室的效能差距，部分領域甚至實現反超。當前全球效能頂尖的開源模型（即可下載、修改、自主部署的模型）均來自中國。此外，多位專家表示，中國的機器人技術同樣處於世界領先水平。報道認為，中國的人工智慧模型已成為比美國模型更經濟高效且更具競爭力的選擇。美國智庫新美國安全中心技術與國家安全專案高階研究員丹尼爾·雷姆勒表示：“根據當前趨勢，中國人工智慧成為發展中國家預設選擇的可能性似乎越來越大。”（總檯環球資訊廣播）
-
----
-
-### 2026-08-09 09:14:49  #其他
-
-【蘋果中國官網刪除 Apple 智慧接入阿里千問使用手冊】8 月 8 日，一篇名為《在 Mac 上配合 Apple 智慧使用千問》的支援文件現身蘋果官網 Mac 簡體中文使用手冊，其中明確提到 Apple 智慧可配合阿里巴巴千問模型工作。然而，現在這份中文操作手冊已從蘋果官網被刪除，原網頁連結無法正常訪問。
 
 ---

@@ -1,7 +1,319 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-12 01:34:44_
-_本檔包含 3423 則快訊，約 596400 字_
+_更新時間：2026-08-12 02:29:23_
+_本檔包含 3442 則快訊，約 596597 字_
+
+---
+
+### 2026-08-06 06:17:01  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【Brazil central bank cuts benchmark rate to 14%】On Aug 5 local time, Brazil's central bank MPC cut the benchmark policy rate to 14%, its fourth consecutive cut and the lowest level in nearly a year. Despite renewed Middle East conflict lifting oil prices and adding inflationary pressure in Brazil, markets expect the easing cycle to continue and price a further cut to 13.75% by end-2026.
+
+---
+
+### 2026-08-06 06:15:03  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Appreciates by 0.51% — Top currency gainers are South Korean Won (0.51%), Brazilian Real (0.48%), Swedish Krona (0.40%), Euro (0.19%) and British Pound (0.11%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed.
+
+---
+
+### 2026-08-06 06:14:42  #央行 #市場 #國際
+
+【巴西央行下調基準利率至14%】當地時間8月5日，巴西央行貨幣政策委員會宣佈將基準利率下調至14%。這是巴西央行連續第四次降息並下調至近一年以來的最低點。儘管中東衝突再起導致油價上漲為巴西通脹帶來壓力，市場預期降息週期將持續，並在2026年底下調至13.75%。（央視新聞）
+
+---
+
+### 2026-08-06 06:09:26  #觀點
+
+【摩根大通：科技股交易在經歷慘烈拋售後，散戶影響力或將加大】據摩根大通對科技、媒體和電信板塊股票多空對沖基金初步資料的評估，科技股交易在經歷7月的慘烈拋售後，可能正變得更加依賴散戶投資者，波動性也將加劇。摩根大通策略師帕尼吉爾佐格盧（Nikolaos Panigirtzoglou）等人認為，Pivotal Path的資料顯示，此類對沖基金在7月虧損超過10%。這一回撤幅度尚未計入Situational Awareness基金——該基金在半導體和科技股遭遇劇烈拋售後，上週被迫出售了其大部分公開股票投資組合。帕尼吉爾佐格盧認為，這表明其他專注於科技股的股票多空對沖基金可能也遭遇了半導體和儲存晶片股的強制平倉。
+
+---
+
+### 2026-08-06 06:04:51  #其他
+
+eBay 首席財務官：第三季度合併商品交易總額（GMV）預期介於 220 億至 224 億美元之間，包含近期收購的 Depop 帶來的影響。
+
+---
+
+### 2026-08-06 06:00:52  #市場 #焦點
+
+現貨黃金突破4250美元/盎司，日內漲0.07%。
+
+---
+
+### 2026-08-06 06:00:51  #市場 #焦點
+
+紐約期金突破4310美元/盎司，日內漲0.10%。
+
+---
+
+### 2026-08-06 06:00:40  #央行 #國際
+
+【美聯儲9月加息25個基點的機率為54.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為45.6%，累計加息25個基點的機率為54.4%。美聯儲到10月維持利率不變的機率為33.5%，累計加息25個基點的機率為52.1%，累計加息50個基點的機率為14.5%。
+
+---
+
+### 2026-08-06 05:59:03  #Trading Economics #Economy #Brazil #Interest Rate #Importance 1
+
+Brazil Central Bank Cuts Key Rate to 14% — Brazil's central bank cut its benchmark interest rate by 25 basis points to 14.00% at its August meeting, in line with market expectations. The decision reflects a cautious approach amid heightened global uncertainty stemming from Middle East conflicts and uncertainty over monetary policy in advanced economies. Domestically, the central bank noted that economic activity continues to moderate gradually while remaining resilient, supported by a strong labor market. Headline inflation has eased but remains above the target range, while core inflation has slowed to slightly below the upper limit of the target band. Inflation expectations remain elevated, with the Focus survey projecting inflation at 5.0% in 2026 and 4.2% in 2027. The Copom reiterated that inflation risks remain skewed to the upside and said future policy decisions will depend on incoming economic data to ensure inflation converges to target.
+
+---
+
+### 2026-08-06 05:58:26  #MKT News
+
+US President Trump said Republicans need to be tougher in the Senate.
+
+---
+
+### 2026-08-06 05:57:26  #國際
+
+特朗普：我們必須讓共和黨參議員態度更強硬。
+
+---
+
+### 2026-08-06 05:51:23  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said we admire Elon Musk.
+
+---
+
+### 2026-08-06 05:50:37  #國際
+
+特朗普在談及取消電動汽車強制政策時提及馬斯克。
+
+---
+
+### 2026-08-06 05:50:19  #國際
+
+特朗普：我們很欣賞埃隆。
+
+---
+
+### 2026-08-06 05:50:16  #MKT News
+
+EMSC reported a magnitude 5.7 earthquake 23 km south of Sarangani, Philippines.
+
+---
+
+### 2026-08-06 05:47:42  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
+
+U.S. President Trump said he would prefer to reach an agreement with Iran.
+
+---
+
+### 2026-08-06 05:47:32  #MKT News
+
+US President Trump said the US is in talks with Iran and that it remains to be seen what will happen.
+
+---
+
+### 2026-08-06 05:47:26  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said Iran must not possess nuclear weapons.
+
+---
+
+### 2026-08-06 05:46:47  #國際
+
+特朗普：我們正與伊朗進行談判，看看後續會如何發展。
+
+---
+
+### 2026-08-06 05:46:34  #國際
+
+特朗普談及伊朗：我寧願與伊朗達成一份協議。
+
+---
+
+### 2026-08-06 05:45:57  #國際
+
+市場訊息：伊朗與阿曼就霍爾木茲海峽新航線的談判已進入最後階段，該方案尚待最高領袖穆傑塔巴・哈梅內伊批准。
+
+---
+
+### 2026-08-06 05:45:12  #公司 #市場
+
+【Bezos年內首次減持亞馬遜股票 套現3.5億美元】亞馬遜股價週一創紀錄新高之際，Jeff Bezos出售了價值近3.5億美元的亞馬遜股票，這是他今年首次出售該公司股份。週三盤後釋出的Form 4申報檔案中披露了這筆交易。這位億萬富豪兩天前在另一份檔案中表示，計劃出售最多1500萬股亞馬遜股票，價值超過40億美元，此次出售僅佔該計劃的一小部分。根據彭博億萬富豪指數，隨著亞馬遜股價今年上漲18%，Bezos的財富增加了387億美元，達到2920億美元。亞馬遜上週公佈雲端計算業務收入表現強勁後，近期成為第五家市值突破3萬億美元的公司。即使在此次出售後，Bezos仍以8.16%的持股比例遙遙領先，為亞馬遜最大股東。
+
+---
+
+### 2026-08-06 05:39:13  #其他
+
+明晟（MSCI）：在 2026 年 11 月指數調整中，結束對孟加拉國在 MSCI 股票指數中的特殊處理安排。
+
+---
+
+### 2026-08-06 05:37:50  #央行 #其他
+
+巴西央行：當前環境的特點是不確定性加劇、預期脫錨，基準情景面臨的風險有所上升。將持續監控國內財政政策動向對貨幣政策及金融資產產生的影響。近期經濟活動指標仍符合 2026 全年經濟增速放緩的走勢。
+
+---
+
+### 2026-08-06 05:36:41  #MKT News
+
+MSCI will end the special treatment applied to Bangladesh in its equity indices at the November 2026 index review.
+
+---
+
+### 2026-08-06 05:36:09  #央行 #其他
+
+巴西央行：重申貨幣政策實施將保持審慎與穩健。
+
+---
+
+### 2026-08-06 05:35:54  #央行 #其他
+
+巴西央行：重申將根據新的資訊確定本輪政策調整週期的總幅度，以確保通脹向目標水平收斂。
+
+---
+
+### 2026-08-06 05:35:29  #MKT News
+
+Brazil central bank: decision approved unanimously.
+
+---
+
+### 2026-08-06 05:34:55  #MKT News
+
+Brazil central bank cuts benchmark policy rate by 25 bps, in line with market expectations.
+
+---
+
+### 2026-08-06 05:34:31  #其他
+
+巴西下調基準利率 25 個基點至 14.00% 。
+
+---
+
+### 2026-08-06 05:34:19  #MKT News #Market Regions #Emerging Markets
+
+Brazil Selic rate at 14.00% as of Aug 5; expected 14.00%; previous 14.25%.
+
+---
+
+### 2026-08-06 05:34:09  #MKT News #Economic Calendar #Important
+
+Brazil | Selic Interest Rate (Aug.5) | actual 14% | consensus 14.00% | previous 14.25%
+
+---
+
+### 2026-08-06 05:32:42  #其他
+
+國際足聯：國際足聯秘書長及國際足聯管理委員會成員重申全力支援國際足聯主席詹尼・因凡蒂諾。
+
+---
+
+### 2026-08-06 05:30:29  #MKT News #Market Themes #The Trump Trade
+
+US President Trump said tariffs have made us rich.
+
+---
+
+### 2026-08-06 05:28:57  #其他
+
+巴拿馬運河管理局：自 8 月 26 日起，通行新巴拿馬船閘的船舶最大允許吃水深度為 14.63 米。
+
+---
+
+### 2026-08-06 05:28:23  #市場 #國際
+
+特朗普稱讚股市上漲。
+
+---
+
+### 2026-08-06 05:24:51  #國際
+
+特朗普稱讚通脹下降。
+
+---
+
+### 2026-08-06 05:23:10  #MKT News #Market Themes #The Trump Trade
+
+President Trump, on tariffs, called Canada 'very nasty' and said the US has 'turned the situation around'.
+
+---
+
+### 2026-08-06 05:21:15  #國際
+
+特朗普：加拿大領導層很糟糕。
+
+---
+
+### 2026-08-06 05:18:12  #MKT News #SNDK.O #Impact bearish
+
+【SanDisk guidance disappoints; shares slide as much as 8% after hours】SanDisk (SNDK.O) reported strong fiscal 2026 Q4 results, with revenue and earnings beating consensus; revenue rose 372% YoY and 51% QoQ. Management said the upside reflected a mix shift to higher‑value customers (data‑center revenue +437%) and price increases. Guidance for the next quarter of $10.3–10.8bn in revenue fell short of Street estimates. Options expiring the week of Aug. 7 showed the $1,370 strike with the largest open interest in both calls and puts; intense post‑earnings options activity may have at least partly driven the stock’s weakness. Shares fell as much as 8% in after‑hours trading.
+
+---
+
+### 2026-08-06 05:16:46  #國際
+
+美國化肥供應商CF二季度淨銷售22.2億美元，分析師預期24.4億美元。二季度每股收益（EPS）為4.73美元，上年同期2.37美元。二季度現金與現金等價物24.8億美元，分析師預期27億美元。伊朗衝突造成中東地區的尿素供應縮減400萬-450萬噸。
+
+---
+
+### 2026-08-06 05:15:41  #市場
+
+富時A50期指連續夜盤收跌0.35%，報14840點。
+
+---
+
+### 2026-08-06 05:10:42  #MKT News #USDJPY #Impact bearish
+
+【BofA expects yen to strengthen to 149】BofA now expects the yen to appreciate roughly 6% by year-end after coordinated currency intervention. Analysts including Shusuke Yamada wrote on Wednesday that with joint US–Japan action and expectations of BOJ tightening in coming months, USD/JPY is seen falling from about 158 to 149, versus a prior year-end forecast of 152. They say intervention raises the bar for successfully defending the yen and may require macro policy follow-up—specifically faster rate hikes; moving in September rather than October would let the BOJ demonstrate it is ahead of the curve on upside inflation risk.
+
+---
+
+### 2026-08-06 05:08:37  #公司
+
+明晟公司（MSCI）表示，其 8 月指數調整公告定於 2026 年 8 月 12 日釋出，且將在概要公告發布後即刻向客戶提供詳細的調倉資訊。
+
+---
+
+### 2026-08-06 05:07:11  #MKT News
+
+MSCI's August index review results are scheduled for release in the early hours of Aug 13, Beijing time.
+
+---
+
+### 2026-08-06 05:07:08  #市場
+
+週三（8月5日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7482元，較週二紐約尾盤跌2點，日內整體交投於6.7449-6.7501元區間。
+
+---
+
+### 2026-08-06 05:02:37  #其他
+
+AWS：AWS 與 Anthropic 以及 OpenAI 展開合作，將 AWS Continuum 整合至開發者工作流程。
+
+---
+
+### 2026-08-06 05:01:50  #MKT News
+
+Al Jazeera reported the ISRAELI MILITARY said it mistakenly fired an interceptor missile toward its own forces in southern Lebanon.
+
+---
+
+### 2026-08-06 05:01:21  #國際
+
+【美國高階官員發出警告 全美計算機系統需加強網路防禦以應對AI風險】美國政府最高階別的資訊保安官員警告，全國各地的計算機系統需要加強防禦，以應對日益加劇的人工智慧(AI)驅動型網路攻擊威脅。代理美國聯邦首席資訊保安官Michael Duffy週三發表講話時表示，政府和私營部門機構過去在網路安全方面通常採取被動應對方式。他表示，要在AI時代搶在駭客攻擊發生前採取防範措施，這種方式必須改變。“鑑於我們目前看到的這些AI能力，我們很可能根本沒有時間收拾殘局，”Duffy在拉斯維加斯一場網路安全會議的專題討論中表示，“未來十年的政策不能總是在某起重大事件發生後才被動跟進。”包括Anthropic PBC的Mythos模型在內，AI系統取得的快速突破引發外界擔憂，即駭客可能利用這項技術對關鍵基礎設施發動破壞性網路攻擊。特朗普政府已致力於採取行動應對AI帶來的網路風險，近期已完成一項針對前沿模型的自願安全測試框架。
+
+---
+
+### 2026-08-06 05:00:55  #MKT News
+
+Nikita Bier has resigned as head of product at X and will remain with the company as an advisor.
+
+---
+
+### 2026-08-06 04:59:45  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Motorola Solutions Msi earnings above expectations at 4.41 USD — Motorola Solutions Msi (MSI) released earnings per share at 4.41 USD, compared to market expectations of 3.84 USD.
+
+---
+
+### 2026-08-06 04:56:43  #市場
+
+【國際金價漲超4%，重返4200美元上方】週三（8月5日）紐約尾盤，現貨黃金漲4.11%，報4245.39美元/盎司，亞太盤初以來持續上漲，北京時間23:00以來高位窄幅震盪、02:23重新整理日高至4267.78美元。現貨白銀漲4.12%，報62.0075美元/盎司，亞太盤初以來也持續走高、22:10重新整理日高至62.7770美元。COMEX銅期貨漲1.47%，報6.7410美元/磅，02:30曾漲至6.7650美元。現貨鉑金跌0.10%，現貨鈀金漲1.33%。在美股時段交易的費城金銀指數收漲6.86%，報345.93點，美股盤初持續上漲、22:00以來高位震盪。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲7.33%，報2395.57點，亞太盤初以來維持微幅上漲狀態、持穩於2250點附近，美股開盤時跳空走高至2350點上方、隨後高位震盪。在美股時段交易的原材料指數收漲1.62%，金屬與礦業指數收漲1.42%。
 
 ---
 
@@ -20439,203 +20751,5 @@ Crypto Updates: Bitcoin Rises by 1.37% — Top crypto gainers are Bitcoin (1.37%
 ### 2026-08-05 02:30:02  #市場
 
 上期所原油期貨夜盤收跌4.93%，報510.50元人民幣/桶。滬金夜盤收漲0.87%，滬銀收漲3.45%。
-
----
-
-### 2026-08-05 02:28:32  #MKT News #Market Themes #AI Revolution
-
-According to Axios, the White House does not intend to publicly release its new framework for assessing advanced AI models.
-
----
-
-### 2026-08-05 02:26:11  #MKT News #WTI #Impact bearish #Brent
-
-【White House to extend Jones Act waiver to ease gasoline prices - Refinitiv】Refinitiv reports the White House is expected in coming days to extend a Jones Act waiver as one of the few available tools to help lower gasoline prices. The waiver, which allows non-U.S. vessels to move fuel between U.S. ports by temporarily suspending the law’s U.S.-built, -owned and -crewed requirement, is scheduled to expire on Aug. 16; an extension would be the longest pause in Jones Act enforcement. U.S. government data show the waiver was used nearly 200 times in the past 4½ months through end-July. Officials continue talks with shipping industry representatives and lawmakers on narrowing the waiver’s scope while preserving flexibility to transport critical fuel supplies. Opponents seek geographic limits and stricter per-voyage review; key Republican lawmakers are urging tighter restrictions, warning broad waivers could weaken the U.S. domestic fleet and undermine the law’s national security purpose.
-
----
-
-### 2026-08-05 02:25:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Rubber Slumps by 5.97% — Top commodity losers are Rubber (-5.97%), Wheat (-2.06%) and Lumber (-1.80%). Gains are led by Cocoa (2.53%), Palm Oil (1.45%) and Coffee (1.11%).
-
----
-
-### 2026-08-05 02:23:49  #國際
-
-據美國疾控中心（CDC），環孢子蟲病（cyclospora）疫情擴散至15個州。
-
----
-
-### 2026-08-05 02:23:13  #MKT News
-
-Iran's Fars News Agency said it remains concerned that obstruction by the US or certain regional parties could prolong or disrupt the negotiation process.
-
----
-
-### 2026-08-05 02:23:07  #MKT News
-
-Iran's Fars news agency reported that some US officials have recently sent mixed signals, directly or via regional partners, disrupting the negotiation process.
-
----
-
-### 2026-08-05 02:22:53  #其他
-
-土耳其能源部長：土耳其正在洽談建設通往伊拉克發電廠的天然氣管道。
-
----
-
-### 2026-08-05 02:20:24  #國際
-
-伊朗法爾斯通訊社：近日，部分美國官員直接或透過部分地區夥伴釋放相互矛盾的訊號，對談判程序造成干擾。
-
----
-
-### 2026-08-05 02:20:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Rallies by 8.01% — Top commodity gainers are Platinum (8.01%), Silver (3.51%), Copper (1.61%) and Gold (0.79%).
-
----
-
-### 2026-08-05 02:20:09  #MKT News #Important
-
-Refinitiv: sources say the WHITE HOUSE expects to extend the Jones Act waiver period in the coming days.
-
----
-
-### 2026-08-05 02:19:10  #其他
-
-訊息人士：白宮預計未來數日將延長《瓊斯法案》豁免期限。
-
----
-
-### 2026-08-05 02:18:32  #國際
-
-伊朗法爾斯通訊社：談判團隊訊息人士稱，伊朗僅與阿曼就霍爾木茲海峽未來相關安排開展談判，並未和美國進行任何談判。
-
----
-
-### 2026-08-05 02:15:15  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Crude Oil WTI Plunges by 5.68% — Top commodity losers are Crude Oil WTI (-5.68%), Brent Crude Oil (-5.42%) and Natural Gas UK (-5.30%). Gains are led by Methanol (0.55%).
-
----
-
-### 2026-08-05 02:12:31  #MKT News
-
-S&P Dow Jones Indices launched a new index series including the S&P U.S. Investment-Grade CLO (collateralized loan obligation) Index, providing a benchmark framework for market participants in one of the fastest-growing segments of the credit market.
-
----
-
-### 2026-08-05 02:09:40  #觀點
-
-高盛高階石油交易員Madhav Janakiraman將離職。
-
----
-
-### 2026-08-05 02:09:19  #MKT News
-
-Qatar's Emir said his call with Trump addressed recent regional developments, notably efforts to ease US-Iran tensions and bridge positions to bolster prospects for a sustainable diplomatic resolution of the crisis.
-
----
-
-### 2026-08-05 02:08:11  #國際
-
-卡達埃米爾：接到美國總統特朗普打來的電話。 通話談及地區最新局勢，重點涉及緩和美國與伊朗之間緊張關係、彌合雙方立場分歧的相關努力，以此提升危機透過外交途徑實現可持續解決的前景。美國總統對卡達在埃米爾領導下為支援外交努力、促成各方對話所發揮的作用表示讚賞，稱卡達的工作有助於促進該地區的安全與穩定。埃米爾則強調，應繼續開展對話，採取外交手段解決分歧。他同時指出，各方均需恪守美國與伊朗諒解備忘錄框架下達成的各項約定，並支援旨在緩和緊張局勢的國際倡議，進而鞏固地區與國際層面的和平與安全。雙方還就多項共同關切議題交換意見，強調要繼續就地區及國際事態發展保持協調磋商，以維護兩個友好國家的利益。
-
----
-
-### 2026-08-05 02:07:40  #MKT News
-
-Qatar's emir said he received a call from U.S. President Trump.
-
----
-
-### 2026-08-05 02:07:09  #市場 #國際
-
-【Chipotle撤下與美國明尼蘇達州沙門氏菌病例相關的墨西哥胡椒】在得知墨西哥胡椒可能與美國明尼蘇達州的一起沙門氏菌疫情有關後，Chipotle Mexican Grill Inc.（墨式烤肉）從明尼蘇達州的多間門店撤下了該產品。在協助明尼蘇達州衛生部門調查此次疫情的過程中，該連鎖餐廳從所有接收過該批次的門店中撤下了疑似受汙染的墨西哥胡椒。此次沙門氏菌疫情的完整範圍和汙染源頭仍不明確。其他州也參與了調查，且有證據表明，在其他墨西哥風味餐廳就餐的顧客同樣出現了患病症狀。受此訊息影響，Chipotle的股價在紐約週二盤中一度下跌8.5%，創2025年10月30日以來的最大盤中跌幅。
-
----
-
-### 2026-08-05 01:59:33  #其他
-
-明尼蘇達州衛生部門：正在調查與墨西哥風味快餐門店相關的賈維亞沙門氏菌疫情，懷疑傳染源為墨西哥辣椒（哈拉佩諾辣椒）。已確認本起疫情在該州造成 110 例賈維亞沙門氏菌感染病例。 即便部分感染病例發病於數週之前，預計賈維亞沙門氏菌的確診數量仍會繼續上升。
-
----
-
-### 2026-08-05 01:59:31  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【OPEC output rises in July as three Gulf producers supply almost all the gain】Bloomberg survey: OPEC crude production rose 1.16 mln b/d in July to an average 19.44 mln b/d, with Kuwait, Saudi Arabia and Iraq accounting for almost all of the increase. Iraq led the gain, up 460k b/d to 2.30 mln b/d; tanker-tracking data show Iraqi loadings rose 37% in July. Kuwait added 360k b/d to 1.57 mln b/d, with officials saying output is at its highest average since the conflict began. Saudi production increased 390k b/d to 7.40 mln b/d but remains several million barrels below pre-conflict levels, and Saudi export flows via Red Sea alternative routes have fallen amid Houthi threats to tankers.
-
----
-
-### 2026-08-05 01:54:23  #MKT News #SPCX.O #Impact mixed
-
-Zero Hedge posted that 95% of lendable SpaceX shares have been borrowed, implying short positions equal to 34% of the float. Musk replied: "I tried to warn them, but they just doubled down." SpaceX (SPCX.O) will report Q2 after the U.S. market close today.
-
----
-
-### 2026-08-05 01:48:56  #MKT News #Important #S&P500 #Impact bullish #Nasdaq100 #Dow
-
-Dow and S&P 500 gains widened to 2%; Nasdaq rose 2.7%. The Philadelphia Semiconductor Index surged 7% as Arm jumped 17.4%, Intel climbed 10.9%, AMD gained 9.3%, Broadcom and Qualcomm rose over 7%, and NVIDIA added 2.5%.
-
----
-
-### 2026-08-05 01:48:53  #市場 #焦點
-
-【美股三大指數均漲超2%】道指漲2.04%，現報54261.602點；納指漲2.74%，現報26625.090點；標普500指數漲2.00%，現報7752.590點。
-
----
-
-### 2026-08-05 01:47:36  #市場 #焦點
-
-道指漲2.01%，現報54245.199點；納指漲2.72%，現報26618.311點；標普500指數漲1.97%，現報7750.110點。
-
----
-
-### 2026-08-05 01:46:42  #MKT News
-
-【House Democrats Press Hegseth on Pentagon Casualty Reporting in Iran War】Two senior House Democrats, Reps. Robert Garcia (CA) and Suhas Subramanyam (VA), wrote to Defense Secretary Hegseth on Tuesday criticizing the Pentagon’s methodology for reporting US casualties in the Iran war and saying they are investigating the Defense Department’s public casualty reporting. The lawmakers cited slow publication of injured personnel figures, reliance on the Defense Casualty Analysis System (DCAS) as the sole source for updates, and incidents where death and injury entries were temporarily removed from DCAS. As of Tuesday afternoon DCAS records show 18 US service members killed and 687 wounded since the conflict began on Feb. 28.
-
----
-
-### 2026-08-05 01:45:52  #國際
-
-巴斯勒（Basler AG）：索尼日本影象感測器產線臨時停產，供應受限狀況預計持續至 8 月中旬。
-
----
-
-### 2026-08-05 01:44:37  #其他
-
-市場訊息：傑富瑞在陷入困境的基金中發現新的假髮票證據。
-
----
-
-### 2026-08-05 01:44:03  #Trading Economics #Markets #commodity #Importance 0
-
-Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Orange Juice lost 4.73%, and in the last 12 months, it decreased 32.3%.
-
----
-
-### 2026-08-05 01:38:44  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Turkey warns Russia-Ukraine spillover threatens Black Sea civilian shipping】Turkey on the 4th said it is seriously concerned after two commercial freighters, Yasar and Nadezhda, were struck by drone attacks on the Black Sea after sailing from Russia’s Novorossiysk on the 3rd; multiple crew were injured. Turkey’s foreign ministry warned the conflict’s spillover now threatens civilian shipping and regional stability, and called for urgent, concrete measures from all parties, particularly Russia and Ukraine, to safeguard maritime navigation and prevent further attacks on commercial vessels.
-
----
-
-### 2026-08-05 01:38:34  #國際
-
-【土耳其警告俄烏衝突外溢威脅黑海民用航運】土耳其4日對兩艘商用貨輪在黑海海域遇襲表示嚴重關切，並警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。土耳其外交部在一份宣告中表示，當地時間3日，與土耳其相關的商船“亞薩爾”號和“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。宣告稱，土耳其正密切關注傷者狀況和事態發展，對俄烏衝突進一步蔓延至黑海並波及民用船隻“深感擔憂”。土耳其呼籲採取緊急行動，敦促所有相關方，特別是俄羅斯和烏克蘭，採取切實措施保障海上航行安全，防止針對民用船隻的進一步襲擊。（新華社）
-
----
-
-### 2026-08-05 01:37:15  #國際
-
-以色列總理內塔尼亞胡：特朗普及其團隊認為，他們能夠促使哈馬斯解除武裝，並實現加沙的非軍事化。他們向我方提交了一份草案，我們並未同意。這並非我方擬定的草案。我們已提交了我方的修改意見。順帶一提，在相關問題出現媒體造勢之前，我們就已經遞交了意見。這就是我們的立場。我認為，我們正以兼具智慧與強硬的姿態，堅決捍衛本國利益。
-
----
-
-### 2026-08-05 01:34:45  #其他
-
-調查結果顯示，石油輸出國組織（OPEC，歐佩克）7月石油產量增加116萬桶/日，至產出1944萬桶/日，科威特、沙特、伊拉克增產明顯。
 
 ---
