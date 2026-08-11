@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-12 04:56:10",
-  "count": 15571,
+  "updated": "2026-08-12 04:59:57",
+  "count": 15566,
   "items": [
+    {
+      "id": "5036390",
+      "time": "2026-08-12 04:59:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（8月11日）紐約尾盤，現貨黃金跌0.50%，報4368.81美元/盎司。現貨白銀跌1.63%，報6.46705美元/盎司。COMEX銅期貨漲0.19%，報6.6285美元/磅。現貨鉑金跌0.82%，現貨鈀金跌1.20%。"
+    },
+    {
+      "id": "mkt:019ff29d-c9bc-7aab-8ffb-26a59dff1280",
+      "time": "2026-08-12 04:57:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Commodity Futures Trading Commission (CFTC) has asked prediction platform Kalshi to continue operating."
+    },
+    {
+      "id": "te:economy:574518",
+      "time": "2026-08-12 04:57:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Inventories Beat Expectations — US crude oil inventories rose by 9.07 million barrels in the week ending August 7th, far exceeding expectations for a 500,000-barrel draw and following a 2.69 million-barrel increase in the previous week. The larger-than-expected build was driven partly by higher crude imports relative to exports. Despite the latest increase, commercial crude inventories excluding the SPR have declined by just over 49 million barrels over the past 17 weeks, while inventories are up 1.88 million barrels year-to-date. Another 6.1 million barrels left the SPR, bringing total reserves to 298.7 million barrels, near the generally accepted operational minimum of 250-300 million barrels. Cushing inventories increased by 1.57 million barrels after rising 2.36 million barrels in the previous week. Meanwhile, US crude production rose to 13.804 million bpd from 13.796 million bpd, up 600,000 bpd from a year earlier."
+    },
     {
       "id": "5036389",
       "time": "2026-08-12 04:55:23",
@@ -141811,71 +141839,6 @@
         "Important"
       ],
       "text": "South Korea | Foreign Exchange Reserves (Jul) | actual 427950000000B | previous 427360000000.00006B"
-    },
-    {
-      "id": "5025357",
-      "time": "2026-08-05 04:59:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "安進高管在電話會議上表示，第二季度資本支出達5億美元，主要受美國各地生產基地投資推動。"
-    },
-    {
-      "id": "5025356",
-      "time": "2026-08-05 04:59:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：沙特與胡塞武裝並未透過調解方開展談判。"
-    },
-    {
-      "id": "5025355",
-      "time": "2026-08-05 04:58:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官：當前的經濟狀況已使我們在計算領域的新資本部署實現了不到一年的投資回報期。"
-    },
-    {
-      "id": "5025354",
-      "time": "2026-08-05 04:58:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官：雲服務合作業務需求旺盛。"
-    },
-    {
-      "id": "mkt:019fce90-d733-7aab-8f77-edeef7d4b820",
-      "time": "2026-08-05 04:57:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【New round of Lebanon-Israel US-mediated security talks held in Rome】Italian media reported on the 4th that Lebanon and Israel began a new round of US-mediated security talks in Rome at the US embassy, scheduled for three days to implement an end‑June Washington framework on border security. European outlets said negotiations focus on an Israeli withdrawal from southern Lebanon, unresolved boundary disputes and HEZBOLLAH disarmament; both sides sent technical delegations."
-    },
-    {
-      "id": "5025353",
-      "time": "2026-08-05 04:56:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新一輪黎以談判在羅馬舉行】義大利媒體4日報道，黎巴嫩和以色列當天在意首都羅馬開啟新一輪由美國斡旋的安全談判，重點討論兩國邊境安全安排以及落實6月底在美國華盛頓達成的框架協議。（新華社）"
-    },
-    {
-      "id": "5025352",
-      "time": "2026-08-05 04:56:25",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部：霍爾木茲海峽南部航道依舊保持暢通，所有希望行經這條國際水道的商業船舶均可通行。過去三個月，儘管遭遇伊朗無端挑釁，美軍已協助1000餘艘船舶順利透過海峽，目前此類通航仍在持續。"
-    },
-    {
-      "id": "5025351",
-      "time": "2026-08-05 04:56:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官：計算協議在第二季度增加了16億美元的收入。"
     }
   ]
 }
