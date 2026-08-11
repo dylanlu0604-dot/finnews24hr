@@ -1,7 +1,98 @@
 {
   "date": "2026-08-11",
-  "count": 2695,
+  "count": 2705,
   "items": [
+    {
+      "id": "mkt:019ff17e-b840-7aab-8ff5-e6ad851ad082",
+      "time": "2026-08-11 23:44:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran."
+    },
+    {
+      "id": "5036208",
+      "time": "2026-08-11 23:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。"
+    },
+    {
+      "id": "mkt:019ff17e-13e1-7aab-8ff5-d80cb4ecbbcf",
+      "time": "2026-08-11 23:43:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue."
+    },
+    {
+      "id": "mkt:019ff17d-c83b-7aab-8ff5-d0f78a82f96f",
+      "time": "2026-08-11 23:42:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds."
+    },
+    {
+      "id": "5036207",
+      "time": "2026-08-11 23:42:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.06%，歐洲斯托克指數上漲0.29%，歐元區藍籌股上漲0.26%。英國富時100指數下跌0.17%，德國DAX指數上漲0.27%，法國CAC 40指數下跌0.13%，西班牙IBEX指數上漲0.2%。"
+    },
+    {
+      "id": "mkt:019ff17d-16f6-7aab-8ff5-c9e98518528f",
+      "time": "2026-08-11 23:42:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said New York City must immediately stop levying a second-home tax."
+    },
+    {
+      "id": "5036205",
+      "time": "2026-08-11 23:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普威脅將針對紐約市稅收採取聯邦層面行動】特朗普批評紐約市的非居民公寓稅以及擁堵收費政策，稱這類政策正促使居民與稅收流向佛羅里達、得克薩斯等州。特朗普警告，上述政策可能給紐約造成經濟與社會層面的損害。他表示，其政府正在研判聯邦政府是否擁有法律授權，介入並叫停這些政策。"
+    },
+    {
+      "id": "mkt:019ff17c-b287-7aab-8ff5-c625a0c4f36c",
+      "time": "2026-08-11 23:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China ice-making companies surge 62% in 2025; sector at seasonal production peak】As of Aug 2026 China had 42,900 ice-related companies. In 2025, 11,900 new firms registered, up 62.08% YoY and the highest annual total in a decade. Strong cooling and cold-chain preservation demand have pushed the industry into a production peak with many plants running at full capacity. In Jiashan, Zhejiang, an automated ice plant supplying East China supermarkets, convenience stores and new-tea chains commissioned a new line this year that produces ice spheres with roughly three-hour melt time and lifted daily capacity from 150 to 170 tonnes."
+    },
+    {
+      "id": "5036204",
+      "time": "2026-08-11 23:41:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：正在研判聯邦政府是否具備法律許可權，阻止馬姆達尼推出的紐約市非居民公寓稅。"
+    },
+    {
+      "id": "mkt:019ff17b-eb79-7aab-8ff5-bbf9ab371b41",
+      "time": "2026-08-11 23:40:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he is investigating whether the federal government has the authority to block Mandani from imposing a 'second-home tax' in New York City."
+    },
     {
       "id": "5036203",
       "time": "2026-08-11 23:40:18",
