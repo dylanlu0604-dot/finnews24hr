@@ -1,7 +1,71 @@
 {
   "date": "2026-08-12",
-  "count": 189,
+  "count": 195,
   "items": [
+    {
+      "id": "mkt:019ff20a-f847-7aab-8ff8-e51e95c8c7d5",
+      "time": "2026-08-12 02:17:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Nick Timiraos: Wosh skeptical of 'data-dependent' policy, old framework still dominates】WSJ's Nick Timiraos says markets will focus on Wednesday's July inflation MoM print as a rising number of FOMC officials treat upcoming monthly inflation readings as decisive for whether their forecast of inflation falling to 2% over the next two years remains achievable without further rate hikes. New Fed chair Wosh has expressed skepticism about linking policy-sensitive forecast revisions to high-frequency data, saying he sees little practical value in the Fed's current \"data-dependent\" approach. A working group set up by Wosh appears intended to help design a replacement framework, but until a new framework is clarified the old one still appears to be guiding policy."
+    },
+    {
+      "id": "te:markets:574505",
+      "time": "2026-08-12 02:16:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Thermo Fisher Scientific Stock Price Hits 27-week High — Thermo Fisher Scientific shares increased to 602.82 USD, the highest since January 2026. Over the past 4 weeks, Thermo Fisher Scientific gained 14.04%, and in the last 12 months, it increased 26.25%."
+    },
+    {
+      "id": "5036315",
+      "time": "2026-08-12 02:15:43",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會宣告：指控歌利亞風險投資公司及其執行長涉嫌實施4億美元詐騙。"
+    },
+    {
+      "id": "5036314",
+      "time": "2026-08-12 02:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱烏克蘭已向美國談判人員提交了終止俄烏衝突的方案提案。"
+    },
+    {
+      "id": "te:markets:574504",
+      "time": "2026-08-12 02:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Rises by 3.80% — Top commodity gainers are Methanol (3.80%), Heating Oil (1.42%), Crude Oil WTI (1.22%) and Brent Crude Oil (1.13%). Biggest losers are Germany Natural Gas THE (-3.47%), Natural Gas UK (-1.59%) and Natural Gas EU (-1.26%)."
+    },
+    {
+      "id": "mkt:019ff209-0f3c-7aab-8ff8-ddaa7500bf13",
+      "time": "2026-08-12 02:15:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Zelenskiy said Ukraine has submitted a proposal to the U.S. negotiating representative to end the war with Russia."
+    },
     {
       "id": "te:markets:574500",
       "time": "2026-08-12 02:13:31",
