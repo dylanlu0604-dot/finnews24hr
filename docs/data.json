@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-12 05:57:53",
-  "count": 15527,
+  "updated": "2026-08-12 06:02:17",
+  "count": 15522,
   "items": [
+    {
+      "id": "5036421",
+      "time": "2026-08-12 06:00:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破65美元/盎司，日內漲0.09%。"
+    },
+    {
+      "id": "5036420",
+      "time": "2026-08-12 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4430美元/盎司，日內跌0.22%。"
+    },
+    {
+      "id": "5036419",
+      "time": "2026-08-12 06:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破65美元/盎司，日內跌0.04%。"
+    },
+    {
+      "id": "5036418",
+      "time": "2026-08-12 05:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空預期：2028 年營業收入約 300 億加元。設定 2030 年目標：營業收入超 300 億加元；調整後息稅折舊攤銷前利潤率 18%-20%。"
+    },
     {
       "id": "5036417",
       "time": "2026-08-12 05:52:11",
@@ -141411,93 +141446,6 @@
         "國際"
       ],
       "text": "加沙和平委員會官員表示，加沙路線圖將面臨漫長而艱難的程序。"
-    },
-    {
-      "id": "5025421",
-      "time": "2026-08-05 06:02:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美國財長貝森特：我相信日本央行總裁植田和男會採取對日本經濟最有利的行動。"
-    },
-    {
-      "id": "mkt:019fcecb-dd70-7aab-8f78-97322be83899",
-      "time": "2026-08-05 06:01:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said falling energy prices have reduced the risk of excessive yen depreciation, which should support disinflation and allow the yen to enter a virtuous cycle."
-    },
-    {
-      "id": "5025420",
-      "time": "2026-08-05 06:01:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：隨著能源價格回落，日元過度疲軟的情況得到緩解，這將推動日本通脹下行，日元也有望進入良性迴圈。"
-    },
-    {
-      "id": "5025419",
-      "time": "2026-08-05 06:01:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.1%，納斯達克指數期貨下跌0.2%，盤後交易時段SpaceX與AMD股價下滑。"
-    },
-    {
-      "id": "5025418",
-      "time": "2026-08-05 06:01:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1343.12美元/盎司。"
-    },
-    {
-      "id": "5025417",
-      "time": "2026-08-05 06:00:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月份大宗商品價格指數同比增長15.5%】中國物流與採購聯合會今天（5日）公佈7月份中國大宗商品價格指數。從指數執行情況看，大宗商品價格指數環比小幅回落，同比保持較大漲幅，市場執行基礎總體穩固。7月份中國大宗商品價格指數為128.6點，環比回落1.3%，同比增長15.5%。在中國物流與採購聯合會重點監測的50種大宗商品中，7月價格環比上漲的大宗商品有14種。其中，焦炭、氧化鐠釹和瓦楞紙漲幅居前，環比分別上漲7.1%、6.4%和5.6%。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fcecb-3ad3-7aab-8f78-8c73c927591e",
-      "time": "2026-08-05 06:00:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【China commodity price index up 15.5% YoY in July; slips 1.3% MoM】China Federation of Logistics & Purchasing said the July commodity price index was 128.6, down 1.3% MoM but up 15.5% YoY. Of 50 monitored commodities, 14 rose MoM; largest monthly gains were coke (+7.1%), praseodymium–neodymium oxide (+6.4%) and corrugated paper (+5.6%)."
-    },
-    {
-      "id": "mkt:019fcecb-3571-7aab-8f78-81c1b9c2803e",
-      "time": "2026-08-05 06:00:51",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "US Treasury Secretary Bessent said Japan's inflation rise is driven by yen weakness and higher energy prices."
-    },
-    {
-      "id": "5025416",
-      "time": "2026-08-05 06:00:32",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部長貝森特：日本通脹上行是日元疲軟和能源價格導致的。"
     }
   ]
 }
