@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-12 03:58:19",
+  "updated": "2026-08-12 04:02:08",
   "count": 15650,
   "items": [
+    {
+      "id": "mkt:019ff26a-5f9b-7aab-8ffa-2b761c232697",
+      "time": "2026-08-12 04:01:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "JD.O",
+        "Impact bearish",
+        "NTES.O",
+        "NIO.N"
+      ],
+      "text": "【US stocks close lower; Nasdaq Golden Dragon China Index down about 3%】US equities closed lower on Tuesday. The Dow Jones Industrial Average fell 0.34%, the S&P 500 lost 0.30% and the Nasdaq Composite dropped 0.60%. SK Hynix (SKHY.O) rose 4.7%, SpaceX (SPCX.O) fell 3.9% and Apple (AAPL.O) slipped 1.0%. The Nasdaq Golden Dragon China Index closed down 2.95%; JD.com (JD.O), NetEase (NTES.O) and NIO (NIO.N) each fell about 4%."
+    },
+    {
+      "id": "5036367",
+      "time": "2026-08-12 04:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Apollo Global收漲6.3%，創2025年5月份以來最佳單日表現。"
+    },
+    {
+      "id": "5036366",
+      "time": "2026-08-12 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.34%，標普500指數跌0.32%，納指跌0.60%。APP AppLovin跌5.99%，芬塔公司跌5.42%，Datadog跌5.37%，霍尼韋爾跌5.30%。“七姐妹”方面：Meta Platforms漲0.71%，特斯拉漲0.58%，英偉達跌0.02%，微軟跌0.44%，蘋果跌1.09%，亞馬遜跌2.09%，谷歌跌3.61%。"
+    },
+    {
+      "id": "5036365",
+      "time": "2026-08-12 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.95%】騰訊音樂跌11.92%，1藥網跌8.05%，信也科技跌6.04%，嗶哩嗶哩跌5.21%，海天網路跌5.20%。"
+    },
+    {
+      "id": "5036364",
+      "time": "2026-08-12 03:58:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗將軍納赫迪：即使衝突持續數年，伊朗也能維持導彈和無人機的生產。伊朗將保持發射彈道導彈的能力，直至戰爭結束。"
+    },
+    {
+      "id": "5036363",
+      "time": "2026-08-12 03:58:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西參議員弗拉維奧・博索納羅的總統競選團隊正透過憲法修正案起草全新財政框架。草案提案將依據公共債務水平收緊巴西政府的支出上限，博索納羅競選團隊擬定的財政框架草案將包含支出增長上限及財政目標。"
+    },
+    {
+      "id": "mkt:019ff267-f85a-7aab-8ffa-2097f7b97f64",
+      "time": "2026-08-12 03:58:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Gen. Nahdi said Iran can sustain missile and drone production even if the conflict lasts years, and will retain the ability to launch ballistic missiles until the war ends."
+    },
     {
       "id": "mkt:019ff266-1291-7aab-8ffa-187ec3016c7a",
       "time": "2026-08-12 03:56:43",
@@ -142512,77 +142579,6 @@
         "焦點"
       ],
       "text": "SpaceX：二季度營收78億美元，市場預期68.1億美元。"
-    },
-    {
-      "id": "5025269",
-      "time": "2026-08-05 04:01:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數6月以來首次收於紀錄高點。"
-    },
-    {
-      "id": "5025268",
-      "time": "2026-08-05 04:01:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價4日大幅下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌4.57美元，收於每桶75.77美元，跌幅為5.69%；10月交貨的倫敦布倫特原油期貨價格下跌4.41美元，收於每桶79.36美元，跌幅為5.26%。"
-    },
-    {
-      "id": "mkt:019fce5d-a86f-7aab-8f76-8516ca896e3f",
-      "time": "2026-08-05 04:01:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "S&P500",
-        "Impact bullish",
-        "NVDA.O",
-        "MU.O"
-      ],
-      "text": "【US close: Dow, S&P 500 hit record highs; SK Hynix up 8%】U.S. stocks closed higher Tuesday: Dow Jones prelim. +1.70% and S&P 500 +1.73%, both at record highs; Nasdaq +2.59%. SK Hynix (SKHY.O) +8.0%, Micron Technology (MU.O) +7.6%, SanDisk (SNDK.O) +10.8%, NVIDIA (NVDA.O) just over +2%, SpaceX (SPCX.O) +9.4%. Nasdaq Golden Dragon China Index -0.35%; Alibaba (BABA.N) +1.0%."
-    },
-    {
-      "id": "5025267",
-      "time": "2026-08-05 04:00:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲1.71%，標普500指數漲1.79%，納指漲2.60%。Palantir Technologies漲29.45%，斑馬技術漲26.62%，加特納漲23.05%，Arm Holdings Plc漲17.39%，邁威爾科技漲12.79%，Coherent Corp漲12.36%。“七姐妹”方面：英偉達漲2.58%，蘋果漲1.96%，特斯拉漲1.63%，微軟漲1.05%，谷歌漲0.77%，Meta Platforms跌0.39%，亞馬遜跌2.34%。"
-    },
-    {
-      "id": "5025266",
-      "time": "2026-08-05 04:00:46",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "SpaceX股價在財報釋出前收盤上漲9.4%。"
-    },
-    {
-      "id": "5025265",
-      "time": "2026-08-05 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.22%】逸仙電商跌8.87%，盛豐物流跌6.74%，叮咚買菜跌5.65%，優品車跌5.18%，新東方跌4.82%。"
-    },
-    {
-      "id": "5025264",
-      "time": "2026-08-05 03:59:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：Gemini課堂版K‑12及以上版本將於8月10日開始推出。"
     }
   ]
 }
