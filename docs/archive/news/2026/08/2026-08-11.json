@@ -1,7 +1,38 @@
 {
   "date": "2026-08-11",
-  "count": 2661,
+  "count": 2664,
   "items": [
+    {
+      "id": "te:economy:574481",
+      "time": "2026-08-11 23:09:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Debt Balance Total",
+        "Importance 1"
+      ],
+      "text": "US Household Debt Falls in Q2 — Total household debt in the US decreased by $13 billion from the prior quarter to $18.794 trillion in Q2 2026. Mortgage balances declined by $74 billion to $13.1 trillion at the end of June, and student loan balances decreased by $7 billion to $1.65 trillion. Meanwhile, home equity lines of credit (HELOC) balances rose by $13 billion to $459 billion, credit card balances rose by $21 billion to $1.26 trillion, and auto loan balances increased by $28 billion to $1.71 trillion. “Delinquency rates across most products have held steady over the past two years,” said Joelle Scally, Economic Policy Advisor at the New York Fed. “Still, new delinquencies for auto loans and credit cards remain at elevated levels, a trend we’ll continue to monitor.”"
+    },
+    {
+      "id": "te:markets:574480",
+      "time": "2026-08-11 23:09:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 4-week Low — Corn decreased to 434.00 USd/BU, the lowest since July 2026. Over the past 4 weeks, Corn lost 1.48%, and in the last 12 months, it increased 16.95%."
+    },
+    {
+      "id": "5036186",
+      "time": "2026-08-11 23:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普及其身邊人士擔憂，伊朗戰爭若持續佔據新聞頭條，他的歷史功績就越有可能遭受長期損害，甚至會被拿來與前總統吉米·卡特作對比。"
+    },
     {
       "id": "5036185",
       "time": "2026-08-11 23:07:07",

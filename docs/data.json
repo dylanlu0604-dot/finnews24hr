@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-11 23:09:00",
-  "count": 15579,
+  "updated": "2026-08-11 23:13:48",
+  "count": 15578,
   "items": [
+    {
+      "id": "te:economy:574481",
+      "time": "2026-08-11 23:09:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Debt Balance Total",
+        "Importance 1"
+      ],
+      "text": "US Household Debt Falls in Q2 — Total household debt in the US decreased by $13 billion from the prior quarter to $18.794 trillion in Q2 2026. Mortgage balances declined by $74 billion to $13.1 trillion at the end of June, and student loan balances decreased by $7 billion to $1.65 trillion. Meanwhile, home equity lines of credit (HELOC) balances rose by $13 billion to $459 billion, credit card balances rose by $21 billion to $1.26 trillion, and auto loan balances increased by $28 billion to $1.71 trillion. “Delinquency rates across most products have held steady over the past two years,” said Joelle Scally, Economic Policy Advisor at the New York Fed. “Still, new delinquencies for auto loans and credit cards remain at elevated levels, a trend we’ll continue to monitor.”"
+    },
+    {
+      "id": "te:markets:574480",
+      "time": "2026-08-11 23:09:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 4-week Low — Corn decreased to 434.00 USd/BU, the lowest since July 2026. Over the past 4 weeks, Corn lost 1.48%, and in the last 12 months, it increased 16.95%."
+    },
+    {
+      "id": "5036186",
+      "time": "2026-08-11 23:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普及其身邊人士擔憂，伊朗戰爭若持續佔據新聞頭條，他的歷史功績就越有可能遭受長期損害，甚至會被拿來與前總統吉米·卡特作對比。"
+    },
     {
       "id": "5036185",
       "time": "2026-08-11 23:07:07",
@@ -141808,40 +141839,6 @@
         "Brent"
       ],
       "text": "Press TV, citing informed sources, said Iran and Oman have entered a new phase of talks on Strait of Hormuz shipping lanes despite US interference; a bilateral understanding could be reached if the US and other countries stop interfering."
-    },
-    {
-      "id": "5025117",
-      "time": "2026-08-04 23:13:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【BP執行長：不再將公司視為“超級石油巨頭”是“審慎之舉”】英國石油公司（BP Plc.）執行長Meg O’Neill表示，不再將公司視為大型石油“超級巨頭”是“審慎之舉”。這是她在努力扭轉公司多年來的低迷表現之際，在投資者評估標準上做出的重大轉變。O’Neill指出，BP不應再試圖追趕雪佛龍、埃克森美孚、殼牌和道達爾能源等規模更大的競爭對手，而應專注於在自身的“重量級”內進行競爭，並將投資集中在其最強勢的業務上。該公司已加速資產出售步伐，近期宣佈的交易包括出售其英國北海業務以及美國生物天然氣生產商Archaea Energy。"
-    },
-    {
-      "id": "5025116",
-      "time": "2026-08-04 23:13:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "負責對美貿易關係的加拿大部長重返華盛頓特區開展會談。"
-    },
-    {
-      "id": "5025115",
-      "time": "2026-08-04 23:12:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據伊朗Press TV援引知情人士訊息，儘管遭到美國阻撓，伊朗‑阿曼霍爾木茲海峽通道談判已進入新階段。 此階段取得的進展十分顯著，伊朗‑阿曼雙邊協議有望達成。 談判尚存的障礙來自美國及其地區盟友的持續阻撓。"
-    },
-    {
-      "id": "5025114",
-      "time": "2026-08-04 23:09:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "輝瑞CEO： 輝瑞已完成業務發展方向的佈局押注。公司剩餘 60 至 70 億美元可用於業務拓展，資金的使用將 “極具戰略性”。"
     }
   ]
 }
