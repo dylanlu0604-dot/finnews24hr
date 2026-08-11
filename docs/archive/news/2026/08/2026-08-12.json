@@ -1,7 +1,33 @@
 {
   "date": "2026-08-12",
-  "count": 172,
+  "count": 174,
   "items": [
+    {
+      "id": "mkt:019ff1f3-abe2-7aab-8ff8-be98e405f4aa",
+      "time": "2026-08-12 01:51:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) top executive responsible for payments and Apple Wallet services will depart in October."
+    },
+    {
+      "id": "mkt:019ff1f3-a531-7aab-8ff8-b7c6f313f2f1",
+      "time": "2026-08-12 01:51:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reported Yemen's armed forces attacked a vessel carrying Saudi military equipment in the Bab al-Mandeb Strait."
+    },
     {
       "id": "mkt:019ff1f0-25b1-7aab-8ff8-a820fc034e96",
       "time": "2026-08-12 01:47:55",

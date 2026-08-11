@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-12 01:51:00",
-  "count": 15626,
+  "updated": "2026-08-12 01:54:53",
+  "count": 15627,
   "items": [
+    {
+      "id": "mkt:019ff1f3-abe2-7aab-8ff8-be98e405f4aa",
+      "time": "2026-08-12 01:51:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) top executive responsible for payments and Apple Wallet services will depart in October."
+    },
+    {
+      "id": "mkt:019ff1f3-a531-7aab-8ff8-b7c6f313f2f1",
+      "time": "2026-08-12 01:51:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reported Yemen's armed forces attacked a vessel carrying Saudi military equipment in the Bab al-Mandeb Strait."
+    },
     {
       "id": "mkt:019ff1f0-25b1-7aab-8ff8-a820fc034e96",
       "time": "2026-08-12 01:47:55",
@@ -142330,16 +142356,6 @@
         "Brent"
       ],
       "text": "【OPEC output rises in July as three Gulf producers supply almost all the gain】Bloomberg survey: OPEC crude production rose 1.16 mln b/d in July to an average 19.44 mln b/d, with Kuwait, Saudi Arabia and Iraq accounting for almost all of the increase. Iraq led the gain, up 460k b/d to 2.30 mln b/d; tanker-tracking data show Iraqi loadings rose 37% in July. Kuwait added 360k b/d to 1.57 mln b/d, with officials saying output is at its highest average since the conflict began. Saudi production increased 390k b/d to 7.40 mln b/d but remains several million barrels below pre-conflict levels, and Saudi export flows via Red Sea alternative routes have fallen amid Houthi threats to tankers."
-    },
-    {
-      "id": "mkt:019fcde9-8d24-7aab-8f75-7358bb7d3809",
-      "time": "2026-08-05 01:54:23",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact mixed"
-      ],
-      "text": "Zero Hedge posted that 95% of lendable SpaceX shares have been borrowed, implying short positions equal to 34% of the float. Musk replied: \"I tried to warn them, but they just doubled down.\" SpaceX (SPCX.O) will report Q2 after the U.S. market close today."
     }
   ]
 }
