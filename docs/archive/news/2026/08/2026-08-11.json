@@ -1,7 +1,65 @@
 {
   "date": "2026-08-11",
-  "count": 831,
+  "count": 837,
   "items": [
+    {
+      "id": "mkt:019feece-b863-7aab-8fe5-8676119431b6",
+      "time": "2026-08-11 11:12:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index reversed earlier gains, down more than 1% before midday; Hang Seng trades 0.54% lower."
+    },
+    {
+      "id": "mkt:019feece-9964-7aab-8fe5-792fd6a585e4",
+      "time": "2026-08-11 11:12:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Qianwen opens AI glasses ecosystem, enables developer-built tour-guide, coach and inspection skills】Qianwen said its open platform is live and now supports mobile app, PC and AI-glasses endpoints. The glasses offering comprises a skills platform plus industry-customization modules; developers can call exposed device capabilities and combine them with scenario-specific requirements to build skills. Creators can use natural-language descriptions to invoke camera, voice-interaction and other glasses functions to produce tour-guide, coaching, inspection and other wearable AI assistants. Qianwen said it will gradually open additional glasses capabilities, including 3D spatial display and motion/health-state sensing, to expand development scope."
+    },
+    {
+      "id": "5034958",
+      "time": "2026-08-11 11:12:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4870.070點；恒生指數現跌0.548%。"
+    },
+    {
+      "id": "5034957",
+      "time": "2026-08-11 11:12:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南Vinspace與SpaceX簽署協議，計劃明年二季度實現衛星發射入軌】越南企業集團Vingroup當地時間8月11日宣佈，旗下成員公司Vinspace與SpaceX簽署衛星發射合同。根據協議，VinSpace的衛星將於明年二季度透過SpaceX的Transporter Rideshare計劃發射入軌。宣告稱，透過該協議，VinSpace將測試自主研發的衛星模組，並逐步提升在衛星系統管理和未來商業應用方面的能力。"
+    },
+    {
+      "id": "5034956",
+      "time": "2026-08-11 11:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問開放AI眼鏡生態 支援自建導遊、教練、巡檢等多種skill】據千問APP官微訊息，千問開放平臺現已上線，同時支援APP、PC和AI眼鏡三端。在眼鏡端，千問提供技能平臺和行業定製兩大模組。在技能平臺上，開發者可以呼叫已開放的眼鏡能力，結合特定場景和人群需求建立Skill。此外，開發者還可以透過自然語言描述需求，呼叫眼鏡拍照、語音互動等能力建立Skill，打造導遊、教練等特定領域的隨身AI助手。此外，千問開放平臺正在陸續開放更多AI眼鏡能力，包括空間3D立體顯示、運動健康狀態感知等，進一步拓展開發空間。"
+    },
+    {
+      "id": "5034955",
+      "time": "2026-08-11 11:11:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家鐵路局就《鐵路旅客車站基坑工程安全監測與評估技術標準（徵求意見稿）》公開徵求意見】國家鐵路局釋出通知稱，根據《鐵路技術標準管理辦法》有關規定，現就行業標準《鐵路旅客車站基坑工程安全監測與評估技術標準（徵求意見稿）》公開徵集意見。"
+    },
     {
       "id": "5034954",
       "time": "2026-08-11 11:09:11",

@@ -1,7 +1,65 @@
 {
-  "updated": "2026-08-11 11:09:43",
-  "count": 15835,
+  "updated": "2026-08-11 11:13:43",
+  "count": 15832,
   "items": [
+    {
+      "id": "mkt:019feece-b863-7aab-8fe5-8676119431b6",
+      "time": "2026-08-11 11:12:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index reversed earlier gains, down more than 1% before midday; Hang Seng trades 0.54% lower."
+    },
+    {
+      "id": "mkt:019feece-9964-7aab-8fe5-792fd6a585e4",
+      "time": "2026-08-11 11:12:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Qianwen opens AI glasses ecosystem, enables developer-built tour-guide, coach and inspection skills】Qianwen said its open platform is live and now supports mobile app, PC and AI-glasses endpoints. The glasses offering comprises a skills platform plus industry-customization modules; developers can call exposed device capabilities and combine them with scenario-specific requirements to build skills. Creators can use natural-language descriptions to invoke camera, voice-interaction and other glasses functions to produce tour-guide, coaching, inspection and other wearable AI assistants. Qianwen said it will gradually open additional glasses capabilities, including 3D spatial display and motion/health-state sensing, to expand development scope."
+    },
+    {
+      "id": "5034958",
+      "time": "2026-08-11 11:12:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4870.070點；恒生指數現跌0.548%。"
+    },
+    {
+      "id": "5034957",
+      "time": "2026-08-11 11:12:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越南Vinspace與SpaceX簽署協議，計劃明年二季度實現衛星發射入軌】越南企業集團Vingroup當地時間8月11日宣佈，旗下成員公司Vinspace與SpaceX簽署衛星發射合同。根據協議，VinSpace的衛星將於明年二季度透過SpaceX的Transporter Rideshare計劃發射入軌。宣告稱，透過該協議，VinSpace將測試自主研發的衛星模組，並逐步提升在衛星系統管理和未來商業應用方面的能力。"
+    },
+    {
+      "id": "5034956",
+      "time": "2026-08-11 11:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【千問開放AI眼鏡生態 支援自建導遊、教練、巡檢等多種skill】據千問APP官微訊息，千問開放平臺現已上線，同時支援APP、PC和AI眼鏡三端。在眼鏡端，千問提供技能平臺和行業定製兩大模組。在技能平臺上，開發者可以呼叫已開放的眼鏡能力，結合特定場景和人群需求建立Skill。此外，開發者還可以透過自然語言描述需求，呼叫眼鏡拍照、語音互動等能力建立Skill，打造導遊、教練等特定領域的隨身AI助手。此外，千問開放平臺正在陸續開放更多AI眼鏡能力，包括空間3D立體顯示、運動健康狀態感知等，進一步拓展開發空間。"
+    },
+    {
+      "id": "5034955",
+      "time": "2026-08-11 11:11:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家鐵路局就《鐵路旅客車站基坑工程安全監測與評估技術標準（徵求意見稿）》公開徵求意見】國家鐵路局釋出通知稱，根據《鐵路技術標準管理辦法》有關規定，現就行業標準《鐵路旅客車站基坑工程安全監測與評估技術標準（徵求意見稿）》公開徵集意見。"
+    },
     {
       "id": "5034954",
       "time": "2026-08-11 11:09:11",
@@ -144051,88 +144109,6 @@
         "國際"
       ],
       "text": "【韓國個股槓桿ETF交易量驟降 監管新規顯效】在韓國監管機構採取措施抑制投機交易後，與該國兩大晶片巨頭掛鉤的槓桿ETF交易量大幅萎縮。韓國規模最大的單一股票槓桿ETF與SK海力士的股價表現掛鉤，其週一成交量降至5900萬份，創下6月4日以來最低水平。與三星電子掛鉤、規模相對較小的同類ETF成交量也降至5月底上市以來的最低水平。這類槓桿ETF產品此前助長了韓國股市劇烈波動。韓國監管機構上月推出降溫措施，包括提高投資者賬戶的最低現金餘額要求，並暫時禁止新的單一股票槓桿ETF上市。這些ETF利用衍生品放大回報，曾引發散戶交易熱潮，令市值達3.7萬億美元的韓國股市成為全球波動最劇烈的市場之一。"
-    },
-    {
-      "id": "5023584",
-      "time": "2026-08-04 11:12:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力租賃概念持續走高 宏景科技等近十股漲停】算力租賃概念盤中持續走高，宏景科技走出20cm3天2板，此前行雲科技、青雲科技、利通電子、潤建股份、佳力圖等多股漲停，協創資料、漢鑫科技、優刻得漲超10%。"
-    },
-    {
-      "id": "5023583",
-      "time": "2026-08-04 11:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯國產MC-21-310客機完成首飛】俄羅斯工業和貿易部3日釋出訊息說，完全實現國產化的MC-21-310客機於當日在伊爾庫茨克飛機製造廠的機場完成首飛。 訊息說，本次飛行持續1小時23分鐘，飛行高度達到6000米，最高時速為600公里，所有預定飛行目標均已完成。"
-    },
-    {
-      "id": "5023582",
-      "time": "2026-08-04 11:11:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "隔夜SHIBOR報1.3660%，下降4.70個基點。7天SHIBOR報1.3880%，下降4.30個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。"
-    },
-    {
-      "id": "5023581",
-      "time": "2026-08-04 11:11:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山東省人大法制委員會原副主任委員唐福泉被\"雙開\"】中央紀委國家監委網站8月4日通報，據山東省紀委監委訊息：經山東省委批准，山東省紀委監委對省人大法制委員會原副主任委員唐福泉嚴重違紀違法問題進行了立案審查調查。經查，唐福泉喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請和旅遊安排；違背組織原則，隱瞞不報個人有關事項，違規為他人謀取人事利益；廉潔底線失守，違規收受禮金、消費卡，違規擁有非上市公司股份；目無法紀，以權謀私，大搞權錢交易，利用職務便利為他人在專案承攬、企業經營等方面謀利，並非法收受鉅額財物。唐福泉嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經山東省紀委常委會會議研究並報山東省委批准，決定給予唐福泉開除黨籍處分；由山東省監委給予其開除公職處分；終止其泰安市第十二次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "5023580",
-      "time": "2026-08-04 11:10:39",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【騰訊音樂、SM娛樂在北京成立合資公司 註冊資本4000萬】天眼查App顯示，近日，愛斯騰（北京）文化傳播有限公司成立，法定代表人為周覓，註冊資本4000萬人民幣，經營範圍包括文化娛樂經紀人服務、版權代理、文藝創作、會議及展覽服務等。股東資訊顯示，該公司由騰訊音樂（北京）有限公司、SM娛樂旗下卡斯夢（上海）文化傳播有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019fcac0-715b-7aab-8f63-3961c07fa4d1",
-      "time": "2026-08-04 11:10:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【UBS: Earnings resilience and gradual Strait of Hormuz recovery should support equities】UBS says markets may be underestimating the persistence of the current earnings cycle, a misread that outweighs geopolitical noise from the Strait of Hormuz. The bank's base call is that energy flows through the strait will recover gradually rather than rebound sharply, and strong earnings growth will continue to underpin equity markets. UBS highlights a robust US Q2 reporting season — breadth and magnitude of beats above historical norms — and flags upside risk to its S&P 500 EPS forecast of 20% growth for the year; resilient consumer spending and improving cyclical forces should help gains broaden beyond mega-cap names. In Europe, companies are delivering the strongest results in over three years and Stoxx 600 earnings estimates are being revised up, reinforcing a recommendation for diversified equity exposure to capture market upside. UBS expects Asian corporate profits to rise 72% this year."
-    },
-    {
-      "id": "mkt:019fcac0-5b84-7aab-8f63-3782895dd973",
-      "time": "2026-08-04 11:10:31",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Indonesia's finance minister said new stimulus measures targeting electric vehicles, including e-bikes, will be introduced in coming weeks."
-    },
-    {
-      "id": "5023579",
-      "time": "2026-08-04 11:10:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破85美元/桶，日內漲1.47%。"
-    },
-    {
-      "id": "5023578",
-      "time": "2026-08-04 11:10:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中韓半導體ETF(513310)成交額超50億元，當前漲幅為3.02%】中韓半導體ETF(513310)成交額超50億元，當前漲幅為3.02%，溢價率為16.07%，成交額50.46億元，近1月份額增加5700.00萬份，該基金支援T+0交易。"
     }
   ]
 }
