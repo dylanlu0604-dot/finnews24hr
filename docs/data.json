@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-11 11:13:43",
-  "count": 15832,
+  "updated": "2026-08-11 11:17:35",
+  "count": 15829,
   "items": [
+    {
+      "id": "5034960",
+      "time": "2026-08-11 11:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：上半年中國出口到“一帶一路”沿線國家新能源汽車113.5萬輛，同比增長59.4%】據中國汽車工業協會整理的海關總署資料顯示，2026年1-6月，中國出口到“一帶一路”沿線國家的汽車商品累計金額達到836.7億美元，同比增長30.8%，佔汽車商品出口總額的57.5%。其中：出口汽車整車338.1萬輛，同比增長48.1%；出口新能源汽車113.5萬輛，同比增長59.4%。"
+    },
+    {
+      "id": "5034959",
+      "time": "2026-08-11 11:15:05",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬於8月12日發行2026年記賬式貼現（五十期）國債 招標面值總額300億元】財政部擬於8月12日發行2026年記賬式貼現（五十期）國債。本期國債為期限91天的貼現債，競爭性招標面值總額300億元，進行甲類成員追加投標。發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。本期國債招標結束至2026年8月13日進行分銷，8月17日起上市交易。"
+    },
     {
       "id": "mkt:019feece-b863-7aab-8fe5-8676119431b6",
       "time": "2026-08-11 11:12:32",
@@ -59,6 +76,15 @@
         "其他"
       ],
       "text": "【國家鐵路局就《鐵路旅客車站基坑工程安全監測與評估技術標準（徵求意見稿）》公開徵求意見】國家鐵路局釋出通知稱，根據《鐵路技術標準管理辦法》有關規定，現就行業標準《鐵路旅客車站基坑工程安全監測與評估技術標準（徵求意見稿）》公開徵集意見。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837697689",
+      "time": "2026-08-11 11:10:33",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【道明證券預計澳洲聯儲維持利率在4.35%不變】道明證券預計澳洲聯儲維持利率在4.35%不變，這一基準情景與市場普遍預期以及隔夜指數掉期定價基本一致，後者顯示今天加息機率接近於零，這意味著利率決議本身對澳元或利率市場帶來的意外風險十分有限。"
     },
     {
       "id": "5034954",
@@ -144056,59 +144082,6 @@
         "Importance 1"
       ],
       "text": "Platinum Stays Near November Lows — Platinum futures traded around $1,650 an ounce, staying near late-November lows as investors weighed easing geopolitical risks in the Middle East against persistent expectations of higher US interest rates. Despite leaving interest rates unchanged last week, markets continued to price in a Fed rate hike later this year following recent hawkish signals from officials, weighing on non-yielding assets such as platinum. However, diplomatic efforts in the US-Iran conflict and discussions over the potential reopening of the Strait of Hormuz provided support across the precious metals complex. At the same time, the long-term supply outlook remained supportive, with the platinum market still expected to post another annual deficit. South African producer Valterra Platinum also reported a sharp rise in interim profit, citing stronger platinum-group metal prices and growing demand from AI-related infrastructure, which it expects to increase significantly over the coming years."
-    },
-    {
-      "id": "5023589",
-      "time": "2026-08-04 11:17:25",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【高盛：下調Meta目標價至725美元，重申“買入”評級】高盛發表報告指，隨著2026年第二季業績公佈，Meta管理層提供了幾個關鍵敘事，包括公司持續進行的AI驅動運算投資，繼續展現健康回報；AI代理很可能是核心業務以外更可見的延伸；在更廣泛的企業AI機遇方面，管理層勾勒了多項機會，涵蓋基礎模型、用於建立/擴充套件營運的工具如一站式商業方案以及運算的直接變現如雲端授權交易，儘管投資者對建立這些業務的投資規模及變現路徑仍可能存有疑問；基礎設施投資在中期內仍維持高位且具針對性，但對更長期資本計劃缺乏可見度或具體框架。由於管理層對市場機遇的定性描述，以及產能供需失衡持續存在，該行將Meta 2027-2028年累計資本開支估計上調約14%。短期內，該行預期投資者可能繼續關注其未來12-18個月的投資速度與規模；圍繞AI運算的未來變現機遇發展；以及公司如何管理一系列自身及外部融資選項以資助這些投資的證據。高盛重申Meta“買入”評級，目標價由815美元下調至725美元。"
-    },
-    {
-      "id": "5023588",
-      "time": "2026-08-04 11:16:12",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本新一輪救匯或耗資870億美元】美國彭博社近日報道稱，為了支撐日元匯率，在最新一輪的外匯干預行動中，日本央行可能已經動用了大約870億美元、相當於11萬億日元的資金。市場分析人士指出，在今年4月至5月的那波匯市干預中，日元匯率也一度從160兌1美元快速升至155兌1美元區間。但由於日本貨幣的結構性弱勢，包括日美利差、油價上漲和美聯儲加息預期，那一輪砸下700多億美元的效果僅維持了一個多月。考慮到這些打壓日元的因素依然存在，即便這次美國罕見地出手聯合干預日元，日元漲勢能維持多久依然不確定。 （CCTV國際時訊）"
-    },
-    {
-      "id": "5023587",
-      "time": "2026-08-04 11:15:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國7月精煉銅進口量超20萬噸 創單月曆史最高流入紀錄】精煉銅正以至少12年來的最快速度瘋狂湧入美國，因全球貿易商正趕在美國總統特朗普就精煉銅進口關稅作出決定之前提前佈局。根據IHS Markit可追溯至2014年的海運資料，今年7月有超過20萬噸的銅抵達美國，重新整理了有記錄以來的單月最高流入紀錄。這一波進口狂潮將進一步推高過去一年中建立起來的龐大美國銅庫存。分析人士指出，白宮若最終決定徵收關稅，很可能在關稅生效前引發最後一波出貨熱潮；而若放棄該提議，隨著交易商平倉過去18個月積累的頭寸，貿易流向可能會逆轉。"
-    },
-    {
-      "id": "mkt:019fcac4-5b44-7aab-8f63-40a980ee9872",
-      "time": "2026-08-04 11:14:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【2–3 typhoons could make landfall or affect China in August】At an Aug. 4 briefing the China Meteorological Administration said 6–7 typhoons are expected to form in the northwest Pacific and South China Sea in August, above the 5.6 seasonal average; 2–3 are likely to make landfall or noticeably affect China, close to the 2.3 average. Overall intensity is expected to be stronger than normal, with a risk of strong typhoons tracking north and impacting northern China."
-    },
-    {
-      "id": "5023586",
-      "time": "2026-08-04 11:14:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "中際旭創A股成交額超300億元，現漲9.21%。"
-    },
-    {
-      "id": "5023585",
-      "time": "2026-08-04 11:13:54",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國個股槓桿ETF交易量驟降 監管新規顯效】在韓國監管機構採取措施抑制投機交易後，與該國兩大晶片巨頭掛鉤的槓桿ETF交易量大幅萎縮。韓國規模最大的單一股票槓桿ETF與SK海力士的股價表現掛鉤，其週一成交量降至5900萬份，創下6月4日以來最低水平。與三星電子掛鉤、規模相對較小的同類ETF成交量也降至5月底上市以來的最低水平。這類槓桿ETF產品此前助長了韓國股市劇烈波動。韓國監管機構上月推出降溫措施，包括提高投資者賬戶的最低現金餘額要求，並暫時禁止新的單一股票槓桿ETF上市。這些ETF利用衍生品放大回報，曾引發散戶交易熱潮，令市值達3.7萬億美元的韓國股市成為全球波動最劇烈的市場之一。"
     }
   ]
 }
