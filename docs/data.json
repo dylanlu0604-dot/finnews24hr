@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-12 03:54:29",
-  "count": 15648,
+  "updated": "2026-08-12 03:58:19",
+  "count": 15650,
   "items": [
+    {
+      "id": "mkt:019ff266-1291-7aab-8ffa-187ec3016c7a",
+      "time": "2026-08-12 03:56:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Colombia's Congressional Economic Committee voted to send the 2027 budget proposal back to the incoming government for revisions."
+    },
+    {
+      "id": "mkt:019ff266-0651-7aab-8ffa-14363483b879",
+      "time": "2026-08-12 03:56:40",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Oracle (ORCL.N): Under the partnership agreement, Oracle Cloud Infrastructure customers will have direct access to Quantinum's Helios platform."
+    },
+    {
+      "id": "mkt:019ff264-e9c4-7aab-8ffa-0d4d1be7e886",
+      "time": "2026-08-12 03:55:27",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bullish"
+      ],
+      "text": "Quantum computing firm Quantinum has partnered with Oracle (ORCL.N) to accelerate adoption of hybrid quantum computing on Oracle Cloud Infrastructure."
+    },
+    {
+      "id": "5036362",
+      "time": "2026-08-12 03:55:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞國會經濟委員會投票決定，將 2027 年預算草案退回新一屆政府進行調整。"
+    },
+    {
+      "id": "5036361",
+      "time": "2026-08-12 03:54:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "甲骨文公司：根據本次合作協議，OCI 客戶將可直接訪問 Quantinuum 的 Helios。"
+    },
     {
       "id": "5036360",
       "time": "2026-08-12 03:53:55",
@@ -142539,30 +142583,6 @@
         "公司"
       ],
       "text": "谷歌：Gemini課堂版K‑12及以上版本將於8月10日開始推出。"
-    },
-    {
-      "id": "5025263",
-      "time": "2026-08-05 03:57:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國民警衛隊在華盛頓特區部署延至2029年1月】美國國防部表示，國民警衛隊在華盛頓特區的部署延長至2029年1月，預計將在2027至2029財年耗資約14億美元。"
-    },
-    {
-      "id": "5025262",
-      "time": "2026-08-05 03:55:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理稱哈馬斯徹底解除武裝前不會從加沙撤軍】以色列總理內塔尼亞胡表示，其明確拒絕了美方提出的加沙解除武裝路線圖草案，並強調在巴勒斯坦伊斯蘭抵抗運動（哈馬斯）徹底解除武裝之前，以色列軍隊不會撤出當前防線。他表示，其正指示以軍士兵採取一切必要措施，以保護自身以及以色列的安全。"
-    },
-    {
-      "id": "5025261",
-      "time": "2026-08-05 03:54:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧與巴拉圭簽署一份重要核問題備忘錄。"
     }
   ]
 }
