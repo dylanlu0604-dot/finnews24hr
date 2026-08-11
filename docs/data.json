@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-12 01:26:57",
+  "updated": "2026-08-12 01:30:51",
   "count": 15624,
   "items": [
+    {
+      "id": "mkt:019ff1dd-e465-7aab-8ff8-69099a8914a5",
+      "time": "2026-08-12 01:27:58",
+      "tags": [
+        "MKT News",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) to add video-on-demand service to Google TV Freeplay."
+    },
+    {
+      "id": "5036298",
+      "time": "2026-08-12 01:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "委內瑞拉政府表示已與以色列達成協議，將設立協調機制以提供領事服務。"
+    },
+    {
+      "id": "5036297",
+      "time": "2026-08-12 01:27:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：將影片點播引入谷歌電視免費播放平臺。"
+    },
     {
       "id": "5036296",
       "time": "2026-08-12 01:25:53",
@@ -142290,35 +142315,6 @@
         "國際"
       ],
       "text": "白宮：CLAYTON宣誓就任美國國家情報總監。"
-    },
-    {
-      "id": "mkt:019fcdd2-9561-7aab-8f75-51e0727bf471",
-      "time": "2026-08-05 01:29:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran says \"positive progress\" in talks with Oman on Strait of Hormuz】IRNA reported on the 4th that Iranian foreign ministry spokesman Baghaei said Iran is negotiating with Oman on the Strait of Hormuz and has made \"positive progress\" at technical and political levels. Talks are focused on defining safe navigation routes; Iran and Oman are jointly developing the \"necessary mechanisms\" to manage shipping through the strait, with final outcomes to be announced after negotiations conclude."
-    },
-    {
-      "id": "5025205",
-      "time": "2026-08-05 01:28:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：與阿曼就霍爾木茲海峽談判取得“積極進展” 】伊朗外交部發言人巴加埃4日說，伊朗仍在與阿曼就霍爾木茲海峽進行談判，談判在技術和政治層面取得“積極進展”。據伊朗伊斯蘭共和國通訊社報道，巴加埃說，此次談判重點是確定船舶可安全行駛的航道。伊朗正與阿曼合作制定管理該海峽航運的“必要機制”，雙方談判全部結束後將向外界公佈最終結果。（新華社）"
-    },
-    {
-      "id": "mkt:019fcdd0-f8bc-7aab-8f75-4f91a69a774c",
-      "time": "2026-08-05 01:27:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "Fitch Ratings says new U.S. student-visa rules will put pressure on some universities."
     }
   ]
 }
