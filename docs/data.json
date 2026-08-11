@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-11 22:59:00",
-  "count": 15579,
+  "updated": "2026-08-11 23:04:16",
+  "count": 15574,
   "items": [
+    {
+      "id": "5036178",
+      "time": "2026-08-11 23:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達推出Nemotron 3.5 Lightning 瞄準智慧體AI提速】英偉達將擴充套件Nemotron 3模型系列，推出Nemotron 3.5 Lightning。與同類其他模型相比，該模型的輸出速度最高可提升4倍，智慧體任務完成速度可提升30%。英偉達將Nemotron 3.5 Lightning稱為“同類模型中針對長時間執行的智慧體AI工作負載效率最高的模型”。Nemotron 3.5 Lightning是一款擁有300億引數的混合專家模型，可幫助開發更智慧、更高效的智慧體應用。Nemotron 3.5 Lightning現已作為英偉達NIM微服務在Hugging Face、ModelScope、OpenRouter以及build.nvidia.com上線。"
+    },
+    {
+      "id": "mkt:019ff157-eead-7aab-8ff5-4c4413e4cea3",
+      "time": "2026-08-11 23:01:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CME.O",
+        "Impact bullish"
+      ],
+      "text": "CME Group and Silicon Data will launch computing-power futures on Oct. 5."
+    },
+    {
+      "id": "mkt:019ff157-3ae3-7aab-8ff5-4092f5140dc7",
+      "time": "2026-08-11 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of the 23:00 close in China, main futures contracts were mixed. Fuel oil jumped more than 2%; coking coal, coke and low-sulfur fuel oil (LU) rose over 1%; asphalt and caustic soda gained about 1%; PET chips fell more than 1% and pulp slid nearly 1%."
+    },
+    {
+      "id": "5036177",
+      "time": "2026-08-11 23:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部針對北京天津啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，據預報，8月11日夜間至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津薊運河將出現漲水過程，暴雨區內山洪災害和中小河流洪水風險高。水利部於8月11日22時30分針對北京、天津市啟動洪水防禦Ⅳ級應急響應，並派出2個工作組赴北京、天津市暴雨洪水防禦一線協助指導。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff156-c8d3-7aab-8ff5-38a0f19dbfa9",
+      "time": "2026-08-11 23:00:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: Iran's bargaining chip in Strait of Hormuz 'depreciating'】International Policy Research Center vice chairman Rashid Muhannadi said talks to resolve the Strait of Hormuz crisis are advancing despite public US‑Iran hardline rhetoric. He said Iran views control of the strait as a national security concern and is using it as a bargaining chip, but called that chip a 'depreciating asset.' Muhannadi added actions that impede freedom of navigation remain widely opposed, and parties appear willing to explore a mutually acceptable regional mechanism to manage transit through the strait."
+    },
+    {
+      "id": "te:markets:574476",
+      "time": "2026-08-11 23:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 0.59% — Top currency loser is Brazilian Real (-0.59%). Gains are led by South Korean Won (0.42%). Meanwhile, Japanese Yen and Euro were little changed."
+    },
+    {
+      "id": "5036176",
+      "time": "2026-08-11 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦煤連續漲2.04%，低硫燃料油連續漲1.22%，焦炭連續漲1.01%，紙漿連續跌0.78%，純鹼連續漲0.71%。"
+    },
+    {
+      "id": "5036175",
+      "time": "2026-08-11 22:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "法律商業新聞網：美國法院支援對獲假釋移民實施快速驅逐程式。"
+    },
+    {
+      "id": "mkt:019ff155-492c-7aab-8ff5-303d8e24682e",
+      "time": "2026-08-11 22:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. court backs expedited removal of immigrants granted parole."
+    },
+    {
+      "id": "mkt:019ff154-5e65-7aab-8ff5-29c8571b339c",
+      "time": "2026-08-11 22:57:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation president said the Zawiya refinery has resumed operations."
+    },
     {
       "id": "5036174",
       "time": "2026-08-11 22:57:24",
@@ -141701,160 +141799,6 @@
         "MKT News"
       ],
       "text": "Nomination of Bulanqi to be U.S. attorney general advanced by a Senate panel."
-    },
-    {
-      "id": "5025111",
-      "time": "2026-08-04 23:04:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "參議院司法委員會投票批准託德・布蘭奇出任美國司法部長。"
-    },
-    {
-      "id": "te:markets:572640",
-      "time": "2026-08-04 23:03:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Spain",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "Inditex Stock Price Hits 12-year High — Inditex shares increased to 58.32 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 4.11%, and in the last 12 months, it increased 41.18%."
-    },
-    {
-      "id": "mkt:019fcd4c-d717-7aab-8f72-f2d3fb989b93",
-      "time": "2026-08-04 23:03:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey central bank governor KARAHAN said DISINFLATION will continue to weigh on rents; domestic demand is slowing."
-    },
-    {
-      "id": "5025110",
-      "time": "2026-08-04 23:03:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行行長指出國內需求出現放緩。"
-    },
-    {
-      "id": "mkt:019fcd4c-a2c0-7aab-8f72-ef0616138890",
-      "time": "2026-08-04 23:02:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "【July rout in China quant private funds; Magic Square multiple products turn YTD negative】July brought sharp losses across China’s quantitative private fund sector. Private fund tracker Simu Paipai shows large, broad drawdowns at several quant managers in July; some funds flipped from YTD gains to losses and single-month drops exceeded 20%. As of July 31, 2026, of nine Magic Square Quant flagship products, only Jiuzhang–Magic Square CSI 500 Quant Multi-Strategy No.2 retained a marginal YTD gain of 0.04%; the other eight are YTD negative. Magic Square Quant Xinhuai 500 Index Special No.19 is down 3.84% year-to-date. All nine Magic Square products fell more than 20% in July; the largest monthly decline was Magic Square CSI 500 Quant Aggressive No.1, down 22.15% in July."
-    },
-    {
-      "id": "mkt:019fcd4c-3056-7aab-8f72-e02699da4659",
-      "time": "2026-08-04 23:02:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "DDN is partnering with NVIDIA (NVDA.O) to advance GPU-driven data access technology."
-    },
-    {
-      "id": "te:economy:572638",
-      "time": "2026-08-04 23:01:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "UK Gilt Yield Falls as Oil Prices Slide — UK 10-year gilt yields fell toward 4.9%, touching their lowest level since July 10 as oil prices tumbled on optimism that the US and Iran could reach a deal to end the conflict and reopen the Strait of Hormuz. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said an agreement could be be reached as early as Tuesday or Wednesday. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to further reduce bets on interest rate hikes in 2026. The BoE voted 6-3 to keep rates unchanged, while Governor Andrew Bailey downplayed the prospect of further tightening, saying the disinflation process remains on track."
-    },
-    {
-      "id": "5025109",
-      "time": "2026-08-04 23:01:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "DDN 與英偉達展開合作，推進面向下一代人工智慧的 GPU 直啟資料訪問技術。"
-    },
-    {
-      "id": "mkt:019fcd4a-e066-7aab-8f72-dc54ff5c313e",
-      "time": "2026-08-04 23:01:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot palladium jumped 6.00% intraday to $1,340.17/oz."
-    },
-    {
-      "id": "mkt:019fcd4a-b2fb-7aab-8f72-d2b67895089b",
-      "time": "2026-08-04 23:00:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "By the 23:00 close, China’s front-month futures were mostly lower: monoethylene glycol (EG) fell more than 5%, bottle-grade PET chips and propylene dropped over 3%, LPG and low-sulfur fuel oil (LU) slipped nearly 3%, and benzene, polypropylene and fuel oil were down more than 2%. Coking coal was the exception, rising just over 1%."
-    },
-    {
-      "id": "te:markets:572637",
-      "time": "2026-08-04 23:00:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Australian Dollar Appreciates by 0.55% — Top currency gainers are Australian Dollar (0.55%), Polish Zloty (0.42%), Mexican Peso (0.38%), Euro (0.13%) and British Pound (0.10%). Biggest loser is Japanese Yen (-0.25%). Meanwhile Dollar Index was little changed."
-    },
-    {
-      "id": "5025108",
-      "time": "2026-08-04 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】乙二醇連續跌5.28%，液化石油氣連續跌2.87%，低硫燃料油連續跌2.76%，聚丙烯連續跌2.58%，燃料油連續跌2.43%。"
-    },
-    {
-      "id": "5025107",
-      "time": "2026-08-04 22:59:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【追涼航線訂單暴漲500%】2026年民航暑運已過半程，今年暑運市場呈現“啟動偏晚、後期旺盛”的特徵。近期全國多地持續高溫，不少旅客紛紛調整出行計劃，將目光投向了自帶天然“空調”屬性的目的地。資料顯示，七月以來“避暑納涼”“夜遊”相關關鍵詞的搜尋量環比增長238%。 記者查詢發現，截至目前，今年暑期機票預訂量增幅最高的20條航線中，有近半數屬於“追涼航線”。其中，蕪湖至貴陽增長5倍。此外，鄭州至芒市、廣州至延吉的航線增幅均超3倍，惠州至太原航線機票預訂量增長2.4倍。(央視財經）"
-    },
-    {
-      "id": "te:markets:572634",
-      "time": "2026-08-04 22:59:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Pound Holds Above $1.34 as Geopolitical Tensions Ease — The British pound held above $1.34 as improving risk sentiment supported demand for riskier assets amid signs of easing tensions between the US and Iran. Qatar said mediators were making progress in negotiations, while US Treasury Secretary Scott Bessent said a deal to reopen the Strait of Hormuz could be be reached as early as Tuesday or Wednesday. Meanwhile, last week's Bank of England meeting reinforced expectations that policymakers are in no rush to tighten monetary policy, prompting markets to pare bets on interest rate hikes in 2026. The BoE voted 6-3 to keep rates unchanged, with three members backing a hike versus expectations for a 7-2 split. However, Governor Andrew Bailey played down the prospect of imminent tightening, saying the disinflation process remains on track, while some policymakers suggested rate cuts could return to the agenda if Middle East tensions continue to ease."
-    },
-    {
-      "id": "5025106",
-      "time": "2026-08-04 22:59:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：古巴是 “間諜超級大國”，資助美國境內極左翼騷亂。"
     }
   ]
 }

@@ -1,7 +1,105 @@
 {
   "date": "2026-08-11",
-  "count": 2642,
+  "count": 2652,
   "items": [
+    {
+      "id": "5036178",
+      "time": "2026-08-11 23:01:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達推出Nemotron 3.5 Lightning 瞄準智慧體AI提速】英偉達將擴充套件Nemotron 3模型系列，推出Nemotron 3.5 Lightning。與同類其他模型相比，該模型的輸出速度最高可提升4倍，智慧體任務完成速度可提升30%。英偉達將Nemotron 3.5 Lightning稱為“同類模型中針對長時間執行的智慧體AI工作負載效率最高的模型”。Nemotron 3.5 Lightning是一款擁有300億引數的混合專家模型，可幫助開發更智慧、更高效的智慧體應用。Nemotron 3.5 Lightning現已作為英偉達NIM微服務在Hugging Face、ModelScope、OpenRouter以及build.nvidia.com上線。"
+    },
+    {
+      "id": "mkt:019ff157-eead-7aab-8ff5-4c4413e4cea3",
+      "time": "2026-08-11 23:01:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CME.O",
+        "Impact bullish"
+      ],
+      "text": "CME Group and Silicon Data will launch computing-power futures on Oct. 5."
+    },
+    {
+      "id": "mkt:019ff157-3ae3-7aab-8ff5-4092f5140dc7",
+      "time": "2026-08-11 23:00:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "As of the 23:00 close in China, main futures contracts were mixed. Fuel oil jumped more than 2%; coking coal, coke and low-sulfur fuel oil (LU) rose over 1%; asphalt and caustic soda gained about 1%; PET chips fell more than 1% and pulp slid nearly 1%."
+    },
+    {
+      "id": "mkt:019ff156-c8d3-7aab-8ff5-38a0f19dbfa9",
+      "time": "2026-08-11 23:00:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: Iran's bargaining chip in Strait of Hormuz 'depreciating'】International Policy Research Center vice chairman Rashid Muhannadi said talks to resolve the Strait of Hormuz crisis are advancing despite public US‑Iran hardline rhetoric. He said Iran views control of the strait as a national security concern and is using it as a bargaining chip, but called that chip a 'depreciating asset.' Muhannadi added actions that impede freedom of navigation remain widely opposed, and parties appear willing to explore a mutually acceptable regional mechanism to manage transit through the strait."
+    },
+    {
+      "id": "5036177",
+      "time": "2026-08-11 23:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部針對北京天津啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，據預報，8月11日夜間至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津薊運河將出現漲水過程，暴雨區內山洪災害和中小河流洪水風險高。水利部於8月11日22時30分針對北京、天津市啟動洪水防禦Ⅳ級應急響應，並派出2個工作組赴北京、天津市暴雨洪水防禦一線協助指導。（央視新聞）"
+    },
+    {
+      "id": "te:markets:574476",
+      "time": "2026-08-11 23:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 0.59% — Top currency loser is Brazilian Real (-0.59%). Gains are led by South Korean Won (0.42%). Meanwhile, Japanese Yen and Euro were little changed."
+    },
+    {
+      "id": "5036176",
+      "time": "2026-08-11 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】焦煤連續漲2.04%，低硫燃料油連續漲1.22%，焦炭連續漲1.01%，紙漿連續跌0.78%，純鹼連續漲0.71%。"
+    },
+    {
+      "id": "5036175",
+      "time": "2026-08-11 22:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "法律商業新聞網：美國法院支援對獲假釋移民實施快速驅逐程式。"
+    },
+    {
+      "id": "mkt:019ff155-492c-7aab-8ff5-303d8e24682e",
+      "time": "2026-08-11 22:58:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. court backs expedited removal of immigrants granted parole."
+    },
+    {
+      "id": "mkt:019ff154-5e65-7aab-8ff5-29c8571b339c",
+      "time": "2026-08-11 22:57:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation president said the Zawiya refinery has resumed operations."
+    },
     {
       "id": "5036174",
       "time": "2026-08-11 22:57:24",
