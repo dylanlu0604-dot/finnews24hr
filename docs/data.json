@@ -1,7 +1,70 @@
 {
-  "updated": "2026-08-11 21:18:43",
-  "count": 15631,
+  "updated": "2026-08-11 21:23:12",
+  "count": 15622,
   "items": [
+    {
+      "id": "mkt:019ff0fb-ea55-7aab-8ff3-2dd6cae291e8",
+      "time": "2026-08-11 21:21:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former Supreme Court president elected Hungary's president】Hungary's parliament on the 11th voted to elect former Supreme Court president András Baka as president."
+    },
+    {
+      "id": "5036035",
+      "time": "2026-08-11 21:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭剛剛為一座金銻礦開闢快速審批通道，為首個鑽探專案掃清了障礙。"
+    },
+    {
+      "id": "5036034",
+      "time": "2026-08-11 21:19:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼： Disney+與ESPN宣佈自2026/27賽季起達成多年全球電動方程式錦標賽流媒體轉播協議。"
+    },
+    {
+      "id": "5036033",
+      "time": "2026-08-11 21:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利國會11日經過投票表決，選舉前最高法院院長鮑卡·安德拉什為新任總統。（新華社）"
+    },
+    {
+      "id": "5036032",
+      "time": "2026-08-11 21:19:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Venture Global執行長邁克·薩貝爾表示，由於天然氣庫存水平較低，歐洲正面臨越來越大的風險。"
+    },
+    {
+      "id": "5036031",
+      "time": "2026-08-11 21:18:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國王對沙特、土耳其、巴基斯坦三方簽署的麥加聯合防務協議予以讚揚，稱該協議搭建起長期防務夥伴關係，以及深化合作與協同的框架。"
+    },
+    {
+      "id": "mkt:019ff0f8-b93e-7aab-8ff3-21b39740b0c3",
+      "time": "2026-08-11 21:17:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude slipped below $86/bbl, down 1.32% on the day. WTI crude fell 1.00% to $80.59/bbl."
+    },
     {
       "id": "5036030",
       "time": "2026-08-11 21:17:16",
@@ -142259,142 +142322,6 @@
         "Brent"
       ],
       "text": "Al Arabiya TV reports arrangements for a full reopening of the Strait of Hormuz will be announced within hours or by tomorrow."
-    },
-    {
-      "id": "5024921",
-      "time": "2026-08-04 21:22:55",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "一位高層訊息人士向阿拉伯電視臺透露，霍爾木茲海峽即將釋出重新開放的相關公告。"
-    },
-    {
-      "id": "te:markets:572577",
-      "time": "2026-08-04 21:22:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index at 3-Week High — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, adavanced for a fourth straight session on Tuesday, rising about 3.3% to a three-week high of 2,936 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, surged by 4.7% to its highest level since June 5 at 4,778 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, rose 2.4% to a peak since July 20 at 2,187 points. Among smaller vessels, the supramax index went up by 0.2% to 1,613 points."
-    },
-    {
-      "id": "5024920",
-      "time": "2026-08-04 21:22:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上元智慧與海光資訊簽署戰略合作協議】據海光資訊訊息，7月30日，河北上元智慧科技股份有限公司（簡稱“上元智慧”）與海光資訊在石家莊簽署戰略合作協議，雙方將圍繞智慧交通賽道共建軟硬體一體化解決方案，加速交通行業國產化、智慧化落地。"
-    },
-    {
-      "id": "5024919",
-      "time": "2026-08-04 21:22:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：普京已簽署一項監管數字貨幣與數字權利的法律。"
-    },
-    {
-      "id": "5024918",
-      "time": "2026-08-04 21:21:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通宇通訊擬3億元收購深圳佳賢通訊約25%股權，切入AI-RAN等通訊裝置業務】8月4日晚，通宇通訊公告稱，公司擬以自有資金3億元，透過股份受讓方式購買深圳市佳賢通訊科技股份有限公司約25%的股權，對應1815.27萬股。交易將分兩個階段實施。交易全部完成，佳賢通訊將不納入通宇通訊合併報表範圍。通宇通訊稱，本次投資旨在強化公司在通訊領域的產業協同，實現資源整合與優勢互補。佳賢通訊成立於2011年，總部位於深圳，主要從事無線通訊裝置的研發、生產、銷售與服務，產品覆蓋AI-RAN基站、衛星載荷通訊、擴充套件型基站、一體化小基站、通感一體站、光纖直放站及FTTR等領域。"
-    },
-    {
-      "id": "5024917",
-      "time": "2026-08-04 21:21:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家電網：積極應對高溫大負荷考驗，保障電力平穩有序供應】據國家電網訊息，近期多地持續釋出高溫預警，暑熱天氣帶動用電負荷快速增長。8月3日至4日，國家電網公司經營區華北、華東、東北3個區域電網，河北南網、天津、山東、安徽、遼寧5個省級電網負荷創新高。公司堅決扛牢電力保供首要責任，全網“一盤棋”統籌部署、周密組織，最佳化電網執行方式，加強源網荷儲協同，深挖跨區跨省通道潛力，積極應對高溫大負荷考驗，保障電力平穩有序供應。"
-    },
-    {
-      "id": "5024916",
-      "time": "2026-08-04 21:21:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【HappyRobot獲1.5億美元C輪融資】8月4日，美國物流AI解決方案提供商HappyRobot宣佈，已獲得由Prysm Capital領投、Eurazeo共同領投的1.5億美元C輪融資。現有投資者a16z、Base10和Y Combinator繼續加碼，同時Koch Disruptive Technologies（KDT）、Orange、T.Capital（德國電信）、Bankinter、Endeavor Catalyst、Kfund和Wave-X等戰略投資者也參與了本輪融資。本輪融資後，公司估值達12億美元，累計融資總額約為2億美元。"
-    },
-    {
-      "id": "5024915",
-      "time": "2026-08-04 21:20:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車7月美國F系列皮卡銷量為68755輛，同比下降6.5% 。"
-    },
-    {
-      "id": "5024914",
-      "time": "2026-08-04 21:20:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車7月美國混合動力汽車銷量為14086輛，同比下降25.1%。"
-    },
-    {
-      "id": "5024913",
-      "time": "2026-08-04 21:20:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車7月美國電動汽車銷量2,065輛，下降74.9%。"
-    },
-    {
-      "id": "5024912",
-      "time": "2026-08-04 21:19:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "孟買證券交易所擬斥資 5.05 億印度盧比，將 IIBH 持股比例提升至 20%。"
-    },
-    {
-      "id": "mkt:019fccee-0d7e-7aab-8f71-1c60d13b8b3a",
-      "time": "2026-08-04 21:19:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Canva completes integrations with Chinese AI agents Kimi, WorkBuddy, QoderWorkCN】Canva has officially launched MCP (Model Context Protocol) capability in the China market and completed initial ecosystem integrations with local AI agents Kimi, WorkBuddy and QoderWorkCN. Canva China general manager Wang Kexin said AI is making content generation easier, but creation goes beyond generation — users need the ability to edit, collaborate and refine outputs into usable work."
-    },
-    {
-      "id": "5024911",
-      "time": "2026-08-04 21:19:28",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度孟買證券交易所有限公司（BSE LTD）第二季度（截至6月）合併運營收入為156.6億盧比。"
-    },
-    {
-      "id": "5024910",
-      "time": "2026-08-04 21:19:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Linux基金會發布《共享AI發現交換指南》徵求意見稿】據英偉達部落格，隨著年度黑帽安全大會今日在拉斯維加斯開幕，開放安全AI聯盟（Open Secure AI Alliance）的成員正在制定新的指導原則，以加強智慧體AI的網路安全防護。目前，該聯盟成員規模已超過120家機構。Linux基金會今日釋出了《共享AI發現交換指南》（SAFE）的徵求意見稿。這是一套擬議中的指導原則，旨在將智慧體AI領域發生的網路安全事件轉化為整個生態系統共享的防護能力。SAFE指南由開放安全AI聯盟工作組負責起草。包括英偉達、思科系統 、CrowdStrike、Hugging Face以及Red Hat在內的聯盟成員，正在與Linux基金會合作，為初始提案提供支援。SAFE指南包含多項建議措施，包括：以保密方式收集和分析AI安全事件以及“未遂事件”；通知受到影響的相關方；識別反覆出現的安全控制失效問題；釋出基於證據的運營建議，以降低整個系統的風險。"
-    },
-    {
-      "id": "5024909",
-      "time": "2026-08-04 21:18:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車7月美國卡車銷量為107,087輛，同比下降2.2%。"
-    },
-    {
-      "id": "5024908",
-      "time": "2026-08-04 21:18:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "福特汽車7月美國SUV銷量為59458輛，同比下降21.3%。"
     }
   ]
 }

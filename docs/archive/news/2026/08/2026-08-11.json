@@ -1,7 +1,70 @@
 {
   "date": "2026-08-11",
-  "count": 2413,
+  "count": 2420,
   "items": [
+    {
+      "id": "mkt:019ff0fb-ea55-7aab-8ff3-2dd6cae291e8",
+      "time": "2026-08-11 21:21:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Former Supreme Court president elected Hungary's president】Hungary's parliament on the 11th voted to elect former Supreme Court president András Baka as president."
+    },
+    {
+      "id": "5036035",
+      "time": "2026-08-11 21:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭剛剛為一座金銻礦開闢快速審批通道，為首個鑽探專案掃清了障礙。"
+    },
+    {
+      "id": "5036034",
+      "time": "2026-08-11 21:19:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "迪士尼： Disney+與ESPN宣佈自2026/27賽季起達成多年全球電動方程式錦標賽流媒體轉播協議。"
+    },
+    {
+      "id": "5036033",
+      "time": "2026-08-11 21:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利國會11日經過投票表決，選舉前最高法院院長鮑卡·安德拉什為新任總統。（新華社）"
+    },
+    {
+      "id": "5036032",
+      "time": "2026-08-11 21:19:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "Venture Global執行長邁克·薩貝爾表示，由於天然氣庫存水平較低，歐洲正面臨越來越大的風險。"
+    },
+    {
+      "id": "5036031",
+      "time": "2026-08-11 21:18:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國王對沙特、土耳其、巴基斯坦三方簽署的麥加聯合防務協議予以讚揚，稱該協議搭建起長期防務夥伴關係，以及深化合作與協同的框架。"
+    },
+    {
+      "id": "mkt:019ff0f8-b93e-7aab-8ff3-21b39740b0c3",
+      "time": "2026-08-11 21:17:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude slipped below $86/bbl, down 1.32% on the day. WTI crude fell 1.00% to $80.59/bbl."
+    },
     {
       "id": "5036030",
       "time": "2026-08-11 21:17:16",
