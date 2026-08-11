@@ -1,7 +1,109 @@
 {
   "date": "2026-08-11",
-  "count": 851,
+  "count": 862,
   "items": [
+    {
+      "id": "5034972",
+      "time": "2026-08-11 11:31:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026年7月智利碳酸鋰出口數量為2.34萬噸 硫酸鋰出口數量為0.77萬噸】據智利海關出口資料顯示，2026年7月份智利碳酸鋰總出口2.34萬噸，環比增加8.31%，同比增加11.63%。其中出口到中國15051噸，環比減少0.29%，同比增加10.4%；出口到韓國4023噸，環比增加6.92%，同比減少34.18%；出口到日本1589噸，環比增加1.29%，同比增加158.1%。2026年7月份智利硫酸鋰總出口0.77萬噸出口至中國，環比減少48.38%，同比減少25.75%。（SMM）"
+    },
+    {
+      "id": "5034971",
+      "time": "2026-08-11 11:31:32",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【午評：創業板指高開高走漲1.41%，MLCC概念、影視院線、醫藥商業板塊漲幅居前】三大指數早盤漲跌不一，截至午盤，上證指數跌0.05%，深證成指漲0.65%，創業板指漲1.41%，北證50跌0.1%，科創50指數漲0.16%。全市場成交額15286億元，較上日縮量2166億元，全市場超3100只個股下跌。板塊題材上，MLCC概念、醫藥商業、影視院線、CRO概念、生物製品板塊漲幅居前；兵裝重組概念、軍工裝備、小金屬、貴金屬、白酒板塊跌幅居前。盤面上，MLCC概念板塊持續走高，達利凱普、雙星新材、風華高科等股漲停，昀冢科技、裕興股份、國瓷材料漲幅居前。影視院線板塊區域性強勢，華智數媒、北京文化、文投控股漲停，儒意電影、上海電影、橫店影視漲幅居前。創新藥板塊表現活躍，萬邦醫藥、百花醫藥、甘李藥業等股漲停，振東醫藥、哈藥股份、百普賽斯漲幅居前。軍工裝備板塊表現低迷，捷強裝備、航天環宇、中國衛星、電科藍天跌幅居前。白酒板塊震盪走低，古井貢酒、金種子酒、天佑德酒跌幅居前。"
+    },
+    {
+      "id": "mkt:019feedf-f7e8-7aab-8fe5-be0335b3d301",
+      "time": "2026-08-11 11:31:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures morning-session close】China's 2-year government bond futures (TS) most-active contract fell 0.01% at the morning close; 5-year (TF) down 0.02%, 10-year (T) down 0.02%, 30-year (TL) down 0.04%."
+    },
+    {
+      "id": "mkt:019feedf-e009-7aab-8fe5-b71b8939a1d5",
+      "time": "2026-08-11 11:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CSI500",
+        "CSI1000"
+      ],
+      "text": "【Equity index futures morning session close】China equity index futures most-active contracts at the morning close: CSI 300 (IF) +0.28%, SSE 50 (IH) -0.10%, CSI 500 (IC) +0.69%, CSI 1000 (IM) +0.77%."
+    },
+    {
+      "id": "mkt:019feedf-b3cc-7aab-8fe5-ad0957012932",
+      "time": "2026-08-11 11:31:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "At the morning close, China’s front-month futures were mixed. Low-sulfur fuel oil (LU), fuel oil and Shanghai crude (SC) rose more than 4%; soda ash and Shanghai silver gained over 3%; coking coal, propylene, methanol and the monthly average price of polypropylene climbed over 2%. On the downside, Europe-route container freight slid more than 6%; eggs fell over 2%; red dates and pulp declined a little more than 1%."
+    },
+    {
+      "id": "mkt:019feede-e785-7aab-8fe5-a2ceefa12290",
+      "time": "2026-08-11 11:30:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New Indonesian central bank governor faces test balancing growth and independence】Destry Damayanti, named acting governor two weeks ago, has been nominated by President Prabowo as the sole candidate to lead Indonesia’s central bank. The nomination seeks to balance pro-market technocrats with officials pushing a faster growth agenda. Markets will watch whether she can preserve central bank independence while delivering the president’s growth objectives. Economists and analysts view the appointment positively, expecting policy continuity with an early emphasis on stabilizing the rupiah. Her close ties with the finance minister imply tighter government-central bank coordination and a potentially more dovish policy stance. CITIGROUP economist Hermy Alman said communication between the central bank and government is likely to improve, but broader institutional credibility risks remain."
+    },
+    {
+      "id": "5034970",
+      "time": "2026-08-11 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】集運指數歐線期貨連續跌6.08%，低硫燃料油連續漲5.11%，上海原油連續漲4.27%，燃料油連續漲4.08%，純鹼連續漲3.55%，白銀連續漲3.07%，焦煤連續漲2.51%，丙烯連續漲2.44%，甲醇連續漲2.30%。"
+    },
+    {
+      "id": "5034969",
+      "time": "2026-08-11 11:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約跌0.03%， 10年期主力合約跌0.02%， 5年期主力合約跌0.01%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "5034968",
+      "time": "2026-08-11 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.82%， 滬深300指數期貨連續漲0.31%， 中證500指數期貨連續漲0.74%， 上證50指數期貨連續跌0.10%。"
+    },
+    {
+      "id": "mkt:019feede-4f00-7aab-8fe5-9eabe959f65e",
+      "time": "2026-08-11 11:29:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "09688.HK",
+        "Impact bullish",
+        "06160.HK",
+        "02359.HK"
+      ],
+      "text": "Hong Kong innovative-drug stocks strengthened after volatile trading: Zai Lab (09688.HK) up over 5%, BeiGene (06160.HK) up over 4%, WuXi AppTec (02359.HK) and Fosun Pharma (02196.HK) also gained."
+    },
     {
       "id": "5034967",
       "time": "2026-08-11 11:27:52",
@@ -60,6 +162,15 @@
         "焦點"
       ],
       "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2163億元。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608113837707514",
+      "time": "2026-08-11 11:25:26",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本央行可能會在9月17日至18日的下一次政策會議上考慮再次加息】據報道，知情人士透露，日本央行在6月加息後可能會在9月17日至18日的下一次政策會議上考慮再次加息，以應對不斷上升的通脹風險。"
     },
     {
       "id": "mkt:019feed9-e10f-7aab-8fe5-8af4ca45d816",
