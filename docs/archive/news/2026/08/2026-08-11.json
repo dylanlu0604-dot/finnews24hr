@@ -1,7 +1,128 @@
 {
   "date": "2026-08-11",
-  "count": 2431,
+  "count": 2444,
   "items": [
+    {
+      "id": "5036053",
+      "time": "2026-08-11 21:31:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "火箭實驗室股價下跌3.9%，此前該公司認為中子火箭今年首飛的可能性下降，並公佈了第二季度業績。"
+    },
+    {
+      "id": "5036052",
+      "time": "2026-08-11 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.22%，標普500指數漲0.13%，納指漲0.23%。第一太陽能漲3.73%，阿斯麥漲3.08%，泰瑞達漲2.67%，百思買漲2.64%，閃迪漲2.45%，超微電腦漲2.38%。“七姐妹”方面：英偉達漲1.84%，特斯拉漲0.49%，蘋果漲0.33%，Meta Platforms漲0.06%，微軟跌0.25%，亞馬遜跌0.72%，谷歌跌0.77%。"
+    },
+    {
+      "id": "mkt:019ff104-afbc-7aab-8ff3-52c8ea3d41d7",
+      "time": "2026-08-11 21:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "US stocks opened higher: Dow +0.11%, S&P 500 +0.14%, Nasdaq +0.25%. NVIDIA (NVDA.O) rose 1.8% after reports it is rolling out an open-source AI model, Nemotron 4. Memory/storage names led gains: SK Hynix (SKHY.O) +2.4%, SanDisk (SNDK.O) +1.7%."
+    },
+    {
+      "id": "5036051",
+      "time": "2026-08-11 21:30:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，騰訊音樂跌14.85%，蔚來跌5.39%，中進醫療跌9.24%，1藥網跌4.63%，嗶哩嗶哩跌4.07%。"
+    },
+    {
+      "id": "5036050",
+      "time": "2026-08-11 21:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數開盤上漲33.71點，漲幅0.09%，報36492.04點。"
+    },
+    {
+      "id": "5036049",
+      "time": "2026-08-11 21:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）資料顯示，8月巴西豆粕出口量預計將達到253萬噸，高於前周預估的202萬噸。"
+    },
+    {
+      "id": "5036048",
+      "time": "2026-08-11 21:29:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：將MongoDB加入90天上行催化劑觀察名單，目標價545美元】花旗將MongoDB加入90天上行催化劑觀察名單，認為其有機會繼續迎來顯著的正向盈利預測調整，並且未來幾個月存在多項積極催化劑。花旗給予MongoDB“買入”評級，目標價為545美元。"
+    },
+    {
+      "id": "5036047",
+      "time": "2026-08-11 21:29:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報86.84美元/桶。"
+    },
+    {
+      "id": "5036046",
+      "time": "2026-08-11 21:29:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西8月份玉米出口量將達到517萬噸，高於此前一週預估的408萬噸。"
+    },
+    {
+      "id": "5036045",
+      "time": "2026-08-11 21:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦內政部長抵達德黑蘭，受到伊朗內政部長穆梅尼的接待。"
+    },
+    {
+      "id": "mkt:019ff101-e1be-7aab-8ff3-4a02463285ef",
+      "time": "2026-08-11 21:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's interior minister arrived in Tehran."
+    },
+    {
+      "id": "te:markets:574448",
+      "time": "2026-08-11 21:27:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Holds Rebound — The dollar index was at the 99.8 mark on Tuesday, holding the rebound from the two-month low of 99.5 on Friday amid fresh pressure on the yen, while markets further assessed the Federal Reserve's policy outlook. Markets mounted on short positions on the Japanese currency after the US Treasury completed its joint intervention on the foreign exchange market with Tokyo. Treasury Secretary Bessent had bought yen with euros in the Exchange Stabilization Fund to prevent Japan from selling more US bonds to defend their currency, but mountain fiscal pressures for Japan and the surge in US long yields drove the dollar to rebound against the yen. Meanwhile, Cleveland Fed President Hammack reiterated her view that a Fed hike is appropriate to combat inflation ahead of tomorrow's CPI report. The data is expected to show that core inflation measures should slow for a second month. Still, the elevated levels of wholesale energy commodities challenge the argument for a hold."
+    },
+    {
+      "id": "5036044",
+      "time": "2026-08-11 21:27:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濰柴動力：暫無開展商業衛星及商業航天用電源電池產品的研發規劃】濰柴動力在互動平臺表示，公司現階段暫無開展商業衛星及商業航天用電源電池產品以及月球基建方向獨立供電產品的研發規劃。"
+    },
     {
       "id": "5036043",
       "time": "2026-08-11 21:26:23",

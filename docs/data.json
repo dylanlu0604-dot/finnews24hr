@@ -1,7 +1,128 @@
 {
-  "updated": "2026-08-11 21:27:43",
-  "count": 15618,
+  "updated": "2026-08-11 21:32:33",
+  "count": 15598,
   "items": [
+    {
+      "id": "5036053",
+      "time": "2026-08-11 21:31:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "火箭實驗室股價下跌3.9%，此前該公司認為中子火箭今年首飛的可能性下降，並公佈了第二季度業績。"
+    },
+    {
+      "id": "5036052",
+      "time": "2026-08-11 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.22%，標普500指數漲0.13%，納指漲0.23%。第一太陽能漲3.73%，阿斯麥漲3.08%，泰瑞達漲2.67%，百思買漲2.64%，閃迪漲2.45%，超微電腦漲2.38%。“七姐妹”方面：英偉達漲1.84%，特斯拉漲0.49%，蘋果漲0.33%，Meta Platforms漲0.06%，微軟跌0.25%，亞馬遜跌0.72%，谷歌跌0.77%。"
+    },
+    {
+      "id": "mkt:019ff104-afbc-7aab-8ff3-52c8ea3d41d7",
+      "time": "2026-08-11 21:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "SKHY.O",
+        "SNDK.O"
+      ],
+      "text": "US stocks opened higher: Dow +0.11%, S&P 500 +0.14%, Nasdaq +0.25%. NVIDIA (NVDA.O) rose 1.8% after reports it is rolling out an open-source AI model, Nemotron 4. Memory/storage names led gains: SK Hynix (SKHY.O) +2.4%, SanDisk (SNDK.O) +1.7%."
+    },
+    {
+      "id": "5036051",
+      "time": "2026-08-11 21:30:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，騰訊音樂跌14.85%，蔚來跌5.39%，中進醫療跌9.24%，1藥網跌4.63%，嗶哩嗶哩跌4.07%。"
+    },
+    {
+      "id": "5036050",
+      "time": "2026-08-11 21:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多證交所S&P/TSX綜合指數開盤上漲33.71點，漲幅0.09%，報36492.04點。"
+    },
+    {
+      "id": "5036049",
+      "time": "2026-08-11 21:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）資料顯示，8月巴西豆粕出口量預計將達到253萬噸，高於前周預估的202萬噸。"
+    },
+    {
+      "id": "5036048",
+      "time": "2026-08-11 21:29:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【花旗：將MongoDB加入90天上行催化劑觀察名單，目標價545美元】花旗將MongoDB加入90天上行催化劑觀察名單，認為其有機會繼續迎來顯著的正向盈利預測調整，並且未來幾個月存在多項積極催化劑。花旗給予MongoDB“買入”評級，目標價為545美元。"
+    },
+    {
+      "id": "5036047",
+      "time": "2026-08-11 21:29:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報86.84美元/桶。"
+    },
+    {
+      "id": "5036046",
+      "time": "2026-08-11 21:29:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西8月份玉米出口量將達到517萬噸，高於此前一週預估的408萬噸。"
+    },
+    {
+      "id": "5036045",
+      "time": "2026-08-11 21:27:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：巴基斯坦內政部長抵達德黑蘭，受到伊朗內政部長穆梅尼的接待。"
+    },
+    {
+      "id": "mkt:019ff101-e1be-7aab-8ff3-4a02463285ef",
+      "time": "2026-08-11 21:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's interior minister arrived in Tehran."
+    },
+    {
+      "id": "te:markets:574448",
+      "time": "2026-08-11 21:27:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Holds Rebound — The dollar index was at the 99.8 mark on Tuesday, holding the rebound from the two-month low of 99.5 on Friday amid fresh pressure on the yen, while markets further assessed the Federal Reserve's policy outlook. Markets mounted on short positions on the Japanese currency after the US Treasury completed its joint intervention on the foreign exchange market with Tokyo. Treasury Secretary Bessent had bought yen with euros in the Exchange Stabilization Fund to prevent Japan from selling more US bonds to defend their currency, but mountain fiscal pressures for Japan and the surge in US long yields drove the dollar to rebound against the yen. Meanwhile, Cleveland Fed President Hammack reiterated her view that a Fed hike is appropriate to combat inflation ahead of tomorrow's CPI report. The data is expected to show that core inflation measures should slow for a second month. Still, the elevated levels of wholesale energy commodities challenge the argument for a hold."
+    },
+    {
+      "id": "5036044",
+      "time": "2026-08-11 21:27:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濰柴動力：暫無開展商業衛星及商業航天用電源電池產品的研發規劃】濰柴動力在互動平臺表示，公司現階段暫無開展商業衛星及商業航天用電源電池產品以及月球基建方向獨立供電產品的研發規劃。"
+    },
     {
       "id": "5036043",
       "time": "2026-08-11 21:26:23",
@@ -141949,331 +142070,6 @@
         "焦點"
       ],
       "text": "PTA連續主力合約日內跌2%，現報5786.00元。"
-    },
-    {
-      "id": "5024954",
-      "time": "2026-08-04 21:32:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【FF計劃用三到四個季度將總負債降至1億美元以下】8月4日，法拉第未來（NASDAQ: FFAI） 宣佈，在供應商、債權人及其他產業合作伙伴的支援下，公司歷史遺留債務化解取得實質進展。根據已披露資料，總負債由2025年的約3.5億美元降至2026年的約2.3億美元，化債工作仍在推進。公司計劃用三到四個季度將總負債降至1億美元以下。"
-    },
-    {
-      "id": "mkt:019fccf9-bfa9-7aab-8f71-740c804db34b",
-      "time": "2026-08-04 21:32:27",
-      "tags": [
-        "MKT News",
-        "SPOT.N",
-        "Impact bearish"
-      ],
-      "text": "Spotify (SPOT.N) fell 4.3% after the company said it expects Q3 profit and monthly active users to be below expectations."
-    },
-    {
-      "id": "mkt:019fccf9-bced-7aab-8f71-6e4da160f02b",
-      "time": "2026-08-04 21:32:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities opened higher on Aug 4 (Tue): Dow Jones up 804.75 pts (+1.51%) at 53,983.16; S&P 500 up 37.92 pts (+0.50%) at 7,638.41; Nasdaq Composite up 229.10 pts (+0.88%) at 26,143.00."
-    },
-    {
-      "id": "5024953",
-      "time": "2026-08-04 21:32:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普 500 指數上漲 0.5%，有望創下 6 月以來首個歷史新高。"
-    },
-    {
-      "id": "5024952",
-      "time": "2026-08-04 21:32:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.00%，現報26173.336點；道指漲1.43%，現報53940.180點；標普500指數漲0.54%，現報7641.400點。"
-    },
-    {
-      "id": "5024951",
-      "time": "2026-08-04 21:32:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油價格自7月中旬以來首次跌破80美元。"
-    },
-    {
-      "id": "5024950",
-      "time": "2026-08-04 21:31:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "道指、標普500指數開盤重新整理歷史新高 AI硬體個股集體走強。"
-    },
-    {
-      "id": "5024949",
-      "time": "2026-08-04 21:31:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "Spotify 股價下跌 4.3%，公司給出的第三季度利潤、月活躍使用者均低於市場預期。"
-    },
-    {
-      "id": "5024948",
-      "time": "2026-08-04 21:31:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "PALANTIR股價開盤飆升19%，創下2025年4月以來最大單日漲幅。"
-    },
-    {
-      "id": "5024947",
-      "time": "2026-08-04 21:31:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，新東方跌4.57%，小鵬汽車跌3.56%，名創優品跌3.77%，理想汽車跌3.05%，大全新能源跌2.47%。"
-    },
-    {
-      "id": "5024946",
-      "time": "2026-08-04 21:31:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【費城半導體指數開盤上漲4%】費城半導體指數開盤上漲4%。成分股方面，英偉達股價上漲1.9%，臺積電股價上漲2.24%，博通股價上漲2.97%，美光科技股價上漲4.8%，超威半導體股價上漲4.91%，阿斯麥股價上漲3.62%。"
-    },
-    {
-      "id": "5024945",
-      "time": "2026-08-04 21:31:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌5%，現報4680.00元。"
-    },
-    {
-      "id": "mkt:019fccf8-89c8-7aab-8f71-62ace3d84f40",
-      "time": "2026-08-04 21:31:07",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bearish"
-      ],
-      "text": "Amazon (AMZN.O) shares fell 2.2% after founder Jeff Bezos said he plans to sell about $4 billion of stock."
-    },
-    {
-      "id": "5024944",
-      "time": "2026-08-04 21:31:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大商所乙二醇主力合約大跌5%】大商所乙二醇主力合約大跌5%，報4680元/噸。"
-    },
-    {
-      "id": "5024943",
-      "time": "2026-08-04 21:31:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "卡特彼勒股價上漲 12%。"
-    },
-    {
-      "id": "5024942",
-      "time": "2026-08-04 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲1.43%，標普500指數漲0.47%，納指漲0.83%。Palantir Technologies漲17.90%，斑馬技術漲17.52%，卡特彼勒漲11.72%，Coherent Corp漲11.26%，邁威爾科技漲9.54%。“七姐妹”方面：英偉達漲1.89%，特斯拉漲0.95%，蘋果漲0.02%，微軟跌0.62%，谷歌跌0.98%，Meta Platforms跌1.48%，亞馬遜跌2.24%。"
-    },
-    {
-      "id": "mkt:019fccf8-2fef-7aab-8f71-5a9682762d7b",
-      "time": "2026-08-04 21:30:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Palantir",
-        "PLTR.N",
-        "Impact bullish",
-        "AMD.O",
-        "MU.O"
-      ],
-      "text": "US stocks opened higher: Dow +1.17%, S&P 500 +0.4%, Nasdaq +0.78%. Palantir (PLTR.N) surged 14.7% after sharply raising full-year revenue guidance. SpaceX (SPCX.O) and AMD (AMD.O) are due to report after the close; both gained 2.8% and 3.7% respectively. Micron (MU.O) rose 4% and Corning (GLW.N) rose 5.6%."
-    },
-    {
-      "id": "te:markets:572582",
-      "time": "2026-08-04 21:30:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "General Electric Aerospace Stock Price Hits 4-week High — General Electric Aerospace shares increased to 374.99 USD, the highest since July 2026. Over the past 4 weeks, General Electric Aerospace lost 2.57%, and in the last 12 months, it increased 33.56%."
-    },
-    {
-      "id": "5024941",
-      "time": "2026-08-04 21:30:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本10年期國債拍賣需求疲弱】日本財務省4日實施的10年期國債拍賣需求低於市場預期，反映市場需求強弱的投標倍數降至2.56倍，創2025年5月以來新低。受拍賣結果影響，日本10年期國債收益率盤中一度升至2.870%，創約一個月來新高。（新華財經）"
-    },
-    {
-      "id": "5024940",
-      "time": "2026-08-04 21:30:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，優品車跌4.16%，新東方跌4.20%，名創優品跌2.96%，小鵬汽車跌3.31%，理想汽車跌2.59%。"
-    },
-    {
-      "id": "te:markets:572581",
-      "time": "2026-08-04 21:30:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Enbridge Stock Price Hits 4-week Low — Enbridge shares decreased to 75.87 CAD, the lowest since July 2026. Over the past 4 weeks, Enbridge lost 0.68%, and in the last 12 months, it increased 19.57%."
-    },
-    {
-      "id": "5024939",
-      "time": "2026-08-04 21:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守80美元/桶，日內跌4.51%。"
-    },
-    {
-      "id": "te:markets:572580",
-      "time": "2026-08-04 21:30:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Boeing Stock Price Hits 4-week High — Boeing shares increased to 237.00 USD, the highest since July 2026. Over the past 4 weeks, Boeing gained 1%, and in the last 12 months, it increased 6.54%."
-    },
-    {
-      "id": "5024938",
-      "time": "2026-08-04 21:30:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡特彼勒盤初大漲超11%。公司第二季度調整後每股收益8.17美元，高於市場預期的6.17美元，並上調2026年銷售額預期。"
-    },
-    {
-      "id": "5024937",
-      "time": "2026-08-04 21:30:07",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大7月RBC製造業PMI 53.5，前值 53。"
-    },
-    {
-      "id": "mkt:019fccf7-9b28-7aab-8f71-52fcf6e24523",
-      "time": "2026-08-04 21:30:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada July S&P Global manufacturing PMI 53.5, prior 53.0."
-    },
-    {
-      "id": "mkt:019fccf7-811f-7aab-8f71-4e492f0e2dbf",
-      "time": "2026-08-04 21:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | RBC Manufacturing PMI (Jul) | actual 53.5 | previous 53"
-    },
-    {
-      "id": "5024936",
-      "time": "2026-08-04 21:29:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡特彼勒：柴油動力裝置訂單積壓已排至 2028 年。"
-    },
-    {
-      "id": "te:economy:572579",
-      "time": "2026-08-04 21:29:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Brazil Yields Fall Ahead of BCB Meeting — Brazil's 10-year government bond yield fell to 14.55% from a nearly three-month high of 15% reached in late July as easing tensions in the Middle East pushed oil prices lower, reducing inflation concerns. Iran signaled progress in negotiations to restore shipping through the Strait of Hormuz after US President Donald Trump called off a planned strike, raising hopes for a diplomatic resolution. The decline in oil prices reinforced expectations that the BCB will cut the Selic rate from 14.25% at its August 5th meeting. The latest Focus Survey lowered the 2026 inflation forecast to 5.03% from 5.12% and reduced the year-end Selic projection to 13.75% from 14.00%. Meanwhile, consumer prices rose just 0.06% in the month to mid-July, slowing sharply from 0.41% in June and below forecasts of 0.2%. less"
-    },
-    {
-      "id": "mkt:019fccf6-930b-7aab-8f71-4670b83559d1",
-      "time": "2026-08-04 21:28:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Brent crude falls 4% to $79.71/bbl; WTI down 4.2%."
-    },
-    {
-      "id": "5024935",
-      "time": "2026-08-04 21:28:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "ET：荷蘭乙烷專案出口產能已簽約至 2040 年代。"
-    },
-    {
-      "id": "5024934",
-      "time": "2026-08-04 21:28:19",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國銀行：美光股價回撥是買入機會】美國銀行重申對美光的買入評級以及 1550 美元目標價，稱近期股價拋售帶來 “絕佳買入機會”。該行預計儲存晶片價格將於 2027‑2028 年迴歸正常水平，並表示公司基本面依舊強勁。美銀預測 2028 財年每股收益約 150 美元，悲觀情景下約 100 美元，仍遠高於上一輪週期約 12 美元的峰值。"
-    },
-    {
-      "id": "mkt:019fccf5-ea52-7aab-8f71-3f9f0558303d",
-      "time": "2026-08-04 21:28:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "【Samsung Electronics' chip foundry operations may approach full capacity in H2 2026】Reports indicate Samsung Electronics' chip foundry business could approach full capacity in H2 2026, a potential inflection after prolonged underutilization hurt profitability; yields on the 2nm process remain a major challenge."
     }
   ]
 }
