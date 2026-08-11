@@ -1,7 +1,78 @@
 {
   "date": "2026-08-11",
-  "count": 1043,
+  "count": 1050,
   "items": [
+    {
+      "id": "mkt:019fef49-46b2-7aab-8fe7-e7646759b82d",
+      "time": "2026-08-11 13:26:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot silver fell more than 1.00% intraday to $65.07/oz."
+    },
+    {
+      "id": "5035081",
+      "time": "2026-08-11 13:26:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將法拉利的目標股價從381歐元上調至407歐元。"
+    },
+    {
+      "id": "mkt:019fef48-0d6c-7aab-8fe7-dcff39f671fa",
+      "time": "2026-08-11 13:25:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "601872.SS",
+        "Impact bearish",
+        "600026.SS"
+      ],
+      "text": "China A-share shipping sector extended afternoon losses; China Merchants Shipping fell over 7%, with COSCO Shipping Energy and Haitong Development also sliding."
+    },
+    {
+      "id": "mkt:019fef47-7a74-7aab-8fe7-d6e43eb0c675",
+      "time": "2026-08-11 13:24:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "159272.SS",
+        "Impact bullish",
+        "159278.SS",
+        "159530.SS"
+      ],
+      "text": "China's A-share robotics sector jumped in the afternoon; individual stocks Ludi Xiebo and Zhongda Lide gained more than 8%. Robotics ETFs Fullgoal (159272), Penghua (159278) and E Fund (159530) rose over 2%."
+    },
+    {
+      "id": "5035080",
+      "time": "2026-08-11 13:23:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【午後多支機器人ETF漲超2%】午後機器人板塊拉昇，綠地諧波、中大力德等漲超8%。機器人ETF富國（159272）、 機器人ETF鵬華（159278）、 機器人ETF易方達（159530）等多支機器人ETF漲超2%。"
+    },
+    {
+      "id": "5035079",
+      "time": "2026-08-11 13:23:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海運板塊午後持續下挫 招商輪船跌超7%】海運板塊午後持續下挫，招商輪船跌超7%，中遠海能、海通發展等股跟跌。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837752734",
+      "time": "2026-08-11 13:23:08",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【紐約梅隆：澳大利亞央行在維持利率不變的同時保持偏緊縮傾向】澳大利亞央行一致決定維持隔夜拆款利率不變，在其政策資訊中實現了謹慎的平衡。紐約梅隆宏觀策略師WeeKhoonChong表示，該央行認為利率“具有一定的限制性”，但強調總體通脹率仍然過高，並且可能在2027年底之前保持高位，風險依然偏向上行。他補充說，澳大利亞央行保持了偏緊縮傾向，並重申如果通脹上行風險成為現實，其願意進一步加息。"
+    },
     {
       "id": "mkt:019fef43-81cd-7aab-8fe7-cef3246b82af",
       "time": "2026-08-11 13:20:06",
