@@ -1,7 +1,246 @@
 {
   "date": "2026-08-12",
-  "count": 24,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:019ff195-464a-7aab-8ff6-f9b512dd6e4e",
+      "time": "2026-08-12 00:08:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary said the seven-day average of oil exports via the Strait of Hormuz is currently near 9 mln bpd."
+    },
+    {
+      "id": "5036237",
+      "time": "2026-08-12 00:08:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮官員已要求司法部考慮對一名被控破壞林肯紀念堂倒影池的男子提起新訴訟。"
+    },
+    {
+      "id": "mkt:019ff194-a441-7aab-8ff6-f73f84808477",
+      "time": "2026-08-12 00:07:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "US State Department: US Secretary of State Rubio met with Austria's foreign minister to discuss measures to ensure European security and uphold national sovereignty."
+    },
+    {
+      "id": "te:markets:574490",
+      "time": "2026-08-12 00:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.13% Lower — The FTSE 100 Index dropped 14 points or 0.13 percent on Tuesday to close at 10848 points. Losses were led by Spirax-Sarco Engineering (-6.47%), M&G (-3.31%) and Legal & General (-3.12%). Offsetting the fall, top gainers were St. Jamess (2.94%), Endeavour (2.70%) and Entain (2.25%)."
+    },
+    {
+      "id": "mkt:019ff193-6f48-7aab-8ff6-eeca3a014230",
+      "time": "2026-08-12 00:06:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects U.S. crude production of 13.80 mln b/d in 2026, up from a prior forecast of 13.78 mln b/d."
+    },
+    {
+      "id": "mkt:019ff193-6b26-7aab-8ff6-e5117658745b",
+      "time": "2026-08-12 00:06:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA Short-Term Energy Outlook cuts its 2026 natural gas price forecast to $3.57 per barrel from $3.81 per barrel previously."
+    },
+    {
+      "id": "mkt:019ff193-58fb-7aab-8ff6-d831c31b992f",
+      "time": "2026-08-12 00:06:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "EIA in its Short-Term Energy Outlook raised its 2027 Brent forecast to $69.39/bbl from $64.76/bbl previously."
+    },
+    {
+      "id": "mkt:019ff193-4f8c-7aab-8ff6-d26eedad8a49",
+      "time": "2026-08-12 00:06:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects Brent crude at $86.81/bbl in 2026, up from a prior forecast of $81.91/bbl."
+    },
+    {
+      "id": "mkt:019ff193-3726-7aab-8ff6-cba2c11b0a2d",
+      "time": "2026-08-12 00:06:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects 2027 U.S. natural gas consumption at 94.8 Bcf/d, down from a prior 95.0 Bcf/d forecast."
+    },
+    {
+      "id": "mkt:019ff193-3079-7aab-8ff6-c2de4a628c2a",
+      "time": "2026-08-12 00:06:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA Short-Term Energy Outlook forecasts U.S. dry natural gas production at 111.2 Bcf/d in 2026, unchanged from the prior projection."
+    },
+    {
+      "id": "mkt:019ff193-0f1a-7aab-8ff6-bd3cc59843ad",
+      "time": "2026-08-12 00:06:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects U.S. crude oil consumption in 2026 at 20.63 mln bpd, down from a prior forecast of 20.70 mln bpd."
+    },
+    {
+      "id": "mkt:019ff192-fde5-7aab-8ff6-b069ac2c85f3",
+      "time": "2026-08-12 00:06:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects U.S. crude oil production will rise 210,000 b/d in 2026, revised up from a prior estimate of 190,000 b/d."
+    },
+    {
+      "id": "mkt:019ff192-f284-7aab-8ff6-ac860527167b",
+      "time": "2026-08-12 00:06:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook: forecasts 2027 U.S. crude oil demand growth of 170,000 b/d, up from 90,000 b/d previously."
+    },
+    {
+      "id": "mkt:019ff192-df51-7aab-8ff6-a452905cddf5",
+      "time": "2026-08-12 00:06:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook: forecasts US crude oil production will rise 350,000 b/d in 2027, up from a prior projection of 250,000 b/d."
+    },
+    {
+      "id": "mkt:019ff192-d0dd-7aab-8ff6-9a535daf61eb",
+      "time": "2026-08-12 00:05:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects 2026 WTI at $80.88/bbl, up from a prior forecast of $76.26/bbl."
+    },
+    {
+      "id": "mkt:019ff192-cad6-7aab-8ff6-9655e9ca4371",
+      "time": "2026-08-12 00:05:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects 2027 natural gas price at $3.44 per barrel, down from a prior forecast of $3.63 per barrel."
+    },
+    {
+      "id": "mkt:019ff192-b9ab-7aab-8ff6-8df323bd699b",
+      "time": "2026-08-12 00:05:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects 2027 WTI crude at $65.39/bbl, up from a prior forecast of $60.76/bbl."
+    },
+    {
+      "id": "5036236",
+      "time": "2026-08-12 00:05:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長：目前霍爾木茲海峽石油外運的七日均值接近900萬桶/日。"
+    },
+    {
+      "id": "mkt:019ff192-abe2-7aab-8ff6-823b4332574a",
+      "time": "2026-08-12 00:05:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA Short‑Term Energy Outlook projects U.S. natural gas consumption in 2026 at 92.0 bcf/d, down from a prior forecast of 92.1 bcf/d."
+    },
+    {
+      "id": "mkt:019ff192-96d6-7aab-8ff6-7f610c16774f",
+      "time": "2026-08-12 00:05:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects 2027 US crude oil production at 14.15 mln bpd, up from a prior forecast of 14.03 mln bpd."
+    },
+    {
+      "id": "mkt:019ff192-89bf-7aab-8ff6-740f247ffd46",
+      "time": "2026-08-12 00:05:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA Short-Term Energy Outlook projects U.S. crude oil demand growth of 20,000 b/d in 2026, down from a prior estimate of 90,000 b/d."
+    },
     {
       "id": "mkt:019ff192-704d-7aab-8ff6-6fca8c044f74",
       "time": "2026-08-12 00:05:33",
