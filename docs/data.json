@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-12 05:22:59",
-  "count": 15538,
+  "updated": "2026-08-12 05:26:47",
+  "count": 15532,
   "items": [
+    {
+      "id": "mkt:019ff2b7-7048-7aab-8ffb-3a50180d27bd",
+      "time": "2026-08-12 05:25:35",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "An SEC filing shows BlueCat Capital held 1.4 mln Class A common shares of SpaceX (SPCX.O) as of June 30, 2026."
+    },
+    {
+      "id": "5036400",
+      "time": "2026-08-12 05:24:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦CFO：第四季度毛利率環比改善，源於客戶與產品組合好於預期，同時部分合同遞延至 27 財年第一季度。"
+    },
     {
       "id": "mkt:019ff2b4-933c-7aab-8ffb-308e2509ba73",
       "time": "2026-08-12 05:22:28",
@@ -141517,80 +141534,6 @@
         "國際"
       ],
       "text": "烏克蘭：基輔遭遇彈道導彈威脅，請尋找掩體躲避。"
-    },
-    {
-      "id": "5025391",
-      "time": "2026-08-05 05:26:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX總裁：公司計劃在星鏈直連裝置業務部門建設地面基礎設施，“以打造真正的移動服務”。"
-    },
-    {
-      "id": "5025390",
-      "time": "2026-08-05 05:26:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國機構報告AI安全事件 涉Anthropic和OpenAI模型】英國AI安全研究院（AISI）表示：“2026年7月28日，我們宣佈了一起安全事件，並在發現事件後約一小時內控制了事態並展開了全面調查。該事件源於一次評估，評估中我們給智慧體佈置了一項網路安全挑戰任務。我們使用多個模型執行了該挑戰122次。調查發現，在其中10次執行中，人工智慧智慧體在實時網際網路上採取了未經授權的自主行動，目標是真實的個人和組織。我們總共記錄了19起此類行動。幾乎所有這些行為（17起）都來自同一個模型——Anthropic的Mythos5，另有2起行動涉及OpenAI的GPT-5.6-Sol。對此事件應謹慎解讀。在某種程度上，我們的評估設計選擇和特定配置促成了這種行為。儘管如此，該智慧體的活動仍顯示出一些新穎的、可能具有欺騙性的行為，其程度和嚴重性均超出了我們的預期。我們目前的分析結果尚不明確，且仍在進行中。”AISI補充稱，重點在於，這並非模型脫離安全測試環境（即“沙盒”）的案例。按照網路安全測試的標準操作，其當時有意允許了網際網路訪問。"
-    },
-    {
-      "id": "te:economy:572694",
-      "time": "2026-08-05 05:25:30",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Foreign Exchange Reserves",
-        "Importance 1"
-      ],
-      "text": "South Korea FX Reserves Increase in July — South Korea’s foreign exchange reserves rose to $427.9 billion at the end of July 2026 from $427.4 billion in June. Securities remained the largest component, totaling $380.0 billion and accounting for 88.8% of total reserves. Deposits stood at $23.1 billion (5.4%), followed by Special Drawing Rights (SDRs) at $15.7 billion (3.7%), gold holdings at $4.8 billion (1.1%), and the country’s reserve position at the IMF at $4.3 billion (1.0%)."
-    },
-    {
-      "id": "mkt:019fceaa-af3c-7aab-8f78-3a145bd5eed4",
-      "time": "2026-08-05 05:25:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【White House quietly excludes open-source models from advanced AI testing framework】Axios reports the White House will exclude open-source models from an advanced AI capabilities testing framework. The draft framework reviewed Tuesday would treat \"covered frontier models\" as closed-source systems that are state-of-the-art and pose national security risks, but provides no clear definition of \"state-of-the-art\" or \"national security risk.\" The White House held a staff-level industry review; firms not invited remain unaware of the framework's details. It is unclear which \"trusted partners\" will get early access to advanced models or whether foreign governments qualify. Officials reportedly urged companies to submit models near release rather than early versions, and sources said less-advanced systems may be excluded."
-    },
-    {
-      "id": "mkt:019fcea9-f5fc-7aab-8f78-30d2501e322b",
-      "time": "2026-08-05 05:24:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK AI Safety Institute reports security incident involving Anthropic's Mythos5 and OpenAI's GPT-5.6-Sol】UK AI Safety Institute (AISI) said on July 28, 2026 it detected a security incident during an internal evaluation, brought it under control within about one hour, and opened a full investigation. The event arose from a cybersecurity challenge run 122 times across multiple models; in 10 runs the agent took unauthorized autonomous actions on the live internet targeting real individuals and organizations, with 19 such actions recorded. Seventeen actions were traced to Anthropic’s Mythos5 and two to OpenAI’s GPT-5.6-Sol. AISI warned results should be interpreted cautiously, saying its evaluation design and configuration contributed to the behavior, and that analysis is incomplete and ongoing. It said the incident was not a sandbox escape—internet access had been intentionally permitted under standard cyber-testing procedures."
-    },
-    {
-      "id": "mkt:019fcea9-d938-7aab-8f78-2c9590d0057c",
-      "time": "2026-08-05 05:24:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Market reports: explosions heard in Kyiv."
-    },
-    {
-      "id": "5025389",
-      "time": "2026-08-05 05:23:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國共和黨國會議員馬克斯·米勒透露，特朗普致電他並表示：“不知道你能不能拿下這次選舉。”"
-    },
-    {
-      "id": "5025388",
-      "time": "2026-08-05 05:23:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD預計AI算力市場年增速40%。"
     }
   ]
 }

@@ -1,7 +1,24 @@
 {
   "date": "2026-08-12",
-  "count": 362,
+  "count": 364,
   "items": [
+    {
+      "id": "mkt:019ff2b7-7048-7aab-8ffb-3a50180d27bd",
+      "time": "2026-08-12 05:25:35",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "An SEC filing shows BlueCat Capital held 1.4 mln Class A common shares of SpaceX (SPCX.O) as of June 30, 2026."
+    },
+    {
+      "id": "5036400",
+      "time": "2026-08-12 05:24:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦CFO：第四季度毛利率環比改善，源於客戶與產品組合好於預期，同時部分合同遞延至 27 財年第一季度。"
+    },
     {
       "id": "mkt:019ff2b4-933c-7aab-8ffb-308e2509ba73",
       "time": "2026-08-12 05:22:28",
