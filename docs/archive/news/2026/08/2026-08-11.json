@@ -1,7 +1,42 @@
 {
   "date": "2026-08-11",
-  "count": 884,
+  "count": 888,
   "items": [
+    {
+      "id": "5034994",
+      "time": "2026-08-11 11:59:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【實測朋友圈AI幫寫：生成後仍需使用者確認，可生成吐槽文案】8月11日，記者實測微信朋友圈“AI幫寫”功能發現，小微AI（測試版）“幫寫”後的文案仍需要使用者確認才會出現在“發表文字”的框裡，發表、“提醒誰看”“誰可以看”等功能仍需使用者操作。AI根據圖片內容生成文案建議，首次仍需使用者引導，並非點選“AI幫寫”後即時生成。 記者測試發現，其無法生成辱罵相關的文案，但可以生成顯示生氣語氣、吐槽相關的文案。 記者自騰訊客服獲悉，朋友圈的“AI幫寫”功能是微信小微（智慧助手）的擴充套件應用。使用者可在朋友圈編輯頁面上傳配圖或手寫文字後，頁面右下角會自動出現“AI幫寫”按鈕，點選後即可跳轉至小微對話介面。“AI會根據圖片內容實時生成文案建議，使用者可直接選擇採納或調整後釋出。該功能目前處於內測階段，若未顯示入口請留意後續版本更新。” 而對於朋友圈的“AI點評”功能，騰訊客服表示，朋友圈目前支援在評論中使用表情或從相簿上傳圖片輔助表達，AI幫寫功能可輔助生成文案建議。 而對於朋友圈的“AI點評”功能，騰訊客服表示，朋友圈目前支援在評論中使用表情或從相簿上傳圖片輔助表達，AI幫寫功能可輔助生成文案建議。 （貝殼財經）"
+    },
+    {
+      "id": "te:markets:574268",
+      "time": "2026-08-11 11:57:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Coal Rises as Oil Prices Surge — Thermal coal futures rose toward $130 per ton in mid-August, paring recent losses as oil prices surged amid persistent uncertainty over a US-Iran deal to end the conflict and reopen the Strait of Hormuz. Higher oil prices increase the incentive for fuel switching, particularly among energy-importing countries across Europe and Asia. Meanwhile, China’s National Development and Reform Commission and National Energy Administration released the “15th Five-Year Plan for Coal Industry Development,” which aims to lift the proportion of capacity from large, modernized coal mines to 87% and that from intelligent mines to 75% by 2030. The plan also calls for an annual reserve of more than 100 million metric tons of production capacity and seeks to accelerate the closure of outdated mines through market-based and legal measures, while enforcing strict replacement requirements for new capacity."
+    },
+    {
+      "id": "5034993",
+      "time": "2026-08-11 11:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東折扣超市：江蘇鹽城、河北燕郊及衡水將開首店】8月11日，介面新聞記者獲悉，京東折扣超市全國版圖再添三城——江蘇鹽城、河北燕郊、河北衡水均將迎來品牌首店。其中，鹽城首店已定檔9月25日正式營業，落址亭湖區新紀元商業廣場；燕郊、衡水兩店選址也已全部敲定，燕郊店坐落於巖峰商業廣場，衡水店入駐悅樂城·奧萊，兩家門店的開業時間暫未對外公佈。"
+    },
+    {
+      "id": "5034992",
+      "time": "2026-08-11 11:56:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【儲存漲價反成利好，愛芯元智增加備貨鎖定先進製程產能】8月12日訊息，介面新聞從愛芯元智半年報業績電話會上瞭解到，儲存漲價反成利好。公司管樓層指出：“由於儲存器在終端BOM成本佔比提升，終端產品存在漲價壓力，促使客戶加速主控晶片升級，因此儲存漲價反而促進下游高階產品佔比快速提升。”為應對行業產能緊張，愛芯元智上半年存貨從3億多元增至7億多元，公司回應稱，主動鎖定先進製程產能，決策基於下游客戶明確的訂單能見度。"
+    },
     {
       "id": "mkt:019feef6-efe4-7aab-8fe5-e21781060824",
       "time": "2026-08-11 11:56:28",
