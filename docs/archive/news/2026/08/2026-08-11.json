@@ -1,7 +1,103 @@
 {
   "date": "2026-08-11",
-  "count": 2494,
+  "count": 2505,
   "items": [
+    {
+      "id": "5036092",
+      "time": "2026-08-11 21:49:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "Manus：為遵守相關法規，部分使用者資料將被刪除。"
+    },
+    {
+      "id": "5036091",
+      "time": "2026-08-11 21:49:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "AI 初創企業 Manus 將恢復獨立公司運營模式，Manus 表示，該舉措是脫離 Meta 的一部分。"
+    },
+    {
+      "id": "te:markets:574457",
+      "time": "2026-08-11 21:48:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips After Copom Minutes — The Ibovespa edged down to trade below 172,000 on Tuesday following the release of July’s inflation data and the minutes from Copom’s latest meeting. Brazil’s annual inflation rate eased to 4.44% in July 2026 from 4.64% in June, in line with forecasts and returning to within the central bank’s 1.5%-4.5% target range. In the minutes, the monetary authority said that although monetary policy is making a decisive contribution to the disinflation process, inflation remains pressured by demand, requiring a restrictive policy stance. Financials traded mostly lower, with Caixa extending losses by nearly 3% after reporting a 0.2% quarter-on-quarter decline in adjusted net income and a 0.8% year-on-year drop in financial income. BTG fell more than 2% despite reporting its strongest semester on record. B3, down 0.3%, is set to release its results later today. Petrobras shed nearly 0.5% as the oil rally lost momentum. Vale gained more than 0.5% as iron ore prices rose on signs of tighter supply."
+    },
+    {
+      "id": "5036090",
+      "time": "2026-08-11 21:48:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報81.29美元/桶。"
+    },
+    {
+      "id": "mkt:019ff114-cf6f-7aab-8ff3-c595ddf13bc8",
+      "time": "2026-08-11 21:48:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German gas importer Securing Energy for Europe (SEFE) failed to sell gas storage capacity at Rehden on Tuesday."
+    },
+    {
+      "id": "5036089",
+      "time": "2026-08-11 21:48:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國 SEFE 公司週二未能售出雷登儲氣庫庫容。"
+    },
+    {
+      "id": "5036088",
+      "time": "2026-08-11 21:46:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦內政部長訪問伊朗】巴基斯坦內政部長納克維今天（8月11日）訪問伊朗，他將就兩國關係等議題與伊朗多名官員舉行會晤。（CCTV國際時訊）"
+    },
+    {
+      "id": "5036087",
+      "time": "2026-08-11 21:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯譴責哥倫比亞承認以色列對被佔領戈蘭高地擁有主權。"
+    },
+    {
+      "id": "te:markets:574456",
+      "time": "2026-08-11 21:46:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Abbott Stock Price Hits 21-week High — Abbott shares increased to 110.08 USD, the highest since March 2026. Over the past 4 weeks, Abbott gained 19.34%, and in the last 12 months, it decreased 16.32%."
+    },
+    {
+      "id": "mkt:019ff112-66cf-7aab-8ff3-bb24b104ef27",
+      "time": "2026-08-11 21:45:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: South China Sea live-fire exercises on Aug 12 and 14】China Maritime Safety Administration website says Shantou Maritime Safety Administration issued a navigation warning that on Aug 12 and 14, 08:00–18:00 local time, live-fire exercises will be conducted in parts of the South China Sea; vessels are prohibited from entering the affected waters."
+    },
+    {
+      "id": "5036086",
+      "time": "2026-08-11 21:45:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海實彈射擊】據中國海事局網站訊息，汕頭海事局釋出航行警告，8月12日和14日，每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。"
+    },
     {
       "id": "mkt:019ff112-153b-7aab-8ff3-b0472d8936f9",
       "time": "2026-08-11 21:45:21",
