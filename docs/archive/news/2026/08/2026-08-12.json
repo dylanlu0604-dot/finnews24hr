@@ -1,7 +1,77 @@
 {
   "date": "2026-08-12",
-  "count": 485,
+  "count": 492,
   "items": [
+    {
+      "id": "mkt:019ff33d-d1cb-7aab-8ffc-0c51525dee48",
+      "time": "2026-08-12 07:52:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan M2 money supply YoY +2.2% in July; prior +2.20%."
+    },
+    {
+      "id": "mkt:019ff33d-baa3-7aab-8ffc-037d02e20c45",
+      "time": "2026-08-12 07:52:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M2 Money Supply (YoY) (Jul) | actual 2.2% | previous 2.20%"
+    },
+    {
+      "id": "mkt:019ff33d-5c8b-7aab-8ffb-fd3522ea593c",
+      "time": "2026-08-12 07:51:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's 5-year government bond yield rose 1.5 bps to 2.10%, a record high."
+    },
+    {
+      "id": "5036492",
+      "time": "2026-08-12 07:51:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608123838315231",
+      "time": "2026-08-12 07:51:10",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月CPI即將揭曉 美聯儲加息預期再迎考驗】北京時間8月12日20時30分，美國勞工部將公佈7月消費者價格指數（CPI）。市場預計，美國整體CPI和核心CPI同比增速均將繼續回落，但環比增速可能由負轉正。市場人士認為，就業降溫降低了美聯儲加息的緊迫性，但美國失業率仍處於低位，能源價格和人工智慧投資帶來的通脹風險也未完全消退。相較於單月就業人數的變化，未來兩份通脹報告以及美聯儲主席凱文·沃什的政策風格可能更直接影響美聯儲9月的政策選擇。"
+    },
+    {
+      "id": "mkt:019ff33b-a032-7aab-8ffb-f451e44218c9",
+      "time": "2026-08-12 07:49:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Huatai Securities: lithium peak season may support commodity and equity recovery】Huatai Securities said a prior drag on lithium prices reflected hidden inventories becoming visible and uncertainty about next-year demand. It expects H2 2026 cancellation of export tax rebates to front‑load demand, and seasonal peak demand to support a lithium-price rebound. Under a neutral 2027 scenario (global EV sales +10–15% YoY; energy‑storage cell shipments +30–40% YoY), global lithium carbonate supply‑demand is likely to remain tight and roughly balanced. The firm notes recent share-price pullbacks may already embed pessimistic lithium-price expectations and flags potential seasonal recovery opportunities in commodities and equities."
+    },
+    {
+      "id": "5036491",
+      "time": "2026-08-12 07:49:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐哥倫比亞使館提醒中國公民非必要不前往受災區域】截至目前，哥倫比亞7.4級強震已造成逾二百人死亡和大量財產損失，哥政府宣佈進入“國家災難狀態”。喬科省、考卡山谷省、裡薩拉爾達省和卡爾達斯省的部分地區和城市受災最為嚴重，哥地質局提醒餘震可能持續數日甚至數週。中國駐哥倫比亞使館提醒在哥和擬來哥中國同胞非必要不前往上述區域，建議跟進相關資訊，並在“中國領事”APP完成“海外公民登記”，以便使館掌握資訊，及時提供領事保護與協助。如遇緊急情況，請及時報警並聯系中國駐哥倫比亞使館尋求協助。（ 中國駐哥倫比亞使館  ）"
+    },
     {
       "id": "5036490",
       "time": "2026-08-12 07:47:17",
