@@ -1,7 +1,31 @@
 {
   "date": "2026-08-12",
-  "count": 158,
+  "count": 161,
   "items": [
+    {
+      "id": "mkt:019ff1e3-7bda-7aab-8ff8-7ce5af61211d",
+      "time": "2026-08-12 01:34:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuelan government said it has reached an agreement with Israel to establish a coordination mechanism to provide consular services."
+    },
+    {
+      "id": "mkt:019ff1e2-56b9-7aab-8ff8-763744e53119",
+      "time": "2026-08-12 01:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News, citing sources, reports two more explosions struck Saudi mercenaries' positions in Marib, Yemen."
+    },
+    {
+      "id": "5036299",
+      "time": "2026-08-12 01:30:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "哥倫比亞財政部長：哥倫比亞不會透過增稅來應對財政危機。"
+    },
     {
       "id": "mkt:019ff1dd-e465-7aab-8ff8-69099a8914a5",
       "time": "2026-08-12 01:27:58",
