@@ -1,7 +1,39 @@
 {
   "date": "2026-08-11",
-  "count": 880,
+  "count": 884,
   "items": [
+    {
+      "id": "mkt:019feef6-efe4-7aab-8fe5-e21781060824",
+      "time": "2026-08-11 11:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Aixin Yuanzhi next‑gen high‑compute AI chip completes tape‑out; supports 2‑ and 4‑chip chaining for full‑performance edge large‑model inference】Aixin Yuanzhi said on its 2026 interim earnings call that its next‑generation high‑performance AI chip has completed tape‑out. The firm said compute specifications are materially higher, the design includes high‑bandwidth I/O and supports two‑chip or four‑chip cascading to enable full‑performance large‑model inference at the edge."
+    },
+    {
+      "id": "5034991",
+      "time": "2026-08-11 11:55:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【愛芯元智下一代大算力AI晶片完成流片，支援多芯級聯實現邊緣側滿血大模型推理】8月12日訊息，介面新聞從愛芯元智2026半年報業績電話會上瞭解到，公司下一代高效能大算力AI晶片已完成流片，算力規格大幅提升，同時配備高頻寬，並支援兩芯或四芯級聯，可實現滿血大模型在邊緣側高效能推理。"
+    },
+    {
+      "id": "5034989",
+      "time": "2026-08-11 11:53:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用汽車據悉計劃將印第安納州電池合資企業的股份出售給三星SDI】知情人士稱，通用汽車準備將在印第安納州擬建的一家35億美元電動汽車電池合資企業中的一半股份出售給合作伙伴三星SDI。三星SDI勢將收購佔地680英畝的土地，接管該合資企業，並擁有這家位於印第安納州新卡萊爾的電池製造廠。通用汽車原本希望在電動汽車需求不斷增長的時代，藉助這家工廠生產足夠的儲能產品。知情人士表示，暫不清楚三星SDI將如何處置該工廠。 三星SDI未立即回應置評請求。"
+    },
+    {
+      "id": "5034988",
+      "time": "2026-08-11 11:53:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙更新休達危機資料：約8萬移民湧入 】西班牙官員10日更新了前不久休達危機中的非法移民估算數量，從此前的7.2萬人上調至8萬人。據德新社報道，西班牙領土政策大臣安赫爾·維克托·託雷斯10日視察休達期間公佈了這一新資料。西班牙飛地休達位於直布羅陀海峽附近的北非地中海沿岸，與摩洛哥接壤。7月底至8月初，大量非法移民從摩洛哥偷渡到休達，引發近年來西班牙最嚴重的邊境移民危機。"
+    },
     {
       "id": "5034986",
       "time": "2026-08-11 11:51:09",
