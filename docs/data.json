@@ -1,7 +1,237 @@
 {
-  "updated": "2026-08-11 21:32:33",
-  "count": 15598,
+  "updated": "2026-08-11 21:37:09",
+  "count": 15604,
   "items": [
+    {
+      "id": "5036070",
+      "time": "2026-08-11 21:35:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股雲端計算服務商概念股盤初走高，Hut 8漲超7%，CoreWeave、NEBIUS、IREN漲近4%。"
+    },
+    {
+      "id": "5036069",
+      "time": "2026-08-11 21:35:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【新疆出臺法規護航棉花產業高質量發展】記者11日從新疆維吾爾自治區人大常委會新聞釋出會獲悉，針對棉花產業高質量發展制定的地方性法規《新疆維吾爾自治區棉花質量促進條例》已於7月1日正式施行。 新疆維吾爾自治區人大常委會副秘書長、新聞發言人麥麗燕·司馬義介紹，條例共六章37條，覆蓋棉花種植、採收、收購、加工、銷售、承儲全產業鏈的質量提升，將公證檢驗、目標價格政策、在庫公檢、全鏈條質量追溯等有效做法上升為法規制度，對於提升新疆棉花質量水平、帶動各族群眾增收致富、維護棉紡織產業鏈供應鏈安全穩定具有重大意義。 據悉，新疆是我國最大優質棉花生產基地，2025年新疆棉花產量佔全國產量的92.8%。（新華社）"
+    },
+    {
+      "id": "5036068",
+      "time": "2026-08-11 21:34:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "GETTY IMAGES股價重挫21%，此前公司撤回財年指引並公佈第二季業績。"
+    },
+    {
+      "id": "te:markets:574451",
+      "time": "2026-08-11 21:34:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Prices Fall on Tuesday — UK natural gas prices fell toward 143 pence a therm, as hopes for progress in US-Iran negotiations eased concerns over energy supplies. Pakistan’s Defense Minister Khawaja Asif said the two sides were “close to some sort of arrangement,” while talks between Iran and Oman over reopening the Strait of Hormuz were reportedly at an advanced stage. A deal could help restore LNG flows through the Persian Gulf and reduce pressure on European gas markets. Despite the optimism, Commerzbank raised its year-end European gas price forecast to €50/MWh from €45/MWh, while Uniper expects prices to remain around €50-€60/MWh as long as Hormuz remains closed. European storage levels recently fell to the lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Meanwhile, persistent European heatwaves are boosting power demand and adding further pressure to gas markets."
+    },
+    {
+      "id": "5036067",
+      "time": "2026-08-11 21:34:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：發動機失效，隨後發生機艙失壓，出現窗戶相關人員受傷情況 。"
+    },
+    {
+      "id": "te:economy:574450",
+      "time": "2026-08-11 21:34:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Kosovo Annual Inflation Rises in July — Kosovo's annual inflation rate rose to 6.5% in July 2026 from 6% in June. Upward price pressures were mainly due to accelerating growth in transport costs, surging 17.8% from 13.7% in the pior month, while inflation also increased for alcoholic beverages, tobacco and narcotics (5.3% vs 5.1%), restaurants and hotels (5.3% vs 4.5%), clothing and footwear (2.8% vs 2.3%) and recreation, sports and culture (2.3% vs 2%). Meanwhile, inflation stood at 11.1% for housing and utilities. In contrast, inflation slowed for food (2.7% vs 3.9%), furnishings (2.5% vs 3%) and health (4% vs 4.1%). On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.1% decline in the prior month."
+    },
+    {
+      "id": "mkt:019ff108-14a7-7aab-8ff3-7c9d77bd1ad7",
+      "time": "2026-08-11 21:34:26",
+      "tags": [
+        "MKT News",
+        "RYA.L",
+        "Impact bearish"
+      ],
+      "text": "U.S. National Transportation Safety Board (NTSB) said a Ryanair engine failure caused cabin depressurization."
+    },
+    {
+      "id": "5036066",
+      "time": "2026-08-11 21:34:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：瑞安航空航班發動機失效後發生機艙失壓。"
+    },
+    {
+      "id": "5036065",
+      "time": "2026-08-11 21:34:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "EVERPURE股價上漲6%，此前公司宣佈與一家超大規模企業達成供應協議。"
+    },
+    {
+      "id": "mkt:019ff107-3e6e-7aab-8ff3-7308801c8671",
+      "time": "2026-08-11 21:33:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Malaysia's defense minister said the country stands with Iran to help establish global peace and security."
+    },
+    {
+      "id": "5036064",
+      "time": "2026-08-11 21:33:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗天然氣日產能9月有望回升近1億立方米】伊朗石油部長穆赫辛·帕克內賈德11日說，伊朗正在修復因戰事受損的天然氣生產設施，按計劃9月底前其日產能可回升9500萬立方米。這個數量接近伊朗因戰事而損失的天然氣日產量的一半。隸屬於伊朗石油部的沙納通訊社援引帕克內賈德的話報道，伊朗將在9月底前恢復因南部阿薩盧耶天然氣處理設施遇襲而損失的約9500萬立方米天然氣日產能。據路透社報道，自美國和以色列2月底對伊朗發起軍事行動以來，伊朗天然氣日產量減少約2.3億立方米。帕克內賈德說，伊朗4座遇襲受損的天然氣處理設施重建工程正在迅速推進，廢墟已清理乾淨，重建承包商已經開工，預計將比計劃日程提前完工，完全恢復戰前產能。帕克內賈德7月表示，儘管美國取消對伊朗的石油制裁豁免並威脅海上封鎖，伊朗的石油出口未受影響，一切“照常”。帕克內賈德當時說，伊朗多年來發展出一套可以“抵消美國製裁影響”的國家機制，其石油出口“不會有問題”。英國《金融時報》先前報道，面對西方制裁，伊朗數十年來一直奉行“抵抗經濟”政策，鼓勵自力更生和本國生產，建立了獨立自主的國民經濟和國防產業，抗壓能力較強。一名伊朗前經濟官員認為，哪怕戰事持續一年，伊朗經濟仍能挺過難關。（新華社）"
+    },
+    {
+      "id": "te:markets:574449",
+      "time": "2026-08-11 21:33:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Natural Gas Prices Fall — European natural gas prices fell below €59 per megawatt-hour as hopes for progress in US-Iran negotiations eased concerns over energy supplies. Pakistan’s Defense Minister Khawaja Asif said the two sides were “close to some sort of arrangement,” while talks between Iran and Oman over reopening the Strait of Hormuz were reportedly at an advanced stage. A deal could help restore LNG flows through the Persian Gulf and reduce pressure on European gas markets. Despite the optimism, Commerzbank raised its year-end European gas price forecast to €50/MWh from €45/MWh, while Uniper expects prices to remain around €50-€60/MWh as long as Hormuz remains closed. European storage levels recently fell to the lowest seasonal levels in records going back to 2009, heightening concerns over winter supplies. Meanwhile, persistent European heatwaves are boosting power demand and adding further pressure to gas markets."
+    },
+    {
+      "id": "5036063",
+      "time": "2026-08-11 21:32:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "Gap股價下跌約4%，此前巴克萊將其評級下調至\"持股觀望\"。"
+    },
+    {
+      "id": "5036062",
+      "time": "2026-08-11 21:32:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國運輸部長達菲表示，正針對近期“海軍一號”直升機事件後被指出的電信問題研究解決方案。"
+    },
+    {
+      "id": "5036061",
+      "time": "2026-08-11 21:32:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數漲1%，報12117.63點。"
+    },
+    {
+      "id": "5036060",
+      "time": "2026-08-11 21:32:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2026年中國時尚零售與時尚消費TOP100釋出 泡泡瑪特、老鋪黃金首次躋身前十】8月11日，中國連鎖經營協會（CCFA）釋出\"2026年中國時尚零售與時尚消費TOP100\"（以下簡稱\"時尚TOP100\"）。根據企業提交資料及公開資料整理，2025年中國時尚零售與時尚消費TOP100企業營業收入合計約9163億元，同比增長10.1%，店鋪總數（可比精確口徑）同比下降4.5%，整體呈現營收較大幅度提升、店鋪數量穩步減少的良性轉變，該轉變是中國時尚零售與時尚消費頭部企業正從規模擴張的外延式增長方式，向運營能力增強、單店效率提高、供應鏈最佳化等內涵式增長轉變的階段性成果，同時也是企業在商品、服務及場景等全方位創新和質量提升的整體體現。頭部格局保持穩定，TOP10企業營收總額達4641億元，佔時尚TOP100總營收的50.6%。其中，黃金珠寶企業（5家）與運動戶外企業（3家）合計佔據八成，周大福、安踏、中國黃金連續兩年穩居前三。值得關注的是，泡泡瑪特和老鋪黃金憑藉強勁增長首次躋身前十，前者營收同比增長184.7%，後者增長221%。（北京商報）"
+    },
+    {
+      "id": "5036059",
+      "time": "2026-08-11 21:32:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "比特幣礦業公司Riot Platforms 開盤股價大漲 22%，為 7 月 30 日以來最大漲幅。"
+    },
+    {
+      "id": "mkt:019ff105-d18b-7aab-8ff3-6bc2500fed5c",
+      "time": "2026-08-11 21:31:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel shares fell 1.1% after the company said earlier it had expanded and priced a share offering."
+    },
+    {
+      "id": "5036058",
+      "time": "2026-08-11 21:31:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "英特爾股價下跌1.1%，此前該公司宣佈上調200億美元股票發售規模並定價。"
+    },
+    {
+      "id": "mkt:019ff105-7459-7aab-8ff3-65ae7a684b91",
+      "time": "2026-08-11 21:31:34",
+      "tags": [
+        "MKT News",
+        "RKLB.O",
+        "Impact bearish"
+      ],
+      "text": "Rocket Lab shares fell 3.9% after the company said the likelihood of a Neutron rocket maiden flight this year was diminishing and reported second-quarter results."
+    },
+    {
+      "id": "5036057",
+      "time": "2026-08-11 21:31:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，騰訊音樂跌16.97%，中進醫療跌7.36%，蔚來跌5.91%，嗶哩嗶哩跌4.84%，1藥網跌4.63%。"
+    },
+    {
+      "id": "5036056",
+      "time": "2026-08-11 21:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京老字號協會等多個行業協會聯合倡議：遏制“天價”月餅】中秋節臨近，8月11日，北京市商業聯合會聯合北京老字號協會等多家行業協會發布《關於遏制“天價”月餅、促進行業健康發展的倡議書》（以下簡稱“倡議書“），向月餅生產、銷售相關經營者及從業者發出倡議。在定價方面，倡議書倡導合理定價，盒裝月餅單價控制在500元以內，讓月餅迴歸傳統節日大眾食品本質，更好滿足大眾消費需求。在包裝方面，要求嚴格遵守關於食品包裝的強制性標準，不使用貴金屬、紅木等貴重材料，避免過度包裝，推廣環保、可迴圈的包裝材料，讓包裝回歸保護商品的本質功能。在銷售行為規範上，強調銷售盒裝月餅時，不以任何形式搭售其他商品，也不以禮盒等形式將月餅同其他產品混合銷售。同時，要規範月餅券、月餅卡發行兌付行為，嚴格遵守商務部《單用途商業預付卡管理辦法（試行）》及《北京市單用途預付卡管理條例》相關規定。對於平臺企業，倡議書要求電商平臺加強對入駐商戶的監督，對銷售單價超過500元的盒裝月餅和提供定製服務的平臺內經營者進行重點監督，引導商戶合規經營。"
+    },
+    {
+      "id": "5036055",
+      "time": "2026-08-11 21:31:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Venture Global股價下跌5.4%，此前該公司第二季度營收未達市場預期。"
+    },
+    {
+      "id": "mkt:019ff105-5900-7aab-8ff3-5ec9023d2f0b",
+      "time": "2026-08-11 21:31:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened higher Tuesday, Aug. 11: Dow Jones Industrial Average up 113.13 points, or 0.21%, at 54,089.11; S&P 500 up 9.24 points, or 0.12%, at 7,762.26; Nasdaq Composite up 61.57 points, or 0.23%, at 26,666.92."
+    },
+    {
+      "id": "5036054",
+      "time": "2026-08-11 21:31:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "海納集團（SEA Ltd）紐約交易時段上漲 13%，創 1 月以來新高。"
+    },
     {
       "id": "5036053",
       "time": "2026-08-11 21:31:01",
@@ -141895,181 +142125,6 @@
         "Brent"
       ],
       "text": "Chinese crude-related futures most-active contracts fell sharply. Shanghai crude (SC) down 4.04% at 515.3 yuan/bbl. Low-sulfur fuel oil (LU) down 3.26% at 4,488 yuan/ton. Fuel oil down 3.10% at 3,350 yuan/ton. Asphalt down 1.71% at 4,074 yuan/ton."
-    },
-    {
-      "id": "5024968",
-      "time": "2026-08-04 21:37:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：全球最大託管銀行紐約梅隆銀行（BNY MELLON）將推出加密貨幣質押業務。"
-    },
-    {
-      "id": "te:markets:572584",
-      "time": "2026-08-04 21:36:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 3"
-      ],
-      "text": "US Stocks Rise to Records — US stocks rose sharply on Tuesday amid an improving macroeconomic backdrop as key earnings will offer updates on the AI trade. The S&P 500 rose 0.5% and the Dow gained 650 points to new records, while the Nasdaq 100 added 1.4%. Fuel and natural gas prices fell after Qatar signaled progress toward a short-term deal between the US and Iran, limiting inflationary risks and driving benchmark yields to hold their pullback. Palantir soared over 15% after raising its forecasts on the back of strong commercial sales. Meanwhile, industrial bellwether Caterpillar gained nearly 10% after beating its earnings estimates. AI hypersaclers were mixed following their surge yesterday, which stretched the ongoing period of outperformance to AI infrastructure companies, reversing the trend from late in June. AMD and SpaceX were higher ahead of their earnings after the bell. The former will offer more updates on compute capacity demand by AI companies, and the latter trades 40% down from its record."
-    },
-    {
-      "id": "5024967",
-      "time": "2026-08-04 21:36:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥主要股指開盤後上漲超1%。"
-    },
-    {
-      "id": "5024966",
-      "time": "2026-08-04 21:36:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報59.91美元/盎司。"
-    },
-    {
-      "id": "te:markets:572583",
-      "time": "2026-08-04 21:36:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Netherlands",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "ING Stock Price Hits 25-year High — ING shares increased to 30.70 EUR, the highest since July 2001. Over the past 4 weeks, ING Group gained 6.77%, and in the last 12 months, it increased 56.18%."
-    },
-    {
-      "id": "5024965",
-      "time": "2026-08-04 21:36:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "Snap漲10%，第二季度營收超出預期。"
-    },
-    {
-      "id": "5024964",
-      "time": "2026-08-04 21:35:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江西省發展和改革委員會原黨組成員路文革嚴重違紀違法被開除黨籍和公職】江西省紀委監委8月4日通報，經江西省委批准，江西省紀委監委對省發展和改革委員會原黨組成員，省糧食和物資儲備局原黨組書記、局長路文革嚴重違紀違法問題進行了立案審查調查。（新華社）"
-    },
-    {
-      "id": "mkt:019fccfc-f64f-7aab-8f71-89e7bedd9867",
-      "time": "2026-08-04 21:35:57",
-      "tags": [
-        "MKT News",
-        "SNAP.N",
-        "Impact bullish"
-      ],
-      "text": "Snap (SNAP.N) shares rose 10% after second-quarter revenue beat expectations."
-    },
-    {
-      "id": "mkt:019fccfc-75db-7aab-8f71-84117ef1256e",
-      "time": "2026-08-04 21:35:25",
-      "tags": [
-        "MKT News",
-        "DD.N",
-        "Impact bearish"
-      ],
-      "text": "DuPont (DD.N) fell 4.2% after cutting its full-year sales forecast."
-    },
-    {
-      "id": "5024963",
-      "time": "2026-08-04 21:35:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "杜邦股價下跌4.2%，此前該公司下調了年度銷售預期。"
-    },
-    {
-      "id": "5024962",
-      "time": "2026-08-04 21:34:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【分析師：油價表現或側面證實霍爾木茲海峽重開訊息】Investinglive的分析師Adam Button表示，他傾向於相信此前媒體報道的關於霍爾木茲海峽全面重新開放的安排，將在數小時內或明天宣佈的訊息，哪怕這僅僅是因為過去兩天油價下跌的幅度之大。油價走勢確實像是“有人提前知道了某些訊息”，因為這次跌幅已經超過了通常所謂的“TACO”行情。但他關注的問題在於，鑑於迄今為止各方表現，任何可能的“協議”都難以被視為持久的。"
-    },
-    {
-      "id": "5024961",
-      "time": "2026-08-04 21:34:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "土耳其主要股指伊斯坦布林100指數上漲1.6%，主要銀行股指數上漲2%。"
-    },
-    {
-      "id": "5024960",
-      "time": "2026-08-04 21:34:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數開盤上漲1.5%。"
-    },
-    {
-      "id": "5024959",
-      "time": "2026-08-04 21:33:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬斯克將迎SpaceX上市首個財報拷問 火箭、星鏈、太空資料中心前景成焦點】埃隆・馬斯克旗下太空企業SpaceX登陸資本市場後首度釋出季報，投資者將於週二獲得向馬斯克提問的機會。 SpaceX股價較6月高點已經腰斬。投資者擔憂，馬斯克此前向市場描繪的未來前景或許過於樂觀。本週晚些時候，部分內部人士股票限售期（鎖定期）即將到期、獲得拋售股票資格，市場正為此做好股價劇烈波動的心理準備。 馬斯克兼具遠見工程師與股票推介者的雙重身份，投資者大機率會向他追問一系列問題：NASA計劃藉助巨型星艦火箭實現載人重返月球，該火箭測試何時收官；星鏈衛星網路後續規劃；以及將足球場大小的資料中心送入軌道專案的前景。 市場一直流傳SpaceX或將與馬斯克旗下車企特斯拉合併的傳聞，馬斯克可能被問及相關整合事宜，但預計很難披露實質資訊。兩家公司均未證實合併計劃，馬斯克此前也曾迴避相關提問，表示證券法限制他對此展開討論。"
-    },
-    {
-      "id": "mkt:019fccfa-da67-7aab-8f71-7f322ae434e2",
-      "time": "2026-08-04 21:33:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "PHLX semiconductor index (SOX) opened 4.4% higher."
-    },
-    {
-      "id": "5024958",
-      "time": "2026-08-04 21:33:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "安森美半導體股價上漲3%，此前該公司公佈第三季度營收預期高於市場預估。"
-    },
-    {
-      "id": "5024957",
-      "time": "2026-08-04 21:33:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "麥當勞二季度利潤超預期，股價上漲2%。"
-    },
-    {
-      "id": "5024956",
-      "time": "2026-08-04 21:33:15",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通將耐克評級下調至“減持”後，耐克股價下跌3%。"
-    },
-    {
-      "id": "5024955",
-      "time": "2026-08-04 21:33:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報5786.00元。"
     }
   ]
 }
