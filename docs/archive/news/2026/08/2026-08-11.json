@@ -1,7 +1,120 @@
 {
   "date": "2026-08-11",
-  "count": 1232,
+  "count": 1244,
   "items": [
+    {
+      "id": "mkt:019fef8e-b2c9-7aab-8fea-1c5c48a89c86",
+      "time": "2026-08-11 14:42:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Vanguard analyst expects US July CPI YoY +3.3%; housing stabilization to help rein in inflation】Vanguard analyst Hicklin expects US July headline CPI +0.1% MoM, +3.3% YoY. The print should be relatively mild as oil declines and stabilization in core goods and housing weigh on inflation. Core goods inflation is expected to be flat and remains on a multi-year disinflationary path after prior volatile re-pricing; stable housing should help keep core inflation lower. By contrast, wage-driven persistence is keeping ‘supercore’ inflation (core services ex-housing) stubborn: that category was flat MoM in June but still +3.2% YoY. Hicklin warns upside price pressure persists — especially with wages growing ~3.5% despite high productivity — and he sees no sign yet of a material easing in core services inflation’s trajectory."
+    },
+    {
+      "id": "mkt:019fef8e-997a-7aab-8fea-1012b08552bf",
+      "time": "2026-08-11 14:42:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said that throughout much of history the Caspian Sea has served more as a bridge between countries than as a means of division."
+    },
+    {
+      "id": "mkt:019fef8e-612a-7aab-8fea-0f9337e8824b",
+      "time": "2026-08-11 14:41:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian deputy foreign minister said the Caspian Sea has long been more than a body of water for Iran and other littoral states; it has been integral to regional geography, national identity and interstate relations, and has helped shape ties among regional ethnic groups."
+    },
+    {
+      "id": "mkt:019fef8e-21ea-7aab-8fea-035503573465",
+      "time": "2026-08-11 14:41:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said today marks 23 years since five Caspian littoral states signed the Framework Convention for the Protection of the Marine Environment of the Caspian Sea, and the convention has been in force for 20 years."
+    },
+    {
+      "id": "mkt:019fef8e-1324-7aab-8fe9-fd9930795c60",
+      "time": "2026-08-11 14:41:33",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "【Intel expands common stock offering to $20 bln】Intel priced a registered common stock offering at $95 per share, selling 210.0 million shares. Underwriters have a 30-day option to purchase up to 31,578,947 additional shares. The deal size was increased from $15.0 billion to $20.0 billion and is expected to settle on Aug. 12, subject to customary closing conditions. Net proceeds are expected to be about $19.7 billion assuming the option is not exercised."
+    },
+    {
+      "id": "mkt:019fef8d-f141-7aab-8fe9-f4f809bec7cb",
+      "time": "2026-08-11 14:41:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UBS: El Niño risk could become the next key driver for agricultural commodities】UBS warns El Niño risk could replace demand as the primary driver for agricultural commodities. UBS cites forecasts that the current El Niño has an 81% chance of reaching strong or very-strong intensity by year-end and a 97% probability of persisting into next year. If El Niño strengthens, key producing regions could see more extreme rainfall, drought or temperature swings, raising supply-side uncertainty. UBS flags potential upside for agricultural commodity prices as weather reasserts dominance over the supply-demand balance."
+    },
+    {
+      "id": "5035194",
+      "time": "2026-08-11 14:41:13",
+      "tags": [
+        "行業",
+        "觀點",
+        "其他"
+      ],
+      "text": "【國聯民生：人形機器人產業正進入“規模製造提速、場景持續拓展、具身智慧升級”三重驅動階段】國聯民生研報表示，人形機器人產業正進入“規模製造提速、場景持續拓展、具身智慧升級”三重驅動階段。近期板塊大幅回撥釋放前期估值壓力，但產業端商業化推進、資本加碼與產品迭代仍在加速，基本面與股價短期背離，建議把握回撥帶來的中長期配置視窗。"
+    },
+    {
+      "id": "mkt:019fef8d-2a94-7aab-8fe9-edbea3d23af4",
+      "time": "2026-08-11 14:40:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said Caspian Sea security should not become a theater for competition or intervention by extra-regional powers."
+    },
+    {
+      "id": "te:economy:574323",
+      "time": "2026-08-11 14:40:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Nears 7-Month High — The yield on the US 10-year Treasury note rose above 4.7% on Tuesday, moving closer to its highest level since January as surging oil prices strengthened expectations that the Federal Reserve could raise interest rates. The move came amid continued uncertainty over efforts by the US and Iran to reach an agreement to end the war and reopen the Strait of Hormuz. After Tehran called for financial compensation over damages suffered during the conflict, Trump said he had directed US representatives to insist on compensation from Iran in any future negotiations, further complicating diplomatic efforts. Meanwhile, investors awaited key US inflation data due this week for additional guidance on the monetary policy outlook. Markets are now pricing in around a 51% probability of a 25 basis point Fed rate hike in September, up from 44% a day earlier. Cleveland Fed President Beth Hammack said multiple rate increases could be necessary to bring inflation back to the central bank’s 2% target."
+    },
+    {
+      "id": "mkt:019fef8b-7644-7aab-8fe9-e1e5e0217e3c",
+      "time": "2026-08-11 14:38:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Reserve Bank of India urges banks to accelerate AI adoption, warns of risks】Reserve Bank of India Governor Sanjay Malhotra said on Tuesday Indian banks should speed AI deployment via technology and infrastructure investment and staff upskilling. He warned wider AI use brings risks — model bias, opaque decision-making, data-privacy and cybersecurity threats — and said reliance on a small set of AI models or vendors could expose the banking system to correlated errors; banks should be cautious when depending on external suppliers."
+    },
+    {
+      "id": "5035193",
+      "time": "2026-08-11 14:38:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報2618.00元。"
+    },
+    {
+      "id": "5035192",
+      "time": "2026-08-11 14:38:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破89美元/桶，日內漲1.46%。"
+    },
     {
       "id": "mkt:019fef8a-4c59-7aab-8fe9-db676be07567",
       "time": "2026-08-11 14:37:25",
