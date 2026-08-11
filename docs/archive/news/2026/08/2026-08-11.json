@@ -1,7 +1,91 @@
 {
   "date": "2026-08-11",
-  "count": 2563,
+  "count": 2572,
   "items": [
+    {
+      "id": "5036126",
+      "time": "2026-08-11 22:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪2027款海豹06正式上市，提供DM-i和EV純電兩種動力版本選擇，售價為9.99萬至15.59萬元。"
+    },
+    {
+      "id": "mkt:019ff12b-7511-7aab-8ff4-a82baedf319a",
+      "time": "2026-08-11 22:13:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zonghuixin Photonics to build high-end optical-communications chip and device R&D and manufacturing base in Changzhou】On Aug 11 Zonghuixin Photonics signed an agreement to establish a high-end optical-communications chip and device R&D and manufacturing base in Changzhou. The project includes total committed investment of about 5 bln yuan and will prioritize R&D and mass-production lines for indium phosphide high-end laser chips to promote domestic localization of core optical-communications chips."
+    },
+    {
+      "id": "5036125",
+      "time": "2026-08-11 22:12:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【縱慧芯光高階光通訊晶片及器件研發製造基地落戶常州】8月11日上午，縱慧芯光高階光通訊晶片及器件研發製造基地簽約落戶常州。本次簽約專案持續投入總計約50億元，將重點建設磷化銦高階鐳射晶片研發及量產產線，助推國內光通訊核心晶片的國產化程序。（常州釋出）"
+    },
+    {
+      "id": "5036124",
+      "time": "2026-08-11 22:12:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【睫毛膠水問題曝光後，山東平度成立聯合調查組】平度市市場監督管理局辦公室主任張明法表示，針對8月7日總檯報道的假睫毛膠水產品質量問題，平度市第一時間成立聯合調查組，對涉事企業開展全面核查，重點核查產品配方備案、原料採購、生產工藝等情況，調查工作正在有序推進，目前已要求對存在風險隱患的膠水停止分裝、使用。平度市市場監督管理局表示，下一步將部署開展全行業專項整治，進一步規範睫毛製品生產經營行為。引導相關龍頭企業聯合行業協會、檢測機構，共同參與制定睫毛膠水相關團體標準或行業規範，推動這一產業向規範化、標準化發展。（澎湃）"
+    },
+    {
+      "id": "5036123",
+      "time": "2026-08-11 22:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西CNT/MDA 民調：盧拉政府支援率 35.3%，不支援率 36.2%。"
+    },
+    {
+      "id": "mkt:019ff129-d122-7aab-8ff4-a04fdd0cbedc",
+      "time": "2026-08-11 22:11:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump: We can deploy \"powerful force\" to strike Iran】U.S. President Trump said Iran's inflation is about 300% and its currency is worthless, that Iranians are not paying their soldiers' salaries and the U.S. \"completely controls\" Iran's funds. He said the U.S. can deploy \"powerful force\" against Iran and that there is no shortage of missile ammunition."
+    },
+    {
+      "id": "5036122",
+      "time": "2026-08-11 22:10:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽旗下人形機器人公司慧侖科技完成億元融資】據廣汽集團訊息，近日，廣汽集團孵化的人形機器人公司廣東慧侖科技有限公司（簡稱“慧侖科技”）宣佈完成超億元融資，由中車國創基金、招銀國際、四川科創等機構聯合投資。慧侖科技本輪融資所得資金將投入垂類模型持續最佳化、汽車產線與綜合服務場景拓展、核心硬體產品迭代以及高階人才梯隊建設，全力推動人形機器人整機與核心零部件規模化商用。"
+    },
+    {
+      "id": "5036121",
+      "time": "2026-08-11 22:10:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯1-7月預算赤字擴大至6.455萬億盧布。"
+    },
+    {
+      "id": "te:economy:574459",
+      "time": "2026-08-11 22:10:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10-Year Gilt Yield Falls Below 5% — The UK 10-year gilt yield fell to around 4.95% as renewed hopes for a deal to reopen the Strait of Hormuz pushed oil prices lower, easing concerns over inflation. Crude declined after Pakistan signaled that the US and Iran were “close to some sort of arrangement” aimed at reducing tensions and restoring shipping through the strategic waterway. The comments offered a more positive assessment after President Donald Trump had toughened his stance toward Tehran, demanding reparations for deaths linked to Iran and domestic protests. Meanwhile, the Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying the disinflation process remained on track despite external risks. Recent BRC data showed UK retail sales increased 1.3% year-on-year in July, below the 12-month average, suggesting subdued consumer activity, while Barclays data showed household spending rose 2%, its strongest growth of the year."
+    },
     {
       "id": "mkt:019ff128-af6e-7aab-8ff4-9b4fa42a3715",
       "time": "2026-08-11 22:10:03",
