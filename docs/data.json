@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-11 08:37:38",
-  "count": 15824,
+  "updated": "2026-08-11 08:41:34",
+  "count": 15823,
   "items": [
+    {
+      "id": "5034752",
+      "time": "2026-08-11 08:40:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡貿工部：全球能源價格受石油庫存減少及替代能源轉換所限制。"
+    },
+    {
+      "id": "5034751",
+      "time": "2026-08-11 08:40:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡貿易官員：預計美國對新加坡出口商品徵收12.5%關稅不會產生貿易影響。"
+    },
+    {
+      "id": "mkt:019fee42-b29b-7aab-8fe2-7ab408c59150",
+      "time": "2026-08-11 08:39:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's Ministry of Trade and Industry said the Middle East conflict's impact on the economy is smaller than initially expected."
+    },
+    {
+      "id": "5034750",
+      "time": "2026-08-11 08:39:33",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "今年以來，東證銀行股指數累計上漲超過40%，而東證指數整體漲幅約為20%。三菱日聯金融集團近期市值躍居日本第一，超越豐田汽車和鎧俠控股。"
+    },
+    {
+      "id": "5034749",
+      "time": "2026-08-11 08:37:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【AI熱潮遭遇波折之際 亞洲銀行股迎來重估行情】在人工智慧(AI)交易波動加劇之際，亞洲銀行股正迎來數十年來最強勁的上漲行情之一，而隨著投資者轉向相對穩健的投資標的，這一趨勢可能仍將持續。除了避開日益擁擠的AI交易之外，這類防禦性股票還能夠在通脹居高不下和地緣政治不確定性持續的環境下提供一定韌性。MSCI亞太金融指數7月上漲8.6%，創下相對於資訊科技指數的歷史最佳月度表現。與此同時，香港金融股指數錄得近四年來最佳單月表現；在日本，銀行股指數今年漲幅已達到基準東證指數的兩倍。亞洲的這一趨勢也與美國市場形成呼應。標普500金融板塊指數今年已多次重新整理歷史高點。“我們仍然看好亞洲地區金融股，”美國銀行亞太區股票策略主管Winnie Wu表示。“未來回報將越來越依賴資本回報和盈利增長。”"
+    },
+    {
+      "id": "mkt:019fee40-d2b8-7aab-8fe2-743ce9c3677d",
+      "time": "2026-08-11 08:37:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kioxia says Bain-linked BCPE Pangea Cayman2 becomes largest shareholder; SK Hynix holds convertible voting-rights stake】Kioxia said on Tuesday that as of Aug. 3 former parent Toshiba cut its stake from 14.48% to about 14.12%, making BCPE Pangea Cayman2, set up by Bain Capital, the largest shareholder with a 14.19% holding. Kioxia’s annual report shows SK Hynix holds bonds convertible into “almost all” of BCPE Pangea Cayman2’s voting rights; the company flagged SK Hynix’s claim as a risk that could create conflicts of interest. SK Hynix participated in the 2018 Bain-led buyout and agreed under the deal not to exceed 15% of Kioxia’s voting rights without Kioxia’s consent before 2028."
+    },
     {
       "id": "5034748",
       "time": "2026-08-11 08:35:28",
@@ -143965,67 +144016,6 @@
         "公司"
       ],
       "text": "【抖音成立科技租賃公司 含供應鏈管理業務】企查查APP顯示，近日，天津鷗鷺科技租賃有限公司成立，經營範圍包含供應鏈管理服務；電子元器件零售；電子元器件批發；日用品銷售等。企查查股權穿透顯示，該公司由抖音集團（香港）有限公司間接全資持股。"
-    },
-    {
-      "id": "5023376",
-      "time": "2026-08-04 08:41:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌超過1%，一度跌至63102.02點。"
-    },
-    {
-      "id": "5023375",
-      "time": "2026-08-04 08:40:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率下跌1.0個基點至1.550%。"
-    },
-    {
-      "id": "mkt:019fca37-3b31-7aab-8f60-8f28780e488d",
-      "time": "2026-08-04 08:40:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Nikkei 225 fell 1.00% intraday."
-    },
-    {
-      "id": "mkt:019fca36-b598-7aab-8f60-84828a453cba",
-      "time": "2026-08-04 08:40:10",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Merchant vessel attacked near Strait of Hormuz】UK Maritime Trade Operations said a merchant vessel was attacked on the 3rd about 20 nm northeast of Seeb, Oman in the Gulf of Oman, near the eastern entrance to the Strait of Hormuz. UKMTO said it received a military report at 22:00 UTC on the 3rd (06:00 Beijing time on the 4th). The vessel reported via VHF that it had been struck by an unidentified projectile."
-    },
-    {
-      "id": "5023374",
-      "time": "2026-08-04 08:39:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工業和資訊化部召開光伏行業座談會進一步解讀宣貫光伏元件強制性國家標準】7月30日，工業和資訊化部電子資訊司組織召開光伏行業座談會，圍繞近期釋出的《光伏元件安全要求》《光伏元件銘牌標識要求》《晶體矽光伏元件和逆變器能效限定值及能效等級》等三項強制性國家標準開展集中答疑，回應行業關切，部署下一步重點工作。會議邀請了光伏製造企業、檢測機構、標準化機構、計量機構等單位參會，圍繞標準條款解讀、檢測方法統一、計量溯源要求等方面進行了深入交流。標準起草組專家對企業普遍關注的重點難點問題進行了逐一回應和系統解答，幫助企業準確把握標準核心要義，消除理解偏差，確保標準落地執行不走樣。下一步，工業和資訊化部電子資訊司將會同相關部門進一步加大強制性國家標準的宣貫實施力度，組織開展多形式、多層次的標準宣貫培訓，推動標準要求全面落地見效。同時，將持續完善光伏行業標準體系，圍繞新技術、新產品、新場景加快標準制修訂，以高標準引領產業高質量發展，為建設製造強國、推動能源綠色低碳轉型提供有力支撐。(工信部)"
-    },
-    {
-      "id": "5023373",
-      "time": "2026-08-04 08:39:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【霍爾木茲海峽附近貨船遭襲 】英國海上貿易行動辦公室3日晚通報說，一艘貨船當天在阿曼海塞卜東北約20海里處海域遭遇襲擊。通報顯示，事發地點位於霍爾木茲海峽東入口附近海域。英國海上貿易行動辦公室於協調世界時3日22時（北京時間4日6時）收到軍方報告。涉事貨船透過甚高頻無線電報告稱，船隻被不明發射物擊中。英國海上貿易行動辦公室近日通報多起襲船事件，多發生在靠近阿曼一側的航道。該機構建議過往船隻提高警惕、謹慎航行，及時報告任何可疑活動。"
-    },
-    {
-      "id": "5023372",
-      "time": "2026-08-04 08:38:35",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【華龍一號2.0版示範專案獲國家核准】記者7月31日從中國核動力研究設計院獲悉，當天召開的國務院常務會議決定核准浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期、山東萊陽核電一期4個核電專案共8臺機組。其中，浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期的6臺機組採用華龍一號核電技術。浙江金七門核電二期、廣東太平嶺核電三期被明確為華龍一號2.0版示範專案。 華龍一號是我國具有完全自主智慧財產權的百萬千瓦級三代壓水堆核電技術，被譽為“國家名片”。 華龍一號具有鮮明的“四川基因”。其核島主要裝置由位於成都的中國核動力研究設計院研發設計。該院還自主研製了“龍鱗”安全級DCS系統、棒控棒位系統等核心儀控裝置，在漳州核電基地首次實現規模化應用，為華龍一號打造出完全自主可控的“神經中樞”。CF核燃料打通了從源頭創新到產業落地的全鏈條，構建起核燃料自主化完整產業生態，實現了成都研發設計與宜賓生產製造聯動。（四川日報）"
     }
   ]
 }
