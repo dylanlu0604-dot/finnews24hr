@@ -1,7 +1,118 @@
 {
   "date": "2026-08-12",
-  "count": 133,
+  "count": 143,
   "items": [
+    {
+      "id": "5036289",
+      "time": "2026-08-12 01:05:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國三年期國債收益率在三年期國債標售過後縮小跌幅；最新報4.289%，較前值下跌1.6個基點。"
+    },
+    {
+      "id": "mkt:019ff1c9-1221-7aab-8ff8-3f1f2400f78d",
+      "time": "2026-08-12 01:05:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US three-year Treasury yield trimmed losses after a three-year note auction, falling 1.6 bps to 4.289%."
+    },
+    {
+      "id": "5036288",
+      "time": "2026-08-12 01:05:06",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【巴克萊：美債對價格敏感型買家的依賴顯著上升 料使收益率維持高位】巴克萊表示，美國國債買家結構正在轉向更注重價值的共同基金、家庭和其他私人投資者，這一變化幫助推動30年期美債收益率升至數十年來高位。策略師Demi Hu和Anshul Pradan在一份報告中寫道，只要通脹持續存在，這些買家就會要求越來越高的補償，才願意持有長期債券。兩位策略師表示：“美國國債的買家基礎已經發生變化。”自2022年美聯儲開始縮減持倉以來，外國央行和美聯儲等官方部門的需求持續減弱，使得“私人投資者成為吸收新增供應的邊際買家”。"
+    },
+    {
+      "id": "mkt:019ff1c7-a94c-7aab-8ff8-325abc829c3f",
+      "time": "2026-08-12 01:03:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 3-year Treasury auction on Aug. 11: share of awards at the stop-out yield 18.31% vs 2.17% previously."
+    },
+    {
+      "id": "mkt:019ff1c7-899c-7aab-8ff8-2abba39d27eb",
+      "time": "2026-08-12 01:03:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction Accepted at High (Aug.11) | actual 18.31% | previous 2.17%"
+    },
+    {
+      "id": "mkt:019ff1c7-65be-7aab-8ff8-25828c14853d",
+      "time": "2026-08-12 01:03:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 3-year Treasury auction on Aug. 11 — awarded yield 4.291%, up from 4.18% at the prior auction."
+    },
+    {
+      "id": "mkt:019ff1c7-4c17-7aab-8ff8-1e983027f1b7",
+      "time": "2026-08-12 01:03:17",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction High Yield Rate (Aug.11) | actual 4.291% | previous 4.18%"
+    },
+    {
+      "id": "mkt:019ff1c7-0019-7aab-8ff8-17d07c56051c",
+      "time": "2026-08-12 01:02:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 3-year Treasury auction on Aug 11 posted a bid-cover ratio of 2.71, versus 2.6 previously."
+    },
+    {
+      "id": "mkt:019ff1c6-dabc-7aab-8ff8-09b1d78ac150",
+      "time": "2026-08-12 01:02:48",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Year Note Auction Bid/Cover Ratio (Aug.11) | actual 2.71 | previous 2.6"
+    },
+    {
+      "id": "5036287",
+      "time": "2026-08-12 01:02:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國3年期國債中標收益率4.291%，發行前虛盤交易收益率為4.296%。"
+    },
     {
       "id": "5036286",
       "time": "2026-08-12 01:02:23",
