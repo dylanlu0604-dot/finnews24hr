@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-12 07:52:45",
-  "count": 15461,
+  "updated": "2026-08-12 07:56:32",
+  "count": 15452,
   "items": [
+    {
+      "id": "mkt:019ff341-4094-7aab-8ffc-37acacda5e1c",
+      "time": "2026-08-12 07:56:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan broad money (M2) YoY July 4.4% vs 4.5% prior."
+    },
+    {
+      "id": "mkt:019ff341-2a03-7aab-8ffc-295f109dcea6",
+      "time": "2026-08-12 07:56:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%"
+    },
+    {
+      "id": "mkt:019ff340-17d7-7aab-8ffc-2358a50e0206",
+      "time": "2026-08-12 07:54:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen."
+    },
+    {
+      "id": "5036495",
+      "time": "2026-08-12 07:54:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍2025年對葉門的打擊致數百平民傷亡 】據美國《華爾街日報》11日報道，美國國防部內部調查顯示，美軍2025年對葉門發動的一系列打擊行動造成數百名平民傷亡。報道說，五角大樓當天向美國國會提交了一份長達12頁的非機密評估報告，概述了五角大樓對美軍2025年在全球所有軍事行動中造成平民傷亡情況的評估。負責中東地區美軍行動的美軍中央司令部在報告中認定，美軍2025年4月對葉門進行的3次大規模打擊行動共造成平民153人死亡和243人受傷。報告同時說，中央司令部正在審查針對胡塞武裝行動期間可能導致平民傷亡的另外15起事件。報道稱，這份報告標誌著特朗普政府首次正式承認其空襲葉門胡塞武裝的行動所造成的平民傷亡規模。"
+    },
+    {
+      "id": "5036494",
+      "time": "2026-08-12 07:53:20",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "【機構普遍認為逆回購“零操作”不改變流動性合理充裕格局 超長債或進入高波動階段】中國央行8月11日未開展7天期逆回購操作，受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。展望後市，機構普遍認為，逆回購“零操作”不會改變下半年流動性合理充裕的總體環境。東方金誠首席宏觀分析師王青表示，此次“零操作”主要反映出金融機構申報需求不足，並非央行主動收緊流動性。 王青預計，隨著稅期來臨和政府債券發行節奏加快，金融機構融資需求將逐步回升，央行也將恢復7天期逆回購操作。8月末資金需求增加時，隔夜逆回購可能更多發揮調節作用。對於超長債，浙商銀行固定收益團隊認為，收益率下行趨勢尚未遭到破壞，收益率曲線仍有進一步壓平的空間。但短端收益率下行放緩，意味著資金價格下限逐漸清晰，長短端同步走強的空間已經收窄。（上證報）"
+    },
+    {
+      "id": "mkt:019ff33d-f1e3-7aab-8ffc-1ca2bae39371",
+      "time": "2026-08-12 07:52:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan July M3 money supply YoY 1.4% (prior 1.5%)."
+    },
+    {
+      "id": "mkt:019ff33d-d820-7aab-8ffc-122ee4f34772",
+      "time": "2026-08-12 07:52:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M3 Money Supply (YoY) (Jul) | actual 1.4% | previous 1.50%"
+    },
     {
       "id": "mkt:019ff33d-d1cb-7aab-8ffc-0c51525dee48",
       "time": "2026-08-12 07:52:22",
@@ -9,6 +76,16 @@
         "MKT News"
       ],
       "text": "Japan M2 money supply YoY +2.2% in July; prior +2.20%."
+    },
+    {
+      "id": "5036493",
+      "time": "2026-08-12 07:52:19",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【華西證券：金價有望企穩回升，關注黃金飾品板塊修復機會】華西證券研報表示，短期金價反彈由預期修正與情緒驅動，但中長期支撐邏輯依然穩固——央行購金潮、去美元化趨勢及美債實際利率高位回落預期構成金價\"底線支撐\"，渣打銀行預計金價有望重新向5000美元關口邁進。金價企穩回升有望逐步修復黃金飾品板塊基本面與估值：上半年金價劇烈波動導致Q2國內金飾需求僅50噸（同比-28%），消費者\"買漲不買跌\"心態抑制終端動銷，相關龍頭公司Q2不同程度終端需求受到壓制，但隨著金價反彈企穩，預期前期被壓制的消費需求有望逐步釋放，看好龍頭公司下半年業績企穩回升，建議重點關注龍頭個股股價修復行情。"
     },
     {
       "id": "mkt:019ff33d-baa3-7aab-8ffc-037d02e20c45",
@@ -41,6 +118,15 @@
         "國際"
       ],
       "text": "5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608123838460672",
+      "time": "2026-08-12 07:51:12",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月M2貨幣供應同比增長2.2%。"
     },
     {
       "id": "em:jjsj_mgsj:202608123838315231",
@@ -140732,180 +140818,6 @@
         "國際"
       ],
       "text": "日本央行多數委員：潛在通脹存在上行風險。"
-    },
-    {
-      "id": "5025538",
-      "time": "2026-08-05 07:56:05",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：機器人行業正從主題定價轉向量產與需求驗證定價】華泰證券研報表示，上週智駕與機器人板塊超跌反彈，但7月份仍分別下跌12.61%、10.91%，華泰證券認為近期上漲以估值修復與資金輪動為主。機器人領域，行業正從主題定價轉向量產與需求驗證定價，建議觀察國產鏈與特斯拉鍊兩條主線——國產鏈短期以宇樹上市為催化，特斯拉鍊則跟蹤Optimus投產與展示效果，當前量產時點臨近而市場預期偏低。智駕領域，近期Robotaxi右舵市場破冰，政策端中美同步提速，NHTSA加速推動Robotaxi商業化，國內強制性國標進入執行準備階段、吉利與比亞迪、奇瑞三家首批透過體系認證。L2智駕標的前期跌幅較大，有望隨行業β預期改善觸底反彈。"
-    },
-    {
-      "id": "mkt:019fcf34-b47f-7aab-8f79-dbaef0a73387",
-      "time": "2026-08-05 07:56:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes show one member said the central bank must raise policy rates at a pace of roughly once every few months."
-    },
-    {
-      "id": "5025537",
-      "time": "2026-08-05 07:55:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名成員表示，日本央行必須以大約每數月一次的節奏加息。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608053831789564",
-      "time": "2026-08-05 07:55:53",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行成員一致認為日本央行繼續加息是合適的】日本央行6月會議紀要顯示，成員一致認為日本央行繼續加息是合適的。多數委員認為經濟正按照基準情景執行，但基礎通脹存在可能超過日本央行2%目標的風險。"
-    },
-    {
-      "id": "mkt:019fcf34-1c43-7aab-8f79-d445884c46d5",
-      "time": "2026-08-05 07:55:26",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan minutes: some members said the central bank must maintain policy guidance and would continue raising rates if economic and price developments align with its projections."
-    },
-    {
-      "id": "mkt:019fcf34-0ee8-7aab-8f79-c9ee4ba031ea",
-      "time": "2026-08-05 07:55:23",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: one member said moving the policy rate closer to a neutral level would help secure long-term economic and price stability."
-    },
-    {
-      "id": "mkt:019fcf33-f943-7aab-8f79-c2ba446e3ced",
-      "time": "2026-08-05 07:55:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan minutes: members unanimously judged further rate increases appropriate."
-    },
-    {
-      "id": "5025536",
-      "time": "2026-08-05 07:55:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：數位委員表示，日本央行必須維持當前指引，即若經濟和物價走勢符合央行預期，日本央行將繼續加息。"
-    },
-    {
-      "id": "mkt:019fcf33-9b13-7aab-8f79-b8b8d89c3fd4",
-      "time": "2026-08-05 07:54:53",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: most members said the economy is evolving broadly in line with the baseline scenario, but core inflation could exceed the BOJ's 2% target."
-    },
-    {
-      "id": "mkt:019fcf33-9801-7aab-8f79-b4b69ec86661",
-      "time": "2026-08-05 07:54:52",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Bank of Japan minutes: a member said Japan's real rates are unusually low by global standards and, given upside inflation risks, need to be adjusted."
-    },
-    {
-      "id": "mkt:019fcf33-6b13-7aab-8f79-ae34d5415940",
-      "time": "2026-08-05 07:54:41",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Bank of Japan June minutes: one member said exchange-rate movements are pushing up import prices and weighing on small firms."
-    },
-    {
-      "id": "5025535",
-      "time": "2026-08-05 07:54:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：成員一致認為日本央行應繼續加息，這一做法是適當的。"
-    },
-    {
-      "id": "5025534",
-      "time": "2026-08-05 07:54:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名成員表示，將日本央行政策利率調至更接近中性水平，將有助於長期實現經濟與物價穩定。"
-    },
-    {
-      "id": "5025533",
-      "time": "2026-08-05 07:53:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球最小GPU透過實測：24萬電晶體TinyGPU v2.0已可渲染3D圖形】8月5日訊息，業餘ASIC/FPGA設計師Pongsagon Vichit開發的全球最小GPU晶片——TinyGPU v2.0已成功透過實測。該晶片依託Tiny Tapeout社群的SKY 25b工藝製造，內部包含約24萬個電晶體。在實際測試中，它能夠處理高達1000個多邊形或三角形的平滑著色、背面剔除以及仿射紋理對映等計算，併成功實時渲染出3D模型及旋轉的地球模型，執行幀率維持在7.5至15 FPS。TinyGPU v3.0預計將於2026年12月推出。v3.0版本最大的技術亮點是引入了受DirectX 8 PS 1.1啟發的可程式設計畫素著色器，支援SIMD 4畫素平行計算及26種指令集，這將帶來顯著的畫質與細節表現提升。"
-    },
-    {
-      "id": "5025532",
-      "time": "2026-08-05 07:53:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名成員表示，按全球標準衡量，日本實際利率處於極低水平，考慮到通脹上行風險，必須對利率進行調整。"
-    },
-    {
-      "id": "5025531",
-      "time": "2026-08-05 07:53:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：一名委員認為匯率因素推高進口價格，對中小企業造成損害。"
-    },
-    {
-      "id": "5025530",
-      "time": "2026-08-05 07:52:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月份大宗商品價格指數同比增長15.5%】中國物流與採購聯合會今天（5日）公佈7月份中國大宗商品價格指數。從指數執行情況看，大宗商品價格指數環比小幅回落，同比保持較大漲幅，市場執行基礎總體穩固。7月份中國大宗商品價格指數為128.6點，環比回落1.3%，同比增長15.5%。在中國物流與採購聯合會重點監測的50種大宗商品中，7月價格環比上漲的大宗商品有14種。其中，焦炭、氧化鐠釹和瓦楞紙漲幅居前，環比分別上漲7.1%、6.4%和5.6%。"
-    },
-    {
-      "id": "5025529",
-      "time": "2026-08-05 07:52:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科技新貴紛紛下場做VC 產業資本啟用創新資本正迴圈】一級市場頻現“創而優則投”的故事。近期，GPU（圖形處理器）企業沐曦股份旗下全資子公司沐曦數智出資3600萬元，設立了淮安沐騰晨曦創業投資基金合夥企業（有限合夥），該基金總認繳規模2億元，由上海萬昂投資管理有限公司擔任GP（普通合夥人）。據記者梳理，今年以來，長鑫科技、兆易創新、長電科技等多家頂流科技公司都先後下場佈局一級市場投資，成為市場上新一波新貴LP（有限合夥）。多年前，這些公司還是各大VC/PE（風險投資機構）爭搶的優質賽道標的，一路依靠外部資本完成技術迭代與規模擴張，如今羽翼豐滿後反向賦能一級市場。新型產業LP群體的崛起，也意味著一個全新的資本迴圈正在形成。（人民財訊）"
     }
   ]
 }

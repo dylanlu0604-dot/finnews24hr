@@ -1,7 +1,74 @@
 {
   "date": "2026-08-12",
-  "count": 492,
+  "count": 501,
   "items": [
+    {
+      "id": "mkt:019ff341-4094-7aab-8ffc-37acacda5e1c",
+      "time": "2026-08-12 07:56:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan broad money (M2) YoY July 4.4% vs 4.5% prior."
+    },
+    {
+      "id": "mkt:019ff341-2a03-7aab-8ffc-295f109dcea6",
+      "time": "2026-08-12 07:56:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Broadest Liquidity (YoY) (Jul) | actual 4.4% | previous 4.5%"
+    },
+    {
+      "id": "mkt:019ff340-17d7-7aab-8ffc-2358a50e0206",
+      "time": "2026-08-12 07:54:51",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【WSJ: Pentagon review finds 2025 US strikes in Yemen caused hundreds of civilian casualties】The Wall Street Journal reported on the 11th that an internal Pentagon review found a series of US strikes in Yemen in 2025 caused hundreds of civilian casualties. The report marks the Trump administration’s first formal acknowledgment of the scale of civilian harm from its strikes on Houthi forces in Yemen."
+    },
+    {
+      "id": "5036495",
+      "time": "2026-08-12 07:54:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美軍2025年對葉門的打擊致數百平民傷亡 】據美國《華爾街日報》11日報道，美國國防部內部調查顯示，美軍2025年對葉門發動的一系列打擊行動造成數百名平民傷亡。報道說，五角大樓當天向美國國會提交了一份長達12頁的非機密評估報告，概述了五角大樓對美軍2025年在全球所有軍事行動中造成平民傷亡情況的評估。負責中東地區美軍行動的美軍中央司令部在報告中認定，美軍2025年4月對葉門進行的3次大規模打擊行動共造成平民153人死亡和243人受傷。報告同時說，中央司令部正在審查針對胡塞武裝行動期間可能導致平民傷亡的另外15起事件。報道稱，這份報告標誌著特朗普政府首次正式承認其空襲葉門胡塞武裝的行動所造成的平民傷亡規模。"
+    },
+    {
+      "id": "5036494",
+      "time": "2026-08-12 07:53:20",
+      "tags": [
+        "市場",
+        "央行"
+      ],
+      "text": "【機構普遍認為逆回購“零操作”不改變流動性合理充裕格局 超長債或進入高波動階段】中國央行8月11日未開展7天期逆回購操作，受訪人士認為，此次逆回購“零操作”主要緣於月初流動性充裕、金融機構融資需求下降。展望後市，機構普遍認為，逆回購“零操作”不會改變下半年流動性合理充裕的總體環境。東方金誠首席宏觀分析師王青表示，此次“零操作”主要反映出金融機構申報需求不足，並非央行主動收緊流動性。 王青預計，隨著稅期來臨和政府債券發行節奏加快，金融機構融資需求將逐步回升，央行也將恢復7天期逆回購操作。8月末資金需求增加時，隔夜逆回購可能更多發揮調節作用。對於超長債，浙商銀行固定收益團隊認為，收益率下行趨勢尚未遭到破壞，收益率曲線仍有進一步壓平的空間。但短端收益率下行放緩，意味著資金價格下限逐漸清晰，長短端同步走強的空間已經收窄。（上證報）"
+    },
+    {
+      "id": "mkt:019ff33d-f1e3-7aab-8ffc-1ca2bae39371",
+      "time": "2026-08-12 07:52:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan July M3 money supply YoY 1.4% (prior 1.5%)."
+    },
+    {
+      "id": "mkt:019ff33d-d820-7aab-8ffc-122ee4f34772",
+      "time": "2026-08-12 07:52:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | M3 Money Supply (YoY) (Jul) | actual 1.4% | previous 1.50%"
+    },
     {
       "id": "mkt:019ff33d-d1cb-7aab-8ffc-0c51525dee48",
       "time": "2026-08-12 07:52:22",
@@ -9,6 +76,16 @@
         "MKT News"
       ],
       "text": "Japan M2 money supply YoY +2.2% in July; prior +2.20%."
+    },
+    {
+      "id": "5036493",
+      "time": "2026-08-12 07:52:19",
+      "tags": [
+        "央行",
+        "公司",
+        "市場"
+      ],
+      "text": "【華西證券：金價有望企穩回升，關注黃金飾品板塊修復機會】華西證券研報表示，短期金價反彈由預期修正與情緒驅動，但中長期支撐邏輯依然穩固——央行購金潮、去美元化趨勢及美債實際利率高位回落預期構成金價\"底線支撐\"，渣打銀行預計金價有望重新向5000美元關口邁進。金價企穩回升有望逐步修復黃金飾品板塊基本面與估值：上半年金價劇烈波動導致Q2國內金飾需求僅50噸（同比-28%），消費者\"買漲不買跌\"心態抑制終端動銷，相關龍頭公司Q2不同程度終端需求受到壓制，但隨著金價反彈企穩，預期前期被壓制的消費需求有望逐步釋放，看好龍頭公司下半年業績企穩回升，建議重點關注龍頭個股股價修復行情。"
     },
     {
       "id": "mkt:019ff33d-baa3-7aab-8ffc-037d02e20c45",
@@ -41,6 +118,15 @@
         "國際"
       ],
       "text": "5年期日本國債收益率上升1.5個基點至2.100%，創紀錄新高。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608123838460672",
+      "time": "2026-08-12 07:51:12",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月M2貨幣供應同比增長2.2%。"
     },
     {
       "id": "em:jjsj_mgsj:202608123838315231",
