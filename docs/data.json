@@ -1,7 +1,191 @@
 {
-  "updated": "2026-08-11 20:59:03",
-  "count": 15636,
+  "updated": "2026-08-11 21:04:27",
+  "count": 15632,
   "items": [
+    {
+      "id": "mkt:019ff0ea-a700-7aab-8ff2-c7e06eef9dec",
+      "time": "2026-08-11 21:02:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IIF: As of July, annual outflows from emerging-market equities totaled $86bn, versus $9bn a year earlier."
+    },
+    {
+      "id": "5036003",
+      "time": "2026-08-11 21:01:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "洛克希德·馬丁公司獲得美國導彈防禦局（MDA）合同，負責現代化改造導彈防禦模擬框架。"
+    },
+    {
+      "id": "mkt:019ff0ea-492a-7aab-8ff2-ba7311f41c67",
+      "time": "2026-08-11 21:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "IIF: Emerging-market debt inflows in July reached $214.4bn, versus an expected $177.7bn for the same period in 2025."
+    },
+    {
+      "id": "5036002",
+      "time": "2026-08-11 21:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯6月份進口額達307.93億美元。"
+    },
+    {
+      "id": "5036001",
+      "time": "2026-08-11 21:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯6月份貿易順差達124.61億美元。"
+    },
+    {
+      "id": "5036000",
+      "time": "2026-08-11 21:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯6月份出口額達432.54億美元。"
+    },
+    {
+      "id": "mkt:019ff0e9-ed5f-7aab-8ff2-b76832c17667",
+      "time": "2026-08-11 21:01:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "IIF: Non-resident investors posted net inflows of $18.8 bln into emerging-market portfolios in July, ending two consecutive months of outflows."
+    },
+    {
+      "id": "mkt:019ff0e9-b2a7-7aab-8ff2-a85f46223ea7",
+      "time": "2026-08-11 21:01:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "IIF: Nonresident investors recorded net portfolio inflows of $18.8bn into emerging markets in July, reversing two months of outflows."
+    },
+    {
+      "id": "mkt:019ff0e9-a7db-7aab-8ff2-a297eb36ffce",
+      "time": "2026-08-11 21:01:12",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Norway sovereign wealth fund CEO: markets 'abnormal'; 2 trillion in assets could be wiped out】The CEO of Norway's sovereign wealth fund reiterated on Tuesday that the fund's roughly 2 trillion in assets could suffer unexpected, large losses and might even be wiped out. He described markets as \"abnormal\" while noting financial markets continue to rise despite multiple challenges."
+    },
+    {
+      "id": "mkt:019ff0e9-6eb5-7aab-8ff2-9d32a224c987",
+      "time": "2026-08-11 21:00:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IIF: Emerging-market debt inflows totaled $26.7bn in July, down from $28.1bn in June."
+    },
+    {
+      "id": "mkt:019ff0e9-1eff-7aab-8ff2-9008bf08115c",
+      "time": "2026-08-11 21:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "IIF: Emerging market equity outflows slowed to $7.8bn in July, down from $46.1bn in June."
+    },
+    {
+      "id": "5035999",
+      "time": "2026-08-11 21:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克宣佈達成收購Level Markets的最終協議，推進其全天候市場戰略。"
+    },
+    {
+      "id": "mkt:019ff0e8-dc38-7aab-8ff2-8f65349b4be2",
+      "time": "2026-08-11 21:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China night session: most-active futures were mixed. Coking coal rose more than 2%; fuel oil, low-sulfur fuel oil (LU), propylene, methanol, Shanghai crude (SC) and coke gained over 1%. Paper and pulp fell about 1%."
+    },
+    {
+      "id": "5035998",
+      "time": "2026-08-11 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌4.12%，雞蛋連續跌2.53%，焦煤連續漲1.77%，纖維板連續跌1.68%，甲醇連續漲1.59%。"
+    },
+    {
+      "id": "5035997",
+      "time": "2026-08-11 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報996.00元。"
+    },
+    {
+      "id": "5035996",
+      "time": "2026-08-11 20:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月10日美國聯邦基金有效利率為3.63%，與8月7日持平。"
+    },
+    {
+      "id": "mkt:019ff0e8-0794-7aab-8ff2-80647928a38a",
+      "time": "2026-08-11 20:59:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology online allotment rate less than 1/26 of Changxin Technology's】Aug 11 evening — Yushu Technology released IPO allotment results. Online allotment rate 0.01809759%, among 93 new listings year-to-date this ranks at the low end. Offline placement ratio 0.03341824%, sixth-highest among 46 new listings with offline allocations this year. Year-to-date highest online allotment remains Changxin Technology at 0.47141739%; Yushu’s online rate is 3.8% of Changxin’s (under 1/26) and its offline rate is 19% of Changxin’s (under 1/5). Changxin’s final online-issued shares represented approximately 63.93% of issuance after full exercise of the overallotment option and after deducting final strategic placements; Yushu’s final online-issued shares represented approximately 30% of issuance after deducting final strategic placements."
+    },
+    {
+      "id": "5035995",
+      "time": "2026-08-11 20:58:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST椰島：子公司900萬元債務擬以酒抵債 預計收益約600萬元】ST椰島公告稱，全資子公司恆鑫公司與天府公司開展油脂貿易合作，因未發貨被起訴，法院判決恆鑫公司返還貨款等約900萬元。2026年8月11日，公司董事會同意恆鑫公司與天府公司簽署《和解協議》，以酒類產品抵償900萬元債務。本次債務重組預計實現收益約600萬元，具體以審計為準。後續執行仍可能存在履約風險。"
+    },
     {
       "id": "5035994",
       "time": "2026-08-11 20:57:52",
@@ -142187,204 +142371,6 @@
         "國際"
       ],
       "text": "美國參議院司法委員會召開會議，就託德·布蘭奇出任司法部長的提名進行表決。"
-    },
-    {
-      "id": "mkt:019fccdf-f47b-7aab-8f70-c0424bc26713",
-      "time": "2026-08-04 21:04:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Senate Judiciary Committee convened to vote on the nomination of Todd Blanche to be U.S. attorney general."
-    },
-    {
-      "id": "5024876",
-      "time": "2026-08-04 21:04:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "WEBULL：使用者可透過CHATGPT、CLAUDE和GROK訪問賬戶及市場資料。"
-    },
-    {
-      "id": "5024875",
-      "time": "2026-08-04 21:03:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "WEBULL：推出CHATGPT、CLAUDE與GROK聯結器、命令列介面及增強型MCP，以擴充套件人工智慧驅動的投資工具。"
-    },
-    {
-      "id": "5024874",
-      "time": "2026-08-04 21:03:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界銀行：發展中經濟體中4.5%的就業崗位面臨AI威脅，而富裕國家為14.2%。需要更好的資料和更多的計算能力以加速人工智慧的採用。預計人工智慧將彌補發展中經濟體高技能勞動力的短缺。"
-    },
-    {
-      "id": "mkt:019fccdf-1062-7aab-8f70-b95b1943710d",
-      "time": "2026-08-04 21:03:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Chinese Defense Ministry spokesman Chen Xi responds to Japan's 2026 Defense White Paper】Japan published its 2026 Defense White Paper, calling China’s military developments an \"unprecedentedly large strategic challenge\" and saying Chinese activity around Taiwan has become more frequent. Chinese Defense Ministry spokesman Chen Xi said the white paper is full of false narratives, accused Tokyo of manufacturing a \"peripheral security crisis\" and hyping a \"China threat\" to justify loosening military restraints, and expressed strong opposition. He accused Japan’s ruling authorities of hiding behind \"exclusively defensive\" rhetoric while accelerating revisions to the \"three security documents\", raising defense spending, developing long-range offensive capabilities, weaponizing and operationalizing space, and packaging military-industrial expansion as economic growth to embed rearmament into institutions, industry and public opinion. Chen called Japan’s \"new militarism\" a serious challenge to the post‑war international order and a real threat to regional peace and stability, reiterated that the Taiwan issue concerns China’s sovereignty and is an inviolable red line, and urged Japan to reflect on its history, stop interfering in China’s internal affairs and abandon further \"remilitarization\"."
-    },
-    {
-      "id": "mkt:019fccde-f1d8-7aab-8f70-b207fdd46ee3",
-      "time": "2026-08-04 21:03:10",
-      "tags": [
-        "MKT News",
-        "IBM.N"
-      ],
-      "text": "IBM (IBM.N) and Red Hat will provide free access to Lightwell for more than 185 research universities and 100 major NGOs and think tanks."
-    },
-    {
-      "id": "5024873",
-      "time": "2026-08-04 21:03:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國防部新聞發言人陳曦就日本政府2026版《防衛白皮書》答記者問】記者：據報道，日本正式公佈2026年版《防衛白皮書》，誣稱中國軍事動向是“前所未有的最大戰略挑戰”，並稱中方在臺灣周邊軍事活動趨於頻繁，日本週邊安全戰略環境正處於戰後最為嚴峻複雜的時期。請問對此有何評論？陳曦：日新版《防衛白皮書》充斥虛假敘事，大肆渲染“周邊安全危機”，炒作所謂“中國威脅”，完全是賊喊捉賊，為自身軍事鬆綁找藉口。我們對此強烈不滿、堅決反對。"
-    },
-    {
-      "id": "mkt:019fccde-1a67-7aab-8f70-ab92bd3bf1c8",
-      "time": "2026-08-04 21:02:15",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Webull launched connectors for ChatGPT, Claude and Grok, a command-line interface and an enhanced MCP to expand its AI-driven investment toolset."
-    },
-    {
-      "id": "5024872",
-      "time": "2026-08-04 21:02:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMAE 與谷歌健康將整合可穿戴裝置資料。"
-    },
-    {
-      "id": "5024871",
-      "time": "2026-08-04 21:02:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【羅馬尼亞炸巖引水冷卻核反應堆】羅馬尼亞軍方3日炸開多瑙河中一處水下巖體，以引導河水流向該國唯一仍在執行的核反應堆，緩解多日干旱導致核反應堆冷卻水不足的困境。綜合彭博新聞社、路透社等多家媒體報道，羅馬尼亞士兵使用大約180公斤炸藥破開多瑙河河床中的一處巖體，這項舉措在該國沒有先例。羅代理國防部長拉杜·迪內爾·米魯策說，此舉主要目的是引水進入該國切爾納沃德核電站冷卻水的源頭河道，以免該核電站唯一仍在執行的核反應堆被迫關閉。多瑙河全長2800多公里，流經歐洲十多個國家，從羅馬尼亞注入黑海。由於歐洲今年連遭熱浪襲擊、多地嚴重乾旱，多瑙河水位降至30年來最低水平，切爾納沃德核電站裝置冷卻水供應不足，羅方已於當地時間7月28日起停運該核電站的一座反應堆。該核電站為羅馬尼亞唯一核電站，其兩座核反應堆原本供應該國大約20%電力。按照米魯策的說法，當前該國核設施冷卻水流量已接近安全標準下限，當局正竭盡所能加大供水。軍方稱，炸開巖體後將修建一座臨時水壩用於引水，相關工程預期8月4日完成。米魯策說：“核電站哪怕多運營一天，其產生的效益也是這次爆破和修壩行動成本的三倍。”在羅馬尼亞鄰國匈牙利，其唯一核電站——保克什核電站也面臨多瑙河水位過低導致冷卻水不足的問題。該核電站通常供應該國大約一半電力需求，但截至3日其發電量僅為設計容量的大約10%，且匈政府稱該水平也許只能維持兩天。兩國政府均呼籲本國居民和企業節約用電。羅馬尼亞總理博洛讓宣佈，汽車製造商達契亞和福特在羅工廠已同意在8月19日前暫停生產，自願減少耗電約200兆瓦。匈牙利總理毛焦爾說，響應號召的居民家庭與企業截至2日已節電700兆瓦；該國吉瑞大藥廠3日宣佈未來三週削減耗電超50%，並貢獻旗下太陽能電廠每日4兆瓦電量。（新華社）"
-    },
-    {
-      "id": "5024870",
-      "time": "2026-08-04 21:01:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌4%，現報4728.00元。"
-    },
-    {
-      "id": "5024869",
-      "time": "2026-08-04 21:01:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內漲1%，現報892.00元。"
-    },
-    {
-      "id": "mkt:019fccdc-d3a8-7aab-8f70-a43089155b46",
-      "time": "2026-08-04 21:00:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WBG expects AI will help offset shortages of high-skilled labor in developing economies."
-    },
-    {
-      "id": "mkt:019fccdc-9e94-7aab-8f70-9ebb99c8280a",
-      "time": "2026-08-04 21:00:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "WBG says better data and greater compute capacity are needed to accelerate AI adoption."
-    },
-    {
-      "id": "mkt:019fccdc-8e80-7aab-8f70-967e055ac79c",
-      "time": "2026-08-04 21:00:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "WBG says 4.5% of jobs in developing economies are at risk from AI, compared with 14.2% in high-income countries."
-    },
-    {
-      "id": "mkt:019fccdc-5a9e-7aab-8f70-8cc6194afc24",
-      "time": "2026-08-04 21:00:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Night session open in China: main domestic futures largely lower. Ethylene glycol (EG), SC crude and propylene down more than 3%; fuel oil and LPG down about 3%; low-sulfur fuel oil (LU), methanol and PET chip down over 2%. On the upside, Shanghai silver up more than 3%; Shanghai lead, copper and nickel up over 1%; Shanghai tin up about 1%."
-    },
-    {
-      "id": "5024868",
-      "time": "2026-08-04 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報14604.00元。"
-    },
-    {
-      "id": "5024867",
-      "time": "2026-08-04 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報4741.00元。"
-    },
-    {
-      "id": "5024866",
-      "time": "2026-08-04 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌1%，現報5818.00元。"
-    },
-    {
-      "id": "5024865",
-      "time": "2026-08-04 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報2555.00元。"
-    },
-    {
-      "id": "5024864",
-      "time": "2026-08-04 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】乙二醇連續跌3.80%，矽鐵連續漲3.61%，白銀連續漲3.59%，集運指數歐線期貨連續跌3.36%，上海原油連續跌3.24%。"
-    },
-    {
-      "id": "5024863",
-      "time": "2026-08-04 20:59:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，8月3日美國實際聯邦基金利率為3.63%，當日交易規模為1110億美元；7月31日實際利率同為3.63%，當日交易規模為1080億美元。"
     }
   ]
 }

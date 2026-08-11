@@ -1,7 +1,191 @@
 {
   "date": "2026-08-11",
-  "count": 2354,
+  "count": 2372,
   "items": [
+    {
+      "id": "mkt:019ff0ea-a700-7aab-8ff2-c7e06eef9dec",
+      "time": "2026-08-11 21:02:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IIF: As of July, annual outflows from emerging-market equities totaled $86bn, versus $9bn a year earlier."
+    },
+    {
+      "id": "5036003",
+      "time": "2026-08-11 21:01:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "洛克希德·馬丁公司獲得美國導彈防禦局（MDA）合同，負責現代化改造導彈防禦模擬框架。"
+    },
+    {
+      "id": "mkt:019ff0ea-492a-7aab-8ff2-ba7311f41c67",
+      "time": "2026-08-11 21:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "CNH"
+      ],
+      "text": "IIF: Emerging-market debt inflows in July reached $214.4bn, versus an expected $177.7bn for the same period in 2025."
+    },
+    {
+      "id": "5036002",
+      "time": "2026-08-11 21:01:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯6月份進口額達307.93億美元。"
+    },
+    {
+      "id": "5036001",
+      "time": "2026-08-11 21:01:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯6月份貿易順差達124.61億美元。"
+    },
+    {
+      "id": "5036000",
+      "time": "2026-08-11 21:01:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯6月份出口額達432.54億美元。"
+    },
+    {
+      "id": "mkt:019ff0e9-ed5f-7aab-8ff2-b76832c17667",
+      "time": "2026-08-11 21:01:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "IIF: Non-resident investors posted net inflows of $18.8 bln into emerging-market portfolios in July, ending two consecutive months of outflows."
+    },
+    {
+      "id": "mkt:019ff0e9-b2a7-7aab-8ff2-a85f46223ea7",
+      "time": "2026-08-11 21:01:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish",
+        "CNH",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "IIF: Nonresident investors recorded net portfolio inflows of $18.8bn into emerging markets in July, reversing two months of outflows."
+    },
+    {
+      "id": "mkt:019ff0e9-a7db-7aab-8ff2-a297eb36ffce",
+      "time": "2026-08-11 21:01:12",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Norway sovereign wealth fund CEO: markets 'abnormal'; 2 trillion in assets could be wiped out】The CEO of Norway's sovereign wealth fund reiterated on Tuesday that the fund's roughly 2 trillion in assets could suffer unexpected, large losses and might even be wiped out. He described markets as \"abnormal\" while noting financial markets continue to rise despite multiple challenges."
+    },
+    {
+      "id": "mkt:019ff0e9-6eb5-7aab-8ff2-9d32a224c987",
+      "time": "2026-08-11 21:00:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IIF: Emerging-market debt inflows totaled $26.7bn in July, down from $28.1bn in June."
+    },
+    {
+      "id": "mkt:019ff0e9-1eff-7aab-8ff2-9008bf08115c",
+      "time": "2026-08-11 21:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "IIF: Emerging market equity outflows slowed to $7.8bn in July, down from $46.1bn in June."
+    },
+    {
+      "id": "5035999",
+      "time": "2026-08-11 21:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克宣佈達成收購Level Markets的最終協議，推進其全天候市場戰略。"
+    },
+    {
+      "id": "mkt:019ff0e8-dc38-7aab-8ff2-8f65349b4be2",
+      "time": "2026-08-11 21:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China night session: most-active futures were mixed. Coking coal rose more than 2%; fuel oil, low-sulfur fuel oil (LU), propylene, methanol, Shanghai crude (SC) and coke gained over 1%. Paper and pulp fell about 1%."
+    },
+    {
+      "id": "5035998",
+      "time": "2026-08-11 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌4.12%，雞蛋連續跌2.53%，焦煤連續漲1.77%，纖維板連續跌1.68%，甲醇連續漲1.59%。"
+    },
+    {
+      "id": "5035997",
+      "time": "2026-08-11 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報996.00元。"
+    },
+    {
+      "id": "5035996",
+      "time": "2026-08-11 20:59:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月10日美國聯邦基金有效利率為3.63%，與8月7日持平。"
+    },
+    {
+      "id": "mkt:019ff0e8-0794-7aab-8ff2-80647928a38a",
+      "time": "2026-08-11 20:59:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology online allotment rate less than 1/26 of Changxin Technology's】Aug 11 evening — Yushu Technology released IPO allotment results. Online allotment rate 0.01809759%, among 93 new listings year-to-date this ranks at the low end. Offline placement ratio 0.03341824%, sixth-highest among 46 new listings with offline allocations this year. Year-to-date highest online allotment remains Changxin Technology at 0.47141739%; Yushu’s online rate is 3.8% of Changxin’s (under 1/26) and its offline rate is 19% of Changxin’s (under 1/5). Changxin’s final online-issued shares represented approximately 63.93% of issuance after full exercise of the overallotment option and after deducting final strategic placements; Yushu’s final online-issued shares represented approximately 30% of issuance after deducting final strategic placements."
+    },
+    {
+      "id": "5035995",
+      "time": "2026-08-11 20:58:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST椰島：子公司900萬元債務擬以酒抵債 預計收益約600萬元】ST椰島公告稱，全資子公司恆鑫公司與天府公司開展油脂貿易合作，因未發貨被起訴，法院判決恆鑫公司返還貨款等約900萬元。2026年8月11日，公司董事會同意恆鑫公司與天府公司簽署《和解協議》，以酒類產品抵償900萬元債務。本次債務重組預計實現收益約600萬元，具體以審計為準。後續執行仍可能存在履約風險。"
+    },
     {
       "id": "5035994",
       "time": "2026-08-11 20:57:52",
