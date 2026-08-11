@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-12 00:27:38",
+  "updated": "2026-08-12 00:31:46",
   "count": 15627,
   "items": [
+    {
+      "id": "5036264",
+      "time": "2026-08-12 00:29:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）目前預計2026年美國西德克薩斯中質原油（WTI）現貨均價為每桶80.88美元，此前預測值為每桶76.26美元。"
+    },
+    {
+      "id": "5036263",
+      "time": "2026-08-12 00:29:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）目前預計2026年布倫特原油現貨均價將為每桶86.81美元，此前預期為每桶81.91美元。"
+    },
     {
       "id": "te:markets:574496",
       "time": "2026-08-12 00:26:53",
@@ -142326,29 +142342,6 @@
         "國際"
       ],
       "text": "【“新美聯儲通訊社”：貝森特政策反應函式轉向不再那麼鴿派】“新美聯儲通訊社”Nick Timiraos認為，美國財長貝森特的政策反應函式已轉向不再那麼鴿派。他今年的言論暗示，美聯儲應繼續維持利率不變。今年早些時候，貝森特曾援引模型稱，美聯儲利率水平較中性利率高出幅度可能從超過25個基點到超過100個基點不等。今天（8月4日）他提出了兩個觀點。 他首先為沃什上週決定不闡述任何政策反應函式進行了辯護：“我認為每次會議都應該是開放的，市場參與者應該自行判斷……我認為沃什希望保留選擇空間，以實現最佳結果。”其次，他確實提出了一套可以被視為鴿派的政策反應函式，並主張應忽略近期衝擊：“短期利率上升究竟會帶來什麼影響？我們將拭目以待。”他提出了這一問題，但隨後透過指出基礎通脹“非常溫和……非常平穩”來作出回應。“核心通脹中，剔除受能源影響較大的波動項後，其餘部分一直非常平穩。我認為這種情況將會持續。”"
-    },
-    {
-      "id": "mkt:019fcd9c-4e70-7aab-8f74-61725d14bb8d",
-      "time": "2026-08-05 00:30:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【TIMIRAOS: BESSENT policy reaction function shifts, no longer so dovish】TIMIRAOS reports US Treasury Secretary BESSENT’s policy reaction function has moved away from being plainly dovish. His comments this year imply the Fed should keep rates unchanged; earlier he cited models suggesting the policy rate could be about 25–100bps above neutral. On Aug. 4 BESSENT made two points: he defended Fed chair Walsh’s decision last week not to specify a policy reaction function to preserve optionality, and he also outlined a more dovish reaction function that urges ignoring recent shocks—asking what higher short-term rates will achieve and noting underlying inflation (core ex-energy) is very muted and stable, a pattern he expects to persist."
-    },
-    {
-      "id": "5025174",
-      "time": "2026-08-05 00:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "USA RARE EARTH漲幅擴大至8.9%。"
     }
   ]
 }
