@@ -1,7 +1,33 @@
 {
-  "updated": "2026-08-12 04:48:31",
-  "count": 15573,
+  "updated": "2026-08-12 04:52:19",
+  "count": 15570,
   "items": [
+    {
+      "id": "5036387",
+      "time": "2026-08-12 04:51:06",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【Eurizon料美日撐場能推高日元至125 勸說空頭勿負隅頑抗】Eurizon SLJ Capital執行長Stephen Jen認為，美國和日本聯手撐日元之舉是“一個分水嶺時刻”，將阻止它兌美元跌回四十年低點。 “美元-日元很可能已經見頂了，因為美國和日本都不會放棄，也不會向市場讓步，” 他和該公司經濟學家兼投資組合經理Joana Freire週二在報告中寫道，“抵抗是徒勞的。”"
+    },
+    {
+      "id": "5036386",
+      "time": "2026-08-12 04:48:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：簡街資本贖回 57 億美元高階擔保票據。"
+    },
+    {
+      "id": "5036385",
+      "time": "2026-08-12 04:48:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：簡街資本計劃提前償還 55 億美元定期貸款。"
+    },
     {
       "id": "5036384",
       "time": "2026-08-12 04:39:36",
@@ -141840,58 +141866,6 @@
         "市場"
       ],
       "text": "【AMD營收展望令投資者失望 股價盤後大跌】AMD的最新銷售展望令投資者失望，表明市場對全球AI資料中心擴張帶來的回報抱有更高期待。AMD週二在宣告中表示，第三財季營收預計為130億美元，上下浮動3億美元。儘管分析師平均預期為125億美元，但根據彙編的資料，華爾街部分機構的預測遠高於130億美元。財報公佈後，AMD股價盤後下跌約6%。該股週二紐約收盤報518.58美元。市場反應表明，AMD需要展現更快的增長速度，才能支撐當前估值。今年以來，隨著AMD成為英偉達在人工智慧處理器領域的主要競爭對手，其股價已累計上漲逾一倍，遠超大盤表現。"
-    },
-    {
-      "id": "5025346",
-      "time": "2026-08-05 04:52:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官：IPO和債券發行改善了財務狀況。"
-    },
-    {
-      "id": "te:markets:572691",
-      "time": "2026-08-05 04:51:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Reaches Record High — The S&P/TSX Composite Index rose 1.6% to a record close of 35,802 on Tuesday, lifted by optimism for an US-Iran peace deal. Oil prices fell after Qatar said mediators were making progress toward an agreement to normalize shipping through the Strait of Hormuz. The decline eased inflation concerns and reduced pressure for higher interest rates, sending bond yields lower. Financial stocks advanced, with Brookfield jumping 7.9% after completing its acquisition of Oaktree. Higher gold, silver, and copper prices fueled a rally in mining shares. Tech stocks gained on the back of strength in AI-related names on Wall Street. Agnico Eagle added 4.1%, Barrick gained 4.4%, and WPM jumped 6.5%. Teck Resources, First Quantum, Lundin Mining and other peers climbed up to 16%. Shopify rose 5.6% ahead of its earnings release, while Constellation Software gained 7.4% and Celestica surged 12.9%. In contrast, energy stocks declined as oil prices fell, with Suncor down 3.6% ahead of its earnings."
-    },
-    {
-      "id": "5025345",
-      "time": "2026-08-05 04:51:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX營運長：7月Grok 4.5釋出後，token消耗量增長兩倍。"
-    },
-    {
-      "id": "mkt:019fce8b-3378-7aab-8f77-dbd70ac47d2d",
-      "time": "2026-08-05 04:50:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) CFO said an IPO and a bond issuance have improved the company's financial position."
-    },
-    {
-      "id": "5025344",
-      "time": "2026-08-05 04:50:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX營運長：美國政府任務需求不斷增長。"
-    },
-    {
-      "id": "5025343",
-      "time": "2026-08-05 04:49:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "SpaceX總裁：第二季度贏得逾60億美元美國政府合同。"
     }
   ]
 }
