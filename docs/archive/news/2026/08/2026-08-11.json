@@ -1,7 +1,90 @@
 {
   "date": "2026-08-11",
-  "count": 2572,
+  "count": 2581,
   "items": [
+    {
+      "id": "mkt:019ff131-dc14-7aab-8ff4-b7d2db6b26b8",
+      "time": "2026-08-11 22:20:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict."
+    },
+    {
+      "id": "te:markets:574464",
+      "time": "2026-08-11 22:18:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report."
+    },
+    {
+      "id": "5036131",
+      "time": "2026-08-11 22:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。"
+    },
+    {
+      "id": "5036130",
+      "time": "2026-08-11 22:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。"
+    },
+    {
+      "id": "te:economy:574463",
+      "time": "2026-08-11 22:16:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years."
+    },
+    {
+      "id": "5036129",
+      "time": "2026-08-11 22:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。"
+    },
+    {
+      "id": "te:markets:574462",
+      "time": "2026-08-11 22:15:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027."
+    },
+    {
+      "id": "5036128",
+      "time": "2026-08-11 22:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。"
+    },
+    {
+      "id": "5036127",
+      "time": "2026-08-11 22:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。"
+    },
     {
       "id": "5036126",
       "time": "2026-08-11 22:14:26",

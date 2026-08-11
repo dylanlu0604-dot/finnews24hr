@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-11 22:16:28",
-  "count": 15585,
+  "updated": "2026-08-11 22:21:13",
+  "count": 15576,
   "items": [
+    {
+      "id": "mkt:019ff131-dc14-7aab-8ff4-b7d2db6b26b8",
+      "time": "2026-08-11 22:20:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict."
+    },
+    {
+      "id": "te:markets:574464",
+      "time": "2026-08-11 22:18:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report."
+    },
+    {
+      "id": "5036131",
+      "time": "2026-08-11 22:17:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。"
+    },
+    {
+      "id": "5036130",
+      "time": "2026-08-11 22:17:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。"
+    },
+    {
+      "id": "te:economy:574463",
+      "time": "2026-08-11 22:16:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years."
+    },
+    {
+      "id": "5036129",
+      "time": "2026-08-11 22:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。"
+    },
+    {
+      "id": "te:markets:574462",
+      "time": "2026-08-11 22:15:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027."
+    },
+    {
+      "id": "5036128",
+      "time": "2026-08-11 22:15:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。"
+    },
+    {
+      "id": "5036127",
+      "time": "2026-08-11 22:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。"
+    },
     {
       "id": "5036126",
       "time": "2026-08-11 22:14:26",
@@ -141749,173 +141832,6 @@
         "Importance 1"
       ],
       "text": "Canadian Shares Rise on Lower Oil Prices — The S&P/TSX Composite Index rose nearly 1% to trade above the 35,500 mark on Tuesday after Monday's Civic Holiday, supported by lower oil prices and broad-based gains. Crude prices fell after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about inflation and the higher interest rate outlook. Financial stocks advanced, with RBC, TD Bank, BMO, CIBC, and Scotiabank all gaining about 1%. Brookfield Asset Management jumped more than 6% after completing its acquisition of Oaktree. Meanwhile, firmer gold and copper prices fueled a rally in mining shares, with Agnico Eagle up over 5%, Barrick adding nearly 5%, WPM rising more than 6%, and Franco-Nevada, Teck Resources, First Quantum, Lundin Mining and other peers climbing between 3% and 10%. Shopify gained nearly 1.5% ahead of earnings on Wednesday. In contrast, energy stocks declined on weaker oil prices, with Suncor and Canadian Natural down 4%."
-    },
-    {
-      "id": "5025062",
-      "time": "2026-08-04 22:20:17",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【標普500指數創紀錄新高 油價下跌助長市場樂觀情緒】市場對達成一項協議以恢復霍爾木茲海峽通行的希望升溫，推動美國股市早盤走高，債券上漲，油價下跌。與此同時，一批強勁的企業財報也進一步提振了華爾街的樂觀情緒。紐約時間9:47，標普500指數上漲0.6%，突破6月2日的高點。納斯達克100指數漲1.9%，道指走高0.9%。市場樂觀預期調解方能夠促成協議，並避免美國對伊朗發動大規模空襲，布倫特原油跌破每桶80美元。Palantir Technologies Inc.此前釋出穩健的業績展望，緩解了投資者對人工智慧需求的擔憂。交易員目前正等待SpaceX和AMD稍晚公佈的業績。富國銀行投資研究所的Tony Miano表示：“市場正在對霍爾木茲海峽可能重新開放作出反應。海峽重開有助於全球石油供應恢復正常，並緩解短期能源價格壓力。油價下跌也能減輕通脹擔憂。”截至週一收盤，本財報季已公佈業績的322家標普500指數成分股中，86%的公司每股收益超過分析師預期，10%不及預期；68%的公司營收好於預期，16%低於預期。個股方面，傑夫·貝索斯申報出售價值40.7億美元的亞馬遜股票後，亞馬遜股價下跌。"
-    },
-    {
-      "id": "5025061",
-      "time": "2026-08-04 22:19:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜克能源在電話會議上表示，額外合同或將為其創紀錄的五年資本計劃新增50億至100億美元資本投入。"
-    },
-    {
-      "id": "te:economy:572608",
-      "time": "2026-08-04 22:19:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Job Quits",
-        "Importance 1"
-      ],
-      "text": "US Job Quits Rise in June — The number of workers voluntarily leaving their jobs in the United States increased by 79,000 to 3.23 million in June 2026, from a revised 3.15 million in the previous month. The rise was led by leisure and hospitality (+40,000), primarily accommodation and food services, as well as trade, transportation, and utilities (+30,000), reflecting increases in both retail and wholesale trade. Job quits in construction also advanced by 23,000. By region, quits rose in the West (+96,000) and Northeast (+35,000), while declining in the Midwest (-27,000) and South (-24,000). Despite the monthly increase in the number of quits, the quits rate remained unchanged at 2.0%, hovering near its lowest level since 2020 and suggesting that workers continue to show limited willingness to voluntarily leave their jobs."
-    },
-    {
-      "id": "5025060",
-      "time": "2026-08-04 22:19:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽用電負荷連續兩天重新整理歷史紀錄】據安徽日報，記者從安徽省能源局、國網安徽電力獲悉，8月4日12點45分，安徽最大用電負荷繼8月3日首創新高後再次突破歷史紀錄，達到6999萬千瓦，同比增長2.1%。用電資料增長的背後，既有經濟發展的內在驅動，也受到近期高溫天氣的直接拉動。今年上半年，國網安徽電力售電量同比增長5.97%，增速較去年同期提升4.88個百分點。以充換電服務、算力中心為代表的新型業態延續高速增長，且算力中心增速連續6個月創歷史新高，有力印證安徽省綠色低碳轉型與數字經濟蓬勃發展的強勁勢頭。近期高溫天氣頻發，空調降溫負荷集中釋放，更是用電負荷屢創新高的直接推手。"
-    },
-    {
-      "id": "mkt:019fcd24-9ba3-7aab-8f72-86dc38808e72",
-      "time": "2026-08-04 22:19:16",
-      "tags": [
-        "MKT News",
-        "DUK.N",
-        "Impact bullish"
-      ],
-      "text": "Duke Energy (DUK.N): additional contracts could add $5-10 billion to its record five-year capital plan."
-    },
-    {
-      "id": "5025059",
-      "time": "2026-08-04 22:19:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "德國聯邦金融監管局（BaFin）作出決定後，歐洲央行將開啟 60 個工作日的審查週期。"
-    },
-    {
-      "id": "5025058",
-      "time": "2026-08-04 22:18:52",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "聯合信貸銀行增持德國商業銀行股份至 30% 以上的申請已提交歐洲央行。"
-    },
-    {
-      "id": "5025057",
-      "time": "2026-08-04 22:18:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "據悉德國聯邦金融監管局（BaFin）擬批准義大利聯合信貸銀行增持德國商業銀行股份的申請。"
-    },
-    {
-      "id": "mkt:019fcd24-2836-7aab-8f72-7cd6adf39546",
-      "time": "2026-08-04 22:18:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DUK.O",
-        "Impact bullish"
-      ],
-      "text": "Duke Energy (DUK.N) said it has signed power service agreements with data-center customers totaling 7.8 GW, up 0.2 GW quarter-on-quarter."
-    },
-    {
-      "id": "5025056",
-      "time": "2026-08-04 22:18:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普 500 指數漲幅擴大至 1%；納斯達克 100 指數上漲 2.2%。"
-    },
-    {
-      "id": "5025055",
-      "time": "2026-08-04 22:18:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【上海國投先導聯合領投，NewPro完成數千萬元PreA輪融資並獲得乳鐵蛋白FDA Self-GRAS認證】近日，NewPro Bioworks（上海新苡萃生物科技有限公司）宣佈完成數千萬元Pre-A輪融資。本輪融資由上海國投先導、奧創先導基金聯合領投。與此同時，公司自主研發的精密發酵乳鐵蛋白產品正式獲得美國FDA Self-GRAS（公認安全）認證，標誌著其核心產品在國際市場準入方面取得關鍵性突破。"
-    },
-    {
-      "id": "5025054",
-      "time": "2026-08-04 22:18:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "杜克能源表示，已與資料中心客戶簽訂 7.8 吉瓦的電力服務協議，較上一季度增加 0.2 吉瓦。"
-    },
-    {
-      "id": "5025053",
-      "time": "2026-08-04 22:18:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股三大指數均漲超1%】道指漲1.36%，現報53900.809點；納指漲1.58%，現報26323.053點；標普500指數漲1.00%，現報7676.540點。"
-    },
-    {
-      "id": "5025052",
-      "time": "2026-08-04 22:17:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "KRAKEN交易所：我們正在調查一起導致加密貨幣提現延遲的問題。"
-    },
-    {
-      "id": "mkt:019fcd22-f3b6-7aab-8f72-766a813ace3f",
-      "time": "2026-08-04 22:17:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Russian Defence Ministry said it struck another ship near Odesa, Ukraine."
-    },
-    {
-      "id": "5025051",
-      "time": "2026-08-04 22:16:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "康明斯執行長在電話會議上表示：受關稅和利率不確定性持續影響，我們預計北美市場需求將基本保持平穩。"
-    },
-    {
-      "id": "mkt:019fcd22-13d0-7aab-8f72-6b07f80922d4",
-      "time": "2026-08-04 22:16:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports Russia attacked three dry-bulk vessels at a Ukrainian port."
-    },
-    {
-      "id": "5025050",
-      "time": "2026-08-04 22:16:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國防部：另一艘船隻在敖德薩附近被擊中。"
     }
   ]
 }
