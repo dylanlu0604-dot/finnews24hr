@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-12 01:34:44",
-  "count": 15626,
+  "updated": "2026-08-12 01:38:36",
+  "count": 15624,
   "items": [
+    {
+      "id": "5036300",
+      "time": "2026-08-12 01:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司稱，消防員已撲滅扎維亞煉油廠的所有火情。"
+    },
     {
       "id": "mkt:019ff1e3-7bda-7aab-8ff8-7ce5af61211d",
       "time": "2026-08-12 01:34:05",
@@ -142307,30 +142315,6 @@
         "DXY"
       ],
       "text": "【Turkey warns Russia-Ukraine spillover threatens Black Sea civilian shipping】Turkey on the 4th said it is seriously concerned after two commercial freighters, Yasar and Nadezhda, were struck by drone attacks on the Black Sea after sailing from Russia’s Novorossiysk on the 3rd; multiple crew were injured. Turkey’s foreign ministry warned the conflict’s spillover now threatens civilian shipping and regional stability, and called for urgent, concrete measures from all parties, particularly Russia and Ukraine, to safeguard maritime navigation and prevent further attacks on commercial vessels."
-    },
-    {
-      "id": "5025209",
-      "time": "2026-08-05 01:38:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【土耳其警告俄烏衝突外溢威脅黑海民用航運】土耳其4日對兩艘商用貨輪在黑海海域遇襲表示嚴重關切，並警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。土耳其外交部在一份宣告中表示，當地時間3日，與土耳其相關的商船“亞薩爾”號和“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。宣告稱，土耳其正密切關注傷者狀況和事態發展，對俄烏衝突進一步蔓延至黑海並波及民用船隻“深感擔憂”。土耳其呼籲採取緊急行動，敦促所有相關方，特別是俄羅斯和烏克蘭，採取切實措施保障海上航行安全，防止針對民用船隻的進一步襲擊。（新華社）"
-    },
-    {
-      "id": "5025208",
-      "time": "2026-08-05 01:37:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：特朗普及其團隊認為，他們能夠促使哈馬斯解除武裝，並實現加沙的非軍事化。他們向我方提交了一份草案，我們並未同意。這並非我方擬定的草案。我們已提交了我方的修改意見。順帶一提，在相關問題出現媒體造勢之前，我們就已經遞交了意見。這就是我們的立場。我認為，我們正以兼具智慧與強硬的姿態，堅決捍衛本國利益。"
-    },
-    {
-      "id": "5025207",
-      "time": "2026-08-05 01:34:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "調查結果顯示，石油輸出國組織（OPEC，歐佩克）7月石油產量增加116萬桶/日，至產出1944萬桶/日，科威特、沙特、伊拉克增產明顯。"
     }
   ]
 }
