@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-11 15:48:55",
+  "updated": "2026-08-11 15:52:52",
   "count": 15854,
   "items": [
+    {
+      "id": "mkt:019fefce-dc8e-7aab-8fec-4bb128ba6f91",
+      "time": "2026-08-11 15:52:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WTI crude futures rose above $84/bbl, up 2.07% on the day."
+    },
+    {
+      "id": "5035308",
+      "time": "2026-08-11 15:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋國慶假期出入境機票預訂量已超128萬張】航旅縱橫民航官方直銷平臺大資料顯示，截至8月11日，中秋國慶假期（9月25日-10月7日）的國內航線機票預訂量超171萬張，同比增長約7%；出入境航線機票預訂量超128萬張，同比增長約11%。"
+    },
+    {
+      "id": "5035307",
+      "time": "2026-08-11 15:50:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國股市大起大落催生“炒股綜藝”：明星藝人鏡頭前曬盈虧】據《韓國先驅報》10日報道，韓國電視和YouTube創作者開始將股市焦慮轉化為娛樂內容。與傳統財經節目不同，這類節目跟隨明星和藝人經歷股票投資中的盈利與虧損。這類圍繞股市情緒的新節目中一個最受歡迎的例子，是Netflix韓國推出的《新手金的股市任務》。節目於8月3日首播，邀請喜劇演員金元勳首次進入股市，他在節目中接受其他喜劇演員提供的投資指導，並參加各種任務，與其他參與者比拼。在預告片中，金元勳表示，投入約1.8億韓元炒股後，已虧損2000多萬韓元，“幾乎損失了一輛車的價值”。節目還將鏡頭對準三星電子和SK海力士這兩隻備受關注的股票。受人工智慧相關半導體需求激增以及市場對業績進一步改善的預期推動，兩家公司股價都在2026年年中創下歷史新高。但隨後，兩家公司的股價在7月均暴跌。 (澎湃新聞)"
+    },
+    {
+      "id": "mkt:019fefcd-531c-7aab-8fec-435d3b0f3f24",
+      "time": "2026-08-11 15:50:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Mid-Autumn–National Day holiday air ticket bookings: domestic 1.71 mln, inbound/outbound 1.28 mln】As of Aug 11, Hanglv Zongheng, the civil aviation official direct-sales platform, shows bookings for the China Mid-Autumn–National Day holiday (Sept 25–Oct 7) exceed 1.71 mln for domestic routes, up about 7% YoY, and exceed 1.28 mln for inbound/outbound routes, up about 11% YoY."
+    },
+    {
+      "id": "te:markets:574371",
+      "time": "2026-08-11 15:50:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Little Changed — The DAX 40 hovered around 26,320 on Tuesday morning, remaining at record levels, as investors weighed developments surrounding the Middle East conflict. US President Donald Trump on Monday responded to Iran’s conditions for a peace deal with demands that Tehran compensate for people killed in wars, attacks and protests, adding to tensions and potentially complicating diplomatic efforts to reopen the crucial waterway. Gains were led by Deutsche Telekom (+1%), Siemens Energy (+1.1%), Infineon (+0.8%) and RWE (+0.9%), which were offset by losses in Airbus (-1.4%), Daimler Truck Holding (-1.3%) and Hochtief (-1%)."
+    },
+    {
+      "id": "5035306",
+      "time": "2026-08-11 15:48:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行在佛山成立新公司】天眼查App顯示，佛山小馬智行科技有限公司於近日成立，登記狀態為存續，註冊資本2000萬元人民幣。工商資訊顯示，該公司為有限責任公司（非自然人投資或控股的法人獨資），由廣州小馬智行科技有限公司全資持股，認繳出資2000萬元，法定代表人為莫璐怡。公司經營範圍涵蓋技術服務、技術開發、技術諮詢及租賃服務等領域，註冊地址位於佛山市南海區獅山鎮。"
+    },
+    {
+      "id": "mkt:019fefcb-822c-7aab-8fec-39315e478876",
+      "time": "2026-08-11 15:48:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shana: Iran oil minister Paknejad said production of 95 mln cubic meters of natural gas will be restored by end-September."
+    },
+    {
+      "id": "5035305",
+      "time": "2026-08-11 15:48:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，剛果埃博拉死亡人數突破2000人。"
+    },
+    {
+      "id": "5035304",
+      "time": "2026-08-11 15:48:24",
+      "tags": [
+        "行業"
+      ],
+      "text": "【多家中小銀行，逆勢上調存款利率 最高超30個基點】8月以來，湖北、廣東等地多家中小銀行相繼上調存款利率。進入8月，多地城商行、農商行及村鎮銀行公告，對掛牌存款利率或特色存款產品利率進行上調。總體來看，各家銀行的上調幅度在10—33個基點（BP）之間。在宏觀市場利率整體下行、銀行業持續壓降負債成本的背景下，多數中小銀行下調了存款利率，因此前述“反其道而行之”的做法，引發市場關注。業內人士認為，此舉有明顯的階段性攬儲特徵，不具備普適性，且與近期部分國有大行集體重啟五年期大額存單並無直接關聯。（券商中國）"
+    },
     {
       "id": "5035303",
       "time": "2026-08-11 15:48:14",
@@ -144353,87 +144432,6 @@
         "Importance 1"
       ],
       "text": "DAX Advances to New Highs — The DAX 40 extended its run of gains into a fourth consecutive session on Tuesday, rising 0.8% to fresh record highs above 26,200. The ongoing earnings season remained in focus, while investors also tracked developments in the Middle East and weighed mixed signals from Washington and Tehran over prospects for peace negotiations. Among key movers, Bayer gained more than 4% after beating Q2 estimates and reaffirming its 2026 sales outlook."
-    },
-    {
-      "id": "5023995",
-      "time": "2026-08-04 15:52:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【商業銀行密集“減負”】根據銀行業信貸資產登記流轉中心公開資訊，今年以來，全行業不良貸款轉讓公告超過1080條，零售、對公等各類不良貸款批次“上架”，轉讓主體覆蓋國有大行、股份制銀行、地方性中小銀行等各類銀行機構。在此輪銀行業不良資產出清程序中，銀行處置路徑呈現明顯分化格局：國有大行依託市場化平臺開展批次轉讓，中小銀行則因地制宜推行“全員推介、全員清收”模式，多措並舉壓降不良貸款存量、緩釋經營風險。（金融時報）"
-    },
-    {
-      "id": "mkt:019fcbc2-0c38-7aab-8f68-7a9e9503dbca",
-      "time": "2026-08-04 15:51:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian food retailer Lenta said a downed drone caused a fire at its distribution center in the Leningrad region."
-    },
-    {
-      "id": "mkt:019fcbc1-fea2-7aab-8f68-705494f51fbd",
-      "time": "2026-08-04 15:51:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Greater China",
-        "Europe & UK",
-        "VOLV-B.ST",
-        "Impact mixed"
-      ],
-      "text": "【Volvo Cars sold 164,663 vehicles May–July, down 4% YoY】Volvo Cars said it sold 164,663 vehicles in May–July, down 4% YoY. US sales recovered for a third consecutive month, posting double-digit growth; China demand remained weak and weighed on total volumes. Europe, Volvo's largest region, delivered stable volumes with modest growth. The company said it is maintaining price discipline in Europe and continues to see rising retail orders for battery-electric vehicles."
-    },
-    {
-      "id": "5023994",
-      "time": "2026-08-04 15:51:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【六國化工：收到上交所終止定增稽核決定】六國化工公告稱，公司於2026年7月30日決定終止2025年度向特定物件發行A股股票事項，並向上海證券交易所申請撤回相關檔案。公司和保薦人國泰海通證券分別提交撤回申請和撤銷保薦工作的申請。近日，公司收到上交所出具的決定，根據相關規定，上交所決定終止對公司向特定物件發行股票的稽核。"
-    },
-    {
-      "id": "mkt:019fcbc1-cb26-7aab-8f68-6c13aec05615",
-      "time": "2026-08-04 15:51:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ARAMCO CEO says shipping oil to Asia via the Suez Canal takes 20-25 days longer than via the Strait of Hormuz."
-    },
-    {
-      "id": "5023993",
-      "time": "2026-08-04 15:51:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【公牛集團：截至7月末累計斥資2.39億元回購606.22萬股】公牛集團公告稱，公司於4月28日透過以集中競價交易方式回購股份議案，回購金額2-4億元，用於股權激勵或員工持股計劃，回購期限至2027年4月27日。截至7月末，公司累計回購股份606.22萬股，佔總股本0.34%，支付金額23,956.64萬元，回購價格38.13-40元/股。7月回購14.09萬股，支付545.87萬元。"
-    },
-    {
-      "id": "5023992",
-      "time": "2026-08-04 15:51:21",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【花旗：建滔積層板估值吸引 重申“買入”評級 料CCL生產商掀新一波加價潮】花旗釋出研報稱，最新大宗商品資料顯示，8月份1080系列電子級玻璃纖維布銷售均價環比上升17%至18%，為年初至今最大漲幅，年內電子級玻璃纖維布價格累計漲幅達118%至165%，認為AI需求強勁帶動部分產品需求，導致廠商將產能從非AI產品轉向AI玻璃纖維布，行業供應緊張程度進一步加劇。該行認為建滔積層板當前估值吸引，僅相當於預測明年市盈率約7倍，明年股息率料逾7%，維持“買入”評級及目標價130港元不變，對應2027年預測市盈率約28至29倍。"
-    },
-    {
-      "id": "5023991",
-      "time": "2026-08-04 15:49:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東南亞超級應用Grab二季度淨利大增620%，上調全年盈利預期】8月4日，東南亞超級應用Grab公佈二季度淨利同比大增620%至2.52億美元；二季度營收從去年同期的8.19億美元增至9.97億美元，高於分析師預期的9.91億美元，增長主要得益於配送、出行和金融服務業務營收增長。Grab預計2026年全年營收將介於41億美元至41.5億美元，高於此前預測的40.4億美元至41億美元。"
-    },
-    {
-      "id": "5023990",
-      "time": "2026-08-04 15:49:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席：當歐洲向本土創新者投入資源，便是在投資歐洲的未來。這正是我們 “歐洲規模化企業基金” 設立的目標。自即日起，該基金將保障本土成長型企業能夠在歐洲本地獲取發展所需資源，成長為全球領軍企業。"
     }
   ]
 }

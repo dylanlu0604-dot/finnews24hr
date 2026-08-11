@@ -1,7 +1,86 @@
 {
   "date": "2026-08-11",
-  "count": 1433,
+  "count": 1442,
   "items": [
+    {
+      "id": "mkt:019fefce-dc8e-7aab-8fec-4bb128ba6f91",
+      "time": "2026-08-11 15:52:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WTI crude futures rose above $84/bbl, up 2.07% on the day."
+    },
+    {
+      "id": "5035308",
+      "time": "2026-08-11 15:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中秋國慶假期出入境機票預訂量已超128萬張】航旅縱橫民航官方直銷平臺大資料顯示，截至8月11日，中秋國慶假期（9月25日-10月7日）的國內航線機票預訂量超171萬張，同比增長約7%；出入境航線機票預訂量超128萬張，同比增長約11%。"
+    },
+    {
+      "id": "5035307",
+      "time": "2026-08-11 15:50:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國股市大起大落催生“炒股綜藝”：明星藝人鏡頭前曬盈虧】據《韓國先驅報》10日報道，韓國電視和YouTube創作者開始將股市焦慮轉化為娛樂內容。與傳統財經節目不同，這類節目跟隨明星和藝人經歷股票投資中的盈利與虧損。這類圍繞股市情緒的新節目中一個最受歡迎的例子，是Netflix韓國推出的《新手金的股市任務》。節目於8月3日首播，邀請喜劇演員金元勳首次進入股市，他在節目中接受其他喜劇演員提供的投資指導，並參加各種任務，與其他參與者比拼。在預告片中，金元勳表示，投入約1.8億韓元炒股後，已虧損2000多萬韓元，“幾乎損失了一輛車的價值”。節目還將鏡頭對準三星電子和SK海力士這兩隻備受關注的股票。受人工智慧相關半導體需求激增以及市場對業績進一步改善的預期推動，兩家公司股價都在2026年年中創下歷史新高。但隨後，兩家公司的股價在7月均暴跌。 (澎湃新聞)"
+    },
+    {
+      "id": "mkt:019fefcd-531c-7aab-8fec-435d3b0f3f24",
+      "time": "2026-08-11 15:50:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China Mid-Autumn–National Day holiday air ticket bookings: domestic 1.71 mln, inbound/outbound 1.28 mln】As of Aug 11, Hanglv Zongheng, the civil aviation official direct-sales platform, shows bookings for the China Mid-Autumn–National Day holiday (Sept 25–Oct 7) exceed 1.71 mln for domestic routes, up about 7% YoY, and exceed 1.28 mln for inbound/outbound routes, up about 11% YoY."
+    },
+    {
+      "id": "te:markets:574371",
+      "time": "2026-08-11 15:50:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "DAX Little Changed — The DAX 40 hovered around 26,320 on Tuesday morning, remaining at record levels, as investors weighed developments surrounding the Middle East conflict. US President Donald Trump on Monday responded to Iran’s conditions for a peace deal with demands that Tehran compensate for people killed in wars, attacks and protests, adding to tensions and potentially complicating diplomatic efforts to reopen the crucial waterway. Gains were led by Deutsche Telekom (+1%), Siemens Energy (+1.1%), Infineon (+0.8%) and RWE (+0.9%), which were offset by losses in Airbus (-1.4%), Daimler Truck Holding (-1.3%) and Hochtief (-1%)."
+    },
+    {
+      "id": "5035306",
+      "time": "2026-08-11 15:48:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行在佛山成立新公司】天眼查App顯示，佛山小馬智行科技有限公司於近日成立，登記狀態為存續，註冊資本2000萬元人民幣。工商資訊顯示，該公司為有限責任公司（非自然人投資或控股的法人獨資），由廣州小馬智行科技有限公司全資持股，認繳出資2000萬元，法定代表人為莫璐怡。公司經營範圍涵蓋技術服務、技術開發、技術諮詢及租賃服務等領域，註冊地址位於佛山市南海區獅山鎮。"
+    },
+    {
+      "id": "mkt:019fefcb-822c-7aab-8fec-39315e478876",
+      "time": "2026-08-11 15:48:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shana: Iran oil minister Paknejad said production of 95 mln cubic meters of natural gas will be restored by end-September."
+    },
+    {
+      "id": "5035305",
+      "time": "2026-08-11 15:48:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，剛果埃博拉死亡人數突破2000人。"
+    },
+    {
+      "id": "5035304",
+      "time": "2026-08-11 15:48:24",
+      "tags": [
+        "行業"
+      ],
+      "text": "【多家中小銀行，逆勢上調存款利率 最高超30個基點】8月以來，湖北、廣東等地多家中小銀行相繼上調存款利率。進入8月，多地城商行、農商行及村鎮銀行公告，對掛牌存款利率或特色存款產品利率進行上調。總體來看，各家銀行的上調幅度在10—33個基點（BP）之間。在宏觀市場利率整體下行、銀行業持續壓降負債成本的背景下，多數中小銀行下調了存款利率，因此前述“反其道而行之”的做法，引發市場關注。業內人士認為，此舉有明顯的階段性攬儲特徵，不具備普適性，且與近期部分國有大行集體重啟五年期大額存單並無直接關聯。（券商中國）"
+    },
     {
       "id": "5035303",
       "time": "2026-08-11 15:48:14",
