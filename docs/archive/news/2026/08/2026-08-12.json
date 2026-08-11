@@ -1,7 +1,71 @@
 {
   "date": "2026-08-12",
-  "count": 202,
+  "count": 209,
   "items": [
+    {
+      "id": "mkt:019ff219-141f-7aab-8ff9-07152e9f0cae",
+      "time": "2026-08-12 02:32:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $83.20 a barrel, up $1.07, or 1.30%."
+    },
+    {
+      "id": "mkt:019ff218-4575-7aab-8ff8-fa0eda44699a",
+      "time": "2026-08-12 02:31:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China rebukes US over 'ballistic missile launch notification' joint statement at Geneva】China's disarmament ambassador Li Chijiang on the 11th at the Geneva Conference on Disarmament sharply rejected a U.S.-led joint statement framed as a 'ballistic missile launch notification' concerning China. Li said China's legitimate, reasonable defence modernization is beyond doubt and that China's practice of advance-notifying missile launches should not be hijacked for geopolitical ends. He said Beijing firmly opposes some countries' misuse of the conference platform for political manipulation."
+    },
+    {
+      "id": "5036322",
+      "time": "2026-08-12 02:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶83.20美元，上漲1.07美元，漲幅1.30%。"
+    },
+    {
+      "id": "te:markets:574508",
+      "time": "2026-08-12 02:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.86% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.86% increase."
+    },
+    {
+      "id": "5036321",
+      "time": "2026-08-12 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.25%，報549.40元人民幣/桶。滬金夜盤收跌0.28%，滬銀收跌0.42%。"
+    },
+    {
+      "id": "5036320",
+      "time": "2026-08-12 02:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方嚴斥美國炮製“彈道導彈發射通報”涉華共同發言】中國裁軍事務大使李馳江11日在日內瓦裁軍談判會議（簡稱裁談會）上嚴正駁斥美國代表所謂“彈道導彈發射通報”涉華共同發言，強調中國正當合理的國防現代化建設不容置疑，中方提前通報導彈發射的善意舉措不應被地緣政治算計所綁架；中方堅決反對個別國家濫用裁談會平臺搞政治操弄。（新華社）"
+    },
+    {
+      "id": "5036319",
+      "time": "2026-08-12 02:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：斯波坎國際機場因附近發生火災，正在組織人員疏散。"
+    },
     {
       "id": "mkt:019ff215-bb29-7aab-8ff8-f18c92346b03",
       "time": "2026-08-12 02:28:58",

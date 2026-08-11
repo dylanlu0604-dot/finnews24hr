@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-12 02:29:23",
-  "count": 15634,
+  "updated": "2026-08-12 02:33:10",
+  "count": 15632,
   "items": [
+    {
+      "id": "mkt:019ff219-141f-7aab-8ff9-07152e9f0cae",
+      "time": "2026-08-12 02:32:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $83.20 a barrel, up $1.07, or 1.30%."
+    },
+    {
+      "id": "mkt:019ff218-4575-7aab-8ff8-fa0eda44699a",
+      "time": "2026-08-12 02:31:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China rebukes US over 'ballistic missile launch notification' joint statement at Geneva】China's disarmament ambassador Li Chijiang on the 11th at the Geneva Conference on Disarmament sharply rejected a U.S.-led joint statement framed as a 'ballistic missile launch notification' concerning China. Li said China's legitimate, reasonable defence modernization is beyond doubt and that China's practice of advance-notifying missile launches should not be hijacked for geopolitical ends. He said Beijing firmly opposes some countries' misuse of the conference platform for political manipulation."
+    },
+    {
+      "id": "5036322",
+      "time": "2026-08-12 02:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶83.20美元，上漲1.07美元，漲幅1.30%。"
+    },
+    {
+      "id": "te:markets:574508",
+      "time": "2026-08-12 02:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Appreciates by 1.86% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 1.86% increase."
+    },
+    {
+      "id": "5036321",
+      "time": "2026-08-12 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.25%，報549.40元人民幣/桶。滬金夜盤收跌0.28%，滬銀收跌0.42%。"
+    },
+    {
+      "id": "5036320",
+      "time": "2026-08-12 02:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方嚴斥美國炮製“彈道導彈發射通報”涉華共同發言】中國裁軍事務大使李馳江11日在日內瓦裁軍談判會議（簡稱裁談會）上嚴正駁斥美國代表所謂“彈道導彈發射通報”涉華共同發言，強調中國正當合理的國防現代化建設不容置疑，中方提前通報導彈發射的善意舉措不應被地緣政治算計所綁架；中方堅決反對個別國家濫用裁談會平臺搞政治操弄。（新華社）"
+    },
+    {
+      "id": "5036319",
+      "time": "2026-08-12 02:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局：斯波坎國際機場因附近發生火災，正在組織人員疏散。"
+    },
     {
       "id": "mkt:019ff215-bb29-7aab-8ff8-f18c92346b03",
       "time": "2026-08-12 02:28:58",
@@ -142340,99 +142404,6 @@
         "國際"
       ],
       "text": "市場訊息：巴西政府預計美國將出臺新制裁。"
-    },
-    {
-      "id": "5025226",
-      "time": "2026-08-05 02:32:27",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "WTI 9月原油期貨收報75.77美元/桶。中東Abu Dhabi Murban原油期貨跌4.73%，報77.22美元/桶。NYMEX 9月天然氣期貨收報2.6820美元/百萬英熱單位。NYMEX 9月汽油期貨收報2.8522美元/加侖，NYMEX 9月取暖油期貨收報3.7705美元/加侖。"
-    },
-    {
-      "id": "mkt:019fce0b-fa0c-7aab-8f75-deadd33d67fd",
-      "time": "2026-08-05 02:31:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Axios: White House will not publicly release advanced AI model evaluation framework details】Axios reported three people familiar with the discussions said the White House does not plan to publicly release the framework it has developed to evaluate advanced AI models; details will be provided only to firms participating in the review process. Firms not included in the process, policymakers, researchers and U.S. allies will not be told how the government plans to implement one of its key AI policies. The White House held a staff-level meeting with industry on Tuesday to discuss the finished framework; companies not invited still do not know its contents. It remains unclear which \"trusted partners\" would get early access to advanced models, including whether foreign governments would qualify. Sources said the meeting discussed open-source models and that NVIDIA staff participated."
-    },
-    {
-      "id": "mkt:019fce0b-f8b5-7aab-8f75-d65ddf9c4068",
-      "time": "2026-08-05 02:31:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close】At the 02:30 night-session close, Shanghai crude (SC) main contract fell 4.93% to 511 yuan/barrel; Shanghai silver main contract rose 3.45% to 14,593 yuan/kg; Shanghai gold main contract rose 0.87% to 891 yuan/gram."
-    },
-    {
-      "id": "mkt:019fce0a-9f08-7aab-8f75-cefe099ea5cd",
-      "time": "2026-08-05 02:30:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Al Jazeera cites US officials saying the Strait of Hormuz is an international waterway and no party can control its shipping lanes or right of transit."
-    },
-    {
-      "id": "mkt:019fce0a-9ea3-7aab-8f75-c329877cbc8e",
-      "time": "2026-08-05 02:30:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed up 0.64% at 887.48 yuan/gram in the Aug. 4 evening session (Tue); Shanghai Gold Exchange Silver T+D closed up 2.56% at 14528.0 yuan/kg."
-    },
-    {
-      "id": "5025225",
-      "time": "2026-08-05 02:30:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，白宮不打算公開發布其用於評估先進人工智慧模型的新框架。"
-    },
-    {
-      "id": "te:markets:572670",
-      "time": "2026-08-05 02:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Rises by 1.37% — Top crypto gainers are Bitcoin (1.37%) and Ether (1.03%)."
-    },
-    {
-      "id": "5025224",
-      "time": "2026-08-05 02:30:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "南加州愛迪生電力公司宣告：該公司認為其裝置很可能與伊頓火災的起火存在關聯。"
-    },
-    {
-      "id": "5025223",
-      "time": "2026-08-05 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌4.93%，報510.50元人民幣/桶。滬金夜盤收漲0.87%，滬銀收漲3.45%。"
     }
   ]
 }
