@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-12 06:13:48",
-  "count": 15512,
+  "updated": "2026-08-12 06:17:40",
+  "count": 15511,
   "items": [
+    {
+      "id": "te:markets:574519",
+      "time": "2026-08-12 06:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 1.06% — Top currency loser is Brazilian Real (-1.06%). Gains are led by Mexican Peso (0.37%) and South Korean Won (0.37%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
     {
       "id": "5036422",
       "time": "2026-08-12 06:02:27",
@@ -141343,26 +141354,6 @@
         "國際"
       ],
       "text": "特朗普：我下令建造11艘新型北極安全巡邏艦，首艦將於2028年交付，保障美國在北極地區長久的實力、主權與安全。國會必須全力支援、全額撥款扶持美國海岸警衛隊，保障其持續完成這項至關重要的使命。"
-    },
-    {
-      "id": "5025432",
-      "time": "2026-08-05 06:15:43",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "基輔市長稱，基輔一棟20層公寓樓遭俄羅斯空襲後起火。"
-    },
-    {
-      "id": "te:markets:572695",
-      "time": "2026-08-05 06:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Australian Dollar Increases by 0.66% — Top currency gainers are Australian Dollar (0.66%), Polish Zloty (0.59%), Swedish Krona (0.47%), Euro (0.20%) and British Pound (0.13%). Biggest losers are Brazilian Real (-0.40%) and Japanese Yen (-0.35%). Meanwhile Dollar Index was little changed."
     }
   ]
 }

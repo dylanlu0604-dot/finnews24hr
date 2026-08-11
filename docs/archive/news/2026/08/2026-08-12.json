@@ -1,7 +1,18 @@
 {
   "date": "2026-08-12",
-  "count": 396,
+  "count": 397,
   "items": [
+    {
+      "id": "te:markets:574519",
+      "time": "2026-08-12 06:15:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Drops by 1.06% — Top currency loser is Brazilian Real (-1.06%). Gains are led by Mexican Peso (0.37%) and South Korean Won (0.37%). Meanwhile, British Pound and Japanese Yen were little changed."
+    },
     {
       "id": "5036422",
       "time": "2026-08-12 06:02:27",
