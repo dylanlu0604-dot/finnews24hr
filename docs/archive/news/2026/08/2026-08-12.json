@@ -1,7 +1,63 @@
 {
   "date": "2026-08-12",
-  "count": 117,
+  "count": 123,
   "items": [
+    {
+      "id": "5036281",
+      "time": "2026-08-12 00:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。"
+    },
+    {
+      "id": "mkt:019ff1c1-16ae-7aab-8ff7-df999fe3797f",
+      "time": "2026-08-12 00:56:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SPACEXAI launched Grok bot."
+    },
+    {
+      "id": "5036280",
+      "time": "2026-08-12 00:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。"
+    },
+    {
+      "id": "mkt:019ff1c0-b4b8-7aab-8ff7-d015b6e548f3",
+      "time": "2026-08-12 00:56:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week."
+    },
+    {
+      "id": "5036279",
+      "time": "2026-08-12 00:55:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。"
+    },
+    {
+      "id": "mkt:019ff1bf-c94b-7aab-8ff7-c9c6e23ffb62",
+      "time": "2026-08-12 00:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production."
+    },
     {
       "id": "5036278",
       "time": "2026-08-12 00:54:12",

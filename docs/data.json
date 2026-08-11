@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-12 00:55:17",
-  "count": 15616,
+  "updated": "2026-08-12 00:59:15",
+  "count": 15619,
   "items": [
+    {
+      "id": "5036281",
+      "time": "2026-08-12 00:58:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：工作人員與幾內亞當局已就一項為期41個月、金額為3.1059億特別提款權的擴充套件信貸安排達成工作人員層面協議。"
+    },
+    {
+      "id": "mkt:019ff1c1-16ae-7aab-8ff7-df999fe3797f",
+      "time": "2026-08-12 00:56:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SPACEXAI launched Grok bot."
+    },
+    {
+      "id": "5036280",
+      "time": "2026-08-12 00:56:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：Grok聊天機器人已處於測試階段，今日起向訂閱SuperGrok Heavy、Cursor Ultra與Cursor Teams Premium套餐的桌面端及iOS使用者開放使用。"
+    },
+    {
+      "id": "mkt:019ff1c0-b4b8-7aab-8ff7-d015b6e548f3",
+      "time": "2026-08-12 00:56:05",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "CBC reports Canadian and U.S. trade officials are drafting a potential agreement and plan to present it to Trump next week."
+    },
+    {
+      "id": "5036279",
+      "time": "2026-08-12 00:55:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司稱扎維耶煉油廠恢復運營後遭無人機襲擊，燃料罐被擊中。"
+    },
+    {
+      "id": "mkt:019ff1bf-c94b-7aab-8ff7-c9c6e23ffb62",
+      "time": "2026-08-12 00:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The EIA currently assesses that recent threats to vessels carrying Saudi oil through the Bab al-Mandeb Strait have not disrupted oil production."
+    },
     {
       "id": "5036278",
       "time": "2026-08-12 00:54:12",
@@ -142213,37 +142269,6 @@
         "Impact bullish"
       ],
       "text": "【Novo Nordisk raises guidance for second time this year】Novo Nordisk (NVO.N) raised its full-year guidance for the second time this year, citing higher sales expectations for its obesity and diabetes medicines. Adjusted operating profit for Q2 2026 was DKK 33.389bn. The company now expects maximum declines in sales and profit of 6% this year at constant currency, narrowed from a prior worst-case of a 12% decline. Novo Nordisk said it is competing with Eli Lilly (LLY.N) in the obesity market, which it expects could reach about $120bn a year by 2030."
-    },
-    {
-      "id": "mkt:019fcdb6-101c-7aab-8f74-cee2307e939f",
-      "time": "2026-08-05 00:58:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "JPM.N"
-      ],
-      "text": "Market sources say JP Morgan (JPM.N) is close to agreeing a deal to acquire Antin's French district-cooling network supplier."
-    },
-    {
-      "id": "mkt:019fcdb4-ffbb-7aab-8f74-c61aa7217b18",
-      "time": "2026-08-05 00:56:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Chilean media report state miner Codelco has temporarily suspended the El Teniente expansion project citing seismic risk."
-    },
-    {
-      "id": "5025192",
-      "time": "2026-08-05 00:56:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：智利國家銅業公司（Codelco）因地震地質風險，臨時暫停埃爾特尼恩特（El Teniente）銅礦擴建專案。"
     }
   ]
 }
