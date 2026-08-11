@@ -1,7 +1,104 @@
 {
   "date": "2026-08-12",
-  "count": 123,
+  "count": 133,
   "items": [
+    {
+      "id": "5036286",
+      "time": "2026-08-12 01:02:23",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。"
+    },
+    {
+      "id": "mkt:019ff1c6-32e9-7aab-8ff8-00361edd1ce2",
+      "time": "2026-08-12 01:02:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Romanian defence minister said Romanian forces destroyed two \"Gerbera\"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project."
+    },
+    {
+      "id": "5036285",
+      "time": "2026-08-12 01:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Threads現已在Meta Quest上作為原生VR應用推出。"
+    },
+    {
+      "id": "5036284",
+      "time": "2026-08-12 01:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。"
+    },
+    {
+      "id": "mkt:019ff1c5-1ec2-7aab-8ff7-fa020f37beb1",
+      "time": "2026-08-12 01:00:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks."
+    },
+    {
+      "id": "mkt:019ff1c4-8515-7aab-8ff7-f5324f221d3d",
+      "time": "2026-08-12 01:00:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million."
+    },
+    {
+      "id": "5036283",
+      "time": "2026-08-12 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。"
+    },
+    {
+      "id": "mkt:019ff1c4-1a9d-7aab-8ff7-e8ebebb33166",
+      "time": "2026-08-12 00:59:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels."
+    },
+    {
+      "id": "mkt:019ff1c3-2ac0-7aab-8ff7-e38db43177a9",
+      "time": "2026-08-12 00:58:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS."
+    },
+    {
+      "id": "5036282",
+      "time": "2026-08-12 00:58:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。"
+    },
     {
       "id": "5036281",
       "time": "2026-08-12 00:58:35",

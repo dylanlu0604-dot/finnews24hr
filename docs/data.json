@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-12 00:59:15",
-  "count": 15619,
+  "updated": "2026-08-12 01:03:13",
+  "count": 15618,
   "items": [
+    {
+      "id": "5036286",
+      "time": "2026-08-12 01:02:23",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣580億美元三年期國債，得標利率4.291%（7月7日為4.179%），投標倍數2.71（前次為2.60）。"
+    },
+    {
+      "id": "mkt:019ff1c6-32e9-7aab-8ff8-00361edd1ce2",
+      "time": "2026-08-12 01:02:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Romanian defence minister said Romanian forces destroyed two \"Gerbera\"-type drones in Romania's Black Sea exclusive economic zone near the Neptun Deep offshore gas project."
+    },
+    {
+      "id": "5036285",
+      "time": "2026-08-12 01:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Threads現已在Meta Quest上作為原生VR應用推出。"
+    },
+    {
+      "id": "5036284",
+      "time": "2026-08-12 01:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西雷亞爾兌美元即期交易下跌1%，跌至1美元兌5.16雷亞爾。"
+    },
+    {
+      "id": "mkt:019ff1c5-1ec2-7aab-8ff7-fa020f37beb1",
+      "time": "2026-08-12 01:00:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Libya's National Oil Corporation said the Zawiya refinery was struck by a drone attack after resuming operations; the assault targeted fuel storage tanks."
+    },
+    {
+      "id": "mkt:019ff1c4-8515-7aab-8ff7-f5324f221d3d",
+      "time": "2026-08-12 01:00:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IMF staff and Guinean authorities have reached agreement on a 41-month extended credit facility worth SDR 310.59 million."
+    },
+    {
+      "id": "5036283",
+      "time": "2026-08-12 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.21%，滬銅收漲0.04%，滬鋁收漲0.58%，滬鋅收跌0.08%，滬鉛收跌0.09%，滬鎳收跌0.50%，滬錫收漲0.35%。氧化鋁夜盤收漲1.00%，鋁合金收漲0.42%。不鏽鋼夜盤收跌0.07%。"
+    },
+    {
+      "id": "mkt:019ff1c4-1a9d-7aab-8ff7-e8ebebb33166",
+      "time": "2026-08-12 00:59:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "The EIA expects U.S. crude net imports to remain below average through 2027, driven by strong global demand for U.S. crude exports and persistently low U.S. import levels."
+    },
+    {
+      "id": "mkt:019ff1c3-2ac0-7aab-8ff7-e38db43177a9",
+      "time": "2026-08-12 00:58:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceXAI said its Grok Bot chatbot is in testing and is being rolled out today to SuperGrok Heavy, Cursor Ultra and Cursor Teams Premium subscribers on desktop and iOS."
+    },
+    {
+      "id": "5036282",
+      "time": "2026-08-12 00:58:42",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源資訊署預計，受美國原油出口全球需求旺盛、美國本土原油進口量偏低影響，到2027年美國原油淨進口量將持續低於平均水平。"
+    },
     {
       "id": "5036281",
       "time": "2026-08-12 00:58:35",
@@ -142166,109 +142263,6 @@
         "Copper"
       ],
       "text": "Codelco said it detected a newly emerging seismic phenomenon distinct from previously known risks."
-    },
-    {
-      "id": "5025197",
-      "time": "2026-08-05 01:01:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數漲幅擴大至3%，創下盤中新高。"
-    },
-    {
-      "id": "mkt:019fcdb9-1bc2-7aab-8f74-f9d4d89593e4",
-      "time": "2026-08-05 01:01:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Codelco said it has taken precautionary safety measures and temporarily suspended the Andes Norte project."
-    },
-    {
-      "id": "mkt:019fcdb8-c38b-7aab-8f74-f125cfe4d9f0",
-      "time": "2026-08-05 01:01:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department said a new round of U.S.-facilitated talks between Israel and Lebanon began in Rome today and will run through Aug. 6."
-    },
-    {
-      "id": "5025196",
-      "time": "2026-08-05 01:00:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲1%，現報4096.27美元/盎司。"
-    },
-    {
-      "id": "mkt:019fcdb8-8f97-7aab-8f74-eea136f46853",
-      "time": "2026-08-05 01:00:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose 1.00% intraday to $4,096.28/oz."
-    },
-    {
-      "id": "5025195",
-      "time": "2026-08-05 01:00:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院：由美國斡旋的以黎最新一輪談判今日在羅馬啟動，將持續至 8 月 6 日。"
-    },
-    {
-      "id": "mkt:019fcdb8-8122-7aab-8f74-e37f56c3ecb5",
-      "time": "2026-08-05 01:00:48",
-      "tags": [
-        "MKT News",
-        "PG.N",
-        "Impact mixed"
-      ],
-      "text": "Thorne and Procter & Gamble (PG.N) reached a definitive acquisition agreement."
-    },
-    {
-      "id": "5025194",
-      "time": "2026-08-05 01:00:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國方面：以色列與黎巴嫩談判於今日啟動，將持續至 8 月 6 日。"
-    },
-    {
-      "id": "mkt:019fcdb7-fb91-7aab-8f74-de2831822e09",
-      "time": "2026-08-05 01:00:14",
-      "tags": [
-        "MKT News",
-        "IDEX.PA",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan's purchase of an Antin unit is expected to set Idex's enterprise value, including debt, at about €3.8bln; the deal may be announced in the coming days."
-    },
-    {
-      "id": "5025193",
-      "time": "2026-08-05 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.76%，滬銅收漲0.68%，滬鋁收漲0.08%，滬鋅收漲0.84%，滬鉛收漲1.79%，滬鎳收跌0.75%，滬錫收漲0.63%。氧化鋁夜盤收漲0.19%，鋁合金收漲0.09%。不鏽鋼夜盤收跌1.25%。"
-    },
-    {
-      "id": "mkt:019fcdb7-60c0-7aab-8f74-d0e7912cc576",
-      "time": "2026-08-05 00:59:34",
-      "tags": [
-        "MKT News",
-        "NVO.N",
-        "Impact bullish"
-      ],
-      "text": "【Novo Nordisk raises guidance for second time this year】Novo Nordisk (NVO.N) raised its full-year guidance for the second time this year, citing higher sales expectations for its obesity and diabetes medicines. Adjusted operating profit for Q2 2026 was DKK 33.389bn. The company now expects maximum declines in sales and profit of 6% this year at constant currency, narrowed from a prior worst-case of a 12% decline. Novo Nordisk said it is competing with Eli Lilly (LLY.N) in the obesity market, which it expects could reach about $120bn a year by 2030."
     }
   ]
 }
