@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-12 04:25:10",
-  "count": 15618,
+  "updated": "2026-08-12 04:33:14",
+  "count": 15612,
   "items": [
+    {
+      "id": "5036382",
+      "time": "2026-08-12 04:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "Hyliion：獲得美國海軍 4170 萬美元合同，提供多兆瓦 Karno 電力模組，預計 2026 年還將斬獲其他合同。"
+    },
+    {
+      "id": "mkt:019ff285-6271-7aab-8ffa-797e25a3ba66",
+      "time": "2026-08-12 04:30:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Insiders: shipowner paid nearly record $4m to jump Panama Canal queue】A shipowner paid about $4m to secure priority transit for container vessel Seaspan Benefactor through the Panama Canal, near a historic high, sources said. Iran-related hostilities have pushed global shipping to seek alternative routes, worsening canal congestion. Neo-Panamax LNG carriers, LPG ships, and crude and product tankers face roughly 10-day waits for transit, the longest since May. Restrictions at the Strait of Hormuz and Bab el-Mandeb have prompted Asian oil, gas, fertilizer and chemical traders to reroute. Panama Canal lock maintenance and El Niño-driven low rainfall have reduced capacity, lifting vessel waiting costs."
+    },
     {
       "id": "5036380",
       "time": "2026-08-12 04:22:05",
@@ -142195,82 +142216,6 @@
         "Brent"
       ],
       "text": "US Energy Secretary Wright said an extension of the Jones Act waiver is likely; the waiver has already pushed down energy prices in California and on the US East Coast."
-    },
-    {
-      "id": "5025311",
-      "time": "2026-08-05 04:32:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceX營收超預期 千億解禁潮本週將至】SpaceX釋出Q2營收（78億美元），業績超出華爾街預期（68億美元）。該公司此前透過史上規模最大的IPO募資860億美元，此後股價因IPO後波動及AI板塊整體拋售而大幅下挫，從峰值蒸發了超過1萬億美元市值，馬斯克全球首位萬億富豪的地位也隨之喪失。為該公司增添不確定性的另一因素是，本週晚些時候將有逾1000億美元市值的股票解禁，可能給股價帶來進一步下行壓力。在電話會議上，分析師很可能就公司龐大的AI支出、Starlink網際網路業務的擴張計劃，以及星艦能以多快速度發射衛星和載人等問題，向馬斯克追問細節。"
-    },
-    {
-      "id": "mkt:019fce79-cdae-7aab-8f76-ed63801deeb4",
-      "time": "2026-08-05 04:31:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US Energy Secretary Wright says fuel prices should fall in coming weeks."
-    },
-    {
-      "id": "5025310",
-      "time": "2026-08-05 04:31:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：《瓊斯法案》豁免期延長可能性較大，此舉已促使加利福尼亞州及美國東海岸能源價格下降。"
-    },
-    {
-      "id": "5025309",
-      "time": "2026-08-05 04:30:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達：一份霍爾木茲海峽臨時協議草案已經擬定；美國與伊朗官員釋放樂觀訊號，特朗普同卡達埃米爾討論局勢緩和，伊朗方面考慮允許歐洲國家在該海峽開展排雷作業。"
-    },
-    {
-      "id": "5025308",
-      "time": "2026-08-05 04:30:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源部長賴特：未來幾周燃料價格應該會回落。"
-    },
-    {
-      "id": "5025307",
-      "time": "2026-08-05 04:30:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國的彈藥儲備遠遠超過所需。"
-    },
-    {
-      "id": "5025306",
-      "time": "2026-08-05 04:29:54",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【 SpaceX二季度財報核心亮點】\n1. 總營收78億美元，去年同期41億美元，同比增長92%；\n2. 淨虧損5.41億美元，較去年同期10億美元淨虧損收窄4.67億美元；\n3. 調整後息稅折舊攤銷前利潤35億美元，去年同期12億美元，同比增長191%；\n4. 航天、衛星互聯、人工智慧三大業務板塊營收同比漲92%；\n5. 過去90天完成兩次第三代星艦試飛；\n6. 簽署多項行業頭部雲服務合作協議，新增合約銷售額141億美元；\n7. 宣佈以600億美元收購Cursor；\n8. 7月推出旗下人工智慧大模型Grok 4.5；\n9. 衛星互聯板塊營收同比增長66%、營業利潤同比提升79%；核心驅動力為星鏈使用者數量翻倍；\n10. 星盾業務獲超60億美元美國政府多年期合同。"
-    },
-    {
-      "id": "te:markets:572686",
-      "time": "2026-08-05 04:25:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Prudential Financial earnings above expectations at 4.08 USD — Prudential Financial (PRU) released earnings per share at 4.08 USD, compared to market expectations of 3.35 USD."
     }
   ]
 }

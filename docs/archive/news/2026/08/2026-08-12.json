@@ -1,7 +1,28 @@
 {
   "date": "2026-08-12",
-  "count": 314,
+  "count": 316,
   "items": [
+    {
+      "id": "5036382",
+      "time": "2026-08-12 04:32:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "Hyliion：獲得美國海軍 4170 萬美元合同，提供多兆瓦 Karno 電力模組，預計 2026 年還將斬獲其他合同。"
+    },
+    {
+      "id": "mkt:019ff285-6271-7aab-8ffa-797e25a3ba66",
+      "time": "2026-08-12 04:30:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Insiders: shipowner paid nearly record $4m to jump Panama Canal queue】A shipowner paid about $4m to secure priority transit for container vessel Seaspan Benefactor through the Panama Canal, near a historic high, sources said. Iran-related hostilities have pushed global shipping to seek alternative routes, worsening canal congestion. Neo-Panamax LNG carriers, LPG ships, and crude and product tankers face roughly 10-day waits for transit, the longest since May. Restrictions at the Strait of Hormuz and Bab el-Mandeb have prompted Asian oil, gas, fertilizer and chemical traders to reroute. Panama Canal lock maintenance and El Niño-driven low rainfall have reduced capacity, lifting vessel waiting costs."
+    },
     {
       "id": "5036380",
       "time": "2026-08-12 04:22:05",
