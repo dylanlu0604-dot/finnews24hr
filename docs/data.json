@@ -1,7 +1,77 @@
 {
-  "updated": "2026-08-12 01:42:30",
+  "updated": "2026-08-12 01:51:00",
   "count": 15626,
   "items": [
+    {
+      "id": "mkt:019ff1f0-25b1-7aab-8ff8-a820fc034e96",
+      "time": "2026-08-12 01:47:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said the team will first fix foundational issues in the Grok Bot beta and, after releasing Grok 4.6 later this week, expand beta access to more users."
+    },
+    {
+      "id": "5036304",
+      "time": "2026-08-12 01:47:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "葉門武裝部隊在曼德海峽襲擊了一艘載有沙烏地阿拉伯軍事裝備的船隻。"
+    },
+    {
+      "id": "mkt:019ff1ef-70e0-7aab-8ff8-a14531dfbb2b",
+      "time": "2026-08-12 01:47:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Aziz, chair of Iran's parliamentary National Security and Foreign Policy Committee, said the nuclear issue is a central public demand and will be a complex part of negotiations, adding that talks will be very difficult."
+    },
+    {
+      "id": "5036303",
+      "time": "2026-08-12 01:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家安全委員會成員阿齊茲就核問題表示：就此展開談判將會十分困難。"
+    },
+    {
+      "id": "5036302",
+      "time": "2026-08-12 01:45:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：我們在解決早期測試版的基礎問題後，會擴大Grok聊天機器人測試版的開放範圍，並將於本週晚些時候推出Grok 4.6版本。"
+    },
+    {
+      "id": "mkt:019ff1eb-692e-7aab-8ff8-9edcda7d1a1a",
+      "time": "2026-08-12 01:42:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) said the GEMINI app exceeded 1 billion monthly active users (MAU), making it the fastest-growing product in the company's history."
+    },
+    {
+      "id": "5036301",
+      "time": "2026-08-12 01:42:11",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "谷歌執行長皮查伊：Gemini月活使用者現已突破10億，Gemini是谷歌有史以來增長最快的產品。"
+    },
     {
       "id": "mkt:019ff1e8-c738-7aab-8ff8-9577942df2b2",
       "time": "2026-08-12 01:39:52",
@@ -142270,72 +142340,6 @@
         "Impact mixed"
       ],
       "text": "Zero Hedge posted that 95% of lendable SpaceX shares have been borrowed, implying short positions equal to 34% of the float. Musk replied: \"I tried to warn them, but they just doubled down.\" SpaceX (SPCX.O) will report Q2 after the U.S. market close today."
-    },
-    {
-      "id": "mkt:019fcde4-9318-7aab-8f75-6b4702840095",
-      "time": "2026-08-05 01:48:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Dow and S&P 500 gains widened to 2%; Nasdaq rose 2.7%. The Philadelphia Semiconductor Index surged 7% as Arm jumped 17.4%, Intel climbed 10.9%, AMD gained 9.3%, Broadcom and Qualcomm rose over 7%, and NVIDIA added 2.5%."
-    },
-    {
-      "id": "5025213",
-      "time": "2026-08-05 01:48:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股三大指數均漲超2%】道指漲2.04%，現報54261.602點；納指漲2.74%，現報26625.090點；標普500指數漲2.00%，現報7752.590點。"
-    },
-    {
-      "id": "5025212",
-      "time": "2026-08-05 01:47:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "道指漲2.01%，現報54245.199點；納指漲2.72%，現報26618.311點；標普500指數漲1.97%，現報7750.110點。"
-    },
-    {
-      "id": "mkt:019fcde2-8633-7aab-8f75-65e864e35634",
-      "time": "2026-08-05 01:46:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【House Democrats Press Hegseth on Pentagon Casualty Reporting in Iran War】Two senior House Democrats, Reps. Robert Garcia (CA) and Suhas Subramanyam (VA), wrote to Defense Secretary Hegseth on Tuesday criticizing the Pentagon’s methodology for reporting US casualties in the Iran war and saying they are investigating the Defense Department’s public casualty reporting. The lawmakers cited slow publication of injured personnel figures, reliance on the Defense Casualty Analysis System (DCAS) as the sole source for updates, and incidents where death and injury entries were temporarily removed from DCAS. As of Tuesday afternoon DCAS records show 18 US service members killed and 687 wounded since the conflict began on Feb. 28."
-    },
-    {
-      "id": "5025211",
-      "time": "2026-08-05 01:45:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴斯勒（Basler AG）：索尼日本影象感測器產線臨時停產，供應受限狀況預計持續至 8 月中旬。"
-    },
-    {
-      "id": "5025210",
-      "time": "2026-08-05 01:44:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：傑富瑞在陷入困境的基金中發現新的假髮票證據。"
-    },
-    {
-      "id": "te:markets:572666",
-      "time": "2026-08-05 01:44:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Orange Juice Hits 4-week High — Orange Juice increased to 159.40 USd/Lbs, the highest since July 2026. Over the past 4 weeks, Orange Juice lost 4.73%, and in the last 12 months, it decreased 32.3%."
     }
   ]
 }
