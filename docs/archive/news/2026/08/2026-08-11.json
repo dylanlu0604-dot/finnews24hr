@@ -1,7 +1,317 @@
 {
   "date": "2026-08-11",
-  "count": 2372,
+  "count": 2403,
   "items": [
+    {
+      "id": "5036022",
+      "time": "2026-08-11 21:11:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "藍貓頭鷹資本公告高階票據發行。"
+    },
+    {
+      "id": "5036021",
+      "time": "2026-08-11 21:11:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震死亡人數升至181人】哥倫比亞全國首府協會負責人11日對當地媒體說，10日在該國西部發生的7.4級強震已造成181人死亡、1310人受傷。（新華社）"
+    },
+    {
+      "id": "5036020",
+      "time": "2026-08-11 21:09:58",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞士央行的美股持倉創新高 前三大持股為英偉達、蘋果和微軟】今年第二季度，瑞士央行以美國股票形式持有的外匯儲備增長超過10%，並達到歷史最高水平。根據週二公佈的瑞士央行提交給美國證券交易委員會的所謂13F申報，截至6月30日，該行在2300多家在美國上市公司中的持股價值1914億美元。瑞士央行略微超過四分之一的外匯儲備以股票方式持有，其中一部分投資於在美國上市的股票。前三大持股分別是英偉達、蘋果和微軟。該央行還持有防務軟體公司Palantir Technologies Inc.價值7.166億美元的股份。"
+    },
+    {
+      "id": "te:markets:574445",
+      "time": "2026-08-11 21:09:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
+    },
+    {
+      "id": "5036019",
+      "time": "2026-08-11 21:08:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅培：與谷歌多年合作將雅培的Lingo生物可穿戴裝置的血糖觀察與谷歌健康技術相結合。"
+    },
+    {
+      "id": "te:markets:574444",
+      "time": "2026-08-11 21:08:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Pulls Back on Iran Deal Hopes — Crude oil fell below $82 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
+    },
+    {
+      "id": "mkt:019ff0f0-1c5e-7aab-8ff3-0eb4f35bb846",
+      "time": "2026-08-11 21:08:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "ABT.O",
+        "GOOGL.O"
+      ],
+      "text": "Abbott and Google launched their first joint project to apply blood-glucose insights and artificial intelligence to everyday health management."
+    },
+    {
+      "id": "mkt:019ff0ef-a83f-7aab-8ff3-0428d8a6b0bf",
+      "time": "2026-08-11 21:07:45",
+      "tags": [
+        "MKT News",
+        "ABT.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "Abbott to integrate its Lingo biowearable glucose monitoring with Google Health technology after years of collaboration."
+    },
+    {
+      "id": "mkt:019ff0ef-45be-7aab-8ff2-fc088e938288",
+      "time": "2026-08-11 21:07:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "ABT.O"
+      ],
+      "text": "Abbott said its collaboration with Google includes large-scale studies to better guide AI training."
+    },
+    {
+      "id": "5036018",
+      "time": "2026-08-11 21:07:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅培與谷歌：合作涵蓋大規模研究專案，旨在為人工智慧輔導應用提供更完善的依據。"
+    },
+    {
+      "id": "mkt:019ff0ee-f7f1-7aab-8ff2-f0cb51aa59f6",
+      "time": "2026-08-11 21:07:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Nemotron 3.5 Lightning can run locally on NVIDIA RTX PCs, NVIDIA DGX Spark, OEM systems equipped with the GB10, and the NVIDIA Jetson platform."
+    },
+    {
+      "id": "5036017",
+      "time": "2026-08-11 21:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部將對明尼蘇達州初選開展選舉監督工作。"
+    },
+    {
+      "id": "5036016",
+      "time": "2026-08-11 21:06:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大衛·埃裡森威脅，若加州政府拒絕就反壟斷訴訟達成和解，將於10月1日起把派拉蒙遷出加州。"
+    },
+    {
+      "id": "mkt:019ff0ee-1baf-7aab-8ff2-e95d60a315c3",
+      "time": "2026-08-11 21:06:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): Nemo Switchyard cuts cost to complete benchmarks to one-third of OPUS 4.8."
+    },
+    {
+      "id": "mkt:019ff0ed-9818-7aab-8ff2-e23e31d6e57c",
+      "time": "2026-08-11 21:05:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Argentina's monthly inf forecast for July 2.0%, up from 1.9% in June."
+    },
+    {
+      "id": "5036015",
+      "time": "2026-08-11 21:05:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達全力研發Nemotron 4開源大模型 拉動晶片需求同時直面客戶競爭】英偉達正加碼佈局開源賽道，投入資源自研一款重磅大模型。公司希望藉助該模型拉動硬體需求，但此舉也意味著它或將與自身客戶、合作伙伴形成競爭。多名參與 Nemotron 專案的人士透露，英偉達計劃打造 Nemotron 4 系列中規模最大的基礎模型，目標效能對標全球頂尖開源大模型。英偉達上一代旗艦大模型相關論文擁有 570 名作者，員工表示 Nemotron 4 參與研發人員規模將進一步擴大。一名前員工稱：“現階段所有人都希望能夠參與其中。”英偉達近期持續推出多款開源模型，本次研發建立在此基礎之上。週二，英偉達釋出 Nemotron 3.5 Lightning 輕量化模型，主打高效、高速執行智慧體。公司同時推出免費模型路由軟體，幫助企業快速搭建模型排程工具 —— 這類工具能夠將不同 AI 任務分配給適配且成本最優的模型。多名 Nemotron 專案員工透露，旗艦版 Nemotron 4 引數量至少達到萬億級別。引數量是模型學習過程中持續調整的引數單元，這一規模大約是英偉達當前旗艦模型 Nemotron 3 Ultra（6 月釋出）的兩倍。即便達到萬億引數，該模型體量依舊小於美國頭部開源大模型；不過英偉達十分看重模型壓縮技術，依靠該技術，更小體量模型也有望實現更優表現。"
+    },
+    {
+      "id": "5036014",
+      "time": "2026-08-11 21:05:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出Nemotron 3.5 Lightning大模型，可透過OpenRouter、英偉達開發者平臺build.nvidia.com及雲合作伙伴獲取"
+    },
+    {
+      "id": "te:markets:574443",
+      "time": "2026-08-11 21:05:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Inditex Stock Price Hits 12-year High — Inditex shares increased to 59.33 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 8.25%, and in the last 12 months, it increased 40.34%."
+    },
+    {
+      "id": "5036013",
+      "time": "2026-08-11 21:04:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達美股盤前漲近2%】英偉達美股盤前漲近2%。據報道，公司正在開發一款新的Nemotron 4開源AI模型。"
+    },
+    {
+      "id": "5036012",
+      "time": "2026-08-11 21:04:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德・馬丁將為 MPDS 專案投入數百萬美元資金。"
+    },
+    {
+      "id": "5036011",
+      "time": "2026-08-11 21:04:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：NEMO Switchyard將基準測試完成成本降至Opus 4.8的三分之一。"
+    },
+    {
+      "id": "5036010",
+      "time": "2026-08-11 21:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達已攜手vLLM、Ollama、llama.cpp、LM Studio、Unsloth，共同推出Nemotron 3.5 Lightning大模型。"
+    },
+    {
+      "id": "mkt:019ff0ec-2c5d-7aab-8ff2-db19d9f43b2d",
+      "time": "2026-08-11 21:03:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reported several NVIDIA (NVDA.O) employees working on the NEMOTRON project said they expect the largest NEMOTRON 4 model to have at least 1 trillion parameters."
+    },
+    {
+      "id": "5036009",
+      "time": "2026-08-11 21:03:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雅培與谷歌就血糖資料分析與人工智慧達成多年合作，雅培股價盤前上漲1%。"
+    },
+    {
+      "id": "5036008",
+      "time": "2026-08-11 21:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍向加沙地帶構成威脅的哈馬斯狙擊手開火。"
+    },
+    {
+      "id": "5036007",
+      "time": "2026-08-11 21:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出Nemotron 3.5 Lightning開放版300億引數混合專家模型。"
+    },
+    {
+      "id": "5036006",
+      "time": "2026-08-11 21:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：7月份新興市場股票資金流出放緩至78億美元，低於6月份的461億美元。7月份新興市場債務吸引資金流入267億美元，6月份為281億美元。7月份非居民投資者向新興市場投資組合淨增188億美元，結束了連續兩個月的資金外流。截至7月，新興市場債務流入量達到2144億美元，而2025年同期預計為1777億美元。截至7月份，新興市場股票年度資金流出總額為860億美元，而去年同期為90億美元。"
+    },
+    {
+      "id": "mkt:019ff0eb-93a2-7aab-8ff2-d0401f26a92c",
+      "time": "2026-08-11 21:03:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA releases NEMOTRON 3.5 LIGHTNING open model."
+    },
+    {
+      "id": "mkt:019ff0eb-1f81-7aab-8ff2-caf6bb4d83a3",
+      "time": "2026-08-11 21:02:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports NVIDIA (NVDA.O) is developing a new Nemotron 4 open-source AI model."
+    },
+    {
+      "id": "5036005",
+      "time": "2026-08-11 21:02:48",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：英偉達正在開發全新開源人工智慧模型Nemotron 4。"
+    },
+    {
+      "id": "5036004",
+      "time": "2026-08-11 21:02:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅培將與谷歌開展大規模代謝健康研究。"
+    },
     {
       "id": "mkt:019ff0ea-a700-7aab-8ff2-c7e06eef9dec",
       "time": "2026-08-11 21:02:17",

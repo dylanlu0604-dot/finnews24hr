@@ -1,7 +1,317 @@
 {
-  "updated": "2026-08-11 21:04:27",
+  "updated": "2026-08-11 21:13:49",
   "count": 15632,
   "items": [
+    {
+      "id": "5036022",
+      "time": "2026-08-11 21:11:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "藍貓頭鷹資本公告高階票據發行。"
+    },
+    {
+      "id": "5036021",
+      "time": "2026-08-11 21:11:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震死亡人數升至181人】哥倫比亞全國首府協會負責人11日對當地媒體說，10日在該國西部發生的7.4級強震已造成181人死亡、1310人受傷。（新華社）"
+    },
+    {
+      "id": "5036020",
+      "time": "2026-08-11 21:09:58",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【瑞士央行的美股持倉創新高 前三大持股為英偉達、蘋果和微軟】今年第二季度，瑞士央行以美國股票形式持有的外匯儲備增長超過10%，並達到歷史最高水平。根據週二公佈的瑞士央行提交給美國證券交易委員會的所謂13F申報，截至6月30日，該行在2300多家在美國上市公司中的持股價值1914億美元。瑞士央行略微超過四分之一的外匯儲備以股票方式持有，其中一部分投資於在美國上市的股票。前三大持股分別是英偉達、蘋果和微軟。該央行還持有防務軟體公司Palantir Technologies Inc.價值7.166億美元的股份。"
+    },
+    {
+      "id": "te:markets:574445",
+      "time": "2026-08-11 21:09:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
+    },
+    {
+      "id": "5036019",
+      "time": "2026-08-11 21:08:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅培：與谷歌多年合作將雅培的Lingo生物可穿戴裝置的血糖觀察與谷歌健康技術相結合。"
+    },
+    {
+      "id": "te:markets:574444",
+      "time": "2026-08-11 21:08:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Pulls Back on Iran Deal Hopes — Crude oil fell below $82 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest."
+    },
+    {
+      "id": "mkt:019ff0f0-1c5e-7aab-8ff3-0eb4f35bb846",
+      "time": "2026-08-11 21:08:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "ABT.O",
+        "GOOGL.O"
+      ],
+      "text": "Abbott and Google launched their first joint project to apply blood-glucose insights and artificial intelligence to everyday health management."
+    },
+    {
+      "id": "mkt:019ff0ef-a83f-7aab-8ff3-0428d8a6b0bf",
+      "time": "2026-08-11 21:07:45",
+      "tags": [
+        "MKT News",
+        "ABT.O",
+        "Impact bullish",
+        "GOOGL.O"
+      ],
+      "text": "Abbott to integrate its Lingo biowearable glucose monitoring with Google Health technology after years of collaboration."
+    },
+    {
+      "id": "mkt:019ff0ef-45be-7aab-8ff2-fc088e938288",
+      "time": "2026-08-11 21:07:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "ABT.O"
+      ],
+      "text": "Abbott said its collaboration with Google includes large-scale studies to better guide AI training."
+    },
+    {
+      "id": "5036018",
+      "time": "2026-08-11 21:07:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅培與谷歌：合作涵蓋大規模研究專案，旨在為人工智慧輔導應用提供更完善的依據。"
+    },
+    {
+      "id": "5036017",
+      "time": "2026-08-11 21:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部將對明尼蘇達州初選開展選舉監督工作。"
+    },
+    {
+      "id": "mkt:019ff0ee-f7f1-7aab-8ff2-f0cb51aa59f6",
+      "time": "2026-08-11 21:07:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Nemotron 3.5 Lightning can run locally on NVIDIA RTX PCs, NVIDIA DGX Spark, OEM systems equipped with the GB10, and the NVIDIA Jetson platform."
+    },
+    {
+      "id": "5036016",
+      "time": "2026-08-11 21:06:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：大衛·埃裡森威脅，若加州政府拒絕就反壟斷訴訟達成和解，將於10月1日起把派拉蒙遷出加州。"
+    },
+    {
+      "id": "mkt:019ff0ee-1baf-7aab-8ff2-e95d60a315c3",
+      "time": "2026-08-11 21:06:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O): Nemo Switchyard cuts cost to complete benchmarks to one-third of OPUS 4.8."
+    },
+    {
+      "id": "mkt:019ff0ed-9818-7aab-8ff2-e23e31d6e57c",
+      "time": "2026-08-11 21:05:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Argentina's monthly inf forecast for July 2.0%, up from 1.9% in June."
+    },
+    {
+      "id": "5036015",
+      "time": "2026-08-11 21:05:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英偉達全力研發Nemotron 4開源大模型 拉動晶片需求同時直面客戶競爭】英偉達正加碼佈局開源賽道，投入資源自研一款重磅大模型。公司希望藉助該模型拉動硬體需求，但此舉也意味著它或將與自身客戶、合作伙伴形成競爭。多名參與 Nemotron 專案的人士透露，英偉達計劃打造 Nemotron 4 系列中規模最大的基礎模型，目標效能對標全球頂尖開源大模型。英偉達上一代旗艦大模型相關論文擁有 570 名作者，員工表示 Nemotron 4 參與研發人員規模將進一步擴大。一名前員工稱：“現階段所有人都希望能夠參與其中。”英偉達近期持續推出多款開源模型，本次研發建立在此基礎之上。週二，英偉達釋出 Nemotron 3.5 Lightning 輕量化模型，主打高效、高速執行智慧體。公司同時推出免費模型路由軟體，幫助企業快速搭建模型排程工具 —— 這類工具能夠將不同 AI 任務分配給適配且成本最優的模型。多名 Nemotron 專案員工透露，旗艦版 Nemotron 4 引數量至少達到萬億級別。引數量是模型學習過程中持續調整的引數單元，這一規模大約是英偉達當前旗艦模型 Nemotron 3 Ultra（6 月釋出）的兩倍。即便達到萬億引數，該模型體量依舊小於美國頭部開源大模型；不過英偉達十分看重模型壓縮技術，依靠該技術，更小體量模型也有望實現更優表現。"
+    },
+    {
+      "id": "5036014",
+      "time": "2026-08-11 21:05:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出Nemotron 3.5 Lightning大模型，可透過OpenRouter、英偉達開發者平臺build.nvidia.com及雲合作伙伴獲取"
+    },
+    {
+      "id": "te:markets:574443",
+      "time": "2026-08-11 21:05:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Inditex Stock Price Hits 12-year High — Inditex shares increased to 59.33 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 8.25%, and in the last 12 months, it increased 40.34%."
+    },
+    {
+      "id": "5036013",
+      "time": "2026-08-11 21:04:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英偉達美股盤前漲近2%】英偉達美股盤前漲近2%。據報道，公司正在開發一款新的Nemotron 4開源AI模型。"
+    },
+    {
+      "id": "5036012",
+      "time": "2026-08-11 21:04:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛克希德・馬丁將為 MPDS 專案投入數百萬美元資金。"
+    },
+    {
+      "id": "5036011",
+      "time": "2026-08-11 21:04:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：NEMO Switchyard將基準測試完成成本降至Opus 4.8的三分之一。"
+    },
+    {
+      "id": "5036010",
+      "time": "2026-08-11 21:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達已攜手vLLM、Ollama、llama.cpp、LM Studio、Unsloth，共同推出Nemotron 3.5 Lightning大模型。"
+    },
+    {
+      "id": "5036009",
+      "time": "2026-08-11 21:03:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雅培與谷歌就血糖資料分析與人工智慧達成多年合作，雅培股價盤前上漲1%。"
+    },
+    {
+      "id": "mkt:019ff0ec-2c5d-7aab-8ff2-db19d9f43b2d",
+      "time": "2026-08-11 21:03:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reported several NVIDIA (NVDA.O) employees working on the NEMOTRON project said they expect the largest NEMOTRON 4 model to have at least 1 trillion parameters."
+    },
+    {
+      "id": "5036008",
+      "time": "2026-08-11 21:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍向加沙地帶構成威脅的哈馬斯狙擊手開火。"
+    },
+    {
+      "id": "5036007",
+      "time": "2026-08-11 21:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達推出Nemotron 3.5 Lightning開放版300億引數混合專家模型。"
+    },
+    {
+      "id": "5036006",
+      "time": "2026-08-11 21:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際金融協會（IIF）：7月份新興市場股票資金流出放緩至78億美元，低於6月份的461億美元。7月份新興市場債務吸引資金流入267億美元，6月份為281億美元。7月份非居民投資者向新興市場投資組合淨增188億美元，結束了連續兩個月的資金外流。截至7月，新興市場債務流入量達到2144億美元，而2025年同期預計為1777億美元。截至7月份，新興市場股票年度資金流出總額為860億美元，而去年同期為90億美元。"
+    },
+    {
+      "id": "mkt:019ff0eb-93a2-7aab-8ff2-d0401f26a92c",
+      "time": "2026-08-11 21:03:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA releases NEMOTRON 3.5 LIGHTNING open model."
+    },
+    {
+      "id": "5036005",
+      "time": "2026-08-11 21:02:48",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：英偉達正在開發全新開源人工智慧模型Nemotron 4。"
+    },
+    {
+      "id": "mkt:019ff0eb-1f81-7aab-8ff2-caf6bb4d83a3",
+      "time": "2026-08-11 21:02:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports NVIDIA (NVDA.O) is developing a new Nemotron 4 open-source AI model."
+    },
+    {
+      "id": "5036004",
+      "time": "2026-08-11 21:02:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "雅培將與谷歌開展大規模代謝健康研究。"
+    },
     {
       "id": "mkt:019ff0ea-a700-7aab-8ff2-c7e06eef9dec",
       "time": "2026-08-11 21:02:17",
@@ -142104,273 +142414,6 @@
         "其他"
       ],
       "text": "穆迪評級向貝萊德每日再投資穩定幣儲備工具授予 AAA‑MF 評級。"
-    },
-    {
-      "id": "5024898",
-      "time": "2026-08-04 21:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "據美國媒體4日報道，紐約一地鐵列車當天起火，造成至少12人受傷。（新華社）"
-    },
-    {
-      "id": "5024897",
-      "time": "2026-08-04 21:12:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Wolfe Research首次覆蓋SK海力士，給予“跑贏大盤”評級，目標價200美元。"
-    },
-    {
-      "id": "5024896",
-      "time": "2026-08-04 21:12:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "H1與諾和諾德達成合作，規模化推進人工智慧驅動的臨床開發。"
-    },
-    {
-      "id": "mkt:019fcce7-336b-7aab-8f71-07af0da55096",
-      "time": "2026-08-04 21:12:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Ukraine's agriculture minister says Russian attacks on Black Sea shipping threaten global food security and will push up consumer prices."
-    },
-    {
-      "id": "mkt:019fcce7-16bb-7aab-8f70-fe8f1772f9e3",
-      "time": "2026-08-04 21:12:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Ukraine's agriculture minister said Black Sea attacks could have caused $1.5-3.0 billion in losses to Ukraine's agricultural sector."
-    },
-    {
-      "id": "mkt:019fcce6-bbf6-7aab-8f70-f7b3daafb18a",
-      "time": "2026-08-04 21:11:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's agriculture minister said alternative routes can cover only half of Ukraine's export volume."
-    },
-    {
-      "id": "5024895",
-      "time": "2026-08-04 21:11:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長：俄羅斯對黑海船隻發動襲擊危及全球糧食安全，並將推高消費品價格。"
-    },
-    {
-      "id": "mkt:019fcce6-9215-7aab-8f70-ec094a020469",
-      "time": "2026-08-04 21:11:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's agriculture minister says alternative export routes will not reach operational capacity before end-August."
-    },
-    {
-      "id": "5024894",
-      "time": "2026-08-04 21:11:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長：替代運輸路線僅能消化烏克蘭一半的出口量。"
-    },
-    {
-      "id": "mkt:019fcce6-7607-7aab-8f70-e0abd1790e44",
-      "time": "2026-08-04 21:11:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's agriculture minister said Black Sea ports have no real long-term alternative for grain exports."
-    },
-    {
-      "id": "5024893",
-      "time": "2026-08-04 21:11:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "烏克蘭農業部長：烏克蘭農戶已看到農作物均價下跌30%。"
-    },
-    {
-      "id": "5024892",
-      "time": "2026-08-04 21:11:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長：烏方替代出口航線在8月底前無法達到運營運力。"
-    },
-    {
-      "id": "5024891",
-      "time": "2026-08-04 21:11:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭農業部長表示，黑海遇襲給烏克蘭農業部門造成的損失可能達到15億至30億美元。"
-    },
-    {
-      "id": "5024890",
-      "time": "2026-08-04 21:09:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【科達製造：發行股份及支付現金購買資產事項未獲稽核透過】科達製造公告稱，公司擬發行股份及支付現金購買廣東特福國際控股有限公司51.55%股份並募集配套資金。上交所重組委於2026年8月4日稽核該交易申請，結果為不符合重組條件或資訊披露要求。公司目前生產經營正常，該結果對經營無重大影響，提醒投資者注意風險。"
-    },
-    {
-      "id": "5024889",
-      "time": "2026-08-04 21:09:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達、思科、CROWDSTRIKE正在起草 AI 安全指引。"
-    },
-    {
-      "id": "5024888",
-      "time": "2026-08-04 21:08:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【本源量子聯合中國科大團隊在“本源悟空”超導量子計算機上實現快速高保真度CZ門】8月4日，本源量子宣佈，其聯合中國科學技術大學研究團隊，在快速高保真兩位元量子門控制方面取得新進展，相關工作以“Overcoming the Speed-Fidelity Trade-Off in Fast cz Gates via Cyclic Control”為題發表在國際物理頂級期刊Physical Review Letters。針對超導量子晶片中短時波形畸變引發的速度—保真度權衡，團隊提出引數空間擴充套件受控相位門（PSE-CZ）方案，在不延長門時間的前提下顯著抑制相干誤差。該成果在“本源悟空”超導量子計算機上完成。"
-    },
-    {
-      "id": "5024887",
-      "time": "2026-08-04 21:08:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：BOS獲防空專案190萬美元採購訂單。"
-    },
-    {
-      "id": "5024886",
-      "time": "2026-08-04 21:07:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克庫區領導人訪敘 推動敘庫爾德武裝整合】伊拉克北部庫爾德自治區（庫區）主席巴爾扎尼3日到訪敘利亞首都大馬士革，會見敘過渡政府總統沙拉。訊息人士說，巴爾扎尼此訪意在推動敘庫爾德武裝加速整合進敘國家機構。敘利亞總統府當天發表宣告說，雙方討論了加強地區安全和經濟合作以及“涉及雙方共同利益的諸多事宜”。巴爾扎尼在另一份宣告中強調，他支援敘利亞“保持統一和穩定”。（新華社）"
-    },
-    {
-      "id": "5024885",
-      "time": "2026-08-04 21:07:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【康明斯美股盤前跌超10%】康明斯美股盤前跌超10%，現報583.0美元。"
-    },
-    {
-      "id": "5024884",
-      "time": "2026-08-04 21:06:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鎧俠釋出超高IOPS SSD 隨機讀取IOPS高達1000萬】鎧俠釋出KIOXIA GP1系列PCIe擴充套件卡，專為GPU直接訪問而最佳化，隨機讀取IOPS高達1000萬。該系列SSD採用 KIOXIA XL-FLASH 第二代快閃記憶體，實現基於快閃記憶體的記憶體擴充套件，以滿足人工智慧基礎設施日益增長的效能和記憶體需求。評估樣品將於2026年底前提供給部分客戶。"
-    },
-    {
-      "id": "mkt:019fcce1-c929-7aab-8f70-d8fba7ff2731",
-      "time": "2026-08-04 21:06:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O"
-      ],
-      "text": "NVIDIA (NVDA.O): AI industry leaders have proposed cybersecurity guidelines."
-    },
-    {
-      "id": "5024883",
-      "time": "2026-08-04 21:06:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "麥當勞股價轉跌後觸及盤前低點。"
-    },
-    {
-      "id": "5024882",
-      "time": "2026-08-04 21:05:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達：AI 行業領軍者提出網路安全安全指引。"
-    },
-    {
-      "id": "mkt:019fcce1-25a0-7aab-8f70-d5ac6f7853af",
-      "time": "2026-08-04 21:05:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Surface euphoria, underlying defensiveness behind US record highs】US equities rallied overnight—Dow hit a record and the Nasdaq rose about 2%—but internals show a split between headline gains and defensive positioning. Benzinga reports the move was driven by dip-buying in previously oversold tech leaders and lower oil easing inflation fears. The CNN Fear & Greed index remains neutral-to-fearful, indicating limited broad risk appetite. Morgan Stanley strategists warn elevated long‑end US Treasury yields continue to physically squeeze high‑valuation stocks. Bernstein analyst Douglas Harned says investors remain highly cautious about returns from tech giants' large AI capex."
-    },
-    {
-      "id": "5024881",
-      "time": "2026-08-04 21:05:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿根廷海事工人罷工導致船隻無法進出穀物港口】據外媒報道，阿根廷穀物出口商及加工商會（CIARA-CEC）週二表示，受海事工人罷工影響，船隻目前無法進出阿根廷的糧食港口。這一行動導致該國主要農產品出口港陷入中斷。阿根廷是全球最重要的豆粕、豆油和玉米出口國之一，其絕大部分貨物均透過巴拉那河（Parana River）沿岸的港口進行轉運。目前，罷工的具體持續時間以及受影響的船舶數量尚不明確。"
-    },
-    {
-      "id": "mkt:019fcce0-f404-7aab-8f70-cd1f72d3f122",
-      "time": "2026-08-04 21:05:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Maritime workers' strike blocks vessels from Argentine grain ports】The Argentine Grain Exporters and Processors Association (CIARA-CEC) said on Tuesday a maritime workers strike has left vessels unable to enter or exit Argentina's grain ports, halting operations at the country's main agricultural export hubs. Argentina is among the world's largest exporters of soybean meal, soybean oil and corn, with most cargo moved via ports along the Parana River; the strike's duration and the number of affected vessels are unclear."
-    },
-    {
-      "id": "te:markets:572567",
-      "time": "2026-08-04 21:05:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Falls to Over 5-Week Low — Gasoline in the US fell below $2.90 per gallon, the lowest level since June 26, as easing geopolitical tensions weighed on energy prices. Sentiment improved after Qatar announced that a draft proposal to revive US-Iran negotiations was being circulated, although officials stressed that no agreement had yet been reached. Qatar, a key mediator between Washington and Tehran, said the immediate goal was to secure a short-term arrangement to reduce tensions. Earlier, President Donald Trump delayed planned military strikes on Iran to allow more time for diplomacy. Meanwhile, gasoline prices remain more than 30% above year-ago levels, as limited US refining capacity continues to constrain fuel supplies and restrict the industry's ability to boost production. In Russia, the government extended its diesel and gasoline export ban through January 2027 as fuel shortages persisted amid continued Ukrainian strikes on major oil refineries."
-    },
-    {
-      "id": "5024880",
-      "time": "2026-08-04 21:05:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧地利錄得 40.8 攝氏度歷史最高氣溫。"
-    },
-    {
-      "id": "5024879",
-      "time": "2026-08-04 21:04:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【歐盟向西班牙提供援助 加強休達外部邊界管控】歐盟各國內政部長4日舉行緊急視訊會議，討論稍早前發生在西班牙飛地休達的大規模非法移民入境事件。布魯納稱，此次會議確認，上週非法移民進入休達後，沒有人繼續前往西班牙本土或其他歐盟成員國。會上，各國內政部長對西班牙表示聲援。布魯納表示，歐盟已向西班牙提供財政和行動支援。歐洲邊境管理局（Frontex）已派出30名官員進駐休達，並準備進一步擴大支援力度。他還表示，歐盟目前正與摩洛哥就一項戰略性全面夥伴關係協議進行談判。布魯納指出，休達移民事件是由犯罪走私網路和社交媒體上的虛假資訊引發的。（央視新聞）"
-    },
-    {
-      "id": "5024878",
-      "time": "2026-08-04 21:04:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "IBM和紅帽公司將向超過185所研究型大學及100家主要非政府組織和智庫免費提供Lightwell。"
-    },
-    {
-      "id": "5024877",
-      "time": "2026-08-04 21:04:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院司法委員會召開會議，就託德·布蘭奇出任司法部長的提名進行表決。"
     }
   ]
 }
