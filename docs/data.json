@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-12 02:25:35",
-  "count": 15631,
+  "updated": "2026-08-12 02:29:23",
+  "count": 15634,
   "items": [
+    {
+      "id": "mkt:019ff215-bb29-7aab-8ff8-f18c92346b03",
+      "time": "2026-08-12 02:28:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Venezuela, Israel agree to restore consular services, Venezuelan minister says】Venezuela’s minister of foreign affairs and foreign trade, Plasencia, posted a government bulletin on social media on the 11th saying Venezuela and Israel have agreed to restore consular services and to set up a coordination mechanism to provide consular assistance to each other’s nationals when needed. Venezuela severed diplomatic relations with Israel on Jan. 14, 2009; then‑president Hugo Chávez expelled Israel’s ambassador the week before."
+    },
+    {
+      "id": "mkt:019ff215-0bf7-7aab-8ff8-ee9c7b57b774",
+      "time": "2026-08-12 02:28:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FAA: Spokane International Airport is conducting an evacuation due to a nearby fire."
+    },
+    {
+      "id": "5036318",
+      "time": "2026-08-12 02:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉外長：委以同意恢復領事服務】委內瑞拉外交與外貿部長普拉森西亞11日在社交媒體釋出政府公報稱，委內瑞拉和以色列同意恢復領事服務。公報稱：“兩國同意建立協調機制，以便在需要時為居住在對方國家的本國公民提供領事服務。”2009年1月14日，委內瑞拉時任總統查韋斯決定與以色列“斷絕一切關係”。此前一週，他驅逐以色列駐委大使，以表達對巴勒斯坦的支援。"
+    },
+    {
+      "id": "5036317",
+      "time": "2026-08-12 02:26:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理：我們已指示起草一項法律草案，依據憲法將武器管控權收歸國家。"
+    },
+    {
+      "id": "te:markets:574507",
+      "time": "2026-08-12 02:25:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Slumps by 5.05% — Top commodity losers are Cocoa (-5.05%) and Canola (-1.91%). Gains are led by Sugar (1.64%), Cotton (0.62%) and Palm Oil (0.53%)."
+    },
     {
       "id": "5036316",
       "time": "2026-08-12 02:20:49",
@@ -142390,27 +142433,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收跌4.93%，報510.50元人民幣/桶。滬金夜盤收漲0.87%，滬銀收漲3.45%。"
-    },
-    {
-      "id": "mkt:019fce08-d1d2-7aab-8f75-bfdea5ab633f",
-      "time": "2026-08-05 02:28:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "According to Axios, the White House does not intend to publicly release its new framework for assessing advanced AI models."
-    },
-    {
-      "id": "mkt:019fce06-ac06-7aab-8f75-b470395b58cb",
-      "time": "2026-08-05 02:26:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【White House to extend Jones Act waiver to ease gasoline prices - Refinitiv】Refinitiv reports the White House is expected in coming days to extend a Jones Act waiver as one of the few available tools to help lower gasoline prices. The waiver, which allows non-U.S. vessels to move fuel between U.S. ports by temporarily suspending the law’s U.S.-built, -owned and -crewed requirement, is scheduled to expire on Aug. 16; an extension would be the longest pause in Jones Act enforcement. U.S. government data show the waiver was used nearly 200 times in the past 4½ months through end-July. Officials continue talks with shipping industry representatives and lawmakers on narrowing the waiver’s scope while preserving flexibility to transport critical fuel supplies. Opponents seek geographic limits and stricter per-voyage review; key Republican lawmakers are urging tighter restrictions, warning broad waivers could weaken the U.S. domestic fleet and undermine the law’s national security purpose."
     }
   ]
 }
