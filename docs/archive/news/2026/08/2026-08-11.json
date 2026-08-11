@@ -1,7 +1,35 @@
 {
   "date": "2026-08-11",
-  "count": 1172,
+  "count": 1175,
   "items": [
+    {
+      "id": "5035155",
+      "time": "2026-08-11 14:17:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：APPLE MUSIC報告稱部分使用者遇到效能問題。"
+    },
+    {
+      "id": "5035154",
+      "time": "2026-08-11 14:15:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞5個省會城市紅色警戒】當地時間8月10日上午，哥倫比亞西部地區發生強震，首都波哥大震感明顯。據總檯記者瞭解，地震目前已造成132人遇難，500多人受傷，哥倫比亞5個省會城市處於紅色警戒狀態。目前，各地傷亡人數還在不斷更新中。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:574308",
+      "time": "2026-08-11 14:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were headed for a slightly weaker open on Tuesday as oil prices extended their gains on fading hopes for a near-term deal between the US and Iran, keeping inflation risks and the interest rate outlook in focus. After Tehran demanded financial compensation for damages suffered during the conflict, Trump said he had instructed US representatives to firmly press for compensation from Iran as part of any future negotiations, adding another hurdle to diplomatic efforts. In Europe, investors will focus on Italy’s trade data, while earnings are due from Intercontinental Hotels, Lion Finance Group and Turkiye Petrol Rafinerileri, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.1%."
+    },
     {
       "id": "5035153",
       "time": "2026-08-11 14:13:50",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-11 14:15:07",
-  "count": 15883,
+  "updated": "2026-08-11 14:19:07",
+  "count": 15876,
   "items": [
+    {
+      "id": "5035155",
+      "time": "2026-08-11 14:17:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：APPLE MUSIC報告稱部分使用者遇到效能問題。"
+    },
+    {
+      "id": "5035154",
+      "time": "2026-08-11 14:15:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞5個省會城市紅色警戒】當地時間8月10日上午，哥倫比亞西部地區發生強震，首都波哥大震感明顯。據總檯記者瞭解，地震目前已造成132人遇難，500多人受傷，哥倫比亞5個省會城市處於紅色警戒狀態。目前，各地傷亡人數還在不斷更新中。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:574308",
+      "time": "2026-08-11 14:15:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Set for Muted Open — European equity markets were headed for a slightly weaker open on Tuesday as oil prices extended their gains on fading hopes for a near-term deal between the US and Iran, keeping inflation risks and the interest rate outlook in focus. After Tehran demanded financial compensation for damages suffered during the conflict, Trump said he had instructed US representatives to firmly press for compensation from Iran as part of any future negotiations, adding another hurdle to diplomatic efforts. In Europe, investors will focus on Italy’s trade data, while earnings are due from Intercontinental Hotels, Lion Finance Group and Turkiye Petrol Rafinerileri, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both down around 0.1%."
+    },
     {
       "id": "5035153",
       "time": "2026-08-11 14:13:50",
@@ -144593,92 +144621,6 @@
         "其他"
       ],
       "text": "市場訊息：中國初創企業智平方據稱考慮赴港上市。"
-    },
-    {
-      "id": "5023798",
-      "time": "2026-08-04 14:19:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國石油公司執行長表示，資產負債表需要進一步加強。"
-    },
-    {
-      "id": "5023797",
-      "time": "2026-08-04 14:18:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特阿美執行長表示，公司正努力擴大出口能力。"
-    },
-    {
-      "id": "5023796",
-      "time": "2026-08-04 14:18:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國電池材料企業EcoPro4日公佈財報稱，公司第二季度合併口徑營業利潤為329億韓元，同比增長102.7%。"
-    },
-    {
-      "id": "mkt:019fcb6c-36fe-7aab-8f66-48c6d555f2c6",
-      "time": "2026-08-04 14:18:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "ARAMCO CEO said the company will continue to fully utilize all export routes, including the Bab el-Mandeb, the Suez Canal, the SUMED pipeline and the Strait of Hormuz."
-    },
-    {
-      "id": "5023795",
-      "time": "2026-08-04 14:17:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特阿美執行長納賽爾表示，我們將繼續充分利用所有出口航線，包括曼德海峽、蘇伊士運河、蘇梅德輸油管道以及霍爾木茲海峽。"
-    },
-    {
-      "id": "5023794",
-      "time": "2026-08-04 14:17:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沙特阿美：危機最嚴重時期，亞洲地區原油日進口量減少了約600萬桶】沙特阿美執行長納賽爾表示，該公司的東西管道以及全球庫存幫助緩解了供應衝擊，將淨供應缺口縮小至約18億桶。亞洲多國已受到影響，在危機最嚴重時期，該地區原油日進口量減少了約600萬桶。沙特阿美執行長納賽爾表示，如果霍爾木茲海峽今日恢復通行，以日均210萬桶的平均輸油量計算，需要長達18個月才能補完耗盡的庫存。阿美納賽爾表示，仍期待達成解決方案以恢復航運常態、穩定市場，但局勢恢復正常尚需時日。"
-    },
-    {
-      "id": "5023793",
-      "time": "2026-08-04 14:16:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【訊息稱三星Galaxy S27 Ultra手機匯入鏡頭噴墨工藝】報道稱在GalaxyS27Ultra旗艦手機上，三星計劃升級攝像頭模組製造方案，將內部反光膜替換為鏡頭噴墨工藝，從而降低光學模組高度，以及提高成像質量。"
-    },
-    {
-      "id": "5023792",
-      "time": "2026-08-04 14:16:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特阿美執行長納賽爾表示，即便在七月遇襲事件之後，（公司的）運營能力也未受到任何實質性影響。"
-    },
-    {
-      "id": "mkt:019fcb69-d9ec-7aab-8f66-44fd9447a23e",
-      "time": "2026-08-04 14:15:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pezeshkian says Iran will defend territory but will not seek to continue or expand the war】On Aug. 4, Iranian President Pezeshkian said Iran will defend its territory but will not seek to continue or expand the war. He called conflict \"a disease\" and urged building social cohesion to prevent enemies from exploiting divisions and tearing apart society."
-    },
-    {
-      "id": "5023791",
-      "time": "2026-08-04 14:15:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【小金屬板塊走高，中鎢高新觸及漲停】小金屬板塊走高，中鎢高新觸及漲停，雲南鍺業、東方鉭業此前漲停，華錫有色、廈門鎢業、翔鷺鎢業跟漲。"
     }
   ]
 }
