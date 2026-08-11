@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-11 13:34:54",
-  "count": 15868,
+  "updated": "2026-08-11 13:38:54",
+  "count": 15871,
   "items": [
+    {
+      "id": "mkt:019fef54-1ec6-7aab-8fe8-57375344422a",
+      "time": "2026-08-11 13:38:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Capital Economics: RESERVE BANK OF AUSTRALIA does not rule out further hike but ties action to upside risks materializing】Capital Economics Asia-Pacific senior economist Abhijit Surya says the RESERVE BANK OF AUSTRALIA has only marginally softened its hawkish tilt. The RBA reiterated it will take whatever measures it deems necessary to return inflation to target, including further increases in the cash rate, but attached that commitment to a condition—action would follow only if upside risks to inflation materialize. Surya adds that despite the committee's firm wording on inflation, Capital Economics does not expect another rate hike in this cycle."
+    },
+    {
+      "id": "5035102",
+      "time": "2026-08-11 13:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：房地產市場並非委員會的主要關注點。"
+    },
+    {
+      "id": "mkt:019fef53-b7f3-7aab-8fe8-498a48da3005",
+      "time": "2026-08-11 13:37:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Indonesia copper exports delayed after Gresik smelter outage; LME copper stays above $14,000/t】Indonesia's copper exports are being delayed after the Gresik smelter halted over the weekend due to a boiler leak; buyers were told the plant will pause operations for several weeks for assessment and repairs. The outage adds pressure to an already tight global copper market, with large flows to the United States and increased shipments to China coinciding with LME copper trading above $14,000/t for a fifth consecutive session. The Grasberg mine in Papua, which was hit by a mudflow last year and has only partially resumed output, is not expected to fully restart until around 2028."
+    },
+    {
+      "id": "mkt:019fef53-9265-7aab-8fe8-442d88a2b807",
+      "time": "2026-08-11 13:37:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the meeting did not discuss rate cuts and only considered either rate hikes or leaving the cash rate unchanged."
+    },
+    {
+      "id": "5035101",
+      "time": "2026-08-11 13:37:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：委員會討論了加息或維持利率不變，而沒有討論降息。"
+    },
+    {
+      "id": "mkt:019fef53-3faa-7aab-8fe8-3f8782b36edc",
+      "time": "2026-08-11 13:37:18",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA Governor Bullock said the Reserve Bank of Australia board discussed the prospect of raising interest rates."
+    },
+    {
+      "id": "5035100",
+      "time": "2026-08-11 13:36:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：委員會討論了加息問題。"
+    },
+    {
+      "id": "mkt:019fef52-9d1c-7aab-8fe8-316f13388782",
+      "time": "2026-08-11 13:36:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said house prices have eased but are not the bank's primary focus."
+    },
+    {
+      "id": "5035099",
+      "time": "2026-08-11 13:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高0.4%報45,120.72。"
+    },
+    {
+      "id": "mkt:019fef51-7706-7aab-8fe8-2e039277946c",
+      "time": "2026-08-11 13:35:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed up 191.96 points, or 0.43%, at 45,120.72 on Tuesday, Aug. 11."
+    },
+    {
+      "id": "mkt:019fef51-61ca-7aab-8fe8-23b7a3f5b629",
+      "time": "2026-08-11 13:35:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the policy committee has not ruled out further rate hikes and that it needs more information."
+    },
+    {
+      "id": "5035098",
+      "time": "2026-08-11 13:35:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "布洛克：委員會不排除進一步加息的可能性，需要更多資訊。"
+    },
     {
       "id": "5035097",
       "time": "2026-08-11 13:34:09",
@@ -144373,96 +144488,6 @@
         "其他"
       ],
       "text": "沙特阿美：最大限度地提高西海岸煉油廠運營效率，以實現更高利潤。"
-    },
-    {
-      "id": "mkt:019fcb47-ad6e-7aab-8f65-20f251811ce1",
-      "time": "2026-08-04 13:38:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "TSMC said the Kumamoto JASM wafer fab has fully resumed operations."
-    },
-    {
-      "id": "5023722",
-      "time": "2026-08-04 13:38:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲3%，現報7577.00點。"
-    },
-    {
-      "id": "mkt:019fcb47-1053-7aab-8f65-1a643a900c69",
-      "time": "2026-08-04 13:37:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bullish",
-        "Nikkei 225",
-        "S&P500"
-      ],
-      "text": "TSMC says its Kumamoto wafer fab has fully resumed operations."
-    },
-    {
-      "id": "mkt:019fcb46-c7ee-7aab-8f65-127d9e5f55ee",
-      "time": "2026-08-04 13:37:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Russia said it destroyed 320 Ukrainian drones overnight."
-    },
-    {
-      "id": "5023721",
-      "time": "2026-08-04 13:37:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯聖彼得堡附近倉庫設施遭無人機襲擊】俄羅斯列寧格勒州州長亞歷山大·德羅茲堅科8月4日在社交媒體上表示，俄羅斯第二大城市聖彼得堡附近的一處倉庫設施遭到無人機襲擊。德羅茲堅科表示，當地擊落了15架無人機，但是他沒有透露遭襲倉庫設施的具體資訊。（央視新聞）"
-    },
-    {
-      "id": "5023720",
-      "time": "2026-08-04 13:36:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯稱夜間摧毀了320架烏克蘭無人機。"
-    },
-    {
-      "id": "5023719",
-      "time": "2026-08-04 13:36:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "中際旭創A股成交額超400億元，現漲12.25%。"
-    },
-    {
-      "id": "mkt:019fcb44-d23d-7aab-8f65-0c9de620fb69",
-      "time": "2026-08-04 13:35:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index closed down 25.75 points, or 0.06%, at 43,360.66 on Tuesday, Aug. 4."
-    },
-    {
-      "id": "5023718",
-      "time": "2026-08-04 13:34:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電表示，熊本晶圓廠已全面恢復生產。"
     }
   ]
 }
