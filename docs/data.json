@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-11 11:17:35",
-  "count": 15829,
+  "updated": "2026-08-11 11:21:31",
+  "count": 15824,
   "items": [
+    {
+      "id": "te:economy:574262",
+      "time": "2026-08-11 11:20:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Indonesia Car Sales Rise 33.3% in July — New car sales in Indonesia grew 33.3% year-on-year to 81,115 units in July 2026, following a 32.9% increase in June and marking the fourth consecutive month of expansion, according to data from the Association of Indonesian Automotive Industries (Gaikindo). For the first seven months of the year, sales rose 18.3% from the same period a year earlier to 437,544 units, highlighting resilient consumer demand despite inflationary pressures and higher non-subsidized fuel prices. Market sentiment is expected to receive further support from upcoming major automotive events."
+    },
+    {
+      "id": "5034961",
+      "time": "2026-08-11 11:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國際貿易委員會作出金屬矽雙反產業損害終裁】2026年8月4日，美國國際貿易委員會（ITC）投票對進口自澳大利亞和挪威的金屬矽（Silicon Metal）作出反傾銷和反補貼產業損害肯定性終裁，認定被主張存在傾銷和補貼行為的涉案產品對美國產業造成了實質性損害。基於美國國際貿易委員會的肯定性終裁，美國商務部將對上述涉案產品頒佈反傾銷和反補貼徵稅令。(中國貿易救濟資訊網)"
+    },
     {
       "id": "5034960",
       "time": "2026-08-11 11:16:03",
@@ -144022,66 +144042,6 @@
         "MKT News"
       ],
       "text": "Japan's finance minister Satsuki Katayama declined to comment on the effectiveness of coordinated intervention."
-    },
-    {
-      "id": "5023594",
-      "time": "2026-08-04 11:20:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【高瀾股份EAST冷卻系統擴容改造專案完成安裝除錯】據高瀾股份訊息，近日，高瀾股份承建的EAST裝置微波源冷卻系統擴容改造專案順利完成現場裝置安裝、系統檢漏、通訊聯動及水冷聯動試車等全部除錯工作，系統已具備穩定執行條件。該專案為EAST低雜波、電子迴旋兩大核心部門提供熱管理解決方案，成功破解多項施工技術難題，彰顯了公司在大科學液冷領域的實力。"
-    },
-    {
-      "id": "5023593",
-      "time": "2026-08-04 11:19:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德瑪克精工完成4.2億元C輪融資】據復容投資訊息，近日，全球精密零部件領域廠商德瑪克（浙江）精工科技有限公司（簡稱“德瑪克精工”）完成4.2億元C輪融資，由復容投資領投，長興產業集團、南湖股權基金、華義創投、元璟資本、德清產投、華安嘉業、國芯創投參與，老股東雲啟資本繼續加註。本輪資金將主要用於機器人等領域關鍵硬體的工藝研發、產能提升與市場拓展。"
-    },
-    {
-      "id": "5023592",
-      "time": "2026-08-04 11:19:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【啟動獨立融資後，蘇寧幫客宣佈再招10萬人】近日，蘇寧易購旗下服務品牌蘇寧幫客正式啟動“100000+工程師招募計劃”，開放家電安裝維修、家電清洗、充電樁安裝維修、3C維修、家政保潔、家居安裝維修六大崗位，招募不設地域與規模限制，個人及中小公司均可合作。這是蘇寧幫客繼官宣戰略升級、啟動獨立融資後釋放的關鍵動作，標誌著其從自營服務商向開放平臺的戰略升級已進入落地執行期。據瞭解，蘇寧幫客目前服務人員已接近10萬人，此次再招募10萬人，意味著服務團隊體量將直接翻番。新增力量將直接充實四大業務線：家電領域支撐“送裝拆收”一體化服務，社群生活服務領域加快便民服務站落地，新能源領域覆蓋充電樁安裝與超充場站建設，3C領域響應數碼購新補貼帶來的回收與維修擴容。蘇寧幫客總裁于傑表示：“這不是簡單補人，而是為未來兩三年業務體量所做的能力儲備。”（新浪科技）"
-    },
-    {
-      "id": "mkt:019fcac7-d568-7aab-8f63-4a1ac32abf45",
-      "time": "2026-08-04 11:18:41",
-      "tags": [
-        "MKT News",
-        "000660.KS"
-      ],
-      "text": "【SK Hynix, union clash over proposal to pay majority of bonuses in stock】SK Hynix and its Korean union held a fifth round of bonus talks on Tuesday at the company’s Cheongju plant and remain deadlocked over the size and structure of a generous bonus package. Last year SK Hynix agreed to allocate 10% of annual operating profit to employees; a Reuters calculation implies that would amount to about KRW 779 mln per employee for 2026 (≈$547,127). In a notice to members the union said management proposes paying more than half the bonus in stock with sale restrictions and reserves the right to adjust payouts if the company posts a loss; the union said it will not accept any arrangement that forces members to bear share-price risk."
-    },
-    {
-      "id": "5023591",
-      "time": "2026-08-04 11:18:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡將於當地時間8月11日上午8點公佈第二季度GDP資料。"
-    },
-    {
-      "id": "5023590",
-      "time": "2026-08-04 11:18:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傳追覓手機業務負責人俞雷擬離職，上任不足半年】據報道，追覓生態Eclix手機業務負責人、前金立集團全球副總裁俞雷擬從追覓系離職，目前其內部飛書賬號仍未停用。 資料顯示，俞雷於2026年3月入職追覓旗下MOVA，任手機和AI硬體業務負責人，迄今加入追覓不足半年。 今年6月，追覓宣佈戰略調整，將全面聚焦智慧清潔、全屋家電、智慧出行、具身智慧四大核心賽道。隨後，多個邊緣業務被曝出現人員調整。在業內人士看來，俞雷此次離職或與追覓迴歸主業有關。 截至發稿，追覓方面並未回應俞雷離職或潛在變動相關傳聞。（新浪科技）"
-    },
-    {
-      "id": "te:markets:572342",
-      "time": "2026-08-04 11:17:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Stays Near November Lows — Platinum futures traded around $1,650 an ounce, staying near late-November lows as investors weighed easing geopolitical risks in the Middle East against persistent expectations of higher US interest rates. Despite leaving interest rates unchanged last week, markets continued to price in a Fed rate hike later this year following recent hawkish signals from officials, weighing on non-yielding assets such as platinum. However, diplomatic efforts in the US-Iran conflict and discussions over the potential reopening of the Strait of Hormuz provided support across the precious metals complex. At the same time, the long-term supply outlook remained supportive, with the platinum market still expected to post another annual deficit. South African producer Valterra Platinum also reported a sharp rise in interim profit, citing stronger platinum-group metal prices and growing demand from AI-related infrastructure, which it expects to increase significantly over the coming years."
     }
   ]
 }

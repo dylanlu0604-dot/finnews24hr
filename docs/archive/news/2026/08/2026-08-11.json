@@ -1,7 +1,27 @@
 {
   "date": "2026-08-11",
-  "count": 840,
+  "count": 842,
   "items": [
+    {
+      "id": "te:economy:574262",
+      "time": "2026-08-11 11:20:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Indonesia",
+        "Car Registrations",
+        "Importance 1"
+      ],
+      "text": "Indonesia Car Sales Rise 33.3% in July — New car sales in Indonesia grew 33.3% year-on-year to 81,115 units in July 2026, following a 32.9% increase in June and marking the fourth consecutive month of expansion, according to data from the Association of Indonesian Automotive Industries (Gaikindo). For the first seven months of the year, sales rose 18.3% from the same period a year earlier to 437,544 units, highlighting resilient consumer demand despite inflationary pressures and higher non-subsidized fuel prices. Market sentiment is expected to receive further support from upcoming major automotive events."
+    },
+    {
+      "id": "5034961",
+      "time": "2026-08-11 11:20:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國際貿易委員會作出金屬矽雙反產業損害終裁】2026年8月4日，美國國際貿易委員會（ITC）投票對進口自澳大利亞和挪威的金屬矽（Silicon Metal）作出反傾銷和反補貼產業損害肯定性終裁，認定被主張存在傾銷和補貼行為的涉案產品對美國產業造成了實質性損害。基於美國國際貿易委員會的肯定性終裁，美國商務部將對上述涉案產品頒佈反傾銷和反補貼徵稅令。(中國貿易救濟資訊網)"
+    },
     {
       "id": "5034960",
       "time": "2026-08-11 11:16:03",
