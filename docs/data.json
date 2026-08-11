@@ -1,7 +1,159 @@
 {
-  "updated": "2026-08-11 17:33:05",
-  "count": 15857,
+  "updated": "2026-08-11 17:37:02",
+  "count": 15859,
   "items": [
+    {
+      "id": "5035603",
+      "time": "2026-08-11 17:36:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福瑞達：控股股東協議轉讓公司5%股份獲山東省國資委批覆】福瑞達公告，公司控股股東山東省商業集團有限公司與山東國投於2026年8月6日簽署《股份轉讓協議》，擬以5.38元/股轉讓5082.85萬股（佔公司總股本5%）。近日，公司收到通知，山東省國資委已批覆同意該次非公開協議轉讓。本次權益變動尚需取得上交所合規性稽核同意及辦理過戶手續。"
+    },
+    {
+      "id": "5035602",
+      "time": "2026-08-11 17:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：批准2026年第二季度每股7新臺幣現金股利。"
+    },
+    {
+      "id": "mkt:019ff02d-e5c3-7aab-8fee-a48d40749588",
+      "time": "2026-08-11 17:36:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Maritime safety sources say a cargo ship in the Red Sea was reportedly attacked; crew status unknown."
+    },
+    {
+      "id": "5035601",
+      "time": "2026-08-11 17:36:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議會主席團成員阿里雷扎・薩利米週二表示，若遭到來自麥加公約成員國領土發起的襲擊，伊朗將無限制予以反擊。  他表示，所有針對胡塞武裝組建的聯盟均已失敗，依靠麥加公約這類協議無法擊潰 “抵抗力量”。"
+    },
+    {
+      "id": "5035600",
+      "time": "2026-08-11 17:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：董事會批准約294.425億美元資本撥款。"
+    },
+    {
+      "id": "5035599",
+      "time": "2026-08-11 17:34:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展：7月簽約金額149.23億元，同比減少17.16%】保利發展公告，2026年7月簽約面積77.98萬平方米，同比減少14.30%；簽約金額149.23億元，同比減少17.16%。2026年1-7月簽約面積709.92萬平方米，同比減少11.76%；簽約金額1500.29億元，同比減少8.06%。"
+    },
+    {
+      "id": "5035598",
+      "time": "2026-08-11 17:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江釋出地質災害紅色預警】浙江省自然資源廳、浙江省氣象局8月11日17時18分聯合更新發布地質災害氣象風險紅色預警：11日20時至12日20時，寧波市（寧海縣）、台州市（三門縣、天台縣）等部分地區地質災害氣象風險很高（紅色預警）；杭州市（臨安區）、寧波市（海曙區、北侖區、鄞州區、奉化區、象山縣、餘姚市）、溫州市（鹿城區、甌海區、永嘉縣、平陽縣、瑞安市、樂清市）、湖州市（安吉縣）、舟山市（定海區、普陀區、岱山縣）、台州市（椒江區、黃巖區、路橋區、溫嶺市、臨海市）、麗水市（青田縣）等部分地區地質災害氣象風險高（橙色預警）。"
+    },
+    {
+      "id": "mkt:019ff02c-49a5-7aab-8fee-9e0c477e183e",
+      "time": "2026-08-11 17:34:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Hongjia Industrial Coatings wins contract for Indonesian Taijing 600 ktpa aluminium smelter】Hongjia Industrial Coatings said it won the contract to supply heavy-duty anti-corrosion coating solutions for Taijing Aluminium’s 600 ktpa electrolytic aluminium project in Indonesia’s Morowali industrial park. The project, a JV between China Xinfa Group and Tsingshan Group, will use industry-leading 600 kA electrolysis cells; phase one (300 ktpa) is scheduled to begin production in 2026."
+    },
+    {
+      "id": "mkt:019ff02b-fd08-7aab-8fee-93acf4053bab",
+      "time": "2026-08-11 17:34:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Yemeni government and coastguard sources said Houthi militants attacked the deck of a cargo vessel in the Bab al-Mandeb Strait, killing three."
+    },
+    {
+      "id": "5035597",
+      "time": "2026-08-11 17:33:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【虹嘉工業塗料中標印尼泰景鋁業60萬噸電解鋁專案】據東方雨虹訊息，虹嘉工業塗料中標印尼泰景鋁業60萬噸電解鋁專案，提供專業重防腐防護方案。泰景鋁業60萬噸電解鋁專案位於印尼莫羅瓦利工業園，由中國信發集團與青山集團合資建設，採用行業領先的600KA大型電解槽，一期30萬噸產能預計2026年正式投產。"
+    },
+    {
+      "id": "5035596",
+      "time": "2026-08-11 17:33:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一重：免去陸文俊董事、董事長職務】中國一重公告，公司第四屆董事會第六十六次會議於2026年8月11日以視訊會議形式舉行，應出席董事4名，實際出席4名。會議審議透過《關於免去公司董事、董事長職務的議案》，公司董事、董事長陸文俊先生因犯受賄罪被依法判處刑罰，董事會同意免去其董事、董事長職務。免去陸文俊先生董事職務的議案尚需提交公司股東會審議。表決結果為同意4票，反對0票，棄權0票。"
+    },
+    {
+      "id": "5035595",
+      "time": "2026-08-11 17:33:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行透過主要再融資操作投放164.94億歐元。"
+    },
+    {
+      "id": "5035594",
+      "time": "2026-08-11 17:33:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "據海事安全訊息源透露，一艘貨船在紅海遭襲，目前船員生死未明。"
+    },
+    {
+      "id": "mkt:019ff02b-2cf0-7aab-8fee-8b1cfa1e8e5f",
+      "time": "2026-08-11 17:33:09",
+      "tags": [
+        "MKT News",
+        "TSM.N"
+      ],
+      "text": "TSMC (TSM.N): Board approved a Q2 cash dividend of NT$7.0 per share."
+    },
+    {
+      "id": "5035593",
+      "time": "2026-08-11 17:33:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府及海岸警衛隊訊息：葉門胡塞武裝襲擊曼德海峽一艘甲板貨船，造成三人死亡。"
+    },
+    {
+      "id": "5035592",
+      "time": "2026-08-11 17:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：將成立合資企業開發並製造下一代影象感測器。索尼合資企業價值不超過2820億日元。"
+    },
+    {
+      "id": "mkt:019ff02a-d3eb-7aab-8fee-829b6014c1c9",
+      "time": "2026-08-11 17:32:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) to form a joint venture to develop and manufacture next-generation image sensors."
+    },
     {
       "id": "mkt:019ff02a-780b-7aab-8fee-7f07b6d33dde",
       "time": "2026-08-11 17:32:22",
@@ -144322,136 +144474,6 @@
         "Greater China"
       ],
       "text": "【China State Planner allocates 50 mln yuan central budget to Heilongjiang flood recovery】Heavy rainfall caused floods across Heilongjiang; on Aug 4 the national disaster reduction and relief committee launched a national level-four emergency response. Under the national natural disaster relief contingency plan and based on provincial damage assessments, the China State Planner urgently allocated 50 mln yuan in central budgetary investment to support post-flood emergency restoration in Heilongjiang, targeted at repairing damaged roads, water-management infrastructure and public-service facilities including schools and hospitals to speed the return of normal production and living order."
-    },
-    {
-      "id": "5024285",
-      "time": "2026-08-04 17:36:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委追加安排3億元中央預算內投資支援遼寧、吉林進一步做好暴雨洪澇災害災後應急恢復】遼寧、吉林多地發生嚴重暴雨洪澇災害，國家防災減災救災委員會啟動國家四級救災應急響應。國家發展改革委在7月14日、15日緊急安排中央預算內投資6000萬元基礎上，追加安排3億元，支援遼寧省、吉林省進一步做好災區災後應急恢復，推動儘快恢復正常生產生活秩序。"
-    },
-    {
-      "id": "5024284",
-      "time": "2026-08-04 17:36:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊雲：WorkBuddy5.0及以上版本上線「安全中心」】8月4日訊息，騰訊雲宣佈WorkBuddy5.0及以上版本正式上線「安全中心」。該版本中，越權操作實時攔截、刪除檔案自動進入回收站、修改檔案可版本還原等核心管控能力預設開啟。據介紹，此次上線的安全能力統一集中在「設定→安全中心」入口。使用者開啟WorkBuddy客戶端，點選左下角頭像進入“設定”頁面，再點選“安全中心”，即可看見全部安全功能，並且預設開啟。"
-    },
-    {
-      "id": "5024283",
-      "time": "2026-08-04 17:36:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上期所：對部分客戶採取限制開倉監管措施】8月4日，上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告：2026年8月4日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。"
-    },
-    {
-      "id": "mkt:019fcc21-6fd4-7aab-8f6b-02c416f5f932",
-      "time": "2026-08-04 17:36:11",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: SpaceX set to report first earnings; stock faces critical test】SpaceX (SPCX.O) is due to publish its first earnings after a high-profile IPO, an event widely watched by Wall Street and likely to prompt a re‑pricing of the stock. At Monday close the share price was $114.53, roughly 15% below the IPO price and about 50% off its June 16 peak; peak market capitalization has fallen by over $1 trillion. The company remains unprofitable and its business model is still highly speculative, so the report could raise more questions than answers. Portfolio manager Drew Cupps said the SpaceX story is largely about the future, with many promised elements not yet realized, making it difficult to justify current valuation based on past performance."
-    },
-    {
-      "id": "5024282",
-      "time": "2026-08-04 17:35:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：蓋特威克機場將啟用第二條跑道。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202608043831286427",
-      "time": "2026-08-04 17:34:59",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本央行賬戶資料顯示，沒有周一進行大規模匯市干預的明確跡象。"
-    },
-    {
-      "id": "mkt:019fcc20-1883-7aab-8f6a-f878e049eb40",
-      "time": "2026-08-04 17:34:43",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "Copper"
-      ],
-      "text": "【CHINA STATE PLANNER adds 300 mln yuan central budget funds to support Liaoning, Jilin flood recovery】Severe rain and floods in Liaoning and Jilin prompted the national disaster reduction committee to activate a national level‑4 emergency response. Based on the emergency plan and assessed losses, CHINA STATE PLANNER, after an initial emergency central‑budget allocation of 60 mln yuan on July 14–15, has added 300 mln yuan to support post‑flood emergency recovery in the two provinces to restore normal production and daily life. CHINA STATE PLANNER will continue tracking progress, direct Liaoning and Jilin development and reform commissions to allocate funds to recovery projects, accelerate construction, strengthen supervision and ensure effective use of central budget funds."
-    },
-    {
-      "id": "5024281",
-      "time": "2026-08-04 17:34:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【旋極資訊：控股股東5518萬股將被司法拍賣 佔總股本3.19%】旋極資訊公告稱，控股股東、實際控制人陳江濤所持55,180,000股（佔總股本3.19%）將被司法拍賣，拍賣時間為2026年8月20日10時至8月21日10時止，拍賣人是四川省宜賓市中級人民法院。截至公告披露日，陳江濤及其一致行動人累計質押、司法凍結、輪候凍結股份分別佔其持股總數的38.59%、59.32%、448.29%。本次拍賣尚在公示，結果不確定，目前不涉及實控人變更，公司將密切關注並及時披露進展。"
-    },
-    {
-      "id": "5024280",
-      "time": "2026-08-04 17:34:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國生物多樣性事務主管表示，儘管自然衰退會威脅利潤與增長，企業和金融機構仍未對此採取足夠迅速的應對行動。"
-    },
-    {
-      "id": "5024279",
-      "time": "2026-08-04 17:34:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：剛果（金）埃博拉疫情蔓延速度已超應對能力】當地時間8月4日，世界衛生組織表示，剛果（金）埃博拉疫情蔓延速度已超出應對能力，目前已成為該國歷史上規模最大的疫情。截至8月1日，累計確診病例3748例，其中1657人死亡、708人治癒。世衛組織表示，目前疫情已波及剛果（金）5個省49個衛生區，約有17000名密切接觸者正在接受監測，其中超過80%能夠實現每日隨訪。（央視新聞）"
-    },
-    {
-      "id": "5024278",
-      "time": "2026-08-04 17:33:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寧波東力：回購實施完畢，累計回購603.78萬股耗資8000.06萬元】寧波東力公告，公司回購方案已實施完畢，累計透過回購專用證券賬戶以集中競價方式回購股份603.78萬股，佔公司總股本的比例為1.13%，最高成交價15.25元/股，最低成交價11.84元/股，支付資金總額為人民幣8000.06萬元（含交易費用）。本次回購股份將用於後期實施員工持股計劃或股權激勵，若未能在回購完成之後36個月內實施完畢，未使用部分將依法予以登出。"
-    },
-    {
-      "id": "5024277",
-      "time": "2026-08-04 17:33:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里雲：Qwen-Image-3.0正式上線千問AI平臺，權威榜單國內第一】今日，阿里巴巴(09988.HK)千問影象生成模型Qwen-Image-3.0正式上線千問AI平臺，面向所有使用者全部開放。旗艦版Qwen-Image-3.0-Pro與標準版Qwen-Image-3.0-Standard同時開放API，文生圖0.18元/張起。API已在千問AI平臺上線，海外使用者可透過QwenCloud接入。在國際評測平臺Arena.ai最新文生圖榜單中，Qwen-Image-3.0位列國內第一。"
-    },
-    {
-      "id": "mkt:019fcc1f-1aee-7aab-8f6a-f4d054c62af6",
-      "time": "2026-08-04 17:33:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Country Garden (02007.HK) said contracted sales attributable to shareholders in July 2026 were about RMB 2.26 billion, with contracted sales area of roughly 280,000 square metres."
-    },
-    {
-      "id": "5024276",
-      "time": "2026-08-04 17:33:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受持續降雨影響 重慶臨時停運列車12趟】記者從中國鐵路成都局集團有限公司重慶車站獲悉，根據氣象部門預測，8月4日重慶東部、貴州東部和南部等地部分地區有持續性強降雨，為確保安全，重慶火車站臨時停運列車12趟，其中重慶北站停運5趟，重慶西站停運5趟，重慶東站停運2趟。（新華社）"
-    },
-    {
-      "id": "5024275",
-      "time": "2026-08-04 17:33:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息：碧桂園7月合約銷售額22.6億元人民幣。"
     }
   ]
 }

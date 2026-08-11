@@ -1,7 +1,159 @@
 {
   "date": "2026-08-11",
-  "count": 1804,
+  "count": 1821,
   "items": [
+    {
+      "id": "5035603",
+      "time": "2026-08-11 17:36:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福瑞達：控股股東協議轉讓公司5%股份獲山東省國資委批覆】福瑞達公告，公司控股股東山東省商業集團有限公司與山東國投於2026年8月6日簽署《股份轉讓協議》，擬以5.38元/股轉讓5082.85萬股（佔公司總股本5%）。近日，公司收到通知，山東省國資委已批覆同意該次非公開協議轉讓。本次權益變動尚需取得上交所合規性稽核同意及辦理過戶手續。"
+    },
+    {
+      "id": "5035602",
+      "time": "2026-08-11 17:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：批准2026年第二季度每股7新臺幣現金股利。"
+    },
+    {
+      "id": "mkt:019ff02d-e5c3-7aab-8fee-a48d40749588",
+      "time": "2026-08-11 17:36:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Maritime safety sources say a cargo ship in the Red Sea was reportedly attacked; crew status unknown."
+    },
+    {
+      "id": "5035601",
+      "time": "2026-08-11 17:36:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議會主席團成員阿里雷扎・薩利米週二表示，若遭到來自麥加公約成員國領土發起的襲擊，伊朗將無限制予以反擊。  他表示，所有針對胡塞武裝組建的聯盟均已失敗，依靠麥加公約這類協議無法擊潰 “抵抗力量”。"
+    },
+    {
+      "id": "5035600",
+      "time": "2026-08-11 17:35:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：董事會批准約294.425億美元資本撥款。"
+    },
+    {
+      "id": "5035599",
+      "time": "2026-08-11 17:34:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【保利發展：7月簽約金額149.23億元，同比減少17.16%】保利發展公告，2026年7月簽約面積77.98萬平方米，同比減少14.30%；簽約金額149.23億元，同比減少17.16%。2026年1-7月簽約面積709.92萬平方米，同比減少11.76%；簽約金額1500.29億元，同比減少8.06%。"
+    },
+    {
+      "id": "5035598",
+      "time": "2026-08-11 17:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江釋出地質災害紅色預警】浙江省自然資源廳、浙江省氣象局8月11日17時18分聯合更新發布地質災害氣象風險紅色預警：11日20時至12日20時，寧波市（寧海縣）、台州市（三門縣、天台縣）等部分地區地質災害氣象風險很高（紅色預警）；杭州市（臨安區）、寧波市（海曙區、北侖區、鄞州區、奉化區、象山縣、餘姚市）、溫州市（鹿城區、甌海區、永嘉縣、平陽縣、瑞安市、樂清市）、湖州市（安吉縣）、舟山市（定海區、普陀區、岱山縣）、台州市（椒江區、黃巖區、路橋區、溫嶺市、臨海市）、麗水市（青田縣）等部分地區地質災害氣象風險高（橙色預警）。"
+    },
+    {
+      "id": "mkt:019ff02c-49a5-7aab-8fee-9e0c477e183e",
+      "time": "2026-08-11 17:34:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Hongjia Industrial Coatings wins contract for Indonesian Taijing 600 ktpa aluminium smelter】Hongjia Industrial Coatings said it won the contract to supply heavy-duty anti-corrosion coating solutions for Taijing Aluminium’s 600 ktpa electrolytic aluminium project in Indonesia’s Morowali industrial park. The project, a JV between China Xinfa Group and Tsingshan Group, will use industry-leading 600 kA electrolysis cells; phase one (300 ktpa) is scheduled to begin production in 2026."
+    },
+    {
+      "id": "mkt:019ff02b-fd08-7aab-8fee-93acf4053bab",
+      "time": "2026-08-11 17:34:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Yemeni government and coastguard sources said Houthi militants attacked the deck of a cargo vessel in the Bab al-Mandeb Strait, killing three."
+    },
+    {
+      "id": "5035597",
+      "time": "2026-08-11 17:33:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【虹嘉工業塗料中標印尼泰景鋁業60萬噸電解鋁專案】據東方雨虹訊息，虹嘉工業塗料中標印尼泰景鋁業60萬噸電解鋁專案，提供專業重防腐防護方案。泰景鋁業60萬噸電解鋁專案位於印尼莫羅瓦利工業園，由中國信發集團與青山集團合資建設，採用行業領先的600KA大型電解槽，一期30萬噸產能預計2026年正式投產。"
+    },
+    {
+      "id": "5035596",
+      "time": "2026-08-11 17:33:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一重：免去陸文俊董事、董事長職務】中國一重公告，公司第四屆董事會第六十六次會議於2026年8月11日以視訊會議形式舉行，應出席董事4名，實際出席4名。會議審議透過《關於免去公司董事、董事長職務的議案》，公司董事、董事長陸文俊先生因犯受賄罪被依法判處刑罰，董事會同意免去其董事、董事長職務。免去陸文俊先生董事職務的議案尚需提交公司股東會審議。表決結果為同意4票，反對0票，棄權0票。"
+    },
+    {
+      "id": "5035595",
+      "time": "2026-08-11 17:33:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行透過主要再融資操作投放164.94億歐元。"
+    },
+    {
+      "id": "5035594",
+      "time": "2026-08-11 17:33:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "據海事安全訊息源透露，一艘貨船在紅海遭襲，目前船員生死未明。"
+    },
+    {
+      "id": "mkt:019ff02b-2cf0-7aab-8fee-8b1cfa1e8e5f",
+      "time": "2026-08-11 17:33:09",
+      "tags": [
+        "MKT News",
+        "TSM.N"
+      ],
+      "text": "TSMC (TSM.N): Board approved a Q2 cash dividend of NT$7.0 per share."
+    },
+    {
+      "id": "5035593",
+      "time": "2026-08-11 17:33:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門政府及海岸警衛隊訊息：葉門胡塞武裝襲擊曼德海峽一艘甲板貨船，造成三人死亡。"
+    },
+    {
+      "id": "5035592",
+      "time": "2026-08-11 17:32:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電：將成立合資企業開發並製造下一代影象感測器。索尼合資企業價值不超過2820億日元。"
+    },
+    {
+      "id": "mkt:019ff02a-d3eb-7aab-8fee-829b6014c1c9",
+      "time": "2026-08-11 17:32:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) to form a joint venture to develop and manufacture next-generation image sensors."
+    },
     {
       "id": "mkt:019ff02a-780b-7aab-8fee-7f07b6d33dde",
       "time": "2026-08-11 17:32:22",
