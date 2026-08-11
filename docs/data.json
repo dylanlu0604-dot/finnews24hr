@@ -1,7 +1,136 @@
 {
-  "updated": "2026-08-11 17:45:03",
-  "count": 15869,
+  "updated": "2026-08-11 17:49:04",
+  "count": 15867,
   "items": [
+    {
+      "id": "te:economy:574408",
+      "time": "2026-08-11 17:48:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss Bond Yield Rebounds From One-Month Low — Switzerland's 10-year government bond yield rose above 0.4%, rebounding from a one-month low, as uncertainty surrounding the Middle East conflict remained elevated while domestic inflation pressures eased. Tougher demands from Washington toward Iran clouded prospects of a peace agreement, pushing oil prices higher. However, Swiss inflation eased to 0.4% in July from 0.5%, its lowest level in four months, highlighting the limited pass-through from higher energy prices linked to geopolitical tensions. The reading contrasted with the Swiss National Bank's expectation of a modest near-term pickup in inflation, following its decision to hold its policy rate at 0%. The SNB is expected to leave borrowing costs unchanged throughout the year, with further cuts remaining a contingency rather than the base case, citing no severe damage to Swiss banks. While most economists see the first SNB rate hike in early 2028, currency markets continue to price in an increase as early as March 2027."
+    },
+    {
+      "id": "5035640",
+      "time": "2026-08-11 17:47:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝發言人：我方重申，無論過去還是現在，我們從未關閉對話談判的大門，拒絕談判的是沙特方面。"
+    },
+    {
+      "id": "mkt:019ff038-90ff-7aab-8fee-dae78897ce4f",
+      "time": "2026-08-11 17:47:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Jiangbolong said it obtained a commitment letter from China Construction Bank's Shenzhen branch agreeing to provide a dedicated loan facility not exceeding RMB 720 mln to finance this share repurchase."
+    },
+    {
+      "id": "5035639",
+      "time": "2026-08-11 17:47:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST逸飛：撤銷其他風險警示，8月13日復牌並更名逸飛鐳射】ST逸飛公告，公司股票因2024年度財務報告內部控制被出具否定意見審計報告，自2025年5月6日起被實施其他風險警示。目前，公司2025年度內部控制審計報告為無保留意見，且2024年度內控否定意見涉及事項影響已消除。上海證券交易所於2026年8月11日同意撤銷其他風險警示。公司股票將於2026年8月12日停牌一天，自2026年8月13日起復牌，證券簡稱由“ST逸飛”變更為“逸飛鐳射”，漲跌幅限制仍為20%。"
+    },
+    {
+      "id": "mkt:019ff038-48ce-7aab-8fee-d5fc1e52bb69",
+      "time": "2026-08-11 17:47:28",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) shares fell 1% in premarket trading after the company said it had increased the size of its stock offering and priced the deal."
+    },
+    {
+      "id": "5035638",
+      "time": "2026-08-11 17:47:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "Uniper執行長：與我們的水電站不同，我們的燃煤發電廠目前尚未受到乾旱和低水位的影響。"
+    },
+    {
+      "id": "5035637",
+      "time": "2026-08-11 17:46:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾宣佈增發上調規模並定價200億美元股票發售後，其股價盤前下跌1%。"
+    },
+    {
+      "id": "5035636",
+      "time": "2026-08-11 17:46:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "香港聯交所資料顯示，中國石化於8月11日在其他交易所回購90萬股A股股份，涉資460萬元人民幣。"
+    },
+    {
+      "id": "5035635",
+      "time": "2026-08-11 17:46:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江波龍：取得7.2億元股票回購專項貸款承諾函】江波龍(301308.SZ)公告稱，公司近日取得中國建設銀行深圳市分行出具的《承諾函》，同意為公司回購股份提供不超過7.2億元專項貸款額度，貸款期限不超過3年，專項用於回購公司A股股票。此前公司披露回購方案，擬回購資金總額不低於4億元且不超過8億元，回購價格不超過735元/股，回購股份將用於股權激勵或員工持股計劃。"
+    },
+    {
+      "id": "5035634",
+      "time": "2026-08-11 17:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國電力公司EDF：加龍河高溫或從8月14日起影響布拉奈核電站。"
+    },
+    {
+      "id": "5035633",
+      "time": "2026-08-11 17:46:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聚和材料：擬向國聚同輝新增認繳出資5億元】聚和材料公告，公司擬以自有資金作為有限合夥人入夥上海國聚同輝企業管理諮詢合夥企業（有限合夥）並新增認繳出資5億元，聚和致遠擬同步新增認繳出資1.7億元，並以0元為對價受讓聚芯才100萬元的出資額。本次增資及認繳出資份額轉讓完成後，國聚同輝認繳出資總額將增至7億元，其中公司認繳5億元，佔71.43%。本次交易構成關聯交易，已獲董事會審議透過，尚需提交股東會審議。"
+    },
+    {
+      "id": "5035632",
+      "time": "2026-08-11 17:46:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建新股份：2026年上半年營收3.60億元 淨利潤同比增790.27%】建新股份公告稱，2026年上半年，公司營業收入3.60億元，同比增長51.42%；歸屬於上市公司股東的淨利潤4787.01萬元，同比增長790.27%；扣除非經常性損益的淨利潤4750.50萬元，同比增長940.46%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。報告期末，公司總資產17.16億元，較上年度末增長6.05%；歸屬於上市公司股東的淨資產15.19億元，較上年度末增長3.34%。"
+    },
+    {
+      "id": "5035631",
+      "time": "2026-08-11 17:44:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙環境部資料顯示，截至8月11日當週，西班牙水電儲量由前一週的14446吉瓦時降至13983吉瓦時。"
+    },
+    {
+      "id": "5035630",
+      "time": "2026-08-11 17:44:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【索尼與臺積電將在日本成立先進影象感測器合資公司，採用先進製程技術2029年量產】8月11日，索尼半導體解決方案公司與臺積電宣佈簽署最終合作協議，將在日本熊本縣合志市成立合資公司Advanced Vision Semiconductor Manufacturing Corporation。該公司將採用先進製程技術，負責智慧手機影象感測器量產所需的研發與製造活動，預計2029年開始量產。根據協議，索尼將作為合資公司的單一控股股東，並計劃將其作為索尼集團旗下合併子公司運營，合資公司代表董事將由索尼指派。索尼計劃透過現金投入及資產轉移方式向合資公司投入約4650億日元，臺積電計劃現金投入約2820億日元，相關資金將根據市場需求及業務狀況分階段投入。"
+    },
+    {
+      "id": "5035629",
+      "time": "2026-08-11 17:44:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建新股份：擬對全資子公司建新瑞祥增資5500萬元】建新股份公告，公司擬以自有資金人民幣5500萬元對全資子公司滄州建新瑞祥化學科技有限公司進行增資，公司於2026年8月10日召開第七屆董事會第二次會議審議透過該議案。本次增資完成後，建新瑞祥註冊資本由人民幣4.8億元增加至人民幣5.35億元，公司仍持有建新瑞祥100%股權。本次增資資金來源為自有資金，不涉及關聯交易，亦不構成《上市公司重大資產重組管理辦法》規定的重大資產重組。"
+    },
     {
       "id": "5035628",
       "time": "2026-08-11 17:43:50",
@@ -144397,160 +144526,6 @@
         "公司"
       ],
       "text": "【中通客車：2026年7月客車產銷量同比均實現增長】中通客車公告稱，截至2026年7月，公司生產量為1367輛，同比增長35.48%，本年累計8454輛，同比增長18.45%；銷售量為1138輛，同比增長12.34%，本年累計8738輛，同比增長27.52%。分車型來看，中型車產銷量增長顯著，生產量單月同比增長128.83%，銷售量單月同比增長67.31%；輕型及物流車生產量單月同比下降37.50%。"
-    },
-    {
-      "id": "5024315",
-      "time": "2026-08-04 17:49:02",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通將耐克評級下調至“減持”後，耐克股價盤前下跌約3%。"
-    },
-    {
-      "id": "mkt:019fcc2d-1339-7aab-8f6b-4e9e0b597baf",
-      "time": "2026-08-04 17:48:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Refinitiv: senior Iranian officials said the plan will enable Iran to monitor outbound traffic through the Strait of Hormuz and, if necessary, intervene."
-    },
-    {
-      "id": "5024314",
-      "time": "2026-08-04 17:48:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位伊朗高階訊息人士透露，對於駛離霍爾木茲海峽的航線，阿曼將在通知伊朗後為船隻辦理離港手續。"
-    },
-    {
-      "id": "5024313",
-      "time": "2026-08-04 17:48:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【葉文華“空降”，交通銀行迎來專職黨委副書記】8月4日，交通銀行近期迎來一位“空降”的黨委副書記。近日交通銀行召開集團黨委擴大會，會上宣佈，葉文華擔任該行黨委副書記。（21財經）"
-    },
-    {
-      "id": "mkt:019fcc2c-9bcc-7aab-8f6b-4113f57a412c",
-      "time": "2026-08-04 17:48:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Refinitiv: Iranian senior sources said Oman will allow departing vessels to transit the Strait of Hormuz outbound lane after notifying Iranian authorities."
-    },
-    {
-      "id": "5024312",
-      "time": "2026-08-04 17:47:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日元對美元匯率小幅下跌】截至日本當地時間4日16時36分、即北京時間4日15時36分，日元對美元匯率小幅下跌至1美元兌換157.69日元。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fcc2b-e75f-7aab-8f6b-3a22c447aa62",
-      "time": "2026-08-04 17:47:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Refinitiv: Iranian senior sources said the outbound transit lane through the Strait of Hormuz will use a route between Iran and Oman."
-    },
-    {
-      "id": "5024311",
-      "time": "2026-08-04 17:47:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國核電投資控股的田灣核電8號機組全面轉入除錯階段】8月3日，中核集團旗下中國核電投資控股的田灣核電8號機組完成冷態功能試驗（以下簡稱冷試），標誌著田灣核電8號機組由安裝階段全面轉入除錯階段。田灣核電7、8號機組全部建成投產後，年發電量將達到188億千瓦時。（介面新聞）"
-    },
-    {
-      "id": "5024310",
-      "time": "2026-08-04 17:47:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗資深訊息人士表示：伊朗不太可能接受重新開放霍爾木茲海峽之外的任何其他選項。"
-    },
-    {
-      "id": "mkt:019fcc2b-30c2-7aab-8f6b-334bb7294c13",
-      "time": "2026-08-04 17:46:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Refinitiv: senior Iranian sources said a temporary arrangement discussed with Oman for the Strait of Hormuz would give Tehran full control over inbound shipping."
-    },
-    {
-      "id": "5024309",
-      "time": "2026-08-04 17:46:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位伊朗訊息人士表示，霍爾木茲海峽外運航道將沿著伊朗與阿曼之間的航線。"
-    },
-    {
-      "id": "5024308",
-      "time": "2026-08-04 17:46:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受颱風“白海豚”影響，搭載日本版GPS的H3火箭9號機將延期發射】日本宇宙航空研究開發機構（JAXA）8月3日宣佈，原定7日發射、搭載準天頂衛星系統“引路7號機”的H3火箭9號機將延期發射。原因是受今年第13號颱風“白海豚”影響，發射場所在的鹿兒島縣種子島宇宙中心周邊預計將出現惡劣天氣，新的發射日程未定。"
-    },
-    {
-      "id": "5024307",
-      "time": "2026-08-04 17:46:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗資深訊息人士表示：目前正與阿曼商討的霍爾木茲海峽臨時方案，將使德黑蘭完全掌控所有駛入霍爾木茲海峽的航運。"
-    },
-    {
-      "id": "mkt:019fcc2a-70a8-7aab-8f6b-2a1efe58aa66",
-      "time": "2026-08-04 17:46:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【Sources: India plans to ease disclosure rules for overseas funds】Three people said India’s market regulator plans to relax disclosure requirements for overseas funds classified as \"high-risk.\" The 2023 rules, introduced to curb concentrated holdings in Indian listed companies, spawned investor complaints and legal challenges; proposed adjustments aim to fix those unintended consequences. Expanded exemptions would give funds more time to disclose investor identities, easing entry for thematic funds. Foreign investors have posted record net sales of $26.88bn of Indian assets since the start of 2026. Under current rules a \"high-risk\" fund is one with over 50% of its India assets invested in the same corporate group; that threshold drew complaints from Asian and US investor associations and legal challenges, prompting the review. \"Regulators are focusing on addressing pain points and attracting long-term overseas capital,\" one source said."
-    },
-    {
-      "id": "5024306",
-      "time": "2026-08-04 17:45:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：日本工程公司JGC因西班牙可再生電力政策調整提出索賠。"
-    },
-    {
-      "id": "5024305",
-      "time": "2026-08-04 17:45:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【共進股份：累計回購12273.32萬元股份 佔總股本1.21%】共進股份公告稱，公司於2026年6月3日透過以集中競價方式回購股份的議案，回購資金1.5億元-2億元，用於員工持股計劃及/或股權激勵，回購期限至2027年6月2日。截至2026年7月底，公司已累計回購股份9515508股，佔總股本的1.21%，購買最高價13.94元/股、最低價11.74元/股，已支付總金額12273.32萬元。"
-    },
-    {
-      "id": "mkt:019fcc2a-088e-7aab-8f6b-251f6c636e8e",
-      "time": "2026-08-04 17:45:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Vietnam Food Association seeks a minimum export price for rice."
     }
   ]
 }
