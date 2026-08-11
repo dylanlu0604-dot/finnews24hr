@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-12 03:23:54",
-  "count": 15647,
+  "updated": "2026-08-12 03:27:44",
+  "count": 15646,
   "items": [
+    {
+      "id": "5036352",
+      "time": "2026-08-12 03:26:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合海事資訊中心：阿曼灣一艘集裝箱船被直升機發射的導彈擊中】聯合海事資訊中心（JMIC）表示，一家航運公司報告，集裝箱船Vela Nova週二早些時候在距巴基斯坦海岸71海里處被一枚從直升機發射的導彈擊中。船長確認，船尾操舵艙被擊中，該船已無法被正常操縱。爆炸引發火災，火勢已被撲滅。所有船員均已確認安全，沒有人員受傷的報告。"
+    },
+    {
+      "id": "mkt:019ff247-dde7-7aab-8ff9-cb98599f4678",
+      "time": "2026-08-12 03:23:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Mexican peso per US dollar rose to 17.0862, the highest level since February."
+    },
     {
       "id": "mkt:019ff247-3a71-7aab-8ff9-c5d471e6a26d",
       "time": "2026-08-12 03:23:01",
@@ -142523,30 +142544,6 @@
         "國際"
       ],
       "text": "【美官員：霍爾木茲海峽臨時航線免許可免收費，特朗普對伊朗談判大門仍敞開】一名美國官員表示，霍爾木茲海峽的所有臨時航運航線均暢通無阻，無需辦理許可、審批，也不用繳納任何費用。這名官員駁斥了相關報道，即伊朗或將根據潛在協議掌控海峽航運。他表示，霍爾木茲海峽屬於國際水道，任何一方都無權管控航道或船舶通行。一名白宮官員稱，特朗普“手握全部籌碼”，並應美國地區盟友的請求，保留了與伊朗開展談判的可能性。"
-    },
-    {
-      "id": "5025252",
-      "time": "2026-08-05 03:25:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官將派拉蒙‑華納兄弟合併案庭審定於2027年3月。"
-    },
-    {
-      "id": "5025251",
-      "time": "2026-08-05 03:24:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：傑伊·克萊頓在橢圓形辦公室正式宣誓就任美國國家情報總監。"
-    },
-    {
-      "id": "mkt:019fce3b-bae5-7aab-8f76-578325f55d4d",
-      "time": "2026-08-05 03:24:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The White House said Jay Clayton was formally sworn in at the Oval Office as U.S. director of national intelligence, with Treasury Secretary Bessent administering the oath."
     }
   ]
 }

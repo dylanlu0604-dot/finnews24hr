@@ -1,7 +1,28 @@
 {
   "date": "2026-08-12",
-  "count": 261,
+  "count": 263,
   "items": [
+    {
+      "id": "5036352",
+      "time": "2026-08-12 03:26:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合海事資訊中心：阿曼灣一艘集裝箱船被直升機發射的導彈擊中】聯合海事資訊中心（JMIC）表示，一家航運公司報告，集裝箱船Vela Nova週二早些時候在距巴基斯坦海岸71海里處被一枚從直升機發射的導彈擊中。船長確認，船尾操舵艙被擊中，該船已無法被正常操縱。爆炸引發火災，火勢已被撲滅。所有船員均已確認安全，沒有人員受傷的報告。"
+    },
+    {
+      "id": "mkt:019ff247-dde7-7aab-8ff9-cb98599f4678",
+      "time": "2026-08-12 03:23:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Mexican peso per US dollar rose to 17.0862, the highest level since February."
+    },
     {
       "id": "mkt:019ff247-3a71-7aab-8ff9-c5d471e6a26d",
       "time": "2026-08-12 03:23:01",
