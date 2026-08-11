@@ -1,7 +1,61 @@
 {
   "date": "2026-08-12",
-  "count": 401,
+  "count": 407,
   "items": [
+    {
+      "id": "5036430",
+      "time": "2026-08-12 06:32:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公募調倉方向漸顯，醫藥生物關注度升溫】公募基金正在尋找新的結構性機會，醫藥生物成為重點關注方向。最新測算資料顯示，公募權益類基金整體倉位進一步升至94.34%，處於歷史中位高水平。與此同時，公募資金調倉跡象逐步顯現，食品飲料、非銀金融、銀行獲得主動增持，電子等前期熱門板塊則被減持。值得關注的是，機構調研風向也發生變化。8月3日至9日，公募機構對醫藥生物行業調研104次，熱度超過此前持續受到關注的電子行業。（上證報）"
+    },
+    {
+      "id": "5036429",
+      "time": "2026-08-12 06:31:08",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 時間待定 國產大飛機C919首條國際航線開通；\n② 14:00 德國7月CPI終值；\n③ 港股收盤之後 騰訊控股釋出業績報告；\n④ 16:00 國際能源署（IEA）公佈月度原油市場報告（OMR）；\n⑤ 美股盤前 Nebius Group NV釋出業績報告；\n⑥ 時間待定 石油輸出國組織（OPEC，歐佩克）公佈月度原油市場報告；\n⑦ 20:30 美國7月CPI；\n⑧ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑨ 次日 02:00 美國7月政府預算；\n⑩ 美股盤後 思科、高意公司/相干公司Coherent、Cerebras Systems等釋出業績報告；\n⑪ 時間待定 明晟公司MSCI 8月指數調整公告發布；\n⑫ 次日06:00 谷歌新品釋出會，推出Pixel 11系列手機。"
+    },
+    {
+      "id": "mkt:019ff2f2-e8ef-7aab-8ffb-975309ff7e38",
+      "time": "2026-08-12 06:30:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran oil minister says gas capacity could rise 95 mln cu m/day by end-September】Iran’s oil minister said on the 11th that repairs to gas production facilities damaged in recent hostilities are underway and that daily capacity could recover by about 95 mln cubic meters by end-September. Reconstruction of four attacked gas-processing plants is progressing rapidly, contractors have started work, and projects are expected to finish ahead of schedule and fully restore pre-attack output. Earlier reports said Iranian gas output had fallen roughly 230 mln cu m/day since U.S. and Israeli military actions."
+    },
+    {
+      "id": "5036428",
+      "time": "2026-08-12 06:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗石油部長：伊天然氣日產能有望大幅回升】伊朗石油部長穆赫辛·帕克內賈德11日表示，伊朗正在修復因戰事受損的天然氣生產設施，按計劃9月底前其日產能可回升9500萬立方米。帕克內賈德稱，伊朗4座遇襲受損的天然氣處理設施重建工程正在迅速推進，重建承包商已經開工，預計將比計劃日程提前完工，完全恢復戰前產能。此前有訊息稱，自美以對伊朗發起軍事行動以來，伊朗天然氣日產量減少約2.3億立方米。（央視新聞）"
+    },
+    {
+      "id": "te:markets:574520",
+      "time": "2026-08-12 06:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Drops by 3.47% — Top commodity losers are Germany Natural Gas THE (-3.47%), Natural Gas UK (-1.59%) and Natural gas (-1.54%). Gains are led by Heating Oil (1.97%), Brent Crude Oil (1.77%) and Crude Oil WTI (1.62%)."
+    },
+    {
+      "id": "5036427",
+      "time": "2026-08-12 06:29:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國得州資料中心暫停後，電力需求預測被下調】在美國得克薩斯州對新資料中心專案下達暫停令後，該州的電力需求增速預計將大幅放緩。根據週二釋出的政府資料，得州電力需求明年將增長5.6%。這一增速低於7月報告預測的14%年負荷增速，而後者本將是十年來最大的增幅。此次修正源於得州8月3日決定對所有申請接入州電網的資料中心專案展開審計，此舉實際上暫停了這一蓬勃發展的行業。"
+    },
     {
       "id": "5036426",
       "time": "2026-08-12 06:24:51",
