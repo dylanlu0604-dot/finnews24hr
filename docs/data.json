@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-11 08:02:53",
-  "count": 15810,
+  "updated": "2026-08-11 08:06:42",
+  "count": 15812,
   "items": [
+    {
+      "id": "5034714",
+      "time": "2026-08-11 08:06:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭地區長官稱，俄羅斯對烏克蘭東南部城市扎波羅熱的襲擊造成五人死亡，二十人受傷。"
+    },
+    {
+      "id": "5034713",
+      "time": "2026-08-11 08:05:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【14年來首次 日本連續兩個月破產企業超千家 】日本東京商工調查公司10日釋出的報告顯示，日本7月共有1028家企業破產，繼6月後再次超過1000家。這是日本14年來首次出現連續兩個月破產企業逾千家的情況。該公司分析，日元貶值推高物價以及勞動力短缺是導致破產企業增多的主要原因。 資料顯示，日本7月破產企業數量較去年同期增加6.9%，為今年以來單月最高值。這些企業負債總額為2363億日元（1美元約合159日元），較去年同期激增41.4%。其中，總部位於大阪的信用卡結算代理公司“全東信”負債額為1151.6億日元，可能是今年以來負債規模最大的日本破產企業。"
+    },
+    {
+      "id": "5034712",
+      "time": "2026-08-11 08:05:30",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：中長期鎢精礦價格趨勢向上】中信建投研報表示，本週黑鎢精礦價格41.9萬元/噸（較上週持平），APT價格61萬元/噸（較上週持平），歐洲APT價格3000—3279美元/噸度(摺合人民幣179.1—195.8萬元/噸)。近期鎢精礦價格在40萬噸左右徘徊。短期來看，7、8月份是鎢消費傳統淡季，預計9、10月份旺季開啟後，價格會開始上探。中期來看，鎢精礦的傳統消費和AI浪潮拉動的PCB微鑽、六氟化鎢新消費都處於增長週期。美伊衝突帶來的軍工補庫需求更為旺盛。中長期鎢精礦價格趨勢向上。"
+    },
+    {
+      "id": "5034711",
+      "time": "2026-08-11 08:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡貿工部將2026年GDP增長預期從之前的2.0%-4.0%上調至4.5%-5.5%。"
+    },
+    {
+      "id": "5034710",
+      "time": "2026-08-11 08:04:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：Anthropic與雲端計算公司Riot達成91億美元算力協議】知情人士透露，Anthropic PBC已與Riot Platforms Inc.達成一項價值91億美元的協議。Riot是一家比特幣礦業公司，最近也開始銷售人工智慧資料中心算力。Riot於週一早些時候披露，已達成一項為期20年的協議，從其位於德克薩斯州羅克代爾的園區向一家“領先的前沿AI公司”提供191兆瓦的電力容量。知情人士表示，該公司正是Anthropic。"
+    },
+    {
+      "id": "5034709",
+      "time": "2026-08-11 08:02:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧將於美國東部時間上午9點會見奧地利外交部長。"
+    },
     {
       "id": "5034708",
       "time": "2026-08-11 08:02:11",
@@ -143885,47 +143935,6 @@
         "市場"
       ],
       "text": "澳大利亞S&P/ASX 200指數早盤上漲0.2%，報9,034.30點。"
-    },
-    {
-      "id": "5023344",
-      "time": "2026-08-04 08:05:46",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：銀行政策面樂觀，資金面積極】中信證券研報指出，基本面視角，預計2季度銀行息差表現良好、資本市場和財富業務驅動中收增長，在此背景下銀行營收增速保持穩定良好態勢，盈利增速或將小幅上行。投資視角看，上週銀行板塊延續7月以來的積極趨勢，但受市場風格影響周內指數大幅波動。我們預計，未來兩週A股波動率仍將保持偏高水平，銀行板塊相對收益或將走弱；但經營格局穩定和宏觀敘事等長邏輯仍在繼續演繹，全年絕對收益空間仍將延續。"
-    },
-    {
-      "id": "te:economy:572299",
-      "time": "2026-08-04 08:04:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Factory Growth Strengthens in July — The AIB Ireland Manufacturing PMI edged up to 55.1 in July 2026 from 54.9 in June, marking its second-highest reading since May 2022 and signaling another strong improvement in factory conditions. Output and new orders continued to expand at robust rates, supported by stronger domestic demand, though export order growth slowed to its weakest pace since February amid geopolitical uncertainty. Employment rose at the fastest pace since May 2022 as firms added staff to meet healthy order books and expand production capacity. Purchasing activity and inventories increased further, although supply chains remained under pressure due to transportation delays and raw material shortages linked to the Middle East conflict. Input cost inflation eased to a five-month low, while output price inflation slowed to a four-month low. Business confidence strengthened to its highest since February, with nearly half of manufacturers expecting output to increase over the coming year."
-    },
-    {
-      "id": "mkt:019fca15-f60c-7aab-8f60-4c51c251581a",
-      "time": "2026-08-04 08:04:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "South Korea's KOSPI rose 2.00% in early trade."
-    },
-    {
-      "id": "5023343",
-      "time": "2026-08-04 08:04:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6382.43點。個股方面，SK海力士漲超3%，三星電子漲超1%。"
     }
   ]
 }
