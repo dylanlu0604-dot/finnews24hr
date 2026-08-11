@@ -1,7 +1,102 @@
 {
-  "updated": "2026-08-11 13:42:48",
-  "count": 15871,
+  "updated": "2026-08-11 13:46:45",
+  "count": 15875,
   "items": [
+    {
+      "id": "mkt:019fef5b-56a9-7aab-8fe8-7b7ca4a84871",
+      "time": "2026-08-11 13:46:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the housing market is not a reason for the bank to stand pat."
+    },
+    {
+      "id": "5035110",
+      "time": "2026-08-11 13:45:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SD Guthrie執行長：預計2026年剩餘時間毛棕櫚油價格將在每噸4,600至5,000馬來西亞林吉特之間。"
+    },
+    {
+      "id": "5035109",
+      "time": "2026-08-11 13:45:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "SD Guthrie執行長：厄爾尼諾現象或將影響2027年，甚至可能波及2028年的作物生產。"
+    },
+    {
+      "id": "te:markets:574304",
+      "time": "2026-08-11 13:45:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End Slightly Lower — New Zealand's stocks lost 28 points, or 0.2%, to close at 13,861 on Tuesday, tracking a decline on Wall Street overnight as rising oil prices amid uncertainty over the reopening of the Strait of Hormuz raised inflation concerns and doubts about whether the Fed will cut rates this year. Traders awaited the release of US inflation data this week for clues about the Fed's monetary policy at its upcoming meeting. Meanwhile, rising oil prices also raised questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the RBNZ's Q3 inflation expectations, due this week, after they accelerated in Q2. Energy, industrials, financials, and utilities mainly weighed on the index, with notable losses from Channel Infrastructure (-2.4%), Colonial Motor (-2.2%), Auckland International Airport (-1.6%), EBOS Group (-1.1%), Freightways Group (-1.1%), Infratil (-1.1%), Meridian Energy (-1.1%), ANZ Group (-0.6%), and A2 Milk (-0.6%)."
+    },
+    {
+      "id": "mkt:019fef5a-a237-7aab-8fe8-72df90f84efe",
+      "time": "2026-08-11 13:45:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Reserve Bank of India governor urged banks to inventory all AI models and implement board‑approved AI governance policies."
+    },
+    {
+      "id": "5035108",
+      "time": "2026-08-11 13:44:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長敦促各銀行梳理全部人工智慧模型，建立經董事會批准的人工智慧治理政策。"
+    },
+    {
+      "id": "5035107",
+      "time": "2026-08-11 13:43:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：銀行必須儲存完整的人工智慧模型清單。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837762131",
+      "time": "2026-08-11 13:43:38",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳洲聯儲主席：如有必要將再次加息】據報道，澳洲聯儲主席布洛克表示，委員會希望放緩經濟增長，認為通脹存在上行風險；如有必要，將再次加息。"
+    },
+    {
+      "id": "5035106",
+      "time": "2026-08-11 13:42:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲4%，現報1325.50元。"
+    },
+    {
+      "id": "te:economy:574303",
+      "time": "2026-08-11 13:42:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brunei",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Brunei Inflation Hits 2-1/2-Year High in June — Brunei’s annual inflation rose to 0.3% in June 2026 from 0.1% in each of the previous two months, marking the highest reading since December 2023. The latest result also marked the third consecutive month of rising consumer prices, with upward pressure broadening across several categories, including food and non-alcoholic beverages (1.5% vs 1.2% in May), clothing and footwear (3.5% vs -1.5%), furnishings and household maintenance (0.4% vs 0.2%), health (0.6% vs 0.4%), education (0.3% vs 0.3%), restaurants and hotels (0.5% vs 0.4%), recreation and culture (0.4% vs -1.0%). In the meantime, housing and utilities were almost flat (0.03% vs 0.2%), while prices fell further for communication (-0.2% vs -3.4%) and miscellaneous goods and services (-0.6% vs -0.6%). Also, transport cost fell 0.2%, shifting from a 0.4% gain in May. On a monthly basis, the CPI rose 0.2%, swinging from a 0.1% fall in May."
+    },
     {
       "id": "5035105",
       "time": "2026-08-11 13:42:09",
@@ -54,6 +149,15 @@
         "其他"
       ],
       "text": "布洛克：委員會正在認真考慮何時可能適合加息。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608113837761376",
+      "time": "2026-08-11 13:39:55",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員布洛克：委員會討論了加息或維持利率不變 而非降息】美聯儲官員布洛克表示，委員會討論了加息或維持利率不變，而非降息。委員會正在認真考慮何時可能適合加息，首要考慮的是通貨膨脹、中東衝突和人工智慧熱潮。"
     },
     {
       "id": "5035103",
@@ -144431,68 +144535,6 @@
         "其他"
       ],
       "text": "三井物產首席財務官：在對長期脫碳拍賣計劃的細節進行分析後，我們將評估位於新潟的海上風電專案的經濟可行性。"
-    },
-    {
-      "id": "5023732",
-      "time": "2026-08-04 13:46:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "智譜(02513.HK)漲超10%，成交額超38億港元。"
-    },
-    {
-      "id": "mkt:019fcb4e-f7c5-7aab-8f65-393a5b3d6344",
-      "time": "2026-08-04 13:46:17",
-      "tags": [
-        "MKT News",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "Zhipu (02513.HK) jumped more than 10% on turnover exceeding HKD 3.8 bln."
-    },
-    {
-      "id": "mkt:019fcb4e-1725-7aab-8f65-306a2ec038c8",
-      "time": "2026-08-04 13:45:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Iran, Oman near deal on Strait of Hormuz transit】U.S. sources on the 3rd, citing Iranian and U.S. officials, said Iran and Oman are close to an agreement on navigation through the Strait of Hormuz. Under the draft, vessels entering the Persian Gulf would use an Iran-controlled lane near Iran’s coast while outbound ships would use a lane near Oman, and multiple Iranian officials said transiting vessels would pay a \"service fee\" to be split between Iran and Oman. A U.S. official familiar with the talks said Iran’s description was inaccurate and that any temporary lane in the Strait would not require Iranian approval and would not impose charges on passing ships."
-    },
-    {
-      "id": "5023731",
-      "time": "2026-08-04 13:45:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數轉漲，此前一度跌超1%。"
-    },
-    {
-      "id": "5023730",
-      "time": "2026-08-04 13:44:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美伊官員稱伊朗與阿曼接近達成霍爾木茲海峽航行協議】美國方面3日援引伊朗和美國官員的話稱，就霍爾木茲海峽航行，伊朗和阿曼正接近達成協議。美國方面訊息顯示，根據雙方商討的協議，進入波斯灣的船隻將從靠近伊朗海岸且由伊方控制的一條航道行駛，而駛出的船隻將取道一條靠近阿曼的航道。多名伊朗官員說，往來船只需要繳納“服務費”，這筆收入將由伊朗和阿曼平分。不過，一名瞭解談判情況的美方官員稱，伊方官員表述“不準確”，而且霍爾木茲海峽任何“臨時”航道的設立都無須伊方批准，不會對過往船隻收費。伊方官員表示，即使伊朗與阿曼達成協議，如果美方不解除對伊朗港口的封鎖、不恢復履行伊美先前達成的14點諒解備忘錄，霍爾木茲海峽將繼續關閉。"
-    },
-    {
-      "id": "5023729",
-      "time": "2026-08-04 13:43:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "三井物產首席財務官：日美協同干預以應對日元疲軟可被視為積極舉措，因日元過度貶值可能損害日本經濟。"
-    },
-    {
-      "id": "5023728",
-      "time": "2026-08-04 13:43:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "RBC資本市場首予SK海力士“跑贏大盤”評級；目標價200美元。"
     }
   ]
 }

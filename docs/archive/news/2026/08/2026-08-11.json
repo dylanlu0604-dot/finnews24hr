@@ -1,7 +1,102 @@
 {
   "date": "2026-08-11",
-  "count": 1092,
+  "count": 1103,
   "items": [
+    {
+      "id": "mkt:019fef5b-56a9-7aab-8fe8-7b7ca4a84871",
+      "time": "2026-08-11 13:46:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of Australia Governor Bullock said the housing market is not a reason for the bank to stand pat."
+    },
+    {
+      "id": "5035110",
+      "time": "2026-08-11 13:45:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SD Guthrie執行長：預計2026年剩餘時間毛棕櫚油價格將在每噸4,600至5,000馬來西亞林吉特之間。"
+    },
+    {
+      "id": "5035109",
+      "time": "2026-08-11 13:45:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "SD Guthrie執行長：厄爾尼諾現象或將影響2027年，甚至可能波及2028年的作物生產。"
+    },
+    {
+      "id": "te:markets:574304",
+      "time": "2026-08-11 13:45:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End Slightly Lower — New Zealand's stocks lost 28 points, or 0.2%, to close at 13,861 on Tuesday, tracking a decline on Wall Street overnight as rising oil prices amid uncertainty over the reopening of the Strait of Hormuz raised inflation concerns and doubts about whether the Fed will cut rates this year. Traders awaited the release of US inflation data this week for clues about the Fed's monetary policy at its upcoming meeting. Meanwhile, rising oil prices also raised questions about how they could affect the RBNZ's monetary policy decision at its September meeting. Caution also prevailed ahead of the RBNZ's Q3 inflation expectations, due this week, after they accelerated in Q2. Energy, industrials, financials, and utilities mainly weighed on the index, with notable losses from Channel Infrastructure (-2.4%), Colonial Motor (-2.2%), Auckland International Airport (-1.6%), EBOS Group (-1.1%), Freightways Group (-1.1%), Infratil (-1.1%), Meridian Energy (-1.1%), ANZ Group (-0.6%), and A2 Milk (-0.6%)."
+    },
+    {
+      "id": "mkt:019fef5a-a237-7aab-8fe8-72df90f84efe",
+      "time": "2026-08-11 13:45:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Reserve Bank of India governor urged banks to inventory all AI models and implement board‑approved AI governance policies."
+    },
+    {
+      "id": "5035108",
+      "time": "2026-08-11 13:44:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長敦促各銀行梳理全部人工智慧模型，建立經董事會批准的人工智慧治理政策。"
+    },
+    {
+      "id": "5035107",
+      "time": "2026-08-11 13:43:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：銀行必須儲存完整的人工智慧模型清單。"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608113837762131",
+      "time": "2026-08-11 13:43:38",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳洲聯儲主席：如有必要將再次加息】據報道，澳洲聯儲主席布洛克表示，委員會希望放緩經濟增長，認為通脹存在上行風險；如有必要，將再次加息。"
+    },
+    {
+      "id": "5035106",
+      "time": "2026-08-11 13:42:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲4%，現報1325.50元。"
+    },
+    {
+      "id": "te:economy:574303",
+      "time": "2026-08-11 13:42:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brunei",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Brunei Inflation Hits 2-1/2-Year High in June — Brunei’s annual inflation rose to 0.3% in June 2026 from 0.1% in each of the previous two months, marking the highest reading since December 2023. The latest result also marked the third consecutive month of rising consumer prices, with upward pressure broadening across several categories, including food and non-alcoholic beverages (1.5% vs 1.2% in May), clothing and footwear (3.5% vs -1.5%), furnishings and household maintenance (0.4% vs 0.2%), health (0.6% vs 0.4%), education (0.3% vs 0.3%), restaurants and hotels (0.5% vs 0.4%), recreation and culture (0.4% vs -1.0%). In the meantime, housing and utilities were almost flat (0.03% vs 0.2%), while prices fell further for communication (-0.2% vs -3.4%) and miscellaneous goods and services (-0.6% vs -0.6%). Also, transport cost fell 0.2%, shifting from a 0.4% gain in May. On a monthly basis, the CPI rose 0.2%, swinging from a 0.1% fall in May."
+    },
     {
       "id": "5035105",
       "time": "2026-08-11 13:42:09",
@@ -54,6 +149,15 @@
         "其他"
       ],
       "text": "布洛克：委員會正在認真考慮何時可能適合加息。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608113837761376",
+      "time": "2026-08-11 13:39:55",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員布洛克：委員會討論了加息或維持利率不變 而非降息】美聯儲官員布洛克表示，委員會討論了加息或維持利率不變，而非降息。委員會正在認真考慮何時可能適合加息，首要考慮的是通貨膨脹、中東衝突和人工智慧熱潮。"
     },
     {
       "id": "5035103",
