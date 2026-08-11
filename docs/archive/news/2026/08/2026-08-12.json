@@ -1,7 +1,26 @@
 {
   "date": "2026-08-12",
-  "count": 380,
+  "count": 382,
   "items": [
+    {
+      "id": "mkt:019ff2c8-082c-7aab-8ffb-7e75ee9c6a69",
+      "time": "2026-08-12 05:43:43",
+      "tags": [
+        "MKT News",
+        "CRWV.O"
+      ],
+      "text": "CoreWeave (CRWV.O) CFO expects Q3 revenue of $3.45–3.6 bln and capex of $11.5–13.5 bln."
+    },
+    {
+      "id": "mkt:019ff2c7-1861-7aab-8ffb-770d809cfcb6",
+      "time": "2026-08-12 05:42:41",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) CFO expects active compute capacity to exceed 1.85 GW by year-end, above prior guidance of >1.7 GW."
+    },
     {
       "id": "mkt:019ff2c4-b6f4-7aab-8ffb-6959f814a7af",
       "time": "2026-08-12 05:40:05",

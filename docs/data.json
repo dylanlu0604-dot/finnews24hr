@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-12 05:42:08",
-  "count": 15527,
+  "updated": "2026-08-12 05:45:53",
+  "count": 15525,
   "items": [
+    {
+      "id": "mkt:019ff2c8-082c-7aab-8ffb-7e75ee9c6a69",
+      "time": "2026-08-12 05:43:43",
+      "tags": [
+        "MKT News",
+        "CRWV.O"
+      ],
+      "text": "CoreWeave (CRWV.O) CFO expects Q3 revenue of $3.45–3.6 bln and capex of $11.5–13.5 bln."
+    },
+    {
+      "id": "mkt:019ff2c7-1861-7aab-8ffb-770d809cfcb6",
+      "time": "2026-08-12 05:42:41",
+      "tags": [
+        "MKT News",
+        "CRWV.O",
+        "Impact bullish"
+      ],
+      "text": "CoreWeave (CRWV.O) CFO expects active compute capacity to exceed 1.85 GW by year-end, above prior guidance of >1.7 GW."
+    },
     {
       "id": "mkt:019ff2c4-b6f4-7aab-8ffb-6959f814a7af",
       "time": "2026-08-12 05:40:05",
@@ -141460,38 +141479,6 @@
         "The Trump Trade"
       ],
       "text": "【Trump says internal polling at record highs】Trump said his internal polling is at record highs and dismissed mainstream polls as fake. He credited record tax cuts, job gains, large external investment into the US, secure borders, a victory in Venezuela and progress on Iranian denuclearization, and urged voters to back Republicans."
-    },
-    {
-      "id": "5025411",
-      "time": "2026-08-05 05:45:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西拒絕正式批准特朗普提名的丹尼爾・佩雷斯出任美國駐巴西利亞大使，且近期拒籤數名美國外交官，作為回應，美國吊銷了巴西駐華盛頓大使的簽證。"
-    },
-    {
-      "id": "5025410",
-      "time": "2026-08-05 05:43:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員蘇珊·柯林斯反對託德·布蘭奇出任司法部長。"
-    },
-    {
-      "id": "mkt:019fceba-8f2a-7aab-8f78-6644c75cba5e",
-      "time": "2026-08-05 05:42:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Documents show Berkshire Hathaway sold 182,980 shares of DeWitt at an average price of $199.55 per share and still holds about 28.7 million shares."
-    },
-    {
-      "id": "5025409",
-      "time": "2026-08-05 05:42:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱民調資料創歷史新高】美國總統特朗普在社交媒體發文表示，他的“真實”民調支援率達到歷史最高水平，並稱媒體民調是“虛假的”。他將自己獲得的支援歸功於減稅、就業、邊境安全、外來投資、委內瑞拉以及伊朗相關成果。他呼籲美國人“投票給共和黨，共創美國輝煌”。"
     }
   ]
 }
