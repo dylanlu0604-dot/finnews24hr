@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-12 04:59:57",
-  "count": 15566,
+  "updated": "2026-08-12 05:03:56",
+  "count": 15561,
   "items": [
+    {
+      "id": "5036391",
+      "time": "2026-08-12 05:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "案件卷宗顯示：美國一名法官阻止美國郵政局依據特朗普總統的行政令對郵寄投票實施限制。"
+    },
     {
       "id": "5036390",
       "time": "2026-08-12 04:59:12",
@@ -141788,57 +141796,6 @@
         "其他"
       ],
       "text": "OpenAI：7月29日，異常告警促使我們發現一起事件，事件發生在奪旗（CTF）模式網路安全測試期間，涉及OpenAI旗下模型。已收到非正式通知，確認與此次事件相關的所有已識別問題均已不再活躍。"
-    },
-    {
-      "id": "5025360",
-      "time": "2026-08-05 05:03:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：異常情況尚未發現受影響站點自身資料之外的影響，其審計工作仍在進行中。"
-    },
-    {
-      "id": "5025359",
-      "time": "2026-08-05 05:03:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國7月外匯儲備4279.5億美元，前值4273.6億美元。"
-    },
-    {
-      "id": "5025358",
-      "time": "2026-08-05 05:02:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "安進高管表示，預計第三季度運營支出將出現顯著的環比增長。"
-    },
-    {
-      "id": "mkt:019fce95-7460-7aab-8f78-067d00214629",
-      "time": "2026-08-05 05:02:08",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Al Arabiya TV reported Saudi officials said there have been no mediated negotiations between Saudi Arabia and the Houthis."
-    },
-    {
-      "id": "mkt:019fce93-a13b-7aab-8f77-fc3c64bad09a",
-      "time": "2026-08-05 05:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's foreign exchange reserves were $427.95 billion in July, up from $427.36 billion in June."
-    },
-    {
-      "id": "mkt:019fce93-7db2-7aab-8f77-f3a52840654d",
-      "time": "2026-08-05 05:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Foreign Exchange Reserves (Jul) | actual 427950000000B | previous 427360000000.00006B"
     }
   ]
 }
