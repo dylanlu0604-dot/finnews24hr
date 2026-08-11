@@ -1,7 +1,139 @@
 {
-  "updated": "2026-08-11 21:41:53",
-  "count": 15601,
+  "updated": "2026-08-11 21:46:26",
+  "count": 15604,
   "items": [
+    {
+      "id": "mkt:019ff112-153b-7aab-8ff3-b0472d8936f9",
+      "time": "2026-08-11 21:45:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tanker-tracking data show Russian crude exports averaged 3.71 mln bpd in the four weeks to Aug 9, the lowest since late May, suggesting the earlier export surge tied to sustained Ukrainian strikes on Russian refineries is fading."
+    },
+    {
+      "id": "5036085",
+      "time": "2026-08-11 21:43:49",
+      "tags": [
+        "公司",
+        "資料",
+        "觀點"
+      ],
+      "text": "【高盛：谷歌AI戰略或轉向規模化商業化 雲業務成核心增長引擎】高盛在研報中表示，谷歌母公司Alphabet近期AI管理層調整可能意味著公司戰略正在從“研究驅動”轉向更強調規模化商業化。谷歌DeepMind負責人Demis Hassabis將更多聚焦AGI、科學研究和長期AI開發，Koray Kavukcuoglu則接管Gemini產品開發與商業化。高盛認為，這並非谷歌放棄前沿模型競爭，而是開始將資源更多投入其真正具備長期優勢的領域。未來，谷歌仍將保持前沿AI研發能力，高盛預計Gemini 4可能在今年晚些時候或明年初推出。同時，Gemini消費者採用率提升有望強化谷歌的分發優勢，而Google Cloud將成為AI基礎設施變現的重要載體。高盛預計，未來4至6個季度Google Cloud收入複合增速可能接近三位數，GAAP營業利潤率有望超過30%。高盛認為，谷歌正在演變為一家規模化AI平臺公司：消費者AI擴大分發，雲業務承接基礎設施需求，前沿研究則更多服務整體商業戰略。"
+    },
+    {
+      "id": "5036084",
+      "time": "2026-08-11 21:43:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【衛星影象顯示油輪在霍爾木茲海峽外接力轉運 維繫中東原油出口生命線】儘管近期襲擊事件頻發，中東一條涉及油輪在霍爾木茲海峽外接力運輸的關鍵石油供應通道仍在運作。衛星影象顯示，有船隻在霍爾木茲海峽外進行貨物轉運，表明部分油輪仍在關閉追蹤訊號的情況下穿越這一水道。歐盟“Sentinel 2”衛星資料顯示，週一在阿曼和阿聯酋沿岸一段超過100公里（62英里）的海域內，共發現12起此類轉運活動。根據媒體彙編的船舶追蹤資料以及Kpler和Vortexa的資料，自週六以來，至少有4艘出港的超大型油輪在穿越霍爾木茲海峽後重新出現在追蹤系統中，這些油輪共載有800萬桶原油。其中一些船只過去曾參與這種接力運輸，另一些則可能繼續駛往世界其他地區的煉油廠。這種接力運輸和原油轉運正為地區緊張局勢持續之際的全球能源市場提供重要的生命線，並有助於抑制油價。有時每天仍有數百萬桶原油經這一水道運出，從而緩解衝突造成的全球市場供應損失。 不過，這種運輸方式並非沒有風險。阿聯酋主要石油公司是衝突期間最積極透過霍爾木茲海峽運出原油的企業之一。該公司上週晚些時候表示，衝突期間其15艘船隻遭到襲擊。宣告發布後，週末又有一艘船隻遇襲。許多駛離霍爾木茲海峽的船隻都選擇貼近阿曼海岸線的航線。這些船隻在透過相關水域時通常會得到美軍協助。由於針對航運的襲擊仍在持續，願意進入波斯灣的船東數量依然相對有限。這推動油輪公司收入大幅上漲，基準航線的日費再次接近50萬美元。"
+    },
+    {
+      "id": "5036083",
+      "time": "2026-08-11 21:42:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟電力協調小組：本週電力形勢仍將緊張。"
+    },
+    {
+      "id": "mkt:019ff10f-c760-7aab-8ff3-a9076bd53247",
+      "time": "2026-08-11 21:42:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "EURUSD",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "EU electricity coordination group says power supply will remain tight this week."
+    },
+    {
+      "id": "mkt:019ff10f-bd6d-7aab-8ff3-a33225807bd0",
+      "time": "2026-08-11 21:42:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "EU electricity coordination group says there is no short-term risk to power supply adequacy."
+    },
+    {
+      "id": "mkt:019ff10f-60bd-7aab-8ff3-989060b48555",
+      "time": "2026-08-11 21:42:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Satellite imagery shows tankers outside the Strait of Hormuz sustaining Middle East crude exports via ship-to-ship relay transshipment."
+    },
+    {
+      "id": "te:markets:574454",
+      "time": "2026-08-11 21:42:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Natural Gas Market Balances Heat and Strong Supply — US natural gas prices fluctuated around $2.80 per million British thermal units as investors weighed hotter weather forecasts and rising LNG demand against strong supply levels. Forecasts now point to significantly hotter conditions across the central and southern US, which could boost electricity demand as consumers increase air-conditioning use and raise gas consumption by power generators. Also, flows to US LNG export terminals on the Gulf Coast climbed to their highest level in more than a month as some facilities appeared to complete seasonal maintenance, reducing gas available to the domestic market. However, elevated inventories continue to limit the upside, with storage expected to remain 6.6% above the five-year average for the week ending August 7. Strong production and additional supply from West Texas pipelines coming online are also expected to keep the market well supplied."
+    },
+    {
+      "id": "5036082",
+      "time": "2026-08-11 21:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟電力協調小組：不存在短期電力供應充足性風險。"
+    },
+    {
+      "id": "5036081",
+      "time": "2026-08-11 21:41:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美官員稱美軍向一艘與伊朗有關的船隻開火】美國《華爾街日報》11日援引一名美國官員的話報道稱，美軍當日向一艘懸掛巴拿馬國旗、與伊朗有關的船隻開火。報道稱，這名官員表示，該船“試圖突破美國對伊朗港口的封鎖”，一架美國軍用直升機向該船船舵開火。此後，該船“似乎試圖將船員轉移到另一艘民用船隻上”。報道稱，目前該事件尚無人員傷亡報告。另據一名海員11日告訴新華社記者，一艘集裝箱船在阿曼灣海域遇襲，船員緊急呼叫救援並準備棄船。被襲船隻上的船員透過船舶間無線電公共頻道通報，事發地點位於阿曼灣東部邊緣，船上共17人，疑似被“直升機襲擊”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff10e-a21f-7aab-8ff3-931c711863fb",
+      "time": "2026-08-11 21:41:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An EU power coordination group discussed electricity supply security."
+    },
+    {
+      "id": "5036080",
+      "time": "2026-08-11 21:41:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟電力協調小組就電力供應安全展開討論。"
+    },
+    {
+      "id": "5036079",
+      "time": "2026-08-11 21:40:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中際旭創子公司新進成為鵬鼎控股第四大股東 按收盤價計對應市值23.2億元】鵬鼎控股(002938.SZ)披露2026年半年報。截至二季度末，中際旭創(上海)投資有限公司持有鵬鼎控股2400萬股，持股比例1.04%，為公司的第四大股東。以鵬鼎控股今日收盤價96.67元/股計算，旭創投資的持股市值約23.2億元。"
+    },
     {
       "id": "te:markets:574453",
       "time": "2026-08-11 21:40:02",
@@ -142005,102 +142137,6 @@
         "國際"
       ],
       "text": "【美國華盛頓州山火縱火嫌疑人被捕】美國西北部華盛頓州斯波坎縣及周邊地區正遭受三場山火炙烤，已有6萬多人被要求撤離。該縣治安官3日晚宣佈，已逮捕一名關聯其中一起山火的縱火嫌疑人。斯波坎縣治安官約翰·諾韋爾斯通報，嫌疑人名為阿倫·法里納奇，現年37歲，是斯波坎縣居民，3日因一級縱火罪指控被收押，保釋金定為100萬美元。他涉嫌點燃路邊草叢，引發該縣1日起爆發的三起山火之一。另兩起山火起因仍在調查中。因目擊者舉報，法里納奇最初在1日被拘留，當天受訊問後獲釋；在調查人員獲取更多證據後，法里納奇於2日下午再度被羈押。檢察部門已對其提起訴訟。檔案顯示，法里納奇曾在亞利桑那州因另一起無關案件犯下過失殺人罪。截至3日，斯波坎縣及周邊地區已有大約6.4萬人接到疏散命令。至少700座建築物毀於大火，另有400座受損；過火面積超過4000公頃。目前暫無人員傷亡報告，但當地應急指揮中心人員說，隨著火勢從林間蔓延至居民區和商業區以及搜救範圍擴大，後續很有可能會發現傷亡人員。（新華社）"
-    },
-    {
-      "id": "te:markets:572586",
-      "time": "2026-08-04 21:46:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Gains Ahead of BCB Selic Decision — The Ibovespa gained nearly 1% to trade above the 179,000 mark on Tuesday, supported by lower oil prices and growing expectations of a Selic rate cut. Crude prices fell after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about energy-driven inflation. The favorable backdrop reinforced expectations that the BCB will lower its benchmark rate from 14.25% on Wednesday. Financial stocks led gains, with Itaúsa rising about 1% and B3 advancing more than 2%. BB Seguridade added over 1% after reporting a 3.2% annual increase in net profit. Vale jumped about 2.5% as iron ore prices strengthened, while utilities also advanced, with Auren and Sabesp gaining around 1.5% each. Ambev and WEG rose about 1%, while Petrobras fell 1% in line with lower oil prices. Investors also awaited earnings from Itaú, Gerdau, RD Saúde, and Prio after the close."
-    },
-    {
-      "id": "5024987",
-      "time": "2026-08-04 21:45:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿波羅全球管理公司總裁在電話會議上表示：目前非交易型私人信貸基金的贖回需求僅為上一次要約收購時的一半。"
-    },
-    {
-      "id": "5024986",
-      "time": "2026-08-04 21:45:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇徐州一地試行集中供冷】三伏天裡，江蘇徐州一小區不開空調，室溫就能保持25攝氏度左右，這份夏日裡的涼意源自一座已廢棄的煤礦，井下積存的礦井水常年恆溫十幾攝氏度，如今順著小區的供暖管道，流進了首批近100戶居民的地暖盤管。 曾經的資源枯竭“包袱”，變成了惠及居民的“天然冷源”。據瞭解，該系統還可以透過熱泵技術提取礦井水的熱量，實現冬季集中供暖，從而實現一管通冬夏。（新華社）"
-    },
-    {
-      "id": "mkt:019fcd04-7a62-7aab-8f71-aa3db17e0cc9",
-      "time": "2026-08-04 21:44:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "ARM.O",
-        "Impact bullish",
-        "MRVL.O",
-        "MU.O"
-      ],
-      "text": "Philadelphia Semiconductor Index rose more than 5% intraday; Arm (ARM.O) jumped 11.5%, MARVELL (MRVL.O) gained 11%, Intel (INTC.O) rose over 7% and Micron Technology (MU.O) added 6.7%."
-    },
-    {
-      "id": "5024985",
-      "time": "2026-08-04 21:44:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞典金融監管局公告：薩博高管於8月4日以每股620瑞典克朗的價格出售了該公司1.6萬股股份。"
-    },
-    {
-      "id": "5024984",
-      "time": "2026-08-04 21:43:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多地停車計費試行取消“向上取整”，“按分鐘計費”試點加速落地】停車按分鐘計費的改革試點正加速落地。2026年8月3日，合肥市區一處停車場啟動該項試點，以小型車為例，前15分鐘免費，超出後以每分鐘0.06元計。此前，合肥高新區、肥西縣已試行精準計費。澎湃新聞8月4日從合肥城市泊車投資管理有限公司獲悉，試點的銅望交口停車場位於包河區銅陵路望江東路口，是集停車、充電、汽車後市場於一體的複合型場站，周邊有學校、公寓、鋼材交易中心等，存在接送學潮汐車流、商務臨時停靠、住宅夜間長時間停放等多元需求，試點旨在為臨時辦事、接送學生等短時停車群體提供更靈活的計費方式，引導車輛快停快走，提升泊位週轉效率，並檢驗精準計費規則在不同客群、時段的適用效果。（澎湃）"
-    },
-    {
-      "id": "5024983",
-      "time": "2026-08-04 21:42:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【費城半導體指數漲幅擴大至5%】費城半導體指數漲幅擴大至5%，報12006點。英偉達股價上漲2.17%，臺積電股價上漲2.08%，博通股價上漲4.69%，SK海力士股價上漲6.2%，美光科技股價上漲6.01%，超威半導體股價上漲6.18%，阿斯麥股價上漲3.8%，英特爾股價上漲7.59%，泛林集團股價上漲5.6%，ARM股價上漲11.67%。"
-    },
-    {
-      "id": "5024982",
-      "time": "2026-08-04 21:42:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "美股光學和光子學元件股票走強，Applied Optoelectronics漲16%，Lumentum漲7%，Coherent漲11%。"
-    },
-    {
-      "id": "mkt:019fcd02-bf17-7aab-8f71-a284a93fb3e7",
-      "time": "2026-08-04 21:42:16",
-      "tags": [
-        "MKT News",
-        "AAOI.O",
-        "Impact bullish",
-        "LITE.O",
-        "COHR.O"
-      ],
-      "text": "U.S. optics and photonics components stocks advanced: Applied Optoelectronics rose 16%, Lumentum gained 7% and Coherent climbed 11%."
-    },
-    {
-      "id": "5024981",
-      "time": "2026-08-04 21:42:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯聯邦獸醫和植物檢疫監督局將對來自歐盟的肉類及禽肉副產品經由俄羅斯過境實施臨時限制。"
     }
   ]
 }
