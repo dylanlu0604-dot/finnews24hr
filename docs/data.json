@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-11 08:22:09",
-  "count": 15819,
+  "updated": "2026-08-11 08:26:00",
+  "count": 15823,
   "items": [
+    {
+      "id": "5034737",
+      "time": "2026-08-11 08:25:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌2.6%。"
+    },
+    {
+      "id": "5034736",
+      "time": "2026-08-11 08:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美參議院將表決時程推至9月 加密貨幣法案進度恐因中期選舉卡關】美國加密貨幣行業原本寄望推動具有劃時代意義的數字資產立法，但這專案標實現的可能性正逐漸下降，儘管參議院共和黨人承諾在國會議員下月重返國會山莊後推進法案。對加密貨幣行業而言，參議院週六在沒有就備受期待的清晰法案（Clarity Act）進行表決的情況下就離開華盛頓，展開為期五週的8月休會期，無疑是一大打擊。財力雄厚的加密貨幣業已投入數億美元進行遊說，以推動法案過關，認為法案將為加密企業奠定堅實的法律基礎。不過，民主黨人、部分共和黨人及其他批評者認為，法案在防制洗錢及道德規範方面的保障不足。法案的推進需要透過60票門檻，但部分關鍵民主黨議員持續反對，加上參議院還有其他議程陷入僵局，共和黨籍參議院多數黨領袖圖恩(John Thune)週六推動一項程式性表決，最快可能於9月啟動法案送交參院全院審議的程式。然而，許多分析師與遊說人士對法案前景持懷疑態度，因為11月的中期選舉將分散議員們的注意力，而參議院會期也將因選舉而縮短，在議程繁忙的情況下，留給議員解決分歧的時間所剩無幾。"
+    },
+    {
+      "id": "5034735",
+      "time": "2026-08-11 08:23:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4410美元/盎司，日內漲0.47%。"
+    },
+    {
+      "id": "mkt:019fee34-3784-7aab-8fe2-6922d1f36d91",
+      "time": "2026-08-11 08:23:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【CSC Financial: Yushu IPO priced above expectations, positive for robotics sector】CSC Financial said Yushu’s IPO priced at 150.80 yuan/share, implying an issuance market value of about 61.0 bln yuan — above prior expectations and likely to trigger valuation repricing among robotics hardware makers. Domestic suppliers are accelerating multi-dimensional capability builds (\"brain\", \"cerebellum\", \"body\") and expanding industrial and commercial deployments; shipment volumes are rising and broader application scenarios should follow as robots generalize. The firm calls physical AI the next AI wave and identifies robots as a primary physical carrier. Catalysts to watch: Optimus V3 release and mass-production progress, new domestic robot product launches, further robotics IPOs and application rollouts. Recommends focusing on high-quality segments of the value chain."
+    },
+    {
+      "id": "5034734",
+      "time": "2026-08-11 08:23:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4470美元/盎司，日內漲1.14%。"
+    },
+    {
+      "id": "5034733",
+      "time": "2026-08-11 08:22:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智利國家銅業公司首次獲准將財年利潤用於再投資，旨在維持運營、緩解債務負擔】8月10日，智利國家銅業公司（Codelco）宣佈與智利政府達成歷史性協議，首次允許該公司將2025財年的24.22億美元利潤全部資本化，而不是上繳國庫。智利國家銅業公司計劃將這筆資金用於維持運營和專案組合，減少額外舉債需求。該公司表示，未來幾個月將推出一項戰略復甦計劃。"
+    },
+    {
+      "id": "5034732",
+      "time": "2026-08-11 08:22:18",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：宇樹IPO定價超出預期利好機器人板塊】8月11日，中信建投證券最新研報指出，宇樹IPO定價超出預期，有望帶動本體廠商估值重塑。宇樹IPO定價150.80元/股，對應發行市值約610億元，超出此前預期，有望帶動本體廠商估值重塑。國產鏈廠商積極推動“大腦”、“小腦”、“本體”等多維度能力建設，積極探索在工業、商業等多場景落地應用，出貨量規模持續擴大；隨著機器人泛化水平提高，預計其落地場景將進一步擴大。物理AI是人工智慧的下一波浪潮，機器人是AI最好的物理載體之一，產業發展趨勢明確。後續Optimus V3釋出及量產進展、國產機器人新品釋出、機器人公司IPO推進、應用落地將持續為板塊行情帶來催化，建議聚焦優質環節。"
+    },
+    {
+      "id": "te:economy:574224",
+      "time": "2026-08-11 08:21:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Construction Returns to Growth in July — The AIB Ireland Construction PMI rose to 53.0 in July 2026 from 45.4 in June, signaling a solid rebound in construction activity after the sharp contraction in the previous month. The recovery was broad-based, with all three sectors expanding for the first time in 15 months. Commercial construction led the upturn, while residential activity returned to growth after three months of contraction and civil engineering expanded for the first time since April 2025. New orders also increased following a marked decline in June, although the rise was only slight amid a scarcity of tender opportunities. Employment grew for a ninth consecutive month at a faster pace, while firms also increased their use of subcontractors. Input cost inflation eased to a five-month low, although costs continued to rise rapidly, while supply-chain disruptions persisted due to international shipping issues. Business confidence strengthened for a third consecutive month to a four-month high."
+    },
     {
       "id": "5034731",
       "time": "2026-08-11 08:19:35",
@@ -143955,38 +144032,6 @@
         "公司"
       ],
       "text": "【SK海力士與閃迪釋出HBF首份標準規範】SK海力士釋出宣告稱，SK海力士與閃迪推出高頻寬快閃記憶體（HBF）的行業首套標準規範，HBF屬於下一代儲存技術。兩家企業組建聯盟約六個月後達成這一里程碑進展。谷歌與Tenstorrent同樣加入該HBF聯盟。HBF是介於高頻寬記憶體（HBM）與固態硬碟之間的新型儲存層級；該技術兼具接近HBM的高速資料傳輸能力，同時依託NAND快閃記憶體技術實現儲存容量大幅擴容。"
-    },
-    {
-      "id": "5023363",
-      "time": "2026-08-04 08:25:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京市水務局與市氣象局2026年8月4日8時聯合降級釋出全市山洪災害風險藍色預警：預計8月4日8時至5日8時，我市懷柔區、密雲區、房山區、平谷區可能發生山洪災害（藍色風險）。請公眾遠離山洪溝道，暫停涉山涉水戶外活動。"
-    },
-    {
-      "id": "5023362",
-      "time": "2026-08-04 08:25:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐洲多國山火肆虐 過火面積遠超往年同期】受持續高溫乾旱影響，歐洲森林火災風險顯著升高。歐洲多國最新資料顯示，今年過火面積大幅高於往年同期水平。西班牙生態轉型與人口挑戰部初步資料顯示，截至2日，今年全國山火過火面積已超18.6萬公頃，約為2025年同期的5.6倍。據義大利方面訊息，截至7月28日，義大利今年已記錄超過1070起大型山火，總過火面積約7.4萬公頃。目前義大利中部的火情依然嚴峻。葡萄牙自然與森林保護研究所近日公佈的資料顯示，今年前7個月，葡萄牙共發生5729起山火，過火面積約為5.3萬公頃，為近4年來同期最高水平。"
-    },
-    {
-      "id": "5023361",
-      "time": "2026-08-04 08:23:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中巖大地接連中標浙江某核電站兩大重點工程專案】據中巖大地訊息，近日，中巖大地作為聯合體成員之一，接連中標“浙江某核電廠1、2號機組BOP子項建安工程(標段一)”及“廢物處理中心子項”岩土相關專案。"
-    },
-    {
-      "id": "5023360",
-      "time": "2026-08-04 08:23:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明陽電氣獲海外算力頭部企業AI算力大容量主變批次訂單】據明陽電氣訊息，公司日前在國際高階市場斬獲算力頭部企業的AI算力大容量主變批次訂單。此次簽約的AI算力大容量主變產品專為海外大型算力基礎設施場景定製。該產品作為AI算力供電系統的核心裝置，滿足多項嚴苛技術要求。"
     }
   ]
 }
