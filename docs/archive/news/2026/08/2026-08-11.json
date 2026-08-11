@@ -1,7 +1,44 @@
 {
   "date": "2026-08-11",
-  "count": 913,
+  "count": 917,
   "items": [
+    {
+      "id": "mkt:019fef0c-9342-7aab-8fe6-17115f237d0d",
+      "time": "2026-08-11 12:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Reserve Bank of Australia to announce interest rate decision and monetary policy statement in 10 minutes."
+    },
+    {
+      "id": "mkt:019fef0c-6ad0-7aab-8fe6-090473f06797",
+      "time": "2026-08-11 12:19:56",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "【Bernstein: CPUs set to become a major revenue pillar for TSMC by 2027】Bernstein analysts say the rise of AI agents earlier this year should accelerate CPU demand and could make CPUs a new growth engine for TSMC. They forecast TSMC’s CPU-related revenue could reach the upper end of $30.0 bln in 2027, roughly the midpoint of a 10–20% share of total revenue, and judge CPUs may be as important for chip revenue by 2027 as AI accelerators (GPUs and ASICs). Bernstein raised its target on TSMC to NT$3,300 from NT$2,780 and said the stock remains cheap versus peers."
+    },
+    {
+      "id": "5035015",
+      "time": "2026-08-11 12:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7個月四川外貿進出口同比增長4% 規模創歷史同期新高】從成都海關獲悉，今年前7個月，四川貨物貿易進出口總值6260.6億元，規模創歷史同期新高，位列全國第九、西部第一，同比增長4%。其中，出口3439.2億元，同比下降5.5%；進口2821.4億元，同比增長18.4%。 一般貿易佔比提升，保稅物流快速增長。前7個月，四川一般貿易方式進出口2467.1 億 元 ，同 比 增 長23.2%，佔全省外貿總值的39.4%，比重較去年同期提升6.2個百分點；保稅物流進出口 905.6 億元，同比增長20%，佔全省外貿總值的14.5%。"
+    },
+    {
+      "id": "5035014",
+      "time": "2026-08-11 12:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【直衝38℃！成都多地高溫橙色預警訊號繼續】今天上午11時，成都市氣溫區間在30.9℃~34.8℃。目前，成都多地已釋出高溫橙色預警訊號，最高直衝38℃。"
+    },
     {
       "id": "te:economy:574274",
       "time": "2026-08-11 12:16:38",
