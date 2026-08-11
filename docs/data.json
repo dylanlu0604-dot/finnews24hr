@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-12 04:13:36",
-  "count": 15635,
+  "updated": "2026-08-12 04:17:26",
+  "count": 15630,
   "items": [
+    {
+      "id": "mkt:019ff278-02a5-7aab-8ffa-63c3dcdab45b",
+      "time": "2026-08-12 04:16:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's minister for U.S.-Canada trade LeBlanc met U.S. Trade Representative Greer in Washington on Tuesday and said Canada remains committed to negotiations and will continue to press and defend Canadian interests."
+    },
+    {
+      "id": "mkt:019ff276-bac0-7aab-8ffa-5e9e6ae88c1f",
+      "time": "2026-08-12 04:14:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stocks closed lower on Tuesday, Aug. 11: Dow Jones Industrial Average fell 184.07 points (-0.34%) to 53,791.91; S&P 500 down 25.00 points (-0.32%) to 7,728.11; Nasdaq Composite declined 159.91 points (-0.60%) to 26,445.45."
+    },
+    {
+      "id": "5036377",
+      "time": "2026-08-12 04:14:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "Firefly Aerospace二季度營收1.177億美元，上年同期虧損0.155億美元。\n二季度調整後EBITDA虧損0.612億美元，分析師預期虧損0.479億美元。\n二季度每股虧損0.57美元，上年同期虧損5.78美元。\nFirefly美股盤後跌3.6%。"
+    },
+    {
+      "id": "te:markets:574511",
+      "time": "2026-08-12 04:13:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "CoreWeave earnings below expectations at -1.14 USD — CoreWeave (CRWV) released earnings per share at -1.14 USD, compared to market expectations of 0.03 USD."
+    },
     {
       "id": "5036376",
       "time": "2026-08-12 04:11:21",
@@ -142343,84 +142385,6 @@
         "焦點"
       ],
       "text": "AMD股價在第二季度財報釋出後下跌8%。"
-    },
-    {
-      "id": "5025293",
-      "time": "2026-08-05 04:16:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD：預計2026年下半年資料中心銷售將加速增長。"
-    },
-    {
-      "id": "5025292",
-      "time": "2026-08-05 04:16:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD第二季調整後每股收益1.66美元，IBES預估為1.62美元。"
-    },
-    {
-      "id": "5025291",
-      "time": "2026-08-05 04:16:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD第二季度資料中心部門營收為67億美元。"
-    },
-    {
-      "id": "5025290",
-      "time": "2026-08-05 04:16:29",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "AMD第二季度營收為115.4億美元，市場分析師一致預期（IBES）為112.8億美元。"
-    },
-    {
-      "id": "mkt:019fce6b-9c79-7aab-8f76-c4899e100ae1",
-      "time": "2026-08-05 04:16:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "AMD (AMD.O) reported Q2 2026 revenue of $11.5 bln, above the $11.284 bln market estimate and up from $7.685 bln a year earlier."
-    },
-    {
-      "id": "mkt:019fce6b-3be2-7aab-8f76-b8bb6b81a59c",
-      "time": "2026-08-05 04:16:01",
-      "tags": [
-        "MKT News",
-        "SPCX.O"
-      ],
-      "text": "SpaceX (SPCX.O) fell more than 5% in after-hours trading."
-    },
-    {
-      "id": "5025289",
-      "time": "2026-08-05 04:15:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院一名高階官員稱，若局勢得到解決，駐華盛頓的巴西高階外交官簽證將予以恢復。"
-    },
-    {
-      "id": "5025288",
-      "time": "2026-08-05 04:15:31",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：隨著國防生產的增長，我們將向盟友提供更多國防物資。"
-    },
-    {
-      "id": "5025287",
-      "time": "2026-08-05 04:14:18",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院稱，美國撤銷了巴西大使的簽證。"
     }
   ]
 }
