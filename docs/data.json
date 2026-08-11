@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-12 00:47:23",
-  "count": 15621,
+  "updated": "2026-08-12 00:51:21",
+  "count": 15615,
   "items": [
+    {
+      "id": "5036274",
+      "time": "2026-08-12 00:49:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達正在研發引數規模達1萬億的Nemotron 4大模型，對標現有開放式AI模型。"
+    },
     {
       "id": "mkt:019ff1b5-0121-7aab-8ff7-c5fb36e9cd45",
       "time": "2026-08-12 00:43:19",
@@ -142231,67 +142239,6 @@
         "其他"
       ],
       "text": "LME期銅收漲196美元，報14066美元/噸。LME期鋁收漲2美元，報3223美元/噸。LME期鋅收漲32美元，報3674美元/噸。LME期鉛收漲29美元，報1896美元/噸。LME期鎳收漲133美元，報17193美元/噸。LME期錫收漲543美元，報55989美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019fcdae-fa8a-7aab-8f74-b5311245d924",
-      "time": "2026-08-05 00:50:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Anthropic said it has appointed Mariano-Florentino Cuéllar as its first head of global affairs."
-    },
-    {
-      "id": "mkt:019fcdae-7809-7aab-8f74-ad5031e7ccee",
-      "time": "2026-08-05 00:49:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's shipping minister said all 14 crew members, including 13 Indian nationals, were safely rescued by the Yemeni coast guard and taken to Mocha port."
-    },
-    {
-      "id": "5025189",
-      "time": "2026-08-05 00:49:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航運部長：全部 14 名海員（含 13 名印度籍）已由葉門海岸警衛隊安全營救，並轉移至穆哈港。"
-    },
-    {
-      "id": "mkt:019fcdae-165c-7aab-8f74-a7adfd7b39f7",
-      "time": "2026-08-05 00:49:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "India's shipping minister said the Indian-flagged vessel MSV Faize Noore Oliya was struck by a projectile near Yemeni waters, capsized and sank."
-    },
-    {
-      "id": "5025188",
-      "time": "2026-08-05 00:49:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航運部長：印度商船 “ Faize Noore Oliya” 號在葉門水域附近被擊中，船舶傾覆沉沒。"
-    },
-    {
-      "id": "5025187",
-      "time": "2026-08-05 00:48:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：摩根大通資產管理即將收購 Antin 旗下的 IDEX。"
-    },
-    {
-      "id": "mkt:019fcdac-36b0-7aab-8f74-9d9a66a30734",
-      "time": "2026-08-05 00:47:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says talks with Oman on Strait of Hormuz progress 'positive'】Iran's foreign ministry said Iran and Oman are continuing negotiations to secure shipping through the Strait of Hormuz, focusing on delineating safe transit lanes. Foreign ministry spokesman Baghaei told Iranian state TV the talks have received \"positive\" assessments on both technical and political levels. Iran said it is working to establish the mechanisms needed to manage shipping in the strait."
     }
   ]
 }
