@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-12 03:50:38",
-  "count": 15646,
+  "updated": "2026-08-12 03:54:29",
+  "count": 15648,
   "items": [
+    {
+      "id": "5036360",
+      "time": "2026-08-12 03:53:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "Quantinuum 與 Oracle 達成合作，推動 Oracle 雲基礎設施上混合量子計算的落地應用。"
+    },
+    {
+      "id": "mkt:019ff263-0048-7aab-8ffa-040237b22010",
+      "time": "2026-08-12 03:53:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Business Insider reports people familiar with the matter say former OpenAI chief product officer Kevin Weil is seeking a valuation of at least $750 mln for his newly founded AI science startup."
+    },
     {
       "id": "te:economy:574509",
       "time": "2026-08-12 03:50:03",
