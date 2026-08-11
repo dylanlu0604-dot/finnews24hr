@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-11 09:25:11",
-  "count": 15838,
+  "updated": "2026-08-11 09:29:01",
+  "count": 15834,
   "items": [
+    {
+      "id": "5034819",
+      "time": "2026-08-11 09:28:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊高開，北京文化2連板】影視院線板塊高開，北京文化2連板，華智數媒、儒意電影、金逸影視紛紛高開。"
+    },
+    {
+      "id": "te:markets:574234",
+      "time": "2026-08-11 09:27:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Steadies as Traders Weigh Fed Outlook — The dollar index steadied around 99.7 on Tuesday, holding gains from the previous session as investors continued to assess the outlook for Federal Reserve monetary policy ahead of key US inflation readings following a weak July jobs report. The closely watched consumer price index report is due on Wednesday, followed by producer inflation data on Thursday. Markets are currently pricing in around a 51% chance of a 25 basis point Fed rate hike in September, up from 44% a day earlier. Cleveland Fed President Beth Hammack said several rate increases may be needed to bring inflation back down to the central bank’s 2% target. Meanwhile, uncertainty persisted over a potential deal between the US and Iran to end the war and reopen the Strait of Hormuz, keeping markets wary of inflation and the outlook for interest rates."
+    },
+    {
+      "id": "mkt:019fee6e-7c2d-7aab-8fe3-6ac515d497b8",
+      "time": "2026-08-11 09:27:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "Aug 11 (Tue) open: CHINA'S SHANGHAI COMPOSITE INDEX down 15.89 pts (-0.40%) at 3,950.71; Shenzhen Composite Index down 50.52 pts (-0.35%) at 14,266.44; CSI 300 INDEX down 12.58 pts (-0.27%) at 4,689.45; ChiNext Index down 3.32 pts (-0.09%) at 3,533.89; SSE STAR 50 Index down 24.51 pts (-1.41%) at 1,713.26."
+    },
+    {
+      "id": "mkt:019fee6e-4996-7aab-8fe3-66ddfdbca6de",
+      "time": "2026-08-11 09:27:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Multiple A-share commercial space stocks opened lower; Chaojie shares fell more than 10%, Youji and Sirui New Materials dropped over 9%, Shenjian and Guisheng also declined."
+    },
+    {
+      "id": "5034818",
+      "time": "2026-08-11 09:26:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德恩精工：控股子公司德恩航天目前對公司整體營收貢獻較小】德恩精工(300780)8月11日在互動平臺表示，控股子公司德恩航天依託公司精密製造與智慧製造優勢，開展航天領域精密結構件、配套零部件的研發與試製。德恩航天目前對公司整體營收貢獻較小。"
+    },
+    {
+      "id": "mkt:019fee6c-c965-7aab-8fe3-590ffff49f0b",
+      "time": "2026-08-11 09:25:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "At the open of mainland A-shares, the Shanghai Composite Index fell 0.4%, the Shenzhen Composite Index fell 0.35% and the ChiNext Index fell 0.09%. Newly listed N Chaochun Yingcai surged 581.92% on its first trading day."
+    },
+    {
+      "id": "5034817",
+      "time": "2026-08-11 09:25:21",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.4％，深成指跌0.35％，創業板跌0.09％。"
+    },
+    {
+      "id": "5034816",
+      "time": "2026-08-11 09:25:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【王偉中包鋼會見中國能建董事長倪真】據內蒙古日報，8月10日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見中國能源建設集團有限公司黨委書記、董事長倪真一行。王偉中說，“十五五”時期，內蒙古基礎設施與產業專案投資建設空間廣闊、需求旺盛，希望中國能建加大投資力度，在能源、水利等基礎設施建設領域深化務實合作，圍繞綠色氫氨醇、新型儲能、綠色算力等新賽道謀劃佈局更多專案，加大研發投入和科技攻關力度，攜手推動地企合作實現更高水平互利共贏。同時，依託集團全球化市場佈局，聯合區屬國企開展規劃諮詢業務，更好帶動本地企業“走出去”。安全是發展的前提，希望中國能建繼續扛牢主體責任，守好安全生產底線。我們將持續最佳化營商環境，助力企業在內蒙古更好發展。"
+    },
     {
       "id": "mkt:019fee6b-f484-7aab-8fe3-562e7f5dcc66",
       "time": "2026-08-11 09:24:40",
@@ -144025,123 +144107,6 @@
         "市場"
       ],
       "text": "【深交所：“久吾轉02”盤中臨時停牌】“久吾轉02”（123276）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "5023442",
-      "time": "2026-08-04 09:28:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【通訊裝置板塊高開，欣天科技2連板】通訊裝置板塊高開，欣天科技2連板，劍橋科技、銘普光磁、仕佳光子、天孚通訊、中際旭創跟漲。"
-    },
-    {
-      "id": "5023441",
-      "time": "2026-08-04 09:28:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "N嘉立創開漲177.47%，市值達1300億元。"
-    },
-    {
-      "id": "mkt:019fca63-0aaa-7aab-8f61-2cd9e5bfe19e",
-      "time": "2026-08-04 09:28:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N Jialichuang surged 177.47% at the open, lifting market capitalization to CNY130 billion."
-    },
-    {
-      "id": "5023440",
-      "time": "2026-08-04 09:28:33",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國財長：韓國將致力於改善股市結構和穩定性，將著重加快落實ETF措施。"
-    },
-    {
-      "id": "te:markets:572314",
-      "time": "2026-08-04 09:28:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Holds Losses — US heating oil futures traded below $3.9 per gallon in early August, holding recent losses as markets assessed developments surrounding the Strait of Hormuz. President Donald Trump said his latest offer of talks was Tehran's \"last chance\" and expressed confidence that the key waterway would fully reopen. Although Iran denied holding direct talks with the US, it said discussions with Oman to increase shipping through the strait were making progress. Meanwhile, Gulf producers continued to pursue alternative export routes, with Turkey and Iraq extending a pipeline agreement, while Kazakhstan restarted its crude shipments through the Caspian Pipeline Consortium following a temporary disruption. Separately, Russian diesel supplies remained constrained by ongoing Ukrainian attacks on major oil refineries, prompting Moscow to extend its diesel and gasoline export ban through January 2027."
-    },
-    {
-      "id": "mkt:019fca61-fcb8-7aab-8f61-2585452709d1",
-      "time": "2026-08-04 09:27:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "At the open on Tuesday, Aug. 4, China's Shanghai Composite Index rose 6.71 points (0.18%) to 3,816.37; Shenzhen Composite Index rose 124.66 points (0.93%) to 13,572.95; CSI 300 Index rose 23.76 points (0.52%) to 4,566.94; ChiNext Index rose 50.96 points (1.54%) to 3,353.51; STAR 50 Index rose 16.73 points (1.08%) to 1,569.62."
-    },
-    {
-      "id": "mkt:019fca61-707c-7aab-8f61-1f7f4c7044da",
-      "time": "2026-08-04 09:26:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "2359.HK",
-        "Impact bullish"
-      ],
-      "text": "China A-share CRO sector active in early trading: Baihua Medical opened straight to the daily limit, WuXi AppTec +7%+, Kailaiying +5%+, Boteng and Kanglong Huacheng also rose."
-    },
-    {
-      "id": "5023439",
-      "time": "2026-08-04 09:26:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【元力股份：公司超級電容炭、硬碳、多孔碳等新能源碳材料已實現批次生產和銷售】元力股份8月4日在互動平臺表示，公司超級電容炭、硬碳、多孔碳等新能源碳材料已實現批次生產和銷售。"
-    },
-    {
-      "id": "5023438",
-      "time": "2026-08-04 09:26:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將致力於改善股市結構和穩定性。"
-    },
-    {
-      "id": "5023437",
-      "time": "2026-08-04 09:26:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CRO概念開盤活躍 百花醫藥漲停】CRO概念開盤活躍，百花醫藥漲停，藥明康德漲7%，凱萊英、益諾思、萬邦醫藥、康龍化成、睿智醫藥高開。"
-    },
-    {
-      "id": "mkt:019fca60-18e4-7aab-8f61-16063118d775",
-      "time": "2026-08-04 09:25:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "At the China A-share open the Shanghai Composite was up 0.18%, the Shenzhen Composite up 0.93% and the ChiNext up 1.54%. Stocks tied to CPO, lithography-equipment and optical-fiber sectors led gains."
-    },
-    {
-      "id": "5023436",
-      "time": "2026-08-04 09:25:12",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指高開，滬指漲0.18％，深成指漲0.93％，創業板漲1.54％。"
     }
   ]
 }
