@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-11 11:49:09",
-  "count": 15824,
+  "updated": "2026-08-11 11:53:06",
+  "count": 15820,
   "items": [
+    {
+      "id": "5034986",
+      "time": "2026-08-11 11:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "菲律賓預計到2027年外債總額將達到9149.8億比索。"
+    },
+    {
+      "id": "5034985",
+      "time": "2026-08-11 11:50:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南大光電：ArF光刻膠有六款產品透過客戶驗證並實現銷售，目前50噸產能尚未滿產】南大光電8月11日在互動平臺表示，公司ArF光刻膠有六款產品透過客戶驗證並實現銷售，目前50噸產能尚未滿產。另有多款產品正在下游客戶處驗證，公司正在積極推進產品驗證和市場拓展工作。"
+    },
+    {
+      "id": "5034984",
+      "time": "2026-08-11 11:50:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富瀚微：公司有晶片供貨給工業機器人公司】富瀚微8月11日在互動平臺表示，公司不僅晶片供貨給人形機器人公司，也有晶片供貨給工業機器人公司。"
+    },
+    {
+      "id": "5034983",
+      "time": "2026-08-11 11:49:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年7月全國受理網路舉報1778.5萬件】中央網信辦舉報中心近日公佈的資料顯示，2026年7月，中央網信辦舉報中心指導全國各級網信舉報工作部門、主要網站平臺受理網民舉報色情、賭博、侵權、謠言等違法和不良資訊1778.5萬件，環比下降0.5%、同比下降5.1%。其中，中央網信辦舉報中心受理舉報74.1萬件，各地網信舉報工作部門受理舉報57.7萬件，全國主要網站平臺受理舉報1646.7萬件。"
+    },
     {
       "id": "5034982",
       "time": "2026-08-11 11:48:15",
@@ -143968,80 +144000,6 @@
         "MKT News"
       ],
       "text": "India's Nifty IT index fell 1%."
-    },
-    {
-      "id": "5023618",
-      "time": "2026-08-04 11:52:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本10年國債收益率一度漲5個基點 國債發行需求創2025年5月來最弱】日本10年期國債先前的拍賣結果疲軟，該債券收益率一度上漲5個基點至2.87%。日本國債期貨一度下跌34個點，至126.37。"
-    },
-    {
-      "id": "5023617",
-      "time": "2026-08-04 11:52:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【熊本強震衝擊日本半導體汽車產業 】7月28日發生強震的日本熊本縣內聚集著大量半導體相關企業和汽車工廠。有日本專家指出，強震將給相關產業帶來嚴重衝擊，供應鏈恢復可能需要很長時間。（ CCTV國際時訊   ）"
-    },
-    {
-      "id": "mkt:019fcae6-5802-7aab-8f63-c380d3054dc3",
-      "time": "2026-08-04 11:52:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japan to trial autonomous trucks on non-highway roads】Japan plans commercial trials of autonomous trucks that will run on highways and non-highway roads to enable automated transport between designated logistics hubs. The government will finalise test routes and participating firms in fiscal 2026. Tokyo says testing on non-highway roads requires higher technical capability and is essential for building long-distance logistics networks using autonomous trucks."
-    },
-    {
-      "id": "5023616",
-      "time": "2026-08-04 11:51:55",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗銀行表示，日本除了出售國債外，還有其他應對日元的工具。"
-    },
-    {
-      "id": "mkt:019fcae6-054b-7aab-8f63-be5f3df9134e",
-      "time": "2026-08-04 11:51:39",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "【IDC: China exoskeleton robot market to top 1.6 bln yuan in 2025; shipments ~26,000 units】IDC (International Data Corporation) projects the Chinese exoskeleton robot market will exceed 1.6 bln yuan in 2025, with roughly 26,000 units shipped. The medical rehabilitation segment will hold the largest market value, consumer-assist products will account for more than 70% of unit volumes, and industrial applications are expanding, opening additional growth opportunities."
-    },
-    {
-      "id": "5023615",
-      "time": "2026-08-04 11:50:31",
-      "tags": [
-        "市場",
-        "原創"
-      ],
-      "text": "【8月4日午間漲停分析】創業板指高開高走漲4.83%、科創50漲2.91%，算力硬體、晶片股大漲。傳智教育7連板，一圖看懂>>"
-    },
-    {
-      "id": "5023614",
-      "time": "2026-08-04 11:50:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【IDC：2025年中國外骨骼機器人市場規模超16億元 出貨量約2.6萬臺】國際資料公司（IDC）釋出《中國外骨骼機器人市場份額，2025》研究報告顯示，2025年中國外骨骼機器人市場規模超過16億元，出貨量約2.6萬臺。其中，醫療康復市場仍佔據主要市場價值，消費助力市場則貢獻了七成以上出貨量，行業應用持續拓展新的增長空間。"
-    },
-    {
-      "id": "5023613",
-      "time": "2026-08-04 11:50:30",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【調查顯示泰國7月份消費者物價漲幅或回落】根據接受媒體調查的七位經濟學家的預測中位數，泰國7月份消費者物價漲幅可能同比上升2.3%，略低於6月份2.42%的漲幅。滙豐經濟學家在一份報告中表示，隨著7月份國內平均燃料價格環比回落，通脹可能有所緩解。他們補充說，儘管在中東緊張局勢再次升級之際，近期燃料價格出現激增。CPI資料將於本週公佈。"
     }
   ]
 }
