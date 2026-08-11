@@ -1,7 +1,39 @@
 {
   "date": "2026-08-11",
-  "count": 2676,
+  "count": 2679,
   "items": [
+    {
+      "id": "te:economy:574484",
+      "time": "2026-08-11 23:30:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Zambia",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.81%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 2.00 basis points, and in the last 12 months, it decreased 271.80 basis points."
+    },
+    {
+      "id": "5036196",
+      "time": "2026-08-11 23:29:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱：條件未滿足，霍爾木茲海峽將持續封鎖】一名伊朗官員警告，在伊朗的條件得到滿足之前，霍爾木茲海峽將保持關閉。該官員表示，任何新一輪襲擊或是背棄承諾的行為，都將招致伊朗更為強硬的回擊與抵抗。這名官員補充道，對“侵略者的懲戒”將會持續，並告誡對手切勿重蹈覆轍。"
+    },
+    {
+      "id": "te:economy:574483",
+      "time": "2026-08-11 23:29:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kenya",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Kenya Leaves Interest Rate Unchanged for 3rd Meeting — The Central Bank of Kenya left its benchmark interest rate at 8.75% on August 11th, 2026, a third straight hold, as policymakers stated that the current stance of monetary policy remained appropriate to ensure price and exchange rate stability. Headline inflation rose to 6.5%, driven by higher fuel costs that pushed up transportation and food prices, but remained within the bank’s 5% ±2.5% target range. Meanwhile, economic growth accelerated to 5.3% in the first quarter of 2026, from 4% in the previous quarter. Looking ahead, inflation is expected to remain within the target range in the near term, assuming a de-escalation of the Middle East conflict. However, risks remain elevated as the stop-start US-Iran conflict continues to disrupt global energy and fertilizer markets."
+    },
     {
       "id": "5036195",
       "time": "2026-08-11 23:25:22",
