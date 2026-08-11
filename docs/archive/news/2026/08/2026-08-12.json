@@ -1,7 +1,47 @@
 {
   "date": "2026-08-12",
-  "count": 357,
+  "count": 362,
   "items": [
+    {
+      "id": "mkt:019ff2b4-933c-7aab-8ffb-308e2509ba73",
+      "time": "2026-08-12 05:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Medicaid will no longer fund gender-confirmation surgeries or hormone treatments for minors."
+    },
+    {
+      "id": "5036399",
+      "time": "2026-08-12 05:22:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：醫療補助計劃將不再為未成年人的性別重置手術及激素治療提供資金。"
+    },
+    {
+      "id": "5036398",
+      "time": "2026-08-12 05:22:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 執行長：預計國際市場將成為主要增長驅動力。"
+    },
+    {
+      "id": "5036397",
+      "time": "2026-08-12 05:20:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦CFO：第四季度，企業及渠道客戶在升級計算、儲存與網路基礎設施方面的需求有所回暖。"
+    },
+    {
+      "id": "5036396",
+      "time": "2026-08-12 05:19:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦首席財務官：26 財年有 9 家客戶各自貢獻營收超 10 億美元，而 25 財年僅為 4 家。"
+    },
     {
       "id": "mkt:019ff2b0-fefb-7aab-8ffb-2dfd3f6150d9",
       "time": "2026-08-12 05:18:33",

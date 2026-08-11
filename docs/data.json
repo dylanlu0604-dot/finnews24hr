@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-12 05:19:11",
-  "count": 15541,
+  "updated": "2026-08-12 05:22:59",
+  "count": 15538,
   "items": [
+    {
+      "id": "mkt:019ff2b4-933c-7aab-8ffb-308e2509ba73",
+      "time": "2026-08-12 05:22:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Medicaid will no longer fund gender-confirmation surgeries or hormone treatments for minors."
+    },
+    {
+      "id": "5036399",
+      "time": "2026-08-12 05:22:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：醫療補助計劃將不再為未成年人的性別重置手術及激素治療提供資金。"
+    },
+    {
+      "id": "5036398",
+      "time": "2026-08-12 05:22:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 執行長：預計國際市場將成為主要增長驅動力。"
+    },
+    {
+      "id": "5036397",
+      "time": "2026-08-12 05:20:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦CFO：第四季度，企業及渠道客戶在升級計算、儲存與網路基礎設施方面的需求有所回暖。"
+    },
+    {
+      "id": "5036396",
+      "time": "2026-08-12 05:19:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦首席財務官：26 財年有 9 家客戶各自貢獻營收超 10 億美元，而 25 財年僅為 4 家。"
+    },
     {
       "id": "mkt:019ff2b0-fefb-7aab-8ffb-2dfd3f6150d9",
       "time": "2026-08-12 05:18:33",
@@ -141551,75 +141591,6 @@
         "其他"
       ],
       "text": "AMD預計AI算力市場年增速40%。"
-    },
-    {
-      "id": "5025387",
-      "time": "2026-08-05 05:21:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：SPACEX的ARR到年底“可能會高於”1000億美元。"
-    },
-    {
-      "id": "5025386",
-      "time": "2026-08-05 05:20:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD CEO：公司預計將超過2025年金融分析師日提出的年度每股收益20美元的目標。"
-    },
-    {
-      "id": "5025385",
-      "time": "2026-08-05 05:20:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD執行長：公司預計將超過2025年財務分析師日提出的35%營收增長目標。"
-    },
-    {
-      "id": "5025384",
-      "time": "2026-08-05 05:20:33",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：本月下一次試飛中能否捕獲並回收星艦上級階段，取決於監管部門的批准。"
-    },
-    {
-      "id": "5025383",
-      "time": "2026-08-05 05:20:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD執行長：我們目前的表現明顯領先於去年11月制定的財務模型。"
-    },
-    {
-      "id": "5025382",
-      "time": "2026-08-05 05:20:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "AMD執行長：公司將於2027年推出機架級產品，配備MI500 GPU、Verano CPU、Pensando網路技術，並同時採用銅纜和光纖擴充套件域。"
-    },
-    {
-      "id": "te:economy:572693",
-      "time": "2026-08-05 05:20:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Oil Stocks Increase Despite Draw Forecast — US crude oil inventories rose by 2.69 million barrels in the week ending July 31st, defying expectations for a 2 million-barrel draw. The previous week saw an increase of 3.3 million barrels. Excluding the Strategic Petroleum Reserve (SPR), commercial crude inventories have fallen by more than 58 million barrels over the past 16 weeks and are down 7.2 million barrels year-to-date. The SPR declined by another 2.9 million barrels to 304.8 million, approaching its estimated operational minimum of 250-300 million barrels. Cushing inventories increased by 2.36 million barrels. US crude production eased to 13.796 million bpd from 13.798 million bpd the previous week but remained 482,000 bpd above year-ago levels. Gasoline inventories rose by 156,000 barrels, while distillate stocks fell by 1.2 million barrels."
-    },
-    {
-      "id": "5025381",
-      "time": "2026-08-05 05:19:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD預計長期每股收益將超20美元，有望超出長期營收目標。"
     }
   ]
 }
