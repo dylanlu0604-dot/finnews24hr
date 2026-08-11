@@ -1,7 +1,181 @@
 {
   "date": "2026-08-11",
-  "count": 687,
+  "count": 706,
   "items": [
+    {
+      "id": "te:markets:574240",
+      "time": "2026-08-11 09:51:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Futures Near 2-Month High — Platinum futures rose around $1,780 an ounce, approaching an eight-week high and tracking a broader rally across the precious metals complex. Investment demand for precious metals improved as Chinese institutional investors increased bullion holdings amid heightened market volatility, with gold-backed ETF in China recording their longest streak of inflows in months. Meanwhile, AI and data-center expansion are emerging as potential new sources of future platinum-group metals (PGM) demand. In July, Valterra Platinum said it estimated current AI-related PGM demand at 200,000–400,000 ounces annually and that it could grow fivefold by 2030, citing PGMs' electrical and thermal properties as relevant to AI infrastructure. Still, the World Platinum Investment Council expects platinum markets to remain in deficit over the longer term due to constrained mine output, particularly in South Africa, although higher prices could encourage more recycling and eventually weigh on some demand."
+    },
+    {
+      "id": "5034871",
+      "time": "2026-08-11 09:51:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報4619.00元。"
+    },
+    {
+      "id": "5034870",
+      "time": "2026-08-11 09:51:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億嘉和新設子公司 含AI及機器人業務】企查查APP顯示，近日，遼寧億嘉和科技有限公司成立，經營範圍包含智慧機器人的研發；工業機器人制造；人工智慧硬體銷售；智慧無人飛行器製造等。企查查股權穿透顯示，該公司由億嘉和全資持股。"
+    },
+    {
+      "id": "5034869",
+      "time": "2026-08-11 09:50:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京全市啟動防汛二級應急響應】據“北京應急”，根據市氣象臺預報，8月11日傍晚至13日白天，北京市大部分地區將出現6小時累計雨量100毫米、24小時累計雨量150毫米以上的強降雨，其中通州、大興、房山、門頭溝、經開、懷柔、豐臺等7區，6小時累計雨量可達150毫米以上，24小時累計雨量可達200毫米以上。8月11日9時，市防汛抗旱指揮部啟動全市防汛二級應急響應，全市上下迅速投入防汛應汛相關工作。"
+    },
+    {
+      "id": "5034868",
+      "time": "2026-08-11 09:50:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油氣概念表現活躍 科力股份漲超10%】油氣概念表現活躍，科力股份漲超10%，通源石油、山東墨龍、中海油服、潛能恆信跟漲。"
+    },
+    {
+      "id": "5034867",
+      "time": "2026-08-11 09:50:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊短線拉昇，湖南白銀漲停】貴金屬板塊短線拉昇，湖南白銀漲停，招金黃金、四川黃金、山金國際、湖南黃金、興業銀錫等紛紛走高。"
+    },
+    {
+      "id": "5034866",
+      "time": "2026-08-11 09:50:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【發電裝置板塊走弱 金風科技跌超7%】發電裝置板塊走弱，金風科技跌超7%，海力風電、泰勝風能等跌幅靠前。"
+    },
+    {
+      "id": "mkt:019fee83-09e2-7aab-8fe4-5c02f7ff7a97",
+      "time": "2026-08-11 09:49:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up 1.00% intraday at $66.39/oz."
+    },
+    {
+      "id": "mkt:019fee82-ad00-7aab-8fe4-570b169fbb57",
+      "time": "2026-08-11 09:49:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "SHFE main silver contract up 4.00% intraday, trading at 16,214.00 yuan/kg."
+    },
+    {
+      "id": "5034865",
+      "time": "2026-08-11 09:49:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電網裝置板塊震盪下挫 京泉華跌停】早盤電網裝置板塊震盪下挫，京泉華跌停，北京科銳、中能電氣、信通電子、華菱線纜均跌超5%。"
+    },
+    {
+      "id": "mkt:019fee82-a3b4-7aab-8fe4-486a9ef34a00",
+      "time": "2026-08-11 09:49:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai gold main contract intraday gain widened to 2.00%, trading at 963.04 yuan/gram."
+    },
+    {
+      "id": "5034864",
+      "time": "2026-08-11 09:49:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報66.40美元/盎司。"
+    },
+    {
+      "id": "5034863",
+      "time": "2026-08-11 09:49:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【航天軍工板塊震盪下行 中國衛星跌超7%】航天軍工板塊震盪下行，中國衛星跌超7%，捷強裝備、航天環宇、電科藍天等下跌。"
+    },
+    {
+      "id": "mkt:019fee82-70c3-7aab-8fe4-423c9f190ec4",
+      "time": "2026-08-11 09:49:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures rose more than 1.0% intraday to $66.54/oz."
+    },
+    {
+      "id": "5034862",
+      "time": "2026-08-11 09:49:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報16214.00元。"
+    },
+    {
+      "id": "5034861",
+      "time": "2026-08-11 09:49:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股“三桶油”集體走強，中國海洋石油漲超4%，中國石油股份漲超3%，中國石油化工股份漲超1%。"
+    },
+    {
+      "id": "5034860",
+      "time": "2026-08-11 09:49:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報66.59美元/盎司。"
+    },
+    {
+      "id": "mkt:019fee81-6de4-7aab-8fe4-3adcec5fc0d3",
+      "time": "2026-08-11 09:48:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Tianjin port leads China in chrome and manganese ore imports in Jan–Jul】Jan–Jul Tianjin port supervised imports of metallic ores and concentrates totalled 75.9508 mln t, up 6.44% YoY. Chrome and manganese ore import volumes via Tianjin ranked first nationwide."
+    },
+    {
+      "id": "5034859",
+      "time": "2026-08-11 09:48:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍湖完成“21龍湖06”本息兌付 合計約10.29億元】記者獲悉，龍湖集團於8月11日完成“21龍湖06”的本金兌付與付息，涉及總金額約10.29億元，包含本金9.92億元及利息0.37億元。公開資料顯示，“21龍湖06”起息日為2021年8月11日，發行期限為5+2年，發行規模為10億元，票面利率為3.7%。在本次兌付“21龍湖06”後，龍湖集團2026年內到期的信用債已全部償清，境內信用債僅餘2027年到期的8億元。 (財聯社)"
+    },
     {
       "id": "mkt:019fee81-3e78-7aab-8fe4-37814a3e21ba",
       "time": "2026-08-11 09:47:55",
