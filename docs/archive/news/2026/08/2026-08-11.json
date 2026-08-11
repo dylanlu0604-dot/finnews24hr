@@ -1,7 +1,221 @@
 {
   "date": "2026-08-11",
-  "count": 1202,
+  "count": 1223,
   "items": [
+    {
+      "id": "5035186",
+      "time": "2026-08-11 14:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月11日：“農產品批發價格200指數”比昨天上升0.09個點】據農業農村部監測，8月11日“農產品批發價格200指數”為114.27，比昨天上升0.09個點，“菜籃子”產品批發價格指數為114.55，比昨天上升0.10個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.73元/公斤，比昨天上升0.2%；牛肉67.45元/公斤，比昨天上升0.5%；羊肉64.74元/公斤，比昨天上升0.1%；雞蛋9.94元/公斤，比昨天下降0.1%；白條雞17.18元/公斤，比昨天上升0.6%。重點監測的28種蔬菜平均價格為4.48元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.85元/公斤，比昨天下降0.3%。鯽魚20.29元/公斤，比昨天上升0.2%；鯉魚14.33元/公斤，比昨天上升0.5%；白鰱魚10.45元/公斤，比昨天上升0.3%；大帶魚41.58元/公斤，比昨天下降1.4%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是西瓜、黃瓜、生菜、蔥頭和茄子，幅度分別為3.8%、2.6%、1.7%、1.5%和1.5%；價格降幅前五名的是巨峰葡萄、萵筍、大帶魚、大黃花魚和蓮藕，幅度分別為2.7%、1.5%、1.4%、1.0%和0.7%。"
+    },
+    {
+      "id": "mkt:019fef87-1674-7aab-8fe9-c589437f63ce",
+      "time": "2026-08-11 14:33:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Chinese oil futures led gains: low-sulfur fuel oil (LU) surged over 6% to 4,852.00 yuan/ton; fuel oil rose about 6%; Shanghai crude (SC) climbed more than 5% to 560.6 yuan/bbl."
+    },
+    {
+      "id": "mkt:019fef86-8189-7aab-8fe9-bebad34fb721",
+      "time": "2026-08-11 14:33:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Inflation risk persists; outgoing Bank of Korea senior deputy signals further rate hikes】Outgoing Bank of Korea senior deputy governor said strong growth feeding into potential inflation may require further rate increases, while won strength and recent equity moves give policymakers some policy flexibility. He said KOSPI’s recent drop and a stabilising won offer MPC members limited room for maneuver, but are not decisive. Policymakers will focus on whether core inflation remains elevated, whether growth can be sustained, and on financial-stability risks. Headline CPI fell to 2.8% last month but remains above the Bank of Korea’s target; core CPI rose to 2.6%. Some economists still expect another rate hike this month after a July increase."
+    },
+    {
+      "id": "mkt:019fef86-7a13-7aab-8fe9-b617dcb3a1ee",
+      "time": "2026-08-11 14:33:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up 1.00% intraday at $82.29/bbl."
+    },
+    {
+      "id": "5035185",
+      "time": "2026-08-11 14:33:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內持平。"
+    },
+    {
+      "id": "5035184",
+      "time": "2026-08-11 14:32:58",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【通脹風險揮之不去 韓國央行副行長暗示可能進一步加息】韓國央行即將卸任的高階副行長Ryoo Sangdai稱，隨著經濟強勁增長推高潛在通脹率，央行可能需要進一步提高利率。不過他同時指出，韓元走強以及近期股市走勢為決策者在制定政策時提供了一定靈活性。週二他在新聞釋出會上對記者表示，韓元近期企穩，加上韓國基準股指Kospi下跌，“給了貨幣政策委員會成員一些迴旋餘地，但我認為這並非關鍵因素。”“未來核心通脹是否會繼續保持在高位、經濟能否維持增長勢頭以及金融穩定問題才是重頭。”"
+    },
+    {
+      "id": "5035183",
+      "time": "2026-08-11 14:32:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報88.60美元/桶。"
+    },
+    {
+      "id": "mkt:019fef85-efa2-7aab-8fe9-ac14866398c5",
+      "time": "2026-08-11 14:32:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell more than 2.00% intraday to $64.56/oz."
+    },
+    {
+      "id": "mkt:019fef85-db59-7aab-8fe9-a32c798a2c0d",
+      "time": "2026-08-11 14:32:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $82/bbl, up 0.69% intraday."
+    },
+    {
+      "id": "mkt:019fef85-c1b9-7aab-8fe9-9dba7e0dc49c",
+      "time": "2026-08-11 14:32:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI closed up 45.87 points (+0.73%) at 6,345.53 on Aug. 11 (Tuesday). Samsung Electronics rose over 4%; SK Hynix gained 0.35%."
+    },
+    {
+      "id": "5035182",
+      "time": "2026-08-11 14:32:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內漲1.08%。"
+    },
+    {
+      "id": "te:markets:574314",
+      "time": "2026-08-11 14:32:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Erases Losses, Ends Near 4-Week High — The TAIEX, Taiwan’s benchmark stock index, rose 192 points, or 0.4%, to close at 45,121 on Tuesday, reversing morning weakness and extending gains from the previous session, mainly buoyed by electronic technology and producer manufacturing. The broader index lingered at its highest level since July 16, with electronic technology stocks continuing to climb, advancing 0.5% following a 2.1% rise in the previous session. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 0.6% after a 0.4% gain on Monday. MediaTek increased 1.5%, while Yageo Corp., the world's third-largest multilayer ceramic capacitor (MLCC) maker, surged 6.6%. However, a downbeat session on Wall Street overnight limited gains, as rising oil prices raised questions about the Fed's monetary policy decision at its upcoming meeting. Traders also awaited the release of US inflation data due this week for further clues about the Fed's monetary policy decision."
+    },
+    {
+      "id": "5035181",
+      "time": "2026-08-11 14:31:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報82.96美元/桶。"
+    },
+    {
+      "id": "5035180",
+      "time": "2026-08-11 14:31:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報3472.00元。"
+    },
+    {
+      "id": "5035179",
+      "time": "2026-08-11 14:31:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報558.80元。"
+    },
+    {
+      "id": "5035178",
+      "time": "2026-08-11 14:31:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日韓股市收盤】韓國KOSPI指數收漲0.73%，報6345.53點。日本股市今日休市。"
+    },
+    {
+      "id": "te:economy:574313",
+      "time": "2026-08-11 14:31:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Sweden 10Y Bond Yield Hits 33-month High — Sweden 10 Year Government Bond Yield increased to 3.04%, the highest since October 2023. Over the past 4 weeks, Sweden 10Y Bond Yield gained 13.80 basis points, and in the last 12 months, it increased 64.50 basis points."
+    },
+    {
+      "id": "mkt:019fef84-c956-7aab-8fe9-91dd66b87cef",
+      "time": "2026-08-11 14:31:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Trump left Turkey on C-32A, not Air Force One, after Iran-linked threat】U.S. reports dated Aug. 10 say President Trump secretly departed Turkey in early July aboard a C-32A — a Boeing 757 VIP transport — instead of the presidential Air Force One after receiving a credible, Iran-linked assassination threat. Photographers on July 8 recorded Trump boarding the old Air Force One in Ankara but he switched minutes later to the C-32A. The White House had earlier said he flew on the old Air Force One to RAF Mildenhall and then transferred to the new Air Force One for the return. Defense Secretary Hegseth separately boarded the C-32A to preserve appearances and flew with Trump to the U.K. An unnamed U.S. official said the move followed U.S. intelligence warnings in July of a specific attack threat to Trump and his aircraft, highlighting heightened security concern among U.S. officials."
+    },
+    {
+      "id": "mkt:019fef84-9338-7aab-8fe9-8d163bd6f5a7",
+      "time": "2026-08-11 14:31:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "06181.HK",
+        "02899.HK"
+      ],
+      "text": "Hong Kong's Hang Seng Index extended afternoon losses to about 1%; Laopu Gold (06181.HK) and Zijin Mining (02899.HK) led decliners. Hang Seng Tech Index fell 1.75%."
+    },
+    {
+      "id": "5035177",
+      "time": "2026-08-11 14:31:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OPPO、vivo否認聯合推出口袋雲臺相機】8月11日，針對近期網路上流傳的“OPPO、vivo敲定戰略合作，將聯合推出一款口袋雲臺相機，核心影像技術全部互通共享”的訊息，OPPO與vivo雙雙向南都灣財社記者明確否認了這一傳聞。雙方均表示，目前沒有達成相關聯合研發協議，也沒有共同推出該類產品的計劃。"
+    },
+    {
+      "id": "5035176",
+      "time": "2026-08-11 14:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25677.459點；恒生科技指數現跌1.747%。"
+    },
     {
       "id": "te:markets:574312",
       "time": "2026-08-11 14:30:13",
