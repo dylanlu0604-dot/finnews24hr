@@ -1,7 +1,80 @@
 {
   "date": "2026-08-11",
-  "count": 1260,
+  "count": 1268,
   "items": [
+    {
+      "id": "5035204",
+      "time": "2026-08-11 14:50:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體報道：“丹·伊盧茲已向議會提交辭職。”"
+    },
+    {
+      "id": "te:economy:574330",
+      "time": "2026-08-11 14:50:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Korea’s 10-Year Yield Rises on BOK Remarks — South Korea’s 10-year government bond yield rose to around 4.30% in early August, moving back toward its highest level in three years after the central bank signaled that further rate hikes are likely. Bank of Korea Senior Deputy Governor Ryoo Sang-dai said strong economic growth is fueling persistent underlying inflation. He added that the won’s recent recovery and stock moves give policymakers some flexibility, but said the key factors for policy would be core inflation, the durability of economic growth and financial stability. The BOK raised its policy rate by 25 bps to 2.75% in July, its first hike in three and a half years, amid stronger-than-expected growth and persistent price pressures. While headline inflation eased to 2.8% in July, core inflation edged up to 2.6%, remaining above the BOK’s 2% target. Ryoo said an additional hike is likely unless an extraordinary shock occurs, with policymakers expected to assess growth and inflation forecasts ahead of the August 27 meeting."
+    },
+    {
+      "id": "te:economy:574329",
+      "time": "2026-08-11 14:49:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises Above 5% — Australia’s 10-year government bond yield rose above 5%, moving toward multi-week highs after the Reserve Bank kept its cash rate unchanged at 4.35% for a second consecutive meeting, as widely expected. The unanimous decision came as the central bank said the economy was slowing as expected under tighter financial conditions, while keeping the option of another rate hike if upside inflation risks materialize. Markets had also expected rates to remain unchanged after second-quarter inflation came in below forecasts and the housing market weakened more than policymakers had anticipated. The RBA has already raised rates three times this year, as stubborn inflation and higher energy costs continued to weigh on the outlook. Markets now price around a 40% chance of another hike this year, down from 50% before the decision. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday, while Assistant Governor Chris Kent is scheduled on Thursday."
+    },
+    {
+      "id": "5035203",
+      "time": "2026-08-11 14:48:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾汽車在大連投資成立電池新公司】企查查APP顯示，近日，保沃科電池（大連）有限公司成立，經營範圍包含：電池零配件銷售；電池製造；電子專用材料銷售；汽車零部件研發等。企查查股權穿透顯示，該公司由大眾汽車（中國）投資有限公司等共同持股。"
+    },
+    {
+      "id": "5035202",
+      "time": "2026-08-11 14:47:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【皇崗口岸進行通關執行演練】深圳市人民政府口岸辦公室宣佈，2026年8月11日（週二）14時30分至16時40分，深圳市口岸辦將在皇崗口岸新聯檢大樓進行電梯執行壓力測試及旅客通關動線演練。 其間，皇崗口岸聯檢大樓附近將有人員集結，請廣大市民不要恐慌，不要輕易信謠、傳謠和造謠。"
+    },
+    {
+      "id": "mkt:019fef93-67cf-7aab-8fea-75e7e62885e6",
+      "time": "2026-08-11 14:47:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Gan Consulting staged a floor-to-limit-up swing and hit the intraday up-limit, trading at 12.73 yuan with turnover 1.448 bln yuan."
+    },
+    {
+      "id": "mkt:019fef93-513c-7aab-8fea-6a4c2aeb9e1b",
+      "time": "2026-08-11 14:47:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yonhap reports South Korea's Defense Ministry and arms procurement agency have formed a dedicated team for a nuclear-powered submarine program."
+    },
+    {
+      "id": "mkt:019fef92-d7b5-7aab-8fea-67a3707a7957",
+      "time": "2026-08-11 14:46:45",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "Intel (INTC.O) plans to use net proceeds from the offering for general corporate purposes."
+    },
     {
       "id": "mkt:019fef92-b3e0-7aab-8fea-587b4397bb47",
       "time": "2026-08-11 14:46:36",

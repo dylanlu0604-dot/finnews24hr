@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-11 14:47:11",
+  "updated": "2026-08-11 14:51:09",
   "count": 15887,
   "items": [
+    {
+      "id": "5035204",
+      "time": "2026-08-11 14:50:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體報道：“丹·伊盧茲已向議會提交辭職。”"
+    },
+    {
+      "id": "te:economy:574330",
+      "time": "2026-08-11 14:50:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "South Korea’s 10-Year Yield Rises on BOK Remarks — South Korea’s 10-year government bond yield rose to around 4.30% in early August, moving back toward its highest level in three years after the central bank signaled that further rate hikes are likely. Bank of Korea Senior Deputy Governor Ryoo Sang-dai said strong economic growth is fueling persistent underlying inflation. He added that the won’s recent recovery and stock moves give policymakers some flexibility, but said the key factors for policy would be core inflation, the durability of economic growth and financial stability. The BOK raised its policy rate by 25 bps to 2.75% in July, its first hike in three and a half years, amid stronger-than-expected growth and persistent price pressures. While headline inflation eased to 2.8% in July, core inflation edged up to 2.6%, remaining above the BOK’s 2% target. Ryoo said an additional hike is likely unless an extraordinary shock occurs, with policymakers expected to assess growth and inflation forecasts ahead of the August 27 meeting."
+    },
+    {
+      "id": "te:economy:574329",
+      "time": "2026-08-11 14:49:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises Above 5% — Australia’s 10-year government bond yield rose above 5%, moving toward multi-week highs after the Reserve Bank kept its cash rate unchanged at 4.35% for a second consecutive meeting, as widely expected. The unanimous decision came as the central bank said the economy was slowing as expected under tighter financial conditions, while keeping the option of another rate hike if upside inflation risks materialize. Markets had also expected rates to remain unchanged after second-quarter inflation came in below forecasts and the housing market weakened more than policymakers had anticipated. The RBA has already raised rates three times this year, as stubborn inflation and higher energy costs continued to weigh on the outlook. Markets now price around a 40% chance of another hike this year, down from 50% before the decision. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday, while Assistant Governor Chris Kent is scheduled on Thursday."
+    },
+    {
+      "id": "5035203",
+      "time": "2026-08-11 14:48:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大眾汽車在大連投資成立電池新公司】企查查APP顯示，近日，保沃科電池（大連）有限公司成立，經營範圍包含：電池零配件銷售；電池製造；電子專用材料銷售；汽車零部件研發等。企查查股權穿透顯示，該公司由大眾汽車（中國）投資有限公司等共同持股。"
+    },
+    {
+      "id": "5035202",
+      "time": "2026-08-11 14:47:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【皇崗口岸進行通關執行演練】深圳市人民政府口岸辦公室宣佈，2026年8月11日（週二）14時30分至16時40分，深圳市口岸辦將在皇崗口岸新聯檢大樓進行電梯執行壓力測試及旅客通關動線演練。 其間，皇崗口岸聯檢大樓附近將有人員集結，請廣大市民不要恐慌，不要輕易信謠、傳謠和造謠。"
+    },
+    {
+      "id": "mkt:019fef93-67cf-7aab-8fea-75e7e62885e6",
+      "time": "2026-08-11 14:47:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Gan Consulting staged a floor-to-limit-up swing and hit the intraday up-limit, trading at 12.73 yuan with turnover 1.448 bln yuan."
+    },
+    {
+      "id": "mkt:019fef93-513c-7aab-8fea-6a4c2aeb9e1b",
+      "time": "2026-08-11 14:47:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yonhap reports South Korea's Defense Ministry and arms procurement agency have formed a dedicated team for a nuclear-powered submarine program."
+    },
+    {
+      "id": "mkt:019fef92-d7b5-7aab-8fea-67a3707a7957",
+      "time": "2026-08-11 14:46:45",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "Intel (INTC.O) plans to use net proceeds from the offering for general corporate purposes."
+    },
     {
       "id": "mkt:019fef92-b3e0-7aab-8fea-587b4397bb47",
       "time": "2026-08-11 14:46:36",
@@ -144663,74 +144736,6 @@
         "Greater China"
       ],
       "text": "【MOFCOM: Jan–Jun travel services exports +31.1% YoY】MOFCOM service-trade division said China’s services trade totaled 37,797.5 bln yuan (RMB) in Jan–Jun 2026, up 8.3% YoY. Exports were 15,047 bln yuan, up 17.6%; imports 22,750.5 bln yuan, up 2.9%, yielding a services trade deficit of 7,703.5 bln yuan, narrowed by 1,614.2 bln yuan YoY. Among the top-five categories, travel services exports rose fastest, +31.1% to 2,292 bln yuan, while transport services imports led import growth, +30.4% to 4,981 bln yuan."
-    },
-    {
-      "id": "5023855",
-      "time": "2026-08-04 14:51:05",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通認為，投資者對超大規模資料中心支出的擔憂以及對軟體公司股票的厭惡情緒可能會持續存在。小摩策略師們目前更青睞半導體股票。"
-    },
-    {
-      "id": "5023854",
-      "time": "2026-08-04 14:50:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部服貿司負責人介紹2026年1-6月服務貿易發展情況】2026年1-6月，我國服務進出口總額37797.5億元（人民幣，下同），同比增長8.3%。其中，出口15047億元，增長17.6%；進口22750.5億元，增長2.9%。服務貿易逆差7703.5億元，比上年同期縮小1614.2億元。主要呈現以下特點：\n\n知識密集型服務出口佔比超過一半。1-6月，知識密集型服務進出口16634億元，增長6.7%，佔服務進出口總額的44%。知識密集型服務出口8056.7億元，增長12.8%，佔服務出口總額的53.5%，其中，個人文化和娛樂服務、智慧財產權使用費出口增長最快，增速分別為57.2%和44.3%。知識密集型服務進口8577.3億元，增長1.4%。\n\n旅行服務出口和運輸服務進口增長較快。1-6月，旅行服務出口2292億元，增長31.1%，在前五大服務出口領域中增速最快；運輸服務進口4981億元，增長30.4%，在前五大服務進口領域中增速最快。"
-    },
-    {
-      "id": "5023853",
-      "time": "2026-08-04 14:50:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版實時資料，影片《年會不能停！2》票房突破1億。"
-    },
-    {
-      "id": "5023852",
-      "time": "2026-08-04 14:49:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【濰宿高鐵濰坊至日照段最長連續梁合龍】昨天，濰宿高鐵濰河特大橋雙線連續梁順利合龍，為後續架樑和無砟軌道鋪設奠定了堅實基礎。本次合龍的連續梁全長401.7米，是濰宿高鐵濰坊至日照段最長的連續梁，採用雙線佈置，雙主跨達128米。濰宿高鐵專案建成後，將進一步完善山東、江蘇北部區域路網布局，極大便利沿線人民群眾出行。（央視新聞）"
-    },
-    {
-      "id": "5023851",
-      "time": "2026-08-04 14:49:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防減救災委對黑龍江啟動國家四級救災應急響應】8月4日，國家防災減災救災委員會針對黑龍江省近期嚴重洪澇災害，啟動國家四級救災應急響應。應急管理部派出救災工作組赴災區一線實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等災害救助工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fcb88-5db2-7aab-8f66-e88bd83e222b",
-      "time": "2026-08-04 14:48:59",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "【Korean retail investors accelerate exit from equities; trading share hits six-month low】The Korea Exchange (KRX) said on Tuesday retail investors are rapidly exiting the market as sharp volatility erodes sentiment. Retail share of KOSPI turnover fell to about 31.2–31.5% in July from 48.1% in January, a decline of roughly 16–17 percentage points in six months. KRX said even small rebounds now trigger selling as individuals try to reclaim capital, accelerating outflows from the domestic market. Since June retail investors have not been the dominant trading force; foreigners accounted for about 38–39% of KOSPI turnover in July, surpassing retail. Analysts say KOSPI’s heavy concentration in Samsung Electronics and SK Hynix is a key reason retail investors are withdrawing."
-    },
-    {
-      "id": "5023849",
-      "time": "2026-08-04 14:47:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東鵬飲料回應增速下滑】東鵬飲料在8月3日釋出的機構調研紀要中回應了增速下滑的問題。“能量飲料是公司的基本盤，從需求端來看整個賽道增長空間仍然存在，從產品端看各廠商份額提升的關鍵在於產品的多元化。過去公司在口味與人群細分上相對保守，今年我們看到市場上氣泡型多口味能量飲料產品線增長較快，反映出消費者對多元化口味的接受度正在提高，公司也會在這一方向探索更多可能。依託‘核心單品穩固基本盤+高階及細分產品拓展增量’的組合，公司對特飲品類的長期空間與份額提升保持信心。”東鵬飲料如此回應能量飲料增速下滑。對於補水啦增速下滑，東鵬飲料則承認受到價格戰加劇的影響。“今年受天氣等因素影響，行業整體增長有所放緩；與此同時，隨著‘一元樂享’等促銷活動的普及，市場競爭更趨激烈。”該公司稱。（21財經）"
-    },
-    {
-      "id": "5023848",
-      "time": "2026-08-04 14:47:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞新州政府撥款升級悉尼歌劇院】澳大利亞新南威爾士州政府4日宣佈，將投入1.2億澳元（約合5.69億元人民幣），用於升級和維護悉尼歌劇院，以保障這座世界文化遺產建築的長期運營。（新華社）"
     }
   ]
 }
