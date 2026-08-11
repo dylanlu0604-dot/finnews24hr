@@ -1,7 +1,137 @@
 {
   "date": "2026-08-11",
-  "count": 1902,
+  "count": 1917,
   "items": [
+    {
+      "id": "mkt:019ff048-75e5-7aab-8fef-222a343ca417",
+      "time": "2026-08-11 18:05:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US small-business optimism hits highest since Aug 2025; hiring plans drive gain】NFIB small-business optimism index rose 2.4 points to 99.8 in July, the highest reading since Aug 2025. Eight of 10 subcomponents increased, two declined; hiring plans improved most and contributed the most to the index gain. NFIB chief economist Bill Dunkelberg said optimism rose as the share of owners expecting to hire climbed and capex plans strengthened, though uncertainty remains. Looking ahead, 20% of owners plan to add jobs in the next three months, 25% plan capex in the next six months, and 14% view inf as their biggest business problem."
+    },
+    {
+      "id": "5035678",
+      "time": "2026-08-11 18:04:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "VENTURE GLOBAL股價在釋出第二季度財報後盤前下跌12%。"
+    },
+    {
+      "id": "5035677",
+      "time": "2026-08-11 18:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大H&R 房地產投資信託基金將被收購，對價為每單位 12.01 加元。"
+    },
+    {
+      "id": "5035676",
+      "time": "2026-08-11 18:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年海關總署稽核透過智慧財產權海關保護備案1.5萬件】記者從海關總署獲悉，今年上半年，全國海關共查扣侵權嫌疑貨物1.3萬批次、3609萬件，海關總署稽核透過智慧財產權海關保護備案1.5萬件，辦理智慧財產權海關保護總擔保165件。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff047-41e8-7aab-8fef-1fac49363f99",
+      "time": "2026-08-11 18:03:49",
+      "tags": [
+        "MKT News",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) said it will expand its global network infrastructure in the Americas by adding three subsea cable systems: Alisios, Canoa and Olaluz."
+    },
+    {
+      "id": "5035675",
+      "time": "2026-08-11 18:03:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌宣佈將在美洲擴建全球網路基礎設施，部署阿爾西西奧斯（Alisios）、卡諾亞（Canoa）與奧拉圖茲（Olaluz）三套全新海底光纜系統。"
+    },
+    {
+      "id": "5035674",
+      "time": "2026-08-11 18:03:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【義翹神州：股票交易異常波動 不存在應披露未披露事項】義翹神州公告稱，公司股票於2026年8月7日、8月10日、8月11日連續三個交易日收盤價格漲幅偏離值累計超30%，屬異常波動。經核實，公司前期披露資訊無更正補充，未發現公共傳媒報道未公開重大資訊，經營及內外部環境無重大變化，控股股東、實控人無應披露未披露重大事項，期間無買賣公司股票情形，無違反公平資訊披露規定。公司已預約8月26日披露半年報。"
+    },
+    {
+      "id": "te:economy:574412",
+      "time": "2026-08-11 18:03:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 26-month High — Canada 10 Year Government Bond Yield increased to 3.75%, the highest since May 2024. Over the past 4 weeks, Canada 10Y Bond Yield gained 15.60 basis points, and in the last 12 months, it increased 32.50 basis points."
+    },
+    {
+      "id": "5035673",
+      "time": "2026-08-11 18:02:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩人內幕交易被罰近1480萬】監管部門持續加大對內幕交易違法行為的打擊與曝光力度。 近日，證監會公佈了兩份行政處罰決定書，對兩起內幕交易案件開出罰單。兩名當事人均因涉嫌內幕交易被查，最終各被處以“沒一罰三”，合計罰沒金額近1480萬元。 第一財經注意到，其中一名當事人公茂江，與原平安銀行上海分行、上海自貿試驗區分行行長公茂江同名，第一財經透過簡訊聯絡後者，並未獲得回覆，電話亦無人接聽。（第一財經）"
+    },
+    {
+      "id": "mkt:019ff045-9dcf-7aab-8fef-134a1b0762d5",
+      "time": "2026-08-11 18:02:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nationz Technologies to raise prices on certain products 10%-20% from Oct 1, 2026】Nationz Technologies said it will raise prices on certain products by 10%–20% effective Oct. 1, 2026, citing AI-driven demand, global supply-chain restructuring and higher semiconductor costs and lead times. The company said MCU products face structural pressure from stronger demand versus constrained supply, prompting the adjustment."
+    },
+    {
+      "id": "5035672",
+      "time": "2026-08-11 18:01:14",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數收盤下跌0.46%。"
+    },
+    {
+      "id": "5035671",
+      "time": "2026-08-11 18:01:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元收跌0.14%，報1美元兌95.4350盧比；前一交易日收盤價為95.30。"
+    },
+    {
+      "id": "5035670",
+      "time": "2026-08-11 18:00:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中央氣象臺8月11日10時繼續釋出暴雨橙色預警】預計，8月11日14時至12日14時，浙江東部、上海、江蘇西部和南部、安徽中北部、河南、湖北中西部、湖南北部、山東西部、河北西部和中南部、北京、天津、山西北部和東南部及內蒙古中部、黑龍江西部、雲南西部等地部分地區有大到暴雨，其中，山東西南部、河南中東部和南部、安徽北部、江蘇中北部、湖北西北部等地部分地區有大暴雨，山東西南部、河南中東部等地部分地區有特大暴雨(250-350毫米)。上述部分地區伴有短時強降水（最大小時降雨量20～50毫米，局地可超過80毫米），局地有雷暴大風或冰雹等強對流天氣。"
+    },
+    {
+      "id": "5035669",
+      "time": "2026-08-11 18:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月11日18時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608113837988931",
+      "time": "2026-08-11 18:00:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月NFIB小型企業信心指數為99.8，前值97.4。"
+    },
     {
       "id": "mkt:019ff043-e76a-7aab-8fef-0a691c73263d",
       "time": "2026-08-11 18:00:09",
