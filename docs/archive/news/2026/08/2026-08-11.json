@@ -1,7 +1,73 @@
 {
   "date": "2026-08-11",
-  "count": 862,
+  "count": 869,
   "items": [
+    {
+      "id": "mkt:019feee7-713a-7aab-8fe5-d2a6d4acaf10",
+      "time": "2026-08-11 11:39:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics shares rose 5%."
+    },
+    {
+      "id": "5034976",
+      "time": "2026-08-11 11:39:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅果短劇：7月累計攔截下架12347部AI劇】8月11日，紅果短劇釋出關於打擊違規AI劇的公告：2026年7月，AI劇方面累計攔截下架12347部違反平臺治理規範的作品，主要為稽核階段攔截並未上線播放，部分為回查下架。此外，7月平臺攔截並處置存在兒童負面情節的AI劇82部。"
+    },
+    {
+      "id": "5034975",
+      "time": "2026-08-11 11:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼7月份國內汽車銷量為81101輛。"
+    },
+    {
+      "id": "mkt:019feee6-71db-7aab-8fe5-cfb1e2aa607d",
+      "time": "2026-08-11 11:38:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China activates Level-4 flood emergency for Beijing, Tianjin】National Flood Control Headquarters and the Ministry of Emergency Management activated a Level-4 flood-control emergency response for Beijing and Tianjin at 09:00 on Aug 11 under the national flood-control and drought-relief emergency plan. The Central Meteorological Observatory at 06:00 on Aug 11 issued/continued an orange rainstorm warning and said Typhoon White Dolphin combined with an incoming cold air mass will bring heavy to very heavy rain to south-central Beijing, Tianjin and nearby areas over the next three days."
+    },
+    {
+      "id": "5034974",
+      "time": "2026-08-11 11:38:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲5%。"
+    },
+    {
+      "id": "5034973",
+      "time": "2026-08-11 11:37:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防總、應急管理部針對北京、天津啟動防汛四級應急響應】據氣象部門預報，未來三天，受颱風“白海豚”和冷空氣共同影響，北京中南部、天津等地有暴雨或大暴雨。中央氣象臺8月11日6時繼續釋出暴雨橙色預警。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月11日9時針對北京、天津啟動防汛四級應急響應。"
+    },
+    {
+      "id": "mkt:019feee5-3f42-7aab-8fe5-c6ad27d3607d",
+      "time": "2026-08-11 11:37:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "【A-shares midday: indices rebound; MLCC leads gains】A-shares opened lower then rallied into the morning; the ChiNext briefly reclaimed 3,600 points. At noon the Shanghai Composite was down 0.05%, the Shenzhen Composite Index up 0.65% and the ChiNext up 1.41%. Combined turnover exceeded 1.5 trillion yuan and more than 2,000 stocks advanced. MLCC stocks led gains, innovative-drug names were active with Baihua Pharmaceutical posting a sixth consecutive limit-up, compute-power leasing spiked intraday, commercial aerospace lagged, while baijiu and non-ferrous metals retraced."
+    },
     {
       "id": "5034972",
       "time": "2026-08-11 11:31:53",
