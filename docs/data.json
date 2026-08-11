@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-12 01:58:44",
-  "count": 15632,
+  "updated": "2026-08-12 02:02:36",
+  "count": 15631,
   "items": [
+    {
+      "id": "te:markets:574498",
+      "time": "2026-08-12 02:01:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Banco BTG Pactual earnings above expectations at 1.33 BRL — Banco BTG Pactual (BPAC11) released earnings per share at 1.33 BRL, compared to market expectations of 1.25 BRL."
+    },
     {
       "id": "5036309",
       "time": "2026-08-12 01:58:13",
@@ -142378,27 +142390,6 @@
         "國際"
       ],
       "text": "【Chipotle撤下與美國明尼蘇達州沙門氏菌病例相關的墨西哥胡椒】在得知墨西哥胡椒可能與美國明尼蘇達州的一起沙門氏菌疫情有關後，Chipotle Mexican Grill Inc.（墨式烤肉）從明尼蘇達州的多間門店撤下了該產品。在協助明尼蘇達州衛生部門調查此次疫情的過程中，該連鎖餐廳從所有接收過該批次的門店中撤下了疑似受汙染的墨西哥胡椒。此次沙門氏菌疫情的完整範圍和汙染源頭仍不明確。其他州也參與了調查，且有證據表明，在其他墨西哥風味餐廳就餐的顧客同樣出現了患病症狀。受此訊息影響，Chipotle的股價在紐約週二盤中一度下跌8.5%，創2025年10月30日以來的最大盤中跌幅。"
-    },
-    {
-      "id": "5025214",
-      "time": "2026-08-05 01:59:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "明尼蘇達州衛生部門：正在調查與墨西哥風味快餐門店相關的賈維亞沙門氏菌疫情，懷疑傳染源為墨西哥辣椒（哈拉佩諾辣椒）。已確認本起疫情在該州造成 110 例賈維亞沙門氏菌感染病例。 即便部分感染病例發病於數週之前，預計賈維亞沙門氏菌的確診數量仍會繼續上升。"
-    },
-    {
-      "id": "mkt:019fcdee-4210-7aab-8f75-7ebe2ccaa924",
-      "time": "2026-08-05 01:59:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【OPEC output rises in July as three Gulf producers supply almost all the gain】Bloomberg survey: OPEC crude production rose 1.16 mln b/d in July to an average 19.44 mln b/d, with Kuwait, Saudi Arabia and Iraq accounting for almost all of the increase. Iraq led the gain, up 460k b/d to 2.30 mln b/d; tanker-tracking data show Iraqi loadings rose 37% in July. Kuwait added 360k b/d to 1.57 mln b/d, with officials saying output is at its highest average since the conflict began. Saudi production increased 390k b/d to 7.40 mln b/d but remains several million barrels below pre-conflict levels, and Saudi export flows via Red Sea alternative routes have fallen amid Houthi threats to tankers."
     }
   ]
 }

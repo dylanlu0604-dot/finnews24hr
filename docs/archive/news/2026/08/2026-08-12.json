@@ -1,7 +1,19 @@
 {
   "date": "2026-08-12",
-  "count": 179,
+  "count": 180,
   "items": [
+    {
+      "id": "te:markets:574498",
+      "time": "2026-08-12 02:01:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Banco BTG Pactual earnings above expectations at 1.33 BRL — Banco BTG Pactual (BPAC11) released earnings per share at 1.33 BRL, compared to market expectations of 1.25 BRL."
+    },
     {
       "id": "5036309",
       "time": "2026-08-12 01:58:13",
