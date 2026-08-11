@@ -1,7 +1,40 @@
 {
   "date": "2026-08-11",
-  "count": 2110,
+  "count": 2114,
   "items": [
+    {
+      "id": "mkt:019ff089-4a95-7aab-8ff0-87e1187ae1d9",
+      "time": "2026-08-11 19:15:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Security sources said a camp of Iranian Kurdish opposition forces northeast of Erbil, Iraq, was struck by rockets; no casualties reported."
+    },
+    {
+      "id": "5035822",
+      "time": "2026-08-11 19:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "VinFast進一步擴大在印度尼西亞的授權服務網點網路，提升售後體驗。"
+    },
+    {
+      "id": "5035821",
+      "time": "2026-08-11 19:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "火箭彈襲擊擊中伊拉克埃爾比勒東北部的伊朗庫爾德反對派營地，訊息人士稱暫無人員傷亡報告。"
+    },
+    {
+      "id": "5035820",
+      "time": "2026-08-11 19:13:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布蘭特原油與美國原油期貨轉跌，稍早一度上漲逾2%，此前卡達外交部發言人稱阿曼與伊朗的談判已進入後期階段。"
+    },
     {
       "id": "mkt:019ff086-5d9b-7aab-8ff0-7d7c10ec74a4",
       "time": "2026-08-11 19:12:45",
