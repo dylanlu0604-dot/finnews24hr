@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-11 12:55:48",
-  "count": 15889,
+  "updated": "2026-08-11 12:59:39",
+  "count": 15886,
   "items": [
+    {
+      "id": "5035063",
+      "time": "2026-08-11 12:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北襄陽35座水庫超汛限 9705人轉移避險】記者今天從襄陽市水利部門獲悉，自8月10日20時起，襄陽市自東向西逐漸出現降雨，東部中到大雨、區域性暴雨，平均降雨15.5毫米，最大降雨為棗陽市白竹園寺站82.7毫米。截至11日上午9時，襄陽市江河水位水勢較為平穩，有35座水庫超汛限，已累計轉移避險9705人。"
+    },
+    {
+      "id": "mkt:019fef2c-ea01-7aab-8fe7-6810bbf677d0",
+      "time": "2026-08-11 12:55:25",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bearish",
+        "006400.KS",
+        "Impact bullish"
+      ],
+      "text": "【Sources: GM to sell 50% stake in Indiana battery JV to Samsung SDI】Foreign media report GM will sell its 50% stake in a planned Indiana EV battery joint venture to partner Samsung SDI. Samsung SDI will acquire the 680-acre site, take control of the JV and own the planned battery plant in New Carlisle, Indiana. GM's exit from battery manufacturing is its latest strategic shift after EV demand fell short of expectations. People familiar say it is unclear how Samsung SDI will operate or dispose of the plant."
+    },
     {
       "id": "5035062",
       "time": "2026-08-11 12:52:25",
@@ -144616,46 +144636,6 @@
         "AI Revolution"
       ],
       "text": "【Kioxia launches GP1 SSD series targeting AI storage market】Kioxia has launched the KIOXIA GP1 SSD series, its first drives to support GPU direct access to high‑speed flash, claiming up to 100M IOPS random read. The GP1 is positioned for emerging AI storage architectures that bring high‑speed flash into GPU memory systems, allowing GPUs to access larger datasets at far lower cost than adding HBM and improving GPU utilization."
-    },
-    {
-      "id": "5023671",
-      "time": "2026-08-04 12:59:07",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將紐約梅隆銀行目標價從149美元上調至159美元。"
-    },
-    {
-      "id": "5023670",
-      "time": "2026-08-04 12:58:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯於8月3日晚間襲擊了4艘乾貨船。"
-    },
-    {
-      "id": "5023669",
-      "time": "2026-08-04 12:58:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "塔斯社：俄羅斯對烏克蘭黑海港口發動了襲擊。"
-    },
-    {
-      "id": "5023668",
-      "time": "2026-08-04 12:55:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯線上零售商Wildberries稱，其位於俄羅斯列寧格勒州的倉庫起火，人員已疏散。"
-    },
-    {
-      "id": "mkt:019fcb20-c943-7aab-8f64-1f80a0020049",
-      "time": "2026-08-04 12:55:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wildberries said a warehouse in Russia's Leningrad region caught fire and personnel were evacuated."
     }
   ]
 }
