@@ -1,7 +1,58 @@
 {
   "date": "2026-08-11",
-  "count": 1268,
+  "count": 1274,
   "items": [
+    {
+      "id": "mkt:019fef9a-0e90-7aab-8fea-7b7c4f5e82d3",
+      "time": "2026-08-11 14:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Libya may halt Zawiya refinery after repeated drone attacks】Libya's National Oil Corporation said on the 11th it may declare force majeure and fully suspend operations at the Zawiya refinery if drone attacks on the western Zawiya oil complex continue. The latest strike hit a blending and filling plant run by Zawiya Refining Company, with a drone crashing near a major storage tank and pipeline network; NOC reported no casualties or damage so far. NOC said this was the third drone attack on Zawiya facilities on the 9th–10th; an earlier strike ignited a storage tank that collapsed. Attacks have targeted the Zawiya oil complex, the refinery and a desalination plant. Zawiya refinery, about 40 km west of Tripoli, has processing capacity of roughly 120,000 bpd."
+    },
+    {
+      "id": "5035209",
+      "time": "2026-08-11 14:54:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲6%，現報3504.00元。"
+    },
+    {
+      "id": "5035208",
+      "time": "2026-08-11 14:53:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內漲4%，現報7415.00元。"
+    },
+    {
+      "id": "5035207",
+      "time": "2026-08-11 14:52:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【持續遭無人機襲擊 利比亞或關閉一煉油廠】利比亞國家石油公司11日說，如果針對西部城市扎維亞石油設施的無人機襲擊持續，該公司可能宣佈遭遇“不可抗力”並全面停止扎維亞煉油廠運營。當地石油設施近日連續遭遇無人機襲擊。利比亞國家石油公司說，最新一次無人機襲擊針對扎維亞煉油公司運營的一座油調和及灌裝廠，無人機墜落在一個主要儲油罐和一片輸油管網附近。目前暫無人員傷亡或財產損失報告。國家石油公司說，這是扎維亞石油設施9日至10日遭遇的第三起無人機襲擊。（央視新聞）"
+    },
+    {
+      "id": "5035206",
+      "time": "2026-08-11 14:52:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國AI企業建私有發電廠恐加劇碳排放】美國科技企業在人工智慧(AI)浪潮中爭相建造資料中心，併為此打造私有燃氣發電廠，此舉恐將導致碳排放量及汙染物大幅增加。有訊息11日稱，美國清景公司研究表示，美國多家AI企業今後數年計劃建造約60家資料中心，其所需發電總裝機容量預計在2030年代初達到97吉瓦，約相當於墨西哥的總裝機容量。據悉，為滿足用電需求，美國AI企業大多傾向“汙染更嚴重的選項”，包括拖車式發電機、原為飛機和軍艦設計的渦輪機、汽車活塞發動機以及工業用翻新渦輪機。上述措施可能給氣候帶來巨大影響。即便按保守估計，與資料中心相關的發電廠每年將排放逾2億噸二氧化碳，相當於超過4600萬輛燃油車的年度碳排放量。除了溫室氣體，上述私有發電廠還可能排放與多種心肺疾病相關的細顆粒物、能加重呼吸道疾病的氮氧化物，以及汞、甲醛和苯等有毒物質。（央視新聞）"
+    },
+    {
+      "id": "5035205",
+      "time": "2026-08-11 14:52:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻合科技在安徽成立半導體新公司】企查查APP顯示，近日，鴻合半導體（安徽）有限責任公司成立，經營範圍包含：半導體分立器件製造；半導體分立器件銷售；半導體器件專用裝置製造；半導體器件專用裝置銷售等。企查查股權穿透顯示，該公司由鴻合科技全資持股。"
+    },
     {
       "id": "5035204",
       "time": "2026-08-11 14:50:31",
