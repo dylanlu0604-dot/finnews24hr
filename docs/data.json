@@ -1,7 +1,94 @@
 {
-  "updated": "2026-08-11 20:50:31",
-  "count": 15648,
+  "updated": "2026-08-11 20:54:50",
+  "count": 15638,
   "items": [
+    {
+      "id": "mkt:019ff0e2-d95a-7aab-8ff2-6d1fe2e74644",
+      "time": "2026-08-11 20:53:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME spot copper is trading at a near-$200/tonne premium to the three-month forward, the largest premium in almost 10 months, underscoring acute tightness in physical supply."
+    },
+    {
+      "id": "5035987",
+      "time": "2026-08-11 20:53:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國航將新開北京至羅馬尼亞、克羅埃西亞航線】據國航訊息，國航將於9月4日起新開北京至羅馬尼亞首都布加勒斯特、克羅埃西亞首都薩格勒布航線。"
+    },
+    {
+      "id": "te:markets:574442",
+      "time": "2026-08-11 20:53:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Steady as Oil Stabilizes — Futures tracking Canadian stocks were little changed on Tuesday after a record in the previous session, as energy prices held off from rebounding further. Oil prices traded near flat after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Risks of a hawkish BoC remained after the strong domestic labor data released last week. Meanwhile, Franco Nevada took the spotlight among the miners ahead of its earnings after the bell, while markets continued to digest Barrick's earnings report yesterday."
+    },
+    {
+      "id": "5035986",
+      "time": "2026-08-11 20:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月11日，全球基金淨買入25.9億印度盧比的印度股票。國內基金淨買入2.477億印度盧比的印度股票。"
+    },
+    {
+      "id": "mkt:019ff0e1-45e6-7aab-8ff2-606830d88126",
+      "time": "2026-08-11 20:52:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "Microsoft",
+        "Palantir",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AAPL.O",
+        "MSFT.O"
+      ],
+      "text": "【Swiss National Bank U.S. equity holdings hit record; Nvidia, Apple, Microsoft top three】A 13F-HR filed with the U.S. SEC on Tuesday showed Swiss National Bank U.S. equity holdings in its FX reserves rose more than 10% in Q2 to a record. As of June 30 the SNB held positions in over 2,300 U.S.-listed firms valued at $191.4bn. Equities make up slightly more than a quarter of its FX reserves, with part allocated to U.S. stocks; the top three holdings are Nvidia, Apple and Microsoft. The SNB also holds a $716.6m stake in defense-software firm Palantir and rejected activist demands to sell roughly $1.1bn of Palantir stock."
+    },
+    {
+      "id": "mkt:019ff0e0-abf7-7aab-8ff2-58d551d8bcdd",
+      "time": "2026-08-11 20:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Oman and Bahrain leaders held consultations on matters of mutual concern."
+    },
+    {
+      "id": "mkt:019ff0df-ec5c-7aab-8ff2-5671be296211",
+      "time": "2026-08-11 20:50:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "As of June 30 the Swiss National Bank held stakes in more than 2,300 U.S.-listed companies worth US$191.4 billion."
+    },
+    {
+      "id": "5035984",
+      "time": "2026-08-11 20:50:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "EXPO ENGINEERING AND PROJECTS：從印度石油公司獲得價值1.851億盧比的工程訂單。"
+    },
     {
       "id": "5035983",
       "time": "2026-08-11 20:48:36",
@@ -142323,166 +142410,6 @@
         "國際"
       ],
       "text": "歐盟移民事務負責人：將休達的虛假資訊與俄羅斯聯絡起來為時過早。"
-    },
-    {
-      "id": "5024853",
-      "time": "2026-08-04 20:54:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勝利精密：子公司安徽飛拓增資擴股 引入新股東金玖新研】勝利精密公告稱，為推動子公司安徽飛拓發展，其引入金玖新研增資2000萬元，其中200萬元增加註冊資本，1800萬元計入資本公積，公司放棄優先認購權。增資完成後，安徽飛拓註冊資本由2億元增至2.02億元，公司持股99.0099%，金玖新研持股0.9901%，合併報表範圍不變。8月4日，安徽飛拓已收到金玖新研首筆增資款900萬元。"
-    },
-    {
-      "id": "5024852",
-      "time": "2026-08-04 20:54:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST嶺南：因財務指標虛假記載被疊加實施其他風險警示】*ST嶺南公告稱，公司及相關當事人收到廣東證監局《行政處罰事先告知書》，指出公司披露的年度報告財務指標存在虛假記載。根據規定，公司股票自2026年6月3日起被深圳證券交易所疊加實施其他風險警示。公司董事會已組織核查，將盡快追溯重述財務資訊。本次行政處罰最終結果以決定書為準，提醒投資者關注公告，注意風險。"
-    },
-    {
-      "id": "5024851",
-      "time": "2026-08-04 20:54:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST嶺南：連續12個月新增涉訴金額1.47億元】*ST嶺南公告稱，截至2026年8月4日，公司及控股子公司連續十二個月內新增未披露訴訟、仲裁事項涉案金額合計約1.47億元，佔最近一期經審計歸屬於母公司淨資產絕對值的10.87%。公司及控股子公司均作為被告、第三人涉訴，無單項涉案金額超1000萬元且佔比超10%的重大事項。部分案件未開庭或判決未生效，對利潤影響不確定，公司將依規處理並披露。"
-    },
-    {
-      "id": "5024850",
-      "time": "2026-08-04 20:54:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金士頓科技全球副總裁暨中國區總裁白逸霖率團隊到訪軟通華方】8月4日，金士頓科技全球副總裁暨中國區總裁白逸霖率核心團隊到訪軟通華方，與軟通動力執行副總裁、計算產品與智慧電子業務總裁韓智敏及相關業務負責人舉行深度商務會晤，雙方就儲存產品OEM合作展開全面洽談並達成重要共識。"
-    },
-    {
-      "id": "5024849",
-      "time": "2026-08-04 20:53:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "麥當勞受通脹及經營壓力影響，調整門店數量目標。"
-    },
-    {
-      "id": "mkt:019fccd5-d5e1-7aab-8f70-743f7a982e91",
-      "time": "2026-08-04 20:53:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy spoke by phone with NATO Secretary General Rutte."
-    },
-    {
-      "id": "5024848",
-      "time": "2026-08-04 20:52:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "杜邦股價盤前下跌7.6%，此前該公司下調了年度銷售額預期。"
-    },
-    {
-      "id": "5024847",
-      "time": "2026-08-04 20:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國在聯邦公報上釋出徵求意見稿。"
-    },
-    {
-      "id": "mkt:019fccd5-4deb-7aab-8f70-68b4af151496",
-      "time": "2026-08-04 20:52:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US seeks public comment on proposal to expand products subject to metal tariffs, proposing tariffs on welding machines, cranes and other products."
-    },
-    {
-      "id": "5024846",
-      "time": "2026-08-04 20:52:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "英國石油執行長表示，美國陸上及海上油氣業務在盈利性排名中位居首位。"
-    },
-    {
-      "id": "te:markets:572560",
-      "time": "2026-08-04 20:52:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Rise After Holiday — Futures tracking the S&P/TSX Composite Index rose on Tuesday after Monday's Civic Holiday, supported by lower oil prices. Crude prices declined after US President Donald Trump canceled planned strikes on Iran to revive negotiations, easing concerns about inflation and the higher interest rate outlook. Investors also looked ahead to earnings from major energy producers, with Suncor reporting later today and Canadian Natural due on Thursday. Meanwhile, firm gold prices supported mining stocks. Elsewhere, Industrial Alliance is scheduled to release quarterly results today, while Manulife Financial, Nutrien, and Shopify are set to report on Wednesday. On the data front, Canada's merchandise trade surplus widened to C$3.9 billion in June from C$3.7 billion in May."
-    },
-    {
-      "id": "5024845",
-      "time": "2026-08-04 20:52:15",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【大摩：開放權重模型降低AI成本 “傑文斯悖論”或令算力需求持續增長】摩根士丹利在最新報告《開放權重模型與三種未來情景》中指出，開放權重模型並不一定削弱AI算力需求。恰恰相反，更低的使用成本可能加快AI普及，形成典型的“傑文斯悖論”：單次推理變便宜後，企業會把AI用於更多工，最終推高Token、算力、電力和基礎設施的總需求。報告強調開放權重並不等於完全免費，企業仍需承擔GPU、雲服務、運維和安全等成本，實際經濟性取決於應用場景。大摩認為無論模型開放程度如何變化，英偉達等均有望受益。"
-    },
-    {
-      "id": "te:markets:572559",
-      "time": "2026-08-04 20:52:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Eases but Supply Risks Persist — European natural gas prices have eased to below €58/MWh, around 9% lower than the 3-1/2-year high of €63.7/MWh reached on July 24, but they remain nearly 70% above levels seen at the same time last year. Prices continue to be supported by concerns over global LNG supply following the conflict in the Middle East, which disrupted around one-fifth of global LNG flows and hindered Europe's summer stockpiling efforts. EU gas storage is currently only 57% full, the lowest seasonal level since 2009, well below historical averages. While the European Commission remains confident that substantial spare LNG import capacity and a storage target of 80% will be sufficient to meet winter demand, Europe is expected to face intense competition from Asia for available cargoes, keeping upward pressure on prices. Although recent diplomatic signals between the US and Iran have eased oil prices and raised hopes for improved shipping through the Strait of Hormuz, LNG supply risks remain elevated."
-    },
-    {
-      "id": "5024844",
-      "time": "2026-08-04 20:51:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國建議對焊接機、起重機等產品徵收關稅。"
-    },
-    {
-      "id": "mkt:019fccd4-6812-7aab-8f70-654207c11a85",
-      "time": "2026-08-04 20:51:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CIARA-CEC says an Argentine maritime workers' strike is blocking ships from entering or leaving grain ports."
-    },
-    {
-      "id": "mkt:019fccd4-0c2e-7aab-8f70-5d72f912834b",
-      "time": "2026-08-04 20:51:16",
-      "tags": [
-        "MKT News",
-        "MCD.O",
-        "Impact bullish"
-      ],
-      "text": "McDonald's (MCD.N) top executive said the company expects to gradually sell company-owned restaurants, with some disposals already occurring in Q2."
-    },
-    {
-      "id": "5024843",
-      "time": "2026-08-04 20:51:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國就將更多產品納入金屬關稅徵求意見。"
-    },
-    {
-      "id": "5024842",
-      "time": "2026-08-04 20:50:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷出口與加工商會：阿根廷海事工人罷工導致船舶無法進出穀物港口。"
     }
   ]
 }

@@ -1,7 +1,94 @@
 {
   "date": "2026-08-11",
-  "count": 2337,
+  "count": 2345,
   "items": [
+    {
+      "id": "mkt:019ff0e2-d95a-7aab-8ff2-6d1fe2e74644",
+      "time": "2026-08-11 20:53:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME spot copper is trading at a near-$200/tonne premium to the three-month forward, the largest premium in almost 10 months, underscoring acute tightness in physical supply."
+    },
+    {
+      "id": "5035987",
+      "time": "2026-08-11 20:53:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國航將新開北京至羅馬尼亞、克羅埃西亞航線】據國航訊息，國航將於9月4日起新開北京至羅馬尼亞首都布加勒斯特、克羅埃西亞首都薩格勒布航線。"
+    },
+    {
+      "id": "te:markets:574442",
+      "time": "2026-08-11 20:53:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Steady as Oil Stabilizes — Futures tracking Canadian stocks were little changed on Tuesday after a record in the previous session, as energy prices held off from rebounding further. Oil prices traded near flat after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Risks of a hawkish BoC remained after the strong domestic labor data released last week. Meanwhile, Franco Nevada took the spotlight among the miners ahead of its earnings after the bell, while markets continued to digest Barrick's earnings report yesterday."
+    },
+    {
+      "id": "5035986",
+      "time": "2026-08-11 20:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月11日，全球基金淨買入25.9億印度盧比的印度股票。國內基金淨買入2.477億印度盧比的印度股票。"
+    },
+    {
+      "id": "mkt:019ff0e1-45e6-7aab-8ff2-606830d88126",
+      "time": "2026-08-11 20:52:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "Microsoft",
+        "Palantir",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "AAPL.O",
+        "MSFT.O"
+      ],
+      "text": "【Swiss National Bank U.S. equity holdings hit record; Nvidia, Apple, Microsoft top three】A 13F-HR filed with the U.S. SEC on Tuesday showed Swiss National Bank U.S. equity holdings in its FX reserves rose more than 10% in Q2 to a record. As of June 30 the SNB held positions in over 2,300 U.S.-listed firms valued at $191.4bn. Equities make up slightly more than a quarter of its FX reserves, with part allocated to U.S. stocks; the top three holdings are Nvidia, Apple and Microsoft. The SNB also holds a $716.6m stake in defense-software firm Palantir and rejected activist demands to sell roughly $1.1bn of Palantir stock."
+    },
+    {
+      "id": "mkt:019ff0e0-abf7-7aab-8ff2-58d551d8bcdd",
+      "time": "2026-08-11 20:51:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reports Oman and Bahrain leaders held consultations on matters of mutual concern."
+    },
+    {
+      "id": "mkt:019ff0df-ec5c-7aab-8ff2-5671be296211",
+      "time": "2026-08-11 20:50:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "As of June 30 the Swiss National Bank held stakes in more than 2,300 U.S.-listed companies worth US$191.4 billion."
+    },
+    {
+      "id": "5035984",
+      "time": "2026-08-11 20:50:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "EXPO ENGINEERING AND PROJECTS：從印度石油公司獲得價值1.851億盧比的工程訂單。"
+    },
     {
       "id": "5035983",
       "time": "2026-08-11 20:48:36",
