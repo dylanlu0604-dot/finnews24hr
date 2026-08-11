@@ -1,7 +1,128 @@
 {
   "date": "2026-08-11",
-  "count": 665,
+  "count": 678,
   "items": [
+    {
+      "id": "5034853",
+      "time": "2026-08-11 09:43:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智慧駕駛概念異動拉昇 大眾交通直線漲停】智慧駕駛概念異動拉昇，大眾交通直線漲停，北路智控、浙江世寶、錦江線上、萬集科技、索菱股份衝高。"
+    },
+    {
+      "id": "mkt:019fee7c-4c4b-7aab-8fe4-15a9ec12fe04",
+      "time": "2026-08-11 09:42:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose above $87/bbl, up 0.10% on the day."
+    },
+    {
+      "id": "mkt:019fee7c-3f67-7aab-8fe4-0e95dccf4ed2",
+      "time": "2026-08-11 09:42:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share poultry sector briefly rallied; Yisheng hit the daily trading limit, while Minhe, Shengnong Development, Huaying Agriculture, Guanghong Holdings and Jinlongyu also advanced."
+    },
+    {
+      "id": "mkt:019fee7b-e7f7-7aab-8fe4-04d56ce24834",
+      "time": "2026-08-11 09:42:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LandSpace ZhuQue-3 Yao-2 launch delayed】Sources confirm LandSpace's ZhuQue-3 Yao-2 launch, scheduled for the morning of Aug. 11, has been postponed. A prior notice had set temporary airspace restrictions at Jiuquan Satellite Launch Center for Beijing time 07:40–08:27 on Aug. 11, 2026."
+    },
+    {
+      "id": "5034852",
+      "time": "2026-08-11 09:42:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5034851",
+      "time": "2026-08-11 09:42:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲0.35%。"
+    },
+    {
+      "id": "5034849",
+      "time": "2026-08-11 09:41:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界最大沖擊式水電機組順利完成轉子吊裝】今天（11日），世界最大沖擊式水電機組在大唐扎拉水電站順利完成轉子吊裝，標誌著我國超高水頭、大容量衝擊式水電裝備核心技術躋身世界領先行列，有力助推藏東南清潔能源基地建設。大唐扎拉水電站是國家“藏電外送”骨幹工程，裝機兩臺500兆瓦衝擊式機組，為全球同型別單機容量最大裝置。作為我國能源領域首臺（套）重大技術裝備，具有高海拔、高水頭、大容量等技術優勢。本次吊裝的轉子是發電機組實現能量轉換的“動力心臟”。轉子約840噸，相當於560輛家用小轎車的總重。它的成功安裝，標誌著專案已進入投產前的最後衝刺階段。電站全面投產後，每年可發出近40億度清潔綠電，可節約標準煤130萬噸，減少二氧化碳排放342萬噸。"
+    },
+    {
+      "id": "te:markets:574237",
+      "time": "2026-08-11 09:41:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rise on AI Investment Push — The benchmark KOSPI edged higher to around 6,320 on Tuesday, extending gains from the previous session, supported by plans to accelerate AI-related investment. The government plans to enact a special law this year to streamline the implementation of AI investment projects, including a semiconductor cluster backed by combined investment commitments of 800 trillion won from Samsung Electronics and SK hynix. Sentiment was also supported by strong semiconductor exports, which surged 155.4% year-on-year in the first 10 days of August to $9.95 billion amid robust global AI demand. Meanwhile, gains were tempered by overnight weakness in US technology stocks and higher oil prices amid uncertainty over the reopening of the Strait of Hormuz. Large-cap performance was mixed, as Samsung Electronics increased 2.6%, while losses were recorded in SK hynix (-0.9%), SK Square (-1.4%), Hyundai Motor (-0.7%), LG Energy Solution (-0.7%), KB Financial Group (-1.5%), and Hanwha Aerospace (-2.8%)."
+    },
+    {
+      "id": "5034848",
+      "time": "2026-08-11 09:41:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【養雞板塊短線拉昇，益生股份漲停】養雞板塊短線拉昇，益生股份漲停，民和股份、聖農發展、華英農業、廣弘控股、金龍魚等紛紛走高。"
+    },
+    {
+      "id": "5034847",
+      "time": "2026-08-11 09:41:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【藍箭航天朱雀三號遙二運載火箭發射推遲】有知情人士確認，藍箭航天朱雀三號遙二運載火箭原定於8月11日早上的發射推遲。此前根據通告，酒泉衛星發射中心相關空域的臨時管制時段為北京時間2026年8月11日7時40分至8時27分。（第一財經）"
+    },
+    {
+      "id": "mkt:019fee7a-6318-7aab-8fe3-fb4b6b3a8735",
+      "time": "2026-08-11 09:40:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share MLCC sector rallied; Shuangxing New Materials hit the daily limit-up, while Yunzong Technology, Guofeng New Materials, Fenghua Advanced Technology and Dali Kaipu also advanced."
+    },
+    {
+      "id": "mkt:019fee7a-35c4-7aab-8fe3-f5b95a77ea5f",
+      "time": "2026-08-11 09:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share dairy sector rose; Huangshi Group hit a second consecutive daily limit-up. Yiming Foods, Huanlejia, Qishi Dairy, Sunshine Dairy and Xin Dairy also advanced."
+    },
+    {
+      "id": "5034846",
+      "time": "2026-08-11 09:40:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥商業板塊短線拉昇，開開實業漲停】醫藥商業板塊短線拉昇，開開實業漲停，老百姓、一心堂、大參林、第一醫藥、益豐藥房等紛紛走高。"
+    },
     {
       "id": "mkt:019fee7a-0ad6-7aab-8fe3-e90363255d07",
       "time": "2026-08-11 09:40:03",
