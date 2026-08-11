@@ -1,7 +1,82 @@
 {
   "date": "2026-08-11",
-  "count": 2000,
+  "count": 2008,
   "items": [
+    {
+      "id": "5035744",
+      "time": "2026-08-11 18:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：印度散戶交易者在股票衍生品上虧損96億美元。"
+    },
+    {
+      "id": "5035743",
+      "time": "2026-08-11 18:36:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓使館：又一名綁架犯罪嫌疑人被遣返】8月8日，中國和菲律賓兩國執法部門合作遣返了涉嫌在菲綁架中國公民的犯罪嫌疑人樊某某。樊某某來菲多年，曾從事網路賭博，後加入臭名昭著的施某某團伙，多次參與實施綁架犯罪。必須指出，對於那些在菲律賓禍害同胞、喪盡天良的犯罪分子，中國警方追到海角天邊，也要將其一個個緝拿歸案，血債血償。"
+    },
+    {
+      "id": "mkt:019ff064-f601-7aab-8fef-c108db741f4e",
+      "time": "2026-08-11 18:36:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "01208.HK",
+        "Impact bullish"
+      ],
+      "text": "【Minmetals Resources (01208.HK) 1H 2026 profit attributable to equity holders up 164% to $897m】Minmetals Resources (01208.HK) reported 1H 2026 revenue up 61% YoY to $4.54 billion and profit after tax up 141% YoY to $1.366 billion. Profit attributable to equity holders rose 164% YoY to $897 million; basic EPS 7.36 US cents. Net cash from operating activities increased 89% YoY to a record $2.234 billion."
+    },
+    {
+      "id": "5035742",
+      "time": "2026-08-11 18:35:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "ARAMARK股價在盤前交易中下跌1.3%，此前公佈第三季度業績。"
+    },
+    {
+      "id": "5035741",
+      "time": "2026-08-11 18:35:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河鋼股份：副總經理孫志溪辭職 聘任肖步慶為副總經理】河鋼股份公告稱，副總經理孫志溪因工作變動，申請辭去職務，辭職申請自送達董事會時生效，辭職後不再擔任公司任何職務，其未持有公司股票。2026年8月11日，公司六屆十一次董事會審議批准聘任肖步慶為副總經理，聘期至第六屆董事會屆滿，肖步慶也未持有公司股票，符合任職資格。"
+    },
+    {
+      "id": "5035740",
+      "time": "2026-08-11 18:34:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局附條件批准替恩戈替尼片上市】近日，國家藥品監督管理局透過優先審評審批程式，附條件批准藥捷安康（南京）科技股份有限公司申報的1類創新藥替恩戈替尼片（商品名稱：捷恩泰）上市，該藥用於既往接受過系統性治療和FGFR抑制劑治療，且具有成纖維細胞生長因子受體（FGFR）2融合或重排的晚期、轉移性或不可手術切除的膽管癌成人患者的治療。該藥品上市為患者提供了新的治療選擇。"
+    },
+    {
+      "id": "mkt:019ff063-5a02-7aab-8fef-bdee35dc573f",
+      "time": "2026-08-11 18:34:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NMPA grants conditional approval to FGFR2-targeted cholangiocarcinoma drug】China NMPA, via priority review, has conditionally approved a Class 1 innovative drug, Tengogetinib tablets (brand Jientai), developed by Yaojie Ankang (Nanjing) Technology Co., Ltd. Indication: adults with advanced, metastatic or unresectable cholangiocarcinoma harboring FGFR2 fusions or rearrangements who have previously received systemic therapy and an FGFR inhibitor. The approval provides a new treatment option for this defined patient group."
+    },
+    {
+      "id": "mkt:019ff062-e6ca-7aab-8fef-b1068eddba87",
+      "time": "2026-08-11 18:34:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【Qatar: Oman and Iran talks have entered 'advanced stage'】Qatar's foreign ministry spokesman said talks between Oman and Iran have entered an \"advanced stage\", that Doha has received positive feedback from both sides and the negotiations are at a critical point. As mediator, Qatar said it supports all de‑escalation efforts, wants the Strait of Hormuz reopened as soon as possible, and backs any measures that ensure the strait's security and freedom of navigation and prevent its use as a tool of political coercion."
+    },
     {
       "id": "te:economy:574418",
       "time": "2026-08-11 18:33:11",
