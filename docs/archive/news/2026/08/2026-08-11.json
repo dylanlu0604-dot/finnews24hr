@@ -1,7 +1,74 @@
 {
   "date": "2026-08-11",
-  "count": 906,
+  "count": 913,
   "items": [
+    {
+      "id": "te:economy:574274",
+      "time": "2026-08-11 12:16:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Malaysia Industrial Output Growth Slows in July — Industrial production in Malaysia rose by 6.5% year-on-year in June 2026, slowing from an 8.4% increase in the previous month, which had marked the strongest growth since September 2022. Production softened significantly in the mining sector, rising just 3.1% after a 19.8% surge in May, as crude oil and condensate output recorded a further decrease (-3.3% vs -0.7%), while growth sharply eased for natural gas production (7.4% vs 37.4%). In contrast, manufacturing activity continued to drive output growth (7.3% vs 6.6%), driven by higher production for wood products, furniture, paper products, and printing (5.7% vs 3.8%) and transport equipment and other manufactures (9.4% vs -4.8%). Additionally, electricity generation increased at a faster pace, up 6.7% from 4.8% in the previous month. On a seasonally adjusted monthly basis, industrial output dropped by 0.5% in June, slipping further from a 0.3% fall in the preceding period."
+    },
+    {
+      "id": "5035013",
+      "time": "2026-08-11 12:16:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：預估2028年全球衛星火箭發射市場規模將達404億美元】8月11日，根據TrendForce集邦諮詢最新衛星產業研究，Starlink（星鏈）近期完成首批V3衛星部署，藉由搭載2,048陣列單元的超大相位陣列天線、降低軌道高度等舉措，可提供極低延遲頻寬和手機直連衛星服務。隨著V3衛星將邁入規模部署，對Starlink母公司SpaceX的發射任務需求逐步成長，預計將帶動全球衛星火箭發射市場規模於2028年上升至404億美元。"
+    },
+    {
+      "id": "5035012",
+      "time": "2026-08-11 12:16:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年規上網際網路企業完成網際網路業務收入超萬億元 同比增長10.1%】上半年，我國規模以上網際網路和相關服務企業（以下簡稱網際網路企業）完成網際網路業務收入10675億元，同比增長10.1%，增速較1—5月份回落0.3個百分點。利潤總額增速加快。上半年，我國規模以上網際網路企業實現利潤總額989.9億元，同比增長16.6%，增速較1—5月份提高6.9個百分點。研發經費投入穩定增長。上半年，我國規模以上網際網路企業共投入研發經費595.5億元，同比增長14.1%，增速較1—5月份回落1.2個百分點。上半年，東部地區、中部地區、西部地區、東北地區網際網路業務收入分別同比增長11.5%、-13.8%、3.5%、-28.6%。東部地區網際網路業務收入佔全國的90.5%。京津冀地區網際網路業務收入同比增長14%，長三角地區網際網路業務收入同比增長8.3%，兩個地區網際網路業務收入佔全國的比例分別為33.6%和30.7%。上半年，全國網際網路業務收入實現正增長的省（區、市）有16個，北京、廣東、上海、浙江和貴州網際網路業務收入居全國前5。附註：規模以上網際網路和相關服務企業口徑為上年網際網路和相關服務收入2000萬元及以上，文中所有同比增速均按可比口徑計算。（工信微報）"
+    },
+    {
+      "id": "5035011",
+      "time": "2026-08-11 12:14:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震重災區附近發生山體滑坡和泥石流】在哥倫比亞強震發生後，重災區佩雷拉東北部的一座山體發生滑坡並出現泥石流。泥石流衝入附近居民區，造成恐慌，但尚不清楚是否造成人員傷亡。此外，該市其他地區也發生了山體滑坡災害，導致多條公路封閉，給的搜救工作帶來了挑戰。"
+    },
+    {
+      "id": "mkt:019fef07-8c0e-7aab-8fe6-02646939ed00",
+      "time": "2026-08-11 12:14:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【1H internet revenue for China’s above-designated-size internet firms 1.0675 tln yuan, up 10.1% YoY】China’s above-designated-size internet and related services enterprises recorded internet business revenue of 1.0675 trillion yuan in 1H, up 10.1% YoY and 0.3ppt slower than Jan–May. Total profits were 98.99 billion yuan, up 16.6% YoY and 6.9ppt faster than Jan–May. R&D spending totaled 59.55 billion yuan, up 14.1% YoY and 1.2ppt slower than Jan–May."
+    },
+    {
+      "id": "5035010",
+      "time": "2026-08-11 12:14:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【最高6.64億歐元！簽下出海大單，甘李藥業逆市漲停，公司回應】8月11日，A股醫藥龍頭甘李藥業（603087.SH）逆市漲停，截至9時40分報74.47元/股，漲停板上封板資金達9.35億元。股價異動背後，或源於公司前一晚披露的重磅海外授權合作公告。8月10日晚，甘李藥業釋出公告稱，公司與國際製藥巨頭A.Menarini International Licensing S.A.（以下簡稱“Menarini”）達成獨家許可協議，授予其在歐盟27國及英國等39個歐洲國家和地區博凡格魯肽超重或肥胖適應症的上市註冊及商業化權利。針對公司今日股價漲停以及上述合作具體情況，記者以投資者身份致電甘李藥業證券部。接線工作人員回應稱，公司不掌握二級市場變動情況，但公司昨日釋出了相關出海訂單公告，預計該訂單會對公司今年利潤產生一定影響，但具體仍要看協議的履行情況，公司2026年度的淨利潤目標為14.3億元，目前正在朝目標努力。具體業績情況以後續公告為準。回顧甘李藥業近期業績走勢，階段性壓力已經顯現。對此，上述工作人員解釋稱，一季度業績下滑由多重因素疊加造成：產品結構方面，銷量走高的“門冬”系列定價偏低，對整體盈利水平有一定拖累；生產端，公司北京廠區與山東廠區在切換，過程中對產能造成了一定影響。此外，年後稅率的調整也對公司業績造成一些影響。（21財經）"
+    },
+    {
+      "id": "5035009",
+      "time": "2026-08-11 12:13:24",
+      "tags": [],
+      "text": "【英偉達聯手六大機構募資5000億美元 創業板50ETF華安（159949）成交11.89億領跑同類 機構：修復行情有望延續】8月11日，三大指數分化，截至午盤，創業板指拉昇漲1.41％，滬指跌0.05％。受此帶動，創業板50ETF華安（159949）漲1.45％，報1.683元，換手率4.56％，成交額11.89億元，居同類標的ETF首位。訊息面上，英偉達宣佈與Apollo、貝萊德、黑石、博楓、高盛和KKR合作，設立獨立的算力融資平臺，為AI基礎設施建設籌集逾5000億美元第三方資本。中金公司釋出研究報告稱，7.20以來A股市場投資者信心顯現修復，中國特色資本市場建設、穩市機制發揮了至關重要作用。結合當前內外部環境及我國資本市場建設，7.20以來的修復行情仍有望延續，中期來看，“9.24”以來A股市場震盪上行趨勢並未改變。中信證券指出，8月初的市場處於超跌反彈階段，前期跌幅越大的品種彈性越大，當前有色、化工、非銀、電新行業的年內收益率仍低於理論中樞。整體而言，電子、有色、創新藥、非銀等修復進度較快，化工、電新、通訊相對較慢。配置上，科技持倉繼續向核心資產集中，非科技部分增配能化、有色、創新藥和頭部券商。投資者可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。"
+    },
     {
       "id": "5035008",
       "time": "2026-08-11 12:12:24",
