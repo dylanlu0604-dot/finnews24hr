@@ -1,7 +1,186 @@
 {
   "date": "2026-08-11",
-  "count": 1682,
+  "count": 1701,
   "items": [
+    {
+      "id": "te:economy:574400",
+      "time": "2026-08-11 17:04:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Senegal",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Senegal Inflation Eases to Lowest Since May 2025 — Senegal’s annual inflation rate eased to 0.3% in July 2026 from 0.4% in June, the lowest since May 2025. The slowdown was mainly driven by a sharper decline in food prices, which fell 0.4% after a 0.2% drop, and housing and utilities, down 0.8% following a 0.6% decrease. Inflation also eased for alcoholic beverages and tobacco (11.8% vs 12%) and furnishings (0.7% vs 0.8%). Meanwhile, inflation remained at 0.8% for recreation, sports and culture, 1% for education, 2.2% for restaurants and hotels, and 0.6% for financial services. In contrast, deflation eased for transports, to 0.1% from 0.6%, while inflation accelerated for health (1.8% vs 1.6%) and clothing and footwear (1.2% vs 1.1%). On a monthly basis, consumer prices rose 1%, marking the highest level since September 2025, after remaining unchanged in the prior month."
+    },
+    {
+      "id": "5035511",
+      "time": "2026-08-11 17:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "微星上半年淨利潤64.2億元臺幣，上半年營業利潤71.6億元臺幣。"
+    },
+    {
+      "id": "5035510",
+      "time": "2026-08-11 17:03:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：聚焦擴充套件現實全鏈條技術攻關 突破輕量化終端、實時空間渲染、虛實融合互動等關鍵技術】上海市經濟和資訊化委員會印發《上海市軟體和資訊服務業發展“十五五”規劃》。其中提到，聚焦擴充套件現實（XR）全鏈條技術攻關，突破輕量化終端、實時空間渲染、虛實融合互動等關鍵技術，推動虛擬現實與大模型、行業知識庫深度耦合。分層梯次培育內容研發、硬體製造、場景運維等服務商，完善上下游產業配套。圍繞工業實訓、職業教育、文旅展演等領域打造標杆示範專案，加速沉浸式一體化解決方案市場化、規模化落地，持續拓寬虛實融合新型消費場景與產業服務場景，構建體系完善、業態豐富、創新活躍的擴充套件現實（XR）產業生態。"
+    },
+    {
+      "id": "mkt:019ff00f-e4eb-7aab-8fed-d767df4c994f",
+      "time": "2026-08-11 17:03:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai to build 100k‑GPU ultra‑large AI compute clusters in Songjiang, Lingang, Qingpu】Shanghai’s Commission of Economy and Informatization issues a software and information‑services plan to create a tiered supply system of large clusters + small clusters + edge compute. It calls for 100,000‑GPU‑class ultra‑large AI compute clusters in Songjiang, Lingang and Qingpu, and thousand‑GPU clusters in Baoshan, Pudong and Jiading. The plan directs conversion of traditional data centers and telecom rooms into ~100‑GPU edge compute centers to meet enterprise and consumer ultra‑low‑latency compute needs. It prioritizes finance, education, healthcare, culture/tourism and industry for Model‑as‑a‑Service (MaaS) platforms offering industry app marketplaces, model customization and hosting, Agent construction, low‑code development, APIs, compute provisioning and management, and AI inference services."
+    },
+    {
+      "id": "5035509",
+      "time": "2026-08-11 17:02:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【工業富聯：上半年雲端計算業務板塊營業收入同比增長75.7%】工業富聯公告，2026年上半年，公司雲端計算業務延續高速增長態勢，板塊營業收入同比增長75.7%，AI相關業務貢獻持續擴大，穩居公司業績增長的核心引擎地位。報告期內，公司AI伺服器產品出貨實現大幅上升，GPU及ASIC業務同步放量。2026年上半年，雲服務商AI伺服器營業收入同比增長2.3倍，GPU AI機櫃出貨量同比增長3.2倍；ASIC AI機櫃出貨量同比增長3倍，ASICCPU伺服器出貨量同比增長2.5倍，全球AI伺服器市場龍頭地位進一步夯實。"
+    },
+    {
+      "id": "5035508",
+      "time": "2026-08-11 17:02:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤雙鶴：控股子公司乙醯唑胺緩釋膠囊獲藥品註冊證書，規格0.5g】華潤雙鶴公告，公司控股子公司河南中帥醫藥科技有限責任公司近日收到國家藥監局頒發的乙醯唑胺緩釋膠囊《藥品註冊證書》，藥品註冊分類為化學藥品3類，規格0.5g，藥品批准文號為國藥準字H20265455。該藥品用於預防或改善急性高山病的症狀，為國內首款獲批的此類藥品，視同透過一致性評價。截至公告日，公司針對該藥品累計研發投入為1656.8萬元。"
+    },
+    {
+      "id": "5035506",
+      "time": "2026-08-11 17:02:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：實施“百千萬”智算叢集工程 在松江、臨港、青浦等佈局打造十萬卡級超大規模智算叢集】上海市經濟和資訊化委員會印發《上海市軟體和資訊服務業發展“十五五”規劃》。其中提到，實施“百千萬”智算叢集工程。形成“大叢集+小叢集+邊緣算力”協同的梯次供給體系，在松江、臨港、青浦等佈局打造十萬卡級超大規模智算叢集，在寶山、浦東、嘉定等佈局建設千卡級智算叢集。引導傳統資料中心、資訊通訊機房向百卡級邊緣智算中心轉變，滿足企業、個人超低時延算力需求。"
+    },
+    {
+      "id": "mkt:019ff00e-b02c-7aab-8fed-ca6b5e04a267",
+      "time": "2026-08-11 17:02:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "TME.N",
+        "Impact bullish"
+      ],
+      "text": "Tencent Music Entertainment (TME.N) reported Q2 2026 revenue of 8.93 bln yuan, versus 8.442 bln yuan a year earlier, up 5.8% YoY."
+    },
+    {
+      "id": "5035505",
+      "time": "2026-08-11 17:01:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊音樂娛樂集團第二季度調整後每股收益為1.7元人民幣。"
+    },
+    {
+      "id": "5035504",
+      "time": "2026-08-11 17:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【晶科科技：目前公司國內在建及儲備專案規模已突破30GWh，包括網側儲能和使用者側儲能】晶科科技在機構調研時表示，儲能業務是公司的核心戰略工作之一。目前公司國內在建及儲備專案規模已突破30GWh，包括網側儲能和使用者側儲能。2026年，公司將進一步發揮自身的資源和經驗優勢，加快推進專案裝機併網，並會持續貫徹“重開發、強落地、高週轉、精運營”的發展戰略，透過快速週轉，形成利潤貢獻。"
+    },
+    {
+      "id": "5035503",
+      "time": "2026-08-11 17:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【昂跑美股盤前跌超10%】昂跑美股盤前跌超10%，現報34.66美元。"
+    },
+    {
+      "id": "5035502",
+      "time": "2026-08-11 17:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊音樂娛樂第二季度淨利潤為24.7億元人民幣。"
+    },
+    {
+      "id": "5035501",
+      "time": "2026-08-11 17:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "騰訊音樂娛樂集團公佈第二季度營收為89.3億元人民幣。"
+    },
+    {
+      "id": "5035500",
+      "time": "2026-08-11 17:00:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟於歐洲能源交易所拍賣現貨碳排放配額，成交價 81.25 歐元 / 噸。"
+    },
+    {
+      "id": "5035499",
+      "time": "2026-08-11 17:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "金蝶國際上半年淨利潤5,450萬元人民幣。"
+    },
+    {
+      "id": "5035498",
+      "time": "2026-08-11 17:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【派諾科技增資至約1.5億 增幅40%】天眼查App顯示，近日，珠海派諾科技股份有限公司發生工商變更，註冊資本由約1.1億人民幣增加至約1.5億人民幣，增幅40%。該公司成立於2000年5月，法定代表人為鄧翔，經營範圍包括智慧儀器儀表製造、智慧儀器儀表銷售、電工儀器儀表製造等。"
+    },
+    {
+      "id": "mkt:019ff00d-4b41-7aab-8fed-c4330a2f81f7",
+      "time": "2026-08-11 17:00:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【Shanghai backs broad adoption of Coding platform by software firms】Shanghai Municipal Commission of Economy and Information Technology issued the city’s 15th Five-Year Plan for the software and information services industry, directing accelerated AI integration in software products and intelligent upgrades in high-value areas such as industrial CAD, engineering design and production scheduling. The plan calls for strengthening software capabilities in sensing, analysis, decision-making and execution, promoting enterprise technology upgrades, supporting wide use of the Coding platform and building end-to-end intelligent R&D and production lines. It also proposes exploring treatment of token-related expenditures, data governance, and large-model deployment and retraining costs as eligible items for enterprise technical transformation support."
+    },
+    {
+      "id": "5035497",
+      "time": "2026-08-11 17:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：支援軟體企業廣泛使用Coding平臺】上海市經濟和資訊化委員會印發《上海市軟體和資訊服務業發展“十五五”規劃》。其中提到，推動軟體產品AI化發展，加快工業製圖、工程設計和生產排產等高價值場景的智慧化升級，強化軟體產品的智慧感知、分析、決策與執行能力。促進軟體企業智慧化技改，支援軟體企業廣泛使用Coding平臺，構建覆蓋全流程、全鏈條的智慧化研發生產線，探索將詞元（Token）、資料治理、大模型部署及再訓練等投入，納入企業技術改造支援方向。"
+    },
+    {
+      "id": "5035496",
+      "time": "2026-08-11 17:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受賄2.61億餘元 南京市人大常委會原黨組書記、主任龍翔一審被判死緩】2026年8月11日，湖北省荊州市中級人民法院一審公開宣判江蘇省南京市人大常委會原黨組書記、主任龍翔受賄、貪汙、濫用職權、內幕交易一案，對被告人龍翔以受賄罪判處死刑，緩期二年執行，剝奪政治權利終身，並處沒收個人全部財產；以貪汙罪判處有期徒刑九年，並處罰金人民幣一百萬元；以濫用職權罪判處有期徒刑九年；以內幕交易罪判處有期徒刑五年，並處罰金人民幣一百萬元，決定執行死刑，緩期二年執行，剝奪政治權利終身，並處沒收個人全部財產。對龍翔受賄犯罪所得財物及孳息依法予以追繳，上繳國庫；對龍翔貪汙犯罪所得財物依法予以追繳，返還被害單位。（央視）"
+    },
     {
       "id": "5035495",
       "time": "2026-08-11 16:59:41",
