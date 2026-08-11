@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-12 04:52:19",
-  "count": 15570,
+  "updated": "2026-08-12 04:56:10",
+  "count": 15571,
   "items": [
+    {
+      "id": "5036389",
+      "time": "2026-08-12 04:55:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會宣告：已命令 KalshiEX 繼續運營。"
+    },
+    {
+      "id": "te:markets:574517",
+      "time": "2026-08-12 04:55:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Mexican Peso Hits 26-month High — The Mexican Peso touched 17.08 against the USD, the highest since June 2024. Over the past 4 weeks, US Dollar Mexican Peso lost 2.54%, and in the last 12 months, it decreased 8.08%."
+    },
+    {
+      "id": "5036388",
+      "time": "2026-08-12 04:53:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：普京已抵達南薩哈林斯克，出席太平洋艦隊演習最後階段活動。"
+    },
+    {
+      "id": "mkt:019ff299-932a-7aab-8ffb-1e62ea8c59c0",
+      "time": "2026-08-12 04:52:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin has arrived in Yuzhno-Sakhalinsk, Russia, to take part in the final phase of Pacific Fleet exercises."
+    },
+    {
+      "id": "te:markets:574516",
+      "time": "2026-08-12 04:52:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Hits Seven-Month Low — The Ibovespa tumbled 2.5% to close at 167,875 on Tuesday, its lowest close since January 20th and the sharpest decline since March 12th. JPMorgan downgraded Brazilian equities to neutral within Latin America, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates, and increased volatility ahead of the presidential election. The bank also cut its year-end Ibovespa target. In its minutes, Copom said inflation remains pressured by demand and requires a restrictive monetary policy stance. July's inflation reading also added to concerns, coming in slightly above forecasts. Political risk also rose after a new election poll showed President Lula widening his lead over Flávio Bolsonaro, as investors remain focused on the potential fiscal direction of the next government. Banks fell sharply, with Banco do Brasil down 3.7%, Bradesco losing 2.3%, and Itaú shedding 3.5%. Petrobras fell 1.3% despite higher oil prices, while Vale declined 2%."
+    },
     {
       "id": "5036387",
       "time": "2026-08-12 04:51:06",
@@ -296,6 +345,14 @@
         "WTI"
       ],
       "text": "【Insiders: shipowner paid nearly record $4m to jump Panama Canal queue】A shipowner paid about $4m to secure priority transit for container vessel Seaspan Benefactor through the Panama Canal, near a historic high, sources said. Iran-related hostilities have pushed global shipping to seek alternative routes, worsening canal congestion. Neo-Panamax LNG carriers, LPG ships, and crude and product tankers face roughly 10-day waits for transit, the longest since May. Restrictions at the Strait of Hormuz and Bab el-Mandeb have prompted Asian oil, gas, fertilizer and chemical traders to reroute. Panama Canal lock maintenance and El Niño-driven low rainfall have reduced capacity, lifting vessel waiting costs."
+    },
+    {
+      "id": "5036381",
+      "time": "2026-08-12 04:30:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【知情人士：船東支付接近創紀錄的400萬美元插隊過巴拿馬運河】受伊朗戰爭影響，全球航運企業尋找替代路線，導致巴拿馬運河擁堵加劇。一艘名為Seaspan Benefactor的集裝箱船支付400萬美元競價費用，以跳過排隊優先透過巴拿馬運河，金額接近歷史最高水平。目前，運輸液化天然氣、液化石油氣、原油和成品油的超大型新巴拿馬型船舶，透過運河前需要等待約10天，為自5月以來最長等待時間。由於霍爾木茲海峽和曼德海峽航運受限，亞洲石油、天然氣、化肥和化學品貿易商紛紛尋找替代航線。此外，巴拿馬運河船閘維護以及厄爾尼諾導致降雨不足，也進一步限制通行能力，推高船舶等待成本。"
     },
     {
       "id": "5036380",
@@ -141819,53 +141876,6 @@
         "其他"
       ],
       "text": "SpaceX首席財務官：計算協議在第二季度增加了16億美元的收入。"
-    },
-    {
-      "id": "mkt:019fce8f-40a3-7aab-8f77-e3d4fb1a4a5d",
-      "time": "2026-08-05 04:55:22",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index down on 4th】Dollar index (DXY), which measures the greenback against six major peers, fell 0.04% to 99.858 at the New York FX close. EUR/USD 1.1533 (prev. 1.1514); GBP/USD 1.3452 (prev. 1.3431); USD/JPY 157.66 (prev. 156.74); USD/CHF 0.8092 (prev. 0.8101); USD/CAD 1.4066 (prev. 1.4045); USD/SEK 9.5192 (prev. 9.5557)."
-    },
-    {
-      "id": "5025350",
-      "time": "2026-08-05 04:54:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數4日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.04%，在匯市尾市收於99.858。截至紐約匯市尾市，1歐元兌換1.1533美元，高於前一交易日的1.1514美元；1英鎊兌換1.3452美元，高於前一交易日的1.3431美元。1美元兌換157.66日元，高於前一交易日的156.74日元；1美元兌換0.8092瑞士法郎，低於前一交易日的0.8101瑞士法郎；1美元兌換1.4066加元，高於前一交易日的1.4045加元；1美元兌換9.5192瑞典克朗，低於前一交易日的9.5557瑞典克朗。"
-    },
-    {
-      "id": "5025349",
-      "time": "2026-08-05 04:54:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX首席財務官：星鏈擴張或令混合ARPU承壓，但將推動營收增長。"
-    },
-    {
-      "id": "5025348",
-      "time": "2026-08-05 04:53:09",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：SpaceX承諾將只使用英偉達GPU，因為它們效能最佳。"
-    },
-    {
-      "id": "5025347",
-      "time": "2026-08-05 04:52:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AMD營收展望令投資者失望 股價盤後大跌】AMD的最新銷售展望令投資者失望，表明市場對全球AI資料中心擴張帶來的回報抱有更高期待。AMD週二在宣告中表示，第三財季營收預計為130億美元，上下浮動3億美元。儘管分析師平均預期為125億美元，但根據彙編的資料，華爾街部分機構的預測遠高於130億美元。財報公佈後，AMD股價盤後下跌約6%。該股週二紐約收盤報518.58美元。市場反應表明，AMD需要展現更快的增長速度，才能支撐當前估值。今年以來，隨著AMD成為英偉達在人工智慧處理器領域的主要競爭對手，其股價已累計上漲逾一倍，遠超大盤表現。"
     }
   ]
 }
