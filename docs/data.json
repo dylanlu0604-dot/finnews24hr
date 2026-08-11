@@ -1,7 +1,41 @@
 {
-  "updated": "2026-08-12 02:52:14",
-  "count": 15640,
+  "updated": "2026-08-12 02:56:05",
+  "count": 15642,
   "items": [
+    {
+      "id": "5036332",
+      "time": "2026-08-12 02:54:57",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國銀行：美元對CPI低於預期會更為敏感】美國銀行分析師認為，如果美國通貨膨脹報告意外低於預期，美元可能會出現相對而言更強烈的反應，因為這將“基本排除”美聯儲9月份加息的可能性，並對當前的市場定價構成挑戰。"
+    },
+    {
+      "id": "mkt:019ff22d-06bd-7aab-8ff9-4ddec660cf99",
+      "time": "2026-08-12 02:54:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said the government needs to build affordable housing quickly and at scale and has launched the \"Build Canada Homes\" project to achieve that."
+    },
+    {
+      "id": "5036331",
+      "time": "2026-08-12 02:53:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛迪生國際股價上漲至盤中最高點3%。"
+    },
+    {
+      "id": "mkt:019ff22b-5d8f-7aab-8ff9-47110f6144b8",
+      "time": "2026-08-12 02:52:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The FAA said the air traffic control tower at Spokane International Airport was evacuated after a building fire alarm; the alarm was later confirmed false. Flight operations were unaffected and the airport remained open."
+    },
     {
       "id": "5036330",
       "time": "2026-08-12 02:50:57",
@@ -142459,22 +142493,6 @@
         "Brent"
       ],
       "text": "The Daily Telegraph reports Europe may bear costs under a new plan to reopen the Strait of Hormuz."
-    },
-    {
-      "id": "5025231",
-      "time": "2026-08-05 02:55:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "據每日電訊報：重啟霍爾木茲海峽新方案或將由歐洲承擔費用。"
-    },
-    {
-      "id": "5025230",
-      "time": "2026-08-05 02:54:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【義大利政府延長柴油稅減免至8月25日】據義大利媒體La Stampa報道，義大利內閣將柴油稅減免措施延長至8月25日。在夏季出行旺季期間，該措施將繼續為柴油使用者提供價格優惠。報道稱，柴油稅減免幅度將維持在每升17歐分（包括增值稅）。目前汽油仍不在該減免措施範圍內。"
     }
   ]
 }
