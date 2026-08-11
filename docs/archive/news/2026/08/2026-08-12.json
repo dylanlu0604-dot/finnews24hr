@@ -1,7 +1,30 @@
 {
   "date": "2026-08-12",
-  "count": 214,
+  "count": 216,
   "items": [
+    {
+      "id": "mkt:019ff221-19e2-7aab-8ff9-27637e3e82c6",
+      "time": "2026-08-12 02:41:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night-session most-active contracts settle】At the 02:30 night-session close, Shanghai gold most-active contract fell 0.28% to 950 yuan/gram; Shanghai silver most-active contract fell 0.42% to 15,795 yuan/kg; SC crude oil most-active contract fell 0.25% to 549 yuan/barrel."
+    },
+    {
+      "id": "mkt:019ff221-0ca1-7aab-8ff9-1ef6921f58fe",
+      "time": "2026-08-12 02:41:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 0.58% to 947.2 yuan/gram in the Aug. 11 (Tue) night session; Silver T+D fell 0.92% to 15,701.0 yuan/kg."
+    },
     {
       "id": "mkt:019ff21e-9d19-7aab-8ff9-1101ee8d94a4",
       "time": "2026-08-12 02:38:40",

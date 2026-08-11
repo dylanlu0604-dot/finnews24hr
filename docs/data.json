@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-12 02:40:50",
+  "updated": "2026-08-12 02:44:36",
   "count": 15632,
   "items": [
+    {
+      "id": "mkt:019ff221-19e2-7aab-8ff9-27637e3e82c6",
+      "time": "2026-08-12 02:41:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night-session most-active contracts settle】At the 02:30 night-session close, Shanghai gold most-active contract fell 0.28% to 950 yuan/gram; Shanghai silver most-active contract fell 0.42% to 15,795 yuan/kg; SC crude oil most-active contract fell 0.25% to 549 yuan/barrel."
+    },
+    {
+      "id": "mkt:019ff221-0ca1-7aab-8ff9-1ef6921f58fe",
+      "time": "2026-08-12 02:41:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D fell 0.58% to 947.2 yuan/gram in the Aug. 11 (Tue) night session; Silver T+D fell 0.92% to 15,701.0 yuan/kg."
+    },
     {
       "id": "mkt:019ff21e-9d19-7aab-8ff9-1101ee8d94a4",
       "time": "2026-08-12 02:38:40",
@@ -142382,24 +142405,6 @@
         "其他"
       ],
       "text": "【義大利政府延長柴油稅減免至8月25日】據義大利媒體La Stampa報道，義大利內閣將柴油稅減免措施延長至8月25日。在夏季出行旺季期間，該措施將繼續為柴油使用者提供價格優惠。報道稱，柴油稅減免幅度將維持在每升17歐分（包括增值稅）。目前汽油仍不在該減免措施範圍內。"
-    },
-    {
-      "id": "5025229",
-      "time": "2026-08-05 02:42:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西雷亞爾兌美元在即期交易中下跌1%。"
-    },
-    {
-      "id": "mkt:019fce15-4136-7aab-8f75-faee19f4f3d5",
-      "time": "2026-08-05 02:42:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Brazilian real slid 1% against the dollar in spot trading."
     }
   ]
 }
