@@ -1,7 +1,26 @@
 {
   "date": "2026-08-12",
-  "count": 414,
+  "count": 416,
   "items": [
+    {
+      "id": "5036435",
+      "time": "2026-08-12 06:46:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至今年6月 我國可再生能源制氫產能規模超140萬噸】國家能源局昨天（11日）釋出的《中國氫能發展報告（2026）》顯示，截至今年6月，我國以電解水制氫為主要路線的建成和在建可再生能源制氫年產能規模已超140萬噸，氫能產業取得積極進展。當前，我國氫能基礎設施穩步建設。截至6月，全國累計建成加氫站約620座，建成投運純氫管道長度超350公里。"
+    },
+    {
+      "id": "te:markets:574523",
+      "time": "2026-08-12 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Rises by 2.36% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 2.36% increase."
+    },
     {
       "id": "mkt:019ff2fe-ca6a-7aab-8ffb-9f4afa0c2621",
       "time": "2026-08-12 06:43:31",

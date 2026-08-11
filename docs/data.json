@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-12 06:44:34",
-  "count": 15514,
+  "updated": "2026-08-12 06:48:25",
+  "count": 15501,
   "items": [
+    {
+      "id": "5036435",
+      "time": "2026-08-12 06:46:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【截至今年6月 我國可再生能源制氫產能規模超140萬噸】國家能源局昨天（11日）釋出的《中國氫能發展報告（2026）》顯示，截至今年6月，我國以電解水制氫為主要路線的建成和在建可再生能源制氫年產能規模已超140萬噸，氫能產業取得積極進展。當前，我國氫能基礎設施穩步建設。截至6月，全國累計建成加氫站約620座，建成投運純氫管道長度超350公里。"
+    },
+    {
+      "id": "te:markets:574523",
+      "time": "2026-08-12 06:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Rises by 2.36% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a 2.36% increase."
+    },
     {
       "id": "mkt:019ff2fe-ca6a-7aab-8ffb-9f4afa0c2621",
       "time": "2026-08-12 06:43:31",
@@ -141236,147 +141255,6 @@
         "宏觀"
       ],
       "text": "【市場監管總局：我國量子資訊產業質量強鏈取得階段性成果】量子科技是前沿科技競爭的核心賽道，產業標準化、質量體系建設是產業化落地的關鍵。記者今天（5日）瞭解到，市場監管總局實施的量子資訊產業質量強鏈專項行動取得系列階段性成果。本次專項行動在標準體系建設上，依託全國量子技術標準化技術委員會已成功研製5項量子核心器件國家標準，填補了國家標準空白。（央視新聞）"
-    },
-    {
-      "id": "5025443",
-      "time": "2026-08-05 06:47:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭失業率升至11年高點5.6%。"
-    },
-    {
-      "id": "mkt:019fcef6-2614-7aab-8f79-0c7604a16b37",
-      "time": "2026-08-05 06:47:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand average hourly earnings rose 1.4% QoQ in Q2, up from 0.2% previously."
-    },
-    {
-      "id": "mkt:019fcef5-fe35-7aab-8f79-00a0c09c0fd6",
-      "time": "2026-08-05 06:47:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Average Hourly Earnings (QoQ) (Q2) | actual 1.4% | previous 0.20%"
-    },
-    {
-      "id": "5025442",
-      "time": "2026-08-05 06:45:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭第二季度經季節調整後就業人數環比增長0.5%，路透調查預期為增長0.2%。"
-    },
-    {
-      "id": "mkt:019fcef3-e8bc-7aab-8f78-f8a02157193c",
-      "time": "2026-08-05 06:45:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Q2 employment-to-population ratio 70.7%, expected 70.3%, prior 70.40%."
-    },
-    {
-      "id": "mkt:019fcef3-e0cf-7aab-8f78-f7ace809df5a",
-      "time": "2026-08-05 06:45:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Q2 labour cost index YoY 2.1% vs 2.0% expected, 2.0% prior."
-    },
-    {
-      "id": "mkt:019fcef3-d246-7aab-8f78-e919b502a878",
-      "time": "2026-08-05 06:45:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "New Zealand unemployment rate rose to 5.6% in Q2, above the 5.4% consensus and up from the prior 5.3%."
-    },
-    {
-      "id": "mkt:019fcef3-c3fc-7aab-8f78-e0cf077269c7",
-      "time": "2026-08-05 06:45:09",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "New Zealand Q2 employment +0.5% QoQ vs +0.2% expected; Q1 revised down to +0.1% from +0.2%."
-    },
-    {
-      "id": "mkt:019fcef3-c3cb-7aab-8f78-de1acb8e4041",
-      "time": "2026-08-05 06:45:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "New Zealand Q2 Labour Cost Index q/q 0.7% (consensus 0.6%; prior 0.5%)."
-    },
-    {
-      "id": "te:markets:572700",
-      "time": "2026-08-05 06:45:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Increases by 1.11% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.11% increase."
-    },
-    {
-      "id": "mkt:019fcef3-a35e-7aab-8f78-d13c10aa5197",
-      "time": "2026-08-05 06:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Labor Cost Index (YoY) (Q2) | actual 2.1% | consensus 2% | previous 2%"
-    },
-    {
-      "id": "mkt:019fcef3-a28e-7aab-8f78-c5469ee5f15d",
-      "time": "2026-08-05 06:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Labor Force Participation Rate (Q2) | actual 70.7% | consensus 70.3% | previous 70.40%"
-    },
-    {
-      "id": "mkt:019fcef3-a293-7aab-8f78-c8a2933cc0a7",
-      "time": "2026-08-05 06:45:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Labor Cost Index (QoQ) (Q2) | actual 0.7% | consensus 0.60% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019fcef3-a1a5-7aab-8f78-ba0e77768dbe",
-      "time": "2026-08-05 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Employment Change (QoQ) (Q2) | actual 0.5% | consensus 0.2% | previous 0.20%"
-    },
-    {
-      "id": "mkt:019fcef3-a18e-7aab-8f78-b2545fbd9ac5",
-      "time": "2026-08-05 06:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Unemployment Rate (Q2) | actual 5.6% | consensus 5.40% | previous 5.30%"
     }
   ]
 }
