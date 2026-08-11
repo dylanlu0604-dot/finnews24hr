@@ -1,7 +1,59 @@
 {
   "date": "2026-08-12",
-  "count": 364,
+  "count": 370,
   "items": [
+    {
+      "id": "5036404",
+      "time": "2026-08-12 05:29:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。"
+    },
+    {
+      "id": "mkt:019ff2bb-3c76-7aab-8ffb-4c940b88b612",
+      "time": "2026-08-12 05:29:44",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25."
+    },
+    {
+      "id": "mkt:019ff2bb-338f-7aab-8ffb-463032867192",
+      "time": "2026-08-12 05:29:42",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4."
+    },
+    {
+      "id": "5036403",
+      "time": "2026-08-12 05:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。"
+    },
+    {
+      "id": "5036402",
+      "time": "2026-08-12 05:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave 首席財務官：第二季度是我們利潤率出現拐點的季度，正如過去幾個季度所討論的，利潤率實現環比擴張。"
+    },
+    {
+      "id": "5036401",
+      "time": "2026-08-12 05:27:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Kalshi 年化營收突破 40 億美元。Kalshi 正洽談融資，目標估值 400 億美元。"
+    },
     {
       "id": "mkt:019ff2b7-7048-7aab-8ffb-3a50180d27bd",
       "time": "2026-08-12 05:25:35",

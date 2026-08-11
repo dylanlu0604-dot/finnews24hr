@@ -1,7 +1,59 @@
 {
-  "updated": "2026-08-12 05:26:47",
-  "count": 15532,
+  "updated": "2026-08-12 05:30:36",
+  "count": 15530,
   "items": [
+    {
+      "id": "5036404",
+      "time": "2026-08-12 05:29:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "CoreWeave 首席財務官： 7 月調價針對各產品規格，整體上調約 25%，以應對當前市場需求。公司正在轉嫁零部件漲價帶來的成本。"
+    },
+    {
+      "id": "mkt:019ff2bb-3c76-7aab-8ffb-4c940b88b612",
+      "time": "2026-08-12 05:29:44",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) CFO said nine customers generated more than $1 billion each in revenue in FY26, up from four in FY25."
+    },
+    {
+      "id": "mkt:019ff2bb-338f-7aab-8ffb-463032867192",
+      "time": "2026-08-12 05:29:42",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) CFO said demand from enterprise and channel customers to upgrade compute, storage and networking infrastructure increased in Q4."
+    },
+    {
+      "id": "5036403",
+      "time": "2026-08-12 05:29:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave 首席財務官： 營業利潤率改善發生在 7 月調價之前。"
+    },
+    {
+      "id": "5036402",
+      "time": "2026-08-12 05:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "CoreWeave 首席財務官：第二季度是我們利潤率出現拐點的季度，正如過去幾個季度所討論的，利潤率實現環比擴張。"
+    },
+    {
+      "id": "5036401",
+      "time": "2026-08-12 05:27:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Kalshi 年化營收突破 40 億美元。Kalshi 正洽談融資，目標估值 400 億美元。"
+    },
     {
       "id": "mkt:019ff2b7-7048-7aab-8ffb-3a50180d27bd",
       "time": "2026-08-12 05:25:35",
@@ -141465,75 +141517,6 @@
         "其他"
       ],
       "text": "馬斯克：星艦隔熱罩問題似乎已得到解決。"
-    },
-    {
-      "id": "mkt:019fceaf-6587-7aab-8f78-48210cd5bfb2",
-      "time": "2026-08-05 05:30:28",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Elon Musk said Starship is expected to safely carry humans by end-2027."
-    },
-    {
-      "id": "5025397",
-      "time": "2026-08-05 05:30:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普政府退還1000億美元“解放日”關稅。"
-    },
-    {
-      "id": "5025396",
-      "time": "2026-08-05 05:29:36",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克：星艦飛船大機率會在2027年底前滿足載人安全要求。"
-    },
-    {
-      "id": "5025395",
-      "time": "2026-08-05 05:29:24",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "馬斯克預計，星艦到明年底將具備足夠的安全性，可實現載人飛行。"
-    },
-    {
-      "id": "5025394",
-      "time": "2026-08-05 05:28:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達埃米爾與特朗普就美伊局勢通話 呼籲繼續對話】塔米姆4日與美國總統特朗普就美伊局勢通電話，強調應繼續堅持對話、透過外交途徑解決分歧。根據卡達埃米爾宮4日發表的宣告，塔米姆與特朗普討論了地區局勢最新發展，特別是旨在緩解美國與伊朗緊張關係、彌合雙方分歧，從而為透過外交途徑解決危機創造有利條件的各項努力。塔米姆還呼籲各方遵守美伊諒解備忘錄達成的共識，支援旨在緩和地區緊張局勢的國際倡議，以促進地區與國際和平與安全。"
-    },
-    {
-      "id": "mkt:019fcead-40f2-7aab-8f78-458f9daf9ead",
-      "time": "2026-08-05 05:28:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatar's Emir Tamim speaks with Trump on US-Iran tensions, urges continued dialogue】Qatar's Emir Tamim spoke by phone with US President Trump on April 4 about the US-Iran situation, urging continued dialogue and a diplomatic resolution. They discussed efforts to ease tensions and bridge differences to create conditions for diplomacy. Tamim called on parties to honor the understandings in the US-Iran memorandum of understanding and to support international initiatives aimed at reducing regional tensions and promoting peace and security."
-    },
-    {
-      "id": "5025393",
-      "time": "2026-08-05 05:27:28",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哥倫比亞央行技術團隊將2027年通脹預期由此前3.7%上調至4.3%。"
-    },
-    {
-      "id": "5025392",
-      "time": "2026-08-05 05:27:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭：基輔遭遇彈道導彈威脅，請尋找掩體躲避。"
     }
   ]
 }
