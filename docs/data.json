@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-11 13:03:32",
-  "count": 15876,
+  "updated": "2026-08-11 13:07:27",
+  "count": 15868,
   "items": [
+    {
+      "id": "mkt:019fef37-63ea-7aab-8fe7-8f47d1d53495",
+      "time": "2026-08-11 13:06:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk says terminal operations in Buenaventura, Colombia, are temporarily suspended while it assesses facilities and infrastructure."
+    },
+    {
+      "id": "5035067",
+      "time": "2026-08-11 13:06:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【小麥連續第五日上漲 黑海局勢擾動擠壓供應】受緊張局勢持續擾亂黑海核心產區糧食外運，芝加哥小麥連續第五個交易日走高，創下 4 月中旬以來最長連漲行情。俄羅斯對敖德薩港口發動襲擊導致外運規模縮減，烏克蘭糧食出口預計將大幅下滑。該國農業部將 2026‑2027 農業年度出口預期從 6440 萬噸大幅下調至 2960 萬噸；其中小麥出口預估較此前預測下滑 53%，降至 830 萬噸。與此同時，多瑙河水位跌至歷史低位，制約烏克蘭備選外運通道羅馬尼亞方向的糧食運輸，進一步給黑海糧食出口增添阻力，出口預期隨之下調。交投最活躍的芝加哥小麥期貨最高上漲 0.6%，延續供應緊張帶來的漲勢。"
+    },
+    {
+      "id": "mkt:019fef36-dbb6-7aab-8fe7-8118697c21cc",
+      "time": "2026-08-11 13:06:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk is assessing contingency measures to reduce business disruption in Colombia and support customer business continuity."
+    },
+    {
+      "id": "mkt:019fef36-a5b4-7aab-8fe7-7f896af138aa",
+      "time": "2026-08-11 13:06:03",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO"
+      ],
+      "text": "Maersk said logistics operations in parts of Colombia are currently disrupted due to an earthquake affecting multiple regions."
+    },
+    {
+      "id": "5035066",
+      "time": "2026-08-11 13:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智源釋出AREX自主研究智慧體 已開放BETA版測試】8月11日，記者從智源研究院獲悉，近日智源研究院釋出AREX自主研究智慧體，當前已開放BETA版測試。"
+    },
     {
       "id": "mkt:019fef33-e909-7aab-8fe7-72e8dba9b008",
       "time": "2026-08-11 13:03:04",
@@ -144409,143 +144451,6 @@
         "其他"
       ],
       "text": "豐田：擴大混合動力汽車電池產能以滿足市場需求。"
-    },
-    {
-      "id": "5023684",
-      "time": "2026-08-04 13:06:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "沙特阿美：以穩健的財務和運營勢頭進入下半年。賈富拉天然氣廠保持商品氣和凝析油產量穩定。沙特阿美及其子公司在沙特王國境內的部分設施遭到襲擊，截至2026年6月30日，這些設施所受影響對沙特阿美的財務狀況並不重大。賈富拉天然氣廠二期專案繼續推進採購和建設活動，預計將於2027年完工。"
-    },
-    {
-      "id": "5023683",
-      "time": "2026-08-04 13:06:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止13:06，兩市100只個股漲停。"
-    },
-    {
-      "id": "mkt:019fcb2a-43e9-7aab-8f64-7c71da8a78e2",
-      "time": "2026-08-04 13:06:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "2222.SR",
-        "Impact bullish"
-      ],
-      "text": "ARAMCO reported Q2 adjusted net income of SAR 125.2 billion."
-    },
-    {
-      "id": "mkt:019fcb29-e271-7aab-8f64-722c92d78a2e",
-      "time": "2026-08-04 13:05:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ARAMCO said Q2 sales volumes of refined products and chemicals fell."
-    },
-    {
-      "id": "mkt:019fcb29-820f-7aab-8f64-6fa5594e0724",
-      "time": "2026-08-04 13:05:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ARAMCO said Q2 refined products, chemicals and crude oil prices rose."
-    },
-    {
-      "id": "mkt:019fcb29-6797-7aab-8f64-610f520f3b87",
-      "time": "2026-08-04 13:05:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share lab-grown diamond sector rallied; Henglin hit the daily price limit, Inno Laser rose more than 10%, and Walde, Guoli Electronics, Sinomach Precision, Huanghe Xuanfeng and Sifangda also advanced."
-    },
-    {
-      "id": "mkt:019fcb29-5dbc-7aab-8f64-5854b9a3b4e0",
-      "time": "2026-08-04 13:05:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "ARAMCO: Amid rising geopolitical uncertainty and shrinking global energy inventories, energy security and the need to replenish stocks have become more critical than ever."
-    },
-    {
-      "id": "5023682",
-      "time": "2026-08-04 13:04:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "豐田預計本財年日元兌美元匯率為160，此前預期為150。"
-    },
-    {
-      "id": "mkt:019fcb28-dcae-7aab-8f64-57bc99988b3b",
-      "time": "2026-08-04 13:04:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ARAMCO said it has effectively managed regional challenges while maintaining safe, reliable operations."
-    },
-    {
-      "id": "5023681",
-      "time": "2026-08-04 13:04:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特阿美第二季度調整後淨利潤為1252億里亞爾，低於預期1167.5億里亞爾。"
-    },
-    {
-      "id": "mkt:019fcb28-a28e-7aab-8f64-4809cc9c1a6e",
-      "time": "2026-08-04 13:04:25",
-      "tags": [
-        "MKT News",
-        "WTI"
-      ],
-      "text": "ARAMCO will continue to use the East-West pipeline to ensure crude flows within its network."
-    },
-    {
-      "id": "mkt:019fcb28-81ef-7aab-8f64-4575b81530d7",
-      "time": "2026-08-04 13:04:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "Shenzhen Component Index rose more than 3%; constituent Guangku Technology surged to the 20% daily limit-up."
-    },
-    {
-      "id": "mkt:019fcb28-539e-7aab-8f64-3ea02e88a6a8",
-      "time": "2026-08-04 13:04:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "ARAMCO said its east-west pipelines, storage and transport capacity and export terminals enable it to sustain production and exports."
     }
   ]
 }
