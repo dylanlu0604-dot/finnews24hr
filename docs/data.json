@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-12 06:40:44",
-  "count": 15515,
+  "updated": "2026-08-12 06:44:34",
+  "count": 15514,
   "items": [
+    {
+      "id": "mkt:019ff2fe-ca6a-7aab-8ffb-9f4afa0c2621",
+      "time": "2026-08-12 06:43:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【TRUMP reportedly weighing capital gains tax cut to boost midterms】A senior White House economic adviser and a former administration official said President TRUMP is seeking new policy pledges ahead of the midterms that could include calling on Congress to cut the capital gains tax and creating an exclusion for certain home sales. HASSETT said TRUMP wants additional incentives to secure voter support in November. Former NEC director Larry Kudlow, a TRUMP ally, said he recently discussed indexing capital gains to inflation so gains would be taxed after inflation adjustment, and proposed exempting home sales of $2 million or less from capital gains tax, adding TRUMP is \"very interested\"."
+    },
+    {
+      "id": "5036434",
+      "time": "2026-08-12 06:42:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【數量創近五年新高，單隻平均規模縮水，今年新發基金“細分賽道”撬動大市場】8月以來，公募基金髮行市場熱度不減。本週（8月10日至14日），49只基金進入發行期，被動指數型產品佔比超四成，硬科技與紅利策略成為主線。一方面是指數型產品聚焦細分賽道，另一方面是FOF產品顯著升溫。將時間軸拉長至今年年內，新基金成立數量創近五年新高，但單隻平均募集規模卻呈現下滑態勢。已成立產品的業績出現明顯分化，同一賽道的基金，因成立時點不同，收益差距較大。（中證報）"
+    },
     {
       "id": "te:markets:574522",
       "time": "2026-08-12 06:40:06",
@@ -141354,41 +141377,6 @@
         "Important"
       ],
       "text": "New Zealand | Unemployment Rate (Q2) | actual 5.6% | consensus 5.40% | previous 5.30%"
-    },
-    {
-      "id": "mkt:019fcef2-f222-7aab-8f78-ada65871925a",
-      "time": "2026-08-05 06:44:15",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "AMD.O",
-        "Impact bearish"
-      ],
-      "text": "【AMD falls after hours as revenue guide disappoints; Wall Street wanted more than \"beats\"】AMD fell about 9% in after-hours trading after its revenue outlook disappointed some investors. The company guided Q3 revenue to $13.0bn +/- $0.3bn; analysts’ mean was $12.5bn but Bloomberg shows some Wall Street forecasts exceeded $13.0bn. Post-earnings weakness despite beats has become common for AMD. Shares have more than doubled this year as AMD has emerged as NVIDIA’s main challenger in AI processors. CEO Lisa Su told analysts she expects data-center revenue to \"more than double\" by 2027 and said the company could exceed its prior targets of 35% annual revenue growth and $20 EPS over the longer term."
-    },
-    {
-      "id": "mkt:019fcef2-dd1a-7aab-8f78-a24725395a53",
-      "time": "2026-08-05 06:44:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "【Russia says continues strikes on Ukrainian ports and ships; Ukraine reports downing of Russian drones】On Aug 4 the Russian Defence Ministry said Russian forces had seized a settlement in Kharkiv region and over the previous 24 hours struck Ukrainian transport and energy infrastructure, logistics hubs, and UAV production and storage sites. The ministry said it continued strikes on Ukrainian ports, ships and related maritime infrastructure, alleging those facilities were used for Ukrainian military resupply. Ukraine's General Staff reported 226 engagements on the front in the past day, said Ukrainian forces repelled attacks in multiple sectors, and said missile and artillery strikes hit Russian troop concentrations and drone-control nodes; it reported shooting down 1,792 Russian drones."
-    },
-    {
-      "id": "5025441",
-      "time": "2026-08-05 06:42:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱繼續打擊烏港口設施及船隻 烏稱擊落俄無人機】當地時間8月4日，俄羅斯國防部通報稱，俄軍已控制哈爾科夫地區一個居民點。過去一天，俄軍對烏軍交通、能源基礎設施、後勤中心、無人機制造和儲存地點等目標實施打擊。通報還稱，俄軍當天繼續對烏克蘭港口、海上船隻及相關基礎設施實施打擊，稱這些設施被用於烏武裝部隊的軍事補給。烏克蘭武裝部隊總參謀部4日通報稱，過去一天，前線地區發生226次戰鬥，烏軍在多個方向擊退俄軍進攻。烏導彈部隊和炮兵對俄軍兵力集結區、無人機控制點等目標發動了打擊，擊落俄軍1792架無人機。"
     }
   ]
 }
