@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-11 10:19:52",
-  "count": 15830,
+  "updated": "2026-08-11 10:23:47",
+  "count": 15828,
   "items": [
+    {
+      "id": "mkt:019feea1-6483-7aab-8fe4-cdc56784f07e",
+      "time": "2026-08-11 10:23:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share photovoltaic equipment sector rallied; Liansheng Technology rose over 6%, with Deye, Sungrow, Huamin and TCL Zhonghuan also advancing."
+    },
+    {
+      "id": "5034903",
+      "time": "2026-08-11 10:22:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普發帖稱，美國最高法院大法官阿利托已宣佈他將再留任一個任期。"
+    },
+    {
+      "id": "5034902",
+      "time": "2026-08-11 10:22:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏裝置板塊拉昇，璉升科技漲超6%】光伏裝置板塊拉昇，璉升科技漲超6%，德業股份、陽光電源、華民股份、TCL中環跟漲。"
+    },
+    {
+      "id": "mkt:019feea0-83f8-7aab-8fe4-c272da6ed8ac",
+      "time": "2026-08-11 10:22:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "【GPU retail prices climb; RTX 50 series up to 39%】NVIDIA RTX 50 series retail prices in the US have risen sharply, with mid‑range models hardest hit. Tom's Hardware tracking of median listings on Newegg and other e‑commerce sites shows the RTX 5060 Ti 16GB median rose from USD 569.99 two months ago to USD 804.99 (≈¥5,429), up 39%. The RTX 5070 median increased from USD 659.99 to USD 899.99 (≈¥6,070), up 36%, moving the 5070 out of mid‑range pricing and close to the higher‑spec RTX 5070 Ti."
+    },
+    {
+      "id": "te:markets:574248",
+      "time": "2026-08-11 10:21:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Futures Near 1-Month Low — Corn futures traded below $4.4 per bushel, struggling to rebound from a four-week low reached on August 5, as traders continued to assess crop conditions and weather forecasts ahead of the USDA's supply-and-demand report this week. Recent rain and milder temperatures eased crop stress after several weeks of excessive heat and dryness across much of the US Midwest during July, although 28% of US corn was affected by drought. Elsewhere, Ukraine, a major corn producer, cut its 2026/27 grain export forecast by up to 12% from its previous projection, citing Russian attacks on the country's southern Odessa port hub. The disruption could result in an 11 million-ton grain storage shortfall, according to Ukraine's agriculture ministry, while APK-Inform also lowered its Ukraine grain export forecast by 8.6% to 39.4 million tons. However, both Ukraine and Russia are harvesting large crops that could add to already ample global supplies."
+    },
+    {
+      "id": "5034901",
+      "time": "2026-08-11 10:21:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量2830億元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608113837659821",
+      "time": "2026-08-11 10:20:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲年內不會加息？高盛預言下半年“三大順風” 建議投資者別撤！】近日，高盛全球銀行和市場聯席主管AshokVaradhan向擔心利率上升、油價高企和經濟可持續性的投資者傳達了一個簡單的資訊：繼續持有資產、留在市場，不要撤！"
+    },
     {
       "id": "5034900",
       "time": "2026-08-11 10:18:14",
@@ -143966,95 +144033,6 @@
         "國際"
       ],
       "text": "木原稔：日本將動用242億日元儲備金用於熊本地震救災。"
-    },
-    {
-      "id": "5023530",
-      "time": "2026-08-04 10:23:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "城內實：希望日本央行在制定政策指引過程中與政府保持密切溝通。"
-    },
-    {
-      "id": "mkt:019fca94-bae3-7aab-8f62-8e6e15365b01",
-      "time": "2026-08-04 10:22:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kiuchi said he hopes the Bank of Japan will implement monetary policy appropriately to stably and sustainably achieve the 2% inf target."
-    },
-    {
-      "id": "mkt:019fca94-3b2f-7aab-8f62-80b5822321a5",
-      "time": "2026-08-04 10:22:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Japan's Finance Minister Kiuchi said forecasts shared by the government and the Bank of Japan indicate consumer inflation will accelerate in H2 this year and then decelerate thereafter."
-    },
-    {
-      "id": "5023529",
-      "time": "2026-08-04 10:22:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "城內實：希望日本央行採取適當的貨幣政策，以穩定、可持續地實現2%的通脹目標。"
-    },
-    {
-      "id": "te:economy:572336",
-      "time": "2026-08-04 10:22:04",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yields Steadies — The yield on the US 10-year Treasury note held around 4.69% on Tuesday as investors continued to evaluate the outlook for Federal Reserve monetary policy amid heightened uncertainty in the Middle East. Markets are currently pricing in about a 65% chance of a 25 basis point Fed rate hike in September after the central bank left interest rates unchanged in July. However, three policymakers dissented from the decision, while Chair Kevin Warsh offered little forward guidance on the path of interest rates. Meanwhile, Bank of New York Fed President John Williams said monetary policy remains well positioned, adding that inflation is expected to ease during the second half of the year. Investors are now awaiting the latest JOLTS job openings report and international trade data due later today for further clues on the strength of the US economy."
-    },
-    {
-      "id": "mkt:019fca93-809c-7aab-8f62-7bcd28e53b77",
-      "time": "2026-08-04 10:21:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Kiuchi, Japan's minister in charge of economic and fiscal policy, warned of a risk of food-cost pass-through that could persist from summer into autumn."
-    },
-    {
-      "id": "5023528",
-      "time": "2026-08-04 10:21:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：碳酸鋰產能逐步釋放 2027年全年仍難言過剩】中信建投釋出研報稱，2026H2需求旺季到來，預計碳酸鋰供給缺口將逐步放大，Q4來到缺口峰值，若慮產業鏈提前備貨，年內價格高點可能在Q3末-Q4初，2027年預計需求持續景氣，碳酸鋰供給逐步釋放但全年仍難言過剩。考慮儲能、電車、鈉電3個關鍵行業影響，該行預計2026H2價格區間15-20萬元/噸，展望2027年，該行預計碳酸鋰供需缺口1.5-9.9萬噸(對應0.5%-3.4%)，供需形勢比今年略微寬鬆但依然供不應求，按照2027年10-15倍PE，對應明年主流鋰礦企業市值包含的碳酸鋰價格為11-14萬元/噸。關注鋰產品業績彈性較大、鋰礦產量增速較高、國內礦佔比較大的公司。"
-    },
-    {
-      "id": "5023527",
-      "time": "2026-08-04 10:21:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：必須警惕食品成本轉嫁的可能性，這種轉嫁可能從夏季持續到秋季。"
-    },
-    {
-      "id": "5023526",
-      "time": "2026-08-04 10:20:31",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器概念震盪拉昇 冰輪環境逼近漲停】液冷伺服器概念震盪拉昇，冰輪環境逼近漲停，川環科技、申菱環境、大元泵業、飛龍股份、英維克、新朋股份跟漲。"
     }
   ]
 }
