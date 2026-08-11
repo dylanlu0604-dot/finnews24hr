@@ -1,7 +1,44 @@
 {
   "date": "2026-08-12",
-  "count": 257,
+  "count": 261,
   "items": [
+    {
+      "id": "mkt:019ff247-3a71-7aab-8ff9-c5d471e6a26d",
+      "time": "2026-08-12 03:23:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple payments head Jennifer Bailey to retire in October】Jennifer Bailey, head of Apple’s payments and Wallet services, said she will retire and leave the company in October. The exit adds to a wave of senior executive departures at Apple — including Kate Adams and Lisa Jackson — and accelerates management turnover. Apple is also scheduled for a CEO transition on Sept. 1, when Tim Cook will step down and hardware chief John Ternus will succeed him."
+    },
+    {
+      "id": "5036351",
+      "time": "2026-08-12 03:22:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "週二（8月11日）紐約尾盤，ICE原糖期貨漲1.64%，ICE白糖期貨漲1.15%。ICE阿拉比卡咖啡期貨衝高回落最終漲0.08%，咖啡“C”期貨跌0.35%、報312.80美分/磅、北京時間18:50達到327.55美分。羅布斯塔咖啡期貨跌0.37%。紐約可可期貨跌4.97%，報5637美元/噸。倫敦可可期貨跌0.17%。芝加哥WCE雙低油菜籽期貨跌1.75%。ICE棉花期貨漲0.68%。"
+    },
+    {
+      "id": "5036350",
+      "time": "2026-08-12 03:20:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥比索繼續走強，匯率升至 1 美元兌 17.0862 比索，創 2 月以來最佳水平。"
+    },
+    {
+      "id": "5036349",
+      "time": "2026-08-12 03:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國疾控中心：針對接受 B 細胞耗竭或調節類藥物治療的患者，釋出蟲媒傳染病重症風險健康警示。目前尚無獲批的治療藥物、預防制劑以及人用疫苗，可預防美國本土流行的蟲媒傳染病。"
+    },
     {
       "id": "mkt:019ff241-001d-7aab-8ff9-bb3f0b610c1c",
       "time": "2026-08-12 03:16:13",
