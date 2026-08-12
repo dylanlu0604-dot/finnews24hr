@@ -1,7 +1,71 @@
 {
   "date": "2026-08-13",
-  "count": 16,
+  "count": 22,
   "items": [
+    {
+      "id": "te:economy:574810",
+      "time": "2026-08-13 00:13:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Russia Inflation Holds Steady in July — Russia’s annual inflation rate held at 6.0% in July 2026, matching June’s reading and remaining at its highest level since January. Motor gasoline inflation accelerated sharply to 25.9% from 19.9%, amid a severe fuel shortage as Ukrainian drone attacks disrupted refinery output. Core inflation rose to 5.2% from 5.0%, while goods inflation accelerated to 5.3% from 4.3%, driven by faster food price growth (4.4% vs 3.4%). In contrast, services inflation eased to 7.8% from 10.6%. On a monthly basis, consumer prices rose 0.5% in July, slowing from a 0.9% increase in June."
+    },
+    {
+      "id": "te:markets:574809",
+      "time": "2026-08-13 00:12:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index fell 8 points or 0.01 percent on Wednesday to close at 53699 points. Leading the losses are Diasorin (-3.32%), Stellantis N.V. (-2.86%) and Brunello Cucinelli (-2.79%). Top gainers were Prysmian (3.49%), Unipol Gruppo (2.25%) and Avio (1.73%)."
+    },
+    {
+      "id": "5038034",
+      "time": "2026-08-13 00:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Pixel 11 Pro Fold 今日開啟預購，將於 8 月 20 日上市開售。"
+    },
+    {
+      "id": "5038033",
+      "time": "2026-08-13 00:11:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出 Pixel 11 Pro Fold。"
+    },
+    {
+      "id": "te:markets:574808",
+      "time": "2026-08-13 00:11:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.23% Lower — The DAX Index dropped 60 points or 0.23 percent on Wednesday to close at 26331 points. Losses were led by E.ON (-3.15%), SAP (-2.73%) and Adidas (-2.28%). Offsetting the fall, top gainers were Rheinmetall (2.79%), Siemens Energy (1.98%) and Hochtief (1.12%)."
+    },
+    {
+      "id": "te:markets:574807",
+      "time": "2026-08-13 00:10:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.46% Lower — The CAC 40 Index decreased 40 points or 0.46 percent on Wednesday to close at 8675 points. The decline was led by Essilor (-4.56%), Kering (-3.93%) and Capgemini (-3.52%). On the upside, the strongest performers were Schneider Electric (1.42%), Legrand (1.23%) and Thales (1.19%)."
+    },
     {
       "id": "5038032",
       "time": "2026-08-13 00:08:14",
