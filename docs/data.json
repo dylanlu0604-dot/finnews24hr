@@ -1,7 +1,108 @@
 {
-  "updated": "2026-08-12 23:43:05",
-  "count": 15136,
+  "updated": "2026-08-12 23:51:42",
+  "count": 15142,
   "items": [
+    {
+      "id": "5038021",
+      "time": "2026-08-12 23:49:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "貿易商 SUCAFINA ：哥倫比亞布埃納文圖拉港因開展基礎設施評估，咖啡出口業務暫停。該公司正在評估備選運輸路線及物流方案，“儘可能維持咖啡貨運的連續性”。"
+    },
+    {
+      "id": "5038020",
+      "time": "2026-08-12 23:49:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "GOOGLE：推出 Google Pixel Tag， 產品將於 11 月 11 日上市，使用者可按 29 美元購買，或以 99 美元購入 4‑pack 套裝。"
+    },
+    {
+      "id": "mkt:019ff6a9-0eff-7aab-9010-f2fb7f4e9dee",
+      "time": "2026-08-12 23:48:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google launches Pixel Tag."
+    },
+    {
+      "id": "mkt:019ff6a8-f160-7aab-9010-ecf6074d95f7",
+      "time": "2026-08-12 23:48:14",
+      "tags": [
+        "MKT News",
+        "BlueMoonMetals",
+        "Impact bearish"
+      ],
+      "text": "Short-seller Viceroy Research says it is shorting Blue Moon Metals; the stock is down 8%."
+    },
+    {
+      "id": "mkt:019ff6a8-18ef-7aab-9010-e4d0840b61a3",
+      "time": "2026-08-12 23:47:19",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bearish"
+      ],
+      "text": "Blackstone is considering terminating a $3 billion equity-for-cash deal."
+    },
+    {
+      "id": "5038019",
+      "time": "2026-08-12 23:46:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "軟商品貿易商 SUCAFINA 稱，受地震影響，哥倫比亞大部分產區的咖啡運輸 “嚴重受阻”。"
+    },
+    {
+      "id": "mkt:019ff6a6-6628-7aab-9010-da68ff6cd252",
+      "time": "2026-08-12 23:45:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said Grok 4.6 has an Elo rating of 1,336."
+    },
+    {
+      "id": "mkt:019ff6a5-c8ec-7aab-9010-d592e19d4a87",
+      "time": "2026-08-12 23:44:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Sources: Pakistan seeks extension of US-Iran 60-day ceasefire】Al Arabiya cited sources saying Pakistan is actively mediating to extend the 60-day ceasefire agreed under the US‑Iran memorandum of understanding. Mediators say they need more time to resolve remaining differences between Tehran and Washington; Pakistan is reportedly supportive."
+    },
+    {
+      "id": "5038018",
+      "time": "2026-08-12 23:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【渣打牽頭的Anchorpoint推出港元穩定幣】據一封電子郵件宣告顯示，渣打牽頭的持牌穩定幣發行機構Anchorpoint Financial宣佈推出港元穩定幣。港元穩定幣HKDAP透過測試接入面向機構分銷商和專業投資者推出。"
+    },
+    {
+      "id": "mkt:019ff6a4-9452-7aab-9010-cfd40263933a",
+      "time": "2026-08-12 23:43:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel Defense Forces says it killed a Hamas commander in northern Gaza."
+    },
+    {
+      "id": "5038017",
+      "time": "2026-08-12 23:43:09",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【瑞士擬立法強制延遲銀行高管獎金髮放 最長可達五年】瑞士政府希望把銀行高管獎金遞延數年發放的要求寫入法律，作為瑞信倒閉後加強金融監管的一攬子措施之一。瑞士政府週三公佈的方案顯示，這項措施將適用於包括瑞銀集團在內的大型銀行，可能要求將40%至60%的浮動薪酬遞延發放，最長可達五年。瑞士財政部長Karin Keller-Sutter在伯爾尼表示：“以犧牲金融穩定為代價換取短期回報，絕對不應得到獎勵。”"
+    },
     {
       "id": "5038016",
       "time": "2026-08-12 23:42:21",
@@ -138079,52 +138180,6 @@
         "其他"
       ],
       "text": "道瓊斯指數漲439點，安進與英偉達股價領漲大盤。"
-    },
-    {
-      "id": "5027326",
-      "time": "2026-08-05 23:51:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【族興新材：收購澤明新材控股權並增資】族興新材公告，公司擬現金增資湖南澤明新材料有限公司6000萬元，同時受讓標的公司原股東持有的60.10%股權，交易完成後將持有澤明新材60.10%股份併成為其控股股東。"
-    },
-    {
-      "id": "5027325",
-      "time": "2026-08-05 23:49:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧：美國圍剿哈利斯科新一代販毒集團，懸賞超1億美元徵集線索。"
-    },
-    {
-      "id": "mkt:019fd29c-1a1e-7aab-8f90-867b9bbff291",
-      "time": "2026-08-05 23:47:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Bahrain's royal media adviser said the kingdom's air defense forces have repelled multiple Iranian air attacks in recent hours. Bahrain earlier sounded air-raid sirens amid the threat of strikes."
-    },
-    {
-      "id": "5027324",
-      "time": "2026-08-05 23:45:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院多數黨領袖圖恩提交結束辯論的終止辯論動議，終止針對布蘭奇司法部長提名的參議院辯論。程式性表決將於週五進行。如若票數達標，按照流程，確認投票將在週六舉行。"
-    },
-    {
-      "id": "5027323",
-      "time": "2026-08-05 23:43:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國家安全與國防委員會已批准基輔韌性計劃。"
     }
   ]
 }
