@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-13 05:13:24",
-  "count": 15043,
+  "updated": "2026-08-13 05:17:13",
+  "count": 15044,
   "items": [
+    {
+      "id": "5038147",
+      "time": "2026-08-13 05:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科稱供應鏈並未出現明顯交期問題。"
+    },
+    {
+      "id": "5038146",
+      "time": "2026-08-13 05:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科表示其年度營收指引持審慎態度。"
+    },
+    {
+      "id": "5038145",
+      "time": "2026-08-13 05:14:25",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "截至2026年6月30日，上市公司合計持有128萬枚比特幣（價值760億美元），佔比特幣總供給量的6.11%。Strategy仍是最大持有方，持倉846842枚比特幣。"
+    },
     {
       "id": "mkt:019ff7d2-0f57-7aab-9013-bc9276308a99",
       "time": "2026-08-13 05:12:46",
@@ -137205,22 +137230,6 @@
         "Impact bearish"
       ],
       "text": "【SanDisk guidance disappoints; shares slide as much as 8% after hours】SanDisk (SNDK.O) reported strong fiscal 2026 Q4 results, with revenue and earnings beating consensus; revenue rose 372% YoY and 51% QoQ. Management said the upside reflected a mix shift to higher‑value customers (data‑center revenue +437%) and price increases. Guidance for the next quarter of $10.3–10.8bn in revenue fell short of Street estimates. Options expiring the week of Aug. 7 showed the $1,370 strike with the largest open interest in both calls and puts; intense post‑earnings options activity may have at least partly driven the stock’s weakness. Shares fell as much as 8% in after‑hours trading."
-    },
-    {
-      "id": "5027502",
-      "time": "2026-08-06 05:16:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國化肥供應商CF二季度淨銷售22.2億美元，分析師預期24.4億美元。二季度每股收益（EPS）為4.73美元，上年同期2.37美元。二季度現金與現金等價物24.8億美元，分析師預期27億美元。伊朗衝突造成中東地區的尿素供應縮減400萬-450萬噸。"
-    },
-    {
-      "id": "5027501",
-      "time": "2026-08-06 05:15:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.35%，報14840點。"
     }
   ]
 }
