@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-12 23:06:12",
-  "count": 15151,
+  "updated": "2026-08-12 23:10:23",
+  "count": 15149,
   "items": [
+    {
+      "id": "mkt:019ff685-c573-7aab-9010-27ceaf8ffde5",
+      "time": "2026-08-12 23:09:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Japan plans to provide financial and technical assistance to Persian Gulf countries to rebuild infrastructure damaged in a US-Iran war, aiming to secure stable regional energy supplies."
+    },
+    {
+      "id": "5037997",
+      "time": "2026-08-12 23:09:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康盛股份：董事長兼總經理被取保候審】康盛股份(002418.SZ)公告稱，公司董事長兼總經理王亞駿被司法機關採取取保候審措施，但不影響其履職。經核實，該事項不涉及公司生產經營活動，不涉及公司業務、資產及應披露而未披露的重大事項。截至本公告披露日，王亞駿能夠正常履行董事長及總經理職責，公司董事會運作正常，各項經營管理活動有序開展。"
+    },
+    {
+      "id": "5037996",
+      "time": "2026-08-12 23:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀對沖基金客戶繼續大買美股 單週規模創出2008年以來之最】美國銀行對沖基金客戶以接近創紀錄的金額買入美國股票後一週，投資水平又達到了2008年以來最高。該行Jill Carey Hall牽頭的策略師在研報中寫道，截至8月7日當週，客戶連續第六週淨買入美股，向ETF注入41億美元，從個股撤資24億美元。同期機構和散戶客戶均淨賣出，而企業客戶則加速回購。客戶賣出了11個板塊中的7個，其中工業股資金流出量最大，而科技板塊則錄得有史以來第二大吸金周。"
+    },
+    {
+      "id": "mkt:019ff682-a467-7aab-9010-1adbe3e96db4",
+      "time": "2026-08-12 23:06:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Market sources: Bank of America hedge-fund clients continued to add to US equities; weekly buying intensity hit its highest level since 2008."
+    },
+    {
+      "id": "5037995",
+      "time": "2026-08-12 23:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社報道，葉門胡塞武裝威脅將打擊索馬利亞及其周邊區域內的所有以色列相關目標。"
+    },
+    {
+      "id": "5037994",
+      "time": "2026-08-12 23:05:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【澤璟製藥遞表港交所】據港交所檔案，8月12日，蘇州澤璟生物製藥股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。"
+    },
     {
       "id": "mkt:019ff680-6404-7aab-9010-12d35e6d810e",
       "time": "2026-08-12 23:03:57",
@@ -138171,80 +138224,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4320美元/盎司，日內漲4.04%。"
-    },
-    {
-      "id": "mkt:019fd279-1a52-7aab-8f90-088634932075",
-      "time": "2026-08-05 23:09:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said it has studied various technical, legal, security and environmental aspects of holding talks with Oman on the Strait of Hormuz."
-    },
-    {
-      "id": "5027286",
-      "time": "2026-08-05 23:09:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人5日在社交媒體發文說，伊朗與阿曼已就霍爾木茲海峽擬定航道的地理座標達成一致，兩國聯合宣告已進入終審階段。（新華社）"
-    },
-    {
-      "id": "mkt:019fd277-27d1-7aab-8f90-06f443240dec",
-      "time": "2026-08-05 23:07:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "【US services activity maintains steady expansion; demand resilience supports growth】US services activity remained in steady expansion in July as new orders and business activity recovered. The ISM services index rose 0.1 point to 54.1 (expansion >50); new orders accelerated and the business-activity gauge reached a five-month high. Cost pressures intensified: the ISM input-price index jumped to 70.3 in July after the collapse of a temporary US–Iran agreement pushed oil and gasoline prices higher, and services and materials costs continued to rise. The employment subindex showed the largest reduction in staff since March; with elevated costs squeezing margins and weighing on consumer spending, some firms may delay hiring."
-    },
-    {
-      "id": "5027285",
-      "time": "2026-08-05 23:07:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊阿敲定霍爾木茲海峽協議草案 待伊朗最高領袖審批】兩名中東地區官員表示，伊朗與阿曼談判代表已敲定一份重新開放霍爾木茲海峽的協議草案，正等待伊朗最高領袖穆傑塔巴的最終批准。該擬議臨時安排規定，駛入波斯灣的船舶經由伊朗管控航道通行，駛出波斯灣的船舶經由阿曼管控航道通行，同時將收取用於安保與環境保護的服務費。官員稱，這份協議或將為美伊重啟伊朗核專案相關談判鋪平道路。"
-    },
-    {
-      "id": "mkt:019fd276-d47e-7aab-8f8f-f827a233238f",
-      "time": "2026-08-05 23:07:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian President LULA said he cannot accept interference in Brazil's elections."
-    },
-    {
-      "id": "5027284",
-      "time": "2026-08-05 23:06:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列談判團隊訊息人士：因黎巴嫩代表團多次帶有偏向性的訊息洩露，以色列大使耶希爾·萊特在羅馬以黎談判預定結束時間約三小時前，要求美方暫停此次談判。談判預計將於次日恢復。"
-    },
-    {
-      "id": "mkt:019fd276-4f29-7aab-8f8f-f4f291d2fab3",
-      "time": "2026-08-05 23:06:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said US President Trump is our best friend, but he has made clear Israel's existence is non-negotiable."
-    },
-    {
-      "id": "5027283",
-      "time": "2026-08-05 23:06:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西總統盧拉：我們不能接受對巴西選舉的干涉。"
     }
   ]
 }

@@ -1,7 +1,60 @@
 {
   "date": "2026-08-12",
-  "count": 2725,
+  "count": 2731,
   "items": [
+    {
+      "id": "mkt:019ff685-c573-7aab-9010-27ceaf8ffde5",
+      "time": "2026-08-12 23:09:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports Japan plans to provide financial and technical assistance to Persian Gulf countries to rebuild infrastructure damaged in a US-Iran war, aiming to secure stable regional energy supplies."
+    },
+    {
+      "id": "5037997",
+      "time": "2026-08-12 23:09:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康盛股份：董事長兼總經理被取保候審】康盛股份(002418.SZ)公告稱，公司董事長兼總經理王亞駿被司法機關採取取保候審措施，但不影響其履職。經核實，該事項不涉及公司生產經營活動，不涉及公司業務、資產及應披露而未披露的重大事項。截至本公告披露日，王亞駿能夠正常履行董事長及總經理職責，公司董事會運作正常，各項經營管理活動有序開展。"
+    },
+    {
+      "id": "5037996",
+      "time": "2026-08-12 23:06:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀對沖基金客戶繼續大買美股 單週規模創出2008年以來之最】美國銀行對沖基金客戶以接近創紀錄的金額買入美國股票後一週，投資水平又達到了2008年以來最高。該行Jill Carey Hall牽頭的策略師在研報中寫道，截至8月7日當週，客戶連續第六週淨買入美股，向ETF注入41億美元，從個股撤資24億美元。同期機構和散戶客戶均淨賣出，而企業客戶則加速回購。客戶賣出了11個板塊中的7個，其中工業股資金流出量最大，而科技板塊則錄得有史以來第二大吸金周。"
+    },
+    {
+      "id": "mkt:019ff682-a467-7aab-9010-1adbe3e96db4",
+      "time": "2026-08-12 23:06:24",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Market sources: Bank of America hedge-fund clients continued to add to US equities; weekly buying intensity hit its highest level since 2008."
+    },
+    {
+      "id": "5037995",
+      "time": "2026-08-12 23:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社報道，葉門胡塞武裝威脅將打擊索馬利亞及其周邊區域內的所有以色列相關目標。"
+    },
+    {
+      "id": "5037994",
+      "time": "2026-08-12 23:05:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【澤璟製藥遞表港交所】據港交所檔案，8月12日，蘇州澤璟生物製藥股份有限公司向港交所提交上市申請書，獨家保薦人為中金公司。"
+    },
     {
       "id": "mkt:019ff680-6404-7aab-9010-12d35e6d810e",
       "time": "2026-08-12 23:03:57",
