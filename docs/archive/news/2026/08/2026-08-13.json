@@ -1,7 +1,54 @@
 {
   "date": "2026-08-13",
-  "count": 87,
+  "count": 92,
   "items": [
+    {
+      "id": "mkt:019ff721-b8e0-7aab-9012-2334ff2a9f40",
+      "time": "2026-08-13 02:00:10",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. July federal budget deficit widened to $432 bln, vs. $346 bln expected; June deficit was $120 bln."
+    },
+    {
+      "id": "mkt:019ff721-942d-7aab-9012-1db4d9e5f609",
+      "time": "2026-08-13 02:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Government Budget (Jul) | actual -432000000000B | consensus -346000000000B | previous -120000000000B"
+    },
+    {
+      "id": "5038069",
+      "time": "2026-08-13 01:59:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克總理：9月30日為國際聯盟撤軍最後期限】當地時間12日，據伊拉克總理媒體辦公室宣告，伊拉克總理扎伊迪當天會見了到訪的美軍中央司令部司令庫珀。會晤期間，扎伊迪重申了伊方對既定時間表的承諾，即9月30日是國際聯盟部隊結束在伊拉克軍事任務並完成撤軍的最終日期。扎伊迪表示，10月1日將是伊拉克歷史上嶄新的一天，屆時伊拉克將徹底擺脫所有外國軍事存在，實現本國領土主權，持續增強本國安全和軍事能力，維護自身安全與穩定。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff721-2d0b-7aab-9012-1119e3946451",
+      "time": "2026-08-13 01:59:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports a Yemeni government drone strike hit a Houthi assembly point in Al Jawf province."
+    },
+    {
+      "id": "5038068",
+      "time": "2026-08-13 01:59:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國7月政府預算 -4323.08億美元，預期 -3460億美元，前值 -2911億美元。"
+    },
     {
       "id": "5038067",
       "time": "2026-08-13 01:57:26",
