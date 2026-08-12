@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 00:18:11",
-  "count": 15126,
+  "updated": "2026-08-13 00:22:26",
+  "count": 15124,
   "items": [
+    {
+      "id": "mkt:019ff6c4-49f1-7aab-9011-3b8251ef4505",
+      "time": "2026-08-13 00:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently."
+    },
     {
       "id": "5038035",
       "time": "2026-08-13 00:16:05",
@@ -137986,30 +137994,6 @@
         "MKT News"
       ],
       "text": "NTSB chair says the board is considering whether to open an investigation into a loss-of-separation incident involving President Trump’s helicopter."
-    },
-    {
-      "id": "5027353",
-      "time": "2026-08-06 00:21:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克安全代表團將訪問沙烏地阿拉伯。"
-    },
-    {
-      "id": "5027352",
-      "time": "2026-08-06 00:19:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "菲利普斯66執行長：全球煉油行業正遭遇供給衝擊，而非需求衝擊。"
-    },
-    {
-      "id": "mkt:019fd2b8-b16a-7aab-8f90-e2e5bff9d26f",
-      "time": "2026-08-06 00:19:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Axios: US-brokered Israel-Lebanon talks in Rome end early after local situation change】US officials told Axios the US-brokered Israel-Lebanon talks in Rome ended at 15:30 Rome time after changes in the local situation prompted an early adjournment. Both sides will resume talks tomorrow morning. Discussions covered political and military issues and made very positive progress. Technical teams advanced on key implementation details of a tripartite framework."
     }
   ]
 }

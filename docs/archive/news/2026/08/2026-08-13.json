@@ -1,7 +1,15 @@
 {
   "date": "2026-08-13",
-  "count": 26,
+  "count": 27,
   "items": [
+    {
+      "id": "mkt:019ff6c4-49f1-7aab-9011-3b8251ef4505",
+      "time": "2026-08-13 00:18:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently."
+    },
     {
       "id": "5038035",
       "time": "2026-08-13 00:16:05",
