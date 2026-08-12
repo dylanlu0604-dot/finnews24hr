@@ -1,7 +1,75 @@
 {
   "date": "2026-08-12",
-  "count": 1129,
+  "count": 1137,
   "items": [
+    {
+      "id": "5036938",
+      "time": "2026-08-12 14:15:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海上半年淨利潤1,099億元新臺幣。"
+    },
+    {
+      "id": "5036937",
+      "time": "2026-08-12 14:15:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河南、湖北等地遭遇強風雨天氣 部分列車停運】受颱風殘餘環流影響，河南、湖北等地目前仍處於強風雨天氣當中，鐵路部門啟動應急響應，對部分列車採取停運措施。根據鐵路部門公告，今天（12日），途經鄭州局管內的多趟列車採取臨時停運措施，主要涉及杭州至西安、西寧至杭州、大同至杭州、溫州至西安、上海至石家莊、長春至昆明、北京西至襄陽、石家莊至上海、溫州至鄭州方向。鄭州局管內始發的部分車次今天也相繼停運，相關車次包括：南陽至上海淞江、洛陽至寧波、鄭州至溫州、許昌至日照、新鄉至崑山方向。同時，今天武昌至海拉爾、西安至武昌、烏魯木齊至武昌、武昌至烏魯木齊、西安至武昌、深圳東至襄陽等方向52趟列車臨時停運。（央視新聞）"
+    },
+    {
+      "id": "te:markets:574635",
+      "time": "2026-08-12 14:14:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Holds Near 2-Month High — Palladium futures climbed toward $1,370 per ounce, remaining near more than two-month highs as reduced expectations for a Federal Reserve rate hike and broader strength across precious metals supported demand. Markets price in about a 50% chance of a September Fed hike, down from 60% before last week’s weaker-than-expected US jobs report, with lower rates generally supporting non-yielding precious metals. Meanwhile, heightened geopolitical tensions supported precious metals, as attacks on shipping by the US and Yemen’s Iran-aligned Houthis and uncertainty over the Iran conflict kept safe-haven demand elevated. On the supply front, concerns over disruptions in South Africa and uncertainty over Russian exports continue to support prices, with extended maintenance at South African processing facilities reducing refined PGM output amid tight inventories. Over the past month, palladium has risen 9.58% and is up 21.67% year-on-year."
+    },
+    {
+      "id": "5036936",
+      "time": "2026-08-12 14:14:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：滙豐銀行全球保險業務主管辭職。"
+    },
+    {
+      "id": "5036935",
+      "time": "2026-08-12 14:13:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "在人工智慧雲端計算服務需求激增的推動下，CoreWeave股價在Tradegate平臺大漲15.3%，此前該公司第二季度業績超出預期。"
+    },
+    {
+      "id": "5036934",
+      "time": "2026-08-12 14:13:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報1628.50點。"
+    },
+    {
+      "id": "5036933",
+      "time": "2026-08-12 14:13:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.4%，報9209.40點。"
+    },
+    {
+      "id": "5036932",
+      "time": "2026-08-12 14:12:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受強降雨影響 天津濱海機場多架航班取消或延誤】8月12日，天津多地迎來強降雨天氣，受天氣影響，截至12時30分，天津濱海機場航班已取消4架次，延誤13架次，往西南方向，成都、貴陽、昆明航班受影響較大。同時，因天津市境內降雨，S2津寧高速全線收費站入口封閉。G25長深高速漢沽農場收費站、蘆臺收費站、漢沽收費站、清河農場收費站、中心橋收費站入口限行黃牌貨車。（央視新聞）"
+    },
     {
       "id": "5036931",
       "time": "2026-08-12 14:10:47",
