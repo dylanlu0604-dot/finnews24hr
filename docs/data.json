@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-13 00:54:56",
-  "count": 15097,
+  "updated": "2026-08-13 00:58:53",
+  "count": 15093,
   "items": [
+    {
+      "id": "mkt:019ff6e8-f110-7aab-9011-770a2e0c3941",
+      "time": "2026-08-13 00:58:08",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) rose to an intraday high, extending gains to 8.5%."
+    },
+    {
+      "id": "5038050",
+      "time": "2026-08-13 00:56:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX漲幅擴大至8%，總市值達1.9萬億美元，本月已累升逾32%。"
+    },
+    {
+      "id": "mkt:019ff6e6-5c0a-7aab-9011-690305963a6c",
+      "time": "2026-08-13 00:55:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Etna eruption continues; Catania airport suspends flights】Etna volcano on Sicily has been erupting since early August. The Italian National Institute of Geophysics and Volcanology (INGV) reported on Aug 12 multiple new vents, lava flows advancing downslope and an ash cloud drifting south and southwest. Catania airport suspended all arrivals and departures on Aug 12; restrictions remained in place until Aug 13 16:00 local time."
+    },
     {
       "id": "mkt:019ff6e4-0c57-7aab-9011-622acd671236",
       "time": "2026-08-13 00:52:48",
@@ -137686,70 +137711,6 @@
         "國際"
       ],
       "text": "伊朗副外長：已與阿曼就幾乎所有提出的問題達成初步共識。"
-    },
-    {
-      "id": "mkt:019fd2dc-253b-7aab-8f91-b0f21c15fded",
-      "time": "2026-08-06 00:57:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GFZ (German Research Centre for Geosciences) reported a 5.8 magnitude earthquake near Halmahera, Indonesia."
-    },
-    {
-      "id": "mkt:019fd2db-85c8-7aab-8f91-a89fcc6422ca",
-      "time": "2026-08-06 00:57:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says he is discussing with allies how to continue supplying urgently needed air defense systems to Ukraine."
-    },
-    {
-      "id": "mkt:019fd2db-11ab-7aab-8f91-a25b2204f14b",
-      "time": "2026-08-06 00:56:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said a potential transit route through the Strait of Hormuz agreed with Oman may be operational within 2-4 months."
-    },
-    {
-      "id": "mkt:019fd2d9-f638-7aab-8f91-9ee59aa7b260",
-      "time": "2026-08-06 00:55:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM News reported Yemen said Saudi Arabia must understand that the persistence and escalation of tensions are a direct result of the continued presence of the factors that produced the situation."
-    },
-    {
-      "id": "mkt:019fd2d9-b822-7aab-8f91-95102dde241b",
-      "time": "2026-08-06 00:55:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "TASNIM NEWS: Yemen said attacks on vessels in waters north of Yanbu signal that alternative routes cannot bypass a 'blockade for blockade' situation."
-    },
-    {
-      "id": "5027380",
-      "time": "2026-08-06 00:55:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長表示，伊朗與阿曼談判敲定的潛在過境航線可維持2至4個月的正常運作。"
-    },
-    {
-      "id": "5027379",
-      "time": "2026-08-06 00:54:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：就俄對烏城市打擊同澤連斯基溝通，將協調盟友保障烏克蘭防空需求。"
     }
   ]
 }
