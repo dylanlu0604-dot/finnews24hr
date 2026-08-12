@@ -1,7 +1,105 @@
 {
-  "updated": "2026-08-13 01:02:48",
-  "count": 15085,
+  "updated": "2026-08-13 01:06:43",
+  "count": 15088,
   "items": [
+    {
+      "id": "5038054",
+      "time": "2026-08-13 01:05:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "馬斯克：綜合智慧水平、速度與成本來看，Grok 4.6 客觀排名第一。"
+    },
+    {
+      "id": "5038053",
+      "time": "2026-08-13 01:05:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債拍賣收益率創2007年以來新高。"
+    },
+    {
+      "id": "mkt:019ff6ed-f6a3-7aab-9011-a94a1158b95d",
+      "time": "2026-08-13 01:03:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 10-year Treasury auction as of Aug 12: share of awards at the stop-out yield 65.27% (prior 40.29%)."
+    },
+    {
+      "id": "mkt:019ff6ed-d6ad-7aab-9011-a6d965103c4f",
+      "time": "2026-08-13 01:03:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 10-Year Note Auction Accepted at High (Aug.12) | actual 65.27% | previous 40.29%"
+    },
+    {
+      "id": "mkt:019ff6ed-d6a3-7aab-9011-9f2beabe3386",
+      "time": "2026-08-13 01:03:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "At the Aug 12 US 10-year Treasury auction, bid-cover ratio 2.53, versus 2.59 previously."
+    },
+    {
+      "id": "mkt:019ff6ed-afaa-7aab-9011-975d5a363d27",
+      "time": "2026-08-13 01:03:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 10-Year Note Auction Bid/Cover Ratio (Aug.12) | actual 2.53 | previous 2.59"
+    },
+    {
+      "id": "5038052",
+      "time": "2026-08-13 01:03:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至8月12日10年期國債競拍-得標利率 4.683%，前值4.58%。\n美國至8月12日10年期國債競拍-投標倍數 2.53，前值2.59。"
+    },
+    {
+      "id": "mkt:019ff6ed-a792-7aab-9011-8b1a50f4954f",
+      "time": "2026-08-13 01:03:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. 10-year Treasury auction on Aug 12: stop-out yield 4.683%, prior 4.58%."
+    },
+    {
+      "id": "mkt:019ff6ed-8ac9-7aab-9011-8226cd18865e",
+      "time": "2026-08-13 01:03:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | 10-Year Note Auction High Yield Rate (Aug.12) | actual 4.683% | previous 4.58%"
+    },
     {
       "id": "mkt:019ff6ec-0fc0-7aab-9011-7da3d98e2393",
       "time": "2026-08-13 01:01:33",
@@ -137585,54 +137683,6 @@
         "國際"
       ],
       "text": "以色列國防軍：需要在黎巴嫩採取更堅決、更顯著的回應。"
-    },
-    {
-      "id": "mkt:019fd2e4-4085-7aab-8f91-eab298f9cc78",
-      "time": "2026-08-06 01:06:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lula says U.S. revocation of Brazil ambassador's visa 'irresponsible'】Brazilian President Lula said on Aug. 5 the U.S. government's Aug. 4 decision to revoke the visa of Brazil's ambassador to the U.S. was \"irresponsible\" and poorly considered. Washington revoked the visa in retaliation after Brazil on July 25 refused visas for two senior U.S. State Department officials and has delayed accepting President Trump's nominee for ambassador to Brazil. Brazil suspects the U.S. officials' planned visit was intended to interfere in Brazil's Oct. presidential election; Lula said Brazil will not accept electoral interference."
-    },
-    {
-      "id": "5027388",
-      "time": "2026-08-06 01:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：美國違反了諒解備忘錄中的所有義務，因為它重新實施了海上封鎖並恢復了戰爭。"
-    },
-    {
-      "id": "5027387",
-      "time": "2026-08-06 01:05:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：關於霍爾木茲海峽的任何諒解備忘錄都必須僅限於伊朗和阿曼之間，我們絕不會接受任何形式的外部干預。"
-    },
-    {
-      "id": "mkt:019fd2e2-92df-7aab-8f91-e6d2eb2283f9",
-      "time": "2026-08-06 01:04:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said Iran is demanding changes to shipping lanes in the Strait of Hormuz, saying the current routes are no longer suitable given the security situation."
-    },
-    {
-      "id": "5027386",
-      "time": "2026-08-06 01:04:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜旗下Zoox將在拉斯維加斯推出付費乘車服務。"
-    },
-    {
-      "id": "5027385",
-      "time": "2026-08-06 01:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：新（達成）方案的設計將使船舶在駛入以及駛出航線的部分割槽段時，均需經過伊朗水域。"
     }
   ]
 }
