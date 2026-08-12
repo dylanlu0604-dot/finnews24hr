@@ -1,7 +1,74 @@
 {
   "date": "2026-08-12",
-  "count": 1830,
+  "count": 1839,
   "items": [
+    {
+      "id": "5037454",
+      "time": "2026-08-12 18:00:56",
+      "tags": [],
+      "text": "【中共中央 全國人大常委會 國務院 全國政協訃告 朱鎔基同志逝世】 ​​​"
+    },
+    {
+      "id": "5037453",
+      "time": "2026-08-12 18:00:52",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【中共中央 全國人大常委會 國務院 全國政協訃告 朱鎔基同志逝世】中國共產黨中央委員會、中華人民共和國全國人民代表大會常務委員會、中華人民共和國國務院、中國人民政治協商會議全國委員會沉痛宣告：中國共產黨的優秀黨員，久經考驗的忠誠的共產主義戰士，傑出的無產階級革命家、政治家，黨和國家的卓越領導人，中國共產黨第十四屆、十五屆中央政治局常委，國務院原總理朱鎔基同志，因病醫治無效，於2026年8月12日11時06分在北京逝世，享年98歲。（新華社）"
+    },
+    {
+      "id": "te:markets:574722",
+      "time": "2026-08-12 18:00:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Swing on Hormuz Uncertainty — Crude oil remained volatile on Wednesday, fluctuating around $83 per barrel, as investors weighed conflicting signals surrounding a potential agreement between the US and Iran. President Donald Trump said the US had “total control over the Strait of Hormuz” as negotiations over the key waterway remain deadlocked. The increasingly confrontational rhetoric raised further doubts about the prospects of an immediate agreement to reopen the critical shipping route. Meanwhile, Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” regarding the Strait of Hormuz, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, industry data showed US crude inventories increased by 9.1 million barrels last week, marking their biggest weekly rise since February."
+    },
+    {
+      "id": "5037452",
+      "time": "2026-08-12 18:00:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度孟買Sensex指數盤中收報77966.35點，初步收盤下跌0.2%。"
+    },
+    {
+      "id": "5037451",
+      "time": "2026-08-12 18:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺8月12日18時繼續釋出暴雨橙色預警。"
+    },
+    {
+      "id": "5037450",
+      "time": "2026-08-12 18:00:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波富邦：證券簡稱自2026年8月18日起變更為富邦新材】寧波富邦公告，公司2026年第二次臨時股東會審議透過變更公司名稱、證券簡稱並修訂公司章程的議案，並於2026年8月12日完成工商變更登記。公司證券簡稱自2026年8月18日起由“寧波富邦”變更為“富邦新材”，證券程式碼“600768”保持不變。"
+    },
+    {
+      "id": "5037449",
+      "time": "2026-08-12 17:58:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【但斌美股持倉“大換血”】但斌美股持倉最新出爐。私募排排網最新資料顯示，截至2026年二季度末，東方港灣海外基金共持有13只美股標的，持股市值合計約為16.50億美元，以當前匯率折算約為111億元人民幣，相比2026年一季度末約11.33億美元的持股市值增長約45.63%。從調倉動作來看，相比一季度，東方港灣海外基金的美股持倉可謂“大換血”。具體操作上，東方港灣海外基金清倉了蘋果、三倍做多納斯達克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只標的。同時，其新買入英特爾、閃迪、超威半導體、邁威爾科技、Arm Holdings plc ADR、博通、Lumentum等7只標的，上述標的均為AI硬體相關公司。從整體的持倉情況來看，東方港灣美股第一大重倉股仍為谷歌-C，持倉佔其組合的比重約為23%，相比一季度有所減倉。同時，東方港灣還清倉了谷歌-A及二倍做多谷歌ETF。（上證報）"
+    },
+    {
+      "id": "5037448",
+      "time": "2026-08-12 17:57:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗阿巴斯港國際機場將於近期恢復航班運營】當地時間12日，伊朗南部霍爾木茲甘省機場管理局宣佈，該省阿巴斯港國際機場將於當地時間15日（週六）恢復航班運營。（央視新聞）"
+    },
     {
       "id": "mkt:019ff567-701c-7aab-9006-eb4bd5dc2b53",
       "time": "2026-08-12 17:57:04",
@@ -28,6 +95,14 @@
         "WTI"
       ],
       "text": "Japanese Prime Minister Takaichi said she was concerned about the current situation in the Bab el-Mandeb from an energy-security perspective and urged Iran to exert greater pressure on Houthi forces to ensure they exercise restraint."
+    },
+    {
+      "id": "5037445",
+      "time": "2026-08-12 17:56:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓特檢組以“傳播主張實施緊急戒嚴正當性資訊”起訴尹錫悅】韓國綜合特別檢察組12日以涉嫌在宣佈緊急戒嚴後，下達“向盟友傳達主張實施緊急戒嚴正當化的資訊”指示為由，對前總統尹錫悅和前國家安全室長申源湜提出起訴。特檢組當天表示，已對前總統尹錫悅以濫用職權妨礙權利行使的嫌疑提出起訴，對前國家安保室長申源湜則以從事叛亂重要任務及濫用職權妨礙權利行使的嫌疑提出了起訴。特檢組指出，尹錫悅在宣佈緊急戒嚴的2024年12月3日以及4日兩天內，向美國、英國、日本、歐盟等主要盟友傳達了為戒嚴令辯護的資訊；特檢組因此以涉嫌濫用職權，指使國家安保室、外交部等的公務員從事無義務的工作而提出起訴。（央視新聞）"
     },
     {
       "id": "mkt:019ff566-5ae5-7aab-9006-d9dd64156e21",
