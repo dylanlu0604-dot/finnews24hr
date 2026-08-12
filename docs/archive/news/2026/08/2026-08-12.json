@@ -1,7 +1,71 @@
 {
   "date": "2026-08-12",
-  "count": 917,
+  "count": 924,
   "items": [
+    {
+      "id": "5036776",
+      "time": "2026-08-12 11:18:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報89.81美元/桶。"
+    },
+    {
+      "id": "mkt:019ff3fa-886a-7aab-9000-0158cb0c09a9",
+      "time": "2026-08-12 11:18:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "【Bessent-Takaichi split over BOJ policy could undermine yen rebound】Analysts say a fundamental split between US Treasury Secretary Bessent and Japanese Prime Minister Takaichi on Bank of Japan policy could weaken recent US-Japan efforts to push the yen higher. Over the past year Bessent has signalled tighter monetary policy is crucial to addressing yen weakness; Takaichi has warned rapid, large rate increases could derail Japan's recovery. Since Takaichi took office in October the BOJ has hiked twice but the policy rate remains low at 1%. Last month the US carried out its first yen intervention since 1998 while the BOJ stood pat — a mixed policy signal that contrasts with historical experience that reshaping market expectations typically requires sustained, forceful action. Peter Vassallo, portfolio manager at BNP Paribas Asset Management US, called the episode a \"golden opportunity\" missed."
+    },
+    {
+      "id": "5036775",
+      "time": "2026-08-12 11:18:08",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【瑞銀財富管理：即將公佈的業績料為中國大型網際網路公司重估帶來動力】瑞銀財富管理投資總監辦公室發表機構觀點稱，中國市場的機會正日益擴大且更為均衡，科技板塊半導體裝置仍是首選，即將公佈的第二季度業績有望為大型網際網路公司的重估帶來動力。觀點稱，亞洲市場的板塊輪動日趨明顯，先前表現落後的市場（如MSCI中國指數）大幅跑贏東亞其他市場，上漲範圍擴大的趨勢有望延續。各行業盈利逐漸回穩，AI的結構性增長邏輯未變，國產化程序及國內超大規模雲服務商的需求，繼續支援中國本土硬體供應鏈。即將公佈的財報有望為中國網際網路板塊提供更清晰的訊號，比如雲業務增長是否加速、AI變現進展，以及核心業務的利潤率走勢等。股票回購持續、潛在的AI資產分拆以及監管環境趨穩，也應為網際網路板塊的重估增添助力。科技之外，也看好電力及醫療保健板塊；市況波動下，銀行、保險、精選的公用事業和日常消費板塊具備防禦性的現金流和收益。"
+    },
+    {
+      "id": "5036774",
+      "time": "2026-08-12 11:17:18",
+      "tags": [],
+      "text": "韓國綜合指數漲幅擴大至5％，三星電子、SK海力士均漲超8％。"
+    },
+    {
+      "id": "mkt:019ff3f9-184c-7aab-8fff-fb3b9917eceb",
+      "time": "2026-08-12 11:16:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI index surged 5.00% intraday to 6,665.78 points."
+    },
+    {
+      "id": "5036773",
+      "time": "2026-08-12 11:16:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲5%，至6665.78點。"
+    },
+    {
+      "id": "5036772",
+      "time": "2026-08-12 11:15:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江：到2027年，腦機介面未來產業營收超過50億元】8月12日，浙江省人民政府辦公廳印發關於推進腦機介面產學研聯動的若干措施的通知。通知要求，聚焦腦機介面領域科技創新和產業創新深度融合，以醫療、消費、工業等重大應用場景建設為牽引，貫穿協同攻關、成果轉化、推廣應用、產業培育全鏈條，構建產業共培、資源統籌、風險共擔、利益共享的產學研聯動機制，建設腦機介面一流創新生態。到2027年，企業主導的產學研聯動機制有效執行，腦機介面核心軟硬體自主創新能力大幅提升，研發5個以上代表性產品並率先實現驗證應用，腦機介面未來產業營收超過50億元。到2030年，產學研聯動機制高效執行，腦機介面領域科技創新和產業創新深度融合，形成一批典型應用場景和商業化應用產品，培育一批科技領軍企業，建成具有較強國際競爭力的腦機介面技術和產業創新高地。"
+    },
     {
       "id": "5036771",
       "time": "2026-08-12 11:15:04",
