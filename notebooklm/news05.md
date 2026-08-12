@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-13 01:06:43_
-_本檔包含 3136 則快訊，約 591619 字_
+_更新時間：2026-08-13 02:02:09_
+_本檔包含 3118 則快訊，約 591010 字_
+
+---
+
+### 2026-08-07 10:03:20  #國際
+
+菲律賓第二季度出口同比增長12.2%。
+
+---
+
+### 2026-08-07 10:03:08  #其他
+
+【八仙票房破13億】據貓眼專業版資料，電影 《八仙！》 上映21天， 總票房破13億。
+
+---
+
+### 2026-08-07 10:02:58  #市場 #焦點
+
+現貨黃金突破4260美元/盎司，日內漲0.47%。
+
+---
+
+### 2026-08-07 10:02:55  #國際
+
+菲律賓第二季度工業產出同比下降2.4%；服務業產出同比增長4.5%。
+
+---
+
+### 2026-08-07 10:02:19  #國際
+
+菲律賓第二季度GDP環比增長0.6%；預估0.7%。
+
+---
+
+### 2026-08-07 10:02:05  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Set for Muted Week — The Australian dollar fell to around $0.70, pulling back from a seven-week high and on track to finish the week largely unchanged as renewed tensions in the Middle East dampened risk sentiment. The US dollar strengthened, while oil prices climbed following reports of Iranian attacks in the Strait of Hormuz and a lack of clarity on an agreement to reopen the crucial waterway. Higher energy prices revived inflation concerns and reinforced expectations that global interest rates could remain higher for longer. In Australia, after three rate hikes this year, markets are pricing in virtually no chance of a rate increase at the Reserve Bank's monetary policy meeting next week following softer-than-expected second-quarter inflation data. Investors are also assigning little chance of a move in September, while pricing roughly a 60% probability of a rate hike in November if third-quarter inflation proves stronger than expected.
+
+---
+
+### 2026-08-07 10:02:03  #市場 #焦點
+
+科創50日內漲幅達1.02%，成分股中，生益電子漲6.17%，源傑科技漲3.10%，佰維儲存漲2.97%，大全能源漲2.95%。
+
+---
+
+### 2026-08-07 10:01:56  #其他
+
+【哥倫比亞新任總統將於今日就職】哥倫比亞新任總統德拉埃斯普列亞將於當地時間7日就職。德拉埃斯普列亞今年6月當選哥倫比亞新一任總統。
+
+---
+
+### 2026-08-07 10:01:46  #其他
+
+【航行警告！北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，8月7日7時至19時、8月8日7時至13時，北部灣部分海域進行軍事訓練，禁止船舶駛入。 （央視軍事）
+
+---
+
+### 2026-08-07 10:01:41  #公司
+
+【電氣風電在大連成立風電裝備新公司】企查查APP顯示，近日，上電（大連）風電裝備有限公司成立，經營範圍包含發電機及發電機組製造；海上風電相關裝備銷售；海上風電相關係統研發；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由電氣風電(688660)全資持股。
+
+---
+
+### 2026-08-07 10:01:30  #國際
+
+菲律賓第二季度GDP同比增長2.3% 預估為2.9%。
+
+---
+
+### 2026-08-07 10:01:03  #市場
+
+現貨白銀日內漲1%，現報62.14美元/盎司。
+
+---
+
+### 2026-08-07 10:00:55  #其他
+
+【北京啟動防汛四級應急響應】北京市防汛辦：北京市8月7日9時釋出暴雨藍色預警訊號，並啟動防汛四級應急響應。
+
+---
+
+### 2026-08-07 10:00:27  #國際
+
+【我國牽頭修訂的黑色金屬材料熱處理基礎領域國際標準釋出】國際標準化組織近日釋出由我國牽頭修訂的熱處理基礎國際標準《黑色金屬材料—熱處理—術語》。該標準由我國專家擔任工作組召集人和專案負責人，德國、日本、芬蘭、法國、義大利等多國專家共同參與，這是我國在黑色金屬材料熱處理基礎領域牽頭修訂的首項國際標準。
+
+---
+
+### 2026-08-07 09:58:57  #市場
+
+【創新藥概念持續走高 哈三聯、百花醫藥等漲停】創新藥概念持續走高，截至發稿，哈三聯、百花醫藥等漲停，譽衡藥業、隴神戎發、立方製藥等跟漲。
+
+---
+
+### 2026-08-07 09:58:10  #MKT News
+
+【Zijin says its Congo copper products not covered by reported DRC concentrate export ban】Aug 7 — Market reports said the Democratic Republic of Congo issued an administrative order banning exports of copper and cobalt concentrates. Zijin Mining said its Kolwezi unit produces crude and electrolytic (cathode) copper and Kamoa-Kakula produces anode plates and crude copper, which are not covered by the reported ban. Separately, Hanrui Cobalt said the DRC had previously tightened concentrate exports and that the measures do not affect the company; its Congo copper is electrolytic copper processed and sold locally, and any ban that lifts copper prices would likely benefit its product realizations. Hanrui added its cobalt is initially processed into cobalt hydroxide before shipment to China.
+
+---
+
+### 2026-08-07 09:57:29  #公司 #市場
+
+【稀土永磁板塊直線拉昇，中國稀土漲停】稀土永磁板塊直線拉昇，中國稀土漲停，中科磁業、方邦股份、九菱科技漲超10%，有研新材、中稀有色、盛和資源、北方稀土、奔朗新材跟漲。
+
+---
+
+### 2026-08-07 09:56:42  #公司 #市場
+
+【紫金礦業最新回應：旗下相關銅礦不屬於剛果（金）禁止出口的產品】有市場訊息稱，剛果（金）已釋出最新行政指令，決定徹底禁止銅精礦與鈷精礦的出口。對此，8月7日，紫金礦業方面回應記者，公司旗下科盧韋齊銅礦的產品為粗銅及電積銅，卡莫阿-卡庫拉銅礦的產品為陽極板及粗銅，不屬於剛果（金）禁止出口的產品。在此之前，寒銳鈷業相關負責人稱，剛果（金）此前就已經收緊精礦出口，相關事項對公司不造成影響。“公司在剛果（金）的銅產品是電積銅，需求較為旺盛，在當地就實現了加工與銷售。相關禁令如刺激銅價上漲，將對公司產品售價形成一定利好。鈷產品則是初加工為氫氧化鈷等鈷中間產品後運回國內。”上述負責人表示。洛陽鉬業相關人士則在社交平臺公開表示，公司在剛果（金）TFM和KFM兩座礦山的產品為陰極銅和氫氧化鈷，沒有精礦。此外，洛陽鉬業網站也顯示，公司主要面向國際市場銷售的鈷產品是氫氧化鈷。(中證金牛座)
+
+---
+
+### 2026-08-07 09:56:24  #國際
+
+颱風“海豚”逼近日本，日本已下令疏散民眾，並取消500架航班。
+
+---
+
+### 2026-08-07 09:56:00  #MKT News
+
+【Largest central China robot delivery staged in Optics Valley (Wuhan)】Nearly 100 industrial inspection robots were delivered on Aug. 6 at the Hubei Humanoid Robot Innovation Center in Optics Valley (Wuhan). Wuhan-based Chengxin Zhilian (Wuhan) Technology Co. said the units will be deployed for security patrols in Wuhan, Shanghai and Wuxi and represent the largest concentrated delivery in central China’s robotics sector; the first onsite batch comprised 30 Xun1-series quadruped robots. The company said the robots autonomously navigate to cloud-assigned locations with millimeter-level positioning accuracy.
 
 ---
 
@@ -18709,233 +18829,5 @@ Russia's Energy Ministry said the government has approved production, import and
 ### 2026-08-06 02:02:18  #國際
 
 俄羅斯能源部訊息，俄政府已批准2027年7月1日前允許生產、進口及銷售歐2、歐3、歐4標準汽油。
-
----
-
-### 2026-08-06 01:59:47  #MKT News
-
-Al Jazeera reported the foreign ministers of Saudi Arabia, Egypt, Turkey and Pakistan discussed efforts to de-escalate tensions and address current security challenges.
-
----
-
-### 2026-08-06 01:55:46  #Trading Economics #Economy #Uruguay #Inflation Rate #Importance 1
-
-Uruguay Inflation Rises Slightly in July — Uruguay’s annual inflation rate edged up to 4.27% in July 2026 from 4.25% in June. The strongest pressures were recorded in education (6.93%), followed by restaurants and hotels (6.72%), transport (5.76%), healthcare (5.59%), personal care and social protection (5.12%), housing and utilities (5.03%), recreation, sport and culture (4.56%), and information and communication (4.29%). Food prices increased 2.95%, while clothing and footwear remained the only major category in deflation, with prices falling 5.83%. On a monthly basis, consumer prices rose 0.07%, bringing year-to-date inflation to 3.40%.
-
----
-
-### 2026-08-06 01:53:52  #國際
-
-【俄伊即將落地長期天然氣協議】伊朗擁有全球第二大天然氣儲量，但在需求高峰期每日存在2‑3億立方米的結構性供氣缺口。伊朗希望藉助進口天然氣彌補北部地區的供應短板，並有望擴大本國對伊拉克、土耳其、亞美尼亞、巴基斯坦以及阿曼的天然氣出口。此舉將進一步加深俄伊雙方的相互依存，儘管兩國仍在區域天然氣市場存在競爭關係。
-
----
-
-### 2026-08-06 01:52:55  #MKT News
-
-Iran's deputy foreign minister said reports that Pakistan invited Iran's foreign minister and parliament speaker are accurate, but final arrangements have not been confirmed.
-
----
-
-### 2026-08-06 01:51:07  #國際
-
-【俄伊即將落地長期天然氣協議 亞塞拜然獲選為首選過境國】俄羅斯與伊朗即將落實一項歷經多輪談判的天然氣協議，兩國官員證實，亞塞拜然被選定為俄羅斯向伊朗出口天然氣的首選過境通道。
-
----
-
-### 2026-08-06 01:50:25  #國際
-
-特朗普：密歇根州的韋恩縣（底特律）就算算不上全世界最腐敗的投票地區，也是美國國內最腐敗的投票地區之一，完全就是第三世界水準！韋恩縣總上演各種匪夷所思的事情，其中就包括選票數量大幅超過登記選民人數。
-
----
-
-### 2026-08-06 01:49:30  #宏觀 #國際
-
-波蘭財政部長：波蘭將再度嘗試對石油企業徵收暴利稅。
-
----
-
-### 2026-08-06 01:49:06  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran deputy foreign minister denies US talks on Strait of Hormuz】Iran’s deputy foreign minister said on Wednesday Tehran is not negotiating with the United States over the Strait of Hormuz, calling US claims that talks are underway incorrect. He said Iran has received US communications indicating Washington is prepared to resume prior commitments, but Tehran has not decided whether to enter a second phase that would implement any US‑Iran memorandum of understanding. Earlier on Wednesday President Trump said the Strait would reopen “soon” or he would launch a new round of strikes, saying “very good discussions” were underway and warning he would resume military action if Iran reneged.
-
----
-
-### 2026-08-06 01:43:02  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
-
-Meta Platforms (META.O) has overtaken SpaceX (SPCX.O) in market value. SpaceX slid 10.5% to $1.48 trillion; Meta fell 0.8% to $1.49 trillion.
-
----
-
-### 2026-08-06 01:42:52  #公司
-
-滙豐上調金風科技A股評級至買入，目標價26.30元人民幣。
-
----
-
-### 2026-08-06 01:37:17  #MKT News
-
-Iran says it has not yet decided on entering a second phase of talks with the United States.
-
----
-
-### 2026-08-06 01:35:48  #國際
-
-伊朗：關於美伊第二階段談判，目前還沒有決定。
-
----
-
-### 2026-08-06 01:29:34  #國際
-
-伊朗副外長：該航道（新航線）設計使得商船無論是在進入航道還是在離開航道的部分路段，都透過伊朗領海。
-
----
-
-### 2026-08-06 01:29:14  #國際
-
-伊朗副外長：新航線的很大一部分位於伊朗領海內，而另一部分位於阿曼領海內。
-
----
-
-### 2026-08-06 01:29:00  #MKT News
-
-U.S. Senator Mark Warner (D) said if Trump and Vance want to crack down on fraud, they should start with the $2.2 billion Trump allegedly pocketed in his first year as president.
-
----
-
-### 2026-08-06 01:27:06  #國際
-
-伊朗副外長：諒解備忘錄包含了指導性原則，但最終結果取決於伊朗與阿曼之間的談判。
-
----
-
-### 2026-08-06 01:24:11  #國際
-
-美國中央司令部：美國持續執行針對伊朗的封鎖行動。截至8月5日，中央司令部部隊已驅離48艘商船，使2艘船舶失去行動能力，並登船檢查2艘。
-
----
-
-### 2026-08-06 01:24:05  #MKT News #Brent #Impact bullish #WTI
-
-CENTCOM said as of Aug 5 US forces had altered the routes of 48 commercial vessels, rendered two vessels inoperable, and boarded and inspected two others.
-
----
-
-### 2026-08-06 01:23:37  #焦點 #國際
-
-伊朗副外長：地區國家已接受伊朗和阿曼就霍爾木茲海峽達成諒解協議。
-
----
-
-### 2026-08-06 01:21:53  #國際
-
-伊朗副外長：目前達成的共識是一個新的模式，它考慮了周邊安全環境以及應規範霍爾木茲海峽的安排。
-
----
-
-### 2026-08-06 01:19:38  #國際
-
-伊朗副外長：與阿曼的新諒解備忘錄代表了霍爾木茲海峽安排的新模式，與過去60年採用的模式不同。
-
----
-
-### 2026-08-06 01:17:15  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Israel's Channel 14 reports Prime Minister Netanyahu and Defense Minister Katz will hold talks later to discuss how to respond to Hezbollah.
-
----
-
-### 2026-08-06 01:16:46  #央行 #國際
-
-週三（8月5日），美聯儲隔夜逆回購協議（RRP）使用規模為16.50億美元（交易對手2家），上個交易日報22.51億美元。
-
----
-
-### 2026-08-06 01:16:38  #MKT News
-
-The Federal Reserve accepted $1.65bn from two counterparties in fixed-rate reverse-repo operations.
-
----
-
-### 2026-08-06 01:15:38  #國際
-
-以色列總理內塔尼亞胡：以色列的生存不容談判，無論（美伊）是否達成協議。
-
----
-
-### 2026-08-06 01:14:39  #MKT News
-
-Iran's deputy foreign minister said Iran and Oman have discussed creating a joint navigation management center in the Strait of Hormuz.
-
----
-
-### 2026-08-06 01:13:39  #MKT News
-
-GFZ revised the magnitude of an earthquake on Halmahera Island, Indonesia, down from 5.8 to 5.3.
-
----
-
-### 2026-08-06 01:12:38  #國際
-
-伊朗副外長稱近日未與美國舉行任何會談。
-
----
-
-### 2026-08-06 01:12:35  #MKT News #Important
-
-Iran's deputy foreign minister said there have been no recent negotiations with the United States.
-
----
-
-### 2026-08-06 01:10:34  #國際
-
-伊朗副外長：我們目前與阿曼所做的工作，涉及有關霍爾木茲海峽應遵循的路徑。
-
----
-
-### 2026-08-06 01:10:25  #MKT News #WTI #Impact bearish #Brent
-
-Iran's deputy foreign minister said the US signaled in communications that it is ready to return to its commitments.
-
----
-
-### 2026-08-06 01:09:10  #焦點 #國際
-
-伊朗：美國在（最新）訊息中表示願意履行自身承諾。
-
----
-
-### 2026-08-06 01:08:26  #國際
-
-伊朗媒體：伊朗收到來自美國的資訊。
-
----
-
-### 2026-08-06 01:07:56  #焦點 #國際
-
-伊朗副外長：新一輪衝突爆發大約四至五天後，美國傳遞資訊，請求開展談判、解決相關問題。任何涉及霍爾木茲海峽的協議都應當僅限於伊朗與阿曼之間達成。我們不會接受任何外部勢力干涉霍爾木茲海峽事務。新協議落地後，霍爾木茲海峽現行臨時航道將會關閉。船舶進出伊朗領海的大部分航線都將行經該水域。
-
----
-
-### 2026-08-06 01:07:41  #MKT News
-
-Iran's deputy foreign minister said about 4-5 days after the new round of conflict began, the United States sent messages requesting negotiations to resolve related issues.
-
----
-
-### 2026-08-06 01:07:27  #國際
-
-伊朗副外長：美國同樣對伊朗實施了新制裁，並停止了關於釋放伊朗凍結資金的談判。
-
----
-
-### 2026-08-06 01:07:10  #國際
-
-以色列總理內塔尼亞胡：以色列國防軍計程車兵是世界上最勇敢、最恪守道義，同時也是遭受誹謗最多的軍人。絕不能讓來自境外的不實指控在我們本國社會內部擴散。
-
----
-
-### 2026-08-06 01:06:44  #國際
-
-以色列國防軍：需要在黎巴嫩採取更堅決、更顯著的回應。
 
 ---

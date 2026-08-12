@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-13 01:06:43_
-_本檔包含 3023 則快訊，約 591954 字_
+_更新時間：2026-08-13 02:02:09_
+_本檔包含 3035 則快訊，約 591726 字_
+
+---
+
+### 2026-08-13 02:00:10  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+U.S. July federal budget deficit widened to $432 bln, vs. $346 bln expected; June deficit was $120 bln.
+
+---
+
+### 2026-08-13 02:00:00  #MKT News #Economic Calendar #Important
+
+United States | Government Budget (Jul) | actual -432000000000B | consensus -346000000000B | previous -120000000000B
+
+---
+
+### 2026-08-13 01:59:55  #其他
+
+【伊拉克總理：9月30日為國際聯盟撤軍最後期限】當地時間12日，據伊拉克總理媒體辦公室宣告，伊拉克總理扎伊迪當天會見了到訪的美軍中央司令部司令庫珀。會晤期間，扎伊迪重申了伊方對既定時間表的承諾，即9月30日是國際聯盟部隊結束在伊拉克軍事任務並完成撤軍的最終日期。扎伊迪表示，10月1日將是伊拉克歷史上嶄新的一天，屆時伊拉克將徹底擺脫所有外國軍事存在，實現本國領土主權，持續增強本國安全和軍事能力，維護自身安全與穩定。（央視新聞）
+
+---
+
+### 2026-08-13 01:59:34  #MKT News
+
+Saudi outlet Alhadath reports a Yemeni government drone strike hit a Houthi assembly point in Al Jawf province.
+
+---
+
+### 2026-08-13 01:59:18  #國際
+
+美國7月政府預算 -4323.08億美元，預期 -3460億美元，前值 -2911億美元。
+
+---
+
+### 2026-08-13 01:57:26  #其他
+
+訊息人士：巴西經濟團隊將支出約束觸發條款寫入國會一項無關法案之中。擬議措施將在 2027 年實現約 100 億雷亞爾的支出節省。
+
+---
+
+### 2026-08-13 01:56:53  #MKT News
+
+Sources said Brazil's economic team inserted spending-cut provisions into an unrelated bill filed with Congress; the measures would save about BRL 10 bln in 2027.
+
+---
+
+### 2026-08-13 01:54:33  #其他
+
+葉門武裝部隊：無人機襲擊朱夫省胡塞武裝集結點。
+
+---
+
+### 2026-08-13 01:54:05  #MKT News
+
+Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace.
+
+---
+
+### 2026-08-13 01:46:56  #市場
+
+芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。
+
+---
+
+### 2026-08-13 01:46:33  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
+
+【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm.
+
+---
+
+### 2026-08-13 01:44:51  #國際
+
+阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。
+
+---
+
+### 2026-08-13 01:35:16  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns.
+
+---
+
+### 2026-08-13 01:34:37  #MKT News
+
+Sources say Google (GOOG.O) co-founder Sergey Brin has spent recent months urging staff to focus on returning the GEMINI model to the forefront of AI.
+
+---
+
+### 2026-08-13 01:34:05  #公司
+
+市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。
+
+---
+
+### 2026-08-13 01:32:28  #央行 #其他
+
+巴西央行：7 月美元資金淨流入規模達 19.38 億美元。
+
+---
+
+### 2026-08-13 01:26:16  #MKT News
+
+Canada is weighing a proposal to keep exempting the value of U.S.-made parts in Canadian vehicle exports from auto tariffs, even as it seeks tariff waivers from the U.S., The Globe and Mail reports.
+
+---
+
+### 2026-08-13 01:24:54  #國際
+
+該提案還將維持對加拿大出口汽車中美國產零部件價值的豁免條款。
+
+---
+
+### 2026-08-13 01:24:34  #國際
+
+市場訊息：加拿大考慮在與美國的談判中提出汽車關稅建議。
+
+---
+
+### 2026-08-13 01:23:30  #國際
+
+市場訊息：在德國舉行的一場大型軍事演習中，烏克蘭無人機操作人員壓制了美軍部隊。偵察無人機迅速鎖定美軍裝甲車輛，隨後攻擊無人機完成模擬 “擊毀”，實質上全殲一支美軍裝甲旅。
+
+---
+
+### 2026-08-13 01:22:31  #MKT News
+
+The Wall Street Journal reported that Ukrainian drones defeated U.S. armored forces during military exercises in Germany this spring.
+
+---
+
+### 2026-08-13 01:21:45  #市場 #國際
+
+【玉米期貨大漲 美國農業部大幅下調美國單產預期，降幅超市場預期】玉米期貨價格創下6月以來最大漲幅，此前美國農業部（USDA）大幅下調了美國玉米單產預期，降幅超過市場此前預期。芝加哥玉米期貨一度上漲4.1%，隨後漲幅有所收窄。週三早些時候，穀物價格已經開始上漲。俄羅斯一個重要糧食港口遭到襲擊，加劇了市場對俄烏衝突升級可能擾亂黑海地區糧食出口的擔憂。
+
+---
+
+### 2026-08-13 01:21:19  #其他
+
+【科威特挫敗一起針對重要設施的恐襲圖謀 】科威特內政部12日宣佈，安全部門成功挫敗一起針對科威特一處重要設施的“恐怖襲擊圖謀”，並抓獲一名與“伊斯蘭國”組織有關聯的科威特公民。（新華社）
+
+---
+
+### 2026-08-13 01:16:12  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $725 mln from one counterparty in a fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-13 01:12:10  #MKT News #Market Themes #AI Revolution
+
+Musk said Grok 4.6 ranks first overall for intelligence, runtime speed and usage cost.
+
+---
+
+### 2026-08-13 01:09:42  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port.
+
+---
+
+### 2026-08-13 01:09:10  #國際
+
+烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。
+
+---
+
+### 2026-08-13 01:07:04  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%.
+
+---
+
+### 2026-08-13 01:06:46  #市場 #國際
+
+美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。
+
+---
+
+### 2026-08-13 01:06:27  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+US 10-year Treasury auction yield hits highest since 2007.
 
 ---
 
@@ -18140,113 +18320,5 @@ Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gall
 ### 2026-08-11 22:12:38  #其他
 
 【縱慧芯光高階光通訊晶片及器件研發製造基地落戶常州】8月11日上午，縱慧芯光高階光通訊晶片及器件研發製造基地簽約落戶常州。本次簽約專案持續投入總計約50億元，將重點建設磷化銦高階鐳射晶片研發及量產產線，助推國內光通訊核心晶片的國產化程序。（常州釋出）
-
----
-
-### 2026-08-11 22:12:28  #其他
-
-【睫毛膠水問題曝光後，山東平度成立聯合調查組】平度市市場監督管理局辦公室主任張明法表示，針對8月7日總檯報道的假睫毛膠水產品質量問題，平度市第一時間成立聯合調查組，對涉事企業開展全面核查，重點核查產品配方備案、原料採購、生產工藝等情況，調查工作正在有序推進，目前已要求對存在風險隱患的膠水停止分裝、使用。平度市市場監督管理局表示，下一步將部署開展全行業專項整治，進一步規範睫毛製品生產經營行為。引導相關龍頭企業聯合行業協會、檢測機構，共同參與制定睫毛膠水相關團體標準或行業規範，推動這一產業向規範化、標準化發展。（澎湃）
-
----
-
-### 2026-08-11 22:11:49  #其他
-
-巴西CNT/MDA 民調：盧拉政府支援率 35.3%，不支援率 36.2%。
-
----
-
-### 2026-08-11 22:11:17  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Trump: We can deploy "powerful force" to strike Iran】U.S. President Trump said Iran's inflation is about 300% and its currency is worthless, that Iranians are not paying their soldiers' salaries and the U.S. "completely controls" Iran's funds. He said the U.S. can deploy "powerful force" against Iran and that there is no shortage of missile ammunition.
-
----
-
-### 2026-08-11 22:10:45  #公司
-
-【廣汽旗下人形機器人公司慧侖科技完成億元融資】據廣汽集團訊息，近日，廣汽集團孵化的人形機器人公司廣東慧侖科技有限公司（簡稱“慧侖科技”）宣佈完成超億元融資，由中車國創基金、招銀國際、四川科創等機構聯合投資。慧侖科技本輪融資所得資金將投入垂類模型持續最佳化、汽車產線與綜合服務場景拓展、核心硬體產品迭代以及高階人才梯隊建設，全力推動人形機器人整機與核心零部件規模化商用。
-
----
-
-### 2026-08-11 22:10:09  #國際
-
-俄羅斯1-7月預算赤字擴大至6.455萬億盧布。
-
----
-
-### 2026-08-11 22:10:05  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK 10-Year Gilt Yield Falls Below 5% — The UK 10-year gilt yield fell to around 4.95% as renewed hopes for a deal to reopen the Strait of Hormuz pushed oil prices lower, easing concerns over inflation. Crude declined after Pakistan signaled that the US and Iran were “close to some sort of arrangement” aimed at reducing tensions and restoring shipping through the strategic waterway. The comments offered a more positive assessment after President Donald Trump had toughened his stance toward Tehran, demanding reparations for deaths linked to Iran and domestic protests. Meanwhile, the Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying the disinflation process remained on track despite external risks. Recent BRC data showed UK retail sales increased 1.3% year-on-year in July, below the 12-month average, suggesting subdued consumer activity, while Barclays data showed household spending rose 2%, its strongest growth of the year.
-
----
-
-### 2026-08-11 22:10:03  #MKT News
-
-Eleven French nationals detained in Thailand on suspicion of drug trafficking.
-
----
-
-### 2026-08-11 22:09:46  #公司
-
-【何小鵬談電池和自動駕駛新國標：確保不只有長板，更重要的是沒有短板】在小鵬G9L全球首秀暨預售釋出會後，小鵬集團董事長、CEO何小鵬與媒體對話。談及動力電池安全和自動駕駛安全兩個新國標，何小鵬表示，小鵬也是標準的參與者、制定者。以自動駕駛為例，小鵬和其它造車新勢力在2020年左右，就將高速的輔助駕駛帶到了中國，甚至能夠走向全球。現在也看到有越來越多的車廠都能夠把自動輔助駕駛當做一個標配，這是一個非常好的事情，因為不管是中國客戶還是全球客戶都有需求。他同時指出，有非常多的細節場景，很多車主朋友們不一定知道哪些是自動輔助駕駛能力強的，哪些是能力弱的，能力弱的時候該怎麼辦？這個時候就需要制定一個更全面體系的強制標準，這個標準要確保不光你有長板，更重要的是你沒有短板，還重要的是你能夠在整個體系規劃裡把中板補結實，這是我們一直在強標裡期望去做的事情。（新浪科技）
-
----
-
-### 2026-08-11 22:09:40  #MKT News
-
-Trump said the United States does not lack missiles or munitions.
-
----
-
-### 2026-08-11 22:09:25  #MKT News #WTI #Impact bullish #DXY #XAUUSD
-
-President Trump said the U.S. controls Iran’s funds and has full control over them.
-
----
-
-### 2026-08-11 22:08:44  #MKT News #WTI #Impact bullish #XAUUSD
-
-President Trump said the US could use "powerful force" to strike Iran.
-
----
-
-### 2026-08-11 22:08:41  #Trading Economics #Economy #United States #Existing Home Sales #Importance 2
-
-US Existing Home Sales Fall as Expected — Existing home sales in the United States fell by 1.7% from the previous month to a seasonally adjusted, annualized rate of 4.06 units in July of 2026, relatively close to market expectations of 4.06 million. “Home sales have been remarkably stable, even amid the rising mortgage rate environment of the past few months,” said NAR Chief Economist Lawrence Yun. “Year-to-date sales are up 2.4% and there’s no doubt that the housing market would be thriving if average mortgage rates were to return near 6%.”
-
----
-
-### 2026-08-11 22:08:11  #其他
-
-巴西全國交通運輸聯合會（CNT）首輪民調：盧拉支援率 42.4%，弗拉維奧・博索納羅 28.7% 。
-
----
-
-### 2026-08-11 22:08:04  #國際
-
-美國總統特朗普表示，伊朗通貨膨脹率高達300%，其貨幣一文不值。美國可以用“巨大力量”打擊伊朗。
-
----
-
-### 2026-08-11 22:07:58  #MKT News
-
-U.S. President Trump said Iran's inflation is as high as 300% and its currency is effectively worthless.
-
----
-
-### 2026-08-11 22:07:34  #MKT News
-
-US President Trump said Iranians do not pay soldiers' salaries.
-
----
-
-### 2026-08-11 22:06:40  #國際
-
-市場訊息：蘋果大幅提升印度地區 iPhone 產能。
-
----
-
-### 2026-08-11 22:06:33  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bearish #DXY #Impact bullish #US10Y
-
-【US existing‑home sales fall to three‑month low as high prices, mortgage rates suppress market】Existing‑home sales in the US fell 1.7% MoM in July to a 4.06 mln annualized pace, a three‑month low and in line with the median economist forecast, the National Association of Realtors said. The report said persistently high listing prices and rising mortgage borrowing costs continue to deter buyers. The resale market has hovered around a roughly 4.0 mln annualized pace since late‑2022. NAR chief economist Lawrence Yun said sales have been very steady and that if average mortgage rates returned near 6% the market would undoubtedly boom.
 
 ---

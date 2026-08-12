@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-13 01:06:43_
-_本檔包含 3114 則快訊，約 591900 字_
+_更新時間：2026-08-13 02:02:09_
+_本檔包含 3109 則快訊，約 591859 字_
+
+---
+
+### 2026-08-09 00:54:54  #國際
+
+特朗普：洩露國家安全機密者將面臨嚴重後果以及牢獄之災。
+
+---
+
+### 2026-08-09 00:50:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Expert: Strait of Hormuz cannot return to pre-conflict state】Ali Akbar Dareini, researcher at Iran’s Center for Strategic Studies, said Iran and Oman are close to an agreement on future management of the Strait of Hormuz, but US pressure on Oman to align with Washington remains the main obstacle. Dareini said Iran views future control of the strait as vital to its national security. He added that in recent months the US struck Iran, which Tehran says were launched from bases in the region, and described the Iran–Oman talks as a diplomatic opening for Washington to acknowledge Iran and Oman as the決ers of the strait’s future. He said the Strait of Hormuz cannot return to its pre-conflict state and that regional geopolitics have changed.
+
+---
+
+### 2026-08-09 00:47:18  #MKT News #Market Regions #Europe & UK
+
+Bulgaria summoned the Ukrainian ambassador after a drone exploded on Bulgarian territory.
+
+---
+
+### 2026-08-09 00:46:58  #MKT News
+
+【Pentagon official says U.S. ammunition stocks sufficient for operations against Iran】Pentagon Deputy Director for the Defense Innovation Unit Jared Conley said the U.S. military has sufficient ammunition to meet operational needs in a conflict with Iran, saying “we have enough ammunition to complete current missions” and that “the Defense Department has all necessary resources to wage war.” He addressed earlier reports that key air-defence munitions, including ballistic missile interceptors, had been drawn down.
+
+---
+
+### 2026-08-09 00:39:59  #MKT News #Macro & Rates #US Economy #Commodities #Energy
+
+【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products.
+
+---
+
+### 2026-08-09 00:35:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Lebanese sources said Lebanon insists on a full ceasefire before returning to talks in Rome and wants Bint Jbeil and Khiam included in a pilot zone.
+
+---
+
+### 2026-08-09 00:35:06  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Governor Bowman to participate in a fireside chat; announcement due in 10 minutes.
+
+---
+
+### 2026-08-09 00:34:55  #國際
+
+伊朗總統：當下是達成協議的最佳時機。
+
+---
+
+### 2026-08-09 00:34:51  #國際
+
+伊朗總統：在這種既非戰爭也非和平的局面下，經濟狀況是我最為關切的問題。
+
+---
+
+### 2026-08-09 00:34:35  #其他
+
+黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。
+
+---
+
+### 2026-08-09 00:31:04  #國際
+
+伊朗總統並未否認安全委員會秘書穆罕默德-巴蓋爾·佐爾卡德爾已提出辭職的媒體報道，他表示：“我們之間確實存在一些分歧，目前正努力解決。”
+
+---
+
+### 2026-08-09 00:25:36  #國際
+
+泰國國際航空：受颱風“白海豚”影響，多架航班取消。
+
+---
+
+### 2026-08-09 00:24:08  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
+
+【Trump administration freezes assets of oil magnate Harry Sargeant III, presses him to divest Venezuelan holdings】U.S. Treasury on Friday froze assets of offshore companies tied to Florida oil magnate and Republican donor Harry Sargeant III that participate in Venezuelan oil production, sources said, and issued a license allowing the liquidation of his interests in those entities. Sargeant has served as a confidential conduit between Washington and Caracas—meeting President Maduro and other senior officials—and used that role to pursue oil deals in Venezuela that most firms avoided due to political risk and sanctions; he also helped secure the 2025 release of a detained U.S. citizen.
+
+---
+
+### 2026-08-09 00:15:15  #國際
+
+伊朗外長阿拉格齊：伊朗與阿曼距離霍爾木茲海峽相關協議“已非常接近”，航道重啟取決於美方遵守諒解備忘錄。
+
+---
+
+### 2026-08-09 00:07:34  #MKT News #600009.SS #Impact bearish #600115.SS
+
+【Typhoon White Dolphin to cut nearly 60% of Shanghai flights on 9th】Typhoon White Dolphin, the year's 13th, will reduce operating capacity at Shanghai Pudong and Hongqiao airports on the 9th. Airlines have cut or canceled about 1,384 scheduled arrivals and departures — 871 at Pudong and 513 at Hongqiao — roughly 60% of planned flights.
 
 ---
 
@@ -18638,125 +18728,5 @@ Sri Lanka Tourist Arrivals Extend Decline in July — The number of foreign tour
 ### 2026-08-07 10:03:29  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
 
 Hong Kong Stocks Extend Decline to Second Session — The Hang Seng Index declined 0.4%, or 110 points, to 25,420 on Friday as investors turned cautious amid rising geopolitical tensions and continued weakness in financial stocks. Asian markets traded lower after renewed tensions involving Iran pushed oil prices higher, fueling concerns that elevated energy costs could sustain inflation and delay interest rate cuts. Hong Kong-listed insurers and banks remained under pressure following concerns over China's stricter enforcement of taxes on offshore insurance products held by mainland residents, dampening expectations for cross-border wealth management demand. Losses were partly offset by gains in selected technology shares, led by AI firm MiniMax surging 6.5%, which rallied after joining the Hong Kong Stock Connect program, boosting optimism over stronger mainland investor participation. Other notable gainers included Tencent (0.7%), Z.AI Co. (5.2%), Kingboard Laminates (5.6%), and Wuci Biologics (3.0%).
-
----
-
-### 2026-08-07 10:03:20  #國際
-
-菲律賓第二季度出口同比增長12.2%。
-
----
-
-### 2026-08-07 10:03:08  #其他
-
-【八仙票房破13億】據貓眼專業版資料，電影 《八仙！》 上映21天， 總票房破13億。
-
----
-
-### 2026-08-07 10:02:58  #市場 #焦點
-
-現貨黃金突破4260美元/盎司，日內漲0.47%。
-
----
-
-### 2026-08-07 10:02:55  #國際
-
-菲律賓第二季度工業產出同比下降2.4%；服務業產出同比增長4.5%。
-
----
-
-### 2026-08-07 10:02:19  #國際
-
-菲律賓第二季度GDP環比增長0.6%；預估0.7%。
-
----
-
-### 2026-08-07 10:02:05  #Trading Economics #Markets #Australia #Currency #Importance 1
-
-Australian Dollar Set for Muted Week — The Australian dollar fell to around $0.70, pulling back from a seven-week high and on track to finish the week largely unchanged as renewed tensions in the Middle East dampened risk sentiment. The US dollar strengthened, while oil prices climbed following reports of Iranian attacks in the Strait of Hormuz and a lack of clarity on an agreement to reopen the crucial waterway. Higher energy prices revived inflation concerns and reinforced expectations that global interest rates could remain higher for longer. In Australia, after three rate hikes this year, markets are pricing in virtually no chance of a rate increase at the Reserve Bank's monetary policy meeting next week following softer-than-expected second-quarter inflation data. Investors are also assigning little chance of a move in September, while pricing roughly a 60% probability of a rate hike in November if third-quarter inflation proves stronger than expected.
-
----
-
-### 2026-08-07 10:02:03  #市場 #焦點
-
-科創50日內漲幅達1.02%，成分股中，生益電子漲6.17%，源傑科技漲3.10%，佰維儲存漲2.97%，大全能源漲2.95%。
-
----
-
-### 2026-08-07 10:01:56  #其他
-
-【哥倫比亞新任總統將於今日就職】哥倫比亞新任總統德拉埃斯普列亞將於當地時間7日就職。德拉埃斯普列亞今年6月當選哥倫比亞新一任總統。
-
----
-
-### 2026-08-07 10:01:46  #其他
-
-【航行警告！北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，8月7日7時至19時、8月8日7時至13時，北部灣部分海域進行軍事訓練，禁止船舶駛入。 （央視軍事）
-
----
-
-### 2026-08-07 10:01:41  #公司
-
-【電氣風電在大連成立風電裝備新公司】企查查APP顯示，近日，上電（大連）風電裝備有限公司成立，經營範圍包含發電機及發電機組製造；海上風電相關裝備銷售；海上風電相關係統研發；風電場相關裝備銷售等。企查查股權穿透顯示，該公司由電氣風電(688660)全資持股。
-
----
-
-### 2026-08-07 10:01:30  #國際
-
-菲律賓第二季度GDP同比增長2.3% 預估為2.9%。
-
----
-
-### 2026-08-07 10:01:03  #市場
-
-現貨白銀日內漲1%，現報62.14美元/盎司。
-
----
-
-### 2026-08-07 10:00:55  #其他
-
-【北京啟動防汛四級應急響應】北京市防汛辦：北京市8月7日9時釋出暴雨藍色預警訊號，並啟動防汛四級應急響應。
-
----
-
-### 2026-08-07 10:00:27  #國際
-
-【我國牽頭修訂的黑色金屬材料熱處理基礎領域國際標準釋出】國際標準化組織近日釋出由我國牽頭修訂的熱處理基礎國際標準《黑色金屬材料—熱處理—術語》。該標準由我國專家擔任工作組召集人和專案負責人，德國、日本、芬蘭、法國、義大利等多國專家共同參與，這是我國在黑色金屬材料熱處理基礎領域牽頭修訂的首項國際標準。
-
----
-
-### 2026-08-07 09:58:57  #市場
-
-【創新藥概念持續走高 哈三聯、百花醫藥等漲停】創新藥概念持續走高，截至發稿，哈三聯、百花醫藥等漲停，譽衡藥業、隴神戎發、立方製藥等跟漲。
-
----
-
-### 2026-08-07 09:58:10  #MKT News
-
-【Zijin says its Congo copper products not covered by reported DRC concentrate export ban】Aug 7 — Market reports said the Democratic Republic of Congo issued an administrative order banning exports of copper and cobalt concentrates. Zijin Mining said its Kolwezi unit produces crude and electrolytic (cathode) copper and Kamoa-Kakula produces anode plates and crude copper, which are not covered by the reported ban. Separately, Hanrui Cobalt said the DRC had previously tightened concentrate exports and that the measures do not affect the company; its Congo copper is electrolytic copper processed and sold locally, and any ban that lifts copper prices would likely benefit its product realizations. Hanrui added its cobalt is initially processed into cobalt hydroxide before shipment to China.
-
----
-
-### 2026-08-07 09:57:29  #公司 #市場
-
-【稀土永磁板塊直線拉昇，中國稀土漲停】稀土永磁板塊直線拉昇，中國稀土漲停，中科磁業、方邦股份、九菱科技漲超10%，有研新材、中稀有色、盛和資源、北方稀土、奔朗新材跟漲。
-
----
-
-### 2026-08-07 09:56:42  #公司 #市場
-
-【紫金礦業最新回應：旗下相關銅礦不屬於剛果（金）禁止出口的產品】有市場訊息稱，剛果（金）已釋出最新行政指令，決定徹底禁止銅精礦與鈷精礦的出口。對此，8月7日，紫金礦業方面回應記者，公司旗下科盧韋齊銅礦的產品為粗銅及電積銅，卡莫阿-卡庫拉銅礦的產品為陽極板及粗銅，不屬於剛果（金）禁止出口的產品。在此之前，寒銳鈷業相關負責人稱，剛果（金）此前就已經收緊精礦出口，相關事項對公司不造成影響。“公司在剛果（金）的銅產品是電積銅，需求較為旺盛，在當地就實現了加工與銷售。相關禁令如刺激銅價上漲，將對公司產品售價形成一定利好。鈷產品則是初加工為氫氧化鈷等鈷中間產品後運回國內。”上述負責人表示。洛陽鉬業相關人士則在社交平臺公開表示，公司在剛果（金）TFM和KFM兩座礦山的產品為陰極銅和氫氧化鈷，沒有精礦。此外，洛陽鉬業網站也顯示，公司主要面向國際市場銷售的鈷產品是氫氧化鈷。(中證金牛座)
-
----
-
-### 2026-08-07 09:56:24  #國際
-
-颱風“海豚”逼近日本，日本已下令疏散民眾，並取消500架航班。
-
----
-
-### 2026-08-07 09:56:00  #MKT News
-
-【Largest central China robot delivery staged in Optics Valley (Wuhan)】Nearly 100 industrial inspection robots were delivered on Aug. 6 at the Hubei Humanoid Robot Innovation Center in Optics Valley (Wuhan). Wuhan-based Chengxin Zhilian (Wuhan) Technology Co. said the units will be deployed for security patrols in Wuhan, Shanghai and Wuxi and represent the largest concentrated delivery in central China’s robotics sector; the first onsite batch comprised 30 Xun1-series quadruped robots. The company said the robots autonomously navigate to cloud-assigned locations with millimeter-level positioning accuracy.
 
 ---

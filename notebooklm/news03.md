@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-13 01:06:43_
-_本檔包含 2661 則快訊，約 591712 字_
+_更新時間：2026-08-13 02:02:09_
+_本檔包含 2666 則快訊，約 592077 字_
+
+---
+
+### 2026-08-10 19:35:35  #公司
+
+【博睿資料：持股5%以上股東孟曦東及其一致行動人減持股份】博睿資料公告稱，2026年8月4日至8月5日元亨利匯透過集中競價累計減持193,390股，佔總股本0.44%；8月10日孟曦東透過大宗交易減持441,000股，佔總股本0.99%。本次權益變動後，孟曦東及其一致行動人合計持股比例由10.00%降至8.57%。此次減持系履行已披露計劃，不會導致控股股東及實控人變化，不觸及要約收購等。
+
+---
+
+### 2026-08-10 19:35:25  #其他
+
+英國批准禮來的 Foundayo 用於體重管理及 2 型糖尿病治療。
+
+---
+
+### 2026-08-10 19:34:58  #公司 #國際
+
+【外交部：奉勸美方儘早解除對古巴的制裁封鎖 不要一再向他人“潑髒水”】8月10日外交部發言人郭嘉昆答記者問。據報道，美國最近再次以中俄與古巴的軍事合作為藉口，對更多古巴公司和個人實施制裁。中方如何看待這些新的單邊制裁，以及美方試圖干涉中國與古巴正常合作的行徑？郭嘉昆表示，中方已經多次就有關問題闡明立場。我們奉勸美方儘早解除對古巴的制裁封鎖，不要一再向他人“潑髒水”。中古合作光明正大，中方將繼續堅定支援古巴維護國家主權、反對外來干涉。（央視新聞）
+
+---
+
+### 2026-08-10 19:34:32  #公司
+
+【阿聯酋擬擲數十億美元建新LNG出口終端 謀求規避霍爾木茲海峽風險】阿布扎比國家石油公司旗下天然氣子公司Adnoc Gas Plc正考慮在霍爾木茲海峽以外地區新建一座液化天然氣(LNG)出口設施。此舉是阿聯酋為繞過這一關鍵水道而建設基礎設施的最新舉措。
+
+---
+
+### 2026-08-10 19:33:36  #國際
+
+伊朗媒體週一報道，根據一項新規定，伊朗各行政機構不得再自行封禁、暫停或限制網路平臺及數字業務，此類決定必須獲得伊朗總統佩澤希基揚批准。
+
+---
+
+### 2026-08-10 19:32:56  #國際
+
+【外交部：印方公佈所謂“標準名稱”試圖取代中國長期使用的地名，是非法的、無效的，更改變不了藏南地區屬於中國的事實】2026年8月10日外交部發言人郭嘉昆答記者問，部分內容如下：彭博社記者：據報道，7日，印度公佈“阿魯納恰爾邦”27處地點所謂“標準名稱”。印內政部發表宣告稱，在地圖上正式標註地點名稱將幫助公眾更好認識相關地區。中方對此有何回應？郭嘉昆：藏南地區是中國領土，中方從不承認印度非法設立的所謂“阿魯納恰爾邦”。印方公佈所謂“標準名稱”試圖取代中國長期使用的地名，是非法的、無效的，更改變不了藏南地區屬於中國的事實。（環球網）
+
+---
+
+### 2026-08-10 19:32:22  #國際
+
+市場訊息：加沙地帶政府媒體辦公室表示，以色列 “蓄意阻礙加沙局勢走向緩和”。
+
+---
+
+### 2026-08-10 19:31:39  #市場 #國際
+
+印度10年期基準國債收益率<IN069436G=CC>收於6.7643%；前收盤價為6.7651%。
+
+---
+
+### 2026-08-10 19:31:27  #公司
+
+【今天國際：持股5%以上股東邵健鋒部分股份質押續期】今天國際公告稱，公司持股5%以上股東邵健鋒將持有的1737.4萬股辦理質押續期，佔其所持股份比例49.98%，佔公司總股本比例2.73%，質權人為紅塔證券，質押用途為融資，續期後質押到期日為2027年8月7日。截至公告披露日，控股股東及其一致行動人累計質押股份佔公司總股本比例為2.73%。
+
+---
+
+### 2026-08-10 19:31:06  #央行 #國際
+
+【日本增長戰略大臣為財政狀況辯護 稱投資計劃將為日元帶來長期提振】日本增長戰略大臣城內實表示，日本的支出計劃將為日元帶來長期的提振，並反駁了市場對該國財政狀況的擔憂。城內實週一接受採訪時表示：“日本的財政政策並不像大家認為的那麼具有擴張性，因為我們非常重視可持續性。”他還強調，日本正努力轉向更符合“國際標準”的衡量方式，即以債務佔經濟產出的比例來評估債務水平。日本首相高市早苗為重振經濟推出了一系列支出計劃，引發市場對資金來源的擔憂。城內實淡化了高市早苗一項前所未有的計劃所帶來的財政負擔。按照該計劃，日本將在14年內向關鍵產業投入370萬億日元（2.3萬億美元）。他說，支援人工智慧、半導體和遊戲等行業對於日本經濟增長是必要的，併為這份由他參與制定的路線圖進行辯護。“隨著對日本以及日元計價資產的投資增加，對日元的需求自然也會上升，”城內實表示。此前，美日罕見聯合干預匯市以推升日元，但相關影響正開始消退。對於為期兩年的消費稅減稅計劃，城內實也認為融資難度不大。該計劃預計每年將耗費約5萬億日元。他表示：“籌措5萬億日元並沒有那麼困難。”他指出，對政府財政收支進行大規模調整將產生可用於彌補這部分資金的節餘。談及貨幣政策時，城內實表示，日本央行目前做得很好。這一表態可能意味著，他並不強烈反對短期內加息。市場對日本央行在9月或10月加息的預期持續升溫。
+
+---
+
+### 2026-08-10 19:30:42  #觀點 #國際
+
+【花旗Q2持倉市值突破3000億美元 大舉增持半導體產業鏈】根據美國證券交易委員會(SEC)披露，花旗第二季度持倉總市值達到約3030億美元，上一季度持倉總市值則約為2350億美元。前十大重倉股票標的之中，英偉達仍然位列花旗第一大持倉標的，持倉約6130萬股，整體持倉市值約為123億美元，佔投資組合比例為4.05%，較上季度的持倉數量大幅增加23.00%。蘋果位列第二大持倉，持倉約2529萬股，持倉市值約為73億美元，佔投資組合比例為2.42%，較上季度的持倉數量增加13.57%。微軟位列第三大持倉，持倉約1905萬股，持倉市值約為71億美元，佔投資組合比例為2.35%，較上季度的持倉數量增加14.28%。美光科技位列第四，持倉約530萬股，持倉市值約為61億美元，佔投資組合比例為2.02%，持倉數量較上季度增加11.29%。
+
+---
+
+### 2026-08-10 19:30:17  #公司
+
+【奇安信：擬籤補充協議 無償受讓上海賽連1.4374%股權】奇安信公告稱，8月7日公司董事會同意與上海賽連等就《股東協議》修訂並籤《補充協議》，授權管理層辦理相關事宜。基於協議，Wenhui Yuan、孫文向27名受償投資人補償（總股權補償比例9.5795%），公司及網神將以0對價受讓上海賽連1.4374%股權，上市期限延至2029年12月31日，若未如期上市則恢復原協議履行。事項尚需各方簽約並完成後續工作，最終能否成功實施存在不確定性。
+
+---
+
+### 2026-08-10 19:29:35  #國際
+
+英國藥品和健康產品管理局（MHRA）：已批准Orforglipron（商品名Foundayo），使英國成為歐洲首個批准該GLP-1片劑用於體重管理和2型糖尿病的國家。
+
+---
+
+### 2026-08-10 19:29:22  #國際
+
+【外交部：百餘名菲律賓公民因非法就業、非法居留被依法處理】8月10日外交部發言人郭嘉昆答記者問。有記者問，近期，一些菲律賓籍人員涉嫌違法被查處，能否介紹具體情況？此舉能否解讀為中方對菲律賓頻繁抓扣中國公民的回應？郭嘉昆表示，全國移民管理機構持續深化在華“三非”外國人治理，依法開展專項行動。百餘名菲律賓公民因非法就業、非法居留被依法處理。在專項行動過程中，移民管理工作人員規範文明執法，保障了涉案外籍人員的權益。（央視新聞）
+
+---
+
+### 2026-08-10 19:28:48  #Trading Economics #Markets #Commodity #Importance 1
+
+Silver Holds at 7-Week High — Silver prices were above $63.5 per ounce on Monday, the highest in seven weeks, amid the view that the Federal Reserve is less likely to raise interest rates this year. Nonfarm payrolls unexpectedly dropped in July as the labor force declined. Lesser bets of a rate hike were also supported by oil prices remaining well below their Iran war peaks this year, easing energy inflation. Expectations that financial conditions will not tighten significantly benefited precious metals by decreasing the opportunity cost of holding non-yielding assets. In turn, industrial demand for silver also supported bids. Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th.
+
+---
+
+### 2026-08-10 19:28:22  #公司
+
+【今天國際：擬1000萬元參與設立1.4億元投資基金】今天國際公告稱，公司第六屆董事會第三次會議審議透過與專業投資機構合作投資設立投資基金的議案。該基金規模1.4億元，公司作為有限合夥人擬以自有資金認繳1000萬元，佔比7.14%。本次投資符合公司發展戰略和投資方向，不影響正常生產經營，也不與主營業務構成同業競爭。
+
+---
+
+### 2026-08-10 19:27:23  #市場
+
+【SK海力士美股盤前跌超2%】SK海力士美股盤前跌超2%，現報135.123美元。
+
+---
+
+### 2026-08-10 19:27:17  #焦點
+
+【頻準鐳射中籤號出爐：共有6423個】頻準鐳射(688826.SH)披露首次公開發行股票網上中籤結果，中籤號碼共有6423個，每個中籤號碼只能認購500股頻準鐳射A股股票。頻準鐳射發行價為186.88元/股，是A股今年以來發行價最高的新股，中一簽需繳款9.34萬元。
+
+---
+
+### 2026-08-10 19:26:40  #央行 #其他
+
+巴西央行調查：經濟學家將巴西2027年GDP增速預期從此前的1.57%下調至1.52%。
+
+---
+
+### 2026-08-10 19:26:32  #央行 #市場
+
+巴西央行調查：經濟學家預計2026年底巴西雷亞爾兌美元匯率將為5.20雷亞爾兌1美元，與前次預期一致。
 
 ---
 
@@ -15979,95 +16099,5 @@ According to Israel's Channel 12, the Israeli military is evaluating withdrawing
 ### 2026-08-09 00:59:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
 
 【Vance: U.S. 'in a contest' with Iran】U.S. Vice President JD Vance told Fox News on Saturday the United States is 'in a contest' with Iran and is employing the full range of tools—diplomatic, economic and military—to secure the best outcome for Americans. He said talks with Iran have made some progress in recent days. The U.S. expects Gulf oil and gas output to return to pre-conflict levels, and Iran has indicated to U.S. officials it intends to do so.
-
----
-
-### 2026-08-09 00:54:54  #國際
-
-特朗普：洩露國家安全機密者將面臨嚴重後果以及牢獄之災。
-
----
-
-### 2026-08-09 00:50:40  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Expert: Strait of Hormuz cannot return to pre-conflict state】Ali Akbar Dareini, researcher at Iran’s Center for Strategic Studies, said Iran and Oman are close to an agreement on future management of the Strait of Hormuz, but US pressure on Oman to align with Washington remains the main obstacle. Dareini said Iran views future control of the strait as vital to its national security. He added that in recent months the US struck Iran, which Tehran says were launched from bases in the region, and described the Iran–Oman talks as a diplomatic opening for Washington to acknowledge Iran and Oman as the決ers of the strait’s future. He said the Strait of Hormuz cannot return to its pre-conflict state and that regional geopolitics have changed.
-
----
-
-### 2026-08-09 00:47:18  #MKT News #Market Regions #Europe & UK
-
-Bulgaria summoned the Ukrainian ambassador after a drone exploded on Bulgarian territory.
-
----
-
-### 2026-08-09 00:46:58  #MKT News
-
-【Pentagon official says U.S. ammunition stocks sufficient for operations against Iran】Pentagon Deputy Director for the Defense Innovation Unit Jared Conley said the U.S. military has sufficient ammunition to meet operational needs in a conflict with Iran, saying “we have enough ammunition to complete current missions” and that “the Defense Department has all necessary resources to wage war.” He addressed earlier reports that key air-defence munitions, including ballistic missile interceptors, had been drawn down.
-
----
-
-### 2026-08-09 00:39:59  #MKT News #Macro & Rates #US Economy #Commodities #Energy
-
-【US expert says new US sanctions bill on Russia likely to become 'silent law'】US affairs expert Dmitry Drobnytsky says the Senate's newly passed Russia sanctions bill is likely to go unenforced and become a 'silent law' akin to the Jackson-Vanik amendment. The Senate on Friday overwhelmingly approved a measure, drafted with input from the late Senator Lindsey Graham, that would levy a 100% tariff on the five largest importers of Russian energy resources and a 500% tariff on all US imports from Russia. Drobnytsky said the bill is primarily political signalling, will likely accumulate exemptions to avoid inflicting heavy damage on an already unstable US economy, and shifts punitive pressure from Russian producers and traders onto buyers of Russian energy products.
-
----
-
-### 2026-08-09 00:35:46  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Lebanese sources said Lebanon insists on a full ceasefire before returning to talks in Rome and wants Bint Jbeil and Khiam included in a pilot zone.
-
----
-
-### 2026-08-09 00:35:06  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Governor Bowman to participate in a fireside chat; announcement due in 10 minutes.
-
----
-
-### 2026-08-09 00:34:55  #國際
-
-伊朗總統：當下是達成協議的最佳時機。
-
----
-
-### 2026-08-09 00:34:51  #國際
-
-伊朗總統：在這種既非戰爭也非和平的局面下，經濟狀況是我最為關切的問題。
-
----
-
-### 2026-08-09 00:34:35  #其他
-
-黎巴嫩訊息人士：黎巴嫩堅持要求實現全面停火，才會重返羅馬談判。
-
----
-
-### 2026-08-09 00:31:04  #國際
-
-伊朗總統並未否認安全委員會秘書穆罕默德-巴蓋爾·佐爾卡德爾已提出辭職的媒體報道，他表示：“我們之間確實存在一些分歧，目前正努力解決。”
-
----
-
-### 2026-08-09 00:25:36  #國際
-
-泰國國際航空：受颱風“白海豚”影響，多架航班取消。
-
----
-
-### 2026-08-09 00:24:08  #MKT News #Market Themes #The Trump Trade #WTI #Impact bullish #Brent
-
-【Trump administration freezes assets of oil magnate Harry Sargeant III, presses him to divest Venezuelan holdings】U.S. Treasury on Friday froze assets of offshore companies tied to Florida oil magnate and Republican donor Harry Sargeant III that participate in Venezuelan oil production, sources said, and issued a license allowing the liquidation of his interests in those entities. Sargeant has served as a confidential conduit between Washington and Caracas—meeting President Maduro and other senior officials—and used that role to pursue oil deals in Venezuela that most firms avoided due to political risk and sanctions; he also helped secure the 2025 release of a detained U.S. citizen.
-
----
-
-### 2026-08-09 00:15:15  #國際
-
-伊朗外長阿拉格齊：伊朗與阿曼距離霍爾木茲海峽相關協議“已非常接近”，航道重啟取決於美方遵守諒解備忘錄。
-
----
-
-### 2026-08-09 00:07:34  #MKT News #600009.SS #Impact bearish #600115.SS
-
-【Typhoon White Dolphin to cut nearly 60% of Shanghai flights on 9th】Typhoon White Dolphin, the year's 13th, will reduce operating capacity at Shanghai Pudong and Hongqiao airports on the 9th. Airlines have cut or canceled about 1,384 scheduled arrivals and departures — 871 at Pudong and 513 at Hongqiao — roughly 60% of planned flights.
 
 ---
