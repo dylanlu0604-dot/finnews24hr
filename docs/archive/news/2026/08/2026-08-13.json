@@ -1,7 +1,30 @@
 {
   "date": "2026-08-13",
-  "count": 284,
+  "count": 286,
   "items": [
+    {
+      "id": "te:markets:574834",
+      "time": "2026-08-13 06:51:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Tracks Wall Street Higher — New Zealand's stocks advanced 33 points, or 0.2%, to 13,771 in Thursday morning deals, halting losses from the previous two sessions, tracking a rise on Wall Street overnight as moderated inflation eased expectations of the Fed's tightening monetary policy decision at its upcoming meeting. The broader index moved from its lowest level since August 3, recorded a day earlier, mainly supported by gains from real estate, financials, materials, and energy. However, traders continued to monitor developments in the Middle East amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the release of the RBNZ's business inflation expectations for Q3 later today, after accelerating slightly in Q2. Among early gainers were Port of Tauranga (1.5%), Ebos Group (0.6%), South Port NZ (0.5%), Meridian Energy (0.5%), Freightways Group (0.4%), Infratil (0.4%), Chorus (0.4%), Mainfreight (0.3%), and Contact Energy (0.3%)."
+    },
+    {
+      "id": "5038186",
+      "time": "2026-08-13 06:50:36",
+      "tags": [
+        "公司",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 07:01 英國至7月三個月RICS房價指數；\n② 07:30 日本7月國內企業商品物價指數；\n③ 08:15 澳洲聯儲助理主席肯特參加一場爐邊談話；\n④ 14:00 英國第二季度GDP初值、6月GDP、6月工業產出、6月商品貿易帳；\n⑤ 17:00 歐元區6月工業產出；\n⑥ 20:00 京東二季度財報電話會；\n⑦ 20:15 美國2026年FOMC票委、克利夫蘭聯儲主席哈瑪克發表講話；\n⑧ 20:30 美國7月PPI、美國8月8日當週首次申請失業救濟人數；\n⑨ 20:40 美國2027年FOMC票委、里士滿主席巴爾金就經濟前景發表講話；\n⑩ 22:30 美國至8月7日當週EIA天然氣庫存。"
+    },
     {
       "id": "5038185",
       "time": "2026-08-13 06:49:39",

@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-13 06:51:01",
-  "count": 15038,
+  "updated": "2026-08-13 06:54:49",
+  "count": 15039,
   "items": [
+    {
+      "id": "te:markets:574834",
+      "time": "2026-08-13 06:51:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Tracks Wall Street Higher — New Zealand's stocks advanced 33 points, or 0.2%, to 13,771 in Thursday morning deals, halting losses from the previous two sessions, tracking a rise on Wall Street overnight as moderated inflation eased expectations of the Fed's tightening monetary policy decision at its upcoming meeting. The broader index moved from its lowest level since August 3, recorded a day earlier, mainly supported by gains from real estate, financials, materials, and energy. However, traders continued to monitor developments in the Middle East amid uncertainty over whether the Strait of Hormuz will reopen. Caution also prevailed ahead of the release of the RBNZ's business inflation expectations for Q3 later today, after accelerating slightly in Q2. Among early gainers were Port of Tauranga (1.5%), Ebos Group (0.6%), South Port NZ (0.5%), Meridian Energy (0.5%), Freightways Group (0.4%), Infratil (0.4%), Chorus (0.4%), Mainfreight (0.3%), and Contact Energy (0.3%)."
+    },
+    {
+      "id": "5038186",
+      "time": "2026-08-13 06:50:36",
+      "tags": [
+        "公司",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 07:01 英國至7月三個月RICS房價指數；\n② 07:30 日本7月國內企業商品物價指數；\n③ 08:15 澳洲聯儲助理主席肯特參加一場爐邊談話；\n④ 14:00 英國第二季度GDP初值、6月GDP、6月工業產出、6月商品貿易帳；\n⑤ 17:00 歐元區6月工業產出；\n⑥ 20:00 京東二季度財報電話會；\n⑦ 20:15 美國2026年FOMC票委、克利夫蘭聯儲主席哈瑪克發表講話；\n⑧ 20:30 美國7月PPI、美國8月8日當週首次申請失業救濟人數；\n⑨ 20:40 美國2027年FOMC票委、里士滿主席巴爾金就經濟前景發表講話；\n⑩ 22:30 美國至8月7日當週EIA天然氣庫存。"
+    },
     {
       "id": "5038185",
       "time": "2026-08-13 06:49:39",
@@ -137164,15 +137187,6 @@
         "Importance 1"
       ],
       "text": "NZX 50 Retreats from Record High on Profit-Taking — New Zealand's stocks fell 75 points, or 0.5%, to 13,922 in Thursday morning trade, erasing gains from the previous three sessions, as traders took profits after the index hit a record high a day earlier. Investors continued to assess the latest data after Wednesday's report showed New Zealand's unemployment rate increased to 5.6% in Q2, the highest since Q3 2015, amid a surge in inflation, raising questions about whether the central bank will cut interest rates at its upcoming meeting. However, further declines in oil prices amid optimism over US-Iran peace talks limited the fall, as easing inflation concerns tempered expectations of an interest rate hike. An upbeat session on Wall Street overnight also capped further declines, supported by strong corporate earnings and macroeconomic data. Healthcare, consumer staples, and utilities mainly weighed on the index, with early losers including Fisher & Paykel (-3.4%), Fletcher Building (-2.9%), Mercury NZ (-1.2%), and ANZ Group (-0.8%)."
-    },
-    {
-      "id": "5027540",
-      "time": "2026-08-06 06:51:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【報道：Situational Awareness豪擲4億美元押注，重返投資舞臺】據知情人士透露，就在其對沖基金瀕臨崩潰的幾天後，阿申布倫納（Leopold Aschenbrenner）已重返投資舞臺，豪擲4億美元支援一傢俬營公司。這筆於週二完成的投資，是阿申布倫納在Situational Awareness基金上週因華爾街多家貸方密集發出追加保證金通知而幾近崩盤後，如何收拾殘局的首個訊號。此次注資是在Situational Awareness上個月已向同一家公司投資1億美元的基礎上追加的。目前尚不清楚其私募股權組合中的哪家公司獲得了這筆額外資金。"
     }
   ]
 }
