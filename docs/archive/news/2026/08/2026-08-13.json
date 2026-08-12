@@ -1,7 +1,49 @@
 {
   "date": "2026-08-13",
-  "count": 223,
+  "count": 227,
   "items": [
+    {
+      "id": "mkt:019ff7d2-0f57-7aab-9013-bc9276308a99",
+      "time": "2026-08-13 05:12:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "US Commerce Secretary Lutnick said he will announce tomorrow local time that Apple (AAPL.O) will build a Mac mini plant in Texas."
+    },
+    {
+      "id": "5038144",
+      "time": "2026-08-13 05:11:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科預計2027年核心業務增速約10%。"
+    },
+    {
+      "id": "5038143",
+      "time": "2026-08-13 05:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科預計2027年安全業務將實現高個位數增長。"
+    },
+    {
+      "id": "mkt:019ff7d0-2b0f-7aab-9013-b2f164b904af",
+      "time": "2026-08-13 05:10:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "F.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs."
+    },
     {
       "id": "5038142",
       "time": "2026-08-13 05:08:19",

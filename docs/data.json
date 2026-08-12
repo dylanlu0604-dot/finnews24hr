@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-13 05:09:35",
-  "count": 15040,
+  "updated": "2026-08-13 05:13:24",
+  "count": 15043,
   "items": [
+    {
+      "id": "mkt:019ff7d2-0f57-7aab-9013-bc9276308a99",
+      "time": "2026-08-13 05:12:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "US Commerce Secretary Lutnick said he will announce tomorrow local time that Apple (AAPL.O) will build a Mac mini plant in Texas."
+    },
+    {
+      "id": "5038144",
+      "time": "2026-08-13 05:11:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科預計2027年核心業務增速約10%。"
+    },
+    {
+      "id": "5038143",
+      "time": "2026-08-13 05:10:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科預計2027年安全業務將實現高個位數增長。"
+    },
+    {
+      "id": "mkt:019ff7d0-2b0f-7aab-9013-b2f164b904af",
+      "time": "2026-08-13 05:10:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "F.O",
+        "Impact bullish"
+      ],
+      "text": "U.S. Commerce Secretary Lutnick said Ford Motor (F.N) is bringing more manufacturing back to the U.S., and that tariffs are encouraging the company to create more jobs."
+    },
     {
       "id": "5038142",
       "time": "2026-08-13 05:08:19",
@@ -137179,16 +137221,6 @@
         "市場"
       ],
       "text": "富時A50期指連續夜盤收跌0.35%，報14840點。"
-    },
-    {
-      "id": "mkt:019fd3c3-a712-7aab-8f94-4d3244677855",
-      "time": "2026-08-06 05:10:42",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【BofA expects yen to strengthen to 149】BofA now expects the yen to appreciate roughly 6% by year-end after coordinated currency intervention. Analysts including Shusuke Yamada wrote on Wednesday that with joint US–Japan action and expectations of BOJ tightening in coming months, USD/JPY is seen falling from about 158 to 149, versus a prior year-end forecast of 152. They say intervention raises the bar for successfully defending the yen and may require macro policy follow-up—specifically faster rate hikes; moving in September rather than October would let the BOJ demonstrate it is ahead of the curve on upside inflation risk."
     }
   ]
 }
