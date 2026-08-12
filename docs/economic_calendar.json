@@ -1,13 +1,13 @@
 {
-  "updated": "2026-08-12 19:05:47",
+  "updated": "2026-08-12 19:09:41",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
   "count": 417,
   "history_summary": {
-    "cached": 413,
-    "fetched": 4,
+    "cached": 417,
+    "fetched": 0,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -4315,7 +4315,7 @@
                   "previous": "6.59"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-08-12 19:05:43"
             },
             {
@@ -4373,7 +4373,7 @@
                   "previous": "834.2"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-08-12 19:05:43"
             },
             {
@@ -4431,7 +4431,7 @@
                   "previous": "272.1"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-08-12 19:05:43"
             },
             {
@@ -4489,7 +4489,7 @@
                   "previous": "169.7"
                 }
               ],
-              "history_status": "fetched",
+              "history_status": "cached",
               "history_checked_at": "2026-08-12 19:05:43"
             },
             {
@@ -28378,7 +28378,7 @@
           "previous": "6.59"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-08-12 19:05:43"
     },
     {
@@ -28436,7 +28436,7 @@
           "previous": "834.2"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-08-12 19:05:43"
     },
     {
@@ -28494,7 +28494,7 @@
           "previous": "272.1"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-08-12 19:05:43"
     },
     {
@@ -28552,7 +28552,7 @@
           "previous": "169.7"
         }
       ],
-      "history_status": "fetched",
+      "history_status": "cached",
       "history_checked_at": "2026-08-12 19:05:43"
     },
     {
