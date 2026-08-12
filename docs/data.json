@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 05:29:42",
-  "count": 15045,
+  "updated": "2026-08-13 05:33:28",
+  "count": 15044,
   "items": [
+    {
+      "id": "5038154",
+      "time": "2026-08-13 05:30:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras首席財務官表示，如果不是因為透過租回更多自有系統來擴大雲容量導致成本上升，公司第二季度調整後毛利率本應高出500個基點。"
+    },
     {
       "id": "5038153",
       "time": "2026-08-13 05:29:08",
@@ -137215,24 +137223,6 @@
         "Important"
       ],
       "text": "Brazil | Selic Interest Rate (Aug.5) | actual 14% | consensus 14.00% | previous 14.25%"
-    },
-    {
-      "id": "5027507",
-      "time": "2026-08-06 05:32:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯：國際足聯秘書長及國際足聯管理委員會成員重申全力支援國際足聯主席詹尼・因凡蒂諾。"
-    },
-    {
-      "id": "mkt:019fd3d5-c3e8-7aab-8f94-6770c0d7fa3d",
-      "time": "2026-08-06 05:30:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said tariffs have made us rich."
     }
   ]
 }
