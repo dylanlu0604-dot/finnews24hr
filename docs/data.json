@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-12 08:43:01",
-  "count": 15402,
+  "updated": "2026-08-12 08:46:53",
+  "count": 15405,
   "items": [
+    {
+      "id": "5036550",
+      "time": "2026-08-12 08:46:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【英特爾增發200億美元前據悉曾尋求美政府批准】當地時間8月11日，英特爾宣佈其普通股註冊公開發行定價為每股95美元，共發行210,526,315股普通股，發行規模從此前公佈的150億美元擴大至200億美元。據報道，英特爾CEO陳立武在公司增發股票前，曾致電美國商務部長盧特尼克尋求批准。美國政府最終決定不參與此次股票發行。"
+    },
+    {
+      "id": "5036549",
+      "time": "2026-08-12 08:44:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三麗鷗一季度財報不及預期 股價重挫18%創 2014 年以來最大跌幅】Hello Kitty 母公司三麗鷗一季度營業利潤不及市場預期，股價最大跌幅達 18%，創下 2014 年 5 月以來最大單日跌幅。公司週一公佈一季度營業利潤 224 億日元，低於一致預期的 234 億日元。三井住友日興證券分析師在研報中表示：本次財報表現平淡，無超預期亮點。"
+    },
+    {
+      "id": "5036548",
+      "time": "2026-08-12 08:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【學而思就學習機登入異常致歉】8月11日晚，學而思部分學習機出現登入異常。當天23時49分，“學而思親子”App向使用者推送《關於登入異常的說明》。學而思學習機團隊稱，20時30分起，部分學習機因伺服器網路波動出現登入異常，目前系統已逐步恢復，使用者可以正常掃碼登入使用。學而思學習機團隊就此向使用者致歉。（新黃河）"
+    },
+    {
+      "id": "5036547",
+      "time": "2026-08-12 08:44:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【來凱醫藥：LAE002新藥上市申請獲國家藥監局受理】來凱醫藥-B公告，LAE002(afuresertib)的新藥上市申請已獲中國國家藥品監督管理局藥品審評中心受理，用於治療既往接受內分泌治療後出現疾病復發或進展，伴有PIK3CA/AKT1/PTEN改變的HR+/HER2-區域性晚期或轉移性乳腺癌患者。此次申請基於III期臨床試驗AFFIRM-205的積極結果，該研究達到無進展生存期主要終點。公司與齊魯製藥於2025年11月訂立獨家許可協議，有資格獲得總額最高達人民幣20.45億元的首付款及里程碑款項。"
+    },
+    {
+      "id": "mkt:019ff36c-e298-7aab-8ffc-bf90fce9c90d",
+      "time": "2026-08-12 08:43:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Beijing Mianbi Intelligent files IPO counseling; CITIC Securities sponsor】CSRC posted that Beijing Mianbi Intelligent Technology Co., Ltd registered an IPO counseling record with the Beijing Securities Regulatory Bureau on Aug 11, 2026, intending an initial public offering and listing; counseling sponsor is CITIC Securities. The counseling report shows the company has no controlling shareholder; largest shareholder is Beijing Qingyu Qihang Technology Center (Limited Partnership) with a 16.45% stake."
+    },
     {
       "id": "5036546",
       "time": "2026-08-12 08:42:19",
@@ -140278,26 +140319,6 @@
         "其他"
       ],
       "text": "【江蘇省政府召開積體電路產業高質量發展專題推進會：加大對基礎材料、核心器件、前沿工藝、先進架構研發的支援力度，加速形成產業規模和叢集效應】8月4日下午，江蘇省政府召開“6+6”產業（積體電路）高質量發展專題推進會，加強統籌謀劃，深化協同聯動，聚力強鏈補鏈延鏈，推動積體電路產業發展取得更大突破。省長劉小濤主持會議。會議強調，要搶抓新一輪科技革命和產業變革的歷史機遇，最佳化創新要素供給配置，堅持省市縣三級聯動、財政金融協同發力、有效市場有為政府更好結合，加大對基礎材料、核心器件、前沿工藝、先進架構研發的支援力度，加速形成產業規模和叢集效應。構建協同創新生態體系，整合高校、科研院所和企業建立產業聯盟，著力打造高能級平臺，提升產業話語權和影響力。健全人才“引、育、用、留”全鏈條政策體系，靶向引進高層次人才、領軍人才，建設積體電路人才培養主陣地。分層分類培育壯大領軍企業、細分賽道標杆企業，加大精準扶持力度，牽引帶動產業能級整體躍升。"
-    },
-    {
-      "id": "5025611",
-      "time": "2026-08-05 08:44:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI與Anthropic模型再曝安全評估事件，曾嘗試植入惡意程式碼】OpenAI和Anthropic的人工智慧模型近日捲入此前未公開的網路安全事件，成為近期多起AI模型潛在安全風險事件中的最新案例。測試前沿AI模型潛在風險的英國人工智慧安全研究所（AISI）當地時間8月4日表示，在一項涉及網際網路接入的網路安全評估中，Anthropic的Mythos 5和OpenAI的GPT-5.6-Sol模型“持續針對真實個人和組織實施可能造成危害的活動”。AISI稱，該團隊在注意到“異常資料傳輸”後，於7月28日發現了這一事件。AISI表示，調查發現，在評估過程中，其中一個AI模型試圖向GitHub上的一個開源軟體專案植入有害程式碼，甚至建立虛假身份來推動程式碼獲得批准。AISI寫道：“一名人工維護者發現並拒絕批准惡意程式碼。”"
-    },
-    {
-      "id": "te:markets:572734",
-      "time": "2026-08-05 08:43:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "New Zealand Dollar Slips After Weak Jobs Report — The New Zealand dollar slipped to around $0.587, retreating from a two-month high after a weaker-than-expected jobs report raised doubts about how far interest rates may rise this year. New Zealand's unemployment rate climbed to 5.6% in the second quarter, the highest level since the third quarter of 2015 and above the expected 5.4%, pointing to growing slack in the labor market. Although employment increased 0.5% from the previous quarter and outpaced forecasts of a 0.1% rise, the gain was largely driven by a sharp increase in the labor force participation rate. Meanwhile, annual wage growth remained subdued at 2.0%, suggesting wage pressures are unlikely to fuel inflation and reducing the case for an aggressive tightening cycle. Still, markets continued to price in a September rate hike after the Reserve Bank of New Zealand signaled last month that further tightening would likely be needed to remove monetary stimulus and keep inflation under control."
     }
   ]
 }
