@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-13 01:54:27",
-  "count": 15074,
+  "updated": "2026-08-13 01:58:17",
+  "count": 15076,
   "items": [
+    {
+      "id": "5038067",
+      "time": "2026-08-13 01:57:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：巴西經濟團隊將支出約束觸發條款寫入國會一項無關法案之中。擬議措施將在 2027 年實現約 100 億雷亞爾的支出節省。"
+    },
+    {
+      "id": "mkt:019ff71e-baa0-7aab-9012-0ae808bede0b",
+      "time": "2026-08-13 01:56:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Brazil's economic team inserted spending-cut provisions into an unrelated bill filed with Congress; the measures would save about BRL 10 bln in 2027."
+    },
+    {
+      "id": "5038066",
+      "time": "2026-08-13 01:54:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊：無人機襲擊朱夫省胡塞武裝集結點。"
+    },
     {
       "id": "mkt:019ff71c-270c-7aab-9012-02842891b76f",
       "time": "2026-08-13 01:54:05",
@@ -137564,18 +137588,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera reported the foreign ministers of Saudi Arabia, Egypt, Turkey and Pakistan discussed efforts to de-escalate tensions and address current security challenges."
-    },
-    {
-      "id": "te:economy:573109",
-      "time": "2026-08-06 01:55:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Uruguay Inflation Rises Slightly in July — Uruguay’s annual inflation rate edged up to 4.27% in July 2026 from 4.25% in June. The strongest pressures were recorded in education (6.93%), followed by restaurants and hotels (6.72%), transport (5.76%), healthcare (5.59%), personal care and social protection (5.12%), housing and utilities (5.03%), recreation, sport and culture (4.56%), and information and communication (4.29%). Food prices increased 2.95%, while clothing and footwear remained the only major category in deflation, with prices falling 5.83%. On a monthly basis, consumer prices rose 0.07%, bringing year-to-date inflation to 3.40%."
     }
   ]
 }
