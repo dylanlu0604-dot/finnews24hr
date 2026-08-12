@@ -1,7 +1,19 @@
 {
   "date": "2026-08-13",
-  "count": 38,
+  "count": 39,
   "items": [
+    {
+      "id": "te:economy:574815",
+      "time": "2026-08-13 00:43:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Germany Current Account Surplus Widens in July — Germany’s current account surplus reached €19 billion in June 2026, widening from a surplus of €17.2 in the same period a year earlier. The goods surplus increased to €17.3 billion from €15.4 billion, while the primary income surplus was broadly unchanged at €13.96 billion. The secondary income deficit narrowed slightly to €4.99 billion from €5.1 billion, partly offsetting a wider services deficit of €7.2 billion versus €7.1 billion a year earlier. In the first half of 2026, the current account surplus narrowed slightly to €106.3 billion from €107.2 billion in the same period of 2025."
+    },
     {
       "id": "5038043",
       "time": "2026-08-13 00:38:53",

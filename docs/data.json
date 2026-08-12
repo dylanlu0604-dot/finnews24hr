@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-13 00:42:58",
-  "count": 15115,
+  "updated": "2026-08-13 00:46:56",
+  "count": 15107,
   "items": [
+    {
+      "id": "te:economy:574815",
+      "time": "2026-08-13 00:43:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Current Account",
+        "Importance 0"
+      ],
+      "text": "Germany Current Account Surplus Widens in July — Germany’s current account surplus reached €19 billion in June 2026, widening from a surplus of €17.2 in the same period a year earlier. The goods surplus increased to €17.3 billion from €15.4 billion, while the primary income surplus was broadly unchanged at €13.96 billion. The secondary income deficit narrowed slightly to €4.99 billion from €5.1 billion, partly offsetting a wider services deficit of €7.2 billion versus €7.1 billion a year earlier. In the first half of 2026, the current account surplus narrowed slightly to €106.3 billion from €107.2 billion in the same period of 2025."
+    },
     {
       "id": "5038043",
       "time": "2026-08-13 00:38:53",
@@ -137839,90 +137851,6 @@
         "MKT News"
       ],
       "text": "Iran's deputy foreign minister said an agreement with Oman does not imply implementation of Article 5 of the Islamabad memorandum of understanding."
-    },
-    {
-      "id": "mkt:019fd2d1-e805-7aab-8f91-486e6db4a660",
-      "time": "2026-08-06 00:46:39",
-      "tags": [
-        "MKT News",
-        "PSX.N"
-      ],
-      "text": "Phillips 66 (PSX.N) expects large-scale maintenance turnarounds in 2027 and 2028."
-    },
-    {
-      "id": "5027368",
-      "time": "2026-08-06 00:46:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：伊朗與阿曼達成協議，並不代表執行《伊斯蘭堡諒解備忘錄》第5條。"
-    },
-    {
-      "id": "te:markets:573104",
-      "time": "2026-08-06 00:45:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Gasoline Holds Near One-Month Low — US gasoline futures held near $2.85 per gallon on Wednesday after touching a one-month low of $2.80 earlier in the session, as growing optimism over a potential US-Iran agreement backed an outlook of improved supply. President Donald Trump said talks with Tehran were ongoing, while Iran and Oman continued discussions aimed at restoring tanker flows in the Persian Gulf. Still, prices remained about 24% above pre-war levels amid supply concerns from elsewhere. Yemen's Iran-backed Houthis claimed they had targeted a Saudi oil tanker in the Red Sea. In Russia, diesel and gasoline exports plunged 60% in July as Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027 while increasing imports from Belarus, India, Kazakhstan, and Morocco. Meanwhile, EIA data showed US gasoline inventories fell by 1.643 million barrels in the week to July 31st, exceeding expectations and leaving stocks 7% below the five-year seasonal average."
-    },
-    {
-      "id": "mkt:019fd2d0-a394-7aab-8f91-439629b44008",
-      "time": "2026-08-06 00:45:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's President Zelenskiy said he spoke by phone with the NATO secretary-general about ballistic missile issues."
-    },
-    {
-      "id": "5027367",
-      "time": "2026-08-06 00:45:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "Point72向客戶表示仍在對此次網路攻擊開展調查。"
-    },
-    {
-      "id": "5027366",
-      "time": "2026-08-06 00:44:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "Point72告知投資者其遭遇網路攻擊，初步核查顯示暫無客戶資訊被盜。"
-    },
-    {
-      "id": "mkt:019fd2d0-3521-7aab-8f91-3f0cd4f6f6d6",
-      "time": "2026-08-06 00:44:48",
-      "tags": [
-        "MKT News",
-        "PSX.N",
-        "Impact bullish"
-      ],
-      "text": "Phillips 66 (PSX.N) says it holds a more optimistic view of midcycle refining margins than previously expected."
-    },
-    {
-      "id": "mkt:019fd2cf-6fbe-7aab-8f91-32f8cc5c503a",
-      "time": "2026-08-06 00:43:57",
-      "tags": [
-        "MKT News",
-        "PSX.N",
-        "Impact bullish"
-      ],
-      "text": "Phillips 66 (PSX.N) expects refining fundamentals to strengthen further following the Iran conflict."
-    },
-    {
-      "id": "mkt:019fd2cf-5086-7aab-8f91-2f333fbbec17",
-      "time": "2026-08-06 00:43:49",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PSX.N",
-        "Impact bullish"
-      ],
-      "text": "Phillips 66 (PSX.N): the macro environment for refining remains strong."
     }
   ]
 }
