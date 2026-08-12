@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-13 02:02:09_
-_本檔包含 2666 則快訊，約 592077 字_
+_更新時間：2026-08-13 03:16:47_
+_本檔包含 2660 則快訊，約 591561 字_
+
+---
+
+### 2026-08-10 19:51:02  #國際
+
+白宮國家經濟委員會主任哈塞特：特朗普將自行決定持有英特爾股票的時長。
+
+---
+
+### 2026-08-10 19:50:38  #市場
+
+【SpaceX美股盤前漲超4%】SpaceX美股盤前漲超4%，現報138.45美元。
+
+---
+
+### 2026-08-10 19:50:35  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
+
+Hassett, director of the White House National Economic Council, said there is no need to invent a US Treasuries theory to stabilize the yen.
+
+---
+
+### 2026-08-10 19:50:30  #公司
+
+福克斯集團提交混合證券儲架發行備案。
+
+---
+
+### 2026-08-10 19:49:52  #MKT News #USDJPY
+
+White House National Economic Council Director Hassett said a stable yen exchange rate would help prevent volatility from spilling over.
+
+---
+
+### 2026-08-10 19:49:48  #其他
+
+白宮國家經濟委員會主任哈塞特：無需為穩定日元而炮製美債理論。
+
+---
+
+### 2026-08-10 19:49:25  #MKT News #EBAY.O #Impact bearish #GME.N
+
+GameStop (GME.N) CEO Ryan Cohen is reportedly considering withdrawing his $56 billion bid to acquire eBay.
+
+---
+
+### 2026-08-10 19:49:13  #市場
+
+EBAY股價盤前下跌2.5%，GAMESTOP股價盤前上漲3.7%。
+
+---
+
+### 2026-08-10 19:48:57  #其他
+
+白宮國家經濟委員會主任哈塞特：日元保持穩定有助於防範風險蔓延。
+
+---
+
+### 2026-08-10 19:48:44  #其他
+
+【內蒙古啟動防汛四級、暴雨氣象災害Ⅳ級應急響應】2026年8月10日12時，內蒙古自治區防汛抗旱指揮部與人工影響天氣與氣象災害防禦管理指揮部辦公室聯合啟動防汛四級應急響應和暴雨氣象災害Ⅳ級應急響應，統籌部署本輪區域性強降水防範應對工作。據氣象部門預測，8月10日起，內蒙古自西向東有一次區域性強降水過程。阿拉善盟東北部、巴彥淖爾市大部、鄂爾多斯市北部至赤峰市北部和中部、通遼市西北部、興安盟東部有大雨，巴彥淖爾市南部、鄂爾多斯市東北部、包頭市中部和南部、呼和浩特市西北部、烏蘭察布市中部、錫林郭勒盟中部和東南部、赤峰市中部有暴雨，局地有大暴雨，過程最大累計降水量可達50~120毫米，局地可達150毫米以上。（央視新聞）
+
+---
+
+### 2026-08-10 19:48:44  #MKT News #INTC.O
+
+Intel (INTC.O): proceeds intended for general corporate purposes, including capital expenditures and working capital.
+
+---
+
+### 2026-08-10 19:48:26  #MKT News #Macro & Rates #The Fed (FOMC)
+
+US White House National Economic Council director HASSETT said he hopes Fed governor COOK is indeed innocent.
+
+---
+
+### 2026-08-10 19:48:16  #MKT News #Macro & Rates #The Fed (FOMC)
+
+White House National Economic Council Director Hassett said he will not replace Lisa Cook as a Fed governor.
+
+---
+
+### 2026-08-10 19:47:57  #MKT News
+
+White House National Economic Council Director Hassett said actions on the yen fall within Treasury Secretary Bessent's remit and he offered no comment.
+
+---
+
+### 2026-08-10 19:47:35  #其他
+
+據訊息稱，遊戲驛站的科恩正考慮撤回 560 億美元收購 eBay 的要約。
+
+---
+
+### 2026-08-10 19:47:06  #其他
+
+白宮國家經濟委員會主任哈塞特：日元相關舉措屬於貝森特的權責範疇，不予置評。
+
+---
+
+### 2026-08-10 19:46:54  #其他
+
+【索馬利亞議會選出下院議長】當地時間8月10日，索馬利亞議會人民院（下院）投票選舉阿卜杜勒卡迪爾·穆罕默德·努爾為新議長。據悉，阿卜杜勒卡迪爾·穆罕默德·努爾獲得142票，另一名候選人獲得30張票。現有資料顯示，阿卜杜勒卡迪爾·穆罕默德·努爾曾在索馬利亞政府中擔任過國防部長、司法部長等多個重要職務。索馬利亞議會實行兩院制，分別為人民院和上院，互不隸屬。（央視新聞）
+
+---
+
+### 2026-08-10 19:46:51  #MKT News #Macro & Rates #The Fed (FOMC)
+
+White House National Economic Council director Hassett said Fed Chair Kevin Warsh is famously independent.
+
+---
+
+### 2026-08-10 19:46:32  #其他
+
+白宮國家經濟委員會主任哈塞特：凱文・沃什是極具獨立性的人物。
+
+---
+
+### 2026-08-10 19:46:17  #MKT News #Macro & Rates #The Fed (FOMC)
+
+HASSETT said the case involving Fed governor Cook is a legal matter and he has nothing to add.
+
+---
+
+### 2026-08-10 19:46:08  #公司 #焦點
+
+【英特爾將發行150億美元普通股】英特爾8月10日宣佈將發行150億美元普通股，計劃將此次發行所得淨款項用於一般公司用途，其中包括但不限於資本支出和營運資金，旨在進一步支援公司把握未來的增長機遇。宣告稱，受AI計算領域前所未有的投資推動，客戶持續釋放出強勁且可持續的需求訊號，物理AI、專用晶片、先進封裝及外部晶圓代工等新興領域的進展，為英特爾帶來巨大增長機遇。
+
+---
+
+### 2026-08-10 19:45:55  #其他
+
+白宮國家經濟委員會主任哈塞特：莉薩・庫克屬於法律層面問題，我對此沒有更多補充。
+
+---
+
+### 2026-08-10 19:45:06  #其他
+
+白宮國家經濟委員會主任哈塞特：希望莉薩・庫克確實是清白的。
+
+---
+
+### 2026-08-10 19:44:44  #央行 #國際
+
+白宮國家經濟委員會主任哈塞特：我接替莉薩・庫克進入美聯儲委員會一事 “不會發生”。
+
+---
+
+### 2026-08-10 19:44:38  #MKT News
+
+White House National Economic Council Director HASSETT said the U.S. government is carefully studying AI safety issues.
+
+---
+
+### 2026-08-10 19:44:26  #公司
+
+【申科股份：2026年上半年營收1.56億元 淨利潤同比增197.51%】申科股份公告稱，2026年上半年營收1.56億元，同比增長11.49%；歸屬於上市公司股東的淨利潤978.99萬元，同比增長197.51%；扣除非經常性損益的淨利潤926.49萬元，同比增長354.39%。經營活動產生的現金流量淨額-5033.17萬元，同比下降50.47%。報告期末總資產7.29億元，較上年度末增長9.94%；歸屬於上市公司股東的淨資產3.55億元，較上年度末下降16.47%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
+
+---
+
+### 2026-08-10 19:44:08  #MKT News #INTC.O
+
+Intel (INTC.O) said the offering is intended to support the company's growth.
+
+---
+
+### 2026-08-10 19:44:03  #其他
+
+白宮國家經濟委員會主任哈塞特：政府正在審慎研究人工智慧安全相關問題。
+
+---
+
+### 2026-08-10 19:43:50  #MKT News #Market Themes #AI Revolution
+
+HASSETT, director of the White House National Economic Council, said AI may be the most important policy issue over the next two years.
+
+---
+
+### 2026-08-10 19:43:43  #其他
+
+白宮國家經濟委員會主任哈塞特：工智慧或許是未來兩年最重要的政策議題。
+
+---
+
+### 2026-08-10 19:43:29  #其他
+
+英特爾：人工智慧領域的進展帶來重大增長機遇。
+
+---
+
+### 2026-08-10 19:43:18  #MKT News #INTC.O #Impact bullish
+
+Intel (INTC.O): Progress in artificial intelligence represents a significant growth opportunity.
+
+---
+
+### 2026-08-10 19:43:11  #MKT News #Market Themes #AI Revolution #INTC.O #Impact bullish
+
+Intel (INTC.O) said it has invested unprecedented amounts in AI computing.
+
+---
+
+### 2026-08-10 19:42:50  #其他
+
+英特爾稱人工智慧算力領域迎來空前規模投資。
+
+---
+
+### 2026-08-10 19:42:44  #其他
+
+【玉溪一交通事故致3人死亡，雲南省安委會掛牌督辦】近日，雲南省安全生產委員會發布較大生產安全事故查處掛牌督辦通知書（雲安事故督辦〔2026〕13號）。通知書指出，2026年8月2日，玉溪市紅塔區發生一起涉十二類車輛的道路交通事故，造成3人死亡。根據《較大事故查處掛牌督辦辦法》，省安委會決定對該起事故查處進行掛牌督辦。
+
+---
+
+### 2026-08-10 19:42:30  #國際
+
+【颱風“燦鴻”向日本東部沿海靠近 “琵鷺”未來對我國無影響】據中央氣象臺訊息，今年第15號颱風“燦鴻”（熱帶風暴級）的中心今天（8月10日）下午5點位於日本東京偏東方向約780公里的洋麵上（北緯35.1度、東經148.3度），中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為200-400公里。預計，“燦鴻”將以每小時25-30公里的速度向西偏北方向移動，強度變化不大，逐漸向日本東部沿海靠近。此外，今年第16號颱風“琵鷺”（熱帶風暴級）的中心今天下午5點位於美國塞班島東北方向約920公里的洋麵上（北緯21.4度、東經151.6度），中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑為160-180公里。預計，“琵鷺”將以每小時30-35公里的速度向東偏北方向快速移動，強度變化不大。未來“琵鷺”對我國無影響。（央視新聞）
+
+---
+
+### 2026-08-10 19:42:20  #MKT News #INTC.O #Impact bearish
+
+Intel (INTC.O) shares fell about 3% in premarket trading after the company announced a planned $15 billion common stock offering.
+
+---
+
+### 2026-08-10 19:42:18  #國際
+
+印度儲備銀行：截至7月31日，印度廣義貨幣供應量<INM3MS=ECI>同比增長14.7%。
+
+---
+
+### 2026-08-10 19:42:09  #公司
+
+【杉杉股份：控股股東上層股權結構變更完成 海螺集團成間接控股股東】杉杉股份公告稱，2026年1月29日，海螺集團、皖維集團等簽署相關協議，海螺集團擬現金增資49.78億元獲皖維集團60%股權，省投資集團、省國控集團擬無償劃轉各獲20%股權。7月20日，公司控股股東變更為皖維集團，實控人變為安徽省國資委。近日，皖維集團完成工商變更登記，海螺集團成為公司間接控股股東，實控人不變，未對公司日常經營產生實質影響。
+
+---
+
+### 2026-08-10 19:42:01  #其他
+
+英特爾：本次發行包含 22.5 億美元承銷商超額配售選擇權。
+
+---
+
+### 2026-08-10 19:41:55  #其他
+
+投資研究機構ARGUS RESEARCH將閃迪評級上調至“買入”。
+
+---
+
+### 2026-08-10 19:41:46  #市場
+
+英特爾股價盤前跌幅擴大至3%。
+
+---
+
+### 2026-08-10 19:41:43  #MKT News
+
+【Typhoon Canhong moving toward Japan’s east coast; Typhoon Pilu not expected to affect China】China’s Central Meteorological Observatory: at 17:00 Beijing time on Aug 10 Typhoon Canhong’s centre was about 780 km east of Tokyo (35.1°N, 148.3°E). Maximum winds near the centre 18 m/s, central pressure 998 hPa; radius of force‑7 winds 200–400 km. Canhong is moving west‑northwest at 25–30 km/h with little change in intensity, gradually approaching Japan’s eastern coast. At 17:00 Beijing time on Aug 10 Typhoon Pilu’s centre was about 920 km northeast of Saipan (21.4°N, 151.6°E). Maximum winds near the centre 20 m/s, central pressure 995 hPa; radius of force‑7 winds 160–180 km. Pilu is moving east‑northeast at 30–35 km/h with little change in intensity and is not expected to affect China.
+
+---
+
+### 2026-08-10 19:41:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
+
+【Jefferies downgrades Apple to Underperform, cuts PT to $263.66】Jefferies downgraded Apple Inc (AAPL.O) to Underperform from Hold and cut its price target to $263.66 from $285.56, implying roughly 16% downside to last Friday’s close. Analyst Edison Lee said Apple has cancelled a planned all‑glass 20th‑anniversary iPhone due to poor yields; the model was estimated to carry a blended ASP of $2,060 and Apple had planned to extend all‑glass features to future iPhone Pro/Pro Max models to lift ASPs and margins. Jefferies called the cancellation a major setback to Apple’s push for higher‑priced iPhones amid surging memory costs, lowering its iPhone ASP CAGR for FY2026–31 to 6.8% from 9.0% and trimming FY2028 EPS by 2.1%.
+
+---
+
+### 2026-08-10 19:40:59  #MKT News #DXY #Impact bearish #US10Y #Impact bullish #S&P500
+
+White House National Economic Council Director Hassett said if he were at the Fed now he would keep rates unchanged or cut.
+
+---
+
+### 2026-08-10 19:40:51  #市場 #焦點
+
+美國天然氣期貨漲超4.00%，現報2.771美元/百萬英熱。
+
+---
+
+### 2026-08-10 19:40:24  #其他
+
+英特爾：在資本配置方面將繼續保持審慎。
+
+---
+
+### 2026-08-10 19:40:21  #其他
+
+英特爾擬將所得資金用於一般企業用途。
+
+---
+
+### 2026-08-10 19:40:14  #MKT News
+
+Tyumen region governor said multiple drones crashed into industrial facilities, sparking fires.
+
+---
+
+### 2026-08-10 19:39:57  #國際
+
+俄羅斯秋明州州長表示，數架無人機撞擊該州一處工業設施場地後引發火災。
+
+---
+
+### 2026-08-10 19:39:50  #央行 #國際
+
+白宮國家經濟委員會主任哈塞特：如果我現在在美聯儲任職，我會維持利率不變或者降息。
+
+---
+
+### 2026-08-10 19:39:16  #MKT News #INTC.O #Impact bearish
+
+Intel (INTC.O) announced plans to issue $15 billion of common stock.
+
+---
+
+### 2026-08-10 19:39:11  #公司 #國際
+
+【Meta釋出可單卡執行輕量AI模型 扎克伯格描繪“個人賦能新時代”】Meta .推出了一款新的人工智慧模型，其體量足夠輕量，可以在單臺電腦上執行，使用者能夠下載並根據自己的需求進行定製。Meta週一表示，這款名為Muse Glimmer的新模型是該公司Muse Spark 1.2模型的蒸餾版本，設計重點是提高效率、儘可能降低對計算機系統配置的要求。Muse Glimmer擁有300億個引數，規模“小到”只需要一張顯示卡就能執行。Meta稱，該模型將主要用於具有智慧體特徵的人工智慧任務，例如日程管理和檔案整理。Muse Glimmer的模型權重 —— 也就是幫助人工智慧系統作出決策的一系列數值引數 —— 將在Hugging Face上開放。Meta還計劃開放效能更強的Muse Spark某個版本的模型權重。Meta此次選擇以寬鬆許可證釋出這些人工智慧模型。Meta執行長馬克·扎克伯格週一發表了一篇內容廣泛、涉及多項政策主張的文章。他表示，“與其把超級智慧集中在少數人手中，我們更應該讓它廣泛普及，讓每個人都有能力使用和駕馭它。這有望開啟一個個人賦能的新時代，讓每個人都能利用這一強大的新能力，充分發揮自身潛能。”扎克伯格還將Meta的發展路線與美國競爭對手作了對比。他表示，其他公司“專注於為企業、政府或其他機構開發人工智慧”，而Meta致力於打造“人人都能擁有的個人超級智慧”。
+
+---
+
+### 2026-08-10 19:39:07  #Trading Economics #Markets #United States #Currency #Importance 1
+
+Dollar Ticks Higher, Still Near 2-Month Low — The dollar index edged up to 99.7 on Monday, following a 0.4% decline last week that pushed the greenback to a two-month low. Traders are now awaiting this week’s CPI report for further clues on inflationary pressures, after Friday’s weaker-than-expected jobs report reduced expectations for a Fed rate hike in September. The odds of such a move currently stand at around 46%, down from approximately 64% a week ago, while the probability of the Fed holding rates is seen at about 54%. Meanwhile, traders continued to assess developments in the Middle East and ongoing talks to reopen the Strait of Hormuz, although a deal between the US and Iran appears unlikely in the near term. The dollar was mostly higher against the yen, with the Japanese currency giving back some of its intervention-driven gains while remaining well above the multi-decade low hit late last month.
+
+---
+
+### 2026-08-10 19:38:54  #其他
+
+英特爾：宣佈擬進行150億美元普通股發行。
+
+---
+
+### 2026-08-10 19:38:51  #其他
+
+【馬裡軍方稱打死50餘名恐怖分子】當地時間8月10日，馬裡武裝部隊總參謀部釋出通告稱，8月9日凌晨，大批恐怖分子對馬裡武裝部隊第23步兵團駐地發動突襲。駐守部隊迅速展開協同反擊，接連擊退多輪進攻，最終奪回營地控制權。經初步核查，已有50餘名恐怖分子被打死。截至通告發布時，馬裡軍方仍在事發區域持續搜捕追擊逃竄的恐怖分子。（央視新聞）
+
+---
+
+### 2026-08-10 19:38:06  #公司
+
+【中晟高科：擬設兩全資子公司投建新專案，合計出資5000萬元】中晟高科公告，公司擬以自有資金或自籌資金出資3000萬元在福清市江陰鎮設立全資子公司“景晟(福建)新材料有限公司”，投資建設“景晟（福建）新材料聚丙烯深加工專案”；擬以實物及現金出資2000萬元在福州市羅源縣設立全資子公司“福建晟灝新材料有限公司”，投資建設“高分子新材料專案”。兩個專案均從事改性塑膠新材料領域生產與銷售，投資總額分別為5000萬元和3500萬元，資金來源為自有資金。
+
+---
+
+### 2026-08-10 19:38:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
+
+【40°C heat returns to Europe: rivers critical, wildfire risk high, power grids under strain】A fresh heatwave will sweep drought-hit Europe this week, raising wildfire risk, threatening crops and further depleting already record-low river levels. France’s weather service expects a high-pressure heat dome to push northern France toward 40°C on Tuesday; southern UK around 35°C; Frankfurt may reach 38°C on Friday. The heat could block moisture-bearing clouds and hinder replenishment of major waterways — the Rhine, Po and Danube — whose low flows have already disrupted navigation and power generation. Higher temperatures and continued dryness are adding stress to grids, cutting hydropower output and suppressing agricultural yields; EU Joint Research Centre models show elevated fire risk this week across the UK, Spain, France, Germany and Italy.
+
+---
+
+### 2026-08-10 19:35:56  #MKT News #Market Regions #Europe & UK #LLY.N #Impact bullish
+
+UK approves Eli Lilly (LLY.N) drug FOUNDAYO for weight management and treatment of type 2 diabetes.
 
 ---
 
@@ -15708,396 +16062,5 @@ Syria's Interior Ministry said it foiled an attempt to smuggle weapons and ammun
 ### 2026-08-09 04:01:26  #MKT News #WTI #Impact bullish #Brent
 
 【CENTCOM says US forces forced 53 merchant ships to divert amid maritime blockade of Iran】CENTCOM said on Aug. 8 that US naval personnel conducted maintenance on F/A-18 Super Hornets aboard the USS Abraham Lincoln to keep the carrier strike group combat-ready, and that US forces have forced 53 merchant vessels to alter course, rendered two vessels unseaworthy, boarded and inspected two vessels, and allowed more than 30 vessels carrying humanitarian aid to transit the blockade as it continues strict maritime enforcement against Iran.
-
----
-
-### 2026-08-09 04:00:58  #MKT News #XAUUSD #Impact bullish #WTI #DXY #Impact mixed
-
-Israeli energy minister says he opposes the Gaza agreement now being drafted and assesses Hamas is plotting a deception.
-
----
-
-### 2026-08-09 04:00:46  #MKT News
-
-Israel's energy minister said Israel does not trust any agreement proposed by Hamas.
-
----
-
-### 2026-08-09 04:00:31  #國際
-
-【美軍稱已迫使53艘商船改變航線】當地時間8月8日，美國中央司令部表示，美國海軍人員在“林肯”號航母上對F/A-18“超級大黃蜂”戰機進行維護，以確保航母打擊群的裝備保持戰備狀態，繼續嚴格執行對伊朗的海上封鎖。截至當天，美軍已使53艘商船改道，使2艘船隻喪失航行能力，並登臨檢查了2艘船隻。此外，美軍還允許30多艘運載人道主義援助物資的船隻透過封鎖區。
-
----
-
-### 2026-08-09 03:50:40  #MKT News #WTI #Impact bullish #Brent
-
-【Vance says U.S.-Iran conflict remains "mid-game"】U.S. Vice President Vance said on the 8th that talks with Iran are ongoing and the U.S.-Iran confrontation remains in the "mid-game." He told Fox News the conflict has not ended but has moved beyond the opening phase. Washington is deploying diplomatic, economic and military measures to secure the best outcome. Vance said the U.S. priority is to maximize oil and gas flows through the Strait of Hormuz and is watching whether Iran will make the long-term changes needed to improve relations; if not, the U.S. will continue to apply pressure. He added the U.S. is working to establish a navigation mechanism to ensure safe passage for vessels, including mine-clearing, which would also require Iran to commit not to fire on merchant ships.
-
----
-
-### 2026-08-09 03:49:52  #焦點 #國際
-
-【萬斯稱美伊衝突仍處於“博弈中段”】美國副總統萬斯8日表示，美國同伊朗正在對話，美伊衝突仍處於“博弈中段”。萬斯當天在接受美國福克斯新聞頻道採訪時說，美伊衝突還沒有結束，“但顯然已不在開局階段，而是進入了中局階段”。他稱，美國正在綜合運用外交、經濟和軍事等一系列手段，以確保最終取得最好結果。（新華社）
-
----
-
-### 2026-08-09 03:47:29  #國際
-
-印度總理莫迪辦公室：莫迪與美國副總統萬斯通話，雙方回顧印美戰略伙伴關係取得的進展，就地區及全球局勢交換意見。
-
----
-
-### 2026-08-09 03:39:45  #MKT News
-
-Iraqi authorities announced they dismantled an armed network plotting drone attacks.
-
----
-
-### 2026-08-09 03:36:59  #國際
-
-沙特外交部週六表示，沙烏地阿拉伯對聯合國安理會一份宣告表示歡迎。該宣告譴責胡塞武裝自7月13日起針對沙特的導彈襲擊，以及7月22日以來針對商船的襲擊。
-
----
-
-### 2026-08-09 03:30:34  #MKT News
-
-USGS reported a magnitude-4.7 earthquake in the Kermadec Islands region with a focal depth of 10 km.
-
----
-
-### 2026-08-09 03:10:36  #MKT News
-
-Saudi Arabia reiterated firm support for the legitimate Yemeni government.
-
----
-
-### 2026-08-09 03:10:28  #MKT News #Market Regions #Europe & UK
-
-【Ukraine says it did not intentionally fire any equipment toward Bulgaria】A Ukrainian foreign ministry spokesman said on the 8th Kyiv is in close contact with Bulgarian authorities to determine the circumstances of a drone that crashed in Bulgaria and that Ukraine did not deliberately launch any equipment toward Bulgaria. He said Kyiv is verifying facts and technical details and is willing to cooperate with Bulgarian authorities to clarify the incident.
-
----
-
-### 2026-08-09 03:09:50  #國際
-
-【烏外交部：烏無意向保加利亞方向發射任何裝備】烏克蘭外交部發言人季希8日表示，烏克蘭方面正與保加利亞保持密切聯絡，以查明當天一架無人機在保加利亞墜落的具體情況。他強調，烏軍沒有蓄意向保加利亞方向發射任何裝備。季希說，烏方正在核實事件的全部情況和相關技術事實，並願與保加利亞方面開展合作，以查明事件細節。
-
----
-
-### 2026-08-09 03:08:19  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Saudi Arabia urged the international community to take a firm stance against threats to shipping and the security of international trade.
-
----
-
-### 2026-08-09 03:01:04  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Yemen's government armed forces said they will respond to Houthi attacks at an appropriate time and place.
-
----
-
-### 2026-08-09 03:00:58  #MKT News
-
-Yemen's government armed forces said Houthi forces again used ballistic missiles to strike Marib city, surrounding areas and refugee camps.
-
----
-
-### 2026-08-09 02:59:11  #其他
-
-葉門政府武裝部隊：胡塞武裝再度使用彈道導彈襲擊馬裡卜市、周邊區域以及難民營。
-
----
-
-### 2026-08-09 02:56:36  #MKT News
-
-CENTCOM said as of Aug. 8 it had intercepted and forced 53 commercial vessels to alter course, with 2 disabled and 2 boarded for inspection. U.S. forces allowed nearly 35 vessels to pass a blockade line for humanitarian relief.
-
----
-
-### 2026-08-09 02:56:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said the US Navy conducted maintenance on an F/A-18E Super Hornet on the flight deck of the aircraft carrier USS Abraham Lincoln (CVN-72) to keep carrier strike group assets mission‑ready while enforcing a US maritime blockade of Iran.
-
----
-
-### 2026-08-09 02:54:12  #國際
-
-特朗普：不要再搞虛假的伊朗協議。拿下哈格島，奪取石油，徹底結束戰事！
-
----
-
-### 2026-08-09 02:52:13  #其他
-
-美軍中央司令部：截至8月8日，美軍中央司令部已迫使53艘商船改道、癱瘓2艘船隻、登船檢查2艘。美軍同時准許近35艘船隻攜帶人道主義援助物資穿越封鎖區域。
-
----
-
-### 2026-08-09 02:42:31  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-【Israeli military weighing partial Gaza pullback; split over disarmament sequence】Channel 12 cited military sources saying the Israeli military is assessing withdrawing from certain positions in the Gaza Strip and handing them to an international stabilization force. Discussions have recently considered pulling back from parts inside the Yellow Line, but internal divisions remain over how to disarm Hamas, with debate focused on whether withdrawal should come before disarmament.
-
----
-
-### 2026-08-09 02:40:34  #國際
-
-【黑海遇襲商船停靠土耳其港口】當地時間3日，與土耳其相關的商船“娜代日達”號從俄羅斯黑海港口新羅西斯克港起航後遭到無人機襲擊，多名船員受傷。土耳其方面對商船在黑海海域遇襲已表示嚴重關切，警告說俄烏衝突影響外溢正威脅民用航運和地區穩定。8月8日，在黑海遭到無人機襲擊、船體受損的商船“娜代日達”號停靠在土耳其薩姆松港。
-
----
-
-### 2026-08-09 02:30:31  #MKT News #LMT.O #Impact bullish #RTX.O #NOC.O
-
-Zelenskiy says Ukraine will receive from the US "very strong" security guarantees after the war ends.
-
----
-
-### 2026-08-09 02:30:07  #央行 #國際
-
-伊朗央行行長：遭美國製裁的加密貨幣交易所與伊朗並無關聯，德黑蘭轉移的資金仍處於本國掌控之下。
-
----
-
-### 2026-08-09 02:29:43  #MKT News #Market Regions #Europe & UK
-
-Ukrainian President Zelenskiy said Serbia is a sovereign state and should be encouraged to integrate into the EU wherever possible.
-
----
-
-### 2026-08-09 02:29:41  #國際
-
-澤連斯基：衝突結束後，烏克蘭將獲得來自美國的 “力度極強” 的安全保障。
-
----
-
-### 2026-08-09 02:29:35  #MKT News
-
-Ukrainian President Zelenskiy said Serbia is not a 'Little Russia,' calling the label Russian political rhetoric.
-
----
-
-### 2026-08-09 02:28:49  #MKT News
-
-ZELENSKIY said he believes Serbia is on a path to rebuild its independence and break free from Russian influence.
-
----
-
-### 2026-08-09 02:23:18  #國際
-
-美國官員：儘管參謀長聯席會議主席就彈藥問題發出警告，特朗普仍決意發動戰爭，並預期戰事會迅速結束。
-
----
-
-### 2026-08-09 02:23:02  #國際
-
-美國五角大樓發言人：有關武器短缺的報道並不屬實，我們擁有開展任何打擊行動所需的全部物資。
-
----
-
-### 2026-08-09 02:22:34  #MKT News
-
-A State Duma lawmaker said the Middle East is gradually freeing itself from Western control and becoming part of a broader Eurasian security architecture.
-
----
-
-### 2026-08-09 02:17:03  #MKT News
-
-【M5.6 earthquake offshore Iwate, Japan; no tsunami expected】Japan Meteorological Agency said a magnitude-5.6 earthquake struck offshore Iwate Prefecture at 02:58 JST on the 9th (01:58 Beijing). Epicenter was near 40.1N, 142.4E with a focal depth of about 40 km. The agency said there is no tsunami threat.
-
----
-
-### 2026-08-09 02:16:51  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-【Vance: Iran told U.S. it has no plan to levy Strait of Hormuz transit fees】U.S. Vice President JD Vance told Fox News Iran has informed Washington it currently has no plan to impose transit fees on the Strait of Hormuz. He said some within the Iranian establishment discuss levies, but Tehran has denied any plan. Vance added Washington expects Gulf oil and gas exports to return to pre-war levels, that Gulf states share that objective, and that the U.S. will judge actions rather than words.
-
----
-
-### 2026-08-09 02:15:50  #國際
-
-【日本巖手縣近海發生5.6級地震】據日本氣象廳訊息，日本巖手縣近海9日凌晨發生5.6級地震。日本氣象廳說，地震發生於當地時間9日2時58分（北京時間9日1時58分）左右，震中位於北緯40.1度、東經142.4度，震源深度約40公里。日本氣象廳說，目前無需擔心發生海嘯災害。（新華社）
-
----
-
-### 2026-08-09 02:05:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Israeli Channel 13 reports Israel is preparing for the possibility of independently resuming strikes on Iran without US support.
-
----
-
-### 2026-08-09 02:05:42  #國際
-
-美國副總統萬斯稱，伊朗告知美國，並無在霍爾木茲海峽徵收通行費的計劃。
-
----
-
-### 2026-08-09 02:02:56  #公司
-
-市場資訊：亞馬遜雲科技（AWS）要求工程師減少CPU資源浪費，算力需求激增造成EC2算力資源緊張。部分工程師申請伺服器，過去數小時即可到位，如今需要等待數日。
-
----
-
-### 2026-08-09 01:59:04  #國際
-
-美國官員：受伊朗戰爭影響彈藥庫存急劇消耗，美國正調回原本劃撥給亞洲與歐洲的彈藥。
-
----
-
-### 2026-08-09 01:58:44  #國際
-
-土耳其外長：土耳其已向俄羅斯和烏克蘭轉達立場，要求雙方宣佈暫停在黑海的軍事行動。
-
----
-
-### 2026-08-09 01:58:38  #MKT News #Brent #Impact bearish #WTI
-
-Turkey's foreign minister said Ankara has told Russia and Ukraine they should stop attacks in the Black Sea.
-
----
-
-### 2026-08-09 01:48:50  #其他
-
-【中國代表隊首次參加國際核科學奧賽 獲一金三銀】2026年國際核科學奧林匹克競賽8日晚在沙烏地阿拉伯西部城市吉達閉幕，中國代表隊首次參賽，4名選手獲得一金三銀，總成績居參賽國家前列。（新華社）
-
----
-
-### 2026-08-09 01:47:53  #其他
-
-【秘魯庫斯科一客車與一卡車相撞 致9死6傷】當地時間8月8日凌晨，秘魯庫斯科大區埃斯皮納爾省帕爾帕塔區發生一起嚴重交通事故。一輛載客小型客車與一輛半掛式卡車發生猛烈碰撞，造成至少9人死亡、6人受傷。（央視新聞）
-
----
-
-### 2026-08-09 01:43:46  #MKT News
-
-Turkey's foreign minister said Egypt may join a defense pact once certain technical issues are resolved.
-
----
-
-### 2026-08-09 01:42:51  #國際
-
-土耳其外交部長：埃及或可在特定技術問題得到解決後加入該防務協議。
-
----
-
-### 2026-08-09 01:40:24  #MKT News
-
-【Vucic meets Zelenskiy; agree to deepen economic and trade cooperation】On the 8th (local time), Serbian President Vucic met Ukrainian President Zelenskiy; they agreed to deepen economic and trade cooperation and to expand cooperation on infrastructure and humanitarian aid.
-
----
-
-### 2026-08-09 01:39:22  #國際
-
-【武契奇會晤澤連斯基 雙方同意深化經貿合作】當地時間8日，烏克蘭總統澤連斯基結束對塞爾維亞為期兩天的正式訪問。這是烏克蘭國家元首時隔8年再次訪問塞爾維亞。期間，兩國元首舉行會晤，雙方同意深化經貿合作，並擴大基礎設施和人道主義援助領域合作。（新華社）
-
----
-
-### 2026-08-09 01:35:31  #國際
-
-土耳其外交部長：紅海航運安全關乎我國利益，因此土耳其必須參與沙烏地阿拉伯牽頭的國際聯盟。
-
----
-
-### 2026-08-09 01:32:24  #MKT News
-
-Turkey's foreign minister said Red Sea shipping security affects Turkey's interests and that Turkey must join the Saudi-led international coalition.
-
----
-
-### 2026-08-09 01:24:18  #MKT News
-
-Turkey's foreign minister said Iran is not the target of the defensive pact; provided it does not attack member states, no one is a target.
-
----
-
-### 2026-08-09 01:22:46  #國際
-
-土耳其外長：伊朗並非該防務協定的針對物件，只要不襲擊成員國，任何國家都不會成為我們的目標。
-
----
-
-### 2026-08-09 01:18:50  #國際
-
-土耳其外交部長：（土耳其、巴基斯坦、沙烏地阿拉伯的防務協定）公約將設立一個類似北約的部長級委員會，同時還設有總秘書處。
-
----
-
-### 2026-08-09 01:18:28  #MKT News
-
-Turkey's foreign minister said the defense agreement will establish a ministerial-level committee and a secretary-general, mirroring NATO's structure.
-
----
-
-### 2026-08-09 01:16:58  #國際
-
-市場資訊：伊朗安全負責人稱，德黑蘭正敲定霍爾木茲海峽相關協議，要求美方糾正自身行為。
-
----
-
-### 2026-08-09 01:15:56  #MKT News #Brent #Impact bearish #XAUUSD #DXY
-
-Turkey's foreign minister said the defense pact among Turkey, Pakistan and Saudi Arabia is technically equivalent to NATO's Article 5.
-
----
-
-### 2026-08-09 01:15:52  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Israel's Channel 12 reports Israeli officials say the United States is constraining Israel's options and pushing it into a dilemma over Gaza.
-
----
-
-### 2026-08-09 01:15:20  #MKT News
-
-【CENTCOM commander arrives in Israel to press for next phase of Gaza peace plan】CENTCOM commander Brad Cooper has arrived in Israel and will meet IDF chief of staff Zamir and other senior defense officials for a situation assessment, Israeli public broadcaster reports. Cooper held meetings in Bahrain and the UAE before the visit. The trip coincides with negotiations over a potential ceasefire as the US continues to press Israel to advance transition to the next phase of the Gaza peace plan.
-
----
-
-### 2026-08-09 01:14:41  #國際
-
-土耳其外交部長：土耳其、巴基斯坦、沙烏地阿拉伯的防務協定在性質上等同於北約第五條條款。
-注：北約第五條是北約集體防禦條款，規定對一個北約成員國的武裝攻擊即視為對所有北約成員國的武裝攻擊，所有締約國應採取包括武力在內的行動協助被攻擊國。
-
----
-
-### 2026-08-09 01:08:51  #國際
-
-美軍中央司令部司令訪以期間將商討加沙戰事轉入第二階段相關事宜。
-
----
-
-### 2026-08-09 01:08:37  #MKT News
-
-Market sources: CENTCOM commander will discuss the second-phase transition in Gaza during a visit to Israel.
-
----
-
-### 2026-08-09 01:08:28  #MKT News
-
-CENTCOM commander has arrived in Israel and will meet with senior Israeli military officials.
-
----
-
-### 2026-08-09 01:07:56  #國際
-
-市場資訊：美軍中央司令部司令抵達以色列，與以方高階軍事官員舉行會談。
-
----
-
-### 2026-08-09 01:07:14  #MKT News
-
-According to Israel's Channel 12, the Israeli military is evaluating withdrawing from certain positions in the Gaza Strip and handing them over to international stabilization forces.
-
----
-
-### 2026-08-09 01:06:53  #國際
-
-市場資訊：以軍考慮撤出加沙陣地，交由國際部隊接管。
-
----
-
-### 2026-08-09 01:01:12  #其他
-
-市場資訊：法律人工智慧初創企業哈維（Harvey）正洽談融資，計劃至少募資5億美元，融資後估值達155億美元，較五個月前的上一輪估值溢價40%。
-
----
-
-### 2026-08-09 00:59:22  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Vance: U.S. 'in a contest' with Iran】U.S. Vice President JD Vance told Fox News on Saturday the United States is 'in a contest' with Iran and is employing the full range of tools—diplomatic, economic and military—to secure the best outcome for Americans. He said talks with Iran have made some progress in recent days. The U.S. expects Gulf oil and gas output to return to pre-conflict levels, and Iran has indicated to U.S. officials it intends to do so.
 
 ---

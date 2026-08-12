@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-13 02:02:09_
-_本檔包含 3035 則快訊，約 591726 字_
+_更新時間：2026-08-13 03:16:47_
+_本檔包含 3034 則快訊，約 591190 字_
+
+---
+
+### 2026-08-13 03:08:16  #MKT News
+
+CENTCOM said as of local time Aug 12 US forces have forced 59 merchant vessels to divert, disabled three vessels and boarded and inspected two.
+
+---
+
+### 2026-08-13 03:06:44  #國際
+
+加拿大和美國尚未準備好達成關稅協議，加方對美方最新提案表示不滿。
+
+---
+
+### 2026-08-13 03:05:53  #其他
+
+美軍中央司令部：截至8月12日，美軍已對59艘商船實施改道，使3艘商船喪失航行能力，並登檢2艘商船，確保各方完全遵守封鎖規定。
+
+---
+
+### 2026-08-13 03:05:21  #MKT News
+
+Canada and the United States are not ready to conclude a tariff agreement; Canada says it is dissatisfied with the US's latest proposal.
+
+---
+
+### 2026-08-13 03:04:51  #MKT News #WTI #Impact bullish #Brent
+
+Iran's Persian Gulf Strait Authority said US officials' repeated claims that the Strait of Hormuz is no longer obstructed do not change the facts: the strait remains blocked and will not reopen unless Iran's conditions are accepted.
+
+---
+
+### 2026-08-13 03:03:30  #其他
+
+阿曼和沙烏地阿拉伯推出“安全綠色陸地走廊”，經魯卜哈利沙漠公路連線蘇哈爾港與SPARK內陸幹港，沙特境內路段約564公里，建設費用約5.33億美元。該專案旨在降低成本、加快貨物轉運，並繞開海上航運要道。
+
+---
+
+### 2026-08-13 03:01:53  #國際
+
+伊朗波斯灣水道管理局：霍爾木茲海峽仍處於封鎖狀態，在伊朗提出的條件得到滿足之前不會重新開放。
+
+---
+
+### 2026-08-13 03:00:42  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bearish
+
+Hang Seng Index futures closed the night session down 0.35% at 25,320, trading 120 points below the cash index.
+
+---
+
+### 2026-08-13 03:00:01  #市場
+
+恒指期貨夜盤收跌0.35%，報25318.72點，低水121.45點。
+
+---
+
+### 2026-08-13 02:54:22  #MKT News #PSKY.O #Impact bullish
+
+Paramount (PSKY.O) trading volume surged; shares up 2.61%.
+
+---
+
+### 2026-08-13 02:52:08  #MKT News
+
+Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to ensure CNN's independence.
+
+---
+
+### 2026-08-13 02:49:03  #其他
+
+市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。
+
+---
+
+### 2026-08-13 02:47:11  #MKT News #Commodities #Energy #Brent
+
+Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%.
+
+---
+
+### 2026-08-13 02:39:10  #Trading Economics #Economy #Paraguay #Balance of Trade #Importance 1
+
+Paraguay Trade Deficit Widens in July — Paraguay's trade deficit widened to $95.98 million in July 2026 from $89.07 million a year earlier, as imports grew faster than exports. Imports surged 30.6% year-on-year to $2.04 billion, led by increases in purchases of intermediate goods (36.9%), capital goods (36.7%), and consumer goods (18.2%). Meanwhile, exports rose 32% to $1.94 billion. Sales of primary products increased 27.7%, while agricultural manufacturing exports rose 24.2% and industrial manufacturing exports jumped 40.9%.
+
+---
+
+### 2026-08-13 02:37:14  #其他
+
+SPACEX股價漲幅擴大至12%，創7月10日以來新高。
+
+---
+
+### 2026-08-13 02:32:58  #MKT News
+
+US crude futures settled at $83.27/bbl, up $0.07, or 0.08%.
+
+---
+
+### 2026-08-13 02:31:43  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bullish #WTI
+
+【Night session main contracts close】As of 02:30 close, SHFE main gold contract rose 0.36% to 959 yuan/gram; SHFE main silver contract rose 0.63% to 16,024 yuan/kg; SC crude oil main contract rose 0.63% to 556 yuan/barrel.
+
+---
+
+### 2026-08-13 02:30:56  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange Gold T+D closed Wednesday evening (Aug 12) up 0.23 pct at 956.01 yuan/gram; Silver T+D closed up 0.23 pct at 15,988.0 yuan/kg.
+
+---
+
+### 2026-08-13 02:30:15  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish
+
+【Canada may accept partial U.S. auto tariffs to secure cuts】The Globe and Mail reports Canada is weighing a deal to accept part of U.S. auto tariffs in return for lower duties on vehicles meeting USMCA rules. Under a proposal discussed by negotiators, the value of U.S.-made parts in Canadian-built cars would be excluded from the tariff base, preserving an existing exemption, while Section 232 tariffs imposed by the Trump administration — currently 25% on USMCA-eligible Canadian exports — could be reduced. Canadian cars contain roughly 50% U.S. content; automakers say excluding U.S. content could make a 10–15% tariff tolerable. Talks aim for an agreement by Aug. 19, though Canadian officials expect a temporary pause of the next tariff round is more likely than a full resolution before that date.
+
+---
+
+### 2026-08-13 02:30:06  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Binance Depreciates by 1.00% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1% decrease.
+
+---
+
+### 2026-08-13 02:30:02  #市場
+
+上期所原油期貨夜盤收漲0.77%，報552.30元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲0.63%。
+
+---
+
+### 2026-08-13 02:25:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%).
+
+---
+
+### 2026-08-13 02:20:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1.18%), Platinum (0.87%) and Gold (0.86%). Biggest loser is Aluminum Alloy (-0.66%).
+
+---
+
+### 2026-08-13 02:19:48  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact mixed #S&P500
+
+【U.S. July budget deficit surges to highest monthly since March 2021】The U.S. Treasury reported Wednesday that the July budget deficit surged to $432.3bn, the largest monthly shortfall since March 2021 and a record for July. For the first 10 months of FY26 the cumulative deficit is nearly $1.8tn, exceeding the same period in FY25. July Medicare outlays rose to $174.0bn from $103.0bn in June, taking year-to-date Medicare spending to $955.0bn. July’s largest single outlay exceeded Social Security payments of $141.0bn and net interest on the federal debt of $104.0bn. Tariff refunds reduced the budget by about $33.0bn, and a calendar effect—July 1 fell on a non-workday—trimmed receipts by roughly $99.0bn. The Treasury flagged rising Medicare costs and persistent interest expenses as key drivers of the fiscal deterioration. President Trump has urged the Fed to cut rates to lower borrowing costs and has eased public criticism of the Fed since his nominee took over as chair in May.
+
+---
+
+### 2026-08-13 02:17:28  #MKT News
+
+【Sources: ALPHABET reorganises DeepMind to prioritise GEMINI】Refinitiv sources say ALPHABET is executing a major leadership reshuffle at Google DeepMind, moving some teams into Google’s corporate structure and reducing DeepMind’s autonomy. Google co‑founder Sergey Brin has in recent months pushed core AI staff to focus on GEMINI and on research into recursive self‑improvement. Demis Hassabis will become chairman; his deputy Koray Kavukcuoglu will assume operational leadership and will have final authority on major DeepMind decisions. Internal tests reportedly show the new flagship GEMINI model still trails rivals in programming and other tasks, prompting a roughly two‑month delay to its planned release. Analysts say the reorganisation aims to speed AI commercialisation and regain model competitiveness; some employees warn it may further erode DeepMind’s long‑term research independence.
+
+---
+
+### 2026-08-13 02:16:30  #Trading Economics #Economy #United States #Government Budget Value #Importance 1
+
+US Budget Deficit Widens in July — The US government posted a $432 billion budget deficit in July 2026, widening from a $291 billion shortfall a year earlier and exceeding forecasts for a $346 billion gap. Government outlays rose to $766 billion from $630 billion in July 2025, led by Medicare spending of $174 billion. Social Security costs reached $141 billion, while net interest accounted for $104 billion and national defense for $91 billion. Meanwhile, government receipts fell to $334 billion from $338 billion a year earlier, with individual income taxes contributing $173 billion and social insurance and retirement receipts totaling $139 billion.
+
+---
+
+### 2026-08-13 02:15:05  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Germany Natural Gas THE Rises by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas EU (3.20%) and Natural Gas UK (3.13%). Biggest losers are Methanol (-0.69%), Crude Oil WTI (-0.49%) and Brent Crude Oil (-0.30%).
+
+---
+
+### 2026-08-13 02:13:25  #公司
+
+【新基金髮行近期明顯提速】Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。在經歷7月下旬的階段性低谷後，新基金髮行正在明顯提速。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。（證券時報）
+
+---
+
+### 2026-08-13 02:05:47  #MKT News #WTI #Impact bullish #Brent
+
+【Iraq PM says Sept. 30 final deadline for coalition withdrawal】Iraq's prime minister told reporters after meeting visiting CENTCOM commander Cooper that Sept. 30 is the final deadline for international coalition forces to end their military mission and complete withdrawal from Iraq. He said Oct. 1 will mark the removal of all foreign military presence and the start of a new phase for Iraqi territorial sovereignty and strengthened security and military capabilities.
+
+---
+
+### 2026-08-13 02:04:50  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+U.S. Treasury: YTD FY26 budget deficit $1.799 tln, versus $1.629 tln in the same period of FY25.
+
+---
+
+### 2026-08-13 02:04:35  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact mixed #S&P500
+
+U.S. Treasury said July budget deficit was the largest since March 2021 and set a record for a July single-month deficit.
+
+---
+
+### 2026-08-13 02:04:22  #MKT News #Macro & Rates #US Economy #US10Y #Impact bearish #DXY #Impact bullish #S&P500
+
+U.S. Treasury said July budget deficit was $432 bln, versus $346 bln expected and $291 bln in July a year earlier.
+
+---
+
+### 2026-08-13 02:03:24  #國際
+
+美國 2026 財年截至目前赤字 1.799 萬億美元，2025 財年同期赤字為 1.629 萬億美元。
+
+---
+
+### 2026-08-13 02:03:12  #MKT News #Macro & Rates #US Economy #US10Y
+
+U.S. Treasury: July government outlays $766 bln, highest July on record, vs $630 bln in July last year. July receipts $334 bln, down from $338 bln a year earlier.
+
+---
+
+### 2026-08-13 02:03:01  #宏觀 #國際
+
+美國財政部：美國 7 月預算赤字為 2021 年 3 月以來最高，同時創下 7 月份歷史新高。
+
+---
+
+### 2026-08-13 02:02:57  #宏觀 #國際
+
+美國財政部：7 月海關淨收入為‑85.5 億美元；海關總收入 248.4 億美元，退稅 333.8 億美元。
+
+---
+
+### 2026-08-13 02:02:40  #MKT News #Macro & Rates #US Economy
+
+U.S. Treasury said July customs net receipts were negative $8.55 billion, total receipts $24.84 billion and refunds $33.38 billion.
+
+---
+
+### 2026-08-13 02:02:23  #公司 #國際
+
+L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。
 
 ---
 
@@ -18086,239 +18314,5 @@ Atlanta Fed first vice president Venable said the key question is whether price 
 ### 2026-08-11 22:38:08  #Trading Economics #Markets #United States #stocks #Importance 1
 
 Intuit Stock Price Hits 10-week High — Intuit shares increased to 337.05 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 16.27%, and in the last 12 months, it decreased 52.78%.
-
----
-
-### 2026-08-11 22:38:04  #MKT News
-
-Atlanta Fed first vice president said the U.S. labor market is broadly stable.
-
----
-
-### 2026-08-11 22:38:04  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Atlanta Fed first vice president Venable said inflation remains too high and contacts in the Southeast report the same.
-
----
-
-### 2026-08-11 22:37:29  #市場
-
-洲際交易所倫敦可可期貨<LCCc2>下跌近6%，至每噸4038英鎊。
-
----
-
-### 2026-08-11 22:37:24  #公司
-
-火箭實驗室執行長：從未見過火箭行業處境如此窘迫。
-
----
-
-### 2026-08-11 22:37:03  #央行 #國際
-
-亞特蘭大聯儲銀行維納布林：核心問題在於未來數月價格壓力是否會緩解，而局勢走向很大程度上取決於中東衝突的結局。
-
----
-
-### 2026-08-11 22:36:25  #MKT News #RKLB.O #Impact bullish
-
-Rocket Lab says it aims to complete the maiden launch of its Neutron rocket this year.
-
----
-
-### 2026-08-11 22:35:56  #央行 #其他
-
-亞特蘭大聯儲銀行維納布林：通脹水平仍過高，東南部各受訪機構反饋一致。
-
----
-
-### 2026-08-11 22:35:47  #市場
-
-洲際交易所紐約可可期貨<CCc2>跌幅近7%，跌至每噸5,536美元。
-
----
-
-### 2026-08-11 22:35:21  #國際
-
-市場訊息：俄羅斯釋放自 2022 年起在俄服刑的前美國海軍陸戰隊士兵。
-
----
-
-### 2026-08-11 22:34:47  #其他
-
-火箭實驗室：力爭今年完成中子火箭首次發射。
-
----
-
-### 2026-08-11 22:33:44  #MKT News #Market Regions #Greater China
-
-【China rejects U.S. 'microphone diplomacy' over missile test criticism】On Aug. 11 at the Conference on Disarmament in Geneva, the U.S. and other countries issued a joint 'ballistic missile launch notification' statement criticizing China’s July submarine-launched intercontinental ballistic missile test. China’s disarmament ambassador Li Chijiang strongly rejected the criticism, saying Beijing had given advance notice of the test, accusing the U.S. of enlisting non-members, abusing the forum for political manipulation and applying double standards, and calling the move 'microphone diplomacy' that China will not accept.
-
----
-
-### 2026-08-11 22:32:32  #公司 #市場
-
-【資產管理公司股價上漲】阿波羅全球管理公司股價上漲5%，藍鴞資本股價上漲4.5%，黑石集團股價上漲3%，凱雷集團股價上漲2.7%。貝萊德股價上漲1.2%，阿瑞斯管理集團股價上漲3.3%，KKR股價上漲4.5%，GCM格羅夫納股價上漲3.6%。
-
----
-
-### 2026-08-11 22:32:20  #市場
-
-加拿大182天期國債收益率平均為2.436%，364天期國債收益率平均為2.718%
-
----
-
-### 2026-08-11 22:32:10  #國際
-
-【中方在裁談會嚴正駁斥美方無端指責】今天（8月11日），在日內瓦裁軍談判會議上，美國等國發表所謂“彈道導彈發射通報”共同發言，無端指責中國7月進行的潛射洲際彈道導彈試射。中國裁軍事務大使李馳江發言予以嚴正駁斥，闡明中方立場。 李馳江大使強調，中方堅決反對個別國家濫用裁談會平臺搞政治操弄。美方為一己政治私利，誘拉包括非裁談會成員國在內的一些國家參加共同發言，對中方提前通報導彈試射的善意舉動吹毛求疵、無端指責，大搞“麥克風外交”。這是典型的政治操弄和赤裸裸的雙重標準，中方對此絕不接受，堅決反對。 李馳江大使指出，美方無端指責完全站不住腳。美方援引自願性政治承諾“防止彈道導彈擴散海牙行為準則”要求中方提前通報導彈發射，但中方不是“準則”成員，不受“準則”約束。中方始終安全、規範、負責任地開展洲際彈道導彈試射活動，提前向美國等國家作通報，採取審慎且合理的措施，確保我試射未損害任何國家利益，充分體現中方的善意和負責任態度。中方有關善意舉措絕不應被地緣政治算計所綁架。 李馳江大使表示，美方沒有資格在導彈試射問題上對中方說三道四。中方至今僅進行過三次洲際導彈試射，在五核國中試射次數最少。美國是全世界洲際導彈試射次數最多、最頻繁的國家，大肆“毀約退群”，斥巨資投入核力量建設，大搞“核共享”和“延伸威懾”安排，對國際和平與安全構成嚴重威脅。美國未認真履行導彈試射通報責任，沒有資格對中方提前通報的善意行為求全責備。 李馳江大使強調，中國始終堅持走和平發展道路，奉行自衛防禦核戰略，始終將核力量維持在國家安全需要最低水平，不參加任何形式的核軍備競賽。中國核力量是懾止核戰爭、維護世界和平安全與全球戰略穩定不可或缺的力量。中國正當合理的國防現代化建設不容置疑。中方敦促美方反躬自省，多做真正有利於世界和平與穩定的事情。（CCTV國際時訊）
-
----
-
-### 2026-08-11 22:31:15  #其他
-
-貓途鷹表示部分體驗專案可透過愛彼迎進行預訂。
-
----
-
-### 2026-08-11 22:30:45  #公司
-
-市場訊息：貓途鷹集團與愛彼迎達成全新合作關係。
-
----
-
-### 2026-08-11 22:28:40  #公司
-
-市場訊息：安森基金敦促獅門影業考慮出售公司。
-
----
-
-### 2026-08-11 22:27:36  #國際
-
-市場訊息：俄羅斯國防部通報，俄武裝力量對敖德薩南部一艘巡邏艇實施打擊。該艇用於護送向烏克蘭港口運送供烏武裝部隊武器的貨船。
-
----
-
-### 2026-08-11 22:27:24  #MKT News #Important
-
-【Manus to resume independent operations; some users' data to be deleted】On Aug 11 Manus said it will resume operating as an independent company. As part of that transition and to comply with regulatory requirements in certain jurisdictions, data for some users created on or after Dec 29, 2025 will be deleted starting 08:00 SGT on Aug 23, 2026 and through Aug 24, 2026. Affected users can back up data until 07:59 SGT on Aug 23, 2026 and may restore data from 08:00 SGT on Aug 25, 2026. Unaffected users can continue using Manus with no action required.
-
----
-
-### 2026-08-11 22:27:10  #其他
-
-獅門影業股價最高暴漲 6%。
-
----
-
-### 2026-08-11 22:27:01  #MKT News #Brent #Impact bullish #WTI #DXY
-
-The Russian Defence Ministry said Russian forces sank a patrol boat in waters south of Odesa. The vessel had been escorting a freighter transporting weapons to Ukrainian ports for the Ukrainian armed forces.
-
----
-
-### 2026-08-11 22:26:17  #國際
-
-伊朗外長阿拉格齊與巴基斯坦內政部長舉行會談。
-
----
-
-### 2026-08-11 22:25:21  #公司 #國際
-
-3M 印度公司稱艾哈邁達巴德工廠已全面恢復生產。
-
----
-
-### 2026-08-11 22:23:54  #公司 #國際
-
-【拉脫維亞啟動全國協同行動遏制非法移民】拉脫維亞政府11日啟動代號“狼人行動”的全國協同行動，以遏制該國與白俄羅斯接壤的邊境非法移民活動。據拉脫維亞總理府釋出的新聞公告，此次行動由總理安德里斯·庫爾貝格斯發起，總理府危機管理中心協調內政部下屬邊防警衛隊、國家警察局以及國家武裝部隊等多方聯合行動，計劃持續到8月底。自2021年以來，拉脫維亞方面因移民強行越境持續收緊與白俄羅斯交界處的邊境管制政策，帕特涅基口岸現僅允許機動車通行。拉脫維亞政府7月1日決定將拉白邊境地區的強化警戒狀態延長至今年年底。據當地媒體報道，今年以來，拉脫維亞邊防人員已攔截近9500次非法越境企圖。（新華社）
-
----
-
-### 2026-08-11 22:23:17  #MKT News #ORCL.O #Impact bullish
-
-Texas governor says Oracle has pledged to comply with data-center standards.
-
----
-
-### 2026-08-11 22:22:12  #MKT News
-
-Market sources: Pakistan's interior minister to meet Iran's foreign minister.
-
----
-
-### 2026-08-11 22:20:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Falls for 2nd Session — The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the supramax index went down 0.2% to 1,600, the lowest in nine weeks. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.3% to 2,312, its highest level since June 2.
-
----
-
-### 2026-08-11 22:20:04  #MKT News
-
-【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict.
-
----
-
-### 2026-08-11 22:18:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report.
-
----
-
-### 2026-08-11 22:17:59  #國際
-
-【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。
-
----
-
-### 2026-08-11 22:17:36  #其他
-
-美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。
-
----
-
-### 2026-08-11 22:16:04  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
-
-Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years.
-
----
-
-### 2026-08-11 22:15:45  #其他
-
-法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。
-
----
-
-### 2026-08-11 22:15:25  #Trading Economics #Markets #Commodity #Importance 0
-
-Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027.
-
----
-
-### 2026-08-11 22:15:12  #國際
-
-俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。
-
----
-
-### 2026-08-11 22:14:52  #國際
-
-俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。
-
----
-
-### 2026-08-11 22:14:26  #其他
-
-比亞迪2027款海豹06正式上市，提供DM-i和EV純電兩種動力版本選擇，售價為9.99萬至15.59萬元。
-
----
-
-### 2026-08-11 22:13:04  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
-
-【Zonghuixin Photonics to build high-end optical-communications chip and device R&D and manufacturing base in Changzhou】On Aug 11 Zonghuixin Photonics signed an agreement to establish a high-end optical-communications chip and device R&D and manufacturing base in Changzhou. The project includes total committed investment of about 5 bln yuan and will prioritize R&D and mass-production lines for indium phosphide high-end laser chips to promote domestic localization of core optical-communications chips.
-
----
-
-### 2026-08-11 22:12:38  #其他
-
-【縱慧芯光高階光通訊晶片及器件研發製造基地落戶常州】8月11日上午，縱慧芯光高階光通訊晶片及器件研發製造基地簽約落戶常州。本次簽約專案持續投入總計約50億元，將重點建設磷化銦高階鐳射晶片研發及量產產線，助推國內光通訊核心晶片的國產化程序。（常州釋出）
 
 ---

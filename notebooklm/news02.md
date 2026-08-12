@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-13 02:02:09_
-_本檔包含 3152 則快訊，約 591589 字_
+_更新時間：2026-08-13 03:16:47_
+_本檔包含 3132 則快訊，約 591130 字_
+
+---
+
+### 2026-08-11 22:38:04  #MKT News
+
+Atlanta Fed first vice president said the U.S. labor market is broadly stable.
+
+---
+
+### 2026-08-11 22:38:04  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
+
+Atlanta Fed first vice president Venable said inflation remains too high and contacts in the Southeast report the same.
+
+---
+
+### 2026-08-11 22:37:29  #市場
+
+洲際交易所倫敦可可期貨<LCCc2>下跌近6%，至每噸4038英鎊。
+
+---
+
+### 2026-08-11 22:37:24  #公司
+
+火箭實驗室執行長：從未見過火箭行業處境如此窘迫。
+
+---
+
+### 2026-08-11 22:37:03  #央行 #國際
+
+亞特蘭大聯儲銀行維納布林：核心問題在於未來數月價格壓力是否會緩解，而局勢走向很大程度上取決於中東衝突的結局。
+
+---
+
+### 2026-08-11 22:36:25  #MKT News #RKLB.O #Impact bullish
+
+Rocket Lab says it aims to complete the maiden launch of its Neutron rocket this year.
+
+---
+
+### 2026-08-11 22:35:56  #央行 #其他
+
+亞特蘭大聯儲銀行維納布林：通脹水平仍過高，東南部各受訪機構反饋一致。
+
+---
+
+### 2026-08-11 22:35:47  #市場
+
+洲際交易所紐約可可期貨<CCc2>跌幅近7%，跌至每噸5,536美元。
+
+---
+
+### 2026-08-11 22:35:21  #國際
+
+市場訊息：俄羅斯釋放自 2022 年起在俄服刑的前美國海軍陸戰隊士兵。
+
+---
+
+### 2026-08-11 22:34:47  #其他
+
+火箭實驗室：力爭今年完成中子火箭首次發射。
+
+---
+
+### 2026-08-11 22:33:44  #MKT News #Market Regions #Greater China
+
+【China rejects U.S. 'microphone diplomacy' over missile test criticism】On Aug. 11 at the Conference on Disarmament in Geneva, the U.S. and other countries issued a joint 'ballistic missile launch notification' statement criticizing China’s July submarine-launched intercontinental ballistic missile test. China’s disarmament ambassador Li Chijiang strongly rejected the criticism, saying Beijing had given advance notice of the test, accusing the U.S. of enlisting non-members, abusing the forum for political manipulation and applying double standards, and calling the move 'microphone diplomacy' that China will not accept.
+
+---
+
+### 2026-08-11 22:32:32  #公司 #市場
+
+【資產管理公司股價上漲】阿波羅全球管理公司股價上漲5%，藍鴞資本股價上漲4.5%，黑石集團股價上漲3%，凱雷集團股價上漲2.7%。貝萊德股價上漲1.2%，阿瑞斯管理集團股價上漲3.3%，KKR股價上漲4.5%，GCM格羅夫納股價上漲3.6%。
+
+---
+
+### 2026-08-11 22:32:20  #市場
+
+加拿大182天期國債收益率平均為2.436%，364天期國債收益率平均為2.718%
+
+---
+
+### 2026-08-11 22:32:10  #國際
+
+【中方在裁談會嚴正駁斥美方無端指責】今天（8月11日），在日內瓦裁軍談判會議上，美國等國發表所謂“彈道導彈發射通報”共同發言，無端指責中國7月進行的潛射洲際彈道導彈試射。中國裁軍事務大使李馳江發言予以嚴正駁斥，闡明中方立場。 李馳江大使強調，中方堅決反對個別國家濫用裁談會平臺搞政治操弄。美方為一己政治私利，誘拉包括非裁談會成員國在內的一些國家參加共同發言，對中方提前通報導彈試射的善意舉動吹毛求疵、無端指責，大搞“麥克風外交”。這是典型的政治操弄和赤裸裸的雙重標準，中方對此絕不接受，堅決反對。 李馳江大使指出，美方無端指責完全站不住腳。美方援引自願性政治承諾“防止彈道導彈擴散海牙行為準則”要求中方提前通報導彈發射，但中方不是“準則”成員，不受“準則”約束。中方始終安全、規範、負責任地開展洲際彈道導彈試射活動，提前向美國等國家作通報，採取審慎且合理的措施，確保我試射未損害任何國家利益，充分體現中方的善意和負責任態度。中方有關善意舉措絕不應被地緣政治算計所綁架。 李馳江大使表示，美方沒有資格在導彈試射問題上對中方說三道四。中方至今僅進行過三次洲際導彈試射，在五核國中試射次數最少。美國是全世界洲際導彈試射次數最多、最頻繁的國家，大肆“毀約退群”，斥巨資投入核力量建設，大搞“核共享”和“延伸威懾”安排，對國際和平與安全構成嚴重威脅。美國未認真履行導彈試射通報責任，沒有資格對中方提前通報的善意行為求全責備。 李馳江大使強調，中國始終堅持走和平發展道路，奉行自衛防禦核戰略，始終將核力量維持在國家安全需要最低水平，不參加任何形式的核軍備競賽。中國核力量是懾止核戰爭、維護世界和平安全與全球戰略穩定不可或缺的力量。中國正當合理的國防現代化建設不容置疑。中方敦促美方反躬自省，多做真正有利於世界和平與穩定的事情。（CCTV國際時訊）
+
+---
+
+### 2026-08-11 22:31:15  #其他
+
+貓途鷹表示部分體驗專案可透過愛彼迎進行預訂。
+
+---
+
+### 2026-08-11 22:30:45  #公司
+
+市場訊息：貓途鷹集團與愛彼迎達成全新合作關係。
+
+---
+
+### 2026-08-11 22:28:40  #公司
+
+市場訊息：安森基金敦促獅門影業考慮出售公司。
+
+---
+
+### 2026-08-11 22:27:36  #國際
+
+市場訊息：俄羅斯國防部通報，俄武裝力量對敖德薩南部一艘巡邏艇實施打擊。該艇用於護送向烏克蘭港口運送供烏武裝部隊武器的貨船。
+
+---
+
+### 2026-08-11 22:27:24  #MKT News #Important
+
+【Manus to resume independent operations; some users' data to be deleted】On Aug 11 Manus said it will resume operating as an independent company. As part of that transition and to comply with regulatory requirements in certain jurisdictions, data for some users created on or after Dec 29, 2025 will be deleted starting 08:00 SGT on Aug 23, 2026 and through Aug 24, 2026. Affected users can back up data until 07:59 SGT on Aug 23, 2026 and may restore data from 08:00 SGT on Aug 25, 2026. Unaffected users can continue using Manus with no action required.
+
+---
+
+### 2026-08-11 22:27:10  #其他
+
+獅門影業股價最高暴漲 6%。
+
+---
+
+### 2026-08-11 22:27:01  #MKT News #Brent #Impact bullish #WTI #DXY
+
+The Russian Defence Ministry said Russian forces sank a patrol boat in waters south of Odesa. The vessel had been escorting a freighter transporting weapons to Ukrainian ports for the Ukrainian armed forces.
+
+---
+
+### 2026-08-11 22:26:17  #國際
+
+伊朗外長阿拉格齊與巴基斯坦內政部長舉行會談。
+
+---
+
+### 2026-08-11 22:25:21  #公司 #國際
+
+3M 印度公司稱艾哈邁達巴德工廠已全面恢復生產。
+
+---
+
+### 2026-08-11 22:23:54  #公司 #國際
+
+【拉脫維亞啟動全國協同行動遏制非法移民】拉脫維亞政府11日啟動代號“狼人行動”的全國協同行動，以遏制該國與白俄羅斯接壤的邊境非法移民活動。據拉脫維亞總理府釋出的新聞公告，此次行動由總理安德里斯·庫爾貝格斯發起，總理府危機管理中心協調內政部下屬邊防警衛隊、國家警察局以及國家武裝部隊等多方聯合行動，計劃持續到8月底。自2021年以來，拉脫維亞方面因移民強行越境持續收緊與白俄羅斯交界處的邊境管制政策，帕特涅基口岸現僅允許機動車通行。拉脫維亞政府7月1日決定將拉白邊境地區的強化警戒狀態延長至今年年底。據當地媒體報道，今年以來，拉脫維亞邊防人員已攔截近9500次非法越境企圖。（新華社）
+
+---
+
+### 2026-08-11 22:23:17  #MKT News #ORCL.O #Impact bullish
+
+Texas governor says Oracle has pledged to comply with data-center standards.
+
+---
+
+### 2026-08-11 22:22:12  #MKT News
+
+Market sources: Pakistan's interior minister to meet Iran's foreign minister.
+
+---
+
+### 2026-08-11 22:20:31  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Falls for 2nd Session — The Baltic dry index fell 1.2% to 3,046 on Tuesday, extending a 0.2% decrease on Monday. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, dropped 2% to 5,001. Also, the supramax index went down 0.2% to 1,600, the lowest in nine weeks. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, increased 0.3% to 2,312, its highest level since June 2.
+
+---
+
+### 2026-08-11 22:20:04  #MKT News
+
+【Iran expects daily gas capacity to rebound by about 95 mln cubic meters by end-September】Iranian oil minister Mohsen Paknejad said on the 11th that Iran is repairing gas production facilities damaged in the fighting and expects daily capacity to recover about 95 million cubic meters by the end of September, roughly half of the daily gas output lost to the conflict.
+
+---
+
+### 2026-08-11 22:18:56  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+Canadian Stocks Set Fresh Record — The S&P/TSX Composite Index rose to a record above 36,500, with support from heavyweight banks. Oil prices trimmed earlier losses after a spokesperson for Qatar’s foreign ministry said negotiations between Oman and Iran were at an advanced stage, offering some hope of progress toward an agreement. Financials traded higher, with TD Bank, BMO, CIBC and Scotiabank up about 1% each, while Brookfield gained more than 2%. Markets are now turning to Wednesday’s US consumer price index for July, which is expected to provide fresh clues on the Federal Reserve’s policy outlook. Meanwhile, expectations of a hawkish Bank of Canada remained after strong domestic labor data released last week. Among miners, Franco-Nevada (+0.2%) was in focus ahead of its earnings report after the bell, while investors continued to digest Barrick’s (-1%) results from Tuesday. In tech, Shopify shed more than 1%, while Constellation Software edged lower ahead of its earnings report.
+
+---
+
+### 2026-08-11 22:17:59  #國際
+
+【Circle漲超7% Bitwise稱投資者嚴重低估其增長機會】週二，Circle(CRCL.US)股價走高，截至發稿，該股漲超7%，報72美元。訊息面上，Bitwise研究主管Ryan Rasmussen表示，隨著穩定幣市場向數萬億美元規模擴張，投資者正在低估Circle的增長機會。他預計，穩定幣市場規模將從目前約3000億美元增長至3萬億至5萬億美元，並認為隨著美國穩定幣監管框架逐步成形，Circle憑藉現有市場份額已佔據先發優勢。
+
+---
+
+### 2026-08-11 22:17:36  #其他
+
+美國得州州長Abbott：甲骨文承諾遵守資料中心相關標準。
+
+---
+
+### 2026-08-11 22:16:04  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Germany 10-Year Bund Yield Pulls Back — Germany’s 10-year Bund yield fell to around 3.15%, remaining below the 15-year high hit above 3.2% in July, as renewed hopes for a Middle East agreement eased inflation concerns and pushed oil prices lower. Pakistan signaled optimism that the US and Iran were “close to some sort of arrangement” over the Strait of Hormuz, potentially reducing tensions and supporting the restoration of energy flows. The positive assessment followed tougher rhetoric from President Trump, who said Tehran should pay reparations for deaths linked to attacks and domestic protests, in response to demands made by Iran over the weekend. Investors are now assessing whether diplomatic progress can lead to a broader agreement and sustained easing in energy prices. Lower oil costs could reduce inflationary pressure and provide greater flexibility for monetary policy. The European Central Bank left interest rates unchanged in July after delivering a 25-basis-point increase in June, its first rate hike in three years.
+
+---
+
+### 2026-08-11 22:15:45  #其他
+
+法國巴黎銀行將艾伯維目標股價從218美元上調至247美元。
+
+---
+
+### 2026-08-11 22:15:25  #Trading Economics #Markets #Commodity #Importance 0
+
+Gasoline Futures Reverse Course — US gasoline futures fell below $3.1 per gallon on Tuesday, after approaching a one-week high of $3.18 earlier in the session, as hopes for a US-Iran peace agreement raised expectations of the key waterway reopening. Pakistan’s Defense Minister Khawaja Asif stated a deal was close and that lasting peace would serve the region’s interests. Meanwhile, Iran said talks with Oman on alternative shipping routes were at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. Still, US President Donald Trump adopted a tougher stance, warning that Tehran would have to pay for damage caused by past attacks. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further disruptions to energy infrastructure after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027.
+
+---
+
+### 2026-08-11 22:15:12  #國際
+
+俄羅斯總統普京表示，俄羅斯是發展複雜科學基礎設施的世界領先國家之一。
+
+---
+
+### 2026-08-11 22:14:52  #國際
+
+俄羅斯總統普京表示，需要保護俄羅斯的科研成果資訊。
+
+---
+
+### 2026-08-11 22:14:26  #其他
+
+比亞迪2027款海豹06正式上市，提供DM-i和EV純電兩種動力版本選擇，售價為9.99萬至15.59萬元。
+
+---
+
+### 2026-08-11 22:13:04  #MKT News #Market Themes #Chip Wars #Market Regions #Greater China
+
+【Zonghuixin Photonics to build high-end optical-communications chip and device R&D and manufacturing base in Changzhou】On Aug 11 Zonghuixin Photonics signed an agreement to establish a high-end optical-communications chip and device R&D and manufacturing base in Changzhou. The project includes total committed investment of about 5 bln yuan and will prioritize R&D and mass-production lines for indium phosphide high-end laser chips to promote domestic localization of core optical-communications chips.
+
+---
+
+### 2026-08-11 22:12:38  #其他
+
+【縱慧芯光高階光通訊晶片及器件研發製造基地落戶常州】8月11日上午，縱慧芯光高階光通訊晶片及器件研發製造基地簽約落戶常州。本次簽約專案持續投入總計約50億元，將重點建設磷化銦高階鐳射晶片研發及量產產線，助推國內光通訊核心晶片的國產化程序。（常州釋出）
 
 ---
 
@@ -18645,359 +18879,5 @@ A memo showed ARAMCO pushed back the restart of the 400,000 bpd Jazan refinery b
 ### 2026-08-10 19:51:13  #MKT News #EBAY.O #Impact bearish #GME.N #Impact bullish
 
 Pre-market: eBay (EBAY.O) shares down 2.5%; GameStop (GME.N) up 3.7%.
-
----
-
-### 2026-08-10 19:51:02  #國際
-
-白宮國家經濟委員會主任哈塞特：特朗普將自行決定持有英特爾股票的時長。
-
----
-
-### 2026-08-10 19:50:38  #市場
-
-【SpaceX美股盤前漲超4%】SpaceX美股盤前漲超4%，現報138.45美元。
-
----
-
-### 2026-08-10 19:50:35  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC
-
-Hassett, director of the White House National Economic Council, said there is no need to invent a US Treasuries theory to stabilize the yen.
-
----
-
-### 2026-08-10 19:50:30  #公司
-
-福克斯集團提交混合證券儲架發行備案。
-
----
-
-### 2026-08-10 19:49:52  #MKT News #USDJPY
-
-White House National Economic Council Director Hassett said a stable yen exchange rate would help prevent volatility from spilling over.
-
----
-
-### 2026-08-10 19:49:48  #其他
-
-白宮國家經濟委員會主任哈塞特：無需為穩定日元而炮製美債理論。
-
----
-
-### 2026-08-10 19:49:25  #MKT News #EBAY.O #Impact bearish #GME.N
-
-GameStop (GME.N) CEO Ryan Cohen is reportedly considering withdrawing his $56 billion bid to acquire eBay.
-
----
-
-### 2026-08-10 19:49:13  #市場
-
-EBAY股價盤前下跌2.5%，GAMESTOP股價盤前上漲3.7%。
-
----
-
-### 2026-08-10 19:48:57  #其他
-
-白宮國家經濟委員會主任哈塞特：日元保持穩定有助於防範風險蔓延。
-
----
-
-### 2026-08-10 19:48:44  #其他
-
-【內蒙古啟動防汛四級、暴雨氣象災害Ⅳ級應急響應】2026年8月10日12時，內蒙古自治區防汛抗旱指揮部與人工影響天氣與氣象災害防禦管理指揮部辦公室聯合啟動防汛四級應急響應和暴雨氣象災害Ⅳ級應急響應，統籌部署本輪區域性強降水防範應對工作。據氣象部門預測，8月10日起，內蒙古自西向東有一次區域性強降水過程。阿拉善盟東北部、巴彥淖爾市大部、鄂爾多斯市北部至赤峰市北部和中部、通遼市西北部、興安盟東部有大雨，巴彥淖爾市南部、鄂爾多斯市東北部、包頭市中部和南部、呼和浩特市西北部、烏蘭察布市中部、錫林郭勒盟中部和東南部、赤峰市中部有暴雨，局地有大暴雨，過程最大累計降水量可達50~120毫米，局地可達150毫米以上。（央視新聞）
-
----
-
-### 2026-08-10 19:48:44  #MKT News #INTC.O
-
-Intel (INTC.O): proceeds intended for general corporate purposes, including capital expenditures and working capital.
-
----
-
-### 2026-08-10 19:48:26  #MKT News #Macro & Rates #The Fed (FOMC)
-
-US White House National Economic Council director HASSETT said he hopes Fed governor COOK is indeed innocent.
-
----
-
-### 2026-08-10 19:48:16  #MKT News #Macro & Rates #The Fed (FOMC)
-
-White House National Economic Council Director Hassett said he will not replace Lisa Cook as a Fed governor.
-
----
-
-### 2026-08-10 19:47:57  #MKT News
-
-White House National Economic Council Director Hassett said actions on the yen fall within Treasury Secretary Bessent's remit and he offered no comment.
-
----
-
-### 2026-08-10 19:47:35  #其他
-
-據訊息稱，遊戲驛站的科恩正考慮撤回 560 億美元收購 eBay 的要約。
-
----
-
-### 2026-08-10 19:47:06  #其他
-
-白宮國家經濟委員會主任哈塞特：日元相關舉措屬於貝森特的權責範疇，不予置評。
-
----
-
-### 2026-08-10 19:46:54  #其他
-
-【索馬利亞議會選出下院議長】當地時間8月10日，索馬利亞議會人民院（下院）投票選舉阿卜杜勒卡迪爾·穆罕默德·努爾為新議長。據悉，阿卜杜勒卡迪爾·穆罕默德·努爾獲得142票，另一名候選人獲得30張票。現有資料顯示，阿卜杜勒卡迪爾·穆罕默德·努爾曾在索馬利亞政府中擔任過國防部長、司法部長等多個重要職務。索馬利亞議會實行兩院制，分別為人民院和上院，互不隸屬。（央視新聞）
-
----
-
-### 2026-08-10 19:46:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-White House National Economic Council director Hassett said Fed Chair Kevin Warsh is famously independent.
-
----
-
-### 2026-08-10 19:46:32  #其他
-
-白宮國家經濟委員會主任哈塞特：凱文・沃什是極具獨立性的人物。
-
----
-
-### 2026-08-10 19:46:17  #MKT News #Macro & Rates #The Fed (FOMC)
-
-HASSETT said the case involving Fed governor Cook is a legal matter and he has nothing to add.
-
----
-
-### 2026-08-10 19:46:08  #公司 #焦點
-
-【英特爾將發行150億美元普通股】英特爾8月10日宣佈將發行150億美元普通股，計劃將此次發行所得淨款項用於一般公司用途，其中包括但不限於資本支出和營運資金，旨在進一步支援公司把握未來的增長機遇。宣告稱，受AI計算領域前所未有的投資推動，客戶持續釋放出強勁且可持續的需求訊號，物理AI、專用晶片、先進封裝及外部晶圓代工等新興領域的進展，為英特爾帶來巨大增長機遇。
-
----
-
-### 2026-08-10 19:45:55  #其他
-
-白宮國家經濟委員會主任哈塞特：莉薩・庫克屬於法律層面問題，我對此沒有更多補充。
-
----
-
-### 2026-08-10 19:45:06  #其他
-
-白宮國家經濟委員會主任哈塞特：希望莉薩・庫克確實是清白的。
-
----
-
-### 2026-08-10 19:44:44  #央行 #國際
-
-白宮國家經濟委員會主任哈塞特：我接替莉薩・庫克進入美聯儲委員會一事 “不會發生”。
-
----
-
-### 2026-08-10 19:44:38  #MKT News
-
-White House National Economic Council Director HASSETT said the U.S. government is carefully studying AI safety issues.
-
----
-
-### 2026-08-10 19:44:26  #公司
-
-【申科股份：2026年上半年營收1.56億元 淨利潤同比增197.51%】申科股份公告稱，2026年上半年營收1.56億元，同比增長11.49%；歸屬於上市公司股東的淨利潤978.99萬元，同比增長197.51%；扣除非經常性損益的淨利潤926.49萬元，同比增長354.39%。經營活動產生的現金流量淨額-5033.17萬元，同比下降50.47%。報告期末總資產7.29億元，較上年度末增長9.94%；歸屬於上市公司股東的淨資產3.55億元，較上年度末下降16.47%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。
-
----
-
-### 2026-08-10 19:44:08  #MKT News #INTC.O
-
-Intel (INTC.O) said the offering is intended to support the company's growth.
-
----
-
-### 2026-08-10 19:44:03  #其他
-
-白宮國家經濟委員會主任哈塞特：政府正在審慎研究人工智慧安全相關問題。
-
----
-
-### 2026-08-10 19:43:50  #MKT News #Market Themes #AI Revolution
-
-HASSETT, director of the White House National Economic Council, said AI may be the most important policy issue over the next two years.
-
----
-
-### 2026-08-10 19:43:43  #其他
-
-白宮國家經濟委員會主任哈塞特：工智慧或許是未來兩年最重要的政策議題。
-
----
-
-### 2026-08-10 19:43:29  #其他
-
-英特爾：人工智慧領域的進展帶來重大增長機遇。
-
----
-
-### 2026-08-10 19:43:18  #MKT News #INTC.O #Impact bullish
-
-Intel (INTC.O): Progress in artificial intelligence represents a significant growth opportunity.
-
----
-
-### 2026-08-10 19:43:11  #MKT News #Market Themes #AI Revolution #INTC.O #Impact bullish
-
-Intel (INTC.O) said it has invested unprecedented amounts in AI computing.
-
----
-
-### 2026-08-10 19:42:50  #其他
-
-英特爾稱人工智慧算力領域迎來空前規模投資。
-
----
-
-### 2026-08-10 19:42:44  #其他
-
-【玉溪一交通事故致3人死亡，雲南省安委會掛牌督辦】近日，雲南省安全生產委員會發布較大生產安全事故查處掛牌督辦通知書（雲安事故督辦〔2026〕13號）。通知書指出，2026年8月2日，玉溪市紅塔區發生一起涉十二類車輛的道路交通事故，造成3人死亡。根據《較大事故查處掛牌督辦辦法》，省安委會決定對該起事故查處進行掛牌督辦。
-
----
-
-### 2026-08-10 19:42:30  #國際
-
-【颱風“燦鴻”向日本東部沿海靠近 “琵鷺”未來對我國無影響】據中央氣象臺訊息，今年第15號颱風“燦鴻”（熱帶風暴級）的中心今天（8月10日）下午5點位於日本東京偏東方向約780公里的洋麵上（北緯35.1度、東經148.3度），中心附近最大風力有8級（18米/秒），中心最低氣壓為998百帕，七級風圈半徑為200-400公里。預計，“燦鴻”將以每小時25-30公里的速度向西偏北方向移動，強度變化不大，逐漸向日本東部沿海靠近。此外，今年第16號颱風“琵鷺”（熱帶風暴級）的中心今天下午5點位於美國塞班島東北方向約920公里的洋麵上（北緯21.4度、東經151.6度），中心附近最大風力有8級（20米/秒），中心最低氣壓為995百帕，七級風圈半徑為160-180公里。預計，“琵鷺”將以每小時30-35公里的速度向東偏北方向快速移動，強度變化不大。未來“琵鷺”對我國無影響。（央視新聞）
-
----
-
-### 2026-08-10 19:42:20  #MKT News #INTC.O #Impact bearish
-
-Intel (INTC.O) shares fell about 3% in premarket trading after the company announced a planned $15 billion common stock offering.
-
----
-
-### 2026-08-10 19:42:18  #國際
-
-印度儲備銀行：截至7月31日，印度廣義貨幣供應量<INM3MS=ECI>同比增長14.7%。
-
----
-
-### 2026-08-10 19:42:09  #公司
-
-【杉杉股份：控股股東上層股權結構變更完成 海螺集團成間接控股股東】杉杉股份公告稱，2026年1月29日，海螺集團、皖維集團等簽署相關協議，海螺集團擬現金增資49.78億元獲皖維集團60%股權，省投資集團、省國控集團擬無償劃轉各獲20%股權。7月20日，公司控股股東變更為皖維集團，實控人變為安徽省國資委。近日，皖維集團完成工商變更登記，海螺集團成為公司間接控股股東，實控人不變，未對公司日常經營產生實質影響。
-
----
-
-### 2026-08-10 19:42:01  #其他
-
-英特爾：本次發行包含 22.5 億美元承銷商超額配售選擇權。
-
----
-
-### 2026-08-10 19:41:55  #其他
-
-投資研究機構ARGUS RESEARCH將閃迪評級上調至“買入”。
-
----
-
-### 2026-08-10 19:41:46  #市場
-
-英特爾股價盤前跌幅擴大至3%。
-
----
-
-### 2026-08-10 19:41:43  #MKT News
-
-【Typhoon Canhong moving toward Japan’s east coast; Typhoon Pilu not expected to affect China】China’s Central Meteorological Observatory: at 17:00 Beijing time on Aug 10 Typhoon Canhong’s centre was about 780 km east of Tokyo (35.1°N, 148.3°E). Maximum winds near the centre 18 m/s, central pressure 998 hPa; radius of force‑7 winds 200–400 km. Canhong is moving west‑northwest at 25–30 km/h with little change in intensity, gradually approaching Japan’s eastern coast. At 17:00 Beijing time on Aug 10 Typhoon Pilu’s centre was about 920 km northeast of Saipan (21.4°N, 151.6°E). Maximum winds near the centre 20 m/s, central pressure 995 hPa; radius of force‑7 winds 160–180 km. Pilu is moving east‑northeast at 30–35 km/h with little change in intensity and is not expected to affect China.
-
----
-
-### 2026-08-10 19:41:30  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O #Impact bearish
-
-【Jefferies downgrades Apple to Underperform, cuts PT to $263.66】Jefferies downgraded Apple Inc (AAPL.O) to Underperform from Hold and cut its price target to $263.66 from $285.56, implying roughly 16% downside to last Friday’s close. Analyst Edison Lee said Apple has cancelled a planned all‑glass 20th‑anniversary iPhone due to poor yields; the model was estimated to carry a blended ASP of $2,060 and Apple had planned to extend all‑glass features to future iPhone Pro/Pro Max models to lift ASPs and margins. Jefferies called the cancellation a major setback to Apple’s push for higher‑priced iPhones amid surging memory costs, lowering its iPhone ASP CAGR for FY2026–31 to 6.8% from 9.0% and trimming FY2028 EPS by 2.1%.
-
----
-
-### 2026-08-10 19:40:59  #MKT News #DXY #Impact bearish #US10Y #Impact bullish #S&P500
-
-White House National Economic Council Director Hassett said if he were at the Fed now he would keep rates unchanged or cut.
-
----
-
-### 2026-08-10 19:40:51  #市場 #焦點
-
-美國天然氣期貨漲超4.00%，現報2.771美元/百萬英熱。
-
----
-
-### 2026-08-10 19:40:24  #其他
-
-英特爾：在資本配置方面將繼續保持審慎。
-
----
-
-### 2026-08-10 19:40:21  #其他
-
-英特爾擬將所得資金用於一般企業用途。
-
----
-
-### 2026-08-10 19:40:14  #MKT News
-
-Tyumen region governor said multiple drones crashed into industrial facilities, sparking fires.
-
----
-
-### 2026-08-10 19:39:57  #國際
-
-俄羅斯秋明州州長表示，數架無人機撞擊該州一處工業設施場地後引發火災。
-
----
-
-### 2026-08-10 19:39:50  #央行 #國際
-
-白宮國家經濟委員會主任哈塞特：如果我現在在美聯儲任職，我會維持利率不變或者降息。
-
----
-
-### 2026-08-10 19:39:16  #MKT News #INTC.O #Impact bearish
-
-Intel (INTC.O) announced plans to issue $15 billion of common stock.
-
----
-
-### 2026-08-10 19:39:11  #公司 #國際
-
-【Meta釋出可單卡執行輕量AI模型 扎克伯格描繪“個人賦能新時代”】Meta .推出了一款新的人工智慧模型，其體量足夠輕量，可以在單臺電腦上執行，使用者能夠下載並根據自己的需求進行定製。Meta週一表示，這款名為Muse Glimmer的新模型是該公司Muse Spark 1.2模型的蒸餾版本，設計重點是提高效率、儘可能降低對計算機系統配置的要求。Muse Glimmer擁有300億個引數，規模“小到”只需要一張顯示卡就能執行。Meta稱，該模型將主要用於具有智慧體特徵的人工智慧任務，例如日程管理和檔案整理。Muse Glimmer的模型權重 —— 也就是幫助人工智慧系統作出決策的一系列數值引數 —— 將在Hugging Face上開放。Meta還計劃開放效能更強的Muse Spark某個版本的模型權重。Meta此次選擇以寬鬆許可證釋出這些人工智慧模型。Meta執行長馬克·扎克伯格週一發表了一篇內容廣泛、涉及多項政策主張的文章。他表示，“與其把超級智慧集中在少數人手中，我們更應該讓它廣泛普及，讓每個人都有能力使用和駕馭它。這有望開啟一個個人賦能的新時代，讓每個人都能利用這一強大的新能力，充分發揮自身潛能。”扎克伯格還將Meta的發展路線與美國競爭對手作了對比。他表示，其他公司“專注於為企業、政府或其他機構開發人工智慧”，而Meta致力於打造“人人都能擁有的個人超級智慧”。
-
----
-
-### 2026-08-10 19:39:07  #Trading Economics #Markets #United States #Currency #Importance 1
-
-Dollar Ticks Higher, Still Near 2-Month Low — The dollar index edged up to 99.7 on Monday, following a 0.4% decline last week that pushed the greenback to a two-month low. Traders are now awaiting this week’s CPI report for further clues on inflationary pressures, after Friday’s weaker-than-expected jobs report reduced expectations for a Fed rate hike in September. The odds of such a move currently stand at around 46%, down from approximately 64% a week ago, while the probability of the Fed holding rates is seen at about 54%. Meanwhile, traders continued to assess developments in the Middle East and ongoing talks to reopen the Strait of Hormuz, although a deal between the US and Iran appears unlikely in the near term. The dollar was mostly higher against the yen, with the Japanese currency giving back some of its intervention-driven gains while remaining well above the multi-decade low hit late last month.
-
----
-
-### 2026-08-10 19:38:54  #其他
-
-英特爾：宣佈擬進行150億美元普通股發行。
-
----
-
-### 2026-08-10 19:38:51  #其他
-
-【馬裡軍方稱打死50餘名恐怖分子】當地時間8月10日，馬裡武裝部隊總參謀部釋出通告稱，8月9日凌晨，大批恐怖分子對馬裡武裝部隊第23步兵團駐地發動突襲。駐守部隊迅速展開協同反擊，接連擊退多輪進攻，最終奪回營地控制權。經初步核查，已有50餘名恐怖分子被打死。截至通告發布時，馬裡軍方仍在事發區域持續搜捕追擊逃竄的恐怖分子。（央視新聞）
-
----
-
-### 2026-08-10 19:38:06  #公司
-
-【中晟高科：擬設兩全資子公司投建新專案，合計出資5000萬元】中晟高科公告，公司擬以自有資金或自籌資金出資3000萬元在福清市江陰鎮設立全資子公司“景晟(福建)新材料有限公司”，投資建設“景晟（福建）新材料聚丙烯深加工專案”；擬以實物及現金出資2000萬元在福州市羅源縣設立全資子公司“福建晟灝新材料有限公司”，投資建設“高分子新材料專案”。兩個專案均從事改性塑膠新材料領域生產與銷售，投資總額分別為5000萬元和3500萬元，資金來源為自有資金。
-
----
-
-### 2026-08-10 19:38:02  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-【40°C heat returns to Europe: rivers critical, wildfire risk high, power grids under strain】A fresh heatwave will sweep drought-hit Europe this week, raising wildfire risk, threatening crops and further depleting already record-low river levels. France’s weather service expects a high-pressure heat dome to push northern France toward 40°C on Tuesday; southern UK around 35°C; Frankfurt may reach 38°C on Friday. The heat could block moisture-bearing clouds and hinder replenishment of major waterways — the Rhine, Po and Danube — whose low flows have already disrupted navigation and power generation. Higher temperatures and continued dryness are adding stress to grids, cutting hydropower output and suppressing agricultural yields; EU Joint Research Centre models show elevated fire risk this week across the UK, Spain, France, Germany and Italy.
-
----
-
-### 2026-08-10 19:35:56  #MKT News #Market Regions #Europe & UK #LLY.N #Impact bullish
-
-UK approves Eli Lilly (LLY.N) drug FOUNDAYO for weight management and treatment of type 2 diabetes.
 
 ---
