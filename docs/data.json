@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-12 12:58:52",
-  "count": 15236,
+  "updated": "2026-08-12 13:02:51",
+  "count": 15230,
   "items": [
+    {
+      "id": "5036865",
+      "time": "2026-08-12 13:02:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國東南部乾旱嚴重 政府釋出國家消防動員令】由於韓國東南部地區今夏迎來罕見的持續高溫乾燥天氣，慶尚南道各地農業水庫近日開始乾涸，乾旱形勢日益嚴重。韓國政府為此釋出了國家消防動員令，自12日起向乾旱嚴重的慶尚南道提供200輛水罐車和400名消防人員，進行供水支援工作。據統計，截至12日，慶尚南道共有2121公頃農田遭受旱災；截至當天，在慶尚南道的18個市、郡中，密陽市、巨濟市和鹹安郡的農業用水處於“農業用水乾旱警戒”中最嚴重的“嚴重乾旱”階段。其中，乾旱最嚴重的密陽市農業用水蓄水率當天為25.7%，僅為常年標準的三分之一左右；而慶尚南道的平均蓄水率僅為33.3%，與常年相比下降了近一半。"
+    },
+    {
+      "id": "5036864",
+      "time": "2026-08-12 13:01:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2.04%，現報3621.538點；上證指數漲0.28%，現報3945.247點；深證成指漲1.38%，現報14456.671點。"
+    },
+    {
+      "id": "5036863",
+      "time": "2026-08-12 13:00:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【情境感知增持日本太陽誘電股份】據上月險些破產的人工智慧對沖基金情境感知(Situational Awareness)提交的多份檔案顯示，該公司於6月下旬購入日本伺服器元件製造商太陽誘電(Taiyo Yuden Co.)的股份，隨後增持至11.62%。週三，太陽誘電股價一度上漲6.7%，此前該基金向日本財務省通報稱，其持有該公司超過5%的股份，比金融監管機構規定的披露期限晚了一個多月。隨後幾個小時內提交的檔案顯示，該基金在7月中旬之前繼續增持股份。太陽誘電的代表未能立即就情境感知的持股情況置評。"
+    },
+    {
+      "id": "5036862",
+      "time": "2026-08-12 12:59:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【暑運以來深圳鐵路累計客流超2400萬人次】記者從深圳鐵路部門獲悉，7月1日至8月10日，深圳鐵路累計到發旅客2404.5萬人次，同比增加2.4萬人次，整體執行平穩有序。"
+    },
     {
       "id": "5036861",
       "time": "2026-08-12 12:55:50",
@@ -138659,99 +138694,6 @@
         "觀點"
       ],
       "text": "摩根大通將卡特彼勒公司目標價從1165美元下調至1100美元。"
-    },
-    {
-      "id": "mkt:019fd04d-1beb-7aab-8f81-f7e831c11909",
-      "time": "2026-08-05 13:02:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "2354.HK",
-        "Impact bullish"
-      ],
-      "text": "Foxconn Industrial hit the daily price limit as turnover exceeded 12.7 billion yuan."
-    },
-    {
-      "id": "5026018",
-      "time": "2026-08-05 13:02:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯稱襲擊3艘貨船以及基輔物流樞紐】俄羅斯國防部在電報平臺釋出宣告稱，俄軍夜間襲擊了基輔及基輔州內的運輸、物流與集散中心。俄軍還襲擊了敖德薩南部的三艘乾貨船。烏克蘭國家緊急服務局另發宣告表示，夜間襲擊已造成14人死亡、27人受傷。注：8月4日，俄羅斯襲擊港口後，烏克蘭鐵路部門尋求新的糧食運輸線路。"
-    },
-    {
-      "id": "mkt:019fd04b-4129-7aab-8f81-e992646bf3c7",
-      "time": "2026-08-05 13:00:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India's July services PMI (final) 53.3, below the expected 54.5 and above the prior 53.1."
-    },
-    {
-      "id": "mkt:019fd04b-1ad6-7aab-8f81-e0dfd66c8057",
-      "time": "2026-08-05 13:00:10",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "India July composite PMI final 54.3, unchanged from the prior reading of 54.3."
-    },
-    {
-      "id": "mkt:019fd04b-19a0-7aab-8f81-db1a3634b814",
-      "time": "2026-08-05 13:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore seasonally adjusted retail sales rose 1.0% MoM in June; May's -2.30% revised to -2.2%."
-    },
-    {
-      "id": "mkt:019fd04b-1987-7aab-8f81-d656b37669cd",
-      "time": "2026-08-05 13:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore June retail sales YoY 4.0%; prior revised to 2.9% from 3.0%."
-    },
-    {
-      "id": "mkt:019fd04a-fa12-7aab-8f81-c4e92206e9ad",
-      "time": "2026-08-05 13:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "India | Services PMI (Jul) | actual 53.3 | consensus 54.5 | previous 53.1"
-    },
-    {
-      "id": "mkt:019fd04a-fa1c-7aab-8f81-cfdbde8f7152",
-      "time": "2026-08-05 13:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Singapore | Retail Sales SA (MoM) (Jun) | actual 1% | previous -2.30%"
-    },
-    {
-      "id": "mkt:019fd04a-f9e3-7aab-8f81-b89e822f9264",
-      "time": "2026-08-05 13:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Singapore | Retail Sales (YoY) (Jun) | actual 4% | previous 3.00%"
-    },
-    {
-      "id": "mkt:019fd04a-f8f7-7aab-8f81-b01be8d389ff",
-      "time": "2026-08-05 13:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "India | Composite PMI (Jul) | actual 54.3 | previous 54.3"
     }
   ]
 }
