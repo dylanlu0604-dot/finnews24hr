@@ -1,0 +1,88 @@
+{
+  "date": "2026-08-13",
+  "count": 9,
+  "items": [
+    {
+      "id": "5038028",
+      "time": "2026-08-13 00:03:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：日本三菱日聯金融集團將透過區塊鏈推出日本國債即時交易業務。"
+    },
+    {
+      "id": "5038027",
+      "time": "2026-08-13 00:03:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7 月汽油價格環比上漲 6.5%，柴油價格環比上漲 9.2%。"
+    },
+    {
+      "id": "5038026",
+      "time": "2026-08-13 00:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：8月美國2026/2027年度大豆產量預期為45.19億蒲式耳，市場預期為44.72億蒲式耳，7月預期為44.75億蒲式耳。8月美國2026/2027年度大豆期末庫存預期為3.2億蒲式耳，市場預期為3.04億蒲式耳，7月預期為3.1億蒲式耳。8月美國2026/2027年度大豆單產預期為52.7蒲式耳/英畝，市場預期為52.9蒲式耳/英畝，7月預期為53蒲式耳/英畝。"
+    },
+    {
+      "id": "mkt:019ff6b6-27df-7aab-9011-1382b0e36a76",
+      "time": "2026-08-13 00:02:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA August projects 2026/27 US soybean production at 4.519 bln bu, above the market consensus of 4.472 bln and July's 4.475 bln. USDA forecasts 2026/27 US soybean ending stocks at 320 mln bu, versus market 304 mln and July 310 mln. USDA projects yield at 52.7 bu/acre, below the market 52.9 and July's 53.0."
+    },
+    {
+      "id": "mkt:019ff6b6-210f-7aab-9011-0f6985ee463d",
+      "time": "2026-08-13 00:02:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Paramount (PSKY.O) CEO has been asked to testify before Congress."
+    },
+    {
+      "id": "5038025",
+      "time": "2026-08-13 00:02:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：派拉蒙執行長被要求接受國會質詢。"
+    },
+    {
+      "id": "5038024",
+      "time": "2026-08-13 00:01:55",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7 月 CPI 環比上漲 0.54%，同比上漲 5.98%。"
+    },
+    {
+      "id": "mkt:019ff6b4-e571-7aab-9011-049d474cac56",
+      "time": "2026-08-13 00:01:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat said Russia's consumer price index rose 0.54% month-on-month in July."
+    },
+    {
+      "id": "mkt:019ff6b4-60ae-7aab-9010-f9d86c920a0d",
+      "time": "2026-08-13 00:00:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat: Russia GDP rose 1.3% YoY in Q2, following a 0.2% YoY contraction in Q1."
+    }
+  ]
+}

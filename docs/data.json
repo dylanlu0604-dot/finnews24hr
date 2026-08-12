@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-13 00:01:04",
+  "updated": "2026-08-13 00:05:48",
   "count": 15134,
   "items": [
+    {
+      "id": "5038028",
+      "time": "2026-08-13 00:03:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：日本三菱日聯金融集團將透過區塊鏈推出日本國債即時交易業務。"
+    },
+    {
+      "id": "5038027",
+      "time": "2026-08-13 00:03:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7 月汽油價格環比上漲 6.5%，柴油價格環比上漲 9.2%。"
+    },
+    {
+      "id": "5038026",
+      "time": "2026-08-13 00:02:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：8月美國2026/2027年度大豆產量預期為45.19億蒲式耳，市場預期為44.72億蒲式耳，7月預期為44.75億蒲式耳。8月美國2026/2027年度大豆期末庫存預期為3.2億蒲式耳，市場預期為3.04億蒲式耳，7月預期為3.1億蒲式耳。8月美國2026/2027年度大豆單產預期為52.7蒲式耳/英畝，市場預期為52.9蒲式耳/英畝，7月預期為53蒲式耳/英畝。"
+    },
+    {
+      "id": "mkt:019ff6b6-27df-7aab-9011-1382b0e36a76",
+      "time": "2026-08-13 00:02:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA August projects 2026/27 US soybean production at 4.519 bln bu, above the market consensus of 4.472 bln and July's 4.475 bln. USDA forecasts 2026/27 US soybean ending stocks at 320 mln bu, versus market 304 mln and July 310 mln. USDA projects yield at 52.7 bu/acre, below the market 52.9 and July's 53.0."
+    },
+    {
+      "id": "mkt:019ff6b6-210f-7aab-9011-0f6985ee463d",
+      "time": "2026-08-13 00:02:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Paramount (PSKY.O) CEO has been asked to testify before Congress."
+    },
+    {
+      "id": "5038025",
+      "time": "2026-08-13 00:02:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：派拉蒙執行長被要求接受國會質詢。"
+    },
+    {
+      "id": "5038024",
+      "time": "2026-08-13 00:01:55",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯統計局：7 月 CPI 環比上漲 0.54%，同比上漲 5.98%。"
+    },
+    {
+      "id": "mkt:019ff6b4-e571-7aab-9011-049d474cac56",
+      "time": "2026-08-13 00:01:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat said Russia's consumer price index rose 0.54% month-on-month in July."
+    },
+    {
+      "id": "mkt:019ff6b4-60ae-7aab-9010-f9d86c920a0d",
+      "time": "2026-08-13 00:00:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Rosstat: Russia GDP rose 1.3% YoY in Q2, following a 0.2% YoY contraction in Q1."
+    },
+    {
+      "id": "5038023",
+      "time": "2026-08-12 23:59:37",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【Jane Street發行146億美元債券 10年期收益率逾8%】Jane Street發行146億美元債券，這家做市巨頭將把融資所得用於技術基礎設施並拓展交易策略。知情人士稱，Jane Street發行了2031年、2033年和2036年到期的高階擔保票據，規模分別為58.6億美元、51.3億美元和36.4億美元。其中期限最長的一檔債券定價收益率為8.088%。這筆由摩根大通牽頭的固定利率債券發行是Jane Street償還浮動利率貸款並重整110億美元債務負擔計劃的一部分。彭博此前報道，Jane Street一直在與品浩(PIMCO)等機構磋商，由後者提供相關融資。"
+    },
     {
       "id": "te:markets:574805",
       "time": "2026-08-12 23:58:46",
@@ -137994,109 +138085,6 @@
         "GOOG.O"
       ],
       "text": "【Google AI lead Jeff Dean will leave to found scientific-discovery AI startup】Google (GOOG.O) senior AI leader Jeff Dean, an early hire who led the company’s AI strategy for about 15 years, will leave to launch a public‑benefit AI company called Discovery Loop and serve as its CEO. The venture aims to automate complex, multi-step scientific and engineering tasks to accelerate technological progress. Co‑founders include Google veterans Oriol Vinyals, Quoc Le and Sanjay Ghemawat; the four are among the world’s most-cited researchers and have driven advances in mathematics and protein-structure work. Their exits further intensify recent AI talent departures from Google."
-    },
-    {
-      "id": "5027339",
-      "time": "2026-08-06 00:05:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Reddit：為保護平臺、業務及使用者免受惡意抓取、濫發資訊行為的侵害，我們計劃逐步對舊版Reddit官網做出調整。"
-    },
-    {
-      "id": "5027338",
-      "time": "2026-08-06 00:04:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌股價跌幅擴大至4%。"
-    },
-    {
-      "id": "mkt:019fd2ab-41ca-7aab-8f90-a36a42fbaa93",
-      "time": "2026-08-06 00:04:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "Google (GOOG.O) shares extended losses to more than 3% after the company announced a leadership reshuffle at DeepMind."
-    },
-    {
-      "id": "5027337",
-      "time": "2026-08-06 00:04:23",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "【谷歌DeepMind執行長德米斯·哈薩比斯即將卸任】德米斯·哈薩比斯將不再擔任谷歌DeepMind執行長，轉任該部門董事長。首席科學家傑夫·迪恩以及另一位谷歌AI高管將離職創辦新公司，谷歌將對這家新企業進行投資。哈薩比斯還將兼任母公司Alphabet首席科學家，同時繼續執掌旗下AI藥物研發子公司Isomorphic Labs。現任谷歌DeepMind技術長科雷·卡武庫奧格魯將出任該部門高階副總裁，直接向桑達爾·皮查伊彙報。迪恩與谷歌高階研究員桑傑·格瑪沃特將創立Discovery Loop，這是一家獨立公益企業，谷歌將作為投資方並提供雲服務支援。"
-    },
-    {
-      "id": "5027336",
-      "time": "2026-08-06 00:03:45",
-      "tags": [
-        "公司",
-        "資料",
-        "焦點"
-      ],
-      "text": "谷歌股價在該集團披露DeepMind管理層人事變動後大幅下挫，截至最新報價，該股跌幅為3.8%。"
-    },
-    {
-      "id": "5027335",
-      "time": "2026-08-06 00:03:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超1%，1藥網跌7.51%，水滴公司跌7.41%，金生遊樂跌6.47%，阿特斯跌4.73%，嘉楠科技跌4.16%。"
-    },
-    {
-      "id": "5027334",
-      "time": "2026-08-06 00:01:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌AI領軍人物傑夫・迪恩以及三名資深AI員工離開谷歌，創辦初創企業。"
-    },
-    {
-      "id": "te:markets:573096",
-      "time": "2026-08-06 00:01:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Edges Lower — The FTSE MIB edged 0.2% lower to 53,447 on Wednesday, as losses in auto and technology stocks outweighed gains in the luxury sector. Stellantis declined 1.8% after reporting earnings below analysts' expectations. STMicroelectronics fell 1.6% as chipmakers remained under pressure amid growing doubts over AI-related investment, while Prysmian lost 1.2%. Financials were mixed as investors assessed optimism surrounding a potential US-Iran agreement. UniCredit slipped 0.7%, while Mediobanca gained 1.5%. BMPS gained 1.6% after reports the Italian government would maintain a neutral stance on banking consolidation, fuelling expectations Rome could sell its MPS stake before Intesa Sanpaolo's (-0.3%) bid takes effect. Brunello Cucinelli led gains, rising 1.8%, as luxury stocks advanced after Chanel reported resilient revenue despite the broader industry slowdown. Campari rose 1.3% and Ferrari added 1.2%."
-    },
-    {
-      "id": "mkt:019fd2a8-8190-7aab-8f90-9c18b0f6cc05",
-      "time": "2026-08-06 00:01:26",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "Google (GOOG.O) down 1.4% on a short-term pullback."
-    },
-    {
-      "id": "5027333",
-      "time": "2026-08-06 00:01:12",
-      "tags": [
-        "公司",
-        "資料"
-      ],
-      "text": "德米斯·哈薩比斯卸任谷歌DeepMind執行長，轉任董事長。"
     }
   ]
 }
