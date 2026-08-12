@@ -1,7 +1,36 @@
 {
   "date": "2026-08-13",
-  "count": 187,
+  "count": 190,
   "items": [
+    {
+      "id": "5038120",
+      "time": "2026-08-13 04:37:37",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國經濟顧問委員會主席：CPI報告削弱了加息的理由。"
+    },
+    {
+      "id": "te:markets:574827",
+      "time": "2026-08-13 04:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.07% Lower — The Dow Jones Index fell 37 points or 0.07 percent on Wednesday to close at 53755 points. Leading the losses are Home Depot (-2.96%), Salesforce (-2.53%) and Microsoft (-2.30%). Top gainers were Nvidia (3.04%), Cisco Systems (2.69%) and Walmart (2.38%)."
+    },
+    {
+      "id": "5038119",
+      "time": "2026-08-13 04:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院目前暫停蘋果應用商店費率相關訴訟程式。"
+    },
     {
       "id": "5038118",
       "time": "2026-08-13 04:32:59",
