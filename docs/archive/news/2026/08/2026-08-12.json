@@ -1,7 +1,68 @@
 {
   "date": "2026-08-12",
-  "count": 1877,
+  "count": 1883,
   "items": [
+    {
+      "id": "mkt:019ff57d-0c48-7aab-9007-3fe84aff8640",
+      "time": "2026-08-12 18:20:40",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Barclays raises Super Micro Computer (SMCI.O) PT to $39 from $38."
+    },
+    {
+      "id": "mkt:019ff57c-20ad-7aab-9007-337e84497aca",
+      "time": "2026-08-12 18:19:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Metzler Bank: Tonight's inf print likely limited for Fed's September decision】US inf data due tonight could move markets short term, but Metzler Bank analysts say it is unlikely to materially influence the Fed's September rate decision. After weaker-than-expected June core inf, markets will watch whether July continues the trend or June was an outlier. Metzler says the Fed is likely to wait for additional data — PPI, PCE — and developments in the Middle East before deciding on rates."
+    },
+    {
+      "id": "5037486",
+      "time": "2026-08-12 18:19:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將賽富時目標股價從200美元上調至205美元；ServiceNow目標股價從160美元上調至175美元。"
+    },
+    {
+      "id": "te:economy:574725",
+      "time": "2026-08-12 18:19:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Serbia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Serbia Inflation Slows to Lowest Since 2021 — The inflation rate in Serbia eased to 1.9% year-on-year in July 2026 from 2.7% in the previous month. The latest figure marked the weakest growth since March 2021, as prices grew at a softer pace for clothing and footwear (1.2% vs 1.4% in June), furnishings and household equipment (0.6% vs 0.8%), transportation (7.1% vs 7.7%), education (1.2% vs 1.8%), restaurants and hotels (6.1% vs 6.2%), insurance and financial services (3.9% vs 4.1%), and miscellaneous goods and services (0.7% vs 2.5%). At the same time, costs declined further for food and non-alcoholic beverages (-6.1% vs -3.7%). In contrast, prices increased for alcoholic beverages and tobacco (6.5% vs 5.2%), housing and utilities (9.7% vs 9.5%), recreation and culture (10.0% vs 9.7%), information and communication (1.9% vs 1.6%), and health (7.9% vs 7.6%). On a monthly basis, consumer prices fell by 0.2%, following a 0.2% rise in the preceding period."
+    },
+    {
+      "id": "5037485",
+      "time": "2026-08-12 18:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將微軟目標股價從650美元上調至700美元。"
+    },
+    {
+      "id": "5037484",
+      "time": "2026-08-12 18:18:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部與中國氣象局8月12日18時聯合釋出橙色地質災害氣象風險預警】自然資源部與中國氣象局8月12日18時聯合釋出橙色地質災害氣象風險預警：預計，8月12日20時至13日20時，北京西部和東北部、天津北部、河北西部和東部、山西東部、浙江東部、安徽西部、河南中西部、湖北北部和西部等地部分地區發生地質災害的氣象風險較高（黃色預警），其中，浙江東部、河南中部、湖北西北部等地部分地區發生地質災害的氣象風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。橙色預警區內高風險隱患點和風險區受威脅人員請根據當地防災部門組織立即撤離前往附近避險安置點，臨坡臨崖臨溝臨水人員根據撤離訊號及時撤離前往附近避險安置點；黃色預警區內人員，請隨時關注預警資訊變化，注意附近警示標誌，避免在溝谷、斜坡、陡崖（坎）等高風險地帶逗留。"
+    },
     {
       "id": "te:economy:574724",
       "time": "2026-08-12 18:17:38",
