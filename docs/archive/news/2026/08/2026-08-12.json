@@ -1,7 +1,136 @@
 {
   "date": "2026-08-12",
-  "count": 2608,
+  "count": 2622,
   "items": [
+    {
+      "id": "5037947",
+      "time": "2026-08-12 22:21:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：YUNO 完成 4500 萬美元 B 輪融資，用於擴大原生人工智慧作業系統業務規模。"
+    },
+    {
+      "id": "mkt:019ff658-4a7a-7aab-900e-6ebb48cf1dc1",
+      "time": "2026-08-12 22:20:09",
+      "tags": [
+        "MKT News",
+        "CLSK.O"
+      ],
+      "text": "Texas governor says CleanSpark will comply with state data-center standards."
+    },
+    {
+      "id": "mkt:019ff658-43ed-7aab-900e-6169506522fd",
+      "time": "2026-08-12 22:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories, Cushing crude inventories and Strategic Petroleum Reserve levels for the week to Aug. 7 are due in 10 minutes."
+    },
+    {
+      "id": "te:economy:574792",
+      "time": "2026-08-12 22:19:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Germany 10-Year Bond Yield Swings at 3.1% — Germany’s 10-year Bund yield has been swinging around 3.1% in August, tracking US Treasury yields, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September."
+    },
+    {
+      "id": "mkt:019ff657-d9bf-7aab-900e-5e16844605c8",
+      "time": "2026-08-12 22:19:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Texas governor says Google and Rowan will comply with Texas data center standards."
+    },
+    {
+      "id": "mkt:019ff657-9bcb-7aab-900e-55d56e2f4beb",
+      "time": "2026-08-12 22:19:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The US has launched a plan to accelerate trade in AI products among allied countries."
+    },
+    {
+      "id": "5037945",
+      "time": "2026-08-12 22:19:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國得州州長Abbott：Cleanspark 需遵守資料中心相關標準。"
+    },
+    {
+      "id": "5037944",
+      "time": "2026-08-12 22:18:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國得州州長Abbott：谷歌、羅文公司需遵守資料中心相關標準。"
+    },
+    {
+      "id": "5037943",
+      "time": "2026-08-12 22:18:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院人工智慧產品相關專案是 “矽晶和平計劃” 的組成部分。"
+    },
+    {
+      "id": "5037942",
+      "time": "2026-08-12 22:17:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院推出專案，加快關鍵人工智慧產品的物流流轉。"
+    },
+    {
+      "id": "5037941",
+      "time": "2026-08-12 22:17:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國發起行動，加快盟國間人工智慧產品貿易。"
+    },
+    {
+      "id": "5037940",
+      "time": "2026-08-12 22:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Formlabs 與蘋果前硬體主管丹・裡喬展開合作。"
+    },
+    {
+      "id": "5037939",
+      "time": "2026-08-12 22:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電投水電與葛洲壩集團舉行會談】據電投水電訊息，8月11日，電投水電董事長、黨委書記姚小彥會見了葛洲壩集團董事長、黨委書記譚華，雙方圍繞深化清潔能源領域合作深入交流。姚小彥表示，葛洲壩集團綜合實力雄厚、水電業績突出，雙方合作基礎深厚，未來空間廣闊，期待雙方聚焦水電主業，拓展新能源、綠電直連、算電協同等領域，共同服務國家戰略。"
+    },
+    {
+      "id": "5037938",
+      "time": "2026-08-12 22:15:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海深圳房租上漲 求職畢業生在深圳可免費入住15天】在畢業季的帶動下，疊加家庭型租客換租等需求推動，上海、深圳近幾個月租金迎來上漲。 今年3月以來，上海市住宅租金已連續5個月出現環比上漲。業內人士表示，近期上海租賃市場量價齊升，一方面源於畢業季、陪讀季需求的集中釋放；另一方面也受到二手房市場企穩的帶動。7月上海二手房成交量約2.3萬套，同比上漲19%，並創下五年同期新高。深圳7月租房市場的成交量創下2019年以來同期新高。為吸引更多的大學畢業生來深工作，深圳為求職畢業生提供連續15天免費入住等人才安居補貼，同時不少園區及住房服務企業也推出實習期免費入住政策，多重舉措有效降低了青年人才來深初期的生活成本，也進一步帶動了租房需求。據研究機構統計，7月深圳租房成交量環比增長19.6%，而且市場成交熱度高於去年同期，同比增幅為2%。 （央視財經）"
+    },
     {
       "id": "mkt:019ff654-066a-7aab-900e-4dfe5476f36e",
       "time": "2026-08-12 22:15:29",

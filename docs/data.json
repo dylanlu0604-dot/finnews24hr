@@ -1,7 +1,136 @@
 {
-  "updated": "2026-08-12 22:16:12",
-  "count": 15163,
+  "updated": "2026-08-12 22:24:49",
+  "count": 15164,
   "items": [
+    {
+      "id": "5037947",
+      "time": "2026-08-12 22:21:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：YUNO 完成 4500 萬美元 B 輪融資，用於擴大原生人工智慧作業系統業務規模。"
+    },
+    {
+      "id": "mkt:019ff658-4a7a-7aab-900e-6ebb48cf1dc1",
+      "time": "2026-08-12 22:20:09",
+      "tags": [
+        "MKT News",
+        "CLSK.O"
+      ],
+      "text": "Texas governor says CleanSpark will comply with state data-center standards."
+    },
+    {
+      "id": "mkt:019ff658-43ed-7aab-900e-6169506522fd",
+      "time": "2026-08-12 22:20:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. EIA crude inventories, Cushing crude inventories and Strategic Petroleum Reserve levels for the week to Aug. 7 are due in 10 minutes."
+    },
+    {
+      "id": "te:economy:574792",
+      "time": "2026-08-12 22:19:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Germany 10-Year Bond Yield Swings at 3.1% — Germany’s 10-year Bund yield has been swinging around 3.1% in August, tracking US Treasury yields, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September."
+    },
+    {
+      "id": "mkt:019ff657-d9bf-7aab-900e-5e16844605c8",
+      "time": "2026-08-12 22:19:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Texas governor says Google and Rowan will comply with Texas data center standards."
+    },
+    {
+      "id": "mkt:019ff657-9bcb-7aab-900e-55d56e2f4beb",
+      "time": "2026-08-12 22:19:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The US has launched a plan to accelerate trade in AI products among allied countries."
+    },
+    {
+      "id": "5037945",
+      "time": "2026-08-12 22:19:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國得州州長Abbott：Cleanspark 需遵守資料中心相關標準。"
+    },
+    {
+      "id": "5037944",
+      "time": "2026-08-12 22:18:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國得州州長Abbott：谷歌、羅文公司需遵守資料中心相關標準。"
+    },
+    {
+      "id": "5037943",
+      "time": "2026-08-12 22:18:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院人工智慧產品相關專案是 “矽晶和平計劃” 的組成部分。"
+    },
+    {
+      "id": "5037942",
+      "time": "2026-08-12 22:17:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院推出專案，加快關鍵人工智慧產品的物流流轉。"
+    },
+    {
+      "id": "5037941",
+      "time": "2026-08-12 22:17:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國發起行動，加快盟國間人工智慧產品貿易。"
+    },
+    {
+      "id": "5037940",
+      "time": "2026-08-12 22:17:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Formlabs 與蘋果前硬體主管丹・裡喬展開合作。"
+    },
+    {
+      "id": "5037939",
+      "time": "2026-08-12 22:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【電投水電與葛洲壩集團舉行會談】據電投水電訊息，8月11日，電投水電董事長、黨委書記姚小彥會見了葛洲壩集團董事長、黨委書記譚華，雙方圍繞深化清潔能源領域合作深入交流。姚小彥表示，葛洲壩集團綜合實力雄厚、水電業績突出，雙方合作基礎深厚，未來空間廣闊，期待雙方聚焦水電主業，拓展新能源、綠電直連、算電協同等領域，共同服務國家戰略。"
+    },
+    {
+      "id": "5037938",
+      "time": "2026-08-12 22:15:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上海深圳房租上漲 求職畢業生在深圳可免費入住15天】在畢業季的帶動下，疊加家庭型租客換租等需求推動，上海、深圳近幾個月租金迎來上漲。 今年3月以來，上海市住宅租金已連續5個月出現環比上漲。業內人士表示，近期上海租賃市場量價齊升，一方面源於畢業季、陪讀季需求的集中釋放；另一方面也受到二手房市場企穩的帶動。7月上海二手房成交量約2.3萬套，同比上漲19%，並創下五年同期新高。深圳7月租房市場的成交量創下2019年以來同期新高。為吸引更多的大學畢業生來深工作，深圳為求職畢業生提供連續15天免費入住等人才安居補貼，同時不少園區及住房服務企業也推出實習期免費入住政策，多重舉措有效降低了青年人才來深初期的生活成本，也進一步帶動了租房需求。據研究機構統計，7月深圳租房成交量環比增長19.6%，而且市場成交熱度高於去年同期，同比增幅為2%。 （央視財經）"
+    },
     {
       "id": "mkt:019ff654-066a-7aab-900e-4dfe5476f36e",
       "time": "2026-08-12 22:15:29",
@@ -138214,128 +138343,6 @@
         "其他"
       ],
       "text": "巴西雷亞爾漲幅收窄，與其它貨幣走勢基本一致。"
-    },
-    {
-      "id": "te:markets:573081",
-      "time": "2026-08-05 22:24:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Gains as Markets Await Selic Decision — The Ibovespa rose nearly 1% to trade above 179,000 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Later today, Copom is expected to cut the Selic rate by 25 basis points from the current 14.25%. Investors will closely watch the accompanying statement for signals on whether another rate cut could follow in September. Financial stocks led gains, with Itaú rising 2% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Bradesco gained near 1% ahead of its earnings release after the close. Itaúsa gained 2% and Banco do Brasil advanced 1%. In contrast, Gerdau fell more than 5% despite posting stronger-than-expected 2Q26 results. Axia (+1%), Auren (+1.5%), Brava (-1%), and Engie (+1%) are also set to report earnings after the bell."
-    },
-    {
-      "id": "5027217",
-      "time": "2026-08-05 22:24:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌4%，現報2448.00元。"
-    },
-    {
-      "id": "mkt:019fd24f-8d37-7aab-8f8e-78d4809ea998",
-      "time": "2026-08-05 22:24:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US Treasury lifts some Iran-related sanctions】Refinitiv reported the US Treasury on Wednesday posted on its website that it has removed counterterrorism sanctions on two aircraft and three airlines tied to Iran's Islamic Revolutionary Guard Corps: Fly Baghdad Airlines Company, Iraq Express, Fly Baghdad, and aircraft registrations YI-BAF and YI-BAN."
-    },
-    {
-      "id": "5027216",
-      "time": "2026-08-05 22:22:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "據悉Braveheart Bio將IPO發行價指引上調至推介價格區間之上。"
-    },
-    {
-      "id": "5027215",
-      "time": "2026-08-05 22:21:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西參議員弗拉維奧·博索納羅提名阿爾弗雷多·加斯帕爾為10月總統大選競選搭檔。"
-    },
-    {
-      "id": "5027214",
-      "time": "2026-08-05 22:21:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌3%，現報4530.00元。"
-    },
-    {
-      "id": "mkt:019fd24b-c0fb-7aab-8f8e-7149b038b6ee",
-      "time": "2026-08-05 22:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "US EIA data for the week ending July 31 — total crude inventories, Cushing stocks and Strategic Petroleum Reserve (SPR) levels — due in 10 minutes."
-    },
-    {
-      "id": "5027213",
-      "time": "2026-08-05 22:20:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《黑神話：悟空》官宣將開啟七折優惠活動】8月5日，即將迎來發售兩週年的國產3A遊戲《黑神話：悟空》宣佈，所有數字版本（標準版、豪華版、豪華升級包）即將開啟七折優惠活動。PlayStationStore打折時間為8月12日-8月26日；微軟商店、Steam、Epic遊戲商城、WeGame打折時間為8月12日0時-8月25日24時。因平臺政策影響，PS5不同時區打折活動的具體開啟和結束時間略有不同，宏都拉斯、墨西哥和尼加拉瓜暫不參與本輪PS5促銷。"
-    },
-    {
-      "id": "5027212",
-      "time": "2026-08-05 22:19:53",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨金<XAU=>擴大漲幅，上漲近4%至每盎司4,238.29美元。"
-    },
-    {
-      "id": "te:markets:573079",
-      "time": "2026-08-05 22:18:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Extends Rally to Six-Week Peak — Silver surged to $62.5 an ounce on Wednesday, its highest level since June 22, as easing geopolitical tensions and weaker-than-expected US labor market data strengthened expectations of a less aggressive Federal Reserve. Investor sentiment improved after President Donald Trump said the US and Iran had held \"very good discussions,\" fueling hopes of an agreement to end their five-month conflict. Expectations of restored Middle Eastern energy supplies have driven oil prices down about 10% this week, easing inflation concerns and reducing expectations for further Fed tightening. Meanwhile, the ADP Employment Report showed the US economy added just 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts of 70,000. Markets now assign a 57% probability to a September Fed rate hike, down from 67% a day earlier. Still, Kansas City Fed President Jeff Schmid said additional policy tightening may be needed to return inflation to the central bank's 2% target."
-    },
-    {
-      "id": "mkt:019fd249-e19a-7aab-8f8e-6c329b84dadd",
-      "time": "2026-08-05 22:18:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "Most-active iron ore futures contract was up 2.00% intraday, trading at 715.50 yuan/ton."
-    },
-    {
-      "id": "5027211",
-      "time": "2026-08-05 22:17:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來首席財務官表示，預計2027年在全部主要市場推出Fundayo。"
-    },
-    {
-      "id": "5027210",
-      "time": "2026-08-05 22:16:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【非晶電驅技術下沉至10萬級，2027款埃安RT 9.98萬元起售】8月5日，廣汽埃安2027款埃安RT上市，售價9.98萬至12.38萬元。新車定位A級純電轎車，首次將非晶合金電驅與碳化矽電控下放至10萬元級市場，全系標配寧德時代電池，實現710km同級最長續航及百公里8.571kWh超低電耗。該車型此前已累計交付超10萬臺，本次升級意在透過核心三電技術下沉，搶佔9萬—12萬元級主流家轎市場份額。"
     }
   ]
 }
