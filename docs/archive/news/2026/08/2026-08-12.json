@@ -1,7 +1,45 @@
 {
   "date": "2026-08-12",
-  "count": 806,
+  "count": 810,
   "items": [
+    {
+      "id": "5036699",
+      "time": "2026-08-12 10:20:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲靈駿真武M890超節點例項正式上線，首批在烏蘭察布開服】阿里雲宣佈靈駿真武M890超節點例項正式上線，首批已在烏蘭察布地域開售。企業級客戶無需自建機房，在雲上即可開通64卡高速互聯算力單元，最高可承載十萬億引數級MoE大模型推理。阿里雲靈駿真武M890超節點也是國內首個成功執行超2萬億引數大模型的超節點形態算力，Kimi K3和Qwen3.8 Max均已透過該例項對外提供服務。"
+    },
+    {
+      "id": "te:markets:574576",
+      "time": "2026-08-12 10:18:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Edges Lower — The New Zealand dollar slipped to around $0.587 as the US dollar edged higher, with investors awaiting US inflation data for fresh clues on the Federal Reserve’s interest-rate path. A hotter-than-expected CPI reading could reinforce expectations for tighter US monetary policy, boosting the greenback. On the domestic front, markets remain set on a rate increase from the Reserve Bank of New Zealand in September after the central bank signalled that further tightening may be needed to remove monetary stimulus and keep inflation under control. However, last week’s soft jobs data has raised questions about how aggressively the RBNZ can continue raising rates. Meanwhile, uncertainty over the prospects for a Middle East peace deal that could reopen the Strait of Hormuz weighed on market confidence. In other news, NZ Prime Minister Christopher Luxon said that he survived a leadership vote among his own party’s lawmakers less than three months before an election."
+    },
+    {
+      "id": "5036698",
+      "time": "2026-08-12 10:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Anthropic宣佈Claude生成內容嵌入隱形水印，標記機制全球適用】Anthropic當地時間8月11日宣佈，已簽署歐盟《人工智慧法案》（EU AI Act）第50條關於AI生成內容透明度的準則。8月2日起，Claude模型將在生成文字嵌入隱形水印，圖片等檔案則附加經數字簽名的溯源後設資料。標記機制將在全球範圍內適用，覆蓋Claude所有產品線及合作雲平臺，並非僅限於歐盟地區。"
+    },
+    {
+      "id": "mkt:019ff3c1-d7c3-7aab-8ffe-fe0454114b4c",
+      "time": "2026-08-12 10:16:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's KOSPI extended gains, up 3.5% at 6,569.26."
+    },
     {
       "id": "mkt:019ff3c1-c484-7aab-8ffe-f6384e646bf2",
       "time": "2026-08-12 10:16:29",
