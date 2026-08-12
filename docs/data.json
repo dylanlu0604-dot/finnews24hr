@@ -1,7 +1,130 @@
 {
-  "updated": "2026-08-12 21:59:49",
-  "count": 15186,
+  "updated": "2026-08-12 22:03:57",
+  "count": 15182,
   "items": [
+    {
+      "id": "mkt:019ff648-6c42-7aab-900e-21d2e45b17ae",
+      "time": "2026-08-12 22:02:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "TCEHY.O",
+        "Impact bearish"
+      ],
+      "text": "Tencent Holdings ADRs fell as much as about 4% in early U.S. trading."
+    },
+    {
+      "id": "5037927",
+      "time": "2026-08-12 22:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "多國呼籲伊朗傾聽民眾呼聲，採取切實措施確保人權得到尊重。"
+    },
+    {
+      "id": "5037926",
+      "time": "2026-08-12 22:02:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外長：歐盟及26個國家發表聯合宣告，譴責伊朗處決抗議者。"
+    },
+    {
+      "id": "5037925",
+      "time": "2026-08-12 22:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北美建築貿易工會聯合會與 Meta 公佈全新合作，投資技術工種領域】Meta 與北美建築貿易工會聯合會（NABTU）宣佈建立合作關係，為人工智慧時代的技術工種領域投入資源。該合作體現雙方的共同長期承諾：確保參與建設美國人工智慧基礎設施的勞動者與相關社群能夠直接從中獲益。Meta 與北美建築貿易工會聯合會計劃逐步擴大投資規模，推進相關工作落地。Meta 總裁兼副董事長迪娜・鮑威爾・麥考密克表示：“這是一個重要時刻，正是這些技術工種從業者在搭建美國所需的基礎設施。”"
+    },
+    {
+      "id": "mkt:019ff647-4297-7aab-900e-1910ecf3479d",
+      "time": "2026-08-12 22:01:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O"
+      ],
+      "text": "Google launches Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold smartphones."
+    },
+    {
+      "id": "5037924",
+      "time": "2026-08-12 22:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊控股ADR盤初一度跌近4%，其第二季度營收2,047.9億元，同比增長11%；經營活動所產生的現金淨額人民幣527億元，超出預期。"
+    },
+    {
+      "id": "mkt:019ff647-1c0f-7aab-900e-1740b221c364",
+      "time": "2026-08-12 22:01:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google announced an upgraded Pixel Watch 5 with a starting price of $399."
+    },
+    {
+      "id": "mkt:019ff647-1b46-7aab-900e-09aa50566a15",
+      "time": "2026-08-12 22:01:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Google (GOOG.O) raised prices on its new phones citing a severe memory shortage. The new smartphone starts at $899 and the foldable is priced at $1,899, $100 above the prior generation."
+    },
+    {
+      "id": "5037923",
+      "time": "2026-08-12 22:01:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌新款手機較上一代機型漲價 100 美元。"
+    },
+    {
+      "id": "5037922",
+      "time": "2026-08-12 22:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出 Pixel 11、11 Pro、11 Pro XL、11 Pro Fold 系列手機。"
+    },
+    {
+      "id": "5037921",
+      "time": "2026-08-12 22:00:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌釋出升級版 Pixel Watch 5，起售價 399 美元。"
+    },
+    {
+      "id": "5037920",
+      "time": "2026-08-12 22:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "受嚴重記憶體供應短缺影響，谷歌上調新款手機售價。"
+    },
+    {
+      "id": "5037919",
+      "time": "2026-08-12 22:00:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌可穿戴裝置將實現胰島素抵抗監測，屬該品類首創 。"
+    },
     {
       "id": "5037918",
       "time": "2026-08-12 21:58:26",
@@ -138387,183 +138510,6 @@
         "Importance 3"
       ],
       "text": "US Services Growth Below Forecasts in July — The ISM Services PMI in the US edged up to 54.1 in July 2026 from 54 in June, slightly below forecasts of 54.5, while continuing to point to expansion in the services sector. Business activity (59.1 vs 55.4), new orders (57.2 vs 55.1) and inventories (51.4 vs 51.2) increased faster but employment returned to contraction territory after only one month in expansion (47.4 vs 51.2). In addition, price pressures increased (70.3 vs 67.7), with petroleum-related products and plastics again reported as commodities up in price, although the number of commodities reported as down in price increased to six, up from three the previous month. Backlog of orders (50.9 vs 54.9) and supplier deliveries (52.8 vs 54.4) slowed. “Tariff impacts and the Middle East conflict continued to be mentioned by respondents, but much less frequently than in prior reports. The World Cup was again cited in the comments regarding increased business activity and new orders”, according to Steve Miller, Chair of the ISM."
-    },
-    {
-      "id": "5027181",
-      "time": "2026-08-05 22:03:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯薩拉托夫煉油廠自8月2日遭受無人機襲擊後已停止運營。"
-    },
-    {
-      "id": "5027180",
-      "time": "2026-08-05 22:03:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2499.00元。"
-    },
-    {
-      "id": "mkt:019fd23c-65aa-7aab-8f8e-373572fe66bc",
-      "time": "2026-08-05 22:03:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "CGTN reported that Yemen's Houthi movement said it fired a ballistic missile at a Saudi oil tanker in the northern Red Sea. The group provided no evidence; Saudi Arabia had not immediately commented."
-    },
-    {
-      "id": "5027179",
-      "time": "2026-08-05 22:03:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：葉門胡塞武裝稱，在紅海北部向一艘沙特油輪發射了彈道導彈。該組織未提供證據，沙烏地阿拉伯也未立即發表評論。"
-    },
-    {
-      "id": "te:economy:573073",
-      "time": "2026-08-05 22:02:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "US Services Activity Revised Higher — The S&P Global US Services PMI rose to 54.6 in July from 51.2 in the previous month, revised higher from the flash estimate of 53.6 to mark the sharpest expansion in activity in nine months. New business levels rose the most since November, with panelists noting a pickup in activity due to FIFA World Cup and Independence Day spending, and higher investments in sales, marketing, and product development. New work was awarded from domestic clients, as export orders fell the most since 2022 amid tariffs and the Middle East war. Consequently, firms increased their staff counts the most in eight months. Meanwhile, input cost inflation rose to a 14-month high due to tariffs and higher raw-material costs, driving companies to pass on price hikes to consumer charges when possible. Looking ahead, confidence improved on hopes of easing energy prices and business expansion plans."
-    },
-    {
-      "id": "5027178",
-      "time": "2026-08-05 22:02:45",
-      "tags": [
-        "宏觀",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國財政部：美國撤銷了涉伊朗相關制裁。"
-    },
-    {
-      "id": "5027177",
-      "time": "2026-08-05 22:02:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【秦曉倩獲批擔任重慶國際信託董事、總經理】8月5日，重慶金融監管局網站釋出批覆，核准秦曉倩重慶國際信託股份有限公司董事、總經理的任職資格。公司應要求上述核准任職資格人員嚴格遵守金融監管總局有關監管規定，自本行政許可決定作出之日起3個月內到任，並按要求及時報告到任情況。未在上述規定期限內到任的，本批覆檔案失效，由決定機關辦理行政許可登出手續。"
-    },
-    {
-      "id": "5027176",
-      "time": "2026-08-05 22:01:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：森科能源稱對加拿大監管環境改善感到鼓舞；若市場條件允許，可靈活加速產量增長步伐。"
-    },
-    {
-      "id": "mkt:019fd23a-b47c-7aab-8f8e-2a75fb072ad9",
-      "time": "2026-08-05 22:01:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "US ISM Non‑Manufacturing Suppliers' Deliveries Index 52.8 in July, down from 54.4 in June."
-    },
-    {
-      "id": "mkt:019fd23a-91dc-7aab-8f8e-22739a77811d",
-      "time": "2026-08-05 22:01:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US July ISM non-manufacturing inventories index 51.4, prior 51.2."
-    },
-    {
-      "id": "mkt:019fd23a-828b-7aab-8f8e-1fc24ec69e7c",
-      "time": "2026-08-05 22:01:17",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Services Supplier Deliveries Index (Jul) | actual 52.8 | previous 54.4"
-    },
-    {
-      "id": "mkt:019fd23a-6798-7aab-8f8e-12b5cab54d96",
-      "time": "2026-08-05 22:01:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ISM Services Inventory Index (Jul) | actual 51.4 | previous 51.2"
-    },
-    {
-      "id": "5027175",
-      "time": "2026-08-05 22:00:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "雷諾茲美國公司遭懷登質詢，涉及電子煙業務及與特朗普方面關聯。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608053832862940",
-      "time": "2026-08-05 22:00:38",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國供應管理學會7月份非製造業指數升至54.1，預期54.5。"
-    },
-    {
-      "id": "5027174",
-      "time": "2026-08-05 22:00:21",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國7月ISM非製造業PMI 54.1，預期54.5，前值54。美國7月ISM非製造業物價指數 70.3，前值67.7。美國7月ISM非製造業新訂單指數 57.2，前值55.1。美國7月ISM非製造業就業指數 47.4，前值51.2。"
-    },
-    {
-      "id": "mkt:019fd239-940d-7aab-8f8e-0ec382e3c99c",
-      "time": "2026-08-05 22:00:16",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. July ISM non-manufacturing employment index 47.4, prior 51.2."
-    },
-    {
-      "id": "mkt:019fd239-7c07-7aab-8f8e-00196cd42e67",
-      "time": "2026-08-05 22:00:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "US ISM non-manufacturing PMI (July) 54.1 vs. 54.5 expected; prior 54.0."
     }
   ]
 }

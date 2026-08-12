@@ -1,7 +1,130 @@
 {
   "date": "2026-08-12",
-  "count": 2578,
+  "count": 2591,
   "items": [
+    {
+      "id": "mkt:019ff648-6c42-7aab-900e-21d2e45b17ae",
+      "time": "2026-08-12 22:02:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "TCEHY.O",
+        "Impact bearish"
+      ],
+      "text": "Tencent Holdings ADRs fell as much as about 4% in early U.S. trading."
+    },
+    {
+      "id": "5037927",
+      "time": "2026-08-12 22:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "多國呼籲伊朗傾聽民眾呼聲，採取切實措施確保人權得到尊重。"
+    },
+    {
+      "id": "5037926",
+      "time": "2026-08-12 22:02:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外長：歐盟及26個國家發表聯合宣告，譴責伊朗處決抗議者。"
+    },
+    {
+      "id": "5037925",
+      "time": "2026-08-12 22:02:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北美建築貿易工會聯合會與 Meta 公佈全新合作，投資技術工種領域】Meta 與北美建築貿易工會聯合會（NABTU）宣佈建立合作關係，為人工智慧時代的技術工種領域投入資源。該合作體現雙方的共同長期承諾：確保參與建設美國人工智慧基礎設施的勞動者與相關社群能夠直接從中獲益。Meta 與北美建築貿易工會聯合會計劃逐步擴大投資規模，推進相關工作落地。Meta 總裁兼副董事長迪娜・鮑威爾・麥考密克表示：“這是一個重要時刻，正是這些技術工種從業者在搭建美國所需的基礎設施。”"
+    },
+    {
+      "id": "mkt:019ff647-4297-7aab-900e-1910ecf3479d",
+      "time": "2026-08-12 22:01:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O"
+      ],
+      "text": "Google launches Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold smartphones."
+    },
+    {
+      "id": "5037924",
+      "time": "2026-08-12 22:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "騰訊控股ADR盤初一度跌近4%，其第二季度營收2,047.9億元，同比增長11%；經營活動所產生的現金淨額人民幣527億元，超出預期。"
+    },
+    {
+      "id": "mkt:019ff647-1c0f-7aab-900e-1740b221c364",
+      "time": "2026-08-12 22:01:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google announced an upgraded Pixel Watch 5 with a starting price of $399."
+    },
+    {
+      "id": "mkt:019ff647-1b46-7aab-900e-09aa50566a15",
+      "time": "2026-08-12 22:01:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Google (GOOG.O) raised prices on its new phones citing a severe memory shortage. The new smartphone starts at $899 and the foldable is priced at $1,899, $100 above the prior generation."
+    },
+    {
+      "id": "5037923",
+      "time": "2026-08-12 22:01:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌新款手機較上一代機型漲價 100 美元。"
+    },
+    {
+      "id": "5037922",
+      "time": "2026-08-12 22:01:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌推出 Pixel 11、11 Pro、11 Pro XL、11 Pro Fold 系列手機。"
+    },
+    {
+      "id": "5037921",
+      "time": "2026-08-12 22:00:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌釋出升級版 Pixel Watch 5，起售價 399 美元。"
+    },
+    {
+      "id": "5037920",
+      "time": "2026-08-12 22:00:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "受嚴重記憶體供應短缺影響，谷歌上調新款手機售價。"
+    },
+    {
+      "id": "5037919",
+      "time": "2026-08-12 22:00:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌可穿戴裝置將實現胰島素抵抗監測，屬該品類首創 。"
+    },
     {
       "id": "5037918",
       "time": "2026-08-12 21:58:26",
