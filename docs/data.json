@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-12 08:15:41",
-  "count": 15419,
+  "updated": "2026-08-12 08:19:30",
+  "count": 15408,
   "items": [
+    {
+      "id": "5036519",
+      "time": "2026-08-12 08:18:46",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美國當前財報季出現反常態勢 科技巨頭取代小盤股成波動主力】期權分析服務商ORATS的資料顯示，本財報季中，人工智慧(AI)熱潮推動的超大規模雲服務商股價在財報釋出後出現了比往常更大的波動，這打破了以往小型公司財報通常引發更大幅度股價波動的歷史規律。財報季的前幾周通常由市場龍頭企業主導，包括摩根大通和富國銀行等金融巨頭、率先發布財報的道瓊斯藍籌股，以及蘋果、微軟、Alphabet和Meta等超大市值科技巨頭。指數中的中小型公司則在後幾周成為市場焦點。但這次情況有所不同。“最近幾周，小型公司財報引發的波動較為平淡——與前幾周形成鮮明對比，當時超大規模雲服務商的財報引發了比往常更大的股價波動，”ORATS創始人Matt Amberson表示。包括亞馬遜、微軟、谷歌和Meta在內的一些超大規模科技公司，在財報釋出後股價出現大幅波動，超過了各自過去幾個季度的平均波動幅度，因為投資者基於AI資本支出是否產生回報的跡象，而積極買入或拋售股票。"
+    },
+    {
+      "id": "mkt:019ff354-e8a6-7aab-8ffc-8b205bc9ac77",
+      "time": "2026-08-12 08:17:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI rose 2.00% intraday; Samsung Electronics gained 4.0%, SK Hynix up 2.0%."
+    },
+    {
+      "id": "5036518",
+      "time": "2026-08-12 08:17:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心稱，百慕大附近未來48小時內形成氣旋的可能性為40%。"
+    },
+    {
+      "id": "5036517",
+      "time": "2026-08-12 08:17:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數上漲2％，三星電子漲4%，SK海力士漲2%。"
+    },
+    {
+      "id": "mkt:019ff354-474f-7aab-8ffc-867f181e099b",
+      "time": "2026-08-12 08:16:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV, citing sources, reported a drone attacked Libya's Zawiya power plant."
+    },
+    {
+      "id": "5036516",
+      "time": "2026-08-12 08:15:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域實彈射擊】據中國海事局網站訊息，珠海海事局釋出航行警告，8月12日和14日每天8時至17時，南海部分海域進行實彈射擊，禁止駛入。"
+    },
     {
       "id": "5036515",
       "time": "2026-08-12 08:14:10",
@@ -140324,192 +140384,6 @@
         "國際"
       ],
       "text": "【中信證券：預計年內黃金價格將回到上行通道】中信證券研報認為，今年以來黃金價格衝高後迅速下跌，但黃金仍處在大牛市，原因有美國財政赤字加速擴張、逆全球化下地緣裂痕難以彌合、全球央行購金持續託底。因此金價本輪下跌只是牛市中的暫時調整。當前的回撤幅度已逼近歷史極值，4000美元/盎司附近大機率是本輪底部區域。展望後市，預計霍爾木茲海峽局勢對黃金價格的影響將從壓制轉變為助推，美聯儲貨幣政策可能比市場預期更樂觀，疊加美國軍費暴漲推高赤字，預計年內黃金價格將回到上行通道。"
-    },
-    {
-      "id": "te:markets:572719",
-      "time": "2026-08-05 08:18:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hits 7-week High — AUDUSD increased to 0.71, the highest since June 2026. Over the past 4 weeks, Australian Dollar US Dollar gained 1.33%, and in the last 12 months, it increased 8.44%."
-    },
-    {
-      "id": "5025590",
-      "time": "2026-08-05 08:18:17",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根大通據悉擬38億歐元收購法國供熱與冷卻網路運營商Idex】8月5日，據報道，摩根大通正接近達成一項交易，收購Antin旗下的法國供熱與冷卻網路運營商Idex。包括債務在內，該筆交易對Idex的估值約為38億歐元（約合44億美元）。"
-    },
-    {
-      "id": "5025589",
-      "time": "2026-08-05 08:17:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：傳統主業穩健+AI收入漸顯 美股應用軟體迎來估值修復契機】中信證券研報表示，當下“AI吞噬軟體”敘事正在逐步證偽：龍頭廠商收入與在手訂單仍保持穩健增長，應用軟體基本面尚未出現市場此前擔憂的結構性失速；同時模型廠商透過嵌入CRM、ERP、ITSM和HCM等既有工作流推進企業級落地，傳統軟體廠商的資料、行業知識及客戶服務能力仍構成核心壁壘。短期看，模型同質化屬性提升、軟體企業AI收入佔比提升等有望推動美股軟體板塊估值持續向上修復。中期維度，板塊能否由估值修復走向反轉，仍取決於AI產品能否帶動軟體企業整體營收增速回升，未來1—2個季度可能是重要觀察視窗。"
-    },
-    {
-      "id": "5025588",
-      "time": "2026-08-05 08:17:53",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片股大幅上漲，鎧俠股價上漲7.5%，軟銀集團上漲7.8%，愛德萬測試上漲5.8%。"
-    },
-    {
-      "id": "5025587",
-      "time": "2026-08-05 08:17:30",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲施密德：近期能源價格回落可能是暫時的。當前美聯儲政策立場並非限制性。通脹“過高”且“令人擔憂”。人工智慧投資正在推高通脹，美聯儲不應忽視這一點。"
-    },
-    {
-      "id": "5025586",
-      "time": "2026-08-05 08:16:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.3%，德國DAX指數期貨上漲0.5%，富時指數期貨上漲0.2%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608053831834639",
-      "time": "2026-08-05 08:16:37",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲施密德稱，需要更緊縮的貨幣政策以將通脹恢復至2%的目標。"
-    },
-    {
-      "id": "5025585",
-      "time": "2026-08-05 08:16:30",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：AI硬體品種縮圈 雲與應用吸引力提升】中信證券研報表示，過去一月全球科技板塊迎來了一輪大規模的回撥，覆盤回撥因素，可以看到AI產業的景氣度並沒有發生本質變化，也並未有公司EPS出現下修，基本面仍屬於高企而緊平衡的狀態，但是市場對於漲價的擔憂、Capex ROIC質疑、國產開源模型攪動模型格局與Token價格預期、加息擾動等負面敘事集中爆發，疊加AI硬體交易和倉位的過於擁擠以及槓桿交易逆轉最終引發了市場的踩踏。展望8月，對於整個科技板塊和AI敘事而言，籌碼結構及交易擁擠度的緩解，與上下游利潤分配與議價權的邊際變化仍將是接下來一個月影響科技板塊整體走向的主要因素，板塊大機率進入等待新敘事、科技硬體與軟體進入再平衡的階段。而從細分的交易方向來看，建議關注籌碼結構較好、估值處於低位以及在這輪迴調中整體被錯殺的方向。開源模型能力提升帶動“智慧平權”與“Token平價”，建議首先關注估值仍處於低位且AI應用生態豐富的頭部網際網路公司與雲廠商；硬體縮圈後，擴產鏈優於漲價鏈，仍建議關注景氣仍然向上的國產裝置、FAB；以及估值較低的光通訊賽道和部分中報業績向好的應用公司。"
-    },
-    {
-      "id": "5025584",
-      "time": "2026-08-05 08:16:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：PCE物價指數是衡量通脹的最佳方式。樂見近期通脹資料，但稱現在判斷通脹是否正在緩解為時過早。經濟整體表現良好，增長具韌性。"
-    },
-    {
-      "id": "mkt:019fcf47-41ab-7aab-8f7a-b204b1ea717e",
-      "time": "2026-08-05 08:16:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed's Schmid said he is uneasy about assuming any inflation spike will be transitory and that inflation pressures extend beyond energy."
-    },
-    {
-      "id": "mkt:019fcf47-0c9e-7aab-8f7a-aa0f706aeb56",
-      "time": "2026-08-05 08:16:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "Fed's Schmid said the recent easing in energy prices may be temporary."
-    },
-    {
-      "id": "mkt:019fcf46-fffd-7aab-8f7a-a542cffc0ad1",
-      "time": "2026-08-05 08:16:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Schmid said AI investment is pushing up inflation and the Fed should not ignore it."
-    },
-    {
-      "id": "mkt:019fcf46-fcf4-7aab-8f7a-9ece29d6ae22",
-      "time": "2026-08-05 08:16:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Schmid said the personal consumption expenditures (PCE) price index is the best gauge of inf."
-    },
-    {
-      "id": "5025583",
-      "time": "2026-08-05 08:16:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：我們的通脹問題不僅僅關乎能源；對假設通脹飆升將是暫時性的感到不安；就業市場似乎大致平衡。即使通脹由供應衝擊驅動，美聯儲也不應忽視。"
-    },
-    {
-      "id": "mkt:019fcf46-e9f5-7aab-8f7a-9442e81eed94",
-      "time": "2026-08-05 08:15:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Schmid said the Federal Reserve should not ignore inflation, even if it is driven by supply shocks."
-    },
-    {
-      "id": "mkt:019fcf46-be65-7aab-8f7a-8913f01a6cf3",
-      "time": "2026-08-05 08:15:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Schmid said the labor market appears broadly balanced."
-    },
-    {
-      "id": "mkt:019fcf46-bad2-7aab-8f7a-868030bfeeb1",
-      "time": "2026-08-05 08:15:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed official Schmid welcomed recent inflation data but said it is too early to say whether inflation is slowing."
     }
   ]
 }
