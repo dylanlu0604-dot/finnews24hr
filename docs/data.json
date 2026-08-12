@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-12 13:34:13",
-  "count": 15204,
+  "updated": "2026-08-12 13:38:06",
+  "count": 15200,
   "items": [
+    {
+      "id": "5036899",
+      "time": "2026-08-12 13:36:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【房地產板塊午後繼續走強 *ST中迪漲超8%】房地產板塊午後繼續走強，*ST中迪漲超8%，福星股份、新城控股等股上漲。"
+    },
+    {
+      "id": "5036898",
+      "time": "2026-08-12 13:35:06",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【AI程式設計初創公司Cognition據悉洽談新一輪融資 估值或達400億美元】據知情人士透露，Cognition AI正與投資者就新一輪融資進行早期磋商，該輪融資可能使這家人工智慧(AI)程式設計初創公司的估值提升50%以上，達到至少400億美元。知情人士稱，這家人工智慧企業在以260億美元估值籌得10億美元后不到三個月，潛在投資者便已開始圍攏過來，尋求入股這家業內最火熱賽道之一的領軍企業。知情人士還表示，該公司目前的年化收入執行率已接近10億美元，約為其上輪融資時披露數字的兩倍。其中一位知情人士稱，Cognition預計在本輪籌資將超過10億美元。但知情人士也提醒，公司仍可能決定不融資，或以不同條款尋求資金。"
+    },
     {
       "id": "5036897",
       "time": "2026-08-12 13:31:32",
@@ -138360,62 +138379,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4150美元/盎司，日內漲1.79%。"
-    },
-    {
-      "id": "5026065",
-      "time": "2026-08-05 13:37:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4210美元/盎司，日內漲1.39%。"
-    },
-    {
-      "id": "te:economy:572845",
-      "time": "2026-08-05 13:37:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "India Services Growth Revised Slightly Higher — The HSBC India Services PMI was revised slightly higher to 53.3 in July 2026 from the preliminary estimate of 53.1 but remained well below June's final reading of 57.4. Still, the latest reading signaled the weakest expansion in business activity since early 2022, as output and new order growth slowed amid softer demand, competitive pressures, and fewer new enquiries. New business inflows rose at the weakest pace since February 2022. However, new export orders remained a bright spot, accelerating on stronger demand from the UAE, UK, and US. Employment improved, with service providers adding to payrolls at a faster pace after job creation slowed to a six-month low in June. On the price front, input cost inflation eased to its lowest since January, though selling charges rose at the fastest pace since April, pushing output price inflation higher. Lastly, business confidence weakened to a seven-month low despite expectations of improved demand and market conditions."
-    },
-    {
-      "id": "5026064",
-      "time": "2026-08-05 13:37:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【泰豪軟體：與海光資訊戰略合作 加速國產算力與能源產業融合】泰豪科技(600590)參股公司泰豪軟體官微訊息，近日，泰豪軟體與海光資訊正式簽署戰略合作協議。雙方圍繞國產算力在能源行業落地、技術合作與生態協同等議題開展了深度討論。雙方將全力探索國產算力與能源業務深度融合的創新路徑，攜手打造自主可控、安全可靠的能源數字化解決方案。"
-    },
-    {
-      "id": "mkt:019fd06b-a76f-7aab-8f82-4f03fad5d322",
-      "time": "2026-08-05 13:35:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "On Wednesday, Aug. 5, the Taiwan Stock Exchange Weighted Index (TAIEX) closed up 1,250.94 points, or 2.88%, at 44,611.6."
-    },
-    {
-      "id": "5026063",
-      "time": "2026-08-05 13:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收高2.9%報44,611.60。"
-    },
-    {
-      "id": "5026062",
-      "time": "2026-08-05 13:34:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時放量3759億元。"
     }
   ]
 }
