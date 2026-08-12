@@ -1,7 +1,191 @@
 {
   "date": "2026-08-12",
-  "count": 1137,
+  "count": 1157,
   "items": [
+    {
+      "id": "mkt:019ff4a0-3eee-7aab-9001-6538d3936bfd",
+      "time": "2026-08-12 14:19:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "02899.HK",
+        "Impact bullish"
+      ],
+      "text": "【Morgan Stanley raises Zijin Mining H‑share target to HK$61, names sector top pick】Morgan Stanley raised its H-share target price for Zijin Mining (02899.HK) to HK$61 from HK$55, assigned an Overweight rating and named the stock its sector top pick. The bank said Zijin's copper, gold and lithium production growth ranks among large miners and that its valuation does not fully reflect the company's scale, diversification and visible growth."
+    },
+    {
+      "id": "mkt:019ff4a0-3de9-7aab-9001-5a15039e3462",
+      "time": "2026-08-12 14:19:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2317.TW"
+      ],
+      "text": "FOXCONN 1H revenue TWD 4.65 tln; 1H net profit TWD 109.9 bln."
+    },
+    {
+      "id": "5036950",
+      "time": "2026-08-12 14:19:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【機構：全固態電池進入工程驗證期，全球主流廠商加速車規測試與多領域落地】根據TrendForce集邦諮詢最新《全球固態電池產業發展動態季報_2Q26》，2026年全固態電池（ASSB）產業邁入工程化驗證的關鍵期，Toyota（豐田）、Honda（本田）、Nissan（日產）、Samsung SDI（三星SDI）等廠商的ASSB小規模試產進度小幅領先，日系廠商的車規產品已於部分效能指標得到驗證確認，正加速推進車載ASSB模組的效能評估。TrendForce集邦諮詢表示，2026年ASSB技術成熟度（Technology Readiness Level, TRL）出現重大進展，在中國、日本、韓國等核心發展區域，ASSB效能驗證和確認已跨過實驗室原型驗證階段（TRL1-3），部分領導廠商向TRL5-6邁進，意味著研發重點從實驗室材料效能突破，逐步轉向工程製造、產品一致性及車規驗證。"
+    },
+    {
+      "id": "mkt:019ff49f-9632-7aab-9001-54a2a6eb1c35",
+      "time": "2026-08-12 14:18:47",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn expects third-quarter revenue from components and other products to increase sharply YoY."
+    },
+    {
+      "id": "mkt:019ff49f-675e-7aab-9001-4ecc7619fea2",
+      "time": "2026-08-12 14:18:35",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn expects Q3 computing-products revenue to rise sharply YoY."
+    },
+    {
+      "id": "mkt:019ff49f-3474-7aab-9001-4071454ead99",
+      "time": "2026-08-12 14:18:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn expects Q3 revenue from cloud computing, networking products and smart consumer electronics to rise sharply YoY."
+    },
+    {
+      "id": "5036949",
+      "time": "2026-08-12 14:18:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報877.00元。"
+    },
+    {
+      "id": "5036948",
+      "time": "2026-08-12 14:18:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計第三季度智慧消費電子業務收入將實現同比大幅增長。"
+    },
+    {
+      "id": "mkt:019ff49e-def1-7aab-9001-38f520e1e04b",
+      "time": "2026-08-12 14:18:00",
+      "tags": [
+        "MKT News",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn expects third-quarter revenue to rise strongly YoY."
+    },
+    {
+      "id": "5036947",
+      "time": "2026-08-12 14:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計第三季度雲與網路產品營收將實現同比強勁增長。"
+    },
+    {
+      "id": "5036946",
+      "time": "2026-08-12 14:17:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：上調紫金礦業H股目標價至61港元，列為行業首選】摩根士丹利發表報告，將紫金礦業H股目標價由55港元上調至61港元，A股目標價由52元上調至58元，並將紫金礦業H股列為行業首選，評級“增持”。該行認為，紫金在銅、金及鋰礦的產量增長速度，在大型礦企中名列前茅，惟其估值尚未充分反映其增長規模、多元化及可見性。大摩分析指，紫金現交易於預測2026年市盈率11.3倍，EV/EBITDA為7.5倍，估值較全球同業(EV/EBITDA介乎約7至15倍)吸引，特別是經現時優於同業的產量增長調整後。"
+    },
+    {
+      "id": "mkt:019ff49e-9580-7aab-9001-377de9e2929f",
+      "time": "2026-08-12 14:17:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn reported Q2 net profit of NT$59.97 billion and said it expects 2026 revenue to rise strongly YoY."
+    },
+    {
+      "id": "5036945",
+      "time": "2026-08-12 14:17:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計第三季度營收同比將實現強勁增長。"
+    },
+    {
+      "id": "5036944",
+      "time": "2026-08-12 14:17:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計2026年營收將實現同比強勁增長，此前市場預期即為強勁增長。"
+    },
+    {
+      "id": "5036943",
+      "time": "2026-08-12 14:16:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武大靖出任中國短道速滑隊主教練】國家體育總局冬季運動管理中心剛剛宣佈，經公開選聘，冬奧冠軍武大靖出任中國短道速滑隊主教練。（新華社）"
+    },
+    {
+      "id": "5036942",
+      "time": "2026-08-12 14:16:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海第二季度營業利潤948.0億元新臺幣，預估805.3億元新臺幣。"
+    },
+    {
+      "id": "5036941",
+      "time": "2026-08-12 14:16:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海上半年營收4.65萬億元新臺幣。"
+    },
+    {
+      "id": "5036940",
+      "time": "2026-08-12 14:15:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海上半年營業利潤1,704.5億元新臺幣。"
+    },
+    {
+      "id": "te:economy:574637",
+      "time": "2026-08-12 14:15:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Household Spending MoM",
+        "Importance 1"
+      ],
+      "text": "Sweden Household Spending Rebounds in June — Household spending in Sweden jumped 1.6% month-on-month in June 2026, rebounding from a revised 0.3% decline in the previous month. It marked the biggest increase since January, driven by a rebound in spending on personal care, social protection, and miscellaneous goods and services (5.9% vs -3.9% in May), transportation (5.4% vs -4.1%), recreation, sports, and culture (4.9% vs -1.5%), healthcare (3.9% vs -4.4%), furniture, household equipment, and routine home maintenance (3.8% vs -2.3%), and alcoholic beverages, tobacco, and drugs (1.6% vs -2.1%). Consumers also spent more on information and communication (5.3% vs 1.3%), as well as clothing and footwear (3.5% vs 0.4%). Meanwhile, expenditure on food and non-alcoholic beverages (0.5% vs 0.7%) and housing and utilities (0.4% vs 1.6%) slowed. On a yearly basis, household consumption rose 4.3%, following a revised 2.0% increase in May."
+    },
+    {
+      "id": "5036939",
+      "time": "2026-08-12 14:15:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海第二季度淨利潤599.7億元新臺幣，預估583.8億元新臺幣。"
+    },
     {
       "id": "5036938",
       "time": "2026-08-12 14:15:33",
