@@ -1,7 +1,51 @@
 {
   "date": "2026-08-12",
-  "count": 2603,
+  "count": 2608,
   "items": [
+    {
+      "id": "mkt:019ff654-066a-7aab-900e-4dfe5476f36e",
+      "time": "2026-08-12 22:15:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German firms expect AI to depress wages; junior employees most exposed】Munich-based Ifo Institute said a June survey of more than 3,000 German companies deploying AI found about half expect wages for employees with under five years’ experience to fall over the next five years as AI adoption expands. Around 40% of firms expect pay declines for more experienced staff, while university-educated employees are markedly more likely to see pay gains than non-degree workers. Ifo researcher Anna Ruffert said AI’s impact will not be uniform, with formal qualifications and greater experience more often linked to positive wage outcomes."
+    },
+    {
+      "id": "5037937",
+      "time": "2026-08-12 22:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多 7 月國際儲備為 113.46 億美元。"
+    },
+    {
+      "id": "te:markets:574791",
+      "time": "2026-08-12 22:13:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Extends Record Run — The S&P/TSX Composite Index edged higher to trade above 36,500, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC, TD Bank and BMO gaining more than 0.5%, while CIBC and Scotiabank rose nearly 1%. Most miners advanced amid higher gold prices, with Agnico Eagle and Barrick up more than 1.5%. Franco-Nevada fell 3% after missing earnings expectations. Constellation Software tumbled near 7% after revenue came in slightly below forecasts despite an EPS beat. Hydro One gained 2% after reporting higher profit, while Metro fell 2% after reporting weaker adjusted earnings in fiscal Q3."
+    },
+    {
+      "id": "5037936",
+      "time": "2026-08-12 22:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦總統抵達土耳其，與土耳其總統埃爾多安舉行會談。"
+    },
+    {
+      "id": "5037935",
+      "time": "2026-08-12 22:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：喬希・庫什納、鮑勃・艾格擬以 120 億美元收購湖人隊。"
+    },
     {
       "id": "5037934",
       "time": "2026-08-12 22:10:27",

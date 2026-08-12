@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-12 22:12:03",
-  "count": 15168,
+  "updated": "2026-08-12 22:16:12",
+  "count": 15163,
   "items": [
+    {
+      "id": "mkt:019ff654-066a-7aab-900e-4dfe5476f36e",
+      "time": "2026-08-12 22:15:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German firms expect AI to depress wages; junior employees most exposed】Munich-based Ifo Institute said a June survey of more than 3,000 German companies deploying AI found about half expect wages for employees with under five years’ experience to fall over the next five years as AI adoption expands. Around 40% of firms expect pay declines for more experienced staff, while university-educated employees are markedly more likely to see pay gains than non-degree workers. Ifo researcher Anna Ruffert said AI’s impact will not be uniform, with formal qualifications and greater experience more often linked to positive wage outcomes."
+    },
+    {
+      "id": "5037937",
+      "time": "2026-08-12 22:13:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "厄瓜多 7 月國際儲備為 113.46 億美元。"
+    },
+    {
+      "id": "te:markets:574791",
+      "time": "2026-08-12 22:13:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Extends Record Run — The S&P/TSX Composite Index edged higher to trade above 36,500, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC, TD Bank and BMO gaining more than 0.5%, while CIBC and Scotiabank rose nearly 1%. Most miners advanced amid higher gold prices, with Agnico Eagle and Barrick up more than 1.5%. Franco-Nevada fell 3% after missing earnings expectations. Constellation Software tumbled near 7% after revenue came in slightly below forecasts despite an EPS beat. Hydro One gained 2% after reporting higher profit, while Metro fell 2% after reporting weaker adjusted earnings in fiscal Q3."
+    },
+    {
+      "id": "5037936",
+      "time": "2026-08-12 22:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦總統抵達土耳其，與土耳其總統埃爾多安舉行會談。"
+    },
+    {
+      "id": "5037935",
+      "time": "2026-08-12 22:11:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：喬希・庫什納、鮑勃・艾格擬以 120 億美元收購湖人隊。"
+    },
     {
       "id": "5037934",
       "time": "2026-08-12 22:10:27",
@@ -138292,90 +138336,6 @@
         "其他"
       ],
       "text": "【非晶電驅技術下沉至10萬級，2027款埃安RT 9.98萬元起售】8月5日，廣汽埃安2027款埃安RT上市，售價9.98萬至12.38萬元。新車定位A級純電轎車，首次將非晶合金電驅與碳化矽電控下放至10萬元級市場，全系標配寧德時代電池，實現710km同級最長續航及百公里8.571kWh超低電耗。該車型此前已累計交付超10萬臺，本次升級意在透過核心三電技術下沉，搶佔9萬—12萬元級主流家轎市場份額。"
-    },
-    {
-      "id": "5027209",
-      "time": "2026-08-05 22:16:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "EOG：由於伊朗衝突，巴林地區的運營時斷時續。"
-    },
-    {
-      "id": "5027208",
-      "time": "2026-08-05 22:15:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "禮來稱美國 45% 的肥胖症處方為患者現金支付。"
-    },
-    {
-      "id": "5027207",
-      "time": "2026-08-05 22:15:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來首席財務官在業績電話會議上表示，可注射GLP-1藥物仍是核心增長動力，每4名新啟用該類藥物的患者中就有3人選擇注射劑型。"
-    },
-    {
-      "id": "te:markets:573076",
-      "time": "2026-08-05 22:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Climbs to Seven-Week High on Hopes of US-Iran Deal — Gold extended its gains to around $4,200 an ounce on Wednesday, reaching its highest level since June 18, as easing geopolitical tensions and softer US labor market data reinforced expectations of a less aggressive Federal Reserve. President Donald Trump said the US and Iran held \"very good discussions\" on Tuesday, raising hopes of a deal to end their five-month conflict. The prospect of restored Middle Eastern energy supplies has pushed oil prices down about 10% this week, easing inflation concerns and reducing expectations for further Fed tightening. Meanwhile, the ADP Employment Report showed the US economy added just 44,000 private-sector jobs in July, the weakest reading since January and well below forecasts of 70,000. Traders now see a 57% chance of a September Fed rate hike, down from 67% a day earlier. Still, Kansas City Fed President Jeff Schmid said some additional policy tightening may be needed to bring inflation back to the central bank's 2% target."
-    },
-    {
-      "id": "5027206",
-      "time": "2026-08-05 22:14:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "溫哥華7月份房屋銷售量同比下降9.8%。"
-    },
-    {
-      "id": "5027205",
-      "time": "2026-08-05 22:14:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "溫哥華基準房價7月份同比下跌6.2%。"
-    },
-    {
-      "id": "5027204",
-      "time": "2026-08-05 22:13:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "森科能源執行長表示，隨著森科商業城煉油廠的運營表現與安全記錄得到改善，該資產對公司的價值已大幅增長。"
-    },
-    {
-      "id": "5027203",
-      "time": "2026-08-05 22:13:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元匯率觸及157.31，創紐約交易日最高點。"
-    },
-    {
-      "id": "5027202",
-      "time": "2026-08-05 22:12:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "孟買證券交易所：鼓勵所有客戶參與收盤集合競價。"
-    },
-    {
-      "id": "5027201",
-      "time": "2026-08-05 22:12:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2473.00元。"
     }
   ]
 }
