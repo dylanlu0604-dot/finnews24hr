@@ -1,7 +1,118 @@
 {
   "date": "2026-08-12",
-  "count": 1929,
+  "count": 1942,
   "items": [
+    {
+      "id": "mkt:019ff58c-6b47-7aab-9007-a779ad5c89f0",
+      "time": "2026-08-12 18:37:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【PBOC to build comprehensive macroprudential framework, expand policy toolkit】People's Bank of China released its Q2 2026 monetary policy implementation report, flagging a push to build a comprehensive macroprudential management system and enrich the macroprudential policy toolkit. From macro, countercyclical and contagion‑prevention perspectives it will strengthen monitoring, assessment and early‑warning of systemic financial risks and broaden macroprudential coverage. The central bank said it will expand macroprudential and financial‑stability functions, innovate financial instruments to preserve market stability, and deepen macroprudential oversight of systemically important financial institutions, progressively extending additional supervisory measures into the non‑bank sector. For systemically important banks it will reinforce add‑on supervision, require selected banks to improve recovery and resolution plans, explore forward‑looking risk‑management guidance, and bolster cross‑border crisis‑management group arrangements and supervisory information‑sharing for global systemically important banks."
+    },
+    {
+      "id": "5037525",
+      "time": "2026-08-12 18:36:44",
+      "tags": [
+        "央行",
+        "公司",
+        "焦點"
+      ],
+      "text": "【央行：支援更多符合條件的境外主體發行熊貓債券】央行釋出2026年第二季度中國貨幣政策執行報告，其中提到，加快金融市場制度建設和高水平對外開放。持續增強債券市場功能和服務實體經濟能力。高質量建設債券市場“科技板”，用好科技創新與民營企業債券風險分擔工具，支援更多民營科技型企業、民營股權投資機構發債融資。推動公司債券法制建設。加快多層次債券市場發展，穩慎推進櫃檯債券業務發展。持續規範發行定價、承銷做市等行為，加強重點領域和行業風險監測。支援更多符合條件的境外主體發行熊貓債券。持續最佳化跨境人民幣政策體系，整合、最佳化早期釋出的跨境人民幣結算政策，提高政策的可理解性、可操作性。"
+    },
+    {
+      "id": "5037524",
+      "time": "2026-08-12 18:36:21",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "挪威央行行長：經歷這樣一輪上漲之後，市場會變得更加謹慎緊張。"
+    },
+    {
+      "id": "5037523",
+      "time": "2026-08-12 18:35:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球研究將戴姆勒卡車控股目標價從50歐元上調至54歐元。"
+    },
+    {
+      "id": "5037522",
+      "time": "2026-08-12 18:35:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【豐林集團：累計回購股份佔總股本2.06% 金額達5226.26萬元】豐林集團公告稱，截至2026年8月12日，公司以集中競價交易方式累計回購股份2312.65萬股，佔公司總股本11.21億股的2.06%，購買最低價為2.04元/股、最高價為2.62元/股，已支付總金額為5226.26萬元（不含交易費用）。本次回購資金總額不低於8000萬元、不超過1.20億元，回購期限為2026年7月21日至2026年10月20日，用途為維護公司價值及股東權益。"
+    },
+    {
+      "id": "mkt:019ff58a-834c-7aab-9007-9856b1bf3009",
+      "time": "2026-08-12 18:35:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【PBOC backs policy and development finance institutions to advance new policy financial tools, prioritising digital economy, AI, consumption infrastructure and urban renewal】PBOC released its Q2 2026 monetary policy implementation report, saying it will continue a moderately loose monetary policy and support major project investment. The central bank has arranged PSL quota to back policy and development finance institutions in issuing new policy-style financial instruments to supplement capital for major projects, with priority for the digital economy, artificial intelligence, consumption infrastructure and urban renewal projects including transport, energy and underground utility network upgrades. PSL outstanding at end-June: 0.8 tln yuan."
+    },
+    {
+      "id": "5037521",
+      "time": "2026-08-12 18:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【碩貝德：擬募資不超10.96億元用於多個專案】碩貝德公告稱，公司擬向特定物件發行A股股票，募集資金總額不超10.96億元，扣除發行費用後，淨額擬用於伺服器散熱模組、智慧眼鏡輕量化射頻元件、低軌衛星通訊天線及模組專案，分別投入3.75億元、2.31億元、1.89億元，另3億元用於補充流動資金。目前各專案備案及環評手續尚在辦理中。本次發行有助於公司提升技術水平和生產效率，改善財務狀況，但短期內可能攤薄每股收益。"
+    },
+    {
+      "id": "5037520",
+      "time": "2026-08-12 18:34:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府公佈：該國7月基於消費者價格指數的食品通脹同比為5.52%。"
+    },
+    {
+      "id": "5037519",
+      "time": "2026-08-12 18:34:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：金融支援實體經濟已由更加註重規模擴張轉向更加註重質量和效率，融資渠道更加豐富，資源配置更加最佳化，金融適配性不斷增強】央行釋出2026年第二季度中國貨幣政策執行報告。金融對實體經濟的支援不僅是宏觀金融總量的持續擴張，更多體現為質效的不斷提升。一方面，隨著適度寬鬆的貨幣政策有力實施，金融機構服務實體經濟的能力不斷增強，實體企業融資感受不斷提升、融資成本持續下行。另一方面，融資結構持續最佳化。社融、M2 存量已分別超過 460 萬億元、350 萬億元，貸款規模也超過 280 萬億元，提高存量資金使用效率和最佳化新增融資投向一樣，都對實體經濟發揮了積極作用。房地產和地方政府融資平臺貸款到期償還規模較大，新發放貸款更多投向代表經濟新動能的高效領域，此消彼長之間，貸款增量沒有原來多，但信貸結構持續最佳化，普惠小微貸款、科技貸款、綠色貸款增速已連續多年高於各項貸款增速。特別是金融資源向科技創新、先進製造等重點領域加速集聚，深刻賦能新一輪科技革命和產業變革的程序，A 股上市的“專精特新”企業達 2000 多家，債券市場“科技板”落地一年多來，科技創新債券已累計發行超過 2.8 萬億元。總的看，金融支援實體經濟已由更加註重規模擴張轉向更加註重質量和效率，融資渠道更加豐富，資源配置更加最佳化，金融適配性不斷增強。在此背景下，觀察金融支援實體經濟的力度和質效不宜再侷限於貸款的單一渠道、規模與增速的單一視角，而是需要更加多維全面，科學分析金融體系為高質量發展提供的全方位支援。"
+    },
+    {
+      "id": "mkt:019ff589-40f0-7aab-9007-93fda2f1a590",
+      "time": "2026-08-12 18:34:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【PBOC to conduct MLF as needed, provide timely SLF support】The PBOC released its Q2 2026 monetary policy implementation report, saying it will conduct medium-term lending facility (MLF) operations as appropriate to ensure medium- and long-term liquidity and will carry out standing lending facility (SLF) operations in a timely manner. 1H MLF operations totaled 3.5 tln yuan, all with one-year tenors; end-June MLF outstanding was 7.4 tln yuan, up 1.15 tln from the start of the year. MLF is conducted via fixed-quantity, interest-rate bidding with multi-price allotment to better match institutions’ differing funding needs. 1H SLF operations totaled 4.9 bln yuan; end-June SLF outstanding was 1.0 bln yuan. SLF provides on-demand, full short-term liquidity support to local financial institutions to promote money-market stability. End-June SLF rates were: overnight 2.25%, 7-day 2.40%, 1-month 2.75%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123839282745",
+      "time": "2026-08-12 18:33:33",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：把促進經濟穩定增長、物價合理回升作為貨幣政策的重要考量】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，保持金融總量合理增長。繼續實施好適度寬鬆的貨幣政策，發揮增量政策和存量政策整合效應。增強貨幣政策前瞻性靈活性針對性，把促進經濟穩定增長、物價合理回升作為貨幣政策的重要考量，根據國內外經濟金融形勢和金融市場執行情況，把握好政策實施的力度、節奏和時機，持續營造適宜的貨幣金融環境。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123839278881",
+      "time": "2026-08-12 18:33:28",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：保持銀行體系流動性充裕 金融總量合理增長】中國人民銀行釋出2026年第二季度中國貨幣政策執行報告。保持銀行體系流動性充裕，金融總量合理增長。綜合運用逆回購、中期借貸便利、國債買賣操作等多種貨幣政策工具，保持流動性充裕。完善短端利率調控機制，在公開市場操作中增加隔夜逆回購操作品種，並將臨時正、逆回購操作區間寬度由70個基點收窄至50個基點，增強貨幣市場利率調控的精準性、有效性。"
+    },
     {
       "id": "5037518",
       "time": "2026-08-12 18:33:26",
@@ -117,6 +228,15 @@
         "央行"
       ],
       "text": "【中國央行釋出2026年第二季度中國貨幣政策執行報告：進一步提升跨境投融資便利化水平】進一步提升跨境投融資便利化水平。正式實施境外直接上市資金管理新規，進一步便利境內企業在境外金融市場高效融資。推進跨國公司本外幣一體化資金池業務試點改革，滿足不同型別跨國公司跨境資金集中運營需求，切實提高跨境資金管理政策服務實體經濟能力。完善境內銀行境外貸款政策，提高境外貸款餘額上限，最佳化間接方式貸款管理要求，支援商業銀行穩定、持續地為離岸人民幣市場提供流動性，更好發揮跨境金融服務實體經濟作用。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123839278910",
+      "time": "2026-08-12 18:30:58",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：綜合運用並適時調整貨幣政策工具 保持流動性充裕和社會融資條件相對寬鬆】央行釋出2026年第二季度中國貨幣政策執行報告，繼續實施好適度寬鬆的貨幣政策。增強政策前瞻性靈活性針對性，根據國內外經濟金融形勢和金融市場執行情況，把握好政策實施的力度、節奏和時機，加強與財政政策協同配合，支援經濟穩定增長、高質量發展和金融市場平穩執行。綜合運用並適時調整貨幣政策工具，保持流動性充裕和社會融資條件相對寬鬆，引導社會融資規模、貨幣供應量增長同經濟增長、價格總水平預期目標相匹配。"
     },
     {
       "id": "mkt:019ff586-3340-7aab-9007-6a9a8a7705fb",
