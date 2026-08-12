@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-12 18:45:55",
-  "count": 15140,
+  "updated": "2026-08-12 18:49:49",
+  "count": 15125,
   "items": [
+    {
+      "id": "5037540",
+      "time": "2026-08-12 18:49:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西省鷹潭市人民政府黨組成員、副市長陳敏接受紀律審查和監察調查】西省紀委監委12日通報，鷹潭市人民政府黨組成員、副市長陳敏涉嫌嚴重違紀違法，主動向組織交代問題，目前正接受江西省紀委監委紀律審查和監察調查。（新華社）"
+    },
+    {
+      "id": "mkt:019ff596-e21b-7aab-9007-ce271d1bf16e",
+      "time": "2026-08-12 18:48:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Insurers in six provinces including Shanghai report nearly 130,000 claims from Typhoon White Dolphin】The National Financial Regulatory Administration said after Typhoon White Dolphin made landfall it instructed insurers to open green channels, provide proactive on-site service, expedite valid payouts and make reasonable prepayments, and to coordinate with local governments on warnings, rescue and claims handling. As of 15:00 on Aug. 12, insurers in Zhejiang, Shanghai, Jiangsu, Jiangxi, Anhui and Henan reported nearly 130,000 claims, with estimated losses of 1.75 bln yuan and paid (including prepayments) 80 mln yuan."
+    },
+    {
+      "id": "5037539",
+      "time": "2026-08-12 18:48:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海等六省份保險業接到颱風“白海豚”相關損失報案近13萬件】記者今天（12日）從金融監管總局瞭解到，今年第13號颱風“白海豚”登陸後，金融監管總局指導保險業全力應對，開通綠色通道，主動靠前服務，能賠快賠、應賠盡賠、合理預賠，並配合當地黨委政府和有關部門開展預警救援和保險理賠等服務工作。截至8月12日15時，浙江、上海、江蘇、江西、安徽、河南等6省份轄內保險機構共接報案近13萬件，估損17.5億元，已賠付（含預賠付）0.8億元。（央視新聞）"
+    },
+    {
+      "id": "5037538",
+      "time": "2026-08-12 18:47:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將騰訊音樂目標價從18美元下調至15美元。"
+    },
+    {
+      "id": "5037537",
+      "time": "2026-08-12 18:47:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國興業銀行：人工智慧可能擴大貧富差距】根據法國興業銀行的分析，人工智慧可能加速K型經濟的發展，在這種經濟模式下，收益越來越向已經處於頂端的人群集中。 雖然人工智慧可以透過幫助低專業化工人完成更復雜的任務來縮小工資差距，但其對財富的影響可能截然不同。 人工智慧獎勵計算能力、模型、資料和金融資產的所有權，這可能會進一步集中財富。 這一趨勢已經在股市和企業利潤中日益佔據主導地位的人工智慧贏家身上顯現出來。"
+    },
+    {
+      "id": "5037536",
+      "time": "2026-08-12 18:46:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "BRINKER股價下跌4.2%，此前該公司公佈的第四季度調整後每股收益不及預期。"
+    },
+    {
+      "id": "5037535",
+      "time": "2026-08-12 18:46:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普路通：發行股份及支付現金購買資產交易工作仍在推進】普路通公告稱，公司擬發行股份及支付現金，購買CMC Lollipop Holdings Limited等持有的Leqee Group Limited 100%股份及劉楷、蔣莉莉等持有的樂麥資訊科技（杭州）有限公司8.26%股權，並向關聯人募資。該交易預計構成重大資產重組。公司股票於2025年12月4日起停牌，12月18日復牌。截至公告披露日，交易涉及的盡職調查、審計、評估等工作未完成，後續尚需經董事會、股東會審議及監管機構批准。"
+    },
+    {
+      "id": "te:markets:574732",
+      "time": "2026-08-12 18:45:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Amcor earnings above expectations at 1.23 USD — Amcor (AMCR) released earnings per share at 1.23 USD, compared to market expectations of 1.19 USD."
+    },
     {
       "id": "te:markets:574731",
       "time": "2026-08-12 18:44:18",
@@ -137711,206 +137780,6 @@
         "公司"
       ],
       "text": "【無錫銀行：興達尼龍及一致行動人擬減持不超過1.96%股份】無錫銀行公告，持股5%以上股東無錫市興達尼龍有限公司及其一致行動人無錫神偉化工有限公司計劃於2026年8月28日至2026年11月27日期間，透過大宗交易方式減持股份。其中，興達尼龍擬減持不超過352萬股（佔總股本0.16%），神偉化工擬減持不超過3958.12萬股（佔總股本1.80%），合計減持不超過4310.12萬股，佔總股本比例不超過1.96%。減持原因為經營發展需求。"
-    },
-    {
-      "id": "5026774",
-      "time": "2026-08-05 18:49:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【唯特偶：2026年上半年淨利潤5208.45萬元同比增23.47%】唯特偶公告，2026年上半年營業收入9.34億元，同比增長40.62%。歸屬於上市公司股東的淨利潤5208.45萬元，同比增長23.47%。歸屬於上市公司股東的扣除非經常性損益的淨利潤5017.79萬元，同比增長35.40%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
-    },
-    {
-      "id": "te:markets:573023",
-      "time": "2026-08-05 18:49:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Eli Lilly earnings below expectations at 8.38 USD — Eli Lilly (LLY) released earnings per share at 8.38 USD, compared to market expectations of 8.82 USD."
-    },
-    {
-      "id": "5026773",
-      "time": "2026-08-05 18:49:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "保誠集團股價美股盤前下跌8%。"
-    },
-    {
-      "id": "5026772",
-      "time": "2026-08-05 18:49:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【聯合國糧農組織：全球或面臨新一輪食品價格上漲】聯合國糧農組織（FAO）警告稱，隨著中東和俄烏戰爭持續疊加厄爾尼諾現象影響，導致成本上升和作物產量下降，全球可能面臨新一輪食品通脹。"
-    },
-    {
-      "id": "5026771",
-      "time": "2026-08-05 18:48:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【名家匯：股東中國新興集團減持335萬股計劃實施完畢】名家匯公告稱，原持股5%以上股東中國新興集團有限責任公司減持計劃已實施完畢。其在2026年7月21日至8月4日，以集中競價方式累計減持公司股份335萬股，佔總股本的0.2350%，減持均價5.53元/股。減持後，新興集團持股降至7120.6697萬股，佔比4.99%。本次減持不影響公司治理結構和持續經營，也不會導致控制權變更。"
-    },
-    {
-      "id": "5026770",
-      "time": "2026-08-05 18:48:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德爾瑪：持股5%以上股東累計減持661.56萬股 佔總股本1.43%】德爾瑪公告稱，持股5%以上股東磐茂（上海）投資中心（有限合夥）於2026年7月16日至8月5日期間，以集中競價及大宗交易方式累計減持公司股份661.56萬股，佔公司總股本的1.43%。其中，集中競價減持461.56萬股，大宗交易減持200萬股。本次減持與此前已披露計劃一致，該計劃尚未實施完畢。"
-    },
-    {
-      "id": "5026769",
-      "time": "2026-08-05 18:48:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "滙豐股價跌幅擴大至盤中低點，下跌5%。"
-    },
-    {
-      "id": "te:markets:573022",
-      "time": "2026-08-05 18:48:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Rice Futures at Over 1-1/2-Year Highs — Rice futures traded around $14 per hundredweight, hovering close to their highest level since January 2025, as traders looked beyond ample current supplies and focused on climate-related risks. Rice production is highly dependent on rainfall and temperature, making the crop particularly vulnerable to weather disruptions. Forecasters warn that El Niño and broader climate change are increasing the frequency and intensity of droughts, heatwaves, and erratic monsoon rains across Asia, raising the risk of lower yields in major producing countries. While improved monsoon rains in India have accelerated planting and boosted exports, helping keep global supplies comfortable, uncertainty over weather conditions later in the growing season continues to support prices. Additional upside comes from the USDA's forecast for tighter US rice supplies and lower ending stocks."
-    },
-    {
-      "id": "5026768",
-      "time": "2026-08-05 18:48:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【魅視科技：擬投1200萬元建磷化銦研發實驗室，授權管理層開展前期工作】魅視科技公告，公司已成立全資子公司珠海明曜作為磷化銦半導體材料專案實施主體，註冊資本1000萬元。專案分兩階段推進，第一階段擬投資1200萬元建設研發實驗室，配置20臺（套）工藝驗證裝置；第二階段預計總投資2億元—2.6億元。公司董事會授權管理層按整體專案規模提前開展環評等前期工作。"
-    },
-    {
-      "id": "5026767",
-      "time": "2026-08-05 18:48:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯一家無人機工廠負責人遇炸受傷，司機在汽車爆炸事件中身亡。"
-    },
-    {
-      "id": "mkt:019fd18a-0c5d-7aab-8f89-b5a6b40a1f3e",
-      "time": "2026-08-05 18:48:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry responds to Japan's new defense white paper】Foreign Ministry spokesman Lin Jian responded after Tokyo published its 2026 defense white paper, which labels China the \"greatest strategic challenge\" and says defense investment will support Japan's economy. Lin said China strongly objects and has lodged stern representations, accusing Tokyo of smearing China, blatantly interfering in Taiwan affairs, and accelerating \"re‑militarization\" in breach of Japan's constitution and international law. China said the white paper promotes development of long-range offensive capabilities and \"new forms of warfare\" and repackages military-industrial expansion as an economic growth driver, calling the trend a prominent threat to regional peace and stability and urging Japan to halt its military buildup."
-    },
-    {
-      "id": "5026766",
-      "time": "2026-08-05 18:48:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本財務大臣援引貝森特觀點 否認遭到美方施壓】日本財務大臣片山皋月表示，美國財長貝森特認為，日本財政狀況正在改善。此前，在華盛頓方面協助東京支撐日元之後，貝森特接受了一系列採訪，片山隨後發表了上述言論。“總體而言，貝森特表示日本正在朝著財政紀律方向邁進。”片山表示，並引用了貝森特在隔夜接受多家媒體採訪時的表態。她同時反駁了外界認為美國財長試圖對日本施加政策壓力的觀點。片山表示：“如果任何外國政府認為日本沒有妥善管理自身政策，就不會願意與我們合作。”片山皋月還表示，貝森特長期以來一直支援日本促進經濟增長的戰略。"
-    },
-    {
-      "id": "5026765",
-      "time": "2026-08-05 18:47:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "CAPRI HOLDINGS股價在公佈第一季度業績後盤前下跌6.8%。"
-    },
-    {
-      "id": "5026764",
-      "time": "2026-08-05 18:47:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美的集團：已回購8739.04萬股A股，使用資金總額69.73億元】美的集團8月5日公告，公司於2026年3月30日召開第五屆董事會第十三次會議，審議透過了《關於以集中競價方式回購公司A股股份的方案》，同意公司以集中競價交易方式回購公司部分已發行的A股股份，用於實施股權激勵計劃及/或員工持股計劃，回購價格為不超過100元/股，回購金額為不超過130億元且不低於65億元，實施期限為自董事會審議透過回購股份方案之日起12個月內。截至2026年7月31日，公司累計回購8739.04萬股，佔公司目前總股本的1.15%，回購價格區間為73.66元/股至87.71元/股，累計使用資金69.73億元（不含交易費用）。"
-    },
-    {
-      "id": "5026763",
-      "time": "2026-08-05 18:47:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中研股份：獲興業銀行不超9000萬元股票回購專項貸款承諾】中研股份公告稱，公司於2026年7月30日透過以集中競價交易方式回購股份方案，回購資金不低於5000萬元、不超1億元，回購期限3個月。近日，公司獲興業銀行長春分行出具的《貸款承諾函》，承諾貸款額度不超9000萬元，期限不超3年，用於回購公司股票。具體貸款以正式合同為準，獲批額度不代表回購金額承諾，公司將按規定履行披露義務。"
-    },
-    {
-      "id": "mkt:019fd189-19a8-7aab-8f89-ae6fcf74ddd9",
-      "time": "2026-08-05 18:47:30",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan finance minister cites Bessent, denies U.S. pressure】Japan's finance minister Katayama said U.S. Treasury Secretary Bessent told her he views Japan's fiscal position as improving. Katayama cited Bessent's recent interviews following Washington's assistance to Tokyo in supporting the yen and rejected suggestions the U.S. applied policy pressure, adding that Bessent has long supported Japan's strategy to promote growth and believes Japan is moving toward fiscal discipline."
-    },
-    {
-      "id": "5026762",
-      "time": "2026-08-05 18:47:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡普里控股（Capri）公佈2027財年收入預期約為34億美元。"
-    },
-    {
-      "id": "5026761",
-      "time": "2026-08-05 18:46:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來（Eli Lilly）公佈財年調整後每股收益展望為35.5-36.5美元。"
-    },
-    {
-      "id": "5026760",
-      "time": "2026-08-05 18:46:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "卡普里控股集團第二季度每股收益預期為0.2美元。"
-    },
-    {
-      "id": "5026759",
-      "time": "2026-08-05 18:46:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "禮來：第二季度美國替爾泊肽營收增長44%，至49億美元。"
-    },
-    {
-      "id": "5026758",
-      "time": "2026-08-05 18:46:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "禮來公司股價盤前上漲7.4%，此前該公司上調了全年營收預期。"
-    },
-    {
-      "id": "mkt:019fd187-f6d8-7aab-8f89-a4d01eaf06ed",
-      "time": "2026-08-05 18:46:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "【FAO warns of renewed global food-price inflation risk】The UN Food and Agriculture Organization warned prolonged Middle East and Russia-Ukraine conflicts, El Nifio-driven crop declines and rising input costs could trigger a new round of global food-price inflation. FAO flagged rising oil, fertilizer shortages in the Gulf, diesel shortfalls and extreme weather as near-term cost drivers and said Strait of Hormuz disruptions would hit agricultural inputs and logistics — Brent supports pumping, processing and transport while natural gas is central to fertilizer production. FAO chief economist Maximo Torero said commodity prices are beginning to rise and expects food prices to start increasing by year-end, with larger gains next year; pass-through to consumer prices typically takes about three to six months."
-    },
-    {
-      "id": "5026757",
-      "time": "2026-08-05 18:46:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【禮來美股盤前漲超5%】禮來美股盤前漲超5%，現報1181.14美元。"
     }
   ]
 }
