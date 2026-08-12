@@ -1,7 +1,60 @@
 {
   "date": "2026-08-12",
-  "count": 785,
+  "count": 790,
   "items": [
+    {
+      "id": "mkt:019ff3bd-f3d6-7aab-8ffe-d72f0a9f81ce",
+      "time": "2026-08-12 10:12:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share lithium-mining names jumped intraday; Yongshan Lithium hit the daily limit, while Shengxin Lithium Energy, Tianhua New Energy, Guocheng Mining, Dazhong Mining and Rongjie Shares also rose."
+    },
+    {
+      "id": "5036686",
+      "time": "2026-08-12 10:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【 瑞銀：下調中國鐵塔(00788)目標價至10港元 維持“中性”評級 】 瑞銀髮布研報稱，下調中國鐵塔(00788)目標價14%，從11.6港元降至10港元，維持“中性”評級。該行下調對該公司2026-2028年淨利潤和每股盈利預期10-14%，主要原因是電信業者最佳化移動網路導致鐵塔收入下降。根據該行新的盈利預測和77%派息比率，中國鐵塔目前的2026年預期股息率為6%，這應能為其估值提供支撐。"
+    },
+    {
+      "id": "mkt:019ff3bc-ebaf-7aab-8ffe-cadcf81b3b67",
+      "time": "2026-08-12 10:11:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share semiconductor materials sector rose; Oulai New Material jumped over 10%, while Youyan New Material, Xiandao Jidian, Kema Technology, Zhenbao Technology and Youyan Silicon also advanced."
+    },
+    {
+      "id": "5036685",
+      "time": "2026-08-12 10:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體材料板塊走高，歐萊新材漲超10%】半導體材料板塊走高，歐萊新材漲超10%，有研新材、先導基電、珂瑪科技、臻寶科技、有研矽等跟漲。"
+    },
+    {
+      "id": "5036684",
+      "time": "2026-08-12 10:10:41",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際",
+        "原創"
+      ],
+      "text": "【摩根大通上調新加坡海峽時報指數目標位至6500點】摩根大通上調新加坡海峽時報指數目標位至 6500點，稱“恰到好處”的經濟狀況將推動盈利增長，並賦予當局更大的財政靈活性。“我們認為，適宜的經濟環境應繼續支撐每股收益增長，併為財政騰出空間，”摩根大通分析師表示。“儘管估值已突破平均水平，但我們認為，隨著新加坡海峽時報指數在高收益率和貨幣穩定的推動下重新定價，向其他發達市場靠攏，這一水平將得以維持。”摩根大通還將新加坡海峽時報指數多空情景目標位分別上調至7000點/5000點。"
+    },
     {
       "id": "5036683",
       "time": "2026-08-12 10:08:27",
