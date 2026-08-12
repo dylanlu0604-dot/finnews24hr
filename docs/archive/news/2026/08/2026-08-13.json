@@ -1,7 +1,64 @@
 {
   "date": "2026-08-13",
-  "count": 357,
+  "count": 363,
   "items": [
+    {
+      "id": "5038243",
+      "time": "2026-08-13 07:50:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月生產者價格環比增長0.1%，預估為+0.6%。日本7月生產者價格同比增長7.2%，預估為+7.4%。"
+    },
+    {
+      "id": "mkt:019ff862-37bc-7aab-9014-9ac795e14509",
+      "time": "2026-08-13 07:50:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan domestic corporate goods price index (YoY) 7.2% in July; expected 7.4%, prior 7.10%."
+    },
+    {
+      "id": "mkt:019ff862-3251-7aab-9014-94e60861660a",
+      "time": "2026-08-13 07:50:12",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan domestic corporate goods price index (MoM) +0.1%, est +0.6%, prior +0.4%."
+    },
+    {
+      "id": "mkt:019ff862-0a90-7aab-9014-8e42109753a0",
+      "time": "2026-08-13 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (YoY) (Jul) | actual 7.2% | consensus 7.4% | previous 7.10%"
+    },
+    {
+      "id": "mkt:019ff862-0a8c-7aab-9014-85afb41a8e46",
+      "time": "2026-08-13 07:50:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Corporate Goods Price Index (MoM) (Jul) | actual 0.1% | consensus 0.60% | previous 0.40%"
+    },
+    {
+      "id": "5038242",
+      "time": "2026-08-13 07:48:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民政部：今年上半年全國民政事業支出2436億元】日前，民政部發布統計資料顯示，今年上半年，我國民政事業累計支出2436億元。其中，城市最低生活保障589.2萬人，農村最低生活保障3346.2萬人，城鄉特困人員救助供養493.7萬人，享受困難殘疾人生活補貼1202.7萬人，享受重度殘疾人生護理補貼1687.1萬人。"
+    },
     {
       "id": "5038241",
       "time": "2026-08-13 07:46:27",
