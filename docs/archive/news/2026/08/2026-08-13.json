@@ -1,7 +1,26 @@
 {
   "date": "2026-08-13",
-  "count": 146,
+  "count": 148,
   "items": [
+    {
+      "id": "5038094",
+      "time": "2026-08-13 03:35:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：卡羅琳·萊維特將於本月底離職。"
+    },
+    {
+      "id": "mkt:019ff779-1451-7aab-9012-f431e0d9ef3c",
+      "time": "2026-08-13 03:35:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi mercenary positions at Mocha port."
+    },
     {
       "id": "mkt:019ff775-a9c1-7aab-9012-eace25dacc95",
       "time": "2026-08-13 03:31:51",
