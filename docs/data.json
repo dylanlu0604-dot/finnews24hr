@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-13 00:05:48",
-  "count": 15134,
+  "updated": "2026-08-13 00:09:59",
+  "count": 15130,
   "items": [
+    {
+      "id": "5038032",
+      "time": "2026-08-13 00:08:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：同亞美尼亞總理進行了交談。"
+    },
+    {
+      "id": "te:markets:574806",
+      "time": "2026-08-13 00:07:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.22% Lower — The FTSE 100 Index fell 23 points or 0.22 percent on Wednesday to close at 10821 points. Leading the losses are Burberry (-4.57%), Marks & Spencer (-3.78%) and Relx (-2.95%). Top gainers were Admiral (2.90%), Fresnillo (2.75%) and 3i (2.46%)."
+    },
+    {
+      "id": "5038031",
+      "time": "2026-08-13 00:06:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：將阿根廷2025/2026年度大豆產量預期從之前的5000萬噸下調至4950萬噸；將巴西2025/2026年度大豆產量預期從之前的1.8億噸上調至1.805億噸。維持阿根廷2025/2026年度玉米產量預期在6300萬噸不變；將巴西2025/2026年度玉米產量預期從之前的1.38億噸上調至1.4億噸。"
+    },
+    {
+      "id": "mkt:019ff6b8-83d6-7aab-9011-25ca543f49dd",
+      "time": "2026-08-13 00:05:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USDA left Argentina's 2025/26 corn production forecast unchanged at 63 mln tonnes and raised Brazil's 2025/26 corn forecast to 140 mln tonnes from 138 mln tonnes."
+    },
+    {
+      "id": "mkt:019ff6b8-81d9-7aab-9011-1caf2e98a7ed",
+      "time": "2026-08-13 00:05:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "USDA cut Argentina's 2025/26 soybean production forecast to 49.5 mln t from 50.0 mln t and raised Brazil's to 180.5 mln t from 180.0 mln t."
+    },
+    {
+      "id": "5038030",
+      "time": "2026-08-13 00:04:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "MUFG 試點專案計劃於年底前完成，該項服務預計在 2027‑2029 財年間全面落地。"
+    },
+    {
+      "id": "5038029",
+      "time": "2026-08-13 00:04:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "CBOT 玉米期貨在美國農業部報告發布後擴大漲幅。"
+    },
     {
       "id": "5038028",
       "time": "2026-08-13 00:03:27",
@@ -137977,114 +138042,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 0.03% Higher — The CAC 40 Index went up by 3 points or 0.03 percent on Wednesday to close at 8669 points. The rise was led by Edenred (2.41%), Publicis (2.35%) and Accor (1.70%). On the downside, the weakerst performers were Orange (-3.13%), STMicroelectronics (-2.55%) and Michelin (-2.08%)."
-    },
-    {
-      "id": "mkt:019fd2af-e95a-7aab-8f90-c2a08dbb4fc4",
-      "time": "2026-08-06 00:09:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PSX.N",
-        "Impact bullish"
-      ],
-      "text": "Phillips 66 (PSX.N): plans to keep refinery utilization in Q3 2026 in the mid-90% range of consolidated capacity."
-    },
-    {
-      "id": "5027344",
-      "time": "2026-08-06 00:09:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【土耳其擬為解散庫爾德工人黨正式立法土耳其擬為解散庫爾德工人黨正式立法】土耳其大國民議會議長努曼·庫爾圖爾穆什5日宣佈，一項旨在為徹底解散庫爾德工人黨及其武裝奠定法律基礎的法案草案已正式提交議會。 據土耳其《自由報》報道，該草案提出，在土耳其安全機構認定庫爾德工人黨及與其相關的一切組織已終止實際存在並已上繳所有武器後，可對正在進行的相關調查和起訴，以及已作出的定罪判決的執行予以延期、緩刑。（新華社）"
-    },
-    {
-      "id": "te:markets:573098",
-      "time": "2026-08-06 00:09:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Pauses Rally — The DAX 40 gave up early gains to close about 0.3% down at 26,139 on Wednesday, as investors took profits after the index hit successive record highs over the past few sessions. Market sentiment remained cautiously optimistic as investors weighed the prospect of a US-Iran agreement to reopen the Strait of Hormuz. Meanwhile, attention was also on corporate earnings. Infineon Technologies led losses among stocks, falling more than 5%, after missing elevated margin expectations despite record revenue and a higher full-year outlook. Deutsche Post lost 2.7%, despite beating earnings estimates and expanding its share buyback program. On the opposite side, Fresenius SE & Co jumped 4.9% to lead the index after reporting better-than-expected Q2 results and raising its full-year earnings guidance. Beiersdorf gained 4.9% despite a 3.5% first-half sales decline, dragged by Nivea weakness, as investors welcomed an €100 million investment plan to revive the brand’s growth."
-    },
-    {
-      "id": "5027343",
-      "time": "2026-08-06 00:08:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲利普斯66計劃在2026年第三季度以總產能的90%中段區間運營旗下煉油廠。"
-    },
-    {
-      "id": "5027342",
-      "time": "2026-08-06 00:08:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易組織(UKMTO)稱所有船員安全，未報告造成環境影響."
-    },
-    {
-      "id": "mkt:019fd2ae-f62a-7aab-8f90-b9cfd7d6fb06",
-      "time": "2026-08-06 00:08:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Maritime Trade Operations said it received a report of an incident about 95 nautical miles southeast of Aden, Yemen. The master of a tanker reported hearing a large explosion near the vessel. All crew have been confirmed safe; no casualties reported."
-    },
-    {
-      "id": "5027341",
-      "time": "2026-08-06 00:08:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易組織(UKMTO)稱，一艘油輪船長報告在船體附近聽到巨大爆炸聲。"
-    },
-    {
-      "id": "5027340",
-      "time": "2026-08-06 00:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海事貿易運營機構表示，已收到一起發生在葉門亞丁東南95海里處事件的報告。"
-    },
-    {
-      "id": "te:markets:573097",
-      "time": "2026-08-06 00:07:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.15% Higher — The FTSE 100 Index rose 16 points or 0.15 percent on Wednesday to close at 10896 points. Leading the gains are Endeavour (5.34%), NEXT (5.25%) and Fresnillo (4.11%). Top losers were Prudential (-6.58%), HSBC Holdings (-4.56%) and Vodafone (-2.48%)."
-    },
-    {
-      "id": "mkt:019fd2ad-085a-7aab-8f90-b7612aa6bd6b",
-      "time": "2026-08-06 00:06:22",
-      "tags": [
-        "MKT News",
-        "RDDT.N"
-      ],
-      "text": "Reddit (RDDT.N) plans to adjust its legacy site to curb persistent abusive scraping and spam, citing protection of the platform, its business and users."
-    },
-    {
-      "id": "mkt:019fd2ac-8219-7aab-8f90-aef04eada5cb",
-      "time": "2026-08-06 00:05:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GOOG.O"
-      ],
-      "text": "【Google AI lead Jeff Dean will leave to found scientific-discovery AI startup】Google (GOOG.O) senior AI leader Jeff Dean, an early hire who led the company’s AI strategy for about 15 years, will leave to launch a public‑benefit AI company called Discovery Loop and serve as its CEO. The venture aims to automate complex, multi-step scientific and engineering tasks to accelerate technological progress. Co‑founders include Google veterans Oriol Vinyals, Quoc Le and Sanjay Ghemawat; the four are among the world’s most-cited researchers and have driven advances in mathematics and protein-structure work. Their exits further intensify recent AI talent departures from Google."
     }
   ]
 }
