@@ -1,7 +1,18 @@
 {
   "date": "2026-08-13",
-  "count": 108,
+  "count": 109,
   "items": [
+    {
+      "id": "te:markets:574821",
+      "time": "2026-08-13 02:25:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%)."
+    },
     {
       "id": "te:markets:574820",
       "time": "2026-08-13 02:20:05",

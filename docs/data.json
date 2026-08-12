@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13 02:21:42",
-  "count": 15074,
+  "updated": "2026-08-13 02:25:35",
+  "count": 15072,
   "items": [
+    {
+      "id": "te:markets:574821",
+      "time": "2026-08-13 02:25:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Corn Gains by 4.67% — Top commodity gainers are Corn (4.67%), Wheat (3.62%) and Canola (1.51%). Biggest losers are Sugar (-1.79%), Palm Oil (-1.07%) and Lumber (-0.93%)."
+    },
     {
       "id": "te:markets:574820",
       "time": "2026-08-13 02:20:05",
@@ -137558,38 +137569,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收跌0.58%，報510.00元人民幣/桶。滬金夜盤收漲3.58%，滬銀收漲3.72%。"
-    },
-    {
-      "id": "te:markets:573113",
-      "time": "2026-08-06 02:25:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Surges by 5.20% — Top commodity gainers are Butter (5.20%) and Rubber (2.80%). Biggest loser is Lumber (-1.53%)."
-    },
-    {
-      "id": "mkt:019fd32a-c2b8-7aab-8f92-a4bb4534747b",
-      "time": "2026-08-06 02:23:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Houthi armed group spokesman said its forces are closely monitoring movements of all Saudi oil tankers and will not allow any vessel to pass."
-    },
-    {
-      "id": "5027423",
-      "time": "2026-08-06 02:21:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院正就埃麗卡·施瓦茨出任美國疾控中心主任一職舉行確認投票。"
     }
   ]
 }
