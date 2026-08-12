@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 02:10:04",
-  "count": 15081,
+  "updated": "2026-08-13 02:14:01",
+  "count": 15079,
   "items": [
+    {
+      "id": "5038074",
+      "time": "2026-08-13 02:13:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新基金髮行近期明顯提速】Wind資料顯示，按照認購起始日統計，8月第二週共有50只基金啟動發行，較前一週增加14只，環比增長近四成，創7月以來單週新高。在經歷7月下旬的階段性低谷後，新基金髮行正在明顯提速。股票型基金與混合型基金合計達34只，佔本週新發基金總數近七成，權益類及含權產品仍是基金公司佈局重點。（證券時報）"
+    },
     {
       "id": "mkt:019ff726-e0db-7aab-9012-57e991c087a9",
       "time": "2026-08-13 02:05:47",
@@ -137623,43 +137631,6 @@
         "XAUUSD"
       ],
       "text": "【Iran says Strait of Hormuz won’t reopen until U.S. lifts maritime blockade, even if agreement with Oman reached】Iran said the Strait of Hormuz will only reopen to shipping after the U.S. ends its maritime blockade of Iranian ports, even if Tehran and Oman reach an agreement. The foreign ministry said Iran and Oman have agreed on shipping lanes through the strait and are finalizing arrangements for joint management. Iranian officials stressed reopening depends on the U.S. fulfilling its commitment to end the blockade, saying insecurity in the strait stems from U.S. maritime actions and other aggressive measures against Iran and its interests."
-    },
-    {
-      "id": "mkt:019fd320-785a-7aab-8f92-84bf6960fcd8",
-      "time": "2026-08-06 02:12:28",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Saudi Arabia, Egypt, Turkey and Pakistan foreign ministers met in Amman and reiterated joint efforts to secure the Strait of Hormuz and the Bab al-Mandeb. They said ensuring safety of these waterways is vital to preserving supply chains and energy market stability."
-    },
-    {
-      "id": "te:markets:573110",
-      "time": "2026-08-06 02:12:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Shopify earnings above expectations at 0.42 USD — Shopify (SHOP) released earnings per share at 0.42 USD, compared to market expectations of 0.40 USD."
-    },
-    {
-      "id": "mkt:019fd31f-632c-7aab-8f92-78e22077014e",
-      "time": "2026-08-06 02:11:17",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "Microsoft (MSFT.O) disclosed OpenAI accounts for about 70% of its AI sales; OpenAI generated $24.1 billion in revenue in fiscal 2026."
     }
   ]
 }
