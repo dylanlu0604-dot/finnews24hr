@@ -1,7 +1,118 @@
 {
-  "updated": "2026-08-12 19:33:39",
-  "count": 15137,
+  "updated": "2026-08-12 19:37:40",
+  "count": 15139,
   "items": [
+    {
+      "id": "5037639",
+      "time": "2026-08-12 19:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "DEFINIUM THERAPEUTICS股票恢復交易，受資料提振，股價飆升24%。"
+    },
+    {
+      "id": "mkt:019ff5c1-dd8e-7aab-9008-d722dbb7f698",
+      "time": "2026-08-12 19:35:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government says the military procurement fund may borrow up to 6 billion Swiss francs."
+    },
+    {
+      "id": "5037638",
+      "time": "2026-08-12 19:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國海軍紅河艦與印尼海軍“萊”號護衛艦位臺島以東海域圓滿完成通航演練】8月12日上午，中國海軍紅河艦與印尼海軍“萊”號護衛艦位臺島以東海域圓滿完成所有預定科目，海上通航演練落下帷幕。抵達預定海域後，紅河艦與印尼海軍“萊”號護衛艦組成艦艇編隊，圍繞海上通訊、編隊運動、海上補給及分航儀式等科目開展實兵演練。紅河艦官兵熟練運用特殊戰術訊號簡語、訊號旗語等，與印尼海軍“萊”號護衛艦進行海上通聯與指令傳達。雙方按照預先擬製的演練方案，靈活機動，協同配合，順利完成所有演練目標。此次中國印尼海上通航演練，充分展示了雙方務實合作、共同維護地區和平穩定的積極意願和行動能力。（東部戰區）"
+    },
+    {
+      "id": "mkt:019ff5c1-5fc6-7aab-9008-caa06acee089",
+      "time": "2026-08-12 19:35:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese navy ship Honghe and Indonesian frigate Lai complete transit drills east of Taiwan】On the morning of Aug. 12, Chinese navy ship Honghe and Indonesian frigate Lai completed all scheduled transit exercises east of Taiwan. After arriving on station the vessels formed a task group and conducted live drills on maritime communications, formation maneuvers, underway replenishment and separation procedures. Honghe’s crew used tactical brevity codes and flag/semaphore signals to communicate and transmit orders with the Indonesian ship; both sides completed the planned objectives."
+    },
+    {
+      "id": "te:markets:574747",
+      "time": "2026-08-12 19:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stock Futures Hold Higher — Futures tracking US stocks were higher on Wednesday amid strong results from AI companies. The S&P 500 inched higher to test its record from last week, while the Dow and Nasdaq 100 hovered above the flatline. CoreWeave surged up to 20% premarket after posting stronger than expected sales results. Similarly, SMCI advanced nearly 10% after its revenue forecast was higher than expected by analysts. Hyperscalers and chip producers also gained from strong results from Tencent, while Temasek took fresh stakes on SK Hynix and Samsung. The results injected fresh optimism on AI infrastructure stocks amid their volatile start to the third quarter. Nvidia, Oracle, and Amazon were up. Meanwhile, incoming inflation data is expected to show core inflation slowed for a second month in July, easing pressure on the FOMC to raise interest rates next month. Still, uncertainty on the return of energy supply from the Middle East maintained inflationary concerns."
+    },
+    {
+      "id": "mkt:019ff5c0-af23-7aab-9008-c3cf9dd38d37",
+      "time": "2026-08-12 19:34:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government plans to establish a weapons fund financed by a temporary VAT increase and allocations from the military budget."
+    },
+    {
+      "id": "mkt:019ff5c0-9482-7aab-9008-ba84365e22e5",
+      "time": "2026-08-12 19:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government says it needs an additional CHF 24 bln for military spending."
+    },
+    {
+      "id": "mkt:019ff5c0-891a-7aab-9008-b1c3f4f038dd",
+      "time": "2026-08-12 19:34:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Norway $2.3tn sovereign wealth fund posts record 1H returns, warns on AI and geopolitical risks】CEO Nicolai Tangen said the fund’s record NOK 1.4 trillion (~$150 billion) 1H return “is the best case” and that the scale of recent gains raises vigilance toward external risks. He singled out AI valuation froth and geopolitical risk. An expert group earlier flagged US political risk and concentration in tech holdings; the fund has warned an AI bubble could erase about 35% of asset value, while a worst‑case scenario including global investment restrictions and high tariffs could cut value by up to 37%."
+    },
+    {
+      "id": "5037637",
+      "time": "2026-08-12 19:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士政府：提議將增值稅提高0.5個百分點，期限為12年，以資助國防開支。食品和藥品的增值稅將維持不變。"
+    },
+    {
+      "id": "mkt:019ff5c0-1dd8-7aab-9008-af5f098dfc6b",
+      "time": "2026-08-12 19:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government says VAT on food and medicines will remain unchanged."
+    },
+    {
+      "id": "mkt:019ff5c0-1203-7aab-9008-a3d78be95763",
+      "time": "2026-08-12 19:33:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou grid load hits new record; peak up 4.46% YoY】At 13:46 on Aug 12, Guangzhou power grid recorded its third record peak this year, reaching 26.231 GW (26,231 MW), up 4.46% from last year’s peak. Since the start of summer, continued El Niño conditions have driven more frequent and prolonged high temperatures in Guangzhou."
+    },
+    {
+      "id": "5037636",
+      "time": "2026-08-12 19:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州電網負荷再創新高，同比去年最高負荷增長4.46%】8月12日13時46分，廣州電網系統負荷今年第三次重新整理歷史峰值，最高負荷達2623.1萬千瓦，同比去年最高負荷增長4.46%。今年入夏以來，受厄爾尼諾氣候持續影響，廣州高溫天氣頻次高、持續時間長。（廣州日報）"
+    },
     {
       "id": "mkt:019ff5bf-166a-7aab-9008-9a0f23ee5722",
       "time": "2026-08-12 19:32:48",
@@ -137827,91 +137938,6 @@
         "國際"
       ],
       "text": "【又一男子死於美移民拘留中心 家屬要求獨立調查】一名薩爾瓦多籍男子本月初在美國移民與海關執法局(ICE)一所拘留中心關押期間死亡。其家屬4日舉行記者會，質疑ICE的說法，認為是拘留中心方面“疏忽”導致死亡，要求公開相關醫療記錄，並對事件進行獨立調查。（新華社）"
-    },
-    {
-      "id": "5026878",
-      "time": "2026-08-05 19:37:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷鋰業宣佈完成2.2億美元新增債務融資安排。"
-    },
-    {
-      "id": "5026877",
-      "time": "2026-08-05 19:37:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【普京會見俄國防部領導層 宣佈多項人事調整】當地時間8月5日，據克里姆林宮網站訊息，俄羅斯總統普京當天會見俄國防部領導層。普京稱，俄國防部正根據特別軍事行動的需要和經驗完善組織架構。普京還宣佈了系列人事調整。具體任命包括：原俄軍“中部”叢集司令瓦列裡·索洛德丘克統一領導俄國防部所有後勤部門，原俄軍“東部”叢集司令安德烈·伊瓦納耶夫被任命為俄軍“中部”部隊叢集司令，原俄軍“東部”叢集參謀長彼得·博爾加列夫被任命為俄軍東部軍區代理司令兼俄軍“東部”部隊叢集司令；原俄軍“中部”叢集參謀長丹尼斯·利亞明被任命為俄軍無人系統部隊司令。（央視）"
-    },
-    {
-      "id": "5026876",
-      "time": "2026-08-05 19:36:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蜘蛛俠手辦被炒至2200元】近期，《蜘蛛俠：嶄新之日》在全球熱映，票房再創新高。影片的IP商業價值也快速傳導至衍生品賽道，從高階收藏人偶到平價潮流玩具，全品類周邊產品迎來熱銷。記者發現，模擬玩具品牌Hot Toys的《蜘蛛俠：嶄新之日》1:6比例珍藏人偶為例，該產品線下門店於8月4日發售，發售前廣州陳家祠優艾斯、杭州in77 B區Hot Toys等門店大排長龍。目前，官方線上及線下門店的現貨均已售罄。在得物App上，該款人偶在平臺上有少量現貨流通，最新成交價2200元。在其他平臺上，相關產品溢價至2099元，多人點選收藏。 除高階收藏手辦外，平價周邊與品牌聯名款同樣銷售火熱。（藍鯨新聞）"
-    },
-    {
-      "id": "mkt:019fd1b6-415e-7aab-8f8a-480f8560ec03",
-      "time": "2026-08-05 19:36:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MACRON reiterated the EU and its partners will continue to strengthen military support for Ukraine."
-    },
-    {
-      "id": "mkt:019fd1b5-5d42-7aab-8f8a-4777f91be381",
-      "time": "2026-08-05 19:35:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's parliamentary committee will oversee the surrender and disarmament process of Kurdistan Workers' Party (PKK) militants."
-    },
-    {
-      "id": "mkt:019fd1b4-ee58-7aab-8f8a-3eb0bfbd4456",
-      "time": "2026-08-05 19:35:23",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Macron said the EU and its partners will continue to increase pressure on Russia, including through sanctions."
-    },
-    {
-      "id": "5026875",
-      "time": "2026-08-05 19:34:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧飛資料：控股股東減持2.09%股份 減持計劃實施完畢】奧飛資料公告稱，公司控股股東昊盟科技於2026年8月4 - 5日，透過集中競價及大宗交易方式合計減持20,622,681股，佔總股本的2.09%。本次權益變動後，昊盟科技持股比例由27.60%降至25.51%，觸及1%整數倍，減持計劃實施完畢。此次減持符合相關規定，未違反承諾，不會導致公司控制權變更，也不影響公司治理結構和持續經營。"
-    },
-    {
-      "id": "5026874",
-      "time": "2026-08-05 19:34:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其議會委員會將監督庫爾德工人黨武裝分子的投降與解除武裝程序。"
-    },
-    {
-      "id": "5026873",
-      "time": "2026-08-05 19:34:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "據土耳其廣播公司NTV報道，根據法案草案，土耳其國家安全委員會將核實庫爾德工人黨的解散及解除武裝情況。"
-    },
-    {
-      "id": "5026872",
-      "time": "2026-08-05 19:33:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【交易回暖 華爾街投行獎金有望大漲】華爾街銀行家有望再次從市場劇烈波動中獲得豐厚回報。根據薪酬諮詢機構Johnson Associates的預測，由於業績表現優於金融業其他板塊，投資銀行和商業銀行從業人員的獎金預計將增長10%至15%，甚至更高。股票交易員以及從事併購諮詢的投資銀行家獎金增幅預計還將更大。這一預測釋出前，美國大型銀行剛剛公佈創紀錄的第二季度業績，強勁的股票交易、財務顧問和承銷業務成為主要推動力。Johnson Associates董事總經理Alan Johnson在接受採訪時表示，“銀行的整體表現一直不錯，但我們原本預計交易和併購業務會降溫，事實證明並沒有。這些業務依然保持強勁，而且持續表現良好。”"
     }
   ]
 }

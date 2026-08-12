@@ -1,7 +1,118 @@
 {
   "date": "2026-08-12",
-  "count": 2098,
+  "count": 2110,
   "items": [
+    {
+      "id": "5037639",
+      "time": "2026-08-12 19:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "DEFINIUM THERAPEUTICS股票恢復交易，受資料提振，股價飆升24%。"
+    },
+    {
+      "id": "mkt:019ff5c1-dd8e-7aab-9008-d722dbb7f698",
+      "time": "2026-08-12 19:35:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government says the military procurement fund may borrow up to 6 billion Swiss francs."
+    },
+    {
+      "id": "5037638",
+      "time": "2026-08-12 19:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國海軍紅河艦與印尼海軍“萊”號護衛艦位臺島以東海域圓滿完成通航演練】8月12日上午，中國海軍紅河艦與印尼海軍“萊”號護衛艦位臺島以東海域圓滿完成所有預定科目，海上通航演練落下帷幕。抵達預定海域後，紅河艦與印尼海軍“萊”號護衛艦組成艦艇編隊，圍繞海上通訊、編隊運動、海上補給及分航儀式等科目開展實兵演練。紅河艦官兵熟練運用特殊戰術訊號簡語、訊號旗語等，與印尼海軍“萊”號護衛艦進行海上通聯與指令傳達。雙方按照預先擬製的演練方案，靈活機動，協同配合，順利完成所有演練目標。此次中國印尼海上通航演練，充分展示了雙方務實合作、共同維護地區和平穩定的積極意願和行動能力。（東部戰區）"
+    },
+    {
+      "id": "mkt:019ff5c1-5fc6-7aab-9008-caa06acee089",
+      "time": "2026-08-12 19:35:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese navy ship Honghe and Indonesian frigate Lai complete transit drills east of Taiwan】On the morning of Aug. 12, Chinese navy ship Honghe and Indonesian frigate Lai completed all scheduled transit exercises east of Taiwan. After arriving on station the vessels formed a task group and conducted live drills on maritime communications, formation maneuvers, underway replenishment and separation procedures. Honghe’s crew used tactical brevity codes and flag/semaphore signals to communicate and transmit orders with the Indonesian ship; both sides completed the planned objectives."
+    },
+    {
+      "id": "te:markets:574747",
+      "time": "2026-08-12 19:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stock Futures Hold Higher — Futures tracking US stocks were higher on Wednesday amid strong results from AI companies. The S&P 500 inched higher to test its record from last week, while the Dow and Nasdaq 100 hovered above the flatline. CoreWeave surged up to 20% premarket after posting stronger than expected sales results. Similarly, SMCI advanced nearly 10% after its revenue forecast was higher than expected by analysts. Hyperscalers and chip producers also gained from strong results from Tencent, while Temasek took fresh stakes on SK Hynix and Samsung. The results injected fresh optimism on AI infrastructure stocks amid their volatile start to the third quarter. Nvidia, Oracle, and Amazon were up. Meanwhile, incoming inflation data is expected to show core inflation slowed for a second month in July, easing pressure on the FOMC to raise interest rates next month. Still, uncertainty on the return of energy supply from the Middle East maintained inflationary concerns."
+    },
+    {
+      "id": "mkt:019ff5c0-af23-7aab-9008-c3cf9dd38d37",
+      "time": "2026-08-12 19:34:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government plans to establish a weapons fund financed by a temporary VAT increase and allocations from the military budget."
+    },
+    {
+      "id": "mkt:019ff5c0-9482-7aab-9008-ba84365e22e5",
+      "time": "2026-08-12 19:34:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government says it needs an additional CHF 24 bln for military spending."
+    },
+    {
+      "id": "mkt:019ff5c0-891a-7aab-9008-b1c3f4f038dd",
+      "time": "2026-08-12 19:34:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Norway $2.3tn sovereign wealth fund posts record 1H returns, warns on AI and geopolitical risks】CEO Nicolai Tangen said the fund’s record NOK 1.4 trillion (~$150 billion) 1H return “is the best case” and that the scale of recent gains raises vigilance toward external risks. He singled out AI valuation froth and geopolitical risk. An expert group earlier flagged US political risk and concentration in tech holdings; the fund has warned an AI bubble could erase about 35% of asset value, while a worst‑case scenario including global investment restrictions and high tariffs could cut value by up to 37%."
+    },
+    {
+      "id": "5037637",
+      "time": "2026-08-12 19:34:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞士政府：提議將增值稅提高0.5個百分點，期限為12年，以資助國防開支。食品和藥品的增值稅將維持不變。"
+    },
+    {
+      "id": "mkt:019ff5c0-1dd8-7aab-9008-af5f098dfc6b",
+      "time": "2026-08-12 19:33:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss government says VAT on food and medicines will remain unchanged."
+    },
+    {
+      "id": "mkt:019ff5c0-1203-7aab-9008-a3d78be95763",
+      "time": "2026-08-12 19:33:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou grid load hits new record; peak up 4.46% YoY】At 13:46 on Aug 12, Guangzhou power grid recorded its third record peak this year, reaching 26.231 GW (26,231 MW), up 4.46% from last year’s peak. Since the start of summer, continued El Niño conditions have driven more frequent and prolonged high temperatures in Guangzhou."
+    },
+    {
+      "id": "5037636",
+      "time": "2026-08-12 19:33:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州電網負荷再創新高，同比去年最高負荷增長4.46%】8月12日13時46分，廣州電網系統負荷今年第三次重新整理歷史峰值，最高負荷達2623.1萬千瓦，同比去年最高負荷增長4.46%。今年入夏以來，受厄爾尼諾氣候持續影響，廣州高溫天氣頻次高、持續時間長。（廣州日報）"
+    },
     {
       "id": "mkt:019ff5bf-166a-7aab-9008-9a0f23ee5722",
       "time": "2026-08-12 19:32:48",
