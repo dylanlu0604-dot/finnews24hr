@@ -1,7 +1,75 @@
 {
   "date": "2026-08-12",
-  "count": 2622,
+  "count": 2630,
   "items": [
+    {
+      "id": "5037952",
+      "time": "2026-08-12 22:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "彭博使用者預計美國原油庫存將減少140萬桶。"
+    },
+    {
+      "id": "mkt:019ff65e-bc34-7aab-900e-85721bde1111",
+      "time": "2026-08-12 22:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister Katz has instructed the Israel Defense Forces to prepare for a long-term deployment."
+    },
+    {
+      "id": "5037951",
+      "time": "2026-08-12 22:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱打擊了烏克蘭切爾諾莫爾斯克的燃料儲罐。"
+    },
+    {
+      "id": "mkt:019ff65e-a9b5-7aab-900e-78f1555b75d7",
+      "time": "2026-08-12 22:27:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Katz said the IDF will continue to garrison security zones in Lebanon, Syria and Gaza."
+    },
+    {
+      "id": "5037950",
+      "time": "2026-08-12 22:27:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：已指示以色列國防軍做好長期駐紮準備。"
+    },
+    {
+      "id": "5037949",
+      "time": "2026-08-12 22:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：以色列國防軍將駐守黎巴嫩、敘利亞以及加沙安全區。"
+    },
+    {
+      "id": "5037948",
+      "time": "2026-08-12 22:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍空襲敖德薩港口一艘船隻。"
+    },
+    {
+      "id": "mkt:019ff65d-548b-7aab-900e-718ec928ae1c",
+      "time": "2026-08-12 22:25:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck a vessel in the port of Odesa."
+    },
     {
       "id": "5037947",
       "time": "2026-08-12 22:21:40",

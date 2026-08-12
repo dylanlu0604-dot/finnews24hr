@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-12 22:24:49",
-  "count": 15164,
+  "updated": "2026-08-12 22:28:48",
+  "count": 15163,
   "items": [
+    {
+      "id": "5037952",
+      "time": "2026-08-12 22:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "彭博使用者預計美國原油庫存將減少140萬桶。"
+    },
+    {
+      "id": "mkt:019ff65e-bc34-7aab-900e-85721bde1111",
+      "time": "2026-08-12 22:27:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's defense minister Katz has instructed the Israel Defense Forces to prepare for a long-term deployment."
+    },
+    {
+      "id": "5037951",
+      "time": "2026-08-12 22:27:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱打擊了烏克蘭切爾諾莫爾斯克的燃料儲罐。"
+    },
+    {
+      "id": "mkt:019ff65e-a9b5-7aab-900e-78f1555b75d7",
+      "time": "2026-08-12 22:27:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Katz said the IDF will continue to garrison security zones in Lebanon, Syria and Gaza."
+    },
+    {
+      "id": "5037950",
+      "time": "2026-08-12 22:27:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：已指示以色列國防軍做好長期駐紮準備。"
+    },
+    {
+      "id": "5037949",
+      "time": "2026-08-12 22:26:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨：以色列國防軍將駐守黎巴嫩、敘利亞以及加沙安全區。"
+    },
+    {
+      "id": "5037948",
+      "time": "2026-08-12 22:25:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍空襲敖德薩港口一艘船隻。"
+    },
+    {
+      "id": "mkt:019ff65d-548b-7aab-900e-718ec928ae1c",
+      "time": "2026-08-12 22:25:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck a vessel in the port of Odesa."
+    },
     {
       "id": "5037947",
       "time": "2026-08-12 22:21:40",
@@ -138266,83 +138334,6 @@
         "市場"
       ],
       "text": "英偉達股價觸及兩個多月來最高水平，最新上漲4.3%。"
-    },
-    {
-      "id": "5027225",
-      "time": "2026-08-05 22:28:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "森科能源執行長在電話會議上表示，要將油砂聯盟與阿爾伯塔省及加拿大聯邦政府達成的不具約束力諒解備忘錄落實為最終協議，“仍有大量工作要做”。"
-    },
-    {
-      "id": "5027224",
-      "time": "2026-08-05 22:27:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "AKTOR簽署收購協議，擬收購兩家機油業務子公司的部分股權。"
-    },
-    {
-      "id": "5027223",
-      "time": "2026-08-05 22:27:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風影響 廣東海事局將對經臺灣海峽南口北上船舶實施交通管制】記者從廣東海事局瞭解到，根據氣象部門預測，今年第13號颱風“白海豚”將於7日白天穿過琉球群島後移入東海，向華東沿海靠近，將影響臺灣海峽及周邊海域。經研究，廣東海事局決定於8月6日18時起，對經過臺灣海峽南口北上的船舶實施交通管制。海事部門提醒各船舶嚴格遵守交通管制要求，選擇安全水域避風，聽從現場海事管理機構指揮，保障海上安全。（央視新聞）"
-    },
-    {
-      "id": "5027222",
-      "time": "2026-08-05 22:26:56",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內跌3%，現報7956.00元。"
-    },
-    {
-      "id": "5027221",
-      "time": "2026-08-05 22:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "彭博使用者預計美國原油庫存將減少210萬桶。"
-    },
-    {
-      "id": "5027220",
-      "time": "2026-08-05 22:26:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "加斯帕爾：將與博索納羅站在一起，反對腐敗和有組織犯罪。"
-    },
-    {
-      "id": "te:markets:573082",
-      "time": "2026-08-05 22:25:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Climbs to Record High — The S&P/TSX Composite Index rose more than 1.5% to trade above 36,000 on Wednesday, reaching a fresh record as investors digested another round of corporate earnings. Shopify surged about 20% after reporting second-quarter revenue of $3.58 billion, up 34% from a year earlier, beating forecasts and guiding for stronger third-quarter growth than Wall Street expected. Thomson Reuters gained nearly 1% after posting a 9% increase in second-quarter revenue, topping estimates, and raising its full-year organic revenue growth forecast to around 8%. Manulife Financial (-1%) and Nutrien (-0.2%) are set to report earnings later today. Lower oil prices continued to weigh on energy stocks, with Suncor down 1% despite beating adjusted profit estimates. Meanwhile, higher gold prices lifted miners, with Agnico Eagle up nearly 7%, Barrick adding 5%, and WPM gaining 6%."
-    },
-    {
-      "id": "5027219",
-      "time": "2026-08-05 22:25:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "EOG 執行長稱，他認為 2027 年或需要更多石油供應。"
-    },
-    {
-      "id": "5027218",
-      "time": "2026-08-05 22:24:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西雷亞爾漲幅收窄，與其它貨幣走勢基本一致。"
     }
   ]
 }
