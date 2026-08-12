@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-12 09:03:03",
-  "count": 15407,
+  "updated": "2026-08-12 09:06:58",
+  "count": 15410,
   "items": [
+    {
+      "id": "5036586",
+      "time": "2026-08-12 09:04:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國多地雨勢強勁 河南部分地區有特大暴雨】今天（8月12日），黃淮、江淮西部、華北東部等地雨勢強勁，河南多地有大暴雨；明天至15日，江淮、江南東部、東北以及山東等地也將出現強降雨。同時，華北、東北等地暑熱將緩解，南方多地最高氣溫會持續偏低，不過新疆和四川盆地的高溫仍然強盛，需做好防暑降溫措施。"
+    },
+    {
+      "id": "5036585",
+      "time": "2026-08-12 09:04:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭總理拉克森繼續擔任國家黨領導人】當地時間8月12日，紐西蘭國家黨召開緊急黨團會議，紐西蘭總理拉克森在黨內信任投票中獲得黨內支援，繼續擔任國家黨領導人職位。紐西蘭中右翼國家黨在2023年10月舉行的議會選舉中勝出，但因所獲議席未超半數，選擇與優先黨和行動黨組成執政聯盟。"
+    },
+    {
+      "id": "5036584",
+      "time": "2026-08-12 09:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "鄭州市氣象臺2026年8月12日8時36分繼續釋出暴雨橙色預警訊號：目前，經開區局地累計雨量已達203毫米。預計未來3小時降水仍將持續，鄭州市主城區、上街區、航空港區等全部鄉鎮和街道有20-40毫米的降水，局地最大累計降水量可達250毫米以上，請注意防範強降雨引發的山洪、地質災害和城市內澇等次生災害。"
+    },
+    {
+      "id": "mkt:019ff37f-0b2b-7aab-8ffd-3d6359f033d2",
+      "time": "2026-08-12 09:03:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said he does not trust Iran."
+    },
+    {
+      "id": "5036583",
+      "time": "2026-08-12 09:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】特朗普結束對記者的講話。"
+    },
+    {
+      "id": "5036582",
+      "time": "2026-08-12 09:03:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不信任伊朗。"
+    },
+    {
+      "id": "mkt:019ff37e-1ee2-7aab-8ffd-367bb3220d63",
+      "time": "2026-08-12 09:02:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the plane he flies will face greater risk."
+    },
     {
       "id": "mkt:019ff37d-ab0d-7aab-8ffd-2c4ca3287814",
       "time": "2026-08-12 09:02:06",
@@ -9,6 +70,14 @@
         "MKT News"
       ],
       "text": "U.S. President Trump said the situation with Iran is good and that the U.S. controls the Strait of Hormuz."
+    },
+    {
+      "id": "5036581",
+      "time": "2026-08-12 09:02:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及第三任期：我很想競選連任，但法律很硬。"
     },
     {
       "id": "mkt:019ff37d-3281-7aab-8ffd-26242e9e111f",
@@ -140293,52 +140362,6 @@
         "焦點"
       ],
       "text": "PTA連續主力合約日內跌3%，現報5728.00元。"
-    },
-    {
-      "id": "5025649",
-      "time": "2026-08-05 09:06:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東田微成立新公司 含半導體分立器件業務】 企查查APP顯示，近日，東田微（無錫）技術有限公司成立，經營範圍包含半導體分立器件銷售；電力電子元器件製造；電力電子元器件銷售；電子元器件與機電元件裝置製造；電子元器件與機電元件裝置銷售等。企查查股權穿透顯示，該公司由東田微(301183)全資持股。"
-    },
-    {
-      "id": "5025648",
-      "time": "2026-08-05 09:05:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股停牌提示：6股今日停牌】Wind資料顯示，8月5日，藍盾光電、瓦軸B、愛麗家居等6只個股停牌。2股今日復牌：大立科技、任子行復牌。"
-    },
-    {
-      "id": "mkt:019fcf73-e909-7aab-8f7b-49bdb11403d6",
-      "time": "2026-08-05 09:05:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【Jiangsu provincial government convenes '6+6' meeting on high-quality integrated-circuit development】Aug 4 — Jiangsu provincial government held a '6+6' industry meeting on high-quality development of integrated circuits. The province instructed province–city–county coordination and fiscal–financial collaboration to increase support for R&D in base materials, core devices, frontier processes and advanced architectures to accelerate industry scale and cluster effects. It called for an integrated innovation ecosystem linking universities, research institutes and firms into industry alliances and high‑level platforms, and for a full‑chain talent policy (attract, train, deploy, retain) to import senior and leading talent and establish an IC talent hub. The meeting also directed tiered, targeted support to expand leading enterprises and segmental benchmark firms to lift overall industry capability."
-    },
-    {
-      "id": "mkt:019fcf72-ffa0-7aab-8f7b-449b4ae0b4c7",
-      "time": "2026-08-05 09:04:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude rose above $75/bbl, up 0.91% intraday."
-    },
-    {
-      "id": "5025647",
-      "time": "2026-08-05 09:03:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【習酒君品大幅領跌 白酒大單品總價創17天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月5日繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9847元，較昨日大幅下跌29元，連續兩日回落，較8月3日階段高點累計下跌54元，創下17天以來最低。今日除國窖1573與水晶劍南春小幅上漲外，其餘品種均下跌或平盤。酒市終端交投情緒繼續轉弱，空方進一步佔據上風，低位修復行情再受衝擊。\n\n今日11大白酒單品兩漲七跌兩平，輸家佔據絕對優勢。上漲方面，國窖1573與水晶劍南春均小漲1元/瓶，其中前者近期價格漲跌反覆，低位震盪特徵延續；後者自近一個月最低位微幅回升。下跌方面，習酒君品跌幅居前，大跌10元/瓶，創下近一個月最大單日跌幅，昨日重新整理今年5月19日以來最高價紀錄後技術性回落；青花郎大跌7元/瓶，跌破700元大關；古井貢古20下跌6元/瓶，重新整理近一個月最低價紀錄；精品茅臺下跌3元/瓶，遭遇三連跌，亦創下近一個月新低。五糧液普五八代與洋河夢之藍M6+均下跌2元/瓶，其中前者連續兩日回落，低位修復行情再度承壓，後者兩連跌後失守590元關口，近一個月寬幅震盪格局延續；飛天茅臺微跌1元/瓶，昨日短時小幅上漲後再度轉跌，7.18提價後的高位整理格局延續。五糧液1618與青花汾20價格環比昨日保持不變，其中前者連續兩日維持在818元/瓶，後者昨日大幅回落後企穩於372元/瓶。"
     }
   ]
 }
