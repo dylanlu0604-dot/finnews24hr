@@ -1,7 +1,17 @@
 {
   "date": "2026-08-13",
-  "count": 183,
+  "count": 184,
   "items": [
+    {
+      "id": "mkt:019ff7a5-9b85-7aab-9013-5409778f4cfe",
+      "time": "2026-08-13 04:24:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "DOE will no longer advance designation work for three proposed National Interest Electric Transmission Corridors that were selected for review in December 2024."
+    },
     {
       "id": "5038116",
       "time": "2026-08-13 04:22:05",
