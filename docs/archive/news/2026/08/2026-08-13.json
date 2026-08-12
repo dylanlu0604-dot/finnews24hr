@@ -1,7 +1,48 @@
 {
   "date": "2026-08-13",
-  "count": 141,
+  "count": 146,
   "items": [
+    {
+      "id": "mkt:019ff775-a9c1-7aab-9012-eace25dacc95",
+      "time": "2026-08-13 03:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Real Estate Institute of New Zealand said July adjusted median house price fell 0.6% year-on-year."
+    },
+    {
+      "id": "mkt:019ff775-40f4-7aab-9012-e02a94ac6eb0",
+      "time": "2026-08-13 03:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand real estate association said seasonally adjusted median house price fell 0.5% month-on-month in July."
+    },
+    {
+      "id": "5038093",
+      "time": "2026-08-13 03:30:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "據知情人士透露，派拉蒙已商討為CNN設立一個編輯委員會以及其他保障措施，以化解外界對該媒體新聞編輯獨立性的擔憂。相關磋商據稱早於那起反壟斷訴訟，該訴訟旨在阻撓派拉蒙計劃以810億美元收購CNN母公司華納兄弟探索公司。"
+    },
+    {
+      "id": "mkt:019ff774-0efb-7aab-9012-dfd0c7bf7cbc",
+      "time": "2026-08-13 03:30:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Defense Secretary Hegseth said Colombia will join a US-led coalition against drug cartels and be authorized to conduct joint military operations with US forces."
+    },
+    {
+      "id": "5038092",
+      "time": "2026-08-13 03:29:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：哥倫比亞將加入美國反販毒集團聯盟，授權與美國開展聯合軍事行動。"
+    },
     {
       "id": "mkt:019ff772-1d88-7aab-9012-d202fce936f8",
       "time": "2026-08-13 03:27:58",
