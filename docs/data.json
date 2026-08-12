@@ -1,7 +1,198 @@
 {
-  "updated": "2026-08-12 14:20:18",
-  "count": 15212,
+  "updated": "2026-08-12 14:24:15",
+  "count": 15229,
   "items": [
+    {
+      "id": "5036961",
+      "time": "2026-08-12 14:22:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報1641.50點。"
+    },
+    {
+      "id": "5036960",
+      "time": "2026-08-12 14:22:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：2026年AI伺服器機架出貨量將增長逾一倍。"
+    },
+    {
+      "id": "mkt:019ff4a2-b646-7aab-9001-afb6438f44ce",
+      "time": "2026-08-12 14:22:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt has launched a tender for 14 oil and gas concessions, according to a statement."
+    },
+    {
+      "id": "5036959",
+      "time": "2026-08-12 14:22:10",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【中科江南與中央財經大學達成戰略合作】北京中科江南8月12日公眾號訊息，近日，中科江南與中央財經大學達成戰略合作。雙方決定加強產學研合作，推動數字財政理論研究與實踐探索深度融合，助力財政科學管理，服務國家治理體系和治理能力現代化。"
+    },
+    {
+      "id": "mkt:019ff4a2-8776-7aab-9001-a57b78cf54f5",
+      "time": "2026-08-12 14:21:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "TME.N",
+        "Impact bearish"
+      ],
+      "text": "【MS downgrades Tencent Music US PT to $10.1; competitive outlook needs more clarity】Morgan Stanley cut its price target on Tencent Music (TME.N) to $10.1 from $10.5 and maintained a market-weight rating. The bank said synergies from the Himalaya acquisition are uncertain and could be a swing factor amid a prolonged competitive and earnings downgrade cycle. Accelerated share buybacks offer partial downside support but clearer visibility on competition is required. Morgan Stanley trimmed Tencent Music 2026–2028 EPS forecasts by 3–7% to reflect weaker subscription revenue. At current levels the stock trades at roughly 10x 2027E P/E and 6.6x ex-cash P/E; any valuation rerating depends on an improvement in the competitive landscape."
+    },
+    {
+      "id": "5036958",
+      "time": "2026-08-12 14:21:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及啟動14個油氣區塊開採權招標。"
+    },
+    {
+      "id": "mkt:019ff4a2-3e2c-7aab-9001-9ebd1c3d5360",
+      "time": "2026-08-12 14:21:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Foxconn expects strong AI demand to drive full-year growth."
+    },
+    {
+      "id": "mkt:019ff4a2-26d4-7aab-9001-96e6cec101f3",
+      "time": "2026-08-12 14:21:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn expects AI rack shipments to rise by high-double-digit percent QoQ in Q3."
+    },
+    {
+      "id": "5036957",
+      "time": "2026-08-12 14:21:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：預計強勁的人工智慧需求將推動全年增長。"
+    },
+    {
+      "id": "5036956",
+      "time": "2026-08-12 14:21:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：第三季度人工智慧伺服器機架出貨量環比增幅將達到兩位數高位。"
+    },
+    {
+      "id": "5036955",
+      "time": "2026-08-12 14:20:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率上漲4.5個基點，至4.055%。"
+    },
+    {
+      "id": "mkt:019ff4a1-78f3-7aab-9001-8f120609d2b8",
+      "time": "2026-08-12 14:20:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 40-year bond yield rose 4.5 bps to 4.055%."
+    },
+    {
+      "id": "5036954",
+      "time": "2026-08-12 14:20:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將LVMH目標股價從600歐元下調至590歐元。"
+    },
+    {
+      "id": "mkt:019ff4a1-511d-7aab-9001-8587717b6e79",
+      "time": "2026-08-12 14:20:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Foxconn says AI server outlook is strong."
+    },
+    {
+      "id": "mkt:019ff4a1-2621-7aab-9001-783c0c44b3be",
+      "time": "2026-08-12 14:20:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "FOXCONN says long-term market demand is strong and it will continue expanding global AI production capacity; outlook for next year is positive."
+    },
+    {
+      "id": "5036953",
+      "time": "2026-08-12 14:20:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "德意志銀行將開雲集團目標股價從280歐元上調至295歐元。"
+    },
+    {
+      "id": "mkt:019ff4a0-fdf6-7aab-9001-74c63f76d019",
+      "time": "2026-08-12 14:20:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Australia's S&P/ASX 200 closed down 41.7 points, or 0.45%, at 9,208.90 on Wednesday, Aug. 12."
+    },
+    {
+      "id": "5036952",
+      "time": "2026-08-12 14:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德意志銀行將愛馬仕目標股價從2320歐元下調至1920歐元。"
+    },
+    {
+      "id": "mkt:019ff4a0-c148-7aab-9001-6cb9b216d770",
+      "time": "2026-08-12 14:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "2317.TW",
+        "Impact bullish"
+      ],
+      "text": "Foxconn says AI infrastructure is driving growth."
+    },
+    {
+      "id": "5036951",
+      "time": "2026-08-12 14:19:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "鴻海：人工智慧基礎設施正拉動增長。"
+    },
     {
       "id": "mkt:019ff4a0-3eee-7aab-9001-6538d3936bfd",
       "time": "2026-08-12 14:19:30",
@@ -138483,32 +138674,6 @@
         "Impact bearish"
       ],
       "text": "Australia's S&P/ASX 200 closed up 79.20 points, +0.87%, at 9,225.00 on Aug 5 (Wednesday)."
-    },
-    {
-      "id": "5026127",
-      "time": "2026-08-05 14:23:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：減肥藥Wegovy口服劑型很快將在德國上市。"
-    },
-    {
-      "id": "5026126",
-      "time": "2026-08-05 14:22:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰航空首席財務官表示，人工智慧基礎設施熱潮正推動航空貨運需求居高不下，為收益率提供支撐。"
-    },
-    {
-      "id": "5026125",
-      "time": "2026-08-05 14:21:57",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【首創期貨：美伊再傳緩和訊號，短線黃金震盪走高】地緣局勢再度緩和，隔夜市場倫敦現貨黃金震盪走高，漲0.57%，SHFE黃金收漲0.87%。霍爾木茲海峽重開升溫，油價快速回落，另外美國6月JOLTS職位空缺超預期回落。短線黃金或維持底部震盪，關注本週五非農就業資料。宏觀資料方面，美國6月JOLTS職位空缺從5月的754萬降至736萬，預期為745萬，這表明勞動力市場保持相對穩定。美聯儲2026票委、費城聯儲行長表示，對貨幣政策走向保持開放態度，核心通脹能否持續回落是其判斷的關鍵依據。地緣政治方面，美伊談判繼續釋放緩和訊號，霍爾木茲海峽重開預期升溫。美伊地緣繼續釋放緩和訊號，美元震盪走弱，黃金雖表現偏強，但仍呈現底部震盪弱勢執行，走勢並未給予市場更強信心，這或源於投資者對即將公佈的非農就業資料的忌憚。（首創期貨）"
     }
   ]
 }
