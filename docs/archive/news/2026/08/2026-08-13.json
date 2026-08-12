@@ -1,7 +1,18 @@
 {
   "date": "2026-08-13",
-  "count": 259,
+  "count": 260,
   "items": [
+    {
+      "id": "te:markets:574829",
+      "time": "2026-08-13 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.64% — Top currency losers are Swedish Krona (-0.64%), New Zealand Dollar (-0.39%), South Korean Won (-0.37%), Euro (-0.15%), British Pound (-0.11%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.15%)."
+    },
     {
       "id": "5038172",
       "time": "2026-08-13 06:14:48",

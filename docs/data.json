@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13 06:15:37",
-  "count": 15034,
+  "updated": "2026-08-13 06:19:26",
+  "count": 15029,
   "items": [
+    {
+      "id": "te:markets:574829",
+      "time": "2026-08-13 06:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.64% — Top currency losers are Swedish Krona (-0.64%), New Zealand Dollar (-0.39%), South Korean Won (-0.37%), Euro (-0.15%), British Pound (-0.11%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.15%)."
+    },
     {
       "id": "5038172",
       "time": "2026-08-13 06:14:48",
@@ -137070,59 +137081,6 @@
         "公司"
       ],
       "text": "市場訊息：Meta 的 Muse Spark 1.1 模型入侵了一家公司的系統，並對其內部系統作出修改。"
-    },
-    {
-      "id": "5027530",
-      "time": "2026-08-06 06:19:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息： Meta 的一款人工智慧模型在網路安全測試過程中入侵了另一家公司。"
-    },
-    {
-      "id": "5027529",
-      "time": "2026-08-06 06:19:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【32只ETF密整合立，機構投資者加速入場】在三季度以來的震盪行情中，機構加快了ETF新品入市步伐。Choice資料顯示，7月1日至8月5日，已成立了32只ETF，發行規模合計達76.12億元。從這些新成立ETF的“買主”看，機構投資者身影頻頻出現。以華安中證工程機械主題ETF為例，截至7月31日，前十名基金份額持有人均為機構投資者。與此同時，ETF產品陣營有望持續擴容。據Choice資訊統計，截至8月5日，有21只ETF正在發行，另有4只ETF釋出了基金份額髮售公告，即將啟動發行。（上證報）"
-    },
-    {
-      "id": "5027528",
-      "time": "2026-08-06 06:18:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "【債市走出超預期行情，10年期國債收益率盤中跌破1.7%】近期，債市走出超預期行情。8月5日，債市做多情緒延續，10年期國債活躍券收益率盤中一度跌破1.7%關鍵關口，30年期國債活躍券收益率繼續處於年內低位附近。業內人士表示，本輪債市突破並非單一利好驅動，而是政策想象空間開啟、資金面均衡偏松、機構行為切換及風險偏好回落等多重因素共同作用的結果。不過，10年期國債收益率下破1.7%後並未快速遠離這一關鍵點位，顯示市場在關鍵關口仍有分歧。後續債市能否進一步開啟下行空間，仍需觀察。（上證報）"
-    },
-    {
-      "id": "5027527",
-      "time": "2026-08-06 06:18:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：伊朗局勢結束後，油價將會下跌。"
-    },
-    {
-      "id": "5027526",
-      "time": "2026-08-06 06:18:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【閃迪2026財年分析師電話會議要點總結】\n一、創紀錄的財務業績與業績指引。\n1、第四季度業績表現：營收達89.65億美元（季環比增長51%，同比增長372%），超出指引上限。環比增長中，約三分之一來自出貨量（Bits）增長，三分之二來自價格上漲。\n2、毛利率與每股收益（EPS）：Non-GAAP毛利率升至84.6%（上一季度為78.4%）；Non-GAAP EPS達39.25美元（指引區間為30–33美元）。\n3、現金流與資本回報：運營現金流為71.26億美元；當季透過股票回購向股東回報45億美元。\n4、2026全財年業績：全年總營收達202.48億美元（同比增長175%），出貨量增長處於十幾（mid-teens）的中段，符合預期。\n5、2027 財年第一季度指引：預計營收103億-108億美元，增長動力來自出貨量增加和價格的適度上漲。預計非GAAP毛利率在83%-85%之間，非GAAP EPS為44-46美元。"
-    },
-    {
-      "id": "mkt:019fd400-5f17-7aab-8f94-c3a382658166",
-      "time": "2026-08-06 06:17:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Brazil central bank cuts benchmark rate to 14%】On Aug 5 local time, Brazil's central bank MPC cut the benchmark policy rate to 14%, its fourth consecutive cut and the lowest level in nearly a year. Despite renewed Middle East conflict lifting oil prices and adding inflationary pressure in Brazil, markets expect the easing cycle to continue and price a further cut to 13.75% by end-2026."
     }
   ]
 }
