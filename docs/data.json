@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-13 06:34:45",
-  "count": 15031,
+  "updated": "2026-08-13 06:38:36",
+  "count": 15032,
   "items": [
+    {
+      "id": "5038178",
+      "time": "2026-08-13 06:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央氣象臺釋出暴雨黃色預警】中央氣象臺8月13日6時釋出暴雨黃色預警：預計，8月13日8時至14日8時，河南南部、湖北北部和東部、安徽西北部和中南部、江蘇中南部、浙江北部以及江西北部和南部、廣東中西部、貴州東部等地部分地區有大到暴雨，其中，湖北東部、安徽南部、江蘇南部、浙江北部、廣東中部等地局地有大暴雨（100毫米至180毫米）。上述部分地區伴有短時強降水（最大小時降雨量20毫米至50毫米，局地可超過70毫米），局地有雷暴大風等強對流天氣。"
+    },
+    {
+      "id": "mkt:019ff81d-a514-7aab-9014-063ca538c3b2",
+      "time": "2026-08-13 06:35:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports Apple (AAPL.O) has discussed a budget of several hundred million dollars to pay a group of publishers for Siri AI partnership agreements."
+    },
+    {
+      "id": "te:markets:574831",
+      "time": "2026-08-13 06:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1%) and Gold (0.70%). Biggest loser is Aluminum Alloy (-0.66%)."
+    },
+    {
+      "id": "mkt:019ff81c-ead9-7aab-9013-f964dada4e5b",
+      "time": "2026-08-13 06:34:32",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bullish"
+      ],
+      "text": "Ford Motor (F.N) plans to increase U.S. production of Lincoln models starting in 2030."
+    },
     {
       "id": "5038177",
       "time": "2026-08-13 06:34:05",
@@ -137074,34 +137117,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Rubber Gains by 2.80% — Top commodity gainers are Rubber (2.80%) and Barley (2.01%). Biggest loser is Cocoa (-1.25%)."
-    },
-    {
-      "id": "5027536",
-      "time": "2026-08-06 06:38:16",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【專家：加快財政支出進度的核心目標或是儘快形成實物工作量】近日召開的中共中央政治局會議指出，宏觀政策要發力提效，加快財政支出和債券資金使用進度，有力推進“兩重”建設和“兩新”工作。專家認為，加快財政支出進度的核心目標或是儘快形成實物工作量。後續，擴大內需、支援服務消費和增強政策協同性，或是增量政策研究儲備的重點發力方向。（中證報）"
-    },
-    {
-      "id": "5027535",
-      "time": "2026-08-06 06:36:07",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【中證報：人民幣國債在港常態化發行，拓寬外資配置中國資產渠道】8月5日，財政部在香港特別行政區面向機構投資者招標發行2026年第四期150億元人民幣國債，受到投資者廣泛歡迎，認購倍數達4.67倍。專家認為，在香港常態化發行人民幣國債，有利於滿足國際資本配置需求，完善離岸人民幣基準利率曲線，持續推進人民幣國際化發展。"
-    },
-    {
-      "id": "te:markets:573135",
-      "time": "2026-08-06 06:35:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Rises by 4.41% — Top commodity gainers are Silver (4.41%), Gold (4.21%) and Copper (1.65%)."
     }
   ]
 }
