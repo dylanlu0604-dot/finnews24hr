@@ -1,7 +1,51 @@
 {
   "date": "2026-08-12",
-  "count": 2598,
+  "count": 2603,
   "items": [
+    {
+      "id": "5037934",
+      "time": "2026-08-12 22:10:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價漲幅擴大至8.25%，報153.335美元/股，總市值報1.12萬億美元。"
+    },
+    {
+      "id": "5037933",
+      "time": "2026-08-12 22:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國前總統尹錫悅面臨新指控】據韓聯社12日報道，韓國第二綜合特別檢察組當天以傳播“緊急戒嚴正當化資訊”為由，起訴前總統尹錫悅和前國家安保室長申源湜。尹錫悅先後所涉刑事訴訟案件增至9起。 特檢組表示，尹錫悅涉嫌在宣佈“12·3”緊急戒嚴後，立即透過國家安保室和外交部，指示向美國、英國、日本、歐盟等方面傳達有關“緊急戒嚴是正當的”的資訊，涉嫌濫用職權妨礙權利行使罪，即濫用職權令公務員從事非義務工作。 特檢組還表示，申源湜被查明於戒嚴次日與前國家安保室第一次長金泰孝一起，向國家情報院提出“向友邦國家說明緊急戒嚴背景”的要求，並傳達了尹錫悅的資訊。特檢組認為，申源湜上述行為讓國家安保室和外交部等部門所屬公務員從事了他們沒有義務承擔的工作。 截至此次案件，尹錫悅已先後身陷9起刑事訴訟，其中1起已完成終審判決，但系列案件中最核心的尹錫悅涉內亂頭目案目前仍在首爾高等法院二審審理中。(新華社)"
+    },
+    {
+      "id": "mkt:019ff64e-09a4-7aab-900e-44271adbbd84",
+      "time": "2026-08-12 22:08:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Google will add an insulin-trend tracking feature to Watch5 and Fitbit Air."
+    },
+    {
+      "id": "mkt:019ff64d-8f4b-7aab-900e-3de424fca01b",
+      "time": "2026-08-12 22:08:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Death toll from Colombia earthquake reaches 202."
+    },
+    {
+      "id": "te:markets:574789",
+      "time": "2026-08-12 22:07:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Near 2-Month Highs — The euro has been trading around $1.15 in August, near two-month highs, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September."
+    },
     {
       "id": "5037932",
       "time": "2026-08-12 22:07:07",
