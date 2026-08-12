@@ -1,7 +1,18 @@
 {
   "date": "2026-08-13",
-  "count": 101,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:019ff726-e0db-7aab-9012-57e991c087a9",
+      "time": "2026-08-13 02:05:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iraq PM says Sept. 30 final deadline for coalition withdrawal】Iraq's prime minister told reporters after meeting visiting CENTCOM commander Cooper that Sept. 30 is the final deadline for international coalition forces to end their military mission and complete withdrawal from Iraq. He said Oct. 1 will mark the removal of all foreign military presence and the start of a new phase for Iraqi territorial sovereignty and strengthened security and military capabilities."
+    },
     {
       "id": "mkt:019ff726-012b-7aab-9012-4de8cddbaa31",
       "time": "2026-08-13 02:04:50",

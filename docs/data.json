@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13 02:06:09",
-  "count": 15085,
+  "updated": "2026-08-13 02:10:04",
+  "count": 15081,
   "items": [
+    {
+      "id": "mkt:019ff726-e0db-7aab-9012-57e991c087a9",
+      "time": "2026-08-13 02:05:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iraq PM says Sept. 30 final deadline for coalition withdrawal】Iraq's prime minister told reporters after meeting visiting CENTCOM commander Cooper that Sept. 30 is the final deadline for international coalition forces to end their military mission and complete withdrawal from Iraq. He said Oct. 1 will mark the removal of all foreign military presence and the start of a new phase for Iraqi territorial sovereignty and strengthened security and military capabilities."
+    },
     {
       "id": "mkt:019ff726-012b-7aab-9012-4de8cddbaa31",
       "time": "2026-08-13 02:04:50",
@@ -137649,51 +137660,6 @@
         "Impact bullish"
       ],
       "text": "Microsoft (MSFT.O) disclosed OpenAI accounts for about 70% of its AI sales; OpenAI generated $24.1 billion in revenue in fiscal 2026."
-    },
-    {
-      "id": "5027417",
-      "time": "2026-08-06 02:08:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價跌至盤中最低點1.5%。"
-    },
-    {
-      "id": "5027416",
-      "time": "2026-08-06 02:08:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微軟AI收入高度依賴OpenAI】據微軟最新披露檔案，微軟絕大部分人工智慧業務收入來源於OpenAI。在上一財年（截至6月底），微軟來自OpenAI相關業務的收入達241億美元，OpenAI貢獻超過微軟AI實際總收入的一半，估算佔比約70%，凸顯微軟對這家緊密合作伙伴的高度依賴。"
-    },
-    {
-      "id": "mkt:019fd31c-652f-7aab-8f92-74cdb8aee2de",
-      "time": "2026-08-06 02:08:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Yemen's armed forces spokesperson said 29 Saudi tankers were intercepted and forced to turn back in the Red Sea and Arabian Sea."
-    },
-    {
-      "id": "5027415",
-      "time": "2026-08-06 02:07:17",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "微軟披露：2026財年來自OpenAI相關業務收入241億美元，OpenAI約佔微軟AI總銷售額的70%。"
-    },
-    {
-      "id": "5027414",
-      "time": "2026-08-06 02:07:06",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "披露檔案顯示：微軟AI業務收入主要來自OpenAI。"
     }
   ]
 }
