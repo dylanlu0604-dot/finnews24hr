@@ -1,7 +1,306 @@
 {
-  "updated": "2026-08-12 20:33:43",
-  "count": 15130,
+  "updated": "2026-08-12 20:37:42",
+  "count": 15139,
   "items": [
+    {
+      "id": "mkt:019ff5f9-de3c-7aab-900b-c5efff22b45f",
+      "time": "2026-08-12 20:37:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: In July, healthcare, airfares, communication, education and recreation prices rose MoM; motor vehicle insurance prices fell MoM."
+    },
+    {
+      "id": "mkt:019ff5f9-d792-7aab-900b-ba18c8b90e5b",
+      "time": "2026-08-12 20:36:59",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "【China trade body vice chair meets Apple Greater China government affairs head】On Aug. 12 in Beijing, Lin Honghong, vice chair of the China Council for the Promotion of International Trade, met with Fan Yong, general manager of government affairs, Greater China, Apple. They discussed measures to facilitate foreign companies’ operations in China, Apple’s participation in 2026 APEC business events, and stepped-up industry and supply‑chain cooperation."
+    },
+    {
+      "id": "5037760",
+      "time": "2026-08-12 20:36:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX美股盤前漲超2%】SpaceX美股盤前漲超2%，現報136.042美元。"
+    },
+    {
+      "id": "5037759",
+      "time": "2026-08-12 20:36:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐佩克下調今年全球石油需求增長預期】石油輸出國組織（歐佩克）當地時間今天（8月12日）釋出8月《月度石油市場報告》。報告稱，受全球經濟形勢等因素影響，歐佩克小幅下調2026年全球石油需求增長預期至每天60萬桶，上月報告為80萬桶/日。報告同時上調2027年全球石油需求增長預期至每天220萬桶。報告顯示，7月歐佩克一攬子原油平均價格為每桶82.99美元，環比下降6.76美元；布倫特原油期貨近月合約均價為每桶83.97美元，環比下降0.46美元；美國西得克薩斯中質原油期貨近月合約均價為每桶79.22美元，環比下降2.57美元。 報告指出，地緣政治風險以及對短期供應可獲得性的擔憂，為近月原油期貨合約價格提供支撐，石油市場基本面保持穩健。（CCTV國際時訊）"
+    },
+    {
+      "id": "5037758",
+      "time": "2026-08-12 20:36:26",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "交易員們認為美聯儲9月份加息的可能性為45%。"
+    },
+    {
+      "id": "5037757",
+      "time": "2026-08-12 20:36:20",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "7月CPI變化與預期相符，美國國債維持漲勢。"
+    },
+    {
+      "id": "te:economy:574756",
+      "time": "2026-08-12 20:36:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "US Annual Core Inflation Matches Forecasts at 2.5% — The US core inflation rate, excluding volatile food and fuel costs, eased for the second month to 2.5% in July 2026, the lowest in five months, matching market forecasts. On a monthly basis, core consumer prices rose by 0.2% in July, after being flat in the prior month and in line with market expectations."
+    },
+    {
+      "id": "te:markets:574755",
+      "time": "2026-08-12 20:36:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "HRC Steel Hits 3-year High — HRC Steel increased to 1211.00 USD/T, the highest since March 2023. Over the past 4 weeks, Hot-Rolled Coil Steel gained 2.55%, and in the last 12 months, it increased 45.15%."
+    },
+    {
+      "id": "mkt:019ff5f9-1a37-7aab-900b-b65b82d63ed1",
+      "time": "2026-08-12 20:36:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "US2Y"
+      ],
+      "text": "US 2-yr/10-yr Treasury yield curve briefly flattened after the CPI print and has since steepened; spread 47 bps."
+    },
+    {
+      "id": "mkt:019ff5f8-ceb4-7aab-900b-ac680db03231",
+      "time": "2026-08-12 20:35:51",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "U.S. Bureau of Labor Statistics: In July the shelter inflation index rose 0.1% MoM, accounting for about two-thirds of that month’s overall CPI increase. The food index rose 0.1% MoM, with food away from home up 0.3% MoM. The energy index fell 1.5% MoM."
+    },
+    {
+      "id": "5037756",
+      "time": "2026-08-12 20:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年廣州結婚登記52435對，同比增長3.4%】近日，廣東省民政廳釋出《廣東民政事業統計季報（2026年第二季度）》。資料顯示，今年上半年，廣東全省結婚登記28.8萬對，離婚登記10.8萬對。其中，廣州市民政局統計資料顯示，今年上半年廣州結婚登記52435對，較去年同期的50715對，同比增長3.4%。此外，2025年全年，廣東結婚登記61.4萬對，同比增加10.2萬對，增長19.92%。 （廣州日報）"
+    },
+    {
+      "id": "mkt:019ff5f8-b164-7aab-900b-a70b5b3a08c6",
+      "time": "2026-08-12 20:35:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【US July core inflation subdued, likely eases Fed rate‑hike pressure】US core CPI was subdued in July, likely reducing pressure on the Fed to raise rates. The Bureau of Labor Statistics said core CPI, excluding food and energy, rose 0.2% MoM and 2.5% YoY in July — the YoY increase matched the weakest since March 2021. Headline CPI rose 0.1% MoM and 3.4% YoY."
+    },
+    {
+      "id": "em:qqyh_mlc:202608123839383734",
+      "time": "2026-08-12 20:35:37",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美國7月CPI資料公佈後，交易員略微降低9月份美聯儲加息的賭注。"
+    },
+    {
+      "id": "5037755",
+      "time": "2026-08-12 20:35:27",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國 7 月 CPI 符合預期 通脹持續降溫，暫緩美聯儲即刻加息壓力】美國週三公佈的一項關鍵通脹資料顯示，各類商品與服務價格漲幅放緩，或削弱央行立刻加息的緊迫性。美國勞工統計局資料顯示，作為美聯儲通脹監測核心指標的消費者價格指數（CPI）7 月環比上漲 0.1%，符合道瓊斯調查市場一致預期。剔除食品和能源的核心 CPI 環比上升 0.2%，同樣與預期持平。同比口徑來看，整體通脹同比 3.4%，核心通脹同比 2.5%，兩項資料均符合華爾街預期。儘管通脹水平仍顯著高於美聯儲 2% 的目標，但是連續兩個月（6 月、7 月）溫和的月度資料表明，今年早些時候由能源價格推動的通脹衝高態勢正在消退。"
+    },
+    {
+      "id": "mkt:019ff5f8-6321-7aab-900b-999ad4b37cd8",
+      "time": "2026-08-12 20:35:23",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "The yen against the dollar held gains after the US CPI release, rising 0.1% to 159."
+    },
+    {
+      "id": "5037754",
+      "time": "2026-08-12 20:35:22",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債2年期/10年期收益率曲線在CPI資料公佈後短暫走平，目前正在陡化，最新利差為47個基點。"
+    },
+    {
+      "id": "5037753",
+      "time": "2026-08-12 20:35:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國短期利率期貨在通脹資料公佈後小幅上漲。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608123839383170",
+      "time": "2026-08-12 20:35:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國7月實際平均時薪同比下降0.2%。"
+    },
+    {
+      "id": "5037752",
+      "time": "2026-08-12 20:34:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率小幅上升，最新下跌2.2個基點至4.661%。"
+    },
+    {
+      "id": "5037751",
+      "time": "2026-08-12 20:34:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數目前上漲0.2%。"
+    },
+    {
+      "id": "mkt:019ff5f7-63b3-7aab-900b-964cff2fd333",
+      "time": "2026-08-12 20:34:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rebounded to $4,418/oz after slipping to $4,382/oz following a data release."
+    },
+    {
+      "id": "te:economy:574754",
+      "time": "2026-08-12 20:34:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "US Core Consumer Prices Rise as Expected — Core consumer prices in the United States, which exclude food and energy, rose by 0.2% from the previous month in July of 2026, gaining traction from the hold in the previous month, and in line with market expectations. Prices rose sharply for medical care devices (0.6% vs -0.1% in June), transportation services (0.3% vs -0.3%), and used cars and trucks (0.4% vs -0.2%). Meanwhile, inflation was softer for shelter (0.1% vs 0.1%). From the previous year, core consumer prices rose by 2.5%."
+    },
+    {
+      "id": "mkt:019ff5f7-2edb-7aab-900b-8b2c1d756b95",
+      "time": "2026-08-12 20:34:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury yield fell 2.2 bps to 4.661%."
+    },
+    {
+      "id": "mkt:019ff5f6-fa82-7aab-900b-83bb39284aa8",
+      "time": "2026-08-12 20:33:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Stoxx Europe 600 up 0.2%."
+    },
+    {
+      "id": "mkt:019ff5f6-b6f6-7aab-900b-78a9b3877b32",
+      "time": "2026-08-12 20:33:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【US July core CPI YoY in line with expectations】US July not-seasonally-adjusted core CPI YoY rose 2.5%, the smallest increase since February, in line with market expectations."
+    },
+    {
+      "id": "5037750",
+      "time": "2026-08-12 20:33:31",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國CPI資料公佈後，新興市場貨幣維持漲幅；南非蘭特、智利比索領漲。"
+    },
+    {
+      "id": "5037749",
+      "time": "2026-08-12 20:33:23",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "日元兌美元匯率在美股CPI資料公佈後維持漲勢，上漲0.1%至159日元。"
+    },
+    {
+      "id": "5037748",
+      "time": "2026-08-12 20:33:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【閃迪美股盤前漲超5%】閃迪美股盤前漲超5%，現報1335.36美元。"
+    },
     {
       "id": "5037747",
       "time": "2026-08-12 20:32:40",
@@ -137721,178 +138020,6 @@
         "國際"
       ],
       "text": "【8月5日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【奮力開創中國式現代化建設新局面——習近平總書記今年以來治國理政紀實】砥礪初心使命 把黨建設得更加堅強有力； 2.上半年產業創新活力進一步激發； 3.上半年我國服務進出口總額實現較快增長； 4.神舟二十一號航天員乘組與記者見面會在北京舉行； 5.【活力中國調研行】人才嵌入產業鏈； 6.國內聯播快訊： （1）今年上半年中國企業信用水平總體平穩； （2）財政部在香港發行2026年第四期150億元人民幣國債； （3）今年上半年全國發放退役軍人創業貸超700億元； （4）今年上半年全國消協組織為消費者挽回經濟損失4.47億元； （5）“清風行動2026”取得階段性成效； （6）捷龍三號運載火箭發射AI雙星順利入軌； （7）1-7月海南離島免稅購物金額超210億元； （8）今年第13號颱風“白海豚”維持強颱風級 將影響華東地區； 7.日本人士反對成立“國家情報局” 反對日本“再軍事化” 國際人士表示日本相關舉動威脅地區安全與和平； 8.國際聯播快訊： （1）美媒稱美軍關鍵彈藥短缺 美防長否認； （2）俄軍對烏克蘭基輔發動大規模打擊； （3）巴西政府指責美國撤銷巴西駐美大使簽證； （4）約7萬非法入境休達人員已被遣返； （5）英媒稱歐洲林火及高溫損失超31億歐元； （6）媒體稱美海關退回約1000億美元關稅。"
-    },
-    {
-      "id": "5027025",
-      "time": "2026-08-05 20:37:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "E.L.F. Beauty股價在盤前交易上漲2.5%，此前伯恩斯坦將其股票評級從“市場表現”上調至“表現優於大盤”。"
-    },
-    {
-      "id": "mkt:019fd1ed-a70c-7aab-8f8c-09cbdfcf574c",
-      "time": "2026-08-05 20:37:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "ICE.N",
-        "Impact bullish"
-      ],
-      "text": "Intercontinental Exchange: July average daily total volume rose 25% YoY; open interest rose 18% YoY."
-    },
-    {
-      "id": "5027024",
-      "time": "2026-08-05 20:37:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "菲利普斯66第二季度利潤超預期，盤前股價上漲1.1%。"
-    },
-    {
-      "id": "5027023",
-      "time": "2026-08-05 20:37:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部表示，現金餘額可能在10月份達到接近1.05萬億美元的峰值。"
-    },
-    {
-      "id": "mkt:019fd1ed-197d-7aab-8f8c-009bb9f38095",
-      "time": "2026-08-05 20:36:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "S&P500",
-        "US10Y"
-      ],
-      "text": "【US ADP below expectations; hiring momentum cools】US private payrolls rose 44,000 in July, below expectations and the smallest monthly gain since early this year, the ADP report showed. Hiring momentum slowed, but wage growth for employees switching jobs climbed to its strongest level in nearly a year. ADP said the labor market remains stable, supported by firm corporate and consumer demand; if Friday’s nonfarm payrolls confirm this pattern, Fed officials could continue to focus on elevated inf."
-    },
-    {
-      "id": "5027022",
-      "time": "2026-08-05 20:36:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "DDHQ預測：阿卜杜勒·埃爾‑賽義德贏得密歇根州聯邦參議員民主黨初選。"
-    },
-    {
-      "id": "mkt:019fd1ec-aa41-7aab-8f8b-fe72839c7628",
-      "time": "2026-08-05 20:36:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Argentina's foreign minister said Argentina will not take diplomatic action in response to Brazil's downgrade of diplomatic relations."
-    },
-    {
-      "id": "5027021",
-      "time": "2026-08-05 20:35:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮旗科技：取得不超過4500萬元回購專項貸款承諾函】8月5日，榮旗科技公告，近日取得招商銀行股份有限公司蘇州分行出具的《貸款承諾函》，貸款金額不超過4500萬元，貸款期限不超過36個月，貸款用途專項用於回購公司股票。公司於2026年7月20日召開董事會審議透過回購方案，回購資金總額不低於2500萬元且不超過5000萬元，回購價格不超過106元/股。截至2026年7月31日，公司已累計回購股份33萬股，成交金額1468.97萬元。"
-    },
-    {
-      "id": "mkt:019fd1ec-1b4f-7aab-8f8b-f5fbc0d5492d",
-      "time": "2026-08-05 20:35:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Treasury plans to maintain the size of its quarterly TIPS auctions."
-    },
-    {
-      "id": "5027020",
-      "time": "2026-08-05 20:35:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify稱商戶第二季度交易規模達1160億美元。"
-    },
-    {
-      "id": "5027019",
-      "time": "2026-08-05 20:35:24",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部計劃維持季度TIPS標售規模。"
-    },
-    {
-      "id": "5027018",
-      "time": "2026-08-05 20:35:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【愛麗家居：停牌核查完成，8月6日起復牌，股價9日累漲135.77%】愛麗家居公告，公司股票因交易異常波動及嚴重異常波動停牌核查，將於2026年8月6日開市起復牌。公司股票自2026年7月21日至7月31日連續9個交易日漲停，累計漲幅達135.77%，截至7月31日收盤價為22.54元/股，靜態市盈率317.9倍。公司預計2026年半年度歸母淨利潤為-4050萬元到-3450萬元。控股股東擬協議轉讓3668.1萬股（佔15.1405%）給趙銘、1222.7萬股（佔5.0468%）給百年勤書，並擬現金收購歐康諾不低於77.08%股權，相關正式協議尚未簽署。"
-    },
-    {
-      "id": "5027017",
-      "time": "2026-08-05 20:34:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "智利央行：本土投資的疲軟程度超出預期。"
-    },
-    {
-      "id": "mkt:019fd1eb-166b-7aab-8f8b-ea353c470e8e",
-      "time": "2026-08-05 20:34:32",
-      "tags": [
-        "MKT News",
-        "NYT.O"
-      ],
-      "text": "New York Times CEO says video remains a relatively small share of advertising growth."
-    },
-    {
-      "id": "5027016",
-      "time": "2026-08-05 20:34:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "《紐約時報》執行長表示：迄今為止，影片在廣告業務增長中所起的作用相對較小。"
-    },
-    {
-      "id": "mkt:019fd1ea-d5c0-7aab-8f8b-e51b840ce4a9",
-      "time": "2026-08-05 20:34:15",
-      "tags": [
-        "MKT News",
-        "US10Y"
-      ],
-      "text": "U.S. Treasury expects Treasury auction sizes to remain steady over the next few weeks."
-    },
-    {
-      "id": "5027015",
-      "time": "2026-08-05 20:34:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部預計未來幾周國庫券拍賣規模將保持穩定。"
-    },
-    {
-      "id": "mkt:019fd1ea-97aa-7aab-8f8b-dfa8b04a3dac",
-      "time": "2026-08-05 20:34:00",
-      "tags": [
-        "MKT News",
-        "US10Y"
-      ],
-      "text": "US Treasury expects nominal auction sizes to remain stable from August through October."
-    },
-    {
-      "id": "mkt:019fd1ea-6da9-7aab-8f8b-d3d1e95dc4a4",
-      "time": "2026-08-05 20:33:49",
-      "tags": [
-        "MKT News",
-        "NYT.O",
-        "Impact bullish"
-      ],
-      "text": "New York Times CEO said the company is confident that, as it significantly boosts user engagement at scale, it will have multiple long-term avenues to monetize video."
     }
   ]
 }
