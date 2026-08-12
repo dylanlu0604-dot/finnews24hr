@@ -1,7 +1,50 @@
 {
   "date": "2026-08-12",
-  "count": 823,
+  "count": 827,
   "items": [
+    {
+      "id": "te:economy:574582",
+      "time": "2026-08-12 10:31:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "US 10-Year Yield Edges Lower — The yield on the US 10-year Treasury note eased to around 4.68% on Wednesday, extending its decline into a second session as investors positioned ahead of key inflation data that could provide fresh guidance on the Federal Reserve’s policy outlook. The consumer price index is due later today, with producer inflation figures scheduled for Thursday. Markets remain split over the prospect of a 25-basis-point Fed rate hike in September after the central bank left rates unchanged in July, while firmer oil prices continue to bolster expectations for a hawkish stance. On Tuesday, Chicago Fed President Austan Goolsbee said policymakers remain more focused on the risk of persistently elevated inflation than potential weakness in the labor market. Meanwhile, investors continued to monitor prospects for a US-Iran agreement to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”"
+    },
+    {
+      "id": "5036708",
+      "time": "2026-08-12 10:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本內閣或於9月中旬或之後改組】據知情人士稱，日本首相高市早苗內閣可能在9月中旬或之後改組。此次改組預計不太可能調整內閣官房長官、財務大臣和經濟產業大臣等關鍵職位。"
+    },
+    {
+      "id": "mkt:019ff3cd-2b37-7aab-8fff-2d16dcb003c7",
+      "time": "2026-08-12 10:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Copper"
+      ],
+      "text": "China A-share photovoltaic and energy-storage sectors strengthened in choppy trade; Jinchen, Tianyang New Materials and Jianghe hit daily price limits, while Ailuo Energy, Shenghong, Deye and GoodWe were among the top gainers."
+    },
+    {
+      "id": "5036707",
+      "time": "2026-08-12 10:28:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PEEK材料概念震盪反彈，兄弟科技漲停】PEEK材料概念震盪反彈，兄弟科技漲停，唯科科技、雅運股份、富恆新材、超捷股份、興瑞科技、崇德科技等跟漲。"
+    },
     {
       "id": "5036706",
       "time": "2026-08-12 10:27:28",

@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-12 10:28:37",
-  "count": 15368,
+  "updated": "2026-08-12 10:32:30",
+  "count": 15355,
   "items": [
+    {
+      "id": "te:economy:574582",
+      "time": "2026-08-12 10:31:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "US 10-Year Yield Edges Lower — The yield on the US 10-year Treasury note eased to around 4.68% on Wednesday, extending its decline into a second session as investors positioned ahead of key inflation data that could provide fresh guidance on the Federal Reserve’s policy outlook. The consumer price index is due later today, with producer inflation figures scheduled for Thursday. Markets remain split over the prospect of a 25-basis-point Fed rate hike in September after the central bank left rates unchanged in July, while firmer oil prices continue to bolster expectations for a hawkish stance. On Tuesday, Chicago Fed President Austan Goolsbee said policymakers remain more focused on the risk of persistently elevated inflation than potential weakness in the labor market. Meanwhile, investors continued to monitor prospects for a US-Iran agreement to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”"
+    },
+    {
+      "id": "5036708",
+      "time": "2026-08-12 10:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本內閣或於9月中旬或之後改組】據知情人士稱，日本首相高市早苗內閣可能在9月中旬或之後改組。此次改組預計不太可能調整內閣官房長官、財務大臣和經濟產業大臣等關鍵職位。"
+    },
+    {
+      "id": "mkt:019ff3cd-2b37-7aab-8fff-2d16dcb003c7",
+      "time": "2026-08-12 10:28:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Copper"
+      ],
+      "text": "China A-share photovoltaic and energy-storage sectors strengthened in choppy trade; Jinchen, Tianyang New Materials and Jianghe hit daily price limits, while Ailuo Energy, Shenghong, Deye and GoodWe were among the top gainers."
+    },
+    {
+      "id": "5036707",
+      "time": "2026-08-12 10:28:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PEEK材料概念震盪反彈，兄弟科技漲停】PEEK材料概念震盪反彈，兄弟科技漲停，唯科科技、雅運股份、富恆新材、超捷股份、興瑞科技、崇德科技等跟漲。"
+    },
     {
       "id": "5036706",
       "time": "2026-08-12 10:27:28",
@@ -139772,169 +139815,6 @@
         "焦點"
       ],
       "text": "瓶片連續主力合約日內跌5%，現報7018.00元。"
-    },
-    {
-      "id": "5025808",
-      "time": "2026-08-05 10:32:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲6%，現報428.30元。"
-    },
-    {
-      "id": "5025807",
-      "time": "2026-08-05 10:32:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "對二甲苯連續主力合約日內跌4%，現報7890.00元。"
-    },
-    {
-      "id": "5025806",
-      "time": "2026-08-05 10:31:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內跌5%，現報6876.00元。"
-    },
-    {
-      "id": "5025805",
-      "time": "2026-08-05 10:31:39",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國檢方調查石化企業涉嫌價格串通，LG化學等7家公司遭搜查】韓國首爾中央地方檢察廳公平貿易調查部8月5日對LG化學、韓華解決方案、愛敬化學、OCI、樂天精密化學、PKC、UNID等7家石化企業及相關人員展開扣押搜查，調查其涉嫌對多種石油化工產品進行價格串通。檢方懷疑上述企業多年間就PVC、增塑劑、燒鹼、鹽酸等8類產品的價格上漲進行事前協商。此前，韓國公平交易委員會已於今年5月發現相關涉嫌串通線索，並啟動現場調查。"
-    },
-    {
-      "id": "5025804",
-      "time": "2026-08-05 10:31:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內跌4%，現報5180.00元。"
-    },
-    {
-      "id": "mkt:019fcfc2-72b8-7aab-8f7d-b8746c9489f9",
-      "time": "2026-08-05 10:30:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "513310.SZ",
-        "Impact bullish"
-      ],
-      "text": "China-Korea Semiconductor ETF (513310) rose more than 5%; turnover exceeded 400 mln yuan."
-    },
-    {
-      "id": "5025803",
-      "time": "2026-08-05 10:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內跌4%，現報8119.00元。"
-    },
-    {
-      "id": "5025802",
-      "time": "2026-08-05 10:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌5%，現報509.10元。"
-    },
-    {
-      "id": "mkt:019fcfc1-a232-7aab-8f7d-b0662a67b30f",
-      "time": "2026-08-05 10:30:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "Japan's Chief Cabinet Secretary Kihara Minoru declined to comment on bond yields, saying they are determined by the market based on various factors."
-    },
-    {
-      "id": "mkt:019fcfc1-a070-7aab-8f7d-aeffb351f022",
-      "time": "2026-08-05 10:30:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Zhongwei.SS",
-        "Impact bullish"
-      ],
-      "text": "Shares of Zhongwei Semiconductor jumped over 10% after media reported South Korea's Samsung Electronics and SK Hynix are evaluating the company's chipmaking equipment for potential use at their China manufacturing sites."
-    },
-    {
-      "id": "mkt:019fcfc1-94fe-7aab-8f7d-a36e28703ce3",
-      "time": "2026-08-05 10:29:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Kihara said the government and the Bank of Japan maintain close, multi-level communication on economic and financial trends."
-    },
-    {
-      "id": "5025801",
-      "time": "2026-08-05 10:29:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "中微公司漲超10%。"
-    },
-    {
-      "id": "mkt:019fcfc1-7ead-7aab-8f7d-99d9c0ba3807",
-      "time": "2026-08-05 10:29:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Chief Cabinet Secretary Kihara declined to comment when asked about reports that Prime Minister Takaichi asked BOJ Governor Ueda to buy JGBs."
-    },
-    {
-      "id": "mkt:019fcfc1-01a4-7aab-8f7d-93053cd9752c",
-      "time": "2026-08-05 10:29:20",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Eight Immortals! enters China's all-time top-10 animated box office】Lighthouse Professional data show film Eight Immortals! has grossed over 1.239 bln yuan, putting it into China's all-time top ten animated films by box office."
-    },
-    {
-      "id": "5025800",
-      "time": "2026-08-05 10:29:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "廣汽埃安：AION RT 2027款今晚上市。"
-    },
-    {
-      "id": "5025799",
-      "time": "2026-08-05 10:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美國聯邦航空局調查一起涉及載有特朗普的軍用直升機安全事件】美國《華爾街日報》當地時間4日援引知情人士訊息報道，美聯邦航空局官員正在調查當日發生在美首都華盛頓特區的一起空中交通安全事件，該事件涉及一架載有美國總統特朗普的軍用直升機。（環球網）"
-    },
-    {
-      "id": "5025798",
-      "time": "2026-08-05 10:29:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本內閣官房長官：政府和日本央行正就經濟和金融趨勢在各個層面保持密切溝通。"
     }
   ]
 }
