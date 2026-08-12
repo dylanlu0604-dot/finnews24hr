@@ -1,7 +1,53 @@
 {
   "date": "2026-08-12",
-  "count": 810,
+  "count": 815,
   "items": [
+    {
+      "id": "mkt:019ff3c8-6744-7aab-8fff-089f58d50363",
+      "time": "2026-08-12 10:23:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Indonesian passenger ferry carrying 114 passengers and 17 crew catches fire; evacuation underway】Indonesian media reported on the 12th that a passenger ferry caught fire early morning while sailing from Bali to nearby Lombok. Evacuation and rescue operations are ongoing; Bali officials said the ship manifest lists 114 passengers and 17 crew."
+    },
+    {
+      "id": "5036702",
+      "time": "2026-08-12 10:22:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光伏加工裝置板塊走高，金辰股份漲停】光伏加工裝置板塊走高，金辰股份漲停，邁為股份、連城數控、奧特維、捷佳偉創、歐普泰等紛紛走高。"
+    },
+    {
+      "id": "mkt:019ff3c6-cf25-7aab-8fff-05113f48a51a",
+      "time": "2026-08-12 10:22:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMZN.O",
+        "GOOGL.O",
+        "MSFT.O"
+      ],
+      "text": "【ANTHROPIC to embed invisible watermark in Claude outputs】ANTHROPIC said on Aug 11 it has signed the EU AI Act Article 50 guidelines on AI-generated content transparency. Effective Aug 2, Claude models will embed an invisible watermark in generated text; images and other files will carry digitally signed provenance metadata. The marking will cover all major Claude products and access channels — Claude Platform (API), Claude, Claude Code, Claude Cowork and Claude Tag — and apply to cloud partners including AWS, Google Cloud and Microsoft Foundry. ANTHROPIC said the scheme will be implemented globally across all Claude product lines and partner cloud platforms, not limited to the EU."
+    },
+    {
+      "id": "5036701",
+      "time": "2026-08-12 10:21:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【載有百餘人的印尼客輪起火 疏散救援正在進行】據印度尼西亞媒體12日報道，一艘客輪在當天清晨從印尼旅遊勝地巴厘島駛往鄰近的龍目島途中起火，目前乘客疏散和救援工作正在進行中。 巴厘島當地官員表示，根據登船記錄，該客輪載有114名乘客和17名船員。（新華社）"
+    },
+    {
+      "id": "5036700",
+      "time": "2026-08-12 10:20:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迪卡儂回應登山帽抽檢不合格】近日，杭州市市場監督管理局釋出2026年鞋服等產品質量監督抽查結果，迪卡儂（杭州）體育用品有限公司鳳起分公司銷售的一款有邊帽“纖維含量”不合格。對此，8月11日，迪卡儂方面向記者表示，“不合格原因是產品標識標籤標註錯誤，是洗標上的裡料成分資訊標註有誤。正確資訊貼標正在製作中，預計兩週內完成產品端替換。”（南方都市報）"
+    },
     {
       "id": "5036699",
       "time": "2026-08-12 10:20:12",
