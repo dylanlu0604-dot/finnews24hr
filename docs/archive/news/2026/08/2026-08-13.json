@@ -1,7 +1,63 @@
 {
   "date": "2026-08-13",
-  "count": 62,
+  "count": 67,
   "items": [
+    {
+      "id": "mkt:019ff6f3-87d7-7aab-9011-c73060a306ef",
+      "time": "2026-08-13 01:09:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port."
+    },
+    {
+      "id": "5038056",
+      "time": "2026-08-13 01:09:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。"
+    },
+    {
+      "id": "mkt:019ff6f1-1c52-7aab-9011-b80a795e7348",
+      "time": "2026-08-13 01:07:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%."
+    },
+    {
+      "id": "5038055",
+      "time": "2026-08-13 01:06:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。"
+    },
+    {
+      "id": "mkt:019ff6f0-8aca-7aab-9011-b3116b222d70",
+      "time": "2026-08-13 01:06:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury auction yield hits highest since 2007."
+    },
     {
       "id": "5038054",
       "time": "2026-08-13 01:05:52",

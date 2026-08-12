@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-13 01:06:43",
-  "count": 15088,
+  "updated": "2026-08-13 01:10:40",
+  "count": 15084,
   "items": [
+    {
+      "id": "mkt:019ff6f3-87d7-7aab-9011-c73060a306ef",
+      "time": "2026-08-13 01:09:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "SBU said Ukrainian forces struck three warships and other facilities in an attack on Russia's Novorossiysk port."
+    },
+    {
+      "id": "5038056",
+      "time": "2026-08-13 01:09:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國家安全域性（SBU）稱，烏軍在襲擊俄羅斯新羅西斯克港口行動中打擊三艘軍艦及其他設施。"
+    },
+    {
+      "id": "mkt:019ff6f1-1c52-7aab-9011-b80a795e7348",
+      "time": "2026-08-13 01:07:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury yield was little changed after the auction, edging down 1bp to 4.67%."
+    },
+    {
+      "id": "5038055",
+      "time": "2026-08-13 01:06:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 10 年期國債拍賣結束後，美債收益率基本持平；10 年期收益率下行 1 個基點，報 4.67%。"
+    },
+    {
+      "id": "mkt:019ff6f0-8aca-7aab-9011-b3116b222d70",
+      "time": "2026-08-13 01:06:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 10-year Treasury auction yield hits highest since 2007."
+    },
     {
       "id": "5038054",
       "time": "2026-08-13 01:05:52",
@@ -137606,83 +137662,6 @@
         "Important"
       ],
       "text": "Iran's deputy foreign minister said there have been no recent negotiations with the United States."
-    },
-    {
-      "id": "5027395",
-      "time": "2026-08-06 01:10:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：我們目前與阿曼所做的工作，涉及有關霍爾木茲海峽應遵循的路徑。"
-    },
-    {
-      "id": "mkt:019fd2e7-a8cd-7aab-8f91-fa7e45f49de1",
-      "time": "2026-08-06 01:10:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said the US signaled in communications that it is ready to return to its commitments."
-    },
-    {
-      "id": "5027394",
-      "time": "2026-08-06 01:09:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗：美國在（最新）訊息中表示願意履行自身承諾。"
-    },
-    {
-      "id": "5027393",
-      "time": "2026-08-06 01:08:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗收到來自美國的資訊。"
-    },
-    {
-      "id": "5027392",
-      "time": "2026-08-06 01:07:56",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長：新一輪衝突爆發大約四至五天後，美國傳遞資訊，請求開展談判、解決相關問題。任何涉及霍爾木茲海峽的協議都應當僅限於伊朗與阿曼之間達成。我們不會接受任何外部勢力干涉霍爾木茲海峽事務。新協議落地後，霍爾木茲海峽現行臨時航道將會關閉。船舶進出伊朗領海的大部分航線都將行經該水域。"
-    },
-    {
-      "id": "mkt:019fd2e5-2b3a-7aab-8f91-f363141a11df",
-      "time": "2026-08-06 01:07:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said about 4-5 days after the new round of conflict began, the United States sent messages requesting negotiations to resolve related issues."
-    },
-    {
-      "id": "5027391",
-      "time": "2026-08-06 01:07:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：美國同樣對伊朗實施了新制裁，並停止了關於釋放伊朗凍結資金的談判。"
-    },
-    {
-      "id": "5027390",
-      "time": "2026-08-06 01:07:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：以色列國防軍計程車兵是世界上最勇敢、最恪守道義，同時也是遭受誹謗最多的軍人。絕不能讓來自境外的不實指控在我們本國社會內部擴散。"
-    },
-    {
-      "id": "5027389",
-      "time": "2026-08-06 01:06:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：需要在黎巴嫩採取更堅決、更顯著的回應。"
     }
   ]
 }
