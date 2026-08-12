@@ -1,7 +1,147 @@
 {
   "date": "2026-08-12",
-  "count": 2213,
+  "count": 2227,
   "items": [
+    {
+      "id": "5037715",
+      "time": "2026-08-12 20:20:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月12日，收盤價為2.353元，收盤時基金份額參考淨值為2.1583元。若8月13日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "5037714",
+      "time": "2026-08-12 20:20:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【風華高科：登出952.28萬股回購股份 通知債權人申報債權】風華高科公告稱，公司已審議透過登出回購股份、減少註冊資本暨修訂《公司章程》的議案，將登出回購專用證券賬戶中的9,522,792股股份。登出完成後，公司總股本將由1,157,013,211股減至1,147,490,419股，註冊資本由1,157,013,211.00元減至1,147,490,419.00元。公司通知債權人，自公告披露日起45日內可申報債權，申報方式有現場、郵寄、郵件三種。"
+    },
+    {
+      "id": "5037713",
+      "time": "2026-08-12 20:20:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【招商基金：旗下部分公募基金參與宇樹科技A股申購】招商基金公告稱，旗下部分公募基金參與宇樹科技首次公開發行A股申購，此次發行主承銷商中信證券是部分公募基金託管人或託管人關聯方，發行價150.80元/股。涉及關聯關係的公募基金獲配資訊為：招商中證消費電子主題ETF獲配334股，金額50,367.2元；招商中證雲端計算與大資料主題ETF獲配869股，金額131,045.2元；招商上證科創板50成份增強策略ETF獲配200股，金額30,160元；招商中證500等權重指數增強型基金獲配1,170股，金額176,436元。"
+    },
+    {
+      "id": "mkt:019ff5ea-74eb-7aab-900a-2b4d60d69078",
+      "time": "2026-08-12 20:20:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OECD oil inventories fell 26.4 mln barrels in June to 2.73 bln barrels."
+    },
+    {
+      "id": "5037712",
+      "time": "2026-08-12 20:20:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國經濟體制改革研究會副會長樊綱：經歷多輪波動，房企對市場的敬畏心明顯提升】8月12日，觀點“2026博鰲系列活動”正式開幕，中國經濟體制改革研究會副會長、國民經濟研究所所長樊綱在演講中表示，中國已告別廉價勞動力比較優勢，但透過後發優勢成功轉化為創新能力，形成新增長動力。雖然當前增速放緩，但中國擁有新的增長點，新技術和產業正在成長。同時，要注意用好城市化政策，讓外來勞動人口真正融入城市，釋放需求潛力。總體看，中國經濟正處於新舊動能轉換期，具備持續發展的基礎，應當保持信心。（每經）"
+    },
+    {
+      "id": "mkt:019ff5ea-6545-7aab-900a-2789f4d167e2",
+      "time": "2026-08-12 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "U.S. July CPI due in 10 minutes: seasonally adjusted headline and core CPI MoM, and unadjusted headline and core CPI YoY."
+    },
+    {
+      "id": "5037711",
+      "time": "2026-08-12 20:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省公佈招標投標領域不正之風和腐敗問題典型案例】為進一步發揮典型案例警示教育作用，深化拓展招標投標領域突出問題系統整治成效，持續釋放以案促改、以案促治效能，不斷淨化招標投標市場環境，貴州省紀委監委12日通報了7起招標投標領域查處的典型案例。（新華社）"
+    },
+    {
+      "id": "mkt:019ff5e9-f93a-7aab-900a-1a2f54257665",
+      "time": "2026-08-12 20:19:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's Prime Minister Magyar said the government has decided to build a bottom weir on the Danube."
+    },
+    {
+      "id": "mkt:019ff5e9-c2d7-7aab-900a-15891d5f3a9f",
+      "time": "2026-08-12 20:19:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report revised down its 2026 demand estimate for crude from Declaration of Cooperation (DoC) members to 42.1 mln b/d."
+    },
+    {
+      "id": "mkt:019ff5e8-aca7-7aab-900a-0811b5b26396",
+      "time": "2026-08-12 20:18:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "WTI"
+      ],
+      "text": "OPEC monthly report maintained its 2027 forecast for OPEC crude demand at 43.6 mln b/d."
+    },
+    {
+      "id": "mkt:019ff5e8-9c06-7aab-900a-07a920934fc6",
+      "time": "2026-08-12 20:18:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y"
+      ],
+      "text": "【OPEC: Global refining margins jump to multi-year highs; diesel cracks lead gains】OPEC's monthly report shows July refining margins at the three major hubs (US Gulf, Rotterdam, Singapore) rose sharply to multi-year highs. Rotterdam margins surged $17.88/bbl MoM to $42.13/bbl, the largest monthly rise; US Gulf margins reached $45.70/bbl, the highest since Oct 2022. The report attributes the margin expansion to a rebound in middle-distillate (diesel) cracks after East European refinery outages, Russia's diesel export ban and Middle East geopolitical tensions tightened global diesel supply."
+    },
+    {
+      "id": "5037710",
+      "time": "2026-08-12 20:18:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "SCHOTT製藥股價下跌高達5.8%。"
+    },
+    {
+      "id": "5037709",
+      "time": "2026-08-12 20:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國對德進口依賴下降，歐洲多國加速補位】當德國對華出口陷入負增長，法國、義大利、匈牙利等國對華出口卻以兩位數增速逆勢上揚——中國從歐洲進口及整個對歐貿易版圖，正在被重新繪製。海關總署資料顯示，2026年1-6月，中國對歐洲進出口同比增長18.6%，出口增長14%，進口增長26.3%。同期，中國對德國進出口同比增長7.6%，其中出口增長14.8%，進口卻收縮1.7%。中國對德進口依賴下降的同時，歐洲多國加速補位。德國聯邦外貿與投資署（GTAI）近日公佈的初步資料也顯示，今年1-6月，德國對華出口同比下降超過12%，至略低於370億歐元，讓中國從2021年的德國第二大出口市場淪為其第九大市場。GTAI東亞專家科琳·阿貝爾認為，德國對華出口下降的原因是德國經濟疲軟以及中國越來越重視國內價值鏈。與此同時，德國企業現在越來越多地在中國國內生產並銷售。（第一財經）"
+    },
+    {
+      "id": "5037708",
+      "time": "2026-08-12 20:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐新能源：預計2026年上半年淨利潤同比減少約58%至60%】大唐新能源公告，根據截至2026年6月30日止六個月未經審計綜合管理賬目的初步測算，集團預期錄得歸屬於母公司所有者應占淨利潤介乎約人民幣6.75億元至7.05億元，較2025年同期減少約58%至60%。預期下降主要受2026年上半年部分割槽域風資源水平同比下降、部分割槽域消納形勢不及預期及市場交易電價波動等因素綜合影響所致。"
+    },
     {
       "id": "5037707",
       "time": "2026-08-12 20:16:28",

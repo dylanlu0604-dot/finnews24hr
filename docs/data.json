@@ -1,7 +1,147 @@
 {
-  "updated": "2026-08-12 20:17:42",
-  "count": 15103,
+  "updated": "2026-08-12 20:21:40",
+  "count": 15093,
   "items": [
+    {
+      "id": "5037715",
+      "time": "2026-08-12 20:20:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納斯達克100ETF招商：提示二級市場交易價格溢價風險】納斯達克100ETF招商公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年8月12日，收盤價為2.353元，收盤時基金份額參考淨值為2.1583元。若8月13日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "5037714",
+      "time": "2026-08-12 20:20:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【風華高科：登出952.28萬股回購股份 通知債權人申報債權】風華高科公告稱，公司已審議透過登出回購股份、減少註冊資本暨修訂《公司章程》的議案，將登出回購專用證券賬戶中的9,522,792股股份。登出完成後，公司總股本將由1,157,013,211股減至1,147,490,419股，註冊資本由1,157,013,211.00元減至1,147,490,419.00元。公司通知債權人，自公告披露日起45日內可申報債權，申報方式有現場、郵寄、郵件三種。"
+    },
+    {
+      "id": "5037713",
+      "time": "2026-08-12 20:20:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【招商基金：旗下部分公募基金參與宇樹科技A股申購】招商基金公告稱，旗下部分公募基金參與宇樹科技首次公開發行A股申購，此次發行主承銷商中信證券是部分公募基金託管人或託管人關聯方，發行價150.80元/股。涉及關聯關係的公募基金獲配資訊為：招商中證消費電子主題ETF獲配334股，金額50,367.2元；招商中證雲端計算與大資料主題ETF獲配869股，金額131,045.2元；招商上證科創板50成份增強策略ETF獲配200股，金額30,160元；招商中證500等權重指數增強型基金獲配1,170股，金額176,436元。"
+    },
+    {
+      "id": "mkt:019ff5ea-74eb-7aab-900a-2b4d60d69078",
+      "time": "2026-08-12 20:20:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OECD oil inventories fell 26.4 mln barrels in June to 2.73 bln barrels."
+    },
+    {
+      "id": "5037712",
+      "time": "2026-08-12 20:20:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國經濟體制改革研究會副會長樊綱：經歷多輪波動，房企對市場的敬畏心明顯提升】8月12日，觀點“2026博鰲系列活動”正式開幕，中國經濟體制改革研究會副會長、國民經濟研究所所長樊綱在演講中表示，中國已告別廉價勞動力比較優勢，但透過後發優勢成功轉化為創新能力，形成新增長動力。雖然當前增速放緩，但中國擁有新的增長點，新技術和產業正在成長。同時，要注意用好城市化政策，讓外來勞動人口真正融入城市，釋放需求潛力。總體看，中國經濟正處於新舊動能轉換期，具備持續發展的基礎，應當保持信心。（每經）"
+    },
+    {
+      "id": "mkt:019ff5ea-6545-7aab-900a-2789f4d167e2",
+      "time": "2026-08-12 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "U.S. July CPI due in 10 minutes: seasonally adjusted headline and core CPI MoM, and unadjusted headline and core CPI YoY."
+    },
+    {
+      "id": "5037711",
+      "time": "2026-08-12 20:19:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省公佈招標投標領域不正之風和腐敗問題典型案例】為進一步發揮典型案例警示教育作用，深化拓展招標投標領域突出問題系統整治成效，持續釋放以案促改、以案促治效能，不斷淨化招標投標市場環境，貴州省紀委監委12日通報了7起招標投標領域查處的典型案例。（新華社）"
+    },
+    {
+      "id": "mkt:019ff5e9-f93a-7aab-900a-1a2f54257665",
+      "time": "2026-08-12 20:19:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's Prime Minister Magyar said the government has decided to build a bottom weir on the Danube."
+    },
+    {
+      "id": "mkt:019ff5e9-c2d7-7aab-900a-15891d5f3a9f",
+      "time": "2026-08-12 20:19:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report revised down its 2026 demand estimate for crude from Declaration of Cooperation (DoC) members to 42.1 mln b/d."
+    },
+    {
+      "id": "mkt:019ff5e8-aca7-7aab-900a-0811b5b26396",
+      "time": "2026-08-12 20:18:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "WTI"
+      ],
+      "text": "OPEC monthly report maintained its 2027 forecast for OPEC crude demand at 43.6 mln b/d."
+    },
+    {
+      "id": "mkt:019ff5e8-9c06-7aab-900a-07a920934fc6",
+      "time": "2026-08-12 20:18:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "US10Y"
+      ],
+      "text": "【OPEC: Global refining margins jump to multi-year highs; diesel cracks lead gains】OPEC's monthly report shows July refining margins at the three major hubs (US Gulf, Rotterdam, Singapore) rose sharply to multi-year highs. Rotterdam margins surged $17.88/bbl MoM to $42.13/bbl, the largest monthly rise; US Gulf margins reached $45.70/bbl, the highest since Oct 2022. The report attributes the margin expansion to a rebound in middle-distillate (diesel) cracks after East European refinery outages, Russia's diesel export ban and Middle East geopolitical tensions tightened global diesel supply."
+    },
+    {
+      "id": "5037710",
+      "time": "2026-08-12 20:18:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "SCHOTT製藥股價下跌高達5.8%。"
+    },
+    {
+      "id": "5037709",
+      "time": "2026-08-12 20:18:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國對德進口依賴下降，歐洲多國加速補位】當德國對華出口陷入負增長，法國、義大利、匈牙利等國對華出口卻以兩位數增速逆勢上揚——中國從歐洲進口及整個對歐貿易版圖，正在被重新繪製。海關總署資料顯示，2026年1-6月，中國對歐洲進出口同比增長18.6%，出口增長14%，進口增長26.3%。同期，中國對德國進出口同比增長7.6%，其中出口增長14.8%，進口卻收縮1.7%。中國對德進口依賴下降的同時，歐洲多國加速補位。德國聯邦外貿與投資署（GTAI）近日公佈的初步資料也顯示，今年1-6月，德國對華出口同比下降超過12%，至略低於370億歐元，讓中國從2021年的德國第二大出口市場淪為其第九大市場。GTAI東亞專家科琳·阿貝爾認為，德國對華出口下降的原因是德國經濟疲軟以及中國越來越重視國內價值鏈。與此同時，德國企業現在越來越多地在中國國內生產並銷售。（第一財經）"
+    },
+    {
+      "id": "5037708",
+      "time": "2026-08-12 20:17:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐新能源：預計2026年上半年淨利潤同比減少約58%至60%】大唐新能源公告，根據截至2026年6月30日止六個月未經審計綜合管理賬目的初步測算，集團預期錄得歸屬於母公司所有者應占淨利潤介乎約人民幣6.75億元至7.05億元，較2025年同期減少約58%至60%。預期下降主要受2026年上半年部分割槽域風資源水平同比下降、部分割槽域消納形勢不及預期及市場交易電價波動等因素綜合影響所致。"
+    },
     {
       "id": "5037707",
       "time": "2026-08-12 20:16:28",
@@ -137380,251 +137520,6 @@
         "國際"
       ],
       "text": "【印尼央行：人民幣佔本幣交易逾八成 擬進一步擴大對華結算合作】印尼央行計劃近期進一步落實並擴大與中國內地及香港的本幣交易(LCT)合作，以建立完整的印尼盾與人民幣貨幣及外匯市場生態。印尼央行表示，2026年6月，印尼盾與人民幣交易約佔LCT交易總額的81%。這一增長“表明，印尼盾與人民幣直接結算作為經由第三方貨幣進行交易的替代方式，重要性正日益上升”。"
-    },
-    {
-      "id": "5026986",
-      "time": "2026-08-05 20:21:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4210美元/盎司，日內漲3.27%。"
-    },
-    {
-      "id": "5026985",
-      "time": "2026-08-05 20:21:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4270美元/盎司，日內漲2.84%。"
-    },
-    {
-      "id": "5026984",
-      "time": "2026-08-05 20:21:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "西部證券股份有限公司給予中國人壽A股買進的初始評級。"
-    },
-    {
-      "id": "5026983",
-      "time": "2026-08-05 20:21:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "優步執行長表示，希望確保公司不依賴單一合作伙伴。"
-    },
-    {
-      "id": "5026982",
-      "time": "2026-08-05 20:20:54",
-      "tags": [
-        "資料"
-      ],
-      "text": "【7月份轉職者薪資增長加速】ADP報告：7月份，轉職者薪資增長加速。上個月，留任員工的薪資漲幅保持在4.4%，而轉職者的薪資增長則升至7%，創下自2025年8月以來的最大同比增幅。\n\n7月金融服務業就業人員薪資增速年率中值為5.2%，6月為5.1%。\n7月製造業就業人員薪資增速年率中值為5%，6月為4.9%。\n7月專業/商業服務就業人員薪資增速年率中值為4.1%，6月為4.1%。\n7月建築業就業人員薪資增速年率中值為4.5%，6月為4.6%。\n7月貿易/運輸/公用事業就業人員薪資增速年率中值為4.4%，6月為4.4%。\n\nADP首席經濟學家Nela Richardson表示：求職者對實時經濟狀況高度敏感，他們的快速薪酬增長意味著部分勞動力市場存在供給限制。與此同時，隨著僱主對宏觀經濟環境變化做出反應，典型的招聘模式也在發生變化。"
-    },
-    {
-      "id": "mkt:019fd1de-5d1a-7aab-8f8b-847aed24bc3d",
-      "time": "2026-08-05 20:20:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Mexico's president sheinbaum is considering piloting hydraulic fracturing projects."
-    },
-    {
-      "id": "5026981",
-      "time": "2026-08-05 20:20:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆正在考量水力壓裂試點專案。"
-    },
-    {
-      "id": "mkt:019fd1dd-a2aa-7aab-8f8b-78a266523f59",
-      "time": "2026-08-05 20:19:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BeamR has introduced NVIDIA (NVDA.O) video super-resolution technology into live sports broadcasts."
-    },
-    {
-      "id": "5026980",
-      "time": "2026-08-05 20:19:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盈方微：擬以1038.72萬元轉讓長興芯元100%股權】盈方微公告，公司於2026年8月5日召開董事會審議透過議案，同意將持有的長興芯元工業科技有限公司100%股權以1038.72萬元人民幣轉讓給長興鑫元企業諮詢有限公司，並簽署《股權轉讓協議》。本次轉讓完成後，公司不再持有長興芯元股權，不再將其納入合併報表範圍。標的公司股東全部權益價值評估值為1038.72萬元，評估增值30.73%。"
-    },
-    {
-      "id": "mkt:019fd1dd-2272-7aab-8f8b-758de1bb6c5a",
-      "time": "2026-08-05 20:19:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "ADP report: median annualized wage growth for financial-services employees 5.2% in July, up from 5.1% in June."
-    },
-    {
-      "id": "5026979",
-      "time": "2026-08-05 20:19:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌洽談超 15 億美元交易：吸納 Mechanize 人才並獲取技術非獨佔授權】四名瞭解相關談判的知情人士透露，科技巨頭谷歌近幾週一直在與舊金山初創企業 Mechanize 開展磋商，潛在交易將涉及谷歌吸納 Mechanize 部分人才。部分知情人士稱，這筆交易估值超過 15 億美元，談判仍在推進，細節或發生變動。一名知情人士表示，作為交易的一部分，谷歌正在洽談 Mechanize 技術的非獨佔授權協議。該人士補充稱，谷歌從 Mechanize 吸納的人才將從事模型評估與開發工作。此次談判折射出人工智慧熱潮下的兩大現實：程式碼開發已經成為人工智慧最重要、利潤最高的應用場景之一；各大科技巨頭正另闢蹊徑，獲取維持競爭力所需的人才與技術。這並非谷歌首次採用變通方案獲取人才和技術。過去兩年，谷歌多次採用混合交易模式完成收購，透過人才收購吸納團隊，同時藉助授權等方式獲取技術。企業採取這類做法，有時是為了規避全額收購帶來的反壟斷審查。"
-    },
-    {
-      "id": "mkt:019fd1dd-0deb-7aab-8f8b-6cff90ce85ad",
-      "time": "2026-08-05 20:19:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "ADP report: median annualized wage growth for manufacturing employees 5.0% in July, up from 4.9% in June."
-    },
-    {
-      "id": "mkt:019fd1dc-ec49-7aab-8f8b-6540c7de8368",
-      "time": "2026-08-05 20:19:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "ADP report: July median YoY wage growth for professional and business services employees 4.1%, unchanged from June."
-    },
-    {
-      "id": "mkt:019fd1dc-c65f-7aab-8f8b-5e2e0ae48ab3",
-      "time": "2026-08-05 20:18:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "ADP report: median YoY wage growth in construction slowed to 4.5% in July from 4.6% in June."
-    },
-    {
-      "id": "mkt:019fd1dc-9319-7aab-8f8b-5694a8fe1d20",
-      "time": "2026-08-05 20:18:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "ADP report: Median YoY wage growth for trade, transportation and utilities employees 4.4% in July, unchanged from June."
-    },
-    {
-      "id": "5026978",
-      "time": "2026-08-05 20:18:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "《紐約時報》高管：調整後運營成本上升10%，主要由薪酬與福利支出增加所致。"
-    },
-    {
-      "id": "mkt:019fd1dc-8172-7aab-8f8b-48106d82c880",
-      "time": "2026-08-05 20:18:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "ADP report: In July pay growth accelerated for job-switchers; pay for stayers held at 4.4% YoY, while job-switchers’ pay rose to 7% YoY, the largest YoY increase since August 2025."
-    },
-    {
-      "id": "te:economy:573043",
-      "time": "2026-08-05 20:18:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "ADP Employment Change",
-        "Importance 3"
-      ],
-      "text": "US Private Employment Growth Slows in July — Private businesses in the US added 44K jobs in July 2026, the least in six months, following a downwardly revised 95K gain in June and below forecasts of 70K. All of the gains came from the services sector, which added 47K while goods-producing companies see a decline of 3K."
-    },
-    {
-      "id": "5026977",
-      "time": "2026-08-05 20:18:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "《紐約時報》高管：本季度廣告客戶對我們高績效廣告產品的需求超出了我們的預期。"
-    },
-    {
-      "id": "mkt:019fd1dc-21ae-7aab-8f8b-439dfaf7fe75",
-      "time": "2026-08-05 20:18:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "ADP report: employment in financial services rose 10,000 in July, following a 14,000 increase in June."
-    },
-    {
-      "id": "mkt:019fd1dc-1c24-7aab-8f8b-3edbc6fa484c",
-      "time": "2026-08-05 20:18:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Business Insider reports Google (GOOG.O) is in talks with AI programming-agent startup Mechanize on a transaction valued at more than $1.5 billion."
-    },
-    {
-      "id": "mkt:019fd1db-ee85-7aab-8f8b-3784552c7285",
-      "time": "2026-08-05 20:17:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ADP report: manufacturing employment rose by 2,000 in July, after a 5,000 gain in June."
-    },
-    {
-      "id": "mkt:019fd1db-df04-7aab-8f8b-298dad16e529",
-      "time": "2026-08-05 20:17:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ADP report: Professional and business services jobs increased by 9,000 in July and by 2,000 in June."
-    },
-    {
-      "id": "mkt:019fd1db-ae06-7aab-8f8b-21c31fcd1cee",
-      "time": "2026-08-05 20:17:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "ADP report: construction employment rose by 1,000 in July and by 2,000 in June."
     }
   ]
 }
