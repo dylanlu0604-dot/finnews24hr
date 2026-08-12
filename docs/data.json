@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-12 23:26:42",
+  "updated": "2026-08-12 23:30:45",
   "count": 15137,
   "items": [
+    {
+      "id": "te:markets:574799",
+      "time": "2026-08-12 23:28:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Extends Losses for 3rd Session — The FTSE 100 extended its modest losses for a third consecutive session on Wednesday as investors awaited further developments in the Middle East and assessed the latest US inflation data. The index was weighed down by weakness in major oil and pharmaceutical stocks, with Shell and BP falling more than 1% each, while AstraZeneca dropped 1.5% and GSK declined 2.1%. Unilever also fell more than 1%. Tesco was among the biggest decliners, losing more than 2% after Shore Capital downgraded the retailer to “hold.” Meanwhile, US inflation data came in broadly in line with expectations, easing concerns over an imminent Federal Reserve rate hike and providing some relief amid persistent geopolitical uncertainty. Brent crude fluctuated on Wednesday but remained elevated after recent gains, as uncertainty continued over the prospects of an agreement to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ff697-0313-7aab-9010-590b65c8a236",
+      "time": "2026-08-12 23:28:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI launches Grok 4.6."
+    },
+    {
+      "id": "5038009",
+      "time": "2026-08-12 23:28:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：推出Grok 4.6。"
+    },
+    {
+      "id": "mkt:019ff696-2fc5-7aab-9010-5465b8b80d69",
+      "time": "2026-08-12 23:27:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Pakistani mediators are seeking to extend the US-Iran 60-day ceasefire, Saudi Al Arabiya TV reports."
+    },
     {
       "id": "5038008",
       "time": "2026-08-12 23:25:43",
@@ -138088,41 +138128,6 @@
         "國際"
       ],
       "text": "伊朗總統發言人：（總統將）就過去兩年發生的種種事情，進行一次坦率、明晰且詳盡的敘述。總統佩澤希其揚關於總統履職與為國服務的報告；這份詳盡報告的第一部分將於今晚播出並對外發布。"
-    },
-    {
-      "id": "te:economy:573093",
-      "time": "2026-08-05 23:30:03",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: South Korea 10Y Bond Yield Falls by 12 bps — Majority of government bonds yields are lower on Wednesday. Top losers are South Korea 10Y (-11.50bps), Japan 10Y (-4.91bps) and Germany 10Y (-1.37bps). Gains are led by US 10Y (1.40bps)."
-    },
-    {
-      "id": "5027308",
-      "time": "2026-08-05 23:28:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄圖拉州州長通報：俄羅斯電商Wildberries（野莓）當地倉庫火情已被撲滅。"
-    },
-    {
-      "id": "5027307",
-      "time": "2026-08-05 23:27:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍襲擊黎巴嫩南部 已致1死12傷】當地時間8月5日，黎巴嫩公共衛生部緊急行動中心表示，以色列國防軍當天對黎巴嫩南部提卜寧（Tebnine）發動襲擊，造成1人死亡、12人受傷。（央視新聞）"
-    },
-    {
-      "id": "5027306",
-      "time": "2026-08-05 23:27:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列與多個海灣國家磋商油氣出口備選通道，謀求繞開霍爾木茲海峽與曼德海峽。"
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
   "date": "2026-08-12",
-  "count": 2746,
+  "count": 2750,
   "items": [
+    {
+      "id": "te:markets:574799",
+      "time": "2026-08-12 23:28:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Extends Losses for 3rd Session — The FTSE 100 extended its modest losses for a third consecutive session on Wednesday as investors awaited further developments in the Middle East and assessed the latest US inflation data. The index was weighed down by weakness in major oil and pharmaceutical stocks, with Shell and BP falling more than 1% each, while AstraZeneca dropped 1.5% and GSK declined 2.1%. Unilever also fell more than 1%. Tesco was among the biggest decliners, losing more than 2% after Shore Capital downgraded the retailer to “hold.” Meanwhile, US inflation data came in broadly in line with expectations, easing concerns over an imminent Federal Reserve rate hike and providing some relief amid persistent geopolitical uncertainty. Brent crude fluctuated on Wednesday but remained elevated after recent gains, as uncertainty continued over the prospects of an agreement to reopen the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ff697-0313-7aab-9010-590b65c8a236",
+      "time": "2026-08-12 23:28:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI launches Grok 4.6."
+    },
+    {
+      "id": "5038009",
+      "time": "2026-08-12 23:28:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：推出Grok 4.6。"
+    },
+    {
+      "id": "mkt:019ff696-2fc5-7aab-9010-5465b8b80d69",
+      "time": "2026-08-12 23:27:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Pakistani mediators are seeking to extend the US-Iran 60-day ceasefire, Saudi Al Arabiya TV reports."
+    },
     {
       "id": "5038008",
       "time": "2026-08-12 23:25:43",
