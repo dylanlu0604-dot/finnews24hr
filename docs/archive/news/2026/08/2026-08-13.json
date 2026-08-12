@@ -1,7 +1,39 @@
 {
   "date": "2026-08-13",
-  "count": 324,
+  "count": 328,
   "items": [
+    {
+      "id": "5038217",
+      "time": "2026-08-13 07:23:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美戰略石油儲備不足3億桶 創43年來新低】美國能源資訊局12日釋出的周度石油庫存資料顯示，在截至本月7日的一週，美國戰略石油儲備規模進一步降至2.987億桶，為1983年1月以來的最低水平。"
+    },
+    {
+      "id": "5038216",
+      "time": "2026-08-13 07:21:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI伺服器液冷投資向零部件縱深傳導 液冷產業鏈迎訂單驗證關鍵視窗】隨著AI晶片功耗和整櫃功率密度持續攀升，液冷正從資料中心的節能選項躍升為高密度算力叢集的基礎配置。強瑞技術日前公告擬定增募資不超過10.5億元，重點投向AI伺服器精密液冷部件及自動化組裝、檢測裝置產能建設；飛榮達上半年業績預告顯示液冷相關業務量價齊升，中航光電、鼎通科技等公司也在液冷聯結器、高速部件領域加速海外客戶認證。業內普遍認為，行業競爭正從早期的技術路線之爭，轉向部件一致性、自動化組裝能力、系統測試能力與海外批次交付資格的比拼，液冷產業鏈正迎來訂單驗證與產能兌現的關鍵視窗。"
+    },
+    {
+      "id": "5038215",
+      "time": "2026-08-13 07:21:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：在俄羅斯被拘留四年多後，美國公民羅伯特·吉爾曼終於回到了美國的土地上。 感謝特朗普政府，又一位美國人安全回到了他所屬的地方。"
+    },
+    {
+      "id": "mkt:019ff846-fdd7-7aab-9014-619c3c03bfb4",
+      "time": "2026-08-13 07:20:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Ukrainian drone units easily prevailed in U.S.-Ukraine joint exercise】The Wall Street Journal reports that during a joint military exercise in Germany earlier this year, called Combined Resolve, Ukrainian drone operators easily detected and defeated U.S. troops and armored vehicles rotated from Fort Hood, Texas."
+    },
     {
       "id": "5038214",
       "time": "2026-08-13 07:19:47",
