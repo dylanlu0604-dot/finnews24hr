@@ -1,7 +1,53 @@
 {
-  "updated": "2026-08-13 07:50:53",
-  "count": 15032,
+  "updated": "2026-08-13 07:54:41",
+  "count": 15033,
   "items": [
+    {
+      "id": "5038246",
+      "time": "2026-08-13 07:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4470美元/盎司，日內漲0.04%。"
+    },
+    {
+      "id": "5038245",
+      "time": "2026-08-13 07:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會主席豪爾赫·羅德里格斯：政府與反對派首輪會談結束。"
+    },
+    {
+      "id": "te:markets:574840",
+      "time": "2026-08-13 07:52:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%."
+    },
+    {
+      "id": "5038244",
+      "time": "2026-08-13 07:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船廣船國際：訂單生產排期至2030年】在全球船舶工業加快向高階化、綠色化、智慧化演進的背景下，地處廣州南沙的中國船舶集團廣船國際有限公司，正逐漸成長為我國高階船舶製造的重要力量。中船廣船國際營銷總監李濤介紹，中船廣船國際目前已形成油船、集裝箱船、滾裝船、高階客滾船、半潛船、極地船等“三優三特”產品矩陣，在多個細分市場居於全球前列。2025年，公司營收達202億元，手持訂單總額突破1000億元，國際化訂單佔比超90%，生產排期已排至2030年。（經參報）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608133839734413",
+      "time": "2026-08-13 07:51:39",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月生產者價格同比增長7.2%，預估為7.4%。"
+    },
     {
       "id": "5038243",
       "time": "2026-08-13 07:50:23",
@@ -137095,40 +137141,6 @@
         "MKT News"
       ],
       "text": "U.S. Vice President Vance said the last meeting with Netanyahu produced no conflict and was a constructive, candid discussion."
-    },
-    {
-      "id": "5027612",
-      "time": "2026-08-06 07:54:06",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中金：全球聚變產業共振，產業鏈機遇逐步顯現】中金公司研報指出，全球核聚變投資快速增長，中美多個聚變專案商業化持續推進。另外，核聚變領域企業融資活躍，產業鏈相關公司積極推進聚變業務。建議持續關注下游核聚變商業企業的專案推進與融資進展情況，以及專案招標帶來的產業鏈中上游的投資機會。"
-    },
-    {
-      "id": "5027611",
-      "time": "2026-08-06 07:53:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta的AI模型在測試期間入侵了另一家公司】Meta當地時間週三表示，其一款AI模型在網路安全測試期間入侵了另一家公司，此前其測試合作伙伴因操作失誤導致該模型意外獲得了網際網路訪問許可權。此前，Anthropic上週表示其部分模型曾入侵三家公司，OpenAI也披露其一個AI代理入侵了初創公司Hugging Face，此次事件使大型開發商的人工智慧代理在測試期間入侵其他公司系統的案例清單進一步延長。Meta表示，獨立測試公司Irregular的配置錯誤在評估過程中無意中允許其一個模型訪問網際網路，並補充稱正在調查該事件。Meta在宣告中表示，該模型“利用了第三方服務中的一個安全漏洞，其方式與此前報道的其他公司案例類似”。當天早些時候，媒體援引訊息人士的話報道稱，Meta的Muse Spark 1.1模型——該公司曾將其吹捧為最擅長現實世界程式設計和代理任務的模型——入侵了一家未具名公司並篡改了其內部系統。"
-    },
-    {
-      "id": "5027610",
-      "time": "2026-08-06 07:52:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【維立志博：維利信用於治療肝細胞癌的Ⅱ期研究進入擴充套件階段】8月6日早間，維立志博在港交所公告，公司自主研發的PD-L1/4-1BB雙特異性抗體奧帕替蘇米單抗（維利信™）一線治療肝細胞癌(HCC)Ⅱ期臨床研究經專家審議完成安全性匯入期評估，順利進入擴充套件階段。本研究由復旦大學附屬中山醫院院長、中國科學院院士周儉教授牽頭，初步資料研究顯示，奧帕替蘇米單抗聯合貝伐珠單抗在HCC患者中展現出明確且積極的療效訊號，整體安全性和耐受性良好。"
-    },
-    {
-      "id": "5027609",
-      "time": "2026-08-06 07:51:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽談判取得進展 地區危機並未徹底解決】當地時間5日晚，伊朗外交部方面宣佈，伊朗與阿曼的談判富有進展，雙方就霍爾木茲海峽通航的航線相關地理座標達成一致，並正在起草聯合宣告。分析指出，鑑於伊朗與地區國家、特別是阿曼，並無根深蒂固的敵意，因此與阿曼達成諒解備忘錄不是一項難題。該諒解備忘錄將在一定程度上緩和地區的緊張局勢，為解決中東危機提供了機遇和視窗期，但這些並不意味著地區危機的徹底解決，也不意味著伊朗與美國關係走向緩和。伊朗輿論普遍認為，在與阿曼達成諒解後，美國採取何種態度和行為非常重要。如果美國繼續對伊朗抱有敵意或威脅對伊朗發動戰爭，則地區危機將無法得到實質性緩和。但如果美國履行對伊承諾，執行在巴基斯坦斡旋下達成的諒解備忘錄條款，則伊美雙方或將就更多分歧進行分階段的接觸。（央視）"
     }
   ]
 }

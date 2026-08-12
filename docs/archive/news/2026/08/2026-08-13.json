@@ -1,7 +1,53 @@
 {
   "date": "2026-08-13",
-  "count": 363,
+  "count": 368,
   "items": [
+    {
+      "id": "5038246",
+      "time": "2026-08-13 07:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4470美元/盎司，日內漲0.04%。"
+    },
+    {
+      "id": "5038245",
+      "time": "2026-08-13 07:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會主席豪爾赫·羅德里格斯：政府與反對派首輪會談結束。"
+    },
+    {
+      "id": "te:markets:574840",
+      "time": "2026-08-13 07:52:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Mixed as Traders Assess Earnings — Dow and S&P 500 futures were little changed on Thursday, while Nasdaq 100 futures edged lower as investors digested the latest batch of tech earnings. In extended trading, Cisco Systems fell 4% after the tech firm’s sales outlook linked to the AI data center boom came in below expectations. Photonics company Coherent and AI chipmaker Cerebras Systems also declined 3% and 16%, respectively, following disappointing quarterly results. On the economic front, investors awaited Thursday’s producer inflation data after Wednesday’s consumer price index report showed relatively stable core inflation, reducing pressure on the Federal Reserve to raise interest rates. In regular trading on Wednesday, the S&P 500 and Nasdaq Composite gained 0.26% and 0.54%, respectively, while the Dow slipped 0.04%."
+    },
+    {
+      "id": "5038244",
+      "time": "2026-08-13 07:52:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船廣船國際：訂單生產排期至2030年】在全球船舶工業加快向高階化、綠色化、智慧化演進的背景下，地處廣州南沙的中國船舶集團廣船國際有限公司，正逐漸成長為我國高階船舶製造的重要力量。中船廣船國際營銷總監李濤介紹，中船廣船國際目前已形成油船、集裝箱船、滾裝船、高階客滾船、半潛船、極地船等“三優三特”產品矩陣，在多個細分市場居於全球前列。2025年，公司營收達202億元，手持訂單總額突破1000億元，國際化訂單佔比超90%，生產排期已排至2030年。（經參報）"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608133839734413",
+      "time": "2026-08-13 07:51:39",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本7月生產者價格同比增長7.2%，預估為7.4%。"
+    },
     {
       "id": "5038243",
       "time": "2026-08-13 07:50:23",
