@@ -1,7 +1,73 @@
 {
   "date": "2026-08-12",
-  "count": 662,
+  "count": 670,
   "items": [
+    {
+      "id": "5036607",
+      "time": "2026-08-12 09:25:34",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.01％，深成指跌0.04％，創業板跌0.2％。"
+    },
+    {
+      "id": "mkt:019ff393-2168-7aab-8ffd-c5e58e414a87",
+      "time": "2026-08-12 09:25:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSNBC reported U.S. Senator Amy Klobuchar won the Minnesota Democratic primary for governor."
+    },
+    {
+      "id": "mkt:019ff393-0f07-7aab-8ffd-bd426f900600",
+      "time": "2026-08-12 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened modestly lower: Shanghai Composite down 0.01%, Shenzhen Composite down 0.04%, ChiNext down 0.20%."
+    },
+    {
+      "id": "mkt:019ff392-67de-7aab-8ffd-b5ef8c94384b",
+      "time": "2026-08-12 09:24:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP projects U.S. Rep. Tom Tiffany has won the Republican nomination for Wisconsin governor."
+    },
+    {
+      "id": "te:markets:574558",
+      "time": "2026-08-12 09:24:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Holds Losses as Traders Assess Hormuz Developments — European natural gas prices hovered around €60 per MWh on Wednesday after falling in the previous session, as traders assessed diplomatic efforts to reopen the Strait of Hormuz and resume LNG flows from the Gulf. Pakistan’s defense minister said the US and Iran were “close to some sort of arrangement” over the waterway, while negotiations between Tehran and Oman were also reportedly making significant progress. However, uncertainty over a swift reopening of the strait persists, with both sides taking firmer positions. The ongoing disruption to shipping has severely constrained LNG shipments, leaving shipments from major exporter Qatar significantly delayed. Analysts expect European gas prices to keep a firm floor until storage levels show clearer signs of building toward seasonal targets before winter. Hot weather across Europe is also boosting electricity demand for cooling, adding further pressure to the market."
+    },
+    {
+      "id": "mkt:019ff391-fdc6-7aab-8ffd-a8cbc98890a5",
+      "time": "2026-08-12 09:24:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Westpac: further rate hikes not RBA baseline】Westpac chief economist Luci Ellis said further increases by the Reserve Bank of Australia are not the baseline. The RBA left the cash rate at 4.35% on Tuesday and used hawkish language on inflation-transmission risks and potential external shocks, but Ellis, a former RBA senior manager, said the bank’s own forecasts show inflation easing slowly toward target and this is not a forecast path that supports further rate increases."
+    },
+    {
+      "id": "5036606",
+      "time": "2026-08-12 09:22:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧德賽預售票房破9000萬】據燈塔專業版實時資料，截至8月12日9時10分，影片《奧德賽》點映及預售總票房突破9000萬。"
+    },
     {
       "id": "5036605",
       "time": "2026-08-12 09:21:50",
@@ -56,6 +122,15 @@
         "01698.HK"
       ],
       "text": "Hong Kong stocks opened lower: the Hang Seng Index fell 0.6% and the Hang Seng Tech Index fell 0.8%. Gold shares mostly opened higher. Tencent Music (01698.HK) opened down 11.41% after reporting Q2 total revenue of 8.93 bln yuan, up 5.8% YoY, and increasing its buyback to $400m."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123838742464",
+      "time": "2026-08-12 09:21:18",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月12日7天期逆回購操作量為零。"
     },
     {
       "id": "5036603",

@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-12 09:22:33",
-  "count": 15401,
+  "updated": "2026-08-12 09:26:30",
+  "count": 15399,
   "items": [
+    {
+      "id": "5036607",
+      "time": "2026-08-12 09:25:34",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.01％，深成指跌0.04％，創業板跌0.2％。"
+    },
+    {
+      "id": "mkt:019ff393-2168-7aab-8ffd-c5e58e414a87",
+      "time": "2026-08-12 09:25:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSNBC reported U.S. Senator Amy Klobuchar won the Minnesota Democratic primary for governor."
+    },
+    {
+      "id": "mkt:019ff393-0f07-7aab-8ffd-bd426f900600",
+      "time": "2026-08-12 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China A-shares opened modestly lower: Shanghai Composite down 0.01%, Shenzhen Composite down 0.04%, ChiNext down 0.20%."
+    },
+    {
+      "id": "mkt:019ff392-67de-7aab-8ffd-b5ef8c94384b",
+      "time": "2026-08-12 09:24:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AP projects U.S. Rep. Tom Tiffany has won the Republican nomination for Wisconsin governor."
+    },
+    {
+      "id": "te:markets:574558",
+      "time": "2026-08-12 09:24:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Holds Losses as Traders Assess Hormuz Developments — European natural gas prices hovered around €60 per MWh on Wednesday after falling in the previous session, as traders assessed diplomatic efforts to reopen the Strait of Hormuz and resume LNG flows from the Gulf. Pakistan’s defense minister said the US and Iran were “close to some sort of arrangement” over the waterway, while negotiations between Tehran and Oman were also reportedly making significant progress. However, uncertainty over a swift reopening of the strait persists, with both sides taking firmer positions. The ongoing disruption to shipping has severely constrained LNG shipments, leaving shipments from major exporter Qatar significantly delayed. Analysts expect European gas prices to keep a firm floor until storage levels show clearer signs of building toward seasonal targets before winter. Hot weather across Europe is also boosting electricity demand for cooling, adding further pressure to the market."
+    },
+    {
+      "id": "mkt:019ff391-fdc6-7aab-8ffd-a8cbc98890a5",
+      "time": "2026-08-12 09:24:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Westpac: further rate hikes not RBA baseline】Westpac chief economist Luci Ellis said further increases by the Reserve Bank of Australia are not the baseline. The RBA left the cash rate at 4.35% on Tuesday and used hawkish language on inflation-transmission risks and potential external shocks, but Ellis, a former RBA senior manager, said the bank’s own forecasts show inflation easing slowly toward target and this is not a forecast path that supports further rate increases."
+    },
+    {
+      "id": "5036606",
+      "time": "2026-08-12 09:22:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧德賽預售票房破9000萬】據燈塔專業版實時資料，截至8月12日9時10分，影片《奧德賽》點映及預售總票房突破9000萬。"
+    },
     {
       "id": "5036605",
       "time": "2026-08-12 09:21:50",
@@ -56,6 +122,15 @@
         "01698.HK"
       ],
       "text": "Hong Kong stocks opened lower: the Hang Seng Index fell 0.6% and the Hang Seng Tech Index fell 0.8%. Gold shares mostly opened higher. Tencent Music (01698.HK) opened down 11.41% after reporting Q2 total revenue of 8.93 bln yuan, up 5.8% YoY, and increasing its buyback to $400m."
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123838742464",
+      "time": "2026-08-12 09:21:18",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月12日7天期逆回購操作量為零。"
     },
     {
       "id": "5036603",
@@ -140189,100 +140264,6 @@
         "其他"
       ],
       "text": "【港股光通訊股走弱 中際旭創跌近15%】截至發稿，中際旭創(03308.HK)跌14.95%，海光芯正(01191.HK)跌13.16%，劍橋科技(06166.HK)跌11.60%。"
-    },
-    {
-      "id": "5025682",
-      "time": "2026-08-05 09:26:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【智慧駕駛概念開盤活躍 浙江世寶、索菱股份雙雙漲停】智慧駕駛概念開盤活躍，浙江世寶、索菱股份雙雙漲停，萬集科技、豪恩汽電漲超10%，大眾交通、四維圖新、錦江線上高開。"
-    },
-    {
-      "id": "5025681",
-      "time": "2026-08-05 09:25:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "中際旭創A股早盤低開13.9%。"
-    },
-    {
-      "id": "5025680",
-      "time": "2026-08-05 09:25:26",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指低開，滬指跌0.19％，深成指跌1.73％，創業板跌3.35％。"
-    },
-    {
-      "id": "mkt:019fcf86-7c59-7aab-8f7b-bbc134e0aefa",
-      "time": "2026-08-05 09:25:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "A-shares opened lower: Shanghai Composite down 0.19%, Shenzhen Composite down 1.73% and ChiNext Index down 3.35%. Stocks linked to CPO, MLCC and PCB concepts led the declines."
-    },
-    {
-      "id": "5025679",
-      "time": "2026-08-05 09:25:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為推出三千檔位RGB-MiniLED電視】8月5日，華為正式推出三千檔位RGB-MiniLED電視華為Vision智慧屏 6 SE RGB，該機內建HarmonyOS。"
-    },
-    {
-      "id": "5025678",
-      "time": "2026-08-05 09:24:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數在觸及紀錄高位後逆轉走勢，最新下跌0.1%。"
-    },
-    {
-      "id": "mkt:019fcf84-8530-7aab-8f7b-b67526fd3c22",
-      "time": "2026-08-05 09:23:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports FAA officials are reviewing a Tuesday air-traffic safety incident involving a military helicopter carrying President Trump."
-    },
-    {
-      "id": "mkt:019fcf84-45c8-7aab-8f7b-ab936ceacaca",
-      "time": "2026-08-05 09:23:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "【PBOC nets 298.5 bln yuan via open-market operations】The PBOC conducted 5 bln yuan of 7-day reverse repos and 500 bln yuan of outright reverse repos. With 206.5 bln yuan of 7-day reverse repos maturing today, the operations produced a net injection of 298.5 bln yuan."
-    },
-    {
-      "id": "5025677",
-      "time": "2026-08-05 09:22:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦航空管理局官員正在審查週二發生的一起空中交通安全事件，該事件涉及一架搭載特朗普的軍用直升機。"
-    },
-    {
-      "id": "5025676",
-      "time": "2026-08-05 09:22:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "中際旭創港股低開15%。"
     }
   ]
 }
