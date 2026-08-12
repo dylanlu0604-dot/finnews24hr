@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 01:50:37",
-  "count": 15076,
+  "updated": "2026-08-13 01:54:27",
+  "count": 15074,
   "items": [
+    {
+      "id": "mkt:019ff71c-270c-7aab-9012-02842891b76f",
+      "time": "2026-08-13 01:54:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace."
+    },
     {
       "id": "5038065",
       "time": "2026-08-13 01:46:56",
@@ -137568,30 +137576,6 @@
         "Importance 1"
       ],
       "text": "Uruguay Inflation Rises Slightly in July — Uruguay’s annual inflation rate edged up to 4.27% in July 2026 from 4.25% in June. The strongest pressures were recorded in education (6.93%), followed by restaurants and hotels (6.72%), transport (5.76%), healthcare (5.59%), personal care and social protection (5.12%), housing and utilities (5.03%), recreation, sport and culture (4.56%), and information and communication (4.29%). Food prices increased 2.95%, while clothing and footwear remained the only major category in deflation, with prices falling 5.83%. On a monthly basis, consumer prices rose 0.07%, bringing year-to-date inflation to 3.40%."
-    },
-    {
-      "id": "5027411",
-      "time": "2026-08-06 01:53:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄伊即將落地長期天然氣協議】伊朗擁有全球第二大天然氣儲量，但在需求高峰期每日存在2‑3億立方米的結構性供氣缺口。伊朗希望藉助進口天然氣彌補北部地區的供應短板，並有望擴大本國對伊拉克、土耳其、亞美尼亞、巴基斯坦以及阿曼的天然氣出口。此舉將進一步加深俄伊雙方的相互依存，儘管兩國仍在區域天然氣市場存在競爭關係。"
-    },
-    {
-      "id": "mkt:019fd30e-926d-7aab-8f92-545df23ac87a",
-      "time": "2026-08-06 01:52:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said reports that Pakistan invited Iran's foreign minister and parliament speaker are accurate, but final arrangements have not been confirmed."
-    },
-    {
-      "id": "5027410",
-      "time": "2026-08-06 01:51:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄伊即將落地長期天然氣協議 亞塞拜然獲選為首選過境國】俄羅斯與伊朗即將落實一項歷經多輪談判的天然氣協議，兩國官員證實，亞塞拜然被選定為俄羅斯向伊朗出口天然氣的首選過境通道。"
     }
   ]
 }

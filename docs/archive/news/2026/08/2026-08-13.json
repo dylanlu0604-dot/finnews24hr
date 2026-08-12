@@ -1,7 +1,15 @@
 {
   "date": "2026-08-13",
-  "count": 83,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019ff71c-270c-7aab-9012-02842891b76f",
+      "time": "2026-08-13 01:54:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen Presidential Leadership Council chairman Rashad al-Alimi said Houthi armed actions will not go unanswered, and that government deterrence measures are not at odds with efforts to pursue peace."
+    },
     {
       "id": "5038065",
       "time": "2026-08-13 01:46:56",
