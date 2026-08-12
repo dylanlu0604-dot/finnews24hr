@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-13 01:23:25",
+  "updated": "2026-08-13 01:27:21",
   "count": 15079,
   "items": [
+    {
+      "id": "mkt:019ff702-b305-7aab-9011-e2ea49534d13",
+      "time": "2026-08-13 01:26:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada is weighing a proposal to keep exempting the value of U.S.-made parts in Canadian vehicle exports from auto tariffs, even as it seeks tariff waivers from the U.S., The Globe and Mail reports."
+    },
+    {
+      "id": "5038061",
+      "time": "2026-08-13 01:24:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "該提案還將維持對加拿大出口汽車中美國產零部件價值的豁免條款。"
+    },
+    {
+      "id": "5038060",
+      "time": "2026-08-13 01:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：加拿大考慮在與美國的談判中提出汽車關稅建議。"
+    },
+    {
+      "id": "5038059",
+      "time": "2026-08-13 01:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：在德國舉行的一場大型軍事演習中，烏克蘭無人機操作人員壓制了美軍部隊。偵察無人機迅速鎖定美軍裝甲車輛，隨後攻擊無人機完成模擬 “擊毀”，實質上全殲一支美軍裝甲旅。"
+    },
     {
       "id": "mkt:019ff6ff-4376-7aab-9011-dd1bcee7eb29",
       "time": "2026-08-13 01:22:31",
@@ -137585,42 +137617,6 @@
         "MKT News"
       ],
       "text": "U.S. Senator Mark Warner (D) said if Trump and Vance want to crack down on fraud, they should start with the $2.2 billion Trump allegedly pocketed in his first year as president."
-    },
-    {
-      "id": "5027403",
-      "time": "2026-08-06 01:27:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：諒解備忘錄包含了指導性原則，但最終結果取決於伊朗與阿曼之間的談判。"
-    },
-    {
-      "id": "5027402",
-      "time": "2026-08-06 01:24:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：美國持續執行針對伊朗的封鎖行動。截至8月5日，中央司令部部隊已驅離48艘商船，使2艘船舶失去行動能力，並登船檢查2艘。"
-    },
-    {
-      "id": "mkt:019fd2f4-2d41-7aab-8f92-2e32e7861bdc",
-      "time": "2026-08-06 01:24:05",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "CENTCOM said as of Aug 5 US forces had altered the routes of 48 commercial vessels, rendered two vessels inoperable, and boarded and inspected two others."
-    },
-    {
-      "id": "5027401",
-      "time": "2026-08-06 01:23:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗副外長：地區國家已接受伊朗和阿曼就霍爾木茲海峽達成諒解協議。"
     }
   ]
 }
