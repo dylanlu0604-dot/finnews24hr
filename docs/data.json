@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-13 00:50:59",
-  "count": 15105,
+  "updated": "2026-08-13 00:54:56",
+  "count": 15097,
   "items": [
+    {
+      "id": "mkt:019ff6e4-0c57-7aab-9011-622acd671236",
+      "time": "2026-08-13 00:52:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【USITC opens Section 337 probe into Samsung mobile electronic devices】The US International Trade Commission said on Aug. 12 it has opened a Section 337 investigation into certain mobile electronic devices, naming Samsung Electronics Co. and Samsung Electronics America as respondents. The probe follows a July complaint by Kyoto-based Maxell alleging patent infringement in devices imported into and sold in the US and seeking a limited exclusion order and a cease-and-desist order under the Tariff Act of 1930, Section 337. The USITC said initiation does not imply a final determination. An administrative law judge will handle evidence and hearings and issue an initial determination; the commission will set the case schedule within 45 days and will issue a final determination after the record is developed."
+    },
+    {
+      "id": "5038049",
+      "time": "2026-08-13 00:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利埃特納火山持續噴發 航班受影響】本月初，位於義大利西西里島的埃特納火山發生噴發並持續至今。據義大利國家地球物理學與火山學研究所8月12日釋出的報告，埃特納火山先後出現多處新噴口，熔岩流向山下推進，火山灰雲主要向南及西南方向移動。島上的卡塔尼亞機場當天暫停所有航班降落和起飛，管控措施持續到當地時間13日16時。（央視新聞）"
+    },
+    {
+      "id": "5038048",
+      "time": "2026-08-13 00:51:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑石考慮放棄30億美元債務融資計劃】知情人士稱，黑石集團正在考慮放棄一項約30億美元的債務融資計劃，該計劃原本有助於公司向投資者返還部分資金。知情人士稱，黑石數月來一直在為旗下一隻較早設立的私募股權二級市場基金籌劃所謂的基金抵押債務憑證（CFO），該基金約有700項底層投資。因相關資訊非公開，這些人士要求匿名。其中一些人士稱，黑石一直難以為這筆交易的權益檔找到買家，而權益檔通常是此類交易中風險最高的部分。知情人士稱，黑石高管仍在權衡各種選擇，公司可能決定繼續推進這筆CFO交易，也可能尋求其他方式向現有投資者返還資金。"
+    },
     {
       "id": "mkt:019ff6e1-b3d9-7aab-9011-5a0ba3155770",
       "time": "2026-08-13 00:50:14",
@@ -137722,113 +137750,6 @@
         "國際"
       ],
       "text": "北約秘書長呂特：就俄對烏城市打擊同澤連斯基溝通，將協調盟友保障烏克蘭防空需求。"
-    },
-    {
-      "id": "mkt:019fd2d8-4e63-7aab-8f91-8f0af6eb106c",
-      "time": "2026-08-06 00:53:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "According to Iran's Tasnim News, Yemen is preparing for full confrontation with Saudi Arabia. Attacks on Saudi vessels have consolidated a \"blockade-for-blockade\" dynamic, and the Yemeni armed forces say routes previously considered safe are no longer secure."
-    },
-    {
-      "id": "5027378",
-      "time": "2026-08-06 00:53:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國佐治亞州發生大範圍停電。"
-    },
-    {
-      "id": "5027377",
-      "time": "2026-08-06 00:52:41",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "葉門革命領導人下達全國總動員令，薩那方面為同沙烏地阿拉伯展開全面對抗做準備。"
-    },
-    {
-      "id": "5027376",
-      "time": "2026-08-06 00:52:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門方面：受葉門武裝部隊現場局勢變化影響，此前被認定安全的航線現已不再安全。"
-    },
-    {
-      "id": "mkt:019fd2d7-26f2-7aab-8f91-87f06dab323d",
-      "time": "2026-08-06 00:52:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's deputy foreign minister said Iran and Oman have reached broad consensus on almost all outstanding issues."
-    },
-    {
-      "id": "5027375",
-      "time": "2026-08-06 00:52:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門方面：襲擊沙特船隻，確立了 “以封鎖回應封鎖” 的對等博弈原則。"
-    },
-    {
-      "id": "5027374",
-      "time": "2026-08-06 00:51:52",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "亞馬遜雲科技（AWS）：亞馬遜雲科技與摩根大通合作推進量子計算研發。"
-    },
-    {
-      "id": "mkt:019fd2d6-a467-7aab-8f91-7a13d6975fb1",
-      "time": "2026-08-06 00:51:49",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "JPM.O"
-      ],
-      "text": "Amazon Web Services (AWS) said it will partner with JP Morgan (JPM.N) to advance quantum computing R&D."
-    },
-    {
-      "id": "te:markets:573105",
-      "time": "2026-08-06 00:51:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Netherlands",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Koninklijke Ahold Delhaize NV earnings below expectations at 0.60 EUR — Koninklijke Ahold Delhaize NV (AD) released earnings per share at 0.60 EUR, compared to market expectations of 0.64 EUR."
-    },
-    {
-      "id": "5027373",
-      "time": "2026-08-06 00:51:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍證實數名以色列猶太人定居者非法潛入黎巴嫩】以色列國防軍證實，由大約10人組成的一個以色列猶太人定居者團體，當天下午跨越以黎臨時分界線進入黎巴嫩一側。以軍部隊隨後找到該團體的大多數成員，並將其護送回以色列境內，同時仍在搜尋其餘人員。軍方表示，所有涉事人員將被移交給以色列警方接受進一步盤問。"
-    },
-    {
-      "id": "mkt:019fd2d6-54b5-7aab-8f91-747d9bcdef8a",
-      "time": "2026-08-06 00:51:29",
-      "tags": [
-        "MKT News",
-        "BAYRY.O"
-      ],
-      "text": "Bayer: Monsanto and class counsel filed a joint motion with the Missouri circuit court seeking to reschedule the final approval hearing for the class settlement to Sept. 10 or later."
     }
   ]
 }

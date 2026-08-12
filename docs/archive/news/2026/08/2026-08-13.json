@@ -1,7 +1,35 @@
 {
   "date": "2026-08-13",
-  "count": 45,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:019ff6e4-0c57-7aab-9011-622acd671236",
+      "time": "2026-08-13 00:52:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【USITC opens Section 337 probe into Samsung mobile electronic devices】The US International Trade Commission said on Aug. 12 it has opened a Section 337 investigation into certain mobile electronic devices, naming Samsung Electronics Co. and Samsung Electronics America as respondents. The probe follows a July complaint by Kyoto-based Maxell alleging patent infringement in devices imported into and sold in the US and seeking a limited exclusion order and a cease-and-desist order under the Tariff Act of 1930, Section 337. The USITC said initiation does not imply a final determination. An administrative law judge will handle evidence and hearings and issue an initial determination; the commission will set the case schedule within 45 days and will issue a final determination after the record is developed."
+    },
+    {
+      "id": "5038049",
+      "time": "2026-08-13 00:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【義大利埃特納火山持續噴發 航班受影響】本月初，位於義大利西西里島的埃特納火山發生噴發並持續至今。據義大利國家地球物理學與火山學研究所8月12日釋出的報告，埃特納火山先後出現多處新噴口，熔岩流向山下推進，火山灰雲主要向南及西南方向移動。島上的卡塔尼亞機場當天暫停所有航班降落和起飛，管控措施持續到當地時間13日16時。（央視新聞）"
+    },
+    {
+      "id": "5038048",
+      "time": "2026-08-13 00:51:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黑石考慮放棄30億美元債務融資計劃】知情人士稱，黑石集團正在考慮放棄一項約30億美元的債務融資計劃，該計劃原本有助於公司向投資者返還部分資金。知情人士稱，黑石數月來一直在為旗下一隻較早設立的私募股權二級市場基金籌劃所謂的基金抵押債務憑證（CFO），該基金約有700項底層投資。因相關資訊非公開，這些人士要求匿名。其中一些人士稱，黑石一直難以為這筆交易的權益檔找到買家，而權益檔通常是此類交易中風險最高的部分。知情人士稱，黑石高管仍在權衡各種選擇，公司可能決定繼續推進這筆CFO交易，也可能尋求其他方式向現有投資者返還資金。"
+    },
     {
       "id": "mkt:019ff6e1-b3d9-7aab-9011-5a0ba3155770",
       "time": "2026-08-13 00:50:14",
