@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-13 03:16:47",
-  "count": 15050,
+  "updated": "2026-08-13 03:20:38",
+  "count": 15048,
   "items": [
+    {
+      "id": "5038085",
+      "time": "2026-08-13 03:19:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱已使59艘商船改變航線】當地時間8月12日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月12日，已經使59艘商業船隻改道，使3艘船隻失去行動能力，並登臨檢查2艘船隻。"
+    },
+    {
+      "id": "5038084",
+      "time": "2026-08-13 03:18:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國7月預算赤字激增 聯邦支出加速增長】由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元，再次凸顯政府借款需求持續上升。美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。"
+    },
     {
       "id": "mkt:019ff760-11d1-7aab-9012-bafdd20d2238",
       "time": "2026-08-13 03:08:16",
@@ -137355,45 +137372,6 @@
         "其他"
       ],
       "text": "FIRST SOLAR跌幅快速擴大至5%。"
-    },
-    {
-      "id": "5027450",
-      "time": "2026-08-06 03:20:04",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【外媒：伊朗尋求對海峽過境船隻收取貨物價值5%至7%的費用】據路透社週三援引一名伊朗高階訊息人士和兩名地區官員稱，伊朗-阿曼擬議協議將賦予伊朗對透過霍爾木茲海峽進入海灣船隻的控制權，這是迄今伊朗獲得的最大讓步之一。伊朗隨後表示，船隻進出海灣都將經過伊朗水域。地區訊息人士表示，關於如何界定“控制權”仍有細節需要確定。伊朗訊息人士表示，目前擺在桌面上的協議文字設想，伊朗將控制透過該海峽駛入海灣的船隻，主要爭議之一是對於駛出方向船隻伊朗應發揮何種作用。伊朗副外長隨後表示：“該航線的設計方式是，商業船隻的進出航線都將透過伊朗領海。”伊朗高階官員透露，伊朗尋求向使用該海峽的船隻收取相當於貨物價值5%至7%的費用，阿曼正在討論約3%的較低費用，而華盛頓則希望完全不收取費用。名義上讓費用支付保持自願可能成為打破僵局的一種方式，不過在伊朗可能發動襲擊的威脅下，船運公司為了通行可能不得不付費。"
-    },
-    {
-      "id": "5027448",
-      "time": "2026-08-06 03:18:25",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "特朗普準備出臺關稅及價格下限政策，提振美國多晶矽產業。"
-    },
-    {
-      "id": "mkt:019fd35b-ad9b-7aab-8f93-411644e3bbad",
-      "time": "2026-08-06 03:17:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Meta Platforms (META.O) chief AI officer said Muse Code beta is live; it is the Meta Super Intelligence Lab’s (MSL) first coding agent, built on Muse Spark 1.2."
-    },
-    {
-      "id": "mkt:019fd35b-7475-7aab-8f93-3e7e33e754e6",
-      "time": "2026-08-06 03:16:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Refinitiv: Iran seeks 5–7% charge on cargo value for Strait of Hormuz transits under Iran-Oman proposal】Refinitiv cites a senior Iranian source and two regional officials saying a proposed Iran-Oman agreement would give Iran control over vessels transiting the Strait of Hormuz into the Gulf, one of the largest concessions Tehran has secured to date. Officials say details of what 'control' entails remain unresolved, particularly Iran's role for ships leaving the Gulf. Iran's deputy foreign minister said the route would be arranged so commercial traffic entering and exiting passes through Iranian territorial waters. A senior Iranian official said Iran seeks to levy fees of 5–7% of cargo value on ships using the strait; Oman is discussing about 3% and Washington opposes any charge. Payments would be nominally voluntary, though regional sources say shipping firms may feel compelled to pay under the threat of Iranian attacks."
     }
   ]
 }
