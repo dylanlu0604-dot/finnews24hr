@@ -1,7 +1,42 @@
 {
   "date": "2026-08-13",
-  "count": 157,
+  "count": 161,
   "items": [
+    {
+      "id": "5038102",
+      "time": "2026-08-13 03:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。"
+    },
+    {
+      "id": "5038101",
+      "time": "2026-08-13 03:54:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。"
+    },
+    {
+      "id": "mkt:019ff78a-90dd-7aab-9013-199c16d108a4",
+      "time": "2026-08-13 03:54:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's \"Persian Gulf Strait Authority\" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran."
+    },
+    {
+      "id": "5038100",
+      "time": "2026-08-13 03:52:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。"
+    },
     {
       "id": "mkt:019ff783-36dd-7aab-9013-152640ecc63e",
       "time": "2026-08-13 03:46:39",

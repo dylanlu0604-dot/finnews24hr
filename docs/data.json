@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-13 03:51:56",
-  "count": 15057,
+  "updated": "2026-08-13 03:55:52",
+  "count": 15054,
   "items": [
+    {
+      "id": "5038102",
+      "time": "2026-08-13 03:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。"
+    },
+    {
+      "id": "5038101",
+      "time": "2026-08-13 03:54:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。"
+    },
+    {
+      "id": "mkt:019ff78a-90dd-7aab-9013-199c16d108a4",
+      "time": "2026-08-13 03:54:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's \"Persian Gulf Strait Authority\" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran."
+    },
+    {
+      "id": "5038100",
+      "time": "2026-08-13 03:52:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。"
+    },
     {
       "id": "mkt:019ff783-36dd-7aab-9013-152640ecc63e",
       "time": "2026-08-13 03:46:39",
@@ -137366,76 +137401,6 @@
         "焦點"
       ],
       "text": "【納斯達克中國金龍指數收跌1.08%】水滴公司跌7.41%，金生遊樂跌6.47%，阿特斯跌5.89%，虎牙跌4.51%，金山雲跌4.28%。"
-    },
-    {
-      "id": "5027465",
-      "time": "2026-08-06 03:55:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【武田製藥Orzeyful獲FDA批准，用於治療1型發作性睡病】武田製藥旗下武田製藥美國公司（Takeda Pharmaceuticals America）的Orzeyful片劑已獲得美國食品藥品管理局（FDA）批准，成為首款透過靶向食慾素訊號缺失來治療成人1型發作性睡病全譜症狀的藥物。Orzeyful的療效已在兩項為期12周、安慰劑對照的研究中得到證實，共納入273名成人患者。服用Orzeyful 2mg的患者與安慰劑組相比，日間清醒度有所改善，猝倒發作次數減少。Orzeyful已被建議納入《管制物質法》進行排期管理，目前正等待美國緝毒局（DEA）的最終決定。"
-    },
-    {
-      "id": "mkt:019fd37e-6d25-7aab-8f93-7a9b642b7ef3",
-      "time": "2026-08-06 03:55:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Governor Lisa Cook will speak in 10 minutes on the economic outlook."
-    },
-    {
-      "id": "te:markets:573115",
-      "time": "2026-08-06 03:54:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Home Depot Stock Price Hits 4-week High — Home Depot shares increased to 354.01 USD, the highest since July 2026. Over the past 4 weeks, Home Depot gained 0.94%, and in the last 12 months, it decreased 8.5%."
-    },
-    {
-      "id": "mkt:019fd37d-4e40-7aab-8f93-76b008b4996c",
-      "time": "2026-08-06 03:53:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars news agency, citing Iranian negotiation team sources, says the U.S. Treasury's recent removal of some Iran sanctions was driven by interactions between the Iraqi government and Washington, and not linked to any Iran‑U.S. memorandum of understanding. The Treasury earlier lifted sanctions on Baghdad Airways, which had been targeted over alleged ties to the IRGC Quds Force."
-    },
-    {
-      "id": "5027464",
-      "time": "2026-08-06 03:53:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數5日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於99.676。截至紐約匯市尾市，1歐元兌換1.1553美元，高於前一交易日的1.1533美元；1英鎊兌換1.3469美元，高於前一交易日的1.3452美元。1美元兌換157.67日元，高於前一交易日的157.66日元；1美元兌換0.8069瑞士法郎，低於前一交易日的0.8092瑞士法郎；1美元兌換1.4008加元，低於前一交易日的1.4066加元；1美元兌換9.4832瑞典克朗，低於前一交易日的9.5192瑞典克朗。"
-    },
-    {
-      "id": "5027463",
-      "time": "2026-08-06 03:52:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會宣告：正在調查海軍一號與民航客機發生空中間隔不足事件。"
-    },
-    {
-      "id": "mkt:019fd37b-c99f-7aab-8f93-6d63d2f053b7",
-      "time": "2026-08-06 03:52:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran warned Gulf states retaliation would hit energy infrastructure; Gulf urged Trump to drop strike plan】Refinitiv, citing five sources, said that after President Trump’s July 28 threat to strike Iran’s energy network and infrastructure, Iran conducted high-level diplomatic outreach warning Gulf states any new U.S. military action would prompt Iranian retaliation against regional energy facilities and U.S. assets. Iranian deputy foreign minister Araghchi spoke with the foreign ministers of Saudi Arabia, Turkey and Qatar and with Pakistan’s army chief, urging Gulf partners to use their influence to dissuade Washington. Saudi Crown Prince Mohammed bin Salman urged Trump to delay military action. Qatar, Oman and Saudi pressed the U.S. to resume talks with Tehran to avoid renewed conflict. On Aug. 2, Trump said he agreed to call off the attack plan “provided a deal could be reached quickly.”"
     }
   ]
 }
