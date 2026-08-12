@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-13 05:05:46",
-  "count": 15041,
+  "updated": "2026-08-13 05:09:35",
+  "count": 15040,
   "items": [
+    {
+      "id": "5038142",
+      "time": "2026-08-13 05:08:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱霍爾木茲海峽使用者必須“彌補”海灣環境損害。"
+    },
+    {
+      "id": "5038141",
+      "time": "2026-08-13 05:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek V4 Pro正式版API更新：多項測試效能接近Fable 5】8月13日，DeepSeek官方把V4 Pro從預覽版正式轉正。官方定價頁上，模型版本號已經更新為DeepSeek-V4-Pro-0813。從官方群放出的評測對比表可以看到，DeepSeek V4 Pro 正式版（DeepSeek-V4-Pro-0813）在多項測試中接近 Fable 5 水平，相比之前的預覽版能力大幅提升。DeepSeek V4 Pro價格明顯高於V4-Flash。按每1M token計算，快取命中輸入0.025元，快取未命中輸入3元，輸出6元。相比之下，V4-Flash分別為0.02元、1元和2元。"
+    },
     {
       "id": "mkt:019ff7c9-1637-7aab-9013-ae6c7cbc1a4e",
       "time": "2026-08-13 05:02:58",
@@ -137173,30 +137189,6 @@
         "Impact bearish"
       ],
       "text": "【BofA expects yen to strengthen to 149】BofA now expects the yen to appreciate roughly 6% by year-end after coordinated currency intervention. Analysts including Shusuke Yamada wrote on Wednesday that with joint US–Japan action and expectations of BOJ tightening in coming months, USD/JPY is seen falling from about 158 to 149, versus a prior year-end forecast of 152. They say intervention raises the bar for successfully defending the yen and may require macro policy follow-up—specifically faster rate hikes; moving in September rather than October would let the BOJ demonstrate it is ahead of the curve on upside inflation risk."
-    },
-    {
-      "id": "5027500",
-      "time": "2026-08-06 05:08:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "明晟公司（MSCI）表示，其 8 月指數調整公告定於 2026 年 8 月 12 日釋出，且將在概要公告發布後即刻向客戶提供詳細的調倉資訊。"
-    },
-    {
-      "id": "mkt:019fd3c0-7008-7aab-8f94-46732a06db70",
-      "time": "2026-08-06 05:07:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MSCI's August index review results are scheduled for release in the early hours of Aug 13, Beijing time."
-    },
-    {
-      "id": "5027499",
-      "time": "2026-08-06 05:07:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "週三（8月5日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7482元，較週二紐約尾盤跌2點，日內整體交投於6.7449-6.7501元區間。"
     }
   ]
 }
