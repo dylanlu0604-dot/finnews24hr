@@ -1,7 +1,138 @@
 {
   "date": "2026-08-12",
-  "count": 2511,
+  "count": 2524,
   "items": [
+    {
+      "id": "5037884",
+      "time": "2026-08-12 21:38:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊高管談AI業務利潤：WorkBuddy付費使用者毛利率相當不錯】8月12日，在騰訊2026Q2財報業績電話會上，騰訊首席戰略官James Mitchell在談及騰訊AI雲業務的利潤表現時表示，國內的 Token 價格確實很低，但國內的 Token 生產成本也極低，遠低於外界的普遍認知和預估。所以在 Token 業務上，即便價格低也能保持正毛利。他提到，WorkBuddy 付費使用者的毛利率，以及騰訊模型服務的毛利率，已經可以和騰訊雲整體的毛利率相媲美。WorkBuddy 整體來看毛利率相對低一些，因為其中有一部分免費使用者，騰訊在用這部分來補貼使用者以拉動市場份額增長，但付費部分已經產生了相當不錯的毛利率。"
+    },
+    {
+      "id": "mkt:019ff632-3dd5-7aab-900d-7f8b8df21576",
+      "time": "2026-08-12 21:38:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Analyst: Fed has more time to wait】Northlight Asset Management CIO Chris Zaccarelli said the latest US CPI matched expectations and, importantly, inflation did not re-accelerate. Coupled with recent weak employment data, this gives the Fed more time to remain on the sidelines."
+    },
+    {
+      "id": "5037883",
+      "time": "2026-08-12 21:37:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正榮地產66億元境內債重組方案：選項包括展期8.5年，按剩餘面值8%購回等】正榮地產（06158.HK）擬對旗下境內債券進行重組。據悉，8月13日至8月27日，“H20正榮2”等九隻、存續金額66.14億元的公司債券及資產支援證券將召開債券持有人會議審議重組方案和豁免多項會議程式兩項議案。關於本息兌付安排調整（展期留債），議案顯示，以2026年7月31日為基準日，債券全部未償本金兌付期限調整為自基準日起8.5年，新到期日為2035年1月31日。同時，自基準日起，資本化利息不再計入本金，剩餘本金按年利率1%單利計息，利隨本清。本金分8期兌付，最晚兌付日從2033年4月30日至2035年1月31日，各期本金兌付比例分別為5%、5%、10%、10%、15%、15%、20%、20%。每期兌付本金時，同時結清該筆本金對應的截至基準日利息及基準日後新利息。（澎湃新聞）"
+    },
+    {
+      "id": "5037882",
+      "time": "2026-08-12 21:36:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股光通訊板塊走強，Lumentum漲5%，Coherent漲6%，邁威爾科技和康寧漲約5%。"
+    },
+    {
+      "id": "5037881",
+      "time": "2026-08-12 21:36:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同星科技：目前公司與宇樹機器人暫無業務合作】同星科技8月12日在互動平臺表示，目前公司與宇樹機器人暫無業務合作。公司具身智慧機器人業務覆蓋人形機器人精密元件及溫控模組。"
+    },
+    {
+      "id": "mkt:019ff62f-f248-7aab-900d-736a147b7f3a",
+      "time": "2026-08-12 21:36:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "A Russian governor said a Ukrainian strike on Novorossiysk port killed three people and wounded 24."
+    },
+    {
+      "id": "5037880",
+      "time": "2026-08-12 21:35:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，自今年1月以來，烏克蘭已重新控制26個村莊。"
+    },
+    {
+      "id": "mkt:019ff62f-c3f5-7aab-900d-6ce925cae78c",
+      "time": "2026-08-12 21:35:53",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine has liberated 745 sq km of territory since January."
+    },
+    {
+      "id": "mkt:019ff62f-a6f3-7aab-900d-625c6acd1666",
+      "time": "2026-08-12 21:35:45",
+      "tags": [
+        "MKT News",
+        "LITE.O",
+        "Impact bullish",
+        "COHR.O",
+        "MRVL.O"
+      ],
+      "text": "U.S. optical-communications sector rallied: Lumentum up 5%, Coherent up 6%, MARVELL (MRVL.O) and Corning (GLW.N) up about 5%."
+    },
+    {
+      "id": "5037879",
+      "time": "2026-08-12 21:35:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，自1月以來烏克蘭已收復745平方公里領土。"
+    },
+    {
+      "id": "mkt:019ff62f-5a83-7aab-900d-598a459f19e4",
+      "time": "2026-08-12 21:35:26",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "【Baltic Dry Index falls for third straight session】The Baltic Dry Index (BDI) fell for a third straight session, down 107 points (3.5%) to 2,939, after Capesize and Panamax rates weakened while Supramax/Ultramax rates ticked up. The Capesize index (BCI) slid 289 points (-5.8%) to 4,712; Capesize daily earnings dropped $2,619 to $39,237. The Panamax index (BPI) fell 10 points (-0.4%) to 2,302, ending a ten-session gain; Panamax daily earnings fell $97 to $20,716. The Supramax/Ultramax index (BSI) rose 3 points (0.2%) to 1,603. The Handysize index (BHSI) eased 3 points to 867. The BDI had reached its highest level since June 3 on Friday."
+    },
+    {
+      "id": "te:markets:574784",
+      "time": "2026-08-12 21:35:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Advance on Wednesday — US stocks were firmly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to test its record, the Nasdaq 100 rose nearly 1%, and the Dow edged higher. CoreWeave surged 20% after posting stronger than expected sales results. Similarly, SMCI advanced nearly 15% after its revenue forecast was higher than expected by analysts. Hyperscalers and chip producers also gained from strong results from Tencent, while Temasek took fresh stakes on SK Hynix and Samsung. The results injected fresh optimism on AI infrastructure stocks amid their volatile start to the third quarter. Nvidia, Oracle, and Amazon were up. Meanwhile, new inflation data showed relatively stable core inflation to ease pressure on the FOMC to raise interest rates. Still, uncertainty on the return of energy supply from the Middle East maintained inflationary concerns."
+    },
+    {
+      "id": "5037878",
+      "time": "2026-08-12 21:34:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯一州長表示，烏克蘭襲擊新羅西斯克港造成3人死亡、24人受傷。"
+    },
     {
       "id": "5037877",
       "time": "2026-08-12 21:34:38",
