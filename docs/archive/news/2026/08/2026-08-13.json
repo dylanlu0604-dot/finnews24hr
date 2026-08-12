@@ -1,7 +1,38 @@
 {
   "date": "2026-08-13",
-  "count": 170,
+  "count": 173,
   "items": [
+    {
+      "id": "5038109",
+      "time": "2026-08-13 04:07:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "思科2027財年銷售額指引超出市場預期，股價大漲7%。"
+    },
+    {
+      "id": "mkt:019ff795-1218-7aab-9013-458902535458",
+      "time": "2026-08-13 04:06:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Aug 12 (Wed) close: Dow Jones Industrial Average down 21.69 pts (-0.04%) at 53,770.16; S&P 500 up 20.31 pts (+0.26%) at 7,748.51; Nasdaq Composite up 143.04 pts (+0.54%) at 26,588.49."
+    },
+    {
+      "id": "5038108",
+      "time": "2026-08-13 04:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "航空導航資料顯示：阿聯酋王室專機（註冊號A6‑RJA）今日飛抵德黑蘭。該飛機昨日也曾飛往德黑蘭，停留一小時後返回阿聯酋。"
+    },
     {
       "id": "mkt:019ff792-6607-7aab-9013-3820c9a68a5f",
       "time": "2026-08-13 04:03:14",
