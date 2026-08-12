@@ -1,7 +1,42 @@
 {
   "date": "2026-08-12",
-  "count": 904,
+  "count": 908,
   "items": [
+    {
+      "id": "mkt:019ff3f3-da47-7aab-8fff-dadad149ece7",
+      "time": "2026-08-12 11:11:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-shares brain–computer interface sector advanced; Chuangxin Medical hit the daily trading limit, Feivotai rose over 10%, and Aipeng Medical, Beiyikang, Shiyun Circuit, Sanbo Brain Science and Dongfang Zhongke also gained."
+    },
+    {
+      "id": "5036767",
+      "time": "2026-08-12 11:09:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股PCB概念股走強 建滔積層板漲近9%】截至發稿，建滔積層板(01888.HK)漲8.75%，廣合科技(01989.HK)漲5.67%，建滔集團(00148.HK)漲4.64%。"
+    },
+    {
+      "id": "5036766",
+      "time": "2026-08-12 11:08:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面板塊走高，創新醫療漲停】腦機介面板塊走高，創新醫療漲停，菲沃泰漲超10%，愛朋醫療、倍益康、世運電路、三博腦科、東方中科跟漲。"
+    },
+    {
+      "id": "5036765",
+      "time": "2026-08-12 11:08:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "零跑汽車：2026年1-7月，零跑汽車義大利累計上牌量達25393臺，上市即領跑義大利C級電動車市場 。零跑汽車全球化程序持續加速，2026年1-7月海外出口批售量累計超11.3萬臺，穩居新勢力出口領先位置。"
+    },
     {
       "id": "5036764",
       "time": "2026-08-12 11:06:41",
