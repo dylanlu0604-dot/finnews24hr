@@ -1,7 +1,93 @@
 {
   "date": "2026-08-12",
-  "count": 1950,
+  "count": 1960,
   "items": [
+    {
+      "id": "te:markets:574731",
+      "time": "2026-08-12 18:44:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Hits 52-week High — Sugar increased to 16.88 USd/Lbs, the highest since August 2025. Over the past 4 weeks, Sugar gained 14.28%, and in the last 12 months, it increased 0.04%."
+    },
+    {
+      "id": "mkt:019ff592-711d-7aab-9007-c170163dd999",
+      "time": "2026-08-12 18:44:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Iraqi senior security delegation will visit Saudi Arabia tomorrow to discuss a range of security issues, market sources said."
+    },
+    {
+      "id": "5037534",
+      "time": "2026-08-12 18:43:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【華大智造與瑞沃德達成戰略合作】據華大智造訊息，近日，華大智造與深圳市瑞沃德生命科技股份有限公司（簡稱“瑞沃德”）達成戰略合作，同時宣佈單細胞全流程自動化解決方案正式釋出。雙方將圍繞單細胞懸液製備儀等相關產品，透過華大智造成熟的全球渠道與客戶體系協同，在中國區及部分亞太、歐洲地區展開深度合作，共同推動核心產品的國際化佈局與業務拓展。"
+    },
+    {
+      "id": "mkt:019ff591-682e-7aab-9007-bed3277b8cf0",
+      "time": "2026-08-12 18:42:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Germany June unadjusted current account surplus €19.0 bln, prior €10.4 bln."
+    },
+    {
+      "id": "mkt:019ff591-4bac-7aab-9007-b48cebabc4a9",
+      "time": "2026-08-12 18:42:47",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Current Account USA (Jun) | actual 19000000000B | previous 10400000000B"
+    },
+    {
+      "id": "5037533",
+      "time": "2026-08-12 18:42:44",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：將於8月21日召開2026年半年度業績說明會】中信建投公告稱，公司將於8月18日披露2026年半年度報告，並於8月21日15:30-16:30召開半年度業績說明會，地點為上證路演中心，採用網路互動方式。參加人員包括董事長劉成、執行董事金劍華等。投資者可在說明會期間登入網站提問，也可於8月14日至20日16:00前透過網站或郵箱預徵集問題。說明會結束後可在該網站檢視情況。"
+    },
+    {
+      "id": "mkt:019ff591-1739-7aab-9007-afa1fa98199a",
+      "time": "2026-08-12 18:42:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Finance reallocation platform saves nearly RMB 1.6 bln】The Ministry of Finance said its national reallocation-and-sharing platform for administrative and public institutions, launched January 2025, has cut fiscal outlays by about RMB 1.59 bln at original asset value. By end-June 2026 the platform had logged 710,000 asset-transfer and demand records and completed reallocation of roughly 90,000 items of equipment and furniture. The ministry noted shared large research instruments have supported technology innovation."
+    },
+    {
+      "id": "5037532",
+      "time": "2026-08-12 18:42:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐伊朗大使叢培武應約會見伊朗最高國家安全委員會秘書雷扎伊】據“中國駐伊朗大使館”公眾號訊息，8月11日，駐伊朗大使叢培武應約會見伊朗最高國家安全委員會秘書雷扎伊。叢大使宣介了習近平主席就維護和促進中東和平穩定提出的4點主張，強調中方將繼續為恢復中東和海灣地區和平穩定作出積極貢獻。雷扎伊表示，伊方高度認同習近平主席提出的4點主張，讚賞中方始終秉持公道正義立場，歡迎中方為促進地區和平穩定發揮建設性作用。雙方還就中伊關係和地區局勢交換了意見。"
+    },
+    {
+      "id": "5037531",
+      "time": "2026-08-12 18:41:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：加強對擴大內需、科技創新、中小微企業等重點領域的金融支援】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，充分發揮貨幣信貸政策導向作用。用好各類結構性貨幣政策工具，不斷完善工具設計和管理，紮實做好金融“五篇大文章”，加強對擴大內需、科技創新、中小微企業等重點領域的金融支援。發揮科技創新和技術改造再貸款、債券市場“科技板”作用，強化科技金融資料共享，加快構建高水平的區域科技金融生態，推動加強科技創新全鏈條全生命週期金融服務。最佳化綠色金融標準，持續健全碳核算制度體系，豐富綠色金融產品譜系，完善金融支援零碳園區建設政策舉措。健全民營中小企業增信制度，進一步開展金融服務能力提升工程，助力民營和小微企業融資發展。創新鄉村振興投融資機制，推進鄉村全面振興。實施好創業擔保貸款、國家助學貸款政策，支援重點群體創業就業和就學。推動金融機構加大養老產業信貸支援，支援金融機構研發符合養老需求、具有長期限特徵和一定收益率的養老金融產品，提升金融適老化水平。強化金融支援提振和擴大消費作用，推動服務業擴能提質。"
+    },
     {
       "id": "5037530",
       "time": "2026-08-12 18:40:39",
@@ -9,6 +95,15 @@
         "其他"
       ],
       "text": "瑞穗將COREWEAVE目標價從100美元上調至115美元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123839289088",
+      "time": "2026-08-12 18:40:33",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：加強對擴大內需、科技創新、中小微企業等重點領域的金融支援】央行釋出2026年第二季度中國貨幣政策執行報告，下階段，充分發揮貨幣信貸政策導向作用。用好各類結構性貨幣政策工具，不斷完善工具設計和管理，紮實做好金融“五篇大文章”，加強對擴大內需、科技創新、中小微企業等重點領域的金融支援。"
     },
     {
       "id": "te:economy:574729",
