@@ -1,7 +1,73 @@
 {
   "date": "2026-08-12",
-  "count": 1007,
+  "count": 1013,
   "items": [
+    {
+      "id": "mkt:019ff438-c13f-7aab-9000-937dd8a48500",
+      "time": "2026-08-12 12:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The governor of Russia's Krasnodar region said debris from drones struck several industrial facilities."
+    },
+    {
+      "id": "mkt:019ff438-43c3-7aab-9000-8a53e424f355",
+      "time": "2026-08-12 12:25:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The regional governor said a drone attack on Russia's Krasnodar Krai last night caused multiple deaths and injuries, including children."
+    },
+    {
+      "id": "5036843",
+      "time": "2026-08-12 12:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯克拉斯諾達爾地區州長稱，無人機碎片擊中該地區四處工業設施。"
+    },
+    {
+      "id": "5036842",
+      "time": "2026-08-12 12:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄當局稱，夜間俄羅斯克拉斯諾達爾地區遭遇無人機襲擊，造成人員傷亡，其中包括兒童。"
+    },
+    {
+      "id": "mkt:019ff435-9a94-7aab-9000-8709d5cd5b57",
+      "time": "2026-08-12 12:23:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Japanese Prime Minister Takaichi said Canadian crude arrived in Japan today, the first such cargo since the deterioration of the Middle East situation."
+    },
+    {
+      "id": "mkt:019ff435-4c4f-7aab-9000-7f1600dc534a",
+      "time": "2026-08-12 12:22:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Collins says she would support September hike if inflation remains high】Collins said rising living costs, amplified by the Iran war, are squeezing US low-income households and businesses and that energy costs in her region are particularly burdensome. She noted inflation has been above the Fed's 2% target for more than five years. A non-voting FOMC participant who backed holding rates in July, Collins described current policy as slightly restrictive and said she expects inflation to decline gradually but would support hiking rates as early as September if incoming data warrant tighter policy."
+    },
     {
       "id": "5036841",
       "time": "2026-08-12 12:22:06",

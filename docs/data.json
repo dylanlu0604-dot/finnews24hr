@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-12 12:23:30",
-  "count": 15309,
+  "updated": "2026-08-12 12:27:30",
+  "count": 15313,
   "items": [
+    {
+      "id": "mkt:019ff438-c13f-7aab-9000-937dd8a48500",
+      "time": "2026-08-12 12:26:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The governor of Russia's Krasnodar region said debris from drones struck several industrial facilities."
+    },
+    {
+      "id": "mkt:019ff438-43c3-7aab-9000-8a53e424f355",
+      "time": "2026-08-12 12:25:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The regional governor said a drone attack on Russia's Krasnodar Krai last night caused multiple deaths and injuries, including children."
+    },
+    {
+      "id": "5036843",
+      "time": "2026-08-12 12:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯克拉斯諾達爾地區州長稱，無人機碎片擊中該地區四處工業設施。"
+    },
+    {
+      "id": "5036842",
+      "time": "2026-08-12 12:24:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄當局稱，夜間俄羅斯克拉斯諾達爾地區遭遇無人機襲擊，造成人員傷亡，其中包括兒童。"
+    },
+    {
+      "id": "mkt:019ff435-9a94-7aab-9000-8709d5cd5b57",
+      "time": "2026-08-12 12:23:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Japanese Prime Minister Takaichi said Canadian crude arrived in Japan today, the first such cargo since the deterioration of the Middle East situation."
+    },
+    {
+      "id": "mkt:019ff435-4c4f-7aab-9000-7f1600dc534a",
+      "time": "2026-08-12 12:22:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Collins says she would support September hike if inflation remains high】Collins said rising living costs, amplified by the Iran war, are squeezing US low-income households and businesses and that energy costs in her region are particularly burdensome. She noted inflation has been above the Fed's 2% target for more than five years. A non-voting FOMC participant who backed holding rates in July, Collins described current policy as slightly restrictive and said she expects inflation to decline gradually but would support hiking rates as early as September if incoming data warrant tighter policy."
+    },
     {
       "id": "5036841",
       "time": "2026-08-12 12:22:06",
@@ -139384,26 +139450,6 @@
         "國際"
       ],
       "text": "【俄羅斯小麥價格因出口受阻而下跌】俄羅斯《生意人報》援引ProZerno機構資料包道，受港口襲擊抑制出口、銷售遇阻影響，俄羅斯小麥與大麥價格自7月中旬以來下跌8%‑14.5%，同比跌幅達17.8%‑20.1%。截至7月31日，三等小麥價格為每噸13500盧布，自7月10日亞速海運受限以來下跌11.3%；四等小麥下跌14.5%，報每噸12200盧布。據SovEcon，部分生產商被迫以每噸8000‑9000盧布的價格出售，而數週前價格尚為14000‑15000盧布；生產盈虧平衡點約為每噸10000盧布。7月小麥出口同比下滑17%‑24%，至160萬‑180萬噸；大麥出口同比大跌82%，僅10.1萬噸。"
-    },
-    {
-      "id": "5025973",
-      "time": "2026-08-05 12:25:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印尼盾保持漲勢，第二季度GDP增速高於預期。"
-    },
-    {
-      "id": "te:economy:572822",
-      "time": "2026-08-05 12:25:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Arab Emirates",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "UAE Non-Oil Sector Private Rebounds to 4-Month High — The S&P Global UAE PMI rose to 52.7 in July 2026 from 50.8 in June, marking the strongest improvement in non-oil private sector business conditions since March after June's more than five-year low. Growth was driven by a five-month high in new orders, as easing regional tensions, stronger client spending, and domestic infrastructure projects supported demand. Export orders also returned to growth for the first time since March. Moreover, business output expanded, while employment returned to growth after June's contraction as firms responded to stronger demand with renewed hiring. Purchasing activity remained robust, though inventories declined amid supply shortages and delays in imported deliveries. Meanwhile, input cost inflation stayed elevated, while selling price inflation remained modest amid intense competition. Business confidence weakened for a third straight month to its lowest level since March, with only 7% of firms expecting output to increase over the coming year."
     }
   ]
 }
