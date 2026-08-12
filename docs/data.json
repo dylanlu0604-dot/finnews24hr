@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-12 08:00:23",
-  "count": 15448,
+  "updated": "2026-08-12 08:04:14",
+  "count": 15442,
   "items": [
+    {
+      "id": "5036506",
+      "time": "2026-08-12 08:03:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡交易所：7月衍生品交易量同比增長16%，達到3390萬份合約。"
+    },
+    {
+      "id": "5036505",
+      "time": "2026-08-12 08:03:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌0.5%，報9,205.40點。"
+    },
+    {
+      "id": "5036504",
+      "time": "2026-08-12 08:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡交易所：7月證券市場成交額同比增長37%，至462億新加坡元。"
+    },
+    {
+      "id": "mkt:019ff346-3049-7aab-8ffc-4c9d7d25f505",
+      "time": "2026-08-12 08:01:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI opened 75.05 points higher on Aug 12 (Wed), up 1.18% at 6,420.58; Samsung Electronics and SK Hynix both rose more than 1%."
+    },
+    {
+      "id": "mkt:019ff345-eb9d-7aab-8ffc-4393901ad768",
+      "time": "2026-08-12 08:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "Japan's Nikkei 225 opened Aug 12 (Wed) up 17.26 points, or 0.03%, at 66,987.48."
+    },
+    {
+      "id": "5036503",
+      "time": "2026-08-12 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.5%，至6438.50點。"
+    },
+    {
+      "id": "5036502",
+      "time": "2026-08-12 08:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報66994.05點，漲幅0.04％。韓國綜合股價指數（KOSPI）開盤上漲1.5％，至6438.50點。"
+    },
     {
       "id": "5036501",
       "time": "2026-08-12 07:58:33",
@@ -140665,122 +140730,6 @@
         "國際"
       ],
       "text": "受美國股市上漲和油價下跌的提振，日經平均指數上漲超過1100點。"
-    },
-    {
-      "id": "mkt:019fcf3b-b87d-7aab-8f7a-0cc0427b2bc1",
-      "time": "2026-08-05 08:03:45",
-      "tags": [
-        "MKT News",
-        "USDJPY"
-      ],
-      "text": "Bank of Japan minutes: a Cabinet Office representative said they hope the Bank of Japan will appropriately consider government efforts to promote crisis management and growth-oriented investment when formulating policy."
-    },
-    {
-      "id": "5025556",
-      "time": "2026-08-05 08:03:31",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【8臺核電新機組獲核准 上海核電企業已承攬近500億元訂單】國務院常務會議7月31日決定核准浙江金七門核電二期、廣東太平嶺核電三期、遼寧莊河核電一期、山東萊陽核電一期4個核電專案，共8臺核電機組。這是“十五五”時期首批獲准的核電專案，據估算，上述新專案的總投資將超過1700億元。記者瞭解到，作為我國核電產業的重要承載地，上海核電充分發揮產業鏈集聚優勢，在新獲批的8臺機組前期專案招標中，上海已承接各類合同金額近500億元。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019fcf3b-6b66-7aab-8f7a-02f48f01ac9d",
-      "time": "2026-08-05 08:03:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korean media reported the 2027 minimum hourly wage was set at 10,700 won, up 3.7% from this year."
-    },
-    {
-      "id": "5025555",
-      "time": "2026-08-05 08:03:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣辦公室代表稱，希望日本央行在制定適當政策時，能夠顧及政府在推進危機管理與增長領域投資方面所做的工作。"
-    },
-    {
-      "id": "5025554",
-      "time": "2026-08-05 08:03:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.4%，報9,180.60點。"
-    },
-    {
-      "id": "5025553",
-      "time": "2026-08-05 08:02:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：內閣辦公室代表稱，日本央行必須做出適當回應以穩定市場，在其購債操作問題上，還需仔細審查資產負債表縮表可能對經濟產生何種影響。"
-    },
-    {
-      "id": "5025552",
-      "time": "2026-08-05 08:02:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "據韓媒報道，韓國2027年最低工資標準將上調3.7%，至10700韓元。"
-    },
-    {
-      "id": "mkt:019fcf3a-5cb6-7aab-8f79-faf7ba20435b",
-      "time": "2026-08-05 08:02:16",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Bank of Japan minutes: several members said discussion of reducing bond purchases is currently focused on scale, but importance is likely to shift to the maturities of government bonds purchased."
-    },
-    {
-      "id": "5025551",
-      "time": "2026-08-05 08:02:15",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報6623.97點。個股方面，SK海力士、三星電子漲超6%。"
-    },
-    {
-      "id": "mkt:019fcf39-c8b9-7aab-8f79-f0e5702e6708",
-      "time": "2026-08-05 08:01:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【KOSPI opens up 3.8%】Japan's Nikkei 225 opened above 64,000, up 1.0% on the session. South Korea's KOSPI jumped 3.8% at the open, briefly touching 6,600. SK hynix rose over 7%; Samsung Electronics advanced roughly 5%."
-    },
-    {
-      "id": "5025550",
-      "time": "2026-08-05 08:00:51",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行會議紀要：少數成員稱，目前對日本央行購債縮減的討論聚焦於縮減規模，但未來重點大機率會轉向所購日本國債的期限層面。"
-    },
-    {
-      "id": "5025549",
-      "time": "2026-08-05 08:00:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤報6603.48點，上漲3.8%。"
-    },
-    {
-      "id": "5025548",
-      "time": "2026-08-05 08:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報64565.27點，漲幅0.95%。"
     }
   ]
 }

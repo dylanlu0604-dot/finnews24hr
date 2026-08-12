@@ -1,7 +1,72 @@
 {
   "date": "2026-08-12",
-  "count": 508,
+  "count": 515,
   "items": [
+    {
+      "id": "5036506",
+      "time": "2026-08-12 08:03:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡交易所：7月衍生品交易量同比增長16%，達到3390萬份合約。"
+    },
+    {
+      "id": "5036505",
+      "time": "2026-08-12 08:03:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數下跌0.5%，報9,205.40點。"
+    },
+    {
+      "id": "5036504",
+      "time": "2026-08-12 08:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡交易所：7月證券市場成交額同比增長37%，至462億新加坡元。"
+    },
+    {
+      "id": "mkt:019ff346-3049-7aab-8ffc-4c9d7d25f505",
+      "time": "2026-08-12 08:01:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI opened 75.05 points higher on Aug 12 (Wed), up 1.18% at 6,420.58; Samsung Electronics and SK Hynix both rose more than 1%."
+    },
+    {
+      "id": "mkt:019ff345-eb9d-7aab-8ffc-4393901ad768",
+      "time": "2026-08-12 08:01:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225"
+      ],
+      "text": "Japan's Nikkei 225 opened Aug 12 (Wed) up 17.26 points, or 0.03%, at 66,987.48."
+    },
+    {
+      "id": "5036503",
+      "time": "2026-08-12 08:00:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲1.5%，至6438.50點。"
+    },
+    {
+      "id": "5036502",
+      "time": "2026-08-12 08:00:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報66994.05點，漲幅0.04％。韓國綜合股價指數（KOSPI）開盤上漲1.5％，至6438.50點。"
+    },
     {
       "id": "5036501",
       "time": "2026-08-12 07:58:33",
