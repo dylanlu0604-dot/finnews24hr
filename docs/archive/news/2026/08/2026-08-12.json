@@ -1,7 +1,100 @@
 {
   "date": "2026-08-12",
-  "count": 2438,
+  "count": 2449,
   "items": [
+    {
+      "id": "mkt:019ff618-944b-7aab-900c-d55cef5aca29",
+      "time": "2026-08-12 21:10:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemeni sources said 28 Houthi leaders were killed over the past six days."
+    },
+    {
+      "id": "5037836",
+      "time": "2026-08-12 21:10:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國今夏熱浪或致超百億歐元經濟損失】當地時間8月12日，法國生態轉型部長莫妮克·巴爾比表示，氣候變化造成的經濟影響日益嚴重，今年夏季熱浪帶來的直接和間接經濟損失預計將明顯高於2022年。巴爾比表示，2022年法國乾旱造成的直接和間接損失約為56億歐元，這一數字尚未包括旅遊業受損以及健康問題等社會經濟成本。目前，由於今年的極端高溫天氣尚未結束，最終損失仍難以準確估算。法國國家統計與經濟研究所初步估計，今年夏季熱浪造成的直接和間接經濟損失可能達到100至150億歐元。巴爾比警告，如果法國不進一步調整公共政策、加強對氣候變化的適應能力，相關經濟成本未來還將繼續上升。巴爾比表示，目前法國所有大區均有地區達到乾旱“危機”級別，所有大區目前均已實施不同程度的用水限制措施。（央視新聞）"
+    },
+    {
+      "id": "5037835",
+      "time": "2026-08-12 21:10:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【超威半導體美股盤前漲超2%】超威半導體美股盤前漲超2%，現報483.84美元。"
+    },
+    {
+      "id": "5037834",
+      "time": "2026-08-12 21:10:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽預計加拿大大型銀行貸款及營收增長將趨於溫和。"
+    },
+    {
+      "id": "mkt:019ff617-a0f1-7aab-900c-cc2b71491ba4",
+      "time": "2026-08-12 21:09:31",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【NYC five major pension funds return 13% in fiscal year; assets $326.3bn — Comptroller】New York City’s five largest pension funds — police, firefighters, teachers, municipal and school employee plans — posted a one-year return of 13% through June 30, lifting combined assets to $326.3bn, the Comptroller’s office said. The performance, the best since 2021, exceeded the 7% target and is expected to reduce the city’s required pension contributions by about $6.3bn over the next five years. The office attributed gains to an AI-driven equity rally; developed-market equities returned 15.6% and emerging-market equities returned 42% in the year. City officials project a fiscal gap of $6.4bn for the fiscal year beginning July 1, 2027."
+    },
+    {
+      "id": "5037833",
+      "time": "2026-08-12 21:09:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞外交部：敘利亞外交與僑民事務部長同黎巴嫩總理通電話。"
+    },
+    {
+      "id": "5037832",
+      "time": "2026-08-12 21:08:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威GASSCO已將計劃停運天然氣量由此前的日均減少590萬立方米調整為日均減少630萬立方米；停運日期由此前的8月14日至16日調整為8月14日至17日。"
+    },
+    {
+      "id": "mkt:019ff615-da15-7aab-900c-c35c2f361ea2",
+      "time": "2026-08-12 21:07:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: July inflation report strengthens case for Fed to hold in September】Helen Lao, capital markets analyst at CIBC, says the July CPI report reinforces the bank's view that the Fed will hold rates unchanged at the September FOMC. Core CPI matched expectations and YoY inflation continued to moderate, which should reassure some Fed policymakers."
+    },
+    {
+      "id": "mkt:019ff615-36e3-7aab-900c-bfa546e6d1b1",
+      "time": "2026-08-12 21:06:53",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish"
+      ],
+      "text": "【Wall Street satisfied with latest US inf report】US equity index futures rose modestly in premarket trading, with Nasdaq futures up nearly 1%. \"This is a step in the right direction,\" said Mona Mahajan, head of investment strategy at Edward Jones. \"Inf has not reaccelerated, which is what we wanted to see.\""
+    },
+    {
+      "id": "5037831",
+      "time": "2026-08-12 21:06:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊總裁劉熾平談AI資本開支增加：多款應用表現良好，已看到明顯上行空間】8月12日，在騰訊2026Q2財報業績電話會上，騰訊總裁劉熾平回應了二季度公司資本開支增加的問題。他表示，騰訊的確正在算力上進行大規模投入，目前已經看到了明顯的回報上行空間，多款新應用表現良好。此外，算力用於雲上租賃業務也有望帶來可觀的收入增長，提升資本開支回報率。對於此前下達的部分算力訂單，如果售出可以較幾個月前的採購價高出30%以上的利潤。劉熾平表示，“如果先用來自建模型、再用來開發應用、最後將算力對外出租的順序推進，我們就能打造起一項極具規模的原生AI業務，這會帶來非常可觀的利潤。”騰訊2026Q2財報顯示，該季度公司資本支出大幅跳升至528億元，遠超預期的321億元，與上年同期的191億元相比翻了將近三倍。騰訊管理層表示，這是對AI基礎設施的戰略性前期投入，用於支援Hy模型升級、WorkBuddy及CodeBuddy推理需求、微信AI，以及滿足外部客戶對雲服務持續增長的需求。"
+    },
     {
       "id": "mkt:019ff614-af03-7aab-900c-b457316c83ae",
       "time": "2026-08-12 21:06:18",
@@ -339,6 +432,14 @@
         "國際"
       ],
       "text": "德國太陽能發電量週三升至創紀錄的57,898兆瓦：歐洲能源交易所"
+    },
+    {
+      "id": "5037810",
+      "time": "2026-08-12 20:58:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力源資訊：上半年代理的村田產品銷售額佔公司代理產線銷售收入接近四分之一】力源資訊8月12日在互動平臺表示，公司是MURATA（村田）的主要授權分銷商，多年來村田一直為公司代理的第一大產品線，主要代理其MLCC產品及少量電感、磁珠、感測器、EMI濾波器等產品。目前公司代理的村田產品主要服務於AI算力（AI電源、光模組、伺服器、GPU、算力卡等）和新能源汽車等高階客戶，2026年上半年，公司代理的村田產品銷售額佔公司代理產線銷售收入接近四分之一，其MLCC銷售中，AI業務銷售額佔比約55%，汽車電子業務銷售額佔比約25%；其電感產品七月份已開始漲價。"
     },
     {
       "id": "te:economy:574774",
