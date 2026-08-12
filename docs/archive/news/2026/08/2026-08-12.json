@@ -1,7 +1,44 @@
 {
   "date": "2026-08-12",
-  "count": 1017,
+  "count": 1021,
   "items": [
+    {
+      "id": "te:economy:574612",
+      "time": "2026-08-12 12:34:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Malaysia Retail Sales Growth Slows in June — Retail sales in Malaysia rose 6.6% year-on-year in June 2026, slowing from a 7.2% increase in the previous month. Growth moderated in retail sales in non-specialised stores (7.0% vs 8.2% in May), as well as sales of other household equipment in specialised stores (3.2% vs 3.4%), automotive fuel in specialised stores (10.8% vs 12.8%), and food, beverages and tobacco in specialised stores (6.6% vs 7.2%). On the other hand, sales grew at a faster pace for other goods in specialised stores (7.0% vs 6.7%) and information and communication equipment in specialised stores (4.7% vs 3.5%). On a monthly basis, retail sales edged up 0.2%, easing from a 1.3% increase in the previous month."
+    },
+    {
+      "id": "5036849",
+      "time": "2026-08-12 12:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.2%，至180,147.40點。"
+    },
+    {
+      "id": "5036848",
+      "time": "2026-08-12 12:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將GAP公司評級從買入下調至持有，目標價從29美元下調至23美元。"
+    },
+    {
+      "id": "5036847",
+      "time": "2026-08-12 12:32:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度電動腳踏車公司 YULU 獲得 9300 萬美元新融資。"
+    },
     {
       "id": "5036846",
       "time": "2026-08-12 12:29:06",

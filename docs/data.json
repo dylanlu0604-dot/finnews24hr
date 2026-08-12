@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-12 12:31:19",
-  "count": 15309,
+  "updated": "2026-08-12 12:35:14",
+  "count": 15293,
   "items": [
+    {
+      "id": "te:economy:574612",
+      "time": "2026-08-12 12:34:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Malaysia Retail Sales Growth Slows in June — Retail sales in Malaysia rose 6.6% year-on-year in June 2026, slowing from a 7.2% increase in the previous month. Growth moderated in retail sales in non-specialised stores (7.0% vs 8.2% in May), as well as sales of other household equipment in specialised stores (3.2% vs 3.4%), automotive fuel in specialised stores (10.8% vs 12.8%), and food, beverages and tobacco in specialised stores (6.6% vs 7.2%). On the other hand, sales grew at a faster pace for other goods in specialised stores (7.0% vs 6.7%) and information and communication equipment in specialised stores (4.7% vs 3.5%). On a monthly basis, retail sales edged up 0.2%, easing from a 1.3% increase in the previous month."
+    },
+    {
+      "id": "5036849",
+      "time": "2026-08-12 12:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.2%，至180,147.40點。"
+    },
+    {
+      "id": "5036848",
+      "time": "2026-08-12 12:33:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將GAP公司評級從買入下調至持有，目標價從29美元下調至23美元。"
+    },
+    {
+      "id": "5036847",
+      "time": "2026-08-12 12:32:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度電動腳踏車公司 YULU 獲得 9300 萬美元新融資。"
+    },
     {
       "id": "5036846",
       "time": "2026-08-12 12:29:06",
@@ -139223,193 +139260,6 @@
         "國際"
       ],
       "text": "印度儲備銀行行長：通脹高企主要由燃料、食品價格上漲推動，迄今幾乎沒有跡象顯示價格壓力已普遍蔓延。整體通脹預計將於今年第三季度見頂，此後將趨緩。貨幣政策委員會（MPC）指出，儘管整體通脹預計將上升，但這主要源於供給側壓力。"
-    },
-    {
-      "id": "5025984",
-      "time": "2026-08-05 12:34:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期基準國債收益率在印度儲備銀行宣佈利率決議後變動不大，報6.7835%，前一交易日收盤為6.8152%。"
-    },
-    {
-      "id": "te:economy:572824",
-      "time": "2026-08-05 12:34:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "India Holds Rates as Expected — The Reserve Bank of India (RBI) left its key repo rate unchanged at 5.25% for the fourth consecutive meeting in September and maintained a neutral stance amid a weakening rupee. The decision was in line with market expectations, as the Middle East conflict and global uncertainty threatened GDP growth and fueled inflationary pressures. The annual inflation rate surged to 4.38% in June 2026, marking the highest level since December 2024 and rising above the RBI's 4% target for the first time in 17 months, though it remained within the central bank's 2%–6% tolerance band."
-    },
-    {
-      "id": "mkt:019fd033-9260-7aab-8f80-7ac1757e44a6",
-      "time": "2026-08-05 12:34:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Governor of the Reserve Bank of India said economic growth remains supported by domestic demand."
-    },
-    {
-      "id": "mkt:019fd033-893f-7aab-8f80-7587afcd5717",
-      "time": "2026-08-05 12:34:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran official says it will not reach any agreement under threat】Al Jazeera, citing Iranian media and an informed Iranian official, said US intervention and threats of military action, including threats from Trump, are the main reasons an Iran–Oman agreement on the Strait of Hormuz has been delayed. The official said the deal will remain postponed while US intervention and threats of military attack persist and that Iran will not conclude any agreement under threat."
-    },
-    {
-      "id": "mkt:019fd033-37f8-7aab-8f80-6a4a754a1966",
-      "time": "2026-08-05 12:34:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor expects inf to peak in Q3 this year, then gradually decline."
-    },
-    {
-      "id": "5025983",
-      "time": "2026-08-05 12:34:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通下調麥當勞調目標價 公司第二財季利潤超預期 但收入略低於預期】摩根大通將麥當勞目標價從305美元下調至280美元。麥當勞公佈的第二財季盈利超出華爾街預期，但收入略低於預期。這家總部位於芝加哥的快餐巨頭週二公佈，當季調整後每股盈利為3.38美元，高於上年同期的3.19美元，也高於FactSet調查的分析師平均預期的3.32美元。收入增長4%，至71億美元，低於分析師初步預計的71.3億美元；全球同店銷售額增長1.3%，符合華爾街的預期。"
-    },
-    {
-      "id": "mkt:019fd032-dab2-7aab-8f80-673a71ba774f",
-      "time": "2026-08-05 12:33:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said current elevated inflation is mainly driven by fuel and food price rises, and so far price pressures have not shown signs of becoming broad-based."
-    },
-    {
-      "id": "mkt:019fd032-c63b-7aab-8f80-59f5b3c6f29d",
-      "time": "2026-08-05 12:33:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says overall inflation has slightly exceeded the target."
-    },
-    {
-      "id": "mkt:019fd032-905d-7aab-8f80-532149053358",
-      "time": "2026-08-05 12:33:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says the Monetary Policy Committee maintains a neutral policy stance."
-    },
-    {
-      "id": "5025982",
-      "time": "2026-08-05 12:33:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：整體通脹已小幅上升至目標區間上方。"
-    },
-    {
-      "id": "mkt:019fd032-5e7e-7aab-8f80-49afb3e5d963",
-      "time": "2026-08-05 12:33:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said the repo rate decision was approved by unanimous vote."
-    },
-    {
-      "id": "5025981",
-      "time": "2026-08-05 12:32:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：貨幣政策委員會維持“中性”政策立場。"
-    },
-    {
-      "id": "mkt:019fd031-ec85-7aab-8f80-4331005bdf83",
-      "time": "2026-08-05 12:32:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Reserve Bank of India left its key repo rate unchanged at 5.25%, in line with expectations."
-    },
-    {
-      "id": "5025980",
-      "time": "2026-08-05 12:32:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：貨幣政策委員會對回購利率決定的表決結果為一致透過。"
-    },
-    {
-      "id": "5025979",
-      "time": "2026-08-05 12:32:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行維持關鍵利率在5.25%不變；預計利率為5.25%。"
-    },
-    {
-      "id": "mkt:019fd031-9653-7aab-8f80-39e0a6f4d6f3",
-      "time": "2026-08-05 12:32:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Reserve Bank of India holds policy rate at 5.25%; expected 5.25%, prior 5.25%."
-    },
-    {
-      "id": "mkt:019fd031-7501-7aab-8f80-36c48421494a",
-      "time": "2026-08-05 12:32:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "India | RBI Repo Rate (Aug.5) | actual 5.25% | consensus 5.25% | previous 5.25%"
-    },
-    {
-      "id": "mkt:019fd031-22b9-7aab-8f80-2f0262886fdd",
-      "time": "2026-08-05 12:31:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Emerging Markets",
-        "WTI",
-        "Impact mixed",
-        "DXY",
-        "CNH"
-      ],
-      "text": "Reserve Bank of India governor said crude oil prices, currency and financial markets remain volatile."
-    },
-    {
-      "id": "5025978",
-      "time": "2026-08-05 12:31:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國汽車製造商和經銷商協會（SMMT）初步資料顯示，7月英國新車註冊量同比上升約12%，至約15.6萬輛。"
-    },
-    {
-      "id": "mkt:019fd030-def7-7aab-8f80-244038c69aab",
-      "time": "2026-08-05 12:31:31",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Reserve Bank of India governor says the global economic environment is increasingly unstable."
     }
   ]
 }
