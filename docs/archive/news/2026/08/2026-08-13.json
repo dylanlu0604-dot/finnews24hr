@@ -1,7 +1,42 @@
 {
   "date": "2026-08-13",
-  "count": 192,
+  "count": 195,
   "items": [
+    {
+      "id": "5038121",
+      "time": "2026-08-13 04:45:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，有報告顯示格什姆島附近出現石油汙染，將此事歸咎於一艘外籍油輪，要求就波斯灣的環境破壞追究責任。"
+    },
+    {
+      "id": "mkt:019ff7b9-13d6-7aab-9013-6b189f2c36e1",
+      "time": "2026-08-13 04:45:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish",
+        "SPGI.N"
+      ],
+      "text": "S&P Global expands its partnership with Microsoft (MSFT.O) to integrate its rich, key intelligence data into Microsoft 365 Copilot."
+    },
+    {
+      "id": "te:markets:574828",
+      "time": "2026-08-13 04:45:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Extends Losses — The Ibovespa shed 0.2% to close at 167,491 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Financials were mostly lower, with Itaú losing 1.5%. B3 fell 0.3% after reporting a 15.5% year-on-year increase in expenses. Banco do Brasil added 0.8% ahead of its earnings report due after the bell. Vale shed 1.6% as iron ore prices declined, while CSN rose 0.9% ahead of its earnings. Petrobras fell 0.5% as oil prices turned lower. Rede D’Or (-2%) and Sabesp (+0.5%) are scheduled to release results after the close. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer rates, and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target."
+    },
     {
       "id": "mkt:019ff7b4-7743-7aab-9013-64c81213d67e",
       "time": "2026-08-13 04:40:27",
