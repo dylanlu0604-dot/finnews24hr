@@ -1,7 +1,63 @@
 {
-  "updated": "2026-08-13 03:24:31",
-  "count": 15045,
+  "updated": "2026-08-13 03:28:24",
+  "count": 15049,
   "items": [
+    {
+      "id": "mkt:019ff772-1d88-7aab-9012-d202fce936f8",
+      "time": "2026-08-13 03:27:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【International oil prices tick up on 12th】At the close on the 12th, NYMEX September WTI rose $0.07 to $83.27/bbl (+0.08%); ICE October Brent rose $0.07 to $88.98/bbl (+0.08%)."
+    },
+    {
+      "id": "5038091",
+      "time": "2026-08-13 03:27:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價12日微漲】國際油價12日微漲。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲7美分，收於每桶83.27美元，漲幅為0.08%；10月交貨的倫敦布倫特原油期貨價格上漲7美分，收於每桶88.98美元，漲幅為0.08%。"
+    },
+    {
+      "id": "mkt:019ff771-cc88-7aab-9012-c805cabfcc14",
+      "time": "2026-08-13 03:27:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of Defense Hegseth urged Latin American allies in Panama to withdraw from the International Criminal Court."
+    },
+    {
+      "id": "5038090",
+      "time": "2026-08-13 03:26:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思在巴拿馬發表講話，呼籲拉美盟友退出國際刑事法院。"
+    },
+    {
+      "id": "5038089",
+      "time": "2026-08-13 03:26:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：美國的藥物過量致死案例已大幅下降。芬太尼流入量大幅減少。我國西南邊境的非法越境人數已降至零。美國城市謀殺率處於近代歷史最低點，犯罪率出現歷史性下降。"
+    },
+    {
+      "id": "5038088",
+      "time": "2026-08-13 03:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克議會安全與國防委員會議員：一個親伊朗的伊拉克武裝組織每月透過卡車向伊朗轉移約4億美元現金。"
+    },
+    {
+      "id": "5038087",
+      "time": "2026-08-13 03:24:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞強震遇難人數升至241人】哥倫比亞媒體引述哥倫比亞國家災害風險管理局12日釋出的資料顯示，10日在該國西部發生的7.4級強震已造成241人死亡、3771人受傷。"
+    },
     {
       "id": "mkt:019ff76d-8c93-7aab-9012-c3c8d9ed8eeb",
       "time": "2026-08-13 03:22:59",
@@ -137322,30 +137378,6 @@
         "MKT News"
       ],
       "text": "SEC is creating a specialized unit within its Enforcement Division to provide expertise, focus and capacity to investigate accounting and financial-reporting fraud and other misconduct in accounting and auditing."
-    },
-    {
-      "id": "5027457",
-      "time": "2026-08-06 03:28:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行：在美國+日本實施干預之後，下調美元兌日元年底預期至149（之前預計為152）。"
-    },
-    {
-      "id": "5027456",
-      "time": "2026-08-06 03:28:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "厄瓜多稱已恢復與哥倫比亞的電力互通。"
-    },
-    {
-      "id": "5027455",
-      "time": "2026-08-06 03:27:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：布蘭奇將率美國代表團出席哥倫比亞總統就職儀式。"
     }
   ]
 }
