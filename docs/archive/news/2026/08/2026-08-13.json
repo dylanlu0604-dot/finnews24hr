@@ -1,7 +1,38 @@
 {
   "date": "2026-08-13",
-  "count": 261,
+  "count": 264,
   "items": [
+    {
+      "id": "te:markets:574830",
+      "time": "2026-08-13 06:30:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Gains by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas UK (3.13%) and Natural Gas EU (2.50%). Biggest losers are Methanol (-2.25%), Naphtha (-1.56%), Crude Oil WTI (-0.57%) and Brent Crude Oil (-0.47%)."
+    },
+    {
+      "id": "mkt:019ff818-5ae5-7aab-9013-e06d7b321ffb",
+      "time": "2026-08-13 06:29:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Codelco abandons copper output growth target after mine and project setbacks】Chile's state miner Codelco has abandoned a plan to raise this year's copper output to 1.34 mln t from last year's revised 1.307 mln t and now expects production to decline, sources said. The company ceded the world's top supplier spot to BHP last year; another annual drop would compound decades of weak output and soaring debt. Surging demand from data centers and electric vehicles is increasing development difficulty and costs, and Codelco's efforts to reform ageing assets have shown little progress, underscoring broader industry supply challenges."
+    },
+    {
+      "id": "5038174",
+      "time": "2026-08-13 06:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特：預計增產將在美國創造數千個直接和間接就業崗位。"
+    },
     {
       "id": "5038173",
       "time": "2026-08-13 06:21:32",
