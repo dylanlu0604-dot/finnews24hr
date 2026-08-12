@@ -1,7 +1,58 @@
 {
-  "updated": "2026-08-13 00:46:56",
-  "count": 15107,
+  "updated": "2026-08-13 00:50:59",
+  "count": 15105,
   "items": [
+    {
+      "id": "mkt:019ff6e1-b3d9-7aab-9011-5a0ba3155770",
+      "time": "2026-08-13 00:50:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Results for the U.S. 10-year Treasury auction dated Aug. 12 — stop-out yield and bid-cover ratio due in ten minutes."
+    },
+    {
+      "id": "mkt:019ff6e0-afc9-7aab-9011-56ee2f9bae97",
+      "time": "2026-08-13 00:49:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: Russian authorities said they are working to redirect cargo flows to alternative routes."
+    },
+    {
+      "id": "5038047",
+      "time": "2026-08-13 00:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部：備選運輸通道包括波羅的海、裡海、遠東地區的港口，以及各類陸路運輸線路。"
+    },
+    {
+      "id": "5038046",
+      "time": "2026-08-13 00:48:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯考慮為糧食出口開闢替代路線。"
+    },
+    {
+      "id": "5038045",
+      "time": "2026-08-13 00:48:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯社援引俄相關部門訊息：俄羅斯正著手將貨運流量轉向替代運輸線路。"
+    },
+    {
+      "id": "5038044",
+      "time": "2026-08-13 00:47:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊：2026 年 8 月 12 日夜，烏克蘭國防軍各部隊開展聯合行動，襲擊了俄羅斯克拉斯諾達爾邊疆區新羅西斯克海軍基地。"
+    },
     {
       "id": "te:economy:574815",
       "time": "2026-08-13 00:43:21",
@@ -137778,79 +137829,6 @@
         "BAYRY.O"
       ],
       "text": "Bayer: Monsanto and class counsel filed a joint motion with the Missouri circuit court seeking to reschedule the final approval hearing for the class settlement to Sept. 10 or later."
-    },
-    {
-      "id": "mkt:019fd2d5-648a-7aab-8f91-6e005ddc6d9a",
-      "time": "2026-08-06 00:50:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "PSX.N",
-        "Impact mixed"
-      ],
-      "text": "Phillips 66 (PSX.N) expects more unplanned maintenance in the near term as refineries seek to take advantage of higher margins."
-    },
-    {
-      "id": "mkt:019fd2d5-481a-7aab-8f91-65ec13c0de95",
-      "time": "2026-08-06 00:50:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. distillate exports hit record; domestic stocks at lowest seasonal level since 1996】EIA data show U.S. distillate fuel exports rose to a record 1.9 mln bpd last week, surpassing May’s prior peak, as global demand for diesel strains supplies. Exports have exceeded 1.5 mln bpd for five straight weeks. Disruptions linked to early U.S.-Iran hostilities — impeding crude and product flows through the Strait of Hormuz — and months of Ukrainian attacks on Russian refineries have tightened global diesel availability, leaving the U.S. one of the few producers able to export at scale. Despite refiners running at full tilt to boost diesel output, seasonally adjusted U.S. distillate inventories fell to their lowest level for this time of year since 1996."
-    },
-    {
-      "id": "5027372",
-      "time": "2026-08-06 00:50:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【富蘭克林鄧普頓任命Rene Buehlmann為亞太主管】富蘭克林鄧普頓週三在宣告中表示，繼續擴充其全球客戶集團（Global Client Group）管理層，以強化公司在全球產品、ETF和亞太市場的佈局。公司任命Elizabeth “Liz” Hogbin為全球產品主管、Rene Buehlmann為亞區主管，Patrick O’Connor由全球ETF主管調任全球客戶集團副董事長。Buehlmann將自9月21日起加入富蘭克林鄧普頓。Buehlmann此前曾任安本投資的全球執行長，並曾在瑞銀服務近30年，其間曾擔任瑞銀資產管理亞太區主管。他將在香港和新加坡兩地辦公。截至6月30日，公司管理的資產規模為1.79萬億美元。"
-    },
-    {
-      "id": "5027371",
-      "time": "2026-08-06 00:49:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：伊朗-阿曼協議並未具體規定路線應如何設定，而是應按照伊朗的安排進行。"
-    },
-    {
-      "id": "5027370",
-      "time": "2026-08-06 00:48:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：不會接受外國干涉霍爾木茲海峽事務。"
-    },
-    {
-      "id": "mkt:019fd2d3-3ccb-7aab-8f91-59231fa585e5",
-      "time": "2026-08-06 00:48:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said he discussed securing more interceptors with NATO Secretary General Rutte."
-    },
-    {
-      "id": "5027369",
-      "time": "2026-08-06 00:47:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基稱，他已與北約秘書呂特就爭取更多防空攔截器一事進行了交談。"
-    },
-    {
-      "id": "mkt:019fd2d2-3adf-7aab-8f91-578cc12a8c9f",
-      "time": "2026-08-06 00:47:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said an agreement with Oman does not imply implementation of Article 5 of the Islamabad memorandum of understanding."
     }
   ]
 }

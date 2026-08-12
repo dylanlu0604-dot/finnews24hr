@@ -1,7 +1,58 @@
 {
   "date": "2026-08-13",
-  "count": 39,
+  "count": 45,
   "items": [
+    {
+      "id": "mkt:019ff6e1-b3d9-7aab-9011-5a0ba3155770",
+      "time": "2026-08-13 00:50:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Results for the U.S. 10-year Treasury auction dated Aug. 12 — stop-out yield and bid-cover ratio due in ten minutes."
+    },
+    {
+      "id": "mkt:019ff6e0-afc9-7aab-9011-56ee2f9bae97",
+      "time": "2026-08-13 00:49:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASS: Russian authorities said they are working to redirect cargo flows to alternative routes."
+    },
+    {
+      "id": "5038047",
+      "time": "2026-08-13 00:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部：備選運輸通道包括波羅的海、裡海、遠東地區的港口，以及各類陸路運輸線路。"
+    },
+    {
+      "id": "5038046",
+      "time": "2026-08-13 00:48:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯考慮為糧食出口開闢替代路線。"
+    },
+    {
+      "id": "5038045",
+      "time": "2026-08-13 00:48:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "塔斯社援引俄相關部門訊息：俄羅斯正著手將貨運流量轉向替代運輸線路。"
+    },
+    {
+      "id": "5038044",
+      "time": "2026-08-13 00:47:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊：2026 年 8 月 12 日夜，烏克蘭國防軍各部隊開展聯合行動，襲擊了俄羅斯克拉斯諾達爾邊疆區新羅西斯克海軍基地。"
+    },
     {
       "id": "te:economy:574815",
       "time": "2026-08-13 00:43:21",
