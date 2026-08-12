@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-13 02:33:21",
-  "count": 15070,
+  "updated": "2026-08-13 02:41:20",
+  "count": 15061,
   "items": [
+    {
+      "id": "te:economy:574823",
+      "time": "2026-08-13 02:39:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Trade Deficit Widens in July — Paraguay's trade deficit widened to $95.98 million in July 2026 from $89.07 million a year earlier, as imports grew faster than exports. Imports surged 30.6% year-on-year to $2.04 billion, led by increases in purchases of intermediate goods (36.9%), capital goods (36.7%), and consumer goods (18.2%). Meanwhile, exports rose 32% to $1.94 billion. Sales of primary products increased 27.7%, while agricultural manufacturing exports rose 24.2% and industrial manufacturing exports jumped 40.9%."
+    },
+    {
+      "id": "5038077",
+      "time": "2026-08-13 02:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價漲幅擴大至12%，創7月10日以來新高。"
+    },
     {
       "id": "mkt:019ff73f-c335-7aab-9012-8431323b2d5a",
       "time": "2026-08-13 02:32:58",
@@ -137455,101 +137475,6 @@
         "市場"
       ],
       "text": "布倫特原油期貨收於每桶79.45美元，上漲9美分，漲幅0.11%。"
-    },
-    {
-      "id": "mkt:019fd33a-7914-7aab-8f92-eb5690175c38",
-      "time": "2026-08-06 02:40:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president said adversaries attempted to impose on Iran the same fate as Syria through war and sanctions, and that the Iranian people's resilience and determination have thwarted those plots."
-    },
-    {
-      "id": "mkt:019fd339-e677-7aab-8f92-e41d6892ebd6",
-      "time": "2026-08-06 02:40:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mass shooting at North Carolina residence leaves multiple dead and injured, SBI says】A mass shooting at a residence in Caswell County, North Carolina, on Aug. 5 left multiple people dead and injured, the North Carolina State Bureau of Investigation (SBI) said. County officers who responded to a morning call found several gunshot victims; one was taken to hospital in unknown condition and several others were dead. SBI said the public is not at risk and the incident was confined to the residence."
-    },
-    {
-      "id": "5027432",
-      "time": "2026-08-06 02:39:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國北卡羅來納州發生大規模槍擊事件 多人傷亡】美國北卡羅來納州一處住宅發生大規模槍擊事件，造成多人傷亡。北卡羅來納州調查局（SBI）在一份新聞稿中稱，卡斯韋爾縣的警員當天上午接到報警，隨後趕往現場。據悉，警員在現場發現了多名中槍者，其中一人被送往醫院，傷情不明，另有多人死亡。北卡羅來納州調查局表示，目前公眾沒有受到威脅，槍擊事件僅限於該住宅內。"
-    },
-    {
-      "id": "5027431",
-      "time": "2026-08-06 02:39:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國電力協會（EEI）表示，美國周發電量較上年同期增長約0.9%。"
-    },
-    {
-      "id": "5027430",
-      "time": "2026-08-06 02:39:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿波羅聘請裡德·雷曼領導其晶片領域的業務。"
-    },
-    {
-      "id": "mkt:019fd339-1848-7aab-8f92-de83ee01458c",
-      "time": "2026-08-06 02:39:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Information reports Apollo has appointed Reed Rayman to head its semiconductor coverage business."
-    },
-    {
-      "id": "mkt:019fd337-c259-7aab-8f92-d6a7cb10e492",
-      "time": "2026-08-06 02:37:54",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "APO.O",
-        "Impact bullish"
-      ],
-      "text": "The Information reports Apollo Global Management has appointed a new head of artificial intelligence to pursue larger financing deals."
-    },
-    {
-      "id": "mkt:019fd337-99e0-7aab-8f92-cd4d763c959e",
-      "time": "2026-08-06 02:37:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said the government will invest CAD 2.7 bln over three years to build rental housing projects in Toronto."
-    },
-    {
-      "id": "5027429",
-      "time": "2026-08-06 02:37:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿波羅全球管理聘請新人工智慧行業主管以追求更多巨型融資交易。"
-    },
-    {
-      "id": "5027428",
-      "time": "2026-08-06 02:37:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼表示，其政府將在三年內投入27億加元，在多倫多開發租賃住房專案。"
-    },
-    {
-      "id": "mkt:019fd333-fc62-7aab-8f92-c14ac6a1526a",
-      "time": "2026-08-06 02:33:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Houthi forces say they struck Saudi tanker in Gulf of Aden】Houthi forces said they struck a Saudi tanker in the Gulf of Aden. Military spokesman Yahya Saree said the tanker, named Daisy, was hit by a ballistic missile and forced to turn back. The group said the attack was part of a maritime blockade against Saudi targets."
     }
   ]
 }

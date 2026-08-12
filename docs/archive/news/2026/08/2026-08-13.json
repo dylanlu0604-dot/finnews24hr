@@ -1,7 +1,27 @@
 {
   "date": "2026-08-13",
-  "count": 115,
+  "count": 117,
   "items": [
+    {
+      "id": "te:economy:574823",
+      "time": "2026-08-13 02:39:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Paraguay Trade Deficit Widens in July — Paraguay's trade deficit widened to $95.98 million in July 2026 from $89.07 million a year earlier, as imports grew faster than exports. Imports surged 30.6% year-on-year to $2.04 billion, led by increases in purchases of intermediate goods (36.9%), capital goods (36.7%), and consumer goods (18.2%). Meanwhile, exports rose 32% to $1.94 billion. Sales of primary products increased 27.7%, while agricultural manufacturing exports rose 24.2% and industrial manufacturing exports jumped 40.9%."
+    },
+    {
+      "id": "5038077",
+      "time": "2026-08-13 02:37:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價漲幅擴大至12%，創7月10日以來新高。"
+    },
     {
       "id": "mkt:019ff73f-c335-7aab-9012-8431323b2d5a",
       "time": "2026-08-13 02:32:58",
