@@ -1,7 +1,73 @@
 {
-  "updated": "2026-08-12 17:45:39",
-  "count": 15146,
+  "updated": "2026-08-12 17:49:46",
+  "count": 15143,
   "items": [
+    {
+      "id": "5037428",
+      "time": "2026-08-12 17:48:26",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛：美聯儲 2026 年大機率維持利率不變，通脹下半年將緩和】高盛歐洲、中東及非洲投資策略主管馬特烏斯・迪博表示，美聯儲 2026 年很可能全程維持利率不變，通脹風險將在今年下半年趨於緩和。迪博週三稱：“很明顯，市場目前仍在計價加息，但我們並不認同，我們認為美聯儲在可預見的未來將保持利率不動。”迪博表示，年初通脹資料走高受油價、世界盃以及關稅因素推動，目前幾乎沒有跡象顯示通脹會在 2026 年剩餘時間內全面擴散。他補充稱，從房地產市場走勢來看，住房通脹有望回落。“我們認為薪資不會成為通脹壓力的主要來源，因為美國勞動力市場遠非繁榮。”"
+    },
+    {
+      "id": "mkt:019ff55e-5ec2-7aab-9006-96c9bf250ca7",
+      "time": "2026-08-12 17:47:10",
+      "tags": [
+        "MKT News",
+        "03750.HK",
+        "Impact bearish"
+      ],
+      "text": "HKEX data show JP Morgan's short position in CATL (03750.HK) H shares rose to 3.09% on Aug 7 from 2.45%."
+    },
+    {
+      "id": "mkt:019ff55e-5e0c-7aab-9006-8c01dbc41789",
+      "time": "2026-08-12 17:47:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Ukraine urges EU to target minerals feeding Russian arms industry】A Kyiv-based think tank and Ukraine's Economic Security Council urged the EU to target imports of critical minerals that sustain Russia's weapons production. Their report says Russia imported more than $1.1bn of strategic minerals for military-related uses over one year, including alumina, tantalum and molybdenum, and identifies other required inputs such as beryllium, tungsten, manganese, niobium, rhenium and titanium. Many of these commodities flowed into the supply chains of dozens of Russian firms that produce missiles, aircraft, armored vehicles, munitions, electronics and engines. The EU has not imposed export restrictions; proposed measures require unanimity among 27 member states and face pressure from some governments seeking exemptions or weaker language, complicating adoption."
+    },
+    {
+      "id": "5037427",
+      "time": "2026-08-12 17:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【重慶水務：董事長鄭如彬離任】重慶水務(601158)8月12日公告，鄭如彬因工作調整原因辭去公司法定代表人、第六屆董事會董事、董事長、戰略委員會委員（召集人）、提名委員會委員職務。"
+    },
+    {
+      "id": "5037426",
+      "time": "2026-08-12 17:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波港：寧波遠洋定向發行獲註冊批覆，發行價格7.47元/股寧波港：寧波遠洋定向發行獲註冊批覆，發行價格7.47元/股】寧波港公告，公司此前披露擬參與控股子公司寧波遠洋向特定物件發行股票並引入戰略投資者。寧波遠洋近日收到中國證監會出具的《關於同意寧波遠洋運輸股份有限公司向特定物件發行股票註冊的批覆》。本次發行股票數量1.45億股，發行價格調整為7.47元/股；公司擬認購7270.19萬股，認購資金總額調整為5.43億元；戰略投資者北部灣港擬認購7270.19萬股。"
+    },
+    {
+      "id": "5037425",
+      "time": "2026-08-12 17:45:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【挪威主權財富基金利潤重新整理紀錄】規模達 2.3 萬億美元的挪威主權財富基金上半年實現利潤 1843 億美元，創下歷史新高，主要受益於亞洲科技股上漲。這家全球最大投資機構持有約 7100 家公司的股權，包括英偉達、蘋果、Alphabet、微軟以及臺積電。但該基金集中度風險正在上升：目前前十大重倉佔基金總規模的 20%。基金執行長尼科萊・唐根指出基金對晶片廠商的依賴度不斷提升，並警示：“我們從未見過如此高的持倉集中度。”"
+    },
+    {
+      "id": "mkt:019ff55c-dea3-7aab-9006-84c48a2ae890",
+      "time": "2026-08-12 17:45:31",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Drone strikes damage three grain terminals at Novorossiysk, raising wheat supply concerns】Drone strikes damaged three grain terminals at Russia’s Black Sea port of Novorossiysk, including a United Grain Company processing plant where a loading conveyor collapsed, and hit loading corridors and truck-unloading facilities; the Kosk grain terminal was also struck. The attacks occurred as Ukraine has stepped up strikes on key maritime infrastructure. Russia and Ukraine have recently increased attacks on each other’s Black Sea commercial vessels and ports, stoking grain supply concerns and helping push wheat to a two-year high in July. The two countries together supply more than a quarter of global wheat exports, and farmers are in the mid-season harvest."
+    },
     {
       "id": "5037424",
       "time": "2026-08-12 17:44:49",
@@ -137769,92 +137835,6 @@
         "市場"
       ],
       "text": "美銀預計干預後日元將走強，將美元兌日元年終預測從152下調至149，當前匯價為157.7。"
-    },
-    {
-      "id": "mkt:019fd154-2dd7-7aab-8f88-cdb7df4d5d50",
-      "time": "2026-08-05 17:49:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN human rights chief says Iran has executed at least 56 people accused of national-security-related crimes since March 19, including 27 cases linked to protests earlier this year."
-    },
-    {
-      "id": "5026627",
-      "time": "2026-08-05 17:49:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美諾華：阿格列汀口服常釋劑型擬中選第十二批全國藥品集中採購】美諾華公告稱，公司全資子公司美諾華天康參加第十二批全國藥品集中採購，阿格列汀口服常釋劑型擬中選。該藥品適用於治療2型糖尿病，規格為25mg*30片/瓶。截至2026年6月底，該產品在國內市場未產生銷售。目前擬中選結果已公示，後續事項及對公司業績影響尚存不確定性。"
-    },
-    {
-      "id": "5026626",
-      "time": "2026-08-05 17:48:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶水務：4663.99萬元收購潼南南區汙水處理廠二期資產】重慶水務公告稱，公司所屬重慶市渝西水務有限公司以4663.99萬元收購關聯方重慶水務環境集團建設的潼南南區汙水處理廠二期擴建工程資產及相關債權債務。該交易已透過公司獨立董事專門會議和第六屆董事會第三十次會議審議，無需提交股東會。過去12個月，公司與同一關聯人累計關聯交易金額9274.84萬元，佔最近一期經審計淨資產的0.54%。交易尚需按國資監管規則完善手續。"
-    },
-    {
-      "id": "5026625",
-      "time": "2026-08-05 17:47:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【壹網壹創：終止發行股份及支付現金購買北京聯世傳奇100%股權】壹網壹創公告，公司此前擬以發行股份及支付現金方式向楊光宏等交易對方購買北京聯世傳奇網路技術有限公司100%股權，並擬募集配套資金。經多輪溝通談判，交易各方仍未能就本次交易核心條款達成統一意見，公司於2026年8月5日召開第四屆董事會第十七次會議，審議透過終止本次交易，並承諾自公告披露之日起1個月內不再籌劃重大資產重組相關事項。終止本次交易不會對公司現有日常經營及財務狀況產生重大不利影響。"
-    },
-    {
-      "id": "5026624",
-      "time": "2026-08-05 17:47:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京宣佈，傑尼斯・利亞明將執掌俄羅斯無人機部隊  。"
-    },
-    {
-      "id": "mkt:019fd151-536d-7aab-8f88-c2c14582925b",
-      "time": "2026-08-05 17:46:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【China Iron and Steel Association: Fairer, more transparent, sustainable iron ore market order taking shape】The China Iron and Steel Association (CISA) says the iron‑ore value chain has long been structurally imbalanced—large international miners have earned outsized profits while Chinese steelmakers faced margin pressure—hurting industry sustainability. Calls for rule changes and value realignment have intensified, and CISA says the market structure is undergoing deep adjustment toward a fairer, more transparent and sustainable order. Drivers cited: China’s very large market is acting as a stable offset to global supply variability; diversified sources of supply are being developed; resolving upstream‑downstream distribution imbalances has become consensus; and more objective, transparent pricing mechanisms are emerging. CISA noted dollar‑denominated indices were historically based on a small number of trades by a few international miners, whereas China’s large port spot market prices better reflect actual supply‑demand conditions."
-    },
-    {
-      "id": "5026623",
-      "time": "2026-08-05 17:46:33",
-      "tags": [
-        "行業",
-        "市場",
-        "焦點"
-      ],
-      "text": "【中鋼協：更加公平、透明、可持續的鐵礦石市場新秩序正逐步構建】長期以來，鐵礦石產業鏈上下游呈現結構性失衡特點，上游國際礦企“富得流油”和下游國內鋼鐵企業“艱難度日”形成鮮明對比。這種不均衡、不合理的上下游利益分配格局，影響了整個產業的健康可持續發展。近年來，各方對規則重構和價值迴歸的呼聲與日俱增，鐵礦石市場格局面臨深刻調整，更加公平、透明、可持續的市場新秩序正在逐步構建。首先，中國以超大規模市場的“常量”對沖了全球供給的“變數”。其次，多元化資源供應體系正在構建。再次，解決上下游利益結構性失衡問題已成為共識。最後，更加客觀透明的鐵礦石定價機制逐步建立。很長一段時間以來，美元指數定價大多基於美元市場的少量國際礦企交易價格。中國擁有全球最大的港口現貨市場，其交易價格能夠更加客觀、真實反映市場供需狀況。（中國鋼鐵工業協會）"
-    },
-    {
-      "id": "5026622",
-      "time": "2026-08-05 17:46:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "KNDS 董事長恩德斯：我們當前首要任務仍是推進 IPO。"
-    },
-    {
-      "id": "5026621",
-      "time": "2026-08-05 17:46:03",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "港交所披露：7月30日，高盛集團持有的中際旭創H股（3308.HK）多頭倉位從5.95％提升至11.90％。"
-    },
-    {
-      "id": "5026620",
-      "time": "2026-08-05 17:45:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX： 獵鷹 9 號火箭於佛羅里達州 40 號發射臺升空。"
     }
   ]
 }
