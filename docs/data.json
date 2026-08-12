@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 00:38:35",
-  "count": 15119,
+  "updated": "2026-08-13 00:42:58",
+  "count": 15115,
   "items": [
+    {
+      "id": "5038043",
+      "time": "2026-08-13 00:38:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞全國咖啡種植者聯合會：哥倫比亞加勒比海港口咖啡出口持續正常開展，未受中斷影響。因基礎設施檢查及通路受阻，哥倫比亞布埃納文圖拉港咖啡出口臨時暫停。"
+    },
     {
       "id": "mkt:019ff6d6-81eb-7aab-9011-4f09aee2e982",
       "time": "2026-08-13 00:38:00",
@@ -137915,47 +137923,6 @@
         "Impact bullish"
       ],
       "text": "Phillips 66 (PSX.N): the macro environment for refining remains strong."
-    },
-    {
-      "id": "5027365",
-      "time": "2026-08-06 00:42:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "知情人士：即便伊朗與阿曼達成協議，霍爾木茲海峽重新開放仍需另行安排，其中也包含美國履行相關承諾。"
-    },
-    {
-      "id": "5027364",
-      "time": "2026-08-06 00:41:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【盧拉：美國撤銷巴西駐美大使簽證是“不負責任”做法】巴西總統盧拉5日接受媒體採訪時表示，美國政府近期撤銷巴西駐美大使簽證是“不負責任、缺乏考慮的做法”。盧拉呼籲兩國保持冷靜，同時強調巴西已做好準備，應對任何企圖干涉本國選舉程序的外部勢力。"
-    },
-    {
-      "id": "5027363",
-      "time": "2026-08-06 00:40:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基與北約秘書長通電話，磋商彈道導彈相關議題。"
-    },
-    {
-      "id": "mkt:019fd2cc-28a3-7aab-8f91-24cf32e91c34",
-      "time": "2026-08-06 00:40:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Fars News Agency cited a source saying that if Iran and Oman finalize an agreement, reopening the Strait of Hormuz would require separate arrangements, including U.S. fulfillment of related commitments."
-    },
-    {
-      "id": "5027362",
-      "time": "2026-08-06 00:39:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（前白宮首席醫療顧問）福奇對數百萬人犯下了難以言喻的暴行，一切都是為了權力、名聲和金錢。"
     }
   ]
 }
