@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-12 23:14:31",
-  "count": 15143,
+  "updated": "2026-08-12 23:18:35",
+  "count": 15140,
   "items": [
+    {
+      "id": "5038003",
+      "time": "2026-08-12 23:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼環境局稱，此次原油洩漏最終或對拉斯馬德拉卡 40 公里海岸線造成影響。"
+    },
+    {
+      "id": "mkt:019ff68c-d5da-7aab-9010-3d8ab4a34cdb",
+      "time": "2026-08-12 23:17:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Environment Authority says oil spill could affect up to 40 km of coastline at Ras Madrakah."
+    },
+    {
+      "id": "mkt:019ff68c-aabb-7aab-9010-3106c6e84435",
+      "time": "2026-08-12 23:17:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman Environment Authority said leaked oil has reached the country's southeastern coast."
+    },
+    {
+      "id": "5038002",
+      "time": "2026-08-12 23:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼環境局表示，原油洩漏已抵達該國東南部海岸。"
+    },
+    {
+      "id": "5038001",
+      "time": "2026-08-12 23:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬 6 月經濟活動同比增長 8.23%。"
+    },
     {
       "id": "mkt:019ff689-25e3-7aab-9010-2b6a74e85293",
       "time": "2026-08-12 23:13:30",
@@ -138100,72 +138145,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：巴基斯坦與卡達仍在為緩和地區緊張局勢持續斡旋，伊朗也同兩國保持溝通、交換意見。"
-    },
-    {
-      "id": "5027298",
-      "time": "2026-08-05 23:18:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "工會負責人稱，智利國家銅業公司旗下特尼恩特銅礦（El Teniente）擴建專案的暫停可能持續兩年。"
-    },
-    {
-      "id": "5027297",
-      "time": "2026-08-05 23:17:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國倫敦考文特花園發生持刀傷人事件，四人受傷，一名女性已被逮捕。"
-    },
-    {
-      "id": "5027296",
-      "time": "2026-08-05 23:16:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "優步執行長：尚未觀察到消費走弱的跡象。"
-    },
-    {
-      "id": "5027295",
-      "time": "2026-08-05 23:16:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達與埃及在安曼外長會晤期間，就地區緊張局勢以及霍爾木茲海峽問題展開磋商。"
-    },
-    {
-      "id": "mkt:019fd27f-1829-7aab-8f90-3578ccb7c24a",
-      "time": "2026-08-05 23:16:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve Bank of Dallas and the Federal Reserve Bank of New York will launch a pilot survey of the private credit market at the end of Q3 2026."
-    },
-    {
-      "id": "5027294",
-      "time": "2026-08-05 23:15:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部將過去25年的美國武器測試報告移出公開查閱渠道。"
-    },
-    {
-      "id": "5027293",
-      "time": "2026-08-05 23:14:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會發言人：歐盟針對巴西的食品合規審計將不涵蓋牛肉、雞蛋品類。"
-    },
-    {
-      "id": "5027292",
-      "time": "2026-08-05 23:14:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：我們本週末沒有前往巴基斯坦和卡達的計劃。"
     }
   ]
 }

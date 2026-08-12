@@ -1,7 +1,52 @@
 {
   "date": "2026-08-12",
-  "count": 2734,
+  "count": 2739,
   "items": [
+    {
+      "id": "5038003",
+      "time": "2026-08-12 23:17:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼環境局稱，此次原油洩漏最終或對拉斯馬德拉卡 40 公里海岸線造成影響。"
+    },
+    {
+      "id": "mkt:019ff68c-d5da-7aab-9010-3d8ab4a34cdb",
+      "time": "2026-08-12 23:17:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Oman Environment Authority says oil spill could affect up to 40 km of coastline at Ras Madrakah."
+    },
+    {
+      "id": "mkt:019ff68c-aabb-7aab-9010-3106c6e84435",
+      "time": "2026-08-12 23:17:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman Environment Authority said leaked oil has reached the country's southeastern coast."
+    },
+    {
+      "id": "5038002",
+      "time": "2026-08-12 23:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼環境局表示，原油洩漏已抵達該國東南部海岸。"
+    },
+    {
+      "id": "5038001",
+      "time": "2026-08-12 23:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴拿馬 6 月經濟活動同比增長 8.23%。"
+    },
     {
       "id": "mkt:019ff689-25e3-7aab-9010-2b6a74e85293",
       "time": "2026-08-12 23:13:30",
