@@ -1,7 +1,27 @@
 {
   "date": "2026-08-13",
-  "count": 190,
+  "count": 192,
   "items": [
+    {
+      "id": "mkt:019ff7b4-7743-7aab-9013-64c81213d67e",
+      "time": "2026-08-13 04:40:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, a senior US State Department official said the US is urging all parties to abide by the framework agreement. The official said Israel has made clear it does not intend to occupy Lebanese territory and that prolonged Israeli deployments in southern Lebanon would breach the agreement and undermine long-term peace and security."
+    },
+    {
+      "id": "mkt:019ff7b3-a3dd-7aab-9013-5adc248f6322",
+      "time": "2026-08-13 04:39:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports the Trump administration criticized Israeli Defense Minister KATZ's remarks advocating continued occupation of southern Lebanon, saying the comments breach commitments in agreements Israel signed with the U.S. and Lebanon."
+    },
     {
       "id": "5038120",
       "time": "2026-08-13 04:37:37",

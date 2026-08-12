@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-13 04:38:48",
-  "count": 15023,
+  "updated": "2026-08-13 04:42:44",
+  "count": 15024,
   "items": [
+    {
+      "id": "mkt:019ff7b4-7743-7aab-9013-64c81213d67e",
+      "time": "2026-08-13 04:40:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, a senior US State Department official said the US is urging all parties to abide by the framework agreement. The official said Israel has made clear it does not intend to occupy Lebanese territory and that prolonged Israeli deployments in southern Lebanon would breach the agreement and undermine long-term peace and security."
+    },
+    {
+      "id": "mkt:019ff7b3-a3dd-7aab-9013-5adc248f6322",
+      "time": "2026-08-13 04:39:32",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Axios reports the Trump administration criticized Israeli Defense Minister KATZ's remarks advocating continued occupation of southern Lebanon, saying the comments breach commitments in agreements Israel signed with the U.S. and Lebanon."
+    },
     {
       "id": "5038120",
       "time": "2026-08-13 04:37:37",
@@ -137026,16 +137046,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Edges Lower Ahead of Rate Decision — The Ibovespa edged down 0.1% to close at 177,726 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Markets expect Copom to cut the Selic rate by 25 basis points to 14.0%, with attention focused on the accompanying statement for clues on whether another cut could follow in September. Financial stocks were mostly lower, with Bradesco down 0.8% and BB Seguridade losing 0.9%. In contrast, Itaú gained 0.7% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Gerdau rebounded 1.7% after posting stronger-than-expected 2Q26 results, while RD Saúde led gains, rising 5.9% following its earnings release. Petrobras fell 1.3% as oil prices declined. Bradesco, Axia (0%), Auren (-1.1%), Brava (+2.6%), and Engie (-1%) are set to report earnings after the close."
-    },
-    {
-      "id": "5027493",
-      "time": "2026-08-06 04:39:43",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事庫克警告通脹固化風險 稱必要時將支援加息】美聯儲理事麗莎·庫克重申，如果通脹不能放緩，她準備好支援加息，並警告稱，決策者可能沒有足夠時間等待通脹回落至2%的目標。儘管庫克支援美聯儲7月會議維持利率不變的決定，但她提醒稱，通脹持續高於美聯儲目標的時間越長，未來遏制通脹的難度就越大。“如果我不能很快看到通脹持續回落的跡象，我準備好採取行動，”庫克週三在阿拉斯加一場活動發表講話時表示。“通脹連續五年高於目標水平，意味著高通脹固化到企業定價和工資設定行為中的風險上升，從而導致頑固通脹，屆時我們將更難加以遏制。”庫克表示，關稅影響減弱、油價可能下跌以及人工智慧熱潮相關的壓力有所緩和，這些因素都可能有助於降低通脹，從而消除收緊政策的必要性。儘管如此，庫克強調，她的首要任務仍是推動通脹回到美聯儲的目標水平。“如果大家從今天的講話中只記住一點，我希望那就是，我堅定致力於恢復價格穩定，”庫克表示。“首先也是最重要的是讓通脹回到目標水平，這對於實現國會賦予美聯儲的雙重使命至關重要。”"
     }
   ]
 }
