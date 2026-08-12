@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-12 22:45:13",
-  "count": 15164,
+  "updated": "2026-08-12 22:49:14",
+  "count": 15169,
   "items": [
+    {
+      "id": "5037976",
+      "time": "2026-08-12 22:48:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多個駐外使館駁斥特朗普索賠論】美國總統特朗普8月10日突然向伊朗提出索賠，要求伊朗“為數十年來美軍士兵的死亡支付賠償”。對此，伊朗多個駐外使館予以駁斥，他們列舉出美國犯下的多重罪行，並表示應該承擔賠償責任的理應是美國。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ff671-c200-7aab-900f-d4f8cd735584",
+      "time": "2026-08-12 22:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Washington Post reports the U.S. will stop supporting a major Arctic climate report."
+    },
+    {
+      "id": "5037975",
+      "time": "2026-08-12 22:47:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，上週美國商業原油進口量攀升，創2024年11月以來新高。"
+    },
+    {
+      "id": "5037974",
+      "time": "2026-08-12 22:46:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國將停止支援一份關鍵北極氣候報告。"
+    },
+    {
+      "id": "te:economy:574796",
+      "time": "2026-08-12 22:46:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 2"
+      ],
+      "text": "US Crude Stocks Surge Last Week: EIA — US crude inventories rose by 17.422 million barrels to 424.4 million barrels in the week ended August 7, the most since January 2023 and compared with market expectations for a 1.4 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 1.768 million barrels in the week. Refinery crude runs increased by 26 thousand barrels per day. Gasoline stocks fell by 0.968 million barrels to 208.7 million barrels, compared with expectations for a 1.2 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, were little changed at 107.2 million barrels, versus expectations for a 1.3 million-barrel fall. Net US crude imports increased by 1.768 million barrels per day."
+    },
+    {
+      "id": "mkt:019ff66e-fba3-7aab-900f-c862cfb16a8b",
+      "time": "2026-08-12 22:44:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA report: U.S. crude oil net imports last week climbed to their highest level since June 2025."
+    },
+    {
+      "id": "5037973",
+      "time": "2026-08-12 22:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，上週美國原油淨進口量升至2025年6月以來最高水平。"
+    },
     {
       "id": "5037972",
       "time": "2026-08-12 22:44:24",
@@ -138343,23 +138408,6 @@
         "其他"
       ],
       "text": "密歇根州衛生部：截至8月5日，共報告12218例環孢子蟲病確診病例。"
-    },
-    {
-      "id": "5027252",
-      "time": "2026-08-05 22:48:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：將8月6日美元對盧布官方匯率設定為1美元兌換80.9293盧布（此前匯率為1美元兌換81.1291盧布）。"
-    },
-    {
-      "id": "5027251",
-      "time": "2026-08-05 22:47:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
     }
   ]
 }
