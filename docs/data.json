@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-12 14:04:20",
-  "count": 15198,
+  "updated": "2026-08-12 14:08:21",
+  "count": 15199,
   "items": [
+    {
+      "id": "5036925",
+      "time": "2026-08-12 14:07:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：中國汽車出口之所以能夠保持高速增長，主要是中國擁有全球最完整的汽車產業鏈】中國汽車工業協會相關負責人表示，中國汽車出口之所以能夠保持高速增長，主要是中國擁有全球最完整的汽車產業鏈。從鋰礦加工、電池製造、電機電控到整車組裝，不僅產能充足、成本可控，而且供應鏈抗風險能力強。此外，我國汽車產業的智慧化形成了核心競爭力，智慧駕駛、座艙互動等功能能夠快速迭代，精準適配海外使用者的需求。中國汽車工業協會副秘書長陳士華表示，綜合來看，當前我國汽車市場呈現出“內需承壓、外貿強勁”的特徵，出口正在成為穩住行業大盤的關鍵力量和核心增長引擎。（央視新聞）"
+    },
+    {
+      "id": "5036924",
+      "time": "2026-08-12 14:06:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國政府12日表示，將向哥倫比亞地震災區提供100萬美元的人道主義援助。"
+    },
+    {
+      "id": "5036923",
+      "time": "2026-08-12 14:06:17",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【多隻地產ETF漲超4％】午後房地產板塊持續拉昇，地產ETF華寶（159707）、房地產ETF銀華（159768）、房地產ETF華夏（515060）漲超4％，此前濱江集團漲停，招商蛇口、新城控股等大幅拉昇。"
+    },
+    {
+      "id": "5036922",
+      "time": "2026-08-12 14:06:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明12日在總統府青瓦臺首次接見新任美國駐韓大使米歇爾·斯蒂爾，並對其履新表示歡迎。"
+    },
+    {
+      "id": "mkt:019ff493-64a2-7aab-9001-23f306bfa022",
+      "time": "2026-08-12 14:05:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea unveils seven strategic tech projects covering nuclear, quantum, space and biotech】South Korea on Wednesday unveiled an ambitious seven-project technology strategy targeting nuclear energy, quantum computing, space, biotechnology and related advanced sectors to seek growth engines beyond semiconductors and AI. Key targets include commercial deployment of domestically developed small modular reactors by 2035, a lunar landing by 2030, a domestic 100‑qubit quantum computer by 2029, and commercial brain‑computer interface products by 2035. The plan is framed as a response to slowing long-term growth and intensifying global tech competition; the science minister said the government will support these seed projects over the next 10–20 years."
+    },
     {
       "id": "mkt:019ff490-7e98-7aab-9001-1e616366a05a",
       "time": "2026-08-12 14:02:17",
@@ -138337,38 +138379,6 @@
         "公司"
       ],
       "text": "諾和諾德執行長：我們估計英國約有30萬名患者已經開始服用司美格魯肽口服片Wegovy。"
-    },
-    {
-      "id": "5026100",
-      "time": "2026-08-05 14:07:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：Wegovy口服片已佔據口服肥胖症藥物市場約90%的份額。"
-    },
-    {
-      "id": "5026099",
-      "time": "2026-08-05 14:07:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價在Tradegate下跌7%，與其美股盤後走勢大致一致。"
-    },
-    {
-      "id": "5026098",
-      "time": "2026-08-05 14:04:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：全球有150萬人服用WEGOVY藥片。"
-    },
-    {
-      "id": "5026097",
-      "time": "2026-08-05 14:04:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMD股票在Tradegate交易所下跌7.8%，跌幅略小於其美股盤後交易的跌幅。"
     }
   ]
 }
