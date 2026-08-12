@@ -1,7 +1,89 @@
 {
   "date": "2026-08-12",
-  "count": 2132,
+  "count": 2141,
   "items": [
+    {
+      "id": "5037661",
+      "time": "2026-08-12 19:51:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗賈斯克縣發生爆炸。"
+    },
+    {
+      "id": "5037660",
+      "time": "2026-08-12 19:51:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寒武紀董事長談“存貨超82億”：將持續拓展市場，控制相關風險】今日舉辦的寒武紀2026年半年度業績說明會上，寒武紀董事長、總經理陳天石談及公司存貨超82億元（佔總資產比例45.32%）時直言，“公司根據客戶訂單需求及市場未來需求的預測情況制定採購計劃，若未來市場環境發生變化可能導致公司存貨跌價風險增加，對公司的盈利能力產生不利影響，公司將持續拓展市場，積極助力人工智慧應用落地，控制相關風險。”（新浪科技）"
+    },
+    {
+      "id": "mkt:019ff5cf-ff92-7aab-9009-2849131d3fb7",
+      "time": "2026-08-12 19:51:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market sources report an explosion in Jask County, Iran."
+    },
+    {
+      "id": "5037658",
+      "time": "2026-08-12 19:51:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波遠洋：向特定物件發行股票獲證監會註冊批覆，12個月內有效】寧波遠洋公告，公司近日收到中國證監會出具的《關於同意寧波遠洋運輸股份有限公司向特定物件發行股票註冊的批覆》（證監許可〔2026〕1825號），同意公司向特定物件發行股票的註冊申請。本次發行應嚴格按照報送上海證券交易所的申報檔案和發行方案實施，批覆自同意註冊之日起12個月內有效。"
+    },
+    {
+      "id": "5037657",
+      "time": "2026-08-12 19:50:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【京澳首筆多邊央行數字貨幣橋跨境交易業務成功落地】8月12日，據人民銀行北京市分行官方微信，2026年7月，在人民銀行北京市分行統籌指導下，郵儲銀行北京分行成功落地北京市首筆面向澳門特別行政區多邊央行數字貨幣橋（以下簡稱“貨幣橋”）跨境交易業務。本次業務依託貨幣橋向澳門特別行政區某企業支付交通一卡通結算款，實現首都數字人民幣民生場景跨境應用全新突破。"
+    },
+    {
+      "id": "5037656",
+      "time": "2026-08-12 19:50:37",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊銀行：對9月至12月歐洲期貨交易所債券展期持溫和看好態度】巴克萊銀行策略師對德國國債（Bund）、波本威士忌（Bobl）、沙茨（Schatz）、義大利國債（BTP）和奧地利國債（OAT）的展期持溫和看漲態度，此前他們在7月份的下跌行情中建立了空頭頭寸。策略師表示，隨著合約價格從7月下旬的低點反彈，部分空頭頭寸可能已於近期平倉。“就目前情況來看，我們認為CTA和動量投資者總體上可能會在許多近月合約中持有一定數量的空頭頭寸，”包括以下在內的策略師表示。 馬克斯·基特森 寫道：“任何將空頭頭寸展期至反向合約的操作都可能在首次通知期開始前給展期合約帶來更大的上漲壓力。”自7月初以來，德國國債期貨價格持續下跌，而未平倉合約量卻有所上升，表明空頭頭寸正在增加；部分空頭頭寸已被削減。巴克萊銀行表示，將剩餘的空頭頭寸滾動到反向合約可能會給滾動交易帶來更大的盈利壓力。"
+    },
+    {
+      "id": "mkt:019ff5ce-e902-7aab-9009-274bac495b54",
+      "time": "2026-08-12 19:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "Tencent to start Q2 earnings conference call in 10 minutes."
+    },
+    {
+      "id": "5037655",
+      "time": "2026-08-12 19:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東南電子：擬1400萬-2800萬元回購股份用於激勵】東南電子公告稱，公司擬使用自有資金以集中競價方式回購股份，資金不低於1400萬元且不超過2800萬元。回購價格不超過23.21元/股，預計回購股份數量603,188 - 1,206,376股，約佔公司總股本的0.5%-1%。回購股份用於股權激勵或員工持股計劃，若三年內未使用完畢將依法登出。回購期限自董事會審議透過之日起12個月內。本次回購存在多種不確定性風險。"
+    },
+    {
+      "id": "mkt:019ff5ce-2782-7aab-9009-1c1327f6a447",
+      "time": "2026-08-12 19:49:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry: Allegations about China’s missile test are politically motivated】Foreign Ministry spokesperson Guo Jiakun said the US-led joint statement at the Aug. 11 Geneva disarmament talks—criticizing a recent Pacific missile launch for not following prior-notification norms and invoking the Hague Code of Conduct against Ballistic Missile Proliferation—was a political insinuation aimed at China. Guo called the move hypocritical and indicative of double standards, urged those states to stop abusing multilateral arms-control mechanisms, and said they should replace confrontation with sincere dialogue to create conditions for arms-control exchanges."
+    },
     {
       "id": "5037654",
       "time": "2026-08-12 19:48:48",
