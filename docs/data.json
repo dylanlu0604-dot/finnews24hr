@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-12 08:27:06",
-  "count": 15407,
+  "updated": "2026-08-12 08:30:57",
+  "count": 15397,
   "items": [
+    {
+      "id": "5036532",
+      "time": "2026-08-12 08:29:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4440美元/盎司，日內跌0.02%。"
+    },
+    {
+      "id": "5036531",
+      "time": "2026-08-12 08:28:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【2026年8月11日ETF資金整體淨流出50.05億元】據同花順iFinD資料顯示，2026年8月11日，ETF資金整體淨流出50.05億元，股票型淨流出64.46億元，寬基型淨流出47.64億元。當日ETF資金淨流出榜單排名前3依次為：易方達創業板ETF（159915）淨流出14.56億元，南方中證1000ETF（512100）淨流出7.19億元，上證綜指ETF（510210）淨流出6.52億元。"
+    },
+    {
+      "id": "5036530",
+      "time": "2026-08-12 08:27:49",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本東證指數上漲 銀行股和服務業板塊領漲 提前加息預期提振銀行股】日本東證指數上漲，主要受銀行和服務業板塊上漲的帶動。東證指數上漲0.3%至4,112.59；日經指數下跌0.1%至66,886.70。市場對日本央行提早加息的預期升溫，提振銀行板塊，其中三菱日聯金融集團對東證指數的漲幅貢獻最大，上漲2.3%。該指數的1637只成分股中，942只上漲，608只下跌，87只持平。"
+    },
     {
       "id": "5036529",
       "time": "2026-08-12 08:26:25",
@@ -140232,133 +140261,6 @@
         "國際"
       ],
       "text": "【PMI資料顯示：成本壓力之下日本服務業增速放緩】一項民間調查顯示，受需求走弱、企業承受巨大成本壓力影響，7月日本服務業擴張步伐放緩，銷售價格通脹創下2014年4月以來最高水平。標普全球日本服務業採購經理人指數（PMI）7月終值為51.2，低於6月的52.2，同樣不及51.9的初值。該指數連續第二個月處於擴張區間，但擴張速度遠低於2026年早些時候。指數高於50代表行業活動擴張，低於50則代表收縮。新業務增速跌至兩年低點。日本服務業海外需求連續第四個月下滑，不過收縮幅度較5、6月有所收窄。成本壓力依舊高企，投入品價格漲幅僅略低於6月創下的四年高點。調查稱，受訪企業認為中東局勢帶來的通脹環境、人力成本上升以及日元貶值是主要推動因素。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202608053831840762",
-      "time": "2026-08-05 08:30:30",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本7月服務業PMI終值為51.2，初值51.9。日本7月綜合PMI終值為52.7，前值53.1。"
-    },
-    {
-      "id": "mkt:019fcf53-e398-7aab-8f7b-0f6c3bfe2ad1",
-      "time": "2026-08-05 08:30:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong S&P Global Manufacturing PMI fell to 51 in July from 52 in June."
-    },
-    {
-      "id": "mkt:019fcf53-de2f-7aab-8f7b-01474043d3ec",
-      "time": "2026-08-05 08:30:07",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan July services PMI (final) 51.2, down from 51.9 previously."
-    },
-    {
-      "id": "mkt:019fcf53-dbcc-7aab-8f7a-fdebe6e526a1",
-      "time": "2026-08-05 08:30:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan July final composite PMI 52.7, down from 53.1 previously."
-    },
-    {
-      "id": "mkt:019fcf53-c0e6-7aab-8f7a-f39fedc33f65",
-      "time": "2026-08-05 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Services PMI (Jul) | actual 51.2 | previous 51.9"
-    },
-    {
-      "id": "mkt:019fcf53-c0d8-7aab-8f7a-ee49354e701f",
-      "time": "2026-08-05 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Composite PMI (Jul) | actual 52.7 | previous 53.1"
-    },
-    {
-      "id": "mkt:019fcf53-c0a4-7aab-8f7a-e4c3cb9011ce",
-      "time": "2026-08-05 08:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Hong Kong | Manufacturing PMI (Jul) | actual 51 | previous 52"
-    },
-    {
-      "id": "te:economy:572721",
-      "time": "2026-08-05 08:29:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Government Bond Korea",
-        "Importance 1"
-      ],
-      "text": "South Korea 10Y Bond Yield Hits 4-week Low — South Korea 10 Year Government Bond Yield decreased to 4.19%, the lowest since July 2026. Over the past 4 weeks, South Korea 10Y Bond Yield gained 5.00 basis points, and in the last 12 months, it increased 148.50 basis points."
-    },
-    {
-      "id": "5025601",
-      "time": "2026-08-05 08:29:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【澳大利亞股市創歷史新高 受伊朗局勢和經濟前景提振】受美伊衝突擔憂緩解以及國內經濟利好訊號的提振，澳大利亞股市基準指數盤中創下歷史新高。標普/澳證200指數一度上漲0.7%，至9,213.00點，超過了3月初創下的前期高點。在週三交易中，材料板塊貢獻最大，必和必拓集團和力拓集團走高。澳大利亞股市的防禦性魅力重新走紅，推動其在過去兩個月反彈。儘管人工智慧AI交易的動盪導致亞太股市大幅下跌，但由於澳大利亞股市缺乏對波動性較大晶片製造商的敞口，因此成了避風港。市場對華盛頓與德黑蘭可能達成臨時協議的樂觀情緒，緩解了人們對能源供應的擔憂。週二美國股市收於歷史最高點。"
-    },
-    {
-      "id": "mkt:019fcf52-7312-7aab-8f7a-dea09b573a18",
-      "time": "2026-08-05 08:28:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange activated the sidecar mechanism on the KOSDAQ, pausing programmatic trading."
-    },
-    {
-      "id": "5025600",
-      "time": "2026-08-05 08:28:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "據韓聯社：警方突擊搜查星巴克韓國總部。"
-    },
-    {
-      "id": "5025599",
-      "time": "2026-08-05 08:28:06",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：建議關注AI應用和國產模型兩條投資主線】華泰證券研報稱，GPT-5.6降價推動大模型競爭由能力排名進一步轉向“同等智慧成本”。OpenAI於7月30日將Terra和Luna價格分別下調20%和80%；次日釋出的DeepSeek V4 Flash 0731在Artificial Analysis Intelligence Index達到50分，僅比Luna低1分，混合價格和平均任務成本分別約0.06美元/百萬Token和0.03美元，較Luna分別低約65%和57%。華泰證券認為，Kimi K3以57分代表當前國產開放權重模型的強能力上限，DS V4 Flash則重新整理50分能力區間的成本底線，中國模型已形成“強能力+高價效比”兩條競爭路線，有望帶動下游應用的起量。建議關注AI應用和國產模型兩條投資主線。"
-    },
-    {
-      "id": "mkt:019fcf51-6037-7aab-8f7a-d14723655fa2",
-      "time": "2026-08-05 08:27:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fed's Schmid: Core inflation ex-energy still too high; supply–demand imbalance is root cause】Fed official Schmid said inflation excluding energy remains well above 2% and is broad-based across goods and services. Monthly core inflation in the six months to June ran above the pace consistent with returning inflation to target; on a 12‑month basis core inflation is 3.2%, roughly 0.5pp higher than in June last year. While recent price pressures include supply shocks — shipping disruptions, oil and tariffs — Schmid cautioned against blaming inflation solely on supply factors, saying it reflects imbalances between supply and demand."
     }
   ]
 }
