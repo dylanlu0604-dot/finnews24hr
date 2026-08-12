@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-12 10:24:44",
-  "count": 15369,
+  "updated": "2026-08-12 10:28:37",
+  "count": 15368,
   "items": [
+    {
+      "id": "5036706",
+      "time": "2026-08-12 10:27:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【咖哩豬排指數顯示日元嚴重低估 建立人稱比大麥克指數更貼切】隨著當局干預匯市的影響正在消退，紐約梅隆銀行高階策略師Geoff Yu利用日本一道快餐主食的價格，以準確衡量日元的疲軟程度。Yu建立了咖哩豬排指數，作為《經濟學人》大麥克指數(Big Mac Index)的替代指標。他認為，相較於大麥克這種漢堡，比較咖哩豬排飯的國際價格，更能反映日元貶值對日本民眾究竟是什麼感受。週三上午的全球外匯市場上，1美元約兌159.23日元。但根據Yu的計算，在考量咖哩餐點價格反映的日元購買力後，1美元應該只能兌62.18日元。這意味著，外匯市場正大幅低估日元。相較之下，基於麥當勞漢堡各國價格的大麥克指數顯示，1美元應該可以兌換80.30日元。Yu說，如果目標是讓購買力向高收入國家看齊，這項指數顯示，日元需要更為強勁。他採用全球最大咖哩飯連鎖店CoCo壹番屋的價格計算，該公司在全球擁有約1500家分店。"
+    },
+    {
+      "id": "te:markets:574581",
+      "time": "2026-08-12 10:27:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Stocks Rebound — Indonesian shares rose 51 points or 0.8% to 6,319 in early deals on Wednesday, halting losses in the prior two sessions amid widespread gains across major sectors led by infrastructure, energy, basic materials, and cyclicals. sentiment improved following fresh data showing July car sales surged 33%, hinting at recovery in the automotive sector. Traders also took note of President Prabowo’s nomination of acting BI Governor Destry Damayanti as the sole candidate to succeed Perry Warjiyo, a move seen as providing policy continuity. Still, upside was tempered by overnight weakness on Wall Street and caution ahead of MSCI’s August 2026 Review later today, with rebalancing effective after August 31. Domestic concerns also lingered as retail sales fell for a third straight month in June, weighed by softness in discretionary categories. Standout movers included Indosat (8.4%), Petrindo Jaya Kreasi (5.6%), Bumi Resources (2.8%), and Japfa Comfeed (1.8%)."
+    },
+    {
+      "id": "mkt:019ff3cb-5003-7aab-8fff-238a7a86c1a2",
+      "time": "2026-08-12 10:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National flood control headquarters, Ministry of Emergency Management raise Henan flood-response to level 3】China’s National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management raised Henan’s flood-control emergency response from level 4 to level 3 at 09:00 on August 12. On August 11 central-eastern Henan saw heavy to very heavy rain, with extreme rainfall reported in Pingdingshan and Luoyang. Meteorological forecasts show heavy to very heavy rain from August 12–15 across central‑west and southern Huanghuai and southern North China; parts of central and western Henan along mountain areas may experience extremely heavy rainfall."
+    },
+    {
+      "id": "5036705",
+      "time": "2026-08-12 10:26:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國家防總、應急管理部將針對河南的防汛四級應急響應提升至三級】8月11日，河南省中東部等地出現暴雨或大暴雨，平頂山、洛陽等局地特大暴雨。據氣象部門預報，12日至15日，黃淮中西部和南部、華北南部等地有暴雨或大暴雨，河南中部和西部沿山等地部分地區有特大暴雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總、應急管理部決定於8月12日9時將針對河南省的防汛四級應急響應提升至三級。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff3ca-f5a1-7aab-8fff-1c7bafaaf9e3",
+      "time": "2026-08-12 10:26:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba Cloud launches Lingjun Zhenwu M890 super-node instance; first batch on sale in Ulanqab】Alibaba Cloud has launched the Lingjun Zhenwu M890 super-node instance, with the first batch now on sale in the Ulanqab region. It is the first domestic super-node configuration reported to run models exceeding 2 trillion parameters; Kimi K3 and Qwen3.8 Max are available via the instance. Technical features include FP8/FP4 low-precision compute support and an ICN Switch 1.0 scale-up interconnect that raises node scale from 16 to 64 cards and boosts inter-card bandwidth to 800 GB/s. Alibaba Cloud reports training performance is roughly three times that of the previous-generation Zhenwu 810E in autonomous driving and embodied-intelligence training scenarios."
+    },
+    {
+      "id": "5036704",
+      "time": "2026-08-12 10:25:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中鎢線上：鎢價漲跌兩難 鎢市買賣不旺】據中鎢線上公眾號，8月12日，國內鎢市場延續僵持橫盤格局。近期交投活躍度有所回升，但尚未形成規模性支撐，價格驅動力不足，成交仍以商談為主，整體按需進行。鎢精礦市場上，礦商挺價意願較強，場內低價貨源難覓，55%以上品位鎢精礦價格穩固在41萬元/標噸上方，市場流動性相對侷限。仲鎢酸銨（APT）市場上，在成本支撐與需求承壓的交織下多空博弈，成交重心持續僵持在60萬元/噸關口附近。鎢粉末市場上，買賣雙方保持觀望拉鋸態勢，市場訂單有所增量，但議價水平仍有承壓，鎢粉交易重心在950元/公斤左右，碳化鎢粉議價在880元/公斤左右。鎢鐵市場上，產業鏈上下游僵持背景下，交投主動性不足，行情維持橫盤觀望，70鎢鐵報價暫穩在66萬元/噸左右。鎢廢料市場上，持貨商惜售探高，但消費端與回收商接受度有限，市場漲跌兩難，行情維持窄幅震盪整理。"
+    },
+    {
+      "id": "mkt:019ff3c9-5aee-7aab-8fff-1600750234ba",
+      "time": "2026-08-12 10:24:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【India to tighten NGO oversight, may empower seizure of foreign-funded NGO assets】India plans to tighten regulation of NGOs, including a proposed amendment that would empower a new agency to seize land, buildings or other assets owned by foreign-funded organizations whose mandatory official registration is cancelled or not renewed. The ruling Modi-led Hindu nationalist government is prepared to push the reforms despite lobbying from Western governments, opposition parties and Christian churches warning the move could jeopardize thousands of schools, hospitals, religious sites and humanitarian projects. A senior Indian official said the government may seek a parliamentary vote on the amendment before this Thursday’s session ends. Officials cite concerns about covert foreign influence as the rationale for the tighter oversight."
+    },
+    {
+      "id": "5036703",
+      "time": "2026-08-12 10:24:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河北繼續釋出暴雨黃色預警】河北省氣象臺2026年8月12日10時7分繼續釋出暴雨黃色預警訊號。 受颱風外圍暖溼氣流和冷空氣共同影響，本次降水過程從11日白天開始。截至12日8時，張家口、承德、保定、雄安新區、廊坊、石家莊、邢臺、邯鄲等地的部分地區已出現暴雨到大暴雨。預計12日白天到夜間，承德中南部、唐山中北部、秦皇島北部和保定、廊坊及以南地區仍有較強降水，雨量分佈不均，部分地區1小時雨量可達50毫米以上或6小時雨量可達70毫米以上，其中承德南部、唐山北部、保定東部、石家莊、邯鄲等地的區域性地區累計降水量可達120—150毫米。山區及淺山區有出現山洪、泥石流、滑坡等次生災害的風險，低窪地區有積水風險，請注意防範。"
+    },
     {
       "id": "mkt:019ff3c8-6744-7aab-8fff-089f58d50363",
       "time": "2026-08-12 10:23:44",
@@ -139862,94 +139935,6 @@
         "國際"
       ],
       "text": "日本內閣官房長官：政府和日本央行正就經濟和金融趨勢在各個層面保持密切溝通。"
-    },
-    {
-      "id": "5025797",
-      "time": "2026-08-05 10:28:36",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "日本內閣官房長官被問及有關首相高市要求日本央行行長購買日本國債的報道時，表示不予置評。"
-    },
-    {
-      "id": "5025796",
-      "time": "2026-08-05 10:28:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【機構：馬來西亞有望實現其2026年財政赤字目標】Affin Hwang IB分析師Nur Farah 'Ain Binti Zakaria和Vincent Loo Yeong Hong在一份報告中表示，在國際油價回落、燃料補貼成本低於預期以及Petronas強勁的派息能力的支援下，馬來西亞政府2026年佔GDP 3.5%的財政赤字目標有望實現。由於全球原油價格高企，預計今年燃料補貼支出將達到360億至400億林吉特，大幅超出2026年預算案中分配的150億林吉特。他們表示，下半年油價回落、Petronas潛在的特別股息、結構性改革帶來的更強勁稅收收入以及更嚴格的行政支出，預計將抵消更高補貼賬單的影響。他們補充說，即使赤字暫時擴大至GDP的3.7%-3.8%，這些因素也應能使馬來西亞的財政整頓穩步推進。"
-    },
-    {
-      "id": "5025794",
-      "time": "2026-08-05 10:27:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【八仙進入影史動畫片票房前十】據燈塔專業版資料，影片《八仙！》累計票房超12.39億，進入中國影史動畫片票房榜前十名。"
-    },
-    {
-      "id": "mkt:019fcfbf-027e-7aab-8f7d-8b06d962c23b",
-      "time": "2026-08-05 10:27:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share securities sector rallied briefly; Jinlong Shares hit the daily limit, with Guosheng Securities, Huaan Securities, Changjiang Securities and Xiangcai Shares also advancing."
-    },
-    {
-      "id": "te:economy:572780",
-      "time": "2026-08-05 10:26:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10Y Yield Falls on Hormuz Deal Prospects — The yield on the 10-year US Treasury note declined to around 4.6% on Wednesday, extending its losses for a third consecutive session as reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz drove oil prices sharply lower, easing concerns over inflation and the need for aggressive interest rate hikes. On Tuesday, Qatar said an interim proposal had been prepared, while both Washington and Tehran signaled progress in negotiations to reopen Hormuz. US Treasury Secretary Scott Bessent also said a deal could be reached as early as Tuesday or Wednesday. Markets trimmed expectations for a September Federal Reserve rate hike to around 57%, down from 67% a day earlier. Investors are now awaiting a series of US labor market reports for further clues on the Fed’s policy outlook, with ADP’s July private payrolls data due later today."
-    },
-    {
-      "id": "5025793",
-      "time": "2026-08-05 10:26:21",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【易中天回應美國光模組禁令】5日，A股通訊裝置板塊開盤下跌，中際旭創跌超13%、聯特科技跌超11%、新易盛跌超10%、天孚通訊跌超6%。隨後跌幅集體收窄。有市場訊息稱，美國聯邦通訊委員會（FCC）正在起草一項禁令，旨在禁止美國進口中國資料中心元件新機型，包括光模組。當日，中際旭創董秘辦工作人員稱，公司已注意到相關市場資訊，經核實，美國聯邦通訊委員會尚未出臺相關領域限制性檔案。該負責人稱，“因為美國聯邦通訊委員會並未出臺相關領域限制性檔案，公司對相關傳聞不予評述。”新易盛董秘辦工作人員表示，公司已關注到上述訊息，相關影響公司會密切關注。“目前這一訊息還未有權威來源，如果確實達到資訊披露標準，公司會透過釋出公告等其他方式進行回應。”天孚通訊董秘辦工作人員稱，相關訊息對公司的影響主要體現在市場情緒上，具體影響多大，還得看市場傳聞是不是真的。“公司是做光器件的，光模組是我們下游客戶。”（中新經緯）"
-    },
-    {
-      "id": "5025792",
-      "time": "2026-08-05 10:26:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭稱過去40天打擊俄百餘處戰略目標】烏克蘭國家安全域性4日在官網發文稱，在過去40天裡，烏方對俄羅斯100多處戰略目標實施了打擊。烏國家安全域性稱，烏方打擊目標主要包括俄軍工企業、空軍基地、防空系統、指揮所、艦船、“影子艦隊”油輪、煉油廠和軍事後勤設施，造成俄軍大量軍事裝備和多處軍事基礎設施損毀。烏國家安全域性稱，烏方對薩基、近衛軍村、恩格斯等6個軍用機場及葉夫帕托里亞航空工廠發動了打擊，俄方多處煉油廠、油庫、輸油泵站、石油碼頭等能源設施也遭到打擊。未來，烏方將繼續開展削弱俄軍事經濟潛力的行動。"
-    },
-    {
-      "id": "mkt:019fcfbe-1d67-7aab-8f7d-871a3d9d98ef",
-      "time": "2026-08-05 10:26:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Chief Cabinet Secretary Kihara said he expects the Bank of Japan to adopt appropriate monetary policy to achieve its price target sustainably and stably, while coordinating closely with the government."
-    },
-    {
-      "id": "5025791",
-      "time": "2026-08-05 10:25:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【巴西政府駁斥美國撤銷巴西駐美大使簽證】巴西政府4日發表宣告，強烈反對美國國務院當天撤銷巴西駐美國大使簽證的決定，指出美方提出的兩項理由均不成立。 美國媒體4日早些時候報道稱，美國政府已撤銷巴西駐美大使的簽證，以報復巴西上月拒絕向兩名美國務院官員發放簽證以及遲遲未接受美國總統特朗普提名的駐巴西大使人選。 巴西政府就此發表宣告說，根據《維也納外交關係公約》規定，派遣國對於擬派駐接受國之使館館長人選務須查明其確已獲得接受國之同意，相關程式屬於保密事項，而美國在獲得巴西正式同意之前就已公開其駐巴西大使候選人姓名。巴西政府嚴格遵守國際法，《維也納外交關係公約》並未對被提名大使人選的接受流程設定任何時限，美方提名的駐巴西大使人選事宜仍在評估中。 至於近期兩名被巴西拒籤的美國官員，宣告指出，他們訪問巴西意在質疑巴西選舉制度的公正性，試圖干涉巴西國內政治程序，這一行為不可接受。 宣告還說，美方此前以所謂“政治迫害前總統博索納羅”為由，對巴西多名高階官員實施單邊制裁，包括取消赴美簽證，相關措施迄今仍未撤銷。受制裁者包括巴西最高法院法官和行政機構高階官員。巴西政府將堅定維護國家主權和國際法準則，反對任何外部勢力干涉內政。"
     }
   ]
 }
