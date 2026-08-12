@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-12 13:10:45",
-  "count": 15228,
+  "updated": "2026-08-12 13:14:42",
+  "count": 15222,
   "items": [
+    {
+      "id": "5036878",
+      "time": "2026-08-12 13:12:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲與滴普科技聯合釋出資料智慧解決方案】據華為雲訊息，8月12日，華為雲與滴普科技在北京聯合釋出資料智慧聯合解決方案。雙方將共同打造面向智慧製造、零售等行業的資料智慧聯合解決方案，幫助企業打通資料孤島，加速從資料治理到智慧體應用的一站式落地。"
+    },
+    {
+      "id": "5036877",
+      "time": "2026-08-12 13:10:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【颱風浪卡生成 預計未來對我國無影響】據中國天氣訊息，今年第17號颱風“浪卡”生成。“浪卡”名字來源：馬來西亞；名稱意義：又名菠蘿蜜果，黃色橢圓形狀，是馬來西亞非常流行的一種水果。預計“浪卡”未來對我國無影響。另外，今年第16號颱風“琵鷺”已減弱為熱帶低壓，將逐漸減弱消失。"
+    },
+    {
+      "id": "5036876",
+      "time": "2026-08-12 13:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年全球7月氣溫為有記錄以來第二高】當地時間8月11日，世界氣象組織發言人克萊爾·納利斯表示，西歐今年6月至7月經歷有記錄以來最熱時期，全球7月氣溫為有記錄以來第二高，全球海洋表面平均溫度則創同期最高紀錄。 此外，世界氣象組織氣候資訊主管約翰·肯尼迪表示，隨著全球氣候持續變暖，極端高溫天氣正變得更加頻繁、更加強烈，持續時間也更長。近幾個月的極端天氣是長期變暖與持續存在的高低氣壓交替模式共同作用的結果，目前沒有明確證據表明西歐今夏高溫與厄爾尼諾現象有關。隨著厄爾尼諾現象在太平洋地區持續發展，世界氣象組織預計全球氣溫將出現上升趨勢。"
+    },
     {
       "id": "5036875",
       "time": "2026-08-12 13:09:08",
@@ -138579,96 +138603,6 @@
         "市場"
       ],
       "text": "【35股動態市盈率低至個位數 部分行業龍頭投資價值或凸顯】隨著A股上市公司2026年半年度業績預告和快報的密集披露，一批業績高增長且估值處於低位的公司浮出水面。據證券時報·資料寶統計，根據半年報、快報以及業績預告淨利中值計算，有35只個股動態市盈率低至個位數且同時有5家以上機構評級。部分行業龍頭公司投資價值或凸顯。具體來看，中國人壽半年報預告淨利中值為1330.26億元，同比增長高達225%，折算動態市盈率為4倍，位居最低估值榜首。渤海租賃和新華保險折算動態市盈率分別為4.20倍和4.38倍，同樣展現出較高的價效比。除金融股外，部分週期性行業公司因產品價格上漲或需求回暖，業績出現爆發式增長，估值優勢同樣明顯。股價方面，35只個股7月以來平均上漲1.51%，好於主要指數同期表現。"
-    },
-    {
-      "id": "5026034",
-      "time": "2026-08-05 13:13:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "PCB概念板塊持續拉昇，勝宏科技逼近漲停，寶鼎科技、東材科技等股此前漲停，科翔股份、有研粉材、埃科光電漲幅居前。"
-    },
-    {
-      "id": "mkt:019fd056-d28e-7aab-8f82-0b624c4b9532",
-      "time": "2026-08-05 13:12:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-shares extended gains in the afternoon session: Shenzhen Composite Index +2.0%, ChiNext Index +1.85%, Shanghai Composite Index +1.4%. More than 3,600 stocks advanced."
-    },
-    {
-      "id": "5026033",
-      "time": "2026-08-05 13:12:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【富時中國A50指數期貨漲1%】富時中國A50指數期貨漲幅擴大至1%，此前一度跌逾1%。"
-    },
-    {
-      "id": "mkt:019fd056-a900-7aab-8f82-04b8da895f6e",
-      "time": "2026-08-05 13:12:47",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "FTSE China A50 index futures rose more than 1%."
-    },
-    {
-      "id": "5026032",
-      "time": "2026-08-05 13:12:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "A股MLCC概念持續走高，潔美科技午後漲停，火炬電子、東材科技此前封板，昀冢科技、風華高科、達利凱普等漲超7%。"
-    },
-    {
-      "id": "5026031",
-      "time": "2026-08-05 13:12:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【即夢上線多款Seedance2.5專業工具】位元組跳動旗下內容創作平臺即夢AI接入Seedance2.5模型，並同步上線Maya / Blender外掛、智慧編輯模式等多個面向複雜專案的專業創作工具。"
-    },
-    {
-      "id": "5026030",
-      "time": "2026-08-05 13:12:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲2.01%，現報14165.205點；上證指數漲1.38%，現報3875.132點；創業板指漲1.70%，現報3548.222點。"
-    },
-    {
-      "id": "5026029",
-      "time": "2026-08-05 13:11:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "鈴木股價在財報釋出後抹去漲幅，一度下跌5.2%。"
-    },
-    {
-      "id": "te:economy:572838",
-      "time": "2026-08-05 13:11:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Estonia Industrial Output Weakens Further in June — Industrial production in Estonia fell 4.6% year-on-year in June 2026, marking a fifth consecutive month of contraction and the steepest decline since March 2024, with the pace of the downturn deepening from a 3.0% fall in May. The weakness was driven by a sharper fall in manufacturing (-5.3% vs. -3.5%), alongside continued declines in electricity, gas, steam and air conditioning supply (-12.6% vs. -22.9%). Within manufacturing, notable declines were recorded in repair and installation of machinery and equipment (-44.1%), computers, electronic and optical products (-13.2%), furniture (-19.5%), other transport equipment (-14.2%), and fish processing (-19.8%). In contrast, mining and quarrying remained a bright spot, expanding 26.7%, although growth slowed from 39.9% in May. On a monthly basis, industrial output declined 2.3%, following a revised 0.3% fall in May."
     }
   ]
 }
