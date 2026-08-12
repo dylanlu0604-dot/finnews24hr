@@ -1,7 +1,25 @@
 {
   "date": "2026-08-13",
-  "count": 132,
+  "count": 134,
   "items": [
+    {
+      "id": "mkt:019ff76d-8c93-7aab-9012-c3c8d9ed8eeb",
+      "time": "2026-08-13 03:22:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market news: Minouche Shafik, a former Bank of England deputy governor and IMF director, has stepped down as the UK prime minister's chief economic adviser."
+    },
+    {
+      "id": "5038086",
+      "time": "2026-08-13 03:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "米努什·沙菲克卸任英國首相首席經濟顧問。"
+    },
     {
       "id": "5038085",
       "time": "2026-08-13 03:19:27",

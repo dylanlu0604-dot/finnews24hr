@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-13 03:20:38",
-  "count": 15048,
+  "updated": "2026-08-13 03:24:31",
+  "count": 15045,
   "items": [
+    {
+      "id": "mkt:019ff76d-8c93-7aab-9012-c3c8d9ed8eeb",
+      "time": "2026-08-13 03:22:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Market news: Minouche Shafik, a former Bank of England deputy governor and IMF director, has stepped down as the UK prime minister's chief economic adviser."
+    },
+    {
+      "id": "5038086",
+      "time": "2026-08-13 03:20:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "米努什·沙菲克卸任英國首相首席經濟顧問。"
+    },
     {
       "id": "5038085",
       "time": "2026-08-13 03:19:27",
@@ -137328,50 +137346,6 @@
         "國際"
       ],
       "text": "美國白宮：布蘭奇將率美國代表團出席哥倫比亞總統就職儀式。"
-    },
-    {
-      "id": "5027454",
-      "time": "2026-08-06 03:23:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌首席科學家Jeff Dean：明天將是我在谷歌工作的最後一天。"
-    },
-    {
-      "id": "5027453",
-      "time": "2026-08-06 03:23:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價下跌12%，接近盤中低點。"
-    },
-    {
-      "id": "mkt:019fd361-7509-7aab-8f93-4d32953e2a43",
-      "time": "2026-08-06 03:23:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Google chief scientist Jeff Dean said tomorrow will be his last day at the company."
-    },
-    {
-      "id": "5027452",
-      "time": "2026-08-06 03:23:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【飆升的科技股還能買嗎？資深策略師Yardeni認為該板塊現在是打折價】科技股7月下旬以來氣勢如虹，接下來還能漲多少？Ed Yardeni給出的答案是：這波行情離到頭還早著呢。投資者對人工智慧交易信心重燃，霍爾木茲海峽也浮現出重新開放的希望，這些因素推動納斯達克100指數四天內大漲9.3%，走出了2025年4月以來的最佳一波行情。即便如此，它基於未來12個月預期利潤的市盈率也只有22.3倍，是2017年以來對大盤估值溢價最低的水平之一。“對於一個高增長行業來說，那是比較低的估值倍數，” 身為Yardeni Research Inc.總裁兼首席投資策略師的Yardeni在電話中表示，拋售該板塊的投資者“已經發現他們實際上把這些這些股票變成了促銷品”。Yardeni表示，將納斯達克100指數推進技術性回撥的拋售也消除了其過高的估值，從而為反彈創造了條件。加之強勁的季報和持續旺盛的人工智慧需求，進一步上漲也有了穩固的基礎。"
-    },
-    {
-      "id": "5027451",
-      "time": "2026-08-06 03:21:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "FIRST SOLAR跌幅快速擴大至5%。"
     }
   ]
 }
