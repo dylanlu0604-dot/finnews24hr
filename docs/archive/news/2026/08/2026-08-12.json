@@ -1,7 +1,61 @@
 {
   "date": "2026-08-12",
-  "count": 2718,
+  "count": 2723,
   "items": [
+    {
+      "id": "mkt:019ff67d-b984-7aab-9010-08c87d7294fa",
+      "time": "2026-08-12 23:01:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "As of the 23:00 close, China’s main futures contracts were mostly higher: pulp, synthetic rubber and fuel oil rose over 1%; rapeseed oil and short-fiber futures gained about 1%. On the downside, glass fell more than 2%, while soda ash and coking coal declined over 1%."
+    },
+    {
+      "id": "te:markets:574798",
+      "time": "2026-08-12 23:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.35% — Top currency loser is South Korean Won (-0.35%). Meanwhile, Japanese Yen and British Pound were little changed."
+    },
+    {
+      "id": "5037992",
+      "time": "2026-08-12 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】玻璃連續跌2.25%，純鹼連續跌1.41%，紙漿連續漲1.22%，燃料油連續漲0.84%，短纖連續漲0.71%。"
+    },
+    {
+      "id": "mkt:019ff67c-a3db-7aab-9010-005b75b0e27c",
+      "time": "2026-08-12 22:59:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【U.S.-Iran memorandum set to expire at 60-day deadline; key clauses disputed】The U.S. and Iran signed a 14-point memorandum of understanding on June 17 establishing a ceasefire and a 60-day window to negotiate a permanent end to hostilities. The MoU, which declared a halt to hostile acts and sought to reopen the Strait of Hormuz to commercial shipping, has shown cracks as fighting resumed and its wording remains ambiguous; both sides accuse the other of breaches. Key disputed provisions: Article 5 (Strait of Hormuz) — the text guarantees commercial freedom of passage but is contested: Tehran says it implies U.S. recognition of Iranian authority over the waterway and that Iran agreed only to two months of fee-free transit; Washington says the provision only requires Iran to ensure safe passage and to refrain from coercive restrictions or taxation. Article 10 (oil and sanctions waivers) — the U.S. agreed to grant waivers enabling Iran to export crude, petroleum products and related services, including access to international banking, insurance and shipping support. Article 11 (unfreezing assets) — the U.S. committed to make frozen funds and restricted assets fully available, with implementation mechanisms to be negotiated. With no direct diplomatic talks and limited near-term prospects for a final settlement, the MoU’s status after the 60-day deadline remains uncertain."
+    },
+    {
+      "id": "mkt:019ff67b-5e66-7aab-900f-ffa8b3219eb1",
+      "time": "2026-08-12 22:58:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan: Inflation to ease gradually; Fed need not hike】David Kelly, chief global strategist at JP Morgan Asset Management, said the Fed should hold rates and does not need to raise them, expecting inflation to taper gradually as evidence mounts that a persistent wage‑price spiral is unlikely. After July’s CPI showed moderate core inflation, US Treasuries extended gains. Kelly cited three disinflationary forces: tariff-related costs should fall on a year‑on‑year basis; oil prices are likely to retreat as markets grow optimistic the Iran war will end; and wage growth continues to lag inflation, weakening the feedback loop that would sustain price pressures. He added markets are highly leveraged, so even small rate rises could trigger asset repricing."
+    },
     {
       "id": "5037991",
       "time": "2026-08-12 22:56:38",

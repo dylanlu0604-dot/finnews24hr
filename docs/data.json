@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-12 22:57:48",
-  "count": 15169,
+  "updated": "2026-08-12 23:02:00",
+  "count": 15163,
   "items": [
+    {
+      "id": "mkt:019ff67d-b984-7aab-9010-08c87d7294fa",
+      "time": "2026-08-12 23:01:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "As of the 23:00 close, China’s main futures contracts were mostly higher: pulp, synthetic rubber and fuel oil rose over 1%; rapeseed oil and short-fiber futures gained about 1%. On the downside, glass fell more than 2%, while soda ash and coking coal declined over 1%."
+    },
+    {
+      "id": "te:markets:574798",
+      "time": "2026-08-12 23:00:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.35% — Top currency loser is South Korean Won (-0.35%). Meanwhile, Japanese Yen and British Pound were little changed."
+    },
+    {
+      "id": "5037992",
+      "time": "2026-08-12 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】玻璃連續跌2.25%，純鹼連續跌1.41%，紙漿連續漲1.22%，燃料油連續漲0.84%，短纖連續漲0.71%。"
+    },
+    {
+      "id": "mkt:019ff67c-a3db-7aab-9010-005b75b0e27c",
+      "time": "2026-08-12 22:59:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【U.S.-Iran memorandum set to expire at 60-day deadline; key clauses disputed】The U.S. and Iran signed a 14-point memorandum of understanding on June 17 establishing a ceasefire and a 60-day window to negotiate a permanent end to hostilities. The MoU, which declared a halt to hostile acts and sought to reopen the Strait of Hormuz to commercial shipping, has shown cracks as fighting resumed and its wording remains ambiguous; both sides accuse the other of breaches. Key disputed provisions: Article 5 (Strait of Hormuz) — the text guarantees commercial freedom of passage but is contested: Tehran says it implies U.S. recognition of Iranian authority over the waterway and that Iran agreed only to two months of fee-free transit; Washington says the provision only requires Iran to ensure safe passage and to refrain from coercive restrictions or taxation. Article 10 (oil and sanctions waivers) — the U.S. agreed to grant waivers enabling Iran to export crude, petroleum products and related services, including access to international banking, insurance and shipping support. Article 11 (unfreezing assets) — the U.S. committed to make frozen funds and restricted assets fully available, with implementation mechanisms to be negotiated. With no direct diplomatic talks and limited near-term prospects for a final settlement, the MoU’s status after the 60-day deadline remains uncertain."
+    },
+    {
+      "id": "mkt:019ff67b-5e66-7aab-900f-ffa8b3219eb1",
+      "time": "2026-08-12 22:58:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【JP Morgan: Inflation to ease gradually; Fed need not hike】David Kelly, chief global strategist at JP Morgan Asset Management, said the Fed should hold rates and does not need to raise them, expecting inflation to taper gradually as evidence mounts that a persistent wage‑price spiral is unlikely. After July’s CPI showed moderate core inflation, US Treasuries extended gains. Kelly cited three disinflationary forces: tariff-related costs should fall on a year‑on‑year basis; oil prices are likely to retreat as markets grow optimistic the Iran war will end; and wage growth continues to lag inflation, weakening the feedback loop that would sustain price pressures. He added markets are highly leveraged, so even small rate rises could trigger asset repricing."
+    },
     {
       "id": "5037991",
       "time": "2026-08-12 22:56:38",
@@ -138300,116 +138354,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人表示，若“某些第三方”不干預，阿曼與伊朗的聯合宣告已進入最終階段。"
-    },
-    {
-      "id": "mkt:019fd271-e781-7aab-8f8f-cbc09aa462fb",
-      "time": "2026-08-05 23:01:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SC crude front-month contract fell 2.00% intraday to 502.70 yuan/barrel."
-    },
-    {
-      "id": "mkt:019fd271-bea8-7aab-8f8f-c51f22842734",
-      "time": "2026-08-05 23:01:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry spokesman said Iran and Oman have agreed on the geographic routing of a Strait of Hormuz shipping lane."
-    },
-    {
-      "id": "5027272",
-      "time": "2026-08-05 23:01:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4250美元/盎司，日內漲4.24%。"
-    },
-    {
-      "id": "5027271",
-      "time": "2026-08-05 23:01:27",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4310美元/盎司，日內漲3.79%。"
-    },
-    {
-      "id": "5027270",
-      "time": "2026-08-05 23:01:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，伊朗與阿曼已就霍爾木茲海峽航線的地理特徵達成一致。"
-    },
-    {
-      "id": "mkt:019fd271-2fcb-7aab-8f8f-b9a3713ca0c4",
-      "time": "2026-08-05 23:01:00",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "At the 23:00 close, China’s most-active futures contracts were mixed: propylene, ethylene glycol (EG), benzene, methanol and styrene (EB) fell over 3 pct; polypropylene, PTA and liquefied petroleum gas (LPG) fell nearly 3 pct; iron ore rose nearly 2 pct, cotton rose over 1 pct and coking coal rose nearly 1 pct."
-    },
-    {
-      "id": "5027269",
-      "time": "2026-08-05 23:00:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國教科文組織確認北京為2029年“世界建築之都”】總部位於法國巴黎的聯合國教科文組織5日宣佈，根據世界建築之都聯合委員會推薦，北京被指定為2029年聯合國教科文組織—國際建築師協會“世界建築之都”。"
-    },
-    {
-      "id": "5027268",
-      "time": "2026-08-05 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】乙二醇連續跌3.47%，甲醇連續跌3.37%，苯乙烯連續跌3.30%，聚丙烯連續跌2.99%，液化石油氣連續跌2.93%。"
-    },
-    {
-      "id": "te:markets:573088",
-      "time": "2026-08-05 23:00:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Rises by 0.49% — Top currency gainers are Brazilian Real (0.49%), Swedish Krona (0.44%), South Korean Won (0.42%), British Pound (0.20%), Euro (0.19%) and Japanese Yen (0.14%). Biggest loser is Dollar Index (-0.20%)."
-    },
-    {
-      "id": "5027267",
-      "time": "2026-08-05 22:59:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，俄羅斯希望在冬季來臨前加快彈道導彈的生產速度。"
-    },
-    {
-      "id": "te:economy:573087",
-      "time": "2026-08-05 22:58:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Albania",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Albania Keeps Key Rate Steady at 2.5% — The Bank of Albania left its key policy rate unchanged at 2.5% at its August meeting, saying the current monetary stance remains appropriate to support inflation's return to target. The overnight deposit and lending rates were also kept at 1.5% and 3.5%, respectively. Consumer inflation averaged 3% in the second quarter, accelerating from the previous quarter and in line with the central bank's expectations, driven by higher transportation and unprocessed food prices. Economic growth continued to be supported by household consumption and business investment, while fiscal policy remained on a consolidating path. Inflation is expected to stay slightly above target in the near term before gradually easing to target. However, uncertainty surrounding the Middle East conflict remains a risk, potentially pushing inflation higher and weighing on economic growth. Future policy decisions will remain focused on preserving price stability."
     }
   ]
 }
