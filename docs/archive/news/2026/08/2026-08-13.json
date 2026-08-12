@@ -1,7 +1,28 @@
 {
   "date": "2026-08-13",
-  "count": 81,
+  "count": 83,
   "items": [
+    {
+      "id": "5038065",
+      "time": "2026-08-13 01:46:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。"
+    },
+    {
+      "id": "mkt:019ff715-41b5-7aab-9011-f8032d79f3d4",
+      "time": "2026-08-13 01:46:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm."
+    },
     {
       "id": "5038064",
       "time": "2026-08-13 01:44:51",

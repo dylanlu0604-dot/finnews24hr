@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-13 01:46:45",
-  "count": 15077,
+  "updated": "2026-08-13 01:50:37",
+  "count": 15076,
   "items": [
+    {
+      "id": "5038065",
+      "time": "2026-08-13 01:46:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數跌破15，觸及1月9日以來新低。"
+    },
+    {
+      "id": "mkt:019ff715-41b5-7aab-9011-f8032d79f3d4",
+      "time": "2026-08-13 01:46:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【VLCC spotted at key Saudi Gulf export terminal for first time in weeks】Satellite images show the first VLCC in weeks docking at a terminal near Ras Tanura on Saudi Arabia’s Persian Gulf coast, suggesting Riyadh is working to maintain crude exports. Shipping at Saudi ports remains affected by Iran-related conflict, Strait of Hormuz tensions and Houthi threats. Riyadh has shifted some loadings to Red Sea port Yanbu and is exporting via the SUMED pipeline to the Mediterranean. Yanbu activity has declined from earlier levels; three tankers are currently berthed there with combined capacity of about 3.4 mln barrels. Market participants say Saudi export flows are moving away from traditional Hormuz-to-Asia routes toward northbound Red Sea/Suez alternatives to reduce security risk. Some tankers have switched off AIS and satellite monitoring has temporal gaps, so actual Saudi crude loadings remain hard to confirm."
+    },
     {
       "id": "5038064",
       "time": "2026-08-13 01:44:51",
@@ -137571,35 +137592,6 @@
         "國際"
       ],
       "text": "【俄伊即將落地長期天然氣協議 亞塞拜然獲選為首選過境國】俄羅斯與伊朗即將落實一項歷經多輪談判的天然氣協議，兩國官員證實，亞塞拜然被選定為俄羅斯向伊朗出口天然氣的首選過境通道。"
-    },
-    {
-      "id": "5027409",
-      "time": "2026-08-06 01:50:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：密歇根州的韋恩縣（底特律）就算算不上全世界最腐敗的投票地區，也是美國國內最腐敗的投票地區之一，完全就是第三世界水準！韋恩縣總上演各種匪夷所思的事情，其中就包括選票數量大幅超過登記選民人數。"
-    },
-    {
-      "id": "5027408",
-      "time": "2026-08-06 01:49:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "波蘭財政部長：波蘭將再度嘗試對石油企業徵收暴利稅。"
-    },
-    {
-      "id": "mkt:019fd30b-1456-7aab-8f92-4bae8d1a88bd",
-      "time": "2026-08-06 01:49:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran deputy foreign minister denies US talks on Strait of Hormuz】Iran’s deputy foreign minister said on Wednesday Tehran is not negotiating with the United States over the Strait of Hormuz, calling US claims that talks are underway incorrect. He said Iran has received US communications indicating Washington is prepared to resume prior commitments, but Tehran has not decided whether to enter a second phase that would implement any US‑Iran memorandum of understanding. Earlier on Wednesday President Trump said the Strait would reopen “soon” or he would launch a new round of strikes, saying “very good discussions” were underway and warning he would resume military action if Iran reneged."
     }
   ]
 }
