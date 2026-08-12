@@ -1,7 +1,101 @@
 {
   "date": "2026-08-12",
-  "count": 1288,
+  "count": 1297,
   "items": [
+    {
+      "id": "mkt:019ff4cc-0df7-7aab-9002-c103b9eda222",
+      "time": "2026-08-12 15:07:21",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Wells Fargo preview: July CPI likely to show peak tariff, Middle East inf effects are past】Wells Fargo economists expect July US CPI to reinforce that the most severe inflationary impact from tariffs and the Middle East conflict is likely behind us. Price gains appear concentrated in a few categories rather than reflecting broad-based underlying pressure. Still, continued strength in some sectors suggests reaching the 2% inf target will remain a gradual process."
+    },
+    {
+      "id": "mkt:019ff4cb-d823-7aab-9002-ba7c6ff9a9c6",
+      "time": "2026-08-12 15:07:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "On Aug 12 (Wednesday) China's Shanghai Composite Index closed up 12.58 points (+0.32%) at 3,946.68; Shenzhen Composite Index closed up 154.99 points (+1.09%) at 14,414.43; CSI 300 Index closed up 27.13 points (+0.58%) at 4,690.92; ChiNext Index closed up 52.92 points (+1.49%) at 3,602.08; China STAR 50 Index closed up 27.49 points (+1.61%) at 1,736.99."
+    },
+    {
+      "id": "5037040",
+      "time": "2026-08-12 15:06:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【摩薩德前局長稱以方人員多次“踩點”伊朗核設施】以色列情報和特勤局（摩薩德）前局長約西·科亨11日稱，以色列秘密行動人員曾多次前往伊朗福爾道核設施。據《以色列時報》等媒體報道，科亨在以北部城市塞費德舉行的一場活動中說：“我們去過福爾道核設施許多次，以瞭解這一場所。”他沒有披露詳情，包括時間和具體行動。（新華社）"
+    },
+    {
+      "id": "5037039",
+      "time": "2026-08-12 15:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國品牌車型成尼泊爾車展亮點】“尼泊爾汽車進口商與製造商協會（NAIMA）2026年尼泊爾出行博覽會”11日在尼泊爾首都加德滿都開幕，匯聚全球數十個汽車品牌，面向公眾展示最新車型與出行科技。中國車企展臺吸引眾多觀眾駐足。(新華社)"
+    },
+    {
+      "id": "5037038",
+      "time": "2026-08-12 15:05:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃達康公司宣佈薩基·馬科佐馬將卸任董事長一職。"
+    },
+    {
+      "id": "mkt:019ff4ca-b0f8-7aab-9002-b28397da8691",
+      "time": "2026-08-12 15:05:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【Index futures arbitrage daily monitor — 12 Aug】Basis (futures minus spot): CSI 300 IF2608 discount 18.92 pts; SSE 50 IH2608 discount 8.39 pts; CSI 500 IC2608 discount 57.91 pts; CSI 1000 IM2608 discount 39.32 pts. Calendar spreads (Aug–Sep): IF2608-2609 +31.0 pts; IH2608-2609 +20.0 pts; IC2608-2609 +73.2 pts; IM2608-2609 +77.0 pts."
+    },
+    {
+      "id": "5037037",
+      "time": "2026-08-12 15:05:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "羅羅將為韓國鐵路公司（KORAIL）供應33臺MTU發動機。"
+    },
+    {
+      "id": "mkt:019ff4c9-ca64-7aab-9002-ab69d279dca8",
+      "time": "2026-08-12 15:04:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【China A-shares close: ChiNext up 1.49% after intraday rebound; consumer, property rally】China A-shares reversed a low open to finish higher after a midday rally. Shanghai Composite +0.32%, Shenzhen Composite Index +1.09%, ChiNext +1.49% (intraday peak >2%). Combined turnover on Shanghai and Shenzhen topped 2.1 tln yuan; more than 3,800 stocks advanced. Compute-hardware, fiber-optic and storage-chip sectors led gains. Consumer and property names surged in the afternoon, film & TV stocks were active. Oil & gas underperformed, posting the largest declines."
+    },
+    {
+      "id": "mkt:019ff4c8-dfc7-7aab-9002-a3961a96eb01",
+      "time": "2026-08-12 15:03:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver touched $66/oz, up 2.06% intraday."
+    },
     {
       "id": "mkt:019ff4c7-f7eb-7aab-9002-9f6432f1f9b0",
       "time": "2026-08-12 15:02:53",
