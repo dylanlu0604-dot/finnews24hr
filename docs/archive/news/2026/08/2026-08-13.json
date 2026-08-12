@@ -1,7 +1,64 @@
 {
   "date": "2026-08-13",
-  "count": 148,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:019ff77c-98f0-7aab-9013-0f8b2a0fbd60",
+      "time": "2026-08-13 03:39:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Levitt will become one of his senior outside advisers and an influential voice within the Republican Party."
+    },
+    {
+      "id": "5038098",
+      "time": "2026-08-13 03:38:34",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利認為Grok聊天機器人是SpaceX拓展綜合人工智慧平臺的早期訊號；維持增持評級，目標價300美元。"
+    },
+    {
+      "id": "mkt:019ff77a-545f-7aab-9013-047cf5fa0343",
+      "time": "2026-08-13 03:36:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said White House press secretary Leavitt will resign to spend more time with family."
+    },
+    {
+      "id": "5038097",
+      "time": "2026-08-13 03:36:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：假新聞媒體一直試圖抹黑“南方之矛行動”，否定其正當性。同樣是這批聲音，在往屆政府任由邊境危機空前惡化、藥物過量死亡人數創下紀錄之時卻緘口不言。如今他們又矢口否認，極力貶低我們共同取得的成果。"
+    },
+    {
+      "id": "5038096",
+      "time": "2026-08-13 03:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：萊維特將成為我的頂級外部顧問之一。"
+    },
+    {
+      "id": "5038095",
+      "time": "2026-08-13 03:36:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：白宮新聞秘書萊維特將卸任，以便有更多時間陪伴家人。"
+    },
+    {
+      "id": "mkt:019ff779-8d5c-7aab-9012-fd2d6315ad6d",
+      "time": "2026-08-13 03:36:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "President Trump said White House press secretary Leavitt will leave at the end of the month."
+    },
     {
       "id": "5038094",
       "time": "2026-08-13 03:35:42",
