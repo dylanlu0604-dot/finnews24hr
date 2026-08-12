@@ -1,7 +1,44 @@
 {
-  "updated": "2026-08-12 10:52:09",
-  "count": 15338,
+  "updated": "2026-08-12 10:56:09",
+  "count": 15339,
   "items": [
+    {
+      "id": "5036743",
+      "time": "2026-08-12 10:53:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【本月伺服器DDR5記憶體條價格全面上漲15%至23%】隨著三季度原廠價格進一步上行，本月伺服器DDR5價格上漲15%至23%，32GB/64GB/96GB DDR5 RDIMM分別上漲至900/1590/2650美金。現貨伺服器RDIMM市場上，貿易端32GB D5介於1800~2100美金，64GB D5介於3000~3200美金，96GB D5介於3800~4100美金，合約與現貨DDR5尤其是96GB的價差呈現收窄趨勢。原廠DDR5供應依然維持供不應求，不過隨著合約價逐季上漲，伺服器大客戶對記憶體成本的上漲更為敏感，加之長協相繼落地，大客戶D5供應得到一定保障，DDR5漲幅預計將更加溫和。"
+    },
+    {
+      "id": "5036742",
+      "time": "2026-08-12 10:52:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電氣、發那科機器人等成立技術公司】企查查APP顯示，近日，上發技術（上海）有限公司成立，法定代表人為錢暉，註冊資本為2億元，經營範圍包含智慧機器人的研發；工業機器人制造；工業機器人安裝、維修；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由上海電氣全資子公司上海電氣自動化集團有限公司、上海發那科機器人有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019ff3e2-e19b-7aab-8fff-9f7c3de8d806",
+      "time": "2026-08-12 10:52:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold was up 1.00% on the day at $4,411.72/oz; New York gold futures gained just over 1.00% to $4,472.10/oz."
+    },
+    {
+      "id": "mkt:019ff3e2-88ed-7aab-8fff-9662dc6a3ae8",
+      "time": "2026-08-12 10:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Live-fire exercises in parts of South China Sea; entry prohibited Aug 12 05:00-18:00】Shanwei Maritime Safety Administration posted on the China Maritime Safety Administration website a navigation warning that parts of the South China Sea will host live-fire exercises from Aug 12 05:00 to 18:00; the area is closed to navigation."
+    },
     {
       "id": "5036741",
       "time": "2026-08-12 10:51:00",
@@ -139615,35 +139652,6 @@
         "市場"
       ],
       "text": "【液冷伺服器概念震盪走高 金富科技4天3板】液冷伺服器概念盤中震盪走高，金富科技走出4天3板，此前博傑股份、科瑞技術、豪爾賽漲停，五洋自控漲超10%，冰輪環境、飛龍股份、美利信等漲幅靠前。"
-    },
-    {
-      "id": "5025857",
-      "time": "2026-08-05 10:55:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4190美元/盎司，日內漲0.94%。"
-    },
-    {
-      "id": "te:markets:572787",
-      "time": "2026-08-05 10:54:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Copper Climbs Toward Fresh Record High — Copper futures rose above $6.6 per pound, moving closer to fresh record highs as tightening global supply supported prices. Traders continued to ramp up shipments to the US while drawing down inventories elsewhere ahead of an expected decision by the Trump administration on copper import tariffs. Industry data showed that more than 200,000 tons of copper arrived at US ports in July, marking the largest monthly inflow in over a decade and adding to the substantial stockpiles built up over the past year. Meanwhile, copper inventories across the London Metal Exchange’s warehousing network fell to a five-month low, with traders pointing to increased shipments to China to ease a domestic supply shortage. Copper also remained supported by its strong long-term demand outlook, driven by the global transition to clean energy and the rapid expansion of artificial intelligence data centers."
-    },
-    {
-      "id": "5025856",
-      "time": "2026-08-05 10:54:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【玻纖概念震盪走強 國際復材漲超10%】玻纖概念震盪走強，國際復材漲超10%，宏和科技、中國巨石、中材科技、山東玻纖、長海股份跟漲。"
     }
   ]
 }
