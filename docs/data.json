@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 06:54:49",
-  "count": 15039,
+  "updated": "2026-08-13 06:58:33",
+  "count": 15038,
   "items": [
+    {
+      "id": "5038187",
+      "time": "2026-08-13 06:57:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "星鏈：星鏈高速低延遲網際網路現已在越南上線。"
+    },
     {
       "id": "te:markets:574834",
       "time": "2026-08-13 06:51:14",
@@ -137166,27 +137174,6 @@
         "Important"
       ],
       "text": "South Korea | Current Account NSA (Jun) | actual 49730000000B | previous 38607400000B"
-    },
-    {
-      "id": "5027541",
-      "time": "2026-08-06 06:58:19",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【外資機構密集發聲，AI資本開支拐點隱現】近期，聯博基金、宏利基金、路博邁基金、摩根士丹利等多家外資機構發表了對近期市場的最新看法。多家外資機構普遍認為，地緣局勢與AI應用仍是貫穿2026年的兩大主線，全球經濟整體保持韌性，但“K型分化”特徵在中美市場均有所顯現。在AI資本開支增速有望放緩、全球貨幣政策分化的背景下，外資機構對下半年債市走勢、權益風格切換及中國資產配置均給出了審慎積極的判斷。（中證報）"
-    },
-    {
-      "id": "te:markets:573138",
-      "time": "2026-08-06 06:57:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Retreats from Record High on Profit-Taking — New Zealand's stocks fell 75 points, or 0.5%, to 13,922 in Thursday morning trade, erasing gains from the previous three sessions, as traders took profits after the index hit a record high a day earlier. Investors continued to assess the latest data after Wednesday's report showed New Zealand's unemployment rate increased to 5.6% in Q2, the highest since Q3 2015, amid a surge in inflation, raising questions about whether the central bank will cut interest rates at its upcoming meeting. However, further declines in oil prices amid optimism over US-Iran peace talks limited the fall, as easing inflation concerns tempered expectations of an interest rate hike. An upbeat session on Wall Street overnight also capped further declines, supported by strong corporate earnings and macroeconomic data. Healthcare, consumer staples, and utilities mainly weighed on the index, with early losers including Fisher & Paykel (-3.4%), Fletcher Building (-2.9%), Mercury NZ (-1.2%), and ANZ Group (-0.8%)."
     }
   ]
 }
