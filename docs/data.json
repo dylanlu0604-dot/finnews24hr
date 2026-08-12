@@ -1,7 +1,164 @@
 {
-  "updated": "2026-08-12 20:45:44",
-  "count": 15143,
+  "updated": "2026-08-12 20:49:38",
+  "count": 15147,
   "items": [
+    {
+      "id": "5037796",
+      "time": "2026-08-12 20:49:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【能源可能在8月重新點燃通脹 】能源價格下跌幫助7月份通脹降溫，汽油環比下降2.9%，燃料油下跌1.7%。 但這種緩解可能是暫時的。 原油價格上漲和強勁的煉油利潤率已經開始推高燃料成本。 美國汽油現平均每加侖4.03美元，比一個月前的3.87美元上漲，這表明能源可能對8月通脹施加新的上行壓力。"
+    },
+    {
+      "id": "5037795",
+      "time": "2026-08-12 20:48:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數下跌0.1%，至日內低點。"
+    },
+    {
+      "id": "5037794",
+      "time": "2026-08-12 20:48:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度客機機長被曝“毒駕” 航班空中驟降傷數十人】印度航空公司一架客機上週在空中高度驟降，造成20名乘客和4名機組人員受傷。印度媒體披露，涉事機長接受藥檢，結果顯示為大麻陽性。 這架空中客車A320型客機4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。在飛行途中，客機突然下降約90米。 印度航空事故調查局11日釋出宣告說，正在調查這一事件，分析技術、醫學、人為因素等方面的證據。多家媒體援引訊息人士的話報道，機長在檢測中被查出大麻陽性，第二次毒檢依舊沒透過。（新華社）"
+    },
+    {
+      "id": "te:economy:574765",
+      "time": "2026-08-12 20:47:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Energy Inflation",
+        "Importance 0"
+      ],
+      "text": "US Energy Inflation Slows to 4-Month Low — US energy inflation moderated to 14.7% year-over-year in July 2026, the softest since March, down from 15.7% in the prior month. Prices slowed down further for energy commodities such as gasoline (24.6% vs 27.1% in June) and fuel oil (39.1% vs 42.9%). On the other hand, prices rose faster for piped gas service (4.3% vs 3%) and electricity (4.2% vs 4%). On a monthly basis, energy prices fell by 1.5%, after a 5.7% decline in the previous month."
+    },
+    {
+      "id": "5037793",
+      "time": "2026-08-12 20:47:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大鎳業公司宣佈進行非經紀私募配售，總融資額為1500萬加元。"
+    },
+    {
+      "id": "mkt:019ff603-3294-7aab-900c-167d3233e69f",
+      "time": "2026-08-12 20:47:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Goldman Sachs said U.S. July CPI was \"encouraging\"."
+    },
+    {
+      "id": "5037792",
+      "time": "2026-08-12 20:46:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入2500萬美元。"
+    },
+    {
+      "id": "mkt:019ff602-d334-7aab-900c-0d2bbc9f3d67",
+      "time": "2026-08-12 20:46:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "NATO allies convened a meeting to discuss airspace incursions into Poland and Romania."
+    },
+    {
+      "id": "5037791",
+      "time": "2026-08-12 20:46:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約盟國召開會議，商討波蘭、羅馬尼亞領空事宜。"
+    },
+    {
+      "id": "5037790",
+      "time": "2026-08-12 20:46:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數下跌0.1%，至當日低點。"
+    },
+    {
+      "id": "5037789",
+      "time": "2026-08-12 20:46:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，《歡迎來龍餐館》今日上映第2天，單日票房已超過昨天上映首日，實現工作日單日票房逆跌！"
+    },
+    {
+      "id": "mkt:019ff602-649f-7aab-900c-04970aa1ca72",
+      "time": "2026-08-12 20:46:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Lebanese military said Israel continues to \"violate and breach\" existing agreements."
+    },
+    {
+      "id": "5037788",
+      "time": "2026-08-12 20:46:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國生菜價格環比下跌 16.4%。"
+    },
+    {
+      "id": "5037787",
+      "time": "2026-08-12 20:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍航母超長部署狀態越來越差】據美國“戰區”網站近日報道，美軍11艘現役航母中，目前部署海外的僅3艘，剩下的有4艘在港休整，還有4艘正維修保養。而“出外勤”的美軍航母，整體狀態也越來越差。外媒援引“林肯”號水兵及家屬的話稱，該艦已出海近9個月，最近5個月一直巡弋在阿拉伯海參與對伊朗的封鎖、打擊行動。超長的部署時間，導致艦上洗衣機損壞、淋浴間發黴，廁所一度無法使用，而艦載機超1萬次的頻繁起降，竟然把飛行甲板磨出了洞。由於後勤保障不利，“林肯”號還多次實行物資限量配給制，艦上水兵抱怨不僅食物匱乏，很少吃到新鮮果蔬，而且連牙膏、肥皂都嚴重短缺。（中國新聞網）"
+    },
+    {
+      "id": "mkt:019ff601-c908-7aab-900b-ff65f290a87b",
+      "time": "2026-08-12 20:45:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Honor launched its first Robot Phone, priced from 9,999 yuan to 12,999 yuan."
+    },
+    {
+      "id": "te:economy:574764",
+      "time": "2026-08-12 20:45:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate MoM",
+        "Importance 0"
+      ],
+      "text": "US CPI Rebounds in July — The CPI in the US edged up 0.1% month-over-month in July 2026 as expected, rebounding from a 0.4% decline in June, which marked the first monthly drop since May 2020. The index for shelter rose 0.1%, accounting for roughly two-thirds of the monthly total increase. Food prices also were up 0.1% and other increases were seen for medical care (0.4%), airline fares (2.2%), communication (0.6%), education (0.5%), and recreation (0.2%). In contrast, gasoline prices decreased 2.9% and motor vehicle insurance was down 0.3%."
+    },
     {
       "id": "5037786",
       "time": "2026-08-12 20:45:03",
@@ -137962,113 +138119,6 @@
         "公司"
       ],
       "text": "【新華三與海康機器人達成戰略合作】8月5日，新紫光集團旗下新華三與杭州海康機器人股份有限公司正式達成戰略合作伙伴關係，將圍繞園區網路以及工業自主移動機器人（Autonomous Mobile Robot，簡稱AMR）無線網路的方案開發與應用落地展開深度合作。"
-    },
-    {
-      "id": "mkt:019fd1f8-b58a-7aab-8f8c-6f8d606c2077",
-      "time": "2026-08-05 20:49:25",
-      "tags": [
-        "MKT News",
-        "SHOP.N",
-        "Impact bullish"
-      ],
-      "text": "Shopify (SHOP.N): international total transaction volume rose 37% in the second quarter."
-    },
-    {
-      "id": "5027055",
-      "time": "2026-08-05 20:49:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度航空任命特沃爾德·格佈雷馬里亞姆擔任執行長。"
-    },
-    {
-      "id": "5027054",
-      "time": "2026-08-05 20:48:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify 高管：第二季度國際商品交易總額（GMV）同比增長37%。"
-    },
-    {
-      "id": "5027053",
-      "time": "2026-08-05 20:48:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所：將MINIMAX、立訊精密、三環集團調入港股通標的名單】8月5日，上交所釋出通知，根據《上海證券交易所滬港通業務實施辦法》的有關規定，滬港通下港股通標的名單發生調整，調入MINIMAX-W、立訊精密、三環集團，並自下一港股通交易日起生效。"
-    },
-    {
-      "id": "5027052",
-      "time": "2026-08-05 20:48:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海：到2030年，民營經濟增加值佔比達33%左右】近日，《上海市促進民營經濟發展“十五五”規劃》（以下簡稱《規劃》）釋出。《規劃》提出，到2030年，上海民營經濟總量規模再上新臺階，質量結構進一步最佳化。創新能力持續提升，推動新質生產力發展取得成效；開放活力明顯增強，進一步發揮民營經濟在外貿領域的重要作用，提升民營企業國際化水平；社會貢獻不斷提高，構築穩就業、保民生的堅實底座；制度環境持續最佳化，厚植民營經濟發展沃土，讓企業與城市發展同頻共振、雙向奔赴。到2035年，上海民營經濟高質量發展成效明顯，市場化、法治化、國際化一流營商環境更優，打造成為創新活力充分迸發、一流企業競相湧現的民營經濟發展新高地。《規劃》共設定5項預期性指標：到2030年，民營經濟增加值佔比達33%左右；民營“四上”企業研發費用在5000億元以上；民營專精特新“小巨人”企業數位居全國前列；民營企業貨物進出口總額在3萬億元左右；“四上”企業從業人員數民營佔比在48%左右。（澎湃）"
-    },
-    {
-      "id": "mkt:019fd1f7-3c4a-7aab-8f8c-64c72e5031d9",
-      "time": "2026-08-05 20:47:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reports a fire at a research institute of Russia’s State Space Corporation (Roscosmos) in Korolyov, a suburb of Moscow."
-    },
-    {
-      "id": "mkt:019fd1f6-def7-7aab-8f8c-5bca66a946b8",
-      "time": "2026-08-05 20:47:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Kashkari: rate hikes should be gradual; remains open to policy options】Federal Reserve official Kashkari told CNBC he remains open to future policy options but does not favor large rate increases. He said most recent inflation stems from supply shocks with some demand contribution and that his aim is to lower inflation, not slow the economy. Kashkari said it is time to begin raising rates gradually but opposed aggressive hikes, and stressed the value of continuing to explain the Fed's policy reaction function to the public, warning there is no 'magic' meeting count that dictates action."
-    },
-    {
-      "id": "5027051",
-      "time": "2026-08-05 20:47:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "莫斯科近郊科羅廖夫市的俄羅斯航天國家集團科研院所發生火災。"
-    },
-    {
-      "id": "5027050",
-      "time": "2026-08-05 20:47:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify高管：第二季度中，75%由人工智慧促成的訂單來自我們前100大品類之外的品類。"
-    },
-    {
-      "id": "5027049",
-      "time": "2026-08-05 20:46:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify高管：早期跡象表明，人工智慧搜尋對部分較小品牌而言助力尤為顯著。"
-    },
-    {
-      "id": "5027048",
-      "time": "2026-08-05 20:46:21",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【海南出臺十條措施支援加快電力專案規劃建設】海南省自然資源和規劃廳於近日聯合海南省發展和改革委員會、海南省林業局出臺《關於加強電力專案規劃建設自然資源要素保障若干措施（試行）》的通知，提出十條具體措施推動電網工程快速落地，形成有效投資。通知有效期至2029年12月31日。通知提出，支援電力設施與新興產業同步謀劃、同步設計、同步建設，全力保障重大產業配套電網工程，依託堅強電網支撐航天試驗、人工智慧算力、氫基綠色產業規模化落地，助力全省戰略性新興產業叢集高質量發展；做好電力相關規劃與國土空間規劃的銜接，推動電力發展規劃、電力專項規劃與國土空間規劃深度融合，電網重點專案統籌納入自然資源管理和國土空間規劃“一張圖”、國土空間規劃重點建設專案清單予以保障；強化空間剛性管控，納入國土空間規劃的電網專案建設用地，未經法定程式調整規劃，不得擅自佔用或者改變用途。"
-    },
-    {
-      "id": "5027047",
-      "time": "2026-08-05 20:46:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月5日，全球基金淨賣出94.3億印度盧比的印度股票。"
     }
   ]
 }

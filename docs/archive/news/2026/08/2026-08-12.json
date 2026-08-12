@@ -1,7 +1,164 @@
 {
   "date": "2026-08-12",
-  "count": 2365,
+  "count": 2381,
   "items": [
+    {
+      "id": "5037796",
+      "time": "2026-08-12 20:49:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【能源可能在8月重新點燃通脹 】能源價格下跌幫助7月份通脹降溫，汽油環比下降2.9%，燃料油下跌1.7%。 但這種緩解可能是暫時的。 原油價格上漲和強勁的煉油利潤率已經開始推高燃料成本。 美國汽油現平均每加侖4.03美元，比一個月前的3.87美元上漲，這表明能源可能對8月通脹施加新的上行壓力。"
+    },
+    {
+      "id": "5037795",
+      "time": "2026-08-12 20:48:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元指數下跌0.1%，至日內低點。"
+    },
+    {
+      "id": "5037794",
+      "time": "2026-08-12 20:48:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【印度客機機長被曝“毒駕” 航班空中驟降傷數十人】印度航空公司一架客機上週在空中高度驟降，造成20名乘客和4名機組人員受傷。印度媒體披露，涉事機長接受藥檢，結果顯示為大麻陽性。 這架空中客車A320型客機4日從泰國普吉島飛往印度首都新德里，載有137名乘客和8名機組人員。在飛行途中，客機突然下降約90米。 印度航空事故調查局11日釋出宣告說，正在調查這一事件，分析技術、醫學、人為因素等方面的證據。多家媒體援引訊息人士的話報道，機長在檢測中被查出大麻陽性，第二次毒檢依舊沒透過。（新華社）"
+    },
+    {
+      "id": "te:economy:574765",
+      "time": "2026-08-12 20:47:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Energy Inflation",
+        "Importance 0"
+      ],
+      "text": "US Energy Inflation Slows to 4-Month Low — US energy inflation moderated to 14.7% year-over-year in July 2026, the softest since March, down from 15.7% in the prior month. Prices slowed down further for energy commodities such as gasoline (24.6% vs 27.1% in June) and fuel oil (39.1% vs 42.9%). On the other hand, prices rose faster for piped gas service (4.3% vs 3%) and electricity (4.2% vs 4%). On a monthly basis, energy prices fell by 1.5%, after a 5.7% decline in the previous month."
+    },
+    {
+      "id": "5037793",
+      "time": "2026-08-12 20:47:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大鎳業公司宣佈進行非經紀私募配售，總融資額為1500萬加元。"
+    },
+    {
+      "id": "mkt:019ff603-3294-7aab-900c-167d3233e69f",
+      "time": "2026-08-12 20:47:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Goldman Sachs said U.S. July CPI was \"encouraging\"."
+    },
+    {
+      "id": "5037792",
+      "time": "2026-08-12 20:46:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入2500萬美元。"
+    },
+    {
+      "id": "mkt:019ff602-d334-7aab-900c-0d2bbc9f3d67",
+      "time": "2026-08-12 20:46:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "NATO allies convened a meeting to discuss airspace incursions into Poland and Romania."
+    },
+    {
+      "id": "5037791",
+      "time": "2026-08-12 20:46:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約盟國召開會議，商討波蘭、羅馬尼亞領空事宜。"
+    },
+    {
+      "id": "5037790",
+      "time": "2026-08-12 20:46:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數下跌0.1%，至當日低點。"
+    },
+    {
+      "id": "5037789",
+      "time": "2026-08-12 20:46:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，《歡迎來龍餐館》今日上映第2天，單日票房已超過昨天上映首日，實現工作日單日票房逆跌！"
+    },
+    {
+      "id": "mkt:019ff602-649f-7aab-900c-04970aa1ca72",
+      "time": "2026-08-12 20:46:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Lebanese military said Israel continues to \"violate and breach\" existing agreements."
+    },
+    {
+      "id": "5037788",
+      "time": "2026-08-12 20:46:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國生菜價格環比下跌 16.4%。"
+    },
+    {
+      "id": "5037787",
+      "time": "2026-08-12 20:45:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍航母超長部署狀態越來越差】據美國“戰區”網站近日報道，美軍11艘現役航母中，目前部署海外的僅3艘，剩下的有4艘在港休整，還有4艘正維修保養。而“出外勤”的美軍航母，整體狀態也越來越差。外媒援引“林肯”號水兵及家屬的話稱，該艦已出海近9個月，最近5個月一直巡弋在阿拉伯海參與對伊朗的封鎖、打擊行動。超長的部署時間，導致艦上洗衣機損壞、淋浴間發黴，廁所一度無法使用，而艦載機超1萬次的頻繁起降，竟然把飛行甲板磨出了洞。由於後勤保障不利，“林肯”號還多次實行物資限量配給制，艦上水兵抱怨不僅食物匱乏，很少吃到新鮮果蔬，而且連牙膏、肥皂都嚴重短缺。（中國新聞網）"
+    },
+    {
+      "id": "mkt:019ff601-c908-7aab-900b-ff65f290a87b",
+      "time": "2026-08-12 20:45:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Honor launched its first Robot Phone, priced from 9,999 yuan to 12,999 yuan."
+    },
+    {
+      "id": "te:economy:574764",
+      "time": "2026-08-12 20:45:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate MoM",
+        "Importance 0"
+      ],
+      "text": "US CPI Rebounds in July — The CPI in the US edged up 0.1% month-over-month in July 2026 as expected, rebounding from a 0.4% decline in June, which marked the first monthly drop since May 2020. The index for shelter rose 0.1%, accounting for roughly two-thirds of the monthly total increase. Food prices also were up 0.1% and other increases were seen for medical care (0.4%), airline fares (2.2%), communication (0.6%), education (0.5%), and recreation (0.2%). In contrast, gasoline prices decreased 2.9% and motor vehicle insurance was down 0.3%."
+    },
     {
       "id": "5037786",
       "time": "2026-08-12 20:45:03",
