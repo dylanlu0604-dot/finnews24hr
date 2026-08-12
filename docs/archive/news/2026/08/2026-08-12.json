@@ -1,7 +1,106 @@
 {
   "date": "2026-08-12",
-  "count": 2675,
+  "count": 2685,
   "items": [
+    {
+      "id": "5037968",
+      "time": "2026-08-12 22:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，最近一週美國墨西哥灣沿岸原油庫存增幅創2023年1月以來單週新高。"
+    },
+    {
+      "id": "5037967",
+      "time": "2026-08-12 22:39:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 WTI、布倫特原油期貨進一步下挫，EIA 庫存報告顯示美國周度原油庫存意外增加。"
+    },
+    {
+      "id": "5037966",
+      "time": "2026-08-12 22:39:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價上漲5%，報140.150美元/股，總市值報1.85萬億美元。"
+    },
+    {
+      "id": "mkt:019ff669-d35a-7aab-900f-ba697f1347b5",
+      "time": "2026-08-12 22:39:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. gasoline futures extended losses, down 0.63%, after an EIA report showed a smaller-than-expected draw in gasoline inventories."
+    },
+    {
+      "id": "5037965",
+      "time": "2026-08-12 22:39:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國柴油期貨扭轉跌勢，上漲 0.54%；儘管 EIA 庫存報告顯示柴油庫存降幅不及預期。"
+    },
+    {
+      "id": "mkt:019ff669-92c6-7aab-900f-b03921c7571d",
+      "time": "2026-08-12 22:39:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Despite the EIA reporting diesel inventories fell less than expected, U.S. diesel futures reversed losses and rose 0.54%."
+    },
+    {
+      "id": "5037963",
+      "time": "2026-08-12 22:38:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國汽油期貨<RBc1>跌幅擴大，下跌0.63%。此前美國能源資訊署（EIA）的庫存報告顯示，汽油庫存降幅小於預期。"
+    },
+    {
+      "id": "te:markets:574794",
+      "time": "2026-08-12 22:38:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SpaceX Stock Price Hits 4-week High — SpaceX shares increased to 139.99 USD, the highest since July 2026. Over the past 4 weeks, SpaceX gained 0.35%, and in the last 12 months, it increased 3.43%."
+    },
+    {
+      "id": "mkt:019ff668-4bf5-7aab-900f-ab212292613a",
+      "time": "2026-08-12 22:37:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA report: US crude inventories rose last week by the largest increase since January 2023."
+    },
+    {
+      "id": "5037962",
+      "time": "2026-08-12 22:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，最新一週美國原油庫存創下2023年1月以來單週最大增幅。"
+    },
     {
       "id": "mkt:019ff663-fe9c-7aab-900f-a66f584ceaf9",
       "time": "2026-08-12 22:32:56",

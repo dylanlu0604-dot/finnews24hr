@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-12 22:37:04",
-  "count": 15154,
+  "updated": "2026-08-12 22:41:05",
+  "count": 15160,
   "items": [
+    {
+      "id": "5037968",
+      "time": "2026-08-12 22:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，最近一週美國墨西哥灣沿岸原油庫存增幅創2023年1月以來單週新高。"
+    },
+    {
+      "id": "5037967",
+      "time": "2026-08-12 22:39:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國 WTI、布倫特原油期貨進一步下挫，EIA 庫存報告顯示美國周度原油庫存意外增加。"
+    },
+    {
+      "id": "5037966",
+      "time": "2026-08-12 22:39:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價上漲5%，報140.150美元/股，總市值報1.85萬億美元。"
+    },
+    {
+      "id": "mkt:019ff669-d35a-7aab-900f-ba697f1347b5",
+      "time": "2026-08-12 22:39:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. gasoline futures extended losses, down 0.63%, after an EIA report showed a smaller-than-expected draw in gasoline inventories."
+    },
+    {
+      "id": "5037965",
+      "time": "2026-08-12 22:39:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國柴油期貨扭轉跌勢，上漲 0.54%；儘管 EIA 庫存報告顯示柴油庫存降幅不及預期。"
+    },
+    {
+      "id": "mkt:019ff669-92c6-7aab-900f-b03921c7571d",
+      "time": "2026-08-12 22:39:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Despite the EIA reporting diesel inventories fell less than expected, U.S. diesel futures reversed losses and rose 0.54%."
+    },
+    {
+      "id": "5037963",
+      "time": "2026-08-12 22:38:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國汽油期貨<RBc1>跌幅擴大，下跌0.63%。此前美國能源資訊署（EIA）的庫存報告顯示，汽油庫存降幅小於預期。"
+    },
+    {
+      "id": "te:markets:574794",
+      "time": "2026-08-12 22:38:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SpaceX Stock Price Hits 4-week High — SpaceX shares increased to 139.99 USD, the highest since July 2026. Over the past 4 weeks, SpaceX gained 0.35%, and in the last 12 months, it increased 3.43%."
+    },
+    {
+      "id": "mkt:019ff668-4bf5-7aab-900f-ab212292613a",
+      "time": "2026-08-12 22:37:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "EIA report: US crude inventories rose last week by the largest increase since January 2023."
+    },
+    {
+      "id": "5037962",
+      "time": "2026-08-12 22:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，最新一週美國原油庫存創下2023年1月以來單週最大增幅。"
+    },
     {
       "id": "mkt:019ff663-fe9c-7aab-900f-a66f584ceaf9",
       "time": "2026-08-12 22:32:56",
@@ -138224,42 +138323,6 @@
         "其他"
       ],
       "text": "禮來高管表示，7下旬Mounjaro處方量較一個月前翻倍。"
-    },
-    {
-      "id": "5027248",
-      "time": "2026-08-05 22:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普推進移民執法 美國驅逐令簽發量6月升至歷史新高】記者當地時間8月5日獲悉，隨著美國總統特朗普推進移民執法行動，美國聯邦移民法官簽發的驅逐令數量升至紀錄高位。（央視新聞）"
-    },
-    {
-      "id": "te:economy:573083",
-      "time": "2026-08-05 22:38:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Crude Oil Stocks Change",
-        "Importance 2"
-      ],
-      "text": "US Crude Oil Stocks Unexpectedly Rise: EIA — US crude inventories rose by 2.479 million barrels to 407 million barrels in the week ended July 31, compared with market expectations for a 1.5 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub rose by 2.356 million barrels in the week. Refinery crude runs fell by 183 thousand barrels per day. Gasoline stocks fell by 1.643 million barrels to 209.7 million barrels, compared with expectations for a 1.3 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, fell by 3.473 million barrels in the week to 107.1 million barrels, versus expectations for a 0.2 million-barrel rise. Net US crude imports increased by 297 thousand barrels per day."
-    },
-    {
-      "id": "5027247",
-      "time": "2026-08-05 22:38:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉跌；標普500指數漲幅收窄至0.4%。"
-    },
-    {
-      "id": "5027246",
-      "time": "2026-08-05 22:38:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "禮來表示7月下旬Fundayo處方量增長出現“拐點”。"
     }
   ]
 }
