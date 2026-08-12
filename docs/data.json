@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-13 01:10:40",
-  "count": 15084,
+  "updated": "2026-08-13 01:19:28",
+  "count": 15078,
   "items": [
+    {
+      "id": "mkt:019ff6f9-7964-7aab-9011-d469cfd27f7c",
+      "time": "2026-08-13 01:16:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $725 mln from one counterparty in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019ff6f5-c87c-7aab-9011-cb3884dfbe50",
+      "time": "2026-08-13 01:12:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk said Grok 4.6 ranks first overall for intelligence, runtime speed and usage cost."
+    },
     {
       "id": "mkt:019ff6f3-87d7-7aab-9011-c73060a306ef",
       "time": "2026-08-13 01:09:42",
@@ -137592,76 +137612,6 @@
         "國際"
       ],
       "text": "伊朗副外長：與阿曼的新諒解備忘錄代表了霍爾木茲海峽安排的新模式，與過去60年採用的模式不同。"
-    },
-    {
-      "id": "mkt:019fd2ed-ecb7-7aab-8f92-2762bec72899",
-      "time": "2026-08-06 01:17:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Israel's Channel 14 reports Prime Minister Netanyahu and Defense Minister Katz will hold talks later to discuss how to respond to Hezbollah."
-    },
-    {
-      "id": "5027398",
-      "time": "2026-08-06 01:16:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "週三（8月5日），美聯儲隔夜逆回購協議（RRP）使用規模為16.50億美元（交易對手2家），上個交易日報22.51億美元。"
-    },
-    {
-      "id": "mkt:019fd2ed-5c45-7aab-8f92-191dec40684a",
-      "time": "2026-08-06 01:16:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Federal Reserve accepted $1.65bn from two counterparties in fixed-rate reverse-repo operations."
-    },
-    {
-      "id": "5027397",
-      "time": "2026-08-06 01:15:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：以色列的生存不容談判，無論（美伊）是否達成協議。"
-    },
-    {
-      "id": "mkt:019fd2eb-8991-7aab-8f92-11461b1fb6d6",
-      "time": "2026-08-06 01:14:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said Iran and Oman have discussed creating a joint navigation management center in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019fd2ea-9f59-7aab-8f92-0aaff9c080c7",
-      "time": "2026-08-06 01:13:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "GFZ revised the magnitude of an earthquake on Halmahera Island, Indonesia, down from 5.8 to 5.3."
-    },
-    {
-      "id": "5027396",
-      "time": "2026-08-06 01:12:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長稱近日未與美國舉行任何會談。"
-    },
-    {
-      "id": "mkt:019fd2e9-a5c9-7aab-8f92-008f79e2b785",
-      "time": "2026-08-06 01:12:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's deputy foreign minister said there have been no recent negotiations with the United States."
     }
   ]
 }
