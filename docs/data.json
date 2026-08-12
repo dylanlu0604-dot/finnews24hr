@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 03:44:11",
+  "updated": "2026-08-13 03:48:04",
   "count": 15058,
   "items": [
+    {
+      "id": "mkt:019ff783-36dd-7aab-9013-152640ecc63e",
+      "time": "2026-08-13 03:46:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House press secretary Leavitt said President Trump has asked him to continue serving externally as a senior adviser and that he will remain a steadfast advocate for MAGA and the Republican Party."
+    },
     {
       "id": "5038099",
       "time": "2026-08-13 03:43:25",
@@ -137436,14 +137444,6 @@
         "其他"
       ],
       "text": "扎克伯格稱META今天釋出MUSE CODE測試版。"
-    },
-    {
-      "id": "5027461",
-      "time": "2026-08-06 03:47:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引敘利亞當地訊息源：以色列間諜直升機及飛機飛越德拉省與庫奈特拉省上空。"
     }
   ]
 }
