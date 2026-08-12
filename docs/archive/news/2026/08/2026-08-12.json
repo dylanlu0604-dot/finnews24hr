@@ -1,7 +1,149 @@
 {
   "date": "2026-08-12",
-  "count": 1185,
+  "count": 1200,
   "items": [
+    {
+      "id": "5036973",
+      "time": "2026-08-12 14:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤上漲0.8%，至67,524.06點。"
+    },
+    {
+      "id": "mkt:019ff4aa-73c4-7aab-9001-f182f0f3b49d",
+      "time": "2026-08-12 14:30:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Pakistan condemned a Houthi attack on a commercial vessel, saying it poses a serious threat to freedom of navigation, maritime security and shipping in the Red Sea."
+    },
+    {
+      "id": "te:markets:574648",
+      "time": "2026-08-12 14:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.81% Higher — The Nikkei 225 Index rose 545 points or 0.81 percent on Wednesday to close at 67515 points. Leading the gains are Furukawa Electric (6.58%), Resonac Holdings (6.40%) and M3 (6.27%). Top losers were Rakuten (-13.22%), Nitori Holdings (-4.44%) and Sumitomo Metal Mining (-4.07%)."
+    },
+    {
+      "id": "mkt:019ff4a9-e1b6-7aab-9001-ed9052a046dc",
+      "time": "2026-08-12 14:30:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Security sources said four drones struck an Iranian Kurdish opposition camp near Erbil, Iraq; no casualties have been reported so far."
+    },
+    {
+      "id": "mkt:019ff4a9-aca0-7aab-9001-e1b0391d95fe",
+      "time": "2026-08-12 14:29:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dashi Intelligent hits daily limit on rumor of 0.04% stake in Yushu Technology; company denies stake, says no robotics business】Shares of Dashi Intelligent opened sharply higher and closed at the daily upper limit after market rumors that it indirectly held a 0.04% stake in Yushu Technology. The company's securities department said it holds no direct or indirect shares in Yushu and currently has no robotics R&D, production or manufacturing operations. In response to the price move, Dashi Intelligent reiterated there are no undisclosed material matters."
+    },
+    {
+      "id": "5036971",
+      "time": "2026-08-12 14:29:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【達實智慧：無參股宇樹科技，無機器人業務】達實智慧開盤後快速拉昇封死漲停，截至13時22分，報3.88元/股，漲停板上封單資金達3.21億元。推動本輪股價異動的導火索，或是市場流傳的一則傳聞。近期有市場傳言稱，達實智慧間接持有宇樹科技0.04%的股份。對此，記者以投資者身份致電達實智慧證券部，工作人員明確表示，無論直接持股還是間接持股，達實智慧均不持有宇樹科技股份，同時公司現階段不存在機器人相關研發、生產與製造業務。對於當日股價漲停，公司重申不存在應披露而尚未披露的重大事項。(21財經）"
+    },
+    {
+      "id": "5036970",
+      "time": "2026-08-12 14:29:30",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【Salomon薩洛蒙北京國貿商城旗艦店正式揭幕】近日，法國專業戶外運動品牌Salomon薩洛蒙“Blue Perspective多元之藍”主題攝影藝術展率先於Salomon薩洛蒙北京國貿商城旗艦店盛大啟幕。Salomon薩洛蒙全球品牌代言人金智秀（下稱JISOO）空降現場，她親身演繹以“Blue Perspective多元之藍”為靈感打造的全新主題系列產品，傳遞戶外運動色彩新理念。（貴圈）"
+    },
+    {
+      "id": "5036969",
+      "time": "2026-08-12 14:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士稱，四架無人機襲擊了伊拉克埃爾比勒附近的伊朗庫爾德反對派營地，目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019ff4a9-57f6-7aab-9001-ded707922b3d",
+      "time": "2026-08-12 14:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund: telecoms, technology and energy posted the strongest equity returns in 1H."
+    },
+    {
+      "id": "mkt:019ff4a9-41fb-7aab-9001-d210e9dd84f9",
+      "time": "2026-08-12 14:29:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund said the fund's value at end-1H was NOK 22.683 trillion."
+    },
+    {
+      "id": "mkt:019ff4a8-f621-7aab-9001-c983cd170fd9",
+      "time": "2026-08-12 14:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund Global (GPFG) reported a 16.0% return on equity investments in Q2."
+    },
+    {
+      "id": "mkt:019ff4a8-e48c-7aab-9001-c5ca001558eb",
+      "time": "2026-08-12 14:28:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China wholesale pork price up 0.8% day-on-day】Ministry of Agriculture and Rural Affairs monitoring: on Aug. 12 the Agricultural Products Wholesale Price 200 Index was 114.43, up 0.16 points day-on-day; the \"vegetable basket\" wholesale price index was 114.75, up 0.20 points. As of 14:00, nationwide wholesale-market average prices were pork 15.85 yuan/kg (+0.8% day-on-day), beef 67.42 yuan/kg (unchanged), mutton 65.08 yuan/kg (+0.5% day-on-day), eggs 10.00 yuan/kg (+0.6% day-on-day) and dressed chicken 17.25 yuan/kg (+0.4% day-on-day)."
+    },
+    {
+      "id": "mkt:019ff4a8-d460-7aab-9001-bda95ffacf0a",
+      "time": "2026-08-12 14:28:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund Global (GPFG) recorded NOK 89 bln of inflows in 1H."
+    },
+    {
+      "id": "5036968",
+      "time": "2026-08-12 14:28:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月12日：“農產品批發價格200指數”比昨天上升0.16個點】據農業農村部監測，8月12日“農產品批發價格200指數”為114.43，比昨天上升0.16個點，“菜籃子”產品批發價格指數為114.75，比昨天上升0.20個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.85元/公斤，比昨天上升0.8%；牛肉67.42元/公斤，與昨天持平；羊肉65.08元/公斤，比昨天上升0.5%；雞蛋10.00元/公斤，比昨天上升0.6%；白條雞17.25元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.50元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.91元/公斤，比昨天上升0.9%。鯽魚20.31元/公斤，比昨天上升0.1%；鯉魚14.45元/公斤，比昨天上升0.8%；白鰱魚10.50元/公斤，比昨天上升0.5%；大帶魚41.13元/公斤，比昨天下降1.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、巨峰葡萄、油菜、菠菜和平菇，幅度分別為4.6%、2.6%、2.3%、2.3%和2.2%；價格降幅前五名的是西瓜、大黃花魚、香蕉、蔥頭和大帶魚，幅度分別為4.7%、2.4%、2.1%、1.9%和1.1%。"
+    },
+    {
+      "id": "te:economy:574646",
+      "time": "2026-08-12 14:28:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Inflation Falls to One-Year Low — The annual inflation rate in Romania eased to 8.2% in July 2026 from 10.4% in June, remaining above market expectations of 7.9% but marking the lowest reading since July 2025. Inflation for non-food goods posted the sharpest slowdown, easing to 7.9% from 12.3% in June, largely due to a steep moderation in electricity price growth (2.9% vs 35.2%). Food inflation also slowed (5.0% vs 5.8%), reflecting softer price growth for vegetables, fruits, meat and meat products, milk and dairy products, and sugar. Meanwhile, service inflation was unchanged at 13.7%. On a monthly basis, consumer prices rose 0.58% in July, accelerating from 0.06% in June. Meanwhile, the HICP-based annual inflation rate eased to 8.2% from 9.2% in the previous month."
+    },
     {
       "id": "5036967",
       "time": "2026-08-12 14:26:50",

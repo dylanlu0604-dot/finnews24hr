@@ -1,7 +1,149 @@
 {
-  "updated": "2026-08-12 14:28:14",
-  "count": 15234,
+  "updated": "2026-08-12 14:32:13",
+  "count": 15236,
   "items": [
+    {
+      "id": "5036973",
+      "time": "2026-08-12 14:31:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數收盤上漲0.8%，至67,524.06點。"
+    },
+    {
+      "id": "mkt:019ff4aa-73c4-7aab-9001-f182f0f3b49d",
+      "time": "2026-08-12 14:30:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Pakistan condemned a Houthi attack on a commercial vessel, saying it poses a serious threat to freedom of navigation, maritime security and shipping in the Red Sea."
+    },
+    {
+      "id": "te:markets:574648",
+      "time": "2026-08-12 14:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.81% Higher — The Nikkei 225 Index rose 545 points or 0.81 percent on Wednesday to close at 67515 points. Leading the gains are Furukawa Electric (6.58%), Resonac Holdings (6.40%) and M3 (6.27%). Top losers were Rakuten (-13.22%), Nitori Holdings (-4.44%) and Sumitomo Metal Mining (-4.07%)."
+    },
+    {
+      "id": "mkt:019ff4a9-e1b6-7aab-9001-ed9052a046dc",
+      "time": "2026-08-12 14:30:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Security sources said four drones struck an Iranian Kurdish opposition camp near Erbil, Iraq; no casualties have been reported so far."
+    },
+    {
+      "id": "mkt:019ff4a9-aca0-7aab-9001-e1b0391d95fe",
+      "time": "2026-08-12 14:29:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Dashi Intelligent hits daily limit on rumor of 0.04% stake in Yushu Technology; company denies stake, says no robotics business】Shares of Dashi Intelligent opened sharply higher and closed at the daily upper limit after market rumors that it indirectly held a 0.04% stake in Yushu Technology. The company's securities department said it holds no direct or indirect shares in Yushu and currently has no robotics R&D, production or manufacturing operations. In response to the price move, Dashi Intelligent reiterated there are no undisclosed material matters."
+    },
+    {
+      "id": "5036971",
+      "time": "2026-08-12 14:29:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【達實智慧：無參股宇樹科技，無機器人業務】達實智慧開盤後快速拉昇封死漲停，截至13時22分，報3.88元/股，漲停板上封單資金達3.21億元。推動本輪股價異動的導火索，或是市場流傳的一則傳聞。近期有市場傳言稱，達實智慧間接持有宇樹科技0.04%的股份。對此，記者以投資者身份致電達實智慧證券部，工作人員明確表示，無論直接持股還是間接持股，達實智慧均不持有宇樹科技股份，同時公司現階段不存在機器人相關研發、生產與製造業務。對於當日股價漲停，公司重申不存在應披露而尚未披露的重大事項。(21財經）"
+    },
+    {
+      "id": "5036970",
+      "time": "2026-08-12 14:29:30",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【Salomon薩洛蒙北京國貿商城旗艦店正式揭幕】近日，法國專業戶外運動品牌Salomon薩洛蒙“Blue Perspective多元之藍”主題攝影藝術展率先於Salomon薩洛蒙北京國貿商城旗艦店盛大啟幕。Salomon薩洛蒙全球品牌代言人金智秀（下稱JISOO）空降現場，她親身演繹以“Blue Perspective多元之藍”為靈感打造的全新主題系列產品，傳遞戶外運動色彩新理念。（貴圈）"
+    },
+    {
+      "id": "5036969",
+      "time": "2026-08-12 14:29:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "安全訊息人士稱，四架無人機襲擊了伊拉克埃爾比勒附近的伊朗庫爾德反對派營地，目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019ff4a9-57f6-7aab-9001-ded707922b3d",
+      "time": "2026-08-12 14:29:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund: telecoms, technology and energy posted the strongest equity returns in 1H."
+    },
+    {
+      "id": "mkt:019ff4a9-41fb-7aab-9001-d210e9dd84f9",
+      "time": "2026-08-12 14:29:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund said the fund's value at end-1H was NOK 22.683 trillion."
+    },
+    {
+      "id": "mkt:019ff4a8-f621-7aab-9001-c983cd170fd9",
+      "time": "2026-08-12 14:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund Global (GPFG) reported a 16.0% return on equity investments in Q2."
+    },
+    {
+      "id": "mkt:019ff4a8-e48c-7aab-9001-c5ca001558eb",
+      "time": "2026-08-12 14:28:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China wholesale pork price up 0.8% day-on-day】Ministry of Agriculture and Rural Affairs monitoring: on Aug. 12 the Agricultural Products Wholesale Price 200 Index was 114.43, up 0.16 points day-on-day; the \"vegetable basket\" wholesale price index was 114.75, up 0.20 points. As of 14:00, nationwide wholesale-market average prices were pork 15.85 yuan/kg (+0.8% day-on-day), beef 67.42 yuan/kg (unchanged), mutton 65.08 yuan/kg (+0.5% day-on-day), eggs 10.00 yuan/kg (+0.6% day-on-day) and dressed chicken 17.25 yuan/kg (+0.4% day-on-day)."
+    },
+    {
+      "id": "mkt:019ff4a8-d460-7aab-9001-bda95ffacf0a",
+      "time": "2026-08-12 14:28:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's Government Pension Fund Global (GPFG) recorded NOK 89 bln of inflows in 1H."
+    },
+    {
+      "id": "5036968",
+      "time": "2026-08-12 14:28:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【8月12日：“農產品批發價格200指數”比昨天上升0.16個點】據農業農村部監測，8月12日“農產品批發價格200指數”為114.43，比昨天上升0.16個點，“菜籃子”產品批發價格指數為114.75，比昨天上升0.20個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.85元/公斤，比昨天上升0.8%；牛肉67.42元/公斤，與昨天持平；羊肉65.08元/公斤，比昨天上升0.5%；雞蛋10.00元/公斤，比昨天上升0.6%；白條雞17.25元/公斤，比昨天上升0.4%。重點監測的28種蔬菜平均價格為4.50元/公斤，比昨天上升0.4%；重點監測的6種水果平均價格為6.91元/公斤，比昨天上升0.9%。鯽魚20.31元/公斤，比昨天上升0.1%；鯉魚14.45元/公斤，比昨天上升0.8%；白鰱魚10.50元/公斤，比昨天上升0.5%；大帶魚41.13元/公斤，比昨天下降1.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是菠蘿、巨峰葡萄、油菜、菠菜和平菇，幅度分別為4.6%、2.6%、2.3%、2.3%和2.2%；價格降幅前五名的是西瓜、大黃花魚、香蕉、蔥頭和大帶魚，幅度分別為4.7%、2.4%、2.1%、1.9%和1.1%。"
+    },
+    {
+      "id": "te:economy:574646",
+      "time": "2026-08-12 14:28:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Romania Inflation Falls to One-Year Low — The annual inflation rate in Romania eased to 8.2% in July 2026 from 10.4% in June, remaining above market expectations of 7.9% but marking the lowest reading since July 2025. Inflation for non-food goods posted the sharpest slowdown, easing to 7.9% from 12.3% in June, largely due to a steep moderation in electricity price growth (2.9% vs 35.2%). Food inflation also slowed (5.0% vs 5.8%), reflecting softer price growth for vegetables, fruits, meat and meat products, milk and dairy products, and sugar. Meanwhile, service inflation was unchanged at 13.7%. On a monthly basis, consumer prices rose 0.58% in July, accelerating from 0.06% in June. Meanwhile, the HICP-based annual inflation rate eased to 8.2% from 9.2% in the previous month."
+    },
     {
       "id": "5036967",
       "time": "2026-08-12 14:26:50",
@@ -138591,128 +138733,6 @@
         "公司"
       ],
       "text": "【智動力在雲南成立光銦科技公司 註冊資本3000萬元】企查查APP顯示，近日，雲南智聖光銦科技有限公司成立，法定代表人為邱佳，註冊資本為3000萬元，經營範圍包含金屬材料製造；金屬材料銷售；有色金屬合金製造；有色金屬合金銷售；非金屬礦物製品製造等。企查查股權穿透顯示，該公司由智動力(300686)旗下深圳智聖光銦科技有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019fd09f-5846-7aab-8f83-05572c79e98b",
-      "time": "2026-08-05 14:32:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bullish",
-        "000660.KS",
-        "005930.KS"
-      ],
-      "text": "【Japan, South Korea stocks close higher; SK Hynix up 5.7%】Japan's Nikkei 225 closed Aug 5 up 2,342.91 pts (+3.66%) at 66,300.44; SoftBank +13%, Kioxia +4.8%. South Korea's KOSPI closed Aug 5 up 239.3 pts (+3.76%) at 6,598.25; KOSDAQ +2.41%; SK Hynix +5.77%, Samsung Electronics +2.5%."
-    },
-    {
-      "id": "5026138",
-      "time": "2026-08-05 14:31:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "【教育板塊短線拉昇，中公教育漲停】教育板塊短線拉昇，中公教育漲停，傳智教育此前漲停，全通教育、凱文教育、昂立教育、科德教育、學大教育等跟漲。"
-    },
-    {
-      "id": "5026137",
-      "time": "2026-08-05 14:31:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田：調整外匯假設後更改了預測。"
-    },
-    {
-      "id": "5026136",
-      "time": "2026-08-05 14:31:09",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲3.66%，報66300.44點。日本東證指數收盤上漲2.1%，至4046.17點。韓國綜指收漲3.76%，報6598.25點。"
-    },
-    {
-      "id": "5026135",
-      "time": "2026-08-05 14:30:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田汽車預計全年經營利潤6,500.0億日元，此前預計5,000.0億日元。"
-    },
-    {
-      "id": "5026134",
-      "time": "2026-08-05 14:30:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田汽車第一季度經營利潤5,307.7億日元，預估3,001.6億日元。"
-    },
-    {
-      "id": "te:markets:572873",
-      "time": "2026-08-05 14:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 3.53% Higher — The Nikkei 225 Index rose 2260 points or 3.53 percent on Wednesday to close at 66217 points. Leading the gains are Yamaha Motor (19.36%), Softbank (13.20%) and Mitsui Kinzoku (10.94%)."
-    },
-    {
-      "id": "mkt:019fd09d-0d9e-7aab-8f82-f8b15d42c987",
-      "time": "2026-08-05 14:29:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Two innovation ETFs again record daily turnover above 10 bln yuan】ChinaAMC Sci‑Tech 50 ETF and E Fund ChiNext ETF each posted daily turnover above 10 bln yuan; since July 17 their daily averages were 13.1 bln yuan and 11.7 bln yuan respectively. In 1H the two ETFs’ daily average turnover was 5.0 bln yuan and 4.9 bln yuan."
-    },
-    {
-      "id": "5026133",
-      "time": "2026-08-05 14:28:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將AMD目標股價從410美元上調至465美元。"
-    },
-    {
-      "id": "te:economy:572872",
-      "time": "2026-08-05 14:28:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "Russia Services Contraction Eases in July — The S&P Global Russia Services PMI rose to 49.0 in July 2026 from 48.2 in June, but remained below the 50.0 threshold, signaling a fourth consecutive month of contraction. The latest reading marked the softest contraction in three months, as the decline in business activity eased amid a slower fall in new business inflows. Demand conditions remained weak, with firms citing subdued demand and lower customer purchasing power weighing on sales. New orders fell for the fourth straight month, although the pace of decline eased to the weakest since April. Employment declined for the sixth consecutive month as firms reduced staffing levels, though the pace of job shedding softened from June. On the price front, input cost inflation accelerated due to fuel shortages and higher transportation costs, prompting firms to raise output charges faster. Lastly, business confidence improved to a three-month high on hopes of stronger demand and investment, but remained below its long-run average."
-    },
-    {
-      "id": "5026132",
-      "time": "2026-08-05 14:28:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "諾和諾德首席財務官：我們目前沒有任何在未來推行成本削減的計劃。"
-    },
-    {
-      "id": "5026131",
-      "time": "2026-08-05 14:28:28",
-      "tags": [
-        "市場",
-        "其他",
-        "焦點"
-      ],
-      "text": "【兩隻雙創ETF成交額再度雙雙破百億】科創50ETF華夏（588000）、創業板ETF易方達（159915）成交均突破100億，延續此前火爆成交狀態，7月17日以來日均成交分別為131億、117億，上半年兩隻ETF日均成交額分別為50億、49億。"
-    },
-    {
-      "id": "5026130",
-      "time": "2026-08-05 14:28:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【核電板塊異動拉昇 常輔股份漲超10%】午後核電板塊異動拉昇，常輔股份漲超10%，融發核電、久盛電氣、中國核建、江蘇神通、瑞奇智造、合鍛智慧等快速衝高。訊息面上，2026年7月31日，國常會決定核准遼寧莊河一期等四個核電專案，共8臺新機組，總投資預計超過1700億元。這是2026年及“十五五”期間首批核准的核電專案。"
     }
   ]
 }
