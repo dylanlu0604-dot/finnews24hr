@@ -1,7 +1,109 @@
 {
   "date": "2026-08-12",
-  "count": 2180,
+  "count": 2190,
   "items": [
+    {
+      "id": "mkt:019ff5e0-0af0-7aab-9009-c137e67c05b6",
+      "time": "2026-08-12 20:08:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【OPEC secondary data — July member production changes】OPEC July crude output rose 1.659 mln bpd to 23.632 mln bpd, per OPEC secondary sources. Major member changes: Iraq +0.665 mln bpd to 2.621 mln bpd; Saudi +0.590 mln bpd to 7.352 mln bpd; Kuwait +0.393 mln bpd to 1.845 mln bpd; Iran +0.026 mln bpd to 2.478 mln bpd; Libya +0.040 mln bpd to 1.362 mln bpd; UAE -0.030 mln bpd to 3.780 mln bpd; Nigeria -0.037 mln bpd to 1.546 mln bpd; Venezuela +0.013 mln bpd to 1.117 mln bpd; Algeria +0.008 mln bpd to 0.995 mln bpd; Gabon -0.014 mln bpd to 0.207 mln bpd; Congo -0.004 mln bpd to 0.274 mln bpd; Guinea +0.010 mln bpd to 0.056 mln bpd."
+    },
+    {
+      "id": "5037692",
+      "time": "2026-08-12 20:08:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【城地香江：股價異常波動 定增或終止且業績持續虧損】城地香江公告稱，公司股票於2026年8月11日、12日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司經營正常，無應披露未披露重大資訊，認購方擬協商終止2024年度定增事項。公司暫未有算力租賃相關業務，2025年淨虧損6706.50萬元，2026年一季度淨虧損1341.33萬元，上半年預計淨虧損720 - 1080萬元。公司提醒投資者注意交易和業績風險。"
+    },
+    {
+      "id": "5037691",
+      "time": "2026-08-12 20:08:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【城地香江：為全資子公司提供1000萬元擔保】城地香江公告稱，全資子公司香江科技為另一全資子公司鎮江香江雲動力科技有限公司，就中國銀行揚中支行借款簽訂《最高額保證合同》，擔保金額1000萬元，擔保方式為連帶責任保證，未超年度預計額度，無反擔保。截至公告披露日，公司及控股子公司對外擔保餘額42.61億元，佔最近一期經審計淨資產的121.87%，無逾期擔保。此次擔保因子公司生產經營融資需求開展，風險可控。"
+    },
+    {
+      "id": "5037690",
+      "time": "2026-08-12 20:08:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【亞泰集團：股價異常波動 提示重整及業績等風險】亞泰集團公告稱，公司股票於2026年8月11日、12日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司目前經營正常，不存在應披露未披露重大資訊。2025年度淨虧損20.40億元，2026年一季度淨虧損2.25億元，上半年預計淨虧損約5億元。截至7月25日，逾期債務本金及利息累計36.22億元，佔最近一期經審計淨資產的585.19%。若重整申請被受理，股票將被實施退市風險警示，重整失敗則可能被終止上市。"
+    },
+    {
+      "id": "5037689",
+      "time": "2026-08-12 20:07:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：當前的戰爭比以往的戰爭更加複雜，敵人正試圖從內部使國家走向崩潰。"
+    },
+    {
+      "id": "5037688",
+      "time": "2026-08-12 20:07:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【歐佩克月報：二手資料顯示 7月份歐佩克原油產量增加166萬桶/日】據歐佩克月報，二手資料顯示，7月份歐佩克原油產量增加166萬桶/日，達到2360萬桶/日，7月份歐佩克+原油產量增加140萬桶/日，達到3765萬桶/日。"
+    },
+    {
+      "id": "mkt:019ff5dd-eb4a-7aab-9009-bf2b0461445e",
+      "time": "2026-08-12 20:06:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show OPEC+ oil output rose 1.4 mln bpd in July to 37.65 mln bpd."
+    },
+    {
+      "id": "5037687",
+      "time": "2026-08-12 20:06:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應對臺風“白海豚”北上影響 天津濱海機場海關堅守一線保口岸通關暢通】為應對臺風“白海豚”北上影響，保障口岸安全穩定、客貨運通關順暢，天津濱海機場海關第一時間啟動天氣應急保障預案，統籌排程一線執法力量，聯動機場、航司、貨代等單位實時跟進航班變化，全力做好颱風天氣空港口岸通關保障工作。（天津發布）"
+    },
+    {
+      "id": "mkt:019ff5dd-3b51-7aab-9009-b434ac1f6e3a",
+      "time": "2026-08-12 20:05:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: secondary sources show OPEC crude output rose 1.66 mln b/d in July to 23.6 mln b/d."
+    },
+    {
+      "id": "mkt:019ff5dc-d5c6-7aab-9009-ad5e014a0225",
+      "time": "2026-08-12 20:05:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report maintains 2027 forecast for incremental supply from non‑OPEC producers at 620,000 bpd."
+    },
     {
       "id": "mkt:019ff5dc-7f0c-7aab-9009-a49f4e7c9796",
       "time": "2026-08-12 20:04:56",
