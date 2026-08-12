@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-13 00:14:04",
-  "count": 15125,
+  "updated": "2026-08-13 00:18:11",
+  "count": 15126,
   "items": [
+    {
+      "id": "5038035",
+      "time": "2026-08-13 00:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南蘇丹霍亂疫情致1721人死亡 確診病例超11萬例】當地時間8月12日，南蘇丹衛生部長盧克·湯普森·託安在新聞釋出會上表示，自2025年9月以來，南蘇丹衛生部門已登記1721例霍亂疫情死亡病例和110574例確診病例。此次霍亂疫情已遍佈全國9個州55個縣和3個行政區，是南蘇丹迄今最大規模的霍亂疫情。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff6c0-e6c8-7aab-9011-35cee00219d7",
+      "time": "2026-08-13 00:14:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) launches Pixel 11 Pro Fold."
+    },
+    {
+      "id": "te:markets:574811",
+      "time": "2026-08-13 00:14:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends Flat Near Record Highs — The FTSE MIB closed largely unchanged at 53,699 on Wednesday, holding near record levels for a third straight session as losses for utilities offset renewed positive sentiment over AI spending. AI-related stocks advanced after upbeat sales forecasts from Tencent, CoreWeave, and Super Micro Computer, driven by stronger AI spending, with Prysmian rising 3% and STMicroelectronics adding 0.6% in Milan. Defense stocks also gained amid elevated geopolitical risks, led by Avio (1.7%) and Leonardo (1.4%). Financials remain mixed despite easing pressures of a Fed rate hike in September, while consolidation prospects continue. Unipol gained 1.9% after Berenberg stated the lender fully set to implement an MPS carve-out deal, while UniCredit lost 0.1% after reports that the ECB is leaning towards approving the lender's takeover bid of Commerzbank. Utilities weighed as European natural gas prices surged, led by Enel (-1.3%). Diasorin fell 3.3% after a UBS downgrade to \"sell\"."
+    },
+    {
+      "id": "mkt:019ff6c0-6007-7aab-9011-2f8c19726e22",
+      "time": "2026-08-13 00:13:50",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Yemen's Mocha port authority says port operations fully suspended after attacks by Houthi militants."
+    },
     {
       "id": "te:economy:574810",
       "time": "2026-08-13 00:13:09",
@@ -137966,40 +138010,6 @@
         "MKT News"
       ],
       "text": "【Axios: US-brokered Israel-Lebanon talks in Rome end early after local situation change】US officials told Axios the US-brokered Israel-Lebanon talks in Rome ended at 15:30 Rome time after changes in the local situation prompted an early adjournment. Both sides will resume talks tomorrow morning. Discussions covered political and military issues and made very positive progress. Technical teams advanced on key implementation details of a tripartite framework."
-    },
-    {
-      "id": "5027351",
-      "time": "2026-08-06 00:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：特朗普是以色列摯友，但以方將不惜一切保障國家安全。"
-    },
-    {
-      "id": "mkt:019fd2b5-f772-7aab-8f90-d8356b385653",
-      "time": "2026-08-06 00:16:08",
-      "tags": [
-        "MKT News",
-        "PSX.N",
-        "Impact bullish"
-      ],
-      "text": "Phillips 66 (PSX.N): macro environment remains favorable."
-    },
-    {
-      "id": "mkt:019fd2b4-e1e7-7aab-8f90-d25e692e53b2",
-      "time": "2026-08-06 00:14:57",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOGL.O",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "【Alphabet reshuffles AI leadership; Hassabis steps back from day-to-day management】Alphabet (GOOGL.O) said on Wednesday it is making major changes to its AI leadership. DeepMind CEO Demis Hassabis will step back from primary management duties, become chairman of DeepMind and take a newly created Alphabet chief scientist role. DeepMind CTO Koray Kavukcuoglu will run day-to-day operations as senior vice president of the unit while retaining his role as Alphabet chief AI architect. Several Gemini model leads, including senior engineer Jeff Dean, have departed. Alphabet’s flagship Gemini model, originally slated for June, has not launched, raising investor concern that Google is trailing Anthropic and OpenAI, each of which has poached a Google AI talent this summer."
     }
   ]
 }
