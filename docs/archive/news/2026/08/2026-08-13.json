@@ -1,7 +1,38 @@
 {
   "date": "2026-08-13",
-  "count": 103,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:019ff731-9182-7aab-9012-5ad1d6fbc731",
+      "time": "2026-08-13 02:17:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sources: ALPHABET reorganises DeepMind to prioritise GEMINI】Refinitiv sources say ALPHABET is executing a major leadership reshuffle at Google DeepMind, moving some teams into Google’s corporate structure and reducing DeepMind’s autonomy. Google co‑founder Sergey Brin has in recent months pushed core AI staff to focus on GEMINI and on research into recursive self‑improvement. Demis Hassabis will become chairman; his deputy Koray Kavukcuoglu will assume operational leadership and will have final authority on major DeepMind decisions. Internal tests reportedly show the new flagship GEMINI model still trails rivals in programming and other tasks, prompting a roughly two‑month delay to its planned release. Analysts say the reorganisation aims to speed AI commercialisation and regain model competitiveness; some employees warn it may further erode DeepMind’s long‑term research independence."
+    },
+    {
+      "id": "te:economy:574819",
+      "time": "2026-08-13 02:16:30",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Budget Value",
+        "Importance 1"
+      ],
+      "text": "US Budget Deficit Widens in July — The US government posted a $432 billion budget deficit in July 2026, widening from a $291 billion shortfall a year earlier and exceeding forecasts for a $346 billion gap. Government outlays rose to $766 billion from $630 billion in July 2025, led by Medicare spending of $174 billion. Social Security costs reached $141 billion, while net interest accounted for $104 billion and national defense for $91 billion. Meanwhile, government receipts fell to $334 billion from $338 billion a year earlier, with individual income taxes contributing $173 billion and social insurance and retirement receipts totaling $139 billion."
+    },
+    {
+      "id": "te:markets:574818",
+      "time": "2026-08-13 02:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Germany Natural Gas THE Rises by 3.63% — Top commodity gainers are Germany Natural Gas THE (3.63%), Natural Gas EU (3.20%) and Natural Gas UK (3.13%). Biggest losers are Methanol (-0.69%), Crude Oil WTI (-0.49%) and Brent Crude Oil (-0.30%)."
+    },
     {
       "id": "5038074",
       "time": "2026-08-13 02:13:25",
