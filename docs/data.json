@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-12 23:18:35",
-  "count": 15140,
+  "updated": "2026-08-12 23:22:40",
+  "count": 15139,
   "items": [
+    {
+      "id": "mkt:019ff68f-d9fd-7aab-9010-4c754b7510f5",
+      "time": "2026-08-12 23:20:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "JIOFIN.NS",
+        "Impact bullish"
+      ],
+      "text": "BofA will acquire a 49.9% stake in a Jio Financial subsidiary for about $1.9 billion."
+    },
+    {
+      "id": "5038005",
+      "time": "2026-08-12 23:20:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行將斥資約19億美元收購JIO金融部門49.9%的股份。"
+    },
+    {
+      "id": "mkt:019ff68d-d59f-7aab-9010-452cdd1ab435",
+      "time": "2026-08-12 23:18:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman Environment Authority is monitoring an oil slick from a grounded vessel near Al Kibubriya Island; the oil could reach the coast of Masirah Island within hours."
+    },
+    {
+      "id": "5038004",
+      "time": "2026-08-12 23:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼環境局正在監測船隻在吉卜利耶島附近擱淺後產生的海面浮油。浮油或將在未來數小時內抵達馬西拉島海岸。"
+    },
     {
       "id": "5038003",
       "time": "2026-08-12 23:17:43",
@@ -138099,52 +138140,6 @@
         "MKT News"
       ],
       "text": "Israel's Defense Ministry said it has just conducted a scheduled test of the long-range Arrow missile-defense system."
-    },
-    {
-      "id": "5027301",
-      "time": "2026-08-05 23:22:23",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【耶倫：通脹仍是核心挑戰】前美國財政部長、美聯儲主席珍妮特·耶倫表示，美國勞動力市場執行良好，熱度已不足以推高通脹。她補充稱，中東衝突與油價走高帶來的經濟影響如此有限，令她感到意外。耶倫表示，最大挑戰依舊是在不損害經濟的前提下壓低通脹。"
-    },
-    {
-      "id": "te:markets:573092",
-      "time": "2026-08-05 23:21:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises for 2nd Session — The FTSE 100 added 0.3% on Wednesday, extending a 0.2% gain on Tuesday, as optimism over a potential US-Iran agreement supported investor sentiment. US President Donald Trump said talks with Iran were moving along very nicely and that more clarity could come within 48 hours, while Qatar announced that a proposal concerning the Strait of Hormuz had been drafted. Corporate earnings also lifted the index. Next surged more than 5% after once again raising its full-year profit guidance. Glencore gained more than 3.5% after reporting an 86% year-on-year increase in adjusted profit and announcing an $0.085-per-share special cash distribution alongside a $500 million share buyback. Coca-Cola HBC climbed over 4% after reporting better-than-expected first-half sales and upgrading its full-year organic revenue growth outlook. Legal & General rose 0.7% after reporting results broadly in line with expectations, while HSBC fell more than 4% following its latest earnings release."
-    },
-    {
-      "id": "5027300",
-      "time": "2026-08-05 23:20:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "收購要約訊息出爐，鮑迪克股價大漲22%。"
-    },
-    {
-      "id": "mkt:019fd282-50aa-7aab-8f90-3e08f0a6a311",
-      "time": "2026-08-05 23:19:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASS reported Russia sentenced a Lithuanian national to 13.5 years in prison on espionage charges."
-    },
-    {
-      "id": "5027299",
-      "time": "2026-08-05 23:18:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人：巴基斯坦與卡達仍在為緩和地區緊張局勢持續斡旋，伊朗也同兩國保持溝通、交換意見。"
     }
   ]
 }

@@ -1,7 +1,48 @@
 {
   "date": "2026-08-12",
-  "count": 2739,
+  "count": 2743,
   "items": [
+    {
+      "id": "mkt:019ff68f-d9fd-7aab-9010-4c754b7510f5",
+      "time": "2026-08-12 23:20:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "JIOFIN.NS",
+        "Impact bullish"
+      ],
+      "text": "BofA will acquire a 49.9% stake in a Jio Financial subsidiary for about $1.9 billion."
+    },
+    {
+      "id": "5038005",
+      "time": "2026-08-12 23:20:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行將斥資約19億美元收購JIO金融部門49.9%的股份。"
+    },
+    {
+      "id": "mkt:019ff68d-d59f-7aab-9010-452cdd1ab435",
+      "time": "2026-08-12 23:18:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oman Environment Authority is monitoring an oil slick from a grounded vessel near Al Kibubriya Island; the oil could reach the coast of Masirah Island within hours."
+    },
+    {
+      "id": "5038004",
+      "time": "2026-08-12 23:18:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼環境局正在監測船隻在吉卜利耶島附近擱淺後產生的海面浮油。浮油或將在未來數小時內抵達馬西拉島海岸。"
+    },
     {
       "id": "5038003",
       "time": "2026-08-12 23:17:43",
