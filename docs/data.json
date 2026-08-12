@@ -1,7 +1,80 @@
 {
-  "updated": "2026-08-12 17:33:23",
-  "count": 15144,
+  "updated": "2026-08-12 17:37:30",
+  "count": 15136,
   "items": [
+    {
+      "id": "5037405",
+      "time": "2026-08-12 17:36:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【湖北保康S468省道發生多處塌方，道路交通中斷】受持續強降雨影響，8月12日13時30分左右，湖北省襄陽市保康縣寺坪鎮稻場坪路段發生山體垮塌，造成S468省道阻斷。此處垮塌面長120多米、高20多米。當地交通公路養護部門已對該處塌方路段實施臨時封閉，安排人員在現場勸導車輛繞行。同時，在確保作業安全的前提下，組織大型工程機械裝置進場搶通，由於塌方體全部是岩石需要破碎轉運，預計明天上午恢復通車。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff554-20ca-7aab-9006-56c2afca1371",
+      "time": "2026-08-12 17:35:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Yen spike; major non‑USD currencies plunge vs JPY】The yen briefly surged, driving major non‑USD pairs sharply lower vs JPY: GBP/JPY down ~80 pips intraday, EUR/JPY down >60 pips, CHF/JPY down ~60 pips, CAD/JPY down ~50 pips, AUD/JPY down ~40 pips."
+    },
+    {
+      "id": "5037404",
+      "time": "2026-08-12 17:35:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日元異動 多貨幣兌日元短線大跌】日元一度突發走強，主要非美貨幣兌日元集體快速下挫。英鎊兌日元短線走低近80點，歐元兌日元EUR/JPY短線走低超60點，瑞郎兌日元短線走低近60點，加元兌日元短線走低近50點，澳元兌日元短線走低近40點。"
+    },
+    {
+      "id": "te:economy:574720",
+      "time": "2026-08-12 17:34:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Namibia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Namibia Leaves Key Policy Rate Steady at 6.75% — The Bank of Namibia kept its benchmark repo rate unchanged at 6.75% during its August 2026 meeting, following a 25 bps rate hike in June. Policymakers said the policy stance was appropriate to support international reserves and maintain the one-to-one peg between the Namibian dollar and the South African rand. The Committee noted domestic inflationary pressures have remained elevated since the preceding meeting. Annual headline inflation rose to 4.4% in June 2026 from 4.1% in May, primarily driven by higher transport prices. Inflation is forecast to rise to 4.0% in 2026 from 3.5% in 2025, before easing to 3.9% in 2027, with the latter forecast revised up by 0.3 percentage point amid prolonged Middle East tensions."
+    },
+    {
+      "id": "5037402",
+      "time": "2026-08-12 17:33:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗阿巴斯港國際機場將於15日恢復航班執行。"
+    },
+    {
+      "id": "mkt:019ff551-f953-7aab-9006-4c4e3e07f2d0",
+      "time": "2026-08-12 17:33:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reports the Hormozgan provincial airport authority has notified that Bandar Abbas International Airport will resume flight operations on Aug. 15."
+    },
+    {
+      "id": "mkt:019ff551-c6e1-7aab-9006-44f2268ad8a0",
+      "time": "2026-08-12 17:33:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Hormozgan Airport Authority said Bandar Abbas International Airport will resume flight operations on August 15."
+    },
+    {
+      "id": "5037401",
+      "time": "2026-08-12 17:33:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國電南瑞今日大宗交易折價成交702.88萬股，成交額1.68億元】8月12日，國電南瑞大宗交易成交702.88萬股，成交額1.68億元，佔當日總成交額的13.66%，成交價23.94元，較市場收盤價24.06元折價0.5%。"
+    },
     {
       "id": "mkt:019ff551-0898-7aab-9006-3f87098349fd",
       "time": "2026-08-12 17:32:36",
@@ -137690,147 +137763,6 @@
         "觀點"
       ],
       "text": "據港交所披露：摩根大通集團於7月30日將其持有的紫金礦業H股<2899.HK>多頭倉位從14.12%下調至13.66%。"
-    },
-    {
-      "id": "5026603",
-      "time": "2026-08-05 17:36:35",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【我國發起首例對外貿易國家安全調查】商務部5日釋出公告，對相關進口列印影印辦公裝置發起了對外貿易國家安全調查。商務部新聞發言人當天表示，此次調查是中國首例對外貿易國家安全調查。 發言人說，根據《中華人民共和國對外貿易法》第四十一條規定，為維護對外貿易秩序，商務部可以自行或者會同國務院其他有關部門，就對外貿易中有關國家安全利益的事項進行調查。 發言人介紹，本次調查內容為評估相關裝有外國系統軟體的進口列印影印辦公裝置對我國對外貿易國家安全利益的影響，調查事項包括但不限於：調查物件的進口情況，進口產品、技術或服務對國家安全利益影響，國內需求情況，進口對國內產業的影響，國內產業滿足國家安全利益的能力和水平，相關外國政府政策和措施對我國國家安全利益的影響等。 發言人表示，下一步，調查機關將依法開展調查，充分保障各利害關係方權益，根據調查結果，客觀公正作出裁決，堅決維護中國國內產業合法權益和國家安全利益。（新華社）"
-    },
-    {
-      "id": "mkt:019fd147-a23d-7aab-8f88-b193c63afe1f",
-      "time": "2026-08-05 17:36:00",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Italy's economy minister said that, following negotiations with the European Union, Italy will submit a formal request to parliament in September-October to raise the budget deficit."
-    },
-    {
-      "id": "5026601",
-      "time": "2026-08-05 17:35:46",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "德國央行：德國發售10年期綠色德國國債，投標倍數為1.9，此前預期值為2.6。"
-    },
-    {
-      "id": "mkt:019fd147-6270-7aab-8f88-a8c3e28dc7fe",
-      "time": "2026-08-05 17:35:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Financial Conduct Authority (FCA) said new IPO rules will take effect on Aug 5, 2026."
-    },
-    {
-      "id": "5026600",
-      "time": "2026-08-05 17:35:10",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "德國央行：德國增發增發2.50%票息10年期綠色國債，追加發售規模為4.72億歐元。"
-    },
-    {
-      "id": "mkt:019fd146-ca2e-7aab-8f88-a6d70918ba53",
-      "time": "2026-08-05 17:35:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "FTSE100",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "UK Financial Conduct Authority (FCA) said reforms will reduce issuers' execution risk, lower compliance costs and make it easier for firms to access public markets."
-    },
-    {
-      "id": "5026599",
-      "time": "2026-08-05 17:35:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利經濟部長表示，在與歐盟磋商後，義大利將在9月至10月期間向議會提交上調赤字的正式申請。"
-    },
-    {
-      "id": "mkt:019fd146-91bb-7aab-8f88-9a43c900b415",
-      "time": "2026-08-05 17:34:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Financial Conduct Authority (FCA) will remove the seven-day waiting period for related research reports during IPOs and simplify information‑sharing requirements between issuers and companies."
-    },
-    {
-      "id": "5026598",
-      "time": "2026-08-05 17:34:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局（FCA）：新IPO上市規則將於2026年8月5日生效。"
-    },
-    {
-      "id": "5026597",
-      "time": "2026-08-05 17:34:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局（FCA）：改革旨在降低發行方的執行風險、削減合規成本，並便利企業進入公開市場融資。"
-    },
-    {
-      "id": "5026596",
-      "time": "2026-08-05 17:34:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民生健康：截至7月31日累計回購股份232萬股 耗資3415萬元】民生健康公告稱，截至2026年7月31日，公司以集中競價交易方式累計回購股份232萬股，佔總股本的0.65%，最高成交價15.67元/股，最低成交價11.77元/股，支付金額3415.25萬元（不含交易費用）。公司於2025年10月決定實施第二期股份回購，用於股權激勵，預計回購210萬 - 240萬股，資金不超5054.40萬元，實施期限為12個月。後續將繼續實施回購計劃並依規披露。"
-    },
-    {
-      "id": "5026595",
-      "time": "2026-08-05 17:34:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國金融行為監管局（FCA）簡化IPO規則，以支援企業上市活動。"
-    },
-    {
-      "id": "mkt:019fd146-27b9-7aab-8f88-956bb2700ed3",
-      "time": "2026-08-05 17:34:23",
-      "tags": [
-        "MKT News",
-        "FTSE100",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "The UK Financial Conduct Authority (FCA) has simplified IPO rules to support corporate listings."
-    },
-    {
-      "id": "5026594",
-      "time": "2026-08-05 17:33:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長安汽車：7月銷量16.16萬輛，同比下降23.29%】長安汽車公告，2026年7月產量17.6萬輛，同比下降10.19%；銷量16.16萬輛，同比下降23.29%。本年累計產量122.86萬輛，同比下降12.32%；累計銷量128.05萬輛，同比下降18.23%。其中，海外銷量89879輛；新能源汽車本月銷量74780輛，同比下降6.53%，本年累計銷量48.9萬輛，同比下降8.04%。"
-    },
-    {
-      "id": "5026593",
-      "time": "2026-08-05 17:33:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮AI審查排除美國開放權重模型】美國白宮4日向該國主要人工智慧（AI）企業披露一份旨在測試尖端模型能力的框架，將美國開放權重模型列在審查範圍外。多名知情人士當天向美媒披露這一訊息。開放權重模型被視作廣義上的開源模型，指那些公開權重檔案、即訓練完成後模型引數，並允許下載、本地部署及微調的AI模型，但這些模型不必公開訓練資料、完整程式碼或訓練流程。知情人士說，只有在效能基準測試中顯示出“最先進”網路安全與攻擊能力的封閉、擁有專利的美國模型，才須在釋出前由開發企業自願提交給政府進行測試。（新華社）"
-    },
-    {
-      "id": "5026592",
-      "time": "2026-08-05 17:33:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三峽能源：建設90萬平方米中深層地熱供暖+18萬千瓦風電專案】三峽能源公告，公司第三屆董事會第八次會議審議透過《關於設立三峽集團青海能源投資有限公司暨關聯交易的議案》，關聯董事迴避表決；同意投資建設吉林省大安市安廣鎮90萬平方米中深層地熱供暖+18萬千瓦風電多能互補示範專案和幹安縣2024年主城區100萬平方米中深層地熱供暖+20萬千瓦風電多能互補示範專案；審議透過公司經理層成員2026年度經營業績考核目標及增補巴音郭楞蒙古自治州2026年度“三峽娃娃行”專案議案。"
     }
   ]
 }
