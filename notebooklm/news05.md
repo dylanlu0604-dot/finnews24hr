@@ -1,7 +1,213 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-13 04:19:40_
-_本檔包含 3097 則快訊，約 589894 字_
+_更新時間：2026-08-13 05:17:13_
+_本檔包含 3095 則快訊，約 589673 字_
+
+---
+
+### 2026-08-07 10:56:01  #公司
+
+【維宏股份：已推出用於玻璃基板加工的切裂一體化產品】維宏股份(300508)8月7日在互動平臺表示，伴隨中國製造業轉型升級，公司自2024年開始調整戰略，聚焦高階金屬切削核心賽道，集中資源攻堅五軸、車銑複合等主流裝備控制系統，突破高階技術壁壘，今年四季度有幾款重磅產品面市。在鐳射切割市場，除現有光纖鐳射市場外，公司佈局超快鐳射加工，目前已經推出了一款用於玻璃基板加工的切裂一體化產品。
+
+---
+
+### 2026-08-07 10:53:59  #其他
+
+海關總署公佈的資料顯示，中國7月積體電路出口金額達387.4億美元；1-7月累計出口金額達2160億美元，同比增長99.5%。
+
+---
+
+### 2026-08-07 10:53:53
+
+【海關總署：1至7月積體電路累計出口同比增長99.5％】海關總署公佈的資料顯示，中國7月積體電路出口金額達387.4億美元，1至7月累計出口金額達2160億美元，同比增長99.5％。
+
+---
+
+### 2026-08-07 10:53:31  #MKT News #Important #Market Themes #Chip Wars #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+【China Customs: Jan–Jul cumulative integrated circuit exports up 99.5% YoY】China Customs data show July integrated circuit exports totaled $38.74 billion; Jan–Jul cumulative exports reached $216.0 billion, up 99.5% YoY.
+
+---
+
+### 2026-08-07 10:53:09  #國際
+
+【菲律賓地震首都馬尼拉有震感】據菲律賓火山地震研究所訊息，今天（8月7日）上午10點38分左右，菲律賓西民都洛省附近發生5.8級地震，震源深度10公里。目擊者稱，首都馬尼拉有震感。（CCTV國際時訊）
+
+---
+
+### 2026-08-07 10:52:07  #公司
+
+【天鐵科技等成立智算科技新公司 含AI相關業務】企查查APP顯示，近日，杭州天鐵智算科技有限公司成立，經營範圍包含人工智慧硬體銷售；基於雲平臺的業務外包服務；人工智慧基礎資源與技術平臺；積體電路晶片設計及服務；積體電路銷售等。企查查股權穿透顯示，該公司由天鐵科技(300587)等共同持股。
+
+---
+
+### 2026-08-07 10:51:43  #其他
+
+【江蘇：上半年省重大專案投資完成率58.8%】從江蘇省發展改革委獲悉，截至6月底，550個省重大專案完成投資3909億元，同比增加302億元，投資完成率58.8%，較去年同期高出3.5個百分點；269個計劃新開工專案已開工222個，開工率82.5%，順利完成“上半年開工率75%、投資過半”的階段性目標。產業、民生環保、基礎設施專案投資完成率分別達64%、57.7%、54.3%，均實現進度“過半”。
+
+---
+
+### 2026-08-07 10:51:43  #Trading Economics #Economy #China #Balance of Trade #Importance 2
+
+China Trade Surplus Exceeds Forecasts — China’s trade surplus widened to USD 112.5 billion in July 2026, up from USD 97.70 billion a year earlier and exceeding forecasts of USD 107 billion, as exports grew more than expected, fueled by soaring chip prices and global demand for AI data center hardware. Exports jumped 23.9% from a year earlier to $397.85 billion, while imports surged 27.7% to $285.35 billion. China’s trade surplus with the US slightly declined to $28.03 billion in July from $28.9 billion in June. In the first seven months of 2026, China’s trade surplus reached USD 687.37 billion, up from USD 683.5 billion a year earlier, with exports and imports rising 18.5% and 26.7%, respectively.
+
+---
+
+### 2026-08-07 10:51:42  #MKT News
+
+The Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported a magnitude-5.8 earthquake hit near Occidental Mindoro at about 10:38 a.m. local time on Aug. 7, with a focal depth of 10 km.
+
+---
+
+### 2026-08-07 10:51:25  #其他
+
+【上半年上海海關監管進出口航空貨運量超200萬噸，創歷史新高】者從上海海關獲悉，今年上半年上海海關累計監管進出口航空貨運量203.51萬噸，創歷史新高，同比增長15.76%。（澎湃新聞）
+
+---
+
+### 2026-08-07 10:51:05  #公司
+
+【澳大利亞AI基礎設施公司Firmus完成20億美元融資，英偉達、黑石等參投】8月7日，澳大利亞人工智慧基礎設施公司Firmus宣佈完成20億美元戰略股權融資，投資方包括英偉達、Coatue，以及由黑石集團管理的基金和其他黑石投資工具，全球交易與科技公司Jane Street也參與投資。Firmus表示，此輪融資將用於加速其“Southgate AI Factory”專案在澳大利亞的佈局，併為未來拓展亞太其他市場做準備。
+
+---
+
+### 2026-08-07 10:49:45  #MKT News
+
+【TSMC, National Yang Ming Chiao Tung University develop single-layer MoS2 top-gated transistor】TSMC and researchers from National Yang Ming Chiao Tung University developed a high‑performance single‑layer molybdenum disulfide (MoS2) top‑gated transistor, which could help extend transistor scaling beyond Moore’s Law limits. Findings published in Nature Electronics.
+
+---
+
+### 2026-08-07 10:49:34  #其他
+
+【臺積電等研發出單層MoS2頂柵電晶體】臺積電在下一代技術領域取得了突破，其與陽明交大團隊成功開發出高效能單層二硫化鉬（MoS2）頂柵極電晶體，有助於突破摩爾定律極限。相關成果發表在《NatureElectronics》期刊。
+
+---
+
+### 2026-08-07 10:49:33  #MKT News #Market Themes #Chip Wars
+
+【Chinese research team resolves speed–fidelity trade-off in superconducting quantum computing】Anhui Quantum Computing Chip Key Laboratory says a joint team from Benyuan Quantum and the University of Science and Technology of China proposed a parameter-space-extended controlled-phase gate (PSE-CZ) that addresses the long-standing speed versus fidelity constraint in superconducting quantum computing, enabling faster two-qubit gates with substantially higher precision. The results are published in Physical Review Letters and were experimentally validated on China’s domestically developed superconducting quantum computer "Benyuan Wukong".
+
+---
+
+### 2026-08-07 10:48:29  #公司
+
+中際旭創A股日內成交額達200億元，現漲近4%。
+
+---
+
+### 2026-08-07 10:48:12  #Trading Economics #Economy #China #Exports YoY #Importance 1
+
+China Export Growth Beats Estimates — China’s exports surged 23.9% year-on-year to USD 397.85 billion in July 2026, surpassing forecasts of a 22.7% rise but easing from June’s 27.0% growth. The increase was driven by strong demand for AI-related technology products and a rush by manufacturers to ship goods to the US ahead of potential new tariffs. The US applied a new 12.5% levy on Chinese products in late July, replacing a temporary 10% levy that had lapsed. Exports of semiconductors almost doubled in value terms from last year, and overall high-tech product exports soared 40.7%. By contrast, exports of ceramics slumped 28.3%, highlighting the economy's uneven development, where advanced manufacturers are riding the AI boom while more traditional industries struggle with weak demand. Among its trading partners, outbound shipments advanced to the US (17.05%), the EU (15.95%), and ASEAN (38.36%). For the first seven months of the year, total exports climbed 18.5% year-on-year to USD 2.52 trillion.
+
+---
+
+### 2026-08-07 10:47:04  #市場
+
+【海南將分階段發放500萬元電影惠民消費券】海南“跟著電影去旅遊”電影惠民促消費活動在今天正式啟動。即日起，海南將分階段發放500萬元電影惠民消費券，覆蓋上百家影院，市民和遊客均可領取。本次電影消費券分兩個階段推進：第一階段從8月7日至10月7日，覆蓋暑期和國慶黃金週；第二階段從11月1日至12月31日，覆蓋第八屆海南島國際電影節展映活動。
+
+---
+
+### 2026-08-07 10:47:04  #MKT News #Important #Market Themes #AI Revolution #00100.HK #Impact bullish #02513.HK
+
+Hong Kong-listed large AI-model concept stocks continued to rally; MINIMAX-W (00100.HK) jumped nearly 25%, Zhipu (02513.HK) rose more than 17%.
+
+---
+
+### 2026-08-07 10:46:31  #其他
+
+【網宿科技與趨境科技達成戰略合作】據網宿科技訊息，近日，網宿科技與趨境科技宣佈達成深度戰略合作。雙方將面向企業級AI推理市場，整合技術與資源優勢，共同打造高價效比、高品質、高可靠的AI Token生產體系，助力AI應用向更多行業、更深場景規模化落地。
+
+---
+
+### 2026-08-07 10:46:06  #市場
+
+港股大模型概念股持續拉昇，MINIMAX-W漲近25%，智譜漲超18%。
+
+---
+
+### 2026-08-07 10:44:38  #MKT News #Market Regions #Greater China #CNH #Impact bearish #WTI #Copper
+
+China's imports in July totaled 1.9454 trillion yuan, down from 1.9616 trillion yuan in June.
+
+---
+
+### 2026-08-07 10:44:36  #其他
+
+中國7月進口總額 19454.4億元，前值19616.2億元。
+
+---
+
+### 2026-08-07 10:44:30  #其他
+
+中國7月出口總額 27125.1億元，前值28206.7億元。
+
+---
+
+### 2026-08-07 10:44:30  #MKT News #Economic Calendar #Important
+
+China | Imports in CNY (Jul) | actual 1945440000000B | previous 1961620000000B
+
+---
+
+### 2026-08-07 10:44:22  #MKT News #Market Regions #Greater China #CNH #Impact bearish
+
+China's July exports totaled CNY 2.7125 trillion, down from CNY 2.8207 trillion previously.
+
+---
+
+### 2026-08-07 10:44:12  #公司 #國際
+
+【美媒：部件發現裂紋，美國下令排查數百架波音客機】據美國有線電視新聞網（CNN）當地時間6日報道，美國聯邦航空局下令對數百架波音737 MAX系列客機進行裂紋檢查，並警告稱如果有損傷而未被發現，飛機的結構完整性可能會降低。美國聯邦航空局表示，部分客機機身右側前服務艙門周圍的結構加韌體發現存在裂紋。航空公司必須根據每架飛機的使用情況按相應時間表對相關區域進行檢查，並在客機恢復運營前修復所有裂紋。這項新的適航指令預計涉及約471架在美國註冊的波音737 MAX 8、MAX 9和MAX 8200型飛機。波音公司在一份宣告中表示，公司已經開展工程分析，以確定裂紋產生的原因，並正在研究工程設計改進，以防止未來再次出現類似問題。（環球網）
+
+---
+
+### 2026-08-07 10:44:11  #MKT News #Economic Calendar #Important
+
+China | Exports in CNY (Jul) | actual 2712510000000B | previous 2820670000000B
+
+---
+
+### 2026-08-07 10:42:53  #公司
+
+【DeepSeek呼叫量達OpenAI三倍，打折無效後的OpenAI選擇免費】當地時間8月6日，OpenAI宣佈免費使用者預設模型升級為GPT-5.6 Luna，並開放無限量文字聊天，全球約十億ChatGPT使用者將直接受益。昨日，DeepSeek釋出公告，宣佈計劃近期整體上調API服務定價，預計漲幅較大。一放一收的差異，反映國產開源模型的崛起正在倒逼全球AI定價體系重構。（第一財經）
+
+---
+
+### 2026-08-07 10:42:45  #其他
+
+【MINIMAX-W港股漲超21%】MINIMAX-W港股漲21.47%，報360.40港元。
+
+---
+
+### 2026-08-07 10:42:39  #經濟數據 #中國
+
+【中國7月大豆進口1147.7萬噸 同比下降1.6%】中國7月鐵礦砂及其精礦進口10,808.5萬噸，同比增長3.3%；中國7月原油進口3,572.6萬噸，同比下降24.3%；中國7月大豆進口1,147.7萬噸，同比下降1.6%。
+
+---
+
+### 2026-08-07 10:42:36  #Trading Economics #Economy #China #Imports YoY #Importance 1
+
+China Import Growth Slows from Five-Year High — China's imports rose 27.5% year-on-year to USD 285.35 billion in July 2026, broadly in line with market expectations of 27.9%. The latest reading followed June's 36.0% surge, the strongest annual growth since June 2021, but pointed to some moderation in domestic demand, partly reflecting weather and logistics disruptions. Authorities at a late-July policy meeting pledged to support the slowing economy through a faster fiscal rollout and timely monetary easing, though they stopped short of announcing concrete measures to boost household consumption. The data also came as Beijing and Washington exchanged a fresh round of retaliatory measures in recent days, rekindling trade tensions and clouding the outlook for September's bilateral summit. In the first seven months of 2026, imports grew 26.7% to USD 1.83 trillion. Imports of natural gas dipped 3% during the period, while those of crude oil dropped 13.2%, customs data showed.
+
+---
+
+### 2026-08-07 10:42:32  #央行 #市場 #國際 #原創
+
+【美國拋售歐元干預日元令歐洲措手不及】據知情人士稱，美國上週出人意料地對歐洲央行進行了歷史性的貨幣干預，以幫助日本，直到拋售歐元買入日元后才通知法蘭克福的同行。知情人士透露，一些歐洲央行高階官員認為，美國使用歐元而不是美元，是對西方貨幣當局之間長期合作慣例的史無前例的違反。此次操作旨在幫助日本支撐日元匯率，此前日元匯率跌至40年來的最低點。上週，東京方面透過拋售美元買入日元進入外匯市場。美國拋售歐元而不是拋售美元來幫助日本，這進一步表明華盛頓不希望看到干預導致美國國債遭到拋售，從而推高美國國債收益率。
+
+---
+
+### 2026-08-07 10:40:54  #市場
+
+【玻纖概念震盪走強 國際復材漲超10%】玻纖概念震盪走強，國際復材漲超10%，中國巨石、宏和科技、山東玻纖、中材科技跟漲。
+
+---
+
+### 2026-08-07 10:40:03  #市場
+
+【主力資金：兆易創新淨買入超15億】截至目前，今日主力資金淨流入80.53億；淨流入年度強勢、晶片概念、昨日高振幅等板塊，其中年度強勢板塊淨流入102.15億；淨流出人工智慧、央企央資、計算機等板塊，其中人工智慧板塊淨流出38.01億。
+  
+個股方面，兆易創新淨買入15.65億元位居首位，生益科技、哈藥股份、亨通光電主力資金淨流入居前；長電科技淨賣出9.04億元位居首位，長鑫科技、金山辦公、泛微網路淨流出額居前。
 
 ---
 
@@ -18486,221 +18692,5 @@ President Trump, on tariffs, called Canada 'very nasty' and said the US has 'tur
 ### 2026-08-06 05:18:12  #MKT News #SNDK.O #Impact bearish
 
 【SanDisk guidance disappoints; shares slide as much as 8% after hours】SanDisk (SNDK.O) reported strong fiscal 2026 Q4 results, with revenue and earnings beating consensus; revenue rose 372% YoY and 51% QoQ. Management said the upside reflected a mix shift to higher‑value customers (data‑center revenue +437%) and price increases. Guidance for the next quarter of $10.3–10.8bn in revenue fell short of Street estimates. Options expiring the week of Aug. 7 showed the $1,370 strike with the largest open interest in both calls and puts; intense post‑earnings options activity may have at least partly driven the stock’s weakness. Shares fell as much as 8% in after‑hours trading.
-
----
-
-### 2026-08-06 05:16:46  #國際
-
-美國化肥供應商CF二季度淨銷售22.2億美元，分析師預期24.4億美元。二季度每股收益（EPS）為4.73美元，上年同期2.37美元。二季度現金與現金等價物24.8億美元，分析師預期27億美元。伊朗衝突造成中東地區的尿素供應縮減400萬-450萬噸。
-
----
-
-### 2026-08-06 05:15:41  #市場
-
-富時A50期指連續夜盤收跌0.35%，報14840點。
-
----
-
-### 2026-08-06 05:10:42  #MKT News #USDJPY #Impact bearish
-
-【BofA expects yen to strengthen to 149】BofA now expects the yen to appreciate roughly 6% by year-end after coordinated currency intervention. Analysts including Shusuke Yamada wrote on Wednesday that with joint US–Japan action and expectations of BOJ tightening in coming months, USD/JPY is seen falling from about 158 to 149, versus a prior year-end forecast of 152. They say intervention raises the bar for successfully defending the yen and may require macro policy follow-up—specifically faster rate hikes; moving in September rather than October would let the BOJ demonstrate it is ahead of the curve on upside inflation risk.
-
----
-
-### 2026-08-06 05:08:37  #公司
-
-明晟公司（MSCI）表示，其 8 月指數調整公告定於 2026 年 8 月 12 日釋出，且將在概要公告發布後即刻向客戶提供詳細的調倉資訊。
-
----
-
-### 2026-08-06 05:07:11  #MKT News
-
-MSCI's August index review results are scheduled for release in the early hours of Aug 13, Beijing time.
-
----
-
-### 2026-08-06 05:07:08  #市場
-
-週三（8月5日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7482元，較週二紐約尾盤跌2點，日內整體交投於6.7449-6.7501元區間。
-
----
-
-### 2026-08-06 05:02:37  #其他
-
-AWS：AWS 與 Anthropic 以及 OpenAI 展開合作，將 AWS Continuum 整合至開發者工作流程。
-
----
-
-### 2026-08-06 05:01:50  #MKT News
-
-Al Jazeera reported the ISRAELI MILITARY said it mistakenly fired an interceptor missile toward its own forces in southern Lebanon.
-
----
-
-### 2026-08-06 05:01:21  #國際
-
-【美國高階官員發出警告 全美計算機系統需加強網路防禦以應對AI風險】美國政府最高階別的資訊保安官員警告，全國各地的計算機系統需要加強防禦，以應對日益加劇的人工智慧(AI)驅動型網路攻擊威脅。代理美國聯邦首席資訊保安官Michael Duffy週三發表講話時表示，政府和私營部門機構過去在網路安全方面通常採取被動應對方式。他表示，要在AI時代搶在駭客攻擊發生前採取防範措施，這種方式必須改變。“鑑於我們目前看到的這些AI能力，我們很可能根本沒有時間收拾殘局，”Duffy在拉斯維加斯一場網路安全會議的專題討論中表示，“未來十年的政策不能總是在某起重大事件發生後才被動跟進。”包括Anthropic PBC的Mythos模型在內，AI系統取得的快速突破引發外界擔憂，即駭客可能利用這項技術對關鍵基礎設施發動破壞性網路攻擊。特朗普政府已致力於採取行動應對AI帶來的網路風險，近期已完成一項針對前沿模型的自願安全測試框架。
-
----
-
-### 2026-08-06 05:00:55  #MKT News
-
-Nikita Bier has resigned as head of product at X and will remain with the company as an advisor.
-
----
-
-### 2026-08-06 04:59:45  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Motorola Solutions Msi earnings above expectations at 4.41 USD — Motorola Solutions Msi (MSI) released earnings per share at 4.41 USD, compared to market expectations of 3.84 USD.
-
----
-
-### 2026-08-06 04:56:43  #市場
-
-【國際金價漲超4%，重返4200美元上方】週三（8月5日）紐約尾盤，現貨黃金漲4.11%，報4245.39美元/盎司，亞太盤初以來持續上漲，北京時間23:00以來高位窄幅震盪、02:23重新整理日高至4267.78美元。現貨白銀漲4.12%，報62.0075美元/盎司，亞太盤初以來也持續走高、22:10重新整理日高至62.7770美元。COMEX銅期貨漲1.47%，報6.7410美元/磅，02:30曾漲至6.7650美元。現貨鉑金跌0.10%，現貨鈀金漲1.33%。在美股時段交易的費城金銀指數收漲6.86%，報345.93點，美股盤初持續上漲、22:00以來高位震盪。在全球市場全天交易的紐約證交所ARCA金礦開採商指數漲7.33%，報2395.57點，亞太盤初以來維持微幅上漲狀態、持穩於2250點附近，美股開盤時跳空走高至2350點上方、隨後高位震盪。在美股時段交易的原材料指數收漲1.62%，金屬與礦業指數收漲1.42%。
-
----
-
-### 2026-08-06 04:51:43  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Allstate earnings above expectations at 8.99 USD — Allstate (ALL) released earnings per share at 8.99 USD, compared to market expectations of 5.14 USD.
-
----
-
-### 2026-08-06 04:51:19  #其他
-
-可口可樂合併報表口徑，仍預計全年資本支出約 3 億美元。
-
----
-
-### 2026-08-06 04:49:13  #公司 #市場
-
-【8月6日美股成交額前20：馬斯克稱SpaceX未來AI基建只用英偉達晶片】週三美股成交額第1名英偉達收高3.43%，成交342.56億美元。截止週三收盤，英偉達股價已經連續五個交易日上漲，股價創兩個月來新高。在前期板塊短暫回撥後，這家算力龍頭再度強勢反攻，給全球AI硬體產業鏈帶來明顯情緒提振。埃隆-馬斯克週三表示，SpaceX未來在建設人工智慧計算基礎設施時將只使用英偉達處理器。在SpaceX財報電話會議上，他表示英偉達擁有“最好的人工智慧計算機”，並補充道“我們只選用英偉達”。
-
----
-
-### 2026-08-06 04:45:46  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Occidental Petroleum earnings above expectations at 2.40 USD — Occidental Petroleum (OXY) released earnings per share at 2.40 USD, compared to market expectations of 1.84 USD.
-
----
-
-### 2026-08-06 04:45:30  #MKT News
-
-Sequoia Capital has closed a new $10 billion fundraising round.
-
----
-
-### 2026-08-06 04:44:03  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Edges Lower Ahead of Rate Decision — The Ibovespa edged down 0.1% to close at 177,726 on Wednesday as investors awaited the BCB's interest rate decision and assessed another round of corporate earnings. Markets expect Copom to cut the Selic rate by 25 basis points to 14.0%, with attention focused on the accompanying statement for clues on whether another cut could follow in September. Financial stocks were mostly lower, with Bradesco down 0.8% and BB Seguridade losing 0.9%. In contrast, Itaú gained 0.7% after reporting a 7.8% annual increase in managerial recurring net income, in line with forecasts. Gerdau rebounded 1.7% after posting stronger-than-expected 2Q26 results, while RD Saúde led gains, rising 5.9% following its earnings release. Petrobras fell 1.3% as oil prices declined. Bradesco, Axia (0%), Auren (-1.1%), Brava (+2.6%), and Engie (-1%) are set to report earnings after the close.
-
----
-
-### 2026-08-06 04:39:43  #市場 #央行 #國際
-
-【美聯儲理事庫克警告通脹固化風險 稱必要時將支援加息】美聯儲理事麗莎·庫克重申，如果通脹不能放緩，她準備好支援加息，並警告稱，決策者可能沒有足夠時間等待通脹回落至2%的目標。儘管庫克支援美聯儲7月會議維持利率不變的決定，但她提醒稱，通脹持續高於美聯儲目標的時間越長，未來遏制通脹的難度就越大。“如果我不能很快看到通脹持續回落的跡象，我準備好採取行動，”庫克週三在阿拉斯加一場活動發表講話時表示。“通脹連續五年高於目標水平，意味著高通脹固化到企業定價和工資設定行為中的風險上升，從而導致頑固通脹，屆時我們將更難加以遏制。”庫克表示，關稅影響減弱、油價可能下跌以及人工智慧熱潮相關的壓力有所緩和，這些因素都可能有助於降低通脹，從而消除收緊政策的必要性。儘管如此，庫克強調，她的首要任務仍是推動通脹回到美聯儲的目標水平。“如果大家從今天的講話中只記住一點，我希望那就是，我堅定致力於恢復價格穩定，”庫克表示。“首先也是最重要的是讓通脹回到目標水平，這對於實現國會賦予美聯儲的雙重使命至關重要。”
-
----
-
-### 2026-08-06 04:37:46  #市場 #國際
-
-美國芝加哥期權交易所（CBOE）7月期貨日均成交量（DTV）增長16.1%。7月指數期權日均成交量增長34%。7月跨交易所期權日均成交量增長28.4%。
-
----
-
-### 2026-08-06 04:36:32  #其他
-
-紅杉資本完成100億美元新一輪融資。今年已經向（除了SpaceX之外的）投資者回報50億美元。
-
----
-
-### 2026-08-06 04:36:08  #其他
-
-法拉第未來：將為現有可轉換債券設定 5 美元的最低轉換底價，並計劃在四個季度內，將截至一季度末 2.3 億美元的負債降至 1 億美元以下。
-
----
-
-### 2026-08-06 04:35:19  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.63% Higher — The Dow Jones Index rose 342 points or 0.63 percent on Wednesday to close at 54428 points. Leading the gains are Amgen (5.16%), Nvidia (3.84%) and Walt Disney (3.83%). Top losers were Alphabet (-4.58%), Chevron (-2.05%) and Amazon (-1.66%).
-
----
-
-### 2026-08-06 04:35:02  #國際
-
-CF 工業控股：受伊朗衝突影響，中東、非洲地區貿易流通的氮素供應減少約 400‑450 萬噸尿素以及約 100 萬噸氨。
-
----
-
-### 2026-08-06 04:33:38  #MKT News #FFIE.O #Impact bullish
-
-Faraday Future (FFIE.O) plans to cut liabilities of $230m as of end‑Q1 to below $100m within four quarters.
-
----
-
-### 2026-08-06 04:32:12  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Hits Second Straight Record — The S&P/TSX Composite Index rose 1% to close at a record 36,146 on Wednesday, marking its second consecutive record close. Shopify led gains, soaring 16.5% for its biggest one-day advance in a year after issuing an upbeat revenue outlook that signaled its AI initiatives were attracting more merchants to its e-commerce platform. Mining stocks also rallied as gold prices surged on hopes of a US-Iran peace deal, easing inflation concerns. Agnico Eagle jumped 9.6%, Barrick gained 7.2%, WPM rose 7.2%, Kinross advanced 8.6%, and Eldorado Gold climbed 12.8%, while other miners gained between 1.2% and 10%. Meanwhile, Thomson Reuters fell 10.2% despite beating second-quarter profit and revenue estimates and raising its annual revenue growth forecast. Manulife Financial (-0.9%) and Nutrien (-0.3%) edged lower ahead of their earnings.
-
----
-
-### 2026-08-06 04:32:02  #公司 #觀點
-
-摩根大通CEO戴蒙：AI TOKEN 相關支出 “將得到管控”。
-
----
-
-### 2026-08-06 04:29:49  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Realty Income earnings below expectations at 0.37 USD — Realty Income (O) released earnings per share at 0.37 USD, compared to market expectations of 0.41 USD.
-
----
-
-### 2026-08-06 04:29:05  #MKT News #Brent #Impact bullish #WTI
-
-【Iran says near deal with Oman to close two Strait of Hormuz lanes】IRNA reported Iran deputy foreign minister Gharibabadi said Tehran and Muscat are close to finalizing an agreement that would close the Strait of Hormuz’s two existing commercial transit lanes — the northern lane under Iranian control and the southern lane adjacent to Omani waters. Under the proposed passage regime, parts of commercial vessels’ entry to and exit from the strait would transit Iranian territorial waters. The arrangement is described as temporary and expected to be usable for about 2–4 months. Gharibabadi denied reports of direct US‑Iran negotiations but said Iran received US messages and that Washington indicated readiness to resume commitments under a previously signed memorandum of understanding.
-
----
-
-### 2026-08-06 04:28:45  #公司 #觀點
-
-摩根大通CEO戴蒙：市場槓桿越高，發生市場動盪的機率就越大。
-
----
-
-### 2026-08-06 04:28:31  #公司 #觀點
-
-摩根大通CEO戴蒙：市場槓桿水平相當高。
-
----
-
-### 2026-08-06 04:27:56  #MKT News #Macro & Rates #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-【Dollar index down 0.18% on 5th】The dollar index, which measures the dollar against six major currencies, fell 0.18% to 99.676 at the New York close on the 5th. EUR/USD 1.1553, up from 1.1533; GBP/USD 1.3469, up from 1.3452. USD/JPY 157.67, up from 157.66. USD/CHF 0.8069, down from 0.8092. USD/CAD 1.4008, down from 1.4066. USD/SEK 9.4832, down from 9.5192.
-
----
-
-### 2026-08-06 04:27:19  #其他
-
-【Applovin2026年Q2營收19.24億美元 同比增長53%】Applovin2026年Q2營收19.24億美元，同比增長53%；稀釋後EPS3.76美元。
-
----
-
-### 2026-08-06 04:25:46  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-DoorDash earnings in line with market expectations at 0.46 USD — DoorDash (DASH) released earnings per share at 0.46 USD, in line with market expectations.
-
----
-
-### 2026-08-06 04:23:48  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-MetLife earnings above expectations at 2.43 USD — MetLife (MET) released earnings per share at 2.43 USD, compared to market expectations of 2.36 USD.
-
----
-
-### 2026-08-06 04:21:14  #市場 #焦點
-
-比特幣升破65000美元，日內漲1.41%。
 
 ---
