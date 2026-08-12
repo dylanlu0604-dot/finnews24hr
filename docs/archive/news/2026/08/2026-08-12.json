@@ -1,7 +1,155 @@
 {
   "date": "2026-08-12",
-  "count": 790,
+  "count": 806,
   "items": [
+    {
+      "id": "mkt:019ff3c1-c484-7aab-8ffe-f6384e646bf2",
+      "time": "2026-08-12 10:16:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share fiber-optic names were repeatedly active intraday. Tongding Hulian hit the daily trading limit; Changyingtong rose more than 10%. Changjin Photonics, Yongding, Weike Technology and Huiyuan Communications also advanced."
+    },
+    {
+      "id": "5036697",
+      "time": "2026-08-12 10:16:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【採埃孚8擋混動變速器在中國正式量產】8月12日，採埃孚8擋混動變速器在上海採埃孚變速器有限公司正式量產，目前該變速器已獲多家客戶定點。"
+    },
+    {
+      "id": "mkt:019ff3c0-ff18-7aab-8ffe-eff1e7185dbd",
+      "time": "2026-08-12 10:15:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【Google Gemma 4 global downloads top 300 million】At Google I/O in Shanghai, Google said downloads of its Gemma 4 series have exceeded 300 million globally. Launched in April, Gemma 4 is designed for advanced reasoning and agentic workflows."
+    },
+    {
+      "id": "5036696",
+      "time": "2026-08-12 10:15:32",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數擴大漲幅，最新報6569.26點，漲幅3.5%。"
+    },
+    {
+      "id": "te:markets:574575",
+      "time": "2026-08-12 10:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Depreciates by 0.28% — Top currency losers are South Korean Won (-0.28%) and Indonesian Rupiah (-0.26%). Meanwhile, Japanese Yen and Chinese Yuan were little changed."
+    },
+    {
+      "id": "5036695",
+      "time": "2026-08-12 10:14:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【光纖概念震盪反彈 通鼎互聯漲停】光纖概念盤中震盪反彈，通鼎互聯漲停，長盈通漲超10%，長進光子、永鼎股份、唯科科技、匯源通訊等跟漲。"
+    },
+    {
+      "id": "5036694",
+      "time": "2026-08-12 10:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長期沒開展業務 瀘州酒協登出旗下白酒標準化委員會】瀘州酒協主動登出了旗下的一個組織。8月11日，瀘州市酒類行業協會（下稱瀘州酒協）釋出通知，表示旗下白酒標準化委員會自成立以來，長期無業務、無活動開展，無續存必要，對此，瀘州酒協研究決定，登出白酒標準化委員會。"
+    },
+    {
+      "id": "5036693",
+      "time": "2026-08-12 10:14:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲4.1%，至148.4萬韓元。"
+    },
+    {
+      "id": "mkt:019ff3bf-7d89-7aab-8ffe-e597ba3771b5",
+      "time": "2026-08-12 10:14:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump Wednesday schedule (Beijing time)】Beijing time: 20:00 Executive office; 22:30 meeting with law enforcement and military; 23:00 policy meeting; 00:30 (next day) policy meeting; 02:30 signing ceremony; 04:00 policy meeting; 05:00 policy meeting."
+    },
+    {
+      "id": "5036692",
+      "time": "2026-08-12 10:13:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【健麾資訊等在上海成立健康科技公司】企查查APP顯示，近日，健麾靈保（上海）健康科技有限公司成立，經營範圍包含網際網路資訊服務；計算機資訊系統安全專用產品銷售；食品銷售；第一類增值電信業務等。企查查股權穿透顯示，該公司由健麾資訊等共同持股。"
+    },
+    {
+      "id": "5036691",
+      "time": "2026-08-12 10:13:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4400美元/盎司，日內漲0.74%。"
+    },
+    {
+      "id": "5036690",
+      "time": "2026-08-12 10:13:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Google Gemma 4全球下載量突破3億】從Google I/O上海瞭解到，Google Gemma 4模型下載量已突破 3 億。今年4月，谷歌釋出Gemma 4系列模型，專為高階推理和智慧體(Agentic)工作流而設計。（介面新聞）"
+    },
+    {
+      "id": "5036689",
+      "time": "2026-08-12 10:13:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4460美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "mkt:019ff3be-8720-7aab-8ffe-dbc703099bc9",
+      "time": "2026-08-12 10:12:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,400/oz intraday, up 0.74%."
+    },
+    {
+      "id": "5036688",
+      "time": "2026-08-12 10:12:49",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【 中金：維持閱文集團(00772)跑贏行業評級 目標價29港元 】 中金髮布研報稱，維持閱文集團(00772)2026/2027年Non-IFRS歸母淨利潤8.50/13.11億元。現價對應2026/2027年21/14倍Non-IFRS市盈率。維持跑贏行業評級和目標價29港元，對應2026/2027年30/19倍Non-IFRS市盈率，較當前股價有39.8%的上行空間。"
+    },
+    {
+      "id": "5036687",
+      "time": "2026-08-12 10:12:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲5.9%，報253500韓元。"
+    },
     {
       "id": "mkt:019ff3bd-f3d6-7aab-8ffe-d72f0a9f81ce",
       "time": "2026-08-12 10:12:19",
