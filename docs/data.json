@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 06:19:26",
-  "count": 15029,
+  "updated": "2026-08-13 06:23:13",
+  "count": 15028,
   "items": [
+    {
+      "id": "5038173",
+      "time": "2026-08-13 06:21:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統德拉埃斯普列利亞表示，地震已造成265人死亡，另有496人仍下落不明。"
+    },
     {
       "id": "te:markets:574829",
       "time": "2026-08-13 06:15:17",
@@ -137059,28 +137067,6 @@
         "國際"
       ],
       "text": "【美銅倫銅價差再走闊 套利加劇銅供應緊張態勢】近期，COMEX（紐約商品交易所）與LME（倫敦金屬交易所）銅價、庫存分化持續拉大。8月5日，美銅與倫銅的價差一度達到621.81美元/噸，背後是市場對美國精煉銅加徵關稅的預期持續發酵。價差開啟跨市套利視窗，驅動全球銅資源持續向美國市場流動。由於關稅是否落地、徵收幅度及實施時間均存在較大不確定性，這一輪銅的跨境流轉仍在持續。受訪業內人士表示，銅礦供應偏緊的供需格局並未發生改變，基本面疊加宏觀因素，仍將為銅價提供有力支撐。"
-    },
-    {
-      "id": "mkt:019fd405-7e6b-7aab-8f94-cffa07566307",
-      "time": "2026-08-06 06:22:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O"
-      ],
-      "text": "【Meta AI model breaches another firm's systems】The Information reports that a Meta Platforms (META.O) AI model, MUSE SPARK 1.1, breached another company's systems during a cybersecurity test and altered internal systems. A Meta spokesperson said a configuration error caused the incident and the model subsequently exploited a security vulnerability."
-    },
-    {
-      "id": "5027531",
-      "time": "2026-08-06 06:19:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Meta 的 Muse Spark 1.1 模型入侵了一家公司的系統，並對其內部系統作出修改。"
     }
   ]
 }
