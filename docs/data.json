@@ -1,7 +1,81 @@
 {
-  "updated": "2026-08-12 21:47:34",
-  "count": 15185,
+  "updated": "2026-08-12 21:51:36",
+  "count": 15182,
   "items": [
+    {
+      "id": "mkt:019ff63d-2ab4-7aab-900d-d78f13b2aa97",
+      "time": "2026-08-12 21:50:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the US is considering forming a committee of officials from multiple countries to oversee implementation of the Lebanon framework agreement."
+    },
+    {
+      "id": "5037904",
+      "time": "2026-08-12 21:50:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京：西伯利亞環形光子源首批研究站年底前啟用】俄羅斯總統普京11日稱，西伯利亞環形光子源（SKIF）首批研究站將於今年年底前投入使用。"
+    },
+    {
+      "id": "5037903",
+      "time": "2026-08-12 21:49:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天馬微電子為榮耀Robot Phone獨家供應螢幕】據天馬微電子訊息，8月12日，榮耀正式釋出榮耀Robot Phone。作為榮耀長期戰略合作伙伴，天馬微電子為該款機型獨家供應螢幕，深度定製天馬天工屏高階OLED顯示方案，這是天工屏首次應用於具備具身互動能力的AI終端，適配機器人手機的創作、隨行互動等場景。"
+    },
+    {
+      "id": "te:markets:574788",
+      "time": "2026-08-12 21:49:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Brazil Stocks Extend Selloff — The Ibovespa edged lower to trade below 168,000 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Crude oil remained volatile amid conflicting signals over a potential US-Iran agreement, keeping inflation concerns elevated. Most financial stocks traded near the flatline, while B3 fell nearly 1% after reporting a 15.5% year-on-year increase in expenses on Tuesday. Banco do Brasil (-0.3%), Rede D’Or (-0.5%), CSN (+1.5%) and Sabesp (-0.3%) are among the scheduled to release their second-quarter 2026 results after the market close. Vale shed more than 1% as iron ore prices declined, while steelmakers posted gains. Petrobras fell 1% as oil prices turned lower. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target."
+    },
+    {
+      "id": "5037902",
+      "time": "2026-08-12 21:48:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國算電協同航母來了 一度綠電可生成30秒AI文生影片】在內蒙古烏蘭察布草原深處，中國算電協同“航母”，正破浪前行。全球最大單體智算中心——烏蘭察布星河基地投產，它有20個足球場大小，160兆瓦供電能力，以百萬卡並行能力 百萬P算力規模、80%綠電直供比例，開啟了產業的全新機遇。透過自建風場與專線直供，利用AI電力系統和儲能設施，每度綠電被算力轉換為詞元，實現閉環。據測算，一度來自草原的綠電在這裡可以被轉化為近30秒的AI文生影片。 一條千億級產業鏈正加速成型：上游拉動風電光伏、儲能裝置、液冷系統、輸電線路投資；中游推動AI電力系統，虛擬電廠等技術突破瓶頸；下游孕育AI大模型訓練、文生影片、AI程式碼寫作等業態。 當前，中國風電光伏、電網技術全球領先，算力國產化步伐加快。還有雙重市場的賦能，2030年中國算力用電將達8000億度，加上AI應用等龐大的內需市場為“航母”提供航行的“廣闊水域”。（央視財經）"
+    },
+    {
+      "id": "te:markets:574787",
+      "time": "2026-08-12 21:48:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Down for 3rd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for a third session on Wednesday, dropping about 3.5% to its lowest since August 4 at 2,939 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped by 5.8% to 4,712 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, snapped a ten-session winning run, falling 0.4% to 2,302 points. Among smaller vessels, the supramax index went up by 0.2% to 1,603 points."
+    },
+    {
+      "id": "mkt:019ff63b-26bc-7aab-900d-cb2310097585",
+      "time": "2026-08-12 21:48:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Cambricon outlines AI-chip roadmap, says intelligent-computing demand rising after 1H results】Cambricon said accelerating large-model technology is driving sustained growth in intelligent-computing demand and will continue to focus on AI chip design innovation to bolster competitiveness, expand market share and accelerate scenario deployment. For internet customers it is prioritizing large models, multimodal and search/recommendation applications, and is optimizing compute performance, communication efficiency and framework capabilities to improve integrated performance in typical internet workloads. The company said 1H2026 hardware work includes a new-generation processor microarchitecture and instruction set under development, with optimizations targeting large-model training and inference and aiming to improve programmability, ease of use, performance, power consumption and silicon area."
+    },
+    {
+      "id": "5037901",
+      "time": "2026-08-12 21:48:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【消費者物價指數緩解美聯儲加息壓力】記者表示，7 月消費者物價指數基本符合預期，降低了美聯儲 9 月加息的壓力。美聯儲認為，當前利率水平已具備足夠限制性，無需進一步加息即可推動通脹向 2% 目標回落。但持續存在的關稅、能源方面的壓力，以及人工智慧帶動下科技裝置與軟體的需求，正令上述前景變得複雜。就目前而言，這份消費者物價指數報告為政策制定者維持利率不變提供了更大操作空間。"
+    },
     {
       "id": "5037900",
       "time": "2026-08-12 21:46:27",
@@ -138436,101 +138510,6 @@
         "Importance 0"
       ],
       "text": "Iron Mountain earnings above expectations at 0.60 USD — Iron Mountain (IRM) released earnings per share at 0.60 USD, compared to market expectations of 0.53 USD."
-    },
-    {
-      "id": "5027159",
-      "time": "2026-08-05 21:50:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：澳大利亞的Alexa+早期體驗階段免費；該階段結束後，Prime會員可繼續免費使用，非Prime使用者每月需支付29.99澳元。"
-    },
-    {
-      "id": "5027158",
-      "time": "2026-08-05 21:50:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：Alexa+將於8月6日在澳大利亞推出，作為搶先體驗計劃的一部分。"
-    },
-    {
-      "id": "5027157",
-      "time": "2026-08-05 21:50:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國倫敦發生持刀傷人事件】總檯記者當地時間8月5日獲悉，英國倫敦市中心發生一起持刀傷人事件。目前具體傷亡情況暫不明。（央視新聞）"
-    },
-    {
-      "id": "te:economy:573068",
-      "time": "2026-08-05 21:50:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "US Private Sector Growth Hits Nine-Month High in July — The S&P Global US Composite PMI rose to 54.5 in July 2026 from 51.9 in June, exceeding both the preliminary estimate of 53.6 and marking the strongest expansion in private sector activity since October 2025. The improvement was driven by faster growth in the services sector, while manufacturing output continued to expand at a solid pace. New business increased at the fastest rate in 19 months, business confidence climbed to its highest level since last November, and private sector employment returned to growth for the first time since April. On the price front, input cost inflation accelerated to its highest level since November 2022, pushing output price inflation to a one-year high."
-    },
-    {
-      "id": "5027156",
-      "time": "2026-08-05 21:49:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【武漢元豐汽車零部件研發生產基地落戶武漢經開區】8月5日，武漢經開區與西上海旗下控股子公司武漢元豐汽車零部件有限公司簽約，西上海將建設武漢元豐汽車零部件研發生產基地。該專案總投資約1.56億元，將重點佈局電子駐車液壓盤式制動器（EPB）等線控制動產品，新增自動化工藝裝置、研發測試中心及相關配套設施。專案預計2027年投產，2030年達產。"
-    },
-    {
-      "id": "5027155",
-      "time": "2026-08-05 21:49:42",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SpaceX債券在高評級債券中跌幅居前】SpaceX債券週三早盤利差走闊。這家新近上市的航天科技公司將人工智慧相關資本支出增加一倍，蓋過了季度業績好於預期帶來的利好。該公司2046年到期、票息6.60%的債券利差擴大8個基點，至238個基點；其2033年到期、票息5.65%的債券利差擴大約9個基點，至186個基點。"
-    },
-    {
-      "id": "5027154",
-      "time": "2026-08-05 21:49:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "孟加拉國前總理哈西娜之子：印度正以國家元首規格對待哈西娜。"
-    },
-    {
-      "id": "5027153",
-      "time": "2026-08-05 21:49:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【英國首相考慮調查愛潑斯坦在英活動】英國首相安迪·伯納姆正考慮是否就已故美國富商傑弗裡·愛潑斯坦在英國的活動啟動公開調查。英國司法部政務次官亞歷克斯·戴維斯-瓊斯在英國廣播公司一檔節目中說，政府正在研究啟動公開調查的可行性，伯納姆已同意會見愛潑斯坦案受害者。圍繞愛潑斯坦的醜聞持續衝擊英國政界和王室，英國國王查爾斯三世的弟弟安德魯以及英國前駐美國大使彼得·曼德爾森因相關案件一度被捕。（新華社）"
-    },
-    {
-      "id": "5027152",
-      "time": "2026-08-05 21:48:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國總統要求加速整合軍校】韓國總統李在明5日要求國防部加速推進軍事院校整合，以降低韓國軍隊干預政治的風險，防範再度發生軍事政變。李在明當天在總統府青瓦臺聽取國防部等部門工作彙報時說，韓國歷史上3次軍事政變均與陸軍和陸軍士官學校畢業生有關，但這所學校卻從未被問責，因而存在重蹈覆轍的風險。他認為，韓國各軍種不應分別設立軍校，而應將它們整合為一所軍校。（新華社）"
-    },
-    {
-      "id": "5027151",
-      "time": "2026-08-05 21:48:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "孟加拉國前總理哈西娜之子：我們目前與現任政府沒有任何溝通。"
-    },
-    {
-      "id": "5027150",
-      "time": "2026-08-05 21:48:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【綠葉製藥：創新藥LY03015在美國完成橋接臨床試驗】8月5日，綠葉製藥集團宣佈，其自主研發的新分子實體LY03015已在美國完成橋接臨床試驗，支援其即將在美國開展的療效臨床試驗。該試驗同時發現，高加索人群較中國人群具有更好的安全耐受性。"
     }
   ]
 }
