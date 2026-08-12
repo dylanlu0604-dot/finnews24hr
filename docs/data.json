@@ -1,7 +1,16 @@
 {
-  "updated": "2026-08-13 04:58:04",
-  "count": 15043,
+  "updated": "2026-08-13 05:01:52",
+  "count": 15040,
   "items": [
+    {
+      "id": "5038139",
+      "time": "2026-08-13 04:59:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "明晟（MSCI）：阿斯特拉有限公司（ASTRAL）、巴爾克里希納工業有限公司（BALKRISHNA INDUSTRIES）、印度國家銀行支付卡有限公司（SBI CARDS AND PAYMENT）將被剔除出明晟印度指數。"
+    },
     {
       "id": "5038138",
       "time": "2026-08-13 04:56:58",
@@ -137173,42 +137182,6 @@
         "其他"
       ],
       "text": "AWS：AWS 與 Anthropic 以及 OpenAI 展開合作，將 AWS Continuum 整合至開發者工作流程。"
-    },
-    {
-      "id": "mkt:019fd3bb-87c4-7aab-8f94-3ee39d2c08d1",
-      "time": "2026-08-06 05:01:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported the ISRAELI MILITARY said it mistakenly fired an interceptor missile toward its own forces in southern Lebanon."
-    },
-    {
-      "id": "5027497",
-      "time": "2026-08-06 05:01:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國高階官員發出警告 全美計算機系統需加強網路防禦以應對AI風險】美國政府最高階別的資訊保安官員警告，全國各地的計算機系統需要加強防禦，以應對日益加劇的人工智慧(AI)驅動型網路攻擊威脅。代理美國聯邦首席資訊保安官Michael Duffy週三發表講話時表示，政府和私營部門機構過去在網路安全方面通常採取被動應對方式。他表示，要在AI時代搶在駭客攻擊發生前採取防範措施，這種方式必須改變。“鑑於我們目前看到的這些AI能力，我們很可能根本沒有時間收拾殘局，”Duffy在拉斯維加斯一場網路安全會議的專題討論中表示，“未來十年的政策不能總是在某起重大事件發生後才被動跟進。”包括Anthropic PBC的Mythos模型在內，AI系統取得的快速突破引發外界擔憂，即駭客可能利用這項技術對關鍵基礎設施發動破壞性網路攻擊。特朗普政府已致力於採取行動應對AI帶來的網路風險，近期已完成一項針對前沿模型的自願安全測試框架。"
-    },
-    {
-      "id": "mkt:019fd3ba-b2e5-7aab-8f94-324cf71d9ed5",
-      "time": "2026-08-06 05:00:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nikita Bier has resigned as head of product at X and will remain with the company as an advisor."
-    },
-    {
-      "id": "te:markets:573131",
-      "time": "2026-08-06 04:59:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Motorola Solutions Msi earnings above expectations at 4.41 USD — Motorola Solutions Msi (MSI) released earnings per share at 4.41 USD, compared to market expectations of 3.84 USD."
     }
   ]
 }
