@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-13 00:58:53",
-  "count": 15093,
+  "updated": "2026-08-13 01:02:48",
+  "count": 15085,
   "items": [
+    {
+      "id": "mkt:019ff6ec-0fc0-7aab-9011-7da3d98e2393",
+      "time": "2026-08-13 01:01:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple appoints Nate Gatten as VP, global government affairs】Apple (AAPL.O) appointed Nate Gatten, former head of government affairs at American Airlines Group and a former JP Morgan government-relations staffer, as vice president for global government affairs, effective Aug. 31. Sources said Apple seeks a government-relations lead able to maintain strong channels with the Trump administration to manage tariff and policy risks. The hire follows increased CEO Tim Cook engagement with the White House and is part of recent senior changes: Cook plans to step down as CEO on Sept. 1, to be succeeded by hardware chief John Ternus, while Cook will remain executive chairman."
+    },
+    {
+      "id": "5038051",
+      "time": "2026-08-13 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.36%，滬銅收跌0.36%，滬鋁收跌0.62%，滬鋅收漲0.19%，滬鉛收漲0.57%，滬鎳收漲0.18%，滬錫收跌0.43%。氧化鋁夜盤收跌0.81%，鋁合金收跌1.06%。不鏽鋼夜盤收跌0.10%。"
+    },
     {
       "id": "mkt:019ff6e8-f110-7aab-9011-770a2e0c3941",
       "time": "2026-08-13 00:58:08",
@@ -137612,105 +137633,6 @@
         "國際"
       ],
       "text": "伊朗副外長：新（達成）方案的設計將使船舶在駛入以及駛出航線的部分割槽段時，均需經過伊朗水域。"
-    },
-    {
-      "id": "te:markets:573106",
-      "time": "2026-08-06 01:02:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Climbs Toward Two-Month High — Palladium futures climbed above $1,360 per ounce, heading toward a two-month high as broad gains across the precious metals complex supported prices. Progress in US-Iran negotiations led markets to scale back expectations for a September Fed rate hike, while a weaker dollar made dollar-denominated metals more affordable for foreign buyers. Investors now await upcoming US labor market data for further clues on the Fed's policy outlook. US consumers continued to favor hybrid vehicles over battery-electric models in the first half of 2026, supporting demand for palladium used in catalytic converters. However, broader demand remained under pressure as Chinese EV sales rose for a third straight month in July. Nornickel, the world's largest palladium producer, also expects a global palladium market surplus in 2026 as rising EV adoption weakens long-term demand."
-    },
-    {
-      "id": "mkt:019fd2e0-7804-7aab-8f91-d9592f186b69",
-      "time": "2026-08-06 01:02:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said a new agreement with Oman will close a temporary shipping route in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019fd2df-e245-7aab-8f91-d366bcd18f59",
-      "time": "2026-08-06 01:01:55",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's deputy foreign minister said Iran's diplomatic positions and actions are 100% coordinated with battlefield developments."
-    },
-    {
-      "id": "mkt:019fd2df-bf54-7aab-8f91-c8b7eda0fc48",
-      "time": "2026-08-06 01:01:46",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's deputy foreign minister said that under the current state of war, diplomacy and battlefield operations complement each other rather than oppose one another."
-    },
-    {
-      "id": "mkt:019fd2df-a838-7aab-8f91-c799a97c4fe8",
-      "time": "2026-08-06 01:01:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said U.S. resuming its commitments under the Islamabad memorandum of understanding is a condition but insufficient to reopen the Strait of Hormuz."
-    },
-    {
-      "id": "5027384",
-      "time": "2026-08-06 01:01:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長表示，美國履行《伊斯蘭堡諒解備忘錄》中的承諾是霍爾木茲海峽重新開放的前提條件，但僅滿足這一點並不夠。"
-    },
-    {
-      "id": "5027383",
-      "time": "2026-08-06 01:00:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗：與阿曼達成的新協議將關閉霍爾木茲海峽現有臨時航運通道。"
-    },
-    {
-      "id": "mkt:019fd2de-a047-7aab-8f91-bcf1d3207373",
-      "time": "2026-08-06 01:00:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said talks with the United States are taking place against a backdrop of mistrust, and that mistrust remains the foundation of the current process."
-    },
-    {
-      "id": "5027382",
-      "time": "2026-08-06 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.66%，滬銅收漲0.56%，滬鋁收漲0.29%，滬鋅收漲1.60%，滬鉛收平，滬鎳收跌0.17%，滬錫收漲1.70%。氧化鋁夜盤收漲2.56%，鋁合金收漲0.13%。不鏽鋼夜盤收跌0.72%。"
-    },
-    {
-      "id": "5027381",
-      "time": "2026-08-06 00:59:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：已與阿曼就幾乎所有提出的問題達成初步共識。"
     }
   ]
 }

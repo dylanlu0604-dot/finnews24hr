@@ -1,7 +1,28 @@
 {
   "date": "2026-08-13",
-  "count": 51,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019ff6ec-0fc0-7aab-9011-7da3d98e2393",
+      "time": "2026-08-13 01:01:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple appoints Nate Gatten as VP, global government affairs】Apple (AAPL.O) appointed Nate Gatten, former head of government affairs at American Airlines Group and a former JP Morgan government-relations staffer, as vice president for global government affairs, effective Aug. 31. Sources said Apple seeks a government-relations lead able to maintain strong channels with the Trump administration to manage tariff and policy risks. The hire follows increased CEO Tim Cook engagement with the White House and is part of recent senior changes: Cook plans to step down as CEO on Sept. 1, to be succeeded by hardware chief John Ternus, while Cook will remain executive chairman."
+    },
+    {
+      "id": "5038051",
+      "time": "2026-08-13 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.36%，滬銅收跌0.36%，滬鋁收跌0.62%，滬鋅收漲0.19%，滬鉛收漲0.57%，滬鎳收漲0.18%，滬錫收跌0.43%。氧化鋁夜盤收跌0.81%，鋁合金收跌1.06%。不鏽鋼夜盤收跌0.10%。"
+    },
     {
       "id": "mkt:019ff6e8-f110-7aab-9011-770a2e0c3941",
       "time": "2026-08-13 00:58:08",
