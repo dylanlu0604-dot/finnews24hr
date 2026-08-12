@@ -1,7 +1,108 @@
 {
   "date": "2026-08-13",
-  "count": 92,
+  "count": 101,
   "items": [
+    {
+      "id": "mkt:019ff726-012b-7aab-9012-4de8cddbaa31",
+      "time": "2026-08-13 02:04:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury: YTD FY26 budget deficit $1.799 tln, versus $1.629 tln in the same period of FY25."
+    },
+    {
+      "id": "mkt:019ff725-c685-7aab-9012-45ba40b35665",
+      "time": "2026-08-13 02:04:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury said July budget deficit was the largest since March 2021 and set a record for a July single-month deficit."
+    },
+    {
+      "id": "mkt:019ff725-94cd-7aab-9012-397d3a7e62a1",
+      "time": "2026-08-13 02:04:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury said July budget deficit was $432 bln, versus $346 bln expected and $291 bln in July a year earlier."
+    },
+    {
+      "id": "5038073",
+      "time": "2026-08-13 02:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 2026 財年截至目前赤字 1.799 萬億美元，2025 財年同期赤字為 1.629 萬億美元。"
+    },
+    {
+      "id": "mkt:019ff724-8227-7aab-9012-35c05721e9ab",
+      "time": "2026-08-13 02:03:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury: July government outlays $766 bln, highest July on record, vs $630 bln in July last year. July receipts $334 bln, down from $338 bln a year earlier."
+    },
+    {
+      "id": "5038072",
+      "time": "2026-08-13 02:03:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國 7 月預算赤字為 2021 年 3 月以來最高，同時創下 7 月份歷史新高。"
+    },
+    {
+      "id": "5038071",
+      "time": "2026-08-13 02:02:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：7 月海關淨收入為‑85.5 億美元；海關總收入 248.4 億美元，退稅 333.8 億美元。"
+    },
+    {
+      "id": "mkt:019ff724-04fa-7aab-9012-2c04e906dbd3",
+      "time": "2026-08-13 02:02:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury said July customs net receipts were negative $8.55 billion, total receipts $24.84 billion and refunds $33.38 billion."
+    },
+    {
+      "id": "5038070",
+      "time": "2026-08-13 02:02:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。"
+    },
     {
       "id": "mkt:019ff721-b8e0-7aab-9012-2334ff2a9f40",
       "time": "2026-08-13 02:00:10",

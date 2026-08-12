@@ -1,7 +1,108 @@
 {
-  "updated": "2026-08-13 02:02:09",
-  "count": 15080,
+  "updated": "2026-08-13 02:06:09",
+  "count": 15085,
   "items": [
+    {
+      "id": "mkt:019ff726-012b-7aab-9012-4de8cddbaa31",
+      "time": "2026-08-13 02:04:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. Treasury: YTD FY26 budget deficit $1.799 tln, versus $1.629 tln in the same period of FY25."
+    },
+    {
+      "id": "mkt:019ff725-c685-7aab-9012-45ba40b35665",
+      "time": "2026-08-13 02:04:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury said July budget deficit was the largest since March 2021 and set a record for a July single-month deficit."
+    },
+    {
+      "id": "mkt:019ff725-94cd-7aab-9012-397d3a7e62a1",
+      "time": "2026-08-13 02:04:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. Treasury said July budget deficit was $432 bln, versus $346 bln expected and $291 bln in July a year earlier."
+    },
+    {
+      "id": "5038073",
+      "time": "2026-08-13 02:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國 2026 財年截至目前赤字 1.799 萬億美元，2025 財年同期赤字為 1.629 萬億美元。"
+    },
+    {
+      "id": "mkt:019ff724-8227-7aab-9012-35c05721e9ab",
+      "time": "2026-08-13 02:03:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y"
+      ],
+      "text": "U.S. Treasury: July government outlays $766 bln, highest July on record, vs $630 bln in July last year. July receipts $334 bln, down from $338 bln a year earlier."
+    },
+    {
+      "id": "5038072",
+      "time": "2026-08-13 02:03:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國 7 月預算赤字為 2021 年 3 月以來最高，同時創下 7 月份歷史新高。"
+    },
+    {
+      "id": "5038071",
+      "time": "2026-08-13 02:02:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：7 月海關淨收入為‑85.5 億美元；海關總收入 248.4 億美元，退稅 333.8 億美元。"
+    },
+    {
+      "id": "mkt:019ff724-04fa-7aab-9012-2c04e906dbd3",
+      "time": "2026-08-13 02:02:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury said July customs net receipts were negative $8.55 billion, total receipts $24.84 billion and refunds $33.38 billion."
+    },
+    {
+      "id": "5038070",
+      "time": "2026-08-13 02:02:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "L3 哈里斯公司啟用羅得島州生產工廠，保障美國及其盟友海軍戰備能力。"
+    },
     {
       "id": "mkt:019ff721-b8e0-7aab-9012-2334ff2a9f40",
       "time": "2026-08-13 02:00:10",
@@ -137593,40 +137694,6 @@
         "焦點"
       ],
       "text": "披露檔案顯示：微軟AI業務收入主要來自OpenAI。"
-    },
-    {
-      "id": "mkt:019fd318-6202-7aab-8f92-6f6822ca9034",
-      "time": "2026-08-06 02:03:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's foreign minister told Saudi Al Arabiya TV he discussed with the Saudi foreign minister a policy to bring weapons control under state authority and arrangements for the Iraqi prime minister's visit to Saudi Arabia."
-    },
-    {
-      "id": "mkt:019fd318-239c-7aab-8f92-677cf6ae18b6",
-      "time": "2026-08-06 02:03:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Energy Ministry said the government has approved production, import and sale of Euro 2–4 standard gasoline until July 1, 2027. The measure is temporary and will not change long-term fuel environmental requirements."
-    },
-    {
-      "id": "5027413",
-      "time": "2026-08-06 02:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普直升機一度與客機距離過近】美國聯邦航空局當地時間8月5日證實，美國東部時間8月4日下午，搭載美國總統特朗普的軍用直升機“海軍陸戰隊一號”與從華盛頓里根國家機場起飛的一架客機曾短時間“過於接近”。該機構表示，根據其初步安全審查，“海軍陸戰隊一號”與這架客機之間一度出現“間隔喪失（指兩架航空器之間水平或垂直距離‌同時低於規定的最小安全間隔標準）”。（CCTV國際時訊）"
-    },
-    {
-      "id": "5027412",
-      "time": "2026-08-06 02:02:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯能源部訊息，俄政府已批准2027年7月1日前允許生產、進口及銷售歐2、歐3、歐4標準汽油。"
     }
   ]
 }
