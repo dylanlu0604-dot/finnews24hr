@@ -1,7 +1,160 @@
 {
-  "updated": "2026-08-12 21:31:18",
-  "count": 15167,
+  "updated": "2026-08-12 21:35:26",
+  "count": 15169,
   "items": [
+    {
+      "id": "5037877",
+      "time": "2026-08-12 21:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益生股份：已在部分養殖場區試點開展AI應用工作】益生股份在互動平臺表示，目前公司已在部分養殖場區的部分養殖場景試點開展AI應用工作，例如，人員入場消毒識別、人工授精行為規範等應用，具體應當以公司資訊披露為準。具身智慧養殖機器人屬於行業前沿探索，後續公司會密切關注相關技術發展。"
+    },
+    {
+      "id": "mkt:019ff62e-2d9d-7aab-900d-54f1a4b182fa",
+      "time": "2026-08-12 21:34:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【US July CPI — key market takeaways】Core CPI (ex food and energy) rose 0.2% MoM and 2.5% YoY, the weakest YoY gain since Mar 2021. Energy and gasoline fell for a second month; grocery prices declined for the first time since March, partly driven by a record drop in lettuce prices amid a cyclospora outbreak. Housing rent/owners-equivalent rent rose 0.1% MoM and accounted for roughly two-thirds of the headline CPI increase. AI-related price pressure showed in a record 21.2% YoY rise in computer software and accessories; computers, peripherals and smart-home assistants posted their largest gains in over four years. Market reaction: traders trimmed odds of a Fed September rate hike after the release."
+    },
+    {
+      "id": "mkt:019ff62d-f6de-7aab-900d-4c243081fd31",
+      "time": "2026-08-12 21:33:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran says oil cleanup operations along the southern Qeshm coast are underway."
+    },
+    {
+      "id": "5037876",
+      "time": "2026-08-12 21:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗稱格什姆島南部海岸正在開展石油清理作業。"
+    },
+    {
+      "id": "5037875",
+      "time": "2026-08-12 21:32:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊總裁劉熾平再談微信AI：微信會成為以AI為先的生態系統，有望轉化成巨大的價值】8月12日，在騰訊2026Q2財報業績電話會上，騰訊總裁劉熾平談及二季度微信AI“小微”灰測的反饋。他表示，AI可以讓微信變得更加智慧化，幫助使用者進行交易、探索內容以及管理日常生活。在 PC 時代，QQ 主要是一個通訊和社交工具，到了移動網際網路時代，微信又將 QQ 的價值放大了 10 倍以上。而到了AI時代，隨著時間的推移，微信會成為以AI為先的生態系統。使用者給出一個指令，系統就會自行執行。他表示，如果騰訊能夠在控制成本的同時提供這種體驗，並且滿足使用者隱私需求、成本效益，就能為微信賦予強大的能力。“未來微信的生態系統將會擴大，基於目前的盈利機制轉化為巨大的價值。這就是我們看到的未來。隨著原型的推出，我們對此越來越有信心。”"
+    },
+    {
+      "id": "5037874",
+      "time": "2026-08-12 21:32:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "T1能源股價繼公佈第二季度業績後上漲1.9%。"
+    },
+    {
+      "id": "5037873",
+      "time": "2026-08-12 21:32:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾基亞股價漲幅進一步擴大，最新上漲10%，為斯托克指數表現第二好的個股。"
+    },
+    {
+      "id": "mkt:019ff62c-d5da-7aab-900d-44a7eb3d6cfa",
+      "time": "2026-08-12 21:32:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "NOKIA.HE",
+        "Impact bullish"
+      ],
+      "text": "Nokia shares extended gains, rising 10% to become the second-best performer on the Stoxx Europe index."
+    },
+    {
+      "id": "mkt:019ff62c-943e-7aab-900d-3ed9ddb0ac34",
+      "time": "2026-08-12 21:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CoreWeave shares jumped 22%; Nebius rose 18%."
+    },
+    {
+      "id": "mkt:019ff62c-9230-7aab-900d-36c240e03dfc",
+      "time": "2026-08-12 21:32:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the open on Aug 12 (Wednesday) the Dow Jones Industrial Average rose 14.50 points (+0.03%) to 53,806.35; the S&P 500 rose 27.19 points (+0.35%) to 7,755.28; the Nasdaq Composite rose 189.14 points (+0.71%) to 26,634.59."
+    },
+    {
+      "id": "mkt:019ff62c-3249-7aab-900d-2ce36b5399e3",
+      "time": "2026-08-12 21:31:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) shares rose 9% after the company said it expects fiscal 2027 revenue to exceed expectations."
+    },
+    {
+      "id": "5037872",
+      "time": "2026-08-12 21:31:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "COREWEAVE股價飆升22%，NEBIUS股價上漲18%。"
+    },
+    {
+      "id": "5037871",
+      "time": "2026-08-12 21:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUMENTUM股價在盈利超預期後一度上漲12%。"
+    },
+    {
+      "id": "5037870",
+      "time": "2026-08-12 21:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數開盤上漲3.5%】費城半導體指數開盤上漲3.5%。成分股方面，英偉達股價上漲1.64%，臺積電股價上漲2.41%，博通股價上漲2.2%，美光科技股價上漲4.89%，超威半導體股價上漲2.75%，阿斯麥股價上漲2.37%。"
+    },
+    {
+      "id": "5037869",
+      "time": "2026-08-12 21:31:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "超威電腦股價上漲9%，此前該公司公佈的2027財年營收預期高於市場預估。"
+    },
+    {
+      "id": "5037868",
+      "time": "2026-08-12 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.27%，標普500指數漲0.45%，納指漲0.88%。Lumentum Holdings Inc. Common Stock When Issued漲10.67%，超微電腦漲8.66%，Coherent Corp漲7.45%，Ciena科技漲6.96%，閃迪漲6.31%。“七姐妹”方面：英偉達漲1.79%，Meta Platforms漲0.70%，谷歌漲0.47%，特斯拉漲0.26%，亞馬遜漲0.19%，蘋果跌0.12%，微軟跌0.82%。"
+    },
     {
       "id": "mkt:019ff62a-f0b1-7aab-900d-254cbd41a629",
       "time": "2026-08-12 21:30:36",
@@ -138194,133 +138347,6 @@
         "市場"
       ],
       "text": "英偉達股價上漲3%，報218.2美元/股，創6月4日以來新高，總市值報5.28萬億美元。"
-    },
-    {
-      "id": "5027132",
-      "time": "2026-08-05 21:35:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交個朋友控股：預計上半年淨利潤同比增加約52.6%至65.0%】8月5日，交個朋友控股在港交所公告，集團預期於截至2026年6月30日止六個月期間錄得淨利潤約人民幣8600萬元至人民幣9300萬元，同比增加約52.6%至65.0%。"
-    },
-    {
-      "id": "5027131",
-      "time": "2026-08-05 21:34:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "查爾斯河實驗室高管在電話會議上表示，第三季度調整後每股收益預期為2.90至3.00美元。"
-    },
-    {
-      "id": "5027130",
-      "time": "2026-08-05 21:34:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "GLOBALFOUNDRIES公佈第二季度業績後股價下跌3%。"
-    },
-    {
-      "id": "5027129",
-      "time": "2026-08-05 21:33:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "SpaceX披露計劃打造全面移動服務業務後，美國電信類股票下跌。"
-    },
-    {
-      "id": "te:markets:573062",
-      "time": "2026-08-05 21:32:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Pfizer Stock Price Hits 7-week High — Pfizer shares increased to 25.67 USD, the highest since June 2026. Over the past 4 weeks, Pfizer gained 7.93%, and in the last 12 months, it increased 3.43%."
-    },
-    {
-      "id": "5027128",
-      "time": "2026-08-05 21:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【義大利與伊朗兩國外長通話 重點討論霍爾木茲海峽問題】當地時間8月5日，義大利副總理兼外長塔亞尼與伊朗外長阿拉格齊通電話，重點討論霍爾木茲海峽航行自由及地區危機。塔亞尼在社交媒體平臺表示，阿拉格齊介紹了伊朗正與阿曼就重新開放霍爾木茲海峽進行的談判。塔亞尼重申必須透過對話解決危機，包括與美國對話，以避免局勢升級。塔亞尼強調，為了地區穩定和全球經濟，必須保障海峽完全航行自由、不得設限或收費。（央視新聞）"
-    },
-    {
-      "id": "5027127",
-      "time": "2026-08-05 21:32:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "優步股價下跌4.3%，因該公司公佈第三季度調整後每股收益預期低於市場預估。"
-    },
-    {
-      "id": "mkt:019fd21f-a471-7aab-8f8d-2f4036925405",
-      "time": "2026-08-05 21:31:56",
-      "tags": [
-        "MKT News",
-        "LLY.N",
-        "Impact bullish"
-      ],
-      "text": "Eli Lilly (LLY.N) shares opened 5.7% higher after second-quarter results beat expectations."
-    },
-    {
-      "id": "5027126",
-      "time": "2026-08-05 21:31:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "Shopify股價在第三季度營收前景樂觀、第二季度業績公佈後大漲24.3%。"
-    },
-    {
-      "id": "mkt:019fd21f-9e93-7aab-8f8d-242a7e291369",
-      "time": "2026-08-05 21:31:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "At the open on Wednesday Aug 5, the Dow Jones Industrial Average rose 381.35 points (+0.71%) to 54,467.23, the S&P 500 gained 50.32 points (+0.65%) to 7,786.81 and the Nasdaq Composite added 112.83 points (+0.42%) to 26,697.82."
-    },
-    {
-      "id": "5027125",
-      "time": "2026-08-05 21:31:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX股價暴跌12%，市值蒸發2050億美元。"
-    },
-    {
-      "id": "5027124",
-      "time": "2026-08-05 21:31:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SHOPIFY股價開盤上漲25%，此前該公司公佈第二季度營收超出預期。"
-    },
-    {
-      "id": "5027123",
-      "time": "2026-08-05 21:31:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "MEDLINE股價暴跌13%，創下去年12月IPO以來最大跌幅。"
-    },
-    {
-      "id": "5027122",
-      "time": "2026-08-05 21:31:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "AMD股價在釋出第二季度業績及展望後下跌6.6%。"
     }
   ]
 }

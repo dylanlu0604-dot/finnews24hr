@@ -1,7 +1,160 @@
 {
   "date": "2026-08-12",
-  "count": 2495,
+  "count": 2511,
   "items": [
+    {
+      "id": "5037877",
+      "time": "2026-08-12 21:34:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【益生股份：已在部分養殖場區試點開展AI應用工作】益生股份在互動平臺表示，目前公司已在部分養殖場區的部分養殖場景試點開展AI應用工作，例如，人員入場消毒識別、人工授精行為規範等應用，具體應當以公司資訊披露為準。具身智慧養殖機器人屬於行業前沿探索，後續公司會密切關注相關技術發展。"
+    },
+    {
+      "id": "mkt:019ff62e-2d9d-7aab-900d-54f1a4b182fa",
+      "time": "2026-08-12 21:34:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【US July CPI — key market takeaways】Core CPI (ex food and energy) rose 0.2% MoM and 2.5% YoY, the weakest YoY gain since Mar 2021. Energy and gasoline fell for a second month; grocery prices declined for the first time since March, partly driven by a record drop in lettuce prices amid a cyclospora outbreak. Housing rent/owners-equivalent rent rose 0.1% MoM and accounted for roughly two-thirds of the headline CPI increase. AI-related price pressure showed in a record 21.2% YoY rise in computer software and accessories; computers, peripherals and smart-home assistants posted their largest gains in over four years. Market reaction: traders trimmed odds of a Fed September rate hike after the release."
+    },
+    {
+      "id": "mkt:019ff62d-f6de-7aab-900d-4c243081fd31",
+      "time": "2026-08-12 21:33:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran says oil cleanup operations along the southern Qeshm coast are underway."
+    },
+    {
+      "id": "5037876",
+      "time": "2026-08-12 21:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗稱格什姆島南部海岸正在開展石油清理作業。"
+    },
+    {
+      "id": "5037875",
+      "time": "2026-08-12 21:32:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊總裁劉熾平再談微信AI：微信會成為以AI為先的生態系統，有望轉化成巨大的價值】8月12日，在騰訊2026Q2財報業績電話會上，騰訊總裁劉熾平談及二季度微信AI“小微”灰測的反饋。他表示，AI可以讓微信變得更加智慧化，幫助使用者進行交易、探索內容以及管理日常生活。在 PC 時代，QQ 主要是一個通訊和社交工具，到了移動網際網路時代，微信又將 QQ 的價值放大了 10 倍以上。而到了AI時代，隨著時間的推移，微信會成為以AI為先的生態系統。使用者給出一個指令，系統就會自行執行。他表示，如果騰訊能夠在控制成本的同時提供這種體驗，並且滿足使用者隱私需求、成本效益，就能為微信賦予強大的能力。“未來微信的生態系統將會擴大，基於目前的盈利機制轉化為巨大的價值。這就是我們看到的未來。隨著原型的推出，我們對此越來越有信心。”"
+    },
+    {
+      "id": "5037874",
+      "time": "2026-08-12 21:32:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "T1能源股價繼公佈第二季度業績後上漲1.9%。"
+    },
+    {
+      "id": "5037873",
+      "time": "2026-08-12 21:32:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾基亞股價漲幅進一步擴大，最新上漲10%，為斯托克指數表現第二好的個股。"
+    },
+    {
+      "id": "mkt:019ff62c-d5da-7aab-900d-44a7eb3d6cfa",
+      "time": "2026-08-12 21:32:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "NOKIA.HE",
+        "Impact bullish"
+      ],
+      "text": "Nokia shares extended gains, rising 10% to become the second-best performer on the Stoxx Europe index."
+    },
+    {
+      "id": "mkt:019ff62c-943e-7aab-900d-3ed9ddb0ac34",
+      "time": "2026-08-12 21:32:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CoreWeave shares jumped 22%; Nebius rose 18%."
+    },
+    {
+      "id": "mkt:019ff62c-9230-7aab-900d-36c240e03dfc",
+      "time": "2026-08-12 21:32:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the open on Aug 12 (Wednesday) the Dow Jones Industrial Average rose 14.50 points (+0.03%) to 53,806.35; the S&P 500 rose 27.19 points (+0.35%) to 7,755.28; the Nasdaq Composite rose 189.14 points (+0.71%) to 26,634.59."
+    },
+    {
+      "id": "mkt:019ff62c-3249-7aab-900d-2ce36b5399e3",
+      "time": "2026-08-12 21:31:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SMCI.O",
+        "Impact bullish"
+      ],
+      "text": "Super Micro Computer (SMCI.O) shares rose 9% after the company said it expects fiscal 2027 revenue to exceed expectations."
+    },
+    {
+      "id": "5037872",
+      "time": "2026-08-12 21:31:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "COREWEAVE股價飆升22%，NEBIUS股價上漲18%。"
+    },
+    {
+      "id": "5037871",
+      "time": "2026-08-12 21:31:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUMENTUM股價在盈利超預期後一度上漲12%。"
+    },
+    {
+      "id": "5037870",
+      "time": "2026-08-12 21:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數開盤上漲3.5%】費城半導體指數開盤上漲3.5%。成分股方面，英偉達股價上漲1.64%，臺積電股價上漲2.41%，博通股價上漲2.2%，美光科技股價上漲4.89%，超威半導體股價上漲2.75%，阿斯麥股價上漲2.37%。"
+    },
+    {
+      "id": "5037869",
+      "time": "2026-08-12 21:31:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "超威電腦股價上漲9%，此前該公司公佈的2027財年營收預期高於市場預估。"
+    },
+    {
+      "id": "5037868",
+      "time": "2026-08-12 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.27%，標普500指數漲0.45%，納指漲0.88%。Lumentum Holdings Inc. Common Stock When Issued漲10.67%，超微電腦漲8.66%，Coherent Corp漲7.45%，Ciena科技漲6.96%，閃迪漲6.31%。“七姐妹”方面：英偉達漲1.79%，Meta Platforms漲0.70%，谷歌漲0.47%，特斯拉漲0.26%，亞馬遜漲0.19%，蘋果跌0.12%，微軟跌0.82%。"
+    },
     {
       "id": "mkt:019ff62a-f0b1-7aab-900d-254cbd41a629",
       "time": "2026-08-12 21:30:36",
