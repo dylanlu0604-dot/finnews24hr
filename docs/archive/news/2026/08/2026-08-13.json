@@ -1,7 +1,96 @@
 {
   "date": "2026-08-13",
-  "count": 161,
+  "count": 170,
   "items": [
+    {
+      "id": "mkt:019ff792-6607-7aab-9013-3820c9a68a5f",
+      "time": "2026-08-13 04:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News reports that, at the request of Colombia’s disaster management agency, Israeli Prime Minister Netanyahu has sent an aid team."
+    },
+    {
+      "id": "5038107",
+      "time": "2026-08-13 04:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nebius股價收盤上漲34%，創去年9月以來最大漲幅。"
+    },
+    {
+      "id": "5038106",
+      "time": "2026-08-13 04:02:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "超微電腦收盤上漲19%，創7月22日以來最佳單日表現。"
+    },
+    {
+      "id": "mkt:019ff790-b111-7aab-9013-35f0ecb4988a",
+      "time": "2026-08-13 04:01:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "SKHY.O",
+        "Impact bullish",
+        "NVDA.O",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "【US close: major indexes mixed; SK Hynix up 9%】US stocks closed Wednesday mixed: Dow -0.04%, S&P 500 +0.26%, Nasdaq +0.54%. SpaceX (SPCX.O) +9.6%; NVIDIA (NVDA.O) +3%; SK Hynix (SKHY.O) +9%; Micron Technology (MU.O) +4.9%. Meta (META.O) -3%; Microsoft (MSFT.O) -2%. Nasdaq Golden Dragon China Index -2.4%; Alibaba (BABA.N) -2%; NetEase (NTES.O) -2.9%."
+    },
+    {
+      "id": "5038105",
+      "time": "2026-08-13 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.04%，標普500指數漲0.26%，納指漲0.54%。超微電腦漲18.77%，Lumentum Holdings Inc. Common Stock When Issued漲13.52%，Ciena科技漲11.48%，Texas Pacific Land Trust Sub Sha跌6.11%，CoreSite房產跌5.91%，第一太陽能跌5.87%。“七姐妹”方面：英偉達漲3.03%，谷歌跌0.20%，蘋果跌0.88%，特斯拉跌1.59%，亞馬遜跌1.83%，微軟跌2.26%，Meta Platforms跌3.38%。"
+    },
+    {
+      "id": "5038104",
+      "time": "2026-08-13 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.45%】聲網跌4.28%，高途跌4.17%，新東方跌3.89%，BOSS直聘跌4.03%，唯品會跌3.74%。"
+    },
+    {
+      "id": "mkt:019ff78c-3082-7aab-9013-2e73407c36ea",
+      "time": "2026-08-13 03:56:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO says US changes to childhood vaccination schedule depart from science】WHO Director-General Tedros said on the 12th that recent US adjustments to the childhood vaccination schedule depart from scientific evidence, warning that delaying or splitting vaccinations could leave children exposed to infectious-disease risk for longer. The remarks follow an executive order by Trump to reduce the number of childhood vaccinations; WHO said it is concerned."
+    },
+    {
+      "id": "5038103",
+      "time": "2026-08-13 03:55:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。"
+    },
+    {
+      "id": "mkt:019ff78b-7a8c-7aab-9013-21f5d91953bd",
+      "time": "2026-08-13 03:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser."
+    },
     {
       "id": "5038102",
       "time": "2026-08-13 03:54:56",

@@ -1,7 +1,96 @@
 {
-  "updated": "2026-08-13 03:55:52",
-  "count": 15054,
+  "updated": "2026-08-13 04:04:07",
+  "count": 15055,
   "items": [
+    {
+      "id": "mkt:019ff792-6607-7aab-9013-3820c9a68a5f",
+      "time": "2026-08-13 04:03:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "i24News reports that, at the request of Colombia’s disaster management agency, Israeli Prime Minister Netanyahu has sent an aid team."
+    },
+    {
+      "id": "5038107",
+      "time": "2026-08-13 04:02:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "Nebius股價收盤上漲34%，創去年9月以來最大漲幅。"
+    },
+    {
+      "id": "5038106",
+      "time": "2026-08-13 04:02:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "超微電腦收盤上漲19%，創7月22日以來最佳單日表現。"
+    },
+    {
+      "id": "mkt:019ff790-b111-7aab-9013-35f0ecb4988a",
+      "time": "2026-08-13 04:01:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Microsoft",
+        "Meta Platforms",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "SKHY.O",
+        "Impact bullish",
+        "NVDA.O",
+        "BABA.N",
+        "Impact bearish"
+      ],
+      "text": "【US close: major indexes mixed; SK Hynix up 9%】US stocks closed Wednesday mixed: Dow -0.04%, S&P 500 +0.26%, Nasdaq +0.54%. SpaceX (SPCX.O) +9.6%; NVIDIA (NVDA.O) +3%; SK Hynix (SKHY.O) +9%; Micron Technology (MU.O) +4.9%. Meta (META.O) -3%; Microsoft (MSFT.O) -2%. Nasdaq Golden Dragon China Index -2.4%; Alibaba (BABA.N) -2%; NetEase (NTES.O) -2.9%."
+    },
+    {
+      "id": "5038105",
+      "time": "2026-08-13 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體漲跌不一】道指跌0.04%，標普500指數漲0.26%，納指漲0.54%。超微電腦漲18.77%，Lumentum Holdings Inc. Common Stock When Issued漲13.52%，Ciena科技漲11.48%，Texas Pacific Land Trust Sub Sha跌6.11%，CoreSite房產跌5.91%，第一太陽能跌5.87%。“七姐妹”方面：英偉達漲3.03%，谷歌跌0.20%，蘋果跌0.88%，特斯拉跌1.59%，亞馬遜跌1.83%，微軟跌2.26%，Meta Platforms跌3.38%。"
+    },
+    {
+      "id": "5038104",
+      "time": "2026-08-13 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌2.45%】聲網跌4.28%，高途跌4.17%，新東方跌3.89%，BOSS直聘跌4.03%，唯品會跌3.74%。"
+    },
+    {
+      "id": "mkt:019ff78c-3082-7aab-9013-2e73407c36ea",
+      "time": "2026-08-13 03:56:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHO says US changes to childhood vaccination schedule depart from science】WHO Director-General Tedros said on the 12th that recent US adjustments to the childhood vaccination schedule depart from scientific evidence, warning that delaying or splitting vaccinations could leave children exposed to infectious-disease risk for longer. The remarks follow an executive order by Trump to reduce the number of childhood vaccinations; WHO said it is concerned."
+    },
+    {
+      "id": "5038103",
+      "time": "2026-08-13 03:55:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。"
+    },
+    {
+      "id": "mkt:019ff78b-7a8c-7aab-9013-21f5d91953bd",
+      "time": "2026-08-13 03:55:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser."
+    },
     {
       "id": "5038102",
       "time": "2026-08-13 03:54:56",
@@ -137323,84 +137412,6 @@
         "其他"
       ],
       "text": "Block預計三季度調整後運營利潤8.75億美元，分析師預期8.65億美元。"
-    },
-    {
-      "id": "5027471",
-      "time": "2026-08-06 04:03:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "西部資料2026財年Q4營收37.5億美元，市場預期為36.92億美元，上年同期為26.05億美元。"
-    },
-    {
-      "id": "mkt:019fd386-2188-7aab-8f93-8e89731ac2a3",
-      "time": "2026-08-06 04:03:30",
-      "tags": [
-        "MKT News",
-        "WDC.O",
-        "Impact bullish"
-      ],
-      "text": "Western Digital Corp (WDC.O) fiscal 2026 Q4 revenue $3.75 bln, consensus $3.692 bln, year-ago $2.605 bln."
-    },
-    {
-      "id": "5027470",
-      "time": "2026-08-06 04:02:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約時報（NYT）收跌13%，創2012年10月份以來最大單日跌幅。"
-    },
-    {
-      "id": "mkt:019fd384-0c14-7aab-8f93-8489c9d30aa7",
-      "time": "2026-08-06 04:01:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "AMD.O",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【U.S. close: major indexes mixed; SpaceX down 13.6%】U.S. stocks closed mixed on Wednesday. The Dow Jones Industrial Average rose 0.49%, the S&P 500 fell 0.17% and the Nasdaq Composite fell 0.80%. SpaceX dropped 13.6%. NVIDIA gained 3.4%, SK Hynix fell 2.0%, AMD slid 7.0% and SanDisk declined 5.0%. The Nasdaq Golden Dragon China Index fell 1.08%; XPeng and NIO were down about 2%."
-    },
-    {
-      "id": "5027469",
-      "time": "2026-08-06 04:01:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX收跌14%，市值蒸發2250億美元。"
-    },
-    {
-      "id": "5027468",
-      "time": "2026-08-06 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指漲0.49%，標普500指數跌0.17%，納指跌0.84%。Insulet Corporation跌20.20%，達維塔保健跌17.25%，湯姆遜-路透跌9.45%，CDW Corporation跌8.85%，Shopify漲16.98%，查爾斯河實驗室漲11.32%，國際香料香精漲8.81%。“七姐妹”方面：英偉達漲3.57%，蘋果漲0.57%，Meta Platforms漲0.23%，微軟跌1.07%，亞馬遜跌1.74%，特斯拉跌1.82%，谷歌跌4.03%。"
-    },
-    {
-      "id": "5027467",
-      "time": "2026-08-06 04:00:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱與阿曼接近達成協議 海峽現有兩條航道將關閉 】伊朗副外長加里巴巴迪5日表示，伊朗和阿曼關於商業船舶通行霍爾木茲海峽的協議已接近最終敲定，屆時伊朗一側管控的北部航道和靠近阿曼一側的南部航道均將關閉。據伊朗伊斯蘭共和國通訊社5日報道，加里巴巴迪在接受採訪時說，將在霍爾木茲海峽建立一種不同於過去60年的新通行模式。目前經阿曼領海的南部航道和位於伊朗領海內的北部航道均將關閉。根據新設定的航道，商業船舶進入霍爾木茲海峽以及駛離海峽的部分航程經過伊朗領海。但新航道同樣為臨時航道，預計可使用2至4個月。加里巴巴迪否認有關伊美正在談判的說法，但表示伊朗收到美方資訊，並稱美方表示準備恢復履行此前簽署的諒解備忘錄中的承諾。（新華社）"
-    },
-    {
-      "id": "5027466",
-      "time": "2026-08-06 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌1.08%】水滴公司跌7.41%，金生遊樂跌6.47%，阿特斯跌5.89%，虎牙跌4.51%，金山雲跌4.28%。"
     }
   ]
 }
