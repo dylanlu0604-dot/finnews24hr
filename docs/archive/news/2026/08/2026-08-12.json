@@ -1,7 +1,117 @@
 {
   "date": "2026-08-12",
-  "count": 2750,
+  "count": 2761,
   "items": [
+    {
+      "id": "mkt:019ff69b-f2db-7aab-9010-9938bffbdb03",
+      "time": "2026-08-12 23:34:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-month Treasury auction Aug. 12 — stop-out yield 3.755%, prior 3.79%."
+    },
+    {
+      "id": "mkt:019ff69b-d5c7-7aab-9010-933eeb33d187",
+      "time": "2026-08-12 23:33:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.12) | actual 3.755% | previous 3.79%"
+    },
+    {
+      "id": "mkt:019ff69b-9741-7aab-9010-8b769fb22ef0",
+      "time": "2026-08-12 23:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 4-month Treasury auction on Aug. 12 — percentage of allotment at the stop-out yield 9.14%, prior 94.66%."
+    },
+    {
+      "id": "mkt:019ff69a-acde-7aab-9010-83889a9c4f56",
+      "time": "2026-08-12 23:32:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction bid-cover ratio 3.16 on Aug. 12, down from 3.19 previously."
+    },
+    {
+      "id": "mkt:019ff69a-82f2-7aab-9010-7a1edf487b4b",
+      "time": "2026-08-12 23:32:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.12) | actual 3.16 | previous 3.19"
+    },
+    {
+      "id": "5038012",
+      "time": "2026-08-12 23:32:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【谷歌釋出新一代Pixel智慧手機 硬體和設計上小幅升級】Alphabet Inc.旗下谷歌釋出最新一代Pixel智慧手機，在硬體和設計上進行小幅升級。新系列包括Pixel 11 Pro XL，起售價1,299美元；Pixel 11 Pro，起售價1,099美元；Pixel 11，899美元。此外還有摺疊屏手機Pixel 11 Pro Fold，起售價1,899美元。新機帶來一些真正的新功能，例如“HiLight”，可把相機閃光燈變成更實用的通知指示燈。此外，還包括一些更務實的改進，例如提升抗刮效能和螢幕亮度。受前所未有的記憶體晶片供應緊張影響，這幾款手機的起售價均較去年上漲100美元。除了提價，谷歌還下調了Pixel 11 Pro和Pro XL基礎版本的記憶體，從去年的16GB降至12GB。高儲存版本仍保留16GB記憶體。不過，新機的基礎儲存容量有所增加，從128GB提高至256GB。"
+    },
+    {
+      "id": "5038011",
+      "time": "2026-08-12 23:31:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：Grok 4.6今日已在Cursor和Grok Build中上線。Grok 4.6定價為每百萬輸入Token收費2美元，每百萬輸出Token收費6美元。Grok 4.6也已透過API以及OpenRouter、Vercel和Cloudflare等合作伙伴平臺上線。"
+    },
+    {
+      "id": "5038010",
+      "time": "2026-08-12 23:31:17",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "阿拉比亞電視臺訊息人士：巴基斯坦調解方正尋求延長（美伊）60天停火期限。巴基斯坦調解方對 60 天期限得以延長持樂觀態度。"
+    },
+    {
+      "id": "mkt:019ff699-2f33-7aab-9010-76d51b07c528",
+      "time": "2026-08-12 23:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Grok 4.6 is now available via API and on partner platforms OpenRouter, Vercel and Cloudflare."
+    },
+    {
+      "id": "mkt:019ff698-cca9-7aab-9010-692f3e138e35",
+      "time": "2026-08-12 23:30:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI: Grok 4.6 priced at $2 per 1 million input tokens and $6 per 1 million output tokens."
+    },
+    {
+      "id": "mkt:019ff698-84a4-7aab-9010-603746c6878f",
+      "time": "2026-08-12 23:30:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI launched Grok 4.6 today; the update is now live on Cursor and Grok Build."
+    },
     {
       "id": "te:markets:574799",
       "time": "2026-08-12 23:28:40",

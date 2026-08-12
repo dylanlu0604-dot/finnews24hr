@@ -1,7 +1,117 @@
 {
-  "updated": "2026-08-12 23:30:45",
-  "count": 15137,
+  "updated": "2026-08-12 23:34:54",
+  "count": 15138,
   "items": [
+    {
+      "id": "mkt:019ff69b-f2db-7aab-9010-9938bffbdb03",
+      "time": "2026-08-12 23:34:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US 4-month Treasury auction Aug. 12 — stop-out yield 3.755%, prior 3.79%."
+    },
+    {
+      "id": "mkt:019ff69b-d5c7-7aab-9010-933eeb33d187",
+      "time": "2026-08-12 23:33:55",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.12) | actual 3.755% | previous 3.79%"
+    },
+    {
+      "id": "mkt:019ff69b-9741-7aab-9010-8b769fb22ef0",
+      "time": "2026-08-12 23:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 4-month Treasury auction on Aug. 12 — percentage of allotment at the stop-out yield 9.14%, prior 94.66%."
+    },
+    {
+      "id": "mkt:019ff69a-acde-7aab-9010-83889a9c4f56",
+      "time": "2026-08-12 23:32:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction bid-cover ratio 3.16 on Aug. 12, down from 3.19 previously."
+    },
+    {
+      "id": "mkt:019ff69a-82f2-7aab-9010-7a1edf487b4b",
+      "time": "2026-08-12 23:32:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.12) | actual 3.16 | previous 3.19"
+    },
+    {
+      "id": "5038012",
+      "time": "2026-08-12 23:32:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【谷歌釋出新一代Pixel智慧手機 硬體和設計上小幅升級】Alphabet Inc.旗下谷歌釋出最新一代Pixel智慧手機，在硬體和設計上進行小幅升級。新系列包括Pixel 11 Pro XL，起售價1,299美元；Pixel 11 Pro，起售價1,099美元；Pixel 11，899美元。此外還有摺疊屏手機Pixel 11 Pro Fold，起售價1,899美元。新機帶來一些真正的新功能，例如“HiLight”，可把相機閃光燈變成更實用的通知指示燈。此外，還包括一些更務實的改進，例如提升抗刮效能和螢幕亮度。受前所未有的記憶體晶片供應緊張影響，這幾款手機的起售價均較去年上漲100美元。除了提價，谷歌還下調了Pixel 11 Pro和Pro XL基礎版本的記憶體，從去年的16GB降至12GB。高儲存版本仍保留16GB記憶體。不過，新機的基礎儲存容量有所增加，從128GB提高至256GB。"
+    },
+    {
+      "id": "5038011",
+      "time": "2026-08-12 23:31:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceXAI：Grok 4.6今日已在Cursor和Grok Build中上線。Grok 4.6定價為每百萬輸入Token收費2美元，每百萬輸出Token收費6美元。Grok 4.6也已透過API以及OpenRouter、Vercel和Cloudflare等合作伙伴平臺上線。"
+    },
+    {
+      "id": "5038010",
+      "time": "2026-08-12 23:31:17",
+      "tags": [
+        "其他",
+        "國際"
+      ],
+      "text": "阿拉比亞電視臺訊息人士：巴基斯坦調解方正尋求延長（美伊）60天停火期限。巴基斯坦調解方對 60 天期限得以延長持樂觀態度。"
+    },
+    {
+      "id": "mkt:019ff699-2f33-7aab-9010-76d51b07c528",
+      "time": "2026-08-12 23:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Grok 4.6 is now available via API and on partner platforms OpenRouter, Vercel and Cloudflare."
+    },
+    {
+      "id": "mkt:019ff698-cca9-7aab-9010-692f3e138e35",
+      "time": "2026-08-12 23:30:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI: Grok 4.6 priced at $2 per 1 million input tokens and $6 per 1 million output tokens."
+    },
+    {
+      "id": "mkt:019ff698-84a4-7aab-9010-603746c6878f",
+      "time": "2026-08-12 23:30:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI launched Grok 4.6 today; the update is now live on Cursor and Grok Build."
+    },
     {
       "id": "te:markets:574799",
       "time": "2026-08-12 23:28:40",
@@ -138025,109 +138135,6 @@
         "國際"
       ],
       "text": "【歐盟將於8月底對巴西禽肉進口開展審查】歐盟委員會發言人埃娃·赫爾恩奇羅娃郵件宣告顯示，歐盟委員會將於8月底針對巴西禽肉與蜂蜜產品開展現場核查。若核查結果合格，巴西上述產品有望獲准出口歐盟。歐盟委員會表示，本次核查不涵蓋兩類商品：一是核查階段巴西無法提供動物全生命週期合規擔保的品類，包括牛肉與雞蛋；二是事實上未獲得歐盟出口許可的品類，如水產品。巴西必須保證出口產品對應的動物，在完整飼養週期內均遵守歐盟抗菌藥物使用相關規定。核查報告將在數週後出具。"
-    },
-    {
-      "id": "mkt:019fd28f-abbb-7aab-8f90-6b931f897688",
-      "time": "2026-08-05 23:34:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 4-month Treasury auction bid-cover ratio 3.19 on Aug. 5, versus 3.04 previously."
-    },
-    {
-      "id": "mkt:019fd28f-a8c7-7aab-8f90-62ff04933a73",
-      "time": "2026-08-05 23:34:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "US 4-month Treasury auction through Aug. 5 — 94.66% of accepted bids awarded at the stop-out yield, prior 22.52%."
-    },
-    {
-      "id": "mkt:019fd28f-7539-7aab-8f90-5e57c49f54fc",
-      "time": "2026-08-05 23:34:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-month Treasury auction stop-out yield 3.785%, prior 3.88%."
-    },
-    {
-      "id": "mkt:019fd28f-5aec-7aab-8f90-576507e504d2",
-      "time": "2026-08-05 23:33:57",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Aug.5) | actual 3.19 | previous 3.04"
-    },
-    {
-      "id": "mkt:019fd28f-4149-7aab-8f90-4fb4175d8dcc",
-      "time": "2026-08-05 23:33:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Aug.5) | actual 3.785% | previous 3.88%"
-    },
-    {
-      "id": "5027313",
-      "time": "2026-08-05 23:33:10",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國解除針對伊拉克航空公司及其飛機、與伊朗革命衛隊相關的制裁。"
-    },
-    {
-      "id": "5027312",
-      "time": "2026-08-05 23:32:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部經過針對運營調整的行政審查，解除了對伊拉克巴格達航空的反恐制裁。"
-    },
-    {
-      "id": "5027311",
-      "time": "2026-08-05 23:32:30",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.785%，投標倍數3.19。"
-    },
-    {
-      "id": "5027310",
-      "time": "2026-08-05 23:32:14",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數上漲0.03%，歐洲斯托克指數下跌0.08%，歐元區藍籌股指數下跌0.14%。英國富時100指數上漲0.14%，德國DAX指數下跌0.24%，法國CAC 40指數下跌0.01%，西班牙IBEX指數上漲0.17%。"
-    },
-    {
-      "id": "5027309",
-      "time": "2026-08-05 23:31:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統發言人：（總統將）就過去兩年發生的種種事情，進行一次坦率、明晰且詳盡的敘述。總統佩澤希其揚關於總統履職與為國服務的報告；這份詳盡報告的第一部分將於今晚播出並對外發布。"
     }
   ]
 }
