@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-12 09:46:24",
-  "count": 15385,
+  "updated": "2026-08-12 09:50:19",
+  "count": 15378,
   "items": [
+    {
+      "id": "5036655",
+      "time": "2026-08-12 09:49:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【文化傳媒板塊拉昇，省廣集團漲停】文化傳媒板塊拉昇，省廣集團、湖北廣電漲停，天龍集團、風語築、天娛數科、引力傳媒跟漲。"
+    },
+    {
+      "id": "5036654",
+      "time": "2026-08-12 09:49:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯新羅西斯克市市長表示，無人機襲擊了黑海港口新羅西斯克的居民樓。"
+    },
+    {
+      "id": "5036653",
+      "time": "2026-08-12 09:49:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置概念震盪走強 至純科技漲停】半導體裝置概念震盪走強，至純科技漲停，芯源微漲超8%，耐科裝備、中科飛測、中微公司、賽騰股份跟漲。"
+    },
+    {
+      "id": "5036652",
+      "time": "2026-08-12 09:48:49",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【韓國最高法院裁決：三星證券向韓國國民年金公團支付18.6億韓元賠償】韓國最高法院裁定，三星證券必須向韓國國民年金公團（NPS）支付18.6億韓元，以彌補因2018年股息支付錯誤造成的損失。 2018年4月，三星證券誤將每位員工1000韓元的現金股息發放為1000股股票；隨後員工拋售導致股價盤中一度下跌11.7%。韓國國民年金公團曾尋求299億韓元的賠償，而一家下級法院則判令三星證券賠償 18.6 億韓元。韓國最高法院週三支援了這一裁決。三星證券在另一份宣告中表示，“尊重最高法院的最終裁決”。"
+    },
+    {
+      "id": "5036651",
+      "time": "2026-08-12 09:48:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "市場監管總局公開徵求《國際單位制及其應用（徵求意見稿）》意見。"
+    },
+    {
+      "id": "mkt:019ff3a7-b15c-7aab-8ffe-6b960d5b4113",
+      "time": "2026-08-12 09:48:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's State Administration for Market Regulation (SAMR) is soliciting public comment on the draft International System of Units and Its Application."
+    },
+    {
+      "id": "5036650",
+      "time": "2026-08-12 09:47:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量588億元。"
+    },
+    {
+      "id": "5036649",
+      "time": "2026-08-12 09:46:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金融科技概念異動拉昇 威士頓20cm漲停】早盤金融科技概念異動拉昇，威士頓20cm漲停，普元資訊、艾融軟體、金橋資訊、仁東控股、上海鋼聯等跟漲。"
+    },
     {
       "id": "mkt:019ff3a5-7d43-7aab-8ffe-670fe7c65bcb",
       "time": "2026-08-12 09:45:36",
@@ -139968,155 +140037,6 @@
         "Brent"
       ],
       "text": "Colombia's energy minister said energy exports to Ecuador will resume on Wednesday."
-    },
-    {
-      "id": "mkt:019fcf9d-3520-7aab-8f7c-c2ba9e88015d",
-      "time": "2026-08-05 09:50:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【July RatingDog China services PMI 50.4, down 3.7 pts; 43rd consecutive month of expansion, slowest since Jan 2024】July RatingDog China services PMI 50.4, down 3.7 pts from June, marking a 43rd consecutive month in expansion and the weakest pace since January 2024. New export business remained resilient, employment continued to expand and cost pressures eased. RatingDog composite PMI output index fell to 50.8, down 2.8 pts from June and in expansion for a 14th month; the pullback was led by a sharp slowdown in services output while manufacturing output expansion also slowed. Composite employment expanded for a third month and input-price inflation moderated further. Services and overall activity are expected to remain in expansion but growth may moderate."
-    },
-    {
-      "id": "5025739",
-      "time": "2026-08-05 09:50:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月RatingDog中國服務業PMl錄得50.4 連續第43個月處於擴張區間】7月RatingDog中國服務業PMl錄得50.4，較6月大幅回落3.7個百分點，連續第43個月處於擴張區間，但擴張速度為2024年1月以來最慢。整體來看，7月服務業擴張步伐明顯放緩，但新出口業務保持韌性、就業持續擴張且成本壓力緩解提供了積極支撐。7月RatingDog綜合PMl產出指數錄得50.8，較6月回落2.8個百分點，連續第14個月處於擴張區間，但擴張速度明顯放緩。本月指數的回落主要由服務業產出增長大幅放緩所導致，製造業產出擴張速度亦有所放緩。綜合就業連續第三個月保持擴張，綜合投入品價格通脹進一步放緩。預計服務業及整體經濟活動仍將保持在擴張區間，但增速可能趨於溫和。"
-    },
-    {
-      "id": "5025738",
-      "time": "2026-08-05 09:50:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞將向厄瓜多輸送8.6吉瓦時/天的電力。"
-    },
-    {
-      "id": "mkt:019fcf9c-1b14-7aab-8f7c-b8694e41364a",
-      "time": "2026-08-05 09:49:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Nearly half of Fed regional presidents signal post‑July support for hikes】Five of 12 Federal Reserve regional presidents signaled support for rate hikes after the July meeting. The Cleveland Fed president (2026 voter) said he leaned toward a hike, viewing policy as insufficiently restrictive. Dallas Fed president Lorie Logan (2026 voter) said core inf, excluding recent shocks, remains near 2.5%, arguing for tighter policy. Minneapolis Fed president Neel Kashkari (2026 voter) prefers gradual tightening while gathering more inf and jobs data, saying a sequence of small moves is preferable to waiting and risking larger action later. The Kansas City Fed president (2028 voter) said strong demand and investment mean policy is not restrictive and tighter policy is needed to bring inf to the Fed’s 2% goal. The St. Louis Fed president (2028 voter) said this week’s U.S. Treasury sell‑off signals the Fed must raise rates to preserve credibility, citing significant supply shocks and broad price increases reported by firms and households. Note: at the last meeting seven Board governors plus New York Fed president John Williams and the Philadelphia Fed president supported holding policy steady."
-    },
-    {
-      "id": "5025737",
-      "time": "2026-08-05 09:48:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【旅客攜帶充電寶自燃，長安航空通報】長安航空微博通報，8月4日22:30左右，由南京飛往貴陽的9H8470航班，一名旅客攜帶的充電寶發生自燃。乘務組嚴格按照機上鋰電池冒煙失火應急程式專業高效完成處置，機上無人員受傷，飛機狀況良好。經機組慎重決策，航班已於22:50安全備降武漢天河國際機場。經地面檢查，飛機狀態安全適航。長安航空在此提醒廣大旅客朋友，在乘機出行時，優先選擇不攜帶充電寶，如需攜帶，按照符合“3C認證”等相關要求檢查隨身攜帶的充電寶。讓我們攜手共同守護平安順利的飛行旅程。"
-    },
-    {
-      "id": "te:economy:572760",
-      "time": "2026-08-05 09:48:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "China RatingDog Composite PMI Lowest in a Year — The RatingDog China General Composite PMI fell to 50.8 in July 2026 from 53.6 in the previous month, marking its lowest reading since July 2025 and signaling a slower pace of expansion in private-sector activity. The decline reflected weaker momentum across both the manufacturing and services sectors. New business increased for a fourteenth consecutive month but expanded at the slowest pace since March, indicating softer demand. Meanwhile, employment rose for a third straight month, extending the longest run of job growth since mid-2023 and suggesting firms continued to add staff despite moderating activity. On the price front, both input costs and output charges rose at their weakest pace in six months, with inflation easing across the manufacturing and services sectors. The moderation in cost and selling price pressures points to softer inflationary momentum as overall business growth lost steam in July."
-    },
-    {
-      "id": "mkt:019fcf9b-7e38-7aab-8f7c-b226a61e2ed1",
-      "time": "2026-08-05 09:48:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "07688.HK",
-        "Impact bullish",
-        "00031.HK",
-        "06613.HK"
-      ],
-      "text": "Hong Kong commercial aerospace stocks mostly higher: Topu CNC (07688.HK) up >4%, China Aerospace International Holdings (00031.HK) up >3%, Lens Technology (06613.HK) up >2%; Junda (02865.HK) and Goldwind (02208.HK) up >1%."
-    },
-    {
-      "id": "5025736",
-      "time": "2026-08-05 09:48:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股儲存晶片股走強 兆易創新漲近8%】截至發稿，兆易創新(03986.HK)漲7.87%，瀾起科技(06809.HK)漲5.33%。"
-    },
-    {
-      "id": "5025735",
-      "time": "2026-08-05 09:47:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞週三恢復對厄瓜多的能源出口。"
-    },
-    {
-      "id": "mkt:019fcf9a-8769-7aab-8f7c-af4e375436b0",
-      "time": "2026-08-05 09:47:18",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Platinum most-active futures are up more than 5% at 425 yuan/gram; palladium most-active futures are up more than 5% at 319.45 yuan/gram."
-    },
-    {
-      "id": "mkt:019fcf9a-4b20-7aab-8f7c-a1be63170a56",
-      "time": "2026-08-05 09:47:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's National Marine Forecasting Center issues yellow sea-wave warning】China's National Marine Forecasting Center issued a yellow sea-wave warning. Due to Typhoon No.13 White Dolphin, the eastern East China Sea is expected to see 5–8m waves from the afternoon of Aug 5 to the morning of Aug 6; nearshore waters are at yellow warning level. Vessels operating in the area should take safety precautions and coastal units should implement anti-wave and avoidance measures."
-    },
-    {
-      "id": "5025734",
-      "time": "2026-08-05 09:46:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.00%，成分股中，雲星宇漲4.52%，戈碧迦漲3.72%，諾思蘭德漲3.48%，錦華新材漲2.35%。"
-    },
-    {
-      "id": "5025733",
-      "time": "2026-08-05 09:46:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺釋出海浪黃色警報】從自然資源部獲悉，國家海洋預報臺釋出海浪黃色警報。受今年第13號颱風“白海豚”的影響，預計8月5日下午到6日上午，東海東部將出現5到8米的巨浪到狂浪區，近海海域海浪預警級別為黃色。提醒在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。"
-    },
-    {
-      "id": "mkt:019fcf99-c99e-7aab-8f7c-99174c454233",
-      "time": "2026-08-05 09:46:30",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "【N. Korea to formulate clearer military options in response to Japan's military moves】KCNA on the 5th quoted Kim Yo-jong, minister of the Central Committee of the Workers' Party of Korea, saying N. Korea's armed forces and military leadership will formulate clearer military options based on Japan's current military developments."
-    },
-    {
-      "id": "5025732",
-      "time": "2026-08-05 09:46:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "三大指數全線翻紅，儲存晶片、先進封裝、MLCC概念等方向漲幅居前。全市場上漲個股超3500只。"
     }
   ]
 }
