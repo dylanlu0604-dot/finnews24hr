@@ -1,7 +1,32 @@
 {
   "date": "2026-08-13",
-  "count": 76,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:019ff70a-574b-7aab-9011-ee4bd875fd25",
+      "time": "2026-08-13 01:34:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Google (GOOG.O) co-founder Sergey Brin has spent recent months urging staff to focus on returning the GEMINI model to the forefront of AI."
+    },
+    {
+      "id": "5038063",
+      "time": "2026-08-13 01:34:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：谷歌聯合創始人謝爾蓋・布林近數月敦促員工，要全力將 Gemini 模型拉回人工智慧前沿水平。谷歌高管上週召開全員大會，回應員工關切，討論 AI 部門重組事宜。"
+    },
+    {
+      "id": "5038062",
+      "time": "2026-08-13 01:32:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "巴西央行：7 月美元資金淨流入規模達 19.38 億美元。"
+    },
     {
       "id": "mkt:019ff702-b305-7aab-9011-e2ea49534d13",
       "time": "2026-08-13 01:26:16",
