@@ -1,7 +1,113 @@
 {
   "date": "2026-08-12",
-  "count": 2540,
+  "count": 2550,
   "items": [
+    {
+      "id": "5037900",
+      "time": "2026-08-12 21:46:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公佈“炸裂”業績後，寒武紀回應市場關切】寒武紀8月12日召開2026年半年度業績說明會。針對市場關注的算力需求、供應鏈備貨、新產品研發等問題，寒武紀董事長、總經理陳天石表示，在大模型技術加速革新的行業背景下，智慧計算需求持續攀升，公司將持續聚焦人工智慧晶片設計領域技術創新，提升核心競爭力，積極拓展市場份額，加速場景落地。"
+    },
+    {
+      "id": "5037899",
+      "time": "2026-08-12 21:45:38",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【何海峰履新中信建投證券全球首席經濟學家】8月12日，據中信建投研究所訊息，何海峰正式擔任中信建投證券全球首席經濟學家。據記者瞭解，未來，何海峰將覆蓋全球宏觀研判，著力支援中信建投香港子公司及外資客戶的宏觀研究需求，承接相關部委和機構的政策諮詢，以樹立中信建投智庫的學術形象，提升內外資機構認可度。"
+    },
+    {
+      "id": "5037898",
+      "time": "2026-08-12 21:45:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮耀Magic9將首發純血Agentic OS】8月12日，據榮耀手機訊息，榮耀直板旗艦Magic9系列將首發“純血”Agentic OS，新機將在影像、AI能力等方面進一步升級。目前已開啟盲約，定檔9月釋出。"
+    },
+    {
+      "id": "5037897",
+      "time": "2026-08-12 21:44:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧省掛牌督辦朝陽市3人中毒死亡事故】遼寧省安全生產委員會近日釋出《較大生產安全事故查處掛牌督辦通知書》披露，遼寧省朝陽市建平縣萬壽街道老西店村的建平縣鑫隆泰牧業有限公司，8月5日19時3分許，發生一起中毒事故，造成3人死亡。建平縣有關方面12日確認，這起事故是企業在操作化糞池附近的積液池閥門時發生的。根據《遼寧省較大事故查處掛牌督辦辦法》，遼寧省安委會決定對該起較大事故查處實行掛牌督辦。要求朝陽市依照有關法律法規及規章規定，抓緊組織開展事故調查，迅速查明事故原因，嚴格按事故調查規定要求研究提出處理意見。（新華社）"
+    },
+    {
+      "id": "mkt:019ff637-93e0-7aab-900d-c3b256d5edde",
+      "time": "2026-08-12 21:44:25",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bearish",
+        "DAX",
+        "EURUSD"
+      ],
+      "text": "Maersk warned that low Rhine water levels could worsen to the point that barge transport becomes impossible."
+    },
+    {
+      "id": "mkt:019ff637-2734-7aab-900d-bd5870f0abaa",
+      "time": "2026-08-12 21:43:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Market analysis: July CPI barely meets threshold for Fed to hold rates in September】Bill Adams, chief U.S. economist at Fifth Third Commercial Bank, said: \"The July CPI report barely meets the threshold for the Fed to hold rates at its September meeting. Fed policymakers signaled in July that to avoid a rate hike, core inflation must improve between now and the September meeting.\""
+    },
+    {
+      "id": "5037896",
+      "time": "2026-08-12 21:43:56",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【市場分析：7月CPI勉強達到美聯儲9月按兵不動門檻】Fifth Third Commercial Bank首席美國經濟學家Bill Adams表示：“7月CPI報告勉強達到足以推動美聯儲在9月下一次會議上維持利率不變的門檻。美聯儲政策制定者在7月已經釋放訊號，若要避免加息，那麼從現在到9月會議期間，核心通脹必須有所改善。”"
+    },
+    {
+      "id": "mkt:019ff637-007c-7aab-900d-b18372c6d044",
+      "time": "2026-08-12 21:43:47",
+      "tags": [
+        "MKT News",
+        "UCG.MI",
+        "Impact bearish"
+      ],
+      "text": "A German regulator flagged governance issues at UniCredit in European Central Bank documents."
+    },
+    {
+      "id": "mkt:019ff636-df87-7aab-900d-ad7ff64e5e7b",
+      "time": "2026-08-12 21:43:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB documents show integration is expected to be \"challenging and persistent\" and note existing tensions and divisions."
+    },
+    {
+      "id": "mkt:019ff636-5ac1-7aab-900d-a22fa64af331",
+      "time": "2026-08-12 21:43:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "UCG.MI",
+        "Impact bullish"
+      ],
+      "text": "Documents show the European Central Bank has provisionally ruled there is no reason to oppose UniCredit's acquisition of a German commercial bank."
+    },
     {
       "id": "mkt:019ff635-f702-7aab-900d-9a2507af3e46",
       "time": "2026-08-12 21:42:39",
