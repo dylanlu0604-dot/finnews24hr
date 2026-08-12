@@ -1,7 +1,19 @@
 {
-  "updated": "2026-08-12 23:55:56",
-  "count": 15136,
+  "updated": "2026-08-13 00:01:04",
+  "count": 15134,
   "items": [
+    {
+      "id": "te:markets:574805",
+      "time": "2026-08-12 23:58:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.5% to close at 8,675 on Wednesday, extending losses from the previous session as luxury stocks weighed heavily on the index. The sector was pressured by a slowdown in global demand, with weaker Chinese consumer spending continuing to cloud the industry's outlook. A recent Kearney study forecasts that luxury spending per capita in China will fall by around 4% in 2026. LVMH shed 2.9%, L’Oréal lost 0.8%, Hermès fell 2.5%, and Kering retreated 3.8%. Meanwhile, Iran and the US remained at odds over efforts to reach a permanent end to the conflict in the Gulf. Iranian officials said there had been no progress in talks to revive the interim deal agreed in June or establish a timeline for its implementation. The comments further dampened hopes of a swift resolution, while attacks on regional shipping on Tuesday pushed oil prices higher. Industrials traded mixed, with Essilor down 4.3% and Air Liquide losing 0.8%, while defense stocks gained, led by a 1.5% rise in Thales."
+    },
     {
       "id": "5038022",
       "time": "2026-08-12 23:55:03",
@@ -138085,40 +138097,6 @@
         "資料"
       ],
       "text": "德米斯·哈薩比斯卸任谷歌DeepMind執行長，轉任董事長。"
-    },
-    {
-      "id": "5027332",
-      "time": "2026-08-06 00:00:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦統計局：截至8月3日當週，俄羅斯消費通脹為‑0.02%，前一週為+0.04%。"
-    },
-    {
-      "id": "mkt:019fd2a7-b4d6-7aab-8f90-96502b26bcfa",
-      "time": "2026-08-06 00:00:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) chief scientist resigns after 27 years to found his own AI company."
-    },
-    {
-      "id": "te:markets:573095",
-      "time": "2026-08-06 00:00:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Closes at Record High — The CAC 40 edged up to a record close of 8,669 on Wednesday as investors welcomed progress in US-Iran talks, improving global risk sentiment. US President Donald Trump struck an optimistic tone, saying negotiations with Tehran were \"moving along very nicely.\" Oil prices fell on reports that the US, Iran, and Oman were close to a 60-day interim agreement to reopen the Strait of Hormuz without tolls. Financial stocks were mostly higher, with Societe Generale up 1%. Industrials also advanced, led by Safran (+0.6%), Airbus (+0.4%), Air Liquide (+0.9%), and EssilorLuxottica (+0.6%). Meanwhile, French industrial production rose 0.1% in June, below forecasts of a 0.3% increase but rebounding from a 0.1% decline in May. In contrast, luxury stocks weighed on the index, with LVMH (-1.1%) and Hermès (-0.6%) lower, while TotalEnergies fell 0.6% on weaker oil prices."
     }
   ]
 }

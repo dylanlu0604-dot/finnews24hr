@@ -1,7 +1,19 @@
 {
   "date": "2026-08-12",
-  "count": 2782,
+  "count": 2783,
   "items": [
+    {
+      "id": "te:markets:574805",
+      "time": "2026-08-12 23:58:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Luxury Stocks Weigh — The CAC 40 fell 0.5% to close at 8,675 on Wednesday, extending losses from the previous session as luxury stocks weighed heavily on the index. The sector was pressured by a slowdown in global demand, with weaker Chinese consumer spending continuing to cloud the industry's outlook. A recent Kearney study forecasts that luxury spending per capita in China will fall by around 4% in 2026. LVMH shed 2.9%, L’Oréal lost 0.8%, Hermès fell 2.5%, and Kering retreated 3.8%. Meanwhile, Iran and the US remained at odds over efforts to reach a permanent end to the conflict in the Gulf. Iranian officials said there had been no progress in talks to revive the interim deal agreed in June or establish a timeline for its implementation. The comments further dampened hopes of a swift resolution, while attacks on regional shipping on Tuesday pushed oil prices higher. Industrials traded mixed, with Essilor down 4.3% and Air Liquide losing 0.8%, while defense stocks gained, led by a 1.5% rise in Thales."
+    },
     {
       "id": "5038022",
       "time": "2026-08-12 23:55:03",
