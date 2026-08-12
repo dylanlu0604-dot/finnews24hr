@@ -1,7 +1,72 @@
 {
   "date": "2026-08-13",
-  "count": 109,
+  "count": 115,
   "items": [
+    {
+      "id": "mkt:019ff73f-c335-7aab-9012-8431323b2d5a",
+      "time": "2026-08-13 02:32:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US crude futures settled at $83.27/bbl, up $0.07, or 0.08%."
+    },
+    {
+      "id": "mkt:019ff73e-9d1b-7aab-9012-7ccd478da620",
+      "time": "2026-08-13 02:31:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of 02:30 close, SHFE main gold contract rose 0.36% to 959 yuan/gram; SHFE main silver contract rose 0.63% to 16,024 yuan/kg; SC crude oil main contract rose 0.63% to 556 yuan/barrel."
+    },
+    {
+      "id": "mkt:019ff73d-e5c0-7aab-9012-72081d615087",
+      "time": "2026-08-13 02:30:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed Wednesday evening (Aug 12) up 0.23 pct at 956.01 yuan/gram; Silver T+D closed up 0.23 pct at 15,988.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019ff73d-4727-7aab-9012-6a2f193a0332",
+      "time": "2026-08-13 02:30:15",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Canada may accept partial U.S. auto tariffs to secure cuts】The Globe and Mail reports Canada is weighing a deal to accept part of U.S. auto tariffs in return for lower duties on vehicles meeting USMCA rules. Under a proposal discussed by negotiators, the value of U.S.-made parts in Canadian-built cars would be excluded from the tariff base, preserving an existing exemption, while Section 232 tariffs imposed by the Trump administration — currently 25% on USMCA-eligible Canadian exports — could be reduced. Canadian cars contain roughly 50% U.S. content; automakers say excluding U.S. content could make a 10–15% tariff tolerable. Talks aim for an agreement by Aug. 19, though Canadian officials expect a temporary pause of the next tariff round is more likely than a full resolution before that date."
+    },
+    {
+      "id": "te:markets:574822",
+      "time": "2026-08-13 02:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Binance Depreciates by 1.00% — Today's cryptos market is characterized by modest daily movements, with Binance standing out as the frontrunner with a -1% decrease."
+    },
+    {
+      "id": "5038076",
+      "time": "2026-08-13 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.77%，報552.30元人民幣/桶。滬金夜盤收漲0.36%，滬銀收漲0.63%。"
+    },
     {
       "id": "te:markets:574821",
       "time": "2026-08-13 02:25:05",
