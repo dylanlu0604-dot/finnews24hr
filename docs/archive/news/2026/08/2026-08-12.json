@@ -1,7 +1,119 @@
 {
   "date": "2026-08-12",
-  "count": 2483,
+  "count": 2495,
   "items": [
+    {
+      "id": "mkt:019ff62a-f0b1-7aab-900d-254cbd41a629",
+      "time": "2026-08-12 21:30:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US CPI in line with expectations; US equities open higher】At the open, the Dow was up 0.33%, the S&P 500 was up 0.49% and the Nasdaq was up 0.9%. Storage names led gains: SanDisk (SNDK.O) +6.9%, SK Hynix (SKHY.O) +5.8%, Micron Technology (MU.O) +5.5%."
+    },
+    {
+      "id": "mkt:019ff62a-df84-7aab-900d-1da4b8b9155f",
+      "time": "2026-08-12 21:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military exercise in East China Sea】Ningbo Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the East China Sea will hold military exercises on Aug 13 from 07:00 to 10:00; entry into the exercise area is prohibited."
+    },
+    {
+      "id": "5037867",
+      "time": "2026-08-12 21:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，中進醫療跌15.44%，網易跌4.33%，再鼎醫藥跌2.46%，新東方跌3.37%，中通跌0.78%。"
+    },
+    {
+      "id": "5037866",
+      "time": "2026-08-12 21:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鎧俠與閃迪釋出第九代2Tb QLC 3D快閃記憶體】8月12日，鎧俠控股旗下鎧俠公司與閃迪公司釋出其第九代高效能2Tb QLC 3D快閃記憶體技術，專為AI和資料密集型應用設計。相較第八代 2Tb QLC，新技術實現了更高的寫入與讀取頻寬，以及更優的讀寫功耗效率；其 NAND 介面速度達4.8Gb/s，較第八代器件提升33%。"
+    },
+    {
+      "id": "5037865",
+      "time": "2026-08-12 21:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！東海海域軍事演練】據中國海事局網站訊息，寧波海事局釋出航行警告，8月13日7時至10時，東海部分水域進行軍事演練活動，禁止駛入。"
+    },
+    {
+      "id": "te:markets:574782",
+      "time": "2026-08-12 21:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 5-week High — Wind Energy Index increased to 24.78 USD, the highest since July 2026. Over the past 4 weeks, Wind Energy Index gained 0.38%, and in the last 12 months, it increased 28.1%."
+    },
+    {
+      "id": "mkt:019ff62a-25e8-7aab-900d-110f3405b7fa",
+      "time": "2026-08-12 21:29:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "Hang Seng Index"
+      ],
+      "text": "【PBOC: New corporate loan and mortgage rates around 3% in Q2】The PBOC released its Q2 2026 monetary policy implementation report, saying China’s moderately accommodative policy continued to take effect, social financing conditions remained relatively loose and banking-system liquidity was ample. Total financing grew at a reasonable pace and credit allocation improved; at end-June loans to technology, green projects, inclusive finance, the elderly-care industry and the digital economy continued to outpace overall loan growth. Newly issued corporate loans and mortgages carried rates around 3%, and aggregate social financing costs remained at a low level."
+    },
+    {
+      "id": "te:markets:574781",
+      "time": "2026-08-12 21:29:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "GlaxoSmithKline Stock Price Hits 9-week Low — GlaxoSmithKline shares decreased to 1850.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 5.13%, and in the last 12 months, it increased 29.15%."
+    },
+    {
+      "id": "5037864",
+      "time": "2026-08-12 21:29:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“Open Water rooms”，甘肅省高速公路服務集團道歉】8月12日，甘肅省高速公路服務集團釋出情況通報：8月11日，有網民反映我公司所轄鴛鴦服務區開水間英文標識翻譯有誤，引發網民關注，給廣大公眾帶來了不良體驗。對此我公司深感不安，向所有關注此事的公眾深表歉意！經核實，該問題屬實。目前，鴛鴦服務區錯誤英文標識已拆除。我公司將以此次事件為警示，舉一反三，在全公司所轄各服務區開展標識標牌專項整治，全面規範管理工作：一是全域排查見底。對所有服務區中英文標識標牌進行全面校核，覆蓋功能用房、場區指引等全部對外展示點位，發現問題即知即改。二是完善稽核機制。建立標識標牌“先稽核、後上牆、定期複核”管理制度，統一中英文翻譯規範，明確專人負責設計、製作、安裝全流程把關，從制度層面堵塞管理漏洞。三是強化常態化管理。完善工作機制，從源頭防範各類問題，持續提升服務區標準化建設水平與對外服務形象。感謝社會各界與廣大司乘人員的監督與指正。"
+    },
+    {
+      "id": "5037863",
+      "time": "2026-08-12 21:28:12",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛稱，美國7月消費者物價指數表現“令人鼓舞”。"
+    },
+    {
+      "id": "5037862",
+      "time": "2026-08-12 21:27:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮耀CEO李健談記憶體漲價、競爭壓力：不經歷磨難的企業不可能走向偉大】在榮耀Robot Phone新品釋出會後，榮耀CEO李健、榮耀產品線總裁方飛、榮耀硬體工程部總裁劉洋、榮耀AI與軟體部總裁孫建發等高管與媒體對話。提到榮耀當前面臨的局面，榮耀CEO李健表示，一方面，榮耀面臨一股向下的壓力，記憶體漲價、行業競爭等，都是狂風暴雨；同時還有一股向上的力量，榮耀戰略調整以後，技術、產業、生態都在向上拉。（新浪科技）"
+    },
+    {
+      "id": "5037861",
+      "time": "2026-08-12 21:27:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：iPhone 20 Pro 螢幕將沿用前代機型的螢幕比例，尺寸略有增大。搭配玻璃蓋板，有望實現近乎無邊框效果。"
+    },
     {
       "id": "5037860",
       "time": "2026-08-12 21:25:47",

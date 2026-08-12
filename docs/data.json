@@ -1,7 +1,119 @@
 {
-  "updated": "2026-08-12 21:27:11",
-  "count": 15172,
+  "updated": "2026-08-12 21:31:18",
+  "count": 15167,
   "items": [
+    {
+      "id": "mkt:019ff62a-f0b1-7aab-900d-254cbd41a629",
+      "time": "2026-08-12 21:30:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US CPI in line with expectations; US equities open higher】At the open, the Dow was up 0.33%, the S&P 500 was up 0.49% and the Nasdaq was up 0.9%. Storage names led gains: SanDisk (SNDK.O) +6.9%, SK Hynix (SKHY.O) +5.8%, Micron Technology (MU.O) +5.5%."
+    },
+    {
+      "id": "mkt:019ff62a-df84-7aab-900d-1da4b8b9155f",
+      "time": "2026-08-12 21:30:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: military exercise in East China Sea】Ningbo Maritime Safety Administration said on the China Maritime Safety Administration website that parts of the East China Sea will hold military exercises on Aug 13 from 07:00 to 10:00; entry into the exercise area is prohibited."
+    },
+    {
+      "id": "5037867",
+      "time": "2026-08-12 21:30:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，中進醫療跌15.44%，網易跌4.33%，再鼎醫藥跌2.46%，新東方跌3.37%，中通跌0.78%。"
+    },
+    {
+      "id": "5037866",
+      "time": "2026-08-12 21:30:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鎧俠與閃迪釋出第九代2Tb QLC 3D快閃記憶體】8月12日，鎧俠控股旗下鎧俠公司與閃迪公司釋出其第九代高效能2Tb QLC 3D快閃記憶體技術，專為AI和資料密集型應用設計。相較第八代 2Tb QLC，新技術實現了更高的寫入與讀取頻寬，以及更優的讀寫功耗效率；其 NAND 介面速度達4.8Gb/s，較第八代器件提升33%。"
+    },
+    {
+      "id": "5037865",
+      "time": "2026-08-12 21:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！東海海域軍事演練】據中國海事局網站訊息，寧波海事局釋出航行警告，8月13日7時至10時，東海部分水域進行軍事演練活動，禁止駛入。"
+    },
+    {
+      "id": "te:markets:574782",
+      "time": "2026-08-12 21:30:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Wind Energy Index Hits 5-week High — Wind Energy Index increased to 24.78 USD, the highest since July 2026. Over the past 4 weeks, Wind Energy Index gained 0.38%, and in the last 12 months, it increased 28.1%."
+    },
+    {
+      "id": "mkt:019ff62a-25e8-7aab-900d-110f3405b7fa",
+      "time": "2026-08-12 21:29:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "Hang Seng Index"
+      ],
+      "text": "【PBOC: New corporate loan and mortgage rates around 3% in Q2】The PBOC released its Q2 2026 monetary policy implementation report, saying China’s moderately accommodative policy continued to take effect, social financing conditions remained relatively loose and banking-system liquidity was ample. Total financing grew at a reasonable pace and credit allocation improved; at end-June loans to technology, green projects, inclusive finance, the elderly-care industry and the digital economy continued to outpace overall loan growth. Newly issued corporate loans and mortgages carried rates around 3%, and aggregate social financing costs remained at a low level."
+    },
+    {
+      "id": "te:markets:574781",
+      "time": "2026-08-12 21:29:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "GlaxoSmithKline Stock Price Hits 9-week Low — GlaxoSmithKline shares decreased to 1850.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 5.13%, and in the last 12 months, it increased 29.15%."
+    },
+    {
+      "id": "5037864",
+      "time": "2026-08-12 21:29:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【“Open Water rooms”，甘肅省高速公路服務集團道歉】8月12日，甘肅省高速公路服務集團釋出情況通報：8月11日，有網民反映我公司所轄鴛鴦服務區開水間英文標識翻譯有誤，引發網民關注，給廣大公眾帶來了不良體驗。對此我公司深感不安，向所有關注此事的公眾深表歉意！經核實，該問題屬實。目前，鴛鴦服務區錯誤英文標識已拆除。我公司將以此次事件為警示，舉一反三，在全公司所轄各服務區開展標識標牌專項整治，全面規範管理工作：一是全域排查見底。對所有服務區中英文標識標牌進行全面校核，覆蓋功能用房、場區指引等全部對外展示點位，發現問題即知即改。二是完善稽核機制。建立標識標牌“先稽核、後上牆、定期複核”管理制度，統一中英文翻譯規範，明確專人負責設計、製作、安裝全流程把關，從制度層面堵塞管理漏洞。三是強化常態化管理。完善工作機制，從源頭防範各類問題，持續提升服務區標準化建設水平與對外服務形象。感謝社會各界與廣大司乘人員的監督與指正。"
+    },
+    {
+      "id": "5037863",
+      "time": "2026-08-12 21:28:12",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛稱，美國7月消費者物價指數表現“令人鼓舞”。"
+    },
+    {
+      "id": "5037862",
+      "time": "2026-08-12 21:27:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮耀CEO李健談記憶體漲價、競爭壓力：不經歷磨難的企業不可能走向偉大】在榮耀Robot Phone新品釋出會後，榮耀CEO李健、榮耀產品線總裁方飛、榮耀硬體工程部總裁劉洋、榮耀AI與軟體部總裁孫建發等高管與媒體對話。提到榮耀當前面臨的局面，榮耀CEO李健表示，一方面，榮耀面臨一股向下的壓力，記憶體漲價、行業競爭等，都是狂風暴雨；同時還有一股向上的力量，榮耀戰略調整以後，技術、產業、生態都在向上拉。（新浪科技）"
+    },
+    {
+      "id": "5037861",
+      "time": "2026-08-12 21:27:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：iPhone 20 Pro 螢幕將沿用前代機型的螢幕比例，尺寸略有增大。搭配玻璃蓋板，有望實現近乎無邊框效果。"
+    },
     {
       "id": "5037860",
       "time": "2026-08-12 21:25:47",
@@ -138209,161 +138321,6 @@
         "市場"
       ],
       "text": "AMD股價在釋出第二季度業績及展望後下跌6.6%。"
-    },
-    {
-      "id": "5027121",
-      "time": "2026-08-05 21:30:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "禮來第二季度業績超出預期，股價上漲5.7%。"
-    },
-    {
-      "id": "5027120",
-      "time": "2026-08-05 21:30:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "CVS HEALTH股價下跌10%，創1月27日以來最大單日跌幅。"
-    },
-    {
-      "id": "te:markets:573061",
-      "time": "2026-08-05 21:30:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CVS Health Stock Price Hits 8-week Low — CVS Health shares decreased to 93.97 USD, the lowest since June 2026. Over the past 4 weeks, CVS Health lost 7.92%, and in the last 12 months, it increased 48.22%."
-    },
-    {
-      "id": "5027119",
-      "time": "2026-08-05 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指齊漲】道指漲0.70%，標普500指數漲0.65%，納指漲0.41%。Shopify漲22.77%，Arista Networks漲11.29%，國際香料香精漲9.67%，繽客漲7.32%，永利漲7.05%，紐曼礦業漲6.70%。“七姐妹”方面：英偉達漲3.18%，亞馬遜漲1.70%，Meta Platforms漲1.29%，谷歌漲0.88%，微軟漲0.85%，蘋果跌0.43%，特斯拉跌1.36%。"
-    },
-    {
-      "id": "5027118",
-      "time": "2026-08-05 21:30:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "INSULET股價暴跌24%，創2015年以來最大單日跌幅。"
-    },
-    {
-      "id": "mkt:019fd21e-8f74-7aab-8f8d-19b18394c06f",
-      "time": "2026-08-05 21:30:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Market Themes",
-        "AI Revolution",
-        "AMD.O",
-        "Impact bearish",
-        "SHOP.N",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US equities opened higher: Dow +0.33%, S&P 500 +0.56%, Nasdaq +0.39%. SpaceX (SPCX.O) fell 10.5% on concerns over a surge in AI-related spending. AMD (AMD.O) dropped about 7% after weak Q2 results and a muted outlook. Shopify (SHOP.N) jumped about 20%. Gold briefly topped $4,200 intraday; miners Harmony Gold (HMY.N) rose 7.5% and Gold Fields (GFI.N) climbed 8.3%. Storage-related stocks were slightly lower."
-    },
-    {
-      "id": "5027117",
-      "time": "2026-08-05 21:30:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "FISERV與STUUT達成合作，將智慧體AI應用於企業應收賬款業務。"
-    },
-    {
-      "id": "5027116",
-      "time": "2026-08-05 21:30:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多S&P/TSX綜合指數<.GSPTSE>開盤上漲425.00點，漲幅1.19%，報36226.59點。"
-    },
-    {
-      "id": "te:markets:573059",
-      "time": "2026-08-05 21:30:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Walt Disney Stock Price Hits 6-week High — Walt Disney shares increased to 103.08 USD, the highest since June 2026. Over the past 4 weeks, Walt Disney gained 0.79%, and in the last 12 months, it decreased 17.02%."
-    },
-    {
-      "id": "5027115",
-      "time": "2026-08-05 21:30:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "據傳 Vusion 正在評估各類方案，包括潛在出售。"
-    },
-    {
-      "id": "5027114",
-      "time": "2026-08-05 21:29:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【費大廚全國小炒肉大王僅憑影片評出？中烹協回應】近日，中國烹飪協會連發公告，全面清理並撤銷此前頒發的“大師”“名師”及“美食地標城市”等各類稱號，以響應8月1日正式施行的《社會組織評比表彰活動管理辦法》。有網友發現，費大廚的“全國小炒肉大王”稱號，是在中國烹飪協會舉辦的一場線上網路投票比賽中，靠參賽照片和影片贏得的。8月5日，中國烹飪協會該賽事相關負責人表示此事時間久遠，“待檢視資料後再溝通”。對於“全國小炒肉大王”這一稱號，是否在上述清理名單中，截至發稿，未獲回應。費大廚方面對此回應稱，已關注到此事，將去核實瞭解。（中國新聞週刊）"
-    },
-    {
-      "id": "5027113",
-      "time": "2026-08-05 21:28:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國警方逮捕了一名女子，此前她在科文特花園刺傷三人。"
-    },
-    {
-      "id": "5027112",
-      "time": "2026-08-05 21:28:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "VIRTUIX：訓練系統將於第四季度交付給駐匡提科的美國海軍陸戰隊。"
-    },
-    {
-      "id": "5027111",
-      "time": "2026-08-05 21:28:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "VIRTUIX 選用AVRT用於美國海軍陸戰隊步兵訓練器的武器追蹤與內容方案。"
-    },
-    {
-      "id": "5027110",
-      "time": "2026-08-05 21:27:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【包鋼股份耐候鋼產品成功拓展鐵路裝備用鋼新賽道】據包鋼集團，日前，包鋼股份市場開發取得新突破，成功中標鐵路車廂耐候鋼訂單，標誌著包鋼股份高階耐候鋼產品正式進入國內軌道交通主機廠供應體系。據瞭解，該訂單需求來自國內大型軌道交通裝備製造國企，業務覆蓋傳統軌道裝備、化工運儲裝備等多個領域。"
-    },
-    {
-      "id": "5027109",
-      "time": "2026-08-05 21:27:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【布魯克菲爾德第二季度籌集創紀錄的770億美元資金】布魯克菲爾德公佈了截至2026年6月30日季度的財務業績。第二季度創紀錄地募集了770億美元，主要依靠私募股權、基礎設施和信貸。本季度淨收入為12億美元，過去12個月為31億美元。可分配收益（“DE”）為7.07億美元，每股0.44美元，過去十二個月為28億美元，每股1.75美元，分別增長15%和12%。"
-    },
-    {
-      "id": "5027108",
-      "time": "2026-08-05 21:27:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東佛山通報“廢品場有殘障務工人員”】8月5日，廣東佛山市三水區雲東海街道辦事處釋出情況通報：2026年8月4日，網路上有群眾反映雲東海街道遠坑村一廢品場涉嫌侵害殘障務工人員權益。接到線索後，街道第一時間聯合相關部門趕赴現場開展核查。經初步摸排，涉事場所現有務工人員5名，詳細情況正在深入調查取證。我們堅決維護勞動者尤其是特殊群體合法權益，對各類違法用工行為保持零容忍，如查實將依法從嚴處置。"
     }
   ]
 }
