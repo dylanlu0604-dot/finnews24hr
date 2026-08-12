@@ -1,7 +1,43 @@
 {
   "date": "2026-08-13",
-  "count": 173,
+  "count": 177,
   "items": [
+    {
+      "id": "te:markets:574824",
+      "time": "2026-08-13 04:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rise on AI Gains and Tame CPI — US stock indices closed mostly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to near its record close, the Nasdaq gained 0.7%, and the Dow closed nearly flat. CoreWeave surged 19.3% after posting stronger-than-expected sales results. SMCI soared 19% after its revenue forecast came in above expectations. Chip producers gained following strong results from Tencent, while Temasek took fresh stakes in SK Hynix and Samsung. The results injected fresh optimism into AI infrastructure stocks amid their volatile start to the third quarter. Nvidia (+3%), Oracle (+5.4%), and Micron (+4.9%) were up. Meanwhile, new inflation data showed relatively stable core inflation, easing pressure on the FOMC to raise interest rates. Still, uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Hyperscalers erased earlier gains, with Microsoft down 2.3%, Meta losing 3.4%, and Amazon shedding 1.8%."
+    },
+    {
+      "id": "5038112",
+      "time": "2026-08-13 04:09:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加320億立方英尺。"
+    },
+    {
+      "id": "5038111",
+      "time": "2026-08-13 04:09:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科第四財季來自超大規模雲服務商的AI訂單達40億美元。"
+    },
+    {
+      "id": "5038110",
+      "time": "2026-08-13 04:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科預計2027財年調整後每股收益5.05至5.11美元，市場預期4.84美元。"
+    },
     {
       "id": "5038109",
       "time": "2026-08-13 04:07:28",
