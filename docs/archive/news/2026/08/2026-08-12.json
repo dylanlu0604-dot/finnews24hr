@@ -1,7 +1,42 @@
 {
   "date": "2026-08-12",
-  "count": 2672,
+  "count": 2675,
   "items": [
+    {
+      "id": "mkt:019ff663-fe9c-7aab-900f-a66f584ceaf9",
+      "time": "2026-08-12 22:32:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【TRUMP says US has full control of Strait of Hormuz】TRUMP says the United States has full control of the Strait of Hormuz and expects to maintain that control. He described the U.S. maritime blockade as an 'iron wall' and said Iran cannot counter it. He asserted Iran lacks a navy and air force, that remaining soldiers are unpaid, the IRGC has been heavily damaged and is retreating, leadership is 'uncertain', and the country is financially crippled with '300% inflation' and worsening; he said Iran now 'talks but does not act' and is no longer a regional bully."
+    },
+    {
+      "id": "mkt:019ff663-b858-7aab-900f-9f927e818042",
+      "time": "2026-08-12 22:32:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "EIA report: Cushing crude inventories rose 1.61 mln barrels to 22.57 mln barrels."
+    },
+    {
+      "id": "5037961",
+      "time": "2026-08-12 22:32:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普：美國對霍爾木茲海峽擁有完全控制權】美國完全掌控霍爾木茲海峽。我認為我們會守住這一局面！各方都將我們的海上封鎖稱作 “鋼鐵之牆”，伊朗對此束手無策。他們沒有像樣的海軍，沒有像樣的空軍，剩餘士兵拿不到軍餉，伊斯蘭革命衛隊遭到重創、四處逃竄，其領導層最多也只能用局勢不穩來形容！他們國庫空虛，國家已然破敗。他們只剩下假新聞和 300% 的通貨膨脹，且形勢還在持續惡化！伊朗只會虛張聲勢，不再是中東的恃強凌弱者。"
+    },
     {
       "id": "mkt:019ff663-3493-7aab-900f-95bb0c754287",
       "time": "2026-08-12 22:32:04",
