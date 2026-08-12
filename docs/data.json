@@ -1,7 +1,82 @@
 {
-  "updated": "2026-08-12 20:13:45",
-  "count": 15119,
+  "updated": "2026-08-12 20:17:42",
+  "count": 15103,
   "items": [
+    {
+      "id": "5037707",
+      "time": "2026-08-12 20:16:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京結束防汛二級應急響應】8月11日—12日，受強颱風“白海豚”及其殘渦暖溼氣流和北方冷空氣的影響，北京市遭遇一輪持續性強降雨天氣。全市平均降雨量34毫米，各區降雨量極不均勻，最大降雨量和最大雨強均出現在密雲區穆家峪鎮，為206毫米、96毫米/小時。順義、延慶等地短時雨強大，昌平小時雨強突破歷史極值。12日20時，氣象部門解除暴雨橙色預警，北京全市同步結束防汛二級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5037706",
+      "time": "2026-08-12 20:15:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝塔科技（BETA Technologies）股價在盤前交易中季度業績公佈後下跌2.6%。"
+    },
+    {
+      "id": "5037705",
+      "time": "2026-08-12 20:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門武裝部隊：在達利省北部蓋特巴以西地區打擊了胡塞武裝的集結點。"
+    },
+    {
+      "id": "mkt:019ff5e4-e8cd-7aab-9009-fe208bb935af",
+      "time": "2026-08-12 20:14:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Ceasefire window spurs restart; Saudi July crude output up >1 MBD to 8.2 MBD】Saudi Arabia told OPEC a temporary ceasefire window in the Iran conflict allowed Gulf producers to restore flows, lifting its July crude output by more than 1 MBD to 8.2 MBD from 7.1 MBD in June. Saudi production remains several million b/d below pre-conflict levels. The IEA estimates Saudi domestic crude stocks rose by early August to at least their highest since 2016. The U.S.-Iran ceasefire has collapsed and renewed hostilities heighten risk to two key export routes—the Strait of Hormuz and Bab al-Mandeb—though Middle Eastern producers are still quietly exporting large volumes. Among seven OPEC members reporting directly to the secretariat, combined output rose 1.88 MBD, with most of the increase from Iraq and Saudi."
+    },
+    {
+      "id": "5037704",
+      "time": "2026-08-12 20:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【停火視窗推動復產 沙特7月原油產量大增】沙特向歐佩克報告稱，受伊朗戰爭短暫停火期間波斯灣產油國供應恢復推動，該國上月原油產量增加超過100萬桶/日。根據最新的歐佩克月報，沙特表示，其7月原油產量為820萬桶/日，高於6月的710萬桶/日。不過，這一水平仍比衝突前低數百萬桶/日。國際能源署在一份報告中估計，截至8月初，沙特國內原油庫存已升至至少2016年以來最高水平。美伊停火破裂並重新爆發敵對行動，使沙特兩條主要出口通道——波斯灣的霍爾木茲海峽和紅海的曼德海峽——面臨風險。不過，中東產油國仍在低調地將大量原油運出該地區。在直接向歐佩克秘書處報告產量資料的7個成員國中，原油產量合計增加188萬桶/日，其中大部分增量來自伊拉克和沙烏地阿拉伯。"
+    },
+    {
+      "id": "5037703",
+      "time": "2026-08-12 20:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius 目前預計，2026 年末簽約電力規模將達 5 吉瓦。"
+    },
+    {
+      "id": "mkt:019ff5e4-b516-7aab-9009-f32196b18e95",
+      "time": "2026-08-12 20:13:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report showed Saudi Arabia produced 8.2 mln bpd of crude in July, up from 7.1 mln bpd in June."
+    },
+    {
+      "id": "5037702",
+      "time": "2026-08-12 20:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【政策持續完善機制不斷最佳化 耐心資本加力深耕硬科技賽道】《中國證券報》12日刊發文章《政策持續完善機制不斷最佳化 耐心資本加力深耕硬科技賽道》。文章稱，近期，耐心資本加速佈局量子科技、具身智慧等未來產業態勢明顯，“投早、投小、投長期、投硬科技”的科創金融格局有望加速形成。市場人士預期，隨著私募基金領域“1+N+X”政策制度體系持續完善，長期投資考核與容錯機制不斷最佳化，耐心資本將加速暢通“科技-產業-金融”良性迴圈，為硬科技企業穿越週期、實現產業化突破提供持久動力。（新華社）"
+    },
     {
       "id": "mkt:019ff5e3-bcfd-7aab-9009-ead88e22e0a4",
       "time": "2026-08-12 20:12:50",
@@ -137550,230 +137625,6 @@
         "US Economy"
       ],
       "text": "ADP report: construction employment rose by 1,000 in July and by 2,000 in June."
-    },
-    {
-      "id": "mkt:019fd1db-9061-7aab-8f8b-1dcfe6afb688",
-      "time": "2026-08-05 20:17:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ADP report: trade, transportation and utilities employment fell 8,000 in July; June change reported as decreased/increased by 15,000."
-    },
-    {
-      "id": "te:markets:573042",
-      "time": "2026-08-05 20:17:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Nuclear Energy Index Hits 4-week High — Nuclear Energy Index increased to 43.36 USD, the highest since July 2026. Over the past 4 weeks, Nuclear Energy Index lost 1.68%, and in the last 12 months, it increased 4.84%."
-    },
-    {
-      "id": "5026976",
-      "time": "2026-08-05 20:16:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌正與AI程式設計代理初創公司Mechanize洽談逾15億美元交易。"
-    },
-    {
-      "id": "5026975",
-      "time": "2026-08-05 20:16:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "荷蘭政府支援科特出任歐洲央行行長候選人。"
-    },
-    {
-      "id": "5026974",
-      "time": "2026-08-05 20:16:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲4%，現報62.66美元/盎司。"
-    },
-    {
-      "id": "mkt:019fd1da-d16f-7aab-8f8b-1514d29e49d7",
-      "time": "2026-08-05 20:16:46",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "ADP chief economist NELA RICHARDSON said jobseekers are highly sensitive to real-time economic conditions; their rapid wage gains imply supply constraints in parts of the labor market. She added employers' responses to macro shifts are altering typical hiring patterns."
-    },
-    {
-      "id": "5026973",
-      "time": "2026-08-05 20:16:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "【亞德尼：美股科技股正處於 “打折階段”，出現買入機會】埃德・亞德尼表示，科技股上漲勢頭遠未結束，納斯達克100指數四個交易日累計上漲9.3%。該板塊當前預期12個月市盈率為22.3倍，亞德尼稱，對於一個高增長賽道而言，這一估值水平相對低廉。華爾街一眾策略師對科技股反彈持樂觀態度，部分分析師指出，美光科技、Alphabet等個股當前估值低於其五年均值。"
-    },
-    {
-      "id": "5026972",
-      "time": "2026-08-05 20:16:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌正洽談以15億美元收購MECHANIZE。"
-    },
-    {
-      "id": "5026971",
-      "time": "2026-08-05 20:15:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "Beamr將英偉達影片超解析度技術應用於體育賽事直播與廣播影片。"
-    },
-    {
-      "id": "mkt:019fd1d9-81dc-7aab-8f8b-0fff672851dc",
-      "time": "2026-08-05 20:15:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,200/oz, up 3.02% on the day."
-    },
-    {
-      "id": "5026970",
-      "time": "2026-08-05 20:15:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "ADP資料顯示，美國7月份服務業就業崗位增加4.7萬個。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608053832762815",
-      "time": "2026-08-05 20:15:16",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月ADP私營部門就業人數增加4.4萬人】8月5日，據ADP研究院與斯坦福數字經濟實驗室資料，美國7月私營部門就業人數增加4.4萬人，預期為增加6.5萬人，6月資料修正後為增加9.5萬人。"
-    },
-    {
-      "id": "5026969",
-      "time": "2026-08-05 20:15:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4200美元/盎司，日內漲3.02%。"
-    },
-    {
-      "id": "5026968",
-      "time": "2026-08-05 20:15:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲3%，現報4200.52美元/盎司。"
-    },
-    {
-      "id": "mkt:019fd1d9-68e9-7aab-8f8b-01cb081547ac",
-      "time": "2026-08-05 20:15:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US July ADP private payrolls +44,000 vs +70,000 expected; June +98,000."
-    },
-    {
-      "id": "5026967",
-      "time": "2026-08-05 20:15:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4260美元/盎司，日內漲2.60%。"
-    },
-    {
-      "id": "5026966",
-      "time": "2026-08-05 20:15:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月ADP就業人數 4.4萬人，預期7萬人，前值9.8萬人。"
-    },
-    {
-      "id": "mkt:019fd1d9-33c9-7aab-8f8a-f889c2219e9e",
-      "time": "2026-08-05 20:15:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | ADP Employment Change (Jul) | actual 44000K | consensus 70000K | previous 98000K"
-    },
-    {
-      "id": "mkt:019fd1d8-fdd7-7aab-8f8a-f2ee642e9f23",
-      "time": "2026-08-05 20:14:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's Kashkari said he remains open-minded and has no strong personal view."
-    },
-    {
-      "id": "5026965",
-      "time": "2026-08-05 20:14:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐蒙特美股盤前漲超5%】紐蒙特美股盤前漲超5%，現報102.75美元。"
-    },
-    {
-      "id": "5026964",
-      "time": "2026-08-05 20:14:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "Circle執行長表示，市場正逐漸脫離加密貨幣投機，轉向支援代幣化股票、代幣化大宗商品及其他代幣化資產交易的開放式全球數字資產市場。"
-    },
-    {
-      "id": "mkt:019fd1d8-4d8d-7aab-8f8a-e8551f7e77e7",
-      "time": "2026-08-05 20:14:01",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "KASHKARI said it is valuable to continue the tradition of explaining the Fed's reaction function."
-    },
-    {
-      "id": "5026963",
-      "time": "2026-08-05 20:13:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國股市熔斷頻發：槓桿堆積與半導體賽道極端擁擠風險】2026年的韓國股市，正在全球資本市場的注目下經歷一場罕見的壓力測試。截至8月5日，韓國綜合股價指數（KOSPI）年內已觸發9次全市場熔斷，而此前25年間這一數字合計僅為6次。與此同時，針對程式化交易的“側車”機制累計觸發逾70次，打破了2008年全球金融危機時創下的年度紀錄。7月28日與29日，KOSPI更是首次連續2個交易日觸發熔斷——7月單月跌幅達33.19%，重新整理1997年亞洲金融危機以來的紀錄，而7月31日又單日暴漲近18%，同樣改寫歷史。受訪人士指出，韓國股市暴漲暴跌是一場由槓桿狂熱、金融創新冒進與市場脆弱交易結構疊加催化的系統性風險釋放，其演進路徑與深層邏輯值得關注。（新華財經）"
-    },
-    {
-      "id": "mkt:019fd1d8-21d4-7aab-8f8a-e46e2a7736dd",
-      "time": "2026-08-05 20:13:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's Kashkari said he does not believe there is a fixed number of meetings."
     }
   ]
 }

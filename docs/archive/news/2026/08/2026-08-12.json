@@ -1,7 +1,82 @@
 {
   "date": "2026-08-12",
-  "count": 2205,
+  "count": 2213,
   "items": [
+    {
+      "id": "5037707",
+      "time": "2026-08-12 20:16:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京結束防汛二級應急響應】8月11日—12日，受強颱風“白海豚”及其殘渦暖溼氣流和北方冷空氣的影響，北京市遭遇一輪持續性強降雨天氣。全市平均降雨量34毫米，各區降雨量極不均勻，最大降雨量和最大雨強均出現在密雲區穆家峪鎮，為206毫米、96毫米/小時。順義、延慶等地短時雨強大，昌平小時雨強突破歷史極值。12日20時，氣象部門解除暴雨橙色預警，北京全市同步結束防汛二級應急響應。（央視新聞）"
+    },
+    {
+      "id": "5037706",
+      "time": "2026-08-12 20:15:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "貝塔科技（BETA Technologies）股價在盤前交易中季度業績公佈後下跌2.6%。"
+    },
+    {
+      "id": "5037705",
+      "time": "2026-08-12 20:14:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "葉門武裝部隊：在達利省北部蓋特巴以西地區打擊了胡塞武裝的集結點。"
+    },
+    {
+      "id": "mkt:019ff5e4-e8cd-7aab-9009-fe208bb935af",
+      "time": "2026-08-12 20:14:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Ceasefire window spurs restart; Saudi July crude output up >1 MBD to 8.2 MBD】Saudi Arabia told OPEC a temporary ceasefire window in the Iran conflict allowed Gulf producers to restore flows, lifting its July crude output by more than 1 MBD to 8.2 MBD from 7.1 MBD in June. Saudi production remains several million b/d below pre-conflict levels. The IEA estimates Saudi domestic crude stocks rose by early August to at least their highest since 2016. The U.S.-Iran ceasefire has collapsed and renewed hostilities heighten risk to two key export routes—the Strait of Hormuz and Bab al-Mandeb—though Middle Eastern producers are still quietly exporting large volumes. Among seven OPEC members reporting directly to the secretariat, combined output rose 1.88 MBD, with most of the increase from Iraq and Saudi."
+    },
+    {
+      "id": "5037704",
+      "time": "2026-08-12 20:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【停火視窗推動復產 沙特7月原油產量大增】沙特向歐佩克報告稱，受伊朗戰爭短暫停火期間波斯灣產油國供應恢復推動，該國上月原油產量增加超過100萬桶/日。根據最新的歐佩克月報，沙特表示，其7月原油產量為820萬桶/日，高於6月的710萬桶/日。不過，這一水平仍比衝突前低數百萬桶/日。國際能源署在一份報告中估計，截至8月初，沙特國內原油庫存已升至至少2016年以來最高水平。美伊停火破裂並重新爆發敵對行動，使沙特兩條主要出口通道——波斯灣的霍爾木茲海峽和紅海的曼德海峽——面臨風險。不過，中東產油國仍在低調地將大量原油運出該地區。在直接向歐佩克秘書處報告產量資料的7個成員國中，原油產量合計增加188萬桶/日，其中大部分增量來自伊拉克和沙烏地阿拉伯。"
+    },
+    {
+      "id": "mkt:019ff5e4-b516-7aab-9009-f32196b18e95",
+      "time": "2026-08-12 20:13:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report showed Saudi Arabia produced 8.2 mln bpd of crude in July, up from 7.1 mln bpd in June."
+    },
+    {
+      "id": "5037703",
+      "time": "2026-08-12 20:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Nebius 目前預計，2026 年末簽約電力規模將達 5 吉瓦。"
+    },
+    {
+      "id": "5037702",
+      "time": "2026-08-12 20:12:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【政策持續完善機制不斷最佳化 耐心資本加力深耕硬科技賽道】《中國證券報》12日刊發文章《政策持續完善機制不斷最佳化 耐心資本加力深耕硬科技賽道》。文章稱，近期，耐心資本加速佈局量子科技、具身智慧等未來產業態勢明顯，“投早、投小、投長期、投硬科技”的科創金融格局有望加速形成。市場人士預期，隨著私募基金領域“1+N+X”政策制度體系持續完善，長期投資考核與容錯機制不斷最佳化，耐心資本將加速暢通“科技-產業-金融”良性迴圈，為硬科技企業穿越週期、實現產業化突破提供持久動力。（新華社）"
+    },
     {
       "id": "mkt:019ff5e3-bcfd-7aab-9009-ead88e22e0a4",
       "time": "2026-08-12 20:12:50",
