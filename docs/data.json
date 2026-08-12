@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-13 03:05:04",
-  "count": 15051,
+  "updated": "2026-08-13 03:09:00",
+  "count": 15053,
   "items": [
+    {
+      "id": "mkt:019ff760-11d1-7aab-9012-bafdd20d2238",
+      "time": "2026-08-13 03:08:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said as of local time Aug 12 US forces have forced 59 merchant vessels to divert, disabled three vessels and boarded and inspected two."
+    },
+    {
+      "id": "5038083",
+      "time": "2026-08-13 03:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大和美國尚未準備好達成關稅協議，加方對美方最新提案表示不滿。"
+    },
+    {
+      "id": "5038082",
+      "time": "2026-08-13 03:05:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍中央司令部：截至8月12日，美軍已對59艘商船實施改道，使3艘商船喪失航行能力，並登檢2艘商船，確保各方完全遵守封鎖規定。"
+    },
+    {
+      "id": "mkt:019ff75d-6641-7aab-9012-b00f73af06e8",
+      "time": "2026-08-13 03:05:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada and the United States are not ready to conclude a tariff agreement; Canada says it is dissatisfied with the US's latest proposal."
+    },
+    {
+      "id": "mkt:019ff75c-f387-7aab-9012-ac6a3f17d438",
+      "time": "2026-08-13 03:04:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Persian Gulf Strait Authority said US officials' repeated claims that the Strait of Hormuz is no longer obstructed do not change the facts: the strait remains blocked and will not reopen unless Iran's conditions are accepted."
+    },
     {
       "id": "5038081",
       "time": "2026-08-13 03:03:30",
@@ -137375,30 +137418,6 @@
         "國際"
       ],
       "text": "墨西哥牛油果協會表示，美國發布的安全警報影響了米卻肯州的出口檢驗工作。"
-    },
-    {
-      "id": "mkt:019fd354-2b56-7aab-8f93-36bc23e87a6a",
-      "time": "2026-08-06 03:08:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Senate confirmed Erica Schwartz as director of the Centers for Disease Control and Prevention (CDC)."
-    },
-    {
-      "id": "5027444",
-      "time": "2026-08-06 03:08:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交大臣米利班德： 已與美國國務卿魯比奧就重啟霍爾木茲海峽通航的重要性展開磋商。"
-    },
-    {
-      "id": "5027443",
-      "time": "2026-08-06 03:06:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議院確認 Erica Schwartz 出任疾控中心主任。"
     }
   ]
 }
