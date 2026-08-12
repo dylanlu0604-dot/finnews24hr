@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-12 08:11:51",
-  "count": 15423,
+  "updated": "2026-08-12 08:15:41",
+  "count": 15419,
   "items": [
+    {
+      "id": "5036515",
+      "time": "2026-08-12 08:14:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：AI重塑遊戲行業 重點推薦具備AI UGC平臺性機遇的公司】中信證券研報表示，2025年以來，生成式AI持續降低遊戲研發門檻，推動內容生產從“人力密集”走向“智慧增強”，行業供給側由此迎來顯著擴容。但市場並未因此線性進入“百花齊放”的價值兌現階段，相反，玩家注意力、產品差異化與長線運營能力變得更加稀缺。中信證券認為，AI不會簡單攤薄遊戲行業的價值，反而將推動行業價值錨點從“能否生產內容”轉向“能否持續創造精品、獲取流量並完成商業化兌現”。遊戲行業正在從“產能約束”時代，走向“稀缺性重估”時代，其中頭部公司最為受益。中信證券判斷，AI在遊戲產業鏈的價值釋放主要分為兩個階段：短期，AI進入頭部廠商研發管線，提升長青產品維護、高規格新品開發和全球化試錯能力；中長期，隨著模型能力提升、Token成本下降和平臺基礎設施完善，AI有望透過AI UGC擴大內容供給、透過AI Native創造新型體驗，進一步擴大市場規模。重點推薦全鏈路工業化能力領先的頭部公司，具備AI UGC平臺性機遇的公司，並建議關注具備內容平臺基礎的企業。"
+    },
+    {
+      "id": "5036514",
+      "time": "2026-08-12 08:14:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市有望連續第三個交易日上漲】週三，韓國股市開盤走高，受週二晚間Super Micro和CoreWeave股價飆升提振，市場情緒改善。如果韓國綜合股價指數（KOSPI）能夠守住早盤漲幅，那麼它將迎來自7月23日以來的首次三連漲。"
+    },
     {
       "id": "5036513",
       "time": "2026-08-12 08:11:18",
@@ -140492,90 +140510,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed official Schmid welcomed recent inflation data but said it is too early to say whether inflation is slowing."
-    },
-    {
-      "id": "mkt:019fcf46-a11a-7aab-8f7a-7ca4b905e4ec",
-      "time": "2026-08-05 08:15:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Copper"
-      ],
-      "text": "Fed's Schmid says the overall economy is performing well and growth is resilient."
-    },
-    {
-      "id": "mkt:019fcf46-a00e-7aab-8f7a-77eb1a3d0892",
-      "time": "2026-08-05 08:15:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve official Schmid said the Fed's current policy stance is not restrictive."
-    },
-    {
-      "id": "mkt:019fcf46-8cd8-7aab-8f7a-6dfc1bafc393",
-      "time": "2026-08-05 08:15:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve official Schmid said inf remains too high and is concerning."
-    },
-    {
-      "id": "mkt:019fcf46-58a4-7aab-8f7a-6177cea0e45c",
-      "time": "2026-08-05 08:15:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed’s Schmid said tighter monetary policy is needed to restore inf to the 2% target."
-    },
-    {
-      "id": "mkt:019fcf44-eb85-7aab-8f7a-5ce6ccae92c7",
-      "time": "2026-08-05 08:13:48",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "BOJ minutes: one member said Japanese inf could feed through to wages."
-    },
-    {
-      "id": "mkt:019fcf43-735d-7aab-8f7a-5277f5edb86f",
-      "time": "2026-08-05 08:12:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Nasdaq100",
-        "Copper"
-      ],
-      "text": "【CSC Financial August sector report: pricing returns to fundamentals, seize growth-repair window】CSC Financial says July saw a broad A-share pullback and deep correction in growth: China's Shanghai Composite Index fell 6.4% and the ChiNext -23.0%, with small-cap growth notably pressured; coal, oil & petrochemicals and banks outperformed. With interim results disclosure and overseas tech shocks abating, market pricing is reverting to fundamentals, creating valuation-repair opportunities in tech growth. Cyclical beaters include tech manufacturing and industrial metals: memory prices continue to rise amid higher cloud-provider capex guidance; industrial-robot output was up 28% YoY and automation capex is being realized; industrial-metal inventories remain low alongside supply constraints, supporting prices. Recommended positioning: target rebounds in July-oversold but still uptrending tech-growth names, while keeping exposure to cyclicals and manufacturing names with clearer earnings improvement."
     }
   ]
 }
