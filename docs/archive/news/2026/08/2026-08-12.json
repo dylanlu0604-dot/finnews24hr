@@ -1,7 +1,27 @@
 {
   "date": "2026-08-12",
-  "count": 1025,
+  "count": 1027,
   "items": [
+    {
+      "id": "mkt:019ff447-6fee-7aab-9000-9878dbe986a8",
+      "time": "2026-08-12 12:42:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Omdia raises 2026 global semiconductor revenue growth forecast to 94.1% as AI demand surges】Omdia says sustained AI demand outstripping global supply has driven strong DRAM and NAND growth and prompted it to lift its 2026 global semiconductor revenue forecast to +94.1% YoY. Memory ICs are expected to account for over 50% of total semiconductor revenue in 2026. Omdia warns AI demand already exceeds current chip fabrication and packaging capacity; bottlenecks in HBM, advanced packaging and leading‑edge process capacity are expected to persist at least through 2027."
+    },
+    {
+      "id": "te:markets:574616",
+      "time": "2026-08-12 12:39:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Falls for Second Day — India’s BSE Sensex fell about 0.3% to 77,957 on Wednesday, following the losses on the previous session as rising crude oil prices and caution ahead of domestic and US inflation data weighed on risk sentiment. Oil prices moved closer to $90 a barrel as concerns over tensions in the Middle East and uncertainty around the reopening of the Strait of Hormuz raised fears of higher energy costs. India’s annual inflation rate for July is also due later today, with forecasts pointing to a rise to 4.5% from 4.38%, which marked the highest rate since December 2024. Among stocks, Godrej Consumer Products was a major decliner. Its shares fell about 9.4% to their lowest level in more than three years after CEO Sudhir Sitapati unexpectedly resigned, just months after being reappointed, while Tata Group stocks also came under pressure following reports that Tata Sons Chairman N. Chandrasekaran may step down. Top losers included Dr. Agarwal’s (-5.7%), Tenneco Clean Air (-2.2%), and Manappuram (-1.7%)"
+    },
     {
       "id": "5036853",
       "time": "2026-08-12 12:37:44",

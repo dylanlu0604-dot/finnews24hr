@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-12 12:39:13",
-  "count": 15282,
+  "updated": "2026-08-12 12:43:09",
+  "count": 15270,
   "items": [
+    {
+      "id": "mkt:019ff447-6fee-7aab-9000-9878dbe986a8",
+      "time": "2026-08-12 12:42:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Omdia raises 2026 global semiconductor revenue growth forecast to 94.1% as AI demand surges】Omdia says sustained AI demand outstripping global supply has driven strong DRAM and NAND growth and prompted it to lift its 2026 global semiconductor revenue forecast to +94.1% YoY. Memory ICs are expected to account for over 50% of total semiconductor revenue in 2026. Omdia warns AI demand already exceeds current chip fabrication and packaging capacity; bottlenecks in HBM, advanced packaging and leading‑edge process capacity are expected to persist at least through 2027."
+    },
+    {
+      "id": "te:markets:574616",
+      "time": "2026-08-12 12:39:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Falls for Second Day — India’s BSE Sensex fell about 0.3% to 77,957 on Wednesday, following the losses on the previous session as rising crude oil prices and caution ahead of domestic and US inflation data weighed on risk sentiment. Oil prices moved closer to $90 a barrel as concerns over tensions in the Middle East and uncertainty around the reopening of the Strait of Hormuz raised fears of higher energy costs. India’s annual inflation rate for July is also due later today, with forecasts pointing to a rise to 4.5% from 4.38%, which marked the highest rate since December 2024. Among stocks, Godrej Consumer Products was a major decliner. Its shares fell about 9.4% to their lowest level in more than three years after CEO Sudhir Sitapati unexpectedly resigned, just months after being reappointed, while Tata Group stocks also came under pressure following reports that Tata Sons Chairman N. Chandrasekaran may step down. Top losers included Dr. Agarwal’s (-5.7%), Tenneco Clean Air (-2.2%), and Manappuram (-1.7%)"
+    },
     {
       "id": "5036853",
       "time": "2026-08-12 12:37:44",
@@ -139032,130 +139052,6 @@
         "國際"
       ],
       "text": "印度儲備銀行行長：2027財年消費者物價指數通脹預期為5%，此前預期為5.1%。"
-    },
-    {
-      "id": "5025997",
-      "time": "2026-08-05 12:42:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：全球油價持續波動，令短期前景變得模糊不明。整體通脹壓力溫和，但第二輪效應風險仍存。"
-    },
-    {
-      "id": "mkt:019fd03b-1cdb-7aab-8f80-fac6a3a03f1b",
-      "time": "2026-08-05 12:42:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said overall inf pressure is moderate, but risks of second‑round effects remain."
-    },
-    {
-      "id": "mkt:019fd03a-ff78-7aab-8f80-f55d40dc3889",
-      "time": "2026-08-05 12:42:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact mixed"
-      ],
-      "text": "Reserve Bank of India governor said global oil prices remain volatile, rendering the near-term outlook uncertain."
-    },
-    {
-      "id": "mkt:019fd03a-f446-7aab-8f80-e8b317885e4b",
-      "time": "2026-08-05 12:42:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Reserve Bank of India holds repo rate at 5.25% for fourth straight meeting, keeps neutral stance】The Reserve Bank of India left the repo rate at 5.25% for a fourth consecutive policy meeting, as expected. The six-member Monetary Policy Committee, led by Governor Sanjay Malhotra, voted unanimously. The MPC retained a neutral stance, citing inflation remaining within the 2%-6% target range. The central bank said it is monitoring energy-price rises from the Iran conflict for broader inflation pass-through and will consider policy action only if those supply shocks generate sustained, wider inflationary pressure."
-    },
-    {
-      "id": "5025996",
-      "time": "2026-08-05 12:42:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：主動的供應管理和充足的糧食儲備應當能穩定市場信心。"
-    },
-    {
-      "id": "mkt:019fd03a-9619-7aab-8f80-e5562e1485f9",
-      "time": "2026-08-05 12:42:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says El Niño's impact on rainfall distribution remains the main risk."
-    },
-    {
-      "id": "5025995",
-      "time": "2026-08-05 12:41:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小紅書：排查數十類涉未成年人高發風險，累計處置違規賬號3571個】8月4日，小紅書釋出關於毒動畫等涉未成年人違規內容的治理公告：小紅書高度重視未成年人網路保護工作，將守護未成年人健康成長作為平臺的重要責任。為落實“清朗·未成年人網路保護”專項行動要求，平臺持續加強涉未成年人有害內容和違法違規行為治理。自專項行動啟動以來，截至8月4日，平臺全面排查數十類涉未成年人高發風險，已累計處置違規筆記8.4萬餘篇、違規評論10.5萬餘條、違規賬號3571個。"
-    },
-    {
-      "id": "5025994",
-      "time": "2026-08-05 12:41:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：2027財年實際GDP增速預期為6.7%（此前預期為6.6%）；預計27財年第二季度實際國內生產總值增長率為6.4%（此前預測為6.3%）；預計27財年第三季度實際國內生產總值（GDP）增長率為6.5%（此前預期同為6.5%）；預計2027財年第四季度實際國內生產總值增速為6.8%。"
-    },
-    {
-      "id": "mkt:019fd039-9e26-7aab-8f80-dab2c4c102cb",
-      "time": "2026-08-05 12:41:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says growth risks are evenly distributed."
-    },
-    {
-      "id": "mkt:019fd039-33f7-7aab-8f80-d6ebbdb283d4",
-      "time": "2026-08-05 12:40:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reserve Bank of India governor says FY2027 real GDP growth is expected at 6.7%, up from 6.6% previously."
-    },
-    {
-      "id": "mkt:019fd038-bd88-7aab-8f80-cae313c559a1",
-      "time": "2026-08-05 12:40:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "7267.T"
-      ],
-      "text": "Nikkei reports Honda Motor will halt production at its Niigata, Japan plant from Aug 6-19, covering the already scheduled summer shutdown from Aug 8-16."
-    },
-    {
-      "id": "5025993",
-      "time": "2026-08-05 12:39:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期國債漲幅擴大；收益率下跌5個基點至6.77%。"
-    },
-    {
-      "id": "5025992",
-      "time": "2026-08-05 12:39:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "由於零部件短缺影響四輪汽車生產，本田將暫停四日市工廠的運營至8月19日，其中包括8月8日至16日預先安排的夏季假期。"
-    },
-    {
-      "id": "mkt:019fd038-3cbe-7aab-8f80-c67c9c50dbbf",
-      "time": "2026-08-05 12:39:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reserve Bank of India governor said core inflation remains moderate despite rising prices."
     }
   ]
 }
