@@ -1,7 +1,20 @@
 {
-  "updated": "2026-08-13 01:35:10",
-  "count": 15079,
+  "updated": "2026-08-13 01:39:05",
+  "count": 15078,
   "items": [
+    {
+      "id": "mkt:019ff70a-ed3c-7aab-9011-f1c2bc494201",
+      "time": "2026-08-13 01:35:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns."
+    },
     {
       "id": "mkt:019ff70a-574b-7aab-9011-ee4bd875fd25",
       "time": "2026-08-13 01:34:37",
@@ -137602,22 +137615,6 @@
         "公司"
       ],
       "text": "滙豐上調金風科技A股評級至買入，目標價26.30元人民幣。"
-    },
-    {
-      "id": "mkt:019fd300-43b9-7aab-8f92-39b744424856",
-      "time": "2026-08-06 01:37:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran says it has not yet decided on entering a second phase of talks with the United States."
-    },
-    {
-      "id": "5027406",
-      "time": "2026-08-06 01:35:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：關於美伊第二階段談判，目前還沒有決定。"
     }
   ]
 }

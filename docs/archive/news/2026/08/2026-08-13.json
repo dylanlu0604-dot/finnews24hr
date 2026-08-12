@@ -1,7 +1,20 @@
 {
   "date": "2026-08-13",
-  "count": 79,
+  "count": 80,
   "items": [
+    {
+      "id": "mkt:019ff70a-ed3c-7aab-9011-f1c2bc494201",
+      "time": "2026-08-13 01:35:16",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Sources said Google (GOOG.O) executives held an all-hands meeting last week to discuss restructuring the company’s AI division in response to employee concerns."
+    },
     {
       "id": "mkt:019ff70a-574b-7aab-9011-ee4bd875fd25",
       "time": "2026-08-13 01:34:37",
