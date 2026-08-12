@@ -1,7 +1,80 @@
 {
   "date": "2026-08-12",
-  "count": 588,
+  "count": 596,
   "items": [
+    {
+      "id": "te:markets:574550",
+      "time": "2026-08-12 08:57:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rise in Post-Holiday Trade — The Nikkei 225 Index rose 0.1% to above 67,000 while the broader Topix Index gained 0.3% to 4,113 in post-holiday trading on Wednesday, extending this week’s advance as technology and financial stocks moved higher. Sentiment toward technology stocks was supported by upbeat outlooks from CoreWeave and Super Micro Computer, with both companies benefiting from the ongoing artificial intelligence spending boom. Notable performers included Kioxia Holdings (2.7%), Advantest (0.8%) and Recruit Holdings (2.6%). Major banks also advanced, including Mitsubishi UFJ (2.2%), Sumitomo Mitsui (2.5%) and Mizuho Financial (1.8%). On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”"
+    },
+    {
+      "id": "5036564",
+      "time": "2026-08-12 08:57:52",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【黃金在美國通脹資料公佈前小幅走高】亞洲早盤黃金小幅走高，隨著投資者等待美國通脹資料，以尋找有關美聯儲政策路徑的線索。Critical Metals執行長Tony Sage在一份報告中表示，更強勁的資料可能會強化更緊縮的政策，並對黃金施加進一步壓力。他補充說，另一方面，較疲軟的結果可能會帶來一些緩解。降息通常有利於不生息的黃金。現貨黃金上漲0.2%，報每盎司4,380.12美元。"
+    },
+    {
+      "id": "5036563",
+      "time": "2026-08-12 08:57:04",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利上調LG電子評級 並大幅上調公司目標價】摩根士丹利將LG電子評級由持有上調至超配，稱該公司及其子公司LG Innotek特在AI下一階段行情中具備突出優勢。受此訊息影響LG電子股價上漲8.6%。注：該股週三除息。摩根士丹利將該股的目標價從95,000韓元大幅上調至260,000韓元。LG Innotek股價上漲高達7.1%。摩根士丹利同樣將LG Innotek評級由持有上調至超配，目標價自265000韓元上調至640000韓元。摩根士丹利分析師在研報中表示：“我們認為AI行情下一階段的受益標的將從半導體拓展至智慧硬體領域”，而上述兩家企業在此領域佔據有利地位。對於LG Display，摩根士丹利維持持有評級，目標價由16800韓元下調至10000韓元。"
+    },
+    {
+      "id": "mkt:019ff378-0944-7aab-8ffc-e67406e7dd72",
+      "time": "2026-08-12 08:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Prime Minister Luxon said he has party support amid a leadership challenge."
+    },
+    {
+      "id": "5036562",
+      "time": "2026-08-12 08:55:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭總理盧克森表示，他不會辭職。"
+    },
+    {
+      "id": "5036561",
+      "time": "2026-08-12 08:55:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上線不到一個月，米哈遊“新作”宣佈停服】8月11日，米哈遊釋出公告，旗下Steam搶先體驗AI陪伴產品《BSide：Olivia Lin》（林離）停止線上運營。這款7月13日才開啟搶先體驗的產品，線上生命週期不足一個月，官方將提供離線版本保留本地功能完成收尾。就在一個月前，米哈遊聯合創始人蔡浩宇旗下Anuttacon的AI陪伴產品AnuNeko（AI貓娘），也已經宣佈永久關停，兩大二次元向AI陪伴試驗專案接連走向終點。"
+    },
+    {
+      "id": "5036560",
+      "time": "2026-08-12 08:55:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理工光科：目前尚未有多模態感知融合相關產品或重大專案落地】理工光科(300557)8月12日在互動平臺表示，公司在分散式光纖、光柵陣列感測、振動/應變/溫度監測及智慧識別演算法方面具備長期的技術積累，現有光纖振動感測、陣列光柵感測光纜等技術，具備作為該專利中底層振動感知硬體的技術可能性。截至目前，公司尚未有多模態感知融合相關產品或重大專案落地，公司將持續關注相關領域的技術發展和市場機會。"
+    },
+    {
+      "id": "5036559",
+      "time": "2026-08-12 08:54:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【量子計算公司Quantinuum與甲骨文達成多年合作】當地時間8月11日，量子計算公司Quantinuum與甲骨文宣佈建立多年戰略合作伙伴關係，向在美甲骨文雲基礎設施（OCI）AI資料中心部署Quantinuum的量子計算機Helios。根據協議，OCI客戶將能夠透過OCI的量子服務直接訪問Helios，並結合使用OCI的高效能運算（HPC）及GPU基礎設施。"
+    },
     {
       "id": "5036558",
       "time": "2026-08-12 08:53:48",
