@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-13 05:17:13_
-_本檔包含 3095 則快訊，約 589673 字_
+_更新時間：2026-08-13 06:19:26_
+_本檔包含 3073 則快訊，約 589957 字_
+
+---
+
+### 2026-08-07 11:13:36  #公司 #市場
+
+【創新藥、CRO概念漲勢擴大 十餘隻成分股漲停】創新藥、CRO概念盤中持續擴大漲幅，畢得醫藥、藥康生物、百普賽斯、凱萊英、百花醫藥等十餘股漲停，近岸蛋白、博騰股份、皓元醫藥、美迪西等多股漲超10%。
+
+---
+
+### 2026-08-07 11:13:16  #其他
+
+【剛果（金）埃博拉確診病例超4000例】剛果（金）衛生部6日公佈的資料顯示，該國本輪埃博拉疫情累計確診病例已達4053例。非洲疾病預防控制中心主任卡塞亞當天表示，實際感染人數可能高於已報告病例數。剛果（金）衛生部公佈的資料顯示，截至5日，該國累計報告埃博拉確診病例4053例，其中死亡1850例，累計治癒793例。卡塞亞6日線上上記者會上說，實際感染人數或高於現有統計。本輪疫情嚴重程度前所未有，有關方面將開展研究，弄清病毒是否發生變異，以便有針對性地調整應對措施。(新華社)
+
+---
+
+### 2026-08-07 11:12:05  #MKT News #Market Regions #Greater China #Market Themes #The Trump Trade #JKS.O #Impact mixed
+
+【Solar majors respond to U.S. polysilicon tariffs】On Aug. 6 President Trump signed an executive order under Section 232 of the Trade Expansion Act of 1962 imposing minimum import prices and additional tariffs on imported polysilicon and derivatives to support U.S. polysilicon, semiconductor and solar supply chains. JinkoSolar said it needs further assessment of the new measures and will communicate after analysis, including reference to third‑party studies. Trina Solar said it mainly sells modules, that polysilicon is only one input, its North American exports are limited and shipments go through partners, so any immediate impact should be small.
+
+---
+
+### 2026-08-07 11:11:37  #市場 #國際 #原創
+
+【亞洲煉油商據悉採購美國原油 將於9月裝船】據知情交易員透露，亞洲煉油商近日採購了數船美國原油，將於9月裝船，每筆採購量約為200萬桶。買家包括泰國PTT和韓國SK Energy。據悉，日本煉油商Idemitsu也採購了一些美國原油，但相關貨物的最終目的地尚不清楚。
+
+---
+
+### 2026-08-07 11:11:11  #其他
+
+【影石產品將上線AI語音助手，分割槽域接入阿里千問和Gemini模型】影石Insta360將於8月7日為GO Ultra拇指相機上線AI語音助手。該功能按區域採用不同大模型方案：中國大陸地區接入阿里千問大模型，中國港澳臺及海外地區使用Google Gemini，翻譯結果可透過機身揚聲器直接播報。據瞭解，此次AI語音助手以影石自研為核心，融合阿里千問大模型的多模態能力及千問App的拍照問答能力。端側完成聲紋識別、意圖判斷，雲端則承擔問答、模式切換、翻譯等複雜任務。(新浪科技)
+
+---
+
+### 2026-08-07 11:10:24  #公司
+
+【汪峰已成立科技公司 名下多家音樂公司已登出】據媒體報道，近日，歌手汪峰在節目中自曝，其公司因全面引入Al技術，團隊規模已從1100人最佳化至400人，相關話題引發熱議。天眼查App顯示，汪峰名下關聯超20家企業，其中多家企業處於存續狀態，包括南京果醬文化發展有限公司、江西斐耳科技有限公司等。
+
+---
+
+### 2026-08-07 11:10:16  #市場
+
+隔夜SHIBOR報1.3610%，上漲0.80個基點。7天SHIBOR報1.3910%，上漲0.80個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。
+
+---
+
+### 2026-08-07 11:09:29  #Trading Economics #Economy #Indonesia #Foreign Exchange Reserves #Importance 1
+
+Indonesia Forex Reserves Fall in July — Indonesia's foreign exchange reserves fell to USD 145.3 billion in July 2026 from USD 145.6 billion in June. The decline was mainly driven by government foreign debt repayments and Bank Indonesia's currency market interventions to support the rupiah amid renewed volatility in global financial markets, despite inflows from tax and service revenues and the issuance of government global bonds. The reserves remained robust, covering 5.5 months of imports or 5.3 months of imports and government external debt repayments, comfortably above the international adequacy benchmark of around three months. Bank Indonesia said the reserve buffer remains sufficient to safeguard external sector stability and support overall macroeconomic and financial system resilience. Looking ahead, the central bank expects the external sector to remain resilient, underpinned by ample foreign exchange reserves and sustained capital inflows.
+
+---
+
+### 2026-08-07 11:09:27  #其他
+
+本田中國1-7月汽車銷量230870輛，同比下降35.9%。
+
+---
+
+### 2026-08-07 11:08:08  #其他
+
+【臺積電研發二維電晶體新技術，突破先進半導體材料介面瓶頸】臺灣陽明交通大學與臺積電企業研發團隊在二維半導體領域取得新進展，提出一種原子級介面工程技術，可在縮小電晶體尺寸的同時保持高電氣效能，有望推動下一代低功耗半導體技術發展。相關研究成果發表於《自然·電子學》。研究團隊表示，二維半導體材料僅有單原子厚度，具備優異電學特性，被視為超越矽基晶片限制的潛在材料。但在製造電晶體時，超薄絕緣層與半導體之間的介面容易產生缺陷，導致電子散射，使電晶體效能提升面臨瓶頸。研究人員透過在單層二硫化鉬（MoS₂）半導體表面構建超薄氧化鋁介面層，再結合高介電常數氧化鉿柵介質，改善材料介面質量，使電晶體同時實現更強電控能力和較高載流子遷移效能。
+
+---
+
+### 2026-08-07 11:07:49  #其他
+
+本田中國7月汽車銷量25052輛，同比下降44.1%。
+
+---
+
+### 2026-08-07 11:06:58  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時縮量523億元。
+
+---
+
+### 2026-08-07 11:05:19  #公司
+
+【張朝陽：人更需要出來交流，AI讓內容產生了塑膠感】搜狐創始人、董事局主席兼執行長張朝陽在接受採訪時表示，真人互動與真實內容是AI永遠替代不了的。資訊獲取和真人的溝通是兩回事，AI目前取代不了人類交流。在資訊海洋裡，人更需要出來交流。AI時代，真實互動的環境更加難能可貴。聊到內容從業者的AI焦慮，他用一個比喻做了回應：“現在AI產生的東西，讓媒體和內容產生了塑膠的感覺。就像化肥催出來的西紅柿，看著光鮮，吃著一點味道都沒有；帶點泥的胡蘿蔔，看著不是那麼好看，但是很好吃、有味道。”（介面新聞）
+
+---
+
+### 2026-08-07 11:05:18  #MKT News
+
+【Reported detention of ex-ultimate controller Ai Luming; SanTe Cableway says unaware, operations normal】SanTe Cableway said it is unaware of reports that former ultimate controller Ai Luming has been criminally detained, that Ai has no control or controlled relationship with the company, and that operations are normal. The company said all non-operating fund occupancies, together with corresponding interest, were repaid in cash in April 2022. SanTe Cableway returned to state ownership in 2023 and has reported three consecutive years of net profit growth. Media reports on Aug. 5 cited a lawyer saying Ai was detained on suspicion of illegally absorbing public deposits; the lawyer’s post has been deleted.
+
+---
+
+### 2026-08-07 11:04:07  #公司
+
+【北汽集團成立元啟物理智慧科技公司】企查查APP顯示，近日，北京元啟物理智慧科技有限公司成立，法定代表人為張焱，註冊資本為8億元，經營範圍包含新能源汽車整車銷售；汽車零部件研發；智慧車載裝置製造；智慧機器人的研發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由北京汽車集團有限公司全資持股。
+
+---
+
+### 2026-08-07 11:03:38  #公司
+
+【原實控人艾路明被刑事拘留？三特索道：無從知曉 經營一切正常】就“艾路明被刑事拘留”情況是否屬實及進展，三特索道對記者回應稱，公司無從知曉該事項情況，艾路明與公司不存在控制與被控制關係。目前公司經營一切正常。此前有報道稱，“律師稱湖北前首富艾路明被刑拘，涉嫌非法吸收公眾存款”。目前，該律師相關發文已刪除。 (貝殼財經)
+
+---
+
+### 2026-08-07 11:02:52  #公司
+
+【揚子江船業上半年淨利潤54億元 創歷史新高】據揚子江船業7日訊息，揚子江船業近日釋出2026年上半年度財務報告，公司營業收入及盈利能力均創歷史新高。得益於集團造船核心業務的強勁增長，報告期內實現營業收入175億元，同比增長36.2%，其中核心造船業務佔總營收比重約94%；毛利潤達63億元，同比增長42.8%；實現淨利潤54億元，同比增長28.4%。
+
+---
+
+### 2026-08-07 11:02:37  #其他
+
+【哨點醫院新冠陽性率衝到22.3%仍排第一，但升勢在趨緩了】中國疾病預防控制中心最新發布的全國急性呼吸道傳染病哨點監測情況顯示：2026年第31周，全國哨點醫院門急診流感樣病例呼吸道樣本檢測陽性率前三位病原體中，新冠依舊排在第一位，陽性率達到22.3%，較前一週環比增加1.9個百分點。緊接著是流感病毒和腸道病毒，陽性率分別為13.3%、4.1%，較前一週分別環比下降0.9個百分點、1.8個百分點。住院嚴重急性呼吸道感染病例呼吸道樣本檢測陽性率前三位病原體中，新冠同樣繼續排在第一位，陽性率為8.2%，較前一週環比下降1.3個百分點；流感排在第二位，陽性率為5.8%，環比減少0.4個百分點；人偏肺病毒排在第三位，陽性率為5.5%，環比增加1.3個百分點。（第一財經）
+
+---
+
+### 2026-08-07 11:01:30  #央行 #國際
+
+【日本二季度3次干預外匯市場未改日元貶值趨勢】日本財務省7日公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。資料顯示，日本政府和央行於4月30日、5月4日和5月6日實施買入日元、賣出美元操作，累計干預規模達11.73萬億日元。其中，4月30日單日干預規模達6.28萬億日元，超過2024年4月29日創下的5.92萬億日元紀錄，創日本有統計以來單日匯率干預規模新高。在上述干預措施實施前，日元對美元匯率一度跌至1美元兌換160日元區間。干預後日元匯率一度回升，但漲勢未能持續。7月下旬，日元匯率一度逼近1美元兌換164日元。分析人士普遍認為，如果不改變基本面，單靠匯率干預難以扭轉日元頹勢。
+
+---
+
+### 2026-08-07 11:00:46  #MKT News
+
+Indonesia's foreign exchange reserves fell to $100 mln at end-July.
+
+---
+
+### 2026-08-07 11:00:31  #其他
+
+零跑汽車：零跑A10第10萬臺量產車正式下線。
+
+---
+
+### 2026-08-07 10:59:52  #國際
+
+印尼7月底外匯儲備降至1453億美元。
+
+---
+
+### 2026-08-07 10:57:18  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Climbs as Oil Prices Rebound — Japan’s 10-year government bond yield rose to around 2.78% on Friday, snapping a two-session decline as rebounding oil prices, driven by renewed tensions in the Strait of Hormuz, reignited concerns about inflation and the interest rate outlook. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and underscoring continued weakness in consumer demand. On the monetary policy front, investors are looking toward a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week. Minutes from the July policy meeting showed that several board members expect consumer inflation to accelerate significantly in the second half of the current fiscal year as companies continue implementing broad-based price increases across a wide range of goods.
 
 ---
 
@@ -18416,281 +18554,5 @@ Energy Commodities Updates: Germany Natural Gas THE Slumps by 5.86% — Top comm
 ### 2026-08-06 06:19:45  #公司
 
 市場訊息：Meta 的 Muse Spark 1.1 模型入侵了一家公司的系統，並對其內部系統作出修改。
-
----
-
-### 2026-08-06 06:19:19  #公司
-
-市場訊息： Meta 的一款人工智慧模型在網路安全測試過程中入侵了另一家公司。
-
----
-
-### 2026-08-06 06:19:02  #公司
-
-【32只ETF密整合立，機構投資者加速入場】在三季度以來的震盪行情中，機構加快了ETF新品入市步伐。Choice資料顯示，7月1日至8月5日，已成立了32只ETF，發行規模合計達76.12億元。從這些新成立ETF的“買主”看，機構投資者身影頻頻出現。以華安中證工程機械主題ETF為例，截至7月31日，前十名基金份額持有人均為機構投資者。與此同時，ETF產品陣營有望持續擴容。據Choice資訊統計，截至8月5日，有21只ETF正在發行，另有4只ETF釋出了基金份額髮售公告，即將啟動發行。（上證報）
-
----
-
-### 2026-08-06 06:18:56  #市場
-
-【債市走出超預期行情，10年期國債收益率盤中跌破1.7%】近期，債市走出超預期行情。8月5日，債市做多情緒延續，10年期國債活躍券收益率盤中一度跌破1.7%關鍵關口，30年期國債活躍券收益率繼續處於年內低位附近。業內人士表示，本輪債市突破並非單一利好驅動，而是政策想象空間開啟、資金面均衡偏松、機構行為切換及風險偏好回落等多重因素共同作用的結果。不過，10年期國債收益率下破1.7%後並未快速遠離這一關鍵點位，顯示市場在關鍵關口仍有分歧。後續債市能否進一步開啟下行空間，仍需觀察。（上證報）
-
----
-
-### 2026-08-06 06:18:45  #市場 #國際
-
-特朗普：伊朗局勢結束後，油價將會下跌。
-
----
-
-### 2026-08-06 06:18:27  #市場
-
-【閃迪2026財年分析師電話會議要點總結】
-一、創紀錄的財務業績與業績指引。
-1、第四季度業績表現：營收達89.65億美元（季環比增長51%，同比增長372%），超出指引上限。環比增長中，約三分之一來自出貨量（Bits）增長，三分之二來自價格上漲。
-2、毛利率與每股收益（EPS）：Non-GAAP毛利率升至84.6%（上一季度為78.4%）；Non-GAAP EPS達39.25美元（指引區間為30–33美元）。
-3、現金流與資本回報：運營現金流為71.26億美元；當季透過股票回購向股東回報45億美元。
-4、2026全財年業績：全年總營收達202.48億美元（同比增長175%），出貨量增長處於十幾（mid-teens）的中段，符合預期。
-5、2027 財年第一季度指引：預計營收103億-108億美元，增長動力來自出貨量增加和價格的適度上漲。預計非GAAP毛利率在83%-85%之間，非GAAP EPS為44-46美元。
-
----
-
-### 2026-08-06 06:17:01  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【Brazil central bank cuts benchmark rate to 14%】On Aug 5 local time, Brazil's central bank MPC cut the benchmark policy rate to 14%, its fourth consecutive cut and the lowest level in nearly a year. Despite renewed Middle East conflict lifting oil prices and adding inflationary pressure in Brazil, markets expect the easing cycle to continue and price a further cut to 13.75% by end-2026.
-
----
-
-### 2026-08-06 06:15:03  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: South Korean Won Appreciates by 0.51% — Top currency gainers are South Korean Won (0.51%), Brazilian Real (0.48%), Swedish Krona (0.40%), Euro (0.19%) and British Pound (0.11%). Biggest loser is Dollar Index (-0.17%). Meanwhile Japanese Yen was little changed.
-
----
-
-### 2026-08-06 06:14:42  #央行 #市場 #國際
-
-【巴西央行下調基準利率至14%】當地時間8月5日，巴西央行貨幣政策委員會宣佈將基準利率下調至14%。這是巴西央行連續第四次降息並下調至近一年以來的最低點。儘管中東衝突再起導致油價上漲為巴西通脹帶來壓力，市場預期降息週期將持續，並在2026年底下調至13.75%。（央視新聞）
-
----
-
-### 2026-08-06 06:09:26  #觀點
-
-【摩根大通：科技股交易在經歷慘烈拋售後，散戶影響力或將加大】據摩根大通對科技、媒體和電信板塊股票多空對沖基金初步資料的評估，科技股交易在經歷7月的慘烈拋售後，可能正變得更加依賴散戶投資者，波動性也將加劇。摩根大通策略師帕尼吉爾佐格盧（Nikolaos Panigirtzoglou）等人認為，Pivotal Path的資料顯示，此類對沖基金在7月虧損超過10%。這一回撤幅度尚未計入Situational Awareness基金——該基金在半導體和科技股遭遇劇烈拋售後，上週被迫出售了其大部分公開股票投資組合。帕尼吉爾佐格盧認為，這表明其他專注於科技股的股票多空對沖基金可能也遭遇了半導體和儲存晶片股的強制平倉。
-
----
-
-### 2026-08-06 06:04:51  #其他
-
-eBay 首席財務官：第三季度合併商品交易總額（GMV）預期介於 220 億至 224 億美元之間，包含近期收購的 Depop 帶來的影響。
-
----
-
-### 2026-08-06 06:00:52  #市場 #焦點
-
-現貨黃金突破4250美元/盎司，日內漲0.07%。
-
----
-
-### 2026-08-06 06:00:51  #市場 #焦點
-
-紐約期金突破4310美元/盎司，日內漲0.10%。
-
----
-
-### 2026-08-06 06:00:40  #央行 #國際
-
-【美聯儲9月加息25個基點的機率為54.4%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為45.6%，累計加息25個基點的機率為54.4%。美聯儲到10月維持利率不變的機率為33.5%，累計加息25個基點的機率為52.1%，累計加息50個基點的機率為14.5%。
-
----
-
-### 2026-08-06 05:59:03  #Trading Economics #Economy #Brazil #Interest Rate #Importance 1
-
-Brazil Central Bank Cuts Key Rate to 14% — Brazil's central bank cut its benchmark interest rate by 25 basis points to 14.00% at its August meeting, in line with market expectations. The decision reflects a cautious approach amid heightened global uncertainty stemming from Middle East conflicts and uncertainty over monetary policy in advanced economies. Domestically, the central bank noted that economic activity continues to moderate gradually while remaining resilient, supported by a strong labor market. Headline inflation has eased but remains above the target range, while core inflation has slowed to slightly below the upper limit of the target band. Inflation expectations remain elevated, with the Focus survey projecting inflation at 5.0% in 2026 and 4.2% in 2027. The Copom reiterated that inflation risks remain skewed to the upside and said future policy decisions will depend on incoming economic data to ensure inflation converges to target.
-
----
-
-### 2026-08-06 05:58:26  #MKT News
-
-US President Trump said Republicans need to be tougher in the Senate.
-
----
-
-### 2026-08-06 05:57:26  #國際
-
-特朗普：我們必須讓共和黨參議員態度更強硬。
-
----
-
-### 2026-08-06 05:51:23  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said we admire Elon Musk.
-
----
-
-### 2026-08-06 05:50:37  #國際
-
-特朗普在談及取消電動汽車強制政策時提及馬斯克。
-
----
-
-### 2026-08-06 05:50:19  #國際
-
-特朗普：我們很欣賞埃隆。
-
----
-
-### 2026-08-06 05:50:16  #MKT News
-
-EMSC reported a magnitude 5.7 earthquake 23 km south of Sarangani, Philippines.
-
----
-
-### 2026-08-06 05:47:42  #MKT News #Important #WTI #Impact bearish #Brent #XAUUSD
-
-U.S. President Trump said he would prefer to reach an agreement with Iran.
-
----
-
-### 2026-08-06 05:47:32  #MKT News
-
-US President Trump said the US is in talks with Iran and that it remains to be seen what will happen.
-
----
-
-### 2026-08-06 05:47:26  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said Iran must not possess nuclear weapons.
-
----
-
-### 2026-08-06 05:46:47  #國際
-
-特朗普：我們正與伊朗進行談判，看看後續會如何發展。
-
----
-
-### 2026-08-06 05:46:34  #國際
-
-特朗普談及伊朗：我寧願與伊朗達成一份協議。
-
----
-
-### 2026-08-06 05:45:57  #國際
-
-市場訊息：伊朗與阿曼就霍爾木茲海峽新航線的談判已進入最後階段，該方案尚待最高領袖穆傑塔巴・哈梅內伊批准。
-
----
-
-### 2026-08-06 05:45:12  #公司 #市場
-
-【Bezos年內首次減持亞馬遜股票 套現3.5億美元】亞馬遜股價週一創紀錄新高之際，Jeff Bezos出售了價值近3.5億美元的亞馬遜股票，這是他今年首次出售該公司股份。週三盤後釋出的Form 4申報檔案中披露了這筆交易。這位億萬富豪兩天前在另一份檔案中表示，計劃出售最多1500萬股亞馬遜股票，價值超過40億美元，此次出售僅佔該計劃的一小部分。根據彭博億萬富豪指數，隨著亞馬遜股價今年上漲18%，Bezos的財富增加了387億美元，達到2920億美元。亞馬遜上週公佈雲端計算業務收入表現強勁後，近期成為第五家市值突破3萬億美元的公司。即使在此次出售後，Bezos仍以8.16%的持股比例遙遙領先，為亞馬遜最大股東。
-
----
-
-### 2026-08-06 05:39:13  #其他
-
-明晟（MSCI）：在 2026 年 11 月指數調整中，結束對孟加拉國在 MSCI 股票指數中的特殊處理安排。
-
----
-
-### 2026-08-06 05:37:50  #央行 #其他
-
-巴西央行：當前環境的特點是不確定性加劇、預期脫錨，基準情景面臨的風險有所上升。將持續監控國內財政政策動向對貨幣政策及金融資產產生的影響。近期經濟活動指標仍符合 2026 全年經濟增速放緩的走勢。
-
----
-
-### 2026-08-06 05:36:41  #MKT News
-
-MSCI will end the special treatment applied to Bangladesh in its equity indices at the November 2026 index review.
-
----
-
-### 2026-08-06 05:36:09  #央行 #其他
-
-巴西央行：重申貨幣政策實施將保持審慎與穩健。
-
----
-
-### 2026-08-06 05:35:54  #央行 #其他
-
-巴西央行：重申將根據新的資訊確定本輪政策調整週期的總幅度，以確保通脹向目標水平收斂。
-
----
-
-### 2026-08-06 05:35:29  #MKT News
-
-Brazil central bank: decision approved unanimously.
-
----
-
-### 2026-08-06 05:34:55  #MKT News
-
-Brazil central bank cuts benchmark policy rate by 25 bps, in line with market expectations.
-
----
-
-### 2026-08-06 05:34:31  #其他
-
-巴西下調基準利率 25 個基點至 14.00% 。
-
----
-
-### 2026-08-06 05:34:19  #MKT News #Market Regions #Emerging Markets
-
-Brazil Selic rate at 14.00% as of Aug 5; expected 14.00%; previous 14.25%.
-
----
-
-### 2026-08-06 05:34:09  #MKT News #Economic Calendar #Important
-
-Brazil | Selic Interest Rate (Aug.5) | actual 14% | consensus 14.00% | previous 14.25%
-
----
-
-### 2026-08-06 05:32:42  #其他
-
-國際足聯：國際足聯秘書長及國際足聯管理委員會成員重申全力支援國際足聯主席詹尼・因凡蒂諾。
-
----
-
-### 2026-08-06 05:30:29  #MKT News #Market Themes #The Trump Trade
-
-US President Trump said tariffs have made us rich.
-
----
-
-### 2026-08-06 05:28:57  #其他
-
-巴拿馬運河管理局：自 8 月 26 日起，通行新巴拿馬船閘的船舶最大允許吃水深度為 14.63 米。
-
----
-
-### 2026-08-06 05:28:23  #市場 #國際
-
-特朗普稱讚股市上漲。
-
----
-
-### 2026-08-06 05:24:51  #國際
-
-特朗普稱讚通脹下降。
-
----
-
-### 2026-08-06 05:23:10  #MKT News #Market Themes #The Trump Trade
-
-President Trump, on tariffs, called Canada 'very nasty' and said the US has 'turned the situation around'.
-
----
-
-### 2026-08-06 05:21:15  #國際
-
-特朗普：加拿大領導層很糟糕。
-
----
-
-### 2026-08-06 05:18:12  #MKT News #SNDK.O #Impact bearish
-
-【SanDisk guidance disappoints; shares slide as much as 8% after hours】SanDisk (SNDK.O) reported strong fiscal 2026 Q4 results, with revenue and earnings beating consensus; revenue rose 372% YoY and 51% QoQ. Management said the upside reflected a mix shift to higher‑value customers (data‑center revenue +437%) and price increases. Guidance for the next quarter of $10.3–10.8bn in revenue fell short of Street estimates. Options expiring the week of Aug. 7 showed the $1,370 strike with the largest open interest in both calls and puts; intense post‑earnings options activity may have at least partly driven the stock’s weakness. Shares fell as much as 8% in after‑hours trading.
 
 ---

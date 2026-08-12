@@ -1,7 +1,134 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-13 05:17:13_
-_本檔包含 3103 則快訊，約 590953 字_
+_更新時間：2026-08-13 06:19:26_
+_本檔包含 3100 則快訊，約 589956 字_
+
+---
+
+### 2026-08-09 08:44:04  #其他
+
+【今天北京晴到多雲為主 明天傍晚起雷陣雨再次來襲】今天（8月9日），北京以晴或多雲為主；明天白天晴轉多雲，傍晚至後天有雷陣雨。此外，北京氣溫將再次上升，明天最高氣溫會升至34℃，需做好防暑降溫措施。
+
+---
+
+### 2026-08-09 08:38:29  #其他
+
+【紹興提升防颱風應急響應至Ⅰ級】根據《紹興市防汛防颱抗旱應急預案》規定，經會商研判，市防指決定自8月9日8時提升防颱風應急響應至Ⅰ級，並提升防禦地質災害應急響應至Ⅰ級。各地各部門要高度重視，密切監視颱風動向，按預案方案全力做好防颱工作，必要時宣佈進入緊急防汛期，採取停止戶外集體活動、停工、停課、停業、停運和封閉交通道路等措施。
+
+---
+
+### 2026-08-09 08:37:57  #其他
+
+派拉蒙將向院線出具書面檔案，落實30部影片的發行承諾。
+
+---
+
+### 2026-08-09 08:37:28  #公司 #市場 #國際
+
+【人均浮虧22萬！槓桿ETF緣何突然走紅，讓韓國70萬散戶深陷泥潭？】5月27日，首批16只錨定三星電子與SK海力士的個股槓桿及反向ETF在韓國交易所正式上市交易，產品上市後便引爆零售市場。由於買入此類產品所需的門檻要求極低，操作極其便利，外加營銷的無孔不入，數十萬散戶湧入，散戶持倉佔比超九成，大量資產微薄的年輕人成為交易主力。
+
+上述槓桿ETF突然走紅，有三大原因：
+一是槓桿的便利性。該類產品最大的特點是操作股票化，像買賣股票一樣簡單，只要輸入程式碼和價格，就可以進行交易，看多買入正向產品、看空買入反向產品。
+
+二是槓桿的低門檻。在韓國5—7月的舊規則中，賬戶滿足1000萬韓元（合計47000元人民幣）基礎保證金即可交易，允許證券資產按70%折算保證金，這也意味著，賬戶僅持有1430萬韓元（約67210元人民幣）的股票，即便沒有現金，也可以獲得2倍個股槓桿ETF的交易資格。
+
+三是營銷的誤導性。這批個股槓桿ETF上市初期，基金、券商透過APP彈窗、短影片等社交渠道進行推廣，再疊加財經網紅、股票社群傳播，渲染“押注半導體國運、博取兩倍收益”，風險提示被嚴重弱化。很多投資者被“小錢博取高收益”敘事吸引，混淆“每日兩倍波動”與“長期兩倍收益”，對每日重置槓桿的波動損耗幾乎一無所知。（券商中國）
+
+---
+
+### 2026-08-09 08:35:24  #公司 #國際
+
+【清倉英偉達、Meta！千億私募巨頭美股持倉曝光】私募巨頭景林資產的海外子公司景林資產管理香港有限公司（以下簡稱景林香港公司），8月7日晚間向美國證券交易委員會（SEC）提交了截至2026年二季度末的持倉報告（13F）。根據13F檔案，截至2026年6月30日，景林香港公司二季度末在美股市場合計持倉總市值為21.86億美元，較一季度末的38.78億美元大幅下降43.64%。從調倉動向來看，二季度景林香港公司新買進了4只證券，加倉了1只證券，同時清倉了8只證券，減持了11只證券。其中，景林香港公司清倉了Meta、英偉達、亞馬遜等股票，大幅減持谷歌母公司Alphabet、英特爾、網易等核心持倉。（中國基金報）
+
+---
+
+### 2026-08-09 08:32:42  #其他
+
+【受強颱風“白海豚”影響，8月9日往華東方向部分列車停運】從深圳鐵路部門獲悉，受第13號強颱風“白海豚”影響 ，8月9日深圳鐵路開往華東方向部分列車停運，情況如下： 一、深圳北至南京南D2294、D2282、G3024次， 深圳北至杭州東D3308、G3022、D3124次， 深圳北至揚州D3126次， 深圳北至上海南G998、D378、D3108、D2424次， 深圳北至上海虹橋D942、D932、D936、G900、G902次， 深圳北至上海D914次， 深圳北至上虞南D2432次， 深圳北至義烏G3020次， 深圳北至南通D2290、D2284次， 深圳北至廈門D676次。 二、深圳東至海門K92次， 深圳東至上海松江T102次。 溫馨提示：在收到列車停運簡訊或在12306查詢到列車停運資訊後，可自車票發站乘車日期起30日內（含當日），在12306網站（手機客戶端）或火車站人工視窗辦理全額退票手續，因列車停運導致的退票不收取退票費。
+
+---
+
+### 2026-08-09 08:32:22  #國際
+
+【美軍中央司令部司令訪以 討論“多戰線局勢”】據以色列方面8月8日訊息，美軍中央司令部司令布拉德·庫珀當天抵達以色列進行短期訪問，並同以色列國防軍高層討論“多戰線局勢”。以方訊息說，庫珀在訪問期間同以軍總參謀長扎米爾及其他高階指揮官見面，評估“多戰線局勢”，並討論加沙地帶局勢。美軍目前繼續在包括以色列在內的中東多地保持高度戒備，仍有數十架美軍空中加油機、戰鬥機、防空系統以及數千名美軍士兵駐紮在以色列。（央視新聞）
+
+---
+
+### 2026-08-09 08:30:33  #其他
+
+據燈塔專業版實時資料，截至8月9日6時12分，影片《歡迎來龍餐館》點映及預售總票房突破5000萬。
+
+---
+
+### 2026-08-09 08:24:35  #公司 #國際
+
+【美國數千名威瑞森使用者服務中斷】美國數千名威瑞森使用者在當地時間週六傍晚遭遇服務中斷。 故障監測網站Downdetector的資料顯示，斷網始於美國東部時間下午3點30分左右，威瑞森收到的投訴量峰值超過13000條。受影響最嚴重的使用者集中在紐約、洛杉磯、波士頓等主要大都市。 威瑞森宣告稱：“針對部分無線使用者語音服務故障，公司處置工作正在取得進展。” 威瑞森建議仍受故障影響的使用者重啟裝置，該公司並未說明故障成因。
+
+---
+
+### 2026-08-09 08:23:41  #公司 #觀點 #國際
+
+【韓國股市槓桿盤出清 波動率飆升態勢有所緩和】在歷史性拋售行情出清槓桿頭寸，監管收緊令部分高風險產品交易規模大幅萎縮之後，韓國股市最劇烈動盪的階段或已結束。 韓國股票波動率指數自6月創下歷史新高後，上週回落至兩個月低點。強制平倉降低了市場融資餘額，疊加槓桿ETF監管新規落地，掛鉤晶片巨頭三星電子與SK海力士的相關產品交易規模與資產規模雙雙收縮，市場由此企穩。 上述變化表明，此前放大股市劇烈震盪的部分槓桿交易泡沫已經出清。摩根士丹利估算，去槓桿程序已完成過半。韓國綜合指數自6月高點最大回撤接近40%。今年全球資金累計拋售韓國股票超1000億美元，新興市場基金對韓國股市處於低配狀態。 不過海外資管機構並未急於迴流。波動率雖有所下降，但仍處於高位。投資者需要權衡處於歷史低位的估值、向好的盈利前景，以及市場再度大幅震盪的風險。
+
+---
+
+### 2026-08-09 08:21:33  #國際
+
+市場訊息： 週六伊朗胡齊斯坦省哈夫特克爾與伊澤赫周邊區域發生 4 級地震。
+
+---
+
+### 2026-08-09 08:20:55  #觀點
+
+【光大證券：油價回撥大煉化景氣修復，看好優質煉化資產價值重估】光大證券研報認為，油價回撥大煉化景氣修復，看好優質煉化資產價值重估。在油價波動與全球煉油產能持續收縮的背景下，全產業鏈一體化龍頭企業的競爭優勢正持續放大，國內大煉化企業的全球競爭力正持續驗證。頭部煉化企業依託原油長協及多元化原料採購體系有效對沖油價波動風險，並憑藉全鏈條佈局靈活調節油品與化工品產出結構，盈利穩定性顯著優於中小型獨立煉廠。此外，當前國內煉化行業嚴控新增產能，新專案審批嚴苛、落地週期漫長，頭部企業所擁有的存量優質煉能及完善產業配套，已構築起難以複製的核心壁壘，稀缺價值持續抬升。伴隨行業供需格局持續最佳化、景氣度穩步上行，具備全鏈條優勢的煉化龍頭業績彈性有望充分釋放，優質資產價值重估視窗已然開啟。
+
+---
+
+### 2026-08-09 08:20:10  #公司
+
+【雲南鎮雄一煤礦存重大事故隱患仍組織生產，被責令停產整頓】因存在重大事故隱患仍然組織生產，雲南鎮雄縣欣堰煤業有限公司近日被國家礦山安全監察局雲南局責令停產整頓。國家礦山安全監察局雲南局日前釋出的責令停產整頓公告指出，2026年7月17日至19日，該局對鎮雄縣欣堰煤業有限公司進行一氧化碳超限報警核查時，發現該煤礦企業存在“違反《煤礦安全規程》規定進行電焊作業”的重大事故隱患仍然組織生產。依據《煤礦安全生產條例》第六十四條的規定，國家礦山安全監察局雲南局責令該煤礦企業停產整頓。（澎湃）
+
+---
+
+### 2026-08-09 08:18:51  #公司 #資料 #觀點
+
+【光大證券：短期內市場或繼續反彈，關注三條業績主線】光大證券研報認為，短期內市場或繼續反彈，關注三條業績主線。近期海外股市，尤其是半導體板塊逐步企穩回升，對A股科技板塊企穩具有一定的正向作用。8月半年報密集披露期有望成為市場從估值消化切換至盈利驅動的拐點，財報季或將是下半年最好的配置視窗。配置上建議圍繞三條業績主線展開。首先是科技硬體（半導體/AI算力/儲存），這是本輪業績改善最強的方向；其次為漲價鏈（有色/化工/煤炭），直接受益於PPI回升，業績兌現確定性高；第三條主線為出口製造（儲能/電力裝置/汽車），受益於全球製造業補庫與供應鏈優勢。此外，非銀金融、醫藥/CRO（創新藥出海）、軍工（訂單拐點）等方向半年報景氣度同樣值得關注，整體呈現多條業績主線並行的格局。
+
+---
+
+### 2026-08-09 08:18:06  #觀點 #央行 #國際
+
+【光大證券：7月美國非農資料轉負，加息預期繼續收斂】光大證券研報認為，7月美國新增非農就業超預期轉負。從加息角度看，7月轉負的非農資料、持續下滑的勞動參與率與薪資增速，都指向就業市場韌性鬆動，若後續公佈的資料顯示通脹可控，市場的加息預期有望繼續收斂。7月非農資料轉負說明美國經濟韌性在高通脹、高利率的背景下開始鬆動，世界盃提振效應也並不明顯，若接下來美伊局勢繼續保持緩和，三季度通脹資料有望繼續回落，沃什將更有底氣引導此前高度“鷹派”的美聯儲票委態度轉向，提振“鴿派”預期的可能。
+
+---
+
+### 2026-08-09 08:17:32  #其他
+
+【國家能源局釋出的報告顯示——中國新型儲能累計裝機規模約佔全球一半】國家能源局釋出的報告顯示，中國新型儲能累計裝機規模約佔全球一半。新型儲能作為提升電力系統靈活性、經濟性和安全性的重要手段，是實現“雙碳”目標的關鍵支撐技術。近年來，隨著電化學儲能技術的突破和商業模式的創新，中國新型儲能產業實現了快速發展，裝機規模持續擴大，技術水平不斷提高，市場應用不斷拓展，已形成較為完整的產業鏈和市場體系。（新華網）
+
+---
+
+### 2026-08-09 08:16:52  #其他
+
+約旦外交大臣與巴林外交大臣於週六通電話，商討維護霍爾木茲海峽海上航行自由的相關舉措。兩國外長還就地區局勢、平息衝突升級以及維護地區安全穩定的各項努力交換意見。
+
+---
+
+### 2026-08-09 08:14:34  #MKT News
+
+【Iran nearing agreement with Oman on Strait of Hormuz management】Iranian foreign minister Araghchi said on Aug. 8 Tehran is negotiating with Oman on a legal and management framework and on defining vessel transit routes through the Strait of Hormuz, and that the two sides are very close to an agreement. Reopening or return to normal transit remains conditional, including on the US making reparations for breaches of a US‑Iran memorandum, Araghchi said. Iran rejects the previous lane system as unsuitable and is pressing for a new navigation mechanism; negotiators are discussing a temporary transit lane to form the basis of a formal route, and military authorities from both countries are consulting existing charts pending final agreement.
+
+---
+
+### 2026-08-09 08:10:48  #其他
+
+目前市場定價顯示9月加息機率僅為43.9%（約等於44%）。
+
+---
+
+### 2026-08-09 08:09:52  #公司 #市場
+
+【SpaceX股價大起大落，馬斯克重回攻堅模式】僅上週，執行長埃隆·馬斯克就目睹公司股價單日暴跌近14%，而這還不是SpaceX上市之後表現最差的一天。截至週五，該股較本週開盤點位反彈超20%。 換言之，公司市值波動幅度超過3000億美元。 對絕大多數執行長而言，這樣的行情足以讓人難以承受。但對馬斯克來說，這不斷提醒他，自己又回到了埋頭攻堅的狀態，必須兌現此前對SpaceX業績許下的宏大承諾。今年6月，SpaceX完成史上規模最大的IPO，彼時市場情緒高漲，如今卻要回歸腳踏實地執行戰略的現實。 如此劇烈的波動，正是當年經營特斯拉、苦苦實現盈利時，令馬斯克倍感困擾的干擾因素。也正是那段經歷，促使他長期推遲SpaceX上市。 本週二晚間，SpaceX釋出上市後首份財報，壓力驟然加劇。緊接著週四，部分內部人士與IPO前老股東的股份鎖定期到期。 週二晚間股價大跌之際，馬斯克調侃道：“俗話說……這不是火箭科學，但說實話，搞火箭科學恰恰就是我們的日常工作。”
 
 ---
 
@@ -18564,143 +18691,5 @@ SC crude 2609 contract surged intraday, up 5.16% to 536 yuan/barrel; turnover ex
 ### 2026-08-07 11:13:40  #市場 #國際
 
 【國債期貨拉昇 30年期主力合約漲0.2%】國債期貨拉昇，30年期主力合約盤中漲0.20%，現報115.630元。10年期漲0.03%，現報109.415元。5年期漲0.01%，現報106.51元。2年期跌0.01%，現報102.618元。
-
----
-
-### 2026-08-07 11:13:36  #公司 #市場
-
-【創新藥、CRO概念漲勢擴大 十餘隻成分股漲停】創新藥、CRO概念盤中持續擴大漲幅，畢得醫藥、藥康生物、百普賽斯、凱萊英、百花醫藥等十餘股漲停，近岸蛋白、博騰股份、皓元醫藥、美迪西等多股漲超10%。
-
----
-
-### 2026-08-07 11:13:16  #其他
-
-【剛果（金）埃博拉確診病例超4000例】剛果（金）衛生部6日公佈的資料顯示，該國本輪埃博拉疫情累計確診病例已達4053例。非洲疾病預防控制中心主任卡塞亞當天表示，實際感染人數可能高於已報告病例數。剛果（金）衛生部公佈的資料顯示，截至5日，該國累計報告埃博拉確診病例4053例，其中死亡1850例，累計治癒793例。卡塞亞6日線上上記者會上說，實際感染人數或高於現有統計。本輪疫情嚴重程度前所未有，有關方面將開展研究，弄清病毒是否發生變異，以便有針對性地調整應對措施。(新華社)
-
----
-
-### 2026-08-07 11:12:05  #MKT News #Market Regions #Greater China #Market Themes #The Trump Trade #JKS.O #Impact mixed
-
-【Solar majors respond to U.S. polysilicon tariffs】On Aug. 6 President Trump signed an executive order under Section 232 of the Trade Expansion Act of 1962 imposing minimum import prices and additional tariffs on imported polysilicon and derivatives to support U.S. polysilicon, semiconductor and solar supply chains. JinkoSolar said it needs further assessment of the new measures and will communicate after analysis, including reference to third‑party studies. Trina Solar said it mainly sells modules, that polysilicon is only one input, its North American exports are limited and shipments go through partners, so any immediate impact should be small.
-
----
-
-### 2026-08-07 11:11:37  #市場 #國際 #原創
-
-【亞洲煉油商據悉採購美國原油 將於9月裝船】據知情交易員透露，亞洲煉油商近日採購了數船美國原油，將於9月裝船，每筆採購量約為200萬桶。買家包括泰國PTT和韓國SK Energy。據悉，日本煉油商Idemitsu也採購了一些美國原油，但相關貨物的最終目的地尚不清楚。
-
----
-
-### 2026-08-07 11:11:11  #其他
-
-【影石產品將上線AI語音助手，分割槽域接入阿里千問和Gemini模型】影石Insta360將於8月7日為GO Ultra拇指相機上線AI語音助手。該功能按區域採用不同大模型方案：中國大陸地區接入阿里千問大模型，中國港澳臺及海外地區使用Google Gemini，翻譯結果可透過機身揚聲器直接播報。據瞭解，此次AI語音助手以影石自研為核心，融合阿里千問大模型的多模態能力及千問App的拍照問答能力。端側完成聲紋識別、意圖判斷，雲端則承擔問答、模式切換、翻譯等複雜任務。(新浪科技)
-
----
-
-### 2026-08-07 11:10:24  #公司
-
-【汪峰已成立科技公司 名下多家音樂公司已登出】據媒體報道，近日，歌手汪峰在節目中自曝，其公司因全面引入Al技術，團隊規模已從1100人最佳化至400人，相關話題引發熱議。天眼查App顯示，汪峰名下關聯超20家企業，其中多家企業處於存續狀態，包括南京果醬文化發展有限公司、江西斐耳科技有限公司等。
-
----
-
-### 2026-08-07 11:10:16  #市場
-
-隔夜SHIBOR報1.3610%，上漲0.80個基點。7天SHIBOR報1.3910%，上漲0.80個基點。3個月SHIBOR報1.4300%，上漲0.00個基點。
-
----
-
-### 2026-08-07 11:09:29  #Trading Economics #Economy #Indonesia #Foreign Exchange Reserves #Importance 1
-
-Indonesia Forex Reserves Fall in July — Indonesia's foreign exchange reserves fell to USD 145.3 billion in July 2026 from USD 145.6 billion in June. The decline was mainly driven by government foreign debt repayments and Bank Indonesia's currency market interventions to support the rupiah amid renewed volatility in global financial markets, despite inflows from tax and service revenues and the issuance of government global bonds. The reserves remained robust, covering 5.5 months of imports or 5.3 months of imports and government external debt repayments, comfortably above the international adequacy benchmark of around three months. Bank Indonesia said the reserve buffer remains sufficient to safeguard external sector stability and support overall macroeconomic and financial system resilience. Looking ahead, the central bank expects the external sector to remain resilient, underpinned by ample foreign exchange reserves and sustained capital inflows.
-
----
-
-### 2026-08-07 11:09:27  #其他
-
-本田中國1-7月汽車銷量230870輛，同比下降35.9%。
-
----
-
-### 2026-08-07 11:08:08  #其他
-
-【臺積電研發二維電晶體新技術，突破先進半導體材料介面瓶頸】臺灣陽明交通大學與臺積電企業研發團隊在二維半導體領域取得新進展，提出一種原子級介面工程技術，可在縮小電晶體尺寸的同時保持高電氣效能，有望推動下一代低功耗半導體技術發展。相關研究成果發表於《自然·電子學》。研究團隊表示，二維半導體材料僅有單原子厚度，具備優異電學特性，被視為超越矽基晶片限制的潛在材料。但在製造電晶體時，超薄絕緣層與半導體之間的介面容易產生缺陷，導致電子散射，使電晶體效能提升面臨瓶頸。研究人員透過在單層二硫化鉬（MoS₂）半導體表面構建超薄氧化鋁介面層，再結合高介電常數氧化鉿柵介質，改善材料介面質量，使電晶體同時實現更強電控能力和較高載流子遷移效能。
-
----
-
-### 2026-08-07 11:07:49  #其他
-
-本田中國7月汽車銷量25052輛，同比下降44.1%。
-
----
-
-### 2026-08-07 11:06:58  #市場 #焦點
-
-滬深兩市成交額超1.5萬億元，較上日此時縮量523億元。
-
----
-
-### 2026-08-07 11:05:19  #公司
-
-【張朝陽：人更需要出來交流，AI讓內容產生了塑膠感】搜狐創始人、董事局主席兼執行長張朝陽在接受採訪時表示，真人互動與真實內容是AI永遠替代不了的。資訊獲取和真人的溝通是兩回事，AI目前取代不了人類交流。在資訊海洋裡，人更需要出來交流。AI時代，真實互動的環境更加難能可貴。聊到內容從業者的AI焦慮，他用一個比喻做了回應：“現在AI產生的東西，讓媒體和內容產生了塑膠的感覺。就像化肥催出來的西紅柿，看著光鮮，吃著一點味道都沒有；帶點泥的胡蘿蔔，看著不是那麼好看，但是很好吃、有味道。”（介面新聞）
-
----
-
-### 2026-08-07 11:05:18  #MKT News
-
-【Reported detention of ex-ultimate controller Ai Luming; SanTe Cableway says unaware, operations normal】SanTe Cableway said it is unaware of reports that former ultimate controller Ai Luming has been criminally detained, that Ai has no control or controlled relationship with the company, and that operations are normal. The company said all non-operating fund occupancies, together with corresponding interest, were repaid in cash in April 2022. SanTe Cableway returned to state ownership in 2023 and has reported three consecutive years of net profit growth. Media reports on Aug. 5 cited a lawyer saying Ai was detained on suspicion of illegally absorbing public deposits; the lawyer’s post has been deleted.
-
----
-
-### 2026-08-07 11:04:07  #公司
-
-【北汽集團成立元啟物理智慧科技公司】企查查APP顯示，近日，北京元啟物理智慧科技有限公司成立，法定代表人為張焱，註冊資本為8億元，經營範圍包含新能源汽車整車銷售；汽車零部件研發；智慧車載裝置製造；智慧機器人的研發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由北京汽車集團有限公司全資持股。
-
----
-
-### 2026-08-07 11:03:38  #公司
-
-【原實控人艾路明被刑事拘留？三特索道：無從知曉 經營一切正常】就“艾路明被刑事拘留”情況是否屬實及進展，三特索道對記者回應稱，公司無從知曉該事項情況，艾路明與公司不存在控制與被控制關係。目前公司經營一切正常。此前有報道稱，“律師稱湖北前首富艾路明被刑拘，涉嫌非法吸收公眾存款”。目前，該律師相關發文已刪除。 (貝殼財經)
-
----
-
-### 2026-08-07 11:02:52  #公司
-
-【揚子江船業上半年淨利潤54億元 創歷史新高】據揚子江船業7日訊息，揚子江船業近日釋出2026年上半年度財務報告，公司營業收入及盈利能力均創歷史新高。得益於集團造船核心業務的強勁增長，報告期內實現營業收入175億元，同比增長36.2%，其中核心造船業務佔總營收比重約94%；毛利潤達63億元，同比增長42.8%；實現淨利潤54億元，同比增長28.4%。
-
----
-
-### 2026-08-07 11:02:37  #其他
-
-【哨點醫院新冠陽性率衝到22.3%仍排第一，但升勢在趨緩了】中國疾病預防控制中心最新發布的全國急性呼吸道傳染病哨點監測情況顯示：2026年第31周，全國哨點醫院門急診流感樣病例呼吸道樣本檢測陽性率前三位病原體中，新冠依舊排在第一位，陽性率達到22.3%，較前一週環比增加1.9個百分點。緊接著是流感病毒和腸道病毒，陽性率分別為13.3%、4.1%，較前一週分別環比下降0.9個百分點、1.8個百分點。住院嚴重急性呼吸道感染病例呼吸道樣本檢測陽性率前三位病原體中，新冠同樣繼續排在第一位，陽性率為8.2%，較前一週環比下降1.3個百分點；流感排在第二位，陽性率為5.8%，環比減少0.4個百分點；人偏肺病毒排在第三位，陽性率為5.5%，環比增加1.3個百分點。（第一財經）
-
----
-
-### 2026-08-07 11:01:30  #央行 #國際
-
-【日本二季度3次干預外匯市場未改日元貶值趨勢】日本財務省7日公佈今年4月至6月匯率干預情況。日本二季度累計實施3次日元匯率干預，規模超過11萬億日元（1美元約合158日元），但未能扭轉日元貶值趨勢。資料顯示，日本政府和央行於4月30日、5月4日和5月6日實施買入日元、賣出美元操作，累計干預規模達11.73萬億日元。其中，4月30日單日干預規模達6.28萬億日元，超過2024年4月29日創下的5.92萬億日元紀錄，創日本有統計以來單日匯率干預規模新高。在上述干預措施實施前，日元對美元匯率一度跌至1美元兌換160日元區間。干預後日元匯率一度回升，但漲勢未能持續。7月下旬，日元匯率一度逼近1美元兌換164日元。分析人士普遍認為，如果不改變基本面，單靠匯率干預難以扭轉日元頹勢。
-
----
-
-### 2026-08-07 11:00:46  #MKT News
-
-Indonesia's foreign exchange reserves fell to $100 mln at end-July.
-
----
-
-### 2026-08-07 11:00:31  #其他
-
-零跑汽車：零跑A10第10萬臺量產車正式下線。
-
----
-
-### 2026-08-07 10:59:52  #國際
-
-印尼7月底外匯儲備降至1453億美元。
-
----
-
-### 2026-08-07 10:57:18  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
-
-Japan 10-Year Yield Climbs as Oil Prices Rebound — Japan’s 10-year government bond yield rose to around 2.78% on Friday, snapping a two-session decline as rebounding oil prices, driven by renewed tensions in the Strait of Hormuz, reignited concerns about inflation and the interest rate outlook. Meanwhile, data showed Japan’s household spending fell 3.3% in June, defying expectations for a 1% increase and underscoring continued weakness in consumer demand. On the monetary policy front, investors are looking toward a possible Bank of Japan interest rate hike in September after the central bank left policy settings unchanged last week. Minutes from the July policy meeting showed that several board members expect consumer inflation to accelerate significantly in the second half of the current fiscal year as companies continue implementing broad-based price increases across a wide range of goods.
 
 ---

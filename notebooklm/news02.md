@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-13 05:17:13_
-_本檔包含 3111 則快訊，約 590550 字_
+_更新時間：2026-08-13 06:19:26_
+_本檔包含 3094 則快訊，約 590008 字_
+
+---
+
+### 2026-08-11 23:57:46  #國際
+
+歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。
+
+---
+
+### 2026-08-11 23:55:16  #其他
+
+【霍爾木茲海峽重開預期升溫，卡達加大液化天然氣裝船作業】卡達液化天然氣裝船量攀升至3月以來最高水平，預示該國正在為霍爾木茲海峽可能重新開放做準備。拉斯拉凡港液化天然氣日均裝船量約8萬噸，但該規模仍較去年同期下降約60%。卡達14條液化天然氣生產線中有7條顯現開工跡象，表明受戰事幹擾後的生產正在逐步恢復。但出口能否全面復甦仍取決於霍爾木茲海峽航運通行，目前相關外交談判正在推進，但無法保證能夠達成協議。
+
+---
+
+### 2026-08-11 23:54:18  #公司 #焦點
+
+【中國人保：提名譚炯為執行董事候選人並選舉其為董事長】中國人保告稱，公司董事會審議透過議案，提名譚炯為第五屆董事會執行董事候選人，並選舉其為公司董事長。
+
+---
+
+### 2026-08-11 23:52:36  #國際
+
+卡達外交部表示，伊朗與阿曼就霍爾木茲海峽問題的會談已進入關鍵階段。
+
+---
+
+### 2026-08-11 23:51:30  #MKT News #Market Regions #Japan & APAC
+
+【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951.
+
+---
+
+### 2026-08-11 23:51:21  #國際
+
+【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）
+
+---
+
+### 2026-08-11 23:50:03  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
+
+EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes.
+
+---
+
+### 2026-08-11 23:49:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya.
+
+---
+
+### 2026-08-11 23:49:41  #其他
+
+【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。
+
+---
+
+### 2026-08-11 23:49:29  #國際
+
+英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。
+
+---
+
+### 2026-08-11 23:48:31  #其他
+
+利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。
+
+---
+
+### 2026-08-11 23:47:53  #國際
+
+伊朗最高國安委秘書：只要美國不改變自身行為、不接受伊朗提出的條件，霍爾木茲海峽就不會開放。
+
+---
+
+### 2026-08-11 23:47:19  #國際
+
+伊朗最高國安委秘書：伊朗與阿曼就霍爾木茲海峽航運達成的任何協議，都將與海峽封鎖問題相互獨立。
+
+---
+
+### 2026-08-11 23:47:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly lower. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened but credit-sensitive hyperscalers booked losses, with Oracle, Amazon, and SpaceX down more than 2%. Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. Still, Nvidia rose 1% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
+
+---
+
+### 2026-08-11 23:47:06  #國際
+
+伊朗最高國安委秘書：其他（談判）條件已透過中間人進行轉達。
+
+---
+
+### 2026-08-11 23:46:42  #國際
+
+伊朗最高國安委秘書：必須結束整個地區的戰爭，包括黎巴嫩與加沙。
+
+---
+
+### 2026-08-11 23:46:10  #國際
+
+卡達稱以色列拒絕加沙和平方案，是在故意拖延程序。
+
+---
+
+### 2026-08-11 23:46:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year.
+
+---
+
+### 2026-08-11 23:45:37  #國際
+
+特朗普：伊朗人是善於耍花招的談判者，他們在談判中同意某些事項，隨後又在媒體面前予以否認。
+
+---
+
+### 2026-08-11 23:44:56  #宏觀 #國際
+
+美國國務院發言人：我們正對伊朗實施最大施壓行動，以切斷其為活動提供資金的渠道。
+
+---
+
+### 2026-08-11 23:44:39  #宏觀 #國際
+
+美國國務院發言人：我們正與財政部採取措施，繼續對伊朗實施極限施壓行動。
+
+---
+
+### 2026-08-11 23:44:01  #MKT News
+
+A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran.
+
+---
+
+### 2026-08-11 23:43:41  #國際
+
+伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。
+
+---
+
+### 2026-08-11 23:43:19  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue.
+
+---
+
+### 2026-08-11 23:42:59  #MKT News #Important #WTI #Impact bearish #DXY #XAUUSD
+
+Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds.
 
 ---
 
@@ -18492,257 +18642,5 @@ WTI crude rose above $79/bbl, up 3.5% intraday.
 ### 2026-08-10 20:53:00  #市場
 
 布倫特原油日內漲2%，現報85.24美元/桶。
-
----
-
-### 2026-08-10 20:52:39  #其他
-
-【C919即將首次執行國際商業航班】8月12日起，國航北京首都—烏蘭巴托航線CA723/4航班，將啟用國產飛機C919執飛，這是C919首次執行國際商業航班。(中國民航網)
-
----
-
-### 2026-08-10 20:52:24  #市場 #國際
-
-埃及 7 月核心消費者物價指數同比上漲 14.7%。
-
----
-
-### 2026-08-10 20:51:59  #其他
-
-【哥倫比亞海域發生7.5級地震 可能會在震源周圍引發局地海嘯】據自然資源部海嘯預警中心初步測定，2026年08月10日20時34分（北京時間），哥倫比亞海域（4.91°N,75.93°W）發生7.5級地震，震源深度為15千米。地震確切資訊以中國地震臺網測定為準。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。
-
----
-
-### 2026-08-10 20:51:59  #MKT News
-
-【7.5 quake off Colombia may trigger local tsunami near epicenter】Ministry of Natural Resources' Tsunami Warning Center preliminarily located a M7.5 earthquake in the Colombian sea at 20:34 Beijing time on Aug 10, 2026 (4.91°N, 75.93°W), depth 15 km. Exact parameters will be confirmed by CENC. The center says the quake could generate a local tsunami near the epicenter but is not expected to affect China’s coast. The center will continue to monitor seismic and tsunami data and issue updates as needed.
-
----
-
-### 2026-08-10 20:51:28  #國際
-
-烏茲別克領事館：7 名烏茲別克公民在俄羅斯韃靼斯坦遭無人機襲擊事件中遇難。
-
----
-
-### 2026-08-10 20:50:27  #MKT News
-
-Uzbekistan consulate said a drone strike in Russia’s Republic of Tatarstan killed seven Uzbek citizens.
-
----
-
-### 2026-08-10 20:48:30  #MKT News #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
-
-【Hassett hopes Fed governor Cook is innocent; says he would not take Cook’s Fed seat】White House National Economic Council director Hassett said on Monday he hopes Fed governor Cook is innocent and declined to comment on any charges, calling it a law-enforcement matter. He said he would not replace Cook if Cook were removed. Hassett added that, were he on the Fed board, he would favor keeping rates unchanged or cutting, citing strong supply-side forces and recent inflation prints showing prices easing. He described Fed chair Kevin Warsh as famously independent.
-
----
-
-### 2026-08-10 20:48:29  #其他 #焦點
-
-中國地震臺網自動測定：08月10日20時34分在哥倫比亞附近（北緯5.20度，西經76.51度）發生7.2級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-08-10 20:48:08  #其他 #焦點 #國際
-
-據德國地球科學研究中心訊息，哥倫比亞10日發生7.4級地震。 （新華社）
-
----
-
-### 2026-08-10 20:46:45  #央行 #其他
-
-智利央行買入 2500 萬美元。
-
----
-
-### 2026-08-10 20:44:58  #公司
-
-【ST圍海：簽訂8.82億元工程專案施工合同】ST圍海公告稱，公司與江西磻溪建設等組成的聯合體，成為“樂平市農產品智慧倉儲和物流設施建設專案”中標單位。近日，公司與相關方簽署該專案施工合同，簽約合同價8.82億元，工期730日曆天。合同金額約佔公司2025年經審計營業總收入的42.14%，將對未來業績產生積極影響，且不影響業務獨立性，但履行存在不可抗力風險。
-
----
-
-### 2026-08-10 20:44:39  #公司
-
-市場訊息：加拿大安大略省教師養老金計劃上半年收益率達9.5%，主要得益於馬斯克旗下SpaceX公司的IPO。
-
----
-
-### 2026-08-10 20:44:29  #其他
-
-IBM宣佈發行以加元計價的兩部分票據。
-
----
-
-### 2026-08-10 20:44:27  #MKT News #SPCX.O #Impact bullish
-
-Market sources: Canada’s Ontario Teachers' Pension Plan returned 9.5% in 1H, driven primarily by gains on its SpaceX stake following the company’s IPO (SPCX.O).
-
----
-
-### 2026-08-10 20:44:12  #宏觀
-
-智利任命塞巴斯蒂安・瓦列沃納・埃斯皮諾薩為財政部副部長。
-
----
-
-### 2026-08-10 20:43:27  #市場
-
-WTI原油日內漲2%，現報79.75美元/桶。
-
----
-
-### 2026-08-10 20:42:27  #其他
-
-挪威GASSCO將Ormen Lange氣田日輸氣量890萬立方米的停氣檢修計劃從7月13日至10月1日重新安排至2026年7月13日至2027年2月1日。
-
----
-
-### 2026-08-10 20:41:58  #MKT News #Important
-
-【6.7-magnitude earthquake strikes Colombia】The Colombian Geological Survey said in a preliminary report a 6.7-magnitude quake occurred at 07:34 local time on Aug. 10. The epicenter was near Chocó department and the focal depth was 82 km. Strong shaking was reported in the capital Bogotá.
-
----
-
-### 2026-08-10 20:41:39  #其他
-
-【哥倫比亞發生6.7級地震】哥倫比亞地質局的地震初步通報顯示，當地時間8月10日7時34分，哥倫比亞發生6.7級地震，震中位於喬科省附近，震源深度82公里。首都波哥大有明顯震感。（央視新聞）
-
----
-
-### 2026-08-10 20:41:01  #公司 #市場
-
-Cloudflare股價盤前下跌1.6%，此前該公司宣佈擬以私募方式發行價值21.75億美元的可轉換債券。
-
----
-
-### 2026-08-10 20:40:25  #國際
-
-歐洲地中海地震中心（EMSC）：哥倫比亞地區發生7.1級地震。
-
----
-
-### 2026-08-10 20:39:04  #公司
-
-【德龍匯能：劉鑫增持股份比例至 5.01% 不排除繼續增持】德龍匯能公告稱，資訊披露義務人劉鑫於 2026 年 7 月 30 日透過深交所集中競價交易增持 164.02 萬股，佔總股本 0.46%，持股比例從 4.56% 增至 5.01%。截至報告簽署日，其持股無權利限制。前六個月內，劉鑫在普通和信用賬戶均有買賣操作。劉鑫表示看好公司前景，不排除未來 12 個月繼續增持。
-
----
-
-### 2026-08-10 20:38:44  #其他
-
-哥倫比亞喬科省發生 6.7 級地震。
-
----
-
-### 2026-08-10 20:38:27  #MKT News
-
-An earthquake struck Bogotá, Colombia; buildings were reported shaking.
-
----
-
-### 2026-08-10 20:38:25  #公司 #市場
-
-【信濠光電：股票交易異常波動 不存在應披露未披露資訊】信濠光電公告稱，公司股票於2026年8月7日、8月10日連續兩個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經自查及向第一大股東核實，公司不存在應披露而未披露的重大資訊，基本面未變，經營正常，大股東在異常波動期間無買賣公司股票行為。公司已預約8月29日披露半年度報告，提醒投資者注意風險。
-
----
-
-### 2026-08-10 20:38:22  #公司
-
-【ST長方：撤銷部分其他風險警示情形 仍繼續被實施該警示】ST長方公告稱，公司已就行政處罰所涉事項對相應年度財報追溯重述，且自收到處罰決定書已滿12個月，撤銷部分其他風險警示情形的申請獲深交所稽核同意。不過，公司2023 - 2025年連續三年扣非前後淨利潤孰低者均為負，2025年審計報告顯示持續經營能力存不確定性，仍觸及相關規定，繼續被實施其他風險警示。本次撤銷後，股票不停牌，簡稱仍為“ST長方”，漲跌幅限制20%不變。
-
----
-
-### 2026-08-10 20:38:11  #公司
-
-【諾和諾德與亞馬遜AWS建立戰略合作伙伴關係 推動透過人工智慧加速藥物研發】諾和諾德與亞馬遜網路服務（AWS）今日宣佈建立戰略合作伙伴關係，透過智慧人工智慧和雲技術加快藥物發現程序並現代化諾和諾德的運營。作為合作的一部分，諾和諾德與AWS在倫敦建立了一個聯合創新中心，兩家公司的工程師和科學家利用AWS人工智慧技術結合諾和諾德的資料和洞察，壓縮從藥物靶點到首次人類劑量的路徑。倫敦新的人工智慧聯合創新中心匯聚了AWS工程師、人工智慧專家和應用科學家，以及諾和諾德的研發團隊，共同提升生產力，幫助縮短未來藥品的上市時間。諾和諾德與多家支援醫療行業的亞馬遜企業合作，包括亞馬遜藥房、亞馬遜廣告和亞馬遜One Medical，共同改變新療法的營銷和交付方式。
-
----
-
-### 2026-08-10 20:37:15  #公司 #市場
-
-道富集團洪亦心：黃金、大宗商品、私募市場為投資組合提供支撐。
-
----
-
-### 2026-08-10 20:37:00  #公司
-
-道富集團洪亦心：全年資金持續流入貨幣市場基金。
-
----
-
-### 2026-08-10 20:36:30  #市場
-
-【SABESP美股盤前漲超12%】SABESP美股盤前漲超12%，現報6.0美元。
-
----
-
-### 2026-08-10 20:34:30  #公司
-
-【綠控傳動：首次公開發行股票網上申購，中籤率為 0.0151775616%】綠控傳動公告稱，本次發行股份數量為 6834.1235 萬股，發行價 8.5 元/股。最終戰略配售數量 2050.2370 萬股，約佔 30%。網上初始發行 956.7500 萬股，因網上初步有效申購倍數高於 100 倍，啟動回撥機制，網下向網上回撥 956.8000 萬股。回撥後，網下最終發行 2870.3365 萬股，佔 60%；網上最終發行 1913.5500 萬股，佔 40%，網上發行中籤率為 0.0151775616%。發行人與保薦人將於 8 月 11 日搖號抽籤，8 月 12 日公佈中籤結果。
-
----
-
-### 2026-08-10 20:33:45  #公司
-
-【光線傳媒：原持股5%以上股東上海漢濤減持計劃屆滿，合計減持5191.31萬股】光線傳媒公告，公司原持股5%以上股東上海漢濤資訊諮詢有限公司此前披露的減持計劃期限已屆滿，其於2026年5月11日至2026年8月10日期間，透過集中競價交易減持2887.88萬股（佔比0.984420%），透過大宗交易減持2303.43萬股（佔比0.785191%），合計減持5191.31萬股，佔總股本比例1.769611%。本次減持後，上海漢濤合計持有公司股份1.24億股，佔總股本比例4.230430%。
-
----
-
-### 2026-08-10 20:33:36  #公司
-
-【貝特利：獲中國證監會同意首次公開發行股票註冊批覆】貝特利公告，中國證監會同意蘇州市貝特利高分子材料股份有限公司首次公開發行股票並在創業板上市的註冊申請，批覆自同意註冊之日起12個月內有效。公司本次發行股票應嚴格按照報送深圳證券交易所的招股說明書和發行承銷方案實施。
-
----
-
-### 2026-08-10 20:32:48  #國際
-
-美國地質調查局：北大西洋中脊發生 5.0 級地震。
-
----
-
-### 2026-08-10 20:32:32  #MKT News
-
-Nolan-directed Odyssey became the highest-grossing film at the IMAX box office.
-
----
-
-### 2026-08-10 20:32:26  #其他
-
-紐約聯邦儲備銀行隔夜回購操作未收到投標。
-
----
-
-### 2026-08-10 20:32:04  #其他
-
-諾蘭的《奧德賽》成為 IMAX 史上票房最高上映影片。
-
----
-
-### 2026-08-10 20:31:59  #其他
-
-【浙江杭州釋出暴雨橙色預警】杭州市氣象臺2026年08月10日19時26分發布主城區暴雨橙色預警訊號：受颱風“白海豚”殘餘環流影響，預計今天夜裡上城區、拱墅區、西湖區和濱江區所有街道有大雨到暴雨，請注意防範強降水可能引發的城市積澇、小流域山洪等次生災害和對交通出行等的不利影響。
-
----
-
-### 2026-08-10 20:31:10  #其他
-
-市場訊息：格芯選用 Redpanda 作為實時資料平臺。
-
----
-
-### 2026-08-10 20:30:40  #其他
-
-穆迪評級確認 T-Mobile 的優先無擔保債券評級為 Baa1。
-
----
-
-### 2026-08-10 20:30:25  #國際
-
-8 月 10 日全球基金淨買入印度股票 197 億盧比。
-
----
-
-### 2026-08-10 20:29:30  #市場
-
-【SpaceX有望連續第三日上漲 股價重返IPO發行價上方】SpaceX股價週一盤前一度上漲4.9%，有望連續第三個交易日走高，並重新站上135美元的IPO發行價。截至紐約時間上午8:05，SpaceX股價一度升至139.60美元。SpaceX自7月16日收盤跌破IPO發行價以來，股價一直低於135美元。此前兩個交易日，SpaceX累計上漲23%，市值合計增加逾3,270億美元。隨著首批限售期於上週屆滿，共有9.115億股股票解除限售、進入市場流通。資料顯示，SpaceX目前獲得31個買入評級、6個持有評級和2個賣出評級，分析師平均目標價為221美元。
 
 ---

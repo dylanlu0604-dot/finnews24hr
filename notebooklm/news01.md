@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-13 05:17:13_
-_本檔包含 3041 則快訊，約 590349 字_
+_更新時間：2026-08-13 06:19:26_
+_本檔包含 3046 則快訊，約 590049 字_
+
+---
+
+### 2026-08-13 06:15:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Swedish Krona Drops by 0.64% — Top currency losers are Swedish Krona (-0.64%), New Zealand Dollar (-0.39%), South Korean Won (-0.37%), Euro (-0.15%), British Pound (-0.11%) and Japanese Yen (-0.09%). Gains are led by Dollar Index (0.15%).
+
+---
+
+### 2026-08-13 06:14:48  #公司 #市場
+
+【思科業績超華爾街預期 惟仍達不到投資者的期望】思科系統公司季度營收和利潤均超出預期，但未能滿足投資者被其前一季火爆業績吊起的胃口。該公司週三表示，營收在截至7月的第四財季同比增長18%達到173億美元。不計部分專案的每股收益報1.22美元。分析師此前預測的營收為168億美元，每股收益則在1.17美元。該股在紐約收於123.88美元，接著在盤後交易中下跌約5%。思科過去三個月上漲了近25%，因投資者認為其聚焦人工智慧的新戰略將帶來更強勁的銷售增長。全球最大的網路裝置製造商思科一直在進行重組，以期在全球人工智慧資料中心建設熱潮中獲得更多合同。這一新戰略幫助該公司爭取到了更多客戶。但它也面臨著來自博通和惠普等企業日益激烈的競爭，且投資者對其裝置從AI熱中獲利寄予厚望。第四財季的業績令思科對未來營收和獲利的強勁預期黯然失色。該公司在公告中預計，截至10月的第一財季營收將介於180億至182億美元。分析師的平均預估為168億美元。剔除部分專案的每股收益料在1.32至1.34美元，也高於市場預計的1.17美元。行業研究分析師Woo Jin Ho在報告中寫道：“我們預計人工智慧的勢頭將保持強勁。”
+
+---
+
+### 2026-08-13 06:12:45  #公司 #市場
+
+【晶片製造商Cerebras硬體銷售下滑 盤後股價大跌】Cerebras Systems Inc.盤後下跌，此前該公司公佈硬體收入下降，顯示這家上市不久的公司在銷售採用新型晶片設計的計算機方面進展緩慢。該公司週三在宣告中表示，硬體銷售同比下降23%，至5410萬美元。這份財報的亮點在於，該公司利用其技術提供AI算力的雲業務部門收入飆升近三倍，達到1.26億美元。這份業績給投資者呈現出喜憂參半的局面。自5月首次公開募股以來，Cerebras股價累計上漲42%。該公司將自己定位為英偉達在AI晶片領域的挑戰者，但如今最大收入來源卻是雲端計算。財報公佈後，Cerebras股價下跌約14%。
+
+---
+
+### 2026-08-13 06:12:09  #公司 #國際
+
+福特汽車CEO：計劃2030年將部分林肯車型生產轉移至美國。
+
+---
+
+### 2026-08-13 06:06:57  #國際
+
+【伊朗拖美國入不對稱戰爭 “蝴蝶效應”波及日本捲簾門】當地時間12日，美國總統特朗普稱，美國已“完全控制霍爾木茲海峽”，這是特朗普3日內第二次宣稱控制該海峽。同日，伊朗方面駁斥相關言論稱，美方反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實，霍爾木茲海峽仍然關閉。國際能源署當天釋出報告稱，受海峽持續關閉、燃料價格高企以及中東局勢影響，全球石油供需受到明顯衝擊。有分析指出，伊朗戰事越來越向“爛尾”方向發展，在這種情況下，伊朗、美國以及世界經濟都無法承受。伊朗戰事導致的“蝴蝶效應”已波及日本製造業。石腦油是原油提煉過程中的重要衍生品，被廣泛用於製作塑膠、合成纖維、塗料、清洗劑等，與眾多製造業息息相關。受中東局勢影響，日本國內石腦油的供應大幅波動。（央視新聞）
+
+---
+
+### 2026-08-13 06:06:14  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為59.9%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為59.9%，累計加息25個基點的機率為40.1%。美聯儲到10月維持利率不變的機率為45.3%，累計加息25個基點的機率為44.9%，累計加息50個基點的機率為9.8%。
+
+---
+
+### 2026-08-13 06:06:03  #MKT News
+
+Iraqi news agency said Iraq's intelligence service arrested four people in Baghdad and seized more than 20 domestically produced drones.
+
+---
+
+### 2026-08-13 06:00:54  #市場 #焦點
+
+現貨黃金突破4410美元/盎司，日內漲0.03%。
+
+---
+
+### 2026-08-13 06:00:03  #市場 #焦點
+
+WTI原油突破83美元/桶，日內跌0.70%。
+
+---
+
+### 2026-08-13 05:54:58  #國際
+
+【特朗普簽署備忘錄，針對跨國網路犯罪】據白宮情況說明檔案，特朗普今日簽署一份國家安全總統備忘錄，“授權美國聯邦執法機構使用網路工具，打擊設立於境外司法管轄區的跨國犯罪組織”。備忘錄指示國土安全特別工作組下屬國家網路指揮中心開展網路行動，打擊境外跨國犯罪組織。該備忘錄建立一套機制，允許私營企業與政府機構簽署協議，收集威脅情報，並提議開展網路行動以應對上述威脅。
+
+---
+
+### 2026-08-13 05:54:25  #其他
+
+【庫克群島舉行議會選舉】當地時間12日，南太平洋島國庫克群島舉行新一屆議會選舉。據悉，投票自當天9時開始至18時結束。一名獨立議員因7月中旬提名截止時沒有其他競爭對手參選，自動獲得連任。其餘62名候選人將角逐議會剩餘23個席位。庫克群島陸地面積240平方公里，由15個小島組成。議會實行一院制，立法會議由經普選產生的24名議員組成，任期4年。議會選舉中獲得多數席位的政黨或聯盟負責組建新一屆政府。
+
+---
+
+### 2026-08-13 05:52:17  #央行 #國際
+
+【美聯儲料維持準備金管理購買節奏】美聯儲預計將在週四公佈新一期準備金管理購買計劃時，繼續安排下一階段的國庫券購買。隨著未來數月流動性預計減少，決策者希望藉此充實準備金。巴克萊和德意志銀行等機構的策略師預計，除到期證券再投資購買外，美聯儲還將買入100億美元國庫券。同時，美國銀行認為，為抵消供應增加可能帶來的融資壓力，美聯儲可能將準備金管理購買規模提高至150億美元，不過也存在較大可能至少到9月中旬之前仍維持現有規模不變。
+
+---
+
+### 2026-08-13 05:47:06  #MKT News
+
+White House says Trump signed a memorandum authorizing US law enforcement to use cyber tools to target criminal organizations operating in foreign jurisdictions.
+
+---
+
+### 2026-08-13 05:46:03  #國際
+
+白宮：特朗普簽署備忘錄，授權美國執法部門利用網路工具擾亂活躍於境外司法管轄區的犯罪組織。
+
+---
+
+### 2026-08-13 05:45:52  #國際
+
+特朗普簽署行政令，打擊境外網路犯罪網路。
+
+---
+
+### 2026-08-13 05:45:27  #市場
+
+【估值低位疊加資金佈局 消費板塊迎結構性機會】近期市場風格出現再平衡，消費板塊重新獲得資金關注。中證主要消費指數7月以來累計上漲近10%。消費主題ETF規模近期也持續增長。業內人士認為，當前消費行情更多體現為資金配置再平衡和估值修復預期升溫，後續板塊表現仍需觀察內需恢復和企業盈利改善情況。從投資方向來看，傳統消費龍頭修復、消費品出海及新消費場景成為機構關注重點。（上證報）
+
+---
+
+### 2026-08-13 05:44:40  #市場
+
+【高比例分紅難敵行情低迷 REITs吸引力有待進一步提升】8月12日，4只REITs產品在同一天進行場內分紅除息，分紅比例均超過99%。據統計，按照除息日（場內）口徑，今年已有超過70只REITs開啟分紅，其中七成以上的單次分紅規模佔可分配利潤比重超過99%。從二級市場表現來看，截至8月12日收盤，全市場88只已上市REITs中，約八成今年以來收跌，部分REITs跌幅甚至超過40%。即便是今年有過分紅的產品，收跌的產品數量比例也超過80%。 有業內人士分析，高比例分紅確實是REITs產品的一個重要特點，因此這類產品被不少投資者尤其是機構投資者視為類固收資產。不過，比起分紅比例，派息率（可分配金額/市值）以及填息效應其實是更應該關注的指標。對於REITs二級市場的表現，除了受底層資產經營情況影響外，也會因流動性不足而難以吸引資金青睞。（中證報）
+
+---
+
+### 2026-08-13 05:43:35  #公司 #市場
+
+【從板塊輪動中脫穎而出 超70只基金淨值創歷史新高】最近，AI概念大漲後市場陷入震盪，板塊快速輪動，無論是股價高位的CPO、PCB等科技板塊，還是低位的地產、白酒、醫藥板塊，同步迎來力度可觀的修復反彈。 賽道回暖帶動科技主題基金淨值持續回血，逐步向前期高點靠攏；不少前期深度回撥的基金亦順勢走出爬坑行情。截至8月11日，超70只來自方正富邦基金、萬家基金、國投瑞銀基金等公司的產品穿越了市場的極致分化，淨值創出歷史新高，有的年內大漲超50%，有的靠均衡防守穩穩爬坡。（證券時報）
+
+---
+
+### 2026-08-13 05:42:32  #MKT News
+
+Venezuelan central bank reports July inflation at 19.9%.
+
+---
+
+### 2026-08-13 05:39:16  #央行 #其他
+
+委內瑞拉央行：7月通脹率達19.9%。
+
+---
+
+### 2026-08-13 05:37:57  #其他
+
+中國地震臺網正式測定：08月13日05時28分在青海海南州興海縣（北緯35.28度，東經99.54度）發生3.7級地震，震源深度10千米。
+
+---
+
+### 2026-08-13 05:33:01  #公司
+
+【潘興廣場新增投資維薩、奈飛等標的】潘興廣場公司在致股東信中表示，自完成IPO以來，該基金已完成六筆新增投資。潘興廣場稱：“我們近期新建倉投資了維薩、萬事達卡、奈飛、標普全球、洲際交易所以及愛爾康，這些企業都是我們已密切跟蹤多年的公司。”潘興廣場表示，疊加上述新標的，以及原有持倉微軟、亞馬遜、Meta、優步、布魯克菲爾德、Restaurant Brands國際，將助力基金實現強勁的未來收益。
+
+---
+
+### 2026-08-13 05:30:06  #公司
+
+Cerebras首席財務官表示，如果不是因為透過租回更多自有系統來擴大雲容量導致成本上升，公司第二季度調整後毛利率本應高出500個基點。
+
+---
+
+### 2026-08-13 05:29:08  #國際
+
+【伊朗：霍爾木茲海峽使用者必須“修復”海灣環境損害】伊朗外交部發言人巴加埃稱：“所有從霍爾木茲海峽商業航運中獲益的各方，在法律和道義上都有義務修復對波斯灣和阿曼海造成的環境損害。”巴加埃表示，“初步證據顯示一艘外國散貨船”是汙染來源。他表示，未來任何有關霍爾木茲海峽控制權的安排，都必須解決該水道的環境狀況。
+
+---
+
+### 2026-08-13 05:28:28  #其他
+
+思科預計2027財年人工智慧訂單將大幅增長。
+
+---
+
+### 2026-08-13 05:26:05  #國際
+
+市場資訊：美國人工智慧監管框架預計很快將把開源模型納入管轄範圍。
+
+---
+
+### 2026-08-13 05:24:40  #MKT News
+
+【U.S. Apache helicopter crashes near Fort Hood, two dead】Local police said on the 12th an Apache military helicopter crashed near Fort Hood, Texas, killing two people.
+
+---
+
+### 2026-08-13 05:23:45  #其他
+
+思科：受Mythos帶來的威脅影響，各家企業正將預算重新投向網路安全領域。
+
+---
+
+### 2026-08-13 05:20:21  #公司
+
+Cerebras執行長表示，目前254億美元的剩餘履約義務並未反映來自AWS或其他任何超大規模客戶的業務積壓情況。
+
+---
+
+### 2026-08-13 05:17:21  #其他
+
+思科2026財年人工智慧相關訂單實現約40億美元營收。
 
 ---
 
@@ -18206,155 +18386,5 @@ CAC 40 Retreats From Record High — The CAC 40 edged 0.1% lower to close at 8,7
 ### 2026-08-11 23:59:40  #國際
 
 伊朗革命衛隊發言人：今日波斯灣海域沒有美國軍艦部署。
-
----
-
-### 2026-08-11 23:57:46  #國際
-
-歐洲地中海地震中心（EMSC）：目擊者報告，5分鐘前哥倫比亞有震感。
-
----
-
-### 2026-08-11 23:55:16  #其他
-
-【霍爾木茲海峽重開預期升溫，卡達加大液化天然氣裝船作業】卡達液化天然氣裝船量攀升至3月以來最高水平，預示該國正在為霍爾木茲海峽可能重新開放做準備。拉斯拉凡港液化天然氣日均裝船量約8萬噸，但該規模仍較去年同期下降約60%。卡達14條液化天然氣生產線中有7條顯現開工跡象，表明受戰事幹擾後的生產正在逐步恢復。但出口能否全面復甦仍取決於霍爾木茲海峽航運通行，目前相關外交談判正在推進，但無法保證能夠達成協議。
-
----
-
-### 2026-08-11 23:54:18  #公司 #焦點
-
-【中國人保：提名譚炯為執行董事候選人並選舉其為董事長】中國人保告稱，公司董事會審議透過議案，提名譚炯為第五屆董事會執行董事候選人，並選舉其為公司董事長。
-
----
-
-### 2026-08-11 23:52:36  #國際
-
-卡達外交部表示，伊朗與阿曼就霍爾木茲海峽問題的會談已進入關鍵階段。
-
----
-
-### 2026-08-11 23:51:30  #MKT News #Market Regions #Japan & APAC
-
-【Typhoon Chan-hom hits Japan's Kanto region】Typhoon Chan-hom, the 15th typhoon of the year, made landfall in southern Ibaraki Prefecture at about 20:00 local time on the evening of the 11th, the Japan Meteorological Agency said. The storm brought strong winds to the Kanto region and caused injuries, fallen trees, widespread power outages and transport disruptions. It is the first recorded typhoon landfall in Ibaraki since records began in 1951.
-
----
-
-### 2026-08-11 23:51:21  #國際
-
-【颱風“燦鴻”襲擊日本關東地區】今年第15號颱風“燦鴻”11日晚登陸日本茨城縣，給日本關東地區帶來強風等惡劣天氣，造成人員受傷、樹木傾倒和大範圍停電，交通受到影響。（新華社）
-
----
-
-### 2026-08-11 23:50:03  #MKT News #Important #Commodities #Energy #WTI #Impact mixed #Brent
-
-EIA will release its monthly Short-Term Energy Outlook (STEO) in 10 minutes.
-
----
-
-### 2026-08-11 23:49:46  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Market reports: loud explosion heard inside the Zawiya refinery in northwest Libya.
-
----
-
-### 2026-08-11 23:49:41  #其他
-
-【辛巴威一艘載有90餘人的船隻傾覆】據辛巴威警方當地時間11日訊息，一艘載有90名乘客和5名船員的船隻當天在該國北部卡里巴湖傾覆。
-
----
-
-### 2026-08-11 23:49:29  #國際
-
-英國外交大臣：在與以色列外交部長的首次通話中討論了伊朗問題以及其他共同面臨的安全挑戰，還探討了雙方至關重要的共同利益，即絕不能讓伊朗擁有核武器。
-
----
-
-### 2026-08-11 23:48:31  #其他
-
-利比亞西北部扎維亞煉油廠倉庫內傳出強烈爆炸聲。
-
----
-
-### 2026-08-11 23:47:53  #國際
-
-伊朗最高國安委秘書：只要美國不改變自身行為、不接受伊朗提出的條件，霍爾木茲海峽就不會開放。
-
----
-
-### 2026-08-11 23:47:19  #國際
-
-伊朗最高國安委秘書：伊朗與阿曼就霍爾木茲海峽航運達成的任何協議，都將與海峽封鎖問題相互獨立。
-
----
-
-### 2026-08-11 23:47:12  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Lower — US stock indices held below the flatline on Tuesday as markets gauged energy prices and risks of a Federal Reserve rate hike this year. The S&P 500, Dow, and Nasdaq 100 were slightly lower. Pakistani and Qatari authorities signaled some optimism on a US-Iran deal that could restore oil trade through the Persian Gulf. The move cut the rebound in wholesale fuel prices, initially prompted by President Trump hardening his rhetoric on Tehran. Yields softened but credit-sensitive hyperscalers booked losses, with Oracle, Amazon, and SpaceX down more than 2%. Intel extended its 4% slide yesterday with a 1.5% drop as it raised its expected stock sale by $5 billion to $20 billion. Still, Nvidia rose 1% after raising $500 billion with banks privately for the buildout of more AI infrastructure, raising the leverage in the sector. The US will release its CPI tomorrow inflation after multiple FOMC members signaled a possible hike next month. SCMI and CoreWeave will report results after the bell.
-
----
-
-### 2026-08-11 23:47:06  #國際
-
-伊朗最高國安委秘書：其他（談判）條件已透過中間人進行轉達。
-
----
-
-### 2026-08-11 23:46:42  #國際
-
-伊朗最高國安委秘書：必須結束整個地區的戰爭，包括黎巴嫩與加沙。
-
----
-
-### 2026-08-11 23:46:10  #國際
-
-卡達稱以色列拒絕加沙和平方案，是在故意拖延程序。
-
----
-
-### 2026-08-11 23:46:07  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Lags Europe on Tuesday — The FTSE 100 was little changed on Tuesday, underperforming other European markets as weakness in defensive stocks offset gains among energy companies. AstraZeneca fell around 1%, GSK dropped more than 1.5% and Unilever declined about 0.6%, while Shell and BP advanced 1.4% and 1.8%, respectively. Renewed hopes for a potential Middle East agreement eased some concerns over oil supplies and trimmed the recent rally in crude prices. Pakistan signaled that the US and Iran could be close to an arrangement aimed at reducing tensions and potentially supporting the reopening of the Strait of Hormuz. Elsewhere, InterContinental Hotels Group fell more than 2% despite reporting first-half profit above expectations. Bellway also warned of an uncertain near-term outlook despite exceeding forecasts for home completions and housing revenue. Meanwhile, UK retail sales rose 1.3% year-on-year in July, while Barclays reported consumer spending growth of 2%, its strongest this year.
-
----
-
-### 2026-08-11 23:45:37  #國際
-
-特朗普：伊朗人是善於耍花招的談判者，他們在談判中同意某些事項，隨後又在媒體面前予以否認。
-
----
-
-### 2026-08-11 23:44:56  #宏觀 #國際
-
-美國國務院發言人：我們正對伊朗實施最大施壓行動，以切斷其為活動提供資金的渠道。
-
----
-
-### 2026-08-11 23:44:39  #宏觀 #國際
-
-美國國務院發言人：我們正與財政部採取措施，繼續對伊朗實施極限施壓行動。
-
----
-
-### 2026-08-11 23:44:01  #MKT News
-
-A U.S. State Department spokesperson said the department is coordinating with the Treasury to continue applying maximum pressure on Iran.
-
----
-
-### 2026-08-11 23:43:41  #國際
-
-伊朗革命衛隊高階官員禮薩伊要求美國結束戰爭、解凍伊朗被凍結資金。
-
----
-
-### 2026-08-11 23:43:19  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran security council: Strait of Hormuz will remain closed unless US accepts Iran's conditions】Iran’s Supreme National Security Council secretary Rezai said the US is the source of insecurity in the Persian Gulf, Strait of Hormuz and Gulf of Oman and, by imposing an illegal war on Iran, has endangered the region. He said the Strait of Hormuz will not reopen as long as the US does not change its behavior and accept Iran’s conditions, which include ending the war, releasing frozen Iranian funds, ending conflicts in Lebanon and Gaza, and other demands conveyed to Washington via intermediaries. Rezai added that any Iran-Oman agreement on transit through the Strait would be dealt with separately from the blockade issue.
-
----
-
-### 2026-08-11 23:42:59  #MKT News #Important #WTI #Impact bearish #DXY #XAUUSD
-
-Iran's Supreme National Security Council secretary Rezaei said the United States must end the war and unfreeze Iran's frozen funds.
 
 ---
