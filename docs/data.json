@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-12 09:10:50",
-  "count": 15409,
+  "updated": "2026-08-12 09:14:45",
+  "count": 15405,
   "items": [
+    {
+      "id": "5036594",
+      "time": "2026-08-12 09:13:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：伊朗局勢良好 美國控制著霍爾木茲海峽】美國總統特朗普在安德魯斯聯合基地向記者表示，伊朗方面局勢整體良好。在被問及伊朗衝突相關問題時特朗普稱：“我們完全掌控霍爾木茲海峽。”“目前，我們佔據極為有利的局面。”"
+    },
+    {
+      "id": "5036593",
+      "time": "2026-08-12 09:13:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省水利廳、省氣象局8月12日8時聯合釋出山洪災害預警】據“浙江水利”公眾號訊息，浙江省水利廳、省氣象局8月12日8時聯合釋出山洪災害預警：根據省氣象臺未來降雨預報，預計8月12日8時至8月13日8時，北侖區、定海區、普陀區發生山洪災害可能性大（橙色預警），鄞州區、奉化區、象山縣、寧海縣、岱山縣發生山洪災害可能性較大（黃色預警），海曙區、餘姚市、吳興區、德清縣、長興縣、安吉縣、嵊泗縣、三門縣、溫嶺市、臨海市可能發生山洪災害（藍色預警）。"
+    },
+    {
+      "id": "mkt:019ff387-21cf-7aab-8ffd-5c03fe276505",
+      "time": "2026-08-12 09:12:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,390/oz, up 0.5% intraday; New York gold futures traded above $4,450/oz, up 0.5% intraday."
+    },
+    {
+      "id": "5036592",
+      "time": "2026-08-12 09:12:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4390美元/盎司，日內漲0.51%。"
+    },
+    {
+      "id": "5036591",
+      "time": "2026-08-12 09:12:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科藍軟體與圖靈量子達成深度戰略合作 共建金融量子安全與算力一體化產業底座】據科藍軟體訊息，8月5日，北京科藍軟體系統股份有限公司（簡稱“科藍軟體”）與上海圖靈智算量子科技股份有限公司（簡稱“圖靈量子”）正式簽署戰略合作協議，雙方將打通“量子底層硬體—量子安全基礎設施—金融算力服務—銀行業務系統”全產業鏈條，打造國內金融行業量子科技規模化落地標杆。"
+    },
+    {
+      "id": "5036590",
+      "time": "2026-08-12 09:12:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4450美元/盎司，日內漲0.20%。"
+    },
+    {
+      "id": "5036589",
+      "time": "2026-08-12 09:10:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中銀基金執行總裁張家文離任 陳衛星代任執行總裁】中銀基金今日公告稱，執行總裁張家文離任，離任日期為8月10日，離任原因為工作調整。在新任執行總裁履職前，暫由督察長、副執行總裁陳衛星代行執行總裁職務。陳衛星曆任中國銀行總行金融市場總部(託管投資服務)助理總經理、中國銀行深圳市分行黨委委員、行長助理、副行長、中國銀行總行養老金融部副總經理。 2022 年加入中銀基金管理有限公司，現任督察長，副執行總裁。"
+    },
     {
       "id": "5036588",
       "time": "2026-08-12 09:09:03",
@@ -140261,109 +140323,6 @@
         "公司"
       ],
       "text": "【華秋完成數億元D輪股權融資】近日，電子產業一站式智慧基礎設施平臺——深圳華秋智聯股份有限公司（簡稱“華秋”）宣佈完成數億元D輪股權融資。本輪融資由招銀國際領投，廣新基金、成都高新、鴻石資本等多家新老股東聯合參與。本次融資將用於深化全產業鏈數字化佈局、自研工業軟體迭代、智慧製造基地升級，加速完善電子硬體創新全鏈路服務閉環。"
-    },
-    {
-      "id": "5025662",
-      "time": "2026-08-05 09:14:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SpaceX計劃最早於本月進行下一次“星艦”發射，並在陸地上回收飛船】SpaceX執行長埃隆·馬斯克週二在公司首次財報電話會議上表示，SpaceX計劃最早於本月進行下一次“星艦”飛行測試，將首批升級版“星鏈”衛星送入軌道，隨後首次讓這套巨型火箭系統的上級返回陸地著陸。“星艦”第14次試飛的目標標誌著這款可重複使用火箭自7月上次試飛以來的重大飛躍——當時“星艦”上段在印度洋上空似乎展示了更強的著陸能力。馬斯克此前曾表示，SpaceX可能在今年某個時候嘗試上段著陸回收，具體是否在第14次飛行中進行，將取決於第13次飛行是否順利。作為“星艦”核心部分的該火箭上級返回地面，對於SpaceX實現其構建全球首個完全可重複使用軌道發射系統的目標至關重要——馬斯克希望藉助該系統大幅擴充套件公司的“星鏈”寬頻網路。此次著陸測試也將受到美國宇航局的密切關注，該機構迫切希望將該火箭用作登月艙。"
-    },
-    {
-      "id": "5025661",
-      "time": "2026-08-05 09:14:11",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【348股獲融資買入超億元，中際旭創穫買入79.97億元居首】Wind資料顯示，A股8月4日共有3834只個股獲融資資金買入，有348股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入79.97億元、34.82億元、33.14億元。從融資買入額佔當日總成交金額比重來看，有2只個股融資買入額佔比超30%。其中中金輻照、德爾瑪、易瑞生物融資買入額佔成交額比重排名前三，分別為36.86%、33.21%、28.72%。從融資淨買入金額來看，有32只個股獲融資淨買入超億元。其中，中際旭創、寒武紀、浪潮資訊融資淨買入金額排名前三，分別獲淨買入10.55億元、10.01億元、4.7億元。"
-    },
-    {
-      "id": "te:markets:572749",
-      "time": "2026-08-05 09:13:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Asian Stocks Track Wall Street Higher — Asian equity markets advanced on Wednesday, tracking a rally on Wall Street overnight that lifted the Dow and S&P 500 to fresh record highs, supported by robust corporate earnings and a sharp drop in oil prices. Investors weighed reports of an imminent interim agreement between the US and Iran to reopen the Strait of Hormuz, a development that could ease inflation concerns and reduce expectations for near-term Federal Reserve interest rate hikes. Technology-heavy markets in Japan and South Korea led regional gains, with the Nikkei 225 and KOSPI Composite both surging more than 3%. Among individual stocks, Japanese tech-investing giant SoftBank Group soared more than 10%, while South Korean chipmaker SK Hynix climbed 6%."
-    },
-    {
-      "id": "mkt:019fcf7b-9e30-7aab-8f7b-65b96a1afed3",
-      "time": "2026-08-05 09:13:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Container shipping index (Europe route) most-active contract fell 7.00% intraday to 1,670.0 points."
-    },
-    {
-      "id": "5025660",
-      "time": "2026-08-05 09:13:25",
-      "tags": [
-        "市場",
-        "央行"
-      ],
-      "text": "【華創證券：10年債利率1.7%關口約束力或軟化 多頭信心有望強化】華創證券投資交易部傳送的點評稱，債市利率選擇向下突破，反映出在總量寬鬆預期邊際開啟，7月採購經理人指數顯示基本面改善未能持續後，做多已成為債市阻力更小的方向。當前中國央行的態度或許說明10年期國債收益率小幅下破1.7%，尚在央行包容範圍內。在央行透過資金面敲打債市前，10年期國債收益率1.70%關口的約束力或逐漸軟化，做多資金可能繼續嘗試向下突破。相比之下超長債仍有利差收窄空間，節奏上需關注交易盤階段性止盈擾動。"
-    },
-    {
-      "id": "mkt:019fcf7b-76c6-7aab-8f7b-5b535631c65a",
-      "time": "2026-08-05 09:13:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI crude up more than 1.00% intraday at $75.08/bbl. Brent crude's intraday gain widened to 1.00%, trading at $79.31/bbl."
-    },
-    {
-      "id": "5025659",
-      "time": "2026-08-05 09:13:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美軍已消耗近80%“薩德”反導系統攔截彈】 據美國有線電視新聞網4日援引多名訊息人士的話報道，美軍已消耗“薩德”反導系統近80%的攔截彈。 報道說，自伊朗戰事開始以來，美軍已消耗了近五分之四的“薩德”反導系統導彈庫存和大約一半的“愛國者”防空系統攔截彈。用於遠端打擊的“戰斧”巡航導彈也消耗了近一半，導彈庫存處於嚴重短缺狀態。一名美軍高階指揮官警告稱，五角大樓的彈藥儲備“已降至危險的低位”。(新華社)"
-    },
-    {
-      "id": "5025658",
-      "time": "2026-08-05 09:12:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌7%，現報1670.00點。"
-    },
-    {
-      "id": "5025657",
-      "time": "2026-08-05 09:12:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【納芯微NovoGenius®系列電機控制Turnkey Solution獲ASPICE CL2認證】 據納芯微訊息，近日，納芯微NovoGenius®系列電機控制Turnkey Solution軟體開發專案，依據Automotive SPICE® PAM 4.0完成專業過程能力評估並達到能力等級2（Capability Level 2，簡稱“CL2”）。此次評估結果表明，該專案已建立覆蓋軟體需求、設計、開發、驗證及專案管理的受控流程，為客戶提供更加規範、穩定、可追溯的軟體支援，助力提升方案開發與量產匯入效率。"
-    },
-    {
-      "id": "mkt:019fcf79-b5dd-7aab-8f7b-5166e6a61c51",
-      "time": "2026-08-05 09:11:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent"
-      ],
-      "text": "【Retail money-market yield snapshot】Tencent Licaitong (current+) 7-day annualized yield: 0.7360%–1.1510%. WeChat Wallet Lingqiantong 7-day annualized yield: 0.9010%–1.0220%. Alipay Yu'ebao 7-day annualized yield: 0.9030%–1.0210%."
-    },
-    {
-      "id": "5025656",
-      "time": "2026-08-05 09:10:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新款華為MateBook Fold今日釋出】 8月5日，華為新一代鴻蒙摺疊屏電腦全新華為MateBook Fold非凡大師將正式釋出。此前官方已披露，該機首次支援原生手寫筆功能，可實現純平書寫、分屏記錄等體驗。"
     }
   ]
 }
