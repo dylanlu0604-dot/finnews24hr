@@ -1,7 +1,35 @@
 {
   "date": "2026-08-13",
-  "count": 122,
+  "count": 125,
   "items": [
+    {
+      "id": "5038081",
+      "time": "2026-08-13 03:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼和沙烏地阿拉伯推出“安全綠色陸地走廊”，經魯卜哈利沙漠公路連線蘇哈爾港與SPARK內陸幹港，沙特境內路段約564公里，建設費用約5.33億美元。該專案旨在降低成本、加快貨物轉運，並繞開海上航運要道。"
+    },
+    {
+      "id": "5038080",
+      "time": "2026-08-13 03:01:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗波斯灣水道管理局：霍爾木茲海峽仍處於封鎖狀態，在伊朗提出的條件得到滿足之前不會重新開放。"
+    },
+    {
+      "id": "mkt:019ff759-26db-7aab-9012-a7dd1b6e831d",
+      "time": "2026-08-13 03:00:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures closed the night session down 0.35% at 25,320, trading 120 points below the cash index."
+    },
     {
       "id": "5038079",
       "time": "2026-08-13 03:00:01",
