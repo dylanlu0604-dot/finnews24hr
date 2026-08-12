@@ -1,7 +1,179 @@
 {
-  "updated": "2026-08-12 09:30:27",
-  "count": 15396,
+  "updated": "2026-08-12 09:34:24",
+  "count": 15401,
   "items": [
+    {
+      "id": "5036624",
+      "time": "2026-08-12 09:33:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭國家黨領導人、聯合政府總理克里斯托弗·拉克森12日贏得本黨國會黨團信任投票，繼續擔任主要執政黨國家黨領導人。 紐西蘭將於11月7日舉行國會選舉。拉克森11日在社交媒體發文說，從媒體報道等中可以明顯看出，關於他領導地位的猜測正在增多，他宣佈召集國家黨12日舉行國會黨團會議討論此事。（新華社）"
+    },
+    {
+      "id": "te:markets:574559",
+      "time": "2026-08-12 09:33:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises to 2-Week High — US gasoline futures rose to around $3.16 per gallon on Wednesday, a two-week high, tracking gains in crude prices as markets assessed the viability of efforts toward a potential deal on the Strait of Hormuz. Pakistan’s defense minister said the US and Iran are “close to some sort of arrangement” over the waterway, while Iran-Oman talks have reached an advanced stage, according to a Qatari official cited by Al Jazeera. Meanwhile, API data showed gasoline stocks fell by 1.531 million barrels in the week ending August 7, following a 156,000-barrel increase the prior week. Elsewhere, escalating Russia-Ukraine attacks raised concerns over further energy disruptions after Ukraine launched a long-range drone strike on a major Russian refinery. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its ban on gasoline and diesel exports through January 2027. At the pump, the EIA raised its retail gasoline price forecast for this year and 2027."
+    },
+    {
+      "id": "5036623",
+      "time": "2026-08-12 09:33:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國航將新開北京至羅馬尼亞、克羅埃西亞航線】從國航瞭解到，國航將於9月4日起新開北京-布加勒斯特-薩格勒布國際客運航線，每週一、三、五執行三個往返航班。該航線的開通將進一步豐富在中東歐航空市場的網路佈局，大幅縮短中國與中東歐腹地的時空距離。國航相關負責人介紹，國航持續在中歐市場最佳化網路佈局、加大運力投入，已通航27個歐洲航點，每週運營近260個航班。"
+    },
+    {
+      "id": "5036622",
+      "time": "2026-08-12 09:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.07%。N賽斯轉、奧飛轉債、愛迪轉債、雙良轉債、精測轉2漲幅居前，分別漲30.00%、2.36%、2.31%、1.89%、1.65%。久吾轉02、航宇轉債、永吉轉債、運機轉債、銀輪轉債跌幅居前，分別跌0.99%、0.99%、0.85%、0.64%、0.63%。"
+    },
+    {
+      "id": "5036621",
+      "time": "2026-08-12 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲3%，現報1487.50元。"
+    },
+    {
+      "id": "5036620",
+      "time": "2026-08-12 09:32:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Alpha Compute將斥資超5000萬美元，在美國賓州建天然氣資料中心園區】當地時間8月11日，人工智慧基礎設施公司Alpha Compute宣佈簽署有約束力意向書，計劃在美國賓夕法尼亞州收購天然氣資產，建設一座規劃容量200兆瓦、以天然氣供電的資料中心園區，並有可能擴建至1吉瓦。該資產的收購基準價格定為5500萬美元，在簽署最終協議後，Alpha Compute需支付300萬美元定金。"
+    },
+    {
+      "id": "5036619",
+      "time": "2026-08-12 09:32:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭板塊盤初走弱，新大洲A跌停】煤炭板塊盤初走弱，新大洲A跌停，大有能源、潞安環能、淮北礦業、山西焦化、蘭花科創、恆源煤電等跟跌。"
+    },
+    {
+      "id": "5036618",
+      "time": "2026-08-12 09:32:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工業母機概念繼續活躍 華東數控3連板】早盤工業母機概念繼續活躍，華東數控3連板，鼎通科技、瀋陽機床、銳科鐳射、科德數控、大族數控跟漲。"
+    },
+    {
+      "id": "mkt:019ff399-324b-7aab-8ffe-006961121358",
+      "time": "2026-08-12 09:32:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index's early losses widened to 1%; Hang Seng Index is down 0.9%."
+    },
+    {
+      "id": "5036617",
+      "time": "2026-08-12 09:31:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇省首個Token運營中心在蘇州揭牌】據蘇州日報，8月11日，中國電信（江蘇）Token運營中心揭牌暨入駐蘇州國際資料港儀式在蘇州工業園區舉行。這是全省首個Token運營中心，目標打造國內領先、接軌國際的Token綜合服務樞紐。此次揭牌的中國電信（江蘇）Token運營中心將聚焦大模型詞元算力業務，整合國內AI應用場景，打通跨境AI服務雙向通道，實現詞元算力排程、交付、鑑證、管控等全生命週期管理。當天，涵蓋天翼雲、智譜、火山、阿里、騰訊、中國電信國際公司、新建元等國內外領軍企業的Token出海服務聯盟同步成立，初步形成從資源供給到場景應用、從智慧排程到跨境輸出的協同生態網路，可為出海企業提供“模型+合規+本地化”一站式服務。"
+    },
+    {
+      "id": "mkt:019ff398-4e8d-7aab-8ffd-ff55fd510e6f",
+      "time": "2026-08-12 09:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures open】CSI 300 index futures (IF) most-active contract down 0.10%, SSE 50 index futures (IH) most-active contract down 0.17%, CSI 500 index futures (IC) most-active contract up 0.12%, CSI 1000 index futures (IM) most-active contract down 0.03%."
+    },
+    {
+      "id": "mkt:019ff398-4d27-7aab-8ffd-f076df92437d",
+      "time": "2026-08-12 09:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】2-year government bond futures (TS) most-active contract flat at the morning open; 5-year (TF) down 0.01%, 10-year (T) down 0.02%, 30-year (TL) down 0.06%."
+    },
+    {
+      "id": "5036616",
+      "time": "2026-08-12 09:30:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "影視院線板塊高開，北京文化走出三連板，儒意電影漲超4%，金逸影視、中國電影等跟漲。"
+    },
+    {
+      "id": "mkt:019ff397-fc83-7aab-8ffd-e8dc78bec8e3",
+      "time": "2026-08-12 09:30:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share film exhibition sector opened higher. Beijing Culture extended its run to a third straight daily limit-up. Ruyi Film rose over 4%; Jinyi Film & TV and China Film also advanced."
+    },
+    {
+      "id": "5036615",
+      "time": "2026-08-12 09:30:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報25392.738點；恒生科技指數現跌1.223%。"
+    },
+    {
+      "id": "mkt:019ff397-567c-7aab-8ffd-e74a416bb756",
+      "time": "2026-08-12 09:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Henan issues red heavy-rain warning, activates level-2 flood emergency】Henan’s flood-control command activated a level-2 emergency response at 08:00 on Aug 12, the provincial emergency management department said. From 08:00 Aug 12 to 08:00 Aug 13 heavy rain is expected along the Huai River and across much of northern Henan. Heavy downpours are forecast in parts of southern Jiaozuo, central-eastern and eastern Xinxiang, eastern Luoyang, Zhengzhou, Kaifeng, central-western Shangqiu, Pingdingshan, Xuchang, Luohe, central-western and northern Zhoukou, northeastern Nanyang and northern Zhumadian. Localised ultra-heavy rain (250–350mm at isolated points) is possible in southeastern Zhengzhou, southern Kaifeng, central Pingdingshan, northern Xuchang and western Zhoukou. Brief intense rainfall with hourly rates of 40–60mm (up to 80mm locally) and convective thunderstorm winds of force 8–10 are also expected."
+    },
+    {
+      "id": "5036614",
+      "time": "2026-08-12 09:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4773.250點；恒生指數現跌0.910%。"
+    },
+    {
+      "id": "5036613",
+      "time": "2026-08-12 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.02%， 5年期主力合約跌0.02%， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "5036612",
+      "time": "2026-08-12 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.19%， 滬深300指數期貨連續漲0.10%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續漲0.09%。"
+    },
     {
       "id": "5036611",
       "time": "2026-08-12 09:29:29",
@@ -140111,139 +140283,6 @@
         "國際"
       ],
       "text": "菲律賓統計局：CPI方面仍面臨風險。"
-    },
-    {
-      "id": "5025698",
-      "time": "2026-08-05 09:34:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7285.00點。"
-    },
-    {
-      "id": "mkt:019fcf8e-36e7-7aab-8f7b-f9ccd7ed51b1",
-      "time": "2026-08-05 09:33:51",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share storage-chip sector spiked intraday; Zhongjing Electronics hit the daily limit, Zhengfan Technology rose over 8%, and Yong'anxing, Shenkeda, Voge Optoelectronics and Huahong Hongli also advanced."
-    },
-    {
-      "id": "5025697",
-      "time": "2026-08-05 09:32:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【遊戲板塊短線拉昇，凱撒文化、大晟文化漲停】遊戲板塊短線拉昇，凱撒文化、大晟文化漲停，巨人網路、寶通科技、名臣健康、富春股份、迅遊科技等紛紛走高。"
-    },
-    {
-      "id": "mkt:019fcf8c-b5db-7aab-8f7b-f1a437ed666d",
-      "time": "2026-08-05 09:32:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share rare-earth permanent-magnet sector outperformed; Jiuling Technology rose over 10%, Benlang New Materials over 8%, Xici Technology over 7%, Zhongke Magnetic Industry over 6%, while Youyan New Materials and Beifang New Materials also gained."
-    },
-    {
-      "id": "5025696",
-      "time": "2026-08-05 09:31:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.15%。N江農轉、久吾轉02、科博轉債、金25轉債、中汽轉債漲幅居前，分別漲30.00%、20.00%、4.07%、2.99%、2.61%。歐通轉債、奧飛轉債、韋爾轉債、泰坦轉債、春風轉債跌幅居前，分別跌1.39%、1.12%、0.90%、0.78%、0.77%。"
-    },
-    {
-      "id": "5025695",
-      "time": "2026-08-05 09:31:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.22%，成分股中，盛科通訊漲5.33%，華虹宏力漲4.53%，晶合整合漲3.11%，佰維儲存漲2.91%。"
-    },
-    {
-      "id": "mkt:019fcf8b-daa7-7aab-8f7b-eb6de6b8d7d4",
-      "time": "2026-08-05 09:31:16",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【China stock index futures open】At the morning open, front-month contracts: CSI 300 index futures (IF) -0.39%, SSE 50 index futures (IH) +0.53%, CSI 500 index futures (IC) +0.15%, CSI 1000 index futures (IM) +0.34%."
-    },
-    {
-      "id": "mkt:019fcf8b-d5bc-7aab-8f7b-e66d4c56d0b4",
-      "time": "2026-08-05 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open, morning session】At the morning open, 2-year government bond futures (TS) most-active contract rose 0.01%, 5-year (TF) rose 0.02%, 10-year (T) rose 0.03% and 30-year (TL) rose 0.07%."
-    },
-    {
-      "id": "5025694",
-      "time": "2026-08-05 09:31:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4934.700點；恒生指數現漲0.399%。"
-    },
-    {
-      "id": "5025693",
-      "time": "2026-08-05 09:31:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.15%，成分股中，科力股份跌6.43%，則成電子跌3.08%，戈碧迦跌2.65%，艾融軟體跌2.51%。"
-    },
-    {
-      "id": "5025692",
-      "time": "2026-08-05 09:30:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "【小金屬板塊高開，雲南鍺業觸及漲停】小金屬板塊高開，雲南鍺業觸及漲停，浩通科技、貴研鉑業、中稀有色、盛和資源跟漲。"
-    },
-    {
-      "id": "5025691",
-      "time": "2026-08-05 09:30:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家大基金三期等入股正芯半導體】企查查APP顯示，近日，瀋陽正芯半導體科技有限公司發生工商變更，新增國家大基金三期旗下國投集新（北京）股權投資基金（有限合夥）、金石成長股權投資（杭州）合夥企業（有限合夥）等為股東，同時，註冊資本由10萬元增至約1134萬元。企查查資訊顯示，該公司成立於2025年3月，法定代表人為鄭廣文，經營範圍包括超導材料銷售、超導材料製造、電子產品銷售等。"
-    },
-    {
-      "id": "mkt:019fcf8b-4a64-7aab-8f7b-d871f019c05c",
-      "time": "2026-08-05 09:30:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share fiber-optic concept stocks opened lower. Dongshan Precision fell more than 9%; Yuanjie Technology, Changguang Huaxin and Tianfu Communication dropped over 8%; Dekeli and Guangku Technology also declined."
-    },
-    {
-      "id": "5025690",
-      "time": "2026-08-05 09:30:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "豐田準備從週四開始重啟福岡工廠。"
     }
   ]
 }
