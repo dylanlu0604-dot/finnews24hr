@@ -1,7 +1,101 @@
 {
-  "updated": "2026-08-12 11:12:00",
+  "updated": "2026-08-12 11:15:53",
   "count": 15343,
   "items": [
+    {
+      "id": "5036771",
+      "time": "2026-08-12 11:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士股價延續漲勢，最新報154.1萬韓元，漲幅達8.1%。"
+    },
+    {
+      "id": "mkt:019ff3f7-5aed-7aab-8fff-f2cd7faf43af",
+      "time": "2026-08-12 11:15:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS",
+        "373220.KS"
+      ],
+      "text": "【AI optimism fuels chip rally; South Korea market gains for third day】South Korean stocks rose on Wednesday for a third straight session, led by a surge in chip shares on AI optimism; the KOSPI climbed more than 4% to 6,635 points, its highest level since Aug. 5. Kiwoom Securities analyst Han Ji-young said validation of strong AI infrastructure demand from CoreWeave and Supermicro should boost flows into the semiconductor sector and domestic AI-related names. Heavyweights Samsung Electronics and SK Hynix jumped over 7%; LG Energy Solution rose about 3%; Hyundai Motor and Kia gained roughly 2% and 1.5%, respectively."
+    },
+    {
+      "id": "mkt:019ff3f7-0cb3-7aab-8fff-e8bd463be82f",
+      "time": "2026-08-12 11:14:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "AMZN.O"
+      ],
+      "text": "【Societe Generale: AI CapEx to accelerate in H2, peak could be H1 2027】Societe Generale strategist Manish Kabra’s team says recent extreme swings in semiconductors and momentum trades reflect concentrated de-leveraging and hedge fund unwind, not a synchronous weakening of AI fundamentals. They assess South Korea’s most acute de-leveraging phase is nearing an end and US momentum strategies have seen large-scale reductions. Hyperscaler cloud businesses remain in a strong upcycle in the latest results cycle; order backlogs are up about 15% and have pushed AI capital spending roughly 10% higher. The team expects AI CapEx to continue accelerating into H2 2026, with a potential peak in H1 2027. Societe Generale advises distinguishing trading-driven de-leveraging—which has cooled—from the still-expanding industrial CapEx cycle; until hyperscaler free cash flow materially improves, hardware, infrastructure and supply-chain suppliers that directly capture AI CapEx are likely more direct beneficiaries than high-spend customers."
+    },
+    {
+      "id": "5036770",
+      "time": "2026-08-12 11:13:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價延續漲勢；最新上漲7.6%，報257,750韓元."
+    },
+    {
+      "id": "5036769",
+      "time": "2026-08-12 11:13:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曝小紅書打造全新“AI導購”功能，官方暫無回應】今日有訊息稱，小紅書在打造全新的“AI導購”功能，依託對話互動模式，在問答場景中直接推送商品卡片、掛載下單跳轉連結，該專案由道玄（潘博遠）主導推進。對此訊息，向小紅書官方進行求證，截至發稿暫無回應。（新浪科技）"
+    },
+    {
+      "id": "te:markets:574590",
+      "time": "2026-08-12 11:13:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Retreats on Ample Supplies, Profit-Taking — Malaysian palm oil futures eased, slipping below MYR 4,720 per tonne as profit-taking set in after a two-week high. Losses tracked declines in edible oils on the Dalian exchange and were compounded by signs of ample supply: July inventories rose 3.32% to 2.63 million tonnes, while output surged 9.41% to 1.79 million tonnes. Softer Chinese inflation data underscored weak demand in the world’s top edible oil importer, further weighing on sentiment. Still, downside was cushioned by a weaker ringgit and firmer soyoil prices on the Chicago exchange. In top buyer India, festive-season demand expectations lent support after July imports hit a ten-month peak. Export prospects brightened as cargo surveyors estimated shipments rose between 2.6% and 14.8% in the first ten days of August. Meanwhile, stronger crude oil prices added a tailwind, with Middle East supply concerns, heightened by attacks on two ships and uncertainty over a U.S.–Iran peace deal, bolstering the broader commodity complex."
+    },
+    {
+      "id": "te:markets:574589",
+      "time": "2026-08-12 11:13:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Singapore",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "STI Pulls Back from Record High on Profit-Taking — Singapore's stocks fell 36 points, or 0.6%, to 5,718 in Wednesday morning trade, erasing gains from the previous three sessions, as traders took profits after the index hit a record high a day earlier. The STI closed at 5,754 on Tuesday, buoyed by strong economic data following an upward revision to Q2 GDP growth to 5.9%. The broader index tracked a decline on Wall Street overnight, as rising oil prices raised concerns over inflation and expectations of an interest rate hike. Traders were cautious ahead of the release of US inflation data later today for clues about the Fed's monetary policy decisions at its upcoming meeting. However, fresh data capped the fall, as Singapore's current account surplus widened in Q2 from the same period in 2025. Communication, technology services, and finance mainly weighed on the index, with the biggest laggards being Jardine Matheson Holdings (-2.2%), Jardine Cycle & Carriage (-1.0%), OCBC (-0.9%), and Hongkong Land Holdings (-0.8%)."
+    },
+    {
+      "id": "5036768",
+      "time": "2026-08-12 11:13:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東用電負荷今年第四次創新高】8月11日13時47分，廣東電網用電負荷今年第四次創新高，達到1.757億千瓦，同比增長6.53%。目前，廣東電力供應平穩有序。同日，廣東省內陽江、汕頭、揭陽、潮州等地市負荷創歷史新高。 （廣東釋出）"
+    },
+    {
+      "id": "mkt:019ff3f5-6510-7aab-8fff-e16a6177e857",
+      "time": "2026-08-12 11:12:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Guangdong power load hits fourth record high this year】At 13:47 on Aug 11, China’s Guangdong grid peak load reached 175.7 GW, the fourth record high this year, up 6.53% YoY. Power supply is reported stable and orderly. On the same day the cities of Yangjiang, Shantou, Jieyang and Chaozhou each hit all-time peak loads."
+    },
     {
       "id": "mkt:019ff3f3-da47-7aab-8fff-dadad149ece7",
       "time": "2026-08-12 11:11:12",
@@ -139631,89 +139725,6 @@
         "焦點"
       ],
       "text": "苯乙烯連續主力合約日內跌5%，現報8053.00元。"
-    },
-    {
-      "id": "te:markets:572795",
-      "time": "2026-08-05 11:15:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Holds Firm at 2023 Peak — The offshore yuan held its gain around 6.74 per dollar on Wednesday, staying at its strongest level since early February 2023 as improving prospects for a renewed Middle East agreement boosted risk sentiment. Qatar said mediation efforts between the US and Iran had entered an advanced phase, with a draft agreement already prepared. US officials signaled growing confidence that a deal could be reached soon, raising hopes for the reopening of the Strait of Hormuz. On the domestic front, a private survey showed China’s Composite PMI fell to a one-year low of 50.8 in July 2026, reflecting slower momentum across the economy. The manufacturing PMI eased to a four-month low of 50.9, while the services PMI slipped to its weakest level in nearly two years at 50.4. Meanwhile, the People’s Bank of China announced a CNY 500 billion three-month outright reverse repo operation to maintain ample liquidity in the banking system, with bids determined through multi-tier interest-rate pricing."
-    },
-    {
-      "id": "te:markets:572794",
-      "time": "2026-08-05 11:15:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Soybeans Extend Decline Near 5-Week Low — Soybean futures fell further to around $11.5 per bushel, approaching a five-week low as weaker crude oil prices weighed on the vegetable oil market. Oil prices sharply declined following reports of a potential US-Iran deal that could reopen the Strait of Hormuz. Agricultural commodity prices often tracked energy markets due to the growing use of crop-based feedstocks in biofuel production. Additional pressure came from expectations of ample global supplies, with brokerage StoneX forecasting the 2026 US soybean harvest at 4.47 billion bushels. While the USDA recently confirmed a private sale of 132,000 metric tons of US soybeans to China for delivery in the 2026/27 marketing year, the purchase did little to offset the bearish supply outlook. Meanwhile, traders continued to monitor developments in the Black Sea region, where the ongoing Russia-Ukraine war threatened grain export routes, although expectations for another large harvest from the region continued to weigh on prices."
-    },
-    {
-      "id": "5025891",
-      "time": "2026-08-05 11:15:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【通訊線纜及配套板塊持續走高，通鼎互聯漲停】通訊線纜及配套板塊持續走高，通鼎互聯漲停，長盈通、長飛光纖、特發資訊、中天科技、亨通光電等紛紛走高。"
-    },
-    {
-      "id": "5025890",
-      "time": "2026-08-05 11:15:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【周大福周生生老廟金飾集體上漲8-10元左右】多家品牌金飾價格單日集體上漲8-10元左右。8月5日，周大福足金飾品報1240元/克，單日上漲9元；周生生足金飾品報1237元/克免，單日上漲10元；老廟足金飾品報1236元/克，單日漲8元；老鳳祥足金飾品報1237元/克，單日上漲9元。"
-    },
-    {
-      "id": "5025889",
-      "time": "2026-08-05 11:14:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國商務部：預計第三季度整體通脹率為2.09%。"
-    },
-    {
-      "id": "te:markets:572793",
-      "time": "2026-08-05 11:13:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Hits 4-week High — Silver increased to 60.94 USD/t.oz, the highest since July 2026. Over the past 4 weeks, Silver lost 1.89%, and in the last 12 months, it increased 60.86%."
-    },
-    {
-      "id": "5025888",
-      "time": "2026-08-05 11:13:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海南三亞釋出暴雨紅色預警訊號】從三亞市氣象臺獲悉，8月5日9時11分，三亞釋出崖州區的暴雨紅色預警訊號：受強對流雲團影響，三亞市崖州區水南小學附近區域過去3小時降雨量已達130.6毫米，該強對流雲團將向偏東方向移動且強度維持，預計未來6小時內崖州區、天涯區南部、吉陽區、海棠區南部仍將有50至100毫米的降雨，其餘地區將有30至50毫米的降雨，請注意防範強降雨可能引發的中小河流洪"
-    },
-    {
-      "id": "5025887",
-      "time": "2026-08-05 11:13:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達2.04%，成分股中，雲星宇漲9.43%，納科諾爾漲7.04%，戈碧迦漲4.93%，天工股份漲4.56%。"
-    },
-    {
-      "id": "5025886",
-      "time": "2026-08-05 11:12:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.3%。"
     }
   ]
 }
