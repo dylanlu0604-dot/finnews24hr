@@ -1,7 +1,36 @@
 {
-  "updated": "2026-08-12 23:10:23",
-  "count": 15149,
+  "updated": "2026-08-12 23:14:31",
+  "count": 15143,
   "items": [
+    {
+      "id": "mkt:019ff689-25e3-7aab-9010-2b6a74e85293",
+      "time": "2026-08-12 23:13:30",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "VIX briefly hit a seven-month low; latest down 0.44 points to 14.84."
+    },
+    {
+      "id": "5038000",
+      "time": "2026-08-12 23:13:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥期權交易所波動率指數短暫觸及七個多月低點；最新下跌 0.44 點，報 14.84。"
+    },
+    {
+      "id": "5037999",
+      "time": "2026-08-12 23:11:24",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國推出新計劃 加快盟友間AI關鍵物資流通】特朗普政府宣佈一項新計劃，旨在加速美國與其最緊密貿易伙伴之間在AI發展關鍵物資方面的運輸。美國國務院週三表示，將在巴拿馬建立一個試點平臺，以加快AI關鍵產品的貿易流通。該平臺是美國主導的“矽和平”倡議的一部分，旨在加強盟友之間的供應鏈。國務院在宣告中表示，將提供最高5,000萬美元的對外援助資金，用於開發和部署該平臺，並利用AI技術加快物流流程。"
+    },
     {
       "id": "mkt:019ff685-c573-7aab-9010-27ceaf8ffde5",
       "time": "2026-08-12 23:09:49",
@@ -138137,93 +138166,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：我們本週末沒有前往巴基斯坦和卡達的計劃。"
-    },
-    {
-      "id": "5027291",
-      "time": "2026-08-05 23:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟將於8月底對巴西食品進口進行審計。"
-    },
-    {
-      "id": "5027290",
-      "time": "2026-08-05 23:14:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "宣告顯示：達拉斯聯邦儲備銀行與紐約聯邦儲備銀行將推出私人信貸市場試點調查。"
-    },
-    {
-      "id": "mkt:019fd27c-d2b3-7aab-8f90-2a02a7640d7f",
-      "time": "2026-08-05 23:13:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran says joint statement with Oman being drafted after agreeing coordinates for proposed Strait of Hormuz shipping corridor】Iran’s foreign ministry said two months of talks with Oman, both littoral states of the Strait of Hormuz, have produced agreement on geographic coordinates for a proposed commercial shipping corridor and that a joint declaration containing the main consensus is in final review and drafting, provided third parties do not obstruct the process. Tehran said technical, legal, security and environmental issues have been reviewed and described the negotiations as professional and forward-looking. The ministry added Iran’s foreign minister and parliamentary speaker currently have no planned visits to Pakistan or Qatar, but Iran is in contact with both as they continue efforts to ease regional tensions."
-    },
-    {
-      "id": "5027289",
-      "time": "2026-08-05 23:13:16",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【市場關注重開霍爾木茲海峽進展 金銀價格齊漲】隨著有關達成臨時協議、重開霍爾木茲海峽的預期升溫，市場對通脹前景的擔憂有所緩解，美聯儲加息的可能性下降，金價連續第三個交易日上漲。現貨黃金上漲逾3%，至每盎司約4,230美元。此前兩個交易日，金價均錄得小幅上漲；白銀價格也同步走高。隨著市場愈發預期各方將達成協議、重啟這條關鍵航道，美國總統特朗普表示，關於霍爾木茲海峽的協議最早可能於週三達成。與此同時，美元走弱，美國原油價格進一步下跌。"
-    },
-    {
-      "id": "mkt:019fd27c-44ca-7aab-8f90-211ff776513a",
-      "time": "2026-08-05 23:13:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【SZSE set to switch market-data access after SSE; nearby data-center capacity tight】Institutions are racing to secure co‑location near the Shanghai and Shenzhen exchanges after the Shanghai Stock Exchange completed a switch of market-data access from LAN to WAN on July 31. The Shenzhen Stock Exchange has not yet completed the change but is expected to switch market-data access from LAN to WAN on August 7; some firms say the switch could occur within the week, though timing remains unconfirmed. Market participants report that surrounding data centers in both cities are facing tight supply for racks/co‑location, creating potential capacity constraints for latency‑sensitive trading and market‑data connectivity."
-    },
-    {
-      "id": "mkt:019fd27b-3584-7aab-8f90-1fd2a89cf8e4",
-      "time": "2026-08-05 23:11:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold breached $4,260/oz intraday, rising 4.48% on the day."
-    },
-    {
-      "id": "mkt:019fd27a-c594-7aab-8f90-1576f309722c",
-      "time": "2026-08-05 23:11:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran says it agreed with Oman on coordinates for proposed Strait of Hormuz shipping lane】Iran’s foreign ministry spokesman wrote on social media on the 5th that Iran and Oman have agreed on the geographic coordinates for a proposed Strait of Hormuz shipping lane, and a joint statement is in its final review stage."
-    },
-    {
-      "id": "5027288",
-      "time": "2026-08-05 23:11:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4260美元/盎司，日內漲4.48%。"
-    },
-    {
-      "id": "5027287",
-      "time": "2026-08-05 23:10:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4320美元/盎司，日內漲4.04%。"
     }
   ]
 }
