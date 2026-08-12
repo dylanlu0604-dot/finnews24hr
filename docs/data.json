@@ -1,7 +1,241 @@
 {
-  "updated": "2026-08-12 08:58:36",
-  "count": 15408,
+  "updated": "2026-08-12 09:03:03",
+  "count": 15407,
   "items": [
+    {
+      "id": "mkt:019ff37d-ab0d-7aab-8ffd-2c4ca3287814",
+      "time": "2026-08-12 09:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the situation with Iran is good and that the U.S. controls the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ff37d-3281-7aab-8ffd-26242e9e111f",
+      "time": "2026-08-12 09:01:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he followed the Secret Service's instructions during a flight change."
+    },
+    {
+      "id": "mkt:019ff37d-1bc5-7aab-8ffd-1893ba657a26",
+      "time": "2026-08-12 09:01:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Xiaomi Auto said SU7 sold 21,044 units in July 2026, marking four consecutive months as the top-selling sedan in the over-200,000 yuan price segment."
+    },
+    {
+      "id": "mkt:019ff37d-0437-7aab-8ffd-122de6821b0a",
+      "time": "2026-08-12 09:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China launches first double‑deck bulk rail‑sea intermodal half‑height container train】Today (12th) China launched its first double‑deck bulk rail‑sea intermodal half‑height container train from Baotou Wanshuiquan South station, Inner Mongolia, to Huanghua port, Hebei. The service links double‑deck rail transport with sea shipping without re‑boxing: standard 2.6m containers are compressed to 1.7m half‑height units compatible with existing port‑rail handling, enabling single‑box end‑to‑end transfer, cutting more than five transshipment steps and reducing unit transport cost by over 25%. The operator describes the option as a no‑rebox, no‑open, one‑box‑through logistics solution for bulk cargo."
+    },
+    {
+      "id": "mkt:019ff37c-fd2d-7aab-8ffd-08a435f63487",
+      "time": "2026-08-12 09:01:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan 2-year government bond yield rose 3.0 bps to 1.640%."
+    },
+    {
+      "id": "mkt:019ff37c-f104-7aab-8ffd-03cf76f732b3",
+      "time": "2026-08-12 09:01:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 194.55 points higher, up 0.43%, at 45,315.27 on Wednesday, Aug 12."
+    },
+    {
+      "id": "mkt:019ff37c-e3bf-7aab-8ffc-fec2625e549f",
+      "time": "2026-08-12 09:01:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D opened down 0.18% at 951.0 yuan/gram on Aug. 12 (Wednesday) morning; Silver T+D opened down 0.25% at 15,808.0 yuan/kg."
+    },
+    {
+      "id": "5036580",
+      "time": "2026-08-12 09:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲3.0個基點，至1.640%。"
+    },
+    {
+      "id": "te:markets:574551",
+      "time": "2026-08-12 09:00:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies Ahead of US CPI Report — Silver steadied near $65 an ounce on Wednesday after declining in the previous session, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, silver remained supported by solid industrial consumption, particularly from expanding solar panel manufacturing and electricity grid development. Recent data showed Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes."
+    },
+    {
+      "id": "5036579",
+      "time": "2026-08-12 09:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首列雙層大宗散貨鐵海聯運半高箱班列首發】今天（12日），我國首列雙層大宗散貨鐵海聯運半高箱班列在內蒙古包頭萬水泉南站首發，發往河北黃驊港。 班列首次實現半高箱鐵路雙層運輸與海運“無換裝”銜接。原來2.6米高的標準集裝箱，壓縮到1.7米的半高箱，能相容現有港鐵裝卸裝置，實現全程“一箱制”轉運，精簡五次以上中轉工序，單位運輸成本下降超四分之一。為大宗散貨鐵海聯運新增了一種“不換箱、不開箱、一箱到底”的物流新選擇。"
+    },
+    {
+      "id": "5036578",
+      "time": "2026-08-12 09:00:30",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一。燃料油漲超3％，低硫燃料油（LU）漲超2％，焦煤、多晶矽、瀝青、紅棗、焦炭漲超1％。跌幅方面，鈀、鉑、瓶片、紙漿跌超1％，雞蛋跌近1％。"
+    },
+    {
+      "id": "5036577",
+      "time": "2026-08-12 09:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車 ：2026年7月，小米SU7銷量21,044輛， 連續4個月位列20萬以上轎車銷量第一。"
+    },
+    {
+      "id": "mkt:019ff37b-ffa6-7aab-8ffc-f0f39763e0a5",
+      "time": "2026-08-12 09:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning open, China's domestic futures main contracts were mixed. Fuel oil rose over 3%; low-sulfur fuel oil (LU) gained more than 2%. Coking coal, polysilicon, asphalt, red dates and coke advanced over 1%. Palladium, platinum, PET bottle chips and pulp fell more than 1%; eggs slipped about 1%."
+    },
+    {
+      "id": "mkt:019ff37b-f847-7aab-8ffc-ec9f2684253b",
+      "time": "2026-08-12 09:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.15%."
+    },
+    {
+      "id": "5036576",
+      "time": "2026-08-12 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報45,175.70。"
+    },
+    {
+      "id": "5036575",
+      "time": "2026-08-12 09:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在航班變更期間遵循了特勤局的指示。"
+    },
+    {
+      "id": "5036574",
+      "time": "2026-08-12 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲2%，現報1477.00元。"
+    },
+    {
+      "id": "5036573",
+      "time": "2026-08-12 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】低硫燃料油連續漲2.42%，焦煤連續漲2.29%，多晶矽連續漲1.60%，燃料油連續漲1.35%，瀝青連續漲1.18%。"
+    },
+    {
+      "id": "5036572",
+      "time": "2026-08-12 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.15%。"
+    },
+    {
+      "id": "5036571",
+      "time": "2026-08-12 08:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我收到了很多威脅。"
+    },
+    {
+      "id": "5036570",
+      "time": "2026-08-12 08:59:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我遵守特勤局和軍方的規定。"
+    },
+    {
+      "id": "5036569",
+      "time": "2026-08-12 08:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我靠特勤局保護。"
+    },
+    {
+      "id": "5036568",
+      "time": "2026-08-12 08:59:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博深股份等在山東成立新材料科技公司】企查查APP顯示，近日，山東山鐵新材料科技有限公司成立，經營範圍包含新型金屬功能材料銷售；橡膠製品銷售；新興能源技術研發；非金屬礦物製品製造等。企查查股權穿透顯示，該公司由博深股份等共同持股。"
+    },
+    {
+      "id": "5036567",
+      "time": "2026-08-12 08:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢良好，我們控制著霍爾木茲海峽。"
+    },
+    {
+      "id": "5036566",
+      "time": "2026-08-12 08:58:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢一切正常。"
+    },
+    {
+      "id": "5036565",
+      "time": "2026-08-12 08:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在安德魯斯聯合基地發表講話。"
+    },
     {
       "id": "te:markets:574550",
       "time": "2026-08-12 08:57:59",
@@ -140105,262 +140339,6 @@
         "市場"
       ],
       "text": "【習酒君品大幅領跌 白酒大單品總價創17天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月5日繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9847元，較昨日大幅下跌29元，連續兩日回落，較8月3日階段高點累計下跌54元，創下17天以來最低。今日除國窖1573與水晶劍南春小幅上漲外，其餘品種均下跌或平盤。酒市終端交投情緒繼續轉弱，空方進一步佔據上風，低位修復行情再受衝擊。\n\n今日11大白酒單品兩漲七跌兩平，輸家佔據絕對優勢。上漲方面，國窖1573與水晶劍南春均小漲1元/瓶，其中前者近期價格漲跌反覆，低位震盪特徵延續；後者自近一個月最低位微幅回升。下跌方面，習酒君品跌幅居前，大跌10元/瓶，創下近一個月最大單日跌幅，昨日重新整理今年5月19日以來最高價紀錄後技術性回落；青花郎大跌7元/瓶，跌破700元大關；古井貢古20下跌6元/瓶，重新整理近一個月最低價紀錄；精品茅臺下跌3元/瓶，遭遇三連跌，亦創下近一個月新低。五糧液普五八代與洋河夢之藍M6+均下跌2元/瓶，其中前者連續兩日回落，低位修復行情再度承壓，後者兩連跌後失守590元關口，近一個月寬幅震盪格局延續；飛天茅臺微跌1元/瓶，昨日短時小幅上漲後再度轉跌，7.18提價後的高位整理格局延續。五糧液1618與青花汾20價格環比昨日保持不變，其中前者連續兩日維持在818元/瓶，後者昨日大幅回落後企穩於372元/瓶。"
-    },
-    {
-      "id": "5025646",
-      "time": "2026-08-05 09:02:09",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "菲律賓統計局公佈，7月通脹年率為+6.2%（調查預估：+6.3%）。"
-    },
-    {
-      "id": "mkt:019fcf70-95f6-7aab-8f7b-3e9e90bc93ce",
-      "time": "2026-08-05 09:01:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index (TAIEX) opened up 1,389.53 points, or 3.2%, to 44,750.19 on Wednesday, Aug. 5."
-    },
-    {
-      "id": "5025645",
-      "time": "2026-08-05 09:01:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內跌4%，現報7092.00元。"
-    },
-    {
-      "id": "mkt:019fcf70-2c3d-7aab-8f7b-36edc70d29e1",
-      "time": "2026-08-05 09:01:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D rose 0.64% to 887.5 yuan/gram in early trade on Wednesday, Aug 5; silver T+D rose 2.56% to 14,528.0 yuan/kg."
-    },
-    {
-      "id": "5025644",
-      "time": "2026-08-05 09:00:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合指數回吐早盤部分漲幅；最新上漲3.6%，報6588.19點。"
-    },
-    {
-      "id": "mkt:019fcf6f-ebc4-7aab-8f7b-2c31f1a1eff9",
-      "time": "2026-08-05 09:00:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese HIAF produces, identifies rare isotope hafnium-153】Researchers at the Institute of Modern Physics, Chinese Academy of Sciences, with collaborators using the newly completed High Intensity Heavy Ion Accelerator Facility (HIAF) have produced and identified the rare nucleus hafnium-153. This is the facility’s first physics result during commissioning and demonstrates HIAF’s capability to explore unknown nuclides and extend the nuclide chart. The results were published in the journal Science Bulletin."
-    },
-    {
-      "id": "mkt:019fcf6f-af9c-7aab-8f7b-2197920321d8",
-      "time": "2026-08-05 09:00:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "Early session in China futures saw mixed moves: ethylene glycol (EG), Europe-route container freight and Shanghai crude (SC) fell more than 5%; LPG, low-sulfur fuel oil (LU), fuel oil, bottle-grade PET and polypropylene dropped over 3%. On the upside, platinum and palladium rose over 4%, Shanghai silver gained more than 3%, Shanghai lead nearly 2%, urea and coking coal up over 1%, and Shanghai zinc, Shanghai gold, international copper and polysilicon up about 1%."
-    },
-    {
-      "id": "5025643",
-      "time": "2026-08-05 09:00:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲3.1%至44,722.27點。"
-    },
-    {
-      "id": "5025642",
-      "time": "2026-08-05 09:00:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌3%，現報8089.00元。"
-    },
-    {
-      "id": "5025641",
-      "time": "2026-08-05 09:00:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【成功產生並鑑別稀有原子核！我國大國重器取得新成果】近日，中國科學院近代物理研究所科研團隊與合作者依託最新建成的大科學裝置——強流重離子加速器裝置（HIAF），成功產生並鑑別了稀有原子核：鉿-153。這是該大裝置除錯期間取得的首個物理成果，驗證了我國新一代強流重離子研究裝置已具備探索未知核素、拓展核素版圖的能力。相關成果近日在學術期刊《科學通報》發表。"
-    },
-    {
-      "id": "5025640",
-      "time": "2026-08-05 09:00:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高1%報43,809.83。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608053831899529",
-      "time": "2026-08-05 09:00:12",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲施密德表示，貨幣政策的前瞻性指引具有價值，具體效果取決於實際情況。"
-    },
-    {
-      "id": "te:markets:572744",
-      "time": "2026-08-05 09:00:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Equities Hold Firm at Five-Month Peak — Australian stocks advanced 44 points or 0.5% to 9,190 on Wednesday morning deals, rising for the fourth session and hovering at their highest in five months. A solid rise in U.S. equity futures lifted sentiment after an extended rally on Wall Street overnight that pushed the broad market index to a record high, helped by upbeat earnings and speculation of a U.S.–Iran deal to reopen the Strait of Hormuz. Locally, July services activity posted its strongest growth in half a year, with the index revised upward from its flash reading. Still, caution ahead of trade data from Australia and main trading partner China capped gains. Meanwhile, July industry conditions showed ongoing weakness in manufacturing and construction. Tech, non-energy minerals, healthcare, and process industries led advances, with early standouts from South32 (3.5%), Northern Star Resources (2.8%), Qantas Airways (2.6%), and Evolution Mining (2.0%). Conversely, most major banks were subdued, and energy names lagged."
-    },
-    {
-      "id": "5025639",
-      "time": "2026-08-05 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌6%，現報1684.50點。"
-    },
-    {
-      "id": "5025638",
-      "time": "2026-08-05 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報2560.00元。"
-    },
-    {
-      "id": "5025637",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲4%，現報423.20元。"
-    },
-    {
-      "id": "5025636",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報8097.00元。"
-    },
-    {
-      "id": "5025635",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲4%，現報317.90元。"
-    },
-    {
-      "id": "5025634",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌5%，現報4645.00元。"
-    },
-    {
-      "id": "5025633",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內跌4%，現報510.70元。"
-    },
-    {
-      "id": "5025632",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.02%。"
-    },
-    {
-      "id": "5025631",
-      "time": "2026-08-05 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】集運指數歐線期貨連續跌6.21%，乙二醇連續跌5.76%，上海原油連續跌5.03%，鉑連續漲4.88%，鈀連續漲4.67%。"
-    },
-    {
-      "id": "5025630",
-      "time": "2026-08-05 08:59:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：需要解決美聯儲資產負債表中的久期問題。美聯儲自身正在影響收益率曲線的長端。"
-    },
-    {
-      "id": "te:economy:572742",
-      "time": "2026-08-05 08:59:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Singapore",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "Singapore Private Sector Growth Hits 5-Month High — Singapore’s S&P Global PMI climbed to 59.2 in July 2026 from 57.4 in June, marking the strongest expansion since February as output and new orders continued to grow at elevated rates. In response, firms increased workforce levels for a second consecutive month, while purchasing activity rose at the second-fastest pace on record, behind only June's peak. Hiring was partly due to persistent capacity pressures, as reflected in the continued accumulation of backlogs. Meanwhile, average supplier lead times lengthened for the first time since February due to customs-related issues and disruptions to shipping routes and port operations. On the pricing front, input costs rose sharply, driven mainly by higher purchasing and labor costs. However, output price inflation eased to its lowest level since January. Looking ahead, Singaporean firms remained optimistic about their output over the coming year."
-    },
-    {
-      "id": "5025629",
-      "time": "2026-08-05 08:59:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽能否兩日內重開 美伊說法不一】當地時間4日，伊朗與阿曼繼續就劃定霍爾木茲海峽新航線進行談判。伊朗方面稱，談判取得積極進展，雙方談判全部結束後將向外界公佈最終結果。與此同時，伊朗否認與美方舉行任何談判，並強調霍爾木茲海峽將繼續關閉。同日，美國國務卿魯比奧表示，美方正參與阿曼和伊朗之間的相關對話和談判，並稱與伊朗就重新開放霍爾木茲海峽進行的談判“已經取得進展”，但協議尚未最終敲定。美財長貝森特表示，美伊可能在當地時間4日或5日達成協議，重新開放霍爾木茲海峽。（央視）"
-    },
-    {
-      "id": "te:economy:572740",
-      "time": "2026-08-05 08:58:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Hong Kong",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Private Sector Expansion Eases — The S&P Global Hong Kong SAR PMI fell to 51 in July 2026, from a four-month high of 52.0 in the previous month. Still, it remained in expansion territory for a third consecutive month as output growth accelerated to its fastest pace in five months. New orders also continued to expand for a third straight month, though softer overseas demand led to slower overall sales growth than in June. Meanwhile, firms continued to trim headcounts, with employment declining at the sharpest rate in three years as businesses sought to contain costs. On the pricing front, inflationary pressures softened, with input costs rising at the slowest pace since March, while output price inflation also eased at the start of the third quarter. Looking ahead, business confidence deteriorated, with companies turning more pessimistic about the year-ahead outlook amid concerns over domestic economic environment and inflationary pressures."
-    },
-    {
-      "id": "5025628",
-      "time": "2026-08-05 08:58:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：美聯儲特別工作組將向聯邦公開市場委員會提供建議，而不是做出決策。"
     }
   ]
 }

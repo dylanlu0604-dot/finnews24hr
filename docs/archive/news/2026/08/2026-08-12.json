@@ -1,7 +1,241 @@
 {
   "date": "2026-08-12",
-  "count": 596,
+  "count": 622,
   "items": [
+    {
+      "id": "mkt:019ff37d-ab0d-7aab-8ffd-2c4ca3287814",
+      "time": "2026-08-12 09:02:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the situation with Iran is good and that the U.S. controls the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019ff37d-3281-7aab-8ffd-26242e9e111f",
+      "time": "2026-08-12 09:01:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he followed the Secret Service's instructions during a flight change."
+    },
+    {
+      "id": "mkt:019ff37d-1bc5-7aab-8ffd-1893ba657a26",
+      "time": "2026-08-12 09:01:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Xiaomi Auto said SU7 sold 21,044 units in July 2026, marking four consecutive months as the top-selling sedan in the over-200,000 yuan price segment."
+    },
+    {
+      "id": "mkt:019ff37d-0437-7aab-8ffd-122de6821b0a",
+      "time": "2026-08-12 09:01:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China launches first double‑deck bulk rail‑sea intermodal half‑height container train】Today (12th) China launched its first double‑deck bulk rail‑sea intermodal half‑height container train from Baotou Wanshuiquan South station, Inner Mongolia, to Huanghua port, Hebei. The service links double‑deck rail transport with sea shipping without re‑boxing: standard 2.6m containers are compressed to 1.7m half‑height units compatible with existing port‑rail handling, enabling single‑box end‑to‑end transfer, cutting more than five transshipment steps and reducing unit transport cost by over 25%. The operator describes the option as a no‑rebox, no‑open, one‑box‑through logistics solution for bulk cargo."
+    },
+    {
+      "id": "mkt:019ff37c-fd2d-7aab-8ffd-08a435f63487",
+      "time": "2026-08-12 09:01:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Japan 2-year government bond yield rose 3.0 bps to 1.640%."
+    },
+    {
+      "id": "mkt:019ff37c-f104-7aab-8ffd-03cf76f732b3",
+      "time": "2026-08-12 09:01:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 194.55 points higher, up 0.43%, at 45,315.27 on Wednesday, Aug 12."
+    },
+    {
+      "id": "mkt:019ff37c-e3bf-7aab-8ffc-fec2625e549f",
+      "time": "2026-08-12 09:01:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D opened down 0.18% at 951.0 yuan/gram on Aug. 12 (Wednesday) morning; Silver T+D opened down 0.25% at 15,808.0 yuan/kg."
+    },
+    {
+      "id": "5036580",
+      "time": "2026-08-12 09:01:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率上漲3.0個基點，至1.640%。"
+    },
+    {
+      "id": "te:markets:574551",
+      "time": "2026-08-12 09:00:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies Ahead of US CPI Report — Silver steadied near $65 an ounce on Wednesday after declining in the previous session, as investors prepared for key US inflation data that could provide fresh clues on the Federal Reserve’s policy outlook. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. Meanwhile, traders assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz amid shifting signals. Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement” over the strait, while reports indicated that talks between Iran and Oman have reached an advanced stage. Elsewhere, silver remained supported by solid industrial consumption, particularly from expanding solar panel manufacturing and electricity grid development. Recent data showed Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes."
+    },
+    {
+      "id": "5036579",
+      "time": "2026-08-12 09:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國首列雙層大宗散貨鐵海聯運半高箱班列首發】今天（12日），我國首列雙層大宗散貨鐵海聯運半高箱班列在內蒙古包頭萬水泉南站首發，發往河北黃驊港。 班列首次實現半高箱鐵路雙層運輸與海運“無換裝”銜接。原來2.6米高的標準集裝箱，壓縮到1.7米的半高箱，能相容現有港鐵裝卸裝置，實現全程“一箱制”轉運，精簡五次以上中轉工序，單位運輸成本下降超四分之一。為大宗散貨鐵海聯運新增了一種“不換箱、不開箱、一箱到底”的物流新選擇。"
+    },
+    {
+      "id": "5036578",
+      "time": "2026-08-12 09:00:30",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一。燃料油漲超3％，低硫燃料油（LU）漲超2％，焦煤、多晶矽、瀝青、紅棗、焦炭漲超1％。跌幅方面，鈀、鉑、瓶片、紙漿跌超1％，雞蛋跌近1％。"
+    },
+    {
+      "id": "5036577",
+      "time": "2026-08-12 09:00:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "小米汽車 ：2026年7月，小米SU7銷量21,044輛， 連續4個月位列20萬以上轎車銷量第一。"
+    },
+    {
+      "id": "mkt:019ff37b-ffa6-7aab-8ffc-f0f39763e0a5",
+      "time": "2026-08-12 09:00:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the morning open, China's domestic futures main contracts were mixed. Fuel oil rose over 3%; low-sulfur fuel oil (LU) gained more than 2%. Coking coal, polysilicon, asphalt, red dates and coke advanced over 1%. Palladium, platinum, PET bottle chips and pulp fell more than 1%; eggs slipped about 1%."
+    },
+    {
+      "id": "mkt:019ff37b-f847-7aab-8ffc-ec9f2684253b",
+      "time": "2026-08-12 09:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures opened down 0.15%."
+    },
+    {
+      "id": "5036576",
+      "time": "2026-08-12 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.1%報45,175.70。"
+    },
+    {
+      "id": "5036575",
+      "time": "2026-08-12 09:00:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在航班變更期間遵循了特勤局的指示。"
+    },
+    {
+      "id": "5036574",
+      "time": "2026-08-12 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲2%，現報1477.00元。"
+    },
+    {
+      "id": "5036573",
+      "time": "2026-08-12 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】低硫燃料油連續漲2.42%，焦煤連續漲2.29%，多晶矽連續漲1.60%，燃料油連續漲1.35%，瀝青連續漲1.18%。"
+    },
+    {
+      "id": "5036572",
+      "time": "2026-08-12 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.15%。"
+    },
+    {
+      "id": "5036571",
+      "time": "2026-08-12 08:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我收到了很多威脅。"
+    },
+    {
+      "id": "5036570",
+      "time": "2026-08-12 08:59:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我遵守特勤局和軍方的規定。"
+    },
+    {
+      "id": "5036569",
+      "time": "2026-08-12 08:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我靠特勤局保護。"
+    },
+    {
+      "id": "5036568",
+      "time": "2026-08-12 08:59:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博深股份等在山東成立新材料科技公司】企查查APP顯示，近日，山東山鐵新材料科技有限公司成立，經營範圍包含新型金屬功能材料銷售；橡膠製品銷售；新興能源技術研發；非金屬礦物製品製造等。企查查股權穿透顯示，該公司由博深股份等共同持股。"
+    },
+    {
+      "id": "5036567",
+      "time": "2026-08-12 08:59:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢良好，我們控制著霍爾木茲海峽。"
+    },
+    {
+      "id": "5036566",
+      "time": "2026-08-12 08:58:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗局勢一切正常。"
+    },
+    {
+      "id": "5036565",
+      "time": "2026-08-12 08:58:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普在安德魯斯聯合基地發表講話。"
+    },
     {
       "id": "te:markets:574550",
       "time": "2026-08-12 08:57:59",
