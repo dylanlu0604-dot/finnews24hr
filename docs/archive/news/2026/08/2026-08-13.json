@@ -1,7 +1,23 @@
 {
   "date": "2026-08-13",
-  "count": 118,
+  "count": 120,
   "items": [
+    {
+      "id": "mkt:019ff751-4dd2-7aab-9012-931b55923a75",
+      "time": "2026-08-13 02:52:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Paramount (PSKY.O) has discussed forming a board to ensure CNN's independence."
+    },
+    {
+      "id": "5038078",
+      "time": "2026-08-13 02:49:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：派拉蒙已商討設立董事會，以保障 CNN 的獨立性。"
+    },
     {
       "id": "mkt:019ff74c-c573-7aab-9012-899ab7d631e2",
       "time": "2026-08-13 02:47:11",
