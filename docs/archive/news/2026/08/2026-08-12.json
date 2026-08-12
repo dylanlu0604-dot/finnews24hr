@@ -1,7 +1,187 @@
 {
   "date": "2026-08-12",
-  "count": 2419,
+  "count": 2438,
   "items": [
+    {
+      "id": "mkt:019ff614-af03-7aab-900c-b457316c83ae",
+      "time": "2026-08-12 21:06:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strategist: inflation report does not fully rule out Fed rate hike】Seema Shah, chief global strategist at Xin'an Asset Management, said today's CPI print plus weak July jobs should cool expectations for a September Fed hike but do not eliminate the risk. Unless August inflation also shows muted price pressures, a September move remains a material possibility. With the Strait of Hormuz still closed, energy supply upside to inflation is a lingering risk; the baseline view is that the Fed will hold rates this year, but continued supply disruption would keep intra‑year hike risk alive. Shah also flagged AI-driven inflationary pressures as a non-negligible upside risk."
+    },
+    {
+      "id": "5037830",
+      "time": "2026-08-12 21:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "洲際交易所：英國現貨碳排放許可成交價為每噸 57.62 英鎊。"
+    },
+    {
+      "id": "te:markets:574775",
+      "time": "2026-08-12 21:05:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Picks Up to 8-Week High — Silver climbed toward $66.60 an ounce on Wednesday, reaching its highest level in eight weeks, as US inflation data broadly matched expectations and reduced concerns about an imminent Federal Reserve rate hike. Core consumer prices rose 0.2% month-on-month and 2.5% year-on-year in July, supporting expectations that the Fed may maintain a more cautious approach to monetary policy. Meanwhile, investors continued to monitor developments around the Strait of Hormuz, with Pakistan’s defense minister saying the US and Iran were “close to some sort of arrangement” to reopen the key waterway. President Donald Trump, however, claimed the US had “total control” over the strait, highlighting continued uncertainty. Beyond monetary policy and geopolitical risks, silver continued to benefit from robust industrial demand, particularly from expanding solar-panel manufacturing and electricity-grid investment. Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes."
+    },
+    {
+      "id": "5037829",
+      "time": "2026-08-12 21:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將ON HOLDING 目標價從83美元下調至73美元。"
+    },
+    {
+      "id": "5037828",
+      "time": "2026-08-12 21:04:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威加斯科公司將白鯨油田日均590萬立方米天然氣停產維護期從原計劃的8月18日至19日重新安排至8月14日至16日。"
+    },
+    {
+      "id": "mkt:019ff612-a6ed-7aab-900c-ab60c3efb4e4",
+      "time": "2026-08-12 21:04:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NATO’s North Atlantic Council expressed solidarity with affected allies and reiterated support for Ukraine."
+    },
+    {
+      "id": "mkt:019ff612-907a-7aab-900c-a68ef148cec3",
+      "time": "2026-08-12 21:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A NATO spokesperson said it will hold a meeting on Wednesday to discuss airspace incursions involving Poland and Romania and recent drone incidents."
+    },
+    {
+      "id": "5037827",
+      "time": "2026-08-12 21:03:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約理事會對受影響的盟國表示聲援，並重申對烏克蘭的支援。"
+    },
+    {
+      "id": "5037826",
+      "time": "2026-08-12 21:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "北約發言人：北大西洋理事會週三召開會議，討論波蘭、羅馬尼亞空域遭侵犯以及近期發生的無人機事件。"
+    },
+    {
+      "id": "mkt:019ff612-24c7-7aab-900c-9cdcc37921b9",
+      "time": "2026-08-12 21:03:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "NATO's North Atlantic Council condemned Russia's \"violation\" of Polish and Romanian airspace."
+    },
+    {
+      "id": "5037825",
+      "time": "2026-08-12 21:03:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST圍海：向深交所申請撤銷公司股票交易其他風險警示】ST圍海公告稱，公司於2026年8月12日召開董事會審議透過申請撤銷其他風險警示的議案，並已向深交所提交申請。2025年4月，公司因披露的年度報告財務指標存在虛假記載，股票被實施其他風險警示。目前，公司已對相應年度財務會計報告進行追溯重述，且自收到處罰決定書已滿12個月，符合撤銷條件。若申請獲批，公司股票簡稱將由“ST圍海”變更為“圍海股份”。該申請稽核批准存在不確定性。"
+    },
+    {
+      "id": "5037824",
+      "time": "2026-08-12 21:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海寧皮城：新能源公司擬2.26億元購買共計38家標的光伏公司股權】海寧皮城公告，公司全資子公司投資公司之全資子公司海寧皮城新能源開發有限公司（以下簡稱“新能源公司”）擬以2.26億元的價格購買浙江昇茂、海寧聚暉、海寧鑫傑下屬共計38家標的光伏公司股權（其中海寧聚暉和海寧鑫傑均為浙江昇茂全資子公司），並於2026年8月11日在浙江省海寧市簽署了相關股權轉讓協議。"
+    },
+    {
+      "id": "mkt:019ff611-de8e-7aab-900c-920772184ea8",
+      "time": "2026-08-12 21:03:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Timiraos cited US CPI data showing core goods prices rose 0.20% MoM in July, ending a two-month decline and marking the largest monthly gain since Sep 2025. Housing costs rose 0.14% MoM in July. Core services ex-housing rose 0.19% MoM, though that index remains below May’s level after a larger drop in June."
+    },
+    {
+      "id": "5037823",
+      "time": "2026-08-12 21:03:01",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "“美聯儲傳聲筒”Nick Timiraos：美國CPI資料顯示，7月核心商品價格環比上漲0.20%，結束此前連續兩個月的下跌。這是自2025年9月以來最大的月度漲幅。住房成本漲幅溫和，7月環比上漲0.14%。剔除住房後的核心服務價格環比上漲0.19%（由於6月降幅較大，該價格水平仍低於5月）。"
+    },
+    {
+      "id": "mkt:019ff611-7d6b-7aab-900c-8bac051bfdbc",
+      "time": "2026-08-12 21:02:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "【Honor CEO Li Jian: Robot Phone pre-orders exceed 400,000 units】On the evening of Aug. 12 at the product launch, Honor CEO Li Jian said pre-orders for the Robot Phone have exceeded 400,000 units."
+    },
+    {
+      "id": "5037822",
+      "time": "2026-08-12 21:02:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中稀有色與廣東省礦產資源勘查院簽署戰略合作協議】據中稀有色訊息，8月11日，中稀有色與廣東省礦產資源勘查院在廣州簽署戰略合作協議，雙方就進一步深化合作、推動戰略性礦產資源保障等方面進行深入交流。"
+    },
+    {
+      "id": "5037821",
+      "time": "2026-08-12 21:02:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "貝爾德私人財富管理投資策略師羅斯·梅菲爾德：美國核心通脹比整體通脹更疲軟，再加上整個系統內確實看不到工資壓力，這兩點應該構成美聯儲9月按兵不動的基石。"
+    },
+    {
+      "id": "mkt:019ff611-39fc-7aab-900c-830bc663bb5a",
+      "time": "2026-08-12 21:02:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Baird Private Wealth Management investment strategist Ross Mayfield said U.S. core inflation is softer than headline inflation and there is no broad wage pressure; together these should form the basis for the Fed to hold rates steady in September."
+    },
+    {
+      "id": "5037820",
+      "time": "2026-08-12 21:01:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Bloom Energy美股盤前漲超10%】Bloom Energy美股盤前漲超10%，現報232.75美元。"
+    },
     {
       "id": "mkt:019ff610-27eb-7aab-900c-78f7f2f5f3f6",
       "time": "2026-08-12 21:01:21",
