@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-12 09:42:22",
-  "count": 15398,
+  "updated": "2026-08-12 09:46:24",
+  "count": 15385,
   "items": [
+    {
+      "id": "mkt:019ff3a5-7d43-7aab-8ffe-670fe7c65bcb",
+      "time": "2026-08-12 09:45:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext Index rose over 1% at the open; Shenzhen Composite Index up 0.74% as CRO and advanced packaging stocks led gains."
+    },
+    {
+      "id": "5036648",
+      "time": "2026-08-12 09:45:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO板塊走高，炬光科技漲超14%】CPO板塊走高，炬光科技漲超14%，邁信林漲超10%，長光華芯、仕佳光子、天孚通訊、光庫科技跟漲。"
+    },
+    {
+      "id": "mkt:019ff3a5-25a2-7aab-8ffe-5d28f820bc6c",
+      "time": "2026-08-12 09:45:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share lithography-equipment sector extended gains; Juguang Technology jumped more than 14%, Fuchuang Precision rose over 5%, while Maolai Optics and Jiangfeng Electronics also advanced."
+    },
+    {
+      "id": "5036647",
+      "time": "2026-08-12 09:44:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報3585.100點；上證指數漲0.04%，現報3935.851點；深證成指漲0.70%，現報14358.917點。"
+    },
+    {
+      "id": "5036646",
+      "time": "2026-08-12 09:44:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股下跌3%。"
+    },
+    {
+      "id": "5036645",
+      "time": "2026-08-12 09:44:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 海致科技集團漲超12%】截至發稿，海致科技集團(02706.HK)漲12.50%，中科聞歌(01956.HK)漲4.74%，壁仞科技(06082.HK)漲4.76%，智譜(02513.HK)漲4.11%。"
+    },
+    {
+      "id": "te:markets:574565",
+      "time": "2026-08-12 09:43:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Ticks Higher Ahead of Key Inflation Data — The dollar index edged toward 99.9 on Wednesday, posting modest gains as investors braced for key inflation readings that will likely influence the Federal Reserve’s next policy move. The consumer price index report is due later today, followed by producer inflation data on Thursday. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. On Tuesday, Chicago Fed President Austan Goolsbee also said the central bank is more concerned about inflation remaining too high than potential weakness in the labor market. On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”"
+    },
+    {
+      "id": "mkt:019ff3a3-4810-7aab-8ffe-53e098b65fde",
+      "time": "2026-08-12 09:43:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China A-share property sector rallied; Shibei Gaoxin, Jingtou Development and Xiangjiang Holdings hit the daily trading limit, while Rongsheng Development, Zhongzhou Holdings and Jinke Co. also advanced."
+    },
+    {
+      "id": "5036644",
+      "time": "2026-08-12 09:43:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST路通等成立新公司 含多項AI相關業務】企查查APP顯示，近日，上海路通雲博科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧硬體銷售；人工智慧通用應用系統；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由ST路通全資子公司上海路通創智科技有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019ff3a2-a91f-7aab-8ffe-487616501fbb",
+      "time": "2026-08-12 09:42:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "02788.HK",
+        "Impact bullish",
+        "02600.HK",
+        "01378.HK"
+      ],
+      "text": "Hong Kong-listed aluminium stocks opened stronger: Innovation Industrial (02788.HK) jumped over 6%, Aluminum Corporation of China (Chalco, 02600.HK) rose more than 4%, with China Hongqiao (01378.HK) and Nanshan Aluminium International (02610.HK) also higher."
+    },
     {
       "id": "5036643",
       "time": "2026-08-12 09:41:36",
@@ -140013,242 +140117,6 @@
         "市場"
       ],
       "text": "三大指數全線翻紅，儲存晶片、先進封裝、MLCC概念等方向漲幅居前。全市場上漲個股超3500只。"
-    },
-    {
-      "id": "mkt:019fcf99-ad75-7aab-8f7c-90e335b1b51e",
-      "time": "2026-08-05 09:46:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "China's three main A-share indices turned positive, led by memory/storage chips, advanced IC packaging and MLCC sectors; more than 3,500 stocks rose."
-    },
-    {
-      "id": "mkt:019fcf99-41c1-7aab-8f7c-8ea40d387e9e",
-      "time": "2026-08-05 09:45:55",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "02099.HK",
-        "Impact bullish",
-        "02899.HK",
-        "01208.HK"
-      ],
-      "text": "Hong Kong mining stocks rallied. China Gold International (02099.HK) rose more than 6%; Wanguo Gold (03939.HK), Minmetals Resources (01208.HK) and China Molybdenum (03993.HK) gained over 3%; Zijin Mining (02899.HK) climbed more than 2%."
-    },
-    {
-      "id": "mkt:019fcf99-3cad-7aab-8f7c-83443ebf4a6a",
-      "time": "2026-08-05 09:45:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "JD.O"
-      ],
-      "text": "【JD.com open-sources real-time streaming video-editing model JoyAI-Video-Edit】Aug 5 — JD.com said it has open-sourced its self-developed real-time streaming video-editing model, JoyAI-Video-Edit. The model allows users to modify people and scenes during playback, enabling interactive, on-the-fly video edits rather than post-production changes."
-    },
-    {
-      "id": "5025731",
-      "time": "2026-08-05 09:45:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東開源實時流式影片編輯模型JoyAI-Video-Edit】8月5日，京東宣佈開源自研的實時流式影片編輯模型JoyAI-Video-Edit。使用者可以一邊觀看影片，一邊修改人物與場景，讓影片創作從“先有素材再修改”變為可實時互動編輯。（京東黑板報）"
-    },
-    {
-      "id": "mkt:019fcf99-1230-7aab-8f7c-7a757f728489",
-      "time": "2026-08-05 09:45:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "Copper"
-      ],
-      "text": "China RatingDog composite PMI fell to 50.8 in July from 53.6 previously."
-    },
-    {
-      "id": "5025730",
-      "time": "2026-08-05 09:45:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4150美元/盎司，日內跌0.06%。"
-    },
-    {
-      "id": "5025729",
-      "time": "2026-08-05 09:45:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【朝鮮：將根據日本動態制定更明確軍事選項】朝鮮勞動黨中央委員會部長金與正發表談話，表示朝鮮武裝力量和軍事領導機構將根據日本現今軍事動態制定更明確的軍事選項。金與正列舉了日本近期的一系列軍事活動，包括美製“戰斧”巡航導彈試射、境外進攻型導彈發射以及部署新型導彈等。她強調，日本的軍事部署已轉變為“先發制人打擊型、海外侵略隊形”，並呼籲國際社會提高警惕，防止日本走向軍事大國化。（新華社）"
-    },
-    {
-      "id": "mkt:019fcf98-e67c-7aab-8f7c-729951c525bb",
-      "time": "2026-08-05 09:45:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | S&P Global/Ratingdog China General Composite PMI (Jul) | actual 50.8 | previous 53.6"
-    },
-    {
-      "id": "5025728",
-      "time": "2026-08-05 09:45:27",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國7月RatingDog綜合PMI 50.8，前值 53.6。"
-    },
-    {
-      "id": "5025727",
-      "time": "2026-08-05 09:45:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲5%，現報319.00元。"
-    },
-    {
-      "id": "mkt:019fcf98-b402-7aab-8f7c-6be9ee1ef6d2",
-      "time": "2026-08-05 09:45:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "China July RatingDog services PMI 50.4, down from 54.1 in June."
-    },
-    {
-      "id": "5025726",
-      "time": "2026-08-05 09:45:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲5%，現報424.30元。"
-    },
-    {
-      "id": "5025725",
-      "time": "2026-08-05 09:45:10",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國7月RatingDog服務業PMI 50.4，前值54.1。"
-    },
-    {
-      "id": "5025724",
-      "time": "2026-08-05 09:45:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【超節點概念震盪反彈 紫光股份漲停】早盤超節點概念震盪反彈，紫光股份漲停，銳捷網路漲超10%，共進股份、星網銳捷、菲菱科思、浪潮資訊、裕太微漲幅靠前。"
-    },
-    {
-      "id": "5025723",
-      "time": "2026-08-05 09:45:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國家能源局副局長汪劍波會見南非電力和能源部部長】8月3日，中國國家能源局副局長汪劍波在京會見南非電力和能源部部長洛西恩佐·拉莫豪帕，雙方就推進中南能源合作交換意見。汪劍波表示，能源是兩國合作的重點領域，中方願與南非共同用好現有政府間合作機制以及共建“一帶一路”、金磚等合作平臺，圍繞能源規劃、清潔能源、電網、技術創新等重點領域加強合作交流，不斷提升中南能源合作水平。拉莫豪帕表示，南非《綜合資源規劃2025》已正式實施，新能源是南非未來發展重點。中國新能源產業體系完整，南非願與中方圍繞能源政策、能源規劃、專案投資、技術交流等領域進一步深化合作。"
-    },
-    {
-      "id": "mkt:019fcf98-6a9d-7aab-8f7c-65c9790cd248",
-      "time": "2026-08-05 09:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | S&P Global/Ratingdog China General Services PMI (Jul) | actual 50.4 | previous 54.1"
-    },
-    {
-      "id": "5025722",
-      "time": "2026-08-05 09:44:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通鼎互聯等成立科技新公司 含積體電路晶片業務】企查查APP顯示，近日，鼎曜光子（上海）科技有限公司成立，經營範圍包含光電子器件銷售；積體電路晶片設計及服務；積體電路晶片及產品製造；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由通鼎互聯(002491)等共同持股。"
-    },
-    {
-      "id": "mkt:019fcf98-2253-7aab-8f7c-58b2d41cd5cb",
-      "time": "2026-08-05 09:44:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "03986.HK",
-        "Impact bullish",
-        "00600.HK",
-        "06809.HK"
-      ],
-      "text": "Hong Kong semiconductor shares rose: GigaDevice Semiconductor (03986.HK) up >6%, Aixin YuanZhi (00600.HK) up >5%, Montage Technology (06809.HK) and Hua Hong Hongli (01347.HK) up >4% each, and SMIC (00981.HK) up >3%."
-    },
-    {
-      "id": "5025721",
-      "time": "2026-08-05 09:44:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【玻璃基板概念表現活躍 沃格光電2連板】玻璃基板概念表現活躍，沃格光電2連板，紅星發展、京東方A、艾森股份、金瑞礦業、天承科技跟漲。"
-    },
-    {
-      "id": "5025720",
-      "time": "2026-08-05 09:44:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【CPO板塊大幅拉昇，星網銳捷漲停】CPO板塊大幅拉昇，星網銳捷、沃格光電、科瑞技術等股漲停，銳捷網路漲超13%。"
-    },
-    {
-      "id": "5025719",
-      "time": "2026-08-05 09:44:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【先進封裝概念盤初走強，山子高科漲停】先進封裝概念盤初走強，山子高科漲停，寒武紀、匯成股份、驕成超聲、太極實業、華海誠科、甬矽電子等跟漲。"
-    },
-    {
-      "id": "te:economy:572757",
-      "time": "2026-08-05 09:43:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "BoJ Highlights Inflation Risks: June Meeting Minutes — Minutes from the Bank of Japan’s June meeting underscored mounting concern over inflation risks. Most board members judged that higher crude oil costs were quickly filtering through business transactions and broadening into consumer prices. Several warned that underlying inflation could overshoot the 2% target, with fuel costs compounding pressures from a weak yen and tight labor market. Some policymakers expected consumer inflation to accelerate in the second half as firms implement widespread price hikes. One member cautioned that even if Middle East tensions ease and oil prices fall, elevated shipping and storage costs for alternative energy would sustain inflationary pressure. The minutes also showed two members favored faster rate hikes to move policy closer to neutral, citing firms’ greater willingness to raise prices. The BoJ lifted its policy rate to 1.0% in June but held steady in July, while signaling that upside risks could justify another hike as early as September."
-    },
-    {
-      "id": "mkt:019fcf96-411e-7aab-8f7c-57dd8a38a1b8",
-      "time": "2026-08-05 09:42:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A-share CRO sector staged a short-term rally: Yiqiao Shenzhou +11%+, Baihua Pharma +9%+, WuXi AppTec +~6%; Kailaiying, Heyuan Biotech and Kanglong Huacheng also advanced."
     }
   ]
 }

@@ -1,7 +1,111 @@
 {
   "date": "2026-08-12",
-  "count": 724,
+  "count": 734,
   "items": [
+    {
+      "id": "mkt:019ff3a5-7d43-7aab-8ffe-670fe7c65bcb",
+      "time": "2026-08-12 09:45:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext Index rose over 1% at the open; Shenzhen Composite Index up 0.74% as CRO and advanced packaging stocks led gains."
+    },
+    {
+      "id": "5036648",
+      "time": "2026-08-12 09:45:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO板塊走高，炬光科技漲超14%】CPO板塊走高，炬光科技漲超14%，邁信林漲超10%，長光華芯、仕佳光子、天孚通訊、光庫科技跟漲。"
+    },
+    {
+      "id": "mkt:019ff3a5-25a2-7aab-8ffe-5d28f820bc6c",
+      "time": "2026-08-12 09:45:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share lithography-equipment sector extended gains; Juguang Technology jumped more than 14%, Fuchuang Precision rose over 5%, while Maolai Optics and Jiangfeng Electronics also advanced."
+    },
+    {
+      "id": "5036647",
+      "time": "2026-08-12 09:44:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.01%，現報3585.100點；上證指數漲0.04%，現報3935.851點；深證成指漲0.70%，現報14358.917點。"
+    },
+    {
+      "id": "5036646",
+      "time": "2026-08-12 09:44:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股下跌3%。"
+    },
+    {
+      "id": "5036645",
+      "time": "2026-08-12 09:44:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 海致科技集團漲超12%】截至發稿，海致科技集團(02706.HK)漲12.50%，中科聞歌(01956.HK)漲4.74%，壁仞科技(06082.HK)漲4.76%，智譜(02513.HK)漲4.11%。"
+    },
+    {
+      "id": "te:markets:574565",
+      "time": "2026-08-12 09:43:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Ticks Higher Ahead of Key Inflation Data — The dollar index edged toward 99.9 on Wednesday, posting modest gains as investors braced for key inflation readings that will likely influence the Federal Reserve’s next policy move. The consumer price index report is due later today, followed by producer inflation data on Thursday. Markets remain divided over whether the Fed will raise rates by 25 basis points in September after keeping them unchanged in July, with rising oil prices reinforcing a hawkish bias. On Tuesday, Chicago Fed President Austan Goolsbee also said the central bank is more concerned about inflation remaining too high than potential weakness in the labor market. On the geopolitical front, investors assessed the prospects of a US-Iran deal to reopen the Strait of Hormuz after Pakistan’s defense minister said Washington and Tehran are “close to some sort of arrangement.”"
+    },
+    {
+      "id": "mkt:019ff3a3-4810-7aab-8ffe-53e098b65fde",
+      "time": "2026-08-12 09:43:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "China A-share property sector rallied; Shibei Gaoxin, Jingtou Development and Xiangjiang Holdings hit the daily trading limit, while Rongsheng Development, Zhongzhou Holdings and Jinke Co. also advanced."
+    },
+    {
+      "id": "5036644",
+      "time": "2026-08-12 09:43:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST路通等成立新公司 含多項AI相關業務】企查查APP顯示，近日，上海路通雲博科技有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧硬體銷售；人工智慧通用應用系統；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由ST路通全資子公司上海路通創智科技有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019ff3a2-a91f-7aab-8ffe-487616501fbb",
+      "time": "2026-08-12 09:42:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "02788.HK",
+        "Impact bullish",
+        "02600.HK",
+        "01378.HK"
+      ],
+      "text": "Hong Kong-listed aluminium stocks opened stronger: Innovation Industrial (02788.HK) jumped over 6%, Aluminum Corporation of China (Chalco, 02600.HK) rose more than 4%, with China Hongqiao (01378.HK) and Nanshan Aluminium International (02610.HK) also higher."
+    },
     {
       "id": "5036643",
       "time": "2026-08-12 09:41:36",
