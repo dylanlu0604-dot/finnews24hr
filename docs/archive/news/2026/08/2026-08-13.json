@@ -1,7 +1,47 @@
 {
   "date": "2026-08-13",
-  "count": 338,
+  "count": 342,
   "items": [
+    {
+      "id": "5038229",
+      "time": "2026-08-13 07:37:56",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中金公司：美國通脹或已進入新的階段 通脹持續的時間可能相應延長】中金公司研報認為，美國7月CPI季調後環比上漲0.1%，同比3.4%，核心通脹環比0.2%，同比2.5%，均符合市場預期。能源價格繼續回落，但8月以來國際油價重新走高，增加未來能源價格不確定性。核心通脹方面，商品偏強，服務偏弱，尤其是計算機、軟體等資訊科技產品價格持續上漲，反映AI資本開支擴張帶來的供需錯配正逐步向消費端傳導。我們認為，美國通脹或已進入新的階段，其驅動力正由關稅、油價等供給衝擊，逐步轉向AI投資帶來的需求擴張，通脹持續的時間可能相應延長。對美聯儲而言，這份資料緩解了短期加息的壓力，但相較於供給推動型通脹，需求拉動型通脹更需要決策者加以關注。"
+    },
+    {
+      "id": "mkt:019ff856-edde-7aab-9014-6afa265cb8d2",
+      "time": "2026-08-13 07:37:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【White House to broaden AI oversight; open-source models may join federal testing framework】US tech outlet WIRED, citing sources, reports the White House will expand an AI safety-testing framework requiring federal safety tests of frontier models before public release. The framework, announced this month but not yet public or detailed, currently covers closed-source models from Anthropic and OpenAI; officials expect it to include open-source models within months once they reach 'frontier' capability comparable to Anthropic’s Mythos and OpenAI’s GPT-5.6."
+    },
+    {
+      "id": "5038228",
+      "time": "2026-08-13 07:37:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：鴻蒙豪華車密集上市，機器人“量產+資本化”雙擊在即】中信建投研報指出，本週汽車板塊催化密集：月初主流主機廠7月產銷/交付資料集中披露，出口鏈再度全面超預期，本週鴻蒙豪華車密集上市，內需淡季下結構性α進一步向出海鏈和高階鏈集中；宇樹科技正式確定了150.8元/股的發行價和610億元的發行市值，發行較原募資計劃上修45%，疊加特斯拉Optimus產線年內投產節奏明確、8月19日世界機器人大會臨近，8月成為機器人“量產驗證+資本化”的密集做多視窗；商用車二季度“淡季不淡”，業績亟待發布，龍頭業績與估值雙升邏輯延續。"
+    },
+    {
+      "id": "5038227",
+      "time": "2026-08-13 07:37:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：7月全球電動車銷量上升 歐洲市場走強】顧問機構Benchmark Mineral Intelligence週四公佈的資料顯示，受歐洲市場強勁增長推動，7月全球電動汽車需求連續第五個月增長，不過北美等市場銷售轉弱。7月純電動與插電式混合動力汽車銷量同比增長9%，達185萬輛，使今年以來累計銷量達到1,150萬輛。這些資料凸顯主要電動車市場之間的分化趨勢持續擴大。歐洲的需求受到補貼政策支撐；美國市場受到聯邦電動汽車稅收抵免政策取消的影響。7月歐洲銷量攀升33%至45萬輛，推動年初至今的增幅達到28%。BMI表示：“歐洲主要汽車市場維持高增長態勢，許多市場在過去18個月重新推出電動車補貼計劃。”法國、德國與英國7月電動車銷量分別增長81%、46%和43%。受美國電動車稅收抵免政策結束影響，北美銷量下滑27%，至14萬輛。"
+    },
     {
       "id": "5038226",
       "time": "2026-08-13 07:34:29",
