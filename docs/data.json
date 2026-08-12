@@ -1,7 +1,185 @@
 {
-  "updated": "2026-08-12 20:01:25",
-  "count": 15130,
+  "updated": "2026-08-12 20:05:27",
+  "count": 15136,
   "items": [
+    {
+      "id": "mkt:019ff5dc-7f0c-7aab-9009-a49f4e7c9796",
+      "time": "2026-08-12 20:04:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OPEC monthly report maintains 2026 non-OPEC oil supply increase forecast at 640,000 barrels per day."
+    },
+    {
+      "id": "mkt:019ff5db-a038-7aab-9009-98695e10101b",
+      "time": "2026-08-12 20:03:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "WTI",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "OPEC monthly report cuts 2027 eurozone GDP growth forecast to 1.0% from 1.2%."
+    },
+    {
+      "id": "mkt:019ff5db-7db5-7aab-9009-96872a333e94",
+      "time": "2026-08-12 20:03:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bearish",
+        "WTI",
+        "EURUSD"
+      ],
+      "text": "OPEC monthly report cuts its 2026 euro-area GDP growth forecast to 0.8% from 1.0%."
+    },
+    {
+      "id": "5037686",
+      "time": "2026-08-12 20:03:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國電網運營商取消了週三晚間的保證金通知。"
+    },
+    {
+      "id": "5037685",
+      "time": "2026-08-12 20:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "Virtus 投資 7 月客戶總資產達 1506 億美元。"
+    },
+    {
+      "id": "mkt:019ff5da-e63d-7aab-9009-8f1072c121e7",
+      "time": "2026-08-12 20:03:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500"
+      ],
+      "text": "OPEC monthly report cuts 2026 global economic growth forecast to 3.0% from 3.1%."
+    },
+    {
+      "id": "mkt:019ff5da-d60b-7aab-9009-850f26152319",
+      "time": "2026-08-12 20:03:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "OPEC monthly report maintains US GDP growth forecast at 2.2% for 2026 and 2.0% for 2027."
+    },
+    {
+      "id": "5037684",
+      "time": "2026-08-12 20:03:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克月報顯示，將2027年全球經濟增長預測維持在3.2%。"
+    },
+    {
+      "id": "5037683",
+      "time": "2026-08-12 20:02:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：交易完成後，特洛伊·凱茨與加勒特·保萊拉將以合夥人身份加入高盛資產管理部門。"
+    },
+    {
+      "id": "5037682",
+      "time": "2026-08-12 20:02:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數下跌3.51%，至2939點。"
+    },
+    {
+      "id": "mkt:019ff5da-578b-7aab-9009-78d437cc8628",
+      "time": "2026-08-12 20:02:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OPEC monthly report left its 2027 global economic growth forecast at 3.2%."
+    },
+    {
+      "id": "5037681",
+      "time": "2026-08-12 20:02:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：該交易將為高盛資產管理面向收益與目標產出、基於期權的ETF解決方案產品線，新增規模達300億美元的主動管理收益型ETF。"
+    },
+    {
+      "id": "5037680",
+      "time": "2026-08-12 20:02:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：交易對價最高為22.5億美元，將以現金加股票形式支付。"
+    },
+    {
+      "id": "5037679",
+      "time": "2026-08-12 20:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京解除暴雨橙色預警】北京市氣象臺12日20:00解除暴雨橙色預警。目前，影響北京市的降雨雲團已減弱，解除暴雨橙色預警訊號。12日夜間北京市仍有分散性陣雨或雷陣雨。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ff5d9-d907-7aab-9009-711596e537a8",
+      "time": "2026-08-12 20:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index fell 3.51% to 2,939 points."
+    },
+    {
+      "id": "5037678",
+      "time": "2026-08-12 20:01:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中白“神鷹-2026”空降兵聯合訓練開幕】中國與白俄羅斯“神鷹-2026”空降兵聯合訓練12日在中國空軍某訓練中心舉行開幕儀式。這次聯訓以聯合城鎮反恐行動為課題，主要開展偵察與反偵察、奪控與防衛、清剿與固守等演練，旨在提高遂行反恐任務的聯合行動能力，為維護地區和平穩定發揮積極作用。此外，雙方還將在聯訓期間組織專題研討、足球友誼賽、文化交流等活動。這是中國和白俄羅斯舉行的第4次“神鷹”系列聯訓，有助於進一步提升參訓部隊實戰能力、深化兩軍務實合作。（新華社）"
+    },
+    {
+      "id": "5037677",
+      "time": "2026-08-12 20:01:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球將適配人工智慧的資料嵌入微軟 Copilot 工作流程。"
+    },
+    {
+      "id": "mkt:019ff5d8-fea4-7aab-9009-6893b8e34909",
+      "time": "2026-08-12 20:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC further cut its forecast for 2026 global oil demand growth."
+    },
+    {
+      "id": "5037676",
+      "time": "2026-08-12 20:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普全球擴大與微軟 365 Copilot 的資料整合合作。"
+    },
     {
       "id": "mkt:019ff5d8-cfcc-7aab-9009-61a29deeb810",
       "time": "2026-08-12 20:00:54",
@@ -137755,129 +137933,6 @@
         "市場"
       ],
       "text": "【Meta美股盤前漲超2%】Meta美股盤前漲超2%，現報599.742美元。"
-    },
-    {
-      "id": "mkt:019fd1d0-253a-7aab-8f8a-970e502f3bdc",
-      "time": "2026-08-05 20:05:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "US July ADP private payrolls due in 10 minutes."
-    },
-    {
-      "id": "5026930",
-      "time": "2026-08-05 20:04:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德執行長：相較於注射劑，口服版 Wegovy 的市場需求之高，讓我們愈發感到意外。"
-    },
-    {
-      "id": "5026929",
-      "time": "2026-08-05 20:04:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【五洋自控：股票交易異常波動 不存在應披露未披露重大事項】五洋自控公告稱，公司股票於2026年8月4日、5日連續兩個交易日收盤價格漲幅偏離值累計超30%，屬異常波動情形。經核查，除此前已披露的以6.81億元收購東莞市柯斯宇液冷技術有限公司51%股權、股東侯友夫等向時培培轉讓5.10%股份等事項外，公司、控股股東和實控人不存在應披露而未披露的重大事項，目前經營及內外部環境未變。公司2026年半年度報告預約8月22日披露。"
-    },
-    {
-      "id": "mkt:019fd1cf-5698-7aab-8f8a-8f00af4afdfe",
-      "time": "2026-08-05 20:04:13",
-      "tags": [
-        "MKT News",
-        "AZN.O",
-        "BMY.N"
-      ],
-      "text": "People familiar with the matter said AstraZeneca (AZN.O) and Bristol-Myers Squibb (BMY.N) have had no discussions about a potential deal."
-    },
-    {
-      "id": "5026928",
-      "time": "2026-08-05 20:03:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "一位知情資深訊息人士稱，阿斯利康與百時美施貴寶“從始至終從未有過交易談判”。"
-    },
-    {
-      "id": "5026927",
-      "time": "2026-08-05 20:03:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "據知情高階訊息人士透露，阿斯利康與百時美施貴寶目前並未就潛在交易展開任何談判。"
-    },
-    {
-      "id": "mkt:019fd1ce-810f-7aab-8f8a-858c1180cf37",
-      "time": "2026-08-05 20:03:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CRWV.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. AI cloud-computing firm CoreWeave (CRWV.O) said an agreement with Solidigm will strengthen its integrated AI platform."
-    },
-    {
-      "id": "5026926",
-      "time": "2026-08-05 20:02:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普所乘直升機遭遇飛行安全事件】美國總統特朗普所乘直升機4日在華盛頓遭遇飛行安全事件。白宮表示該事件不涉及人身安全危險，不過美國聯邦航空局已經啟動調查。據《華爾街日報》、美國有線電視新聞網和路透社報道，特朗普4日下午乘坐“海軍陸戰隊一號”直升機從白宮外起飛，前往安德魯斯聯合基地，繼而換乘“空軍一號”專機前往洛杉磯。按照飛行安全規定，特朗普所乘直升機起飛前，距離白宮不遠的羅納德·里根華盛頓國家機場空管員應禁止其它飛機在附近飛行。然而，一架客機卻與特朗普座機幾乎同時起飛。（新華社）"
-    },
-    {
-      "id": "5026925",
-      "time": "2026-08-05 20:02:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "Strategy：為美國僱員名下每一名符合條件的18歲以下子女，每年向特朗普賬戶注資250美元。"
-    },
-    {
-      "id": "mkt:019fd1cc-f351-7aab-8f8a-781d38e2ab16",
-      "time": "2026-08-05 20:01:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CRWV.O"
-      ],
-      "text": "CoreWeave (CRWV.O), a US AI cloud computing firm, signed a multi-year agreement with data-storage solutions provider Solidigm."
-    },
-    {
-      "id": "5026924",
-      "time": "2026-08-05 20:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "波羅的海乾散貨運價指數漲4.33%，至3063點。"
-    },
-    {
-      "id": "mkt:019fd1cc-e373-7aab-8f8a-74e9100301e3",
-      "time": "2026-08-05 20:01:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DSX.O",
-        "Impact bullish",
-        "NMM.O"
-      ],
-      "text": "Baltic Dry Index (BDI) rose 4.33% to 3,063 points."
-    },
-    {
-      "id": "5026923",
-      "time": "2026-08-05 20:01:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "CoreWeave稱達成協議，強化一體化人工智慧平臺。"
     }
   ]
 }
