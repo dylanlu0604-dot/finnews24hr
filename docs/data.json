@@ -1,7 +1,55 @@
 {
-  "updated": "2026-08-13 06:30:52",
-  "count": 15029,
+  "updated": "2026-08-13 06:34:45",
+  "count": 15031,
   "items": [
+    {
+      "id": "5038177",
+      "time": "2026-08-13 06:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果正洽談向出版商付費以改進人工智慧驅動的Siri。"
+    },
+    {
+      "id": "mkt:019ff81c-5f1d-7aab-9013-f3cbcd6876a3",
+      "time": "2026-08-13 06:33:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Wall Street Journal sources say Apple (AAPL.O) is seeking new deals with publishers to use their content to develop its AI voice assistant Siri."
+    },
+    {
+      "id": "5038176",
+      "time": "2026-08-13 06:33:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果已就向合作出版商支付款項的九位數預算展開討論。"
+    },
+    {
+      "id": "5038175",
+      "time": "2026-08-13 06:31:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞總統德拉埃斯普列利亞宣佈地震後（該國）進入經濟緊急狀態。"
+    },
+    {
+      "id": "mkt:019ff819-9f5e-7aab-9013-ef53aede1c05",
+      "time": "2026-08-13 06:30:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Oil slips after five-day rally; traders watch Strait of Hormuz as IEA warns 1.8 mln bpd shortfall】Oil eased after a five-day rally, with WTI sliding below $82/bbl and Brent briefly dipping under $87 after a cumulative five-day gain of about 11%. Traders are waiting for signs of progress on reopening the Strait of Hormuz; there has been little movement and Trump said the US has \"complete control\" of the waterway. The IEA said that with the US‑Iran war continuing the global oil market faces roughly a 1.8 mln bpd supply gap this quarter—more than double its prior estimate—and warned 2026 could see the largest shortfall in five years. The American Automobile Association said US gasoline and diesel prices are at their highest for this time of year."
+    },
     {
       "id": "te:markets:574830",
       "time": "2026-08-13 06:30:17",
@@ -137054,30 +137102,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Rises by 4.41% — Top commodity gainers are Silver (4.41%), Gold (4.21%) and Copper (1.65%)."
-    },
-    {
-      "id": "mkt:019fd40e-f22e-7aab-8f94-d75551fd3ad5",
-      "time": "2026-08-06 06:32:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An international airport near Venezuela's capital has resumed commercial cargo flights."
-    },
-    {
-      "id": "5027534",
-      "time": "2026-08-06 06:32:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉首都附近國際機場恢復商業貨運航班 】內瑞拉交通部長弗朗西斯科·加爾塞斯5日稱，委強震後，首架商業貨運航班當天抵達委首都加拉加斯附近的邁克蒂亞西蒙·玻利瓦爾國際機場，標誌著該機場部分恢復運營。加爾塞斯在社交媒體發文稱，邁克蒂亞西蒙·玻利瓦爾國際機場此前因強震關閉，震後首架商業貨運航班抵達這座機場對委物流活動至關重要。（新華社）"
-    },
-    {
-      "id": "5027533",
-      "time": "2026-08-06 06:31:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上證報：需求旺盛景氣度高，光模組“噪音”影響有限】受一則涉及光模組出口的傳聞影響，8月5日A股開盤後，光模組龍頭企業“易中天”（新易盛、中際旭創、天孚通訊）股價大幅低開。對此，多位業內人士表示，早在2025年，市場就傳出過光模組等產品可能被限制的訊息，行業對此已有預判並做了部分準備。短、中期看，鑑於旺盛的市場需求，中國的龐大產能、超高效率、更低成本等因素，海外嚴格禁止進口中國光模組的可能性較小，產業受到衝擊相對有限；但長期看，中國廠商部分海外市場的份額可能將會受到一定影響。"
     }
   ]
 }
