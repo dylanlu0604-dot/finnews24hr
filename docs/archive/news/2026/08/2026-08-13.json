@@ -1,7 +1,23 @@
 {
   "date": "2026-08-13",
-  "count": 35,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019ff6d6-81eb-7aab-9011-4f09aee2e982",
+      "time": "2026-08-13 00:38:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple (AAPL.O) appointed a senior U.S. airline executive as head of government affairs."
+    },
+    {
+      "id": "5038042",
+      "time": "2026-08-13 00:36:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果聘請美國航空資深高管出任政府事務主管。"
+    },
     {
       "id": "5038041",
       "time": "2026-08-13 00:30:34",

@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-13 00:34:28",
-  "count": 15120,
+  "updated": "2026-08-13 00:38:35",
+  "count": 15119,
   "items": [
+    {
+      "id": "mkt:019ff6d6-81eb-7aab-9011-4f09aee2e982",
+      "time": "2026-08-13 00:38:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Apple (AAPL.O) appointed a senior U.S. airline executive as head of government affairs."
+    },
+    {
+      "id": "5038042",
+      "time": "2026-08-13 00:36:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果聘請美國航空資深高管出任政府事務主管。"
+    },
     {
       "id": "5038041",
       "time": "2026-08-13 00:30:34",
@@ -137940,34 +137956,6 @@
         "國際"
       ],
       "text": "特朗普：（前白宮首席醫療顧問）福奇對數百萬人犯下了難以言喻的暴行，一切都是為了權力、名聲和金錢。"
-    },
-    {
-      "id": "mkt:019fd2ca-5a5c-7aab-8f91-1cd5337a48de",
-      "time": "2026-08-06 00:38:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said Iran and Oman have made significant progress and are close to finalizing an agreement on arrangements for the Strait of Hormuz."
-    },
-    {
-      "id": "5027361",
-      "time": "2026-08-06 00:38:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：伊朗與阿曼關於霍爾木茲海峽安排的協議即將完成。已取得重大進展。"
-    },
-    {
-      "id": "5027360",
-      "time": "2026-08-06 00:35:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德國一機場暫停航班 此前發現武裝無人機 併發生貨機與不明物相撞事件】德國重要的貨運和軍事裝備運輸樞紐萊比錫-哈雷機場一度暫停航班，隔夜發現一架武裝無人機，同時一架貨機在空中與一個身份不明的小型物體相撞。當地警方週三上午釋出宣告稱，包括一架客機在內的多架飛機被迫改道，機場部分割槽域目前仍處於關閉狀態。該機場此前曾是間諜活動和破壞行動的目標。根據週三下午另外發布的公告，州總檢察長辦公室和州刑事警察部門已接手調查，正在徵集目擊者。"
     }
   ]
 }
