@@ -1,7 +1,301 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-13 03:16:47_
-_本檔包含 3034 則快訊，約 591190 字_
+_更新時間：2026-08-13 04:19:40_
+_本檔包含 3038 則快訊，約 590312 字_
+
+---
+
+### 2026-08-13 04:14:43  #國際
+
+伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。
+
+---
+
+### 2026-08-13 04:11:51  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD.
+
+---
+
+### 2026-08-13 04:10:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Rise on AI Gains and Tame CPI — US stock indices closed mostly higher on Wednesday after strong results from AI companies and a relatively tame CPI print. The S&P 500 rose 0.3% to near its record close, the Nasdaq gained 0.7%, and the Dow closed nearly flat. CoreWeave surged 19.3% after posting stronger-than-expected sales results. SMCI soared 19% after its revenue forecast came in above expectations. Chip producers gained following strong results from Tencent, while Temasek took fresh stakes in SK Hynix and Samsung. The results injected fresh optimism into AI infrastructure stocks amid their volatile start to the third quarter. Nvidia (+3%), Oracle (+5.4%), and Micron (+4.9%) were up. Meanwhile, new inflation data showed relatively stable core inflation, easing pressure on the FOMC to raise interest rates. Still, uncertainty over the return of energy supplies from the Middle East maintained inflationary concerns. Hyperscalers erased earlier gains, with Microsoft down 2.3%, Meta losing 3.4%, and Amazon shedding 1.8%.
+
+---
+
+### 2026-08-13 04:09:37  #國際
+
+路透社調查顯示，美國能源資訊署（EIA）週四釋出的報告預計，上週美國天然氣庫存增加320億立方英尺。
+
+---
+
+### 2026-08-13 04:09:14  #其他
+
+思科第四財季來自超大規模雲服務商的AI訂單達40億美元。
+
+---
+
+### 2026-08-13 04:07:42  #其他
+
+思科預計2027財年調整後每股收益5.05至5.11美元，市場預期4.84美元。
+
+---
+
+### 2026-08-13 04:07:28  #市場
+
+思科2027財年銷售額指引超出市場預期，股價大漲7%。
+
+---
+
+### 2026-08-13 04:06:09  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
+
+Aug 12 (Wed) close: Dow Jones Industrial Average down 21.69 pts (-0.04%) at 53,770.16; S&P 500 up 20.31 pts (+0.26%) at 7,748.51; Nasdaq Composite up 143.04 pts (+0.54%) at 26,588.49.
+
+---
+
+### 2026-08-13 04:05:56  #其他
+
+航空導航資料顯示：阿聯酋王室專機（註冊號A6‑RJA）今日飛抵德黑蘭。該飛機昨日也曾飛往德黑蘭，停留一小時後返回阿聯酋。
+
+---
+
+### 2026-08-13 04:03:14  #MKT News
+
+i24News reports that, at the request of Colombia’s disaster management agency, Israeli Prime Minister Netanyahu has sent an aid team.
+
+---
+
+### 2026-08-13 04:02:34  #市場
+
+Nebius股價收盤上漲34%，創去年9月以來最大漲幅。
+
+---
+
+### 2026-08-13 04:02:03  #市場 #焦點
+
+超微電腦收盤上漲19%，創7月22日以來最佳單日表現。
+
+---
+
+### 2026-08-13 04:01:22  #MKT News #Important #Star Stocks #NVIDIA #Microsoft #Meta Platforms #Alibaba #Market Themes #Magnificent 7 #SKHY.O #Impact bullish #NVDA.O #BABA.N #Impact bearish
+
+【US close: major indexes mixed; SK Hynix up 9%】US stocks closed Wednesday mixed: Dow -0.04%, S&P 500 +0.26%, Nasdaq +0.54%. SpaceX (SPCX.O) +9.6%; NVIDIA (NVDA.O) +3%; SK Hynix (SKHY.O) +9%; Micron Technology (MU.O) +4.9%. Meta (META.O) -3%; Microsoft (MSFT.O) -2%. Nasdaq Golden Dragon China Index -2.4%; Alibaba (BABA.N) -2%; NetEase (NTES.O) -2.9%.
+
+---
+
+### 2026-08-13 04:00:48  #市場 #焦點
+
+【美股收盤：三大股指集體漲跌不一】道指跌0.04%，標普500指數漲0.26%，納指漲0.54%。超微電腦漲18.77%，Lumentum Holdings Inc. Common Stock When Issued漲13.52%，Ciena科技漲11.48%，Texas Pacific Land Trust Sub Sha跌6.11%，CoreSite房產跌5.91%，第一太陽能跌5.87%。“七姐妹”方面：英偉達漲3.03%，谷歌跌0.20%，蘋果跌0.88%，特斯拉跌1.59%，亞馬遜跌1.83%，微軟跌2.26%，Meta Platforms跌3.38%。
+
+---
+
+### 2026-08-13 04:00:03  #市場 #焦點
+
+【納斯達克中國金龍指數收跌2.45%】聲網跌4.28%，高途跌4.17%，新東方跌3.89%，BOSS直聘跌4.03%，唯品會跌3.74%。
+
+---
+
+### 2026-08-13 03:56:27  #MKT News
+
+【WHO says US changes to childhood vaccination schedule depart from science】WHO Director-General Tedros said on the 12th that recent US adjustments to the childhood vaccination schedule depart from scientific evidence, warning that delaying or splitting vaccinations could leave children exposed to infectious-disease risk for longer. The remarks follow an executive order by Trump to reduce the number of childhood vaccinations; WHO said it is concerned.
+
+---
+
+### 2026-08-13 03:55:48  #焦點 #國際
+
+【世衛組織：美國調整兒童疫苗接種計劃背離科學依據】世界衛生組織總幹事譚德塞12日表示，美國近期調整兒童疫苗接種計劃的做法背離科學依據。他警告說，推遲或拆分疫苗接種可能讓兒童更長時間暴露於傳染病風險之中。此前，美國總統特朗普簽署行政命令，要求減少兒童疫苗接種數量。世衛組織對此表示擔憂。
+
+---
+
+### 2026-08-13 03:55:40  #MKT News
+
+【Trump: White House press secretary Leavitt to leave at month-end】President Trump posted on Truth Social on Aug. 12 that White House press secretary Karoline Leavitt will step down at the end of the month to spend more time with her children and family and will become a senior external adviser.
+
+---
+
+### 2026-08-13 03:54:56  #國際
+
+以色列總理辦公室：內塔尼亞胡總理下令立即向哥倫比亞派遣援助代表團。
+
+---
+
+### 2026-08-13 03:54:45  #國際
+
+美國防長赫格塞思：美國國防部希望透過一份1.5萬億美元的全新預算，對軍費開展具備時代意義的跨世代投入。我們還需要和國會開展工作，但請務必認清，我們將盡最大努力與共和黨人協作，推動這項確有必要、具備歷史意義的投入落地，確保美國維持全球頭號軍事強國地位。
+
+---
+
+### 2026-08-13 03:54:41  #MKT News #WTI #Impact bullish #Brent
+
+【Iran's Persian Gulf Strait Authority says Strait of Hormuz remains closed】On the 12th (local time), Iran's "Persian Gulf Strait Authority" said US claims the Strait of Hormuz has reopened do not change the facts; the strait remains closed and will not reopen unless the US accepts conditions proposed by Iran.
+
+---
+
+### 2026-08-13 03:52:58  #國際
+
+【伊朗“波斯灣海峽管理局”：霍爾木茲海峽仍關閉】當地時間12日，伊朗“波斯灣海峽管理局”表示，美國官員反覆聲稱霍爾木茲海峽已重新開放，但這並不能改變事實。霍爾木茲海峽仍然關閉，除非美國接受伊朗提出的條件，否則該海峽不會重新開放。
+
+---
+
+### 2026-08-13 03:46:39  #MKT News
+
+White House press secretary Leavitt said President Trump has asked him to continue serving externally as a senior adviser and that he will remain a steadfast advocate for MAGA and the Republican Party.
+
+---
+
+### 2026-08-13 03:43:25  #國際
+
+萊維特：特朗普已邀請我擔任外部顧問。
+
+---
+
+### 2026-08-13 03:39:25  #MKT News
+
+President Trump said Levitt will become one of his senior outside advisers and an influential voice within the Republican Party.
+
+---
+
+### 2026-08-13 03:38:34  #觀點
+
+摩根士丹利認為Grok聊天機器人是SpaceX拓展綜合人工智慧平臺的早期訊號；維持增持評級，目標價300美元。
+
+---
+
+### 2026-08-13 03:36:57  #MKT News
+
+U.S. President Trump said White House press secretary Leavitt will resign to spend more time with family.
+
+---
+
+### 2026-08-13 03:36:48  #國際
+
+美國防長赫格塞思：假新聞媒體一直試圖抹黑“南方之矛行動”，否定其正當性。同樣是這批聲音，在往屆政府任由邊境危機空前惡化、藥物過量死亡人數創下紀錄之時卻緘口不言。如今他們又矢口否認，極力貶低我們共同取得的成果。
+
+---
+
+### 2026-08-13 03:36:27  #國際
+
+特朗普：萊維特將成為我的頂級外部顧問之一。
+
+---
+
+### 2026-08-13 03:36:10  #國際
+
+特朗普：白宮新聞秘書萊維特將卸任，以便有更多時間陪伴家人。
+
+---
+
+### 2026-08-13 03:36:06  #MKT News #Important
+
+President Trump said White House press secretary Leavitt will leave at the end of the month.
+
+---
+
+### 2026-08-13 03:35:42  #國際
+
+特朗普：卡羅琳·萊維特將於本月底離職。
+
+---
+
+### 2026-08-13 03:35:35  #MKT News #WTI #Impact bullish #Brent
+
+Fars News reported that Yemeni Houthi forces launched a drone strike on Saudi mercenary positions at Mocha port.
+
+---
+
+### 2026-08-13 03:31:51  #MKT News
+
+Real Estate Institute of New Zealand said July adjusted median house price fell 0.6% year-on-year.
+
+---
+
+### 2026-08-13 03:31:24  #MKT News
+
+New Zealand real estate association said seasonally adjusted median house price fell 0.5% month-on-month in July.
+
+---
+
+### 2026-08-13 03:30:41  #公司
+
+據知情人士透露，派拉蒙已商討為CNN設立一個編輯委員會以及其他保障措施，以化解外界對該媒體新聞編輯獨立性的擔憂。相關磋商據稱早於那起反壟斷訴訟，該訴訟旨在阻撓派拉蒙計劃以810億美元收購CNN母公司華納兄弟探索公司。
+
+---
+
+### 2026-08-13 03:30:06  #MKT News
+
+US Defense Secretary Hegseth said Colombia will join a US-led coalition against drug cartels and be authorized to conduct joint military operations with US forces.
+
+---
+
+### 2026-08-13 03:29:00  #公司 #國際
+
+美國防長赫格塞思：哥倫比亞將加入美國反販毒集團聯盟，授權與美國開展聯合軍事行動。
+
+---
+
+### 2026-08-13 03:27:58  #MKT News
+
+【International oil prices tick up on 12th】At the close on the 12th, NYMEX September WTI rose $0.07 to $83.27/bbl (+0.08%); ICE October Brent rose $0.07 to $88.98/bbl (+0.08%).
+
+---
+
+### 2026-08-13 03:27:38  #市場
+
+【國際油價12日微漲】國際油價12日微漲。截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲7美分，收於每桶83.27美元，漲幅為0.08%；10月交貨的倫敦布倫特原油期貨價格上漲7美分，收於每桶88.98美元，漲幅為0.08%。
+
+---
+
+### 2026-08-13 03:27:37  #MKT News
+
+U.S. Secretary of Defense Hegseth urged Latin American allies in Panama to withdraw from the International Criminal Court.
+
+---
+
+### 2026-08-13 03:26:44  #國際
+
+美國國防部長赫格塞思在巴拿馬發表講話，呼籲拉美盟友退出國際刑事法院。
+
+---
+
+### 2026-08-13 03:26:09  #國際
+
+美國防長赫格塞思：美國的藥物過量致死案例已大幅下降。芬太尼流入量大幅減少。我國西南邊境的非法越境人數已降至零。美國城市謀殺率處於近代歷史最低點，犯罪率出現歷史性下降。
+
+---
+
+### 2026-08-13 03:25:35  #國際
+
+伊拉克議會安全與國防委員會議員：一個親伊朗的伊拉克武裝組織每月透過卡車向伊朗轉移約4億美元現金。
+
+---
+
+### 2026-08-13 03:24:12  #其他
+
+【哥倫比亞強震遇難人數升至241人】哥倫比亞媒體引述哥倫比亞國家災害風險管理局12日釋出的資料顯示，10日在該國西部發生的7.4級強震已造成241人死亡、3771人受傷。
+
+---
+
+### 2026-08-13 03:22:59  #MKT News #Market Regions #Europe & UK
+
+Market news: Minouche Shafik, a former Bank of England deputy governor and IMF director, has stepped down as the UK prime minister's chief economic adviser.
+
+---
+
+### 2026-08-13 03:20:50  #其他
+
+米努什·沙菲克卸任英國首相首席經濟顧問。
+
+---
+
+### 2026-08-13 03:19:27  #國際
+
+【美軍稱已使59艘商船改變航線】當地時間8月12日，美國中央司令部在社交平臺發文稱，美軍繼續執行對伊朗的海上封鎖，截至8月12日，已經使59艘商業船隻改道，使3艘船隻失去行動能力，並登臨檢查2艘船隻。
+
+---
+
+### 2026-08-13 03:18:59  #宏觀 #國際
+
+【美國7月預算赤字激增 聯邦支出加速增長】由於聯邦支出加速增長，美國7月預算赤字創同期紀錄，達到4320億美元，再次凸顯政府借款需求持續上升。美國財政部週三公佈的資料顯示，2026財年前10個月預算赤字累計達1.8萬億美元。經日曆因素調整後，赤字規模較2025財年同期擴大5%。
 
 ---
 
@@ -18044,275 +18338,5 @@ Cotton Trades Near Three-Month High — Cotton futures traded near 84 cents per 
 ### 2026-08-11 23:03:10  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Copper #SSE Composite
 
 【Urban renewal to draw 15 trillion yuan in 15th Five-Year Plan】China’s Urban Renewal 15th Five-Year Plan sets 23 priority tasks and expects 15 trillion yuan of investment over the plan period. The central budget has earmarked 97 billion yuan for urban renewal projects this year and 160 billion yuan of ultra‑long‑term special treasury bonds to support underground utility networks. Authorities say private capital will target redevelopments of neighborhoods, factories and industrial parks that offer stable returns; financing channels cited include bank loans, REITs and asset securitization. Household co‑funding is expected for projects such as adding elevators to old walk‑ups and on‑site reconstruction of hazardous housing under a “who benefits, who pays” rule.
-
----
-
-### 2026-08-11 23:02:23  #其他
-
-【奈及利亞交火事件致10名警察和2名平民死亡】奈及利亞西北部凱比州10日發生一起安全人員與武裝分子交火事件，造成10名警察和2名平民死亡，另有17名武裝分子被當場擊斃。（央視新聞）
-
----
-
-### 2026-08-11 23:01:53  #其他
-
-【英偉達推出Nemotron 3.5 Lightning 瞄準智慧體AI提速】英偉達將擴充套件Nemotron 3模型系列，推出Nemotron 3.5 Lightning。與同類其他模型相比，該模型的輸出速度最高可提升4倍，智慧體任務完成速度可提升30%。英偉達將Nemotron 3.5 Lightning稱為“同類模型中針對長時間執行的智慧體AI工作負載效率最高的模型”。Nemotron 3.5 Lightning是一款擁有300億引數的混合專家模型，可幫助開發更智慧、更高效的智慧體應用。Nemotron 3.5 Lightning現已作為英偉達NIM微服務在Hugging Face、ModelScope、OpenRouter以及build.nvidia.com上線。
-
----
-
-### 2026-08-11 23:01:39  #MKT News #Important #CME.O #Impact bullish
-
-CME Group and Silicon Data will launch computing-power futures on Oct. 5.
-
----
-
-### 2026-08-11 23:00:53  #MKT News #Important #Commodities #Energy
-
-As of the 23:00 close in China, main futures contracts were mixed. Fuel oil jumped more than 2%; coking coal, coke and low-sulfur fuel oil (LU) rose over 1%; asphalt and caustic soda gained about 1%; PET chips fell more than 1% and pulp slid nearly 1%.
-
----
-
-### 2026-08-11 23:00:24  #其他
-
-【水利部針對北京天津啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，據預報，8月11日夜間至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津薊運河將出現漲水過程，暴雨區內山洪災害和中小河流洪水風險高。水利部於8月11日22時30分針對北京、天津市啟動洪水防禦Ⅳ級應急響應，並派出2個工作組赴北京、天津市暴雨洪水防禦一線協助指導。（央視新聞）
-
----
-
-### 2026-08-11 23:00:24  #MKT News #WTI #Impact bearish #Brent #XAUUSD
-
-【Analyst: Iran's bargaining chip in Strait of Hormuz 'depreciating'】International Policy Research Center vice chairman Rashid Muhannadi said talks to resolve the Strait of Hormuz crisis are advancing despite public US‑Iran hardline rhetoric. He said Iran views control of the strait as a national security concern and is using it as a bargaining chip, but called that chip a 'depreciating asset.' Muhannadi added actions that impede freedom of navigation remain widely opposed, and parties appear willing to explore a mutually acceptable regional mechanism to manage transit through the strait.
-
----
-
-### 2026-08-11 23:00:06  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Drops by 0.59% — Top currency loser is Brazilian Real (-0.59%). Gains are led by South Korean Won (0.42%). Meanwhile, Japanese Yen and Euro were little changed.
-
----
-
-### 2026-08-11 23:00:02  #市場
-
-【夜盤期貨收盤】焦煤連續漲2.04%，低硫燃料油連續漲1.22%，焦炭連續漲1.01%，紙漿連續跌0.78%，純鹼連續漲0.71%。
-
----
-
-### 2026-08-11 22:58:52  #國際
-
-法律商業新聞網：美國法院支援對獲假釋移民實施快速驅逐程式。
-
----
-
-### 2026-08-11 22:58:46  #MKT News
-
-U.S. court backs expedited removal of immigrants granted parole.
-
----
-
-### 2026-08-11 22:57:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Libya's National Oil Corporation president said the Zawiya refinery has resumed operations.
-
----
-
-### 2026-08-11 22:57:24  #公司
-
-利比亞國家石油公司負責人：扎維耶煉油廠恢復運營。
-
----
-
-### 2026-08-11 22:56:06  #其他
-
-墨西哥在 48 小時內恢復對 45 家牛油果包裝廠的檢查。
-
----
-
-### 2026-08-11 22:54:35  #國際
-
-以色列總理內塔尼亞胡：以色列人民與哥倫比亞站在一起。
-
----
-
-### 2026-08-11 22:53:01  #國際
-
-【卡達：對話是結束美以對伊朗戰事的唯一途徑】卡達外交部發言人釋放核心訊號：儘管局勢緊張，但化解危機唯有依靠對話磋商。“綜合近期動態，伊朗與美國持續釋放各類立場訊號，各方都在爭取推動自身訴求落地。”圍繞霍爾木茲海峽重啟通航的潛在協議依舊分歧重重。伊朗將這條戰略水道視作自身安全籌碼，但分析師判斷該議價影響力正在減弱。卡達持續充當斡旋渠道，維繫溝通渠道暢通，推動談判繼續推進。卡達外交部發言人表示，收到來自伊朗、阿曼方面有關重新開放霍爾木茲海峽的積極訊息。據瞭解，伊、阿曼雙方正在商討美伊談判相關技術性安排。不過海峽重啟通航仍面臨明顯阻礙：伊朗如今向美方開出條件，要求美軍撤出中東地區，同時美國需要就美、以色列襲擊伊朗造成的損失予以賠償。美國總統特朗普表態，美方同樣要求伊朗作出賠償；並稱計劃加大對伊朗經濟施壓，逼迫伊朗接受協議。 卡達方面重申，將持續保持各方溝通通道開放、推動更多會談，因為對話是解決這場危機唯一可行路徑。
-
----
-
-### 2026-08-11 22:52:57  #其他
-
-【亞洲首個柔直海上風電專案累計發電量突破100億千瓦時】8月11日，亞洲首個採用柔性直流輸電技術送出的海上風電專案——三峽新能源江蘇如東800兆瓦海上風電專案累計發電量突破100億千瓦時，為我國大容量、遠距離海上風電柔性直流輸電技術的規模化應用提供了實踐驗證。（央視新聞）
-
----
-
-### 2026-08-11 22:51:40  #其他
-
-【中國新任駐斯里蘭卡大使魏華祥抵斯履新】8月11日，中華人民共和國新任駐斯里蘭卡民主社會主義共和國特命全權大使魏華祥抵達斯里蘭卡履新。
-
----
-
-### 2026-08-11 22:51:29  #其他
-
-【奈及利亞交火事件致10名警察和2名平民死亡】奈及利亞西北部凱比州10日發生一起安全人員與武裝分子交火事件，造成10名警察和2名平民死亡，另有17名武裝分子被當場擊斃。 凱比州警方11日接受媒體採訪時說，當地安全人員10日晚攔截一夥從鄰州扎姆法拉州騎摩托車進入的武裝分子，雙方隨即發生交火，部分武裝分子中槍後逃離現場。 警方說，10名警察和2名平民在此次交火中身亡，另有2名安全人員受傷，至少17名武裝分子被擊斃。 近年來，奈及利亞面臨恐怖主義、綁架、匪患等多重安全挑戰，武裝襲擊事件頻發。(新華社)
-
----
-
-### 2026-08-11 22:48:42  #國際
-
-【埃及伊斯梅利亞省嚴重交通事故已致16死32傷】當地時間11日，埃及東北部伊斯梅利亞省發生一起嚴重交通事故，兩輛載有工人的車輛發生嚴碰撞。截至目前，事故已造成16人死亡，另有32人受傷。相關部門正在調查事故詳情，確定責任方，並確認最終的傷亡人數。（央視新聞）
-
----
-
-### 2026-08-11 22:48:36  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.68% on Tuesday, after rising above 4.71% the previous day, as oil prices steadied amid signs that diplomatic efforts are underway to reach a deal between the US and Iran and reopen the Strait of Hormuz. Pakistan signaled the possibility of an agreement that could help ease tensions roiling energy markets, although the situation remains highly fragile and uncertain. Meanwhile, the highly anticipated US CPI report is due on Wednesday and should provide further insight into the path of inflation. The report is expected to continue pointing to a slowdown in energy-related price pressures that intensified in the months immediately following the start of the US war with Iran. Markets are pricing in roughly even odds of a Fed rate hike next month, with about a 50% probability of rates being left unchanged.
-
----
-
-### 2026-08-11 22:47:46  #市場
-
-赫茲環球股價上漲 25%，創 6 月 29 日以來新高。
-
----
-
-### 2026-08-11 22:47:26  #國際
-
-市場訊息：世界冰壺聯合會將對俄羅斯運動員的禁賽延長至 2026 年底。
-
----
-
-### 2026-08-11 22:47:04  #Trading Economics #Markets #Commodity #Importance 1
-
-Wheat Market Weighs Supply Risks and Weak Demand — Wheat prices fluctuated around $6.40 per bushel, remaining more than 10% below the two-year high of $7.08 on July 22, as weaker Russian prices, subdued international demand and alternative export routes eased concerns over Black Sea disruptions. Hopes for progress in negotiations to restore shipping through the Strait of Hormuz also improved broader market sentiment, after Pakistan said the US and Iran were “close to some sort of arrangement” to reduce tensions. However, risks to grain exports remain as Ukraine and Russia continue to target each other’s shipping routes. Ukraine has lowered its 2026/27 grain export forecast by up to 12% from its previous estimate, while Russia’s wheat export outlook has also been reduced. Consultancy IKAR cut its forecast for Russian wheat exports to 44.5 million tonnes, while Sovecon expects August shipments to reach their lowest level in a decade. Traders now await the US government’s latest crop forecasts on Wednesday.
-
----
-
-### 2026-08-11 22:46:27  #公司 #國際
-
-【馬斯克：強烈推薦大家去中國看看】美國企業家、電動汽車製造商特斯拉公司執行長埃隆·馬斯克11日在社交媒體上寫道：“中國太棒了。我強烈推薦大家去看看。”在社交媒體平臺X上一條討論特斯拉在華業務的帖子下，馬斯克作上述評論。馬斯克的母親梅耶·馬斯克隨後引用馬斯克的這條帖文寫道：“我同意。（中國的）每個城市都有其獨特魅力，有不同的文化景點可以參觀。建築物和街道乾淨整潔，維護良好。同時，人們彬彬有禮、勤勞且尊重他人。我（在中國）感到安全，所以很享受去中國（旅行）。”近期，美國皮尤研究中心等機構的調查顯示，國際民眾對中國的好感度不斷上升。（新華社）
-
----
-
-### 2026-08-11 22:45:47  #公司
-
-市場訊息：蘋果執行長蒂姆・庫克表示，部分蘋果智慧功能將會產生費用，同時最新的 iOS 27 測試版中出現了 HomeKit 安全影片的 iCloud + 套餐等級限制。
-
----
-
-### 2026-08-11 22:44:25  #其他
-
-肯亞預計截至 2026 年 6 月經常賬戶缺口佔國內生產總值的 3%。
-
----
-
-### 2026-08-11 22:43:02  #其他
-
-肯亞貨幣政策委員會預計短期消費者物價指數將維持在目標區間內。
-
----
-
-### 2026-08-11 22:42:21  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bearish
-
-Market sources said roughly one-third (about 33%) of subscription orders for Intel's share offering went unallotted.
-
----
-
-### 2026-08-11 22:42:18  #央行 #其他
-
-肯亞央行預計短期內通脹將處於目標區間內。
-
----
-
-### 2026-08-11 22:41:40  #MKT News
-
-The ACLU and other legal groups asked a U.S. judge to block Trump's latest action to restrict "birthright citizenship".
-
----
-
-### 2026-08-11 22:41:33  #國際
-
-【TD SYNNEX將IBM分銷業務擴充套件至20個新國家】8月11日，全球IT分銷商及解決方案聚合商TD SYNNEX宣佈擴大IBM產品分銷覆蓋範圍，將業務拓展至歐洲、亞太地區（馬來西亞市場以Tech Data和Tec-D品牌運營）以及拉丁美洲的20個新國家。
-
----
-
-### 2026-08-11 22:41:14  #國際
-
-市場訊息：美國公民自由聯盟及其他法律團體請求美國法官阻止特朗普總統限制出生公民權的最新行動。
-
----
-
-### 2026-08-11 22:40:48  #其他
-
-市場訊息：漢諾威機場因發現無人機蹤跡被迫關閉。
-
----
-
-### 2026-08-11 22:40:31  #其他
-
-據傳英特爾本次配售中約 33% 的申購訂單未獲分配股票 。
-
----
-
-### 2026-08-11 22:40:24  #MKT News #Commodities #Energy
-
-【China Southern Power Grid load hits 278 GW; August peak seen at 283 GW, +12.9% YoY】China Southern Power Grid said at 17:16 on Aug 11 its system load reached 278 GW, the fifth record high this year. Guangdong's midday peak hit 176 GW, with Yangjiang, Shantou, Jieyang and Chaozhou recording local highs. The grid forecasts August peak could reach 283 GW, up 12.9% YoY.
-
----
-
-### 2026-08-11 22:40:14  #其他
-
-【南方電網用電負荷今年五創新高 突破2.78億千瓦】據南方電網訊息，8月11日17時16分，南方電網用電負荷突破2.78億千瓦，今年第五次創歷史新高。當天中午，廣東最高用電負荷達1.76億千瓦，今年第四次創新高，廣東省內陽江、汕頭、揭陽、潮州等地市用電負荷創歷史新高。據南方電網預測，8月份，南方電網用電負荷仍將持續高位執行，最高負荷或達2.83億千瓦，較去年同期增長12.9%。
-
----
-
-### 2026-08-11 22:39:57  #國際
-
-美國食品藥品監督管理局：該指南代表本機構目前關於防控鮮切農產品汙染相關問題的最新思路。
-
----
-
-### 2026-08-11 22:39:51  #央行 #其他
-
-肯亞央行維持基準利率在8.75%不變；預計利率為8.75%。
-
----
-
-### 2026-08-11 22:39:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Atlanta Fed first vice president Venable said there are "subtle risks" to the Fed's inflation and employment mandates.
-
----
-
-### 2026-08-11 22:39:07  #公司 #央行 #國際
-
-亞特蘭大聯儲第一副總裁維納布林：美聯儲的通脹與就業使命存在“細微風險。
-
----
-
-### 2026-08-11 22:39:00  #國際
-
-美國食品藥品監督管理局根據《人類食品預防性控制規則》敲定即食鮮切農產品生產操作指南。
-
----
-
-### 2026-08-11 22:38:41  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Atlanta Fed first vice president Venable said the Fed’s assessment of maximum employment is being affected by a stagnating labor supply, which is "an unusual situation" for the United States.
-
----
-
-### 2026-08-11 22:38:36  #央行 #公司 #國際
-
-亞特蘭大聯儲第一副總裁維納布林：最大化就業的理解受到勞動力供應停滯的影響，這對美國而言是一種“異常情況”。
-
----
-
-### 2026-08-11 22:38:16  #MKT News #WTI #Brent
-
-Atlanta Fed first vice president Venable said the key question is whether price pressures will ease over the coming months, which will largely depend on the outcome of the Middle East conflict.
-
----
-
-### 2026-08-11 22:38:08  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Intuit Stock Price Hits 10-week High — Intuit shares increased to 337.05 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 16.27%, and in the last 12 months, it decreased 52.78%.
 
 ---

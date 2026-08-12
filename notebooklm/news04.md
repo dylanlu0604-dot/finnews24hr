@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-08-13 03:16:47_
-_本檔包含 3110 則快訊，約 590865 字_
+_更新時間：2026-08-13 04:19:40_
+_本檔包含 3092 則快訊，約 590281 字_
+
+---
+
+### 2026-08-09 06:26:52  #Trading Economics #Markets #India #Earnings #Importance 0
+
+State Bank of India earnings above expectations at 22.89 INR — State Bank of India (SBIN) released earnings per share at 22.89 INR, compared to market expectations of 19.27 INR.
+
+---
+
+### 2026-08-09 06:16:05  #公司 #國際
+
+市場資訊：格陵蘭島向美國格陵蘭能源公司發出 “強烈警告”，這家與特朗普存在關聯的石油公司未經許可就將鑽井裝置運抵岸上。
+
+---
+
+### 2026-08-09 06:14:34  #其他
+
+國際足聯：存在明顯的持續行動意圖破壞國際足聯主席的公信力，意見分歧不能成為蓄意破壞主席（公信力）的藉口，機構仍將專注於自身使命。
+
+---
+
+### 2026-08-09 06:09:18  #國際
+
+美國五角大樓致函防務企業，要求擴大武器生產，限防務企業不超過21天提交擴產方案。
+
+---
+
+### 2026-08-09 06:05:23  #其他
+
+中央氣象臺8月9日06時繼續釋出暴雨橙色預警。
+
+---
+
+### 2026-08-09 06:00:41  #MKT News
+
+An IRGC commander said the US and Israel have completely failed to achieve their objectives against Iran's Islamic system, and their leaders have offered no response to successive failures when facing public opinion, elites and their own people.
+
+---
+
+### 2026-08-09 05:56:57  #MKT News
+
+Palestinian sources said Israeli forces shelled the northern Gaza Strip.
+
+---
+
+### 2026-08-09 05:56:46  #其他
+
+【加拿大一省進入緊急狀態應對野火災情】加拿大不列顛哥倫比亞省政府8日宣佈全省進入緊急狀態，以應對該省多地快速蔓延的野火災情。不列顛哥倫比亞省省長戴維·伊比在溫哥華舉行的新聞釋出會上說：“目前狀況非常危險，火勢蔓延迅速且隨時發生變化。”他表示，政府當前核心工作是保障生命安全和開展救援，救援人員正透過空中通道撤離受困民眾。（新華社）
+
+---
+
+### 2026-08-09 05:56:18  #MKT News #Commodities #Energy
+
+【Phase I of Bohai 19-6 gas field, Bohai's first 100-bln-m3-class field, enters full production】CNOOC said on Aug 9 Phase I of the Bohai 19-6 gas field in the central Bohai Sea has been fully commissioned, producing more than 5,200 tonnes oil-equivalent per day. The field has proven gas geological reserves exceeding 200 bln m3 and proven liquid hydrocarbon reserves over 200 mln m3. Reservoirs lie deeper than 5,000m, with wide distribution and complex reservoir types, making development significantly harder than conventional offshore fields.
+
+---
+
+### 2026-08-09 05:55:52  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Report: CENTCOM commander visits Israel to discuss 'multi‑front situation'】Israel Public Broadcasting reported that U.S. Central Command (CENTCOM) commander Brad Cooper arrived in Israel for a short visit to meet IDF Chief of Staff Zamir and other senior commanders to assess the "multi‑front situation" and discuss Gaza. The report said U.S. forces remain on high alert across the Middle East, with dozens of air‑refuellers, fighters, air‑defence systems and thousands of U.S. troops deployed in Israel.
+
+---
+
+### 2026-08-09 05:55:39  #其他
+
+【我國渤海首個千億方大氣田Ⅰ期開發專案全面投產】今天（8月9日），記者從中國海油獲悉，我國渤海首個千億方大氣田——渤中19-6氣田Ⅰ期開發專案全面投產，日產油氣當量超5200噸。專案投產對最佳化區域能源結構、助力經濟社會高質量發展具有重要意義。渤中19-6氣田位於渤海中部海域，探明天然氣地質儲量超2000億立方米、探明石油液體地質儲量超2億立方米。氣田埋藏深度超過5000米，油氣藏分佈範圍廣、儲層型別複雜，開發難度遠超常規海上油氣田。（央視新聞）
+
+---
+
+### 2026-08-09 05:51:51  #公司 #國際
+
+【以媒：美軍中央司令部司令訪以討論“多戰線局勢”】以色列公共廣播公司8日報道說，美軍中央司令部司令布拉德·庫珀當天抵達以色列進行短期訪問，並同以色列國防軍高層討論“多戰線局勢”。（新華社）
+
+---
+
+### 2026-08-09 05:48:54  #MKT News #RTX.O #Impact bullish #LMT.O #NOC.O
+
+【NYT: US Patriot missile stockpile below 1,700 after hostilities with Iran】The New York Times, citing sources, reports U.S. stockpiles of Patriot interceptors have fallen below 1,700 after heavy use in hostilities with Iran. The paper says the U.S. military has expended more than 1,500 Patriot missiles; the Trump administration is working with defense contractors to accelerate and scale production, but replenishment would still take more than two years. The report adds U.S. forces have effectively exhausted inventories of some long‑range munitions, including the Army Tactical Missile System (ATACMS) and Precision Strike Missiles (PrSM).
+
+---
+
+### 2026-08-09 05:48:33  #焦點 #國際
+
+【美媒：美“愛國者”導彈庫存不足1700枚】據美國《紐約時報》8日援引訊息人士的話報道，美國在同伊朗的戰事中消耗了大量“愛國者”防空系統攔截彈，目前美國該型別導彈庫存已不足1700枚。報道說，美軍在戰事中消耗了1500多枚“愛國者”導彈，儘管特朗普政府已與美軍工企業合作加快和擴大生產，但仍需要兩年多時間才能補齊這一數量的導彈。（新華社）
+
+---
+
+### 2026-08-09 05:38:52  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #XAUUSD
+
+The Times reports the UK defence secretary said allies must step up support to help Ukraine through the winter.
+
+---
+
+### 2026-08-09 05:32:14  #MKT News
+
+【Turkish FM says Saudi-Turkey-Pakistan Mecca defense pact likely to expand; Egypt may join】Turkish foreign minister Fidan said the recently signed Mecca Joint Defense Agreement between Saudi Arabia, Turkey and Pakistan aims to boost regional autonomy and should be expanded, with additional countries expressing interest and Egypt likely to join in the next phase, he told Anadolu on the 8th. He said the pact’s mutual-defense clause is, in technical terms, equivalent to NATO’s collective-defense clause, but its practical application will depend on discussions and decisions by the relevant committee.
+
+---
+
+### 2026-08-09 05:30:17  #其他
+
+【土外長稱沙土巴三國共同防務協議有望擴員】土耳其外長費丹8日表示，新近達成的沙烏地阿拉伯、土耳其和巴基斯坦三國共同防務協議旨在增強區域自主權，應當繼續發展壯大，有更多國家表達加入意願。（新華社）
+
+---
+
+### 2026-08-09 05:27:42  #MKT News #Commodities #Energy
+
+【NV Energy sues data center developer, warns power-costs could be passed to consumers】On the 7th NV Energy, Nevada's largest supplier, sued a developer building two data centers in the state, alleging the facilities would consume nearly one-third of the utility's generation and shift power costs to consumers. NV Energy, which supplies about 90% of Nevada customers, is seeking the developer to fund roughly $1 bln in grid upgrades and warned that if the developer does not bear more infrastructure costs the utility may raise rates, passing the burden to households and businesses. The developer countered that NV Energy has failed to deliver promised power service while still demanding the $1 bln upgrade contribution.
+
+---
+
+### 2026-08-09 05:26:54  #公司 #國際
+
+【美國能源公司起訴資料中心開發商：將電費成本轉嫁民眾】據美國方面7日訊息，美國內華達州最大能源供應商內華達能源公司已經正式起訴正在該州建造資料中心的一家開發商，指控其試圖將電費成本轉嫁給消費者。據稱，內華達能源公司為內華達州90%的使用者供電，而在建的兩家資料中心建成後將消耗的電力，幾乎佔內華達能源公司總發電量的三分之一。內華達能源公司要求資料中心開發商必須啟動價值10億美元的電網升級工程。該公司警告稱，如果資料中心開發商不承擔更多的基建開支，公司或將上調電價，負擔將轉嫁到內華達州的普通家庭和企業身上。對此，資料中心的開發商則表示，內華達能源公司拒絕兌現對其承諾的供電服務，卻依舊要求他們投入10億美元開展電網升級工程。
+
+---
+
+### 2026-08-09 05:13:41  #MKT News
+
+【U.S. media: Iran war depletes defense stockpiles; Pentagon urges faster weapons production】A Washington Post-obtained Pentagon memo shows the Pentagon has ordered U.S. defense firms to rapidly raise weapons production and deliveries, citing acute ammunition shortages tied to the war with Iran. The previously unreported memo says Deputy Defense Secretary Steve Fanberg told industry leaders to submit plans within 21 days to “significantly accelerate, adopt more aggressive delivery schedules and/or increase output of critical capabilities.” He added that multi-year R&D timelines “are unacceptable. We must substantially speed program timelines and immediately expand capacity.” The directive comes as weapon shortfalls have become a point of tension between Trump and the Defense Department.
+
+---
+
+### 2026-08-09 05:03:30  #其他
+
+葉門政府武裝稱胡塞武裝再度發起對馬裡卜的攻勢。
+
+---
+
+### 2026-08-09 05:00:55  #MKT News
+
+【Ukrainian drone breaches Bulgarian airspace, explodes near cross‑Balkan gas compressor station】A Ukrainian drone entered Bulgarian airspace from Romania on Saturday and exploded on Bulgarian territory, Bulgarian officials said. The device detonated about 1,000 metres from a compressor station on the cross‑Balkan gas pipeline, directly threatening critical energy infrastructure. Bulgaria’s defence ministry said wreckage points to a weapon type widely used by the Ukrainian military. Prime Minister Rumen Radev said the explosive payload was substantial. Bulgaria summoned the Ukrainian ambassador and has scheduled a meeting for Monday; officials said the incident so far appears not to have been deliberate.
+
+---
+
+### 2026-08-09 04:55:33  #MKT News
+
+Musk said integrating Starlink connectivity on long-haul flights will be a major productivity-enhancing change.
+
+---
+
+### 2026-08-09 04:53:51  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI #EURUSD #Impact bearish
+
+Fars News Agency reported Bulgaria said a Ukrainian drone this morning attacked the Trans‑Balkan gas pipeline, which carries Russian gas to Europe via Turkey.
+
+---
+
+### 2026-08-09 04:52:04  #其他
+
+馬斯克：長途航班上可用星鏈網路，極大提升了工作效率。
+
+---
+
+### 2026-08-09 04:48:50  #市場 #焦點
+
+布倫特原油暗盤突破82美元，日內漲超0.7%。
+
+---
+
+### 2026-08-09 04:42:00  #國際
+
+【美消防部門證實：猶他州消防直升機墜毀致兩人遇難】美國國家跨部門消防中心8日證實，此前一天在猶他州墜毀的消防直升機上的兩名乘員已經遇難。 據該中心通報，這架與美國林業局簽訂合同的直升機在撲滅野火過程中發生事故，造成飛行員和另一名機組人員遇難。美國聯邦航空局此前證實失事直升機型號為西科斯基S-64。 根據通報，全美目前有97處大型野火正在燃燒，超過3萬名消防員奮戰在各火災現場。 受持續高溫與乾旱影響，美國西部多個州近期野火頻發。（新華社）
+
+---
+
+### 2026-08-09 04:38:20  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #S&P500
+
+【Institution: US July CPI may show easing inflationary pressure】Markets expect US CPI, after June's -0.4% MoM, to rise 0.1% MoM in July. Core CPI ex-food and energy is forecast +0.2% MoM and +2.5% YoY, the smallest YoY gain since February. Following Friday's weak July nonfarm payrolls, slower inflation could help ease Fed inflation concerns; three officials voted to raise rates at the July 29 meeting. The report may show energy-price pressure has cooled after surging in the months following late‑February US‑Iran hostilities; retail gasoline fell to a near four‑month low in early July before rising above $4/gal by month‑end. It may also show airfares declined as jet‑fuel costs stabilized.
+
+---
+
+### 2026-08-09 04:22:38  #MKT News
+
+Jordan's Foreign Ministry said the two foreign ministers discussed shared concerns and prospects for strengthening Arab cooperation, and agreed to continue coordinating and consulting within bilateral and multilateral frameworks on regional and international issues.
+
+---
+
+### 2026-08-09 04:22:20  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+Jordan's foreign ministry said both sides discussed regional developments and efforts aimed at ending escalation, restoring calm, achieving security and stability, and ensuring freedom of navigation in the Strait of Hormuz.
+
+---
+
+### 2026-08-09 04:21:41  #MKT News
+
+Jordan's Deputy Prime Minister and Minister of Foreign and Expatriates' Affairs Ayman Safadi spoke by phone today with Bahraini Foreign Minister Dr Abdullatif Zayani.
+
+---
+
+### 2026-08-09 04:17:18  #MKT News
+
+Syria's Interior Ministry said it foiled an attempt to smuggle weapons and ammunition from Tartus province into Lebanon.
+
+---
+
+### 2026-08-09 04:06:26  #其他
+
+加拿大不列顛哥倫比亞省省長：因巴爾德嶺野火宣佈進入緊急狀態。
+
+---
+
+### 2026-08-09 04:03:25  #MKT News #WTI #Impact bullish #Brent
+
+【Gulf states fear Iran will demand payment to reopen Strait of Hormuz; options very limited】Qatar University scholar Al‑Eteibi said Gulf states are alarmed Iran may demand compensation to reopen the Strait of Hormuz, and that Tehran treats talks with Oman over navigation as an extension of bargaining with the US. He warned Iran could accept frozen-asset releases in exchange for transit now and press for additional payments later, creating open-ended demands that would erode trust and navigation security. Al‑Eteibi urged restoration of direct US‑Iran talks to seek a compromise on asset unfreezing and strait management. Gulf states, he said, welcome progress in Iran‑Oman negotiations but have very limited options if Tehran insists on compensation; they are unwilling to use force and say they can only act in self‑defense. Iran said an Oman-mediated agreement is imminent but that reopening depends on Washington accepting Tehran’s conditions, including compensation. Given Gulf oil and gas exports’ heavy reliance on the Strait, the impasse leaves regional exporters exposed.
+
+---
+
+### 2026-08-09 04:01:26  #MKT News #WTI #Impact bullish #Brent
+
+【CENTCOM says US forces forced 53 merchant ships to divert amid maritime blockade of Iran】CENTCOM said on Aug. 8 that US naval personnel conducted maintenance on F/A-18 Super Hornets aboard the USS Abraham Lincoln to keep the carrier strike group combat-ready, and that US forces have forced 53 merchant vessels to alter course, rendered two vessels unseaworthy, boarded and inspected two vessels, and allowed more than 30 vessels carrying humanitarian aid to transit the blockade as it continues strict maritime enforcement against Iran.
 
 ---
 
@@ -18417,323 +18627,5 @@ China Import Growth Slows from Five-Year High — China's imports rose 27.5% yea
 【主力資金：兆易創新淨買入超15億】截至目前，今日主力資金淨流入80.53億；淨流入年度強勢、晶片概念、昨日高振幅等板塊，其中年度強勢板塊淨流入102.15億；淨流出人工智慧、央企央資、計算機等板塊，其中人工智慧板塊淨流出38.01億。
   
 個股方面，兆易創新淨買入15.65億元位居首位，生益科技、哈藥股份、亨通光電主力資金淨流入居前；長電科技淨賣出9.04億元位居首位，長鑫科技、金山辦公、泛微網路淨流出額居前。
-
----
-
-### 2026-08-07 10:38:48  #經濟數據 #中國
-
-據海關總署，中國7月汽車（包括底盤）出口109.2萬輛，6月106.9萬輛。
-
----
-
-### 2026-08-07 10:38:36  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact mixed #CSI300
-
-【China Customs: zero-tariff policy now covers 63 countries】China Customs said imports of bulk commodities rose 3% YoY in the first seven months of the year; metal ore imports rose 8.2% YoY. Imports of mechanical and electrical products totaled 5.31 trillion yuan, up 29.7% YoY and accounting for 41.9% of total import value. China has implemented a zero-tariff policy covering 63 countries to date; its import volume has ranked second globally for 17 consecutive years.
-
----
-
-### 2026-08-07 10:38:13  #MKT News #Market Regions #Greater China
-
-CUSTOMS: China's rare-earth imports 9,451.3 tonnes in July, 6,261.5 tonnes in June.
-
----
-
-### 2026-08-07 10:38:10  #MKT News #CNH #Impact bullish #CSI300
-
-CUSTOMS: China exported 1.092 mln vehicles (including chassis) in July, up from 1.069 mln in June.
-
----
-
-### 2026-08-07 10:38:06  #經濟數據 #中國
-
-據海關總署，中國7月手機出口4926.8萬臺，6月5326.1萬臺。
-
----
-
-### 2026-08-07 10:37:59  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
-
-Indonesian Stocks on Course for Fifth Weekly Rise — Indonesian shares rose 33 points, or 0.5%, to 6,377 in Friday morning trade, rebounding from a modest dip in the prior session amid sectoral gains led by energy, property, and infrastructure. The advance was tempered, however, by softer U.S. stock futures ahead of the July jobs report, while geopolitical risks lingered after Iran reportedly sought to restrict U.S. and Israeli vessels from transiting Hormuz and impose compensation demands on nations it deems hostile. Caution also grew ahead of July trade data in top trading partner China later today, with expectations of weaker exports and imports due to weather disruptions. Early standouts included Indosat (6.8%), Mitra Keluarga (4.7%), and Bumi Resources (2.8%). For the week, markets remain on track for a fifth straight gain, lifted by buying interest linked to governance reforms under President Prabowo’s flagship program. Meanwhile, July headline inflation hit a three-month low, reinforcing views that cost pressures are contained.
-
----
-
-### 2026-08-07 10:37:57  #MKT News #Market Regions #Greater China
-
-Customs: China's Jan–Jul automobile exports, including chassis, totaled 6.399 million units.
-
----
-
-### 2026-08-07 10:37:55  #MKT News
-
-CUSTOMS: China imported 63,323 tonnes of rare earths in January–July.
-
----
-
-### 2026-08-07 10:37:48  #Trading Economics #Markets #China #Currency #Importance 1
-
-Offshore Yuan Holds Firm at Multi-Year High — The offshore yuan held firm around 6.74 per dollar on Friday, remaining at its strongest level since early February 2023, as Beijing's efforts to accelerate the yuan's internationalization continued to bolster the currency. A growing number of Chinese commercial banks have added roughly a dozen currencies to their direct yuan settlement and clearing networks, including the Thai baht, Brazilian real, and Kazakhstani tenge. The latest move is expected to help Chinese firms further reduce their dependence on the US dollar as the country's trade ties and overseas investments continue to expand, while also supporting President Xi Jinping's ambition to build a "powerful currency." Meanwhile, investors awaited upcoming trade data after China unveiled fresh retaliatory measures against the US, including tighter drone export controls, sanctions on seven American firms, and its first national security probe linked to foreign trade.
-
----
-
-### 2026-08-07 10:37:46  #MKT News #Commodities #Energy
-
-Customs: China imported 10.54 mln tonnes of natural gas in July, versus 10.931 mln tonnes in June.
-
----
-
-### 2026-08-07 10:37:45  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
-
-China Customs reported July mobile-phone exports of 49.268 mln units, down from 53.261 mln in June.
-
----
-
-### 2026-08-07 10:37:34  #市場 #焦點
-
-科創50日內漲幅達2.07%，成分股中，生益電子漲8.32%，源傑科技漲5.93%，華虹宏力漲4.99%，華海清科漲4.97%。
-
----
-
-### 2026-08-07 10:37:29  #MKT News #Commodities #Energy
-
-CUSTOMS reports China imported 67.923 mln t of natural gas in Jan–Jul.
-
----
-
-### 2026-08-07 10:37:28  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
-
-China Customs said July exports of unwrought aluminium and aluminium products were 643,000 tonnes, down from 711,000 tonnes in June.
-
----
-
-### 2026-08-07 10:37:13  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-CUSTOMS: China imported 2.477 mln tonnes of refined oil in July, compared with 1.737 mln tonnes in June.
-
----
-
-### 2026-08-07 10:37:10  #MKT News #Market Regions #Greater China
-
-CUSTOMS: China July steel exports 10.121 mln tonnes, down from June's 10.32 mln tonnes.
-
----
-
-### 2026-08-07 10:37:07  #MKT News #Commodities #Energy
-
-CUSTOMS: China imported 19.908 mln tonnes of refined petroleum products in Jan-Jul.
-
----
-
-### 2026-08-07 10:36:59  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China
-
-China exported 64.995 mln tonnes of steel in Jan–Jul, Customs data showed.
-
----
-
-### 2026-08-07 10:36:49  #經濟數據 #中國
-
-中國7月以美元計價進口同比增長27.5%，出口同比增長23.9%。
-
----
-
-### 2026-08-07 10:36:46  #MKT News #Important #CNH #Impact bearish #Copper #Hang Seng Index
-
-China's July trade balance was 767.07 billion yuan, down from 859.05 billion yuan previously.
-
----
-
-### 2026-08-07 10:36:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-China's crude oil imports were 35.726 mln tonnes in July, up from 29.272 mln tonnes in June, Customs said.
-
----
-
-### 2026-08-07 10:36:39  #MKT News
-
-【SK Hynix cash hoard quietly becomes major buyer in Korea bond market】SK Hynix has expanded purchases of South Korea's domestic corporate bonds; credit analysts and market participants estimate this year’s purchases at about 10–40 tln won (~$7–28 bln), with the upper range including commercial paper. A recent job posting for a role to manage, strategize and hedge company funds — including fixed-income investments across government bonds, corporate bonds and short-term debt — signals stepped-up market activity. Cash and cash equivalents stood at 88 tln won at end-Q2, up roughly 62% QoQ; despite higher capex, investable cash continues to accumulate, providing an incremental source of demand in a market usually dominated by institutional investors.
-
----
-
-### 2026-08-07 10:36:36  #MKT News #Economic Calendar #Important
-
-China | Trade Balance in CNY (Jul) | actual 767070000000B | previous 859050000000B
-
----
-
-### 2026-08-07 10:36:34  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH
-
-China July exports YoY 17.8%, down from 20.8% previously.
-
----
-
-### 2026-08-07 10:36:34  #MKT News #Important #Commodities #Industrial Metals
-
-CUSTOMS: China exported 4,223.5 tonnes of rare earths in July, down from 5,104.8 tonnes in June.
-
----
-
-### 2026-08-07 10:36:27  #MKT News #Economic Calendar #Important
-
-China | Exports in CNY (YoY) (Jul) | actual 17.8% | previous 20.80%
-
----
-
-### 2026-08-07 10:36:18  #MKT News #CNH #Impact bearish #Copper #WTI
-
-China July imports YoY 21.2%, down from 29.4% previously.
-
----
-
-### 2026-08-07 10:36:17  #MKT News #Commodities #Energy #WTI #Brent
-
-CUSTOMS: China imported 283.33 mln tonnes of crude oil in Jan–Jul.
-
----
-
-### 2026-08-07 10:36:12  #MKT News #Economic Calendar #Important
-
-China | Imports in CNY (YoY) (Jul) | actual 21.2% | previous 29.40%
-
----
-
-### 2026-08-07 10:36:06  #MKT News #Commodities #Energy
-
-CUSTOMS: China imported 42.728 mln tonnes of coal and lignite in July, down from 42.779 mln tonnes in June.
-
----
-
-### 2026-08-07 10:36:02  #市場
-
-富時中國A50指數期貨上漲1%。
-
----
-
-### 2026-08-07 10:35:54  #MKT News #Commodities #Energy
-
-Customs: China imported 268.109 million tonnes of coal and lignite in Jan–Jul.
-
----
-
-### 2026-08-07 10:35:45  #Trading Economics #Markets #Commodity #Importance 1
-
-US Natural Gas Drops to Over 3-Month Low — US natural gas prices dropped to $2.62 per MMBtu, the lowest level since April, pressured by a larger-than-expected build-up in storage. The EIA report showed energy firms injected 33 bcf of gas into storage in the week ended July 31, exceeding forecasts of a 31 bcf increase, last year’s 13 bcf build, and the five-year average rise of 23 bcf. On top of that, production remained near record highs despite a slight easing, with Lower 48 dry gas output averaging 110.6 bcfd so far in August, compared with a record 110.7 bcfd in July. LNG feedgas demand also continued to weaken, with average flows to the nine major LNG export plants falling to 16.9 bcfd so far this month from 17.2 bcfd in July, due partly to reduced operations at Freeport LNG in Texas and the single operating liquefaction train at Golden Pass. These factors more than offset support from expectations of higher weather-driven demand, with forecasts pointing to mostly above-normal temperatures through August 21.
-
----
-
-### 2026-08-07 10:35:42  #MKT News #Commodities #Industrial Metals
-
-CUSTOMS: China exported 34,706.3 tonnes of rare earths in Jan-Jul.
-
----
-
-### 2026-08-07 10:35:41  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #CNH
-
-Customs: China imported 108.085 mln tonnes of iron ore and concentrates in July, down from 112.689 mln tonnes in June.
-
----
-
-### 2026-08-07 10:35:37  #經濟數據 #中國
-
-【今年前7個月我國民營企業進出口17.16萬億元 增長17.2%】海關統計資料顯示，今年前7個月我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。
-
----
-
-### 2026-08-07 10:35:32  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #WTI
-
-China July imports in USD terms rose 27.5% YoY, vs 27.7% est; June +36.0%.
-
----
-
-### 2026-08-07 10:35:31  #資料
-
-中國7月以美元計算進口年率 27.5%，預期27.70%，前值36.00%。
-
----
-
-### 2026-08-07 10:35:23  #資料
-
-中國7月以美元計算出口年率 23.9%，預期22.1%，前值27.00%。
-
----
-
-### 2026-08-07 10:35:00  #其他
-
-中國7月以美元計算貿易帳 1125億美元，預期1070億美元，前值1256.2億美元。
-
----
-
-### 2026-08-07 10:34:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Treasury Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.68% on Friday after rising more than 5 basis points in the previous session, as investors awaited the closely watched July jobs report for fresh clues on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Additionally, Treasury yields were supported by a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns about inflation and the interest rate outlook.
-
----
-
-### 2026-08-07 10:34:56  #Trading Economics #Economy #Philippines #GDP Growth Rate #Importance 0
-
-Philippine Economy Grows 0.6% QoQ — The Philippine economy expanded 0.6% quarter-on-quarter in Q2 2026, below market expectations and Q1’s 0.9% growth. Among the major sectors, agriculture, forestry, and fishing posted the fastest growth at 2.7%, followed by services at 1.3%. Meanwhile, industry contracted 1.8%, primarily driven by declines in construction and mining and quarrying. Education; wholesale and retail trade; repair of motor vehicles and motorcycles; and public administration and defense were the top contributors to overall GDP growth. On the expenditure side, household consumption grew 0.8%.
-
----
-
-### 2026-08-07 10:34:28  #經濟數據 #中國
-
-【海關總署：截至目前已對63個國家實施了零關稅政策】海關總署今天公佈統計資料顯示，今年前7個月，我國大宗商品進口量同比增長了3%，其中：金屬礦砂進口量增加8.2%。同期，進口機電產品5.31萬億元，增長29.7%，佔我國進口總值的41.9%。我國積極擴大自主開放，主動擴大進口，推動進出口平衡發展。截至目前，已對63個國家實施了零關稅政策，進口規模連續17年穩居全球第二。今年前7個月，我國進口增速快於出口8個百分點，全球更多優質產品進入中國市場，共享中國機遇。
-
----
-
-### 2026-08-07 10:33:53  #經濟數據 #中國
-
-【今年前7個月我國出口機電產品11.12萬億元 增長21.2%】海關總署今天公佈統計資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。我國已成為全球創新力上升最快的國家之一。
-
----
-
-### 2026-08-07 10:33:46  #其他
-
-今年前7個月，我國以水路、航空、公路、鐵路運輸方式進出口分別增長6.9%、34.6%、40.7%、17.2%。隨著我國多元化國際運輸通道體系不斷健全，跨境貨物運輸更加便捷高效，外貿企業的選擇更趨多元靈活。前7個月，我國空運和陸運進出口貨值佔四成，增長超三成。（海關總署）
-
----
-
-### 2026-08-07 10:33:35  #其他
-
-今年前7個月，我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。（海關總署）
-
----
-
-### 2026-08-07 10:32:52  #其他
-
-【今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長17.3% 】今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。7月當月，進出口4.66萬億元，同比增長19.2%。其中，出口2.71萬億元，增長17.8%，進口1.95萬億元，增長21.2%。今年以來，我國經濟頂壓前行、向新向優，對外貿進出口增長形成有力支撐。7月份，我國外貿延續上半年良好增長態勢，增速較上半年加快了2.3個百分點，進出口規模連續5個月超過4萬億元。出口產品結構向新向綠今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。我國已成為全球創新力上升最快的國家之一。科技創新和產業創新深度融合，不斷轉化為外貿競爭新優勢和增長新動能。7月份，我國高技術產品出口增長超五成，貢獻了近六成的出口增量，電動汽車、鋰電池等綠色低碳產品出口連續17個月兩位數增長。進口增速繼續快於出口今年前7個月，我國大宗商品進口量同比增長了3%，其中：金屬礦砂進口量增加8.2%。同期，進口機電產品5.31萬億元，增長29.7%，佔我國進口總值的41.9%。我國積極擴大自主開放，主動擴大進口，推動進出口平衡發展。截至目前，已對63個國家實施了零關稅政策，進口規模連續17年穩居全球第二。今年前7個月，我國進口增速快於出口8個百分點，全球更多優質產品進入中國市場，共享中國機遇。（央視）
-
----
-
-### 2026-08-07 10:32:30  #市場 #焦點
-
-PTA連續主力合約日內漲3%，現報5832.00元。
-
----
-
-### 2026-08-07 10:32:29  #市場 #焦點
-
-聚丙烯連續主力合約日內漲2%，現報8149.00元。
-
----
-
-### 2026-08-07 10:32:18  #其他
-
-【前7個月我國出口機電產品11.12萬億元，增長21.2%】海關總署資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。（央視新聞）
-
----
-
-### 2026-08-07 10:31:55  #市場
-
-富時中國A50指數期貨漲幅擴大至1%。
-
----
-
-### 2026-08-07 10:31:43  #市場
-
-滬深300指數上漲1%至4,697.91點。
-
----
-
-### 2026-08-07 10:31:31  #其他
-
-【周新群已任中央政策研究室副主任】據“閩東日報”訊息，8月5日，中央黨的建設工作領導小組秘書組2026年聯絡點工作暨課題研究成果交流座談會在寧德召開。中央黨的建設工作領導小組秘書組組長、中央政策研究室主任唐方裕就樹立和踐行正確政績觀談了認識體會，同大家交流。福建省委副書記、福州市委書記郭寧寧致辭，交流了黨建工作經驗。中央政策研究室副主任周新群主持。福建省委常委、組織部部長苗延紅，天津市委常委、濱海新區區委書記連茂君和寧德市委領匯出席。上述訊息顯示，周新群已任中央政策研究室副主任。公開報道顯示，周新群曾任中央黨的建設工作領導小組秘書組副局長，中央政策研究室黨建研究局局長等職。（白鷺洲知政）
 
 ---

@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-13 03:16:47_
-_本檔包含 3132 則快訊，約 591130 字_
+_更新時間：2026-08-13 04:19:40_
+_本檔包含 3110 則快訊，約 589901 字_
+
+---
+
+### 2026-08-11 23:02:23  #其他
+
+【奈及利亞交火事件致10名警察和2名平民死亡】奈及利亞西北部凱比州10日發生一起安全人員與武裝分子交火事件，造成10名警察和2名平民死亡，另有17名武裝分子被當場擊斃。（央視新聞）
+
+---
+
+### 2026-08-11 23:01:53  #其他
+
+【英偉達推出Nemotron 3.5 Lightning 瞄準智慧體AI提速】英偉達將擴充套件Nemotron 3模型系列，推出Nemotron 3.5 Lightning。與同類其他模型相比，該模型的輸出速度最高可提升4倍，智慧體任務完成速度可提升30%。英偉達將Nemotron 3.5 Lightning稱為“同類模型中針對長時間執行的智慧體AI工作負載效率最高的模型”。Nemotron 3.5 Lightning是一款擁有300億引數的混合專家模型，可幫助開發更智慧、更高效的智慧體應用。Nemotron 3.5 Lightning現已作為英偉達NIM微服務在Hugging Face、ModelScope、OpenRouter以及build.nvidia.com上線。
+
+---
+
+### 2026-08-11 23:01:39  #MKT News #Important #CME.O #Impact bullish
+
+CME Group and Silicon Data will launch computing-power futures on Oct. 5.
+
+---
+
+### 2026-08-11 23:00:53  #MKT News #Important #Commodities #Energy
+
+As of the 23:00 close in China, main futures contracts were mixed. Fuel oil jumped more than 2%; coking coal, coke and low-sulfur fuel oil (LU) rose over 1%; asphalt and caustic soda gained about 1%; PET chips fell more than 1% and pulp slid nearly 1%.
+
+---
+
+### 2026-08-11 23:00:24  #其他
+
+【水利部針對北京天津啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，據預報，8月11日夜間至13日，北京西南部、天津北部局地有暴雨到大暴雨；北京永定河、琉璃河、小清河，天津薊運河將出現漲水過程，暴雨區內山洪災害和中小河流洪水風險高。水利部於8月11日22時30分針對北京、天津市啟動洪水防禦Ⅳ級應急響應，並派出2個工作組赴北京、天津市暴雨洪水防禦一線協助指導。（央視新聞）
+
+---
+
+### 2026-08-11 23:00:24  #MKT News #WTI #Impact bearish #Brent #XAUUSD
+
+【Analyst: Iran's bargaining chip in Strait of Hormuz 'depreciating'】International Policy Research Center vice chairman Rashid Muhannadi said talks to resolve the Strait of Hormuz crisis are advancing despite public US‑Iran hardline rhetoric. He said Iran views control of the strait as a national security concern and is using it as a bargaining chip, but called that chip a 'depreciating asset.' Muhannadi added actions that impede freedom of navigation remain widely opposed, and parties appear willing to explore a mutually acceptable regional mechanism to manage transit through the strait.
+
+---
+
+### 2026-08-11 23:00:06  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Drops by 0.59% — Top currency loser is Brazilian Real (-0.59%). Gains are led by South Korean Won (0.42%). Meanwhile, Japanese Yen and Euro were little changed.
+
+---
+
+### 2026-08-11 23:00:02  #市場
+
+【夜盤期貨收盤】焦煤連續漲2.04%，低硫燃料油連續漲1.22%，焦炭連續漲1.01%，紙漿連續跌0.78%，純鹼連續漲0.71%。
+
+---
+
+### 2026-08-11 22:58:52  #國際
+
+法律商業新聞網：美國法院支援對獲假釋移民實施快速驅逐程式。
+
+---
+
+### 2026-08-11 22:58:46  #MKT News
+
+U.S. court backs expedited removal of immigrants granted parole.
+
+---
+
+### 2026-08-11 22:57:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Libya's National Oil Corporation president said the Zawiya refinery has resumed operations.
+
+---
+
+### 2026-08-11 22:57:24  #公司
+
+利比亞國家石油公司負責人：扎維耶煉油廠恢復運營。
+
+---
+
+### 2026-08-11 22:56:06  #其他
+
+墨西哥在 48 小時內恢復對 45 家牛油果包裝廠的檢查。
+
+---
+
+### 2026-08-11 22:54:35  #國際
+
+以色列總理內塔尼亞胡：以色列人民與哥倫比亞站在一起。
+
+---
+
+### 2026-08-11 22:53:01  #國際
+
+【卡達：對話是結束美以對伊朗戰事的唯一途徑】卡達外交部發言人釋放核心訊號：儘管局勢緊張，但化解危機唯有依靠對話磋商。“綜合近期動態，伊朗與美國持續釋放各類立場訊號，各方都在爭取推動自身訴求落地。”圍繞霍爾木茲海峽重啟通航的潛在協議依舊分歧重重。伊朗將這條戰略水道視作自身安全籌碼，但分析師判斷該議價影響力正在減弱。卡達持續充當斡旋渠道，維繫溝通渠道暢通，推動談判繼續推進。卡達外交部發言人表示，收到來自伊朗、阿曼方面有關重新開放霍爾木茲海峽的積極訊息。據瞭解，伊、阿曼雙方正在商討美伊談判相關技術性安排。不過海峽重啟通航仍面臨明顯阻礙：伊朗如今向美方開出條件，要求美軍撤出中東地區，同時美國需要就美、以色列襲擊伊朗造成的損失予以賠償。美國總統特朗普表態，美方同樣要求伊朗作出賠償；並稱計劃加大對伊朗經濟施壓，逼迫伊朗接受協議。 卡達方面重申，將持續保持各方溝通通道開放、推動更多會談，因為對話是解決這場危機唯一可行路徑。
+
+---
+
+### 2026-08-11 22:52:57  #其他
+
+【亞洲首個柔直海上風電專案累計發電量突破100億千瓦時】8月11日，亞洲首個採用柔性直流輸電技術送出的海上風電專案——三峽新能源江蘇如東800兆瓦海上風電專案累計發電量突破100億千瓦時，為我國大容量、遠距離海上風電柔性直流輸電技術的規模化應用提供了實踐驗證。（央視新聞）
+
+---
+
+### 2026-08-11 22:51:40  #其他
+
+【中國新任駐斯里蘭卡大使魏華祥抵斯履新】8月11日，中華人民共和國新任駐斯里蘭卡民主社會主義共和國特命全權大使魏華祥抵達斯里蘭卡履新。
+
+---
+
+### 2026-08-11 22:51:29  #其他
+
+【奈及利亞交火事件致10名警察和2名平民死亡】奈及利亞西北部凱比州10日發生一起安全人員與武裝分子交火事件，造成10名警察和2名平民死亡，另有17名武裝分子被當場擊斃。 凱比州警方11日接受媒體採訪時說，當地安全人員10日晚攔截一夥從鄰州扎姆法拉州騎摩托車進入的武裝分子，雙方隨即發生交火，部分武裝分子中槍後逃離現場。 警方說，10名警察和2名平民在此次交火中身亡，另有2名安全人員受傷，至少17名武裝分子被擊斃。 近年來，奈及利亞面臨恐怖主義、綁架、匪患等多重安全挑戰，武裝襲擊事件頻發。(新華社)
+
+---
+
+### 2026-08-11 22:48:42  #國際
+
+【埃及伊斯梅利亞省嚴重交通事故已致16死32傷】當地時間11日，埃及東北部伊斯梅利亞省發生一起嚴重交通事故，兩輛載有工人的車輛發生嚴碰撞。截至目前，事故已造成16人死亡，另有32人受傷。相關部門正在調查事故詳情，確定責任方，並確認最終的傷亡人數。（央視新聞）
+
+---
+
+### 2026-08-11 22:48:36  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+Treasury Yields Edge Down — The yield on the US 10-year Treasury note fell to 4.68% on Tuesday, after rising above 4.71% the previous day, as oil prices steadied amid signs that diplomatic efforts are underway to reach a deal between the US and Iran and reopen the Strait of Hormuz. Pakistan signaled the possibility of an agreement that could help ease tensions roiling energy markets, although the situation remains highly fragile and uncertain. Meanwhile, the highly anticipated US CPI report is due on Wednesday and should provide further insight into the path of inflation. The report is expected to continue pointing to a slowdown in energy-related price pressures that intensified in the months immediately following the start of the US war with Iran. Markets are pricing in roughly even odds of a Fed rate hike next month, with about a 50% probability of rates being left unchanged.
+
+---
+
+### 2026-08-11 22:47:46  #市場
+
+赫茲環球股價上漲 25%，創 6 月 29 日以來新高。
+
+---
+
+### 2026-08-11 22:47:26  #國際
+
+市場訊息：世界冰壺聯合會將對俄羅斯運動員的禁賽延長至 2026 年底。
+
+---
+
+### 2026-08-11 22:47:04  #Trading Economics #Markets #Commodity #Importance 1
+
+Wheat Market Weighs Supply Risks and Weak Demand — Wheat prices fluctuated around $6.40 per bushel, remaining more than 10% below the two-year high of $7.08 on July 22, as weaker Russian prices, subdued international demand and alternative export routes eased concerns over Black Sea disruptions. Hopes for progress in negotiations to restore shipping through the Strait of Hormuz also improved broader market sentiment, after Pakistan said the US and Iran were “close to some sort of arrangement” to reduce tensions. However, risks to grain exports remain as Ukraine and Russia continue to target each other’s shipping routes. Ukraine has lowered its 2026/27 grain export forecast by up to 12% from its previous estimate, while Russia’s wheat export outlook has also been reduced. Consultancy IKAR cut its forecast for Russian wheat exports to 44.5 million tonnes, while Sovecon expects August shipments to reach their lowest level in a decade. Traders now await the US government’s latest crop forecasts on Wednesday.
+
+---
+
+### 2026-08-11 22:46:27  #公司 #國際
+
+【馬斯克：強烈推薦大家去中國看看】美國企業家、電動汽車製造商特斯拉公司執行長埃隆·馬斯克11日在社交媒體上寫道：“中國太棒了。我強烈推薦大家去看看。”在社交媒體平臺X上一條討論特斯拉在華業務的帖子下，馬斯克作上述評論。馬斯克的母親梅耶·馬斯克隨後引用馬斯克的這條帖文寫道：“我同意。（中國的）每個城市都有其獨特魅力，有不同的文化景點可以參觀。建築物和街道乾淨整潔，維護良好。同時，人們彬彬有禮、勤勞且尊重他人。我（在中國）感到安全，所以很享受去中國（旅行）。”近期，美國皮尤研究中心等機構的調查顯示，國際民眾對中國的好感度不斷上升。（新華社）
+
+---
+
+### 2026-08-11 22:45:47  #公司
+
+市場訊息：蘋果執行長蒂姆・庫克表示，部分蘋果智慧功能將會產生費用，同時最新的 iOS 27 測試版中出現了 HomeKit 安全影片的 iCloud + 套餐等級限制。
+
+---
+
+### 2026-08-11 22:44:25  #其他
+
+肯亞預計截至 2026 年 6 月經常賬戶缺口佔國內生產總值的 3%。
+
+---
+
+### 2026-08-11 22:43:02  #其他
+
+肯亞貨幣政策委員會預計短期消費者物價指數將維持在目標區間內。
+
+---
+
+### 2026-08-11 22:42:21  #MKT News #Market Themes #Chip Wars #INTC.O #Impact bearish
+
+Market sources said roughly one-third (about 33%) of subscription orders for Intel's share offering went unallotted.
+
+---
+
+### 2026-08-11 22:42:18  #央行 #其他
+
+肯亞央行預計短期內通脹將處於目標區間內。
+
+---
+
+### 2026-08-11 22:41:40  #MKT News
+
+The ACLU and other legal groups asked a U.S. judge to block Trump's latest action to restrict "birthright citizenship".
+
+---
+
+### 2026-08-11 22:41:33  #國際
+
+【TD SYNNEX將IBM分銷業務擴充套件至20個新國家】8月11日，全球IT分銷商及解決方案聚合商TD SYNNEX宣佈擴大IBM產品分銷覆蓋範圍，將業務拓展至歐洲、亞太地區（馬來西亞市場以Tech Data和Tec-D品牌運營）以及拉丁美洲的20個新國家。
+
+---
+
+### 2026-08-11 22:41:14  #國際
+
+市場訊息：美國公民自由聯盟及其他法律團體請求美國法官阻止特朗普總統限制出生公民權的最新行動。
+
+---
+
+### 2026-08-11 22:40:48  #其他
+
+市場訊息：漢諾威機場因發現無人機蹤跡被迫關閉。
+
+---
+
+### 2026-08-11 22:40:31  #其他
+
+據傳英特爾本次配售中約 33% 的申購訂單未獲分配股票 。
+
+---
+
+### 2026-08-11 22:40:24  #MKT News #Commodities #Energy
+
+【China Southern Power Grid load hits 278 GW; August peak seen at 283 GW, +12.9% YoY】China Southern Power Grid said at 17:16 on Aug 11 its system load reached 278 GW, the fifth record high this year. Guangdong's midday peak hit 176 GW, with Yangjiang, Shantou, Jieyang and Chaozhou recording local highs. The grid forecasts August peak could reach 283 GW, up 12.9% YoY.
+
+---
+
+### 2026-08-11 22:40:14  #其他
+
+【南方電網用電負荷今年五創新高 突破2.78億千瓦】據南方電網訊息，8月11日17時16分，南方電網用電負荷突破2.78億千瓦，今年第五次創歷史新高。當天中午，廣東最高用電負荷達1.76億千瓦，今年第四次創新高，廣東省內陽江、汕頭、揭陽、潮州等地市用電負荷創歷史新高。據南方電網預測，8月份，南方電網用電負荷仍將持續高位執行，最高負荷或達2.83億千瓦，較去年同期增長12.9%。
+
+---
+
+### 2026-08-11 22:39:57  #國際
+
+美國食品藥品監督管理局：該指南代表本機構目前關於防控鮮切農產品汙染相關問題的最新思路。
+
+---
+
+### 2026-08-11 22:39:51  #央行 #其他
+
+肯亞央行維持基準利率在8.75%不變；預計利率為8.75%。
+
+---
+
+### 2026-08-11 22:39:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Atlanta Fed first vice president Venable said there are "subtle risks" to the Fed's inflation and employment mandates.
+
+---
+
+### 2026-08-11 22:39:07  #公司 #央行 #國際
+
+亞特蘭大聯儲第一副總裁維納布林：美聯儲的通脹與就業使命存在“細微風險。
+
+---
+
+### 2026-08-11 22:39:00  #國際
+
+美國食品藥品監督管理局根據《人類食品預防性控制規則》敲定即食鮮切農產品生產操作指南。
+
+---
+
+### 2026-08-11 22:38:41  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Atlanta Fed first vice president Venable said the Fed’s assessment of maximum employment is being affected by a stagnating labor supply, which is "an unusual situation" for the United States.
+
+---
+
+### 2026-08-11 22:38:36  #央行 #公司 #國際
+
+亞特蘭大聯儲第一副總裁維納布林：最大化就業的理解受到勞動力供應停滯的影響，這對美國而言是一種“異常情況”。
+
+---
+
+### 2026-08-11 22:38:16  #MKT News #WTI #Brent
+
+Atlanta Fed first vice president Venable said the key question is whether price pressures will ease over the coming months, which will largely depend on the outcome of the Middle East conflict.
+
+---
+
+### 2026-08-11 22:38:08  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Intuit Stock Price Hits 10-week High — Intuit shares increased to 337.05 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 16.27%, and in the last 12 months, it decreased 52.78%.
 
 ---
 
@@ -18477,407 +18747,5 @@ USD/JPY briefly fell about 40 pips to a low of 158.41, now trading at 158.67.
 ### 2026-08-10 20:11:32  #MKT News
 
 Iran's president said a meeting with the supreme leader lasted 7-8 hours.
-
----
-
-### 2026-08-10 20:11:21  #公司
-
-【匯成真空：擬定增募資不超過9.55億元用於超精密半導體及連續式PVD裝置產業化等專案】匯成真空公告，公司2026年度擬向特定物件發行A股股票，募集資金總額不超過人民幣9.55億元（含本數），扣除發行費用後擬全部用於超精密半導體及連續式PVD裝置產業化專案（擬投入66,861.68萬元）及補充流動資金（擬投入28,638.32萬元）。本次發行物件不超過35名，發行價格不低於定價基準日前二十個交易日公司股票交易均價的80%，發行股票數量不超過3000萬股（含本數），即不超過發行前公司總股本的30%。
-
----
-
-### 2026-08-10 20:11:11  #市場 #央行 #國際
-
-【日媒：植田暗示9月加息促成美日聯合買入日元】多位日本政府官員10日透露，日美兩國政府於美國東部時間7月31日實施了一次異乎尋常的聯合日元買入干預，這是28年來首次此類行動。其決定性因素在於，日本央行行長植田和男在當日（7月31日）的記者會上強烈暗示，將在9月及之後儘早提高政策利率。植田明確表示，如有必要將“加快加息步伐”。美方對此給予積極評價，雙方在阻止日元過度貶值方面步調一致。這是因為美國擔憂，日本加息遲緩已導致日元過度貶值，進而引發物價進一步上漲和長期利率攀升，這可能波及全球金融市場。一位日本政府高官透露：“植田行長的表態對美方極具說服力。同時，這也意味著日本央行在（9月17-18日的）下次政策會議上，除了加息已別無選擇。”
-
----
-
-### 2026-08-10 20:09:53  #其他
-
-【警惕！我國境內發現多起“Sorry”勒索病毒攻擊事件】近日，國家計算機病毒應急處理中心和計算機病毒防治技術國家工程實驗室依託國家計算機病毒協同分析平臺（https://virus.cverc.org.cn）在我國境內發現多起使用者遭“Sorry”勒索病毒攻擊事件。使用者重要檔案被加密後檔名被更改為原檔名+“.sorry”字尾字串，攻擊者還在使用者主機上留下勒索信，要求使用者下載加密通訊工具與其聯絡。（央視新聞）
-
----
-
-### 2026-08-10 20:09:00  #公司
-
-ARCHER：波音同意交易完成後對價股份實施12個月禁售期。
-
----
-
-### 2026-08-10 20:08:08  #MKT News #Important #USDJPY #Impact bearish #DXY #Impact mixed
-
-KYODO reports that signals the Bank of Japan may raise rates in September prompted U.S. intervention.
-
----
-
-### 2026-08-10 20:08:01  #央行 #焦點 #國際
-
-市場訊息：日本央行9月加息訊號促成美日聯合干預匯市。
-
----
-
-### 2026-08-10 20:07:31  #其他
-
-【上海：高快速路解除管控，東海大橋繼續封閉，長江大橋限速60公里/小時】據“上海釋出”微信公眾號8月10日19時36分訊息，市公安局交通管理總隊介紹，當前暴雨、颱風更新為藍色預警。公安交管部門針對上海市高快速路解除管控措施，恢復正常通行。東海大橋風力9級以上，繼續採取封閉措施。長江大橋風力7-8級，限速60公里/小時。
-
----
-
-### 2026-08-10 20:06:41  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) supports Texas Governor Abbott's scrutiny of data centers.
-
----
-
-### 2026-08-10 20:06:21  #其他
-
-Meta支援阿博特州長對得克薩斯州資料中心開展審查。
-
----
-
-### 2026-08-10 20:04:50  #其他
-
-【滬浙皖蘇已啟動颱風“白海豚”損失保險理賠】據浙江、安徽、江蘇、上海三省一市金融監管部門訊息，各地保險業在臺風“白海豚”造成的災害發生後，已第一時間啟動了保險理賠。（央視新聞）
-
----
-
-### 2026-08-10 20:04:39  #公司
-
-ARCHER航空擬收購波音旗下威斯克航空、SkyGrid 以及因西圖公司。
-
----
-
-### 2026-08-10 20:03:56  #MKT News #Important #Market Regions #Greater China
-
-【Korean investors lead net buying of Zhongji Xuchuang H-shares】Korea Securities Depository (KSD) unit SEIBro shows Korean investors settled USD 45.07m in buys and USD 1.67m in sells of Zhongji Xuchuang H-shares from July 8–Aug 7, for a net buy of USD 43.39m (about HKD 340m), the largest net inflow into a Hong Kong stock by Korean investors over the period. Zhongji Xuchuang H-shares began trading on July 30; in seven trading days its net buy was almost four times that of the second-ranked stock.
-
----
-
-### 2026-08-10 20:03:40  #其他
-
-Finster AI 獲得瑞銀投資，用於投行業務人工智慧專案。
-
----
-
-### 2026-08-10 20:03:34  #公司
-
-【原力靈機完成股份制改造 估值已破200億】8月10日，具身智慧大模型企業原力靈機正式完成股份制改造，更名為"原力靈機（重慶）智慧科技股份有限公司"，標誌著其上市籌備進入實質性階段。記者獲悉，公司最新估值已突破200億元，其投資方涵蓋阿里巴巴、啟明創投、蔚來資本、智譜等頭部機構和頭部大模型企業。（科創板日報）
-
----
-
-### 2026-08-10 20:03:31  #其他
-
-【國家人工智慧應用中試基地（農業領域農作物種植方向）啟動】據“九天人工智慧”公眾號訊息，8月9日，黑龍江省“人工智慧+”賦能行業高質量發展峰會暨國家人工智慧應用中試基地（農業領域農作物種植方向）啟動大會於哈爾濱順利舉辦。種植中試基地，是貫徹落實國家糧食安全戰略和“人工智慧+”行動的重要抓手，是國家級人工智慧應用創新載體。基地將聚焦行業共性技術難題，打造可複製推廣的典型場景，著力築成國內一流智慧農業創新高地。
-
----
-
-### 2026-08-10 20:03:29  #MKT News #ACHR.O #Impact bullish
-
-Boeing plans to acquire a stake in Archer Aviation; Archer shares jumped about 15% in premarket trading.
-
----
-
-### 2026-08-10 20:03:14  #國際
-
-STRATEGY ：根據提交給美國證券交易委員會(SEC)的檔案，在2026年8月3日至9日期間，以均價64,262美元出售了1,690枚比特幣，總價值1.086億美元。
-
----
-
-### 2026-08-10 20:03:05  #MKT News
-
-ANTHROPIC has reached a data-center platform agreement with Macquarie and GIC.
-
----
-
-### 2026-08-10 20:02:57  #其他
-
-波音：將保留對Wisk核心自主飛行技術的使用權，用於當前及下一代商用與防務飛機。
-
----
-
-### 2026-08-10 20:02:11  #其他
-
-波音：交易預計將於2026年底前完成交割。
-
----
-
-### 2026-08-10 20:02:05  #公司 #市場
-
-【愛麗家居：股價異動累積風險 8月11日起停牌核查】愛麗家居公告稱，公司股票自2026年7月21日至8月10日，累計11個交易日漲停，股價漲185.56%，已累積巨大交易風險，嚴重偏離基本面。公司股票將於8月11日開市起停牌，自披露核查公告後復牌。公司提醒，目前基本面未變，但股價已嚴重脫離基本面，剩餘外部流通盤小、近期交易放量，或存在非理性炒作。此外，公司擬現金收購歐康諾不低於77.08%股權，控股股東擬轉讓部分股份，相關事項均存不確定性。
-
----
-
-### 2026-08-10 20:02:02  #MKT News #Important
-
-Aili Home: trading suspended from market open August 11 pending investigation after abnormal stock trading volatility.
-
----
-
-### 2026-08-10 20:01:53  #市場
-
-波羅的海乾散貨運價指數下跌0.19%，至3083點。
-
----
-
-### 2026-08-10 20:01:47  #MKT News
-
-Baltic Dry Index fell 0.19% to 3,083.
-
----
-
-### 2026-08-10 20:01:46  #其他
-
-波音將保留獲取威斯克核心自動駕駛技術的許可權。
-
----
-
-### 2026-08-10 20:01:34  #其他
-
-麥格理：各方將物色、開發新場地。
-
----
-
-### 2026-08-10 20:01:25  #MKT News #Market Themes #AI Revolution #Market Regions #Greater China #CNH #Impact bullish #CSI300
-
-【One second of computing power equals 200 years of human computation】The National Development and Reform Commission said China’s compute base has been strengthened this year as a domestically produced 100,000‑GPU AI supercluster at the National Supercomputing Internet’s Zhengzhou core node entered service. Staff said the cluster’s peak per‑second compute capacity is equivalent to 200 years of continuous human computation and it is now supporting more than 300 computing tasks across 26 fields, including new materials, innovative drugs and artificial intelligence.
-
----
-
-### 2026-08-10 20:01:13  #MKT News
-
-ASML (ASML.O) disclosed transactions under its current share buyback program.
-
----
-
-### 2026-08-10 20:01:09  #其他
-
-波音將對 ARCHER  進行投資並開展合作。
-
----
-
-### 2026-08-10 20:01:07  #MKT News
-
-Shanghai Gold Exchange Gold T+D fell 0.11% at the opening of the evening session on Monday Aug 10, trading at 940.11 yuan/gram. Silver T+D rose 2.67% to 15,640.0 yuan/kg at the same session open.
-
----
-
-### 2026-08-10 20:00:58  #MKT News
-
-Romania's central bank kept its policy rate at 6.50%, in line with market expectations.
-
----
-
-### 2026-08-10 20:00:46  #資料
-
-加拿大至8月7日全國經濟信心指數 53，前值52.8。
-
----
-
-### 2026-08-10 20:00:24  #MKT News
-
-Canada national economic confidence index 53 as of Aug. 7; prior 52.8.
-
----
-
-### 2026-08-10 20:00:17  #MKT News #Economic Calendar #Important
-
-Canada | National Economic Confidence Index (Aug.7) | actual 53 | previous 52.8
-
----
-
-### 2026-08-10 20:00:15  #市場
-
-Anthropic將為消費者承擔電價上漲帶來的成本。
-
----
-
-### 2026-08-10 20:00:08  #其他
-
-羅馬尼亞國家銀行維持基準利率在6.50%不變；預計利率為6.50%。
-
----
-
-### 2026-08-10 19:59:35  #MKT News
-
-ANTHROPIC, Macquarie Asset Management and Singapore's GIC announce strategic partnership.
-
----
-
-### 2026-08-10 19:59:29  #公司 #焦點
-
-【江波龍：2026年上半年營收240.88億元 同比增長136.26%】江波龍公告稱，2026年半年度，公司實現營業收入240.88億元，達上市以來同期峰值，同比增長136.26%。上半年研發投入8.51億元，同比增長91.02%，推出mSSD、AILPBGA、AIDIMM等新產品，車規級UFS 4.1儲存產品也已釋出。公司還完善治理結構、加強投資者溝通，2026年上半年舉辦業績說明會及調研活動33場，回覆互動易問題276次。2026年6月2日完成利潤分配，每10股派發現金紅利9.91元（含稅）。
-
----
-
-### 2026-08-10 19:59:06  #MKT News #Important
-
-Jiangbolong reported 1H2026 net profit attributable to owners of the parent of 10.577 billion yuan, a 71,528.66% YoY increase.
-
----
-
-### 2026-08-10 19:58:44  #公司 #國際
-
-【遊戲驛站考慮撤回 560 億美元收購 eBay 的要約】遊戲驛站執行長瑞安・科恩正考慮撤回公司對 eBay 價值 560 億美元的收購要約。取而代之，遊戲驛站或將提議建立合作關係，藉助其在美國約 1600 家門店，擴大兩家公司在交易卡牌與收藏品領域的業務佈局。報道稱，持有 eBay 9.75% 股份的遊戲驛站，希望依據該合作協議獲得董事會席位。目前尚未作出最終決定。
-
----
-
-### 2026-08-10 19:58:22  #其他
-
-【千問辦公助理收費 會員套餐分旗艦、精英、高階三檔】記者獲悉，千問辦公助理推出收費服務。千問App的App Store頁面顯示，其辦公助理會員套餐共分旗艦、精英、高階三檔。其中旗艦套餐月付價128元/月、年付價1499元/年；精英套餐月付價49元/月、年付價568元/年；高階套餐年付價200元/年。同時，影片生成額度10個/50個/100個/200個/500個對應價格在26元至968元不等。針對千問辦公助理收費，截至發稿，阿里方面暫無回應。
-
----
-
-### 2026-08-10 19:57:54  #公司
-
-【中科磁業：擬發行不超6.09億元可轉債用於稀土永磁專案】中科磁業公告，公司擬向不特定物件發行可轉換公司債券，募集資金總額不超過6.09億元（含），扣除發行費用後擬用於熱管理系統與機器人用高效能稀土永磁元件智慧製造及產業化專案（投資額49,729.37萬元，擬投入45,905.38萬元）及補充流動資金（15,000.00萬元）。本次發行已獲公司第三屆董事會第十次會議審議透過，尚需經股東會審議、深交所稽核及中國證監會註冊後方可實施。
-
----
-
-### 2026-08-10 19:57:50  #公司 #國際
-
-麥格理集團：各方將攜手識別並開發新地塊，由Anthropic公司作為主承租商戶，初期重點聚焦美國市場。
-
----
-
-### 2026-08-10 19:57:40  #公司 #焦點
-
-【江波龍：擬以4億元-8億元回購公司股份】江波龍公告，擬以不低於人民幣4億元（含本數）且不超過人民幣8億元（含本數）的自有資金或自籌資金回購公司股份，回購價格不超過735元/股。回購股份將用於股權激勵或員工持股計劃，若公司未能在股份回購實施結果暨股份變動公告日後三年內使用完畢，尚未使用的已回購股份將依法予以登出。
-
----
-
-### 2026-08-10 19:57:36  #其他
-
-【聚飛光電光耦產品獲德國VDE官方認證】聚飛光電光耦產品透過DIN EN IEC 60747-5-5（VDE 0884-5:2021-10）、EN IEC 60747-5-5:2020最新標準，獲VDE認證。據悉，VDE（德國電氣電子及資訊科技協會）認證是全球電氣領域最具公信力的安全認證之一。(人民財訊)
-
----
-
-### 2026-08-10 19:57:33  #MKT News
-
-【Jufei Optoelectronics optocouplers receive VDE certification】Jufei Optoelectronics said its optocoupler products have passed DIN EN IEC 60747-5-5 (VDE 0884-5:2021-10) and EN IEC 60747-5-5:2020 standards and obtained VDE certification. VDE is among the world's most authoritative electrical safety certifications.
-
----
-
-### 2026-08-10 19:57:29  #其他
-
-沃爾瑪表示，因擔憂與泰勒農場召回事件相關的沙門氏菌風險，已下架受影響的含墨西哥辣椒的預製食品。
-
----
-
-### 2026-08-10 19:57:19  #MKT News
-
-Market sources: Ukraine has lowered its grain export forecast after Russian attacks on its ports.
-
----
-
-### 2026-08-10 19:57:06  #其他
-
-遊戲驛站（GameStop）的科恩正考慮提議建立合作關係或組建合資企業。
-
----
-
-### 2026-08-10 19:56:59  #國際
-
-烏克蘭農業部長表示，因該國港口遇襲，烏克蘭已將2026/27作物年度穀物出口預測從此前的4300萬噸下調至3800萬至4000萬噸。
-
----
-
-### 2026-08-10 19:56:51  #公司
-
-Anthropic、麥格理資產管理與新加坡政府投資公司（GIC）宣佈建立戰略合作伙伴關係，將規模化開發專用資料中心基礎設施。
-
----
-
-### 2026-08-10 19:56:21  #公司
-
-【天奇股份：更新向特定物件發行股票申請檔案】天奇股份公告稱，公司於4月30日收到深交所關於向特定物件發行股票的稽核問詢函，已會同中介機構進行回覆並修訂申請檔案。近日，根據深交所進一步稽核意見，再次對募集說明書、問詢函回覆等申請檔案進行補充、更新和修訂。本次發行尚需深交所稽核並經證監會同意註冊，能否獲批及時間存在不確定性。
-
----
-
-### 2026-08-10 19:56:18  #公司
-
-【新經典：2026年上半年營收2.89億元 同比下降8.36%】新經典公告稱，2026年上半年，公司營業收入2.89億元，同比下降8.36%；利潤總額5619萬元，同比下降8.50%；歸屬於上市公司股東的淨利潤4416萬元，同比下降5.79%。截至報告期末，公司總資產19.16億元，較上年度末減少3.10%；歸屬於上市公司股東的淨資產18.11億元，較上年度末減少2.91%。
-
----
-
-### 2026-08-10 19:55:34  #其他
-
-【國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動】在華為中國行2026・黑龍江省“人工智慧+”賦能行業高質量發展峰會上，國家人工智慧應用中試基地 (農業領域農作物種植方向) 啟動儀式舉行，該基地將搭建起農業AI技術試驗、除錯、成果轉化的專業化平臺，助力寒地智慧農業發展。同時，人工智慧+農業產業聯盟正式成立，將整合上下游產業資源，補齊智慧農業發展短板。（科創板日報）
-
----
-
-### 2026-08-10 19:55:16  #其他
-
-伯恩斯坦將微軟目標價從647美元上調至660美元。
-
----
-
-### 2026-08-10 19:54:30  #市場
-
-MarineMax美股盤前漲超45%。
-
----
-
-### 2026-08-10 19:53:42  #公司
-
-【電投能源：擬投資4.22億元建設庫倫旗10萬千瓦風電專案】電投能源公告，公司2026年第六次臨時董事會審議透過議案，由全資子公司庫倫旗電投新能源有限公司投資建設庫倫旗農村能源革命試點縣（二期工程）第一批10萬千瓦風電專案。該專案於2026年1月23日取得建設指標，建設10萬千瓦集中式風電，配套建設5MW/10MWh構網型儲能。根據可研報告，專案靜態投資4.17億元，動態投資4.22億元，資本金比例20%，其餘為銀行貸款。專案投資回收期（含稅）為14.03年，資本金財務內部收益率超過7%。
-
----
-
-### 2026-08-10 19:53:25  #其他
-
-阿曼表示，“卡羅琳·貝曾吉”號油輪發生的原油洩漏已擴散至約390平方公里（合150平方英里）海域。
-
----
-
-### 2026-08-10 19:53:07  #市場 #國際
-
-【韓國投資者“掃貨”中際旭創H股】上市不足兩週，中際旭創H股已成為韓國投資者近一個月淨買入金額最多的港股。韓國證券存管院（KSD）旗下SEIBro資料顯示，7月8日至8月7日，韓國投資者對中際旭創H股的買入結算額為4506.70萬美元，賣出結算額為167.29萬美元，淨買入結算額達4339.42萬美元，摺合約3.4億港元，位居同期韓國投資者淨買入港股榜首。中際旭創H股7月30日掛牌交易，在短短7個交易日，其淨買入結算額幾乎是榜單第二名的4倍。(中國證券報)
-
----
-
-### 2026-08-10 19:52:37  #公司
-
-【潔美科技：擬發行股份收購埃福思科技100%股權，交易作價9.15億元】潔美科技公告，公司擬以發行股份方式購買周林、遠致星火、丁傑、陶尚、陳永富持有的埃福思科技100.00%股權，交易金額為9.15億元。同時，公司擬向不超過35名特定投資者發行股份募集配套資金不超過2.28億元。本次交易不構成關聯交易及重組上市。標的公司主營超高精度光學元件確定性拋光裝置的研發、生產、銷售。
-
----
-
-### 2026-08-10 19:52:06  #公司
-
-【崑崙萬維：籌劃發行H股並在港交所上市，董事會已審議透過相關議案】崑崙萬維公告，公司計劃發行境外上市外資股（H股）股票並申請在香港聯交所主機板掛牌上市。2026年8月10日，公司第六屆董事會第二次會議審議透過了關於發行H股並上市的相關議案。目前，公司正積極與中介機構商討具體工作，但具體細節尚未確定，本次發行並上市尚需提交股東會審議，並取得中國證監會和香港聯交所等批准，存在重大不確定性。
-
----
-
-### 2026-08-10 19:51:51  #焦點 #國際
-
-【8月10日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.【新思想引領新徵程】加快構建城鄉融合發展新格局； 2.【凝心聚力 真抓實幹 奮力實現“十五五”良好開局】共享智造助力河北啟用產業叢集新活力； 3.南水北調東中線一期工程調水突破900億立方米； 4.7月先行指標折射經濟穩中向優態勢明顯； 5.各地各部門多舉措應對臺風“白海豚”影響； 6.我國已建成國家慢性病綜合防控示範區578個； 7.服務消費拓展就業新空間； 8.我國國際航線網路持續最佳化 更好滿足入境遊需求； 9.【一線調研】公園拓展消費新場景； 10.國內聯播快訊： （1）我國已建成綠色燃料產能約800萬噸； （2）港珠澳大橋珠海公路口岸進出境車輛累計突破2500萬輛次； （3）中國第16次北冰洋考察隊開展冰站調查作業； （4）瀕危物種林麝現身重慶巫溪； 11.日本民眾舉行集會抗議高市政權擴軍修憲的危險動向； 12.以色列總理稱拒絕美支援的加沙和平計劃 美媒稱白宮“不在意”； 13.胡塞武裝稱襲擊葉門政府軍目標及沙特煉油廠； 14.國際聯播快訊： （1）美媒稱美總統傾向對伊朗施加經濟壓力； （2）俄稱控制更多區域 烏稱敖德薩遭襲斷電； （3）丹麥民眾舉行皮艇集會 支援格陵蘭島； （4）北美和歐洲多地林火持續蔓延。
-
----
-
-### 2026-08-10 19:51:44  #MKT News #INTC.O
-
-HASSETT said President Trump will decide how long to hold Intel (INTC.O) shares.
-
----
-
-### 2026-08-10 19:51:35  #公司
-
-備忘錄顯示，沙特阿美公司將日產能40萬桶的吉贊煉油廠的重啟時間推遲15天至8月30日。
-
----
-
-### 2026-08-10 19:51:26  #其他
-
-伯恩斯坦將康菲石油目標股價從121美元上調至129美元。
-
----
-
-### 2026-08-10 19:51:19  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-A memo showed ARAMCO pushed back the restart of the 400,000 bpd Jazan refinery by 15 days to Aug. 30.
-
----
-
-### 2026-08-10 19:51:13  #MKT News #EBAY.O #Impact bearish #GME.N #Impact bullish
-
-Pre-market: eBay (EBAY.O) shares down 2.5%; GameStop (GME.N) up 3.7%.
 
 ---

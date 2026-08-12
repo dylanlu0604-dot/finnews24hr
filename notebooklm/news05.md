@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-13 03:16:47_
-_本檔包含 3114 則快訊，約 590963 字_
+_更新時間：2026-08-13 04:19:40_
+_本檔包含 3097 則快訊，約 589894 字_
+
+---
+
+### 2026-08-07 10:38:48  #經濟數據 #中國
+
+據海關總署，中國7月汽車（包括底盤）出口109.2萬輛，6月106.9萬輛。
+
+---
+
+### 2026-08-07 10:38:36  #MKT News #Market Regions #Greater China #Copper #Impact bullish #CNH #Impact mixed #CSI300
+
+【China Customs: zero-tariff policy now covers 63 countries】China Customs said imports of bulk commodities rose 3% YoY in the first seven months of the year; metal ore imports rose 8.2% YoY. Imports of mechanical and electrical products totaled 5.31 trillion yuan, up 29.7% YoY and accounting for 41.9% of total import value. China has implemented a zero-tariff policy covering 63 countries to date; its import volume has ranked second globally for 17 consecutive years.
+
+---
+
+### 2026-08-07 10:38:13  #MKT News #Market Regions #Greater China
+
+CUSTOMS: China's rare-earth imports 9,451.3 tonnes in July, 6,261.5 tonnes in June.
+
+---
+
+### 2026-08-07 10:38:10  #MKT News #CNH #Impact bullish #CSI300
+
+CUSTOMS: China exported 1.092 mln vehicles (including chassis) in July, up from 1.069 mln in June.
+
+---
+
+### 2026-08-07 10:38:06  #經濟數據 #中國
+
+據海關總署，中國7月手機出口4926.8萬臺，6月5326.1萬臺。
+
+---
+
+### 2026-08-07 10:37:59  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesian Stocks on Course for Fifth Weekly Rise — Indonesian shares rose 33 points, or 0.5%, to 6,377 in Friday morning trade, rebounding from a modest dip in the prior session amid sectoral gains led by energy, property, and infrastructure. The advance was tempered, however, by softer U.S. stock futures ahead of the July jobs report, while geopolitical risks lingered after Iran reportedly sought to restrict U.S. and Israeli vessels from transiting Hormuz and impose compensation demands on nations it deems hostile. Caution also grew ahead of July trade data in top trading partner China later today, with expectations of weaker exports and imports due to weather disruptions. Early standouts included Indosat (6.8%), Mitra Keluarga (4.7%), and Bumi Resources (2.8%). For the week, markets remain on track for a fifth straight gain, lifted by buying interest linked to governance reforms under President Prabowo’s flagship program. Meanwhile, July headline inflation hit a three-month low, reinforcing views that cost pressures are contained.
+
+---
+
+### 2026-08-07 10:37:57  #MKT News #Market Regions #Greater China
+
+Customs: China's Jan–Jul automobile exports, including chassis, totaled 6.399 million units.
+
+---
+
+### 2026-08-07 10:37:55  #MKT News
+
+CUSTOMS: China imported 63,323 tonnes of rare earths in January–July.
+
+---
+
+### 2026-08-07 10:37:48  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Holds Firm at Multi-Year High — The offshore yuan held firm around 6.74 per dollar on Friday, remaining at its strongest level since early February 2023, as Beijing's efforts to accelerate the yuan's internationalization continued to bolster the currency. A growing number of Chinese commercial banks have added roughly a dozen currencies to their direct yuan settlement and clearing networks, including the Thai baht, Brazilian real, and Kazakhstani tenge. The latest move is expected to help Chinese firms further reduce their dependence on the US dollar as the country's trade ties and overseas investments continue to expand, while also supporting President Xi Jinping's ambition to build a "powerful currency." Meanwhile, investors awaited upcoming trade data after China unveiled fresh retaliatory measures against the US, including tighter drone export controls, sanctions on seven American firms, and its first national security probe linked to foreign trade.
+
+---
+
+### 2026-08-07 10:37:46  #MKT News #Commodities #Energy
+
+Customs: China imported 10.54 mln tonnes of natural gas in July, versus 10.931 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:37:45  #MKT News #Market Regions #Greater China #CNH #Impact bearish #CSI300 #Hang Seng Index
+
+China Customs reported July mobile-phone exports of 49.268 mln units, down from 53.261 mln in June.
+
+---
+
+### 2026-08-07 10:37:34  #市場 #焦點
+
+科創50日內漲幅達2.07%，成分股中，生益電子漲8.32%，源傑科技漲5.93%，華虹宏力漲4.99%，華海清科漲4.97%。
+
+---
+
+### 2026-08-07 10:37:29  #MKT News #Commodities #Energy
+
+CUSTOMS reports China imported 67.923 mln t of natural gas in Jan–Jul.
+
+---
+
+### 2026-08-07 10:37:28  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish
+
+China Customs said July exports of unwrought aluminium and aluminium products were 643,000 tonnes, down from 711,000 tonnes in June.
+
+---
+
+### 2026-08-07 10:37:13  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+CUSTOMS: China imported 2.477 mln tonnes of refined oil in July, compared with 1.737 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:37:10  #MKT News #Market Regions #Greater China
+
+CUSTOMS: China July steel exports 10.121 mln tonnes, down from June's 10.32 mln tonnes.
+
+---
+
+### 2026-08-07 10:37:07  #MKT News #Commodities #Energy
+
+CUSTOMS: China imported 19.908 mln tonnes of refined petroleum products in Jan-Jul.
+
+---
+
+### 2026-08-07 10:36:59  #MKT News #Commodities #Industrial Metals #Market Regions #Greater China
+
+China exported 64.995 mln tonnes of steel in Jan–Jul, Customs data showed.
+
+---
+
+### 2026-08-07 10:36:49  #經濟數據 #中國
+
+中國7月以美元計價進口同比增長27.5%，出口同比增長23.9%。
+
+---
+
+### 2026-08-07 10:36:46  #MKT News #Important #CNH #Impact bearish #Copper #Hang Seng Index
+
+China's July trade balance was 767.07 billion yuan, down from 859.05 billion yuan previously.
+
+---
+
+### 2026-08-07 10:36:42  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+China's crude oil imports were 35.726 mln tonnes in July, up from 29.272 mln tonnes in June, Customs said.
+
+---
+
+### 2026-08-07 10:36:39  #MKT News
+
+【SK Hynix cash hoard quietly becomes major buyer in Korea bond market】SK Hynix has expanded purchases of South Korea's domestic corporate bonds; credit analysts and market participants estimate this year’s purchases at about 10–40 tln won (~$7–28 bln), with the upper range including commercial paper. A recent job posting for a role to manage, strategize and hedge company funds — including fixed-income investments across government bonds, corporate bonds and short-term debt — signals stepped-up market activity. Cash and cash equivalents stood at 88 tln won at end-Q2, up roughly 62% QoQ; despite higher capex, investable cash continues to accumulate, providing an incremental source of demand in a market usually dominated by institutional investors.
+
+---
+
+### 2026-08-07 10:36:36  #MKT News #Economic Calendar #Important
+
+China | Trade Balance in CNY (Jul) | actual 767070000000B | previous 859050000000B
+
+---
+
+### 2026-08-07 10:36:34  #MKT News #Market Regions #Greater China #Copper #Impact bearish #CNH
+
+China July exports YoY 17.8%, down from 20.8% previously.
+
+---
+
+### 2026-08-07 10:36:34  #MKT News #Important #Commodities #Industrial Metals
+
+CUSTOMS: China exported 4,223.5 tonnes of rare earths in July, down from 5,104.8 tonnes in June.
+
+---
+
+### 2026-08-07 10:36:27  #MKT News #Economic Calendar #Important
+
+China | Exports in CNY (YoY) (Jul) | actual 17.8% | previous 20.80%
+
+---
+
+### 2026-08-07 10:36:18  #MKT News #CNH #Impact bearish #Copper #WTI
+
+China July imports YoY 21.2%, down from 29.4% previously.
+
+---
+
+### 2026-08-07 10:36:17  #MKT News #Commodities #Energy #WTI #Brent
+
+CUSTOMS: China imported 283.33 mln tonnes of crude oil in Jan–Jul.
+
+---
+
+### 2026-08-07 10:36:12  #MKT News #Economic Calendar #Important
+
+China | Imports in CNY (YoY) (Jul) | actual 21.2% | previous 29.40%
+
+---
+
+### 2026-08-07 10:36:06  #MKT News #Commodities #Energy
+
+CUSTOMS: China imported 42.728 mln tonnes of coal and lignite in July, down from 42.779 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:36:02  #市場
+
+富時中國A50指數期貨上漲1%。
+
+---
+
+### 2026-08-07 10:35:54  #MKT News #Commodities #Energy
+
+Customs: China imported 268.109 million tonnes of coal and lignite in Jan–Jul.
+
+---
+
+### 2026-08-07 10:35:45  #Trading Economics #Markets #Commodity #Importance 1
+
+US Natural Gas Drops to Over 3-Month Low — US natural gas prices dropped to $2.62 per MMBtu, the lowest level since April, pressured by a larger-than-expected build-up in storage. The EIA report showed energy firms injected 33 bcf of gas into storage in the week ended July 31, exceeding forecasts of a 31 bcf increase, last year’s 13 bcf build, and the five-year average rise of 23 bcf. On top of that, production remained near record highs despite a slight easing, with Lower 48 dry gas output averaging 110.6 bcfd so far in August, compared with a record 110.7 bcfd in July. LNG feedgas demand also continued to weaken, with average flows to the nine major LNG export plants falling to 16.9 bcfd so far this month from 17.2 bcfd in July, due partly to reduced operations at Freeport LNG in Texas and the single operating liquefaction train at Golden Pass. These factors more than offset support from expectations of higher weather-driven demand, with forecasts pointing to mostly above-normal temperatures through August 21.
+
+---
+
+### 2026-08-07 10:35:42  #MKT News #Commodities #Industrial Metals
+
+CUSTOMS: China exported 34,706.3 tonnes of rare earths in Jan-Jul.
+
+---
+
+### 2026-08-07 10:35:41  #MKT News #Commodities #Industrial Metals #Copper #Impact bearish #CNH
+
+Customs: China imported 108.085 mln tonnes of iron ore and concentrates in July, down from 112.689 mln tonnes in June.
+
+---
+
+### 2026-08-07 10:35:37  #經濟數據 #中國
+
+【今年前7個月我國民營企業進出口17.16萬億元 增長17.2%】海關統計資料顯示，今年前7個月我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。
+
+---
+
+### 2026-08-07 10:35:32  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300 #WTI
+
+China July imports in USD terms rose 27.5% YoY, vs 27.7% est; June +36.0%.
+
+---
+
+### 2026-08-07 10:35:31  #資料
+
+中國7月以美元計算進口年率 27.5%，預期27.70%，前值36.00%。
+
+---
+
+### 2026-08-07 10:35:23  #資料
+
+中國7月以美元計算出口年率 23.9%，預期22.1%，前值27.00%。
+
+---
+
+### 2026-08-07 10:35:00  #其他
+
+中國7月以美元計算貿易帳 1125億美元，預期1070億美元，前值1256.2億美元。
+
+---
+
+### 2026-08-07 10:34:59  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Treasury Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.68% on Friday after rising more than 5 basis points in the previous session, as investors awaited the closely watched July jobs report for fresh clues on labor market strength and the outlook for Federal Reserve monetary policy. Fed officials have increasingly signaled they are prepared to raise interest rates soon amid mounting inflationary pressures, with markets pricing in a 25-basis-point hike in September. The Financial Times reported that Chair Kevin Warsh would be willing to raise rates next month if inflation readings in the coming weeks remain elevated. The Fed chief is also expected to maintain his stripped-back communication style despite criticism from financial markets. Additionally, Treasury yields were supported by a rebound in oil prices as renewed tensions in the Strait of Hormuz reignited concerns about inflation and the interest rate outlook.
+
+---
+
+### 2026-08-07 10:34:56  #Trading Economics #Economy #Philippines #GDP Growth Rate #Importance 0
+
+Philippine Economy Grows 0.6% QoQ — The Philippine economy expanded 0.6% quarter-on-quarter in Q2 2026, below market expectations and Q1’s 0.9% growth. Among the major sectors, agriculture, forestry, and fishing posted the fastest growth at 2.7%, followed by services at 1.3%. Meanwhile, industry contracted 1.8%, primarily driven by declines in construction and mining and quarrying. Education; wholesale and retail trade; repair of motor vehicles and motorcycles; and public administration and defense were the top contributors to overall GDP growth. On the expenditure side, household consumption grew 0.8%.
+
+---
+
+### 2026-08-07 10:34:28  #經濟數據 #中國
+
+【海關總署：截至目前已對63個國家實施了零關稅政策】海關總署今天公佈統計資料顯示，今年前7個月，我國大宗商品進口量同比增長了3%，其中：金屬礦砂進口量增加8.2%。同期，進口機電產品5.31萬億元，增長29.7%，佔我國進口總值的41.9%。我國積極擴大自主開放，主動擴大進口，推動進出口平衡發展。截至目前，已對63個國家實施了零關稅政策，進口規模連續17年穩居全球第二。今年前7個月，我國進口增速快於出口8個百分點，全球更多優質產品進入中國市場，共享中國機遇。
+
+---
+
+### 2026-08-07 10:33:53  #經濟數據 #中國
+
+【今年前7個月我國出口機電產品11.12萬億元 增長21.2%】海關總署今天公佈統計資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。我國已成為全球創新力上升最快的國家之一。
+
+---
+
+### 2026-08-07 10:33:46  #其他
+
+今年前7個月，我國以水路、航空、公路、鐵路運輸方式進出口分別增長6.9%、34.6%、40.7%、17.2%。隨著我國多元化國際運輸通道體系不斷健全，跨境貨物運輸更加便捷高效，外貿企業的選擇更趨多元靈活。前7個月，我國空運和陸運進出口貨值佔四成，增長超三成。（海關總署）
+
+---
+
+### 2026-08-07 10:33:35  #其他
+
+今年前7個月，我國民營企業進出口17.16萬億元，增長了17.2%，佔我國進出口總值的56.9%，繼續保持第一大外貿主體地位。同期，外商投資企業進出口8.78萬億元，增長了17.6%；國有企業進出口4.14萬億元，增長了17.3%。（海關總署）
+
+---
+
+### 2026-08-07 10:32:52  #其他
+
+【今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長17.3% 】今年前7個月，我國貨物貿易進出口總值30.13萬億元，同比增長了17.3%，延續良好的增長態勢。其中，出口17.44萬億元，增長14%；進口12.69萬億元，增長22%。7月當月，進出口4.66萬億元，同比增長19.2%。其中，出口2.71萬億元，增長17.8%，進口1.95萬億元，增長21.2%。今年以來，我國經濟頂壓前行、向新向優，對外貿進出口增長形成有力支撐。7月份，我國外貿延續上半年良好增長態勢，增速較上半年加快了2.3個百分點，進出口規模連續5個月超過4萬億元。出口產品結構向新向綠今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。我國已成為全球創新力上升最快的國家之一。科技創新和產業創新深度融合，不斷轉化為外貿競爭新優勢和增長新動能。7月份，我國高技術產品出口增長超五成，貢獻了近六成的出口增量，電動汽車、鋰電池等綠色低碳產品出口連續17個月兩位數增長。進口增速繼續快於出口今年前7個月，我國大宗商品進口量同比增長了3%，其中：金屬礦砂進口量增加8.2%。同期，進口機電產品5.31萬億元，增長29.7%，佔我國進口總值的41.9%。我國積極擴大自主開放，主動擴大進口，推動進出口平衡發展。截至目前，已對63個國家實施了零關稅政策，進口規模連續17年穩居全球第二。今年前7個月，我國進口增速快於出口8個百分點，全球更多優質產品進入中國市場，共享中國機遇。（央視）
+
+---
+
+### 2026-08-07 10:32:30  #市場 #焦點
+
+PTA連續主力合約日內漲3%，現報5832.00元。
+
+---
+
+### 2026-08-07 10:32:29  #市場 #焦點
+
+聚丙烯連續主力合約日內漲2%，現報8149.00元。
+
+---
+
+### 2026-08-07 10:32:18  #其他
+
+【前7個月我國出口機電產品11.12萬億元，增長21.2%】海關總署資料顯示，今年前7個月，我國出口機電產品11.12萬億元，增長21.2%，佔我國整體出口的63.8%，比去年同期提升了3.8個百分點。其中：電動汽車、鋰電池、風力發電機組等綠色低碳產品分別增長71.2%，35.8%，34.8%。3D印表機、工業機器人、船舶分別出口112億元、73.4億元、2681.4億元，分別增長1.1倍、13.2%、32.7%。（央視新聞）
+
+---
+
+### 2026-08-07 10:31:55  #市場
+
+富時中國A50指數期貨漲幅擴大至1%。
+
+---
+
+### 2026-08-07 10:31:43  #市場
+
+滬深300指數上漲1%至4,697.91點。
+
+---
+
+### 2026-08-07 10:31:31  #其他
+
+【周新群已任中央政策研究室副主任】據“閩東日報”訊息，8月5日，中央黨的建設工作領導小組秘書組2026年聯絡點工作暨課題研究成果交流座談會在寧德召開。中央黨的建設工作領導小組秘書組組長、中央政策研究室主任唐方裕就樹立和踐行正確政績觀談了認識體會，同大家交流。福建省委副書記、福州市委書記郭寧寧致辭，交流了黨建工作經驗。中央政策研究室副主任周新群主持。福建省委常委、組織部部長苗延紅，天津市委常委、濱海新區區委書記連茂君和寧德市委領匯出席。上述訊息顯示，周新群已任中央政策研究室副主任。公開報道顯示，周新群曾任中央黨的建設工作領導小組秘書組副局長，中央政策研究室黨建研究局局長等職。（白鷺洲知政）
 
 ---
 
@@ -18384,426 +18702,5 @@ MetLife earnings above expectations at 2.43 USD — MetLife (MET) released earni
 ### 2026-08-06 04:21:14  #市場 #焦點
 
 比特幣升破65000美元，日內漲1.41%。
-
----
-
-### 2026-08-06 04:16:14  #MKT News
-
-【Fed governor Cook prepared to support rate hike if inf does not ease】Fed governor Cook said she is prepared to support further rate hikes if inf does not ease, warning policymakers may not have room to wait for inf to return to the Fed's 2% target. She supported the Fed's decision to keep rates unchanged at the July meeting but said the longer inf remains above target the harder it will be to rein in, and she would act if she does not soon see sustained declines. Cook warned five consecutive years of above-target inf raises the risk it becomes entrenched in price- and wage-setting. She added that fading tariff effects, potential oil-price declines and easing AI-related cost pressures could provide a buffer that might reduce the need for additional tightening, but her top priority remains returning inf to the Fed's target.
-
----
-
-### 2026-08-06 04:14:15  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-McKesson earnings above expectations at 9.93 USD — McKesson (MCK) released earnings per share at 9.93 USD, compared to market expectations of 9.65 USD.
-
----
-
-### 2026-08-06 04:12:39  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-Wall Street Closes Near Record Highs — US stocks closed near record levels on Wednesday as an improving macroeconomic backdrop and strong corporate earnings supported sentiment. The S&P 500 inched down 0.2%, closing near yesterday's record. while the Dow added 263 points to reach a record 54,349. Crude oil prices extended their decline after Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, while US officials signaled progress in talks aimed at restoring trade flows through the region, easing concerns over energy-driven inflation. Credit sensitive sectors, including major banks, outperformed. Arista Networks rose 3.6% after reporting stronger-than-expected revenue. Eli Lilly gained 4.9% after beating revenue estimates and raising its full-year guidance. In contrast, the Nasdaq slipped 0.8%. SpaceX slumped 13.6%, giving back the previous session's gains, while AMD dropped 7% despite doubling data center revenue.
-
----
-
-### 2026-08-06 04:11:50  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-eBay earnings above expectations at 1.60 USD — eBay (EBAY) released earnings per share at 1.60 USD, compared to market expectations of 1.51 USD.
-
----
-
-### 2026-08-06 04:11:50  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-AppLovin earnings above expectations at 3.76 USD — AppLovin (APP) released earnings per share at 3.76 USD, compared to market expectations of 3.75 USD.
-
----
-
-### 2026-08-06 04:11:50  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Sandisk earnings above expectations at 39.25 USD — Sandisk (SNDK) released earnings per share at 39.25 USD, compared to market expectations of 1.61 USD.
-
----
-
-### 2026-08-06 04:11:15  #MKT News #Market Regions #Wall Street (US) #SNDK.O #Impact bearish
-
-SanDisk (SNDK.O) shares fell more than 3% in US after-hours trading.
-
----
-
-### 2026-08-06 04:10:55  #MKT News #SNDK.O #Impact bullish
-
-SanDisk (SNDK.O) fiscal 2026 Q4 revenue $8.96bn, versus $8.394bn expected; year-ago $1.901bn.
-
----
-
-### 2026-08-06 04:10:16  #公司 #其他 #焦點 #國際
-
-閃迪2026財年Q4營收89.6億美元，市場預期83.94億美元，上年同期為19.01億美元。
-預計2027財年第一季度營收為103億至108億美元，市場預期為108億美元。
-
----
-
-### 2026-08-06 04:10:16  #MKT News #Important #SNDK.O #Impact mixed
-
-SanDisk (SNDK.O) guides fiscal 2027 Q1 revenue $10.3–10.8bln versus consensus $10.8bln.
-
----
-
-### 2026-08-06 04:08:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Fed governor Cook said consumer confidence weakness reflects multiple factors, including elevated inflation.
-
----
-
-### 2026-08-06 04:08:24  #其他
-
-Doordash二季度調整後EBITDA為9.14億美元，分析師預期8.434億美元。預計三季度GOV為330億-340億美元，分析師預期334.7億美元。
-
----
-
-### 2026-08-06 04:08:19  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-Fed Governor Cook said the Fed may ultimately not need to raise interest rates.
-
----
-
-### 2026-08-06 04:08:18  #央行 #國際
-
-美聯儲理事庫克： 通脹風險大於就業市場風險。堅定致力於恢復物價穩定。
-
----
-
-### 2026-08-06 04:08:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #US10Y
-
-Fed Governor Cook said policy has not so far resulted in significant job losses.
-
----
-
-### 2026-08-06 04:08:06  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #Impact bullish #XAUUSD
-
-Fed Governor Cook said there is reason to believe inf may ease.
-
----
-
-### 2026-08-06 04:08:02  #MKT News #Macro & Rates #US Economy
-
-Fed Governor Cook said the economy remains resilient and the expansion is proceeding at a steady pace.
-
----
-
-### 2026-08-06 04:08:01  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Fed Governor Cook said the risk of persistently high inflation is rising and could become entrenched in the economy.
-
----
-
-### 2026-08-06 04:07:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed governor Cook said inflation threat outweighs labor-market concerns.
-
----
-
-### 2026-08-06 04:07:36  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed Governor COOK said she is firmly committed to restoring price stability.
-
----
-
-### 2026-08-06 04:07:26  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-COOK said if the disinflation trend does not resume, the Fed is prepared to raise interest rates.
-
----
-
-### 2026-08-06 04:07:18  #央行 #國際
-
-美聯儲理事庫克： 有理由相信通脹水平能夠回落。 經濟具備韌性，增速處於 “穩健水平”。
-
----
-
-### 2026-08-06 04:06:58  #央行 #國際
-
-美聯儲理事庫克： 到目前為止，人工智慧尚未造成顯著的崗位流失。
-
----
-
-### 2026-08-06 04:06:43  #央行 #國際
-
-美聯儲理事庫克： 若為壓低通脹確有必要，我將支援加息。
-
----
-
-### 2026-08-06 04:06:32  #央行 #國際
-
-美聯儲理事庫克： 部分通脹回落力量已然顯現。
-
----
-
-### 2026-08-06 04:06:15  #MKT News #WDC.O #Impact bullish
-
-Western Digital Corp (WDC.O) expects fiscal 2027 Q1 revenue to rise 42%–49% YoY.
-
----
-
-### 2026-08-06 04:06:07  #央行 #國際
-
-美聯儲理事庫克：來自關稅、石油、AI的通脹壓力可能已經放鬆。長期通脹壓力高於2%。
-
----
-
-### 2026-08-06 04:05:59  #其他
-
-eBay 預計第三季度淨營收 30.7‑31.2 億美元，市場預期 29.7 億美元。
-
----
-
-### 2026-08-06 04:05:46  #Trading Economics #Markets #Uruguay #Earnings #Importance 0
-
-MercadoLibre earnings above expectations at 9.19 USD — MercadoLibre (MELI) released earnings per share at 9.19 USD, compared to market expectations of 8.75 USD.
-
----
-
-### 2026-08-06 04:05:45  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Western Digital earnings above expectations at 3.56 USD — Western Digital (WDC) released earnings per share at 3.56 USD, compared to market expectations of 3.28 USD.
-
----
-
-### 2026-08-06 04:05:33  #MKT News #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
-
-U.S. stocks closed mixed on Wednesday, Aug. 5: Dow Jones Industrial Average +263.06 pts (+0.49%) to 54,348.94; S&P 500 -13.00 pts (-0.17%) to 7,723.52; Nasdaq Composite -221.55 pts (-0.83%) to 26,363.44.
-
----
-
-### 2026-08-06 04:05:18  #MKT News #WDC.O #Impact bullish
-
-Western Digital Corp (Nasdaq: WDC) fiscal 2026 fourth-quarter net income was $3.195 billion, compared with $282 million a year earlier.
-
----
-
-### 2026-08-06 04:04:41  #公司
-
-Cirrus Logics Inc.第一財季淨銷售4.597億美元，分析師預期4.602億美元。公司預計第二財季淨收入5.10億-5.7億美元，分析師預期5.566億美元。
-
----
-
-### 2026-08-06 04:04:31  #其他
-
-SoundHound二季度營收6190萬美元，分析師預期5220萬美元。
-
----
-
-### 2026-08-06 04:04:16  #其他
-
-Block預計三季度調整後運營利潤8.75億美元，分析師預期8.65億美元。
-
----
-
-### 2026-08-06 04:03:32  #其他
-
-西部資料2026財年Q4營收37.5億美元，市場預期為36.92億美元，上年同期為26.05億美元。
-
----
-
-### 2026-08-06 04:03:30  #MKT News #WDC.O #Impact bullish
-
-Western Digital Corp (WDC.O) fiscal 2026 Q4 revenue $3.75 bln, consensus $3.692 bln, year-ago $2.605 bln.
-
----
-
-### 2026-08-06 04:02:00  #其他
-
-紐約時報（NYT）收跌13%，創2012年10月份以來最大單日跌幅。
-
----
-
-### 2026-08-06 04:01:14  #MKT News #Important #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #AMD.O #Impact bearish #S&P500
-
-【U.S. close: major indexes mixed; SpaceX down 13.6%】U.S. stocks closed mixed on Wednesday. The Dow Jones Industrial Average rose 0.49%, the S&P 500 fell 0.17% and the Nasdaq Composite fell 0.80%. SpaceX dropped 13.6%. NVIDIA gained 3.4%, SK Hynix fell 2.0%, AMD slid 7.0% and SanDisk declined 5.0%. The Nasdaq Golden Dragon China Index fell 1.08%; XPeng and NIO were down about 2%.
-
----
-
-### 2026-08-06 04:01:10  #其他
-
-SpaceX收跌14%，市值蒸發2250億美元。
-
----
-
-### 2026-08-06 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體漲跌不一】道指漲0.49%，標普500指數跌0.17%，納指跌0.84%。Insulet Corporation跌20.20%，達維塔保健跌17.25%，湯姆遜-路透跌9.45%，CDW Corporation跌8.85%，Shopify漲16.98%，查爾斯河實驗室漲11.32%，國際香料香精漲8.81%。“七姐妹”方面：英偉達漲3.57%，蘋果漲0.57%，Meta Platforms漲0.23%，微軟跌1.07%，亞馬遜跌1.74%，特斯拉跌1.82%，谷歌跌4.03%。
-
----
-
-### 2026-08-06 04:00:28  #國際
-
-【伊朗稱與阿曼接近達成協議 海峽現有兩條航道將關閉 】伊朗副外長加里巴巴迪5日表示，伊朗和阿曼關於商業船舶通行霍爾木茲海峽的協議已接近最終敲定，屆時伊朗一側管控的北部航道和靠近阿曼一側的南部航道均將關閉。據伊朗伊斯蘭共和國通訊社5日報道，加里巴巴迪在接受採訪時說，將在霍爾木茲海峽建立一種不同於過去60年的新通行模式。目前經阿曼領海的南部航道和位於伊朗領海內的北部航道均將關閉。根據新設定的航道，商業船舶進入霍爾木茲海峽以及駛離海峽的部分航程經過伊朗領海。但新航道同樣為臨時航道，預計可使用2至4個月。加里巴巴迪否認有關伊美正在談判的說法，但表示伊朗收到美方資訊，並稱美方表示準備恢復履行此前簽署的諒解備忘錄中的承諾。（新華社）
-
----
-
-### 2026-08-06 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌1.08%】水滴公司跌7.41%，金生遊樂跌6.47%，阿特斯跌5.89%，虎牙跌4.51%，金山雲跌4.28%。
-
----
-
-### 2026-08-06 03:55:22  #公司 #國際
-
-【武田製藥Orzeyful獲FDA批准，用於治療1型發作性睡病】武田製藥旗下武田製藥美國公司（Takeda Pharmaceuticals America）的Orzeyful片劑已獲得美國食品藥品管理局（FDA）批准，成為首款透過靶向食慾素訊號缺失來治療成人1型發作性睡病全譜症狀的藥物。Orzeyful的療效已在兩項為期12周、安慰劑對照的研究中得到證實，共納入273名成人患者。服用Orzeyful 2mg的患者與安慰劑組相比，日間清醒度有所改善，猝倒發作次數減少。Orzeyful已被建議納入《管制物質法》進行排期管理，目前正等待美國緝毒局（DEA）的最終決定。
-
----
-
-### 2026-08-06 03:55:05  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Governor Lisa Cook will speak in 10 minutes on the economic outlook.
-
----
-
-### 2026-08-06 03:54:28  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Home Depot Stock Price Hits 4-week High — Home Depot shares increased to 354.01 USD, the highest since July 2026. Over the past 4 weeks, Home Depot gained 0.94%, and in the last 12 months, it decreased 8.5%.
-
----
-
-### 2026-08-06 03:53:52  #MKT News
-
-Fars news agency, citing Iranian negotiation team sources, says the U.S. Treasury's recent removal of some Iran sanctions was driven by interactions between the Iraqi government and Washington, and not linked to any Iran‑U.S. memorandum of understanding. The Treasury earlier lifted sanctions on Baghdad Airways, which had been targeted over alleged ties to the IRGC Quds Force.
-
----
-
-### 2026-08-06 03:53:41  #市場
-
-【美元指數5日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.18%，在匯市尾市收於99.676。截至紐約匯市尾市，1歐元兌換1.1553美元，高於前一交易日的1.1533美元；1英鎊兌換1.3469美元，高於前一交易日的1.3452美元。1美元兌換157.67日元，高於前一交易日的157.66日元；1美元兌換0.8069瑞士法郎，低於前一交易日的0.8092瑞士法郎；1美元兌換1.4008加元，低於前一交易日的1.4066加元；1美元兌換9.4832瑞典克朗，低於前一交易日的9.5192瑞典克朗。
-
----
-
-### 2026-08-06 03:52:16  #國際
-
-美國國家運輸安全委員會宣告：正在調查海軍一號與民航客機發生空中間隔不足事件。
-
----
-
-### 2026-08-06 03:52:12  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent #XAUUSD
-
-【Iran warned Gulf states retaliation would hit energy infrastructure; Gulf urged Trump to drop strike plan】Refinitiv, citing five sources, said that after President Trump’s July 28 threat to strike Iran’s energy network and infrastructure, Iran conducted high-level diplomatic outreach warning Gulf states any new U.S. military action would prompt Iranian retaliation against regional energy facilities and U.S. assets. Iranian deputy foreign minister Araghchi spoke with the foreign ministers of Saudi Arabia, Turkey and Qatar and with Pakistan’s army chief, urging Gulf partners to use their influence to dissuade Washington. Saudi Crown Prince Mohammed bin Salman urged Trump to delay military action. Qatar, Oman and Saudi pressed the U.S. to resume talks with Tehran to avoid renewed conflict. On Aug. 2, Trump said he agreed to call off the attack plan “provided a deal could be reached quickly.”
-
----
-
-### 2026-08-06 03:50:43  #其他
-
-扎克伯格稱META今天釋出MUSE CODE測試版。
-
----
-
-### 2026-08-06 03:47:23  #國際
-
-伊朗塔斯尼姆通訊社援引敘利亞當地訊息源：以色列間諜直升機及飛機飛越德拉省與庫奈特拉省上空。
-
----
-
-### 2026-08-06 03:42:31  #國際
-
-伊朗國家廣播電視臺（IRIB）： 埃及、土耳其、巴基斯坦、沙烏地阿拉伯四國外長於約旦首都安曼會晤，商討緩和地區緊張局勢的途徑，重點圍繞霍爾木茲海峽的安全問題展開。
-
----
-
-### 2026-08-06 03:41:43  #國際
-
-媒體週三援引五位知情訊息人士報道，伊朗向波斯灣國家發出警告：倘若美國再度襲擊伊朗領土，伊朗將打擊關鍵能源基礎設施以及其他地區目標。援引一名地區高階外交官的訊息稱，伊朗外長阿拉格齊在與沙特、土耳其、卡達官員以及巴基斯坦陸軍參謀長溝通時轉達了上述警告，同時敦促美國的地區盟友遊說特朗普總統迴歸外交談判軌道。援引該外交官及波斯灣地區訊息人士的說法，沙特王儲穆罕默德・本・薩勒曼隨後敦促特朗普推遲軍事行動、推進談判並尋求停火。
-
----
-
-### 2026-08-06 03:40:18  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Refinitiv, citing five sources, reports Iran has warned Gulf states that any new US strikes on Iranian territory would prompt Iranian retaliation against the region's critical energy infrastructure.
-
----
-
-### 2026-08-06 03:32:00  #MKT News #Star Stocks #Meta Platforms #Market Themes #AI Revolution #Magnificent 7 #META.O #Impact bullish
-
-【Meta launches Muse Code programming agent, integrates with Muse Spark 1.2】Meta Platforms launched Muse Code, its first programming agent, positioning the company to compete with Anthropic and OpenAI. The beta/preview tool lets developers build and manage AI-driven agents in a single interface and is compatible with Meta’s Muse Spark 1.2 model. Development is led by Alexandr Wang at the Meta Super Intelligence Lab, which oversees base-model work. Muse Code is available to developers on a pay-as-you-go API; pricing mirrors Muse Spark 1.1 at $1.25 per 1M input tokens and $4.25 per 1M output tokens.
-
----
-
-### 2026-08-06 03:30:46  #國際
-
-美國高階官員警告：人工智慧風險需要更強有力的網路防禦。
-
----
-
-### 2026-08-06 03:30:25  #MKT News
-
-SEC is creating a specialized unit within its Enforcement Division to provide expertise, focus and capacity to investigate accounting and financial-reporting fraud and other misconduct in accounting and auditing.
-
----
-
-### 2026-08-06 03:28:15  #國際
-
-美國銀行：在美國+日本實施干預之後，下調美元兌日元年底預期至149（之前預計為152）。
-
----
-
-### 2026-08-06 03:28:02  #其他
-
-厄瓜多稱已恢復與哥倫比亞的電力互通。
-
----
-
-### 2026-08-06 03:27:42  #國際
-
-美國白宮：布蘭奇將率美國代表團出席哥倫比亞總統就職儀式。
-
----
-
-### 2026-08-06 03:23:42  #公司
-
-谷歌首席科學家Jeff Dean：明天將是我在谷歌工作的最後一天。
-
----
-
-### 2026-08-06 03:23:38  #市場
-
-SpaceX股價下跌12%，接近盤中低點。
-
----
-
-### 2026-08-06 03:23:27  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google chief scientist Jeff Dean said tomorrow will be his last day at the company.
-
----
-
-### 2026-08-06 03:23:00  #市場
-
-【飆升的科技股還能買嗎？資深策略師Yardeni認為該板塊現在是打折價】科技股7月下旬以來氣勢如虹，接下來還能漲多少？Ed Yardeni給出的答案是：這波行情離到頭還早著呢。投資者對人工智慧交易信心重燃，霍爾木茲海峽也浮現出重新開放的希望，這些因素推動納斯達克100指數四天內大漲9.3%，走出了2025年4月以來的最佳一波行情。即便如此，它基於未來12個月預期利潤的市盈率也只有22.3倍，是2017年以來對大盤估值溢價最低的水平之一。“對於一個高增長行業來說，那是比較低的估值倍數，” 身為Yardeni Research Inc.總裁兼首席投資策略師的Yardeni在電話中表示，拋售該板塊的投資者“已經發現他們實際上把這些這些股票變成了促銷品”。Yardeni表示，將納斯達克100指數推進技術性回撥的拋售也消除了其過高的估值，從而為反彈創造了條件。加之強勁的季報和持續旺盛的人工智慧需求，進一步上漲也有了穩固的基礎。
-
----
-
-### 2026-08-06 03:21:53  #其他
-
-FIRST SOLAR跌幅快速擴大至5%。
-
----
-
-### 2026-08-06 03:20:04  #公司 #國際
-
-【外媒：伊朗尋求對海峽過境船隻收取貨物價值5%至7%的費用】據路透社週三援引一名伊朗高階訊息人士和兩名地區官員稱，伊朗-阿曼擬議協議將賦予伊朗對透過霍爾木茲海峽進入海灣船隻的控制權，這是迄今伊朗獲得的最大讓步之一。伊朗隨後表示，船隻進出海灣都將經過伊朗水域。地區訊息人士表示，關於如何界定“控制權”仍有細節需要確定。伊朗訊息人士表示，目前擺在桌面上的協議文字設想，伊朗將控制透過該海峽駛入海灣的船隻，主要爭議之一是對於駛出方向船隻伊朗應發揮何種作用。伊朗副外長隨後表示：“該航線的設計方式是，商業船隻的進出航線都將透過伊朗領海。”伊朗高階官員透露，伊朗尋求向使用該海峽的船隻收取相當於貨物價值5%至7%的費用，阿曼正在討論約3%的較低費用，而華盛頓則希望完全不收取費用。名義上讓費用支付保持自願可能成為打破僵局的一種方式，不過在伊朗可能發動襲擊的威脅下，船運公司為了通行可能不得不付費。
-
----
-
-### 2026-08-06 03:18:25  #宏觀 #國際
-
-特朗普準備出臺關稅及價格下限政策，提振美國多晶矽產業。
-
----
-
-### 2026-08-06 03:17:08  #MKT News
-
-Meta Platforms (META.O) chief AI officer said Muse Code beta is live; it is the Meta Super Intelligence Lab’s (MSL) first coding agent, built on Muse Spark 1.2.
-
----
-
-### 2026-08-06 03:16:53  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-【Refinitiv: Iran seeks 5–7% charge on cargo value for Strait of Hormuz transits under Iran-Oman proposal】Refinitiv cites a senior Iranian source and two regional officials saying a proposed Iran-Oman agreement would give Iran control over vessels transiting the Strait of Hormuz into the Gulf, one of the largest concessions Tehran has secured to date. Officials say details of what 'control' entails remain unresolved, particularly Iran's role for ships leaving the Gulf. Iran's deputy foreign minister said the route would be arranged so commercial traffic entering and exiting passes through Iranian territorial waters. A senior Iranian official said Iran seeks to levy fees of 5–7% of cargo value on ships using the strait; Oman is discussing about 3% and Washington opposes any charge. Payments would be nominally voluntary, though regional sources say shipping firms may feel compelled to pay under the threat of Iranian attacks.
 
 ---
