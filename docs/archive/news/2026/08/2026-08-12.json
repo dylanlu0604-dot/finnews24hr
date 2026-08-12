@@ -1,7 +1,45 @@
 {
   "date": "2026-08-12",
-  "count": 584,
+  "count": 588,
   "items": [
+    {
+      "id": "5036558",
+      "time": "2026-08-12 08:53:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭總理盧克森談領導力挑戰：我獲得了黨內支援。"
+    },
+    {
+      "id": "mkt:019ff375-6644-7aab-8ffc-db856dcf41ec",
+      "time": "2026-08-12 08:53:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "【Crude oil ETF holdings report launches; USO exposure rises, BNO holdings fall】New crude oil ETF holdings report published. WTI (USO) nominal exposure ~26.28 mln barrels, up 0.156 mln barrels on the day. Brent (BNO) futures holdings ~7.17 mln barrels, down 0.057 mln barrels on the day. Full holdings now available to track flows beyond price."
+    },
+    {
+      "id": "5036557",
+      "time": "2026-08-12 08:51:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黃河實現連續27年不斷流】今天8時，位於黃河最下游的國家水文站——利津水文站測得實時流量2030立方米每秒。至此，透過實施黃河水量統一排程，黃河已實現自1999年以來連續27年不斷流，持續築牢供水安全、糧食安全、生態安全水利保障。2025—2026年度，黃河流域主要來水區合計來水489.24億立方米，較多年均值偏多7%。"
+    },
+    {
+      "id": "mkt:019ff373-859d-7aab-8ffc-d4102ac1e854",
+      "time": "2026-08-12 08:51:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Pinglu Canal live-ship trials start】Aug 12 — Live-ship trials for the Pinglu Canal have begun. Four representative vessels will carry out phased validation of navigation under normal and adverse conditions and a full-line aids-to-navigation efficacy check. The trials are intended to underpin the canal’s scheduled opening in Sept 2026. The Pinglu Canal, a backbone project of the Western Land-Sea New Corridor, is 134.2 km long and designed for 5,000-ton vessels; on completion it will establish a river-sea intermodal trunk linking southwest China to the sea via the Xijiang mainstem."
+    },
     {
       "id": "5036556",
       "time": "2026-08-12 08:49:33",
