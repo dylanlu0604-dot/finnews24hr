@@ -1,7 +1,85 @@
 {
   "date": "2026-08-13",
-  "count": 195,
+  "count": 204,
   "items": [
+    {
+      "id": "mkt:019ff7bc-e401-7aab-9013-8cbb176864f6",
+      "time": "2026-08-13 04:49:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baghaei, Iran's foreign ministry spokesperson, said Iran, as the country with the longest coastline on the Persian Gulf and Gulf of Oman, urges all parties benefiting from Strait of Hormuz shipping to assume responsibility and remediate environmental damage to the waters."
+    },
+    {
+      "id": "mkt:019ff7bc-a6fb-7aab-9013-83996c7365ce",
+      "time": "2026-08-13 04:49:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran foreign ministry spokesman BAGHAEI said oil pollution was detected recently along the coast of Qeshm Island. A preliminary investigation indicates the source may be a foreign bulk carrier; multiple coastal areas and parts of the sea surface have been affected."
+    },
+    {
+      "id": "5038126",
+      "time": "2026-08-13 04:49:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【思科公佈遠超預期財測 將業績歸功於創紀錄的“廣泛”需求】思科系統公司給出了遠遠超過華爾街預估的當季營收展望，表明該公司在人工智慧資料中心市場奪取更大網路裝置份額的努力取得了成功。該公司週三在公告中表示，截至10月的第一財季營收將介於180億至182億美元。分析師的平均預估為168億美元。剔除部分專案的每股收益料在1.32至1.34美元，也高於市場預計的1.17美元。公司將強勁的銷售歸功於“對思科技術廣泛且創紀錄的高需求”。行業研究分析師Woo Jin Ho在報告中寫道：“我們預計人工智慧的勢頭將保持強勁。” 思科股價在盤後交易中上漲1%至125.19美元。截至週三收盤，該股今年以來累計攀升了61%。儘管專注於供應人工智慧資料中心，思科的銷售仍然依賴於傳統網路業務。在截至7月的第四財季，該公司營收同比增長18%達到173億美元。不計部分專案的每股收益報1.22美元。分析師此前預測的營收為168億美元，每股收益則在1.17美元。"
+    },
+    {
+      "id": "mkt:019ff7bc-2727-7aab-9013-7ee595cefb92",
+      "time": "2026-08-13 04:48:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Trump media firm's paid 'Truth API' early-access feed faces pushback from trading firms】Trump's media company has launched a paid Truth API feed offering accelerated access to its content. Some trading firms have signed up, but others, including Hudson River Trading and Castle Securities, say they will not pay, arguing the feed is not necessary for trading operations. Legal experts say existing insider-trading rules do not clearly cover a sitting president using his media platform to disseminate market-moving information or selling faster access to that information. SEC Chair Paul Atkins said in an interview the SEC is monitoring the Truth API data stream."
+    },
+    {
+      "id": "5038125",
+      "time": "2026-08-13 04:48:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科稱第四財季超大規模客戶訂單實現三位數增幅。"
+    },
+    {
+      "id": "5038124",
+      "time": "2026-08-13 04:47:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一架來自胡德堡基地的阿帕奇武裝直升機在得克薩斯州中部墜毀，兩名飛行員全部遇難，事故引發野火，當地已啟動人員疏散。"
+    },
+    {
+      "id": "mkt:019ff7ba-e577-7aab-9013-71d0b3c17a4a",
+      "time": "2026-08-13 04:47:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Cerebras Q2 mixed results; shares tumble 17% after hours】AI chipmaker Cerebras reported Q2 revenue $210m, up 103% YoY. Cloud revenue surged to $126m, nearly 4x YoY, while hardware sales fell 23% to $54.1m. The company posted a net loss of $450.5m in the quarter versus net income of $309.5m a year earlier. Cerebras raised full-year core revenue guidance to $880m–$890m from $855m–$865m previously. It said core gross margin will expand to 38–40% this quarter to address investor concerns. Shares fell more than 17% in after-hours trading. Since its May IPO the stock has risen about 42%. The company, originally positioned as a challenger to NVIDIA, now derives its largest revenue from cloud services."
+    },
+    {
+      "id": "5038123",
+      "time": "2026-08-13 04:46:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "思科執行長在電話會議上表示，未來六個月，公司有望拿下多項AI設計訂單，覆蓋G300、G200、P200 Silicon One晶片及光模組產品。"
+    },
+    {
+      "id": "5038122",
+      "time": "2026-08-13 04:46:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院批評以色列國防部長卡茨，表示以色列在黎巴嫩南部的軍事部署違背相關協議；而卡茨稱以色列國防軍將在安全區保持長期駐軍。"
+    },
     {
       "id": "5038121",
       "time": "2026-08-13 04:45:58",
