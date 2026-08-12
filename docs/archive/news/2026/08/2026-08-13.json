@@ -1,7 +1,30 @@
 {
   "date": "2026-08-13",
-  "count": 219,
+  "count": 221,
   "items": [
+    {
+      "id": "mkt:019ff7c9-1637-7aab-9013-ae6c7cbc1a4e",
+      "time": "2026-08-13 05:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said the MSCI Global Index will add 55 securities and remove 92 securities."
+    },
+    {
+      "id": "mkt:019ff7c7-cb89-7aab-9013-a69c9714bd35",
+      "time": "2026-08-13 05:01:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fox Business: White House Council of Economic Advisers chair Furman said the US CPI report weakens the case for further rate hikes."
+    },
     {
       "id": "5038139",
       "time": "2026-08-13 04:59:46",

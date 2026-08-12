@@ -1,7 +1,30 @@
 {
-  "updated": "2026-08-13 05:01:52",
-  "count": 15040,
+  "updated": "2026-08-13 05:05:46",
+  "count": 15041,
   "items": [
+    {
+      "id": "mkt:019ff7c9-1637-7aab-9013-ae6c7cbc1a4e",
+      "time": "2026-08-13 05:02:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MSCI said the MSCI Global Index will add 55 securities and remove 92 securities."
+    },
+    {
+      "id": "mkt:019ff7c7-cb89-7aab-9013-a69c9714bd35",
+      "time": "2026-08-13 05:01:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fox Business: White House Council of Economic Advisers chair Furman said the US CPI report weakens the case for further rate hikes."
+    },
     {
       "id": "5038139",
       "time": "2026-08-13 04:59:46",
@@ -137174,14 +137197,6 @@
         "市場"
       ],
       "text": "週三（8月5日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.7482元，較週二紐約尾盤跌2點，日內整體交投於6.7449-6.7501元區間。"
-    },
-    {
-      "id": "5027498",
-      "time": "2026-08-06 05:02:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "AWS：AWS 與 Anthropic 以及 OpenAI 展開合作，將 AWS Continuum 整合至開發者工作流程。"
     }
   ]
 }
