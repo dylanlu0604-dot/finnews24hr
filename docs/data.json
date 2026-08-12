@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-13 07:54:41",
-  "count": 15033,
+  "updated": "2026-08-13 07:58:29",
+  "count": 15027,
   "items": [
+    {
+      "id": "5038248",
+      "time": "2026-08-13 07:56:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉政府和反對派同意改革最高法院法律。"
+    },
+    {
+      "id": "5038247",
+      "time": "2026-08-13 07:55:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【印度7月通脹率升至4.45% 但不太可能促使央行在未來幾個月加息】受食品價格上漲推動，印度7月份的零售通脹率上升，但仍不太可能促使印度央行在未來幾個月內加息。7月消費者物價指數較上年同期上漲4.45%，連續第二個月高於印度央行設定的4%中期目標，且與媒體此前預測的4.5%基本持平。不過，7月份的通脹率仍在印度央行設定的2%-6%容忍區間內。印度央行上週維持指標政策利率不變，等待更明確的證據以判斷通脹壓力是否已變得更為廣泛。這使印度與印尼、菲律賓等地區經濟體形成對比，這些經濟體因能源價格上漲和匯率波動已相繼加息。“印度央行眼下仍有條件保持耐心，但不會一直如此，”牛津經濟研究院的首席經濟學家Alexandra Hermann Prasad表示。“越來越多證據表明，第二輪通脹效應正在形成，中期通脹預期也在上升，這使得供給衝擊越來越難以被忽視。我們預計政策制定者將在10月按兵不動，但會在12月加息25個基點。”"
+    },
     {
       "id": "5038246",
       "time": "2026-08-13 07:54:00",
@@ -137068,79 +137086,6 @@
         "MKT News"
       ],
       "text": "【CITIC Securities: South Korean equity deleveraging not yet complete】CITIC Securities says retail leverage in South Korean equities has been rapidly unwound but risks remain. Brokerage margin balances fell 10% in a single day on July 31 — the largest drop this year — indicating on-exchange leverage is still being cut quickly. Retail forced liquidations on July 30–31 exceeded 100 bln won per day; the liquidation rate remains about 7–8%, well above the roughly 1% level seen in stable markets. Korea’s stabilization fund is limited in size and National Pension Service intervention carries moral hazard. CITIC expects market volatility to remain relatively elevated."
-    },
-    {
-      "id": "5027613",
-      "time": "2026-08-06 07:58:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【媒體：美國總統特朗普與國防部長赫格塞思在戴維營就伊朗導彈彈藥耗盡問題爆發爭執】兩名知情人士向《華盛頓郵報》透露，上週，唐納德・特朗普總統因伊朗戰事心生不滿，在戴維營向國防部長皮特・赫格塞思追問，為何自己明顯被誤導，嚴重的彈藥短缺問題如今或將限制美國針對伊朗可採取的軍事選項。據兩名瞭解此次談話的訊息人士稱，此次衝突發生於週五戴維營內閣會議的間隙。特朗普向赫格塞思大發脾氣，表示他本以為彈藥問題 “已經得到解決”。上述訊息人士與其他相關人員均因擔心遭到報復而選擇匿名受訪。其中一名訊息人士稱，遠端制導導彈與防空攔截彈的短缺，是特朗普近日暫緩對伊朗發動新一輪大規模打擊的部分原因。特朗普週一表示，他曾下令實施 “二戰以來規模最大的一次襲擊”，隨後又取消該行動，等待霍爾木茲海峽相關新一輪談判的進展。儘管美國已經就部分關鍵彈藥（例如愛國者防空導彈）達成新的生產協議，但這類彈藥的生產週期最長可達兩年，彈藥短缺的現狀短期內看不到緩解希望。《華盛頓郵報》此前報道，僅開戰首月，美軍就發射了 850 餘枚戰斧巡航導彈，以及超過 1000 枚愛國者與薩德（THAAD）系統攔截彈。"
-    },
-    {
-      "id": "mkt:019fd45d-1ab3-7aab-8f95-7724701bd91a",
-      "time": "2026-08-06 07:58:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China International Capital Co: Global nuclear fusion investment surges; supply‑chain opportunities emerging】China International Capital Co said in a research note that global investment in nuclear fusion is accelerating, with multiple U.S. and Chinese projects moving toward commercialization. Financing activity in the sector is robust and supply‑chain companies are actively expanding fusion-related businesses. The firm advises monitoring commercial fusion project milestones and financing progress, and watching project tendering for mid‑ and upstream supply‑chain investment opportunities."
-    },
-    {
-      "id": "mkt:019fd45c-567e-7aab-8f95-6d6709a27098",
-      "time": "2026-08-06 07:57:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said he has no differences with President Trump on Iran and that they are working to implement the president's decisions."
-    },
-    {
-      "id": "mkt:019fd45c-2d9b-7aab-8f95-6595d41e6f4b",
-      "time": "2026-08-06 07:57:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Vice President Vance said energy prices will decline, Iran will not acquire nuclear weapons, and the U.S. will be in a stronger position."
-    },
-    {
-      "id": "mkt:019fd45c-2d2b-7aab-8f95-5dabb6a1b7fc",
-      "time": "2026-08-06 07:57:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Iran is difficult to deal with, but its regime is showing cracks; the U.S. task is to secure the best outcome for the American people."
-    },
-    {
-      "id": "mkt:019fd459-f012-7aab-8f95-554d890bc49b",
-      "time": "2026-08-06 07:54:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. Vice President Vance said some within the Iranian regime want the war to end, while hardliners want it to continue."
-    },
-    {
-      "id": "mkt:019fd459-edfc-7aab-8f95-4bd9b03c6ed2",
-      "time": "2026-08-06 07:54:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Israel is a great partner and, as with other allies, the U.S. sometimes holds different positions. He said his duty is to pursue U.S. interests and that Washington communicates with Israel to pursue shared objectives."
-    },
-    {
-      "id": "mkt:019fd459-e0dd-7aab-8f95-47fe064e8e17",
-      "time": "2026-08-06 07:54:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the last meeting with Netanyahu produced no conflict and was a constructive, candid discussion."
     }
   ]
 }
