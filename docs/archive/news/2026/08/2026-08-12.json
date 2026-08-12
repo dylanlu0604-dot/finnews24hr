@@ -1,7 +1,172 @@
 {
   "date": "2026-08-12",
-  "count": 2227,
+  "count": 2246,
   "items": [
+    {
+      "id": "mkt:019ff5ee-f46a-7aab-900a-655d823b567b",
+      "time": "2026-08-12 20:25:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's YPF said it will begin exporting 180,000 bpd of oil starting in January."
+    },
+    {
+      "id": "mkt:019ff5ee-d520-7aab-900a-5ce254616d77",
+      "time": "2026-08-12 20:24:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Data show recent Saudi Red Sea crude loadings were carried out with vessel-tracking systems switched off, while Yemen's Houthi militants have launched additional attacks."
+    },
+    {
+      "id": "5037726",
+      "time": "2026-08-12 20:24:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空首席財務官在電話會議上表示：預計2026年下半年成本表現將有所改善。"
+    },
+    {
+      "id": "5037725",
+      "time": "2026-08-12 20:24:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示，葉門胡塞武裝發動更多襲擊，沙特紅海近期原油裝貨作業全程關閉船舶定位追蹤。"
+    },
+    {
+      "id": "mkt:019ff5ee-7c06-7aab-900a-5432a0c7f536",
+      "time": "2026-08-12 20:24:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's sovereign wealth fund, the Government Pension Fund Global, received NOK 89 billion of inflows in 1H."
+    },
+    {
+      "id": "5037724",
+      "time": "2026-08-12 20:24:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理毛焦爾表示，多瑙河相關工程將立即啟動，實行24小時輪班作業。"
+    },
+    {
+      "id": "mkt:019ff5ed-c667-7aab-900a-4f7bed3fc21d",
+      "time": "2026-08-12 20:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's sovereign wealth fund posted a 12% return in Q2."
+    },
+    {
+      "id": "5037723",
+      "time": "2026-08-12 20:23:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "晨星資料顯示，2026年上半年，新興市場股票基金吸引了近70億美元淨流入，創有記錄以來最強的半年表現，與2025年的資金流出形成鮮明反差。"
+    },
+    {
+      "id": "mkt:019ff5ed-b32e-7aab-900a-44faa098deaa",
+      "time": "2026-08-12 20:23:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's sovereign wealth fund reported a 16% equity return in Q2."
+    },
+    {
+      "id": "5037722",
+      "time": "2026-08-12 20:23:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國副總統萬斯曾親自要求基輔方面停止對裡海管道聯盟基礎設施的打擊。"
+    },
+    {
+      "id": "te:economy:574750",
+      "time": "2026-08-12 20:23:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mauritius",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Mauritius Keeps Key Policy Rate at 4.75% — The Central Bank of Mauritius unanimously decided to leave its key repo rate steady at 4.75% on August 12, 2026, after raising it by 25 bps in May. Policymakers said the cautious stance reflects a highly uncertain environment, allowing the MPC to assess incoming data, inflation and growth risks, and the impact of previous measures."
+    },
+    {
+      "id": "5037721",
+      "time": "2026-08-12 20:22:38",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.12%，標普500指數期貨漲0.26%，納指期貨漲0.71%。\n②德國DAX指數漲0.35%，英國富時100指數跌0.04%，法國CAC40指數跌0.22%，歐洲斯托克50指數漲0.13%。\n③WTI原油漲0.49%，報83.61美元/桶。布倫特原油漲0.29%，報89.17美元/桶。\n④傳美伊目前沒有就延長停火進行任何討論。\n⑤IEA：儘管需求下降 但全球石油供應缺口仍將擴大。\n⑥韓國將要求個股槓桿ETF的新投資者完成模擬交易練習，進一步收緊針對這類放大市場波動的高風險產品的監管規定。\n⑦人工智慧雲端計算公司CoreWeave盤前大漲近18%，公司公佈第二季經營收入錄得25.8億美元，優於分析員預期的25.6億美元，同比急增112%。\n⑧超微電腦盤前大漲超10%，微電腦公佈，截至2026年6月30日的公司第四財季，淨銷售額111.2億美元，較分析師預期低約1.2%，但同比接近翻倍。\n⑨閃迪盤前漲4.4%，閃迪將於美東時間8月13日上午9點舉行2026年投資者日。"
+    },
+    {
+      "id": "5037720",
+      "time": "2026-08-12 20:22:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，士兵將協助建設工作"
+    },
+    {
+      "id": "mkt:019ff5ec-63b9-7aab-900a-3a7abfbb0c1f",
+      "time": "2026-08-12 20:22:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Magyar said no significant rainfall is expected over the next few weeks and Danube water levels are falling sharply."
+    },
+    {
+      "id": "5037719",
+      "time": "2026-08-12 20:21:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，還將部署兩艘駁船至該工廠，必要時可能將其沉入水中以調節河流。"
+    },
+    {
+      "id": "5037718",
+      "time": "2026-08-12 20:21:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【布魯可：2026年上半年淨利潤3.87億元，同比增長30.5%】布魯可公告，2026年上半年收入17.76億元，同比增長32.7%；毛利7.86億元，同比增長21.5%。期間利潤3.87億元，同比增長30.5%；經調整期間利潤4.01億元，同比增長25.1%。每股基本盈利1.56元。2025年同期收入13.38億元，期間利潤2.97億元。"
+    },
+    {
+      "id": "mkt:019ff5eb-a313-7aab-900a-3027181f4bc5",
+      "time": "2026-08-12 20:21:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Hungary's Prime Minister Magyar said a bottom weir will raise river levels to ensure cooling at the Paks nuclear power plant."
+    },
+    {
+      "id": "5037717",
+      "time": "2026-08-12 20:21:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【鴻博股份：股價異動 上半年預計淨虧損4240萬-6280萬元】鴻博股份公告稱，公司股票於2026年8月11日、12日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營正常，無應披露未披露事項，董高人員在異動期間無買賣本公司股票情形。公司2026年上半年預計淨虧損4240萬元-6280萬元，業績預告暫無修正情況。"
+    },
+    {
+      "id": "5037716",
+      "time": "2026-08-12 20:21:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“白海豚”停編影響仍在 警惕降水疊加風險】中央氣象臺12日18時繼續釋出暴雨橙色預警。颱風“白海豚”8月11日已停止編號，但其殘餘環流與冷空氣、地形等因素疊加影響，12日20時至13日20時，多個省份有大到暴雨，河南南部、湖北北部、江蘇中部等地部分地區有大暴雨。 氣象專家提醒，一些地區降雨持續時間長、累計雨量大，需警惕降水疊加風險。 中央氣象臺首席預報員張芳華預計，12日至14日，強降水將持續影響河南、湖北、安徽、江蘇、上海、浙江等地。從13日起，我國大部分地區降水將逐步減弱，但黃淮南部、江淮、江南東部、華南等地部分地區仍有大到暴雨、局地大暴雨，降水範圍廣、強降雨分佈比較分散。 河南、湖北、安徽三省成為強降雨核心區，降雨長時間持續且強度居高不下。對此，張芳華解釋，“白海豚”登陸後引導氣流減弱，移動速度緩慢，加上季風水汽沒有完全北推，北方有冷空氣持續南下，導致殘餘渦旋環流中心在湖北、安徽、河南三省交界地區停滯、迴旋。（新華社）"
+    },
     {
       "id": "5037715",
       "time": "2026-08-12 20:20:37",
