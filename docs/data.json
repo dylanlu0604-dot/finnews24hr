@@ -1,7 +1,18 @@
 {
-  "updated": "2026-08-13 02:45:17",
-  "count": 15059,
+  "updated": "2026-08-13 02:49:08",
+  "count": 15056,
   "items": [
+    {
+      "id": "mkt:019ff74c-c573-7aab-9012-899ab7d631e2",
+      "time": "2026-08-13 02:47:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%."
+    },
     {
       "id": "te:economy:574823",
       "time": "2026-08-13 02:39:10",
@@ -137426,39 +137437,6 @@
         "MKT News"
       ],
       "text": "Iran's president said enemies are uneasy about anything that symbolizes the country's capabilities."
-    },
-    {
-      "id": "5027436",
-      "time": "2026-08-06 02:48:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告料顯示，上週美國天然氣庫存增加310億立方英尺。"
-    },
-    {
-      "id": "mkt:019fd340-fdd8-7aab-8f92-f9d881816395",
-      "time": "2026-08-06 02:47:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's president says communication with the supreme leader is currently 'very difficult'."
-    },
-    {
-      "id": "5027435",
-      "time": "2026-08-06 02:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【胡塞武裝再稱襲擊沙特油輪】葉門胡塞武裝當地時間8月5日晚表示，在亞丁灣對一艘沙特油輪發射導彈。據稱“導彈擊中目標，迫使該油輪返航”。胡塞武裝在宣告中稱，此次襲擊是執行針對沙特的“海上航運禁令”、落實“以封鎖回應封鎖”措施的一部分。胡塞武裝“將持續監視所有沙特油輪動態，在相關封鎖解除前，不允許沙特油輪經紅海南北航線通行。” 當天早些時候，胡塞武裝還稱對沙特紅海港口城市延布附近的一艘沙特油輪發動導彈襲擊。 沙特方面尚未證實這兩起事件。胡塞武裝發言人未說明襲擊發生的具體時間。（CCTV國際時訊）"
-    },
-    {
-      "id": "5027434",
-      "time": "2026-08-06 02:46:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統稱，目前他與伊朗最高領袖的溝通“非常困難”。"
     }
   ]
 }

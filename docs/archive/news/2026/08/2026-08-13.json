@@ -1,7 +1,18 @@
 {
   "date": "2026-08-13",
-  "count": 117,
+  "count": 118,
   "items": [
+    {
+      "id": "mkt:019ff74c-c573-7aab-9012-899ab7d631e2",
+      "time": "2026-08-13 02:47:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Brent crude futures settled at $88.98 a barrel, up $0.07, or 0.08%."
+    },
     {
       "id": "te:economy:574823",
       "time": "2026-08-13 02:39:10",
