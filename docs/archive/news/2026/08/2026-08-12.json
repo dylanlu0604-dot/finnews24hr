@@ -1,7 +1,100 @@
 {
   "date": "2026-08-12",
-  "count": 2151,
+  "count": 2161,
   "items": [
+    {
+      "id": "mkt:019ff5d8-cfcc-7aab-9009-61a29deeb810",
+      "time": "2026-08-12 20:00:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "OPEC monthly report raised its 2027 global oil demand growth forecast to 2.16 mln b/d from 1.94 mln b/d."
+    },
+    {
+      "id": "mkt:019ff5d8-b393-7aab-9009-5b3b74b19ff1",
+      "time": "2026-08-12 20:00:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC monthly report: OPEC+ crude oil production (including former member the UAE) averaged 37.66 mln bpd in July 2026, up about 1.42 mln bpd from June, driven mainly by higher output from Gulf producers."
+    },
+    {
+      "id": "mkt:019ff5d8-8bd8-7aab-9009-515f5669203a",
+      "time": "2026-08-12 20:00:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "At the open of the Shanghai Gold Exchange evening session on Aug 12 (Wed), Gold T+D rose 0.25% to 955.08 yuan/gram; Silver T+D rose 1.5% to 16,190.0 yuan/kg."
+    },
+    {
+      "id": "5037675",
+      "time": "2026-08-12 20:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐佩克月報：歐佩克將2026年全球石油需求增長預測下調至每日58萬桶（之前預測為78萬桶）。"
+    },
+    {
+      "id": "mkt:019ff5d8-6a20-7aab-9009-4db5d76e371e",
+      "time": "2026-08-12 20:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "OPEC in its monthly report cut its 2026 global oil demand growth forecast to 580,000 bpd from 780,000 bpd previously."
+    },
+    {
+      "id": "5037674",
+      "time": "2026-08-12 20:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西6月份服務業交易量環比持平；預計下降0.2%。"
+    },
+    {
+      "id": "5037673",
+      "time": "2026-08-12 20:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "AGTIRA AB獲歐盟提供為期五年、金額約1400萬瑞典克朗的資助。"
+    },
+    {
+      "id": "5037672",
+      "time": "2026-08-12 19:58:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天孚通訊：擬推228.87萬股限制性股票激勵計劃 業績考核目標為2027-2029年淨利潤較2025年增長率分別不低於120%、320%、560%】天孚通訊(300394.SZ)公告稱，公司釋出2026年限制性股票激勵計劃，擬向745名激勵物件授予228.87萬股限制性股票，約佔公司股本總額的0.2098%，授予價格為120元/股。激勵物件包括公司董事、高階管理人員及核心技術(業務)人員。業績考核目標為2027-2029年淨利潤較2025年增長率分別不低於120%、320%、560%。"
+    },
+    {
+      "id": "5037671",
+      "time": "2026-08-12 19:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方轉向“進攻性”戰略 高層軍職調整釋放長期對抗訊號】伊朗正重組軍隊，在其與美以戰爭的背景下，使其在海外行動中更加靈活和更具攻擊性。此舉也顯示，即使當前衝突結束，伊朗仍在為長期對抗做準備。伊斯蘭革命衛隊將領、該部隊新任指揮官顧問Mohammad Reza Naqdi週二晚間接受國家電視臺採訪時表示，本週一系列軍方高層委任標誌著伊朗轉向“進攻性準則”。他說：“只要條件有利並且命令下達，我們就必須有能力把行動推進到敵方領土。”他稱，這與戰前“主要基於防禦和保衛國家”的準則形成對比。這些言論是迄今伊朗官員對最高領袖穆傑塔巴·哈梅內伊任命關鍵軍職背後戰略最詳細的解釋。此次獲晉升的多名革命衛隊軍官，在戰爭和霍爾木茲海峽問題上以強硬立場著稱。"
+    },
+    {
+      "id": "5037670",
+      "time": "2026-08-12 19:56:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【輝隆股份：2026年上半年營收85.47億元 分紅及回購超2億】輝隆股份公告稱，2026年上半年，公司聚焦主業，實現營收85.47億元，淨利潤1.13億元。公司注重股東回報，2026年上半年實施2025年度利潤分配，派發現金股利9191.36萬元，登出已回購股份對應金額10039.78萬元。此外，公司強化治理，完善4項管理制度，披露的《2025年度輝隆股份ESG報告》獲評A級。報告期內披露報告63份，接待投資者調研約15人次。"
+    },
     {
       "id": "5037669",
       "time": "2026-08-12 19:56:33",
