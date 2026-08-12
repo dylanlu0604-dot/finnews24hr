@@ -1,7 +1,200 @@
 {
-  "updated": "2026-08-12 20:58:23",
-  "count": 15149,
+  "updated": "2026-08-12 21:03:04",
+  "count": 15157,
   "items": [
+    {
+      "id": "5037819",
+      "time": "2026-08-12 21:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【希捷科技美股盤前漲超5%】希捷科技美股盤前漲超5%，現報863.95美元。"
+    },
+    {
+      "id": "mkt:019ff610-27eb-7aab-900c-78f7f2f5f3f6",
+      "time": "2026-08-12 21:01:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【AI data-center boom reshaping inflation mix】The New York Times reports the surge in AI data-center construction is driving sharply higher demand for storage chips and adding upward pressure to prices. Software prices are up 21.2% YoY and 0.5% MoM; smartphone prices are falling."
+    },
+    {
+      "id": "5037818",
+      "time": "2026-08-12 21:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "家得寶執行長德克爾將臨時休醫療假。"
+    },
+    {
+      "id": "5037817",
+      "time": "2026-08-12 21:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將賽富時目標股價從185美元上調至210美元。"
+    },
+    {
+      "id": "mkt:019ff60f-9426-7aab-900c-70ebd4b9a3cb",
+      "time": "2026-08-12 21:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold surpassed $4,440/oz, the highest since June 5, rising 1.66% on the day."
+    },
+    {
+      "id": "5037816",
+      "time": "2026-08-12 21:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將英特爾目標股價從121美元下調至112美元。"
+    },
+    {
+      "id": "mkt:019ff60f-1ef5-7aab-900c-6f2694bf547d",
+      "time": "2026-08-12 21:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Night session opened: China’s main futures contracts were mostly higher. Shanghai silver led gains, up over 2%; synthetic rubber and pulp rose more than 1%. Shanghai zinc, tin, gold, ethylene glycol (EG) and cotton yarn advanced around 1%. Glass fell more than 1%."
+    },
+    {
+      "id": "5037815",
+      "time": "2026-08-12 21:00:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4500美元/盎司，日內漲1.33%。"
+    },
+    {
+      "id": "5037814",
+      "time": "2026-08-12 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報879.00元。"
+    },
+    {
+      "id": "5037813",
+      "time": "2026-08-12 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】多晶矽連續漲4.26%，碳酸鋰連續漲2.97%，集運指數歐線期貨連續漲2.75%，白銀連續漲2.34%，尿素連續跌1.29%。"
+    },
+    {
+      "id": "5037812",
+      "time": "2026-08-12 20:59:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示：8月11日美國有效聯邦基金利率為3.63%，當日交易規模為1090億美元；8月10日有效聯邦基金利率同為3.63%，當日交易規模為1080億美元。"
+    },
+    {
+      "id": "mkt:019ff60e-11e2-7aab-900c-61de2fed4e23",
+      "time": "2026-08-12 20:59:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Germany's solar generation hit a record 57,898 MW on Wednesday."
+    },
+    {
+      "id": "mkt:019ff60d-e7aa-7aab-900c-5a4ea274ca17",
+      "time": "2026-08-12 20:58:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. July electricity prices surge 4.2% YoY, may increase consumer pressure】U.S. Department of Labor data show electricity prices rose 4.2% YoY in July, the hottest month on record, as widespread air-conditioning boosted demand and bills. Electricity gains have outpaced overall inflation in recent months, adding to consumer energy spending pressure alongside rising gasoline costs."
+    },
+    {
+      "id": "mkt:019ff60d-e1ac-7aab-900c-544065bf2089",
+      "time": "2026-08-12 20:58:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【US inflation slows for second month; July CPI +3.4% YoY】US consumer prices rose 3.4% YoY in July, matching economists' forecasts and marking a second consecutive monthly deceleration, indicating easing price pressures. The Bureau of Labor Statistics reported July gasoline prices fell 2.9% MoM; Moody's Analytics chief economist Mark Zandi said average daily gasoline was about $0.10 lower than in June. Zandi added that, if there is no new escalation in the Iran conflict, inflation may have peaked and could continue to decline toward the Fed's 2% annual target by the same time next year."
+    },
+    {
+      "id": "5037811",
+      "time": "2026-08-12 20:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國太陽能發電量週三升至創紀錄的57,898兆瓦：歐洲能源交易所"
+    },
+    {
+      "id": "te:economy:574774",
+      "time": "2026-08-12 20:58:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Eases Further — The yield on the 10-year US Treasury note was at 4.65%, extending the pullback from last session after the US inflation rate refrained from surpassing expectations. Both headline and core inflation rates eased as expected in July, removing some of the pressure on FOMC to raise interest rates next month. Gauges of underlying consumer prices had risen sharply this year after the outbreak of war in Iran lifted energy costs and halted key supply chains. This prompted multiple FOMC members to deliver hawkish dissents in the Fed's last rate hold, with more policymakers signaling hawkish reaction functions in speeches since. Still, elevated energy prices were still being transmitted to price indices as President Trump hardened his stance on Iran, prompting Tehran to dismiss an imminent suspension on blockades that prevent trade. Concerns that the Fed will not raise rates to combat inflation had already drive long-yields to surge earlier in the month."
+    },
+    {
+      "id": "mkt:019ff60d-3580-7aab-900c-4d42f4e70623",
+      "time": "2026-08-12 20:58:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Closure of Strait of Hormuz lifts EM corporate bonds above US peers】Average borrowing costs for emerging-market corporates have fallen to their lowest level relative to US corporates since January as global bond investors diversify into higher-yielding assets, driving outperformance. The split has pushed the yield premium of EM corporate debt over US corporate debt to its lowest since Jan. 26. Alan Shaw, co-head of emerging-market corporate debt at Ninety One, said three factors are behind the rally: oil companies filling supply gaps from the Middle East conflict, duration-related technicals, and fund flows into high-yield assets; he added the asset class remains underweight and that strong YTD returns and attractive risk-adjusted returns make it an interesting allocation opportunity."
+    },
+    {
+      "id": "5037809",
+      "time": "2026-08-12 20:58:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空首席財務官表示：空客A321XLR與A220飛機的交付日期已推遲約三個月。"
+    },
     {
       "id": "5037808",
       "time": "2026-08-12 20:56:33",
@@ -138053,103 +138246,6 @@
         "國際"
       ],
       "text": "市場訊息：一名海灣國家官員認為，美國與伊朗在週五前達成協議的可能性為50%。"
-    },
-    {
-      "id": "mkt:019fd205-1c13-7aab-8f8c-9c61c758aaad",
-      "time": "2026-08-05 21:02:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "CNN reports a Gulf official says there is a 50% chance the U.S. and Iran will reach an agreement before Friday."
-    },
-    {
-      "id": "5027077",
-      "time": "2026-08-05 21:02:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國出口商向墨西哥出售了12萬噸玉米。"
-    },
-    {
-      "id": "5027076",
-      "time": "2026-08-05 21:01:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非競爭委員會：建議競爭法庭有條件批准Capitec-Walletdoc擬議交易。"
-    },
-    {
-      "id": "5027075",
-      "time": "2026-08-05 21:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify首席財務官表示：訂閱解決方案增長主要由標準套餐的月度訂閱驅動；第二季度標準套餐商戶淨新增數量表現強勁。"
-    },
-    {
-      "id": "mkt:019fd202-c2bc-7aab-8f8c-96087d49700e",
-      "time": "2026-08-05 21:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Night session open: China front-month futures mostly higher. Shanghai silver rose over 2%, Shanghai gold nearly 2%. Coking coal and iron ore gained more than 1%; fuel oil and soda ash up about 1%. Decliners: styrene (EB) and benzene fell over 1%; ethylene glycol (EG), methanol and stainless steel (SS) down around 1%."
-    },
-    {
-      "id": "5027074",
-      "time": "2026-08-05 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續跌9.21%，鉑連續漲9.18%，鈀連續漲8.51%，尿素連續漲3.66%，碳酸鋰連續漲2.61%，白銀連續漲2.21%。"
-    },
-    {
-      "id": "5027073",
-      "time": "2026-08-05 21:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲2%，現報15037.00元。"
-    },
-    {
-      "id": "5027072",
-      "time": "2026-08-05 21:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報2523.00元。"
-    },
-    {
-      "id": "5027071",
-      "time": "2026-08-05 20:59:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲卡什卡利：現在是開始逐步加息的時候】2026年FOMC票委、明尼阿波利斯聯儲主席卡什卡利週三接受採訪時表示，美聯儲現在應“開始逐步上調”利率，以降低通脹並避免未來需要更大幅度加息。卡什卡利是上週FOMC會議中支援加息25個基點的三名票委之一。他表示，當前企業盈利強勁、消費者和就業市場保持韌性，沒有證據表明貨幣政策已明顯具有限制性，因此是時候開始逐步加息了。他強調，這並非主張大幅加息，而是希望“小步行動”，避免未來通脹根深蒂固後被迫激進收緊政策。他補充道，不確定FOMC會在9月採取什麼行動，未來的資料將會起到關鍵作用。與此同時，卡什卡利表示，美聯儲主席沃什沒有向他施壓，曾告訴他：“做你認為對經濟正確的事情。”"
-    },
-    {
-      "id": "5027070",
-      "time": "2026-08-05 20:59:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CHIPOTLE股價在盤前交易中上漲3%，此前該公司發表了食品安全宣告。"
     }
   ]
 }
