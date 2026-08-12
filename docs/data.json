@@ -1,7 +1,74 @@
 {
-  "updated": "2026-08-12 22:03:57",
-  "count": 15182,
+  "updated": "2026-08-12 22:07:59",
+  "count": 15174,
   "items": [
+    {
+      "id": "5037932",
+      "time": "2026-08-12 22:07:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織總幹事：我們在應對埃博拉疫情方面仍處於追趕狀態。"
+    },
+    {
+      "id": "5037931",
+      "time": "2026-08-12 22:05:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報870.00元。"
+    },
+    {
+      "id": "mkt:019ff64a-13d4-7aab-900e-34831662619a",
+      "time": "2026-08-12 22:04:37",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bearish"
+      ],
+      "text": "【Tencent says new AI products cut non‑GAAP operating profit by CNY10.5bn in 2026 Q2, president says】Tencent’s 2026 Q2 results show new AI products — Hunyuan, Yuanbao, WorkBuddy, CodeBuddy and XiaoWei — reduced non‑GAAP operating profit by CNY10.5bn, a marked increase from Q1. President Liu Zhiping said investment allocations are highly dynamic: Tencent will be cautious until it sees a clear breakout, then scale up spending. He said WorkBuddy is currently prioritized due to explosive growth, lowering priority for other AI projects. Liu added economic benefits should emerge over time and the company could switch to a compute‑rental model — which he said would be profitable — as a fallback, giving Tencent confidence."
+    },
+    {
+      "id": "5037930",
+      "time": "2026-08-12 22:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織總幹事就埃博拉疫情召開新聞釋出會。"
+    },
+    {
+      "id": "mkt:019ff649-a28c-7aab-900e-28a4deed84c1",
+      "time": "2026-08-12 22:04:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) shares hit an intraday low, down 0.5%, after Google raised prices on its new phones."
+    },
+    {
+      "id": "5037929",
+      "time": "2026-08-12 22:03:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET股價觸及盤中低點，下跌0.5%。"
+    },
+    {
+      "id": "5037928",
+      "time": "2026-08-12 22:03:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【二季度新AI產品影響105億利潤，騰訊總裁劉熾平回應】8月12日，騰訊釋出的2026Q2財報顯示，該季度混元、元寶、WorkBuddy、CodeBuddy、小微等AI產品對Non-GAAP營業利潤的影響為105億元，相較於一季度明顯增加。騰訊總裁劉熾平在談及騰訊如何分配AI產品投入時表示，目前情況非常動態。在看到真正爆發的機會之前，騰訊的投資會比較謹慎，一旦看到機會就會加大投入，整體會著眼於長遠進行投資。例如，WorkBuddy 正在爆發式增長，所以當下優先投入了WorkBuddy，也降低了其他一些產品的優先順序。隨著時間推移，經濟效益會逐漸顯現，到某個時候自然能實現盈利。他強調，如果騰訊把商業模式直接改成單純出租算力，那不僅不會虧損，反而會盈利。騰訊始終有這個備選方案，這也讓騰訊“比較有底氣”。"
+    },
     {
       "id": "mkt:019ff648-6c42-7aab-900e-21d2e45b17ae",
       "time": "2026-08-12 22:02:49",
@@ -138366,150 +138433,6 @@
         "焦點"
       ],
       "text": "白銀連續主力合約日內漲4%，現報15302.00元。"
-    },
-    {
-      "id": "5027191",
-      "time": "2026-08-05 22:07:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4220美元/盎司，日內漲3.50%。"
-    },
-    {
-      "id": "5027190",
-      "time": "2026-08-05 22:07:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【8月5日增減持彙總（表）】8月5日盤後，據不完全統計，蘭州銀行、大葉股份、中國天楹、新寶股份等4家A股上市公司披露擬增持情況，包括無錫銀行、中農立華、中研股份、利揚晶片在內的4家A股上市公司披露擬減持情況。"
-    },
-    {
-      "id": "mkt:019fd240-4f8d-7aab-8f8e-50fda2163f2f",
-      "time": "2026-08-05 22:07:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US to remove Fly Baghdad from sanctions list."
-    },
-    {
-      "id": "5027189",
-      "time": "2026-08-05 22:07:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4280美元/盎司，日內漲3.07%。"
-    },
-    {
-      "id": "5027188",
-      "time": "2026-08-05 22:07:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報7976.00元。"
-    },
-    {
-      "id": "5027187",
-      "time": "2026-08-05 22:07:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "EOG認為，由於中東衝突，石油需求結構性上升。"
-    },
-    {
-      "id": "5027186",
-      "time": "2026-08-05 22:07:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "油價下跌，布倫特原油價格跌破每桶79美元。"
-    },
-    {
-      "id": "5027185",
-      "time": "2026-08-05 22:06:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌2%，現報4577.00元。"
-    },
-    {
-      "id": "5027184",
-      "time": "2026-08-05 22:05:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國將巴格達航空公司從制裁名單中移除。"
-    },
-    {
-      "id": "mkt:019fd23e-aeb3-7aab-8f8e-4908ae773566",
-      "time": "2026-08-05 22:05:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot silver's intraday gain widened to about 5%, trading at $62.51/oz; spot gold up roughly 3.5%."
-    },
-    {
-      "id": "5027183",
-      "time": "2026-08-05 22:05:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲3%，現報4277.34美元/盎司。"
-    },
-    {
-      "id": "5027182",
-      "time": "2026-08-05 22:05:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲5%，現報62.50美元/盎司。"
-    },
-    {
-      "id": "mkt:019fd23d-db7f-7aab-8f8e-470f9a65d3fd",
-      "time": "2026-08-05 22:04:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Treasury website shows the U.S. has lifted sanctions related to Iran."
-    },
-    {
-      "id": "mkt:019fd23d-b13d-7aab-8f8e-3c03a57ca446",
-      "time": "2026-08-05 22:04:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Sources said Russia's Saratov refinery halted operations after a drone strike on Aug. 2."
-    },
-    {
-      "id": "te:economy:573074",
-      "time": "2026-08-05 22:04:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Non Manufacturing PMI",
-        "Importance 3"
-      ],
-      "text": "US Services Growth Below Forecasts in July — The ISM Services PMI in the US edged up to 54.1 in July 2026 from 54 in June, slightly below forecasts of 54.5, while continuing to point to expansion in the services sector. Business activity (59.1 vs 55.4), new orders (57.2 vs 55.1) and inventories (51.4 vs 51.2) increased faster but employment returned to contraction territory after only one month in expansion (47.4 vs 51.2). In addition, price pressures increased (70.3 vs 67.7), with petroleum-related products and plastics again reported as commodities up in price, although the number of commodities reported as down in price increased to six, up from three the previous month. Backlog of orders (50.9 vs 54.9) and supplier deliveries (52.8 vs 54.4) slowed. “Tariff impacts and the Middle East conflict continued to be mentioned by respondents, but much less frequently than in prior reports. The World Cup was again cited in the comments regarding increased business activity and new orders”, according to Steve Miller, Chair of the ISM."
     }
   ]
 }
