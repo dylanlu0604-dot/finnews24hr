@@ -1,7 +1,15 @@
 {
-  "updated": "2026-08-13 01:42:56",
+  "updated": "2026-08-13 01:46:45",
   "count": 15077,
   "items": [
+    {
+      "id": "5038064",
+      "time": "2026-08-13 01:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿爾邁雅丁電視臺援引 DBNEWS 訊息：伊朗稱霍爾木茲海峽依舊處於關閉狀態，政策沒有發生改變。 伊朗警告船隻不得違反霍爾木茲海峽通行規程。"
+    },
     {
       "id": "mkt:019ff70a-ed3c-7aab-9011-f1c2bc494201",
       "time": "2026-08-13 01:35:16",
@@ -137592,21 +137600,6 @@
         "XAUUSD"
       ],
       "text": "【Iran deputy foreign minister denies US talks on Strait of Hormuz】Iran’s deputy foreign minister said on Wednesday Tehran is not negotiating with the United States over the Strait of Hormuz, calling US claims that talks are underway incorrect. He said Iran has received US communications indicating Washington is prepared to resume prior commitments, but Tehran has not decided whether to enter a second phase that would implement any US‑Iran memorandum of understanding. Earlier on Wednesday President Trump said the Strait would reopen “soon” or he would launch a new round of strikes, saying “very good discussions” were underway and warning he would resume military action if Iran reneged."
-    },
-    {
-      "id": "mkt:019fd305-880a-7aab-8f92-4465b3edf354",
-      "time": "2026-08-06 01:43:02",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bearish"
-      ],
-      "text": "Meta Platforms (META.O) has overtaken SpaceX (SPCX.O) in market value. SpaceX slid 10.5% to $1.48 trillion; Meta fell 0.8% to $1.49 trillion."
     }
   ]
 }
