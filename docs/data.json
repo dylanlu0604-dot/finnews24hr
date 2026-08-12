@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-13 06:58:33",
-  "count": 15038,
+  "updated": "2026-08-13 07:05:31",
+  "count": 15036,
   "items": [
+    {
+      "id": "mkt:019ff835-ca95-7aab-9014-463ed90cb63f",
+      "time": "2026-08-13 07:01:42",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY shows 75% of Japanese firms prioritize domestic over overseas investment."
+    },
+    {
+      "id": "mkt:019ff835-501a-7aab-9014-3a008efacdef",
+      "time": "2026-08-13 07:01:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters survey shows over 80% of Japanese firms only partially use, or do not use, artificial intelligence (AI)."
+    },
+    {
+      "id": "mkt:019ff835-476f-7aab-9014-3695ab37a994",
+      "time": "2026-08-13 07:01:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK three-month RICS house price balance for July -30, vs -31 expected; prior revised to -32 from -33."
+    },
+    {
+      "id": "mkt:019ff835-2533-7aab-9014-2e98f1f3b816",
+      "time": "2026-08-13 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | RICS House Price Balance (Jul) | actual -30 | consensus -31 | previous -33.00"
+    },
+    {
+      "id": "5038190",
+      "time": "2026-08-13 07:00:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "路透調查顯示，日本五分之四的企業將本土投資置於海外投資之上。"
+    },
+    {
+      "id": "mkt:019ff835-15f4-7aab-9014-26fcd3713720",
+      "time": "2026-08-13 07:00:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: More than half of Japanese companies plan to increase AI budgets in the near term; 31% remain undecided."
+    },
+    {
+      "id": "5038189",
+      "time": "2026-08-13 07:00:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西總統顧問批評美國政府釋出“門羅主義”影片】巴西總統首席特別顧問阿莫林12日批評美國政府釋出影片宣稱在拉丁美洲擁有“主導地位”，指出美國近期種種舉動表明其正企圖干涉包括巴西在內的拉美國家主權。 阿莫林當日在巴西聯邦眾議院一場會議上表示，美國正企圖讓拉丁美洲服從其利益，“任何看過那段影片的人都會明白，他們正試圖削弱拉美各國主權，當然也包括巴西”。 阿莫林指出，美國近期對巴西採取大幅加徵關稅等措施具有政治動機。他援引巴西總統盧拉的表態重申，巴西不會接受美國採取單邊措施削弱巴西主權或對巴施加經濟脅迫。（新華社）"
+    },
+    {
+      "id": "mkt:019ff833-4230-7aab-9014-1b84c0fd755c",
+      "time": "2026-08-13 06:58:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Senate approved a bill to establish a new spending-control mechanism; the bill text will be sent to the president for approval."
+    },
+    {
+      "id": "5038188",
+      "time": "2026-08-13 06:58:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西參議院已透過設定全新支出管控機制的法案，法案文字現已提交總統批准生效。"
+    },
     {
       "id": "5038187",
       "time": "2026-08-13 06:57:34",
@@ -137080,100 +137168,6 @@
         "國際"
       ],
       "text": "【美檢察官調查舉報人有關摩根大通處理欺詐案件存在不當行為的指控】據知情人士透露，聯邦檢察官於今年早些時候核查相關指控：摩根大通高管無視該行反欺詐專案存在的漏洞，違規拒絕向資金被盜的客戶賠付超 1 億美元補償款。此次核查源於去年摩根大通時任反詐騙部門負責人提交的一份舉報材料。知情人士稱，曼哈頓聯邦檢察官辦公室以及美國財政部的代表去年與該舉報人會面，後續收到了佐證其指控的相關檔案。檢察官尚未指控摩根大通存在任何違法行為，目前也無法確認相關部門是否仍在就這些指控開展調查。"
-    },
-    {
-      "id": "5027549",
-      "time": "2026-08-06 07:05:20",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通因反欺詐計劃面臨檢方調查。"
-    },
-    {
-      "id": "5027548",
-      "time": "2026-08-06 07:04:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "KAKAO2026年第二季度營業利潤為1262億韓元，同比增長17.0%。"
-    },
-    {
-      "id": "5027547",
-      "time": "2026-08-06 07:04:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【夏日經濟持續升溫 家電企業聚焦增量市場】炎炎夏日，空調行業迎來傳統銷售旺季。記者從多家上市公司瞭解到，從二季度開始，空調行業就進入了銷售“快車道”。但是，受原材料價格波動、以舊換新補貼變化以及區域銷售冷熱不均等因素影響，相關公司實際盈利能力有待財報進一步驗證。在此背景下，家電企業紛紛聚焦新品、海外等增量市場，以減少負面因素對於業績的衝擊。（中國證券報）"
-    },
-    {
-      "id": "5027546",
-      "time": "2026-08-06 07:04:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【科技板塊大幅反彈 機構稱後市或分化】經歷前期調整後，A股科技板塊近日迎來明顯修復。創業板、科創板指數大幅反彈，市場成交明顯放量，半導體、儲存、算力硬體等方向輪番走強。機構認為，科技板塊流動性壓力已明顯緩解，但短期反彈並不意味著板塊將全面普漲。短期內，科技板塊或面臨進一步分化，後續行情能否由超跌修復轉向趨勢上漲，仍需基本面和產業端進一步驗證。（中國證券報）"
-    },
-    {
-      "id": "5027545",
-      "time": "2026-08-06 07:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全球首座16兆瓦張力腿浮式風電平臺正式投運】今天（8月6日），記者從中國海油獲悉，全球首座16兆瓦張力腿浮式風電平臺——“海油安瀾號”成功接入陸豐油田電網，正式為海上油田直供綠電，標誌著我國深遠海浮式風電裝備技術走向世界前列，為我國海上風電開發成功探索了新技術路線。張力腿浮式風電平臺是專門為開發深遠海風電設計建造的大型浮式裝備，由上部浮體、海底錨固基礎和繫泊系統組成。“海油安瀾號”安裝在水深136米、離岸136公里的陸豐油田。整體高度近110層樓高，搭載16兆瓦抗颱風機，按照可抵禦17級颱風的極端工況自主設計建造，服役週期達25年。“海油安瀾號”投產後，預計每年可為油田提供5400萬度綠色電力，相當於節約燃料油1.5萬立方米，減少二氧化碳排放3.5萬噸。"
-    },
-    {
-      "id": "5027544",
-      "time": "2026-08-06 07:02:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國6月經常賬盈餘創單月最高紀錄。"
-    },
-    {
-      "id": "5027543",
-      "time": "2026-08-06 07:02:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【協議接近達成 伊朗披露海峽新航道通行細節 美方再提“倒計時”】伊朗方面5日密集釋出與阿曼就霍爾木茲海峽航運安排的談判進展。根據雙方初步協議，海峽現有兩條航道將關閉，取而代之的是途經伊朗領海的新臨時航線。伊方稱，將在霍爾木茲海峽建立一種不同於過去60年的新通行模式，同時表示，協議與“立即開放海峽”無關，海峽開放取決於美方能否糾正其“違規行為”。另一方面，美方接連釋放訊號，稱48小時內或見分曉。當前，霍爾木茲海峽通行量仍遠低於戰前水平，航運處於“有限恢復”階段。"
-    },
-    {
-      "id": "mkt:019fd429-7049-7aab-8f94-ef9a38c0fdb3",
-      "time": "2026-08-06 07:01:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【World's first 16 MW tension-leg floating wind platform enters operation】CNOOC said the world's first 16 MW tension-leg floating wind platform Haiyou Anlan has connected to the Lufeng oilfield grid and begun supplying green power directly to the offshore field, marking an advance in China's deep-water floating-wind equipment and a new technical route for offshore wind development."
-    },
-    {
-      "id": "5027542",
-      "time": "2026-08-06 07:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國6月未季調經常帳 497.3億美元，前值386.074億美元。"
-    },
-    {
-      "id": "mkt:019fd427-e270-7aab-8f94-e0979005e1c1",
-      "time": "2026-08-06 07:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea June current account balance, not seasonally adjusted, USD 49.73 bln; prior USD 38.61 bln."
-    },
-    {
-      "id": "mkt:019fd427-b6a0-7aab-8f94-d848b737629a",
-      "time": "2026-08-06 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Current Account NSA (Jun) | actual 49730000000B | previous 38607400000B"
     }
   ]
 }
