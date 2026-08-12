@@ -1,7 +1,184 @@
 {
-  "updated": "2026-08-12 18:57:42",
-  "count": 15127,
+  "updated": "2026-08-12 19:01:41",
+  "count": 15125,
   "items": [
+    {
+      "id": "5037565",
+      "time": "2026-08-12 19:00:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "華潤置地：累計合約銷售額1,306.0億元人民幣，7月合約銷售額141.0億元人民幣，7月合約銷售金額+6％。"
+    },
+    {
+      "id": "mkt:019ff5a1-3f13-7aab-9008-4f875a437f65",
+      "time": "2026-08-12 19:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage applications index for week ended Aug 7: 248.6, prior 240."
+    },
+    {
+      "id": "mkt:019ff5a1-3365-7aab-9008-44ee434ef695",
+      "time": "2026-08-12 19:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US MBA mortgage purchase index for the week ended Aug. 7: 157.9, up from 154 previously."
+    },
+    {
+      "id": "5037564",
+      "time": "2026-08-12 19:00:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國8月7日當週MBA抵押貸款申請活動指數週環比 3.6%，前值 -2.9%。"
+    },
+    {
+      "id": "mkt:019ff5a1-3237-7aab-9008-3a17e0972e18",
+      "time": "2026-08-12 19:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact mixed",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "MBA U.S. mortgage refinance activity index for the week to Aug 7: 744.4, prior 709.1."
+    },
+    {
+      "id": "mkt:019ff5a1-31d2-7aab-9008-3517a578f8f1",
+      "time": "2026-08-12 19:00:09",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US MBA 30-year fixed mortgage rate for the week ended Aug 7 at 6.77%, down from 6.81% the prior week."
+    },
+    {
+      "id": "mkt:019ff5a1-0cba-7aab-9008-24847479cb7e",
+      "time": "2026-08-12 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Aug.7) | actual 248.6 | previous 240"
+    },
+    {
+      "id": "mkt:019ff5a1-0cbb-7aab-9008-2b277b6222b0",
+      "time": "2026-08-12 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Aug.7) | actual 744.4 | previous 709.1"
+    },
+    {
+      "id": "mkt:019ff5a1-0ca5-7aab-9008-14b69620c558",
+      "time": "2026-08-12 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Aug.7) | actual 157.9 | previous 154"
+    },
+    {
+      "id": "mkt:019ff5a1-0ca7-7aab-9008-18eb60efe37a",
+      "time": "2026-08-12 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Aug.7) | actual 6.77% | previous 6.81%"
+    },
+    {
+      "id": "mkt:019ff5a0-b6d4-7aab-9008-0ab397434761",
+      "time": "2026-08-12 18:59:38",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russia's Novorossiysk mayor declared a state of emergency, saying a Ukrainian attack damaged educational facilities."
+    },
+    {
+      "id": "5037563",
+      "time": "2026-08-12 18:59:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：本基金將於2026年8月13日10:30起復牌】納指科技ETF景順：本基金將於2026年8月13日開市起停牌，自2026年8月13日10:30起復牌。"
+    },
+    {
+      "id": "5037562",
+      "time": "2026-08-12 18:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "新羅西斯克市長宣佈該市已進入緊急狀態，稱烏克蘭襲擊了市內教育設施。"
+    },
+    {
+      "id": "5037561",
+      "time": "2026-08-12 18:58:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國8月13日電價穩定在147.07歐元/兆瓦時。"
+    },
+    {
+      "id": "mkt:019ff59f-f054-7aab-9008-009c384160b3",
+      "time": "2026-08-12 18:58:47",
+      "tags": [
+        "MKT News",
+        "QTEC"
+      ],
+      "text": "Invesco Nasdaq Technology ETF to suspend trading from market open on Aug 13, 2026; trading to resume at 10:30 on Aug 13, 2026."
+    },
+    {
+      "id": "5037560",
+      "time": "2026-08-12 18:58:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【景順長城基金：旗下部分基金參與宇樹科技首發網下申購】景順長城基金公告稱，旗下部分基金參與宇樹科技（交易程式碼688836.SH）首次公開發行股票並在科創板上市的網下申購，本次發行承銷商為旗下部分基金關聯方，發行價150.80元/股。其中，景順長城國證機器人產業ETF獲配4178股，金額630042.40元；景順長城中證科創創業人工智慧ETF獲配3175股，金額478790.00元。基金管理人提示投資風險。"
+    },
+    {
+      "id": "5037559",
+      "time": "2026-08-12 18:57:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰達股份：為二級子公司提供2億元融資擔保】泰達股份公告稱，公司二級子公司潤泰環保向交通銀行申請融資1.5億元，期限不超8個月，公司提供連帶責任保證；揚州泰達環保向經開保理申請融資5000萬元，期限不超12個月，公司控股子公司泰達環保提供連帶責任保證。本次擔保後，公司及控股子公司提供擔保餘額為91.62億元，佔公司最近一期經審計淨資產總額的169.26%。公司董事會認為風險可控，不存在損害公司利益的情形。"
+    },
+    {
+      "id": "5037558",
+      "time": "2026-08-12 18:57:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理工能科：2026年上半年營收4.20億元 淨利潤同比增9.59%】理工能科公告稱，2026年上半年，公司實現營業收入4.20億元，同比上升3.07%；歸屬於上市公司股東的淨利潤1.20億元，同比上升9.59%。軟體與資訊化業務實現營收2.15億元，同比增長13.44%；智慧儀器業務中，環保智慧儀器及運維與服務營收1.16億元，同比下降5.81%，電力智慧儀器及運維與服務營收0.89億元，同比下降6.08%。此外，公司擬以3.49億股為基數，向全體股東每10股派發現金紅利3.4元。"
+    },
     {
       "id": "5037557",
       "time": "2026-08-12 18:56:58",
@@ -33,6 +210,15 @@
         "國際"
       ],
       "text": "俄羅斯黑海新羅西斯克港市長表示，遭烏克蘭無人機襲擊破壞後，該市供水已暫停。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608123839296182",
+      "time": "2026-08-12 18:54:47",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：將繼續發揮民營企業再貸款的激勵作用 以市場化方式引導地方法人金融機構加大對民營企業的信貸投放】央行釋出2026年第二季度中國貨幣政策執行報告。報告指出，7月末，民營企業再貸款餘額約8000億元。下一步，中國人民銀行將繼續發揮民營企業再貸款的激勵作用，以市場化方式引導地方法人金融機構加大對民營企業的信貸投放，提升民營中小微企業融資可得性。"
     },
     {
       "id": "5037554",
@@ -137623,194 +137809,6 @@
         "其他"
       ],
       "text": "Phillips 66： 2026年第二季度煉油實際利潤率為每桶24.08美元。"
-    },
-    {
-      "id": "5026808",
-      "time": "2026-08-05 19:01:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Shopify美股盤前漲超10%】Shopify美股盤前漲超10%，現報135.99美元。"
-    },
-    {
-      "id": "5026807",
-      "time": "2026-08-05 19:01:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE‑100指數收盤上漲1.6%，報180093.90點。"
-    },
-    {
-      "id": "5026806",
-      "time": "2026-08-05 19:01:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "菲利普斯66公佈2026年第二季度煉油利用率為96%，清潔產品收率為86%。"
-    },
-    {
-      "id": "5026805",
-      "time": "2026-08-05 19:00:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Shopify第二季度營收35.8億美元，市場預期34.5億美元。"
-    },
-    {
-      "id": "5026804",
-      "time": "2026-08-05 19:00:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為全聯接大會2026將於9月17日-19日舉行】8月5日，華為中國宣佈，華為全聯接大會2026將於2026年9月17日-19日在上海舉行，主題為“智啟新未來”。"
-    },
-    {
-      "id": "5026803",
-      "time": "2026-08-05 19:00:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至7月31日當週MBA抵押貸款再融資活動指數 709.1，前值723.1。\n美國至7月31日當週MBA30年期固定抵押貸款利率 6.81%，前值6.76%。\n美國至7月31日當週MBA抵押貸款申請活動指數 240，前值247.2。\n美國至7月31日當週MBA抵押貸款購買指數 154，前值159.8。"
-    },
-    {
-      "id": "mkt:019fd194-c21e-7aab-8f89-f32041cdb836",
-      "time": "2026-08-05 19:00:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA 30-year fixed mortgage rate for week ended July 31 rose to 6.81% from 6.76% a week earlier (+5 bps)."
-    },
-    {
-      "id": "mkt:019fd194-b047-7aab-8f89-ee0fbea8f078",
-      "time": "2026-08-05 19:00:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. MBA mortgage purchase index for the week ended July 31 was 154, down from 159.8 the prior week."
-    },
-    {
-      "id": "mkt:019fd194-ad03-7aab-8f89-e5beb85cc17b",
-      "time": "2026-08-05 19:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US MBA mortgage refinance index for week ended July 31: 709.1, down from 723.1 the prior week."
-    },
-    {
-      "id": "mkt:019fd194-aca9-7aab-8f89-d9108220fb30",
-      "time": "2026-08-05 19:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage application index for the week ending July 31: 240 (prior 247.2)."
-    },
-    {
-      "id": "mkt:019fd194-8a40-7aab-8f89-d6ccb12d7383",
-      "time": "2026-08-05 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Jul.31) | actual 154 | previous 159.8"
-    },
-    {
-      "id": "mkt:019fd194-89ff-7aab-8f89-c103e4a075f6",
-      "time": "2026-08-05 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Jul.31) | actual 240 | previous 247.2"
-    },
-    {
-      "id": "mkt:019fd194-8a0c-7aab-8f89-cfb9cdf2db65",
-      "time": "2026-08-05 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Jul.31) | actual 6.81% | previous 6.76%"
-    },
-    {
-      "id": "mkt:019fd194-89e2-7aab-8f89-bd5737e18b51",
-      "time": "2026-08-05 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Jul.31) | actual 709.1 | previous 723.1"
-    },
-    {
-      "id": "5026802",
-      "time": "2026-08-05 18:59:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "卡普里控股有限公司下調年度收入預期後，其股價盤前下跌約7%。"
-    },
-    {
-      "id": "5026801",
-      "time": "2026-08-05 18:59:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東雷州通報“特殊教育學校教師招聘存在違規行為”：已啟動問責程式，副校長被停職】近日，網傳廣東省雷州市特殊教育學校有關人員在教師招聘中存在違規行為，引發社會廣泛關注。8月5日，廣東省雷州市教育局通報有關調查情況如下。經查，雷州市特殊教育學校在2026年公開招聘高中舞蹈組專業技術崗過程中，該校副校長高某受該校教師陳某林所託，違規向陳某林透露筆試第一名陳某冰的個人資訊，並透過微信聯絡陳某冰，以利益許諾勸其放棄後續考試。根據初步調查情況，雷州市教育局已啟動問責程式，對雷州市特殊教育學校副校長高某先作出停職處理，對涉事教師陳某林暫停其工作，同時暫停該校高中舞蹈組專業技術崗招聘所有流程。接下來，雷州市教育局將根據後續調查結果，秉持公平公正的原則，依法依規作出進一步的處理。"
-    },
-    {
-      "id": "te:markets:573028",
-      "time": "2026-08-05 18:59:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Uber earnings above expectations at 0.81 USD — Uber (UBER) released earnings per share at 0.81 USD, compared to market expectations of 0.80 USD."
-    },
-    {
-      "id": "5026800",
-      "time": "2026-08-05 18:59:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國東南部發生槍擊事件致6人受傷】法國東南部德龍省瓦朗斯市4日晚發生一起槍擊事件，造成6人受傷。槍擊事件發生在當地時間4日22時30分左右，一名蒙面男子從車內使用突擊步槍向人群開槍，隨後乘車逃離現場。槍擊造成6人受傷，其中2人傷勢嚴重。傷者年齡在15歲至22歲之間，已被送醫救治。警方在距案發現場數公里處發現一輛被焚燬的汽車，該車疑似與案件有關。目前，槍擊事件嫌疑人在逃，其身份及作案動機尚不清楚。警方已就案件展開調查。（新華社）"
-    },
-    {
-      "id": "te:markets:573027",
-      "time": "2026-08-05 18:59:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Namibia",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Namibia Hit 19-month High — NSX Overall increased to 2432.00 Index Points, the highest since December 2024. Over the past 4 weeks, Namibia Overall Index gained 3.64%, and in the last 12 months, it increased 38.04%."
-    },
-    {
-      "id": "5026799",
-      "time": "2026-08-05 18:58:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "優步盤前股價下跌3%，因公司公佈第三季度調整後每股收益預期低於市場預估。"
-    },
-    {
-      "id": "5026798",
-      "time": "2026-08-05 18:58:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "保誠股價下跌13%。"
     }
   ]
 }
