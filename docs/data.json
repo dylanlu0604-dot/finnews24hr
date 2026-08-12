@@ -1,7 +1,61 @@
 {
-  "updated": "2026-08-12 09:06:58",
-  "count": 15410,
+  "updated": "2026-08-12 09:10:50",
+  "count": 15409,
   "items": [
+    {
+      "id": "5036588",
+      "time": "2026-08-12 09:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國總統特朗普就土耳其境內換機一事以安全為由作出辯解】針對此前從土耳其返程航班相關提問，美國總統特朗普表示，是美國特勤局出於安全考慮，要求他換乘另一架飛機。特朗普在安德魯斯聯合基地向記者表示：“這件事完全由特勤局決定，我只遵從他們的安排。”“我推測當時出現了相關威脅，我並沒有過多追問細節。”"
+    },
+    {
+      "id": "mkt:019ff384-0405-7aab-8ffd-56f7222b4e6c",
+      "time": "2026-08-12 09:09:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Fuel oil most-active contract rose 4.00% intraday to 3,785 yuan/ton."
+    },
+    {
+      "id": "mkt:019ff383-e472-7aab-8ffd-4c8a293403c8",
+      "time": "2026-08-12 09:08:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose above $84 per barrel, up 0.93% on the day."
+    },
+    {
+      "id": "mkt:019ff382-e1e3-7aab-8ffd-46d23c598f57",
+      "time": "2026-08-12 09:07:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Trump weighs inflation-indexed capital gains cut ahead of midterms; market implications】Trump is considering capital gains relief ahead of the midterm elections, including inflation-indexing of capital gains and raising the home-sale exclusion (currently $250,000 individual / $500,000 married). Indexing would tax only real gains — e.g., a 50% nominal gain with 20% inflation taxed only on the residual real appreciation — effectively lowering the tax burden on long-term holdings of equities, real estate and businesses and likely supporting asset prices and trading activity. Larry Kudlow publicly promoted the idea in July. These are policy signals, not law: direct rate changes or expanded exclusions require congressional legislation, and any administrative inflation-indexing would face substantial legal challenge."
+    },
+    {
+      "id": "5036587",
+      "time": "2026-08-12 09:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭總理拉克森贏得國家黨的信任投票】紐西蘭總理拉克森表示，執政的國家黨在信任投票中支援他繼續擔任黨魁。拉克森週三在惠靈頓參加國家黨議員會議後宣佈了投票結果。這是拉克森四個月來第二次獲得黨團支援。四個月前，他曾主動發起並贏得一次信任投票，但此舉未能平息外界持續質疑他是否適合擔任總理的聲音。"
+    },
     {
       "id": "5036586",
       "time": "2026-08-12 09:04:34",
@@ -140310,58 +140364,6 @@
         "其他"
       ],
       "text": "【新款華為MateBook Fold今日釋出】 8月5日，華為新一代鴻蒙摺疊屏電腦全新華為MateBook Fold非凡大師將正式釋出。此前官方已披露，該機首次支援原生手寫筆功能，可實現純平書寫、分屏記錄等體驗。"
-    },
-    {
-      "id": "5025655",
-      "time": "2026-08-05 09:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國疾病控制和預防中心(CDC)已將已知最大規模的環孢子蟲病疫情範圍擴大至15個州，目前已有超過400人患病。"
-    },
-    {
-      "id": "5025654",
-      "time": "2026-08-05 09:09:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【曹操出行與大眾交通簽署戰略合作協議】8月3日，曹操出行與大眾交通簽署戰略合作協議。雙方將圍繞Robotaxi出行服務領域開展合作探索，依託各自在智慧駕駛技術、車輛運營管理與城市交通服務等方面的優勢，共同探索上海及長三角區域Robotaxi規模化運營新模式。"
-    },
-    {
-      "id": "5025653",
-      "time": "2026-08-05 09:09:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "北京市氣象臺2026年8月5日09時釋出高溫黃色預警訊號：預計8月5日至7日，每日12時至18時我市平原地區最高氣溫可達36℃左右，請注意防範。"
-    },
-    {
-      "id": "5025652",
-      "time": "2026-08-05 09:08:25",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛支援的生物科技公司Attovia在美國IPO中籌集2.89億美元】專注於高未滿足需求的免疫系統疾病領域的早期階段藥物開發商Attovia Therapeutics Inc.，在美國首次公開募股（IPO）中籌集了2.89億美元，發行價達到其定價區間的上限。 \n這家位於加利福尼亞州聖卡洛斯的生物技術公司週二早些時候擴大了融資規模，最終以每股17美元的價格出售了1700萬股股票。此前一份檔案顯示，該公司最初計劃以每股15至17美元的價格發行1250萬股股票。 \n按IPO價格計算，根據申報檔案中列出的已發行股份，Attovia的市值達到7.315億美元。Attovia 正在利用從 Alamar Biosciences Inc. 獲得許可的技術平臺和專利開發藥物。檔案顯示，截至 3 月 31 日，Attovia 已從包括高盛集團附屬公司、Deep Track Capital、Frazier Life Sciences 和 venBio 在內的投資者處籌集了 2.558 億美元資金。"
-    },
-    {
-      "id": "5025651",
-      "time": "2026-08-05 09:07:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2554.00元。"
-    },
-    {
-      "id": "5025650",
-      "time": "2026-08-05 09:07:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌3%，現報5728.00元。"
     }
   ]
 }

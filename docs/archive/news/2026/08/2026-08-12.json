@@ -1,7 +1,61 @@
 {
   "date": "2026-08-12",
-  "count": 630,
+  "count": 635,
   "items": [
+    {
+      "id": "5036588",
+      "time": "2026-08-12 09:09:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國總統特朗普就土耳其境內換機一事以安全為由作出辯解】針對此前從土耳其返程航班相關提問，美國總統特朗普表示，是美國特勤局出於安全考慮，要求他換乘另一架飛機。特朗普在安德魯斯聯合基地向記者表示：“這件事完全由特勤局決定，我只遵從他們的安排。”“我推測當時出現了相關威脅，我並沒有過多追問細節。”"
+    },
+    {
+      "id": "mkt:019ff384-0405-7aab-8ffd-56f7222b4e6c",
+      "time": "2026-08-12 09:09:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Fuel oil most-active contract rose 4.00% intraday to 3,785 yuan/ton."
+    },
+    {
+      "id": "mkt:019ff383-e472-7aab-8ffd-4c8a293403c8",
+      "time": "2026-08-12 09:08:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures rose above $84 per barrel, up 0.93% on the day."
+    },
+    {
+      "id": "mkt:019ff382-e1e3-7aab-8ffd-46d23c598f57",
+      "time": "2026-08-12 09:07:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "【Trump weighs inflation-indexed capital gains cut ahead of midterms; market implications】Trump is considering capital gains relief ahead of the midterm elections, including inflation-indexing of capital gains and raising the home-sale exclusion (currently $250,000 individual / $500,000 married). Indexing would tax only real gains — e.g., a 50% nominal gain with 20% inflation taxed only on the residual real appreciation — effectively lowering the tax burden on long-term holdings of equities, real estate and businesses and likely supporting asset prices and trading activity. Larry Kudlow publicly promoted the idea in July. These are policy signals, not law: direct rate changes or expanded exclusions require congressional legislation, and any administrative inflation-indexing would face substantial legal challenge."
+    },
+    {
+      "id": "5036587",
+      "time": "2026-08-12 09:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭總理拉克森贏得國家黨的信任投票】紐西蘭總理拉克森表示，執政的國家黨在信任投票中支援他繼續擔任黨魁。拉克森週三在惠靈頓參加國家黨議員會議後宣佈了投票結果。這是拉克森四個月來第二次獲得黨團支援。四個月前，他曾主動發起並贏得一次信任投票，但此舉未能平息外界持續質疑他是否適合擔任總理的聲音。"
+    },
     {
       "id": "5036586",
       "time": "2026-08-12 09:04:34",
