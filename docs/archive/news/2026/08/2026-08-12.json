@@ -1,7 +1,23 @@
 {
   "date": "2026-08-12",
-  "count": 2723,
+  "count": 2725,
   "items": [
+    {
+      "id": "mkt:019ff680-6404-7aab-9010-12d35e6d810e",
+      "time": "2026-08-12 23:03:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump was indicted over plans to sell expedited access to posts on his social-media platform Truth Social."
+    },
+    {
+      "id": "5037993",
+      "time": "2026-08-12 23:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普因計劃出售真相社交帖子的優先快速訪問許可權遭起訴。"
+    },
     {
       "id": "mkt:019ff67d-b984-7aab-9010-08c87d7294fa",
       "time": "2026-08-12 23:01:02",
