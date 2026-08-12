@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-12 14:44:07",
-  "count": 15227,
+  "updated": "2026-08-12 14:48:13",
+  "count": 15218,
   "items": [
+    {
+      "id": "5037003",
+      "time": "2026-08-12 14:46:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報65.95美元/盎司。"
+    },
+    {
+      "id": "mkt:019ff4b8-b0ca-7aab-9002-3dde311489e0",
+      "time": "2026-08-12 14:46:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver main contract intraday gain widened to 2.00%, trading at 16,179.00 yuan/kg."
+    },
+    {
+      "id": "5037002",
+      "time": "2026-08-12 14:45:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1802億元。"
+    },
+    {
+      "id": "5037001",
+      "time": "2026-08-12 14:45:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲2%，現報16179.00元。"
+    },
+    {
+      "id": "5037000",
+      "time": "2026-08-12 14:45:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【大韓航空董事會批准與韓亞航空合併，12月將正式完成整合】大韓航空8月12日在韓國交易所公告稱，以董事會決議代替股東大會決議，批准與韓亞航空合併。韓亞航空當日稍早召開臨時股東大會，表決透過與大韓航空合併案。今年12月17日，兩家公司將正式完成合並，結束長達五年多的合併程序。"
+    },
+    {
+      "id": "mkt:019ff4b7-e235-7aab-9002-35039f857b23",
+      "time": "2026-08-12 14:45:19",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "Market Themes",
+        "AI Revolution",
+        "NET",
+        "Impact bullish",
+        "PLTR",
+        "DDOG"
+      ],
+      "text": "【Goldman Sachs: software stocks begin to realize AI gains】Goldman Sachs TMT trader Peter Callahan says the post-earnings AI narrative within software is shifting: fears that generative AI would erode traditional software moats are yielding to a view that data infrastructure and developer-tools vendors are moving from an AI headwind to a tailwind. Cloudflare, Palantir, Datadog, Twilio and Atlassian have drawn greater investor attention; traditional SaaS application vendors still need to prove clear AI benefit. Callahan notes AI commercialisation is extending from model training into inference, agents and automation. Cloudflare disclosed non‑human traffic now exceeds human traffic and said machine‑generated requests should grow rapidly if current trends persist. That suggests AI can be demand‑accretive for platforms that carry data, APIs, network traffic, security and developer tools, since more agents and higher call frequency can create direct revenue opportunities. Software is therefore bifurcating: AI upside increasingly depends on whether a company sits at the application layer or the infrastructure layer and on its ability to monetise AI traffic."
+    },
+    {
+      "id": "5036999",
+      "time": "2026-08-12 14:45:18",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持藏格礦業“買入”評級，鉀鋰盈利彈性釋放】東吳證券研報指出，藏格礦業銅礦投資收益大增，鉀鋰盈利彈性釋放。公司26H1歸母淨利36.4億元，同比+102%，其中26Q2歸母淨利20.6億元，同環比+96%/+31％，業績位於此前預告中值，符合市場預期。26年全年看，巨龍銅業二期20萬噸/日採選產能持續爬坡，全年銅銷量指引30-31萬噸，同增57%，預計26年有望貢獻55億元+投資收益。鋰價上行彈性明顯、麻米措投產貢獻增量。鉀肥價格高位、貢獻穩定利潤。考慮到碳酸鋰價格波動，下調2026-2028年歸母淨利潤預期至77/92/94億元（原預期80/96/100億元），同比+101%/+19%/+2%，對應PE為18/15/15x，考慮公司銅礦投資收益大增+鉀鋰盈利彈性釋放，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:019ff4b7-db65-7aab-9002-2d7751e49ed4",
+      "time": "2026-08-12 14:45:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York silver futures rose to $66/oz, up 1.76% on the day."
+    },
+    {
+      "id": "5036998",
+      "time": "2026-08-12 14:45:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【PCB概念震盪拉昇 景旺電子5天3板】PCB概念盤中震盪拉昇，景旺電子5天3板，此前寶鼎科技7天6板，金祿電子、菲利華、生益科技、德福科技、鵬鼎控股等漲幅靠前。訊息面上，臻鼎董事長沈慶芳表示，1.6T光模組板需求持續升溫，客戶已開始預訂2027年產能；3.2T產品已進入打樣階段。公司未來三年新開出的高階產能，均已與核心客戶完成產能繫結，部分高階產品甚至取得客戶預付款及專案款，相關能見度已延伸至2029年。"
+    },
+    {
+      "id": "5036997",
+      "time": "2026-08-12 14:45:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破66美元/盎司，日內漲1.64%。"
+    },
+    {
+      "id": "5036996",
+      "time": "2026-08-12 14:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴基斯坦：仍致力於解決中東危機。"
+    },
+    {
+      "id": "5036995",
+      "time": "2026-08-12 14:44:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩： 討論了為落實華盛頓黎巴嫩-美國-以色列談判所達成框架協議所需採取的必要程式】黎巴嫩總統府：‘約瑟夫·奧恩總統在黎巴嫩美國大使米歇爾·伊薩和克魯菲爾德將軍的幾名助手出席的情況下，接見了黎巴嫩軍事協調小組（MCG4L）負責人、克魯菲爾德將軍。 在會晤期間，他們討論了為落實華盛頓黎巴嫩-美國-以色列談判所達成框架協議所需採取的必要程式，此次討論基於克魯菲爾德將軍上週在以色列進行的會談。’"
+    },
     {
       "id": "5036994",
       "time": "2026-08-12 14:43:18",
@@ -9,6 +126,14 @@
         "其他"
       ],
       "text": "【上海錦江樂園新摩天輪已開工建設，高度118米2027年底竣工】記者從上海錦江樂園獲悉，錦江樂園118米摩天輪專案開工儀式近日舉行，這標誌著專案正式進入建設階段，預計2027年年底正式煥新啟幕。（澎湃新聞）"
+    },
+    {
+      "id": "5036993",
+      "time": "2026-08-12 14:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源部長：海灣石油出口已接近戰前水平】作為全球能源運輸的咽喉要道，霍爾木茲海峽的通行過去幾個月因美伊衝突受到嚴重擾亂，供需失衡導致能源價格飆升。然而，根據美國能源部長克里斯·賴特（Chris Wright）的最新說法，波斯灣地區的石油出口量已恢復到戰前水平，僅霍爾木茲海峽的原油出口量就達到了七天平均每天近900萬桶。如果這些數字準確的話，就表明儘管伊朗設定了障礙，美國仍然能夠維持透過海峽的大宗石油貿易，但賴特的估計遠遠超過了任何其他主要油輪運輸追蹤機構或能源分析師的估計。“得益於美國軍方和海灣盟友的協調努力，目前霍爾木茲海峽的石油七日日均輸油量已接近900萬桶，”賴特週二在社交媒體上發帖稱：“加上每天透過新升級的管道和出口設施輸送的500萬至700萬桶石油，目前該地區的石油總流量平均約為每天1500萬桶。”"
     },
     {
       "id": "5036992",
@@ -138457,219 +138582,6 @@
         "MKT News"
       ],
       "text": "【Unification Ministry proposes dropping 'main enemy' term for North Korea; South Korea's Lee says issue disputed】South Korea's Ministry of Unification on the 5th proposed a \"Korean Peninsula Peaceful Coexistence and Development\" plan that, as a first step, urges both sides to address one another by name and replace wording such as \"main enemy.\" South Korea's President Lee said the proposal remains disputed."
-    },
-    {
-      "id": "5026176",
-      "time": "2026-08-05 14:48:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉：流動性過剩或僅為短期態勢，峰值或將出現在9月前後。"
-    },
-    {
-      "id": "mkt:019fd0ad-f728-7aab-8f83-a22c0a90f2c5",
-      "time": "2026-08-05 14:48:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Dongfang Space launches IPO preparatory work】In 2026 Dongfang Space raised several hundred million yuan in a Pre‑C round to fund development and production of the Yinli‑2 large liquid reusable rocket. The company is nearing completion of a C round and has begun IPO advisory/preparatory work."
-    },
-    {
-      "id": "5026175",
-      "time": "2026-08-05 14:47:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東方空間：已啟動IPO輔導準備工作】東方空間2026年融資動作頻繁。此前，東方空間獲同創偉業、上海科創、中航弘華、元佑瑞澤等知名專業投資機構數億元Pre-C輪融資，所融資金將用於“引力二號”大型液體可回收火箭的研發和生產。據悉，東方空間即將完成C輪融資，並已啟動IPO輔導準備工作。"
-    },
-    {
-      "id": "5026174",
-      "time": "2026-08-05 14:47:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行行長馬爾霍特拉：預計利率制定規則不會發生重大變動。"
-    },
-    {
-      "id": "te:markets:572881",
-      "time": "2026-08-05 14:47:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Finishes at Record High on Global Boost — The ASX 200 rose 82 points, or 0.9%, to end at a record high of 9,228 on Wednesday, marking its fourth session of gains. Sentiment was buoyed by a sharp rise in U.S. futures after Wall Street’s record close Tuesday, as hopes for a diplomatic resolution to the war in Iran drove oil lower for a third day and pulled global bond yields down. Meanwhile, July services activity in Australia showed its strongest growth in six months. However, strength was capped by softer growth in manufacturing and services sectors in China, Australia's largest trading partner. Traders also stayed cautious ahead of trade data from both economies later this week. Sector gains were broad, led by non-energy minerals, tech, manufacturing, and healthcare. BHP and Rio Tinto rose 3.3% and 2.3% on copper revenue, while gold producers rallied with bullion, lifting Evolution Mining (6.3%) and Northern Star Resources (5.8%). In contrast, the big four banks slipped between 0.4% and 1.4%, and energy stocks also slipped."
-    },
-    {
-      "id": "5026173",
-      "time": "2026-08-05 14:47:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "西門子能源執行長：目前來看，組建大型泛歐洲風力渦輪機集團的必要條件尚不具備。"
-    },
-    {
-      "id": "mkt:019fd0ac-f334-7aab-8f83-9c44786a6c7f",
-      "time": "2026-08-05 14:47:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said proposed lending-rate rules aim to harmonize regulatory requirements across agencies."
-    },
-    {
-      "id": "5026172",
-      "time": "2026-08-05 14:46:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國統一部建議修改對朝稱呼 李在明稱仍有爭議】韓國統一部5日提出“朝鮮半島和平共存發展構想”，以“彼此直呼對方名稱”作為實現半島和平共存的第一步，並以其他表述取代“主敵”等用語。韓國總統李在明則指出，此事仍有爭議。據韓媒報道，所謂“彼此直呼對方名稱”，是指以朝鮮正式國名“朝鮮民主主義人民共和國”來取代目前韓國使用的“北韓”稱謂。針對該提議，李在明認為“這是一個仍存爭議的問題”，善意能否真正產生善意的效果，很大程度上會受到客觀形勢的影響。（新華社）"
-    },
-    {
-      "id": "mkt:019fd0ac-11f2-7aab-8f83-9683125f2fe1",
-      "time": "2026-08-05 14:46:05",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France June manufacturing output YoY -1.7% vs 2.5% prior."
-    },
-    {
-      "id": "5026171",
-      "time": "2026-08-05 14:45:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電機板塊走高，中電電機漲停】電機板塊走高，中電電機漲停，三協電機、華新精科、晨光電機、華陽智慧、八方股份等跟漲。"
-    },
-    {
-      "id": "mkt:019fd0ab-f5e0-7aab-8f83-8d08fd949275",
-      "time": "2026-08-05 14:45:58",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "France June manufacturing output m/m -1.1%; prior -1.0%."
-    },
-    {
-      "id": "mkt:019fd0ab-f4b8-7aab-8f83-82c87537ad84",
-      "time": "2026-08-05 14:45:57",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Manufacturing Production (YoY) (Jun) | actual -1.7% | previous 2.50%"
-    },
-    {
-      "id": "mkt:019fd0ab-db31-7aab-8f83-786280faa59f",
-      "time": "2026-08-05 14:45:51",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Manufacturing Production (MoM) (Jun) | actual -1.1% | previous -1.00%"
-    },
-    {
-      "id": "mkt:019fd0ab-d29d-7aab-8f83-7558a9515356",
-      "time": "2026-08-05 14:45:49",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "France June industrial production YoY -0.1% vs prior 3.2%."
-    },
-    {
-      "id": "mkt:019fd0ab-b83d-7aab-8f83-6ecfd2b52fde",
-      "time": "2026-08-05 14:45:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Industrial Production (YoY) (Jun) | actual -0.1% | previous 3.20%"
-    },
-    {
-      "id": "5026170",
-      "time": "2026-08-05 14:45:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量4259億元。"
-    },
-    {
-      "id": "5026169",
-      "time": "2026-08-05 14:45:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "國泰航空首席財務官表示，旗下廉航品牌香港快運更易受到高油價衝擊。"
-    },
-    {
-      "id": "te:markets:572880",
-      "time": "2026-08-05 14:45:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Milk Hits 11-week High — Milk increased to 16.96 USD/CWT, the highest since May 2026. Over the past 4 weeks, Milk gained 0.32%, and in the last 12 months, it decreased 10.12%."
-    },
-    {
-      "id": "5026167",
-      "time": "2026-08-05 14:45:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國6月工業產出同比 -0.1%，預期 0.6%，前值 3.2%。\n法國6月工業產出環比 0.1%，預期 0.3%，前值 -0.1%。\n法國6月製造業產出環比 -1.1%，前值 -1%。\n法國6月製造業產出同比 -1.7%，前值 2.5%。"
-    },
-    {
-      "id": "mkt:019fd0ab-3786-7aab-8f83-6660cea40e01",
-      "time": "2026-08-05 14:45:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "France June industrial production MoM 0.1% vs expected 0.3%; May -0.1%."
-    },
-    {
-      "id": "mkt:019fd0ab-1375-7aab-8f83-5f990ed10de0",
-      "time": "2026-08-05 14:45:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "France | Industrial Production (MoM) (Jun) | actual 0.1% | consensus 0.3% | previous -0.10%"
-    },
-    {
-      "id": "5026166",
-      "time": "2026-08-05 14:44:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "針對西門子能源執行長被問及工業部門是否可能分拆或轉型一事，他表示：“我們正在內部討論該部門的未來發展。”"
     }
   ]
 }
