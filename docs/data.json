@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-12 12:35:14",
-  "count": 15293,
+  "updated": "2026-08-12 12:39:13",
+  "count": 15282,
   "items": [
+    {
+      "id": "5036853",
+      "time": "2026-08-12 12:37:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【辰欣藥業等成立生物科技公司】企查查APP顯示，近日，濟寧辰啟生物科技有限公司成立，法定代表人為房慶賀，經營範圍包含食品網際網路銷售（僅銷售預包裝食品）；保健食品（預包裝）銷售；母嬰用品銷售；日用百貨銷售等。企查查股權穿透顯示，該公司由山東青蘅健康管理有限公司、辰欣藥業等共同持股。"
+    },
+    {
+      "id": "5036852",
+      "time": "2026-08-12 12:37:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【野村將開始在新加坡為富裕客戶提供實物黃金交易服務】野村控股的國際財富管理部門正在新加坡為其富裕客戶設立實物黃金交易和託管服務，此舉將有助於該國追求將自己打造為一個黃金樞紐的願景。野村週三釋出宣告稱，交易和託管服務將完全在新加坡開展，客戶可獲取大型金條以及公斤金條。這些大型金條重約400金衡盎司，是國際貿易結算的全球基準；公斤金條則是亞洲各個市場青睞的規格。“黃金已重新成為財富管理的一個基石，”野村國際財富管理投資產品及諮詢解決方案主管Akshay Prasad在宣告中表示。"
+    },
+    {
+      "id": "5036851",
+      "time": "2026-08-12 12:36:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安靠智電：公司暫未與東方電氣集團合作】安靠智電(300617)8月12日在互動平臺表示，公司暫未與東方電氣集團合作。"
+    },
+    {
+      "id": "5036850",
+      "time": "2026-08-12 12:35:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Omdia：AI需求激增 2026年半導體市場增幅上調至94.1%】Omdia發文稱，由於AI需求持續超過全球供應能力，推動DRAM和NAND市場實現強勁增長，Omdia將2026年全球半導體市場營收增長預測上調至同比增長94.1%。預計2026年儲存器晶片（Memory IC）收入將佔全球半導體總營收的50%以上。與此同時，AI需求已超出當前半導體產業的晶片製造和封裝能力，高頻寬記憶體（HBM）、先進封裝以及先進製程產能等關鍵環節的瓶頸預計至少將持續至2027年。"
+    },
     {
       "id": "te:economy:574612",
       "time": "2026-08-12 12:34:35",
@@ -139124,142 +139156,6 @@
         "Emerging Markets"
       ],
       "text": "Reserve Bank of India governor said core inflation remains moderate despite rising prices."
-    },
-    {
-      "id": "5025991",
-      "time": "2026-08-05 12:38:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：季風不均衡令農業前景蒙上陰影。"
-    },
-    {
-      "id": "5025990",
-      "time": "2026-08-05 12:38:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行：製造業表現良好。農業前景不明朗。"
-    },
-    {
-      "id": "mkt:019fd037-42cb-7aab-8f80-bf7836ec6b4f",
-      "time": "2026-08-05 12:38:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reserve Bank of India governor said services exports growth remains sustained; the Indian economy outperformed expectations in Q1 FY2026."
-    },
-    {
-      "id": "mkt:019fd036-bb3b-7aab-8f80-b3b94ba4e23c",
-      "time": "2026-08-05 12:37:55",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Reserve Bank of India governor says fuel and food prices will continue to push inf."
-    },
-    {
-      "id": "mkt:019fd036-b4ad-7aab-8f80-afa7f1ee79a6",
-      "time": "2026-08-05 12:37:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says investment activity remains stable."
-    },
-    {
-      "id": "mkt:019fd036-7dfe-7aab-8f80-a41cf55f0a2c",
-      "time": "2026-08-05 12:37:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said domestic economic activity has shown resilience."
-    },
-    {
-      "id": "5025989",
-      "time": "2026-08-05 12:37:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【一櫃難求 區域網交易線路關閉 “近交易所”機房租金暴漲】隨著交易所關閉機房內原有區域網交易線路，將交易行情接入方式統一變更為廣域網，一場“近交易所”機房爭奪戰正悄然進行。“目前金橋（上交所金橋資料中心）周圍，標準4000瓦機櫃每個月要1萬左右，之前大概7000一個月，今年3、4月份就已經‘限售’了。”從一位從事機房租賃業務的人士處瞭解到，目前上交所附近的機房“一櫃難求”，相較之前價格大幅上漲。這一說法也得到多家量化機構的證實。“有的租賃價格翻了幾倍。”一位量化私募機構人士告訴記者，儘管不能進交易所機房，但靠近交易所資料中心對速度提升仍有幫助。 (第一財經)"
-    },
-    {
-      "id": "mkt:019fd035-fb80-7aab-8f80-9a0c940c6772",
-      "time": "2026-08-05 12:37:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Indian rupee weakens versus the US dollar after the Reserve Bank of India left its policy rate unchanged."
-    },
-    {
-      "id": "5025988",
-      "time": "2026-08-05 12:36:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：西亞衝突帶來的供給側壓力已有所緩解。"
-    },
-    {
-      "id": "5025987",
-      "time": "2026-08-05 12:36:46",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【財政部在香港成功發行2026年第四期150億元人民幣國債】8月5日，中華人民共和國財政部在香港特別行政區，面向機構投資者招標發行2026年第四期150億元人民幣國債，受到投資者廣泛歡迎，認購倍數4.67倍。其中，2年期50億元，發行利率1.27%；3年期40億元，發行利率1.30%；5年期40億元，發行利率1.43%；15年期10億元，發行利率1.99%；30年期10億元，發行利率2.24%。"
-    },
-    {
-      "id": "mkt:019fd035-4306-7aab-8f80-96590504d12f",
-      "time": "2026-08-05 12:36:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Exchanges close LAN trading circuits; colocation rents spike near SSE data center】Chinese exchanges have closed in‑machine‑room LAN trading circuits and standardized market access via wide‑area networks, triggering a scramble for colocation space adjacent to exchange data centers. Near the Shanghai Stock Exchange's Jin Qiao data center, standard 4,000‑watt racks are being quoted at about 10,000 yuan/month, up from roughly 7,000 yuan previously; availability tightened and allocations were already limited in March–April. Multiple quantitative firms report rack rates have risen severalfold. Firms say proximity to the exchange data center still yields latency benefits even without direct access to exchange machine rooms."
-    },
-    {
-      "id": "5025986",
-      "time": "2026-08-05 12:36:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【印度對該國商船在紅海遭襲事件表示強烈譴責】當地時間8月4日上午，一艘懸掛印度國旗的民用貨船在紅海航行途中遭襲，船隻隨後完全沉沒。印度外交部當晚發表宣告對相關襲擊表示強烈譴責，並表示船隻上所有印度人均已安全獲救。印度外交部感謝葉門政府在營救印度公民方面提供的支援，並表示：“所有13名印度公民均已獲救。我方駐利雅得大使館正密切關注局勢，並積極與葉門當局協調，以確保船員的安全。”宣告還補充說：“該地區商船遇襲事件不斷髮生，令人深感擔憂。”"
-    },
-    {
-      "id": "mkt:019fd034-d20b-7aab-8f80-8c382f2b4ddc",
-      "time": "2026-08-05 12:35:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Reserve Bank of India governor said policymakers need a clearer read on inf before taking policy action."
-    },
-    {
-      "id": "mkt:019fd034-8572-7aab-8f80-8172e695b0cc",
-      "time": "2026-08-05 12:35:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said overall inflation is expected to rise, but the increase is mainly due to supply-side pressures."
-    },
-    {
-      "id": "5025985",
-      "time": "2026-08-05 12:35:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：通脹高企主要由燃料、食品價格上漲推動，迄今幾乎沒有跡象顯示價格壓力已普遍蔓延。整體通脹預計將於今年第三季度見頂，此後將趨緩。貨幣政策委員會（MPC）指出，儘管整體通脹預計將上升，但這主要源於供給側壓力。"
     }
   ]
 }
