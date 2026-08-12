@@ -1,7 +1,49 @@
 {
   "date": "2026-08-12",
-  "count": 2761,
+  "count": 2765,
   "items": [
+    {
+      "id": "mkt:019ff69e-8aae-7aab-9010-b02450b0f012",
+      "time": "2026-08-12 23:36:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed on Wednesday Aug 12: Germany's DAX fell 53.75 points (-0.20%) to 26,341.62; the UK's FTSE 100 dropped 7.55 points (-0.07%) to 10,836.64; France's CAC 40 slid 40.00 points (-0.46%) to 8,674.94; the Euro STOXX 50 lost 15.87 points (-0.24%) to 6,535.35; Spain's IBEX 35 eased 8.44 points (-0.04%) to 20,205.16; Italy's FTSE MIB was essentially flat, up 0.79 points (0.00%) at 53,707.00."
+    },
+    {
+      "id": "mkt:019ff69e-32d0-7aab-9010-af3291abffea",
+      "time": "2026-08-12 23:36:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRGC commander Nakdi said Iran has endured 73 years of US attacks, withstood the pressure, remained united and preserved its territorial integrity, preventing the enemy from achieving its objectives."
+    },
+    {
+      "id": "mkt:019ff69d-b583-7aab-9010-a4f41165a0b8",
+      "time": "2026-08-12 23:35:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps commander Naghdi said the US military is weaker than previously thought."
+    },
+    {
+      "id": "5038013",
+      "time": "2026-08-12 23:35:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至8月12日4個月國債競拍-投標倍數 3.16，前值3.19。\n美國至8月12日4個月國債競拍-得標利率配置百分比 9.14%，前值94.66%。\n美國至8月12日4個月國債競拍-得標利率 3.755%，前值3.79%。"
+    },
     {
       "id": "mkt:019ff69b-f2db-7aab-9010-9938bffbdb03",
       "time": "2026-08-12 23:34:03",

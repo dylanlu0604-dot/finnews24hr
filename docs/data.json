@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-12 23:34:54",
-  "count": 15138,
+  "updated": "2026-08-12 23:38:57",
+  "count": 15136,
   "items": [
+    {
+      "id": "mkt:019ff69e-8aae-7aab-9010-b02450b0f012",
+      "time": "2026-08-12 23:36:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities closed on Wednesday Aug 12: Germany's DAX fell 53.75 points (-0.20%) to 26,341.62; the UK's FTSE 100 dropped 7.55 points (-0.07%) to 10,836.64; France's CAC 40 slid 40.00 points (-0.46%) to 8,674.94; the Euro STOXX 50 lost 15.87 points (-0.24%) to 6,535.35; Spain's IBEX 35 eased 8.44 points (-0.04%) to 20,205.16; Italy's FTSE MIB was essentially flat, up 0.79 points (0.00%) at 53,707.00."
+    },
+    {
+      "id": "mkt:019ff69e-32d0-7aab-9010-af3291abffea",
+      "time": "2026-08-12 23:36:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "IRGC commander Nakdi said Iran has endured 73 years of US attacks, withstood the pressure, remained united and preserved its territorial integrity, preventing the enemy from achieving its objectives."
+    },
+    {
+      "id": "mkt:019ff69d-b583-7aab-9010-a4f41165a0b8",
+      "time": "2026-08-12 23:35:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps commander Naghdi said the US military is weaker than previously thought."
+    },
+    {
+      "id": "5038013",
+      "time": "2026-08-12 23:35:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國至8月12日4個月國債競拍-投標倍數 3.16，前值3.19。\n美國至8月12日4個月國債競拍-得標利率配置百分比 9.14%，前值94.66%。\n美國至8月12日4個月國債競拍-得標利率 3.755%，前值3.79%。"
+    },
     {
       "id": "mkt:019ff69b-f2db-7aab-9010-9938bffbdb03",
       "time": "2026-08-12 23:34:03",
@@ -138086,55 +138128,6 @@
         "市場"
       ],
       "text": "湯森路透股價在公佈第二季度業績和展望後下跌5.7%。"
-    },
-    {
-      "id": "5027318",
-      "time": "2026-08-05 23:38:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "海灣國家高階官員：伊朗有望在週五前達成霍爾木茲海峽相關協議，但成敗機率各佔50%。"
-    },
-    {
-      "id": "5027317",
-      "time": "2026-08-05 23:37:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【空管操作疏漏，特朗普專機與民航客機近距離相遇，FAA介入核查】美國聯邦航空管理局（FAA）正在調查一起安全事件。在華盛頓羅納德·里根國家機場上空，特朗普總統的“陸戰隊一號”直升機，與一架正要起飛的恩沃伊航空客運飛機的距離，小於聯邦航空管理局規章所允許的安全間隔。據報道，事故誘因是空管人員在陸戰隊一號起飛時，未能叫停民航航班的離場流程。"
-    },
-    {
-      "id": "5027316",
-      "time": "2026-08-05 23:36:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部警告：儘管伊朗與阿曼已達成共識，但美國方面的行動仍有可能破壞霍爾木茲海峽的安全。"
-    },
-    {
-      "id": "mkt:019fd290-a102-7aab-8f90-7461f40c4989",
-      "time": "2026-08-05 23:35:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli sources said the response to HEZBOLLAH's serious breach of the agreement is not yet concluded."
-    },
-    {
-      "id": "5027315",
-      "time": "2026-08-05 23:35:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列訊息人士：針對真主黨嚴重挑釁行為的反擊尚未結束。"
-    },
-    {
-      "id": "5027314",
-      "time": "2026-08-05 23:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟將於8月底對巴西禽肉進口開展審查】歐盟委員會發言人埃娃·赫爾恩奇羅娃郵件宣告顯示，歐盟委員會將於8月底針對巴西禽肉與蜂蜜產品開展現場核查。若核查結果合格，巴西上述產品有望獲准出口歐盟。歐盟委員會表示，本次核查不涵蓋兩類商品：一是核查階段巴西無法提供動物全生命週期合規擔保的品類，包括牛肉與雞蛋；二是事實上未獲得歐盟出口許可的品類，如水產品。巴西必須保證出口產品對應的動物，在完整飼養週期內均遵守歐盟抗菌藥物使用相關規定。核查報告將在數週後出具。"
     }
   ]
 }
