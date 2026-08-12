@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-12 12:43:09",
-  "count": 15270,
+  "updated": "2026-08-12 12:47:01",
+  "count": 15262,
   "items": [
+    {
+      "id": "5036856",
+      "time": "2026-08-12 12:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "利比亞電力：扎維亞發電廠遇襲導致停電。"
+    },
+    {
+      "id": "5036855",
+      "time": "2026-08-12 12:42:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞國家通訊社報道，馬來西亞總理手術後預計將出院。"
+    },
+    {
+      "id": "5036854",
+      "time": "2026-08-12 12:42:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【州長：數百架無人機襲擊俄羅斯南部港口城市】克拉斯諾達爾邊疆區州長韋尼亞明·孔德拉季耶夫在社交媒體上表示，數百架烏克蘭無人機夜間襲擊了俄羅斯克拉斯諾達爾邊疆區，其中包括新羅西斯克、阿納帕、格連吉克和捷姆留克區。21棟居民樓和4家商鋪被無人機碎片擊中。他沒有提供更多關於受影響商鋪的資訊。注：新羅西斯克是俄羅斯最大的黑海石油出口樞紐，擁有俄羅斯石油管道運輸公司（Transneft）的輸油管道終端和CPC的海運碼頭；捷姆留克區包括塔曼港的糧食和石油碼頭。"
+    },
     {
       "id": "mkt:019ff447-6fee-7aab-9000-9878dbe986a8",
       "time": "2026-08-12 12:42:30",
@@ -138963,95 +138988,6 @@
         "MKT News"
       ],
       "text": "RESERVE BANK OF INDIA governor says core inf expected at 4.3%."
-    },
-    {
-      "id": "5026005",
-      "time": "2026-08-05 12:46:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "大華銀行：出售大華銀行資產管理業務。"
-    },
-    {
-      "id": "mkt:019fd03f-0046-7aab-8f81-17a453288178",
-      "time": "2026-08-05 12:46:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor said banking-system parameters are healthy."
-    },
-    {
-      "id": "5026004",
-      "time": "2026-08-05 12:46:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：印度儲備銀行將主動確保銀行體系流動性充足。印度銀行業的系統性指標執行穩健，非銀行金融公司的體系層面指標穩健。"
-    },
-    {
-      "id": "mkt:019fd03d-c641-7aab-8f81-0db46ce24628",
-      "time": "2026-08-05 12:45:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Indonesia Q2 GDP 5.29% YoY, tops median estimate of 5.14%】Statistics Indonesia reported Q2 GDP rose 5.29% YoY, above economists’ median forecast of 5.14% but below Q1’s 5.61%. Strong household consumption and investment underpinned growth amid a challenging external backdrop. Statistics Indonesia deputy head Edi Mahmud said all sectors except mining expanded. Manufacturing, agriculture, trade, construction and mining together account for 64% of GDP. The rupiah strengthened about 0.6%, while Indonesian equities and 10-year government bonds held earlier gains."
-    },
-    {
-      "id": "mkt:019fd03d-b13b-7aab-8f81-06683c562849",
-      "time": "2026-08-05 12:45:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Reserve Bank of India governor says the central bank will ensure adequate liquidity in the banking system."
-    },
-    {
-      "id": "5026003",
-      "time": "2026-08-05 12:45:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：5-6月信貸市場傳導效應有所減弱。"
-    },
-    {
-      "id": "5026002",
-      "time": "2026-08-05 12:44:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：儘管存在風險，印度本年度實際GDP增速預測仍上調至6.7%。"
-    },
-    {
-      "id": "5026001",
-      "time": "2026-08-05 12:44:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：本財年剔除貴金屬後的核心通脹預計將有所下降。"
-    },
-    {
-      "id": "5026000",
-      "time": "2026-08-05 12:43:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：2027財年核心通脹預期為4.3%（此前預期為4.7%）。"
-    },
-    {
-      "id": "5025999",
-      "time": "2026-08-05 12:43:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：27財年第二季度消費者物價指數通脹預估為4.7%，此前預估為5.1%；27財年第三季度消費者物價指數通脹預計為5.9%（此前預期同為5.9%）。"
-    },
-    {
-      "id": "5025998",
-      "time": "2026-08-05 12:43:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度儲備銀行行長：2027財年消費者物價指數通脹預期為5%，此前預期為5.1%。"
     }
   ]
 }
