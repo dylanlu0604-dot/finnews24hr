@@ -1,7 +1,33 @@
 {
   "date": "2026-08-13",
-  "count": 106,
+  "count": 108,
   "items": [
+    {
+      "id": "te:markets:574820",
+      "time": "2026-08-13 02:20:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.25% — Top commodity gainers are Lithium Carbonate (2.25%), Silver (1.18%), Platinum (0.87%) and Gold (0.86%). Biggest loser is Aluminum Alloy (-0.66%)."
+    },
+    {
+      "id": "mkt:019ff733-b536-7aab-9012-6243fa01f504",
+      "time": "2026-08-13 02:19:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【U.S. July budget deficit surges to highest monthly since March 2021】The U.S. Treasury reported Wednesday that the July budget deficit surged to $432.3bn, the largest monthly shortfall since March 2021 and a record for July. For the first 10 months of FY26 the cumulative deficit is nearly $1.8tn, exceeding the same period in FY25. July Medicare outlays rose to $174.0bn from $103.0bn in June, taking year-to-date Medicare spending to $955.0bn. July’s largest single outlay exceeded Social Security payments of $141.0bn and net interest on the federal debt of $104.0bn. Tariff refunds reduced the budget by about $33.0bn, and a calendar effect—July 1 fell on a non-workday—trimmed receipts by roughly $99.0bn. The Treasury flagged rising Medicare costs and persistent interest expenses as key drivers of the fiscal deterioration. President Trump has urged the Fed to cut rates to lower borrowing costs and has eased public criticism of the Fed since his nominee took over as chair in May."
+    },
     {
       "id": "mkt:019ff731-9182-7aab-9012-5ad1d6fbc731",
       "time": "2026-08-13 02:17:28",
