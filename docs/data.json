@@ -1,7 +1,32 @@
 {
-  "updated": "2026-08-12 08:23:19",
-  "count": 15411,
+  "updated": "2026-08-12 08:27:06",
+  "count": 15407,
   "items": [
+    {
+      "id": "5036529",
+      "time": "2026-08-12 08:26:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本三麗鷗股價在第一季度業績公佈後下跌17%。"
+    },
+    {
+      "id": "5036528",
+      "time": "2026-08-12 08:24:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國生物科技服務稱與Stella Pharma就硼中子治療藥物在中國商業化訂立協議】中國生物科技服務：本集團於與Stella Pharma就聯合推進Steboronine®(全球首個獲批准的硼中子治療藥物)在中國的開發及商業化訂立主合作協議。此合作與本集團的鵬博海南硼中子醫院旗艦專案形成協同效應，標誌本集團將先進硼中子治療技術引入中國市場的重要戰略舉措，以進一步鞏固和發展在中國的業務。"
+    },
+    {
+      "id": "5036527",
+      "time": "2026-08-12 08:23:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加1.71噸】截至2026年08月11日，全球最大的黃金ETF SPDR Gold Trust持倉量為1022.67噸，較前一個交易日增加1.71噸。"
+    },
     {
       "id": "5036526",
       "time": "2026-08-12 08:22:10",
@@ -140334,81 +140359,6 @@
         "MKT News"
       ],
       "text": "【Fed's Schmid: Core inflation ex-energy still too high; supply–demand imbalance is root cause】Fed official Schmid said inflation excluding energy remains well above 2% and is broad-based across goods and services. Monthly core inflation in the six months to June ran above the pace consistent with returning inflation to target; on a 12‑month basis core inflation is 3.2%, roughly 0.5pp higher than in June last year. While recent price pressures include supply shocks — shipping disruptions, oil and tariffs — Schmid cautioned against blaming inflation solely on supply factors, saying it reflects imbalances between supply and demand."
-    },
-    {
-      "id": "5025598",
-      "time": "2026-08-05 08:26:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數連續第二日上漲 晶片股漲幅居前】韓國Kospi指數一度上漲4.7%，其中晶片股領漲，隔夜美股半導體股大漲以及油價回落改善市場情緒。Kospi指數連續第二天上漲。“受油價下跌、利率走低以及美國半導體股走強等有利宏觀因素支撐，Kospi指數主要板塊可能普遍走強，並進入復甦階段，”NH Investment & Securities韓國現券股票主管Shawn Oh表示。週二費城半導體指數收盤上漲6.6%，博通和美光科技貢獻較大。有報告稱，2027年的儲存晶片產能已經售出，也進一步提振了市場情緒。"
-    },
-    {
-      "id": "5025597",
-      "time": "2026-08-05 08:25:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
-    },
-    {
-      "id": "5025596",
-      "time": "2026-08-05 08:25:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所對韓國綜合股價指數(KOSPI)啟動邊車機制。"
-    },
-    {
-      "id": "5025595",
-      "time": "2026-08-05 08:24:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌課堂Gemini擴充套件至全年齡段學生，新增情境化引導提示】當地時間8月4日，谷歌宣佈自2026年8月10日起，Google Classroom中的Gemini功能將向全年齡段的K-12及高等教育學生開放，前提是其管理員已授予相關許可權。學生可透過Classroom中的Gemini標籤頁將課程資料轉化為抽認卡、練習測驗等互動學習工具，或將其同步至Gemini Notebook以生成學習指南及音訊概覽。此外，該更新還引入了情境化引導提示功能，允許學生選擇特定課程和作業，直接結合作業要求和教學大綱進行針對性輔導。"
-    },
-    {
-      "id": "mkt:019fcf4e-71c5-7aab-8f7a-cd1f4eb7dfc6",
-      "time": "2026-08-05 08:24:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "US10Y"
-      ],
-      "text": "【Fed's Schmid: Don't ease vigilance after single-month inflation dip】Fed's Schmid said his focus remains on still-elevated inflation and that the Fed defines price stability as 2% inflation. He called June's slowdown encouraging but cautioned it is too early to rely on a single data point; volatile oil prices both boosted inflation in prior months and contributed to June's pullback. With oil prices rising again, any energy-driven easing is uncertain."
-    },
-    {
-      "id": "mkt:019fcf4e-2a0d-7aab-8f7a-c685c7f17595",
-      "time": "2026-08-05 08:23:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Kansas City Fed President Schmid: Fed must tighten policy to lower inflation】Kansas City Fed President Schmid said the Fed needs tighter monetary policy to return inflation to its 2% target and that the current stance is not restrictive. He warned inflation remains too high and should not be ignored even if driven by supply shocks, that recent relief in energy prices may be temporary, and that investment in artificial intelligence is pushing up inflation."
-    },
-    {
-      "id": "mkt:019fcf4d-cf1c-7aab-8f7a-bec41ac261b0",
-      "time": "2026-08-05 08:23:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 index rose 3.00% intraday to 65,948.00 points."
     }
   ]
 }
