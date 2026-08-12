@@ -1,7 +1,83 @@
 {
   "date": "2026-08-13",
-  "count": 204,
+  "count": 213,
   "items": [
+    {
+      "id": "mkt:019ff7c0-c892-7aab-9013-99d5967007ad",
+      "time": "2026-08-13 04:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's Chamber of Deputies approved a bill to establish a new expenditure-control mechanism; the bill will be sent to the Senate."
+    },
+    {
+      "id": "5038133",
+      "time": "2026-08-13 04:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：明日將宣佈蘋果得州Mac mini工廠相關訊息。"
+    },
+    {
+      "id": "5038132",
+      "time": "2026-08-13 04:52:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司（MSCI）：MSCI世界全股本指數將新增137只成分股，剔除73只成分股。"
+    },
+    {
+      "id": "5038131",
+      "time": "2026-08-13 04:51:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科預計2027財年AI業務收入75億美元。"
+    },
+    {
+      "id": "mkt:019ff7be-b159-7aab-9013-94e5ee173bbd",
+      "time": "2026-08-13 04:51:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "A top Codelco executive said the Chilean state miner is studying expanding the pit at the El Teniente copper mine to offset production delayed by seismic-risk concerns."
+    },
+    {
+      "id": "5038130",
+      "time": "2026-08-13 04:50:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：關稅使福特在美國創造了更多就業機會。"
+    },
+    {
+      "id": "5038129",
+      "time": "2026-08-13 04:50:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國商務部長盧特尼克：福特正在將更多製造業轉移到美國。"
+    },
+    {
+      "id": "5038128",
+      "time": "2026-08-13 04:50:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司高管：公司正研究擴建特尼恩特銅礦的坑採作業面，以彌補因地震風險推遲投產造成的產量損失。"
+    },
+    {
+      "id": "5038127",
+      "time": "2026-08-13 04:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【已致剛果（金）兩千餘人死亡 世衛：或為有記錄以來最致命埃博拉疫情】目前，剛果（金）已報告超過4400例埃博拉確診病例、2000多人死亡。世界衛生組織總幹事譚德塞8月12日警告，如果剛果（金）埃博拉疫情維持當前傳播速度，其規模可能超過2014年至2016年西非埃博拉疫情，成為有記錄以來最致命的埃博拉疫情。"
+    },
     {
       "id": "mkt:019ff7bc-e401-7aab-9013-8cbb176864f6",
       "time": "2026-08-13 04:49:39",
