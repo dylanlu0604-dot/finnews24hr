@@ -1,7 +1,40 @@
 {
-  "updated": "2026-08-12 21:23:12",
-  "count": 15174,
+  "updated": "2026-08-12 21:27:11",
+  "count": 15172,
   "items": [
+    {
+      "id": "5037860",
+      "time": "2026-08-12 21:25:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：LIGHTSPEED為佈局 Anthropic、OpenAI，擬募資 6 億美元。"
+    },
+    {
+      "id": "5037859",
+      "time": "2026-08-12 21:25:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊：今年底至明年初GPU資源將更加充足】騰訊高管在業績會上表示，騰訊雲今年持續推進算力佈局，預計今年底至明年初GPU資源將更加充足，進一步提升雲服務能力。公司正關注GPU算力、模型即服務等業務機會，將統籌調配算力資源，兼顧內部模型開發與對外出租需求。"
+    },
+    {
+      "id": "5037858",
+      "time": "2026-08-12 21:23:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Lumentum控股美股盤前漲超10%】Lumentum控股美股盤前漲超10%，現報903.0美元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608123839425911",
+      "time": "2026-08-12 21:21:19",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【交易員進一步降低9月份美聯儲加息的壓注】交易員進一步降低9月份美聯儲加息的壓注，最新機率為36%，一天前為48%。"
+    },
     {
       "id": "5037857",
       "time": "2026-08-12 21:21:06",
@@ -138331,68 +138364,6 @@
         "其他"
       ],
       "text": "【廣東佛山通報“廢品場有殘障務工人員”】8月5日，廣東佛山市三水區雲東海街道辦事處釋出情況通報：2026年8月4日，網路上有群眾反映雲東海街道遠坑村一廢品場涉嫌侵害殘障務工人員權益。接到線索後，街道第一時間聯合相關部門趕赴現場開展核查。經初步摸排，涉事場所現有務工人員5名，詳細情況正在深入調查取證。我們堅決維護勞動者尤其是特殊群體合法權益，對各類違法用工行為保持零容忍，如查實將依法從嚴處置。"
-    },
-    {
-      "id": "mkt:019fd21b-0dd1-7aab-8f8d-12feecaf9e8a",
-      "time": "2026-08-05 21:26:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【Expectations for Strait of Hormuz reopening rise, but Middle East conflict far from over】Austrian former defence attaché and security analyst Wolfgang Pustai said an agreement on the Strait of Hormuz could be reached today or Thursday but it is too early to conclude. He said mediators are still clarifying key terms in a weak memorandum of understanding that helped trigger renewed violence. Pustai said the US would likely accept an Iran–Oman deal that confirms no transit fees and only charges for maritime services, but would reject any Iranian attempt to levy large transit fees that would violate the UN Convention on the Law of the Sea (UNCLOS) because of the precedent it would set for other strategic chokepoints. He described Trump’s inconsistent statements as an information‑war strategy targeted at three audiences — Republican voters, Iranians and international observers — and warned that reopening the Strait would be an important step but would not resolve the wider regional conflict."
-    },
-    {
-      "id": "mkt:019fd219-c4b0-7aab-8f8d-0d6e5f3226cb",
-      "time": "2026-08-05 21:25:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【China to issue '15th Five-Year' plan to promote SME development】China's Ministry of Industry and Information Technology, together with multiple departments, will soon publish the '15th Five-Year Plan to Promote Small and Medium-Sized Enterprise Development.' MIIT said at a January state press briefing it will continue to optimize the business environment, accelerate mechanisms to scale specialized, refined, distinctive and innovative SMEs, and improve a tiered cultivation system for SME industry clusters. Experts told China Securities Journal SMEs are a key source of economic dynamism, underpin employment, stabilize industrial chains and support new productive forces. The forthcoming plan is expected to focus on promoting specialized, refined, distinctive and innovative SMEs, optimizing the SME operating environment, establishing a tiered system to cultivate high-quality SMEs, and introducing policies to help such firms grow and achieve higher-quality development."
-    },
-    {
-      "id": "5027107",
-      "time": "2026-08-05 21:25:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【《“十五五”促進中小企業發展規劃》即將釋出】記者近日獲悉，工信部會同多個部門聯合制定的《“十五五”促進中小企業發展規劃》即將釋出。在今年1月國新辦舉行的新聞釋出會上，工信部表示，將持續最佳化企業發展環境，制定“十五五”促進中小企業發展規劃；加快構建促進專精特新中小企業發展壯大機制，健全中小企業特色產業叢集梯度培育體系。接受採訪的專家認為，中小企業是經濟活力的重要源泉，是保就業、穩產業鏈、發展新質生產力的微觀基礎。預計即將釋出的《“十五五”促進中小企業發展規劃》將以促進中小企業專精特新發展為主線，最佳化中小企業發展環境，完善優質中小企業梯度培育體系，構建促進專精特新中小企業發展壯大機制政策，推動中小企業健康發展、高質量發展。(中國證券報)"
-    },
-    {
-      "id": "5027106",
-      "time": "2026-08-05 21:25:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國聯通標準機架規模超過110萬架 智算規模達到45EFLOPS】中國聯通表示，截至目前，中國聯通標準機架規模超過110萬架，建成7個百兆瓦級AIDC園區，智算規模達到45EFLOPS。"
-    },
-    {
-      "id": "5027105",
-      "time": "2026-08-05 21:24:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "CENCORA高管：我們的重點是在視網膜和腫瘤領域進行增值性補強收購。"
-    },
-    {
-      "id": "mkt:019fd218-c410-7aab-8f8d-02b6eddb299d",
-      "time": "2026-08-05 21:24:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "According to The Information, ByteDance founder Zhang Yiming told employees last month the company will not use knowledge-distillation techniques to advance its AI models, even if that means temporarily falling behind domestic rivals."
     }
   ]
 }
