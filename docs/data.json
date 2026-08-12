@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-12 10:36:25",
-  "count": 15351,
+  "updated": "2026-08-12 10:40:23",
+  "count": 15348,
   "items": [
+    {
+      "id": "5036721",
+      "time": "2026-08-12 10:39:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿里雲：靈駿真武M890超節點例項上線，可承載十萬億引數模型 】阿里雲宣佈靈駿真武 M890超節點例項上線，首批已在烏蘭察布地域開售。企業級客戶無需自建機房，在雲上即可開通64卡高速互聯算力單元，最高可承載十萬億引數級MoE大模型推理。據悉，阿里雲靈駿真武M890超節點是國內首個成功執行超2萬億引數大模型的超節點形態算力，Kimi K3和Qwen3.8 Max均已透過該例項對外提供服務。超節點例項支援FP8/FP4低精度計算，透過 ICN Switch 1.0晶片Scale-up互聯規模由 16卡拉昇至 64卡，卡間互聯提升至 800GB/s。在智慧駕駛、具身智慧等訓練場景中，相比上一代真武810E，訓練效能提升三倍。支撐該超節點叢集的是阿里雲統一底座——靈駿智算平臺。依託HPN 8.0訓推一體網路，單叢集最高支援 13 萬卡異構算力混布，並可擴充套件至百萬卡級。（新浪科技）"
+    },
+    {
+      "id": "5036720",
+      "time": "2026-08-12 10:39:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%至6331.15點。"
+    },
+    {
+      "id": "mkt:019ff3d6-6fb6-7aab-8fff-56bc573d6a56",
+      "time": "2026-08-12 10:39:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Gaozheng Minbao hit an intraday record high, rising 5.44% to 61.80 yuan; market capitalization 16.95 bln yuan."
+    },
+    {
+      "id": "mkt:019ff3d6-018b-7aab-8fff-4a76d4b9337c",
+      "time": "2026-08-12 10:38:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Composite Index continued to strengthen, up more than 1%."
+    },
+    {
+      "id": "5036719",
+      "time": "2026-08-12 10:38:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.00%，現報14402.461點；上證指數漲0.16%，現報3940.583點；創業板指漲1.35%，現報3596.928點。"
+    },
+    {
+      "id": "5036718",
+      "time": "2026-08-12 10:38:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲6.5%。"
+    },
+    {
+      "id": "mkt:019ff3d5-2661-7aab-8fff-442256afb4e5",
+      "time": "2026-08-12 10:37:40",
+      "tags": [
+        "MKT News",
+        "06809.HK",
+        "Impact bullish",
+        "03986.HK"
+      ],
+      "text": "Hong Kong storage names firmed after choppy trading; Montage Technology (06809.HK) rose over 5% and GigaDevice (03986.HK) gained over 4%."
+    },
+    {
+      "id": "5036717",
+      "time": "2026-08-12 10:37:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【高爭民爆股價創歷史新高】高爭民爆盤中股價創歷史新高，現漲5.44%，報61.80元，總市值為169.50億元。"
+    },
+    {
+      "id": "5036716",
+      "time": "2026-08-12 10:37:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲7.5%。"
+    },
+    {
+      "id": "5036715",
+      "time": "2026-08-12 10:36:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【調查：全球科技巨頭AI加速搶佔韓國搜尋市場，NAVER等本土服務面臨顯著差距】韓國科學技術資訊通訊部8月12日表示，今年6月釋出的“2025年附加通訊業務實態調查”顯示，生成式AI使用者中有60%回答，過半以上的搜尋已透過AI進行。韓國資訊通訊政策研究院（KISDI）的分析顯示，以2025年為準，生成式AI的主要使用目的中“搜尋日常資訊”位居首位，佔比達42.5%。據韓國科技資訊通訊部調查，ChatGPT和Gemini在AI服務體驗率（可多選）方面，分別以41.8%和9.8%的佔比位居前二。加上微軟的AI服務Copilot（2.2%），來自海外的三處AI服務體驗率合計高達53.8%。而本土服務NAVER的CLOVA X僅為2%。"
+    },
     {
       "id": "mkt:019ff3d2-152b-7aab-8fff-3d0183daf0f2",
       "time": "2026-08-12 10:34:19",
@@ -139651,126 +139742,6 @@
         "Importance 1"
       ],
       "text": "Zijin Mining Stock Price Hits 11-week High — Zijin Mining shares increased to 33.69 CNY, the highest since May 2026. Over the past 4 weeks, Zijin Mining Group gained 18.74%, and in the last 12 months, it increased 66.57%."
-    },
-    {
-      "id": "5025829",
-      "time": "2026-08-05 10:40:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4180美元/盎司，日內漲0.67%。"
-    },
-    {
-      "id": "5025828",
-      "time": "2026-08-05 10:40:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內跌6%，現報4631.00元。"
-    },
-    {
-      "id": "5025827",
-      "time": "2026-08-05 10:40:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：紫金礦業淨買入超14億】截至目前，今日主力資金淨流入68.31億；淨流入有色金屬概念、滬股通、小金屬等板塊，其中有色金屬概念板塊淨流入85.12億；淨流出光通訊、CPO概念、光晶片等板塊，其中光通訊板塊淨流出78.63億。\n個股方面，紫金礦業淨買入14.09億元位居首位，工業富聯、紫光股份、兆易創新主力資金淨流入居前；新易盛淨賣出18.79億元位居首位，長鑫科技、中際旭創、立訊精密淨流出額居前。"
-    },
-    {
-      "id": "5025826",
-      "time": "2026-08-05 10:39:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲5%，現報14814.00元。"
-    },
-    {
-      "id": "5025825",
-      "time": "2026-08-05 10:39:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲7%，現報325.35元。"
-    },
-    {
-      "id": "mkt:019fcfc9-d7de-7aab-8f7d-dbc13cb0fd25",
-      "time": "2026-08-05 10:38:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose above $4,120/oz, up 1.05% intraday. New York gold futures gained over 1.0%, trading at $4,175.60/oz."
-    },
-    {
-      "id": "5025824",
-      "time": "2026-08-05 10:38:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅敦煌釋出高溫紅色預警 多地最高溫將超40℃】甘肅省敦煌市氣象臺今天（5日）10時04分將高溫橙色預警訊號升級為高溫紅色預警訊號：預計今天下午，敦煌市陽關鎮、肅州鎮、七里鎮、沙州鎮、月牙泉鎮、莫高鎮等大部分鄉鎮日最高氣溫將升至40℃以上，請注意防範。"
-    },
-    {
-      "id": "5025823",
-      "time": "2026-08-05 10:38:18",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鉑連續主力合約日內漲7%，現報432.35元。"
-    },
-    {
-      "id": "5025822",
-      "time": "2026-08-05 10:38:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內跌4%，現報4453.00元。"
-    },
-    {
-      "id": "5025821",
-      "time": "2026-08-05 10:38:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "淡馬錫、摩根士丹利據悉擬參與Adtek的IPO前融資。"
-    },
-    {
-      "id": "5025820",
-      "time": "2026-08-05 10:38:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4120美元/盎司，日內漲1.06%。"
-    },
-    {
-      "id": "te:markets:572781",
-      "time": "2026-08-05 10:37:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Indonesian Shares Rise Further Ahead of GDP Data — Indonesia’s IDX Composite rose 33 points or 0.5% to 6,351 in Wednesday morning trade, extending the prior session’s gain as U.S. stock futures firmed after a continued rally on Wall Street overnight that pushed the broad market to a record high following upbeat earnings and speculation of a U.S.–Iran accord to reopen the Strait of Hormuz. Locally, July’s softer headline inflation offered near-term relief amid volatile food costs and seasonal pressure from back-to-school spending. Clarity on the rare-earth export ban also helped, with nickel, tin, and other commodities containing trace elements allowed to resume shipments. Gains, however, were capped by caution ahead of Q2 GDP data due later today, with growth expected to ease from Q1’s 5.6% yoy pace, while July trade figures in top trading partner China loom later this week. Property, basic materials, and energy led the strength, with Timah Tbk up 3.9%, followed by Aneka Tambang (3.5%), Agung Podomoro (2.4%), and Indika Energy (1.2%)."
-    },
-    {
-      "id": "5025819",
-      "time": "2026-08-05 10:36:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "尿素連續主力合約日內漲4%，現報1734.00元。"
     }
   ]
 }
