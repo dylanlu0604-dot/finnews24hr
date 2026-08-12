@@ -1,7 +1,104 @@
 {
   "date": "2026-08-12",
-  "count": 845,
+  "count": 856,
   "items": [
+    {
+      "id": "mkt:019ff3d9-f0a5-7aab-8fff-7066fb03122d",
+      "time": "2026-08-12 10:42:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY briefly touched 159.43, its highest level since August."
+    },
+    {
+      "id": "mkt:019ff3d9-9ec6-7aab-8fff-697c8636a74a",
+      "time": "2026-08-12 10:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Henan issues list of priority areas for government investment funds】Henan provincial development and reform commission said on Aug. 11 that, with provincial government approval, it has issued a list designating 78 sub-sectors across four pillars—emerging pillar industries, future industries, traditional advantaged industries and modern services—as priority targets for government investment funds. The future industries category covers six areas: artificial and embodied intelligence, hydrogen energy, bio-manufacturing, quantum technologies, next-generation information networks and brain-like intelligence/brain–computer interfaces, and specifically highlights investment in humanoid robots, general-purpose large models, full-chain hydrogen technologies, bio-breeding, quantum computing and 6G mobile communications."
+    },
+    {
+      "id": "mkt:019ff3d9-74f4-7aab-8fff-668b9a8c6364",
+      "time": "2026-08-12 10:42:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【US Forces CV-22 Osprey makes emergency landing in Tochigi】A CV-22 Osprey from US Forces Japan's Yokota Air Base made a precautionary emergency landing at the Japan Ground Self-Defense Force Utsunomiya Airfield in Tochigi prefecture at about 15:00 local time on the 10th. Japan's Defense Ministry notified local governments by the 12th. The US said the landing was a \"precautionary landing\" to avoid an accident; the aircraft departed the airfield on the 11th. No injuries or damage have been confirmed. The Defense Ministry has not released the flight route or the cause of the landing."
+    },
+    {
+      "id": "5036728",
+      "time": "2026-08-12 10:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南釋出政府投資基金重點投資領域清單】據河南日報，8月11日，記者從省發展改革委獲悉，經省政府同意，該委近日印發《河南省政府投資基金重點投資領域清單》，明確了政府投資基金的重點投向，覆蓋新興支柱產業、未來產業、傳統優勢產業和現代服務業四大板塊共78個細分領域。其中，未來產業包括人工智慧與具身智慧、氫能、生物製造、量子科技、新一代資訊網路、類腦智慧與腦機介面等6個領域，重點佈局人形機器人、通用大模型、氫能全鏈條技術、生物育種、量子計算、6G行動通訊等前沿方向。"
+    },
+    {
+      "id": "5036727",
+      "time": "2026-08-12 10:41:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報38100.00元。"
+    },
+    {
+      "id": "mkt:019ff3d8-4657-7aab-8fff-5b6686559c27",
+      "time": "2026-08-12 10:41:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up more than 1.0% intraday at $65.32/oz."
+    },
+    {
+      "id": "5036726",
+      "time": "2026-08-12 10:40:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報65.60美元/盎司。"
+    },
+    {
+      "id": "5036725",
+      "time": "2026-08-12 10:40:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一架駐日美軍“魚鷹”運輸機在栃木縣緊急降落】當地時間10日，駐日美軍橫田基地的一架CV-22“魚鷹”運輸機緊急降落在栃木縣陸上自衛隊宇都宮飛行場。日本防衛省截至12日，已向相關地方政府通報了這一情況。美方稱，此次降落是為避免發生事故而採取的“預防性降落”。該機已於11日離開該飛行場。據日本防衛省介紹，這架“魚鷹”在當地時間10日15時左右降落在宇都宮飛行場。目前尚未確認有人員受傷或財物損失。防衛省沒有公佈有關飛行路線以及降落原因等詳細情況。"
+    },
+    {
+      "id": "5036724",
+      "time": "2026-08-12 10:40:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報65.30美元/盎司。"
+    },
+    {
+      "id": "5036723",
+      "time": "2026-08-12 10:40:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲1%，現報16020.00元。"
+    },
+    {
+      "id": "5036722",
+      "time": "2026-08-12 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨買入超16億】截至目前，今日主力資金淨流入72.24億；淨流入光通訊、TMT、晶片概念等板塊，其中光通訊板塊淨流入77.27億；淨流出昨日高振幅、國企改革、白馬股等板塊，其中昨日高振幅板塊淨流出36.06億。\n  \n個股方面，長鑫科技淨買入16.78億元位居首位，中際旭創、新易盛、天孚通訊主力資金淨流入居前；風華高科淨賣出6.70億元位居首位，太極實業、工業富聯、國際復材淨流出額居前。"
+    },
     {
       "id": "5036721",
       "time": "2026-08-12 10:39:31",

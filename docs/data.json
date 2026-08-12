@@ -1,7 +1,104 @@
 {
-  "updated": "2026-08-12 10:40:23",
-  "count": 15348,
+  "updated": "2026-08-12 10:44:16",
+  "count": 15346,
   "items": [
+    {
+      "id": "mkt:019ff3d9-f0a5-7aab-8fff-7066fb03122d",
+      "time": "2026-08-12 10:42:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY briefly touched 159.43, its highest level since August."
+    },
+    {
+      "id": "mkt:019ff3d9-9ec6-7aab-8fff-697c8636a74a",
+      "time": "2026-08-12 10:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Henan issues list of priority areas for government investment funds】Henan provincial development and reform commission said on Aug. 11 that, with provincial government approval, it has issued a list designating 78 sub-sectors across four pillars—emerging pillar industries, future industries, traditional advantaged industries and modern services—as priority targets for government investment funds. The future industries category covers six areas: artificial and embodied intelligence, hydrogen energy, bio-manufacturing, quantum technologies, next-generation information networks and brain-like intelligence/brain–computer interfaces, and specifically highlights investment in humanoid robots, general-purpose large models, full-chain hydrogen technologies, bio-breeding, quantum computing and 6G mobile communications."
+    },
+    {
+      "id": "mkt:019ff3d9-74f4-7aab-8fff-668b9a8c6364",
+      "time": "2026-08-12 10:42:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【US Forces CV-22 Osprey makes emergency landing in Tochigi】A CV-22 Osprey from US Forces Japan's Yokota Air Base made a precautionary emergency landing at the Japan Ground Self-Defense Force Utsunomiya Airfield in Tochigi prefecture at about 15:00 local time on the 10th. Japan's Defense Ministry notified local governments by the 12th. The US said the landing was a \"precautionary landing\" to avoid an accident; the aircraft departed the airfield on the 11th. No injuries or damage have been confirmed. The Defense Ministry has not released the flight route or the cause of the landing."
+    },
+    {
+      "id": "5036728",
+      "time": "2026-08-12 10:41:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南釋出政府投資基金重點投資領域清單】據河南日報，8月11日，記者從省發展改革委獲悉，經省政府同意，該委近日印發《河南省政府投資基金重點投資領域清單》，明確了政府投資基金的重點投向，覆蓋新興支柱產業、未來產業、傳統優勢產業和現代服務業四大板塊共78個細分領域。其中，未來產業包括人工智慧與具身智慧、氫能、生物製造、量子科技、新一代資訊網路、類腦智慧與腦機介面等6個領域，重點佈局人形機器人、通用大模型、氫能全鏈條技術、生物育種、量子計算、6G行動通訊等前沿方向。"
+    },
+    {
+      "id": "5036727",
+      "time": "2026-08-12 10:41:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "多晶矽連續主力合約日內漲4%，現報38100.00元。"
+    },
+    {
+      "id": "mkt:019ff3d8-4657-7aab-8fff-5b6686559c27",
+      "time": "2026-08-12 10:41:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up more than 1.0% intraday at $65.32/oz."
+    },
+    {
+      "id": "5036726",
+      "time": "2026-08-12 10:40:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報65.60美元/盎司。"
+    },
+    {
+      "id": "5036725",
+      "time": "2026-08-12 10:40:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一架駐日美軍“魚鷹”運輸機在栃木縣緊急降落】當地時間10日，駐日美軍橫田基地的一架CV-22“魚鷹”運輸機緊急降落在栃木縣陸上自衛隊宇都宮飛行場。日本防衛省截至12日，已向相關地方政府通報了這一情況。美方稱，此次降落是為避免發生事故而採取的“預防性降落”。該機已於11日離開該飛行場。據日本防衛省介紹，這架“魚鷹”在當地時間10日15時左右降落在宇都宮飛行場。目前尚未確認有人員受傷或財物損失。防衛省沒有公佈有關飛行路線以及降落原因等詳細情況。"
+    },
+    {
+      "id": "5036724",
+      "time": "2026-08-12 10:40:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報65.30美元/盎司。"
+    },
+    {
+      "id": "5036723",
+      "time": "2026-08-12 10:40:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲1%，現報16020.00元。"
+    },
+    {
+      "id": "5036722",
+      "time": "2026-08-12 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：長鑫科技淨買入超16億】截至目前，今日主力資金淨流入72.24億；淨流入光通訊、TMT、晶片概念等板塊，其中光通訊板塊淨流入77.27億；淨流出昨日高振幅、國企改革、白馬股等板塊，其中昨日高振幅板塊淨流出36.06億。\n  \n個股方面，長鑫科技淨買入16.78億元位居首位，中際旭創、新易盛、天孚通訊主力資金淨流入居前；風華高科淨賣出6.70億元位居首位，太極實業、工業富聯、國際復材淨流出額居前。"
+    },
     {
       "id": "5036721",
       "time": "2026-08-12 10:39:31",
@@ -139611,137 +139708,6 @@
         "國際"
       ],
       "text": "【棕櫚油走低，受豆油價格下跌影響】大馬投資銀行在一份報告中表示，亞洲交易時段棕櫚油走低，受芝加哥期貨交易所豆油隔夜下跌拖累。不過，大連商品交易所軟質棕櫚油價格走高可能部分緩衝下行影響。該行補充稱，技術分析預測毛棕櫚油期貨的看漲動能依然完好，儘管在馬來西亞棕櫚油局資料釋出前的獲利回吐活動可能會限制進一步的漲幅。大馬投資銀行預計，棕櫚油價格將在每噸4,721林吉特面臨阻力，並在每噸4,639林吉特找到支撐。馬來西亞衍生品交易所10月交割的合約下跌7林吉特，報每噸4,689林吉特。"
-    },
-    {
-      "id": "mkt:019fcfce-3af1-7aab-8f7d-fc7834874c0f",
-      "time": "2026-08-05 10:43:46",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "Alphabet",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "【South Korea to retain global memory lead through 2031, report】Yole Group analyst Josephine Lu said at the Future Memory & Storage conference in California on the 4th that heavy investment by Samsung Electronics and SK Hynix will keep South Korea the global leader in memory chips through 2031. Korea plans to double wafer capacity over the next five years, Lu said, and both Samsung and SK Hynix are accelerating investment. Demand for high‑bandwidth memory (HBM) is expected to expand rapidly beyond NVIDIA GPUs to in‑house AI accelerators at large cloud and tech firms such as Google. Synchronous capacity and R&D expansion in next‑generation DRAM (including HBM) and NAND underpins Korea’s sustained advantage."
-    },
-    {
-      "id": "5025837",
-      "time": "2026-08-05 10:43:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊震盪拉昇，正帆科技漲停】儲存晶片板塊震盪拉昇，正帆科技漲停，此前中京電子、時空科技等股漲停，中巨芯-U、中微公司漲幅居前、"
-    },
-    {
-      "id": "5025836",
-      "time": "2026-08-05 10:42:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米申請註冊澎程N70商標】天眼查智慧財產權資訊顯示，近日，小米科技有限責任公司申請註冊“SKYNOMAD N90 MAX LUXE”“澎程 N70”“SKYNOMAD N90 MAX STUDIO”“SKYNOMAD N70”商標，國際分類涉及健身器材、地毯席墊等，當前狀態均為等待實質審查。小米科技有限責任公司成立於2010年3月，法定代表人為雷軍，註冊資本約14.77億人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣等。據媒體報道，近日，雷軍宣佈小米澎程N70 Max、N90 Max開啟預售。"
-    },
-    {
-      "id": "mkt:019fcfcd-4138-7aab-8f7d-f449365799e7",
-      "time": "2026-08-05 10:42:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold jumped $50 intraday to $4,127.24/oz, up 1.23%."
-    },
-    {
-      "id": "5025835",
-      "time": "2026-08-05 10:42:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "天孚通訊成交額超100億元，現跌逾3%。"
-    },
-    {
-      "id": "5025834",
-      "time": "2026-08-05 10:41:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報60.85美元/盎司。"
-    },
-    {
-      "id": "mkt:019fcfcc-4f04-7aab-8f7d-ed5d26c39bc8",
-      "time": "2026-08-05 10:41:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "CSI 1000 stock index futures (contract code IM) most-active contract widened intraday gains to 2.00%, trading at 7,374.4 points."
-    },
-    {
-      "id": "5025833",
-      "time": "2026-08-05 10:41:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電子特氣概念反覆活躍 和遠氣體漲停】電子特氣概念反覆活躍，和遠氣體漲停，正帆科技一度觸及20cm漲停，中巨芯、中船特氣、蜀道裝備、雅克科技、華特氣體等跟漲。"
-    },
-    {
-      "id": "5025832",
-      "time": "2026-08-05 10:41:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國接近達成開放霍爾木茲海峽協議，最早週三宣佈】據訊息人士稱，美國、伊朗和阿曼即將達成一項臨時協議，以重新開放霍爾木茲海峽，華盛頓希望最早在週三宣佈這項協議。據報道，這項提議的為期60天的安排將透過伊朗水域引導進港商業航運，並在與伊朗協調下透過阿曼水域引匯出港交通，同時在臨時期間禁止收取通行費或過路費。該協議旨在加強華盛頓與德黑蘭之間的停火協議，並在阿曼、卡達、巴基斯坦和沙烏地阿拉伯數週斡旋後，為重啟伊朗核計劃談判創造空間。訊息稱，伊朗外交部長阿拉格齊週末原則上同意了這一框架，伊朗領導層於週二完成了批准程式。"
-    },
-    {
-      "id": "mkt:019fcfcc-02c7-7aab-8f7d-e33aeb75c9d9",
-      "time": "2026-08-05 10:41:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai precious metals main futures contracts strengthened: gold 2610 +1.65% at 897.64 yuan/gram; silver 2610 +4.85% at 14,790 yuan/kg; platinum 2610 +7.72% at 432.25 yuan/gram; palladium 2610 +7.16% at 325.75 yuan/gram."
-    },
-    {
-      "id": "5025831",
-      "time": "2026-08-05 10:41:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1374.50美元/盎司。"
-    },
-    {
-      "id": "5025830",
-      "time": "2026-08-05 10:41:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報74.24美元/桶。"
-    },
-    {
-      "id": "te:markets:572783",
-      "time": "2026-08-05 10:40:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Zijin Mining Stock Price Hits 11-week High — Zijin Mining shares increased to 33.69 CNY, the highest since May 2026. Over the past 4 weeks, Zijin Mining Group gained 18.74%, and in the last 12 months, it increased 66.57%."
     }
   ]
 }
