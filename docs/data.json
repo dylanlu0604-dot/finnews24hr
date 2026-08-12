@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-13 04:12:01",
+  "updated": "2026-08-13 04:15:50",
   "count": 15030,
   "items": [
+    {
+      "id": "5038113",
+      "time": "2026-08-13 04:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。"
+    },
+    {
+      "id": "te:markets:574825",
+      "time": "2026-08-13 04:11:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD."
+    },
     {
       "id": "te:markets:574824",
       "time": "2026-08-13 04:10:14",
@@ -137092,30 +137112,6 @@
         "MKT News"
       ],
       "text": "【Fed governor Cook prepared to support rate hike if inf does not ease】Fed governor Cook said she is prepared to support further rate hikes if inf does not ease, warning policymakers may not have room to wait for inf to return to the Fed's 2% target. She supported the Fed's decision to keep rates unchanged at the July meeting but said the longer inf remains above target the harder it will be to rein in, and she would act if she does not soon see sustained declines. Cook warned five consecutive years of above-target inf raises the risk it becomes entrenched in price- and wage-setting. She added that fading tariff effects, potential oil-price declines and easing AI-related cost pressures could provide a buffer that might reduce the need for additional tightening, but her top priority remains returning inf to the Fed's target."
-    },
-    {
-      "id": "te:markets:573122",
-      "time": "2026-08-06 04:14:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "McKesson earnings above expectations at 9.93 USD — McKesson (MCK) released earnings per share at 9.93 USD, compared to market expectations of 9.65 USD."
-    },
-    {
-      "id": "te:markets:573121",
-      "time": "2026-08-06 04:12:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Wall Street Closes Near Record Highs — US stocks closed near record levels on Wednesday as an improving macroeconomic backdrop and strong corporate earnings supported sentiment. The S&P 500 inched down 0.2%, closing near yesterday's record. while the Dow added 263 points to reach a record 54,349. Crude oil prices extended their decline after Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, while US officials signaled progress in talks aimed at restoring trade flows through the region, easing concerns over energy-driven inflation. Credit sensitive sectors, including major banks, outperformed. Arista Networks rose 3.6% after reporting stronger-than-expected revenue. Eli Lilly gained 4.9% after beating revenue estimates and raising its full-year guidance. In contrast, the Nasdaq slipped 0.8%. SpaceX slumped 13.6%, giving back the previous session's gains, while AMD dropped 7% despite doubling data center revenue."
     }
   ]
 }

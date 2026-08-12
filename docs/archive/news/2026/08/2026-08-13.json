@@ -1,7 +1,27 @@
 {
   "date": "2026-08-13",
-  "count": 177,
+  "count": 179,
   "items": [
+    {
+      "id": "5038113",
+      "time": "2026-08-13 04:14:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家福利組織康復事務負責人週三表示，由於資金不足，仍有超過15.2萬名重度殘疾人在等待護理補貼的等候名單上。"
+    },
+    {
+      "id": "te:markets:574825",
+      "time": "2026-08-13 04:11:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Cisco Systems earnings above expectations at 1.22 USD — Cisco Systems (CSCO) released earnings per share at 1.22 USD, compared to market expectations of 1.17 USD."
+    },
     {
       "id": "te:markets:574824",
       "time": "2026-08-13 04:10:14",
