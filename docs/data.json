@@ -1,7 +1,86 @@
 {
-  "updated": "2026-08-14 00:05:12",
-  "count": 15230,
+  "updated": "2026-08-14 00:09:15",
+  "count": 15231,
   "items": [
+    {
+      "id": "mkt:019ffbe1-709d-7aab-902a-c570b0a0eb81",
+      "time": "2026-08-14 00:08:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's main stock index fell 1%."
+    },
+    {
+      "id": "mkt:019ffbe1-2ac0-7aab-902a-ba06c1fe3e6c",
+      "time": "2026-08-14 00:07:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi rebels say they used drones to hit ARAMCO refinery in Jizan, Saudi Arabia】Yemeni Houthi rebels said on the 13th they used two drones to attack an ARAMCO refinery in Jizan in southwest Saudi Arabia, calling the strikes \"precise\", the Houthi-controlled Saba news agency reported. On the 9th this month the Houthis also said they carried out a \"precise strike\" on the Jizan refinery."
+    },
+    {
+      "id": "te:markets:575162",
+      "time": "2026-08-14 00:07:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.70% Lower — The FTSE 100 Index decreased 76 points or 0.70 percent on Thursday to close at 10757 points. The decline was led by Antofagasta (-6.78%), Fresnillo (-5.07%) and Rio Tinto (-4.72%). On the upside, the strongest performers were Lion Finance Group (2.67%), British American Tobacco (2.25%) and Persimmon (2.01%)."
+    },
+    {
+      "id": "5039873",
+      "time": "2026-08-14 00:07:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指下跌1%。"
+    },
+    {
+      "id": "mkt:019ffbe0-418f-7aab-902a-b18f20ffcbc9",
+      "time": "2026-08-14 00:06:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said Dennis Dreiser will leave after a transition period to pursue other opportunities."
+    },
+    {
+      "id": "mkt:019ffbe0-1027-7aab-902a-af8f42be7e91",
+      "time": "2026-08-14 00:06:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI has formed a strategic partnership with Chad Pitts and RPT Partners."
+    },
+    {
+      "id": "5039872",
+      "time": "2026-08-14 00:05:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葉門胡塞武裝稱使用無人機襲擊沙特煉油廠】葉門胡塞武裝13日稱，該組織當天使用無人機襲擊了位於沙烏地阿拉伯西南部吉贊地區的一座沙特阿美公司煉油廠。據胡塞武裝控制的薩巴通訊社訊息，胡塞武裝使用兩架無人機襲擊這座煉油廠，襲擊非常“精準”。本月9日，葉門胡塞武裝表示，該組織使用無人機對位於吉讚的沙特阿美公司煉油廠發動了“精準打擊”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ffbde-d787-7aab-902a-a4d6edec1942",
+      "time": "2026-08-14 00:05:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI appoints Dali Lajic as chief revenue officer."
+    },
+    {
+      "id": "5039871",
+      "time": "2026-08-14 00:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：Denise Dresser將在過渡期結束後離開OPENAI，尋求其他發展機會。"
+    },
     {
       "id": "5039870",
       "time": "2026-08-14 00:03:30",
@@ -139279,91 +139358,6 @@
         "Importance 1"
       ],
       "text": "The CAC 40 Index Closes 0.50% Higher — The CAC 40 Index gained 43 points or 0.50 percent on Thursday to close at 8713 points. Gains were led by Hermes International (5.90%), Orange (2.66%) and Publicis (2.28%). Biggest losers were Edenred (-1.33%), Airbus (-1.16%) and ArcelorMittal (-1.15%)."
-    },
-    {
-      "id": "te:markets:573458",
-      "time": "2026-08-07 00:08:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Inches Up — The FTSE MIB rose 0.5% to 53,683 on Thursday, as traders assessed consolidation prospects in the banking sector. Banco BPM jumped 3.9% following a better-than-expected quarterly report and signaling it would consider a tie-up with Credit Agricole. Barclays also reaffirmed its positive view on Banco BPM after the lender reported stronger-than-expected results. Meanwhile, BPER Banca (-0.8%) and Unipol (-0.8%) slipped, amid Intesa Sanpaolo's (0.5%) proposed acquisition of MPS (0.1%), under which MPS' insurance operations would be sold to Unipol, BPER's largest shareholder. Utilities were mixed as Italy was placed under its highest heat alert, boosting expectations for electricity demand. Hera added 0.5%, while Snam slipped 0.5%. Defense stocks outperformed, lifted by Avio (5.7%) and Leonardo (2%). Tenaris plunged 6.9% after reporting a 4% annual drop in second-quarter sales and warning that weak market conditions are expected to persist in the second half."
-    },
-    {
-      "id": "te:markets:573457",
-      "time": "2026-08-07 00:07:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.13% Lower — The FTSE 100 Index decreased 14 points or 0.13 percent on Thursday to close at 10875 points. The decline was led by Relx (-4.01%), Tritax Big Box (-3.90%) and Melrose (-2.72%). On the upside, the strongest performers were Diageo (5.61%), Admiral (5.23%) and Vodafone (4.37%)."
-    },
-    {
-      "id": "5029305",
-      "time": "2026-08-07 00:06:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國金融科技公司Marqeta擴大與谷歌合作，推出Wallet for Kids新服務。"
-    },
-    {
-      "id": "mkt:019fd7d3-3449-7aab-8fa4-a22c75790085",
-      "time": "2026-08-07 00:06:10",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "MQ.O",
-        "Impact bullish"
-      ],
-      "text": "US fintech Marqeta expands partnership with Google to launch new Wallet for Kids service."
-    },
-    {
-      "id": "5029304",
-      "time": "2026-08-07 00:06:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英國兩年期國債收益率漲超4個基點】週四（8月6日）歐市尾盤，英國10年期國債收益率漲3.7個基點，報4.927%，整體持續震盪上行。兩年期英債收益率漲4.3個基點，報4.285%。30年期英債收益率漲3個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差跌0.904個基點，報+63.806個基點。"
-    },
-    {
-      "id": "5029303",
-      "time": "2026-08-07 00:05:57",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【各期限美債收益率上揚 油價上漲推升加息預期 且Alphabet大舉發債】美國國債下跌。油價從三週低點反彈，推動市場重新押注美聯儲加息；與此同時，谷歌母公司Alphabet Inc.計劃進行一筆鉅額公司債發行。各期限美債收益率上升2至4個基點，其中短期收益率漲幅最大。油價上漲已推動加息預期升溫，而媒體報道稱，如果未來幾周公布的通脹資料偏熱，美聯儲主席凱文·沃什準備加息，進一步強化了這一預期。道明證券美國利率策略師Molly Brooks表示：“美聯儲或許確實需要真正加息，才能證明其認真對待抗擊通脹。”美國下週將公佈7月消費者價格指數和生產者價格指數等關鍵通脹資料，7月就業報告則定於本週五釋出。美聯儲的雙重使命包括維持物價穩定和實現充分就業，因此勞動力市場疲軟也可能限制其為壓低通脹而加息的意願。在Alphabet宣佈將發行10部分債券以籌集高達250億美元資金後，較長期國債收益率觸及盤中高點。"
-    },
-    {
-      "id": "5029302",
-      "time": "2026-08-07 00:05:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國編制完成1∶500萬全月地質圖】基於嫦娥工程等最新探測成果，我國編制完成1∶500萬全月地質圖，對月球歷史進行了一次系統性重寫和精細化描繪，實現從“跟圖”到“制規”的躍升，並且披露了月球“最富有的地層”。這是1∶500萬全月地質圖。（新華社）"
-    },
-    {
-      "id": "te:markets:573456",
-      "time": "2026-08-07 00:05:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Cheese Hits 4-week Low — Cheese decreased to 1.61 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Cheese gained 0.87%, and in the last 12 months, it decreased 8.48%."
     }
   ]
 }
