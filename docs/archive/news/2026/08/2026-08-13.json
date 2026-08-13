@@ -1,7 +1,74 @@
 {
   "date": "2026-08-13",
-  "count": 998,
+  "count": 1005,
   "items": [
+    {
+      "id": "5038677",
+      "time": "2026-08-13 13:59:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4440美元/盎司，日內跌0.63%。"
+    },
+    {
+      "id": "mkt:019ff9b3-7ee2-7aab-9019-b5822d9fdbbb",
+      "time": "2026-08-13 13:58:37",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk said its ocean business performed strongly, with EBIT up significantly YoY and returning to positive sequential growth."
+    },
+    {
+      "id": "mkt:019ff9b2-d673-7aab-9019-a8e66e718955",
+      "time": "2026-08-13 13:57:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo Group (00992.HK) extended gains in afternoon Hong Kong trade, rising more than 20%."
+    },
+    {
+      "id": "mkt:019ff9b2-79a2-7aab-9019-a4f73b805fba",
+      "time": "2026-08-13 13:57:31",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk: Q2 results benefited from sharp freight-rate increases and volume growth across all business segments."
+    },
+    {
+      "id": "5038676",
+      "time": "2026-08-13 13:57:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國7月汽車出口超62億美元，創歷年同期新高】韓國產業通商部8月13日釋出資料顯示，7月韓國汽車出口額同比增加7%，為62.4億美元，創下歷年同期新高。其中，新能源汽車出口額同比增加25.5%，為25.9億美元，佔整體出口額的41.5%。燃油汽車出口額則同比減少3.1%，為36.5億美元。"
+    },
+    {
+      "id": "mkt:019ff9b2-3f5d-7aab-9019-9a7f562e171f",
+      "time": "2026-08-13 13:57:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk said profit growth lifted free cash flow to $549m, up from a year earlier."
+    },
+    {
+      "id": "5038675",
+      "time": "2026-08-13 13:56:13",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【聯想集團港股漲超21%】聯想集團港股漲21%，報35.32港元。"
+    },
     {
       "id": "mkt:019ff9b0-7694-7aab-9019-941166d5d904",
       "time": "2026-08-13 13:55:19",
