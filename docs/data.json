@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-13 10:39:30",
-  "count": 14976,
+  "updated": "2026-08-13 10:43:20",
+  "count": 14968,
   "items": [
+    {
+      "id": "mkt:019ff8fe-bfb0-7aab-9017-6988494315f4",
+      "time": "2026-08-13 10:41:12",
+      "tags": [
+        "MKT News",
+        "09688.HK",
+        "Impact bullish",
+        "02157.HK",
+        "01093.HK"
+      ],
+      "text": "Hong Kong innovative-drug stocks strengthened: 09688.HK rose more than 5%, 02157.HK climbed over 4%, and 09926.HK and CSPC PHARMA (01093.HK) also gained."
+    },
+    {
+      "id": "5038492",
+      "time": "2026-08-13 10:40:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：天孚通訊淨買入超14億】截至目前，今日主力資金淨流入14.65億；淨流入TMT、百元股、高價股等板塊，其中TMT板塊淨流入153.14億；淨流出小金屬、有色金屬概念、有色金屬等板塊，其中小金屬板塊淨流出84.79億。\n  \n個股方面，天孚通訊淨買入14.52億元位居首位，新易盛、中際旭創、利通電子主力資金淨流入居前；風華高科淨賣出7.78億元位居首位，紫金礦業、勝宏科技、永鼎股份淨流出額居前。"
+    },
+    {
+      "id": "5038491",
+      "time": "2026-08-13 10:39:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“十五五”時期 應對氣候變化將聚焦“五個重點”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期是實現碳達峰的決勝期，也是落實2035年國家自主貢獻的關鍵期。生態環境部將聚焦“五個重點”，統籌推進應對氣候變化工作。一是持續推動重點領域綠色低碳轉型。二是加快推進全國碳市場建設。三是完善碳排放統計核算體系。四是全面提升氣候韌性。五是積極推動應對氣候變化國際合作。（央視新聞）"
+    },
+    {
+      "id": "5038490",
+      "time": "2026-08-13 10:39:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【索通發展在內蒙古成立碳素製品公司】企查查APP顯示，近日，內蒙古索通星途碳素製品有限公司成立，法定代表人為唐浩，經營範圍包含石墨及碳素製品製造；石墨及碳素製品銷售；熱力生產和供應；發電業務、輸電業務、供（配）電業務等。企查查股權穿透顯示，該公司由索通發展全資持股。"
+    },
     {
       "id": "5038489",
       "time": "2026-08-13 10:38:55",
@@ -136439,112 +136475,6 @@
         "公司"
       ],
       "text": "【國瓷材料：目前公司已建成硫化物固態電解質自動化生產線 量產能力初步構建】國瓷材料8月5日在分析師會議上表示，隨著全固態電池產業化程序推進，硫化物固態電解質因其高離子電導率等優勢，成為核心關鍵材料。目前公司已建成硫化物固態電解質自動化生產線，量產能力初步構建，產品品質得到客戶的高度認可，公司正在密切配合下游重點客戶的產業化程序，後續將根據市場需求變化及下游客戶的產業化進度，合理規劃擴產節奏，協同推進全固態電池的商業化落地。"
-    },
-    {
-      "id": "5027878",
-      "time": "2026-08-06 10:42:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國瓷材料：針對AI伺服器及車規級MLCC粉體 已完成部分高階產線的擴產工作】國瓷材料8月5日在分析師會議上表示，受益於行業景氣度持續回升以及AI伺服器、汽車電子等新興應用領域需求的拉動，公司上半年MLCC介質粉體銷量實現穩步增長；為更好滿足下游客戶需求，公司針對AI伺服器及車規級MLCC粉體，已完成部分高階產線的擴產工作。後續，隨著新增產能逐步釋放，MLCC粉體的產銷量有望進一步提升；同時，公司將持續跟蹤市場需求變化，適時推進擴產計劃，確保供給能力與市場節奏相匹配。"
-    },
-    {
-      "id": "mkt:019fd4f3-97a4-7aab-8f99-66a2a6973b51",
-      "time": "2026-08-06 10:42:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "SHFE nickel main contract fell 2.00% intraday to 128,320 yuan/ton."
-    },
-    {
-      "id": "mkt:019fd4f3-68e7-7aab-8f99-5ad08eb7ea56",
-      "time": "2026-08-06 10:42:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【ZTE and Sky47 complete Pakistan’s largest intelligent-computing data center】ZTE and Pakistani cloud provider Sky47 inaugurated Sky47 Karakoram-01 in Islamabad, billed as Pakistan’s largest integrated general- and AI-computing data center. The country’s first customized AI-native Tier III facility has total power capacity of 8.5 MW and will supply cloud, colocation and advanced digital services nationwide to meet government and corporate AI, ML and HPC compute demand."
-    },
-    {
-      "id": "5027877",
-      "time": "2026-08-06 10:42:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "N津富漲超133%，成交額超8.6億元。"
-    },
-    {
-      "id": "mkt:019fd4f2-f057-7aab-8f99-5186e240fb84",
-      "time": "2026-08-06 10:41:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "N Jinfu, a bicycle manufacturer, rallied more than 133% with trading value above 860 million yuan."
-    },
-    {
-      "id": "5027876",
-      "time": "2026-08-06 10:41:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【中企承建喀麥隆尼永河大橋建成通車】中交一公局集團承建的喀麥隆尼永河大橋竣工通車儀式5日在喀麥隆中部大區的尼永-凱萊舉行，喀公共工程部長、交通部長和社會事務部長等出席儀式。喀公共工程部長埃馬紐埃爾·恩加努·朱梅西高度評價中方在施工組織、技術應用和履約管理等方面展現出的專業水平，認為大橋的建成不僅保障了當地居民安全便捷跨越尼永河，也將在促進農業發展、帶動區域經濟和加強互聯互通等方面發揮重要作用。“大橋比合同工期提前9個月建成，是各方密切協作、共同努力所取得的重要成果。”他說。（新華社）"
-    },
-    {
-      "id": "te:economy:573208",
-      "time": "2026-08-06 10:41:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Holds Decline — The yield on the 10-year US Treasury note hovered around 4.6% on Thursday, down about 10 basis points so far this week as the partial reopening of the Strait of Hormuz continued to pressure oil prices, easing inflation concerns and reducing expectations for more aggressive Federal Reserve tightening. Iran and Oman reached an agreement to establish a shipping corridor through the strait, boosting hopes for stronger energy flows from the Middle East. In response, markets pared expectations for Fed interest rate hikes this year, now pricing in just one increase by year-end, down from two as recently as last week. Meanwhile, Fed Governor Lisa Cook reiterated that she is prepared to raise rates if inflation does not continue to ease. Separately, San Francisco Fed President Mary Daly said she supported the central bank’s decision to leave rates unchanged last week, while cautioning that persistently elevated inflation may require a more forceful policy response."
-    },
-    {
-      "id": "5027875",
-      "time": "2026-08-06 10:40:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MiniMax註冊資本增至55億元】企查查APP顯示，近日，MiniMax關聯公司上海稀宇極智科技有限公司發生工商變更，註冊資本由40億元增至55億元，增資15億元。此前5月，該公司註冊資本由10億元增至40億元，增資30億元。企查查資訊顯示，該公司成立於2021年，經營範圍包含：計算機系統服務；資訊系統整合服務；資訊系統執行維護服務；人工智慧基礎軟體開發；人工智慧應用軟體開發等。"
-    },
-    {
-      "id": "5027874",
-      "time": "2026-08-06 10:40:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【主力資金：長鑫科技淨賣出超17億】截至目前，今日主力資金淨流出164.50億；淨流入昨日高振幅、PCB概念、5G等板塊，其中昨日高振幅板塊淨流入64.03億；淨流出轉融券標的、融資融券、MSCI中國等板塊，其中轉融券標的板塊淨流出161.91億。\n  \n個股方面，景旺電子淨買入8.27億元位居首位，勝宏科技、方正科技、長電科技主力資金淨流入居前；長鑫科技淨賣出17.82億元位居首位，寧德時代、兆易創新、風華高科淨流出額居前。"
-    },
-    {
-      "id": "5027873",
-      "time": "2026-08-06 10:40:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寒武紀啟動2027屆校園招聘】8月6日，寒武紀宣佈2027屆校園招聘正式啟動，面向於2026年9月-2027年8月畢業的高校應屆畢業生，招聘方向為晶片類、軟體類、職能與研發支援類，工作地點在北京、上海、深圳、合肥、西安和南京。"
-    },
-    {
-      "id": "5027872",
-      "time": "2026-08-06 10:39:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【證通電子與倍瑞思浸沒液冷試點落地 為高密度算力機房升級提供新思路】倍瑞思官微訊息，近日，倍瑞思與證通電子完成浸沒式液冷試點落地，為高密度算力機房升級打造可落地範本。本次試點核心硬體為針對浸沒場景專項研發的智算伺服器，搭載8張RTX5090算力卡，適配AI訓練、模型推理、模擬渲染等高負載工作。本次雙方合作打通定製伺服器、存量暖通複用、穩定運維完整鏈路，解決行業普遍存在的液冷改造成本高等痛點。未來雙方將基於本次試點持續最佳化，研發多機櫃並聯方案，完善不同水溫、不同算力硬體的適配標準，推動浸沒液冷從大型超算走向普惠落地。"
-    },
-    {
-      "id": "mkt:019fd4f0-e982-7aab-8f99-4fd5104e6182",
-      "time": "2026-08-06 10:39:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White House denies Trump-Hegseth clash over ammunition shortages】White House press secretary Leavitt said on Aug. 5 a Washington Post report that President Trump and Defense Secretary Hegseth argued at Camp David over severe US missile and munitions shortages tied to the Iran conflict was \"fake news.\" Leavitt said she was at Camp David with Trump and Hegseth and the incident did not occur, and that they have repeatedly told the Washington Post the same. The Washington Post, citing sources, reported on Aug. 5 that last week Trump expressed strong displeasure at Camp David and demanded an explanation from Hegseth over an alleged weapons shortfall."
     }
   ]
 }
