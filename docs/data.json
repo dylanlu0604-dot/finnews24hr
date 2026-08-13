@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-14 02:16:26",
-  "count": 15348,
+  "updated": "2026-08-14 02:20:17",
+  "count": 15352,
   "items": [
+    {
+      "id": "mkt:019ffc5a-250e-7aab-902c-11d11c3be5ff",
+      "time": "2026-08-14 02:19:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. National Transportation Safety Board (NTSB) said it is further assessing whether this incident shares commonalities with the 2018 Southwest Airlines engine failure. Inspection records show the engine underwent routine maintenance in May with no anomalies detected."
+    },
+    {
+      "id": "mkt:019ffc59-dd94-7aab-902c-0eb9db919673",
+      "time": "2026-08-14 02:19:35",
+      "tags": [
+        "MKT News",
+        "RYA.L"
+      ],
+      "text": "U.S. National Transportation Safety Board (NTSB) said its investigation into a Ryanair flight's emergency landing in July remains ongoing; investigators recovered bird remains, including feathers, near the affected engine."
+    },
+    {
+      "id": "te:markets:575177",
+      "time": "2026-08-14 02:18:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Shopify Stock Price Hits 29-week High — Shopify shares increased to 216.92 CAD, the highest since January 2026. Over the past 4 weeks, Shopify Inc gained 22.63%, and in the last 12 months, it increased 8.72%."
+    },
+    {
+      "id": "5039952",
+      "time": "2026-08-14 02:18:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷經濟部長：美元貸款將降低比索利率。"
+    },
+    {
+      "id": "5039951",
+      "time": "2026-08-14 02:18:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿根廷允許銀行將美元存款最高15%用於向企業放貸。"
+    },
     {
       "id": "5039950",
       "time": "2026-08-14 02:15:40",
@@ -140407,17 +140452,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Sugar Rises by 2.84% — Top commodity gainers are Sugar (2.84%) and Rice (0.81%). Biggest losers are Cocoa (-2.70%) and Oat (-2.61%)."
-    },
-    {
-      "id": "te:markets:573473",
-      "time": "2026-08-07 02:20:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Rises by 1.84% — Top commodity gainers are Iron Ore CNY (1.84%), Lithium Carbonate (0.89%) and Silicon (0.66%). Biggest loser is Silver (-0.80%)."
     }
   ]
 }
