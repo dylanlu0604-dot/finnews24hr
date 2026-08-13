@@ -1,7 +1,98 @@
 {
   "date": "2026-08-13",
-  "count": 1817,
+  "count": 1827,
   "items": [
+    {
+      "id": "5039189",
+      "time": "2026-08-13 17:57:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五礦資本：子公司2026年度第二期短期融資券發行完畢】五礦資本公告稱，公司控股子公司五礦證券2026年度第二期短期融資券於2026年8月12日發行完畢。該短期融資券簡稱“26五礦證券CP002”，期限365天，發行總額8億元，票面利率1.58%，起息日為2026年8月13日，兌付日為2027年8月13日。相關發行檔案已在中國貨幣網和上海清算所網站刊登。"
+    },
+    {
+      "id": "5039188",
+      "time": "2026-08-13 17:56:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "越南總理要求央行維持政策利率不變。"
+    },
+    {
+      "id": "mkt:019ffa8d-6556-7aab-9021-813994e43fc4",
+      "time": "2026-08-13 17:56:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Ministry of Intelligence said it dismantled two operational cells of 'terrorist extremist groups' in southeastern Iran, arresting four terrorists and killing two."
+    },
+    {
+      "id": "5039187",
+      "time": "2026-08-13 17:56:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗投資者服務部門贏得全球保險集團安顧資產管理價值3800億美元的中臺業務委任。"
+    },
+    {
+      "id": "5039186",
+      "time": "2026-08-13 17:56:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楊元慶談聯想業績：非“天上掉餡餅”，源自長期耕耘和投資】聯想集團披露2026/27財年第一季度財報業績。在溝通會上，聯想集團董事長兼CEO楊元慶表示，公司取得的優異業績並非天上掉餡餅或單純趕上市場浪潮，而是多年耕耘與投資積累的結果。楊元慶回憶稱：“2014年聯想收購IBM x86伺服器業務，那時候還沒有云計算，也沒有像微軟、亞馬遜、阿里的雲服務。但我們持續在業務上進行投資，建立客戶關係，拓寬產品線等，使得雲基礎設施業務與企業基礎設施業務並駕齊驅。”（新浪科技）"
+    },
+    {
+      "id": "5039185",
+      "time": "2026-08-13 17:55:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【藍盾光電：股價異動，公司擬發行股份收購蘇州嵐創科技事項正有序推進】藍盾光電公告，公司股票交易價格連續2個交易日（2026年8月12日、8月13日）收盤價格漲幅偏離值累計超過30%，且連續4個交易日（2026年8月10日至8月13日）累計超過100%，屬於股票交易異常波動及嚴重異常波動。經核查，公司正籌劃透過發行股份及支付現金方式收購蘇州嵐創科技有限公司控股權並募集配套資金，目前審計、評估、盡職調查等工作正在有序推進中。公司2025年度營業收入3.99億元，同比下降34.53%；歸屬於上市公司股東的淨利潤-8876.65萬元，同比下降1,468.72%。"
+    },
+    {
+      "id": "5039184",
+      "time": "2026-08-13 17:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日久光電：變更回購股份用途，公司擬登出482.89萬股回購股份】日久光電（003015.SZ）於8月13日披露第四屆董事會第十六次會議決議公告。據公告披露，根據資本市場變化以及自身實際情況，為傳遞公司價值，增強投資者信心，同時為切實維護廣大投資者利益，提高公司長期投資價值，提升每股收益水平，公司擬對2024年2月8日召開的第三屆董事會第十八次會議審議透過的《關於回購公司股份方案的議案》的回購股份用途進行變更為“用於登出並減少公司註冊資本”，即登出公司回購專用證券賬戶中2024年已回購的482.89萬股股份，並相應減少公司註冊資本。"
+    },
+    {
+      "id": "5039183",
+      "time": "2026-08-13 17:55:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "大眾集團與貝恩資本收購Everllence的交易獲歐盟批准。"
+    },
+    {
+      "id": "mkt:019ffa8b-5436-7aab-9021-7ae9fdd9024c",
+      "time": "2026-08-13 17:54:22",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Asian tech seek richer U.S. valuations; ADR issuance highest since 2020】Citigroup expects more Asian companies to list in the U.S. as tech firms seek higher valuations and access ample U.S. equity capital. Adrian Nye, head of Japan, North Asia and Australia issuer services at Citigroup, says Asian techs are using American depositary receipts to trade alongside U.S. peers. Compiled data show Philadelphia Semiconductor Index constituents trade at an average P/E of about 22x—more than twice that of Asian peers. Year-to-date Asian ADR issuance is roughly $28 billion, the most since 2020, led by SK Hynix's $26.5 billion U.S. listing; Japan payments provider PayPay contributed about $1 billion."
+    },
+    {
+      "id": "te:markets:575057",
+      "time": "2026-08-13 17:54:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Falls on Thursday — The British pound eased below $1.35, as investors balanced resilient UK economic data against persistent geopolitical uncertainty in the Middle East. UK GDP expanded 0.4% quarter-on-quarter in the second quarter, matching economists’ expectations and following 0.6% growth in the first quarter. June activity was stronger than anticipated, with monthly GDP rising 0.3%. However, household consumption growth slowed to 0.2%, highlighting continued pressure on consumers. Meanwhile, negotiations aimed at ending the US-Iran conflict and reopening the Strait of Hormuz remained stalled, with shipping disruptions and attacks continuing to weigh on sentiment. The Bank of England left interest rates unchanged in July, with Governor Andrew Bailey saying disinflation remained on track despite persistent external risks."
+    },
     {
       "id": "5039182",
       "time": "2026-08-13 17:53:25",
