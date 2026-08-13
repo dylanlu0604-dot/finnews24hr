@@ -1,7 +1,51 @@
 {
   "date": "2026-08-14",
-  "count": 17,
+  "count": 21,
   "items": [
+    {
+      "id": "te:markets:575165",
+      "time": "2026-08-14 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 5 points or 0.01 percent on Thursday to close at 53693 points. The decline was led by Unipol Gruppo (-1.41%), Infrastrutture Wire (-1.32%) and Assicurazioni Generali (-1.13%). On the upside, the strongest performers were Saipem (3.27%), Fincantieri (2.52%) and Nexi (2.46%)."
+    },
+    {
+      "id": "te:markets:575164",
+      "time": "2026-08-14 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.12% Lower — The DAX Index fell 31 points or 0.12 percent on Thursday to close at 26300 points. Leading the losses are Porsche Automobil (-2.20%), BASF (-2.15%) and Mercedes-Benz AG (-1.61%). Top gainers were RWE (2.99%), Continental (2.95%) and Fresenius (2.55%)."
+    },
+    {
+      "id": "5039874",
+      "time": "2026-08-14 00:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【為月球正反面差異提供科學證據 嫦娥六號月壤研究取得新進展】記者近日從自然資源部中國地質調查局瞭解到，中國地質科學院地質研究所研究團隊對嫦娥六號月壤樣品的研究取得新進展，為破解月球正反面存在巨大差異的謎題提供了新證據。（央視新聞）"
+    },
+    {
+      "id": "te:markets:575163",
+      "time": "2026-08-14 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.29% Lower — The CAC 40 Index dropped 25 points or 0.29 percent on Thursday to close at 8650 points. Losses were led by Dassault Systemes (-2.24%), Safran (-1.90%) and STMicroelectronics (-1.67%). Offsetting the fall, top gainers were Danone (1.43%), Sanofi (1.24%) and Edenred (0.94%)."
+    },
     {
       "id": "mkt:019ffbe1-709d-7aab-902a-c570b0a0eb81",
       "time": "2026-08-14 00:08:03",

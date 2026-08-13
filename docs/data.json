@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-14 00:09:15",
-  "count": 15231,
+  "updated": "2026-08-14 00:13:15",
+  "count": 15232,
   "items": [
+    {
+      "id": "te:markets:575165",
+      "time": "2026-08-14 00:12:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 5 points or 0.01 percent on Thursday to close at 53693 points. The decline was led by Unipol Gruppo (-1.41%), Infrastrutture Wire (-1.32%) and Assicurazioni Generali (-1.13%). On the upside, the strongest performers were Saipem (3.27%), Fincantieri (2.52%) and Nexi (2.46%)."
+    },
+    {
+      "id": "te:markets:575164",
+      "time": "2026-08-14 00:11:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.12% Lower — The DAX Index fell 31 points or 0.12 percent on Thursday to close at 26300 points. Leading the losses are Porsche Automobil (-2.20%), BASF (-2.15%) and Mercedes-Benz AG (-1.61%). Top gainers were RWE (2.99%), Continental (2.95%) and Fresenius (2.55%)."
+    },
+    {
+      "id": "5039874",
+      "time": "2026-08-14 00:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【為月球正反面差異提供科學證據 嫦娥六號月壤研究取得新進展】記者近日從自然資源部中國地質調查局瞭解到，中國地質科學院地質研究所研究團隊對嫦娥六號月壤樣品的研究取得新進展，為破解月球正反面存在巨大差異的謎題提供了新證據。（央視新聞）"
+    },
+    {
+      "id": "te:markets:575163",
+      "time": "2026-08-14 00:10:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.29% Lower — The CAC 40 Index dropped 25 points or 0.29 percent on Thursday to close at 8650 points. Losses were led by Dassault Systemes (-2.24%), Safran (-1.90%) and STMicroelectronics (-1.67%). Offsetting the fall, top gainers were Danone (1.43%), Sanofi (1.24%) and Edenred (0.94%)."
+    },
     {
       "id": "mkt:019ffbe1-709d-7aab-902a-c570b0a0eb81",
       "time": "2026-08-14 00:08:03",
@@ -139322,42 +139366,6 @@
         "Importance 0"
       ],
       "text": "CAC 40 Advances as Luxury Stocks Gain — The CAC 40 rose 0.3% to close at 8,670 on Thursday, extending its winning streak to six sessions on gains in the luxury sector. Luxury stocks rose after strong quarterly results from Chanel. Hermès jumped 5.2% after being named a top sector pick by Berenberg. Kering rose 1.9%, while LVMH (+0.4%) and L'Oréal (+0.5%) also advanced. Meanwhile, private-sector payroll employment fell 0.1% quarter-on-quarter, or 19,300 jobs, to 21 million in the second quarter, in line with expectations. Signs of a cooling labor market could support a more dovish stance from the ECB. Financial stocks advanced, with BNP Paribas up 0.4% and AXA gaining 0.8%. Also, the Construction PMI rose to a five-month high of 41.5 in July 2026 from 38.2 in June. Vinci went up 0.6%, Bouygues gaining 0.8%, and Eiffage adding 0.5%. TotalEnergies gained 1% on higher oil prices, while Safran (-0.9%) and Airbus (-1.2%) weighed on the index. Unemployment and trade balance data will be released tomorrow."
-    },
-    {
-      "id": "te:markets:573463",
-      "time": "2026-08-07 00:12:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.44% Higher — The FTSE MIB Index went up by 236 points or 0.44 percent on Thursday to close at 53683 points. The rise was led by Avio (5.67%), Banco BPM SPA (3.93%) and Leonardo SpA (2.14%). On the downside, the weakerst performers were Tenaris (-7.04%), Buzzi Unicem (-1.26%) and Snam (-0.77%)."
-    },
-    {
-      "id": "te:markets:573462",
-      "time": "2026-08-07 00:11:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.05% Higher — The DAX Index rose 14 points or 0.05 percent on Thursday to close at 26140 points. Leading the gains are Deutsche Telekom (6.31%), Henkel (3.92%) and Zalando (2.66%). Top losers were Scout24 (-6.81%), Siemens (-4.69%) and Rheinmetall (-4.32%)."
-    },
-    {
-      "id": "te:markets:573461",
-      "time": "2026-08-07 00:10:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.50% Higher — The CAC 40 Index gained 43 points or 0.50 percent on Thursday to close at 8713 points. Gains were led by Hermes International (5.90%), Orange (2.66%) and Publicis (2.28%). Biggest losers were Edenred (-1.33%), Airbus (-1.16%) and ArcelorMittal (-1.15%)."
     }
   ]
 }
