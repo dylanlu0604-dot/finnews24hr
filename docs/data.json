@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-14 03:18:51",
-  "count": 15406,
+  "updated": "2026-08-14 03:26:48",
+  "count": 15407,
   "items": [
+    {
+      "id": "mkt:019ffc95-487f-7aab-902c-ee3518537a79",
+      "time": "2026-08-14 03:24:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BOC: Canadian Investment Markets Association (CIMPA) and CDS have launched a pilot \"failure fee framework\" for Canadian government securities trades."
+    },
+    {
+      "id": "mkt:019ffc92-70fb-7aab-902c-e6cff25e83ad",
+      "time": "2026-08-14 03:21:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down on 13th】The dollar index, measuring the dollar against six major currencies, fell 0.05% to 99.964 at the New York close on the 13th. EUR/USD 1.1529, up from 1.1521; GBP/USD 1.3485, down from 1.3488. USD/JPY 159.51, up from 159.49; USD/CHF 0.8139, up from 0.8137. USD/CAD 1.3936, down from 1.3947; USD/SEK 9.5684, down from 9.5858."
+    },
+    {
+      "id": "5039996",
+      "time": "2026-08-14 03:20:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數13日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.05%，在匯市尾市收於99.964。截至紐約匯市尾市，1歐元兌換1.1529美元，高於前一交易日的1.1521美元；1英鎊兌換1.3485美元，低於前一交易日的1.3488美元。1美元兌換159.51日元，高於前一交易日的159.49日元；1美元兌換0.8139瑞士法郎，高於前一交易日的0.8137瑞士法郎；1美元兌換1.3936加元，低於前一交易日的1.3947加元；1美元兌換9.5684瑞典克朗，低於前一交易日的9.5858瑞典克朗。"
+    },
+    {
+      "id": "mkt:019ffc90-aaa8-7aab-902c-db078c34a6d2",
+      "time": "2026-08-14 03:19:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRGC navy says Strait of Hormuz closed】IRNA quoted the IRGC naval commander saying the Strait of Hormuz is closed and that Iran exercises full, firm control; all movements in the strait are monitored by IRGC naval forces. He said the truth will be determined on the battlefield rather than by US announcements."
+    },
     {
       "id": "5039995",
       "time": "2026-08-14 03:17:09",
@@ -140930,35 +140970,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲4%，現報78.25美元/桶。"
-    },
-    {
-      "id": "5029501",
-      "time": "2026-08-07 03:25:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社援引知情訊息源稱，格什姆島傳出的兩聲爆炸，與霍爾木茲海峽入口附近針對敵對目標採取的軍事行動有關。"
-    },
-    {
-      "id": "te:economy:573477",
-      "time": "2026-08-07 03:25:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Brazil Trade Surplus Misses Forecasts — Brazil's trade surplus widened 1.0% year-on-year to $7.07 billion in July 2026, below market expectations of an $8.4 billion surplus. Exports rose 6.2% to $34.12 billion. Agricultural exports increased 9.3%, led by live animals (29.9%), soybeans (17.4%), and raw cotton (27.2%). Shipments from extractive industries advanced 10.8%, supported by other crude minerals (55.5%), base metal ores and concentrates (101.5%), and crude petroleum (23.8%). Manufacturing exports rose 2.4%, boosted by pulp (30.8%), fuel oils excluding crude (63.0%), and vegetable fats and oils (149.5%). Meanwhile, imports climbed 7.6% to $27.05 billion, driven by a 31.4% increase in extractive industry purchases and a 6.9% rise in manufacturing imports, led by pharmaceuticals (44.1%), fuel oils (31.4%), and data processing equipment (216.7%)."
-    },
-    {
-      "id": "5029500",
-      "time": "2026-08-07 03:24:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗法爾斯通訊社：伊朗在霍爾木茲海峽打擊 “敵對目標” 。"
     }
   ]
 }
