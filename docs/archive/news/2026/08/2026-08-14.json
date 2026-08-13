@@ -1,7 +1,33 @@
 {
   "date": "2026-08-14",
-  "count": 170,
+  "count": 172,
   "items": [
+    {
+      "id": "mkt:019ffc68-88a9-7aab-902c-4b378d2dcf46",
+      "time": "2026-08-14 02:35:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange (SGE) gold T+D closed down 0.96% at 945.3 yuan/gram in the Aug. 13 late session; SGE silver T+D fell 1.21% to 15,740 yuan/kg."
+    },
+    {
+      "id": "mkt:019ffc68-6fdf-7aab-902c-431745de04fd",
+      "time": "2026-08-14 02:35:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 1.24% to 948 yuan/gram, SHFE silver main contract fell 1.48% to 15,805 yuan/kg, and SC crude oil main contract rose 0.79% to 559 yuan/barrel."
+    },
     {
       "id": "mkt:019ffc68-40df-7aab-902c-3f51477f5050",
       "time": "2026-08-14 02:35:18",
