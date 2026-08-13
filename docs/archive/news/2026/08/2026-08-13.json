@@ -1,7 +1,47 @@
 {
   "date": "2026-08-13",
-  "count": 793,
+  "count": 799,
   "items": [
+    {
+      "id": "5038540",
+      "time": "2026-08-13 11:30:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年三峽樞紐透過量已達1億噸】從長江三峽通航管理局瞭解到，截至2026年8月13日0時40分，三峽樞紐透過量達1億噸。其中，三峽船閘執行5863閘次，透過船舶21562艘次，透過量9727.6萬噸；三峽升船機執行2557廂次，透過船舶2590艘次、旅客44.6萬人次。共保障2846.8萬噸民生物資、77.8萬噸重點急運物資便捷過壩。"
+    },
+    {
+      "id": "5038539",
+      "time": "2026-08-13 11:30:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2027國際（佛山）衛浴科技博覽會將於明年10月舉辦】2027國際（佛山）衛浴科技博覽會定於2027年10月21日—24日落地佛山潭洲國際會展中心，由佛山、中山、開平、鶴山四大衛浴產區首次聯合舉辦，展會規模近5萬平方米，預計吸引海內外5萬名採購商到場。"
+    },
+    {
+      "id": "5038538",
+      "time": "2026-08-13 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤收盤】 中證1000指數期貨連續漲0.70%， 滬深300指數期貨連續漲0.44%， 中證500指數期貨連續漲0.86%， 上證50指數期貨連續漲0.34%。"
+    },
+    {
+      "id": "5038537",
+      "time": "2026-08-13 11:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨早盤收盤】玻璃連續跌2.82%，純鹼連續跌2.63%，丁二烯橡膠連續漲2.30%，甲醇連續漲1.77%，集運指數歐線期貨連續漲1.75%。"
+    },
+    {
+      "id": "5038536",
+      "time": "2026-08-13 11:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨早盤收盤】 30年期主力合約漲0.40%， 10年期主力合約漲0.05%， 5年期主力合約漲0.03%， 2年期主力合約漲0.01%。"
+    },
     {
       "id": "mkt:019ff928-a3c6-7aab-9017-d96a63dc0062",
       "time": "2026-08-13 11:26:57",
@@ -9,6 +49,14 @@
         "MKT News"
       ],
       "text": "【Zhenbao Technology plans 520 mln yuan Guanggu semiconductor components R&D and production base】Chinese-listed semiconductor components firm Zhenbao Technology plans to invest 520 mln yuan to build an R&D and production base in Guanggu with a three-year construction period. The site will focus on silicon carbide components, high-purity silicon precision parts and aluminum nitride ceramic materials and supporting parts — consumables for front-end wafer processes such as etch and thin-film deposition. On commissioning, the base is expected to rapidly expand the company’s capacity and provide nearby supply to wafer fabs in Central China, shortening delivery times."
+    },
+    {
+      "id": "5038535",
+      "time": "2026-08-13 11:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【凌志軟體中標頭部券商統一AI門戶數字員工專案】據凌志軟體公眾號訊息，近日，凌志軟體成功中標某頭部券商統一AI門戶數字員工專案。圍繞財富經紀一線場景建設數字員工能力，推動AI從對話問答走向任務執行、從單點應用走向平臺化落地。"
     },
     {
       "id": "mkt:019ff928-1b1b-7aab-9017-d0ecdd4f0519",
