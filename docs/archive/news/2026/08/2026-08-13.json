@@ -1,7 +1,169 @@
 {
   "date": "2026-08-13",
-  "count": 1539,
+  "count": 1555,
   "items": [
+    {
+      "id": "5038983",
+      "time": "2026-08-13 16:40:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "中芯國際：對行業發展趨勢保持樂觀展望。"
+    },
+    {
+      "id": "mkt:019ffa47-48b7-7aab-901f-958a6ceef65f",
+      "time": "2026-08-13 16:40:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC (00981.HK): AI-driven industrial momentum and spillover effects will continue, sustaining broad demand for China’s integrated-circuit manufacturing."
+    },
+    {
+      "id": "mkt:019ffa47-0f39-7aab-901f-8f7282d9f1d3",
+      "time": "2026-08-13 16:39:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC (00981.HK) said it is flexibly reallocating existing capacity and rapidly validating additional capacity to help ease industry-wide supply shortages."
+    },
+    {
+      "id": "te:markets:575031",
+      "time": "2026-08-13 16:39:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Holds at 2-Week High — US gasoline futures traded around $3.10 per gallon, remaining near a two-week high as markets assessed the prospects of a potential deal over the Strait of Hormuz. Following President Trumps statement that the US had \"total control\" over the strategic waterway, Tehran stated the Strait of Hormuz was \"under Iran's control and management\", adding to uncertainty over the situation. Meanwhile, EIA data showed US crude inventories recorded their largest weekly increase since early 2023. However, gasoline stocks fell by 1 million barrels in the week ended August 7th, below expectations, leaving inventories 6% below the five-year seasonal average. Elsewhere, intensifying Russia-Ukraine attacks heightened concerns over prolonged energy disruptions, after Ukraine targeted major Russian refineries. Russia’s overseas crude shipments fell to their lowest since May, while Moscow extended its gasoline export ban through January 2027."
+    },
+    {
+      "id": "mkt:019ffa46-e329-7aab-901f-86c5c7be4422",
+      "time": "2026-08-13 16:39:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00981.HK"
+      ],
+      "text": "SMIC (00981.HK) expects Q3 revenue to rise 2-4% QoQ; gross margin guidance 26-28%."
+    },
+    {
+      "id": "mkt:019ffa46-aff3-7aab-901f-78b3ab0e07bf",
+      "time": "2026-08-13 16:39:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC (00981.HK) reported Q2 2026 net profit of 479 mln yuan, versus 132 mln yuan a year earlier, a roughly 263% YoY increase."
+    },
+    {
+      "id": "5038982",
+      "time": "2026-08-13 16:39:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，熱帶低壓已在東太平洋上空增強為熱帶風暴埃爾南。"
+    },
+    {
+      "id": "mkt:019ffa46-83ee-7aab-901f-76a21832ebe9",
+      "time": "2026-08-13 16:39:12",
+      "tags": [
+        "MKT News",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC (00981.HK): Q2 gross margin 25.3%, up 5.2 percentage points (520 bps) QoQ."
+    },
+    {
+      "id": "mkt:019ffa46-4fc0-7aab-901f-6bec07fadb91",
+      "time": "2026-08-13 16:38:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "SMIC (00981.HK): Q2 2026 revenue rose 20% QoQ."
+    },
+    {
+      "id": "5038981",
+      "time": "2026-08-13 16:38:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【頎中科技：總經理提議7500萬至1.5億元回購股份】頎中科技公告稱，8月12日，公司總經理楊宗銘提議以自有及專項貸款資金，透過集中競價回購公司A股，用於員工激勵，若三年未用完將登出。回購資金7500萬至1.5億元，價格不超董事會前30個交易日均價150%，期限12個月。7月13日，楊宗銘獲歸屬33萬股限制性股票。其因個人資金需求，擬在8月4日至11月3日減持不超44.9966萬股，佔比不超0.04%。該回購需審批，存在不確定性。"
+    },
+    {
+      "id": "5038980",
+      "time": "2026-08-13 16:38:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST興化：持股5%以上股東增持計劃時間過半 已增持4184.73萬元】ST興化公告稱，持股5%以上股東興化集團自2026年5月12日起6個月內，擬增持不低於4000萬元、不超過7000萬元公司股份。截至8月12日，增持計劃實施期限過半，興化集團以集中競價方式累計增持1401.37萬股，增持金額4184.73萬元。截至當日收盤，興化集團持股2.36億股，持股比例18.53%。本次增持計劃尚未實施完畢，可能因市場變化無法達預期，公司將及時披露。"
+    },
+    {
+      "id": "5038979",
+      "time": "2026-08-13 16:38:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "中芯國際：預計第三季度營收環比增長2%-4%，毛利率介於26%-28%。"
+    },
+    {
+      "id": "mkt:019ffa45-d4d3-7aab-901f-669bf0d475ff",
+      "time": "2026-08-13 16:38:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "00981.HK",
+        "Impact bullish"
+      ],
+      "text": "Semiconductor Manufacturing International Corp (00981.HK) reported Q2 2026 revenue of $3.006 bln, up 36.1% YoY from $2.209 bln a year earlier."
+    },
+    {
+      "id": "5038978",
+      "time": "2026-08-13 16:38:12",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中芯國際：第二季度銷售收入30.06億美元，同比增長36.1%】中芯國際公告，2026年第二季度銷售收入30.06億美元，環比增長20.0%，同比增長36.1%。毛利7.61億美元，毛利率25.3%，環比上升5.2個百分點。本期利潤7.33億美元，同比增長399.9%。公司預計2026年第三季度收入環比增長2%至4%，毛利率介於26%至28%之間。"
+    },
+    {
+      "id": "5038977",
+      "time": "2026-08-13 16:38:05",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中芯國際：第二季度淨利潤4.792億美元，預估2.567億美元。"
+    },
+    {
+      "id": "5038976",
+      "time": "2026-08-13 16:37:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國核電總裝機規模居世界第一 中國核電交出亮眼綠色答卷】今年，我國加大核電專案建設力度，57臺機組核准在建，在運和核準在建總裝機達1.35億千瓦。核電工程建設規模穩居世界第一。作為推動經濟社會綠色轉型的重要能源，我國核電以在全國電力裝機中不到2%的佔比，貢獻了近5%的發電量。廣東、福建、遼寧、海南等4個省份的核電發電量佔比均超過15%。核電已成為東部沿海地區重要的清潔能源供給來源。7月底，我國又新核准8臺核電機組，這也是“十五五”時期首批核准的核電專案。“十五五”期間，我國核電建設繼續保持“積極安全有序發展”的原則，穩步推進東部沿海核電帶建設，因地制宜推進核能綜合利用，穩步提升核電在能源電力消費中的比重。（央視財經）"
+    },
     {
       "id": "5038974",
       "time": "2026-08-13 16:36:14",
