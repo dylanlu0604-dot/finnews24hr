@@ -1,7 +1,115 @@
 {
   "date": "2026-08-13",
-  "count": 2481,
+  "count": 2494,
   "items": [
+    {
+      "id": "5039657",
+      "time": "2026-08-13 21:35:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "OPENDOOR TECHNOLOGIES股價下跌3.3%。"
+    },
+    {
+      "id": "5039656",
+      "time": "2026-08-13 21:35:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "Tapestry股價下跌約16%，此前公佈的年度營收低於預期。"
+    },
+    {
+      "id": "te:markets:575124",
+      "time": "2026-08-13 21:34:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Silver Holds Near Recent Highs — Silver fluctuated around $65 an ounce, near the highest since June 22, as softer US inflation data reinforced expectations that the Federal Reserve will leave interest rates unchanged next month. US producer-price inflation eased more than expected in July, helped by lower energy and food costs, providing further evidence that price pressures are not broadly accelerating. However, renewed tensions in the Middle East remain a risk, as any disruption could push energy prices higher and revive inflationary pressures. Oil is heading for a weekly gain as traders continue to monitor efforts by the US and Iran to end the conflict and reopen the Strait of Hormuz. Beyond monetary policy and geopolitical risks, silver continued to benefit from robust industrial demand, particularly from expanding solar-panel manufacturing and electricity-grid investment. Chinese imports of silver-bearing ores jumped 62.5% year-on-year in June to 219,000 tonnes."
+    },
+    {
+      "id": "mkt:019ffb54-f634-7aab-9027-099131bbf00d",
+      "time": "2026-08-13 21:34:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GUNVOR said an explosion in Rotterdam killed one person."
+    },
+    {
+      "id": "mkt:019ffb54-cf7d-7aab-9027-0605ee467aa4",
+      "time": "2026-08-13 21:34:27",
+      "tags": [
+        "MKT News",
+        "SPCE.N",
+        "Impact bearish"
+      ],
+      "text": "Virgin Galactic (SPCE.N) fell 10.4% after reporting second-quarter results."
+    },
+    {
+      "id": "5039655",
+      "time": "2026-08-13 21:33:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "維珍銀河股價在第二季度財報公佈後下跌10.4%，報2.97美元。"
+    },
+    {
+      "id": "mkt:019ffb54-3b27-7aab-9026-fa86980bf0a4",
+      "time": "2026-08-13 21:33:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "GUNVOR reports an explosion at its Rotterdam facility."
+    },
+    {
+      "id": "5039654",
+      "time": "2026-08-13 21:33:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防部長卡茨稱軍方正為在黎巴嫩“長期駐紮”做準備。"
+    },
+    {
+      "id": "5039653",
+      "time": "2026-08-13 21:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤初，主要行業ETF多數上漲，全球航空業ETF漲超1%，區域銀行業ETF、銀行業ETF漲近1%。"
+    },
+    {
+      "id": "5039652",
+      "time": "2026-08-13 21:33:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "ENERSYS股價上漲13%，因第一季度利潤超預期。"
+    },
+    {
+      "id": "mkt:019ffb53-9823-7aab-9026-f1f9359b7b7a",
+      "time": "2026-08-13 21:33:07",
+      "tags": [
+        "MKT News",
+        "CRM.N",
+        "Impact bullish"
+      ],
+      "text": "Salesforce (CRM.N) shares rose 1.1% after JP Morgan resumed coverage and assigned an overweight rating."
+    },
+    {
+      "id": "5039651",
+      "time": "2026-08-13 21:32:55",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "Salesforce股價上漲1.1%；摩根大通恢復覆蓋，給予增持評級。"
+    },
     {
       "id": "mkt:019ffb53-5d2b-7aab-9026-eb07aa1c3166",
       "time": "2026-08-13 21:32:52",
@@ -35,6 +143,14 @@
         "市場"
       ],
       "text": "惠普公司股價上漲7.3%，戴爾公司股價上漲6.1%。"
+    },
+    {
+      "id": "5039647",
+      "time": "2026-08-13 21:32:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報告顯示德國企業破產數量持續處於高位】德國聯邦經濟和能源部13日釋出報告說，德國企業破產數量目前仍處於高位，預計未來幾個月還將有大量企業申請破產。 報告援引德國哈雷經濟研究所企業破產趨勢資料說，2025年8月至2026年7月期間，德國企業破產數量為18478家，同比增長8.3%。 哈雷經濟研究所資料顯示，今年7月德國企業破產數量為1689家，同比增長7%，較2016年至2019年同期平均水平高75%。7月規模最大的10%破產企業涉及1.3萬個工作崗位，其中工業領域涉及近6000個崗位。 德國信用報告機構“信貸改革”公司經濟學家帕特里克-路德維希·漢奇當天表示，預計到今年年底德國企業破產數量還將保持上升態勢，且至少到2027年中期都難以明顯緩解。他此前表示，只有德國經濟恢復穩定增長，企業破產形勢才可能趨於穩定。(新華社)"
     },
     {
       "id": "5039646",
