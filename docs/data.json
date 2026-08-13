@@ -1,7 +1,56 @@
 {
-  "updated": "2026-08-14 04:17:08",
+  "updated": "2026-08-14 04:20:58",
   "count": 15405,
   "items": [
+    {
+      "id": "5040018",
+      "time": "2026-08-14 04:19:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：美國手上有諸多可用於應對伊朗的手段。"
+    },
+    {
+      "id": "mkt:019ffcc7-578d-7aab-902d-561d923e40e9",
+      "time": "2026-08-14 04:19:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filing shows Musk held a 48.4% passive stake in SpaceX (SPCX.O) as of June 30."
+    },
+    {
+      "id": "5040017",
+      "time": "2026-08-14 04:18:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯談及伊朗：最終目標同樣是讓霍爾木茲海峽恢復穩定，油價迴歸平穩。"
+    },
+    {
+      "id": "5040016",
+      "time": "2026-08-14 04:18:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "萬斯：首要目標是讓美國的石油與汽油維持低價。"
+    },
+    {
+      "id": "mkt:019ffcc6-d65a-7aab-902d-48d79ed4fd25",
+      "time": "2026-08-14 04:18:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kushner Plans Israel Visit Next Week to Discuss Gaza, Axios Says】Axios, citing five people, reported Kushner plans to visit Israel next week to discuss Gaza — his first trip since January. The visit coincides with the White House and Trump’s peace committee pushing a next-phase Gaza plan focused on disarming Hamas and a possible Israeli withdrawal. The Netanyahu government is highly skeptical of the U.S. plan and the upcoming October election has heightened political sensitivity. A U.S. official said, \"We are aligned on strategic goals but Israel has expressed some concerns; we want to talk to ensure coordination.\" The official added the visit date could change. Kushner may also meet leaders of other regional states involved in Gaza. The trip indicates the White House does not want the Israeli election to block the next phase; Netanyahu is reluctant to make concessions that could damage his political standing but also seeks to avoid a clash with Trump before the vote."
+    },
+    {
+      "id": "5040015",
+      "time": "2026-08-14 04:18:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "萬斯：伊朗有時不履行承諾."
+    },
     {
       "id": "5040014",
       "time": "2026-08-14 04:12:41",
@@ -140911,58 +140960,6 @@
         "Importance 1"
       ],
       "text": "TSX Slips from Record High — The S&P/TSX Composite Index edged down to close at 36,136 on Thursday, easing from a record high as investors assessed uncertain prospects for a US-Iran peace deal and another round of corporate earnings. Reports indicated that Iran plans to bar US and Israeli vessels from the Strait of Hormuz and require compensation from countries it considers hostile before allowing passage. Higher wholesale fuel prices pushed bond yields up. Financial stocks closed mixed. Brookfield fell 1.1% and Scotiabank lost 0.2%, while RBC and TD Bank edged higher. Celestica plunged 13% after pricing a common share offering at a significant discount to the previous session's close. Lundin Mining fell nearly 3% despite reporting higher second-quarter revenue. Meanwhile, Canadian Natural (+1.6%) gained after beating second-quarter profit estimates. Shopify rose 2.2% after at least six brokerages raised their price targets. WPM (+1.9%) and Sun Life Financial (+0.8%) are set to report earnings after the close."
-    },
-    {
-      "id": "5029535",
-      "time": "2026-08-07 04:20:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：大力度、更嚴厲地打擊生育旅遊。"
-    },
-    {
-      "id": "te:markets:573487",
-      "time": "2026-08-07 04:19:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "AIG earnings above expectations at 2.00 USD — AIG (AIG) released earnings per share at 2.00 USD, compared to market expectations of 1.94 USD."
-    },
-    {
-      "id": "5029534",
-      "time": "2026-08-07 04:19:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萊茵河旱情衝擊德國工業】萊茵河流經德國工業核心地帶，承載著德國約80%的內河航運量。受高溫乾旱影響，近期萊茵河水位持續走低。德國聯邦水路與航運管理局資料顯示，6日，萊茵河咽喉要道——考布河段通航水深已打破2018年創下的歷史最低紀錄。同一天，德國交通部長斯特芬·比爾格召集企業高管、航運公司及港口負責人磋商對策。他表示，短期將研究保障運輸的方案，長期則包括疏浚航道、改善航運條件等。德國商業銀行等機構也警告，若水位繼續下降，德國內河航運成本可能繼續升高，供應鏈中斷和工業減產風險將進一步上升。（央視新聞）"
-    },
-    {
-      "id": "5029533",
-      "time": "2026-08-07 04:18:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：該行政令擴大了不享有出生地公民權的人員範圍，特此禁止生育旅遊。"
-    },
-    {
-      "id": "5029532",
-      "time": "2026-08-07 04:17:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "DraftKings 第二季度營收 14.4 億美元，市場預期 15.1 億美元。"
-    },
-    {
-      "id": "5029531",
-      "time": "2026-08-07 04:17:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：特朗普簽署了一項關於出生公民權的命令。"
     }
   ]
 }
