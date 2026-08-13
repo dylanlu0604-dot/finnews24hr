@@ -1,7 +1,35 @@
 {
   "date": "2026-08-13",
-  "count": 2827,
+  "count": 2830,
   "items": [
+    {
+      "id": "5039865",
+      "time": "2026-08-13 23:58:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所9月柴油期貨結算價為每噸1250.75美元。"
+    },
+    {
+      "id": "te:markets:575159",
+      "time": "2026-08-13 23:56:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 1.2% and 1.7%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 6%, Rio Tinto dropped 4.7% and Anglo American declined 3.5%. Precious-metal miners Fresnillo (-5.1%) and Endeavour (-4.2%) also fell sharply. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations."
+    },
+    {
+      "id": "5039864",
+      "time": "2026-08-13 23:56:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司負責人：蘇爾特石油公司已將哈蒂巴油田的一口新氣井投產，日增天然氣產能500萬立方英尺。"
+    },
     {
       "id": "mkt:019ffbd6-0f06-7aab-902a-8fecac5615f6",
       "time": "2026-08-13 23:55:37",
