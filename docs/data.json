@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-14 04:28:41",
-  "count": 15406,
+  "updated": "2026-08-14 04:32:30",
+  "count": 15407,
   "items": [
+    {
+      "id": "5040025",
+      "time": "2026-08-14 04:31:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長稱可“無限期維持”對伊朗海上封鎖】美國國防部長赫格塞思13日表示，美軍擁有足夠的軍事力量，可以“無限期維持”對伊朗的海上封鎖。據美國大全新聞網報道，赫格塞思當天在巴拿馬向一艘美國軍艦上的官兵發表講話後對媒體說，“美國海軍完全有能力無限期地維持這種封鎖，因為我們會像過去那樣，繼續輪換艦船”。（新華社）"
+    },
+    {
+      "id": "mkt:019ffcd2-40e4-7aab-902d-8c2cedfc9f4d",
+      "time": "2026-08-14 04:31:05",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Foreign official holdings of U.S. Treasuries fell $34.26 bln in the week to Aug. 7, versus a $25.53 bln decline in the prior week."
+    },
+    {
+      "id": "5040024",
+      "time": "2026-08-14 04:31:04",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至8月7日當週外國央行持有美國國債 -342.57億美元，前值-255.34億美元。"
+    },
+    {
+      "id": "mkt:019ffcd2-10b0-7aab-902d-8236487866bd",
+      "time": "2026-08-14 04:30:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Aug.7) | actual -34257000000B | previous -25534000000B"
+    },
+    {
+      "id": "mkt:019ffcd1-dc0b-7aab-902d-7c1150655b68",
+      "time": "2026-08-14 04:30:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Abu Dhabi National Oil Co (ADNOC) said two vessels were attacked on Thursday while transiting the Strait of Hormuz; no injuries were reported."
+    },
+    {
+      "id": "5040023",
+      "time": "2026-08-14 04:29:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿聯酋阿布扎比國家石油公司（ADNOC）表示，旗下兩艘船隻週四在霍爾木茲海峽通行途中遭到襲擊，暫無人員受傷報告。"
+    },
     {
       "id": "5040022",
       "time": "2026-08-14 04:26:34",
@@ -140933,47 +140993,6 @@
         "國際"
       ],
       "text": "美聯儲 FIMA 回購工具已連續第八週零使用。"
-    },
-    {
-      "id": "5029548",
-      "time": "2026-08-07 04:31:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普結束講話。"
-    },
-    {
-      "id": "5029547",
-      "time": "2026-08-07 04:30:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們正在處理俄烏衝突相關事宜，我認為我們正在取得進展。"
-    },
-    {
-      "id": "5029546",
-      "time": "2026-08-07 04:30:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們的彈藥供應遍佈全球。"
-    },
-    {
-      "id": "5029545",
-      "time": "2026-08-07 04:29:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：軍火儲備充足，但永遠不嫌多。"
-    },
-    {
-      "id": "5029544",
-      "time": "2026-08-07 04:29:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會資料：貨幣市場基金規模升至 7.91 萬億美元。"
     }
   ]
 }
