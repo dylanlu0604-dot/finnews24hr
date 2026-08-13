@@ -1,7 +1,69 @@
 {
-  "updated": "2026-08-13 23:52:14",
-  "count": 15251,
+  "updated": "2026-08-13 23:56:31",
+  "count": 15244,
   "items": [
+    {
+      "id": "mkt:019ffbd6-0f06-7aab-902a-8fecac5615f6",
+      "time": "2026-08-13 23:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI appointed a new chief revenue officer less than a year after its previous appointment."
+    },
+    {
+      "id": "5039863",
+      "time": "2026-08-13 23:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI不到一年便聘任新任首席營收官。"
+    },
+    {
+      "id": "mkt:019ffbd5-d1e6-7aab-902a-87c07f743420",
+      "time": "2026-08-13 23:55:21",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AI chipmaker Cerebras says demand for its joint product with AMD is huge."
+    },
+    {
+      "id": "5039862",
+      "time": "2026-08-13 23:54:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍基地遭胡塞武裝襲擊 致3死15傷】葉門政府軍一名訊息人士13日對記者說，胡塞武裝當天使用無人機襲擊了葉門東南部哈德拉毛省一處政府軍基地，造成至少3名政府軍士兵死亡、15人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019ffbd4-9cea-7aab-902a-7a6a4f20cb57",
+      "time": "2026-08-13 23:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi drone strike on Yemen government base in Hadramawt kills three, wounds 15】An unnamed Yemeni military officer said Houthi drones hit a government army base in the Abur area of Hadramawt province in southeast Yemen, near the Saudi border, killing at least three soldiers and wounding 15, several seriously. The officer said multiple drones struck the third brigade of the National Shield force; casualties could rise. The Houthi movement had not responded."
+    },
+    {
+      "id": "5039861",
+      "time": "2026-08-13 23:53:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "CEREBRAS執行長表示，市場對AMD聯合產品的需求巨大。"
+    },
+    {
+      "id": "te:markets:575158",
+      "time": "2026-08-13 23:51:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts."
+    },
     {
       "id": "5039860",
       "time": "2026-08-13 23:50:52",
@@ -139421,145 +139483,6 @@
         "國際"
       ],
       "text": "伊朗媒體援引訊息人士：霍爾木茲海峽南北航道將被取消。"
-    },
-    {
-      "id": "mkt:019fd7ca-4ed4-7aab-8fa4-7d2c41c4520f",
-      "time": "2026-08-06 23:56:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "WTI and Brent rose sharply in short-term trade after sources said Iran is considering tighter transit rules for the Strait of Hormuz."
-    },
-    {
-      "id": "5029280",
-      "time": "2026-08-06 23:56:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：協議中包含，對伊朗造成損害的國家，其船隻將無法獲得霍爾木茲海峽通行許可。"
-    },
-    {
-      "id": "5029279",
-      "time": "2026-08-06 23:55:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守61美元/盎司，日內跌1.64%。"
-    },
-    {
-      "id": "5029278",
-      "time": "2026-08-06 23:55:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破78美元/桶，日內漲3.71%。"
-    },
-    {
-      "id": "5029277",
-      "time": "2026-08-06 23:55:19",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【伊朗擬出臺更為嚴苛的霍爾木茲海峽通航規定】伊朗議會正在審議一項法案草案，旨在收緊霍爾木茲海峽及波斯灣的通航管控規則。主要提案內容包括：禁止與美國、以色列及其他敵對國家有關聯的船隻通行。攔截與以色列相關的軍用及民用貨物。限制參與針對 “抵抗軸心” 行動的相關船隻通行。拒絕向欠付伊朗賠償的當事方開放航道。對違規行為處以最高貨物價值 20% 的罰款。該提案仍在審議階段，尚未獲得批准。"
-    },
-    {
-      "id": "mkt:019fd7c9-3d2d-7aab-8fa4-71904f3b9df0",
-      "time": "2026-08-06 23:55:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "According to Iran's Fars News Agency, countries and individuals that have caused damage to Iran will not be granted permission to transit the Strait of Hormuz and the Persian Gulf until they compensate for the losses."
-    },
-    {
-      "id": "te:economy:573451",
-      "time": "2026-08-06 23:55:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Africa",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "South Africa 10-Year Bond Yield Inches Up — South Africa's 10-year government bond yield rose to around 8.55%, up from a near four-week low of 8.47% hit on August 5, as traders assessed the chances of a potential US-Iran agreement and its implications on inflation and interest rates. Markets remain skeptical that the US and Iran will reach a lasting deal soon to reopen the Strait of Hormuz, keeping upward pressure on energy prices and reinforcing inflation concerns. Domestically, the South African Reserve Bank (SARB) kept its repo rate at 7.00% last month, citing weak economic growth while acknowledging persistent inflation risks that leave the door open to a 25-basis-point hike later this year. The annual inflation accelerated to 5.0% in June, the highest in two years, from 4.5% in May, driven mainly by higher fuel costs. The central bank expects headline inflation to remain above 4.0% until early next year, staying above its 3.0% target"
-    },
-    {
-      "id": "5029276",
-      "time": "2026-08-06 23:55:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報82.68美元/桶。"
-    },
-    {
-      "id": "5029275",
-      "time": "2026-08-06 23:54:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報77.48美元/桶。"
-    },
-    {
-      "id": "mkt:019fd7c8-0491-7aab-8fa4-6bf76f3f33db",
-      "time": "2026-08-06 23:53:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Fars News Agency said an agreement bans US and Israeli vessels from transiting the Strait of Hormuz."
-    },
-    {
-      "id": "5029274",
-      "time": "2026-08-06 23:53:45",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破82美元/桶，日內漲3.23%。"
-    },
-    {
-      "id": "5029273",
-      "time": "2026-08-06 23:53:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗‑阿曼霍爾木茲海峽協議正提交議會審議。"
-    },
-    {
-      "id": "5029272",
-      "time": "2026-08-06 23:52:49",
-      "tags": [
-        "宏觀",
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【IMF二把手預計日本央行將繼續推動貨幣政策正常化】國際貨幣基金組織（IMF）二號人物表示，日本經濟復甦正為日本央行在維持超寬鬆貨幣政策數十年後繼續推進政策正常化創造條件。IMF第一副總裁丹·卡茨表示，日本正經歷一場“意義深遠的長期轉型”，前首相安倍晉三發起的結構性改革如今才開始顯現成效。卡茨週四在開普敦接受採訪時表示：“日本央行已開始擺脫持續近30年的超低利率環境，推進貨幣政策正常化。”卡茨去年加入IMF前曾在美國財政部任幕僚長。他稱，預計“日本央行將採取一切必要措施履行其使命，也就是實現通脹方面的使命，同時也支援經濟增長”。在被問及日本央行為支撐日元還需要採取哪些措施時，卡茨表示：“通脹仍略高於目標水平，因此我預計正常化將繼續推進。”"
-    },
-    {
-      "id": "5029271",
-      "time": "2026-08-06 23:52:23",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場訊息：根據該協議，美國及以色列船隻禁止透過霍爾木茲海峽。"
     }
   ]
 }

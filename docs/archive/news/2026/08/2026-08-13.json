@@ -1,7 +1,69 @@
 {
   "date": "2026-08-13",
-  "count": 2820,
+  "count": 2827,
   "items": [
+    {
+      "id": "mkt:019ffbd6-0f06-7aab-902a-8fecac5615f6",
+      "time": "2026-08-13 23:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI appointed a new chief revenue officer less than a year after its previous appointment."
+    },
+    {
+      "id": "5039863",
+      "time": "2026-08-13 23:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI不到一年便聘任新任首席營收官。"
+    },
+    {
+      "id": "mkt:019ffbd5-d1e6-7aab-902a-87c07f743420",
+      "time": "2026-08-13 23:55:21",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AI chipmaker Cerebras says demand for its joint product with AMD is huge."
+    },
+    {
+      "id": "5039862",
+      "time": "2026-08-13 23:54:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門政府軍基地遭胡塞武裝襲擊 致3死15傷】葉門政府軍一名訊息人士13日對記者說，胡塞武裝當天使用無人機襲擊了葉門東南部哈德拉毛省一處政府軍基地，造成至少3名政府軍士兵死亡、15人受傷。（新華社）"
+    },
+    {
+      "id": "mkt:019ffbd4-9cea-7aab-902a-7a6a4f20cb57",
+      "time": "2026-08-13 23:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthi drone strike on Yemen government base in Hadramawt kills three, wounds 15】An unnamed Yemeni military officer said Houthi drones hit a government army base in the Abur area of Hadramawt province in southeast Yemen, near the Saudi border, killing at least three soldiers and wounding 15, several seriously. The officer said multiple drones struck the third brigade of the National Shield force; casualties could rise. The Houthi movement had not responded."
+    },
+    {
+      "id": "5039861",
+      "time": "2026-08-13 23:53:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "CEREBRAS執行長表示，市場對AMD聯合產品的需求巨大。"
+    },
+    {
+      "id": "te:markets:575158",
+      "time": "2026-08-13 23:51:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls as Geopolitical Uncertainty Weighs — The CAC 40 shed 0.3% to close at 8,651 on Thursday amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. Washington and Tehran traded accusations over a deal to reopen the strategically vital Strait of Hormuz, with the US saying Iran had failed to meet its obligations, while Iran countered that Washington had not delivered on ending a blockade of Iranian ports. High energy prices are expected to weigh more heavily on eurozone economies as large energy importers. The ECB is set to raise interest rates once more next month, as higher energy prices push inflation further from the bank’s 2% target, reaching 2.9% last month. Luxury stocks were mostly lower amid elevated risk aversion, with LVMH down 0.7% and Hermès losing 1.2%. Industrials also fell, with Safran down 1.9%, Vinci losing 1.2% and Thales shedding 1.1%. In contrast, Sanofi (+1.2%) and Michelin (+0.7%) gained as euro area industrial production came in slightly above forecasts."
+    },
     {
       "id": "5039860",
       "time": "2026-08-13 23:50:52",
