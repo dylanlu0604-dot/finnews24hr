@@ -1,7 +1,47 @@
 {
   "date": "2026-08-13",
-  "count": 480,
+  "count": 484,
   "items": [
+    {
+      "id": "te:markets:574859",
+      "time": "2026-08-13 08:44:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Hits Fresh 2-Month Peak — Platinum futures rose above $1,770 an ounce, reaching a fresh eight-week high as precious metals broadly advanced following a subdued US inflation report. US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. The data reduced expectations of tighter Fed policy at its September meeting, supporting non-yielding assets such as platinum. Precious metals also found support from lower oil prices amid prospects of a deal to reopen the Strait of Hormuz, potentially easing energy supply and inflation concerns. Meanwhile, AI and data-center expansion are emerging as potential new sources of platinum-group metals demand. Valterra Platinum estimates AI-related PGM demand at 200,000–400,000 ounces annually and sees it potentially growing fivefold by 2030. Still, the platinum market is expected to remain in deficit due to constrained mine output, particularly in South Africa, although higher prices could encourage recycling."
+    },
+    {
+      "id": "mkt:019ff892-5e78-7aab-9015-7138aafe5dad",
+      "time": "2026-08-13 08:42:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "RBA's Kent said valuations in some equity markets do appear very generous."
+    },
+    {
+      "id": "5038326",
+      "time": "2026-08-13 08:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：薩爾瓦多奇里拉瓜地區發生5.5級地震。"
+    },
+    {
+      "id": "5038325",
+      "time": "2026-08-13 08:42:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智譜納入MSCI中國指數】當地時間8月12日，明晟公司（MSCI）公佈了MSCI股票指數2026年8月指數審議結果。在本次調整中，MSCI中國指數新納入智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材等33只股票，剔除萬科A、智飛生物等32只股票。調整將於8月31日收盤後生效實施。本次調整中，MSCI全球標準指數將有55只證券被納入、92只證券被剔除。按公司總市值計算，本次被納入的新增成分股中，市值居前三位的標的為：閃迪、卡朋特科技和ATI。被納入MSCI新興市場指數的市值居前三位的新增成分股為：智譜、南亞科、鼎泰高科。在中國公司方面，MSCI中國指數本次新增33只標的，包括：智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材、風華高科、雅克科技、芯源微、綠的諧波、南亞新材、中船特氣、國瓷材料、深科技、精測電子等。（中證報）"
+    },
     {
       "id": "5038324",
       "time": "2026-08-13 08:40:10",

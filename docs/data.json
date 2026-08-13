@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-13 08:41:47",
-  "count": 15062,
+  "updated": "2026-08-13 08:45:37",
+  "count": 15054,
   "items": [
+    {
+      "id": "te:markets:574859",
+      "time": "2026-08-13 08:44:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Platinum Hits Fresh 2-Month Peak — Platinum futures rose above $1,770 an ounce, reaching a fresh eight-week high as precious metals broadly advanced following a subdued US inflation report. US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. The data reduced expectations of tighter Fed policy at its September meeting, supporting non-yielding assets such as platinum. Precious metals also found support from lower oil prices amid prospects of a deal to reopen the Strait of Hormuz, potentially easing energy supply and inflation concerns. Meanwhile, AI and data-center expansion are emerging as potential new sources of platinum-group metals demand. Valterra Platinum estimates AI-related PGM demand at 200,000–400,000 ounces annually and sees it potentially growing fivefold by 2030. Still, the platinum market is expected to remain in deficit due to constrained mine output, particularly in South Africa, although higher prices could encourage recycling."
+    },
+    {
+      "id": "mkt:019ff892-5e78-7aab-9015-7138aafe5dad",
+      "time": "2026-08-13 08:42:49",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "RBA's Kent said valuations in some equity markets do appear very generous."
+    },
+    {
+      "id": "5038326",
+      "time": "2026-08-13 08:42:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：薩爾瓦多奇里拉瓜地區發生5.5級地震。"
+    },
+    {
+      "id": "5038325",
+      "time": "2026-08-13 08:42:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智譜納入MSCI中國指數】當地時間8月12日，明晟公司（MSCI）公佈了MSCI股票指數2026年8月指數審議結果。在本次調整中，MSCI中國指數新納入智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材等33只股票，剔除萬科A、智飛生物等32只股票。調整將於8月31日收盤後生效實施。本次調整中，MSCI全球標準指數將有55只證券被納入、92只證券被剔除。按公司總市值計算，本次被納入的新增成分股中，市值居前三位的標的為：閃迪、卡朋特科技和ATI。被納入MSCI新興市場指數的市值居前三位的新增成分股為：智譜、南亞科、鼎泰高科。在中國公司方面，MSCI中國指數本次新增33只標的，包括：智譜、鼎泰高科、凱萊英、華峰測控、燕東微、國際復材、風華高科、雅克科技、芯源微、綠的諧波、南亞新材、中船特氣、國瓷材料、深科技、精測電子等。（中證報）"
+    },
     {
       "id": "5038324",
       "time": "2026-08-13 08:40:10",
@@ -137293,132 +137333,6 @@
         "Impact mixed"
       ],
       "text": "DALY says tech investment is helping to push up inf."
-    },
-    {
-      "id": "5027671",
-      "time": "2026-08-06 08:45:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：科技投資正在推高通脹。"
-    },
-    {
-      "id": "5027670",
-      "time": "2026-08-06 08:45:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲戴利：一些跡象表明關稅對通脹的影響開始減弱】美國舊金山聯邦儲備銀行行長戴利在東京的活動上講話表示，關稅對通脹產生了明確影響。目前有部分證據顯示，關稅對通脹的影響已開始消退。若中東戰爭結束，應會有助於通脹下行。"
-    },
-    {
-      "id": "te:markets:573161",
-      "time": "2026-08-06 08:44:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Fall as Tech Stocks Weigh — The Nikkei 225 Index fell 1.5% to below 65,300 on Thursday, reversing the previous session’s gains as weakness on Wall Street weighed on sentiment and chip and artificial intelligence-related stocks retreated. The declines came despite a further drop in oil prices after Iran and Oman reached an agreement on the partial reopening of the Strait of Hormuz, easing concerns over inflation and the outlook for interest rates. Japanese companies tied to the global AI infrastructure boom posted steep losses, including Kioxia Holdings (-10.7%), Taiyo Yuden (-9.8%), Murata Manufacturing (-5.7%), Ibiden Co (-6%), and Tokyo Electron (-5.7%). SoftBank Group also fell nearly 4% after surging almost 14% in the previous session, as investors awaited the investment giant’s earnings report. Meanwhile, gains in financial and consumer stocks helped limit broader losses, with Mitsubishi UFJ (1.5%), Toyota Motor (1.7%), and Fast Retailing (1.8%) all moving higher."
-    },
-    {
-      "id": "mkt:019fd487-196c-7aab-8f96-2c36af2a1d22",
-      "time": "2026-08-06 08:44:11",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "DALY: an end to the Middle East war would help lower inf."
-    },
-    {
-      "id": "em:qqyh_mlc:202608063833210382",
-      "time": "2026-08-06 08:44:10",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲戴利表示，關稅、能源、人工智慧衝擊導致通脹上升。"
-    },
-    {
-      "id": "5027669",
-      "time": "2026-08-06 08:44:03",
-      "tags": [
-        "行業"
-      ],
-      "text": "【上市乳企上半年整體經營改善】同花順iFind資料顯示，截至8月5日，A股及H股市場共有8家上市乳企披露2026年上半年業績預告，1家釋出業績快報。綜合來看，上半年，在國內乳業整體經營壓力持續的背景下，上游原奶企業在經歷深度調整後率先迎來盈利拐點，下游加工端則在存量競爭中加速分化。"
-    },
-    {
-      "id": "mkt:019fd485-f67b-7aab-8f96-25883ec0b0cb",
-      "time": "2026-08-06 08:42:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "DALY said there is some evidence the impact of tariffs on inf is starting to wane."
-    },
-    {
-      "id": "5027668",
-      "time": "2026-08-06 08:42:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "深交所公告，港股通標的證券名單調入MINIMAX-W、立訊精密、三環集團，自2026年08月06日起生效。"
-    },
-    {
-      "id": "mkt:019fd485-d28f-7aab-8f96-1a4f2e58a382",
-      "time": "2026-08-06 08:42:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "002475.SZ",
-        "Impact bullish"
-      ],
-      "text": "Shenzhen Stock Exchange said it will add MINIMAX-W, Luxshare Precision and Sanhuan Group to the Hong Kong Stock Connect eligible list, effective Aug. 6."
-    },
-    {
-      "id": "5027667",
-      "time": "2026-08-06 08:42:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上合組織“天山-2026”聯合網路反恐演習舉行】7月23日，上海合作組織成員國主管機關“天山-2026”聯合網路反恐演習在新疆烏魯木齊舉行。各成員國派出代表團參演，上合組織地區反恐怖機構執委會為演習提供相關協助。此次演習緊扣當前恐怖主義活動全球化、網路化、智慧化的新特點，針對“三股勢力”藉助網際網路實施破壞活動設定實戰場景，模擬某國際恐怖組織利用網路傳播恐怖主義、分裂主義、極端主義思想，在上合組織成員國境內潛伏招募、策劃實施恐怖襲擊等情形。參演各方緊密協同，快速排查網路風險，鎖定嫌疑物件，有力支撐線下處置抓捕。（新華社）"
-    },
-    {
-      "id": "mkt:019fd485-6cd6-7aab-8f96-152a4c6aac59",
-      "time": "2026-08-06 08:42:21",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "DALY: tariffs have had a clear impact on inf."
-    },
-    {
-      "id": "te:markets:573158",
-      "time": "2026-08-06 08:41:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Extend Rally to New Record — Australian shares continued their winning streak Thursday, climbing 59 points or 0.6% to a fresh high of 9,286 in early trade, buoyed by stronger U.S. futures despite Wall Street’s mixed overnight close as investors reassessed valuations following a sharp rebound in AI-linked stocks. Local sentiment was lifted by inflows at the start of the new financial year, while data showed private sector activity expanding at the fastest pace in six months, with services firming and factory orders rebounding. Gains were led by non-energy minerals, consumer names, healthcare, and utilities, offset by weakness in tech, commercial services, and energy minerals. Heavyweights BHP rose 1.1%, Evolution Mining surged 5.7%, Northern Star added 4.5%, and REA Group advanced 2.1%. The big four banks edged up between 0.3% and 0.5%. Traders now turn to trade figures due later today from Australia and from China on Friday, which could set the tone for the next leg of the rally."
     }
   ]
 }
