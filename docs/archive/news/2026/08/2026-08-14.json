@@ -1,7 +1,31 @@
 {
   "date": "2026-08-14",
-  "count": 368,
+  "count": 371,
   "items": [
+    {
+      "id": "mkt:019ffd17-78fe-7aab-902e-cbfe5210c688",
+      "time": "2026-08-14 05:46:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian Prime Minister Albanese said he discussed tariffs with U.S. President Trump and urged him to consider granting a full exemption."
+    },
+    {
+      "id": "5040075",
+      "time": "2026-08-14 05:45:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯：已向特朗普提及關稅問題，敦促特朗普考慮給予全面豁免。"
+    },
+    {
+      "id": "mkt:019ffd14-a928-7aab-902e-c5148ea7f464",
+      "time": "2026-08-14 05:43:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian Prime Minister Albanese said the US-UK-Australia trilateral security partnership AUKUS is continuing to advance at full speed."
+    },
     {
       "id": "mkt:019ffd13-fe70-7aab-902e-bdd41c30e2b9",
       "time": "2026-08-14 05:42:53",
