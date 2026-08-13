@@ -1,7 +1,105 @@
 {
   "date": "2026-08-13",
-  "count": 543,
+  "count": 553,
   "items": [
+    {
+      "id": "5038374",
+      "time": "2026-08-13 09:24:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "MSCI表示，目前納入MSCI前沿新興市場指數的新興市場名單暫無變動。"
+    },
+    {
+      "id": "mkt:019ff8b7-7e06-7aab-9015-ec0e249500bc",
+      "time": "2026-08-13 09:23:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Doubao launches student discount — 2.5x free quota, Pro plan cut to 38 yuan/month】Doubao has launched a student discount for enrolled university students. After student verification, users receive a 2.5x free usage quota; verified students can subscribe to the Pro standard monthly plan at a discounted 38 yuan/month (regular 68 yuan/month)."
+    },
+    {
+      "id": "5038373",
+      "time": "2026-08-13 09:23:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【  西康高鐵今日啟動試執行】今天（8月13日），西康高鐵（西安至安康高速鐵路）聯調聯試圓滿結束，正式進入試執行階段。西康高鐵是國家中長期鐵路網規劃“八縱八橫”高鐵通道中包（銀）海通道、京昆通道的重要組成部分。新建正線全長約171公里，設計時速350公里。西康高鐵通車後，西安至安康鐵路執行時間將由現在的3小時左右縮短至1小時以內，關中與陝南“一小時經濟圈”加速成型。將有效提高沿線地區客貨運輸服務水平，為助力秦巴山區鄉村振興，促進地方經濟發展注入新動能。"
+    },
+    {
+      "id": "5038372",
+      "time": "2026-08-13 09:22:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【騰訊控股低開3.29%】騰訊控股低開3.29%，訊息面上，騰訊控股財報顯示，2026年第二季度淨利潤低於市場預期，資本支出創歷史新高，自由現金流錄得負值。"
+    },
+    {
+      "id": "5038371",
+      "time": "2026-08-13 09:21:37",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠10億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608133839998582",
+      "time": "2026-08-13 09:21:31",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行公告，根據公開市場業務一級交易商的需求，2026年8月13日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "5038370",
+      "time": "2026-08-13 09:21:15",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指低開跌0.6％，國企指數跌0.54％，科指開跌0.29%。"
+    },
+    {
+      "id": "mkt:019ff8b5-625b-7aab-9015-e227ae791aa4",
+      "time": "2026-08-13 09:21:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong stocks opened: Hang Seng Index down 0.6%, Hang Seng TECH Index down 0.29%; Tencent Holdings (00700.HK) fell 3.29% post-earnings."
+    },
+    {
+      "id": "5038369",
+      "time": "2026-08-13 09:20:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：根據公開市場業務一級交易商的需求，2026年8月13日7天期逆回購操作量為零。"
+    },
+    {
+      "id": "mkt:019ff8b5-1566-7aab-9015-db45d0ed1ab5",
+      "time": "2026-08-13 09:20:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The PBOC said that, based on demand from primary dealers in open market operations, the 7-day reverse repo on Aug. 13, 2026 was set at zero."
+    },
     {
       "id": "5038368",
       "time": "2026-08-13 09:18:30",
