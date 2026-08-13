@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-14 00:53:55",
-  "count": 15272,
+  "updated": "2026-08-14 00:57:53",
+  "count": 15275,
   "items": [
+    {
+      "id": "5039902",
+      "time": "2026-08-14 00:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利內政部長：只有在西班牙北非飛地休達面臨的大規模移民湧入風險徹底化解後，義大利才會取消對西班牙的申根邊境臨時管控。"
+    },
+    {
+      "id": "mkt:019ffc0c-7cb7-7aab-902b-3bc2b77ae0f8",
+      "time": "2026-08-14 00:55:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's interior minister said Italy will only lift temporary Schengen border controls on Spain after the risk of a large-scale migrant influx into Ceuta, Spain's North African enclave, is fully resolved."
+    },
+    {
+      "id": "5039901",
+      "time": "2026-08-14 00:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏軍稱襲擊俄西南部一大型煉油廠】當地時間13日，烏克蘭武裝部隊總參謀部在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。（央視新聞）"
+    },
+    {
+      "id": "5039900",
+      "time": "2026-08-14 00:53:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦金屬交易所（LME）3個月期鎳期貨收盤下跌172美元，報每噸16,776美元。倫敦金屬交易所（LME）3個月期錫期貨收盤上漲36美元，報每噸55,854美元。"
+    },
     {
       "id": "5039899",
       "time": "2026-08-14 00:52:44",
@@ -139701,17 +139733,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Pull Back — US stocks swung lower on Thursday as a rebound in energy prices rekindled worries of a Federal Reserve rate hike next month. The S&P 500 inched down, the Dow lost 0.7%, and the Nasdaq 100 fell 0.4%. Yields rebounded together with wholesale fuel prices as markets reassessed the likelihood of tanker flows being restored in the Strait of Hormuz. On top of that, a series of hawkish reaction functions claimed by FOMC members were amplified by a report stating Fed Chairman Warsh is willing to hike rates should inflation rise further. Financial stocks edged down with Citi, Wells Fargo, and Amex dropping more than 1%, while credit-sensitive hyperscalers were mostly lower with Alphabet dropping 1%. Meanwhile, Western Digital plummeted 12% after posting a disappointing guidance. Similarly, Sandisk lost nearly 6% as its results failed to meet lofty expectations for memory producers. SpaceX fell rebounded to a 2% gain as $101 billion in its shares are detached from their post-IPO lockup period."
-    },
-    {
-      "id": "te:markets:573469",
-      "time": "2026-08-07 00:55:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Oat Hits 4-week Low — Oat decreased to 308.25 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Oat gained 5.28%, and in the last 12 months, it decreased 6.77%."
     }
   ]
 }
