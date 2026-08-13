@@ -1,7 +1,39 @@
 {
-  "updated": "2026-08-13 21:41:19",
-  "count": 15172,
+  "updated": "2026-08-13 21:45:21",
+  "count": 15171,
   "items": [
+    {
+      "id": "5039669",
+      "time": "2026-08-13 21:44:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股黃金礦業股盤初下跌】美股黃金礦業股盤初下跌，泛美白銀跌超7%，哈莫尼黃金跌超3%，科爾黛倫礦業跌超2%，紐曼礦業跌近3%。"
+    },
+    {
+      "id": "5039668",
+      "time": "2026-08-13 21:41:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【內蒙古自治區政府與中國華電集團簽署全面深化戰略合作協議】據內蒙古日報，8月13日，內蒙古自治區黨委書記、人大常委會主任王偉中，自治區黨委副書記、自治區人民政府主席包鋼在呼和浩特會見中國華電集團有限公司董事長葉向東、總經理徐樹彪，並共同見證簽約。內蒙古自治區人民政府副主席代欽，中國華電副總經理吳敬凱代表雙方簽署全面深化戰略合作協議。王偉中說，希望中國華電以此次協議簽署為契機，圍繞智慧零碳礦區建設、煤電升級改造、新能源開發利用、算電協同、生態治理等重點領域，持續加大投資佈局力度，加快推動在建專案落地達產，進一步深化與區內高校、科研院所的產學研用協同創新，與內蒙古攜手更好服務保障國家發展大局。"
+    },
+    {
+      "id": "5039667",
+      "time": "2026-08-13 21:41:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "火箭實驗室股價盤前轉漲，最新上漲2.2%。"
+    },
+    {
+      "id": "5039666",
+      "time": "2026-08-13 21:41:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股AI算力租賃商盤初走強，CoreWeave漲超7%，Nebius漲超3%。"
+    },
     {
       "id": "5039665",
       "time": "2026-08-13 21:40:39",
@@ -138700,51 +138732,6 @@
         "市場"
       ],
       "text": "ALPHABET股價下跌0.5%；新聞報道該公司尋求透過最新債券發行籌集至多250億美元。"
-    },
-    {
-      "id": "5029106",
-      "time": "2026-08-06 21:45:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "派拉蒙資源公司<POU.TO>公佈季度業績後股價上漲10%。"
-    },
-    {
-      "id": "5029105",
-      "time": "2026-08-06 21:43:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "據報道，由美國主導的“和平委員會”已就加沙地帶一處摩洛哥駐軍（150人）軍事基地的建設，授出了首份工程招標。"
-    },
-    {
-      "id": "5029104",
-      "time": "2026-08-06 21:43:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【莫迪與內塔尼亞胡通話就中東局勢交換意見】兩位領導人在一次高層電話通話中討論了關鍵的地區發展，並回顧了印度-以色列戰略伙伴關係，強調在地緣政治不確定性加劇之際繼續協調。"
-    },
-    {
-      "id": "te:markets:573420",
-      "time": "2026-08-06 21:43:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Lower as Copom Signals Caution — The Ibovespa fell 0.5% to below 177,000 on Thursday after the BCB stated that it will be cautious to deliver more rate cuts. On Wednesday, the central bank lowered the Selic rate by 25 basis points to 14.0%. Still, the Copom said it will maintain an appropriate degree of monetary restraint to ensure inflation converges to target and highlighted elevated global uncertainty. Financial stocks were mostly lower, with BB Seguridade down nearly 1%. Bradesco also lost nearly 1% after reporting a tenth consecutive quarter of profit growth, as investors focused on weaker credit quality indicators. Itaú extended gains by 1% following solid quaterly results. Axia rose over 1.5% after reporting a rebound in net profit. Petrobras gained near 1% ahead of its earnings release as oil prices rose."
-    },
-    {
-      "id": "5029103",
-      "time": "2026-08-06 21:41:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "西班牙休達行政區長官：安全部隊仍未在休達按所需強度部署。"
     }
   ]
 }
