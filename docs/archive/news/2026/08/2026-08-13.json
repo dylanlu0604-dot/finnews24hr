@@ -1,7 +1,124 @@
 {
   "date": "2026-08-13",
-  "count": 1229,
+  "count": 1242,
   "items": [
+    {
+      "id": "mkt:019ff9f6-37f7-7aab-901c-a5fa1abb91de",
+      "time": "2026-08-13 15:11:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO targets US$100 billion in revenue for the current fiscal year."
+    },
+    {
+      "id": "5038793",
+      "time": "2026-08-13 15:11:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【魯信集團成立新能源投資公司 註冊資本5億】天眼查App顯示，近日，山東省魯信新能源投資有限公司成立，法定代表人為李曉鵬，註冊資本5億人民幣，經營範圍包括以自有資金從事投資活動、風力發電技術服務、儲能技術服務、新興能源技術研發、太陽能發電技術服務、光伏裝置及元器件銷售等，由山東省魯信投資控股集團有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019ff9f5-a6d5-7aab-901c-9da20696f0e6",
+      "time": "2026-08-13 15:10:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China issues 15th Five-Year plan for safety and emergency equipment industry】The Ministry of Industry and Information Technology and the Ministry of Emergency Management jointly issued a 15th Five-Year development plan for the safety and emergency equipment industry, targeting marked improvements in scale, technology, product quality and application breadth by 2030. The plan aims for key-area industry scale to reach 1.4 tln yuan by 2030, to secure breakthroughs in core technologies and deliver internationally leading flagship products, and to establish 10 competitive industrial clusters and 70 industry-specific parks. It directs wider deployment of high-tech emergency equipment — including increased household and community provisioning — and seeks to cultivate internationally competitive leading firms, specialized \"small giant\" enterprises and single-product manufacturing champions. The plan details 15 concrete tasks across four pillars: industry innovation, equipment application promotion, scaling industry players, and optimizing the industrial ecosystem."
+    },
+    {
+      "id": "mkt:019ff9f5-3fb1-7aab-901c-950b87f74220",
+      "time": "2026-08-13 15:10:27",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index turned lower again in late trade after rallying more than 1% earlier in the afternoon; the Hang Seng Index is down 0.4%."
+    },
+    {
+      "id": "5038792",
+      "time": "2026-08-13 15:10:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數尾盤再度轉跌，午後一度漲逾1%，恒指現跌0.4%。"
+    },
+    {
+      "id": "5038791",
+      "time": "2026-08-13 15:09:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "曼達頓公司股價在公佈第二季度財報並宣佈收購後上漲8%，目前有望創下2025年2月以來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019ff9f4-8993-7aab-901c-88108ff04ecf",
+      "time": "2026-08-13 15:09:40",
+      "tags": [
+        "MKT News",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO says the company will develop more powerful PCs and edge computing products."
+    },
+    {
+      "id": "5038790",
+      "time": "2026-08-13 15:08:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：到2030年 安全應急裝備重點領域產業規模達到1.4萬億元】工業和資訊化部、應急管理部印發《安全應急裝備產業發展“十五五”規劃》，到2030年，安全應急裝備產業規模、技術水平、產品質量、應用深度和廣度顯著提升。重點領域產業規模達到1.4萬億元。突破一批關鍵核心技術，形成一批國際領先的標誌性產品。建設一批安全應急裝備重點應用場景，推廣一批具有高技術水平和顯著應用成效的安全應急裝備，促進家庭社群安全應急產品配備水平進一步提升。建設10個競爭力強的安全應急裝備產業叢集、70個安全應急裝備產業特色園區。形成一批國際競爭力強的龍頭企業，培育一批專精特新“小巨人”企業和製造業單項冠軍企業。"
+    },
+    {
+      "id": "mkt:019ff9f3-b8d5-7aab-901c-867c20345a80",
+      "time": "2026-08-13 15:08:47",
+      "tags": [
+        "MKT News",
+        "992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO says personal AI devices will become the primary driver of PC demand."
+    },
+    {
+      "id": "mkt:019ff9f3-8f90-7aab-901c-7a07a1da6729",
+      "time": "2026-08-13 15:08:36",
+      "tags": [
+        "MKT News",
+        "0992.HK",
+        "Impact mixed"
+      ],
+      "text": "Lenovo CEO says PC demand will be subdued in H2 2026; benefiting from higher product pricing, the company expects revenue to still increase."
+    },
+    {
+      "id": "te:markets:574969",
+      "time": "2026-08-13 15:08:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Aluminum Extends Decline — Aluminum futures in the UK fell to around $3,270 per tonne, retreating further from a seven-week high, after Emirates Global Aluminium reaffirmed its timeline to restore full production at the Al Taweelah smelter by Q1 next year, easing concerns over supply from the Gulf. The company was forced to cut output after the smelter was hit by Iranian missiles and drones during the early stages of the war. The restoration is expected to improve supply prospects from the Middle East, which accounted for around 10% of global aluminum production prior to the conflict. Prices had jumped recently amid lower feedstock production at Norsk Hydro’s plant in Brazil, adding to concerns over Gulf supply as uncertainty persisted over a deal that could reopen the Strait of Hormuz, a key export route for regional smelters. Further easing supply fears, the owners of Australia’s largest aluminum smelter secured a $1.8 billion government bailout, allowing operations to continue."
+    },
+    {
+      "id": "te:markets:574968",
+      "time": "2026-08-13 15:08:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "ICICI Bank Stock Price Hits 4-week Low — ICICI Bank shares decreased to 1411.00 INR, the lowest since July 2026. Over the past 4 weeks, ICICI Bank gained 0.4%, and in the last 12 months, it decreased 0.97%."
+    },
     {
       "id": "mkt:019ff9f2-e75f-7aab-901c-70e1bcdb1297",
       "time": "2026-08-13 15:07:53",
@@ -10,6 +127,18 @@
         "Important"
       ],
       "text": "MOFCOM said it will continue imposing anti-dumping duties on imports of single-mode optical fiber originating in India, effective Aug 14, 2026, for a five-year period."
+    },
+    {
+      "id": "te:markets:574966",
+      "time": "2026-08-13 15:07:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Ends 1.1% Higher at Over 5-Week High — The TAIEX, Taiwan’s benchmark stock index, rose 503 points, or 1.1%, to close at 46,021, gaining for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders maintained the upward momentum in the technology sector. Electronic technology stocks advanced 1.5%, following a 1.1% rise on Wednesday. TSMC, the world's largest contract chipmaker and accounting for more than 40% of the market's total value, advanced 0.8%. MediaTek and Delta Electronics surged 5.4% and 4.8%, respectively. Meanwhile, Yageo Corporation, a world leader in electronic passive components, soared 10% after the company became the fifth-largest holding of Norway's sovereign wealth fund. A rally on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting."
     },
     {
       "id": "mkt:019ff9f2-6d5b-7aab-901c-6deb70f60a39",
