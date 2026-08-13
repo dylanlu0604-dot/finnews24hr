@@ -1,7 +1,228 @@
 {
-  "updated": "2026-08-13 22:29:55",
-  "count": 15193,
+  "updated": "2026-08-13 22:33:53",
+  "count": 15207,
   "items": [
+    {
+      "id": "mkt:019ffb8a-a835-7aab-9028-2ff4e5a1dccb",
+      "time": "2026-08-13 22:33:15",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank of England chief economist Pill: UK economic growth strengthens case for rate hikes."
+    },
+    {
+      "id": "mkt:019ffb8a-76f5-7aab-9028-250df23fc2d6",
+      "time": "2026-08-13 22:33:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ukraine says it struck large refinery in Russia's southwest】Ukraine's General Staff said on social media on the 13th that Ukrainian forces struck a large refinery in the Republic of Bashkortostan in Russia's southwest in the early hours, triggering a fire. The General Staff said the target was about 1,300 km from the Ukraine–Russia border and said Kyiv would continue strikes on Russian critical infrastructure to systematically degrade its combat capability. The refinery was reported to belong to Salavat Petrochemical Company, described as one of Russia's largest refining and petrochemical complexes with annual refining capacity of about 10 mln tonnes."
+    },
+    {
+      "id": "5039759",
+      "time": "2026-08-13 22:32:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏軍稱襲擊俄西南部一大型煉油廠】烏克蘭武裝部隊總參謀部13日在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。 烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。 據報道，遭襲的煉油廠屬於俄氣薩拉瓦特石油化工公司，該公司是俄最大煉油和石化綜合體之一，年煉油能力達1000萬噸。(新華社)"
+    },
+    {
+      "id": "mkt:019ffb89-c472-7aab-9028-197ec8d0ee5d",
+      "time": "2026-08-13 22:32:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures extended losses, down 3.0% after the EIA reported inventories rose more than expected."
+    },
+    {
+      "id": "5039758",
+      "time": "2026-08-13 22:32:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國能源資訊署公佈天然氣庫存增幅超預期後，美國天然氣期貨延續跌勢，跌幅達3.0%。"
+    },
+    {
+      "id": "5039757",
+      "time": "2026-08-13 22:32:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署(EIA)：上週美國天然氣庫存環比上升1.15%。"
+    },
+    {
+      "id": "5039756",
+      "time": "2026-08-13 22:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：美國鹽穴儲氣庫天然氣庫存減少60億立方英尺。"
+    },
+    {
+      "id": "5039755",
+      "time": "2026-08-13 22:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料：美國中南部天然氣庫存增加30億立方英尺。"
+    },
+    {
+      "id": "mkt:019ffb88-35b8-7aab-9028-16e38193f317",
+      "time": "2026-08-13 22:30:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,360/oz, down 1.12% intraday."
+    },
+    {
+      "id": "5039754",
+      "time": "2026-08-13 22:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料：美國太平洋地區天然氣庫存減少40億立方英尺。"
+    },
+    {
+      "id": "5039753",
+      "time": "2026-08-13 22:30:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料：美國中西部天然氣庫存增加20億立方英尺。"
+    },
+    {
+      "id": "5039752",
+      "time": "2026-08-13 22:30:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌1%，現報4359.12美元/盎司。"
+    },
+    {
+      "id": "5039751",
+      "time": "2026-08-13 22:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4360美元/盎司，日內跌1.12%。"
+    },
+    {
+      "id": "mkt:019ffb88-00d5-7aab-9028-0cafe0f03ea3",
+      "time": "2026-08-13 22:30:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EIA weekly natural gas report: Working gas in U.S. storage for the week ended Aug. 7 was 3,153 bcf, up 36 bcf week-on-week, down 25 bcf YoY (-0.8%), and 198 bcf above the 5-year average (+6.7%)."
+    },
+    {
+      "id": "mkt:019ffb87-eec9-7aab-9028-034c60127e41",
+      "time": "2026-08-13 22:30:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Bank wealth-management market surpasses 35 tln yuan】China's bank wealth-management market hit a record in July, topping 35 tln yuan, driven by deposit rollovers into wealth products and quarter-end deposit flows returning to wealth management. An industry compilation shows 14 wealth managers with AUM above 1 tln yuan (six state-owned bank platforms, eight joint-stock bank platforms), representing roughly 80% of the market, net-added about 1.7 tln yuan in the first seven months; fixed-income+ product AUM rose by about 1.66 tln yuan. Those 14 firms had combined outstanding AUM of 27.1 tln yuan at end-July. The Banking Wealth-Management Registration and Custody Center reports total market outstanding at 33.66 tln yuan at end-June."
+    },
+    {
+      "id": "5039750",
+      "time": "2026-08-13 22:30:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4420美元/盎司，日內跌1.17%。"
+    },
+    {
+      "id": "mkt:019ffb87-db1a-7aab-9027-ff8e3b16b32d",
+      "time": "2026-08-13 22:30:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "SNDK.O",
+        "000660.KS"
+      ],
+      "text": "Nasdaq gains widened to 1%; SanDisk (SNDK.O) and SK Hynix rose more than 4%."
+    },
+    {
+      "id": "mkt:019ffb87-d49d-7aab-9027-f231244ec148",
+      "time": "2026-08-13 22:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage injection for week to Aug. 7: 36 Bcf vs. 32 Bcf expected; prior 33 Bcf."
+    },
+    {
+      "id": "5039749",
+      "time": "2026-08-13 22:30:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至8月7日當週EIA天然氣庫存 360億立方英尺，預期320億立方英尺，前值330億立方英尺。"
+    },
+    {
+      "id": "5039748",
+      "time": "2026-08-13 22:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣期貨跌超3.00%，現報2.717美元/百萬英熱。"
+    },
+    {
+      "id": "mkt:019ffb87-b095-7aab-9027-e85cc5bca110",
+      "time": "2026-08-13 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Aug.7) | actual 36000000000B | consensus 32000000000B | previous 33000000000B"
+    },
+    {
+      "id": "5039747",
+      "time": "2026-08-13 22:29:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍： 部署尚需時日，但經過本週之後，黎巴嫩方向的戰事氛圍愈發迫近。"
+    },
+    {
+      "id": "5039746",
+      "time": "2026-08-13 22:29:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報26854.719點；道指漲0.46%，現報54020.238點；標普500指數漲0.86%，現報7814.930點。"
+    },
     {
       "id": "5039745",
       "time": "2026-08-13 22:29:17",
@@ -138860,89 +139081,6 @@
         "其他"
       ],
       "text": "【葉門武裝部隊宣佈對沙特軍隊集結點實施大規模精確軍事打擊】也胡塞裝部隊發言人6日釋出宣告宣佈，胡塞武裝部隊成功實施了一次大規模且精確的軍事行動，打擊了沙特軍隊在魯韋格（Al-Ruwaiq）、阿卜拉（Al-Abra）、薩尼亞（Al-Thaniya）等地區以及所謂\"第一緊急旅\"和\"第三緊急旅\"所屬其他營地的軍事集結點。宣告指出，此次行動旨在摧毀敵方軍事部署和後勤補給能力，進一步削弱沙特方面在葉門邊境地區的軍事存在與作戰潛力。胡塞武裝部隊強調，此次打擊行動是對沙特方面持續侵犯葉門領空及支援葉門境內非法武裝勢力的直接回應。宣告同時警告沙特方面，胡塞武裝部隊擁有覆蓋其境內所有軍事目標的精確打擊能力，任何進一步的軍事冒險和侵略行徑都將遭到更加嚴厲的軍事回擊。"
-    },
-    {
-      "id": "5029173",
-      "time": "2026-08-06 22:33:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "胡塞武裝：在葉門發起大規模行動，打擊親沙特武裝力量。"
-    },
-    {
-      "id": "5029172",
-      "time": "2026-08-06 22:32:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國AI電廠之爭愈演愈烈：加州建議圍繞\"資料中心權利\"立法】美國加州民主黨眾議員卡納（Ro Khanna）正推動一項他稱之為”資料中心權利法案”的決議。當前，全美選民普遍擔憂為人工智慧提供動力的資料中心可能推高公用事業費率。這將為地方社群確立一系列否決資料中心建設的權力。與此同時，大量其他立法提案也在密集推進，試圖放緩資料中心建設步伐，原因是外界擔憂其將進一步加劇本已高企的生活成本。"
-    },
-    {
-      "id": "te:economy:573431",
-      "time": "2026-08-06 22:32:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Natural Gas Stocks Change",
-        "Importance 1"
-      ],
-      "text": "US Natural Gas Stocks Rise More Than Expected — US energy firms added 33 billion cubic feet of natural gas into storage in the week ending July 31, above market expectations of 31 bcf. It compares with an injection of 13 bcf during the same week a year ago and an average increase for that week of 23 bcf over the past five years (2021-2025). Stockpiles increased to 3.117 trillion cubic feet, 0.4% below the same week a year ago and about 6.7% above the five-year average for the week. In the prior week ended July 24, energy firms added 28 bcf of gas into storage."
-    },
-    {
-      "id": "mkt:019fd77c-e96e-7aab-8fa3-645006118cd2",
-      "time": "2026-08-06 22:31:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. natural gas futures extended losses, down about 2%, after EIA data showed inventories rose in line with expectations."
-    },
-    {
-      "id": "5029171",
-      "time": "2026-08-06 22:31:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署公佈天然氣庫存增幅符合預期後，美國天然氣期貨延續跌勢，下跌2.1%。"
-    },
-    {
-      "id": "mkt:019fd77b-997e-7aab-8fa3-5aadc7f3d64f",
-      "time": "2026-08-06 22:30:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "EIA weekly gas storage (week ended July 31): U.S. working gas in storage 3,117 Bcf, +33 Bcf week/week; -12 Bcf YoY (-0.4%); +195 Bcf vs five‑year average (+6.7%)."
-    },
-    {
-      "id": "mkt:019fd77b-4c9e-7aab-8fa3-5100888c24e8",
-      "time": "2026-08-06 22:30:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. EIA weekly natural gas stocks rose 330 Bcf in the week to July 31, versus 300 Bcf expected and 280 Bcf in the prior week."
-    },
-    {
-      "id": "5029170",
-      "time": "2026-08-06 22:30:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至7月31日當週EIA天然氣庫存 330億立方英尺，預期300億立方英尺，前值280億立方英尺。"
-    },
-    {
-      "id": "mkt:019fd77b-2c32-7aab-8fa3-49a710261297",
-      "time": "2026-08-06 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.31) | actual 33000000000B | consensus 30000000000B | previous 28000000000B"
     }
   ]
 }
