@@ -1,7 +1,19 @@
 {
   "date": "2026-08-14",
-  "count": 114,
+  "count": 115,
   "items": [
+    {
+      "id": "te:markets:575175",
+      "time": "2026-08-14 01:32:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Chevron Stock Price Hits 12-week High — Chevron shares increased to 197.70 USD, the highest since May 2026. Over the past 4 weeks, Chevron gained 8.73%, and in the last 12 months, it increased 27.37%."
+    },
     {
       "id": "5039928",
       "time": "2026-08-14 01:31:40",
