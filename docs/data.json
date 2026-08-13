@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-14 04:57:33",
-  "count": 15425,
+  "updated": "2026-08-14 05:01:22",
+  "count": 15430,
   "items": [
+    {
+      "id": "5040044",
+      "time": "2026-08-14 05:00:12",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國7月出口物價指數年率 49.1%，前值由48.90%修正為48.7%。\n韓國7月進口物價指數年率 18.7%，前值由20.60%修正為20.9%。"
+    },
+    {
+      "id": "mkt:019ffcec-ebca-7aab-902e-256991d5b162",
+      "time": "2026-08-14 05:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea export price index up 49.1% YoY in July; prior reading revised to 48.7% from 48.90%."
+    },
+    {
+      "id": "mkt:019ffcec-e206-7aab-902e-1cfce778923f",
+      "time": "2026-08-14 05:00:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "South Korea July import price index YoY +18.7%; previous reading revised from 20.60% to 20.9%."
+    },
+    {
+      "id": "mkt:019ffcec-b98b-7aab-902e-13921dc4c225",
+      "time": "2026-08-14 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Import Price Index (YoY) (Jul) | actual 18.7% | previous 20.60%"
+    },
+    {
+      "id": "mkt:019ffcec-b95e-7aab-902e-084ed4fe29ed",
+      "time": "2026-08-14 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Export Price Index (YoY) (Jul) | actual 49.1% | previous 48.90%"
+    },
     {
       "id": "5040043",
       "time": "2026-08-14 04:54:40",
