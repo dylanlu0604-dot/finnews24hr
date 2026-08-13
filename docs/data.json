@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-14 05:35:40",
-  "count": 15456,
+  "updated": "2026-08-14 05:39:28",
+  "count": 15459,
   "items": [
+    {
+      "id": "mkt:019ffd0f-eb63-7aab-902e-a9f2c1afb997",
+      "time": "2026-08-14 05:38:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources say OpenAI's annualized revenue exceeded $40 bln ahead of its IPO."
+    },
+    {
+      "id": "5040071",
+      "time": "2026-08-14 05:37:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI 上市前年化營收突破 400 億美元】據知情人士透露，按照當前業務表現，OpenAI 年化營收有望突破 400 億美元，較 2025 年末的年化營收大致翻倍，也為該公司登陸華爾街的計劃提供支撐。 OpenAI近幾月營收增長提速，部分來自 AI 編碼軟體業務的拉動，訂閱業務銷售與尚在起步的廣告業務同樣帶來增長動能，核心 C 端業務也持續擴張。"
+    },
+    {
+      "id": "5040070",
+      "time": "2026-08-14 05:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenAI 上市前年化營收突破 400 億美元。"
+    },
+    {
+      "id": "mkt:019ffd0d-315d-7aab-902e-a7946c2d916c",
+      "time": "2026-08-14 05:35:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Kushner is expected to travel to Cairo next week to meet with Egyptian mediators."
+    },
     {
       "id": "5040069",
       "time": "2026-08-14 05:34:01",
@@ -141490,21 +141525,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆：在最近一次聯邦公開市場委員會（FOMC）會議上，我傾向於加息。 通脹維持在目標水平上方的機率有所上升。"
-    },
-    {
-      "id": "mkt:019fd902-ffe4-7aab-8fa9-8c32cb4c6233",
-      "time": "2026-08-07 05:38:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed's MUSALEM said the current inf rate is well above the Fed's 2% target; monetary policy must firmly curb underlying inf, not tolerate current high inf in the hope of future productivity gains."
     }
   ]
 }
