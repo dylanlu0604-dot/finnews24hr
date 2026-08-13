@@ -1,7 +1,52 @@
 {
   "date": "2026-08-13",
-  "count": 2756,
+  "count": 2761,
   "items": [
+    {
+      "id": "5039829",
+      "time": "2026-08-13 23:26:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "柴油裂解價差<HOc1-CLc1>升至每桶98美元上方，創歷史新高，此前有報道稱葉門胡塞武裝襲擊了沙烏地阿拉伯的阿美煉油廠。"
+    },
+    {
+      "id": "mkt:019ffbba-41b2-7aab-9029-a4a1e7a9a67b",
+      "time": "2026-08-13 23:25:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "AMD.O"
+      ],
+      "text": "AMD plans to raise up to $5 billion through a bond offering."
+    },
+    {
+      "id": "mkt:019ffbb9-cab3-7aab-9029-98c088abdb83",
+      "time": "2026-08-13 23:24:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk (SNDK.O) continues to rally; gains widen to 15%."
+    },
+    {
+      "id": "5039828",
+      "time": "2026-08-13 23:24:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "閃迪(SNDK.O)持續走高，漲幅擴大至15%。"
+    },
+    {
+      "id": "5039827",
+      "time": "2026-08-13 23:24:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：AMD擬透過發債募資至多50億美元。"
+    },
     {
       "id": "mkt:019ffbb7-2795-7aab-9029-90669bd45b3c",
       "time": "2026-08-13 23:21:52",
