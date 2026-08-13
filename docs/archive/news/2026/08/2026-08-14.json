@@ -1,7 +1,98 @@
 {
   "date": "2026-08-14",
-  "count": 161,
+  "count": 170,
   "items": [
+    {
+      "id": "mkt:019ffc68-40df-7aab-902c-3f51477f5050",
+      "time": "2026-08-14 02:35:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US crude futures settled at $81.25/bbl, down $2.02 (-2.43%)."
+    },
+    {
+      "id": "mkt:019ffc68-0fd2-7aab-902c-3548e4eda824",
+      "time": "2026-08-14 02:35:05",
+      "tags": [
+        "MKT News",
+        "WDAY.O",
+        "Impact mixed"
+      ],
+      "text": "Sources say Silver Lake is in talks to acquire enterprise cloud applications company Workday; negotiations remain ongoing."
+    },
+    {
+      "id": "5039966",
+      "time": "2026-08-14 02:34:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "Workday股價迅速飆升6.3%，交易暫停。"
+    },
+    {
+      "id": "5039965",
+      "time": "2026-08-14 02:33:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，銀湖資本正洽談收購Workday，相關商議仍在進行中。"
+    },
+    {
+      "id": "5039964",
+      "time": "2026-08-14 02:32:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：今年將在休斯頓啟動Mac Mini生產。"
+    },
+    {
+      "id": "5039963",
+      "time": "2026-08-14 02:32:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨結算價報每桶81.25美元，下跌2.02美元，跌幅2.43%。"
+    },
+    {
+      "id": "mkt:019ffc65-bcfe-7aab-902c-2a4fd0f04aed",
+      "time": "2026-08-14 02:32:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) has invested hundreds of millions of dollars in Houston; the first advanced AI servers have been shipped."
+    },
+    {
+      "id": "5039962",
+      "time": "2026-08-14 02:31:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元匯率距離160大關僅咫尺之遙 政府支援加息的訊息幾無影響】儘管據稱日本首相高市早苗政府支援加息，但日元兌美元匯率仍處在一個關鍵水平觸手可及的範圍之內。日元週四小幅走低，紐約午後交易中一度跌至1美元兌159.56日元。過去，在接近160時，日元貶值勢頭往往會受到遏制。據知情人士透露，日本央行可能會在9月份或10月份加息。他們補充說，日本央行擔心日元疲軟推高物價，而日本政府希望強化近期美日聯合干預匯市的效果，雙方因此在近期加息必要性這一點上的立場趨於一致。投資者表示，這一訊息對日元影響不大，原因是市場本已預期日本央行將加息。近幾日日元持續走弱，因為日本與美國之間仍存在較大的利差，同時日本還揹負著沉重的債務負擔。"
+    },
+    {
+      "id": "mkt:019ffc64-fb5d-7aab-902c-2091c23cc994",
+      "time": "2026-08-14 02:31:44",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) said it will begin producing the Mac Mini in Houston this year and will open an advanced manufacturing center there."
+    },
     {
       "id": "mkt:019ffc64-00ef-7aab-902c-1e51fa61b0f3",
       "time": "2026-08-14 02:30:39",
