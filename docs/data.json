@@ -1,7 +1,54 @@
 {
-  "updated": "2026-08-14 04:32:30",
-  "count": 15407,
+  "updated": "2026-08-14 04:36:27",
+  "count": 15409,
   "items": [
+    {
+      "id": "5040028",
+      "time": "2026-08-14 04:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普下令海軍恢復航空母艦上的舊有技術裝置。"
+    },
+    {
+      "id": "mkt:019ffcd6-950f-7aab-902d-90ab5e98fd88",
+      "time": "2026-08-14 04:35:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fitch affirms U.S. sovereign credit rating at 'AA+'; outlook stable."
+    },
+    {
+      "id": "te:markets:575185",
+      "time": "2026-08-14 04:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%)."
+    },
+    {
+      "id": "5040027",
+      "time": "2026-08-14 04:33:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "泛林集團計劃在未來五年內投資超過30億美元，以擴大其全球實驗室網路，目標是將實驗產能提升50%以上。"
+    },
+    {
+      "id": "5040026",
+      "time": "2026-08-14 04:32:33",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團：花旗美國消費信用卡業務宣佈已達成協議收購 Kard Financial, Inc."
+    },
     {
       "id": "5040025",
       "time": "2026-08-14 04:31:53",
@@ -140964,35 +141011,6 @@
         "國際"
       ],
       "text": "【特朗普稱霍爾木茲海峽協議尚未達成 正參與相關談判】當地時間8月6日，美國總統特朗普表示，關於重新開放霍爾木茲海峽的協議“尚不能說已經正式達成”，但海峽目前“某種程度上已經開放”，美方正參與相關談判，整體進展良好。特朗普稱，美國海軍目前正在執行針對伊朗的封鎖行動，並控制相關海域，但水雷等安全風險仍可能影響商業船隻通行。他表示，自己正在參與談判，並認為局勢正在朝積極方向發展。（央視新聞）"
-    },
-    {
-      "id": "5029550",
-      "time": "2026-08-07 04:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普政府正在權衡有關自閉症和疫苗的行政命令。"
-    },
-    {
-      "id": "te:markets:573489",
-      "time": "2026-08-07 04:35:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.88% Lower — The Dow Jones Index decreased 479 points or 0.88 percent on Thursday to close at 53870 points. The decline was led by Salesforce (-4.02%), Boeing (-3.33%) and Goldman Sachs (-2.59%). On the upside, the strongest performers were Walt Disney (2.78%), Microsoft (2.57%) and Chevron (1.37%)."
-    },
-    {
-      "id": "5029549",
-      "time": "2026-08-07 04:33:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲 FIMA 回購工具已連續第八週零使用。"
     }
   ]
 }

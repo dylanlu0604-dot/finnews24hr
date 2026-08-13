@@ -1,7 +1,54 @@
 {
   "date": "2026-08-14",
-  "count": 275,
+  "count": 280,
   "items": [
+    {
+      "id": "5040028",
+      "time": "2026-08-14 04:35:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普下令海軍恢復航空母艦上的舊有技術裝置。"
+    },
+    {
+      "id": "mkt:019ffcd6-950f-7aab-902d-90ab5e98fd88",
+      "time": "2026-08-14 04:35:48",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Fitch affirms U.S. sovereign credit rating at 'AA+'; outlook stable."
+    },
+    {
+      "id": "te:markets:575185",
+      "time": "2026-08-14 04:35:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.11% Higher — The Dow Jones Index went up by 58 points or 0.11 percent on Thursday to close at 53828 points. The rise was led by Merck (2.00%), Nike (1.90%) and Visa (1.51%). On the downside, the weakerst performers were Cisco Systems (-8.77%), UnitedHealth (-1.57%) and McDonalds (-1.23%)."
+    },
+    {
+      "id": "5040027",
+      "time": "2026-08-14 04:33:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "泛林集團計劃在未來五年內投資超過30億美元，以擴大其全球實驗室網路，目標是將實驗產能提升50%以上。"
+    },
+    {
+      "id": "5040026",
+      "time": "2026-08-14 04:32:33",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團：花旗美國消費信用卡業務宣佈已達成協議收購 Kard Financial, Inc."
+    },
     {
       "id": "5040025",
       "time": "2026-08-14 04:31:53",
