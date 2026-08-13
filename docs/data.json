@@ -1,7 +1,60 @@
 {
-  "updated": "2026-08-13 13:44:02",
-  "count": 14974,
+  "updated": "2026-08-13 13:48:03",
+  "count": 14978,
   "items": [
+    {
+      "id": "mkt:019ff9a9-450b-7aab-9019-463927215cf4",
+      "time": "2026-08-13 13:47:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【RMB surpasses HKD to become Hong Kong's top FX pair】The Hong Kong Treasury Markets Association's semiannual FX survey shows average daily FX turnover in Hong Kong was $908.2 bln in April 2026. USD/CNH averaged $274.0 bln/day (30.2% of turnover), overtaking USD/HKD at $240.2 bln (26.4%). Offshore RMB accounted for $259.2 bln of USD/CNH volume and was the main driver. The shift highlights Hong Kong's continued role as an offshore RMB hub."
+    },
+    {
+      "id": "5038662",
+      "time": "2026-08-13 13:46:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電工電網板塊異動拉昇 望變電氣漲停】電工電網板塊異動拉昇，望變電氣漲停，明陽電氣、長城科技等股跟漲。"
+    },
+    {
+      "id": "5038661",
+      "time": "2026-08-13 13:45:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印尼起火客輪救援疏散工作結束 211人獲救】據印度尼西亞地方救援部門13日通報，12日在旅遊勝地巴厘島附近海域起火的印尼客輪人員救援疏散工作已經結束。目前確認有1名印尼籍公民遇難，另有211人獲救。"
+    },
+    {
+      "id": "5038660",
+      "time": "2026-08-13 13:44:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊短線拉昇，梅雁吉祥直線漲停】電力板塊短線拉昇，梅雁吉祥直線漲停，大唐發電、協鑫能科、京能電力跟漲。"
+    },
+    {
+      "id": "te:markets:574911",
+      "time": "2026-08-13 13:44:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Snaps 2-Day Losses, Closes 0.6% Higher — New Zealand's stocks rose 88 points, or 0.6%, to close at 13,825 on Thursday, erasing losses from the previous two sessions, tracking an upbeat session on Wall Street overnight as moderated inflation eased expectations of a Fed interest rate hike at its upcoming meeting. The broader index moved from its lowest level since August 3, reached a day earlier, mainly buoyed by gains from financials, consumer staples, healthcare, and industrials. Moderating oil prices also lifted sentiment as easing concerns over inflation reduced expectations of RBNZ monetary policy tightening. The fresh data also fueled sentiment, as the RBNZ's quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, marking the lowest reading since Q4 2025. Among the top movers were ANZ Group (5.2%), Mainfreight (3.1%), Westpac Banking Corp. (2.9%), A2 Milk (1.7%), Fisher & Paykel (1.4%), Freightways Group (1.1%), and Contact Energy (1.1%)."
+    },
+    {
+      "id": "5038659",
+      "time": "2026-08-13 13:43:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4390美元/盎司，日內跌0.43%。"
+    },
     {
       "id": "5038658",
       "time": "2026-08-13 13:43:14",
@@ -136535,22 +136588,6 @@
         "國際"
       ],
       "text": "日本石油資源開發株式會社（Japex）將以3.2億美元收購美國石油天然氣公司Fundare。"
-    },
-    {
-      "id": "5028065",
-      "time": "2026-08-06 13:45:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子執行長稱，公司正在中國市場贏得更多客戶。"
-    },
-    {
-      "id": "5028064",
-      "time": "2026-08-06 13:44:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將英飛凌目標價從91歐元下調至81歐元。"
     }
   ]
 }
