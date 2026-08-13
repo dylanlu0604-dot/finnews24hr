@@ -1,7 +1,43 @@
 {
   "date": "2026-08-13",
-  "count": 813,
+  "count": 817,
   "items": [
+    {
+      "id": "5038552",
+      "time": "2026-08-13 11:42:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【川潤股份：向特定物件發行股票申請獲深交所受理】川潤股份公告，公司近日收到深交所出具的《關於受理四川川潤股份有限公司向特定物件發行股票申請檔案的通知》（深證上審〔2026〕244號），深交所認為申請檔案齊備，決定予以受理。本次發行事項尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。"
+    },
+    {
+      "id": "mkt:019ff936-2dfd-7aab-9018-037567561ed2",
+      "time": "2026-08-13 11:41:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK",
+        "Impact bullish"
+      ],
+      "text": "【Meituan begins Beijing road test of rider \"wait-at-lights\" stopwatch】Aug 13 — Meituan (03690.HK) released the first formal version of a rider \"wait-at-lights\" stopwatch and has begun road testing in Beijing. The delivery safety tech team ran internal tests on select Beijing roads in 1H and built a prototype; the pilot is now live on roads in Chaoyang, Tongzhou and the Beijing Economic-Technological Development Zone where traffic data is integrated. The feature will separately accumulate red-light waiting time and extend delivery ETAs accordingly. Meituan said more than 20 other cities are evaluating the feature; qualified cities will be rolled out progressively."
+    },
+    {
+      "id": "5038550",
+      "time": "2026-08-13 11:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團在京上線“等燈停表”首個正式版本，騎手已在部分路段路測】從美團獲悉，美團今天上線外賣騎手“等燈停表”功能在京首個正式版本，試點區域已開始路測。從多位騎手處證實，首批路測已完成。據悉，今年上半年，美團配送安全技術團隊已在北京部分道路開展產品內測，並搭建產品雛形，為全國各地試點落地提供了範本，目前已在率先接入交通資料的北京朝陽區、通州區、經濟技術開發區的部分道路進行試點路測。北京外賣騎手等紅燈時間，將逐步實現單獨累加計算並在配送時間中順延。（新浪科技）"
+    },
+    {
+      "id": "5038549",
+      "time": "2026-08-13 11:40:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內多家金店金飾價格多數上漲，最高報1340元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數上漲，最高報1340元/克。"
+    },
     {
       "id": "5038548",
       "time": "2026-08-13 11:38:17",

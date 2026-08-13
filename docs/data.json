@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-13 11:39:12",
-  "count": 14971,
+  "updated": "2026-08-13 11:43:06",
+  "count": 14970,
   "items": [
+    {
+      "id": "5038552",
+      "time": "2026-08-13 11:42:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【川潤股份：向特定物件發行股票申請獲深交所受理】川潤股份公告，公司近日收到深交所出具的《關於受理四川川潤股份有限公司向特定物件發行股票申請檔案的通知》（深證上審〔2026〕244號），深交所認為申請檔案齊備，決定予以受理。本次發行事項尚需透過深交所稽核並獲得中國證監會同意註冊的批覆後方可實施，最終能否透過及時間尚存在不確定性。"
+    },
+    {
+      "id": "mkt:019ff936-2dfd-7aab-9018-037567561ed2",
+      "time": "2026-08-13 11:41:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "03690.HK",
+        "Impact bullish"
+      ],
+      "text": "【Meituan begins Beijing road test of rider \"wait-at-lights\" stopwatch】Aug 13 — Meituan (03690.HK) released the first formal version of a rider \"wait-at-lights\" stopwatch and has begun road testing in Beijing. The delivery safety tech team ran internal tests on select Beijing roads in 1H and built a prototype; the pilot is now live on roads in Chaoyang, Tongzhou and the Beijing Economic-Technological Development Zone where traffic data is integrated. The feature will separately accumulate red-light waiting time and extend delivery ETAs accordingly. Meituan said more than 20 other cities are evaluating the feature; qualified cities will be rolled out progressively."
+    },
+    {
+      "id": "5038550",
+      "time": "2026-08-13 11:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團在京上線“等燈停表”首個正式版本，騎手已在部分路段路測】從美團獲悉，美團今天上線外賣騎手“等燈停表”功能在京首個正式版本，試點區域已開始路測。從多位騎手處證實，首批路測已完成。據悉，今年上半年，美團配送安全技術團隊已在北京部分道路開展產品內測，並搭建產品雛形，為全國各地試點落地提供了範本，目前已在率先接入交通資料的北京朝陽區、通州區、經濟技術開發區的部分道路進行試點路測。北京外賣騎手等紅燈時間，將逐步實現單獨累加計算並在配送時間中順延。（新浪科技）"
+    },
+    {
+      "id": "5038549",
+      "time": "2026-08-13 11:40:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內多家金店金飾價格多數上漲，最高報1340元/克】今日國內黃金飾品價格對比顯示，黃金珠寶品牌公佈的境內足金首飾價格較昨日多數上漲，最高報1340元/克。"
+    },
     {
       "id": "5038548",
       "time": "2026-08-13 11:38:17",
@@ -136438,47 +136474,6 @@
         "Chip Wars"
       ],
       "text": "DBS Group CEO says Taiwan's technology, media and telecom sectors and its semiconductor ecosystem are viewed as drivers for equities; highlights opportunities from India's renewable-energy expansion and AI infrastructure build-out."
-    },
-    {
-      "id": "5027942",
-      "time": "2026-08-06 11:42:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上半年廣州開發區、黃埔區完成固定資產投資超千億元】2026年上半年，廣州開發區、黃埔區完成固定資產投資1015.6億元；完成工業投資348.8億元，同比增長9.4%。2026年1月至6月，廣州開發區、黃埔區累計簽約專案300個，協議投資總額約1052億元，簽約百億級專案5個，其中投資、產值“雙百億”專案3個，簽約十億級專案19個。3個“雙百億”專案分別是：融捷集團廣州開發區新能源智造基地專案、廣合科技高階PCB電路板專案、興森快捷AI積體電路載板專案。"
-    },
-    {
-      "id": "5027941",
-      "time": "2026-08-06 11:42:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國13條河流維持超警 最大超警幅度1.28米】今天上午，水利部舉行會商，分析研判全國的防汛形勢，目前全國13條河流仍維持超警。截至今天9時，黑龍江、內蒙古、陝西、河北、雲南等地13條河流仍維持超警，最大超警幅度1.28米。據預報，8月6日至8日，受降雨影響，浙江曹娥江支流新昌江、陝西渭河支流滈河、海南南渡江支流南叉河、雲南瀾滄江支流南阿河等河流可能發生超警洪水。受上游來水影響，松花江幹流及支流呼蘭河、黑龍江干流同江江段將維持超警。水利部提醒暴雨洪水影響地區社會公眾注意防範。"
-    },
-    {
-      "id": "5027940",
-      "time": "2026-08-06 11:41:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "派傑將摩托羅拉目標價從503美元上調至530美元。"
-    },
-    {
-      "id": "5027939",
-      "time": "2026-08-06 11:40:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【追覓清潔電器全球累計出貨量破4000萬臺】8月5日，追覓科技對外公佈，截至2026年7月，其清潔電器中的核心品類掃地機、洗地機、吸塵器全球累計出貨量突破了4000萬臺。立足全球市場，追覓的產品已覆蓋了超120個國家和地區，線下門店數量超過了12000家，服務超4200萬家庭，成為中國智造走向全球的典型代表。"
-    },
-    {
-      "id": "5027938",
-      "time": "2026-08-06 11:39:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債拍賣投標倍數為3.86，高於12個月平均值3.49。"
     }
   ]
 }
