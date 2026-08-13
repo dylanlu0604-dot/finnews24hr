@@ -1,7 +1,136 @@
 {
   "date": "2026-08-13",
-  "count": 1497,
+  "count": 1511,
   "items": [
+    {
+      "id": "5038952",
+      "time": "2026-08-13 16:28:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【上海家化：境外全資子公司收到美國退回關稅及利息466.36萬美元】上海家化(600315)8月13日公告，截至目前，公司境外全資子公司Mayborn USA Inc.累計收到美國退回關稅及利息（扣除中介機構服務費用）466.36萬美元，摺合人民幣約3232.20萬元，佔公司最近一期經審計歸屬於上市公司股東的淨利潤的12.08%。"
+    },
+    {
+      "id": "5038951",
+      "time": "2026-08-13 16:28:15",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "羅馬尼亞央行行長伊薩雷斯庫：央行至少在一定程度上成功控制了通脹預期。"
+    },
+    {
+      "id": "te:economy:575025",
+      "time": "2026-08-13 16:27:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Czech Republic",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Czechia Current Account Deficit Largest Since 2022 — The Czech Republic’s current account deficit widened to CZK 80.5 billion in June 2026 from CZK 64.2 billion in the corresponding month a year earlier, far exceeding market expectations of CZK 46.8 billion. This marked the largest deficit since August 2022, as the primary income deficit widened to CZK 125.7 billion from CZK 113.2 billion, while the secondary income deficit rose sharply to CZK 1.7 billion from CZK 0.3 billion. Meanwhile, the goods surplus narrowed to CZK 34.8 billion from CZK 41.5 billion. Conversely, the services surplus increased to CZK 10.8 billion from CZK 9.3 billion."
+    },
+    {
+      "id": "mkt:019ffa3b-fd4d-7aab-901f-2fb0aa021bd9",
+      "time": "2026-08-13 16:27:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister warns US officials to beware false intelligence, miscalculation】Iran foreign minister Araghchi posted on social media warning US officials that longstanding US intelligence shortcomings have led to repeated miscalculations, citing past moves against Iran as an example. He said the US has now made a 'more serious' miscalculation over the Strait of Hormuz and added that false intelligence is worse than fake news, urging vigilance."
+    },
+    {
+      "id": "5038950",
+      "time": "2026-08-13 16:27:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "羅馬尼亞央行行長伊薩雷斯庫：維持利率不變的決定證明了責任感。"
+    },
+    {
+      "id": "5038949",
+      "time": "2026-08-13 16:27:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【均勝電子：汽車安全事業部引入戰略投資者增資15億元】均勝電子公告稱，2026年8月13日，興銀投資、中郵投資擬分別向公司控股子公司安徽均勝安全增資5億元、10億元，分別持有其約2.1459%、4.2918%股權，安徽均勝安全仍為公司控股子公司。本次交易已獲公司董事會批准，無需股東會審議。增資款用於償還股東借款和銀行貸款，有助於最佳化資本結構，實現資產負債率目標，提高經營韌性和盈利能力。"
+    },
+    {
+      "id": "5038948",
+      "time": "2026-08-13 16:27:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：我們認為通脹預期的惡化程度是有限的。"
+    },
+    {
+      "id": "mkt:019ffa3b-1af0-7aab-901f-275d61137583",
+      "time": "2026-08-13 16:26:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said the bank has decided to maintain its current policy stance because uncertainty persists, and that the worst phase of the war's impact has passed."
+    },
+    {
+      "id": "5038947",
+      "time": "2026-08-13 16:26:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：我們認為戰爭帶來的影響最壞階段已經過去。"
+    },
+    {
+      "id": "5038946",
+      "time": "2026-08-13 16:26:30",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：由於不確定性仍在持續，我們決定維持當前政策立場不變。"
+    },
+    {
+      "id": "5038945",
+      "time": "2026-08-13 16:26:12",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：風險處於不確定且波動的態勢中。"
+    },
+    {
+      "id": "5038944",
+      "time": "2026-08-13 16:25:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：受戰爭不確定性及其對通脹預期的影響，暫停一週回購操作招標。"
+    },
+    {
+      "id": "mkt:019ffa39-ce1f-7aab-901f-1999241a6b38",
+      "time": "2026-08-13 16:25:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said since the war began the bank has taken proactive response measures."
+    },
+    {
+      "id": "5038943",
+      "time": "2026-08-13 16:24:48",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：自戰爭爆發以來，我們已做出前瞻性應對。"
+    },
     {
       "id": "mkt:019ffa38-fc86-7aab-901f-12fb5e534504",
       "time": "2026-08-13 16:24:26",
