@@ -1,7 +1,34 @@
 {
-  "updated": "2026-08-14 02:24:09",
-  "count": 15356,
+  "updated": "2026-08-14 02:27:58",
+  "count": 15358,
   "items": [
+    {
+      "id": "te:markets:575179",
+      "time": "2026-08-14 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Lumber Falls by 2.17% — Top commodity losers are Lumber (-2.17%), Oat (-2.17%) and Coffee (-2.05%). Gains are led by Sugar (2.01%) and Rice (1.87%)."
+    },
+    {
+      "id": "5039957",
+      "time": "2026-08-14 02:24:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：XRG進軍委內瑞拉市場，推進其全球天然氣戰略。"
+    },
+    {
+      "id": "5039956",
+      "time": "2026-08-14 02:23:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：挪威海德魯在達成天然氣協議後提高巴西氧化鋁產量。"
+    },
     {
       "id": "5039955",
       "time": "2026-08-14 02:22:07",
@@ -140476,17 +140503,6 @@
         "市場"
       ],
       "text": "恒指期貨夜盤收漲0.00%，報25548.16點，高水17.88點。"
-    },
-    {
-      "id": "te:markets:573474",
-      "time": "2026-08-07 02:25:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Sugar Rises by 2.84% — Top commodity gainers are Sugar (2.84%) and Rice (0.81%). Biggest losers are Cocoa (-2.70%) and Oat (-2.61%)."
     }
   ]
 }
