@@ -1,7 +1,159 @@
 {
   "date": "2026-08-13",
-  "count": 2465,
+  "count": 2481,
   "items": [
+    {
+      "id": "mkt:019ffb53-5d2b-7aab-9026-eb07aa1c3166",
+      "time": "2026-08-13 21:32:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Intuition Machine Co. shares fell 8% after Q2 revenue missed expectations and the net loss exceeded forecasts."
+    },
+    {
+      "id": "5039650",
+      "time": "2026-08-13 21:32:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "CEREBRAS SYSTEMS股價下跌12.4%，因第二季度營收不及預期。"
+    },
+    {
+      "id": "5039649",
+      "time": "2026-08-13 21:32:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "直覺機器公司股價下跌8%，此前該公司第二季度營收不及預期，淨虧損幅度大於市場預期。"
+    },
+    {
+      "id": "5039648",
+      "time": "2026-08-13 21:32:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "惠普公司股價上漲7.3%，戴爾公司股價上漲6.1%。"
+    },
+    {
+      "id": "5039646",
+      "time": "2026-08-13 21:31:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "STUBHUB股價開盤暴跌21%，創3月5日以來最大單日跌幅。"
+    },
+    {
+      "id": "5039645",
+      "time": "2026-08-13 21:31:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "京東在美上市的股價在第二季度營收同比下滑後下跌1.9%。"
+    },
+    {
+      "id": "mkt:019ffb52-488f-7aab-9026-e237aa78a0d4",
+      "time": "2026-08-13 21:31:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "U.S. equity benchmarks opened higher on Thursday, Aug. 13: the Dow Jones Industrial Average rose 164.45 points (0.31%) to 53,934.72; the S&P 500 gained 17.98 points (0.23%) to 7,766.51; the Nasdaq Composite added 38.03 points (0.14%) to 26,626.51."
+    },
+    {
+      "id": "te:markets:575123",
+      "time": "2026-08-13 21:31:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Hovers at 10-Week High — Gold fluctuated around $4,400 an ounce, remaining close to a 10-week high as softer US inflation data reinforced expectations that the Federal Reserve will leave interest rates unchanged next month. US producer-price inflation eased more than expected in July, helped by lower energy and food costs, providing further evidence that price pressures are not broadly accelerating. However, renewed tensions in the Middle East remain a risk, as any disruption could push energy prices higher and revive inflationary pressures. Oil is heading for a weekly gain as traders continue to monitor efforts by the US and Iran to end the conflict and reopen the Strait of Hormuz. Gold has also benefited from stronger investor demand and continued central-bank purchases, with China adding around 20 tonnes to its reserves in July, marking the 21st consecutive month of accumulation. Globally, central banks purchased an estimated 289 tonnes of gold in the second quarter."
+    },
+    {
+      "id": "5039644",
+      "time": "2026-08-13 21:31:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "TAPESTRY股價一度下跌14%，創下11月6日以來最大盤中跌幅。"
+    },
+    {
+      "id": "5039643",
+      "time": "2026-08-13 21:31:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "思科股價一度下跌9%，創下2月12日以來最大單日跌幅。"
+    },
+    {
+      "id": "5039642",
+      "time": "2026-08-13 21:31:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "Cytokinetics對百時美施貴寶提起專利侵權訴訟。"
+    },
+    {
+      "id": "mkt:019ffb51-7fe2-7aab-9026-d95c435c55ca",
+      "time": "2026-08-13 21:30:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "JD.com",
+        "S&P500",
+        "Impact bullish",
+        "CSCO.O",
+        "Impact bearish",
+        "HPQ.O"
+      ],
+      "text": "At the open, the Dow Jones Industrial Average rose 0.26%, the S&P 500 gained 0.29% and the Nasdaq climbed 0.12%. Computer-hardware names led gains: HP Inc. (HPQ) up 6.4%, Dell Technologies (DELL) up 3.4%. Cisco Systems (CSCO) fell 7.9% after quarterly results beat estimates but failed to satisfy Wall Street. The Nasdaq Golden Dragon China Index fell 0.65%; JD.com (JD) slipped 2.3%."
+    },
+    {
+      "id": "5039641",
+      "time": "2026-08-13 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.21%，標普500指數漲0.21%，納指漲0.13%。惠普漲6.22%，慧與漲5.42%，戴爾漲5.11%，嘉年華漲3.04%，奈飛漲2.68%，美國網存漲2.46%。“七姐妹”方面：Meta Platforms漲1.01%，蘋果漲0.51%，微軟漲0.49%，英偉達漲0.31%，谷歌漲0.11%，亞馬遜跌0.52%，特斯拉跌0.69%。"
+    },
+    {
+      "id": "5039640",
+      "time": "2026-08-13 21:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍與猶太定居者發生罕見衝突】8月12日，以色列軍方在約旦河西岸的古斯拉和賈盧德地區拆除猶太人定居者的前哨，雙方在一名美籍巴勒斯坦人的住所外一度罕見地發生衝突。但以軍隨後還是撤離當地，放任猶太人定居者繼續圍困巴勒斯坦人住所。據悉，這位名叫路易・裡迪的美籍巴勒斯坦人目前正身處美國，但他的親戚仍住在這所住宅內。路易・裡迪表示，猶太人定居者的騷擾和圍堵已經持續數月，近日事態急劇升級。以色列軍方在8月11日還曾發宣告，言辭嚴厲地批評猶太人定居者此次的圍堵佔地行為，稱其是“非法、應受譴責、不可接受的”，“傷害當地居民，擾亂人們日常生活”。 近來，約旦河西岸形勢危險升級，猶太人定居者針對當地巴勒斯坦人的暴力行為愈演愈烈。但通常來說，以軍對猶太人定居者較為“包容”。每當有定居者暴力事件發生，以軍不是到場“拉偏架”，就是“高高舉起輕輕放下”，最後不了了之，導致猶太人定居者有罪不罰。 （CCTV國際時訊）"
+    },
+    {
+      "id": "5039639",
+      "time": "2026-08-13 21:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，中進醫療跌10.89%，金山雲跌2.72%，京東跌1.93%，嗶哩嗶哩跌2.78%，貝殼跌2.10%。"
+    },
+    {
+      "id": "te:markets:575122",
+      "time": "2026-08-13 21:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Starbucks Stock Price Hits 17-month High — Starbucks shares increased to 109.43 USD, the highest since March 2025. Over the past 4 weeks, Starbucks gained 1.79%, and in the last 12 months, it increased 16.01%."
+    },
     {
       "id": "5039638",
       "time": "2026-08-13 21:28:43",
