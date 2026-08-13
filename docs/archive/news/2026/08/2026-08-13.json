@@ -1,7 +1,111 @@
 {
   "date": "2026-08-13",
-  "count": 1248,
+  "count": 1258,
   "items": [
+    {
+      "id": "mkt:019ff9fd-7d0d-7aab-901c-c53c3aa5d075",
+      "time": "2026-08-13 15:19:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【UOB economist: US inf may have peaked in Q2】UOB senior economist Alvin Liew said in a report US inf may have peaked in Q2, but energy-price uncertainty leaves a risk of renewed inflation. He said falling energy prices have helped cool inf, but energy remains elevated and a rebound in oil—especially if Middle East tensions intensify—could quickly reverse recent disinflation. UOB projects average US headline CPI and core CPI in 2026 of about 3.5% and 2.8%, respectively."
+    },
+    {
+      "id": "5038801",
+      "time": "2026-08-13 15:19:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Alo入華，其海外官網已對中國停售】在Alo正式官宣入華前，國內電商平臺早已存在大量以“Alo”名義銷售的商品。當下，一條Alo海外官網售價約千元的瑜伽褲，在部分店鋪售價不足500元，部分電商品牌甚至存在幾十元產品。開設天貓旗艦店後，Alo的價格也被重新拉回官方體系。與此同時，Alo也在主動切斷舊路徑。記者發現，其海外官網已經無法在中國內地直接下單。Alo客服表示，後續中國消費者可透過中國官方渠道購買。（第一財經）"
+    },
+    {
+      "id": "mkt:019ff9fd-0d3c-7aab-901c-b84fa2b0d8ca",
+      "time": "2026-08-13 15:18:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian militia leader says Strait of Hormuz under Iran's control】Hussein Taeb, head of an Iranian militia organization, said on the 13th that the Strait of Hormuz \"is under Iran's control and management.\""
+    },
+    {
+      "id": "5038800",
+      "time": "2026-08-13 15:18:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗民兵武裝：霍爾木茲海峽在伊朗控制下】伊朗法爾斯通訊社13日報道，伊朗民兵武裝組織負責人侯賽因·塔伊布稱，霍爾木茲海峽“在伊朗的控制和管理之下”。（法爾斯通訊社）"
+    },
+    {
+      "id": "te:economy:574976",
+      "time": "2026-08-13 15:18:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Spain July Inflation Rate Revised Slightly Up to 3.6% — Spain's annual inflation rate was revised slightly higher to 3.6% in July 2026 from a preliminary estimate of 3.5% and June's reading of 3.2%. This marked the highest rate since May 2024, mainly driven by fuel and lubricant prices for personal vehicles, which increased more than in July 2025. The core inflation rate, excluding unprocessed food and energy, also rose to 3.0% from 2.9% in June, in line with estimates and matching May’s near two-year peak. The EU-harmonized annual rate hit 3.9%, its highest since February 2023, up from 3.6% in June and above the preliminary estimate of 3.8%. On a monthly basis, consumer prices rose by 0.3%, up from the earlier estimate of 0.2%, but easing from the 0.6% increase recorded in June."
+    },
+    {
+      "id": "5038799",
+      "time": "2026-08-13 15:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【開漁在即 瓊州海峽客滾船將於16日17時停運】8月13日，記者從湛江海事局瞭解到，瓊州海峽客滾船將於8月16日17時至17日5時30分全線停運，為即將到來的南海開漁讓出安全通道。屆時，粵桂瓊三地大量漁船將集中出海陸續經過瓊州海峽，海事部門同步開展“護航開漁”行動。（央視新聞）"
+    },
+    {
+      "id": "5038798",
+      "time": "2026-08-13 15:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒂森克虜伯首席財務官：正就調整直接還原工廠支援計劃進行深入談判。"
+    },
+    {
+      "id": "mkt:019ff9fa-b0ba-7aab-901c-b411ad934862",
+      "time": "2026-08-13 15:16:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【China bond futures midday close】At midday close, China bond futures most-active contracts: 2-year (TS) up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.06%, 30-year (TL) up 0.29%."
+    },
+    {
+      "id": "mkt:019ff9fa-a19d-7aab-901c-acb20e52e0b7",
+      "time": "2026-08-13 15:16:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax reports Russia is interested in Indian investment in its oil and gas sector."
+    },
+    {
+      "id": "te:markets:574975",
+      "time": "2026-08-13 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.50% Lower — The Shangai Composite Index dropped 20 points or 0.50 percent on Thursday to close at 3927 points. Losses were led by Aluminum Corporation of China (-5.63%), Zijin Mining (-4.14%) and Greenland Holdings (-3.70%). Offsetting the fall, top gainers were Datang Intl (10.02%), Bank Of China (2.06%) and Agricultural Bank of China (1.55%)."
+    },
     {
       "id": "5038797",
       "time": "2026-08-13 15:15:02",

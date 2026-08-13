@@ -1,7 +1,111 @@
 {
-  "updated": "2026-08-13 15:16:30",
-  "count": 15053,
+  "updated": "2026-08-13 15:20:25",
+  "count": 15056,
   "items": [
+    {
+      "id": "mkt:019ff9fd-7d0d-7aab-901c-c53c3aa5d075",
+      "time": "2026-08-13 15:19:27",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【UOB economist: US inf may have peaked in Q2】UOB senior economist Alvin Liew said in a report US inf may have peaked in Q2, but energy-price uncertainty leaves a risk of renewed inflation. He said falling energy prices have helped cool inf, but energy remains elevated and a rebound in oil—especially if Middle East tensions intensify—could quickly reverse recent disinflation. UOB projects average US headline CPI and core CPI in 2026 of about 3.5% and 2.8%, respectively."
+    },
+    {
+      "id": "5038801",
+      "time": "2026-08-13 15:19:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Alo入華，其海外官網已對中國停售】在Alo正式官宣入華前，國內電商平臺早已存在大量以“Alo”名義銷售的商品。當下，一條Alo海外官網售價約千元的瑜伽褲，在部分店鋪售價不足500元，部分電商品牌甚至存在幾十元產品。開設天貓旗艦店後，Alo的價格也被重新拉回官方體系。與此同時，Alo也在主動切斷舊路徑。記者發現，其海外官網已經無法在中國內地直接下單。Alo客服表示，後續中國消費者可透過中國官方渠道購買。（第一財經）"
+    },
+    {
+      "id": "mkt:019ff9fd-0d3c-7aab-901c-b84fa2b0d8ca",
+      "time": "2026-08-13 15:18:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iranian militia leader says Strait of Hormuz under Iran's control】Hussein Taeb, head of an Iranian militia organization, said on the 13th that the Strait of Hormuz \"is under Iran's control and management.\""
+    },
+    {
+      "id": "5038800",
+      "time": "2026-08-13 15:18:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗民兵武裝：霍爾木茲海峽在伊朗控制下】伊朗法爾斯通訊社13日報道，伊朗民兵武裝組織負責人侯賽因·塔伊布稱，霍爾木茲海峽“在伊朗的控制和管理之下”。（法爾斯通訊社）"
+    },
+    {
+      "id": "te:economy:574976",
+      "time": "2026-08-13 15:18:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Spain July Inflation Rate Revised Slightly Up to 3.6% — Spain's annual inflation rate was revised slightly higher to 3.6% in July 2026 from a preliminary estimate of 3.5% and June's reading of 3.2%. This marked the highest rate since May 2024, mainly driven by fuel and lubricant prices for personal vehicles, which increased more than in July 2025. The core inflation rate, excluding unprocessed food and energy, also rose to 3.0% from 2.9% in June, in line with estimates and matching May’s near two-year peak. The EU-harmonized annual rate hit 3.9%, its highest since February 2023, up from 3.6% in June and above the preliminary estimate of 3.8%. On a monthly basis, consumer prices rose by 0.3%, up from the earlier estimate of 0.2%, but easing from the 0.6% increase recorded in June."
+    },
+    {
+      "id": "5038799",
+      "time": "2026-08-13 15:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【開漁在即 瓊州海峽客滾船將於16日17時停運】8月13日，記者從湛江海事局瞭解到，瓊州海峽客滾船將於8月16日17時至17日5時30分全線停運，為即將到來的南海開漁讓出安全通道。屆時，粵桂瓊三地大量漁船將集中出海陸續經過瓊州海峽，海事部門同步開展“護航開漁”行動。（央視新聞）"
+    },
+    {
+      "id": "5038798",
+      "time": "2026-08-13 15:16:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒂森克虜伯首席財務官：正就調整直接還原工廠支援計劃進行深入談判。"
+    },
+    {
+      "id": "mkt:019ff9fa-b0ba-7aab-901c-b411ad934862",
+      "time": "2026-08-13 15:16:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【China bond futures midday close】At midday close, China bond futures most-active contracts: 2-year (TS) up 0.01%, 5-year (TF) up 0.04%, 10-year (T) up 0.06%, 30-year (TL) up 0.29%."
+    },
+    {
+      "id": "mkt:019ff9fa-a19d-7aab-901c-acb20e52e0b7",
+      "time": "2026-08-13 15:16:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Interfax reports Russia is interested in Indian investment in its oil and gas sector."
+    },
+    {
+      "id": "te:markets:574975",
+      "time": "2026-08-13 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.50% Lower — The Shangai Composite Index dropped 20 points or 0.50 percent on Thursday to close at 3927 points. Losses were led by Aluminum Corporation of China (-5.63%), Zijin Mining (-4.14%) and Greenland Holdings (-3.70%). Offsetting the fall, top gainers were Datang Intl (10.02%), Bank Of China (2.06%) and Agricultural Bank of China (1.55%)."
+    },
     {
       "id": "5038797",
       "time": "2026-08-13 15:15:02",
@@ -137368,75 +137472,6 @@
         "其他"
       ],
       "text": "沙特阿美將9月份亞洲阿拉伯輕質原油價格環比下調50美分。"
-    },
-    {
-      "id": "5028199",
-      "time": "2026-08-06 15:20:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "WPP<WPP.L>股價料創1992年以來最大單日漲幅，上漲25%至11個月高位。"
-    },
-    {
-      "id": "5028198",
-      "time": "2026-08-06 15:19:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【谷歌 150 億美元印度資料中心專案深陷水資源與野生動物保護爭議】谷歌規劃的印度資料中心樞紐建設工作正在如火如荼推進，專案所在地上方的山坡已經被開挖，露出赤紅土層，並修出層層臺地。但環保人士的反對聲浪持續高漲，給這家美國科技巨頭總規模 150 億美元的專案製造重重阻礙。該專案坐落於南部安得拉邦，該邦首席部長是印度總理納倫德拉・莫迪的盟友，曾盛讚該專案具備歷史性意義、將帶來變革性影響。針對外界指責專案跳過風險評估、倉促上馬，忽視水資源與野生動物威脅的說法，邦政府予以否認。"
-    },
-    {
-      "id": "te:economy:573295",
-      "time": "2026-08-06 15:18:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Spain",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Spain Industrial Production Growth Slows — Spain's industrial production lost momentum in June, increasing 1.1% year-on-year, the weakest annual gain in four months, following a downwardly revised 3.1% rise in May. Growth remained concentrated in energy (+3.8%) and intermediate goods (+3.1%), while output contracted for capital goods (-0.3%) and consumer goods (-1.4%). On a monthly basis, industrial production declined 0.7%, more than offsetting May's 1.0% increase."
-    },
-    {
-      "id": "5028197",
-      "time": "2026-08-06 15:18:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "諾和諾德公司：董事會成員、高管及關聯人士買賣諾和諾德公司股票。"
-    },
-    {
-      "id": "5028196",
-      "time": "2026-08-06 15:18:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙烏地阿拉伯將9月份阿拉伯輕質原油對亞洲的價格定為每桶優惠2美元。"
-    },
-    {
-      "id": "te:economy:573294",
-      "time": "2026-08-06 15:18:10",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Czech Industrial Output Hits Six-Month High — Industrial production in the Czech Republic grew 4.0% year-on-year in June 2026, accelerating from a revised 2.0% increase in the previous month and marking the strongest annual growth since December 2025. The sharpest increase was recorded in electricity, gas, steam and air conditioning supply, which surged 25.1% after a 2.1% rise in May. Manufacturing output also strengthened (2.6% vs 2.2%), supported by higher production of computer, electronic and optical products (16.7% vs. 11.0%), repair and installation of machinery and equipment (8.1% vs. -6.3%), paper and paper products (4.5% vs. 2.4%), and food products (4.3% vs. 2.9%). Meanwhile, mining and quarrying rebounded 1.1% after contracting 8.3% in May. On a seasonally adjusted monthly basis, industrial production rose 1.2% in June, rebounding from a 0.4% decline in the previous month."
-    },
-    {
-      "id": "te:economy:573292",
-      "time": "2026-08-06 15:17:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Czechia Construction Output at 5-Month Low — Construction output in the Czech Republic increased 2.0% year-on-year in June 2026, easing from a 4.4% rise in the previous month and marking the slowest growth since January. Building construction output rose 6.3% from a year earlier, while civil engineering activity declined 5.3%. A total of 5,545 building permits were issued, up 1.8% year-on-year, while the floor area of newly permitted buildings jumped 76.3%. Meanwhile, housing starts surged 52.9% to 4,103 units, while completed dwellings fell 17.8% year-on-year to 2,699. On a monthly basis, construction output declined 0.3% in June, reversing a 0.2% increase in May."
     }
   ]
 }
