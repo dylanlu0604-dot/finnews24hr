@@ -1,7 +1,57 @@
 {
   "date": "2026-08-14",
-  "count": 213,
+  "count": 218,
   "items": [
+    {
+      "id": "5039995",
+      "time": "2026-08-14 03:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令週四表示，霍爾木茲海峽現已關閉，該部隊完全掌控這條水道的通行活動。"
+    },
+    {
+      "id": "mkt:019ffc8d-aa90-7aab-902c-d5e6f0d179de",
+      "time": "2026-08-14 03:16:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BP said it will partner with XRG, ADNOC’s International Energy Investments company and UCC Oil & Gas Holdings, with each party holding an equal working interest."
+    },
+    {
+      "id": "5039994",
+      "time": "2026-08-14 03:16:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司：與阿布扎比國家石油公司旗下國際能源投資平臺 XRG 以及 UCC 油氣控股達成合作，各方持有均等的作業權益份額。"
+    },
+    {
+      "id": "mkt:019ffc8d-812b-7aab-902c-ce0c44b32060",
+      "time": "2026-08-14 03:15:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.N",
+        "Impact bullish"
+      ],
+      "text": "Venezuela has granted BP a Phase II exploration and production license for the Luolan oilfield in the Delta Plateau region; BP will be the field developer and operator."
+    },
+    {
+      "id": "mkt:019ffc8c-79a2-7aab-902c-c56f1f0aaaae",
+      "time": "2026-08-14 03:14:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ICI: US money market fund assets rose to $7.93 trillion."
+    },
     {
       "id": "5039993",
       "time": "2026-08-14 03:14:18",

@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-14 03:14:56",
-  "count": 15405,
+  "updated": "2026-08-14 03:18:51",
+  "count": 15406,
   "items": [
+    {
+      "id": "5039995",
+      "time": "2026-08-14 03:17:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令週四表示，霍爾木茲海峽現已關閉，該部隊完全掌控這條水道的通行活動。"
+    },
+    {
+      "id": "mkt:019ffc8d-aa90-7aab-902c-d5e6f0d179de",
+      "time": "2026-08-14 03:16:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "BP said it will partner with XRG, ADNOC’s International Energy Investments company and UCC Oil & Gas Holdings, with each party holding an equal working interest."
+    },
+    {
+      "id": "5039994",
+      "time": "2026-08-14 03:16:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "英國石油公司：與阿布扎比國家石油公司旗下國際能源投資平臺 XRG 以及 UCC 油氣控股達成合作，各方持有均等的作業權益份額。"
+    },
+    {
+      "id": "mkt:019ffc8d-812b-7aab-902c-ce0c44b32060",
+      "time": "2026-08-14 03:15:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "BP.N",
+        "Impact bullish"
+      ],
+      "text": "Venezuela has granted BP a Phase II exploration and production license for the Luolan oilfield in the Delta Plateau region; BP will be the field developer and operator."
+    },
+    {
+      "id": "mkt:019ffc8c-79a2-7aab-902c-c56f1f0aaaae",
+      "time": "2026-08-14 03:14:52",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ICI: US money market fund assets rose to $7.93 trillion."
+    },
     {
       "id": "5039993",
       "time": "2026-08-14 03:14:18",
@@ -140909,44 +140959,6 @@
         "國際"
       ],
       "text": "伊朗法爾斯通訊社：伊朗在霍爾木茲海峽打擊 “敵對目標” 。"
-    },
-    {
-      "id": "5029499",
-      "time": "2026-08-07 03:18:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普力挺赫格塞思 此前兩人據報在武器庫存問題上存分歧】美國總統唐納德·特朗普力挺國防部長赫格塞思，此前有報道稱，兩人就美國武器庫存減少的問題發生分歧，引發對赫格塞思在特朗普政府中去留的疑問。“我對赫格塞思的工作極為滿意，”特朗普週四在社交媒體發帖稱，“一切都非常出色，包括我們對委內瑞拉的襲擊，”伊朗方面同樣如此，“那個國家已遭到重創”。特朗普發表上述言論前，週三有報道稱，特朗普上週在一次內閣會議間隙向赫格塞思表達不滿，稱自己在彈藥短缺問題上受到誤導。特朗普已否認該報道，並再次表示，“國防企業正在建設的工廠數量為我國曆史之最”。"
-    },
-    {
-      "id": "5029498",
-      "time": "2026-08-07 03:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：特朗普政府或將拒絕部分美國太陽能製造商提出的加快落地多晶矽進口新關稅及價格下限的訴求。"
-    },
-    {
-      "id": "te:markets:573476",
-      "time": "2026-08-07 03:16:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Rises More Than 4% — Brent extended its gains, rising more than 4% to $82.8 per barrel on Thursday, after reports that an Iranian parliamentary committee is analyzing a draft proposal outlining restrictive conditions for ship traffic through the Strait of Hormuz. Under the proposal, Iran would prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Tehran also proposed imposing penalties on violators equivalent to 20% of the value of the cargo carried by a vessel and stated that a full reopening of the strait would depend on the lifting of the US maritime blockade. Meanwhile, Houthi forces in Yemen claimed on Thursday to have launched attacks on Saudi troop positions, adding to geopolitical concerns across the region. Earlier in the day, US officials reiterated their confidence that a nuclear agreement with Iran was within reach, although investors remained cautious about the prospects for a durable and lasting peace."
-    },
-    {
-      "id": "te:markets:573475",
-      "time": "2026-08-07 03:15:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Extend Gains as Iran Reviews Hormuz Transit Bill — Crude oil extended its gains, rising 3% to $77.5 per barrel on Thursday, after reports that an Iranian parliamentary committee is analyzing a draft proposal outlining restrictive conditions for ship traffic through the Strait of Hormuz. Under the proposal, Iran would prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Tehran also proposed imposing penalties on violators equivalent to 20% of the value of the cargo carried by a vessel and stated that a full reopening of the strait would depend on the lifting of the US maritime blockade. Meanwhile, Houthi forces in Yemen claimed on Thursday to have launched attacks on Saudi troop positions, adding to geopolitical concerns across the region. Earlier in the day, US officials reiterated their confidence that a nuclear agreement with Iran was within reach, although investors remained cautious about the prospects for a durable and lasting peace."
     }
   ]
 }
