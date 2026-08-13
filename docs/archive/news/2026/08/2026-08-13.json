@@ -1,7 +1,108 @@
 {
   "date": "2026-08-13",
-  "count": 1354,
+  "count": 1365,
   "items": [
+    {
+      "id": "5038865",
+      "time": "2026-08-13 15:51:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【花園生物：取得《藥品生產許可證》完善產業鏈佈局】花園生物公告稱，公司近日取得浙江省藥品監督管理局核發的《藥品生產許可證》，許可證編碼為浙20260010，有效期至2031年8月9日。這是公司首次獲此證並透過藥品GMP符合性檢查，為產品上市及商業化生產銷售提供資質保障，利於完善維生素D3全產業鏈佈局。不過，公司尚需取得原料藥備案證明，短期內對業績無重大影響，生產銷售受政策、市場等因素影響，存在不確定性。"
+    },
+    {
+      "id": "5038864",
+      "time": "2026-08-13 15:50:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：貸款增速自2026年第二季度起放緩。"
+    },
+    {
+      "id": "5038863",
+      "time": "2026-08-13 15:50:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗說將以持久戰消耗美國】在美國公共電視臺（PBS）當地時間8月11日播出的採訪中，伊朗革命衛隊總司令顧問穆罕默德·雷扎·納格迪指出，美國對伊朗戰爭的兩大主要目標——推翻伊朗領導層和分裂伊朗都“已經失敗”，“勝利在伊朗這邊”。納格迪表示，在這場戰爭中看到了美國的困惑和迷茫，“美國三天兩頭宣佈一個新的目標，讓其變成了一場‘沒有戰略’的戰爭”。 納格迪還強調，伊朗將繼續取得勝利，在與美國5個多月的作戰中，伊朗不僅積累了經驗，也看到美軍比想象中更弱——而伊朗必須實現威懾，讓敵人永遠不敢再攻擊伊朗，而其中一種方式就是“延長戰爭”、消耗美國，這樣一來，以後如果還有人想要攻擊伊朗“會先掂量掂量要付出的代價”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019ffa19-b009-7aab-901d-a97afaf63caf",
+      "time": "2026-08-13 15:50:15",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Ukraine says passenger train hit by drone; two crew killed】On the 13th local time, Ukrainian Railways said a passenger train in Odesa region was struck by a drone; the driver and an assistant were killed. The train was carrying 340 passengers; all remaining passengers and crew have been evacuated and no other casualties were reported."
+    },
+    {
+      "id": "5038862",
+      "time": "2026-08-13 15:50:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏稱一客運列車遭無人機襲擊 2名乘務人員死亡】當地時間13日，烏克蘭國家鐵路公司釋出通報稱，敖德薩州一列客運列車遭無人機襲擊，列車司機與助手在襲擊中身亡。通報稱，事發時列車載有340名乘客，目前車上所有乘客及其餘乘務人員已安全疏散，無其他人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ffa19-784f-7aab-901d-a6e60f53252c",
+      "time": "2026-08-13 15:50:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The Finnish president said he spoke with UK Prime Minister Burnham about the situation in Ukraine and support for Ukrainian defence, described Finland-UK ties and defence cooperation as strong, and called the UK an important regional actor."
+    },
+    {
+      "id": "5038861",
+      "time": "2026-08-13 15:49:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌2%，現報1346.00美元/盎司。"
+    },
+    {
+      "id": "5038860",
+      "time": "2026-08-13 15:49:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：我們將繼續實施宏觀審慎政策工具，以支援緊縮貨幣政策。"
+    },
+    {
+      "id": "5038859",
+      "time": "2026-08-13 15:49:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中老鐵路前7個月進出口貨值超200億元】記者13日從昆明海關獲悉，今年前7個月，經中老鐵路進出口貨值201.1億元、同比增長29.9%。據昆明海關統計，今年前7個月，經中老鐵路進口東盟熱帶水果49.2億元、同比增長14.9%，出口新能源汽車、光伏產品等“新三樣”23.1億元、同比增長306.2%，跨境電商B2B出口貨值同比增長1.5倍。其中，進口榴蓮15.8萬噸，同比增長25.6%。依託中老鐵路這條“黃金大通道”，“中國智造南下，東南亞特產北上”雙向貿易格局加速形成。（新華社）"
+    },
+    {
+      "id": "te:economy:575001",
+      "time": "2026-08-13 15:49:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "GDP Annual Growth Rate",
+        "Importance 0"
+      ],
+      "text": "Poland GDP Rises 3.8% in Q2, Matching Expectations — Poland’s economy expanded by 3.8% year-on-year in the second quarter of 2026, in line with market forecasts, according to preliminary estimates. This followed a 3.5% growth in the first quarter. On a seasonally adjusted quarterly basis, GDP rose 0.9%, following a 0.6% increase in the previous period but falling short of market expectations for a 1.0% growth."
+    },
+    {
+      "id": "5038858",
+      "time": "2026-08-13 15:48:44",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【華境汽車發宣告 否認底盤設計缺陷】8月13日，華境汽車發文：自2026年8月8日起，我司留意到個別社交平臺賬號釋出“華境S存在設計缺陷，前雙又臂有嚴重設計問題”等言論。華境S底盤設計嚴格依據國家標準及行業法規要求開展，已透過全部法規要求的測試驗證，不存在網傳所謂“設計缺陷”。對於蓄意編造、傳播不實資訊損害上汽通用五菱商譽的行為，我司將依法追究其個人或組織的法律責任。"
+    },
     {
       "id": "mkt:019ffa16-7e29-7aab-901d-9d61c4521a8c",
       "time": "2026-08-13 15:46:45",
