@@ -1,7 +1,135 @@
 {
   "date": "2026-08-13",
-  "count": 2329,
+  "count": 2344,
   "items": [
+    {
+      "id": "mkt:019ffb2e-0893-7aab-9025-bd2ae2547c8d",
+      "time": "2026-08-13 20:52:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "Market pricing shows increased odds the Fed will hold its policy rate at 3.50%-3.75% in September. The market-implied probability is about 65%, up from roughly 60% before the PPI release."
+    },
+    {
+      "id": "5039557",
+      "time": "2026-08-13 20:51:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：加息可能會帶來痛苦，但絕不能任由增長和投資增速過快導致經濟過熱。企業已適應關稅與石油衝擊，展現出韌性與投資活力。"
+    },
+    {
+      "id": "5039556",
+      "time": "2026-08-13 20:51:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國產胰島素製劑首登美國 湖北縣城胰島素賣到美國】胰島素專項集採實施的第五年，國產胰島素製劑首度叩開美國商業化大門。值得關注的是，該批行銷美國的產品，產自集採中的“老面孔”——湖北縣城宜都的集採藥品生產專線。 儘管此前尚未有國產胰島素成品製劑拿到FDA（美國食品藥品監督管理局）上市批件，但“國內集採與歐美市場雙向供貨、共線生產”的模式，已非孤例。 在業界看來，該筆海外訂單更大的行業意義在於中國藥企的生產質量管理體系透過“全球最嚴苛醫藥市場”的驗證，側面回應了公眾對集採藥品質量的隱憂。 隨著集採步入常態化執行階段，國內市場“以價換量”效應正在持續釋放；加之製劑國際化先行在新興國家市場進入兌現期，近日，國家醫保局組織的媒體調研中，第一財經瞭解到，多家集採中標企業已重回增長軌道。 （第一財經）"
+    },
+    {
+      "id": "5039555",
+      "time": "2026-08-13 20:50:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "米內瓦食品首席財務官稱，2027年全球肉牛供應形勢或將惡化。"
+    },
+    {
+      "id": "5039554",
+      "time": "2026-08-13 20:50:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱美若用核彈其全球基地成靶子】在美國公共電視臺（PBS）當地時間8月11日播出的採訪中，伊朗伊斯蘭革命衛隊總司令顧問穆罕默德·雷扎·納格迪在被問及“美國對伊朗使用核彈的可能性”時發出警告：“如果美國敢使用核彈，那麼次日早晨，美國在全球的所有軍事基地就都將被佔領。”面對關於“伊朗若擁有核武器將震懾美國”的提問，納格迪巧妙回應稱，伊朗的“核彈”實際上是“透過反抗（美國）贏得的全世界人民的心”。他強調，“伊朗不需要真正的核彈，也不需要殺戮。” 對於伊朗最高領袖穆傑塔巴·哈梅內伊接任後始終未公開露面一事，納格迪表示，“這是他的策略，是出於安全考慮。” （CCTV國際時訊）"
+    },
+    {
+      "id": "5039553",
+      "time": "2026-08-13 20:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "汗尤尼斯地區遇襲之後，以色列國防軍對加沙地帶發動新一輪打擊，此次襲擊目標為加沙市區域。"
+    },
+    {
+      "id": "5039552",
+      "time": "2026-08-13 20:49:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "超威半導體（ADVANCED MICRO DEVICES）提交債務證券發售申請，檔案未披露發行規模。"
+    },
+    {
+      "id": "mkt:019ffb2b-dcb1-7aab-9025-b2c136dc121b",
+      "time": "2026-08-13 20:49:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Barkin says rate hikes may be needed to hit 2% inflation target】Fed governor Barkin said it remains unresolved whether the Fed will need to raise rates to restore the 2% inflation target or whether inflation is already on a sustained downtrend. He noted parts of the US economy remain puzzling, with consumers and overall activity not yet showing effects from shocks. Many Fed officials view current policy rates as sufficiently restrictive to curb inflation. With wage pressures moderate and tariffs, oil and other shocks likely to fade, inflation could ease; however, persistent price pressures might require weaker demand or additional rate hikes to meet the Fed's goal."
+    },
+    {
+      "id": "5039551",
+      "time": "2026-08-13 20:49:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "據阿拉比亞電視臺週四援引葉門軍方訊息源報道，胡塞武裝在哈德拉毛省阿卜爾地區襲擊葉門政府軍，造成 2 人死亡、15 人受傷。"
+    },
+    {
+      "id": "mkt:019ffb2b-8e93-7aab-9025-ade3ad7bd441",
+      "time": "2026-08-13 20:49:23",
+      "tags": [
+        "MKT News",
+        "AVAV.O",
+        "Impact bullish",
+        "KTOS.O",
+        "LMT.O"
+      ],
+      "text": "The US eased export controls on certain drones and drone components."
+    },
+    {
+      "id": "5039550",
+      "time": "2026-08-13 20:49:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國放寬對某些無人機及其零部件的出口管制。"
+    },
+    {
+      "id": "mkt:019ffb2b-4140-7aab-9025-a24a369b889a",
+      "time": "2026-08-13 20:49:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Saudi Arabia appointed its energy minister as head of the procurement bureau."
+    },
+    {
+      "id": "5039549",
+      "time": "2026-08-13 20:48:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特任命能源大臣兼任採購管理局負責人。"
+    },
     {
       "id": "5039548",
       "time": "2026-08-13 20:47:19",
@@ -763,6 +891,18 @@
       "text": "美國股指期貨在經濟資料公佈後變動極小。"
     },
     {
+      "id": "5039510",
+      "time": "2026-08-13 20:32:21",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨漲0.25%，標普500指數期貨漲0.11%，納指期貨跌0.06%。\n②德國DAX指數漲0.42%，英國富時100指數跌0.33%，法國CAC40指數漲0.09%，歐洲斯托克50指數漲0.44%。\n③WTI原油跌2.16%，報81.45美元/桶。布倫特原油跌1.90%，報87.28美元/桶。\n④伊朗武裝部隊哈塔姆安比亞中央總部發言人說，未經伊朗許可，任何船隻都無法安全透過霍爾木茲海峽。\n⑤俄羅斯副外長里亞布科夫表示，俄方不瞭解烏克蘭總統澤連斯基關於結束俄烏衝突的提議。\n⑥花旗策略師上調了標普500成分股全年盈利預期，並表示，人工智慧資本開支企業的營收趨勢“應有助於為指數中受AI影響的部分提供支撐”。\n⑦IBM股價盤前上漲1.6%，此前該公司宣佈與OpenAI建立合作關係。\n⑧戴爾科技美股盤前漲超5%，現報508.87美元。\n⑨京東美股盤前跌幅擴大至逾3%，此前京東公佈最新季度財報。"
+    },
+    {
       "id": "5039509",
       "time": "2026-08-13 20:32:20",
       "tags": [
@@ -779,6 +919,14 @@
         "國際"
       ],
       "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，豐田汽車公司將在美國召回 407 輛汽車。"
+    },
+    {
+      "id": "5039507",
+      "time": "2026-08-13 20:32:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方：未經許可任何船隻無法安全透過霍爾木茲海峽】據伊朗方面13日訊息，伊朗武裝部隊哈塔姆安比亞中央總部發言人說，未經伊朗許可，任何船隻都無法安全透過霍爾木茲海峽。（央視新聞）"
     },
     {
       "id": "5039506",
