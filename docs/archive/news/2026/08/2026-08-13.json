@@ -1,7 +1,121 @@
 {
   "date": "2026-08-13",
-  "count": 2761,
+  "count": 2773,
   "items": [
+    {
+      "id": "5039838",
+      "time": "2026-08-13 23:31:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲STOXX指數上漲0.18%；歐元區藍籌股上漲0.16%。"
+    },
+    {
+      "id": "5039837",
+      "time": "2026-08-13 23:31:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國CAC 40指數下跌0.29%；西班牙IBEX指數下跌0.1%。"
+    },
+    {
+      "id": "5039836",
+      "time": "2026-08-13 23:31:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國富時100指數下跌0.69%；德國DAX指數下跌0.15%。"
+    },
+    {
+      "id": "mkt:019ffbbf-4827-7aab-9029-ba9f8c55da37",
+      "time": "2026-08-13 23:30:44",
+      "tags": [
+        "MKT News",
+        "HII.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports a new aircraft carrier will replace the Lincoln."
+    },
+    {
+      "id": "5039835",
+      "time": "2026-08-13 23:30:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國法官駁回特朗普政府指控哈佛大學未能保護猶太學生的訴訟。"
+    },
+    {
+      "id": "5039834",
+      "time": "2026-08-13 23:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "閃迪高管稱，Meta將加入聯盟，共同制定高頻寬快閃記憶體開放標準。"
+    },
+    {
+      "id": "5039833",
+      "time": "2026-08-13 23:30:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "京東在美國上市的股票跌幅擴大，最新下跌7.9%。"
+    },
+    {
+      "id": "5039832",
+      "time": "2026-08-13 23:29:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，京東跌7.87%，盛豐物流跌6.28%，中比能源跌4.81%，Tims中國跌4.71%，滿幫跌4.64%。"
+    },
+    {
+      "id": "5039831",
+      "time": "2026-08-13 23:29:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行貨幣政策委員會委員就英國GDP資料發表看法：這朝著讓我確信我們並未陷入急劇衰退的方向發展。"
+    },
+    {
+      "id": "mkt:019ffbbd-da89-7aab-9029-b3209b7fab67",
+      "time": "2026-08-13 23:29:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The U.S. will deploy a new aircraft carrier to the Middle East."
+    },
+    {
+      "id": "mkt:019ffbbd-9200-7aab-9029-ac2bc3ffeb70",
+      "time": "2026-08-13 23:28:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Reports of a Houthi attack on an ARAMCO refinery pushed diesel crack spreads above $98, their highest on record."
+    },
+    {
+      "id": "5039830",
+      "time": "2026-08-13 23:28:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國將向中東派遣新型航空母艦。"
+    },
     {
       "id": "5039829",
       "time": "2026-08-13 23:26:42",
