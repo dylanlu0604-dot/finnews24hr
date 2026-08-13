@@ -1,7 +1,201 @@
 {
   "date": "2026-08-13",
-  "count": 1578,
+  "count": 1600,
   "items": [
+    {
+      "id": "mkt:019ffa52-e9bd-7aab-901f-e47ae5be7c57",
+      "time": "2026-08-13 16:52:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank governor said the central bank stands ready to tighten policy further if the inf outlook continues to deteriorate."
+    },
+    {
+      "id": "5039021",
+      "time": "2026-08-13 16:52:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【楊元慶談股價：不能僅看季度業績，更應關注聯想的戰略方向和執行力】聯想集團披露2026/27財年第一季度財報業績。在溝通會上，聯想集團董事長兼CEO楊元慶表示，關注聯想股價不能僅看一個季度的業績，更應該看基礎性的因素，比如聯想的戰略方向、運營能力、執行力和創新。 “你要看我們是不是說到做到。最簡單的，我們說千億美元營收，5%的淨利潤率，給個PE，你來估算聯想的股價應該是多少，這是不是最簡單的方式？”楊元慶說道。（新浪科技）"
+    },
+    {
+      "id": "5039020",
+      "time": "2026-08-13 16:52:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞泰集團：股價異常波動 提示多項經營及退市風險】亞泰集團公告稱，公司股票於2026年8月11 - 13日波動較大，已達異常波動標準。公司目前生產經營正常，無應披露未披露重大事項。2025年度、2026年一季度及半年度預計淨虧損分別為20.40億元、2.25億元、5億元左右。截至7月25日，逾期債務本金及利息累計36.22億元，佔最近一期經審計歸母淨資產的585.19%。公司處於預重整程式，若重整申請被受理，股票將被實施退市風險警示，若重整失敗，股票面臨終止上市風險。此外，前期籌劃的重大資產出售事項可能中止或終止。"
+    },
+    {
+      "id": "5039019",
+      "time": "2026-08-13 16:52:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中電聯數智公司與太極股份達成戰略合作】8月13日，中電聯（北京）數智科技有限公司（簡稱“中電聯數智公司”）與太極股份達成戰略合作。雙方將以電力公共資訊平臺為核心載體，立足各自核心優勢開展深度協同。雙方基於長期良好的合作基礎，立足電力行業數字化發展大局，達成全方位、深層次戰略合作，共同開啟電力資料要素創新發展、行業數智化升級的全新篇章。"
+    },
+    {
+      "id": "5039018",
+      "time": "2026-08-13 16:52:25",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：如果前景惡化，準備進一步收緊貨幣政策。"
+    },
+    {
+      "id": "mkt:019ffa52-885e-7aab-901f-dae7567f8489",
+      "time": "2026-08-13 16:52:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Governor of Russia's Orenburg region says repair work will continue for six months."
+    },
+    {
+      "id": "te:economy:575036",
+      "time": "2026-08-13 16:52:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Oman",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Oman Inflation Accelerates in July — Oman's annual inflation rose to 3.2% in July 2026, up from 2.8% in the prior month. Food inflation rose to 7.3% from 6.1%, while transport inflation increased to 6.5% from 5.5%. Prices also rose faster for recreation and culture (0.4% vs 0.3%). Meanwhile, inflation remained elevated for furnishings (3.1%) and education (2.2%), while housing and utilities costs continued to decline, falling 0.6%. In contrast, inflation eased for restaurants and hotels (3.6% vs 4.6%) and health (1.7% vs 1.8%). On a monthly basis, consumer prices increased 0.7%, rebounding from a 0.6% decline in June."
+    },
+    {
+      "id": "mkt:019ffa52-66cf-7aab-901f-d49346c759d7",
+      "time": "2026-08-13 16:52:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Governor of Russia's Orenburg region says refinery operations have fully stopped."
+    },
+    {
+      "id": "5039017",
+      "time": "2026-08-13 16:51:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：當前政策緊縮程度足以支援抗通脹程序，並促使經濟活動降溫。"
+    },
+    {
+      "id": "5039016",
+      "time": "2026-08-13 16:51:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞銀：英特爾200億美元融資落地是對自身代工路線圖的強力背書】瑞銀髮布報告稱，英特爾本週宣佈的200億美元融資計劃，大機率已消除籠罩其股價的長期不確定因素。瑞銀分析師蒂莫西·阿庫裡(Timothy Arcuri)在給客戶的報告中指出，結合英特爾即將敲定的多項代工協議所附帶的預付款及財務承諾——據信谷歌已就EMIB-T技術達成合作，蘋果則涉及M系列晶片，此外還包括AMD、SpaceX及潛在的其他客戶——本輪融資足以支撐其代工業務的後續建設投入。阿庫裡總結道：“總體而言，我們認為此次融資行動是英特爾對自身代工路線圖充滿信心的強力背書。”阿庫裡對英特爾股票維持“中性”評級，但在融資訊息公佈後，將其目標價從121美元下調至112美元。"
+    },
+    {
+      "id": "5039015",
+      "time": "2026-08-13 16:51:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【邁富時：2026年上半年期內利潤2.03億元，同比增長466.1%】邁富時公告，2026年上半年收入19.6億元，2025年同期9.28億元，同比增長111.2%；毛利8.86億元，同比增長96.5%；期內利潤2.03億元，2025年同期3582萬元，同比增長466.1%；經調整淨利潤2.13億元，同比增長150.9%。"
+    },
+    {
+      "id": "5039014",
+      "time": "2026-08-13 16:51:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯奧倫堡州州長：修復工作將耗時長達六個月。"
+    },
+    {
+      "id": "5039013",
+      "time": "2026-08-13 16:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯奧倫堡州州長：煉油廠運營已完全停止。"
+    },
+    {
+      "id": "5039012",
+      "time": "2026-08-13 16:50:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯奧倫堡州州長：奧爾斯克煉油廠遇襲導致奧爾斯克關鍵基礎設施受損。"
+    },
+    {
+      "id": "mkt:019ffa51-1611-7aab-901f-caabb7508b74",
+      "time": "2026-08-13 16:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's Orenburg Oblast governor says the situation is severe."
+    },
+    {
+      "id": "5039011",
+      "time": "2026-08-13 16:50:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華虹宏力：決定啟用新LOGO提升品牌形象】華虹宏力公告稱，根據公司發展戰略，為增強公司LOGO的識別度和傳播效果、提升品牌形象和影響力，公司決定啟用新LOGO。此次變更不會影響股東權利、業務運營或財務狀況，公司網站及相關宣傳資料內容將同步更改。"
+    },
+    {
+      "id": "5039010",
+      "time": "2026-08-13 16:50:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華峰測控：“華峰轉債”轉股價格調整為335.79元/股】華峰測控公告稱，公司於2026年8月10日完成2024年限制性股票激勵計劃部分股份登記工作，向6名激勵物件定向發行47,072股，總股本由200,751,197股變更為200,798,269股。根據規定，“華峰轉債”轉股價格由335.86元/股調整為335.79元/股，自8月11日起生效。“華峰轉債”轉股期為2026年12月29日起至2032年6月22日，目前尚未進入轉股期，正常交易，不停牌。"
+    },
+    {
+      "id": "mkt:019ffa50-71bd-7aab-901f-c062d9eda4f1",
+      "time": "2026-08-13 16:50:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Eurozone June industrial production m/m due in 10 minutes."
+    },
+    {
+      "id": "5039009",
+      "time": "2026-08-13 16:50:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤雙鶴：全資子公司獲乳酸鈉林格沖洗液3000ml藥品註冊證書】華潤雙鶴公告，全資子公司上海長征富民金山製藥有限公司近日收到國家藥品監督管理局頒發的乳酸鈉林格沖洗液《藥品註冊證書》，該藥品註冊分類為化學藥品3類，規格3000ml，藥品批准文號為國藥準字H20265308，視同透過一致性評價，適用於允許使用無菌電解質溶液的一般沖洗。該藥品系與外部單位合作品種，研發及註冊上市階段費用50.64萬元由合作方承擔，未納入公司研發投入核算範圍。"
+    },
+    {
+      "id": "mkt:019ffa50-51c3-7aab-901f-bd7de97f03c6",
+      "time": "2026-08-13 16:49:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "【Zhongjin Gold: Reserve-verification exploration at Hubei Jilongshan mine starts】Zhongjin Gold said reserve-verification exploration at Hubei Jilongshan Gold Mining Co. began on Aug. 10, moving the project into substantive construction. The four-month survey includes a core drilling programme to complete 32 holes totalling 11,000m within two months. Preliminary estimates indicate the project could add about 2.4 mln t of ore, 2 t of gold and 4,500 t of copper."
+    },
+    {
+      "id": "5039007",
+      "time": "2026-08-13 16:49:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東健康2026半年報：國內醫藥零售最大平臺利潤能力持續增強，收入穩健增長】8月13日，京東健康釋出2026年中期業績公告。2026年上半年，京東健康總收入為人民幣409億元，同比增長15.9%；非國際財務報告準則指標下（Non-IFRS）經營利潤35億元，同比增長40.3%。報告期內，京東健康持續強化醫藥供應鏈優勢，鞏固“新藥全網首發第一站”地位，同時以“AI+供應鏈”全場景賦能“醫—檢—診—藥”閉環，核心經營指標穩健增長。京東集團SEC委員、京東健康CEO曹冬表示，公司圍繞“體驗、成本、效率”推進長期戰略，深化自營供應鏈與醫療服務融合，推進AI在健康消費場景的應用落地，為使用者提供易得、便捷、優質且可負擔的健康方案。得益於經營效率提升與成本結構最佳化，京東健康利潤水平連續改善，展現出強勁經營韌性與高質量增長態勢。"
+    },
+    {
+      "id": "5039006",
+      "time": "2026-08-13 16:48:57",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金黃金：湖北雞籠山公司儲量核實探礦工程開工】據中金黃金訊息，8月10日上午，湖北雞籠山黃金礦業有限公司儲量核實探礦工程破土動工，標誌著該專案從謀劃決策、論證設計正式轉入實質性施工階段。此次勘查工程為期4個月，核心的鑽探施工計劃在兩個月內完成32個鑽孔、累計1.1萬米的進尺任務。經初步估算，該專案預計新增礦石量240萬噸，金金屬量2噸、銅金屬量4500噸。"
+    },
     {
       "id": "5039005",
       "time": "2026-08-13 16:48:35",
