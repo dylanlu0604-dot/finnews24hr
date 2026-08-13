@@ -1,7 +1,23 @@
 {
-  "updated": "2026-08-14 03:07:13",
-  "count": 15398,
+  "updated": "2026-08-14 03:11:06",
+  "count": 15399,
   "items": [
+    {
+      "id": "5039989",
+      "time": "2026-08-14 03:08:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國防部：多國海上防禦聯盟第三次規劃會議于吉達召開，共有 39 個國家參與。"
+    },
+    {
+      "id": "mkt:019ffc86-46be-7aab-902c-ae614ff78184",
+      "time": "2026-08-14 03:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's defense ministry said 39 countries participated in the third planning meeting of a multinational maritime defense coalition held in Jeddah."
+    },
     {
       "id": "5039988",
       "time": "2026-08-14 03:05:36",
@@ -140878,14 +140894,6 @@
         "Importance 2"
       ],
       "text": "Oil Prices Extend Gains as Iran Reviews Hormuz Transit Bill — Crude oil extended its gains, rising 3% to $77.5 per barrel on Thursday, after reports that an Iranian parliamentary committee is analyzing a draft proposal outlining restrictive conditions for ship traffic through the Strait of Hormuz. Under the proposal, Iran would prohibit US and Israeli vessels from transiting Hormuz and require countries deemed hostile to pay compensation before being granted passage. Tehran also proposed imposing penalties on violators equivalent to 20% of the value of the cargo carried by a vessel and stated that a full reopening of the strait would depend on the lifting of the US maritime blockade. Meanwhile, Houthi forces in Yemen claimed on Thursday to have launched attacks on Saudi troop positions, adding to geopolitical concerns across the region. Earlier in the day, US officials reiterated their confidence that a nuclear agreement with Iran was within reach, although investors remained cautious about the prospects for a durable and lasting peace."
-    },
-    {
-      "id": "5029497",
-      "time": "2026-08-07 03:08:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利總理：自願限電措施將於明日結束。"
     }
   ]
 }

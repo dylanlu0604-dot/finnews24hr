@@ -1,7 +1,23 @@
 {
   "date": "2026-08-14",
-  "count": 205,
+  "count": 207,
   "items": [
+    {
+      "id": "5039989",
+      "time": "2026-08-14 03:08:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯國防部：多國海上防禦聯盟第三次規劃會議于吉達召開，共有 39 個國家參與。"
+    },
+    {
+      "id": "mkt:019ffc86-46be-7aab-902c-ae614ff78184",
+      "time": "2026-08-14 03:08:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's defense ministry said 39 countries participated in the third planning meeting of a multinational maritime defense coalition held in Jeddah."
+    },
     {
       "id": "5039988",
       "time": "2026-08-14 03:05:36",
