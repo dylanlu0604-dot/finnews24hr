@@ -1,7 +1,43 @@
 {
-  "updated": "2026-08-14 06:47:38",
-  "count": 15441,
+  "updated": "2026-08-14 06:51:28",
+  "count": 15443,
   "items": [
+    {
+      "id": "mkt:019ffd4f-97aa-7aab-902f-30e68e649238",
+      "time": "2026-08-14 06:47:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered."
+    },
+    {
+      "id": "mkt:019ffd4f-9069-7aab-902f-2bf113dbfc37",
+      "time": "2026-08-14 06:47:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Energy Secretary wright said Iran is trying to hold the global economy hostage."
+    },
+    {
+      "id": "mkt:019ffd4f-80c9-7aab-902f-222afab03f07",
+      "time": "2026-08-14 06:47:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait."
+    },
     {
       "id": "5040103",
       "time": "2026-08-14 06:47:02",
@@ -141312,14 +141348,6 @@
         "公司"
       ],
       "text": "【扎堆進入股東榜，公募機構緊盯業績兌現度】截至8月6日，全市場已有超百家A股上市公司披露2026年半年報。資料顯示，澤璟製藥、仕佳光子、鼎通科技、科大智慧等上市公司的前十大股東中，公募基金產品佔據半數及以上席位。有基金人士分析，大幅買入直至成為上市公司前十大股東，往往是基金經理特別看好這一投資機會的表現。是什麼因素使得各家公募機構旗下產品不約而同地進場？結合半年報業績來看，這些公司普遍呈現出淨利潤高增長或進入盈利拐點的特點。這恰恰與近年來公募行業看重的成長投資風格審美不謀而合。（中證報）"
-    },
-    {
-      "id": "5029623",
-      "time": "2026-08-07 06:48:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構研判中報視窗開啟業績驅動新週期】日前多方調研獲悉，多家一線機構已形成明確共識：A股本輪調整本質是交易擁擠度的釋放與估值階段性收縮，AI產業長期成長邏輯並未發生實質性逆轉，政策底訊號顯現之下，市場底仍需籌碼、情緒與增量資金多重條件共振確認，而這一過程往往需事後回望方能定論。機構人士認為，隨著中報業績進入集中披露視窗，行情正逐步由預期驅動轉向業績兌現驅動，科技與漲價方向景氣佔優，但板塊內部分化將加劇——具備真實業績與技術壁壘的龍頭有望在估值修復中率先受益，而單純依賴概念與漲價彈性的標的將面臨定價重估。（中證報）"
     }
   ]
 }

@@ -1,7 +1,43 @@
 {
   "date": "2026-08-14",
-  "count": 414,
+  "count": 417,
   "items": [
+    {
+      "id": "mkt:019ffd4f-97aa-7aab-902f-30e68e649238",
+      "time": "2026-08-14 06:47:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said the US is communicating and coordinating with every vessel; oil shipments through the Strait of Hormuz will continue to increase, and US escort and transport capacity is being bolstered."
+    },
+    {
+      "id": "mkt:019ffd4f-9069-7aab-902f-2bf113dbfc37",
+      "time": "2026-08-14 06:47:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US Energy Secretary wright said Iran is trying to hold the global economy hostage."
+    },
+    {
+      "id": "mkt:019ffd4f-80c9-7aab-902f-222afab03f07",
+      "time": "2026-08-14 06:47:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary wright said 8–9 mln barrels per day of oil transit the Strait of Hormuz, and the U.S. tracks the daily number of vessels transiting the strait."
+    },
     {
       "id": "5040103",
       "time": "2026-08-14 06:47:02",
