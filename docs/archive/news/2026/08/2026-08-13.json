@@ -1,7 +1,177 @@
 {
   "date": "2026-08-13",
-  "count": 1365,
+  "count": 1385,
   "items": [
+    {
+      "id": "5038874",
+      "time": "2026-08-13 15:55:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海港灣：控股股東提前終止減持計劃 累計減持1.42%股份】上海港灣公告稱，控股股東海南隆灣原計劃於2026年5月27日至8月26日減持不超729萬股（佔比不超3%）。截至7月3日，海南隆灣透過集中競價和大宗交易合計減持345.3萬股，佔總股本1.4209%，減持總金額1.34億元。8月13日，海南隆灣決定提前終止減持計劃，剩餘383.7萬股不再減持，目前其持股比例降至67.7101%。"
+    },
+    {
+      "id": "5038873",
+      "time": "2026-08-13 15:55:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴克萊策略師：歐洲企業大規模股票回購仍有延續空間】巴克萊策略師表示，歐洲企業股票回購規模高於往常水平。大量已公佈的回購計劃尚未落地，這將成為該地區股市的重要利好支撐。由埃馬紐埃爾・馬孔加牽頭的研究團隊稱，7 月回購執行規模遠高於季節性均值，金融、工業以及能源板塊回購活動最為活躍。策略師預計，夏季過後回購資金將形成正向流入。按照過往規律，財報靜默期結束後，企業回購需求重啟，往往會提振歐洲股市表現。策略師指出，已公佈的回購計劃中仍有超 60% 尚未執行；同時二季度企業業績向好，市場對全年每股收益增長預期樂觀，企業手握充裕的可動用資金。"
+    },
+    {
+      "id": "mkt:019ffa1e-664e-7aab-901d-eac769e57406",
+      "time": "2026-08-13 15:55:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank sets mid-term inflation target at 9% for end-2028."
+    },
+    {
+      "id": "mkt:019ffa1e-37d1-7aab-901d-e53544f13dcb",
+      "time": "2026-08-13 15:55:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey (CBRT) sets end-2027 medium-term inflation target at 15%, unchanged from prior guidance."
+    },
+    {
+      "id": "mkt:019ffa1d-eec7-7aab-901d-dd85912901dc",
+      "time": "2026-08-13 15:54:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank sets mid-term inflation target at 28% for end-2026, up from 24% previously."
+    },
+    {
+      "id": "5038872",
+      "time": "2026-08-13 15:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森泰股份：控股股東方面增持計劃實施過半，累計增持47.02萬股】森泰股份公告，公司控股股東及實際控制人唐道遠、張勇、王斌此前披露增持計劃，擬增持金額合計600萬元至1200萬元。截至2026年8月13日，增持計劃實施期限過半，三人透過集中競價交易方式累計增持公司股份47.02萬股，佔總股本的0.40%，增持金額為738.98萬元。"
+    },
+    {
+      "id": "mkt:019ffa1d-a658-7aab-901d-d1eac697cd10",
+      "time": "2026-08-13 15:54:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Central Bank of the Republic of Turkey (CBRT) projects the 2027 oil price at $76.4 per barrel, up from $75.4 in its prior forecast."
+    },
+    {
+      "id": "mkt:019ffa1d-5ea0-7aab-901d-cecaf25eca89",
+      "time": "2026-08-13 15:54:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank says its 2026 oil-price forecast is $87.8, down from $89.4."
+    },
+    {
+      "id": "mkt:019ffa1c-ff74-7aab-901d-c6cca36b7744",
+      "time": "2026-08-13 15:53:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey (CBRT) projects food price inflation at 19% in 2027, unchanged from its prior forecast."
+    },
+    {
+      "id": "5038871",
+      "time": "2026-08-13 15:53:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：2027年油價假設為每桶76.4美元，前次報告為75.4美元。"
+    },
+    {
+      "id": "mkt:019ffa1c-c3d2-7aab-901d-bc39c197a768",
+      "time": "2026-08-13 15:53:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank raised its 2026 food-price inf forecast to 28.5% from 26.3%."
+    },
+    {
+      "id": "5038870",
+      "time": "2026-08-13 15:53:32",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行：2026年油價假設為每桶87.8美元，前次報告為89.4美元。"
+    },
+    {
+      "id": "te:markets:575005",
+      "time": "2026-08-13 15:53:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Halts 6-Day Rally — Brent crude fell below $88 a barrel on Thursday, ending a six-session rally as investors shifted their focus toward weakening demand prospects and continued disruption around the Strait of Hormuz. The International Energy Agency lowered its global oil demand outlook, warning that the prolonged Middle East conflict and higher prices are increasingly weighing on consumption. The agency estimates the global oil market could face a supply shortfall of 1.8 million barrels a day this quarter, more than twice its previous forecast, while supply remained 6.3 million barrels a day below year-earlier levels in July. Meanwhile, US crude inventories surged by 17.4 million barrels last week, their largest weekly increase since January 2023. Diplomatic efforts between the US and Iran to end the conflict and reopen Hormuz have made little progress, with attacks on shipping continuing and rhetoric intensifying. Despite Thursday’s decline, Brent remained nearly 5% higher for the week."
+    },
+    {
+      "id": "5038869",
+      "time": "2026-08-13 15:53:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渤海汽車：發行股份購買資產交易標的資產過戶完成】渤海汽車公告稱，公司擬透過發行股份及支付現金方式購買交易對方持有的北汽模塑51%股權、廊坊安道拓51%股權、廊坊萊尼線束50%股權並募集配套資金。目前，標的資產交割過戶手續已辦理完畢。後續，公司尚需支付交易對價、完成配套募集資金、辦理新增股份登記上市及相關變更登記/備案等手續，各方需確定過渡期損益歸屬並繼續履行相關協議、承諾及資訊披露義務。獨立財務顧問和法律顧問認為，交易實施過程合規，後續事項辦理不存在實質性法律障礙。"
+    },
+    {
+      "id": "mkt:019ffa1c-5a7e-7aab-901d-b736bcb0439d",
+      "time": "2026-08-13 15:53:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran vows prolonged campaign to wear down US】IRGC senior adviser Mohammad Reza Naqdi told PBS on Aug. 11 that Washington’s two main war objectives — toppling Iran’s leadership and fracturing the country — “have failed” and “victory is on Iran’s side.” He said the US appears confused, repeatedly announcing new aims and turning the campaign into a “war without strategy.” Naqdi added that in more than five months of combat against the US, Iran has gained experience and found US forces weaker than expected. He said Iran must establish deterrence and that one method is to “prolong the war” to exhaust the US so future attackers will rethink the costs."
+    },
+    {
+      "id": "5038868",
+      "time": "2026-08-13 15:52:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天和磁材：部分募投專案結項 節餘1.45億用於新專案及補流】天和磁材公告稱，截至2026年7月31日，“高效能釹鐵硼產業化專案”及“高效能稀土永磁材料生產線智慧化改造專案”已完成建設，達到預定可使用狀態。兩個專案節餘募集資金合計1.45億元（含現金管理收益及利息收入扣除手續費等後的淨額），公司擬將其中1.20億元用於投資建設新專案“12000噸磁材深加工及磁性材料元件專案”，2479.64萬元用於永久補充流動資金。新專案計劃投資2.50億元，建設週期預計36個月。"
+    },
+    {
+      "id": "5038867",
+      "time": "2026-08-13 15:52:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【青銀高速寧夏鹽池段發生一起車禍 致2人死亡3人重傷】記者從有關部門獲悉，8月13日下午，青銀高速寧夏鹽池段發生一起車禍，一輛大巴車（核載39人、實載35人）與半掛車發生追尾事故。初步瞭解到，車禍造成2人死亡、3人重傷。目前，相關救援工作正在進行中，事故原因在同步調查中。（央視新聞）"
+    },
+    {
+      "id": "5038866",
+      "time": "2026-08-13 15:52:02",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【Flipkart創始人旗下Navi聘請投行推進3.15億美元IPO】Navi有限公司正準備啟動印度首次公開募股流程，計劃募資最高300億印度盧比。該公司已聘請JM金融、高盛集團等機構擔任IPO顧問，目標估值最高20億美元。Navi計劃在12月前提交招股說明書；本次IPO預計僅發行新股，現有股東不進行老股轉讓。"
+    },
+    {
+      "id": "te:markets:575004",
+      "time": "2026-08-13 15:52:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Hover Near Flat — The CAC 40 hovered near the flatline at around 8,687 on Thursday, following the previous session's decline as investors remained cautious amid conflicting signals over efforts to secure a lasting ceasefire between the US and Iran. While reports indicated that Washington and Tehran had agreed to extend a 60-day ceasefire brokered by Pakistan, tensions remained elevated after Iran threatened to prolong the conflict until the end of President Donald Trump's term and again rejected his claims that the US has \"total control\" over the Strait of Hormuz. Offsetting some geopolitical concerns, softer-than-expected US inflation data reinforced expectations that the Federal Reserve will keep interest rates unchanged at its September meeting. Among the index heavyweights, gains were led by LVMH (0.5%), L'Oréal (0.4%), TotalEnergies (0.5%), and Hermès (0.9%). In contrast, STMicroelectronics (-1%), Dassault Systèmes (-0.9%), and Air Liquide (-0.4%) were among the notable decliners."
+    },
     {
       "id": "5038865",
       "time": "2026-08-13 15:51:29",
@@ -93,6 +263,15 @@
         "Importance 0"
       ],
       "text": "Poland GDP Rises 3.8% in Q2, Matching Expectations — Poland’s economy expanded by 3.8% year-on-year in the second quarter of 2026, in line with market forecasts, according to preliminary estimates. This followed a 3.5% growth in the first quarter. On a seasonally adjusted quarterly basis, GDP rose 0.9%, following a 0.6% increase in the previous period but falling short of market expectations for a 1.0% growth."
+    },
+    {
+      "id": "em:qqyh_rbyh:202608133840431078",
+      "time": "2026-08-13 15:49:12",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【日本政府據悉支援央行加快升息步伐】日本政府據悉支援央行加快升息步伐，市場預計9月緊縮政策的機率為74%。"
     },
     {
       "id": "5038858",
