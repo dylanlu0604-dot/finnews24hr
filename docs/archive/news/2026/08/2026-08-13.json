@@ -1,7 +1,106 @@
 {
   "date": "2026-08-13",
-  "count": 598,
+  "count": 608,
   "items": [
+    {
+      "id": "5038415",
+      "time": "2026-08-13 09:40:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5038414",
+      "time": "2026-08-13 09:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【石油天然氣板塊繼續回撥 廣聚能源跌超3%】石油天然氣板塊繼續回撥，廣聚能源跌超3%，ST洲際、藍焰控股、泰山石油等跟跌。"
+    },
+    {
+      "id": "5038413",
+      "time": "2026-08-13 09:39:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣告營銷板塊直線拉昇，省廣集團漲停】廣告營銷板塊直線拉昇，省廣集團漲停，引力傳媒、天龍集團、遙望科技、電廣傳媒、藍色游標等紛紛走高。"
+    },
+    {
+      "id": "5038412",
+      "time": "2026-08-13 09:39:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【影視院線板塊短線拉昇，北京文化漲停】影視院線板塊短線拉昇，北京文化漲停，中廣天擇、文投控股、百納千成、華策影視、捷成股份等跟漲。"
+    },
+    {
+      "id": "mkt:019ff8c6-0309-7aab-9016-5c8a18ec0e1b",
+      "time": "2026-08-13 09:39:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share green power stocks traded volatile then strengthened in early trade; Jin Kai New Energy and Tongli Tianqi both hit the limit-up, while Jingke Technology, Huadian Energy, HENAN YUNENG HOLDINGS and Yuedian Power A also advanced."
+    },
+    {
+      "id": "5038411",
+      "time": "2026-08-13 09:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【綠電概念震盪拉昇 金開新能、同力天啟雙雙漲停】綠電概念震盪走強，金開新能、同力天啟雙雙漲停，晶科科技、華電能源、豫能控股、粵電力A跟漲。"
+    },
+    {
+      "id": "5038410",
+      "time": "2026-08-13 09:38:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "資料中心電源概念開盤拉昇，麥格米特漲停，歐陸通漲超10%，中恆電氣、科士達、愛科賽博、科泰電源漲幅居前。"
+    },
+    {
+      "id": "mkt:019ff8c4-38f7-7aab-9016-50d3a99562aa",
+      "time": "2026-08-13 09:37:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share electronic-chemicals sector spiked intraday; Haixing hit the daily price limit, while Fangbang, Tiantong, Ruilian New Materials, Sanfu Xinke and Zhongchuan Teqi also gained."
+    },
+    {
+      "id": "te:markets:574867",
+      "time": "2026-08-13 09:37:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Near 3-Week High — The benchmark KOSPI rose nearly 4% to around 6,830 on Thursday, extending gains to its highest level in almost three weeks, as major chipmakers rallied following an overnight rise in US technology stocks. Samsung Electronics climbed more than 4%, and SK hynix surged over 7%, as renewed optimism over AI-related demand lifted sentiment across the semiconductor sector. Strong gains were also recorded in SK Square (9.0%), Hyundai Motor (3.4%), LG Energy Solution (2.1%), Hanwha Aerospace (2.9%), HD Hyundai Heavy Industries (1.0%), and Kia Corporation (1.7%). Additionally, a softer-than-expected US inflation reading reduced expectations for a September Federal Reserve rate hike, further supporting risk appetite and technology shares. Separately, the South Korean government’s plan to ease regulations for semiconductor and AI megaprojects, expected to generate KRW 4.2 trillion in investment, provided an additional positive backdrop."
+    },
+    {
+      "id": "5038409",
+      "time": "2026-08-13 09:36:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超節點概念震盪走強 共進股份漲停】早盤超節點概念震盪走強，共進股份漲停，華勤技術、智微智慧、紫光股份、星網銳捷、銳捷網路、浪潮資訊等跟漲。"
+    },
     {
       "id": "5038408",
       "time": "2026-08-13 09:36:27",

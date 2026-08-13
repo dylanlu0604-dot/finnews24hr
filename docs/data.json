@@ -1,7 +1,106 @@
 {
-  "updated": "2026-08-13 09:37:08",
+  "updated": "2026-08-13 09:41:05",
   "count": 14985,
   "items": [
+    {
+      "id": "5038415",
+      "time": "2026-08-13 09:40:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5038414",
+      "time": "2026-08-13 09:39:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【石油天然氣板塊繼續回撥 廣聚能源跌超3%】石油天然氣板塊繼續回撥，廣聚能源跌超3%，ST洲際、藍焰控股、泰山石油等跟跌。"
+    },
+    {
+      "id": "5038413",
+      "time": "2026-08-13 09:39:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣告營銷板塊直線拉昇，省廣集團漲停】廣告營銷板塊直線拉昇，省廣集團漲停，引力傳媒、天龍集團、遙望科技、電廣傳媒、藍色游標等紛紛走高。"
+    },
+    {
+      "id": "5038412",
+      "time": "2026-08-13 09:39:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【影視院線板塊短線拉昇，北京文化漲停】影視院線板塊短線拉昇，北京文化漲停，中廣天擇、文投控股、百納千成、華策影視、捷成股份等跟漲。"
+    },
+    {
+      "id": "mkt:019ff8c6-0309-7aab-9016-5c8a18ec0e1b",
+      "time": "2026-08-13 09:39:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share green power stocks traded volatile then strengthened in early trade; Jin Kai New Energy and Tongli Tianqi both hit the limit-up, while Jingke Technology, Huadian Energy, HENAN YUNENG HOLDINGS and Yuedian Power A also advanced."
+    },
+    {
+      "id": "5038411",
+      "time": "2026-08-13 09:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【綠電概念震盪拉昇 金開新能、同力天啟雙雙漲停】綠電概念震盪走強，金開新能、同力天啟雙雙漲停，晶科科技、華電能源、豫能控股、粵電力A跟漲。"
+    },
+    {
+      "id": "5038410",
+      "time": "2026-08-13 09:38:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "資料中心電源概念開盤拉昇，麥格米特漲停，歐陸通漲超10%，中恆電氣、科士達、愛科賽博、科泰電源漲幅居前。"
+    },
+    {
+      "id": "mkt:019ff8c4-38f7-7aab-9016-50d3a99562aa",
+      "time": "2026-08-13 09:37:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share electronic-chemicals sector spiked intraday; Haixing hit the daily price limit, while Fangbang, Tiantong, Ruilian New Materials, Sanfu Xinke and Zhongchuan Teqi also gained."
+    },
+    {
+      "id": "te:markets:574867",
+      "time": "2026-08-13 09:37:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Near 3-Week High — The benchmark KOSPI rose nearly 4% to around 6,830 on Thursday, extending gains to its highest level in almost three weeks, as major chipmakers rallied following an overnight rise in US technology stocks. Samsung Electronics climbed more than 4%, and SK hynix surged over 7%, as renewed optimism over AI-related demand lifted sentiment across the semiconductor sector. Strong gains were also recorded in SK Square (9.0%), Hyundai Motor (3.4%), LG Energy Solution (2.1%), Hanwha Aerospace (2.9%), HD Hyundai Heavy Industries (1.0%), and Kia Corporation (1.7%). Additionally, a softer-than-expected US inflation reading reduced expectations for a September Federal Reserve rate hike, further supporting risk appetite and technology shares. Separately, the South Korean government’s plan to ease regulations for semiconductor and AI megaprojects, expected to generate KRW 4.2 trillion in investment, provided an additional positive backdrop."
+    },
+    {
+      "id": "5038409",
+      "time": "2026-08-13 09:36:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超節點概念震盪走強 共進股份漲停】早盤超節點概念震盪走強，共進股份漲停，華勤技術、智微智慧、紫光股份、星網銳捷、銳捷網路、浪潮資訊等跟漲。"
+    },
     {
       "id": "5038408",
       "time": "2026-08-13 09:36:27",
@@ -136512,102 +136611,6 @@
         "DXY"
       ],
       "text": "Japan 20-year government bond yield fell 3.5 bps to 3.655%."
-    },
-    {
-      "id": "5027791",
-      "time": "2026-08-06 09:40:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【數字貨幣概念表現活躍 飛天誠信20CM漲停】數字貨幣概念表現活躍，飛天誠信20CM漲停，恆寶科技漲停，楚天龍、翠微股份、四方精創、拉卡拉跟漲。"
-    },
-    {
-      "id": "5027790",
-      "time": "2026-08-06 09:40:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【泡泡瑪特盤初一度跌超3%】8月6日，港股泡泡瑪特盤初一度跌超3%。截至發稿，報155.5港元/股，跌3.66%，總市值2068億港元。訊息面上，8月5日，港交所披露一則權益變動資訊：段永平透過H&H International Investment持有的泡泡瑪特多頭倉位，於7月30日從7.65%降至5.55%，下降2.1個百分點。檔案顯示，此次多頭倉位下降的原因是：其交付了根據股本衍生工具須交付的股份或款項。對此，段永平本人在社交平臺回應稱，此次變動“就是putexpired，部分被call走了”。泡泡瑪特相關人士則向媒體表示，段永平此次持股比例下跌和他此前賣Put、賣Call相關價格設定強相關，主要由於價格區間設定比較窄，屬於短期交易行為，並非大眾理解層面的主動減持。"
-    },
-    {
-      "id": "mkt:019fd4ba-720f-7aab-8f98-228e31237cbb",
-      "time": "2026-08-06 09:40:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share software development sector rallied intraday; Fanwei Network hit the daily price limit, while AsiaInfo Security, Topsec, Ren Zixing, Sifang Jingchuang and Yongxin Zhicheng also advanced."
-    },
-    {
-      "id": "5027789",
-      "time": "2026-08-06 09:40:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "智利財長：智利將於9月1日公佈資本市場改革方案。"
-    },
-    {
-      "id": "te:economy:573179",
-      "time": "2026-08-06 09:40:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "Australia Exports Rebound in June — Australia’s goods exports grew 9.6% month-on-month to AUD 47.70 billion in June, rebounding from an upwardly revised 7.6% decline in May, primarily driven by non-monetary gold."
-    },
-    {
-      "id": "5027788",
-      "time": "2026-08-06 09:39:38",
-      "tags": [
-        "公司",
-        "原創"
-      ],
-      "text": "【斷臂求生後重返投資 “AI股神”的對沖基金再出手押注4億美元】據知情人士稱，在“AI股神”Leopold Aschenbrenner麾下對沖基金Situational Awareness瀕臨崩潰僅僅幾天之後，他已重返投資市場，對一家非上市公司押注4億美元。這筆投資於週二完成，從中可以初步看出Aschenbrenner打算如何重整旗鼓。上週，由於華爾街貸款機構紛紛發出追加保證金通知，他的對沖基金幾近崩潰邊緣。據一位知情人士透露，在這筆投資之前，上個月Situational Awareness向同一家公司投資了1億美元。目前尚不清楚這筆額外資金流向Situational Awareness現有私募股權投資組合中的哪家公司。"
-    },
-    {
-      "id": "mkt:019fd4b9-563c-7aab-8f98-1dbee9265991",
-      "time": "2026-08-06 09:39:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Tanker reports explosions in Strait of Hormuz】UK Maritime Trade Operations (UKMTO) said on the 6th that a tanker transiting the Strait of Hormuz reported hearing two explosions; the vessel and crew are reported safe. UKMTO located the incident 9 nm southeast of Kumzar, Oman. The report was received at 19:18 UTC on the 5th (03:18 Beijing time on the 6th). No further details were provided."
-    },
-    {
-      "id": "5027787",
-      "time": "2026-08-06 09:37:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【金飾克價漲至1299元，單日漲超60元】8月6日，現貨黃金一度站上4300美元/盎司關口，為今年6月18日來首次。國內黃金飾品價格對比顯示，多家黃金珠寶品牌當日公佈的境內足金首飾價格較昨日有所上調，老鳳祥報價1293元/克，單日漲56元；老廟黃金報價1299元/克，單日漲63元；周生生報價1295元/克，單日漲58元。"
-    },
-    {
-      "id": "5027786",
-      "time": "2026-08-06 09:37:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【無人機概念盤初走強 大立科技、興民智通2連板】早盤無人機概念震盪走強，大立科技、興民智通走出2連板，譜尼測試、優機股份漲超10%，雷科防務、航天彩虹、久之洋、縱橫股份等跟漲。"
-    },
-    {
-      "id": "5027785",
-      "time": "2026-08-06 09:37:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【霍爾木茲海峽一艘油輪報告聽到爆炸聲】英國海上貿易行動辦公室6日釋出通報說，一艘在霍爾木茲海峽航行的油輪報告聽到兩次爆炸聲，目前船隻和船員均安全。 通報顯示，事發地點位於阿曼庫姆扎爾東南9海里處。英國海上貿易行動辦公室於協調世界時5日19時18分（北京時間6日3時18分）收到這艘油輪船長的報告。通報沒有提供更多細節。"
     }
   ]
 }
