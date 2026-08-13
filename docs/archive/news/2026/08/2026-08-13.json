@@ -1,7 +1,457 @@
 {
   "date": "2026-08-13",
-  "count": 736,
+  "count": 788,
   "items": [
+    {
+      "id": "5038532",
+      "time": "2026-08-13 11:22:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【安徽啟用茨淮新河分洩洪水 降低潁河水位】受潁河上游河南省持續來水影響，安徽省潁河水位快速上漲，預計阜陽閘8月15日洪峰水位31.4米，超警戒水位0.9米。安徽省水利廳決定於8月13日11時啟用茨淮新河分洩潁河洪水，全力降低潁河水位，最大限度減輕流域防洪壓力。"
+    },
+    {
+      "id": "mkt:019ff924-5882-7aab-9017-c8ac4bda1f25",
+      "time": "2026-08-13 11:22:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Putin inspects Iturup in disputed Southern Kurils】TASS reported Aug 13 that President Putin inspected Iturup in the Southern Kuril Islands (Japan: Northern Territories). Russia and Japan have not signed a peace treaty; sovereignty over the Southern Kurils remains a primary obstacle."
+    },
+    {
+      "id": "5038531",
+      "time": "2026-08-13 11:21:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【臻寶科技落子光谷 將投建半導體零部件研發生產基地專案】據“中國光谷”訊息，日前，國內半導體零部件領域上市企業臻寶科技落子光谷，將投資建設半導體零部件研發生產基地專案。專案總投資5.2億元，建設週期為三年。基地核心佈局碳化矽零部件、高純矽精密零部件、氮化鋁陶瓷材料及配套零部件三大品類，屬於晶片刻蝕、薄膜沉積等前道製造環節剛需耗材。基地投產後，可快速擴充公司現有產能，就近服務華中區域晶圓製造企業，縮短交付週期。"
+    },
+    {
+      "id": "5038530",
+      "time": "2026-08-13 11:20:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊下挫 曉程科技、招金黃金跌超5%】貴金屬板塊持續下挫，曉程科技、招金黃金跌超5%，湖南白銀、盛達資源、赤峰黃金等跟跌。"
+    },
+    {
+      "id": "mkt:019ff921-9d91-7aab-9017-c55a238ec4c1",
+      "time": "2026-08-13 11:19:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fudan team fabricates single-CuO2-plane high-Tc superconductor】On Aug. 12 Beijing time, Professor Zhang Yuanbo's group in Fudan University's physics department and collaborators published \"Superconducting 2D cuprate with a single CuO2 plane\" in Nature, reporting they thinned a cuprate high-temperature superconductor to a single CuO2 superconducting plane. The work confirms a two-dimensional origin for high-Tc superconductivity and reports an anomalous metallic state and quantum criticality at the superconductor–insulator transition, establishing a new quantum experimental platform to probe high-Tc mechanisms."
+    },
+    {
+      "id": "5038529",
+      "time": "2026-08-13 11:18:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【普京視察俄日爭議島嶼】據俄羅斯塔斯社今天（8月13日）報道，俄羅斯總統普京視察了南千島群島（日本稱“北方四島”）中的伊圖魯普島。俄羅斯與日本至今尚未締結和平條約，主要障礙之一就在於南千島群島的歸屬問題。（CCTV國際時訊）"
+    },
+    {
+      "id": "5038528",
+      "time": "2026-08-13 11:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【復旦團隊首次製備單銅氧層高溫超導體】據復旦大學訊息，高溫超導電性是未來高效電力傳輸和高效能電子器件發展的重要方向，但其微觀機理始終是凝聚態物理的“皇冠之謎”。北京時間8月12日晚間，復旦大學物理學系張遠波教授團隊與合作者以“Superconducting 2D cuprate with a single CuO₂ plane”為題在《自然》（Nature）發表研究成果，成功將銅基高溫超導體削薄至僅含一個超導平面——即單個CuO₂面。這一“極限操作”不僅證實了高溫超導的二維本質，更在超導-絕緣體轉變的臨界點發現了奇異的“反常金屬態”和量子臨界現象，為研究高溫超導機理提供了全新的量子實驗平臺。"
+    },
+    {
+      "id": "mkt:019ff91d-f3eb-7aab-9017-becf862e4872",
+      "time": "2026-08-13 11:15:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's prime minister said Baghdad will not tolerate any party violating Iraqi airspace or taking actions that threaten national security."
+    },
+    {
+      "id": "mkt:019ff91c-b480-7aab-9017-b3cd1ef87953",
+      "time": "2026-08-13 11:13:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea raises household-debt growth cap, pledges 230,000 new homes in Seoul metro】South Korea has raised the cap on household-debt growth and pledged to supply more than 230,000 homes in the Seoul metropolitan area, including 100,000 units in newly designated zones. The addition sits atop an existing target of 1.35 mln housing starts in the Seoul metro for 2026-2030 and further intensifies supply-side measures first announced in September, after a prolonged construction-sector slowdown tightened new-home supply, contributed to rising prices and worsened affordability for younger households."
+    },
+    {
+      "id": "5038527",
+      "time": "2026-08-13 11:13:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理表示，該國不會容忍任何違反其領空的行徑或來自任何一方的對國家安全的威脅。"
+    },
+    {
+      "id": "5038526",
+      "time": "2026-08-13 11:12:47",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國碧水保衛戰將努力推動解決群眾身邊“煩心事”】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”期間，我國碧水保衛戰將主動靠前、多措並舉，努力推動解決群眾身邊“煩心事”。會上介紹，近年來，我國大江大河水質持續向好，長江、黃河干流連續多年保持Ⅱ類水質，成效明顯，但水生態環境保護依然存在薄弱環節：有的地方“幹流好、支流差”，有的地方“平時好、汛期差”，還有的地方，老百姓“房前屋後”“田邊道旁”的水汙染問題依然突出。根據國務院辦公廳轉發的《群眾身邊水體保護治理行動方案》，今後將更加聚焦群眾身邊水體，解決群眾“家門口”的突出水生態環境問題。首先，擴面提質治理重點。其次，加力推進控源截汙。再次，持續深化監測監管。特別重要的是，主動回應群眾關切。一方面，透過全國生態環境投訴舉報平臺接受舉報，2025年共受理並辦結水汙染投訴1.4萬餘件。另一方面，主動運用衛星遙感、大資料篩查等手段廣泛收集問題線索，建立排查、移交、核查、整改、銷號的閉環工作機制。生態環境部將繼續堅持環保為民，深入推進群眾身邊水體治理，力爭到2030年，基本實現“三無”，即無異色、無異味、無異物，讓老百姓更多感受到水環境的治理成效。"
+    },
+    {
+      "id": "5038525",
+      "time": "2026-08-13 11:11:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時放量2107億元。"
+    },
+    {
+      "id": "mkt:019ff91a-43bf-7aab-9017-aa185ce52965",
+      "time": "2026-08-13 11:11:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia Stock Exchange CEO said MSCI's rebalancing is a routine measure and the bourse will continue to engage with MSCI."
+    },
+    {
+      "id": "5038524",
+      "time": "2026-08-13 11:10:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼證券交易所執行長表示：明晟（MSCI）指數調整是一項週期性措施，印尼證交所將繼續與明晟保持溝通。"
+    },
+    {
+      "id": "te:economy:574889",
+      "time": "2026-08-13 11:10:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "New Zealand 2-Year Inflation Outlook Falls to 2.34% — The Reserve Bank of New Zealand’s (RBNZ) quarterly survey of expectations showed that business managers expect inflation to slow to 2.34% over the next two years in Q3 2026, down from 2.53% in the previous period, marking the lowest reading since Q4 2025. Meanwhile, one-year inflation expectations also moderated to 2.60%, down from 3.41% in Q1. Conversely, longer-term expectations accelerated, with five-year inflation forecasts rising to 2.31% from 2.22%, while ten-year expectations edged up to 2.20% from 2.19%. In terms of monetary policy, respondents expect the Official Cash Rate (OCR) to rise to 2.73% from 2.34% by the end of the September quarter and further to 3.21% over the next year. The survey was conducted after the RBNZ’s monetary policy decision in May 2026."
+    },
+    {
+      "id": "5038523",
+      "time": "2026-08-13 11:10:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼計劃於 8 月 13 日開展政府債券債務置換操作。"
+    },
+    {
+      "id": "mkt:019ff918-de93-7aab-9017-a4a0c082586c",
+      "time": "2026-08-13 11:09:44",
+      "tags": [
+        "MKT News",
+        "CSCO.O",
+        "Impact bullish"
+      ],
+      "text": "Melius Research raises Cisco (CSCO.O) PT to $160 from $145."
+    },
+    {
+      "id": "5038522",
+      "time": "2026-08-13 11:08:16",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【一年來我國已累計清理處置6000多萬噸固體廢物】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，自去年6月啟動全國非法傾倒處置固體廢物專項整治行動以來，我國已累計排查發現問題5.6萬多個，完成整改4.5萬多個，清理處置各類固體廢物6000多萬噸，一大批存量汙染問題得到有效整治。"
+    },
+    {
+      "id": "5038521",
+      "time": "2026-08-13 11:06:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達40億港元。"
+    },
+    {
+      "id": "mkt:019ff915-111a-7aab-9017-9800464a9924",
+      "time": "2026-08-13 11:05:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Industry group expects fifth domestic refined fuel price cut this year】China’s fuel-price adjustment window opens at 00:00 on Aug. 15. Industry consultancy Longzhong Information says international crude weakened over the cycle, prompting a domestic refined-fuel cut of about 0.15 yuan/liter, expected to be the fifth reduction this year. Filling a 70‑liter tank would save roughly 11 yuan."
+    },
+    {
+      "id": "5038520",
+      "time": "2026-08-13 11:03:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構預測成品油價格將迎年內第五次下調】8月14日24時（本週六零點），成品油調價視窗將再度開啟。記者從行業機構隆眾資訊獲悉，因週期內國際原油價格震盪下行，屆時國內成品油下調幅度在0.15元/升左右，預計將迎年內第五次下調。以70升的油箱來計算，私家車主加滿一箱油將少花11元左右。（第一財經）"
+    },
+    {
+      "id": "5038519",
+      "time": "2026-08-13 11:03:52",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【四川核能產業將迎建設運“雙高峰”】日前，國務院常務會議決定核准浙江金七門核電二期等4個核電專案共8臺機組。這是繼去年核准5個核電專案後，我國核電行業迎來的又一個大動作。華龍一號具有鮮明的“四川基因”，四川在研發設計、裝備製造等方面均有深度參與。 先看研發設計端，華龍一號的“心臟”——反應堆及一回路系統，由位於成都的中國核動力研究設計院研發設計。再看裝備製造端，也有不少“四川身影”。在德陽，國機重灌二重灌備已實現核主泵泵殼國產化，為華龍一號披上“超級合金盔甲”，當前正聚焦華龍一號2.0版，瞄準主裝置融合、技術檔案審查、國內標準應用等方向持續攻堅。東方電氣集團所屬企業深度參與核島和常規島主裝置供貨，包括反應堆冷卻劑泵、汽輪發電機組等。德陽九鼎電氣主要承製常規島部分的汽輪機低壓外缸等大型結構件。 在成都都江堰市，四川華都核裝置製造有限公司是國核心反應堆控制棒驅動機構領域龍頭企業，市場佔有率名列前茅。目前，全國多臺華龍一號機組的控制棒驅動機構由該公司承製。 聚焦核燃料環節，位於宜賓的中核建中核燃料元件有限公司負責CF3燃料元件製造，實現“成都研發設計”與“宜賓生產製造”產業鏈聯動。 此外，創新平臺也將持續發揮支撐作用。位於成都的先進核能裝備中試研發平臺，是連線研發與量產的“橋樑”。隨著華龍一號2.0版新技術、新材料、新工藝的應用需求增加，該平臺將繼續為高校、科研院所和企業提供關鍵中試驗證服務，助力四川核能產業持續增長。（四川日報）"
+    },
+    {
+      "id": "5038518",
+      "time": "2026-08-13 11:03:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼基準股指跌幅一度達到1.5%，報6281.572點。"
+    },
+    {
+      "id": "5038517",
+      "time": "2026-08-13 11:02:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小馬智行在佛山新設科技公司 含智慧機器人研發業務】企查查APP顯示，近日，佛山小馬智行科技有限公司成立，法定代表人為莫璐怡，註冊資本為2000萬元，經營範圍包含新材料技術研發；智慧機器人的研發；人工智慧應用軟體開發；人工智慧硬體銷售；智慧無人飛行器銷售等。企查查股權穿透顯示，該公司由小馬智行關聯公司廣州小馬智行科技有限公司全資持股。"
+    },
+    {
+      "id": "5038516",
+      "time": "2026-08-13 11:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二屆世界人形機器人運動會將舉行51個專案1301場比賽】第二屆世界人形機器人運動會將於8月22日在國家速滑館“冰絲帶”開幕，本屆運動會由北京市人民政府、中央廣播電視總檯等聯合主辦。△資料圖與首屆運動會相比，第二屆世界人形機器人運動會的競賽專案、參賽隊伍全面提質擴容，本屆運動會正賽將於8月22日至26日在國家速滑館“冰絲帶”舉行，共5天時間。按照賽程安排，將舉行51個專案共1301場比賽。賽期從首屆運動會的3天6個競賽單元增加到5天9個單元，時間由上午和下午調整為下午和晚上，每個單元各3個小時。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608133840232752",
+      "time": "2026-08-13 11:02:32",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行連續三日7天期逆回購操作量為零 中期流動性投放成關鍵觀察視窗】自8月11日以來，央行已連續三個交易日7天期逆回購操作量為零。從此前地量操作到連續“零投放”，公開市場操作變化引發債券市場關注。多家機構認為，當前尚不能僅憑7天期逆回購連續零投放判斷貨幣政策取向發生變化，後續中期流動性工具投放規模、大行融出情況以及資金價格走勢，將成為觀察央行流動性管理態度的重要視窗。"
+    },
+    {
+      "id": "5038515",
+      "time": "2026-08-13 11:02:18",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【“十五五”時期生態環境監測和執法將大力推進數智化轉型】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會。會上介紹，“十五五”時期，生態環境部圍繞監測、執法，將採取更大力度推進數智化轉型，進一步提升生態環境監管的質效。會上介紹，生態環境部將對大氣、水、海洋等傳統領域，全面實施數智化升級工程，推進國控站點儀器裝置的智慧化更新改造。在大氣方面，將加大人工智慧預測模型應用，升級空氣質量預報平臺，預計到2030年，全國72小時PM2.5超標天預報準確率將提升至80%以上。在水方面，將新建一批自動取樣站，組建海洋無人船編隊，全面革新傳統監測作業模式。在固體廢物、新汙染物等新興領域，將加快新技術、新模式的應用推廣。如利用米級和亞米級衛星開展常態化遙感排查，精準鎖定固廢違法堆放點位。新汙染物監測則依託現有的地表水、海洋等監測站點，同步取樣送樣，以較低成本實現多介質、多指標監測的協同增效。"
+    },
+    {
+      "id": "5038514",
+      "time": "2026-08-13 11:01:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "VINGROUP：票息上限為年利率8%，視市場情況而定。"
+    },
+    {
+      "id": "5038513",
+      "time": "2026-08-13 11:01:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "VINGROUP：預計2026年第三至第四季度發行韓元債券，尚待批准"
+    },
+    {
+      "id": "mkt:019ff911-9321-7aab-9017-9514e07c0677",
+      "time": "2026-08-13 11:01:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ survey: New Zealand Q3 two-year average inflation expectations at 2.34%."
+    },
+    {
+      "id": "5038512",
+      "time": "2026-08-13 11:01:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "越南企業集團Vingroup計劃面向韓國投資者私募發行規模最高達4550億韓元（合3.214億美元）、以韓元計價的3年期普通債券。"
+    },
+    {
+      "id": "mkt:019ff911-519e-7aab-9017-88446a6d4275",
+      "time": "2026-08-13 11:01:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ survey: New Zealand Q3 one-year-ahead average inflation expectations at 2.6%."
+    },
+    {
+      "id": "5038511",
+      "time": "2026-08-13 11:01:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥商業板塊拉昇，藥易購漲超13%】醫藥商業板塊拉昇，藥易購漲超13%，百洋醫藥、人民同泰、華人健康、建發致新、漱玉平民跟漲。"
+    },
+    {
+      "id": "5038510",
+      "time": "2026-08-13 11:00:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭三季度2年通脹預期 2.34%，前值 2.53%。"
+    },
+    {
+      "id": "5038509",
+      "time": "2026-08-13 11:00:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中泰警方聯合偵破一起跨國信用卡盜刷案】近日，公安部與泰國皇家警察總署密切協作，同步對一起專門針對中國公民的重大跨國信用卡盜刷案開展收網行動，摧毀多個犯罪窩點，分別抓獲4名中國籍犯罪嫌疑人和5名泰國籍犯罪嫌疑人，取得重大戰果。2025年，公安部經偵局指導協調上海公安經偵部門研判發現一個針對我國公民實施信用卡盜刷的跨國犯罪團伙，並及時將案件情況和協查請求通報泰國警方，開展國際執法合作。經查，2024年，犯罪嫌疑人計某與肖某共謀，由計某在泰國開設果乾店為幌子，以使用銀聯卡消費打折為誘餌，非法獲取受害人信用卡資訊。隨後，由肖某製作偽卡，招募刷手實施盜刷和銷贓牟利。截至目前，已查明涉案金額達500餘萬元人民幣。今年7月初，公安部派工作組赴泰國，與泰警方開展聯合辦案，精準研判該犯罪團伙組織架構、核心骨幹、作案窩點，全面掌握其作案模式和資金流向。近日，兩國警方同步開展收網，實現案件全環節部署、全要素蒐證、全鏈條打擊。公安部有關負責人表示，此次收網系中泰兩國警方近年來在打擊經濟犯罪領域首次同步開展的聯合執法行動，有效震懾了跨國經濟犯罪活動。下步，雙方將持續鞏固本次聯合行動成果，探索建立打擊跨境經濟犯罪常態化協作機制，不斷深化線索共享、經驗互通、聯合研判、追逃追贓等執法合作。"
+    },
+    {
+      "id": "5038508",
+      "time": "2026-08-13 11:00:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【TrendForce：DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%】TrendForce資料顯示，8月13日記憶體顆粒DDR5 16Gb (2Gx8) 4800/5600現貨均價較上日上漲0.38%，DDR4 16Gb (2Gx8) 3200現貨均價較上日上漲0.42%，DDR4 8Gb (1Gx8) 3200現貨均價較上日持平。"
+    },
+    {
+      "id": "5038507",
+      "time": "2026-08-13 10:58:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【重大資產重組，股價4天翻倍，藍盾光電回應】8月13日，藍盾光電再度“20CM”一字漲停開盤，實現4連板，自8月10日復牌以來，該股4個交易日累計漲幅已達107.31%，實現翻倍。針對股價持續漲停一事，記者以投資者身份致電藍盾光電，接線工作人員回應，相關事項資訊均以已披露公告為準，本次併購重組尚處於前期階段；若無特殊事項，後續暫無停牌安排，股票正常交易，本次交易對上市公司業績的影響目前無法作出答覆。(21世紀經濟報道)"
+    },
+    {
+      "id": "te:economy:574886",
+      "time": "2026-08-13 10:58:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Japan 10Y Yield Hits Over 1-Month High — Japan’s 10-year government bond yield climbed to around 2.86% on Thursday, reaching its highest level in more than a month as markets assessed the likelihood of a Bank of Japan interest rate hike in September after a growing number of policymakers called for a stronger response to mounting inflation pressures. Meanwhile, producer prices in Japan continued to rise at an elevated pace in July, keeping cost pressures on companies high. Producer inflation rose 7.2% in July, easing slightly from 7.3% in June, which was the highest level since March 2023. The BOJ recently attributed the rise in producer prices partly to higher oil costs following the Middle East conflict, along with increases in nonferrous metal and machinery prices amid stronger global demand linked to the artificial intelligence boom. Tight labor market conditions have also continued to drive wage pressures as companies compete to attract and retain workers."
+    },
+    {
+      "id": "te:markets:574885",
+      "time": "2026-08-13 10:58:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Holds at 2-Week Top — Corn futures traded above $4.5 per bushel, staying near a two-week high as strong demand and tighter supply forecasts supported prices. The USDA raised its 2025/26 US corn export forecast by 75 million bushels to a record 3.4 billion, citing robust demand from Mexico and other major importers. It also lifted the 2026/27 export outlook by 75 million bushels to 3.275 billion, helping drive projected ending stocks down to 1.653 billion bushels from 1.79 billion previously. Meanwhile, the USDA cut its 2026 corn yield estimate to 180.7 bushels per acre from 183, below market expectations of 182.4, reflecting the impact of extreme heat and dryness across parts of the Midwest. However, higher planted acreage pushed projected production up to 16.013 billion bushels, slightly above the previous estimate and reinforcing expectations for the second-largest crop on record. Looking ahead, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects."
+    },
+    {
+      "id": "5038506",
+      "time": "2026-08-13 10:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國電電力廊坊熱電二期4號機組透過168小時試執行】據國電電力公眾號訊息，8月12日23時55分，國電電力廊坊熱電二期2×350MW等容量替代專案4號機組高標準透過168小時滿負荷試執行，各項效能指標達到設計要求，正式轉入商業執行。至此，廊坊熱電二期專案實現全容量投產。"
+    },
+    {
+      "id": "mkt:019ff90b-4980-7aab-9017-8380e3bb7f81",
+      "time": "2026-08-13 10:54:54",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Reserve Bank of Australia assistant governor says policy currently contractionary】Reserve Bank of Australia Assistant Governor Chris Kent said monetary policy is currently contractionary, with three rate rises earlier this year now restraining the economy. Borrowing costs and mortgage repayments have risen, the mature housing market has weakened, and the AUD’s year-to-date appreciation has amplified the effect. Kent said evidence suggests overall demand growth appears to be slowing — a development policymakers want and see as necessary to bring inflation back to target."
+    },
+    {
+      "id": "5038505",
+      "time": "2026-08-13 10:54:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股有色金屬股走低 中國鋁業跌近6%】截至發稿，中國鋁業(02600.HK)跌5.81%，中國有色礦業(01258.HK)跌5.55%，中國洪橋(01378.HK)跌5.16%。"
+    },
+    {
+      "id": "5038504",
+      "time": "2026-08-13 10:54:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒爆料：美軍“林肯”號航母部署中東海上時長“破紀錄”，艦上多名水兵試圖跳海自殺】據美國《星條旗報》、《海軍時報》等媒體當地時間8月12日報道，由於伊朗局勢緊張，美國“亞伯拉罕·林肯”號航母長期被部署在中東地區，並且已連續約250天未靠岸——創下現代航母紀錄，艦上的惡劣條件和士兵的心理壓力已達到臨界點，多名水兵試圖跳海自殺。（環球網）"
+    },
+    {
+      "id": "mkt:019ff90a-5feb-7aab-9017-7b4d3384ea1c",
+      "time": "2026-08-13 10:53:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000895.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share meat-products sector jumped ahead of midday trade; Delis hit the daily limit, while Guangming Meat, Huatong, Guanghong Holdings, Shuanghui Development and Yike Food also rallied."
+    },
+    {
+      "id": "5038503",
+      "time": "2026-08-13 10:53:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【連雲港至儀徵原油管道首段投產運營】8月13日，國家石油天然氣基礎設施重點專案——連雲港至儀徵原油管道工程連淮段投產成功。這是我國“十五五”開局投產的首條千萬噸級原油管道，對最佳化我國中東部地區供能結構、完善油氣“全國一張網”佈局具有重要意義。"
+    },
+    {
+      "id": "5038502",
+      "time": "2026-08-13 10:53:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【肉製品板塊直線拉昇，得利斯漲停】肉製品板塊直線拉昇，得利斯漲停，光明肉業、華統股份、廣弘控股、雙匯發展、益客食品等紛紛走高。"
+    },
+    {
+      "id": "5038501",
+      "time": "2026-08-13 10:53:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日企被判賠償韓國強徵勞工受害者】韓國大法院、也就是最高法院8月12日就“二戰中遭日本強徵勞工受害者遺屬對日本製鐵公司提起的索賠訴訟案”作出終審判決，維持二審判決結果，要求被告賠償8000萬韓元，約合38萬元人民幣。（CCTV國際時訊）"
+    },
+    {
+      "id": "5038500",
+      "time": "2026-08-13 10:50:10",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中央生態環境保護督察已實現三輪全覆蓋】國務院新聞辦公室今天（13日）舉行“開局起步‘十五五’”系列主題新聞釋出會，會上介紹，中央生態環境保護督察已走過10年曆程。十年磨一劍！已經實現三輪對全國31個省（區、市）和新疆生產建設兵團的全覆蓋例行督察。自2015年在河北省試點以來，中央生態環境保護督察已查實一大批突出問題，公開曝光349個典型案例，向被督察物件交辦6475項整改任務，受理轉辦38萬件群眾信訪舉報。在督察強力推動下，過去那種性質惡劣、情節嚴重的問題已經大幅減少，不少區域性、流域性的共性問題得到有效解決，人民群眾生態環境獲得感、幸福感、安全感明顯提升，督察利劍作用得到有效發揮。"
+    },
+    {
+      "id": "5038499",
+      "time": "2026-08-13 10:49:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌3%，現報960.00元。"
+    },
+    {
+      "id": "5038498",
+      "time": "2026-08-13 10:49:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鎵仁半導體完成數億元A輪融資】近日，杭州鎵仁半導體有限公司（簡稱“鎵仁半導體”）宣佈完成數億元A輪融資。本輪由方廣資本、深創投集團聯合領投，遠致星火、中國中車、株洲高科產投、華睿投資、餘杭金控、傳化資本、嘉道資本跟投，原有股東九智資本、毅嶺資本同步超額追加。據鎵仁半導體介紹，本輪資金將重點投向氧化鎵產業化推進：一是支援下游晶片客戶完成器件驗證，協同打通“襯底外延－晶片器件－終端應用”全鏈路，推動終端示範應用；二是擴大6/8英寸襯底及外延量產產能，以更高良率和交付效率滿足客戶持續增長的訂單需求。"
+    },
+    {
+      "id": "5038497",
+      "time": "2026-08-13 10:49:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐亞經濟聯盟對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查】據中國貿易救濟資訊網，8月11日，歐亞經濟委員會內部市場保護司釋出第2026/500/AD38R1號公告，應歐亞經濟聯盟生產商申請，對原產於中國的二氧化鈦啟動反傾銷情勢變遷複審調查。涉案產品為乾量計二氧化鈦大於等於80％的顏料，涉及歐亞經濟聯盟稅號3206110000項下的產品，但不包括用於生產香料及化妝品、藥品和食品的二氧化鈦。案件調查期間，暫停徵收反傾銷稅。公告自發布之日起生效。"
+    },
+    {
+      "id": "5038496",
+      "time": "2026-08-13 10:48:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千問開放平臺上線菜鳥智慧體】8月13日，據千問APP訊息，千問開放平臺近日上線菜鳥智慧體。提出寄件需求就能讓菜鳥智慧體根據物品型別、價格要求、上門時間等，找到合適的寄件方案和快遞公司。"
+    },
     {
       "id": "5038495",
       "time": "2026-08-13 10:45:44",
