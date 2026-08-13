@@ -1,7 +1,70 @@
 {
   "date": "2026-08-14",
-  "count": 198,
+  "count": 205,
   "items": [
+    {
+      "id": "5039988",
+      "time": "2026-08-14 03:05:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7450元，較上一交易日夜盤收盤漲9個基點。"
+    },
+    {
+      "id": "mkt:019ffc83-9d61-7aab-902c-a08d4f3993b3",
+      "time": "2026-08-14 03:05:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "New York Fed trading desk plans roughly $17 bln of reinvestment purchases; will not conduct reserve-management purchases from Aug. 14 through Sept. 14."
+    },
+    {
+      "id": "5039987",
+      "time": "2026-08-14 03:05:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲：交易臺計劃進行約170億美元的再投資購買；8月14日至9月14日期間不進行儲備管理購買。"
+    },
+    {
+      "id": "5039986",
+      "time": "2026-08-14 03:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "法院裁定，特朗普可終止低價商品的關稅豁免。"
+    },
+    {
+      "id": "5039985",
+      "time": "2026-08-14 03:03:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷國家統計局：7月消費者價格指數環比上漲2.1%。阿根廷7月滾動12個月通脹率達33.8%。"
+    },
+    {
+      "id": "mkt:019ffc81-6a79-7aab-902c-9af7da5e9e47",
+      "time": "2026-08-14 03:02:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina's national statistics bureau reported the 12-month rolling inflation rate for July at 33.8%."
+    },
+    {
+      "id": "mkt:019ffc81-62f1-7aab-902c-94ddcd20edea",
+      "time": "2026-08-14 03:02:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Argentina's national statistics bureau said the consumer price index rose 2.1% month-on-month in July."
+    },
     {
       "id": "mkt:019ffc80-5c9f-7aab-902c-8f05a6c7814f",
       "time": "2026-08-14 03:01:38",
