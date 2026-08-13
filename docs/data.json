@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-14 01:13:27",
-  "count": 15308,
+  "updated": "2026-08-14 01:17:21",
+  "count": 15313,
   "items": [
+    {
+      "id": "mkt:019ffc1f-cb4a-7aab-902b-c21ed92ec099",
+      "time": "2026-08-14 01:16:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $450 mln from one counterparty in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5039923",
+      "time": "2026-08-14 01:16:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "紐約聯儲8月13日接受逆回購工具提交的4.5億美元全額投標。"
+    },
+    {
+      "id": "5039922",
+      "time": "2026-08-14 01:15:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "Rumo首席財務官表示，由於公司專注於從現有資產中挖掘價值，2027年的投資規模將低於2026年。"
+    },
+    {
+      "id": "5039921",
+      "time": "2026-08-14 01:15:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：PSP投資公司披露持有10萬股SpaceX股份。"
+    },
     {
       "id": "mkt:019ffc1c-f95c-7aab-902b-b88da310f241",
       "time": "2026-08-14 01:13:04",
@@ -9,6 +44,14 @@
         "MKT News"
       ],
       "text": "Saudi shelling struck villages in Saada province in northern Yemen, Yemen's Saba news agency reported."
+    },
+    {
+      "id": "5039920",
+      "time": "2026-08-14 01:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍著手組建中東多國無人機特遣隊】當地時間8月13日，美軍中央司令部宣佈著手組建史上首支“多域、多國攻擊無人機特遣隊”。該部隊名為“獵鷹打擊特遣隊”，將配備自殺式攻擊無人機，整合空中、海面以及水下無人作戰裝備，由美國及地區夥伴國的軍事保障人員操作。 此次“獵鷹打擊”的啟動，距離美軍中央司令部成立“蠍子打擊特遣隊”——美軍在中東地區首支專門的攻擊無人機中隊——已過去九個月。（CCTV國際時訊）"
     },
     {
       "id": "mkt:019ffc1b-df9f-7aab-902b-b079c9eba874",
