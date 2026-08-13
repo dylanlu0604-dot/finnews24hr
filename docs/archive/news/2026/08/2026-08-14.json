@@ -1,7 +1,35 @@
 {
   "date": "2026-08-14",
-  "count": 52,
+  "count": 55,
   "items": [
+    {
+      "id": "5039892",
+      "time": "2026-08-14 00:43:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【曼哈頓租金創新高，有人豪擲4000美元只為搶看“隱藏房源”】曼哈頓租金7月飆升至紀錄最高水平，可出租房源出現歷史性萎縮，同時又恰逢夏季租房旺季，供需矛盾進一步加劇。根據房地產評估機構Miller Samuel Inc.和The Real Deal的最新資料，7月新籤租約的租金中位數達到5,000美元，同比上漲6.4%。這一漲幅是全美住房成本漲幅的兩倍。美國勞工統計局資料顯示，全美住房價格指標同比上漲3.2%。租金大漲的同時，房源供應急劇減少。上個月，曼哈頓掛牌出租房源同比驟降逾39%，降幅之大在過去十年中也屬罕見。這一趨勢也蔓延至東河另一側。布魯克林7月租金中位數同樣創下歷史新高，達到4,500美元，而掛牌房源數量較去年同期減少27%。"
+    },
+    {
+      "id": "te:markets:575172",
+      "time": "2026-08-14 00:42:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Lumber Extends Decline Amid Tariff Uncertainty — Lumber prices fell below $570 per thousand board feet as tariff uncertainty continued to weigh on demand. Canada’s minister responsible for US trade relations said the country remains committed to negotiations, although reports indicated Canadian officials were dissatisfied with the latest US offer and continued to push for zero tariffs on softwood lumber. Earlier, the US imposed tariffs on several Canadian lumber-related products, while Canadian softwood lumber was excluded. Still, US demand for Canadian lumber fell 1.7% in the first half of the year, while its share of the US market declined slightly. Shipments to markets outside the US also fell 3%. Meanwhile, mortgage rates rose to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July. Construction spending on lumber-intensive single-family housing fell 3.3% year-on-year in June, adding to demand concerns."
+    },
+    {
+      "id": "mkt:019ffc00-ab07-7aab-902b-180fb5c82e2c",
+      "time": "2026-08-14 00:42:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump will visit the Nassau County Police Academy in New York tomorrow."
+    },
     {
       "id": "5039891",
       "time": "2026-08-14 00:39:13",
