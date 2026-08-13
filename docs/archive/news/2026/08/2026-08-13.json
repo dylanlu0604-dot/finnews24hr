@@ -1,7 +1,54 @@
 {
   "date": "2026-08-13",
-  "count": 1060,
+  "count": 1066,
   "items": [
+    {
+      "id": "5038695",
+      "time": "2026-08-13 14:10:42",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【眾信旅遊：截至8月12日 “十一”假期出遊報名人數同比增長70%】截至8月12日，眾信旅遊“十一”假期旅遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%。"
+    },
+    {
+      "id": "5038694",
+      "time": "2026-08-13 14:10:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "【主力資金：小金屬板塊淨流出超135億】截至目前，今日主力資金淨流出87.11億；淨流入高價股、百元股、IDC概念（資料中心）等板塊，其中高價股板塊淨流入118.49億；淨流出小金屬、有色金屬概念、有色金屬等板塊，其中小金屬板塊淨流出135.25億。\n  \n個股方面，大唐發電淨買入15.59億元位居首位，紫光股份、天孚通訊、新易盛主力資金淨流入居前；風華高科淨賣出13.29億元位居首位，紫金礦業、雲南鍺業、洛陽鉬業淨流出額居前。"
+    },
+    {
+      "id": "5038693",
+      "time": "2026-08-13 14:09:56",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【華爾街預言家：美國房市出現崩潰跡象，2008年危機訊號再現】有“華爾街預言家之稱”的前美林證券首席北美經濟學家羅森伯格（David Rosenberg）最新警告稱，從很多方面來看，美國房地產市場都陷入了困境。而最新資料顯示，這種情況與2008年金融危機爆發前夕的情況有著驚人的相似之處。羅森伯格表示，房地產市場的一個預警訊號在住房危機爆發前就會出現。他週三撰文指出，這個訊號就是房屋年銷售率的下降，最近已跌破2008年初的水平，而當時正是房地產崩盤爆發的開端。"
+    },
+    {
+      "id": "mkt:019ff9bc-3e92-7aab-901a-f440ee1df2c6",
+      "time": "2026-08-13 14:08:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Omdia: Middle East smartphone shipments down 19% YoY in Q2 2026; vendors shift to profitability】Omdia reports Q2 2026 smartphone shipments in the Middle East (ex-Turkey) fell 19% YoY to 10.6 mln units, the largest single-quarter drop since Q4 2025. Price increases, supply constraints and geopolitical uncertainty are driving vendors to prioritise product value and profitability over volume growth, while weaker consumer confidence has led retailers to tighten inventory management."
+    },
+    {
+      "id": "te:economy:574916",
+      "time": "2026-08-13 14:07:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "GDP Growth Rate",
+        "Importance 2"
+      ],
+      "text": "UK Economy Expands 0.4% in Q2 — The UK economy expanded by 0.4% quarter-on-quarter in Q2 2026, slowing from 0.6% growth in Q1, in line with market expectations, preliminary estimates showed. Services output rose 0.5%, led by information and communication, which increased 2.7%, and professional, scientific and technical activities, which grew 1.7%. Production showed no growth as a 1.0% rise in manufacturing and a 0.2% increase in mining and quarrying were offset by declines in electricity, gas, steam and air conditioning supply and water, sewerage and waste management. Construction output increased 0.3%, supported by gains in both new work and repair and maintenance. On the expenditure side, growth was mainly driven by a 1.2% increase in gross fixed capital formation and a 0.3% rise in household consumption, while government consumption fell 0.3%. On an annual basis, UK GDP expanded 1.2%, picking up from 0.9% growth in Q1 and exceeding the expected 1.1% rise."
+    },
     {
       "id": "5038692",
       "time": "2026-08-13 14:07:14",
@@ -28,6 +75,15 @@
         "市場"
       ],
       "text": "歐元斯托克50期貨<STXEc1>上漲0.43%，德國DAX期貨<FDXc1>上漲0.28%，富時期貨<FFIc1>上漲0.25%。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608133840339390",
+      "time": "2026-08-13 14:06:22",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "【英國第二季度GDP環比增長0.4% 經濟增速較前季放緩】8月13日，英國國家統計局公佈資料顯示，英國2026年第二季度實際國內生產總值（GDP）環比增長0.4%，較第一季度0.6%的增幅有所放緩。第二季度經濟增長主要由服務業帶動，服務業產出增長0.5%，建築業增長0.3%，工業產出則持平。"
     },
     {
       "id": "mkt:019ff9b9-8fe0-7aab-901a-ef2640ad49a5",
