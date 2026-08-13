@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-13 20:45:01",
-  "count": 15149,
+  "updated": "2026-08-13 20:49:03",
+  "count": 15144,
   "items": [
+    {
+      "id": "5039548",
+      "time": "2026-08-13 20:47:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：美國“誤判”霍爾木茲海峽局勢】伊朗外交部長阿拉格齊13日在社交媒體上發文說，美國因情報失誤在伊朗戰事、霍爾木茲海峽局勢等問題上存在“誤判”。 阿拉格齊寫道，“美國長期以來因情報失誤而誤判”，針對伊朗的戰爭就是“典型案例”，美國如今在霍爾木茲海峽問題上存在“更大的誤判”。他還說，美方應“小心假情報”。 美國總統特朗普12日在社交媒體上發文稱，“美國完全控制著霍爾木茲海峽……伊朗對此束手無策”。特朗普還寫道：“我認為我們會繼續控制它！” 據伊朗法爾斯通訊社13日報道，伊朗民兵武裝“動員窮人組織”負責人侯賽因·塔伊布當天表示，霍爾木茲海峽處於伊朗管理與控制之下。（新華社）"
+    },
+    {
+      "id": "5039547",
+      "time": "2026-08-13 20:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 交易員仍完全定價年內將加息，但目前 9 月加息機率略超三分之一，一週前該機率高於 50%。"
+    },
+    {
+      "id": "te:markets:575103",
+      "time": "2026-08-13 20:46:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Antofagasta earnings below expectations at 0.86 USD — Antofagasta (ANTO) released earnings per share at 0.86 USD, compared to market expectations of 0.93 USD."
+    },
+    {
+      "id": "mkt:019ffb28-fd5a-7aab-9025-98f1e36f41e9",
+      "time": "2026-08-13 20:46:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Fed official Harmack: Fed must raise rates now】Fed official Harmack said the Fed must raise rates now, arguing current policy is not restrictive and recent shocks have pushed inflation higher. He warned rapid growth could add further price pressure; rate hikes may be painful but are necessary to prevent economic overheating. Inflation is broad-based, not confined to specific sectors, and the Fed must be accountable to inflation data."
+    },
+    {
+      "id": "5039546",
+      "time": "2026-08-13 20:46:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲哈馬克：美聯儲現在必須加息】美聯儲官員哈瑪克最新表示：“美聯儲現在必須加息，因為現在的政策並具不限制性，近期衝擊下通脹上升。過快的增長可能會對價格施加額外壓力。加息可能會帶來痛苦，但不能讓經濟增長和投資過快，以至於經濟過熱。當下的通貨膨脹是廣泛存在的，不僅僅侷限於某些行業。美聯儲必須對通脹資料負責，這一點非常重要。”"
+    },
+    {
+      "id": "5039545",
+      "time": "2026-08-13 20:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：貨幣政策需要保持一定剋制才能壓低通脹。"
+    },
+    {
+      "id": "mkt:019ffb28-7c32-7aab-9025-97b95c762cb5",
+      "time": "2026-08-13 20:46:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Fed official Hammack said firms have adapted to tariff and oil shocks, showing resilience and investment potential."
+    },
+    {
+      "id": "5039544",
+      "time": "2026-08-13 20:45:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲巴爾金：就業市場持續支撐家庭支出】美聯儲巴爾金未說明他是否認為利率需要上調，但指出美聯儲\"許多\"官員認為當前利率水平已足夠限制性，能夠降低通脹。巴爾金表示：美國經濟某些方面仍是個謎，消費者和整體活動抵禦衝擊。巴爾金表示：就業市場持續支撐家庭支出，而擁有房產或股票的人群財富實現了\"顯著\"增長。鑑於薪酬壓力溫和，且關稅、油價及其他衝擊可能消退，有充分理由認為通脹將緩解。有理由認為價格壓力已根植於經濟之中，要麼需求走弱、要麼需要加息才能實現美聯儲的目標。巴爾金表示：企業投資似乎對利率、成本或不確定性“無動於衷”。人工智慧使企業得以嘗試減少員工數量，但由於盈利強勁，裁員壓力很小。"
+    },
     {
       "id": "5039543",
       "time": "2026-08-13 20:43:54",
@@ -127,6 +209,15 @@
         "Nasdaq100"
       ],
       "text": "Federal Reserve's Barkin said employment continues to support household consumption, and homeowners or stockholders have enjoyed \"significant\" wealth gains."
+    },
+    {
+      "id": "em:qqyh_mlc:202608133840700620",
+      "time": "2026-08-13 20:41:43",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲巴爾金：美國經濟依然保持韌性】美聯儲巴爾金認為，加息既有支援的理由，也有反對加息的理由。美國投資熱潮不僅限於資料中心。美國經濟依然保持韌性，主要受消費者驅動。"
     },
     {
       "id": "5039540",
@@ -138363,153 +138454,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌1%，現報61.64美元/盎司。"
-    },
-    {
-      "id": "5028982",
-      "time": "2026-08-06 20:48:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "德意志銀行凍結RADIANT WORLD基金，此前礦業公司紛紛採取行動切斷與基金的聯絡。"
-    },
-    {
-      "id": "mkt:019fd71e-71ce-7aab-8fa2-0006751cfa77",
-      "time": "2026-08-06 20:48:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "Japan & APAC",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "World Gold Council said Europe led July’s gold-market recovery with $2.0bn of inflows; Asia added $616m and remains the largest contributor to year-to-date global ETF inflows."
-    },
-    {
-      "id": "mkt:019fd71e-207b-7aab-8fa1-ff01652e26e9",
-      "time": "2026-08-06 20:48:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "【US initial jobless claims tick up; layoffs remain near multi-year lows】US initial jobless claims rose 1,000 to 199,000 for the week ended Aug. 1, the Labor Department said on Thursday. The prior week was revised up 1,000 to 198,000. Weekly claims are a near‑real‑time proxy for layoffs and US labor‑market health; levels remain near multi‑year lows."
-    },
-    {
-      "id": "mkt:019fd71d-7f8b-7aab-8fa1-f7a80568e0a9",
-      "time": "2026-08-06 20:47:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "World Gold Council: gold-market liquidity continued to ease; average daily trading volume fell to $356.0bn/day, down 3.5% MoM."
-    },
-    {
-      "id": "5028980",
-      "time": "2026-08-06 20:47:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "中航易商倉儲物流REIT：將自2026年8月7日上海證券交易所開市起停牌1小時，並於當日上午10:30起復牌。"
-    },
-    {
-      "id": "mkt:019fd71d-7425-7aab-8fa1-eb6a3e9932de",
-      "time": "2026-08-06 20:47:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Zhonghang Yishang Warehousing & Logistics REIT will be suspended for one hour from the Shanghai Stock Exchange market open on 7 Aug 2026 and will resume trading at 10:30am Shanghai time that morning."
-    },
-    {
-      "id": "5028979",
-      "time": "2026-08-06 20:47:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟通華方與知鏈科技達成戰略合作】據軟通動力訊息，近日，軟通動力旗下品牌軟通華方與北京知鏈科技有限公司（簡稱“知鏈科技”）舉行戰略合作簽約儀式。雙方將聯合打造工管結合、軟硬一體的高校教育整體方案，共同培育商科專業交叉人才，攜手開拓教育數字化市場。"
-    },
-    {
-      "id": "mkt:019fd71c-f228-7aab-8fa1-e63dfbb14f3a",
-      "time": "2026-08-06 20:47:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "World Gold Council: Global gold ETFs attracted $3.0 billion in July, reversing two months of outflows; assets under management rose to $530 billion. ETF holdings increased 23 tonnes to 4,068 tonnes."
-    },
-    {
-      "id": "5028978",
-      "time": "2026-08-06 20:46:32",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "【世界黃金協會：金價7月持平，未來走勢取決於實際利率、美元及央行應對】世界黃金協會：7月份，積極動能因素抵消了負面風險因素，使金價在7月持平。展望未來，不能排除出現類似於20世紀70年代末的第二波高通脹。但這本身並不意味著黃金會大幅上漲，這取決於實際利率、美元、增長預期、亞洲投資者需求以及央行的應對方式。"
-    },
-    {
-      "id": "mkt:019fd71c-5ebf-7aab-8fa1-df4f7073af59",
-      "time": "2026-08-06 20:46:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【World Gold Council: Gold flat in July; future path hinges on real rates, dollar and central-bank response】World Gold Council says positive drivers offset negative risks, leaving gold flat in July. WGC says a second wave of high inf similar to the late 1970s cannot be ruled out, but that alone does not guarantee a sharp gold rally; the metal’s path will depend on real rates, the dollar, growth expectations, Asian investor demand and central-bank responses."
-    },
-    {
-      "id": "5028977",
-      "time": "2026-08-06 20:46:24",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛大幅上調AI伺服器PCB和CCL預測 2028年市場規模將達840億和480億美元】高盛在最新發布的全球印刷電路板（PCB）和覆銅板（CCL）行業報告中，大幅上調人工智慧（AI）伺服器相關市場規模預測。該行預計，全球AI伺服器PCB市場將在2027年達到375億美元，較此前預測上調38%，2028年進一步增至840億美元；CCL市場2027年預計達到221億美元，上調18%，2028年則有望增至480億美元。這意味著，2026年至2028年，AI伺服器PCB和CCL市場規模的複合年增長率將分別達到148%和161%。與傳統伺服器週期不同，本輪增長不僅來自伺服器出貨量增加，還受到PCB層數提高、高階HDI（高密度互連）滲透、CCL材料升級，以及整機櫃內部PCB使用量增加等多重因素推動。"
-    },
-    {
-      "id": "te:economy:573406",
-      "time": "2026-08-06 20:45:57",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Czech National Bank Leaves Key Rate Unchanged — The Czech National Bank left its two-week repo rate unchanged at 3.75% in August 2026, pausing after delivering its first interest rate hike since 2022 at the previous meeting. Although headline inflation remained below the central bank's target for most of the year, policymakers said demand-driven inflationary pressures persisted. The bank noted that headline inflation was held down by volatile components, particularly food prices, while government measures to contain price growth also helped keep inflation below target. Meanwhile, economic growth slowed in the second quarter of 2026 to 2% from 2.2%."
-    },
-    {
-      "id": "5028975",
-      "time": "2026-08-06 20:45:39",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【Alphabet為至多400億美元的股權融資計劃新增多家經辦行】8月6日訊息，Alphabet補充了此前有關至多400億美元股權融資交易的招股說明書，將美銀證券和花旗環球市場等多家銀行新增為經辦機構。補充檔案顯示，新增機構還包括德意志銀行證券、滙豐證券、富國證券、巴克萊資本、法巴銀行證券、BTIG、法國農業信貸銀行證券、瑞穗證券、加皇資本市場、SG美洲證券和道明證券。"
-    },
-    {
-      "id": "5028974",
-      "time": "2026-08-06 20:45:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "奈飛推出印度本土內容創作計劃。"
     }
   ]
 }
