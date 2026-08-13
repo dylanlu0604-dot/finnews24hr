@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-13 10:08:29",
-  "count": 14989,
+  "updated": "2026-08-13 10:12:21",
+  "count": 14988,
   "items": [
+    {
+      "id": "mkt:019ff8e2-931c-7aab-9017-1180ce93c02a",
+      "time": "2026-08-13 10:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tianfu Communications A-shares rose 10.04% intraday to 264.14 yuan, with turnover topping 7.7 bln yuan."
+    },
+    {
+      "id": "te:economy:574879",
+      "time": "2026-08-13 10:10:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Monetary Policy Remains Restrictive, Tightening Working: RBA Kent — Monetary policy in Australia remains “somewhat restrictive,” with earlier tightening continuing to weigh on demand and inflation, Reserve Bank Assistant Governor Christopher Kent said in a speech. He highlighted rising borrowing costs and mortgage payments, a softer housing market, and year-to-date appreciation of the Australian dollar as signs that aggregate demand growth is slowing. Kent stressed this moderation is “intended and needed” to return inflation to target. While estimates of the nominal neutral rate are imprecise, they suggest the current stance is restrictive. Yet financial conditions reflect more than policy alone: housing has weakened more than rate increases imply, amplifying restraint, while resilient global demand tied to AI investment and higher overseas yields could offset it. The central bank will continue weighing these cross-currents as it refines its outlook and guides future decisions."
+    },
+    {
+      "id": "5038459",
+      "time": "2026-08-13 10:09:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI版支付寶“阿寶”鴻蒙版逐步開放測試】8月13日，支付寶宣佈AI版支付寶“阿寶”鴻蒙版逐步開放測試。鴻蒙使用者在華為應用市場搜尋“支付寶”或“螞蟻阿寶”，將支付寶APP升級到12.12.16鴻蒙版本，即可在支付寶首頁右劃體驗“阿寶”。"
+    },
+    {
+      "id": "5038458",
+      "time": "2026-08-13 10:09:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國RISC‑V SoC市場規模預計到2031年增長至864億美元】在第五屆滴水湖中國RISC-V產業論壇上，芯原股份董事長執行長戴偉民在致辭中表示，2025年全球RISC‑V SoC出貨量達約69億顆，預計到2031年將增長至約360億顆，複合增長率達31.7%，其市場規模將從940億美元增長至3130億美元，符合增長率達22.5%。中國RISC‑V SoC市場規模預計從2025年的約240億美元增至2031年的約864億美元。"
+    },
+    {
+      "id": "te:economy:574878",
+      "time": "2026-08-13 10:09:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "AUS 10Y Yield Trades Near Multi-Week Highs — Australia’s 10-year government bond yield traded above 4.9%, remaining near multi-week highs as the Reserve Bank’s latest comments reinforced a hawkish policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday."
+    },
+    {
+      "id": "5038457",
+      "time": "2026-08-13 10:09:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【天孚通訊盤中漲超10%】A股天孚通訊盤中漲10.04%，現報264.14元。"
+    },
+    {
+      "id": "5038456",
+      "time": "2026-08-13 10:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈爾濱警方徵集涉黑涉惡線索，軟暴力催收、惡意索賠等被列入新型黑惡違法犯罪線索】哈爾濱市公安局微信公眾號8月12日晚間釋出《關於徵集涉黑涉惡違法犯罪線索的通告》。其中，通告列出十類新型黑惡違法犯罪線索,軟暴力催收、惡意索賠、輿情敲詐、務工敲詐、碰瓷敲詐等被列入。此外，操縱控制未成年人實施違法犯罪線索、侵害未成年人權益等等被列入“其他涉黑涉惡違法犯罪線索”範圍。（澎湃新聞）"
+    },
     {
       "id": "5038455",
       "time": "2026-08-13 10:07:39",
@@ -136589,87 +136653,6 @@
         "Impact mixed"
       ],
       "text": "【China Gold Association: 1H 2026 domestic gold ETF inflows down 66.17% YoY】China Gold Association data show domestic gold ETF inflows in 1H 2026 totaled 28.677 tonnes, down 66.17% YoY. Domestic gold ETF holdings were 276.529 tonnes at end-June 2026. China increased official gold reserves by 40.12 tonnes in 1H 2026, bringing total reserves to 2,346.45 tonnes at end-June and ranking fifth globally. China has added to official gold reserves for 20 consecutive months from November 2024 through June 2026."
-    },
-    {
-      "id": "mkt:019fd4d7-a8f9-7aab-8f98-bdc86acd25a7",
-      "time": "2026-08-06 10:12:10",
-      "tags": [
-        "MKT News",
-        "300750.SZ",
-        "Impact bearish",
-        "03750.HK",
-        "CSI300"
-      ],
-      "text": "CATL A-shares down more than 3%; Hong Kong-listed CATL (03750.HK) down more than 2%."
-    },
-    {
-      "id": "5027835",
-      "time": "2026-08-06 10:12:05",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念震盪反彈，方正科技等多股漲停】PCB概念震盪反彈，方正科技、寶鼎科技、景旺電子漲停，科翔股份漲超15%，威爾高、勁拓股份、中鎢高新、中富電路、本川智慧等跟漲。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608063833598449",
-      "time": "2026-08-06 10:11:04",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【中國黃金協會：上半年我國黃金消費量511.412噸 同比增長1.23%】據中國黃金協會最新統計資料顯示：2026年上半年，我國黃金消費量511.412噸，同比增長1.23%。其中：黃金首飾132.133噸，同比下降33.88%；金條及金幣339.336噸，同比增長28.42%；工業及其他用金39.943噸，同比下降2.90%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202608063833593129",
-      "time": "2026-08-06 10:10:29",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【中國機械工業聯合會：6月機械工業出廠價格上漲0.7% 結束38個月連跌態勢】8月6日，中國機械工業聯合會釋出的2026年上半年機械工業經濟執行情況顯示，上半年，機械工業出廠價格在上游價格持續上漲的帶動下降幅逐步收窄，5月由負轉正，6月上漲0.7%，結束了連續38個月同比下降的態勢。"
-    },
-    {
-      "id": "5027834",
-      "time": "2026-08-06 10:10:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中國黃金協會：上半年國內黃金ETF增倉量28.677噸，同比下降66.17%】8月6日，據中國黃金協會最新統計資料顯示：2026年上半年，國內黃金ETF增倉量為28.677噸，較2025年上半年下降66.17%。至2026年6月底，國內黃金ETF持倉量為276.529噸。2026年上半年，我國增持黃金40.12噸，截至6月底，我國黃金儲備為2346.45噸，位居全球第五位。從2024年11月至2026年6月，我國已連續20個月增持黃金。"
-    },
-    {
-      "id": "5027833",
-      "time": "2026-08-06 10:09:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【純流量卡可能是物聯網絡卡 有風險】隨著三大運營商全面停止透過第三方網際網路渠道銷售號卡，一些打著“0月租”“隨充隨用”的“純流量卡”廣告，卻在部分電商平臺和社交群組悄然升溫。8月6日，記者調查發現，這類看似物美價廉的純流量卡，實為嚴禁對個人銷售的物聯網絡卡，背後暗藏斷網、限速、流量虛標等多重陷阱。 然而，所謂的“純流量卡”卻暗藏風險。物聯網絡卡是運營商面向企業批次發售的專用SIM卡，可用於共享單車、自動售賣機等智慧終端裝置聯網。根據相關規定，物聯網絡卡僅限企業使用者批次購買，不得違規插入個人手機上使用，銷售商更不能向個人使用者出售。盤古智庫高階研究員江瀚提醒，消費者購買此類卡片面臨極高風險。這些被私下轉售的卡片往往伴隨嚴重虛假宣傳和售後缺失，後臺限速、流量虛標屬於常見現象；而一旦被運營商監測到違規插入手機，使用者隨時可能遭遇斷網甚至封號封機，屆時想要維權也投訴無門。他提醒廣大使用者，切勿貪圖便宜輕信“純流量卡”的花式廣告，用卡務必選擇運營商官方正規渠道，以免貪小便宜吃大虧。（北京日報）"
-    },
-    {
-      "id": "mkt:019fd4d4-66df-7aab-8f98-b2994bcddeba",
-      "time": "2026-08-06 10:08:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Nikkei reports Japanese and U.S. companies, and possibly firms from the UAE and other countries, will invest about ¥2 trillion to build Japan's largest AI data center."
-    },
-    {
-      "id": "5027832",
-      "time": "2026-08-06 10:08:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "中國黃金協會：上半年我國黃金產量同比下降14.62%。"
     }
   ]
 }
