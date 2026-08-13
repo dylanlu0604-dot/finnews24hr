@@ -1,7 +1,24 @@
 {
-  "updated": "2026-08-14 05:20:26",
+  "updated": "2026-08-14 05:24:15",
   "count": 15442,
   "items": [
+    {
+      "id": "5040057",
+      "time": "2026-08-14 05:23:23",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普對特定規格無人機徵收 100% 關稅。"
+    },
+    {
+      "id": "5040056",
+      "time": "2026-08-14 05:20:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "AVALONBAY COMMUNITIES將從標普500指數中剔除。"
+    },
     {
       "id": "5040055",
       "time": "2026-08-14 05:19:47",
@@ -141346,26 +141363,6 @@
         "國際"
       ],
       "text": "加拿大貿易談判代表週四在華盛頓與美國貿易代表格雷爾舉行了建設性且內容詳盡的會談。"
-    },
-    {
-      "id": "5029571",
-      "time": "2026-08-07 05:23:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特領導的聯軍宣告：胡塞武裝發動襲擊，造成沙烏地阿拉伯奈季蘭地區 11 名平民受傷。"
-    },
-    {
-      "id": "te:markets:573495",
-      "time": "2026-08-07 05:22:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Consolidated Edison earnings above expectations at 0.83 USD — Consolidated Edison (ED) released earnings per share at 0.83 USD, compared to market expectations of 0.73 USD."
     }
   ]
 }
