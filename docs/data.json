@@ -1,7 +1,72 @@
 {
-  "updated": "2026-08-13 15:20:25",
+  "updated": "2026-08-13 15:24:26",
   "count": 15056,
   "items": [
+    {
+      "id": "mkt:019ffa01-6efb-7aab-901c-d3214154668f",
+      "time": "2026-08-13 15:23:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tencent Holdings (00700.HK) fell nearly 5% at the close, briefly pushing its market capitalization below HKD 4 trillion."
+    },
+    {
+      "id": "5038805",
+      "time": "2026-08-13 15:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南非對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查】近日，南非國際貿易管理委員會（ITAC）（代表南部非洲聯盟-SACU，SACU包含國家為南非、波札那、奈米比亞、賴索托及史瓦濟蘭5國）釋出公告，應生產商Saint-Gobain Construction Products South Africa (Pty) Ltd提交的申請，對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查。涉案產品為未裝飾、僅用紙或紙板貼面或增強的石膏或石膏基製品的板、片、面板、磚及類似品。涉案產品的南非稅號為6809.11。本案傾銷調查期為2025年1月1日至2025年12月31日，損害調查期為2023年1月1日至2025年12月31日。"
+    },
+    {
+      "id": "5038804",
+      "time": "2026-08-13 15:23:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【騰訊市值跌破4萬億港元】騰訊控股低開低走，截至發稿跌超4%，報440.2港元/股，市值跌破4萬億港元。"
+    },
+    {
+      "id": "te:markets:574977",
+      "time": "2026-08-13 15:22:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls on Demand Worries — Iron ore futures declined toward CNY 700 per ton, approaching 14-month lows as weak profitability among Chinese steelmakers continues to constrain the potential for a meaningful recovery in ore demand. Recent data also showed China imported 108.086 million tons of iron ore and concentrates in July, down 4.09% from June but still 3.5% higher than a year earlier. Meanwhile, slower consumer and producer inflation in China last month pointed to persistent weakness in domestic demand. On the supply side, however, tightening shipments continued to offer some support to prices. Industry data showed global iron ore shipments fell by 1.38 million tons in the week through August 9 to around 32 million tons, while volumes arriving at Chinese ports dropped by 13.1 million tons to 18.9 million tons."
+    },
+    {
+      "id": "5038803",
+      "time": "2026-08-13 15:21:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉公共部門縮短工時解電荒】委內瑞拉代總統德爾西·羅德里格斯12日宣佈，鑑於國內用電需求持續攀升、老舊電網不堪重負，政府將縮短公共部門工作時間，以減少電力消耗。羅德里格斯說，委內瑞拉目前的電力消費已達到10年來最高水平，11日全國用電需求達到今年峰值，約為15726兆瓦，而目前供電量僅約12000兆瓦。委公共部門工作人員將實行隔日上班制；同時，除在醫療保健等必要服務部門工作的人員外，實行半天輪班。（新華社）"
+    },
+    {
+      "id": "mkt:019ff9fe-5c0d-7aab-901c-c99cd60b47fe",
+      "time": "2026-08-13 15:20:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Triodos Bank: summer extreme heat could cost EU about €180bn】Dutch Triodos Bank estimates this summer's extreme heat will cause roughly €180bn of economic losses across EU countries, about 1% of 2025 EU GDP; estimate excludes losses linked to fatalities and injuries."
+    },
+    {
+      "id": "5038802",
+      "time": "2026-08-13 15:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒂森克虜伯首席財務官：我們受到了低水位的影響，但該情況並未對我們向客戶的供貨造成影響。"
+    },
     {
       "id": "mkt:019ff9fd-7d0d-7aab-901c-c53c3aa5d075",
       "time": "2026-08-13 15:19:27",
@@ -137401,77 +137466,6 @@
         "美聯儲"
       ],
       "text": "【美國非農資料明晚揭曉 美聯儲9月政策路徑或生變】北京時間8月7日20時30分，美國勞工部將公佈7月非農就業報告。道瓊斯調查顯示，經濟學家預計7月非農就業人數增加8.3萬人，高於6月的5.7萬人；失業率預計維持在4.2%。市場預計，就業增長可能從低位小幅回升，但擴張速度仍然偏慢。不過，近期公佈的先行指標並不樂觀。被稱為“小非農”的ADP就業資料降至半年低位，美國7月私營部門僅增加4.4萬個就業崗位，不及預期的7.5萬個，也明顯低於6月修正後的9.5萬個。"
-    },
-    {
-      "id": "5028202",
-      "time": "2026-08-06 15:24:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國ETF上半年漲跌分化：AI半導體大漲 反向ETF大虧】今年韓國上市ETF市場從年初以來累計表現來看，漲跌分化十分明顯。資料顯示，押注人工智慧（AI）和半導體領域的投資者獲得了豐厚回報，而押注股市下跌的反向ETF投資者則遭受較大損失。不過，最近一個多月，隨著圍繞AI和半導體板塊出現獲利了結以及資金輪動，短期收益率走勢與年初以來的累計表現呈現出不同趨勢。根據韓國交易所（KRX）資料市場6日公佈的“ETF全品種漲跌幅”資料，對今年年初至前一交易日韓國上市的1040只ETF收益率進行分析後發現，收益率排名靠前的產品基本被AI、半導體以及IT相關ETF佔據。這一期間收益率最高的產品是“TIGER 200IT槓桿ETF”，較年初上漲235.46%。隨後分別為“HANARO Fn K-半導體”（158.89%）、“RISE 網路基礎設施”（146.45%）、“TIGER美國費城半導體槓桿（合成）”（139.54%）、“KODEX 200IT TR”（137.60%）等。"
-    },
-    {
-      "id": "5028201",
-      "time": "2026-08-06 15:22:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯副總理Marat Khusnullin表示，俄羅斯應考慮修建一條通往印度洋的鐵路線，作為博斯普魯斯海峽或霍爾木茲海峽出現風險時的替代路線。"
-    },
-    {
-      "id": "te:markets:573299",
-      "time": "2026-08-06 15:21:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Edges Up for 3rd Session — The FTSE 100 rose on Thursday, extending gains for a third consecutive session and hovering near record levels, as investors welcomed signs of progress toward reopening the Strait of Hormuz to shipping. Sentiment improved after Iran said it had reached an agreement with Oman on a proposed shipping route through the strategic waterway, with a joint statement from both countries under review. Among individual stocks, Persimmon jumped around 4% after the housebuilder reported better-than-expected earnings and said it expects to complete 12,500 homes this year, at the upper end of its previous guidance. Barratt Redrow also advanced more than 1%. Elsewhere, BAE Systems gained over 2%, while pharmaceutical heavyweights AstraZeneca and GSK each added around 1%, providing further support to the index. On the downside, precious metal miners and other mining stocks came under pressure, while oil majors traded little changed as crude prices stabilized after recent losses."
-    },
-    {
-      "id": "mkt:019fd5f2-e120-7aab-8f9c-497b5fb1233a",
-      "time": "2026-08-06 15:21:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Pricing documents show Saudi Arabia set its September official selling price for Arab Light crude to Asia at a $2/bbl discount to the Oman/Dubai average."
-    },
-    {
-      "id": "te:economy:573298",
-      "time": "2026-08-06 15:21:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Slovakia Retail Sales at 3-Month High — Retail sales in Slovakia rose by 2.0% year-on-year in June 2026 from 0.9% in the previous month, marking the highest reading in three months. Activity increased in ICT equipment (25.3% vs 12.9% in May), while sales in automotive fuel in specialized stores (0.3% vs -1.1%) returned to positive territory. At the same time, activity declined at a softer pace for hypermarkets and supermarkets (-0.4% vs -3.0%), food, beverages, and tobacco (-2.2% vs -7.2%), via stalls and supermarkets (-9.8% vs -18.4%), and trade outside shops, stalls, and supermarkets (-6.8% vs -12.9%). Meanwhile, sales growth moderated in cultural and recreation goods in specialized stores (8.3% vs 23.3%), other household equipment and specialized stores (7.5% vs 11.7%), and other goods in specialized stores (4.6% vs 6.2%). On a seasonally adjusted monthly basis, retail trade grew by 0.4% in June, following a 0.1% growth in the preceding period."
-    },
-    {
-      "id": "em:qqyh_rbyh:202608063833836425",
-      "time": "2026-08-06 15:20:52",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【惠譽預計日本央行將於10月加息】惠譽預計，日本央行將於10月加息。任何市場認為日本央行行動落後的看法，都可能引發日元新一輪疲軟，對匯率穩定構成風險。"
-    },
-    {
-      "id": "5028200",
-      "time": "2026-08-06 15:20:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特阿美將9月份亞洲阿拉伯輕質原油價格環比下調50美分。"
     }
   ]
 }

@@ -1,7 +1,72 @@
 {
   "date": "2026-08-13",
-  "count": 1258,
+  "count": 1265,
   "items": [
+    {
+      "id": "mkt:019ffa01-6efb-7aab-901c-d3214154668f",
+      "time": "2026-08-13 15:23:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tencent Holdings (00700.HK) fell nearly 5% at the close, briefly pushing its market capitalization below HKD 4 trillion."
+    },
+    {
+      "id": "5038805",
+      "time": "2026-08-13 15:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南非對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查】近日，南非國際貿易管理委員會（ITAC）（代表南部非洲聯盟-SACU，SACU包含國家為南非、波札那、奈米比亞、賴索托及史瓦濟蘭5國）釋出公告，應生產商Saint-Gobain Construction Products South Africa (Pty) Ltd提交的申請，對進口自中國和沙烏地阿拉伯的石膏板發起反傾銷調查。涉案產品為未裝飾、僅用紙或紙板貼面或增強的石膏或石膏基製品的板、片、面板、磚及類似品。涉案產品的南非稅號為6809.11。本案傾銷調查期為2025年1月1日至2025年12月31日，損害調查期為2023年1月1日至2025年12月31日。"
+    },
+    {
+      "id": "5038804",
+      "time": "2026-08-13 15:23:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【騰訊市值跌破4萬億港元】騰訊控股低開低走，截至發稿跌超4%，報440.2港元/股，市值跌破4萬億港元。"
+    },
+    {
+      "id": "te:markets:574977",
+      "time": "2026-08-13 15:22:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls on Demand Worries — Iron ore futures declined toward CNY 700 per ton, approaching 14-month lows as weak profitability among Chinese steelmakers continues to constrain the potential for a meaningful recovery in ore demand. Recent data also showed China imported 108.086 million tons of iron ore and concentrates in July, down 4.09% from June but still 3.5% higher than a year earlier. Meanwhile, slower consumer and producer inflation in China last month pointed to persistent weakness in domestic demand. On the supply side, however, tightening shipments continued to offer some support to prices. Industry data showed global iron ore shipments fell by 1.38 million tons in the week through August 9 to around 32 million tons, while volumes arriving at Chinese ports dropped by 13.1 million tons to 18.9 million tons."
+    },
+    {
+      "id": "5038803",
+      "time": "2026-08-13 15:21:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉公共部門縮短工時解電荒】委內瑞拉代總統德爾西·羅德里格斯12日宣佈，鑑於國內用電需求持續攀升、老舊電網不堪重負，政府將縮短公共部門工作時間，以減少電力消耗。羅德里格斯說，委內瑞拉目前的電力消費已達到10年來最高水平，11日全國用電需求達到今年峰值，約為15726兆瓦，而目前供電量僅約12000兆瓦。委公共部門工作人員將實行隔日上班制；同時，除在醫療保健等必要服務部門工作的人員外，實行半天輪班。（新華社）"
+    },
+    {
+      "id": "mkt:019ff9fe-5c0d-7aab-901c-c99cd60b47fe",
+      "time": "2026-08-13 15:20:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Triodos Bank: summer extreme heat could cost EU about €180bn】Dutch Triodos Bank estimates this summer's extreme heat will cause roughly €180bn of economic losses across EU countries, about 1% of 2025 EU GDP; estimate excludes losses linked to fatalities and injuries."
+    },
+    {
+      "id": "5038802",
+      "time": "2026-08-13 15:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "蒂森克虜伯首席財務官：我們受到了低水位的影響，但該情況並未對我們向客戶的供貨造成影響。"
+    },
     {
       "id": "mkt:019ff9fd-7d0d-7aab-901c-c53c3aa5d075",
       "time": "2026-08-13 15:19:27",
