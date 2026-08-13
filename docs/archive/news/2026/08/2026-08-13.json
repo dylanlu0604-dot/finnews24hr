@@ -1,7 +1,87 @@
 {
   "date": "2026-08-13",
-  "count": 1265,
+  "count": 1273,
   "items": [
+    {
+      "id": "5038810",
+      "time": "2026-08-13 15:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：2026年上半年榮耀為全球增速最快的安卓中國廠商】榮耀最新分享階段經營成果，據IDC資料，今年上半年，榮耀是全球唯一實現出貨正增長的安卓中國廠商，並以9%的增速成為全球出貨增速最快的安卓中國廠商。"
+    },
+    {
+      "id": "5038809",
+      "time": "2026-08-13 15:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北銀理財換帥】記者從知情人士處獲悉，北銀理財近日在公司內部宣佈一項人事任命：北京銀行金融市場總監、同業票據管理部總經理劉素勤已出任北銀理財黨委書記，待履行完相關程式後，將正式擔任北銀理財董事長。（21財經）"
+    },
+    {
+      "id": "te:markets:574979",
+      "time": "2026-08-13 15:25:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Trade Higher Near Record — European stocks traded close to record highs on Thursday, supported by a modest decline in oil and gas prices that helped ease concerns over energy costs. The STOXX 50 gained around 0.5%, while the broader STOXX 600 added 0.2%. Stabilising energy prices improved investor sentiment and reduced some of the pressure on inflation expectations. UK economic data also offered encouragement, showing that the region’s economies have so far proved resilient to the energy shock. UK GDP expanded by 0.4% in the second quarter, while growth strengthened in June. Corporate earnings provided an additional boost. Danish shipping giant Maersk surged around 8% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations."
+    },
+    {
+      "id": "5038808",
+      "time": "2026-08-13 15:25:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【8月13日滬深兩市漲停分析】三大指數衝高回落集體收綠，醫藥醫療股逆勢走強。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019ffa02-e708-7aab-901c-e74cc3006438",
+      "time": "2026-08-13 15:25:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian Railways data show rail shipments of Ukrainian grain for export fell 76% YoY to 201,700 tonnes as of August."
+    },
+    {
+      "id": "5038807",
+      "time": "2026-08-13 15:24:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外資湧入日本晶片行業，投資規模已達6萬億日元】外國企業對日本晶片產業的投資規模已達到6萬億日元（約370億美元），隨著索尼集團和臺積電近期宣佈建設影象感測器工廠，這一數字進一步擴大。臺積電已向其在日本的兩座晶圓廠投資3萬億日元。其中，第一座晶圓廠已於2024年開始量產邏輯晶片，第二座目前正在建設中。美光科技上月啟動了廣島縣工廠擴建專案，計劃投資1.5萬億日元生產先進儲存晶片，這類晶片對於人工智慧資料中心至關重要。同樣在7月，以色列晶片製造商Tower Semiconductor宣佈將投資6000億日元，用於量產資料中心所使用的光通訊裝置晶片。"
+    },
+    {
+      "id": "5038806",
+      "time": "2026-08-13 15:24:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭鐵路公司Ukrzaliznytsia表示，8月迄今為止烏克蘭出口糧食運輸量同比下降76%，至20.17萬噸。"
+    },
+    {
+      "id": "mkt:019ffa01-d79a-7aab-901c-df1b38a50fde",
+      "time": "2026-08-13 15:24:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "TSM.O"
+      ],
+      "text": "【Foreign investment in Japan's chip sector hits 6 tln yen (~$37bn)】Foreign investment in Japan's semiconductor sector totals 6 tln yen (about $37bn); recent image‑sensor fab announcements from Sony and TSMC will add to overall sector investment. TSMC has committed 3 tln yen to two Japanese wafer fabs — the first began volume production of logic chips in 2024, the second is under construction. Micron last month started an expansion in Hiroshima, planning 1.5 tln yen to produce advanced memory chips for AI data centers. In July Tower Semiconductor said it will invest 600 bln yen to mass‑produce optical‑communication chips for data centers."
+    },
     {
       "id": "mkt:019ffa01-6efb-7aab-901c-d3214154668f",
       "time": "2026-08-13 15:23:45",
