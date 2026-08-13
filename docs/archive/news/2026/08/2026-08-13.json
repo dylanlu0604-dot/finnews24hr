@@ -1,7 +1,60 @@
 {
   "date": "2026-08-13",
-  "count": 820,
+  "count": 826,
   "items": [
+    {
+      "id": "mkt:019ff93d-e1c6-7aab-9018-08bea8776d31",
+      "time": "2026-08-13 11:50:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze Optical Fibre and Cable (YOFC) wins 159 mln yuan hollow-core cable framework tender from China Telecom Guangdong】Yangtze Optical Fibre and Cable (YOFC) said it won 100% of the 2026 China Telecom Guangdong hollow-core optical cable and G.654.E cable framework procurement with a bid of 159 mln yuan (incl. tax). The purchase is the largest single domestic hollow‑core cable procurement to date and signals hollow‑core fiber moving from pilot validation to commercial‑scale deployment."
+    },
+    {
+      "id": "5038559",
+      "time": "2026-08-13 11:49:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構：第二季度中國平板電腦市場出貨量796萬臺，同比下降4.4%】國際資料公司（IDC）釋出了2026年第二季度中國平板電腦市場季度跟蹤報告。資料顯示，2026年第二季度，中國平板電腦市場出貨量為796萬臺，同比下降4.4%，降幅較第一季度小幅收窄。但從市場表現來看，市場壓力並未緩解，反而進一步放大。商用市場的大幅增長主要來自漲價預期下的需求前置，而消費市場則在成本上漲、需求提前釋放等因素影響下同比下降9.8%。表面上市場跌幅收窄，實際上成本上漲正在加速向需求端傳導。"
+    },
+    {
+      "id": "te:markets:574893",
+      "time": "2026-08-13 11:49:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Slips as China Demand Slows — Copper futures fell below $6.55 per pound on Thursday, reaching an over one-week low as elevated prices weakened demand and discouraged buyers in top consumer China. The Yangshan premium, which reflects the premium paid above the benchmark LME copper price for refined copper imported into China, declined to $96 per ton after reaching $115 a ton last month. However, concerns over tightening supply continued to underpin prices amid expectations for constrained global mine output. Chilean state-owned miner Codelco reportedly expects lower copper production this year as it faces setbacks at its mines and development projects. The company has abandoned its previous target of producing 1.34 million metric tons this year, compared with last year’s revised output of 1.307 million tons. Traders also remained cautious about potential US import tariffs on copper, which have continued to divert metal away from international markets and into US warehouses."
+    },
+    {
+      "id": "5038558",
+      "time": "2026-08-13 11:48:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "塔塔汽車股價上漲3.9%，此前公佈季度利潤增長。"
+    },
+    {
+      "id": "5038557",
+      "time": "2026-08-13 11:48:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【8月13日午間漲停分析】創業板指半日漲1.61%，醫藥、算力概念股集體爆發。秦安股份5連板，同力天啟、皇氏集團、北京文化等4連板，一圖看懂>>"
+    },
+    {
+      "id": "5038556",
+      "time": "2026-08-13 11:47:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長飛光纖中標中國電信廣東公司1.59億元空芯光纜集採】據長飛光纖訊息，近日，“2026年中國電信廣東公司空芯光纜、G.654.E光纜框架採購專案”中標結果正式公示，長飛光纖以1.59億元（含稅）報價中標100%份額。此次集採是目前國內最大單體空芯光纜採購專案，其定標結果標誌著空芯光纖技術已從試點驗證邁入規模化商用階段。"
+    },
     {
       "id": "5038555",
       "time": "2026-08-13 11:46:06",
