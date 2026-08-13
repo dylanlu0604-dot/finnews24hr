@@ -1,7 +1,121 @@
 {
   "date": "2026-08-13",
-  "count": 440,
+  "count": 452,
   "items": [
+    {
+      "id": "mkt:019ff885-f9b7-7aab-9015-3dbee8480e6a",
+      "time": "2026-08-13 08:29:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA's Kent said a stronger currency helps ease inflation by lowering domestic prices of imported goods."
+    },
+    {
+      "id": "mkt:019ff885-5b5e-7aab-9015-3526042e5a84",
+      "time": "2026-08-13 08:28:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA's Kent said significant investment in data centres and AI-related infrastructure helps support aggregate demand growth."
+    },
+    {
+      "id": "mkt:019ff885-57eb-7aab-9015-2c15ee8eccc3",
+      "time": "2026-08-13 08:28:36",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "RBA's Kent said Australia's housing market has clearly softened recently; tax changes in the federal budget appear to have reduced demand for existing homes."
+    },
+    {
+      "id": "5038304",
+      "time": "2026-08-13 08:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：對資料中心及人工智慧相關基礎設施的大規模投資，為總需求增長提供了支撐。"
+    },
+    {
+      "id": "5038303",
+      "time": "2026-08-13 08:28:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：聯邦預算公佈的稅制調整似乎對存量房市場需求下滑起到了推動作用。"
+    },
+    {
+      "id": "mkt:019ff884-eae7-7aab-9015-22fa2c573cd6",
+      "time": "2026-08-13 08:28:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBA deputy governor Kent said rate hikes are having the expected effect."
+    },
+    {
+      "id": "mkt:019ff884-d7ea-7aab-9015-1f27406495c0",
+      "time": "2026-08-13 08:28:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA's Kent said the cash rate is close to the upper end of the central estimate range for the neutral rate derived from various models."
+    },
+    {
+      "id": "5038302",
+      "time": "2026-08-13 08:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：近幾個月樓市狀況已顯著走軟。"
+    },
+    {
+      "id": "5038301",
+      "time": "2026-08-13 08:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：圍繞中性利率預估存在相當大的不確定性。"
+    },
+    {
+      "id": "5038300",
+      "time": "2026-08-13 08:27:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：現金利率處於我們估算的各種模型對中性利率中心預估區間的頂部附近。"
+    },
+    {
+      "id": "5038299",
+      "time": "2026-08-13 08:26:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市10天內漲逾22% 晶片重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，基準Kospi指數上漲4%，自7月30日低點以來的累計漲幅超過22%。記憶體晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均大幅上揚。隨著全球科技巨頭在最新財報中顯示出大規模AI支出繼續，市場對科技硬體股的熱情正在迴歸。這種情緒與過去幾個月形成了鮮明對比 —— 當時，因槓桿化晶片股頭寸被迫平倉，不僅導致交易暫停，還讓散戶投資者損失了數十億美元的財富。近期政府對單隻股票槓桿ETF的限制措施，以及投資者減少保證金債務的跡象，都有助於穩定市場。“一旦槓桿被解除，同一市場可能會出現劇烈反彈，”駐迪拜的Arkevium Capital首席投資官Maxence Visseau表示。“被迫拋售的投資者消失了。做空者獲利了結。交易商減少了下行對沖。”年迄今，韓國Kospi指數已上漲逾60%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。"
+    },
+    {
+      "id": "5038298",
+      "time": "2026-08-13 08:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：匯率上升透過降低進口商品的國內價格，有助於緩和通脹。"
+    },
     {
       "id": "mkt:019ff882-d022-7aab-9015-10c749329105",
       "time": "2026-08-13 08:25:50",

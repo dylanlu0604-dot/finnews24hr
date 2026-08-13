@@ -1,7 +1,121 @@
 {
-  "updated": "2026-08-13 08:26:23",
-  "count": 15044,
+  "updated": "2026-08-13 08:30:13",
+  "count": 15052,
   "items": [
+    {
+      "id": "mkt:019ff885-f9b7-7aab-9015-3dbee8480e6a",
+      "time": "2026-08-13 08:29:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA's Kent said a stronger currency helps ease inflation by lowering domestic prices of imported goods."
+    },
+    {
+      "id": "mkt:019ff885-5b5e-7aab-9015-3526042e5a84",
+      "time": "2026-08-13 08:28:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "RBA's Kent said significant investment in data centres and AI-related infrastructure helps support aggregate demand growth."
+    },
+    {
+      "id": "mkt:019ff885-57eb-7aab-9015-2c15ee8eccc3",
+      "time": "2026-08-13 08:28:36",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "RBA's Kent said Australia's housing market has clearly softened recently; tax changes in the federal budget appear to have reduced demand for existing homes."
+    },
+    {
+      "id": "5038304",
+      "time": "2026-08-13 08:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：對資料中心及人工智慧相關基礎設施的大規模投資，為總需求增長提供了支撐。"
+    },
+    {
+      "id": "5038303",
+      "time": "2026-08-13 08:28:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：聯邦預算公佈的稅制調整似乎對存量房市場需求下滑起到了推動作用。"
+    },
+    {
+      "id": "mkt:019ff884-eae7-7aab-9015-22fa2c573cd6",
+      "time": "2026-08-13 08:28:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "RBA deputy governor Kent said rate hikes are having the expected effect."
+    },
+    {
+      "id": "mkt:019ff884-d7ea-7aab-9015-1f27406495c0",
+      "time": "2026-08-13 08:28:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "RBA's Kent said the cash rate is close to the upper end of the central estimate range for the neutral rate derived from various models."
+    },
+    {
+      "id": "5038302",
+      "time": "2026-08-13 08:27:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：近幾個月樓市狀況已顯著走軟。"
+    },
+    {
+      "id": "5038301",
+      "time": "2026-08-13 08:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：圍繞中性利率預估存在相當大的不確定性。"
+    },
+    {
+      "id": "5038300",
+      "time": "2026-08-13 08:27:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：現金利率處於我們估算的各種模型對中性利率中心預估區間的頂部附近。"
+    },
+    {
+      "id": "5038299",
+      "time": "2026-08-13 08:26:47",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國股市10天內漲逾22% 晶片重拾漲勢】韓國股市上漲，基準股指有望進入技術性牛市，全球人工智慧(AI)交易的反彈推動了上個月歷史性暴跌的迅速逆轉。週四，基準Kospi指數上漲4%，自7月30日低點以來的累計漲幅超過22%。記憶體晶片製造商三星電子和SK海力士等權重股對該指數的貢獻最大，兩家公司股價均大幅上揚。隨著全球科技巨頭在最新財報中顯示出大規模AI支出繼續，市場對科技硬體股的熱情正在迴歸。這種情緒與過去幾個月形成了鮮明對比 —— 當時，因槓桿化晶片股頭寸被迫平倉，不僅導致交易暫停，還讓散戶投資者損失了數十億美元的財富。近期政府對單隻股票槓桿ETF的限制措施，以及投資者減少保證金債務的跡象，都有助於穩定市場。“一旦槓桿被解除，同一市場可能會出現劇烈反彈，”駐迪拜的Arkevium Capital首席投資官Maxence Visseau表示。“被迫拋售的投資者消失了。做空者獲利了結。交易商減少了下行對沖。”年迄今，韓國Kospi指數已上漲逾60%。該指數7月份暴跌22%，創下自全球金融危機以來最差單月表現。"
+    },
+    {
+      "id": "5038298",
+      "time": "2026-08-13 08:26:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：匯率上升透過降低進口商品的國內價格，有助於緩和通脹。"
+    },
     {
       "id": "mkt:019ff882-d022-7aab-9015-10c749329105",
       "time": "2026-08-13 08:25:50",
@@ -137220,43 +137334,6 @@
         "國際"
       ],
       "text": "2年期日本國債收益率下跌0.5個基點至1.56%。"
-    },
-    {
-      "id": "mkt:019fd479-697a-7aab-8f95-e9f6fd2f3437",
-      "time": "2026-08-06 08:29:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI extends losses to 3%; SK Hynix down 7%, Samsung Electronics down nearly 3%."
-    },
-    {
-      "id": "5027652",
-      "time": "2026-08-06 08:29:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌3%，至6399.83點。"
-    },
-    {
-      "id": "5027651",
-      "time": "2026-08-06 08:28:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）部分中資企業礦山的鈷產品鈾含量超標？當地中資礦企協會回應：報道不實】剛果（金）中資礦業企業協會發布關於剛果（金）東南部中資礦業企業鈷產品鈾含量相關情況的澄清宣告：近期，網路及行業渠道出現關於剛果（金）東南部中資企業礦山生產的鈷產品鈾含量超標的不實報道，相關言論誤導市場認知、擾亂行業正常經營秩序，對在剛中資礦業企業聲譽及鈷產品國際貿易口碑造成不良影響。"
-    },
-    {
-      "id": "5027650",
-      "time": "2026-08-06 08:26:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本前首相岸田稱美日干預只是短暫支撐 增長戰略才能改變日元格局】日本前首相岸田文雄表示，美日聯合干預暫時支撐了日元，但這並不會從根本上改變日元匯率或經濟格局，稱370萬億日元（2.3萬億美元）的增長戰略將是改變日本命運的長期願景。岸田文雄在接受採訪時表示，“就匯率而言，這或許能爭取一些時間，但除非基本經濟形勢和更廣泛的環境發生變化，否則最終可能起不到更大的作用。”美國和日本週一宣佈，他們已於上週五干預外匯市場以支撐日元匯率。"
     }
   ]
 }
