@@ -1,7 +1,83 @@
 {
   "date": "2026-08-13",
-  "count": 2223,
+  "count": 2231,
   "items": [
+    {
+      "id": "5039502",
+      "time": "2026-08-13 20:27:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Edgemode與黑莓另類投資基金（BlackBerry AIF）簽署諒解備忘錄，將共同設立公開上市的人工智慧基礎設施開發平臺Black AI。"
+    },
+    {
+      "id": "5039501",
+      "time": "2026-08-13 20:27:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西銀行首席風險官：預計下半年農業相關撥備將有所下降。"
+    },
+    {
+      "id": "mkt:019ffb16-6cb0-7aab-9024-32dffd93b6f4",
+      "time": "2026-08-13 20:26:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Compute metals surge on AI demand】China Nonferrous Metals Industry Association data show nonferrous metals sector profits rose 94% YoY in 1H, with sustained AI demand cited as one core driver. Metals closely tied to AI compute, termed \"compute metals\", have seen sharp price gains over the past six months: tin up about 40%, indium up 60% and tantalum up 158%."
+    },
+    {
+      "id": "5039500",
+      "time": "2026-08-13 20:26:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【算力金屬大漲價】據中國有色金屬工業協會近期釋出的資料顯示，今年上半年，我國有色金屬行業利潤同比增長94%，其核心驅動力之一來自人工智慧需求的持續釋放。這類與AI算力密切相關的金屬，被稱為“算力金屬”。受AI算力需求驅動，這些稀有金屬價格呈現顯著上漲。半年內，錫價漲幅約40%，銦價上漲60%，鉭價更是飆升158%。（央視財經）"
+    },
+    {
+      "id": "5039499",
+      "time": "2026-08-13 20:26:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列國防軍在加沙汗尤尼斯打擊一名哈馬斯營級指揮官。"
+    },
+    {
+      "id": "mkt:019ffb15-bd81-7aab-9024-2c74925061e1",
+      "time": "2026-08-13 20:25:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【United Overseas Bank (UOB): Fed to hold through end-2026; two 25bp cuts in 2027】United Overseas Bank (UOB) analyst Alvin Liew said after July US CPI that market odds of a September Fed hike have fallen and UOB’s base case is that the Fed will pause policy through all of 2026. UOB expects two 25bp cuts in 2027, likely at end-Q2 and end-Q4, gradually lowering the federal funds target to about 3.25% by end-2027, which it still views as its terminal rate estimate. While June and July CPI prints have balanced FOMC risks, geopolitical and energy uncertainty leave a slight upside risk to policy, so UOB remains vigilant to the possibility of tighter policy."
+    },
+    {
+      "id": "5039498",
+      "time": "2026-08-13 20:25:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：德國因儲氣庫填充水平低而面臨冬季無供氣的風險】德國天然氣和氫氣儲存運營商協會（INES）總經理塞巴斯蒂安·海納曼表示，由於儲氣設施填充水平過低，德國冬季可能面臨無保障供氣的風險。"
+    },
+    {
+      "id": "5039497",
+      "time": "2026-08-13 20:24:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【受“白海豚”影響14個國家級觀測站日雨量破歷史極值】中國氣象局13日公佈的監測資料顯示，受“白海豚”及其殘餘環流和冷空氣共同影響，8日至12日，浙江、上海、江蘇、湖北、河南、河北有14個國家級氣象觀測站日雨量突破當地建站以來歷史極值，47個站日雨量突破8月曆史極值。其中，浙江過程雨量位列本省1949年以來臺風降雨第一位。 “白海豚”7月27日在日界線附近生成，之後向西北方向移動逾7000公里，於8月9日兩次登陸浙江，隨後穿過福建、江西、安徽、湖北，11日17時中央氣象臺對其停止編號。 監測顯示，8日至12日，浙江大部、上海、安徽大部、江蘇中南部、江西東北部、湖北北部、河南中部和南部、河北南部、北京中東部及臺灣島北部等地累計降雨100至300毫米，浙江台州、寧波、溫州，上海金山，湖北襄陽等地500至800毫米，出現在浙江台州的最大累計降雨量達975.9毫米。(新華社)"
+    },
     {
       "id": "mkt:019ffb14-2004-7aab-9024-24068d260b1d",
       "time": "2026-08-13 20:23:47",
