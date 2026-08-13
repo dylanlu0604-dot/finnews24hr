@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-14 02:27:58",
-  "count": 15358,
+  "updated": "2026-08-14 02:31:55",
+  "count": 15363,
   "items": [
+    {
+      "id": "mkt:019ffc64-00ef-7aab-902c-1e51fa61b0f3",
+      "time": "2026-08-14 02:30:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Aziz, chairman of Iran’s parliamentary national security committee, warned that if actors continue to yield to Iran’s enemies their sovereignty will remain at risk and national standing will be weakened. He said that if parties act as tools of Iran’s enemies and move rashly in the region, Iran will respond decisively and forcefully."
+    },
+    {
+      "id": "5039961",
+      "time": "2026-08-14 02:30:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司向休斯頓工廠投資數億美元，首批先進AI伺服器已發貨。"
+    },
+    {
+      "id": "5039960",
+      "time": "2026-08-14 02:30:25",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：蘋果在休斯頓開設先進製造中心。"
+    },
+    {
+      "id": "5039959",
+      "time": "2026-08-14 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲0.44%，報553.00元人民幣/桶。滬金夜盤收跌1.24%，滬銀收跌1.48%。"
+    },
+    {
+      "id": "5039958",
+      "time": "2026-08-14 02:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【XRG透過進軍委內瑞拉推進全球天然氣戰略】阿布扎比國家石油公司（ADNOC）旗下XRG透過海上Loran許可證進入委內瑞拉。XRG將與BP、UCC共同持有該許可證的權益。XRG稱該許可證包含超過4萬億立方英尺的已探明天然氣資源。"
+    },
     {
       "id": "te:markets:575179",
       "time": "2026-08-14 02:25:13",
