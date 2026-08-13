@@ -1,7 +1,128 @@
 {
   "date": "2026-08-13",
-  "count": 2344,
+  "count": 2356,
   "items": [
+    {
+      "id": "5039563",
+      "time": "2026-08-13 20:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅賓漢創投二號基金透過首次公開募股募資2億美元。"
+    },
+    {
+      "id": "mkt:019ffb31-02fe-7aab-9025-e2be4c267224",
+      "time": "2026-08-13 20:55:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【US July PPI shows further inflation easing; Middle East risk clouds Fed outlook】US July PPI missed expectations as energy and food costs fell, reinforcing recent CPI data that signaled slowing inflation and suggesting the early-war energy shock is fading. Renewed tensions in the Middle East have, however, revived concerns about persistent inflation. Fed officials will receive additional CPI and PPI prints and another labor-market report before the Fed's mid-September policy decision, leaving policymakers to weigh lingering inflationary pressure against recent hiring slowdowns. PPI subcomponents that feed into the Fed’s preferred PCE price index were mixed: portfolio management fees posted their largest gain in over a year and outpatient hospital care rose sharply, while physician services and inpatient hospital prices were milder."
+    },
+    {
+      "id": "5039562",
+      "time": "2026-08-13 20:55:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：大量槓桿被用於購買國債。國債是我關注金融穩定的一個領域。還需關注私人信貸，以及人工智慧是否存在泡沫。"
+    },
+    {
+      "id": "mkt:019ffb2f-eb76-7aab-9025-de1958fae1cc",
+      "time": "2026-08-13 20:54:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's HAMMACK said focus should remain on private credit and on whether AI is forming a bubble."
+    },
+    {
+      "id": "5039561",
+      "time": "2026-08-13 20:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐萊新材：向特定物件發行A股股票申請獲上交所受理】歐萊新材公告，公司於2026年8月13日收到上海證券交易所出具的《關於受理廣東歐萊高新材料股份有限公司科創板上市公司發行證券申請的通知》，上交所認為申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "5039560",
+      "time": "2026-08-13 20:53:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【德龍匯能：股價異動 澄清資產注入傳聞並提示風險】德龍匯能公告稱，8月12 - 13日公司股票收盤價格漲幅累計偏離20.87%，屬異常波動。近期有控股股東、實控人“擬注入半導體等資產”的不實傳聞，公司澄清截至公告披露日無資產注入計劃，且未來12個月無重大資產重組計劃。公司仍聚焦天然氣主業，無半導體業務。股東劉鑫於7月30日增持股份至1798.35萬股，佔總股本5.01%。目前公司基本面未變，但股價已嚴重偏離基本面，存在快速下跌風險，提醒投資者注意交易風險。"
+    },
+    {
+      "id": "mkt:019ffb2f-61f5-7aab-9025-d5dcd3987061",
+      "time": "2026-08-13 20:53:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "Fed's Hammack said U.S. Treasuries are an area he monitors for financial stability."
+    },
+    {
+      "id": "mkt:019ffb2f-5917-7aab-9025-caa4ad05336d",
+      "time": "2026-08-13 20:53:31",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Fed's Hammack said large amounts of leverage are being used to buy government bonds."
+    },
+    {
+      "id": "5039559",
+      "time": "2026-08-13 20:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐仕德首席財務官：日出風電專案營銷程序不太可能在2027年初之前啟動。"
+    },
+    {
+      "id": "5039558",
+      "time": "2026-08-13 20:53:06",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲在9月維持利率在3.50%-3.75%區間的機率約為65%，高於PPI報告發布前的約60%。"
+    },
+    {
+      "id": "te:markets:575111",
+      "time": "2026-08-13 20:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Slight Gains After PPI — US equity futures remained slightly higher amid soft producer price data, while AI companies mostly held their recent gains. The S&P 500 inched up to a record, while the Dow gained 0.3% and the Nasdaq 100 was flat. Chip stocks and companies with exposure to AI infrastructure held their strong gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and its recent purchase of Decart AI continued to underpin the outlook for compute expenditures. Micron, Nvidia, and Amazon were higher. Meanwhile, headline and core producer prices were lower than expected in July, aligned with the softer price pressures unveiled in yesterday's CPI report and consolidating market expectations that the latest data does note warrant a rate hike by the Federal Reserve next month."
+    },
+    {
+      "id": "mkt:019ffb2e-ba48-7aab-9025-c4282240017f",
+      "time": "2026-08-13 20:52:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【U.S. initial jobless claims tick up; labor-market stability needs more data】U.S. initial jobless claims rose 9,000 to 209,000 in the week ended Aug. 8, the U.S. Department of Labor said Thursday, vs a median estimate of 202,000. Claims remain near historic lows; the increase may reflect typical summer volatility from seasonal hiring patterns and holiday scheduling. Economists said they will wait for more weekly readings before reassessing the recent stability of the labor market."
+    },
     {
       "id": "mkt:019ffb2e-0893-7aab-9025-bd2ae2547c8d",
       "time": "2026-08-13 20:52:05",

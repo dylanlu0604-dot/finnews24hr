@@ -1,7 +1,128 @@
 {
-  "updated": "2026-08-13 20:52:59",
-  "count": 15150,
+  "updated": "2026-08-13 20:56:57",
+  "count": 15154,
   "items": [
+    {
+      "id": "5039563",
+      "time": "2026-08-13 20:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "羅賓漢創投二號基金透過首次公開募股募資2億美元。"
+    },
+    {
+      "id": "mkt:019ffb31-02fe-7aab-9025-e2be4c267224",
+      "time": "2026-08-13 20:55:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【US July PPI shows further inflation easing; Middle East risk clouds Fed outlook】US July PPI missed expectations as energy and food costs fell, reinforcing recent CPI data that signaled slowing inflation and suggesting the early-war energy shock is fading. Renewed tensions in the Middle East have, however, revived concerns about persistent inflation. Fed officials will receive additional CPI and PPI prints and another labor-market report before the Fed's mid-September policy decision, leaving policymakers to weigh lingering inflationary pressure against recent hiring slowdowns. PPI subcomponents that feed into the Fed’s preferred PCE price index were mixed: portfolio management fees posted their largest gain in over a year and outpatient hospital care rose sharply, while physician services and inpatient hospital prices were milder."
+    },
+    {
+      "id": "5039562",
+      "time": "2026-08-13 20:55:07",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：大量槓桿被用於購買國債。國債是我關注金融穩定的一個領域。還需關注私人信貸，以及人工智慧是否存在泡沫。"
+    },
+    {
+      "id": "mkt:019ffb2f-eb76-7aab-9025-de1958fae1cc",
+      "time": "2026-08-13 20:54:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's HAMMACK said focus should remain on private credit and on whether AI is forming a bubble."
+    },
+    {
+      "id": "5039561",
+      "time": "2026-08-13 20:54:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐萊新材：向特定物件發行A股股票申請獲上交所受理】歐萊新材公告，公司於2026年8月13日收到上海證券交易所出具的《關於受理廣東歐萊高新材料股份有限公司科創板上市公司發行證券申請的通知》，上交所認為申請檔案齊備，符合法定形式，決定予以受理並依法進行稽核。本次向特定物件發行A股股票事項尚需透過上交所稽核，並獲得中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "5039560",
+      "time": "2026-08-13 20:53:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【德龍匯能：股價異動 澄清資產注入傳聞並提示風險】德龍匯能公告稱，8月12 - 13日公司股票收盤價格漲幅累計偏離20.87%，屬異常波動。近期有控股股東、實控人“擬注入半導體等資產”的不實傳聞，公司澄清截至公告披露日無資產注入計劃，且未來12個月無重大資產重組計劃。公司仍聚焦天然氣主業，無半導體業務。股東劉鑫於7月30日增持股份至1798.35萬股，佔總股本5.01%。目前公司基本面未變，但股價已嚴重偏離基本面，存在快速下跌風險，提醒投資者注意交易風險。"
+    },
+    {
+      "id": "mkt:019ffb2f-61f5-7aab-9025-d5dcd3987061",
+      "time": "2026-08-13 20:53:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "Fed's Hammack said U.S. Treasuries are an area he monitors for financial stability."
+    },
+    {
+      "id": "5039559",
+      "time": "2026-08-13 20:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐仕德首席財務官：日出風電專案營銷程序不太可能在2027年初之前啟動。"
+    },
+    {
+      "id": "mkt:019ffb2f-5917-7aab-9025-caa4ad05336d",
+      "time": "2026-08-13 20:53:31",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Fed's Hammack said large amounts of leverage are being used to buy government bonds."
+    },
+    {
+      "id": "5039558",
+      "time": "2026-08-13 20:53:06",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲在9月維持利率在3.50%-3.75%區間的機率約為65%，高於PPI報告發布前的約60%。"
+    },
+    {
+      "id": "te:markets:575111",
+      "time": "2026-08-13 20:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Slight Gains After PPI — US equity futures remained slightly higher amid soft producer price data, while AI companies mostly held their recent gains. The S&P 500 inched up to a record, while the Dow gained 0.3% and the Nasdaq 100 was flat. Chip stocks and companies with exposure to AI infrastructure held their strong gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and its recent purchase of Decart AI continued to underpin the outlook for compute expenditures. Micron, Nvidia, and Amazon were higher. Meanwhile, headline and core producer prices were lower than expected in July, aligned with the softer price pressures unveiled in yesterday's CPI report and consolidating market expectations that the latest data does note warrant a rate hike by the Federal Reserve next month."
+    },
+    {
+      "id": "mkt:019ffb2e-ba48-7aab-9025-c4282240017f",
+      "time": "2026-08-13 20:52:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "【U.S. initial jobless claims tick up; labor-market stability needs more data】U.S. initial jobless claims rose 9,000 to 209,000 in the week ended Aug. 8, the U.S. Department of Labor said Thursday, vs a median estimate of 202,000. Claims remain near historic lows; the increase may reflect typical summer volatility from seasonal hiring patterns and holiday scheduling. Economists said they will wait for more weekly readings before reassessing the recent stability of the labor market."
+    },
     {
       "id": "mkt:019ffb2e-0893-7aab-9025-bd2ae2547c8d",
       "time": "2026-08-13 20:52:05",
@@ -138432,95 +138553,6 @@
         "國際"
       ],
       "text": "歐盟委員布倫納：我們需要動用對摩洛哥的全部可用籌碼，例如簽證政策，以此爭取達成合作關係。"
-    },
-    {
-      "id": "5028994",
-      "time": "2026-08-06 20:55:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "MILLENNIUM與ANTHROPIC宣佈計劃共同開發人工智慧驅動的數字風險分析師，並擴大對ANTHROPIC最新前沿模型的測試。"
-    },
-    {
-      "id": "5028993",
-      "time": "2026-08-06 20:55:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛科通訊：國家積體電路產業基金減持410萬股 持股降至10%】盛科通訊公告稱，2026年7月21日至8月6日，持股5%以上股東國家積體電路產業投資基金股份有限公司透過集中競價方式減持公司股份410萬股，佔總股本的1%，持股比例由11%降至10%。除已披露減持計劃外，該股東未來12個月暫無明確增減持計劃。"
-    },
-    {
-      "id": "te:markets:573410",
-      "time": "2026-08-06 20:55:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Silver Holds Near 7-Week High — Silver pries were near the $62 per ounce mark on Thursday, remaining near the seven-week high from the previous session as markets reconsidered the likelihood that the Federal Reserve will hike rates this year. Fuel and natural gas prices held most of their pullback in August as the US presidential administration chased an agreement with Iran and GCC members that restores energy exports through the Persian Gulf. Lower risks that higher fuel prices would lift underlying inflation trimmed expectations that the Federal Reserve would raise rates this year. Industrial demand for silver also supported bids, as Chinese imports of silver-bearing ores surged 62.5% annually in June to 219,000 tonnes. The data was in line with an expanding production for solar panels and electricity grids. Still, lingering risks of a flare-up in energy prices maintained silver relatively close to the seven-month low of $55 per ounce from July 16th. On top of that, manufacturing demand in China was seen slowing,"
-    },
-    {
-      "id": "mkt:019fd724-520d-7aab-8fa2-2cf3b3ae9399",
-      "time": "2026-08-06 20:55:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "China Tech Giants"
-      ],
-      "text": "【ByteDance discussing training model with over 5 trillion parameters】ByteDance is discussing training a model exceeding 5 trillion parameters, which would surpass Alibaba’s Qwen3.8‑Max (2.4 trillion params) and Moonshot AI’s K3 (2.8 trillion) to become the largest-known model in China. The project is at an early stage and does not guarantee a release. It would be led by Seed Foundation head Xiang Liang with LLM pretraining-data lead Shen Ke. Seed is reorganizing its structure and reallocating responsibilities and resources to support the effort."
-    },
-    {
-      "id": "mkt:019fd724-0c2e-7aab-8fa2-26320c8a7e0a",
-      "time": "2026-08-06 20:54:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "World Gold Council said the Fed now shows strong aversion to inf. With the personal savings rate near historic lows, consumers may be less able to absorb sustained price rises. Consequently, another surge in inf could trigger policy tightening and slower economic growth, rather than a 1970s-style inflation outbreak."
-    },
-    {
-      "id": "mkt:019fd723-453c-7aab-8fa2-181c4fc828d6",
-      "time": "2026-08-06 20:54:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【U.S. initial jobless claims tick up but below forecasts; corporate layoffs fall】U.S. initial jobless claims rose 1,000 to 199,000 in the week ended Aug. 1, below the 202,000 consensus, keeping labor-market resilience intact. Claims have fallen sharply since an early-June spike, though some of the decline may reflect seasonal-adjustment challenges over the summer. Separately, announced corporate layoffs in July fell to a two-year low, concentrated in the tech sector; there is no sign yet that AI infrastructure build-out is triggering broad job losses, and layoffs remained low despite oil-price shocks from fighting involving the U.S., Israel and Iran."
-    },
-    {
-      "id": "5028992",
-      "time": "2026-08-06 20:53:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【微軟在印度開設第四處 Azure 資料中心區域】微軟公司宣佈，其在印度的第四處資料中心區域已正式投入運營。這是微軟在印度總計 205 億美元投資計劃的一部分，旨在拓展當地雲端計算與人工智慧能力。微軟在宣告中表示，該資料中心坐落於印度南部的海得拉巴地區並提供雲服務。印度擁有超 14 億人口，作為市場、人才與資料來源地，正越來越受到各大人工智慧企業的關注。印度擁有數百萬掌握機器學習與資料科學技能的工程師，塔塔諮詢服務、印孚瑟斯等全球大型科技服務企業也紮根於此。"
-    },
-    {
-      "id": "5028991",
-      "time": "2026-08-06 20:53:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【世界黃金協會：年初至今全球黃金ETF累計流入110億美元】世界黃金協會報告顯示，全球黃金掛鉤 ETF 7 月錄得 30 億美元資金流入，終結連續兩個月資金流出態勢。資金流入覆蓋全部地區，歐洲上市基金領漲。正向資金疊加金價走高，推動全球黃金 ETF 資產管理規模上漲 1% 至 5300 億美元，總持倉增加 23 噸至 4068 噸，但仍低於 2026 年 2 月 27 日創下的 4176 噸歷史最高持倉。年初至今，全球黃金 ETF 累計流入 110 億美元，對應持倉增加 39 噸。亞洲上市基金是這一階段全球資金流入的最大來源，歐洲緊隨其後；而北美依舊維持資金淨流出狀態。7 月全球黃金 ETF 重回資金流入，一方面源於投資者借金價低位選擇性重新入場，另一方面來自資產組合多元化配置的持續需求。歐洲投資者在 6 月拋售過後重新建立黃金倉位，抓住金價回落視窗重返市場。該走勢與今年早些時候類似：3 月美國主導的大規模贖回後，歐洲基金率先帶動市場反彈，說明市場下跌後投資者願意增持黃金敞口。亞洲 7 月黃金 ETF 資金流入 6.16 億美元，鞏固其作為年初至今全球最大資金流入地區的地位。"
     }
   ]
 }
