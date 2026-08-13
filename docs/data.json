@@ -1,7 +1,47 @@
 {
-  "updated": "2026-08-13 09:01:39",
-  "count": 15037,
+  "updated": "2026-08-13 09:05:39",
+  "count": 15030,
   "items": [
+    {
+      "id": "5038350",
+      "time": "2026-08-13 09:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州粵科低空創業投資基金合夥企業成立】企查查APP顯示，近日，廣州粵科低空創業投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由廣州開發區交通投資集團有限公司、廣東省新興產業投資基金合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "mkt:019ff8a3-fd7f-7aab-9015-c0e9ad90011e",
+      "time": "2026-08-13 09:02:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 626.68 points higher, +1.38%, at 46,144.75 on Thursday, Aug. 13."
+    },
+    {
+      "id": "mkt:019ff8a3-f216-7aab-9015-bb1cefe09e0c",
+      "time": "2026-08-13 09:02:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.64% in early trade on Aug 13 to 959.84 yuan/gram; Silver T+D rose 0.67% to 16,058.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019ff8a3-cdd4-7aab-9015-b0033cc70437",
+      "time": "2026-08-13 09:01:52",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.36% higher."
+    },
     {
       "id": "mkt:019ff8a2-9fbb-7aab-9015-aea8c201db85",
       "time": "2026-08-13 09:00:34",
@@ -137029,113 +137069,6 @@
         "Importance 1"
       ],
       "text": "Heating Oil Trades Near 3-Week Low — US heating oil futures fell below $3.80 per gallon, trading near a three-week low, as traders priced in improved supply prospects. Iran announced an agreement with Oman on a shipping route through the Strait of Hormuz, boosting expectations that more energy exports could flow through the strategic waterway. Iranian officials said a joint statement was being finalized and that the route was expected to remain operational for two to four months. They stressed, however, that the arrangement did not constitute a full reopening of the Strait. President Donald Trump also said talks with Tehran were ongoing. Even so, supply concerns lingered elsewhere. In Russia, diesel and gasoline exports plunged 60% in July after Ukrainian strikes disrupted refinery operations, prompting Moscow to extend its gasoline export ban through January 2027. Meanwhile, EIA data showed distillate inventories, including diesel and heating oil, fell by 3.473 million barrels in the week ended July 31."
-    },
-    {
-      "id": "mkt:019fd49a-9183-7aab-8f96-ce4dbb6b1597",
-      "time": "2026-08-06 09:05:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Wall Street Journal reports that since Wosh became Fed chair, President Trump has called him multiple times."
-    },
-    {
-      "id": "mkt:019fd49a-06fd-7aab-8f96-c45c88578518",
-      "time": "2026-08-06 09:04:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "DALY: The Fed still needs to collect data before deciding on future policy actions."
-    },
-    {
-      "id": "mkt:019fd499-f14d-7aab-8f96-bc6eaf1d8a04",
-      "time": "2026-08-06 09:04:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "DALY said she fully supports holding interest rates steady in July."
-    },
-    {
-      "id": "5027712",
-      "time": "2026-08-06 09:04:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【資料有了“身份證” 我國正穩步推進資料產權登記】據央視新聞，從國家資料局瞭解到，目前，國家資料局正穩步推進資料產權登記工作，加快全國一體化資料市場建設。資料產權登記，簡單理解就是為資料這一無形資產出具“身份證明”，類似於不動產登記中心給房產發放不動產權證書。目前，有需求的主體可以在按程式遴選的資料產權登記機構登記資料產權，國家資料管理部門負責全國資料產權登記相關管理工作。國家層面統一登記物件、登記型別、登記流程、審查標準、登記效力，最終實現“一次登記、全國通用”，降低資料流通使用成本，讓資料這一新型生產要素發揮出“乘數效應”。"
-    },
-    {
-      "id": "5027711",
-      "time": "2026-08-06 09:03:47",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【沃什出任美聯儲主席後，特朗普與其多次通電話】據知情人士透露，凱文・沃什就任美聯儲主席以來，美國總統特朗普已和他多次交談，總統與央行負責人之間保持這樣的溝通渠道，有悖於近年慣例。知情人士稱，特朗普給沃什打電話呈現間歇性特點：連續數日多次通話，之後又會沉寂較長一段時間。部分訊息人士表示，特朗普就一系列事務徵詢沃什的意見，包括伊朗戰事以及人工智慧飛速發展對經濟造成的影響。沃什履職尚不足三個月。目前尚不清楚特朗普與沃什是否討論過貨幣政策。一名瞭解談話內容的人士堅稱，自沃什獲得參議院任命以來，總統從未提及利率相關話題。"
-    },
-    {
-      "id": "mkt:019fd499-094b-7aab-8f96-b48455eb35f8",
-      "time": "2026-08-06 09:03:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "DALY: Federal Reserve faces different types of risks when setting interest-rate policy."
-    },
-    {
-      "id": "5027710",
-      "time": "2026-08-06 09:02:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普就伊朗問題和人工智慧對經濟的影響徵詢了沃什的意見。"
-    },
-    {
-      "id": "5027709",
-      "time": "2026-08-06 09:02:21",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "自沃什擔任美聯儲主席以來，特朗普已多次與其通話。"
-    },
-    {
-      "id": "5027708",
-      "time": "2026-08-06 09:02:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：目前尚不清楚特朗普和沃什是否討論了貨幣政策。"
-    },
-    {
-      "id": "5027705",
-      "time": "2026-08-06 09:02:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什在與特朗普的通話中對經濟前景表示樂觀。"
-    },
-    {
-      "id": "5027704",
-      "time": "2026-08-06 09:01:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4300美元/盎司，日內漲1.31%。"
     }
   ]
 }

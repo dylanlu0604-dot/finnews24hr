@@ -1,7 +1,47 @@
 {
   "date": "2026-08-13",
-  "count": 517,
+  "count": 521,
   "items": [
+    {
+      "id": "5038350",
+      "time": "2026-08-13 09:02:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州粵科低空創業投資基金合夥企業成立】企查查APP顯示，近日，廣州粵科低空創業投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由廣州開發區交通投資集團有限公司、廣東省新興產業投資基金合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "mkt:019ff8a3-fd7f-7aab-9015-c0e9ad90011e",
+      "time": "2026-08-13 09:02:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 626.68 points higher, +1.38%, at 46,144.75 on Thursday, Aug. 13."
+    },
+    {
+      "id": "mkt:019ff8a3-f216-7aab-9015-bb1cefe09e0c",
+      "time": "2026-08-13 09:02:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.64% in early trade on Aug 13 to 959.84 yuan/gram; Silver T+D rose 0.67% to 16,058.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019ff8a3-cdd4-7aab-9015-b0033cc70437",
+      "time": "2026-08-13 09:01:52",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.36% higher."
+    },
     {
       "id": "mkt:019ff8a2-9fbb-7aab-9015-aea8c201db85",
       "time": "2026-08-13 09:00:34",
