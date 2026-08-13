@@ -1,7 +1,279 @@
 {
   "date": "2026-08-13",
-  "count": 2379,
+  "count": 2408,
   "items": [
+    {
+      "id": "5039597",
+      "time": "2026-08-13 21:04:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國紅十字會總會向河南災區調撥救災物資】8月13日，針對河南省多地洪澇災害，中國紅十字會總會啟動應急響應，根據當地救災需求緊急向受災地區調撥賑濟家庭包3500個，用於災區群眾轉移安置和生活保障工作。（央視新聞）"
+    },
+    {
+      "id": "5039596",
+      "time": "2026-08-13 21:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國石油擴大與艾默生的合作，以最大限度提升天然氣回收及加工效率。"
+    },
+    {
+      "id": "te:markets:575116",
+      "time": "2026-08-13 21:04:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "DXY After PPI Report — The dollar index fell to around 99.9 on Thursday after softer-than-expected US producer inflation eased concerns over renewed price pressures and strengthened expectations for a cautious Federal Reserve policy stance. The Producer Price Index was unchanged in July, missing forecasts for a 0.2% increase, while recent consumer price data also pointed to moderating inflation. As a result, traders increased bets that the Fed will leave interest rates unchanged at its September 15-16 meeting, with markets pricing around a 65% probability of a hold. The latest figures suggest that the initial inflationary impact of the Middle East conflict and higher energy costs may be fading. However, renewed tensions in the region continue to pose risks to the inflation outlook. Meanwhile, weekly jobless claims increased but remained historically low, although recent employment data indicated that the US labor market has been weaker than previously estimated."
+    },
+    {
+      "id": "5039595",
+      "time": "2026-08-13 21:03:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國郵政與寧德時代達成戰略合作】近日，中國郵政集團與寧德時代正式簽署戰略合作協議。雙方將發揮各自優勢，以綠色金融促進物流行業低碳化轉型，共同踐行高質量發展：構建物流“電池銀行”生態、打造零碳物流示範體系、提供嵌入式供應鏈物流服務、深化綠色金融與生態協同。"
+    },
+    {
+      "id": "mkt:019ffb38-a271-7aab-9026-6b896a68afe1",
+      "time": "2026-08-13 21:03:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【Fed's Hammack: I do not believe inf will continue to improve】Hammack said the last two inf reports were encouraging but he is not confident inf will continue to improve and that Americans face real pressure from inf. He added that private credit and whether AI is in a bubble merit attention, employment data is noisy, and with large amounts of leverage being used to buy Treasuries he watches Treasuries for financial-stability risk."
+    },
+    {
+      "id": "5039594",
+      "time": "2026-08-13 21:03:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈康生命：2026年上半年淨利潤6739.59萬元，同比增9.01%】盈康生命公告，2026年上半年營業收入10.16億元，同比增長20.56%。歸屬於上市公司股東的淨利潤6739.59萬元，同比增長9.01%；扣非淨利潤6375.17萬元，同比增長5.22%。公司計劃不派發現金紅利，不送紅股，不以公積金轉增股本。"
+    },
+    {
+      "id": "5039593",
+      "time": "2026-08-13 21:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微半導體(AMD) 宣佈發行四部分系列優先票據。"
+    },
+    {
+      "id": "5039592",
+      "time": "2026-08-13 21:03:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "百事公司自營業務全球電力需求中96%（約4,300吉瓦時）來自可再生能源。"
+    },
+    {
+      "id": "mkt:019ffb38-26b4-7aab-9026-62892d2af877",
+      "time": "2026-08-13 21:03:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China CDC weekly surveillance: national SARS‑CoV‑2 test positivity falls; northern provinces continue to rise】China CDC said its weekly sentinel surveillance for Aug. 3–9 showed national SARS‑CoV‑2 test positivity declined and remains at a moderate epidemic level. The dominant lineage was NB.1.8.1. Southern provinces registered lower positivity this week while northern provinces continued to see rising positivity. The 15–59 age group had the highest positivity."
+    },
+    {
+      "id": "mkt:019ffb37-f525-7aab-9026-5d0294283810",
+      "time": "2026-08-13 21:02:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Israel Defense Forces killed a Hamas commander in Gaza."
+    },
+    {
+      "id": "5039591",
+      "time": "2026-08-13 21:02:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍在加沙打擊一名哈馬斯連級指揮官。"
+    },
+    {
+      "id": "5039590",
+      "time": "2026-08-13 21:02:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納芯微：預計2026年上半年淨利潤約6700萬元，同比扭虧為盈】納芯微公告，預計2026年上半年實現營業收入約25.4億元，同比增長約66.70%；歸屬於母公司所有者的淨利潤約6700萬元，較上年同期的-7801萬元增加1.45億元左右，由虧損轉為盈利；扣非淨利潤約-4800萬元，虧損收窄5764.03萬元左右。"
+    },
+    {
+      "id": "5039589",
+      "time": "2026-08-13 21:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯航空：第二季度利潤8790萬迪拉姆，同比下降75%。"
+    },
+    {
+      "id": "5039588",
+      "time": "2026-08-13 21:02:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：勞動力方面表現依舊相當穩健。"
+    },
+    {
+      "id": "5039587",
+      "time": "2026-08-13 21:01:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：我們需要更快將通脹降至2%。"
+    },
+    {
+      "id": "mkt:019ffb36-e5d5-7aab-9026-545d73e77dfc",
+      "time": "2026-08-13 21:01:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Climate Prediction Center (CPC) says El Nifio is strengthening; probability of a strong El Nifio event in the 2026-27 northern hemisphere autumn-winter exceeds 90%."
+    },
+    {
+      "id": "5039586",
+      "time": "2026-08-13 21:01:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：但我並不確信這種向好態勢能夠持續。"
+    },
+    {
+      "id": "5039585",
+      "time": "2026-08-13 21:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：最近兩份通脹報告資料明顯好轉。"
+    },
+    {
+      "id": "mkt:019ffb36-b1b9-7aab-9026-4f8384c1f629",
+      "time": "2026-08-13 21:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Climate Prediction Center (CPC) issued its monthly El Niño alert."
+    },
+    {
+      "id": "5039584",
+      "time": "2026-08-13 21:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek Harness 的開發者預覽版（v0.1 版本）面向全球 Harness 開發者開放測試】DeepSeek Harness釋出訊息：今天，DeepSeekHarness的開發者預覽版（v0.1版本）面向全球Harness開發者開放測試，並同步以MIT協議開放原始碼。作為早期預覽版本，當前仍有許多細節有待改進和打磨，核心外掛與基礎介面也將在後續快速迭代演進。我們期待聽到廣大Harness開發者的反饋與建議。DeepSeekHarness採取“一切皆外掛”的設計思路。我們採用外掛式開放架構來構建AgentHarness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI等所有Agent能力均由外掛組合而成，可自由替換、靈活重組。"
+    },
+    {
+      "id": "mkt:019ffb36-56d3-7aab-9026-44c5aa5364ca",
+      "time": "2026-08-13 21:01:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's HAMMACK said Americans face real pressure from inf."
+    },
+    {
+      "id": "mkt:019ffb36-3735-7aab-9026-38167ee40da9",
+      "time": "2026-08-13 21:01:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Industry data show Russia's seaborne refined oil product exports fell 33% MoM in July versus June."
+    },
+    {
+      "id": "5039583",
+      "time": "2026-08-13 21:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "BMC Helix將部署於甲骨文雲基礎設施。"
+    },
+    {
+      "id": "mkt:019ffb36-2b13-7aab-9026-3458ef8e97f9",
+      "time": "2026-08-13 21:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed official Hammack said the two recent inflation reports are encouraging but he is not confident inflation will continue to improve in that direction."
+    },
+    {
+      "id": "5039582",
+      "time": "2026-08-13 21:00:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "BMC Helix擴大與甲骨文公司的合作。"
+    },
+    {
+      "id": "5039581",
+      "time": "2026-08-13 21:00:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國氣候預測中心（CPC）天氣預報部門：厄爾尼諾現象正在增強，2026至2027年北半球秋冬季節出現極強厄爾尼諾事件的機率超過90%。"
+    },
+    {
+      "id": "5039580",
+      "time": "2026-08-13 21:00:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內漲1%，現報878.00元。"
+    },
+    {
+      "id": "5039579",
+      "time": "2026-08-13 21:00:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內漲1%，現報1042.00元。"
+    },
+    {
+      "id": "5039578",
+      "time": "2026-08-13 21:00:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯航空：受當前地區衝突影響，上半年運營運力有所下降。"
+    },
     {
       "id": "mkt:019ffb35-9825-7aab-9026-2e6cb7ad90b3",
       "time": "2026-08-13 21:00:21",
