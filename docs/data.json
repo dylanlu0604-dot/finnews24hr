@@ -1,7 +1,79 @@
 {
-  "updated": "2026-08-14 00:17:16",
-  "count": 15240,
+  "updated": "2026-08-14 00:21:13",
+  "count": 15247,
   "items": [
+    {
+      "id": "5039882",
+      "time": "2026-08-14 00:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲打死加沙市警察局長】當地時間13日，巴勒斯坦加沙地帶內政部門發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。（央視新聞）"
+    },
+    {
+      "id": "5039881",
+      "time": "2026-08-14 00:18:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報1318.54美元/盎司。"
+    },
+    {
+      "id": "5039880",
+      "time": "2026-08-14 00:17:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4410美元/盎司，日內跌1.33%。"
+    },
+    {
+      "id": "te:economy:575169",
+      "time": "2026-08-14 00:17:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "30 Year Mortgage Rate",
+        "Importance 1"
+      ],
+      "text": "US Mortgage Rates Break Five-Week Rising Streak — US 30-year fixed mortgage rates edged down to 6.67% as of August 13, 2026, from 6.69% the previous week, ending a streak of five consecutive weekly increases. Freddie Mac Chief Economist Sam Khater said mortgage rates remained relatively stable, while improved housing affordability and recent increases in purchase and refinance applications suggest borrowers continue to respond to modest rate changes. A year earlier, the 30-year fixed-rate mortgage averaged 6.58%. Meanwhile, the 15-year fixed mortgage rate fell to 5.96% from 6.01% a week earlier."
+    },
+    {
+      "id": "te:markets:575168",
+      "time": "2026-08-14 00:17:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Flat — The FTSE MIB closed little changed at 53,693 on Thursday, remaining in a narrow range after reaching record levels earlier in the week, as positive developments across sectors offset broader macroeconomic concerns. Saipem rose 3.6% after securing a $2 billion offshore contract in the Middle East. Nexi advanced 2.4% following reports that CDP is preparing to increase its stake to 29.9%, becoming the company’s largest shareholder without launching a takeover bid. UniCredit gained 0.8% amid reports that the ECB is leaning toward approving its takeover bid for Commerzbank, with the stock reaching its highest level in nearly 17 years. On the downside, uncertainty over Middle East peace talks kept energy markets volatile, with oil and natural gas prices remaining elevated. Unipol, Inwit and Moncler fell less than 1%. Eni slipped 0.9%, tracking lower global oil prices. In turn, utilities extended their recent decline."
+    },
+    {
+      "id": "te:markets:575167",
+      "time": "2026-08-14 00:17:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Falls for 2nd Day — The DAX 40 moved into the red to close marginally down at 26,292 on Thursday, the second day of losses, despite remaining close to recent record highs. Falling oil prices and reduced concerns over interest rates provided support, but uncertainty over the Iran conflict kept investors cautious. Meanwhile, attention remained focused on corporate earnings as the reporting season drew to a close. Among key movers, BASF (-2%), Mercedes-Benz Group (-1.5%) and Volkswagen (-1.3%) posted the biggest declines. On the upside, Continental emerged as the top performer, rising around 3%. RWE gained 2.5% after reporting better-than-expected first-half profit, helped by a Dutch compensation payment and stronger energy trading, while reaffirming its 2026 dividend and long-term profit targets."
+    },
+    {
+      "id": "mkt:019ffbe9-e774-7aab-902a-ef3a2765d25f",
+      "time": "2026-08-14 00:17:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Ukraine proposed a ceasefire to Russia in the Black Sea."
+    },
     {
       "id": "mkt:019ffbe9-6a46-7aab-902a-e30dc00fe44d",
       "time": "2026-08-14 00:16:45",
@@ -9,6 +81,14 @@
         "MKT News"
       ],
       "text": "Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them."
+    },
+    {
+      "id": "5039879",
+      "time": "2026-08-14 00:16:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息，義大利部長烏爾索預計西西里島將迎來資料中心投資。"
     },
     {
       "id": "te:markets:575166",
@@ -139420,18 +139500,6 @@
         "Importance 0"
       ],
       "text": "European Stocks Close at Records — European stocks closed slightly higher on Thursday amid support from strong earnings reports and a rebound for the tech sector. The Euro STOXX 50 added 0.4% to 6,503 and the STOXX Europe 600 added 0.2% to 658, both at record highs. Deutsche Telekom surged 6.3% after delivering strong earnings, raising its guidance, and lifting its share buyback to $3.5 billion. On top of that, Hermes advanced 5.1% after receiving an upgrade from Berenberg. Meanwhile, ASML and Siemens Energy gained 2% each amid a rebound for companies with exposure to AI infrastructure in Europe. In the meantime, Rheinmetall fell 3.5% after it revised its outlook downwards, which reflected the impact of a German government order cancellation earlier this year. Also, Siemens dropped 4.5% as its quarterly results missed the upper range of estimates, even though the company reported record industrial profit and a record level of new orders."
-    },
-    {
-      "id": "te:economy:573465",
-      "time": "2026-08-07 00:17:27",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US 30-Year Mortgage Rate Rises to 1-Year High — The average rate on a 30-year fixed mortgage in the US rose to 6.69% as of August 8, 2026, from 6.66% a week earlier, marking a fifth consecutive weekly increase and the highest level since late July 2025. Mortgage rates continued to climb as the war with Iran and the Federal Reserve's decision to keep interest rates unchanged fueled inflation concerns. The rise in borrowing costs has further strained affordability, keeping many prospective homebuyers on the sidelines. As a result, applications for new mortgages declined in the final two weeks of July, according to the Mortgage Bankers Association. Still, “While mortgage rates continue to influence affordability, the housing market is showing signs of adjustment, with listing prices modestly below year-ago levels and for-sale inventory improving from the limited supply seen in recent years.”, said Sam Khater, Freddie Mac's Chief Economist."
     }
   ]
 }
