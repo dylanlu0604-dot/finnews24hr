@@ -1,7 +1,94 @@
 {
   "date": "2026-08-13",
-  "count": 1529,
+  "count": 1539,
   "items": [
+    {
+      "id": "5038974",
+      "time": "2026-08-13 16:36:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【北特科技：股票交易異常波動 不存在應披露未披露重大資訊】北特科技公告稱，8月11日至8月13日，公司股票連續三個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。經自查及向控股股東、實控人核實，截至目前，不存在應披露而未披露的重大資訊，公司生產經營正常，未發現需澄清的媒體報道或市場傳聞。此外，公司提醒投資者注意交易、商譽減值等風險。"
+    },
+    {
+      "id": "5038973",
+      "time": "2026-08-13 16:35:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昇輝科技：新增熱管理、智慧換電兩大業務板塊】據昇輝科技訊息，近日，公司持續深化產業佈局、拓寬業務版圖，在原有成熟業務基礎上，全新增設熱管理與智慧換電兩大業務板塊。公司原有核心業務涵蓋智慧電氣成套裝置、綜合安全系統（自響應防滅火貼片、智慧滅火系統）、新能源等板塊。"
+    },
+    {
+      "id": "5038972",
+      "time": "2026-08-13 16:35:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百邦科技：定增申請獲深交所受理】百邦科技公告，公司近日收到深交所出具的《關於受理北京百華悅邦科技股份有限公司向特定物件發行股票申請檔案的通知》，深交所認為申請檔案齊備，決定予以受理。本次向特定物件發行股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊後方可實施。"
+    },
+    {
+      "id": "5038971",
+      "time": "2026-08-13 16:35:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西藏藥業：2026年半年度淨利潤6.08億元同比增7.16%】西藏藥業公告，2026年半年度營業收入15.54億元，同比下降5.83%；歸屬於上市公司股東的淨利潤6.08億元，同比增長7.16%；歸屬於上市公司股東的扣除非經常性損益的淨利潤4.4億元，同比下降19.00%。公司擬以總股本扣除回購專戶股份為基數，向全體股東每股派發現金紅利1.15元（含稅）。"
+    },
+    {
+      "id": "5038970",
+      "time": "2026-08-13 16:34:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊茵集團執行長：北萊茵-威斯特法倫州的退出煤炭發電已有明確法律期限，我們尚未收到政府的最新通知。"
+    },
+    {
+      "id": "mkt:019ffa42-051a-7aab-901f-5b4b227f5863",
+      "time": "2026-08-13 16:34:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【India doubles installed capacity to shore supply; transmission lag constrains delivery】India's peak power demand topped 270 GW for the first time, roughly 70% higher than a decade ago. Installed capacity has nearly doubled over 10 years to about 552 GW, with non‑fossil sources now exceeding 300 GW. The government plans roughly $109bn of transmission investment through 2032, but grid build‑out is slower and more complex than solar plant construction: transmission corridors require land, rights‑of‑way, towers, transformers and multiple approvals, and incomplete towers can stall entire lines. Generation growth has kept pace with demand growth, but delivery constraints heighten near‑term demand for transmission, storage and financially sustainable distribution to make power available where and when needed."
+    },
+    {
+      "id": "5038969",
+      "time": "2026-08-13 16:34:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐控股根據港交所披露檔案，8月12日在其他交易所合計回購140萬股股票，總金額為2100萬英鎊。"
+    },
+    {
+      "id": "5038968",
+      "time": "2026-08-13 16:33:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿曼7月消費者價格指數同比上漲3.2%"
+    },
+    {
+      "id": "mkt:019ffa40-d17e-7aab-901f-55535b333d0c",
+      "time": "2026-08-13 16:32:59",
+      "tags": [
+        "MKT News",
+        "CSCO.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raises Cisco (CSCO.O) price target to $135 from $130."
+    },
+    {
+      "id": "5038967",
+      "time": "2026-08-13 16:32:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中信重工：中信重工關於設立全資子公司實施投資專案的公告】中信重工：擬出資3億元設立全資子公司實施高階耐磨材料基地專案，專案總投資9.43億元。中信重工公告，公司擬出資3億元設立全資子公司中信重工（山西）特種材料科技有限公司，實施高階耐磨材料基地專案，專案總投資9.43億元，建設期計劃24個月。"
+    },
     {
       "id": "mkt:019ffa40-4f28-7aab-901f-4d9f1ff512c0",
       "time": "2026-08-13 16:32:26",
