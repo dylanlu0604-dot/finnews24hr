@@ -1,7 +1,76 @@
 {
   "date": "2026-08-13",
-  "count": 2441,
+  "count": 2449,
   "items": [
+    {
+      "id": "5039627",
+      "time": "2026-08-13 21:20:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同有科技：向特定物件發行A股股票申請獲深交所受理】同有科技公告，公司於2026年8月13日收到深圳證券交易所出具的《關於受理北京同有飛驥科技股份有限公司向特定物件發行股票申請檔案的通知》，深交所認為申請檔案齊備，決定予以受理。本次向特定物件發行A股股票事項尚需透過深交所稽核，並獲得中國證監會同意註冊的批覆後方可實施。"
+    },
+    {
+      "id": "5039626",
+      "time": "2026-08-13 21:20:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西Suzano高管稱，該公司認為厄爾尼諾現象可能對亞洲紙漿木材供應構成風險。"
+    },
+    {
+      "id": "5039625",
+      "time": "2026-08-13 21:20:07",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "X-ENERGY 執行長表示，美國能源部已通知公司，其在得克薩斯州的小型核電站專案將再獲得高達10億美元的公共資金。"
+    },
+    {
+      "id": "mkt:019ffb47-a327-7aab-9026-bc7f4656b083",
+      "time": "2026-08-13 21:20:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HSBC raises CoreWeave PT to $39 from $36."
+    },
+    {
+      "id": "te:economy:575118",
+      "time": "2026-08-13 21:19:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "South Africa 10-Year Bond Yield Edges Down — South Africa's 10-year government bond yield eased to around 8.58%, down from an over one-week high of 8.61% hit on August 12, as falling oil prices eased inflation concerns and reduced bets for monetary policy tightening. Meanwhile, expectations of a softer US rate path supported demand for emerging-market assets, including South African bonds. On the domestic economic front, South Africa’s inflation rate rose to 5.0% in June 2026 from 4.5% in May, remaining well above the South African Reserve Bank’s (SARB) 3% target. Despite the increase, the central bank unexpectedly kept the repo rate unchanged at 7.0%, saying the 25-basis-point hike in May was sufficient to keep inflation pressures contained."
+    },
+    {
+      "id": "5039624",
+      "time": "2026-08-13 21:19:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東海外品牌JOYBUY過去兩個季度內實現收入翻番】京東集團CEO許冉在今日的財報業績會上稱，京東旗下的海外品牌JOYBUY透過高效的自營零售和物流履約能力，帶動使用者留存率的穩定提升，並推動該業務兩個季度內實現收入翻番。"
+    },
+    {
+      "id": "5039623",
+      "time": "2026-08-13 21:18:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta 為 Quest 頭顯上線原生 Threads 應用】Meta 宣佈旗下 Threads 社交平臺現已登陸 Quest 平臺，使用者可以透過 Quest 頭顯或手機端應用市場下載 App。Meta 表示，將 Threads 帶到 Quest 平臺是為了打造更加緊密的社交體驗，讓使用者在玩遊戲或觀看內容的同時，也能繼續與自己的社交圈保持聯絡。"
+    },
+    {
+      "id": "5039622",
+      "time": "2026-08-13 21:18:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "一位高管表示，巴西 Suzano 公司認為8月份亞洲紙漿市場環境更具建設性，預計下半年表現將強於上半年。"
+    },
     {
       "id": "mkt:019ffb44-1634-7aab-9026-b6fbea1cce89",
       "time": "2026-08-13 21:16:11",
