@@ -1,7 +1,112 @@
 {
   "date": "2026-08-13",
-  "count": 683,
+  "count": 695,
   "items": [
+    {
+      "id": "5038468",
+      "time": "2026-08-13 10:15:23",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金：海外工程機械需求超預期 後續海外建築終端需求有望繼續走強】中金髮布研報稱，近日全球工程機械主機廠釋出2Q26業績，目前工程機械國內主機廠海外收入佔比約60%。該行認為後續海外建築終端需求有望繼續走強，具體來看資料中心及租賃需求帶動北美需求，拉丁美洲主要受公共投資帶動。建議關注三一重工，徐工機械‌，恆立液壓‌，中聯重科，卡特彼勒，維持盈利預測、評級及目標價不變。"
+    },
+    {
+      "id": "mkt:019ff8e6-83dd-7aab-9017-263f0b655f78",
+      "time": "2026-08-13 10:14:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai to issue compute-power, model and training-data vouchers to lower digital input costs】Shanghai issued an action plan to implement measures to boost private investment, including measures to reduce costs for public data, compute, models and training data. The city will provide compute subsidies in accordance with law and support private firms renting smart-computing resources for large-model R&D, training and deployment. Higher-education institutions, research institutes and state-owned firms are encouraged to use data storage and compute resources built by private and other market entities. Shanghai will publish and dynamically update a public-data openness list and support private firms in deep development and scenario-based use of specific public data. The plan promotes issuance of compute-power vouchers, model vouchers and training-data vouchers to lower usage costs of digital inputs, and supports private participation in digital transformation projects across transport, logistics and public services. It also encourages private-led demonstration projects for new infrastructure such as blockchain applications and robotics at scale."
+    },
+    {
+      "id": "5038467",
+      "time": "2026-08-13 10:14:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：完善上海市重點產業地圖，聚焦積體電路、生物醫藥、人工智慧三大先導產業】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，完善上海市重點產業地圖，聚焦積體電路、生物醫藥、人工智慧三大先導產業，新型智慧終端、智慧機器人、商業航天、衛星網際網路、低空經濟、先進材料等新興支柱產業細分賽道，量子科技、腦機介面等未來前沿技術，以及資訊服務、專業服務、工業服務等生產性服務業，加大精準招商、產業鏈招商力度，進一步挖掘民間投資機會潛力。落實國家關於清理不合理的服務業經營主體准入限制的要求，嚴禁在環保、衛生、安保、質檢、消防等方面的准入條件之外違規設定障礙。在前沿產業和競爭性產業領域進一步最佳化國企佈局，形成有進有退的機制，透過投資合作、重組併購、產業共建、搭建聯盟等方式與民營企業加強合作，在光子晶片與器件、氫能與儲能、衛星網際網路、基因與細胞治療、可控核聚變、低空經濟等前沿領域聯合開展技術開源、專案合作、技術轉讓。"
+    },
+    {
+      "id": "mkt:019ff8e6-5627-7aab-9017-1f6b0a000f97",
+      "time": "2026-08-13 10:14:32",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "【Shanghai backs recommending private firms for state‑approved rail, nuclear projects】Shanghai issued an action plan to implement measures to boost private investment, saying it will support recommending private enterprises to participate in projects subject to national approval in rail, nuclear power, hydropower, cross‑provincial DC transmission corridors, oil and gas pipelines, imported LNG receiving and storage/transport facilities, and water supply to raise private capital participation in major national infrastructure. The plan directs private firms to use involvement in national projects to expand energy and transport sector footprints and to increase investment in R&D and manufacturing of high‑end energy equipment."
+    },
+    {
+      "id": "5038466",
+      "time": "2026-08-13 10:14:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨在連續六天上漲後下跌1.05美元，至每桶87.93美元，投資者正在評估墨西哥灣的供應和石油需求。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608133840147936",
+      "time": "2026-08-13 10:13:56",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【沃什欲“手動降低”美聯儲透明度？華爾街警告：恐會付出代價！】在7月議息會議後的新聞釋出會上，沃什被問及刻意減少向市場發聲、特別是拒絕提供前瞻指引到底意欲何為。他回應稱，美聯儲不必始終成為市場關注的焦點，希望投資者能夠獨立於美聯儲的訊息進行交易，使得央行決策者能夠獲得有關美國經濟狀況的真實、未被“過濾”的訊號。"
+    },
+    {
+      "id": "5038465",
+      "time": "2026-08-13 10:13:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：推廣發放“算力券”“模型券”“語料券”，降低公共資料、算力、模型、語料等數字要素的使用成本】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，依法依規開展算力補貼，支援民營企業租用智算資源進行大模型研發訓練和應用，鼓勵高等院校、科研機構、國有企業使用包括民營企業在內的各類經營主體建設的資料儲存和算力資源。釋出公共資料開放清單並動態更新，支援民營企業對特定公共資料進行深度開發與場景化利用，推廣發放“算力券”“模型券”“語料券”，降低公共資料、算力、模型、語料等數字要素的使用成本。培育城市數字化轉型標杆企業和平臺企業，引導民營企業參與交通、物流、公共服務等領域數字化轉型專案建設和場景運營。鼓勵民營企業建設區塊鏈應用、機器人規模化應用等新型基礎設施示範專案。"
+    },
+    {
+      "id": "5038464",
+      "time": "2026-08-13 10:13:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量1494億元。"
+    },
+    {
+      "id": "5038463",
+      "time": "2026-08-13 10:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：鼓勵民營企業進入虛擬電廠、車網互動、新型儲能等領域，對民間投資專案依法依規給予支援】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，聚焦低空基礎設施、內河航運、能源等重點領域，本市各級投資主管部門在專案審批（核准）過程中，需開展民間資本參與專案建設論證，按許可權稽核民間資本參與情況，鼓勵民間資本積極參與。鼓勵民營企業進入虛擬電廠、車網互動、新型儲能等領域，對民間投資專案依法依規給予支援。鼓勵民營物流企業完善物流網路設施建設，加快智慧化綠色化轉型，支援透過合作、合資、租賃、委託經營等多元化模式，參與國有企業和集體經濟低效倉儲資源盤活。規範實施政府和社會資本合作新機制，根據國家支援民營企業參與的特許經營專案清單，嚴格特許經營方案稽核，對符合規定的專案加強管理服務。"
+    },
+    {
+      "id": "5038462",
+      "time": "2026-08-13 10:12:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "CPO概念股持續拉昇，天孚通訊、德科立漲超10%，共進股份此前漲停，炬光科技、華懋科技、東山精密、銳捷網路漲超5%。"
+    },
+    {
+      "id": "5038461",
+      "time": "2026-08-13 10:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滁河、沙潁河發生2026年第1號洪水】受降雨影響，長江下游支流滁河、淮河中游支流沙潁河分別發生2026年第1號洪水。長江下游支流滁河，湖北漢江支流清河，河南沙潁河及支流澧河、北汝河、沙河、潁河、康溝河、洪汝河支流洪河，新疆和田河支流玉龍喀什河等10條河流發生超警以上洪水，最大超警幅度0.05～3.68米。"
+    },
+    {
+      "id": "5038460",
+      "time": "2026-08-13 10:12:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：支援推薦民營企業參與國家審批（核准）的鐵路、核電等領域專案】上海印發《上海市貫徹落實〈關於進一步促進民間投資發展的若干措施〉的行動方案》。其中提到，支援推薦民營企業參與國家審批（核准）的鐵路、核電、水電、跨省跨區直流輸電通道、油氣管道、進口液化天然氣接收和儲運設施、供水等領域專案，提升民間資本在國家重大基礎設施專案建設的參與度。引導民營企業透過參與國家重大專案拓展能源、交通領域產業佈局，加強在高階能源裝備研發、製造等細分領域投資。"
+    },
     {
       "id": "mkt:019ff8e2-931c-7aab-9017-1180ce93c02a",
       "time": "2026-08-13 10:10:26",
