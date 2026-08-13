@@ -1,7 +1,85 @@
 {
-  "updated": "2026-08-14 00:13:15",
-  "count": 15232,
+  "updated": "2026-08-14 00:17:16",
+  "count": 15240,
   "items": [
+    {
+      "id": "mkt:019ffbe9-6a46-7aab-902a-e30dc00fe44d",
+      "time": "2026-08-14 00:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them."
+    },
+    {
+      "id": "te:markets:575166",
+      "time": "2026-08-14 00:16:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "STOXX 50 Closes at Record High — European stocks closed mostly higher on Thursday with support strong earnings results across multiple sectors. The Euro STOXX 50 gained 0.2% to 6,544 and the STOXX Europe 600 inched down to 659. ASML added 2.7%, closing sharply higher for a second session and tracking the AI infrastructure sector in the US and Asia on the sector's respite. On top of that, Adyen surged 16.4% after raising its revenue forecast for the current year. Danish shipping giant Maersk surged 9.4% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations."
+    },
+    {
+      "id": "5039878",
+      "time": "2026-08-14 00:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，底特律汽車製造商將向白宮表示，修訂後的北美貿易協定可能令它們損失數十億美元。"
+    },
+    {
+      "id": "mkt:019ffbe8-5fdc-7aab-902a-db14f31c0c4c",
+      "time": "2026-08-14 00:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Moody's vice president says Moody's expects to raise its forecast for Peru's 2026 GDP growth from 3.0% to 3.5%."
+    },
+    {
+      "id": "5039877",
+      "time": "2026-08-14 00:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯國防部長會見伊拉克武裝部隊總司令辦公室主任，討論軍事和防務領域的關係。"
+    },
+    {
+      "id": "mkt:019ffbe7-ac90-7aab-902a-d0a81819e59a",
+      "time": "2026-08-14 00:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi defense minister met the director of the Office of the Commander of the Iraqi Armed Forces to discuss military and defense ties, Saudi media Alhadath reported."
+    },
+    {
+      "id": "5039876",
+      "time": "2026-08-14 00:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：穆迪擬將秘魯2026年GDP增長預估從3.0%上調至3.5%。"
+    },
+    {
+      "id": "mkt:019ffbe6-d09e-7aab-902a-ce23011e517d",
+      "time": "2026-08-14 00:13:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chang'e-6 lunar soil study yields new evidence on Moon near and far side differences】The China Geological Survey (Ministry of Natural Resources) said researchers at the Institute of Geology, Chinese Academy of Geological Sciences have made progress analysing Chang'e-6 lunar soil samples, providing new evidence on the pronounced compositional differences between the Moon's near and far sides."
+    },
+    {
+      "id": "5039875",
+      "time": "2026-08-14 00:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Citadel甚至對部分分析師也施加了為期兩年的競業禁止協議】Ken Griffin 的 Citadel 公司要求投資人員（包括一些分析師）簽署長達兩年的競業禁止協議。員工的競業禁止期與員工的總薪酬掛鉤，投資組合經理或分析師的收入越高，競業禁止期就越長。該公司的競業禁止協議可能會對員工的職業生涯產生影響，一位招聘人員表示，被禁賽兩年“實際上會毀掉他們的職業生涯”。"
+    },
     {
       "id": "te:markets:575165",
       "time": "2026-08-14 00:12:08",
@@ -139354,18 +139432,6 @@
         "Importance 1"
       ],
       "text": "US 30-Year Mortgage Rate Rises to 1-Year High — The average rate on a 30-year fixed mortgage in the US rose to 6.69% as of August 8, 2026, from 6.66% a week earlier, marking a fifth consecutive weekly increase and the highest level since late July 2025. Mortgage rates continued to climb as the war with Iran and the Federal Reserve's decision to keep interest rates unchanged fueled inflation concerns. The rise in borrowing costs has further strained affordability, keeping many prospective homebuyers on the sidelines. As a result, applications for new mortgages declined in the final two weeks of July, according to the Mortgage Bankers Association. Still, “While mortgage rates continue to influence affordability, the housing market is showing signs of adjustment, with listing prices modestly below year-ago levels and for-sale inventory improving from the limited supply seen in recent years.”, said Sam Khater, Freddie Mac's Chief Economist."
-    },
-    {
-      "id": "te:markets:573464",
-      "time": "2026-08-07 00:14:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Advances as Luxury Stocks Gain — The CAC 40 rose 0.3% to close at 8,670 on Thursday, extending its winning streak to six sessions on gains in the luxury sector. Luxury stocks rose after strong quarterly results from Chanel. Hermès jumped 5.2% after being named a top sector pick by Berenberg. Kering rose 1.9%, while LVMH (+0.4%) and L'Oréal (+0.5%) also advanced. Meanwhile, private-sector payroll employment fell 0.1% quarter-on-quarter, or 19,300 jobs, to 21 million in the second quarter, in line with expectations. Signs of a cooling labor market could support a more dovish stance from the ECB. Financial stocks advanced, with BNP Paribas up 0.4% and AXA gaining 0.8%. Also, the Construction PMI rose to a five-month high of 41.5 in July 2026 from 38.2 in June. Vinci went up 0.6%, Bouygues gaining 0.8%, and Eiffage adding 0.5%. TotalEnergies gained 1% on higher oil prices, while Safran (-0.9%) and Airbus (-1.2%) weighed on the index. Unemployment and trade balance data will be released tomorrow."
     }
   ]
 }

@@ -1,7 +1,85 @@
 {
   "date": "2026-08-14",
-  "count": 21,
+  "count": 30,
   "items": [
+    {
+      "id": "mkt:019ffbe9-6a46-7aab-902a-e30dc00fe44d",
+      "time": "2026-08-14 00:16:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them."
+    },
+    {
+      "id": "te:markets:575166",
+      "time": "2026-08-14 00:16:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "STOXX 50 Closes at Record High — European stocks closed mostly higher on Thursday with support strong earnings results across multiple sectors. The Euro STOXX 50 gained 0.2% to 6,544 and the STOXX Europe 600 inched down to 659. ASML added 2.7%, closing sharply higher for a second session and tracking the AI infrastructure sector in the US and Asia on the sector's respite. On top of that, Adyen surged 16.4% after raising its revenue forecast for the current year. Danish shipping giant Maersk surged 9.4% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations."
+    },
+    {
+      "id": "5039878",
+      "time": "2026-08-14 00:16:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，底特律汽車製造商將向白宮表示，修訂後的北美貿易協定可能令它們損失數十億美元。"
+    },
+    {
+      "id": "mkt:019ffbe8-5fdc-7aab-902a-db14f31c0c4c",
+      "time": "2026-08-14 00:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Moody's vice president says Moody's expects to raise its forecast for Peru's 2026 GDP growth from 3.0% to 3.5%."
+    },
+    {
+      "id": "5039877",
+      "time": "2026-08-14 00:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沙烏地阿拉伯國防部長會見伊拉克武裝部隊總司令辦公室主任，討論軍事和防務領域的關係。"
+    },
+    {
+      "id": "mkt:019ffbe7-ac90-7aab-902a-d0a81819e59a",
+      "time": "2026-08-14 00:14:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi defense minister met the director of the Office of the Commander of the Iraqi Armed Forces to discuss military and defense ties, Saudi media Alhadath reported."
+    },
+    {
+      "id": "5039876",
+      "time": "2026-08-14 00:14:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：穆迪擬將秘魯2026年GDP增長預估從3.0%上調至3.5%。"
+    },
+    {
+      "id": "mkt:019ffbe6-d09e-7aab-902a-ce23011e517d",
+      "time": "2026-08-14 00:13:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chang'e-6 lunar soil study yields new evidence on Moon near and far side differences】The China Geological Survey (Ministry of Natural Resources) said researchers at the Institute of Geology, Chinese Academy of Geological Sciences have made progress analysing Chang'e-6 lunar soil samples, providing new evidence on the pronounced compositional differences between the Moon's near and far sides."
+    },
+    {
+      "id": "5039875",
+      "time": "2026-08-14 00:13:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Citadel甚至對部分分析師也施加了為期兩年的競業禁止協議】Ken Griffin 的 Citadel 公司要求投資人員（包括一些分析師）簽署長達兩年的競業禁止協議。員工的競業禁止期與員工的總薪酬掛鉤，投資組合經理或分析師的收入越高，競業禁止期就越長。該公司的競業禁止協議可能會對員工的職業生涯產生影響，一位招聘人員表示，被禁賽兩年“實際上會毀掉他們的職業生涯”。"
+    },
     {
       "id": "te:markets:575165",
       "time": "2026-08-14 00:12:08",
