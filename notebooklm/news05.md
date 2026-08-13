@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-14 05:24:15_
-_本檔包含 3151 則快訊，約 608124 字_
+_更新時間：2026-08-14 06:19:59_
+_本檔包含 3116 則快訊，約 608387 字_
+
+---
+
+### 2026-08-08 11:20:36  #國際
+
+【伊朗媒體公佈“被擊落的美以戰機殘骸照片”】據美國有線電視新聞網(CNN)8日報道，伊朗英語新聞電視臺(Press TV)在社交媒體上釋出了過去幾個月以來，伊朗在戰爭中擊落的美國和以色列戰機殘骸。 據CNN報道，根據伊朗公佈的照片，其中展示了一架美國空軍F-15E“打擊鷹”戰鬥機的殘骸、多架無人機，以及疑似MC-130J“突擊隊”特種作戰飛機發動機的部件。 伊朗英語新聞電視臺(Press TV)在其中一條貼文中寫道，“一架被伊朗先進防空系統擊落的美軍F-15戰鬥機殘骸。” CNN指出，部分殘骸可能與4月的美國空軍戰鬥機在伊朗伊斯法罕省上空被擊落事件有關。此外，對於伊朗媒體展出的無人機殘骸，有訊息稱美國在中東戰爭中“損失了多架無人機”，但五角大樓尚未證實任何具體細節。伊朗英語新聞電視臺(Press TV)的報道沒有提及殘骸的展示地點。CNN認為，“似乎是在一個大型地下掩體中”。（中新網）
+
+---
+
+### 2026-08-08 11:10:51  #MKT News #DXY #Impact bullish #US10Y #Impact bearish #XAUUSD
+
+【Deutsche Bank expects US July CPI +0.15% MoM】Key datapoints next week: Wednesday US July CPI, Thursday PPI. Deutsche Bank US economists forecast headline CPI +0.15% MoM (June -0.42%); core CPI +0.26% MoM (unchanged from June). For PPI they forecast headline PPI +0.22% MoM (prior +0.13%).
+
+---
+
+### 2026-08-08 11:06:51  #公司
+
+【國融基金總經理變更】根據國融基金8月8日公告，總經理毛靈俊因個人原因離任，總經理職位暫由張圓輝代任。根據國融基金安排，該公司董事會選舉韓光華擬任公司總經理，待韓光華完成相關程式後履職。
+
+---
+
+### 2026-08-08 11:05:11  #央行 #美聯儲
+
+【“美聯儲傳聲筒”要啞了？貝森特之怒和沃什新政｜美聯儲前哨】哈佛大學肯尼迪學院經濟學教授福爾曼曾任美國總統經濟顧問委員會主席。他對記者表示，眾所周知，沃什在過去15年裡一直在批評美聯儲，“他非常聰明，經驗也很豐富，但他以前的批評往往只停留在表面，從未明確說明自己會採取什麼不同的做法或如何管理美聯儲；而現在他身處其中，正經歷著從批評者到領導者的轉變。我認為他的做法很明智，那就是不回答任何問題。”
+
+---
+
+### 2026-08-08 11:03:50  #公司 #國際
+
+【雪佛蘭將停止在中國市場銷售？通用汽車仍未正面回應】近日，有訊息稱，雪佛蘭品牌將停止在中國市場銷售。通用汽車方面回應稱，會繼續在中國生產雪佛蘭產品，並且積極探索在美國以外的海外市場機遇。同時，依舊會為現有的中國雪佛蘭車主提供完善的售後服務保障。8月5日，上汽集團與通用汽車簽署合資續約協議，將上汽通用合資期限延長20年至2047年。但對於中國市場的銷售問題，通用汽車方面並沒有正面回應。（21財經）
+
+---
+
+### 2026-08-08 11:01:46  #其他
+
+【國鐵南昌局啟動四級應急響應 全力應對臺風“白海豚”】為全力應對臺風“白海豚”登陸，國鐵南昌局今天（8日）10時起，在管內衢寧鐵路、杭深鐵路福鼎至福州南區段及相關支線、聯絡線啟動防洪防颱風四級應急響應，運用衛星雲圖、雷達圖等技術手段，實時掌握降雨趨勢和颱風路徑，及時對強降雨和可能發生災害的區段進行預警。計劃停運福州至松溪K8748次、洛陽至福州K32次等旅客列車。已購買停運列車車票的旅客，可於票面乘車日期起30日內（含當日）透過12306網站、App或車站視窗免費辦理退票手續。
+
+---
+
+### 2026-08-08 10:58:44  #公司
+
+【朋友圈可AI幫寫、點評？騰訊客服：AI相關功能逐步開放中】8月8日，有訊息稱微信在灰度測試朋友圈“AI幫寫”與“AI點評”兩項能力，對此記者諮詢騰訊客服後獲悉，目前朋友圈的AI相關功能仍在逐步開放中，部分智慧互動功能可能已在灰度測試階段，具體支援情況請以所使用的微信版本更新情況為準。（貝殼財經）
+
+---
+
+### 2026-08-08 10:54:51  #其他
+
+【最佳化口岸營商環境，深圳推出19條硬舉措】據深視新聞，為持續營造市場化、法治化、國際化一流口岸營商環境，深入貫徹落實黨的二十大和二十屆歷次全會精神，貫徹落實國家、省、市關於最佳化營商環境的決策部署，深圳市口岸辦和深圳海關會同深圳市最佳化口岸營商環境工作組各成員單位，認真研究制定《深圳市2026年最佳化口岸營商環境若干措施》，推出19條工作舉措。
+
+---
+
+### 2026-08-08 10:54:25  #其他
+
+【陝西柞水泥石流已致2人死亡 仍有1人失聯】今天（8月8日）上午9時20分，陝西商洛柞水縣泥石流災害造成的2名失聯人員中，1名失聯人員被找到，已確認不幸遇難。此次泥石流災害已造成2人遇難。目前當地正組織人員擴大範圍沿河搜尋，全力搜救最後一名失聯人員，並同步妥善做好善後工作。（央視新聞）
+
+---
+
+### 2026-08-08 10:53:07  #其他
+
+【全球首個長時儲能一體化產業園在菏澤量產】據大眾日報，8月7日，菏澤海辰儲能生產車間，全球首款1175Ah千安時長時儲能電芯下線，標誌著海辰儲能全球首個長時儲能一體化產業園（山東菏澤基地）在菏澤魯西新區正式量產，填補山東長時儲能核心裝備製造領域空白。
+
+---
+
+### 2026-08-08 10:50:32  #公司
+
+【中國電信與內蒙古自治區人民政府簽署戰略合作協議】據人民郵電報，8月7日，中國電信集團有限公司與內蒙古自治區人民政府簽署戰略合作協議，此次戰略合作重點圍繞算力基礎設施建設、新一代通訊網路建設、產業數字化轉型、低空經濟高質量發展等領域深化合作，加快內蒙古數字經濟發展與產業數字化程序，奮力書寫中國式現代化內蒙古新篇章。
+
+---
+
+### 2026-08-08 10:50:29  #宏觀 #公司
+
+【移民分歧激化 西班牙出臺針對義大利反制措施】由於義大利拒絕取消因休達“偷渡潮”危機而針對西班牙啟動的邊境管控措施，西班牙政府宣佈將對來自義大利的旅客實施入境檢查。西班牙廣播電視公司援引西班牙政府頒佈的一項政令報道，自8日午夜起，西班牙將在港口與機場對從義大利入境的旅客實施隨機抽查，該措施暫定執行至9月7日。西班牙方面給出的理由是，義大利正持續面臨非法移民湧入的巨大壓力。西班牙執法人員對來自義大利的旅客進行檢查時，將核對旅客身份、國籍資訊；針對第三國公民，將檢查其簽證或居留許可。
+
+---
+
+### 2026-08-08 10:49:31  #其他
+
+葉門軍方：胡塞武裝及其支持者應對持續升級的局勢負全部責任。
+
+---
+
+### 2026-08-08 10:46:27  #公司 #國際
+
+【SK海力士據悉評估重慶資產方案 包括引入投資者】據知情人士稱，SK海力士正研究旗下重慶資產的方案選項，包括引入投資者以幫助加速增長。訊息人士稱，作為英偉達高頻寬記憶體晶片的重要供應商，SK海力士正與潛在顧問接洽，對該業務進行評估。知情人士表示，潛在的股權出售可能使該設施的估值達到約30億美元。SK海力士網站顯示，該公司20多年前進入中國市場，當時與無錫簽署協議建設其首座大型海外晶圓製造廠。位於重慶的設施是SK海力士重要的半導體封裝與測試基地。知情人士表示，競購者可能包括中國基金和產業投資者，SK海力士可能保留該資產的少數股權。知情人士還稱，相關討論仍處於初步階段，未必會達成任何交易。
+
+---
+
+### 2026-08-08 10:44:52  #市場 #焦點
+
+紐約原油暗盤跌破77美元，日內跌超1.7%。
+
+---
+
+### 2026-08-08 10:43:44  #MKT News
+
+【Turkey says Saudi-Turkey-Pakistan defense pact not in conflict with NATO】Turkey’s Directorate of Communications said the Mecca joint defense agreement signed with Saudi Arabia and Pakistan on the 7th does not conflict with NATO’s Article 5. The pact, signed earlier that day in Mecca, states an armed attack on any of the three will be treated as an attack on all. While some commentators said the pact violated Article 5 and established a parallel alliance structure, the Directorate called those claims baseless and said the agreement does not contradict Turkey’s existing international alliance commitments, including NATO, but is a complementary cooperation mechanism to help maintain regional security.
+
+---
+
+### 2026-08-08 10:41:31  #國際
+
+【迦納總統調整內閣 填補墜機事故所致空缺】迦納總統府7日釋出宣告說，迦納總統馬哈馬日前對內閣進行調整，以填補去年直升機墜毀事故中遇難的兩名內閣成員空缺。宣告說，工程、住房與水資源部長肯尼思·吉爾伯特·阿杰伊調任國防部長，科勒克洛泰選區議員扎內托爾·阿杰曼－羅林斯出任環境、科學與技術部長。2025年8月6日，時任國防部長愛德華·科菲·奧馬內·博阿馬以及時任環境、科學與技術部長易卜拉欣·穆爾塔拉·穆罕默德在迦納中南部的阿散蒂地區一起軍用直升機墜毀事故中遇難。事故後，這兩個職務分別由財政部長、國土資源部長代理。（新華社）
+
+---
+
+### 2026-08-08 10:40:46  #其他
+
+【土耳其稱沙土巴三國防務協議與北約條款不衝突】土耳其通訊局7日發表宣告表示，土耳其當天同沙烏地阿拉伯和巴基斯坦簽署的《麥加共同防務協議》與北約第五條即集體防禦條款並不衝突。當天早些時候，沙特、土耳其和巴基斯坦三國領導人在沙特麥加簽署《麥加共同防務協議》。協議規定，對三國中任何一國的武裝攻擊將被視為對三國全體的攻擊。有輿論認為，土耳其簽署該協議“違反《北大西洋公約》第五條即集體防禦條款並建立了一個平行聯盟結構”。土耳其通訊局宣告說，上述說法“完全沒有根據”，是“顯而易見的輿論操控”。宣告說，該協議並不與包括北約在內的土耳其現有國際聯盟承諾相沖突，相反，它構成了一種補充性合作機制，有助於維護區域安全。土耳其發展區域夥伴關係並非北約成員身份的替代選項。土耳其總統埃爾多安在社交媒體上表示，《麥加共同防務協議》“不針對任何國家，歡迎所有致力於本地區和平、繁榮與穩定的兄弟國家參與”。根據《北大西洋公約》第五條即集體防禦條款，“對於一個或數個締約國的武裝攻擊應視為對締約國全體的攻擊”。
+
+---
+
+### 2026-08-08 10:32:21  #其他
+
+【浙江提升防颱風應急響應至Ⅱ級】颱風“白海豚”8月8日6時位於溫嶺東南方向約545公里的海面上，中心附近最大風力14級（強颱風級），預計“白海豚”將以每小時10—15公里的速度向偏西方向移動，強度變化不大或略有增強，將於9日晚上至10日早晨在蒼南到象山一帶沿海登陸。受“白海豚”影響，東海海域風力10—13級，部分海域13—16級，颱風中心經過附近海域可達16級以上。沿海海面和沿海地區風力10—13級，區域性13—16級。浙江中南和沿海地區有暴雨大暴雨，局地有特大暴雨，防汛防颱形勢嚴峻。浙江省氣象局已釋出颱風警報。根據《浙江省防汛防颱抗旱應急預案》和颱風防禦工作方案，經研判會商，浙江省防指決定於8月8日10時將防颱風應急響應提升至Ⅱ級。
+
+---
+
+### 2026-08-08 10:30:32  #市場
+
+本週安達科技、廣州酒家、榮昌生物等15只個股釋出業績預告，其中業績大幅預增3只，百奧賽圖淨利潤預測同比增長412.71%
+
+---
+
+### 2026-08-08 10:30:12  #其他
+
+【國鐵西安局受降雨影響停運列車恢復開行】從國鐵西安局瞭解到，8月8日，受持續強降雨影響的管內線路運輸秩序已基本恢復，臨時停運列車恢復開行。7月30日以來，陝西多地出現持續強降雨天氣，給鐵路運輸安全和旅客出行帶來較大影響。國鐵西安局第一時間啟動應急預案，根據降雨影響範圍，先後對管內包西、寧西、西康、襄渝等線路部分列車實施臨時停運。目前，受降雨影響的線路通行條件穩定，8月8日，臨時停運列車已恢復開行。
+
+---
+
+### 2026-08-08 10:30:00  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+Yemen's military warned it would take further retaliatory measures if Houthi attacks continue.
+
+---
+
+### 2026-08-08 10:29:37  #其他
+
+葉門軍方：葉門軍方對胡塞武裝發起軍事行動，此次軍事行動是對胡塞武裝襲擊的回應，此次行動凸顯了聯合軍事指揮部的重要性。
+
+---
+
+### 2026-08-08 10:27:35  #MKT News
+
+Yemen's Defense Ministry says it has launched military operations against Houthi forces.
+
+---
+
+### 2026-08-08 10:26:03  #國際
+
+【檢察官撤銷“破壞倒影池”指控 特朗普讓其再想想】美國總統特朗普8月7日要求一名聯邦檢察官“重新審視”其最近決定，即撤銷對一名前奧運選手破壞林肯紀念堂前倒影池的指控，特朗普堅持認為倒影池受到蓄意破壞。特朗普在社交媒體“真實社交”上發帖說，哥倫比亞特區聯邦檢察官珍尼娜·皮羅撤銷上述案件的決定“太倉促”。特朗普此前稱，皮羅在法官施壓下屈服。（新華社）
+
+---
+
+### 2026-08-08 10:23:44  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Economist: Inflation now a Federal Reserve credibility issue】Torsten Slok, chief economist at Apollo Global Management, said inflation is no longer just an economic problem but a matter of Federal Reserve credibility. Inflation has run above the Fed’s target since 2021, and its persistence has been "very, very long," he said.
+
+---
+
+### 2026-08-08 10:21:51  #國際
+
+【挪威足協主席呼籲因凡蒂諾立即辭職：他已失去足球界的信任】據路透社當地時間7日報道，在多家歐洲足協相繼撤回對國際足聯主席因凡蒂諾的支援之際，挪威足協主席莉絲·克拉韋內斯公開要求因凡蒂諾立即辭職，並直言他已不再擁有足球界的信任。 克拉韋內斯表示，因凡蒂諾已不再擁有足球界的信任，並稱這項運動需要擺脫“權力的遊戲”式的權力鬥爭，把重點放在真正的治理改革上。 “在當前形勢下，他已不再擁有穩定治理國際足聯所需的制度性信任。詹尼·因凡蒂諾已經沒有回頭路可走，”克拉韋內斯說，“國際足球界的合作正深陷困境，我們現在必須找到重新團結起來的理由，因此我們希望國際足聯主席現在辭職。”   （環球網）
+
+---
+
+### 2026-08-08 10:08:03  #國際
+
+【中國氣象局升級調整應急響應為（颱風、暴雨、強對流）三級】8月8日9時，經綜合研判和應急會商，中國氣象局升級調整重大氣象災害（颱風）四級應急響應為（颱風、暴雨、強對流）三級。中央氣象臺預計，今年第13號颱風“白海豚”將於9日晚上至10日早晨在浙江舟山到福建福鼎一帶沿海登陸，8日至12日，臺灣島、福建中北部、浙江、上海、江西、江蘇、安徽中南部、湖北東部、湖南東部等地先後有暴雨到大暴雨，其中浙江中東部、福建東北部、安徽南部及大別山區等局地有特大暴雨，東海大部、杭州灣、浙江沿海、福建北部沿海、臺灣沿海、臺灣以東洋麵的風力有9至11級，陣風12至13級。此外，海南、雲南、貴州、重慶、河北、河南、四川等地部分地區有分散性大到暴雨，局地有大暴雨。中央氣象臺於8月8日6時釋出颱風橙色預警，繼續釋出強對流天氣藍色預警。
 
 ---
 
@@ -18626,392 +18794,5 @@ Energy Commodities Updates: Natural Gas EU Rallies by 10.75% — Top commodity g
 ### 2026-08-07 06:21:21  #其他
 
 【可轉債一級市場正在升溫，今年以來累計發行51只同比增長104%】截至8月6日，今年以來累計發行51只可轉債，規模合計607億元，較上年同期分別增長104%和51%。與發行端回暖同時發生的，是存量可轉債在加速退出。資料顯示，年內已有123只可轉債離場，市場存續規模較年初減少560億元。業內人士認為，再融資政策最佳化開啟了可轉債發行通道，科技企業資本開支增加、機構配置需求旺盛，則為新券供需兩端提供了支撐。可轉債市場由此進入發行提速、結構調整的新階段。（上證報）
-
----
-
-### 2026-08-07 06:19:38  #MKT News #Commodities #Energy #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-MUSALEM said he is focused on core inflation amid energy market volatility.
-
----
-
-### 2026-08-07 06:17:14  #央行 #國際
-
-美聯儲穆薩萊姆： 在能源波動背景下，重點關注核心通脹。
-
----
-
-### 2026-08-07 06:15:34  #國際
-
-【特朗普承認某些彈藥供應緊張】當地時間8月6日下午，美國總統特朗普在白宮回答記者有關美軍彈藥供應問題的提問時稱：“我們一直都需要更多（彈藥），美國某些型別彈藥的供應‘幾乎是無限的’，但也有一些彈藥稍顯緊張。”他沒有具體說明是哪些彈藥。（CCTV國際時訊）
-
----
-
-### 2026-08-07 06:15:15  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Swiss Franc Depreciates by 0.63% — Top currency losers are Swiss Franc (-0.63%), Japanese Yen (-0.47%), Australian Dollar (-0.39%), Euro (-0.27%) and British Pound (-0.13%). Gains are led by Brazilian Real (0.53%) and Dollar Index (0.29%).
-
----
-
-### 2026-08-07 06:15:07  #央行 #國際
-
-美聯儲穆薩萊姆： 通脹預期存在脫錨的風險土壤。
-
----
-
-### 2026-08-07 06:14:26  #MKT News
-
-【Trump says some US ammunition supplies are 'slightly tight'】On Aug 6 at the White House President Trump told reporters the US has "always needed more" ammunition, saying supplies of some types are "almost unlimited" while "some" are "slightly tight". He did not specify which types.
-
----
-
-### 2026-08-07 06:14:02  #MKT News #DXY #Impact bullish #EURUSD #Impact bearish #USDJPY
-
-Fed's MUSALEM said he sees no conditions that could dislodge the dollar's status as the primary reserve currency.
-
----
-
-### 2026-08-07 06:13:56  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve official Musalem said many asset prices remain elevated.
-
----
-
-### 2026-08-07 06:13:55  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY
-
-Fed's Musalem said the US remains the fastest-growing, most innovative economy and has an effective rule of law.
-
----
-
-### 2026-08-07 06:13:54  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed official Musalem said financial conditions remain highly accommodative and the Federal Reserve is monitoring the situation.
-
----
-
-### 2026-08-07 06:13:30  #央行 #國際
-
-美聯儲穆薩萊姆：通脹預期保持穩定，符合 2% 目標。
-
----
-
-### 2026-08-07 06:13:04  #央行 #國際
-
-【8月7日隔夜要聞一覽】
-1、特朗普稱霍爾木茲海峽協議尚未達成 正參與相關談判。
-2、特朗普宣佈對多晶矽及其衍生產品加徵關稅。
-3、特朗普簽署針對出生公民權的行政令 將嚴厲打擊“生育旅遊”。
-4、伊朗國家安全委員會正在審查題為“確保霍爾木茲海峽和波斯灣安全與可持續發展的戰略行動”的法案初稿。
-5、美國宣佈對古巴實施新一輪制裁。
-6、墨西哥央行維持6.5%利率不變。
-7、Alphabet超大規模債券發行獲1150億美元訂單。
-8、SpaceX擬為得州晶片工廠自建天然氣電廠和大型儲能設施。
-9、英國人工智慧基礎設施與雲服務初創企業NSCALE宣稱手握510億美元合同，目標9月赴美上市。
-
----
-
-### 2026-08-07 06:12:14  #央行 #國際
-
-美聯儲穆薩萊姆： 各國央行正面臨更多供給衝擊。
-
----
-
-### 2026-08-07 06:11:58  #央行 #國際
-
-美聯儲穆薩萊姆： 未見能夠動搖美元主要儲備貨幣地位的相關條件。
-
----
-
-### 2026-08-07 06:11:49  #央行 #國際
-
-美聯儲穆薩萊姆： 美國仍是增長最強、創新能力最強的經濟體，擁有有效的法治體系。
-
----
-
-### 2026-08-07 06:11:42  #央行 #美聯儲
-
-【美聯儲9月加息25個基點的機率為55%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為45%，累計加息25個基點的機率為55%。美聯儲到10月維持利率不變的機率為31%，累計加息25個基點的機率為51.9%，累計加息50個基點的機率為17.1%。
-
----
-
-### 2026-08-07 06:10:20  #其他
-
-【7月份中國倉儲指數保持擴張 行業執行韌性較強】中國物流與採購聯合會今天（7日）公佈7月份中國倉儲指數。指數連續兩個月執行在50%以上的擴張區間。總體來看，倉儲行業在季節性氣候和極端天氣擾動下仍保持擴張，行業執行具有較強韌性。7月份中國倉儲指數為50.3%，較上月上升0.1個百分點，連續兩個月執行在擴張區間。（央視新聞）
-
----
-
-### 2026-08-07 06:09:30  #央行 #國際
-
-美聯儲穆薩萊姆： 大量資產價格處於高位。
-
----
-
-### 2026-08-07 06:09:09  #央行 #國際
-
-美聯儲穆薩萊姆：金融環境極度寬鬆，美聯儲正對此予以關注。
-
----
-
-### 2026-08-07 06:08:12  #MKT News
-
-MUSALEM said the Federal Reserve is closely monitoring financial markets.
-
----
-
-### 2026-08-07 06:08:00  #其他
-
-【促投資穩工業擴外貿，地方經濟“下半場”劃重點】近期，各地密集部署下半年經濟工作，聚焦推進“六張網”規劃建設、實現工業經濟穩定增長、全力穩住外貿基本盤等領域，相關舉措也將陸續落地。梳理發現，下半年重大投資專案呈現傳統基建提質升級、新型基建加速佈局、產業專案佔比提升、民生短板持續補齊的鮮明特徵。其中，“六張網”建設成為核心抓手，多地明確將其納入下半年重點攻堅任務。（上證報）
-
----
-
-### 2026-08-07 06:07:53  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve's Musalem said central banks can sometimes surprise markets.
-
----
-
-### 2026-08-07 06:07:48  #公司 #國際
-
-美國 SEC 檔案：微軟商業業務執行長賈德森・阿爾索夫，於 8 月 5 日在公開市場減持 10000 股微軟股票，每股平均成交價 487.893 美元。
-
----
-
-### 2026-08-07 06:07:48  #MKT News #Macro & Rates #The Fed (FOMC)
-
-MUSALEM said the Fed must make the optimal decision and should not be driven by market pressures.
-
----
-
-### 2026-08-07 06:06:24  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Shipping through Middle East chokepoints remains subdued】MarineTraffic shows at least seven commercial vessels transited the Strait of Hormuz in the past 24 hours: six entered the Persian Gulf (five cargo, one tanker) and one entered the Gulf of Oman (cargo). Over the same period at least 30 commercial vessels passed the Bab el‑Mandeb: 20 entered the Red Sea (13 cargo, seven tankers) and 10 entered the Gulf of Aden (eight cargo, two tankers). Iran and Oman are negotiating management of the Strait of Hormuz, which could establish agreed shipping lanes and protection measures for commercial traffic. Ongoing GPS interference continues to complicate navigation and transits in the region.
-
----
-
-### 2026-08-07 06:06:07  #央行 #國際
-
-美聯儲穆薩萊姆： 密切關注金融市場動向。摒棄政治雜音，專注美聯儲使命。
-
----
-
-### 2026-08-07 06:05:09  #央行 #國際
-
-美聯儲穆薩萊姆：部分情況下，美聯儲可以給市場帶來意外。
-
----
-
-### 2026-08-07 06:04:52  #央行 #國際
-
-美聯儲穆薩萊姆： 美聯儲需做出最優決策，但不應被市場裹挾。
-
----
-
-### 2026-08-07 06:03:53  #MKT News #CNH #Impact bullish #Copper #Hang Seng Index
-
-【China warehousing index stays in expansion in July; sector shows resilience】China's warehousing index rose to 50.3% in July, up 0.1 percentage point MoM and marking a second consecutive month above the 50 expansion threshold, the China Federation of Logistics & Purchasing said; the body said the sector remained in expansion despite seasonal and extreme weather disruptions.
-
----
-
-### 2026-08-07 06:02:56  #央行 #國際
-
-【美聯儲9月加息25個基點的機率為55%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為45%，累計加息25個基點的機率為55%。美聯儲到10月維持利率不變的機率為31%，累計加息25個基點的機率為51.9%，累計加息50個基點的機率為17.1%。
-
----
-
-### 2026-08-07 06:01:06  #市場 #焦點
-
-現貨黃金突破4240美元/盎司，日內跌0.01%。
-
----
-
-### 2026-08-07 06:00:43  #公司 #焦點 #國際
-
-【特朗普宣佈對多晶矽及其衍生產品加徵關稅】當地時間8月6日，美國總統特朗普簽署行政令，依據《1962年貿易擴充套件法》第232條，對進口多晶矽及其衍生產品採取最低進口價格和額外關稅措施，以支援美國國內多晶矽、半導體和太陽能供應鏈。公告規定，最低進口價格分別為：多晶矽每公斤21美元；多晶矽錠和晶圓每公斤100美元；太陽能電池每瓦0.22美元；太陽能元件每瓦0.38美元。同時，美國將對公告附件所列多晶矽錠及相關衍生產品加徵15%的從價關稅。相關措施將自2026年12月4日美國東部時間凌晨12時01分起生效。公告還授權商務部建立“迴流美國”激勵計劃。企業如承諾在美國建設、翻新或擴建多晶矽、矽錠、晶圓或太陽能電池生產設施，並在2029年1月20日前開工，可申請部分進口裝置和相關產品免繳第232條關稅。（央視新聞）
-
----
-
-### 2026-08-07 06:00:35  #市場 #焦點
-
-紐約期銀突破62美元/盎司，日內漲0.44%。
-
----
-
-### 2026-08-07 06:00:05  #市場
-
-WTI原油日內漲1%，現報78.09美元/桶。
-
----
-
-### 2026-08-07 05:59:25  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed official MUSALEM said ignore political noise and focus on the central bank's mission.
-
----
-
-### 2026-08-07 05:59:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500
-
-Federal Reserve's MUSALEM said the labor market appears to be performing strongly.
-
----
-
-### 2026-08-07 05:54:54  #央行 #國際
-
-美聯儲穆薩萊姆：消費與投資正以穩健的速度增長。
-
----
-
-### 2026-08-07 05:53:43  #MKT News #Macro & Rates #The Fed (FOMC) #Copper #Impact bullish #XAUUSD
-
-Fed official Musalem said the El Niño weather event could bring new supply shocks.
-
----
-
-### 2026-08-07 05:53:13  #MKT News #Important
-
-Sources said Turkey, Saudi Arabia and Pakistan will sign a joint defense agreement in Saudi Arabia on Friday.
-
----
-
-### 2026-08-07 05:53:06  #央行 #國際
-
-美聯儲穆薩萊姆： 厄爾尼諾天氣現象或構成新一輪供給衝擊。
-
----
-
-### 2026-08-07 05:52:40  #其他 #焦點 #國際
-
-兩名知情地區訊息人士透露，土耳其、沙烏地阿拉伯與巴基斯坦將於週五在沙烏地阿拉伯簽署聯合防務協議。
-
----
-
-### 2026-08-07 05:52:15  #央行 #國際
-
-美聯儲穆薩萊姆：清晰傳遞政策框架與政策反應函式十分重要。
-
----
-
-### 2026-08-07 05:51:35  #MKT News
-
-Fed's MUSALEM said he welcomes the Fed working group.
-
----
-
-### 2026-08-07 05:51:30  #央行 #國際
-
-美聯儲穆薩萊姆：供給與需求端均出現通脹上行壓力，若各類衝擊消退，通脹有望回落至 2%。 一年後通脹可能企穩於 2.5%‑3% 甚至更高水平。
-
----
-
-### 2026-08-07 05:50:48  #MKT News #Macro & Rates #The Fed (FOMC) #XAUUSD #Impact bullish #DXY #Impact bearish #US10Y
-
-Federal Reserve's MUSALEM said the labor market is not a driver of inf.
-
----
-
-### 2026-08-07 05:50:38  #央行 #國際
-
-美聯儲穆薩萊姆： 對美聯儲各專項工作組持十分開放的態度。
-
----
-
-### 2026-08-07 05:50:35  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #S&P500 #DXY #Impact bearish
-
-Fed official MUSALEM said he hopes monthly inf (MoM) remains below 0.2%.
-
----
-
-### 2026-08-07 05:49:42  #MKT News
-
-MUSALEM: Core inf may be between 2.5% and 3%.
-
----
-
-### 2026-08-07 05:49:22  #央行 #國際
-
-美聯儲穆薩萊姆：希望看到月度通脹讀數低於 0.2%。
-
----
-
-### 2026-08-07 05:49:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Federal Reserve's MUSALEM said the probability that inflation will remain above target has risen, and that he leaned toward a rate hike at the recent FOMC meeting.
-
----
-
-### 2026-08-07 05:49:12  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-MUSALEM of the Federal Reserve said gradual rate hikes have lower costs than abrupt policy moves.
-
----
-
-### 2026-08-07 05:49:04  #央行 #國際
-
-美聯儲穆薩萊姆：就業市場並非通脹的來源。
-
----
-
-### 2026-08-07 05:48:42  #央行 #國際
-
-美聯儲穆薩萊姆：潛在通脹大機率處於 2.5%‑3% 區間。
-
----
-
-### 2026-08-07 05:48:03  #央行 #國際
-
-美聯儲穆薩萊姆：漸進式加息相比更為 “驟然” 的利率調整，代價更低。
-
----
-
-### 2026-08-07 05:47:30  #央行 #國際
-
-美聯儲穆薩萊姆：在最近一次聯邦公開市場委員會（FOMC）會議上，我傾向於加息。 通脹維持在目標水平上方的機率有所上升。
-
----
-
-### 2026-08-07 05:38:00  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed's MUSALEM said the current inf rate is well above the Fed's 2% target; monetary policy must firmly curb underlying inf, not tolerate current high inf in the hope of future productivity gains.
-
----
-
-### 2026-08-07 05:33:50  #央行 #國際
-
-美聯儲穆薩萊姆：失業率已接近長期均衡水平。
-
----
-
-### 2026-08-07 05:33:08  #央行 #國際
-
-美聯儲穆薩萊姆： 現有證據尚不足以依據生產率增長有望提升這一預期來制定政策。
-
----
-
-### 2026-08-07 05:32:11  #央行 #國際
-
-美聯儲穆薩萊姆： 未來人工智慧帶來的生產率提升幅度存在高度不確定性， 為追求更高國內生產總值而放寬政策將是錯誤之舉。
-
----
-
-### 2026-08-07 05:31:28  #央行 #國際
-
-美聯儲穆薩萊姆：美國經濟近幾個月表現有韌性。
-
----
-
-### 2026-08-07 05:31:18  #央行 #國際
-
-美聯儲穆薩萊姆：風險天平向高通脹一側傾斜， 對核心通脹實施實質性約束至關重要。
-
----
-
-### 2026-08-07 05:30:35  #央行 #國際
-
-美聯儲穆薩萊姆：勞動力市場已經穩定。
-
----
-
-### 2026-08-07 05:27:05  #國際
-
-加拿大貿易談判代表週四在華盛頓與美國貿易代表格雷爾舉行了建設性且內容詳盡的會談。
 
 ---

@@ -1,7 +1,355 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-14 05:24:15_
-_本檔包含 3155 則快訊，約 608474 字_
+_更新時間：2026-08-14 06:19:59_
+_本檔包含 3188 則快訊，約 608739 字_
+
+---
+
+### 2026-08-14 06:15:03  #公司 #市場
+
+【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)
+
+---
+
+### 2026-08-14 06:14:48  #公司 #市場
+
+【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）
+
+---
+
+### 2026-08-14 06:14:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed's GOOLSBEE says U.S. economy remains stable.
+
+---
+
+### 2026-08-14 06:14:32  #央行 #國際
+
+美聯儲古爾斯比：美國經濟走勢穩定。
+
+---
+
+### 2026-08-14 06:13:19  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%.
+
+---
+
+### 2026-08-14 06:12:48  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact mixed
+
+GOOLSBEE of the Federal Reserve said many inflation drivers stem from tariffs, followed by oil prices, and the Fed hopes these are one-off increases.
+
+---
+
+### 2026-08-14 06:12:29  #央行 #國際
+
+美聯儲古爾斯比： 如果能將上述部分不利因素拋在身後，通脹就有望回落至 2% 目標水平。
+
+---
+
+### 2026-08-14 06:12:12  #市場 #央行 #國際
+
+美聯儲古爾斯比： 諸多通脹驅動因素來自關稅以及油價，我們原本希望這些都只是一次性上漲。
+
+---
+
+### 2026-08-14 06:12:02  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+Fed's GOOLSBEE said inf data has improved and he hopes the trend continues.
+
+---
+
+### 2026-08-14 06:11:47  #Trading Economics #Markets #Taiwan #Earnings #Importance 0
+
+Quanta Computer earnings above expectations at 7.43 TWD — Quanta Computer (2382) released earnings per share at 7.43 TWD, compared to market expectations of 6.08 TWD.
+
+---
+
+### 2026-08-14 06:11:26  #公司 #觀點
+
+【原始權益人看好優質底層資產，滬市公募REITs扎堆披露增持計劃】近日，創金合信首農REIT與中信建投瀋陽國際軟體園REIT分別釋出公告稱，其原始權益人及關聯方基於對專案未來發展前景的信心和長期投資價值的認可，將啟動基金份額增持計劃。事實上，今年以來滬市已有建信中關村REIT、招商科創REIT、匯添富上海地產商業REIT、中信建投首農商業REIT、中金唯品會商業REIT等5單公募REITs專案披露增持計劃。從增持安排來看，7單專案增持主體包含原始權益人、控股股東及同一控制下關聯方，採用二級市場競價交易等方式擇機實施。專案均設定了增持份額或者金額區間，其中部分專案明確了增持下限；多數主體同步作出鎖倉承諾，增持獲得的份額在實施週期結束後，繼續鎖定較長時間不予減持，規避短期博弈交易，立足長期持有，保障增持行為的嚴肅性，向市場傳遞長期看好訊號。（上證報）
+
+---
+
+### 2026-08-14 06:10:59  #央行 #國際
+
+美聯儲古爾斯比：近期通脹相關資料出現小幅好轉，希望這一改善態勢能夠持續。
+
+---
+
+### 2026-08-14 06:08:26  #國際
+
+特朗普：允許在美投資的外國造船廠最多建造兩艘船隻。
+
+---
+
+### 2026-08-14 06:05:10  #其他
+
+澳大利亞總理阿爾巴尼斯：澳大利亞移民數量較峰值下降 45%。
+
+---
+
+### 2026-08-14 06:05:00  #MKT News
+
+RBNZ said its FPC considered house price developments, recent mortgage risk conditions and borrowers' financial stress.
+
+---
+
+### 2026-08-14 06:04:58  #MKT News
+
+RBNZ maintains current loan-to-value ratio (LVR) settings.
+
+---
+
+### 2026-08-14 06:01:31  #市場
+
+鈀金期貨日內跌1%，現報1311.50美元/盎司。
+
+---
+
+### 2026-08-14 06:01:31  #其他
+
+紐西蘭儲備銀行：維持貸款價值比（LVR）相關政策不變。
+
+---
+
+### 2026-08-14 06:00:47  #市場 #焦點
+
+紐約期銀突破65美元/盎司，日內跌0.61%。
+
+---
+
+### 2026-08-14 06:00:36  #央行 #國際
+
+【美聯儲9月維持利率不變的機率為65.2%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為65.2%，累計加息25個基點的機率為34.8%。美聯儲到10月維持利率不變的機率為50.1%，累計加息25個基點的機率為41.8%，累計加息50個基點的機率為8.1%。
+
+---
+
+### 2026-08-14 06:00:35  #市場 #焦點
+
+現貨白銀突破65美元/盎司，日內跌0.03%。
+
+---
+
+### 2026-08-14 05:58:39  #公司 #焦點 #國際
+
+【白宮宣佈對進口無人機及零部件徵收關稅】美國白宮13日釋出訊息說，美國總統特朗普當日簽署公告，以應對國家安全威脅為由對進口無人機及零部件徵收10%至100%的從價關稅。（新華社）
+
+---
+
+### 2026-08-14 05:56:03  #MKT News #Market Themes #AI Revolution
+
+【Sources: OpenAI annualized revenue tops $40 bln】Sources say OpenAI's current annualized revenue has exceeded $40 billion, roughly double its level at end-2025, bolstering the company's IPO preparations. Revenue acceleration in recent months is driven by rapid expansion of its AI programming business (notably CODEX), rising subscriptions, nascent ad revenue contribution and steady consumer growth. OpenAI is competing fiercely with ANTHROPIC for enterprise customers; both firms have quietly filed IPO paperwork, and ANTHROPIC could list as soon as this autumn, potentially ahead of OpenAI. OpenAI co‑founder and president Greg Brockman said July annualized revenue rose more than 20% month‑on‑month. Demand for AI agents has increased, with flagship products including CODEX and ChatGPT Work, and OpenAI has cut prices on some models to respond to ANTHROPIC and other competitors.
+
+---
+
+### 2026-08-14 05:48:10  #MKT News #Market Themes #The Trump Trade
+
+Australian Prime Minister Albanese said U.S. President Trump has agreed to consider a request on tariffs.
+
+---
+
+### 2026-08-14 05:47:16  #國際
+
+澳大利亞總理阿爾巴尼斯： 特朗普同意將考慮我方的關稅豁免請求。
+
+---
+
+### 2026-08-14 05:46:41  #MKT News
+
+Australian Prime Minister Albanese said he discussed tariffs with U.S. President Trump and urged him to consider granting a full exemption.
+
+---
+
+### 2026-08-14 05:45:23  #國際
+
+澳大利亞總理阿爾巴尼斯：已向特朗普提及關稅問題，敦促特朗普考慮給予全面豁免。
+
+---
+
+### 2026-08-14 05:43:37  #MKT News
+
+Australian Prime Minister Albanese said the US-UK-Australia trilateral security partnership AUKUS is continuing to advance at full speed.
+
+---
+
+### 2026-08-14 05:42:53  #MKT News
+
+Prime Minister Albanese reviewed progress on the AUKUS trilateral security partnership's defense agreement.
+
+---
+
+### 2026-08-14 05:42:45  #國際
+
+澳大利亞總理阿爾巴尼斯： 與特朗普就中東、太平洋地區局勢交換了意見，覆盤了澳英美三邊安全夥伴關係（AUKUS）的進展情況，澳英美三邊安全夥伴關係（AUKUS）仍在 “全力推進”。
+
+---
+
+### 2026-08-14 05:40:58  #公司
+
+【阿聯酋阿布扎比國家石油公司稱兩艘船隻在霍爾木茲海峽遭襲】當地時間14日凌晨，阿聯酋阿布扎比國家石油公司釋出宣告稱，13日晚間，該公司兩艘船隻在透過霍爾木茲海峽時遭到襲擊。該公司表示，事件未造成人員受傷。阿布扎比國家石油公司是阿聯酋國有石油和天然氣企業，是全球最大的石油和天然氣生產商之一。（央視新聞）
+
+---
+
+### 2026-08-14 05:40:45  #公司 #國際
+
+【美國將對無人機及其零部件徵收關稅 最高稅率100%】白宮發文稱，美國總統特朗普簽署公告，將對部分無人機及其零部件徵收不同稅率的關稅。措施包括，對大型無人機以及被認為構成特定國家安全風險的無人機徵收100%的從價關稅，對較小型無人機徵收25%的關稅。來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及無人機零部件適用15%的關稅。來自英國的無人機適用10%的關稅。白宮稱：“相關關稅將在簽署21天后生效。其他並非特別敏感的無人機零部件，關稅將在簽署180天后生效。”
+
+---
+
+### 2026-08-14 05:40:35  #MKT News #Market Themes #The Trump Trade
+
+Australia's prime minister Albanese spoke overnight with US President Trump.
+
+---
+
+### 2026-08-14 05:38:26  #MKT News #Important #Market Themes #AI Revolution
+
+Market sources say OpenAI's annualized revenue exceeded $40 bln ahead of its IPO.
+
+---
+
+### 2026-08-14 05:37:58  #公司
+
+【OpenAI 上市前年化營收突破 400 億美元】據知情人士透露，按照當前業務表現，OpenAI 年化營收有望突破 400 億美元，較 2025 年末的年化營收大致翻倍，也為該公司登陸華爾街的計劃提供支撐。 OpenAI近幾月營收增長提速，部分來自 AI 編碼軟體業務的拉動，訂閱業務銷售與尚在起步的廣告業務同樣帶來增長動能，核心 C 端業務也持續擴張。
+
+---
+
+### 2026-08-14 05:35:59  #其他
+
+市場訊息：OpenAI 上市前年化營收突破 400 億美元。
+
+---
+
+### 2026-08-14 05:35:27  #MKT News
+
+Axios reports Kushner is expected to travel to Cairo next week to meet with Egyptian mediators.
+
+---
+
+### 2026-08-14 05:34:01  #國際
+
+據知情人士透露， 庫什納預計下週還將前往開羅，與埃及調解方舉行會談。
+
+---
+
+### 2026-08-14 05:33:24  #MKT News #Market Regions #Wall Street (US) #RDDT.N #Impact bullish
+
+Reddit (RDDT.N) U.S. shares rose more than 12% in after-hours trading.
+
+---
+
+### 2026-08-14 05:31:43  #其他
+
+檔案顯示AMD的47.5億美元高階無擔保票據發行定價方案已確定，共分為四個批次。
+
+---
+
+### 2026-08-14 05:30:00  #MKT News #HII.O
+
+White House said President Trump has directed the Secretary of Defense to replace the advanced electromagnetic aircraft launch system (EMALS) and advanced weapons elevators with conventional steam and hydraulic systems during construction of the CVN-81 aircraft carrier.
+
+---
+
+### 2026-08-14 05:29:42  #MKT News #LMT.O #Impact bullish #NOC.O #HII.O
+
+White House said President Trump signed a memorandum directing the Pentagon to increase direct investment in the U.S. shipbuilding industrial base under a 'Finnish model'.
+
+---
+
+### 2026-08-14 05:29:15  #MKT News #HII.O #Impact bullish #GD.O
+
+White House: President Trump has signed a national security presidential memorandum to address long-standing critical issues in U.S. Navy shipbuilding and maintenance programs.
+
+---
+
+### 2026-08-14 05:28:53  #國際
+
+美國白宮：特朗普指示國防部長，在 CVN‑81 航母建造期間，用傳統蒸汽與液壓系統替換先進電磁飛機彈射系統以及先進武器升降機。
+
+---
+
+### 2026-08-14 05:28:05  #國際
+
+美國白宮：特朗普釋出備忘錄，指示五角大樓參照 “芬蘭模式”，對美國造船工業基地開展更多直接投資。
+
+---
+
+### 2026-08-14 05:27:36  #MKT News
+
+White House says President Trump will impose a 10% ad valorem tariff on drones imported from the UK into the US.
+
+---
+
+### 2026-08-14 05:27:14  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #EURUSD
+
+White House: President Trump will impose a 15% ad valorem tariff on drones and drone parts imported into the U.S. from the EU, Japan, Liechtenstein, South Korea and Switzerland.
+
+---
+
+### 2026-08-14 05:27:13  #國際
+
+美國白宮：無人機關稅將在簽署21天后生效。
+
+---
+
+### 2026-08-14 05:26:37  #其他
+
+白宮釋出有關海軍造船工業基礎的命令。
+
+---
+
+### 2026-08-14 05:26:36  #MKT News #Important #Market Themes #The Trump Trade #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+White House announces President Trump will impose 100% ad valorem tariffs on drones of certain sizes or with sensitive capabilities.
+
+---
+
+### 2026-08-14 05:26:34  #國際
+
+美國白宮：對於非高度敏感的無人機零部件，關稅將於簽署後 180 天生效。
+
+---
+
+### 2026-08-14 05:26:17  #國際
+
+美國白宮：對來自英國的無人機徵收 10% 從價關稅。
+
+---
+
+### 2026-08-14 05:26:01  #MKT News #Important #Market Themes #The Trump Trade
+
+White House: President Trump will impose a 25% ad valorem tariff on certain small unmanned aerial vehicles lacking specified capabilities, citing national security concerns.
+
+---
+
+### 2026-08-14 05:25:56  #公司 #國際
+
+美國白宮：特朗普釋出公告，對來自歐盟、日本、列支敦斯登、韓國、瑞士的無人機及其零部件徵收 15% 從價關稅。
+
+---
+
+### 2026-08-14 05:25:26  #公司 #焦點 #國際
+
+美國白宮：特朗普釋出公告，對特定尺寸、具備特定效能且涉及重大國家安全敏感屬性的無人機徵收 100% 從價關稅。對部分尺寸較小、不具備特定國家安全敏感效能的無人機徵收 25% 從價關稅。
+
+---
+
+### 2026-08-14 05:24:11  #MKT News #RDDT.N #Impact bullish
+
+Reddit (RDDT.N) will be added to the S&P 500 index.
+
+---
+
+### 2026-08-14 05:24:08  #國際
+
+特朗普對小型無人機徵收 25% 關稅。
+
+---
+
+### 2026-08-14 05:23:56  #公司 #國際
+
+美國白宮：特朗普簽署公告，對無人機及其零部件加徵關稅。
 
 ---
 
@@ -18847,155 +19195,5 @@ TASS: Russian authorities said they are working to redirect cargo flows to alter
 ### 2026-08-13 00:43:21  #Trading Economics #Economy #Germany #Current Account #Importance 0
 
 Germany Current Account Surplus Widens in July — Germany’s current account surplus reached €19 billion in June 2026, widening from a surplus of €17.2 in the same period a year earlier. The goods surplus increased to €17.3 billion from €15.4 billion, while the primary income surplus was broadly unchanged at €13.96 billion. The secondary income deficit narrowed slightly to €4.99 billion from €5.1 billion, partly offsetting a wider services deficit of €7.2 billion versus €7.1 billion a year earlier. In the first half of 2026, the current account surplus narrowed slightly to €106.3 billion from €107.2 billion in the same period of 2025.
-
----
-
-### 2026-08-13 00:38:53  #其他
-
-哥倫比亞全國咖啡種植者聯合會：哥倫比亞加勒比海港口咖啡出口持續正常開展，未受中斷影響。因基礎設施檢查及通路受阻，哥倫比亞布埃納文圖拉港咖啡出口臨時暫停。
-
----
-
-### 2026-08-13 00:38:00  #MKT News
-
-Apple (AAPL.O) appointed a senior U.S. airline executive as head of government affairs.
-
----
-
-### 2026-08-13 00:36:13  #國際
-
-蘋果聘請美國航空資深高管出任政府事務主管。
-
----
-
-### 2026-08-13 00:30:34  #市場 #央行 #國際
-
-【歐洲債市：德國國債和英國國債持穩，長端表現略遜】德國國債和英國國債回吐漲幅，由於圍繞重新開放霍爾木茲海峽的談判進展仍不明朗，油價收復早前跌幅。交易員基本無視符合市場預期的美國7月通脹資料，目前預計歐洲央行到年底加息39個基點， 英國央行到年底加息28個基點。布倫特原油價格下跌0.1%，至每桶88.82美元。
-
----
-
-### 2026-08-13 00:29:01  #公司 #國際
-
-美國國際貿易委員會：萬勝（Maxell）指控三星侵犯移動裝置相關專利。
-
----
-
-### 2026-08-13 00:28:55  #MKT News #Important #005930.KS #Impact bearish
-
-U.S. International Trade Commission opens Section 337 investigation into Samsung devices.
-
----
-
-### 2026-08-13 00:28:24  #國際
-
-【巴勒斯坦總統與土耳其總統會談 討論巴以局勢等】當地時間12日，巴勒斯坦總統阿巴斯在安卡拉同土耳其總統埃爾多安舉行正式會談。雙方就巴以局勢最新進展、雙邊關係及共同關心的問題深入交換意見。（央視新聞）
-
----
-
-### 2026-08-13 00:27:50  #公司 #焦點 #國際
-
-美國國際貿易委員會發起針對三星裝置的 337 條款調查。
-
----
-
-### 2026-08-13 00:24:16  #國際
-
-【關鍵沙特石油出口港數週來首次發現油輪裝載】一艘超大型油輪停靠在沙烏地阿拉伯位於波斯灣的主要石油出口碼頭，這是近一個月來首次出現類似情況。隨著針對沙特石油出口的威脅擴大至紅海，沙特正努力維持原油運輸。歐盟“哨兵-2號”（Sentinel 2）衛星週二拍攝的一張衛星影象顯示，一艘能夠裝載約200萬桶原油的超大型原油運輸船（VLCC）停泊在朱艾邁赫（Ju’aymah）的一處單點繫泊設施。該設施是沙特巨型拉斯坦努拉（Ras Tanura）石油出口綜合體的一部分。
-
----
-
-### 2026-08-13 00:23:40  #市場 #國際
-
-【多空爭奪160大關 交易員密切關注日元是否會再遭干預】日元兌美元週三持穩在160關口附近，令投資者密切關注當局是否會再次進場干預。紐約時間上午11時左右，日元兌美元基本持平於159.23。本月以來日元已貶值逾1%，回吐了美國和日本不久前聯手干預刺激的部分漲幅。日元兌美元逼近四十年來最低點164的關鍵時刻，兩國當局協調進場買入。不過此類行動的侷限性也十分明顯，有利於美元的利差導致日元回吐了相當大一部分反彈，令其再度逼近160這一重要關口。
-
----
-
-### 2026-08-13 00:22:38  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-DAX Snaps 4-Day Advance — The DAX 40 gave up early gains to close about 0.2% lower on Wednesday after hitting a fresh intraday record of 26,574, ending a four-day rally as investors took profits amid uncertainty over the Iran conflict and Strait of Hormuz reopening. Focus also remained on economic data and earnings. Software, consumer cyclicals, telecoms, utilities and autos came under pressure, while industrials and tech stocks advanced. E.ON fell nearly 3% after modest first-half earnings growth, with its CEO warning of potential attacks on the country’s energy infrastructure. Brenntag dropped 2.2% after JPMorgan maintained its Sell rating even after solid Q2 performance and an improved full-year earnings outlook. Rheinmetall led gainers with a 2.3% rise, followed by Siemens Energy (+1.9%) and Infineon Technologies (+1.1%). TKMS surged 8.5% after strong results and an upgraded full-year revenue outlook.
-
----
-
-### 2026-08-13 00:18:06  #MKT News
-
-【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently.
-
----
-
-### 2026-08-13 00:16:05  #其他
-
-【南蘇丹霍亂疫情致1721人死亡 確診病例超11萬例】當地時間8月12日，南蘇丹衛生部長盧克·湯普森·託安在新聞釋出會上表示，自2025年9月以來，南蘇丹衛生部門已登記1721例霍亂疫情死亡病例和110574例確診病例。此次霍亂疫情已遍佈全國9個州55個縣和3個行政區，是南蘇丹迄今最大規模的霍亂疫情。（央視新聞）
-
----
-
-### 2026-08-13 00:14:24  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google (GOOG.O) launches Pixel 11 Pro Fold.
-
----
-
-### 2026-08-13 00:14:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Ends Flat Near Record Highs — The FTSE MIB closed largely unchanged at 53,699 on Wednesday, holding near record levels for a third straight session as losses for utilities offset renewed positive sentiment over AI spending. AI-related stocks advanced after upbeat sales forecasts from Tencent, CoreWeave, and Super Micro Computer, driven by stronger AI spending, with Prysmian rising 3% and STMicroelectronics adding 0.6% in Milan. Defense stocks also gained amid elevated geopolitical risks, led by Avio (1.7%) and Leonardo (1.4%). Financials remain mixed despite easing pressures of a Fed rate hike in September, while consolidation prospects continue. Unipol gained 1.9% after Berenberg stated the lender fully set to implement an MPS carve-out deal, while UniCredit lost 0.1% after reports that the ECB is leaning towards approving the lender's takeover bid of Commerzbank. Utilities weighed as European natural gas prices surged, led by Enel (-1.3%). Diasorin fell 3.3% after a UBS downgrade to "sell".
-
----
-
-### 2026-08-13 00:13:50  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Yemen's Mocha port authority says port operations fully suspended after attacks by Houthi militants.
-
----
-
-### 2026-08-13 00:13:09  #Trading Economics #Economy #Russia #Inflation Rate #Importance 1
-
-Russia Inflation Holds Steady in July — Russia’s annual inflation rate held at 6.0% in July 2026, matching June’s reading and remaining at its highest level since January. Motor gasoline inflation accelerated sharply to 25.9% from 19.9%, amid a severe fuel shortage as Ukrainian drone attacks disrupted refinery output. Core inflation rose to 5.2% from 5.0%, while goods inflation accelerated to 5.3% from 4.3%, driven by faster food price growth (4.4% vs 3.4%). In contrast, services inflation eased to 7.8% from 10.6%. On a monthly basis, consumer prices rose 0.5% in July, slowing from a 0.9% increase in June.
-
----
-
-### 2026-08-13 00:12:00  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index fell 8 points or 0.01 percent on Wednesday to close at 53699 points. Leading the losses are Diasorin (-3.32%), Stellantis N.V. (-2.86%) and Brunello Cucinelli (-2.79%). Top gainers were Prysmian (3.49%), Unipol Gruppo (2.25%) and Avio (1.73%).
-
----
-
-### 2026-08-13 00:11:52  #公司
-
-谷歌：Pixel 11 Pro Fold 今日開啟預購，將於 8 月 20 日上市開售。
-
----
-
-### 2026-08-13 00:11:14  #公司
-
-谷歌：推出 Pixel 11 Pro Fold。
-
----
-
-### 2026-08-13 00:11:00  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.23% Lower — The DAX Index dropped 60 points or 0.23 percent on Wednesday to close at 26331 points. Losses were led by E.ON (-3.15%), SAP (-2.73%) and Adidas (-2.28%). Offsetting the fall, top gainers were Rheinmetall (2.79%), Siemens Energy (1.98%) and Hochtief (1.12%).
-
----
-
-### 2026-08-13 00:10:00  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.46% Lower — The CAC 40 Index decreased 40 points or 0.46 percent on Wednesday to close at 8675 points. The decline was led by Essilor (-4.56%), Kering (-3.93%) and Capgemini (-3.52%). On the upside, the strongest performers were Schneider Electric (1.42%), Legrand (1.23%) and Thales (1.19%).
-
----
-
-### 2026-08-13 00:08:14  #國際
-
-烏克蘭總統澤連斯基：同亞美尼亞總理進行了交談。
-
----
-
-### 2026-08-13 00:07:20  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.22% Lower — The FTSE 100 Index fell 23 points or 0.22 percent on Wednesday to close at 10821 points. Leading the losses are Burberry (-4.57%), Marks & Spencer (-3.78%) and Relx (-2.95%). Top gainers were Admiral (2.90%), Fresnillo (2.75%) and 3i (2.46%).
-
----
-
-### 2026-08-13 00:06:42  #國際
-
-美國農業部：將阿根廷2025/2026年度大豆產量預期從之前的5000萬噸下調至4950萬噸；將巴西2025/2026年度大豆產量預期從之前的1.8億噸上調至1.805億噸。維持阿根廷2025/2026年度玉米產量預期在6300萬噸不變；將巴西2025/2026年度玉米產量預期從之前的1.38億噸上調至1.4億噸。
 
 ---

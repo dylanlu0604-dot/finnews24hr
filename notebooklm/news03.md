@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-14 05:24:15_
-_本檔包含 3209 則快訊，約 608616 字_
+_更新時間：2026-08-14 06:19:59_
+_本檔包含 3230 則快訊，約 608475 字_
+
+---
+
+### 2026-08-11 21:25:21  #觀點
+
+摩根大通將巴西股票評級從“增持”下調至“中性”。
+
+---
+
+### 2026-08-11 21:25:17  #其他
+
+METINVEST稱俄軍襲擊造成扎波羅熱鋼鐵廠 7 名員工死亡。
+
+---
+
+### 2026-08-11 21:25:01  #MKT News #Market Regions #Emerging Markets
+
+JP Morgan upgraded Peruvian equities to overweight.
+
+---
+
+### 2026-08-11 21:24:43  #MKT News
+
+JP Morgan downgraded Brazil equities to neutral from overweight.
+
+---
+
+### 2026-08-11 21:24:37  #觀點
+
+摩根大通將秘魯股票評級上調至“增持”。
+
+---
+
+### 2026-08-11 21:24:27  #MKT News
+
+JP Morgan downgrades Brazil equities rating.
+
+---
+
+### 2026-08-11 21:24:06  #公司 #國際
+
+【泰國政府宣佈暫停發放購槍許可證】泰國政府宣佈暫停發放購槍許可證，並在全國範圍內核查尚未完成槍支交易的許可證。公告提出多項槍支管控措施，包括加強對槍支經銷商、射擊場彈藥的檢查，並擬規定槍支援有和使用許可證每3年續期一次。泰國內政部將在60天內提交《槍支法》修訂草案。泰國總理阿努廷11日在內閣會議上下令在全國範圍內加強槍支管控，嚴厲打擊非法持槍及黑市槍支。（新華社）
+
+---
+
+### 2026-08-11 21:24:03  #國際
+
+美國總統特朗普關於出生公民權裁決的表態：這項裁決未來多年將使我們損失數萬億美元…… 這是一項糟糕的判決。
+
+---
+
+### 2026-08-11 21:22:50  #其他
+
+【應急管理部部長張成中在天津、河北調研防汛防颱風和安全生產工作】8月10日至11日，應急管理部黨委書記、部長張成中在天津、河北調研防汛防颱風和安全生產工作。張成中先後來到永定新河屈家店樞紐、海河耳閘、於橋水庫、滹沱河新建北堤、躍進溝泵站等地，現場察看堤壩、河閘等工程設施，詳細瞭解防洪工程執行管理和排程情況。他強調，受颱風“白海豚”殘渦北上和冷空氣共同影響，北方部分地區出現強降雨過程。要持續加強監測預報預警，滾動會商、加密排程，強化京津冀防汛協同聯動，統籌上下游、左右岸、干支流，紮實開展堤防和水庫巡查防守。要加強城區防洪排澇聯排聯調，全面排查治理隧道涵洞、低窪地區、地鐵站口等重點區域風險隱患；緊盯海堤、閘壩等重點部位，做好風暴潮防禦工作。要加強山溝溝口、狹窄河道等山洪高風險區巡查和景區、非正規景點、民宿、養老機構等重點單位安全管理。
+
+---
+
+### 2026-08-11 21:22:20  #其他
+
+據交易商協會資料統計，2026年1-7月信用風險緩釋憑證（CRMW）創設規模前三位機構為浙商銀行、上海農商行和交通銀行，金額分別為9.71億元、4.78億元和4.69億元，創設只數為8只、3只和2只。
+
+---
+
+### 2026-08-11 21:21:09  #MKT News
+
+【Former Supreme Court president elected Hungary's president】Hungary's parliament on the 11th voted to elect former Supreme Court president András Baka as president.
+
+---
+
+### 2026-08-11 21:20:20  #其他
+
+紐西蘭剛剛為一座金銻礦開闢快速審批通道，為首個鑽探專案掃清了障礙。
+
+---
+
+### 2026-08-11 21:19:56  #其他
+
+迪士尼： Disney+與ESPN宣佈自2026/27賽季起達成多年全球電動方程式錦標賽流媒體轉播協議。
+
+---
+
+### 2026-08-11 21:19:07  #其他
+
+匈牙利國會11日經過投票表決，選舉前最高法院院長鮑卡·安德拉什為新任總統。（新華社）
+
+---
+
+### 2026-08-11 21:19:00  #公司 #國際
+
+Venture Global執行長邁克·薩貝爾表示，由於天然氣庫存水平較低，歐洲正面臨越來越大的風險。
+
+---
+
+### 2026-08-11 21:18:42  #其他
+
+沙烏地阿拉伯國王對沙特、土耳其、巴基斯坦三方簽署的麥加聯合防務協議予以讚揚，稱該協議搭建起長期防務夥伴關係，以及深化合作與協同的框架。
+
+---
+
+### 2026-08-11 21:17:39  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
+
+Brent crude slipped below $86/bbl, down 1.32% on the day. WTI crude fell 1.00% to $80.59/bbl.
+
+---
+
+### 2026-08-11 21:17:16  #其他
+
+葉門交通部：胡塞武裝襲擊商船，危及數百萬葉門民眾的糧食供應。
+
+---
+
+### 2026-08-11 21:16:56  #市場
+
+【“白海豚”對物流和商品有啥影響？業內：運費會漲】隨著近日颱風“白海豚”強勢來襲，自8月8日起，上海港進入封港狀態，港口作業受阻波及集裝箱進港、提櫃、送櫃全鏈條。記者實探某物流服務平臺發現，疊加寧波港同步受颱風衝擊，就近替代港口選擇十分有限，海運交期或將拉長7至10天。而供應鏈擾動也在持續傳導至大宗商品市場，機構人士指出，過去一週沿海乾散貨運費出現顯著上漲；燃料油需求收縮強於供給收縮，價格或走出先跌後漲再回落行情。（第一財經）
+
+---
+
+### 2026-08-11 21:16:56  #國際
+
+美國聯邦航空管理局局長預計，20年內美國年航空旅客量將從10億翻倍至20億人次。
+
+---
+
+### 2026-08-11 21:16:42  #國際
+
+【韓國防部和防衛廳新設機構專責核潛艇建造】韓國國防部與防衛事業廳新設專門機構，負責推進核動力潛艇建造專案。報道稱，防衛事業廳計劃將原有的“韓國型潛艇專案團”重組擴編為“核動力潛艇專案團”，並新設“核動力潛艇專案組”和“核動力系統專案組”，主導核潛艇設計與建造的整個過程，以及核潛艇反應堆等核心技術開發工作。
+
+---
+
+### 2026-08-11 21:16:17  #國際
+
+市場訊息：巴基斯坦內政部長將於數小時內抵達伊朗舉行會談。
+
+---
+
+### 2026-08-11 21:16:12  #MKT News
+
+Hungary's parliament elected Andras Baka as president.
+
+---
+
+### 2026-08-11 21:16:00  #MKT News
+
+Pakistan's interior minister will arrive in Iran for talks within hours, Iranian outlet Fars News reports.
+
+---
+
+### 2026-08-11 21:15:57  #其他
+
+匈牙利議會選舉安德拉什・巴卡為總統。
+
+---
+
+### 2026-08-11 21:12:50  #國際
+
+AGILE DEFENSE：獲得價值8800萬美元的美國海軍陸戰隊網路空間作戰大隊高階網路支援服務III重新競標合同。
+
+---
+
+### 2026-08-11 21:12:41  #國際
+
+伊朗最高國家安全委員會秘書：面對任何威脅，伊朗伊斯蘭共和國絕不會在本國人民的權益問題上退讓，在此方面，相關領域的決策必須比以往更為強硬。
+
+---
+
+### 2026-08-11 21:11:45  #公司
+
+藍貓頭鷹資本公告高階票據發行。
+
+---
+
+### 2026-08-11 21:11:23  #其他
+
+【哥倫比亞強震死亡人數升至181人】哥倫比亞全國首府協會負責人11日對當地媒體說，10日在該國西部發生的7.4級強震已造成181人死亡、1310人受傷。（新華社）
+
+---
+
+### 2026-08-11 21:09:58  #央行 #公司 #國際
+
+【瑞士央行的美股持倉創新高 前三大持股為英偉達、蘋果和微軟】今年第二季度，瑞士央行以美國股票形式持有的外匯儲備增長超過10%，並達到歷史最高水平。根據週二公佈的瑞士央行提交給美國證券交易委員會的所謂13F申報，截至6月30日，該行在2300多家在美國上市公司中的持股價值1914億美元。瑞士央行略微超過四分之一的外匯儲備以股票方式持有，其中一部分投資於在美國上市的股票。前三大持股分別是英偉達、蘋果和微軟。該央行還持有防務軟體公司Palantir Technologies Inc.價值7.166億美元的股份。
+
+---
+
+### 2026-08-11 21:09:18  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
+
+---
+
+### 2026-08-11 21:08:42  #公司
+
+雅培：與谷歌多年合作將雅培的Lingo生物可穿戴裝置的血糖觀察與谷歌健康技術相結合。
+
+---
+
+### 2026-08-11 21:08:36  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Pulls Back on Iran Deal Hopes — Crude oil fell below $82 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
+
+---
+
+### 2026-08-11 21:08:15  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #ABT.O #GOOGL.O
+
+Abbott and Google launched their first joint project to apply blood-glucose insights and artificial intelligence to everyday health management.
+
+---
+
+### 2026-08-11 21:07:45  #MKT News #ABT.O #Impact bullish #GOOGL.O
+
+Abbott to integrate its Lingo biowearable glucose monitoring with Google Health technology after years of collaboration.
+
+---
+
+### 2026-08-11 21:07:20  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #ABT.O
+
+Abbott said its collaboration with Google includes large-scale studies to better guide AI training.
+
+---
+
+### 2026-08-11 21:07:18  #公司
+
+雅培與谷歌：合作涵蓋大規模研究專案，旨在為人工智慧輔導應用提供更完善的依據。
+
+---
+
+### 2026-08-11 21:07:00  #國際
+
+美國司法部將對明尼蘇達州初選開展選舉監督工作。
+
+---
+
+### 2026-08-11 21:07:00  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
+
+Nemotron 3.5 Lightning can run locally on NVIDIA RTX PCs, NVIDIA DGX Spark, OEM systems equipped with the GB10, and the NVIDIA Jetson platform.
+
+---
+
+### 2026-08-11 21:06:33  #其他
+
+市場訊息：大衛·埃裡森威脅，若加州政府拒絕就反壟斷訴訟達成和解，將於10月1日起把派拉蒙遷出加州。
+
+---
+
+### 2026-08-11 21:06:04  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
+
+NVIDIA (NVDA.O): Nemo Switchyard cuts cost to complete benchmarks to one-third of OPUS 4.8.
+
+---
+
+### 2026-08-11 21:05:30  #MKT News
+
+REUTERS SURVEY: Argentina's monthly inf forecast for July 2.0%, up from 1.9% in June.
+
+---
+
+### 2026-08-11 21:05:22  #公司 #國際
+
+【英偉達全力研發Nemotron 4開源大模型 拉動晶片需求同時直面客戶競爭】英偉達正加碼佈局開源賽道，投入資源自研一款重磅大模型。公司希望藉助該模型拉動硬體需求，但此舉也意味著它或將與自身客戶、合作伙伴形成競爭。多名參與 Nemotron 專案的人士透露，英偉達計劃打造 Nemotron 4 系列中規模最大的基礎模型，目標效能對標全球頂尖開源大模型。英偉達上一代旗艦大模型相關論文擁有 570 名作者，員工表示 Nemotron 4 參與研發人員規模將進一步擴大。一名前員工稱：“現階段所有人都希望能夠參與其中。”英偉達近期持續推出多款開源模型，本次研發建立在此基礎之上。週二，英偉達釋出 Nemotron 3.5 Lightning 輕量化模型，主打高效、高速執行智慧體。公司同時推出免費模型路由軟體，幫助企業快速搭建模型排程工具 —— 這類工具能夠將不同 AI 任務分配給適配且成本最優的模型。多名 Nemotron 專案員工透露，旗艦版 Nemotron 4 引數量至少達到萬億級別。引數量是模型學習過程中持續調整的引數單元，這一規模大約是英偉達當前旗艦模型 Nemotron 3 Ultra（6 月釋出）的兩倍。即便達到萬億引數，該模型體量依舊小於美國頭部開源大模型；不過英偉達十分看重模型壓縮技術，依靠該技術，更小體量模型也有望實現更優表現。
+
+---
+
+### 2026-08-11 21:05:12  #其他
+
+英偉達推出Nemotron 3.5 Lightning大模型，可透過OpenRouter、英偉達開發者平臺build.nvidia.com及雲合作伙伴獲取
+
+---
+
+### 2026-08-11 21:05:09  #Trading Economics #Markets #Spain #stocks #Importance 0
+
+Inditex Stock Price Hits 12-year High — Inditex shares increased to 59.33 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 8.25%, and in the last 12 months, it increased 40.34%.
 
 ---
 
@@ -19197,149 +19467,5 @@ The SENSEX Index Closes 0.06% Higher — The SENSEX Index rose 43 points or 0.06
 ### 2026-08-10 18:22:23  #央行 #中國央行
 
 【央行印發《中國人民銀行“十五五”改革發展規劃》】為全面貫徹黨的二十大和二十屆歷次全會精神，深入落實中央金融工作會議決策部署，根據《中華人民共和國國民經濟和社會發展第十五個五年規劃綱要》有關要求，近日，中國人民銀行印發《中國人民銀行“十五五”改革發展規劃》（以下簡稱《規劃》），並配套制定出臺了9份相關細分領域的行動方案。《規劃》以習近平新時代中國特色社會主義思想為指導，以加快建設金融強國為目標，加快完善中央銀行制度，就“十五五”時期中國人民銀行改革發展重點任務作出部署。
-
----
-
-### 2026-08-10 18:22:15  #MKT News #Important #Market Regions #Greater China #CNH
-
-【PBOC to strengthen Chinese-style modern monetary policy framework, refine base-money injection mechanism】The People’s Bank of China published its 15th Five-Year reform and development plan, calling to strengthen a Chinese-characteristics modern monetary policy framework and refine central-bank base-money injection mechanisms. The plan directs monetary and credit policy tools to perform both aggregate and structural roles, deepens market-based interest-rate formation, regulation and transmission, and emphasizes the market’s decisive role in exchange-rate formation while keeping the renminbi broadly stable at a reasonable and balanced level. It also calls for enhancing the macroprudential framework by expanding PBOC macroprudential and financial-stability functions and coverage, diversifying tools, establishing macroprudential monitoring and evaluation, strengthening financial-stability safeguards and prudently resolving risks in key sectors.
-
----
-
-### 2026-08-10 18:21:39  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【El Nifio compounds Black Sea tensions; grain supply risks mounting】Black Sea grain exports face new constraints: Danube water levels have hit record lows, curbing shipments via Romania, while intensified Russian strikes have disrupted exports from Odesa and other Ukrainian ports. Russia and Ukraine together account for more than a quarter of global wheat exports; escalating attacks on regional grain infrastructure and vessels are undermining export reliability and adding to supply risk. These disruptions coincide with an unusually strong El Nifio and Middle East tensions that are lifting energy costs and disrupting trade routes. Paris and Chicago wheat and corn futures rose sharply last month.
-
----
-
-### 2026-08-10 18:21:22  #宏觀
-
-財政部、應急管理部緊急預撥1.8億元中央自然災害救災資金 支援浙江、內蒙古等7省（區）及新疆生產建設兵團做好自然災害應急搶險救災工作（財政部網站）
-
----
-
-### 2026-08-10 18:19:46  #公司
-
-【ST智知：董事馬力因個人原因辭職】ST智知公告稱，公司董事會近日收到董事馬力書面辭職報告，其因個人原因辭去董事及戰略委員會委員職務，辭職後不再擔任公司任何職務，辭職報告於2026年8月10日送達時生效，原定任期至2029年5月26日。截至公告披露日，馬力未持股，與董事會無意見分歧。其辭職未使董事會成員低於法定最低人數，不會對公司日常經營產生重大影響，公司將按規定補選董事。
-
----
-
-### 2026-08-10 18:19:43  #公司
-
-【奧特維：出資1000萬元參與設立產業基金，佔比7.14%】奧特維公告，公司作為有限合夥人以自有資金1000萬元認購深高新投南理工（江蘇）創業投資基金合夥企業（有限合夥）份額，佔合夥企業認繳出資總額的7.14%。基金投資領域為高階裝備、新材料等戰略新興產業，合夥企業認繳出資總額為人民幣1.4億元。本次投資事項不構成關聯交易及重大資產重組，已獲公司董事會審議透過。
-
----
-
-### 2026-08-10 18:18:40  #公司
-
-【新炬網路：2025年度差異化分紅對除權除息參考價影響較小】新炬網路公告稱，2024年公司回購股份247.54萬股用於員工持股計劃或股權激勵，存放於回購專用賬戶，該部分股份不參與利潤分配，致2025年度利潤分配時股權登記日總股本與實際參與分配股份總數有差異，需進行差異化權益分派特殊除權除息處理。2025年度擬嚮應參與分配的1.60億股股東每股派現金紅利0.03元（含稅）。經計算，本次差異化分紅對除權除息參考價格影響的絕對值約為0%，小於1%，影響較小。
-
----
-
-### 2026-08-10 18:18:37  #公司
-
-【九號公司：2026年上半年淨利潤10.08億元，同比降18.79%】九號公司公告，2026年上半年營業收入143.58億元，同比增長22.28%；歸屬於上市公司股東的淨利潤10.08億元，同比下降18.79%；歸屬於上市公司股東的扣除非經常性損益的淨利潤9.69億元，同比下降26.21%。本報告期無利潤分配預案。
-
----
-
-### 2026-08-10 18:18:35  #公司 #市場
-
-【景旺電子：股票交易異常波動 不存在應披露未披露重大資訊】景旺電子公告稱，公司股票於2026年8月6日、7日、10日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司生產經營正常，市場環境、行業政策未重大調整。公司正籌劃境外發行H股並在港交所主機板上市，尚需監管機構批准，能否實施有不確定性。截至公告披露日，公司及相關方不存在應披露而未披露的重大資訊。提醒投資者注意交易和投資風險。
-
----
-
-### 2026-08-10 18:16:58  #其他
-
-【飛豬推出旅行AI產品“飛豬幫幫”】8月10日，飛豬宣佈推出旅行AI產品飛豬幫幫。據瞭解，使用者開口說出具體需求，該產品可以完成做攻略、訂機酒，到退訂改簽、值機選座、升級房型，再到開票報銷、生成旅行回憶內容等事項。
-
----
-
-### 2026-08-10 18:16:51  #其他
-
-【農業農村部和中國氣象局繼續釋出農田漬澇風險預警】記者從農業農村部瞭解到，受今年第13號颱風“白海豚”殘餘環流和北方降雨系統共同影響，10日夜間至15日，浙江北部和東部、上海、江蘇大部、安徽、湖北中北部、河南、山東西部、河北中南部、山西東南部等地有暴雨到大暴雨，低窪農田漬澇風險高；河南西部和中北部等地的部分地區有特大暴雨，農田漬澇風險很高。建議上述地區及時清溝理渠，做好排澇機具物資準備，雨後及時排澇散墒，適時噴藥追肥，促進作物恢復生長。（央視新聞）
-
----
-
-### 2026-08-10 18:16:08  #公司
-
-【南模生物：預計2026年半年度淨利潤800萬元-1000萬元，同比下降55.97%-44.96%】南模生物公告，預計2026年上半年營業收入2.16億元至2.5億元，同比增長10.34%-27.71%；預計歸母淨利潤800萬元至1000萬元，較2025年同期1816.74萬元下降55.97%-44.96%。淨利潤下降主要因本期股份支付費用較2025年同期大幅增加，且2025年同期因限制性股票激勵計劃預計業績未達標衝減了股份支付金額；扣除股份支付影響後，預計歸母淨利潤1300萬元至1580萬元，同比增長47.27%-78.99%。本次業績預告未經審計。
-
----
-
-### 2026-08-10 18:15:52  #公司 #市場
-
-巴里克黃金礦業在美上市股價盤前下跌5%，因該公司第二季度利潤不及預期。
-
----
-
-### 2026-08-10 18:15:31  #MKT News
-
-【Mecca joint defense pact currently "only on paper"】Security policy and defense analyst Wolfgang Pustay said the trilateral defense pact signed by Turkey, Saudi Arabia and Pakistan is currently "only on paper." He noted that after recent Houthi attacks there has been no deployment of Pakistani or Turkish forces to Saudi Arabia, and that Turkey has not mounted a substantive response to Iranian missile strikes affecting Gulf states including Saudi Arabia. Pustay said that without actual troop deployments or Pakistani and Turkish personnel being affected by attacks on Saudi Arabia, the joint-defense agreement will struggle to take effect.
-
----
-
-### 2026-08-10 18:14:49  #公司
-
-【凱格精機：與多方簽訂募集資金四方監管協議】凱格精機公告稱，2026年7月17日，公司第三屆董事會第五次會議同意全資子公司南昌凱科新增募集資金專項賬戶，存放“精密智慧製造裝備生產基地建設專案”資金。8月10日，公司和南昌凱科與招商銀行東莞分行、保薦機構國信證券簽訂《募集資金四方監管協議》，對資金存放和使用專戶管理。新增專戶已開立，賬號為769914872910021。
-
----
-
-### 2026-08-10 18:14:45  #公司
-
-【天邦食品：子公司建德農發被裁定破產重整 涉案金額12.96億元】天邦食品公告稱，公司五家子公司涉及工程款12.96億元及資金佔用費等。近日，浙江省建德市人民法院裁定受理涉案子公司之一建德農發的破產重整申請，並指定北京盈科（杭州）律師事務所等聯合擔任管理人。截至2026年6月17日，建德農發涉及被強制執行案件4件，執行標的2.6億元，負債達5億餘元。目前重整方案未確定，最終影響以年度審計結果為準。
-
----
-
-### 2026-08-10 18:14:41  #公司 #國際
-
-【Meta被索賠1.4萬億美元】繼已有兩次定罪和近10億美元賠償後，美國元宇宙平臺公司（Meta）本週將再次站上聯邦法庭被告席。8月12日，美國四州聯合提起的訴訟將在奧克蘭聯邦法院啟動陪審團篩選程式，檢方指控Meta旗下社交媒體平臺成癮性設計對未成年人造成傷害，向其索賠1.4萬億美元。（央視新聞）
-
----
-
-### 2026-08-10 18:14:30  #公司
-
-【芯聯整合：2026年上半年營收45.62億元 同比增長30.53%】芯聯整合公告稱，2026年上半年公司開展“提質增效重回報”專項行動，成效顯著。營收45.62億元，同比增長30.53%，毛利率12.71%，同比提升9.17個百分點，晶圓生產量148萬片（摺合8英寸），同比增長28.86%。上半年研發投入9.05億元，新增發明專利等74項。公司還與紹興相關部門合作，計劃投資約200億元建設生產線，擬出資30.12億元。下半年將繼續推進各項工作，提升競爭力。
-
----
-
-### 2026-08-10 18:13:57  #公司 #市場
-
-【禹洲集團：2026年7月合約銷售金額3.99億元，銷售面積29707平方米】禹洲集團公告，2026年7月合約銷售金額為人民幣3.99億元，銷售面積為29707平方米，平均銷售價格為每平方米人民幣13751元；其中以房抵工程款之銷售金額為人民幣0.58億元，銷售面積為5751平方米。2026年前七個月累計銷售金額為人民幣32.43億元，累計銷售面積為24.57萬平方米，平均銷售價格為每平方米人民幣13209元。
-
----
-
-### 2026-08-10 18:13:48  #國際
-
-全球基金在交易日前淨買入價值102億盧比的印度股票。
-
----
-
-### 2026-08-10 18:13:42  #公司 #國際
-
-【商務部：中方一貫審慎、剋制使用貿易救濟措施，堅定維護公平和自由貿易】商務部新聞發言人就對原產於墨西哥和美國的進口碧根果反傾銷調查初裁答記者問。2025年9月25日，商務部對原產於墨西哥和美國的進口碧根果發起反傾銷調查。經過調查，初步證據表明，進口被調查產品存在傾銷，相關國內產業受到了實質損害，且傾銷與實質損害之間存在因果關係。根據《中華人民共和國反傾銷條例》的有關規定，商務部於2026年8月10日釋出案件初裁公告，並決定實施臨時反傾銷措施，裁定墨西哥公司的傾銷幅度為17.8%-51.6%；由於沒有一家美國公司參加調查，根據中國相關法律規定和世貿組織規則，採用可獲得事實裁定所有美國公司的傾銷幅度為54.3%。中方一貫審慎、剋制使用貿易救濟措施，堅定維護公平和自由貿易。下一步，我們將繼續依法開展調查，充分保障各利害關係方權利，根據調查結果客觀公正作出最終裁決。
-
----
-
-### 2026-08-10 18:12:52  #公司
-
-【均勝電子：6.45億元認購子公司股票 持股比例將增至39.48%】均勝電子公告稱，公司以自有資金參與認購子公司香山股份向特定物件發行股票。目前，已用約6.45億元認購20,682,711股，鎖定期三年。該部分新增股票於2026年7月31日受理登記，8月12日在深交所上市。發行完成後，公司持股數量增至60,304,311股，持股比例增至39.48%，仍為控股股東。
-
----
-
-### 2026-08-10 18:12:51  #公司 #國際
-
-【OpenAI模型“越獄”問題引發白宮關注，議員擬要求奧特曼前往白宮作證】近日，OpenAI模型失控事件已經引發美國跨黨派關注。多位國會議員要求奧特曼和阿莫代伊到國會作證；15名共和黨州總檢察長警告OpenAI，其系統入侵其他公司可能違法；民主黨參議員也致信兩家公司索要更多安全細節。受此影響，OpenAI已推遲新模型Astra釋出，擔心其可能被用於繞過人類網路防禦。
-
----
-
-### 2026-08-10 18:12:47  #公司
-
-【聖湘生物：原持股5%以上股東571萬股擬被司法強制執行】聖湘生物公告稱，公司原持股5%以上股東陳文義所持公司部分股份擬被司法強制執行。法院將准許申請人透過二級市場大宗交易或集中競價分批次賣出聖湘生物股票571萬股（佔總股本0.99%），減持期限不晚於2027年12月30日。強制執行後，陳文義持股將從2642.74萬股降至2071.74萬股，持股比例從4.56%降至3.58%。本事項不影響公司控制權穩定及日常經營。
-
----
-
-### 2026-08-10 18:12:40  #其他
-
-【水利部對冀魯豫鄂4省份啟動洪水防禦Ⅳ級應急響應】記者從水利部瞭解到，水利部於10日對河北、山東、河南、湖北啟動洪水防禦Ⅳ級應急響應。據預報，受第13號颱風“白海豚”和冷空氣共同影響，8月10日至16日，湖北、河南、河北、山東將先後出現大到暴雨，其中湖北西北部、河南東南部和北部、河北中部南部等地部分地區將有大暴雨，區域性將有特大暴雨。受降雨影響，長江中游幹流及支流漢江，淮河上中游干支流及沂沭泗水系，黃河中下游幹流及支流伊洛河、沁河，海河流域漳衛河、徒駭馬頰河、子牙河、大清河等主要河流將出現明顯漲水過程；其中沙潁河、伊洛河、黃河、衛河等主要河流可能發生編號洪水，湖北漢江支流北河，河南沙潁河上游支流北汝河、伊洛河支流蠻峪河、衛河支流淇河，河北滏陽河水系李陽河，山東沭河支流雞龍河等中小河流可能發生較大洪水。（新華社）
 
 ---

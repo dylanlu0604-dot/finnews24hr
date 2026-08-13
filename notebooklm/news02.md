@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-14 05:24:15_
-_本檔包含 3140 則快訊，約 608506 字_
+_更新時間：2026-08-14 06:19:59_
+_本檔包含 3120 則快訊，約 608291 字_
+
+---
+
+### 2026-08-13 00:38:53  #其他
+
+哥倫比亞全國咖啡種植者聯合會：哥倫比亞加勒比海港口咖啡出口持續正常開展，未受中斷影響。因基礎設施檢查及通路受阻，哥倫比亞布埃納文圖拉港咖啡出口臨時暫停。
+
+---
+
+### 2026-08-13 00:38:00  #MKT News
+
+Apple (AAPL.O) appointed a senior U.S. airline executive as head of government affairs.
+
+---
+
+### 2026-08-13 00:36:13  #國際
+
+蘋果聘請美國航空資深高管出任政府事務主管。
+
+---
+
+### 2026-08-13 00:30:34  #市場 #央行 #國際
+
+【歐洲債市：德國國債和英國國債持穩，長端表現略遜】德國國債和英國國債回吐漲幅，由於圍繞重新開放霍爾木茲海峽的談判進展仍不明朗，油價收復早前跌幅。交易員基本無視符合市場預期的美國7月通脹資料，目前預計歐洲央行到年底加息39個基點， 英國央行到年底加息28個基點。布倫特原油價格下跌0.1%，至每桶88.82美元。
+
+---
+
+### 2026-08-13 00:29:01  #公司 #國際
+
+美國國際貿易委員會：萬勝（Maxell）指控三星侵犯移動裝置相關專利。
+
+---
+
+### 2026-08-13 00:28:55  #MKT News #Important #005930.KS #Impact bearish
+
+U.S. International Trade Commission opens Section 337 investigation into Samsung devices.
+
+---
+
+### 2026-08-13 00:28:24  #國際
+
+【巴勒斯坦總統與土耳其總統會談 討論巴以局勢等】當地時間12日，巴勒斯坦總統阿巴斯在安卡拉同土耳其總統埃爾多安舉行正式會談。雙方就巴以局勢最新進展、雙邊關係及共同關心的問題深入交換意見。（央視新聞）
+
+---
+
+### 2026-08-13 00:27:50  #公司 #焦點 #國際
+
+美國國際貿易委員會發起針對三星裝置的 337 條款調查。
+
+---
+
+### 2026-08-13 00:24:16  #國際
+
+【關鍵沙特石油出口港數週來首次發現油輪裝載】一艘超大型油輪停靠在沙烏地阿拉伯位於波斯灣的主要石油出口碼頭，這是近一個月來首次出現類似情況。隨著針對沙特石油出口的威脅擴大至紅海，沙特正努力維持原油運輸。歐盟“哨兵-2號”（Sentinel 2）衛星週二拍攝的一張衛星影象顯示，一艘能夠裝載約200萬桶原油的超大型原油運輸船（VLCC）停泊在朱艾邁赫（Ju’aymah）的一處單點繫泊設施。該設施是沙特巨型拉斯坦努拉（Ras Tanura）石油出口綜合體的一部分。
+
+---
+
+### 2026-08-13 00:23:40  #市場 #國際
+
+【多空爭奪160大關 交易員密切關注日元是否會再遭干預】日元兌美元週三持穩在160關口附近，令投資者密切關注當局是否會再次進場干預。紐約時間上午11時左右，日元兌美元基本持平於159.23。本月以來日元已貶值逾1%，回吐了美國和日本不久前聯手干預刺激的部分漲幅。日元兌美元逼近四十年來最低點164的關鍵時刻，兩國當局協調進場買入。不過此類行動的侷限性也十分明顯，有利於美元的利差導致日元回吐了相當大一部分反彈，令其再度逼近160這一重要關口。
+
+---
+
+### 2026-08-13 00:22:38  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Snaps 4-Day Advance — The DAX 40 gave up early gains to close about 0.2% lower on Wednesday after hitting a fresh intraday record of 26,574, ending a four-day rally as investors took profits amid uncertainty over the Iran conflict and Strait of Hormuz reopening. Focus also remained on economic data and earnings. Software, consumer cyclicals, telecoms, utilities and autos came under pressure, while industrials and tech stocks advanced. E.ON fell nearly 3% after modest first-half earnings growth, with its CEO warning of potential attacks on the country’s energy infrastructure. Brenntag dropped 2.2% after JPMorgan maintained its Sell rating even after solid Q2 performance and an improved full-year earnings outlook. Rheinmetall led gainers with a 2.3% rise, followed by Siemens Energy (+1.9%) and Infineon Technologies (+1.1%). TKMS surged 8.5% after strong results and an upgraded full-year revenue outlook.
+
+---
+
+### 2026-08-13 00:18:06  #MKT News
+
+【South Sudan cholera outbreak: 1,721 deaths, 110,574 cases since Sep 2025】South Sudan Health Minister Luke Thompson Toan said on Aug. 12 the health ministry has recorded 1,721 cholera deaths and 110,574 confirmed cases since Sept. 2025. The outbreak has reached nine states, 55 counties and three administrative areas and is the largest cholera outbreak in South Sudan’s history. The ministry, alongside the National Public Health Institute, WHO and partners, has launched oral cholera vaccination campaigns and stepped up water, sanitation and hygiene measures; reported case numbers have declined recently.
+
+---
+
+### 2026-08-13 00:16:05  #其他
+
+【南蘇丹霍亂疫情致1721人死亡 確診病例超11萬例】當地時間8月12日，南蘇丹衛生部長盧克·湯普森·託安在新聞釋出會上表示，自2025年9月以來，南蘇丹衛生部門已登記1721例霍亂疫情死亡病例和110574例確診病例。此次霍亂疫情已遍佈全國9個州55個縣和3個行政區，是南蘇丹迄今最大規模的霍亂疫情。（央視新聞）
+
+---
+
+### 2026-08-13 00:14:24  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
+
+Google (GOOG.O) launches Pixel 11 Pro Fold.
+
+---
+
+### 2026-08-13 00:14:09  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Ends Flat Near Record Highs — The FTSE MIB closed largely unchanged at 53,699 on Wednesday, holding near record levels for a third straight session as losses for utilities offset renewed positive sentiment over AI spending. AI-related stocks advanced after upbeat sales forecasts from Tencent, CoreWeave, and Super Micro Computer, driven by stronger AI spending, with Prysmian rising 3% and STMicroelectronics adding 0.6% in Milan. Defense stocks also gained amid elevated geopolitical risks, led by Avio (1.7%) and Leonardo (1.4%). Financials remain mixed despite easing pressures of a Fed rate hike in September, while consolidation prospects continue. Unipol gained 1.9% after Berenberg stated the lender fully set to implement an MPS carve-out deal, while UniCredit lost 0.1% after reports that the ECB is leaning towards approving the lender's takeover bid of Commerzbank. Utilities weighed as European natural gas prices surged, led by Enel (-1.3%). Diasorin fell 3.3% after a UBS downgrade to "sell".
+
+---
+
+### 2026-08-13 00:13:50  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Yemen's Mocha port authority says port operations fully suspended after attacks by Houthi militants.
+
+---
+
+### 2026-08-13 00:13:09  #Trading Economics #Economy #Russia #Inflation Rate #Importance 1
+
+Russia Inflation Holds Steady in July — Russia’s annual inflation rate held at 6.0% in July 2026, matching June’s reading and remaining at its highest level since January. Motor gasoline inflation accelerated sharply to 25.9% from 19.9%, amid a severe fuel shortage as Ukrainian drone attacks disrupted refinery output. Core inflation rose to 5.2% from 5.0%, while goods inflation accelerated to 5.3% from 4.3%, driven by faster food price growth (4.4% vs 3.4%). In contrast, services inflation eased to 7.8% from 10.6%. On a monthly basis, consumer prices rose 0.5% in July, slowing from a 0.9% increase in June.
+
+---
+
+### 2026-08-13 00:12:00  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index fell 8 points or 0.01 percent on Wednesday to close at 53699 points. Leading the losses are Diasorin (-3.32%), Stellantis N.V. (-2.86%) and Brunello Cucinelli (-2.79%). Top gainers were Prysmian (3.49%), Unipol Gruppo (2.25%) and Avio (1.73%).
+
+---
+
+### 2026-08-13 00:11:52  #公司
+
+谷歌：Pixel 11 Pro Fold 今日開啟預購，將於 8 月 20 日上市開售。
+
+---
+
+### 2026-08-13 00:11:14  #公司
+
+谷歌：推出 Pixel 11 Pro Fold。
+
+---
+
+### 2026-08-13 00:11:00  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.23% Lower — The DAX Index dropped 60 points or 0.23 percent on Wednesday to close at 26331 points. Losses were led by E.ON (-3.15%), SAP (-2.73%) and Adidas (-2.28%). Offsetting the fall, top gainers were Rheinmetall (2.79%), Siemens Energy (1.98%) and Hochtief (1.12%).
+
+---
+
+### 2026-08-13 00:10:00  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.46% Lower — The CAC 40 Index decreased 40 points or 0.46 percent on Wednesday to close at 8675 points. The decline was led by Essilor (-4.56%), Kering (-3.93%) and Capgemini (-3.52%). On the upside, the strongest performers were Schneider Electric (1.42%), Legrand (1.23%) and Thales (1.19%).
+
+---
+
+### 2026-08-13 00:08:14  #國際
+
+烏克蘭總統澤連斯基：同亞美尼亞總理進行了交談。
+
+---
+
+### 2026-08-13 00:07:20  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.22% Lower — The FTSE 100 Index fell 23 points or 0.22 percent on Wednesday to close at 10821 points. Leading the losses are Burberry (-4.57%), Marks & Spencer (-3.78%) and Relx (-2.95%). Top gainers were Admiral (2.90%), Fresnillo (2.75%) and 3i (2.46%).
+
+---
+
+### 2026-08-13 00:06:42  #國際
+
+美國農業部：將阿根廷2025/2026年度大豆產量預期從之前的5000萬噸下調至4950萬噸；將巴西2025/2026年度大豆產量預期從之前的1.8億噸上調至1.805億噸。維持阿根廷2025/2026年度玉米產量預期在6300萬噸不變；將巴西2025/2026年度玉米產量預期從之前的1.38億噸上調至1.4億噸。
 
 ---
 
@@ -18679,275 +18829,5 @@ US Dollar Holds Rebound — The dollar index was at the 99.8 mark on Tuesday, ho
 ### 2026-08-11 21:26:23  #公司
 
 【熊貓金控：收到證監會湖南監管局《行政處罰決定書》，被處以700萬元罰款】熊貓金控公告，公司收到中國證監會湖南監管局《行政處罰決定書》。經查，*ST熊貓與昆朋資產的債權轉讓為虛假交易，*ST熊貓為債權轉讓提供資金，後續透過資金拆借掩蓋虛假交易，上述債權由國峻實業控股有限公司代持。依照相關規定，湖南證監局決定：一、對熊貓金控股份有限公司責令改正，給予警告，並處以700萬元罰款；二、對徐金煥給予警告，並處以400萬元罰款；三、對李民給予警告，並處以200萬元罰款；四、對羅春豔給予警告，並處以150萬元罰款；五、對楊恆偉、黃玉岸給予警告，並分別處以100萬元罰款。鑑於徐金煥、李民的相關違法情節嚴重，依據相關規定，湖南證監局決定：對徐金煥採取5年證券市場禁入措施，對李民採取3年證券市場禁入措施。自湖南證監局宣佈決定之日起，在禁入期間內，上述人員除不得繼續在原機構從事證券業務、證券服務業務或者擔任原證券發行人的董事、監事、高階管理人員職務外，也不得在其他任何機構中從事證券業務、證券服務業務或者擔任其他證券發行人的董事、監事、高階管理人員職務。
-
----
-
-### 2026-08-11 21:25:21  #觀點
-
-摩根大通將巴西股票評級從“增持”下調至“中性”。
-
----
-
-### 2026-08-11 21:25:17  #其他
-
-METINVEST稱俄軍襲擊造成扎波羅熱鋼鐵廠 7 名員工死亡。
-
----
-
-### 2026-08-11 21:25:01  #MKT News #Market Regions #Emerging Markets
-
-JP Morgan upgraded Peruvian equities to overweight.
-
----
-
-### 2026-08-11 21:24:43  #MKT News
-
-JP Morgan downgraded Brazil equities to neutral from overweight.
-
----
-
-### 2026-08-11 21:24:37  #觀點
-
-摩根大通將秘魯股票評級上調至“增持”。
-
----
-
-### 2026-08-11 21:24:27  #MKT News
-
-JP Morgan downgrades Brazil equities rating.
-
----
-
-### 2026-08-11 21:24:06  #公司 #國際
-
-【泰國政府宣佈暫停發放購槍許可證】泰國政府宣佈暫停發放購槍許可證，並在全國範圍內核查尚未完成槍支交易的許可證。公告提出多項槍支管控措施，包括加強對槍支經銷商、射擊場彈藥的檢查，並擬規定槍支援有和使用許可證每3年續期一次。泰國內政部將在60天內提交《槍支法》修訂草案。泰國總理阿努廷11日在內閣會議上下令在全國範圍內加強槍支管控，嚴厲打擊非法持槍及黑市槍支。（新華社）
-
----
-
-### 2026-08-11 21:24:03  #國際
-
-美國總統特朗普關於出生公民權裁決的表態：這項裁決未來多年將使我們損失數萬億美元…… 這是一項糟糕的判決。
-
----
-
-### 2026-08-11 21:22:50  #其他
-
-【應急管理部部長張成中在天津、河北調研防汛防颱風和安全生產工作】8月10日至11日，應急管理部黨委書記、部長張成中在天津、河北調研防汛防颱風和安全生產工作。張成中先後來到永定新河屈家店樞紐、海河耳閘、於橋水庫、滹沱河新建北堤、躍進溝泵站等地，現場察看堤壩、河閘等工程設施，詳細瞭解防洪工程執行管理和排程情況。他強調，受颱風“白海豚”殘渦北上和冷空氣共同影響，北方部分地區出現強降雨過程。要持續加強監測預報預警，滾動會商、加密排程，強化京津冀防汛協同聯動，統籌上下游、左右岸、干支流，紮實開展堤防和水庫巡查防守。要加強城區防洪排澇聯排聯調，全面排查治理隧道涵洞、低窪地區、地鐵站口等重點區域風險隱患；緊盯海堤、閘壩等重點部位，做好風暴潮防禦工作。要加強山溝溝口、狹窄河道等山洪高風險區巡查和景區、非正規景點、民宿、養老機構等重點單位安全管理。
-
----
-
-### 2026-08-11 21:22:20  #其他
-
-據交易商協會資料統計，2026年1-7月信用風險緩釋憑證（CRMW）創設規模前三位機構為浙商銀行、上海農商行和交通銀行，金額分別為9.71億元、4.78億元和4.69億元，創設只數為8只、3只和2只。
-
----
-
-### 2026-08-11 21:21:09  #MKT News
-
-【Former Supreme Court president elected Hungary's president】Hungary's parliament on the 11th voted to elect former Supreme Court president András Baka as president.
-
----
-
-### 2026-08-11 21:20:20  #其他
-
-紐西蘭剛剛為一座金銻礦開闢快速審批通道，為首個鑽探專案掃清了障礙。
-
----
-
-### 2026-08-11 21:19:56  #其他
-
-迪士尼： Disney+與ESPN宣佈自2026/27賽季起達成多年全球電動方程式錦標賽流媒體轉播協議。
-
----
-
-### 2026-08-11 21:19:07  #其他
-
-匈牙利國會11日經過投票表決，選舉前最高法院院長鮑卡·安德拉什為新任總統。（新華社）
-
----
-
-### 2026-08-11 21:19:00  #公司 #國際
-
-Venture Global執行長邁克·薩貝爾表示，由於天然氣庫存水平較低，歐洲正面臨越來越大的風險。
-
----
-
-### 2026-08-11 21:18:42  #其他
-
-沙烏地阿拉伯國王對沙特、土耳其、巴基斯坦三方簽署的麥加聯合防務協議予以讚揚，稱該協議搭建起長期防務夥伴關係，以及深化合作與協同的框架。
-
----
-
-### 2026-08-11 21:17:39  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-Brent crude slipped below $86/bbl, down 1.32% on the day. WTI crude fell 1.00% to $80.59/bbl.
-
----
-
-### 2026-08-11 21:17:16  #其他
-
-葉門交通部：胡塞武裝襲擊商船，危及數百萬葉門民眾的糧食供應。
-
----
-
-### 2026-08-11 21:16:56  #市場
-
-【“白海豚”對物流和商品有啥影響？業內：運費會漲】隨著近日颱風“白海豚”強勢來襲，自8月8日起，上海港進入封港狀態，港口作業受阻波及集裝箱進港、提櫃、送櫃全鏈條。記者實探某物流服務平臺發現，疊加寧波港同步受颱風衝擊，就近替代港口選擇十分有限，海運交期或將拉長7至10天。而供應鏈擾動也在持續傳導至大宗商品市場，機構人士指出，過去一週沿海乾散貨運費出現顯著上漲；燃料油需求收縮強於供給收縮，價格或走出先跌後漲再回落行情。（第一財經）
-
----
-
-### 2026-08-11 21:16:56  #國際
-
-美國聯邦航空管理局局長預計，20年內美國年航空旅客量將從10億翻倍至20億人次。
-
----
-
-### 2026-08-11 21:16:42  #國際
-
-【韓國防部和防衛廳新設機構專責核潛艇建造】韓國國防部與防衛事業廳新設專門機構，負責推進核動力潛艇建造專案。報道稱，防衛事業廳計劃將原有的“韓國型潛艇專案團”重組擴編為“核動力潛艇專案團”，並新設“核動力潛艇專案組”和“核動力系統專案組”，主導核潛艇設計與建造的整個過程，以及核潛艇反應堆等核心技術開發工作。
-
----
-
-### 2026-08-11 21:16:17  #國際
-
-市場訊息：巴基斯坦內政部長將於數小時內抵達伊朗舉行會談。
-
----
-
-### 2026-08-11 21:16:12  #MKT News
-
-Hungary's parliament elected Andras Baka as president.
-
----
-
-### 2026-08-11 21:16:00  #MKT News
-
-Pakistan's interior minister will arrive in Iran for talks within hours, Iranian outlet Fars News reports.
-
----
-
-### 2026-08-11 21:15:57  #其他
-
-匈牙利議會選舉安德拉什・巴卡為總統。
-
----
-
-### 2026-08-11 21:12:50  #國際
-
-AGILE DEFENSE：獲得價值8800萬美元的美國海軍陸戰隊網路空間作戰大隊高階網路支援服務III重新競標合同。
-
----
-
-### 2026-08-11 21:12:41  #國際
-
-伊朗最高國家安全委員會秘書：面對任何威脅，伊朗伊斯蘭共和國絕不會在本國人民的權益問題上退讓，在此方面，相關領域的決策必須比以往更為強硬。
-
----
-
-### 2026-08-11 21:11:45  #公司
-
-藍貓頭鷹資本公告高階票據發行。
-
----
-
-### 2026-08-11 21:11:23  #其他
-
-【哥倫比亞強震死亡人數升至181人】哥倫比亞全國首府協會負責人11日對當地媒體說，10日在該國西部發生的7.4級強震已造成181人死亡、1310人受傷。（新華社）
-
----
-
-### 2026-08-11 21:09:58  #央行 #公司 #國際
-
-【瑞士央行的美股持倉創新高 前三大持股為英偉達、蘋果和微軟】今年第二季度，瑞士央行以美國股票形式持有的外匯儲備增長超過10%，並達到歷史最高水平。根據週二公佈的瑞士央行提交給美國證券交易委員會的所謂13F申報，截至6月30日，該行在2300多家在美國上市公司中的持股價值1914億美元。瑞士央行略微超過四分之一的外匯儲備以股票方式持有，其中一部分投資於在美國上市的股票。前三大持股分別是英偉達、蘋果和微軟。該央行還持有防務軟體公司Palantir Technologies Inc.價值7.166億美元的股份。
-
----
-
-### 2026-08-11 21:09:18  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Eases on Iran Deal Hopes — Brent crude oil fell toward $87 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
-
----
-
-### 2026-08-11 21:08:42  #公司
-
-雅培：與谷歌多年合作將雅培的Lingo生物可穿戴裝置的血糖觀察與谷歌健康技術相結合。
-
----
-
-### 2026-08-11 21:08:36  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Pulls Back on Iran Deal Hopes — Crude oil fell below $82 per barrel on Tuesday after Pakistan signaled that the US and Iran could be close to an arrangement aimed at easing tensions and potentially reopening the Strait of Hormuz. Pakistan’s Defense Minister Khawaja Asif said recent developments suggested the sides were “close to some sort of arrangement” and that conditions were moving in favor of peace. Separately, talks between Iran and Oman over restoring maritime traffic through the strategic waterway were reportedly at an advanced stage, according to a Qatari Foreign Ministry spokesperson cited by Al Jazeera. The comments prompted oil prices to reverse earlier gains, highlighting the market’s sensitivity to conflicting signals over the negotiations. Prices had risen sharply after US President Donald Trump adopted a tougher stance toward Tehran, demanding reparations from Iran for deaths linked to attacks and domestic unrest.
-
----
-
-### 2026-08-11 21:08:15  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #ABT.O #GOOGL.O
-
-Abbott and Google launched their first joint project to apply blood-glucose insights and artificial intelligence to everyday health management.
-
----
-
-### 2026-08-11 21:07:45  #MKT News #ABT.O #Impact bullish #GOOGL.O
-
-Abbott to integrate its Lingo biowearable glucose monitoring with Google Health technology after years of collaboration.
-
----
-
-### 2026-08-11 21:07:20  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #ABT.O
-
-Abbott said its collaboration with Google includes large-scale studies to better guide AI training.
-
----
-
-### 2026-08-11 21:07:18  #公司
-
-雅培與谷歌：合作涵蓋大規模研究專案，旨在為人工智慧輔導應用提供更完善的依據。
-
----
-
-### 2026-08-11 21:07:00  #國際
-
-美國司法部將對明尼蘇達州初選開展選舉監督工作。
-
----
-
-### 2026-08-11 21:07:00  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish
-
-Nemotron 3.5 Lightning can run locally on NVIDIA RTX PCs, NVIDIA DGX Spark, OEM systems equipped with the GB10, and the NVIDIA Jetson platform.
-
----
-
-### 2026-08-11 21:06:33  #其他
-
-市場訊息：大衛·埃裡森威脅，若加州政府拒絕就反壟斷訴訟達成和解，將於10月1日起把派拉蒙遷出加州。
-
----
-
-### 2026-08-11 21:06:04  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O
-
-NVIDIA (NVDA.O): Nemo Switchyard cuts cost to complete benchmarks to one-third of OPUS 4.8.
-
----
-
-### 2026-08-11 21:05:30  #MKT News
-
-REUTERS SURVEY: Argentina's monthly inf forecast for July 2.0%, up from 1.9% in June.
-
----
-
-### 2026-08-11 21:05:22  #公司 #國際
-
-【英偉達全力研發Nemotron 4開源大模型 拉動晶片需求同時直面客戶競爭】英偉達正加碼佈局開源賽道，投入資源自研一款重磅大模型。公司希望藉助該模型拉動硬體需求，但此舉也意味著它或將與自身客戶、合作伙伴形成競爭。多名參與 Nemotron 專案的人士透露，英偉達計劃打造 Nemotron 4 系列中規模最大的基礎模型，目標效能對標全球頂尖開源大模型。英偉達上一代旗艦大模型相關論文擁有 570 名作者，員工表示 Nemotron 4 參與研發人員規模將進一步擴大。一名前員工稱：“現階段所有人都希望能夠參與其中。”英偉達近期持續推出多款開源模型，本次研發建立在此基礎之上。週二，英偉達釋出 Nemotron 3.5 Lightning 輕量化模型，主打高效、高速執行智慧體。公司同時推出免費模型路由軟體，幫助企業快速搭建模型排程工具 —— 這類工具能夠將不同 AI 任務分配給適配且成本最優的模型。多名 Nemotron 專案員工透露，旗艦版 Nemotron 4 引數量至少達到萬億級別。引數量是模型學習過程中持續調整的引數單元，這一規模大約是英偉達當前旗艦模型 Nemotron 3 Ultra（6 月釋出）的兩倍。即便達到萬億引數，該模型體量依舊小於美國頭部開源大模型；不過英偉達十分看重模型壓縮技術，依靠該技術，更小體量模型也有望實現更優表現。
-
----
-
-### 2026-08-11 21:05:12  #其他
-
-英偉達推出Nemotron 3.5 Lightning大模型，可透過OpenRouter、英偉達開發者平臺build.nvidia.com及雲合作伙伴獲取
-
----
-
-### 2026-08-11 21:05:09  #Trading Economics #Markets #Spain #stocks #Importance 0
-
-Inditex Stock Price Hits 12-year High — Inditex shares increased to 59.33 EUR, the highest since July 2014. Over the past 4 weeks, Inditex gained 8.25%, and in the last 12 months, it increased 40.34%.
 
 ---
