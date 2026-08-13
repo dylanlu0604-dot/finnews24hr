@@ -1,7 +1,81 @@
 {
   "date": "2026-08-13",
-  "count": 799,
+  "count": 806,
   "items": [
+    {
+      "id": "5038543",
+      "time": "2026-08-13 11:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Shein據悉考慮8月28日在香港上市交易。"
+    },
+    {
+      "id": "5038542",
+      "time": "2026-08-13 11:33:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Shein計劃最早於 8 月 20 日開啟 IPO 認購。"
+    },
+    {
+      "id": "te:markets:574890",
+      "time": "2026-08-13 11:33:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Hits Over 5-Week High as Tech Leads — The TAIEX, Taiwan’s benchmark stock index, climbed 471 points, or 1.0%, to 45,989 in Thursday morning trade, up for the fourth straight session, mainly buoyed by electronic technology. The broader index hit its highest level since July 6, as traders tried to maintain the upward momentum in the technology sector. Electronic technology stocks rose 1.2%, following a 1.1% gain on Wednesday, with TSMC, the world's largest contract chipmaker, accounting for more than 40% of the market's total value, advancing 0.8%. Hon Hai Precision Industry soared 2.7%, while Unimicron rose 0.8%. Meanwhile, Foxconn Technology, the world's largest contract electronics maker, rose 0.5% after posting a 35% jump in Q2 profit, beating analyst forecasts, supported by continued strong AI demand. An upbeat session on Wall Street overnight also lifted sentiment, as moderated inflation eased expectations of a Fed rate hike at its upcoming meeting."
+    },
+    {
+      "id": "mkt:019ff92d-0b8e-7aab-9017-f645f61a84bc",
+      "time": "2026-08-13 11:31:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China equity index futures morning close】China's CSI 300 index futures (IF) front contract rose 0.44% at the morning session close; SSE 50 index futures (IH) rose 0.34%; CSI 500 index futures (IC) rose 0.86%; CSI 1000 index futures (IM) rose 0.70%."
+    },
+    {
+      "id": "mkt:019ff92c-efbb-7aab-9017-e9b6e053e9e4",
+      "time": "2026-08-13 11:31:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures morning session close】China 2-year bond futures (TS) most-active contract up 0.01% at the morning session close; 5-year (TF) up 0.03%; 10-year (T) up 0.05%; 30-year (TL) up 0.40%."
+    },
+    {
+      "id": "mkt:019ff92c-e487-7aab-9017-e42117ce2fc5",
+      "time": "2026-08-13 11:31:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "China's commodity futures main contracts were mixed at the morning session close. Glass fell about 3%, soda ash dropped over 2%; alumina, cast aluminium and coking coal declined more than 1%; urea, stainless steel (SS) and Shanghai aluminium were down near 1%. On the upside, synthetic rubber rose over 2%; pulp, methanol and container freight—Europe route gained nearly 2%; PTA, paraxylene (PX), eggs, short fiber, plastics, fuel oil, SC crude oil and PET flakes advanced more than 1%."
+    },
+    {
+      "id": "5038541",
+      "time": "2026-08-13 11:31:02",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【午評：雙創指數均漲超1%，醫療服務、CRO概念、創新藥板塊漲幅居前】三大指數早盤集體上漲，截至午盤，上證指數漲0.42%，深證成指漲0.73%，創業板指漲1.61%，北證50漲0.51%，科創50指數漲1.9%。全市場成交額15997億元，較上日放量2085億元，全市場超3000只個股下跌。板塊題材上，醫療服務、CRO概念、創新藥、生物製品、細胞免疫治療板塊漲幅居前；貴金屬、油氣開採及服務、工業金屬、房地產、光伏裝置板塊跌幅居前。盤面上，創新藥板塊探底回升，博濟醫藥、萬邦醫藥、隴神戎發、新里程等股漲停，舒泰神、藥石科技、上海凱寶漲幅居前。CPO板塊表現活躍，共進股份、天洋新材漲停，天孚通訊一度漲超13%，金祿電子、長盈通、德科立、炬光科技漲幅居前。算力租賃板塊衝高回落，城地香江、立昂技術、利通電子、群興玩具等股漲停，宏景科技、金剛光伏、漢鑫科技漲幅居前。貴金屬板塊震盪走低，曉程科技、招金黃金、湖南白銀跌幅居前。油氣開採及服務板塊低開低走，通源石油、科力股份、貝肯能源跌幅居前。"
+    },
     {
       "id": "5038540",
       "time": "2026-08-13 11:30:13",
