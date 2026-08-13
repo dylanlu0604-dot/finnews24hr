@@ -1,7 +1,109 @@
 {
   "date": "2026-08-13",
-  "count": 370,
+  "count": 381,
   "items": [
+    {
+      "id": "mkt:019ff86c-cebc-7aab-9014-b7082cd523cb",
+      "time": "2026-08-13 08:01:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13."
+    },
+    {
+      "id": "mkt:019ff86c-a589-7aab-9014-adf7e0a33813",
+      "time": "2026-08-13 08:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "South Korea's KOSPI up 3.38% in early trade; Samsung Electronics +4%, SK Hynix +5%."
+    },
+    {
+      "id": "5038255",
+      "time": "2026-08-13 08:01:17",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）較7月30日低點上漲20%。"
+    },
+    {
+      "id": "5038254",
+      "time": "2026-08-13 08:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "日經指數在交易時段內升至68000點以上，為自7月16日以來首次。"
+    },
+    {
+      "id": "5038253",
+      "time": "2026-08-13 08:00:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲3%，至6773.92點。"
+    },
+    {
+      "id": "5038252",
+      "time": "2026-08-13 08:00:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報68033.17點，漲幅0.75％。韓國綜合股價指數（KOSPI）開盤上漲3％，至6773.92點。"
+    },
+    {
+      "id": "5038251",
+      "time": "2026-08-13 08:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破89美元/桶，日內跌0.66%。"
+    },
+    {
+      "id": "5038250",
+      "time": "2026-08-13 07:58:33",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：海峽通航風險難以徹底化解】中信證券研報認為，美以伊衝突已延宕逾五個月，針對近期市場關注的伊朗-阿曼潛在通航協議，我們認為該協議無法徹底化解海峽通航風險，中東局勢或仍將處於特朗普在 “TACO式退讓”與“惱羞成怒式升級”之間反覆迴圈的僵局之中。究其原因，一來該協議本質是伊朗對美施壓工具，但其強硬態度將直接危及特朗普的政治遺產，因而雙方談判難有進展。二來各方圍繞海峽控制權仍存在結構性矛盾，或難形成長期穩定的管理制度。綜合來看，後續真正具有觀測意義的訊號是美國是否正式啟動制裁豁免、資產解凍及海上封鎖調整。展望後續影響，在中短期，即使各方達成海峽管理安排並解除封鎖，通航量也未必能夠迅速、完全恢復至戰前水平。在有限通航情景下，全球通脹壓力仍在，但極端風險可控。在長期，圍繞霍爾木茲海峽的博弈顯示美國維護全球秩序的能力和意願正加速衰落，並將推動中東地緣格局與全球供應鏈加速重構。"
+    },
+    {
+      "id": "te:economy:574841",
+      "time": "2026-08-13 07:58:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Japan Producer Prices Rise Less than Estimated — Japan’s producer prices rose 7.2% year-on-year in July 2026, easing slightly from a marginally revised 7.3% increase in the prior month, which had been the fastest pace in more than three years. The latest reading came in slightly below market expectations of 7.4%. On a monthly basis, producer prices edged up 0.1%, slowing sharply from an upwardly revised 0.5% gain in June and marking the weakest monthly gain in five months."
+    },
+    {
+      "id": "mkt:019ff869-a70e-7aab-9014-a116c2860a6e",
+      "time": "2026-08-13 07:58:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Washington Post, citing US officials, reports that during President Trump’s visit to Turkey Israel provided intelligence indicating his life was at risk; officials say the warnings may have been intended to influence his decision-making."
+    },
+    {
+      "id": "5038249",
+      "time": "2026-08-13 07:57:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美最高法院簽發一日臨時暫停令，蘋果獲延期提交App Store費率方案】當地時間8月12日，美國最高法院大法官埃琳娜·卡根簽發了一項行政暫停令，宣佈暫時凍結加州聯邦地區法院關於蘋果公司與《堡壘之夜》開發商Epic Games之間長期反壟斷訴訟的下級審理程式。此舉旨在為最高法院爭取更多審議時間，以決定是否批准蘋果提出的長期暫停下級法院進一步訴訟行動的申請。不過，這項臨時暫停令僅為期一天，將訴訟程式凍結至華盛頓時間13日下午5點，使蘋果暫時免於在原定12日截止日前向地區法院提交費率方案。"
+    },
     {
       "id": "5038248",
       "time": "2026-08-13 07:56:13",
