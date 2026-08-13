@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-14 00:29:20",
-  "count": 15253,
+  "updated": "2026-08-14 00:33:20",
+  "count": 15256,
   "items": [
+    {
+      "id": "mkt:019ffbf5-4ddf-7aab-902b-0b3b6690dac8",
+      "time": "2026-08-14 00:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Saskatchewan premier said talks involve several sensitive issues, including dairy, but progress so far has been encouraging."
+    },
+    {
+      "id": "mkt:019ffbf5-33b7-7aab-902b-04a0b8e3e187",
+      "time": "2026-08-14 00:29:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saskatchewan premier said negotiations between Canada and the United States have visibly intensified in recent weeks as the Aug. 19 tariff deadline approaches."
+    },
+    {
+      "id": "mkt:019ffbf5-075c-7aab-902a-fa27f94ae576",
+      "time": "2026-08-14 00:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saskatchewan premier said Canada-US trade talks should retain a broader objective: reviewing and updating the CUSMA (Canada–United States–Mexico Agreement)."
+    },
+    {
+      "id": "mkt:019ffbf4-f865-7aab-902a-f6435498d621",
+      "time": "2026-08-14 00:29:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "【U.S. mortgage rates dip slightly for first time in six weeks】Freddie Mac said the average U.S. 30-year fixed mortgage rate fell to 6.67% from 6.69% a week earlier, ending five consecutive weekly rises but remaining at its highest level in over a year. Data show the U.S. labor market cooling and July price gains slowing for a second month, with energy, gasoline and food down MoM and core inflation measures at five-year lows; markets cut the odds of a 25bp Fed hike in September to 38% from 48%. Stalled negotiations over the Strait of Hormuz keep upside risk to oil prices, while high rates and economic uncertainty continue to weigh on housing demand: U.S. July existing home sales fell 4.1% from June to the weakest level in nearly two years."
+    },
     {
       "id": "5039888",
       "time": "2026-08-14 00:28:06",
@@ -139538,18 +139576,6 @@
         "Importance 1"
       ],
       "text": "Lumber Nears 3-Month Low — Lumber prices fell below $580 per thousand board feet, heading toward a three-month low as weaker US housing demand and persistent trade uncertainty weighed on the market. While Canadian softwood lumber was exempt from US's new 50% tariffs, it remains subject to existing duties of nearly 35%, pressuring producers' margins. The Forest Products Association of Canada said the trade measures dealt a further blow to the industry already operating below capacity amid production curtailments and closures, while Ottawa has extended support measures. The US Lumber Coalition argued that Canada's excess production capacity continues to distort the market. Meanwhile, mortgage rates climbed to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July, reflecting deteriorating homebuying activity. Demand was further pressured by weaker construction spending on lumber-intensive single-family housing, falling 3.3% from last year in June."
-    },
-    {
-      "id": "te:markets:573466",
-      "time": "2026-08-07 00:30:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "European Stocks Close at Records — European stocks closed slightly higher on Thursday amid support from strong earnings reports and a rebound for the tech sector. The Euro STOXX 50 added 0.4% to 6,503 and the STOXX Europe 600 added 0.2% to 658, both at record highs. Deutsche Telekom surged 6.3% after delivering strong earnings, raising its guidance, and lifting its share buyback to $3.5 billion. On top of that, Hermes advanced 5.1% after receiving an upgrade from Berenberg. Meanwhile, ASML and Siemens Energy gained 2% each amid a rebound for companies with exposure to AI infrastructure in Europe. In the meantime, Rheinmetall fell 3.5% after it revised its outlook downwards, which reflected the impact of a German government order cancellation earlier this year. Also, Siemens dropped 4.5% as its quarterly results missed the upper range of estimates, even though the company reported record industrial profit and a record level of new orders."
     }
   ]
 }

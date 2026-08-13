@@ -1,7 +1,45 @@
 {
   "date": "2026-08-14",
-  "count": 44,
+  "count": 48,
   "items": [
+    {
+      "id": "mkt:019ffbf5-4ddf-7aab-902b-0b3b6690dac8",
+      "time": "2026-08-14 00:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Saskatchewan premier said talks involve several sensitive issues, including dairy, but progress so far has been encouraging."
+    },
+    {
+      "id": "mkt:019ffbf5-33b7-7aab-902b-04a0b8e3e187",
+      "time": "2026-08-14 00:29:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saskatchewan premier said negotiations between Canada and the United States have visibly intensified in recent weeks as the Aug. 19 tariff deadline approaches."
+    },
+    {
+      "id": "mkt:019ffbf5-075c-7aab-902a-fa27f94ae576",
+      "time": "2026-08-14 00:29:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saskatchewan premier said Canada-US trade talks should retain a broader objective: reviewing and updating the CUSMA (Canada–United States–Mexico Agreement)."
+    },
+    {
+      "id": "mkt:019ffbf4-f865-7aab-902a-f6435498d621",
+      "time": "2026-08-14 00:29:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "【U.S. mortgage rates dip slightly for first time in six weeks】Freddie Mac said the average U.S. 30-year fixed mortgage rate fell to 6.67% from 6.69% a week earlier, ending five consecutive weekly rises but remaining at its highest level in over a year. Data show the U.S. labor market cooling and July price gains slowing for a second month, with energy, gasoline and food down MoM and core inflation measures at five-year lows; markets cut the odds of a 25bp Fed hike in September to 38% from 48%. Stalled negotiations over the Strait of Hormuz keep upside risk to oil prices, while high rates and economic uncertainty continue to weigh on housing demand: U.S. July existing home sales fell 4.1% from June to the weakest level in nearly two years."
+    },
     {
       "id": "5039888",
       "time": "2026-08-14 00:28:06",
