@@ -1,7 +1,122 @@
 {
-  "updated": "2026-08-13 14:31:59",
-  "count": 15050,
+  "updated": "2026-08-13 14:35:57",
+  "count": 15051,
   "items": [
+    {
+      "id": "te:economy:574937",
+      "time": "2026-08-13 14:34:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "UK Construction Output Falls for 8th Straight Month — UK construction output contracted 2.3% year-on-year in June 2026, deepening from a revised 2.0% decline in the prior month and marking the eighth consecutive month of contraction. Still, the fall was slightly milder than the 2.4% decline expected by markets. New work fell for a ninth straight month (-5.9% vs -6.5% in May), while growth in repair and maintenance eased to a six-month low (2.8% vs 4.6%). On a monthly basis, construction output edged down 0.1%, significantly less than the 0.8% decline in May, although it marked a third consecutive monthly drop. The softer decline reflected stagnant repair and maintenance activity, while new work fell 0.3%, extending its monthly contraction streak. Despite the weak June reading, output rose 0.3% over the three months to June, marking a fourth consecutive increase in the rolling measure. Growth was supported by both new work (0.4%) and repair and maintenance activity (0.2%)."
+    },
+    {
+      "id": "5038730",
+      "time": "2026-08-13 14:34:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【極端高溫或令歐盟國家損失約1800億歐元】總部位於荷蘭的特里奧多斯銀行評估，今夏歐洲遭遇的極端高溫將讓歐盟國家承受約1800億歐元經濟損失，大致相當於2025年歐盟國內生產總值（GDP）的1%。不過，資料沒有涵蓋人員傷亡的關聯損失。（新華社）"
+    },
+    {
+      "id": "mkt:019ff9d3-ef77-7aab-901b-6a063c0492a4",
+      "time": "2026-08-13 14:34:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures down 1.00% intraday at $64.87/oz."
+    },
+    {
+      "id": "5038729",
+      "time": "2026-08-13 14:33:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4430美元/盎司，日內跌0.84%。"
+    },
+    {
+      "id": "5038728",
+      "time": "2026-08-13 14:33:05",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "A股三大股指午後回落，滬指、深證成指轉跌，創業板指漲幅收窄至0.58%。"
+    },
+    {
+      "id": "5038727",
+      "time": "2026-08-13 14:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊持續走低，傳智教育觸及跌停】教育板塊持續走低，傳智教育觸及跌停，學大教育、昂立教育、華圖山鼎、凱文教育、中公教育跟跌。"
+    },
+    {
+      "id": "mkt:019ff9d2-f643-7aab-901b-60668f86e56b",
+      "time": "2026-08-13 14:33:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Three major A-share indices pulled back in the afternoon; the Shanghai Composite and Shenzhen Composite moved into the red, while the ChiNext Index's gain narrowed to 0.58%."
+    },
+    {
+      "id": "5038726",
+      "time": "2026-08-13 14:32:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國第二季度經濟增長0.4% 頂住了伊朗戰爭初期的衝擊】英國經濟挺過了伊朗戰爭爆發後的最初幾個月，第二季度晴朗的天氣和世界盃帶動了消費者支出。英國國家統計局週四公佈，截至6月的三個月，國內生產總值(GDP)增長0.4%，增速略低於第一季度的0.6%。這一資料符合經濟學家的預估中值，服務業是增長的主要推動力。6月GDP增長了0.3%，經濟學家此前預期為下滑0.1%。5月經濟為零增長。儘管中東衝突造成的能源衝擊幾乎未在第二季度對經濟造成重大影響，但經濟學家和英國央行預計，隨著戰爭的全面影響逐漸顯現，增長勢頭將會減弱。"
+    },
+    {
+      "id": "mkt:019ff9d2-698f-7aab-901b-5e80637f1d9c",
+      "time": "2026-08-13 14:32:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea equities close higher】Japan's Nikkei 225 closed up 784.53 points (+1.16%) at 68,308.59 on Aug 13. South Korea's KOSPI rose 210.97 points (+3.21%) to 6,790.01; SK Hynix +5.9%, Samsung Electronics +3.9%."
+    },
+    {
+      "id": "te:economy:574935",
+      "time": "2026-08-13 14:32:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Romania Industrial Output Decline Eases Slightly — Industrial output in Romania declined by 5.2% year-on-year in June 2026, easing slightly from a 5.3% drop in May, which was the sharpest fall since March 2025. The contraction moderated in mining and quarrying (-0.5% vs -4.8% in May) and electricity, gas, steam and air conditioning supply (-2.5% vs -3.1%). In contrast, manufacturing output fell further (-6.0% vs -5.5%), weighed down by declines in beverages (-9.7% vs -8.5%), coke and refined petroleum products (-21.6% vs -13.9%), chemicals and chemical products (-14.1% vs -1.6%), pharmaceuticals and pharmaceutical preparations (-7.5% vs -0.3%), and motor vehicles, trailers and semi-trailers (-15.5% vs -15.3%). On a monthly basis, industrial output fell by a softer 0.7% in June, following a 2.8% decline in May. In the January-June, industrial production was 3.5% lower than in the corresponding period last year."
+    },
+    {
+      "id": "5038725",
+      "time": "2026-08-13 14:31:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭呼籲歐盟建立機制支援農民。"
+    },
     {
       "id": "5038724",
       "time": "2026-08-13 14:31:08",
@@ -137248,96 +137363,6 @@
         "公司"
       ],
       "text": "軟銀集團第一季度願景基金投資收益2,557.8億日元。"
-    },
-    {
-      "id": "5028122",
-      "time": "2026-08-06 14:35:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "任天堂：憑藉關稅退款，銷售成本減少 3 億美元。"
-    },
-    {
-      "id": "5028121",
-      "time": "2026-08-06 14:35:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【陝西潼關縣強降雨引發土崖滑坡致1人失聯】據陝西省渭南市潼關縣人民政府，受近日持續強降雨影響，8月5日晚，潼關縣城關街道吳村中心社群義家九組突發土崖滑坡災害，造成1戶民房隨坡體倒塌，1人失聯。險情發生後，潼關縣迅速啟動應急響應，當地公安、消防救援、應急管理等救援力量第一時間趕赴現場，開展失聯人員搜救工作，並連夜轉移疏散周邊群眾405人。目前，現場救援、家屬安撫、地質災害隱患排查等各項工作正在開展中。"
-    },
-    {
-      "id": "5028120",
-      "time": "2026-08-06 14:34:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國防部稱在多地擊落605架烏無人機】當地時間8月6日，俄羅斯國防部通報稱，莫斯科時間5日20時至6日8時，俄防空力量在莫斯科地區及另外16個州、1個邊疆區以及亞速海、黑海水域上空等，共攔截並摧毀605架烏克蘭固定翼無人機。目前，烏方對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "te:economy:573272",
-      "time": "2026-08-06 14:34:34",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Factory Orders",
-        "Importance 1"
-      ],
-      "text": "German Factory Orders Rise More than Expected — Germany's factory orders rose 3.1% mom in June 2026, picking up from a downwardly revised figure in May and easily beating market estimates of 0.3%. It was the strongest monthly growth since March, driven by robust demand for processing equipment and electronics and opticals (22.7%) as well as mechanical engineering (12.7%), with some firms noting large orders. Orders in the automotive industry also grew 3.8%. In contrast, bookings for aircraft, ships, trains, and military vehicles plunged 41.7% after a strong May. Capital goods (6.4%) and consumer goods (4.2%) rose, while intermediate goods fell (-2.5%). Domestic demand surged (7.8%), while foreign orders edged up 0.2%, lifted by a 10.2% jump in orders from non-euro area countries that offset a 14.0% fall from the euro area. Excluding large-scale contracts, orders rose 0.5%. On a less volatile three-month basis, demand gained 1.3% in April-June from the prior three months, though they were unchanged when large orders were excluded."
-    },
-    {
-      "id": "5028119",
-      "time": "2026-08-06 14:34:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國資料標準化技術委員會2026年第一次主任委員辦公會在京召開】國家資料局訊息，2026年7月30日，全國資料標準化技術委員會2026年第一次主任委員辦公會在京召開。會議強調，要緊跟國家資料工作部署，對標對錶今年的工作要點，紮實做好各項任務落實。一是繼續完善頂層設計。在深刻認識和把握髮展規律基礎上，深化資料標準體系化研究，更好適配產業發展需求，充分發揮標準引領作用。統籌發展和安全，持續提升資料標準供給水平與編制質量，有效防止“內卷式”競爭，防範各類安全與質量風險。二是進一步最佳化標準供給。人工智慧發展對資料提出新的更高要求，要強化高質量資料標準供給，為充分釋放資料要素價值、構建高質量資料供給體系提供有力支撐。按照“急用先行、急需先用”的原則，結合產業發展實際，持續徵集標準需求，研究並儘快釋出今年第二批標準需求清單。提前籌備並組織好今年第二次“標準周”活動。三是持續加大標準宣傳力度。依託資料標準研製良好基礎，充分調動相關部門、秘書處、標準參與單位、專家學者等多方力量積極發聲，有序推進擬報批和釋出的國家標準、技術檔案解讀和宣傳工作，普及標準核心內容、技術要點和應用規範，營造學標、用標、守標的良好氛圍。"
-    },
-    {
-      "id": "5028118",
-      "time": "2026-08-06 14:34:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：昨天（星期三），大約15名以色列平民抵達加傑爾地區，對邊境圍欄造成損壞，並越過邊境進入黎巴嫩。以色列國防軍和以色列邊境警察部隊被派往該地區，以尋找並將他們送回以色列。 被拘留的平民已被移交給以色列警方進行進一步處理。"
-    },
-    {
-      "id": "5028117",
-      "time": "2026-08-06 14:33:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "任天堂預計本財年 Switch 2 銷量達 1650 萬臺。"
-    },
-    {
-      "id": "5028116",
-      "time": "2026-08-06 14:32:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【全球晶片LOF溢價率高達31% 8月以來已8次提示溢價風險】全球晶片LOF今日窄幅震盪，盤中一度上漲1.17%，溢價率超33%。截至中午收市，該產品下跌0.82%，溢價率依然高達31.21%。為保護投資者利益，該基金於今日下午開市起停牌至當日收市。8月以來，該產品已8次釋出溢價風險提示公告。基金管理人提醒廣大投資者，應密切關注二級市場交易價格溢價風險，審慎做出投資決策，如盲目投資，後續可能遭受重大損失。基金管理人還提示，該基金二級市場的交易價格，除了有基金份額淨值波動的風險外，還會受到市場供求關係、系統性風險、流動性風險等其他因素的影響，可能使投資者面臨損失。"
-    },
-    {
-      "id": "mkt:019fd5c5-e59b-7aab-8f9b-28bb4efe4f59",
-      "time": "2026-08-06 14:32:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nikkei 225",
-        "Impact bearish",
-        "000660.KS",
-        "005930.KS"
-      ],
-      "text": "【Japan, South Korea stocks fall; KOSPI down 4.6%】Japan's Nikkei 225 closed down 617.18 points, or 0.93%, at 65,683.26 on Aug. 6; Kioxia slid more than 9%. South Korea's KOSPI closed down 302.82 points, or 4.59%, at 6,295.44, while the KOSDAQ rose 0.26%. SK Hynix fell 10.3% and Samsung Electronics dropped 6.3%."
-    },
-    {
-      "id": "5028115",
-      "time": "2026-08-06 14:32:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統稱與最高領袖聯絡非常困難】伊朗伊斯蘭共和國廣播電視臺8月5日報道，伊朗總統佩澤希齊揚說，目前與伊朗最高領袖穆傑塔巴聯絡“非常困難”，一些人利用穆傑塔巴的正常決策過程在伊朗內部製造分歧。佩澤希齊揚說，穆傑塔巴曾在決策過程中表示，儘管自己原則上持反對意見，但如果相關程式推進，他也會接受。然而，一些試圖製造分裂的人卻不斷誇大問題的嚴重性，以推進符合自身利益的議程。佩澤希齊揚表示，敵人曾企圖擾亂伊朗社會，但沒能得逞。敵人透過加大制裁、發動軍事行動等方式向伊朗施壓。伊朗政府將“與人民站在一起”，維持局勢穩定。 近期，有傳聞稱佩澤希齊揚與伊朗最高領袖、伊朗伊斯蘭革命衛隊存在分歧，稱佩澤希齊揚可能辭職，伊朗總統辦公室已多次闢謠。 （CCTV國際時訊）"
     }
   ]
 }

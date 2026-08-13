@@ -1,7 +1,122 @@
 {
   "date": "2026-08-13",
-  "count": 1117,
+  "count": 1128,
   "items": [
+    {
+      "id": "te:economy:574937",
+      "time": "2026-08-13 14:34:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "UK Construction Output Falls for 8th Straight Month — UK construction output contracted 2.3% year-on-year in June 2026, deepening from a revised 2.0% decline in the prior month and marking the eighth consecutive month of contraction. Still, the fall was slightly milder than the 2.4% decline expected by markets. New work fell for a ninth straight month (-5.9% vs -6.5% in May), while growth in repair and maintenance eased to a six-month low (2.8% vs 4.6%). On a monthly basis, construction output edged down 0.1%, significantly less than the 0.8% decline in May, although it marked a third consecutive monthly drop. The softer decline reflected stagnant repair and maintenance activity, while new work fell 0.3%, extending its monthly contraction streak. Despite the weak June reading, output rose 0.3% over the three months to June, marking a fourth consecutive increase in the rolling measure. Growth was supported by both new work (0.4%) and repair and maintenance activity (0.2%)."
+    },
+    {
+      "id": "5038730",
+      "time": "2026-08-13 14:34:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【極端高溫或令歐盟國家損失約1800億歐元】總部位於荷蘭的特里奧多斯銀行評估，今夏歐洲遭遇的極端高溫將讓歐盟國家承受約1800億歐元經濟損失，大致相當於2025年歐盟國內生產總值（GDP）的1%。不過，資料沒有涵蓋人員傷亡的關聯損失。（新華社）"
+    },
+    {
+      "id": "mkt:019ff9d3-ef77-7aab-901b-6a063c0492a4",
+      "time": "2026-08-13 14:34:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures down 1.00% intraday at $64.87/oz."
+    },
+    {
+      "id": "5038729",
+      "time": "2026-08-13 14:33:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4430美元/盎司，日內跌0.84%。"
+    },
+    {
+      "id": "5038728",
+      "time": "2026-08-13 14:33:05",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "A股三大股指午後回落，滬指、深證成指轉跌，創業板指漲幅收窄至0.58%。"
+    },
+    {
+      "id": "5038727",
+      "time": "2026-08-13 14:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【教育板塊持續走低，傳智教育觸及跌停】教育板塊持續走低，傳智教育觸及跌停，學大教育、昂立教育、華圖山鼎、凱文教育、中公教育跟跌。"
+    },
+    {
+      "id": "mkt:019ff9d2-f643-7aab-901b-60668f86e56b",
+      "time": "2026-08-13 14:33:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "Three major A-share indices pulled back in the afternoon; the Shanghai Composite and Shenzhen Composite moved into the red, while the ChiNext Index's gain narrowed to 0.58%."
+    },
+    {
+      "id": "5038726",
+      "time": "2026-08-13 14:32:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【英國第二季度經濟增長0.4% 頂住了伊朗戰爭初期的衝擊】英國經濟挺過了伊朗戰爭爆發後的最初幾個月，第二季度晴朗的天氣和世界盃帶動了消費者支出。英國國家統計局週四公佈，截至6月的三個月，國內生產總值(GDP)增長0.4%，增速略低於第一季度的0.6%。這一資料符合經濟學家的預估中值，服務業是增長的主要推動力。6月GDP增長了0.3%，經濟學家此前預期為下滑0.1%。5月經濟為零增長。儘管中東衝突造成的能源衝擊幾乎未在第二季度對經濟造成重大影響，但經濟學家和英國央行預計，隨著戰爭的全面影響逐漸顯現，增長勢頭將會減弱。"
+    },
+    {
+      "id": "mkt:019ff9d2-698f-7aab-901b-5e80637f1d9c",
+      "time": "2026-08-13 14:32:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Japan, South Korea equities close higher】Japan's Nikkei 225 closed up 784.53 points (+1.16%) at 68,308.59 on Aug 13. South Korea's KOSPI rose 210.97 points (+3.21%) to 6,790.01; SK Hynix +5.9%, Samsung Electronics +3.9%."
+    },
+    {
+      "id": "te:economy:574935",
+      "time": "2026-08-13 14:32:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Romania Industrial Output Decline Eases Slightly — Industrial output in Romania declined by 5.2% year-on-year in June 2026, easing slightly from a 5.3% drop in May, which was the sharpest fall since March 2025. The contraction moderated in mining and quarrying (-0.5% vs -4.8% in May) and electricity, gas, steam and air conditioning supply (-2.5% vs -3.1%). In contrast, manufacturing output fell further (-6.0% vs -5.5%), weighed down by declines in beverages (-9.7% vs -8.5%), coke and refined petroleum products (-21.6% vs -13.9%), chemicals and chemical products (-14.1% vs -1.6%), pharmaceuticals and pharmaceutical preparations (-7.5% vs -0.3%), and motor vehicles, trailers and semi-trailers (-15.5% vs -15.3%). On a monthly basis, industrial output fell by a softer 0.7% in June, following a 2.8% decline in May. In the January-June, industrial production was 3.5% lower than in the corresponding period last year."
+    },
+    {
+      "id": "5038725",
+      "time": "2026-08-13 14:31:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭呼籲歐盟建立機制支援農民。"
+    },
     {
       "id": "5038724",
       "time": "2026-08-13 14:31:08",
