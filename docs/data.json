@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-14 05:47:10",
-  "count": 15467,
+  "updated": "2026-08-14 05:50:59",
+  "count": 15458,
   "items": [
+    {
+      "id": "mkt:019ffd18-d50f-7aab-902e-d4ce07eaf76e",
+      "time": "2026-08-14 05:48:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Australian Prime Minister Albanese said U.S. President Trump has agreed to consider a request on tariffs."
+    },
+    {
+      "id": "5040076",
+      "time": "2026-08-14 05:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯： 特朗普同意將考慮我方的關稅豁免請求。"
+    },
     {
       "id": "mkt:019ffd17-78fe-7aab-902e-cbfe5210c688",
       "time": "2026-08-14 05:46:41",
@@ -141470,128 +141488,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆：供給與需求端均出現通脹上行壓力，若各類衝擊消退，通脹有望回落至 2%。 一年後通脹可能企穩於 2.5%‑3% 甚至更高水平。"
-    },
-    {
-      "id": "mkt:019fd90e-ba47-7aab-8fa9-b50866df7a18",
-      "time": "2026-08-07 05:50:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve's MUSALEM said the labor market is not a driver of inf."
-    },
-    {
-      "id": "5029584",
-      "time": "2026-08-07 05:50:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 對美聯儲各專項工作組持十分開放的態度。"
-    },
-    {
-      "id": "mkt:019fd90e-8651-7aab-8fa9-afb31baca1de",
-      "time": "2026-08-07 05:50:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed official MUSALEM said he hopes monthly inf (MoM) remains below 0.2%."
-    },
-    {
-      "id": "mkt:019fd90d-b894-7aab-8fa9-a4132d119b8e",
-      "time": "2026-08-07 05:49:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MUSALEM: Core inf may be between 2.5% and 3%."
-    },
-    {
-      "id": "5029583",
-      "time": "2026-08-07 05:49:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：希望看到月度通脹讀數低於 0.2%。"
-    },
-    {
-      "id": "mkt:019fd90d-4706-7aab-8fa9-99e1d8662936",
-      "time": "2026-08-07 05:49:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve's MUSALEM said the probability that inflation will remain above target has risen, and that he leaned toward a rate hike at the recent FOMC meeting."
-    },
-    {
-      "id": "mkt:019fd90d-43d3-7aab-8fa9-96f3d670555d",
-      "time": "2026-08-07 05:49:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "MUSALEM of the Federal Reserve said gradual rate hikes have lower costs than abrupt policy moves."
-    },
-    {
-      "id": "5029582",
-      "time": "2026-08-07 05:49:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：就業市場並非通脹的來源。"
-    },
-    {
-      "id": "5029581",
-      "time": "2026-08-07 05:48:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：潛在通脹大機率處於 2.5%‑3% 區間。"
-    },
-    {
-      "id": "5029580",
-      "time": "2026-08-07 05:48:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：漸進式加息相比更為 “驟然” 的利率調整，代價更低。"
-    },
-    {
-      "id": "5029579",
-      "time": "2026-08-07 05:47:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：在最近一次聯邦公開市場委員會（FOMC）會議上，我傾向於加息。 通脹維持在目標水平上方的機率有所上升。"
     }
   ]
 }

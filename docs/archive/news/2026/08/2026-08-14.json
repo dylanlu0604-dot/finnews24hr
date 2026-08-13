@@ -1,7 +1,25 @@
 {
   "date": "2026-08-14",
-  "count": 371,
+  "count": 373,
   "items": [
+    {
+      "id": "mkt:019ffd18-d50f-7aab-902e-d4ce07eaf76e",
+      "time": "2026-08-14 05:48:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Australian Prime Minister Albanese said U.S. President Trump has agreed to consider a request on tariffs."
+    },
+    {
+      "id": "5040076",
+      "time": "2026-08-14 05:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯： 特朗普同意將考慮我方的關稅豁免請求。"
+    },
     {
       "id": "mkt:019ffd17-78fe-7aab-902e-cbfe5210c688",
       "time": "2026-08-14 05:46:41",
