@@ -1,7 +1,17 @@
 {
-  "updated": "2026-08-14 05:54:52",
+  "updated": "2026-08-14 05:58:43",
   "count": 15451,
   "items": [
+    {
+      "id": "mkt:019ffd20-0d65-7aab-902e-dae23a19987f",
+      "time": "2026-08-14 05:56:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Sources: OpenAI annualized revenue tops $40 bln】Sources say OpenAI's current annualized revenue has exceeded $40 billion, roughly double its level at end-2025, bolstering the company's IPO preparations. Revenue acceleration in recent months is driven by rapid expansion of its AI programming business (notably CODEX), rising subscriptions, nascent ad revenue contribution and steady consumer growth. OpenAI is competing fiercely with ANTHROPIC for enterprise customers; both firms have quietly filed IPO paperwork, and ANTHROPIC could list as soon as this autumn, potentially ahead of OpenAI. OpenAI co‑founder and president Greg Brockman said July annualized revenue rose more than 20% month‑on‑month. Demand for AI agents has increased, with flagship products including CODEX and ChatGPT Work, and OpenAI has cut prices on some models to respond to ANTHROPIC and other competitors."
+    },
     {
       "id": "mkt:019ffd18-d50f-7aab-902e-d4ce07eaf76e",
       "time": "2026-08-14 05:48:10",
@@ -141412,15 +141422,6 @@
         "S&P500"
       ],
       "text": "Federal Reserve's MUSALEM said the labor market appears to be performing strongly."
-    },
-    {
-      "id": "5029589",
-      "time": "2026-08-07 05:54:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：消費與投資正以穩健的速度增長。"
     }
   ]
 }
