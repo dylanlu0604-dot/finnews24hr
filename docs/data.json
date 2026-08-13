@@ -1,7 +1,25 @@
 {
-  "updated": "2026-08-13 09:17:09",
-  "count": 15019,
+  "updated": "2026-08-13 09:20:56",
+  "count": 15011,
   "items": [
+    {
+      "id": "5038368",
+      "time": "2026-08-13 09:18:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌3%，現報861.00元。"
+    },
+    {
+      "id": "5038367",
+      "time": "2026-08-13 09:18:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：豐田及其他幾家日本公司因美國關稅退款問題被起訴。"
+    },
     {
       "id": "5038366",
       "time": "2026-08-13 09:16:03",
@@ -136860,102 +136878,6 @@
         "中國央行"
       ],
       "text": "【央行公開市場今日淨回籠2695億元】央行今日開展10億元7天期逆回購操作，操作利率為1.40%，與此前持平。因今日有2705億元7天期逆回購到期，當日實現淨回籠2695億元。"
-    },
-    {
-      "id": "mkt:019fd4a8-bc5f-7aab-8f97-38d8a499bdbb",
-      "time": "2026-08-06 09:20:55",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted a 7-day reverse repo today: bids 10 bln yuan, allotment 10 bln yuan, rate 1.40%, unchanged from the prior operation."
-    },
-    {
-      "id": "5027737",
-      "time": "2026-08-06 09:20:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展10億元7天逆回購操作，投標量10億元，中標量10億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "5027736",
-      "time": "2026-08-06 09:20:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【古井貢古20與青花郎領跌十款單品下挫 白酒總價創19天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售總價8月6日繼續下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9825元，較昨日明顯下跌22元，連續三日大幅回落，較8月3日階段高點累計下跌76元，創下19天以來最低。今日除習酒君品上漲外，其餘十款單品全線下挫。酒市終端交投情緒進一步轉弱，空方牢牢佔據上風，低位修復行情尚需時日。\n\n今日11大白酒單品一漲十跌，輸家佔據絕對優勢。上漲方面，習酒君品上漲7元/瓶，昨日技術性重挫10元后明顯反彈。下跌方面，古井貢古20與青花郎並列領跌，均下跌5元/瓶。其中，前者重新整理今年2月2日以來最低價紀錄，近一個月其價格中樞持續下移；後者遭遇兩連跌，跌破700元大關後繼續下探。五糧液普五八代、五糧液1618、青花汾20與國窖1573均下跌3元/瓶。其中，普五八代連續三日下跌，價格退守780元一線；五糧液1618結束連續兩日平盤；青花汾20昨日企穩後再度走低，平近一個月最低價紀錄；國窖1573昨日微漲後轉跌，近期低位震盪特徵延續。飛天茅臺、精品茅臺與洋河夢之藍M6+均下跌2元/瓶，其中飛天茅臺連續兩日走低，仍處於7.18提價後的高位整理階段；精品茅臺四連陰，重新整理近一個月最低價紀錄；夢之藍M6+錄得三連陰，近一個月寬幅震盪格局未改。水晶劍南春微跌1元/瓶，昨日微幅回彈後再平近一個月最低價。"
-    },
-    {
-      "id": "5027735",
-      "time": "2026-08-06 09:20:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1.1%至271.10點。"
-    },
-    {
-      "id": "5027734",
-      "time": "2026-08-06 09:19:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣加權股價指數下跌1%至44,160.70點。"
-    },
-    {
-      "id": "5027733",
-      "time": "2026-08-06 09:18:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化賣盤。"
-    },
-    {
-      "id": "mkt:019fd4a6-c066-7aab-8f97-3273644364d4",
-      "time": "2026-08-06 09:18:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated the KOSPI sidecar mechanism."
-    },
-    {
-      "id": "mkt:019fd4a6-4642-7aab-8f97-2dae719ccdd6",
-      "time": "2026-08-06 09:18:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's National Marine Forecasting Center issues orange wave alert as Typhoon Baihaidun nears】China's Ministry of Natural Resources said the National Marine Forecasting Center issued an orange wave alert at 08:00 today for Typhoon Baihaidun. From the morning of Aug 6 to the morning of Aug 7, the eastern East China Sea is expected to see 6-10m waves; offshore wave alert level is orange. Zhejiang nearshore waters are expected to see 2-3m waves; nearshore wave alert level is blue."
-    },
-    {
-      "id": "mkt:019fd4a5-e9d8-7aab-8f97-2385cace54bb",
-      "time": "2026-08-06 09:17:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude oil breached $75 a barrel, up 0.91% intraday."
-    },
-    {
-      "id": "mkt:019fd4a5-574a-7aab-8f97-1b4943852b02",
-      "time": "2026-08-06 09:17:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "DALY said if inflation pressures re-intensify, the Fed would need to take aggressive rate action."
     }
   ]
 }
