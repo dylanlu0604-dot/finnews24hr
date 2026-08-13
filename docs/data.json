@@ -1,7 +1,50 @@
 {
-  "updated": "2026-08-13 23:40:04",
-  "count": 15260,
+  "updated": "2026-08-13 23:44:04",
+  "count": 15253,
   "items": [
+    {
+      "id": "mkt:019ffbca-d1c2-7aab-902a-4aae553e3c57",
+      "time": "2026-08-13 23:43:20",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk top executive said the company expects to deliver first high-bandwidth flash (HBF) samples for AI inference devices to customers next year and has completed tape-out of its initial HBF chip."
+    },
+    {
+      "id": "5039853",
+      "time": "2026-08-13 23:42:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美媒：美國將向中東部署“華盛頓”號航母】美國《華爾街日報》13日援引美官員的話報道，美國正準備將“喬治·華盛頓”號航母部署到中東，以替換“亞伯拉罕·林肯”號航母。（新華社）"
+    },
+    {
+      "id": "5039852",
+      "time": "2026-08-13 23:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾西部發生山體滑坡 已致10人死亡】近日，尼泊爾西部羅爾帕地區連降暴雨並引發山體滑坡。當地警方表示，截至當地時間13日，災害已造成至少10人死亡。當地警方通報稱，此次山體滑坡掩埋了多棟建築。救援人員和醫療衛生工作組已趕赴災區現場。（央視新聞）"
+    },
+    {
+      "id": "5039851",
+      "time": "2026-08-13 23:41:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國9月天然氣期貨結算價為148.48便士/撒姆。"
+    },
+    {
+      "id": "5039850",
+      "time": "2026-08-13 23:40:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "閃迪高管稱公司預計明年向客戶交付首批用於推理裝置的HBF樣品。"
+    },
     {
       "id": "5039849",
       "time": "2026-08-13 23:38:52",
@@ -139541,110 +139584,6 @@
         "市場"
       ],
       "text": "洲際交易所英國 9 月天然氣期貨結算價為 136.91 便士 / 熱姆。"
-    },
-    {
-      "id": "5029258",
-      "time": "2026-08-06 23:43:53",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗維持基準情景預測：2026年第三季度TTF天然氣均價為每兆瓦時46歐元，JKM液化天然氣均價為每百萬英熱單位16美元。"
-    },
-    {
-      "id": "te:markets:573447",
-      "time": "2026-08-06 23:42:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls on Thursday — The FTSE 100 erased early gains to close marginally lower on Thursday, as a wave of heavyweight stocks trading ex-dividend offset broader market optimism over progress toward reopening the Strait of Hormuz. Lloyds, Barclays, Relx and Reckitt Benckiser all declined after losing entitlement to their latest dividend payments, while other defensive heavyweights including AstraZeneca and Unilever also weighed on the index. Relx was among the worst performers, falling more than 4%. Tritax Big Box also lost around 4% after raising £350 million through a share placing to finance its data centre expansion, a move analysts viewed as dilutive in the near term. On the upside, Diageo surged more than 5.5% after unveiling a restructuring plan, forecasting stable sales this year and announcing $1 billion in cost savings over the next three years. Persimmon gained more than 3% after reporting stronger-than-expected earnings and reaffirming the upper end of its annual home completion guidance."
-    },
-    {
-      "id": "5029257",
-      "time": "2026-08-06 23:42:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "切尼爾能源首席商務官阿納托爾·費金表示，歐洲處境艱難，冬季前將儲氣庫容量提升至70%將十分困難。"
-    },
-    {
-      "id": "5029256",
-      "time": "2026-08-06 23:41:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：我大致估算，特斯拉Optimus人形機器人的算力需求將佔Terafab人工智慧計算產出的約25%，剩餘約75%將供給航天器人工智慧專案。"
-    },
-    {
-      "id": "5029255",
-      "time": "2026-08-06 23:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：正與美國商談全面貿易協定，無意簽署針對性貿易協定。"
-    },
-    {
-      "id": "mkt:019fd7bc-912e-7aab-8fa4-57f59ff1a0f4",
-      "time": "2026-08-06 23:41:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Carney said he is considering a comprehensive trade agreement with the U.S. and is not interested in targeted, sector-specific deals."
-    },
-    {
-      "id": "mkt:019fd7bc-7247-7aab-8fa4-4e862df6af1c",
-      "time": "2026-08-06 23:41:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Carney said the government supports Canadian firms and that an economic transition is beginning to show in the data."
-    },
-    {
-      "id": "mkt:019fd7bc-55a7-7aab-8fa4-408873b03ebd",
-      "time": "2026-08-06 23:41:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canadian Prime Minister Carney said Canada's trade negotiators are in Washington this week; talks with the United States are difficult and Ottawa is considering all options."
-    },
-    {
-      "id": "5029254",
-      "time": "2026-08-06 23:40:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交與安全政策高階代表卡拉斯：呼籲各方立即批准並執行協議，並根據聯合國安理會相關決議及國際法，加快落實聯合國安理會第2803號決議的所有條款。"
-    },
-    {
-      "id": "5029253",
-      "time": "2026-08-06 23:40:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼稱與美國的貿易談判艱難，正考慮所有選項。"
-    },
-    {
-      "id": "mkt:019fd7bb-b4d4-7aab-8fa4-387185f179c2",
-      "time": "2026-08-06 23:40:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "The U.S. Treasury Department said on its website it has imposed new sanctions on Cuba."
-    },
-    {
-      "id": "mkt:019fd7bb-8720-7aab-8fa4-3178e0e0c697",
-      "time": "2026-08-06 23:40:18",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "Peru's government said exports rose 34% in 1H to $54 billion."
     }
   ]
 }

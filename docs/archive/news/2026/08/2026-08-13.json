@@ -1,7 +1,50 @@
 {
   "date": "2026-08-13",
-  "count": 2802,
+  "count": 2807,
   "items": [
+    {
+      "id": "mkt:019ffbca-d1c2-7aab-902a-4aae553e3c57",
+      "time": "2026-08-13 23:43:20",
+      "tags": [
+        "MKT News",
+        "WDC.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk top executive said the company expects to deliver first high-bandwidth flash (HBF) samples for AI inference devices to customers next year and has completed tape-out of its initial HBF chip."
+    },
+    {
+      "id": "5039853",
+      "time": "2026-08-13 23:42:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美媒：美國將向中東部署“華盛頓”號航母】美國《華爾街日報》13日援引美官員的話報道，美國正準備將“喬治·華盛頓”號航母部署到中東，以替換“亞伯拉罕·林肯”號航母。（新華社）"
+    },
+    {
+      "id": "5039852",
+      "time": "2026-08-13 23:42:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尼泊爾西部發生山體滑坡 已致10人死亡】近日，尼泊爾西部羅爾帕地區連降暴雨並引發山體滑坡。當地警方表示，截至當地時間13日，災害已造成至少10人死亡。當地警方通報稱，此次山體滑坡掩埋了多棟建築。救援人員和醫療衛生工作組已趕赴災區現場。（央視新聞）"
+    },
+    {
+      "id": "5039851",
+      "time": "2026-08-13 23:41:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所英國9月天然氣期貨結算價為148.48便士/撒姆。"
+    },
+    {
+      "id": "5039850",
+      "time": "2026-08-13 23:40:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "閃迪高管稱公司預計明年向客戶交付首批用於推理裝置的HBF樣品。"
+    },
     {
       "id": "5039849",
       "time": "2026-08-13 23:38:52",
