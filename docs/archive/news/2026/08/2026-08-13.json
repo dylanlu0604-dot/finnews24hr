@@ -1,7 +1,67 @@
 {
   "date": "2026-08-13",
-  "count": 710,
+  "count": 716,
   "items": [
+    {
+      "id": "5038483",
+      "time": "2026-08-13 10:31:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報148000元/噸，較上日16:30價格下跌250元/噸。"
+    },
+    {
+      "id": "5038482",
+      "time": "2026-08-13 10:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY突破100，日內漲0.03%。"
+    },
+    {
+      "id": "mkt:019ff8f4-f687-7aab-9017-4348d0a7b0e9",
+      "time": "2026-08-13 10:30:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "US dollar index (DXY) breached 100, up 0.03% intraday."
+    },
+    {
+      "id": "5038481",
+      "time": "2026-08-13 10:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【我國牽頭制定！智慧城市資料利用頂層框架國際標準釋出】國際標準化組織（ISO）和國際電工委員會（IEC）近日聯合釋出國際標準《資訊科技 智慧城市資料利用 第1部分：框架》。該國際標準由我國專家擔任專案負責人，聯合韓國、加拿大、日本、澳大利亞、德國、哈薩克、辛巴威、墨西哥等11個國家的專家共同制定完成，是我國在智慧城市國際標準化領域取得的又一項標誌性成果，為構建全球智慧城市資料利用共識提供了頂層框架。該國際標準首次構建起智慧城市資料利用的統一框架，從資料可用、資料有用、資料易用、資料善用和資料賦能五大方面，系統界定了智慧城市資料利用的核心特徵及內涵。透過將智慧城市資料利用視為有機整體，突破單一視角侷限，有效填補了該領域綜合性國際標準的空白。智慧城市資料利用是驅動城市從“經驗管理”邁向“資料治理”的關鍵生產要素。透過發揮資料要素疊加、倍增效應，可有力驅動城市治理體系和治理能力現代化建設，為推進城市全域數字化轉型、夯實數字中國建設根基提供核心引擎。該國際標準的釋出實施將啟用資料作為城市戰略資源和資產的核心價值，促進資料實現高效、可持續、全面、創新利用，發揮資料的基礎資源和創新引擎作用，推動城市精細化治理與服務升級，為全球智慧城市資料利用提供統一技術參考。"
+    },
+    {
+      "id": "te:markets:574882",
+      "time": "2026-08-13 10:30:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Soybeans Sideways Near Multi-Week Lows — Soybean futures hovered below $1,160 per bushel, trading in a sideways range near multi-week lows as markets weighed a lower US yield forecast against expectations for a record crop. The USDA cut its 2026 soybean yield estimate to 52.7 bushels per acre from 53, reflecting the impact of extreme heat and dryness in parts of the Midwest. However, higher planted acreage lifted projected production by 44 million bushels to a record 4.519 billion bushels, up 6% from 2025 and above the previous record set in 2021. The larger crop also pushed projected 2026/27 ending stocks up to 320 million bushels from 310 million previously. While recent heat and dryness supported prices, forecasts for cooler temperatures and ample rainfall in August and September could improve crop prospects. Meanwhile, China provided a fresh demand boost, with the USDA confirming a sale of 244,000 metric tons of US soybeans for delivery in the 2026/27 marketing year."
+    },
+    {
+      "id": "mkt:019ff8f2-4cab-7aab-9017-3afb61c847d7",
+      "time": "2026-08-13 10:27:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share MLCC sector traded higher on choppy action; Torch Electronics hit the daily trading limit, while Sanhuan Group, Shuangxing New Material, Boqian New Material and Fenghua Hi‑Tech also advanced."
+    },
     {
       "id": "mkt:019ff8f2-2459-7aab-9017-376fe35e2655",
       "time": "2026-08-13 10:27:26",
