@@ -1,7 +1,48 @@
 {
-  "updated": "2026-08-14 06:03:00",
-  "count": 15450,
+  "updated": "2026-08-14 06:11:58",
+  "count": 15440,
   "items": [
+    {
+      "id": "5040085",
+      "time": "2026-08-14 06:10:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：近期通脹相關資料出現小幅好轉，希望這一改善態勢能夠持續。"
+    },
+    {
+      "id": "5040084",
+      "time": "2026-08-14 06:08:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：允許在美投資的外國造船廠最多建造兩艘船隻。"
+    },
+    {
+      "id": "5040083",
+      "time": "2026-08-14 06:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯：澳大利亞移民數量較峰值下降 45%。"
+    },
+    {
+      "id": "mkt:019ffd28-3ed0-7aab-902e-eb09197b73f2",
+      "time": "2026-08-14 06:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ said its FPC considered house price developments, recent mortgage risk conditions and borrowers' financial stress."
+    },
+    {
+      "id": "mkt:019ffd28-376a-7aab-902e-e53a9ad0d730",
+      "time": "2026-08-14 06:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ maintains current loan-to-value ratio (LVR) settings."
+    },
     {
       "id": "5040082",
       "time": "2026-08-14 06:01:31",
@@ -141265,146 +141306,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆： 未見能夠動搖美元主要儲備貨幣地位的相關條件。"
-    },
-    {
-      "id": "5029603",
-      "time": "2026-08-07 06:11:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 美國仍是增長最強、創新能力最強的經濟體，擁有有效的法治體系。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608073834269410",
-      "time": "2026-08-07 06:11:42",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲9月加息25個基點的機率為55%】據CME“美聯儲觀察”：美聯儲到9月維持利率不變的機率為45%，累計加息25個基點的機率為55%。美聯儲到10月維持利率不變的機率為31%，累計加息25個基點的機率為51.9%，累計加息50個基點的機率為17.1%。"
-    },
-    {
-      "id": "5029602",
-      "time": "2026-08-07 06:10:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月份中國倉儲指數保持擴張 行業執行韌性較強】中國物流與採購聯合會今天（7日）公佈7月份中國倉儲指數。指數連續兩個月執行在50%以上的擴張區間。總體來看，倉儲行業在季節性氣候和極端天氣擾動下仍保持擴張，行業執行具有較強韌性。7月份中國倉儲指數為50.3%，較上月上升0.1個百分點，連續兩個月執行在擴張區間。（央視新聞）"
-    },
-    {
-      "id": "5029601",
-      "time": "2026-08-07 06:09:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 大量資產價格處於高位。"
-    },
-    {
-      "id": "5029600",
-      "time": "2026-08-07 06:09:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：金融環境極度寬鬆，美聯儲正對此予以關注。"
-    },
-    {
-      "id": "mkt:019fd91e-a939-7aab-8faa-00c288d4eee1",
-      "time": "2026-08-07 06:08:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "MUSALEM said the Federal Reserve is closely monitoring financial markets."
-    },
-    {
-      "id": "5029599",
-      "time": "2026-08-07 06:08:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【促投資穩工業擴外貿，地方經濟“下半場”劃重點】近期，各地密集部署下半年經濟工作，聚焦推進“六張網”規劃建設、實現工業經濟穩定增長、全力穩住外貿基本盤等領域，相關舉措也將陸續落地。梳理發現，下半年重大投資專案呈現傳統基建提質升級、新型基建加速佈局、產業專案佔比提升、民生短板持續補齊的鮮明特徵。其中，“六張網”建設成為核心抓手，多地明確將其納入下半年重點攻堅任務。（上證報）"
-    },
-    {
-      "id": "mkt:019fd91e-5cf9-7aab-8fa9-fd380e657036",
-      "time": "2026-08-07 06:07:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Musalem said central banks can sometimes surprise markets."
-    },
-    {
-      "id": "5029598",
-      "time": "2026-08-07 06:07:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國 SEC 檔案：微軟商業業務執行長賈德森・阿爾索夫，於 8 月 5 日在公開市場減持 10000 股微軟股票，每股平均成交價 487.893 美元。"
-    },
-    {
-      "id": "mkt:019fd91e-4862-7aab-8fa9-f31bbef58f21",
-      "time": "2026-08-07 06:07:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "MUSALEM said the Fed must make the optimal decision and should not be driven by market pressures."
-    },
-    {
-      "id": "mkt:019fd91d-0156-7aab-8fa9-ec3d4b8c6788",
-      "time": "2026-08-07 06:06:24",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Shipping through Middle East chokepoints remains subdued】MarineTraffic shows at least seven commercial vessels transited the Strait of Hormuz in the past 24 hours: six entered the Persian Gulf (five cargo, one tanker) and one entered the Gulf of Oman (cargo). Over the same period at least 30 commercial vessels passed the Bab el‑Mandeb: 20 entered the Red Sea (13 cargo, seven tankers) and 10 entered the Gulf of Aden (eight cargo, two tankers). Iran and Oman are negotiating management of the Strait of Hormuz, which could establish agreed shipping lanes and protection measures for commercial traffic. Ongoing GPS interference continues to complicate navigation and transits in the region."
-    },
-    {
-      "id": "5029597",
-      "time": "2026-08-07 06:06:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 密切關注金融市場動向。摒棄政治雜音，專注美聯儲使命。"
-    },
-    {
-      "id": "5029596",
-      "time": "2026-08-07 06:05:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：部分情況下，美聯儲可以給市場帶來意外。"
-    },
-    {
-      "id": "5029595",
-      "time": "2026-08-07 06:04:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 美聯儲需做出最優決策，但不應被市場裹挾。"
-    },
-    {
-      "id": "mkt:019fd91a-b334-7aab-8fa9-e32f5c3c9482",
-      "time": "2026-08-07 06:03:53",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "Hang Seng Index"
-      ],
-      "text": "【China warehousing index stays in expansion in July; sector shows resilience】China's warehousing index rose to 50.3% in July, up 0.1 percentage point MoM and marking a second consecutive month above the 50 expansion threshold, the China Federation of Logistics & Purchasing said; the body said the sector remained in expansion despite seasonal and extreme weather disruptions."
     }
   ]
 }

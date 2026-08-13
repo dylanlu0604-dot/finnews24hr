@@ -1,7 +1,48 @@
 {
   "date": "2026-08-14",
-  "count": 380,
+  "count": 385,
   "items": [
+    {
+      "id": "5040085",
+      "time": "2026-08-14 06:10:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：近期通脹相關資料出現小幅好轉，希望這一改善態勢能夠持續。"
+    },
+    {
+      "id": "5040084",
+      "time": "2026-08-14 06:08:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：允許在美投資的外國造船廠最多建造兩艘船隻。"
+    },
+    {
+      "id": "5040083",
+      "time": "2026-08-14 06:05:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞總理阿爾巴尼斯：澳大利亞移民數量較峰值下降 45%。"
+    },
+    {
+      "id": "mkt:019ffd28-3ed0-7aab-902e-eb09197b73f2",
+      "time": "2026-08-14 06:05:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ said its FPC considered house price developments, recent mortgage risk conditions and borrowers' financial stress."
+    },
+    {
+      "id": "mkt:019ffd28-376a-7aab-902e-e53a9ad0d730",
+      "time": "2026-08-14 06:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ maintains current loan-to-value ratio (LVR) settings."
+    },
     {
       "id": "5040082",
       "time": "2026-08-14 06:01:31",
