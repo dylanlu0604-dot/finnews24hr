@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14 04:13:19",
-  "count": 15408,
+  "updated": "2026-08-14 04:17:08",
+  "count": 15405,
   "items": [
     {
       "id": "5040014",
@@ -140963,34 +140963,6 @@
         "國際"
       ],
       "text": "美國白宮：特朗普簽署了一項關於出生公民權的命令。"
-    },
-    {
-      "id": "te:markets:573484",
-      "time": "2026-08-07 04:15:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Republic Services earnings above expectations at 1.85 USD — Republic Services (RSG) released earnings per share at 1.85 USD, compared to market expectations of 1.82 USD."
-    },
-    {
-      "id": "5029530",
-      "time": "2026-08-07 04:14:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "Sweetgreen 因環孢子蟲事件導致需求下滑，下調業績預期。"
-    },
-    {
-      "id": "5029529",
-      "time": "2026-08-07 04:14:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國《金融時報》：簡街資本正與投資者洽談債務再融資事宜。"
     }
   ]
 }
