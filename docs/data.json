@@ -1,7 +1,29 @@
 {
-  "updated": "2026-08-14 01:21:17",
-  "count": 15312,
+  "updated": "2026-08-14 01:25:11",
+  "count": 15314,
   "items": [
+    {
+      "id": "mkt:019ffc24-7e5d-7aab-902b-ca29ed29487f",
+      "time": "2026-08-14 01:21:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【Google unveils Gemini 3.7 Flash; flagship Gemini 3.5 Pro still without timetable】Google released Gemini 3.7 Flash, presented as a code-generation and debugging upgrade the company says produces more production-ready code on first pass, reduces developer rework and lowers inference costs. The model will support the AI productivity assistant Gemini Spark and adds safety protections against malicious attacks and misuse in chemical, biological, radiological and nuclear (CBRN) domains. Google has not provided a firm launch timetable for flagship Gemini 3.5 Pro, which has been delayed repeatedly amid slower-than-expected R&D progress, keeping investor focus on the company’s AI roadmap execution. CEO Pichai said Google is accelerating model iteration and has allocated substantial compute to train next-generation Gemini 4."
+    },
+    {
+      "id": "5039924",
+      "time": "2026-08-14 01:21:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上期所基本金屬夜盤多數下跌，不鏽鋼跌0.94%】國際銅漲0.10%，滬銅跌0.03%，滬鋁跌0.62%，滬鋅跌0.12%，滬鉛跌0.81%，滬鎳跌0.88%，滬錫漲0.07%；氧化鋁跌0.07%，鋁合金跌0.79%。"
+    },
     {
       "id": "mkt:019ffc1f-cb4a-7aab-902b-c21ed92ec099",
       "time": "2026-08-14 01:16:09",
