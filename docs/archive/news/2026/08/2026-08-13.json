@@ -1,7 +1,98 @@
 {
   "date": "2026-08-13",
-  "count": 655,
+  "count": 664,
   "items": [
+    {
+      "id": "te:markets:574876",
+      "time": "2026-08-13 10:03:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains on Intervention Watch — The Japanese yen traded around 159.3 per dollar on Thursday, hovering near the key psychological level of 160 per dollar and keeping traders on alert for further intervention from authorities amid persistent weakness. The currency remained pressured by longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. The yen also struggled to gain momentum even after subdued US inflation data reduced pressure on the Federal Reserve to raise interest rates in the near term. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate."
+    },
+    {
+      "id": "mkt:019ff8dc-7fbf-7aab-9016-e2c7c6ca23e1",
+      "time": "2026-08-13 10:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share brokerage sector strengthened; Caitong Securities jumped over 8%, while Changjiang Securities, Tianfeng Securities and CSC Financial also rose."
+    },
+    {
+      "id": "5038449",
+      "time": "2026-08-13 10:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興通訊與明陽集團圍繞算力專案推進等座談交流】據明陽集團訊息，8月11日，中興通訊高階副總裁、數字能源經營部總裁彭愛光一行到訪明陽集團，與明陽集團董事、中國市場總裁張瑞座談，雙方圍繞算力專案推進、風光儲氫一體化創新等議題深入交流。座談中，張瑞指出，新型電力系統建設與綠色算力產業同步迎來重要發展機遇，但算力用電成本偏高、出海競爭力不足是行業普遍痛點。雙方產業鏈優勢互補、協同潛力巨大，期待與中興通訊深化全方位戰略對接，聯合打造綠電算力融合創新示範，構建裝備製造與數字能源協同發展、雙向賦能的合作樣板。彭愛光表示，雙方在多能融合、綠電算力一體化創新領域高度契合，期待持續探索技術協同、示範專案打造等多元合作空間。"
+    },
+    {
+      "id": "5038448",
+      "time": "2026-08-13 10:03:03",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【券商板塊走強 財通證券漲超8%】券商板塊走強，財通證券漲超8%，長江證券，天風證券、中信建投等跟漲。"
+    },
+    {
+      "id": "mkt:019ff8db-09dd-7aab-9016-daf5e1010f90",
+      "time": "2026-08-13 10:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CRO sector rallied. Boji Pharmaceutical hit the daily limit-up and was sealed at 20cm; Haoyuan Pharmaceutical rose over 9%; Wanbang Pharmaceutical and Zhaoyan New Drug also advanced."
+    },
+    {
+      "id": "5038447",
+      "time": "2026-08-13 10:02:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:019ff8da-63de-7aab-9016-d2c51c549a84",
+      "time": "2026-08-13 10:01:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 30-year bond yield rose 1.0bp to 4.000%."
+    },
+    {
+      "id": "5038446",
+      "time": "2026-08-13 10:01:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數開盤上漲0.2%，至6388.23點。"
+    },
+    {
+      "id": "mkt:019ff8d9-d674-7aab-9016-c901ac6addf9",
+      "time": "2026-08-13 10:00:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic in talks to buy Decart AI for about $6bn to bolster AI infrastructure】Anthropic is in talks to acquire AI startup Decart AI for about $6bn, sources said. The deal is not final and negotiations could collapse. If completed it would be Anthropic’s largest-known acquisition and comes amid market anticipation of an Anthropic IPO. Decart’s software increases chip efficiency, lowering AI model training costs and potentially allowing Anthropic to scale existing infrastructure. Anthropic rarely pursues large acquisitions but has been investing heavily in compute to develop products and serve customers."
+    },
     {
       "id": "mkt:019ff8d9-0816-7aab-9016-c786021271d2",
       "time": "2026-08-13 10:00:00",

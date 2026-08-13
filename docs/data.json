@@ -1,7 +1,98 @@
 {
-  "updated": "2026-08-13 10:00:38",
-  "count": 14990,
+  "updated": "2026-08-13 10:04:36",
+  "count": 14988,
   "items": [
+    {
+      "id": "te:markets:574876",
+      "time": "2026-08-13 10:03:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Remains on Intervention Watch — The Japanese yen traded around 159.3 per dollar on Thursday, hovering near the key psychological level of 160 per dollar and keeping traders on alert for further intervention from authorities amid persistent weakness. The currency remained pressured by longer-term fundamentals, including wide interest rate differentials, mounting fiscal concerns and elevated energy and import costs. The yen also struggled to gain momentum even after subdued US inflation data reduced pressure on the Federal Reserve to raise interest rates in the near term. In Japan, producer prices rose 7.2% in July, easing slightly from 7.3% in June and coming in below forecasts of 7.4%. Meanwhile, the Bank of Japan highlighted growing risks of accelerating inflation in its summary of opinions from the July meeting, with one board member suggesting that the pace of interest rate hikes could accelerate."
+    },
+    {
+      "id": "mkt:019ff8dc-7fbf-7aab-9016-e2c7c6ca23e1",
+      "time": "2026-08-13 10:03:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share brokerage sector strengthened; Caitong Securities jumped over 8%, while Changjiang Securities, Tianfeng Securities and CSC Financial also rose."
+    },
+    {
+      "id": "5038449",
+      "time": "2026-08-13 10:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中興通訊與明陽集團圍繞算力專案推進等座談交流】據明陽集團訊息，8月11日，中興通訊高階副總裁、數字能源經營部總裁彭愛光一行到訪明陽集團，與明陽集團董事、中國市場總裁張瑞座談，雙方圍繞算力專案推進、風光儲氫一體化創新等議題深入交流。座談中，張瑞指出，新型電力系統建設與綠色算力產業同步迎來重要發展機遇，但算力用電成本偏高、出海競爭力不足是行業普遍痛點。雙方產業鏈優勢互補、協同潛力巨大，期待與中興通訊深化全方位戰略對接，聯合打造綠電算力融合創新示範，構建裝備製造與數字能源協同發展、雙向賦能的合作樣板。彭愛光表示，雙方在多能融合、綠電算力一體化創新領域高度契合，期待持續探索技術協同、示範專案打造等多元合作空間。"
+    },
+    {
+      "id": "5038448",
+      "time": "2026-08-13 10:03:03",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【券商板塊走強 財通證券漲超8%】券商板塊走強，財通證券漲超8%，長江證券，天風證券、中信建投等跟漲。"
+    },
+    {
+      "id": "mkt:019ff8db-09dd-7aab-9016-daf5e1010f90",
+      "time": "2026-08-13 10:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CRO sector rallied. Boji Pharmaceutical hit the daily limit-up and was sealed at 20cm; Haoyuan Pharmaceutical rose over 9%; Wanbang Pharmaceutical and Zhaoyan New Drug also advanced."
+    },
+    {
+      "id": "5038447",
+      "time": "2026-08-13 10:02:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "mkt:019ff8da-63de-7aab-9016-d2c51c549a84",
+      "time": "2026-08-13 10:01:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 30-year bond yield rose 1.0bp to 4.000%."
+    },
+    {
+      "id": "5038446",
+      "time": "2026-08-13 10:01:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數開盤上漲0.2%，至6388.23點。"
+    },
+    {
+      "id": "mkt:019ff8d9-d674-7aab-9016-c901ac6addf9",
+      "time": "2026-08-13 10:00:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic in talks to buy Decart AI for about $6bn to bolster AI infrastructure】Anthropic is in talks to acquire AI startup Decart AI for about $6bn, sources said. The deal is not final and negotiations could collapse. If completed it would be Anthropic’s largest-known acquisition and comes amid market anticipation of an Anthropic IPO. Decart’s software increases chip efficiency, lowering AI model training costs and potentially allowing Anthropic to scale existing infrastructure. Anthropic rarely pursues large acquisitions but has been investing heavily in compute to develop products and serve customers."
+    },
     {
       "id": "mkt:019ff8d9-0816-7aab-9016-c786021271d2",
       "time": "2026-08-13 10:00:00",
@@ -136567,101 +136658,6 @@
         "國際"
       ],
       "text": "日本秋田縣將建設 AI 資料中心，投資規模達 2 萬億日元。"
-    },
-    {
-      "id": "5027824",
-      "time": "2026-08-06 10:04:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【化妝品新國標今天釋出】由國家藥監局組織起草的首個化妝品強制性國家標準《化妝品安全通用要求》今天釋出，將於2028年正式實施，我國1987年釋出的《化妝品衛生標準》同步廢止。國家標準《化妝品安全通用要求》起草組組長安撫東介紹，根據化妝品暴露途徑、使用人群和作用部位等方面的風險差異，新國標對兒童化妝品和用於眼周、睫毛、口唇等部位的化妝品，限定更嚴格的指標進行管控。（央視新聞）"
-    },
-    {
-      "id": "5027823",
-      "time": "2026-08-06 10:03:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【氟化工概念震盪反彈，濱化股份漲停】氟化工概念震盪反彈，濱化股份漲停，中巨芯-U漲超10%，江化微、中船特氣、昊華科技、華誼集團、光華科技等跟漲。"
-    },
-    {
-      "id": "mkt:019fd4cf-caaa-7aab-8f98-99fc5008c39e",
-      "time": "2026-08-06 10:03:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China issues first mandatory cosmetics standard; stricter limits for children, eye and lip products】China's National Medical Products Administration (NMPA) today issued the country's first mandatory national cosmetics standard, \"Cosmetics Safety General Requirements\", to take effect in 2028 and repealing the 1987 Cosmetics Hygiene Standard. Drafting group head An Fudong said the standard differentiates controls by exposure route, user group and application site, imposing tighter limits on children's cosmetics and products for the eye area, eyelashes and lips."
-    },
-    {
-      "id": "5027822",
-      "time": "2026-08-06 10:03:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保障生態環境法典實施 最高法釋出首個配套司法解釋】為有效解決生態環境法典施行後新舊法律銜接適用問題，保障法典全面準確貫徹實施，最高人民法院8月6日釋出關於適用《中華人民共和國生態環境法典》時間效力的若干規定。這是生態環境法典首個配套司法解釋，將於8月15日與法典同步施行。據介紹，規定共13條，嚴格遵循立法法第104條規定的法不溯及既往原則和有利溯及例外的規則，明確了在生態環境法典施行以後，人民法院審理生態環境案件新舊法律銜接適用的一般標準和具體規則，為生態環境司法實踐提供明確裁判指引。（新華社）"
-    },
-    {
-      "id": "mkt:019fd4cf-7eb1-7aab-8f98-948c9cabb869",
-      "time": "2026-08-06 10:03:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hong Kong stocks opened weak and fell further; HSI down more than 2%, Hang Seng Tech Index down 1.7%."
-    },
-    {
-      "id": "5027821",
-      "time": "2026-08-06 10:02:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "【南亞科：DRAM新廠預計四年內投入725億元】南亞科宣佈，將今年資本支出由原定的520億元新臺幣（約合108億元）提高至697億元新臺幣（約合145億元）。5A新廠預計四年內投入3466億新臺幣（約合725億元），目標將第一階段月投片產能提升至3萬5900片，並匯入EUV光刻機，作為下一代DRAM製程的重要生產基地。"
-    },
-    {
-      "id": "5027820",
-      "time": "2026-08-06 10:02:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "菲律賓一季度 GDP 同比增速資料維持 2.8%不變。"
-    },
-    {
-      "id": "5027819",
-      "time": "2026-08-06 10:01:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超2%，現報25397.250點；恒生科技指數現跌1.854%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202608063833582280",
-      "time": "2026-08-06 10:01:47",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲理事庫克：若通脹居高不下 將支援加息】據報道，美聯儲理事庫克當地時間8月5日表示，如果美國通脹水平仍然“過高”，她願意支援美聯儲上調短期利率目標。庫克表示，就美聯儲雙重使命而言，通脹面臨的風險大於就業市場面臨的風險。她稱，如果美聯儲需要透過加息來應對強勁的價格壓力，她將權衡此舉對整體經濟的影響，並指出：“如果有必要讓通脹回落，我將支援加息。但也可能沒有這個必要。”"
-    },
-    {
-      "id": "5027818",
-      "time": "2026-08-06 10:01:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本東京7月辦公樓空置率降至1.95%。"
-    },
-    {
-      "id": "5027817",
-      "time": "2026-08-06 10:00:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電子化學品持續拉昇，中巨芯漲超10%】電子化學品持續拉昇，中巨芯漲超10%，江化微、宏和科技、中船特氣、光華科技、方邦股份跟漲。"
     }
   ]
 }
