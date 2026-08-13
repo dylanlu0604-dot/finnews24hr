@@ -1,7 +1,61 @@
 {
   "date": "2026-08-14",
-  "count": 260,
+  "count": 266,
   "items": [
+    {
+      "id": "mkt:019ffcca-14f2-7aab-902d-773edf9b4efd",
+      "time": "2026-08-14 04:22:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "U.S. Vice President Vance said regarding Iran that oil prices will return to stability once the Strait of Hormuz conflict ends."
+    },
+    {
+      "id": "mkt:019ffcca-00cf-7aab-902d-6c2302d6a426",
+      "time": "2026-08-14 04:22:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Vice President Vance said the United States has many tools available for policy toward Iran."
+    },
+    {
+      "id": "5040020",
+      "time": "2026-08-14 04:21:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）檔案顯示，截至6月30日馬斯克持有48.4%的SpaceX(SPCX.O)被動股份。"
+    },
+    {
+      "id": "5040019",
+      "time": "2026-08-14 04:21:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "萬斯：我們希望壓低利率。"
+    },
+    {
+      "id": "mkt:019ffcc8-e6ba-7aab-902d-6798e33304fb",
+      "time": "2026-08-14 04:20:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "U.S. Vice President Vance said his primary objective is to keep U.S. oil and gasoline affordable."
+    },
+    {
+      "id": "mkt:019ffcc8-aed4-7aab-902d-5a65e47cb857",
+      "time": "2026-08-14 04:20:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News reported U.S. Vice President Vance said the Iran issue will ultimately end with the United States in a position of strength."
+    },
     {
       "id": "5040018",
       "time": "2026-08-14 04:19:50",
