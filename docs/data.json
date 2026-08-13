@@ -1,7 +1,115 @@
 {
-  "updated": "2026-08-13 08:57:15",
-  "count": 15049,
+  "updated": "2026-08-13 09:01:39",
+  "count": 15037,
   "items": [
+    {
+      "id": "mkt:019ff8a2-9fbb-7aab-9015-aea8c201db85",
+      "time": "2026-08-13 09:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China Maritime Safety Administration posted a navigation warning from the Qinglan Maritime Safety Bureau: rocket launches will take place in parts of the South China Sea on Aug 16–17, daily 11:00–13:00; vessels are prohibited from entering the affected areas."
+    },
+    {
+      "id": "5038349",
+      "time": "2026-08-13 09:00:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至46,010.21點。"
+    },
+    {
+      "id": "5038348",
+      "time": "2026-08-13 09:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月16日至8月17日，每日11時至13時，南海部分海域進行火箭發射，禁止駛入。"
+    },
+    {
+      "id": "5038347",
+      "time": "2026-08-13 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報45,676.54。"
+    },
+    {
+      "id": "5038346",
+      "time": "2026-08-13 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲2%，現報3922.00元。"
+    },
+    {
+      "id": "5038345",
+      "time": "2026-08-13 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.42%。"
+    },
+    {
+      "id": "5038344",
+      "time": "2026-08-13 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】玻璃連續跌2.36%，雞蛋連續漲1.95%，純鹼連續跌1.41%，纖維板連續漲1.20%，紙漿連續漲1.17%。"
+    },
+    {
+      "id": "mkt:019ff8a1-a2eb-7aab-9015-a16a89a4ffb2",
+      "time": "2026-08-13 08:59:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC says yields for some CoWoS AI products reach 98–99%】TSMC said its CoWoS advanced packaging for AI chips has achieved production yields of 98–99% for some products. He Jun, VP of advanced packaging technology and services, said the high yields mainly apply to CoWoS AI products using a 5.5x reticle size, which are now in mass production, and TSMC expects to scale CoWoS to a 14x reticle size by 2029."
+    },
+    {
+      "id": "5038343",
+      "time": "2026-08-13 08:59:19",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國將要求散戶參與個股槓桿ETF模擬交易】作為上月出臺抑制散戶ETF投資熱潮配套措施的一部分，韓國自8月19日起，要求散戶投資者完成模擬交易課程，方可交易個股槓桿型交易所交易基金（ETF）。韓國金融委員會週三釋出公告稱，除原有規定的三小時風險管理課程、最低3000萬韓元（摺合21250.97美元）准入資金門檻外，投資者還必須完成至少五輪模擬交易，每輪模擬交易時長不少於一小時。"
+    },
+    {
+      "id": "mkt:019ff8a0-44f3-7aab-9015-9ce2f0154932",
+      "time": "2026-08-13 08:58:00",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Reserve Bank of Australia frames pause as conditional; tightening working but peak not declared】Kent portrayed this week’s pause as a hawkish pause rather than a dovish shift: policy is now restrictive and earlier hikes are working, allowing time to assess effects. The RBA has tightened 75bps this year, lifting the cash rate to 4.35%. He said current rates are near the upper bound of many models’ neutral-rate estimates; housing is clearly weakening and AUD appreciation is reducing import prices, both helping ease inflation. However, weak productivity is constraining supply, core inflation remains 3.6% (above the 2–3% target band), and upside risks persist, so the door to further tightening is not closed."
+    },
+    {
+      "id": "5038342",
+      "time": "2026-08-13 08:56:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將要求個人投資者在交易單隻股票槓桿ETF前完成模擬交易。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608133839525457",
+      "time": "2026-08-13 08:56:12",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【2026年二季度中國貨幣政策執行報告明確：淡化對貸款這個單一融資渠道的關注】8月12日，中國人民銀行披露2026年二季度中國貨幣政策執行報告，總結了2026年上半年貨幣政策執行情況。報告以專欄形式提出，淡化對貸款這個單一融資渠道的關注，把貸款和債券融資等合併觀察。"
+    },
     {
       "id": "5038341",
       "time": "2026-08-13 08:56:05",
@@ -137028,232 +137136,6 @@
         "焦點"
       ],
       "text": "現貨黃金突破4300美元/盎司，日內漲1.31%。"
-    },
-    {
-      "id": "mkt:019fd496-fdb8-7aab-8f96-ae403b28a44d",
-      "time": "2026-08-06 09:01:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened down 244.72 points, or 0.55%, at 44,366.88 on Thursday, Aug. 6."
-    },
-    {
-      "id": "5027703",
-      "time": "2026-08-06 09:01:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4360美元/盎司，日內漲1.28%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608063833049346",
-      "time": "2026-08-06 09:01:02",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【“小非農”降至半年新低 就業市場是否將攪動美聯儲加息前景】作為本月非農報告前的重要預演，美國最大薪資處理機構ADP資料顯示，7月私營企業招聘顯著降溫。對於將政策重心轉向通脹的美聯儲而言，就業市場的波動或許成為影響加息的重要催化劑、"
-    },
-    {
-      "id": "5027702",
-      "time": "2026-08-06 09:01:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【淮河能源成立新公司 含太陽能發電相關業務】企查查APP顯示，近日，淮河能源（安徽）新能源有限公司成立，經營範圍包含：風力發電技術服務；太陽能發電技術服務；儲能技術服務；工程管理服務；新興能源技術研發等。企查查股權穿透顯示，該公司由淮河能源全資持股。"
-    },
-    {
-      "id": "mkt:019fd496-6416-7aab-8f96-a7a9d6e48968",
-      "time": "2026-08-06 09:00:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 4.11% to 931.99 yuan/gram in early trade on Aug. 6; Silver T+D gained 3.82% to 15,291 yuan/kg."
-    },
-    {
-      "id": "5027701",
-      "time": "2026-08-06 09:00:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖南能源集團副董事長鬍瑞連線受審查調查】中央紀委國家監委網站8月6日通報，據湖南省紀委監委訊息：湖南能源集團有限公司黨委副書記、副董事長、總經理胡瑞連涉嫌嚴重違紀違法，主動投案，目前正接受湖南省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "mkt:019fd496-26f4-7aab-8f96-996def11a46c",
-      "time": "2026-08-06 09:00:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures opened down 0.5%."
-    },
-    {
-      "id": "5027700",
-      "time": "2026-08-06 09:00:35",
-      "tags": [],
-      "text": "國內期貨主力合約漲多跌少，滬金、滬銀漲超4％，氧化鋁、鈀漲超2％，鉑、滬錫、滬鋅漲近2％，鐵礦石、碳酸鋰、棉花漲超1％，焦煤漲近1％。跌幅方面，丙烯、純苯、乙二醇（EG）、甲醇、苯乙烯（EB）跌超3％，聚丙烯、PTA、瓶片跌近3％。"
-    },
-    {
-      "id": "5027699",
-      "time": "2026-08-06 09:00:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀金期貨突破1400美元/盎司，日內漲2.18%。"
-    },
-    {
-      "id": "mkt:019fd496-0e57-7aab-8f96-979fe64c2f64",
-      "time": "2026-08-06 09:00:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "At the open, China's most-active commodity futures were mixed. Shanghai gold and silver jumped over 4%; alumina and palladium advanced >2%; platinum, Shanghai tin and zinc were near 2% stronger; iron ore, lithium carbonate and cotton rose >1%; coking coal gained ~1%. On the downside, propylene, pure benzene, ethylene glycol (EG), methanol and styrene (EB) fell >3%; polypropylene, PTA and PET chips were down around 3%."
-    },
-    {
-      "id": "5027698",
-      "time": "2026-08-06 09:00:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1398.00美元/盎司。"
-    },
-    {
-      "id": "5027697",
-      "time": "2026-08-06 09:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開低0.3%報44,487.94。"
-    },
-    {
-      "id": "5027696",
-      "time": "2026-08-06 09:00:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報1593.00點。"
-    },
-    {
-      "id": "5027695",
-      "time": "2026-08-06 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】黃金連續漲4.38%，白銀連續漲4.33%，丙烯連續跌3.79%，純苯連續跌3.59%，甲醇連續跌3.49%。"
-    },
-    {
-      "id": "5027694",
-      "time": "2026-08-06 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報5600.00元。"
-    },
-    {
-      "id": "5027693",
-      "time": "2026-08-06 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.43%。"
-    },
-    {
-      "id": "5027692",
-      "time": "2026-08-06 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌3%，現報2461.00元。"
-    },
-    {
-      "id": "5027691",
-      "time": "2026-08-06 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報7903.00元。"
-    },
-    {
-      "id": "5027690",
-      "time": "2026-08-06 08:59:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲1%，現報62.65美元/盎司。"
-    },
-    {
-      "id": "5027689",
-      "time": "2026-08-06 08:59:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲1%，現報62.92美元/盎司。"
-    },
-    {
-      "id": "mkt:019fd494-452b-7aab-8f96-8bbe3318ee1c",
-      "time": "2026-08-06 08:58:34",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact mixed",
-        "DXY",
-        "S&P500"
-      ],
-      "text": "DALY said the Fed should not assume inflation expectations are stable."
-    },
-    {
-      "id": "5027688",
-      "time": "2026-08-06 08:58:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲1%，現報1385.00美元/盎司。"
-    },
-    {
-      "id": "5027687",
-      "time": "2026-08-06 08:58:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：美聯儲不應將通脹預期穩定視為理所當然。"
-    },
-    {
-      "id": "mkt:019fd493-ac05-7aab-8f96-873f8998032e",
-      "time": "2026-08-06 08:57:55",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "DALY says long-term inf expectations have been effectively anchored."
     }
   ]
 }

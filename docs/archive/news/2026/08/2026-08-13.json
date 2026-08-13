@@ -1,7 +1,115 @@
 {
   "date": "2026-08-13",
-  "count": 505,
+  "count": 517,
   "items": [
+    {
+      "id": "mkt:019ff8a2-9fbb-7aab-9015-aea8c201db85",
+      "time": "2026-08-13 09:00:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China Maritime Safety Administration posted a navigation warning from the Qinglan Maritime Safety Bureau: rocket launches will take place in parts of the South China Sea on Aug 16–17, daily 11:00–13:00; vessels are prohibited from entering the affected areas."
+    },
+    {
+      "id": "5038349",
+      "time": "2026-08-13 09:00:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲1.1%至46,010.21點。"
+    },
+    {
+      "id": "5038348",
+      "time": "2026-08-13 09:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！南海海域有火箭發射】據中國海事局網站訊息，清瀾海事局釋出航行警告，8月16日至8月17日，每日11時至13時，南海部分海域進行火箭發射，禁止駛入。"
+    },
+    {
+      "id": "5038347",
+      "time": "2026-08-13 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報45,676.54。"
+    },
+    {
+      "id": "5038346",
+      "time": "2026-08-13 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內漲2%，現報3922.00元。"
+    },
+    {
+      "id": "5038345",
+      "time": "2026-08-13 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.42%。"
+    },
+    {
+      "id": "5038344",
+      "time": "2026-08-13 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】玻璃連續跌2.36%，雞蛋連續漲1.95%，純鹼連續跌1.41%，纖維板連續漲1.20%，紙漿連續漲1.17%。"
+    },
+    {
+      "id": "mkt:019ff8a1-a2eb-7aab-9015-a16a89a4ffb2",
+      "time": "2026-08-13 08:59:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC says yields for some CoWoS AI products reach 98–99%】TSMC said its CoWoS advanced packaging for AI chips has achieved production yields of 98–99% for some products. He Jun, VP of advanced packaging technology and services, said the high yields mainly apply to CoWoS AI products using a 5.5x reticle size, which are now in mass production, and TSMC expects to scale CoWoS to a 14x reticle size by 2029."
+    },
+    {
+      "id": "5038343",
+      "time": "2026-08-13 08:59:19",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國將要求散戶參與個股槓桿ETF模擬交易】作為上月出臺抑制散戶ETF投資熱潮配套措施的一部分，韓國自8月19日起，要求散戶投資者完成模擬交易課程，方可交易個股槓桿型交易所交易基金（ETF）。韓國金融委員會週三釋出公告稱，除原有規定的三小時風險管理課程、最低3000萬韓元（摺合21250.97美元）准入資金門檻外，投資者還必須完成至少五輪模擬交易，每輪模擬交易時長不少於一小時。"
+    },
+    {
+      "id": "mkt:019ff8a0-44f3-7aab-9015-9ce2f0154932",
+      "time": "2026-08-13 08:58:00",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Reserve Bank of Australia frames pause as conditional; tightening working but peak not declared】Kent portrayed this week’s pause as a hawkish pause rather than a dovish shift: policy is now restrictive and earlier hikes are working, allowing time to assess effects. The RBA has tightened 75bps this year, lifting the cash rate to 4.35%. He said current rates are near the upper bound of many models’ neutral-rate estimates; housing is clearly weakening and AUD appreciation is reducing import prices, both helping ease inflation. However, weak productivity is constraining supply, core inflation remains 3.6% (above the 2–3% target band), and upside risks persist, so the door to further tightening is not closed."
+    },
+    {
+      "id": "5038342",
+      "time": "2026-08-13 08:56:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將要求個人投資者在交易單隻股票槓桿ETF前完成模擬交易。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202608133839525457",
+      "time": "2026-08-13 08:56:12",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【2026年二季度中國貨幣政策執行報告明確：淡化對貸款這個單一融資渠道的關注】8月12日，中國人民銀行披露2026年二季度中國貨幣政策執行報告，總結了2026年上半年貨幣政策執行情況。報告以專欄形式提出，淡化對貸款這個單一融資渠道的關注，把貸款和債券融資等合併觀察。"
+    },
     {
       "id": "5038341",
       "time": "2026-08-13 08:56:05",
