@@ -1,7 +1,27 @@
 {
   "date": "2026-08-14",
-  "count": 252,
+  "count": 254,
   "items": [
+    {
+      "id": "5040014",
+      "time": "2026-08-14 04:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "據公司備忘錄，泰森食品將關閉其位於伊利諾伊州喬斯林（Joslin）的牛肉屠宰廠以及位於猶他州的即食（case-ready）肉類加工廠，將提高其得克薩斯州牛肉加工廠的屠宰量。"
+    },
+    {
+      "id": "te:markets:575183",
+      "time": "2026-08-14 04:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow."
+    },
     {
       "id": "5040013",
       "time": "2026-08-14 04:07:10",

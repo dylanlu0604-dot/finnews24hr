@@ -1,7 +1,27 @@
 {
-  "updated": "2026-08-14 04:09:27",
-  "count": 15409,
+  "updated": "2026-08-14 04:13:19",
+  "count": 15408,
   "items": [
+    {
+      "id": "5040014",
+      "time": "2026-08-14 04:12:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "據公司備忘錄，泰森食品將關閉其位於伊利諾伊州喬斯林（Joslin）的牛肉屠宰廠以及位於猶他州的即食（case-ready）肉類加工廠，將提高其得克薩斯州牛肉加工廠的屠宰量。"
+    },
+    {
+      "id": "te:markets:575183",
+      "time": "2026-08-14 04:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Gain on Softer PPI Data — US stock indices closed higher on Thursday after soft price data consolidated bets on a Federal Reserve rate hold next month. The S&P 500 rose 0.6% to a new record, while the Nasdaq jumped 1.1%, also nearing it's all-time closing high, and the Dow added 70 points. Headline and core producer prices were lower than expected in July, in line with yesterday’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Chip stocks extended gains from yesterday, tracking their South Korean counterparts. Reports that Anthropic is pursuing an IPO and seeking to acquire Decart AI for $6 billion continued to support the outlook for AI-related spending. Micron (+4.2%), Intel (+%), and Marvell (+3.6%) rose, while Sandisk surged 13.7%. In contrast, Cisco slumped 8.4% after projecting a slowdown in sales tied to AI data centers this fiscal year. Bank and industrial stocks also pulled back, with Bank of America (-1.1%) and RTX (-1%) falling, limiting gains for the Dow."
+    },
     {
       "id": "5040013",
       "time": "2026-08-14 04:07:10",
@@ -140971,35 +140991,6 @@
         "其他"
       ],
       "text": "英國《金融時報》：簡街資本正與投資者洽談債務再融資事宜。"
-    },
-    {
-      "id": "5029528",
-      "time": "2026-08-07 04:12:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國總統特朗普正式簽署多晶矽關稅行政命令。"
-    },
-    {
-      "id": "te:markets:573483",
-      "time": "2026-08-07 04:12:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Pressured by Rising Oil Prices — US stock indices closed lower on Thursday as a rebound in energy prices revived concerns that the Fed could raise interest rates next month. The S&P 500 fell 0.2%, the Nasdaq 100 lost 0.4%, and the Dow shed 464 points. Yields rose alongside wholesale fuel prices as investors reassessed the prospects for restoring shipping through Hormuz. Reports indicated that Iran plans to bar US and Israeli vessels from the waterway and require compensation from countries it considers hostile before allowing passage. Hawkish comments from FOMC members were reinforced by reports that Fed Chair Warsh is willing to raise rates if inflation rises further. Financial stocks weakened, with JPMorgan down 0.8% and Morgan Stanley losing 2.1%. Credit-sensitive hyperscalers were mostly lower, with Alphabet down 1.3%. Western Digital sank 13% after a disappointing guidance. Sandisk lost 6.8% as its results missed expectations. SpaceX rose 6.1% as $101 billion worth of shares exited their post-IPO lockup."
-    },
-    {
-      "id": "5029527",
-      "time": "2026-08-07 04:12:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將討論出生公民權問題。"
     }
   ]
 }
