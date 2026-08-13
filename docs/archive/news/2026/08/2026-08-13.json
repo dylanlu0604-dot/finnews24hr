@@ -1,7 +1,106 @@
 {
   "date": "2026-08-13",
-  "count": 2589,
+  "count": 2600,
   "items": [
+    {
+      "id": "te:markets:575136",
+      "time": "2026-08-13 22:21:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Falls From 2-Month High — Palladium futures slipped below $1,330 per ounce after hovering near a two-month high, weighed by concerns over the long-term impact of growing electric vehicle demand. Although rising hybrid vehicle demand has provided near-term support for autocatalyst consumption, markets remain cautious amid the broader shift in demand toward EVs, which recorded a fifth consecutive monthly increase in July, as the palladium market could still record a global surplus. On the other hand, concerns over power supply disruptions and maintenance bottlenecks at South African mines, alongside uncertainty surrounding Russian exports, continued to underpin prices. Meanwhile, market expectations that the Federal Reserve will keep borrowing costs unchanged at the next meeting increased following weaker-than-expected jobs and inflation data, generally supporting non-yielding precious metals."
+    },
+    {
+      "id": "5039730",
+      "time": "2026-08-13 22:20:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家外匯管理局深圳市分局：辦理外匯業務不收取任何形式的“備案費”】8月13日，國家外匯管理局深圳市分局釋出關於警惕冒用國家外匯管理局深圳市分局名義收取費用的公告。近期，有不法分子假冒國家外匯管理局深圳市分局名義，以紙質檔案等形式向個人傳送偽造的“繳費通知”，要求按跨境資金總額的一定比例繳納所謂“備案費”。現就有關情況公告如下：一、國家外匯管理局深圳市分局從未以紙質檔案、郵件或電話等形式向任何企業、個人等主體傳送要求繳納“備案費”等通知。國家外匯管理局深圳市分局辦理外匯業務，不收取任何形式的“備案費”。二、所謂傳送要求繳納“備案費”等檔案、郵件或電話的行為涉嫌詐騙。請廣大企業和個人收到類似檔案、郵件或電話後提高警惕，認真核實，切勿輕信，妥善保護好自身資訊和財產安全。一旦發現違法犯罪線索或遭遇損失，請及時向公安機關報案反映情況，積極提供線索，配合公安機關案件偵查，盡力挽回損失。"
+    },
+    {
+      "id": "mkt:019ffb7e-cc73-7aab-9027-d613c1db4c9d",
+      "time": "2026-08-13 22:20:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Databricks completed a $5.0 bln funding round at a $190.0 bln valuation."
+    },
+    {
+      "id": "mkt:019ffb7e-95ac-7aab-9027-cc8a7e970488",
+      "time": "2026-08-13 22:20:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week to Aug. 7 due in 10 minutes."
+    },
+    {
+      "id": "5039729",
+      "time": "2026-08-13 22:20:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，哈馬斯警察部隊加沙城地區一名指揮官在加沙城區域的襲擊中身亡。"
+    },
+    {
+      "id": "mkt:019ffb7e-8ce1-7aab-9027-c62d2f34899f",
+      "time": "2026-08-13 22:20:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Explosion at KNDS factory in Colleferro, Italy."
+    },
+    {
+      "id": "5039728",
+      "time": "2026-08-13 22:19:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "目前恐懼貪婪指數為67分（滿分100）。"
+    },
+    {
+      "id": "5039727",
+      "time": "2026-08-13 22:19:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利科爾費羅的 KNDS 工廠發生爆炸。"
+    },
+    {
+      "id": "5039726",
+      "time": "2026-08-13 22:18:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "據燈塔專業版，影片《奧德賽》總票房預測8.795億，有望重新整理諾蘭導演電影內地最高票房紀錄。"
+    },
+    {
+      "id": "5039725",
+      "time": "2026-08-13 22:18:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東過去3年已累計回購17%的流通股】京東高管今年在財報業績會表示，自2023年以來，京東已經回購了17%的流通股，透過分紅和回購的方式回饋股東約130億美元，今年上半年回購約6990萬普通股，此前3年50億美元的回購計劃剩餘10億美金的額度，未來會持續投入業務運營與供應鏈能力提升長期競爭力，透過多元化的方式回饋股東。"
+    },
+    {
+      "id": "mkt:019ffb7c-8986-7aab-9027-b92b0be2c3ff",
+      "time": "2026-08-13 22:17:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "Texas governor says Microsoft will comply with data center standards."
+    },
     {
       "id": "5039724",
       "time": "2026-08-13 22:17:17",
