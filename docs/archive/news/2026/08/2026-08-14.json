@@ -1,7 +1,23 @@
 {
   "date": "2026-08-14",
-  "count": 109,
+  "count": 111,
   "items": [
+    {
+      "id": "mkt:019ffc2b-37e9-7aab-902b-d64af15dc3db",
+      "time": "2026-08-14 01:28:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Anthropic holds pre-IPO investor meetings; $2tn valuation cited but not company target】Anthropic is holding preliminary investor meetings ahead of a potential record-sized IPO, with discussions reportedly remaining at a macro level and not yet covering detailed financials or formal valuation guidance. CFO Krishna Rao is leading meetings focused on the Claude model family, Claude Code, enterprise positioning, management and product roadmap. The company confidentially filed listing documents with the SEC in June but has not set an IPO timetable. Anthropic completed a financing in late May at an implied valuation of about $965bn and disclosed an annualized revenue run rate above $47bln. Some investors price a potential IPO as high as $2tn, though that figure is not an official company target. Rival OpenAI has also confidentially filed but has not begun investor roadshows."
+    },
+    {
+      "id": "5039925",
+      "time": "2026-08-14 01:26:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "Rumo首席財務官表示，預計第三季度價格將同比保持穩定，第四季度將上漲。"
+    },
     {
       "id": "mkt:019ffc24-7e5d-7aab-902b-ca29ed29487f",
       "time": "2026-08-14 01:21:17",
