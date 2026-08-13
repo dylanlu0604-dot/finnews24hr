@@ -1,7 +1,368 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-08-14 01:56:02_
-_本檔包含 3101 則快訊，約 605463 字_
+_更新時間：2026-08-14 03:14:56_
+_本檔包含 3133 則快訊，約 607880 字_
+
+---
+
+### 2026-08-12 22:37:38  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+EIA report: US crude inventories rose last week by the largest increase since January 2023.
+
+---
+
+### 2026-08-12 22:37:21  #國際
+
+美國能源資訊署（EIA）資料顯示，最新一週美國原油庫存創下2023年1月以來單週最大增幅。
+
+---
+
+### 2026-08-12 22:32:56  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bearish #Brent
+
+【TRUMP says US has full control of Strait of Hormuz】TRUMP says the United States has full control of the Strait of Hormuz and expects to maintain that control. He described the U.S. maritime blockade as an 'iron wall' and said Iran cannot counter it. He asserted Iran lacks a navy and air force, that remaining soldiers are unpaid, the IRGC has been heavily damaged and is retreating, leadership is 'uncertain', and the country is financially crippled with '300% inflation' and worsening; he said Iran now 'talks but does not act' and is no longer a regional bully.
+
+---
+
+### 2026-08-12 22:32:38  #MKT News #Commodities #Energy #WTI #Impact bearish
+
+EIA report: Cushing crude inventories rose 1.61 mln barrels to 22.57 mln barrels.
+
+---
+
+### 2026-08-12 22:32:32  #焦點 #國際
+
+【特朗普：美國對霍爾木茲海峽擁有完全控制權】美國完全掌控霍爾木茲海峽。我認為我們會守住這一局面！各方都將我們的海上封鎖稱作 “鋼鐵之牆”，伊朗對此束手無策。他們沒有像樣的海軍，沒有像樣的空軍，剩餘士兵拿不到軍餉，伊斯蘭革命衛隊遭到重創、四處逃竄，其領導層最多也只能用局勢不穩來形容！他們國庫空虛，國家已然破敗。他們只剩下假新聞和 300% 的通貨膨脹，且形勢還在持續惡化！伊朗只會虛張聲勢，不再是中東的恃強凌弱者。
+
+---
+
+### 2026-08-12 22:32:04  #MKT News #Important #WTI #Impact bearish #Brent #DXY #Impact mixed
+
+President Trump said Iran will only talk and will not take action, and that the United States has full control of the Strait of Hormuz.
+
+---
+
+### 2026-08-12 22:31:50  #國際
+
+特朗普：伊朗只會空談，並無實際行動。
+
+---
+
+### 2026-08-12 22:31:48  #公司
+
+【31.32萬人次創單日新高，成都暑運“上半場”運送旅客超1183萬人次】記者從四川省機場集團獲悉，截至8月10日，成都兩場累計運送旅客1183.98萬人次，同比增長8.2%；完成航班運輸7.69萬架次，同比增長4.2%。8月1日當天，單日旅客吞吐量衝至31.32萬人次，創今年暑運以來單日客流最高峰。
+
+---
+
+### 2026-08-12 22:31:41  #國際
+
+特朗普：美國完全掌控霍爾木茲海峽  。
+
+---
+
+### 2026-08-12 22:31:13  #國際
+
+美國煉油廠開工率為96.2%，市場預期為96.30%。
+
+---
+
+### 2026-08-12 22:31:00  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA implied distillate fuel oil demand for week ended Aug. 7: 5.3924 mln b/d versus 5.8251 mln b/d prior.
+
+---
+
+### 2026-08-12 22:30:56  #其他
+
+【5分鐘極速換電，犀重汽車底置換電重卡將於明年在成都量產】記者從成都經開區獲悉，犀重汽車核心科創產品X-Truck底置換電重卡，將於2027年在成都經開區新建基地實現規模化量產。該專案落地後，將填補西南高階換電重卡產業空白，加速區域新能源商用車迭代升級，助力西南零碳貨運體系建設。
+
+---
+
+### 2026-08-12 22:30:53  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA motor gasoline implied demand for the week to Aug. 7: 9.817 mln b/d, down from 9.838 mln b/d the prior week.
+
+---
+
+### 2026-08-12 22:30:51  #焦點 #國際
+
+美國至8月7日當週EIA戰略石油儲備庫存 -611.5萬桶，前值-284.1萬桶。
+美國至8月7日當週EIA俄克拉荷馬州庫欣原油庫存 161.1萬桶，前值235.6萬桶。
+
+---
+
+### 2026-08-12 22:30:51  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA implied crude oil demand for week to Aug 7: 18.655 mln b/d vs 19.648 mln b/d in prior week.
+
+---
+
+### 2026-08-12 22:30:50  #MKT News #WTI #Impact bearish
+
+EIA: U.S. refinery utilization 96.2% in week to Aug 7 vs 96.4% expected, prior 96.5%.
+
+---
+
+### 2026-08-12 22:30:50  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+EIA: U.S. Strategic Petroleum Reserve fell 6.115 mln barrels in the week to Aug 7, versus a 2.841 mln-barrel draw the prior week.
+
+---
+
+### 2026-08-12 22:30:49  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Fuel Implied Demand (Aug.7) | actual 5392400M | previous 5825100M
+
+---
+
+### 2026-08-12 22:30:45  #MKT News #Commodities #Energy
+
+U.S. EIA reformulated gasoline (RFG) stocks fell 3,000 bbl in the week to Aug. 7; prior change 0 bbl.
+
+---
+
+### 2026-08-12 22:30:45  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA crude oil imports for the week to Aug. 7 were 1.768 mln b/d, up from 297,000 b/d the prior week.
+
+---
+
+### 2026-08-12 22:30:43  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA crude inventories, week to Aug. 7: +17.423 mln barrels; consensus -1.405 mln; prior +2.479 mln.
+
+---
+
+### 2026-08-12 22:30:43  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA gasoline inventories fell 968,000 barrels in the week to Aug. 7, versus a market-expected draw of 1.199 mln barrels and a prior draw of 1.643 mln barrels.
+
+---
+
+### 2026-08-12 22:30:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA refined products inventories fell 10,000 barrels in the week to Aug. 7, versus a forecast decline of 1.296 mln barrels and a prior drop of 3.473 mln barrels.
+
+---
+
+### 2026-08-12 22:30:43  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. EIA: crude oil brought online +26,000 b/d in the week to Aug. 7, prior -183,000 b/d.
+
+---
+
+### 2026-08-12 22:30:37  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Motor Gasoline Implied Demand (Aug.7) | actual 9816900M | previous 9838300M
+
+---
+
+### 2026-08-12 22:30:33  #MKT News #Commodities #Energy
+
+US EIA finished petroleum product imports for the week to Aug. 7 were 206,000 b/d, versus -317,000 b/d in the prior week.
+
+---
+
+### 2026-08-12 22:30:33  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. EIA refinery output for the week ended Aug 7 +50,000 b/d; prior -134,000 b/d.
+
+---
+
+### 2026-08-12 22:30:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+US EIA heating oil stocks rose 192,000 barrels in the week to Aug. 7; prior week recorded a 144,000-barrel draw.
+
+---
+
+### 2026-08-12 22:30:29  #MKT News #Commodities #Energy
+
+U.S. EIA gasoline production fell by 1,000 b/d in the week to Aug. 7, versus a 309,000 b/d decline the prior week.
+
+---
+
+### 2026-08-12 22:30:29  #MKT News #Important #Commodities #Energy #WTI #Impact bullish
+
+U.S. EIA crude stocks at Cushing, Oklahoma for week to Aug. 7: 1.611 mln barrels; prior 2.356 mln barrels.
+
+---
+
+### 2026-08-12 22:30:23  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Implied Demand (Aug.7) | actual 18655000M | previous 19648000M
+
+---
+
+### 2026-08-12 22:30:09  #國際
+
+美國能源資訊署稱，原油庫存增加1742萬桶。
+
+---
+
+### 2026-08-12 22:30:09  #MKT News #Economic Calendar #Important
+
+United States | EIA Strategic Petroleum Reserve Stocks Change (Aug.7) | actual -6115000M | previous -2841000M
+
+---
+
+### 2026-08-12 22:30:06  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Refinery Utilization Rates (Aug.7) | actual 96.2% | consensus 96.4% | previous 96.5%
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Distillate Stocks Change (Aug.7) | actual -10000M | consensus -1296000M | previous -3473000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Imports Change (Aug.7) | actual 1768000M | previous 297000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Aug.7) | actual -3000M | previous 0M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Petroleum Products Imports Change (Aug.7) | actual 206000M | previous -317000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Heating Oil Stocks Change (Aug.7) | actual 192000M | previous -144000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Gasoline Stocks Change (Aug.7) | actual -968000M | consensus -1199000M | previous -1643000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Distillate Production Change (Aug.7) | actual 50000M | previous -134000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Crude Oil Stocks Change (Aug.7) | actual 17423000M | consensus -1405000M | previous 2479000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Gasoline Production (Aug.7) | actual -1000M | previous -309000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar
+
+United States | EIA Weekly Crude Oil Input Into Refineries Change (Aug.7) | actual 26000M | previous -183000M
+
+---
+
+### 2026-08-12 22:30:01  #MKT News #Economic Calendar #Important
+
+United States | EIA Weekly Cushing Crude Oil Stocks Change (Aug.7) | actual 1611000M | previous 2356000M
+
+---
+
+### 2026-08-12 22:28:34  #國際
+
+烏克蘭基礎設施部副部長表示，受俄羅斯襲擊加劇影響，7 月份僅有 159 艘船隻駛入敖德薩港樞紐裝貨，而去年同期該數字接近 400 艘。
+
+---
+
+### 2026-08-12 22:28:29  #MKT News #XAUUSD #Impact bullish #DXY
+
+Ukraine's deputy infrastructure minister said intensified Russian attacks cut July loaded vessel calls at the Odesa port hub to 159, from nearly 400 a year earlier.
+
+---
+
+### 2026-08-12 22:27:24  #國際
+
+彭博使用者預計美國原油庫存將減少140萬桶。
+
+---
+
+### 2026-08-12 22:27:11  #MKT News
+
+Israel's defense minister Katz has instructed the Israel Defense Forces to prepare for a long-term deployment.
+
+---
+
+### 2026-08-12 22:27:09  #國際
+
+俄羅斯稱打擊了烏克蘭切爾諾莫爾斯克的燃料儲罐。
+
+---
+
+### 2026-08-12 22:27:06  #MKT News
+
+Katz said the IDF will continue to garrison security zones in Lebanon, Syria and Gaza.
+
+---
+
+### 2026-08-12 22:27:05  #國際
+
+以色列國防部長卡茨：已指示以色列國防軍做好長期駐紮準備。
+
+---
+
+### 2026-08-12 22:26:39  #國際
+
+以色列國防部長卡茨：以色列國防軍將駐守黎巴嫩、敘利亞以及加沙安全區。
+
+---
+
+### 2026-08-12 22:25:40  #國際
+
+俄羅斯國防部：俄軍空襲敖德薩港口一艘船隻。
+
+---
+
+### 2026-08-12 22:25:39  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Russian Defence Ministry said Russian forces struck a vessel in the port of Odesa.
+
+---
+
+### 2026-08-12 22:21:40  #其他
+
+市場訊息：YUNO 完成 4500 萬美元 B 輪融資，用於擴大原生人工智慧作業系統業務規模。
+
+---
+
+### 2026-08-12 22:20:09  #MKT News #CLSK.O
+
+Texas governor says CleanSpark will comply with state data-center standards.
+
+---
+
+### 2026-08-12 22:20:07  #MKT News #Important #WTI #Brent
+
+U.S. EIA crude inventories, Cushing crude inventories and Strategic Petroleum Reserve levels for the week to Aug. 7 are due in 10 minutes.
+
+---
+
+### 2026-08-12 22:19:53  #國際
+
+【特朗普考慮削減資本利得稅以提升共和黨支援率】據一名高階經濟顧問和前政府官員稱，美國總統特朗普考慮在中期選舉前向選民做出新的政策承諾，其中或包括呼籲國會下調資本利得稅，並對部分住房出售給予免稅待遇。白宮國家經濟委員會主任凱文·哈塞特週二接受採訪時表示，特朗普希望為選民提供更多支援共和黨的理由。庫德洛在特朗普首個任期內曾領導國家經濟委員會，目前仍是其盟友。他表示，近期曾與特朗普討論資本利得稅指數化，也就是在計算應稅資本利得時剔除通脹因素。他還建議，對售價不超過200萬美元的住房出售給予資本利得稅豁免，並稱“老闆對這些想法很感興趣”。庫德洛說：“我跟他談過，他喜歡資本利得稅指數化這個想法，也喜歡擴大豁免範圍的想法。”哈塞特表示，特朗普正在尋找能夠幫助共和黨爭取選民的新政策構想。大多數稅制調整都需要國會立法，因此特朗普的這些設想不太可能在11月中期選舉前成為法律。包括特朗普第一任期在內的歷屆美國政府都曾研究在不經國會的情況下單方面將資本利得稅與通脹掛鉤，但法律專家認為，這樣做很可能面臨司法挑戰。國會共和黨人也曾提出資本利得稅指數化，不過這一議題尚未獲得黨內一致支援。但是無論是調整資本利得稅還是擴大售房免稅範圍，受益都將明顯偏向富裕人群，因此共和黨可能面臨政治攻擊。白宮發言人Kush Desai在被問及正在考慮的政策提案時表示，特朗普“一直在探索讓美國再次富裕的新想法，但任何政策宣佈都將由政府直接釋出”。
+
+---
+
+### 2026-08-12 22:19:40  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 0
+
+Germany 10-Year Bond Yield Swings at 3.1% — Germany’s 10-year Bund yield has been swinging around 3.1% in August, tracking US Treasury yields, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September.
 
 ---
 
@@ -18548,173 +18909,5 @@ According to the Wall Street Journal, US officials said a US military helicopter
 ### 2026-08-11 20:24:45  #MKT News #S&P500 #Impact mixed #DXY #WTI #Impact bearish
 
 【Inflation data key for markets; US stocks hold near highs awaiting Fed cues】US equity futures were slightly higher in pre-market trade while oil pared earlier gains after Pakistan signaled a near-term US‑Iran agreement that could ease energy-market tensions. Traders await key inflation data for guidance on Fed policy. Capital.com senior market analyst Daniela Hathorn said: "Investors are increasingly pricing a scenario in which inflation continues to slow, the Fed stays patient, and earnings growth supports elevated valuations; a soft CPI would reinforce that narrative and extend the rally, while a hotter-than-expected print would lift Treasury yields and the dollar and force markets to reassess recent optimism on policy and valuations."
-
----
-
-### 2026-08-11 20:24:26  #國際
-
-美國官員訊息：美國軍用直升機向這艘懸掛巴拿馬國旗船隻的舵開火，此前船員無視美方人員的警告。
-
----
-
-### 2026-08-11 20:23:58  #MKT News
-
-SEC filing shows the Swiss National Bank reported holding 1.5 million Class A shares of SpaceX (SPCX.O) as of June 30.
-
----
-
-### 2026-08-11 20:22:58  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Wall Street Journal cites US officials saying US military fired on a Panama-flagged vessel attempting to break an Iranian port blockade.
-
----
-
-### 2026-08-11 20:22:56  #焦點 #國際
-
-市場訊息：美國向一艘破壞其對伊朗封鎖的懸掛巴拿馬國旗船隻開火。
-
----
-
-### 2026-08-11 20:22:45  #市場
-
-【騰訊音樂美股盤前跌超10%】騰訊音樂美股盤前跌超10%，現報8.89美元。
-
----
-
-### 2026-08-11 20:22:03  #MKT News
-
-【DRC Ebola outbreak deaths top 2,000】DRC health ministry data on the 11th show deaths in the current Ebola outbreak have exceeded 2,000, with roughly half occurring in the past 20 days, UN senior Ebola coordinator Julian Hennis said on social media. The outbreak is caused by the Bundibugyo ebolavirus; there is currently no licensed vaccine or specific therapy for this strain. Candidate vaccines and treatments are undergoing clinical trials. Hennis urged immediate additional action to save lives and contain the outbreak.
-
----
-
-### 2026-08-11 20:22:02  #國際
-
-瑞士國家銀行提交給美國證交會(SEC)的檔案顯示，截至6月30日，該行持有SpaceX 150萬股A類股。
-
----
-
-### 2026-08-11 20:21:01  #其他
-
-【湖北釋出黃色山洪災害氣象預警】湖北省防汛抗旱指揮部辦公室於8月11日20時釋出黃色山洪災害氣象預警。預計8月11日20時至8月12日20時，下列地區存在山洪災害風險：黃色預警區域（山洪災害可能性較大）：襄陽市（棗陽市、谷城縣、南漳縣、老河口市）。藍色預警區域（山洪災害可能發生）：十堰市（房縣、丹江口市）、襄陽市（保康縣）。
-
----
-
-### 2026-08-11 20:20:42  #市場 #國際
-
-【美國小企業樂觀情緒升至接近一年來的最高水平】隨著企業加快招聘並且通脹壓力有所緩解，美國小企業樂觀情緒在7月升至接近一年來的最高水平。全美獨立企業聯合會(NFIB)的小企業樂觀程度指數上升2.4點，達到99.8，為2025年8月以來的最高水平。構成該指數的10個分類指數中有8個上漲，2個下降。計劃增加職位的美國小企業淨佔比躍升至2022年10月以來的最高水平，計劃在未來幾個月進行資本支出小企業比例達到2024年底以來最高。通脹方面的擔憂有所緩解。將通脹列為企業主面臨的最重要問題的受訪者比例出現今年以來首次下降。報告提高價格的企業淨佔比也自2月份、也就是美國和以色列打擊伊朗並推動油價飆升之前以來首次下降。計劃在未來幾個月提價的企業佔比也走低。儘管與對伊朗戰爭相關的不確定性可能仍然存在，企業仍在投資和擴張。NFIB首席經濟學家Bill Dunkelberg在一份宣告中表示：“儘管目前不確定性較高，但小企業預計商業環境將繼續改善。”
-
----
-
-### 2026-08-11 20:19:59  #其他
-
-【剛果（金）本輪埃博拉疫情死亡病例超2000例】剛果（金）衛生部11日公佈的資料顯示，該國本輪埃博拉疫情累計死亡病例已超過2000例。 資料顯示，截至9日，剛果（金）累計報告埃博拉確診病例4381例，其中死亡2011例，累計治癒869例。 聯合國埃博拉事務高階協調員朱利安·哈尼斯11日在社交媒體上說，超過2000例死亡病例中，約半數發生在過去20天內。他呼籲參與應對疫情的各方立即採取更多行動，挽救生命並遏制疫情繼續發展。 剛果（金）本輪疫情由本迪布焦型埃博拉病毒引發，目前尚無針對該型病毒的疫苗和特異性療法。候選疫苗和治療藥物的臨床試驗正在進行。 本輪疫情是1976年以來剛果（金）第17次埃博拉疫情。世界衛生組織說，本輪疫情已成為剛果（金）有記錄以來規模最大的埃博拉疫情。(新華社)
-
----
-
-### 2026-08-11 20:17:46  #公司 #國際
-
-【華陽集團：惠州東興工廠光模組、液冷散熱零部件擴產專案即將投產】華陽集團8月11日在互動平臺表示，公司近年來持續擴充產能，其中惠州東興工廠光模組、液冷散熱零部件擴產專案即將投產，蘇州鎂合金壓鑄產能擴建專案已於今年上半年投產並啟動長興三期廠房建設，華陽泰國工業園新增壓鑄產能預計年內投產。
-
----
-
-### 2026-08-11 20:16:55  #MKT News
-
-China's machinery industry was broadly stable in 1H, Xu Niansha, president of the China Machinery Industry Federation, said.
-
----
-
-### 2026-08-11 20:16:51  #公司 #市場
-
-【標普500ETF國泰：提示基金交易價格溢價風險】國泰基金公告稱，旗下標普500ETF國泰（基金程式碼：159612）二級市場交易價明顯高於基金份額參考淨值，出現較大幅度溢價。8月11日，該基金收盤價2.092元，收盤時基金份額參考淨值為1.9519元。若8月12日溢價幅度未有效回落，基金有權申請臨時停牌等措施。提醒投資者關注風險，審慎投資。
-
----
-
-### 2026-08-11 20:16:45  #公司
-
-【世聯行：前海誠域擬協議受讓5.02%股份】世聯行公告稱，8月9日，深圳市前海誠域私募證券基金管理有限公司（代表誠域聯盈5號私募證券投資基金）與世聯中國簽署《股份轉讓協議》，擬受讓1億股，佔公司總股本的5.02%，轉讓價款2.08億元。本次權益變動不會導致公司控股股東、實際控制人發生變化。受讓方未來12個月內無減持計劃，本次股份協議轉讓尚需透過深交所合規確認及辦理過戶登記。
-
----
-
-### 2026-08-11 20:16:35  #市場
-
-【SK海力士美股盤前漲超2%】SK海力士美股盤前漲超2%，現報138.097美元。
-
----
-
-### 2026-08-11 20:16:27  #公司
-
-【中銀基金：執行總裁張家文離任 陳衛星代任】中銀基金公告稱，因工作調整，執行總裁張家文於2026年8月10日離任。同日起，由督察長、副執行總裁陳衛星代行執行總裁職務，直至新任執行總裁履職。陳衛星曆任中國銀行多崗位，2022年加入中銀基金，擁有基金從業資格，為研究生、博士學歷。上述變更已透過公司董事會審議並完成備案。
-
----
-
-### 2026-08-11 20:16:00  #其他
-
-ASTROTECH宣佈LP&L計劃開發商業月球電力設施。
-
----
-
-### 2026-08-11 20:15:45  #MKT News #Macro & Rates #US Economy
-
-ADP weekly employment report: private-sector employers added an average 8,250 jobs per week in the four weeks to July 25, 2026.
-
----
-
-### 2026-08-11 20:15:32  #經濟數據 #美國
-
-【ADP：截至7月25日四周 美國私營部門就業人數平均每週增加8,250人】ADP資料顯示，截至7月25日的四周內，美國私營部門就業人數平均每週增加8,250人。
-
----
-
-### 2026-08-11 20:15:23  #國際
-
-印度氣象局官員表示，未來兩週印度西部、南部和中部的季風降雨量將低於平均水平。
-
----
-
-### 2026-08-11 20:15:10  #MKT News #Important #Macro & Rates #US Economy
-
-US ADP employment change for week ended July 25: +8,250, prior +15,000.
-
----
-
-### 2026-08-11 20:15:09  #國際
-
-美國至7月25日當週ADP就業人數週度變動 0.825萬人，前值1.5萬人。
-
----
-
-### 2026-08-11 20:14:33  #公司 #市場
-
-【藍盾光電：股價異動，公司正推進發行股份收購蘇州嵐創科技事項】藍盾光電公告，公司股票交易價格連續2個交易日（2026年8月10日、2026年8月11日）收盤價格漲幅偏離值累計超過30%。經公司自查及向控股股東、實際控制人核實，確認不存在應披露而未披露的重大事項。公司目前正透過發行股份及支付現金方式收購蘇州嵐創科技有限公司控股權並募集配套資金，審計、評估、盡職調查等工作正在有序推進中。公司2025年度營業收入3.99億元，同比下降34.53%；歸屬於上市公司股東的淨利潤為-8876.65萬元，同比下降1,468.72%。
-
----
-
-### 2026-08-11 20:14:28  #公司
-
-【上交所：對熊貓金控股份有限公司及有關責任人予以紀律處分】上交所釋出關於對熊貓金控股份有限公司及有關責任人予以紀律處分的決定。經查，*ST熊貓與昆朋資產的債權轉讓為虛假交易，*ST熊貓為債權轉讓提供資金，後續透過資金拆借掩蓋虛假交易，上述債權由國峻實業控股有限公司代持。鑑於上述違規事實和情節，經上交所自律監管紀律處分委員會稽核透過，決定對熊貓金控股份有限公司及時任董事長徐金煥，時任董事李民，時任董事會秘書羅春豔，時任董事、總經理楊恆偉，時任財務總監黃玉岸予以公開譴責，並公開認定徐金煥5年內不適合擔任上市公司董事、高階管理人員，公開認定李民3年內不適合擔任上市公司董事、高階管理人員。
-
----
-
-### 2026-08-11 20:14:19  #Trading Economics #Economy #Mexico #Industrial Production #Importance 1
-
-Mexico Industrial Activity Rises More Than Expected — Mexico’s industrial production rose 1.7% year-on-year in June 2026, rebounding from a 0.7% decline in May and beating market expectations of 1.5% growth, with gains recorded across sectors. The recovery was led by mining and quarrying activity, rising 6.6% after a 1.5% gain in the prior month. Gains in construction activity, which rose by 5% after a 0.3% drop, were led by an increase in civil engineering works (8.9%) and buildings (5.2%). Utilities output also rebounded, rising 0.7% after a 0.9% drop. Meanwhile, manufacturing activity edged up 0.1% from a 1.5% decline, led by gains in the manufacturing of computers and communication related equipment (5.8%), machinery and equipment (5.5%), chemical products (5.3%), which were partially offset by declines in other sectors, specially manufacturing of textile inputs and finishing of textiles (-7.2%). On a seasonally adjusted monthly basis, industrial activity edged up 0.2% in June, rebounding from a 0.8% drop in the prior month.
-
----
-
-### 2026-08-11 20:13:59  #公司
-
-【武漢鐳射“小巨人”光至科技啟動IPO輔導】據證監會官網披露，武漢光至科技股份有限公司啟動上市輔導，輔導機構為長江證券承銷保薦有限公司。
-
----
-
-### 2026-08-11 20:12:37  #公司
-
-【*ST數源：2026年上半年淨利潤虧損1471.69萬元 同比增長69.37%】*ST數源公告，2026年上半年營業收入1.2億元，同比下降17.79%。淨利潤虧損1471.69萬元，上年同期虧損4804.68萬元，同比增長69.37%。扣非淨利潤虧損2341.59萬元。
-
----
-
-### 2026-08-11 20:12:10  #公司
-
-【快手釋出關於違規微短劇的治理公告】根據國家廣播電視總局和北京市廣播電視局的部署要求，平臺持續強化微短劇稽核巡檢與日常管理，對片名低俗、內容粗劣等問題，以及危害未成年人身心健康、美化畸形婚戀關係、宣揚極端暴力等違規內容，持續加大治理力度；對違規劇集以“換馬甲”方式反覆傳播的行為予以嚴厲打擊。同時，進一步加強對兒童類微短劇的管理，圍繞兒童角色成人化、物慾化，情節設定低俗化、極端化等重點問題，持續深化治理。近期，依照網路視聽管理相關要求及社群規則，平臺累計前置攔截、整改、下架違規微短劇（含動畫微短劇）四百餘部，並處置了一批違規賬號。
 
 ---

@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-08-14 01:56:02_
-_本檔包含 3177 則快訊，約 606235 字_
+_更新時間：2026-08-14 03:14:56_
+_本檔包含 3191 則快訊，約 606808 字_
+
+---
+
+### 2026-08-11 20:24:26  #國際
+
+美國官員訊息：美國軍用直升機向這艘懸掛巴拿馬國旗船隻的舵開火，此前船員無視美方人員的警告。
+
+---
+
+### 2026-08-11 20:23:58  #MKT News
+
+SEC filing shows the Swiss National Bank reported holding 1.5 million Class A shares of SpaceX (SPCX.O) as of June 30.
+
+---
+
+### 2026-08-11 20:22:58  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Wall Street Journal cites US officials saying US military fired on a Panama-flagged vessel attempting to break an Iranian port blockade.
+
+---
+
+### 2026-08-11 20:22:56  #焦點 #國際
+
+市場訊息：美國向一艘破壞其對伊朗封鎖的懸掛巴拿馬國旗船隻開火。
+
+---
+
+### 2026-08-11 20:22:45  #市場
+
+【騰訊音樂美股盤前跌超10%】騰訊音樂美股盤前跌超10%，現報8.89美元。
+
+---
+
+### 2026-08-11 20:22:03  #MKT News
+
+【DRC Ebola outbreak deaths top 2,000】DRC health ministry data on the 11th show deaths in the current Ebola outbreak have exceeded 2,000, with roughly half occurring in the past 20 days, UN senior Ebola coordinator Julian Hennis said on social media. The outbreak is caused by the Bundibugyo ebolavirus; there is currently no licensed vaccine or specific therapy for this strain. Candidate vaccines and treatments are undergoing clinical trials. Hennis urged immediate additional action to save lives and contain the outbreak.
+
+---
+
+### 2026-08-11 20:22:02  #國際
+
+瑞士國家銀行提交給美國證交會(SEC)的檔案顯示，截至6月30日，該行持有SpaceX 150萬股A類股。
+
+---
+
+### 2026-08-11 20:21:01  #其他
+
+【湖北釋出黃色山洪災害氣象預警】湖北省防汛抗旱指揮部辦公室於8月11日20時釋出黃色山洪災害氣象預警。預計8月11日20時至8月12日20時，下列地區存在山洪災害風險：黃色預警區域（山洪災害可能性較大）：襄陽市（棗陽市、谷城縣、南漳縣、老河口市）。藍色預警區域（山洪災害可能發生）：十堰市（房縣、丹江口市）、襄陽市（保康縣）。
+
+---
+
+### 2026-08-11 20:20:42  #市場 #國際
+
+【美國小企業樂觀情緒升至接近一年來的最高水平】隨著企業加快招聘並且通脹壓力有所緩解，美國小企業樂觀情緒在7月升至接近一年來的最高水平。全美獨立企業聯合會(NFIB)的小企業樂觀程度指數上升2.4點，達到99.8，為2025年8月以來的最高水平。構成該指數的10個分類指數中有8個上漲，2個下降。計劃增加職位的美國小企業淨佔比躍升至2022年10月以來的最高水平，計劃在未來幾個月進行資本支出小企業比例達到2024年底以來最高。通脹方面的擔憂有所緩解。將通脹列為企業主面臨的最重要問題的受訪者比例出現今年以來首次下降。報告提高價格的企業淨佔比也自2月份、也就是美國和以色列打擊伊朗並推動油價飆升之前以來首次下降。計劃在未來幾個月提價的企業佔比也走低。儘管與對伊朗戰爭相關的不確定性可能仍然存在，企業仍在投資和擴張。NFIB首席經濟學家Bill Dunkelberg在一份宣告中表示：“儘管目前不確定性較高，但小企業預計商業環境將繼續改善。”
+
+---
+
+### 2026-08-11 20:19:59  #其他
+
+【剛果（金）本輪埃博拉疫情死亡病例超2000例】剛果（金）衛生部11日公佈的資料顯示，該國本輪埃博拉疫情累計死亡病例已超過2000例。 資料顯示，截至9日，剛果（金）累計報告埃博拉確診病例4381例，其中死亡2011例，累計治癒869例。 聯合國埃博拉事務高階協調員朱利安·哈尼斯11日在社交媒體上說，超過2000例死亡病例中，約半數發生在過去20天內。他呼籲參與應對疫情的各方立即採取更多行動，挽救生命並遏制疫情繼續發展。 剛果（金）本輪疫情由本迪布焦型埃博拉病毒引發，目前尚無針對該型病毒的疫苗和特異性療法。候選疫苗和治療藥物的臨床試驗正在進行。 本輪疫情是1976年以來剛果（金）第17次埃博拉疫情。世界衛生組織說，本輪疫情已成為剛果（金）有記錄以來規模最大的埃博拉疫情。(新華社)
+
+---
+
+### 2026-08-11 20:17:46  #公司 #國際
+
+【華陽集團：惠州東興工廠光模組、液冷散熱零部件擴產專案即將投產】華陽集團8月11日在互動平臺表示，公司近年來持續擴充產能，其中惠州東興工廠光模組、液冷散熱零部件擴產專案即將投產，蘇州鎂合金壓鑄產能擴建專案已於今年上半年投產並啟動長興三期廠房建設，華陽泰國工業園新增壓鑄產能預計年內投產。
+
+---
+
+### 2026-08-11 20:16:55  #MKT News
+
+China's machinery industry was broadly stable in 1H, Xu Niansha, president of the China Machinery Industry Federation, said.
+
+---
+
+### 2026-08-11 20:16:51  #公司 #市場
+
+【標普500ETF國泰：提示基金交易價格溢價風險】國泰基金公告稱，旗下標普500ETF國泰（基金程式碼：159612）二級市場交易價明顯高於基金份額參考淨值，出現較大幅度溢價。8月11日，該基金收盤價2.092元，收盤時基金份額參考淨值為1.9519元。若8月12日溢價幅度未有效回落，基金有權申請臨時停牌等措施。提醒投資者關注風險，審慎投資。
+
+---
+
+### 2026-08-11 20:16:45  #公司
+
+【世聯行：前海誠域擬協議受讓5.02%股份】世聯行公告稱，8月9日，深圳市前海誠域私募證券基金管理有限公司（代表誠域聯盈5號私募證券投資基金）與世聯中國簽署《股份轉讓協議》，擬受讓1億股，佔公司總股本的5.02%，轉讓價款2.08億元。本次權益變動不會導致公司控股股東、實際控制人發生變化。受讓方未來12個月內無減持計劃，本次股份協議轉讓尚需透過深交所合規確認及辦理過戶登記。
+
+---
+
+### 2026-08-11 20:16:35  #市場
+
+【SK海力士美股盤前漲超2%】SK海力士美股盤前漲超2%，現報138.097美元。
+
+---
+
+### 2026-08-11 20:16:27  #公司
+
+【中銀基金：執行總裁張家文離任 陳衛星代任】中銀基金公告稱，因工作調整，執行總裁張家文於2026年8月10日離任。同日起，由督察長、副執行總裁陳衛星代行執行總裁職務，直至新任執行總裁履職。陳衛星曆任中國銀行多崗位，2022年加入中銀基金，擁有基金從業資格，為研究生、博士學歷。上述變更已透過公司董事會審議並完成備案。
+
+---
+
+### 2026-08-11 20:16:00  #其他
+
+ASTROTECH宣佈LP&L計劃開發商業月球電力設施。
+
+---
+
+### 2026-08-11 20:15:45  #MKT News #Macro & Rates #US Economy
+
+ADP weekly employment report: private-sector employers added an average 8,250 jobs per week in the four weeks to July 25, 2026.
+
+---
+
+### 2026-08-11 20:15:32  #經濟數據 #美國
+
+【ADP：截至7月25日四周 美國私營部門就業人數平均每週增加8,250人】ADP資料顯示，截至7月25日的四周內，美國私營部門就業人數平均每週增加8,250人。
+
+---
+
+### 2026-08-11 20:15:23  #國際
+
+印度氣象局官員表示，未來兩週印度西部、南部和中部的季風降雨量將低於平均水平。
+
+---
+
+### 2026-08-11 20:15:10  #MKT News #Important #Macro & Rates #US Economy
+
+US ADP employment change for week ended July 25: +8,250, prior +15,000.
+
+---
+
+### 2026-08-11 20:15:09  #國際
+
+美國至7月25日當週ADP就業人數週度變動 0.825萬人，前值1.5萬人。
+
+---
+
+### 2026-08-11 20:14:33  #公司 #市場
+
+【藍盾光電：股價異動，公司正推進發行股份收購蘇州嵐創科技事項】藍盾光電公告，公司股票交易價格連續2個交易日（2026年8月10日、2026年8月11日）收盤價格漲幅偏離值累計超過30%。經公司自查及向控股股東、實際控制人核實，確認不存在應披露而未披露的重大事項。公司目前正透過發行股份及支付現金方式收購蘇州嵐創科技有限公司控股權並募集配套資金，審計、評估、盡職調查等工作正在有序推進中。公司2025年度營業收入3.99億元，同比下降34.53%；歸屬於上市公司股東的淨利潤為-8876.65萬元，同比下降1,468.72%。
+
+---
+
+### 2026-08-11 20:14:28  #公司
+
+【上交所：對熊貓金控股份有限公司及有關責任人予以紀律處分】上交所釋出關於對熊貓金控股份有限公司及有關責任人予以紀律處分的決定。經查，*ST熊貓與昆朋資產的債權轉讓為虛假交易，*ST熊貓為債權轉讓提供資金，後續透過資金拆借掩蓋虛假交易，上述債權由國峻實業控股有限公司代持。鑑於上述違規事實和情節，經上交所自律監管紀律處分委員會稽核透過，決定對熊貓金控股份有限公司及時任董事長徐金煥，時任董事李民，時任董事會秘書羅春豔，時任董事、總經理楊恆偉，時任財務總監黃玉岸予以公開譴責，並公開認定徐金煥5年內不適合擔任上市公司董事、高階管理人員，公開認定李民3年內不適合擔任上市公司董事、高階管理人員。
+
+---
+
+### 2026-08-11 20:14:19  #Trading Economics #Economy #Mexico #Industrial Production #Importance 1
+
+Mexico Industrial Activity Rises More Than Expected — Mexico’s industrial production rose 1.7% year-on-year in June 2026, rebounding from a 0.7% decline in May and beating market expectations of 1.5% growth, with gains recorded across sectors. The recovery was led by mining and quarrying activity, rising 6.6% after a 1.5% gain in the prior month. Gains in construction activity, which rose by 5% after a 0.3% drop, were led by an increase in civil engineering works (8.9%) and buildings (5.2%). Utilities output also rebounded, rising 0.7% after a 0.9% drop. Meanwhile, manufacturing activity edged up 0.1% from a 1.5% decline, led by gains in the manufacturing of computers and communication related equipment (5.8%), machinery and equipment (5.5%), chemical products (5.3%), which were partially offset by declines in other sectors, specially manufacturing of textile inputs and finishing of textiles (-7.2%). On a seasonally adjusted monthly basis, industrial activity edged up 0.2% in June, rebounding from a 0.8% drop in the prior month.
+
+---
+
+### 2026-08-11 20:13:59  #公司
+
+【武漢鐳射“小巨人”光至科技啟動IPO輔導】據證監會官網披露，武漢光至科技股份有限公司啟動上市輔導，輔導機構為長江證券承銷保薦有限公司。
+
+---
+
+### 2026-08-11 20:12:37  #公司
+
+【*ST數源：2026年上半年淨利潤虧損1471.69萬元 同比增長69.37%】*ST數源公告，2026年上半年營業收入1.2億元，同比下降17.79%。淨利潤虧損1471.69萬元，上年同期虧損4804.68萬元，同比增長69.37%。扣非淨利潤虧損2341.59萬元。
+
+---
+
+### 2026-08-11 20:12:10  #公司
+
+【快手釋出關於違規微短劇的治理公告】根據國家廣播電視總局和北京市廣播電視局的部署要求，平臺持續強化微短劇稽核巡檢與日常管理，對片名低俗、內容粗劣等問題，以及危害未成年人身心健康、美化畸形婚戀關係、宣揚極端暴力等違規內容，持續加大治理力度；對違規劇集以“換馬甲”方式反覆傳播的行為予以嚴厲打擊。同時，進一步加強對兒童類微短劇的管理，圍繞兒童角色成人化、物慾化，情節設定低俗化、極端化等重點問題，持續深化治理。近期，依照網路視聽管理相關要求及社群規則，平臺累計前置攔截、整改、下架違規微短劇（含動畫微短劇）四百餘部，並處置了一批違規賬號。
 
 ---
 
@@ -19061,97 +19229,5 @@ Rwanda Annual Inflation Accelerates Further — Rwanda’s annual inflation rate
 ### 2026-08-10 17:38:11  #其他
 
 【交通運輸部：上週國家鐵路運輸貨物7705.1萬噸，環比增長0.59%】8月3日—8月9日，全國物流保通保暢執行資料：國家鐵路運輸貨物7705.1萬噸，環比增長0.59%；全國高速公路貨車通行5286.4萬輛，環比下降0.54%；監測港口完成貨物吞吐量23513.2萬噸，環比下降16.92%，完成集裝箱吞吐量626.7萬標箱，環比下降9.04%；民航保障航班13.8萬班（其中貨運航班4770班，包括國際貨運航班3106班，國內貨運航班1664班），環比下降1.68%；郵政快遞攬收量約37.31億件，環比下降5.52%；投遞量約37.44億件，環比下降3.63%。（交通運輸部）
-
----
-
-### 2026-08-10 17:38:10  #MKT News
-
-【China Ministry of Transport: week to Aug 9 railway freight 77.05 mln t, WoW +0.59%】Aug 3-9 — China’s Ministry of Transport reported monitored logistics flows: port cargo throughput 235.13 mln t, WoW -16.92%; container throughput 6.267 mln TEU, WoW -9.04%. National railway freight 77.05 mln t, WoW +0.59%. Truck passages on national expressways 52.86 mln, WoW -0.54%. Civil aviation handled 138,000 flights (4,770 cargo flights: 3,106 international, 1,664 domestic), WoW -1.68%. Postal and express parcels collected ~3.731 bln items, WoW -5.52%; delivered ~3.744 bln items, WoW -3.63%.
-
----
-
-### 2026-08-10 17:37:56  #其他
-
-市場訊息：穆迪評級機構將易捷航空的Baa2評級列入降級觀察名單。
-
----
-
-### 2026-08-10 17:37:21  #觀點
-
-【摩根大通：全球儲存晶片短缺或持續至2028年 HBM明年平均售價增幅或超四成】摩根大通在最新研報中指出，AI需求推動儲存晶片價格和出貨量同步增長，該行將2026年至2028年全球儲存市場規模預測上調4%至8%，預計市場規模將由2026年的約9690億美元增至2027年的1.44萬億美元、2028年的1.82萬億美元。供需短缺未來兩年仍將持續，2027年可能進一步惡化，2028年僅小幅緩解；明年客戶需求與供應之比仍只有70%至80%。HBM是此次預測調整重點。由於8層產品週期延長、12層爬坡放緩及16層匯入推遲，摩根大通下調部分HBM容量假設，但將2027年HBM平均售價增幅預測上調至42%。
-
----
-
-### 2026-08-10 17:36:19  #公司 #市場
-
-【ST中路：B股連續3個交易日異常波動 提示多項風險】ST中路公告稱，公司B股於2026年8月6日、8日7日、8月10日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經自查，公司經營正常，無應披露未披露重大事項。針對控股股東佔用的1248萬元資金，截至8月7日已收回450萬元，剩餘798萬元未收回。此外，公司存在被實施退市風險警示、控股股東股權質押凍結等風險，提醒投資者注意投資風險。
-
----
-
-### 2026-08-10 17:34:28  #公司
-
-【江鹽集團：持股5%以上股東減持股份致權益變動觸及1%刻度】江鹽集團公告稱，股東寧波信達漢石龍脊股權投資合夥企業（有限合夥）因經營業務發展需要，自2026年7月14日起15個交易日後3個月內，擬集中競價減持不超642.78萬股。截至8月10日，其已減持169萬股，佔總股本0.26%，權益變動後持股比例從12.13%降至11.87%，觸及1%刻度線。本次減持未實施完畢，不會導致實控人變更，不觸及要約收購。
-
----
-
-### 2026-08-10 17:34:23  #Trading Economics #Economy #Mongolia #Inflation Rate #Importance 1
-
-Mongolia Inflation Rate Hits Over 3-Year High — The annual inflation rate in Mongolia rose to 13.0% year-on-year in July 2026 from 12.0% in the previous month, reaching its highest level since December 2022. Prices accelerated for food and non-alcoholic beverages (25.5% vs 24.8% in June), alcoholic beverages and tobacco (12.6% vs 12.0%), transport (10.0% vs 5.7%), clothing and footwear (7.2% vs 7.0%), furnishings, household equipment and tools (8.7% vs 8.0%), health (7.5% vs 7.2%), recreation and culture (6.6% vs 5.5%), restaurants and hotels (16.2% vs 15.2%), and miscellaneous goods and services (9.8% vs 9.1%). Meanwhile, inflation eased slightly for housing and utilities (5.1% vs 5.3%) while remaining unchanged for communication (1.6%), education (12.8%), and insurance and financial services (17.0%). On a monthly basis, consumer prices rose 0.9% in July, edging down from 1.0% in the previous month.
-
----
-
-### 2026-08-10 17:33:43  #宏觀
-
-【市場監管總局批准釋出一批重要國家標準】近日，市場監管總局（國家標準委）批准釋出338項重要國家標準。其中，強制性國家標準15項，推薦性國家標準323項，涉及高新技術領域、傳統產業、安全生產、百姓生活等方面。該批標準釋出後將在推動產業高質量發展、提升人民群眾生活品質、保障生命財產安全等方面發揮重要作用。
-
----
-
-### 2026-08-10 17:33:13  #MKT News
-
-【India proposes law to limit state mining taxes, centralise regulation】The Modi government has introduced a bill in parliament to restrict states' powers to regulate or tax mineral rights and mineral-bearing land and to impose nationwide, uniform mining rules. Under the draft legislation New Delhi would be able to set conditions and caps on taxes and other charges levied by regional authorities, saying cumulative levies should not be disproportionate to a mine's economic value and profitability. The proposal notes that despite adequate domestic resources, domestic mineral supply has become costly and there is a risk of rising imports. The move could curtail a material revenue source for mineral-rich states and heighten tensions between New Delhi and state governments.
-
----
-
-### 2026-08-10 17:32:42  #公司 #市場
-
-【上海期貨交易所：對部分客戶採取限制開倉監管措施】上海期貨交易所釋出關於對部分客戶採取限制開倉監管措施的公告：2026年8月10日，1組實際控制關係賬戶在相關合約上賬戶組日內開倉交易量超限達到交易所處理標準。上述客戶交易行為違反《上海期貨交易所異常交易行為管理辦法》第16條之規定，交易所決定對相關客戶在相應品種上採取限制開倉的監管措施。
-
----
-
-### 2026-08-10 17:32:20  #資料 #央行 #國際
-
-【美銀：7月CPI重要性高於就業報告 仍預計美聯儲9月啟動加息】美國銀行在最新研報中表示，7月就業報告整體略偏“鴿派”，但不足以改變美聯儲的政策路徑，接下來公佈的7月消費者價格指數（CPI）將成為更重要的政策訊號。該行維持美聯儲從9月開始、累計加息75個基點的預測。
-
----
-
-### 2026-08-10 17:32:19  #MKT News #Brent #Impact bullish #WTI
-
-Ukrainian military says it struck the Taneco refinery in Russia's Republic of Tatarstan.
-
----
-
-### 2026-08-10 17:32:05  #央行 #美聯儲
-
-【美銀：7月CPI重要性高於就業報告 仍預計美聯儲9月啟動加息】美國銀行在最新研報中表示，7月就業報告整體略偏“鴿派”，但不足以改變美聯儲的政策路徑，接下來公佈的7月消費者價格指數（CPI）將成為更重要的政策訊號。該行維持美聯儲從9月開始、累計加息75個基點的預測。
-
----
-
-### 2026-08-10 17:32:01  #MKT News
-
-Southbound Stock Connect net inflow CNY 2.021 bln today. Via Shanghai Connect, one stock and Zhipu net bought HKD 833 mln and HKD 560 mln respectively; SMIC was the largest net seller at HKD 139 mln. Via Shenzhen Connect, GenScript Biotech and Xiaomi Corp -W net bought HKD 472 mln and HKD 195 mln respectively; SMIC led net selling with HKD 313 mln.
-
----
-
-### 2026-08-10 17:31:54  #央行 #國際
-
-【今日特朗普要聞】
-1、伊朗週六丟擲一份新的訴求清單，作為海峽通航的前提條件。“我們正低調處理對伊事務。”特朗普在簡短電話採訪中表示。“我們只是在和他們開展半談判。我們就在一旁觀察伊朗，該國通脹高企，並且資金匱乏。”
-2、特朗普：美國正與伊朗開展“半談判”（半正式交涉，Semi-negotiating）。
-3、近日，美國白宮國家經濟委員會主任凱文·哈西特在接受採訪時證實，美國總統特朗普與新任美聯儲主席凱文·沃什經常通話討論經濟問題。
-4、以色列總理本傑明·內塔尼亞胡拒絕了由美國支援的調解方提出的哈馬斯解除武裝提議，此前他對以色列應以分階段從加沙撤軍作為回應的建議表示了疑慮，此後其立場進一步強硬。
-5、美國媒體9日援引一名美國高階官員的話報道稱，白宮“並不在意”以色列總理內塔尼亞胡拒絕接受加沙和平計劃，並稱他的這一表態是出於選舉週期中的“政治需要”。
-6、北美防空司令部的F‑16戰機攔截了兩架民用通用航空飛機，兩架飛機闖入新澤西州貝德明斯特（特朗普國家高爾夫俱樂部附近）的臨時飛行限制區。
-7、特朗普：參議院未能透過《拯救美國法案》，儘管超過80%的美國民眾都支援該法案，參議員們卻全都休假數週。簡直可恥！
-8、特朗普：自9月1日起，威爾·沙夫將出任總統助理兼白宮法律顧問。
 
 ---
