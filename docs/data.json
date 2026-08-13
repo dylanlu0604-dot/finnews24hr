@@ -1,7 +1,166 @@
 {
-  "updated": "2026-08-13 17:30:56",
-  "count": 15137,
+  "updated": "2026-08-13 17:35:12",
+  "count": 15131,
   "items": [
+    {
+      "id": "mkt:019ffa78-aee9-7aab-9021-20f22ffd3c0f",
+      "time": "2026-08-13 17:34:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Chip leaders lift KOSPI into technical bull market; Hormuz stalemate flagged as risk】South Korean stocks jumped on Thursday, lifting emerging market equities as a global AI trade rebound pushed the Seoul KOSPI into a technical bull market. Jefferies strategist Mohit Kumar said he remains comfortable with an overweight in AI, citing a strong earnings season and no sign of a capex slowdown. The KOSPI rose 3.2% on Thursday, roughly 22% above its July 30 low. Large-cap memory makers Samsung Electronics and SK Hynix led gains, each up about 5%. Kumar warned geopolitics remains the main risk: the Strait of Hormuz remains closed — if the stalemate lasts weeks markets should digest it, but if it endures months markets would need to reprice."
+    },
+    {
+      "id": "5039142",
+      "time": "2026-08-13 17:33:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【聯想楊元慶：不要只看誰的模型做得好，還要看誰是AI普及的主力軍】聯想集團披露2026/27財年第一季度財報業績。在溝通會上，聯想集團董事長兼CEO楊元慶表示，公共AI主要基於公共資料產生，早期階段80%算力資源集中於訓練環節 ，但這一比例已逐漸改變，現在約50%算力用於訓練，50%用於推理 。推理需求正迎來爆發式增長，算力分配更合理的比例是80%用於推理，20%用於訓練。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ffa77-f5b9-7aab-9021-1bc9c288d1e6",
+      "time": "2026-08-13 17:33:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Iraq's State Oil Marketing Organization (SOMO) said Abu Dhabi's largest energy company is among buyers of its crude and transports the cargo through the Strait of Hormuz."
+    },
+    {
+      "id": "5039141",
+      "time": "2026-08-13 17:32:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：已就產能過剩相關301調查事項與美國進行接洽。"
+    },
+    {
+      "id": "mkt:019ffa77-6d8a-7aab-9021-13ba71e7bf44",
+      "time": "2026-08-13 17:32:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India and the United States are committed to advancing and finalizing the framework agreement reached in February."
+    },
+    {
+      "id": "5039140",
+      "time": "2026-08-13 17:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易秘書：印度與美國承諾推進並敲定今年2月達成共識的框架協議。"
+    },
+    {
+      "id": "mkt:019ffa76-d6e9-7aab-9021-0e0fb28bfa4b",
+      "time": "2026-08-13 17:31:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Regions",
+        "Greater China",
+        "0700.HK",
+        "Impact bullish",
+        "1347.HK",
+        "981.HK"
+      ],
+      "text": "Southbound flows (mainland investors into Hong Kong stocks via Stock Connect) net bought CNY 3.667 bln today. Via Shanghai–Hong Kong Connect, Tencent Holdings and Hua Hong Semiconductor were top buys, net +HKD 3.667 bln and +HKD 376 mln; Zhipu was the largest net seller at -HKD 852 mln. Via Shenzhen–Hong Kong Connect, Tencent and SMIC were top buys, net +HKD 1.949 bln and +HKD 634 mln; Lenovo Group was the largest net seller at -HKD 653 mln."
+    },
+    {
+      "id": "5039139",
+      "time": "2026-08-13 17:31:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮盛石化：因職工董事任職問題收到浙江證監局責令改正決定】榮盛石化公告稱，於2026年8月12日收到浙江證監局《關於對榮盛石化股份有限公司採取責令改正措施的決定》。經查，公司現任職工董事俞鳳娣與公司不存在勞動關係，不符合任職條件，導致董事會成員中無公司職工代表，違反相關規定。公司應在30日內向浙江證監局提交書面整改報告，相關事項不影響董事會決議效力及公司正常經營。"
+    },
+    {
+      "id": "5039138",
+      "time": "2026-08-13 17:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利債務管理局發售12個月期國庫券，平均得標利率為5.22%，上次拍賣為5.25%。"
+    },
+    {
+      "id": "mkt:019ffa76-29be-7aab-9021-0185c2e97059",
+      "time": "2026-08-13 17:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India should not comment on a US bill proposing up to a 100% tariff on purchases of Russian oil, calling it an internal US matter."
+    },
+    {
+      "id": "5039137",
+      "time": "2026-08-13 17:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：不應就美國提議對俄羅斯石油採購徵收最高100%關稅的法案置評，此事屬於美國內政。"
+    },
+    {
+      "id": "5039136",
+      "time": "2026-08-13 17:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊啟動頂尖AI產品人才招聘專項】8月13日，騰訊宣佈啟動頂尖AI產品人才招聘專項“AI產品經理培訓生”專案。該專案將全面開放騰訊混元大模型、WorkBuddy等AI原生產品及遊戲、社交、金融、雲等成熟垂類場景，供2026屆及2027屆畢業生選擇。據介紹，本次招聘不限學歷、專業，看重候選人真實的AI實力，偏向具備產品架構設計能力。"
+    },
+    {
+      "id": "mkt:019ffa75-9c35-7aab-9020-fdc9f431ade8",
+      "time": "2026-08-13 17:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "Statistics South Africa: South African platinum-group metals output fell 8.4% YoY in June."
+    },
+    {
+      "id": "mkt:019ffa75-7c6b-7aab-9020-f38c2e1c2572",
+      "time": "2026-08-13 17:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Statistics South Africa: June gold production rose 6.2% YoY; total mining output fell 4.0% YoY."
+    },
+    {
+      "id": "5039135",
+      "time": "2026-08-13 17:30:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST清越：股票漲停波動大 存重大違法強制退市風險】*ST清越公告稱，公司今日漲停，股價剔除大盤整體因素後波動幅度較大，提醒投資者注意二級市場交易風險。公司2026年5月8日收到中國證監會《行政處罰事先告知書》，可能觸及重大違法行為，或被實施重大違法強制退市，其A股股票於5月12日起被實施退市風險警示。若觸及相關情形，股票將自披露收到行政處罰決定書之日起停牌並終止上市。此外，公司於4月30日被實施其他風險警示，相關風險尚未消除。"
+    },
+    {
+      "id": "5039134",
+      "time": "2026-08-13 17:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局：6月鉑族金屬產量同比下降8.4%。"
+    },
+    {
+      "id": "5039133",
+      "time": "2026-08-13 17:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局資料：6月南非礦業總產量同比下降4.0%。"
+    },
     {
       "id": "5039132",
       "time": "2026-08-13 17:29:58",
@@ -138025,225 +138184,6 @@
         "其他"
       ],
       "text": "【海南繼續釋出暴雨四級預警】海南省氣象局8月6日17時00分繼續釋出暴雨四級預警：受季風槽影響，預計6日夜間到8日，東方、昌江、樂東和三亞等4個市縣的部分鄉鎮將出現100~150毫米、局地250毫米的強降水；其餘市縣將出現50~100毫米的降水。氣象部門提醒有關單位和人員做好防範工作。（央視新聞）"
-    },
-    {
-      "id": "5028536",
-      "time": "2026-08-06 17:34:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【興福電子：擬出資3675萬元設立合資公司，持股24.50%】興福電子公告，公司擬與湖北興發、宜昌興發共同出資設立合資公司湖北興發投資有限公司，註冊資本為1.5億元，其中公司擬以自有資金認繳出資3675萬元，出資佔比24.50%。本次交易構成關聯交易，已獲董事會審議透過，無需提交股東會審議。"
-    },
-    {
-      "id": "5028535",
-      "time": "2026-08-06 17:34:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華燦光電：完成9.7億元新型高階顯示專案合資公司工商登記】華燦光電公告稱，公司於2026年6月26日同意投資建設“新型高階顯示專案”，並與悅豐科創共同投資設立蘇州京東方晶芯科技有限公司作為專案實施主體，專案計劃總投資約9.7億元，合資公司註冊資本7億元，公司擬出資4.9億元，悅豐科創擬出資2.1億元。近日，合資公司已完成工商註冊登記手續，取得《營業執照》，成立日期為2026年8月3日。"
-    },
-    {
-      "id": "5028534",
-      "time": "2026-08-06 17:34:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華大基因：第三期股份回購完成 耗資2.51億元】華大基因公告稱，截至2026年8月5日，公司第三期股份回購實施完畢。7月13日至8月5日，公司以集中競價交易方式累計回購6,731,602股，佔總股本1.6092%，最高成交價40元/股，最低35.33元/股，支付總金額2.51億元（不含交易費用）。本次回購符合方案及法規要求，不會對公司產生重大影響，回購股份擬用於員工持股或股權激勵，未使用部分將依法登出。"
-    },
-    {
-      "id": "mkt:019fd66c-9f1e-7aab-8f9f-9e4b3627bc43",
-      "time": "2026-08-06 17:34:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【China activates level-4 flood and typhoon emergency for Zhejiang, Fujian as Typhoon No.13 Baihaitun approaches】The National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management activated a level-4 flood and typhoon emergency response for Zhejiang and Fujian at 17:00 on Aug 6. Meteorological forecasts show Typhoon No.13 Baihaitun is expected to make landfall between the Yangtze River estuary and northern Fujian on the morning of Aug 9–10 at typhoon or strong-typhoon intensity, bringing heavy wind and rain to East China."
-    },
-    {
-      "id": "mkt:019fd66c-83d3-7aab-8f9f-9091fbf3192b",
-      "time": "2026-08-06 17:34:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. Challenger chief revenue officer Andy Challenger said hiring rose 25% YoY, adding that while AI is reshaping the labor market, it has not undermined employment."
-    },
-    {
-      "id": "mkt:019fd66c-1598-7aab-8f9f-8f3db1c06fbb",
-      "time": "2026-08-06 17:33:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Expert dismisses claim that China auto market launched 500–600 new models in six months】China Automobile Dealers Association (CADA) expert Li Yanwei said on social media that China saw about 165 new distinct vehicle models in Jan–Jun 2026. The widely circulated 500–600 figure aggregates models with different configurations and derivatives and is therefore not a rigorous count. Li noted a single new model with multiple trim/configuration options can be counted as one model or several variants. Several media outlets used a broad counting method, citing roughly 550 new vehicles in Jan–May and over 600 in 1H, inflating apparent new-supply estimates."
-    },
-    {
-      "id": "5028533",
-      "time": "2026-08-06 17:33:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總、應急管理部針對浙江福建啟動防汛防颱風四級應急響應】據氣象部門預報，今年第13號颱風“白海豚”將於8月9日至10日上午在長江口區到福建北部一帶沿海登陸（強颱風或颱風級），將給華東等地帶來強風雨。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於8月6日17時針對浙江、福建啟動防汛防颱風四級應急響應。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fd66b-ea73-7aab-8f9f-8162f19f2926",
-      "time": "2026-08-06 17:33:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. Challenger job-cut report: July layoffs were the lowest monthly total since July 2024 (25,885). Employers have announced 477,033 job cuts year-to-date through July, down 41% from 806,383 in the first seven months of 2025. This is the fifth month this year in which announced layoffs were below the same month a year earlier."
-    },
-    {
-      "id": "5028532",
-      "time": "2026-08-06 17:33:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "印度住房金融公司6月季度運營總收入43.2億盧比。"
-    },
-    {
-      "id": "mkt:019fd66b-a10b-7aab-8f9f-7832bd104384",
-      "time": "2026-08-06 17:33:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Challenger job-cut report: layoff pace slowed significantly this summer. Planned cuts remain concentrated in the tech sector. Artificial intelligence remains a focal point as investment in the technology reshapes firms."
-    },
-    {
-      "id": "mkt:019fd66b-102d-7aab-8f9f-760bb1fe941b",
-      "time": "2026-08-06 17:32:48",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Hang Seng Index"
-      ],
-      "text": "【Typhoon White Dolphin to affect Shanghai from Aug 7; significant wind and rain Aug 8–11】Shanghai meteorological observatory says the main impact window is Aug 8–11. From late Aug 7 through Aug 10 land gusts will increase, reaching force 8–9, with stronger gusts in the Yangtze estuary, river/coastal areas and Yangshan port. Heavy rain is expected Aug 8–10, with cumulative totals potentially exceeding 100 mm. Forecast uncertainty is high after the system enters the East China Sea due to interactions with mid‑latitude cold air, the subtropical high and other systems; an extreme scenario of landfall in northern Zhejiang overnight Aug 9–10 followed by northwestward movement would produce the most severe wind and rain for Shanghai."
-    },
-    {
-      "id": "5028531",
-      "time": "2026-08-06 17:32:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【行雲科技：在手算力長單超150億元 客戶主動加價擴量】行雲科技(300209.SZ)釋出投資者關係活動記錄表公告，截至2026年7月末，公司在手算力、儲存類3-5年期長期框架訂單規模超154.04億元，合作客戶涵蓋頭部央企上市公司及頭部大模型研發機構。2026年7月，公司三筆核心訂單先後獲客戶加價擴量，其中頭部大模型客戶訂單金額漲幅超201%、算力規模翻倍；央企客戶租金整體上調79%；其餘核心訂單綜合漲價13.5%。所有加價均發生在首批裝置交付驗收後。2026年下半年，前述三筆核心訂單中V客戶的首批交付已完成驗收及確認起租，其他兩個客戶的首批交付預計在8月份完成驗收並開始確認收入，預計年內也有部分Token分成收入。公司所有核心長單均採用按月交付、按月回款、逐月確認收入的常態化模式。公司目前累計獲批綜合授信180.24億元，已批覆授信102.64億元。"
-    },
-    {
-      "id": "mkt:019fd66a-d37a-7aab-8f9f-6d9c919eaff7",
-      "time": "2026-08-06 17:32:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. Challenger layoff report: July job cuts fell to 33,429, hiring plans edged up; AI cited as the primary reason for layoffs for the fifth consecutive month."
-    },
-    {
-      "id": "5028530",
-      "time": "2026-08-06 17:32:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【歐菲光：控股子公司完成減資工商登記變更及備案】歐菲光公告稱，公司控股子公司安徽歐菲智慧車聯科技有限公司完成減資的工商登記變更及備案手續。此次回購登出員工持股計劃209名激勵物件股權等共計11239.23萬股，對應出資款13037.51萬元。公司註冊資本由95626.9439萬元變更為84387.7150萬元，公司持股比例由82.5241%增至93.5151%。完成購買少數股東股權後，安徽車聯將成公司全資子公司。"
-    },
-    {
-      "id": "5028529",
-      "time": "2026-08-06 17:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【思林傑：持股5%以上股東減持0.5%股份】思林傑公告稱，8月6日，持股5%以上股東深圳市鴻盛泰壹號創業投資合夥企業（有限合夥）透過大宗交易方式，減持公司無限售流通股466,700股，佔公司總股本的0.50%。其持有公司股份比例由6.23%降至5.73%，本次權益變動觸及1%刻度。此次減持為履行此前披露的減持計劃，尚未實施完畢，不會導致控股股東及實控人變化，對公司無重大影響。"
-    },
-    {
-      "id": "mkt:019fd66a-8cfb-7aab-8f9f-6393c7edefb9",
-      "time": "2026-08-06 17:32:14",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Market Regions",
-        "Greater China",
-        "0700.HK",
-        "Impact bearish",
-        "9988.HK",
-        "0981.HK"
-      ],
-      "text": "Southbound flows net sold RMB 1.461 bln today. Via HK Stock Connect (Shanghai), Tencent Holdings and Alibaba‑W were net sold HKD 999 mln and HKD 218 mln respectively; the largest net buy totaled HKD 2.17 bln. Via HK Stock Connect (Shenzhen), SMIC and Alibaba‑W were net sold HKD 1.643 bln and HKD 1.41 bln respectively; the largest net buy totaled HKD 527 mln."
-    },
-    {
-      "id": "5028528",
-      "time": "2026-08-06 17:32:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【專家闢謠“車市半年發了五六百款新車”】針對上半年上市新車超500款的行業熱議資料，中國汽車流通協會專家李顏偉今日在社交平臺上表示，2026年1-6月國內全新車型僅約165款，市面流傳500至600款的說法並不嚴謹。李顏偉解釋，500多款是車型+各類配置、衍生款的合併統計。“比如新上市一款車型，有三個配置，這可以算作是1款車型，3個款型；如果上半年這165款車型，加上不同配置，或許能有500~600個款型；但是說成500-600款車型就不嚴謹了。”此前多家媒體採用寬口徑統計，稱1-5月新車550款、上半年超600款，引發行業內卷討論。比亞迪執行副總裁何志奇也曾公開發聲感慨行業現狀：“徹底瘋了，這可是汽車，一款新車動輒10億以上的投資，兩年以上的開發週期，居然熱度維持不了三個月，還沒捂熱就冷了。”（第一財經）"
-    },
-    {
-      "id": "5028527",
-      "time": "2026-08-06 17:31:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新氧再掀價格戰：“奇蹟童顏”最新定價999元/兩支】近日，據新氧內部訊息顯示，奇蹟童顏總銷量已近11萬支。同時，在奇蹟童顏上線一週年節點，新氧計劃把入門版“奇蹟童顏3.0 Pretty” 價格進一步降價至999元兩支。而在一年前，新氧銷售的艾維嵐，廠商指導價為18800元一支；普麗妍的指導價為16800元一支。（新浪科技）"
-    },
-    {
-      "id": "5028526",
-      "time": "2026-08-06 17:31:33",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：8月20日將審議上半年業績及中期股息建議】中信證券公告稱，董事會會議將於2026年8月20日舉行，將考慮及批准公司及其附屬公司截至2026年6月30日止六個月未經審計業績，以及派發中期股息的建議。"
-    },
-    {
-      "id": "5028525",
-      "time": "2026-08-06 17:31:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST金鴻順：控股股東300萬股股份將被司法拍賣】ST金鴻順公告稱，公司控股股東眾德科技持有公司29.99%股份。截至公告披露日，其持有的300萬股將被司法拍賣，佔其持有公司總股數的5.58%，佔公司總股本的1.67%。其中，40萬股將於2026年9月19日10時至9月20日10時在“淘寶網”司法拍賣，起拍價412.92萬元。目前拍賣尚在公示階段，結果存在不確定性，不會導致控股股東及實控人變化，也不影響公司日常經營。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608063833951256",
-      "time": "2026-08-06 17:31:17",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國7月挑戰者企業裁員人數3.3429萬人，前值4.5849萬人。"
-    },
-    {
-      "id": "5028524",
-      "time": "2026-08-06 17:31:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【劍橋科技：控股股東及其一致行動人減持393.83萬股】劍橋科技公告稱，截至2026年8月6日，控股股東CIG開曼及其一致行動人上海康令減持計劃時間區間屆滿。CIG開曼合計減持248.3萬股，佔減持計劃披露日公司股份總數的0.70%，減持總金額5.11億元，未完成減持552.34萬股；上海康令合計減持145.53萬股，佔比0.41%，減持總金額2.99億元，未完成減持7319股。"
-    },
-    {
-      "id": "5028523",
-      "time": "2026-08-06 17:31:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【富創精密今日大宗交易折價成交40.5萬股，成交額6848.55萬元】8月6日，富創精密大宗交易成交40.5萬股，成交額6848.55萬元，佔當日總成交額的2.93%，成交價169.1元，較市場收盤價183.8元折價8%。"
     }
   ]
 }

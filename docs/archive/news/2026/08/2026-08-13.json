@@ -1,7 +1,166 @@
 {
   "date": "2026-08-13",
-  "count": 1750,
+  "count": 1767,
   "items": [
+    {
+      "id": "mkt:019ffa78-aee9-7aab-9021-20f22ffd3c0f",
+      "time": "2026-08-13 17:34:00",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Chip leaders lift KOSPI into technical bull market; Hormuz stalemate flagged as risk】South Korean stocks jumped on Thursday, lifting emerging market equities as a global AI trade rebound pushed the Seoul KOSPI into a technical bull market. Jefferies strategist Mohit Kumar said he remains comfortable with an overweight in AI, citing a strong earnings season and no sign of a capex slowdown. The KOSPI rose 3.2% on Thursday, roughly 22% above its July 30 low. Large-cap memory makers Samsung Electronics and SK Hynix led gains, each up about 5%. Kumar warned geopolitics remains the main risk: the Strait of Hormuz remains closed — if the stalemate lasts weeks markets should digest it, but if it endures months markets would need to reprice."
+    },
+    {
+      "id": "5039142",
+      "time": "2026-08-13 17:33:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【聯想楊元慶：不要只看誰的模型做得好，還要看誰是AI普及的主力軍】聯想集團披露2026/27財年第一季度財報業績。在溝通會上，聯想集團董事長兼CEO楊元慶表示，公共AI主要基於公共資料產生，早期階段80%算力資源集中於訓練環節 ，但這一比例已逐漸改變，現在約50%算力用於訓練，50%用於推理 。推理需求正迎來爆發式增長，算力分配更合理的比例是80%用於推理，20%用於訓練。（新浪科技）"
+    },
+    {
+      "id": "mkt:019ffa77-f5b9-7aab-9021-1bc9c288d1e6",
+      "time": "2026-08-13 17:33:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Iraq's State Oil Marketing Organization (SOMO) said Abu Dhabi's largest energy company is among buyers of its crude and transports the cargo through the Strait of Hormuz."
+    },
+    {
+      "id": "5039141",
+      "time": "2026-08-13 17:32:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易部長：已就產能過剩相關301調查事項與美國進行接洽。"
+    },
+    {
+      "id": "mkt:019ffa77-6d8a-7aab-9021-13ba71e7bf44",
+      "time": "2026-08-13 17:32:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India and the United States are committed to advancing and finalizing the framework agreement reached in February."
+    },
+    {
+      "id": "5039140",
+      "time": "2026-08-13 17:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易秘書：印度與美國承諾推進並敲定今年2月達成共識的框架協議。"
+    },
+    {
+      "id": "mkt:019ffa76-d6e9-7aab-9021-0e0fb28bfa4b",
+      "time": "2026-08-13 17:31:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Regions",
+        "Greater China",
+        "0700.HK",
+        "Impact bullish",
+        "1347.HK",
+        "981.HK"
+      ],
+      "text": "Southbound flows (mainland investors into Hong Kong stocks via Stock Connect) net bought CNY 3.667 bln today. Via Shanghai–Hong Kong Connect, Tencent Holdings and Hua Hong Semiconductor were top buys, net +HKD 3.667 bln and +HKD 376 mln; Zhipu was the largest net seller at -HKD 852 mln. Via Shenzhen–Hong Kong Connect, Tencent and SMIC were top buys, net +HKD 1.949 bln and +HKD 634 mln; Lenovo Group was the largest net seller at -HKD 653 mln."
+    },
+    {
+      "id": "5039139",
+      "time": "2026-08-13 17:31:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮盛石化：因職工董事任職問題收到浙江證監局責令改正決定】榮盛石化公告稱，於2026年8月12日收到浙江證監局《關於對榮盛石化股份有限公司採取責令改正措施的決定》。經查，公司現任職工董事俞鳳娣與公司不存在勞動關係，不符合任職條件，導致董事會成員中無公司職工代表，違反相關規定。公司應在30日內向浙江證監局提交書面整改報告，相關事項不影響董事會決議效力及公司正常經營。"
+    },
+    {
+      "id": "5039138",
+      "time": "2026-08-13 17:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利債務管理局發售12個月期國庫券，平均得標利率為5.22%，上次拍賣為5.25%。"
+    },
+    {
+      "id": "mkt:019ffa76-29be-7aab-9021-0185c2e97059",
+      "time": "2026-08-13 17:31:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India should not comment on a US bill proposing up to a 100% tariff on purchases of Russian oil, calling it an internal US matter."
+    },
+    {
+      "id": "5039137",
+      "time": "2026-08-13 17:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度貿易官員：不應就美國提議對俄羅斯石油採購徵收最高100%關稅的法案置評，此事屬於美國內政。"
+    },
+    {
+      "id": "5039136",
+      "time": "2026-08-13 17:30:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊啟動頂尖AI產品人才招聘專項】8月13日，騰訊宣佈啟動頂尖AI產品人才招聘專項“AI產品經理培訓生”專案。該專案將全面開放騰訊混元大模型、WorkBuddy等AI原生產品及遊戲、社交、金融、雲等成熟垂類場景，供2026屆及2027屆畢業生選擇。據介紹，本次招聘不限學歷、專業，看重候選人真實的AI實力，偏向具備產品架構設計能力。"
+    },
+    {
+      "id": "mkt:019ffa75-9c35-7aab-9020-fdc9f431ade8",
+      "time": "2026-08-13 17:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities"
+      ],
+      "text": "Statistics South Africa: South African platinum-group metals output fell 8.4% YoY in June."
+    },
+    {
+      "id": "mkt:019ffa75-7c6b-7aab-9020-f38c2e1c2572",
+      "time": "2026-08-13 17:30:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Statistics South Africa: June gold production rose 6.2% YoY; total mining output fell 4.0% YoY."
+    },
+    {
+      "id": "5039135",
+      "time": "2026-08-13 17:30:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST清越：股票漲停波動大 存重大違法強制退市風險】*ST清越公告稱，公司今日漲停，股價剔除大盤整體因素後波動幅度較大，提醒投資者注意二級市場交易風險。公司2026年5月8日收到中國證監會《行政處罰事先告知書》，可能觸及重大違法行為，或被實施重大違法強制退市，其A股股票於5月12日起被實施退市風險警示。若觸及相關情形，股票將自披露收到行政處罰決定書之日起停牌並終止上市。此外，公司於4月30日被實施其他風險警示，相關風險尚未消除。"
+    },
+    {
+      "id": "5039134",
+      "time": "2026-08-13 17:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局：6月鉑族金屬產量同比下降8.4%。"
+    },
+    {
+      "id": "5039133",
+      "time": "2026-08-13 17:30:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局資料：6月南非礦業總產量同比下降4.0%。"
+    },
     {
       "id": "5039132",
       "time": "2026-08-13 17:29:58",
