@@ -1,7 +1,111 @@
 {
   "date": "2026-08-13",
-  "count": 1941,
+  "count": 1953,
   "items": [
+    {
+      "id": "5039284",
+      "time": "2026-08-13 18:39:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭將停止公佈俄羅斯導彈襲擊詳細資料】烏克蘭空軍當地時間12日說，將停止公佈有關俄羅斯彈道導彈襲擊的詳細資料。據悉，因防空導彈短缺等原因，烏軍正苦於應對俄方日益猛烈的空襲。烏克蘭空軍發言人尤里·伊格納特在社交媒體發文說，烏軍方領導層決定，將對有關俄羅斯大規模襲擊的每日早報內容做部分調整，不再公佈俄方對烏髮射的導彈、被烏方擊落或壓制的導彈以及未擊中目標導彈的具體數量，實時預警將保持不變，烏軍方將繼續公佈俄方發射導彈的總體資料。（央視新聞）"
+    },
+    {
+      "id": "5039283",
+      "time": "2026-08-13 18:38:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全新好：董事、副總經理王波辭職】全新好公告稱，公司董事會近日收到董事、副總經理王波的書面辭職報告，因個人原因，王波申請辭去上述職務，辭職後不再擔任公司及子公司其他任何職務。其原定任期至公司第十三屆董事會屆滿之日止。王波辭職不會導致董事會成員低於法定最低人數，不影響公司正常運作，辭職報告送達董事會後生效。截至公告日，王波未持股，無未履行承諾事項。"
+    },
+    {
+      "id": "5039282",
+      "time": "2026-08-13 18:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【箭牌家居：全資子公司銀行賬戶被凍結 餘額215.94萬元】箭牌家居公告稱，全資子公司韶關樂華銀行賬戶均被凍結，被凍結賬戶餘額為215.94萬元。此次凍結系河南一建以股東損害公司債權人利益責任糾紛為由，將韶關樂華等列為被告，向法院提起訴訟並申請訴前財產保全所致。河南一建請求法院判令韶關樂華等被告對陝西華陽4778.82萬元債務承擔連帶責任。截至公告披露日，凍結資金佔公司相關指標比例很低，未對公司產生重大影響，公司將積極採取法律措施維護權益。"
+    },
+    {
+      "id": "5039281",
+      "time": "2026-08-13 18:38:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【京投發展：股價異常波動 多項交易存不確定性】京投發展公告稱，公司股票於2026年8月12日、8月13日連續兩個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。公司2025年、2026年一季度、2026年上半年淨利潤分別為-12.16億元、-1.28億元、-3.13億元。資產出售與收購事項均處籌劃階段，存在重大不確定性，擬收購標的2025年、2026年一季度淨利潤分別為-6110.46萬元、-2179.40萬元。公司提醒投資者注意交易、業績及事項進展風險。"
+    },
+    {
+      "id": "5039280",
+      "time": "2026-08-13 18:38:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受美國原油庫存上升以及國際能源署、歐佩克下調需求預期影響，布倫特原油和美國原油期貨跌幅超2%。"
+    },
+    {
+      "id": "mkt:019ffab3-d89e-7aab-9022-640a19d0def7",
+      "time": "2026-08-13 18:38:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Qatar sets September official selling price (OSP) for seaborne crude at $5.00/bbl below the Oman/Dubai benchmark; OSP for land crude set at $4.50/bbl below the same benchmark."
+    },
+    {
+      "id": "5039279",
+      "time": "2026-08-13 18:38:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達已敲定九月海運原油官方銷售價格，較阿曼/迪拜油價每桶低5美元；陸上原油官方銷售價格較阿曼/迪拜油價每桶低4.5美元。"
+    },
+    {
+      "id": "mkt:019ffab3-5663-7aab-9022-5dd0c9f1b1e4",
+      "time": "2026-08-13 18:38:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【Ukraine says ZAPORIZHZHIA NUCLEAR PLANT had 14 full-site blackouts in first eight months of 2026】Ukraine’s state nuclear operator said equipment at the ZAPORIZHZHIA NUCLEAR PLANT has continued to deteriorate, with frequent full-site power outages and rising nuclear and radiation safety risks. The operator’s head, Kovtoniuk, said the plant has suffered 26 full-site blackouts since the escalation of the Russia-Ukraine conflict, including 14 in the first eight months of 2026. Each loss of external power requires activation of backup supplies; frequent power switching is worsening safety risks. Kovtoniuk added equipment aging is pronounced and diesel generator sets face accelerated wear, higher loads from repeated start-stop cycles and markedly reduced operational stability."
+    },
+    {
+      "id": "5039278",
+      "time": "2026-08-13 18:37:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "保險科技公司Accelerant美股盤前漲超45%，報道稱該公司將被軟體投資機構Thoma Bravo以每股20.25美元的價格私有化。"
+    },
+    {
+      "id": "5039277",
+      "time": "2026-08-13 18:36:55",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "烏干達央行維持基準利率 9.75% 不變。"
+    },
+    {
+      "id": "5039276",
+      "time": "2026-08-13 18:36:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏方稱扎波羅熱核電站今年已斷電14次】當地時間13日，烏克蘭國家核能發電公司釋出通報稱，扎波羅熱核電站裝置工況持續惡化，斷電事故頻發，核與輻射安全風險持續上升。該公司負責人科夫託紐克介紹，自俄烏衝突升級以來，扎波羅熱核電站已發生26次全站斷電，其中2026年前8個月便出現14次。核電站每次喪失外部供電後，都必須啟動備用電源，頻繁的電源切換操作進一步加劇了安全風險。科夫託紐克還表示，核電站裝置老化退化問題突出，柴油發電機組因頻繁啟停執行，裝置負荷大幅增加、磨損速度加快，執行穩定性顯著下降。扎波羅熱核電站是歐洲最大核電站之一。2022年2月烏克蘭危機全面升級後，俄方控制了扎波羅熱核電站。此後，該核電站多次遭到炮擊或無人機攻擊，引發國際社會對其安全的擔憂。（央視新聞）"
+    },
     {
       "id": "5039273",
       "time": "2026-08-13 18:34:16",
@@ -121,6 +225,15 @@
         "其他"
       ],
       "text": "火箭實驗室：透過德意志銀行、富國銀行達成分銷協議。"
+    },
+    {
+      "id": "5039260",
+      "time": "2026-08-13 18:26:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【融捷健康：下屬控股子公司累計收到美國關稅退回約725.2萬美元】融捷健康公告，2026年2月，美國最高法院裁定美國政府依據《國際緊急經濟權力法》（IEEPA）徵收關稅的行為逾越法定許可權，相關關稅措施自始無效，因此已徵收的相關關稅需退還給進口商。美國海關與邊境保護局（CBP）於2026年4月20日正式啟動了退稅工作。截至目前，公司下屬控股子公司Golden Designs INC.(N.A.) 已累計收到美國關稅退回7,251,996.14美元（其中退稅款6,978,685.05美元，利息273,311.09美元）。"
     },
     {
       "id": "5039259",
