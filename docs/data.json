@@ -1,7 +1,162 @@
 {
-  "updated": "2026-08-14 07:48:21",
-  "count": 15445,
+  "updated": "2026-08-14 07:52:20",
+  "count": 15456,
   "items": [
+    {
+      "id": "5040168",
+      "time": "2026-08-14 07:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省水文管理中心8月14日4時釋出東苕溪瓶窯水文站洪水橙色預警】受短時降雨影響，瓶窯站水位回漲，將發生橙色預警級別的洪水，預警時間範圍8月14日至15日，影響範圍杭州市、餘杭區、湖州市、德清縣、嘉興市。請沿河居民、施工單位和過往船隻注意安全，防範洪水風險。"
+    },
+    {
+      "id": "mkt:019ffd89-231e-7aab-902f-f5d4b60becb7",
+      "time": "2026-08-14 07:50:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Foreign investors were net sellers of JGBs by 58.7 bln yen in the week to Aug 7, versus net purchases of 558.9 bln yen in the prior week."
+    },
+    {
+      "id": "5040167",
+      "time": "2026-08-14 07:50:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本8月7日當週淨買進國外債券 16294億日元，前值 4779億日元。日本8月7日當週淨買進國外股票 9635億日元，前值 -2764億日元。日本8月7日當週外資淨買進日本債券 -587億日元，前值 5589億日元。日本8月7日當週外資淨買進日本股票 -3685億日元，前值 -3925億日元。"
+    },
+    {
+      "id": "mkt:019ffd89-1720-7aab-902f-e9d726a71b65",
+      "time": "2026-08-14 07:50:47",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan bought foreign equities JPY 963.5 bln in the week to Aug. 7; prior week saw net sales of JPY 276.4 bln."
+    },
+    {
+      "id": "mkt:019ffd88-f8e8-7aab-902f-e5d17aa8ab71",
+      "time": "2026-08-14 07:50:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Aug.7) | actual -58700000000B | previous 558900000000B"
+    },
+    {
+      "id": "mkt:019ffd88-e0af-7aab-902f-d99f5d49d1cc",
+      "time": "2026-08-14 07:50:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Aug.7) | actual 963500000000B | previous -276400000000B"
+    },
+    {
+      "id": "mkt:019ffd88-d515-7aab-902f-d5cc2237f403",
+      "time": "2026-08-14 07:50:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports the international coalition’s air-defence system was activated in Erbil, Iraq; Iraqi sources say the drone attack on Erbil originated from Nineveh province."
+    },
+    {
+      "id": "mkt:019ffd88-9742-7aab-902f-cd153162debe",
+      "time": "2026-08-14 07:50:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan bought JPY 1.63 trillion of foreign bonds in the week to Aug. 7, versus JPY 477.9 billion in the prior week."
+    },
+    {
+      "id": "mkt:019ffd88-879d-7aab-902f-c232b66973ad",
+      "time": "2026-08-14 07:50:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors' net purchases of Japanese equities in the week to Aug. 7 were -368.5 bln yen, compared with -392.5 bln yen in the prior week."
+    },
+    {
+      "id": "mkt:019ffd88-5f66-7aab-902f-b428f80ee51f",
+      "time": "2026-08-14 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Aug.7) | actual 1629400000000B | previous 477900000000B"
+    },
+    {
+      "id": "mkt:019ffd88-5f69-7aab-902f-bd04c799dddc",
+      "time": "2026-08-14 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Aug.7) | actual -368500000000B | previous -392500000000B"
+    },
+    {
+      "id": "5040166",
+      "time": "2026-08-14 07:49:42",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【隨著美聯儲潛在加息擔憂緩解，日經指數或上漲】隨著週四美國公佈批發價格資料後對美聯儲潛在加息的擔憂有所緩解，日本股市可能會上漲。新加坡交易所日經指數期貨上漲1.4%，報69310點。美元報159.47日元，週四東京股市收盤時為159.39日元。投資者正關注伊朗衝突的任何進展以及原油價格。日經指數週四上漲1.2%，至68308.59點。"
+    },
+    {
+      "id": "mkt:019ffd87-ddef-7aab-902f-a8e68bc88c95",
+      "time": "2026-08-14 07:49:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said that over the past 48 hours multiple media reports related to the USS Abraham Lincoln (CVN 72) Middle East deployment were false. A report claiming seven sailors died in a brawl aboard the carrier and other pieces suggesting a spike in suicides on board were inaccurate."
+    },
+    {
+      "id": "5040165",
+      "time": "2026-08-14 07:48:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【淡季來臨 鎢礦行業上市公司訂單以剛需為主】近期，鎢礦行業進入季節性淡季。中國證券報記者從多家上市公司處瞭解到，目前，55%以上品位鎢精礦價格大概為41萬元/噸，雖然價格相比年內最高點明顯回落，但依然處於歷史相對高位。“鎢行業每年都有淡季和旺季，目前處於季節性淡季。但訂單量仍處於正常水平，主要以剛需為主。”多家鎢行業上市公司證券部工作人員告訴記者。（中國證券報）"
+    },
+    {
+      "id": "5040164",
+      "time": "2026-08-14 07:47:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本公債期貨早盤上漲0.25點。"
+    },
+    {
+      "id": "5040163",
+      "time": "2026-08-14 07:47:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數期貨早盤上漲1.6%。"
+    },
     {
       "id": "5040162",
       "time": "2026-08-14 07:47:40",
@@ -141319,47 +141474,6 @@
         "焦點"
       ],
       "text": "紐約期金突破4310美元/盎司，日內漲0.25%。"
-    },
-    {
-      "id": "5029690",
-      "time": "2026-08-07 07:51:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省：截至7月底日本外匯儲備為1.287099萬億美元，6月底為1.287476萬億美元。"
-    },
-    {
-      "id": "5029689",
-      "time": "2026-08-07 07:51:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4250美元/盎司，日內漲0.23%。"
-    },
-    {
-      "id": "5029688",
-      "time": "2026-08-07 07:51:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省資料顯示，4月和5月日本分別在共3天進行了買入日元的匯率干預操作。"
-    },
-    {
-      "id": "5029687",
-      "time": "2026-08-07 07:51:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務省資料顯示，4-6月日本單日規模最大的干預發生在4月30日，干預規模為6.2787萬億日元。"
-    },
-    {
-      "id": "5029686",
-      "time": "2026-08-07 07:50:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家海洋預報臺8月7日08時釋出風暴潮藍色警報：受冷空氣的影響，預計：8月7日下午至8日上午，渤海灣和萊州灣將出現70到130釐米的風暴增水。河北省唐山市、滄州市，天津市和山東省濱州市的風暴潮預警級別為藍色。8日中午前後視情況解除風暴潮警報。"
     }
   ]
 }
