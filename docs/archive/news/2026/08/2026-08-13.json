@@ -1,7 +1,63 @@
 {
   "date": "2026-08-13",
-  "count": 1242,
+  "count": 1248,
   "items": [
+    {
+      "id": "5038797",
+      "time": "2026-08-13 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.29%， 10年期主力合約漲0.06%， 5年期主力合約漲0.04%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5038796",
+      "time": "2026-08-13 15:14:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【駐約旦大使郭偉會見約皇家航空執行長】2026年8月12日，駐約旦大使郭偉會見約旦皇家航空執行長薩米爾·馬賈利。郭大使表示，約旦皇家航空享有良好聲譽，航線遍佈全球，是架通約旦和世界的空中走廊。中約航司傳統合作基礎好，未來拓展空間大，是增進兩國人員往來的重要紐帶。馬賈利表示，約航重視完善全球佈局，提升業界競爭力和美譽度，願加強對中國市場的開拓和深耕。"
+    },
+    {
+      "id": "5038795",
+      "time": "2026-08-13 15:13:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯對印度在石油和天然氣領域的投資感興趣。"
+    },
+    {
+      "id": "te:economy:574974",
+      "time": "2026-08-13 15:12:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lithuania",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Lithuania Current Account Surplus Widens in June — Lithuania’s current account surplus widened sharply to EUR 437.5 million in June 2026 from EUR 191.5 million in the same month a year earlier. The services account surplus increased to EUR 985.4 million from EUR 791.9 million, while the secondary income account shifted to a EUR 346.5 million surplus from a deficit of EUR 17.9 million. On the other hand, the goods account deficit widened to EUR 695.1 million from EUR 408.5 million, driven largely by a larger increase in imports, which rose by EUR 824.7 million to EUR 4,175.1 million, compared with a EUR 538.1 million increase in exports to EUR 3,480 million. The primary income deficit also rose to EUR 199.4 million from EUR 174 million a year ago."
+    },
+    {
+      "id": "te:economy:574973",
+      "time": "2026-08-13 15:12:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Turkey Current Account Deficit Widens in June — Turkey's current account deficit widened to $4.19 billion in June 2026 from $2.27 billion in the same month a year earlier, but came in below the expected $5.0 billion shortfall. The goods deficit increased to $8.53 billion from $6.52 billion, while the services surplus rose to $6.85 billion from $6.09 billion. The primary income deficit widened to $1.79 billion from $1.76 billion, while the secondary income deficit increased to $0.73 billion from $0.08 billion. Excluding gold and energy, the current account recorded a $1.46 billion surplus. In the first half of the year, the cumulative current account deficit reached $34.55 billion. On an annualized basis, the current account deficit reached $38.9 billion in June, with the goods deficit at $76.5 billion and the services surplus at $63.7 billion."
+    },
+    {
+      "id": "5038794",
+      "time": "2026-08-13 15:12:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報64.61美元/盎司。"
+    },
     {
       "id": "mkt:019ff9f6-37f7-7aab-901c-a5fa1abb91de",
       "time": "2026-08-13 15:11:30",
