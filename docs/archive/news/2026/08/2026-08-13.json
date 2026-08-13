@@ -1,7 +1,96 @@
 {
   "date": "2026-08-13",
-  "count": 646,
+  "count": 655,
   "items": [
+    {
+      "id": "mkt:019ff8d9-0816-7aab-9016-c786021271d2",
+      "time": "2026-08-13 10:00:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share baijiu sector rallied; Kuaijishan hit the daily limit-up, Guyue Longshan and Shuijingfang rose over 2%, with Huangtai Jiuye and Kouzi Jiao also gaining."
+    },
+    {
+      "id": "5038445",
+      "time": "2026-08-13 09:59:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊短線拉昇，博濟醫藥漲停】CRO概念板塊短線拉昇，博濟醫藥漲停，近岸蛋白、和元生物、普蕊斯、萬邦醫藥、成都先導等紛紛走高。"
+    },
+    {
+      "id": "5038444",
+      "time": "2026-08-13 09:57:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智飛生物控股子公司宸安生物CA111注射液Ib期臨床試驗完成首批受試者入組】8月13日，據智飛生物訊息，其控股子公司宸安生物自主研發的CA111注射液Ib期臨床試驗於8月12日完成第1劑量組受試者入組。本次Ib期臨床試驗旨在評估CA111注射液在肥胖/超重受試者中的安全性、耐藥性、藥代動力學及藥效特徵。"
+    },
+    {
+      "id": "te:markets:574875",
+      "time": "2026-08-13 09:57:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Track Asian Peers Higher — The Shanghai Composite rose 0.3% to 3,957 on Thursday, while the Shenzhen Component climbed 1% to 14,554, extending gains from the previous session and tracking strength across Asian markets amid a renewed global AI-driven rally. Investor appetite for technology stocks continued to recover after last month’s sharp selloff, as strong earnings from major tech companies reinforced confidence in sustained spending on AI infrastructure and growing evidence that AI adoption is expanding across a wider range of applications. In China, attention remained firmly on Semiconductor Manufacturing International Corp., which is set to report earnings later on Thursday, with net profit expected to more than double from a year earlier. Cambricon Technologies (1.4%), SMIC (2%), Zhongji Innolight (3.8%), Eoptolink Technology (3.1%), and NAURA Technology (1.9%) were among the sector's top gainers. In contrast, energy stocks lagged, with PetroChina (-3.6%) and CNOOC (-2.5%) among the worst performers."
+    },
+    {
+      "id": "5038443",
+      "time": "2026-08-13 09:57:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南國家銀行：越南盾存貸缺口達 762 億美元。"
+    },
+    {
+      "id": "5038442",
+      "time": "2026-08-13 09:56:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【其他酒類板塊短線拉昇，會稽山漲停】其他酒類板塊短線拉昇，會稽山漲停，金楓酒業、古越龍山、張裕A、威龍股份、百潤股份等紛紛走高。"
+    },
+    {
+      "id": "mkt:019ff8d5-d4cf-7aab-9016-bea9fab1b1c2",
+      "time": "2026-08-13 09:56:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share cultural and media sector extended gains; Duke Culture hit a 20% limit-up, Fengyuzhu, Yinli Media, Shengguang Group and Chuban Media reached daily limit-ups, while Yidian Tianxia, CITIC Publishing and Guomai Culture also rose."
+    },
+    {
+      "id": "5038441",
+      "time": "2026-08-13 09:56:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指盤中轉漲，恒生科技指數現漲0.46%。"
+    },
+    {
+      "id": "mkt:019ff8d5-bff4-7aab-9016-b532e50d723d",
+      "time": "2026-08-13 09:56:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index"
+      ],
+      "text": "Hang Seng Index turned positive intraday; Hang Seng Tech Index up 0.46%."
+    },
     {
       "id": "5038440",
       "time": "2026-08-13 09:55:58",
