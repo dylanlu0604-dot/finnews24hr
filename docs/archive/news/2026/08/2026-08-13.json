@@ -1,7 +1,81 @@
 {
   "date": "2026-08-13",
-  "count": 1767,
+  "count": 1775,
   "items": [
+    {
+      "id": "mkt:019ffa7c-afa5-7aab-9021-3ec31d84a0e1",
+      "time": "2026-08-13 17:38:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK analyst: Iran aims to prolong war to increase US 'pain'】Michael Stephens, senior research fellow at the Royal United Services Institute, said Iran is deliberately seeking to prolong the war because it does not view economic pressure as an existential threat to the regime. After nearly six months of fighting, Tehran is convinced the US will not mount a ground invasion and that \"the survival threat has gone,\" so it is trying to accelerate operations to \"make Trump feel greater pain\" and prefers to \"drag it out.\" Stephens said, contrary to pre-war expectations of imminent collapse after mass protests, Iran has not fallen and Washington appears to lack effective means to compel Tehran; Iranians can \"continue to live in a stalemate\" — suffering but not facing a survival crisis, which he described as the core problem for the US."
+    },
+    {
+      "id": "mkt:019ffa7b-e9c0-7aab-9021-313724726dab",
+      "time": "2026-08-13 17:37:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Suezmax tanker Caroline grounded off southern Oman; 390 sq km oil slick, monsoon complicates rescue】Ambrey said specialists have boarded the Suezmax tanker Caroline, aground off the Al Hallaniyat Islands on Oman’s southern coast; rescue vessels, aircraft and equipment are en route. Omani state news reported an oil slick of about 390 sq km and said mainland beaches have been contaminated; the government environment agency is monitoring the leak. Monsoon-season seas and weather are expected to hamper salvage and response operations. Waters around the Al Hallaniyat Islands contain coral reefs, fish, nesting sea turtles and sightings of dolphins and whales."
+    },
+    {
+      "id": "5039148",
+      "time": "2026-08-13 17:37:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【璞泰來：獲交易商協會30億元債務融資工具註冊】璞泰來公告稱，公司此前已透過申請統一註冊30億元債務融資工具的議案。近日，公司收到中國銀行間市場交易商協會下發的《接受註冊通知書》，註冊金額為30億元，額度自通知書落款日起2年內有效，由興業銀行主承銷。註冊有效期內可分期發行超短融、短融、中票、永續票據。公司將推進後續工作並及時披露資訊。"
+    },
+    {
+      "id": "5039147",
+      "time": "2026-08-13 17:37:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美大使稱圍困巴勒斯坦民房的以定居者是“恐怖分子”】美國駐以色列大使邁克·赫卡比13日在社交媒體上說，近日在約旦河西岸圍困巴勒斯坦居民的以色列定居者是“恐怖分子”。《以色列時報》13日報道說，以定居者自9日以來持續對約旦河西岸城市納布盧斯以南古斯拉村兩戶民房實施“封鎖”，阻止居民進出。赫卡比當天在社交媒體上回應此事時說，美國駐以色列大使館一直“高度介入”此事，以國防軍和以警方已“應要求”前往現場驅逐以“恐怖分子”。赫卡比稱，涉事以定居者行為屬於“犯罪行為”，是“旨在恐嚇、騷擾居民的駭人恐怖行為”，其行徑“令人作嘔”。赫卡比還說，美國駐以大使館“一直在向美國政府通報事態進展”。（新華社）"
+    },
+    {
+      "id": "mkt:019ffa7a-31be-7aab-9021-2b7a93a81493",
+      "time": "2026-08-13 17:35:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【India July trade deficit widens as imports surge】India's July trade deficit widened to $31.98 bln from $30.4 bln in June, above a median economist estimate of $30.5 bln, as imports outpaced exports. Exports rose 19.6% YoY to $44.24 bln while imports increased 17.5% YoY to $76.22 bln. Strong import growth signals resilient domestic demand ahead of the festival season: vehicle sales are at record levels, credit growth hit a two-year high and GST receipts are rising at double-digit rates. Commerce Ministry secretary Rajesh Agrawal said export gains were led by oil products, electronics, engineering goods, gems and jewellery, iron ore, meat, dairy and poultry and seafood, with strong performance in Spain, Australia, Kenya and ASEAN markets."
+    },
+    {
+      "id": "5039145",
+      "time": "2026-08-13 17:35:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿瓦魯阿訊息：庫克群島電視臺13日直播的初步計票結果顯示，庫克群島執政黨庫克群島黨再次贏得議會選舉，將連續第五次執政。（新華社）"
+    },
+    {
+      "id": "5039144",
+      "time": "2026-08-13 17:34:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華康潔淨：中標1.47億元醫院病房改造專案】華康潔淨公告稱，近日收到鷹潭市人民醫院發出的《中標通知書》，確認公司為“江西省鷹潭市人民醫院病房改造專案”的中標供應商，中標金額1.47億元，佔公司2025年度經審計營收的6.42%。專案工期730日曆天，建設資金已到位。若簽訂正式合同並順利實施，預計會對公司未來年度淨利潤產生積極影響。截至公告披露日，公司尚未簽署正式合同，存在一定不確定性。"
+    },
+    {
+      "id": "5039143",
+      "time": "2026-08-13 17:34:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊拉克石油營銷公司報告稱，阿布扎比最大的能源公司是購買其原油並透過霍爾木茲海峽運輸貨物的公司之一。"
+    },
     {
       "id": "mkt:019ffa78-aee9-7aab-9021-20f22ffd3c0f",
       "time": "2026-08-13 17:34:00",
