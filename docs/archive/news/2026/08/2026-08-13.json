@@ -1,7 +1,53 @@
 {
   "date": "2026-08-13",
-  "count": 2751,
+  "count": 2756,
   "items": [
+    {
+      "id": "mkt:019ffbb7-2795-7aab-9029-90669bd45b3c",
+      "time": "2026-08-13 23:21:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said reports about the situation aboard the USS Abraham Lincoln are misinformation."
+    },
+    {
+      "id": "mkt:019ffbb6-c945-7aab-9029-8df5c615e7b9",
+      "time": "2026-08-13 23:21:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said the United States can sustain a blockade of Iran for as long as necessary."
+    },
+    {
+      "id": "5039826",
+      "time": "2026-08-13 23:21:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞斯稱，關於“亞伯拉罕·林肯”號航母上狀況的報道存在失實陳述。"
+    },
+    {
+      "id": "5039825",
+      "time": "2026-08-13 23:20:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨<CLc1>和布蘭特原油期貨<LCOc1>縮減跌幅，下跌1美元，此前有報導稱，胡塞武裝用兩架無人機襲擊了沙特阿美在吉讚的煉油廠。"
+    },
+    {
+      "id": "5039824",
+      "time": "2026-08-13 23:19:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思就伊朗問題表態：美國可根據需要長時間實施封鎖。"
+    },
     {
       "id": "5039823",
       "time": "2026-08-13 23:19:00",
