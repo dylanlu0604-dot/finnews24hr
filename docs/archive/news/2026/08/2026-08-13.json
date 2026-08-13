@@ -1,7 +1,329 @@
 {
   "date": "2026-08-13",
-  "count": 2231,
+  "count": 2259,
   "items": [
+    {
+      "id": "mkt:019ffb1c-1ea2-7aab-9024-ca1c2a3fe4c0",
+      "time": "2026-08-13 20:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. equity index futures were little changed after the release of economic data."
+    },
+    {
+      "id": "5039511",
+      "time": "2026-08-13 20:32:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨在經濟資料公佈後變動極小。"
+    },
+    {
+      "id": "5039509",
+      "time": "2026-08-13 20:32:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，沃爾沃卡車北美公司將召回 1851 輛美國車輛。"
+    },
+    {
+      "id": "5039508",
+      "time": "2026-08-13 20:32:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，豐田汽車公司將在美國召回 407 輛汽車。"
+    },
+    {
+      "id": "5039506",
+      "time": "2026-08-13 20:31:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行：2019‑20年度印度主權黃金債券贖回價格為每單位15310印度盧比。"
+    },
+    {
+      "id": "mkt:019ffb1a-ff35-7aab-9024-c1e59f7b2a07",
+      "time": "2026-08-13 20:31:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. July PPI rose 4.7% YoY, the weakest reading since March and below the 4.9% consensus."
+    },
+    {
+      "id": "5039505",
+      "time": "2026-08-13 20:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音任命新任拉丁美洲及加勒比地區總裁。"
+    },
+    {
+      "id": "mkt:019ffb1a-a55f-7aab-9024-ba93e9f02744",
+      "time": "2026-08-13 20:30:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US July PPI 0.0% MoM, below market expectation of +0.2%."
+    },
+    {
+      "id": "mkt:019ffb1a-76e7-7aab-9024-b50340a9df66",
+      "time": "2026-08-13 20:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "US initial jobless claims for the week ending Aug 8 rose to 209,000, the highest since the week of July 11 and above the market estimate of 202,000."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608133840676597",
+      "time": "2026-08-13 20:30:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月PPI同比增長4.7% 低於市場預期】美國7月生產者價格指數（PPI）同比增長4.7%，預估為4.9%，前值為5.5%。美國7月PPI環比持平，預估增長0.2%。"
+    },
+    {
+      "id": "5039504",
+      "time": "2026-08-13 20:30:21",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國7月PPI月率 0%，預期0.20%，前值由-0.30%修正為-0.1%。"
+    },
+    {
+      "id": "mkt:019ffb1a-159c-7aab-9024-ac082915d880",
+      "time": "2026-08-13 20:30:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US continuing jobless claims for week ending Aug 1: 1.777 mln, vs. 1.795 mln expected; prior revised from 1.801 mln to 1.799 mln."
+    },
+    {
+      "id": "mkt:019ffb1a-1206-7aab-9024-a7267be6a083",
+      "time": "2026-08-13 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US core PPI YoY 4.2% in July, matching consensus of 4.2% and down from June's 4.7%."
+    },
+    {
+      "id": "mkt:019ffb1a-0d06-7aab-9024-9839a6ef5cb0",
+      "time": "2026-08-13 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. July PPI MoM 0.00% vs 0.20% expected; June revised from -0.30% to -0.10%."
+    },
+    {
+      "id": "mkt:019ffb1a-0c8c-7aab-9024-90f5ef5d762a",
+      "time": "2026-08-13 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US July PPI YoY 4.7% vs. 4.9% expected; prior 5.5%."
+    },
+    {
+      "id": "mkt:019ffb1a-0c34-7aab-9024-8de5eb0bfb3e",
+      "time": "2026-08-13 20:30:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US Core PPI (MoM) July +0.2% vs +0.3% expected; June revised up to +0.4% from +0.2%."
+    },
+    {
+      "id": "mkt:019ffb19-f5fd-7aab-9024-86433c305af7",
+      "time": "2026-08-13 20:30:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US four-week moving average of initial jobless claims for the week to Aug 8: 199,000; prior reading revised from 198,750 to 199,000."
+    },
+    {
+      "id": "mkt:019ffb19-f586-7aab-9024-7d8118b28694",
+      "time": "2026-08-13 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "US initial jobless claims for the week ended Aug. 8 rose to 209,000 versus a forecast of 202,000; the prior week was revised to 200,000 from 199,000."
+    },
+    {
+      "id": "5039503",
+      "time": "2026-08-13 20:30:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國上週首次申領失業救濟人數為209,000人；預估為202,000人。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202608133840676446",
+      "time": "2026-08-13 20:30:07",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週首次申領失業救濟人數為20.9萬人，預估為20.2萬人，前值為19.9萬人。"
+    },
+    {
+      "id": "mkt:019ffb19-f222-7aab-9024-7292ab3b168d",
+      "time": "2026-08-13 20:30:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is due to speak on the economic outlook in ten minutes."
+    },
+    {
+      "id": "mkt:019ffb19-d911-7aab-9024-6919dd0ecf75",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (MoM) (Jul) | actual 0% | consensus 0.20% | previous -0.30%"
+    },
+    {
+      "id": "mkt:019ffb19-d89a-7aab-9024-6777262e6384",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (MoM) (Jul) | actual 0.2% | consensus 0.30% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019ffb19-d83f-7aab-9024-5b494b40e373",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (YoY) (Jul) | actual 4.2% | consensus 4.2% | previous 4.70%"
+    },
+    {
+      "id": "mkt:019ffb19-d807-7aab-9024-52dcbf3f7e1a",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (YoY) (Jul) | actual 4.7% | consensus 4.9% | previous 5.50%"
+    },
+    {
+      "id": "mkt:019ffb19-d654-7aab-9024-4ab2e5133b9c",
+      "time": "2026-08-13 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Aug.1) | actual 1777000K | consensus 1795000K | previous 1801000K"
+    },
+    {
+      "id": "mkt:019ffb19-d4f4-7aab-9024-415a3040b1c6",
+      "time": "2026-08-13 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Aug.8) | actual 199000K | previous 198750K"
+    },
+    {
+      "id": "mkt:019ffb19-d438-7aab-9024-3b579854c8ce",
+      "time": "2026-08-13 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Aug.8) | actual 209000K | consensus 202000K | previous 199000K"
+    },
     {
       "id": "5039502",
       "time": "2026-08-13 20:27:53",

@@ -1,7 +1,329 @@
 {
-  "updated": "2026-08-13 20:29:09",
-  "count": 15105,
+  "updated": "2026-08-13 20:33:12",
+  "count": 15113,
   "items": [
+    {
+      "id": "mkt:019ffb1c-1ea2-7aab-9024-ca1c2a3fe4c0",
+      "time": "2026-08-13 20:32:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. equity index futures were little changed after the release of economic data."
+    },
+    {
+      "id": "5039511",
+      "time": "2026-08-13 20:32:25",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨在經濟資料公佈後變動極小。"
+    },
+    {
+      "id": "5039509",
+      "time": "2026-08-13 20:32:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，沃爾沃卡車北美公司將召回 1851 輛美國車輛。"
+    },
+    {
+      "id": "5039508",
+      "time": "2026-08-13 20:32:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局 (NHTSA) 報告稱，豐田汽車公司將在美國召回 407 輛汽車。"
+    },
+    {
+      "id": "5039506",
+      "time": "2026-08-13 20:31:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度儲備銀行：2019‑20年度印度主權黃金債券贖回價格為每單位15310印度盧比。"
+    },
+    {
+      "id": "mkt:019ffb1a-ff35-7aab-9024-c1e59f7b2a07",
+      "time": "2026-08-13 20:31:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. July PPI rose 4.7% YoY, the weakest reading since March and below the 4.9% consensus."
+    },
+    {
+      "id": "5039505",
+      "time": "2026-08-13 20:30:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音任命新任拉丁美洲及加勒比地區總裁。"
+    },
+    {
+      "id": "mkt:019ffb1a-a55f-7aab-9024-ba93e9f02744",
+      "time": "2026-08-13 20:30:55",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US July PPI 0.0% MoM, below market expectation of +0.2%."
+    },
+    {
+      "id": "mkt:019ffb1a-76e7-7aab-9024-b50340a9df66",
+      "time": "2026-08-13 20:30:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "US initial jobless claims for the week ending Aug 8 rose to 209,000, the highest since the week of July 11 and above the market estimate of 202,000."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608133840676597",
+      "time": "2026-08-13 20:30:37",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月PPI同比增長4.7% 低於市場預期】美國7月生產者價格指數（PPI）同比增長4.7%，預估為4.9%，前值為5.5%。美國7月PPI環比持平，預估增長0.2%。"
+    },
+    {
+      "id": "5039504",
+      "time": "2026-08-13 20:30:21",
+      "tags": [
+        "資料",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國7月PPI月率 0%，預期0.20%，前值由-0.30%修正為-0.1%。"
+    },
+    {
+      "id": "mkt:019ffb1a-159c-7aab-9024-ac082915d880",
+      "time": "2026-08-13 20:30:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US continuing jobless claims for week ending Aug 1: 1.777 mln, vs. 1.795 mln expected; prior revised from 1.801 mln to 1.799 mln."
+    },
+    {
+      "id": "mkt:019ffb1a-1206-7aab-9024-a7267be6a083",
+      "time": "2026-08-13 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "US core PPI YoY 4.2% in July, matching consensus of 4.2% and down from June's 4.7%."
+    },
+    {
+      "id": "mkt:019ffb1a-0d06-7aab-9024-9839a6ef5cb0",
+      "time": "2026-08-13 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. July PPI MoM 0.00% vs 0.20% expected; June revised from -0.30% to -0.10%."
+    },
+    {
+      "id": "mkt:019ffb1a-0c8c-7aab-9024-90f5ef5d762a",
+      "time": "2026-08-13 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US July PPI YoY 4.7% vs. 4.9% expected; prior 5.5%."
+    },
+    {
+      "id": "mkt:019ffb1a-0c34-7aab-9024-8de5eb0bfb3e",
+      "time": "2026-08-13 20:30:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "US Core PPI (MoM) July +0.2% vs +0.3% expected; June revised up to +0.4% from +0.2%."
+    },
+    {
+      "id": "5039503",
+      "time": "2026-08-13 20:30:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國上週首次申領失業救濟人數為209,000人；預估為202,000人。"
+    },
+    {
+      "id": "mkt:019ffb19-f5fd-7aab-9024-86433c305af7",
+      "time": "2026-08-13 20:30:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US four-week moving average of initial jobless claims for the week to Aug 8: 199,000; prior reading revised from 198,750 to 199,000."
+    },
+    {
+      "id": "mkt:019ffb19-f586-7aab-9024-7d8118b28694",
+      "time": "2026-08-13 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "US initial jobless claims for the week ended Aug. 8 rose to 209,000 versus a forecast of 202,000; the prior week was revised to 200,000 from 199,000."
+    },
+    {
+      "id": "em:jjsj_mgsj:202608133840676446",
+      "time": "2026-08-13 20:30:07",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週首次申領失業救濟人數為20.9萬人，預估為20.2萬人，前值為19.9萬人。"
+    },
+    {
+      "id": "mkt:019ffb19-f222-7aab-9024-7292ab3b168d",
+      "time": "2026-08-13 20:30:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Richmond Fed President Barkin, a 2027 FOMC voting member, is due to speak on the economic outlook in ten minutes."
+    },
+    {
+      "id": "mkt:019ffb19-d911-7aab-9024-6919dd0ecf75",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (MoM) (Jul) | actual 0% | consensus 0.20% | previous -0.30%"
+    },
+    {
+      "id": "mkt:019ffb19-d89a-7aab-9024-6777262e6384",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (MoM) (Jul) | actual 0.2% | consensus 0.30% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019ffb19-d83f-7aab-9024-5b494b40e373",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (YoY) (Jul) | actual 4.2% | consensus 4.2% | previous 4.70%"
+    },
+    {
+      "id": "mkt:019ffb19-d807-7aab-9024-52dcbf3f7e1a",
+      "time": "2026-08-13 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (YoY) (Jul) | actual 4.7% | consensus 4.9% | previous 5.50%"
+    },
+    {
+      "id": "mkt:019ffb19-d654-7aab-9024-4ab2e5133b9c",
+      "time": "2026-08-13 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Aug.1) | actual 1777000K | consensus 1795000K | previous 1801000K"
+    },
+    {
+      "id": "mkt:019ffb19-d4f4-7aab-9024-415a3040b1c6",
+      "time": "2026-08-13 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Aug.8) | actual 199000K | previous 198750K"
+    },
+    {
+      "id": "mkt:019ffb19-d438-7aab-9024-3b579854c8ce",
+      "time": "2026-08-13 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Aug.8) | actual 209000K | consensus 202000K | previous 199000K"
+    },
     {
       "id": "5039502",
       "time": "2026-08-13 20:27:53",
@@ -137755,221 +138077,6 @@
         "國際"
       ],
       "text": "伊頓獲得美國空軍700萬美元合同，將量子計算應用於電網安全領域。"
-    },
-    {
-      "id": "5028953",
-      "time": "2026-08-06 20:32:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皖維高新：擬定增募資不超過23億元用於PVA樹脂及光學薄膜專案】皖維高新公告，擬向控股股東皖維集團發行A股股票，募集資金總額不超過23億元，扣除發行費用後用於20萬噸/年乙烯法功能性聚乙烯醇樹脂專案（擬投入20億元）、年產3000萬平方米高世代面板用聚乙烯醇（PVA）光學薄膜專案（擬投入3億元）。發行構成關聯交易，皖維集團認購股份3年內不得轉讓。方案已獲董事會審議透過，尚需國家出資企業審批同意、股東會審議透過、上交所稽核透過並報中國證監會註冊。"
-    },
-    {
-      "id": "5028952",
-      "time": "2026-08-06 20:32:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "谷歌母公司Alphabet股價盤前下跌0.6%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608063834074049",
-      "time": "2026-08-06 20:31:41",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國上週首次申領失業救濟人數為19.9萬人，預估為20.5萬人，前值為19.7萬人。"
-    },
-    {
-      "id": "5028951",
-      "time": "2026-08-06 20:31:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部出口銷售資料：2025/26年度大豆淨銷售量為32200噸；2026/27年度大豆淨銷售量為903900噸。"
-    },
-    {
-      "id": "5028950",
-      "time": "2026-08-06 20:31:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "Keurig Dr Pepper高管稱，JDE Peet's業務部門第二季度淨銷售額達28億美元，營業收入為4.14億美元。"
-    },
-    {
-      "id": "te:markets:573395",
-      "time": "2026-08-06 20:31:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Muted as Markets Eye Iran Talks — Futures tracking the S&P/TSX Composite Index were little changed on Thursday as investors weighed the prospects of a US-Iran peace deal alongside another round of corporate earnings. Oil prices rose as markets remained cautious over the Iran-Oman talks. Traffic through the Strait of Hormuz and the Bab el-Mandeb Strait fell on Wednesday following Houthi claims of a missile attack on a Saudi oil tanker. Higher oil prices pushed bond yields up, pressuring financial stocks and the broader index. Meanwhile, Canadian Natural beat second-quarter profit estimates, supported by stronger oil and natural gas prices. Lundin Mining reported higher second-quarter revenue late Wednesday. WPM and Sun Life Financial are set to report earnings after the close. At least six brokerages also raised their price targets for Shopify after the company projected third-quarter revenue above expectations."
-    },
-    {
-      "id": "mkt:019fd70e-3fc1-7aab-8fa1-cf01cfb6ab93",
-      "time": "2026-08-06 20:31:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Millennium partners with ANTHROPIC to develop an AI-based risk-analysis tool."
-    },
-    {
-      "id": "mkt:019fd70d-c7d3-7aab-8fa1-c5e18df125e8",
-      "time": "2026-08-06 20:30:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US continuing jobless claims for week ended July 25: 1.801 mln, vs. 1.79 mln expected; prior revised to 1.777 mln from 1.782 mln."
-    },
-    {
-      "id": "mkt:019fd70d-aa97-7aab-8fa1-ba395b514532",
-      "time": "2026-08-06 20:30:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "USDJPY"
-      ],
-      "text": "US four-week moving average of initial jobless claims for week ending Aug 1: 198,750. Prior four-week average revised up from 202,750 to 203,250."
-    },
-    {
-      "id": "5028949",
-      "time": "2026-08-06 20:30:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國至8月1日當週初請失業金人數 19.9萬人，預期20.2萬人，前值由19.7萬人修正為19.8萬人。\n美國至8月1日當週初請失業金人數四周均值 19.875萬人，前值由20.275萬人修正為20.325萬人。\n美國至7月25日當週續請失業金人數 180.1萬人，預期179萬人，前值由178.2萬人修正為177.7萬人。\n美國第二季度非農生產力初值 1.4%，預期0.6%，前值由0.30%修正為0.8%。\n美國第二季度非農單位勞動力成本初值 1.3%，預期2.1%，前值由1.80%修正為1.3%。"
-    },
-    {
-      "id": "mkt:019fd70d-9003-7aab-8fa1-b19f7ca71317",
-      "time": "2026-08-06 20:30:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US initial jobless claims for the week ending Aug 1: 199,000 vs. expected 202,000; prior week revised to 198,000 from 197,000."
-    },
-    {
-      "id": "mkt:019fd70d-8ed2-7aab-8fa1-ad8adcdc9493",
-      "time": "2026-08-06 20:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US Q2 nonfarm unit labor costs preliminary 1.3% vs 2.1% expected; prior 1.80% revised to 1.3%."
-    },
-    {
-      "id": "mkt:019fd70d-8e96-7aab-8fa1-a72cf25e1dfd",
-      "time": "2026-08-06 20:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "U.S. nonfarm productivity preliminary for Q2 1.4% (expected 0.6%); prior revised up from 0.30% to 0.8%."
-    },
-    {
-      "id": "5028948",
-      "time": "2026-08-06 20:30:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行維持關鍵利率在3.75%不變；預計利率為3.75%。"
-    },
-    {
-      "id": "mkt:019fd70d-553a-7aab-8fa1-9f8bb6ad90c9",
-      "time": "2026-08-06 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Unit Labor Costs NonFarm Preliminary (Q2) | actual 1.3% | consensus 2.1% | previous 1.80%"
-    },
-    {
-      "id": "mkt:019fd70d-5536-7aab-8fa1-9373f9c5a006",
-      "time": "2026-08-06 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | NonFarm Labor Productivity Flash (QoQ) (Q2) | actual 1.4% | consensus 0.6% | previous 0.30%"
-    },
-    {
-      "id": "mkt:019fd70d-5534-7aab-8fa1-8e12d2cb6fb3",
-      "time": "2026-08-06 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Continued Jobless Claims (Jul.25) | actual 1801000K | consensus 1790000K | previous 1782000K"
-    },
-    {
-      "id": "mkt:019fd70d-550d-7aab-8fa1-828811cc789e",
-      "time": "2026-08-06 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims 4-Week Average (Aug.1) | actual 198750K | previous 202750K"
-    },
-    {
-      "id": "mkt:019fd70d-5443-7aab-8fa1-7b50d5c41ebd",
-      "time": "2026-08-06 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims (Aug.1) | actual 199000K | consensus 202000K | previous 197000K"
-    },
-    {
-      "id": "5028947",
-      "time": "2026-08-06 20:29:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "康菲石油股價盤前上漲2%；執行長瑞安·蘭斯即將退休。"
     }
   ]
 }
