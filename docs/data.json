@@ -1,7 +1,237 @@
 {
-  "updated": "2026-08-13 23:31:58",
-  "count": 15262,
+  "updated": "2026-08-13 23:35:53",
+  "count": 15266,
   "items": [
+    {
+      "id": "mkt:019ffbc3-5d15-7aab-902a-3a3de2ef05e9",
+      "time": "2026-08-13 23:35:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Industrial tourism market could exceed 300 bln yuan】Seven government departments rolled out policies to support industrial tourism, opening factory-line visits and hands-on experiences. Domestic industrial tourism revenue is projected at 120 bln yuan in 2025, up 10% YoY. A research institute forecasts ~18% annual growth, projecting the market could surpass 300 bln yuan by 2029."
+    },
+    {
+      "id": "mkt:019ffbc3-556c-7aab-902a-346795647bce",
+      "time": "2026-08-13 23:35:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge dismissed the Trump administration's lawsuit alleging Harvard failed to protect Jewish students."
+    },
+    {
+      "id": "5039843",
+      "time": "2026-08-13 23:34:44",
+      "tags": [
+        "公司",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛副董事長稱美聯儲7月未加息絕對正確 或可“拖一拖”觀察更多訊號】高盛集團副董事長、前達拉斯聯儲銀行行長Robert Kaplan表示，美聯儲7月沒有加息“絕對”是正確的決定，並呼籲決策者在9月前保持開放態度。Kaplan認為，當前推升和壓低通脹的力量相互交織，過於僵化的前瞻指引反而可能適得其反。“如果我看到有切實的改善，我可能願意拖一拖，什麼都不做，”Kaplan表示。“但在作出判斷前，我希望充分利用從現在到9月的每一點時間，避免過於僵化或提前確定立場。”"
+    },
+    {
+      "id": "mkt:019ffbc2-b136-7aab-902a-2d6684f7d864",
+      "time": "2026-08-13 23:34:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. 8-week Treasury bill auction on Aug. 13: stop-out yield 3.665%, prior 3.71%."
+    },
+    {
+      "id": "mkt:019ffbc2-83f0-7aab-902a-20fcd804f152",
+      "time": "2026-08-13 23:34:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Aug.13) | actual 3.665% | previous 3.71%"
+    },
+    {
+      "id": "mkt:019ffbc2-8081-7aab-902a-1f57e2300251",
+      "time": "2026-08-13 23:34:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US 8-week Treasury bill auction to Aug 13: percentage allocated at the stop-out yield 36.84% (prior 17.93%)."
+    },
+    {
+      "id": "5039842",
+      "time": "2026-08-13 23:34:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國大使館稱已在墨西哥米卻肯州恢複相關活動。"
+    },
+    {
+      "id": "mkt:019ffbc2-404c-7aab-902a-122127e7f9e7",
+      "time": "2026-08-13 23:33:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 8-week Treasury auction bid-cover ratio 2.85 on Aug 13, versus 2.74 previously."
+    },
+    {
+      "id": "mkt:019ffbc2-0ea6-7aab-902a-0b15343b181e",
+      "time": "2026-08-13 23:33:46",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.85 | previous 2.74"
+    },
+    {
+      "id": "mkt:019ffbc2-0dcb-7aab-902a-07809186d953",
+      "time": "2026-08-13 23:33:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "US 4-week Treasury bill auction for Aug. 13: share of allotment awarded at the stop-out yield 79.23% vs 72.82% prior."
+    },
+    {
+      "id": "mkt:019ffbc1-fcf0-7aab-9029-f8b8a126420d",
+      "time": "2026-08-13 23:33:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 4-week Treasury auction as of Aug. 13, bid-cover ratio 2.77; prior 2.68."
+    },
+    {
+      "id": "mkt:019ffbc1-f3b9-7aab-9029-f45de875bb84",
+      "time": "2026-08-13 23:33:39",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "U.S. 4-week Treasury auction to Aug. 13: stop-out yield 3.625%, prior 3.64%."
+    },
+    {
+      "id": "mkt:019ffbc1-d06a-7aab-9029-ee8c2e4b8f49",
+      "time": "2026-08-13 23:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.13) | actual 2.77 | previous 2.68"
+    },
+    {
+      "id": "mkt:019ffbc1-d04e-7aab-9029-e6bf85a99fb7",
+      "time": "2026-08-13 23:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Aug.13) | actual 79.23% | previous 72.82%"
+    },
+    {
+      "id": "mkt:019ffbc1-d036-7aab-9029-daed74f9572a",
+      "time": "2026-08-13 23:33:30",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Aug.13) | actual 3.625% | previous 3.64%"
+    },
+    {
+      "id": "mkt:019ffbc1-9065-7aab-9029-d5c85994b6dc",
+      "time": "2026-08-13 23:33:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【USS Washington to relieve USS Lincoln in Middle East; lawmakers cite crew fatigue】US officials told the Wall Street Journal the carrier USS Washington will rotate into the Middle East to relieve USS Lincoln under a planned swap. Lincoln has been on an extended deployment since November with few port calls and was redeployed to the region in January ahead of operations against Iran. The carrier and its air wing were central to the US 'Epic of Fury' bombing campaign and later participated in a blockade of Iranian ports. Lawmakers say the sustained high operational tempo and prolonged deployment have strained crew welfare and are pressing the Pentagon for more information on living conditions and mental-health issues."
+    },
+    {
+      "id": "5039841",
+      "time": "2026-08-13 23:33:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【華盛頓號赴中東換防 林肯號艦員身心俱疲遭議員問責】據報道，知情美國官員稱，美國正準備按此前計劃好的輪換方案，派遣“華盛頓”號航空母艦前往中東接替“林肯”號。“林肯”號已執行了漫長的部署任務，停靠港口次數極少，引發國會議員對艦上生活條件的擔憂。“林肯”號於去年11月開始按計劃部署，並於今年1月在對伊開戰前被調往中東。該航母及其搭載的飛機在美國“史詩之怒”轟炸行動中發揮了關鍵作用，此後還參與了美國對伊朗港口的封鎖。據國會議員稱，高強度的作戰節奏和長時間部署帶來的壓力已令艦員不堪重負。他們正向五角大樓施壓，要求提供更多關於艦上生活條件和心理健康問題的資訊。"
+    },
+    {
+      "id": "te:economy:575156",
+      "time": "2026-08-13 23:32:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Consumer Confidence Weakens in July — Colombia’s Consumer Confidence Index fell 3.6 percentage points to 20.7% in July 2026 from 24.3% in June. The decline was driven by a 7.4-point drop in the Economic Conditions Index to 6.4%, while the Consumer Expectations Index fell 1.1 points to 30.3%. The share of respondents expecting “good economic times” over the next 12 months declined to 24.8% from 31.3%. Meanwhile, expectations for an improvement in the national economy rose to 24.3% from 22.5%, while households reported a better outlook for their current financial situation, with the indicator rising to 41.8% from 40.2%. The share of respondents reporting a deterioration in their household’s financial condition fell slightly to 11.1% from 11.5%. Meanwhile, willingness to purchase durable goods slumped to 1.7% from 16.1%."
+    },
+    {
+      "id": "5039840",
+      "time": "2026-08-13 23:32:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國八週期國庫券的投標/承銷比率為2.85，高於上一次拍賣的2.74。"
+    },
+    {
+      "id": "mkt:019ffbc0-4987-7aab-9029-c9ccf8dfc52e",
+      "time": "2026-08-13 23:31:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank of England chief economist Pill said recent UK GDP data make him more confident the economy will avoid a sharp downturn."
+    },
+    {
+      "id": "mkt:019ffbc0-329a-7aab-9029-c1c28701525f",
+      "time": "2026-08-13 23:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "SanDisk (SNDK.O) top executive said Meta Platforms (META.O) will join an industry group to co-develop open standards for high-bandwidth flash (HBF)."
+    },
+    {
+      "id": "5039839",
+      "time": "2026-08-13 23:31:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：新的航空母艦將取代林肯號航母。"
+    },
     {
       "id": "5039838",
       "time": "2026-08-13 23:31:09",
@@ -139469,183 +139699,6 @@
         "市場"
       ],
       "text": "標普 500 指數觸及盤中低點，下跌 0.2%。"
-    },
-    {
-      "id": "5029243",
-      "time": "2026-08-06 23:35:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "當被問及特朗普稱加拿大人“令人厭惡”的言論時，加拿大總理卡尼稱渥太華將堅定維護加拿大企業利益。"
-    },
-    {
-      "id": "5029242",
-      "time": "2026-08-06 23:35:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報81.86美元/桶。"
-    },
-    {
-      "id": "5029241",
-      "time": "2026-08-06 23:34:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國賣出的四周短期國庫券中標收益率為3.640%，為當前最高水平，高收益率價位僅滿足了72.82%的投標需求。"
-    },
-    {
-      "id": "5029240",
-      "time": "2026-08-06 23:33:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國出售八週期國庫券，中標利率創下3.710%的高位，在最高投標價位僅分配了17.93%的投標申請。"
-    },
-    {
-      "id": "5029239",
-      "time": "2026-08-06 23:33:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：加拿大談判代表正在華盛頓與美方對應官員進行詳細會談。"
-    },
-    {
-      "id": "mkt:019fd7b5-6d9d-7aab-8fa4-0ec6c614b3fa",
-      "time": "2026-08-06 23:33:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 4-week Treasury auction on Aug 6 — bid-cover ratio 2.68, prior 2.80."
-    },
-    {
-      "id": "mkt:019fd7b5-6c33-7aab-8fa4-029576db2ba9",
-      "time": "2026-08-06 23:33:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-week Treasury auction on Aug. 6: stop-out yield 3.64%, prior 3.63%."
-    },
-    {
-      "id": "mkt:019fd7b5-6b76-7aab-8fa3-f80e09bd0651",
-      "time": "2026-08-06 23:33:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 4-week Treasury auction on Aug. 6: 72.82% of accepted awards allocated at the stop-out yield, up from 50.42% previously."
-    },
-    {
-      "id": "mkt:019fd7b5-4bbc-7aab-8fa3-e61daafc4c76",
-      "time": "2026-08-06 23:33:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Accepted at High (Aug.6) | actual 3.64% | previous 3.63%"
-    },
-    {
-      "id": "mkt:019fd7b5-4bc6-7aab-8fa3-ef8d63dbaa7d",
-      "time": "2026-08-06 23:33:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Aug.6) | actual 2.68 | previous 2.8"
-    },
-    {
-      "id": "mkt:019fd7b5-4bd0-7aab-8fa3-f7c11ef93a8d",
-      "time": "2026-08-06 23:33:30",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction High Yield Rate (Aug.6) | actual 72.82% | previous 50.42%"
-    },
-    {
-      "id": "mkt:019fd7b5-3cd9-7aab-8fa3-da29e734f16b",
-      "time": "2026-08-06 23:33:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 8-week Treasury bill auction on Aug. 6: stop-out yield 3.71%, prior 3.675%."
-    },
-    {
-      "id": "mkt:019fd7b5-0d03-7aab-8fa3-d1762c049a05",
-      "time": "2026-08-06 23:33:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction High Yield Rate (Aug.6) | actual 3.71% | previous 3.675%"
-    },
-    {
-      "id": "mkt:019fd7b5-04e2-7aab-8fa3-cf77eb8fb9df",
-      "time": "2026-08-06 23:33:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 8-week Treasury auction to Aug. 6: bid-cover ratio 2.74, prior 2.74."
-    },
-    {
-      "id": "5029238",
-      "time": "2026-08-06 23:33:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼稱上週與特朗普通話，必要時將再次溝通。"
-    },
-    {
-      "id": "mkt:019fd7b4-dc9c-7aab-8fa3-c5a2c699e55e",
-      "time": "2026-08-06 23:33:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Aug.6) | actual 2.74 | previous 2.74"
-    },
-    {
-      "id": "mkt:019fd7b4-cc01-7aab-8fa3-bfd6d8482a4a",
-      "time": "2026-08-06 23:32:57",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 8-week Treasury auction on Aug. 6: percentage allocated at the stop-out yield 17.93%, prior 19.59%."
-    },
-    {
-      "id": "5029237",
-      "time": "2026-08-06 23:32:42",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四周期國債，得標利率3.640%，投標倍數2.68。拍賣八週期國債，得標利率3.710%，投標倍數2.74。"
     }
   ]
 }
