@@ -1,7 +1,112 @@
 {
   "date": "2026-08-13",
-  "count": 2569,
+  "count": 2581,
   "items": [
+    {
+      "id": "te:markets:575134",
+      "time": "2026-08-13 22:13:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "South African Rand Hovers at 5-Month High — The South African rand traded around 16.1 per US dollar, holding close to its highest since early March, as softer US economic data strengthened expectations of a Fed pause and weakened the dollar. This encouraged demand for higher-yielding emerging-market assets, supporting the rand, while lower oil prices also eased inflation concerns. The curency has been recovering since hitting a three-month low against the dollar following the SARB’s surprise rate hold on July 23. Meanwhile, persistent Middle East tensions remained a source of market uncertainty."
+    },
+    {
+      "id": "5039718",
+      "time": "2026-08-13 22:12:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Databricks完成50億美元融資，估值達1900億美元。"
+    },
+    {
+      "id": "te:economy:575133",
+      "time": "2026-08-13 22:12:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Brazil Industrial Confidence Improves in August — Brazil’s Industrial Business Confidence Index rose 1.9 points to 46.3 in August 2026 from 44.4 in July, ending a two-month streak of consecutive declines. Despite the improvement, the index remained below the 50-point threshold, marking the 20th consecutive month of lack of confidence. The Current Conditions Index rose 1.1 points to 42.7 as negative assessments became less intense and widespread. The improvement reflected better assessments of Brazil’s current economic conditions, which rose 1.9 points to 36.6, and companies’ own conditions, which increased 0.6 point to 45.7. The Expectations Index rose 2.3 points to 48.1, recovering part of the 3.1-point decline recorded in July and indicating that expectations for the next six months remained negative, although pessimism eased. Expectations for the Brazilian economy rose 2.5 points to 39.7, while expectations for companies’ own businesses increased 2.2 points to 52.3, signaling a return to optimism."
+    },
+    {
+      "id": "mkt:019ffb77-fb07-7aab-9027-ab107ae2069f",
+      "time": "2026-08-13 22:12:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Databricks completed a $5 billion financing, valuing the company at $190 billion."
+    },
+    {
+      "id": "5039717",
+      "time": "2026-08-13 22:12:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貢沃爾集團稱鹿特丹港發生事故致一人死亡】當地有關部門訊息，週四，貢沃爾集團位於荷蘭鹿特丹港的一處作業場地發生爆炸，造成一人死亡。貢沃爾集團表示，事故發生於當地時間上午 11 時，另有六人受傷。該集團稱，現場已完成管控，調查工作已經啟動。港口管理部門與警方證實發生了爆炸。"
+    },
+    {
+      "id": "5039716",
+      "time": "2026-08-13 22:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "8月13日，全球基金淨賣出51.1億印度盧比的印度股票。"
+    },
+    {
+      "id": "5039715",
+      "time": "2026-08-13 22:11:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至2026年8月7日，巴基斯坦外匯儲備為171億美元。"
+    },
+    {
+      "id": "mkt:019ffb76-9a78-7aab-9027-a0e6db54cd78",
+      "time": "2026-08-13 22:11:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filing shows Hunan Junxin Environmental Protection Co. has filed an application to list."
+    },
+    {
+      "id": "5039714",
+      "time": "2026-08-13 22:11:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱打死一名哈馬斯下屬軍事武裝成員】當地時間13日，以色列國防軍證實，當天早些時候，以軍在加沙地帶汗尤尼斯發動空襲，打死一名巴勒斯坦伊斯蘭抵抗運動（哈馬斯）下屬軍事武裝的連長。以軍稱，該人員計劃襲擊在加沙地帶作戰的以軍部隊。哈馬斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5039713",
+      "time": "2026-08-13 22:11:04",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院已成立專項工作組打擊生育旅遊。"
+    },
+    {
+      "id": "5039712",
+      "time": "2026-08-13 22:10:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債價格上漲，英國10年期國債收益率下跌5個基點至4.92%。"
+    },
+    {
+      "id": "5039711",
+      "time": "2026-08-13 22:10:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團AI安全助手“團寶”上線，騎手希望最佳化反饋功能】美團騎手安全產品負責人介紹，在去年舉辦的多場騎手懇談會上，有不少騎手關注安全出行產品升級需求。基於此，美團面向騎手推出AI安全助手“團寶”，搭載交通安全地圖功能同步上線，為騎手提供等燈提示、事故多發路段提示、智慧速度提醒、逆行識別等功能。例如，對過去騎手無法主動檢視身邊的風險路段，安全地圖支援查詢“事故多發路段”“非機動車禁行路段”和“違章高發路段”。當騎手經過風險路段或出現風險行為時，該功能會主動彈出預警提醒安全駕駛。此外，“團寶”還可透過圖片導航幫騎手快速找到商家門面、入口位置、樓層資訊等，減少末端兜圈時間。（第一財經）"
+    },
     {
       "id": "5039710",
       "time": "2026-08-13 22:08:21",
