@@ -1,7 +1,183 @@
 {
-  "updated": "2026-08-13 16:00:27",
-  "count": 15107,
+  "updated": "2026-08-13 16:04:27",
+  "count": 15117,
   "items": [
+    {
+      "id": "5038895",
+      "time": "2026-08-13 16:03:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4422.82美元/盎司。"
+    },
+    {
+      "id": "5038894",
+      "time": "2026-08-13 16:02:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠色動力：擬500萬元成立天台綠動環保能源有限公司】綠色動力公告稱，公司第五屆董事會第二十五次會議審議透過《關於成立天台綠動環保能源有限公司的議案》。為實施浙江省天台縣生活垃圾焚燒發電及飛灰填埋場運維服務專案，公司擬成立天台綠動環保能源有限公司，註冊資本500萬元，由公司全額出資。"
+    },
+    {
+      "id": "te:markets:575010",
+      "time": "2026-08-13 16:01:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rises to Fresh Highs — The DAX 40 edged higher to fresh record levels around 26,460 on Thursday, following losses in the prior day, led by gains in banks, utilities and industrials. Oil prices moved lower despite geopolitical uncertainty, providing some relief from concerns over energy supply disruptions and inflation. Meanwhile, investors eyed more corporate earnings and economic data."
+    },
+    {
+      "id": "5038893",
+      "time": "2026-08-13 16:01:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股盤前，Coherent跌約4%，Cerebras跌約17%，思科跌約4%】美股盤前，”光通訊巨頭”Coherent跌約4%，儘管公司業績與指引全面超越市場預期，短期獲利了結壓力導致股價仍遭拋壓。AI晶片公司Cerebras跌約17%，公司第二季度硬體營收意外下滑，“挑戰英偉達”之路遇需求波動。思科跌約4%，公司上季營收創紀錄，AI訂單爆發，但全年AI營收預測令市場失望。"
+    },
+    {
+      "id": "mkt:019ffa24-0a91-7aab-901e-38a10299a5e5",
+      "time": "2026-08-13 16:01:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NORWAY C.BANK said inflation slowed this summer and came in below expectations; the bank described the slowdown as positive."
+    },
+    {
+      "id": "5038892",
+      "time": "2026-08-13 16:01:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鋅庫存減少2800噸，鎳庫存減少12噸，錫庫存減少55噸，鉛庫存減少2700噸，銅庫存減少4400噸，鋁庫存減少1700噸。"
+    },
+    {
+      "id": "5038891",
+      "time": "2026-08-13 16:01:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數下跌，好未來漲2%】美股中概股盤前多數下跌，好未來漲2%，百度漲0.7%，攜程跌0.9%，京東、理想汽車、網易跌1%，嗶哩嗶哩、貝殼跌2%。"
+    },
+    {
+      "id": "5038890",
+      "time": "2026-08-13 16:01:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數上漲，SK海力士跌0.8%】美股大型科技股盤前多數上漲，SpaceX漲0.4%，Meta、亞馬遜、美光科技、谷歌A漲0.2%，蘋果漲0.1%，特斯拉、英偉達持平，微軟跌0.4%，SK海力士跌0.8%。"
+    },
+    {
+      "id": "mkt:019ffa23-a0a8-7aab-901e-32b1967ff130",
+      "time": "2026-08-13 16:01:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Norges Bank: inf remains too high; it is too early to conclude the inf outlook has changed materially, so further policy rate increases may still be needed."
+    },
+    {
+      "id": "mkt:019ffa23-9d8d-7aab-901e-2d042b0c61d4",
+      "time": "2026-08-13 16:01:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "LME stocks fell: zinc down 2,800 tonnes, nickel down 12 tonnes, tin down 55 tonnes, lead down 2,700 tonnes, copper down 4,400 tonnes, aluminium down 1,700 tonnes."
+    },
+    {
+      "id": "mkt:019ffa23-41ca-7aab-901e-213af845c6a1",
+      "time": "2026-08-13 16:00:42",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk CEO said conditions are in place for a full return to the Suez Canal in 2026."
+    },
+    {
+      "id": "5038889",
+      "time": "2026-08-13 16:00:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "挪威央行：今夏通脹已放緩，且低於此前預期。通脹放緩是利好訊息。"
+    },
+    {
+      "id": "5038888",
+      "time": "2026-08-13 16:00:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "挪威央行：通脹水平仍居高不下，現在斷定通脹前景已發生實質性變化還為時過早，因此仍有必要上調政策利率。"
+    },
+    {
+      "id": "5038887",
+      "time": "2026-08-13 16:00:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基執行長：我認為，2026年全面恢復蘇伊士運河通航的條件已經成熟。"
+    },
+    {
+      "id": "5038886",
+      "time": "2026-08-13 16:00:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【推動公平競爭審查制度落實落地 市場監管總局公佈十起典型案例】記者今天（13日）從市場監管總局瞭解到，《公平競爭審查條例》正式施行以來，各地市場監管部門深入推動公平競爭審查制度落實落地，因地制宜完善配套制度，健全工作機制，加強審查人員隊伍建設，建立跨區域工作機制，探索數字化智慧審查，積累了一批好經驗、好做法。現公佈十起“貫徹落實公平競爭審查制度 縱深推進全國統一大市場建設”典型案例。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ffa22-c70d-7aab-901e-1dd59271f90c",
+      "time": "2026-08-13 16:00:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Norges Bank policy rate decision on Aug 13: 4.25% (expected 4.25%, prior 4.25%)."
+    },
+    {
+      "id": "5038885",
+      "time": "2026-08-13 16:00:09",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "挪威央行維持基準利率在4.25%不變；預計利率為4.25%。"
+    },
+    {
+      "id": "te:markets:575007",
+      "time": "2026-08-13 16:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Drops by 3.25% — Top commodity losers are Natural Gas EU (-3.25%), Natural Gas UK (-2.96%), Heating Oil (-2.03%), Crude Oil WTI (-1.31%) and Brent Crude Oil (-1.26%)."
+    },
+    {
+      "id": "mkt:019ffa22-9ee8-7aab-901e-13cd9d564e99",
+      "time": "2026-08-13 16:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Norway | Norges Bank Interest Rate Decision (Aug.13) | actual 4.25% | consensus 4.25% | previous 4.25%"
+    },
     {
       "id": "mkt:019ffa22-24eb-7aab-901e-08a9b9195f0c",
       "time": "2026-08-13 15:59:29",
@@ -137871,87 +138047,6 @@
         "國際"
       ],
       "text": "以色列國防軍發言人：昨晚，以色列國防軍部隊在接到有關以色列平民縱火和襲擊巴勒斯坦人的報告後，進入猶大分割槽圖瓦村地區。 幾名巴勒斯坦人受傷，包括一名女孩和一名婦女。"
-    },
-    {
-      "id": "5028286",
-      "time": "2026-08-06 16:03:44",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國散戶轉投美國高倍槓桿ETF】韓國政府加強對單股槓桿交易所交易基金（ETF）的投資監管後，韓國投資者資金正在快速轉向美國槓桿ETF。7月15日-8月4日同期，韓國投資者海外股票淨買入金額排名第一的是美國基金SOXL（Direxion Daily Semiconductor Bull 3X），淨買入額達到24.8789億美元。特斯拉兩倍槓桿ETF（TSLL）淨買入金額為2.1436億美元，排名第六。韓國股市三倍槓桿ETF（KORU）也獲得1.3095億美元資金流入，排名第十一。韓國證券存管所運營的入口網站SEIBro的資料也顯示，韓國KOSPI指數於6月轉跌後，當月韓國散戶投資者淨買入了價值6.33億美元的美國ETF。7月跌勢加劇後，投資者更是淨買入了價值46.7億美元的美國股票，創下今年1月（50億美元）以來最大的單月淨買入額。"
-    },
-    {
-      "id": "5028285",
-      "time": "2026-08-06 16:02:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：錫庫存減少55噸，鋅庫存減少975噸，鉛庫存減少3125噸，銅庫存減少5175噸，鋁庫存減少1500噸，鎳庫存減少336噸。"
-    },
-    {
-      "id": "te:markets:573325",
-      "time": "2026-08-06 16:01:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Hit New Record Peak — The CAC 40 rose 0.9% to 8,721 on Thursday, extending its winning streak to six consecutive sessions and reaching a new record high as investors continued to welcome a fresh round of corporate earnings and developments in US-Iran diplomatic efforts. Market sentiment improved after Iran said it had reached an agreement with Oman on a proposed shipping route through the Strait of Hormuz, fueling expectations that the critical waterway could eventually reopen. Luxury stocks led the advance, with LVMH rising 1.2%, Hermès gaining 3.9%, and Kering adding 2.5%. Other notable gainers included L'Oréal (2.1%), AXA (1.1%), EssilorLuxottica (2.2%), and Publicis Groupe (3.5%). On the economic front, the Construction PMI rose to a five-month high of 41.5 in July 2026 from 38.2 in the previous month. Meanwhile, private-sector payroll employment fell by 0.1% quarter-on-quarter, or 19,300 jobs, to 21 million in the second quarter, in line with expectations and unchanged from the previous quarter."
-    },
-    {
-      "id": "5028284",
-      "time": "2026-08-06 16:01:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前漲跌互現，SK海力士跌5%】美股大型科技股盤前漲跌互現，SpaceX漲1%，蘋果漲0.8%，谷歌A漲0.5%，亞馬遜漲0.1%，Meta、特斯拉、英偉達持平，微軟跌0.3%，美光科技跌2%，SK海力士跌5%。"
-    },
-    {
-      "id": "5028283",
-      "time": "2026-08-06 16:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股中概股盤前漲跌互現，百度跌1%】美股中概股盤前漲跌互現，嗶哩嗶哩漲1%，網易漲0.7%，百濟神州漲0.6%，京東跌0.6%，拼多多跌0.9%，理想汽車、百度、阿里巴巴跌1%。"
-    },
-    {
-      "id": "5028282",
-      "time": "2026-08-06 16:01:17",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "土耳其央行透過傳統方式開展1週期黃金兌里拉賣方掉期拍賣，拍賣規模為5噸。"
-    },
-    {
-      "id": "5028281",
-      "time": "2026-08-06 16:01:01",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500 E-迷你股指期貨上漲0.1%，納斯達克100股指期貨下跌0.3%，道指期貨上漲0.2%。"
-    },
-    {
-      "id": "5028280",
-      "time": "2026-08-06 16:00:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股儲存板塊盤前集體走低 閃迪跌超8%】美股儲存板塊盤前集體走低。閃迪跌超8%，公司給出下一財季的營收指引區間為103億至108億美元，不及市場預期。西部資料近12%，SK海力士跌近6%，美光科技跌近3%。"
-    },
-    {
-      "id": "5028279",
-      "time": "2026-08-06 16:00:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國對俄羅斯制裁新增13項指定和6項具體規定。"
     }
   ]
 }
