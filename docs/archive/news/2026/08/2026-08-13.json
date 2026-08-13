@@ -1,7 +1,127 @@
 {
   "date": "2026-08-13",
-  "count": 984,
+  "count": 998,
   "items": [
+    {
+      "id": "mkt:019ff9b0-7694-7aab-9019-941166d5d904",
+      "time": "2026-08-13 13:55:19",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk said earnings growth was driven by higher ocean freight volumes and rising spot rates, supported by strong market demand."
+    },
+    {
+      "id": "mkt:019ff9b0-376f-7aab-9019-8dc61aa64cf1",
+      "time": "2026-08-13 13:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk reported Q2 revenue of $15.757 bln, versus market expectations of $13.868 bln."
+    },
+    {
+      "id": "mkt:019ff9af-c95f-7aab-9019-85042337fcc4",
+      "time": "2026-08-13 13:54:34",
+      "tags": [
+        "MKT News",
+        "MAERSK-A.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk says it must continue investing in critical trade infrastructure and scale up operations."
+    },
+    {
+      "id": "5038674",
+      "time": "2026-08-13 13:54:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：必須繼續投資關鍵貿易基礎設施並擴大規模。"
+    },
+    {
+      "id": "mkt:019ff9af-77f3-7aab-9019-78fa5f56c7ef",
+      "time": "2026-08-13 13:54:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk said multiple regions are facing increasingly severe congestion and transport disruptions from ports to inland logistics."
+    },
+    {
+      "id": "5038673",
+      "time": "2026-08-13 13:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基二季度營收157.6億美元，預估141億美元。"
+    },
+    {
+      "id": "mkt:019ff9af-3511-7aab-9019-75b88ba67da0",
+      "time": "2026-08-13 13:53:56",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk now expects 2026 free cash flow to exceed $0, versus prior guidance for at least a $1.5 billion decline."
+    },
+    {
+      "id": "5038672",
+      "time": "2026-08-13 13:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基第二季度息稅前利潤為15.7億美元，高於預期5.442億美元。"
+    },
+    {
+      "id": "mkt:019ff9ae-8e6a-7aab-9019-6d0ebb9e8149",
+      "time": "2026-08-13 13:53:14",
+      "tags": [
+        "MKT News",
+        "MAERSK-A.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk raised its fiscal 2026 guidance, now forecasting core EBITDA of $10.5–12.5bn (previously $8–10bn) and underlying EBIT of $4.5–6.5bn (previously $2–4bn)."
+    },
+    {
+      "id": "5038671",
+      "time": "2026-08-13 13:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基目前預計本財年基本息稅前利潤為45億至65億美元，此前預期為20億至40億美元。"
+    },
+    {
+      "id": "5038670",
+      "time": "2026-08-13 13:52:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯7月消費者價格指數同比上漲1.8%。"
+    },
+    {
+      "id": "5038669",
+      "time": "2026-08-13 13:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基仍預計本財年全球集裝箱貿易增長約4%。"
+    },
+    {
+      "id": "5038668",
+      "time": "2026-08-13 13:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：上調2026財年業績預期，目前預計本財年基本息稅折舊攤銷前利潤（EBITDA）為105億美元至125億美元，此前預期為92.7億美元。"
+    },
+    {
+      "id": "mkt:019ff9ad-2f90-7aab-9019-63f322ae9d64",
+      "time": "2026-08-13 13:51:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Society of Indian Automobile Manufacturers (SIAM) said a document mistakenly sent to the government has been withdrawn and was intended only for internal discussion and review."
+    },
     {
       "id": "mkt:019ff9ac-f58c-7aab-9019-58dcdf570d86",
       "time": "2026-08-13 13:51:29",

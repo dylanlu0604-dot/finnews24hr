@@ -1,7 +1,127 @@
 {
-  "updated": "2026-08-13 13:52:04",
-  "count": 14981,
+  "updated": "2026-08-13 13:56:06",
+  "count": 14991,
   "items": [
+    {
+      "id": "mkt:019ff9b0-7694-7aab-9019-941166d5d904",
+      "time": "2026-08-13 13:55:19",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk said earnings growth was driven by higher ocean freight volumes and rising spot rates, supported by strong market demand."
+    },
+    {
+      "id": "mkt:019ff9b0-376f-7aab-9019-8dc61aa64cf1",
+      "time": "2026-08-13 13:55:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk reported Q2 revenue of $15.757 bln, versus market expectations of $13.868 bln."
+    },
+    {
+      "id": "mkt:019ff9af-c95f-7aab-9019-85042337fcc4",
+      "time": "2026-08-13 13:54:34",
+      "tags": [
+        "MKT News",
+        "MAERSK-A.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk says it must continue investing in critical trade infrastructure and scale up operations."
+    },
+    {
+      "id": "5038674",
+      "time": "2026-08-13 13:54:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：必須繼續投資關鍵貿易基礎設施並擴大規模。"
+    },
+    {
+      "id": "mkt:019ff9af-77f3-7aab-9019-78fa5f56c7ef",
+      "time": "2026-08-13 13:54:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk said multiple regions are facing increasingly severe congestion and transport disruptions from ports to inland logistics."
+    },
+    {
+      "id": "5038673",
+      "time": "2026-08-13 13:53:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基二季度營收157.6億美元，預估141億美元。"
+    },
+    {
+      "id": "mkt:019ff9af-3511-7aab-9019-75b88ba67da0",
+      "time": "2026-08-13 13:53:56",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk now expects 2026 free cash flow to exceed $0, versus prior guidance for at least a $1.5 billion decline."
+    },
+    {
+      "id": "5038672",
+      "time": "2026-08-13 13:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基第二季度息稅前利潤為15.7億美元，高於預期5.442億美元。"
+    },
+    {
+      "id": "mkt:019ff9ae-8e6a-7aab-9019-6d0ebb9e8149",
+      "time": "2026-08-13 13:53:14",
+      "tags": [
+        "MKT News",
+        "MAERSK-A.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk raised its fiscal 2026 guidance, now forecasting core EBITDA of $10.5–12.5bn (previously $8–10bn) and underlying EBIT of $4.5–6.5bn (previously $2–4bn)."
+    },
+    {
+      "id": "5038671",
+      "time": "2026-08-13 13:52:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基目前預計本財年基本息稅前利潤為45億至65億美元，此前預期為20億至40億美元。"
+    },
+    {
+      "id": "5038670",
+      "time": "2026-08-13 13:52:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯7月消費者價格指數同比上漲1.8%。"
+    },
+    {
+      "id": "5038669",
+      "time": "2026-08-13 13:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基仍預計本財年全球集裝箱貿易增長約4%。"
+    },
+    {
+      "id": "5038668",
+      "time": "2026-08-13 13:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：上調2026財年業績預期，目前預計本財年基本息稅折舊攤銷前利潤（EBITDA）為105億美元至125億美元，此前預期為92.7億美元。"
+    },
+    {
+      "id": "mkt:019ff9ad-2f90-7aab-9019-63f322ae9d64",
+      "time": "2026-08-13 13:51:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Society of Indian Automobile Manufacturers (SIAM) said a document mistakenly sent to the government has been withdrawn and was intended only for internal discussion and review."
+    },
     {
       "id": "mkt:019ff9ac-f58c-7aab-9019-58dcdf570d86",
       "time": "2026-08-13 13:51:29",
@@ -136588,39 +136708,6 @@
         "Important"
       ],
       "text": "Germany | Manufacturing Orders (Seasonally Adjusted) (MoM) (Jun) | actual 3.1% | consensus 0.3% | previous 1.90%"
-    },
-    {
-      "id": "mkt:019fd5a3-d95e-7aab-8f9a-b78a6bd7cec8",
-      "time": "2026-08-06 13:55:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share coal sector staged an intraday rally. Huaibei Mining and Pingmei Co. hit the daily up-limit; Yankuang Energy rose over 9%; Jinkong Coal and Lu'an Environmental Energy gained more than 7%; China Coal Energy advanced over 6%."
-    },
-    {
-      "id": "5028073",
-      "time": "2026-08-06 13:54:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "兆易創新A股成交額超200億元，現跌1.7%。"
-    },
-    {
-      "id": "5028072",
-      "time": "2026-08-06 13:53:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭板塊持續走高 淮北礦業封漲停】午後煤炭板塊持續走高，淮北礦業封漲停，此前昊華能源、大有能源漲停，兗礦能源、晉控煤業、平煤股份、潞安環能、中煤能源均漲超5%。"
-    },
-    {
-      "id": "5028071",
-      "time": "2026-08-06 13:52:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【標普確認澳大利亞AAA評級，展望穩定】標普確認澳大利亞長期外幣債務評級為AAA，展望穩定，並確認澳大利亞短期主權信用評級為“A-1+”。標普表示，澳大利亞計劃提高房產稅並採取節支措施，應有助於緩解不斷加劇的結構性支出壓力。澳大利亞評級受益於其健全的制度框架和穩健的財政指標、富裕且多元化的經濟以及靈活的貨幣政策。外債水平較高，但正逐步改善。長期評級的穩定展望反映出我們預期未來兩年政府赤字和淨債務將保持在適度水平。"
     }
   ]
 }
