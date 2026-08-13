@@ -1,7 +1,43 @@
 {
   "date": "2026-08-14",
-  "count": 91,
+  "count": 95,
   "items": [
+    {
+      "id": "5039917",
+      "time": "2026-08-14 01:08:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。"
+    },
+    {
+      "id": "mkt:019ffc17-c526-7aab-902b-9234d06e21c1",
+      "time": "2026-08-14 01:07:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) says Gemini Spark will use Gemini 3.7 Flash effective today."
+    },
+    {
+      "id": "5039916",
+      "time": "2026-08-14 01:06:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國食品藥品監督管理局授予藥物緊急使用授權，用於治療犬類新世界螺旋蠅感染。"
+    },
+    {
+      "id": "5039915",
+      "time": "2026-08-14 01:06:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。"
+    },
     {
       "id": "mkt:019ffc15-4bcb-7aab-902b-8c28313dc3b8",
       "time": "2026-08-14 01:04:41",
