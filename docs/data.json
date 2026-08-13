@@ -1,7 +1,37 @@
 {
-  "updated": "2026-08-14 04:49:51",
-  "count": 15423,
+  "updated": "2026-08-14 04:53:44",
+  "count": 15424,
   "items": [
+    {
+      "id": "5040042",
+      "time": "2026-08-14 04:53:03",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "週四（8月13日）紐約尾盤，現貨黃金跌1.34%，報4350.20美元/盎司。現貨白銀跌1.43%，報64.427美元/盎司，日內震盪下行，交投於66.303-64.219美元。COMEX銅期貨跌0.35%，報6.5326美元/磅，盤中一度走V收復跌幅，美PPI資料後較日高回落收跌。"
+    },
+    {
+      "id": "mkt:019ffce3-1d74-7aab-902e-072548e48bca",
+      "time": "2026-08-14 04:49:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran set its September Asian selling price for Iranian Light crude at a $4.70/bbl discount to the Oman/Dubai benchmark."
+    },
+    {
+      "id": "5040041",
+      "time": "2026-08-14 04:49:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗將 9 月銷往亞洲的伊朗輕質原油定價定為阿曼 / 迪拜原油貼水 4.70 美元 / 桶。"
+    },
     {
       "id": "te:economy:575187",
       "time": "2026-08-14 04:47:47",
@@ -141166,26 +141196,6 @@
         "Importance 1"
       ],
       "text": "Mexican Peso Gains After Banxico Meeting — The Mexican peso strengthened to 17.21 per USD from the near four-month low of 17.60 reached on July 24th after Banxico kept its benchmark interest rate unchanged at 6.50% and signaled that it expects to maintain the current policy stance. The central bank held rates steady for a second consecutive meeting as policymakers balanced falling headline inflation and weaker economic activity against persistent services inflation and risks from the Middle East conflict. Banxico reiterated that future decisions will depend on incoming data and highlighted uncertainty surrounding geopolitical tensions and global trade policies. The peso continued to benefit from a wide interest rate differential, with Mexico's policy rate at 6.50% compared with the Federal Reserve's 3.50%-3.75% target range."
-    },
-    {
-      "id": "5029561",
-      "time": "2026-08-07 04:51:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普簽署針對出生公民權的行政令 將嚴厲打擊“生育旅遊”】當地時間8月6日，美國總統特朗普在白宮簽署兩項行政令，重點打擊商業化“生育旅遊”，並進一步限制部分在美國出生兒童自動獲得公民身份的範圍。\n特朗普表示，政府將對透過酒店等機構組織赴美生子的“生育旅遊”產業展開更大規模、更強力的執法行動。\n特朗普稱，出生公民權制度長期被濫用，“生育旅遊”已經發展成一門生意。他聲稱，每年可能有“數十萬人”透過相關方式讓子女取得美國公民身份，並舉例稱，有人曾以家庭名義攜帶數十名兒童參與相關安排。\n特朗普還表示，此前最高法院對其限制出生公民權的政策作出“不公平”裁決，因此政府正透過新的方式推進限制措施。他認為最新行政令符合憲法，並稱政府將結束利用商業化“生育旅遊”獲取美國公民身份的做法。\n這是特朗普第二次試圖收緊出生公民權，預計仍將面臨憲法層面的法律挑戰。美國最高法院今年6月30日曾否決特朗普此前更廣泛限制非公民子女出生公民權的行政令。（央視新聞）"
-    },
-    {
-      "id": "te:markets:573493",
-      "time": "2026-08-07 04:49:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Microchip Technology earnings above expectations at 0.76 USD — Microchip Technology (MCHP) released earnings per share at 0.76 USD, compared to market expectations of 0.70 USD."
     }
   ]
 }

@@ -1,7 +1,37 @@
 {
   "date": "2026-08-14",
-  "count": 307,
+  "count": 310,
   "items": [
+    {
+      "id": "5040042",
+      "time": "2026-08-14 04:53:03",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "週四（8月13日）紐約尾盤，現貨黃金跌1.34%，報4350.20美元/盎司。現貨白銀跌1.43%，報64.427美元/盎司，日內震盪下行，交投於66.303-64.219美元。COMEX銅期貨跌0.35%，報6.5326美元/磅，盤中一度走V收復跌幅，美PPI資料後較日高回落收跌。"
+    },
+    {
+      "id": "mkt:019ffce3-1d74-7aab-902e-072548e48bca",
+      "time": "2026-08-14 04:49:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran set its September Asian selling price for Iranian Light crude at a $4.70/bbl discount to the Oman/Dubai benchmark."
+    },
+    {
+      "id": "5040041",
+      "time": "2026-08-14 04:49:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗將 9 月銷往亞洲的伊朗輕質原油定價定為阿曼 / 迪拜原油貼水 4.70 美元 / 桶。"
+    },
     {
       "id": "te:economy:575187",
       "time": "2026-08-14 04:47:47",
