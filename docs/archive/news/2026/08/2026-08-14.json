@@ -1,7 +1,144 @@
 {
   "date": "2026-08-14",
-  "count": 78,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019ffc15-4bcb-7aab-902b-8c28313dc3b8",
+      "time": "2026-08-14 01:04:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 30-year Treasury auction on Aug. 13 — stop-out yield 5.216%, previous 5.058%."
+    },
+    {
+      "id": "mkt:019ffc15-2342-7aab-902b-83cd6e4b3e41",
+      "time": "2026-08-14 01:04:31",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction High Yield Rate (Aug.13) | actual 5.216% | previous 5.058%"
+    },
+    {
+      "id": "mkt:019ffc15-17b8-7aab-902b-7dfaf416020a",
+      "time": "2026-08-14 01:04:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 30-year Treasury auction as of Aug 13 — share of allotment at the stop-out (winning) yield 5.216%, prior 7.13%."
+    },
+    {
+      "id": "mkt:019ffc14-e1cb-7aab-902b-74cb2c687d4c",
+      "time": "2026-08-14 01:04:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bond Auction Accepted at High (Aug.13) | actual 5.216% | previous 7.13%"
+    },
+    {
+      "id": "mkt:019ffc14-d0f6-7aab-902b-69bc144c6f90",
+      "time": "2026-08-14 01:04:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "U.S. 30-year Treasury auction on Aug. 13: bid-cover ratio 2.39, prior 2.44."
+    },
+    {
+      "id": "mkt:019ffc14-a901-7aab-902b-672427ff3d24",
+      "time": "2026-08-14 01:04:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 30-Year Bid/Cover Ratio (Aug.13) | actual 2.39 | previous 2.44"
+    },
+    {
+      "id": "5039914",
+      "time": "2026-08-14 01:03:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：CEREBRAS因與OPENAI合作而減少損失。"
+    },
+    {
+      "id": "mkt:019ffc14-2278-7aab-902b-5b1aeb5da557",
+      "time": "2026-08-14 01:03:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve: Seasonally adjusted outstanding U.S. commercial paper rose $1.6bn in the week to Aug 12; not seasonally adjusted balance fell $110m. Outstanding foreign financial commercial paper rose $10.9bn in the same week."
+    },
+    {
+      "id": "5039913",
+      "time": "2026-08-14 01:03:04",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國30年期國債拍賣收益率創2001年以來新高。"
+    },
+    {
+      "id": "5039912",
+      "time": "2026-08-14 01:02:36",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國30年期國債收益率下降5.216%，低於預售時的5.212%。"
+    },
+    {
+      "id": "5039911",
+      "time": "2026-08-14 01:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic首席財務官的相關會議並未涉及估值談判。"
+    },
+    {
+      "id": "5039910",
+      "time": "2026-08-14 01:01:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客戶群體開放有限預覽。"
+    },
+    {
+      "id": "mkt:019ffc12-62e6-7aab-902b-52f44b781507",
+      "time": "2026-08-14 01:01:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) to offer GEMINI 3.7 Flash at limited-time promotional pricing through year-end: input $0.75 per 1M tokens; output $3.75 per 1M tokens."
+    },
     {
       "id": "5039909",
       "time": "2026-08-14 01:01:03",
