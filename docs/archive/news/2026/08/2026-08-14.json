@@ -1,7 +1,98 @@
 {
   "date": "2026-08-14",
-  "count": 280,
+  "count": 289,
   "items": [
+    {
+      "id": "5040032",
+      "time": "2026-08-14 04:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽： 隨著醫療保險和社會保障支出到 2032 年將接近增加 1 個百分點的國內生產總值，財政壓力將會加劇。"
+    },
+    {
+      "id": "5040031",
+      "time": "2026-08-14 04:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：美國政治僵局與政府停擺發生機率或將上升，持續時間也可能進一步拉長。"
+    },
+    {
+      "id": "mkt:019ffcd9-d3f4-7aab-902d-b91772c1789f",
+      "time": "2026-08-14 04:39:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【UAE, Qatar firms join BP-led project to develop Venezuela’s Loran gas field】XRG, the investment arm of Abu Dhabi National Oil Company, said on Thursday it has been awarded a development licence for the Loran gas field in the Caribbean, which straddles the Venezuela–Trinidad and Tobago boundary. XRG will hold the licence jointly with BP and Qatar’s UCC to develop more than 4 tcf of gas. The gas is slated to supplement Trinidad’s industrial feedstock, including supply to the Atlantic LNG complex operated by Shell and BP, and to petrochemical and fertilizer plants that have faced multi-year gas rationing."
+    },
+    {
+      "id": "mkt:019ffcd8-e638-7aab-902d-b5f69f2ad70d",
+      "time": "2026-08-14 04:38:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FITCH expects US inflation to move toward the target by end-2028."
+    },
+    {
+      "id": "5040030",
+      "time": "2026-08-14 04:38:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽：美國的評級得益於龐大的經濟、高人均收入、活躍的商業環境和卓越的融資靈活性。預計美國2026-2027年經濟增長將保持相對韌性，達到1.9%，但低於2025年的2.8%。2026年美國勞動力需求減弱，職位創造顯著下降。"
+    },
+    {
+      "id": "mkt:019ffcd8-7dcb-7aab-902d-ab7bf25abe3d",
+      "time": "2026-08-14 04:37:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "FITCH says US labor demand will weaken in 2026, with job creation set to decline sharply."
+    },
+    {
+      "id": "mkt:019ffcd8-4d87-7aab-902d-a2a961c0425b",
+      "time": "2026-08-14 04:37:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Fitch expects US economic growth to remain relatively resilient at 1.9% in 2026-27, below 2025's 2.8%."
+    },
+    {
+      "id": "mkt:019ffcd8-0314-7aab-902d-981bfdb71b3f",
+      "time": "2026-08-14 04:37:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "USDJPY"
+      ],
+      "text": "Fitch says the U.S. rating benefits from a large economy, high per-capita income, an active business environment and exceptional financing flexibility."
+    },
+    {
+      "id": "5040029",
+      "time": "2026-08-14 04:36:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽確認美國主權評級為 AA+。"
+    },
     {
       "id": "5040028",
       "time": "2026-08-14 04:35:52",
