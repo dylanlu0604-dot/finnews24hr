@@ -1,7 +1,42 @@
 {
-  "updated": "2026-08-14 03:57:51",
-  "count": 15402,
+  "updated": "2026-08-14 04:01:43",
+  "count": 15403,
   "items": [
+    {
+      "id": "mkt:019ffcb6-fe94-7aab-902d-0bc495303f34",
+      "time": "2026-08-14 04:01:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US close: major indices rise as memory stocks rally】US stocks closed higher on Thursday: the Dow Jones Industrial Average rose 0.13%, the S&P 500 gained 0.65% and the Nasdaq Composite climbed 0.8%. Memory-sector names led gains — Micron +4%, SanDisk +13.6%, SK Hynix +7% — while the Nasdaq Golden Dragon China Index fell 1.85%; Alibaba declined 2% and JD.com dropped 7%."
+    },
+    {
+      "id": "5040007",
+      "time": "2026-08-14 04:01:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "WORKDAY股價收盤上漲18%，創2016年以來最佳單日表現。"
+    },
+    {
+      "id": "5040006",
+      "time": "2026-08-14 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.13%，標普500指數漲0.65%，納指漲0.82%。工時公司漲17.78%，閃迪漲13.67%，GoDaddy漲9.41%，科斯塔漲8.36%，The Trade Desk漲7.93%。“七姐妹”方面：特斯拉漲3.80%，Meta Platforms漲2.74%，蘋果漲1.01%，微軟漲0.90%，英偉達漲0.56%，谷歌漲0.44%，亞馬遜跌0.80%。"
+    },
+    {
+      "id": "5040005",
+      "time": "2026-08-14 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.89%】京東跌7.40%，網易有道跌6.02%，中比能源跌6.14%，中進醫療跌6.02%，Tims中國跌5.88%。"
+    },
     {
       "id": "te:markets:575181",
       "time": "2026-08-14 03:55:21",
@@ -140911,32 +140946,6 @@
         "其他"
       ],
       "text": "愛彼迎預計第三季度營收 46.9 億‑47.7 億美元，市場預期 46 億美元。"
-    },
-    {
-      "id": "5029520",
-      "time": "2026-08-07 04:00:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI裝置外形類似小甜甜圈，售價將超過300美元。OPENAI認為新裝置並未侵犯蘋果的商業機密。"
-    },
-    {
-      "id": "5029519",
-      "time": "2026-08-07 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.85%，標普500指數跌0.18%，納指跌0.04%。APP AppLovin跌19.66%，Datadog跌19.03%，Epam Systems跌15.33%，Axon Enterprise跌14.28%。“七姐妹”方面：微軟漲2.51%，蘋果漲0.49%，Meta Platforms漲0.15%，亞馬遜跌0.13%，英偉達跌0.23%，特斯拉跌0.63%，谷歌跌0.91%。"
-    },
-    {
-      "id": "5029518",
-      "time": "2026-08-07 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.32%】中比能源漲21.17%，海天網路漲16.90%，再鼎醫藥漲13.47%，諾亞財富漲4.84%，中汽系統漲4.37%。"
     }
   ]
 }
