@@ -1,7 +1,35 @@
 {
   "date": "2026-08-14",
-  "count": 319,
+  "count": 322,
   "items": [
+    {
+      "id": "5040046",
+      "time": "2026-08-14 05:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特通訊社：沙特王儲會見美國中央司令部司令。"
+    },
+    {
+      "id": "mkt:019ffcf4-1b93-7aab-902e-328ad0b6bb3b",
+      "time": "2026-08-14 05:08:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander."
+    },
+    {
+      "id": "te:economy:575189",
+      "time": "2026-08-14 05:07:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Export Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%."
+    },
     {
       "id": "5040045",
       "time": "2026-08-14 05:03:01",

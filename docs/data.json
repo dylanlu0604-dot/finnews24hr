@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-14 05:05:10",
+  "updated": "2026-08-14 05:09:00",
   "count": 15432,
   "items": [
+    {
+      "id": "5040046",
+      "time": "2026-08-14 05:08:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特通訊社：沙特王儲會見美國中央司令部司令。"
+    },
+    {
+      "id": "mkt:019ffcf4-1b93-7aab-902e-328ad0b6bb3b",
+      "time": "2026-08-14 05:08:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi state news agency said the Saudi Crown Prince met the CENTCOM commander."
+    },
+    {
+      "id": "te:economy:575189",
+      "time": "2026-08-14 05:07:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Export Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Export Prices Surge in July — South Korea’s export prices surged 49.1% year-on-year in July 2026, marking the largest increase since 1998 during the Asian financial crisis. Among major categories, manufactured goods prices climbed 49.1%, led by a 122.3% jump in computers, electronic and optical equipment. Prices also increased for coal and petroleum products (61.5%), basic metal products (28.1%), and chemical products (22.7%). Meanwhile, prices for agricultural, forestry and marine products rose 32.6%. On a monthly basis, the Export Price Index increased 1.0%. The Export Volume Index rose 14.7% year-on-year, while the Export Value Index increased 25.8%. The Net Barter Terms of Trade Index also rose 24.7%."
+    },
     {
       "id": "5040045",
       "time": "2026-08-14 05:03:01",
@@ -141244,31 +141272,6 @@
         "國際"
       ],
       "text": "美國白宮：美國對多晶矽設定每公斤21美元的最低進口價格。對多晶矽錠和矽片設定每公斤100美元的最低進口價格。對太陽能電池設定每瓦0.22美元的最低進口價格。對太陽能元件設定每瓦0.38美元的最低進口價格。"
-    },
-    {
-      "id": "5029565",
-      "time": "2026-08-07 05:06:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國白宮：特朗普認定有必要對多晶矽衍生物進口徵收 15% 從價關稅。"
-    },
-    {
-      "id": "5029564",
-      "time": "2026-08-07 05:05:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（8月6日）紐約尾盤，現貨黃金跌0.14%，報4240.66美元/盎司，亞太早盤走高、北京時間10:07達到4304.09美元，之後持續震盪下行。現貨白銀跌0.83%，報61.5299美元/盎司，日內持續震盪下行，交投於62.9050-60.8750美元。COMEX銅期貨跌0.12%，報6.7195美元/磅，歐股早盤顯著上揚、17:35達到6.8665美元。"
-    },
-    {
-      "id": "5029563",
-      "time": "2026-08-07 05:05:56",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（8月6日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7476元，較週三紐約尾盤漲6點，日內整體交投於6.7455-6.7519元區間。"
     }
   ]
 }
