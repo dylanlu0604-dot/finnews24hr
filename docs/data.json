@@ -1,7 +1,87 @@
 {
-  "updated": "2026-08-13 13:28:09",
-  "count": 14962,
+  "updated": "2026-08-13 13:32:09",
+  "count": 14970,
   "items": [
+    {
+      "id": "5038643",
+      "time": "2026-08-13 13:31:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度7月乘用車銷量為457,810輛。"
+    },
+    {
+      "id": "mkt:019ff99a-2477-7aab-9019-01c69f37e97e",
+      "time": "2026-08-13 13:30:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share Shenzhen SOE reform sector briefly rallied intraday; Shenzhen Zhenye A hit the daily limit, while Shahe Co., Shenzhen Property A, Shenzhen Textile A, SEG and Shenzhen Urban Transport also advanced."
+    },
+    {
+      "id": "5038642",
+      "time": "2026-08-13 13:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東電網系統負荷今年第五次創新高】據“廣東電網”訊息，8月12日13時41分，廣東電網系統負荷今年第五次創新高，成為首個突破1.8億千瓦的省級電網。"
+    },
+    {
+      "id": "mkt:019ff999-c865-7aab-9018-fad1986429fa",
+      "time": "2026-08-13 13:30:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Guangdong power grid said at 13:41 on Aug 12 its system load hit a fifth record high this year, reaching 180 million kilowatts (180 GW), making it the first provincial grid to exceed 180 million kW."
+    },
+    {
+      "id": "5038641",
+      "time": "2026-08-13 13:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國呵叻府發生傷人事件 6人受傷】12日晚，泰國東北部呵叻府一處市場發生一起持刀和槍擊傷人事件，造成6人受傷。據現場目擊者稱，一個盜竊團伙12日晚在事發市場附近偷盜摩托車時被車主發現，團伙中一人逃跑後又帶同夥返回，他們持刀傷人，並用自制霰彈槍向人群射擊，共造成6人受傷，其中一人傷勢嚴重。警方接到報案後趕赴現場並逮捕一名嫌疑人。泰國總理阿努廷13日上午接受媒體採訪時對這一事件表示震驚，強調必須對泰國槍支援有制度進行結構性改革。"
+    },
+    {
+      "id": "5038640",
+      "time": "2026-08-13 13:30:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深圳國企改革板塊短線拉昇，深振業A漲停】深圳國企改革板塊短線拉昇，深振業A漲停，沙河股份、深物業A、深紡織A、深賽格、深城交等紛紛走高。"
+    },
+    {
+      "id": "5038639",
+      "time": "2026-08-13 13:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲2%，現報2657.00元。"
+    },
+    {
+      "id": "mkt:019ff998-f4eb-7aab-9018-f39cf2a41cdc",
+      "time": "2026-08-13 13:29:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russia said it struck Ukraine's Reni port."
+    },
+    {
+      "id": "5038638",
+      "time": "2026-08-13 13:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱襲擊了烏克蘭烈尼港。"
+    },
     {
       "id": "mkt:019ff994-1635-7aab-9018-ebd6c4a284d2",
       "time": "2026-08-13 13:24:19",
@@ -136429,15 +136509,6 @@
         "公司"
       ],
       "text": "【矩陣起源完成超千萬美元A輪融資】8月6日，企業級AI基礎設施廠商矩陣起源（MatrixOrigin）宣佈完成超千萬美元A輪融資。本輪融資由漢得資訊參與投資的基金、亞康股份與澳大利亞風險投資機構Artesian Venture Partners共同注資。本輪資金將重點用於MatrixOne Intelligence平臺的研發迭代、全球市場拓展，以及智慧體（Agentic AI）的規模化落地。"
-    },
-    {
-      "id": "5028049",
-      "time": "2026-08-06 13:31:28",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率下跌5個基點至3.91%。"
     }
   ]
 }
