@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-13 18:49:03",
-  "count": 15111,
+  "updated": "2026-08-13 18:53:05",
+  "count": 15109,
   "items": [
+    {
+      "id": "mkt:019ffac0-7c88-7aab-9022-81f7a48f097b",
+      "time": "2026-08-13 18:52:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hainan guar bean yield tops 400 kg/mu, marks domestic cultivation breakthrough】At a demonstration base in Sangeng Village, Yazhou District, Sanya, dry guar bean yield exceeded 400 kg per mu (≈6,000 kg/ha), reaching international advanced levels and marking a key breakthrough in domestic guar cultivation."
+    },
+    {
+      "id": "5039311",
+      "time": "2026-08-13 18:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔塔汽車乘用車部門就捷豹路虎業務表態：將全力推進北美市場業務增長。"
+    },
+    {
+      "id": "mkt:019ffabf-dca6-7aab-9022-7ad0cecac983",
+      "time": "2026-08-13 18:51:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's national meteorological forecaster projects 2026 sunflower seed output at 13.0 mln t, up from 10.2 mln t in 2025; sugar beet output is forecast at 9.0 mln t in 2026, down from 11.7 mln t in 2025."
+    },
+    {
+      "id": "5039309",
+      "time": "2026-08-13 18:50:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華夏標普500ETF：提示二級市場交易價格溢價風險】華夏標普500ETF公告稱，近期基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。8月13日，收盤價為2.027元，收盤時基金份額參考淨值為1.9015元。若8月14日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露重大資訊。提醒投資者關注溢價風險，審慎投資。"
+    },
+    {
+      "id": "5039308",
+      "time": "2026-08-13 18:50:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華夏基金：旗下部分公募基金參與宇樹科技A股申購】華夏基金公告稱，旗下部分公募基金參與了宇樹科技首次公開發行A股的申購。該公司本次發行保薦人中信證券是華夏基金控股股東，也是部分基金託管人中信建投證券的重大關聯方。發行價格150.80元/股，華夏成長證券投資基金等多隻基金透過網下方式參與申購，獲配數量從幾百股到數千股不等，獲配金額從數萬元到數十萬元不等。"
+    },
+    {
+      "id": "mkt:019ffabe-8a74-7aab-9022-72107416bb3d",
+      "time": "2026-08-13 18:50:18",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Mexico urged the United States to reduce automobile tariffs."
+    },
+    {
+      "id": "5039307",
+      "time": "2026-08-13 18:49:51",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【特寶生物：開立15.18億元可轉債募集資金專戶並籤三方協議】特寶生物公告稱，公司向不特定物件發行15.33億元可轉換公司債券，期限6年。扣除發行費用後，實際募集資金淨額15.18億元，已於2026年8月3日到賬。公司開立了募集資金專項賬戶，分別為新藥研發專案6.71億元、生物技術創新融合中心建設專案4.50億元、特寶生物創新藥物生產改擴專案-產線建設4.01億元。公司、國金證券與各監管銀行簽署了《募集資金專戶儲存三方監管協議》。"
+    },
+    {
+      "id": "5039306",
+      "time": "2026-08-13 18:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泉陽泉：控股股東增持股份 權益變動跨越1%刻度】泉陽泉公告稱，控股股東森工集團計劃自2026年5月13日起6個月內，增持不低於1750萬元、不超過3500萬元公司股份。截至8月13日，其已累計增持283.03萬股，佔總股本0.40%，增持金額2353.42萬元。權益變動後，森工集團及其一致行動人持股比例從30.93%增至31.32%。本次增持計劃尚未實施完畢，可能因市場變化等因素無法達預期。"
+    },
+    {
+      "id": "5039305",
+      "time": "2026-08-13 18:49:25",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根大通上調評級後，阿卡邁技術公司盤前股價上漲2.2%。"
+    },
+    {
+      "id": "5039304",
+      "time": "2026-08-13 18:48:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【博時基金：旗下基金參與宇樹科技首次公開發行股票網下申購】博時基金公告稱，旗下管理基金參與宇樹科技首次公開發行人民幣普通股的網下申購。宇樹科技本次發行主承銷商中信證券，是公司旗下部分基金託管人，也是另一部分基金託管人中信建投的關聯方。發行價150.8元/股，博時中證半導體產業ETF獲配1638股、金額247010.40元；博時中證5G產業50ETF獲配434股、金額65447.20元。"
+    },
+    {
+      "id": "5039303",
+      "time": "2026-08-13 18:48:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST海利：控股股東擬6.01億元轉讓34.70%股份】*ST海利公告稱，2026年8月12日，上海豪園與張海明、張悅簽署協議，擬以2.655元/股，總價60,055.55萬元轉讓226,197,938股股份，佔總股本34.70%。其中，張海明受讓158,338,557股，張悅受讓67,859,381股。本次交易完成後，公司控股股東變為張海明，實控人不變。張海明、張悅承諾24個月內不減持受讓股份。交易尚需上交所確認及中登公司上海分公司完成過戶登記。"
+    },
+    {
+      "id": "5039302",
+      "time": "2026-08-13 18:48:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【建元信託：2026年上半年營收降25.45% 淨利潤增2559.08%】建元信託公告稱，2026年上半年營業總收入1.12億元，同比降25.45%；利潤總額14.25億元，同比增3852.42%；歸屬於上市公司股東的淨利潤10.71億元，同比增2559.08%。截至報告期末，總資產267.72億元，較上年度末增5.30%；歸屬於上市公司股東的淨資產151.19億元，較上年度末增6.32%。此外，自2026年3月31日起，公司對參股上海農商銀行的會計核算方法轉換為長期股權投資並採用權益法核算。"
+    },
     {
       "id": "5039301",
       "time": "2026-08-13 18:46:21",
@@ -137908,133 +138015,6 @@
         "公司"
       ],
       "text": "【寶萊特：控股股東籌劃控制權變更 股票及轉債停牌】寶萊特公告稱，控股股東正籌劃控制權變更事項，因有關事項尚不確定，公司股票和“寶萊轉債”自2026年8月3日開市起停牌，“寶萊轉債”暫停轉股。“寶萊特血液淨化產業基地及研發中心專案”已結項，“營銷網路及資訊化建設專案”部分擬結項、部分終止，剩餘募集資金6066.31萬元擬永久補充流動資金。中證鵬元維持公司主體及“寶萊轉債”信用等級為AA -，評級展望為負面。"
-    },
-    {
-      "id": "5028735",
-      "time": "2026-08-06 18:53:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "國投白銀LOF(161226)將於2026年8月7日開市起停牌，自2026年8月7日10:30起復牌，停牌期間贖回業務照常辦理。"
-    },
-    {
-      "id": "5028734",
-      "time": "2026-08-06 18:52:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "納指科技ETF景順(159509)將於2026年8月7日開市起停牌，自2026年8月7日10:30起復牌，停牌期間贖回業務照常辦理。"
-    },
-    {
-      "id": "5028733",
-      "time": "2026-08-06 18:52:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【聯創光電：控股股東部分股份將被司法拍賣】聯創光電8月6日公告，公司股票於2026年8月4日、8月5日、8月6日連續三個交易日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動情形。2026年8月20日10時至2026年8月21日10時止，公司控股股東電子集團部分股份將被司法拍賣，被司法拍賣數量為9,708,100股，佔其所持有公司股份總數的11.19%，佔公司總股本的2.15%。目前，司法拍賣事項尚處在公示階段，後續可能涉及競拍、繳款、股權變更過戶等環節，最終拍賣結果存在不確定性。"
-    },
-    {
-      "id": "5028732",
-      "time": "2026-08-06 18:52:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "蒙特利爾銀行將禮來目標股價從1300美元上調至1400美元。"
-    },
-    {
-      "id": "5028731",
-      "time": "2026-08-06 18:52:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲南省政府與中國華電簽署深化戰略合作協議】據“雲南釋出”，8月6日，雲南省政府與中國華電集團有限公司在昆明簽署深化戰略合作協議。雲南省委書記王寧，雲南省委副書記、省長王予波與中國華電集團有限公司黨組書記、董事長葉向東，黨組副書記、總經理徐樹彪一行舉行工作會談，並見證簽約。王寧、王予波表示，雲南將進一步發揮優勢、用好機遇，大力發展“綠電+先進製造業”，打好產業轉型升級攻堅戰，加快建設綠色能源強省。希望中國華電繼續加大在滇投資佈局力度，深化綠色能源開發、煤電清潔高效發展、儲能建設、新型電網等領域合作，共促雲南加快建設全國重要的清潔能源基地，在更好服務國家發展戰略中實現共贏發展。"
-    },
-    {
-      "id": "5028730",
-      "time": "2026-08-06 18:52:04",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券完成向特定物件發行H股股票工作，中信金控全額認購】中信證券8月6日公告，公司於2026年8月6日向特定物件發行H股股票。公司第一大股東中國中信金融控股有限公司（以下簡稱中信金控）以現金方式全額認購本次發行的H股股票，發行股份數量為803,725,383股，發行價格為23.13港元/股。本次發行完成後，中信金控持有公司的股份比例由19.84%增加至23.96%。"
-    },
-    {
-      "id": "5028729",
-      "time": "2026-08-06 18:51:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【香港通報一款進口預先包裝銀鱈魚扒樣本甲基汞含量超標】據香港特區政府新聞公報，香港食物環境衛生署食物安全中心今日（8月6日）公佈，一個預先包裝銀鱈魚扒樣本被檢出金屬雜質甲基汞含量超出法例標準。產品名稱：U.S. Alaska Black Cod Steak；品牌：Alaska Seafood；來源地：美國。中心發言人說：“中心透過恆常食物監測計劃，從一網上商店抽取上述樣本進行檢測。結果顯示，樣本的甲基汞含量為每公斤含零點八毫克，超出法例標準的每公斤含零點五毫克。”中心已知會涉事商戶上述違規事項，責令其將受影響批次產品停售及下架。有關進口商正按中心指示進行回收。中心正追查有關產品的來源。"
-    },
-    {
-      "id": "5028728",
-      "time": "2026-08-06 18:51:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【閃迪美股盤前跌超10%】閃迪美股盤前跌超10%，現報1213.17美元。"
-    },
-    {
-      "id": "mkt:019fd6b2-8f7b-7aab-8fa0-7fcba0f3b873",
-      "time": "2026-08-06 18:50:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed",
-        "DXY",
-        "DAX"
-      ],
-      "text": "【Germany weighing nomination of Bundesbank chief Nagel for ECB presidency】German government is considering nominating Bundesbank president Nagel for the European Central Bank presidency, sources said. Speculation that ECB president Lagarde could leave early has made Nagel’s candidacy a central internal debate in Berlin. Officials say failing to back Nagel would amount to abandoning Germany’s bid; they judge his chances as low but view running him as worth pursuing to gain leverage for other senior ECB posts, notably ECB chief economist. The appointment is likely the most consequential personnel decision euro-area governments will face in the coming months; Nagel has indicated he is open to the opportunity."
-    },
-    {
-      "id": "5028727",
-      "time": "2026-08-06 18:50:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：阿聯酋考慮投入1萬億日元在日建AI資料中心】據知情人士透露，阿聯酋正考慮至多投入 1 萬億日元（合 63 億美元），在日本建設一座人工智慧資料中心。這位不願具名的知情人士表示，阿布扎比主權財富基金穆巴達拉投資公司將牽頭投資日本北部秋田縣一座 500 兆瓦的專案，該專案可能引入其他國內外投資方，相關資訊尚未對外公開。專案建成後，或將成為日本規模最大的資料中心。此番與海灣國家的洽談，凸顯全球各方愈發有意在受地緣政治衝突影響相對較小的國家佈局關鍵人工智慧資產。"
-    },
-    {
-      "id": "5028726",
-      "time": "2026-08-06 18:49:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "Bullish：7 月比特幣月度平均波動率為 32%。"
-    },
-    {
-      "id": "5028725",
-      "time": "2026-08-06 18:49:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "阿耳忒彌斯黃金公司：維持2026財年產量指引不變，即黃金產量為26.5萬至29萬盎司，已售盎司全部可持續成本（AISC）為925至1025美元。"
-    },
-    {
-      "id": "te:markets:573371",
-      "time": "2026-08-06 18:49:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Closes on Higher Note — India’s BSE Sensex closed about 0.5% firmer at 78,954.8 on Thursday, the highest since April 21, marking the second session of gains. Hopes of a resolution to the Middle East conflict, a better-than-expected earnings season and the RBI's steady policy stance and optimistic growth outlook bolstered sentiment. This prompted selective buying in heavyweight and banking stocks, while profit-taking emerged in the auto, metals, IT, and cement sectors. Among individual stocks, Reliance Industries surged 3.4% to lead gains, boosted by multiple block deals at a premium over last close. State Bank of India rose 3% ahead of its Q1 results to be announced on Friday. Bharat Electronics (2.6%), ICICI Bank (2.3%), Eternal (2%) and Titan (1.5%) were also among the top performers. On the flip side, state-owned Power Grid was the biggest loser, falling roughly 4%, after reporting a 0.9% decline in Q1 FY27 consolidated net profit despite higher total income and continued transmission network expansion."
-    },
-    {
-      "id": "5028724",
-      "time": "2026-08-06 18:49:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "Kenvue股價盤前下跌4.3%，此前其二季度利潤不及預期。"
     }
   ]
 }
