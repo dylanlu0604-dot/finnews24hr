@@ -1,7 +1,45 @@
 {
-  "updated": "2026-08-14 05:16:39",
-  "count": 15438,
+  "updated": "2026-08-14 05:20:26",
+  "count": 15442,
   "items": [
+    {
+      "id": "5040055",
+      "time": "2026-08-14 05:19:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨夜盤收盤漲0.03%。"
+    },
+    {
+      "id": "mkt:019ffcfe-0473-7aab-902e-531fc0540dc8",
+      "time": "2026-08-14 05:18:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XOM.N"
+      ],
+      "text": "Guyana government data show Exxon Mobil (XOM.N) oil output was 895,000 bpd in May, falling to 869,000 bpd in June."
+    },
+    {
+      "id": "5040054",
+      "time": "2026-08-14 05:17:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚蓋亞那聯合體原油產量 5 月為 89.5 萬桶 / 日，6 月為 86.9 萬桶 / 日。"
+    },
+    {
+      "id": "5040053",
+      "time": "2026-08-14 05:16:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Reddit 即將納入標普 500 指數  。"
+    },
     {
       "id": "5040052",
       "time": "2026-08-14 05:15:44",
