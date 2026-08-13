@@ -1,7 +1,61 @@
 {
   "date": "2026-08-14",
-  "count": 180,
+  "count": 186,
   "items": [
+    {
+      "id": "mkt:019ffc76-506f-7aab-902c-6ce20a8f4f1f",
+      "time": "2026-08-14 02:50:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Argentina permits domestic banks to use up to 15% of USD deposits for corporate lending."
+    },
+    {
+      "id": "5039976",
+      "time": "2026-08-14 02:50:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷經濟部長表示，阿根廷的通貨緊縮過程堪稱奇蹟。"
+    },
+    {
+      "id": "5039975",
+      "time": "2026-08-14 02:50:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "受Workday被收購報道影響，AI應用軟體股集體衝高，Cloudflare、MongoDB漲超6%，Palantir、賽富時漲超4%，Applovin、ServiceNow漲超3%； 擴充套件科技軟體行業ETF-iShares (IGV.US)漲超2%。"
+    },
+    {
+      "id": "mkt:019ffc75-99a2-7aab-902c-6317f417598d",
+      "time": "2026-08-14 02:49:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude futures settled at $87.07/bbl, down $1.91, or 2.15%."
+    },
+    {
+      "id": "mkt:019ffc75-3ab0-7aab-902c-584224302a19",
+      "time": "2026-08-14 02:49:28",
+      "tags": [
+        "MKT News",
+        "WDAY.O",
+        "Impact bullish"
+      ],
+      "text": "Workday (WDAY.O) extended gains to 25.79% as shares were halted again for volatility."
+    },
+    {
+      "id": "5039974",
+      "time": "2026-08-14 02:47:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶87.07美元，下跌1.91美元，跌幅2.15%。"
+    },
     {
       "id": "5039973",
       "time": "2026-08-14 02:46:05",
