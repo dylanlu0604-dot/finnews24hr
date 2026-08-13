@@ -1,7 +1,15 @@
 {
   "date": "2026-08-13",
-  "count": 826,
+  "count": 827,
   "items": [
+    {
+      "id": "mkt:019ff93f-44b7-7aab-9018-11f2e3a7901b",
+      "time": "2026-08-13 11:51:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IDC: Q2 China tablet shipments 7.96 mln, -4.4% YoY】IDC Q2 tracker: China tablet shipments 7.96 mln units, down 4.4% YoY, a slight narrowing versus Q1. Commercial segment posted sharp growth driven by demand front-loading ahead of expected price increases; consumer shipments fell 9.8% YoY on rising costs and earlier-than-normal demand release. Headline moderation masks widening market stress as cost inflation accelerates transmission to demand."
+    },
     {
       "id": "mkt:019ff93d-e1c6-7aab-9018-08bea8776d31",
       "time": "2026-08-13 11:50:09",
