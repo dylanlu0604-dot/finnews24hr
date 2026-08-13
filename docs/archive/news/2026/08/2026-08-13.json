@@ -1,7 +1,104 @@
 {
   "date": "2026-08-13",
-  "count": 2098,
+  "count": 2109,
   "items": [
+    {
+      "id": "mkt:019ffaed-e192-7aab-9023-252a84481210",
+      "time": "2026-08-13 19:42:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK Q2 GDP Beats Forecasts; GBP Gains as Fed Hike Fears Ease】During Thursday European hours, GBP/USD recovered earlier losses as investors prioritized easing Fed rate‑hike risks over Middle East tensions. Traders trimmed Fed tightening bets after US inflation upside risks eased and labor market downside risks rose; July US CPI broadly matched expectations — core inflation remains above the Fed’s target but showed no broad re‑acceleration, giving policymakers more room to pause. Market focus shifts to US July PPI due Thu 20:30 Beijing time, with headline/core YoY forecasts at 4.9% and 4.2%. GBP’s rebound was also supported by stronger‑than‑expected UK Q2 GDP, which attracted buyers."
+    },
+    {
+      "id": "5039416",
+      "time": "2026-08-13 19:41:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其費特希耶一艘載有100多名乘客的遊船發生火災。"
+    },
+    {
+      "id": "mkt:019ffaed-851b-7aab-9023-1dc25bcd38bb",
+      "time": "2026-08-13 19:41:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market update: a tourist boat carrying over 100 passengers caught fire in Fethiye, Turkey."
+    },
+    {
+      "id": "5039415",
+      "time": "2026-08-13 19:41:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【法學者：光刻機博弈 歐美或將是輸家】法國《回聲報》網站8月6日發表題為《禁止光刻機出口：中國將來會感謝特朗普》的文章，作者是法國巴黎第一大學教授埃馬紐埃爾·孔布。全文摘編如下： 荷蘭半導體裝置商、歐洲市值第一的阿斯麥公司股價在幾天內跌了近10%。原因何在？有媒體稱中國一家企業準備批次生產深紫外（DUV）光刻機，而這是阿斯麥的旗艦產品之一。 阿斯麥幾乎壟斷極紫外（EUV）光刻機市場，這是製造最先進晶片的裝置，同時它在深紫外光刻機市場的份額也高達80%。該公司的壟斷地位是其耗費30年時間進行研發的結果，靠的是歐洲獨有的供應商體系，如光學企業蔡司、鐳射企業通快集團。由於門檻過高，新競爭者幾乎難以進入該市場。（參考訊息）"
+    },
+    {
+      "id": "5039414",
+      "time": "2026-08-13 19:40:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【慧智微：擬募資2.74億元用於晶片研發等專案】慧智微公告稱，公司擬以簡易程式向特定物件發行股票，募集資金總額不超2.74億元，扣除發行費用後將用於新一代行動通訊射頻前端模組研發、面向新興應用場景的通訊模組研發及補充流動資金。專案建設期均為36個月，實施地點為廣州市黃埔區、上海市浦東新區。2023 - 2026年1 - 3月，公司收入分別為5.52億元、5.24億元、8.07億元、2.15億元，最近三年複合增長率為20.93%，2026年1 - 3月同比增長56.87%。此次募資有助於提升公司競爭力，順應技術發展趨勢。"
+    },
+    {
+      "id": "5039413",
+      "time": "2026-08-13 19:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門招商投資促進局：上半年接獲近兩百家企業投資計劃】澳門招商投資促進局13日表示，2026年上半年接獲194家企業在澳開展新投資計劃，同比增長7%。 上述新投資計劃中，逾六成專案為“1+4”產業（“1”指綜合旅遊休閒業，“4”指中醫藥大健康、現代金融、高新技術、會展商貿及文化體育等四大重點產業），較去年同期上升超過四成，尤以大健康、現代金融及高新技術板塊增長顯著，大健康產業專案增長超過六成，現代金融及高新技術產業專案錄得倍數增長。 招商投資促進局表示，上半年共完成跟進133個投資專案，落戶專案中不乏上市企業及具備高成長潛力的頭部企業在澳設點或設立創投基金，顯示出國際資本對澳門市場前景的信心。下半年將以“組合拳”方式，結合澳門招商大使、《支援澳門首店經濟發展計劃》及澳琴聯動等措施及資源，為全球投資者提供一站式落地的便捷通道。(新華社)"
+    },
+    {
+      "id": "5039412",
+      "time": "2026-08-13 19:40:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，沙特阿美以臨時特別安排調整九月對亞洲的原油供應配額。"
+    },
+    {
+      "id": "mkt:019ffaea-eb35-7aab-9023-13c309ec551b",
+      "time": "2026-08-13 19:38:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【Brown Brothers Harriman: GBP/USD directionless near 1.3500; July CPI key for BoE】Brown Brothers Harriman analyst Elias Haddad says GBP/USD is directionless around 1.3500 after UK Q2 and June GDP showed encouraging activity, but he expects those data are unlikely to change Bank of England rate expectations. Q2 growth was driven by gross fixed capital formation and household consumption, while government spending was the largest drag, reflecting declines in health and education. Haddad says inflation, not GDP, is the BoE's bigger concern and the July CPI report due next week will be more important for policy."
+    },
+    {
+      "id": "5039411",
+      "time": "2026-08-13 19:38:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿爾達格金屬包裝因潛在出售傳聞盤前上漲 8.9%。"
+    },
+    {
+      "id": "te:markets:575086",
+      "time": "2026-08-13 19:38:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hou Hai Precision earnings above expectations at 4.27 TWD — Hou Hai Precision (2317) released earnings per share at 4.27 TWD, compared to market expectations of 4.10 TWD."
+    },
+    {
+      "id": "5039410",
+      "time": "2026-08-13 19:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI 智慧代理或將大幅推高 CPU 需求】美銀將 2030 年伺服器 CPU 市場規模預期從 1700 億美元上調至 2100 億美元以上，該數值接近 2025 年預估市場規模的 5 倍。AI 智慧代理正推動 CPU 從輔助角色轉向編排控制層，CPU 與 GPU 配比或將從 1:4 向 1:1 轉變。美銀預計，到 2030 年前該市場年複合增速可達 36%。AMD 仍是其首選 CPU 標的，英偉達為整個板塊的首選標的。"
+    },
     {
       "id": "5039409",
       "time": "2026-08-13 19:37:31",
