@@ -1,7 +1,51 @@
 {
   "date": "2026-08-14",
-  "count": 225,
+  "count": 230,
   "items": [
+    {
+      "id": "mkt:019ffcac-2f7d-7aab-902d-0148defcb6d7",
+      "time": "2026-08-14 03:49:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New York appellate court says New York City's \"second-home tax\" may proceed for now."
+    },
+    {
+      "id": "5040001",
+      "time": "2026-08-14 03:48:54",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國PPI資料公佈日，美債收益率普遍下挫】週四（8月13日）紐約尾盤，美國10年期國債收益率下跌4.57個基點，美國PPI資料公佈後快速下行。兩年期美債收益率跌4.82個基點，亞太盤初以來橫盤小幅震盪，PPI資料公佈後同樣快速下行。30年期美債收益率跌4.28個基點，報5.214%。10年期通脹保值國債（TIPS）收益率跌4.16個基點，至2.378%；30年期TIPS收益率跌3.20個基點，至2.985%。"
+    },
+    {
+      "id": "5040000",
+      "time": "2026-08-14 03:47:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：“華盛頓”號航母將前往中東接替“林肯”號】據美國《華爾街日報》13日報道，美國準備派遣“華盛頓”號航母前往中東，接替艦上生活條件、船員心理健康等遭質疑的“林肯”號航母。報道援引美國官員的話說，該輪換計劃在人們對“林肯”號航母生活條件提出擔憂之前就已制定。據美國海軍學會新聞網報道，以日本為基地的“華盛頓”號航母打擊群於5月離開日本橫須賀基地。該航母本月13日在一艘巡洋艦和一艘驅逐艦的伴隨下，透過新加坡海峽後進入了馬六甲海峽。（新華社）"
+    },
+    {
+      "id": "mkt:019ffca9-d321-7aab-902c-fb7584670b17",
+      "time": "2026-08-14 03:46:55",
+      "tags": [
+        "MKT News",
+        "WDAY.O",
+        "Impact bullish"
+      ],
+      "text": "【Talks with Silver Lake send Workday shares up nearly 30%】Workday shares jumped as much as ~30% intraday on Thursday, triggering multiple temporary trading halts, after reports that Silver Lake is in acquisition talks; sources say discussions have been ongoing. The rally pushed Workday’s market value above $50.0 bln. The stock had been under longer-term pressure on worries that AI will reshape the software sector; a successful buyout would signal renewed private-capital interest in software assets. Jefferies analyst Til said CEO Aneel Bhusri’s close ties to Silver Lake make a deal plausible. Workday beat estimates in its May quarter, raised guidance, and said AI trends are producing tangible benefits."
+    },
+    {
+      "id": "5039999",
+      "time": "2026-08-14 03:46:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "上訴法院裁定：紐約市豪宅閒置稅目前可繼續執行。"
+    },
     {
       "id": "5039998",
       "time": "2026-08-14 03:34:38",
