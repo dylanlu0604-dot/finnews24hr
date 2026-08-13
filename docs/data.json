@@ -1,7 +1,114 @@
 {
-  "updated": "2026-08-13 19:34:36",
-  "count": 15105,
+  "updated": "2026-08-13 19:38:36",
+  "count": 15106,
   "items": [
+    {
+      "id": "5039409",
+      "time": "2026-08-13 19:37:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "直覺機器公司盤前股價下跌幅度擴大至10%。"
+    },
+    {
+      "id": "mkt:019ffae9-6ec8-7aab-9023-09500717d161",
+      "time": "2026-08-13 19:37:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Nomura: Riksbank likely to hold rates in August】Nomura strategists forecast the Riksbank will leave the policy rate at 1.75% in August and keep rates unchanged through 2026. Stronger domestic activity, Middle East-related energy risks and expected further ECB tightening (Nomura sees another ECB hike in September after one earlier this year) raise the probability of an earlier Riksbank hike; Nomura says these factors are unlikely to produce a pro‑hike vote in August but constitute a tail risk that a rate rise could occur sooner than its current December 2027 baseline."
+    },
+    {
+      "id": "5039408",
+      "time": "2026-08-13 19:36:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿爾達格集團為旗下阿爾達格金屬包裝業務的潛在出售做準備。"
+    },
+    {
+      "id": "mkt:019ffae9-0540-7aab-9023-008011f6f421",
+      "time": "2026-08-13 19:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shares of Intuition Machine extended losses to 10%."
+    },
+    {
+      "id": "5039407",
+      "time": "2026-08-13 19:36:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "IREN 繼續致力於在2026年將AI雲容量（總容量）擴大至480兆瓦，並在2027年達到1.2吉瓦（總容量）。"
+    },
+    {
+      "id": "mkt:019ffae8-4fc9-7aab-9022-ff5984cf69f3",
+      "time": "2026-08-13 19:35:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UK analyst: Strait of Hormuz 'new reality' shifting; US says it has lost a round】Michael Stephens of the Royal United Services Institute says Iran, Oman and the GCC are holding behind‑the‑scenes talks on maritime traffic management in the Strait of Hormuz. It is unclear whether Iran and Oman have agreed transit fees. Stephens says Oman engaged Iran with GCC acquiescence, which suggests the GCC has accepted a 'new reality' for the strait. US Treasury Secretary Scott Bessent has argued a new pipeline would make the strait 'irrelevant', but Stephens warns pipeline construction will take time. He adds that, as talks enter a new phase, Iran is strengthening its bargaining position and the US should not treat the situation as a political or strategic victory."
+    },
+    {
+      "id": "5039406",
+      "time": "2026-08-13 19:35:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭鹿特丹警方稱，爆炸原因目前仍不清楚，正在調查中。"
+    },
+    {
+      "id": "5039405",
+      "time": "2026-08-13 19:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭鹿特丹警方表示，鹿特丹港發生爆炸，造成1人死亡、數人受傷。"
+    },
+    {
+      "id": "mkt:019ffae7-da68-7aab-9022-f719c3511301",
+      "time": "2026-08-13 19:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An explosion at the Port of Rotterdam in the Netherlands killed one person and injured several others."
+    },
+    {
+      "id": "te:markets:575085",
+      "time": "2026-08-13 19:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Barrick Gold earnings above expectations at 0.73 USD — Barrick Gold (ABX) released earnings per share at 0.73 USD, compared to market expectations of 0.34 USD."
+    },
+    {
+      "id": "5039404",
+      "time": "2026-08-13 19:34:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：IREN向微軟交付Horizon 1伺服器，並憑藉GB300 NVL72獲英偉達雲卓越範例資質。"
+    },
+    {
+      "id": "5039403",
+      "time": "2026-08-13 19:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏進行新一輪陣亡軍人遺體交換】當地時間13日，烏克蘭戰俘待遇協調總部發布訊息稱，根據最新安排，261具遺體已順利運回烏克蘭。俄方表示，此次遣返的遺體均為烏克蘭陣亡軍人遺體。據悉，烏克蘭執法機構調查人員將聯合相關專業鑑定機構工作人員，開展遺體身份核驗等系列後續工作，依規完成各項必要流程，逐一確認被遣返遺體的具體身份資訊。總檯記者當天自俄羅斯方面獲悉，俄烏雙方按照“261對24”的模式完成了陣亡軍事人員遺體交換。（央視新聞）"
+    },
     {
       "id": "5039402",
       "time": "2026-08-13 19:33:31",
@@ -137836,101 +137943,6 @@
         "MKT News"
       ],
       "text": "Romania's prime minister said the government will grant power operators authority to impose staged power cuts on industrial users, with advance notice."
-    },
-    {
-      "id": "5028837",
-      "time": "2026-08-06 19:38:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "羅馬尼亞總理博洛然表示，已授權電網運營商分階段對工業使用者實施限電，限電前將提前發出通知。"
-    },
-    {
-      "id": "5028836",
-      "time": "2026-08-06 19:38:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "四川百利天恆藥業股份有限公司向港交所提交上市申請書，聯席保薦人為中信證券、Jefferies、中金公司‌、德意志銀行‌。"
-    },
-    {
-      "id": "5028835",
-      "time": "2026-08-06 19:38:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "派拉蒙天空之舞：已與英國數字、文化、媒體和體育部簽署《契約與承諾契據》。"
-    },
-    {
-      "id": "5028834",
-      "time": "2026-08-06 19:37:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "英國競爭與市場管理局批准派拉蒙天舞傳媒收購華納兄弟探索集團相關交易。"
-    },
-    {
-      "id": "5028833",
-      "time": "2026-08-06 19:37:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【智微智慧：股票交易異常波動 多項業務營收佔比較低】智微智慧公告稱，公司股票於2026年8月4日至6日連續3個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。截至8月6日，公司市盈率偏離行業平均估值水平。子公司騰雲智算HAT雲平臺、具身智慧控制器業務、與英偉達合作業務2026年上半年營收佔比均不足1%。公司持有元川微4.64%股權，其商業落地前景存風險。此外，公司正推進2026年度向特定物件發行A股股票事項，能否實施及時間尚不確定。"
-    },
-    {
-      "id": "5028832",
-      "time": "2026-08-06 19:37:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將閃迪目標價從3000美元下調至1750美元。"
-    },
-    {
-      "id": "5028831",
-      "time": "2026-08-06 19:36:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳市委書記靳磊會見中信集團董事長奚國華】據深視新聞，8月6日，深圳市委書記靳磊會見中國中信集團有限公司黨委書記、董事長奚國華一行。靳磊表示，中信集團與深圳有著深厚的合作基礎，雙方發展願景有許多契合點。期待進一步加強全面對接，持續深化綜合金融服務、城市更新、“六張網”規劃建設等領域合作，實現互利共贏。深圳將全力做好服務保障。奚國華表示，中信集團將充分發揮金融與實業並舉的優勢，緊密對接深圳發展需求，持續加強各相關領域務實合作，助力深圳高質量發展和現代化建設。"
-    },
-    {
-      "id": "5028830",
-      "time": "2026-08-06 19:35:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "D-Wave量子計算公司股價盤前繼續下跌，最新跌幅達10.6%。"
-    },
-    {
-      "id": "te:economy:573385",
-      "time": "2026-08-06 19:35:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Treasury Yield Edges Up — The yield on the US 10-year Treasury note edged higher to 4.63% on Thursday as investors continued to assess the outlook for monetary policy and the path of interest rates. Markets see around a 55% chance of a Fed rate hike at its September meeting, down from 68% on Monday. Attention now turns to Friday's US jobs report, which is expected to provide fresh insight into labour market conditions. Investors expect payroll growth to remain resilient, although ADP data released earlier this week showed private-sector hiring slowed sharply in July. Meanwhile, announced job cuts fell to their lowest level in two years. At the same time, geopolitical risks remain elevated. A lasting agreement between the US and Iran appears unlikely in the short term, keeping pressure on energy prices and sustaining concerns that higher commodity costs would fuel inflation, pressuring the Fed to raise borrowing costs."
-    },
-    {
-      "id": "5028829",
-      "time": "2026-08-06 19:35:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安傑思：2026年上半年淨利潤1.18億元，同比下降6.27%】安傑思公告，2026年上半年營業收入3.02億元，同比下降0.28%。歸屬於上市公司股東的淨利潤1.18億元，同比下降6.27%。歸屬於上市公司股東的扣除非經常性損益的淨利潤9953.73萬元，同比下降10.73%。上年同期淨利潤1.26億元。"
-    },
-    {
-      "id": "5028828",
-      "time": "2026-08-06 19:34:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【閩燦坤B：擬750-1500萬港幣回購B股股份】閩燦坤B公告稱，公司擬以集中競價交易方式回購境內上市外資股B股，回購資金總額不低於750萬港幣（含）且不超過1500萬港幣（含），回購價格不超過2.84港幣/股，回購期限不超過3個月。本次回購用於維護公司價值及股東權益，預計回購股份數量為264.08-528.17萬股，佔公司總股本的1.42%-2.84%。截至公告日，相關人員暫無明確減持計劃。本次回購存在一定實施風險。"
     }
   ]
 }

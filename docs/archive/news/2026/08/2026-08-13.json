@@ -1,7 +1,114 @@
 {
   "date": "2026-08-13",
-  "count": 2086,
+  "count": 2098,
   "items": [
+    {
+      "id": "5039409",
+      "time": "2026-08-13 19:37:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "直覺機器公司盤前股價下跌幅度擴大至10%。"
+    },
+    {
+      "id": "mkt:019ffae9-6ec8-7aab-9023-09500717d161",
+      "time": "2026-08-13 19:37:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Nomura: Riksbank likely to hold rates in August】Nomura strategists forecast the Riksbank will leave the policy rate at 1.75% in August and keep rates unchanged through 2026. Stronger domestic activity, Middle East-related energy risks and expected further ECB tightening (Nomura sees another ECB hike in September after one earlier this year) raise the probability of an earlier Riksbank hike; Nomura says these factors are unlikely to produce a pro‑hike vote in August but constitute a tail risk that a rate rise could occur sooner than its current December 2027 baseline."
+    },
+    {
+      "id": "5039408",
+      "time": "2026-08-13 19:36:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿爾達格集團為旗下阿爾達格金屬包裝業務的潛在出售做準備。"
+    },
+    {
+      "id": "mkt:019ffae9-0540-7aab-9023-008011f6f421",
+      "time": "2026-08-13 19:36:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shares of Intuition Machine extended losses to 10%."
+    },
+    {
+      "id": "5039407",
+      "time": "2026-08-13 19:36:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "IREN 繼續致力於在2026年將AI雲容量（總容量）擴大至480兆瓦，並在2027年達到1.2吉瓦（總容量）。"
+    },
+    {
+      "id": "mkt:019ffae8-4fc9-7aab-9022-ff5984cf69f3",
+      "time": "2026-08-13 19:35:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【UK analyst: Strait of Hormuz 'new reality' shifting; US says it has lost a round】Michael Stephens of the Royal United Services Institute says Iran, Oman and the GCC are holding behind‑the‑scenes talks on maritime traffic management in the Strait of Hormuz. It is unclear whether Iran and Oman have agreed transit fees. Stephens says Oman engaged Iran with GCC acquiescence, which suggests the GCC has accepted a 'new reality' for the strait. US Treasury Secretary Scott Bessent has argued a new pipeline would make the strait 'irrelevant', but Stephens warns pipeline construction will take time. He adds that, as talks enter a new phase, Iran is strengthening its bargaining position and the US should not treat the situation as a political or strategic victory."
+    },
+    {
+      "id": "5039406",
+      "time": "2026-08-13 19:35:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭鹿特丹警方稱，爆炸原因目前仍不清楚，正在調查中。"
+    },
+    {
+      "id": "mkt:019ffae7-da68-7aab-9022-f719c3511301",
+      "time": "2026-08-13 19:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An explosion at the Port of Rotterdam in the Netherlands killed one person and injured several others."
+    },
+    {
+      "id": "5039405",
+      "time": "2026-08-13 19:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "荷蘭鹿特丹警方表示，鹿特丹港發生爆炸，造成1人死亡、數人受傷。"
+    },
+    {
+      "id": "te:markets:575085",
+      "time": "2026-08-13 19:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Barrick Gold earnings above expectations at 0.73 USD — Barrick Gold (ABX) released earnings per share at 0.73 USD, compared to market expectations of 0.34 USD."
+    },
+    {
+      "id": "5039404",
+      "time": "2026-08-13 19:34:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：IREN向微軟交付Horizon 1伺服器，並憑藉GB300 NVL72獲英偉達雲卓越範例資質。"
+    },
+    {
+      "id": "5039403",
+      "time": "2026-08-13 19:34:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏進行新一輪陣亡軍人遺體交換】當地時間13日，烏克蘭戰俘待遇協調總部發布訊息稱，根據最新安排，261具遺體已順利運回烏克蘭。俄方表示，此次遣返的遺體均為烏克蘭陣亡軍人遺體。據悉，烏克蘭執法機構調查人員將聯合相關專業鑑定機構工作人員，開展遺體身份核驗等系列後續工作，依規完成各項必要流程，逐一確認被遣返遺體的具體身份資訊。總檯記者當天自俄羅斯方面獲悉，俄烏雙方按照“261對24”的模式完成了陣亡軍事人員遺體交換。（央視新聞）"
+    },
     {
       "id": "5039402",
       "time": "2026-08-13 19:33:31",
