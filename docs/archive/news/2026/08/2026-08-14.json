@@ -1,7 +1,27 @@
 {
   "date": "2026-08-14",
-  "count": 142,
+  "count": 144,
   "items": [
+    {
+      "id": "5039950",
+      "time": "2026-08-14 02:15:40",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "墨西哥央行將官方比索匯率定為17.0530比索兌1美元。"
+    },
+    {
+      "id": "te:markets:575176",
+      "time": "2026-08-14 02:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Drops by 2.95% — Top commodity losers are Natural gas (-2.95%), Crude Oil WTI (-2.57%) and Brent Crude Oil (-2.21%). Gains are led by Methanol (1.15%)."
+    },
     {
       "id": "5039949",
       "time": "2026-08-14 02:11:44",
