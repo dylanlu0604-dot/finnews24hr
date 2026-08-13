@@ -1,7 +1,224 @@
 {
-  "updated": "2026-08-13 15:36:22",
-  "count": 15059,
+  "updated": "2026-08-13 15:40:18",
+  "count": 15072,
   "items": [
+    {
+      "id": "te:markets:574992",
+      "time": "2026-08-13 15:39:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "UK Natural Gas Dips — UK natural gas prices fell below 148 pence a therm on Thursday but remained more than 8% higher so far this week, as supply concerns persisted amid uncertainty over efforts to resolve the Middle East conflict and reopen the Strait of Hormuz. Talks between the US and Iran appear to have hit an impasse, with both sides taking a firmer stance and President Trump insisting that Washington has full control of the key waterway and intends to keep it that way. Shipping disruptions have sharply curtailed LNG flows from the Gulf, significantly delaying cargoes from major exporter Qatar and making it difficult for Europe to rebuild gas inventories ahead of winter. Analysts anticipate European gas prices will maintain a firm floor until storage levels show clearer signs of building before the heating season begins. At the same time, intense summer heatwaves across Southern and Central Europe have ramped up gas-fired power generation to meet cooling needs, diverting supplies from storage."
+    },
+    {
+      "id": "mkt:019ffa0f-655d-7aab-901d-53b6c0faae8e",
+      "time": "2026-08-13 15:39:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The governor of the Central Bank of the Republic of Turkey expects the deflationary trend to continue for the remainder of the year under current demand conditions."
+    },
+    {
+      "id": "mkt:019ffa0f-06d2-7aab-901d-4f3a24c01490",
+      "time": "2026-08-13 15:38:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japanese Prime Minister Takaichi said Putin's visit to the island makes restoring Japan-Russia bilateral ties more difficult."
+    },
+    {
+      "id": "5038837",
+      "time": "2026-08-13 15:38:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：預計今年剩餘時間內需求狀況將繼續呈現通脹放緩前景。"
+    },
+    {
+      "id": "mkt:019ffa0f-00f4-7aab-901d-4173203697b5",
+      "time": "2026-08-13 15:38:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine August grain shipments down 76% YoY as Black Sea ports remain blocked】Ukrainian state rail operator Ukrzaliznytsia said major Black Sea ports remain blocked, constraining grain exports; August shipments fell 76% YoY to 201,700 tonnes. \"With ports blocked, export transport is extremely slow,\" the company said."
+    },
+    {
+      "id": "5038836",
+      "time": "2026-08-13 15:38:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【艾迪藥業：實際控制人傅和亮累計增持73.01萬股，增持金額1130.47萬元】艾迪藥業公告，公司實際控制人之一、董事長傅和亮此前披露增持計劃，擬自2026年3月2日起6個月內增持公司股份，增持金額不低於1000萬元且不超過1500萬元。自2026年3月4日至2026年7月31日，傅和亮透過集中競價方式累計增持公司股份73.01萬股，佔公司總股本的0.17%，合計增持金額為人民幣1130.47萬元，已超過增持計劃金額下限，本次增持計劃已實施完畢。"
+    },
+    {
+      "id": "5038835",
+      "time": "2026-08-13 15:38:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：第二季度需求狀況處於通脹放緩水平。"
+    },
+    {
+      "id": "mkt:019ffa0e-7cf0-7aab-901d-3c7d0b624473",
+      "time": "2026-08-13 15:38:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【AI surge pushes KOSPI into technical bull market; durability questioned】South Korea’s KOSPI rose 3.21% on Thursday, completing a more-than-20% rebound from the July 30 close low and entering a technical bull market; SK Hynix and Samsung Electronics gained about 6% and 4% respectively. The index had plunged 22% in July, its worst monthly drop since the global financial crisis. KB Securities global investment strategist Peter Kim said the AI-led rally and earnings upside were present through the selloff, arguing fundamentals—not valuations—are driving the market rebound; he cited technical factors and flows as the root of the prior selloff and said regulator tightening and brokers’ resumption of normal risk controls have eased forced deleveraging. Phillip Wool, head of research at Ruilian Caizhi, said the market is effectively trading as an AI-hardware market: the rebound reflects receding forced selling, dip-buying and FOMO, and has been supported by stronger-than-expected results that lift AI spend and hardware earnings forecasts; he warned a setback—such as weak capex guidance or renewed Fed tightening—could prompt a pullback. Global X strategist Billy Leung said corporate-governance and value-unlocking plans should help narrow Korea’s valuation discount, and he leans toward a fundamentals-led rally given rising semiconductor profit forecasts, but rising retail participation and index concentration show early late-cycle signals. Fibonacci Asset Management CEO Zheng Renyun urged caution: his base case is a broader bull trend supported by semiconductor earnings and improved risk appetite, but he expects the pace to slow and for consolidation after sharp gains."
+    },
+    {
+      "id": "5038834",
+      "time": "2026-08-13 15:37:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准注射用菲澤妥單抗上市】近日，國家藥品監督管理局批准天境生物藥業（杭州）股份有限公司申報的注射用菲澤妥單抗（商品名：境斐）上市，該品種聯合來那度胺和地塞米松用於既往至少接受過一線治療的多發性骨髓瘤成年患者。該品種的上市為相關患者提供了新的治療選擇。"
+    },
+    {
+      "id": "mkt:019ffa0e-4498-7aab-901d-303c0e3ef46e",
+      "time": "2026-08-13 15:37:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank governor says domestic demand weakness is becoming increasingly evident."
+    },
+    {
+      "id": "mkt:019ffa0e-277a-7aab-901d-2e3f3eb71ab8",
+      "time": "2026-08-13 15:37:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Takaichi strongly protested Putin's visit to the Northern Territories (Kuril Islands)."
+    },
+    {
+      "id": "5038833",
+      "time": "2026-08-13 15:37:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：內需走弱態勢進一步明顯。"
+    },
+    {
+      "id": "5038832",
+      "time": "2026-08-13 15:37:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福達合金：控股股東及其一致行動人合計減持比例達0.5%】福達合金公告稱，2026年7月15日至8月13日，控股股東王達武透過集中競價交易減持601,500股，持股比降至23.32%；7月15日至7月20日，一致行動人陳松揚合計減持69,634股，持股比降至0.15%。本次權益變動後，一致行動組持股比例由25.50%降至25.00%，觸及1%和5%整數倍。此次減持符合規定，不觸及要約收購，未實施完畢。"
+    },
+    {
+      "id": "te:economy:574989",
+      "time": "2026-08-13 15:37:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Hungary Industrial Output Hits Over 3-Year High — Industrial production in Hungary soared 10.1% year-on-year in June 2026, confirming preliminary estimates and following a 0.4% decline in the previous month. This marked the strongest growth since September 2022, as manufacturing output, which accounts for 96% of total industrial production, climbed 10.8% in June after stagnating in May. Production rebounded in transport equipment (21.0% vs -0.5% in May), electrical equipment (1.8% vs -2.6%), rubber and plastic products and other non-metallic mineral products (2.8% vs -3.2%), and basic metals and fabricated metal products, except machinery and equipment (8.1% vs -3.0%), while output of computer, electronic and optical products rose faster (49.7% vs 42.1%). Additionally, production accelerated in mining and quarrying (60.8% vs 43.7%), while electricity, gas, steam and air conditioning supply rebounded (0.3% vs -9.9%). On a seasonally and working-day adjusted basis, industrial output fell 1.4% in June, reversing a 2.7% increase in May."
+    },
+    {
+      "id": "5038831",
+      "time": "2026-08-13 15:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【同比增長126.5% 上半年貴州出口鋰電池14.2億元】貴陽海關資料顯示，今年上半年，貴州出口鋰電池14.2億元，同比增長126.5%。"
+    },
+    {
+      "id": "mkt:019ffa0d-8f71-7aab-901d-229b46c24494",
+      "time": "2026-08-13 15:37:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank governor said indicators show Q2 economic growth has slightly recovered as external demand improved."
+    },
+    {
+      "id": "5038830",
+      "time": "2026-08-13 15:36:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "土耳其央行行長：多項指標顯示，得益於第二季度外需改善，經濟增長略有回升。"
+    },
+    {
+      "id": "te:economy:574987",
+      "time": "2026-08-13 15:36:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Thailand",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Thailand Consumer Morale Rises to 4-Month High — The University of the Thai Chamber of Commerce's Consumer Confidence Index increased to 51.8 in July 2026 from 50.7 in the previous month. It was the second consecutive month of increases and the highest reading since March, helped by lower oil prices and new government support. The government's initial economic stimulus measures also boosted consumer confidence, supporting domestic purchasing power."
+    },
+    {
+      "id": "5038829",
+      "time": "2026-08-13 15:36:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【WorkBuddy升級“資料庫”能力】8月13日，WorkBuddy釋出5.3.11版本，宣佈升級“資料庫”能力，使用者可將WorkBuddy產物和素材進行統一管理，透過統一的目錄和許可權管理，讓人與AI更便捷協作。例如雲端資料庫中的內容，可以透過一句話變成多樣式的網頁和系統。"
+    },
+    {
+      "id": "mkt:019ffa0c-ca1a-7aab-901d-1d7e4356558c",
+      "time": "2026-08-13 15:36:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "CBRT governor says Turkey's Q1 economic growth continued to slow."
+    },
+    {
+      "id": "5038828",
+      "time": "2026-08-13 15:35:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐發電獲資金淨流入17.71億元】Choice資料顯示，8月13日，資金淨流入額排名前十的個股依次是大唐發電、紫光股份、天孚通訊、浪潮資訊、利通電子、劍橋科技、東山精密、藥明康德、新易盛、中科曙光。其中，大唐發電獲淨流入17.71億元。"
+    },
+    {
+      "id": "5038827",
+      "time": "2026-08-13 15:35:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代等在海南成立綠色產投基金】企查查APP顯示，近日，海南時代綠色產業投資基金合夥企業（有限合夥）成立，出資額50億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由寧德時代等共同出資。"
+    },
+    {
+      "id": "te:markets:574985",
+      "time": "2026-08-13 15:35:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls for 4th Session — The FTSE 100 traded lower on Thursday, extending its decline for a fourth consecutive session and underperforming other European markets, as weakness in commodity-related stocks outweighed stronger-than-expected UK economic data. UK GDP rose 0.4% in the second quarter, in line with forecasts, while monthly growth accelerated to 0.3% in June, beating expectations. However, falling commodity prices weighed heavily on the index. Shell and BP declined 0.4% and 1%, respectively, while miners suffered steeper losses as gold, silver and copper prices retreated. Antofagasta fell more than 5%, Rio Tinto dropped 4.5% and Anglo American declined 3%. Precious-metal miners Fresnillo and Endeavour also lost more than 3% each. Meanwhile, Entain reported stronger-than-expected operational profitability and reaffirmed that it remains comfortable with its full-year expectations."
+    },
     {
       "id": "5038826",
       "time": "2026-08-13 15:35:30",
@@ -137412,92 +137629,6 @@
         "Importance 2"
       ],
       "text": "European Stocks Scale Fresh Record Peaks — European stocks traded higher on Thursday, with the STOXX 50 adding 0.4% and the STOXX 600 increasing 0.3%, extending gains for a fourth consecutive session and climbing to fresh record highs. Investors remained focused on the latest corporate earnings and guidance while continuing to monitor developments in the Middle East, amid growing optimism that the US and Iran could be nearing a deal. Merck gained 1.5% after raising its 2026 earnings guidance. Rheinmetall advanced 0.8%, with investors looking past the company's lower 2026 outlook, which reflected the impact of a German government order cancellation earlier this year. WPP soared more than 27% to top the STOXX 600 after the company said there were signs of improvement in its core creative and media businesses. Meanwhile, Siemens dropped more than 5% as its quarterly results disappointed investors despite the company reporting record industrial profit and a record level of new orders."
-    },
-    {
-      "id": "5028235",
-      "time": "2026-08-06 15:39:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小紅書：整治網路娛樂團播亂象，對團播賬號直播間處罰260餘次，處置賬號40餘個】8月6日，@小紅書薯管家 發文稱，自\"清朗·網路娛樂團播亂象整治\"專項行動開展以來，小紅書平臺持續強化對娛樂團播內容的全鏈條監管，堅決整治團播低俗擦邊、誘導非理性消費、未成年人參與打賞、飯圈互撕引戰等突出問題。娛樂團播是使用者分享興趣、互動交流的重要場景，也是社群氛圍與內容生態的重要組成部分。針對當前團播領域的亂象，平臺從內容稽核、流量管控、主播管理、粉絲引導多個維度協同發力，持續淨化平臺娛樂團播生態，切實維護廣大使用者尤其是未成年使用者的合法權益。專項啟動以來，共對團播賬號直播間處罰260餘次，共處置賬號40餘個。"
-    },
-    {
-      "id": "5028234",
-      "time": "2026-08-06 15:39:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【井松智慧：持股5%以上股東減持計劃實施完畢 減持35100股】井松智慧公告稱，持股5%以上股東安元基金減持計劃已實施完畢。2026年5月7日至8月6日，安元基金透過集中競價減持公司股份35,100股，佔公司總股本的0.0349%，減持價格區間為31.85-32.38元/股，減持總金額112.55萬元。本次減持後，安元基金持股數量降至10,060,270股，持股比例降至10.00%。"
-    },
-    {
-      "id": "5028233",
-      "time": "2026-08-06 15:39:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "德國商業銀行執行長表示：我們必須觀望，看看能否在大型投資計劃這類具體事務上開展合作。"
-    },
-    {
-      "id": "5028232",
-      "time": "2026-08-06 15:39:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【濱海大道一處地面沉降後發展為區域性塌陷，深圳地鐵通報】@深圳地鐵 微博8月6日通報，受連日降雨影響，濱海大道西行方向沙河立交附近出現地面沉降，後發展為區域性塌陷，面積約20平方米。該路段地處填海區，地質條件複雜。事件發生後，立即啟動應急預案，應急、交通、住建、公安交管、深鐵投、中鐵十六局等單位第一時間赴現場處置，實行交通管制。經全力處置，8月5日8時，地面塌陷區域完成回填及加固，現場風險得到有效控制。為減少對市民朋友的出行影響，保障道路通行安全，現場採用分階段、分車道逐步恢復通行措施。8月5日中午，濱海大道深灣五路至沙河東立交段西行輔道3車道恢復通行。8月6日14時20分，濱海大道深灣五路至沙河東立交段西行主車道左側2車道恢復通行，因恢復路面等施工需要，該主車道右側3車道仍需封閉約300米進行施工，將在確保安全前提下，有序完成相關工作。"
-    },
-    {
-      "id": "5028231",
-      "time": "2026-08-06 15:39:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【休達欲將未成年移民送到西班牙本土】西班牙飛地休達的地方官員8月5日說，當地仍有約2500名非法入境者滯留，包括約1100名無人陪伴的未成年人，他們無法被立即遣返，這種情況不可持續，希望將大部分未成年移民轉移至西班牙本土。法新社5日援引休達地方政府長官胡安·赫蘇斯·比瓦斯的話報道說，許多孩子被安置在倉庫裡的臨時住所，有的甚至露宿街頭。法新社還報道說，由中右翼人民黨和極右翼呼聲黨聯合執政的一些西班牙地方政府，很可能會抵制移民重新安置工作，拒絕接收滯留休達的未成年移民。（CCTV國際時訊）"
-    },
-    {
-      "id": "5028230",
-      "time": "2026-08-06 15:38:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石油在海南成立新能源公司 含海洋工程裝備研發業務】企查查APP顯示，近日，中石油（海南）南方勘探新能源有限公司成立，法定代表人為劉芙蓉，經營範圍包含：海洋工程裝備研發；發電技術服務；風力發電技術服務；電力行業高效節能技術研發等。企查查股權穿透顯示，該公司由中國石油旗下南方石油勘探開發有限責任公司全資持股。"
-    },
-    {
-      "id": "5028228",
-      "time": "2026-08-06 15:38:01",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【歐洲股市連續第四日上漲 企業盈利強勁提振市場情緒】受強勁的盈利資料提振，歐洲股市連續第四個交易日上漲，其中WPP Plc領漲媒體板塊。歐洲斯托克600指數上漲0.4%，超過週三創下的收盤紀錄。西班牙IBEX 35指數和法國CAC 40指數也創下新高。媒體股表現最佳，WPP股價飆升18%，此前這家廣告公司上半年的利潤超出分析師預期。在今日公佈財報的30多家公司中，德國電信股價上漲5.6%，這家歐洲最大的電信運營商將股票回購計劃規模上調至多30億歐元(約35億美元)。歐洲企業第二季度盈利表現強勁，支撐了市場對股市上漲行情有望持續的看法。截至週三MSCI歐洲指數成分股已公佈業績的公司中，超過半數盈利超出預期。瑞銀全球財富管理首席投資官Mark Haefele表示，歐洲股票是投資者可以用來分散集中倉位i的資產類別之一，並稱“亞洲、歐洲和優質債券有助於拓寬收益來源，提高收入，並增強投資組合的抗風險能力。”"
-    },
-    {
-      "id": "te:economy:573306",
-      "time": "2026-08-06 15:37:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Construction PMI",
-        "Importance 1"
-      ],
-      "text": "German Construction Downturn Deepens — The S&P Global Germany Construction PMI fell to 42.1 in July 2026 from 44.8 in June, signaling a sharper contraction in construction activity and the weakest reading in three months. The index remained below the 50 threshold for the seventh consecutive month, highlighting the sector's prolonged downturn. Housing remained the weakest-performing segment, with activity falling at the fastest pace in three months, while commercial building activity also declined at a faster pace. By contrast, civil engineering returned to growth for the first time in three months. New orders continued to fall as high prices and delayed customer decision-making weighed on demand. Employment declined for a sixth consecutive month, while purchasing activity also weakened. Meanwhile, input cost inflation eased to a five-month low and supplier delivery delays moderated for a second straight month. Business confidence remained negative and edged lower."
-    },
-    {
-      "id": "5028227",
-      "time": "2026-08-06 15:37:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凱眾股份：申請延期回覆併購重組稽核問詢函不超1個月】凱眾股份公告稱，公司擬發行股份及支付現金購買安徽拓盛45%股權、現金認購其320萬股並募集配套資金。7月8日，公司收到上交所稽核問詢函，要求1個月內回覆，可申請延期1次且不超1個月。鑑於部分事項需進一步落實，預計無法按時回覆，公司已申請延期不超1個月，並在期限屆滿前披露回覆檔案。本次交易需上交所稽核透過及證監會同意註冊方可實施。"
-    },
-    {
-      "id": "5028226",
-      "time": "2026-08-06 15:36:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【DeepSeek近期完成增資】天眼查App顯示，DeepSeek關聯公司杭州深度求索人工智慧基礎技術研究有限公司近期發生工商變更，新增國家人工智慧產業投資基金合夥企業（有限合夥）、杭州程礪企業管理諮詢合夥企業（有限合夥）為股東，註冊資本由1500萬人民幣增至約1644.7萬人民幣。該公司成立於2023年7月，法定代表人為裴湉，經營範圍包括人工智慧應用軟體開發、軟體開發、資料處理服務等。"
     }
   ]
 }
