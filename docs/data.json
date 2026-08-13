@@ -1,7 +1,31 @@
 {
-  "updated": "2026-08-13 20:16:28",
-  "count": 15111,
+  "updated": "2026-08-13 20:20:45",
+  "count": 15101,
   "items": [
+    {
+      "id": "5039486",
+      "time": "2026-08-13 20:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗稱馬斯喀特會談取得積極進展。"
+    },
+    {
+      "id": "5039485",
+      "time": "2026-08-13 20:16:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葫蘆娃藥業與三大全國連鎖藥房簽訂戰略合作協議】據葫蘆娃藥業集團訊息，8月13日，在2026西普會上，葫蘆娃藥業與老百姓大藥房、益豐大藥房、一心堂藥業三大全國連鎖藥房達成戰略合作並完成簽約。根據本次簽署的戰略合作框架協議，各方將在多個維度開展常態化協同合作：聯合開展品牌共建，落地聯動營銷與健康科普活動，打造門店兒童健康專區；深化品類協同拓展，將核心兒童用藥作為門店重點主推品種，同步豐富家庭健康全品類供給，探索渠道定製化產品合作；強化終端綜合賦能，輸出系統化專業培訓及數字化運營工具，提升門店精細化經營與專業服務能力。"
+    },
+    {
+      "id": "5039484",
+      "time": "2026-08-13 20:16:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【川環科技：定增申請獲深交所稽核透過】川環科技公告，公司於2026年8月13日收到深交所上市稽核中心出具的《告知函》，深交所稽核認為公司符合發行條件、上市條件和資訊披露要求，後續將按規定報中國證監會履行註冊程式。該事項尚需獲得中國證監會同意註冊後方可實施，最終能否實施及時間存在不確定性。"
+    },
     {
       "id": "5039483",
       "time": "2026-08-13 20:15:20",
@@ -137886,139 +137910,6 @@
         "公司"
       ],
       "text": "雅保公司執行長：將2030年全球鋰需求預測下限上調10萬噸。"
-    },
-    {
-      "id": "5028927",
-      "time": "2026-08-06 20:20:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "雅保公司執行長：今年電池儲能應占全球鋰需求的30%，與輕型電動汽車市場的需求基本持平。"
-    },
-    {
-      "id": "5028926",
-      "time": "2026-08-06 20:20:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "葉門親政府武裝週四表示，胡塞武裝襲擊多處軍事營地與部隊，造成人員傷亡及物資損毀。葉門應急部隊第一師稱己方營地遭到襲擊，但未說明襲擊發生地點，也未公佈傷亡數字。"
-    },
-    {
-      "id": "te:markets:573391",
-      "time": "2026-08-06 20:20:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Holds at 7-Week High — Gold prices were above $4,250 per ounce on Thursday, holding this week's rally at a seven week high as lower energy prices reduced certainty that the Federal Reserve was due to raise rates this year. US officials signaled they are chasing a ceasefire with Iran and an agreement to protect trade through the Persian Gulf, driving fuel prices to plunge since the start of August, and softening concerns that energy inflation would lift underlying consumer prices. Treasury yields consequently eased, lifting bullion prices as markets faced lower opportunity costs to hold assets that bear no interest. Elsewhere, data from clearing institutions indicated that institutional investors in China continued to increase long position on gold-backed assets for safety from volatility in tech stocks and recent signs of strength in the physical market, recently underpinned by central banks."
-    },
-    {
-      "id": "mkt:019fd704-3cde-7aab-8fa1-6b8f78d1c0f9",
-      "time": "2026-08-06 20:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "US initial jobless claims for the week to Aug. 1 due in 10 minutes."
-    },
-    {
-      "id": "mkt:019fd703-a325-7aab-8fa1-63419c15d486",
-      "time": "2026-08-06 20:19:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O"
-      ],
-      "text": "Alphabet (GOOG.O) is seeking to raise up to $25 billion in a bond sale."
-    },
-    {
-      "id": "5028925",
-      "time": "2026-08-06 20:19:16",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【波黑正式申請加入單一歐元支付區】波黑中央銀行（CBBH）6日釋出公告稱，該國今日正式申請加入單一歐元支付區（SEPA），這意味著波黑邁出融入歐洲支付區程序中重要一步。"
-    },
-    {
-      "id": "mkt:019fd703-18e8-7aab-8fa1-59f22b485976",
-      "time": "2026-08-06 20:18:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Alphabet markets multi-maturity U.S. investment-grade bond offering amid AI spend concerns】Alphabet has begun marketing a U.S. investment-grade bond offering in up to 10 tranches, with maturities from 2 to 40 years, testing investor appetite after it raised 2026 capex guidance and following a selloff in AI-linked bonds. Initial pricing guidance for the longest-dated tranche is about 155 bps over U.S. Treasuries."
-    },
-    {
-      "id": "5028924",
-      "time": "2026-08-06 20:18:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALPHABET 計劃透過債券發行籌集至多 250 億美元資金。"
-    },
-    {
-      "id": "mkt:019fd702-60d6-7aab-8fa1-56a0ff26e9ed",
-      "time": "2026-08-06 20:18:04",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba"
-      ],
-      "text": "【Alibaba Cloud opens public beta for Wan3.0 video-generation model】Alibaba Cloud opened public beta for Wan3.0, its next-generation video-generation model. Wan3.0 raises single-generation length to 30 seconds and upgrades creation breadth, multimodal referencing and realism. In addition to text, image, audio and video inputs, it now accepts document formats (doc, xls, ppt, pdf, md) for video generation. The model is available immediately on Alibaba Cloud platforms including Bailian, Wanjing Yike, the Wanxiang website and the Qianwen PC creator, with a grayscale release on the Qianwen app. API pricing is 0.3/0.6/1.2 yuan per second for 480p/720p/1080p; APIs will be opened fully soon."
-    },
-    {
-      "id": "5028923",
-      "time": "2026-08-06 20:17:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華天科技：發行股份購買資產事項將於8月13日上會稽核】華天科技公告，公司擬透過發行股份及支付現金方式收購華羿微電子100%股份並募集配套資金。根據深圳證券交易所併購重組稽核委員會2026年第12次審議會議公告，該委員會定於2026年8月13日召開會議稽核公司本次交易事項。"
-    },
-    {
-      "id": "5028922",
-      "time": "2026-08-06 20:17:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多地中小銀行逆勢上調存款利率 業內：或與大行集體重啟5年期大額存單有關】今年以來，中小銀行持續下調存款利率是業內主流，但近期這種情況似乎有了新動向。今日中午，湖北棗陽農商銀行釋出公告稱，即日起上調包括三年期定存在內的多款存款產品利率，最高上調幅度達20個基點。記者查詢發現，近期湖北、廣東等部分省份內已經有多家中小銀行逆勢上調存款利率。在業內人士看來，這種現象或受到近期四大行集體重啟5年期大額存單有關，但是否意味著中小銀行降息潮逆轉，仍需觀察。"
-    },
-    {
-      "id": "te:markets:573390",
-      "time": "2026-08-06 20:17:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Targa Resources earnings above expectations at 2.81 USD — Targa Resources (TRGP) released earnings per share at 2.81 USD, compared to market expectations of 2.74 USD."
-    },
-    {
-      "id": "te:markets:573389",
-      "time": "2026-08-06 20:17:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Singapore",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "DBS Holdings earnings above expectations at 1.08 SGD — DBS Holdings (D05) released earnings per share at 1.08 SGD, compared to market expectations of 0.98 SGD."
     }
   ]
 }
