@@ -1,7 +1,485 @@
 {
   "date": "2026-08-13",
-  "count": 1128,
+  "count": 1178,
   "items": [
+    {
+      "id": "mkt:019ff9e6-9fc0-7aab-901b-d3af6962d64c",
+      "time": "2026-08-13 14:54:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK",
+        "Impact bullish",
+        "NTES.O"
+      ],
+      "text": "【Sensor Tower: 38 Chinese mobile-game publishers earned $2.3bn in July, 42.6% of global top-100 revenue】Sensor Tower storefront-intelligence shows 38 Chinese publishers made the global mobile-game top-100 revenue list in July 2026, generating $2.3bn and accounting for 42.6% of revenue among the period's top 100. The top five Chinese publishers each exceeded $100m in monthly revenue. Tencent, NetEase and miHoYo posted double-digit MoM growth; miHoYo's revenue rose 71% MoM, among the largest gains in the top 30. Publishers including Mutong Technology, XD Inc. and ModoGlobal saw material revenue uplifts driven by summer content and events."
+    },
+    {
+      "id": "mkt:019ff9e6-8d92-7aab-901b-ce75bbc849f9",
+      "time": "2026-08-13 14:54:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. F-22 makes emergency landing at Kadena Air Base, Okinawa】A U.S. F-22 based in Japan made an emergency landing at Kadena Air Base in Okinawa on the 11th at about 10:20 a.m. local time. Fire and maintenance crews inspected the jet for roughly 20 minutes before towing it to the ramp; the aircraft reportedly experienced a malfunction."
+    },
+    {
+      "id": "5038761",
+      "time": "2026-08-13 14:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐日美軍一架F-22戰機因發生故障緊急降落】總檯記者13日自日本方面獲悉，當地時間11日10時20分左右，駐日美軍一架F-22戰鬥機緊急降落在位於沖繩的嘉手納基地。消防和維修人員進行了約20分鐘的檢查，隨後將飛機牽引至停機坪。據稱，該機發生了故障。（央視新聞）"
+    },
+    {
+      "id": "5038760",
+      "time": "2026-08-13 14:53:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.07%，成分股中，大全能源跌3.62%，天合光能跌3.59%，佰維儲存跌3.36%，中科飛測跌3.02%。"
+    },
+    {
+      "id": "mkt:019ff9e5-1e2c-7aab-901b-c3a9aa3f814c",
+      "time": "2026-08-13 14:52:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO said the company accurately forecast memory-chip supply shortages and rising costs and successfully managed those challenges."
+    },
+    {
+      "id": "mkt:019ff9e4-c946-7aab-901b-be709ee2da86",
+      "time": "2026-08-13 14:52:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK"
+      ],
+      "text": "Lenovo CEO says the company is becoming a global leader in AI infrastructure."
+    },
+    {
+      "id": "5038759",
+      "time": "2026-08-13 14:52:07",
+      "tags": [
+        "行業",
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "聯想集團執行長楊元慶：已準確預判儲存晶片供應短缺與成本上漲問題，併成功予以應對。"
+    },
+    {
+      "id": "5038758",
+      "time": "2026-08-13 14:50:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想集團執行長楊元慶：我們正成長為全球人工智慧基礎設施領域的領導者。"
+    },
+    {
+      "id": "5038757",
+      "time": "2026-08-13 14:50:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基執行長：認為北極航線在航運業中不會發揮重要作用。"
+    },
+    {
+      "id": "mkt:019ff9e3-1466-7aab-901b-b0437c725a07",
+      "time": "2026-08-13 14:50:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Mecca joint defence pact raises Middle East order uncertainty — nascent alliance or strategic hedge?】Saudi Arabia, Turkey and Pakistan have signed a Mecca joint defence pact that could shift regional power dynamics by enhancing members' autonomous deterrent capacity and easing some US security burdens, though its operational credibility remains uncertain. A Foundation for Defense of Democracies expert says the agreement appears more focused on economic and commercial cooperation than on a NATO‑style security alliance; its deterrent value depends on joint planning, command arrangements and crisis procedures. A Pakistani policy analyst at CUNY warned the pact should not be read as an Article‑5 equivalent for now. Even a limited military arrangement may harden alignments—prompting counter‑cooperation from countries such as Israel and Greece—and therefore raise geopolitical tensions in the region."
+    },
+    {
+      "id": "5038756",
+      "time": "2026-08-13 14:50:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海鍋股份在張家港成立儲能新公司】企查查APP顯示，近日，張家港海鍋儲能有限公司成立，經營範圍包含儲能技術服務；光伏裝置及元器件銷售；太陽能發電技術服務等。企查查股權穿透顯示，該公司由海鍋股份全資持股。"
+    },
+    {
+      "id": "5038755",
+      "time": "2026-08-13 14:49:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林兩大科研所聯手研製可程式設計光伏窗】據“吉林釋出”，近日，中國科學院長春光學精密機械與物理研究所郭曉陽、劉星元研究團隊與中國科學院長春應用化學研究所合作，研製出色彩可調的高效隔熱可程式設計光伏窗，實現可見光顏色、透射光譜與紅外反射的協同調控。該成果集廣色域顯色、高色彩還原度與卓越熱管理能力於一體，為低碳建築外立面提供兼具審美價值與節能效益的多功能光伏方案。"
+    },
+    {
+      "id": "5038754",
+      "time": "2026-08-13 14:49:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "廣達將向ACHI CAPITAL PARTNERS基金投資2000萬美元。"
+    },
+    {
+      "id": "5038753",
+      "time": "2026-08-13 14:48:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基執行長認為，全球對亞洲進口的依賴程度正在增加。"
+    },
+    {
+      "id": "5038752",
+      "time": "2026-08-13 14:48:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技：在手算力3-5年長期訂單規模約150.82億元】8月13日，行雲科技在深交所互動易平臺回答了投資者有關公司算力租賃業務方面的提問。公司表示，“算力租賃產業的龍頭老大”屬於第三方媒體觀點，並非公司官方表述，目前行業內暫無統一、權威的龍頭企業排名。公司嚴格按照監管規定履行資訊披露義務，相關訂單及業務進展及時披露。公司在手算力3-5年長期訂單規模約150.82億元，合作客戶資質優質、合作黏性較強、回款機制穩定，訂單執行按月交付、按月回款、逐月確認收入的常態化模式。"
+    },
+    {
+      "id": "te:economy:574949",
+      "time": "2026-08-13 14:47:29",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Hungary Construction Output Decline Eases in June — Hungary’s construction output fell by 1.2% year-on-year in June 2026, easing sharply from a 10.7% decline in the previous month. The decline was driven by a 5.5% contraction in building construction from 4.6% increase in May. Meanwhile output in other construction increased 5.6% from slumping 14.9% in the previous month, supported by a 28.3% rise in civil engineering, mainly due to a 49.6% expansion in road and railway construction. Meanwhile, production in specialised construction, the industry’s largest segment, rose 0.6% from a year earlier. On a seasonally and working-day adjusted monthly basis, construction activity fell by 3.9% in June, following the previous month’s increase. In the first half of 2026, total construction output declined by 0.7% compared with the same period a year earlier."
+    },
+    {
+      "id": "te:economy:574948",
+      "time": "2026-08-13 14:47:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Swiss Producer and Import Prices Fall Again in July — Switzerland’s producer and import prices dropped by 2.1% year-on-year in July 2026, the same pace as in the previous month and extending a more than three-year deflationary streak. The latest figure also remained the sharpest annual decline since March, reflecting continued weakness in both domestic and imported prices. Producer prices continued to decline (-2.3% vs -2.7% in June), driven by lower prices mainly for agricultural and forestry products (-5.8%), electricity and gas supply (-6.9%), and water treatment and distribution (-4%). Import prices also declined further (-1.5% vs -0.8%), as costs dropped for mining and quarrying products (-19.5%) and manufacturing products (-0.9%), which more than offset an increase in agricultural products (1.7%). On a monthly basis, producer and import prices fell by 0.1% in July, following a 0.3% decrease in June and marking a third consecutive monthly drop, mainly driven by lower petroleum-related prices."
+    },
+    {
+      "id": "5038751",
+      "time": "2026-08-13 14:47:21",
+      "tags": [
+        "行業",
+        "資料",
+        "其他"
+      ],
+      "text": "【富寶資訊：當週碳酸鋰庫存減少2128噸至7.93萬噸，已連續十五週去庫】富寶資訊調研資料顯示，截至8月13日，當週碳酸鋰產量2.3萬噸，環增0.88%（較上期增加200噸）；碳酸鋰庫存7.93萬噸，環減2.61%（較上期減少2128噸）。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608133840385273",
+      "time": "2026-08-13 14:47:12",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本企業物價指數連續兩個月維持7%以上高位】據新華社，日本央行13日公佈的初步統計結果顯示，7月日本企業物價指數同比上漲7.2%至135.8，漲幅時隔5個月出現輕微回落，但連續兩個月維持7%以上的高位。"
+    },
+    {
+      "id": "mkt:019ff9df-b610-7aab-901b-aed288ad45eb",
+      "time": "2026-08-13 14:46:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RIA: Russia's FSB said a Russian citizen was detained in Crimea, accused of passing intelligence on Russian air-defence systems to Ukrainian intelligence and plotting a terrorist attack on an infrastructure facility."
+    },
+    {
+      "id": "5038750",
+      "time": "2026-08-13 14:46:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基執行長：環境將“更加友好”。"
+    },
+    {
+      "id": "5038749",
+      "time": "2026-08-13 14:45:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基執行長：運費將繼續波動。"
+    },
+    {
+      "id": "mkt:019ff9dd-bb55-7aab-901b-a2797f81c3e5",
+      "time": "2026-08-13 14:44:45",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk CEO says container shipping demand remains strong."
+    },
+    {
+      "id": "5038748",
+      "time": "2026-08-13 14:43:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "工信部：釋出許可的《道路機動車輛生產企業及產品》（第409批）以及經商國家稅務總局同意的《享受車船稅減免優惠的節約能源 使用新能源汽車車型目錄》（第八十八批）、《減免車輛購置稅的新能源汽車車型目錄》（第三十三批）。"
+    },
+    {
+      "id": "5038747",
+      "time": "2026-08-13 14:43:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Alo客服回應是否在中國開設線下門店：沒接到通知】8月12日，Alo正式進入中國大陸市場。此前有訊息稱，Alo或將在中國大陸首批開設四家門店，但這一說法尚未獲得Alo方面證實。8月13日，記者以消費者身份致電Alo官方客服並詢問近期是否有在國內開設線下門店的計劃，客服回應稱：“目前還沒接到國內要開（線下實體）店的通知，可以關注一下我們線上的釋出渠道。”據瞭解，在全球市場擴張過程中，ALO Yoga與lululemon長期存在直接競爭關係。無論是在溫哥華lululemon總部附近開店，還是在紐約曼哈頓同一街區內開設旗艦店，ALO都曾透過門店選址與lululemon形成正面競爭。（時代報告雜誌）"
+    },
+    {
+      "id": "te:economy:574943",
+      "time": "2026-08-13 14:42:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Private Investment",
+        "Importance 1"
+      ],
+      "text": "UK Business Investment Growth Accelerates — Business investment in the United Kingdom rose by 1.7% quarter-on-quarter in the three months to June 2026, exceeding market expectations of a 0.5% decline and accelerating from 0.9% in the previous period, according to preliminary estimates. This marked the strongest growth since the first quarter of 2025, highlighting a continued recovery in corporate spending. The increase was largely driven by a significant rise in spending on ICT equipment and other machinery and equipment, while investment declined mainly in intellectual property products. On an annual basis, business investment grew 0.8% in the second quarter, rebounding from a 1.3% decline in the fourth quarter. Meanwhile, overall gross fixed capital formation increased by 0.4% quarter-on-quarter and 1.6% year-on-year."
+    },
+    {
+      "id": "5038746",
+      "time": "2026-08-13 14:42:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "馬士基執行長：集裝箱運輸需求依然強勁。"
+    },
+    {
+      "id": "mkt:019ff9db-37a1-7aab-901b-9fb8b42186b9",
+      "time": "2026-08-13 14:42:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "ChiNext index turned negative in the afternoon after rising more than 2% in early trade."
+    },
+    {
+      "id": "te:markets:574941",
+      "time": "2026-08-13 14:41:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Eases Ahead of US PPI Data — Silver slipped below $65 an ounce on Thursday after reaching a seven-week high earlier in the session, as investors adopted a cautious stance ahead of US producer inflation data for further insights on recent price trends. Data released Wednesday showed US consumer inflation eased for a second consecutive month to 3.4% in July, while increasing just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Precious metals also remained under pressure from elevated oil prices as hopes for a deal to reopen the Strait of Hormuz stayed limited. Escalating rhetoric between the US and Iran amid stalled negotiations further reduced expectations for an imminent agreement."
+    },
+    {
+      "id": "5038745",
+      "time": "2026-08-13 14:41:15",
+      "tags": [
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【創業板指翻綠 此前一度漲超2%】指數午後大幅回落，創業板指翻綠，早盤一度漲超2%；滬指、深成指跌超0.3%，滬深京三市下跌個股近4100只。"
+    },
+    {
+      "id": "5038744",
+      "time": "2026-08-13 14:41:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆易創新A股成交額超200億元】8月13日下午，兆易創新A股成交額超200億元，現跌1.37%。"
+    },
+    {
+      "id": "te:markets:574940",
+      "time": "2026-08-13 14:39:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Pulls Back Ahead of US PPI Data — Gold slipped below $4,400 an ounce on Thursday after reaching a ten-week high earlier in the session, as investors adopted a cautious stance ahead of US producer inflation data for further insights on recent price trends. Data released Wednesday showed US consumer inflation eased for a second consecutive month to 3.4% in July, while increasing just 0.1% from the previous month. Markets now see around a 40% chance of a 25 basis point rate hike from the Federal Reserve in September, down from nearly 50% a day earlier. Gold also remained under pressure from elevated oil prices as hopes for a deal to reopen the Strait of Hormuz stayed limited. Escalating rhetoric between the US and Iran amid stalled negotiations further reduced expectations for an imminent agreement."
+    },
+    {
+      "id": "5038743",
+      "time": "2026-08-13 14:39:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月共38家中國遊戲廠商佔全球百強近四成收入】8月13日，Sensor Tower 商店情報平臺顯示，2026年7月共38箇中國廠商入圍全球手遊發行商收入榜 TOP 100，合計吸金23億美元，佔本期全球 TOP 100手遊發行商收入42.6%。7月中國手遊 Top 5發行商收入均過億（美元），騰訊、網易、米哈遊實現兩位數增長，其中米哈遊收入環比大增71%，增幅位居 Top 30發行商前列；沐瞳科技、心動網路、Modo Global等多家發行商在暑期內容與活動推動下實現收入顯著增長。"
+    },
+    {
+      "id": "mkt:019ff9d9-35e6-7aab-901b-96b7697f3533",
+      "time": "2026-08-13 14:39:49",
+      "tags": [
+        "MKT News",
+        "0992.HK"
+      ],
+      "text": "Lenovo CEO says the company will flexibly adjust consumer-electronics pricing depending on supply conditions."
+    },
+    {
+      "id": "mkt:019ff9d8-b57d-7aab-901b-8ab2177519bb",
+      "time": "2026-08-13 14:39:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "0992.HK"
+      ],
+      "text": "Lenovo CEO says the company, in collaboration with NVIDIA (NVDA.O), plans to launch an AI PC powered by RTX chips later this year."
+    },
+    {
+      "id": "mkt:019ff9d8-7fc4-7aab-901b-808463fe6db8",
+      "time": "2026-08-13 14:39:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Jinan 1H financial sector value added 77.53 bln yuan, up 14.7% YoY】Jinan's financial sector value added was 77.53 bln yuan in 1H, up 14.7% YoY and accounting for 11% of GDP. As of end-June, total social financing outstanding stood at 5.63 tln yuan (+8.6% YoY); domestic and foreign-currency deposits 3.40 tln yuan (+5.8% YoY); and domestic and foreign-currency loans 3.67 tln yuan (+8.0% YoY)."
+    },
+    {
+      "id": "5038742",
+      "time": "2026-08-13 14:38:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【因多瑙河水位持續下降 羅馬尼亞唯一核電站停運】當地時間8月13日，羅馬尼亞核電公司釋出公告稱，鑑於多瑙河水位持續顯著下降，該國已正式啟動切爾納沃德核電站2號機組的受控停機程式。當地核電站專家將根據未來多瑙河水位的預測走勢，擇機決定重新併網的時間。受罕見低水位影響，該核電站1號機組已於7月下旬實施受控停機。（央視新聞）"
+    },
+    {
+      "id": "5038741",
+      "time": "2026-08-13 14:38:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【濟南：上半年金融業增加值775.3億元 同比增長14.7%】記者8月13日從濟南市新聞辦舉行的新聞釋出會上獲悉，上半年，濟南市金融業增加值完成775.3億元，同比增長14.7%，佔地區生產總值的比重為11%。截至6月末，濟南市社會融資規模餘額5.63萬億元，同比增長8.6%；本外幣存款餘額3.4萬億元，同比增長5.8%；本外幣貸款餘額3.67萬億元，同比增長8%。（上證報）"
+    },
+    {
+      "id": "5038740",
+      "time": "2026-08-13 14:38:14",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "聯想執行長：正與英偉達合作，將於今年下半年推出搭載RTX晶片的AI個人電腦。"
+    },
+    {
+      "id": "5038739",
+      "time": "2026-08-13 14:38:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想執行長：將根據供應情況靈活調整消費電子產品價格。"
+    },
+    {
+      "id": "5038738",
+      "time": "2026-08-13 14:37:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想執行長：記憶體短缺背景下，我們正盡全力保障充足的記憶體供應。"
+    },
+    {
+      "id": "5038737",
+      "time": "2026-08-13 14:37:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想執行長：記憶體短缺不會推遲人工智慧個人電腦的出貨。"
+    },
+    {
+      "id": "te:economy:574938",
+      "time": "2026-08-13 14:37:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Saudi Wholesale Inflation Highest Since 2022 — Saudi Arabia’s wholesale price inflation rose to 5.0% year-on-year in July 2026 from 4.8% in the previous month, the sharpest growth since August 2022. Prices increased for agriculture and fishery products (6.2% vs 4.0%) and other transportable goods, excluding metal products, machinery, and equipment (9.7% vs 9.3% in June), driven largely by higher costs for basic chemicals (66.7% vs 62.0%). At the same time, deflation slowed for ores and minerals (-0.1% vs -0.5%). In contrast, costs declined for food products, beverages, and tobacco, and textiles (-0.6% vs 0.2%), while price growth moderated for metal products, machinery, and equipment (1.5% vs 1.6%). On a monthly basis, wholesale prices recorded a flat reading in July, easing from a 0.2% rise in the preceding period."
+    },
+    {
+      "id": "5038735",
+      "time": "2026-08-13 14:36:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【復星集團等在江蘇成立新合夥企業 出資額約1.9億】天眼查App顯示，近日，江蘇九宸睿進一期科技合夥企業（有限合夥）成立，執行事務合夥人為固態離子能源科技（武漢）有限公司，出資額約1.9億人民幣，經營範圍包括企業管理、企業總部管理、單位後勤管理服務等，由上海復星高科技（集團）有限公司、亞東廣信科技發展有限公司、固態離子能源科技（武漢）有限公司共同出資。"
+    },
+    {
+      "id": "5038734",
+      "time": "2026-08-13 14:36:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4370美元/盎司，日內跌0.89%。"
+    },
+    {
+      "id": "5038733",
+      "time": "2026-08-13 14:36:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.01%，成分股中，納科諾爾跌5.12%，民士達跌3.58%，連城數控跌3.37%，科力股份跌3.04%。"
+    },
+    {
+      "id": "5038732",
+      "time": "2026-08-13 14:36:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張雪機車獲紅杉中國投資 投後估值60億元】8月13日，記者從紅杉中國方面獲悉，張雪機車（ZXMOTO）近日獲得了紅杉中國的投資。此外，記者從張雪機車的早期投資人高信資本方面獲悉，其也參與了張雪機車的本輪融資，但具體交易條款未予披露。不過，高信資本創始合夥人兼董事長曹斌近日在接受訪談時透露，紅杉中國這筆投資金額規模為1.5億元，張雪機車投後估值達到60億元。（證券時報）"
+    },
+    {
+      "id": "5038731",
+      "time": "2026-08-13 14:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京產權交易所賦能存量資產高效盤活】北京產權交易所透過著力構建“平臺+投行”交易生態圈，聚焦各類經營主體存量資產盤活重點方向與核心領域，在賦能資產高效盤活、實現資產價值最大化等方面取得豐碩成果。據瞭解，為更好地服務各類經營主體盤活存量資產，北京產權交易所於近期上線“存量資產盤活服務專欄”。專欄聚焦存量資產高效盤活與價值提升，服務範圍涵蓋股權債權轉讓、房產土地轉讓出租、機器裝置及閒廢資產處置等14個領域。依託多年專業的服務能力和豐富的服務經驗，北京產權交易所可為存量資產盤活提供顧問諮詢、資產詢價、盡調踏勘、宣傳推介、交易撮合、金融服務等一站式全流程服務，在大幅提升交易效率、降低交易成本的同時，賦能存量資產高效盤活。（新華財經）"
+    },
+    {
+      "id": "mkt:019ff9d5-49bb-7aab-901b-7d069571214b",
+      "time": "2026-08-13 14:35:32",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share education sector extended losses; Chuanzhi Education hit the daily limit down, while Xueda Education, Angli Education, Huatu Shanding, Kevin Education and Offcn Education also fell."
+    },
+    {
+      "id": "mkt:019ff9d5-4068-7aab-901b-761d02b35070",
+      "time": "2026-08-13 14:35:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Beijing Property Rights Exchange launches platform to accelerate monetization of existing assets】Beijing Property Rights Exchange said it has built a “platform + investment bank” trading ecosystem and launched a dedicated existing-asset revitalization service column to help monetize stock assets. The column targets 14 asset categories, including equity and debt transfers, real estate and land transfers/leases, machinery and disposal of idle/scrap assets. The exchange offers one-stop services — advisory, asset valuation/price discovery, due diligence and site inspection, marketing and promotion, transaction matching, and financing — intended to raise transaction efficiency, cut transaction costs and maximize asset value."
+    },
     {
       "id": "te:economy:574937",
       "time": "2026-08-13 14:34:40",
