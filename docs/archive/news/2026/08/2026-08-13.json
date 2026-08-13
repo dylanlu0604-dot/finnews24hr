@@ -1,7 +1,80 @@
 {
   "date": "2026-08-13",
-  "count": 1089,
+  "count": 1097,
   "items": [
+    {
+      "id": "5038714",
+      "time": "2026-08-13 14:23:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北宜化旗下楚星生態科技公司增資至17億 增幅約120%】天眼查App顯示，近日，湖北宜化楚星生態科技有限公司發生工商變更，註冊資本由7.73億人民幣增至17億人民幣，增幅約120%。該公司成立於2023年11月，法定代表人為林劍，經營範圍包括化工產品生產、化肥銷售、新材料技術研發等，由湖北宜化化工股份有限公司全資持股。"
+    },
+    {
+      "id": "5038713",
+      "time": "2026-08-13 14:21:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【優步將在東京試點部署Robotaxi，預計2026年底啟動】8月13日，優步宣佈，優步日本已與日之丸交通簽署運營合作協議，將負責東京自動駕駛計程車試點專案的日常車隊運營，專案預計於2026年底啟動。日之丸交通將負責車輛清潔、維護、檢查、充電及車隊運營等工作，乘客可透過優步打車應用使用相關服務。該專案將採用日產聆風（LEAF）電動車，搭載英國自動駕駛技術公司Wayve的人工智慧駕駛技術。根據日本相關法律，載客運輸服務須由獲授權的計程車公司運營，因此試點初期將由日之丸交通作為獲授權運營商，經驗豐富的計程車司機也將作為安全員隨車監控。未來在獲得監管批准後，專案將逐步邁向完全無人駕駛。"
+    },
+    {
+      "id": "5038712",
+      "time": "2026-08-13 14:21:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美銀：五礦資源上半年業績強勁，目標價升至12港元】美銀證券發表報告指，五礦資源上半年業績強勁，各項主要指標均表現突出。期內收入同比增長61%至45.4億美元，股東應占純利達8.97億美元，同比大升164%，超出該行預期，並已達到市場對2026財年全年預測的54%。強勁的盈利能力受惠於銷量增加、銅及副產品價格上升，以及較低的C1現金成本，帶動EBITDA升至27.3億美元，同比增長77%。由於供應靈活性有限，該行看好銅價前景。考慮到上半年業績勝預期及資產負債表大幅改善，該行上調2026至2028年盈利預測16%至22%，目標價由10.5港元上調至12港元，重申“買入”評級。"
+    },
+    {
+      "id": "te:economy:574925",
+      "time": "2026-08-13 14:21:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Inflation Unchanged for Third Month — The annual inflation rate in Saudi Arabia rose by 1.8% in July 2026, matching the pace from the previous two months and in line with market expectations. Prices increased for food and non-alcoholic beverages (1.5% vs 1.4% in June), housing and utilities (4.2% vs 3.5%), restaurants and hotels (2.0% vs 1.5%), and education (1.2% vs 1.1%). At the same time, costs remained unchanged for information and communication (at 0.6%) and clothing and footwear (at -0.4%), while prices fell at a softer pace for furnishings and household equipment (-0.5% vs -0.6%). In contrast, inflation moderated for tobacco (0.4% vs 0.5%), recreation and culture (2.4% vs 2.5%), insurance and financial services (1.4% vs 2.1%), transportation (1.4% vs 1.7%), health (0.3% vs 0.4%), and miscellaneous goods and services (2.9% vs 3.8%). On a monthly basis, consumer prices grew by 0.2%, unchanged from the previous three months and exceeding market expectations of a 0.1% increase."
+    },
+    {
+      "id": "5038711",
+      "time": "2026-08-13 14:20:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東方電氣中標“中廣核格爾木350兆瓦光熱示範（試點）專案”汽輪發電機組標段】據東方電氣訊息，近日，東方電氣成功中標中廣核（格爾木）能源開發有限公司“中廣核格爾木350兆瓦光熱示範（試點）專案”汽輪發電機組標段，將為專案提供1臺（套）350兆瓦亞臨界一次再熱汽輪發電機組。專案位於青海省格爾木市，是青海省重點清潔能源標杆工程，是目前全球單機儲熱容量最大、鏡場面積最大的光熱發電示範專案。"
+    },
+    {
+      "id": "te:economy:574923",
+      "time": "2026-08-13 14:20:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Construction Orders",
+        "Importance 1"
+      ],
+      "text": "UK Q2 Construction Orders Drop at Steeper Pace — UK construction orders fell 18.1% year-on-year in Q2 2026, deepening from an 11.9% decline in the prior period and marking the sharpest contraction since Q4 2023. The downturn was driven by a faster fall in orders for other work (-25.4% vs -19.0% in Q1), with private commercial orders also weakening (-28.5% vs -23.1%). Other infrastructure orders declined at a slower pace (-22.5% vs -36.5%), while private industrial orders surged (33.0% vs 3.6%). However, this was offset by a sharp slump in other new work excluding infrastructure (-45.8% vs 12.9%). New housing orders also lost momentum, rising 7.7% after a 15.8% increase in Q1, as private housing growth slowed (12.9% vs 17.7%) and public housing orders fell (-19.2% vs 4.0%). On a quarterly basis, construction orders declined 11.8%, matching Q1’s pace and extending the contraction to a third consecutive quarter."
+    },
+    {
+      "id": "5038710",
+      "time": "2026-08-13 14:20:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "LG新能源2026財年半年報營業總收入14.12萬億韓元，同比增長10.46%。"
+    },
+    {
+      "id": "mkt:019ff9c7-4f5b-7aab-901b-20c654146cb2",
+      "time": "2026-08-13 14:20:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed down 19.30 points, or 0.21%, at 9,190.10 on Aug 13 (Thursday)."
+    },
     {
       "id": "5038709",
       "time": "2026-08-13 14:19:08",
