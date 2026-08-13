@@ -1,7 +1,66 @@
 {
   "date": "2026-08-13",
-  "count": 492,
+  "count": 499,
   "items": [
+    {
+      "id": "5038335",
+      "time": "2026-08-13 08:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月13日08時47分在甘肅臨夏州永靖縣（北緯36.06度，東經103.55度）發生3.2級地震，震源深度11千米。"
+    },
+    {
+      "id": "5038334",
+      "time": "2026-08-13 08:52:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.0個基點至2.840%。"
+    },
+    {
+      "id": "5038333",
+      "time": "2026-08-13 08:51:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行在二季度進行了十三年來的首次黃金相關投資。"
+    },
+    {
+      "id": "mkt:019ff89a-213a-7aab-9015-97d2554bdc7d",
+      "time": "2026-08-13 08:51:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA's Kent said attention should be paid to adjusted historical average inflation data to enable focus on monthly CPI releases rather than quarterly data."
+    },
+    {
+      "id": "5038332",
+      "time": "2026-08-13 08:50:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：需觀測數年的截尾均值資料，或許三年時間。"
+    },
+    {
+      "id": "mkt:019ff899-1f95-7aab-9015-8a357661f75d",
+      "time": "2026-08-13 08:50:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump's Thursday schedule (Beijing time)】Beijing time: Aug 13, 20:00 — administrative duties at the White House; Aug 13, 23:00 — intelligence briefing at the White House; Aug 14, 02:00 and 03:00 — signing ceremonies in the Oval Office; Aug 14, 05:00 — policy meeting in the Oval Office."
+    },
+    {
+      "id": "5038331",
+      "time": "2026-08-13 08:49:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：需關注截均值通脹的歷史走勢，因此應聚焦月度消費者物價指數報告而非季度報告。"
+    },
     {
       "id": "te:markets:574861",
       "time": "2026-08-13 08:48:35",

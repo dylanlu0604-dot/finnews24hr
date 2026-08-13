@@ -1,7 +1,66 @@
 {
-  "updated": "2026-08-13 08:49:34",
+  "updated": "2026-08-13 08:53:26",
   "count": 15056,
   "items": [
+    {
+      "id": "5038335",
+      "time": "2026-08-13 08:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月13日08時47分在甘肅臨夏州永靖縣（北緯36.06度，東經103.55度）發生3.2級地震，震源深度11千米。"
+    },
+    {
+      "id": "5038334",
+      "time": "2026-08-13 08:52:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率下跌1.0個基點至2.840%。"
+    },
+    {
+      "id": "5038333",
+      "time": "2026-08-13 08:51:39",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行在二季度進行了十三年來的首次黃金相關投資。"
+    },
+    {
+      "id": "mkt:019ff89a-213a-7aab-9015-97d2554bdc7d",
+      "time": "2026-08-13 08:51:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBA's Kent said attention should be paid to adjusted historical average inflation data to enable focus on monthly CPI releases rather than quarterly data."
+    },
+    {
+      "id": "5038332",
+      "time": "2026-08-13 08:50:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：需觀測數年的截尾均值資料，或許三年時間。"
+    },
+    {
+      "id": "mkt:019ff899-1f95-7aab-9015-8a357661f75d",
+      "time": "2026-08-13 08:50:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump's Thursday schedule (Beijing time)】Beijing time: Aug 13, 20:00 — administrative duties at the White House; Aug 13, 23:00 — intelligence briefing at the White House; Aug 14, 02:00 and 03:00 — signing ceremonies in the Oval Office; Aug 14, 05:00 — policy meeting in the Oval Office."
+    },
+    {
+      "id": "5038331",
+      "time": "2026-08-13 08:49:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行肯特：需關注截均值通脹的歷史走勢，因此應聚焦月度消費者物價指數報告而非季度報告。"
+    },
     {
       "id": "te:markets:574861",
       "time": "2026-08-13 08:48:35",
@@ -137269,79 +137328,6 @@
         "其他"
       ],
       "text": "市場訊息：TikTok將在納什維爾辦公室裁員250人。"
-    },
-    {
-      "id": "mkt:019fd48f-058e-7aab-8f96-5caaadae1288",
-      "time": "2026-08-06 08:52:50",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "DALY: Many expect supply shocks will cause a temporary rise in inflation."
-    },
-    {
-      "id": "mkt:019fd48e-ff89-7aab-8f96-56105ef89a93",
-      "time": "2026-08-06 08:52:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "DALY says there is ample reason to believe supply shocks will not have a persistent effect on inflation."
-    },
-    {
-      "id": "5027678",
-      "time": "2026-08-06 08:52:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：有充分理由認為供給衝擊不會對通脹產生持久影響。"
-    },
-    {
-      "id": "5027677",
-      "time": "2026-08-06 08:52:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲戴利：許多人認為供給衝擊將導致通脹暫時抬升。"
-    },
-    {
-      "id": "5027676",
-      "time": "2026-08-06 08:51:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【佩蒂股份：ODM/OEM業務當前處於正常狀態 客戶和訂單量穩定向好】佩蒂股份(300673)8月6日在互動平臺表示，公司ODM/OEM業務當前處於正常狀態，客戶和訂單量穩定向好。"
-    },
-    {
-      "id": "5027675",
-      "time": "2026-08-06 08:50:55",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利日本業務營收達10億美元，領跑全球同業】摩根士丹利借力日本股票交易熱潮，其日本地區年度營收創下新高，跑贏一眾同行。申報檔案顯示，截至3月財年，該美資銀行控股的日本券商子公司淨營收增長近10%，達到1683億日元（摺合11億美元）。該營收規模超過競爭對手摩根大通，但摩根大通的淨利潤更高，連續第二年成為日本盈利水平最高的外資投行。摩根士丹利三菱日聯證券總裁Alberto Tamura表示，日本經濟出現多項積極變化，包括政策舉措與公司治理改革，持續為公司帶來“強勁利好”。Alberto Tamura補充稱，海外投資者持續關注日本股票，帶動股票交易量攀升；同時公司與三菱日聯金融集團的合作助力市場份額擴張，該合資企業淨利潤同樣創下歷史新高。"
-    },
-    {
-      "id": "mkt:019fd48c-e592-7aab-8f96-4acbadac7a77",
-      "time": "2026-08-06 08:50:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Chinese VLCCs avoid Red Sea blockade, call at Egypt’s Sidi Kerir and reroute around Africa】After a one-week pause Chinese VLCCs resumed loading Saudi crude but shifted routes away from the Red Sea to sail around Africa. On Aug. 4 COSCO’s 330,000 dwt VLCC Yuanxihu arrived off Egypt’s Sidi Kerir terminal in the Mediterranean to await loading. The ship had entered the Red Sea on July 11 and remained off Yanbu after Houthi forces announced a maritime blockade of Saudi waters. On Aug. 1 Yuanxihu, in ballast, transited north through the Suez Canal with its destination shown as Sidi Kerir."
     }
   ]
 }
