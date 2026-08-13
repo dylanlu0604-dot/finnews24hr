@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-14 05:31:53",
+  "updated": "2026-08-14 05:35:40",
   "count": 15456,
   "items": [
+    {
+      "id": "5040069",
+      "time": "2026-08-14 05:34:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露， 庫什納預計下週還將前往開羅，與埃及調解方舉行會談。"
+    },
+    {
+      "id": "mkt:019ffd0b-4e0b-7aab-902e-995b33eb79f8",
+      "time": "2026-08-14 05:33:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "RDDT.N",
+        "Impact bullish"
+      ],
+      "text": "Reddit (RDDT.N) U.S. shares rose more than 12% in after-hours trading."
+    },
+    {
+      "id": "5040068",
+      "time": "2026-08-14 05:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示AMD的47.5億美元高階無擔保票據發行定價方案已確定，共分為四個批次。"
+    },
     {
       "id": "mkt:019ffd08-320f-7aab-902e-933e7c2daae6",
       "time": "2026-08-14 05:30:00",
@@ -141477,33 +141505,6 @@
         "Impact bearish"
       ],
       "text": "Fed's MUSALEM said the current inf rate is well above the Fed's 2% target; monetary policy must firmly curb underlying inf, not tolerate current high inf in the hope of future productivity gains."
-    },
-    {
-      "id": "5029578",
-      "time": "2026-08-07 05:33:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：失業率已接近長期均衡水平。"
-    },
-    {
-      "id": "5029577",
-      "time": "2026-08-07 05:33:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 現有證據尚不足以依據生產率增長有望提升這一預期來制定政策。"
-    },
-    {
-      "id": "5029576",
-      "time": "2026-08-07 05:32:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 未來人工智慧帶來的生產率提升幅度存在高度不確定性， 為追求更高國內生產總值而放寬政策將是錯誤之舉。"
     }
   ]
 }

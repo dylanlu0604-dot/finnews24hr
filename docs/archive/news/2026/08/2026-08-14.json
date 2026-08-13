@@ -1,7 +1,35 @@
 {
   "date": "2026-08-14",
-  "count": 356,
+  "count": 359,
   "items": [
+    {
+      "id": "5040069",
+      "time": "2026-08-14 05:34:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "據知情人士透露， 庫什納預計下週還將前往開羅，與埃及調解方舉行會談。"
+    },
+    {
+      "id": "mkt:019ffd0b-4e0b-7aab-902e-995b33eb79f8",
+      "time": "2026-08-14 05:33:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "RDDT.N",
+        "Impact bullish"
+      ],
+      "text": "Reddit (RDDT.N) U.S. shares rose more than 12% in after-hours trading."
+    },
+    {
+      "id": "5040068",
+      "time": "2026-08-14 05:31:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示AMD的47.5億美元高階無擔保票據發行定價方案已確定，共分為四個批次。"
+    },
     {
       "id": "mkt:019ffd08-320f-7aab-902e-933e7c2daae6",
       "time": "2026-08-14 05:30:00",
