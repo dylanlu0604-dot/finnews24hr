@@ -1,7 +1,26 @@
 {
-  "updated": "2026-08-14 06:55:22",
-  "count": 15448,
+  "updated": "2026-08-14 06:59:11",
+  "count": 15446,
   "items": [
+    {
+      "id": "5040107",
+      "time": "2026-08-14 06:55:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）"
+    },
+    {
+      "id": "mkt:019ffd56-2136-7aab-902f-450b2ae8863f",
+      "time": "2026-08-14 06:55:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations."
+    },
     {
       "id": "5040106",
       "time": "2026-08-14 06:54:08",
@@ -141356,44 +141375,6 @@
         "國際"
       ],
       "text": "【特朗普再稱對伊朗戰爭將很快結束】美國總統特朗普當地時間8月6日下午在白宮對媒體稱，本屆政府“曾經把油價壓得很低，在很多地方，油價降到了人們多年未見的最低水平”。特朗普稱：“只要（對伊朗的）戰爭一結束，我們很快就能再次看到那樣的日子。我認為（戰爭）很快就會結束，我不認為他們（伊朗）能撐太久。”（CCTV國際時訊 ）"
-    },
-    {
-      "id": "5029626",
-      "time": "2026-08-07 06:58:16",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲官員穆薩萊姆呼籲對通脹實施有力約束】聖路易斯聯儲行長阿爾伯託·穆薩萊姆表示，由於通脹高於美聯儲2%的目標，決策者負擔不起在等待可能出現更強勁的生產率增長的同時、容忍更高通脹的代價。“在這樣的背景下，貨幣政策對基本通脹實施有力的約束至關重要，而不是為了追求未來的生產率增長而容忍如今更高的通脹，”穆薩萊姆在為聖保羅一場活動準備的講稿中表示。他表示：“央行對長期經濟增長最有價值的貢獻是提供穩定的價格環境，讓企業能夠據此規劃投資和創新，從而推動增長。”今年沒有貨幣政策投票權的穆薩萊姆上週表示，他在最近一次議息會議上傾向於加息25個基點。他還指出，會後美國國債遭到拋售，凸顯了維護美聯儲公信力的重要性。"
-    },
-    {
-      "id": "te:markets:573500",
-      "time": "2026-08-07 06:57:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Slips but Eyes Weekly Gain — New Zealand's stocks fell 94 points, or 0.7%, to 13,864 in Friday morning deals, extending losses from the previous session, tracking a decline on Wall Street overnight amid rising oil prices, which reinforced expectations that the Fed could raise interest rates at its upcoming meeting. Traders were cautious ahead of the release of China's trade data and US jobs data later today, as well as China's inflation data due on Sunday. Rising oil prices also pressured sentiment as concerns over inflation raised expectations that the RBNZ will hike interest rates. Energy, healthcare, consumer staples, and industrials mainly weighed on the index, with the early decliners including Auckland International Airport (-2.1%), A2 Milk (-2.1%), Fisher & Paykel (-2.1%), Channel Infrastructure (-0.9%), and Smart Healthcare (-0.8%). However, the index is heading for a 1.2% weekly rise after declining in the previous week."
-    },
-    {
-      "id": "5029625",
-      "time": "2026-08-07 06:57:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【市場風格劇烈切換，基金換倉迎“大考”】7月以來，A股市場迎來劇烈風格切換，此前持續領漲的AI、半導體等科技成長板塊出現大幅調整，而前期表現低迷的傳統價值板塊普遍迎來反彈。在此背景下，多隻重倉AI、半導體方向的基金出現較大幅度的回撤。值得關注的是，這批遭遇重挫的基金中，部分產品在二季度剛剛完成大規模換倉，從消費、資源等傳統板塊切換至科技賽道。其中，既有基金經理交接導致風格變化的情形，也有基金經理在分化行情下主動選擇了“追逐趨勢”。（中證報）"
-    },
-    {
-      "id": "5029624",
-      "time": "2026-08-07 06:56:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【扎堆進入股東榜，公募機構緊盯業績兌現度】截至8月6日，全市場已有超百家A股上市公司披露2026年半年報。資料顯示，澤璟製藥、仕佳光子、鼎通科技、科大智慧等上市公司的前十大股東中，公募基金產品佔據半數及以上席位。有基金人士分析，大幅買入直至成為上市公司前十大股東，往往是基金經理特別看好這一投資機會的表現。是什麼因素使得各家公募機構旗下產品不約而同地進場？結合半年報業績來看，這些公司普遍呈現出淨利潤高增長或進入盈利拐點的特點。這恰恰與近年來公募行業看重的成長投資風格審美不謀而合。（中證報）"
     }
   ]
 }

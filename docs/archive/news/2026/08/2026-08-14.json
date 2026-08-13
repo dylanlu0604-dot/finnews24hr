@@ -1,7 +1,26 @@
 {
   "date": "2026-08-14",
-  "count": 422,
+  "count": 424,
   "items": [
+    {
+      "id": "5040107",
+      "time": "2026-08-14 06:55:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）"
+    },
+    {
+      "id": "mkt:019ffd56-2136-7aab-902f-450b2ae8863f",
+      "time": "2026-08-14 06:55:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Brazil has initiated reciprocal procedures with the US over trade tariffs, notified Washington of the process and requested diplomatic consultations."
+    },
     {
       "id": "5040106",
       "time": "2026-08-14 06:54:08",
