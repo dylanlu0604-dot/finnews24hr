@@ -1,7 +1,35 @@
 {
-  "updated": "2026-08-14 04:24:50",
-  "count": 15409,
+  "updated": "2026-08-14 04:28:41",
+  "count": 15406,
   "items": [
+    {
+      "id": "5040022",
+      "time": "2026-08-14 04:26:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第未來第二季度稅前虧損 3986.9 萬美元，第二季度運營虧損 3482.7 萬美元，第二季度運營費用 2412.5 萬美元。"
+    },
+    {
+      "id": "5040021",
+      "time": "2026-08-14 04:26:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "法拉第未來目標到 2026 年底累計交付超 2000 臺 EAI 機器人裝置，並計劃在未來三至四個季度內將總負債控制在 1 億美元以下。"
+    },
+    {
+      "id": "te:markets:575184",
+      "time": "2026-08-14 04:25:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Extends Record Streak — The S&P/TSX Composite Index added 0.3% to close at 36,759, extending its record-breaking streak amid lower oil prices and soft US producer inflation. Oil prices fell on weakening demand prospects. Easing inflationary pressures in the US, following tame PPI data, supported financials and other credit-sensitive shares. RBC added 0.6% and CIBC gained 1.1%. Tech stocks posted gains, tracking a strong session for US chipmakers and hyperscalers. Shopify advanced 5.3%, Constellation Software gained 2.8%, and Celestica added 2.6%. Brookfield (+0.7%) reported higher second-quarter distributable earnings per share. CCL jumped 6.9% after posting 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver slumped 9.8% after posting EPS below expectations. Hydro One shed 0.5% despite beating quarterly estimates. Metro lost 0.5% after reporting weaker fiscal third-quarter adjusted earnings."
+    },
     {
       "id": "mkt:019ffcca-14f2-7aab-902d-773edf9b4efd",
       "time": "2026-08-14 04:22:09",
@@ -140946,54 +140974,6 @@
         "國際"
       ],
       "text": "美國投資公司協會資料：貨幣市場基金規模升至 7.91 萬億美元。"
-    },
-    {
-      "id": "5029543",
-      "time": "2026-08-07 04:28:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及彈藥供應：我們擁有無限供應。"
-    },
-    {
-      "id": "5029542",
-      "time": "2026-08-07 04:28:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們需要更多彈藥。"
-    },
-    {
-      "id": "5029540",
-      "time": "2026-08-07 04:26:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我正參與同伊朗的談判，協議可能很快達成。"
-    },
-    {
-      "id": "5029539",
-      "time": "2026-08-07 04:25:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為與伊朗的戰爭很快就會結束。"
-    },
-    {
-      "id": "5029538",
-      "time": "2026-08-07 04:25:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海峽目前“算是”開放。"
-    },
-    {
-      "id": "5029537",
-      "time": "2026-08-07 04:25:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不認為伊朗還能維持多久。"
     }
   ]
 }
