@@ -1,7 +1,53 @@
 {
   "date": "2026-08-13",
-  "count": 2746,
+  "count": 2751,
   "items": [
+    {
+      "id": "5039823",
+      "time": "2026-08-13 23:19:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞Cerrejon煤礦稱，週四早些時候其位於拉瓜希拉省的鐵路基礎設施遭襲，未接獲人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019ffbb3-f7fd-7aab-9029-869a8f95631b",
+      "time": "2026-08-13 23:18:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Musk is shifting to natural gas to power AI operations."
+    },
+    {
+      "id": "mkt:019ffbb2-e143-7aab-9029-7c3c0cf0b127",
+      "time": "2026-08-13 23:17:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "STOXX Europe 600 turned negative, down 0.03%."
+    },
+    {
+      "id": "5039822",
+      "time": "2026-08-13 23:17:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數<.STOXX>轉跌，最新報跌0.03%。"
+    },
+    {
+      "id": "mkt:019ffbb2-117e-7aab-9029-713864135a64",
+      "time": "2026-08-13 23:16:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "SanDisk (SNDK.O) gains widened to 11% after the company earlier outlined revenue-growth expectations for fiscal 2028–2030."
+    },
     {
       "id": "mkt:019ffbb0-3532-7aab-9029-694a9a9b0f1d",
       "time": "2026-08-13 23:14:16",
