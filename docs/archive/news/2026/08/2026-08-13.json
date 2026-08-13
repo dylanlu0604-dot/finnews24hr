@@ -1,7 +1,108 @@
 {
   "date": "2026-08-13",
-  "count": 625,
+  "count": 635,
   "items": [
+    {
+      "id": "5038432",
+      "time": "2026-08-13 09:48:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【CPO概念震盪拉昇 天孚通訊漲近10%】早盤CPO概念震盪拉昇，天孚通訊漲近10%，炬光科技、源傑科技、華懋科技、新易盛、東山精密等跟漲。"
+    },
+    {
+      "id": "mkt:019ff8cd-6a39-7aab-9016-9828e6fd6131",
+      "time": "2026-08-13 09:47:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext index continued to strengthen, rising over 2% in early trade; computing-power leasing, storage chips and CPO sectors led gains."
+    },
+    {
+      "id": "te:markets:574872",
+      "time": "2026-08-13 09:46:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Firm — The Australian dollar held above $0.705, staying near multi-week highs as the Reserve Bank’s latest remarks reinforced a restrictive policy stance. RBA Assistant Governor Christopher Kent said earlier rate increases were working as intended, with tighter monetary conditions weighing on consumer spending and slowing broader economic activity. He noted that housing credit growth had slowed, with a noticeable decline in new home lending, and said financial conditions overall remained somewhat restrictive. The central bank kept its cash rate at 4.35% this week after raising it by 75 basis points since February. However, Governor Michele Bullock said policymakers remained concerned that inflation may not cool as hoped and were prepared to raise rates again if needed. Markets priced a roughly 75% chance of a hike to 4.60% by December, likely marking the end of the tightening cycle. Attention now turns to Governor Michele Bullock, who is due to testify before parliament on Friday."
+    },
+    {
+      "id": "5038431",
+      "time": "2026-08-13 09:46:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2％，上證指數漲0.50％，深證成指漲1.16％。算力租賃、儲存晶片、CPO等板塊漲幅居前。"
+    },
+    {
+      "id": "5038430",
+      "time": "2026-08-13 09:46:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新致軟體成立智算科技公司 含AI及積體電路業務】企查查APP顯示，近日，武漢新致智算科技有限公司成立，經營範圍包含積體電路製造；積體電路晶片及產品製造；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由新致軟體全資持股。"
+    },
+    {
+      "id": "5038429",
+      "time": "2026-08-13 09:45:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【生物科技板塊拉昇 博濟醫藥漲超10%】生物科技板塊拉昇，博濟醫藥漲超10%，賽分科技、皓元醫藥、康龍化成等跟漲。"
+    },
+    {
+      "id": "mkt:019ff8cb-e39b-7aab-9016-9427bffa351f",
+      "time": "2026-08-13 09:45:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China A-share CPO concept stocks surged briefly; Gongjin Co. hit the daily limit, while Juguang Technology, Yuanjie Technology, Liante Technology, Tianfu Communication and Taichengguang advanced."
+    },
+    {
+      "id": "5038428",
+      "time": "2026-08-13 09:45:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【共封裝光學(CPO)板塊短線拉昇，共進股份漲停】共封裝光學(CPO)板塊短線拉昇，共進股份漲停，炬光科技、源傑科技、聯特科技、天孚通訊、太辰光等紛紛走高。"
+    },
+    {
+      "id": "5038427",
+      "time": "2026-08-13 09:45:00",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "國債期貨漲幅擴大，30年期主力合約漲0.35%，10年期主力合約漲0.05%，5年期主力合約漲0.03%，2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5038426",
+      "time": "2026-08-13 09:44:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東：圍繞人工智慧等關鍵領域 研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準】《中共廣東省委 廣東省人民政府關於進一步發揮標準引領作用促進廣東經濟社會高質量發展的意見》釋出，意見提出，最佳化新興產業標準佈局。圍繞人工智慧、新能源汽車、低空經濟、新型儲能、商業航天等關鍵領域，研製一批具有自主智慧財產權、具備國際先進水平的關鍵技術標準。大力開拓新技術新產品應用場景，開展標準化應用試點，完善相關標準應用實施指引。"
+    },
     {
       "id": "mkt:019ff8ca-74fa-7aab-9016-8b8709dcf0c0",
       "time": "2026-08-13 09:44:05",
