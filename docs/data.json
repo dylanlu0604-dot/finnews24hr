@@ -1,7 +1,28 @@
 {
-  "updated": "2026-08-14 02:55:05",
-  "count": 15390,
+  "updated": "2026-08-14 02:58:56",
+  "count": 15392,
   "items": [
+    {
+      "id": "mkt:019ffc7c-f603-7aab-902c-7142f0898e50",
+      "time": "2026-08-14 02:57:55",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Lavrov says Russia will seize Western vessels as reciprocal measure】Russian Foreign Minister Lavrov told Russian media on the 13th that Moscow will \"independently decide\" which Western vessels to seize in retaliation for Western seizures of Russian ships. He said Western states treat \"robbery and piracy\" as official policy and that Russia will select targets among vessels serving Western interests, with how to handle them to be \"decided by Russia\"."
+    },
+    {
+      "id": "5039979",
+      "time": "2026-08-14 02:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "西北河流預報中心（NWRFC）：美國西北部河流徑流量降至82%。"
+    },
     {
       "id": "5039978",
       "time": "2026-08-14 02:54:00",
