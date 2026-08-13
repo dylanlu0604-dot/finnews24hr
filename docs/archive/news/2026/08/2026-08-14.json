@@ -1,7 +1,42 @@
 {
   "date": "2026-08-14",
-  "count": 149,
+  "count": 153,
   "items": [
+    {
+      "id": "5039955",
+      "time": "2026-08-14 02:22:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026 XAIR Expo具身智慧產業博覽會9月在廣州舉行 數字華夏將攜全系列人形機器人亮相】2026XAIRExpo具身智慧產業博覽會將深度協同第二十一屆中國國際中小企業博覽會（以下簡稱“中博會”），於9月3日至6日在廣州廣交會展館D區舉辦。"
+    },
+    {
+      "id": "5039954",
+      "time": "2026-08-14 02:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：麥誇裡島以西發生5.1級地震。"
+    },
+    {
+      "id": "5039953",
+      "time": "2026-08-14 02:20:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會：瑞安航空1879號航班發動機碎片擊穿窗戶。"
+    },
+    {
+      "id": "te:markets:575178",
+      "time": "2026-08-14 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.46% — Top commodity losers are Platinum (-2.46%), Iron Ore CNY (-2.15%) and Gold (-1.03%)."
+    },
     {
       "id": "mkt:019ffc5a-250e-7aab-902c-11d11c3be5ff",
       "time": "2026-08-14 02:19:53",
