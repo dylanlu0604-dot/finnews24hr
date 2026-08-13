@@ -1,7 +1,385 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-08-14 00:05:12_
-_本檔包含 3093 則快訊，約 603465 字_
+_更新時間：2026-08-14 01:05:41_
+_本檔包含 3140 則快訊，約 604552 字_
+
+---
+
+### 2026-08-08 06:53:50  #其他
+
+哥倫比亞新任總統：下令使用除草劑剷除古柯作物。
+
+---
+
+### 2026-08-08 06:53:21  #其他
+
+【霍爾木茲海峽附近船隻遇襲起火】一名海員倫敦時間7日晚向新華社記者獨家提供的船舶無線電公共頻道錄音顯示，霍爾木茲海峽東口附近一艘商船遇襲並起火，船員在組織滅火的同時緊急呼叫救援。錄音顯示，事發地點位於阿曼海岸附近，船隻遇襲後機艙起火。船員啟動船載二氧化碳滅火系統。另一段錄音顯示，附近多艘船舶在收到遇險呼叫後回應稱，正趕往現場實施救援。霍爾木茲海峽附近水域近日發生多起襲船事件，多發生在靠近阿曼一側的航道。（新華社）
+
+---
+
+### 2026-08-08 06:52:08  #其他
+
+哥倫比亞新任總統：要求軍方打擊犯罪組織。犯罪分子要麼投降，要麼直面國家與武裝力量的全力打擊。
+
+---
+
+### 2026-08-08 06:51:24  #其他
+
+哥倫比亞新任總統：哥倫比亞安全重建的時刻已經到來。
+
+---
+
+### 2026-08-08 06:51:09  #其他
+
+哥倫比亞新任總統德拉埃斯普列拉表示，他將“絕不休戰”地打擊毒品恐怖主義與犯罪組織。
+
+---
+
+### 2026-08-08 06:50:15  #市場
+
+【美銅暗盤跌破6.7美元，日內跌幅1.6%】美銅暗盤跌破6.7美元，日內跌幅1.6%。
+
+---
+
+### 2026-08-08 06:42:39  #市場 #焦點
+
+美銅暗盤跌破6.7美元，日內跌幅1.6%。
+
+---
+
+### 2026-08-08 06:40:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Sugar Soars by 5.85% — Top commodity gainers are Sugar (5.85%), Coffee (2.47%) and Barley (2.02%). Biggest loser is Cocoa (-0.83%).
+
+---
+
+### 2026-08-08 06:36:49  #市場 #焦點
+
+美國天然氣暗盤日內漲超1%，現報2.6763美元。
+
+---
+
+### 2026-08-08 06:35:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Silver Gains by 3.36% — Top commodity gainers are Silver (3.36%), Gold (2.44%) and Silicon (1.48%). Biggest losers are Copper (-1.73%) and Iron Ore (-0.87%).
+
+---
+
+### 2026-08-08 06:30:06  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Falls by 2.58% — Top commodity losers are Natural Gas EU (-2.58%), Natural Gas UK (-0.70%), Crude Oil WTI (-0.27%) and Brent Crude Oil (-0.27%). Gains are led by Ethanol (1.42%), Methanol (1.26%) and Natural gas (1.17%).
+
+---
+
+### 2026-08-08 06:22:40  #國際
+
+【中央氣象臺釋出颱風橙色預警】中央氣象臺8月8日06時釋出颱風橙色預警：今年第13號颱風“白海豚”（強颱風級）的中心今天（8日）早晨5點鐘位於浙江省溫州市東偏南方大約600公里的東海南部海面上，就是北緯26.8度、東經126.6度，中心附近最大風力有14級（45米/秒），中心最低氣壓為950百帕，七級風圈半徑為420-450公里，十級風圈半徑為220-250公里，十二級風圈半徑為100公里。預計，“白海豚”將以每小時10-15公里的速度向西偏北方向移動，強度變化不大或略有增強，將於9日晚上至10日早晨在浙江舟山到福建福鼎一帶沿海登陸（38-45米/秒，13-14級，颱風級或強颱風級），登陸後繼續向西偏北方向移動，強度逐漸減弱。大風預報：8日08時至9日08時，黃海南部、長江口、杭州灣、東海大部及釣魚島附近海域、臺灣以東洋麵、巴士海峽、江蘇沿海、上海沿海、浙江沿海、福建東北部沿海、臺灣島北部沿海將有6-8級大風、陣風9-10級，其中東海大部及釣魚島附近海域、浙江沿海將有9-12級大風、陣風11-14級，“白海豚”中心經過的附近海域風力有13-15級，陣風15-17級。降雨預報：8日08時至9日08時，臺灣島北部和浙江中東部的部分地區有大到暴雨，局地大暴雨（100-150毫米）。
+
+---
+
+### 2026-08-08 06:19:37  #市場 #國際
+
+【南非蘭特非農日漲超1.3%，本週累漲超2.3%】週五（8月7日）紐約尾盤，歐元兌美元漲0.28%，報1.1558，北京時間20:30釋出美國非農就業報告帶來一波短線拉昇行情，本週累計上漲0.27%，整體呈現出W形走勢。英鎊兌美元漲0.28%，報1.3492，本週累漲0.75%。美元兌瑞郎跌0.53%，報0.8080，本週漲0.06%。商品貨幣對中，澳元兌美元漲0.50%、本週累漲0.68%，紐元兌美元漲0.39%、本週累漲0.23%，美元兌加元跌0.52%、本週累跌0.56%。瑞典克朗兌美元漲0.01%、本週累漲0.26%，挪威克朗兌美元漲0.37%、本週累跌0.43%，丹麥克朗兌美元漲0.28%、本週累漲0.27%。波蘭茲羅提兌美元漲0.39%、本週累漲0.53%，美元兌匈牙利福林跌0.88%、本週累跌0.77%。土耳其里拉兌美元跌0.13%、本週累跌0.40%，南非蘭特兌美元漲1.34%、本週累漲2.32%，墨西哥比索兌美元漲0.56%、本週累漲1.19%，巴西雷亞爾兌美元漲0.56%、本週累跌0.23%呈現出V形走勢。
+
+---
+
+### 2026-08-08 06:18:59  #宏觀 #國際
+
+美國財政部對標普全球關鍵礦產基準指數表示歡迎。
+
+---
+
+### 2026-08-08 06:17:17  #國際
+
+市場訊息：以色列炮兵炮擊黎巴嫩阿里・塔希爾高地。
+
+---
+
+### 2026-08-08 06:15:05  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: South Korean Won Appreciates by 1.14% — Top currency gainers are South Korean Won (1.14%), Brazilian Real (0.81%), Swedish Krona (0.55%), Japanese Yen (0.42%), Euro (0.22%) and British Pound (0.17%). Biggest loser is Dollar Index (-0.33%).
+
+---
+
+### 2026-08-08 06:06:53  #Trading Economics #Markets #United States #Earnings #Importance 0
+
+Take Two Interactive Software earnings in line with market expectations at 0.33 USD — Take Two Interactive Software (TTWO) released earnings per share at 0.33 USD, in line with market expectations.
+
+---
+
+### 2026-08-08 06:00:09  #市場 #焦點
+
+暗盤金價突破4300美元/盎司，日內漲幅2%。
+
+---
+
+### 2026-08-08 06:00:09  #市場 #焦點
+
+暗盤金價（人民幣）日內漲超2%，現報941.6635元/克。
+
+---
+
+### 2026-08-08 05:59:09  #國際
+
+【美國一消防直升機在猶他州墜毀】美國聯邦航空局當地時間8月7日證實，一架西科斯基S-64直升機當天在猶他州里奇菲爾德一處野火現場附近作業時墜毀，機上兩名乘員目前狀況不明。（央視新聞）
+
+---
+
+### 2026-08-08 05:58:11  #觀點
+
+【大摩對日元轉向偏空，干預影響逐漸消退】摩根士丹利外匯策略師對日元轉向偏空，他們認為，隨著事實證明美日當局支撐日元匯率的措施效果短暫，日元將逐步走弱。當局聯手支撐日元僅短暫提振了日元需求，並未扭轉其長期下行趨勢。因此，策略師在維持中性立場的同時，轉為偏空傾向。“除非再次聯合干預匯市，否則我們預計美元/日元將逐步走高，”David Adams、Andrew Watrous和Molly Nickolin週五寫道。
+
+---
+
+### 2026-08-08 05:56:38  #公司 #國際
+
+根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日在公開市場出售6523股強生股票，成交均價為每股258.739美元。
+
+---
+
+### 2026-08-08 05:55:19  #公司 #國際
+
+根據美國證券交易委員會（SEC）檔案披露：強生董事長兼執行長華金·杜阿託於8月5日公開市場出售41,957股強生股票，成交平均價格為每股258.056美元。
+
+---
+
+### 2026-08-08 05:47:20  #國際
+
+美國參議員沃倫敦促貨幣監理署撤銷聯合得克薩斯銀行的特許牌照。
+
+---
+
+### 2026-08-08 05:45:37  #國際
+
+美國參議員沃倫沃倫就聯合得克薩斯銀行相關決議向鮑曼、古爾德施壓。
+
+---
+
+### 2026-08-08 05:40:12  #央行 #國際
+
+【三菱日聯：建議做多澳元/日元 美聯儲加息押注降溫提振套息交易】三菱日聯分析師建議做多澳元兌日元，因干預帶來的影響正在消退，而交易員削減對美聯儲加息的押注改善了套息交易的環境。“我們預計澳元/日元將繼續收復因干預造成的跌幅，因為基本面尚未出現足以支撐日元持續升值的實質性變化，”MUFG分析師Derek Halpenny、Lee Hardman和Abdul-Ahad Lockhart在報告中寫道。他們將澳元/日元目標位設在114.50，止損位為109.20。“美國7月非農就業報告弱於預期，降低了市場對美聯儲進一步加息的預期，緩解了金融市場穩定面臨的一項主要風險，”他們表示，“因此，當前環境仍有利於套息交易，為澳元等高收益G10貨幣的需求提供支撐”。
+
+---
+
+### 2026-08-08 05:38:49  #公司 #國際
+
+市場訊息：雷神公司獲美國陸軍5.35億美元合同，生產陶式武器系統。
+
+---
+
+### 2026-08-08 05:38:40  #公司 #國際
+
+市場訊息：雷神公司從美國導彈防禦局獲得一份價值7.45億美元的合同。
+
+---
+
+### 2026-08-08 05:36:31  #其他
+
+【哥倫比亞新任總統德拉埃斯普列亞宣誓就職】當地時間8月7日，哥倫比亞當選總統阿韋拉多·德拉埃斯普列亞在該國第三大城市卡利宣誓就職，任期四年。阿韋拉多·德拉埃斯普列亞現年47歲，是哥倫比亞律師、企業家和右翼政治人物，長期活躍於公共事務領域。他此前在競選時主張以強硬手段打擊犯罪，推行自由市場經濟政策。（央視新聞）
+
+---
+
+### 2026-08-08 05:30:48  #市場
+
+巴西將於 8 月 10 日拍賣至多 5 萬份外匯互換合約。
+
+---
+
+### 2026-08-08 05:30:24  #其他
+
+哥倫比亞國會為德・拉・埃斯普列拉舉行總統就職宣誓。
+
+---
+
+### 2026-08-08 05:23:10  #觀點 #央行 #國際
+
+【大摩：預計美聯儲資產負債表將縮減1.5萬億美元】摩根士丹利經濟學家Seth Carpenter和Michael Gapen在報告中表示，該行的基準預測是，美聯儲將在大約兩年內把資產負債表規模縮減約1.5萬億美元，最早可能從2027年第一季度開始；合理的縮減區間為6,000億至2.5萬億美元。
+
+---
+
+### 2026-08-08 05:22:40  #其他
+
+DigitalBridge 投資的 Switch 計劃 11 月進行 IPO。
+
+---
+
+### 2026-08-08 05:22:31  #市場
+
+富時A50期指連續夜盤收漲0.23%，報15079點。
+
+---
+
+### 2026-08-08 05:22:10  #其他
+
+市場訊息：資料中心企業 Switch 據稱已秘密提交 IPO 申請。
+
+---
+
+### 2026-08-08 05:19:13  #公司
+
+南方天然氣公司削減 6 個管段輸送能力。
+
+---
+
+### 2026-08-08 05:15:59  #市場
+
+【離岸人民幣兌美元較週四紐約尾盤漲47點】週五（8月7日）紐約尾盤（週六北京時間04:59），離岸人民幣（CNH）兌美元報6.7429元，較週四紐約尾盤漲47點，日內整體交投於6.75-6.7401元區間。
+
+---
+
+### 2026-08-08 05:12:31  #公司 #國際
+
+據稱日本能源巨頭ENEOS 將以 13 億美元企業價值收購 TPC 集團。
+
+---
+
+### 2026-08-08 05:11:22  #市場
+
+週五（8月7日）紐約尾盤，標普500股指期貨最終漲0.56%，道指期貨漲0.24%，納斯達克100股指期貨漲1.16%。羅素2000股指期貨漲1.07%。
+
+---
+
+### 2026-08-08 05:07:46  #國際
+
+美國俄勒岡州州長蒂娜·科特克表示：支援地方層面暫停資料中心開發專案，直至諮詢委員會的相關建議可供審議。
+
+---
+
+### 2026-08-08 05:05:02  #市場
+
+【國際貴金屬期貨普遍收漲 COMEX白銀期貨本週累漲超10%】國際貴金屬期貨普遍收漲，COMEX黃金期貨漲2.37%，報4401.3美元/盎司，本週累漲超7%；COMEX白銀期貨漲3.56%，報63.8美元/盎司，本週累漲超10%。
+
+---
+
+### 2026-08-08 05:03:19  #國際
+
+惠譽：我們預計伊朗戰爭將拖累科威特經濟活動，拖累主要來自石油產量下降。
+
+---
+
+### 2026-08-08 05:03:15  #國際
+
+本週美國股市市值增加 2.8 萬億美元。
+
+---
+
+### 2026-08-08 05:03:01  #國際
+
+惠譽評級：中東衝突將持續影響科威特的石油出口能力，原因在於科威特石油出口依賴霍爾木茲海峽。
+
+---
+
+### 2026-08-08 05:01:50  #其他
+
+惠譽確認科威特評級為 AA‑；展望穩定。
+
+---
+
+### 2026-08-08 05:00:37  #其他
+
+盧卡拉鑽石二季度營收 4100 萬美元，同比下降 6.2%。
+
+---
+
+### 2026-08-08 04:59:27  #其他
+
+【FOF迎來發行大年 年內首募規模已超1300億元】FOF迎來前所未有的發行大年。截至8月上旬，FOF年內的新發規模已超過1300億元，創出單年度FOF募資歷史新高。然而，FOF發行火熱的背後，行業卻在上演結構性分化：新品募資如火如荼，存量FOF卻遭遇贖回與清盤的困境。
+
+---
+
+### 2026-08-08 04:59:08  #市場 #國際
+
+【國際金價在非農日漲約2.4%，本週累漲約7.3%】週五（8月7日）紐約尾盤，現貨黃金漲2.37%，報4339.75美元/盎司，亞太盤初以來平滑地持續走高、北京時間20:30釋出美國非農就業資料時加速上漲——從4320美元下方拉昇至4360美元一線，本週累計上漲7.27%，8月3-4日持平於4050美元附近、5-7日持續上揚。本週，COMEX黃金期貨累漲7.16%，報4400.70美元/盎司。現貨白銀漲3.11%，報63.4555美元/盎司，本週累漲10.29%，整體持續走高。COMEX白銀期貨累漲10.29%，報63.720美元/盎司。COMEX銅期貨跌1.83%，報6.586美元/磅，本週累漲1.85%，8月6日歐市早盤曾達到6.8665美元。現貨鉑金漲1.33%，報1749.38美元/盎司，本週累漲6.14%；現貨鈀金漲0.64%，報1382.91美元/盎司，本週累漲7.37%。本週，在美股時段交易的費城金銀指數累漲19.70%，報368.56點，整體持續走高。在全球市場全天交易的紐約證交所ARCA金礦開採商指數累漲20.16%，報2570.44點，整體持續走高。在美股時段交易的原材料指數累漲7.44%，報249.68點。在美股時段交易的金屬與礦業指數累漲7.98%，報295.29點。
+
+---
+
+### 2026-08-08 04:56:43  #市場 #央行 #國際
+
+【美日聯手干預見效 對沖基金大幅削減日元空倉】美國和日本當局協同出手穩定了日元后，對沖基金大幅減少了做空押注。商品期貨交易委員會週五公佈的資料顯示，截至8月4日，期貨和期權市場的槓桿基金將日元淨空頭頭寸削減了約一半至6.36萬份合約。這意味著空倉和6月底相比出現了大幅回撤，當時押注日元進一步貶值的倉位激增至近13.8萬份合約，達到2007年以來之最。在美日利差擴大的影響下，日元一度跌至1986年以來的最低水平，刺激投機者加大了做空力度。美日兩國政府聯手干預後交易員開始減少空倉，日元也迎來反彈。儘管日本央行維持基準利率不變，但隔夜指數互換顯示其9月加息的機率約在60%。美國週五公佈的不及預期非農就業資料也令美元承壓，降低了市場對美聯儲收緊貨幣政策的押注。交易員目前認為美國央行下個月上調利率的機率約為40%，遠低於報告發布前的60%左右。
+
+---
+
+### 2026-08-08 04:53:45  #國際
+
+特朗普：希望參議院能夠透過《保護大學體育法案》。
+
+---
+
+### 2026-08-08 04:52:03  #公司 #觀點 #國際
+
+摩根大通不動產專屬基金：美國證券交易委員會檔案顯示，該基金已提交S類、A類、I類股份發行申請，發行規模未披露。
+
+---
+
+### 2026-08-08 04:49:35  #公司 #國際
+
+【8月8日美股成交額前20：SpaceX將自建發電廠保障電力供應】週五美股成交額第1名SpaceX收高15.83%，成交300.16億美元。據報道，SpaceX計劃建設自己的發電設施，為其與特斯拉在美國得州共同開發的大型半導體制造工廠提供電力支援。本週早些時候，SpaceX負責能源和資料中心開發業務的Riley Trettel在得州格萊姆斯縣（Grimes County）的一場公開會議上表示：“我們將自行供電。我們會建設燃氣發電廠，同時也會建設規模非常龐大的電池陣列，用於儲存能源。我們幾乎會立即啟動這個專案。我們需要開始進行土建工作，需要著手建設基礎設施和地基，我們會馬上推進。”這一表態為馬斯克旗下兩大公司正在推進的新工廠計劃提供了更多細節，該專案名為“Terafab”。
+
+---
+
+### 2026-08-08 04:49:11  #國際
+
+特朗普稱：美國聯邦檢察官珍妮娜·皮羅應重新考慮她倉促作出的決定。
+
+---
+
+### 2026-08-08 04:45:38  #公司 #國際
+
+美國證交會檔案：昆特資本有限責任公司報告持有SPACEX公司835股A類股份。
+
+---
+
+### 2026-08-08 04:45:00  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Falls on Earnings Weakness — The Ibovespa fell 1.7% to close at 177,513 on Friday amid another batch of second-quarter 2026 earnings reports. Petrobras shed 3%, erasing earlier gains despite delivering one of its strongest earnings reports in recent quarters and beating expectations, as much of the strong performance had already been priced in and uncertainty remained over its sustainability. Localiza also fell 0.8% despite reporting R$1 billion in net profit, up 30.6% from a year earlier. Magazine Luiza dropped 3.7% following weak results and concerns over profitability, while Renner plunged 8.1% after cutting its guidance amid concerns about sales. Elsewhere, Vale fell 0.6% despite higher iron ore prices. Banks also declined broadly, led by Bradesco, down 2.2%, and Itaú Unibanco, which fell 2.6% ahead of the release of the Copom minutes on Tuesday, which are expected to provide further insight into the monetary authority's outlook for the Selic rate.
+
+---
+
+### 2026-08-08 04:41:50  #公司 #國際
+
+特朗普媒體與科技集團：Crypto.com、特朗普媒體、Yorkville America已共同同意不再推進此前宣佈的合作關係。
+
+---
+
+### 2026-08-08 04:40:45  #公司 #國際
+
+特朗普媒體與科技集團已終止與Crypto.com的業務合併協議，於2026年8月7日生效。
+
+---
+
+### 2026-08-08 04:40:29  #公司 #國際
+
+特朗普媒體與科技集團：YORKVILLE AMERICA的業務及其現有和未來ETF產品的計劃保持不變。
+
+---
+
+### 2026-08-08 04:38:49  #公司 #國際
+
+特朗普媒體與科技集團：將調整協議方向，面向Truth Social使用者群體推廣Crypto.com的預測市場業務。
+
+---
+
+### 2026-08-08 04:38:05  #公司 #國際
+
+市場訊息：加密貨幣平臺Crypto.com與特朗普傳媒科技集團將整合合作伙伴關係調整為營銷協議。
+
+---
+
+### 2026-08-08 04:36:53  #其他
+
+穆迪關於貝南的評級觀點：根深蒂固的信貸約束將持續存在，包括與同類經濟體相比，貝南的收入水平和政府財政收入均處於低位。
+
+---
+
+### 2026-08-08 04:36:28  #其他
+
+穆迪評級將貝南評級上調至 Ba3，展望調整為穩定。
+
+---
+
+### 2026-08-08 04:36:24  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises but Posts Weekly Loss on Hormuz Uncertainty — Brent crude oil rose above $83 per barrel on Friday, but still recorded a more than 7% decline over the week. Prices remained highly sensitive to developments surrounding a potential Iran-Oman agreement to restore shipping through the Strait of Hormuz, which could return millions of barrels of Middle Eastern oil to global markets. Oil reversed some gains in post-settlement trading after reports that the US could lift its naval blockade once commercial shipping through the strait resumes without restrictions. However, uncertainty persisted, with Abu Dhabi National Oil Co. reporting attacks on three vessels transiting Hormuz and Iran reportedly targeting vessels it considers hostile. President Donald Trump maintained that negotiations were progressing, but differences remain over conditions for reopening the waterway. Meanwhile, Iran-backed Houthis claimed a large-scale attack against Saudi-aligned forces in Yemen.
 
 ---
 
@@ -18564,101 +18942,5 @@ Energy Commodities Updates: Natural Gas EU Soars by 10.09% — Top commodity gai
 ### 2026-08-07 01:19:52  #Trading Economics #Markets #United States #Stock Market #Importance 2
 
 US Stocks Pull Back — US stocks swung lower on Thursday as a rebound in energy prices rekindled worries of a Federal Reserve rate hike next month. The S&P 500 inched down, the Dow lost 0.7%, and the Nasdaq 100 fell 0.4%. Yields rebounded together with wholesale fuel prices as markets reassessed the likelihood of tanker flows being restored in the Strait of Hormuz. On top of that, a series of hawkish reaction functions claimed by FOMC members were amplified by a report stating Fed Chairman Warsh is willing to hike rates should inflation rise further. Financial stocks edged down with Citi, Wells Fargo, and Amex dropping more than 1%, while credit-sensitive hyperscalers were mostly lower with Alphabet dropping 1%. Meanwhile, Western Digital plummeted 12% after posting a disappointing guidance. Similarly, Sandisk lost nearly 6% as its results failed to meet lofty expectations for memory producers. SpaceX fell rebounded to a 2% gain as $101 billion in its shares are detached from their post-IPO lockup period.
-
----
-
-### 2026-08-07 00:55:27  #Trading Economics #Markets #commodity #Importance 0
-
-Oat Hits 4-week Low — Oat decreased to 308.25 USd/Bu, the lowest since July 2026. Over the past 4 weeks, Oat gained 5.28%, and in the last 12 months, it decreased 6.77%.
-
----
-
-### 2026-08-07 00:43:31  #Trading Economics #Markets #Commodity #Importance 1
-
-Lumber Nears 3-Month Low — Lumber prices fell below $580 per thousand board feet, heading toward a three-month low as weaker US housing demand and persistent trade uncertainty weighed on the market. While Canadian softwood lumber was exempt from US's new 50% tariffs, it remains subject to existing duties of nearly 35%, pressuring producers' margins. The Forest Products Association of Canada said the trade measures dealt a further blow to the industry already operating below capacity amid production curtailments and closures, while Ottawa has extended support measures. The US Lumber Coalition argued that Canada's excess production capacity continues to distort the market. Meanwhile, mortgage rates climbed to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July, reflecting deteriorating homebuying activity. Demand was further pressured by weaker construction spending on lumber-intensive single-family housing, falling 3.3% from last year in June.
-
----
-
-### 2026-08-07 00:30:15  #Trading Economics #Markets #Euro Area #Stock Market #Importance 0
-
-European Stocks Close at Records — European stocks closed slightly higher on Thursday amid support from strong earnings reports and a rebound for the tech sector. The Euro STOXX 50 added 0.4% to 6,503 and the STOXX Europe 600 added 0.2% to 658, both at record highs. Deutsche Telekom surged 6.3% after delivering strong earnings, raising its guidance, and lifting its share buyback to $3.5 billion. On top of that, Hermes advanced 5.1% after receiving an upgrade from Berenberg. Meanwhile, ASML and Siemens Energy gained 2% each amid a rebound for companies with exposure to AI infrastructure in Europe. In the meantime, Rheinmetall fell 3.5% after it revised its outlook downwards, which reflected the impact of a German government order cancellation earlier this year. Also, Siemens dropped 4.5% as its quarterly results missed the upper range of estimates, even though the company reported record industrial profit and a record level of new orders.
-
----
-
-### 2026-08-07 00:17:27  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
-
-US 30-Year Mortgage Rate Rises to 1-Year High — The average rate on a 30-year fixed mortgage in the US rose to 6.69% as of August 8, 2026, from 6.66% a week earlier, marking a fifth consecutive weekly increase and the highest level since late July 2025. Mortgage rates continued to climb as the war with Iran and the Federal Reserve's decision to keep interest rates unchanged fueled inflation concerns. The rise in borrowing costs has further strained affordability, keeping many prospective homebuyers on the sidelines. As a result, applications for new mortgages declined in the final two weeks of July, according to the Mortgage Bankers Association. Still, “While mortgage rates continue to influence affordability, the housing market is showing signs of adjustment, with listing prices modestly below year-ago levels and for-sale inventory improving from the limited supply seen in recent years.”, said Sam Khater, Freddie Mac's Chief Economist.
-
----
-
-### 2026-08-07 00:14:53  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Advances as Luxury Stocks Gain — The CAC 40 rose 0.3% to close at 8,670 on Thursday, extending its winning streak to six sessions on gains in the luxury sector. Luxury stocks rose after strong quarterly results from Chanel. Hermès jumped 5.2% after being named a top sector pick by Berenberg. Kering rose 1.9%, while LVMH (+0.4%) and L'Oréal (+0.5%) also advanced. Meanwhile, private-sector payroll employment fell 0.1% quarter-on-quarter, or 19,300 jobs, to 21 million in the second quarter, in line with expectations. Signs of a cooling labor market could support a more dovish stance from the ECB. Financial stocks advanced, with BNP Paribas up 0.4% and AXA gaining 0.8%. Also, the Construction PMI rose to a five-month high of 41.5 in July 2026 from 38.2 in June. Vinci went up 0.6%, Bouygues gaining 0.8%, and Eiffage adding 0.5%. TotalEnergies gained 1% on higher oil prices, while Safran (-0.9%) and Airbus (-1.2%) weighed on the index. Unemployment and trade balance data will be released tomorrow.
-
----
-
-### 2026-08-07 00:12:18  #Trading Economics #Markets #Italy #Stock Market #Importance 1
-
-The FTSE MIB Index Closes 0.44% Higher — The FTSE MIB Index went up by 236 points or 0.44 percent on Thursday to close at 53683 points. The rise was led by Avio (5.67%), Banco BPM SPA (3.93%) and Leonardo SpA (2.14%). On the downside, the weakerst performers were Tenaris (-7.04%), Buzzi Unicem (-1.26%) and Snam (-0.77%).
-
----
-
-### 2026-08-07 00:11:18  #Trading Economics #Markets #Germany #Stock Market #Importance 1
-
-The DAX Index Closes 0.05% Higher — The DAX Index rose 14 points or 0.05 percent on Thursday to close at 26140 points. Leading the gains are Deutsche Telekom (6.31%), Henkel (3.92%) and Zalando (2.66%). Top losers were Scout24 (-6.81%), Siemens (-4.69%) and Rheinmetall (-4.32%).
-
----
-
-### 2026-08-07 00:10:18  #Trading Economics #Markets #France #Stock Market #Importance 1
-
-The CAC 40 Index Closes 0.50% Higher — The CAC 40 Index gained 43 points or 0.50 percent on Thursday to close at 8713 points. Gains were led by Hermes International (5.90%), Orange (2.66%) and Publicis (2.28%). Biggest losers were Edenred (-1.33%), Airbus (-1.16%) and ArcelorMittal (-1.15%).
-
----
-
-### 2026-08-07 00:08:22  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Inches Up — The FTSE MIB rose 0.5% to 53,683 on Thursday, as traders assessed consolidation prospects in the banking sector. Banco BPM jumped 3.9% following a better-than-expected quarterly report and signaling it would consider a tie-up with Credit Agricole. Barclays also reaffirmed its positive view on Banco BPM after the lender reported stronger-than-expected results. Meanwhile, BPER Banca (-0.8%) and Unipol (-0.8%) slipped, amid Intesa Sanpaolo's (0.5%) proposed acquisition of MPS (0.1%), under which MPS' insurance operations would be sold to Unipol, BPER's largest shareholder. Utilities were mixed as Italy was placed under its highest heat alert, boosting expectations for electricity demand. Hera added 0.5%, while Snam slipped 0.5%. Defense stocks outperformed, lifted by Avio (5.7%) and Leonardo (2%). Tenaris plunged 6.9% after reporting a 4% annual drop in second-quarter sales and warning that weak market conditions are expected to persist in the second half.
-
----
-
-### 2026-08-07 00:07:18  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-The FTSE 100 Index Closes 0.13% Lower — The FTSE 100 Index decreased 14 points or 0.13 percent on Thursday to close at 10875 points. The decline was led by Relx (-4.01%), Tritax Big Box (-3.90%) and Melrose (-2.72%). On the upside, the strongest performers were Diageo (5.61%), Admiral (5.23%) and Vodafone (4.37%).
-
----
-
-### 2026-08-07 00:06:16  #公司 #國際
-
-美國金融科技公司Marqeta擴大與谷歌合作，推出Wallet for Kids新服務。
-
----
-
-### 2026-08-07 00:06:10  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #MQ.O #Impact bullish
-
-US fintech Marqeta expands partnership with Google to launch new Wallet for Kids service.
-
----
-
-### 2026-08-07 00:06:04  #市場
-
-【英國兩年期國債收益率漲超4個基點】週四（8月6日）歐市尾盤，英國10年期國債收益率漲3.7個基點，報4.927%，整體持續震盪上行。兩年期英債收益率漲4.3個基點，報4.285%。30年期英債收益率漲3個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差跌0.904個基點，報+63.806個基點。
-
----
-
-### 2026-08-07 00:05:57  #公司 #市場 #央行 #國際
-
-【各期限美債收益率上揚 油價上漲推升加息預期 且Alphabet大舉發債】美國國債下跌。油價從三週低點反彈，推動市場重新押注美聯儲加息；與此同時，谷歌母公司Alphabet Inc.計劃進行一筆鉅額公司債發行。各期限美債收益率上升2至4個基點，其中短期收益率漲幅最大。油價上漲已推動加息預期升溫，而媒體報道稱，如果未來幾周公布的通脹資料偏熱，美聯儲主席凱文·沃什準備加息，進一步強化了這一預期。道明證券美國利率策略師Molly Brooks表示：“美聯儲或許確實需要真正加息，才能證明其認真對待抗擊通脹。”美國下週將公佈7月消費者價格指數和生產者價格指數等關鍵通脹資料，7月就業報告則定於本週五釋出。美聯儲的雙重使命包括維持物價穩定和實現充分就業，因此勞動力市場疲軟也可能限制其為壓低通脹而加息的意願。在Alphabet宣佈將發行10部分債券以籌集高達250億美元資金後，較長期國債收益率觸及盤中高點。
-
----
-
-### 2026-08-07 00:05:50  #其他
-
-【我國編制完成1∶500萬全月地質圖】基於嫦娥工程等最新探測成果，我國編制完成1∶500萬全月地質圖，對月球歷史進行了一次系統性重寫和精細化描繪，實現從“跟圖”到“制規”的躍升，並且披露了月球“最富有的地層”。這是1∶500萬全月地質圖。（新華社）
-
----
-
-### 2026-08-07 00:05:36  #Trading Economics #Markets #commodity #Importance 0
-
-Cheese Hits 4-week Low — Cheese decreased to 1.61 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Cheese gained 0.87%, and in the last 12 months, it decreased 8.48%.
 
 ---

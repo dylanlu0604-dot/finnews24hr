@@ -1,7 +1,505 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-14 00:05:12_
-_本檔包含 3090 則快訊，約 603681 字_
+_更新時間：2026-08-14 01:05:41_
+_本檔包含 3107 則快訊，約 605506 字_
+
+---
+
+### 2026-08-14 01:04:41  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #S&P500 #Impact bearish
+
+US 30-year Treasury auction on Aug. 13 — stop-out yield 5.216%, previous 5.058%.
+
+---
+
+### 2026-08-14 01:04:31  #MKT News #Economic Calendar
+
+United States | 30-Year Bond Auction High Yield Rate (Aug.13) | actual 5.216% | previous 5.058%
+
+---
+
+### 2026-08-14 01:04:28  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+US 30-year Treasury auction as of Aug 13 — share of allotment at the stop-out (winning) yield 5.216%, prior 7.13%.
+
+---
+
+### 2026-08-14 01:04:14  #MKT News #Economic Calendar
+
+United States | 30-Year Bond Auction Accepted at High (Aug.13) | actual 5.216% | previous 7.13%
+
+---
+
+### 2026-08-14 01:04:10  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. 30-year Treasury auction on Aug. 13: bid-cover ratio 2.39, prior 2.44.
+
+---
+
+### 2026-08-14 01:04:00  #MKT News #Economic Calendar
+
+United States | 30-Year Bid/Cover Ratio (Aug.13) | actual 2.39 | previous 2.44
+
+---
+
+### 2026-08-14 01:03:27  #其他
+
+市場訊息：CEREBRAS因與OPENAI合作而減少損失。
+
+---
+
+### 2026-08-14 01:03:25  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve: Seasonally adjusted outstanding U.S. commercial paper rose $1.6bn in the week to Aug 12; not seasonally adjusted balance fell $110m. Outstanding foreign financial commercial paper rose $10.9bn in the same week.
+
+---
+
+### 2026-08-14 01:03:04  #市場 #焦點 #國際
+
+美國30年期國債拍賣收益率創2001年以來新高。
+
+---
+
+### 2026-08-14 01:02:36  #市場 #國際
+
+美國30年期國債收益率下降5.216%，低於預售時的5.212%。
+
+---
+
+### 2026-08-14 01:02:31  #其他
+
+市場訊息：Anthropic首席財務官的相關會議並未涉及估值談判。
+
+---
+
+### 2026-08-14 01:01:51  #其他 #焦點
+
+OpenAI：GPT-5.6 Sol超高速模式（UltraFast Mode）已向部分客戶群體開放有限預覽。
+
+---
+
+### 2026-08-14 01:01:31  #MKT News #Star Stocks #Alphabet #Market Themes #AI Revolution #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) to offer GEMINI 3.7 Flash at limited-time promotional pricing through year-end: input $0.75 per 1M tokens; output $3.75 per 1M tokens.
+
+---
+
+### 2026-08-14 01:01:03  #公司
+
+谷歌：3.7 Flash模型將以每百萬輸入token0.75美元、每百萬輸出token3.75美元的推介價格提供，直至年底。
+
+---
+
+### 2026-08-14 01:00:54  #MKT News #Important #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O
+
+Google (GOOG.O) launches the Gemini 3.7 Flash model.
+
+---
+
+### 2026-08-14 01:00:46  #公司
+
+谷歌：推出GEMINI 3.7 FLASH。
+
+---
+
+### 2026-08-14 01:00:34  #國際
+
+美國聯邦儲備理事會(FED)資料顯示，8月12日當週，經非季節性調整的美國商業票據未償還金額減少11億美元。
+
+---
+
+### 2026-08-14 01:00:28  #央行 #國際
+
+美國聯邦儲備理事會(美聯儲/FED)資料顯示，8月12日當週，經非季節性調整的美國外國金融商業票據未償還餘額增加109億美元。。
+
+---
+
+### 2026-08-14 01:00:23  #國際
+
+美國聯邦儲備理事會(FED)資料顯示，8月12日當週經季節調整的美國商業票據未償還餘額增加16億美元。
+
+---
+
+### 2026-08-14 01:00:16  #國際
+
+美國機器人吸塵器品牌MATIC新增全語音控制選項。
+
+---
+
+### 2026-08-14 01:00:02  #市場
+
+【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收跌0.03%，滬鋁收跌0.62%，滬鋅收跌0.04%，滬鉛收跌0.81%，滬鎳收跌0.88%，滬錫收漲0.07%。氧化鋁夜盤收漲0.26%，鋁合金收跌0.90%。不鏽鋼夜盤收跌0.83%。
+
+---
+
+### 2026-08-14 00:59:49  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US forms first multinational UAS task force to bolster Middle East strike capability】CENTCOM announced on Aug. 13 it has formed a multi-domain, multinational unmanned systems strike task force, Falcon Strike, to integrate unmanned combat capability across the Middle East. Falcon Strike will field air, surface and subsurface one-way attack unmanned systems operated jointly by US and regional partner forces. The unit follows CENTCOM’s first dedicated UAS strike task force, Scorpion Strike, stood up nine months earlier; Scorpion achieved milestones including the first ship-launched aerial attack UAS in December and deployments in Operation Epic Anger and July strikes on Iranian port facilities. CENTCOM commander Brad Cooper said Falcon Strike will build on Scorpion Strike’s experience to integrate new US and partner capabilities into a unified multi-domain, multinational deterrent.
+
+---
+
+### 2026-08-14 00:56:39  #其他
+
+義大利內政部長：只有在西班牙北非飛地休達面臨的大規模移民湧入風險徹底化解後，義大利才會取消對西班牙的申根邊境臨時管控。
+
+---
+
+### 2026-08-14 00:55:04  #MKT News
+
+Italy's interior minister said Italy will only lift temporary Schengen border controls on Spain after the risk of a large-scale migrant influx into Ceuta, Spain's North African enclave, is fully resolved.
+
+---
+
+### 2026-08-14 00:53:50  #國際
+
+【烏軍稱襲擊俄西南部一大型煉油廠】當地時間13日，烏克蘭武裝部隊總參謀部在社交媒體上發文稱，烏軍當天凌晨襲擊了位於俄羅斯西南部巴什科爾託斯坦共和國的一大型煉油廠，襲擊引起大火。烏武裝部隊總參謀部稱，襲擊目標距離烏俄邊境1300公里。烏軍將繼續打擊俄方關鍵設施，系統性削弱其作戰能力。（央視新聞）
+
+---
+
+### 2026-08-14 00:53:32  #市場
+
+倫敦金屬交易所（LME）3個月期鎳期貨收盤下跌172美元，報每噸16,776美元。倫敦金屬交易所（LME）3個月期錫期貨收盤上漲36美元，報每噸55,854美元。
+
+---
+
+### 2026-08-14 00:52:44  #市場
+
+倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。倫敦金屬交易所（LME）3個月期鋁期貨收盤下跌52美元，報每噸3258美元。
+
+---
+
+### 2026-08-14 00:50:59  #MKT News
+
+CENTCOM has initiated consultations with regional partners and has formally invited them to join the process.
+
+---
+
+### 2026-08-14 00:50:47  #其他
+
+【哥倫比亞強震已致273人遇難】當地時間13日，哥倫比亞國家災害風險管理局公佈最新資料顯示，該國日前發生的強震已造成273人遇難、3824人受傷，另有377人失蹤。據中國地震臺網正式測定，北京時間10日晚上，哥倫比亞當地時間10日上午，哥倫比亞西北部發生里氏7.5級強震，震源深度80公里。哥倫比亞全國有32個城市嚴重受災。（央視新聞）
+
+---
+
+### 2026-08-14 00:50:12  #公司
+
+【OpenAI營收部門二度換帥 加速營收增長為上市鋪路】OpenAI不到一年內任命第二位首席營收官，顯示該公司正努力加強銷售增長，為備受期待的華爾街上市做準備。OpenAI已聘請達利·拉季奇擔任新的首席營收官，拉季奇此前擔任Alphabet旗下網路安全公司Wiz總裁兼營運長，將接替去年12月加入OpenAI的丹尼斯·德雷瑟。德雷瑟將在完成過渡期後離開公司。這一任命也發生在OpenAI高管團隊持續調整之際，近期已有布拉德·萊特卡普、菲吉·西莫和凱文·韋爾等高管離開公司。OpenAI總裁格雷格·布洛克曼表示，公司下一階段需要持續證明客戶每投入一美元人工智慧成本，都能帶來“可衡量的商業價值”。他透露，OpenAI年度營收執行率7月環比增長超過20%，企業客戶業務增長達到32%。上月，OpenAI表示其每週活躍使用者已突破10億。
+
+---
+
+### 2026-08-14 00:50:02  #MKT News
+
+CENTCOM announced the launch of its first multi-domain, multinational attack-drone task force.
+
+---
+
+### 2026-08-14 00:49:48  #公司 #市場 #國際
+
+【倫敦股市13日下跌】英國倫敦股市《金融時報》100種股票平均價格指數13日報收於10772.67點，較前一交易日下跌60.48點，跌幅為0.56%。歐洲三大股指當天全線下跌。當天倫敦股市成分股中位於漲幅前五位的個股分別為：獅子金融集團有限公司股價上漲5.19%，英美菸草股價上漲2.75%，邦瑞地產股價上漲2.37%，資訊科技服務公司康普塔森特股價上漲2.28%，房地產商珀西蒙公司股價上漲2.22%。（新華社）
+
+---
+
+### 2026-08-14 00:49:15  #國際
+
+美國：該部隊將使用美國及夥伴國的攻擊型無人機。
+
+---
+
+### 2026-08-14 00:48:09  #MKT News #Market Regions #Wall Street (US) #Market Themes #AI Revolution
+
+【OpenAI replaces revenue chief again as it accelerates revenue ahead of anticipated IPO】OpenAI has appointed Dali Rajic as chief revenue officer, its second CRO in under a year, signalling a push to boost sales ahead of an anticipated Wall Street listing. Rajic joins from Alphabet-backed cybersecurity firm Wiz, where he was president and COO; he will replace the CRO who joined last December and will depart after a transition. The move comes amid wider senior executive turnover, including departures of Brad Lightcap, Fidji Simo and Kevin Weil. President Greg Brockman said the company must keep proving each dollar of AI spend delivers measurable commercial value; OpenAI said its annualized revenue run rate rose more than 20% MoM in July and enterprise customer revenue grew 32%. OpenAI also reported weekly active users topped 1 billion last month.
+
+---
+
+### 2026-08-14 00:46:25  #國際
+
+美國：成立新無人機特遣隊。
+
+---
+
+### 2026-08-14 00:46:20  #國際
+
+美國非競爭性投標以9540萬美元的價格競購30年期債券。
+
+---
+
+### 2026-08-14 00:43:41  #市場 #國際
+
+【曼哈頓租金創新高，有人豪擲4000美元只為搶看“隱藏房源”】曼哈頓租金7月飆升至紀錄最高水平，可出租房源出現歷史性萎縮，同時又恰逢夏季租房旺季，供需矛盾進一步加劇。根據房地產評估機構Miller Samuel Inc.和The Real Deal的最新資料，7月新籤租約的租金中位數達到5,000美元，同比上漲6.4%。這一漲幅是全美住房成本漲幅的兩倍。美國勞工統計局資料顯示，全美住房價格指標同比上漲3.2%。租金大漲的同時，房源供應急劇減少。上個月，曼哈頓掛牌出租房源同比驟降逾39%，降幅之大在過去十年中也屬罕見。這一趨勢也蔓延至東河另一側。布魯克林7月租金中位數同樣創下歷史新高，達到4,500美元，而掛牌房源數量較去年同期減少27%。
+
+---
+
+### 2026-08-14 00:42:32  #Trading Economics #Markets #Commodity #Importance 0
+
+Lumber Extends Decline Amid Tariff Uncertainty — Lumber prices fell below $570 per thousand board feet as tariff uncertainty continued to weigh on demand. Canada’s minister responsible for US trade relations said the country remains committed to negotiations, although reports indicated Canadian officials were dissatisfied with the latest US offer and continued to push for zero tariffs on softwood lumber. Earlier, the US imposed tariffs on several Canadian lumber-related products, while Canadian softwood lumber was excluded. Still, US demand for Canadian lumber fell 1.7% in the first half of the year, while its share of the US market declined slightly. Shipments to markets outside the US also fell 3%. Meanwhile, mortgage rates rose to their highest level in a year, according to Freddie Mac, while mortgage applications declined in the final weeks of July. Construction spending on lumber-intensive single-family housing fell 3.3% year-on-year in June, adding to demand concerns.
+
+---
+
+### 2026-08-14 00:42:09  #MKT News
+
+US President Trump will visit the Nassau County Police Academy in New York tomorrow.
+
+---
+
+### 2026-08-14 00:39:13  #國際
+
+市場訊息：特朗普將於明日訪問拿騷縣警察學院。
+
+---
+
+### 2026-08-14 00:36:21  #MKT News
+
+USGS reported a magnitude 5.4 earthquake near the Kermadec Islands.
+
+---
+
+### 2026-08-14 00:34:52  #公司 #國際
+
+市場訊息：伊根-瓊斯評級公司回應美國證交會決定並闡述其註冊路徑。
+
+---
+
+### 2026-08-14 00:33:24  #國際
+
+美國地質調查局：克馬德克群島地區發生5.4級地震。
+
+---
+
+### 2026-08-14 00:29:45  #MKT News
+
+Canada's Saskatchewan premier said talks involve several sensitive issues, including dairy, but progress so far has been encouraging.
+
+---
+
+### 2026-08-14 00:29:38  #MKT News
+
+Saskatchewan premier said negotiations between Canada and the United States have visibly intensified in recent weeks as the Aug. 19 tariff deadline approaches.
+
+---
+
+### 2026-08-14 00:29:27  #MKT News
+
+Saskatchewan premier said Canada-US trade talks should retain a broader objective: reviewing and updating the CUSMA (Canada–United States–Mexico Agreement).
+
+---
+
+### 2026-08-14 00:29:23  #MKT News #Macro & Rates #The Fed (FOMC) #WTI #Impact bullish #EURUSD #US10Y
+
+【U.S. mortgage rates dip slightly for first time in six weeks】Freddie Mac said the average U.S. 30-year fixed mortgage rate fell to 6.67% from 6.69% a week earlier, ending five consecutive weekly rises but remaining at its highest level in over a year. Data show the U.S. labor market cooling and July price gains slowing for a second month, with energy, gasoline and food down MoM and core inflation measures at five-year lows; markets cut the odds of a 25bp Fed hike in September to 38% from 48%. Stalled negotiations over the Strait of Hormuz keep upside risk to oil prices, while high rates and economic uncertainty continue to weigh on housing demand: U.S. July existing home sales fell 4.1% from June to the weakest level in nearly two years.
+
+---
+
+### 2026-08-14 00:28:06  #市場 #央行 #國際
+
+【美國房貸利率六週來首次小幅下降】房地美表示，美國30年期固定抵押貸款平均利率從一週前的6.69%降至6.67%，結束連續五週上漲，但仍處於一年多來的最高水平。最新資料顯示，美國就業市場正在降溫，伊朗戰爭對通脹的影響可能弱於此前預期。7月美國價格漲幅連續第二個月放緩，能源、汽油和食品價格均較上月下降，基礎通脹指標降至五年來低位。結合就業報告，市場認為美國經濟資料正在減輕美聯儲未來幾個月加息壓力，投資者預計9月加息25個基點機率從48%降至38%。不過，霍爾木茲海峽談判停滯引發油價維持高位擔憂，高利率和經濟不確定性繼續抑制房地產需求。資料顯示，美國7月房屋銷售量較6月下降4.1%，降至近兩年來最低水平。
+
+---
+
+### 2026-08-14 00:27:56  #國際
+
+薩斯喀徹溫省省長表示，在8月19日關稅截止日期前的最後幾周，加拿大與美國的談判已進入白熱化階段。
+
+---
+
+### 2026-08-14 00:27:26  #其他
+
+薩斯喀徹溫省省長斯科特·莫伊表示，談判中存在若干敏感議題，乳製品便是其中之一，並稱磋商進展令人鼓舞。
+
+---
+
+### 2026-08-14 00:27:04  #其他
+
+哥倫比亞災害管理部門稱，地震死亡人數升至273人，仍有377人失蹤。
+
+---
+
+### 2026-08-14 00:26:49  #其他
+
+加拿大主要產糧省份薩斯喀徹溫省省長斯科特·莫伊就加美貿易談判表示，我們需要保持更廣泛的目標，即審查並更新《美墨加協定》。
+
+---
+
+### 2026-08-14 00:25:33  #公司
+
+【英國一客運列車脫軌】當地時間8月13日下午，英國東薩塞克斯郡的劉易斯火車站附近發生客運列車脫軌事故。警方、急救人員及消防隊已趕赴現場處置。目前尚未確認人員傷亡情況及事故具體原因。 位於劉易斯鎮‌的這處火車站是英國南部鐵路網路中的重要站點，主要服務於‌英國南方鐵路公司‌運營的線路。英國鐵路網公司及南方鐵路公司表示已知悉脫軌事故，將在獲取更多資訊後及時公佈。（CCTV國際時訊）
+
+---
+
+### 2026-08-14 00:20:01  #國際
+
+【以軍空襲打死加沙市警察局長】當地時間13日，巴勒斯坦加沙地帶內政部門發表宣告說，以色列軍方在加沙城西南沿海的拉希德公路空襲了加沙市警察局長阿布·卡米勒的車輛，致其身亡。當地訊息人士和目擊者稱，以戰機向該車輛發射3枚導彈，阿布·卡米勒當場身亡，另有3人受傷，車輛被完全摧毀。（央視新聞）
+
+---
+
+### 2026-08-14 00:18:20  #市場
+
+鈀金期貨日內跌4%，現報1318.54美元/盎司。
+
+---
+
+### 2026-08-14 00:17:57  #市場 #焦點
+
+紐約期金失守4410美元/盎司，日內跌1.33%。
+
+---
+
+### 2026-08-14 00:17:55  #Trading Economics #Economy #United States #30 Year Mortgage Rate #Importance 1
+
+US Mortgage Rates Break Five-Week Rising Streak — US 30-year fixed mortgage rates edged down to 6.67% as of August 13, 2026, from 6.69% the previous week, ending a streak of five consecutive weekly increases. Freddie Mac Chief Economist Sam Khater said mortgage rates remained relatively stable, while improved housing affordability and recent increases in purchase and refinance applications suggest borrowers continue to respond to modest rate changes. A year earlier, the 30-year fixed-rate mortgage averaged 6.58%. Meanwhile, the 15-year fixed mortgage rate fell to 5.96% from 6.01% a week earlier.
+
+---
+
+### 2026-08-14 00:17:46  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Closes Flat — The FTSE MIB closed little changed at 53,693 on Thursday, remaining in a narrow range after reaching record levels earlier in the week, as positive developments across sectors offset broader macroeconomic concerns. Saipem rose 3.6% after securing a $2 billion offshore contract in the Middle East. Nexi advanced 2.4% following reports that CDP is preparing to increase its stake to 29.9%, becoming the company’s largest shareholder without launching a takeover bid. UniCredit gained 0.8% amid reports that the ECB is leaning toward approving its takeover bid for Commerzbank, with the stock reaching its highest level in nearly 17 years. On the downside, uncertainty over Middle East peace talks kept energy markets volatile, with oil and natural gas prices remaining elevated. Unipol, Inwit and Moncler fell less than 1%. Eni slipped 0.9%, tracking lower global oil prices. In turn, utilities extended their recent decline.
+
+---
+
+### 2026-08-14 00:17:45  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Falls for 2nd Day — The DAX 40 moved into the red to close marginally down at 26,292 on Thursday, the second day of losses, despite remaining close to recent record highs. Falling oil prices and reduced concerns over interest rates provided support, but uncertainty over the Iran conflict kept investors cautious. Meanwhile, attention remained focused on corporate earnings as the reporting season drew to a close. Among key movers, BASF (-2%), Mercedes-Benz Group (-1.5%) and Volkswagen (-1.3%) posted the biggest declines. On the upside, Continental emerged as the top performer, rising around 3%. RWE gained 2.5% after reporting better-than-expected first-half profit, helped by a Dutch compensation payment and stronger energy trading, while reaffirming its 2026 dividend and long-term profit targets.
+
+---
+
+### 2026-08-14 00:17:18  #MKT News #WTI #Impact bearish #Brent
+
+Ukraine proposed a ceasefire to Russia in the Black Sea.
+
+---
+
+### 2026-08-14 00:16:45  #MKT News
+
+Sources say Detroit automakers will tell the White House the revised North American trade agreement could impose costs of tens of billions of dollars on them.
+
+---
+
+### 2026-08-14 00:16:42  #其他
+
+市場訊息，義大利部長烏爾索預計西西里島將迎來資料中心投資。
+
+---
+
+### 2026-08-14 00:16:14  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
+
+STOXX 50 Closes at Record High — European stocks closed mostly higher on Thursday with support strong earnings results across multiple sectors. The Euro STOXX 50 gained 0.2% to 6,544 and the STOXX Europe 600 inched down to 659. ASML added 2.7%, closing sharply higher for a second session and tracking the AI infrastructure sector in the US and Asia on the sector's respite. On top of that, Adyen surged 16.4% after raising its revenue forecast for the current year. Danish shipping giant Maersk surged 9.4% after significantly exceeding profit expectations and raising its full-year earnings guidance, reflecting strong performance in its core businesses. Meanwhile, Entain and Danish offshore wind developer Orsted also reported first-half core profits above expectations.
+
+---
+
+### 2026-08-14 00:16:05  #其他
+
+訊息人士稱，底特律汽車製造商將向白宮表示，修訂後的北美貿易協定可能令它們損失數十億美元。
+
+---
+
+### 2026-08-14 00:15:37  #MKT News #Market Regions #Emerging Markets
+
+Moody's vice president says Moody's expects to raise its forecast for Peru's 2026 GDP growth from 3.0% to 3.5%.
+
+---
+
+### 2026-08-14 00:15:03  #其他
+
+市場訊息：沙烏地阿拉伯國防部長會見伊拉克武裝部隊總司令辦公室主任，討論軍事和防務領域的關係。
+
+---
+
+### 2026-08-14 00:14:51  #MKT News
+
+Saudi defense minister met the director of the Office of the Commander of the Iraqi Armed Forces to discuss military and defense ties, Saudi media Alhadath reported.
+
+---
+
+### 2026-08-14 00:14:44  #其他
+
+市場訊息：穆迪擬將秘魯2026年GDP增長預估從3.0%上調至3.5%。
+
+---
+
+### 2026-08-14 00:13:55  #MKT News
+
+【Chang'e-6 lunar soil study yields new evidence on Moon near and far side differences】The China Geological Survey (Ministry of Natural Resources) said researchers at the Institute of Geology, Chinese Academy of Geological Sciences have made progress analysing Chang'e-6 lunar soil samples, providing new evidence on the pronounced compositional differences between the Moon's near and far sides.
+
+---
+
+### 2026-08-14 00:13:16  #公司
+
+【Citadel甚至對部分分析師也施加了為期兩年的競業禁止協議】Ken Griffin 的 Citadel 公司要求投資人員（包括一些分析師）簽署長達兩年的競業禁止協議。員工的競業禁止期與員工的總薪酬掛鉤，投資組合經理或分析師的收入越高，競業禁止期就越長。該公司的競業禁止協議可能會對員工的職業生涯產生影響，一位招聘人員表示，被禁賽兩年“實際上會毀掉他們的職業生涯”。
+
+---
+
+### 2026-08-14 00:12:08  #Trading Economics #Markets #Italy #Stock Market #Importance 1
+
+The FTSE MIB Index Closes 0.01% Lower — The FTSE MIB Index decreased 5 points or 0.01 percent on Thursday to close at 53693 points. The decline was led by Unipol Gruppo (-1.41%), Infrastrutture Wire (-1.32%) and Assicurazioni Generali (-1.13%). On the upside, the strongest performers were Saipem (3.27%), Fincantieri (2.52%) and Nexi (2.46%).
+
+---
+
+### 2026-08-14 00:11:08  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+The DAX Index Closes 0.12% Lower — The DAX Index fell 31 points or 0.12 percent on Thursday to close at 26300 points. Leading the losses are Porsche Automobil (-2.20%), BASF (-2.15%) and Mercedes-Benz AG (-1.61%). Top gainers were RWE (2.99%), Continental (2.95%) and Fresenius (2.55%).
+
+---
+
+### 2026-08-14 00:11:05  #其他
+
+【為月球正反面差異提供科學證據 嫦娥六號月壤研究取得新進展】記者近日從自然資源部中國地質調查局瞭解到，中國地質科學院地質研究所研究團隊對嫦娥六號月壤樣品的研究取得新進展，為破解月球正反面存在巨大差異的謎題提供了新證據。（央視新聞）
+
+---
+
+### 2026-08-14 00:10:08  #Trading Economics #Markets #France #Stock Market #Importance 1
+
+The CAC 40 Index Closes 0.29% Lower — The CAC 40 Index dropped 25 points or 0.29 percent on Thursday to close at 8650 points. Losses were led by Dassault Systemes (-2.24%), Safran (-1.90%) and STMicroelectronics (-1.67%). Offsetting the fall, top gainers were Danone (1.43%), Sanofi (1.24%) and Edenred (0.94%).
+
+---
+
+### 2026-08-14 00:08:03  #MKT News
+
+Mexico's main stock index fell 1%.
+
+---
+
+### 2026-08-14 00:07:45  #MKT News #WTI #Impact bullish #Brent
+
+【Houthi rebels say they used drones to hit ARAMCO refinery in Jizan, Saudi Arabia】Yemeni Houthi rebels said on the 13th they used two drones to attack an ARAMCO refinery in Jizan in southwest Saudi Arabia, calling the strikes "precise", the Houthi-controlled Saba news agency reported. On the 9th this month the Houthis also said they carried out a "precise strike" on the Jizan refinery.
+
+---
+
+### 2026-08-14 00:07:08  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.70% Lower — The FTSE 100 Index decreased 76 points or 0.70 percent on Thursday to close at 10757 points. The decline was led by Antofagasta (-6.78%), Fresnillo (-5.07%) and Rio Tinto (-4.72%). On the upside, the strongest performers were Lion Finance Group (2.67%), British American Tobacco (2.25%) and Persimmon (2.01%).
+
+---
+
+### 2026-08-14 00:07:00  #市場
+
+墨西哥主要股指下跌1%。
+
+---
+
+### 2026-08-14 00:06:45  #MKT News
+
+OpenAI said Dennis Dreiser will leave after a transition period to pursue other opportunities.
+
+---
+
+### 2026-08-14 00:06:33  #MKT News
+
+OpenAI has formed a strategic partnership with Chad Pitts and RPT Partners.
+
+---
+
+### 2026-08-14 00:05:35  #公司
+
+【葉門胡塞武裝稱使用無人機襲擊沙特煉油廠】葉門胡塞武裝13日稱，該組織當天使用無人機襲擊了位於沙烏地阿拉伯西南部吉贊地區的一座沙特阿美公司煉油廠。據胡塞武裝控制的薩巴通訊社訊息，胡塞武裝使用兩架無人機襲擊這座煉油廠，襲擊非常“精準”。本月9日，葉門胡塞武裝表示，該組織使用無人機對位於吉讚的沙特阿美公司煉油廠發動了“精準打擊”。（央視新聞）
+
+---
+
+### 2026-08-14 00:05:13  #MKT News
+
+OpenAI appoints Dali Lajic as chief revenue officer.
+
+---
+
+### 2026-08-14 00:04:39  #其他
+
+OPENAI：Denise Dresser將在過渡期結束後離開OPENAI，尋求其他發展機會。
 
 ---
 
@@ -18213,401 +18711,5 @@ Death toll from Colombia earthquake reaches 202.
 ### 2026-08-12 22:07:46  #Trading Economics #Markets #Euro Area #Currency #Importance 0
 
 Euro Near 2-Month Highs — The euro has been trading around $1.15 in August, near two-month highs, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September.
-
----
-
-### 2026-08-12 22:07:07  #其他
-
-世界衛生組織總幹事：我們在應對埃博拉疫情方面仍處於追趕狀態。
-
----
-
-### 2026-08-12 22:05:43  #市場 #焦點
-
-玻璃連續主力合約日內跌2%，現報870.00元。
-
----
-
-### 2026-08-12 22:04:37  #MKT News #Star Stocks #Tencent #0700.HK #Impact bearish
-
-【Tencent says new AI products cut non‑GAAP operating profit by CNY10.5bn in 2026 Q2, president says】Tencent’s 2026 Q2 results show new AI products — Hunyuan, Yuanbao, WorkBuddy, CodeBuddy and XiaoWei — reduced non‑GAAP operating profit by CNY10.5bn, a marked increase from Q1. President Liu Zhiping said investment allocations are highly dynamic: Tencent will be cautious until it sees a clear breakout, then scale up spending. He said WorkBuddy is currently prioritized due to explosive growth, lowering priority for other AI projects. Liu added economic benefits should emerge over time and the company could switch to a compute‑rental model — which he said would be profitable — as a fallback, giving Tencent confidence.
-
----
-
-### 2026-08-12 22:04:23  #其他
-
-世界衛生組織總幹事就埃博拉疫情召開新聞釋出會。
-
----
-
-### 2026-08-12 22:04:08  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
-
-Alphabet (GOOG.O) shares hit an intraday low, down 0.5%, after Google raised prices on its new phones.
-
----
-
-### 2026-08-12 22:03:47  #市場
-
-ALPHABET股價觸及盤中低點，下跌0.5%。
-
----
-
-### 2026-08-12 22:03:36  #公司
-
-【二季度新AI產品影響105億利潤，騰訊總裁劉熾平回應】8月12日，騰訊釋出的2026Q2財報顯示，該季度混元、元寶、WorkBuddy、CodeBuddy、小微等AI產品對Non-GAAP營業利潤的影響為105億元，相較於一季度明顯增加。騰訊總裁劉熾平在談及騰訊如何分配AI產品投入時表示，目前情況非常動態。在看到真正爆發的機會之前，騰訊的投資會比較謹慎，一旦看到機會就會加大投入，整體會著眼於長遠進行投資。例如，WorkBuddy 正在爆發式增長，所以當下優先投入了WorkBuddy，也降低了其他一些產品的優先順序。隨著時間推移，經濟效益會逐漸顯現，到某個時候自然能實現盈利。他強調，如果騰訊把商業模式直接改成單純出租算力，那不僅不會虧損，反而會盈利。騰訊始終有這個備選方案，這也讓騰訊“比較有底氣”。
-
----
-
-### 2026-08-12 22:02:49  #MKT News #Star Stocks #Tencent #TCEHY.O #Impact bearish
-
-Tencent Holdings ADRs fell as much as about 4% in early U.S. trading.
-
----
-
-### 2026-08-12 22:02:43  #國際
-
-多國呼籲伊朗傾聽民眾呼聲，採取切實措施確保人權得到尊重。
-
----
-
-### 2026-08-12 22:02:33  #國際
-
-法國外長：歐盟及26個國家發表聯合宣告，譴責伊朗處決抗議者。
-
----
-
-### 2026-08-12 22:02:08  #國際
-
-【北美建築貿易工會聯合會與 Meta 公佈全新合作，投資技術工種領域】Meta 與北美建築貿易工會聯合會（NABTU）宣佈建立合作關係，為人工智慧時代的技術工種領域投入資源。該合作體現雙方的共同長期承諾：確保參與建設美國人工智慧基礎設施的勞動者與相關社群能夠直接從中獲益。Meta 與北美建築貿易工會聯合會計劃逐步擴大投資規模，推進相關工作落地。Meta 總裁兼副董事長迪娜・鮑威爾・麥考密克表示：“這是一個重要時刻，正是這些技術工種從業者在搭建美國所需的基礎設施。”
-
----
-
-### 2026-08-12 22:01:32  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O
-
-Google launches Pixel 11, Pixel 11 Pro, Pixel 11 Pro XL and Pixel 11 Pro Fold smartphones.
-
----
-
-### 2026-08-12 22:01:28  #其他
-
-騰訊控股ADR盤初一度跌近4%，其第二季度營收2,047.9億元，同比增長11%；經營活動所產生的現金淨額人民幣527億元，超出預期。
-
----
-
-### 2026-08-12 22:01:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Google announced an upgraded Pixel Watch 5 with a starting price of $399.
-
----
-
-### 2026-08-12 22:01:22  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact mixed
-
-Google (GOOG.O) raised prices on its new phones citing a severe memory shortage. The new smartphone starts at $899 and the foldable is priced at $1,899, $100 above the prior generation.
-
----
-
-### 2026-08-12 22:01:06  #公司
-
-谷歌新款手機較上一代機型漲價 100 美元。
-
----
-
-### 2026-08-12 22:01:02  #公司
-
-谷歌推出 Pixel 11、11 Pro、11 Pro XL、11 Pro Fold 系列手機。
-
----
-
-### 2026-08-12 22:00:41  #公司
-
-谷歌釋出升級版 Pixel Watch 5，起售價 399 美元。
-
----
-
-### 2026-08-12 22:00:37  #公司
-
-受嚴重記憶體供應短缺影響，谷歌上調新款手機售價。
-
----
-
-### 2026-08-12 22:00:17  #公司
-
-谷歌可穿戴裝置將實現胰島素抵抗監測，屬該品類首創 。
-
----
-
-### 2026-08-12 21:58:26  #國際
-
-美國國家颶風中心（NHC）表示，位於百慕大東北偏東約1050英里的風暴在未來48小時內發展為氣旋的機率為80%。
-
----
-
-### 2026-08-12 21:57:28  #公司
-
-【26皮城G1：2.60億元綠色公司債券一期票面利率確定為1.84%】26皮城G1公告稱，公司發行不超15億元公司債券已獲證監註冊，2026年面向專業投資者公開發行綠色公司債券（第一期）擬發行規模不超2.60億元。8月12日詢價後，確定本期債券票面利率為1.84%，將於8月13日至14日面向專業機構投資者網下發行。
-
----
-
-### 2026-08-12 21:56:35  #其他
-
-【到2030年6萬億度綠電奔湧入網 東數西算撬動萬億級社會投資】當AI融入日常，算力的胃口驚人：一個“萬卡叢集”一天至少吞掉20萬度電。據測算，到2030年全國算力用電量將達到8000億千瓦時。人工智慧的未來，不僅是“算”的比拼，更是“電”的競賽。算力在狂奔，綠電在託底。截至6月底，我國非化石能源發電裝機容量25.2億千瓦，佔總裝機容量比重的62.4%。我國新增用電需求幾乎全部由綠電滿足。東數西算八大樞紐內，大型綠色算力叢集綠電使用率持續攀升。內蒙古和林格爾、甘肅慶陽等地新建資料中心的綠電消費佔比已超80%，全國172個算力中心透過綠色低碳4A認證。如今，東數西算工程已撬動萬億級社會投資，有效解決算力高能耗、新能源發電波動等問題，綠色能源底座正在託舉中國AI全球競爭力。（央視財經）
-
----
-
-### 2026-08-12 21:56:12  #MKT News
-
-Market sources: India and the Southern African Customs Union (SACU) signed a terms-of-reference to launch negotiations on a preferential trade agreement.
-
----
-
-### 2026-08-12 21:55:19  #市場 #央行 #國際
-
-【新興市場貨幣走強，美國通脹緩解市場對美聯儲加息的擔憂】美國核心通脹資料顯示 7 月潛在物價壓力維持溫和，新興市場貨幣延續漲勢。通脹資料公佈後美元走弱，多數發展中國家貨幣走高，智利比索與南非蘭特領漲。受亞洲晶片製造商大漲帶動，新興市場股市上行；人工智慧基建企業業績向好，重新提振市場對科技股的投資意願。
-
----
-
-### 2026-08-12 21:55:14  #MKT News #Market Themes #China Tech Giants #000050.SZ #Impact bullish
-
-【Tianma Microelectronics to exclusively supply screens for Honor Robot Phone】China's Tianma Microelectronics said on Aug. 12 that Honor launched the Robot Phone. As a long-term strategic partner, Tianma will be the exclusive supplier of a deeply customized, high-end TianGong OLED display for the model, marking the first deployment of the TianGong screen in an AI device with embodied interaction capability.
-
----
-
-### 2026-08-12 21:55:01  #市場
-
-諾基亞股價上漲，分析師指出Lumentum優於預期的季度展望帶來積極聯動效應。
-
----
-
-### 2026-08-12 21:53:48  #宏觀 #資料 #市場 #央行 #國際
-
-【美國通脹資料並未解開華爾街的疑問 美債市場認為9月加息機率約五成】美國通脹資料表現溫和後，交易員仍保留對沖美聯儲可能在9月會議上加息的頭寸，目前市場定價顯示加息機率約為50%。週三公佈的消費者價格指數符合預期，幫助美國國債維持漲勢。對美聯儲政策變化最敏感的兩年期美債收益率下跌3個基點至4.18%，基準10年期收益率同樣下跌3個基點至4.65%。當天晚些時候，美國財政部將進行420億美元10年期國債拍賣。利率互換顯示，經濟資料公佈後，交易員將10月加息機率從前一天的約75%下調至約60%。市場已完全計入美聯儲將在12月採取下一步行動。Aviva Investors高階固定收益投資組合經理Steve Ryder表示：“雖然這份資料應能讓9月加息預期繼續存在，但也沒有給美聯儲立即行動帶來太大緊迫性。決策者可能會更加重視下一份CPI報告和勞動力市場資料，然後再決定今年晚些時候是否需要進一步收緊政策。”法國外貿銀行北美首席美國經濟學家Christopher Hodge表示：“近期每次美聯儲會議都需要計入出現意外的可能性，但我們仍認為，在通脹緩慢且逐步向目標回落、消費降溫以及就業前景更加脆弱的背景下，美聯儲可能會勉強避免加息。”
-
----
-
-### 2026-08-12 21:53:44  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-Meta Platforms (META.O) and North America’s Building Trades Unions (NABTU) announced a collaboration to support tech workers.
-
----
-
-### 2026-08-12 21:53:24  #MKT News #Market Themes #AI Revolution #Copper #Impact bullish
-
-【World's largest single-unit AI compute center commissioned at Ulanqab Xinghe; 1 kWh of green power equals ~30s of AI text-to-video】China has commissioned the Ulanqab Xinghe base, described as the world’s largest single-unit intelligent computing center, spanning roughly 20 football fields with 160 MW of power capacity. The facility is built with on-site wind generation and a dedicated transmission line to supply about 80% direct green power, uses AI-driven power management and storage, and supports parallel capacity on the order of one million accelerator cards and P-level compute scale. Operators say one kWh of onsite green power can be converted into roughly 30 seconds of AI text-to-video output.
-
----
-
-### 2026-08-12 21:53:21  #其他
-
-惠譽擬對斯泰蘭蒂斯金融地板計劃汽車主所有者信託 2026 系列進行評級。
-
----
-
-### 2026-08-12 21:53:09  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
-
-【Timiraos: Cooling inflation eases near-term Fed hike risk, hawks still present】Nick Timiraos said July CPI roughly matched expectations, easing pressure for a Fed rate hike next month but leaving hawkish voices intact. He noted some Fed officials still expect inflation to drift back to 2% without further tightening, while others now favor maintaining higher rates and could join a hawkish minority if incoming data undermines current projections. Officials attribute persistent inflation more to external shocks — tariffs, lingering Middle East energy risks — and a surge in AI-driven demand that is lifting tech-equipment and software prices, rather than overly loose policy, supporting the view that current rates may already be restrictive.
-
----
-
-### 2026-08-12 21:53:03  #資料 #央行 #國際
-
-【美聯儲“傳聲筒”：通脹降溫緩解加息壓力 鷹派聲音仍未消退】“美聯儲傳聲筒”Nick Timiraos表示：“7月通脹報告與市場預期基本一致，緩解了美聯儲下個月加息的壓力。華爾街尤其關注今天公佈的CPI資料，因為美聯儲官員也釋放訊號稱，他們正在更加密切地關注這一資料。過去一年裡，美聯儲官員一直預計，在無需進一步加息的情況下，通脹將回落至2%的目標水平，但如今一些官員認為，有必要維持更高利率。另一些官員表示，如果更多資料令當前預測變得難以維持，他們也可能加入這一鷹派少數陣營。這一預測建立在這樣一種觀點之上：當前利率水平已經足夠具有限制性，而通脹居高不下的原因在於外部衝擊，而非貨幣政策過於寬鬆。此前的判斷是，關稅只會一次性推高成本，隨後影響將逐漸消退；隨著中東緊張局勢緩和，能源價格也將跟隨原油價格回落。但實際情況是，這些衝擊持續存在，而且如今與人工智慧建設熱潮帶來的需求激增相互疊加，後者正在推高科技裝置和軟體價格。”
-
----
-
-### 2026-08-12 21:52:55  #公司 #國際
-
-市場訊息：通用電氣印度電力公司獲得沙烏地阿拉伯 55 億盧比訂單。
-
----
-
-### 2026-08-12 21:52:37  #國際
-
-市場訊息：印度‑南部非洲關稅同盟貿易談判即將啟動。
-
----
-
-### 2026-08-12 21:52:36  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-JP Morgan expects the Federal Reserve to keep interest rates unchanged, citing eased concerns as inflation appears non-sticky.
-
----
-
-### 2026-08-12 21:52:06  #其他
-
-市場訊息：北美建築貿易工會聯合會與 Meta 宣佈建立新合作，投資技能工種領域。
-
----
-
-### 2026-08-12 21:51:58  #市場
-
-【美股儲存板塊高開高走 SK海力士、美光均漲超7%】費城半導體指數上漲3.3%，美股儲存板塊高開高走，美光科技上漲7.03%，SK海力士上漲7.72%，閃迪上漲7.16%，西部資料上漲6.63%，希捷科技上漲7.60%，鎧俠ADR上漲7.82%。
-
----
-
-### 2026-08-12 21:51:50  #國際
-
-市場訊息：印度‑南部非洲關稅同盟商定職權範圍協議。
-
----
-
-### 2026-08-12 21:50:59  #國際
-
-市場訊息：美國正考慮成立一個由多國官員組成的委員會，以監督黎巴嫩框架協議的執行情況。
-
----
-
-### 2026-08-12 21:50:31  #MKT News
-
-Market sources say the US is considering forming a committee of officials from multiple countries to oversee implementation of the Lebanon framework agreement.
-
----
-
-### 2026-08-12 21:50:26  #國際
-
-【普京：西伯利亞環形光子源首批研究站年底前啟用】俄羅斯總統普京11日稱，西伯利亞環形光子源（SKIF）首批研究站將於今年年底前投入使用。
-
----
-
-### 2026-08-12 21:49:13  #其他
-
-【天馬微電子為榮耀Robot Phone獨家供應螢幕】據天馬微電子訊息，8月12日，榮耀正式釋出榮耀Robot Phone。作為榮耀長期戰略合作伙伴，天馬微電子為該款機型獨家供應螢幕，深度定製天馬天工屏高階OLED顯示方案，這是天工屏首次應用於具備具身互動能力的AI終端，適配機器人手機的創作、隨行互動等場景。
-
----
-
-### 2026-08-12 21:49:12  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Brazil Stocks Extend Selloff — The Ibovespa edged lower to trade below 168,000 on Wednesday, extending the previous session’s 2.5% drop that pushed the index to a seven-month low. Crude oil remained volatile amid conflicting signals over a potential US-Iran agreement, keeping inflation concerns elevated. Most financial stocks traded near the flatline, while B3 fell nearly 1% after reporting a 15.5% year-on-year increase in expenses on Tuesday. Banco do Brasil (-0.3%), Rede D’Or (-0.5%), CSN (+1.5%) and Sabesp (-0.3%) are among the scheduled to release their second-quarter 2026 results after the market close. Vale shed more than 1% as iron ore prices declined, while steelmakers posted gains. Petrobras fell 1% as oil prices turned lower. JPMorgan downgraded Brazilian equities to neutral within Latin America on Tuesday, citing weaker growth, deteriorating credit conditions, higher-for-longer interest rates and increased volatility ahead of the presidential election. The bank also lowered its year-end Ibovespa target.
-
----
-
-### 2026-08-12 21:48:55  #其他
-
-【中國算電協同航母來了 一度綠電可生成30秒AI文生影片】在內蒙古烏蘭察布草原深處，中國算電協同“航母”，正破浪前行。全球最大單體智算中心——烏蘭察布星河基地投產，它有20個足球場大小，160兆瓦供電能力，以百萬卡並行能力 百萬P算力規模、80%綠電直供比例，開啟了產業的全新機遇。透過自建風場與專線直供，利用AI電力系統和儲能設施，每度綠電被算力轉換為詞元，實現閉環。據測算，一度來自草原的綠電在這裡可以被轉化為近30秒的AI文生影片。 一條千億級產業鏈正加速成型：上游拉動風電光伏、儲能裝置、液冷系統、輸電線路投資；中游推動AI電力系統，虛擬電廠等技術突破瓶頸；下游孕育AI大模型訓練、文生影片、AI程式碼寫作等業態。 當前，中國風電光伏、電網技術全球領先，算力國產化步伐加快。還有雙重市場的賦能，2030年中國算力用電將達8000億度，加上AI應用等龐大的內需市場為“航母”提供航行的“廣闊水域”。（央視財經）
-
----
-
-### 2026-08-12 21:48:30  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Down for 3rd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for a third session on Wednesday, dropping about 3.5% to its lowest since August 4 at 2,939 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, slipped by 5.8% to 4,712 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, snapped a ten-session winning run, falling 0.4% to 2,302 points. Among smaller vessels, the supramax index went up by 0.2% to 1,603 points.
-
----
-
-### 2026-08-12 21:48:19  #MKT News #Market Themes #AI Revolution
-
-【Cambricon outlines AI-chip roadmap, says intelligent-computing demand rising after 1H results】Cambricon said accelerating large-model technology is driving sustained growth in intelligent-computing demand and will continue to focus on AI chip design innovation to bolster competitiveness, expand market share and accelerate scenario deployment. For internet customers it is prioritizing large models, multimodal and search/recommendation applications, and is optimizing compute performance, communication efficiency and framework capabilities to improve integrated performance in typical internet workloads. The company said 1H2026 hardware work includes a new-generation processor microarchitecture and instruction set under development, with optimizations targeting large-model training and inference and aiming to improve programmability, ease of use, performance, power consumption and silicon area.
-
----
-
-### 2026-08-12 21:48:01  #央行 #國際
-
-【消費者物價指數緩解美聯儲加息壓力】記者表示，7 月消費者物價指數基本符合預期，降低了美聯儲 9 月加息的壓力。美聯儲認為，當前利率水平已具備足夠限制性，無需進一步加息即可推動通脹向 2% 目標回落。但持續存在的關稅、能源方面的壓力，以及人工智慧帶動下科技裝置與軟體的需求，正令上述前景變得複雜。就目前而言，這份消費者物價指數報告為政策制定者維持利率不變提供了更大操作空間。
-
----
-
-### 2026-08-12 21:46:27  #公司
-
-【公佈“炸裂”業績後，寒武紀回應市場關切】寒武紀8月12日召開2026年半年度業績說明會。針對市場關注的算力需求、供應鏈備貨、新產品研發等問題，寒武紀董事長、總經理陳天石表示，在大模型技術加速革新的行業背景下，智慧計算需求持續攀升，公司將持續聚焦人工智慧晶片設計領域技術創新，提升核心競爭力，積極拓展市場份額，加速場景落地。
-
----
-
-### 2026-08-12 21:45:38  #公司 #觀點
-
-【何海峰履新中信建投證券全球首席經濟學家】8月12日，據中信建投研究所訊息，何海峰正式擔任中信建投證券全球首席經濟學家。據記者瞭解，未來，何海峰將覆蓋全球宏觀研判，著力支援中信建投香港子公司及外資客戶的宏觀研究需求，承接相關部委和機構的政策諮詢，以樹立中信建投智庫的學術形象，提升內外資機構認可度。
-
----
-
-### 2026-08-12 21:45:01  #其他
-
-【榮耀Magic9將首發純血Agentic OS】8月12日，據榮耀手機訊息，榮耀直板旗艦Magic9系列將首發“純血”Agentic OS，新機將在影像、AI能力等方面進一步升級。目前已開啟盲約，定檔9月釋出。
-
----
-
-### 2026-08-12 21:44:51  #公司
-
-【遼寧省掛牌督辦朝陽市3人中毒死亡事故】遼寧省安全生產委員會近日釋出《較大生產安全事故查處掛牌督辦通知書》披露，遼寧省朝陽市建平縣萬壽街道老西店村的建平縣鑫隆泰牧業有限公司，8月5日19時3分許，發生一起中毒事故，造成3人死亡。建平縣有關方面12日確認，這起事故是企業在操作化糞池附近的積液池閥門時發生的。根據《遼寧省較大事故查處掛牌督辦辦法》，遼寧省安委會決定對該起較大事故查處實行掛牌督辦。要求朝陽市依照有關法律法規及規章規定，抓緊組織開展事故調查，迅速查明事故原因，嚴格按事故調查規定要求研究提出處理意見。（新華社）
-
----
-
-### 2026-08-12 21:44:25  #MKT News #MAERSK-B.CO #Impact bearish #DAX #EURUSD
-
-Maersk warned that low Rhine water levels could worsen to the point that barge transport becomes impossible.
-
----
-
-### 2026-08-12 21:43:57  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-【Market analysis: July CPI barely meets threshold for Fed to hold rates in September】Bill Adams, chief U.S. economist at Fifth Third Commercial Bank, said: "The July CPI report barely meets the threshold for the Fed to hold rates at its September meeting. Fed policymakers signaled in July that to avoid a rate hike, core inflation must improve between now and the September meeting."
-
----
-
-### 2026-08-12 21:43:56  #資料 #央行 #國際
-
-【市場分析：7月CPI勉強達到美聯儲9月按兵不動門檻】Fifth Third Commercial Bank首席美國經濟學家Bill Adams表示：“7月CPI報告勉強達到足以推動美聯儲在9月下一次會議上維持利率不變的門檻。美聯儲政策制定者在7月已經釋放訊號，若要避免加息，那麼從現在到9月會議期間，核心通脹必須有所改善。”
-
----
-
-### 2026-08-12 21:43:47  #MKT News #UCG.MI #Impact bearish
-
-A German regulator flagged governance issues at UniCredit in European Central Bank documents.
-
----
-
-### 2026-08-12 21:43:38  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish
-
-ECB documents show integration is expected to be "challenging and persistent" and note existing tensions and divisions.
-
----
-
-### 2026-08-12 21:43:05  #MKT News #Market Regions #Europe & UK #UCG.MI #Impact bullish
-
-Documents show the European Central Bank has provisionally ruled there is no reason to oppose UniCredit's acquisition of a German commercial bank.
-
----
-
-### 2026-08-12 21:42:39  #MKT News #UCG.MI #Impact bullish #CBK.DE #Impact bearish #DAX #Impact mixed
-
-Documents show the ECB is inclined to approve an acquisition offer from Italy's UniCredit for Germany's Commerzbank despite governance and integration concerns.
-
----
-
-### 2026-08-12 21:42:31  #央行 #國際
-
-檔案顯示，歐洲央行初步認定，沒有理由反對裕信銀行收購德國商業銀行。
-
----
-
-### 2026-08-12 21:42:22  #央行 #國際
-
-一份檔案顯示，歐洲央行認為受緊張局勢與各類差異影響，歐元一體化程序將“充滿挑戰且耗時漫長”。
-
----
-
-### 2026-08-12 21:42:16  #公司 #央行 #國際
-
-德國監管機構在歐洲央行檔案中就裕信銀行的公司治理問題發出警示。
-
----
-
-### 2026-08-12 21:42:09  #其他
-
-馬士基：萊茵河低水位狀況可能進一步惡化，屆時駁船運輸將不再具備運營可行性。
-
----
-
-### 2026-08-12 21:42:02  #央行 #國際
-
-市場訊息：檔案顯示，儘管存在治理與整合方面的擔憂，歐洲央行仍傾向於批准裕信銀行收購德國商業銀行的要約。
-
----
-
-### 2026-08-12 21:41:56  #MKT News #06158.HK #Impact bearish
-
-【Zhenro Properties proposes 6.614 bln yuan onshore bond restructure; options include 8.5-year extension or buyback at 8% of remaining face value】Zhenro Properties (06158.HK) has proposed restructuring nine onshore corporate bonds and asset-backed securities totaling 6.614 bln yuan; bondholder meetings are scheduled Aug 13–27 to vote on the plan and procedural waivers. Under the extension option, using July 31, 2026 as the base date, all outstanding principal would have its maturity extended by 8.5 years to a new final maturity of Jan 31, 2035. From the base date, capitalized interest would no longer be treated as principal; remaining principal would accrue simple interest at 1.0% p.a., with interest paid when principal is repaid. Principal would be repaid in eight installments between Apr 30, 2033 and Jan 31, 2035 in proportions of 5%, 5%, 10%, 10%, 15%, 15%, 20% and 20%; each installment would also settle interest accrued to the base date and subsequent interest for that tranche. The proposal reportedly also offers alternative options, including a buyback at 8% of remaining face value.
-
----
-
-### 2026-08-12 21:41:14  #公司
-
-【北京年內最貴涉宅用地成交：中國金茂97.61億元競得海淀四季青地塊】8月12日，北京集中出讓3宗涉宅用地，其中，海淀四季青鎮地塊歷經130輪現場舉牌，由中國金茂旗下北京廣茂置業有限公司以97.61億元競得，成為年內涉宅用地總價“地王”。
 
 ---
