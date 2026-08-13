@@ -1,7 +1,232 @@
 {
-  "updated": "2026-08-13 16:08:29",
-  "count": 15117,
+  "updated": "2026-08-13 16:12:26",
+  "count": 15122,
   "items": [
+    {
+      "id": "mkt:019ffa2d-3507-7aab-901e-ab9cb04aff02",
+      "time": "2026-08-13 16:11:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong: Hang Seng Index closed down 43.66 points (-0.17%) at 25,396.51 on Aug 13; Hang Seng Tech Index closed up 15.95 points (0.33%) at 4,792.39; China Enterprises Index (HSCEI) closed down 19.78 points (-0.23%) at 8,426.49; Red Chip Index closed down 66.90 points (-1.61%) at 4,089.20."
+    },
+    {
+      "id": "5038910",
+      "time": "2026-08-13 16:11:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "哈莫尼克股價盤前上漲24%，此前該公司上調了全年經調整利潤預期。"
+    },
+    {
+      "id": "mkt:019ffa2c-bac0-7aab-901e-a52393e89e01",
+      "time": "2026-08-13 16:11:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "AI Revolution",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "BYD said its assisted-driving fleet exceeds 3.52 mln vehicles and its Tianshen Eye system generates more than 220 mln km of driving data daily."
+    },
+    {
+      "id": "mkt:019ffa2c-1a55-7aab-901e-9d6fcfff7a74",
+      "time": "2026-08-13 16:10:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold falls more than 1.0% intraday to $4,364.24/oz."
+    },
+    {
+      "id": "mkt:019ffa2c-0c22-7aab-901e-95a7da7ed537",
+      "time": "2026-08-13 16:10:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Romania central bank governor said the Middle East conflict has exacerbated supply‑chain problems and affected fuel prices."
+    },
+    {
+      "id": "te:markets:575019",
+      "time": "2026-08-13 16:10:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cotton Falls by 2.00% — Top commodity losers are Cotton (-2%), Rapeseed (-1.25%) and Corn (-0.76%)."
+    },
+    {
+      "id": "mkt:019ffa2b-cd41-7aab-901e-8d91dc22890d",
+      "time": "2026-08-13 16:10:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway central bank says future path of policy rate will depend on economic developments."
+    },
+    {
+      "id": "mkt:019ffa2b-c7a9-7aab-901e-80f0bb878666",
+      "time": "2026-08-13 16:10:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Norway's central bank said it does not want to impose restrictions on the economy beyond what is necessary, but must prevent inflation from becoming entrenched."
+    },
+    {
+      "id": "te:markets:575018",
+      "time": "2026-08-13 16:09:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enel Stock Price Hits 9-week Low — Enel shares decreased to 9.68 EUR, the lowest since June 2026. Over the past 4 weeks, Enel lost 5.79%, and in the last 12 months, it increased 20.78%."
+    },
+    {
+      "id": "mkt:019ffa2b-654c-7aab-901e-7d956a09a0c4",
+      "time": "2026-08-13 16:09:35",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact mixed",
+        "Zinc",
+        "Impact bullish",
+        "Tin"
+      ],
+      "text": "【LME daily on-warrant and canceled-warrant report】LME on- and canceled-warrants: Copper on warrants 92,175 t, +1,200 t; canceled warrants 115,550 t, -5,600 t. Aluminium on warrants 244,575 t, unchanged; canceled warrants 5,425 t, -1,700 t. Zinc on warrants 74,525 t, -400 t; canceled warrants 18,025 t, -2,400 t. Nickel on warrants 256,188 t, unchanged; canceled warrants 8,544 t, -12 t. Lead on warrants 360,425 t, -600 t; canceled warrants 53,950 t, -2,100 t. Tin on warrants 4,685 t, -50 t; canceled warrants 850 t, -5 t."
+    },
+    {
+      "id": "mkt:019ffa2b-4517-7aab-901e-71cafbdd8a9f",
+      "time": "2026-08-13 16:09:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【LME non‑ferrous metal stocks daily】LME non‑ferrous metal stocks: copper 207,725 t, down 4,400 t; aluminium 250,000 t, down 1,700 t; zinc 92,550 t, down 2,800 t; nickel 264,732 t, down 12 t; lead 414,375 t, down 2,700 t; tin 5,535 t, down 55 t."
+    },
+    {
+      "id": "5038908",
+      "time": "2026-08-13 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數跌0.172%，恒生科技指數漲0.334%】聯想集團漲20.179%，智譜漲9.023%，康師傅控股漲6.591%，MINIMAX-W漲5.988%，中國鋁業跌6.321%，信義光能跌6.575%，中國宏橋跌7.365%。"
+    },
+    {
+      "id": "mkt:019ffa2a-bf72-7aab-901e-6ca429467003",
+      "time": "2026-08-13 16:08:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng TECH Index",
+        "Impact mixed",
+        "00700.HK"
+      ],
+      "text": "Hong Kong close: Hang Seng Index down 0.17%, Hang Seng TECH Index up 0.33%; Tencent Holdings (00700.HK) fell 4.46% post-earnings."
+    },
+    {
+      "id": "mkt:019ffa2a-b5ef-7aab-901e-64fdbeea8409",
+      "time": "2026-08-13 16:08:50",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Norges Bank said it still needs to maintain a restrictive monetary policy stance to bring inflation down to target."
+    },
+    {
+      "id": "5038907",
+      "time": "2026-08-13 16:08:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【繼峰股份：獲乘用車座椅總成專案定點 預計生命週期總金額21.2億元】繼峰股份公告稱，公司控股子公司繼峰座椅（福州）獲某頭部主機廠乘用車座椅總成專案定點，將為其開發、生產整車座椅總成產品。專案預計2027年6月量產，生命週期4年，預計總金額21.2億元。該專案不會對公司本年度業績產生重大影響，但有利於提高未來業務收入和經營業績。不過，專案存在延期、變更、中止或終止等風險，實際開展情況有不確定性。"
+    },
+    {
+      "id": "mkt:019ffa2a-8503-7aab-901e-5a8c35fb9463",
+      "time": "2026-08-13 16:08:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Norway central bank holds policy rate at 4.25%, signals possible further hikes】Norway's central bank on Thursday kept the policy rate at 4.25%, in line with market expectations, and said borrowing costs may still need to rise. Before the decision it had signaled a possible additional rate increase later this year."
+    },
+    {
+      "id": "5038906",
+      "time": "2026-08-13 16:08:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美晨工業集團新獲頭部車企新能源車型冷卻管路定點專案】據美晨科技訊息，日前，公司旗下美晨工業集團中標國內頭部車企全新新能源車型冷卻管路開發定點資格。"
+    },
+    {
+      "id": "mkt:019ffa2a-54b7-7aab-901e-564018e45e63",
+      "time": "2026-08-13 16:08:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium down 2.00% intraday at $1,337.08/oz."
+    },
+    {
+      "id": "5038905",
+      "time": "2026-08-13 16:08:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鴻特科技：擬配股募資不超6.5億元 用於多專案建設】鴻特科技公告稱，本次配股以2026年8月12日收市後總股本3.87億股為基數，按每10股配售4股的比例，可配售股份1.55億股，配股價格3.36元/股。募集資金不超6.5億元，將用於泰國汽車零部件生產基地等專案。控股股東廣東百邦合實業投資有限公司承諾全額認購可配售的3887.92萬股。配股繳款期為8月13日至19日，期間股票停牌，8月21日公告結果並復牌。"
+    },
+    {
+      "id": "5038904",
+      "time": "2026-08-13 16:08:18",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "比亞迪：比亞迪輔助駕駛車型保有量超352萬輛，天神之眼每天生成資料超2.2億公里。"
+    },
+    {
+      "id": "5038903",
+      "time": "2026-08-13 16:08:05",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "羅馬尼亞央行行長伊薩雷斯庫：隨著基數效應減弱，8月年度通脹率將繼續下降。中東衝突加劇了供應鏈問題，並影響了燃料價格。"
+    },
     {
       "id": "5038902",
       "time": "2026-08-13 16:07:36",
@@ -137887,173 +138112,6 @@
         "市場"
       ],
       "text": "倫敦證券交易所集團（LSEG）資料顯示，德國日前基荷電力價格上漲22.4%，至125.5歐元/兆瓦時。"
-    },
-    {
-      "id": "te:markets:573332",
-      "time": "2026-08-06 16:12:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Holds Close to 7-Week High — The euro changed hands at around $1.154, remaining close to a seven-week high as easing energy prices supported expectations that inflationary pressures in the Euro Area will continue to moderate. Sentiment improved after Iran and Oman agreed on a proposed shipping corridor through the Strait of Hormuz, raising hopes that the critical waterway could soon reopen and help restore Middle Eastern energy supplies. Brent crude remained below $80 per barrel, reinforcing expectations that lower energy costs could reduce pressure on central banks to tighten monetary policy further. Markets now fully price in just one additional European Central Bank rate hike by year-end, with roughly a 40% probability of a second increase, after the ECB left interest rates unchanged at its latest meeting. Meanwhile, stronger-than-expected German factory orders in June added to signs that Europe's largest economy may finally be gaining momentum."
-    },
-    {
-      "id": "5028303",
-      "time": "2026-08-06 16:11:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【郅海傑任北京市西城區委書記】“北京組工”微信公眾號8月6日訊息，日前，北京市委決定：郅海傑同志任西城區委書記；曾林峰同志任西城區委委員、常委、副書記。"
-    },
-    {
-      "id": "5028302",
-      "time": "2026-08-06 16:11:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈及利亞上游石油監管委員會（NUPRC）表示，到2030年，至少有22個海上專案將投產，潛在投資額高達500億美元。"
-    },
-    {
-      "id": "mkt:019fd620-ce02-7aab-8f9d-a54e5720cb1d",
-      "time": "2026-08-06 16:11:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Emerging Markets",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Nigeria plans to attract up to $50bn in offshore oil and gas investment by 2030】Nigeria’s Upstream Petroleum Regulatory Commission (NUPRC) says at least 22 offshore projects are slated to enter production by 2030, representing potential investment of up to $50.0 bln. The regulator, noting Nigeria is Africa’s largest oil producer, said it has approved more than $57.0 bln of field‑development plans since 2024. Planned investment is expected to raise oil and gas output, expand infrastructure and bolster upstream investor appeal. NUPRC said new blocks have been opened, with 37 blocks awarded to 31 companies in 2025 and a 2026 oil tender/licensing round being finalized. Nigeria aims to nearly double daily oil output to about 3.0 mln bpd by 2030."
-    },
-    {
-      "id": "mkt:019fd620-8222-7aab-8f9d-9bb66c0a30b5",
-      "time": "2026-08-06 16:11:22",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOGL.O"
-      ],
-      "text": "Google will lay off 52 employees in its Washington-area operations, effective Sept. 6, 2026."
-    },
-    {
-      "id": "mkt:019fd620-70d7-7aab-8f9d-933b4a57bb1f",
-      "time": "2026-08-06 16:11:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong stocks closed lower on Aug 6 (Thu): Hang Seng Index fell 385.54 points (-1.49%) to 25,530.28; Hang Seng Tech Index dropped 112.29 points (-2.28%) to 4,820.78; Hang Seng China Enterprises Index declined 105.00 points (-1.22%) to 8,498.73; Hang Seng Red Chip Index eased 35.83 points (-0.86%) to 4,122.32."
-    },
-    {
-      "id": "5028301",
-      "time": "2026-08-06 16:11:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：谷歌將在華盛頓州各辦公地點裁減52個崗位，裁員於2026年9月6日生效。"
-    },
-    {
-      "id": "5028300",
-      "time": "2026-08-06 16:10:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SoundHound AI股價盤前大漲24%，此前該公司上調了財季收入預測區間下限。"
-    },
-    {
-      "id": "5028299",
-      "time": "2026-08-06 16:10:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【AI新材料企業和光智成完成天使輪數千萬融資】近日，AI新材料企業北京和光智成科技有限公司宣佈完成天使輪數千萬融資。本輪資金將主要用於團隊擴招與自主實驗室擴容，進一步夯實其在AI驅動材料研發領域的技術壁壘。"
-    },
-    {
-      "id": "te:markets:573330",
-      "time": "2026-08-06 16:10:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Rice Gains by 0.64% — Today's Agricultural commodities market is characterized by modest daily movements, with Rice standing out as the frontrunner with a 0.64% increase."
-    },
-    {
-      "id": "te:markets:573329",
-      "time": "2026-08-06 16:10:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Hovers Near Record Highs — The DAX 40 fluctuated around the flatline near 26,150 on Thursday, remaining close to its recent record highs. Traders continued to monitor corporate earnings while keeping a close eye on Middle East developments, hoping a US-Iran deal could be nearing. Meanwhile, tech and AI-related stocks saw renewed pressure. Among key movers, Deutsche Telekom gained over 5% following upbeat results and after announcing it had increased its 2026 share buyback program by €3 billion to a total of up to €5 billion. Henkel rose 2.7% as it raised its annual organic sales growth outlook following a stronger-than expected rise in its first-half year sales. Conversely, Siemens dropped more than 5% after its quarterly results failed to impress investors, despite posting record industrial profit and a record level of new orders. Rheinmetall fell nearly 1% after cutting its 2026 sales outlook following the cancellation of a German frigate program, despite reporting a nearly 70% jump in second-quarter sales."
-    },
-    {
-      "id": "mkt:019fd61e-f7c0-7aab-8f9d-8c5d99466009",
-      "time": "2026-08-06 16:09:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "【LME daily on- and canceled-warrant stocks】London Metal Exchange on-warrant and canceled-warrant stocks (t): Copper on-warrants 94,225 t, up 100 t; canceled warrants 132,425 t, down 5,275 t. Aluminium on-warrants 244,650 t, unchanged; canceled warrants 13,250 t, down 1,500 t. Zinc on-warrants 73,825 t, unchanged; canceled warrants 23,650 t, down 975 t. Nickel on-warrants 255,888 t, unchanged; canceled warrants 8,556 t, down 336 t. Lead on-warrants 361,525 t, down 225 t; canceled warrants 66,900 t, down 2,900 t. Tin on-warrants 4,805 t, down 255 t; canceled warrants 66 t, down 724 t."
-    },
-    {
-      "id": "5028298",
-      "time": "2026-08-06 16:09:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta推出Muse Code：面向大型程式碼庫的AI智慧體】本週，Meta推出一款全新終端編碼智慧體，幫助程式設計師處理大型軟體程式碼庫中的複雜開發任務。 Meta執行長馬克・扎克伯格週三在社交媒體發文表示，目前處於測試版的Muse Code能夠“在大型程式碼倉庫中完成完整軟體工程任務”，涵蓋“方案規劃、程式碼編寫、結果驗證”全流程。 使用者僅需一條命令即可安裝Muse Code，底層依託Meta此前釋出的程式碼大模型Muse Spark。面對大型專案時，它會自動生成多個智慧體並行開展工作。"
-    },
-    {
-      "id": "mkt:019fd61e-c64e-7aab-8f9d-851af8891dbc",
-      "time": "2026-08-06 16:09:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Nickel",
-        "Aluminium"
-      ],
-      "text": "【LME base metals inventory update】LME base metals inventories: copper 226,650 t (down 5,175 t); aluminium 257,900 t (down 1,500 t); zinc 97,475 t (down 975 t); nickel 264,444 t (down 336 t); lead 428,425 t (down 3,125 t); tin 5,795 t (down 55 t)."
-    },
-    {
-      "id": "5028297",
-      "time": "2026-08-06 16:09:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "NHK Spring將投資60億日元擴大晶片工藝零部件產量。"
-    },
-    {
-      "id": "5028296",
-      "time": "2026-08-06 16:09:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌1.488%，恒生科技指數跌2.276%】比亞迪股份跌4.211%，新鴻基地產跌4.273%，百度集團-SW跌4.464%，吉利汽車跌4.786%，零跑汽車跌4.946%，寧德時代跌5.197%，友邦保險跌5.981%。"
     }
   ]
 }
