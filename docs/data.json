@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-14 03:26:48",
-  "count": 15407,
+  "updated": "2026-08-14 03:30:47",
+  "count": 15402,
   "items": [
     {
       "id": "mkt:019ffc95-487f-7aab-902c-ee3518537a79",
@@ -140926,50 +140926,6 @@
         "其他"
       ],
       "text": "豐田召回部分 2024‑2025 款塔科馬車型。"
-    },
-    {
-      "id": "5029505",
-      "time": "2026-08-07 03:29:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲5%，現報83.44美元/桶。"
-    },
-    {
-      "id": "5029504",
-      "time": "2026-08-07 03:27:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本將向承包商提前通報防務採購計劃。"
-    },
-    {
-      "id": "te:economy:573478",
-      "time": "2026-08-07 03:27:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Mexico",
-        "Interest Rate",
-        "Importance 2"
-      ],
-      "text": "Central Bank of Mexico Keeps Benchmark Rate Unchanged — Mexico's central bank left its benchmark interest rate unchanged at 6.50% at its August meeting, in line with market expectations. Policymakers said the decision reflects an appropriate degree of monetary restraint as inflation continues to ease while risks remain tilted to the upside. Annual inflation slowed to 3.10% in the first half of July from 3.55% in mid-June, while core inflation eased to 3.95%. The central bank noted that inflation is expected to continue declining gradually, with headline inflation projected to converge to the 3% target in the fourth quarter of 2027. Banxico also highlighted that Mexico's economy rebounded in the second quarter after contracting in the previous quarter, although downside risks to growth persist. The board reiterated that it expects to keep the benchmark rate at its current level, citing uncertainty related to geopolitical conflicts, global trade policies, and their potential impact on inflation."
-    },
-    {
-      "id": "5029503",
-      "time": "2026-08-07 03:26:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄方：若想和平解決俄烏衝突 歐洲應停止援烏 】據俄新社6日報道，俄羅斯外交部副部長格魯什科當天表示，歐洲國家若主張和平解決俄烏衝突，就應當停止向烏輸送武器。（新華社）"
-    },
-    {
-      "id": "5029502",
-      "time": "2026-08-07 03:26:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲4%，現報78.25美元/桶。"
     }
   ]
 }
