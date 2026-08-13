@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-08-14 01:05:41_
-_本檔包含 3107 則快訊，約 605506 字_
+_更新時間：2026-08-14 01:56:02_
+_本檔包含 3123 則快訊，約 606552 字_
+
+---
+
+### 2026-08-14 01:54:02  #國際
+
+美國國家颶風中心：熱帶風暴拉拉已生成。
+
+---
+
+### 2026-08-14 01:53:38  #國際
+
+美國國家颶風中心：空軍偵察機即將對拉拉熱帶風暴開展探測任務。
+
+---
+
+### 2026-08-14 01:51:25  #MKT News #DXY #Impact bullish #XAUUSD #Brent
+
+Turkish Foreign Minister Hakan Fidan said an alliance aimed at Turkey exists in the region. He said Israel, the Greek Cypriot administration and Greece earlier formed a security alliance in the Mediterranean that "draws a line along the midline of the Mediterranean," and that Turkey's own alignment is not aimed at any country but is intended to strengthen cooperation and deterrence.
+
+---
+
+### 2026-08-14 01:48:57  #國際
+
+以色列軍方稱，週四在加沙擊斃一名哈馬斯指揮官。
+
+---
+
+### 2026-08-14 01:47:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Turkey's foreign minister said Ankara expects the United States to exert necessary pressure on Israel; otherwise Turkey, Qatar and Egypt will have to take aggressive measures on the issue, which he described as their duty to their countries, peoples and the Palestinians.
+
+---
+
+### 2026-08-14 01:46:54  #央行 #其他
+
+紐約聯儲8月13日常備回購操作中，收到的20億美元投標全部接納。
+
+---
+
+### 2026-08-14 01:45:34  #國際
+
+土耳其外交部長表示，土耳其位於地中海以北，埃及位於以南，這種聯盟“正劃出一條直線穿過中間”，有著明確的目的，而土耳其自己的聯盟並非針對任何國家，而是旨在建立合作框架並確立威懾力。
+
+---
+
+### 2026-08-14 01:45:17  #國際
+
+土耳其外交部長表示，當被問及是否在該地區針對土耳其正在形成其他聯盟時，他回答“是的，有”，並指出，在麥加聯盟簽署之前，以色列、希臘塞普勒斯當局和希臘已在東地中海建立了安全聯盟。
+
+---
+
+### 2026-08-14 01:43:12  #其他
+
+PLACER.AI資料：8月3日當週TACO BELL客流量下降8%，而7月中旬降幅接近20%。
+
+---
+
+### 2026-08-14 01:40:54  #國際
+
+【第二艘超級油輪現身沙特主要石油出口碼頭 裝船活動或在回升】第二艘超級油輪似乎已停靠沙特位於波斯灣的主要石油出口碼頭，進一步顯示該樞紐的裝船活動可能正在回升。與此同時，沙特經紅海的替代運輸路線正面臨威脅。歐盟“哨兵2號”衛星週四拍攝的影象顯示，又一艘超大型原油運輸船停靠在朱艾邁的一處單點繫泊設施。此類油輪可裝載約200萬桶原油。朱艾邁碼頭是大型拉斯坦努拉石油出口設施的一部分。附近一處週二曾停靠另一艘油輪的繫泊設施目前已經空出。
+
+---
+
+### 2026-08-14 01:39:20  #市場 #觀點 #央行 #國際
+
+【美國股債相關性創30年來新高，達到網際網路泡沫破裂前幾年的水平】美國國債與股票回報率的三個月相關性升至1997年以來最高水平，以120天衡量的相關性更突破50%，這是上世紀90年代末網際網路泡沫破裂前幾年才出現過的水平，反映通脹升溫再次打破傳統股債負相關關係。分析認為，通脹若持續高企並推動市場重新押注美聯儲加息，將同時壓低債券價格和股票估值，對“60/40”投資組合構成風險。不過，花旗研究指出，歷史資料顯示，高名義收益率本身並不會壓制標普500指數表現，真正值得警惕的是收益率快速上行。隨著就業和通脹資料走弱，以及美聯儲主席凱文·沃什政策基調偏鴿，利率急劇上行的風險有所下降，強勁企業盈利也為股市提供緩衝。
+
+---
+
+### 2026-08-14 01:36:44  #其他
+
+德意志銀行將德賽西威評級上調至持有；目標價93元人民幣。
+
+---
+
+### 2026-08-14 01:32:46  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Chevron Stock Price Hits 12-week High — Chevron shares increased to 197.70 USD, the highest since May 2026. Over the past 4 weeks, Chevron gained 8.73%, and in the last 12 months, it increased 27.37%.
+
+---
+
+### 2026-08-14 01:31:40  #國際
+
+美國參議員沃倫要求小羅伯特·肯尼迪詳細說明聯邦對環孢子蟲疫情的應對措施。
+
+---
+
+### 2026-08-14 01:30:32  #其他
+
+KNDS稱義大利工廠無人員受傷，事故原因正在調查。
+
+---
+
+### 2026-08-14 01:28:55  #國際
+
+【美防長稱可無限期封鎖伊朗】美國國防部長赫格塞思8月13日表示，美軍擁有足夠資源對伊朗實施“無限期”的海上封鎖，並可根據需要輪換部署在該地區的艦船。赫格塞思對媒體稱：“美國海軍完全有能力維持此類封鎖，想封多久就封多久。我們將像此前那樣，持續輪換部署的艦船。”（CCTV國際時訊）
+
+---
+
+### 2026-08-14 01:28:38  #MKT News
+
+【Anthropic holds pre-IPO investor meetings; $2tn valuation cited but not company target】Anthropic is holding preliminary investor meetings ahead of a potential record-sized IPO, with discussions reportedly remaining at a macro level and not yet covering detailed financials or formal valuation guidance. CFO Krishna Rao is leading meetings focused on the Claude model family, Claude Code, enterprise positioning, management and product roadmap. The company confidentially filed listing documents with the SEC in June but has not set an IPO timetable. Anthropic completed a financing in late May at an implied valuation of about $965bn and disclosed an annualized revenue run rate above $47bln. Some investors price a potential IPO as high as $2tn, though that figure is not an official company target. Rival OpenAI has also confidentially filed but has not begun investor roadshows.
+
+---
+
+### 2026-08-14 01:26:35  #市場
+
+Rumo首席財務官表示，預計第三季度價格將同比保持穩定，第四季度將上漲。
+
+---
+
+### 2026-08-14 01:21:17  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOGL.O #Impact bullish
+
+【Google unveils Gemini 3.7 Flash; flagship Gemini 3.5 Pro still without timetable】Google released Gemini 3.7 Flash, presented as a code-generation and debugging upgrade the company says produces more production-ready code on first pass, reduces developer rework and lowers inference costs. The model will support the AI productivity assistant Gemini Spark and adds safety protections against malicious attacks and misuse in chemical, biological, radiological and nuclear (CBRN) domains. Google has not provided a firm launch timetable for flagship Gemini 3.5 Pro, which has been delayed repeatedly amid slower-than-expected R&D progress, keeping investor focus on the company’s AI roadmap execution. CEO Pichai said Google is accelerating model iteration and has allocated substantial compute to train next-generation Gemini 4.
+
+---
+
+### 2026-08-14 01:21:02  #市場
+
+【上期所基本金屬夜盤多數下跌，不鏽鋼跌0.94%】國際銅漲0.10%，滬銅跌0.03%，滬鋁跌0.62%，滬鋅跌0.12%，滬鉛跌0.81%，滬鎳跌0.88%，滬錫漲0.07%；氧化鋁跌0.07%，鋁合金跌0.79%。
+
+---
+
+### 2026-08-14 01:16:09  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $450 mln from one counterparty in its fixed-rate reverse repo operation.
+
+---
+
+### 2026-08-14 01:16:00  #央行 #其他
+
+紐約聯儲8月13日接受逆回購工具提交的4.5億美元全額投標。
+
+---
+
+### 2026-08-14 01:15:12  #公司
+
+Rumo首席財務官表示，由於公司專注於從現有資產中挖掘價值，2027年的投資規模將低於2026年。
+
+---
+
+### 2026-08-14 01:15:07  #公司
+
+市場訊息：PSP投資公司披露持有10萬股SpaceX股份。
+
+---
+
+### 2026-08-14 01:13:04  #MKT News
+
+Saudi shelling struck villages in Saada province in northern Yemen, Yemen's Saba news agency reported.
+
+---
+
+### 2026-08-14 01:13:03  #國際
+
+【美軍著手組建中東多國無人機特遣隊】當地時間8月13日，美軍中央司令部宣佈著手組建史上首支“多域、多國攻擊無人機特遣隊”。該部隊名為“獵鷹打擊特遣隊”，將配備自殺式攻擊無人機，整合空中、海面以及水下無人作戰裝備，由美國及地區夥伴國的軍事保障人員操作。 此次“獵鷹打擊”的啟動，距離美軍中央司令部成立“蠍子打擊特遣隊”——美軍在中東地區首支專門的攻擊無人機中隊——已過去九個月。（CCTV國際時訊）
+
+---
+
+### 2026-08-14 01:11:52  #MKT News
+
+CNBC, citing sources, reports ANTHROPIC's CFO is leading early investor outreach for an IPO; valuation has not yet been discussed.
+
+---
+
+### 2026-08-14 01:11:01  #公司 #市場
+
+ZOETIS公司股價因其治療螺旋蠅藥物獲得緊急使用授權而上漲。
+
+---
+
+### 2026-08-14 01:10:30  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+US 30-year Treasury yield slightly recovered after the 30-year auction; latest print down 2.9 bps at 5.217%.
+
+---
+
+### 2026-08-14 01:10:13  #國際
+
+【美法官駁回特朗普政府針對哈佛大學的訴訟】當地時間8月13日，美國馬薩諸塞州地區法院法官理查德·斯特恩斯駁回特朗普政府針對哈佛大學提起的訴訟。該訴訟指控哈佛大學未能保護猶太和以色列學生免受騷擾。斯特恩斯在裁決中表示，特朗普政府今年3月提起的訴訟未能合理證明哈佛大學校園內目前仍存在違反聯邦民權法的行為。（央視新聞）
+
+---
+
+### 2026-08-14 01:10:13  #MKT News #Market Themes #AI Revolution #GOOG.O #Impact bearish
+
+Google (GOOG.O) released updates to its Gemini Flash series, but rollout of its top-tier model upgrade has been delayed.
+
+---
+
+### 2026-08-14 01:09:41  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Alphabet #GOOG.O #Impact bullish
+
+Google (GOOG.O): GEMINI 3.7 Flash outperforms GEMINI 3.6 Flash on complex document processing.
+
+---
+
+### 2026-08-14 01:08:42  #其他
+
+市場訊息：ANTHROPIC首席財務官克里希納·拉奧正牽頭與投資者進行早期IPO會議，尚未討論估值事宜。
+
+---
+
+### 2026-08-14 01:07:23  #MKT News #Market Themes #AI Revolution #Star Stocks #GOOG.O
+
+Google (GOOG.O) says Gemini Spark will use Gemini 3.7 Flash effective today.
+
+---
+
+### 2026-08-14 01:06:45  #國際
+
+市場訊息：美國食品藥品監督管理局授予藥物緊急使用授權，用於治療犬類新世界螺旋蠅感染。
+
+---
+
+### 2026-08-14 01:06:14  #公司
+
+谷歌：GEMINI SPARK 從今天起將使用 GEMINI 3.7 Flash。
 
 ---
 
@@ -18591,125 +18807,5 @@ U.S. EIA crude inventories, Cushing crude inventories and Strategic Petroleum Re
 ### 2026-08-12 22:19:40  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 0
 
 Germany 10-Year Bond Yield Swings at 3.1% — Germany’s 10-year Bund yield has been swinging around 3.1% in August, tracking US Treasury yields, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September.
-
----
-
-### 2026-08-12 22:19:40  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7
-
-Texas governor says Google and Rowan will comply with Texas data center standards.
-
----
-
-### 2026-08-12 22:19:24  #MKT News #Market Themes #AI Revolution
-
-The US has launched a plan to accelerate trade in AI products among allied countries.
-
----
-
-### 2026-08-12 22:19:01  #國際
-
-美國得州州長Abbott：Cleanspark 需遵守資料中心相關標準。
-
----
-
-### 2026-08-12 22:18:33  #公司 #國際
-
-美國得州州長Abbott：谷歌、羅文公司需遵守資料中心相關標準。
-
----
-
-### 2026-08-12 22:18:17  #宏觀 #國際
-
-美國國務院人工智慧產品相關專案是 “矽晶和平計劃” 的組成部分。
-
----
-
-### 2026-08-12 22:17:53  #宏觀 #國際
-
-美國國務院推出專案，加快關鍵人工智慧產品的物流流轉。
-
----
-
-### 2026-08-12 22:17:47  #國際
-
-市場訊息：美國發起行動，加快盟國間人工智慧產品貿易。
-
----
-
-### 2026-08-12 22:17:16  #其他
-
-市場訊息：Formlabs 與蘋果前硬體主管丹・裡喬展開合作。
-
----
-
-### 2026-08-12 22:16:40  #公司
-
-【電投水電與葛洲壩集團舉行會談】據電投水電訊息，8月11日，電投水電董事長、黨委書記姚小彥會見了葛洲壩集團董事長、黨委書記譚華，雙方圍繞深化清潔能源領域合作深入交流。姚小彥表示，葛洲壩集團綜合實力雄厚、水電業績突出，雙方合作基礎深厚，未來空間廣闊，期待雙方聚焦水電主業，拓展新能源、綠電直連、算電協同等領域，共同服務國家戰略。
-
----
-
-### 2026-08-12 22:15:36  #市場
-
-【上海深圳房租上漲 求職畢業生在深圳可免費入住15天】在畢業季的帶動下，疊加家庭型租客換租等需求推動，上海、深圳近幾個月租金迎來上漲。 今年3月以來，上海市住宅租金已連續5個月出現環比上漲。業內人士表示，近期上海租賃市場量價齊升，一方面源於畢業季、陪讀季需求的集中釋放；另一方面也受到二手房市場企穩的帶動。7月上海二手房成交量約2.3萬套，同比上漲19%，並創下五年同期新高。深圳7月租房市場的成交量創下2019年以來同期新高。為吸引更多的大學畢業生來深工作，深圳為求職畢業生提供連續15天免費入住等人才安居補貼，同時不少園區及住房服務企業也推出實習期免費入住政策，多重舉措有效降低了青年人才來深初期的生活成本，也進一步帶動了租房需求。據研究機構統計，7月深圳租房成交量環比增長19.6%，而且市場成交熱度高於去年同期，同比增幅為2%。 （央視財經）
-
----
-
-### 2026-08-12 22:15:29  #MKT News
-
-【German firms expect AI to depress wages; junior employees most exposed】Munich-based Ifo Institute said a June survey of more than 3,000 German companies deploying AI found about half expect wages for employees with under five years’ experience to fall over the next five years as AI adoption expands. Around 40% of firms expect pay declines for more experienced staff, while university-educated employees are markedly more likely to see pay gains than non-degree workers. Ifo researcher Anna Ruffert said AI’s impact will not be uniform, with formal qualifications and greater experience more often linked to positive wage outcomes.
-
----
-
-### 2026-08-12 22:13:50  #其他
-
-厄瓜多 7 月國際儲備為 113.46 億美元。
-
----
-
-### 2026-08-12 22:13:29  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Extends Record Run — The S&P/TSX Composite Index edged higher to trade above 36,500, extending its recent record-breaking streak. US CPI inflation eased slightly to 3.4% in July from 3.5%, in line with forecasts. Combined with soft labor market data from July, the in-line inflation reading reinforced expectations that the Fed will refrain from hiking rates, benefiting credit-sensitive North American equities. Meanwhile, the BoC is widely expected to keep interest rates unchanged at its September meeting. Major banks traded higher, with RBC, TD Bank and BMO gaining more than 0.5%, while CIBC and Scotiabank rose nearly 1%. Most miners advanced amid higher gold prices, with Agnico Eagle and Barrick up more than 1.5%. Franco-Nevada fell 3% after missing earnings expectations. Constellation Software tumbled near 7% after revenue came in slightly below forecasts despite an EPS beat. Hydro One gained 2% after reporting higher profit, while Metro fell 2% after reporting weaker adjusted earnings in fiscal Q3.
-
----
-
-### 2026-08-12 22:12:04  #國際
-
-巴勒斯坦總統抵達土耳其，與土耳其總統埃爾多安舉行會談。
-
----
-
-### 2026-08-12 22:11:41  #其他
-
-市場訊息：喬希・庫什納、鮑勃・艾格擬以 120 億美元收購湖人隊。
-
----
-
-### 2026-08-12 22:10:27  #其他
-
-SK海力士股價漲幅擴大至8.25%，報153.335美元/股，總市值報1.12萬億美元。
-
----
-
-### 2026-08-12 22:10:19  #國際
-
-【韓國前總統尹錫悅面臨新指控】據韓聯社12日報道，韓國第二綜合特別檢察組當天以傳播“緊急戒嚴正當化資訊”為由，起訴前總統尹錫悅和前國家安保室長申源湜。尹錫悅先後所涉刑事訴訟案件增至9起。 特檢組表示，尹錫悅涉嫌在宣佈“12·3”緊急戒嚴後，立即透過國家安保室和外交部，指示向美國、英國、日本、歐盟等方面傳達有關“緊急戒嚴是正當的”的資訊，涉嫌濫用職權妨礙權利行使罪，即濫用職權令公務員從事非義務工作。 特檢組還表示，申源湜被查明於戒嚴次日與前國家安保室第一次長金泰孝一起，向國家情報院提出“向友邦國家說明緊急戒嚴背景”的要求，並傳達了尹錫悅的資訊。特檢組認為，申源湜上述行為讓國家安保室和外交部等部門所屬公務員從事了他們沒有義務承擔的工作。 截至此次案件，尹錫悅已先後身陷9起刑事訴訟，其中1起已完成終審判決，但系列案件中最核心的尹錫悅涉內亂頭目案目前仍在首爾高等法院二審審理中。(新華社)
-
----
-
-### 2026-08-12 22:08:57  #MKT News
-
-Google will add an insulin-trend tracking feature to Watch5 and Fitbit Air.
-
----
-
-### 2026-08-12 22:08:25  #MKT News
-
-Death toll from Colombia earthquake reaches 202.
-
----
-
-### 2026-08-12 22:07:46  #Trading Economics #Markets #Euro Area #Currency #Importance 0
-
-Euro Near 2-Month Highs — The euro has been trading around $1.15 in August, near two-month highs, as traders navigate shifting developments in the Middle East and conflicting signals over the prospects of a deal between the US and Iran, while also assessing the resulting rise in oil prices and its impact on inflation. In Europe, market-based measures of inflation expectations, reflected in swaps for the Euro Area over the next year, are around 2.4%, above the ECB’s 2% target. Eurozone inflation edged up to 2.9% in July. Meanwhile, the Euro Area economic outlook has improved, with recent resilience prompting analysts to become more optimistic about growth. The Eurozone economy expanded 0.4% in Q2, the strongest pace since early 2025 and growth is projected to moderate in the near term before gradually gaining momentum. As a result, investors expect the ECB to deliver another 25bps rate hike in September.
 
 ---
