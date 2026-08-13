@@ -1,7 +1,211 @@
 {
-  "updated": "2026-08-14 04:40:19",
-  "count": 15416,
+  "updated": "2026-08-14 04:49:51",
+  "count": 15423,
   "items": [
+    {
+      "id": "te:economy:575187",
+      "time": "2026-08-14 04:47:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Monthly Inflation Edges Higher in July — Argentina’s consumer price index rose 2.1% month-over-month in July 2026, up from 1.9% in June and slightly above forecasts of 2.0%. Seasonal prices increased 4.5%, led by vegetables, tour packages and accommodation services, while regulated prices rose 2.1%, reflecting higher public transportation fares, private healthcare costs and electricity prices. Recreation and Culture recorded the largest monthly increase at 5.0%, driven by higher tour packages and cultural services, followed by Restaurants and Hotels at 2.8%. Across Greater Buenos Aires, the Northeast, Northwest, Pampas and Patagonia, Food and Non-Alcoholic Beverages made the largest contribution to monthly inflation, driven by higher vegetable, dairy, bread and cereal prices. Core CPI rose 1.8%, driven by higher housing rents and cultural services, partly offset by a decline in building maintenance fees following the removal of a 20% surcharge included in June."
+    },
+    {
+      "id": "5040040",
+      "time": "2026-08-14 04:46:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "Jane Street 披露持有 Cerebras Systems 5.1% 被動股權。"
+    },
+    {
+      "id": "5040039",
+      "time": "2026-08-14 04:45:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲未來一個月暫停出於準備金管理目的買入美國國庫券】美聯儲週四表示，未來一段時間不會出於準備金管理目的買入美國國庫券，這表明決策者認為金融體系中的銀行準備金處於合意水平。根據紐約聯儲網站，紐約聯儲公開市場操作部門在截至9月14日的月度操作期內，不計劃進行準備金管理購買（RMP），但期間仍計劃進行約170億美元的再投資買入。此次暫停表明，儘管政府現金餘額增加可能抽走市場流動性，貨幣當局仍有信心融資市場能夠平穩執行。市場表現也印證了這一點。擔保隔夜融資利率（SOFR）在7月大部分時間都低於準備金餘額利率（IORB）。截至8月12日，SOFR定盤利率為3.62%，比IORB低3個基點。此次調整並不意味著貨幣政策或資產負債表策略發生變化。"
+    },
+    {
+      "id": "5040038",
+      "time": "2026-08-14 04:43:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "惠譽：高財政赤字、巨大的利息負擔以及高企且上升的政府債務水平制約了美國評級。預計美國債務上限將在2027年中左右觸及。預計美國2026年通脹率將平均為3.4%。關稅導致核心商品通脹上升，但傳導效應比預期輕微。"
+    },
+    {
+      "id": "mkt:019ffcdd-4e6f-7aab-902d-fa855c434ded",
+      "time": "2026-08-14 04:43:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "UAE Foreign Ministry said the UAE condemns Iran's attack on Abu Dhabi National Oil Company vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "5040037",
+      "time": "2026-08-14 04:42:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "阿聯酋外交部：阿聯酋譴責伊朗在霍爾木茲海峽襲擊阿布扎比國家石油公司船隻。"
+    },
+    {
+      "id": "mkt:019ffcdc-e83a-7aab-902d-f715f8f56d9f",
+      "time": "2026-08-14 04:42:43",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "FITCH: Tariffs have raised core goods inflation, but pass-through has been milder than expected."
+    },
+    {
+      "id": "mkt:019ffcdc-3e49-7aab-902d-efb6d0d003de",
+      "time": "2026-08-14 04:41:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fitch expects the U.S. debt ceiling to be reached around mid-2027."
+    },
+    {
+      "id": "mkt:019ffcdc-3d3a-7aab-902d-e187464ffee4",
+      "time": "2026-08-14 04:41:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "FITCH expects US inflation to average 3.4% in 2026."
+    },
+    {
+      "id": "5040036",
+      "time": "2026-08-14 04:41:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "應用材料CEO： 預計全球服務業務（AGS）2026 自然年營收增速超 20%，並可實現每年 15% 左右的可持續長期年化增速。"
+    },
+    {
+      "id": "te:markets:575186",
+      "time": "2026-08-14 04:41:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Drops as Weak Earnings Weigh — The Ibovespa shed 0.2% to close at 167,101 on Thursday, erasing earlier gains and retreating to a seven-month low amid a batch of weak corporate earnings. Banco do Brasil shed 4.2% after reporting below-expectation profits in the second quarter. Sabesp tumbled 7% after reporting an 11.2% year-on-year drop in net profit. CSN Mineração lost 5.2% after posting cash flow below market expectations. In contrast, CSN jumped 5.6% despite reporting a net loss, as the loss was smaller than expected and revenue grew 6%. Hapvida sank 33.1% after its second-quarter results showed margin pressure and rising litigation costs. Meanwhile, Rede D’Or added 6.3% after reporting a 9.7% year-on-year increase in net profit. Vale fell 1.7% as iron ore prices declined, with weak profitability among Chinese steelmakers continuing to constrain prospects for a meaningful recovery in ore demand. Petrobras (+1.1%) rose despite lower oil prices as peace negotiations in the Middle East remained at a stalemate."
+    },
+    {
+      "id": "5040035",
+      "time": "2026-08-14 04:41:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的FIMA回購機制連續第九周未使用。"
+    },
+    {
+      "id": "5040034",
+      "time": "2026-08-14 04:41:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "應用材料CEO： 大客戶正給予公司更長期的合作承諾，並滾動更新八個季度的預測，以確保供應鏈能夠支撐產能爬坡。"
+    },
+    {
+      "id": "mkt:019ffcda-f10d-7aab-902d-dea7ec367b60",
+      "time": "2026-08-14 04:40:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Fitch: high fiscal deficits, a large interest burden and elevated, rising government debt levels constrain the US sovereign credit rating."
+    },
+    {
+      "id": "mkt:019ffcda-e738-7aab-902d-d5ff373ae430",
+      "time": "2026-08-14 04:40:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fitch says US Medicare and Social Security spending will rise by nearly one percentage point of GDP by 2032, heightening fiscal pressure."
+    },
+    {
+      "id": "5040033",
+      "time": "2026-08-14 04:40:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "應用材料公司CEO：目前預計 2026 自然年整體封裝業務營收增幅將超過 70%。"
+    },
+    {
+      "id": "mkt:019ffcda-7c98-7aab-902d-ce3516c00a75",
+      "time": "2026-08-14 04:40:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fitch says U.S. political gridlock and government shutdowns could become more frequent and last longer."
+    },
+    {
+      "id": "mkt:019ffcda-70df-7aab-902d-c4ee76a1de11",
+      "time": "2026-08-14 04:40:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "HII.O",
+        "Impact mixed"
+      ],
+      "text": "Wall Street Journal: President Trump has ordered the US Navy to remove electromagnetic aircraft launch systems (EMALS) from aircraft carriers and revert to steam catapults; the change is expected to add tens of billions of dollars to retrofit costs."
+    },
     {
       "id": "5040032",
       "time": "2026-08-14 04:39:49",
@@ -140982,105 +141186,6 @@
         "Importance 0"
       ],
       "text": "Microchip Technology earnings above expectations at 0.76 USD — Microchip Technology (MCHP) released earnings per share at 0.76 USD, compared to market expectations of 0.70 USD."
-    },
-    {
-      "id": "5029560",
-      "time": "2026-08-07 04:48:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特官員：已披露的威脅訊號或表明伊朗內部存在 “權力鬥爭”，但未提供相關證據。"
-    },
-    {
-      "id": "5029559",
-      "time": "2026-08-07 04:48:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官員：任何預謀襲擊的目的或許是 “破壞” 緩和局勢及外交努力。"
-    },
-    {
-      "id": "te:economy:573492",
-      "time": "2026-08-07 04:47:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Producer Prices Change",
-        "Importance 1"
-      ],
-      "text": "Colombia Producer Inflation Eases in July — Colombia's Producer Price Index rose 1.51% year-on-year in July 2026, slowing from 3.30% in June and marking the weakest annual increase since February. Among the main sectors, agriculture, livestock, and fishing recorded the strongest annual gain at 8.69%, while manufacturing prices rose 0.44%. In contrast, mining prices fell 4.77%. The largest positive contributions to annual producer inflation came from pome and stone fruits (29.73%), citrus fruits (76.62%), and potatoes (93.51%). Meanwhile, the biggest downward contributions came from crude petroleum and oils obtained from bituminous minerals (-7.65%), milled or green coffee (-20.17%), and coffee (-12.97%)."
-    },
-    {
-      "id": "5029558",
-      "time": "2026-08-07 04:46:01",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【8月7日美股成交額前20：閃迪業績指引偏弱，遭花旗等券商下調目標價】週四美股成交額第4名閃迪收跌6.81%，成交239.47億美元。花旗分析師Asiya Merchant將閃迪目標價從2500美元下調至2100美元，並維持買入評級。同日，傑富瑞將閃迪目標價從3000美元下調至1750美元。此前閃迪披露2026財年第四季度財報顯示，公司第四財季業績超預期強勁，但業績指引偏弱。分析認為，閃迪股價下跌的關鍵原因並不在於第四財季業績本身，而在於閃迪的本財季營收指引低於市場預期，調整後EPS指引區間基本落在市場預期範圍。毛利率指引環比大致持平，有見頂跡象。"
-    },
-    {
-      "id": "te:markets:573491",
-      "time": "2026-08-07 04:45:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Monster Beverage earnings above expectations at 0.60 USD — Monster Beverage (MNST) released earnings per share at 0.60 USD, compared to market expectations of 0.58 USD."
-    },
-    {
-      "id": "5029557",
-      "time": "2026-08-07 04:44:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官員：潛在襲擊目標可能為民用及經濟設施，包括能源基礎設施、港口與機場。"
-    },
-    {
-      "id": "5029556",
-      "time": "2026-08-07 04:43:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官員：沙烏地阿拉伯觀測到無人機與導彈正在調運，預示可能會來自南北方向的協同襲擊。"
-    },
-    {
-      "id": "5029555",
-      "time": "2026-08-07 04:41:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官員：沙烏地阿拉伯將採取一切必要措施應對任何 “侵略行為”。"
-    },
-    {
-      "id": "5029554",
-      "time": "2026-08-07 04:41:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國 SEC 檔案：亞馬遜披露持有 X‑Energy 公司 6580 萬股 A 類股份。"
-    },
-    {
-      "id": "5029553",
-      "time": "2026-08-07 04:41:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特官員：沙特與美國在各個層面的合作仍處於極高且穩固的水平，包括與美國中央司令部的實操層面合作。"
-    },
-    {
-      "id": "5029552",
-      "time": "2026-08-07 04:40:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特官員： 多份情報報告顯示，伊拉克民兵正與胡塞武裝協同，在伊朗革命衛隊的指揮下，準備對沙烏地阿拉伯發動即刻襲擊。有關預謀襲擊的報道令人震驚，利雅得方面正致力於緩和局勢、尋求和平解決；並稱談判似乎正朝著正確方向推進。"
     }
   ]
 }
