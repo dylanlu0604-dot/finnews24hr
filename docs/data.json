@@ -1,7 +1,95 @@
 {
-  "updated": "2026-08-13 15:44:30",
-  "count": 15088,
+  "updated": "2026-08-13 15:48:28",
+  "count": 15086,
   "items": [
+    {
+      "id": "mkt:019ffa16-7e29-7aab-901d-9d61c4521a8c",
+      "time": "2026-08-13 15:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank governor said services disinflation continues."
+    },
+    {
+      "id": "5038857",
+      "time": "2026-08-13 15:46:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鵬鼎控股：AI伺服器PCB上半年營收近10億元 高速光模組PCB突破6億元】鵬鼎控股(002938.SZ)釋出投資者關係活動記錄表公告，公司已將AI伺服器、高速光模組業務確立為第二核心增長曲線，上半年汽車及伺服器用板營收22.67億元，同比增長181.58%，其中AI伺服器PCB營收接近10億元，高速光模組PCB營收突破6億元，板塊毛利率37.42%。公司上半年資本開支達64億元，同比增加34億元，淮安園區、深圳第三園區及泰國園區按既定節奏推進，明後年將進入產能集中釋放階段。目前公司在建產能預計自2027年起陸續投產，已有十餘座廠房在建、十餘座規劃中。公司各產線處於滿產狀態，算力相關產品下半年進入集中拉貨階段，訂單將陸續落地。研發投入核心投向AI伺服器、高速光模組等算力硬體、車載PCB及人形機器人等前沿領域，隨著營收規模擴張，研發費用率預計將穩步回落。泰國園區整體佔地約600畝，多座工廠同步建設，後續隨其餘廠房投產，固定成本攤薄後盈利能力將快速修復。"
+    },
+    {
+      "id": "5038856",
+      "time": "2026-08-13 15:46:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河首次進行實船單線雙向過閘試驗】今天（8月13日），平陸運河實船試驗進入第二天。在平陸運河企石樞紐，首次進行了實船單線雙向過閘試驗，重點檢測船舶在船閘內外靠泊和過閘的安全性，這也是平陸運河實船試驗過程中最關鍵的一環。（央視新聞）"
+    },
+    {
+      "id": "5038855",
+      "time": "2026-08-13 15:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其中央銀行行長：服務業通縮排程仍在持續。"
+    },
+    {
+      "id": "mkt:019ffa15-05a1-7aab-901d-927eee46ea93",
+      "time": "2026-08-13 15:45:09",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【UK economy temporarily weathers energy shock but outlook remains challenged】National Institute of Economic and Social Research economist Fergus Jimenez-England said the UK has so far resisted the recent energy-price shock better than many feared. Q2 GDP rose 0.4% following a 0.6% gain in Q1. Services output increased 0.4% in June, offsetting declines in construction and industrial production. Jimenez-England warned the recent growth pace may be hard to sustain; he expects inflation and unemployment to rise in coming months, and said business confidence is fragile and could weaken further if energy-price volatility continues. He said the economy has shown welcome resilience but is not yet out of the woods."
+    },
+    {
+      "id": "mkt:019ffa14-e142-7aab-901d-883ec421262d",
+      "time": "2026-08-13 15:45:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude is down more than 1.0% intraday, trading at $86.37/bbl."
+    },
+    {
+      "id": "5038854",
+      "time": "2026-08-13 15:44:55",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行行長：多項指標顯示，能源價格上漲的影響將在8月份顯現出來。"
+    },
+    {
+      "id": "mkt:019ffa14-556c-7aab-901d-878a955e2643",
+      "time": "2026-08-13 15:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey governor said negative decoupling of food inflation is increasingly evident."
+    },
+    {
+      "id": "mkt:019ffa14-11bd-7aab-901d-7895db8cd347",
+      "time": "2026-08-13 15:44:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【CPCA: Aug 1-9 China passenger car retail 317,000 units, down 22% YoY, MoM -3%】CPCA data: Aug 1-9 China passenger car retail 317,000 units, down 22% YoY and 3% MoM; YTD retail 10.49 mln units, down 20% YoY. Factory wholesale shipments Aug 1-9 were 276,000 units, down 24% YoY and up 2% MoM; YTD wholesale 15.086 mln units, down 5% YoY."
+    },
     {
       "id": "mkt:019ffa13-b401-7aab-901d-73af59d6d038",
       "time": "2026-08-13 15:43:42",
@@ -137664,103 +137752,6 @@
         "國際"
       ],
       "text": "【特朗普“黃金艦隊”造價或高達2750億美元】美國國會預算辦公室5日釋出的報告估算，美國總統特朗普要求打造的海軍全新核動力“黃金艦隊”可能需要在今後數十年間支出約2750億美元。其中，首艘“特朗普級”戰列艦“無畏”號預估造價比原來至少高50%。特朗普2025年12月宣佈美軍將打造“黃金艦隊”，首批建造兩艘戰列艦，之後將很快再建造8艘，最終將有20至25艘新型戰列艦。這些戰列艦排水量為3萬至4萬噸，配備高超音速武器、軌道炮、巡航導彈和鐳射武器，將成為美國海軍艦隊的旗艦。國會預算辦公室5日的報告說，依照美國海軍最初向國會提交的預算，首艦“無畏”號以2026年美元價值計算，成本約為151億美元，第二艘和第三艘戰列艦平均造價為102億美元。（新華社）"
-    },
-    {
-      "id": "te:economy:573311",
-      "time": "2026-08-06 15:48:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Euro Area",
-        "Construction PMI",
-        "Importance 1"
-      ],
-      "text": "Eurozone Construction Contraction Eases in July — The S&P Global Eurozone Construction PMI came in at 44.3 in July 2026, up from 42.8 in June, pointing to another sharp contraction but one that was the softest since March. Construction activity remained firmly in contraction across the region at the start of the third quarter, with declines continuing across all monitored sectors and the three largest economies, led by a sharper downturn in Germany. This was largely attributed to subdued demand, as new orders contracted at a faster pace. Job cuts persisted across eurozone construction for a sixth month, easing to the slowest pace since February despite steeper reductions in Germany. Meanwhile, cost pressures eased further as the energy-driven inflation spike following the Middle East conflict continued to moderate from April's record high. Looking ahead, firms across all three countries remained pessimistic, pushing business sentiment to its lowest level in three months, with Germany the most downbeat."
-    },
-    {
-      "id": "5028256",
-      "time": "2026-08-06 15:47:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀6月份的貸款價值比為13%，而3月份為17%。"
-    },
-    {
-      "id": "te:economy:573310",
-      "time": "2026-08-06 15:47:38",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Construction PMI",
-        "Importance 1"
-      ],
-      "text": "French Construction Sector Growth Hits 5-Month High — The S&P Global France Construction PMI rose to 41.5 in July 2026 from 38.2 in June, marking its highest level since February. Despite the improvement, the index remained well below the 50 threshold, signaling a continued sector-wide downturn. Commercial construction was once again the weakest segment, posting a steeper decline than both residential and civil engineering activity. New orders continued to fall at a rapid pace as firms cited weak client demand, customer hesitancy, and a lack of competitiveness. Construction companies also continued to reduce staffing levels, extending a run of job cuts that has persisted since May 2024. On the cost side, input price inflation remained elevated and significantly above the rates seen throughout 2025. Looking ahead, French builders remained pessimistic about activity over the next twelve months. While sentiment improved slightly from the previous four months, the level of confidence remained deeply negative by historical standards."
-    },
-    {
-      "id": "5028255",
-      "time": "2026-08-06 15:47:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【騰訊雲Agent Memory2.0.0大版本上線】8月6日，騰訊雲宣佈騰訊雲Agent Memory2.0.0大版本已上線，全新升級Team Memory，將長期記憶能力從個人擴充套件到團隊協作場景。據介紹，團隊與Agent協作過程中產生的程式碼知識、專案文件、歷史對話和工作方法，都可以沉澱為團隊長期記憶，在不同Agent之間共享，再根據Agent角色和具體任務按需裝配。"
-    },
-    {
-      "id": "5028254",
-      "time": "2026-08-06 15:47:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【風語築聯合浙大機器人感知與學習實驗室探索物理AI訓練資料基礎設施】近日，風語築與浙江大學機器人感知與學習實驗室圍繞物理AI方向開展技術交流，探索利用三維空間資料、模擬合成技術和空間計算能力，為具身智慧機器人訓練及世界模型開發提供訓練資料基礎設施。據介紹，風語築依託長期積累的空間資料資產和三維重建能力，正在探索構建物理AI時代的空間智慧基礎設施，為機器人企業提供理解真實世界所需的訓練資料與模擬環境。"
-    },
-    {
-      "id": "5028253",
-      "time": "2026-08-06 15:47:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：因通訊失誤，特朗普所乘直升機與客機一度“喪失安全間隔”】美國總統特朗普所乘直升機當地時間4日在華盛頓遭遇飛行安全事件。《紐約時報》等美媒5日援引知情人士訊息進一步披露稱，特朗普乘坐的“海軍陸戰隊一號”直升機當時在華盛頓上空與一架客機最近時水平距離不足0.8英里（約1.29千米）。事故原因是直升機機組人員與羅納德·里根華盛頓國家機場塔臺空管員之間的通訊出現混亂，導致空管員未能及時“清理”附近空域。對此，白宮發言人庫什·德賽表示，“儘管總統在昨天短暫失去間隔期間並未處於危險之中，但白宮仍將繼續與相關軍方、聯邦航空局和其他安保人員合作，以確保總統的持續安全。”（環球網）"
-    },
-    {
-      "id": "5028252",
-      "time": "2026-08-06 15:46:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【三星電氣：子公司籤1.75億元海外經營合同】三星電氣公告稱，下屬控股子公司福克斯簽訂波蘭電力局AMI智慧計量基礎設施交付專案，合同金額總計97,295,900茲羅提，約合1.75億元人民幣，佔公司2025年度經審計營收的1.22%。該合同履行將對業績產生積極影響，是公司在波蘭用電業務重要突破，利於鞏固歐洲業務優勢。不過，合同履行存在不可抗力、國際貿易政策等風險。"
-    },
-    {
-      "id": "5028251",
-      "time": "2026-08-06 15:46:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博雅生物：控股子公司達拉特旗漿站獲單採血漿許可證】博雅生物公告稱，公司控股子公司達拉特旗博雅單採血漿有限公司近日獲內蒙古自治區衛生健康委員會頒發的《單採血漿許可證》，採漿範圍為達拉特旗區域內，有效期從2026年7月17日至2028年7月16日。該事項有利於提升公司原料血漿供應能力，對長期發展有積極作用。"
-    },
-    {
-      "id": "5028250",
-      "time": "2026-08-06 15:45:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【因DRAM缺貨 臺積電10億美元蘋果處理器無法封裝】8月5日，獨立科技記者Tim Culpan爆料稱，臺積電為了應對蘋果A20 Pro處理器的需求，正在全力拉昇N2（2nm）產能，但是因為DRAM短缺，堆積了價值10億美元的蘋果處理器，需要等待DRAM到貨後才能完成最後的封裝。"
-    },
-    {
-      "id": "5028249",
-      "time": "2026-08-06 15:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中南文化：重大資產重組推進中 審計評估工作未完成】中南文化公告稱，公司擬向江陰電力投資有限公司發行股份及支付現金，購買其持有的江陰蘇龍熱電有限公司57.30%股權並募集配套資金，預計構成重大資產重組和關聯交易。公司股票於2月13日開市起停牌，3月9日開市時起復牌。截至公告披露日，交易涉及的審計、評估等相關工作尚未完成。本次交易尚需履行必要程式，能否實施存在不確定性。"
-    },
-    {
-      "id": "5028248",
-      "time": "2026-08-06 15:44:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【偉創電氣旗下子公司基騰電氣簽約上海振華和黃阿曼OICT碼頭輪胎吊油改電專案】據偉創電氣訊息，近日，偉創電氣旗下子公司常州基騰電氣有限公司（簡稱“基騰電氣”）與上海振華重工（ZPMC）和黃阿曼OICT碼頭成功簽約RTG油改電系統專案。此次專案內容主要涵蓋11臺RTG“油改電”改造及12臺全新RTG電池削峰系統部署及相關配套設施升級，該系統整合的核心部件採用了偉創電氣AC800多傳系列DC/DC、AFE、CVCF模組，既滿足了“零碳”碼頭排放要求，也起到了電網削峰擴容的作用。建成後，將有效降低裝置能耗與運維成本，提升執行穩定性與作業效率，助力碼頭節能減排和整體運營水平提升。"
     }
   ]
 }

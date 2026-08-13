@@ -1,7 +1,95 @@
 {
   "date": "2026-08-13",
-  "count": 1345,
+  "count": 1354,
   "items": [
+    {
+      "id": "mkt:019ffa16-7e29-7aab-901d-9d61c4521a8c",
+      "time": "2026-08-13 15:46:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkish central bank governor said services disinflation continues."
+    },
+    {
+      "id": "5038857",
+      "time": "2026-08-13 15:46:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【鵬鼎控股：AI伺服器PCB上半年營收近10億元 高速光模組PCB突破6億元】鵬鼎控股(002938.SZ)釋出投資者關係活動記錄表公告，公司已將AI伺服器、高速光模組業務確立為第二核心增長曲線，上半年汽車及伺服器用板營收22.67億元，同比增長181.58%，其中AI伺服器PCB營收接近10億元，高速光模組PCB營收突破6億元，板塊毛利率37.42%。公司上半年資本開支達64億元，同比增加34億元，淮安園區、深圳第三園區及泰國園區按既定節奏推進，明後年將進入產能集中釋放階段。目前公司在建產能預計自2027年起陸續投產，已有十餘座廠房在建、十餘座規劃中。公司各產線處於滿產狀態，算力相關產品下半年進入集中拉貨階段，訂單將陸續落地。研發投入核心投向AI伺服器、高速光模組等算力硬體、車載PCB及人形機器人等前沿領域，隨著營收規模擴張，研發費用率預計將穩步回落。泰國園區整體佔地約600畝，多座工廠同步建設，後續隨其餘廠房投產，固定成本攤薄後盈利能力將快速修復。"
+    },
+    {
+      "id": "5038856",
+      "time": "2026-08-13 15:46:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【平陸運河首次進行實船單線雙向過閘試驗】今天（8月13日），平陸運河實船試驗進入第二天。在平陸運河企石樞紐，首次進行了實船單線雙向過閘試驗，重點檢測船舶在船閘內外靠泊和過閘的安全性，這也是平陸運河實船試驗過程中最關鍵的一環。（央視新聞）"
+    },
+    {
+      "id": "5038855",
+      "time": "2026-08-13 15:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其中央銀行行長：服務業通縮排程仍在持續。"
+    },
+    {
+      "id": "mkt:019ffa15-05a1-7aab-901d-927eee46ea93",
+      "time": "2026-08-13 15:45:09",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【UK economy temporarily weathers energy shock but outlook remains challenged】National Institute of Economic and Social Research economist Fergus Jimenez-England said the UK has so far resisted the recent energy-price shock better than many feared. Q2 GDP rose 0.4% following a 0.6% gain in Q1. Services output increased 0.4% in June, offsetting declines in construction and industrial production. Jimenez-England warned the recent growth pace may be hard to sustain; he expects inflation and unemployment to rise in coming months, and said business confidence is fragile and could weaken further if energy-price volatility continues. He said the economy has shown welcome resilience but is not yet out of the woods."
+    },
+    {
+      "id": "mkt:019ffa14-e142-7aab-901d-883ec421262d",
+      "time": "2026-08-13 15:45:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude is down more than 1.0% intraday, trading at $86.37/bbl."
+    },
+    {
+      "id": "5038854",
+      "time": "2026-08-13 15:44:55",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行行長：多項指標顯示，能源價格上漲的影響將在8月份顯現出來。"
+    },
+    {
+      "id": "mkt:019ffa14-556c-7aab-901d-878a955e2643",
+      "time": "2026-08-13 15:44:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey governor said negative decoupling of food inflation is increasingly evident."
+    },
+    {
+      "id": "mkt:019ffa14-11bd-7aab-901d-7895db8cd347",
+      "time": "2026-08-13 15:44:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "【CPCA: Aug 1-9 China passenger car retail 317,000 units, down 22% YoY, MoM -3%】CPCA data: Aug 1-9 China passenger car retail 317,000 units, down 22% YoY and 3% MoM; YTD retail 10.49 mln units, down 20% YoY. Factory wholesale shipments Aug 1-9 were 276,000 units, down 24% YoY and up 2% MoM; YTD wholesale 15.086 mln units, down 5% YoY."
+    },
     {
       "id": "mkt:019ffa13-b401-7aab-901d-73af59d6d038",
       "time": "2026-08-13 15:43:42",
