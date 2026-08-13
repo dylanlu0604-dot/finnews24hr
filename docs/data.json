@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-13 12:07:18",
+  "updated": "2026-08-13 12:11:19",
   "count": 14965,
   "items": [
+    {
+      "id": "te:economy:574898",
+      "time": "2026-08-13 12:10:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Malaysia Q2 Construction Output Growth Accelerates — Malaysia’s construction activity grew 8.8% year-on-year in Q2 2026, quickening from an 8.5% increase in the previous quarter, which marked the sector’s slowest growth since Q4 2023. The solid result was mainly driven by faster civil engineering activity (2.7% vs 1.5% in Q1), which remained the largest contributor to the sector, accounting for 35.0% of total output. Growth in non-residential buildings also strengthened (13.3% vs 12.7%), representing 29.3% of overall activity. Meanwhile, residential building activity accelerated further (8.7% vs 6.1%), contributing 22.8% of total output. In contrast, special trade activities moderated sharply (17.6% vs 24.6%), although they still accounted for 12.9% of total construction activity."
+    },
+    {
+      "id": "5038579",
+      "time": "2026-08-13 12:10:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【希慎興業：2026年上半年基本溢利11.07億港元同比增7.4%】希慎興業公告，截至2026年6月30日止6個月，營業額17.28億港元，同比微降0.1%。經常性基本溢利10.49億港元，同比增長1.7%；基本溢利11.07億港元，同比增長7.4%，主要受惠於出售竹林苑住宅單位的公平值收益帶動。公佈溢利7300萬港元，同比下降2.7%。每股基本盈利7港仙。董事會宣派第一次中期股息每股27港仙，與上年持平。"
+    },
+    {
+      "id": "mkt:019ff950-6675-7aab-9018-526178296ea6",
+      "time": "2026-08-13 12:10:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hong Kong midday: Hang Seng rebounds; compute-hardware names lead gains】Hang Seng rebounded from an opening drop to finish up 0.07% at 25,457.33 at midday after opening more than 150 points lower; Hang Seng Tech gained 0.30% to 4,790.56. Market turnover reached HKD 132.03 bln. Compute-hardware stocks led sector gains, with storage and optical-communications sub-sectors outperforming; nonferrous metals were the weakest group. Innovative-drug names recovered after an early dip. Selected movers: Cambridge Technology (06166.HK) +15.37%, Shengbang (03661.HK) +7.69%, CSPC PHARMA (01093.HK) +5.76%; Tencent Holdings (00700.HK) fell 3.81% after results; Lingbao Gold (03330.HK) -6.78%; Aluminum Corp of China (02600.HK) -5.01%."
+    },
+    {
+      "id": "5038578",
+      "time": "2026-08-13 12:10:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞典法律人工智慧初創公司Legora尋求以超100億美元估值融資。"
+    },
+    {
+      "id": "mkt:019ff94e-7176-7aab-9018-48d30d194bd6",
+      "time": "2026-08-13 12:08:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "00992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo Group (00992.HK) said adjusted profit attributable to equity holders rose 176% YoY in Q1 to $1.075 bln."
+    },
+    {
+      "id": "mkt:019ff94e-6577-7aab-9018-46ffa9c3c066",
+      "time": "2026-08-13 12:08:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Crew mental health deteriorates aboard USS Abraham Lincoln after prolonged deployment】Military Times reports multiple sailors aboard USS Abraham Lincoln have attempted to jump overboard amid what it calls a mental-health crisis that has reached the breaking point. About 5,000 sailors and Marines remain on a deployment that began Nov. 21 supporting U.S. actions in the Middle East against Iran; the deployment, originally due to end in May, has been extended with no return date announced. Families raised concerns about fatigue, safety and mental health at a recent online meeting. The acting Navy secretary told families a team will relieve Lincoln but gave no timeline, citing operational security; Sen. Richard Blumenthal has requested details on shipboard conditions and the extension."
+    },
+    {
+      "id": "5038577",
+      "time": "2026-08-13 12:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026未來科學大獎獲獎者名單公佈：張宏、趙東元、袁新意獲獎】未來科學大獎評審委員會於8月13日公佈2026年獲獎名單。張宏因其在揭示多細胞生物特有的自噬機制及生理功能方面作出的開創性貢獻獲得“生命科學獎”；趙東元因其對介孔材料的開創性貢獻，包括合成控制、機制理解和工業應用，而獲得“物質科學獎”；袁新意因其在算術幾何領域作出的奠基性貢獻，特別是創立了Arakelov幾何中的算術大性理論，並將其開創性地應用於一致Bogomolov猜想和一致Mordell猜想，而獲得“數學與電腦科學獎”。"
+    },
+    {
+      "id": "mkt:019ff94e-0f82-7aab-9018-3c7f7aa2f6cf",
+      "time": "2026-08-13 12:07:50",
+      "tags": [
+        "MKT News",
+        "00992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo Group (00992.HK) said first-quarter group revenue rose 43% YoY to $26.9 bln, a single-quarter record."
+    },
+    {
+      "id": "5038576",
+      "time": "2026-08-13 12:07:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲最高活火山持續噴發 西西里島航班遭嚴重干擾】由於義大利西西里島東岸的“歐洲最高活火山”埃特納火山持續噴發，位於火山附近的卡塔尼亞機場12日兩次宣佈延長關閉狀態，最新時限至當地時間14日2時。自7日以來，埃特納火山噴發出大量火山灰和熾熱的碎岩石。義大利國家地球物理學與火山學研究所說，兩股濃密的熔岩流分別從海拔2360米和2750米的兩個位置湧出。此後，又有兩股新的熔岩流形成。火山噴發嚴重干擾了西西里島的航班執行。卡塔尼亞機場12日先是宣佈將暫停航班起降延長至13日16時，當天深夜又將停航時限延長至14日2時。此次斷航正值度假高峰期，該機場自8日以來已有數百航班取消，另有大量航班延誤或轉至西西里島其他機場起降，數千旅客行程受到影響。埃特納火山噴發還波及馬耳他，當地因出現火山灰雲而取消部分航班。（新華社）"
+    },
     {
       "id": "5038575",
       "time": "2026-08-13 12:05:44",
@@ -136350,80 +136432,6 @@
         "國際"
       ],
       "text": "【機構：美國鎢廢料出口禁令將使其他地區買家的供應更加緊俏】Euroz Hartleys表示，美國對鎢廢料的出口禁令可能會使美國以外買家對這種關鍵礦物的供應比現在更加緊俏。該經紀商表示，這項出口禁令將於本月晚些時候生效，應會使美國國內有更多的回收鎢可用。Euroz認為，美國的禁令對在澳交所上市的鎢業股應該是一個利好。該經紀商表示看好EQ Resources、Apollo Minerals和Tungsten Mining。"
-    },
-    {
-      "id": "5027979",
-      "time": "2026-08-06 12:11:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧本海默將 優步  目標股價從100美元下調至90美元。"
-    },
-    {
-      "id": "5027978",
-      "time": "2026-08-06 12:10:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "據英國金融時報報道，遭遇投資者反對後Ares縮減私募信貸基金規模。"
-    },
-    {
-      "id": "5027977",
-      "time": "2026-08-06 12:09:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美的集團、光峰科技等在寧波新設創投合夥企業】企查查APP顯示，近日，寧波美和南旅創業投資合夥企業（有限合夥）成立，經營範圍包含：創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由美的集團旗下美的創業投資管理有限公司、光峰科技等共同出資。"
-    },
-    {
-      "id": "5027976",
-      "time": "2026-08-06 12:09:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "越南石油天然氣集團：招標尋購一船現貨液化天然氣，規模為50萬-60萬百萬英熱單位，交付時段為8月15日至20日。"
-    },
-    {
-      "id": "5027975",
-      "time": "2026-08-06 12:09:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中廣核與山東省政府簽署戰略合作協議】據中國廣核集團訊息，8月5日，中國廣核集團有限公司（簡稱“中廣核”）與山東省人民政府在濟南簽署戰略合作協議。根據協議，雙方將依法依規開展多層次、多領域和多形式的合作交流，重點聚焦核能開發利用、深遠海風電、新能源產業和核技術應用等前沿創新領域，加大合作開發力度，助力山東省建設綠色低碳高質量發展先行區。"
-    },
-    {
-      "id": "5027974",
-      "time": "2026-08-06 12:09:10",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國對原產於中國的丙烯酸丁酯作出反傾銷終裁】7月23日，韓國貿易委員會發布第2026-13號公告（案件調查號23-2025-8），對原產於中國的丙烯酸丁酯作出反傾銷肯定性終裁，建議韓國企劃財政部對涉案產品徵收為期五年的反傾銷稅，具體如下：泰興市昇科化工有限公司及其關聯企業稅率為11.42%、上海華誼新材料有限公司及其關聯企業稅率為8.32%、平湖石化有限責任公司及其關聯企業稅率為19.17%、中國其他生產商/出口商稅率為18.69%。涉案產品的韓國稅號為2916.12.3000。"
-    },
-    {
-      "id": "5027973",
-      "time": "2026-08-06 12:08:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國網際網路投資基金、浦東創投集團等成立私募投資基金】企查查APP顯示，近日，上海浦建立源領集私募投資基金合夥企業（有限合夥）成立，出資額約20億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由建信金融資產投資有限公司、上海浦東創新投資發展（集團）有限公司、中國網際網路投資基金（有限合夥）等共同持股。"
-    },
-    {
-      "id": "5027972",
-      "time": "2026-08-06 12:07:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安森美：預計2026年AI資料中心業務營收將增長兩倍以上】安森美2026年第二季度營收為16.04億美元，同比增長約9%，淨利潤約2.27億美元，環比扭虧。據公司總裁兼執行長Hassane El-Khoury介紹，AI資料中心是公司增長最快的業務領域，預計該業務2026年營收將實現兩倍以上增長。報告期內，公司獲雲基礎設施電源供應商長城電源戰略性AI資料中心平臺專案；面向AI資料中心、機器人及工業基礎設施等應用，公司推出了氮化鎵（GaN）電源產品組合，覆蓋40V至650V電壓範圍。"
-    },
-    {
-      "id": "5027971",
-      "time": "2026-08-06 12:07:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安睡褲廣告吐槽女生月經氣味大，品牌方致歉：下架爭議短影片】8月6日，“babysheep官方旗艦店”賬號針對網傳“安睡褲廣告吐槽女生月經氣味大，客服回應稱‘AI做的’”釋出致歉宣告：8月1日，我司品牌babysheep透過自媒體釋出的安睡褲短影片廣告，引發了消費者廣泛質疑與批評。我司在第一時間責令下架該影片並展開調查。經核實，該廣告影片由運營部在8月1日推出市場，影片策劃初衷是推廣我司安睡褲，強調其清涼超薄的賣點推薦給女性使用者，但因創意把關不嚴，廣告內容存在表達缺陷及稽核疏漏；8月2日客服在回覆消費者詢問過程中，因不瞭解事情原委，造成回應不當。我司進行了深刻反省，不管是運營部的表達錯誤還是客服部的回覆不當，都是公司管理疏忽與培訓缺失，我司絕不迴避責任，接受所有批評。"
     }
   ]
 }
