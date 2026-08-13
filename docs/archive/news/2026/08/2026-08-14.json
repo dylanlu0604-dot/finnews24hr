@@ -1,7 +1,84 @@
 {
   "date": "2026-08-14",
-  "count": 466,
+  "count": 474,
   "items": [
+    {
+      "id": "te:markets:575204",
+      "time": "2026-08-14 07:29:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Decline Amid Hormuz Stalemate — Brent traded near $87 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision."
+    },
+    {
+      "id": "5040144",
+      "time": "2026-08-14 07:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內兩大晶片巨頭二季度業績超預期】8月13日晚間，國內兩大晶片巨頭中芯國際和華虹宏力釋出今年第二季度未經稽核業績，雙雙超預期。據披露，中芯國際第二季度銷售收入為30億美元，季度環比增長20%，同比增長36.1%；第二季度毛利率為25.3%，第一季度毛利率為20.1%，2025年第二季度毛利率為20.4%。對比來看，在今年一季報中，中芯國際對第二季度給出的收入預期為環比增長14%到16%，毛利率預期為20%—22%。實際公佈的業績超此前預期。當晚，華虹宏力公佈的財報顯示，公司第二季度毛利率16.5%，同比上升5.6個百分點，環比上升3.5個百分點；銷售收入達7.175億美元，同比增長26.8%，環比增長8.6%；母公司擁有人應占利潤3860萬美元，同比上升385.9%，環比上升84.6%。對比來看，在今年一季報中，華虹宏力對第二季度給出的銷售收入預期約在6.9億美元至7億美元之間，毛利率預期約為14%—16%。實際公佈的業績也超過了此前預期。"
+    },
+    {
+      "id": "5040143",
+      "time": "2026-08-14 07:28:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【庫克亮相蘋果休斯頓工廠】週三，蘋果CEO蒂姆・庫克與美國商務部長霍華德・盧特尼克等政府官員共同出席得克薩斯州休斯頓全新制造工廠的揭牌儀式。蘋果表示，今年晚些時候，這座工廠將投產Mac Mini臺式電腦；廠區部分割槽域已經在組裝蘋果自用的AI伺服器。本次公開亮相正值庫克CEO任期的最後幾周。9月1日，庫克將轉任董事會執行主席，蘋果資深硬體高管約翰・特努斯接任CEO一職。（第一財經）"
+    },
+    {
+      "id": "mkt:019ffd74-b001-7aab-902f-8b60af5fbdaf",
+      "time": "2026-08-14 07:28:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV reported a drone was shot down over Erbil, the capital of Iraq's Kurdistan region."
+    },
+    {
+      "id": "te:markets:575203",
+      "time": "2026-08-14 07:28:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline Amid Hormuz Stalemate — Crude oil traded near $81 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision."
+    },
+    {
+      "id": "5040142",
+      "time": "2026-08-14 07:27:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞風險管理部門：哥倫比亞地震死亡人數升至281人。"
+    },
+    {
+      "id": "mkt:019ffd73-6438-7aab-902f-8116f3c8b7c6",
+      "time": "2026-08-14 07:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports explosions in Erbil, Iraq."
+    },
+    {
+      "id": "5040141",
+      "time": "2026-08-14 07:26:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【雙節臨近 長線遊預訂熱度攀升】中秋與國慶雙節臨近，今年“請3休13”的超長拼假方案，讓不少遊客選擇將年假與法定假期拼接，形成了近半個月的充裕出行視窗。受此拉動，假期出遊的規劃週期明顯拉長，暑期出行與“黃金週”的預訂實現了無縫銜接。 眾信旅遊資料顯示，截至8月12日，眾信旅遊“黃金週”期間出境遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%，反映出消費者長假出行意願高漲，提前規劃出遊的意識持續增強。 出境遊方向中，歐洲長線遊熱度攀升最為明顯。眾信旅遊資料顯示，截至8月12日，歐洲遊預訂量佔比接近整體出遊總量的一半，赴歐洲出遊人數同比增長達140%。（證券日報）"
+    },
     {
       "id": "5040140",
       "time": "2026-08-14 07:25:40",

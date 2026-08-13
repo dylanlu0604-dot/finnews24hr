@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-14 07:26:35",
-  "count": 15458,
+  "updated": "2026-08-14 07:30:29",
+  "count": 15453,
   "items": [
+    {
+      "id": "te:markets:575204",
+      "time": "2026-08-14 07:29:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Holds Decline Amid Hormuz Stalemate — Brent traded near $87 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision."
+    },
+    {
+      "id": "5040144",
+      "time": "2026-08-14 07:29:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內兩大晶片巨頭二季度業績超預期】8月13日晚間，國內兩大晶片巨頭中芯國際和華虹宏力釋出今年第二季度未經稽核業績，雙雙超預期。據披露，中芯國際第二季度銷售收入為30億美元，季度環比增長20%，同比增長36.1%；第二季度毛利率為25.3%，第一季度毛利率為20.1%，2025年第二季度毛利率為20.4%。對比來看，在今年一季報中，中芯國際對第二季度給出的收入預期為環比增長14%到16%，毛利率預期為20%—22%。實際公佈的業績超此前預期。當晚，華虹宏力公佈的財報顯示，公司第二季度毛利率16.5%，同比上升5.6個百分點，環比上升3.5個百分點；銷售收入達7.175億美元，同比增長26.8%，環比增長8.6%；母公司擁有人應占利潤3860萬美元，同比上升385.9%，環比上升84.6%。對比來看，在今年一季報中，華虹宏力對第二季度給出的銷售收入預期約在6.9億美元至7億美元之間，毛利率預期約為14%—16%。實際公佈的業績也超過了此前預期。"
+    },
+    {
+      "id": "5040143",
+      "time": "2026-08-14 07:28:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【庫克亮相蘋果休斯頓工廠】週三，蘋果CEO蒂姆・庫克與美國商務部長霍華德・盧特尼克等政府官員共同出席得克薩斯州休斯頓全新制造工廠的揭牌儀式。蘋果表示，今年晚些時候，這座工廠將投產Mac Mini臺式電腦；廠區部分割槽域已經在組裝蘋果自用的AI伺服器。本次公開亮相正值庫克CEO任期的最後幾周。9月1日，庫克將轉任董事會執行主席，蘋果資深硬體高管約翰・特努斯接任CEO一職。（第一財經）"
+    },
+    {
+      "id": "mkt:019ffd74-b001-7aab-902f-8b60af5fbdaf",
+      "time": "2026-08-14 07:28:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Al Arabiya TV reported a drone was shot down over Erbil, the capital of Iraq's Kurdistan region."
+    },
+    {
+      "id": "te:markets:575203",
+      "time": "2026-08-14 07:28:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Holds Decline Amid Hormuz Stalemate — Crude oil traded near $81 per barrel on Friday after declining in the previous session, as investors adopt a wait-and-see mode while monitoring diplomatic efforts to reopen the Strait of Hormuz. Despite the ongoing impasse, crude continues to flow out of the Persian Gulf, with some tankers sailing with their transponders switched off, although vessels navigating Hormuz remain exposed to persistent threats. The US also claims that as much as 9 million barrels of oil per day is currently transiting the waterway, while the capacity of US forces to escort tankers continues to expand. On the demand side, the IEA cut its global oil demand outlook this week, warning that prolonged conflict and elevated prices are increasingly weighing on consumption. OPEC also lowered its 2026 global oil demand growth forecast to 580,000 barrels per day, marking its fourth consecutive downward revision."
+    },
+    {
+      "id": "5040142",
+      "time": "2026-08-14 07:27:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞風險管理部門：哥倫比亞地震死亡人數升至281人。"
+    },
+    {
+      "id": "mkt:019ffd73-6438-7aab-902f-8116f3c8b7c6",
+      "time": "2026-08-14 07:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya reports explosions in Erbil, Iraq."
+    },
+    {
+      "id": "5040141",
+      "time": "2026-08-14 07:26:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【雙節臨近 長線遊預訂熱度攀升】中秋與國慶雙節臨近，今年“請3休13”的超長拼假方案，讓不少遊客選擇將年假與法定假期拼接，形成了近半個月的充裕出行視窗。受此拉動，假期出遊的規劃週期明顯拉長，暑期出行與“黃金週”的預訂實現了無縫銜接。 眾信旅遊資料顯示，截至8月12日，眾信旅遊“黃金週”期間出境遊產品收客量達75%，收客節奏顯著快於去年同期，整體出遊報名人數同比增長70%，反映出消費者長假出行意願高漲，提前規劃出遊的意識持續增強。 出境遊方向中，歐洲長線遊熱度攀升最為明顯。眾信旅遊資料顯示，截至8月12日，歐洲遊預訂量佔比接近整體出遊總量的一半，赴歐洲出遊人數同比增長達140%。（證券日報）"
+    },
     {
       "id": "5040140",
       "time": "2026-08-14 07:25:40",
@@ -141362,134 +141439,6 @@
         "國際"
       ],
       "text": "【槓桿ETF風暴一個月 韓國股市距離風險出清還有“最後一公里”】經歷7月的“過山車”行情後，韓國股市本月迎來多空激烈交鋒。在連續兩日反彈後，韓國KOSPI指數8月6日收跌4.58%，報6296.38點，SK海力士股價重挫10%。盤中韓國交易所啟動KOSPI指數“側車（SideCar）”機制，暫停程式化賣盤5分鐘。6月19日指數見頂後，KOSPI指數經歷了一輪近40%的深度回撤。這場由個股槓桿產品引發的波動風暴，迫使韓國監管層在一個月內先後出臺多輪措施。機構分析認為，短期來看，急跌中最危險的槓桿結構或已基本出清，短期降溫效果初步達成，外資也開始階段性迴流。不過，散戶單日爆倉率仍處於高位、波動率指數居高不下，尾部風險還未徹底出清，市場真正企穩尚需時日。（上海證券報）"
-    },
-    {
-      "id": "5029662",
-      "time": "2026-08-07 07:30:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "新墨西哥州法院裁定Meta產品加劇該州青少年心理健康危機。"
-    },
-    {
-      "id": "mkt:019fd969-c187-7aab-8faa-6dfd105b6b25",
-      "time": "2026-08-07 07:30:14",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan household spending MoM -6.4% in June vs -3.1% expected; May +3.7%."
-    },
-    {
-      "id": "mkt:019fd969-b95d-7aab-8faa-632e73dc680a",
-      "time": "2026-08-07 07:30:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan June total household spending YoY -3.3% (expected +1.0%, prior -0.4%)."
-    },
-    {
-      "id": "mkt:019fd969-a5d7-7aab-8faa-5b0c370eeb51",
-      "time": "2026-08-07 07:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Expenditures for Two-or-more-person Households (MoM) (Jun) | actual -6.4% | consensus -3.1% | previous 3.7%"
-    },
-    {
-      "id": "mkt:019fd969-9757-7aab-8faa-52488a5f895f",
-      "time": "2026-08-07 07:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Expenditures for Two-or-more-person Households (YoY) (Jun) | actual -3.3% | consensus 1.00% | previous -0.40%"
-    },
-    {
-      "id": "5029661",
-      "time": "2026-08-07 07:29:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【多家公司更新回購進度，8月份累計成交14.7億元】同花順資料顯示，8月以來，已有62家A股公司實施股份回購，累計成交金額約14.7億元。從上市公司釋出的公告來看，回購的股份後續去向大多包括登出、股權激勵和員工持股計劃。（證券日報）"
-    },
-    {
-      "id": "5029660",
-      "time": "2026-08-07 07:29:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在白宮活動上發表講話。"
-    },
-    {
-      "id": "5029659",
-      "time": "2026-08-07 07:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談霍爾木茲海峽：進展順利。"
-    },
-    {
-      "id": "5029658",
-      "time": "2026-08-07 07:28:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【私募7月調研“鍾情”科技：國產算力鏈成新共識】科技板塊的階段性調整，並未降低機構的調研熱情。電子、通訊、計算機等科技板塊依舊是私募機構重點關注方向。記者採訪發現，私募對調整後的科技板塊佈局熱情仍在，正在產業鏈內部“摸排”新的投資機會。其中，國產算力鏈憑藉產業趨勢、自主可控及長期成長空間等邏輯，有望成為下一階段私募的重點關注方向。（上海證券報）"
-    },
-    {
-      "id": "5029657",
-      "time": "2026-08-07 07:28:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "新墨西哥州陪審團裁定Meta支付3.75億美元罰金，此前法院已判令Meta支付5.67億美元設立基金。"
-    },
-    {
-      "id": "mkt:019fd968-798f-7aab-8faa-4d888eab46b2",
-      "time": "2026-08-07 07:28:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "【Geopolitical risk resurfaces, weighs on Asian shares; oil jump revives inf concerns】Asian shares opened slightly lower Friday as renewed geopolitical tensions pulled U.S. stocks and Treasuries down. A jump in oil ahead of Friday’s U.S. jobs report reignited inf concerns. Markets are focused on the payrolls print for fresh clues on Fed policy; stronger-than-expected employment could reinforce the case for rates remaining higher for longer, while any further Middle East escalation could lift energy prices and amplify volatility. UBS analyst Ulrike Hoffmann said short-term risks persist, particularly if U.S. data stay firm, oil continues to stoke inf worries, or markets keep pricing a more hawkish Fed path. Interactive Brokers senior economist José Torres said Wall Street reversed after the recent rally amid lingering uncertainty over the Strait of Hormuz."
-    },
-    {
-      "id": "5029656",
-      "time": "2026-08-07 07:28:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【可轉債一級市場正在升溫 今年以來累計發行51只同比增長104%】可轉債一級市場正在升溫。截至8月6日，今年以來累計發行51只可轉債，規模合計607億元，較上年同期分別增長104%和51%。與發行端回暖同時發生的，是存量可轉債在加速退出。資料顯示，年內已有123只可轉債離場，市場存續規模較年初減少560億元。業內人士認為，再融資政策最佳化開啟了可轉債發行通道，科技企業資本開支增加、機構配置需求旺盛，則為新券供需兩端提供了支撐。可轉債市場由此進入發行提速、結構調整的新階段。（上海證券報）"
-    },
-    {
-      "id": "5029655",
-      "time": "2026-08-07 07:26:36",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【全球流動性收緊節奏暫緩 券商研判下半年或出現邊際改善】國際油價大漲引發通脹資料走強，使得市場對全球流動性收緊預期不斷升溫，但隨著國際油價回落，美聯儲、日本央行、歐洲央行、英國央行等全球主要經濟體央行7月均宣佈按兵不動，一定程度上使得市場的憂慮有所降溫。下半年全球流動性環境還將出現怎樣的變化？多位業內人士對記者表示，若地緣局勢緩和帶動油價下行、通脹壓力緩解，那麼市場此前過度定價的加息預期可能會有修正，流動性收緊壓力有望得到階段性緩解。對投資者而言，科技與高階製造領域、資源品板塊、低估值高股息紅利資產等方向機遇值得關注。AI產業鏈方興未艾、高景氣度持續。黃金價格也有望回到上行通道。（中國證券報）"
     }
   ]
 }
