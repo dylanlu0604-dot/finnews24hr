@@ -1,7 +1,659 @@
 {
-  "updated": "2026-08-13 20:33:12",
-  "count": 15113,
+  "updated": "2026-08-13 20:45:01",
+  "count": 15149,
   "items": [
+    {
+      "id": "5039543",
+      "time": "2026-08-13 20:43:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase在阿布扎比設立代幣化中心，已獲金融服務監管局（FSRA）頒發金融服務許可。"
+    },
+    {
+      "id": "te:markets:575101",
+      "time": "2026-08-13 20:43:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Higher on Earnings and Lower Oil — Futures tracking Canadian equities edged higher amid a fresh batch of corporate earnings and lower oil prices. Brookfield reported higher second-quarter distributable earnings per share. CCL Industries posted 9.1% sales growth and 10.7% adjusted EPS growth. Pan American Silver reported 38% revenue growth and strong free cash flow, although EPS of $0.73 came in below expectations. Hydro One reported higher profit and EPS of C$0.62, beating forecasts. Metro posted 4.1% sales growth and 8.8% adjusted EPS growth, although same-store food sales remained modest and fiscal third-quarter adjusted earnings were weaker. Meanwhile, oil prices fell on weakening demand prospects. Easing inflationary pressures, following tame US PPI data, supported financials and other credit-sensitive shares, while lower oil and gold prices pressured commodity-related stocks."
+    },
+    {
+      "id": "mkt:019ffb26-1ef7-7aab-9025-8a005f12722e",
+      "time": "2026-08-13 20:43:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack said rate hikes may cause pain, but officials cannot allow growth and investment to accelerate to the point of economic overheating."
+    },
+    {
+      "id": "5039542",
+      "time": "2026-08-13 20:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：通脹具有廣泛性，並非僅侷限於特定領域。"
+    },
+    {
+      "id": "mkt:019ffb25-2de0-7aab-9025-85e3c50580ad",
+      "time": "2026-08-13 20:42:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Hammack said managing inf effectively requires monitoring a broad set of data."
+    },
+    {
+      "id": "mkt:019ffb25-273a-7aab-9025-7d16cc129a52",
+      "time": "2026-08-13 20:42:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Hammack said inflation is broad-based and not confined to a few sectors."
+    },
+    {
+      "id": "5039541",
+      "time": "2026-08-13 20:42:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：透過與企業交流，我們已經瞭解到這一點。"
+    },
+    {
+      "id": "mkt:019ffb24-f516-7aab-9025-70a62ca5d70e",
+      "time": "2026-08-13 20:42:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BARKIN: business investment appears \"unmoved\" by interest rates, costs or uncertainty."
+    },
+    {
+      "id": "mkt:019ffb24-f00e-7aab-9025-6eb05e6b9086",
+      "time": "2026-08-13 20:42:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed's Barkin said there are reasons to believe inflationary pressures have become entrenched and that achieving the Fed's goals may require weaker demand or further rate hikes."
+    },
+    {
+      "id": "mkt:019ffb24-ae40-7aab-9025-603e75d03b47",
+      "time": "2026-08-13 20:41:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "BARKIN: Firms have concluded that, despite uncertainty, they can no longer delay investment."
+    },
+    {
+      "id": "mkt:019ffb24-acee-7aab-9025-5d65010a0c46",
+      "time": "2026-08-13 20:41:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Federal Reserve's Barkin said employment continues to support household consumption, and homeowners or stockholders have enjoyed \"significant\" wealth gains."
+    },
+    {
+      "id": "5039540",
+      "time": "2026-08-13 20:41:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：要完成抗通脹這項工作，必須考察一系列資料。"
+    },
+    {
+      "id": "mkt:019ffb24-7b95-7aab-9025-569e548283cb",
+      "time": "2026-08-13 20:41:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve's Barkin said artificial intelligence enables firms to attempt headcount reductions, but strong profits have kept pressure for layoffs limited."
+    },
+    {
+      "id": "mkt:019ffb24-678a-7aab-9025-4c30c354fad2",
+      "time": "2026-08-13 20:41:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Barkin said there is ample reason to believe inf will ease, given moderate compensation pressures and that tariffs, oil and other shocks may dissipate."
+    },
+    {
+      "id": "mkt:019ffb24-37da-7aab-9025-479a7e4a0452",
+      "time": "2026-08-13 20:41:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Barkin did not explicitly say whether he believes rates need to rise, but he noted many Fed officials judge current policy is already restrictive enough to curb inf."
+    },
+    {
+      "id": "5039539",
+      "time": "2026-08-13 20:41:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "發言人表示，鹿特丹港發生的事故未對殼牌的運營造成影響。"
+    },
+    {
+      "id": "5039538",
+      "time": "2026-08-13 20:41:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲巴爾金：通脹出現回落訊號，應當維持利率不變】里士滿聯儲行長湯姆・巴爾金表示，鑑於通脹出現回落訊號，應當維持利率不變，但也承認部分物價壓力存在固化風險，最終可能迫使政策制定者收緊貨幣政策。“當前高通脹很大一部分來自衝擊因素，這類衝擊終將消退。” 巴爾金週四在南卡羅來納州格林維爾發表講話，提及關稅以及伊朗戰爭帶來的石油衝擊。但他補充道，如果供應鏈困境與人工智慧投資熱潮延續，可能催生更持久的物價壓力。“通脹居高不下為時已久，企業與消費者的物價預期存在上行風險。” 他稱，“一旦出現這種情況，就需要政策出手，推動通脹完全回落至目標。”巴爾金並未透露 9 月議息會議上自己會傾向何種政策選項。美聯儲上月第五次維持利率不變。不過，越來越多官員主張，要實現 2% 通脹目標，需要實施更緊縮的貨幣政策。"
+    },
+    {
+      "id": "mkt:019ffb23-a217-7aab-9025-38c27c237d46",
+      "time": "2026-08-13 20:40:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Fed's Barkin said some aspects of the US economy remain a mystery because consumers and overall economic activity have not been affected by the shock."
+    },
+    {
+      "id": "5039537",
+      "time": "2026-08-13 20:40:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾金：當前通脹很大部分來自終將消退的各類衝擊，人工智慧投資似乎不受利率水平影響。"
+    },
+    {
+      "id": "mkt:019ffb23-7b01-7aab-9025-360bc524e76e",
+      "time": "2026-08-13 20:40:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Barkin said whether the Fed needs to raise rates to restore the 2% inf target, or whether inf has already begun moving downward, remains unresolved."
+    },
+    {
+      "id": "te:economy:575097",
+      "time": "2026-08-13 20:40:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 1"
+      ],
+      "text": "US Initial Jobless Claims Rise More than Expected — The number of people claiming unemployment benefits in the US rose by 9,000 to 209,000 on the first week of August, above market expectations of 202,000. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, declined by 22,000 to 1,777,000 in the earlier week. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, fell by 49 to 401."
+    },
+    {
+      "id": "5039536",
+      "time": "2026-08-13 20:40:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴爾金：美國經濟在消費拉動下依舊具備韌性。"
+    },
+    {
+      "id": "mkt:019ffb23-1f39-7aab-9025-2eb8ddb65414",
+      "time": "2026-08-13 20:40:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack said the Fed must be accountable for an inf reading; this is very important."
+    },
+    {
+      "id": "mkt:019ffb23-1f37-7aab-9025-243f76a4be18",
+      "time": "2026-08-13 20:40:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Hammack said the unemployment rate is the best gauge of the labor market and is currently relatively stable."
+    },
+    {
+      "id": "5039535",
+      "time": "2026-08-13 20:40:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈馬克：美聯儲必須就單一通脹指標接受問責，這點至關重要。"
+    },
+    {
+      "id": "5039534",
+      "time": "2026-08-13 20:39:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：失業率是勞動力市場的最佳指標，目前該指標保持穩定。"
+    },
+    {
+      "id": "5039533",
+      "time": "2026-08-13 20:39:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠控傳動：首次公開發行股票並在創業板上市發行結果公佈】綠控傳動公告稱，本次發行價格為8.50元/股，發行數量6,834.1235萬股，全部為公開發行新股。最終戰略配售數量2,050.2370萬股，佔比30.00%。回撥後，網下最終發行2,870.3365萬股，網上最終發行1,913.5500萬股，網上發行中籤率0.0151775616%。網上投資者放棄認購39,607股，由保薦人包銷，包銷金額336,659.50元。本次發行費用總額6,569.54萬元。"
+    },
+    {
+      "id": "mkt:019ffb22-513a-7aab-9025-1ba8d358e6dc",
+      "time": "2026-08-13 20:39:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve official Hammack said growth that is too rapid could place additional upward pressure on prices."
+    },
+    {
+      "id": "mkt:019ffb21-f990-7aab-9025-10af213ac926",
+      "time": "2026-08-13 20:38:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Hammack said inflation has risen amid recent shocks."
+    },
+    {
+      "id": "mkt:019ffb21-eadc-7aab-9025-0dc1c4534008",
+      "time": "2026-08-13 20:38:51",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Hammack said policy is not restrictive and firms are optimistic about growth and credit."
+    },
+    {
+      "id": "5039532",
+      "time": "2026-08-13 20:38:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特內閣改組，資本市場管理局主席獲留任。"
+    },
+    {
+      "id": "te:economy:575094",
+      "time": "2026-08-13 20:38:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Producer Prices MoM",
+        "Importance 2"
+      ],
+      "text": "US Core Producer Prices Rise Less than Expected — Core producer prices in the United States, which exclude food and energy goods, rose 0.2% from the previous month in July of 2026, slowing from the upwardly revised 0.4% increase in the previous month. This contrasted with market expectations of a 0.3% increase, reflecting a soft initial transmission of the rebound in energy prices to underlying sections of wholesale trade. From the previous year, core producer inflation rose by 4.2%."
+    },
+    {
+      "id": "5039531",
+      "time": "2026-08-13 20:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：增長過快可能會給物價帶來額外壓力。"
+    },
+    {
+      "id": "5039530",
+      "time": "2026-08-13 20:38:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：政策並不具有限制性，企業對增長和借貸抱有信心。"
+    },
+    {
+      "id": "5039529",
+      "time": "2026-08-13 20:37:58",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率在生產者物價指數（PPI）資料公佈後延續跌勢，收益率曲線全線走低，當前下跌2.4個基點，報4.666%。"
+    },
+    {
+      "id": "5039528",
+      "time": "2026-08-13 20:37:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈馬克：近期多重衝擊下通脹已出現上行。"
+    },
+    {
+      "id": "em:qqyh_mlc:202608133840698626",
+      "time": "2026-08-13 20:37:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【克利夫蘭聯儲主席哈馬克重申現在必須加息】克利夫蘭聯儲主席哈馬克重申現在必須加息。並表示，失業率是衡量就業市場的最佳指標，目前較為穩定。"
+    },
+    {
+      "id": "mkt:019ffb20-5b0a-7aab-9025-0013f4a24b50",
+      "time": "2026-08-13 20:37:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Hammack says labor market is stable."
+    },
+    {
+      "id": "5039527",
+      "time": "2026-08-13 20:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃旭能源首席財務官：我們目前預計，2026財年每股股息派發的起點將位於2丹麥克朗至5丹麥克朗區間的下端。"
+    },
+    {
+      "id": "5039526",
+      "time": "2026-08-13 20:36:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基：第二階段股票回購規模達31.5億丹麥克朗（合5億美元）。"
+    },
+    {
+      "id": "5039525",
+      "time": "2026-08-13 20:36:51",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲哈馬克：再次強調眼下需要上調利率。"
+    },
+    {
+      "id": "mkt:019ffb20-05f2-7aab-9024-fccb283c3658",
+      "time": "2026-08-13 20:36:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Hamak reiterated that rate hikes are necessary now."
+    },
+    {
+      "id": "5039524",
+      "time": "2026-08-13 20:36:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈馬克談及美聯儲政策：“我的觀點是我們需要立即行動”。"
+    },
+    {
+      "id": "5039523",
+      "time": "2026-08-13 20:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東鴻圖：擬8億元閒置募資繼續進行現金管理】廣東鴻圖公告稱，公司第九屆董事會第九次會議同意在不超8億元即期餘額內繼續辦理暫時閒置募集資金現金管理業務，期限不超12個月。截至2026年6月30日，累計使用募資14.14億元，未到期現金管理餘額8.45億元。前次決議即將到期，此次額度已考慮部分募資永久補流等安排。業務型別含結構性存款等本金保障型產品，董事會授權董事長決策，公司將按規披露進展。"
+    },
+    {
+      "id": "5039522",
+      "time": "2026-08-13 20:36:16",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國7月PPI速評】美國7月PPI同比增長4.7%，增幅低於預期值4.9%和前值5.5%；美國7月核心PPI同比增長4.2%，增幅低於預期值4.1%和前值 4.7%。資料顯示，受能源和食品成本進一步下降的推動，美國7月PPI同比增速放緩幅度超過預期。"
+    },
+    {
+      "id": "5039521",
+      "time": "2026-08-13 20:35:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "西班牙聯合技術公司（Técnicas Reunidas）接受意向書，將獲得一份價值16.5億美元的中東陸上天然氣設施建設合同。"
+    },
+    {
+      "id": "5039520",
+      "time": "2026-08-13 20:35:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿波羅全球管理仍預計本財年手續費相關收益增長20%以上。"
+    },
+    {
+      "id": "mkt:019ffb1e-de63-7aab-9024-f356c783d4ac",
+      "time": "2026-08-13 20:35:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【US July PPI: energy prices down 3.1% MoM; gasoline plunges 5.7%】US Bureau of Labor Statistics: July final-demand PPI unchanged MoM (0.0%) vs 0.2% est; June revised to -0.1%. YoY +4.7%, smallest since March and below 4.9% est. Core PPI MoM +0.2% (in line); YoY +4.2%. Final-demand goods MoM -0.7%, led by energy -3.1%. Gasoline -5.7% MoM, diesel -6.7%, jet fuel -15.2%. Final-demand services MoM +0.2%; portfolio management services jumped 6.5% MoM."
+    },
+    {
+      "id": "mkt:019ffb1e-3e3e-7aab-9024-eff3bb97e6ad",
+      "time": "2026-08-13 20:34:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【US July PPI: intermediate-demand inf shows transmission; processed goods YoY +9.9%】US July PPI subcomponents show persistent upstream inf pressures in intermediate demand, though MoM cooling. Processed-goods intermediate demand -0.6% MoM, +9.9% YoY; processed energy -3.1% MoM; processed food & feed -0.5% MoM. Unprocessed-goods intermediate demand -1.8% MoM, +7.1% YoY, largely due to a 11.9% MoM plunge in crude oil. Intermediate services demand +0.5% MoM, +5.1% YoY. By production stage, stage-4 intermediate demand +0.6% MoM (prior 0.3%); stage-1 and stage-3 each -0.1% MoM. Elevated YoY gains in intermediate demand indicate upstream cost pressure remains high and may gradually transmit to consumer prices."
+    },
+    {
+      "id": "5039519",
+      "time": "2026-08-13 20:34:20",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國短期利率期貨在經濟資料公佈後小幅上漲。美國國債兩年期收益率在PPI資料公佈後小幅延續跌勢，最新下跌2.3個基點，報4.176%。"
+    },
+    {
+      "id": "5039518",
+      "time": "2026-08-13 20:34:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙烏地阿拉伯改組內閣。"
+    },
+    {
+      "id": "mkt:019ffb1d-8295-7aab-9024-e37d0a28d0b4",
+      "time": "2026-08-13 20:34:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US two-year Treasury yield fell 2.3 bps to 4.176%."
+    },
+    {
+      "id": "5039517",
+      "time": "2026-08-13 20:33:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊下跌0.04%，報1.3490美元；歐元上漲0.02%，報1.1527美元。"
+    },
+    {
+      "id": "5039516",
+      "time": "2026-08-13 20:33:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元在資料公佈後震盪盤整，收回早前跌幅，美元兌日元最新下跌0.03%，報159.36。"
+    },
+    {
+      "id": "mkt:019ffb1c-e489-7aab-9024-d948222f9270",
+      "time": "2026-08-13 20:33:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 10-year Treasury yield fell 1.4 bps to 4.676%."
+    },
+    {
+      "id": "5039515",
+      "time": "2026-08-13 20:33:01",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國 PPI 資料出爐後現貨黃金變動有限，最新下跌 0.5%，報每盎司 4382.22 美元。"
+    },
+    {
+      "id": "5039514",
+      "time": "2026-08-13 20:32:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在生產者物價資料公佈後小幅縮減跌幅；10年期國債收益率最新下跌1.4個基點，報4.676%。"
+    },
+    {
+      "id": "mkt:019ffb1c-8c4a-7aab-9024-d148d1b45212",
+      "time": "2026-08-13 20:32:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasuries held gains."
+    },
+    {
+      "id": "te:economy:575092",
+      "time": "2026-08-13 20:32:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US Producer Prices Flat in July — US producer prices were unchanged in July from June 2026, following a revised 0.1% decrease in the previous period and below forecasts of a 0.2% gain. A 0.2% rise in services and a 2.2% increase in construction prices offset by a 0.7% decline in goods. Services prices rose at a slower pace than in June (0.2% vs 0.5%), while portfolio management costs jumped 6.5%, contributing significantly to the increase. By contrast, transportation and warehousing services fell 1.8%. Goods prices declined for a second consecutive month (-0.7% vs -1.4%), largely due to a 3.1% drop in energy prices, including a 5.7% plunge in gasoline prices. Food prices also fell 0.9% (vs -0.5%), while prices for goods excluding food and energy edged up 0.1% (vs 0.2%). Year-on-year, producer prices increased 4.7%, well below 5.5% in June and forecasts of 4.9%. Meanwhile, core producer prices rose 0.2%, below forecasts of 0.3% and the annual core rate came in at 4.2%, in line with expectations."
+    },
+    {
+      "id": "5039513",
+      "time": "2026-08-13 20:32:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債價格維持漲勢。"
+    },
+    {
+      "id": "5039512",
+      "time": "2026-08-13 20:32:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1332.50美元/盎司。"
+    },
     {
       "id": "mkt:019ffb1c-1ea2-7aab-9024-ca1c2a3fe4c0",
       "time": "2026-08-13 20:32:31",
@@ -137858,225 +138510,6 @@
         "國際"
       ],
       "text": "奈飛推出印度本土內容創作計劃。"
-    },
-    {
-      "id": "5028973",
-      "time": "2026-08-06 20:44:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "奈飛重申將對印度創意生態進行投資。"
-    },
-    {
-      "id": "5028972",
-      "time": "2026-08-06 20:44:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "福克斯首席財務官：世界盃的成功舉辦，加之美國中期選舉政治週期的初期階段，共同推動了我們全國性、地方性及數字媒體組合在2023財年第一季度的廣告勢頭持續增長。"
-    },
-    {
-      "id": "5028971",
-      "time": "2026-08-06 20:44:10",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國勞動生產率加快增長 企業提高效率以控制成本】美國第二季度勞動生產率增長快於預期，顯示企業正努力提高效率，以緩解成本上升帶來的壓力。美國勞工統計局週四公佈的資料顯示，非農勞動生產率（即非農部門員工每小時產出）折年率增長1.4%，此前第一季度增幅經上修後為0.8%。與此同時，單位勞動成本 —— 即企業每生產一單位產出所支付的員工成本 —— 增長1.3%。按同比計算，美國第二季度勞動生產率增長2.2%。接受彭博調查的經濟學家預期中值顯示，美國第二季度勞動生產率折年率增長0.6%，單位勞動成本增長2.1%。"
-    },
-    {
-      "id": "5028970",
-      "time": "2026-08-06 20:42:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國債務突破3萬億英鎊關口。"
-    },
-    {
-      "id": "5028969",
-      "time": "2026-08-06 20:42:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天瑞儀器：持股5%以上股東減持至5%以下】天瑞儀器公告稱，股東廣州立多虛擬現實科技合夥企業（有限合夥）於2026年8月5日透過集中競價交易減持49,600股，佔公司總股本的0.01001%。本次權益變動後，其持有公司股份24,775,537股，佔總股本4.99999%，不再是持股5%以上股東。本次減持與已披露的減持計劃一致，且尚未實施完畢。"
-    },
-    {
-      "id": "5028968",
-      "time": "2026-08-06 20:41:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【剛果(金)禁止銅精礦、鈷精礦出口 洛陽鉬業：公司在當地產品為陰極銅和氫氧化鈷】近日，剛果(金)政府6月底簽署的禁止銅鈷精礦出口的政府命令擾動資本市場。對此，洛陽鉬業相關人士釋出微信朋友圈稱，公司在剛果（金）的TFM和KFM兩大礦山的產品為陰極銅和氫氧化鈷，沒有精礦。一位行業人士介紹，洛陽鉬業在剛果（金）當地的礦山是採選冶一體，採用電積工藝冶煉，終端產品確為陰極銅，因此禁令對該公司無甚影響。"
-    },
-    {
-      "id": "5028967",
-      "time": "2026-08-06 20:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "8月6日，全球基金淨賣出1.786億印度盧比的印度股票。"
-    },
-    {
-      "id": "5028966",
-      "time": "2026-08-06 20:39:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃及內閣：2026年第二季度埃及失業率為5.8%。"
-    },
-    {
-      "id": "5028965",
-      "time": "2026-08-06 20:39:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【部分銀行房貸利率降至“2字頭”】近日，社交平臺上多位購房者曬出自己“2字頭”的房貸利率截圖，引發熱議。記者調研發現，此類住房貸款多是五年期的存量貸款。8月6日，記者走訪或致電北京、廣州、杭州等地多家銀行進行調研，發現多數銀行房貸利率仍在3%及以上。部分外資銀行能夠提供利率低於2.8%的住房貸款，但銀行設定了客戶資質與合作渠道的多重門檻。此外，部分銀行表示，雖然無法下調貸款利率，但可透過合作樓盤給購房者一定的房價優惠。(中國證券報)"
-    },
-    {
-      "id": "te:markets:573404",
-      "time": "2026-08-06 20:39:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Parker-Hannifin earnings above expectations at 9.27 USD — Parker-Hannifin (PH) released earnings per share at 9.27 USD, compared to market expectations of 8.27 USD."
-    },
-    {
-      "id": "5028964",
-      "time": "2026-08-06 20:38:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【法國下週開始禁止“未經同意的電話營銷” 】法國將從11日開始實施一項保護消費者權益的新法律，禁止“未經同意的電話營銷”行為，違者可能面臨數萬至數十萬歐元罰款。美聯社6日報道，據法國政府部門估算，法國大約四分之三的人每週接到至少一個營銷電話。根據法國先前的監管法規，消費者想要躲開這類電話，必須向特定政府服務機構登記自家電話號碼。但消費者權益團體說，部分客戶呼叫中心對這類登記名單視若無睹，電話照打不誤。（新華社）"
-    },
-    {
-      "id": "5028963",
-      "time": "2026-08-06 20:37:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Toast與谷歌合作，在谷歌地圖中推出AI代理智慧點餐功能】8月6日，全球餐飲與零售科技平臺Toast宣佈深化與谷歌的合作，將代理化點餐體驗引入谷歌地圖內的對話式AI功能“Ask Maps”。未來，當食客透過語音或文字在Ask Maps中尋求餐廳推薦或提出特定美食需求時，系統可直接呈現Toast合作餐廳的選單，並全程輔助食客完成下單與結算。"
-    },
-    {
-      "id": "5028962",
-      "time": "2026-08-06 20:37:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "萊茵金屬將從首份“拳師犬”裝甲車訂單獲得超30億歐元預付款，預計12月敲定125億歐元拳師犬裝甲車合同。。"
-    },
-    {
-      "id": "te:economy:573400",
-      "time": "2026-08-06 20:37:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Unit Labour Costs QoQ",
-        "Importance 1"
-      ],
-      "text": "US Labor Costs Rise Less than Anticipated — Unit labor costs in the US nonfarm business sector rose by 1.3% in Q2 2026, matching the revised Q1 pace, but missing market forecasts of 2.1%, preliminary data showed. This mainly reflected a 2.7% increase in hourly compensation and a 1.4% increase in productivity. In the manufacturing sector, unit labor costs were unchanged, as a 1.9% increase in hourly compensation was offset by a 1.9% increase in productivity. On an annual basis, nonfarm labor costs rose by 1.4%, while manufacturing unit labor costs advanced 3.5%."
-    },
-    {
-      "id": "5028961",
-      "time": "2026-08-06 20:36:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "斐樂（FILA）擬派發每股0.46歐元特別股息。"
-    },
-    {
-      "id": "5028960",
-      "time": "2026-08-06 20:36:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天原股份：向特定物件發行股票申請獲深交所稽核透過】天原股份公告，公司於2026年8月6日收到深圳證券交易所上市稽核中心出具的《關於宜賓天原集團股份有限公司申請向特定物件發行股票的稽核中心意見告知函》，深交所認為公司符合發行條件、上市條件和資訊披露要求，後續將按規定報中國證監會履行相關注冊程式。該事項尚需獲得中國證監會同意註冊後方可實施。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202608063834077186",
-      "time": "2026-08-06 20:36:00",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國第二季度生產率初值環比增長1.4%，預期增長0.6%。"
-    },
-    {
-      "id": "5028959",
-      "time": "2026-08-06 20:35:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【9月9日開幕！2026年服貿會超60個國家和國際組織確認參展參會】近日，在2026年中國國際服務貿易交易會（以下簡稱“服貿會”）成果落地情況媒體吹風會上，北京市商務局詳細介紹了服貿會在促進全球服務貿易成果落地方面的核心經驗與創新做法。據瞭解，2026年服貿會將於9月9日拉開帷幕，目前確認參展參會的國家和國際組織已超60個。（央視新聞）"
-    },
-    {
-      "id": "5028957",
-      "time": "2026-08-06 20:34:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "據報道，葉門武裝部隊將於數小時內釋出一份關於一場大規模行動的宣告。"
-    },
-    {
-      "id": "te:economy:573398",
-      "time": "2026-08-06 20:34:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Nonfarm Productivity QoQ",
-        "Importance 2"
-      ],
-      "text": "US Q1 Productivity Rises More than Expected — US nonfarm business sector labor productivity rose 1.4% in the second quarter of 2026, more than market expectations of a 0.6% increase, preliminary estimates showed. Output increased 1.7 percent and hours worked increased 0.3 percent. Meanwhile, manufacturing sector labor productivity increased 1.9% in the second quarter of 2026, as output increased 4.6 percent and hours worked increased 2.6 percent. In the durable manufacturing sector, productivity increased 2.7% and in the nondurable manufacturing sector productivity increased 2%. From the same quarter a year ago, nonfarm business sector labor productivity increased 2.2% in the second quarter of 2026. Total manufacturing sector productivity increased 0.9% from the same quarter a year ago."
-    },
-    {
-      "id": "te:economy:573397",
-      "time": "2026-08-06 20:34:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Initial Jobless Claims",
-        "Importance 2"
-      ],
-      "text": "US Initial Jobless Claims Rise Less than Expected — The number of people claiming unemployment benefits in the US inched higher by 1,000 to 199,000 on the final week of July, slightly under market expectations of 202,000 to remain near the 57-year low of 188,000 two weeks prior. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, rose by 24,000 to 1,801,000 in the earlier week, remaining well under averages from this year. The data continued to reflect a strong labor market in the US, aligned with statements from FOMC members that see the US economy in full employment. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 32 to 450."
-    },
-    {
-      "id": "mkt:019fd711-60e5-7aab-8fa1-d26923f95c18",
-      "time": "2026-08-06 20:34:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenchengjiao 1H 2026 net profit 38.54 mln yuan; returns to profit YoY】Shenchengjiao reported 1H 2026 revenue of 621 mln yuan, up 49.65% YoY, and net profit attributable to shareholders of 38.54 mln yuan versus a loss of 9.40 mln yuan a year earlier; basic EPS 0.07 yuan. Company said the improvement mainly reflected higher revenue recognition from big-data software and smart-traffic projects."
-    },
-    {
-      "id": "5028956",
-      "time": "2026-08-06 20:34:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "受谷歌合作協議利好，Toast盤前股價上漲2%。"
-    },
-    {
-      "id": "5028955",
-      "time": "2026-08-06 20:34:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "雅保預計今年鋰產量持平，明年產量回升。"
-    },
-    {
-      "id": "5028954",
-      "time": "2026-08-06 20:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊頓獲得美國空軍700萬美元合同，將量子計算應用於電網安全領域。"
     }
   ]
 }
