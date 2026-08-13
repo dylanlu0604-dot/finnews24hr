@@ -1,7 +1,57 @@
 {
   "date": "2026-08-14",
-  "count": 247,
+  "count": 252,
   "items": [
+    {
+      "id": "5040013",
+      "time": "2026-08-14 04:07:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "Axios援引 5 位知情人士訊息：賈裡德・庫什納計劃下週訪問以色列，就加沙問題展開磋商。"
+    },
+    {
+      "id": "te:markets:575182",
+      "time": "2026-08-14 04:06:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Applied Materials earnings above expectations at 3.50 USD — Applied Materials (AMAT) released earnings per share at 3.50 USD, compared to market expectations of 3.40 USD."
+    },
+    {
+      "id": "mkt:019ffcbb-1d67-7aab-902d-47bafbed1e19",
+      "time": "2026-08-14 04:05:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Aug 13 (Thu) close — Dow Jones Industrial Average +69.81 pts (+0.13%) at 53,840.08; S&P 500 +50.65 pts (+0.65%) at 7,799.15; Nasdaq Composite +214.54 pts (+0.81%) at 26,803.03."
+    },
+    {
+      "id": "mkt:019ffcbb-0c92-7aab-902d-3a468e6c4482",
+      "time": "2026-08-14 04:05:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Kushner plans to visit Israel next week for talks on Gaza."
+    },
+    {
+      "id": "5040012",
+      "time": "2026-08-14 04:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "PETMED 第一季度銷售額4,100萬美元。"
+    },
     {
       "id": "mkt:019ffcba-22e9-7aab-902d-3251cb5da1cd",
       "time": "2026-08-14 04:04:44",

@@ -1,7 +1,57 @@
 {
-  "updated": "2026-08-14 04:05:36",
-  "count": 15410,
+  "updated": "2026-08-14 04:09:27",
+  "count": 15409,
   "items": [
+    {
+      "id": "5040013",
+      "time": "2026-08-14 04:07:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "Axios援引 5 位知情人士訊息：賈裡德・庫什納計劃下週訪問以色列，就加沙問題展開磋商。"
+    },
+    {
+      "id": "te:markets:575182",
+      "time": "2026-08-14 04:06:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Applied Materials earnings above expectations at 3.50 USD — Applied Materials (AMAT) released earnings per share at 3.50 USD, compared to market expectations of 3.40 USD."
+    },
+    {
+      "id": "mkt:019ffcbb-1d67-7aab-902d-47bafbed1e19",
+      "time": "2026-08-14 04:05:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Aug 13 (Thu) close — Dow Jones Industrial Average +69.81 pts (+0.13%) at 53,840.08; S&P 500 +50.65 pts (+0.65%) at 7,799.15; Nasdaq Composite +214.54 pts (+0.81%) at 26,803.03."
+    },
+    {
+      "id": "mkt:019ffcbb-0c92-7aab-902d-3a468e6c4482",
+      "time": "2026-08-14 04:05:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports Kushner plans to visit Israel next week for talks on Gaza."
+    },
+    {
+      "id": "5040012",
+      "time": "2026-08-14 04:05:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "PETMED 第一季度銷售額4,100萬美元。"
+    },
     {
       "id": "mkt:019ffcba-22e9-7aab-902d-3251cb5da1cd",
       "time": "2026-08-14 04:04:44",
@@ -140950,63 +141000,6 @@
         "國際"
       ],
       "text": "特朗普：將討論出生公民權問題。"
-    },
-    {
-      "id": "5029526",
-      "time": "2026-08-07 04:09:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數6日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.25%，在匯市尾市收於99.930。截至紐約匯市尾市，1歐元兌換1.1524美元，低於前一交易日的1.1553美元；1英鎊兌換1.3457美元，低於前一交易日的1.3469美元。1美元兌換158.33日元，高於前一交易日的157.67日元；1美元兌換0.8122瑞士法郎，高於前一交易日的0.8069瑞士法郎；1美元兌換1.4014加元，高於前一交易日的1.4008加元；1美元兌換9.5068瑞典克朗，高於前一交易日的9.4832瑞典克朗。"
-    },
-    {
-      "id": "te:markets:573482",
-      "time": "2026-08-07 04:07:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Aflac earnings below expectations at 1.75 USD — Aflac (AFL) released earnings per share at 1.75 USD, compared to market expectations of 1.78 USD."
-    },
-    {
-      "id": "te:markets:573481",
-      "time": "2026-08-07 04:07:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Airbnb earnings above expectations at 1.37 USD — Airbnb (ABNB) released earnings per share at 1.37 USD, compared to market expectations of 1.26 USD."
-    },
-    {
-      "id": "5029525",
-      "time": "2026-08-07 04:07:38",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "世紀鋁業二季度淨銷售7.521億美元，分析師預期8.17億美元。"
-    },
-    {
-      "id": "5029524",
-      "time": "2026-08-07 04:07:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Atlassian預計2027財年營收將增長13%。預計第一財季雲收入同比將增長28.5%。"
-    },
-    {
-      "id": "5029523",
-      "time": "2026-08-07 04:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "AMD 收購 Taalas，交易條款未披露。"
     }
   ]
 }
