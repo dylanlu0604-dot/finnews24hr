@@ -1,7 +1,82 @@
 {
   "date": "2026-08-14",
-  "count": 190,
+  "count": 198,
   "items": [
+    {
+      "id": "mkt:019ffc80-5c9f-7aab-902c-8f05a6c7814f",
+      "time": "2026-08-14 03:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures closed the night session down 0.63% at 25,214, trading 183 points below the cash index."
+    },
+    {
+      "id": "5039984",
+      "time": "2026-08-14 03:00:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西Titans指數報22739.78點，下跌237.12點，跌幅1.03%。"
+    },
+    {
+      "id": "5039983",
+      "time": "2026-08-14 03:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷國家統計與普查局(INDEC)公佈，7月阿根廷12個月滾動通脹率為33.8%。"
+    },
+    {
+      "id": "5039982",
+      "time": "2026-08-14 03:00:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷7月消費者價格環比上漲2.1%；此前預期為上漲2.00%。"
+    },
+    {
+      "id": "mkt:019ffc7f-1bb6-7aab-902c-8771288be103",
+      "time": "2026-08-14 03:00:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, SHFE main gold contract fell 1.24% to 948 yuan/gram, SHFE main silver contract fell 1.48% to 15,805 yuan/kg, and INE SC crude oil main contract rose 0.79% to 559 yuan/barrel."
+    },
+    {
+      "id": "5039981",
+      "time": "2026-08-14 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.63%，報25212.20點，低水184.31點。"
+    },
+    {
+      "id": "mkt:019ffc7e-b2a0-7aab-902c-7e9e3c30313a",
+      "time": "2026-08-14 02:59:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS reported a magnitude-5.3 earthquake with epicenter 11 km south of Sarangani, Philippines."
+    },
+    {
+      "id": "5039980",
+      "time": "2026-08-14 02:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：菲律賓薩蘭加尼以南11公里處發生5.3級地震。"
+    },
     {
       "id": "mkt:019ffc7c-f603-7aab-902c-7142f0898e50",
       "time": "2026-08-14 02:57:55",
