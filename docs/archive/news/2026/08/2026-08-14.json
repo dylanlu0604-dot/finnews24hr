@@ -1,7 +1,37 @@
 {
   "date": "2026-08-14",
-  "count": 316,
+  "count": 319,
   "items": [
+    {
+      "id": "5040045",
+      "time": "2026-08-14 05:03:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（8月13日）紐約尾盤（週五北京時間04:59），美元兌離岸人民幣（CNH）報6.7444元，較週三紐約尾盤跌14點，日內整體交投於6.74793-6.74218元區間。"
+    },
+    {
+      "id": "mkt:019ffcef-5565-7aab-902e-2c2ccfca117d",
+      "time": "2026-08-14 05:02:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed pauses Treasury purchases for reserve management】The Federal Reserve said it will suspend Treasury purchases aimed at managing banking system reserves (RMP) for the next month, indicating reserves have reached a level the Fed considers adequate. The New York Fed said RMP buys will be paused for the operation cycle ending Sept. 14, while it will continue roughly $17.0 billion of maturing-principal reinvestments. The Fed said the adjustment is an operational change only and does not reflect a shift in monetary policy stance or balance-sheet strategy. It noted that higher US government cash balances could strain market liquidity but that funding markets remain functioning. In July SOFR was below the IORB for most of the month; the Aug. 12 SOFR fix was 3.62%, 3bp under the IORB."
+    },
+    {
+      "id": "te:markets:575188",
+      "time": "2026-08-14 05:02:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Arab Emirates",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "International Holding Company PJSC Stock Price Hits Near 4-year Low — International Holding Company PJSC shares decreased to 375.00 AED, the lowest since October 2022. Over the past 4 weeks, International Holding Company PJSC lost 1.32%, and in the last 12 months, it decreased 6.3%."
+    },
     {
       "id": "mkt:019ffcec-ebca-7aab-902e-256991d5b162",
       "time": "2026-08-14 05:00:12",
