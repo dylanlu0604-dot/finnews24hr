@@ -1,7 +1,174 @@
 {
   "date": "2026-08-13",
-  "count": 1664,
+  "count": 1684,
   "items": [
+    {
+      "id": "mkt:019ffa66-0c46-7aab-9020-73039d60744f",
+      "time": "2026-08-13 17:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian military said it attacked a Russian oil refinery in Bashkortostan, about 1,300 km from the border."
+    },
+    {
+      "id": "5039083",
+      "time": "2026-08-13 17:13:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【同力天啟：股價異常波動 上半年淨利潤預降82.39%】同力天啟公告稱，公司股票於2026年8月12日、13日連續2個交易日內收盤價格漲幅偏離值累計達20%，8月10 - 13日連續4個交易日漲停，漲幅偏離值累計達46.59%，屬異常波動。公司預計2026年半年度淨利潤2039.70萬元，同比降82.39%；扣非淨利潤2162.73萬元，同比降80.85%。目前生產經營正常，不存在應披露未披露重大資訊，提醒投資者注意風險。"
+    },
+    {
+      "id": "5039082",
+      "time": "2026-08-13 17:13:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星徽股份：涉1.12億元訴訟被指令再審 原判決中止執行】星徽股份公告稱，公司與孫才金、朱佳佳等7名原告糾紛案，涉案金額1.12億元（遲延履行利息計至2026年7月31日）。近日廣東省高階人民法院裁定，指令廣東省深圳市中級人民法院再審本案，再審期間中止原判決執行。因原審判決基本事實認定不清，孫才金等是否完成業績承諾及可出售股份數額計算方式待查明。判決結果不確定，暫無法判斷對公司利潤影響。"
+    },
+    {
+      "id": "5039081",
+      "time": "2026-08-13 17:12:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "勃肯股價盤前上漲7%，此前該公司上調年度收入預期。"
+    },
+    {
+      "id": "5039080",
+      "time": "2026-08-13 17:12:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將 SALESFORCE 的評級從“未評級”上調至“增持”。"
+    },
+    {
+      "id": "mkt:019ffa65-3f72-7aab-9020-68ff08266cdc",
+      "time": "2026-08-13 17:12:47",
+      "tags": [
+        "MKT News",
+        "01211.HK"
+      ],
+      "text": "BYD Co. (01211.HK) will hold a board meeting on Aug 28, 2026 to consider and approve interim results for the six months ended June 30, 2026 and their publication, and to transact any other business."
+    },
+    {
+      "id": "5039079",
+      "time": "2026-08-13 17:12:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報告稱長江儲存快閃記憶體出貨量超過鎧俠 但銷售額仍排名第五】市場研究機構Counterpoint Research的資料顯示，按全球NAND快閃記憶體位元出貨量計算，長江儲存已經追上備受投資者青睞的鎧俠，同時進一步縮小了與三星電子和SK海力士之間的差距。鎧俠目前將業務重點放在面向美國資料中心運營商的高階儲存產品上。Counterpoint分析師MS Hwang和Neil Shah在報告中表示，鎧俠出貨量排名下降，部分原因在於伺服器產品價格較高。不過，如果按照銷售額而不是出貨量計算，長江儲存仍落後於美光科技和鎧俠，排名全球第五。分析師指出，長江儲存雖然已經具備相當大的出貨規模，但“規模尚未轉化為營收”。隨著人工智慧應用快速普及，企業對於低功耗、高能效資料儲存的需求正在上升，尤其是固態硬碟(SSD)。第二季度，SSD已佔全部NAND快閃記憶體出貨量的接近一半。根據Counterpoint的資料，一年前，企業級SSD僅佔NAND出貨量的26%，如今這一比例幾乎翻了一番。"
+    },
+    {
+      "id": "mkt:019ffa64-f1ac-7aab-9020-672c8b6aa205",
+      "time": "2026-08-13 17:12:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "【China Charging Alliance delegation meets Didi Charging to coordinate EV charging service upgrades】Aug 13 — A China Charging Alliance delegation led by executive secretary-general Zou Peng met with Didi Charging; Didi Charging general manager Lin Zhitang and department heads attended. Both sides agreed to deepen industry cooperation to upgrade user charging experience and, together with industry partners, advance high‑quality development of China’s EV charging sector."
+    },
+    {
+      "id": "5039078",
+      "time": "2026-08-13 17:11:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國充電聯盟赴滴滴充電交流 共促充電行業服務提質升級】據中國充電聯盟訊息，8月13日，中國電動汽車充電基礎設施促進聯盟（簡稱“中國充電聯盟”）執行秘書長鄒朋帶隊赴滴滴充電交流，滴滴充電總經理林枝棠會同相關部門負責人參與交流，雙方圍繞“共同推動充電行業服務體驗升級”開展交流。透過交流，雙方就“深化產業合作、共促使用者體驗升級”達成一致意見，下一步攜手全行業合作伙伴，共同推動充電行業高質量發展。"
+    },
+    {
+      "id": "mkt:019ffa64-49d7-7aab-9020-5ed25d71cabc",
+      "time": "2026-08-13 17:11:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian trade official said India is working to reach a U.S.-India bilateral trade agreement as soon as possible."
+    },
+    {
+      "id": "mkt:019ffa64-420b-7aab-9020-53e743fb982a",
+      "time": "2026-08-13 17:11:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces had taken control of Petrivka in Donetsk region."
+    },
+    {
+      "id": "5039077",
+      "time": "2026-08-13 17:11:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄羅斯軍隊控制了烏克蘭頓涅茨克地區的佩特里夫卡。"
+    },
+    {
+      "id": "5039076",
+      "time": "2026-08-13 17:11:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱打擊了俄羅斯的俄氣石化薩拉瓦特基地。"
+    },
+    {
+      "id": "mkt:019ffa63-b8c5-7aab-9020-4b587cd60f6d",
+      "time": "2026-08-13 17:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian trade officials said they will continue to actively engage US authorities to resolve outstanding trade issues."
+    },
+    {
+      "id": "mkt:019ffa63-9ab7-7aab-9020-450ffaf5f4c0",
+      "time": "2026-08-13 17:10:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian trade official says 45% of India's exports to the US remain exempt from the 10% tariff introduced in July."
+    },
+    {
+      "id": "5039075",
+      "time": "2026-08-13 17:10:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南方航空：向特定物件發行A股申請獲上交所稽核透過】南方航空公告，公司於近日收到上海證券交易所出具的《關於中國南方航空股份有限公司向特定物件發行股票的交易所稽核意見》，公司向特定物件發行A股股票申請符合發行條件、上市條件和資訊披露要求。本次發行事項尚需獲得中國證監會作出同意註冊的決定後方可實施，最終能否獲得中國證監會同意註冊的決定及其時間尚存在不確定性。"
+    },
+    {
+      "id": "5039074",
+      "time": "2026-08-13 17:10:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天數智芯：預計2026年上半年扭虧為盈，淨利潤約6000萬元至1.4億元】天數智芯公告，預計截至2026年6月30日止六個月淨利潤約人民幣6000萬元至人民幣1.4億元，上年同期淨虧損約人民幣6.09億元。業績扭虧為盈主要歸因於報告期內按公允價值計入損益的金融資產的公允價值收益介乎約人民幣7.3億元至人民幣7.9億元。"
+    },
+    {
+      "id": "5039073",
+      "time": "2026-08-13 17:10:26",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【沙特調整原油出口路線】最新資料顯示，近期經由霍爾木茲海峽通行的船舶數量，已經降至近三個月以來的低位。目前不僅是霍爾木茲海峽，曼德海峽也正成為新的安全風險點。沙烏地阿拉伯正加大調整原油出口路線。克普勒的資料顯示，8月份，埃及地中海港口、西迪基里爾的原油日均出口量躍升至了大約230萬桶，較7月翻了一倍多，也遠高於過去兩年的水平。克普勒稱，其中大部分原油出口來自沙特，分析認為，這並不是沙特的短期應急之舉，同時繞開霍爾木茲海峽和曼德海峽，可能會成為沙特原油出口的新趨勢。 展望後市，高盛認為，在中東局勢逐步緩和的基準情景下，第四季度布倫特原油均價可能會在大約每桶80美元。但是，分析認為油價風險仍然偏向上行。（央視財經）"
+    },
+    {
+      "id": "te:economy:575045",
+      "time": "2026-08-13 17:10:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Croatia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Croatia Producer Inflation Eases to 4-Month Low — Producer prices in Croatia increased by 4.9% year-on-year in July 2026, easing from 5.7% in the previous month, marking the lowest reading in four months. The slowdown was mainly driven by a softer increase in mining and quarrying prices (13.9% vs. 18.5% in June), largely reflecting a slower rise in crude petroleum and natural gas extraction (19.5% vs. 30.8%). Manufacturing producer price inflation also moderated (4.3% vs. 5.3%), due to a sharp easing in prices of coke and refined petroleum products (38.7% vs. 54.6%). In contrast, inflation accelerated slightly for electricity, gas, steam and air conditioning supply (5.4% vs. 4.7%), while price growth also edged up for water supply, sewerage, waste management and remediation activities (2.0% vs. 1.8%). On a monthly basis, producer prices declined by 0.2%, easing from a 0.3% decline in the previous month."
+    },
     {
       "id": "te:economy:575044",
       "time": "2026-08-13 17:09:26",
@@ -21,6 +188,14 @@
         "公司"
       ],
       "text": "阿里巴巴持有的易居中國股份由7.27%降至6.90%。"
+    },
+    {
+      "id": "5039071",
+      "time": "2026-08-13 17:09:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州公安偵破全國首起“護劇”敲詐勒索案】杭州市公安局通報，近日成功偵破全國首起以“護劇”為名實施網路輿情敲詐勒索案件，打掉了依託自媒體賬號操控輿論、脅迫影視劇組及藝人付費消災的職業化犯罪團伙。2026年5月2日，杭州公安網安民警在日常網路巡查中發現異常線索，多名影視類自媒體賬號在影視劇上線宣發節點集中釋出負面內容，待輿情發酵後又快速刪除，固定化的操作模式引起警方警覺。經專案組深入偵查，以李某、廖某為首的犯罪團伙逐漸浮出水面，該團伙運營一批粉絲總量達2020餘萬的微博賬號，專門瞄準新劇開播、綜藝宣發關鍵時段，捏造散佈不實負面資訊，多賬號聯動炒作話題、煽動粉絲對立製造輿論壓力。待影視公司、藝人經紀團隊主動溝通後，嫌疑人並不直接提“刪帖”，而是以“提供宣傳服務”“輿情最佳化合作”的名義進行談判，將刪帖包裝成“護劇”商業宣傳行為，開口索要高額費用，並透過加大發帖頻率、擴大傳播範圍的方式，形成持續輿論施壓，直至對方“花錢消災”平息風波。（央視新聞）"
     },
     {
       "id": "mkt:019ffa61-fe53-7aab-9020-3bf7ed9ff2b3",
