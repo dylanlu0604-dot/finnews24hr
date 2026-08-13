@@ -1,7 +1,90 @@
 {
-  "updated": "2026-08-14 00:57:53",
-  "count": 15275,
+  "updated": "2026-08-14 01:01:46",
+  "count": 15284,
   "items": [
+    {
+      "id": "5039909",
+      "time": "2026-08-14 01:01:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：3.7 Flash模型將以每百萬輸入token0.75美元、每百萬輸出token3.75美元的推介價格提供，直至年底。"
+    },
+    {
+      "id": "mkt:019ffc11-d396-7aab-902b-4b9f429d8a4e",
+      "time": "2026-08-14 01:00:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) launches the Gemini 3.7 Flash model."
+    },
+    {
+      "id": "5039908",
+      "time": "2026-08-14 01:00:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：推出GEMINI 3.7 FLASH。"
+    },
+    {
+      "id": "5039907",
+      "time": "2026-08-14 01:00:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦儲備理事會(FED)資料顯示，8月12日當週，經非季節性調整的美國商業票據未償還金額減少11億美元。"
+    },
+    {
+      "id": "5039906",
+      "time": "2026-08-14 01:00:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國聯邦儲備理事會(美聯儲/FED)資料顯示，8月12日當週，經非季節性調整的美國外國金融商業票據未償還餘額增加109億美元。。"
+    },
+    {
+      "id": "5039905",
+      "time": "2026-08-14 01:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦儲備理事會(FED)資料顯示，8月12日當週經季節調整的美國商業票據未償還餘額增加16億美元。"
+    },
+    {
+      "id": "5039904",
+      "time": "2026-08-14 01:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國機器人吸塵器品牌MATIC新增全語音控制選項。"
+    },
+    {
+      "id": "5039903",
+      "time": "2026-08-14 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.10%，滬銅收跌0.03%，滬鋁收跌0.62%，滬鋅收跌0.04%，滬鉛收跌0.81%，滬鎳收跌0.88%，滬錫收漲0.07%。氧化鋁夜盤收漲0.26%，鋁合金收跌0.90%。不鏽鋼夜盤收跌0.83%。"
+    },
+    {
+      "id": "mkt:019ffc10-d42d-7aab-902b-401a9f97a49f",
+      "time": "2026-08-14 00:59:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US forms first multinational UAS task force to bolster Middle East strike capability】CENTCOM announced on Aug. 13 it has formed a multi-domain, multinational unmanned systems strike task force, Falcon Strike, to integrate unmanned combat capability across the Middle East. Falcon Strike will field air, surface and subsurface one-way attack unmanned systems operated jointly by US and regional partner forces. The unit follows CENTCOM’s first dedicated UAS strike task force, Scorpion Strike, stood up nine months earlier; Scorpion achieved milestones including the first ship-launched aerial attack UAS in December and deployments in Operation Epic Anger and July strikes on Iranian port facilities. CENTCOM commander Brad Cooper said Falcon Strike will build on Scorpion Strike’s experience to integrate new US and partner capabilities into a unified multi-domain, multinational deterrent."
+    },
     {
       "id": "5039902",
       "time": "2026-08-14 00:56:39",
