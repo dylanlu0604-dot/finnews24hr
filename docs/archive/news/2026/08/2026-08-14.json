@@ -1,7 +1,55 @@
 {
   "date": "2026-08-14",
-  "count": 351,
+  "count": 356,
   "items": [
+    {
+      "id": "mkt:019ffd08-320f-7aab-902e-933e7c2daae6",
+      "time": "2026-08-14 05:30:00",
+      "tags": [
+        "MKT News",
+        "HII.O"
+      ],
+      "text": "White House said President Trump has directed the Secretary of Defense to replace the advanced electromagnetic aircraft launch system (EMALS) and advanced weapons elevators with conventional steam and hydraulic systems during construction of the CVN-81 aircraft carrier."
+    },
+    {
+      "id": "mkt:019ffd07-eccb-7aab-902e-88401a78df55",
+      "time": "2026-08-14 05:29:42",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "HII.O"
+      ],
+      "text": "White House said President Trump signed a memorandum directing the Pentagon to increase direct investment in the U.S. shipbuilding industrial base under a 'Finnish model'."
+    },
+    {
+      "id": "mkt:019ffd07-82d1-7aab-902e-811148fe3065",
+      "time": "2026-08-14 05:29:15",
+      "tags": [
+        "MKT News",
+        "HII.O",
+        "Impact bullish",
+        "GD.O"
+      ],
+      "text": "White House: President Trump has signed a national security presidential memorandum to address long-standing critical issues in U.S. Navy shipbuilding and maintenance programs."
+    },
+    {
+      "id": "5040067",
+      "time": "2026-08-14 05:28:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普指示國防部長，在 CVN‑81 航母建造期間，用傳統蒸汽與液壓系統替換先進電磁飛機彈射系統以及先進武器升降機。"
+    },
+    {
+      "id": "5040066",
+      "time": "2026-08-14 05:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普釋出備忘錄，指示五角大樓參照 “芬蘭模式”，對美國造船工業基地開展更多直接投資。"
+    },
     {
       "id": "mkt:019ffd05-fe76-7aab-902e-782cac85192e",
       "time": "2026-08-14 05:27:36",
