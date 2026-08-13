@@ -1,7 +1,84 @@
 {
   "date": "2026-08-13",
-  "count": 1052,
+  "count": 1060,
   "items": [
+    {
+      "id": "5038692",
+      "time": "2026-08-13 14:07:14",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛：萬億美元儲備在手 日本可復刻多輪“史詩級外匯干預”】據高盛測算，在日本當前總量約1萬億美元的美元外匯儲備中，約2000億美元為現金及現金等價物，這一規模與今年7月日本央行的歷史性匯率干預體量基本持平。 依託美聯儲工具加持，日本可靈活調動的干預資金上限進一步提升，為後續護盤操作築牢資金基礎。 “日本目前手握的流動資金，足以再度開展數輪堪比此前紀錄級別的大規模干預。”高盛研究院策略師卡倫·菲什曼（Karen Fishman）直言，“（儘管）現實中日本不會把這筆資金全部耗盡，但這足以說明，只要日本願意，就擁有充足能力持續開展干預。” 她補充道，理論上，藉助美聯儲工具，全部1萬億美元儲備均可轉化為流動資金。"
+    },
+    {
+      "id": "5038689",
+      "time": "2026-08-13 14:06:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：2026年Q2中東智慧手機市場下滑19%，廠商更加註重盈利能力】根據Omdia最新研究，2026年第二季度中東地區（不含土耳其）智慧手機出貨量同比下降19%，降至1,060萬部，創下自2025年第四季度以來最大的單季跌幅。價格上漲、供應受限以及地緣政治不確定性，促使廠商更加註重提升產品價值和盈利能力，而非單純追求出貨量增長。與此同時，隨著消費者信心走弱，中東地區零售商也採取了更加謹慎的庫存管理策略。"
+    },
+    {
+      "id": "5038688",
+      "time": "2026-08-13 14:06:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50期貨<STXEc1>上漲0.43%，德國DAX期貨<FDXc1>上漲0.28%，富時期貨<FFIc1>上漲0.25%。"
+    },
+    {
+      "id": "mkt:019ff9b9-8fe0-7aab-901a-ef2640ad49a5",
+      "time": "2026-08-13 14:05:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "00992.HK",
+        "Impact bullish"
+      ],
+      "text": "【Lenovo Group quarterly revenue up 43% YoY; Hong Kong shares surge over 20%】Lenovo Group (00992.HK) shares rose more than 20% in Hong Kong after quarterly revenue increased 43% YoY, materially beating analyst estimates and boosting AI-demand expectations. Shares hit a record high and are up about 290% year-to-date, remaining the top performer in the Hang Seng China Enterprises Index. CITIGROUP analysts led by Kyna Wong said the results broadly and substantially exceeded expectations, reinforcing an AI-driven structural growth thesis."
+    },
+    {
+      "id": "5038687",
+      "time": "2026-08-13 14:04:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4380美元/盎司，日內跌0.66%。"
+    },
+    {
+      "id": "5038686",
+      "time": "2026-08-13 14:04:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1359.89美元/盎司。"
+    },
+    {
+      "id": "5038685",
+      "time": "2026-08-13 14:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【價格成本和認證中心赴中國長江三峽集團有限公司調研】7月27日，價格成本和認證中心副主任成鋼同志帶隊赴中國長江三峽集團有限公司市場營銷部調研。雙方圍繞光熱電站、新型儲能電站建設運營等情況進行了交流。新能源價格成本處有關同志參加了本次調研。"
+    },
+    {
+      "id": "em:qqyh_rbyh:202608133840332944",
+      "time": "2026-08-13 14:04:03",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "【高盛：萬億美元儲備在手 日本可復刻多輪“史詩級外匯干預”】在7月末美日聯合出手、實施數十年罕見的史詩級日元干預之後，近期，日元反彈勢頭逐步消退，再度逼近關鍵低位。在這一背景下，高盛最新分析指出，日本當前可動用干預資金相當充裕，足以復刻多輪“創紀錄量級”的護盤行動，日元底部支撐預期有望得到持續強化。"
+    },
     {
       "id": "mkt:019ff9b8-03c2-7aab-901a-e3c1839617d4",
       "time": "2026-08-13 14:03:34",
