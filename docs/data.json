@@ -1,7 +1,52 @@
 {
-  "updated": "2026-08-13 23:48:09",
-  "count": 15254,
+  "updated": "2026-08-13 23:52:14",
+  "count": 15251,
   "items": [
+    {
+      "id": "5039860",
+      "time": "2026-08-13 23:50:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "CEREBRAS執行長：公司業務將以驚人的速度增長。資料中心對所有人來說都是一個挑戰。"
+    },
+    {
+      "id": "mkt:019ffbd1-308a-7aab-902a-771919b4d753",
+      "time": "2026-08-13 23:50:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AI chipmaker Cerebras says its business will grow at an exceptional pace."
+    },
+    {
+      "id": "mkt:019ffbd1-1b14-7aab-902a-69847870f278",
+      "time": "2026-08-13 23:50:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "AI chipmaker Cerebras says data centers pose a challenge for everyone."
+    },
+    {
+      "id": "5039859",
+      "time": "2026-08-13 23:49:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【荷蘭警方確認鹿特丹港爆炸系工作事故】荷蘭鹿特丹警方13日初步確認，當天發生在鹿特丹港一家能源公司廠區的爆炸屬於工作事故。警方在宣告中說，目前來看爆炸是一起工作事故。荷蘭社會事務與就業部將對事故進行繼續調查，並負責處理後續事宜。（新華社）"
+    },
+    {
+      "id": "mkt:019ffbce-ee05-7aab-902a-657af2401795",
+      "time": "2026-08-13 23:47:50",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Washington Post reports that about 25% of US \"Reaper\" drones were shot down during the Iran war."
+    },
     {
       "id": "te:markets:575157",
       "time": "2026-08-13 23:47:23",
@@ -139515,81 +139560,6 @@
         "國際"
       ],
       "text": "市場訊息：根據該協議，美國及以色列船隻禁止透過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019fd7c5-398f-7aab-8fa4-6346765cb9a6",
-      "time": "2026-08-06 23:50:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Alphabet (GOOG.O) large bond offering drew about $115 billion of demand."
-    },
-    {
-      "id": "5029270",
-      "time": "2026-08-06 23:49:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "泛歐交易所 7 月股票衍生品成交量環比下降 36%。"
-    },
-    {
-      "id": "5029269",
-      "time": "2026-08-06 23:49:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "ALPHABET鉅額債券發行獲約 1150 億美元認購需求。"
-    },
-    {
-      "id": "5029268",
-      "time": "2026-08-06 23:48:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "泛歐交易所 7 月現金市場總成交金額同比增長 30%。"
-    },
-    {
-      "id": "5029267",
-      "time": "2026-08-06 23:48:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本秋田縣將於本財年末開始出售工業園區地塊。"
-    },
-    {
-      "id": "te:economy:573450",
-      "time": "2026-08-06 23:48:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil 10-Year Bond Yield Rises After BCB Meeting — Brazil's 10-year government bond yield rose to 14.52% from the three-week low of 14.42% reached on August 4th after the Copom signaled a cautious approach to further interest rate cuts. Although the BCB lowered the Selic rate by a widely expected 25 basis points to 14.0%, its lowest level since March 2025, policymakers stressed that the pace and extent of further easing will depend on incoming economic data and the inflation outlook. The committee also cited heightened uncertainty stemming from conflicts in the Middle East and from the monetary policy outlook in advanced economies. Meanwhile, Brazil created a net 145,161 formal jobs in June, well above expectations of 115,000, reinforcing labor market resilience and supporting expectations that interest rates will remain restrictive. Fiscal concerns also persisted amid signals of higher government spending and pressure on revenues from new US tariffs."
-    },
-    {
-      "id": "5029266",
-      "time": "2026-08-06 23:48:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：日本電信、建築、能源及其他行業企業預計將合作開展資料中心的建設與運營。"
-    },
-    {
-      "id": "5029265",
-      "time": "2026-08-06 23:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "泛歐交易所 7 月現金市場總成交金額環比下降 12%。"
     }
   ]
 }
