@@ -1,7 +1,247 @@
 {
-  "updated": "2026-08-13 16:12:26",
-  "count": 15122,
+  "updated": "2026-08-13 16:21:04",
+  "count": 15127,
   "items": [
+    {
+      "id": "5038927",
+      "time": "2026-08-13 16:20:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寶地礦業：嘉興寶益減持11萬股，嘉興寶潤減持60萬股】寶地礦業公告，2026年4月18日公司披露特定股東減持計劃，嘉興寶益持有公司223萬股，佔總股本0.2266%；嘉興寶潤持有259.1萬股，佔總股本0.2632%。截至2026年8月12日，公司收到上述股東減持結果告知函，減持計劃實施完畢。嘉興寶益於2026年7月8日至7月9日透過集中競價減持11萬股，佔總股本0.0112%，減持價格區間6.33～6.8元/股，減持總金額72.92萬元，當前持股212萬股，佔比0.2154%。嘉興寶潤於2026年7月28日至8月11日透過集中競價減持60萬股，佔總股本0.0610%，減持價格區間6.8～7.3元/股，減持總金額418萬元，當前持股199.1萬股，佔比0.2023%。"
+    },
+    {
+      "id": "5038926",
+      "time": "2026-08-13 16:19:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱，已向一名對加沙地帶部隊構成威脅的武裝分子開火。"
+    },
+    {
+      "id": "5038925",
+      "time": "2026-08-13 16:19:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【印度繼續對原產於或進口自中國和韓國的鄰苯二甲酸酐徵收反傾銷稅】印度財政部稅收局釋出第20/2026-Customs(ADD)號通報稱，接受印度商工部於2026年5月7日對原產於或進口自中國和韓國的鄰苯二甲酸酐作出的第一次反傾銷日落複審肯定性終裁建議，決定繼續徵收為期5年的反傾銷稅，分別為中國40.08美元/噸、韓國140.17美元/噸。涉案產品的印度海關編碼為29173500。措施自本通報釋出於官方公報之日起生效。"
+    },
+    {
+      "id": "5038924",
+      "time": "2026-08-13 16:19:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.1%，納指期貨下跌0.04%，道指上漲0.13%。"
+    },
+    {
+      "id": "mkt:019ffa33-ecd3-7aab-901e-f5398bb989f0",
+      "time": "2026-08-13 16:18:54",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact bearish",
+        "Dow"
+      ],
+      "text": "S&P 500 futures rose 0.10%, Nasdaq futures fell 0.04%, and Dow futures rose 0.13%."
+    },
+    {
+      "id": "mkt:019ffa33-5c1d-7aab-901e-ec64c2ddea38",
+      "time": "2026-08-13 16:18:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "National Bank of Romania governor says the Romanian leu (RON) exchange rate is no longer as stable."
+    },
+    {
+      "id": "mkt:019ffa33-55fd-7aab-901e-e51279341927",
+      "time": "2026-08-13 16:18:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turkey central bank raises year-end inflation forecast to 28%, closer to market expectations】The Central Bank of the Republic of Turkey raised its year-end inflation forecast to 28% from 26%, Governor Fatih Karahan said at a press briefing in Istanbul on Thursday. A central bank survey last month showed market participants expect year-end inflation of 29%. Karahan cited geopolitical uncertainty from the war in Iran and volatility in energy and food prices as reasons for the upward revision."
+    },
+    {
+      "id": "5038922",
+      "time": "2026-08-13 16:17:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯副外長：一旦威特科夫和庫什納的行程確定，俄羅斯將能夠迅速安排接待事宜。"
+    },
+    {
+      "id": "mkt:019ffa33-022f-7aab-901e-d9705bb08f37",
+      "time": "2026-08-13 16:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "National Bank of Romania governor said the Romanian leu has experienced two significant depreciations over the past 12 months."
+    },
+    {
+      "id": "mkt:019ffa32-eae1-7aab-901e-d6e22c274a4c",
+      "time": "2026-08-13 16:17:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【First domestically built large cruise ship Aida Modu begins maiden voyage in Greater Bay Area】Aug 13 — China's first domestically built large cruise ship Aida Modu departed Shenzhen International Cruise Home Port on its maiden voyage, carrying about 4,600 guests on a 5-day, 4-night itinerary to Hue (Chan May), Vietnam. The vessel is operating its first international cruise route in the Greater Bay Area."
+    },
+    {
+      "id": "mkt:019ffa32-bd75-7aab-901e-c83d029b7f5a",
+      "time": "2026-08-13 16:17:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's deputy foreign minister said once itineraries for Witkoff and Kushner are confirmed, Moscow can swiftly arrange their reception."
+    },
+    {
+      "id": "5038921",
+      "time": "2026-08-13 16:17:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首艘國產大型郵輪“愛達·魔都號”首航大灣區 開啟中國海岸巡遊新篇章】8月13日，首艘國產大型郵輪“愛達·魔都號”首航深圳國際郵輪母港，並將搭載近四千六百名賓客於當天從深圳啟航，開啟5天4晚到訪越南順化（真美）的海上之旅。這是“愛達·魔都號”首次在大灣區運營國際郵輪航線，迎來“大國重器進灣區”重要里程碑，開啟中國海岸巡遊新篇章。（央視新聞）"
+    },
+    {
+      "id": "5038920",
+      "time": "2026-08-13 16:16:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠博普：擬使用不超1.2億美元開展外匯套期保值業務】惠博普公告稱，為規避外匯市場風險，減少匯兌損失，公司擬使用不超1.2億美元自有資金開展外匯套期保值業務，單筆不超3000萬美元，預計動用交易保證金和權利金不超500萬美元。交易品種包括遠期結售匯等，交易對方為有資質金融機構。授權期限自8月13日董事會審議透過之日起12個月內有效。該業務存在匯率波動等風險，公司已制定風控措施。"
+    },
+    {
+      "id": "te:economy:575023",
+      "time": "2026-08-13 16:16:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US Producer Prices Seen Rising 0.2% — US producer prices likely increased by 0.2% month-over-month in July 2026, following a 0.3% fall in June. Core producer prices, which exclude the more volatile food and energy components, are forecast to rise by 0.3% in July, accelerating from the 0.2% increase recorded in June. On an annual basis, headline producer inflation is projected to slow to 4.9%, down from 5.5% in June and marking its highest level in four months. Meanwhile, annual core producer inflation is expected to decrease to 4.2% from 4.7%, also reaching its lowest reading since March."
+    },
+    {
+      "id": "mkt:019ffa31-1898-7aab-901e-c6d0e5ae17bf",
+      "time": "2026-08-13 16:15:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Economist: UK Q2 growth driven by temporary factors; Bank of England September hike unlikely】Suren Thiru, chief economist at the Institute of Chartered Accountants in England and Wales (ICAEW), said the 0.4% Q2 GDP rise was mainly driven by temporary factors—pre‑Iran‑war stockpiling, unusually warm weather and World Cup activity—rather than underlying momentum. He expects a clearer slowdown in Q3 as rising inflation and energy costs squeeze household incomes, and said a Bank of England rate increase in September remains unlikely given market expectations that weaker activity will help rein in inflation."
+    },
+    {
+      "id": "5038919",
+      "time": "2026-08-13 16:15:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德邦科技：首次回購公司股份40300股，支付255.28萬元】德邦科技公告，公司此前披露第三期回購方案，擬以不低於人民幣1200萬元（含）且不高於人民幣2400萬元（含）回購公司股份，回購價格不超過人民幣115.29元/股（含），用於員工持股計劃或股權激勵。2026年8月13日，公司首次透過集中競價交易方式回購股份40300股，佔總股本1.42億股的0.0283%，成交最高價63.86元/股，最低價61.91元/股，支付資金總額255.28萬元（不含交易費用）。"
+    },
+    {
+      "id": "5038918",
+      "time": "2026-08-13 16:14:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞總統：希望2028年啟動國產電動汽車的大規模生產。"
+    },
+    {
+      "id": "mkt:019ffa30-2936-7aab-901e-bd11b7da55d3",
+      "time": "2026-08-13 16:14:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Indonesia's president said he hopes to begin mass production of domestically made electric vehicles in 2028."
+    },
+    {
+      "id": "5038917",
+      "time": "2026-08-13 16:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴廣網路：控股股東部分股份解除質押及質押，累計質押1.79億股】貴廣網路公告稱，公司控股股東貴廣投資於2026年8月12日將5000萬股解除質押，佔其所持股份比例12.72%，佔公司總股本比例4.01%；同日質押6000萬股給重慶銀行股份有限公司貴陽南明支行，佔其所持股份比例15.26%，佔公司總股本比例4.81%，資金用於償還債務。本次部分股份解除質押及質押後，貴廣投資累計質押數量為1.79億股，佔其所持公司股份總數的45.53%，佔公司總股本的14.36%。"
+    },
+    {
+      "id": "te:economy:575022",
+      "time": "2026-08-13 16:14:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Palestine",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Palestine CPI Slides 43% in July — Consumer prices in Palestine fell 43.19% year-on-year in July 2026, deepening from a 40.04% decline in June and marking another sharp drop in consumer prices. The continued year-on-year decline largely reflects the normalization of prices in Gaza following the exceptionally high price levels recorded previously. Prices in the Gaza Strip plunged 66.27%, while prices increased 1.90% in Jerusalem J1 and 1.67% in the West Bank. On a monthly basis, the CPI fell 1.68% in July, compared with a 1.6% decline in June. The monthly drop was driven by lower prices for eggs (-8.20%), fresh vegetables (-5.19%), petrol (-4.11%), diesel (-3.12%), fresh fruit (-2.41%), gas (-2.10%), fresh chicken (-1.61%), and vegetable oils (-1.40%)."
+    },
+    {
+      "id": "5038915",
+      "time": "2026-08-13 16:13:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇算光啟完成數億元融資】近期，上海奇算光啟資訊科技有限公司宣佈完成天使輪及天使+輪融資。自成立以來，公司累計融資規模達數億元。其中，天使輪融資由高瓴創投領投，BV百度風投、張江高科跟投；天使+輪融資由高瓴創投、真格基金、上海未來產業基金聯合領投，同創偉業跟投，老股東深流資本、張江高科與BV百度風投持續加註。"
+    },
+    {
+      "id": "mkt:019ffa2e-d142-7aab-901e-b4cf3f8b2eba",
+      "time": "2026-08-13 16:13:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "【Deutsche Bank: UK growth may slow in H2 2026 but upside revisions possible】Deutsche Bank analyst Sanjay Raja says the UK economy is likely to slow in H2 2026 but could see upward revisions if current resilience continues. Q2 GDP rose 0.4%, leaving H1 annualized growth at 2%, and the UK appears to have ranked top among G7 economies for growth for a second consecutive quarter. Raja warns downside from an energy shock as rising fuel bills squeeze households and firms, and expects sequential growth in H2 to be nearer 0.1% while noting some modest upside risks that could prompt forecast upgrades."
+    },
+    {
+      "id": "5038914",
+      "time": "2026-08-13 16:13:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【澤璟製藥：2026年8月12日重新遞交H股上市申請】澤璟製藥公告，公司於2026年8月12日重新向香港聯交所遞交了發行H股股票並在香港聯交所主機板掛牌上市的申請，並於同日在香港聯交所網站刊登了本次發行上市的申請材料。該申請材料為草擬版本，所載資料可能會適時作出更新及修訂。本次發行上市尚需取得中國證監會、香港證監會和香港聯交所等相關機構的備案、批准或核准，該事項仍存在不確定性。"
+    },
+    {
+      "id": "5038913",
+      "time": "2026-08-13 16:12:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北方稀土旗下包頭稀土研究院增資至6.1億 增幅約14%】天眼查App顯示，近日，包頭稀土研究院發生工商變更，註冊資本由約5.3億人民幣增至約6.1億人民幣，增幅約14%。包頭稀土研究院成立於1994年12月，法定代表人為劉振剛，經營範圍包括稀土功能材料銷售、稀有稀土金屬冶煉、新材料技術研發、磁性材料生產等，由中國北方稀土（集團）高科技股份有限公司、包頭鋼鐵（集團）有限責任公司、內蒙古國有資本運營有限公司共同持股。"
+    },
+    {
+      "id": "5038912",
+      "time": "2026-08-13 16:12:09",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【長鑫超越騰訊，成為中國市值最大的上市公司】截至港股收盤，騰訊控股下跌4.46%，市值報4萬億港元，約合3.44萬億人民幣。長鑫科技今日收盤市值為3.54萬億人民幣，已超越騰訊，成為中國市值最大的上市公司。"
+    },
+    {
+      "id": "5038911",
+      "time": "2026-08-13 16:11:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報64.38美元/盎司。"
+    },
     {
       "id": "mkt:019ffa2d-3507-7aab-901e-ab9cb04aff02",
       "time": "2026-08-13 16:11:34",
@@ -137922,196 +138162,6 @@
         "公司"
       ],
       "text": "【東華軟體、佛山國資等成立新能源產業發展公司】企查查APP顯示，近日，廣東神州時投新能源產業發展有限責任公司成立，法定代表人為楊子鋒，註冊資本為1000萬元，經營範圍包含：儲能技術服務；太陽能發電技術服務；光伏發電裝置租賃；太陽能熱利用裝備銷售等。企查查股權穿透顯示，該公司由東華軟體全資子公司北京神州新橋科技有限公司、佛山市石恆儲能技術有限公司等共同持股。"
-    },
-    {
-      "id": "5028319",
-      "time": "2026-08-06 16:20:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京園林綠化領域機器人應用專題推進會召開】據北京市經濟和資訊化局訊息，8月5日下午，北京市經濟和資訊化局聯合北京市園林綠化局，在通州區大運河文化旅遊景區管理中心召開園林機器人應用專題推進會。會議指出，市屬公園、綠道、重點林區豐富的戶外實景，是人形機器人、具身智慧產品迭代驗證、規模化落地的優質實訓載體，推廣園林機器人是提升首都園林綠化精細化管理、賦能首都花園城市建設的重要抓手。北京市經濟和資訊化局、北京市園林綠化局將持續常態化組織細分領域機器人供需對接活動。下一步，兩部門將彙總本次會議的場景需求與合作意向清單，建立園林機器人常態化對接機制，推進實地踏勘與示範試點建設；持續挖掘綠化養護、生物多樣性監測、森林防火等細分場景，加快適配型機器人方案落地試用，打造可複製推廣的智慧園林應用樣板，推動首都園林綠化領域提質增效與本地機器人產業協同高質量發展。"
-    },
-    {
-      "id": "mkt:019fd628-1bc8-7aab-8f9d-c3c208db435a",
-      "time": "2026-08-06 16:19:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's Yaroslavl regional governor said a local oil refinery caught fire after a drone strike."
-    },
-    {
-      "id": "5028318",
-      "time": "2026-08-06 16:19:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯雅羅斯拉夫爾州煉油廠遭無人機襲擊起火。"
-    },
-    {
-      "id": "5028317",
-      "time": "2026-08-06 16:19:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "雙匯發展：延期披露2026年半年度報告至8月29日。"
-    },
-    {
-      "id": "5028316",
-      "time": "2026-08-06 16:19:24",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【長飛光纖：股票交易異常波動 不存在應披露未披露重大資訊】長飛光纖公告稱，公司股票於2026年8月4日至8月6日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動情形。經自查及向大股東詢證，截至公告披露日，公司日常經營正常，行業環境未變，公司及大股東均無應披露未披露重大資訊，董監高及大股東在異常波動期間無買賣公司股票情況。提醒投資者注意交易風險，理性投資。"
-    },
-    {
-      "id": "mkt:019fd627-7dd6-7aab-8f9d-be44667f8575",
-      "time": "2026-08-06 16:19:00",
-      "tags": [
-        "MKT News",
-        "Brent"
-      ],
-      "text": "【Pakistan PM visits Saudi Arabia; mediation efforts continue】Pakistan Prime Minister Shahbaz Sharif is undertaking a two-day visit to Saudi Arabia to consolidate bilateral ties and discuss regional and international issues. He is scheduled to meet Crown Prince Mohammed bin Salman. The Pakistani delegation includes the deputy prime minister and foreign minister, the army chief of staff, the chief of defence and other ministers. On the US-Iran conflict, a Pakistani foreign ministry spokesperson said Islamabad is consulting with other countries on the Middle East crisis and the security situation in the Strait of Hormuz and will continue efforts to seek a comprehensive, sustainable resolution."
-    },
-    {
-      "id": "te:economy:573338",
-      "time": "2026-08-06 16:18:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Taiwan",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Taiwan Annual Inflation Slows in July — Taiwan's annual inflation eased to 2.54% in July 2026 from 2.6% in June, marking the first slowdown in five months but exceeding market expectations of 2.4%. Inflation stayed above the central bank's 2% target for a third consecutive month, as renewed tensions in the Middle East kept global energy prices elevated. The moderation was driven by softer inflation for commodity goods (2.32% vs. 2.49%) and housing (2.20% vs. 2.32%), while clothing inflation edged up (1.67% vs. 1.66%). In contrast, food inflation accelerated to 2.49% from 1.78%, the highest since September 2025. Services inflation also picked up to 2.85% from 2.57%, while inflation accelerated for transport and communication (4.14% vs. 2.72%), health (0.97% vs. 0.76%), and education and entertainment (3.60% vs. 3.22%). On a monthly basis, consumer prices rose 0.18%, the lowest level since the start of the year, after a 0.21% gain in June."
-    },
-    {
-      "id": "5028315",
-      "time": "2026-08-06 16:18:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【江南新材：股票交易異常波動 向特定物件發行股票事項存不確定性】江南新材公告稱，公司股票於2026年8月4日至8月6日連續3個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動。經自查，公司生產經營正常，除2026年度向特定物件發行A股股票相關事項外，無應披露未披露重大資訊。本次發行尚需股東會審議、上交所稽核及證監會批覆，存在不確定性，提醒投資者注意風險。"
-    },
-    {
-      "id": "5028314",
-      "time": "2026-08-06 16:18:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川資陽市委原副書記、市政府原市長王善平一審獲刑十一年】8月6日，四川省成都市中級人民法院一審公開宣判四川省資陽市委原副書記、市政府原市長王善平受賄案，對被告人王善平以受賄罪判處有期徒刑十一年，並處罰金人民幣四百萬元 ；對扣押在案的王善平受賄所得財物予以追繳，上繳國庫，不足部分繼續追繳。經審理查明：2003年至2024年，被告人王善平利用擔任四川省萬源市市長，開江縣縣委書記，渠縣縣委書記，達州市副市長，四川省扶貧移民局副局長，巴中市副市長、市委副書記，南充市委副書記，資陽市委副書記、市長等職務上的便利以及職權、地位形成的便利條件，為他人在專案承攬、資金撥付、企業經營、職務調整等事項上提供幫助，非法收受財物共計人民幣4132萬餘元。"
-    },
-    {
-      "id": "te:economy:573336",
-      "time": "2026-08-06 16:17:47",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Italy",
-        "Industrial Production Mom",
-        "Importance 2"
-      ],
-      "text": "Italy Industrial Output Drops Further in June — Italy’s industrial production dropped 1% month-on-month in June 2026, following a 0.3% fall in May and missing market expectations for a 0.3% rise. The downturn was broad-based, with output falling further for capital goods (-2.1% vs -0.2% in May), intermediate goods (-0.9% vs -0.7%), and consumer goods (-0.7% vs -0.4%). Energy production growth also slowed sharply to 0.8% from 4.4%. Yearly, industrial output fell 0.6%, reversing an upwardly revised 1.2% rise in May and against expectations of a 1% gain. Consumer goods (-3.2% vs -2.9%) and intermediate goods (-1.2% vs 0.8%) posted declines, while growth in capital goods eased significantly (0.6% vs 4.9%). Energy output, meanwhile, increased further (1.7% vs 1.5%). By industry, the largest annual declines were reported in the manufacture of textiles, clothing, leather, and related accessories (-7.1%), other manufacturing activities, repair and installation of machinery and equipment (-3.6%), and machinery and equipment n.e.c. (-2.3%)."
-    },
-    {
-      "id": "5028313",
-      "time": "2026-08-06 16:17:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【春光科技：更新向特定物件發行A股股票申請檔案】春光科技公告稱，公司於2026年6月18日收到上交所《稽核問詢函》，已會同相關中介機構進行研究落實，形成說明和回覆，並對募集說明書等申請檔案進行補充修訂。本次向特定物件發行股票事項尚需透過上交所稽核，並獲中國證監會同意註冊，最終能否透過及時間尚不確定。公司將按規定及時披露進展，提醒投資者注意風險。"
-    },
-    {
-      "id": "5028311",
-      "time": "2026-08-06 16:16:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬得凱：發行股份及支付現金購買資產事項有序推進】萬得凱公告稱，公司擬透過發行股份及支付現金，向4名交易對方購買曾瑞智控100%股權，同時向不超35名特定物件募資。交易預計不構成關聯、重大資產重組及重組上市。公司股票3月24日起停牌，4月8日起復牌。截至公告披露日，相關盡調、審計、評估等工作正有序推進，後續還需董事會、股東會審議及監管機構批准，能否獲批及時間均不確定。"
-    },
-    {
-      "id": "5028310",
-      "time": "2026-08-06 16:15:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國鐵建等在新疆成立智行交通科技公司】企查查APP顯示，近日，新疆橋航智行交通科技有限公司成立，法定代表人為李承洪，註冊資本為1000萬元，經營範圍包含：智慧車載裝置製造；物聯網裝置銷售；新能源汽車整車銷售；機動車充電銷售；集中式快速充電站等。企查查股權穿透顯示，該公司由中國鐵建全資子公司中國鐵建大橋工程局集團有限公司、北京航領大通科技有限公司共同持股。"
-    },
-    {
-      "id": "5028309",
-      "time": "2026-08-06 16:15:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百隆東方：2026年上半年淨利潤5.59億元，同比增43.45%】百隆東方公告，2026年上半年營業收入42.74億元，同比增長19.03%；歸屬於上市公司股東的淨利潤5.59億元，同比增長43.45%；扣非淨利潤5.29億元，同比增長46.68%。上年同期淨利潤3.9億元。公司擬每股派發現金紅利0.18元（含稅）。"
-    },
-    {
-      "id": "5028308",
-      "time": "2026-08-06 16:15:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鵬鼎控股：7月合併營收32.01億元，同比增6.61%】鵬鼎控股公告，2026年7月合併營業收入為人民幣32.01億元，較去年同期的合併營業收入增加6.61%。"
-    },
-    {
-      "id": "5028307",
-      "time": "2026-08-06 16:14:35",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【新華保險、國泰海通在北京成立私募基金】天眼查App顯示，近日，北京匯珩一期私募投資基金合夥企業（有限合夥）成立，執行事務合夥人為國泰君安創新投資有限公司，出資額7億人民幣，經營範圍包括以私募基金從事股權投資、投資管理、資產管理等活動，由新華人壽保險股份有限公司、國泰君安創新投資有限公司共同出資。"
-    },
-    {
-      "id": "mkt:019fd622-f215-7aab-8f9d-b3845245401c",
-      "time": "2026-08-06 16:14:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Panama establishes Panama Canal Special Area Security Joint Command】The Panamanian government on the 5th established a Panama Canal Special Area Security Joint Command to coordinate security operations in designated canal zones."
-    },
-    {
-      "id": "5028306",
-      "time": "2026-08-06 16:13:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風影響 浙江舟山水上客運航線已停航21條 寧波關停涉海景區】今年第13號颱風“白海豚”逐步向浙江沿海靠近，風力持續增強。舟山海事局已於8月5日20時啟動Ⅲ級防颱應急響應。受海上大風影響，截至6日15時，舟山21條水上客運航線已停航；朱家尖至普陀山航線的客船將於8月6日20時開行最後一班，之後該航線將全線停航，預計停航4~5天，屆時舟山72條水上客運航線將全部停航。海事部門提醒，暑期計劃前往海島的旅客，請密切關注官方颱風預警與航線停復航資訊，合理調整出行安排，颱風影響期間暫緩前往浙江沿海海島。（央視新聞）"
-    },
-    {
-      "id": "mkt:019fd622-77fd-7aab-8f9d-a8b8edbcfcb4",
-      "time": "2026-08-06 16:13:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "03750.HK",
-        "01211.HK"
-      ],
-      "text": "【Hong Kong close: HSI down 1.49%, Hang Seng Tech down 2.28%】Hong Kong stocks closed lower; HSI fell 1.49% and the Hang Seng Tech Index fell 2.28%. Market turnover was HK$255.23bn. Losses were led by lithium‑battery names, autos, robotics and semiconductors; coal, gold and optical‑communications stocks outperformed. Notable movers: 09903.HK down >7%, CATL (03750.HK) down >5%, BYD (01211.HK) down >4%; China Silver Group (00815.HK) up >9%, 01171.HK up >6%, 03308.HK up >3%."
-    },
-    {
-      "id": "5028305",
-      "time": "2026-08-06 16:12:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴拿馬設立運河特定區域安全聯合指揮部】巴拿馬政府5日宣佈設立巴拿馬運河特定區域安全聯合指揮部，負責統籌運河特定區域安全保障工作。巴拿馬公共安全部當天釋出行政決議表示，為落實公共安全部與巴拿馬運河管理局關於運河特定區域監視、安全和保護服務的框架協議，設立巴拿馬運河特定區域安全聯合指揮部。決議稱，巴拿馬運河是具有國家和國際戰略意義的重要基礎設施，其流域及周邊地區面臨氣候變化、環境、網路安全、跨國犯罪等多方面風險挑戰。設立聯合指揮部旨在加強對運河及相關關鍵基礎設施的保護，保障運河持續、安全執行。（新華社）"
-    },
-    {
-      "id": "5028304",
-      "time": "2026-08-06 16:12:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國日前基荷電力價格上漲22.4%，至125.5歐元/兆瓦時。"
     }
   ]
 }
