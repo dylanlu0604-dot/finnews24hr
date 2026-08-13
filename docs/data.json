@@ -1,7 +1,75 @@
 {
-  "updated": "2026-08-14 00:01:11",
-  "count": 15231,
+  "updated": "2026-08-14 00:05:12",
+  "count": 15230,
   "items": [
+    {
+      "id": "5039870",
+      "time": "2026-08-14 00:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：還與CHAD PEETS和RPT PARTNERS建立了戰略合作伙伴關係。"
+    },
+    {
+      "id": "5039869",
+      "time": "2026-08-14 00:02:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI任命DALI RAJIC為首席營收官。"
+    },
+    {
+      "id": "5039868",
+      "time": "2026-08-14 00:02:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【私募信貸上演“搶鹽大戰”：“什麼都行，就是別碰軟體”】一份最近在業內流傳的、帶有調侃意味的私募信貸術語表中，通常代表資產支援證券(asset-backed securities)的縮寫ABS，被戲稱為“Anything But Software” —— “什麼都行，就是別碰軟體”。軟體公司曾經是市場寵兒，如今卻備受冷落，因為人工智慧可能徹底顛覆它們的商業模式。雖然大量融資活動已經轉向支援AI基礎設施建設熱潮，但重資產、傳統經濟企業也越來越受到私募信貸市場青睞。以American Rock Salt為例，這家公司開採和銷售道路用鹽以及其他氯化鈉產品。儘管其信用評級屬於垃圾級，貸款機構目前卻在激烈爭搶這筆生意。"
+    },
+    {
+      "id": "mkt:019ffbda-e105-7aab-902a-9d0e1ca5bb2c",
+      "time": "2026-08-14 00:00:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. mortgage rates ticked down slightly, the first decline in six weeks."
+    },
+    {
+      "id": "mkt:019ffbda-c3b4-7aab-902a-9574a1bac430",
+      "time": "2026-08-14 00:00:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fannie Mae said the U.S. 30-year fixed-rate mortgage averaged 6.67% in the week of Aug. 13, down from 6.69% the prior week."
+    },
+    {
+      "id": "5039867",
+      "time": "2026-08-14 00:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國抵押貸款利率六週來首次小幅回落。"
+    },
+    {
+      "id": "5039866",
+      "time": "2026-08-14 00:00:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "房地美：截至8月13日當週，美國30年期固定抵押貸款平均利率為6.67%，前一週為6.69%。"
+    },
+    {
+      "id": "te:economy:575161",
+      "time": "2026-08-14 00:00:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Balance of Trade",
+        "Importance 0"
+      ],
+      "text": "Poland Trade Deficit Widens in June — Poland’s trade deficit widened sharply to €1.47 billion in June 2026, from €0.13 billion in the same month a year earlier. Imports increased 16.9% year-on-year to €33.47 billion, driven mainly by higher purchases of supplies and capital goods, while rising fuel prices also contributed to the increase. The continued growth in computer hardware exports was reflected in stronger imports of related parts and components. Meanwhile, exports rose 12.3% to €32 billion, supported by significant increases in sales of computer equipment, raw silver and refined copper. However, exports from the automotive and furniture industries declined."
+    },
     {
       "id": "5039865",
       "time": "2026-08-13 23:58:11",
@@ -139296,86 +139364,6 @@
         "Importance 0"
       ],
       "text": "Cheese Hits 4-week Low — Cheese decreased to 1.61 USD/Lbs, the lowest since July 2026. Over the past 4 weeks, Cheese gained 0.87%, and in the last 12 months, it decreased 8.48%."
-    },
-    {
-      "id": "5029301",
-      "time": "2026-08-07 00:04:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚將規模達 800 億美元的卡沙甘油田新專案與爭端的解決掛鉤  。"
-    },
-    {
-      "id": "mkt:019fd7d0-b1a1-7aab-8fa4-9f82a623ccb9",
-      "time": "2026-08-07 00:03:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold turned lower intraday, down 0.2% at $4,237/oz."
-    },
-    {
-      "id": "5029300",
-      "time": "2026-08-07 00:03:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍貓頭鷹：非應計資產規模處於行業同行中最低水平之列。"
-    },
-    {
-      "id": "5029299",
-      "time": "2026-08-07 00:02:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "藍貓頭鷹：場外交易基金（OTF）投資組合幾乎未見人工智慧帶來的衝擊跡象。"
-    },
-    {
-      "id": "mkt:019fd7cf-af2e-7aab-8fa4-94bc034166f0",
-      "time": "2026-08-07 00:02:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "Fitch expects Canada's economic outlook to improve after early-year weakness but says risks from U.S. tariffs and elevated oil prices persist."
-    },
-    {
-      "id": "5029298",
-      "time": "2026-08-07 00:02:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金走勢轉跌，最新下跌0.3%，報每盎司4233.83美元。"
-    },
-    {
-      "id": "5029297",
-      "time": "2026-08-07 00:02:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：霍爾木茲海峽通行費將作為服務費的一部分予以確定。"
-    },
-    {
-      "id": "5029296",
-      "time": "2026-08-07 00:01:50",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國宣佈對古巴實施新一輪制裁】當地時間8月6日，美國財政部網站釋出對古巴新一輪制裁措施。該網站公佈的資訊顯示，美方將6名古巴公民列入制裁名單，另有2名此前已受美國製裁的古巴公民被追加制裁。此外，還有5家位於古巴的實體被列入制裁名單。（央視新聞）"
-    },
-    {
-      "id": "5029295",
-      "time": "2026-08-07 00:01:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：訊息人士否認伊朗與阿曼就貨物價值通行費產生糾紛的相關報道。"
     }
   ]
 }
