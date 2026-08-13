@@ -1,7 +1,38 @@
 {
-  "updated": "2026-08-14 06:39:47",
+  "updated": "2026-08-14 06:43:46",
   "count": 15442,
   "items": [
+    {
+      "id": "te:economy:575195",
+      "time": "2026-08-14 06:40:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate."
+    },
+    {
+      "id": "te:markets:575194",
+      "time": "2026-08-14 06:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%)."
+    },
+    {
+      "id": "5040102",
+      "time": "2026-08-14 06:39:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：電價對通脹率的影響微乎其微。"
+    },
     {
       "id": "5040101",
       "time": "2026-08-14 06:37:14",
@@ -141298,36 +141329,6 @@
         "資料"
       ],
       "text": "【銀行保險資管行業三季度信心調查顯示：權益投資信心環比回升，受訪機構配置意願增強】近期，中國銀行保險資產管理業協會對198家機構（32家銀行理財公司、39家保險資管公司，以及127家保險集團、保險公司）進行調查，形成2026年三季度銀行保險資產管理行業投資信心指數。調查結果顯示，三季度銀行保險資產管理行業權益投資信心指數較二季度有所回升，權益層面風險偏好與配置意願同步回升，結構性機會共識增強。中國銀行保險資產管理業協會表示，銀行保險資管機構整體配置策略保持穩健，多數以維持現有倉位為基礎，透過小幅結構性調整最佳化組合。不同型別機構的配置偏好呈現差異化特徵。其中：受訪保險機構下半年看好股票、債券、證券投資基金三類資產；受訪銀行理財機構則看好“固收+”類資產。（上證報）"
-    },
-    {
-      "id": "5029620",
-      "time": "2026-08-07 06:42:57",
-      "tags": [
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週五財經資訊提醒（以下均為北京時間）】\n① 時間待定 中國7月進出口與貿易帳；\n② 14:00 德國6月工業產出；\n③ 20:30 美國7月非農就業報告（含就業人口、失業率、平均每小時工資），加拿大7月就業報告；\n④ 22:00 美國里士滿聯儲主席Barkin（2027年FOMC票委）參加一場爐邊閒聊，預計將談及經濟等問題；\n⑤ 次日03:00 美國6月消費信貸；\n⑥ 週日00:45 美聯儲理事、負責金融監管事務的副主席鮑曼在“2026年CEO與高階管理峰會與年會”的間隙參加一場線上爐邊閒聊；\n⑦ 週日 CIES 2026第十六屆中國國際儲能大會開幕（8月9-11日）；\n⑧ 週日09:30 中國7月CPI、PPI；\n⑨ 週日可能釋出 中國1-7月社會融資規模增量、新增人民幣貸款、M2等貨幣供應。"
-    },
-    {
-      "id": "5029619",
-      "time": "2026-08-07 06:40:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西石油公司PetroBras二季度調整後EBITDA為938.4億巴西雷亞爾，分析師預期913.7億雷亞爾。\n二季度剔除一次性事件的調整後EBITDA為1006.4億雷亞爾，剔除一次性事件的淨利潤557.6億雷亞爾。\n二季度淨利潤524.5億雷亞爾，分析師預期451.4億雷亞爾。\n二季度銷售1695.3億雷亞爾，分析師預期1616.2億雷亞爾。\n二季度淨債務603.9億雷亞爾。"
-    },
-    {
-      "id": "te:markets:573499",
-      "time": "2026-08-07 06:40:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Tumbles by 5.88% — Top commodity losers are Butter (-5.88%) and Cocoa (-2.77%). Gains are led by Sugar (2.84%) and Barley (2.02%)."
     }
   ]
 }

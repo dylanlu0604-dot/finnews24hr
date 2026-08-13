@@ -1,7 +1,38 @@
 {
   "date": "2026-08-14",
-  "count": 410,
+  "count": 413,
   "items": [
+    {
+      "id": "te:economy:575195",
+      "time": "2026-08-14 06:40:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Manufacturing PMI",
+        "Importance 2"
+      ],
+      "text": "New Zealand Factory Activity Growth Eases — The Business NZ Performance of Manufacturing Index in New Zealand fell to 54.3 in July, down from an upwardly revised 60.1 in June, marking the 21st consecutive month of expansion and remaining well above the long-term average of 52.5. The deceleration in factory activity came as all of the sub-indices expanded at a softer rate."
+    },
+    {
+      "id": "te:markets:575194",
+      "time": "2026-08-14 06:40:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Drops by 3.32% — Top commodity losers are Oat (-3.32%), Corn (-2.13%) and Coffee (-2.11%). Gains are led by Rice (2.01%), Barley (2%) and Sugar (1.95%)."
+    },
+    {
+      "id": "5040102",
+      "time": "2026-08-14 06:39:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：電價對通脹率的影響微乎其微。"
+    },
     {
       "id": "5040101",
       "time": "2026-08-14 06:37:14",
