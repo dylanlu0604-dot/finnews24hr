@@ -1,7 +1,201 @@
 {
   "date": "2026-08-13",
-  "count": 381,
+  "count": 402,
   "items": [
+    {
+      "id": "5038272",
+      "time": "2026-08-13 08:10:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至277.49點。"
+    },
+    {
+      "id": "mkt:019ff874-99f8-7aab-9014-dbfa3c43acf1",
+      "time": "2026-08-13 08:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P/ASX 200 opened down 23.5 points (-0.26%) at 9,185.90 on Aug. 13 (Thursday)."
+    },
+    {
+      "id": "5038270",
+      "time": "2026-08-13 08:10:07",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：3D列印行業仍處於快速發展紅利期，未來5年行業規模有望保持30%複合增速】華泰證券研報表示，軟硬體技術的不斷進步、生成式AI普及、社群生態建設和消費者個性化創作表達，共同推動消費級3D印表機行業持續繁榮，並在全球範圍內快速滲透，消費者的“造物”需求與創意不斷得到滿足。華泰證券認為3D列印破圈得益於以拓竹科技、創想三維等為代表的中國企業依託供應鏈整合、成本控制和技術精進帶來的產品力提升，奠定了中國企業的“鏈主”地位，當前已形成一超多強競爭格局。展望未來，行業仍處於快速發展紅利期，未來5年行業規模有望保持30%複合增速，硬體+耗材+生態將成為競爭關鍵。在產品力仍有進步空間背景下，預計軟硬體研發和生態構建領先的公司將持續展現競爭優勢。"
+    },
+    {
+      "id": "te:markets:574843",
+      "time": "2026-08-13 08:09:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Coherent earnings above expectations at 1.74 USD — Coherent (IIVI) released earnings per share at 1.74 USD, compared to market expectations of 1.62 USD."
+    },
+    {
+      "id": "5038269",
+      "time": "2026-08-13 08:09:29",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本7月批發通脹攀升 加息可能性上升】週四公佈的資料顯示，日本7月批發通脹同比繼續走高，體現物價壓力範圍擴大，強化了市場對9月加息的預期。日本央行資料顯示，7月生產者物價指數同比上漲7.2%，6月修正後漲幅為7.3%；市場預期為上漲7.4%。此前日本央行釋放愈發偏鷹的政策訊號，包括公佈7月會議意見摘要，部分政策制定者呼籲加快加息步伐以應對通脹風險，本次資料正是在此背景下出爐。資料顯示，環比來看，該指數7月微漲0.1%，6月修正後環比上漲0.5%。以日元計價的進口物價指數7月同比上漲29.1%，6月修正後大幅上漲30.1%，表明日元走弱推高進口成本，進而抬升整體通脹水平。日本央行上月維持政策不變，但首次警告核心通脹可能超出目標，並表示後續討論將重點關注物價上行風險，釋放最早9月就可能加息的訊號。"
+    },
+    {
+      "id": "5038268",
+      "time": "2026-08-13 08:08:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "未來資產證券給予北方華創買進的初始評級，目標價1,100元。"
+    },
+    {
+      "id": "5038267",
+      "time": "2026-08-13 08:08:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4480美元/盎司，日內漲0.28%。"
+    },
+    {
+      "id": "5038266",
+      "time": "2026-08-13 08:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【領益智造AIDC業務總部及量產中心專案落戶蘇州】據蘇州日報，8月12日，領益智造AIDC業務總部及量產中心專案簽約落戶蘇州。此次落地相城區的領益智造AIDC業務總部及量產中心專案，佈局建設人工智慧製造驗證中心、AIDC量產中心，推動領益智造新能源汽車及AI產業叢集專案開花結果，帶動算力硬體製造、運營及人工智慧應用等上下游企業集聚。儀式上，相城區人工智慧製造驗證中心，領益智造AIDC製造基地、領益智造和英特爾聯合實驗室揭牌。領益智造與一批生態夥伴簽署合作協議。"
+    },
+    {
+      "id": "5038265",
+      "time": "2026-08-13 08:08:27",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SK海力士領漲韓國晶片股。SK海力士股價早盤上漲6.3%，至1,599,000韓元；三星電子股價早盤上漲4.9%，至268,000韓元。"
+    },
+    {
+      "id": "mkt:019ff872-b8d2-7aab-9014-d6d299bb471b",
+      "time": "2026-08-13 08:08:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【CITIC Securities: Derivatives pricing of Fed rate hikes has further downside】CITIC Securities said in a research note that July US CPI met expectations, core inflation remained mild and second‑round effects were weak, easing inflation risks. The firm judges US inflation is not highly sticky and expects headline CPI YoY to continue moderating through Q3, trough in September, rebound slightly in Q4 and then fall rapidly by March next year. CITIC still forecasts the Fed will keep policy unchanged this year and sees further room for derivatives to reprice lower on rate‑hike expectations."
+    },
+    {
+      "id": "5038264",
+      "time": "2026-08-13 08:07:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4420美元/盎司，日內漲0.26%。"
+    },
+    {
+      "id": "5038263",
+      "time": "2026-08-13 08:07:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：08月13日08時01分在內蒙古錫林郭勒盟蘇尼特左旗（北緯42.95度，東經114.69度）發生3.3級地震，震源深度10千米。"
+    },
+    {
+      "id": "mkt:019ff870-cfaf-7aab-9014-cfb82f3cfd18",
+      "time": "2026-08-13 08:06:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CITIC Securities: Middle East may remain in stalemate as Trump alternates between tactical concessions and escalatory responses】CITIC Securities says the US-Israel-Iran confrontation has been extended for more than five months. A reported Iran-Oman maritime transit agreement would not eliminate Strait transit risk; the deal functions primarily as an Iranian leverage tool and is unlikely to make meaningful progress because Iran’s hardline posture threatens Trump’s political legacy. Structural disputes over control of the strait make a long-term, stable management regime unlikely. Market-relevant watchpoints are whether the US formally grants sanctions exemptions, unfreezes assets, or alters maritime blockade measures. In the near term, even if a management arrangement and blockade relief are reached, shipping volumes may not rapidly or fully return to pre-conflict levels, sustaining upward pressure on global inflation while leaving extreme disruption risk contained. Over the longer term, the contest around the Strait of Hormuz signals a declining US capacity and willingness to uphold the existing global order, which will accelerate Middle East geopolitical realignment and prompt global supply-chain reconfiguration."
+    },
+    {
+      "id": "5038262",
+      "time": "2026-08-13 08:06:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價早盤上漲6.3%，至1,599,000韓元。"
+    },
+    {
+      "id": "5038261",
+      "time": "2026-08-13 08:05:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【調查：絕大多數日本企業尚未全面採用人工智慧】路透週四公佈的一項調查顯示，超過80%的日本企業在運營中僅在有限範圍內使用人工智慧（AI），或根本未採用，這一趨勢可能阻礙政府提高生產率的努力。約60%受訪者表示，AI僅應用於公司部分業務或以其他有限方式使用。另有18%表示尚未決定是否將AI引入工作場所，6%甚至未考慮採用AI。調查顯示，其餘16%的企業已將AI作為不可或缺的工具部署在整個公司。“我們已開始在全公司範圍內使用AI，但其應用僅限於建立文件等任務。”某批發商的經理在調查中寫道。另一家房地產公司的主管表示，“我們不知該如何將它投入使用。”政府今年的一份報告顯示，日本在AI應用方面落後於其他工業強國：有86.4%日企至少在一項任務中使用生成式AI；而中國為98.1%、德國為91.6%、美國為90.9%。"
+    },
+    {
+      "id": "mkt:019ff86e-9425-7aab-9014-c7fc187b9cc8",
+      "time": "2026-08-13 08:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "South Korea's KOSPI jumped 4.00% intraday to 6,843.21 points."
+    },
+    {
+      "id": "5038260",
+      "time": "2026-08-13 08:03:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲4%，至6843.21點。"
+    },
+    {
+      "id": "5038259",
+      "time": "2026-08-13 08:03:16",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：預計美聯儲今年全年按兵不動】中信證券表示，美國7月CPI全面符合預期，核心通脹延續溫和表現，二次通脹效應微弱，這有助於進一步緩解市場對通脹風險的擔憂。我們仍認為美國通脹粘性不強，預計美國總體CPI同比在三季度內將大致延續溫和放緩趨勢並於9月觸底，此後在今年四季度稍有反彈並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品市場定價的加息預期還有進一步下修的空間。"
+    },
+    {
+      "id": "5038257",
+      "time": "2026-08-13 08:02:08",
+      "tags": [],
+      "text": "三星電子漲4％，SK海力士漲5％。"
+    },
+    {
+      "id": "mkt:019ff86c-e18a-7aab-9014-bcf88f22652f",
+      "time": "2026-08-13 08:01:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened up 580.21 points, or 0.86%, at 68,104.27 on Thursday, Aug. 13."
+    },
     {
       "id": "mkt:019ff86c-cebc-7aab-9014-b7082cd523cb",
       "time": "2026-08-13 08:01:48",
@@ -9,6 +203,15 @@
         "MKT News"
       ],
       "text": "KOSPI index opened up 224.51 points, +3.41%, at 6,803.55 on Thursday, Aug. 13."
+    },
+    {
+      "id": "5038256",
+      "time": "2026-08-13 08:01:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲超4%。"
     },
     {
       "id": "mkt:019ff86c-a589-7aab-9014-adf7e0a33813",
