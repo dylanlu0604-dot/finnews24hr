@@ -1,7 +1,68 @@
 {
-  "updated": "2026-08-13 08:22:35",
-  "count": 15045,
+  "updated": "2026-08-13 08:26:23",
+  "count": 15044,
   "items": [
+    {
+      "id": "mkt:019ff882-d022-7aab-9015-10c749329105",
+      "time": "2026-08-13 08:25:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mexico seeks lower auto tariffs in US trade talks】WSJ reported, citing people familiar with talks, that Mexico is pressing the US to lower tariffs on North American autos as part of discussions to revise the US‑Mexico‑Canada Agreement. The demand responds to the Trump administration’s prior push for more US‑made auto content; the administration currently applies a 25% tariff on the portion of a vehicle’s value attributable to parts not made in the US for autos from Canada and Mexico. Mexico’s recent proposal would broaden the range of tariff‑exempt parts and cut the peak North American auto tariff from 25% to a lower rate, possibly 5%–10%. Under the proposal the US would levy duties only on the value of parts produced outside North America, effectively exempting parts made in Mexico and Canada."
+    },
+    {
+      "id": "5038297",
+      "time": "2026-08-13 08:25:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴西最高法院維持了與亞馬遜雨林砍伐協議破裂相關的法律】巴西最高法院週三維持了各州的相關法律，這些法律實際上終結了一項具有里程碑意義的舉措——該舉措曾被認為有效遏制了為種植大豆而導致的亞馬遜雨林砍伐。大法官們駁回了農民關於這項實施了20年的自願性“大豆暫停令”違法的主張，從而使穀物貿易商和加工商免於承擔農民索賠的數十億雷亞爾潛在損害賠償。但法院支援各州採取的措施，例如馬託格羅索州去年撤銷參與該暫停令企業稅收優惠的舉措。"
+    },
+    {
+      "id": "5038296",
+      "time": "2026-08-13 08:24:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：指標利率上調正在產生預期效果。"
+    },
+    {
+      "id": "5038295",
+      "time": "2026-08-13 08:24:25",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【零跑創始人談造車：已越過最難熬的節點】8月11日，他在A05上市釋出會後的溝通會上，罕見地用“快樂”來形容自己的造車心境，稱自己已經過了“最驚嚇的那一段”，進入了“感覺有點快樂的階段”。根據乘聯分會的最新資料，7月全國乘用車市場零售146.1萬輛，同比下降20.9%，環比下降8.8%；今年以來累計零售1017.3萬輛，同比下降20.3%。而在新勢力陣營中，頭部車企月銷突破10萬輛，腰部仍在3萬輛關口膠著，尾部則繼續下滑。在中國車市加速分化的競爭格局中，朱江明這樣的表態，具有一定的風向標意義。（一財）"
+    },
+    {
+      "id": "5038294",
+      "time": "2026-08-13 08:23:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：稅收政策變化似乎是導致房地產市場低迷的原因之一。"
+    },
+    {
+      "id": "5038293",
+      "time": "2026-08-13 08:22:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【凱投宏觀：韓國由晶片驅動的繁榮或在2028年失去動力】凱投宏觀的Marcel Thieliant表示，儘管近期國內生產總值(GDP)增長存在上行風險，但韓國由半導體驅動的經濟繁榮可能會在兩年內失去動力。該經濟學家預計，美國人工智慧投資熱潮將在2028年失去動力，這可能會促使韓國晶片製造商開始削減資本支出，因為該行業具有高度週期性。Thieliant指出，三星電子和SK海力士宣佈了一項合計800萬億韓圓的投資計劃，將在韓國西南部建設新的晶片製造廠，不過時間表尚未披露。他指出，隨著疫情後的電子產品繁榮逆轉，SK海力士在2023年將其資本支出削減了三分之二。"
+    },
+    {
+      "id": "te:markets:574854",
+      "time": "2026-08-13 08:22:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Edges Higher on Tame US Inflation Data — Silver rose to around $66 an ounce on Thursday, hovering near seven-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Precious metals also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement."
+    },
     {
       "id": "5038292",
       "time": "2026-08-13 08:21:29",
@@ -137196,82 +137257,6 @@
         "國際"
       ],
       "text": "【日本前首相岸田稱美日干預只是短暫支撐 增長戰略才能改變日元格局】日本前首相岸田文雄表示，美日聯合干預暫時支撐了日元，但這並不會從根本上改變日元匯率或經濟格局，稱370萬億日元（2.3萬億美元）的增長戰略將是改變日本命運的長期願景。岸田文雄在接受採訪時表示，“就匯率而言，這或許能爭取一些時間，但除非基本經濟形勢和更廣泛的環境發生變化，否則最終可能起不到更大的作用。”美國和日本週一宣佈，他們已於上週五干預外匯市場以支撐日元匯率。"
-    },
-    {
-      "id": "5027649",
-      "time": "2026-08-06 08:25:32",
-      "tags": [
-        "市場",
-        "國際",
-        "原創"
-      ],
-      "text": "【韓國單隻股票槓桿ETF日均成交額首次跌破1萬億韓元】韓國交易所週四公佈資料顯示，在監管機構出臺限制措施後，16只單隻股票槓桿ETF的日均成交額週三降至9198億韓元，自5月27日上市以來首次跌破1萬億韓元。上週五，韓國金融監管機構提高了投資單隻股票槓桿ETF的最低現金保證金要求，資料顯示，這16只槓桿ETF上週五的日成交額從前一日的12.4萬億韓元暴跌至3.1萬億韓元，週一降至1.3萬億韓元，週二進一步降至1.2萬億韓元。"
-    },
-    {
-      "id": "mkt:019fd475-e25a-7aab-8f95-e137ee2cd6dc",
-      "time": "2026-08-06 08:25:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Maritime Trade Operations said the crew and vessel are safe and no environmental damage has been reported."
-    },
-    {
-      "id": "mkt:019fd475-a709-7aab-8f95-d93e202cbf0f",
-      "time": "2026-08-06 08:25:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "2027 FOMC voter and San Francisco Fed President Daly will speak in 10 minutes."
-    },
-    {
-      "id": "mkt:019fd475-856b-7aab-8f95-d2474d816df1",
-      "time": "2026-08-06 08:24:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "UK Maritime Trade Operations (UKMTO) reported an incident 9 nm southeast of Kumzar, Oman; a tanker master reported hearing two explosions while transiting the Strait of Hormuz."
-    },
-    {
-      "id": "5027648",
-      "time": "2026-08-06 08:24:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯：德黑蘭方面開展談判將會十分艱難，且耗時漫長】美國副總統萬斯表示，伊朗內部擁有一個“分裂的體系”，部分派系希望結束戰爭，另一些派系則希望衝突持續。他警告稱，與德黑蘭方面開展談判將會十分艱難，且耗時漫長。萬斯在接受媒體採訪時稱，美國的任務是應對伊朗的內部分歧，同時運用軍事、經濟以及外交手段，爭取實現他口中對美國有利的結果。“伊朗人是非常難以對付的人，其次，他們的體系內部存在分裂，” 萬斯補充道，“一部分人希望結束戰爭，而另一部分極端激進分子則希望戰火延續。”“我們的任務就是周旋其中，為美國民眾爭取最優結果。” 他表示，“我清楚我們最終的目標方向，但過程將會錯綜複雜，達成目標尚需時日。”"
-    },
-    {
-      "id": "5027647",
-      "time": "2026-08-06 08:24:20",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "英國海上貿易行動辦公室（UKMTO）表示已收到報告，阿曼庫姆扎爾東南9海里處發生一起事故。一艘油輪的船長報告稱，在透過霍爾木茲海峽時聽到兩聲爆炸。"
-    },
-    {
-      "id": "mkt:019fd474-75a4-7aab-8f95-cf2fcafdfb20",
-      "time": "2026-08-06 08:23:49",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bearish"
-      ],
-      "text": "SoftBank shares extended losses, down 4.5%."
-    },
-    {
-      "id": "5027646",
-      "time": "2026-08-06 08:23:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：08月06日08時15分在西藏林芝市墨脫縣（北緯28.97度，東經94.91度）發生4.2級地震，震源深度10千米。"
     }
   ]
 }

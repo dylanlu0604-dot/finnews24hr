@@ -1,7 +1,68 @@
 {
   "date": "2026-08-13",
-  "count": 433,
+  "count": 440,
   "items": [
+    {
+      "id": "mkt:019ff882-d022-7aab-9015-10c749329105",
+      "time": "2026-08-13 08:25:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mexico seeks lower auto tariffs in US trade talks】WSJ reported, citing people familiar with talks, that Mexico is pressing the US to lower tariffs on North American autos as part of discussions to revise the US‑Mexico‑Canada Agreement. The demand responds to the Trump administration’s prior push for more US‑made auto content; the administration currently applies a 25% tariff on the portion of a vehicle’s value attributable to parts not made in the US for autos from Canada and Mexico. Mexico’s recent proposal would broaden the range of tariff‑exempt parts and cut the peak North American auto tariff from 25% to a lower rate, possibly 5%–10%. Under the proposal the US would levy duties only on the value of parts produced outside North America, effectively exempting parts made in Mexico and Canada."
+    },
+    {
+      "id": "5038297",
+      "time": "2026-08-13 08:25:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【巴西最高法院維持了與亞馬遜雨林砍伐協議破裂相關的法律】巴西最高法院週三維持了各州的相關法律，這些法律實際上終結了一項具有里程碑意義的舉措——該舉措曾被認為有效遏制了為種植大豆而導致的亞馬遜雨林砍伐。大法官們駁回了農民關於這項實施了20年的自願性“大豆暫停令”違法的主張，從而使穀物貿易商和加工商免於承擔農民索賠的數十億雷亞爾潛在損害賠償。但法院支援各州採取的措施，例如馬託格羅索州去年撤銷參與該暫停令企業稅收優惠的舉措。"
+    },
+    {
+      "id": "5038296",
+      "time": "2026-08-13 08:24:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：指標利率上調正在產生預期效果。"
+    },
+    {
+      "id": "5038295",
+      "time": "2026-08-13 08:24:25",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【零跑創始人談造車：已越過最難熬的節點】8月11日，他在A05上市釋出會後的溝通會上，罕見地用“快樂”來形容自己的造車心境，稱自己已經過了“最驚嚇的那一段”，進入了“感覺有點快樂的階段”。根據乘聯分會的最新資料，7月全國乘用車市場零售146.1萬輛，同比下降20.9%，環比下降8.8%；今年以來累計零售1017.3萬輛，同比下降20.3%。而在新勢力陣營中，頭部車企月銷突破10萬輛，腰部仍在3萬輛關口膠著，尾部則繼續下滑。在中國車市加速分化的競爭格局中，朱江明這樣的表態，具有一定的風向標意義。（一財）"
+    },
+    {
+      "id": "5038294",
+      "time": "2026-08-13 08:23:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：稅收政策變化似乎是導致房地產市場低迷的原因之一。"
+    },
+    {
+      "id": "5038293",
+      "time": "2026-08-13 08:22:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【凱投宏觀：韓國由晶片驅動的繁榮或在2028年失去動力】凱投宏觀的Marcel Thieliant表示，儘管近期國內生產總值(GDP)增長存在上行風險，但韓國由半導體驅動的經濟繁榮可能會在兩年內失去動力。該經濟學家預計，美國人工智慧投資熱潮將在2028年失去動力，這可能會促使韓國晶片製造商開始削減資本支出，因為該行業具有高度週期性。Thieliant指出，三星電子和SK海力士宣佈了一項合計800萬億韓圓的投資計劃，將在韓國西南部建設新的晶片製造廠，不過時間表尚未披露。他指出，隨著疫情後的電子產品繁榮逆轉，SK海力士在2023年將其資本支出削減了三分之二。"
+    },
+    {
+      "id": "te:markets:574854",
+      "time": "2026-08-13 08:22:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Edges Higher on Tame US Inflation Data — Silver rose to around $66 an ounce on Thursday, hovering near seven-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Precious metals also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement."
+    },
     {
       "id": "5038292",
       "time": "2026-08-13 08:21:29",
