@@ -1,7 +1,44 @@
 {
   "date": "2026-08-14",
-  "count": 511,
+  "count": 516,
   "items": [
+    {
+      "id": "5040171",
+      "time": "2026-08-14 07:55:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：在過去48小時內，多家媒體報道了與“亞伯拉罕·林肯”號航空母艦（CVN 72）部署中東相關的多項虛假宣告。其中一則報道聲稱有七名水兵在航母上的一場鬥毆中喪生，其他報道則最近暗示自殺意念激增。這些報道是虛假的。事實是：“亞伯拉罕·林肯”號一直保持著美國海軍所有航母中最高的船員續服率之一（84.4%）。亞伯拉罕·林肯航母打擊群的水兵和海軍陸戰隊員在海上超過260天、執行10,000次飛機飛行並消耗150萬磅彈藥後，依然保持著堅韌和決心。航母上沒有服役人員死亡，而8月3日有一名落水的水兵已被迅速且安全地救回。對“亞伯拉罕·林肯”號歷史性部署的肆意錯誤報道是對我們軍服人員及其親人的不公。"
+    },
+    {
+      "id": "te:markets:575205",
+      "time": "2026-08-14 07:54:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Strong Session — US stock futures were little changed on Friday after the major averages advanced in the previous session, with the S&P 500 reaching fresh record highs. In regular trading on Thursday, the S&P 500 and Nasdaq Composite rose 0.65% and 0.81%, respectively, putting both benchmarks on course for their third straight weekly gains. The Dow also climbed 70 points, although it remained set to finish the week lower. Seven of the 11 S&P sectors ended in positive territory, led by communication services, real estate and technology stocks. The gains came after headline and core producer prices rose less than expected in July, reinforcing the previous day’s tame CPI report and easing recent concerns over hawkish signals from FOMC members. Investors now turn their attention to July retail sales data for further clues on the strength of the economy. Meanwhile, no major earnings reports are scheduled for Friday."
+    },
+    {
+      "id": "5040170",
+      "time": "2026-08-14 07:53:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【從行業倡議到立法破局 反內捲進入制度化治理新階段】2024年7月，中共中央政治局會議首次提出防止“內卷式”惡性競爭。兩年多來，“內卷式”競爭治理持續進階，從個別行業發起自律倡議，演進為制度規則、行業標準、監管執法多管齊下的綜合治理格局。綜合整治“內卷式”競爭，既是攻堅戰，也是持久戰。2026年7月召開的中共中央政治局會議提出“繼續綜合整治‘內卷式’競爭”，強調將“制定實施全國統一大市場建設條例”。受訪專家認為，隨著未來全國統一大市場建設條例出臺，整治“內卷式”競爭將進入制度化長效治理的關鍵階段。"
+    },
+    {
+      "id": "5040169",
+      "time": "2026-08-14 07:53:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國白宮：恢復美國的海上主導地位。今天，特朗普總統簽署了一份國家安全總統備忘錄，以果斷引領一個新的海上黃金時代，擴大商業造船能力，打造具備抗壓能力的勞動力隊伍，並重振這一關鍵產業。"
+    },
     {
       "id": "5040168",
       "time": "2026-08-14 07:50:54",
@@ -50,6 +87,15 @@
         "Important"
       ],
       "text": "Japan | Weekly Foreign investment in Japanese Bonds (Aug.7) | actual -58700000000B | previous 558900000000B"
+    },
+    {
+      "id": "em:jjsj_rbsj:202608143841030238",
+      "time": "2026-08-14 07:50:36",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至8月7日當週外資買進日股-3685億日元，前值-3925億日元。"
     },
     {
       "id": "mkt:019ffd88-e0af-7aab-902f-d99f5d49d1cc",
