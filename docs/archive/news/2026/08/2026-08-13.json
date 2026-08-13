@@ -1,7 +1,133 @@
 {
   "date": "2026-08-13",
-  "count": 1647,
+  "count": 1664,
   "items": [
+    {
+      "id": "te:economy:575044",
+      "time": "2026-08-13 17:09:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Industrial Production Mom",
+        "Importance 2"
+      ],
+      "text": "Euro Area Industrial Output Stalls in June — Industrial production in the Euro Area was unchanged in June 2026, after a 0.3% rise in May and compared with market expectations of a 0.1% decrease. Output rebounded for durable consumer goods (0.3% vs -1.3% in May) and continued to increase for non-durable consumer (3% vs 3.3%) and energy (1.5% vs 2.6%). On the other hand, production fell for intermediate goods (-0.8% vs -0.2%) and capital goods (-1.4% vs 0.5%). Among the bloc’s largest economies, industrial production rose 0.2% in Germany, was unchanged in France and declined 0.7% in Spain. Year-over-year, industrial production increased 0.1%, after a 0.1% decrease in June."
+    },
+    {
+      "id": "5039072",
+      "time": "2026-08-13 17:09:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿里巴巴持有的易居中國股份由7.27%降至6.90%。"
+    },
+    {
+      "id": "mkt:019ffa61-fe53-7aab-9020-3bf7ed9ff2b3",
+      "time": "2026-08-13 17:09:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's Defense Ministry said allies plan to hold joint military exercises under an agreement."
+    },
+    {
+      "id": "5039070",
+      "time": "2026-08-13 17:08:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【洛陽鉬業：將於8月21日召開2026年半年度業績說明會】洛陽鉬業公告稱，公司擬於8月19日盤後釋出2026年半年度報告，並於8月21日10:00 - 11:00舉行半年度業績說明會。會議將以網路互動形式在上海證券交易所上證路演中心進行。參加人員包括公司董事長、獨立董事、首席財務官及董事會秘書。投資者可在說明會期間線上參與提問，也可於8月14日至20日16:00前預徵集提問。說明會結束後，投資者可透過上證路演中心檢視情況及內容。"
+    },
+    {
+      "id": "5039069",
+      "time": "2026-08-13 17:08:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國神華：7月商品煤產量4340萬噸，同比-3.1%】中國神華公告，2026年7月商品煤產量4340萬噸，同比-3.1%，煤炭銷售量5310萬噸，同比-4.5%；總發電量27.22十億千瓦時，同比-5.3%，總售電量25.41十億千瓦時，同比-5.5%。航運貨運量1290萬噸，同比-53.4%。"
+    },
+    {
+      "id": "5039068",
+      "time": "2026-08-13 17:08:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱已提出結束衝突新建議 俄稱“不瞭解”】當地時間8月13日，俄羅斯副外長里亞布科夫表示，俄方不瞭解烏克蘭總統澤連斯基關於結束俄烏衝突的提議。里亞布科夫稱，美國總統特使威特科夫和特朗普女婿庫什納到訪俄羅斯一事仍在關注之中，一旦美方代表團的計劃明確，俄方能夠迅速安排接待。當天稍早前，烏克蘭總統澤連斯基再次強調，烏方已向美國提交俄烏衝突和平程序的新方案，目前尚未獲得美方的預期支援。澤連斯基還呼籲美方進一步介入相關和平談判、推動局勢降溫。此外，澤連斯基重申拒絕將烏軍撤出頓巴斯作為結束衝突的條件。（央視新聞）"
+    },
+    {
+      "id": "5039067",
+      "time": "2026-08-13 17:08:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遠洋集團：7月協議銷售額約為人民幣8.5億元】遠洋集團8月13日公告，7月協議銷售額約為人民幣8.5億元；協議銷售樓面面積約為61,300平方米；協議銷售均價為每平方米約人民幣13,900元。前7月累計協議銷售額約為人民幣89.9億元；累計協議銷售樓面面積約為737,500平方米；累計協議銷售均價為每平方米約人民幣12,200元。"
+    },
+    {
+      "id": "5039066",
+      "time": "2026-08-13 17:07:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "勃肯：儘管中東衝突持續在海灣地區造成不確定性，但衝突對本季度的影響比最初預期的更為有限。"
+    },
+    {
+      "id": "5039065",
+      "time": "2026-08-13 17:07:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將40多個國家列為存在非法轉運風險的國家。"
+    },
+    {
+      "id": "mkt:019ffa60-227a-7aab-9020-3369f883d722",
+      "time": "2026-08-13 17:07:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shenzhen heatwave sets multiple records】Since Aug 6 and as of 16:00 on Aug 13 the heatwave has lasted eight days. The heat intensity index reached 22.1, the third-strongest since 2008 and in the top 5%, classified as extreme. Futian national basic meteorological station recorded four consecutive days at or above 35°C; Aug 8–10 saw three straight days of 36°C or higher — the third occurrence since continuous records began in 1953, tying the historical record."
+    },
+    {
+      "id": "5039064",
+      "time": "2026-08-13 17:07:11",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗銀行高管施蘭茨離職，加盟高盛。"
+    },
+    {
+      "id": "5039063",
+      "time": "2026-08-13 17:06:46",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛對中際旭創的多頭持倉比例降至10.89%】據香港交易所披露，高盛對中際旭創股份有限公司 - H股的多頭持倉比例於2026年8月7日從11.01%降至10.89%。"
+    },
+    {
+      "id": "5039062",
+      "time": "2026-08-13 17:06:39",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【摩根大通對快手-W的多頭持倉比例降至5.83%】據香港交易所披露，摩根大通（JPMorgan）對快手科技 – W的多頭持倉比例於2026年8月10日從6.06%降至5.83%，交易的平均股價為44.37港元。"
+    },
+    {
+      "id": "5039061",
+      "time": "2026-08-13 17:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京市水務局與高德達成合作，近800個官方監測點接入“積水地圖”】近日，北京市水務局與阿里巴巴集團旗下高德達成合作，將近800個官方積水監測點位的資料接入高德“積水地圖”，實現積水深度實時更新並精確到釐米。（新浪科技）"
+    },
+    {
+      "id": "5039060",
+      "time": "2026-08-13 17:06:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報87.19美元/桶。"
+    },
     {
       "id": "mkt:019ffa5e-9dd8-7aab-9020-2c9c1090ba29",
       "time": "2026-08-13 17:05:32",
@@ -9,6 +135,22 @@
         "MKT News"
       ],
       "text": "【Shanghai backs property managers to contract with eldercare providers and introduce professional care into residential communities】Shanghai Civil Affairs Bureau and Shanghai Housing Management Bureau issued an implementation plan to advance “property+eldercare” services. Districts and neighborhood offices will select suitably mature residential communities and guide property managers to develop locally adapted forms of property-plus-eldercare. The plan supports property managers signing cooperation agreements with professional eldercare institutions to bring trained services into residential communities. Property firms that wish to provide home-and-community eldercare are encouraged to set up dedicated eldercare departments or form independent home/community eldercare service entities to offer diversified, professional services to owners."
+    },
+    {
+      "id": "5039059",
+      "time": "2026-08-13 17:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華虹宏力：執行副總裁周衛平離任】華虹宏力公告，公司執行副總裁周衛平因工作原因，申請辭去公司相關工作及職務，離任後不再擔任公司及控股子公司其他職務。"
+    },
+    {
+      "id": "5039058",
+      "time": "2026-08-13 17:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：支援物業服務企業與養老服務機構簽訂合作協議 將專業養老服務引入住宅小區】上海市民政局、上海市房屋管理局印發《關於進一步推進“物業+養老”服務的實施方案》。其中提到，各區、各街鎮結合實際，選取條件成熟的住宅小區，指導物業服務企業因地制宜發展多種形式的“物業+養老”服務。支援物業服務企業與養老服務機構簽訂合作協議，將專業養老服務引入住宅小區。鼓勵有意從事居家社群養老服務的物業服務企業，根據自身條件，透過設立養老服務部門、成立獨立的居家社群養老服務機構等方式，為業主提供多樣化、專業化的居家社群養老服務。"
     },
     {
       "id": "5039057",
