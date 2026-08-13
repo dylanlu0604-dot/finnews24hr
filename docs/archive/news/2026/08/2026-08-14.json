@@ -1,7 +1,81 @@
 {
   "date": "2026-08-14",
-  "count": 424,
+  "count": 432,
   "items": [
+    {
+      "id": "5040113",
+      "time": "2026-08-14 07:02:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【百億級私募二季度重倉股出爐，兩大方向成佈局重點】A股市場迎來2026年半年報密集披露期，頭部私募二季度重倉股也逐步浮出水面。私募排排網統計資料顯示，截至8月12日，共有14家百億級私募出現在12家上市公司前十大流通股東名單中（含多家百億級私募同時持有一隻個股的情況），合計持股市值103.43億元（按照第二季度末收盤價計算）。從變動方向看，整體呈現“新進為主、增持為輔”的佈局節奏。從行業分佈看，計算機、電子、機械裝置成為百億級私募二季度末持倉最集中的方向，兩大主線——科技與高階製造，成為佈局重點。（中證報）"
+    },
+    {
+      "id": "mkt:019ffd5c-7725-7aab-902f-5ab228fc0073",
+      "time": "2026-08-14 07:02:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Reserve Bank of Peru left its policy rate unchanged at 4.25%."
+    },
+    {
+      "id": "mkt:019ffd5b-f507-7aab-902f-5024812ad3eb",
+      "time": "2026-08-14 07:01:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Wright, U.S. energy secretary, said U.S. sanctions have strangled Iran’s economy and weakened its regional influence, and that continued economic pressure will ultimately lead to the collapse of the Iranian regime."
+    },
+    {
+      "id": "5040111",
+      "time": "2026-08-14 07:01:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "秘魯央行維持基準利率在 4.25% 不變。"
+    },
+    {
+      "id": "mkt:019ffd5a-9bf8-7aab-902f-4d001d968f06",
+      "time": "2026-08-14 07:00:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【N. Korea says U.S.-South Korea Aug. 17 Ulchi Freedom Shield war games are invasion rehearsal】N. Korea’s foreign ministry said the U.S. and South Korea will start the large-scale 2026 Ulchi Freedom Shield joint exercise on Aug. 17 and called the drills an invasion-war rehearsal. The ministry cited U.S. comments that the exercise differs from the past five years and will emphasize adapting war-execution capabilities to modern warfare, saying this signals preparation for actual military confrontation with N. Korea. Pyongyang warned the drills are more provocative and dangerous than last year and pose a serious threat to its national and regional security environment."
+    },
+    {
+      "id": "5040110",
+      "time": "2026-08-14 06:59:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【朝鮮外務省：美韓8月聯合軍演本質是侵略戰爭預演】據朝中社14日報道，朝鮮外務省發言人13日發表談話說，美國和韓國宣佈將於8月17日開始進行2026“乙支自由之盾”大規模聯合軍演，此次軍演本質是侵略戰爭預演。朝方說，美國公開表示，此次聯合軍演與過去5年的演習截然不同，將把重點放在熟練適應現代戰爭新模式的戰爭執行能力上，這表明軍演目的在於完善同朝鮮實際開展軍事對抗的準備。朝方認為，此次軍演的挑釁性和危險性遠超去年，對朝鮮的國家安全以及地區的安全環境造成嚴重威脅。（新華社）"
+    },
+    {
+      "id": "5040109",
+      "time": "2026-08-14 06:59:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：肯尼迪中心決定將特朗普名字印在大樓外牆上 】美國媒體13日報道，肯尼迪表演藝術中心董事會當天舉行投票，決定在該中心大樓外牆新增含有美國總統特朗普名字的字句，並關閉中心主樓進行翻修。報道援引知情人士的話說，肯尼迪中心董事會當天召開線上會議，決定在中心大樓外牆主標牌下方新增“由唐納德·J·特朗普總統修復和翻新”的字樣。此外，董事會還投票決定關閉中心的主樓兩年以進行翻修，較新的劇院翼樓將繼續開放。（新華社）"
+    },
+    {
+      "id": "5040108",
+      "time": "2026-08-14 06:58:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【DeepSeek Harness開發者預覽版釋出：開放原始碼，一切皆外掛】8月14日上午訊息，DeepSeek Harness 的開發者預覽版（v0.1 版本）最新面向全球 Harness 開發者開放測試，並同步以 MIT 協議開放原始碼。據悉，作為早期預覽版本，DeepSeek Harness 採用“一切皆外掛”的設計思路，透過外掛式開放架構來構建 Agent Harness：模型、工具、技能、會話、沙箱、儲存、迴圈、排程、UI 等所有 Agent 能力均由外掛組合而成，可自由替換、靈活重組。（新浪科技）"
+    },
     {
       "id": "5040107",
       "time": "2026-08-14 06:55:52",
