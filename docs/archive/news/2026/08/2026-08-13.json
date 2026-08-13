@@ -1,7 +1,78 @@
 {
   "date": "2026-08-13",
-  "count": 2807,
+  "count": 2815,
   "items": [
+    {
+      "id": "te:markets:575157",
+      "time": "2026-08-13 23:47:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Chip Producers Return to Market Lead — US stocks remained mostly higher on Thursday after soft price data consolidated bets of a Federal Reserve rate hold next month. The S&P 500 rose 0.5% to a new record and the Nasdaq jumped 0.8%. Headline and core producer prices were lower than expected in July, aligned with the tame CPI report from yesterday and limiting recent concerns of hawkish signals by FOMC members. Chip stocks extended gains from yesterday, tracking counterparts in South Korea. Reports that Anthropic is chasing an IPO and is aiming to acquire Decart AI for $6 billion continued to underpin the outlook for compute expenditures. Micron, Intel, and Marvel rose more than 6%, while Sandisk surged 15%. In turn, Cisco slumped 8% after it projected a slowdown in sales tied to AI data centers for this fiscal year. Also, bank holdings and industrial companies pulled back with Bank of America and RTX each dropping 1.5%, pressuring the Dow to below the flatline."
+    },
+    {
+      "id": "5039858",
+      "time": "2026-08-13 23:47:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西國家統計局表示，部分客戶沒有可用的資料中心。"
+    },
+    {
+      "id": "5039857",
+      "time": "2026-08-13 23:46:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國在伊朗戰爭中損失了約25%的“死神”無人機。"
+    },
+    {
+      "id": "5039856",
+      "time": "2026-08-13 23:45:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "智利中央銀行以平均每份913.00智利比索的價格賣出7300萬美元外匯遠期合約。"
+    },
+    {
+      "id": "mkt:019ffbcc-4bfa-7aab-902a-5c1da3b33585",
+      "time": "2026-08-13 23:44:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Iran supreme leader adviser says Tehran may escalate conflict if demands unmet】On the 13th an adviser to Iran's supreme leader posted on social media that if Iran's conditions are not met the supreme leader has made a strategic decision to respond by escalating the conflict. He said recent events show the United States lacks the ability to protect its Persian Gulf allies and urged advancing the \"Hormuz Economic Security Mechanism\" as the most durable path to a new regional order and to reduce reliance on U.S. military guarantees."
+    },
+    {
+      "id": "5039855",
+      "time": "2026-08-13 23:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖顧問：若條件得不到滿足 或升級衝突】伊朗最高領袖顧問穆赫貝爾13日在社交媒體上發文說，如果伊朗提出的條件得不到滿足，最高領袖已明確作出戰略決策，將採取升級衝突的方式予以回應。穆赫貝爾說，當前局勢已證明美國缺乏保護其波斯灣盟友的能力。他還表示，建立地區新秩序最為持久的路徑，在於推動實施“霍爾木茲經濟安全機制”，以擺脫對美國軍事保障的依賴。（新華社）"
+    },
+    {
+      "id": "5039854",
+      "time": "2026-08-13 23:43:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億萬富豪阿克曼旗下Pershing將推出首支風險投資基金 押注IPO前企業】對沖基金億萬富豪比爾·阿克曼旗下投資公司正在籌備一項新的投資工具，讓投資者能夠投資首次公開募股（IPO）前的公司，成為又一家推出新基金、為投資者提供高增長初創企業投資敞口的公司。阿克曼和公司首席投資官Ryan Israel週三在致股東信中表示，Pershing Square Inc.已啟動Pershing Square Ventures Ltd.基金的籌備工作。這是一種常青型永久資本投資工具，在所投企業上市後仍可繼續持有其股份。"
+    },
+    {
+      "id": "mkt:019ffbcb-1462-7aab-902a-54de73f4fd77",
+      "time": "2026-08-13 23:43:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Billionaire Bill Ackman's Pershing Square plans to launch its first venture-capital fund to invest in pre-IPO companies."
+    },
     {
       "id": "mkt:019ffbca-d1c2-7aab-902a-4aae553e3c57",
       "time": "2026-08-13 23:43:20",
