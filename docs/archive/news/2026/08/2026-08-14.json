@@ -1,7 +1,26 @@
 {
   "date": "2026-08-14",
-  "count": 222,
+  "count": 224,
   "items": [
+    {
+      "id": "mkt:019ffc9b-a97a-7aab-902c-f3b4f716fb72",
+      "time": "2026-08-14 03:31:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【International oil prices fall on 13th】NYMEX September light sweet crude fell $2.02 to $81.25 a barrel, down 2.43%. Brent October fell $1.91 to $87.07 a barrel, down 2.15%."
+    },
+    {
+      "id": "5039997",
+      "time": "2026-08-14 03:31:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價13日下跌】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格下跌2.02美元，收於每桶81.25美元，跌幅為2.43%；10月交貨的倫敦布倫特原油期貨價格下跌1.91美元，收於每桶87.07美元，跌幅為2.15%。"
+    },
     {
       "id": "mkt:019ffc95-487f-7aab-902c-ee3518537a79",
       "time": "2026-08-14 03:24:29",
