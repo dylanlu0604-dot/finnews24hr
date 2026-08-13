@@ -1,7 +1,82 @@
 {
   "date": "2026-08-14",
-  "count": 95,
+  "count": 102,
   "items": [
+    {
+      "id": "mkt:019ffc1c-f95c-7aab-902b-b88da310f241",
+      "time": "2026-08-14 01:13:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi shelling struck villages in Saada province in northern Yemen, Yemen's Saba news agency reported."
+    },
+    {
+      "id": "mkt:019ffc1b-df9f-7aab-902b-b079c9eba874",
+      "time": "2026-08-14 01:11:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC, citing sources, reports ANTHROPIC's CFO is leading early investor outreach for an IPO; valuation has not yet been discussed."
+    },
+    {
+      "id": "5039919",
+      "time": "2026-08-14 01:11:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ZOETIS公司股價因其治療螺旋蠅藥物獲得緊急使用授權而上漲。"
+    },
+    {
+      "id": "mkt:019ffc1a-9f63-7aab-902b-ab2ac723099a",
+      "time": "2026-08-14 01:10:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US 30-year Treasury yield slightly recovered after the 30-year auction; latest print down 2.9 bps at 5.217%."
+    },
+    {
+      "id": "mkt:019ffc1a-5ab4-7aab-902b-a63c3f1f1bbc",
+      "time": "2026-08-14 01:10:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O) released updates to its Gemini Flash series, but rollout of its top-tier model upgrade has been delayed."
+    },
+    {
+      "id": "5039918",
+      "time": "2026-08-14 01:10:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美法官駁回特朗普政府針對哈佛大學的訴訟】當地時間8月13日，美國馬薩諸塞州地區法院法官理查德·斯特恩斯駁回特朗普政府針對哈佛大學提起的訴訟。該訴訟指控哈佛大學未能保護猶太和以色列學生免受騷擾。斯特恩斯在裁決中表示，特朗普政府今年3月提起的訴訟未能合理證明哈佛大學校園內目前仍存在違反聯邦民權法的行為。（央視新聞）"
+    },
+    {
+      "id": "mkt:019ffc19-e01b-7aab-902b-9e31dee39b67",
+      "time": "2026-08-14 01:09:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O): GEMINI 3.7 Flash outperforms GEMINI 3.6 Flash on complex document processing."
+    },
     {
       "id": "5039917",
       "time": "2026-08-14 01:08:42",
