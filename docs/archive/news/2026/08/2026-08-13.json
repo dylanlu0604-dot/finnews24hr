@@ -1,7 +1,104 @@
 {
   "date": "2026-08-13",
-  "count": 2510,
+  "count": 2521,
   "items": [
+    {
+      "id": "5039677",
+      "time": "2026-08-13 21:48:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "辛鮑姆：墨西哥救援隊伍未獲得哥倫比亞方面批准。"
+    },
+    {
+      "id": "5039676",
+      "time": "2026-08-13 21:47:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【費城半導體指數漲1%】費城半導體指數漲1%，報12543.52點。英偉達股價上漲0.71%，博通股價上漲1.86%，超威半導體股價上漲2.62%，阿斯麥股價上漲2.05%，英特爾股價上漲2.61%。"
+    },
+    {
+      "id": "5039675",
+      "time": "2026-08-13 21:47:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東海警局查獲特大跨區域非法捕撈案 涉案金額約4000萬元】今天（8月13日）記者從廣東海警局獲悉，廣東海警局聯合廣東省公安廳、廣東省海洋綜合執法總隊，成功查獲一起特大跨區域非法捕撈案。現場抓獲涉案人員55名，查扣涉案漁船6艘、運輸車輛9臺，查扣非法捕撈漁獲物約5噸、蟹籠3600餘個，初步查實涉案金額約4000萬元。（央視新聞）"
+    },
+    {
+      "id": "5039674",
+      "time": "2026-08-13 21:47:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本關東地區遭遇強降雨】受暖溼氣流與冷空氣影響，包括東京在內的日本關東地區13日遭遇強降雨，導致數萬戶使用者停電，併發生山體滑坡。日本氣象廳當晚對千葉縣的多個市釋出5級大雨特別警報，這是日本降雨預警系統中的最高階別警報。氣象廳說，截至當地時間19時的一個小時內，千葉縣八千代市附近的降雨量達到約120毫米，四街道市附近的降雨量達約100毫米。（新華社）"
+    },
+    {
+      "id": "mkt:019ffb60-9072-7aab-9027-34ac032fed51",
+      "time": "2026-08-13 21:47:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US-Iran talks deadlock as control of Strait of Hormuz becomes key impasse】US-Iran negotiations to end the conflict have stalled after terms of a June interim peace accord collapsed over control of the Strait of Hormuz. Iran says it will only fully reopen the strait after receiving war reparations and sets six conditions: no threats or insults to Iran, a permanent end to hostilities against Iran and its allies, removal of the US naval blockade, payment of war damages, lifting of sanctions, and unfreezing of Iranian assets. Trump has demanded Iran compensate for what he describes as US casualties. Iran says it is finalizing a new bilateral shipping channel with Oman; Trump asserts the US Navy has full control of the waterway."
+    },
+    {
+      "id": "5039673",
+      "time": "2026-08-13 21:46:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Q2業績不及預期 Cerebras Systems開盤大跌超15%】週四，“英偉達挑戰者”Cerebras Systems開盤大跌超15%，現報226.20美元。訊息面上，AI晶片新星Cerebras Systems公佈不及預期的第二季度業績。資料顯示，該公司Q2營收同比增長74%至1.801億美元，分析師此前預期1.94億美元;每股虧損2.98美元，分析師此前預期每股虧損0.17美元。按業務劃分，第二季度硬體營收同比下降23%，至5410萬美元。這表明這家採用創新晶片設計架構的初創企業在商業化推廣程序中仍面臨挑戰。不過，雲及其他服務營收創歷史新高，達 1.26 億美元，同比增長281%。第二季度核心毛利率為41%，比上年同期提高了約940個基點。"
+    },
+    {
+      "id": "mkt:019ffb5f-c10e-7aab-9027-2e5eb74865b1",
+      "time": "2026-08-13 21:46:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ExxonMobil said the power outage at its Rotterdam refinery has been resolved and operations have returned to normal."
+    },
+    {
+      "id": "5039672",
+      "time": "2026-08-13 21:45:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊高開高走】西部資料漲超2.5％，閃迪漲逾2％，sk海力士漲超2％，美光科技漲1.8％。"
+    },
+    {
+      "id": "5039671",
+      "time": "2026-08-13 21:45:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【一名俄軍人員在克里米亞遇襲身亡】俄羅斯聯邦安全域性13日釋出訊息說，一名俄軍人員當天在克里米亞地區的黑海港口城市塞瓦斯托波爾被炸身亡，烏克蘭情報部門指使實施此次襲擊。俄聯邦安全域性的訊息說，一名俄羅斯籍女性嫌疑人當天在塞瓦斯托波爾實施爆炸襲擊，導致一名俄軍人員死亡。在當地民眾幫助下，該嫌疑人在案發後不久被抓獲。初步調查顯示，這名嫌疑人在烏克蘭情報部門指使下實施了這起爆炸案。目前執法人員已封鎖案發現場，並繼續調查。（新華社）"
+    },
+    {
+      "id": "mkt:019ffb5e-b51e-7aab-9027-2590a5601720",
+      "time": "2026-08-13 21:45:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Zhejiang live‑streaming economy firms top 170,000】Zhejiang's live‑commerce transaction volume reached 673.4 bln yuan in 2025, with the province hosting about 70% of China’s leading MCN agencies. As of 1H this year, live‑economy related companies in Zhejiang exceeded 170,000."
+    },
+    {
+      "id": "5039670",
+      "time": "2026-08-13 21:45:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "埃克森美孚發言人稱，鹿特丹煉油廠的斷電故障已得到解決，目前運營一切正常。"
+    },
     {
       "id": "5039669",
       "time": "2026-08-13 21:44:09",
