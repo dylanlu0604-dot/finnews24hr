@@ -1,7 +1,76 @@
 {
   "date": "2026-08-13",
-  "count": 1178,
+  "count": 1185,
   "items": [
+    {
+      "id": "5038765",
+      "time": "2026-08-13 14:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊CodeBuddy支援DeepSeek-V4-Pro正式版】據騰訊CodeBuddy訊息，騰訊WorkBuddy以及CodeBuddy IDE、外掛、CLI全系產品現已全面升級到DeepSeek-V4-Pro正式版。"
+    },
+    {
+      "id": "mkt:019ff9ea-7259-7aab-901b-eadb2b7ee6cf",
+      "time": "2026-08-13 14:58:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent upgrades CodeBuddy suite to DeepSeek-V4-Pro official release】Tencent's WorkBuddy and the full CodeBuddy suite—IDE, plugins and CLI—have been upgraded to the DeepSeek-V4-Pro official release."
+    },
+    {
+      "id": "5038764",
+      "time": "2026-08-13 14:56:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【民爆板塊震盪走弱，高爭民爆尾盤觸及跌停】民爆板塊震盪走弱，高爭民爆尾盤觸及跌停，佰奧智慧、保利聯合、壺化股份、廣東宏大、國泰集團等跟跌。"
+    },
+    {
+      "id": "mkt:019ff9e8-1486-7aab-901b-e1d8c0e1ca5d",
+      "time": "2026-08-13 14:56:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO said the company is steadily investing in cloud computing, edge computing and AI inference computing."
+    },
+    {
+      "id": "5038763",
+      "time": "2026-08-13 14:55:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想執行長楊元慶：我們正對雲端計算、邊緣計算與人工智慧推理計算領域進行穩定投資。"
+    },
+    {
+      "id": "5038762",
+      "time": "2026-08-13 14:55:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量3887億元。"
+    },
+    {
+      "id": "mkt:019ff9e7-93c1-7aab-901b-dbdd397124be",
+      "time": "2026-08-13 14:55:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO said AI infrastructure demand should sustain the company's growth momentum for the remainder of the year."
+    },
     {
       "id": "mkt:019ff9e6-9fc0-7aab-901b-d3af6962d64c",
       "time": "2026-08-13 14:54:28",

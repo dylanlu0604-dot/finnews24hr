@@ -1,7 +1,76 @@
 {
-  "updated": "2026-08-13 14:55:50",
-  "count": 15051,
+  "updated": "2026-08-13 14:59:50",
+  "count": 15053,
   "items": [
+    {
+      "id": "5038765",
+      "time": "2026-08-13 14:58:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊CodeBuddy支援DeepSeek-V4-Pro正式版】據騰訊CodeBuddy訊息，騰訊WorkBuddy以及CodeBuddy IDE、外掛、CLI全系產品現已全面升級到DeepSeek-V4-Pro正式版。"
+    },
+    {
+      "id": "mkt:019ff9ea-7259-7aab-901b-eadb2b7ee6cf",
+      "time": "2026-08-13 14:58:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent upgrades CodeBuddy suite to DeepSeek-V4-Pro official release】Tencent's WorkBuddy and the full CodeBuddy suite—IDE, plugins and CLI—have been upgraded to the DeepSeek-V4-Pro official release."
+    },
+    {
+      "id": "5038764",
+      "time": "2026-08-13 14:56:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【民爆板塊震盪走弱，高爭民爆尾盤觸及跌停】民爆板塊震盪走弱，高爭民爆尾盤觸及跌停，佰奧智慧、保利聯合、壺化股份、廣東宏大、國泰集團等跟跌。"
+    },
+    {
+      "id": "mkt:019ff9e8-1486-7aab-901b-e1d8c0e1ca5d",
+      "time": "2026-08-13 14:56:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO said the company is steadily investing in cloud computing, edge computing and AI inference computing."
+    },
+    {
+      "id": "5038763",
+      "time": "2026-08-13 14:55:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯想執行長楊元慶：我們正對雲端計算、邊緣計算與人工智慧推理計算領域進行穩定投資。"
+    },
+    {
+      "id": "5038762",
+      "time": "2026-08-13 14:55:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量3887億元。"
+    },
+    {
+      "id": "mkt:019ff9e7-93c1-7aab-901b-dbdd397124be",
+      "time": "2026-08-13 14:55:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0992.HK",
+        "Impact bullish"
+      ],
+      "text": "Lenovo CEO said AI infrastructure demand should sustain the company's growth momentum for the remainder of the year."
+    },
     {
       "id": "mkt:019ff9e6-9fc0-7aab-901b-d3af6962d64c",
       "time": "2026-08-13 14:54:28",
@@ -137340,55 +137409,6 @@
         "Important"
       ],
       "text": "Spain | Industrial Production SA (YoY) (Jun) | actual 1.1% | previous 3.40%"
-    },
-    {
-      "id": "mkt:019fd5de-8ced-7aab-8f9b-a6d0d99cce92",
-      "time": "2026-08-06 14:59:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Copper",
-        "Impact bearish",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100",
-        "Impact mixed"
-      ],
-      "text": "【AI sub-sector analysis (3): constraint likely to shift from chips to datacenter power/infrastructure within 18–24 months】JP Morgan (Aug. 5) says AI chips (GPU, CPU, memory, storage devices) will remain the primary bottleneck for AI compute infrastructure through most of 2026–27, but semiconductor capacity is accelerating and the industry retains high expansion flexibility with sufficient lead time. The bank warns that at some point in the next 18–24 months, delays in datacenter deployment and limits on power supply (grid and on-site/independent solutions) could supplant chips as the key constraint on AI compute. Although datacenter rollout has so far exceeded expectations and not impeded cloud AI deployment or token output, JP Morgan flags power and infrastructure bottlenecks as the market variables to watch in H2 2027 and 2028."
-    },
-    {
-      "id": "5028158",
-      "time": "2026-08-06 14:57:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德國商業銀行宣佈12億歐元股票回購計劃 季度淨利潤超出預期】德國商業銀行宣佈一項新的股票回購計劃，在競爭對手義大利裕信準備控制該行之際，執行長Bettina Orlopp試圖證明她的策略能夠帶來豐厚回報。據週四的公告，德國商業銀行將回購至多12億歐元（14億美元）的自身股票。截至6月的三個月，淨利潤為8.98億歐元，高於分析師平均預期的8.56億歐元。Orlopp在宣告中表示，“我們正在實現盈利增長，投資於未來，並每天向客戶證明我們業務的實力。”德國商業銀行正面臨裕信的進一步控制，後者計劃將其在這家德國銀行的持股比例增至近50%。裕信執行長Andrea Orcel承諾，一旦掌控該行，將會進行徹底改革，但Orlopp強烈反對他的一些提議。"
-    },
-    {
-      "id": "5028157",
-      "time": "2026-08-06 14:57:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【IMT-2030（6G）推進組星地融合（NTN）工作組近日在北京成立】在工業和資訊化部資訊通訊發展司指導下，IMT-2030（6G）推進組星地融合（NTN）工作組近日在北京成立。中國電信、中國移動、中國聯通、中國衛通、中興通訊、小米等多家上市公司位列其中，與產業鏈上下游企業及科研機構一道，共同參與6G星地融合網路總體佈局和衛星通訊核心技術培育，推動星地產業深度融合。（上證報）"
-    },
-    {
-      "id": "5028156",
-      "time": "2026-08-06 14:56:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1319億元。"
-    },
-    {
-      "id": "5028155",
-      "time": "2026-08-06 14:56:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【京東外賣上線“今日半價”】據京東訊息，京東外賣【今日半價】IP上線，從週一到週五，天天半價不重樣還有9.9元限量秒殺。"
     }
   ]
 }
