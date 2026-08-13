@@ -1,7 +1,52 @@
 {
   "date": "2026-08-14",
-  "count": 132,
+  "count": 137,
   "items": [
+    {
+      "id": "5039945",
+      "time": "2026-08-14 02:07:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空開通首條飛往巴黎的航線。"
+    },
+    {
+      "id": "5039944",
+      "time": "2026-08-14 02:07:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將Coherent目標價從每股375.00美元上調至420.00美元。"
+    },
+    {
+      "id": "mkt:019ffc4c-b58d-7aab-902b-f9f6ed3dd10f",
+      "time": "2026-08-14 02:05:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Venezuela's oil minister says Caracas has signed development agreements for the Loran gas field with BP, UAE-based XRG and Qatar-based UCC."
+    },
+    {
+      "id": "5039943",
+      "time": "2026-08-14 02:04:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國特使警告葉門面臨重新陷入大規模衝突風險】聯合國秘書長葉門問題特使漢斯·格倫德貝里當地時間13日向聯合國安理會通報葉門局勢。格倫德貝里警告說，與2022年聯合國斡旋促成停火以來相比，葉門當前面臨的重新陷入大規模衝突的風險“前所未有”。他指出，持續數年的相對平靜局面，可能在短短數週的升級中付諸東流。（央視新聞）"
+    },
+    {
+      "id": "5039942",
+      "time": "2026-08-14 02:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉石油部長稱，該國與BP、阿聯酋XRG及卡達UCC就委內瑞拉洛蘭氣田簽署協議。"
+    },
     {
       "id": "mkt:019ffc4a-df8e-7aab-902b-f01bd6832748",
       "time": "2026-08-14 02:03:13",
