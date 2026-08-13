@@ -1,7 +1,124 @@
 {
-  "updated": "2026-08-14 06:11:58",
-  "count": 15440,
+  "updated": "2026-08-14 06:16:01",
+  "count": 15439,
   "items": [
+    {
+      "id": "5040091",
+      "time": "2026-08-14 06:15:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【恒生科技指數大修 助力更多外資配置中國科技資產】近日，恒生科技指數啟動了推出以來力度最大的一次改革。根據恒生指數公司釋出的諮詢檔案，此次改革重點包括指數成分股由30只增至50只、擴大指數的科技主題範圍、採取“市值、收入增速”雙軌制選股機制等。在業內人士看來，指數的生命力在於緊跟市場趨勢變化。恒生科技指數此次修訂編制規則，契合外資配置中國科技資產的需求，有助於持續吸引境外資金流向中國硬科技產業。 (上證報)"
+    },
+    {
+      "id": "5040090",
+      "time": "2026-08-14 06:14:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【今年以來近百家公司完成定增，合計募資逾1690億元】今年以來，A股市場持續回暖，定增市場活躍度顯著提升。Wind資料顯示：以發行日期統計，今年以來已有98家A股公司完成增發，較去年同期的76家增長28.95%；合計募資1692.86億元，若剔除去年同期4家銀行定增補充流動資金，同比增長54.13%。截至8月13日收盤，有64家公司最新股價（復權）超過定增價格，最高幅度近280%。剩下的34家公司股價暫時跌破定增發行價，佔比約為35%。（上證報）"
+    },
+    {
+      "id": "mkt:019ffd31-0585-7aab-902f-0894f2779e9f",
+      "time": "2026-08-14 06:14:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's GOOLSBEE says U.S. economy remains stable."
+    },
+    {
+      "id": "5040089",
+      "time": "2026-08-14 06:14:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：美國經濟走勢穩定。"
+    },
+    {
+      "id": "mkt:019ffd2f-dac6-7aab-902f-05ad96e3b75e",
+      "time": "2026-08-14 06:13:19",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "GOOLSBEE said if some of these factors can be set aside, inf could fall back to 2%."
+    },
+    {
+      "id": "mkt:019ffd2f-5ff8-7aab-902e-fde1c3439035",
+      "time": "2026-08-14 06:12:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "GOOLSBEE of the Federal Reserve said many inflation drivers stem from tariffs, followed by oil prices, and the Fed hopes these are one-off increases."
+    },
+    {
+      "id": "5040088",
+      "time": "2026-08-14 06:12:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比： 如果能將上述部分不利因素拋在身後，通脹就有望回落至 2% 目標水平。"
+    },
+    {
+      "id": "5040087",
+      "time": "2026-08-14 06:12:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比： 諸多通脹驅動因素來自關稅以及油價，我們原本希望這些都只是一次性上漲。"
+    },
+    {
+      "id": "mkt:019ffd2e-acdd-7aab-902e-f04ba6718452",
+      "time": "2026-08-14 06:12:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's GOOLSBEE said inf data has improved and he hopes the trend continues."
+    },
+    {
+      "id": "te:markets:575191",
+      "time": "2026-08-14 06:11:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Quanta Computer earnings above expectations at 7.43 TWD — Quanta Computer (2382) released earnings per share at 7.43 TWD, compared to market expectations of 6.08 TWD."
+    },
+    {
+      "id": "5040086",
+      "time": "2026-08-14 06:11:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【原始權益人看好優質底層資產，滬市公募REITs扎堆披露增持計劃】近日，創金合信首農REIT與中信建投瀋陽國際軟體園REIT分別釋出公告稱，其原始權益人及關聯方基於對專案未來發展前景的信心和長期投資價值的認可，將啟動基金份額增持計劃。事實上，今年以來滬市已有建信中關村REIT、招商科創REIT、匯添富上海地產商業REIT、中信建投首農商業REIT、中金唯品會商業REIT等5單公募REITs專案披露增持計劃。從增持安排來看，7單專案增持主體包含原始權益人、控股股東及同一控制下關聯方，採用二級市場競價交易等方式擇機實施。專案均設定了增持份額或者金額區間，其中部分專案明確了增持下限；多數主體同步作出鎖倉承諾，增持獲得的份額在實施週期結束後，繼續鎖定較長時間不予減持，規避短期博弈交易，立足長期持有，保障增持行為的嚴肅性，向市場傳遞長期看好訊號。（上證報）"
+    },
     {
       "id": "5040085",
       "time": "2026-08-14 06:10:59",
@@ -141188,124 +141305,6 @@
         "國際"
       ],
       "text": "美聯儲穆薩萊姆： 在能源波動背景下，重點關注核心通脹。"
-    },
-    {
-      "id": "5029609",
-      "time": "2026-08-07 06:15:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普承認某些彈藥供應緊張】當地時間8月6日下午，美國總統特朗普在白宮回答記者有關美軍彈藥供應問題的提問時稱：“我們一直都需要更多（彈藥），美國某些型別彈藥的供應‘幾乎是無限的’，但也有一些彈藥稍顯緊張。”他沒有具體說明是哪些彈藥。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:573496",
-      "time": "2026-08-07 06:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Swiss Franc Depreciates by 0.63% — Top currency losers are Swiss Franc (-0.63%), Japanese Yen (-0.47%), Australian Dollar (-0.39%), Euro (-0.27%) and British Pound (-0.13%). Gains are led by Brazilian Real (0.53%) and Dollar Index (0.29%)."
-    },
-    {
-      "id": "5029608",
-      "time": "2026-08-07 06:15:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 通脹預期存在脫錨的風險土壤。"
-    },
-    {
-      "id": "mkt:019fd924-5d78-7aab-8faa-2c93097d388d",
-      "time": "2026-08-07 06:14:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says some US ammunition supplies are 'slightly tight'】On Aug 6 at the White House President Trump told reporters the US has \"always needed more\" ammunition, saying supplies of some types are \"almost unlimited\" while \"some\" are \"slightly tight\". He did not specify which types."
-    },
-    {
-      "id": "mkt:019fd923-fe6a-7aab-8faa-2439898f2e4b",
-      "time": "2026-08-07 06:14:02",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Fed's MUSALEM said he sees no conditions that could dislodge the dollar's status as the primary reserve currency."
-    },
-    {
-      "id": "mkt:019fd923-e854-7aab-8faa-18ab7dc6f80a",
-      "time": "2026-08-07 06:13:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve official Musalem said many asset prices remain elevated."
-    },
-    {
-      "id": "mkt:019fd923-e465-7aab-8faa-142004b291f3",
-      "time": "2026-08-07 06:13:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Fed's Musalem said the US remains the fastest-growing, most innovative economy and has an effective rule of law."
-    },
-    {
-      "id": "mkt:019fd923-e0d1-7aab-8faa-09f0f679d16f",
-      "time": "2026-08-07 06:13:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed official Musalem said financial conditions remain highly accommodative and the Federal Reserve is monitoring the situation."
-    },
-    {
-      "id": "5029607",
-      "time": "2026-08-07 06:13:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆：通脹預期保持穩定，符合 2% 目標。"
-    },
-    {
-      "id": "5029606",
-      "time": "2026-08-07 06:13:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【8月7日隔夜要聞一覽】\n1、特朗普稱霍爾木茲海峽協議尚未達成 正參與相關談判。\n2、特朗普宣佈對多晶矽及其衍生產品加徵關稅。\n3、特朗普簽署針對出生公民權的行政令 將嚴厲打擊“生育旅遊”。\n4、伊朗國家安全委員會正在審查題為“確保霍爾木茲海峽和波斯灣安全與可持續發展的戰略行動”的法案初稿。\n5、美國宣佈對古巴實施新一輪制裁。\n6、墨西哥央行維持6.5%利率不變。\n7、Alphabet超大規模債券發行獲1150億美元訂單。\n8、SpaceX擬為得州晶片工廠自建天然氣電廠和大型儲能設施。\n9、英國人工智慧基礎設施與雲服務初創企業NSCALE宣稱手握510億美元合同，目標9月赴美上市。"
-    },
-    {
-      "id": "5029605",
-      "time": "2026-08-07 06:12:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 各國央行正面臨更多供給衝擊。"
-    },
-    {
-      "id": "5029604",
-      "time": "2026-08-07 06:11:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲穆薩萊姆： 未見能夠動搖美元主要儲備貨幣地位的相關條件。"
     }
   ]
 }
