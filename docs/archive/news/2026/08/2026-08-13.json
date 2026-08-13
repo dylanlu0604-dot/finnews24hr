@@ -1,7 +1,98 @@
 {
   "date": "2026-08-13",
-  "count": 423,
+  "count": 433,
   "items": [
+    {
+      "id": "5038292",
+      "time": "2026-08-13 08:21:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥在貿易談判中爭取降低汽車關稅】據知情人士透露，墨西哥政府正敦促美國降低北美產汽車的關稅，以此作為修訂《美墨加協定》談判的一部分。此舉是針對特朗普政府要求汽車提高美國產零部件佔比所提出的反提案。特朗普政府目前對加拿大、墨西哥進口汽車中的非美國產零部件部分徵收 25% 關稅。墨西哥近幾周提出提案，擬擴大汽車可享受零關稅的零部件範圍，並下調北美汽車的最高關稅稅率。參與談判的知情人士表示，按照墨西哥的方案，美國僅對北美以外地區生產的汽車零部件價值徵收關稅，來自墨西哥與加拿大的零部件均可享受免稅待遇。"
+    },
+    {
+      "id": "5038291",
+      "time": "2026-08-13 08:21:00",
+      "tags": [
+        "央行"
+      ],
+      "text": "澳洲聯儲助理主席肯特：金融環境具有一些限制性。"
+    },
+    {
+      "id": "mkt:019ff87e-068c-7aab-9015-0bfec09ac3a0",
+      "time": "2026-08-13 08:20:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed above $4,430/oz, up 0.51% intraday."
+    },
+    {
+      "id": "5038290",
+      "time": "2026-08-13 08:20:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4430美元/盎司，日內漲0.51%。"
+    },
+    {
+      "id": "te:markets:574852",
+      "time": "2026-08-13 08:20:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Firm on Tame US Inflation Data — Gold held above $4,400 an ounce on Thursday, hovering near ten-week highs as relatively stable US consumer inflation reduced pressure on the Federal Reserve to raise interest rates in the near term. Data released Wednesday showed US consumer inflation slowed for a second consecutive month to 3.4% in July, while rising just 0.1% from the previous month. Investors now await producer inflation data due later in the global day for further clues on the trajectory of price pressures. Markets now see around a 40% chance of a 25 basis point rate hike from the Fed in September, down from nearly 50% a day earlier. Gold also drew support from a pullback in oil prices as investors assessed the prospects of a deal to reopen the Strait of Hormuz. However, escalating rhetoric between the US and Iran amid deadlocked negotiations reduced the likelihood of an imminent agreement."
+    },
+    {
+      "id": "5038289",
+      "time": "2026-08-13 08:20:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4490美元/盎司，日內漲0.50%。"
+    },
+    {
+      "id": "5038288",
+      "time": "2026-08-13 08:20:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【力拓旗下澳大利亞最大鋁冶煉廠獲長期電力供應保障】8月13日，力拓宣佈，Tomago鋁冶煉廠與澳大利亞政府、新南威爾士州政府達成協議，將透過一份為期10年的購電協議（PPA）獲得長期電力供應，協議覆蓋至2038年。該協議將於現有電力合同2028年12月31日到期後生效，2033年起電力將全部來自可再生能源。根據協議，Tomago鋁冶煉廠計劃到2038年投資11億澳元，其中1億澳元用於脫碳專案。Tomago鋁冶煉廠年產鋁最多59萬噸，約佔澳大利亞年產量的40%，直接僱用約1000人。力拓持有該合資企業51.55%股權。"
+    },
+    {
+      "id": "mkt:019ff87d-31f4-7aab-9015-02a7870e4062",
+      "time": "2026-08-13 08:19:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Wall Street Journal reports, citing sources, that Mexico is pushing to lower auto tariffs in USMCA negotiations."
+    },
+    {
+      "id": "5038287",
+      "time": "2026-08-13 08:19:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞儲備銀行助理行長肯特：金融環境“略顯保守”。"
+    },
+    {
+      "id": "5038286",
+      "time": "2026-08-13 08:19:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：墨西哥在與美國貿易談判中力促降低汽車關稅。"
+    },
     {
       "id": "mkt:019ff87b-71eb-7aab-9014-fd6e9d11a4cf",
       "time": "2026-08-13 08:17:47",
