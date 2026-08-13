@@ -1,7 +1,84 @@
 {
-  "updated": "2026-08-14 04:01:43",
-  "count": 15403,
+  "updated": "2026-08-14 04:05:36",
+  "count": 15410,
   "items": [
+    {
+      "id": "mkt:019ffcba-22e9-7aab-902d-3251cb5da1cd",
+      "time": "2026-08-14 04:04:44",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SEC filing shows Vanguard Portfolio Management Co. reported holding 10.2 million Class A shares of SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5040011",
+      "time": "2026-08-14 04:04:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國證券交易委員會檔案：先鋒資本管理有限責任公司披露持有 SpaceX 2660 萬股 A 類股份。"
+    },
+    {
+      "id": "mkt:019ffcb9-daa7-7aab-902d-2f3b5c01744a",
+      "time": "2026-08-14 04:04:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SEC filings show Vanguard Capital Management reported holding 26.6 mln Class A shares of SpaceX (SPCX.O)."
+    },
+    {
+      "id": "5040010",
+      "time": "2026-08-14 04:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：白宮將於下週三舉辦加密貨幣和預測專家會議。"
+    },
+    {
+      "id": "mkt:019ffcb8-e198-7aab-902d-2586abbfb4e6",
+      "time": "2026-08-14 04:03:22",
+      "tags": [
+        "MKT News",
+        "MU.O"
+      ],
+      "text": "Micron Technology (MU.O): Micron Ventures' total committed capital increased to $550 mln."
+    },
+    {
+      "id": "5040009",
+      "time": "2026-08-14 04:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "應用材料第三季度調整後每股收益3.50美元，預期3.42美元。"
+    },
+    {
+      "id": "mkt:019ffcb8-9407-7aab-902d-1db0083a2a64",
+      "time": "2026-08-14 04:03:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot palladium fell more than 4.0% intraday, trading at $1,309.61/oz."
+    },
+    {
+      "id": "mkt:019ffcb7-b0b0-7aab-902d-153c79669886",
+      "time": "2026-08-14 04:02:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Micron Ventures launches $250m fund to invest in next-generation artificial intelligence technologies."
+    },
+    {
+      "id": "5040008",
+      "time": "2026-08-14 04:01:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光科技：美光風投基金總承諾出資規模增至 5.5 億美元。"
+    },
     {
       "id": "mkt:019ffcb6-fe94-7aab-902d-0bc495303f34",
       "time": "2026-08-14 04:01:18",
@@ -140930,22 +141007,6 @@
         "其他"
       ],
       "text": "AMD 收購 Taalas，交易條款未披露。"
-    },
-    {
-      "id": "5029522",
-      "time": "2026-08-07 04:05:26",
-      "tags": [
-        "資料"
-      ],
-      "text": "路透調查：36 位經濟學家中有 27 位認為，澳大利亞儲備銀行 12 月底現金利率將維持在 4.35%。"
-    },
-    {
-      "id": "5029521",
-      "time": "2026-08-07 04:03:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛彼迎預計第三季度營收 46.9 億‑47.7 億美元，市場預期 46 億美元。"
     }
   ]
 }
