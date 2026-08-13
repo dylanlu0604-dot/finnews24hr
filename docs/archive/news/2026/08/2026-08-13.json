@@ -1,7 +1,519 @@
 {
   "date": "2026-08-13",
-  "count": 1005,
+  "count": 1052,
   "items": [
+    {
+      "id": "mkt:019ff9b8-03c2-7aab-901a-e3c1839617d4",
+      "time": "2026-08-13 14:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK June seasonally adjusted trade balance: -5.537 bln pounds, prior -1.044 bln."
+    },
+    {
+      "id": "mkt:019ff9b7-ff07-7aab-901a-df324d841b62",
+      "time": "2026-08-13 14:03:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK Q2 GDP in line with forecasts but services and investment show resilience; manufacturing drags】UK Q2 GDP rose 0.4% q/q, matching forecasts and down from 0.6% in Q1; on the year growth was 1.2% y/y versus a 1.1% forecast. June GDP rose 0.3% m/m, beating a flat consensus. Sector detail shows services resilient (June services +0.4% m/m) and business investment stronger than expected (Q2 business investment +1.7% vs -0.5% forecast), while manufacturing and industrial output dragged (June manufacturing -0.5% m/m; industrial -0.2% m/m). The pattern points to services-led resilience and firmer corporate investment rather than broad-based acceleration."
+    },
+    {
+      "id": "mkt:019ff9b7-dd78-7aab-901a-d62572bf9de2",
+      "time": "2026-08-13 14:03:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Trade Balance (Jun) | actual -5537000000B | previous -1044000000B"
+    },
+    {
+      "id": "mkt:019ff9b7-ab1c-7aab-901a-ca7405d7e19a",
+      "time": "2026-08-13 14:03:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share gold-related stocks extended losses in afternoon trade; Xiaocheng Technology fell more than 8%, Zhaojin Gold dropped over 6%, Hunan Silver and Shengda Resources also declined."
+    },
+    {
+      "id": "mkt:019ff9b7-191a-7aab-901a-c6c70dd9eb0c",
+      "time": "2026-08-13 14:02:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK June seasonally adjusted trade balance with the EU: -1.059 bln pounds; prior -11.522 bln pounds."
+    },
+    {
+      "id": "mkt:019ff9b6-f400-7aab-901a-b91c2392a7f2",
+      "time": "2026-08-13 14:02:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Trade Balance with EU (Jun) | actual -1059000000B | previous -11522000000B"
+    },
+    {
+      "id": "5038684",
+      "time": "2026-08-13 14:01:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬板塊持續走低】貴金屬板塊持續走低，曉程科技跌超7%，招金黃金、湖南白銀、山東黃金、四川黃金等跟跌。"
+    },
+    {
+      "id": "5038683",
+      "time": "2026-08-13 14:01:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時放量2372億元。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202608133840333731",
+      "time": "2026-08-13 14:01:13",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國第二季度GDP同比增長1.2%，預期1.1%，前值0.9%；第二季度GDP環比增長0.4%，預期0.4%，前值0.6%。"
+    },
+    {
+      "id": "mkt:019ff9b5-b969-7aab-901a-b66ec7f34b40",
+      "time": "2026-08-13 14:01:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK June seasonally adjusted goods trade balance -23.007 bln pounds, vs -20.5 bln expected; May revised from -18.66 bln to -21.083 bln."
+    },
+    {
+      "id": "mkt:019ff9b5-ac28-7aab-901a-ae6793571eec",
+      "time": "2026-08-13 14:01:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK preliminary Q2 total business investment QoQ +1.7% vs -0.5% expected; prior quarter revised from 0.90% to 0.9%."
+    },
+    {
+      "id": "mkt:019ff9b5-9ef3-7aab-901a-a163f65d850c",
+      "time": "2026-08-13 14:00:57",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK Q2 GDP preliminary QoQ +0.4% (expected +0.4%; prior +0.6%)."
+    },
+    {
+      "id": "mkt:019ff9b5-9ed6-7aab-901a-9f07287f0a8e",
+      "time": "2026-08-13 14:00:57",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK June GDP MoM +0.3% vs 0.0% expected; May revised from +0.1% to 0.0%."
+    },
+    {
+      "id": "5038682",
+      "time": "2026-08-13 14:00:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西對華聚氯乙烯樹脂作出第三次反傾銷日落複審終裁，決定繼續徵收為期5年的反傾銷稅】8月6日，巴西外貿委員會管理執行委員會發布2026年第947號決議，對原產於中國的聚氯乙烯樹脂作出第三次反傾銷日落複審終裁，決定繼續徵收為期5年的反傾銷稅，稅率為21.6%。"
+    },
+    {
+      "id": "mkt:019ff9b5-9000-7aab-901a-96a6acc60444",
+      "time": "2026-08-13 14:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK construction output YoY (June) -2.3% vs -2.4% expected; prior reading revised to -2.0% from -1.8%."
+    },
+    {
+      "id": "mkt:019ff9b5-8f9d-7aab-901a-8b38ad1a4602",
+      "time": "2026-08-13 14:00:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK Q2 GDP preliminary annualized 1.2% vs 1.10% expected; prior 0.90%."
+    },
+    {
+      "id": "mkt:019ff9b5-8f4d-7aab-901a-8626e05248aa",
+      "time": "2026-08-13 14:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK Q2 total business investment YoY preliminary 0.8%; prior figure revised from -1.30% to -1.3%."
+    },
+    {
+      "id": "mkt:019ff9b5-844a-7aab-901a-7c305e517918",
+      "time": "2026-08-13 14:00:50",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK June seasonally adjusted non-EU trade balance: £10.448 bln deficit; May revised from a £7.138 bln deficit to a £9.583 bln deficit."
+    },
+    {
+      "id": "mkt:019ff9b5-8397-7aab-901a-697087a40f04",
+      "time": "2026-08-13 14:00:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK manufacturing output fell 0.5% MoM in June (consensus -0.2%); May's print was revised down from +0.1% to -0.2%."
+    },
+    {
+      "id": "mkt:019ff9b5-8445-7aab-901a-71b0b2c110a4",
+      "time": "2026-08-13 14:00:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK industrial production fell 0.2% MoM in June, versus a 0.1% rise expected; May's figure was revised to -0.7% from -0.5%."
+    },
+    {
+      "id": "mkt:019ff9b5-831e-7aab-901a-6163c82f76b3",
+      "time": "2026-08-13 14:00:49",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK June services index m/m +0.4% (exp 0.0%); May revised to +0.1% from +0.3%."
+    },
+    {
+      "id": "mkt:019ff9b5-82bc-7aab-901a-544bf2b9f3a2",
+      "time": "2026-08-13 14:00:49",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "UK June industrial production YoY -0.2% (est +0.2%; prior +1.0%)."
+    },
+    {
+      "id": "mkt:019ff9b5-82bc-7aab-901a-4eb4e5c9258b",
+      "time": "2026-08-13 14:00:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK June GDP YoY 1.1% vs consensus 0.8%; prior reading revised to 1.2% from 1.3%."
+    },
+    {
+      "id": "mkt:019ff9b5-8258-7aab-901a-454e4f3c2574",
+      "time": "2026-08-13 14:00:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK June services index YoY 1.6% (exp. 1.4%); May revised to 1.5% from 1.7%."
+    },
+    {
+      "id": "mkt:019ff9b5-831d-7aab-901a-5dc331548f91",
+      "time": "2026-08-13 14:00:40",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK June manufacturing output YoY 0.5% vs. 1.2% expected; May revised down to 2.0% from 2.30%."
+    },
+    {
+      "id": "mkt:019ff9b5-5321-7aab-901a-38b9e9ac45b9",
+      "time": "2026-08-13 14:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK June construction output MoM -0.1% vs est -0.3%; prior -0.8%."
+    },
+    {
+      "id": "5038681",
+      "time": "2026-08-13 14:00:27",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國第二季度GDP年率初值 1.2%，預期1.10%，前值0.90%。"
+    },
+    {
+      "id": "mkt:019ff9b5-5248-7aab-901a-332b82c84407",
+      "time": "2026-08-13 14:00:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK three-month GDP monthly growth for June 0.4% MoM, matching expectations of 0.4%; May revised down to 0.6% from 0.7%."
+    },
+    {
+      "id": "5038680",
+      "time": "2026-08-13 14:00:22",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月三個月GDP月率 0.4%，預期0.4%，前值由0.7%修正為0.6%。"
+    },
+    {
+      "id": "5038679",
+      "time": "2026-08-13 14:00:20",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月製造業產出月率 -0.5%，預期-0.2%，前值由0.10%修正為-0.2%。英國6月工業產出月率 -0.2%，預期0.1%，前值由-0.50%修正為-0.7%。"
+    },
+    {
+      "id": "mkt:019ff9b4-d36d-7aab-901a-2bfb70630f42",
+      "time": "2026-08-13 14:00:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Non-EU Trade Balance (Jun) | actual -10448000000B | previous -7138000000B"
+    },
+    {
+      "id": "mkt:019ff9b4-d2ba-7aab-901a-20bf4c762928",
+      "time": "2026-08-13 14:00:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Goods Trade Balance SA (Jun) | actual -23007000000B | consensus -20500000000B | previous -18660000000B"
+    },
+    {
+      "id": "mkt:019ff9b4-c791-7aab-901a-1b59510df159",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Gross Fixed Capital Formation Preliminary (YoY) (Q2) | actual 0.8% | previous -1.30%"
+    },
+    {
+      "id": "mkt:019ff9b4-c6c2-7aab-901a-11fa8c55d831",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Gross Fixed Capital Formation Preliminary (QoQ) (Q2) | actual 1.7% | consensus -0.5% | previous 0.90%"
+    },
+    {
+      "id": "mkt:019ff9b4-c6c2-7aab-901a-0b833f1c26c1",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP Preliminary (QoQ) (Q2) | actual 0.4% | consensus 0.40% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019ff9b4-c61a-7aab-901a-00b30570f668",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP Preliminary (YoY) (Q2) | actual 1.2% | consensus 1.10% | previous 0.90%"
+    },
+    {
+      "id": "mkt:019ff9b4-c5ea-7aab-9019-feda4dc53d25",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP (MoM) (Jun) | actual 0.3% | consensus 0% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019ff9b4-c3ea-7aab-9019-f5b3896bf694",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing Output (YoY) (Jun) | actual 0.5% | consensus 1.2% | previous 2.30%"
+    },
+    {
+      "id": "mkt:019ff9b4-c3e9-7aab-9019-e9d1bd19aafb",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction Output (YoY) (Jun) | actual -2.3% | consensus -2.4% | previous -1.80%"
+    },
+    {
+      "id": "mkt:019ff9b4-c3e8-7aab-9019-e08263ae4827",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP (YoY) (Jun) | actual 1.1% | consensus 0.8% | previous 1.3%"
+    },
+    {
+      "id": "mkt:019ff9b4-c3e7-7aab-9019-de8534dbe1a8",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Industrial Output (MoM) (Jun) | actual -0.2% | consensus 0.1% | previous -0.50%"
+    },
+    {
+      "id": "mkt:019ff9b4-c38e-7aab-9019-d423b19484b1",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Manufacturing Output (MoM) (Jun) | actual -0.5% | consensus -0.2% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019ff9b4-c387-7aab-9019-cbd327a0bd54",
+      "time": "2026-08-13 14:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Industrial Output (YoY) (Jun) | actual -0.2% | consensus 0.2% | previous 1.00%"
+    },
+    {
+      "id": "mkt:019ff9b4-c35c-7aab-9019-c7baf79e9b79",
+      "time": "2026-08-13 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GDP 3M/3M (MoM) (Jun) | actual 0.4% | consensus 0.4% | previous 0.7%"
+    },
+    {
+      "id": "mkt:019ff9b4-c35b-7aab-9019-b969f9457c77",
+      "time": "2026-08-13 14:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Construction Output (MoM) (Jun) | actual -0.1% | consensus -0.3% | previous -0.80%"
+    },
+    {
+      "id": "te:markets:574915",
+      "time": "2026-08-13 13:59:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Steady Near IDR 17,870 — The Indonesian rupiah hovered around IDR 17,870 per U.S. dollar on Thursday, little changed from the prior session, as the dollar index steadied ahead of July’s U.S. PPI data for more clues on price pressures and the Fed’s policy outlook. Locally, fiscal discipline remained in focus as the government pledged to cap the 2026 deficit below 3% of GDP, as tax receipts surged over 23% yoy in January–July, underscoring stronger revenue collection. Meanwhile, the 2027 budget proposal, set for Friday, may sustain a consumption-driven orientation. Political attention also turned to Bank Indonesia leadership, with President Prabowo nominating Aida Budiman as senior deputy governor and Destry Damayanti as the sole candidate to succeed Perry Warjiyo. BI’s policy meeting next week, its first since Warjiyo’s exit, comes after 100bps of hikes in May–June to aid the rupiah. With July inflation hitting a three-month low of 2.88%, policymakers may gain room to weigh further tightening more cautiously."
+    },
+    {
+      "id": "5038678",
+      "time": "2026-08-13 13:59:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報65.04美元/盎司。"
+    },
     {
       "id": "5038677",
       "time": "2026-08-13 13:59:10",
