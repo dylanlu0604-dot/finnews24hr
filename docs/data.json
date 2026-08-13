@@ -1,7 +1,67 @@
 {
-  "updated": "2026-08-14 05:12:50",
-  "count": 15434,
+  "updated": "2026-08-14 05:16:39",
+  "count": 15438,
   "items": [
+    {
+      "id": "5040052",
+      "time": "2026-08-14 05:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果就應用商店費率訴訟向法院提交檔案。"
+    },
+    {
+      "id": "5040051",
+      "time": "2026-08-14 05:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果：應對 App Store 外鏈跳轉交易收取 15% 分成。"
+    },
+    {
+      "id": "5040050",
+      "time": "2026-08-14 05:14:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券監管機構突然取消原定於週五舉行、旨在提出加密貨幣監管規則的會議。美國證券交易委員會稱，因出現無法預見的日程問題，會議將另行安排。"
+    },
+    {
+      "id": "te:economy:575190",
+      "time": "2026-08-14 05:13:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Import Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Price Growth Eases in July — South Korea’s import prices rose 18.7% year-on-year in July 2026, easing from an upwardly revised 20.9% increase in June. Price gains were led by mining products, which climbed 24.9%, driven by higher costs for coal, crude petroleum and natural gas (23.8%), as well as metallic and non-metallic mineral products (32.3%). Prices for manufactured goods rose 16.7%, with coal and petroleum products up 35.5% and basic metal products increasing 28.0%. Meanwhile, prices for agricultural, forestry and marine products increased 15.2%, with marine foods rising 20.6% and agricultural foods up 18.3%."
+    },
+    {
+      "id": "mkt:019ffcf8-e93c-7aab-902e-4856b2308056",
+      "time": "2026-08-14 05:13:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Argentine LNG project has applied to join the RIGI incentive scheme, involving USD 51 bln of investment."
+    },
+    {
+      "id": "mkt:019ffcf8-57ba-7aab-902e-47a33cab9cf4",
+      "time": "2026-08-14 05:12:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russian foreign ministry rebuts Japan protest over Putin island visit】Russian Foreign Ministry spokeswoman Zakharova on the ministry website on the 13th rejected comments by Japanese Prime Minister Takaichi and Foreign Minister Motegi protesting President Putin’s landing on Iturup Island (Japan: Etorofu). She called their remarks politically meaningless, “insulting” and legally ineffective, citing WWII outcomes, allied agreements and the UN Charter to assert the Southern Kurils (Japan: Northern Territories/Northern Four Islands) belong to Russia and that Iturup is part of Russia’s “indivisible territory.” Zakharova described Takaichi’s and Motegi’s statements as “outrageous, completely unacceptable,” accused them of “revanchism,” and said they damage Japan’s neighbors and the wider Asia‑Pacific."
+    },
+    {
+      "id": "5040049",
+      "time": "2026-08-14 05:12:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷液化天然氣專案申請 510 億美元 RIGI 投資計劃。"
+    },
     {
       "id": "5040048",
       "time": "2026-08-14 05:10:19",
@@ -141268,30 +141328,6 @@
         "Importance 0"
       ],
       "text": "Consolidated Edison earnings above expectations at 0.83 USD — Consolidated Edison (ED) released earnings per share at 0.83 USD, compared to market expectations of 0.73 USD."
-    },
-    {
-      "id": "5029570",
-      "time": "2026-08-07 05:15:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：（談及生育旅遊禁令）國土安全部部長可基於人道主義理由，或在外國公民入境符合國家利益時，給予豁免。任何試圖以生育旅遊為目的進入美國的人，將被永久禁止入境。"
-    },
-    {
-      "id": "5029569",
-      "time": "2026-08-07 05:15:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.03%，報14938點。"
-    },
-    {
-      "id": "5029568",
-      "time": "2026-08-07 05:14:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：多晶矽及其衍生產品進口最低限價計劃於美國東部時間 2026 年 12 月 4 日凌晨 0 點 01 分生效。"
     }
   ]
 }
