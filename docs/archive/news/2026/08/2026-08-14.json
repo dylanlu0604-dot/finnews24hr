@@ -1,7 +1,19 @@
 {
   "date": "2026-08-14",
-  "count": 233,
+  "count": 234,
   "items": [
+    {
+      "id": "te:markets:575181",
+      "time": "2026-08-14 03:55:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 54-year High — Merck shares increased to 135.11 USD, the highest since May 1972. Over the past 4 weeks, Merck & Co gained 11.72%, and in the last 12 months, it increased 63.04%."
+    },
     {
       "id": "5040004",
       "time": "2026-08-14 03:52:40",
