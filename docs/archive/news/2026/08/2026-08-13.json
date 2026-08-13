@@ -1,7 +1,124 @@
 {
   "date": "2026-08-13",
-  "count": 2416,
+  "count": 2430,
   "items": [
+    {
+      "id": "mkt:019ffb41-18ae-7aab-9026-a65e41d262d7",
+      "time": "2026-08-13 21:12:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran academic says Trump preparing large-scale strike, seeking face‑saving exit】Mustafa Khoshcheshm, a professor at Tehran University of Applied Science, said after attempts to reopen the Strait of Hormuz faltered US President Trump is seeking a way to end the confrontation without admitting defeat. He told Iranian media Trump refuses to concede defeat and has been seeking an exit that can be portrayed as a victory; he added that, in his view, vessels currently transiting the Strait are using Iranian-controlled routes, which he interprets as evidence the US has been losing the campaign. Khoshcheshm also said Washington has ordered US diplomatic posts in the region to operate at minimum staffing, a move he said could indicate plans for a large-scale strike against Iran in the coming weeks or months."
+    },
+    {
+      "id": "5039613",
+      "time": "2026-08-13 21:12:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，相關措施將從週一起生效，直至8月31日。"
+    },
+    {
+      "id": "5039612",
+      "time": "2026-08-13 21:11:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Crowdstrike：面向各類規模機構全面開放前沿AI防護能力。"
+    },
+    {
+      "id": "5039610",
+      "time": "2026-08-13 21:11:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋼鐵紐柯公司將投資5900萬美元，擴建其旗下沃爾克拉夫特印第安納州製造工廠的產能。"
+    },
+    {
+      "id": "5039609",
+      "time": "2026-08-13 21:11:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【前7個月蘇州工業園區外貿首破萬億大關】蘇州工業園區海關訊息，今年前7個月，蘇州工業園區貨物貿易進出口首次突破萬億大關，達1.02萬億元，較去年同期增長126.8%，已超去年全年水平。其中，出口5085.9億元，增長120.9%；進口5107.2億元，增長133%。佔省、市比重分別達24.4%、46.1%，較去年同期分別提升10.8個、16.6個百分點。"
+    },
+    {
+      "id": "mkt:019ffb3f-560f-7aab-9026-980f78cce15e",
+      "time": "2026-08-13 21:10:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Poland's Prime Minister Tusk said fuel VAT will be cut to 8%."
+    },
+    {
+      "id": "mkt:019ffb3f-4af2-7aab-9026-940409474771",
+      "time": "2026-08-13 21:10:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jiangsu governor Liu Xiaotao meets China International Capital Co chairman Chen Liang】Jiangsu governor Liu Xiaotao urged China International Capital Co to use its global network to mobilize sovereign funds, top investors and long-term patient capital to support the province’s push to cultivate new productive forces and deepen tech‑industry integration. He asked CICC to focus on emerging pillar and future industries, deliver full‑spectrum, customized financing and guide high‑quality sci‑tech projects to land in Jiangsu to raise the capital market’s aggregation effect and core competitiveness. Jiangsu said it will continue to optimize the investment‑financing ecosystem and work with CICC to build precise matching platforms to improve the quality and efficiency of financial services to the real economy."
+    },
+    {
+      "id": "mkt:019ffb3e-e367-7aab-9026-89fe2eb394a4",
+      "time": "2026-08-13 21:10:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland will cut value-added tax on fuel in the final two weeks of August, Prime Minister TUSK said."
+    },
+    {
+      "id": "5039608",
+      "time": "2026-08-13 21:10:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，燃油增值稅將降至8%。"
+    },
+    {
+      "id": "mkt:019ffb3e-1ff9-7aab-9026-85ce69179816",
+      "time": "2026-08-13 21:09:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Prime Minister TUSK said the government has decided to reintroduce measures to lower fuel prices."
+    },
+    {
+      "id": "5039607",
+      "time": "2026-08-13 21:09:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "波蘭總理圖斯克表示，政府已決定重新出臺部分措施下調燃油價格。"
+    },
+    {
+      "id": "5039606",
+      "time": "2026-08-13 21:09:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "俄羅斯傑洛集團表示，已暫停其新羅西斯克港穀物碼頭的運營。"
+    },
+    {
+      "id": "5039605",
+      "time": "2026-08-13 21:09:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【大學生三件套漲價或超1000元】高校開學臨近，手機、膝上型電腦、平板組成的大學新生“開學三件套”迎來選購旺季。據央視新聞，不少學生、家長髮現，今年數碼產品價格普遍大漲，多數套裝漲價千元起步，部分高配產品漲幅近五成，往年豐富的開學優惠今年也大幅縮水。開學前，記者在多地電腦城、數碼店走訪發現，即便疊加補貼優惠，高配筆記本價格也普遍突破萬元。採訪中，記者瞭解到，電腦、平板和手機的漲價，已經持續了一年多時間，尤其是今年以來，電子消費市場一直處於價格上漲通道，主流中端手機機型普遍提價300至1000元，電腦價格漲幅明顯，顯示卡更是“一天一個價”。業內人士表示，此輪漲價的根源在於全球儲存晶片產能的結構性重構，直接導火索是AI算力需求爆發對儲存產能形成的強大“虹吸效應”。 (中新經緯)"
+    },
+    {
+      "id": "5039604",
+      "time": "2026-08-13 21:08:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國駐佛羅倫薩總領館提醒中國遊客妥善保管個人物品】近日，我館領區旅遊熱點城市比薩再次發生一起中國遊客團體所搭乘的旅遊大巴失竊案件，造成部分人員較大經濟損失。目前正值暑期旅遊旺季，為避免更多赴當地的中國遊客遭受財物損失，中國駐佛羅倫薩總領館再次提醒廣大遊客切實提高安全意識，主動加強防範。"
+    },
     {
       "id": "5039603",
       "time": "2026-08-13 21:08:15",
