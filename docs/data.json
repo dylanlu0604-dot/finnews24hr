@@ -1,7 +1,71 @@
 {
-  "updated": "2026-08-13 08:14:58",
-  "count": 15038,
+  "updated": "2026-08-13 08:18:46",
+  "count": 15040,
   "items": [
+    {
+      "id": "mkt:019ff87b-71eb-7aab-9014-fd6e9d11a4cf",
+      "time": "2026-08-13 08:17:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up 1.00% intraday at $65.97/oz."
+    },
+    {
+      "id": "5038285",
+      "time": "2026-08-13 08:17:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普在土耳其換機前 中情局對伊朗威脅評估 “可信度較低”】據報道，瞭解該份情報的美國現任及前官員稱，以色列向美方通報了一則伊朗針對美國總統唐納德・特朗普的暗殺威脅情報，該情報促使美方採取特殊秘密行動，讓特朗普搭乘另一架軍用飛機秘密離開土耳其，但美國情報官員當時對該威脅持懷疑態度。一名官員表示，以色列政府將這份暗殺威脅情報轉達給中央情報局，該局分析人員認為該情報說服力不足，並將這份質疑意見通報給特朗普政府官員。另一名官員稱，針對特朗普生命受到威脅的相關報告 “源自以色列，並非美方獲取，評估可信度較低”。"
+    },
+    {
+      "id": "5038284",
+      "time": "2026-08-13 08:16:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報65.96美元/盎司。"
+    },
+    {
+      "id": "mkt:019ff879-a8da-7aab-9014-f10e83903f51",
+      "time": "2026-08-13 08:15:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities flags domestic substitution opportunity for aluminum nitride】Huatai Securities says AI compute expansion will increase optical-module power consumption, shifting aluminum nitride (AlN) — prized for high thermal conductivity, electrical insulation and thermal compatibility — from an optional to a likely required material. Huatai estimates optical modules could drive demand for high-end AlN powder to exceed 2,000 tonnes by 2027. On the supply side, Japanese suppliers are facing raw-material shortages tied to rare-earth controls, and tight downstream demand could create a supply shortfall and upward pressure on prices. Domestic manufacturers are accelerating capacity ramp-up and customer qualification, presenting a potential domestic-replacement opportunity."
+    },
+    {
+      "id": "mkt:019ff879-9b53-7aab-9014-e910b43fdc1a",
+      "time": "2026-08-13 08:15:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Russia struck Ukraine's Izmail port; port infrastructure caught fire after the attack."
+    },
+    {
+      "id": "5038283",
+      "time": "2026-08-13 08:15:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股大幅上漲，鎧俠股價上漲6.2%，愛德萬測試上漲6.1%，Lasertec上漲4.3%。"
+    },
+    {
+      "id": "5038281",
+      "time": "2026-08-13 08:14:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "地方當局稱，俄羅斯襲擊了烏克蘭伊茲梅爾港。"
+    },
     {
       "id": "mkt:019ff877-a217-7aab-9014-e38f872ee0c7",
       "time": "2026-08-13 08:13:37",
@@ -132,6 +196,14 @@
         "MKT News"
       ],
       "text": "S&P/ASX 200 opened down 23.5 points (-0.26%) at 9,185.90 on Aug. 13 (Thursday)."
+    },
+    {
+      "id": "5038271",
+      "time": "2026-08-13 08:10:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【天風證券：金價上行對金飾企業有望形成積極催化】天風證券研報認為，金價上行對金飾企業有望形成積極催化。近兩年行業不斷推出融合了平價鑽石、彩色寶石及琺琅元素的輕量化設計，為消費者提供兼具價效比與情感價值的選擇。由於其產品融合設計、創意以及多種非黃金類材質，透過一口價形式定價，其產品毛利率或優於傳統素金產品；若其銷售佔比提升，有望最佳化金飾企業毛利率。"
     },
     {
       "id": "5038270",
@@ -137151,62 +137223,6 @@
         "公司"
       ],
       "text": "【信達生物：IBI363/TAK-928第三項關鍵註冊臨床研究完成首例受試者給藥】8月6日，信達生物製藥集團宣佈，其全球首創PD-1/IL-2α-biased雙特異性抗體融合蛋白IBI363（武田製藥研發代號：TAK-928）聯合貝伐珠單抗，對比研究者選擇治療，用於治療既往標準治療失敗或不耐受的晚期結直腸癌（CRC）的關鍵註冊臨床III期研究，完成首例受試者給藥。"
-    },
-    {
-      "id": "5027639",
-      "time": "2026-08-06 08:18:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：08月06日08時15分在西藏林芝市墨脫縣附近（北緯29.04度，東經94.69度）發生4.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "5027638",
-      "time": "2026-08-06 08:17:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加4.85噸】截至2026年08月05日，全球最大的黃金ETF SPDR Gold Trust持倉量為1014.15噸，較前一個交易日增加4.85噸。"
-    },
-    {
-      "id": "mkt:019fd46e-4eeb-7aab-8f95-c29aeb907fe0",
-      "time": "2026-08-06 08:17:06",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【Huatai Securities: Key window for A-share trend rebound in late August】Huatai Securities says short-term consensus remains unsettled; the decisive window for a trend rebound in A-shares is late August, when mid‑year results, NVIDIA’s earnings and redemption flows during any rally could determine whether tech can sustain a new leg up. Medium‑term, evidence for a second‑derivative inflection in the AI cycle is still insufficient; portfolio focus should shift from 'investment scale' to 'revenue realization', narrowing into names with high earnings visibility and limited free‑float/valuation pressure. Preferred segments: cloud and platform providers, semiconductor equipment, PCB and optical modules."
-    },
-    {
-      "id": "5027637",
-      "time": "2026-08-06 08:16:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本晶片相關股票大幅下跌，鎧俠股價下跌9.6%，東京電子下挫5.0%，愛德萬測試走低4.6%。"
-    },
-    {
-      "id": "5027636",
-      "time": "2026-08-06 08:16:15",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：A股趨勢性反彈的關鍵視窗在8月下旬】華泰證券表示，短期來看，共識仍待凝聚，趨勢性反彈的關鍵視窗在8月下旬，屆時中報、英偉達財報以及反彈過程中的贖回壓力或決定科技能否形成新一輪主升；中期來看，AI產業趨勢二階導拐點已現的證據尚不充分，但配置上應由“投入規模”轉向“收入兌現”，進一步向業績能見度高、籌碼和估值壓力較小的方向縮圈，關注雲與平臺、半導體裝置、PCB/光模組等。"
-    },
-    {
-      "id": "5027635",
-      "time": "2026-08-06 08:16:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數下跌1.3%，受電子股拖累】日本股市早盤走低，此前在人工智慧相關股票的帶領下於週三大幅上漲。電子股領跌。東京電子下跌4.7%，村田製作所下跌4.2%。美元報157.68日元，週三東京股市收盤時為157.70日元。投資者正密切關注企業盈利情況，NTT Inc.定於週四晚些時候公佈季度業績。中東局勢的發展也備受關注。日經指數下跌1.3%，報65464.44點。"
     }
   ]
 }
