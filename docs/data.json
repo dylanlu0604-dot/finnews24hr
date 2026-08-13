@@ -1,7 +1,49 @@
 {
-  "updated": "2026-08-13 11:23:30",
-  "count": 14963,
+  "updated": "2026-08-13 11:27:25",
+  "count": 14966,
   "items": [
+    {
+      "id": "mkt:019ff928-a3c6-7aab-9017-d96a63dc0062",
+      "time": "2026-08-13 11:26:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zhenbao Technology plans 520 mln yuan Guanggu semiconductor components R&D and production base】Chinese-listed semiconductor components firm Zhenbao Technology plans to invest 520 mln yuan to build an R&D and production base in Guanggu with a three-year construction period. The site will focus on silicon carbide components, high-purity silicon precision parts and aluminum nitride ceramic materials and supporting parts — consumables for front-end wafer processes such as etch and thin-film deposition. On commissioning, the base is expected to rapidly expand the company’s capacity and provide nearby supply to wafer fabs in Central China, shortening delivery times."
+    },
+    {
+      "id": "mkt:019ff928-1b1b-7aab-9017-d0ecdd4f0519",
+      "time": "2026-08-13 11:26:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US official criticizes Israel defense minister KATZ over comments on long-term presence in southern Lebanon】The Times of Israel reported on the 12th that a State Dept official rebuked Israeli defense minister KATZ after he said Israeli forces would remain in security zones in Lebanon, Syria and Gaza and had ordered preparations for a long-term deployment. The official said the remarks contradict Israel’s prior commitments and the agreed framework, warned a permanent presence in southern Lebanon would be inconsistent with those commitments and harmful to long-term peace and security, and reaffirmed US support for Lebanon’s territorial integrity and sovereignty."
+    },
+    {
+      "id": "5038534",
+      "time": "2026-08-13 11:25:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大族鐳射等成立測控技術公司 含半導體器件相關業務】企查查APP顯示，近日，深圳市藍峰測控技術有限公司成立，法定代表人為石丹國，註冊資本為1000萬元，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；終端測試裝置製造；終端測試裝置銷售等。企查查股權穿透顯示，該公司由大族鐳射旗下深圳市大族半導體測試技術有限公司等共同持股。"
+    },
+    {
+      "id": "5038533",
+      "time": "2026-08-13 11:24:23",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美官員批評以防長“長期佔領黎南部”言論】美國國務院官員當天批評以色列國防部長卡茨，指出其發表的“準備長期佔領黎巴嫩南部”言論與以色列政府此前作出的承諾相悖。據報道，卡茨12日早些時候在黎巴嫩南部聲稱，“以軍將留在黎巴嫩、敘利亞和加沙的安全區，以保衛以色列”。他還稱，已指示以軍採取一切必要措施，為在該地區的長期駐留做好準備。美國國務院一名官員就此表示：“美國期望各方按照他們同意的框架協議採取行動，而以色列明確表示過在黎巴嫩沒有領土野心。在黎南部保持永久性軍事存在，既不符合該框架協議中（以方）所作的承諾，也不利於（以黎）兩國長期的和平與安全。”這名官員強調，美國“完全支援黎巴嫩的領土完整和主權”。（新華社）"
+    },
+    {
+      "id": "em:qqyh_ozlc:202608133840249715",
+      "time": "2026-08-13 11:23:43",
+      "tags": [
+        "央行",
+        "澳洲聯儲"
+      ],
+      "text": "【澳洲聯儲助理主席肯特：澳大利亞貨幣政策目前具有緊縮性】澳洲聯儲助理主席肯特表示，澳大利亞貨幣政策目前具有緊縮性，今年年初連續三次加息如今正對經濟產生抑制作用，而澳元走強也進一步強化了這一影響。"
+    },
     {
       "id": "5038532",
       "time": "2026-08-13 11:22:24",
@@ -136394,22 +136436,6 @@
         "市場"
       ],
       "text": "【糧食概念板塊短線拉昇，金健米業漲停】糧食概念板塊短線拉昇，金健米業漲停，神農種業、秋樂種業、京糧控股、新賽股份、敦煌種業等紛紛走高。"
-    },
-    {
-      "id": "5027928",
-      "time": "2026-08-06 11:24:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭當地官員稱，俄羅斯對巴拉克利亞發動的襲擊造成三人死亡。"
-    },
-    {
-      "id": "mkt:019fd519-0ef4-7aab-8f99-b91f92fa146f",
-      "time": "2026-08-06 11:23:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Blue House says it will monitor markets, consider measures after single-stock leveraged ETF volatility】South Korea’s presidential office responded to calls to hold policy chief Kim Yong-beom responsible for recent market swings linked to the launch of single-stock leveraged ETFs, saying officials will prioritize close market monitoring and prepare appropriate responses. Communications senior secretary Seong Gi-hong said both the property and equity markets are showing elevated volatility with material effects on households, and that relevant Blue House officials are carefully reviewing situations and cautiously studying potential measures."
     }
   ]
 }
