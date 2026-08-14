@@ -1,7 +1,89 @@
 {
-  "updated": "2026-08-14 12:39:15",
-  "count": 15510,
+  "updated": "2026-08-14 12:43:11",
+  "count": 15516,
   "items": [
+    {
+      "id": "mkt:019ffe93-f4d7-7aab-9035-69cd95bb1187",
+      "time": "2026-08-14 12:42:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Magnificent 7",
+        "Market Regions",
+        "Greater China",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple trains China-specific LLM with Alibaba, shifts from third‑party reliance】Refinitiv, citing three people familiar with the matter, reports Apple (AAPL.O) has trained a China‑specific large language model in partnership with Alibaba, marking a shift from its prior strategy of largely relying on third‑party models to power AI features in China. Apple Intelligence is expected to launch in China in the coming months following an iOS update. Neither company commented."
+    },
+    {
+      "id": "5040552",
+      "time": "2026-08-14 12:42:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門對河南啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，8月14日，國家防災減災救災委員會針對今年第13號颱風“白海豚”殘渦及強降雨對河南的嚴重災害影響，啟動國家四級救災應急響應，前期派出的救災工作組繼續在災區實地檢視災情，指導和協助地方做好災情核查、群眾轉移安置、基本生活保障等救災救助工作。同日，國家防災減災救災委員會辦公室、應急管理部針對近期持續暴雨洪澇災害導致河南周口、許昌等地險情災情，根據災區群眾避險轉移和安置救助需要，會同國家糧食和物資儲備局調撥摺疊床、褥子、毛毯、夏涼被、夏裝、家庭應急包等3萬件中央救災物資，支援河南做好受災群眾安置救助工作。"
+    },
+    {
+      "id": "5040551",
+      "time": "2026-08-14 12:41:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲0.5個基點，至2.125%。"
+    },
+    {
+      "id": "5040550",
+      "time": "2026-08-14 12:41:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑富瑞上調塔吉特等百貨公司目標價】傑富瑞將塔吉特公司目標價從161美元上調至177美元；將伯靈頓百貨目標價從365美元上調至410美元。"
+    },
+    {
+      "id": "mkt:019ffe92-e0ca-7aab-9035-631849542ee2",
+      "time": "2026-08-14 12:41:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 5-year government bond yield rose 0.5 bps to 2.125%."
+    },
+    {
+      "id": "mkt:019ffe92-c8fb-7aab-9035-5dff1a477610",
+      "time": "2026-08-14 12:41:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Commission for Disaster Reduction and the Ministry of Emergency Management have activated a national level-4 disaster emergency response, allocated central relief supplies and are guiding and supporting Henan's heavy-rain and flood relief operations."
+    },
+    {
+      "id": "5040549",
+      "time": "2026-08-14 12:39:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雄忻高鐵正線鋪軌全部完成】日前，在雄安新區的雄忻高鐵鋪軌施工現場，隨著建設者將最後一對長鋼軌平穩鋪設就位，標誌著雄忻高鐵正線鋪軌全部完成，為線路按期開通運營奠定了堅實基礎。雄忻高鐵東起雄安新區雄安站，經河北省保定市，接入山西省忻州西站，設計時速350公里。雄忻高鐵正線全長342公里，建有橋樑77座、山嶺隧道27座，以及雄安新區地下段城市隧道，全線橋隧佔比達89%。"
+    },
+    {
+      "id": "5040548",
+      "time": "2026-08-14 12:39:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三一集團、翱捷科技等成立創業投資基金】企查查APP顯示，近日，廣州華胥三期創業投資基金合夥企業（有限合夥）成立，出資額6.27億元，經營範圍包含私募股權投資基金管理、創業投資基金管理服務；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該合夥企業由三一集團有限公司、翱捷科技等共同持股。"
+    },
     {
       "id": "mkt:019ffe90-9755-7aab-9035-559de24a2604",
       "time": "2026-08-14 12:38:36",
@@ -141946,22 +142028,6 @@
         "國際"
       ],
       "text": "【霍爾木茲海峽本週船舶通行量下滑，市場關注伊朗阿曼會談進展】資料顯示，受市場觀望伊朗與阿曼會談能否為重開這條關鍵水道帶來進展影響，本週週一至週四，霍爾木茲海峽通行船舶數量降至 33 艘，而上週同期為 50 艘。克拉普勒（Kpler）的資料顯示，週四共計 4 艘船舶穿越海峽，其中包括超大型油輪 “尼索斯・基亞” 號，該輪裝載約 200 萬桶伊拉克巴士拉原油。其餘船舶中，2 艘裝載液化石油氣，1 艘為小型散貨船。"
-    },
-    {
-      "id": "mkt:019fda86-82cd-7aab-8faf-915f8305e44d",
-      "time": "2026-08-07 12:41:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russian online retailer Wildberries' logistics centre in Sverdlovsk region caught fire after an attack."
-    },
-    {
-      "id": "5030046",
-      "time": "2026-08-07 12:39:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：位元組跳動瞄準打造接近Anthropic公司Mythos水平的超大規模AI模型。"
     }
   ]
 }
