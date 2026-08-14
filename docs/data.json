@@ -1,7 +1,51 @@
 {
-  "updated": "2026-08-15 01:32:48",
-  "count": 15338,
+  "updated": "2026-08-15 01:36:38",
+  "count": 15341,
   "items": [
+    {
+      "id": "mkt:01a00158-78af-7aab-9043-d58b824efd6a",
+      "time": "2026-08-15 01:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "X product head said the platform posted its highest-ever downloads last week, iOS monthly active users exceeded any prior year, and X is the fastest-growing social network at its current scale."
+    },
+    {
+      "id": "5041871",
+      "time": "2026-08-15 01:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "薩巴通訊社援引軍方訊息：此次襲擊是葉門方面對沙特戰機闖入薩達省東北部領空、侵犯本國主權行為作出的回應。"
+    },
+    {
+      "id": "5041870",
+      "time": "2026-08-15 01:34:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所布倫特原油：截至 8 月 11 日當週，投機者淨多頭頭寸增加 76026 手，至 240748 手合約。"
+    },
+    {
+      "id": "mkt:01a00156-dca1-7aab-9043-c88c494b44bd",
+      "time": "2026-08-15 01:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ICE data: speculators' net long positions in Brent crude rose by 76,026 contracts to 240,748 in the week to Aug. 11."
+    },
+    {
+      "id": "5041869",
+      "time": "2026-08-15 01:33:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：加拿大與美國貿易談判涉及關鍵礦產和國防問題】加拿大《環球郵報》援引瞭解談判情況的三名加方訊息人士和一名美方訊息人士報道稱，加拿大和美國在持續進行的貿易談判中討論了關鍵礦產和國防問題。一名加方訊息人士和一名美方訊息人士對該報表示，美國要求獲得加拿大關鍵礦產的優先購買選擇權，要求加拿大完成F-35戰鬥機的採購，要求加拿大購買雷達飛機等美國技術，作為加入美國總統特朗普“金穹”導彈防禦系統的一部分，而且美國還要求就未來石油和天然氣供應獲得某種保障。上述美方訊息人士表示，一個可能的方案是，加拿大私下作出完成F-35採購的非正式承諾，正式宣佈則推遲至第二階段協議達成時。"
+    },
     {
       "id": "mkt:01a00150-57de-7aab-9043-c2c5f8b99339",
       "time": "2026-08-15 01:27:17",
@@ -140358,27 +140402,6 @@
         "國際"
       ],
       "text": "洲際交易所歐洲分部：交易所持倉報告資料顯示，截至 8 月 4 日，羅布斯塔咖啡投機者將淨多頭頭寸削減 1591 手，至 37968 手。"
-    },
-    {
-      "id": "mkt:019fdd4b-f8be-7aab-8fbf-5bb0f4bc6cc0",
-      "time": "2026-08-08 01:36:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Axios reports a diplomat from the mediation country said Iranian negotiators are awaiting final approval from Iran's Supreme National Security Council for an agreement with Oman and the United States; \"we expect to receive this approval soon.\""
-    },
-    {
-      "id": "5031467",
-      "time": "2026-08-08 01:34:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios記者：某斡旋國一名外交官向我透露，伊朗談判代表正等待伊朗最高國家安全委員會就伊朗與阿曼、美國達成的協議作出最終批准。該外交官稱：“我們預計很快就能拿到這項批准。”"
     }
   ]
 }
