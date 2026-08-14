@@ -1,7 +1,126 @@
 {
   "date": "2026-08-15",
-  "count": 313,
+  "count": 325,
   "items": [
+    {
+      "id": "5041997",
+      "time": "2026-08-15 05:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：預計英國政府總體赤字將持續收窄，2028年降至GDP的4.2%。英國政府總體債務佔GDP比重到2028年底將升至106%。"
+    },
+    {
+      "id": "mkt:01a00218-71d7-7aab-9046-40d97ad167a4",
+      "time": "2026-08-15 05:05:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "FITCH says the UK prime minister's position within Labour has strengthened and approval ratings have risen, which will help maintain political stability for the remainder of the parliamentary term."
+    },
+    {
+      "id": "mkt:01a00218-2a5d-7aab-9046-3ebc623349bb",
+      "time": "2026-08-15 05:05:33",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "Fitch projects the UK general government debt-to-GDP ratio will rise to 106% by end-2028."
+    },
+    {
+      "id": "5041996",
+      "time": "2026-08-15 05:05:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：英國首相在工黨內部地位“更具主導性”，更高的支援率將有助於本屆議會剩餘任期內實現更大的政治穩定。"
+    },
+    {
+      "id": "5041995",
+      "time": "2026-08-15 05:05:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：查理・厄根同意取得 MobileX 控股權。"
+    },
+    {
+      "id": "mkt:01a00217-9d86-7aab-9046-31abc60ce6cb",
+      "time": "2026-08-15 05:04:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Fitch expects the UK's current-account deficit to widen modestly this year due to higher energy imports."
+    },
+    {
+      "id": "mkt:01a00216-bf8a-7aab-9046-2a2e4279fdbf",
+      "time": "2026-08-15 05:04:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch expects the UK general government deficit to continue narrowing, falling to 4.2% of GDP by 2028."
+    },
+    {
+      "id": "5041994",
+      "time": "2026-08-15 05:03:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認英國評級為“AA-”，展望穩定。"
+    },
+    {
+      "id": "5041993",
+      "time": "2026-08-15 05:03:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽就英國發表看法：預計今年因能源進口增加，經常專案赤字將溫和擴大。"
+    },
+    {
+      "id": "mkt:01a00216-3625-7aab-9046-25f9a4a0feb4",
+      "time": "2026-08-15 05:03:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "Fitch affirms the United Kingdom's sovereign rating at AA-; outlook stable."
+    },
+    {
+      "id": "5041992",
+      "time": "2026-08-15 05:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Quaest 民調：大選第二輪模擬投票，盧拉支援率 43%，弗拉維奧・博索納羅 40%。"
+    },
+    {
+      "id": "mkt:01a00215-99ae-7aab-9046-196a9a154ef0",
+      "time": "2026-08-15 05:02:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran deputy foreign minister said Tehran will not be intimidated by US threats or displays of force, responding to Trump’s remark that he would declare the Strait of Hormuz US territory."
+    },
     {
       "id": "5041991",
       "time": "2026-08-15 05:01:31",
