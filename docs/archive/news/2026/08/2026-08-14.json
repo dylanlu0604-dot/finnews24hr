@@ -1,7 +1,35 @@
 {
   "date": "2026-08-14",
-  "count": 1333,
+  "count": 1336,
   "items": [
+    {
+      "id": "te:economy:575324",
+      "time": "2026-08-14 14:56:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "France July Inflation Confirmed at 2.1% — The annual inflation rate in France accelerated to 2.1% in July 2026 from 1.8% in June, confirming preliminary estimates. The pickup was primarily driven by faster services inflation (2.2% vs 1.9% in June), particularly for other services (2.5% vs 2.1%), including accommodation (7.3% vs 6.3%) and food services (1.9% vs 1.8%). Energy price growth also accelerated (12.6% vs 11.0%), mainly for gas (17.7% vs 10.4%) and petroleum products (20.7% vs 19.7%). Meanwhile, food inflation edged up to 1.0% from 0.9%. In contrast, manufactured goods prices fell at a softer pace (-0.7% vs -1.1%), while tobacco inflation was unchanged at 3.3%. Core inflation accelerated to 1.3% from 1.0%. On a monthly basis, consumer prices rose 0.6%, rebounding from a 0.3% decline in June, driven by higher services prices (+1.6%) and energy costs (+2.3%), primarily petroleum products and gas. The EU-harmonised CPI rose 2.4% year-on-year, up from 2.0% in June, while increasing 0.6% month-on-month."
+    },
+    {
+      "id": "5040697",
+      "time": "2026-08-14 14:55:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙政府批准阿爾馬拉斯核電站運營期限延長至2030年。"
+    },
+    {
+      "id": "5040696",
+      "time": "2026-08-14 14:54:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【應急管理部緊急調派中國安能工程救援力量馳援河南周口執行賈魯河潰口險情處置任務】8月13日23時許，受賈魯河上游來水和沙潁河倒灌頂託擠壓影響，河南省周口市川匯區新北環橋下賈魯河東岸堤壩出現潰口。應急管理部調派中國安能工程救援力量200人，攜帶動力舟橋、水陸兩棲挖掘機、裝載機等大型工程機械裝備110臺（套），緊急馳援周口災區。14日上午10時，以上力量已到達現場投入搶險救援工作。（央視新聞）"
+    },
     {
       "id": "mkt:019fff0a-c466-7aab-9037-dea1c3d6ef5c",
       "time": "2026-08-14 14:52:03",
